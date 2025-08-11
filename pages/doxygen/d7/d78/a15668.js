@@ -1,10 +1,12 @@
 var a15668 =
 [
-    [ "npc_ameAI", "d7/d78/a15668.html#ad3d0ee584859b2b0fb7c6c5dbf204ad6", null ],
-    [ "JustDied", "d7/d78/a15668.html#a9b77f94f112477509c3163945ceb8201", null ],
-    [ "JustSummoned", "d7/d78/a15668.html#ab09c72c4ea50313c23a53d3862aeddea", null ],
-    [ "Reset", "d7/d78/a15668.html#a0bda0f95bd97b9e755a745a8ea41ba49", null ],
-    [ "UpdateAI", "d7/d78/a15668.html#a0a073e4c216985607aa51099044ff6c5", null ],
-    [ "WaypointReached", "d7/d78/a15668.html#a44b06a6a977d20b03ed663f1090ed43c", null ],
-    [ "DemoralizingShoutTimer", "d7/d78/a15668.html#ab5d1786735adea4bce1bba8adf42a877", null ]
+    [ "npc_wizzlecrank_shredderAI", "d7/d78/a15668.html#a055c4b426219aa3372a83d2e2021d916", null ],
+    [ "JustSummoned", "d7/d78/a15668.html#a7cad21f0b3286ed75256a49c315069ce", null ],
+    [ "Reset", "d7/d78/a15668.html#a86929e8a2f3433f37e4dda03e3011193", null ],
+    [ "UpdateEscortAI", "d7/d78/a15668.html#acb95eeebd0317f1d95bc48d6b9e7e962", null ],
+    [ "WaypointReached", "d7/d78/a15668.html#a369ae3d62d1289a1c840bdc3184b463d", null ],
+    [ "WaypointStart", "d7/d78/a15668.html#a00857e372e53950338ed71d672edb780", null ],
+    [ "IsPostEvent", "d7/d78/a15668.html#a9207ffdb39627b1262ec209fe41d6d0a", null ],
+    [ "PostEventCount", "d7/d78/a15668.html#aa5284a284c074f32cee85d29aea00f2f", null ],
+    [ "PostEventTimer", "d7/d78/a15668.html#a3c43ede2df7b1ea61b0f1625e2e1461c", null ]
 ];

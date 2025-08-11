@@ -1,5 +1,6 @@
 var a25436 =
 [
-    [ "PrepareSpellScript", "d4/d24/a25436.html#a9137654c01f41c735f477b85e4ec6d73", null ],
-    [ "Register", "d4/d24/a25436.html#af1002e90bc0801c0759393d2d4af8778", null ]
+    [ "CheckCast", "d4/d24/a25436.html#a849de7a9bc8d22ca1556e4e798807eaa", null ],
+    [ "PrepareSpellScript", "d4/d24/a25436.html#aadbfe7c69dac7cbc76aee2bfb790b612", null ],
+    [ "Register", "d4/d24/a25436.html#a2ca1fd7353e69d1028b8a9b2882d7931", null ]
 ];

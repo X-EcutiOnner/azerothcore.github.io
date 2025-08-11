@@ -1,7 +1,7 @@
 var a18712 =
 [
-    [ "OnPeriodic", "d8/ded/a18712.html#a32c4b856d6248062fbdc1dea13d876ac", null ],
-    [ "PrepareAuraScript", "d8/ded/a18712.html#a87260a1cd06190f5412f3cab0f448a01", null ],
-    [ "Register", "d8/ded/a18712.html#a00827210671b959a030655f6be5edac6", null ],
-    [ "Validate", "d8/ded/a18712.html#a7163fb09fd8568a7ef5a5c37147ed5b0", null ]
+    [ "HandleQuestComplete", "d8/ded/a18712.html#a5f1e6c4358df4e0910b2227f90b39d24", null ],
+    [ "HandleScript", "d8/ded/a18712.html#a309052e9b7c3d3747d15ab5e9c0d25fd", null ],
+    [ "PrepareSpellScript", "d8/ded/a18712.html#ac9b2786ba2dbb8d1c74af05153bb0a6f", null ],
+    [ "Register", "d8/ded/a18712.html#a3258d4517cfc758080691bab429624d7", null ]
 ];

@@ -1,6 +1,6 @@
 var a26220 =
 [
-    [ "CheckCast", "d4/de4/a26220.html#ada9b1c9e159956cb2a79610dbdb3eaf9", null ],
-    [ "PrepareSpellScript", "d4/de4/a26220.html#aa9cc041f2e0dae1eb322713d4f140ce8", null ],
-    [ "Register", "d4/de4/a26220.html#a5f0b69ffebb256d5ee2c0f9d4615c4e6", null ]
+    [ "HandleEffectScriptEffect", "d4/de4/a26220.html#a852a621f0b008dc1294dbeb9e9877a04", null ],
+    [ "PrepareSpellScript", "d4/de4/a26220.html#a8b0f656994289f260645a2ae60d9ee4b", null ],
+    [ "Register", "d4/de4/a26220.html#a1fa4dca7bae36c5e2acde0fe8b8cd801", null ]
 ];

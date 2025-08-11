@@ -1,13 +1,17 @@
 var a05384 =
 [
-    [ "MPSCQueueIntrusive", "d3/dec/a05384.html#a8e05361abed759932c49b0fc71ed09c1", null ],
-    [ "~MPSCQueueIntrusive", "d3/dec/a05384.html#a8155857825ceb1b7154ea82a63dbce08", null ],
-    [ "MPSCQueueIntrusive", "d3/dec/a05384.html#afaee06af7734e53ce50674e4ef7277b2", null ],
-    [ "Dequeue", "d3/dec/a05384.html#a798e36f41ef34c226690f76e9dc03fd6", null ],
-    [ "Enqueue", "d3/dec/a05384.html#a233004b906cfa66cdd285233105dddf7", null ],
-    [ "operator=", "d3/dec/a05384.html#a93cdd07d00b7dff8a7da5bf4846b26c7", null ],
-    [ "_dummy", "d3/dec/a05384.html#ad4d3a9cebe46fc524e474b7854a20b03", null ],
-    [ "_dummyPtr", "d3/dec/a05384.html#a115e9affe6159ae8aa08c6fc358e400c", null ],
-    [ "_head", "d3/dec/a05384.html#a7fb32fbb507e82f9e8a6c1691e281fcd", null ],
-    [ "_tail", "d3/dec/a05384.html#ac7e333db415e6301a02052c53779d1d4", null ]
+    [ "LockedQueue", "d3/dec/a05384.html#a5ce001c1fba3468b513aa7e345113128", null ],
+    [ "~LockedQueue", "d3/dec/a05384.html#a259a03cc68a36181edebe088ef669c46", null ],
+    [ "add", "d3/dec/a05384.html#a03f459044b4ffb413fb8d1ba98179ab8", null ],
+    [ "cancel", "d3/dec/a05384.html#ab3d04497f8a07c5c6b6208b136a297a4", null ],
+    [ "cancelled", "d3/dec/a05384.html#af9e2adfcd3800e9e9fa858fcacf22e2e", null ],
+    [ "empty", "d3/dec/a05384.html#a8d62ae6a4bb93f89816714ccbb519753", null ],
+    [ "next", "d3/dec/a05384.html#ac818ec56d60e2ec059857e0aaa99f8a4", null ],
+    [ "next", "d3/dec/a05384.html#acaade33a01794600c72efbf389fe7664", null ],
+    [ "peek", "d3/dec/a05384.html#af1de22fd872bb07a5ad42779d2ddbac3", null ],
+    [ "pop_front", "d3/dec/a05384.html#aa57d3a3964071fd3e0ba6b7840041c65", null ],
+    [ "readd", "d3/dec/a05384.html#a4eb9aea8b399a2acc2dd893e83d16120", null ],
+    [ "_canceled", "d3/dec/a05384.html#a175454f5bf20f3a312d83e2dd5fc5d7c", null ],
+    [ "_lock", "d3/dec/a05384.html#a64be27c5d4ab7cc4a8c559dd6e1d4ebb", null ],
+    [ "_queue", "d3/dec/a05384.html#a55ced2abb0a6dd64554597347b61ebf1", null ]
 ];

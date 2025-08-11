@@ -1,13 +1,16 @@
 var a15568 =
 [
-    [ "npc_aquementasAI", "dd/dd7/a15568.html#aad63986cdb8a65c528af3ccd114d2041", null ],
-    [ "JustEngagedWith", "dd/dd7/a15568.html#a2c12ee9c0bb94a1fcfa23c4279aea72f", null ],
-    [ "Reset", "dd/dd7/a15568.html#af71a196ba667c2a8f05940ec7ec43b5e", null ],
-    [ "SendItem", "dd/dd7/a15568.html#a60bafbd70783411236dcf3d0bfe244de", null ],
-    [ "UpdateAI", "dd/dd7/a15568.html#adc5936d7648e05c98a2cdc9998aa4c6a", null ],
-    [ "AquaJetTimer", "dd/dd7/a15568.html#a8506acc69436af869d1404bd95109e68", null ],
-    [ "FrostShockTimer", "dd/dd7/a15568.html#ad52c62a0fd8de98b194596dbc998c03d", null ],
-    [ "isFriendly", "dd/dd7/a15568.html#a9ac02cfc998bda26a5c531a9f7dbf7c4", null ],
-    [ "SendItemTimer", "dd/dd7/a15568.html#a3a0883b43056b176ef2ae55673adacf3", null ],
-    [ "SwitchFactionTimer", "dd/dd7/a15568.html#a46f64b9883ae30c3f8d677a3b85a8c6f", null ]
+    [ "npc_qiraj_war_spawnAI", "dd/dd7/a15568.html#a1122bc3961300ba39c02613ba0fcd909", null ],
+    [ "JustDied", "dd/dd7/a15568.html#ada3362722a2f7a4ac5e3e807385c30fc", null ],
+    [ "JustEngagedWith", "dd/dd7/a15568.html#a628da97f8b8bda848880c53a509ad1f5", null ],
+    [ "Reset", "dd/dd7/a15568.html#a617104afe4d5cca5cd0d98fe12cb1608", null ],
+    [ "UpdateAI", "dd/dd7/a15568.html#afeed6ddc214d7d6ba6156a90e4465cb2", null ],
+    [ "hasTarget", "dd/dd7/a15568.html#ad36ad196f757d6014f7aa7cf7afb167b", null ],
+    [ "MobGUID", "dd/dd7/a15568.html#a4148121a56275770ee84744a0288b6c5", null ],
+    [ "PlayerGUID", "dd/dd7/a15568.html#a9e4294e9b7ce773263e0bd16512602ce", null ],
+    [ "SpellTimer1", "dd/dd7/a15568.html#a8979a90473c62aad604857d92574e5f1", null ],
+    [ "SpellTimer2", "dd/dd7/a15568.html#a91cb2356a92ef987bd1ba6d31b560ec1", null ],
+    [ "SpellTimer3", "dd/dd7/a15568.html#aeea20bb2f78ece03df38a3e9aa5d8b59", null ],
+    [ "SpellTimer4", "dd/dd7/a15568.html#a301971cf821e68e6be3223d4076f8b49", null ],
+    [ "Timers", "dd/dd7/a15568.html#a460bbddfe94e9c84eaa0ad83e087ebf4", null ]
 ];

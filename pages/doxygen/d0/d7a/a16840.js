@@ -1,8 +1,6 @@
 var a16840 =
 [
-    [ "npc_phantom_hallucinationAI", "d0/d7a/a16840.html#a7b27d1c859d77220dc1c3c8323e9eef9", null ],
-    [ "EnterEvadeMode", "d0/d7a/a16840.html#a7ef7411ea780466d7c4dd185d9444aba", null ],
-    [ "JustDied", "d0/d7a/a16840.html#a5a4f05c5930a7e5bd31df2e3131f4cec", null ],
-    [ "UpdateAI", "d0/d7a/a16840.html#ad874a741c641dbac6380aa682d582d7c", null ],
-    [ "numOfUpd", "d0/d7a/a16840.html#adb78f5dcd272e8223f895079885a5461", null ]
+    [ "boss_marwynAI", "d5/d88/a16844.html", "d5/d88/a16844" ],
+    [ "boss_marwyn", "d0/d7a/a16840.html#a4be337e1a6b4ab6d48aa1380f3956ad4", null ],
+    [ "GetAI", "d0/d7a/a16840.html#af1c83878d2121163994bc327ae8e04f7", null ]
 ];

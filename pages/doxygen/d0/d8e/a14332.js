@@ -1,8 +1,6 @@
 var a14332 =
 [
-    [ "HandleDummy", "d0/d8e/a14332.html#a47b5a6741f2782359449dcaebd40fe1c", null ],
-    [ "Load", "d0/d8e/a14332.html#a7877187ad7afb2dfbd28fb7c74d40478", null ],
-    [ "PrepareSpellScript", "d0/d8e/a14332.html#af1d1ad32d41d79008d650b388353346b", null ],
-    [ "Register", "d0/d8e/a14332.html#a53a7c4c025324b205a29f92dd48aefde", null ],
-    [ "handled", "d0/d8e/a14332.html#acf3a9296a36f131f852afbf60beb7ea4", null ]
+    [ "gameobjectId", "d0/d8e/a14332.html#a5cebf652fccc66cb5f98968036405d14", null ],
+    [ "spawnIndex", "d0/d8e/a14332.html#a5e8b95d6ecf69db8736941b67e2478d8", null ],
+    [ "timestamp", "d0/d8e/a14332.html#a0c49f62b35e906637890fee896c74951", null ]
 ];

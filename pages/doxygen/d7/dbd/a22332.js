@@ -1,6 +1,6 @@
 var a22332 =
 [
-    [ "npc_wg_siege_machineAI", "d3/d07/a22336.html", "d3/d07/a22336" ],
-    [ "npc_wg_siege_machine", "d7/dbd/a22332.html#a23dc1bbeaa396cad781ec177881e7d2a", null ],
-    [ "GetAI", "d7/dbd/a22332.html#ae8b2a71378565ad5428f1ae582cacca1", null ]
+    [ "npc_vehicle_d16_propelled_deliveryAI", "d3/d07/a22336.html", "d3/d07/a22336" ],
+    [ "npc_vehicle_d16_propelled_delivery", "d7/dbd/a22332.html#a93bed362ae78231b21327994a3e4cafd", null ],
+    [ "GetAI", "d7/dbd/a22332.html#abda3dbcb251d7f1e614d089f630d0d1c", null ]
 ];

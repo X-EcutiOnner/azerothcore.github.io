@@ -1,8 +1,6 @@
 var a16076 =
 [
-    [ "OnApply", "d6/dc9/a16076.html#a96321003a002be0e4838901f03f8a5d8", null ],
-    [ "OnRemove", "d6/dc9/a16076.html#af616afe7bf87eb7fdb44bf15e9ad85d4", null ],
-    [ "PrepareAuraScript", "d6/dc9/a16076.html#ae5c880210cb50cf5320ee3595791eaa8", null ],
-    [ "Register", "d6/dc9/a16076.html#aaa2a16cff2e9aae77cdc1bb75c38f26a", null ],
-    [ "Validate", "d6/dc9/a16076.html#ad09a31813a7a03f8abf6dc9c151bb002", null ]
+    [ "SendEncounterUnit", "d6/dc9/a16076.html#a5300ba7c1a8001bbf52c56fc2e5dc331", null ],
+    [ "Execute", "d6/dc9/a16076.html#ae21b67f8fe8a0677778436563872495f", null ],
+    [ "_owner", "d6/dc9/a16076.html#a6e1569fb7fa159fe702defbab1e123b6", null ]
 ];

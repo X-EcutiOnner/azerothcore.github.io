@@ -1,5 +1,7 @@
 var a15780 =
 [
-    [ "achievement_respect_your_elders", "db/d32/a15780.html#a2fd66ada0ff7482c00b2cb417a12e88e", null ],
-    [ "OnCheck", "db/d32/a15780.html#a770922be3ab19848f7a8f43a82d78b88", null ]
+    [ "go_troll_cageAI", "db/d32/a15780.html#ae742afdb7a37d64bb852b7ecd076d007", null ],
+    [ "GossipHello", "db/d32/a15780.html#a5c91cb491021b15ba70cc8ef5f07d037", null ],
+    [ "initBlyCrewMember", "db/d32/a15780.html#a6bfb77ec97367d8704885acfef801b74", null ],
+    [ "instance", "db/d32/a15780.html#ad5d736dd6cbe7a23d03f21004cae530d", null ]
 ];

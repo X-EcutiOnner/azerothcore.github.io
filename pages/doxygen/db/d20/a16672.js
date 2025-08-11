@@ -1,6 +1,6 @@
 var a16672 =
 [
-    [ "HandleScript", "db/d20/a16672.html#a4786e0c38f03f7e671174d0641526681", null ],
-    [ "PrepareSpellScript", "db/d20/a16672.html#a7d260468f409a7fb41a39f80db5f9d63", null ],
-    [ "Register", "db/d20/a16672.html#a943117bfb56b846e99d04bd9a348af8d", null ]
+    [ "boss_novosAI", "d9/d33/a16676.html", "d9/d33/a16676" ],
+    [ "boss_novos", "db/d20/a16672.html#a898a5ee1de69df17fde66c84dd065ac1", null ],
+    [ "GetAI", "db/d20/a16672.html#aaf28e2a23a8139197dccc92ae29a8be4", null ]
 ];

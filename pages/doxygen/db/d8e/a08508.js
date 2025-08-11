@@ -1,6 +1,8 @@
 var a08508 =
 [
-    [ "PlayerCreateInfoItem", "db/d8e/a08508.html#aba5495af3d4c463f7f65fa1851879d3b", null ],
-    [ "item_amount", "db/d8e/a08508.html#a2cc481d54ec0c8a58477803364f40b2a", null ],
-    [ "item_id", "db/d8e/a08508.html#a54e5593fe1a1e06b16963c96f1840a2a", null ]
+    [ "IsInSpec", "db/d8e/a08508.html#a77968b5562467f85bda04b6f2f41ca29", null ],
+    [ "inSpellBook", "db/d8e/a08508.html#a650926fa9d1bbab336ee7ed3dd0b0b7d", null ],
+    [ "specMask", "db/d8e/a08508.html#acc1913a90ca2bd23298d3590843cfbd5", null ],
+    [ "State", "db/d8e/a08508.html#a062758af7e92f7e2263ca0a0fd329151", null ],
+    [ "talentID", "db/d8e/a08508.html#aca9b191361652002f5178179a939e41b", null ]
 ];

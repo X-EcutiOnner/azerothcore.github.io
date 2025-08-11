@@ -1,6 +1,6 @@
 var a19640 =
 [
-    [ "CosmicSmashDamageEvent", "d2/dc7/a19640.html#a5c9606791b560d8be1825a9c73f2393e", null ],
-    [ "Execute", "d2/dc7/a19640.html#a2d4b301e1b7e0852ec47280ad97871f2", null ],
-    [ "_caster", "d2/dc7/a19640.html#ab7af2459d3962831812ee2362ee9de2b", null ]
+    [ "dark_rune_protectorsAI", "d7/dd6/a19644.html", "d7/dd6/a19644" ],
+    [ "dark_rune_protectors", "d2/dc7/a19640.html#a14225a2369a8deea416fc640a2d7b075", null ],
+    [ "GetAI", "d2/dc7/a19640.html#a359e4049b7ec828177d9a36d23e9b4ef", null ]
 ];

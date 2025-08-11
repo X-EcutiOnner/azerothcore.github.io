@@ -1,6 +1,5 @@
 var a27208 =
 [
-    [ "go_l70_etc_musicAI", "d5/d05/a27208.html#a1709414fc40d48ac7c13eb8251dfbb26", null ],
-    [ "UpdateAI", "d5/d05/a27208.html#a182a5a9bbe53ced25740de9a4a368469", null ],
-    [ "_events", "d5/d05/a27208.html#aa0cda672b4491b3cfc75214038aa2132", null ]
+    [ "go_ethereum_stasis", "d5/d05/a27208.html#aaa8fc5733678a17a37c60c9853f91e62", null ],
+    [ "OnGossipHello", "d5/d05/a27208.html#ac36da8dccbebcaee605a878df3904c60", null ]
 ];

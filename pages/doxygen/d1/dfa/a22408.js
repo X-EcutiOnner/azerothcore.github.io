@@ -1,6 +1,5 @@
 var a22408 =
 [
-    [ "npc_drakuru_shacklesAI", "d8/dfe/a22412.html", "d8/dfe/a22412" ],
-    [ "npc_drakuru_shackles", "d1/dfa/a22408.html#a2b15a214b34d86597cba09b17654e4ff", null ],
-    [ "GetAI", "d1/dfa/a22408.html#a90ce98de4630771858cd3b79264a28f9", null ]
+    [ "achievement_wg_didnt_stand_a_chance", "d1/dfa/a22408.html#afb397c74f00d1f5c59a24ef74b0cd1cd", null ],
+    [ "OnCheck", "d1/dfa/a22408.html#ae575bae454689e05c161e8480a13fa18", null ]
 ];

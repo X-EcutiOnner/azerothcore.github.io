@@ -1,9 +1,6 @@
 var a19008 =
 [
-    [ "boss_grobbulus_poison_cloudAI", "da/da6/a19008.html#ac26671336eec2d84b56a3552d50f8e0a", null ],
-    [ "KilledUnit", "da/da6/a19008.html#a9c6ce4ace426f2e7aba5a7bf9430bbe3", null ],
-    [ "Reset", "da/da6/a19008.html#a1715ab3f3f25b56517f6ded84acdbd9f", null ],
-    [ "UpdateAI", "da/da6/a19008.html#af1b8dafb0aa47ba22b3601d8bf639c22", null ],
-    [ "auraVisualTimer", "da/da6/a19008.html#a74aea4294c26414d3b60983d14d36e31", null ],
-    [ "sizeTimer", "da/da6/a19008.html#a73f775b30ad36a595e0d8532067ba042", null ]
+    [ "boss_gothikAI", "d5/d06/a19012.html", "d5/d06/a19012" ],
+    [ "boss_gothik", "da/da6/a19008.html#a0c3ee990a1caf020e9a4be000f0b77e0", null ],
+    [ "GetAI", "da/da6/a19008.html#aea7aec86c4132521fb7b9b6e87baf289", null ]
 ];

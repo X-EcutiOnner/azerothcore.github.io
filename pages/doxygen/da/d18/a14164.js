@@ -1,7 +1,6 @@
 var a14164 =
 [
-    [ "GetEmptyEntry", "da/d18/a14164.html#a46dfe7b2f8598d24f17868266d1571c6", null ],
-    [ "HandleAfterHit", "da/d18/a14164.html#a4f8ab6e42ddf2188ccca2640363b9925", null ],
-    [ "PrepareSpellScript", "da/d18/a14164.html#a35f0ab4b36df3d9ec1191cbd9ba88c9e", null ],
-    [ "Register", "da/d18/a14164.html#a25e1858e1f81891443f4b7de50a5d495", null ]
+    [ "npc_brewfest_bark_trigger", "da/d18/a14164.html#a110d654792e1f5dae8b17f014ea3d425", null ],
+    [ "GetTextFor", "da/d18/a14164.html#aca27445a1d9868a2cbd3a6a89dd806df", null ],
+    [ "MoveInLineOfSight", "da/d18/a14164.html#a271a440f21b4abddd9aa087e1e64a3d0", null ]
 ];

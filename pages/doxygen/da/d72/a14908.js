@@ -1,14 +1,12 @@
 var a14908 =
 [
-    [ "boss_ayamiss", "da/d72/a14908.html#a0e923d4fa8bd6623ec58d7f64b5ea261", null ],
-    [ "DoAction", "da/d72/a14908.html#a0114a79274c34fe3dfbc8a34f39920bc", null ],
-    [ "EnterEvadeMode", "da/d72/a14908.html#a52f584da6d3d1b87fe91528dc25b8c5e", null ],
-    [ "JustDied", "da/d72/a14908.html#acddcbb06b7d5980e199ef11103fabf7c", null ],
-    [ "JustEngagedWith", "da/d72/a14908.html#aaaf1b765256f4a6342d16bd7767f92cf", null ],
-    [ "JustSummoned", "da/d72/a14908.html#a4281f761256cd93c19aea0a76239512d", null ],
-    [ "MovementInform", "da/d72/a14908.html#a6bc1f0767785efb5a5fb005b49338032", null ],
-    [ "Reset", "da/d72/a14908.html#a10111f97236c2846181aa20f7d9b64fd", null ],
-    [ "ScheduleTasks", "da/d72/a14908.html#a166238b9395a426a7333cf71a38c6c5c", null ],
-    [ "_swarmers", "da/d72/a14908.html#aa6dd99f8085d1424acf07cc124ac210c", null ],
-    [ "homePos", "da/d72/a14908.html#ab098ee0f8872d1cf9d34993c01971921", null ]
+    [ "instance_onyxias_lair_InstanceMapScript", "da/d72/a14908.html#a15c6f3f16f9cfa1f9fc1b7a2c62bcc64", null ],
+    [ "CheckAchievementCriteriaMeet", "da/d72/a14908.html#a20761aa41e0f70836c4525f17faf064f", null ],
+    [ "Initialize", "da/d72/a14908.html#a5d109b5acfa2e21e3c50e35dcdf119dd", null ],
+    [ "OnGameObjectCreate", "da/d72/a14908.html#a1e99600992673d165382d99236e0c59f", null ],
+    [ "SetBossState", "da/d72/a14908.html#a2a28e42ec49fce2ef47288c1ad4b6e61", null ],
+    [ "SetData", "da/d72/a14908.html#ac5df2ecb9f88dbedbb1f59ad2bdc8b96", null ],
+    [ "bDeepBreath", "da/d72/a14908.html#a96211e4e0e033e16d4de57b6e40f2023", null ],
+    [ "ManyWhelpsCounter", "da/d72/a14908.html#aea148b562a4f2cd752ac73240f902993", null ],
+    [ "str_data", "da/d72/a14908.html#ad0b65a3cfccdf07d017757751f4e15fa", null ]
 ];

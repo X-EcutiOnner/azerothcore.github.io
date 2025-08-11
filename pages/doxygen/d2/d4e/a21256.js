@@ -1,8 +1,7 @@
 var a21256 =
 [
-    [ "npc_frozen_orbAI", "d2/d4e/a21256.html#aa7456d1d876690e3723ee0a36866348b", null ],
-    [ "JustEngagedWith", "d2/d4e/a21256.html#afd9686dbb8503d7f756b670269aed33d", null ],
-    [ "Reset", "d2/d4e/a21256.html#a376dc1fcef9752e235008c4ba66e2463", null ],
-    [ "UpdateAI", "d2/d4e/a21256.html#a37d7cf81197fe4344c8b847753997e93", null ],
-    [ "switchTimer", "d2/d4e/a21256.html#afc63a3cf6b814df81a35b53278d722c9", null ]
+    [ "HandlePeriodicDummy", "d2/d4e/a21256.html#a295f37cddccc696d450a0c4380d43c29", null ],
+    [ "PrepareAuraScript", "d2/d4e/a21256.html#a9453aa189ba53de3d89bbab183927cfc", null ],
+    [ "Register", "d2/d4e/a21256.html#a1ca87e8523c020a9e4e0970c68957c14", null ],
+    [ "Validate", "d2/d4e/a21256.html#a475480c072aaccde7b00cf28aedff3ec", null ]
 ];

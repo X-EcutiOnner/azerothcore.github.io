@@ -1,9 +1,10 @@
 var a15548 =
 [
-    [ "go_wind_stoneAI", "d5/d10/a15548.html#a4370be2b59ea50bf5ea2285bfbf4e242", null ],
-    [ "GossipHello", "d5/d10/a15548.html#a73f129b7b636a1178fe3402cf1e6c50d", null ],
-    [ "GossipSelect", "d5/d10/a15548.html#aff4dedbf3a6fea405722f7064633edb1", null ],
-    [ "InitializeAI", "d5/d10/a15548.html#a33f98d1de05b539a66c4103b4c61de1f", null ],
-    [ "SummonNPC", "d5/d10/a15548.html#ab44f563b8f117a19ac78508c3cba72e9", null ],
-    [ "_creatureGuid", "d5/d10/a15548.html#a50ad8b248381a6d9fac7a291796966d6", null ]
+    [ "CreatureId", "d5/d10/a15548.html#a09f696e37f96e7da259fc026a7c4fd83", null ],
+    [ "DespTimer", "d5/d10/a15548.html#a0dfec745982b346ac1cd0af672be31fb", null ],
+    [ "SpawnCount", "d5/d10/a15548.html#ad5347ee83eaa00fe0721279099c48433", null ],
+    [ "SpawnTimer", "d5/d10/a15548.html#ab1720ffe0aeeb5669ab49fc32cb24750", null ],
+    [ "UsedSpawnPoint", "d5/d10/a15548.html#a7db57df5da62ebb3b52ecd70ec3d45f2", null ],
+    [ "WaveTextId", "d5/d10/a15548.html#a0a9807e31c2d5c769bc0a020941b234c", null ],
+    [ "YellTimer", "d5/d10/a15548.html#ac3f9997775f34babc79d4321fd1a6d6d", null ]
 ];

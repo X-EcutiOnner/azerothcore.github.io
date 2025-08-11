@@ -1,14 +1,17 @@
 var a11888 =
 [
-    [ "boss_general_angerforgeAI", "d2/d7c/a11888.html#af5537ccebc7ac6af49f9b6612d3a6138", null ],
-    [ "JustEngagedWith", "d2/d7c/a11888.html#ae99e11630596c62c4155a18f5a0a3dd5", null ],
-    [ "Reset", "d2/d7c/a11888.html#aff55a804bdca840016e0f6b1d11f7106", null ],
-    [ "SummonAdds", "d2/d7c/a11888.html#a218f4de2d057505f60b2977835e5fd91", null ],
-    [ "SummonMedics", "d2/d7c/a11888.html#aeabe71bde9b03a944beedeac68cffd19", null ],
-    [ "UpdateAI", "d2/d7c/a11888.html#a751c0d0015c235c8716a2a8ff18500ba", null ],
-    [ "Adds_Timer", "d2/d7c/a11888.html#a069f0008735b38c249ddfe5246025438", null ],
-    [ "Cleave_Timer", "d2/d7c/a11888.html#af80ac4df7aaab1469ee62ac8b054a0b9", null ],
-    [ "HamString_Timer", "d2/d7c/a11888.html#a04c51b1400d17454ca529d6aa257697b", null ],
-    [ "Medics", "d2/d7c/a11888.html#a06fc801b89c53430603f1a33bb3e7bd8", null ],
-    [ "MightyBlow_Timer", "d2/d7c/a11888.html#aeea6bb264e2d175d1906d8606eced529", null ]
+    [ "boss_ambassador_flamelashAI", "d2/d7c/a11888.html#a33afad6262abe2a0c9224a4b5bb3ce28", null ],
+    [ "DoAction", "d2/d7c/a11888.html#a6466b6b4a275849a813a362ef6b1d518", null ],
+    [ "getValidRandomPosition", "d2/d7c/a11888.html#ae9faa36cdc7a0d6faf0b7d4ec5b380e9", null ],
+    [ "JustDied", "d2/d7c/a11888.html#a2d2a162132b7f4c0a5faf1f86a476002", null ],
+    [ "JustEngagedWith", "d2/d7c/a11888.html#a79138cf6c886c843544b948778f91145", null ],
+    [ "JustSummoned", "d2/d7c/a11888.html#a9ec61ccf9984a9a68091ca9fba7582df", null ],
+    [ "Reset", "d2/d7c/a11888.html#ae2dd71a0edfc489645de130a8b731392", null ],
+    [ "SummonSpirits", "d2/d7c/a11888.html#a6c88f2f38d3072f5192fc0b9bd2c6e04", null ],
+    [ "TurnRunes", "d2/d7c/a11888.html#aefcdf4c5b663671fb96395e280141bbb", null ],
+    [ "UpdateAI", "d2/d7c/a11888.html#a528436b7e4e55910d1eb6e00831e7e41", null ],
+    [ "_events", "d2/d7c/a11888.html#a80aaeb0ce3a5fe101aedbdfc2489bafe", null ],
+    [ "foundValidPosition", "d2/d7c/a11888.html#a4b3a75fa687361efc85ebc0da7bf2b75", null ],
+    [ "summons", "d2/d7c/a11888.html#a6c1a07a1a59b46d65683436f32f76bf9", null ],
+    [ "validPosition", "d2/d7c/a11888.html#af11a0cddced13c34a012c8df964ab68a", null ]
 ];

@@ -1,6 +1,10 @@
 var a16132 =
 [
-    [ "OnSummon", "da/d38/a16132.html#ae2766d12fb686356b46126848f356c5a", null ],
-    [ "PrepareSpellScript", "da/d38/a16132.html#a6b9af3b70d2ce07fe8aee5292367a982", null ],
-    [ "Register", "da/d38/a16132.html#a717394bfbea621ae637f9e87efddda62", null ]
+    [ "spell_halion_marks_aura", "da/d38/a16132.html#a3351eb9a4b497e1d92bd0021c0fa01f8", null ],
+    [ "BeforeDispel", "da/d38/a16132.html#a48fb48567091c8fd9d365ea3ff8730cc", null ],
+    [ "OnRemove", "da/d38/a16132.html#a1c9fefecd33db13e06f267c41e6b0375", null ],
+    [ "PrepareAuraScript", "da/d38/a16132.html#acd5285ea5c378b31526440d263c54770", null ],
+    [ "Register", "da/d38/a16132.html#ac84d4ab83e56314ff15ee363cafd2feb", null ],
+    [ "_removeSpellId", "da/d38/a16132.html#aeef9d928c6a8739337251e144558b169", null ],
+    [ "_summonSpellId", "da/d38/a16132.html#a01e8677e4f55dbb55cca1bf16dec48b2", null ]
 ];

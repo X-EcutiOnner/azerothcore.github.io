@@ -1,6 +1,8 @@
 var a16512 =
 [
-    [ "npc_snobold_vassalAI", "dd/d68/a16516.html", "dd/d68/a16516" ],
-    [ "npc_snobold_vassal", "d0/d3d/a16512.html#a243cefbc15931ebbb555936d54583314", null ],
-    [ "GetAI", "d0/d3d/a16512.html#a77976a59f600591454fac197ded613ef", null ]
+    [ "npc_toc_pet_hunterAI", "d0/d3d/a16512.html#a751e37388df10abf4bf9df5d3f373fa3", null ],
+    [ "EnterEvadeMode", "d0/d3d/a16512.html#a7f60ea2596fa4af2209333696dbe00e0", null ],
+    [ "myCanCast", "d0/d3d/a16512.html#aefaa41a92000d8915853988ce3fd5bc4", null ],
+    [ "UpdateAI", "d0/d3d/a16512.html#aec1d16cdcb7d86d7de4de10ca34f491d", null ],
+    [ "events", "d0/d3d/a16512.html#ade038312363f976b34868ed2cbebb58d", null ]
 ];

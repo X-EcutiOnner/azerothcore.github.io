@@ -1,5 +1,6 @@
 var a19852 =
 [
-    [ "boss_flame_leviathan_overload_deviceAI", "dd/d72/a19852.html#ab28c1371c20672e717f92fbc3656fb99", null ],
-    [ "OnSpellClick", "dd/d72/a19852.html#af432be27e1b91ecf5a5a53c7b6add39e", null ]
+    [ "FilterTargets", "dd/d72/a19852.html#a38c693dd3d8fb7e04fc1e26359f12399", null ],
+    [ "PrepareSpellScript", "dd/d72/a19852.html#a86c4bb91547d8ea7eebb8e4d7bfd592e", null ],
+    [ "Register", "dd/d72/a19852.html#a4e803984a3eded2736825f631786c204", null ]
 ];

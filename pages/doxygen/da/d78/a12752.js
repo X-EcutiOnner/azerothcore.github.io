@@ -1,7 +1,8 @@
 var a12752 =
 [
-    [ "HandleDummy", "da/d78/a12752.html#ac2889b1744117f8c0bffcce04952d7c2", null ],
-    [ "PrepareSpellScript", "da/d78/a12752.html#a5738144c85424e11f33aada38273e24e", null ],
-    [ "Register", "da/d78/a12752.html#a206a4d40e082246193ba36c9080cdac1", null ],
-    [ "Validate", "da/d78/a12752.html#a0718461731d563d2c948848f60101d49", null ]
+    [ "CalcPeriodic", "da/d78/a12752.html#a493609298c152df8216641ba2e5861cd", null ],
+    [ "PrepareAuraScript", "da/d78/a12752.html#a30c2bac7e939cf7de2141f6cdfa51619", null ],
+    [ "Register", "da/d78/a12752.html#a44002db5980dfc1db816cf61fd446491", null ],
+    [ "Update", "da/d78/a12752.html#a7a1fc11cf4183c7202a929c72035d8e7", null ],
+    [ "Validate", "da/d78/a12752.html#a060e189aaa4396681d42906b65c9196f", null ]
 ];

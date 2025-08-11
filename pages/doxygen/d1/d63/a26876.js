@@ -1,7 +1,6 @@
 var a26876 =
 [
-    [ "HandleDummy", "d1/d63/a26876.html#a436ed0843e0035308c69f0854decd7f2", null ],
-    [ "PrepareSpellScript", "d1/d63/a26876.html#a42ff645d6c8e94353ae118327af5f4e6", null ],
-    [ "Register", "d1/d63/a26876.html#a0b69f667ea83dee61206bbc723020cbc", null ],
-    [ "Validate", "d1/d63/a26876.html#a93e68d77227297883aae472ef08fb67c", null ]
+    [ "PrepareAuraScript", "d1/d63/a26876.html#a65fa925d99065d028e328a92f2a13805", null ],
+    [ "Register", "d1/d63/a26876.html#a95dc732286adf4327f68e23015d58c21", null ],
+    [ "RemoveEffect", "d1/d63/a26876.html#a3f474c143f64739187b6049cac5e4b38", null ]
 ];

@@ -1,8 +1,6 @@
 var a19620 =
 [
-    [ "iron_golem_custodianAI", "d0/dbf/a19620.html#aeeeed1383f5d221eb7b5cd5d3a6ea4fb", null ],
-    [ "JustEngagedWith", "d0/dbf/a19620.html#acd67b8d4df95eb8b0d0365184e47a29c", null ],
-    [ "Reset", "d0/dbf/a19620.html#af3193696d665746eecd9c62128d8684d", null ],
-    [ "UpdateAI", "d0/dbf/a19620.html#ab1d3910b07a6c5c53f5388a10dc48775", null ],
-    [ "events", "d0/dbf/a19620.html#a9e0bcc9ae6918f9fa40cbf8085d4ec42", null ]
+    [ "boss_sjonnir_malformed_oozeAI", "dd/ddf/a19624.html", "dd/ddf/a19624" ],
+    [ "boss_sjonnir_malformed_ooze", "d0/dbf/a19620.html#ad151bc07b032b6cceed046d1b25ecc08", null ],
+    [ "GetAI", "d0/dbf/a19620.html#a22807bb07692511c5ec87073d98c2604", null ]
 ];

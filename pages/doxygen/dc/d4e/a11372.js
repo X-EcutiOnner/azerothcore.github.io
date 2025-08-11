@@ -1,8 +1,10 @@
 var a11372 =
 [
-    [ "CreatureTextId", "dc/d4e/a11372.html#ae8058e922bafc69b718ca4be1be39688", null ],
-    [ "operator<", "dc/d4e/a11372.html#ae0c693f6cf1959c79e1b3773a2f54db9", null ],
-    [ "entry", "dc/d4e/a11372.html#ad69afcf7be87d1f96611fe925b68f26a", null ],
-    [ "textGroup", "dc/d4e/a11372.html#af1d1f3f310c219c32ca9b8917d8fb67d", null ],
-    [ "textId", "dc/d4e/a11372.html#a5d45808a0b84ca11c8d05c25d26341a2", null ]
+    [ "CustomChatTextBuilder", "dc/d4e/a11372.html#a47b3e24f7100d13180ad1946647999ae", null ],
+    [ "operator()", "dc/d4e/a11372.html#ad80555f063e7de15df3c434bc90d2ca9", null ],
+    [ "_language", "dc/d4e/a11372.html#a92d1c58d76d5d450892338d0e1856dc0", null ],
+    [ "_msgType", "dc/d4e/a11372.html#a0db1501da33fde77ab3c50943666b1fd", null ],
+    [ "_source", "dc/d4e/a11372.html#ad75f22d7eb6a62d59730918f4336768c", null ],
+    [ "_target", "dc/d4e/a11372.html#aa45be322836be588d8df2b253a22ee5c", null ],
+    [ "_text", "dc/d4e/a11372.html#ab59c9b938b564329483e38466169a92c", null ]
 ];

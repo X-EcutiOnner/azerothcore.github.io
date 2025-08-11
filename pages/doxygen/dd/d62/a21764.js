@@ -1,6 +1,6 @@
 var a21764 =
 [
-    [ "HandleSendEvent", "dd/d62/a21764.html#a8b8276833404f3f69c3b7f97d95b6982", null ],
-    [ "PrepareSpellScript", "dd/d62/a21764.html#aa632d381ac415feaf226f55fc2cd8520", null ],
-    [ "Register", "dd/d62/a21764.html#a72673f5054cf269cc8da511441f7bd66", null ]
+    [ "npc_mindless_ghoulAI", "d8/d11/a21768.html", "d8/d11/a21768" ],
+    [ "npc_mindless_ghoul", "dd/d62/a21764.html#ac5bf71e719c0df04687f426a022fd65e", null ],
+    [ "GetAI", "dd/d62/a21764.html#ac5a087aa742827dc8eb0f3dc195920ec", null ]
 ];

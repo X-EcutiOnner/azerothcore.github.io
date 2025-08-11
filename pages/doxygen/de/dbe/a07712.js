@@ -1,5 +1,5 @@
 var a07712 =
 [
-    [ "IsColorValid", "de/dbe/a07712.html#a816b3afba97af88a04cd5a724e9b663c", null ],
-    [ "IsTextValid", "de/dbe/a07712.html#a54af0b68fa7891adbc3001c74e251ea1", null ]
+    [ "IsColorValid", "de/dbe/a07712.html#ab291dc8bdb852a8386c2a3d1bd18cfad", null ],
+    [ "IsTextValid", "de/dbe/a07712.html#ab9c8e4926f593058bf247f33b6089bc3", null ]
 ];

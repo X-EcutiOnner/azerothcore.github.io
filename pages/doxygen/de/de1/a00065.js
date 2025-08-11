@@ -1,22 +1,34 @@
 var a00065 =
 [
-    [ "AppenderConsole", "da/da3/a05338.html", "da/da3/a05338" ],
-    [ "ColorTypes", "de/de1/a00065.html#a6a9b1b5f775325358eae2c7e95ebe832", [
-      [ "BLACK", "de/de1/a00065.html#a6a9b1b5f775325358eae2c7e95ebe832af77fb67151d0c18d397069ad8c271ba3", null ],
-      [ "RED", "de/de1/a00065.html#a6a9b1b5f775325358eae2c7e95ebe832af80f9a890089d211842d59625e561f88", null ],
-      [ "GREEN", "de/de1/a00065.html#a6a9b1b5f775325358eae2c7e95ebe832aa60bd322f93178d68184e30e162571ca", null ],
-      [ "BROWN", "de/de1/a00065.html#a6a9b1b5f775325358eae2c7e95ebe832a1fa14482e7e4dc1332ab8c9d995fe570", null ],
-      [ "BLUE", "de/de1/a00065.html#a6a9b1b5f775325358eae2c7e95ebe832a35d6719cb4d7577c031b3d79057a1b79", null ],
-      [ "MAGENTA", "de/de1/a00065.html#a6a9b1b5f775325358eae2c7e95ebe832a56926c820ad72d0977e7ee44d9916e62", null ],
-      [ "CYAN", "de/de1/a00065.html#a6a9b1b5f775325358eae2c7e95ebe832aafe71cad474c15ce63b300c470eef8cc", null ],
-      [ "GREY", "de/de1/a00065.html#a6a9b1b5f775325358eae2c7e95ebe832a38566822dbd9408c447abfd3ed4a85d2", null ],
-      [ "YELLOW", "de/de1/a00065.html#a6a9b1b5f775325358eae2c7e95ebe832ae735a848bf82163a19236ead1c3ef2d2", null ],
-      [ "LRED", "de/de1/a00065.html#a6a9b1b5f775325358eae2c7e95ebe832a21218f0bbfa9bc5df1980d7b00b31eef", null ],
-      [ "LGREEN", "de/de1/a00065.html#a6a9b1b5f775325358eae2c7e95ebe832af140c7722cbeec108ed0498ab2e5dc81", null ],
-      [ "LBLUE", "de/de1/a00065.html#a6a9b1b5f775325358eae2c7e95ebe832aceb95882ebc29273fb1545cf9c521da5", null ],
-      [ "LMAGENTA", "de/de1/a00065.html#a6a9b1b5f775325358eae2c7e95ebe832a51603f3a2238f1121bd8ab3c5d4a1b6e", null ],
-      [ "LCYAN", "de/de1/a00065.html#a6a9b1b5f775325358eae2c7e95ebe832ad0eb86e5e042610a6d0c3fc1e86961b7", null ],
-      [ "WHITE", "de/de1/a00065.html#a6a9b1b5f775325358eae2c7e95ebe832a283fc479650da98250635b9c3c0e7e50", null ],
-      [ "NUM_COLOR_TYPES", "de/de1/a00065.html#a6a9b1b5f775325358eae2c7e95ebe832a90c1f623cb1ff125c9834ae2dc757f66", null ]
+    [ "adt_MCVT", "dc/d97/a28596.html", "dc/d97/a28596" ],
+    [ "adt_MCLQ", "d7/d4d/a28604.html", "d7/d4d/a28604" ],
+    [ "adt_MCLQ::liquid_data", "db/dca/a28612.html", "db/dca/a28612" ],
+    [ "adt_MCNK", "da/d19/a28616.html", "da/d19/a28616" ],
+    [ "adt_MCIN", "d0/d48/a28624.html", "d0/d48/a28624" ],
+    [ "adt_MCIN::adt_CELLS", "d8/d5a/a28632.html", "d8/d5a/a28632" ],
+    [ "adt_liquid_instance", "d5/d39/a28636.html", "d5/d39/a28636" ],
+    [ "adt_liquid_attributes", "d7/d06/a28640.html", "d7/d06/a28640" ],
+    [ "adt_MH2O", "dd/dec/a28644.html", "dd/dec/a28644" ],
+    [ "adt_MH2O::adt_LIQUID", "d5/df7/a28652.html", "d5/df7/a28652" ],
+    [ "adt_MFBO", "d1/dad/a28656.html", "d1/dad/a28656" ],
+    [ "adt_MFBO::plane", "d8/da2/a28664.html", "d8/da2/a28664" ],
+    [ "adt_MHDR", "d5/d71/a28668.html", "d5/d71/a28668" ],
+    [ "ADT_file", "de/d16/a28676.html", "de/d16/a28676" ],
+    [ "ADT_CELL_SIZE", "de/de1/a00065.html#a1e3d5d05087dd429cb513f26211aaad1", null ],
+    [ "ADT_CELLS_PER_GRID", "de/de1/a00065.html#aaa17abcdb17267fda5cd146bec40af39", null ],
+    [ "ADT_GRID_SIZE", "de/de1/a00065.html#aa01c13bed63c283263ad2ad586721c77", null ],
+    [ "CHUNKSIZE", "de/de1/a00065.html#a239bebe1697b474e6f84945e9fb9faee", null ],
+    [ "TILESIZE", "de/de1/a00065.html#a07ae61ed7dc31e9cddbdf9da244567c7", null ],
+    [ "UNITSIZE", "de/de1/a00065.html#adad9f01017a76fb25b04611c100d3df7", null ],
+    [ "LiquidType", "de/de1/a00065.html#a623f699008200dd1aa3c00fb91bc7065", [
+      [ "LIQUID_TYPE_WATER", "de/de1/a00065.html#a623f699008200dd1aa3c00fb91bc7065a1959b1f042d34cdd8a79c9ee3223f043", null ],
+      [ "LIQUID_TYPE_OCEAN", "de/de1/a00065.html#a623f699008200dd1aa3c00fb91bc7065af157bf14abe6e407890f83a0fbdb82e3", null ],
+      [ "LIQUID_TYPE_MAGMA", "de/de1/a00065.html#a623f699008200dd1aa3c00fb91bc7065aad4df40b4ce0967a3c2c917bcd3b6300", null ],
+      [ "LIQUID_TYPE_SLIME", "de/de1/a00065.html#a623f699008200dd1aa3c00fb91bc7065a51f9de84786e092879920b28992da026", null ]
+    ] ],
+    [ "LiquidVertexFormatType", "de/de1/a00065.html#a5292fd275b2d01d81692c430af9dc51f", [
+      [ "HeightDepth", "de/de1/a00065.html#a5292fd275b2d01d81692c430af9dc51fadc5bae52022216a549f4d884bf4e2f73", null ],
+      [ "HeightTextureCoord", "de/de1/a00065.html#a5292fd275b2d01d81692c430af9dc51fad931d69dec9efae87a6040c1e60781cb", null ],
+      [ "Depth", "de/de1/a00065.html#a5292fd275b2d01d81692c430af9dc51fa675056ad1441b6375b2c5abd48c27ef1", null ]
     ] ]
 ];

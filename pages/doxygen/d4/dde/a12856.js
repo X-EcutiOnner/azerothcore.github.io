@@ -1,6 +1,6 @@
 var a12856 =
 [
-    [ "npc_dkc1_gothikAI", "da/d02/a12860.html", "da/d02/a12860" ],
-    [ "npc_dkc1_gothik", "d4/dde/a12856.html#ae4a6aec0235b01044ebd5c9c71d400d9", null ],
-    [ "GetAI", "d4/dde/a12856.html#aeb285cf6977cfab5d337f51ae41907ec", null ]
+    [ "instance_magisters_terrace_InstanceMapScript", "da/d02/a12860.html", "da/d02/a12860" ],
+    [ "instance_magisters_terrace", "d4/dde/a12856.html#a81e23ce04c4d765193d2d2763ef78987", null ],
+    [ "GetInstanceScript", "d4/dde/a12856.html#a465cbaebb13535cdb7f6a2108e026fc5", null ]
 ];

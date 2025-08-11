@@ -1,9 +1,12 @@
 var a11380 =
 [
-    [ "CreatureTextLocalizer", "de/d08/a11380.html#a799f1007b9977224d71da1451c3454e1", null ],
-    [ "~CreatureTextLocalizer", "de/d08/a11380.html#a1a03d45dfd3c6c5f6f4995d5efe238a5", null ],
-    [ "operator()", "de/d08/a11380.html#ab2c364aa9d45ca2267db2641b26821f7", null ],
-    [ "_builder", "de/d08/a11380.html#a1d8d97d3e423810d044a8155b182899d", null ],
-    [ "_msgType", "de/d08/a11380.html#adf9260955b0141e85ff47c66350244e2", null ],
-    [ "_packetCache", "de/d08/a11380.html#a660b352a1c1855f4b10a8aebef88133f", null ]
+    [ "CreatureTextBuilder", "de/d08/a11380.html#a582eed3ab284675e72261a1db9808925", null ],
+    [ "operator()", "de/d08/a11380.html#a851cc84cc7faebfffe3267ecb0d3b3fb", null ],
+    [ "_gender", "de/d08/a11380.html#a615c3046f749bf44b036958fb1a50128", null ],
+    [ "_language", "de/d08/a11380.html#ac6e3bea125cd2b44a56f899c4aa35e1b", null ],
+    [ "_msgType", "de/d08/a11380.html#ac4b4f75821f4ff5855cafca91523cbca", null ],
+    [ "_source", "de/d08/a11380.html#ab87c45c49aa07b4434e42b6d7948e8b3", null ],
+    [ "_target", "de/d08/a11380.html#a5a5fd218c7162ba634455e0db6ee35a1", null ],
+    [ "_textGroup", "de/d08/a11380.html#afcd842c1482980c6232f3f19d21a1481", null ],
+    [ "_textId", "de/d08/a11380.html#a3f40b8dd1da052a372afbbc5f06700ac", null ]
 ];

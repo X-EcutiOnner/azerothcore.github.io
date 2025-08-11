@@ -1,7 +1,11 @@
 var a13044 =
 [
-    [ "HandleScript", "d5/d1b/a13044.html#a6ce169d6c1b106195f787b52ea433311", null ],
-    [ "PrepareSpellScript", "d5/d1b/a13044.html#a4f71583df2193274365944e6d228247c", null ],
-    [ "Register", "d5/d1b/a13044.html#aad8978dc0505d1fb80e2416f5525cbc7", null ],
-    [ "Validate", "d5/d1b/a13044.html#a51025308f88001f1f66d7f68f174f325", null ]
+    [ "npc_valkyr_battle_maidenAI", "d5/d1b/a13044.html#a859b63621c500c7a36150fadbb460b2b", null ],
+    [ "Reset", "d5/d1b/a13044.html#a3ca06a5822f1b5ae625b1dcc71ec0c30", null ],
+    [ "UpdateAI", "d5/d1b/a13044.html#a33251b8d8abb9b46a5af4cb4e92472b8", null ],
+    [ "FlyBackTimer", "d5/d1b/a13044.html#a625eb33fb32f935c5109a8d3d70c5ae7", null ],
+    [ "phase", "d5/d1b/a13044.html#abd5d71272aa575be8583254217194e49", null ],
+    [ "x", "d5/d1b/a13044.html#a2dbae2865b6c6db4e82b7d1dc8a67739", null ],
+    [ "y", "d5/d1b/a13044.html#acccea63fedf38de14f7818016830a0a9", null ],
+    [ "z", "d5/d1b/a13044.html#adde328d26ad752a9e5f2ab32eab2a4e0", null ]
 ];

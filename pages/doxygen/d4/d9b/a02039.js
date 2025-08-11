@@ -1,14 +1,21 @@
 var a02039 =
 [
-    [ "BeforeVisibilityDestroy", "d4/d9b/a02039.html#a8172910e1dfdc7b56ca3931dd2fab1fb", null ],
-    [ "BeforeVisibilityDestroy< Creature >", "d4/d9b/a02039.html#a62188ab6a72d08b62bf37442dbbfdaa6", null ],
-    [ "getProbabilityOfLevelUp", "d4/d9b/a02039.html#aa890f698ac89e4049e1107c05d065495", null ],
-    [ "SkillGainChance", "d4/d9b/a02039.html#a66adde9ba6a85d585f6e6e8355499aa6", null ],
-    [ "UpdateVisibilityOf_helper", "d4/d9b/a02039.html#a5f5d6b73fc1fb15a0cde612641ba3433", null ],
-    [ "UpdateVisibilityOf_helper", "d4/d9b/a02039.html#aa522147fa6130f7d54551f137424bd15", null ],
-    [ "UpdateVisibilityOf_helper", "d4/d9b/a02039.html#ac411c559a97e183268339b1ea63a84b6", null ],
-    [ "UpdateVisibilityOf_helper", "d4/d9b/a02039.html#a2fc4d5c4ae2f8ec6eecccbb6b6bf4e77", null ],
-    [ "bonusSkillLevels", "d4/d9b/a02039.html#a72b3624ee55553e28f82ef06d7c74c6a", null ],
-    [ "bonusSkillLevelsSize", "d4/d9b/a02039.html#ad103e97f7db0cfd188ab64f5748c7464", null ],
-    [ "ZONE_UPDATE_INTERVAL", "d4/d9b/a02039.html#afabbcd46bf6f03c5dca10b117810b710", null ]
+    [ "CleaningFlags", "d4/d9b/a02039.html#ad8ba5c50a4cd2d5193e35ccc83798c67", [
+      [ "CLEANING_FLAG_ACHIEVEMENT_PROGRESS", "d4/d9b/a02039.html#ad8ba5c50a4cd2d5193e35ccc83798c67afdcd00f9b75d683b143cbbe0ac22d748", null ],
+      [ "CLEANING_FLAG_SKILLS", "d4/d9b/a02039.html#ad8ba5c50a4cd2d5193e35ccc83798c67ac23b2648d4cf0fe8d9ff4cd96722a714", null ],
+      [ "CLEANING_FLAG_SPELLS", "d4/d9b/a02039.html#ad8ba5c50a4cd2d5193e35ccc83798c67a39fa10b14e68e92b74ab6697d0e1d564", null ],
+      [ "CLEANING_FLAG_TALENTS", "d4/d9b/a02039.html#ad8ba5c50a4cd2d5193e35ccc83798c67a06a3fa1596c0c32ec619b9b9cb1d1550", null ],
+      [ "CLEANING_FLAG_QUESTSTATUS", "d4/d9b/a02039.html#ad8ba5c50a4cd2d5193e35ccc83798c67ae0367424104049d29ca9dcf3d5b7273c", null ]
+    ] ],
+    [ "AchievementProgressCheck", "d4/d9b/a02039.html#afe5cf638b3ba626c9dc18258d4c528fa", null ],
+    [ "CheckUnique", "d4/d9b/a02039.html#ab98182e5f92f72090600314cc41f0d39", null ],
+    [ "CleanCharacterAchievementProgress", "d4/d9b/a02039.html#ae5939466cf9b4fbb63eb136baf62767f", null ],
+    [ "CleanCharacterQuestStatus", "d4/d9b/a02039.html#a9f512823f852120bf4c3ec78eb4bbeaa", null ],
+    [ "CleanCharacterSkills", "d4/d9b/a02039.html#ae8c5d4dc123b8a900254bcbc82c1ffbe", null ],
+    [ "CleanCharacterSpell", "d4/d9b/a02039.html#aca5826d283031348e5d6ae6eb75ad605", null ],
+    [ "CleanCharacterTalent", "d4/d9b/a02039.html#a344f61fb209b507b775a0bbfb1315fac", null ],
+    [ "CleanDatabase", "d4/d9b/a02039.html#a357c8a07f912c6efb55a13cc9bc089b9", null ],
+    [ "SkillCheck", "d4/d9b/a02039.html#a0f72cf24646d1ece0eb793890840992d", null ],
+    [ "SpellCheck", "d4/d9b/a02039.html#a02688f57778d28a7bcc4ca6cee2074ad", null ],
+    [ "TalentCheck", "d4/d9b/a02039.html#aac707369555aa95807c11b1578ae80d2", null ]
 ];

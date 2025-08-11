@@ -1,7 +1,7 @@
 var a13380 =
 [
-    [ "npc_singularity", "da/d4d/a13380.html#a4ed61ec65ed94d8d5e42ae7ff9ecd41d", null ],
-    [ "FindAndFollowTarget", "da/d4d/a13380.html#a76c21129756dec05f6f2d88cebe948c5", null ],
-    [ "Reset", "da/d4d/a13380.html#ae81c2e5865beb00df8683fa0fb6e7872", null ],
-    [ "UpdateAI", "da/d4d/a13380.html#ad019d234ca9ee719612d59e5bb0b53ea", null ]
+    [ "HandleSchoolDamage", "da/d4d/a13380.html#a4fee3e37f347d1dcfa84c1dc0454c9fa", null ],
+    [ "PrepareSpellScript", "da/d4d/a13380.html#a8063f3d669e07dc0768607feb9a2f763", null ],
+    [ "Register", "da/d4d/a13380.html#a83aad24c7111d1f68196fcb9765dcd97", null ],
+    [ "Validate", "da/d4d/a13380.html#af90ae09274b0082bd8bd674ca43596f6", null ]
 ];

@@ -1,8 +1,13 @@
 var a23288 =
 [
-    [ "FilterTargets", "d2/d0e/a23288.html#a8687ba9c22299e62e5911a3729fa4a0a", null ],
-    [ "HandleDummy", "d2/d0e/a23288.html#addb3580259be74126b7de36d1b0a8a97", null ],
-    [ "PrepareSpellScript", "d2/d0e/a23288.html#aba82de0886d03037de4564f9908b8c89", null ],
-    [ "Register", "d2/d0e/a23288.html#a1650962493d48f5553a9e2771e594f1f", null ],
-    [ "Validate", "d2/d0e/a23288.html#a0a29926e43bd5ff58ca7ad79df6f8cc1", null ]
+    [ "npc_earthen_ring_flamecaller", "d2/d0e/a23288.html#ab402dd321fa0df641b674324386d7591", null ],
+    [ "DoAction", "d2/d0e/a23288.html#af745c83529a34a89c430d6113703fff5", null ],
+    [ "LookOpening", "d2/d0e/a23288.html#adfc752e7700a816b66b639007a1a90fa", null ],
+    [ "MovementInform", "d2/d0e/a23288.html#a2e6337402c07413ed9aa39c2de58e0d9", null ],
+    [ "Reset", "d2/d0e/a23288.html#ac7be4763e09cb9ce1a4a0774f4c02237", null ],
+    [ "SpellHit", "d2/d0e/a23288.html#ab9c5ad7e56033997042031566748ee2b", null ],
+    [ "UpdateAI", "d2/d0e/a23288.html#aa9aaf58b67108a934a756afdfc2bc734", null ],
+    [ "_events", "d2/d0e/a23288.html#a79829a993048f8678b5f7c1dfe55eafb", null ],
+    [ "_instance", "d2/d0e/a23288.html#a79aa6e628a50ed485cc55513c28362dc", null ],
+    [ "_mySpot", "d2/d0e/a23288.html#a18b476dfdf65ca7e84856b31027b11f1", null ]
 ];

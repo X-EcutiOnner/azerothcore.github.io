@@ -1,9 +1,9 @@
 var a28484 =
 [
-    [ "SetUp", "d5/def/a28484.html#abb28ef64461635a540dad471b7b12ebc", null ],
-    [ "TearDown", "d5/def/a28484.html#ace0b9a0c578a6b8ec1d33ad584aaf911", null ],
-    [ "arenaTeams", "d5/def/a28484.html#ab40dacafdb3c5de73cf66426d014a4fe", null ],
-    [ "team1", "d5/def/a28484.html#a325d8058950e53d17e16fd90cd105776", null ],
-    [ "team2", "d5/def/a28484.html#ac6336ffa31e59a5d3acc227c674e9ea8", null ],
-    [ "team3", "d5/def/a28484.html#af3c2e86874e53ae812debbe1abfbcf05", null ]
+    [ "adtId", "d5/def/a28484.html#a9bf7e7dd9dd55e5b1ffeffb0ad3e92e0", null ],
+    [ "areaId", "d5/def/a28484.html#a7f652c68036429350543fc5a2cc6861e", null ],
+    [ "Flags", "d5/def/a28484.html#a60f9a61948d1e28587c9d1a338730f37", null ],
+    [ "groupId", "d5/def/a28484.html#a09052bad3028899580ffedd556672b64", null ],
+    [ "Id", "d5/def/a28484.html#a70e3e94df9d0b0b1c114ed1001768066", null ],
+    [ "rootId", "d5/def/a28484.html#a7997c7ac31abdb40f2e7f0e0a7e04403", null ]
 ];

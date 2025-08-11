@@ -1,6 +1,8 @@
 var a14976 =
 [
-    [ "go_ossirian_crystalAI", "da/d7d/a14980.html", "da/d7d/a14980" ],
-    [ "go_ossirian_crystal", "da/d70/a14976.html#a783f0f0570ee0f667920e29613b565b2", null ],
-    [ "GetAI", "da/d70/a14976.html#a2f7b12eddc6504917614913e347ec0a0", null ]
+    [ "HandleScript", "da/d70/a14976.html#ac58aef1b295e32c8a44852278edc18f8", null ],
+    [ "Load", "da/d70/a14976.html#a2f7b9372dd36444c5161f3bc50424d99", null ],
+    [ "PrepareSpellScript", "da/d70/a14976.html#adc1301a318f86b4e147a191f4c63e3bf", null ],
+    [ "Register", "da/d70/a14976.html#a95f4abd67d6baf75980ff28a7518503d", null ],
+    [ "Validate", "da/d70/a14976.html#a98271e7adb17b11e39241154a83b0d0d", null ]
 ];

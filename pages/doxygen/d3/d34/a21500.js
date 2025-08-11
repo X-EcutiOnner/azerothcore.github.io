@@ -1,7 +1,6 @@
 var a21500 =
 [
-    [ "npc_lurgglbrAI", "dc/d40/a21504.html", "dc/d40/a21504" ],
-    [ "npc_lurgglbr", "d3/d34/a21500.html#a7df52667e4d789391820a4c2182db8d2", null ],
-    [ "GetAI", "d3/d34/a21500.html#a2795346371e7b474c53dcacb9daf2001", null ],
-    [ "OnQuestAccept", "d3/d34/a21500.html#a1b3ba7b0782dc91ff268b7044cf13e82", null ]
+    [ "HandleEffectPeriodic", "d3/d34/a21500.html#affa7fb949d4b1a05813df0da17fef3bb", null ],
+    [ "PrepareAuraScript", "d3/d34/a21500.html#a79dbb866c06cd1c031cae2f1370146d5", null ],
+    [ "Register", "d3/d34/a21500.html#a1fb46036f0860440f3a9201e0d86cdc4", null ]
 ];

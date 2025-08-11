@@ -1,12 +1,11 @@
 var a15800 =
 [
-    [ "npc_twilight_volunteer", "d0/d14/a15800.html#a3062041fcabf972e0a3d4753363c37b3", null ],
-    [ "AttackStart", "d0/d14/a15800.html#abc2e12fb7be5b1a7dabc4c2211e7de13", null ],
-    [ "DoAction", "d0/d14/a15800.html#ae95bcb02ee4f0ead76e249de0cba2d88", null ],
-    [ "EnterEvadeMode", "d0/d14/a15800.html#abd88e6fe0565babb92ccae17df0421d6", null ],
-    [ "MovementInform", "d0/d14/a15800.html#a4f27ae97ccf2c349a6352a0f5ba1681a", null ],
-    [ "UpdateAI", "d0/d14/a15800.html#a93288a45982b172c201e2442a4c91114", null ],
-    [ "events", "d0/d14/a15800.html#ad8cc52c1462d7adbfbe566c55c0ed244", null ],
-    [ "isSacraficeTarget", "d0/d14/a15800.html#a8350dba2c41754a2e5d15c94731ef27d", null ],
-    [ "pInstance", "d0/d14/a15800.html#ad58453e078520fa23238a96115e5f38f", null ]
+    [ "boss_amanitar", "d0/d14/a15800.html#a660bdf8dd64bbffda4ee1ec603c41402", null ],
+    [ "EnterEvadeMode", "d0/d14/a15800.html#a6b3cf0ea01ce34b4281116ca8387732d", null ],
+    [ "JustDied", "d0/d14/a15800.html#a138049712649ff414950d9d0ca05d712", null ],
+    [ "JustEngagedWith", "d0/d14/a15800.html#ae2bace7f649626c68560d4a6d5aa4ea3", null ],
+    [ "Reset", "d0/d14/a15800.html#aab3faca4526947a72d8ca049a605f5be", null ],
+    [ "SummonedCreatureDespawn", "d0/d14/a15800.html#a4b9dccf5b2fe46ac9f6d5eab54ba5d43", null ],
+    [ "SummonMushroom", "d0/d14/a15800.html#afc5b4942931f6020b2894b901650fc35", null ],
+    [ "_mushroomsDeque", "d0/d14/a15800.html#a4ba2415d6134cdc435114cd3af235b6d", null ]
 ];

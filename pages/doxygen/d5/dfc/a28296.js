@@ -1,7 +1,7 @@
 var a28296 =
 [
-    [ "Flags", "d5/dfc/a28296.html#a12b3cb0e28ed0f47ff5ccea09fc8b860", null ],
-    [ "ID", "d5/dfc/a28296.html#ab6ccf4a64672a6ade01f59cdeeeb85cb", null ],
-    [ "RangeMax", "d5/dfc/a28296.html#a9691134e5cb1e15e3c93ea05a653975d", null ],
-    [ "RangeMin", "d5/dfc/a28296.html#a127a46f2382edea750ca567d5ea3d304", null ]
+    [ "ID", "d5/dfc/a28296.html#a3af48dd3f6b92ad7f5950d99ca6dd379", null ],
+    [ "Index", "d5/dfc/a28296.html#aa58e046529aae0d1d6201c08ec8107e2", null ],
+    [ "Skill", "d5/dfc/a28296.html#aed5e58cf605d3c28cd0d26015722be03", null ],
+    [ "Type", "d5/dfc/a28296.html#a39b0b548efd795c162926bddcdd301b5", null ]
 ];

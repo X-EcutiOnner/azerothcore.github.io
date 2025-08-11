@@ -1,6 +1,6 @@
 var a23240 =
 [
-    [ "HandlePeriodic", "df/d94/a23240.html#a25c698e911ec02d9cd7f757ba87281df", null ],
-    [ "PrepareAuraScript", "df/d94/a23240.html#a7bf79bc5e5f509b52965f03e998db399", null ],
-    [ "Register", "df/d94/a23240.html#ab3eec9f591384c7c1c684651c38aa614", null ]
+    [ "instance_serpentshrine_cavern_InstanceMapScript", "de/d4f/a23244.html", "de/d4f/a23244" ],
+    [ "instance_serpent_shrine", "df/d94/a23240.html#aac4fc7113307805138ba4ce4a9adff09", null ],
+    [ "GetInstanceScript", "df/d94/a23240.html#aa81add2f4aeb8b2084bcc81c05b606c7", null ]
 ];

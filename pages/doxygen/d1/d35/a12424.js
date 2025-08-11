@@ -1,7 +1,10 @@
 var a12424 =
 [
-    [ "HandlePeriodic", "d1/d35/a12424.html#a5651e7ecab22d2286f85e56b8eccc003", null ],
-    [ "PrepareAuraScript", "d1/d35/a12424.html#a5dca8e116c05d11961cbd7995314441e", null ],
-    [ "Register", "d1/d35/a12424.html#a5972e66a8c05c5ae64e6666d0f35cb6e", null ],
-    [ "Validate", "d1/d35/a12424.html#a689b93dcf39828f507ef2b7f72d1ca01", null ]
+    [ "npc_core_ragerAI", "d1/d35/a12424.html#a3c5125e0a10043f6181c10ba749fa579", null ],
+    [ "DamageTaken", "d1/d35/a12424.html#a758eb158eb9d232d74514281028efcb3", null ],
+    [ "Reset", "d1/d35/a12424.html#acf83e469d3d8108276227a942fda28b3", null ],
+    [ "UpdateAI", "d1/d35/a12424.html#a2183cf5ab22b737413b86a657fde6d3c", null ],
+    [ "instance", "d1/d35/a12424.html#a7cfddba62f737214b8cfc7fbffa8c2e2", null ],
+    [ "mangleTimer", "d1/d35/a12424.html#a081333b967abb3812b9ddae2f933a324", null ],
+    [ "rangeCheckTimer", "d1/d35/a12424.html#ade427bdd9ec99807b6f190c890136414", null ]
 ];

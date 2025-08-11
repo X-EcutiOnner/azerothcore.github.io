@@ -1,6 +1,8 @@
 var a26832 =
 [
-    [ "PrepareAuraScript", "d4/d38/a26832.html#a65fa925d99065d028e328a92f2a13805", null ],
-    [ "Register", "d4/d38/a26832.html#a95dc732286adf4327f68e23015d58c21", null ],
-    [ "RemoveEffect", "d4/d38/a26832.html#a3f474c143f64739187b6049cac5e4b38", null ]
+    [ "HandleDummyTick", "d4/d38/a26832.html#ad35d90e5cdd68f4c1d3172a0860274bd", null ],
+    [ "HandleRemove", "d4/d38/a26832.html#a92f2bb73ec58832eaada3c7140f7868d", null ],
+    [ "PrepareAuraScript", "d4/d38/a26832.html#a06e45d5f63ef1395b5949482e8393098", null ],
+    [ "Register", "d4/d38/a26832.html#abf1d49720ae43d4ed2fb1c2920387ace", null ],
+    [ "Validate", "d4/d38/a26832.html#a9a2da4d163a96526e14f5de76798a784", null ]
 ];

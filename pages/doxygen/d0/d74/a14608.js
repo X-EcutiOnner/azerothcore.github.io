@@ -1,6 +1,11 @@
 var a14608 =
 [
-    [ "FilterTargets", "d0/d74/a14608.html#a45b0713b2942199bf0e19752fe765aac", null ],
-    [ "PrepareSpellScript", "d0/d74/a14608.html#a7f7177d7754a99743202f69a0342f587", null ],
-    [ "Register", "d0/d74/a14608.html#a27b432d8571d48c3f5fb025bbbd29271", null ]
+    [ "boss_anetheron", "d0/d74/a14608.html#a6c103caa3f137756599a75bff03a6648", null ],
+    [ "DoAction", "d0/d74/a14608.html#a2fd485de26c820fec5240f9141a09964", null ],
+    [ "JustDied", "d0/d74/a14608.html#a7c8b2039ee7e379bed8387b7236b7ee5", null ],
+    [ "JustEngagedWith", "d0/d74/a14608.html#aa34ac87ad4014fbecb481be7896c577c", null ],
+    [ "JustSummoned", "d0/d74/a14608.html#af9c156e28c7eca710d8367bd2a99387d", null ],
+    [ "KilledUnit", "d0/d74/a14608.html#a4471af823278a3664574729bf5c749be", null ],
+    [ "PathEndReached", "d0/d74/a14608.html#a75ed708e2769a77defa5c9a0b22dcae9", null ],
+    [ "_recentlySpoken", "d0/d74/a14608.html#accd9455c3b1d536ca177be6028f3503d", null ]
 ];

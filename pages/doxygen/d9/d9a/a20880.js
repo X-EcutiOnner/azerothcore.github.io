@@ -1,6 +1,6 @@
 var a20880 =
 [
-    [ "boss_yoggsaron_neltharionAI", "db/d56/a20884.html", "db/d56/a20884" ],
-    [ "boss_yoggsaron_neltharion", "d9/d9a/a20880.html#a9910e0d6043e7738cba0fe9ae7e92898", null ],
-    [ "GetAI", "d9/d9a/a20880.html#abce5f59c35f7af3e1d5b30cc55ff48e6", null ]
+    [ "boss_yoggsaron_descend_portalAI", "db/d56/a20884.html", "db/d56/a20884" ],
+    [ "boss_yoggsaron_descend_portal", "d9/d9a/a20880.html#aaf546e4e546d87818bd501b4934e8ab2", null ],
+    [ "GetAI", "d9/d9a/a20880.html#aceb50c808eed17ca468a80b823af1907", null ]
 ];

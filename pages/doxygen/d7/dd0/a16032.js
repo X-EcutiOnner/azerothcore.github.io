@@ -1,14 +1,14 @@
 var a16032 =
 [
-    [ "npc_onyx_flamecallerAI", "d7/dd0/a16032.html#aa0633855e57f6681cfc68a8dfee9a733", null ],
-    [ "AddWaypoints", "d7/dd0/a16032.html#a308b99ee4d07ed1de0cabd94dafd5dd8", null ],
-    [ "EnterEvadeMode", "d7/dd0/a16032.html#ac29163e2e69cffbf21249eb3828b5b72", null ],
-    [ "IsSummonedBy", "d7/dd0/a16032.html#afc6c4faffd83b2fa4ddbb4ae78b622d9", null ],
-    [ "JustEngagedWith", "d7/dd0/a16032.html#a3cba2cd9a920816bee993ae2986639a0", null ],
-    [ "Reset", "d7/dd0/a16032.html#a756a44feb79eb56f443ee16995a2566d", null ],
-    [ "UpdateEscortAI", "d7/dd0/a16032.html#aab57193b332fdde2dd237a9cb15a06c1", null ],
-    [ "WaypointReached", "d7/dd0/a16032.html#a8b510bce47929e85741f5debd857de8d", null ],
-    [ "_events", "d7/dd0/a16032.html#a9280b604135308078860c20667da9819", null ],
-    [ "_instance", "d7/dd0/a16032.html#a3fb01e6a8df3b8205f494f03faf8ace8", null ],
-    [ "_lavaGoutCount", "d7/dd0/a16032.html#a1f46c988316c1870f506a66f2390e79b", null ]
+    [ "boss_baltharus_the_warbornAI", "d7/dd0/a16032.html#adaf6cb6ab81a461b202d40900b4b744c", null ],
+    [ "DoAction", "d7/dd0/a16032.html#ab22f46e2514c10ce0e8141b3f69f069d", null ],
+    [ "InitializeAI", "d7/dd0/a16032.html#ac188db2a727e2fb3c411f8616f8a2f41", null ],
+    [ "JustDied", "d7/dd0/a16032.html#aaeb3e9b1bd25464cec4a1b0adf88afbe", null ],
+    [ "JustEngagedWith", "d7/dd0/a16032.html#a4b670f4d89f9ed9ffeebf9d9426d79dc", null ],
+    [ "JustReachedHome", "d7/dd0/a16032.html#ab178ccb3ee8bfa2649f03bfc18f1e424", null ],
+    [ "JustSummoned", "d7/dd0/a16032.html#a7947c96290ea2cbe1b7ed6b6a8db65fe", null ],
+    [ "KilledUnit", "d7/dd0/a16032.html#adb1a9e2af865292215c02cc1fb959cd3", null ],
+    [ "Reset", "d7/dd0/a16032.html#a68e503ddac7be2f4e08d68e64aa2e725", null ],
+    [ "UpdateAI", "d7/dd0/a16032.html#abe2e7188e33e70d52ab1985f821fa9c5", null ],
+    [ "_introDone", "d7/dd0/a16032.html#a463209610cbc8e34d9839abeaf6df0e6", null ]
 ];

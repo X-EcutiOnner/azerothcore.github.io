@@ -1,6 +1,6 @@
 var a23888 =
 [
-    [ "HandleDummy", "d2/daf/a23888.html#a4c1177fc89310598b6ba7cddf7f47cd1", null ],
-    [ "PrepareSpellScript", "d2/daf/a23888.html#af511bcad63ff423bf04a430f56959f40", null ],
-    [ "Register", "d2/daf/a23888.html#adaa4fc5294e2b0cb5bcb42f1a93a6f29", null ]
+    [ "instance_the_eye_InstanceMapScript", "da/de4/a23892.html", "da/de4/a23892" ],
+    [ "instance_the_eye", "d2/daf/a23888.html#a685064ba70095a3fc27ae1a8b33d3c88", null ],
+    [ "GetInstanceScript", "d2/daf/a23888.html#a811c7d161469f33ce4fb7d792ce30a4e", null ]
 ];

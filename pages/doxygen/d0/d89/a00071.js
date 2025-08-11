@@ -1,29 +1,14 @@
 var a00071 =
 [
-    [ "AppenderFlags", "d0/d89/a00071.html#a94c1c25ceab6db205eb6a5d5a2e0e803", [
-      [ "APPENDER_FLAGS_NONE", "d0/d89/a00071.html#a94c1c25ceab6db205eb6a5d5a2e0e803a184efa87bd2e31eb7cbcb9d9d9da282b", null ],
-      [ "APPENDER_FLAGS_PREFIX_TIMESTAMP", "d0/d89/a00071.html#a94c1c25ceab6db205eb6a5d5a2e0e803abd5b7165060ec5de7b8db0619e2f2a46", null ],
-      [ "APPENDER_FLAGS_PREFIX_LOGLEVEL", "d0/d89/a00071.html#a94c1c25ceab6db205eb6a5d5a2e0e803adc9e7db7404463919a903d8acfeff94e", null ],
-      [ "APPENDER_FLAGS_PREFIX_LOGFILTERTYPE", "d0/d89/a00071.html#a94c1c25ceab6db205eb6a5d5a2e0e803ac133c721eb5548b0845595467e081c5b", null ],
-      [ "APPENDER_FLAGS_USE_TIMESTAMP", "d0/d89/a00071.html#a94c1c25ceab6db205eb6a5d5a2e0e803a6aec71fc9bc28024147cf9f5291c08c3", null ],
-      [ "APPENDER_FLAGS_MAKE_FILE_BACKUP", "d0/d89/a00071.html#a94c1c25ceab6db205eb6a5d5a2e0e803a6a4fbf813da7a71ddfd24f9336a7e5a2", null ]
-    ] ],
-    [ "AppenderType", "d0/d89/a00071.html#aacbd2dccb14fcb75d2651dce582364df", [
-      [ "APPENDER_NONE", "d0/d89/a00071.html#aacbd2dccb14fcb75d2651dce582364dfaceddd86331dd45bd7dbd5f8bae6c8852", null ],
-      [ "APPENDER_CONSOLE", "d0/d89/a00071.html#aacbd2dccb14fcb75d2651dce582364dfa8cc0efa84bbb87aa8207ba11f369b78a", null ],
-      [ "APPENDER_FILE", "d0/d89/a00071.html#aacbd2dccb14fcb75d2651dce582364dfa2420e38b426dcb22e37a90b6a97cc65d", null ],
-      [ "APPENDER_DB", "d0/d89/a00071.html#aacbd2dccb14fcb75d2651dce582364dfacac80dc510e850226c250af5a5600394", null ],
-      [ "APPENDER_INVALID", "d0/d89/a00071.html#aacbd2dccb14fcb75d2651dce582364dfa7cb05f13eacfc1d54ef111d7b8375301", null ]
-    ] ],
-    [ "LogLevel", "d0/d89/a00071.html#ad26ed09e30f81a5d2172b4793a3f2781", [
-      [ "LOG_LEVEL_DISABLED", "d0/d89/a00071.html#ad26ed09e30f81a5d2172b4793a3f2781ae44988e4cdc992741e4a39b3734e1f61", null ],
-      [ "LOG_LEVEL_FATAL", "d0/d89/a00071.html#ad26ed09e30f81a5d2172b4793a3f2781a779dc8dd26898fb0f88cd5f6e02ba1e5", null ],
-      [ "LOG_LEVEL_ERROR", "d0/d89/a00071.html#ad26ed09e30f81a5d2172b4793a3f2781a5b40f003febbc3b535649d63f4b8a44f", null ],
-      [ "LOG_LEVEL_WARN", "d0/d89/a00071.html#ad26ed09e30f81a5d2172b4793a3f2781a99c1e5c8e6d557f3993b9ab54a0107f4", null ],
-      [ "LOG_LEVEL_INFO", "d0/d89/a00071.html#ad26ed09e30f81a5d2172b4793a3f2781aedee1e3159bfe7d918b6e29873c5aee4", null ],
-      [ "LOG_LEVEL_DEBUG", "d0/d89/a00071.html#ad26ed09e30f81a5d2172b4793a3f2781a538b2b6e011479d408ecd2be0f6d6177", null ],
-      [ "LOG_LEVEL_TRACE", "d0/d89/a00071.html#ad26ed09e30f81a5d2172b4793a3f2781a8fa9f12103da446ab4f3d3dc2fcf7f5d", null ],
-      [ "NUM_ENABLED_LOG_LEVELS", "d0/d89/a00071.html#ad26ed09e30f81a5d2172b4793a3f2781a02115b12f9d2c08405f3ea32fb8dea7d", null ],
-      [ "LOG_LEVEL_INVALID", "d0/d89/a00071.html#ad26ed09e30f81a5d2172b4793a3f2781a385a9fffad0d67363b55e833e0395c96", null ]
-    ] ]
+    [ "_CRT_SECURE_NO_DEPRECATE", "d0/d89/a00071.html#a411c46599e926f8cdf49c63957255359", null ],
+    [ "isHole", "d0/d89/a00071.html#a3a7e248f31dc8d832dc118d469a98bd4", null ],
+    [ "holetab_h", "d0/d89/a00071.html#a7424dd5c858116f845a676e31fe5ae5d", null ],
+    [ "holetab_v", "d0/d89/a00071.html#a2b1bf69bcdb58ff1605821d486da3acb", null ],
+    [ "MCINMagic", "d0/d89/a00071.html#a6f946547b65d321100fd6efa2966180c", null ],
+    [ "MCLQMagic", "d0/d89/a00071.html#a35ae9924cb4e3ad0020167b89d5ea86f", null ],
+    [ "MCNKMagic", "d0/d89/a00071.html#aa2d85d3b667d3755f6f7a993e60c574b", null ],
+    [ "MCVTMagic", "d0/d89/a00071.html#a32010e610a970d3891ae5effca03de37", null ],
+    [ "MFBOMagic", "d0/d89/a00071.html#a329d005a0989137286469e197dc0c812", null ],
+    [ "MH2OMagic", "d0/d89/a00071.html#aaeaf747e4bc5c25257f9e0ef1153b5a7", null ],
+    [ "MHDRMagic", "d0/d89/a00071.html#ac97bd684dd5bacba0e790f355a3bdddf", null ]
 ];

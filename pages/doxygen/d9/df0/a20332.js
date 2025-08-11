@@ -1,7 +1,7 @@
 var a20332 =
 [
-    [ "FilterTargetsInitial", "d9/df0/a20332.html#a5632307d9a1a89d530a63e71c8abad1c", null ],
-    [ "Load", "d9/df0/a20332.html#a5467818535c6c7239e185d7c6c3bbd27", null ],
-    [ "PrepareSpellScript", "d9/df0/a20332.html#a4d1e588557fa3fa432d4015fda930877", null ],
-    [ "Register", "d9/df0/a20332.html#a0428375ddb89907e7f1728757d55d052", null ]
+    [ "HandleEffectPeriodic", "d9/df0/a20332.html#a8d2e75ee2869dc135fe83c782ec6e223", null ],
+    [ "PrepareAuraScript", "d9/df0/a20332.html#a0996c661dbc4e9a4bd35c1368247c7eb", null ],
+    [ "Register", "d9/df0/a20332.html#aed86a298340cc05fbe2a8a68396423bb", null ],
+    [ "Validate", "d9/df0/a20332.html#a1c3ecaebf11d1040fde4ce5cb80f315c", null ]
 ];

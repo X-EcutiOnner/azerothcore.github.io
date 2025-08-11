@@ -1,5 +1,6 @@
 var a18044 =
 [
-    [ "operator()", "d0/d86/a18044.html#a6a8c02f9b797ed7df8960e5ddc44f93f", null ],
-    [ "operator()", "d0/d86/a18044.html#a3847988d35a9cb0c5aab4ad73ff1a427", null ]
+    [ "npc_ice_tombAI", "d4/d6d/a18048.html", "d4/d6d/a18048" ],
+    [ "npc_ice_tomb", "d0/d86/a18044.html#a939c6083a77a6f4cb2a940ec9c1df55e", null ],
+    [ "GetAI", "d0/d86/a18044.html#ac99b7c9887e54a1764310bd3e079811a", null ]
 ];

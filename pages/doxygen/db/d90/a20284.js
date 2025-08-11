@@ -1,6 +1,6 @@
 var a20284 =
 [
-    [ "boss_ignisAI", "d3/d6f/a20288.html", "d3/d6f/a20288" ],
-    [ "boss_ignis", "db/d90/a20284.html#a15f42f252e4f9472707d5b81f7fdaece", null ],
-    [ "GetAI", "db/d90/a20284.html#ac11ff148e9cbc985875f859268a3de01", null ]
+    [ "HandleAfterEffectApply", "db/d90/a20284.html#ac8b5cddcf66c1f43c4ab0461354e97f1", null ],
+    [ "PrepareAuraScript", "db/d90/a20284.html#a439799df0d6ca43e6a81930e3e4b5334", null ],
+    [ "Register", "db/d90/a20284.html#adce13201dd11c6ba83883b12ad32d1f6", null ]
 ];

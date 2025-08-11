@@ -1,8 +1,8 @@
 var a26504 =
 [
-    [ "CheckCast", "d3/dd9/a26504.html#a16983545e25f3e02064e2b3d573b2bb8", null ],
-    [ "CheckQuest", "d3/dd9/a26504.html#abc927d932c1d5e05eab1918364d68ed5", null ],
-    [ "HandleActiveObject", "d3/dd9/a26504.html#a95f7bd6dd52b19bb1c09975a7286882a", null ],
-    [ "PrepareSpellScript", "d3/dd9/a26504.html#a96e69476965cc2466213a5371a57093a", null ],
-    [ "Register", "d3/dd9/a26504.html#a83c48e1c42a6a6dd892f0f4d6a20687b", null ]
+    [ "HandleScript", "d3/dd9/a26504.html#a1e096b2b2f5a285e660f64fb133f4f8b", null ],
+    [ "Load", "d3/dd9/a26504.html#ad4e3fecb64bbb0f5c63b90d445c0b9f3", null ],
+    [ "PrepareSpellScript", "d3/dd9/a26504.html#a5c4b2a46dfd6bdc2d14ee02f673628c1", null ],
+    [ "Register", "d3/dd9/a26504.html#aa823af94e3366ae799ebaf03e52411dd", null ],
+    [ "Validate", "d3/dd9/a26504.html#ad6985954002f88436a2681e758f41fb2", null ]
 ];

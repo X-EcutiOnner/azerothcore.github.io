@@ -1,6 +1,8 @@
 var a12452 =
 [
-    [ "boss_shazzrahAI", "d4/d4a/a12452.html#a984b3d32d5f231a019f2c0f1bb027907", null ],
-    [ "ExecuteEvent", "d4/d4a/a12452.html#a0f6e3e6876b9b769ea53db5c9028c6ff", null ],
-    [ "JustEngagedWith", "d4/d4a/a12452.html#aaa8111d42cacd58f767513026976668c", null ]
+    [ "boss_majordomoAI", "d6/d1b/a12456.html", "d6/d1b/a12456" ],
+    [ "boss_majordomo", "d4/d4a/a12452.html#a77a1ff3d2c7aafecad9f78fcd87536b1", null ],
+    [ "GetAI", "d4/d4a/a12452.html#aceae0dc662e93bf68556073e8b324964", null ],
+    [ "OnGossipHello", "d4/d4a/a12452.html#a8d1b625df61b27fef0bfe6f635a3b7ae", null ],
+    [ "OnGossipSelect", "d4/d4a/a12452.html#a69c2c5fc557b02c9a0b26bdb7b57443c", null ]
 ];

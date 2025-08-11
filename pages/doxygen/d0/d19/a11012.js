@@ -1,7 +1,7 @@
 var a11012 =
 [
-    [ "IsValidOpcode", "d0/d19/a11012.html#afdba55f89a1c7ffb9e7c302f2269687f", null ],
-    [ "IsValidSize", "d0/d19/a11012.html#aec5192f7f57a16c9dfa244ff3874e693", null ],
-    [ "cmd", "d0/d19/a11012.html#ad0a112cb2a8a71e6e8c20e320af63f49", null ],
-    [ "size", "d0/d19/a11012.html#ac1d551036381db4f85b8dc92ea55d4ee", null ]
+    [ "Player", "d0/d19/a11012.html#a7f4241aa9ecc051c75f779af132a52ed", null ],
+    [ "WorldSession", "d0/d19/a11012.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
+    [ "FactionChange", "d0/d19/a11012.html#adff657ead29df26ead5e20a8ecf44e87", null ],
+    [ "Race", "d0/d19/a11012.html#a98d5fd43205a0c9e2d3be75d384ce00c", null ]
 ];

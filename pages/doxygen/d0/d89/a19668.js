@@ -1,6 +1,6 @@
 var a19668 =
 [
-    [ "npc_living_constellationAI", "df/df6/a19672.html", "df/df6/a19672" ],
-    [ "npc_living_constellation", "d0/d89/a19668.html#a6ee651a525498cb5715ccfedaa26e05d", null ],
-    [ "GetAI", "d0/d89/a19668.html#a4533812a4da72c0d9eff6d6c9eaf772a", null ]
+    [ "HandleApplyTouch", "d0/d89/a19668.html#a0c46c506f78f46f17c0de6caae774316", null ],
+    [ "PrepareSpellScript", "d0/d89/a19668.html#a2f32b735a8a72a6ef52744d3ce8ada8b", null ],
+    [ "Register", "d0/d89/a19668.html#a70382055564e4ead8b5da0d6bd20c67f", null ]
 ];

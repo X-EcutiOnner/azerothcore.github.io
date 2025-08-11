@@ -1,25 +1,10 @@
 var a09708 =
 [
-    [ "MailItemMap", "d1/d93/a09708.html#afad4472f25a020fd6c8d6452840d021c", null ],
-    [ "MailDraft", "d1/d93/a09708.html#a8a7a37890b6a280f2b08659e5e59b354", null ],
-    [ "MailDraft", "d1/d93/a09708.html#adbadad7d9522146672759298c981f7db", null ],
-    [ "AddCOD", "d1/d93/a09708.html#a8d863191bb48369359ad170aab7145e0", null ],
-    [ "AddItem", "d1/d93/a09708.html#ae0c2b4bac4dd8f2a8c53608c45cbb11a", null ],
-    [ "AddMoney", "d1/d93/a09708.html#a4d0be4ea780f25c5302278b5748b6a6b", null ],
-    [ "deleteIncludedItems", "d1/d93/a09708.html#a0b5a445213d5fcc598ed016f1cbf2cf8", null ],
-    [ "GetBody", "d1/d93/a09708.html#ae60b40718fffcdda286161e342d1738d", null ],
-    [ "GetCOD", "d1/d93/a09708.html#a2b4d799ab7ec945b60c07747981ad0a5", null ],
-    [ "GetMailTemplateId", "d1/d93/a09708.html#ab5906ccf0213f8be241fbb177fef53bd", null ],
-    [ "GetMoney", "d1/d93/a09708.html#a461ee77c1d85b07513d5f453c8c8507a", null ],
-    [ "GetSubject", "d1/d93/a09708.html#a671268ee9b384c5c8c954bb62b3a41a0", null ],
-    [ "prepareItems", "d1/d93/a09708.html#ad6481e16a4dbe15b30a942278943c1d2", null ],
-    [ "SendMailTo", "d1/d93/a09708.html#aaee8965aaa66351954bdc7db246151d7", null ],
-    [ "SendReturnToSender", "d1/d93/a09708.html#ab57f00b07519984be8e0f3eb03955ee2", null ],
-    [ "m_body", "d1/d93/a09708.html#aea4413d56053710844b37518596e7b38", null ],
-    [ "m_COD", "d1/d93/a09708.html#a73472d56d74d215494975e6ce6580008", null ],
-    [ "m_items", "d1/d93/a09708.html#a58eef2cacd7834941404a366afc52a9d", null ],
-    [ "m_mailTemplateId", "d1/d93/a09708.html#a8a7997191ebeaebbdd78677c99409278", null ],
-    [ "m_mailTemplateItemsNeed", "d1/d93/a09708.html#aa8fced0ed98a18667c9d9a55027e99e9", null ],
-    [ "m_money", "d1/d93/a09708.html#a8915b8116364db1265eba0ce0d0471c2", null ],
-    [ "m_subject", "d1/d93/a09708.html#aa71d5223f51ffe20c1bf0c91f567d6f8", null ]
+    [ "iterator", "d1/d93/a09708.html#a9fada63aa17222fc5e216f3904affafd", null ],
+    [ "begin", "d1/d93/a09708.html#aee3a4701c5bc51f4028fe53f18675989", null ],
+    [ "end", "d1/d93/a09708.html#ad61defd77296790a6c5d0a43bacbbe4b", null ],
+    [ "getFirst", "d1/d93/a09708.html#ae47bba95a17db31a42231da948245387", null ],
+    [ "getLast", "d1/d93/a09708.html#ac03e93ac8ad6fc91ec9d2961b8904217", null ],
+    [ "rbegin", "d1/d93/a09708.html#af68f1d93a80e13976798dfed0063a1e4", null ],
+    [ "rend", "d1/d93/a09708.html#a92c30fb269bc99820b6964a99ee86d98", null ]
 ];

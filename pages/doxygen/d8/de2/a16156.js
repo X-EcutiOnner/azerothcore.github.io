@@ -1,11 +1,8 @@
 var a16156 =
 [
-    [ "boss_saviana_ragefireAI", "d8/de2/a16156.html#ab4fa6a2cc57c9d110bfd3cf16a016942", null ],
-    [ "JustDied", "d8/de2/a16156.html#a30331f9cdb141cd2dbc043888b48a6eb", null ],
-    [ "JustEngagedWith", "d8/de2/a16156.html#a458eb370872c20441b5ec6ecd2c97500", null ],
-    [ "JustReachedHome", "d8/de2/a16156.html#a74abf893a37874eb98aa5ba9883e8d62", null ],
-    [ "KilledUnit", "d8/de2/a16156.html#ac07513681c72d6748246cc7c349d117c", null ],
-    [ "MovementInform", "d8/de2/a16156.html#aed4c70f571586c8cbcc044c01bdc472d", null ],
-    [ "Reset", "d8/de2/a16156.html#a4b7f103331c566cbf007a075161505af", null ],
-    [ "UpdateAI", "d8/de2/a16156.html#af36ca2a359f950a10214d07aad240324", null ]
+    [ "OnApply", "d8/de2/a16156.html#a7165da94ce589afcd24411a308802c18", null ],
+    [ "OnRemove", "d8/de2/a16156.html#a8a43050c44b4d3d5b48f4e2c6fcc0b49", null ],
+    [ "PrepareAuraScript", "d8/de2/a16156.html#ab8361bc1d2cc786b52f1fc2b7ff09527", null ],
+    [ "Register", "d8/de2/a16156.html#a0ff7bbd0dea458b15231ecf419b1c49c", null ],
+    [ "Validate", "d8/de2/a16156.html#acf29b80b7b74c3f409e1f046b8062994", null ]
 ];

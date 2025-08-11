@@ -1,7 +1,9 @@
 var a11896 =
 [
-    [ "boss_gorosh_the_dervishAI", "d0/d38/a11896.html#adac003c51a2d1d0a8daa6ba552114c25", null ],
-    [ "JustEngagedWith", "d0/d38/a11896.html#a52bc5f76baff626b8834aa604fdd8e6a", null ],
-    [ "UpdateAI", "d0/d38/a11896.html#aa17e26419a8e3f7cd99c5e9b44be8ed8", null ],
-    [ "nextWhirlwindTime", "d0/d38/a11896.html#a07f1af63bc54d1b4c8d8e1cd87a787a1", null ]
+    [ "npc_burning_spiritAI", "d0/d38/a11896.html#a52f63423d09794446b0c01da2feb325d", null ],
+    [ "EnterEvadeMode", "d0/d38/a11896.html#a567a7a023bb83a1228bb458ea16ee2fc", null ],
+    [ "IsSummonedBy", "d0/d38/a11896.html#a65ee7b6dd6d4394cc04a6260fc75827e", null ],
+    [ "MovementInform", "d0/d38/a11896.html#a0a02ece5a3ff1eefa30fd27a9cc84d10", null ],
+    [ "_events", "d0/d38/a11896.html#a9af0f46710741bba3d8401d1a1fb0556", null ],
+    [ "_flamelasherGUID", "d0/d38/a11896.html#abfc34e3e45d1e74b328a91f6f8981191", null ]
 ];

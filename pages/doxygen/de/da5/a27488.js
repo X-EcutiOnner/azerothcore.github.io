@@ -1,10 +1,8 @@
 var a27488 =
 [
-    [ "npc_training_dummyAI", "de/da5/a27488.html#a2f10fd0b4365e99446f728883a47eb6a", null ],
-    [ "DamageTaken", "de/da5/a27488.html#a641c40906a6365f068ccbdba9d033923", null ],
-    [ "EnterEvadeMode", "de/da5/a27488.html#adb1de124bdb2a986efcfcfc287b6d824", null ],
-    [ "MoveInLineOfSight", "de/da5/a27488.html#a52f3516e9da6895eeddcdef7a198a6b1", null ],
-    [ "Reset", "de/da5/a27488.html#af63f500cb3179964c90afab0d4a2c9b7", null ],
-    [ "UpdateAI", "de/da5/a27488.html#a5e7892a64cd1a5cf678b401b62497bfb", null ],
-    [ "resetTimer", "de/da5/a27488.html#a443f2f7de257af473d6e9793f34a2071", null ]
+    [ "npc_nelsonAI", "d4/d79/a27492.html", "d4/d79/a27492" ],
+    [ "npc_nelson", "de/da5/a27488.html#ada597926a6db1aa7823ddabc19945b11", null ],
+    [ "GetAI", "de/da5/a27488.html#a75fea281fb49249345c48236bf44b1c8", null ],
+    [ "OnGossipHello", "de/da5/a27488.html#aa693b365a15d4617f214f9c3c229bf89", null ],
+    [ "OnGossipSelect", "de/da5/a27488.html#aff8e412cfcabd7b653cd30d29878be6a", null ]
 ];

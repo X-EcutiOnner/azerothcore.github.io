@@ -1,5 +1,10 @@
 var a03929 =
 [
-    [ "server_commandscript", "d1/db5/a11762.html", "d1/db5/a11762" ],
-    [ "AddSC_server_commandscript", "d1/dd9/a03929.html#aaa97392c09b5045a6040d75b224bdf22", null ]
+    [ "instance_ahnkahet", "d9/d08/a15868.html", "d9/d08/a15868" ],
+    [ "instance_ahnkahet::instance_ahnkahet_InstanceScript", "d9/d47/a15872.html", "d9/d47/a15872" ],
+    [ "spell_shadow_sickle_periodic_damage", "d1/d97/a15876.html", "d1/d97/a15876" ],
+    [ "AddSC_instance_ahnkahet", "d1/dd9/a03929.html#a33aed24f64879c91101f7420c4d49cc3", null ],
+    [ "boundaries", "d1/dd9/a03929.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
+    [ "creatureData", "d1/dd9/a03929.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "doorData", "d1/dd9/a03929.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ]
 ];

@@ -1,6 +1,6 @@
 var a17964 =
 [
-    [ "CheckTarget", "de/dbb/a17964.html#afce64ba75f8370cab6b8f1e561b10587", null ],
-    [ "PrepareSpellScript", "de/dbb/a17964.html#a6b6eaf3e761f2c173c2e72f46b25595a", null ],
-    [ "Register", "de/dbb/a17964.html#a6964ca668f02a8b5b1c3015503a41eef", null ]
+    [ "npc_little_oozeAI", "de/d77/a17968.html", "de/d77/a17968" ],
+    [ "npc_little_ooze", "de/dbb/a17964.html#a9b0849057c1d3dd9f6507b9c80e67a66", null ],
+    [ "GetAI", "de/dbb/a17964.html#a3e56c6dbad6239485897655a4bfbbe07", null ]
 ];

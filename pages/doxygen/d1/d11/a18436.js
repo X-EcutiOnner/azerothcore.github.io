@@ -1,6 +1,5 @@
 var a18436 =
 [
-    [ "npc_the_lich_king_controllerAI", "d2/d50/a18440.html", "d2/d50/a18440" ],
-    [ "npc_the_lich_king_controller", "d1/d11/a18436.html#a32b14d699737497ba7c90d8ef17557d7", null ],
-    [ "GetAI", "d1/d11/a18436.html#ae9b6dacb0f4e8e6f12f187ab0dfd2165", null ]
+    [ "achievement_neck_deep_in_vile", "d1/d11/a18436.html#af0e54c236e7637d8c1a8cf7dbed5a195", null ],
+    [ "OnCheck", "d1/d11/a18436.html#a9861c008f302279a4ac5f4ddc14ca2d0", null ]
 ];

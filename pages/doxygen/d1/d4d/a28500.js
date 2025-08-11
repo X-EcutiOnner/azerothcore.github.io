@@ -1,10 +1,7 @@
 var a28500 =
 [
-    [ "adt_CELLS", "dc/dde/a28508.html", "dc/dde/a28508" ],
-    [ "getMCNK", "d1/d4d/a28500.html#a8330b7cb405146399d3d20e6952a8b40", null ],
-    [ "prepareLoadedData", "d1/d4d/a28500.html#adc7346499aa51f4422c810b7e757f835", null ],
-    [ "cells", "d1/d4d/a28500.html#a434ed0ca354ec27d5334cc63e5650038", null ],
-    [ "fcc", "d1/d4d/a28500.html#ae7d4acf20e102b6b8f19ded3fe219a7d", null ],
-    [ "fcc_txt", "d1/d4d/a28500.html#a514bae36851623daf76b26a9d63f1ae0", null ],
-    [ "size", "d1/d4d/a28500.html#a1a40f52ea9eef3add8207da89cb71210", null ]
+    [ "TalentSpellPos", "d1/d4d/a28500.html#a1f28fdb07c5f3bc3a417a2d50d57481c", null ],
+    [ "TalentSpellPos", "d1/d4d/a28500.html#afcdb60f43c619209f8c7d9d8d118a89d", null ],
+    [ "rank", "d1/d4d/a28500.html#a46a495cd1d17302d074037ad5ea9c89e", null ],
+    [ "talent_id", "d1/d4d/a28500.html#a06421cba633b9ea52cb4b95d4ce4527d", null ]
 ];

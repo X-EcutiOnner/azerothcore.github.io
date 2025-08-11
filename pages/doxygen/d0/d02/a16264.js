@@ -1,6 +1,6 @@
 var a16264 =
 [
-    [ "boss_grand_championAI", "dd/d79/a16268.html", "dd/d79/a16268" ],
-    [ "boss_grand_champion", "d0/d02/a16264.html#a9577f8af5e234b3aebd7567841b867e2", null ],
-    [ "GetAI", "d0/d02/a16264.html#aa60972482ef16329d7ffc0a7ccf2d03e", null ]
+    [ "boss_black_knightAI", "dd/d79/a16268.html", "dd/d79/a16268" ],
+    [ "boss_black_knight", "d0/d02/a16264.html#af55a307f282a68bc83e45c6de647ebf4", null ],
+    [ "GetAI", "d0/d02/a16264.html#a3f7ac72f69cebdab0a13c61c0b9b2ed2", null ]
 ];

@@ -1,9 +1,7 @@
 var a17492 =
 [
-    [ "BattleExperienceEvent", "d4/d25/a17492.html#a3091b403089533ce2ebbb40fa38f28c9", null ],
-    [ "Execute", "d4/d25/a17492.html#a3971962ec90f682baeae96fe6098fa97", null ],
-    [ "_creature", "d4/d25/a17492.html#a0155536d5c2be329a1f3b57c4d852098", null ],
-    [ "_level", "d4/d25/a17492.html#a22f0d7e59f579362be4576180d0977b8", null ],
-    [ "ExperiencedSpells", "d4/d25/a17492.html#a5e2e06a386059ba2d9aff676648fa56b", null ],
-    [ "ExperiencedTimes", "d4/d25/a17492.html#a4daf5818472ebe7c8d3938e2189d8e02", null ]
+    [ "npc_icc_blood_beastAI", "d4/d25/a17492.html#af52eff9f66451444c5acba6930c1bff6", null ],
+    [ "DoAction", "d4/d25/a17492.html#a5de6e46fd21fd073fde2f0aaa5dc947a", null ],
+    [ "UpdateAI", "d4/d25/a17492.html#ac9da073c33dd33097f03ca35d36ea15e", null ],
+    [ "timer1", "d4/d25/a17492.html#a1074059162f818088808795119f081be", null ]
 ];

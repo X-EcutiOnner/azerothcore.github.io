@@ -1,7 +1,6 @@
 var a21596 =
 [
-    [ "npc_thassarianAI", "dc/ddf/a21596.html#a92e873dc3aa97f81919225ce75a5f894", null ],
-    [ "Reset", "dc/ddf/a21596.html#a8611ef17700c739dbd5e7a70660f1379", null ],
-    [ "UpdateAI", "dc/ddf/a21596.html#ad09a3a063d716bc43e23b5aad5e46a7b", null ],
-    [ "_events", "dc/ddf/a21596.html#aaecb5a402e4ffca1e819303dbb94f5b5", null ]
+    [ "npc_valiance_keep_cannoneerAI", "da/daa/a21600.html", "da/daa/a21600" ],
+    [ "npc_valiance_keep_cannoneer", "dc/ddf/a21596.html#a11f6060a7c6cd7be60001f5c259c94d3", null ],
+    [ "GetAI", "dc/ddf/a21596.html#a8bfc1505dedee28d1517ba6a7738ffd5", null ]
 ];

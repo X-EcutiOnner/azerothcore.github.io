@@ -1,6 +1,7 @@
 var a12296 =
 [
-    [ "boss_vaelAI", "d6/d17/a12300.html", "d6/d17/a12300" ],
-    [ "boss_vaelastrasz", "df/de1/a12296.html#a0b51f3b50cde4907bd9064e8bf51c005", null ],
-    [ "GetAI", "df/de1/a12296.html#a42dde198f5fc0ab2e7ca28ac32c42b7e", null ]
+    [ "HandlePeriodic", "df/de1/a12296.html#a72e043202c587e6c12d0b36d679cd071", null ],
+    [ "PrepareAuraScript", "df/de1/a12296.html#a7ca007283e34855ee825ae160653f4a3", null ],
+    [ "Register", "df/de1/a12296.html#aebad39c65167042be8db3c3a1811a235", null ],
+    [ "Validate", "df/de1/a12296.html#aaf87c4052fd5408f7e34e2e14500e813", null ]
 ];

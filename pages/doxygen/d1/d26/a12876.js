@@ -1,16 +1,14 @@
 var a12876 =
 [
-    [ "npc_unworthy_initiateAI", "d1/d26/a12876.html#ae535d3335eb7865400f9e5c24b1dd3b5", null ],
-    [ "EventStart", "d1/d26/a12876.html#a1973d5a14a1ac19be1d74cf57693cabe", null ],
-    [ "JustEngagedWith", "d1/d26/a12876.html#aeedb0af23823ec5c7ff4f951c872552e", null ],
-    [ "MovementInform", "d1/d26/a12876.html#afbf6d71b196067400256df98949ae963", null ],
-    [ "Reset", "d1/d26/a12876.html#aba37cb6291a2e7436f8af796c50dead9", null ],
-    [ "UpdateAI", "d1/d26/a12876.html#a485695877f48aea0bb191e8b312f9c99", null ],
-    [ "anchorGUID", "d1/d26/a12876.html#acb1b338fae07b3ececfc8c15cc5ea80b", null ],
-    [ "anchorX", "d1/d26/a12876.html#a69455d3e3f822c2f2a4f8c3f89e4586d", null ],
-    [ "anchorY", "d1/d26/a12876.html#a67bbfac4014f2907cc9ad9caca80a4be", null ],
-    [ "events", "d1/d26/a12876.html#a4eff6a50c098c3f851274ece860fb6fb", null ],
-    [ "phase", "d1/d26/a12876.html#a299de7b4e1992edebd0a87c119d06d0a", null ],
-    [ "playerGUID", "d1/d26/a12876.html#a02d1e6dd7a302e170b08f0c90f038ca9", null ],
-    [ "wait_timer", "d1/d26/a12876.html#a9270c6e57cf77805769cfe692beefbe0", null ]
+    [ "npc_death_knight_initiateAI", "d1/d26/a12876.html#aa03a128068072b85bf0926cdececaaf2", null ],
+    [ "DamageTaken", "d1/d26/a12876.html#ac83f7d28886eaf5fb44c3c6ce44a7acd", null ],
+    [ "GetData", "d1/d26/a12876.html#ac3216c0cf7284fd7a8d5ece153467b41", null ],
+    [ "Reset", "d1/d26/a12876.html#ad152856d614c8f4c900f77749ac55dd9", null ],
+    [ "SpellHit", "d1/d26/a12876.html#a308f2f29ec7f9277d102564ff6d39e32", null ],
+    [ "UpdateAI", "d1/d26/a12876.html#a6e67cda0b83578818a5e3b34ed9517cf", null ],
+    [ "_duelGUID", "d1/d26/a12876.html#a32dd4a91841f2e75c8bca109015fc56a", null ],
+    [ "_duelInProgress", "d1/d26/a12876.html#a3fdcf062b22c08b1dd616dad591a1021", null ],
+    [ "events", "d1/d26/a12876.html#aa1c6d513e04253d0b83522c9c1cc2ac8", null ],
+    [ "playerGUIDs", "d1/d26/a12876.html#ac12adec2cb751e2e41008954bbe20248", null ],
+    [ "timer", "d1/d26/a12876.html#ad22e8bc9e0d22a5ba164a60e438d98a7", null ]
 ];

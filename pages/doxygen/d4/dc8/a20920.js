@@ -1,6 +1,6 @@
 var a20920 =
 [
-    [ "FilterTargets", "d4/dc8/a20920.html#a7efa78a7991b7ca859c7d622f973265d", null ],
-    [ "PrepareSpellScript", "d4/dc8/a20920.html#a67da98b94fe491afa06b7a0cfa92982a", null ],
-    [ "Register", "d4/dc8/a20920.html#a4d2c901a32f526673e968aa5b7ca9117", null ]
+    [ "boss_yoggsaron_neltharionAI", "db/d9f/a20924.html", "db/d9f/a20924" ],
+    [ "boss_yoggsaron_neltharion", "d4/dc8/a20920.html#a9910e0d6043e7738cba0fe9ae7e92898", null ],
+    [ "GetAI", "d4/dc8/a20920.html#abce5f59c35f7af3e1d5b30cc55ff48e6", null ]
 ];

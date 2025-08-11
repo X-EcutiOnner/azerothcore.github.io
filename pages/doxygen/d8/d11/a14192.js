@@ -1,10 +1,7 @@
 var a14192 =
 [
-    [ "npc_coren_direbrew_sisters", "d8/d11/a14192.html#a415ea0ebd044236f5f4c4d6c28896e00", null ],
-    [ "GetGUID", "d8/d11/a14192.html#a61863117e71ebfb7f1c4c83780ece7bc", null ],
-    [ "JustEngagedWith", "d8/d11/a14192.html#a34e0b6af032240c152c463c221d99335", null ],
-    [ "SetGUID", "d8/d11/a14192.html#ada2e446a929bbba088d3c7e09d117f93", null ],
-    [ "UpdateAI", "d8/d11/a14192.html#a7434b08d12d3f0902d1944b75323560c", null ],
-    [ "_scheduler", "d8/d11/a14192.html#a9d8ca85e7bbd3cc9c61c2bbb38b7d222", null ],
-    [ "_targetGUID", "d8/d11/a14192.html#a801a6811124a7db3a31ec492ef954b20", null ]
+    [ "FilterTargets", "d8/d11/a14192.html#a3498c9eb96bf1a6a85ded114e995850c", null ],
+    [ "HandleDummyEffect", "d8/d11/a14192.html#a3985ca8b79a234e44d9f46ffe6d5b232", null ],
+    [ "PrepareSpellScript", "d8/d11/a14192.html#a03f752d4d4762698e5777a4ae0e395cf", null ],
+    [ "Register", "d8/d11/a14192.html#a9af46e5f2fdb4719d65bb96f2b68a7f8", null ]
 ];

@@ -1,5 +1,6 @@
 var a07104 =
 [
-    [ "AuctionSearchAdd", "d0/da5/a07104.html#a40116c721d736fe362a3dab56e6b3113", null ],
-    [ "searchableAuctionEntry", "d0/da5/a07104.html#a48e000b0e7d9411676fd2ccacf283163", null ]
+    [ "AuctionSearchBidderListRequest", "d0/da5/a07104.html#a193c39468959c998a2ccae74342983d2", null ],
+    [ "outbiddedAuctionIds", "d0/da5/a07104.html#a6caf25d532b87d38b043cf3aa214f9cd", null ],
+    [ "ownerGuid", "d0/da5/a07104.html#a6fb69f4996993f264466c50e7485c4a6", null ]
 ];

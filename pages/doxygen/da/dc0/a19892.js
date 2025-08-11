@@ -1,6 +1,5 @@
 var a19892 =
 [
-    [ "npc_pool_of_tarAI", "da/dc0/a19892.html#a6141addc9b1cf2c0028d98ef4f4d9d37", null ],
-    [ "DamageTaken", "da/dc0/a19892.html#a4ea55aa08123f724268238e0def5b595", null ],
-    [ "SpellHit", "da/dc0/a19892.html#acb63166b396c079d5b4bb9db67a1448a", null ]
+    [ "boss_flame_leviathan_overload_deviceAI", "da/dc0/a19892.html#ab28c1371c20672e717f92fbc3656fb99", null ],
+    [ "OnSpellClick", "da/dc0/a19892.html#af432be27e1b91ecf5a5a53c7b6add39e", null ]
 ];

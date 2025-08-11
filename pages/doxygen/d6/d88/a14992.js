@@ -1,6 +1,6 @@
 var a14992 =
 [
-    [ "FilterTargets", "d6/d88/a14992.html#ab0cd088c750e9538e2087f58fdaac20e", null ],
-    [ "PrepareSpellScript", "d6/d88/a14992.html#ae252cbce0ebc63eb4e54bedfc88640ad", null ],
-    [ "Register", "d6/d88/a14992.html#a3168a3f97ddb38b261a0730405ba27db", null ]
+    [ "HandleDummyHitTarget", "d6/d88/a14992.html#ae773d73496578170061baedd8f7daec1", null ],
+    [ "PrepareSpellScript", "d6/d88/a14992.html#a822fe6d19c2ee0d02dc5561b4f910cf9", null ],
+    [ "Register", "d6/d88/a14992.html#a651cc94581130224ba23e864f8ad7060", null ]
 ];

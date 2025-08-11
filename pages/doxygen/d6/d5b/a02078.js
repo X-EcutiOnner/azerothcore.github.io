@@ -1,27 +1,10 @@
 var a02078 =
 [
-    [ "npc_shenthul", "d7/d34/a15484.html", "d7/d34/a15484" ],
-    [ "npc_shenthul::npc_shenthulAI", "d1/d7e/a15488.html", "d1/d7e/a15488" ],
-    [ "npc_thrall_warchief", "d1/d6a/a15492.html", "d1/d6a/a15492" ],
-    [ "npc_thrall_warchief::npc_thrall_warchiefAI", "da/d45/a15496.html", "da/d45/a15496" ],
-    [ "Shenthul", "d6/d5b/a02078.html#a032512bb2693fda342f4d77dba794fbe", [
-      [ "QUEST_SHATTERED_SALUTE", "d6/d5b/a02078.html#a032512bb2693fda342f4d77dba794fbea38993f500c01e7bc0ae8dd3a83848ff0", null ]
-    ] ],
-    [ "ThrallWarchief", "d6/d5b/a02078.html#a1cdad3bda3b93500c342a64dce6d15d9", [
-      [ "SPELL_CHAIN_LIGHTNING", "d6/d5b/a02078.html#a1cdad3bda3b93500c342a64dce6d15d9ac0997e72929070d8e30cc0f49cc4539d", null ],
-      [ "SPELL_SHOCK", "d6/d5b/a02078.html#a1cdad3bda3b93500c342a64dce6d15d9a30aa4cac2f70a310466b3fb0f2d10eab", null ],
-      [ "QUEST_FOR_THE_HORDE", "d6/d5b/a02078.html#a1cdad3bda3b93500c342a64dce6d15d9aed442141280385194a0a8b73d7e489af", null ],
-      [ "SPELL_WARCHIEF_BLESSING", "d6/d5b/a02078.html#a1cdad3bda3b93500c342a64dce6d15d9a567e6044eaae260d8ab29c346613b225", null ],
-      [ "NPC_HERALD_OF_THRALL", "d6/d5b/a02078.html#a1cdad3bda3b93500c342a64dce6d15d9a3533aba0519168d4cfb3446a1bbde5bc", null ],
-      [ "ACTION_START_TALKING", "d6/d5b/a02078.html#a1cdad3bda3b93500c342a64dce6d15d9a322b9b49cd88bc70c039be2aa4e0c7fd", null ],
-      [ "SAY_THRALL_ON_QUEST_REWARD_0", "d6/d5b/a02078.html#a1cdad3bda3b93500c342a64dce6d15d9a64ac3588375f611524513fd4d4293a1b", null ],
-      [ "SAY_THRALL_ON_QUEST_REWARD_1", "d6/d5b/a02078.html#a1cdad3bda3b93500c342a64dce6d15d9a3a6a88801e0a276bd78e5299ffb76302", null ],
-      [ "GO_UNADORNED_SPIKE", "d6/d5b/a02078.html#a1cdad3bda3b93500c342a64dce6d15d9a544ea295d906cebdf38aecb93e7ac153", null ],
-      [ "QUEST_WHAT_THE_WIND_CARRIES", "d6/d5b/a02078.html#a1cdad3bda3b93500c342a64dce6d15d9a5bc18876e7da8ddfc493ea155bb75287", null ],
-      [ "GOSSIP_MENU_THRALL", "d6/d5b/a02078.html#a1cdad3bda3b93500c342a64dce6d15d9a502d5aed1ed2917d36573a355656ce86", null ],
-      [ "GOSSIP_RESPONSE_THRALL_FIRST", "d6/d5b/a02078.html#a1cdad3bda3b93500c342a64dce6d15d9a710a8ed7a2d8ddb38e5e0f7db188132d", null ],
-      [ "QUEST_WARCHIEFS_BLESSING", "d6/d5b/a02078.html#a1cdad3bda3b93500c342a64dce6d15d9ab698e2206a77782e1893a2230085a047", null ]
-    ] ],
-    [ "AddSC_orgrimmar", "d6/d5b/a02078.html#aec4388ea6d2e4bbc1d279b3a4687c4c6", null ],
-    [ "heraldOfThrallPos", "d6/d5b/a02078.html#a016aeee1d0eac9c78c522520663670f0", null ]
+    [ "AccountFlagText", "d0/d91/a11708.html", "d0/d91/a11708" ],
+    [ "misc_commandscript", "dd/da1/a11712.html", "dd/da1/a11712" ],
+    [ "AddSC_misc_commandscript", "d6/d5b/a02078.html#ac722d20c86b9502b7c4c8ae711cc3917", null ],
+    [ "GetLocalizeCreatureName", "d6/d5b/a02078.html#aaedbdfd3cae227b11684151f41e3b977", null ],
+    [ "accountFlagText", "d6/d5b/a02078.html#a704344ab0c20d3674c76d1dcf177ec9a", null ],
+    [ "SPELL_FREEZE", "d6/d5b/a02078.html#a181bdc61e4eb1d21db975ca0227cb086", null ],
+    [ "SPELL_STUCK", "d6/d5b/a02078.html#a1706df7feb0ef4f693c388033ace5fb7", null ]
 ];

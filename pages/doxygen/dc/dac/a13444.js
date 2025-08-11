@@ -1,6 +1,6 @@
 var a13444 =
 [
-    [ "instance_uldaman_InstanceMapScript", "de/d39/a13448.html", "de/d39/a13448" ],
-    [ "instance_uldaman", "dc/dac/a13444.html#a854807db729d15aa4a09aad051fe3bda", null ],
-    [ "GetInstanceScript", "dc/dac/a13444.html#a672bb8b5a16d29d25a191ab90d8007b4", null ]
+    [ "ChangeSummonPos", "dc/dac/a13444.html#ae24a7c8279a92f1018748a0e930736ac", null ],
+    [ "PrepareSpellScript", "dc/dac/a13444.html#a7b6cd9464f27676f0c74224ef1b1a9cc", null ],
+    [ "Register", "dc/dac/a13444.html#a03a1a1e5501452eacaceadd9725f2287", null ]
 ];

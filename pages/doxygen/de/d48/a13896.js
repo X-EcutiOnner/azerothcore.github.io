@@ -1,6 +1,6 @@
 var a13896 =
 [
-    [ "npc_zulian_prowlerAI", "dd/d4d/a13900.html", "dd/d4d/a13900" ],
-    [ "npc_zulian_prowler", "de/d48/a13896.html#a27ae990985976d02bb221b6d669fa849", null ],
-    [ "GetAI", "de/d48/a13896.html#a7e7d4f8164bbb728a1b83244c1e356f9", null ]
+    [ "OnEffect", "de/d48/a13896.html#ab87d53faac04ced3c11088e260782068", null ],
+    [ "PrepareSpellScript", "de/d48/a13896.html#af618e8d84029dda5e48b699cbcf671be", null ],
+    [ "Register", "de/d48/a13896.html#abcfe54b8901ec3c5e070b3c528ade26e", null ]
 ];

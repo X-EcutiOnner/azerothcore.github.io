@@ -1,8 +1,9 @@
 var a10560 =
 [
-    [ "GuildCommandResult", "d1/d46/a10560.html#a9b82d7f9fe8f9b42fb4ed74c14cba03d", null ],
-    [ "Write", "d1/d46/a10560.html#a621e211342b3bf9b5de01a9a3b66291b", null ],
-    [ "Command", "d1/d46/a10560.html#a099cf9f39c403f76971d006245b03f29", null ],
-    [ "Name", "d1/d46/a10560.html#a122ee78cb5fc38aa7ecd7a2cad8a33cc", null ],
-    [ "Result", "d1/d46/a10560.html#a8b6b2127aa39807a61bf0cc3cce15921", null ]
+    [ "GuildInfoResponse", "d1/d46/a10560.html#a256cb81ad2e08050be99c9e1061c2009", null ],
+    [ "Write", "d1/d46/a10560.html#a3222d0018c9593400d3d01258b82371e", null ],
+    [ "CreateDate", "d1/d46/a10560.html#a1a0acf334d88751e94257ff76c9e3fd8", null ],
+    [ "GuildName", "d1/d46/a10560.html#ad8efc926197e955ed0cf8df6a74b41e8", null ],
+    [ "NumAccounts", "d1/d46/a10560.html#a21b42f1654aa10f7872d87635fea66ac", null ],
+    [ "NumMembers", "d1/d46/a10560.html#a7e748a70029e867ba8c90eaba85bf8c9", null ]
 ];

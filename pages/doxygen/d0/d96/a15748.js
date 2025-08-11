@@ -1,6 +1,6 @@
 var a15748 =
 [
-    [ "npc_shadowpriest_sezzizAI", "dd/d49/a15752.html", "dd/d49/a15752" ],
-    [ "npc_shadowpriest_sezziz", "d0/d96/a15748.html#a1be46acc9d8f1405f925f7b7f87592ea", null ],
-    [ "GetAI", "d0/d96/a15748.html#a1513b766f18dbc290b6682582fd33b1d", null ]
+    [ "creatureID", "d0/d96/a15748.html#a44a9f5e58bfa58e2e2325e116e988f07", null ],
+    [ "pos", "d0/d96/a15748.html#a9705a858cc2c3867e104514d3a0a1866", null ],
+    [ "waveID", "d0/d96/a15748.html#a09b48f7f6da7e203ed50a8abc7f24e56", null ]
 ];

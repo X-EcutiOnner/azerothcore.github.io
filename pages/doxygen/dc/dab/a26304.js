@@ -1,6 +1,9 @@
 var a26304 =
 [
-    [ "CheckProc", "dc/dab/a26304.html#aa9cf64a1965bd7924ce5a9c639d85fb3", null ],
-    [ "PrepareAuraScript", "dc/dab/a26304.html#a87d2959523a306f85c69aa5a7a5b3de5", null ],
-    [ "Register", "dc/dab/a26304.html#a9dee4c4568f36f82b82148cb847d50ca", null ]
+    [ "HandleAfterCast", "dc/dab/a26304.html#ac08e632064c407346649f525d030d335", null ],
+    [ "HandleDummy", "dc/dab/a26304.html#a9c1dadd5a3e2e039b50a414ac589ebf4", null ],
+    [ "Load", "dc/dab/a26304.html#a177525c755b036a79263c0fa6fa4082e", null ],
+    [ "PrepareSpellScript", "dc/dab/a26304.html#aed99b07a53068b19bddb4daff3449a52", null ],
+    [ "Register", "dc/dab/a26304.html#a946e56a325d83656d9b43af80d065e45", null ],
+    [ "_triggerSpellId", "dc/dab/a26304.html#a6697a22b684784853cb1999d41fcaaa7", null ]
 ];

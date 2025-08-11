@@ -1,6 +1,7 @@
 var a20036 =
 [
-    [ "boss_freya_iron_rootAI", "d1/d94/a20040.html", "d1/d94/a20040" ],
-    [ "boss_freya_iron_root", "d0/d8f/a20036.html#a9478144d6cb72d08698cbfc50893935b", null ],
-    [ "GetAI", "d0/d8f/a20036.html#acdda736e9259d59a30a40d989e70f95c", null ]
+    [ "achievement_flame_leviathan_garage", "d0/d8f/a20036.html#a1893b4059d7212d023c45bb828bb1905", null ],
+    [ "OnCheck", "d0/d8f/a20036.html#aa5897eb1fadeda4dda9f2390053d89b6", null ],
+    [ "_entry1", "d0/d8f/a20036.html#af482d6c1b2681b9fec572281620a86b7", null ],
+    [ "_entry2", "d0/d8f/a20036.html#a41e83b47c411dc6a6aff310ae7059f4e", null ]
 ];

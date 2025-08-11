@@ -1,9 +1,8 @@
 var a13468 =
 [
-    [ "npc_professor_phizzlethorpeAI", "d3/d2b/a13468.html#a92af4732575008c1a4f061cef0f23902", null ],
-    [ "JustEngagedWith", "d3/d2b/a13468.html#a8864031e3c7a32cde57ca6efbf785d53", null ],
-    [ "JustSummoned", "d3/d2b/a13468.html#af8e4e706925d8837cacdc0b5a6d1f10d", null ],
-    [ "sQuestAccept", "d3/d2b/a13468.html#ad4a4bd9af581abe832933da69b18d76f", null ],
-    [ "UpdateAI", "d3/d2b/a13468.html#a1c62cd07da5f0da91ef572bb00619d26", null ],
-    [ "WaypointReached", "d3/d2b/a13468.html#a7be58c6ecc4e5ba23ec35cc1864f19e6", null ]
+    [ "npc_sunblade_arch_mage", "d3/d2b/a13468.html#a25cc45033c55f1099b50eab4b4f497ee", null ],
+    [ "JustEngagedWith", "d3/d2b/a13468.html#aadeae32d691229b7b7b531175b8a5018", null ],
+    [ "Reset", "d3/d2b/a13468.html#a0d0349ea507b1f8431014c55eef5ce0e", null ],
+    [ "UpdateAI", "d3/d2b/a13468.html#a3289fbad5f987a3d5d9986a31a1c442f", null ],
+    [ "scheduler", "d3/d2b/a13468.html#aa6680f06651316996868907b1d28126c", null ]
 ];

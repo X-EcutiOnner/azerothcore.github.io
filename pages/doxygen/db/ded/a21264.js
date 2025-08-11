@@ -1,6 +1,6 @@
 var a21264 =
 [
-    [ "npc_frozen_orb_stalkerAI", "db/ded/a21264.html#afd8d187ecbf508d02824d1ff8f3cb5cf", null ],
-    [ "JustSummoned", "db/ded/a21264.html#a73d7d5e55d2a00c9aee6f595e2678b17", null ],
-    [ "Reset", "db/ded/a21264.html#a064ccb90afeb9b36d501850482c60bc4", null ]
+    [ "boss_koralonAI", "d6/d34/a21268.html", "d6/d34/a21268" ],
+    [ "boss_koralon", "db/ded/a21264.html#a43b9fb1224abeba44080fb02062451b0", null ],
+    [ "GetAI", "db/ded/a21264.html#a7afd462b2c43ee088c09fcb7ddcb141d", null ]
 ];

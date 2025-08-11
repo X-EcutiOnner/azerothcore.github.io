@@ -1,5 +1,13 @@
 var a22496 =
 [
-    [ "OutdoorPvP_nagrand", "d8/de8/a22496.html#ac6e0f41eafb915604bd1b1d84e915f87", null ],
-    [ "GetOutdoorPvP", "d8/de8/a22496.html#ae8ce0bf210e2be8229b9ac4d8615b058", null ]
+    [ "OPvPCapturePointEP_PWT", "d8/de8/a22496.html#a17e3d11c9b282f203bb0e1511fb5af02", null ],
+    [ "ChangeState", "d8/de8/a22496.html#a1e26a3ed8d700533df0a51d8db510a4f", null ],
+    [ "FillInitialWorldStates", "d8/de8/a22496.html#ab5faf124f53394a4a54a86a7bf5d0626", null ],
+    [ "HandlePlayerEnter", "d8/de8/a22496.html#ab9bf289c0814e60fd75902b4e87d1e46", null ],
+    [ "HandlePlayerLeave", "d8/de8/a22496.html#a5772e54263c613eee365856def5e74e6", null ],
+    [ "SendChangePhase", "d8/de8/a22496.html#af1cffc64adac5b64c04175ad1685d0b8", null ],
+    [ "SummonFlightMaster", "d8/de8/a22496.html#ab3808f8d756cc5f0b48db9375ae2fa1c", null ],
+    [ "UpdateTowerState", "d8/de8/a22496.html#af30325b43d2861eb667b33dcb23ffc1e", null ],
+    [ "m_FlightMasterSpawnedId", "d8/de8/a22496.html#afeefd804849b925e6d0a880d8efb5319", null ],
+    [ "m_TowerState", "d8/de8/a22496.html#a914dcbb37baf457750cfe9829d95d88c", null ]
 ];

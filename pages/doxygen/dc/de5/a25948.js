@@ -1,6 +1,6 @@
 var a25948 =
 [
-    [ "OnRemove", "dc/de5/a25948.html#ae1f257e43effcb396d57d42db3063afd", null ],
-    [ "PrepareAuraScript", "dc/de5/a25948.html#a5b13e46dc228ffe594ce2ce06a7d6799", null ],
-    [ "Register", "dc/de5/a25948.html#a4a94d5c8efdd7f6e0dd655ebeb8c4614", null ]
+    [ "CalculateAmount", "dc/de5/a25948.html#a2010f58ba86d6266e9549753fdec52ed", null ],
+    [ "PrepareAuraScript", "dc/de5/a25948.html#aa9ddc9f2a0ded66e81be51cec24a0e4b", null ],
+    [ "Register", "dc/de5/a25948.html#acf737f74e3cb9340f3449b491e923b7f", null ]
 ];

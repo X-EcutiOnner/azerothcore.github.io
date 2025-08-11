@@ -1,7 +1,6 @@
 var a20940 =
 [
-    [ "HandleEffectCalcPeriodic", "d5/d7d/a20940.html#af01eb94174952de52615734055b17c1a", null ],
-    [ "HandleEffectPeriodic", "d5/d7d/a20940.html#a87b4517a6ad8630027ab2c3534b9fb8c", null ],
-    [ "PrepareAuraScript", "d5/d7d/a20940.html#a95bd054accb5b72c4cfb12caccf0e004", null ],
-    [ "Register", "d5/d7d/a20940.html#a2d506669ddc4c84e9ae3eb1746eadce1", null ]
+    [ "FilterTargets", "d5/d7d/a20940.html#adaeee235184ddc36e90e532091183056", null ],
+    [ "PrepareSpellScript", "d5/d7d/a20940.html#a599f604e872d3a5a4ed2b155caefdc9f", null ],
+    [ "Register", "d5/d7d/a20940.html#ab79041a2536878498744555475bce5c8", null ]
 ];

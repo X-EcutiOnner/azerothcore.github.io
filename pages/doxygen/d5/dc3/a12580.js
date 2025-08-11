@@ -1,18 +1,12 @@
 var a12580 =
 [
-    [ "boss_moroes", "d5/dc3/a12580.html#ae477dcfd679dd7943ddd133bb0dd89df", null ],
-    [ "CheckGuestsInRoom", "d5/dc3/a12580.html#ad34daa424532003e8da616aed3df6c82", null ],
-    [ "GetRandomGuest", "d5/dc3/a12580.html#a73f4b3c1a3a46261cf62143f8359b55e", null ],
-    [ "InitializeAI", "d5/dc3/a12580.html#a1bba38840a7e6f09720ce33c51802a77", null ],
-    [ "InitializeGuests", "d5/dc3/a12580.html#a815ca169e0787c92c09a5803007355aa", null ],
-    [ "JustDied", "d5/dc3/a12580.html#a7d425d58b1e64ef174ff92e1263de544", null ],
-    [ "JustEngagedWith", "d5/dc3/a12580.html#aa0bf31d8298b4ec6ce205cefd0766194", null ],
-    [ "JustReachedHome", "d5/dc3/a12580.html#ad67598edc4034dd87ba5260d5f19fd3d", null ],
-    [ "KilledUnit", "d5/dc3/a12580.html#a3d28056a0d26d426d84363fb0c4f7e4d", null ],
-    [ "Reset", "d5/dc3/a12580.html#a677f2b8375981d904183dd804f4b32b8", null ],
-    [ "UpdateAI", "d5/dc3/a12580.html#aa639032a49b3e9bd4209d17e0863db32", null ],
-    [ "_activeGuests", "d5/dc3/a12580.html#a651f53f476f205785d596ed9d52fdb89", null ],
-    [ "_events2", "d5/dc3/a12580.html#ae1c0474e0a940a803d82d3fe6d3ff37f", null ],
-    [ "_recentlySpoken", "d5/dc3/a12580.html#a6408ec64b2777dbcd322cb64af3f8c17", null ],
-    [ "_vanished", "d5/dc3/a12580.html#a60d99b80815a2b2626638d6410ce64a2", null ]
+    [ "BoardCell", "d5/dc3/a12580.html#a1ecd0d14c1b4896f70caaee83e1c864d", null ],
+    [ "Reset", "d5/dc3/a12580.html#a22a71e9bd4a4dd9601aa0fffe978009c", null ],
+    [ "SetData", "d5/dc3/a12580.html#a0e57e888290cbe15b5dafa9788c3f86b", null ],
+    [ "SetPiece", "d5/dc3/a12580.html#ac919854a2e9d5fc2d1b68960e16cf79d", null ],
+    [ "col", "d5/dc3/a12580.html#a49707efa5b356ad0dc6f6ff16a652430", null ],
+    [ "pieceEntry", "d5/dc3/a12580.html#a7697506ccc800d38968e457c44bfa019", null ],
+    [ "pieceGUID", "d5/dc3/a12580.html#a74f494e406c56d4c61d79539acea684c", null ],
+    [ "row", "d5/dc3/a12580.html#a195c187e134be546f224cbb0eef8c844", null ],
+    [ "triggerGUID", "d5/dc3/a12580.html#a9cafdea50739b014a97e60611adcd3f1", null ]
 ];

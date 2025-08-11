@@ -1,6 +1,7 @@
 var a17540 =
 [
-    [ "npc_igb_ship_crewAI", "d6/d8c/a17544.html", "d6/d8c/a17544" ],
-    [ "npc_igb_ship_crew", "d0/d49/a17540.html#a5f4380aba94766a6a75b97026998b881", null ],
-    [ "GetAI", "d0/d49/a17540.html#a48955817e21a01a726b50685b467c229", null ]
+    [ "DelayedMovementEvent", "d0/d49/a17540.html#a21241cde30f66ae42edb311542f7405c", null ],
+    [ "Execute", "d0/d49/a17540.html#a8287761226ee671905151891779b6efb", null ],
+    [ "_dest", "d0/d49/a17540.html#a9a0cd9830509ffdecd98ac8231350d58", null ],
+    [ "_owner", "d0/d49/a17540.html#a046942728282a997068de447271f3cbe", null ]
 ];

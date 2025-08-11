@@ -1,12 +1,11 @@
 var a20620 =
 [
-    [ "boss_thorim_start_npcsAI", "d4/db5/a20620.html#a9602af25cbe9d4b3fe8534093c237a20", null ],
-    [ "DamageTaken", "d4/db5/a20620.html#a9a848662671380a726eb7288c6507f68", null ],
-    [ "JustDied", "d4/db5/a20620.html#a3c4b8928e1e0264e88eb49d930529c41", null ],
-    [ "JustEngagedWith", "d4/db5/a20620.html#ab6c0a8ae05a408cafb8ffe359d4d0d4e", null ],
-    [ "Reset", "d4/db5/a20620.html#aedf26a4b5baaf464d70316ce79ec32b3", null ],
-    [ "UpdateAI", "d4/db5/a20620.html#a5a84827d8d85e3a9b8e374da68d2c7ed", null ],
-    [ "_isCaster", "d4/db5/a20620.html#a6b2729ab9bce244da0a7d7fe6a4280f7", null ],
-    [ "_playerAttack", "d4/db5/a20620.html#adb868f1910859c79625cfb7f9a2b4101", null ],
-    [ "events", "d4/db5/a20620.html#a8dc5693814c49003727204623cef29b7", null ]
+    [ "boss_thorim_sifAI", "d4/db5/a20620.html#af63f344d3a5650baaa9b96204abc39a9", null ],
+    [ "AttackStart", "d4/db5/a20620.html#ae9354f2e97c88cd1af86fae050e810d6", null ],
+    [ "DoAction", "d4/db5/a20620.html#a8aac66a64c5ca6491595c2b3b6cbbd95", null ],
+    [ "MoveInLineOfSight", "d4/db5/a20620.html#a3e7d07ca6fc8f4619173f3fd74d63ccb", null ],
+    [ "Reset", "d4/db5/a20620.html#ab30d73613bafac5b92021677d69b3aae", null ],
+    [ "UpdateAI", "d4/db5/a20620.html#a09ee3373177e84a5e4e51ebb48c68525", null ],
+    [ "_allowCast", "d4/db5/a20620.html#ade272764f09375d8e5fda937d42aad90", null ],
+    [ "events", "d4/db5/a20620.html#a8fd3c7073a250d054e3edc73d5867fbd", null ]
 ];

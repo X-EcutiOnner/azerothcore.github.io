@@ -1,7 +1,6 @@
 var a18032 =
 [
-    [ "HandleScript", "d4/d95/a18032.html#a5fbb1d26c4e7d5d21745004e477b3c1e", null ],
-    [ "PrepareSpellScript", "d4/d95/a18032.html#a7e6b56f426be7925255da3ebc239f909", null ],
-    [ "Register", "d4/d95/a18032.html#a0eb2d734ac99d3a036b95b6daa39b9f5", null ],
-    [ "Validate", "d4/d95/a18032.html#a86b4296eab73fc63b38558871f16a889", null ]
+    [ "LastPhaseIceTombTargetSelector", "d4/d95/a18032.html#ac01f20b199bb0ee63b9c8f8206321057", null ],
+    [ "operator()", "d4/d95/a18032.html#a92a846ff557334b1f30d8e062a2c64e9", null ],
+    [ "_source", "d4/d95/a18032.html#ab10d10dd0de7717078d31ac026d4c933", null ]
 ];

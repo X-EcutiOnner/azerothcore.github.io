@@ -1,7 +1,7 @@
 var a02342 =
 [
-    [ "IsAcceptedClientBuild", "d7/d54/a02342.html#a50a906b5a3fdca3508aee0997881a717", null ],
-    [ "IsPostBCAcceptedClientBuild", "d7/d54/a02342.html#ad4f22daf9d88367d90d92416f470a28c", null ],
-    [ "IsPreBCAcceptedClientBuild", "d7/d54/a02342.html#a96896fc9dad2c304f681a24776f6726b", null ],
-    [ "MAX_PRE_BC_CLIENT_BUILD", "d7/d54/a02342.html#ac023f15b280fc65fdefefb77f2f7be7b", null ]
+    [ "instance_the_underbog", "d2/de8/a23440.html", "d2/de8/a23440" ],
+    [ "instance_the_underbog::instance_the_underbog_InstanceMapScript", "d1/d9f/a23444.html", "d1/d9f/a23444" ],
+    [ "AddSC_instance_the_underbog", "d7/d54/a02342.html#acc5edb97f1bda7cd30a38061e4676698", null ],
+    [ "creatureData", "d7/d54/a02342.html#a412286b689bd324fedd65ddd8dde8afb", null ]
 ];

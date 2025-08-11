@@ -1,7 +1,10 @@
 var a27568 =
 [
-    [ "npc_steam_tonkAI", "dc/d2f/a27568.html#a64bc74af412304d50526e5c93e01a333", null ],
-    [ "JustEngagedWith", "dc/d2f/a27568.html#a95b023adf0a2e62788e0d5646b17b319", null ],
-    [ "OnPossess", "dc/d2f/a27568.html#a954208c1a9826ae84a7402f59e1d7055", null ],
-    [ "Reset", "dc/d2f/a27568.html#a5c76625843b30302b2af0a4ae8b85bd2", null ]
+    [ "npc_dancing_flamesAI", "dc/d2f/a27568.html#a3d597b2ee826c86b5a8feb3aa144a459", null ],
+    [ "JustEngagedWith", "dc/d2f/a27568.html#ae0d71d4f9074c05ea76951ede6c7702a", null ],
+    [ "ReceiveEmote", "dc/d2f/a27568.html#a13aae489e8b03121c8fbae12e83bdfaa", null ],
+    [ "Reset", "dc/d2f/a27568.html#a53b49dadc70e3e134ca49cd239b569d6", null ],
+    [ "UpdateAI", "dc/d2f/a27568.html#a555f2ed0d762c5c183ec87580bae46b1", null ],
+    [ "Active", "dc/d2f/a27568.html#aa79036bed206327847bf5ad2e768e8f6", null ],
+    [ "CanIteract", "dc/d2f/a27568.html#a866bfc106fc33433b4eb13fabd9c39c6", null ]
 ];

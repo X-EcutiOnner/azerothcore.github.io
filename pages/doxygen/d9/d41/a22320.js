@@ -1,8 +1,8 @@
 var a22320 =
 [
-    [ "npc_wg_queueAI", "db/deb/a22324.html", "db/deb/a22324" ],
-    [ "npc_wg_queue", "d9/d41/a22320.html#a2cc9825e08e982ef195f117a4512c4ae", null ],
-    [ "GetAI", "d9/d41/a22320.html#ad2d7746a32b520d37ea826b03627de4e", null ],
-    [ "OnGossipHello", "d9/d41/a22320.html#a20fc6ae4e4377f237a620b7f5b1de8ee", null ],
-    [ "OnGossipSelect", "d9/d41/a22320.html#afb707da5d85affc65f7ab5a0fc018c93", null ]
+    [ "npc_hyldsmeet_protodrakeAI", "d9/d41/a22320.html#a30794392a32b1323fb0a86615b341741", null ],
+    [ "PassengerBoarded", "d9/d41/a22320.html#acb699d519bf79702a34b7d9910fe7c9e", null ],
+    [ "UpdateAI", "d9/d41/a22320.html#afd2168f8dc7328898f5e769c31c6da5a", null ],
+    [ "_accessoryRespawnTimer", "d9/d41/a22320.html#a4c6b4236bf35278d05c4b78f1eda6b75", null ],
+    [ "_vehicleKit", "d9/d41/a22320.html#aba68a138ef44af7d012c8c7dd4c06c6d", null ]
 ];

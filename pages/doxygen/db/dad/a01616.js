@@ -1,25 +1,20 @@
 var a01616 =
 [
-    [ "AllBattlegroundScript", "db/d6a/a10206.html", "db/d6a/a10206" ],
-    [ "BGScript", "db/dad/a01616.html#ae9cb670a445a9cb3089a66cdcc822d0e", null ],
-    [ "AllBattlegroundHook", "db/dad/a01616.html#a17a6e2af65c8cf024623d584c7f3a11f", [
-      [ "ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_START", "db/dad/a01616.html#a17a6e2af65c8cf024623d584c7f3a11fa6d4da13cd771a0027ee68bb5a41cbef2", null ],
-      [ "ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_END_REWARD", "db/dad/a01616.html#a17a6e2af65c8cf024623d584c7f3a11fa6249f560935453a3230622aff4d12aeb", null ],
-      [ "ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_UPDATE", "db/dad/a01616.html#a17a6e2af65c8cf024623d584c7f3a11faa835decdfe3bd71e3f36d57ea58f0957", null ],
-      [ "ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_ADD_PLAYER", "db/dad/a01616.html#a17a6e2af65c8cf024623d584c7f3a11fa3be3eca5302bcf69ac7f102837ac7de0", null ],
-      [ "ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_BEFORE_ADD_PLAYER", "db/dad/a01616.html#a17a6e2af65c8cf024623d584c7f3a11fa20256e46bc7531203cb3129b8b2f1d6a", null ],
-      [ "ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_REMOVE_PLAYER_AT_LEAVE", "db/dad/a01616.html#a17a6e2af65c8cf024623d584c7f3a11fa1eb34bf20bb04e911b0fc231d34e9175", null ],
-      [ "ALLBATTLEGROUNDHOOK_ON_QUEUE_UPDATE", "db/dad/a01616.html#a17a6e2af65c8cf024623d584c7f3a11fa2f7e966409796169c03f2a540adc37d7", null ],
-      [ "ALLBATTLEGROUNDHOOK_ON_QUEUE_UPDATE_VALIDITY", "db/dad/a01616.html#a17a6e2af65c8cf024623d584c7f3a11faf57572cc73fbade9e6d25116230677d5", null ],
-      [ "ALLBATTLEGROUNDHOOK_ON_ADD_GROUP", "db/dad/a01616.html#a17a6e2af65c8cf024623d584c7f3a11fa939f6d860e7bd28952f4f8027c23b95f", null ],
-      [ "ALLBATTLEGROUNDHOOK_CAN_FILL_PLAYERS_TO_BG", "db/dad/a01616.html#a17a6e2af65c8cf024623d584c7f3a11fa85e775dbed655cf407e7ebf1a64636f7", null ],
-      [ "ALLBATTLEGROUNDHOOK_IS_CHECK_NORMAL_MATCH", "db/dad/a01616.html#a17a6e2af65c8cf024623d584c7f3a11fadbabd96f7abb5df470101fc9df9d9323", null ],
-      [ "ALLBATTLEGROUNDHOOK_CAN_SEND_MESSAGE_BG_QUEUE", "db/dad/a01616.html#a17a6e2af65c8cf024623d584c7f3a11faab250dae715543f6092538ecead24a53", null ],
-      [ "ALLBATTLEGROUNDHOOK_ON_BEFORE_SEND_JOIN_MESSAGE_ARENA_QUEUE", "db/dad/a01616.html#a17a6e2af65c8cf024623d584c7f3a11faa1d8bc700124dc104e154886f3af51c5", null ],
-      [ "ALLBATTLEGROUNDHOOK_ON_BEFORE_SEND_EXIT_MESSAGE_ARENA_QUEUE", "db/dad/a01616.html#a17a6e2af65c8cf024623d584c7f3a11fa7ff5cea511eefb352f3c13df830a9cd8", null ],
-      [ "ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_END", "db/dad/a01616.html#a17a6e2af65c8cf024623d584c7f3a11fa9a98407eef4207a402bffde24660cc00", null ],
-      [ "ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_DESTROY", "db/dad/a01616.html#a17a6e2af65c8cf024623d584c7f3a11faf70d3c3e04932aa21b33d497d3f30953", null ],
-      [ "ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_CREATE", "db/dad/a01616.html#a17a6e2af65c8cf024623d584c7f3a11fa5cab42841def4696e241e31f655d4cd1", null ],
-      [ "ALLBATTLEGROUNDHOOK_END", "db/dad/a01616.html#a17a6e2af65c8cf024623d584c7f3a11fa0e3bc87a05b030bbdb15eda213d5b6af", null ]
+    [ "FormationInfo", "d7/df6/a08080.html", "d7/df6/a08080" ],
+    [ "FormationMgr", "d9/d93/a08084.html", "d9/d93/a08084" ],
+    [ "CreatureGroup", "de/d0b/a08088.html", "de/d0b/a08088" ],
+    [ "sFormationMgr", "db/dad/a01616.html#ae80a51404625cee821a8727ed7369352", null ],
+    [ "CreatureGroupInfoType", "db/dad/a01616.html#a2c3447bf21f430bff136da6811d93a61", null ],
+    [ "GroupAIFlags", "db/dad/a01616.html#a3754da8cc6b209da0180cd76de20869c", [
+      [ "GROUP_AI_FLAG_MEMBER_ASSIST_LEADER", "db/dad/a01616.html#a3754da8cc6b209da0180cd76de20869caa14252ac4ad9c188fc5d7ed9ca7656a2", null ],
+      [ "GROUP_AI_FLAG_LEADER_ASSIST_MEMBER", "db/dad/a01616.html#a3754da8cc6b209da0180cd76de20869ca28fae9fc8e2ffc5c42c7dd1812694f6e", null ],
+      [ "GROUP_AI_FLAG_EVADE_TOGETHER", "db/dad/a01616.html#a3754da8cc6b209da0180cd76de20869ca928d7601145d6d43e75dcd4016b5168a", null ],
+      [ "GROUP_AI_FLAG_RESPAWN_ON_EVADE", "db/dad/a01616.html#a3754da8cc6b209da0180cd76de20869cafd1b3cc36d34613f8cef22a23e0c6ee6", null ],
+      [ "GROUP_AI_FLAG_DONT_RESPAWN_LEADER_ON_EVADE", "db/dad/a01616.html#a3754da8cc6b209da0180cd76de20869cabcc8bb1d4fe9589142cc0d244ce05043", null ],
+      [ "GROUP_AI_FLAG_ACQUIRE_NEW_TARGET_ON_EVADE", "db/dad/a01616.html#a3754da8cc6b209da0180cd76de20869ca1a12d5efe0ba28476f98f73978bc912e", null ],
+      [ "GROUP_AI_FLAG_FOLLOW_LEADER", "db/dad/a01616.html#a3754da8cc6b209da0180cd76de20869caee689adab992a48549490c861e29da87", null ],
+      [ "GROUP_AI_FLAG_ASSIST_MASK", "db/dad/a01616.html#a3754da8cc6b209da0180cd76de20869ca9fb1dd5025383fe38dc24bd42572256c", null ],
+      [ "GROUP_AI_FLAG_EVADE_MASK", "db/dad/a01616.html#a3754da8cc6b209da0180cd76de20869ca2b086f30dfcafa5d5b17145232d26acd", null ],
+      [ "GROUP_AI_FLAG_SUPPORTED", "db/dad/a01616.html#a3754da8cc6b209da0180cd76de20869ca77e2c9b09a3c1f6ade309decc6d82c60", null ]
     ] ]
 ];

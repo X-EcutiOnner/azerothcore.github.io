@@ -1,17 +1,13 @@
 var a11624 =
 [
-    [ "gobject_commandscript", "dd/d3b/a11624.html#a664ffe7aa07b1e08156545675ae5dc69", null ],
-    [ "GetCommands", "dd/d3b/a11624.html#a75124102670615a7b3a0ecd457ab631a", null ],
-    [ "HandleGameObjectActivateCommand", "dd/d3b/a11624.html#a2512dfca6b1ae8a2476551a02caa202a", null ],
-    [ "HandleGameObjectAddCommand", "dd/d3b/a11624.html#a23717867956cc0da99e3640d2b790346", null ],
-    [ "HandleGameObjectAddTempCommand", "dd/d3b/a11624.html#a49908d7c180d778c43702563add17d2d", null ],
-    [ "HandleGameObjectDeleteCommand", "dd/d3b/a11624.html#a06ef45827cefcc19f748c5940dfb4b1d", null ],
-    [ "HandleGameObjectInfoCommand", "dd/d3b/a11624.html#a1d6e3c850b0bc2772d3f1f09877d8a40", null ],
-    [ "HandleGameObjectMoveCommand", "dd/d3b/a11624.html#a7098a5b0c94cb09b8c6fe08eba261d93", null ],
-    [ "HandleGameObjectNearCommand", "dd/d3b/a11624.html#a156f293b3bf9c7439b62814ee8f27650", null ],
-    [ "HandleGameObjectRespawn", "dd/d3b/a11624.html#aafed57aa556c8cdc0c380185b056d705", null ],
-    [ "HandleGameObjectSetPhaseCommand", "dd/d3b/a11624.html#af2ac49c9fdd408be62dd4ee179c1142c", null ],
-    [ "HandleGameObjectSetStateCommand", "dd/d3b/a11624.html#ae6d100f51d8b08e1576092eedc4db15f", null ],
-    [ "HandleGameObjectTargetCommand", "dd/d3b/a11624.html#a11d33046310495c0a6d883a307c95632", null ],
-    [ "HandleGameObjectTurnCommand", "dd/d3b/a11624.html#a75883394613b2c3501cd48f5334199b7", null ]
+    [ "cheat_commandscript", "dd/d3b/a11624.html#a7449cfba3578956a09b67e569e7e6083", null ],
+    [ "GetCommands", "dd/d3b/a11624.html#a7cc6ca0c216a4ff497b60dc7622623fd", null ],
+    [ "HandleCasttimeCheatCommand", "dd/d3b/a11624.html#a119ad06c5b8be235853bb13c7cff724b", null ],
+    [ "HandleCheatStatusCommand", "dd/d3b/a11624.html#acdf487c7a96d1757d3254e3f17e728cb", null ],
+    [ "HandleCoolDownCheatCommand", "dd/d3b/a11624.html#ab31a1cfe2567b0f597c689f44ab9fd6d", null ],
+    [ "HandleExploreCheatCommand", "dd/d3b/a11624.html#a25ea712f2fb249e49f5f0b8244f743c5", null ],
+    [ "HandleGodModeCheatCommand", "dd/d3b/a11624.html#ac398dbacf025830dc871bc77938d47d6", null ],
+    [ "HandlePowerCheatCommand", "dd/d3b/a11624.html#ae406c5d444b10ba65b79f8ff9d949c24", null ],
+    [ "HandleTaxiCheatCommand", "dd/d3b/a11624.html#ab9bd840c9622d173e710058eeb763388", null ],
+    [ "HandleWaterWalkCheatCommand", "dd/d3b/a11624.html#a9162d89c049f14f29bc5ba257964df34", null ]
 ];

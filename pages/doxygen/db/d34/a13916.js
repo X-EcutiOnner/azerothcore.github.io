@@ -1,6 +1,7 @@
 var a13916 =
 [
-    [ "OnEffect", "db/d34/a13916.html#a50c7e1c65315b5d46749b335e85e15e4", null ],
-    [ "PrepareSpellScript", "db/d34/a13916.html#ab99c723bb71c5fdd844898eaf21cc520", null ],
-    [ "Register", "db/d34/a13916.html#a892faa83f748d36c9c8638a12ac7f2aa", null ]
+    [ "HandleTriggerSpell", "db/d34/a13916.html#a66b366f4989d99a58b331e56024e4520", null ],
+    [ "PrepareAuraScript", "db/d34/a13916.html#a4b00497e095b5c43571b543252b31e58", null ],
+    [ "Register", "db/d34/a13916.html#abacee7689888bf8c5d21b534a6d71b40", null ],
+    [ "Validate", "db/d34/a13916.html#a6bef0ac760a319deed6f71fee213e885", null ]
 ];

@@ -1,6 +1,6 @@
 var a16288 =
 [
-    [ "HideNpcEvent", "de/dfa/a16288.html#ab454295aab0f5d4586740140232e96eb", null ],
-    [ "Execute", "de/dfa/a16288.html#aecfbbbcac3fd98675913a6381c891a59", null ],
-    [ "_owner", "de/dfa/a16288.html#ac5481c94e180900f0a455dc1f1f9851c", null ]
+    [ "npc_toc5_player_vehicleAI", "d5/d30/a16292.html", "d5/d30/a16292" ],
+    [ "npc_toc5_player_vehicle", "de/dfa/a16288.html#a8786627999d3d1681d9de58cd8c46744", null ],
+    [ "GetAI", "de/dfa/a16288.html#af89c559eff828130df821c0c30c61f7a", null ]
 ];

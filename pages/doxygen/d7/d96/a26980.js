@@ -1,6 +1,6 @@
 var a26980 =
 [
-    [ "achievement_arena_by_type", "d7/d96/a26980.html#a2042c808304e8ddf1849820491b9f1a3", null ],
-    [ "OnCheck", "d7/d96/a26980.html#abebdbf19fbf1b79c30114a9cf4ff98a4", null ],
-    [ "_arenaType", "d7/d96/a26980.html#a5c38e5fef5eaf3d037864ba2aa80584a", null ]
+    [ "HandleEffectCalcSpellMod", "d7/d96/a26980.html#a38c2a5daeda4b366518026638e6a8e1b", null ],
+    [ "PrepareAuraScript", "d7/d96/a26980.html#a767c3c52e917b56dbf2368b5dbbf1610", null ],
+    [ "Register", "d7/d96/a26980.html#af60592a9f1e595f31814eae405d03d5a", null ]
 ];

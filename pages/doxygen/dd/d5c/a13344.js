@@ -1,7 +1,6 @@
 var a13344 =
 [
-    [ "HandleRemove", "dd/d5c/a13344.html#a4484cf33e423f23cad9559a6a16ed9b4", null ],
-    [ "PrepareAuraScript", "dd/d5c/a13344.html#a6fa407996b59d98d0eeef877ee89784d", null ],
-    [ "Register", "dd/d5c/a13344.html#a7dc81b47954ee8c10b99f389740de0be", null ],
-    [ "Validate", "dd/d5c/a13344.html#afd94a159c0f429f2a63ffbd0a38d32e3", null ]
+    [ "CastArmageddon", "dd/d5c/a13344.html#a2e90929b63e6151252aa01a55dbd801f", null ],
+    [ "Execute", "dd/d5c/a13344.html#a4f0651a38eaf03a07bcd73d0f88dda16", null ],
+    [ "_caster", "dd/d5c/a13344.html#a1e70887099a7a47b7c26517d4363ad93", null ]
 ];

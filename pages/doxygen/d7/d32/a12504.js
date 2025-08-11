@@ -1,6 +1,6 @@
 var a12504 =
 [
-    [ "boss_mr_smiteAI", "d4/dcd/a12508.html", "d4/dcd/a12508" ],
-    [ "boss_mr_smite", "d7/d32/a12504.html#a011d41112ef7376b71d2959f806be262", null ],
-    [ "GetAI", "d7/d32/a12504.html#a619ca0aede1eb33f992328048319c4f0", null ]
+    [ "boss_sulfuronAI", "d7/d32/a12504.html#a63c76fb94131830924e2bf77477261ba", null ],
+    [ "ExecuteEvent", "d7/d32/a12504.html#ae038aa8140f5b4128c39c592966321f1", null ],
+    [ "JustEngagedWith", "d7/d32/a12504.html#a35394690b8d25529c91c147025f6ad92", null ]
 ];

@@ -1,6 +1,11 @@
 var a17968 =
 [
-    [ "DespawnSelf", "de/d77/a17968.html#a7009dd0e842898d03caa89e92447749d", null ],
-    [ "PrepareAuraScript", "de/d77/a17968.html#a00f0379b4e4fadf73bed7d483e406ac5", null ],
-    [ "Register", "de/d77/a17968.html#a8f21cb8ab1145fe32a78a682445cfc2d", null ]
+    [ "npc_little_oozeAI", "de/d77/a17968.html#a6fb3ac6e3f2c39b96ee4fe265e4940dd", null ],
+    [ "EnterEvadeMode", "de/d77/a17968.html#a0bd4bfcc8c373a449f297011289e5530", null ],
+    [ "IsSummonedBy", "de/d77/a17968.html#afb9763ade36bd742398a8bca961c136b", null ],
+    [ "JustDied", "de/d77/a17968.html#a37e5898e3dc1704be9fba2178567fd2a", null ],
+    [ "UpdateAI", "de/d77/a17968.html#a6ee56789d528c2b6dcb04abaff6806cb", null ],
+    [ "events", "de/d77/a17968.html#aa0d2113458887b73fe2af36f9d3ab0f1", null ],
+    [ "firstUpdate", "de/d77/a17968.html#aa3aca24bc97bcd9a2030fccf6782cf9c", null ],
+    [ "instance", "de/d77/a17968.html#a8a4ec828f144f071c0c6f2bf48b69cc0", null ]
 ];

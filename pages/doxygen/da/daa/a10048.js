@@ -1,7 +1,9 @@
 var a10048 =
 [
-    [ "TransportPathTransform", "da/daa/a10048.html#af73e0369a2f0e4c2aabfde5b47b7520d", null ],
-    [ "operator()", "da/daa/a10048.html#ac86e405f0d39698c400d7a8d2ab10607", null ],
-    [ "_owner", "da/daa/a10048.html#a15428c0b9a8b11f7f63845a7d65620e8", null ],
-    [ "_transformForTransport", "da/daa/a10048.html#afad44bc388b7d224f7a87aed7ba2e120", null ]
+    [ "counter", "da/daa/a10048.html#a0efb94229f4a9370dc5b256ba623385b", null ],
+    [ "getCurrent", "da/daa/a10048.html#afff6411c2b7f1c07d72ad26dc77d4780", null ],
+    [ "Increase", "da/daa/a10048.html#a463e0ba077c8398a6125e715afcd8860", null ],
+    [ "init", "da/daa/a10048.html#a0369662be009b781174021a2eb6b3202", null ],
+    [ "NewId", "da/daa/a10048.html#a06d5bc4ea248173316ed4d1ce96d6281", null ],
+    [ "m_counter", "da/daa/a10048.html#a297f1ba5e072e4c90b62c7242ee1b01c", null ]
 ];

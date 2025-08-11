@@ -1,8 +1,9 @@
 var a22204 =
 [
-    [ "npc_vics_flying_machineAI", "d2/d4c/a22204.html#a4464e0b1433c4ffb24ae7809b1a0eec5", null ],
-    [ "MovementInform", "d2/d4c/a22204.html#ac4bbe0a3cccb6878d050b717b9efb320", null ],
-    [ "PassengerBoarded", "d2/d4c/a22204.html#aa67dcbb4b43b047398fec2619ad61829", null ],
-    [ "SpellHit", "d2/d4c/a22204.html#aa81229a104e1521d570abec4b6f7bca7", null ],
-    [ "pointId", "d2/d4c/a22204.html#aa1412c23f0c3b964262e145c51aea974", null ]
+    [ "npc_engineer_heliceAI", "d2/d4c/a22204.html#ab9d82a7d2886a0cc4edbc2f4c4c81341", null ],
+    [ "JustDied", "d2/d4c/a22204.html#aba224727b86a2bfc39a47b70b424ccef", null ],
+    [ "Reset", "d2/d4c/a22204.html#ade3f7f526dd8973c155aafb939db3778", null ],
+    [ "UpdateAI", "d2/d4c/a22204.html#a1c333511dd6e82cd22af111e12a701c4", null ],
+    [ "WaypointReached", "d2/d4c/a22204.html#a065698e61f0b7769ad2f58614c02ad5b", null ],
+    [ "m_uiChatTimer", "d2/d4c/a22204.html#aa305bc2b5711d0745650f80275204ea8", null ]
 ];

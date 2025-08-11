@@ -1,12 +1,13 @@
 var a13652 =
 [
-    [ "npc_lady_sylvanas_windrunnerAI", "dd/d57/a13652.html#ad6eefe9a14ce64b12b65a22c3ebb4db0", null ],
-    [ "JustEngagedWith", "dd/d57/a13652.html#a36324482fb264cc3cacf11c3ed542eee", null ],
-    [ "JustSummoned", "dd/d57/a13652.html#a456ee6f4b5b8cdd79647a42185265be8", null ],
-    [ "Reset", "dd/d57/a13652.html#ad4c6cb31a8d3dc280e689d5d29e27479", null ],
-    [ "SetGUID", "dd/d57/a13652.html#aa5270e7468dcafba98d3ee72752771ce", null ],
-    [ "UpdateAI", "dd/d57/a13652.html#ab704e4f3af8aa734910efd259db31407", null ],
-    [ "_events", "dd/d57/a13652.html#a621d4db4fac3a7c3d08defa2a8ed06d0", null ],
-    [ "LamentEvent", "dd/d57/a13652.html#ace9e901a965665e0f97cb9646af308aa", null ],
-    [ "playerGUID", "dd/d57/a13652.html#aa125ab2a33dbf9f1d40f238e7d45000d", null ]
+    [ "npc_ravenclaw_apparitionAI", "dd/d57/a13652.html#a2a8a6cdb3d74e55cc3d6786ebcfb5328", null ],
+    [ "EmoteCrowd", "dd/d57/a13652.html#a7a407c9b00bb24c4c3d057ec2a4b0fdc", null ],
+    [ "JustDied", "dd/d57/a13652.html#a88f9d4e72273f8f835e809b27d5b52d8", null ],
+    [ "JustSummoned", "dd/d57/a13652.html#a1ab2f2a6b0514d192a7962cf8315ee16", null ],
+    [ "SummonCrowd", "dd/d57/a13652.html#af3f6ea6094b82e06ce7ef2d4432bd88a", null ],
+    [ "UpdateAI", "dd/d57/a13652.html#ab3c6c27a31f12443efcad314cbfa1129", null ],
+    [ "events", "dd/d57/a13652.html#a27522107b5e1f54909294f800f26663f", null ],
+    [ "HasEnded", "dd/d57/a13652.html#a1b7a57b7204f51304ef05ee3d2265774", null ],
+    [ "summons", "dd/d57/a13652.html#a85cde0a9d4903c89b29f68318730ab7f", null ],
+    [ "TalkRNG", "dd/d57/a13652.html#a4b41f348e6756298d6a13b09fbf13fd0", null ]
 ];

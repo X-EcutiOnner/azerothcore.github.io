@@ -1,5 +1,7 @@
 var a10940 =
 [
-    [ "SocketIPBytes", "d5/d78/a10940.html#aa10551a3c7371bafa9b27919e37b16ff", null ],
-    [ "SocketPort", "d5/d78/a10940.html#a6e6fb49cad093530f6ba650ca2ff57af", null ]
+    [ "OpcodeHandler", "db/d2a/a04776.html#gad7dc8101b537abe699b18ae8de444a81", null ],
+    [ "~OpcodeHandler", "db/d2a/a04776.html#ga5400057a3d849035aedda259828a5af5", null ],
+    [ "Name", "db/d2a/a04776.html#ga0f1d1acde7c65e2b5c29357b232a7061", null ],
+    [ "Status", "db/d2a/a04776.html#gace7959058ad5b5e617c7b043f5c63b7c", null ]
 ];

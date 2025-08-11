@@ -1,5 +1,8 @@
 var a23580 =
 [
-    [ "go_manticron_cube", "d3/d04/a23580.html#a87d9571aea57f16d38067ebd9e22200d", null ],
-    [ "OnGossipHello", "d3/d04/a23580.html#accab4a61f00f5e465fb795b4cbe672bf", null ]
+    [ "instance_hellfire_ramparts_InstanceMapScript", "d3/d04/a23580.html#aebc047b45cb4560a38df89db75f8efab", null ],
+    [ "Initialize", "d3/d04/a23580.html#a115a36ec26e15e23be4d78250d86d814", null ],
+    [ "OnGameObjectCreate", "d3/d04/a23580.html#a0639fcd867616d1f04aacde44020bb30", null ],
+    [ "SetBossState", "d3/d04/a23580.html#a7a38526ca7b9a7c7c04231f8f8efd2f7", null ],
+    [ "felIronChestGUID", "d3/d04/a23580.html#a7cfcac5dbe4562268679ddceaf8ec8ea", null ]
 ];

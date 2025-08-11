@@ -1,19 +1,14 @@
 var a12612 =
 [
-    [ "boss_malchezaar", "d8/d8d/a12612.html#a68adb0f05177316f9e39a48669f60829", null ],
-    [ "clearweapons", "d8/d8d/a12612.html#a354e07cb1f9ae86d96d07cb80f911474", null ],
-    [ "EnfeebleResetHealth", "d8/d8d/a12612.html#a7fcaec7c991f9d6df816aef650e53855", null ],
-    [ "Initialize", "d8/d8d/a12612.html#a1b48e2c117ac4c60f11310e43d34264b", null ],
-    [ "JustDied", "d8/d8d/a12612.html#aee066b4a67c61ae70fc487adf0be00e0", null ],
-    [ "JustEngagedWith", "d8/d8d/a12612.html#a5cfd1284c572f72ecde9d9ad94922d2b", null ],
-    [ "KilledUnit", "d8/d8d/a12612.html#a0d91be1d9ad3a0876bec8b694edd44be", null ],
-    [ "MaxSpawns", "d8/d8d/a12612.html#a25ef9558fcccee430ef92703af903d91", null ],
-    [ "PickTarget", "d8/d8d/a12612.html#a2c825f7f116891601ef2c3809c7db15c", null ],
-    [ "Reset", "d8/d8d/a12612.html#a72b54fd786c064114df3b8a09835e841", null ],
-    [ "SpawnInfernal", "d8/d8d/a12612.html#a58d1823940988f6f55aec8a5da44fd54", null ],
-    [ "SpellHitTarget", "d8/d8d/a12612.html#a9eb75b54ea480b38590695635a9cb4fe", null ],
-    [ "_enfeebleTargets", "d8/d8d/a12612.html#adc405cdbcc17eabade5794a7801c5323", null ],
-    [ "_phase", "d8/d8d/a12612.html#a94be6cf7bb8cd7857fe82638d0d0e853", null ],
-    [ "infernalTargets", "d8/d8d/a12612.html#a55b8c2dd25af193e078fdb0315863783", null ],
-    [ "relays", "d8/d8d/a12612.html#a7695c12779ada381cb04085dcf8dbb2c", null ]
+    [ "boss_midnight", "d8/d8d/a12612.html#aacf45b21a30d671d5e9720a30336f72c", null ],
+    [ "CanMeleeHit", "d8/d8d/a12612.html#ad46a3726f398e5db56612d78d33fb13f", null ],
+    [ "DamageTaken", "d8/d8d/a12612.html#a47be6bc98217cf32a54dc522b7983bdb", null ],
+    [ "DoAction", "d8/d8d/a12612.html#a6831149d56f432aa3116d4172ef95a18", null ],
+    [ "EnterEvadeMode", "d8/d8d/a12612.html#a7ef9e935ac932f5a9e4fd435b8180783", null ],
+    [ "JustEngagedWith", "d8/d8d/a12612.html#afbb95384e6c747e73c87c5a5eb40843e", null ],
+    [ "JustSummoned", "d8/d8d/a12612.html#a2644deaf0a2970835b0cd508565e7279", null ],
+    [ "KilledUnit", "d8/d8d/a12612.html#a14dcbec9dc43cc12a124b6f140e0e8e6", null ],
+    [ "Reset", "d8/d8d/a12612.html#a4f9cb414779705c179bc5447975b35e9", null ],
+    [ "UpdateAI", "d8/d8d/a12612.html#a17c86571df6263fe1cc3657ca596e3ae", null ],
+    [ "_phase", "d8/d8d/a12612.html#ae5f3f452f5141cecab1b99616eb2bf74", null ]
 ];

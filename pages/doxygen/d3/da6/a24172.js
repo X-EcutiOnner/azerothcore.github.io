@@ -1,8 +1,12 @@
 var a24172 =
 [
-    [ "CreatureId", "d3/da6/a24172.html#a127341c70f8785ceb556b1c11b23f477", null ],
-    [ "SpawnCount", "d3/da6/a24172.html#ad51fb68e41e04490f658a4c4f62612bd", null ],
-    [ "SpawnTimer", "d3/da6/a24172.html#aa57ff686c5fde12269e231333d8a8bef", null ],
-    [ "UsedSpawnPoint", "d3/da6/a24172.html#a2d5f42a6b1a309c8db74febcedf457eb", null ],
-    [ "YellTimer", "d3/da6/a24172.html#a6346259269af7f2936f959f87288dd69", null ]
+    [ "npc_enslaved_netherwing_drake", "d3/da6/a24172.html#a9f848fa3c68b8a269f0b6016058ec364", null ],
+    [ "_GetPlayer", "d3/da6/a24172.html#af02a965e98f35134a3c40ed9cdfb723e", null ],
+    [ "JustDied", "d3/da6/a24172.html#acde70c9d8c675a9a9dd14695dc752184", null ],
+    [ "MovementInform", "d3/da6/a24172.html#afa030a380365daa33c156a0d6be6a6d9", null ],
+    [ "Reset", "d3/da6/a24172.html#aec02b19d27a09f16ef06adb694c2e65e", null ],
+    [ "SpellHit", "d3/da6/a24172.html#a195794e88870a0b1ca35473f5f0378a7", null ],
+    [ "UpdateAI", "d3/da6/a24172.html#aa7ac2dd17bdf4939d74fe5af85c649b9", null ],
+    [ "_playerGUID", "d3/da6/a24172.html#a2f9a6a6cbaa9cab0e6014f6fd1c54346", null ],
+    [ "_tapped", "d3/da6/a24172.html#a9cbafd9536ff7eca33b0b44295aaec92", null ]
 ];

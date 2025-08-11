@@ -1,4 +1,5 @@
 var a02204 =
 [
-    [ "Initialize", "df/d4a/a02204.html#a9ddfbc9345acf19d3b4bcb7ce7804c94", null ]
+    [ "guild_commandscript", "d6/dae/a11668.html", "d6/dae/a11668" ],
+    [ "AddSC_guild_commandscript", "df/d4a/a02204.html#af4f585942ab79df7bff025b621beef86", null ]
 ];

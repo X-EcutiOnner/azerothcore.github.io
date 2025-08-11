@@ -1,6 +1,6 @@
 var a14728 =
 [
-    [ "npc_cos_chromie_start", "de/d64/a14728.html#ae8f810af1e593ad16958049f6ad19616", null ],
-    [ "OnGossipSelect", "de/d64/a14728.html#a35cba5a1b7865b07a4e843648cea50c8", null ],
-    [ "OnQuestAccept", "de/d64/a14728.html#aa730cb17e6cfe917bc32f7e7ae52e8ef", null ]
+    [ "boss_mal_ganisAI", "dc/dec/a14732.html", "dc/dec/a14732" ],
+    [ "boss_mal_ganis", "de/d64/a14728.html#a604becb65e766f4fb71d2ae168d1be4e", null ],
+    [ "GetAI", "de/d64/a14728.html#aa747abd11310c3535ea2ea37e4aac28b", null ]
 ];

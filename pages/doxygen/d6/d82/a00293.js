@@ -1,8 +1,7 @@
 var a00293 =
 [
-    [ "ModelIgnoreFlags", "d6/d82/a00293.html#a6996c44f3ac72cd9dc04515186d2da28", [
-      [ "Nothing", "d6/d82/a00293.html#a6996c44f3ac72cd9dc04515186d2da28af80a4ad87fee7c9fdc19b7769495fdb5", null ],
-      [ "M2", "d6/d82/a00293.html#a6996c44f3ac72cd9dc04515186d2da28a9d8322530b67e2366e5b1ba67081ded9", null ]
-    ] ],
-    [ "operator&", "d6/d82/a00293.html#a3c25bdb4d30c345cd6760935e2c456f4", null ]
+    [ "BG_RV_CLOSE_FIRE_TIMER", "d6/d82/a00293.html#adea63e30cefe486dd1cbeb0353fdaeb2", null ],
+    [ "BG_RV_FIRE_TO_PILLAR_TIMER", "d6/d82/a00293.html#a20f119684cfae65594c4cb1fc59e60c1", null ],
+    [ "BG_RV_FIRST_TIMER", "d6/d82/a00293.html#abb49be7549db0a88e8b5fcd470741084", null ],
+    [ "BG_RV_PILLAR_SWITCH_TIMER", "d6/d82/a00293.html#a6ecc5972946e4de12babadf07ce85e2f", null ]
 ];

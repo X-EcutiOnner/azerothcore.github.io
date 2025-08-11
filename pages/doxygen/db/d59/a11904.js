@@ -1,7 +1,6 @@
 var a11904 =
 [
-    [ "boss_grizzleAI", "db/d59/a11904.html#a3310892cafc2a8e022105f77258b25af", null ],
-    [ "JustEngagedWith", "db/d59/a11904.html#a598e7e7d6bdd847bf01968116988a935", null ],
-    [ "UpdateAI", "db/d59/a11904.html#a2dc5c27cd4eaf2aa1484a370a68e3314", null ],
-    [ "nextTremorTime", "db/d59/a11904.html#aa392b5a5db08d8676614923ae4838d05", null ]
+    [ "boss_anubshiahAI", "db/d59/a11904.html#ae5bdb5509aad0d386bf73e5aad728744", null ],
+    [ "JustEngagedWith", "db/d59/a11904.html#ae83c1def323828814b5db6b032002438", null ],
+    [ "UpdateAI", "db/d59/a11904.html#a3acd88f97e2f1e3386c9b5dfa4f15d15", null ]
 ];

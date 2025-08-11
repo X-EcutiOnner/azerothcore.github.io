@@ -1,9 +1,17 @@
 var a15576 =
 [
-    [ "npc_custodian_of_timeAI", "d9/de6/a15576.html#a2434afcda3bc5681a124bdb1a2c8d56f", null ],
-    [ "JustEngagedWith", "d9/de6/a15576.html#a3b12c06566b0c1d567b6edd8b57b8332", null ],
-    [ "MoveInLineOfSight", "d9/de6/a15576.html#a97b21c4ecc89e4ddd5aef4dab30a7ecf", null ],
-    [ "Reset", "d9/de6/a15576.html#a56bcc694ac286488ed4b3f2328c30573", null ],
-    [ "UpdateAI", "d9/de6/a15576.html#a4b43c5f6eaf70fc93dcb18c183e456dc", null ],
-    [ "WaypointReached", "d9/de6/a15576.html#a963736e62fbd0caea631ee3fb69fca46", null ]
+    [ "npc_anachronos_quest_triggerAI", "d9/de6/a15576.html#aec19da0dd982c643b15dd3f9fae7338e", null ],
+    [ "CheckEventFail", "d9/de6/a15576.html#a9cb72ea49977b65c42c80f6e53cfa021", null ],
+    [ "LiveCounter", "d9/de6/a15576.html#aa19310d516a578dcd2d13d4298da0f58", null ],
+    [ "Reset", "d9/de6/a15576.html#ab69245d2f874bef9796c151e5a27aaf7", null ],
+    [ "SummonNextWave", "d9/de6/a15576.html#af2cc55a3f35a70a4a9630b4b843f8db7", null ],
+    [ "UpdateAI", "d9/de6/a15576.html#af8aa57d58c05da9a8194bc6565d7a096", null ],
+    [ "Announced", "d9/de6/a15576.html#a4e516705efff20a62124514ba14c8161", null ],
+    [ "AnnounceTimer", "d9/de6/a15576.html#a7772c5b4f80b75ffe7b0641321029059", null ],
+    [ "EventStarted", "d9/de6/a15576.html#ad70b899bedb2b338a306f45e2b4eafd4", null ],
+    [ "Failed", "d9/de6/a15576.html#a60af9e06e872adfab6e7dbac73dfbece", null ],
+    [ "LiveCount", "d9/de6/a15576.html#ae959e46865951c2783fe97e824180050", null ],
+    [ "PlayerGUID", "d9/de6/a15576.html#a2c459e96b3599cda8560582a4fb4253a", null ],
+    [ "WaveCount", "d9/de6/a15576.html#ac3a32a11e5f99d081371c49363509deb", null ],
+    [ "WaveTimer", "d9/de6/a15576.html#a5294c9cd61713bc209a1b65f3b0a252e", null ]
 ];

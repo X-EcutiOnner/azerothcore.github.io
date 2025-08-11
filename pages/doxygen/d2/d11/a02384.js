@@ -1,11 +1,9 @@
 var a02384 =
 [
-    [ "npc_innkeeper", "d8/d15/a27392.html", "d8/d15/a27392" ],
-    [ "AddSC_npc_innkeeper", "d2/d11/a02384.html#a3ffce1ea6cca981888af85ba67364df9", null ],
-    [ "GOSSIP_MENU", "d2/d11/a02384.html#a3115623eb3e0408aad7cd637686aaaee", null ],
-    [ "GOSSIP_MENU_EVENT", "d2/d11/a02384.html#a6bb09725b9e6b10b76686a9059038e6b", null ],
-    [ "HALLOWEEN_EVENTID", "d2/d11/a02384.html#a2e23760d3d379f3fa92c139f067b5984", null ],
-    [ "SPELL_TREAT", "d2/d11/a02384.html#a072a033da374692139d9d33e63be89ca", null ],
-    [ "SPELL_TRICK", "d2/d11/a02384.html#ad2b2ba30383cca3be221f38a809e2da1", null ],
-    [ "SPELL_TRICKED_OR_TREATED", "d2/d11/a02384.html#a022e344eaf73aa8ab6655d2c6aaac688", null ]
+    [ "instance_gruuls_lair", "d5/d31/a23508.html", "d5/d31/a23508" ],
+    [ "instance_gruuls_lair::instance_gruuls_lair_InstanceMapScript", "dc/d97/a23512.html", "dc/d97/a23512" ],
+    [ "AddSC_instance_gruuls_lair", "d2/d11/a02384.html#a6c9bd5a761d9018e8be9e0c11b8db2c5", null ],
+    [ "creatureData", "d2/d11/a02384.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "doorData", "d2/d11/a02384.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
+    [ "minionData", "d2/d11/a02384.html#a6720238df140a3c574a711042b7f5bd3", null ]
 ];

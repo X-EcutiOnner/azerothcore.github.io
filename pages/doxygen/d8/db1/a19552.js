@@ -1,11 +1,10 @@
 var a19552 =
 [
-    [ "boss_maiden_of_griefAI", "d8/db1/a19552.html#a521decece7a53165349ebcfb9fb8dfb5", null ],
-    [ "JustDied", "d8/db1/a19552.html#abd3977cca1cbbf4b64c278a641514fc8", null ],
-    [ "JustEngagedWith", "d8/db1/a19552.html#acf30049b09bbaf3e30f2dcb77bf1b4e0", null ],
-    [ "KilledUnit", "d8/db1/a19552.html#a3d2173db5a852a356c187b2d2771b75f", null ],
-    [ "Reset", "d8/db1/a19552.html#a46776004549b0dcfcf73351225adaad8", null ],
-    [ "UpdateAI", "d8/db1/a19552.html#a4e26fc785b3c72982f9d98e0b120e929", null ],
-    [ "events", "d8/db1/a19552.html#aa2d2ccea219b679594d8d8b4a38d70cc", null ],
-    [ "pInstance", "d8/db1/a19552.html#abc195718a208a926f978d7f0fe0e7925", null ]
+    [ "npc_molten_golemAI", "d8/db1/a19552.html#a5172d70649be5030fd91e1adbcad4f06", null ],
+    [ "DamageTaken", "d8/db1/a19552.html#a0dd2ca5b83f5d75c51dfa358544c018a", null ],
+    [ "DoAction", "d8/db1/a19552.html#ada2e9c39ce16f00b47df2f52971d99b1", null ],
+    [ "Reset", "d8/db1/a19552.html#a9f90e791c77377c02c66e5d809c555cc", null ],
+    [ "UpdateAI", "d8/db1/a19552.html#ade3cfd0deb27508f5f084b1b49caf13f", null ],
+    [ "events", "d8/db1/a19552.html#ad97142df8344df59eddfb92471d1a737", null ],
+    [ "m_pInstance", "d8/db1/a19552.html#ad1a300c13e98965b935c1e3fc26b9606", null ]
 ];

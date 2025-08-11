@@ -1,7 +1,9 @@
 var a12196 =
 [
-    [ "HandleScript", "d3/d6b/a12196.html#a0d244cc1785b136bae0960d697dc761d", null ],
-    [ "PrepareSpellScript", "d3/d6b/a12196.html#a13f3ebef30c315c02090ee3a19a156e4", null ],
-    [ "Register", "d3/d6b/a12196.html#a3871fb036ec6e0ea006f869c21e88c8f", null ],
-    [ "Validate", "d3/d6b/a12196.html#a1413754f3a79caf8ec57d394c68f3499", null ]
+    [ "npc_vaelastrasz_the_redAI", "d3/d6b/a12196.html#aa800617f887a21d8a61cac099c86faed", null ],
+    [ "IsSummonedBy", "d3/d6b/a12196.html#ab0eb414e7c9385e4831c4fbc6ba1de49", null ],
+    [ "UpdateAI", "d3/d6b/a12196.html#a4dd74c81dc67291ed04861cf542b0d24", null ],
+    [ "_combatEnabled", "d3/d6b/a12196.html#ae82e9f70dbfd6a4a75206d358de4504e", null ],
+    [ "_events2", "d3/d6b/a12196.html#aa31a968cb89f2c4bb4fde836fd600ab9", null ],
+    [ "_victorGUID", "d3/d6b/a12196.html#a8a4af969b8d340d5492f89499e3e90c2", null ]
 ];

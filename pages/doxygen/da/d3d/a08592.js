@@ -1,9 +1,8 @@
 var a08592 =
 [
-    [ "PendingSpellCastRequest", "da/d3d/a08592.html#aa09e9b9fcaec6d10dff4916bec15ab04", null ],
-    [ "cancelInProgress", "da/d3d/a08592.html#a726b6e423b23f8c12c65e07809462ad1", null ],
-    [ "category", "da/d3d/a08592.html#a51a702f257b784dac4556397dd1c0be4", null ],
-    [ "isItem", "da/d3d/a08592.html#a9e50a954b3da1f3b39894f1d3d7a932f", null ],
-    [ "requestPacket", "da/d3d/a08592.html#a6ee868c6161e49dc8774ab357f313116", null ],
-    [ "spellId", "da/d3d/a08592.html#a28f12287e339fd0c6cc9ea8c89c26113", null ]
+    [ "checkLeaderOnly", "da/d3d/a08592.html#ade8f2e22abe69a9a32085e4d901bc83b", null ],
+    [ "faction", "da/d3d/a08592.html#a23c649e494795b27856b67225370a820", null ],
+    [ "id", "da/d3d/a08592.html#a5d5b8f6fe0bfc5ae98c2fb10e3a18360", null ],
+    [ "note", "da/d3d/a08592.html#a0e800dd8869fedbe71e5b14aa3c79d8a", null ],
+    [ "priority", "da/d3d/a08592.html#a3a66018ae4e7a7e755962f1edae58d29", null ]
 ];

@@ -1,14 +1,12 @@
 var a21096 =
 [
-    [ "npc_massive_jormungarAI", "d1/db7/a21096.html#aa0b9acaec1aab155f7e4442d12d40c3e", null ],
-    [ "DoAction", "d1/db7/a21096.html#a8084994ba056c907b2e487568fa7502a", null ],
-    [ "JustDied", "d1/db7/a21096.html#a02b4e75227811250e2210f754e6e04f2", null ],
-    [ "JustEngagedWith", "d1/db7/a21096.html#a93769dbb2f7d2136e5ab2603927a5f12", null ],
-    [ "JustReachedHome", "d1/db7/a21096.html#a8ea0fe40cb4b113abadc091ab8085636", null ],
-    [ "MoveInLineOfSight", "d1/db7/a21096.html#a55c817111fab479c3abcfca8942f16e8", null ],
-    [ "Reset", "d1/db7/a21096.html#aca0d8ebe3b47a075a8b87666c0207620", null ],
-    [ "UpdateAI", "d1/db7/a21096.html#a9201c4cdf74d55bb3cde52eb265aa3d9", null ],
-    [ "events", "d1/db7/a21096.html#a92334b8178317a91a7d4336096d75f33", null ],
-    [ "m_pInstance", "d1/db7/a21096.html#ad50a9852370798817fda318f71f27653", null ],
-    [ "summons", "d1/db7/a21096.html#acfa84efc38b994706015e6d82fe1f653", null ]
+    [ "boss_skarvald_the_constructor", "d1/db7/a21096.html#a32d092ecf17aaafc61cefb4c0efce639", null ],
+    [ "DoAction", "d1/db7/a21096.html#a63c9e981a198f6fefe8d1fa4d8ede20e", null ],
+    [ "JustDied", "d1/db7/a21096.html#a9180dcb3c22944c75e5e424dc1a78339", null ],
+    [ "JustEngagedWith", "d1/db7/a21096.html#a529439d257abf78f76db0043549964e6", null ],
+    [ "KilledUnit", "d1/db7/a21096.html#a9d65e24161dd1f7bac9fe991624c5c80", null ],
+    [ "Reset", "d1/db7/a21096.html#ada2068f8b5d125062ec0b7fde0d05c7f", null ],
+    [ "UpdateAI", "d1/db7/a21096.html#a9c1f74c20a5a9f47f9430450742938a2", null ],
+    [ "events", "d1/db7/a21096.html#a28837280e161f6971564a4725c97a154", null ],
+    [ "pInstance", "d1/db7/a21096.html#ab5b773a9960f611a6383578a607ba258", null ]
 ];

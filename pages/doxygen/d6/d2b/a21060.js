@@ -1,14 +1,13 @@
 var a21060 =
 [
-    [ "boss_dalronn_the_controller", "d6/d2b/a21060.html#a57718e928fa273bba3c40a05d5888a3d", null ],
-    [ "DoAction", "d6/d2b/a21060.html#ad11e43d40a61f093b5e51482437467b8", null ],
-    [ "JustDied", "d6/d2b/a21060.html#a28a669b56392b599e124573778e33134", null ],
-    [ "JustEngagedWith", "d6/d2b/a21060.html#aad89cfa81c69058adc633e85ded5b4e3", null ],
-    [ "JustSummoned", "d6/d2b/a21060.html#a1d419cec78a9a8d6ceee3651c8054762", null ],
-    [ "KilledUnit", "d6/d2b/a21060.html#a96a173e30ad81c77217b0693d1d15839", null ],
-    [ "Reset", "d6/d2b/a21060.html#a452f1bd3428cc0f4b4413d253c5f29e7", null ],
-    [ "UpdateAI", "d6/d2b/a21060.html#a1c3e44fe347e9c1ec45db19865bb5110", null ],
-    [ "events", "d6/d2b/a21060.html#a44c463df3aeb8010fa1a1cc5de82b9f1", null ],
-    [ "pInstance", "d6/d2b/a21060.html#a53e17abc63ce51830c1bcd5bd47f2a95", null ],
-    [ "summons", "d6/d2b/a21060.html#ac2845d24aa036372cd0084d2b5e8090b", null ]
+    [ "npc_ulduar_arachnopod_destroyerAI", "d6/d2b/a21060.html#a52bbedf267aaa3cea68e8a5960cbc34b", null ],
+    [ "AttackStart", "d6/d2b/a21060.html#aed91dafbc50a785875b8b41c5e328d73", null ],
+    [ "DamageTaken", "d6/d2b/a21060.html#a4c2ec3cf0c5561b1b9f309bb8f180f8c", null ],
+    [ "EnterEvadeMode", "d6/d2b/a21060.html#a671a27f00e279e0a4c0827999ce26d8b", null ],
+    [ "OnCharmed", "d6/d2b/a21060.html#ae268a425326efbea1282ce116ff76e3f", null ],
+    [ "PassengerBoarded", "d6/d2b/a21060.html#a83409607638100fddd229829ee2bea40", null ],
+    [ "Reset", "d6/d2b/a21060.html#a2a7bda0ee585a7aa652081ce7ede3fa6", null ],
+    [ "UpdateAI", "d6/d2b/a21060.html#ac10669fddd193d583ecead8ed37879b3", null ],
+    [ "_spawnedMechanic", "d6/d2b/a21060.html#a2db3016e32b4e77724fea98d605eaa59", null ],
+    [ "events", "d6/d2b/a21060.html#ac61064ee3e22b476a35dce4564f65882", null ]
 ];

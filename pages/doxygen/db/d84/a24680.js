@@ -1,7 +1,10 @@
 var a24680 =
 [
-    [ "HandleProc", "db/d84/a24680.html#a2d38c32b4eb2ba91c657801b21a3b90d", null ],
-    [ "PrepareAuraScript", "db/d84/a24680.html#ac5988a79ab42ec1bbcc9b69bb649fc29", null ],
-    [ "Register", "db/d84/a24680.html#affd88326ea293f82055700ec7183d194", null ],
-    [ "Validate", "db/d84/a24680.html#acc8797afece569e68c6d754ca09e206d", null ]
+    [ "CalculateAPAmount", "db/d84/a24680.html#af1d4558f6132d3c2abc71ec1dabee2e8", null ],
+    [ "CalculateResistanceAmount", "db/d84/a24680.html#a5d6e7b92f4335176388a877e72c0e92c", null ],
+    [ "CalculateSPAmount", "db/d84/a24680.html#a40c96996d19b9f7eeed3fda4271b9f87", null ],
+    [ "CalculateStatAmount", "db/d84/a24680.html#ae4f96de2c558a4b0fd7659442aa3d92b", null ],
+    [ "HandleEffectApply", "db/d84/a24680.html#aeebb14424a6ae336edd4b66d824d648a", null ],
+    [ "PrepareAuraScript", "db/d84/a24680.html#a7e3dc351574f6d6ad3424eb7df7092df", null ],
+    [ "Register", "db/d84/a24680.html#ab5713a34ced4d2e2a67b43e98d7a55c0", null ]
 ];

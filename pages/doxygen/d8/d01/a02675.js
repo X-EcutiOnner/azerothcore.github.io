@@ -1,24 +1,21 @@
 var a02675 =
 [
-    [ "RegisterShadowLabyrinthCreatureAI", "d8/d01/a02675.html#afbd2592662281ddc8b6d11567efe9a50", null ],
-    [ "ShadowLabyrinthScriptName", "d8/d01/a02675.html#ab96ece1dcc827c0af968525da00da892", null ],
-    [ "slData", "d8/d01/a02675.html#a0bb87d52cf69de5a588288e14237b87d", [
-      [ "TYPE_RITUALISTS", "d8/d01/a02675.html#a0bb87d52cf69de5a588288e14237b87da2448fcd14abb165e775c665932a04948", null ],
-      [ "TYPE_HELLMAW", "d8/d01/a02675.html#a0bb87d52cf69de5a588288e14237b87da52ac1b40043222aff2cbe571a96bd05f", null ],
-      [ "DATA_BLACKHEARTTHEINCITEREVENT", "d8/d01/a02675.html#a0bb87d52cf69de5a588288e14237b87da5e5ecb7b6f8d204717412ca517a3aa26", null ],
-      [ "DATA_GRANDMASTER_VORPIL", "d8/d01/a02675.html#a0bb87d52cf69de5a588288e14237b87dabbbeb54dc0be17516ae2b37fd91b4748", null ],
-      [ "DATA_GRANDMASTER_VORPIL_EVENT", "d8/d01/a02675.html#a0bb87d52cf69de5a588288e14237b87dad90f8f395f905f5f55ca7b675b597f8b", null ],
-      [ "DATA_MURMUR", "d8/d01/a02675.html#a0bb87d52cf69de5a588288e14237b87da50ac08073863c86c5be25a661f884900", null ],
-      [ "DATA_MURMUREVENT", "d8/d01/a02675.html#a0bb87d52cf69de5a588288e14237b87da6d821b47b03599b8b3c294d32359c13f", null ],
-      [ "MAX_ENCOUNTER", "d8/d01/a02675.html#a0bb87d52cf69de5a588288e14237b87da7913656ef56deb3793c0c5f3d999d80d", null ]
+    [ "AccountActionIpLogger", "d4/dd5/a27060.html", "d4/dd5/a27060" ],
+    [ "CharacterActionIpLogger", "d1/d4f/a27064.html", "d1/d4f/a27064" ],
+    [ "CharacterDeleteActionIpLogger", "d2/df1/a27068.html", "d2/df1/a27068" ],
+    [ "IPLoggingTypes", "d8/d01/a02675.html#a3b67d8dbf539fa5519b3e33da9d0137b", [
+      [ "ACCOUNT_LOGIN", "d8/d01/a02675.html#a3b67d8dbf539fa5519b3e33da9d0137ba8f9e397f01ecf6030118a21051f37eb8", null ],
+      [ "ACCOUNT_FAIL_LOGIN", "d8/d01/a02675.html#a3b67d8dbf539fa5519b3e33da9d0137baf5dfdd830d71ca55c98a2a6bbc49895f", null ],
+      [ "ACCOUNT_CHANGE_PW", "d8/d01/a02675.html#a3b67d8dbf539fa5519b3e33da9d0137ba38e1a216027e5110edeced016ff5c059", null ],
+      [ "ACCOUNT_CHANGE_PW_FAIL", "d8/d01/a02675.html#a3b67d8dbf539fa5519b3e33da9d0137baa0990c000cd17b2abe8225b66cac6b53", null ],
+      [ "ACCOUNT_CHANGE_EMAIL", "d8/d01/a02675.html#a3b67d8dbf539fa5519b3e33da9d0137baf435090459154eb1ba7b8c994842b06c", null ],
+      [ "ACCOUNT_CHANGE_EMAIL_FAIL", "d8/d01/a02675.html#a3b67d8dbf539fa5519b3e33da9d0137ba4bd2be99e9a5252be0bbf26a71541e30", null ],
+      [ "CHARACTER_CREATE", "d8/d01/a02675.html#a3b67d8dbf539fa5519b3e33da9d0137ba64dc5a829a5cecf5f19b805d05a32b85", null ],
+      [ "CHARACTER_LOGIN", "d8/d01/a02675.html#a3b67d8dbf539fa5519b3e33da9d0137ba69b7162ca378f801be6e30e2e4b86363", null ],
+      [ "CHARACTER_LOGOUT", "d8/d01/a02675.html#a3b67d8dbf539fa5519b3e33da9d0137ba742b5af30e35f2927eaa20bdf504b607", null ],
+      [ "CHARACTER_DELETE", "d8/d01/a02675.html#a3b67d8dbf539fa5519b3e33da9d0137ba04c86cce0401c766b99edbef52a91162", null ],
+      [ "CHARACTER_FAILED_DELETE", "d8/d01/a02675.html#a3b67d8dbf539fa5519b3e33da9d0137baf8aedeaf82227741e50fdf6be12a35e7", null ],
+      [ "UNKNOWN_ACTION", "d8/d01/a02675.html#a3b67d8dbf539fa5519b3e33da9d0137bae16d79bf07a3994731f4ac1a6ece5ec8", null ]
     ] ],
-    [ "slNPCandGO", "d8/d01/a02675.html#a5aeaf5f332ee73166572f5313be89bf1", [
-      [ "NPC_CABAL_RITUALIST", "d8/d01/a02675.html#a5aeaf5f332ee73166572f5313be89bf1a726fe6195260ca333078e65a64d24f7a", null ],
-      [ "NPC_HELLMAW", "d8/d01/a02675.html#a5aeaf5f332ee73166572f5313be89bf1ad42fe7f18144f0b2ff2949b85385db8b", null ],
-      [ "GO_REFECTORY_DOOR", "d8/d01/a02675.html#a5aeaf5f332ee73166572f5313be89bf1a84947de77bc0d365a3dbc4c222a80d7c", null ],
-      [ "GO_SCREAMING_HALL_DOOR", "d8/d01/a02675.html#a5aeaf5f332ee73166572f5313be89bf1a8dcc6b729c4258a8e241fa45bff0798a", null ]
-    ] ],
-    [ "GetShadowLabyrinthAI", "d8/d01/a02675.html#a04723307a726c0b79db08448db0704db", null ],
-    [ "EncounterCount", "d8/d01/a02675.html#ae1fbcd81e7256d27efa0288994753839", null ],
-    [ "PersistentDataCount", "d8/d01/a02675.html#aa38a92afffebaf4b33726515956b256b", null ]
+    [ "AddSC_action_ip_logger", "d8/d01/a02675.html#a530be5efb251d5ca58e97804e48ad953", null ]
 ];

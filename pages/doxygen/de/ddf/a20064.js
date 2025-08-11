@@ -1,14 +1,11 @@
 var a20064 =
 [
-    [ "boss_freya_summonsAI", "de/ddf/a20064.html#acbba11d918cc6368612cbd3d95310fe2", null ],
-    [ "DoAction", "de/ddf/a20064.html#ad9dd522e33ffd42bff75f7dd5f1bdc45", null ],
-    [ "JustDied", "de/ddf/a20064.html#af7668e0cb4be7d49af8be697b8fa3299", null ],
-    [ "JustEngagedWith", "de/ddf/a20064.html#a3163e12dd184dc5b8981c356e601a05a", null ],
-    [ "Reset", "de/ddf/a20064.html#a44f1ac940625fdd0cdb84454082e7ab6", null ],
-    [ "UpdateAI", "de/ddf/a20064.html#afdd17576728872509ec31188fa68505b", null ],
-    [ "_freyaGUID", "de/ddf/a20064.html#adcdf01b496a52b1d0aa2f1b3bf6a7a0a", null ],
-    [ "_hasDied", "de/ddf/a20064.html#a86f421141d31ac70e58cf63fe707ba27", null ],
-    [ "_isTrio", "de/ddf/a20064.html#ab31e8c73c3e22b031e5efe89ae95ce0e", null ],
-    [ "_stackCount", "de/ddf/a20064.html#ab7fc673ad22c1dd3bd41fa185ee03abb", null ],
-    [ "events", "de/ddf/a20064.html#a79403b4a24b92f89252db603d8ea2210", null ]
+    [ "boss_freya_elder_brightleafAI", "de/ddf/a20064.html#a53de463d34b808b4c5d459e1339f6f30", null ],
+    [ "JustDied", "de/ddf/a20064.html#aeea7300081f645d3fa83df6841c5a497", null ],
+    [ "JustEngagedWith", "de/ddf/a20064.html#a956adeb9b6ea0c8fa71bdcbd3735c79d", null ],
+    [ "KilledUnit", "de/ddf/a20064.html#a47935d017a2d34a888acb4079d3ff9aa", null ],
+    [ "Reset", "de/ddf/a20064.html#aee11d2e1fad8bc1b18c17b1527610914", null ],
+    [ "UpdateAI", "de/ddf/a20064.html#af28f94f278d279513d7f72cdc36528d4", null ],
+    [ "events", "de/ddf/a20064.html#a45b4f0d12497dd8e3ffc1cde429116f6", null ],
+    [ "summons", "de/ddf/a20064.html#a456123135a7fb4595d611a9e3995f461", null ]
 ];

@@ -1,5 +1,6 @@
 var a20752 =
 [
-    [ "achievement_xt002_nerf_engineering", "db/d7f/a20752.html#a5be8c0a8a51d81c4014ec0ab92c21f79", null ],
-    [ "OnCheck", "db/d7f/a20752.html#a2b401f51d1ba7ed817f95d81d1048adf", null ]
+    [ "npc_xt002_boombotAI", "de/def/a20756.html", "de/def/a20756" ],
+    [ "npc_xt002_boombot", "db/d7f/a20752.html#a6e2f7dd0d26d140a5b73b0f66ea434af", null ],
+    [ "GetAI", "db/d7f/a20752.html#a27237e7a60042ed7163b19d80537c1b3", null ]
 ];

@@ -1,6 +1,6 @@
 var a22240 =
 [
-    [ "npc_wild_wyrmAI", "d2/d6f/a22244.html", "d2/d6f/a22244" ],
-    [ "npc_wild_wyrm", "db/dfc/a22240.html#abce8c3a368e75b4be5e05381f9eb722b", null ],
-    [ "GetAI", "db/dfc/a22240.html#aedba91446fe12997047070f123d925d2", null ]
+    [ "HandleScript", "db/dfc/a22240.html#acb343eafcfddf6fedcdef26c9b86e0ec", null ],
+    [ "PrepareSpellScript", "db/dfc/a22240.html#a5a4ce9453638d61fe52514240f0a9384", null ],
+    [ "Register", "db/dfc/a22240.html#a889f931aaa37d3a283f4d585b384a68e", null ]
 ];

@@ -1,6 +1,9 @@
 var a22296 =
 [
-    [ "HandleScriptEffect", "d5/d64/a22296.html#a66849cb61f056e861d8887dc98f6ccbf", null ],
-    [ "PrepareSpellScript", "d5/d64/a22296.html#afa4ad1b205bf963b4230881738baf938", null ],
-    [ "Register", "d5/d64/a22296.html#a0d8925effced854471e2fbec9c631b91", null ]
+    [ "npc_brunnhildar_prisonerAI", "d5/d64/a22296.html#ad650885c7f615f8b27ba20203c9fbb6f", null ],
+    [ "JustRespawned", "d5/d64/a22296.html#a15843fcdc5d9eb34df7869b56a0b16ac", null ],
+    [ "Reset", "d5/d64/a22296.html#ac9ba0806b9702cebe9171d9ba8962b0f", null ],
+    [ "SpellHit", "d5/d64/a22296.html#af2835ec5b951e2f4bb176ebe6bb958fd", null ],
+    [ "UpdateAI", "d5/d64/a22296.html#a0702d4cf577ac00688a7b93bfe656952", null ],
+    [ "freed", "d5/d64/a22296.html#a46e03a19bac91a800154e3c873235800", null ]
 ];

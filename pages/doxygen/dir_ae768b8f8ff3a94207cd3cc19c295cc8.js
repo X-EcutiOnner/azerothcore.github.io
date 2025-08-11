@@ -1,11 +1,11 @@
 var dir_ae768b8f8ff3a94207cd3cc19c295cc8 =
 [
-    [ "boss_brutallus.cpp", "d0/d0c/a04484.html", "d0/d0c/a04484" ],
-    [ "boss_eredar_twins.cpp", "d1/d6c/a04478.html", "d1/d6c/a04478" ],
-    [ "boss_felmyst.cpp", "d7/df7/a04493.html", "d7/df7/a04493" ],
-    [ "boss_kalecgos.cpp", "d1/d55/a04496.html", "d1/d55/a04496" ],
-    [ "boss_kiljaeden.cpp", "d5/d8a/a04475.html", "d5/d8a/a04475" ],
-    [ "boss_muru.cpp", "dd/d40/a04481.html", "dd/d40/a04481" ],
-    [ "instance_sunwell_plateau.cpp", "d8/dc4/a04487.html", "d8/dc4/a04487" ],
-    [ "sunwell_plateau.h", "d5/d47/a04490.html", "d5/d47/a04490" ]
+    [ "boss_brutallus.cpp", "d1/df2/a02990.html", "d1/df2/a02990" ],
+    [ "boss_eredar_twins.cpp", "d7/d93/a02981.html", "d7/d93/a02981" ],
+    [ "boss_felmyst.cpp", "d6/d58/a02993.html", "d6/d58/a02993" ],
+    [ "boss_kalecgos.cpp", "de/d27/a03002.html", "de/d27/a03002" ],
+    [ "boss_kiljaeden.cpp", "da/dcd/a02987.html", "da/dcd/a02987" ],
+    [ "boss_muru.cpp", "d3/d8b/a02996.html", "d3/d8b/a02996" ],
+    [ "instance_sunwell_plateau.cpp", "dc/d94/a02999.html", "dc/d94/a02999" ],
+    [ "sunwell_plateau.h", "dd/d7e/a02984.html", "dd/d7e/a02984" ]
 ];

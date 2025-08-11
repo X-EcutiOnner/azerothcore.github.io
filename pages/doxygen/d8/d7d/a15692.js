@@ -1,7 +1,9 @@
 var a15692 =
 [
-    [ "npc_ranshallaAI", "d6/d63/a15696.html", "d6/d63/a15696" ],
-    [ "npc_ranshalla", "d8/d7d/a15692.html#a0b9848c68cf955d24024071ae9beb8e5", null ],
-    [ "GetAI", "d8/d7d/a15692.html#a1a81651366cc05d3ad6e9929160fe059", null ],
-    [ "OnQuestAccept", "d8/d7d/a15692.html#a4ed77a4c0a48dc4922fa5ebb71949e28", null ]
+    [ "npc_pluckyAI", "d8/d7d/a15692.html#a490198dfcf06b04f7ee9a6a5354dec7e", null ],
+    [ "ReceiveEmote", "d8/d7d/a15692.html#a4a4a09d6a462011154a8d871562dcaf5", null ],
+    [ "Reset", "d8/d7d/a15692.html#a1a6c4a479bbbfced1ad17f2604bdba32", null ],
+    [ "UpdateAI", "d8/d7d/a15692.html#a4775a736e3568940c1b92e0cdae4de4b", null ],
+    [ "NormFaction", "d8/d7d/a15692.html#afd9c6fccf4c30b4fbc62bfa951665949", null ],
+    [ "ResetTimer", "d8/d7d/a15692.html#ac9808c21666cd17b0603e7e67a61d015", null ]
 ];

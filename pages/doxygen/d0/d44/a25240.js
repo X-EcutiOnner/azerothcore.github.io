@@ -1,7 +1,6 @@
 var a25240 =
 [
-    [ "HandleDamage", "d0/d44/a25240.html#a9c9bbe49388cf5d04650572fdf789e5e", null ],
-    [ "PrepareSpellScript", "d0/d44/a25240.html#ac89a628f1aba54aa2ade876a4f7911b8", null ],
-    [ "Register", "d0/d44/a25240.html#a627bffccdd78c00f0f5a4241f36aeec8", null ],
-    [ "Validate", "d0/d44/a25240.html#aed63b40f8e2cc6fd32dd536a2d56c7c3", null ]
+    [ "HandleCast", "d0/d44/a25240.html#ac6f7b9650d0a55834dafb09555692243", null ],
+    [ "PrepareSpellScript", "d0/d44/a25240.html#ab3dc21aa63f0fb9202233603106eef87", null ],
+    [ "Register", "d0/d44/a25240.html#ad6c2dc91d0973c0b8d57151dff3d9499", null ]
 ];

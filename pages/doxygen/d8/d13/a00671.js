@@ -1,21 +1,19 @@
 var a00671 =
 [
-    [ "CleaningFlags", "d8/d13/a00671.html#ad8ba5c50a4cd2d5193e35ccc83798c67", [
-      [ "CLEANING_FLAG_ACHIEVEMENT_PROGRESS", "d8/d13/a00671.html#ad8ba5c50a4cd2d5193e35ccc83798c67afdcd00f9b75d683b143cbbe0ac22d748", null ],
-      [ "CLEANING_FLAG_SKILLS", "d8/d13/a00671.html#ad8ba5c50a4cd2d5193e35ccc83798c67ac23b2648d4cf0fe8d9ff4cd96722a714", null ],
-      [ "CLEANING_FLAG_SPELLS", "d8/d13/a00671.html#ad8ba5c50a4cd2d5193e35ccc83798c67a39fa10b14e68e92b74ab6697d0e1d564", null ],
-      [ "CLEANING_FLAG_TALENTS", "d8/d13/a00671.html#ad8ba5c50a4cd2d5193e35ccc83798c67a06a3fa1596c0c32ec619b9b9cb1d1550", null ],
-      [ "CLEANING_FLAG_QUESTSTATUS", "d8/d13/a00671.html#ad8ba5c50a4cd2d5193e35ccc83798c67ae0367424104049d29ca9dcf3d5b7273c", null ]
-    ] ],
-    [ "AchievementProgressCheck", "d8/d13/a00671.html#afe5cf638b3ba626c9dc18258d4c528fa", null ],
-    [ "CheckUnique", "d8/d13/a00671.html#ab98182e5f92f72090600314cc41f0d39", null ],
-    [ "CleanCharacterAchievementProgress", "d8/d13/a00671.html#ae5939466cf9b4fbb63eb136baf62767f", null ],
-    [ "CleanCharacterQuestStatus", "d8/d13/a00671.html#a9f512823f852120bf4c3ec78eb4bbeaa", null ],
-    [ "CleanCharacterSkills", "d8/d13/a00671.html#ae8c5d4dc123b8a900254bcbc82c1ffbe", null ],
-    [ "CleanCharacterSpell", "d8/d13/a00671.html#aca5826d283031348e5d6ae6eb75ad605", null ],
-    [ "CleanCharacterTalent", "d8/d13/a00671.html#a344f61fb209b507b775a0bbfb1315fac", null ],
-    [ "CleanDatabase", "d8/d13/a00671.html#a357c8a07f912c6efb55a13cc9bc089b9", null ],
-    [ "SkillCheck", "d8/d13/a00671.html#a0f72cf24646d1ece0eb793890840992d", null ],
-    [ "SpellCheck", "d8/d13/a00671.html#a02688f57778d28a7bcc4ca6cee2074ad", null ],
-    [ "TalentCheck", "d8/d13/a00671.html#aac707369555aa95807c11b1578ae80d2", null ]
+    [ "Acore::Impl::ChatCommands::ContainerTag", "d7/d2c/a07664.html", "d7/d2c/a07664" ],
+    [ "Acore::Impl::ChatCommands::tag_base< T, std::enable_if_t< std::is_base_of_v< ContainerTag, T > > >", "db/d04/a07668.html", "db/d04/a07668" ],
+    [ "Acore::ChatCommands::ExactSequence< chars >", "d9/dec/a07672.html", "d9/dec/a07672" ],
+    [ "Acore::ChatCommands::Tail", "d0/d10/a07676.html", "d0/d10/a07676" ],
+    [ "Acore::ChatCommands::WTail", "d8/de1/a07680.html", "d8/de1/a07680" ],
+    [ "Acore::ChatCommands::QuotedString", "d0/d40/a07684.html", "d0/d40/a07684" ],
+    [ "Acore::ChatCommands::AccountIdentifier", "dd/d5e/a07688.html", "dd/d5e/a07688" ],
+    [ "Acore::ChatCommands::PlayerIdentifier", "d7/d32/a07692.html", "d7/d32/a07692" ],
+    [ "Acore::ChatCommands::Hyperlink< linktag >", "d9/d79/a07696.html", "d9/d79/a07696" ],
+    [ "Acore::Impl::CastToVisitor< T >", "df/de3/a07700.html", "df/de3/a07700" ],
+    [ "Acore::ChatCommands::Variant< T1, Ts >", "dc/de8/a07704.html", "dc/de8/a07704" ],
+    [ "CHATCOMMANDS_IMPL_SPLIT_LITERAL", "d8/d13/a00671.html#af98497f511ab4c536bd80e08ff605c04", null ],
+    [ "CHATCOMMANDS_IMPL_SPLIT_LITERAL_CONSTRAINED", "d8/d13/a00671.html#ae9ad890da39c16320a177ed5fbdffdf1", null ],
+    [ "CHATCOMMANDS_IMPL_SPLIT_LITERAL_EXTRACT_CHAR", "d8/d13/a00671.html#a55b2f2ab9e15f11a5b44f6d616f28e8a", null ],
+    [ "EXACT_SEQUENCE", "d8/d13/a00671.html#ac61bb0d0d29d3ccc94188eb93516adf5", null ],
+    [ "GetChar", "d8/d13/a00671.html#ab72843264c39ce4d9aa3d4d8fbd83fc4", null ]
 ];

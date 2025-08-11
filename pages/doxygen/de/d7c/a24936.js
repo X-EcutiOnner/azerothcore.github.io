@@ -1,6 +1,6 @@
 var a24936 =
 [
-    [ "CheckAreaTarget", "de/d7c/a24936.html#a90761b0145ea9d4178e77eb5e15a8ba6", null ],
-    [ "PrepareAuraScript", "de/d7c/a24936.html#afbc45652033397067a439b45afd2e90e", null ],
-    [ "Register", "de/d7c/a24936.html#aa24679e1243470056f74249e1b26767d", null ]
+    [ "ModDest", "de/d7c/a24936.html#a99d08536d2555390a7399a6d2fc199e6", null ],
+    [ "PrepareSpellScript", "de/d7c/a24936.html#a361aed7e74a9f01d665018fd0c3addb1", null ],
+    [ "Register", "de/d7c/a24936.html#aa96b1ff5297d670481d1d8afa9356ef9", null ]
 ];

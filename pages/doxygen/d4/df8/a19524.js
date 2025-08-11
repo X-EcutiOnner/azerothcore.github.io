@@ -1,6 +1,7 @@
 var a19524 =
 [
-    [ "instance_halls_of_lightning_InstanceMapScript", "d5/dbe/a19528.html", "d5/dbe/a19528" ],
-    [ "instance_halls_of_lightning", "d4/df8/a19524.html#a24395866efe2c7d1f7727be2557a8b46", null ],
-    [ "GetInstanceScript", "d4/df8/a19524.html#a5ce157aeaf2ed78e98e864059a599b36", null ]
+    [ "OnRemove", "d4/df8/a19524.html#adf6b3d56199ad5a4545ce3874d1223db", null ],
+    [ "PrepareAuraScript", "d4/df8/a19524.html#a2d278e60b34870110dab188896109e24", null ],
+    [ "Register", "d4/df8/a19524.html#ac15847527cc4d162b3b34b8ca8628864", null ],
+    [ "Validate", "d4/df8/a19524.html#ac573e5bd171c97af1905b4a57a45e1f4", null ]
 ];

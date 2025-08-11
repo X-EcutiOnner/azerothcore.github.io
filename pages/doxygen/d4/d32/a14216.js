@@ -1,7 +1,9 @@
 var a14216 =
 [
-    [ "FilterTargets", "d4/d32/a14216.html#af3954bbcbce6de5d4ddadd2af0ecac91", null ],
-    [ "HandleDummy", "d4/d32/a14216.html#ad3688071ca786bbb4c27d5632d1a1e56", null ],
-    [ "PrepareSpellScript", "d4/d32/a14216.html#a6ac4db072beae6ae7a700774667da613", null ],
-    [ "Register", "d4/d32/a14216.html#ae981ec2b7e097ad0fe924df7738da5b7", null ]
+    [ "npc_brew_bubble", "d4/d32/a14216.html#a188d1b68bb939d518e72e844e53e9a7d", null ],
+    [ "DoAction", "d4/d32/a14216.html#a7223d3397b32cf2969ea628c06ac2f19", null ],
+    [ "MoveInLineOfSight", "d4/d32/a14216.html#aea01d2c0f9ac883a8a8668164f16f932", null ],
+    [ "Reset", "d4/d32/a14216.html#aa3ab8e07323b47751f72c5ebab24a1bb", null ],
+    [ "UpdateAI", "d4/d32/a14216.html#a25018deaa206620f6e98ba722f689b8d", null ],
+    [ "timer", "d4/d32/a14216.html#a4bee73add756ba4b3137818b2dacd27f", null ]
 ];

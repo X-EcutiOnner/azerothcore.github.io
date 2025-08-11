@@ -1,7 +1,8 @@
 var a27556 =
 [
-    [ "npc_guardianAI", "dc/d42/a27556.html#acc5d29a79e57fc023369c0dcd4b0d2a3", null ],
-    [ "JustEngagedWith", "dc/d42/a27556.html#a50257f80245bc59437e53083badcb056", null ],
-    [ "Reset", "dc/d42/a27556.html#a217df9bae079f56ffd70d27958fb2756", null ],
-    [ "UpdateAI", "dc/d42/a27556.html#ab42c39f088ef819a5ffb5f9f4ba2c3a3", null ]
+    [ "npc_chicken_cluckAI", "d1/d73/a27560.html", "d1/d73/a27560" ],
+    [ "npc_chicken_cluck", "dc/d42/a27556.html#a7bc08c81fca730886c47e0f3a3d8062c", null ],
+    [ "GetAI", "dc/d42/a27556.html#abf986f555672823477c3c17e0f59bdbe", null ],
+    [ "OnQuestAccept", "dc/d42/a27556.html#acca62c027b5b0cdff107e04cf2c276ea", null ],
+    [ "OnQuestComplete", "dc/d42/a27556.html#a8f22520166a557e066502eb16bdae774", null ]
 ];

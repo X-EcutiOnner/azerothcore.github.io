@@ -1,5 +1,4 @@
 var a00938 =
 [
-    [ "GuildMgr", "d4/d2d/a09539.html", "d4/d2d/a09539" ],
-    [ "sGuildMgr", "d5/d54/a00938.html#aef171903a38e30c347ff11360f682f81", null ]
+    [ "ScriptRegistry< GroupScript >", "d5/d54/a00938.html#a6ad2435b6116a997a5bacd47b955d688", null ]
 ];

@@ -1,6 +1,7 @@
 var a12204 =
 [
-    [ "boss_ebonrocAI", "d8/d5a/a12208.html", "d8/d5a/a12208" ],
-    [ "boss_ebonroc", "d6/d10/a12204.html#a3f71b5a687ab10a228e560429b8a4709", null ],
-    [ "GetAI", "d6/d10/a12204.html#acf2dc7391e1f642dff3c7f56024aaea5", null ]
+    [ "boss_broodlordAI", "d6/d10/a12204.html#aa7a5b16b22633439e5d20f9d47a91041", null ],
+    [ "JustDied", "d6/d10/a12204.html#ab0c4dfdd5abc8edcf039d5207e8a63e8", null ],
+    [ "JustEngagedWith", "d6/d10/a12204.html#ae6e26d9cd6e22426caf6ce031551f8a8", null ],
+    [ "UpdateAI", "d6/d10/a12204.html#aea6fbbe31c96e94c2116733c3c66b59b", null ]
 ];

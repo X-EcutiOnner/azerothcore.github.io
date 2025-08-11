@@ -1,8 +1,20 @@
 var a28552 =
 [
-    [ "ADT_file", "d4/dd7/a28552.html#ac7d3b65a1377d0c7358fe5e2d20dbe5e", null ],
-    [ "~ADT_file", "d4/dd7/a28552.html#a79fe542f34b0e7bf668e7e5ff94a7ded", null ],
-    [ "free", "d4/dd7/a28552.html#a8fc207b8cc83596577166a0008965dc6", null ],
-    [ "prepareLoadedData", "d4/dd7/a28552.html#ac9f498cb9c8e21a1947be87904e3760b", null ],
-    [ "a_grid", "d4/dd7/a28552.html#aad5263c4df4ab9d072f217ec8c19441c", null ]
+    [ "RealmMap", "d4/dd7/a28552.html#a6031c19ec935fbe535f60a1014483dbd", null ],
+    [ "RealmList", "d4/dd7/a28552.html#abe7dfad5160a08a5852cb1436a06eaa9", null ],
+    [ "~RealmList", "d4/dd7/a28552.html#a64bea5f38384143cc960840a8e84ef00", null ],
+    [ "Close", "d4/dd7/a28552.html#a14a4d9b5383da24bc1ad9754cdfa2183", null ],
+    [ "GetBuildInfo", "d4/dd7/a28552.html#a0f7136cb280d2461b1ec0d080645c6e0", null ],
+    [ "GetRealm", "d4/dd7/a28552.html#a3e25e63168bcff88d021294559ccf0c5", null ],
+    [ "GetRealms", "d4/dd7/a28552.html#afc2cbe2a4ee4d9870821dbe8d96e8fa4", null ],
+    [ "Initialize", "d4/dd7/a28552.html#a70954d518dc4559e0aca0388f13db411", null ],
+    [ "Instance", "d4/dd7/a28552.html#aea053134fe293fbd4a8801b25fbb44ca", null ],
+    [ "LoadBuildInfo", "d4/dd7/a28552.html#a1f8866e57557beb7d69037a63e34428d", null ],
+    [ "UpdateRealm", "d4/dd7/a28552.html#ae15cf59b00e8e8e561f266d5dd3e11ae", null ],
+    [ "UpdateRealms", "d4/dd7/a28552.html#a0b4559e5538a02ccf5247839005d602e", null ],
+    [ "_builds", "d4/dd7/a28552.html#a7c38c3c8b4fe6554c66dbc5ada26a3e0", null ],
+    [ "_realms", "d4/dd7/a28552.html#a41693a01cd88ea99b54dd9ca8fe6b445", null ],
+    [ "_resolver", "d4/dd7/a28552.html#a1beee0fdd1a9e61f68db925f53d373a9", null ],
+    [ "_updateInterval", "d4/dd7/a28552.html#ac07fe3cd4fc18169af4f63b207902e95", null ],
+    [ "_updateTimer", "d4/dd7/a28552.html#a5619be8a2649680901cfd7a3608e984a", null ]
 ];

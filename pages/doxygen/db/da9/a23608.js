@@ -1,5 +1,7 @@
 var a23608 =
 [
-    [ "at_rp_nethekurse", "db/da9/a23608.html#ac0a1891f90b674ad0ccbeb27f170e643", null ],
-    [ "_OnTrigger", "db/da9/a23608.html#a93001d6dda7b2711f1efe100ffab5879", null ]
+    [ "FilterTargets", "db/da9/a23608.html#a921450a09e51585beb9dd2ce9b00bac9", null ],
+    [ "HandleHit", "db/da9/a23608.html#adb30857a5a320bb24b8cc0bcb9d60040", null ],
+    [ "PrepareSpellScript", "db/da9/a23608.html#a376618b9811b2e1ec18697431094e22f", null ],
+    [ "Register", "db/da9/a23608.html#ae7f4f54446d5a1ebb20d49ab9deaed81", null ]
 ];

@@ -1,7 +1,7 @@
 var a11444 =
 [
-    [ "Command", "d7/dbc/a11444.html#a6042a93c52d18e3a74d3cd46ac3d940f", null ],
-    [ "ModuleId", "d7/dbc/a11444.html#aa2e1c1cee71fc1eb887511c655de0516", null ],
-    [ "ModuleKey", "d7/dbc/a11444.html#aba0f236c39186022816bd86f8e8e9093", null ],
-    [ "Size", "d7/dbc/a11444.html#a6912224c1ef6fd117a5ed02d394254d9", null ]
+    [ "FieldIndices", "d7/dbc/a11444.html#a06a366c804088e6fbb170881004a5cff", null ],
+    [ "TableFields", "d7/dbc/a11444.html#ad5d909c6b4b062f3c4aac3f559c5eaec", null ],
+    [ "TableName", "d7/dbc/a11444.html#ab00ee028c72660db98e8108583701471", null ],
+    [ "WhereFieldName", "d7/dbc/a11444.html#af1be82a21f6172504e310ae27b899e5b", null ]
 ];

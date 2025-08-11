@@ -1,6 +1,7 @@
 var a17480 =
 [
-    [ "npc_stinky_iccAI", "d6/d14/a17484.html", "d6/d14/a17484" ],
-    [ "npc_stinky_icc", "d9/d40/a17480.html#a8f6a3687d4b330f532a0d892dbf429a0", null ],
-    [ "GetAI", "d9/d40/a17480.html#aaf6b7b1a7469d1e353617f63f11f7781", null ]
+    [ "FilterTargets", "d9/d40/a17480.html#aeae290d20ade37eb839c1bf3c9ae59bf", null ],
+    [ "Load", "d9/d40/a17480.html#a38bf6d96c6a78e5105d0369eb993e58c", null ],
+    [ "PrepareSpellScript", "d9/d40/a17480.html#a815c99e9ef570287af5d45c32bdc5b8c", null ],
+    [ "Register", "d9/d40/a17480.html#a33342cc676adaabe5e3896fa559631b7", null ]
 ];

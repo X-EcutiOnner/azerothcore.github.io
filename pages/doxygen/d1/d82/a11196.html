@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: SpellChainNode Struct Reference</title>
+<title>AzerothCore: SpellBonusEntry Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -107,7 +107,7 @@ $(document).ready(function(){initNavTree('d1/d82/a11196.html','../../'); initRes
   <div class="summary">
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../df/d03/a11193.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">SpellChainNode Struct Reference</div></div>
+  <div class="headertitle"><div class="title">SpellBonusEntry Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
@@ -115,96 +115,78 @@ $(document).ready(function(){initNavTree('d1/d82/a11196.html','../../'); initRes
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:ae27b7d0aa5a2ae5cb75a7f0d397c849f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/df0/a11156.html">SpellInfo</a> const  *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d82/a11196.html#ae27b7d0aa5a2ae5cb75a7f0d397c849f">prev</a></td></tr>
-<tr class="separator:ae27b7d0aa5a2ae5cb75a7f0d397c849f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0a7791b7069912a013299e7afaf4142f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/df0/a11156.html">SpellInfo</a> const  *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d82/a11196.html#a0a7791b7069912a013299e7afaf4142f">next</a></td></tr>
-<tr class="separator:a0a7791b7069912a013299e7afaf4142f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a49aea8bfed353c2c552f6195b8e9f60a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/df0/a11156.html">SpellInfo</a> const  *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d82/a11196.html#a49aea8bfed353c2c552f6195b8e9f60a">first</a></td></tr>
-<tr class="separator:a49aea8bfed353c2c552f6195b8e9f60a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a05a8077c7ec39bcca66fe84aa1da7040"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/df0/a11156.html">SpellInfo</a> const  *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d82/a11196.html#a05a8077c7ec39bcca66fe84aa1da7040">last</a></td></tr>
-<tr class="separator:a05a8077c7ec39bcca66fe84aa1da7040"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0b58cef8fc18f91fa59b8c7d7b9f9872"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/daf/a04412.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d82/a11196.html#a0b58cef8fc18f91fa59b8c7d7b9f9872">rank</a></td></tr>
-<tr class="separator:a0b58cef8fc18f91fa59b8c7d7b9f9872"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abab1af227a6c8e592b8a9bd15589535d"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d82/a11196.html#abab1af227a6c8e592b8a9bd15589535d">direct_damage</a></td></tr>
+<tr class="separator:abab1af227a6c8e592b8a9bd15589535d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a92491d8d1e61612d88c7c830d7912be5"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d82/a11196.html#a92491d8d1e61612d88c7c830d7912be5">dot_damage</a></td></tr>
+<tr class="separator:a92491d8d1e61612d88c7c830d7912be5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a98410b8bb89434cd7e1747462f8039dc"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d82/a11196.html#a98410b8bb89434cd7e1747462f8039dc">ap_bonus</a></td></tr>
+<tr class="separator:a98410b8bb89434cd7e1747462f8039dc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a09caeec47b138d9eff3539795416a09a"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d82/a11196.html#a09caeec47b138d9eff3539795416a09a">ap_dot_bonus</a></td></tr>
+<tr class="separator:a09caeec47b138d9eff3539795416a09a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Member Data Documentation</h2>
-<a id="a49aea8bfed353c2c552f6195b8e9f60a" name="a49aea8bfed353c2c552f6195b8e9f60a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a49aea8bfed353c2c552f6195b8e9f60a">&#9670;&#160;</a></span>first</h2>
+<a id="a98410b8bb89434cd7e1747462f8039dc" name="a98410b8bb89434cd7e1747462f8039dc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a98410b8bb89434cd7e1747462f8039dc">&#9670;&#160;</a></span>ap_bonus</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d6/df0/a11156.html">SpellInfo</a> const* SpellChainNode::first</td>
+          <td class="memname">float SpellBonusEntry::ap_bonus</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l02513">SpellInfo::GetFirstRankSpell()</a>, <a class="el" href="../../#l02597">SpellInfo::IsHighRankOf()</a>, and <a class="el" href="../../#l01231">SpellMgr::LoadSpellTalentRanks()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01963">SpellMgr::LoadSpellBonuses()</a>, <a class="el" href="../../#l11698">Unit::SpellDamageBonusDone()</a>, and <a class="el" href="../../#l12536">Unit::SpellHealingBonusDone()</a>.</p>
 
 </div>
 </div>
-<a id="a05a8077c7ec39bcca66fe84aa1da7040" name="a05a8077c7ec39bcca66fe84aa1da7040"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a05a8077c7ec39bcca66fe84aa1da7040">&#9670;&#160;</a></span>last</h2>
+<a id="a09caeec47b138d9eff3539795416a09a" name="a09caeec47b138d9eff3539795416a09a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a09caeec47b138d9eff3539795416a09a">&#9670;&#160;</a></span>ap_dot_bonus</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d6/df0/a11156.html">SpellInfo</a> const* SpellChainNode::last</td>
+          <td class="memname">float SpellBonusEntry::ap_dot_bonus</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l02519">SpellInfo::GetLastRankSpell()</a>, <a class="el" href="../../#l06646">Unit::HandleDummyAuraProc()</a>, and <a class="el" href="../../#l01231">SpellMgr::LoadSpellTalentRanks()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01963">SpellMgr::LoadSpellBonuses()</a>, <a class="el" href="../../#l11698">Unit::SpellDamageBonusDone()</a>, and <a class="el" href="../../#l12536">Unit::SpellHealingBonusDone()</a>.</p>
 
 </div>
 </div>
-<a id="a0a7791b7069912a013299e7afaf4142f" name="a0a7791b7069912a013299e7afaf4142f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0a7791b7069912a013299e7afaf4142f">&#9670;&#160;</a></span>next</h2>
+<a id="abab1af227a6c8e592b8a9bd15589535d" name="abab1af227a6c8e592b8a9bd15589535d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abab1af227a6c8e592b8a9bd15589535d">&#9670;&#160;</a></span>direct_damage</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d6/df0/a11156.html">SpellInfo</a> const* SpellChainNode::next</td>
+          <td class="memname">float SpellBonusEntry::direct_damage</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l02525">SpellInfo::GetNextRankSpell()</a>, and <a class="el" href="../../#l01231">SpellMgr::LoadSpellTalentRanks()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01963">SpellMgr::LoadSpellBonuses()</a>, <a class="el" href="../../#l11698">Unit::SpellDamageBonusDone()</a>, <a class="el" href="../../#l11874">Unit::SpellDamageBonusTaken()</a>, <a class="el" href="../../#l12536">Unit::SpellHealingBonusDone()</a>, and <a class="el" href="../../#l12654">Unit::SpellHealingBonusTaken()</a>.</p>
 
 </div>
 </div>
-<a id="ae27b7d0aa5a2ae5cb75a7f0d397c849f" name="ae27b7d0aa5a2ae5cb75a7f0d397c849f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae27b7d0aa5a2ae5cb75a7f0d397c849f">&#9670;&#160;</a></span>prev</h2>
+<a id="a92491d8d1e61612d88c7c830d7912be5" name="a92491d8d1e61612d88c7c830d7912be5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a92491d8d1e61612d88c7c830d7912be5">&#9670;&#160;</a></span>dot_damage</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d6/df0/a11156.html">SpellInfo</a> const* SpellChainNode::prev</td>
+          <td class="memname">float SpellBonusEntry::dot_damage</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l02531">SpellInfo::GetPrevRankSpell()</a>, and <a class="el" href="../../#l01231">SpellMgr::LoadSpellTalentRanks()</a>.</p>
-
-</div>
-</div>
-<a id="a0b58cef8fc18f91fa59b8c7d7b9f9872" name="a0b58cef8fc18f91fa59b8c7d7b9f9872"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0b58cef8fc18f91fa59b8c7d7b9f9872">&#9670;&#160;</a></span>rank</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../db/daf/a04412.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> SpellChainNode::rank</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l02506">SpellInfo::GetRank()</a>, <a class="el" href="../../#l06646">Unit::HandleDummyAuraProc()</a>, <a class="el" href="../../#l02597">SpellInfo::IsHighRankOf()</a>, and <a class="el" href="../../#l01231">SpellMgr::LoadSpellTalentRanks()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01963">SpellMgr::LoadSpellBonuses()</a>, <a class="el" href="../../#l11698">Unit::SpellDamageBonusDone()</a>, <a class="el" href="../../#l11874">Unit::SpellDamageBonusTaken()</a>, <a class="el" href="../../#l12536">Unit::SpellHealingBonusDone()</a>, and <a class="el" href="../../#l12654">Unit::SpellHealingBonusTaken()</a>.</p>
 
 </div>
 </div>
@@ -213,8 +195,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d1/d82/a11196.html">SpellChainNode</a></li>
-    <li class="footer">Generated on Mon Jul 7 2025 20:49:36 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d1/d82/a11196.html">SpellBonusEntry</a></li>
+    <li class="footer">Generated on Mon Aug 11 2025 20:48:53 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

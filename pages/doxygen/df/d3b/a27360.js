@@ -1,5 +1,5 @@
 var a27360 =
 [
-    [ "item_incendiary_explosives", "df/d3b/a27360.html#a3a10f4e40374cae75a5ed320385a67f9", null ],
-    [ "OnUse", "df/d3b/a27360.html#a1e566a6a5b6cfb8b7e331a6ea94f77b4", null ]
+    [ "go_hive_pod", "df/d3b/a27360.html#a7ec01a399e75ff2e64746166d1aa3539", null ],
+    [ "OnGossipHello", "df/d3b/a27360.html#a4cfb09789edf6699444a7d817e4ccc70", null ]
 ];

@@ -1,5 +1,6 @@
 var a15036 =
 [
-    [ "boss_vem", "d8/d1c/a15036.html#a8e303ece8ba209c6dea0ed6c888077d3", null ],
-    [ "JustEngagedWith", "d8/d1c/a15036.html#ae4b7fa599d31155bdee566b31c60b237", null ]
+    [ "FilterTargets", "d8/d1c/a15036.html#ab0cd088c750e9538e2087f58fdaac20e", null ],
+    [ "PrepareSpellScript", "d8/d1c/a15036.html#ae252cbce0ebc63eb4e54bedfc88640ad", null ],
+    [ "Register", "d8/d1c/a15036.html#a3168a3f97ddb38b261a0730405ba27db", null ]
 ];

@@ -1,8 +1,10 @@
 var a27388 =
 [
-    [ "trigger_periodicAI", "dc/da9/a27388.html#a696d62fed28de9c67827dad111cf320b", null ],
-    [ "UpdateAI", "dc/da9/a27388.html#aed31d60765eff7dd11790714e28e729e", null ],
-    [ "interval", "dc/da9/a27388.html#a6e9dd149ce11dcc1c2adf039c73e8023", null ],
-    [ "spell", "dc/da9/a27388.html#a618b707155edf6d9179bbedc0f0ecf1e", null ],
-    [ "timer", "dc/da9/a27388.html#ac434f6a60065ae3b1adcb11d58af4299", null ]
+    [ "guard_shattrath_scryerAI", "dc/da9/a27388.html#a97accbf467ca1190f8a05512b3857164", null ],
+    [ "Reset", "dc/da9/a27388.html#adfcd8bce42148d303fe6ec9b615ffdb1", null ],
+    [ "UpdateAI", "dc/da9/a27388.html#ad759cca08b0093522e190ddc038e2c73", null ],
+    [ "banishTimer", "dc/da9/a27388.html#aa9aa3c2e7e69df5899c84ebde1e357bd", null ],
+    [ "canTeleport", "dc/da9/a27388.html#a84188b40b44deae5714466bb23bf2f0d", null ],
+    [ "exileTimer", "dc/da9/a27388.html#a97fbc3f54c23049fd91ad432cd560698", null ],
+    [ "playerGUID", "dc/da9/a27388.html#adb40d8bbc97a6a1fa0f4e303db470db2", null ]
 ];

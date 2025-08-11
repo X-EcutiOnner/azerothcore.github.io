@@ -1,7 +1,9 @@
 var a20596 =
 [
-    [ "boss_thorim_trapAI", "dd/d9a/a20596.html#aaab278dc6557a49624099b0064b8d6f3", null ],
-    [ "Reset", "dd/d9a/a20596.html#ab0715e75a475409ffb6c623bf363a65d", null ],
-    [ "UpdateAI", "dd/d9a/a20596.html#a40078609a67aa029f71df7971449b056", null ],
-    [ "_checkTimer", "dd/d9a/a20596.html#ad3ed8edb4d06e5b98a5afc82170f3233", null ]
+    [ "npc_ulduar_dark_rune_sentinelAI", "dd/d9a/a20596.html#a533ae31e0507f12f7d94e347b6b7ebf2", null ],
+    [ "CanAIAttack", "dd/d9a/a20596.html#a12b2e5c621a8b04a4d80dde706a4bb2b", null ],
+    [ "Reset", "dd/d9a/a20596.html#ada2897f48effedd5d5baa5a260497b5a", null ],
+    [ "UpdateAI", "dd/d9a/a20596.html#aa9b319928a9b23cf4d47a07c1eaeb0cd", null ],
+    [ "timer1", "dd/d9a/a20596.html#a383a2ee113822b7eff52466f0cc0e137", null ],
+    [ "timer2", "dd/d9a/a20596.html#ad5c4698c5d12ff42179d62c47d9f7719", null ]
 ];

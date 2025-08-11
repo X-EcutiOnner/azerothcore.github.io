@@ -1,8 +1,9 @@
 var a20736 =
 [
-    [ "OnPeriodic", "da/d22/a20736.html#aa49d1186ca6f5cdd628728a8a30c06a0", null ],
-    [ "OnRemove", "da/d22/a20736.html#ad3a81506d71ed3d6ddffce7d8f902eb4", null ],
-    [ "PrepareAuraScript", "da/d22/a20736.html#a63b654cf540e331e4d2b4f4ece5c1fcc", null ],
-    [ "Register", "da/d22/a20736.html#a004ba2e0e83a14bef3cae208a45f222b", null ],
-    [ "Validate", "da/d22/a20736.html#aa56622a1e57c157260940023a6c70a35", null ]
+    [ "npc_xt002_scrapbotAI", "da/d22/a20736.html#a21be97bb49ff06ef090cbbe6f5006f56", null ],
+    [ "JustDied", "da/d22/a20736.html#adcab192d017e6a9e8d103a6e8b91cb26", null ],
+    [ "MovementInform", "da/d22/a20736.html#a48fd29d42280ae91852ef2ef0cecc8f6", null ],
+    [ "Reset", "da/d22/a20736.html#aab71d2a49ee96e88a2858c07c455e78d", null ],
+    [ "UpdateAI", "da/d22/a20736.html#ae2de6767f8ab502833971e4171d48c13", null ],
+    [ "_locked", "da/d22/a20736.html#add3bfe992d635629ac7e07e04c4334c9", null ]
 ];

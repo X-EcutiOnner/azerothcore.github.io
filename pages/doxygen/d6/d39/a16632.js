@@ -1,6 +1,6 @@
 var a16632 =
 [
-    [ "boss_novosAI", "da/d4d/a16636.html", "da/d4d/a16636" ],
-    [ "boss_novos", "d6/d39/a16632.html#a898a5ee1de69df17fde66c84dd065ac1", null ],
-    [ "GetAI", "d6/d39/a16632.html#aaf28e2a23a8139197dccc92ae29a8be4", null ]
+    [ "HandleEffectPeriodic", "d6/d39/a16632.html#a8775f4e2cb6be96f57596413d560206c", null ],
+    [ "PrepareAuraScript", "d6/d39/a16632.html#a45118f9887d248a5eb840b945dee5b79", null ],
+    [ "Register", "d6/d39/a16632.html#ad1b2b8e1dca62c31ec2b071ae4ca2f35", null ]
 ];

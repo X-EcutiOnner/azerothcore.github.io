@@ -1,21 +1,18 @@
 var a02306 =
 [
-    [ "TSpellSummary", "d9/dac/a06190.html", "d9/dac/a06190" ],
-    [ "eNPCs", "d3/dc5/a02306.html#abaecf87f40b40c4c71ec596a0b73e911", [
-      [ "NPC_BROODLORD", "d3/dc5/a02306.html#abaecf87f40b40c4c71ec596a0b73e911a0429b55864dc1628ebf2cc160a93c1dc", null ],
-      [ "NPC_JAN_ALAI", "d3/dc5/a02306.html#abaecf87f40b40c4c71ec596a0b73e911a0c9f05f129ebeb37c7b6a6bd0444caca", null ],
-      [ "NPC_SARTHARION", "d3/dc5/a02306.html#abaecf87f40b40c4c71ec596a0b73e911ac5fc96320a852557e13f1d4a95c8ff10", null ],
-      [ "NPC_FREYA", "d3/dc5/a02306.html#abaecf87f40b40c4c71ec596a0b73e911a5406e0387cdb4e28fe7718f28ec3d752", null ],
-      [ "NPC_INGVAR_UNDEAD", "d4/d43/a03143.html#abaecf87f40b40c4c71ec596a0b73e911ac5f7785a73b2ea4946e698f73996e906", null ],
-      [ "NPC_ANNHYLDE", "d4/d43/a03143.html#abaecf87f40b40c4c71ec596a0b73e911a244024200627132843a0b95f2fdefcb4", null ],
-      [ "NPC_THROW", "d4/d43/a03143.html#abaecf87f40b40c4c71ec596a0b73e911a5c7c851e12a8c23ef9569157753a2546", null ],
-      [ "NPC_FROST_TOMB", "d7/d66/a03134.html#abaecf87f40b40c4c71ec596a0b73e911a8d3888198310322d79e29632f594ac76", null ],
-      [ "NPC_SKELETON", "d7/d66/a03134.html#abaecf87f40b40c4c71ec596a0b73e911ae6d4da6ba356104e95b11d5cd561d0f3", null ]
-    ] ],
-    [ "GetClosestCreatureWithEntry", "d3/dc5/a02306.html#a136c0c059281a05f9cb91237ce55be7b", null ],
-    [ "GetClosestGameObjectWithEntry", "d3/dc5/a02306.html#a80b13d7c0fa3b835b0834955ed0f93d8", null ],
-    [ "GetCreatureListWithEntryInGrid", "d3/dc5/a02306.html#ab6a8246d473139627106be4651f6329d", null ],
-    [ "GetDeadCreatureListInGrid", "d3/dc5/a02306.html#a2e3edf6fd8a6865d815af4f8acb184af", null ],
-    [ "GetGameObjectListWithEntryInGrid", "d3/dc5/a02306.html#ae9abb80c4e811509bca88e65cf817276", null ],
-    [ "SpellSummary", "d3/dc5/a02306.html#ae56af266ccaa1794f1f014938b07e9cc", null ]
+    [ "instance_serpent_shrine", "df/d94/a23240.html", "df/d94/a23240" ],
+    [ "instance_serpent_shrine::instance_serpentshrine_cavern_InstanceMapScript", "de/d4f/a23244.html", "de/d4f/a23244" ],
+    [ "spell_serpentshrine_cavern_serpentshrine_parasite", "d4/d2c/a23248.html", "d4/d2c/a23248" ],
+    [ "spell_serpentshrine_cavern_serpentshrine_parasite_trigger_aura", "d3/d93/a23252.html", "d3/d93/a23252" ],
+    [ "spell_serpentshrine_cavern_serpentshrine_parasite_trigger", "d5/d15/a23256.html", "d5/d15/a23256" ],
+    [ "spell_serpentshrine_cavern_infection", "dc/dbc/a23260.html", "dc/dbc/a23260" ],
+    [ "spell_serpentshrine_cavern_coilfang_water", "d0/d54/a23264.html", "d0/d54/a23264" ],
+    [ "npc_rancid_mushroom", "d9/d80/a23268.html", "d9/d80/a23268" ],
+    [ "spell_rancid_spore_cloud", "d2/de9/a23272.html", "d2/de9/a23272" ],
+    [ "AddSC_instance_serpentshrine_cavern", "d3/dc5/a02306.html#accf317168271361913093466ba7f8f0e", null ],
+    [ "boundaries", "d3/dc5/a02306.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
+    [ "creatureData", "d3/dc5/a02306.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "gameObjectData", "d3/dc5/a02306.html#a1461582839e3b7fdbb7397e5d2086e31", null ],
+    [ "minionData", "d3/dc5/a02306.html#a6720238df140a3c574a711042b7f5bd3", null ],
+    [ "summonData", "d3/dc5/a02306.html#af7ba92b4a76e9cb7835c84a49f9c2052", null ]
 ];

@@ -1,14 +1,15 @@
 var a13080 =
 [
-    [ "boss_apothecary_hummelAI", "d1/d2a/a13080.html#a75796eb8dc83729f2f726ff51317bd66", null ],
-    [ "DamageTaken", "d1/d2a/a13080.html#a2af77fbe7f089b5da20d2ff693cfcedf", null ],
-    [ "DoAction", "d1/d2a/a13080.html#a03fb543ba20f92d5528bf4667c457631", null ],
-    [ "JustDied", "d1/d2a/a13080.html#a3c7bc5f9aa04f155debbdacafed6163d", null ],
-    [ "Reset", "d1/d2a/a13080.html#a31381343d2533af670941baf872b3635", null ],
-    [ "sGossipSelect", "d1/d2a/a13080.html#a1a9953c37286fd40c0aa0eebfec3eb86", null ],
-    [ "SummonedCreatureDies", "d1/d2a/a13080.html#a8947cbd1c2856334a0d6529bc664f71b", null ],
-    [ "UpdateAI", "d1/d2a/a13080.html#a61e4d85ecd592142ba07588512505990", null ],
-    [ "_deadCount", "d1/d2a/a13080.html#aaac2018e16b80997f884745732605559", null ],
-    [ "_isDead", "d1/d2a/a13080.html#aa3c37a38b95c6b3bec4e3b787d2155df", null ],
-    [ "_phase", "d1/d2a/a13080.html#a951d68d4e645860cdb5c5e348bf1fff4", null ]
+    [ "boss_kormok", "d1/d2a/a13080.html#a2bacfd366d084cae31b8cc689fb26d0b", null ],
+    [ "DamageTaken", "d1/d2a/a13080.html#a2aa7fedea09b4d0526028826be2cb360", null ],
+    [ "IsSummonedBy", "d1/d2a/a13080.html#a641bd06b5da44e04534150fc1fc6f9e0", null ],
+    [ "JustDied", "d1/d2a/a13080.html#a219bc4f5e13e58bb4a8f79cbc36b5ad7", null ],
+    [ "JustEngagedWith", "d1/d2a/a13080.html#a7fc5bb05831e5b8e22c7d59c5c71f87a", null ],
+    [ "JustSummoned", "d1/d2a/a13080.html#a49ba1031e5639c3d8fdaf9ae9884a038", null ],
+    [ "Reset", "d1/d2a/a13080.html#a70252bf1680510294f62e2c42220156e", null ],
+    [ "SummonedCreatureDespawn", "d1/d2a/a13080.html#a6f23b4b006de4b8b5fda6e0203e2f8a7", null ],
+    [ "UpdateAI", "d1/d2a/a13080.html#aea5651a98492885eb4d598714df4fd40", null ],
+    [ "_mages", "d1/d2a/a13080.html#ae0de3f9848cb9051a18ba15347af3e7a", null ],
+    [ "_scheduler", "d1/d2a/a13080.html#a540ef7a05a503a989f93d4b53daacb4b", null ],
+    [ "_summons", "d1/d2a/a13080.html#aefaac0c5af45f63faeac6bf9ef1ca7fc", null ]
 ];

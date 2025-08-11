@@ -1,6 +1,7 @@
 var a16216 =
 [
-    [ "FilterTargets", "de/d9f/a16216.html#a40c4d2b624fe87e21263d1b137994cc3", null ],
-    [ "PrepareSpellScript", "de/d9f/a16216.html#a697a52cbc50eafd2b0377621afb01557", null ],
-    [ "Register", "de/d9f/a16216.html#a3d523f92cb8123f30cb068cbac39a9c3", null ]
+    [ "CountAllies", "de/d9f/a16216.html#a207c1fd89fd726054a881e342391d2a0", null ],
+    [ "PrepareSpellScript", "de/d9f/a16216.html#ae1e230ad204a280a261ebe0f21c7f8a5", null ],
+    [ "Register", "de/d9f/a16216.html#a47574795b2a262625c65ab23a4179684", null ],
+    [ "Validate", "de/d9f/a16216.html#a0178e7c4f5509a4bb2c6ed3811fc9685", null ]
 ];

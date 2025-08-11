@@ -1,12 +1,17 @@
 var a12812 =
 [
-    [ "boss_vexallus", "de/d9d/a12812.html#a68c32ed70274e9f135b7a9107f888c91", null ],
-    [ "JustDied", "de/d9d/a12812.html#a5e67671becf3c1ac4ca9f04c79d82cf1", null ],
-    [ "JustEngagedWith", "de/d9d/a12812.html#aa9d37e8132c715552e2ce0102ac9a59b", null ],
-    [ "JustSummoned", "de/d9d/a12812.html#a9bc7808889da754bae9c935418975f90", null ],
-    [ "KilledUnit", "de/d9d/a12812.html#a48d44cc3ed6f0e7f97f76cd325e5c48e", null ],
-    [ "Reset", "de/d9d/a12812.html#a6ecf0817f6b1811fe9c62ac83d4b3dcc", null ],
-    [ "SummonedCreatureDies", "de/d9d/a12812.html#a4bd88222143d8db098312cff8a2fc969", null ],
-    [ "_energyCooldown", "de/d9d/a12812.html#a395d2186d70d1b7e29dbada7750da354", null ],
-    [ "_energyCount", "de/d9d/a12812.html#a4afa4a245b8863c7b0898773932642c8", null ]
+    [ "boss_priestess_lackey_commonAI", "de/d9d/a12812.html#acf122076823631cef5d66e03a9f607aa", null ],
+    [ "AttackStart", "de/d9d/a12812.html#a6056ef3425f39208e5731b25fc94a335", null ],
+    [ "EnterEvadeMode", "de/d9d/a12812.html#a6935410d7a4ce8e9dec9feed9f5351d7", null ],
+    [ "GetThreatMod", "de/d9d/a12812.html#a2e0e387ae4645c9bbd4625d1469403a8", null ],
+    [ "JustDied", "de/d9d/a12812.html#a8b06ee0a3e22d495a41ccf4c7009ad2d", null ],
+    [ "JustEngagedWith", "de/d9d/a12812.html#a4d47aacc653ab0e4b74fa3bcbcfdbbc7", null ],
+    [ "JustSummoned", "de/d9d/a12812.html#a9a7bcf641bae31827872faf7666635d5", null ],
+    [ "KilledUnit", "de/d9d/a12812.html#a23aaa0a619470898dd617a18130ca17b", null ],
+    [ "RecalculateThreat", "de/d9d/a12812.html#a7daa8f2b2ddfbbd0d0f267dac7e0c2c2", null ],
+    [ "Reset", "de/d9d/a12812.html#aa2ef03d73c43668c97205fa72414e71b", null ],
+    [ "UpdateAI", "de/d9d/a12812.html#adf87bd797da345e49700265319d808cc", null ],
+    [ "aiType", "de/d9d/a12812.html#a2b7ccbf195658e402ba6f276b18e3551", null ],
+    [ "instance", "de/d9d/a12812.html#ac71aa86c97fe11d934f09d62c4ed8eab", null ],
+    [ "summons", "de/d9d/a12812.html#a498ef73fcc7995113318c5f0b6efa23e", null ]
 ];

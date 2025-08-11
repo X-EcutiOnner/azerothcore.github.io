@@ -1,8 +1,10 @@
 var a27444 =
 [
-    [ "npc_nelsonAI", "d4/daf/a27448.html", "d4/daf/a27448" ],
-    [ "npc_nelson", "d4/d72/a27444.html#ada597926a6db1aa7823ddabc19945b11", null ],
-    [ "GetAI", "d4/d72/a27444.html#a75fea281fb49249345c48236bf44b1c8", null ],
-    [ "OnGossipHello", "d4/d72/a27444.html#aa693b365a15d4617f214f9c3c229bf89", null ],
-    [ "OnGossipSelect", "d4/d72/a27444.html#aff8e412cfcabd7b653cd30d29878be6a", null ]
+    [ "npc_prof_blacksmith", "d4/d72/a27444.html#af9bd62c4c2514d79daf467e4d6d7a92e", null ],
+    [ "HasWeaponSub", "d4/d72/a27444.html#a7ee47d061de5e2f482406469b4eaac3b", null ],
+    [ "OnGossipHello", "d4/d72/a27444.html#a9a432c1ec33578949110c877fc6a686d", null ],
+    [ "OnGossipSelect", "d4/d72/a27444.html#ab1edaf3dc0a8dddf064368d26930a2af", null ],
+    [ "SendActionMenu", "d4/d72/a27444.html#af2ac8f9bfa212c34be3e45cc358dd773", null ],
+    [ "SendConfirmLearn", "d4/d72/a27444.html#acbec7fe3eebf7eaed09e5755c6775eaa", null ],
+    [ "SendConfirmUnlearn", "d4/d72/a27444.html#a851dc241d944bc888a00df85bff17e3a", null ]
 ];

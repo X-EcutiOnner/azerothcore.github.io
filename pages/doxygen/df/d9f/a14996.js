@@ -1,7 +1,7 @@
 var a14996 =
 [
-    [ "boss_rajaxx", "df/d9f/a14996.html#afca05f7afabb4c0e181ce3757acb3bcb", null ],
-    [ "JustDied", "df/d9f/a14996.html#a9231a20150ed6eae0cbc79c8386f7371", null ],
-    [ "JustEngagedWith", "df/d9f/a14996.html#a8dad79921559359b6aa7149641925fe5", null ],
-    [ "UpdateAI", "df/d9f/a14996.html#a9b949bea61ceb45ec1b3e452f218c227", null ]
+    [ "boss_kurinnaxx", "df/d9f/a14996.html#aa8b471e6239080b2a5f70e50e07a9621", null ],
+    [ "InitializeAI", "df/d9f/a14996.html#a0e249007d5bf29eb0cff307045ef9eb3", null ],
+    [ "JustDied", "df/d9f/a14996.html#adb749c8737888a099ad7a3d58292a612", null ],
+    [ "JustEngagedWith", "df/d9f/a14996.html#a451cd7ee80b0428a199c33012562bdb3", null ]
 ];

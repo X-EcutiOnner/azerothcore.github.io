@@ -1,6 +1,6 @@
 var a12940 =
 [
-    [ "npc_scarlet_courierAI", "d1/dfc/a12944.html", "d1/dfc/a12944" ],
-    [ "npc_scarlet_courier", "d2/df5/a12940.html#ac9bb46ff40bdf5c83d55c14e52243004", null ],
-    [ "GetAI", "d2/df5/a12940.html#a4b6b5a14ec6ce13a9ce7089f08bce9f5", null ]
+    [ "npc_scarlet_minerAI", "d1/dfc/a12944.html", "d1/dfc/a12944" ],
+    [ "npc_scarlet_miner", "d2/df5/a12940.html#a8948afd8a41c23ab3afbda9949d9019d", null ],
+    [ "GetAI", "d2/df5/a12940.html#abd2973972788ce9b39572aaa819d0690", null ]
 ];

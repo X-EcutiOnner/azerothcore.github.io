@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/Battlegrounds/BattlegroundScore.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/game/Combat/UnitEvents.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,137 +106,152 @@ $(document).ready(function(){initNavTree('df/dbb/a00698.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
+<a href="#define-members">Macros</a> &#124;
 <a href="#enum-members">Enumerations</a>  </div>
-  <div class="headertitle"><div class="title">BattlegroundScore.h File Reference</div></div>
+  <div class="headertitle"><div class="title">UnitEvents.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">Errors.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ObjectGuid.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">Common.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d6f/a07322.html">BattlegroundScore</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dbf/a07844.html">UnitBaseEvent</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d0d/a07848.html">ThreatRefStatusChangeEvent</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d0d/a07856.html">ThreatMgrEvent</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
+Macros</h2></td></tr>
+<tr class="memitem:aca3c8db6dd274b113d9c3c7755ff5d7a"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dbb/a00698.html#aca3c8db6dd274b113d9c3c7755ff5d7a">UEV_THREAT_REF_EVENT_MASK</a>&#160;&#160;&#160;(<a class="el" href="../../df/dbb/a00698.html#a5207de6e2fb421d2579a9baf4c471e97a77f8da111f54455d20c58ae0fd4156f9">UEV_THREAT_REF_ONLINE_STATUS</a> | <a class="el" href="../../df/dbb/a00698.html#a5207de6e2fb421d2579a9baf4c471e97a5c74b5ccc46cdc399916b41b6d97bfb0">UEV_THREAT_REF_THREAT_CHANGE</a> | <a class="el" href="../../df/dbb/a00698.html#a5207de6e2fb421d2579a9baf4c471e97aa8b5a9d97c235e1f56e98ff4103b08d0">UEV_THREAT_REF_REMOVE_FROM_LIST</a> | <a class="el" href="../../df/dbb/a00698.html#a5207de6e2fb421d2579a9baf4c471e97abd7481924e1cb036704820e5be0407db">UEV_THREAT_REF_ASSECCIBLE_STATUS</a>)</td></tr>
+<tr class="separator:aca3c8db6dd274b113d9c3c7755ff5d7a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a28d3aa8f148208fa65f5ef1af46913cc"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dbb/a00698.html#a28d3aa8f148208fa65f5ef1af46913cc">UEV_THREAT_MANAGER_EVENT_MASK</a>&#160;&#160;&#160;(<a class="el" href="../../df/dbb/a00698.html#a5207de6e2fb421d2579a9baf4c471e97a74092d5fa151b78ce0de1ddf3ed05865">UEV_THREAT_SORT_LIST</a> | <a class="el" href="../../df/dbb/a00698.html#a5207de6e2fb421d2579a9baf4c471e97ac45249081756ba40d712bd7e08626ed9">UEV_THREAT_SET_NEXT_TARGET</a> | <a class="el" href="../../df/dbb/a00698.html#a5207de6e2fb421d2579a9baf4c471e97af02166c466fbff650b908cd08c7e4669">UEV_THREAT_VICTIM_CHANGED</a>)</td></tr>
+<tr class="separator:a28d3aa8f148208fa65f5ef1af46913cc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a99af7f8805c877a694d51ab4feb1e58b"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dbb/a00698.html#a99af7f8805c877a694d51ab4feb1e58b">UEV_ALL_EVENT_MASK</a>&#160;&#160;&#160;(0xffffffff)</td></tr>
+<tr class="separator:a99af7f8805c877a694d51ab4feb1e58b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
 Enumerations</h2></td></tr>
-<tr class="memitem:aa5c51730b458b3ddc7b23ce42f320f18"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dbb/a00698.html#aa5c51730b458b3ddc7b23ce42f320f18">ScoreType</a> { <br />
-&#160;&#160;<a class="el" href="../../df/dbb/a00698.html#aa5c51730b458b3ddc7b23ce42f320f18a22caa690e4e043a997818fdf5a449046">SCORE_KILLING_BLOWS</a> = 1
+<tr class="memitem:a5207de6e2fb421d2579a9baf4c471e97"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dbb/a00698.html#a5207de6e2fb421d2579a9baf4c471e97">UNIT_EVENT_TYPE</a> { <br />
+&#160;&#160;<a class="el" href="../../df/dbb/a00698.html#a5207de6e2fb421d2579a9baf4c471e97a77f8da111f54455d20c58ae0fd4156f9">UEV_THREAT_REF_ONLINE_STATUS</a> = 1 &lt;&lt; 0
 , <br />
-&#160;&#160;<a class="el" href="../../df/dbb/a00698.html#aa5c51730b458b3ddc7b23ce42f320f18a4ba4987db8c69483e0652a21dace8412">SCORE_DEATHS</a>
+&#160;&#160;<a class="el" href="../../df/dbb/a00698.html#a5207de6e2fb421d2579a9baf4c471e97a5c74b5ccc46cdc399916b41b6d97bfb0">UEV_THREAT_REF_THREAT_CHANGE</a> = 1 &lt;&lt; 1
 , <br />
-&#160;&#160;<a class="el" href="../../df/dbb/a00698.html#aa5c51730b458b3ddc7b23ce42f320f18ae7b8eadd38f6f3bf514aa4cbd2118aa7">SCORE_HONORABLE_KILLS</a>
+&#160;&#160;<a class="el" href="../../df/dbb/a00698.html#a5207de6e2fb421d2579a9baf4c471e97aa8b5a9d97c235e1f56e98ff4103b08d0">UEV_THREAT_REF_REMOVE_FROM_LIST</a> = 1 &lt;&lt; 2
 , <br />
-&#160;&#160;<a class="el" href="../../df/dbb/a00698.html#aa5c51730b458b3ddc7b23ce42f320f18a4110f3ce50e9b19ad8219687b6a6860f">SCORE_BONUS_HONOR</a>
+&#160;&#160;<a class="el" href="../../df/dbb/a00698.html#a5207de6e2fb421d2579a9baf4c471e97abd7481924e1cb036704820e5be0407db">UEV_THREAT_REF_ASSECCIBLE_STATUS</a> = 1 &lt;&lt; 3
 , <br />
-&#160;&#160;<a class="el" href="../../df/dbb/a00698.html#aa5c51730b458b3ddc7b23ce42f320f18a755b66947282176df3f0e28c871a3527">SCORE_DAMAGE_DONE</a>
+&#160;&#160;<a class="el" href="../../df/dbb/a00698.html#a5207de6e2fb421d2579a9baf4c471e97a74092d5fa151b78ce0de1ddf3ed05865">UEV_THREAT_SORT_LIST</a> = 1 &lt;&lt; 4
 , <br />
-&#160;&#160;<a class="el" href="../../df/dbb/a00698.html#aa5c51730b458b3ddc7b23ce42f320f18ac9e8c817b3b8a0e0b001f62fbfe448c2">SCORE_HEALING_DONE</a>
+&#160;&#160;<a class="el" href="../../df/dbb/a00698.html#a5207de6e2fb421d2579a9baf4c471e97ac45249081756ba40d712bd7e08626ed9">UEV_THREAT_SET_NEXT_TARGET</a> = 1 &lt;&lt; 5
 , <br />
-&#160;&#160;<a class="el" href="../../df/dbb/a00698.html#aa5c51730b458b3ddc7b23ce42f320f18a49ecbd479d11f177283e94e2b936b89b">SCORE_FLAG_CAPTURES</a>
-, <br />
-&#160;&#160;<a class="el" href="../../df/dbb/a00698.html#aa5c51730b458b3ddc7b23ce42f320f18af4b88b5a6497049691b51da5367bec2a">SCORE_FLAG_RETURNS</a>
-, <br />
-&#160;&#160;<a class="el" href="../../df/dbb/a00698.html#aa5c51730b458b3ddc7b23ce42f320f18a108feeea9c0953b1385ca31d65d252e1">SCORE_BASES_ASSAULTED</a>
-, <br />
-&#160;&#160;<a class="el" href="../../df/dbb/a00698.html#aa5c51730b458b3ddc7b23ce42f320f18aaa34df0d06110a0e6c71c06de612e408">SCORE_BASES_DEFENDED</a>
-, <br />
-&#160;&#160;<a class="el" href="../../df/dbb/a00698.html#aa5c51730b458b3ddc7b23ce42f320f18a10d874c8aa6cc5f92f3c66ed2b09ec6b">SCORE_GRAVEYARDS_ASSAULTED</a>
-, <br />
-&#160;&#160;<a class="el" href="../../df/dbb/a00698.html#aa5c51730b458b3ddc7b23ce42f320f18ae38155160e05accac751eb7b1c0d1a8a">SCORE_GRAVEYARDS_DEFENDED</a>
-, <br />
-&#160;&#160;<a class="el" href="../../df/dbb/a00698.html#aa5c51730b458b3ddc7b23ce42f320f18a6289024a3ec4b3bbd713bb620962b027">SCORE_TOWERS_ASSAULTED</a>
-, <br />
-&#160;&#160;<a class="el" href="../../df/dbb/a00698.html#aa5c51730b458b3ddc7b23ce42f320f18a2e13ab0e3b8c3865cdd00d826e7f818a">SCORE_TOWERS_DEFENDED</a>
-, <br />
-&#160;&#160;<a class="el" href="../../df/dbb/a00698.html#aa5c51730b458b3ddc7b23ce42f320f18a663b5d13fab1724a2eeb03dab4e78015">SCORE_MINES_CAPTURED</a>
-, <br />
-&#160;&#160;<a class="el" href="../../df/dbb/a00698.html#aa5c51730b458b3ddc7b23ce42f320f18aa091bf4f9474979e615395285650582e">SCORE_DESTROYED_DEMOLISHER</a>
-, <br />
-&#160;&#160;<a class="el" href="../../df/dbb/a00698.html#aa5c51730b458b3ddc7b23ce42f320f18a8874623148dc5e2da10eb81e98e0be80">SCORE_DESTROYED_WALL</a>
+&#160;&#160;<a class="el" href="../../df/dbb/a00698.html#a5207de6e2fb421d2579a9baf4c471e97af02166c466fbff650b908cd08c7e4669">UEV_THREAT_VICTIM_CHANGED</a> = 1 &lt;&lt; 6
 <br />
  }</td></tr>
-<tr class="separator:aa5c51730b458b3ddc7b23ce42f320f18"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="separator:a5207de6e2fb421d2579a9baf4c471e97"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="aa5c51730b458b3ddc7b23ce42f320f18" name="aa5c51730b458b3ddc7b23ce42f320f18"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa5c51730b458b3ddc7b23ce42f320f18">&#9670;&#160;</a></span>ScoreType</h2>
+<h2 class="groupheader">Macro Definition Documentation</h2>
+<a id="a99af7f8805c877a694d51ab4feb1e58b" name="a99af7f8805c877a694d51ab4feb1e58b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a99af7f8805c877a694d51ab4feb1e58b">&#9670;&#160;</a></span>UEV_ALL_EVENT_MASK</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../df/dbb/a00698.html#aa5c51730b458b3ddc7b23ce42f320f18">ScoreType</a></td>
+          <td class="memname">#define UEV_ALL_EVENT_MASK&#160;&#160;&#160;(0xffffffff)</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a28d3aa8f148208fa65f5ef1af46913cc" name="a28d3aa8f148208fa65f5ef1af46913cc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a28d3aa8f148208fa65f5ef1af46913cc">&#9670;&#160;</a></span>UEV_THREAT_MANAGER_EVENT_MASK</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define UEV_THREAT_MANAGER_EVENT_MASK&#160;&#160;&#160;(<a class="el" href="../../df/dbb/a00698.html#a5207de6e2fb421d2579a9baf4c471e97a74092d5fa151b78ce0de1ddf3ed05865">UEV_THREAT_SORT_LIST</a> | <a class="el" href="../../df/dbb/a00698.html#a5207de6e2fb421d2579a9baf4c471e97ac45249081756ba40d712bd7e08626ed9">UEV_THREAT_SET_NEXT_TARGET</a> | <a class="el" href="../../df/dbb/a00698.html#a5207de6e2fb421d2579a9baf4c471e97af02166c466fbff650b908cd08c7e4669">UEV_THREAT_VICTIM_CHANGED</a>)</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="aca3c8db6dd274b113d9c3c7755ff5d7a" name="aca3c8db6dd274b113d9c3c7755ff5d7a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aca3c8db6dd274b113d9c3c7755ff5d7a">&#9670;&#160;</a></span>UEV_THREAT_REF_EVENT_MASK</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define UEV_THREAT_REF_EVENT_MASK&#160;&#160;&#160;(<a class="el" href="../../df/dbb/a00698.html#a5207de6e2fb421d2579a9baf4c471e97a77f8da111f54455d20c58ae0fd4156f9">UEV_THREAT_REF_ONLINE_STATUS</a> | <a class="el" href="../../df/dbb/a00698.html#a5207de6e2fb421d2579a9baf4c471e97a5c74b5ccc46cdc399916b41b6d97bfb0">UEV_THREAT_REF_THREAT_CHANGE</a> | <a class="el" href="../../df/dbb/a00698.html#a5207de6e2fb421d2579a9baf4c471e97aa8b5a9d97c235e1f56e98ff4103b08d0">UEV_THREAT_REF_REMOVE_FROM_LIST</a> | <a class="el" href="../../df/dbb/a00698.html#a5207de6e2fb421d2579a9baf4c471e97abd7481924e1cb036704820e5be0407db">UEV_THREAT_REF_ASSECCIBLE_STATUS</a>)</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<h2 class="groupheader">Enumeration Type Documentation</h2>
+<a id="a5207de6e2fb421d2579a9baf4c471e97" name="a5207de6e2fb421d2579a9baf4c471e97"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5207de6e2fb421d2579a9baf4c471e97">&#9670;&#160;</a></span>UNIT_EVENT_TYPE</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../df/dbb/a00698.html#a5207de6e2fb421d2579a9baf4c471e97">UNIT_EVENT_TYPE</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
 <table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="aa5c51730b458b3ddc7b23ce42f320f18a22caa690e4e043a997818fdf5a449046" name="aa5c51730b458b3ddc7b23ce42f320f18a22caa690e4e043a997818fdf5a449046"></a>SCORE_KILLING_BLOWS&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aa5c51730b458b3ddc7b23ce42f320f18a4ba4987db8c69483e0652a21dace8412" name="aa5c51730b458b3ddc7b23ce42f320f18a4ba4987db8c69483e0652a21dace8412"></a>SCORE_DEATHS&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aa5c51730b458b3ddc7b23ce42f320f18ae7b8eadd38f6f3bf514aa4cbd2118aa7" name="aa5c51730b458b3ddc7b23ce42f320f18ae7b8eadd38f6f3bf514aa4cbd2118aa7"></a>SCORE_HONORABLE_KILLS&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aa5c51730b458b3ddc7b23ce42f320f18a4110f3ce50e9b19ad8219687b6a6860f" name="aa5c51730b458b3ddc7b23ce42f320f18a4110f3ce50e9b19ad8219687b6a6860f"></a>SCORE_BONUS_HONOR&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aa5c51730b458b3ddc7b23ce42f320f18a755b66947282176df3f0e28c871a3527" name="aa5c51730b458b3ddc7b23ce42f320f18a755b66947282176df3f0e28c871a3527"></a>SCORE_DAMAGE_DONE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aa5c51730b458b3ddc7b23ce42f320f18ac9e8c817b3b8a0e0b001f62fbfe448c2" name="aa5c51730b458b3ddc7b23ce42f320f18ac9e8c817b3b8a0e0b001f62fbfe448c2"></a>SCORE_HEALING_DONE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aa5c51730b458b3ddc7b23ce42f320f18a49ecbd479d11f177283e94e2b936b89b" name="aa5c51730b458b3ddc7b23ce42f320f18a49ecbd479d11f177283e94e2b936b89b"></a>SCORE_FLAG_CAPTURES&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aa5c51730b458b3ddc7b23ce42f320f18af4b88b5a6497049691b51da5367bec2a" name="aa5c51730b458b3ddc7b23ce42f320f18af4b88b5a6497049691b51da5367bec2a"></a>SCORE_FLAG_RETURNS&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aa5c51730b458b3ddc7b23ce42f320f18a108feeea9c0953b1385ca31d65d252e1" name="aa5c51730b458b3ddc7b23ce42f320f18a108feeea9c0953b1385ca31d65d252e1"></a>SCORE_BASES_ASSAULTED&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aa5c51730b458b3ddc7b23ce42f320f18aaa34df0d06110a0e6c71c06de612e408" name="aa5c51730b458b3ddc7b23ce42f320f18aaa34df0d06110a0e6c71c06de612e408"></a>SCORE_BASES_DEFENDED&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aa5c51730b458b3ddc7b23ce42f320f18a10d874c8aa6cc5f92f3c66ed2b09ec6b" name="aa5c51730b458b3ddc7b23ce42f320f18a10d874c8aa6cc5f92f3c66ed2b09ec6b"></a>SCORE_GRAVEYARDS_ASSAULTED&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aa5c51730b458b3ddc7b23ce42f320f18ae38155160e05accac751eb7b1c0d1a8a" name="aa5c51730b458b3ddc7b23ce42f320f18ae38155160e05accac751eb7b1c0d1a8a"></a>SCORE_GRAVEYARDS_DEFENDED&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aa5c51730b458b3ddc7b23ce42f320f18a6289024a3ec4b3bbd713bb620962b027" name="aa5c51730b458b3ddc7b23ce42f320f18a6289024a3ec4b3bbd713bb620962b027"></a>SCORE_TOWERS_ASSAULTED&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aa5c51730b458b3ddc7b23ce42f320f18a2e13ab0e3b8c3865cdd00d826e7f818a" name="aa5c51730b458b3ddc7b23ce42f320f18a2e13ab0e3b8c3865cdd00d826e7f818a"></a>SCORE_TOWERS_DEFENDED&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aa5c51730b458b3ddc7b23ce42f320f18a663b5d13fab1724a2eeb03dab4e78015" name="aa5c51730b458b3ddc7b23ce42f320f18a663b5d13fab1724a2eeb03dab4e78015"></a>SCORE_MINES_CAPTURED&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aa5c51730b458b3ddc7b23ce42f320f18aa091bf4f9474979e615395285650582e" name="aa5c51730b458b3ddc7b23ce42f320f18aa091bf4f9474979e615395285650582e"></a>SCORE_DESTROYED_DEMOLISHER&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aa5c51730b458b3ddc7b23ce42f320f18a8874623148dc5e2da10eb81e98e0be80" name="aa5c51730b458b3ddc7b23ce42f320f18a8874623148dc5e2da10eb81e98e0be80"></a>SCORE_DESTROYED_WALL&#160;</td><td class="fielddoc"></td></tr>
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a5207de6e2fb421d2579a9baf4c471e97a77f8da111f54455d20c58ae0fd4156f9" name="a5207de6e2fb421d2579a9baf4c471e97a77f8da111f54455d20c58ae0fd4156f9"></a>UEV_THREAT_REF_ONLINE_STATUS&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a5207de6e2fb421d2579a9baf4c471e97a5c74b5ccc46cdc399916b41b6d97bfb0" name="a5207de6e2fb421d2579a9baf4c471e97a5c74b5ccc46cdc399916b41b6d97bfb0"></a>UEV_THREAT_REF_THREAT_CHANGE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a5207de6e2fb421d2579a9baf4c471e97aa8b5a9d97c235e1f56e98ff4103b08d0" name="a5207de6e2fb421d2579a9baf4c471e97aa8b5a9d97c235e1f56e98ff4103b08d0"></a>UEV_THREAT_REF_REMOVE_FROM_LIST&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a5207de6e2fb421d2579a9baf4c471e97abd7481924e1cb036704820e5be0407db" name="a5207de6e2fb421d2579a9baf4c471e97abd7481924e1cb036704820e5be0407db"></a>UEV_THREAT_REF_ASSECCIBLE_STATUS&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a5207de6e2fb421d2579a9baf4c471e97a74092d5fa151b78ce0de1ddf3ed05865" name="a5207de6e2fb421d2579a9baf4c471e97a74092d5fa151b78ce0de1ddf3ed05865"></a>UEV_THREAT_SORT_LIST&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a5207de6e2fb421d2579a9baf4c471e97ac45249081756ba40d712bd7e08626ed9" name="a5207de6e2fb421d2579a9baf4c471e97ac45249081756ba40d712bd7e08626ed9"></a>UEV_THREAT_SET_NEXT_TARGET&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a5207de6e2fb421d2579a9baf4c471e97af02166c466fbff650b908cd08c7e4669" name="a5207de6e2fb421d2579a9baf4c471e97af02166c466fbff650b908cd08c7e4669"></a>UEV_THREAT_VICTIM_CHANGED&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">   27</span>{</div>
-<div class="line"><span class="lineno">   28</span>    <a class="code hl_enumvalue" href="../../df/dbb/a00698.html#aa5c51730b458b3ddc7b23ce42f320f18a22caa690e4e043a997818fdf5a449046">SCORE_KILLING_BLOWS</a> = 1,</div>
-<div class="line"><span class="lineno">   29</span>    <a class="code hl_enumvalue" href="../../df/dbb/a00698.html#aa5c51730b458b3ddc7b23ce42f320f18a4ba4987db8c69483e0652a21dace8412">SCORE_DEATHS</a>,</div>
-<div class="line"><span class="lineno">   30</span>    <a class="code hl_enumvalue" href="../../df/dbb/a00698.html#aa5c51730b458b3ddc7b23ce42f320f18ae7b8eadd38f6f3bf514aa4cbd2118aa7">SCORE_HONORABLE_KILLS</a>,</div>
-<div class="line"><span class="lineno">   31</span>    <a class="code hl_enumvalue" href="../../df/dbb/a00698.html#aa5c51730b458b3ddc7b23ce42f320f18a4110f3ce50e9b19ad8219687b6a6860f">SCORE_BONUS_HONOR</a>,</div>
-<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../df/dbb/a00698.html#aa5c51730b458b3ddc7b23ce42f320f18a755b66947282176df3f0e28c871a3527">SCORE_DAMAGE_DONE</a>,</div>
-<div class="line"><span class="lineno">   33</span>    <a class="code hl_enumvalue" href="../../df/dbb/a00698.html#aa5c51730b458b3ddc7b23ce42f320f18ac9e8c817b3b8a0e0b001f62fbfe448c2">SCORE_HEALING_DONE</a>,</div>
+<div class="fragment"><div class="line"><span class="lineno">   31</span>{</div>
+<div class="line"><span class="lineno">   32</span>    <span class="comment">// Player/Pet changed on/offline status</span></div>
+<div class="line"><span class="lineno">   33</span>    <a class="code hl_enumvalue" href="../../df/dbb/a00698.html#a5207de6e2fb421d2579a9baf4c471e97a77f8da111f54455d20c58ae0fd4156f9">UEV_THREAT_REF_ONLINE_STATUS</a>        = 1 &lt;&lt; 0,</div>
 <div class="line"><span class="lineno">   34</span> </div>
-<div class="line"><span class="lineno">   35</span>    <span class="comment">// WS and EY</span></div>
-<div class="line"><span class="lineno">   36</span>    <a class="code hl_enumvalue" href="../../df/dbb/a00698.html#aa5c51730b458b3ddc7b23ce42f320f18a49ecbd479d11f177283e94e2b936b89b">SCORE_FLAG_CAPTURES</a>,</div>
-<div class="line"><span class="lineno">   37</span>    <a class="code hl_enumvalue" href="../../df/dbb/a00698.html#aa5c51730b458b3ddc7b23ce42f320f18af4b88b5a6497049691b51da5367bec2a">SCORE_FLAG_RETURNS</a>,</div>
-<div class="line"><span class="lineno">   38</span> </div>
-<div class="line"><span class="lineno">   39</span>    <span class="comment">// AB and IC</span></div>
-<div class="line"><span class="lineno">   40</span>    <a class="code hl_enumvalue" href="../../df/dbb/a00698.html#aa5c51730b458b3ddc7b23ce42f320f18a108feeea9c0953b1385ca31d65d252e1">SCORE_BASES_ASSAULTED</a>,</div>
-<div class="line"><span class="lineno">   41</span>    <a class="code hl_enumvalue" href="../../df/dbb/a00698.html#aa5c51730b458b3ddc7b23ce42f320f18aaa34df0d06110a0e6c71c06de612e408">SCORE_BASES_DEFENDED</a>,</div>
-<div class="line"><span class="lineno">   42</span> </div>
-<div class="line"><span class="lineno">   43</span>    <span class="comment">// AV</span></div>
-<div class="line"><span class="lineno">   44</span>    <a class="code hl_enumvalue" href="../../df/dbb/a00698.html#aa5c51730b458b3ddc7b23ce42f320f18a10d874c8aa6cc5f92f3c66ed2b09ec6b">SCORE_GRAVEYARDS_ASSAULTED</a>,</div>
-<div class="line"><span class="lineno">   45</span>    <a class="code hl_enumvalue" href="../../df/dbb/a00698.html#aa5c51730b458b3ddc7b23ce42f320f18ae38155160e05accac751eb7b1c0d1a8a">SCORE_GRAVEYARDS_DEFENDED</a>,</div>
-<div class="line"><span class="lineno">   46</span>    <a class="code hl_enumvalue" href="../../df/dbb/a00698.html#aa5c51730b458b3ddc7b23ce42f320f18a6289024a3ec4b3bbd713bb620962b027">SCORE_TOWERS_ASSAULTED</a>,</div>
-<div class="line"><span class="lineno">   47</span>    <a class="code hl_enumvalue" href="../../df/dbb/a00698.html#aa5c51730b458b3ddc7b23ce42f320f18a2e13ab0e3b8c3865cdd00d826e7f818a">SCORE_TOWERS_DEFENDED</a>,</div>
-<div class="line"><span class="lineno">   48</span>    <a class="code hl_enumvalue" href="../../df/dbb/a00698.html#aa5c51730b458b3ddc7b23ce42f320f18a663b5d13fab1724a2eeb03dab4e78015">SCORE_MINES_CAPTURED</a>,</div>
-<div class="line"><span class="lineno">   49</span>    <span class="comment">//SCORE_LEADERS_KILLED,</span></div>
-<div class="line"><span class="lineno">   50</span>    <span class="comment">//SCORE_SECONDARY_OBJECTIVES,</span></div>
-<div class="line"><span class="lineno">   51</span> </div>
-<div class="line"><span class="lineno">   52</span>    <span class="comment">// SOTA</span></div>
-<div class="line"><span class="lineno">   53</span>    <a class="code hl_enumvalue" href="../../df/dbb/a00698.html#aa5c51730b458b3ddc7b23ce42f320f18aa091bf4f9474979e615395285650582e">SCORE_DESTROYED_DEMOLISHER</a>,</div>
-<div class="line"><span class="lineno">   54</span>    <a class="code hl_enumvalue" href="../../df/dbb/a00698.html#aa5c51730b458b3ddc7b23ce42f320f18a8874623148dc5e2da10eb81e98e0be80">SCORE_DESTROYED_WALL</a></div>
-<div class="line"><span class="lineno">   55</span>};</div>
-<div class="ttc" id="aa00698_html_aa5c51730b458b3ddc7b23ce42f320f18a108feeea9c0953b1385ca31d65d252e1"><div class="ttname"><a href="../../df/dbb/a00698.html#aa5c51730b458b3ddc7b23ce42f320f18a108feeea9c0953b1385ca31d65d252e1">SCORE_BASES_ASSAULTED</a></div><div class="ttdeci">@ SCORE_BASES_ASSAULTED</div><div class="ttdef"><b>Definition:</b> BattlegroundScore.h:40</div></div>
-<div class="ttc" id="aa00698_html_aa5c51730b458b3ddc7b23ce42f320f18a10d874c8aa6cc5f92f3c66ed2b09ec6b"><div class="ttname"><a href="../../df/dbb/a00698.html#aa5c51730b458b3ddc7b23ce42f320f18a10d874c8aa6cc5f92f3c66ed2b09ec6b">SCORE_GRAVEYARDS_ASSAULTED</a></div><div class="ttdeci">@ SCORE_GRAVEYARDS_ASSAULTED</div><div class="ttdef"><b>Definition:</b> BattlegroundScore.h:44</div></div>
-<div class="ttc" id="aa00698_html_aa5c51730b458b3ddc7b23ce42f320f18a22caa690e4e043a997818fdf5a449046"><div class="ttname"><a href="../../df/dbb/a00698.html#aa5c51730b458b3ddc7b23ce42f320f18a22caa690e4e043a997818fdf5a449046">SCORE_KILLING_BLOWS</a></div><div class="ttdeci">@ SCORE_KILLING_BLOWS</div><div class="ttdef"><b>Definition:</b> BattlegroundScore.h:28</div></div>
-<div class="ttc" id="aa00698_html_aa5c51730b458b3ddc7b23ce42f320f18a2e13ab0e3b8c3865cdd00d826e7f818a"><div class="ttname"><a href="../../df/dbb/a00698.html#aa5c51730b458b3ddc7b23ce42f320f18a2e13ab0e3b8c3865cdd00d826e7f818a">SCORE_TOWERS_DEFENDED</a></div><div class="ttdeci">@ SCORE_TOWERS_DEFENDED</div><div class="ttdef"><b>Definition:</b> BattlegroundScore.h:47</div></div>
-<div class="ttc" id="aa00698_html_aa5c51730b458b3ddc7b23ce42f320f18a4110f3ce50e9b19ad8219687b6a6860f"><div class="ttname"><a href="../../df/dbb/a00698.html#aa5c51730b458b3ddc7b23ce42f320f18a4110f3ce50e9b19ad8219687b6a6860f">SCORE_BONUS_HONOR</a></div><div class="ttdeci">@ SCORE_BONUS_HONOR</div><div class="ttdef"><b>Definition:</b> BattlegroundScore.h:31</div></div>
-<div class="ttc" id="aa00698_html_aa5c51730b458b3ddc7b23ce42f320f18a49ecbd479d11f177283e94e2b936b89b"><div class="ttname"><a href="../../df/dbb/a00698.html#aa5c51730b458b3ddc7b23ce42f320f18a49ecbd479d11f177283e94e2b936b89b">SCORE_FLAG_CAPTURES</a></div><div class="ttdeci">@ SCORE_FLAG_CAPTURES</div><div class="ttdef"><b>Definition:</b> BattlegroundScore.h:36</div></div>
-<div class="ttc" id="aa00698_html_aa5c51730b458b3ddc7b23ce42f320f18a4ba4987db8c69483e0652a21dace8412"><div class="ttname"><a href="../../df/dbb/a00698.html#aa5c51730b458b3ddc7b23ce42f320f18a4ba4987db8c69483e0652a21dace8412">SCORE_DEATHS</a></div><div class="ttdeci">@ SCORE_DEATHS</div><div class="ttdef"><b>Definition:</b> BattlegroundScore.h:29</div></div>
-<div class="ttc" id="aa00698_html_aa5c51730b458b3ddc7b23ce42f320f18a6289024a3ec4b3bbd713bb620962b027"><div class="ttname"><a href="../../df/dbb/a00698.html#aa5c51730b458b3ddc7b23ce42f320f18a6289024a3ec4b3bbd713bb620962b027">SCORE_TOWERS_ASSAULTED</a></div><div class="ttdeci">@ SCORE_TOWERS_ASSAULTED</div><div class="ttdef"><b>Definition:</b> BattlegroundScore.h:46</div></div>
-<div class="ttc" id="aa00698_html_aa5c51730b458b3ddc7b23ce42f320f18a663b5d13fab1724a2eeb03dab4e78015"><div class="ttname"><a href="../../df/dbb/a00698.html#aa5c51730b458b3ddc7b23ce42f320f18a663b5d13fab1724a2eeb03dab4e78015">SCORE_MINES_CAPTURED</a></div><div class="ttdeci">@ SCORE_MINES_CAPTURED</div><div class="ttdef"><b>Definition:</b> BattlegroundScore.h:48</div></div>
-<div class="ttc" id="aa00698_html_aa5c51730b458b3ddc7b23ce42f320f18a755b66947282176df3f0e28c871a3527"><div class="ttname"><a href="../../df/dbb/a00698.html#aa5c51730b458b3ddc7b23ce42f320f18a755b66947282176df3f0e28c871a3527">SCORE_DAMAGE_DONE</a></div><div class="ttdeci">@ SCORE_DAMAGE_DONE</div><div class="ttdef"><b>Definition:</b> BattlegroundScore.h:32</div></div>
-<div class="ttc" id="aa00698_html_aa5c51730b458b3ddc7b23ce42f320f18a8874623148dc5e2da10eb81e98e0be80"><div class="ttname"><a href="../../df/dbb/a00698.html#aa5c51730b458b3ddc7b23ce42f320f18a8874623148dc5e2da10eb81e98e0be80">SCORE_DESTROYED_WALL</a></div><div class="ttdeci">@ SCORE_DESTROYED_WALL</div><div class="ttdef"><b>Definition:</b> BattlegroundScore.h:54</div></div>
-<div class="ttc" id="aa00698_html_aa5c51730b458b3ddc7b23ce42f320f18aa091bf4f9474979e615395285650582e"><div class="ttname"><a href="../../df/dbb/a00698.html#aa5c51730b458b3ddc7b23ce42f320f18aa091bf4f9474979e615395285650582e">SCORE_DESTROYED_DEMOLISHER</a></div><div class="ttdeci">@ SCORE_DESTROYED_DEMOLISHER</div><div class="ttdef"><b>Definition:</b> BattlegroundScore.h:53</div></div>
-<div class="ttc" id="aa00698_html_aa5c51730b458b3ddc7b23ce42f320f18aaa34df0d06110a0e6c71c06de612e408"><div class="ttname"><a href="../../df/dbb/a00698.html#aa5c51730b458b3ddc7b23ce42f320f18aaa34df0d06110a0e6c71c06de612e408">SCORE_BASES_DEFENDED</a></div><div class="ttdeci">@ SCORE_BASES_DEFENDED</div><div class="ttdef"><b>Definition:</b> BattlegroundScore.h:41</div></div>
-<div class="ttc" id="aa00698_html_aa5c51730b458b3ddc7b23ce42f320f18ac9e8c817b3b8a0e0b001f62fbfe448c2"><div class="ttname"><a href="../../df/dbb/a00698.html#aa5c51730b458b3ddc7b23ce42f320f18ac9e8c817b3b8a0e0b001f62fbfe448c2">SCORE_HEALING_DONE</a></div><div class="ttdeci">@ SCORE_HEALING_DONE</div><div class="ttdef"><b>Definition:</b> BattlegroundScore.h:33</div></div>
-<div class="ttc" id="aa00698_html_aa5c51730b458b3ddc7b23ce42f320f18ae38155160e05accac751eb7b1c0d1a8a"><div class="ttname"><a href="../../df/dbb/a00698.html#aa5c51730b458b3ddc7b23ce42f320f18ae38155160e05accac751eb7b1c0d1a8a">SCORE_GRAVEYARDS_DEFENDED</a></div><div class="ttdeci">@ SCORE_GRAVEYARDS_DEFENDED</div><div class="ttdef"><b>Definition:</b> BattlegroundScore.h:45</div></div>
-<div class="ttc" id="aa00698_html_aa5c51730b458b3ddc7b23ce42f320f18ae7b8eadd38f6f3bf514aa4cbd2118aa7"><div class="ttname"><a href="../../df/dbb/a00698.html#aa5c51730b458b3ddc7b23ce42f320f18ae7b8eadd38f6f3bf514aa4cbd2118aa7">SCORE_HONORABLE_KILLS</a></div><div class="ttdeci">@ SCORE_HONORABLE_KILLS</div><div class="ttdef"><b>Definition:</b> BattlegroundScore.h:30</div></div>
-<div class="ttc" id="aa00698_html_aa5c51730b458b3ddc7b23ce42f320f18af4b88b5a6497049691b51da5367bec2a"><div class="ttname"><a href="../../df/dbb/a00698.html#aa5c51730b458b3ddc7b23ce42f320f18af4b88b5a6497049691b51da5367bec2a">SCORE_FLAG_RETURNS</a></div><div class="ttdeci">@ SCORE_FLAG_RETURNS</div><div class="ttdef"><b>Definition:</b> BattlegroundScore.h:37</div></div>
+<div class="line"><span class="lineno">   35</span>    <span class="comment">// Threat for Player/Pet changed</span></div>
+<div class="line"><span class="lineno">   36</span>    <a class="code hl_enumvalue" href="../../df/dbb/a00698.html#a5207de6e2fb421d2579a9baf4c471e97a5c74b5ccc46cdc399916b41b6d97bfb0">UEV_THREAT_REF_THREAT_CHANGE</a>        = 1 &lt;&lt; 1,</div>
+<div class="line"><span class="lineno">   37</span> </div>
+<div class="line"><span class="lineno">   38</span>    <span class="comment">// Player/Pet will be removed from list (dead) [for internal use]</span></div>
+<div class="line"><span class="lineno">   39</span>    <a class="code hl_enumvalue" href="../../df/dbb/a00698.html#a5207de6e2fb421d2579a9baf4c471e97aa8b5a9d97c235e1f56e98ff4103b08d0">UEV_THREAT_REF_REMOVE_FROM_LIST</a>     = 1 &lt;&lt; 2,</div>
+<div class="line"><span class="lineno">   40</span> </div>
+<div class="line"><span class="lineno">   41</span>    <span class="comment">// Player/Pet entered/left  water or some other place where it is/was not accessible for the creature</span></div>
+<div class="line"><span class="lineno">   42</span>    <a class="code hl_enumvalue" href="../../df/dbb/a00698.html#a5207de6e2fb421d2579a9baf4c471e97abd7481924e1cb036704820e5be0407db">UEV_THREAT_REF_ASSECCIBLE_STATUS</a>    = 1 &lt;&lt; 3,</div>
+<div class="line"><span class="lineno">   43</span> </div>
+<div class="line"><span class="lineno">   44</span>    <span class="comment">// Threat list is going to be sorted (if dirty flag is set)</span></div>
+<div class="line"><span class="lineno">   45</span>    <a class="code hl_enumvalue" href="../../df/dbb/a00698.html#a5207de6e2fb421d2579a9baf4c471e97a74092d5fa151b78ce0de1ddf3ed05865">UEV_THREAT_SORT_LIST</a>                = 1 &lt;&lt; 4,</div>
+<div class="line"><span class="lineno">   46</span> </div>
+<div class="line"><span class="lineno">   47</span>    <span class="comment">// New target should be fetched, could tbe the current target as well</span></div>
+<div class="line"><span class="lineno">   48</span>    <a class="code hl_enumvalue" href="../../df/dbb/a00698.html#a5207de6e2fb421d2579a9baf4c471e97ac45249081756ba40d712bd7e08626ed9">UEV_THREAT_SET_NEXT_TARGET</a>          = 1 &lt;&lt; 5,</div>
+<div class="line"><span class="lineno">   49</span> </div>
+<div class="line"><span class="lineno">   50</span>    <span class="comment">// A new victim (target) was set. Could be nullptr</span></div>
+<div class="line"><span class="lineno">   51</span>    <a class="code hl_enumvalue" href="../../df/dbb/a00698.html#a5207de6e2fb421d2579a9baf4c471e97af02166c466fbff650b908cd08c7e4669">UEV_THREAT_VICTIM_CHANGED</a>           = 1 &lt;&lt; 6,</div>
+<div class="line"><span class="lineno">   52</span> </div>
+<div class="line"><span class="lineno">   53</span>    <span class="comment">// Future use</span></div>
+<div class="line"><span class="lineno">   54</span>    <span class="comment">//UEV_UNIT_KILLED                   = 1&lt;&lt;7,</span></div>
+<div class="line"><span class="lineno">   55</span> </div>
+<div class="line"><span class="lineno">   56</span>    <span class="comment">//Future use</span></div>
+<div class="line"><span class="lineno">   57</span>    <span class="comment">//UEV_UNIT_HEALTH_CHANGE            = 1&lt;&lt;8,</span></div>
+<div class="line"><span class="lineno">   58</span>};</div>
+<div class="ttc" id="aa00698_html_a5207de6e2fb421d2579a9baf4c471e97a5c74b5ccc46cdc399916b41b6d97bfb0"><div class="ttname"><a href="../../df/dbb/a00698.html#a5207de6e2fb421d2579a9baf4c471e97a5c74b5ccc46cdc399916b41b6d97bfb0">UEV_THREAT_REF_THREAT_CHANGE</a></div><div class="ttdeci">@ UEV_THREAT_REF_THREAT_CHANGE</div><div class="ttdef"><b>Definition:</b> UnitEvents.h:36</div></div>
+<div class="ttc" id="aa00698_html_a5207de6e2fb421d2579a9baf4c471e97a74092d5fa151b78ce0de1ddf3ed05865"><div class="ttname"><a href="../../df/dbb/a00698.html#a5207de6e2fb421d2579a9baf4c471e97a74092d5fa151b78ce0de1ddf3ed05865">UEV_THREAT_SORT_LIST</a></div><div class="ttdeci">@ UEV_THREAT_SORT_LIST</div><div class="ttdef"><b>Definition:</b> UnitEvents.h:45</div></div>
+<div class="ttc" id="aa00698_html_a5207de6e2fb421d2579a9baf4c471e97a77f8da111f54455d20c58ae0fd4156f9"><div class="ttname"><a href="../../df/dbb/a00698.html#a5207de6e2fb421d2579a9baf4c471e97a77f8da111f54455d20c58ae0fd4156f9">UEV_THREAT_REF_ONLINE_STATUS</a></div><div class="ttdeci">@ UEV_THREAT_REF_ONLINE_STATUS</div><div class="ttdef"><b>Definition:</b> UnitEvents.h:33</div></div>
+<div class="ttc" id="aa00698_html_a5207de6e2fb421d2579a9baf4c471e97aa8b5a9d97c235e1f56e98ff4103b08d0"><div class="ttname"><a href="../../df/dbb/a00698.html#a5207de6e2fb421d2579a9baf4c471e97aa8b5a9d97c235e1f56e98ff4103b08d0">UEV_THREAT_REF_REMOVE_FROM_LIST</a></div><div class="ttdeci">@ UEV_THREAT_REF_REMOVE_FROM_LIST</div><div class="ttdef"><b>Definition:</b> UnitEvents.h:39</div></div>
+<div class="ttc" id="aa00698_html_a5207de6e2fb421d2579a9baf4c471e97abd7481924e1cb036704820e5be0407db"><div class="ttname"><a href="../../df/dbb/a00698.html#a5207de6e2fb421d2579a9baf4c471e97abd7481924e1cb036704820e5be0407db">UEV_THREAT_REF_ASSECCIBLE_STATUS</a></div><div class="ttdeci">@ UEV_THREAT_REF_ASSECCIBLE_STATUS</div><div class="ttdef"><b>Definition:</b> UnitEvents.h:42</div></div>
+<div class="ttc" id="aa00698_html_a5207de6e2fb421d2579a9baf4c471e97ac45249081756ba40d712bd7e08626ed9"><div class="ttname"><a href="../../df/dbb/a00698.html#a5207de6e2fb421d2579a9baf4c471e97ac45249081756ba40d712bd7e08626ed9">UEV_THREAT_SET_NEXT_TARGET</a></div><div class="ttdeci">@ UEV_THREAT_SET_NEXT_TARGET</div><div class="ttdef"><b>Definition:</b> UnitEvents.h:48</div></div>
+<div class="ttc" id="aa00698_html_a5207de6e2fb421d2579a9baf4c471e97af02166c466fbff650b908cd08c7e4669"><div class="ttname"><a href="../../df/dbb/a00698.html#a5207de6e2fb421d2579a9baf4c471e97af02166c466fbff650b908cd08c7e4669">UEV_THREAT_VICTIM_CHANGED</a></div><div class="ttdeci">@ UEV_THREAT_VICTIM_CHANGED</div><div class="ttdef"><b>Definition:</b> UnitEvents.h:51</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -245,8 +260,8 @@ Enumerations</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_fc52f0b797d74b4b54bfd04593b84648.html">Battlegrounds</a></li><li class="navelem"><a class="el" href="../../df/dbb/a00698.html">BattlegroundScore.h</a></li>
-    <li class="footer">Generated on Mon Aug 4 2025 20:50:07 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_6b63bbd5ab28cd54e716b5236a19bef7.html">Combat</a></li><li class="navelem"><a class="el" href="../../df/dbb/a00698.html">UnitEvents.h</a></li>
+    <li class="footer">Generated on Mon Aug 11 2025 20:46:39 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

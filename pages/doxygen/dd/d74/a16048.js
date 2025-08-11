@@ -1,6 +1,6 @@
 var a16048 =
 [
-    [ "boss_twilight_halionAI", "db/db7/a16052.html", "db/db7/a16052" ],
-    [ "boss_twilight_halion", "dd/d74/a16048.html#a23ea0a61acb2cf3fd83aece3ac7d218e", null ],
-    [ "GetAI", "dd/d74/a16048.html#a56842d74b16cbd5636649cbc643c50d8", null ]
+    [ "npc_xerestraszaAI", "db/db7/a16052.html", "db/db7/a16052" ],
+    [ "npc_xerestrasza", "dd/d74/a16048.html#a49023756b5dab130e4ffd7e62fa80ce4", null ],
+    [ "GetAI", "dd/d74/a16048.html#a5e0ede0054969d4787db56781dc55846", null ]
 ];

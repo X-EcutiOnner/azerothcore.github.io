@@ -1,5 +1,6 @@
 var a08528 =
 [
-    [ "Rank", "d6/d65/a08528.html#a61797c7cb799308a7c20a954d287be17", null ],
-    [ "SkillId", "d6/d65/a08528.html#a3f28221b1c8e91bf9f2fa6337e81c952", null ]
+    [ "PlayerClassLevelInfo", "d6/d65/a08528.html#a60153094e3179bfc6c028d2b76775805", null ],
+    [ "basehealth", "d6/d65/a08528.html#a034ae3d2b5b14ce454710ca8f92ffee0", null ],
+    [ "basemana", "d6/d65/a08528.html#a939a8d8739a553c919d84e399ce17d22", null ]
 ];

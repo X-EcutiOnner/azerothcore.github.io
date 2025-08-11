@@ -1,8 +1,6 @@
 var a12576 =
 [
-    [ "HandleEffectRemove", "d1/d68/a12576.html#a5e5a218cb491b830ec8d50609a3d54ae", null ],
-    [ "if", "d1/d68/a12576.html#a8596fc98402bf952484c9567f61c7820", null ],
-    [ "PrepareAuraScript", "d1/d68/a12576.html#a4055f781a914de631187b00ba7aefeef", null ],
-    [ "Register", "d1/d68/a12576.html#aefb4bbae43558abde871548088784613", null ],
-    [ "AuraEffectHandleModes", "d1/d68/a12576.html#a7d419ba41e68b70740a867a2265824bd", null ]
+    [ "HandleTriggerSpell", "d1/d68/a12576.html#a5f30f2af73eae022b9596939b2f88c0b", null ],
+    [ "PrepareSpellScript", "d1/d68/a12576.html#a4fa2709a456e9e75f5c11b7f2e04912b", null ],
+    [ "Register", "d1/d68/a12576.html#a7e9c140aecea892ee6971bc97d385640", null ]
 ];

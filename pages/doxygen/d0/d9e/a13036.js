@@ -1,14 +1,8 @@
 var a13036 =
 [
-    [ "boss_kirtonos_the_heraldAI", "d0/d9e/a13036.html#af68c553db0889c22b7b4b76c868d38e7", null ],
-    [ "DoAction", "d0/d9e/a13036.html#ade11c2ff67c93f09f34b7b0e59766cc3", null ],
-    [ "EnterEvadeMode", "d0/d9e/a13036.html#a92ee25d349cc1ae3e46e4696a01697c3", null ],
-    [ "JustDied", "d0/d9e/a13036.html#a7ecf7396ebcb6f541586435996094f56", null ],
-    [ "JustEngagedWith", "d0/d9e/a13036.html#abcf09a75bed393e5fc03ef184e5c2918", null ],
-    [ "MovementInform", "d0/d9e/a13036.html#a16379320eebb8223a79cf3927bdc507e", null ],
-    [ "UpdateAI", "d0/d9e/a13036.html#a7eedcb1416d05b95f6110751119aea02", null ],
-    [ "events", "d0/d9e/a13036.html#a5dd38f68ce8745484cbc00dadde439dc", null ],
-    [ "events2", "d0/d9e/a13036.html#aaf9216da4f5394953d0316be8d8e8c4f", null ],
-    [ "instance", "d0/d9e/a13036.html#acae39cf7bc9a6d68834d3916fa75a006", null ],
-    [ "TransformsCount", "d0/d9e/a13036.html#aa0834b23d00463ae36bb0ec6a2067257", null ]
+    [ "HandleHit", "d0/d9e/a13036.html#a6a2811ee701a254e2857ae5923ec9f5f", null ],
+    [ "PrepareSpellScript", "d0/d9e/a13036.html#a53f170244b390f7035e131fb5c79cb3f", null ],
+    [ "Register", "d0/d9e/a13036.html#a248124b837cf71f7d422154db4581747", null ],
+    [ "Validate", "d0/d9e/a13036.html#a3061dcd7b831a13b1d270732d0ee8a7e", null ],
+    [ "_emote", "d0/d9e/a13036.html#a43e28dbdfcd034a2a08f6d57171462ee", null ]
 ];

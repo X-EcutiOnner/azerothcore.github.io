@@ -1,12 +1,7 @@
 var a13280 =
 [
-    [ "boss_sathrovarr", "d5/d73/a13280.html#a92bff830219f795d0aae4511f3d524bb", null ],
-    [ "CanAIAttack", "d5/d73/a13280.html#a053dcf604aed91ac7c888d682653da54", null ],
-    [ "DoAction", "d5/d73/a13280.html#ad0b549678e5b4eb7dfc1c1879885b45a", null ],
-    [ "JustDied", "d5/d73/a13280.html#aa6683f0ccb70260e24f79d86ec4ae2d1", null ],
-    [ "JustEngagedWith", "d5/d73/a13280.html#a1f3a74ac6f83673eed9b2a4276a5cf49", null ],
-    [ "KilledUnit", "d5/d73/a13280.html#a17e2a5d253536c25cd04269b71a5c0ed", null ],
-    [ "Reset", "d5/d73/a13280.html#a171c0e2c07ddf4c5271af8ed83f15257", null ],
-    [ "UpdateAI", "d5/d73/a13280.html#a99c5c8801333f2eaf6b9fee287588093", null ],
-    [ "_instance", "d5/d73/a13280.html#af7bfd6a65db102b5010f7b300e4acd27", null ]
+    [ "CorruptTriggers", "d5/d73/a13280.html#a225cafcce56db7d4aefd3fb75ed2533f", null ],
+    [ "Execute", "d5/d73/a13280.html#a9929f3518f307e0b753782967f06c6c1", null ],
+    [ "_caster", "d5/d73/a13280.html#a2b9e4c3d292b7e3deea57e1542b3ba12", null ],
+    [ "_currentLane", "d5/d73/a13280.html#a53e4c60e29f59aa91e059d50e470a22a", null ]
 ];

@@ -1,6 +1,6 @@
 var a20760 =
 [
-    [ "x", "d6/d81/a20760.html#ae4223168378b602a0a96dbb424a22be4", null ],
-    [ "y", "d6/d81/a20760.html#a30f361d8104e4de44541d75945105963", null ],
-    [ "z", "d6/d81/a20760.html#ae68a79519c35302b89976ac29bb77e26", null ]
+    [ "npc_xt002_life_sparkAI", "df/de5/a20764.html", "df/de5/a20764" ],
+    [ "npc_xt002_life_spark", "d6/d81/a20760.html#a9644718d192708e391b833468a0ff21e", null ],
+    [ "GetAI", "d6/d81/a20760.html#a09a1ce332d55fad146947c94bb53f564", null ]
 ];

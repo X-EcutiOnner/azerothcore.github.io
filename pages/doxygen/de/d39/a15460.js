@@ -1,6 +1,7 @@
 var a15460 =
 [
-    [ "npc_clintar_spiritAI", "d4/d7f/a15464.html", "d4/d7f/a15464" ],
-    [ "npc_clintar_spirit", "de/d39/a15460.html#a416f5eea882f2c13c4c0f7dd81d36a2b", null ],
-    [ "GetAI", "de/d39/a15460.html#a118198504f6f93c86302275a11582d60", null ]
+    [ "HandleDummy", "de/d39/a15460.html#a7657ffcc0b055b838408de4dd5f778f3", null ],
+    [ "PrepareSpellScript", "de/d39/a15460.html#ace2c23ec11d09cfb6f101a2dbd8b9d89", null ],
+    [ "Register", "de/d39/a15460.html#ae9be2e8124edf50b98824c584aaa32cf", null ],
+    [ "Validate", "de/d39/a15460.html#a041c84fd605abd36b8f774903a5200dc", null ]
 ];

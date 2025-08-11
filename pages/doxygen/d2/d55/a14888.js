@@ -1,16 +1,10 @@
 var a14888 =
 [
-    [ "npc_belnistraszAI", "d2/d55/a14888.html#ac57c5de9140d8d37b15b4a30f4ffc0a1", null ],
-    [ "JustDied", "d2/d55/a14888.html#aece63cabcfb2bcf54992dc2b4832ca92", null ],
-    [ "JustEngagedWith", "d2/d55/a14888.html#ab03f29b1f76b7d67e7d7bb3407e2cd41", null ],
-    [ "MovementInform", "d2/d55/a14888.html#ae64e10d0cc860bf033b76538455b9f8e", null ],
-    [ "Reset", "d2/d55/a14888.html#aecf1ef9b7f6eecec9489d27ce41deea2", null ],
-    [ "sQuestAccept", "d2/d55/a14888.html#aa18258b7f80c040d6a5fb9fbbb321efe", null ],
-    [ "UpdateAI", "d2/d55/a14888.html#a45481c2ef18ab3fec727813de96eb1b6", null ],
-    [ "channeling", "d2/d55/a14888.html#a88ff13ec705d11475de5a2080998c905", null ],
-    [ "eventInProgress", "d2/d55/a14888.html#ae9ce796b17c7791d83e949fa406a2b80", null ],
-    [ "eventProgress", "d2/d55/a14888.html#ad32a0387dbf95b6aa40b3311d6ba8348", null ],
-    [ "events", "d2/d55/a14888.html#af9c1f14a7a7b7380e9fb99ecdaf80126", null ],
-    [ "instance", "d2/d55/a14888.html#a61f3bcbf36e630bbb455405eb89ccf00", null ],
-    [ "spawnerCount", "d2/d55/a14888.html#aa5124160ecba044a3752f68945068776", null ]
+    [ "instance_maraudon_InstanceMapScript", "d2/d55/a14888.html#a9c46508320d3973006561444feae0586", null ],
+    [ "Initialize", "d2/d55/a14888.html#a61cb2b2bf09bb997457bc01a41e092e9", null ],
+    [ "OnGameObjectCreate", "d2/d55/a14888.html#a3a287b97db58c3489815f20ee0d37977", null ],
+    [ "ReadSaveDataMore", "d2/d55/a14888.html#ac2cd336874b25ad20dac104037de1df5", null ],
+    [ "SetData", "d2/d55/a14888.html#a6e90bf60a076c164e432128f7ec62fba", null ],
+    [ "WriteSaveDataMore", "d2/d55/a14888.html#a6e4072342e66689d343912de85e66b34", null ],
+    [ "_encounters", "d2/d55/a14888.html#af2e752a791d75e50001060c4a9f18173", null ]
 ];

@@ -1,10 +1,7 @@
 var a13420 =
 [
-    [ "npc_sunblade_scout", "d0/de5/a13420.html#ab8ecb0d2fb7dfd482b2cba4ed11ababc", null ],
-    [ "JustEngagedWith", "d0/de5/a13420.html#ab57b63a624458a9fa598062e61c5fa0e", null ],
-    [ "Reset", "d0/de5/a13420.html#a8c7f442118fced8a2efac3b9fe0035f5", null ],
-    [ "ScheduleCombat", "d0/de5/a13420.html#ae4ca796fa8fd4aae6ac8f184638b3f97", null ],
-    [ "ScheduleOOC", "d0/de5/a13420.html#ae06c1d7b43cc170f3a3b5f4835822d57", null ],
-    [ "UpdateAI", "d0/de5/a13420.html#aca75482085b72070487c24feefa23fd6", null ],
-    [ "_protectorGUID", "d0/de5/a13420.html#a753f7fbbea33f7fc49f5d6e733a8f833", null ]
+    [ "npc_singularity", "d0/de5/a13420.html#a4ed61ec65ed94d8d5e42ae7ff9ecd41d", null ],
+    [ "FindAndFollowTarget", "d0/de5/a13420.html#a76c21129756dec05f6f2d88cebe948c5", null ],
+    [ "Reset", "d0/de5/a13420.html#ae81c2e5865beb00df8683fa0fb6e7872", null ],
+    [ "UpdateAI", "d0/de5/a13420.html#ad019d234ca9ee719612d59e5bb0b53ea", null ]
 ];

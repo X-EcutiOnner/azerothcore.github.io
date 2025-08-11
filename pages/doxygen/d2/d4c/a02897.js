@@ -1,10 +1,11 @@
 var a02897 =
 [
-    [ "OutdoorPvP_nagrand", "d8/d03/a22522.html", "d8/d03/a22522" ],
-    [ "outdoorpvp_na_halaa_creatures", "dd/d67/a22526.html", "dd/d67/a22526" ],
-    [ "AddSC_outdoorpvp_na", "d2/d4c/a02897.html#a03015585e7619177355fefd05f85e1c7", null ],
-    [ "FlagPlayerPvP", "d2/d4c/a02897.html#ab1d33448696056a0951a0c306a511f1e", null ],
-    [ "UpdateCreatureHalaa", "d2/d4c/a02897.html#a37af66c813e135cc11bd1dc663b35697", null ],
-    [ "halaaNPCAlly", "d2/d4c/a02897.html#a3428675268608e5372767fc629259d5c", null ],
-    [ "halaaNPCHorde", "d2/d4c/a02897.html#a531a4e8a5291c048ad0f3b0fc64b29d9", null ]
+    [ "instance_hyjal", "d4/dd3/a14704.html", "d4/dd3/a14704" ],
+    [ "instance_hyjal::instance_mount_hyjal_InstanceMapScript", "da/d63/a14708.html", "da/d63/a14708" ],
+    [ "AddSC_instance_mount_hyjal", "d2/d4c/a02897.html#a5c7a0ad3a2ae9f82eb9c45fbf90d5b41", null ],
+    [ "creatureData", "d2/d4c/a02897.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "doorData", "d2/d4c/a02897.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
+    [ "hyjalNightElfWaveTimers", "d2/d4c/a02897.html#ade7b4d2fdf8cd15fa4985554885eb881", null ],
+    [ "hyjalRetreatTimers", "d2/d4c/a02897.html#a254787ab3a62d90e906ded9ef63aa229", null ],
+    [ "hyjalWaveTimers", "d2/d4c/a02897.html#aaad50890c4534c5b5c848a9b85f3d8fe", null ]
 ];

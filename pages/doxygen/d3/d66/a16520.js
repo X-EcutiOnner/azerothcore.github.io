@@ -1,6 +1,6 @@
 var a16520 =
 [
-    [ "boss_gormokAI", "de/d16/a16524.html", "de/d16/a16524" ],
-    [ "boss_gormok", "d3/d66/a16520.html#a86ce0681be4370198c44dde5aa98a593", null ],
-    [ "GetAI", "d3/d66/a16520.html#a45cff2e7ee0525de37382cf09b116a32", null ]
+    [ "boss_jaraxxusAI", "de/d16/a16524.html", "de/d16/a16524" ],
+    [ "boss_jaraxxus", "d3/d66/a16520.html#a82cf0601aa16893d88d9b669a6d1fc72", null ],
+    [ "GetAI", "d3/d66/a16520.html#a518f7af9f86ab995e5195175b5a34bc6", null ]
 ];

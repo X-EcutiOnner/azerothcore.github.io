@@ -1,4 +1,6 @@
 var a01868 =
 [
-    [ "ScriptRegistry< FormulaScript >", "dd/de7/a01868.html#a774b8f7659d09535a55ac9bbdcf46025", null ]
+    [ "Acore::BroadcastTextBuilder", "d8/d1b/a11368.html", "d8/d1b/a11368" ],
+    [ "Acore::CustomChatTextBuilder", "dc/d4e/a11372.html", "dc/d4e/a11372" ],
+    [ "Acore::AcoreStringChatBuilder", "d4/d14/a11376.html", "d4/d14/a11376" ]
 ];

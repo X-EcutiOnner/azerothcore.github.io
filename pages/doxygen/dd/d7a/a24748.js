@@ -1,7 +1,8 @@
 var a24748 =
 [
-    [ "FilterTargets", "dd/d7a/a24748.html#a9abf4baaba572636dba3980e5ae777c5", null ],
-    [ "Load", "dd/d7a/a24748.html#a812e4e461c0ebed6f7c4cc36e88a3367", null ],
-    [ "PrepareSpellScript", "dd/d7a/a24748.html#a4e98fbf669c030263ed2e5759a5bd6e8", null ],
-    [ "Register", "dd/d7a/a24748.html#a2d72f5771d6563260a6e81122e4a2be5", null ]
+    [ "AfterApply", "dd/d7a/a24748.html#a4d2941ebb326d603ac08f428f811c29b", null ],
+    [ "AfterRemove", "dd/d7a/a24748.html#ac1e50413041edbecd5cc4189a1121cb5", null ],
+    [ "PrepareAuraScript", "dd/d7a/a24748.html#afa99d3e45e4a54c41b59ec317ffdd9b9", null ],
+    [ "Register", "dd/d7a/a24748.html#a78e30a950b9fc08dff5072028816b8b4", null ],
+    [ "Validate", "dd/d7a/a24748.html#ac3502abb9d6ef213ffd2413eba7916b2", null ]
 ];

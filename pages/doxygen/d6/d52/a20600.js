@@ -1,6 +1,5 @@
 var a20600 =
 [
-    [ "boss_thorim_sif_blizzardAI", "d3/de4/a20604.html", "d3/de4/a20604" ],
-    [ "boss_thorim_sif_blizzard", "d6/d52/a20600.html#acc42b4c9434f9eece2d93c2e4f3697fc", null ],
-    [ "GetAI", "d6/d52/a20600.html#afbff96363951c952a195f5c2a105e279", null ]
+    [ "achievement_quick_shave", "d6/d52/a20600.html#a6c2f1e60d2311922abbaf7e22e1e9e4b", null ],
+    [ "OnCheck", "d6/d52/a20600.html#a151c479da3d4cec05999ad8a249b100c", null ]
 ];

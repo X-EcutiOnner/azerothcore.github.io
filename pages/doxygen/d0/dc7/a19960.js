@@ -1,7 +1,6 @@
 var a19960 =
 [
-    [ "HandleScript", "d0/dc7/a19960.html#a9580f04e1543262026818f0944bb96c3", null ],
-    [ "PrepareSpellScript", "d0/dc7/a19960.html#a924ae640d448da777ce3ecb059c1c9b6", null ],
-    [ "Register", "d0/dc7/a19960.html#ac05e58e9b5618b1f079bd1c4924a0f9f", null ],
-    [ "Validate", "d0/dc7/a19960.html#a8fc8712a76939dea6831a9eb5b95f946", null ]
+    [ "npc_mechanoliftAI", "de/d2e/a19964.html", "de/d2e/a19964" ],
+    [ "npc_mechanolift", "d0/dc7/a19960.html#a7b753a3426213706c899745a6d0d989b", null ],
+    [ "GetAI", "d0/dc7/a19960.html#a823a929bf65f32cdbe9b56df5d33c66d", null ]
 ];

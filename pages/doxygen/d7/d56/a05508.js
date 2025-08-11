@@ -1,8 +1,7 @@
 var a05508 =
 [
-    [ "category", "d7/d56/a05508.html#a6a53b4b68647fdde65e3c2363127fc4f", null ],
-    [ "char_type", "d7/d56/a05508.html#aaecf7407fc4cff91008168377114d7cd", null ],
-    [ "ACLogSink", "d7/d56/a05508.html#a070880d742fd84b44c4614a76952e589", null ],
-    [ "write", "d7/d56/a05508.html#adad5e421ed10b296eae8b9c52f5e76f5", null ],
-    [ "callback_", "d7/d56/a05508.html#a360b91b740efaa05309725f6678eb22a", null ]
+    [ "Count", "d7/d56/a05508.html#aeeb13e953eff5fde8c9edff41ee17806", null ],
+    [ "FromIndex", "d7/d56/a05508.html#a8c6cb9f0a8d3488956904e2141405cf7", null ],
+    [ "ToIndex", "d7/d56/a05508.html#a25cc4ea08020adcf6deac42e2912b1f9", null ],
+    [ "ToString", "d7/d56/a05508.html#a8d3379c79f103655dd49d993402b741d", null ]
 ];

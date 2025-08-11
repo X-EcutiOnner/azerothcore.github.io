@@ -1,6 +1,5 @@
 var a13680 =
 [
-    [ "npc_jaina_proudmoore_bfuAI", "db/de3/a13684.html", "db/de3/a13684" ],
-    [ "npc_jaina_proudmoore_bfu", "db/d20/a13680.html#af96c4fac318f44cf6e70817b6960999f", null ],
-    [ "GetAI", "db/d20/a13680.html#a4ed6349a5ebdd90053f9d67d24ab6991", null ]
+    [ "npc_tyrion", "db/d20/a13680.html#a85b1abd4910729c17099174def6507b1", null ],
+    [ "OnQuestAccept", "db/d20/a13680.html#af8388a07e52a8c5708434a70d0d28cbb", null ]
 ];

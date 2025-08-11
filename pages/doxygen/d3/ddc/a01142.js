@@ -1,9 +1,11 @@
 var a01142 =
 [
-    [ "FactionState", "d0/de5/a10168.html", "d0/de5/a10168" ],
-    [ "ReputationMgr", "db/d67/a10172.html", "db/d67/a10172" ],
-    [ "FactionStateList", "d3/ddc/a01142.html#ad6532434415723ae38cfd01814db70c4", null ],
-    [ "ForcedReactions", "d3/ddc/a01142.html#a7f488a06b2477791f620e975ea444f4e", null ],
-    [ "RepListID", "d3/ddc/a01142.html#a5d6355bb0de767f549aeb8f1e6481624", null ],
-    [ "ReputationRankStrIndex", "d3/ddc/a01142.html#a6fbbe7a01d0d6b56a15a773ad0199b5b", null ]
+    [ "SpellScriptLoader", "da/dd9/a10380.html", "da/dd9/a10380" ],
+    [ "GenericSpellAndAuraScriptLoader< Ts >", "d4/d1e/a10384.html", "d4/d1e/a10384" ],
+    [ "RegisterSpellAndAuraScriptPair", "d3/ddc/a01142.html#a69b21d1b83cecaba944f4e9379bc866c", null ],
+    [ "RegisterSpellAndAuraScriptPairWithArgs", "d3/ddc/a01142.html#aeffc3c8d08a35d5969c33508488e9051", null ],
+    [ "RegisterSpellScript", "d3/ddc/a01142.html#ae221e5976ab29ba14fec3b073a03670f", null ],
+    [ "RegisterSpellScriptWithArgs", "d3/ddc/a01142.html#aedecf91f4fce46852db865deae243e1f", null ],
+    [ "is_AuraScript", "d3/ddc/a01142.html#a08facc7292565931370e1cc514f726e1", null ],
+    [ "is_SpellScript", "d3/ddc/a01142.html#a2b573b538dcbf3da43ae603709d93bf2", null ]
 ];

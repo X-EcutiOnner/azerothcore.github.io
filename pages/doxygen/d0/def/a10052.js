@@ -1,6 +1,6 @@
 var a10052 =
 [
-    [ "HoverMovementTransform", "d0/def/a10052.html#afc47d2d80c4a4a654cb60f9ad15dc63b", null ],
-    [ "operator()", "d0/def/a10052.html#a7b4c22c7ba3332c0829832756b734809", null ],
-    [ "_offset", "d0/def/a10052.html#a7fe74e38dbefb11af541a8750465861c", null ]
+    [ "FallInitializer", "d0/def/a10052.html#a618345df62b821d286caadc7179b7d83", null ],
+    [ "operator()", "d0/def/a10052.html#a7a9b294b6820e229cd95f4fc9bde825b", null ],
+    [ "start_elevation", "d0/def/a10052.html#ab94604fb6eee50832001908c12044130", null ]
 ];

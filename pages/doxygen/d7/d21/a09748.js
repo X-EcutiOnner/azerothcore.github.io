@@ -1,8 +1,13 @@
 var a09748 =
 [
-    [ "CircleBoundary", "d7/d21/a09748.html#a1f58f718ac4e4f6de029a0d46954012e", null ],
-    [ "CircleBoundary", "d7/d21/a09748.html#a10387b9a70013ecc15ae4f31dd1f21f3", null ],
-    [ "IsWithinBoundaryArea", "d7/d21/a09748.html#ad8eef3c2c98ee71a7d28d1e5d93ee508", null ],
-    [ "_center", "d7/d21/a09748.html#a65edd0aef7b73b176e5e311bb0d63738", null ],
-    [ "_radiusSq", "d7/d21/a09748.html#acbb3cc0c546f0e557a48a45425355950", null ]
+    [ "ServerMail", "d7/d21/a09748.html#a50cf3e6929e397a3c1de83b9fcf83416", null ],
+    [ "active", "d7/d21/a09748.html#a24a12fcafd0b0f4a7c0558737d8fd71f", null ],
+    [ "body", "d7/d21/a09748.html#a58d352611dcb35126f6ec93622ddc4b9", null ],
+    [ "conditions", "d7/d21/a09748.html#a818b993f72f82a022277e1c8d9160011", null ],
+    [ "id", "d7/d21/a09748.html#a6b47994eff9201a6a75f8c621b64716c", null ],
+    [ "itemsA", "d7/d21/a09748.html#a0992466672427c1d24c686bd8fa39378", null ],
+    [ "itemsH", "d7/d21/a09748.html#ad120200ba47bf8ea8511a46d56f0daec", null ],
+    [ "moneyA", "d7/d21/a09748.html#a6a84ca583beef891422f67bef7919c47", null ],
+    [ "moneyH", "d7/d21/a09748.html#a0e899ce54283bc000cc6afb96e6a3244", null ],
+    [ "subject", "d7/d21/a09748.html#a246e499c69c57a436aac4c039ea37d31", null ]
 ];

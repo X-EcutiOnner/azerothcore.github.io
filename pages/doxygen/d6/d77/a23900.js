@@ -1,6 +1,7 @@
 var a23900 =
 [
-    [ "HandlePeriodic", "d6/d77/a23900.html#a0838d4449351f46a1f9f485abaf35c2b", null ],
-    [ "PrepareAuraScript", "d6/d77/a23900.html#a438425f3002028a0978e0dbab580ca03", null ],
-    [ "Register", "d6/d77/a23900.html#af4b26607e8838b7bbbe8777f57601341", null ]
+    [ "boss_gatewatcher_gyrokill", "d6/d77/a23900.html#a82335081dd79f7a0aa1dc0c26bd878fb", null ],
+    [ "JustDied", "d6/d77/a23900.html#a4bbfb59c2a687ebb3e88bde9784af38e", null ],
+    [ "JustEngagedWith", "d6/d77/a23900.html#a95d3ae80f87be9d972ecb056e0b85412", null ],
+    [ "KilledUnit", "d6/d77/a23900.html#a274355d0303d9bf5761758f175826bd1", null ]
 ];

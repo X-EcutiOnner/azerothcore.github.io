@@ -1,7 +1,8 @@
 var a17452 =
 [
-    [ "npc_icc_blood_beastAI", "d2/d4c/a17452.html#af52eff9f66451444c5acba6930c1bff6", null ],
-    [ "DoAction", "d2/d4c/a17452.html#a5de6e46fd21fd073fde2f0aaa5dc947a", null ],
-    [ "UpdateAI", "d2/d4c/a17452.html#ac9da073c33dd33097f03ca35d36ea15e", null ],
-    [ "timer1", "d2/d4c/a17452.html#a1074059162f818088808795119f081be", null ]
+    [ "npc_saurfang_eventAI", "d2/d4c/a17452.html#a8436a87576c92ecc0b45106683d20e93", null ],
+    [ "DoAction", "d2/d4c/a17452.html#a45201c4a5b94fad948efe1d08e63e262", null ],
+    [ "SetData", "d2/d4c/a17452.html#a7f012a54ebce5307940eb7957f028d52", null ],
+    [ "SpellHit", "d2/d4c/a17452.html#a2ed920f949c4d8dbc6d6ff5b9149e749", null ],
+    [ "_index", "d2/d4c/a17452.html#a793d72078bd68b34fcdb7cd6587295dd", null ]
 ];

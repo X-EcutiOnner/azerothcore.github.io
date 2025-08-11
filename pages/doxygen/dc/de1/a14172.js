@@ -1,6 +1,11 @@
 var a14172 =
 [
-    [ "HandleDummyEffect", "dc/de1/a14172.html#a3860ad8a34e37601f7a4cef395f7ab2a", null ],
-    [ "PrepareSpellScript", "dc/de1/a14172.html#a1c69fb2fd3fa623d62647fca738d27d6", null ],
-    [ "Register", "dc/de1/a14172.html#ad1cbf7ed8f7d119bb56d06fb62358458", null ]
+    [ "npc_dark_iron_attack_mole_machine", "dc/de1/a14172.html#a473a8fb4905e5d1333196797d7d0f371", null ],
+    [ "AttackStart", "dc/de1/a14172.html#a999dd932fbaf22a8275dfdba150c3291", null ],
+    [ "JustEngagedWith", "dc/de1/a14172.html#a50e0657f33f15bf2ffe83ca4041eb483", null ],
+    [ "MoveInLineOfSight", "dc/de1/a14172.html#a2be5de913ca9d472a31cd44c07bcde57", null ],
+    [ "Reset", "dc/de1/a14172.html#a0727aab751ddfbd94ae070e60e47e768", null ],
+    [ "UpdateAI", "dc/de1/a14172.html#a1217ed510a846d011143ae0a386c6236", null ],
+    [ "goTimer", "dc/de1/a14172.html#a8686845ebef564c9fcaa115866c99749", null ],
+    [ "summonTimer", "dc/de1/a14172.html#a4713da02f4a86547a0f796167e24d8bb", null ]
 ];

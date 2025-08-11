@@ -1,12 +1,19 @@
 var a13840 =
 [
-    [ "npc_forest_frog", "db/dde/a13840.html#a6a5e24a11f8d2add6a3e9d71e2e647bb", null ],
-    [ "DoSpawnRandom", "db/dde/a13840.html#aac140826b8c4b7ce55925b5abeee936e", null ],
-    [ "JustEngagedWith", "db/dde/a13840.html#aa22c4eb7eb3a84db94ce8eb38afd18f5", null ],
-    [ "MovementInform", "db/dde/a13840.html#a8260157062b3e4ef48ad47b4f9bf66ac", null ],
-    [ "SpellHit", "db/dde/a13840.html#a9501955507e1f236bb48384928fd6a32", null ],
-    [ "UpdateAI", "db/dde/a13840.html#a5e6785d71bfb7f1d7b915723898a99fc", null ],
-    [ "eventTimer", "db/dde/a13840.html#ac6bf7433f79a9c2803072e7b5370a1c7", null ],
-    [ "instance", "db/dde/a13840.html#a6294f89eccdb9e5f9edbe8bccb164690", null ],
-    [ "PlayerGUID", "db/dde/a13840.html#a3544a83bb22e12d247e562ef32e378c0", null ]
+    [ "boss_nalorakk", "db/dde/a13840.html#a4dd18b28685e3dac2406c4e3d8be95aa", null ],
+    [ "CheckAnyEvadeGroup", "db/dde/a13840.html#a2ef7e2a115b8f2292580c88ff55bb797", null ],
+    [ "CheckFullyDeadGroup", "db/dde/a13840.html#a0754b8a39fd26f5fb026f9460faa17aa", null ],
+    [ "GroupedAttack", "db/dde/a13840.html#a249f35697e422a7e7e8a583f85cc97b1", null ],
+    [ "JustDied", "db/dde/a13840.html#a6f79e518e3a356e0f6093afa8c438fe5", null ],
+    [ "JustEngagedWith", "db/dde/a13840.html#a1d3c302161e8666c0343d449727c35a9", null ],
+    [ "MoveInLineOfSight", "db/dde/a13840.html#a3455e91061cfb9ea03712b8006d298df", null ],
+    [ "Reset", "db/dde/a13840.html#a85093d79b866ceff41357dde22e06867", null ],
+    [ "ShapeShift", "db/dde/a13840.html#a78b12658138455ccddd9c62b6c7e26dd", null ],
+    [ "UpdateAI", "db/dde/a13840.html#a4cf5656619dd9339000236ed6b006c90", null ],
+    [ "_active", "db/dde/a13840.html#a8825e186d58b8f6bbd39976e013ee114", null ],
+    [ "_bearForm", "db/dde/a13840.html#aa76da1d9912aaa97242f5d27e567e895", null ],
+    [ "_introScheduler", "db/dde/a13840.html#ac654307d732ac59155321008418f8c90", null ],
+    [ "_phase", "db/dde/a13840.html#a390142234210027d37f5e4ec7cea84ae", null ],
+    [ "_ranIntro", "db/dde/a13840.html#a78bd5a9970ab205d9553ed5746a42066", null ],
+    [ "_waveList", "db/dde/a13840.html#a6093dac3b1353a047174e5aae98c13d6", null ]
 ];

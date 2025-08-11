@@ -1,9 +1,6 @@
 var a21048 =
 [
-    [ "npc_vrykul_skeleton", "d8/dbc/a21048.html#afda2014efb0ce63ee41c46cf2ad6c130", null ],
-    [ "DamageTaken", "d8/dbc/a21048.html#a840244c4183987e4fda533edb2ddeff2", null ],
-    [ "Reset", "d8/dbc/a21048.html#af950342b2177c84c101485736855b998", null ],
-    [ "UpdateAI", "d8/dbc/a21048.html#a80cd072eef6b0bf03a9a6a2fe22e252a", null ],
-    [ "events", "d8/dbc/a21048.html#a897bb5b5519f6f507bca49c5c5de17f6", null ],
-    [ "pInstance", "d8/dbc/a21048.html#a834f0162540683c20f9fa0f9e32eee33", null ]
+    [ "npc_ulduar_storm_tempered_keeperAI", "dc/de3/a21052.html", "dc/de3/a21052" ],
+    [ "npc_ulduar_storm_tempered_keeper", "d8/dbc/a21048.html#aaf2ef154cad4f2ba5796e410dabf02fc", null ],
+    [ "GetAI", "d8/dbc/a21048.html#aa0860236d2abedba1e521ee1610c89e8", null ]
 ];

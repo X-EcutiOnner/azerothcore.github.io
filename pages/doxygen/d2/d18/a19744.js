@@ -1,6 +1,7 @@
 var a19744 =
 [
-    [ "boss_runemaster_molgeimAI", "d3/dd7/a19748.html", "d3/dd7/a19748" ],
-    [ "boss_runemaster_molgeim", "d2/d18/a19744.html#a440e4e43b941ac2b956c7c586a95f991", null ],
-    [ "GetAI", "d2/d18/a19744.html#a080e70913be1e6ad9521bab5b90a92a6", null ]
+    [ "HandleDummyEffect", "d2/d18/a19744.html#ae95c1ce60db79c360e9c1431f27705cb", null ],
+    [ "PrepareSpellScript", "d2/d18/a19744.html#a84a4f52928873e58b1fc49e783c5083a", null ],
+    [ "Register", "d2/d18/a19744.html#a90c00bcb1768d696addab407425e406a", null ],
+    [ "SelectTarget", "d2/d18/a19744.html#a2e7a7c05a30ae1e0c5aa14dc2af19345", null ]
 ];

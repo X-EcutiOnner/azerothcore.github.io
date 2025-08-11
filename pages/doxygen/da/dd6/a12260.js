@@ -1,7 +1,6 @@
 var a12260 =
 [
-    [ "HandlePeriodic", "da/dd6/a12260.html#ac2196cc9de34e286581d44d147fe9d04", null ],
-    [ "PrepareAuraScript", "da/dd6/a12260.html#a149c974371f23268d2d929b483637b14", null ],
-    [ "Register", "da/dd6/a12260.html#a6a2f42867a7082d2b8406c651d5dc484", null ],
-    [ "Validate", "da/dd6/a12260.html#ab77b8a7dca3dc9bbd20cdb498d1d317e", null ]
+    [ "boss_flamegorAI", "da/d4f/a12264.html", "da/d4f/a12264" ],
+    [ "boss_flamegor", "da/dd6/a12260.html#abc6f068c81466d08306d94667bb1974b", null ],
+    [ "GetAI", "da/dd6/a12260.html#a56fb8425c55703fbda14a982d8fdcb2d", null ]
 ];

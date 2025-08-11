@@ -1,6 +1,6 @@
 var a12008 =
 [
-    [ "boss_highlordomokkAI", "d5/d54/a12012.html", "d5/d54/a12012" ],
-    [ "boss_highlord_omokk", "d5/dcf/a12008.html#af5174587ed3cd1c46f604183a75de99e", null ],
-    [ "GetAI", "d5/dcf/a12008.html#afb8efb012791c6a2fc18975a1ec7f984", null ]
+    [ "RestoreAttack", "d5/dcf/a12008.html#a8c5b3b0cbe7f5bfebb1c09987c4066e3", null ],
+    [ "Execute", "d5/dcf/a12008.html#a633e5abe4a3a9353df63d3778b8d71bc", null ],
+    [ "_boss", "d5/dcf/a12008.html#a493ef909da834b0befd90f57f54fb10c", null ]
 ];

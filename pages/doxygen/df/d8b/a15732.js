@@ -1,6 +1,12 @@
 var a15732 =
 [
-    [ "go_troll_cageAI", "d3/d0f/a15736.html", "d3/d0f/a15736" ],
-    [ "go_troll_cage", "df/d8b/a15732.html#ac571df719edabd9e9ecf5c8bb0e153c2", null ],
-    [ "GetAI", "df/d8b/a15732.html#a807f526225dc9a6b27ac64a7f4a3d9b8", null ]
+    [ "DialogueHelper", "df/d8b/a15732.html#a3566655e8781bf5f9dff514fcd659421", null ],
+    [ "DialogueUpdate", "df/d8b/a15732.html#aaac3463d91a0cdbe2622b4fd85b34ed0", null ],
+    [ "DoNextDialogueStep", "df/d8b/a15732.html#a6e23a56ba5c5e4d4ab3b4c6be5cb09af", null ],
+    [ "GetSpeakerByEntry", "df/d8b/a15732.html#a50e652ca2cff035d8c79517fdbcfc67a", null ],
+    [ "JustDidDialogueStep", "df/d8b/a15732.html#a79e80634f1780895669f5c810958fd4f", null ],
+    [ "StartNextDialogueText", "df/d8b/a15732.html#ac16b8b9b50e8b35980d21f161bf33340", null ],
+    [ "_actionTimer", "df/d8b/a15732.html#a33b8551c136bcbc896b29d935c155a75", null ],
+    [ "_currentEntry", "df/d8b/a15732.html#a89ca5e8d25372bd8ab32322a0a9999f2", null ],
+    [ "_dialogueArray", "df/d8b/a15732.html#a489b8cd1c75ced0ec8e34b8051899dd7", null ]
 ];

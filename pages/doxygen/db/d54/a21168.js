@@ -1,6 +1,6 @@
 var a21168 =
 [
-    [ "CalculateAmount", "db/d54/a21168.html#a79019ef395c9b66f6a88759b0517005d", null ],
-    [ "PrepareAuraScript", "db/d54/a21168.html#a1336ab2b7f560deeeeaaf017578bd524", null ],
-    [ "Register", "db/d54/a21168.html#a9bce52699983fe798c903385faa42462", null ]
+    [ "boss_skadiAI", "d3/d71/a21172.html", "d3/d71/a21172" ],
+    [ "boss_skadi", "db/d54/a21168.html#a124c1c1de7ba232b3256a65547370464", null ],
+    [ "GetAI", "db/d54/a21168.html#a4b66199169442af5ec6542be71c19033", null ]
 ];

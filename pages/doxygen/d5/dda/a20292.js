@@ -1,7 +1,5 @@
 var a20292 =
 [
-    [ "HandleEffectPeriodic", "d5/dda/a20292.html#a8d2e75ee2869dc135fe83c782ec6e223", null ],
-    [ "PrepareAuraScript", "d5/dda/a20292.html#a0996c661dbc4e9a4bd35c1368247c7eb", null ],
-    [ "Register", "d5/dda/a20292.html#aed86a298340cc05fbe2a8a68396423bb", null ],
-    [ "Validate", "d5/dda/a20292.html#a1c3ecaebf11d1040fde4ce5cb80f315c", null ]
+    [ "achievement_cheese_the_freeze", "d5/dda/a20292.html#a5ec4c344a0ed203086be2661e4e24f0e", null ],
+    [ "OnCheck", "d5/dda/a20292.html#aaf3342fb3153a4d9223d880c0f2a277a", null ]
 ];

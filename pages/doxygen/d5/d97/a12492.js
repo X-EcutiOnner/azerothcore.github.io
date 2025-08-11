@@ -1,9 +1,6 @@
 var a12492 =
 [
-    [ "npc_mc_core_houndAI", "d5/d97/a12492.html#a9b07d662e32a342419a848ecd59d6391", null ],
-    [ "DamageTaken", "d5/d97/a12492.html#aaf2b0ac9b723bb16bfaf8481165e6b4f", null ],
-    [ "Reset", "d5/d97/a12492.html#a9f4b06230ae2e4fc2fe150eb9e9d1f12", null ],
-    [ "UpdateAI", "d5/d97/a12492.html#aaba8ef0b33b9bb9acf74223ef0e9aaad", null ],
-    [ "instance", "d5/d97/a12492.html#ab47451dfeff84c8467be2b76554df897", null ],
-    [ "serratedBiteTimer", "d5/d97/a12492.html#a3a49df32c788497d3e82912d423683b7", null ]
+    [ "boss_shazzrahAI", "d5/d97/a12492.html#a984b3d32d5f231a019f2c0f1bb027907", null ],
+    [ "ExecuteEvent", "d5/d97/a12492.html#a0f6e3e6876b9b769ea53db5c9028c6ff", null ],
+    [ "JustEngagedWith", "d5/d97/a12492.html#aaa8111d42cacd58f767513026976668c", null ]
 ];

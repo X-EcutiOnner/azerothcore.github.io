@@ -1,7 +1,13 @@
 var a15412 =
 [
-    [ "HandleEffectPeriodic", "d7/ddc/a15412.html#ac47c157dbd193bc131d281666ae2097f", null ],
-    [ "PrepareAuraScript", "d7/ddc/a15412.html#ac650ece6e2d9e9e7ff9b863d77f84975", null ],
-    [ "Register", "d7/ddc/a15412.html#ac3c158fdddd007d1d7986470032bfc25", null ],
-    [ "Validate", "d7/ddc/a15412.html#a26b117dc8a3b104dec9de27597fbe55d", null ]
+    [ "npc_tharnarianAI", "d7/ddc/a15412.html#a8e22d45f6420aa8079f8fb7150a2a53a", null ],
+    [ "Initialize", "d7/ddc/a15412.html#ad1d89491b42a56406273a04045e7e91d", null ],
+    [ "Reset", "d7/ddc/a15412.html#a7de1f46bee4e79effc5dbb405854a7da", null ],
+    [ "SetGUID", "d7/ddc/a15412.html#a7ac84aac946afc312d8ce27f04127dfd", null ],
+    [ "sGossipSelect", "d7/ddc/a15412.html#a33b5898def48e17ba27363b98f51849b", null ],
+    [ "UpdateAI", "d7/ddc/a15412.html#a1e58a89064bdfb69e4445db72184d8b3", null ],
+    [ "_bearGUID", "d7/ddc/a15412.html#af7a116b8226ddb51e9f0f118f2d8fa22", null ],
+    [ "_events", "d7/ddc/a15412.html#aff73052a4b7407d760af3dde09fa8a07", null ],
+    [ "_facing", "d7/ddc/a15412.html#ad2120fffc0ffa93d4fca1e9e8c0a4371", null ],
+    [ "_scriptRunning", "d7/ddc/a15412.html#a5be50b02cc8ce2e7b4dd334e923a7c10", null ]
 ];

@@ -1,6 +1,7 @@
 var a26432 =
 [
-    [ "HandleEffectPeriodic", "de/d2c/a26432.html#ab283b40ceb6dcd0a835550531321ce92", null ],
-    [ "PrepareAuraScript", "de/d2c/a26432.html#a6d6efe0be7cefeb20c386c83dee561d4", null ],
-    [ "Register", "de/d2c/a26432.html#a4c69f350a68c1f4dd429ab52a791f3cd", null ]
+    [ "HandleDummy", "de/d2c/a26432.html#a1abe1e04be6b6c410e0ff273d8aa15c9", null ],
+    [ "Load", "de/d2c/a26432.html#a249e9c3c74bcc20ea2c0d5ce63fbd88c", null ],
+    [ "PrepareSpellScript", "de/d2c/a26432.html#aeffcc8db6125a35227545911fa03a850", null ],
+    [ "Register", "de/d2c/a26432.html#a1de981482ebb05b8507b308dba7a426b", null ]
 ];

@@ -1,10 +1,8 @@
 var a12616 =
 [
-    [ "npc_netherspite_infernal", "d4/dcd/a12616.html#af9837d7a671533523ce323c083c4e847", null ],
-    [ "DamageTaken", "d4/dcd/a12616.html#aee9b38f3590e08b16de1789576986a09", null ],
-    [ "JustEngagedWith", "d4/dcd/a12616.html#a76d8944ca2d9b2f1aa5b635ce94bacfb", null ],
-    [ "KilledUnit", "d4/dcd/a12616.html#a49c37fbebed2951c493962c1a3bd0339", null ],
-    [ "MoveInLineOfSight", "d4/dcd/a12616.html#a7ecce97cef0adda03910e87d9fd82f71", null ],
-    [ "SpellHit", "d4/dcd/a12616.html#abb6c7d0b5e231e460b069198b16106b7", null ],
-    [ "UpdateAI", "d4/dcd/a12616.html#a575040456c0eb4d343e7c0c5f75159b4", null ]
+    [ "HandleEffectRemove", "d4/dcd/a12616.html#a5e5a218cb491b830ec8d50609a3d54ae", null ],
+    [ "if", "d4/dcd/a12616.html#a8596fc98402bf952484c9567f61c7820", null ],
+    [ "PrepareAuraScript", "d4/dcd/a12616.html#a4055f781a914de631187b00ba7aefeef", null ],
+    [ "Register", "d4/dcd/a12616.html#aefb4bbae43558abde871548088784613", null ],
+    [ "AuraEffectHandleModes", "d4/dcd/a12616.html#a7d419ba41e68b70740a867a2265824bd", null ]
 ];

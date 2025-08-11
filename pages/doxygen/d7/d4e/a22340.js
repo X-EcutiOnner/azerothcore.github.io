@@ -1,6 +1,7 @@
 var a22340 =
 [
-    [ "go_wg_vehicle_teleporterAI", "d6/d20/a22344.html", "d6/d20/a22344" ],
-    [ "go_wg_vehicle_teleporter", "d7/d4e/a22340.html#a074ead770a3da6e9ffa4180a3525f4c8", null ],
-    [ "GetAI", "d7/d4e/a22340.html#a113aaf42c095000c1a016bfe60df11e7", null ]
+    [ "npc_wg_demolisher_engineer", "d7/d4e/a22340.html#a722ff6bac34730bfb5f36584d7a62ff8", null ],
+    [ "canBuild", "d7/d4e/a22340.html#a5dd51b0d0a05ebfb648faab570e27881", null ],
+    [ "OnGossipHello", "d7/d4e/a22340.html#ac3b0bbfd66bb94f29a6d733999b8c6ba", null ],
+    [ "OnGossipSelect", "d7/d4e/a22340.html#a3ecf69f45918bef0cb51023327ac9693", null ]
 ];

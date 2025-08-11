@@ -1,7 +1,13 @@
 var a12720 =
 [
-    [ "HandleDummy", "df/d35/a12720.html#a02b89ff0a3ea53bb2740c7deb51279c2", null ],
-    [ "PrepareSpellScript", "df/d35/a12720.html#a55a794dbaf76a549bd11fbe2a2432609", null ],
-    [ "Register", "df/d35/a12720.html#a17784359e300e9d66c0c22bc5e7b6f6c", null ],
-    [ "Validate", "df/d35/a12720.html#af12eb55064f7f1f1063ec0ce2863bc57", null ]
+    [ "boss_crone", "df/d35/a12720.html#a710bdf6fac05be54cf10e40cd661c837", null ],
+    [ "EnterEvadeMode", "df/d35/a12720.html#a4dcdde0b699f445cfa6be7e0c7dbb8d0", null ],
+    [ "JustDied", "df/d35/a12720.html#a545de2a25b48590d11896c41b6e94df0", null ],
+    [ "JustEngagedWith", "df/d35/a12720.html#a9801cd39667d1a08770820bd17beac00", null ],
+    [ "JustReachedHome", "df/d35/a12720.html#a59d40cda923cb8b72413b9d5f267f52a", null ],
+    [ "KilledUnit", "df/d35/a12720.html#ae4d343636955589d740d1df4e21fba99", null ],
+    [ "Reset", "df/d35/a12720.html#a247db7fc1329ef00e48fd9bd09fb27a1", null ],
+    [ "UpdateAI", "df/d35/a12720.html#a8bd505acd55ca5292d29c96916a461e5", null ],
+    [ "_scheduler", "df/d35/a12720.html#a7f9e2e45c0bbb60fc19dd54bc380f814", null ],
+    [ "instance", "df/d35/a12720.html#a3795fe3185005693ed9bba49177bb35a", null ]
 ];

@@ -1,6 +1,7 @@
 var a07284 =
 [
-    [ "_Battlegrounds", "d3/d24/a07284.html#aa48f3a9d4a51e357055a0bc60ca41d7c", null ],
-    [ "_ClientBattlegroundIds", "d3/d24/a07284.html#a0526fab23b40ac1b33ce18243ad41132", null ],
-    [ "BGFreeSlotQueue", "d3/d24/a07284.html#a49fd7eb3a472894f233d309d35d509be", null ]
+    [ "BattlegroundObjectInfo", "d3/d24/a07284.html#a848f2b15f47ceeb91c40e916d5659486", null ],
+    [ "object", "d3/d24/a07284.html#a6722b83d6969c1a34b4846f19865075a", null ],
+    [ "spellid", "d3/d24/a07284.html#ae0233a1078bc735e40855ea7608f5f11", null ],
+    [ "timer", "d3/d24/a07284.html#a7eaf1fbe40f3a7918965da8d5ac81a50", null ]
 ];

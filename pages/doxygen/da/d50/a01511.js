@@ -1,6 +1,7 @@
 var a01511 =
 [
-    [ "ResetNotifier", "da/d2b/a09790.html", "da/d2b/a09790" ],
-    [ "MAP_INVALID_ZONE", "da/d50/a01511.html#ab627038bd646584995dec28f4e212525", null ],
-    [ "IsInWMOInterior", "da/d50/a01511.html#ad41458075af3abab316f89b325f54b7e", null ]
+    [ "OutdoorPvPData", "d5/d73/a10128.html", "d5/d73/a10128" ],
+    [ "OutdoorPvPMgr", "d7/d25/a10132.html", "d7/d25/a10132" ],
+    [ "OUTDOORPVP_OBJECTIVE_UPDATE_INTERVAL", "da/d50/a01511.html#af3942e94a2b618e59d9a607df883023b", null ],
+    [ "sOutdoorPvPMgr", "da/d50/a01511.html#a7f16e829e6dd717c8a6a20fd1aa783cc", null ]
 ];

@@ -1,6 +1,6 @@
 var a22900 =
 [
-    [ "HandleEffectRemove", "d5/d88/a22900.html#ae9baf688d8ac42c4ccbbf13f3b79e831", null ],
-    [ "PrepareAuraScript", "d5/d88/a22900.html#a2e2668f0b5bf369ec859627e0bd8d980", null ],
-    [ "Register", "d5/d88/a22900.html#acd7e22159d262a9888c744eecb978c09", null ]
+    [ "boss_essence_of_sufferingAI", "db/dec/a22904.html", "db/dec/a22904" ],
+    [ "boss_essence_of_suffering", "d5/d88/a22900.html#a1237f428657f0e9a0218695264358384", null ],
+    [ "GetAI", "d5/d88/a22900.html#adb54519bdf220cb3e30c81627c1ba11a", null ]
 ];

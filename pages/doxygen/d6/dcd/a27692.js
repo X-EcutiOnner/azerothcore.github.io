@@ -1,12 +1,9 @@
 var a27692 =
 [
-    [ "categoryId", "d6/dcd/a27692.html#a1de0e4302757f18c08b90b40e059737b", null ],
-    [ "count", "d6/dcd/a27692.html#a93aac150067979467f56d9919ff665a4", null ],
-    [ "flags", "d6/dcd/a27692.html#a5c0dfb5b3c0711aff47d3d604ded2d1a", null ],
-    [ "ID", "d6/dcd/a27692.html#a843fee247948d02f7aaf04144cb37ef5", null ],
-    [ "mapID", "d6/dcd/a27692.html#ab3d41381808c8bdc163554f7c46f6bc6", null ],
-    [ "name", "d6/dcd/a27692.html#a806cfeddc475994f1b421679bd9699e6", null ],
-    [ "points", "d6/dcd/a27692.html#abc2b4cf9c6580c6bc99d5c47d7539374", null ],
-    [ "refAchievement", "d6/dcd/a27692.html#a858661b2e3479fa3fc2e029ae0d8a145", null ],
-    [ "requiredFaction", "d6/dcd/a27692.html#a722dbda5ed8d74f5a1e75bdec8841aa3", null ]
+    [ "npc_herald_of_the_lich_king", "d6/dcd/a27692.html#a62e373796ce4e6509692e6837cdb561f", null ],
+    [ "ChangeZoneEventStatus", "d6/dcd/a27692.html#a30c44f2f62badd27b105a55527d40670", null ],
+    [ "DoAction", "d6/dcd/a27692.html#a0ae389e7c2b5d380cb58df1cb9453f94", null ],
+    [ "InitializeAI", "d6/dcd/a27692.html#a17e1ad9a9107a71697cd9816e5694e40", null ],
+    [ "UpdateAI", "d6/dcd/a27692.html#a21a5093a46959f4b69777b63de12c557", null ],
+    [ "UpdateWeather", "d6/dcd/a27692.html#a3c6d076171596c9ce472cddda18a42be", null ]
 ];

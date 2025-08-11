@@ -1,7 +1,6 @@
 var a12440 =
 [
-    [ "HandleScript", "de/d9e/a12440.html#ac09c2c6b997c2a5fc0bee0ba0ea185ae", null ],
-    [ "PrepareSpellScript", "de/d9e/a12440.html#ad3c052a9bd00d04c954f85218dcfcb0a", null ],
-    [ "Register", "de/d9e/a12440.html#a8658c2c7e32a66e4a1bcc048406653bb", null ],
-    [ "Validate", "de/d9e/a12440.html#aa03795d909e24dfe2ccd12e431b2575e", null ]
+    [ "boss_magmadarAI", "de/d9e/a12440.html#a47207fdd6eb94fb08791da06cd4160f6", null ],
+    [ "ExecuteEvent", "de/d9e/a12440.html#a7d4c1807cb320fdc331057209a4ce166", null ],
+    [ "JustEngagedWith", "de/d9e/a12440.html#a5ce1495d01f28e0a38f00127e7137a4f", null ]
 ];

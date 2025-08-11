@@ -1,6 +1,5 @@
 var a18084 =
 [
-    [ "npc_rimefangAI", "de/d93/a18088.html", "de/d93/a18088" ],
-    [ "npc_rimefang", "d6/da1/a18084.html#af8ab4e318726b5250de56e3c6d09fcd2", null ],
-    [ "GetAI", "d6/da1/a18084.html#a2fce9c36b7ef1861c9dcb5db2cacf438", null ]
+    [ "operator()", "d6/da1/a18084.html#a6a8c02f9b797ed7df8960e5ddc44f93f", null ],
+    [ "operator()", "d6/da1/a18084.html#a3847988d35a9cb0c5aab4ad73ff1a427", null ]
 ];

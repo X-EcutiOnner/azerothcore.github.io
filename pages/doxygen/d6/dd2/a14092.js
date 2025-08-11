@@ -1,6 +1,8 @@
 var a14092 =
 [
-    [ "boss_wushoolayAI", "d4/df9/a14096.html", "d4/df9/a14096" ],
-    [ "boss_wushoolay", "d6/dd2/a14092.html#a68359ee086bb4e86c3c16c4a03e54893", null ],
-    [ "GetAI", "d6/dd2/a14092.html#a70b476358956fd05d6effb75517e2b3d", null ]
+    [ "npc_spawn_of_marli", "d6/dd2/a14092.html#a1dcd5066de108203903f5767c4b375ea", null ],
+    [ "JustEngagedWith", "d6/dd2/a14092.html#a1b8afff5d90df02d16b81785026b2ff0", null ],
+    [ "Reset", "d6/dd2/a14092.html#a79ef192d41af75e0dad0494776c75189", null ],
+    [ "UpdateAI", "d6/dd2/a14092.html#a1c456e7deb43d2e4dd1abc6f702c3f75", null ],
+    [ "_scheduler", "d6/dd2/a14092.html#ae9d30ec62ff25a454824ff4334ad2d99", null ]
 ];

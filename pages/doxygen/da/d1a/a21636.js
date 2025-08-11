@@ -1,5 +1,7 @@
 var a21636 =
 [
-    [ "npc_steam_powered_auctioneerAI", "da/d1a/a21636.html#a5ef3dfd385ee3e5a49bd5c0e165103fc", null ],
-    [ "CanBeSeen", "da/d1a/a21636.html#a3352588abda326f7c72d0764a3f53370", null ]
+    [ "npc_thassarianAI", "da/d1a/a21636.html#a92e873dc3aa97f81919225ce75a5f894", null ],
+    [ "Reset", "da/d1a/a21636.html#a8611ef17700c739dbd5e7a70660f1379", null ],
+    [ "UpdateAI", "da/d1a/a21636.html#ad09a3a063d716bc43e23b5aad5e46a7b", null ],
+    [ "_events", "da/d1a/a21636.html#aaecb5a402e4ffca1e819303dbb94f5b5", null ]
 ];

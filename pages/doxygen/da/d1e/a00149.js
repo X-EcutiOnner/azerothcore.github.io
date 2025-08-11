@@ -1,4 +1,5 @@
 var a00149 =
 [
-    [ "Acore::Asio::Resolver", "dd/d60/a04878.html", "dd/d60/a04878" ]
+    [ "DBCStorageBase", "d5/d19/a27788.html", "d5/d19/a27788" ],
+    [ "DBCStorage< T >", "da/dd2/a27792.html", "da/dd2/a27792" ]
 ];

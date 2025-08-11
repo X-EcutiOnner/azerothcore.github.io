@@ -1,10 +1,7 @@
 var a19324 =
 [
-    [ "instance_nexus_InstanceMapScript", "da/d3c/a19324.html#a6803f233d730f33e5af7dc9d8ecd9775", null ],
-    [ "Initialize", "da/d3c/a19324.html#a2c6c42e73de2a155c04f80e37aa5d442", null ],
-    [ "OnCreatureCreate", "da/d3c/a19324.html#a04806dc42aa0b171fa99eb1d8492ff61", null ],
-    [ "OnGameObjectCreate", "da/d3c/a19324.html#a85c3ac915970d68a192414ca4ff8ad1f", null ],
-    [ "OnGameObjectRemove", "da/d3c/a19324.html#ac148c67823484eee38ab6646dfb68530", null ],
-    [ "SetBossState", "da/d3c/a19324.html#a11ac1fbc7c699084e7da5e4bf0595651", null ],
-    [ "SetData", "da/d3c/a19324.html#a351052b1d3ea4ddb5d36ce69818c7e67", null ]
+    [ "boss_commander_stoutbeard", "da/d3c/a19324.html#a9489874e93ea9f425ff4e3748ba10ded", null ],
+    [ "JustDied", "da/d3c/a19324.html#a2fd835408045715058ba476aa56cb4f7", null ],
+    [ "JustEngagedWith", "da/d3c/a19324.html#af960c10b2b98d43b4b1311a0a7616aa8", null ],
+    [ "KilledUnit", "da/d3c/a19324.html#acf7016c65f020dca9228bd2d2fd89299", null ]
 ];

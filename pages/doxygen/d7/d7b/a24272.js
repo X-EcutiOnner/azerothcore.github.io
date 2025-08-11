@@ -1,6 +1,6 @@
 var a24272 =
 [
-    [ "HandleSendEvent", "d7/d7b/a24272.html#a698e367b59ce770a9b4d9fe6890edf46", null ],
-    [ "PrepareSpellScript", "d7/d7b/a24272.html#aed8815b1d068ba04f12c7714a64af769", null ],
-    [ "Register", "d7/d7b/a24272.html#aa55fa06e76b1f34e319e16984405ed20", null ]
+    [ "npc_zephyr", "d7/d7b/a24272.html#a3bad7bf2bd3b193960f1f53cd7d8349d", null ],
+    [ "OnGossipHello", "d7/d7b/a24272.html#a31e132e80a19bb6e63787fcdf7ffd466", null ],
+    [ "OnGossipSelect", "d7/d7b/a24272.html#a9b1f5a0d4ba24e65dda521bc94574ad8", null ]
 ];

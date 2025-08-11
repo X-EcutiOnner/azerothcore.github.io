@@ -1,6 +1,8 @@
 var a26228 =
 [
-    [ "HandleDummyEffect", "d0/dee/a26228.html#ad5421ca3dd5bf802952f98e6d1170003", null ],
-    [ "PrepareSpellScript", "d0/dee/a26228.html#a9489556e1e16cd2e0d5c43b38d7ea5ee", null ],
-    [ "Register", "d0/dee/a26228.html#a2ad2c00807d07aeb55a8fd848a69f9d1", null ]
+    [ "CalculateAmount", "d0/dee/a26228.html#aa1810db9a7b8fbc3572621ff35e0eeb1", null ],
+    [ "PrepareAuraScript", "d0/dee/a26228.html#ad40d44271840b8e2bd1dc22b6a04290e", null ],
+    [ "ReflectDamage", "d0/dee/a26228.html#ad8b5f9a7952fc33d7e1fee28e4872212", null ],
+    [ "Register", "d0/dee/a26228.html#a18b19ee8823e2d1747caeefaf457ad8d", null ],
+    [ "Validate", "d0/dee/a26228.html#af2936ba4a29fc8735a3cabe805c77355", null ]
 ];

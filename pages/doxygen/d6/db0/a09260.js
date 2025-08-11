@@ -1,10 +1,8 @@
 var a09260 =
 [
-    [ "PlayerListSearcherWithSharedVision", "d6/db0/a09260.html#aace01efe09c3190b81651d237e2e9a8a", null ],
-    [ "Visit", "d6/db0/a09260.html#a5348d9887ebfd9c0a0016b31d3db8ffb", null ],
-    [ "Visit", "d6/db0/a09260.html#a34c24d8e219b8dbbdf27c1d36489f3fa", null ],
-    [ "Visit", "d6/db0/a09260.html#ac45ae498dc7f74426b66344d9367046a", null ],
-    [ "i_check", "d6/db0/a09260.html#a7261e79c2980cfb61686c01254d70c8b", null ],
-    [ "i_objects", "d6/db0/a09260.html#ac8e5495912121d8d3baac9d02e947815", null ],
-    [ "i_phaseMask", "d6/db0/a09260.html#a9bd8d6c842ac2f4cf1f10441216f906c", null ]
+    [ "CreatureWorker", "d6/db0/a09260.html#a4b4dc219d034565cd83748c5f1cab2a5", null ],
+    [ "Visit", "d6/db0/a09260.html#ae67044250380c521055f80c55de0bba5", null ],
+    [ "Visit", "d6/db0/a09260.html#aa9a450b147aafe46a49135f5c5be668e", null ],
+    [ "i_do", "d6/db0/a09260.html#ac22f86d9a41701e7527d4840da256f11", null ],
+    [ "i_phaseMask", "d6/db0/a09260.html#adf514c89c894cdf2b44fc75d14c4f5b0", null ]
 ];

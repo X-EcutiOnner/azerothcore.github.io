@@ -1,11 +1,7 @@
 var a21948 =
 [
-    [ "npc_rocket_propelled_warheadAI", "d4/d82/a21948.html#aab27045dff817457d5858c48c174f3a2", null ],
-    [ "DoAction", "d4/d82/a21948.html#abfd9618bd029ae56d846cac9cf5b7e80", null ],
-    [ "FinishQuest", "d4/d82/a21948.html#a1ccb00801fbfc87cbe04f19dc15e4a10", null ],
-    [ "JustReachedHome", "d4/d82/a21948.html#a680f46b5d7c88bafc5d3af669e9886ef", null ],
-    [ "PassengerBoarded", "d4/d82/a21948.html#aba8121b207be2c7be161d9ea0c903d6e", null ],
-    [ "SpellHit", "d4/d82/a21948.html#ae347c0817e145ec333bd5b1c87dd01ef", null ],
-    [ "_faction", "d4/d82/a21948.html#a423bead0525222a132e22531f640c461", null ],
-    [ "_finished", "d4/d82/a21948.html#ad676c377ea08cbb33f1ff226f864849c", null ]
+    [ "npc_amberpine_woodsmanAI", "d4/d82/a21948.html#aa0f37b54c5bfc2f923d09437b8b30424", null ],
+    [ "Reset", "d4/d82/a21948.html#a8da613c7bbaadf331c95667e7a361702", null ],
+    [ "UpdateAI", "d4/d82/a21948.html#a64dbf41424a710c400d51507f6457b41", null ],
+    [ "_events", "d4/d82/a21948.html#aac8cd045a5518e3eaa9c24e0fb83ddaa", null ]
 ];

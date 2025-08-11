@@ -1,7 +1,8 @@
 var a18708 =
 [
-    [ "OnRemove", "d3/de5/a18708.html#ac71e6f5a9e3a7c96b4e4bd1a296d0d8d", null ],
-    [ "PrepareAuraScript", "d3/de5/a18708.html#acf654e563f47df9ad033d7080f47662b", null ],
-    [ "Register", "d3/de5/a18708.html#aad4497ba7cad48b9547e8696714d8c23", null ],
-    [ "Validate", "d3/de5/a18708.html#ae5e187cb481849343e777b0bf0ffdf24", null ]
+    [ "CountTargets", "d3/de5/a18708.html#a3000d234134bb3d4b2e17fd1eff8f4f0", null ],
+    [ "HandleScript", "d3/de5/a18708.html#af058a0c458463bdba4a4eb73aa91c113", null ],
+    [ "PrepareSpellScript", "d3/de5/a18708.html#a83b2fad7cdc189a17129e25a015952ff", null ],
+    [ "Register", "d3/de5/a18708.html#af5e214ab418ca05ddd637c83d7a7e71a", null ],
+    [ "Validate", "d3/de5/a18708.html#a63e8e899cb1469dca26cd5fa34b85408", null ]
 ];

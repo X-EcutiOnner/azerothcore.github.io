@@ -1,9 +1,14 @@
 var a24540 =
 [
-    [ "CheckCast", "da/db3/a24540.html#ad68a099d3167534be3d9978d1fc2b4fe", null ],
-    [ "EntryCheck", "da/db3/a24540.html#a8e8578447aafeea4a62e028dbe6c7419", null ],
-    [ "HandleBaseDummy", "da/db3/a24540.html#a8534cc52f42f0598088bf8500dd5e0e5", null ],
-    [ "HandleDummy", "da/db3/a24540.html#a34d9f5699f306b27830ced2129be506c", null ],
-    [ "PrepareSpellScript", "da/db3/a24540.html#af7aff878540dd34138aa479f532611b6", null ],
-    [ "Register", "da/db3/a24540.html#a78321d1589e8d7f7fe8957a4939b6197", null ]
+    [ "Absorb", "da/db3/a24540.html#a401274543919a81efea81008f8020ed1", null ],
+    [ "CalculateAmount", "da/db3/a24540.html#a837b0e3f0135f7b8393f1ee630d90c50", null ],
+    [ "HandleEffectApply", "da/db3/a24540.html#a0acb2be86ed6da238e8769d4871526d3", null ],
+    [ "HandleEffectRemove", "da/db3/a24540.html#a2b1e9dbb5d3543acd36f9253f224b9a7", null ],
+    [ "Load", "da/db3/a24540.html#ab22271735c240c0d375324f54efc8313", null ],
+    [ "PrepareAuraScript", "da/db3/a24540.html#af040fefa0f25f319f98340b9908bb85e", null ],
+    [ "Register", "da/db3/a24540.html#af89379413ea3b10477ea267ac8e51004", null ],
+    [ "Trigger", "da/db3/a24540.html#ae1704ed58255389c7483f75b5f0a227c", null ],
+    [ "Validate", "da/db3/a24540.html#a58faaf03fc6a0974049da2af0fc70825", null ],
+    [ "absorbPct", "da/db3/a24540.html#a3a9bd069cf4732f64990277227d71d0d", null ],
+    [ "hpPct", "da/db3/a24540.html#a83ef3e3f9534366c24311f3281a8d0b8", null ]
 ];

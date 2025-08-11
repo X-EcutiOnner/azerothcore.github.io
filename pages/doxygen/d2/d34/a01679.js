@@ -1,20 +1,18 @@
 var a01679 =
 [
-    [ "WorldScript", "d4/df6/a10410.html", "d4/df6/a10410" ],
-    [ "WorldHook", "d2/d34/a01679.html#a4d497fc434376a9edca1897eabc39493", [
-      [ "WORLDHOOK_ON_OPEN_STATE_CHANGE", "d2/d34/a01679.html#a4d497fc434376a9edca1897eabc39493a1115383e9c9ccf62f08548733c8f5f1c", null ],
-      [ "WORLDHOOK_ON_AFTER_CONFIG_LOAD", "d2/d34/a01679.html#a4d497fc434376a9edca1897eabc39493af6efa892b7f5bfd295f23a9b8afc6ad7", null ],
-      [ "WORLDHOOK_ON_LOAD_CUSTOM_DATABASE_TABLE", "d2/d34/a01679.html#a4d497fc434376a9edca1897eabc39493ab212a383f870b580ecf69fd1df3f9213", null ],
-      [ "WORLDHOOK_ON_BEFORE_CONFIG_LOAD", "d2/d34/a01679.html#a4d497fc434376a9edca1897eabc39493ac0d62a83ca416843503c5c9eac516901", null ],
-      [ "WORLDHOOK_ON_MOTD_CHANGE", "d2/d34/a01679.html#a4d497fc434376a9edca1897eabc39493a7080a363df28c0ffb71d52ee18b85f8c", null ],
-      [ "WORLDHOOK_ON_SHUTDOWN_INITIATE", "d2/d34/a01679.html#a4d497fc434376a9edca1897eabc39493ab554902e66fb497dbb3ac74151fe8bb7", null ],
-      [ "WORLDHOOK_ON_SHUTDOWN_CANCEL", "d2/d34/a01679.html#a4d497fc434376a9edca1897eabc39493a86b7bcb6f946ccb6d6c444773054ecb6", null ],
-      [ "WORLDHOOK_ON_UPDATE", "d2/d34/a01679.html#a4d497fc434376a9edca1897eabc39493a891997df42f33b397fe3c92cf68e3aca", null ],
-      [ "WORLDHOOK_ON_STARTUP", "d2/d34/a01679.html#a4d497fc434376a9edca1897eabc39493abaa74ee704d5eb3634a515fe131e66fa", null ],
-      [ "WORLDHOOK_ON_SHUTDOWN", "d2/d34/a01679.html#a4d497fc434376a9edca1897eabc39493a804c550dd48cb62983e43dfed1ba2176", null ],
-      [ "WORLDHOOK_ON_AFTER_UNLOAD_ALL_MAPS", "d2/d34/a01679.html#a4d497fc434376a9edca1897eabc39493a02253717dde1cc98a2643eefd76f0d91", null ],
-      [ "WORLDHOOK_ON_BEFORE_FINALIZE_PLAYER_WORLD_SESSION", "d2/d34/a01679.html#a4d497fc434376a9edca1897eabc39493a962dfc07ec34ca7510d8759c193ba56e", null ],
-      [ "WORLDHOOK_ON_BEFORE_WORLD_INITIALIZED", "d2/d34/a01679.html#a4d497fc434376a9edca1897eabc39493a2e95fec6ec46709803e187fe3c60f427", null ],
-      [ "WORLDHOOK_END", "d2/d34/a01679.html#a4d497fc434376a9edca1897eabc39493a1a7e32e7ba7aec9dc7b8edd43a903800", null ]
-    ] ]
+    [ "SplineHandler", "de/dcc/a08680.html", "de/dcc/a08680" ],
+    [ "spellIdImmunityPredicate", "d6/d46/a08684.html", "d6/d46/a08684" ],
+    [ "ProcTriggeredData", "d0/d01/a08688.html", "d0/d01/a08688" ],
+    [ "AuraMunchingQueue", "d1/da6/a08692.html", "d1/da6/a08692" ],
+    [ "ResetToHomeOrientation", "d3/d01/a08696.html", "d3/d01/a08696" ],
+    [ "ProcTriggeredList", "d2/d34/a01679.html#af5ec5d5b1ba4d4454c1bdcbc139de758", null ],
+    [ "createProcExtendMask", "d2/d34/a01679.html#afb539370dad036ff97905efdbb4270c0", null ],
+    [ "createProcFlags", "d2/d34/a01679.html#a7d920511c20f084098c0f68a75006159", null ],
+    [ "InitTriggerAuraData", "d2/d34/a01679.html#a70fb722e03fe637ce7c9979a00725a3c", null ],
+    [ "baseMoveSpeed", "d2/d34/a01679.html#a2ede1cce0416c74db2d4599bab36eb57", null ],
+    [ "isAlwaysTriggeredAura", "d2/d34/a01679.html#a59735a3ed46ce3add4f949e4c9e041f8", null ],
+    [ "isNonTriggerAura", "d2/d34/a01679.html#a993ff0928a2b90204efd437a0726e787", null ],
+    [ "isTriggerAura", "d2/d34/a01679.html#ad51bed43268eefcceebdda05d85c6a61", null ],
+    [ "playerBaseMoveSpeed", "d2/d34/a01679.html#afef08589b9944f10d66bdc1de74d0270", null ],
+    [ "procPrepared", "d2/d34/a01679.html#a11410c456e972de7cfb44bbe17709cc4", null ]
 ];

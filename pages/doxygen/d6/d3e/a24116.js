@@ -1,6 +1,8 @@
 var a24116 =
 [
-    [ "npc_invis_infernal_casterAI", "d3/d81/a24120.html", "d3/d81/a24120" ],
-    [ "npc_invis_infernal_caster", "d6/d3e/a24116.html#a9aed081ef904075830428bbc76f53874", null ],
-    [ "GetAI", "d6/d3e/a24116.html#aede0c5cc390ea423169b1cba66d929cd", null ]
+    [ "npc_bessyAI", "d6/d3e/a24116.html#ad1300a563888b34689bedf97c387707c", null ],
+    [ "JustDied", "d6/d3e/a24116.html#af98e9235b2432b619e4cc01c0c1111ef", null ],
+    [ "JustSummoned", "d6/d3e/a24116.html#a4197fb122299fd152e5da335bb832ae5", null ],
+    [ "Reset", "d6/d3e/a24116.html#aed64386629e52c3b65abadde54a63cc4", null ],
+    [ "WaypointReached", "d6/d3e/a24116.html#a4611a8f41f66a1a846fb42ba1d4062c8", null ]
 ];

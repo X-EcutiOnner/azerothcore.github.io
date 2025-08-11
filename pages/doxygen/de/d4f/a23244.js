@@ -1,11 +1,12 @@
 var a23244 =
 [
-    [ "boss_ahune", "de/d4f/a23244.html#aa3d15e1ab37843761d9f7c56d2e5a319", null ],
-    [ "DoAction", "de/d4f/a23244.html#a9e197e8a5ecbad8487c7bad7647e6d2c", null ],
-    [ "Emerge", "de/d4f/a23244.html#a6404a8255566f2eaa061a89025e2bdcd", null ],
-    [ "EnterEvadeMode", "de/d4f/a23244.html#a2b906881621e59143a916c588beb70e7", null ],
-    [ "ExecuteEvent", "de/d4f/a23244.html#a46b477aef635de1d3ec88baa2465089f", null ],
-    [ "JustDied", "de/d4f/a23244.html#af2fc7c071321653a644ee569ead67d63", null ],
-    [ "JustEngagedWith", "de/d4f/a23244.html#aaffc4f54544c8aa4529b249560ddeeec", null ],
-    [ "Submerge", "de/d4f/a23244.html#aad68758720cc1cb703f8f2dc72c09af2", null ]
+    [ "instance_serpentshrine_cavern_InstanceMapScript", "de/d4f/a23244.html#a3e83985648f2951ee33d440c9c98bf72", null ],
+    [ "GetData", "de/d4f/a23244.html#a9ea722d45efe2ee4eff041e480ff1c79", null ],
+    [ "Initialize", "de/d4f/a23244.html#a8a2214e169acace8578c1863daf0a04c", null ],
+    [ "OnCreatureCreate", "de/d4f/a23244.html#ae5f77169c337420852962fe7ddba3006", null ],
+    [ "OnGameObjectCreate", "de/d4f/a23244.html#a9aeb7b25aa1446fff655b4c8fd6c47ad", null ],
+    [ "SetBossState", "de/d4f/a23244.html#ad2863bc954ae25a5d96d06db0250cda3", null ],
+    [ "SetData", "de/d4f/a23244.html#af3ca65eef9902a029f5b836d0b6fd58a", null ],
+    [ "_aliveKeepersCount", "de/d4f/a23244.html#a85b7cbeab4149b0a379f27bdb459cfd7", null ],
+    [ "_shieldGeneratorGUID", "de/d4f/a23244.html#a570b73c8ecd0e1ab6ac2889405be6ef0", null ]
 ];

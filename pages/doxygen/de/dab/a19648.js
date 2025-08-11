@@ -1,28 +1,6 @@
 var a19648 =
 [
-    [ "boss_algalon_the_observerAI", "de/dab/a19648.html#a2c2d990919a6f5cba8ff8127199195e3", null ],
-    [ "AttackStart", "de/dab/a19648.html#a2631ccc7111d01735a97244838ca9c27", null ],
-    [ "CallConstellations", "de/dab/a19648.html#a564415931ad23ee369f2df503ce9c561", null ],
-    [ "DamageTaken", "de/dab/a19648.html#a5f96871a1fb8ecb0e6d861d96601876d", null ],
-    [ "DoAction", "de/dab/a19648.html#a931e8e5178a0e1d201e002ef06d9af3e", null ],
-    [ "DoCheckHeraldOfTheTitans", "de/dab/a19648.html#a68cf28542db34f6d5784218085dc0d4c", null ],
-    [ "EnterEvadeMode", "de/dab/a19648.html#aa114e1b79dc128fbad06223039f5d57a", null ],
-    [ "GetData", "de/dab/a19648.html#acc68df65e98350c9bd8d8838ebc5d926", null ],
-    [ "IsInRoom", "de/dab/a19648.html#a85f55d3a1f0dae6f5015310b7aa47e2c", null ],
-    [ "IsValidHeraldItem", "de/dab/a19648.html#ab9498202d44b60655f877dd751201c11", null ],
-    [ "JustEngagedWith", "de/dab/a19648.html#acc87dc30d4b60f111d1ffd6718f38959", null ],
-    [ "JustReachedHome", "de/dab/a19648.html#a9a506424f408f3574f8dfbaf099b37e9", null ],
-    [ "JustSummoned", "de/dab/a19648.html#af2d96586fd35513073e22ccd1dafc109", null ],
-    [ "KilledUnit", "de/dab/a19648.html#a4f4a9ae8f0513ace5965ec37ae7afe36", null ],
-    [ "MovementInform", "de/dab/a19648.html#aeeedd56277bd2b6a91fbdf29a4fc5016", null ],
-    [ "Reset", "de/dab/a19648.html#aa770123f55cbe8dd0fa6107fcc101a22", null ],
-    [ "UpdateAI", "de/dab/a19648.html#aa699ab825076fd56f54084708087d871", null ],
-    [ "_fedOnTears", "de/dab/a19648.html#a14aaf7e154db5ad43cee0524f3c2fbb0", null ],
-    [ "_fightWon", "de/dab/a19648.html#a15bd59c5e9be39fb57b4511f22c093f4", null ],
-    [ "_firstPull", "de/dab/a19648.html#a0123d20ad380467522167c1612ab34e6", null ],
-    [ "_heraldOfTheTitans", "de/dab/a19648.html#a9f81cbf1360db8c8e1a9646cf31cf4b6", null ],
-    [ "_phaseTwo", "de/dab/a19648.html#a2176501407dd0bf927806a87b22f87d2", null ],
-    [ "events", "de/dab/a19648.html#aa79c8c65f5ac56558d24416e00fdf003", null ],
-    [ "m_pInstance", "de/dab/a19648.html#a4901167c02871f8228de44cd92b5e7db", null ],
-    [ "summons", "de/dab/a19648.html#abe084c0ec13623e078e79a3fb9a1e080", null ]
+    [ "dark_rune_stormcallerAI", "d6/d1b/a19652.html", "d6/d1b/a19652" ],
+    [ "dark_rune_stormcaller", "de/dab/a19648.html#ab31774011fc3e1e8ffa1a3b7c5cbfbcc", null ],
+    [ "GetAI", "de/dab/a19648.html#a9072aaf482106cfae0d3901507b47f60", null ]
 ];

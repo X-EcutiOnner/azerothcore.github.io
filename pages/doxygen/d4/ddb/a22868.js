@@ -1,6 +1,7 @@
 var a22868 =
 [
-    [ "boss_essence_of_sufferingAI", "de/d58/a22872.html", "de/d58/a22872" ],
-    [ "boss_essence_of_suffering", "d4/ddb/a22868.html#a1237f428657f0e9a0218695264358384", null ],
-    [ "GetAI", "d4/ddb/a22868.html#adb54519bdf220cb3e30c81627c1ba11a", null ]
+    [ "PrepareAuraScript", "d4/ddb/a22868.html#afb2e94c1e67b12b7350d83241b3f2864", null ],
+    [ "Register", "d4/ddb/a22868.html#a0a5ac432eca09206ac032317e8aa8cfc", null ],
+    [ "Update", "d4/ddb/a22868.html#aa0da369c2047df144c4a9af37a2ea13c", null ],
+    [ "Validate", "d4/ddb/a22868.html#a70248cfa468dfb3a97ea7f8b6848bc5f", null ]
 ];

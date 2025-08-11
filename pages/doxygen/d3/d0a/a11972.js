@@ -1,6 +1,7 @@
 var a11972 =
 [
-    [ "instance_blackrock_depths_InstanceMapScript", "d4/dea/a11976.html", "d4/dea/a11976" ],
-    [ "instance_blackrock_depths", "d3/d0a/a11972.html#a8d906bdb520b2c7907b94b0e22b5cdf4", null ],
-    [ "GetInstanceScript", "d3/d0a/a11972.html#af8f8c9929cae50c098efc5a0dbdd727a", null ]
+    [ "boss_moira_bronzebeardAI", "d3/d0a/a11972.html#a11265b6aad76574c2c76253128c79165", null ],
+    [ "CastOnEmperorIfPossible", "d3/d0a/a11972.html#a3f42c37e9f4cc14974106bf67ee4e583", null ],
+    [ "JustEngagedWith", "d3/d0a/a11972.html#a40ae00eb86e2bec048a9394d4deef106", null ],
+    [ "UpdateAI", "d3/d0a/a11972.html#ae3f22a059330fb564cd30e581fc0198d", null ]
 ];

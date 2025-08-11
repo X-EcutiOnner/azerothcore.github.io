@@ -1,6 +1,12 @@
 var a21556 =
 [
-    [ "npc_valiance_keep_cannoneerAI", "dc/d82/a21560.html", "dc/d82/a21560" ],
-    [ "npc_valiance_keep_cannoneer", "d9/dce/a21556.html#a11f6060a7c6cd7be60001f5c259c94d3", null ],
-    [ "GetAI", "d9/dce/a21556.html#a8bfc1505dedee28d1517ba6a7738ffd5", null ]
+    [ "npc_beryl_sorcererAI", "d9/dce/a21556.html#a8f99f5f2ad6ccb1b068a86904bb1b864", null ],
+    [ "Initialize", "d9/dce/a21556.html#a40400e4e993d20d9bbe4faf063102521", null ],
+    [ "JustEngagedWith", "d9/dce/a21556.html#afae877e8dac583c9420d214f77c2b438", null ],
+    [ "Reset", "d9/dce/a21556.html#a17a16337c09013483c58cae38576d969", null ],
+    [ "SpellHit", "d9/dce/a21556.html#a762ee3ae8df3757279821af13101e0be", null ],
+    [ "UpdateAI", "d9/dce/a21556.html#a42ec665b06988d13be6cbee646afc898", null ],
+    [ "_chainsCast", "d9/dce/a21556.html#ab6238d539b10a7db9191bdc685ea67eb", null ],
+    [ "_events", "d9/dce/a21556.html#ac640099ca01ae2183b84ae9ee3407cc1", null ],
+    [ "_playerGUID", "d9/dce/a21556.html#a96f9b39c09b7a5fb484ae9069412751f", null ]
 ];

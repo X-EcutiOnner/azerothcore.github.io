@@ -1,7 +1,6 @@
 var a20724 =
 [
-    [ "npc_xt002_life_sparkAI", "d4/d3b/a20724.html#a763ec1834d3b71c88bfa80bc0e34966a", null ],
-    [ "Reset", "d4/d3b/a20724.html#a596e2ed45b9221915781b03bf2d18e5b", null ],
-    [ "UpdateAI", "d4/d3b/a20724.html#af0a1e717b08b2fa35dd4ff83778a87c1", null ],
-    [ "_attackTimer", "d4/d3b/a20724.html#a79bf005de95aa1fee60dfc73b8920dad", null ]
+    [ "npc_xt002_heartAI", "de/df8/a20728.html", "de/df8/a20728" ],
+    [ "npc_xt002_heart", "d4/d3b/a20724.html#ab914ce1e945080b873cf6f93e3a6a32c", null ],
+    [ "GetAI", "d4/d3b/a20724.html#af59c6623b97d1adff765e8ba4958d482", null ]
 ];

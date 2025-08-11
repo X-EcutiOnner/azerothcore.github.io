@@ -1,7 +1,8 @@
 var a13300 =
 [
-    [ "OnRemove", "d9/d0e/a13300.html#a2438d8c85ff2a446572286b0d058ecf1", null ],
-    [ "PrepareAuraScript", "d9/d0e/a13300.html#ade353aafb960cabdb615718f41f485e8", null ],
-    [ "Register", "d9/d0e/a13300.html#af1c312778a13f7fe8d174247f69258ac", null ],
-    [ "Validate", "d9/d0e/a13300.html#afd75cdeb9430833fa6a59d7913c86a97", null ]
+    [ "HandleApply", "d9/d0e/a13300.html#a2e07ffc92d44757fe2b074244048dbf4", null ],
+    [ "HandleRemove", "d9/d0e/a13300.html#ae0d8cb63cf62e5015daa56463524aa27", null ],
+    [ "PrepareAuraScript", "d9/d0e/a13300.html#a4a59bd5c9ce7b74d29cdd6132f94c0bf", null ],
+    [ "Register", "d9/d0e/a13300.html#a3b91d692ad34b7ce965887590780e146", null ],
+    [ "Validate", "d9/d0e/a13300.html#aa3ee5b49e9e1009d5be34214eefd2a6d", null ]
 ];

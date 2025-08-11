@@ -1,6 +1,13 @@
 var a17320 =
 [
-    [ "PrepareSpellScript", "d1/dea/a17320.html#a37899f12707930d038de38bae92c9aff", null ],
-    [ "Register", "d1/dea/a17320.html#a3677d2e7db842f899e6e2d2c8c9a3d42", null ],
-    [ "SelectDest", "d1/dea/a17320.html#a4caabf8afac621ef70bbbac1a2b5177e", null ]
+    [ "npc_kinetic_bombAI", "d1/dea/a17320.html#a0f3852f332d4027b5a00a67e20ec886b", null ],
+    [ "DoAction", "d1/dea/a17320.html#a52e913b244e58f99745926d021dc0d95", null ],
+    [ "IsSummonedBy", "d1/dea/a17320.html#a03dc3870b23105bb1d0d207adefe2541", null ],
+    [ "Reset", "d1/dea/a17320.html#abf30320da7f6fc6a4f213b0c4b2b24ce", null ],
+    [ "UpdateAI", "d1/dea/a17320.html#a1ce9bf99879796652878990a773e6a2c", null ],
+    [ "_events", "d1/dea/a17320.html#a7b14483f361a90b1ff2c5de06d6dbbaf", null ],
+    [ "_groundZ", "d1/dea/a17320.html#ac4de8610671b000bdff5cf47f2aecd0f", null ],
+    [ "_x", "d1/dea/a17320.html#a5780cb1c041d7a57f75e0dbeadc27814", null ],
+    [ "_y", "d1/dea/a17320.html#a5d9f4039c87e1e57234af51cd4617022", null ],
+    [ "exploded", "d1/dea/a17320.html#a1391f0fffa2f57cbb630b34bfc78aa64", null ]
 ];

@@ -1,5 +1,6 @@
 var a26992 =
 [
-    [ "achievement_bg_av_perfection", "d2/d5a/a26992.html#a8a0ef996bdb1244026268922b301184c", null ],
-    [ "OnCheck", "d2/d5a/a26992.html#a17e700c17b5144b571f2aeed92a77749", null ]
+    [ "HandleOnHit", "d2/d5a/a26992.html#a32a6f464057fbfb3bbffe0e10d1d4141", null ],
+    [ "PrepareSpellScript", "d2/d5a/a26992.html#adfa4da76e8c2486fbcc2b3bea0f50005", null ],
+    [ "Register", "d2/d5a/a26992.html#a1742dc0c039f7f981cae8114ff9ae59a", null ]
 ];

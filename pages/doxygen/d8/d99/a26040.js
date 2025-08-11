@@ -1,8 +1,10 @@
 var a26040 =
 [
-    [ "HandleApply", "d8/d99/a26040.html#aafdf3712f163919f010d11d0becb398f", null ],
-    [ "HandleRemove", "d8/d99/a26040.html#ac3e33cb37d13b633f3938a48917a4975", null ],
-    [ "PrepareAuraScript", "d8/d99/a26040.html#a42590a0ef43a48c5309f995f9bec5c9b", null ],
-    [ "Register", "d8/d99/a26040.html#a84e7337494dc2e1772ca10dea26c675f", null ],
-    [ "Validate", "d8/d99/a26040.html#ac2558aafb3ce66ca7bbfd718eb8c6338", null ]
+    [ "AfterCheckProc", "d8/d99/a26040.html#aa6f32a97ece5fc68c0b0a2cfa36e33eb", null ],
+    [ "HandleProc", "d8/d99/a26040.html#a613182c741769d0983206bdfa89242f6", null ],
+    [ "PrepareAuraScript", "d8/d99/a26040.html#a4f614fe81d829d8a1ceb7500f9557948", null ],
+    [ "Register", "d8/d99/a26040.html#acd807de02a83a97a78572d672fb16027", null ],
+    [ "Validate", "d8/d99/a26040.html#a3d2d6f1a00825ac66f507a790f468198", null ],
+    [ "_spellInfo", "d8/d99/a26040.html#a66a5eb4caa7b43c34b2830d9a3d2f994", null ],
+    [ "_ticksModifier", "d8/d99/a26040.html#ae23b54499fff879a096bd459e264c4f0", null ]
 ];

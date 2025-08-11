@@ -1,6 +1,7 @@
 var a15392 =
 [
-    [ "npc_tiger_matriarch_creditAI", "da/d1a/a15392.html#a628772971a9c2a190ffe2fae6b0b6865", null ],
-    [ "UpdateAI", "da/d1a/a15392.html#a0fc7ca1313a21c5f74539ce2dbd7465d", null ],
-    [ "events", "da/d1a/a15392.html#ae96e0de4a36dde3237520e8a0ddd9f5f", null ]
+    [ "npc_prospector_remtravelAI", "d0/ddb/a15396.html", "d0/ddb/a15396" ],
+    [ "npc_prospector_remtravel", "da/d1a/a15392.html#aa213161fc60e615682252125f6c58f7f", null ],
+    [ "GetAI", "da/d1a/a15392.html#aa8e1bb551036684b05c1b3bea4c66b1d", null ],
+    [ "OnQuestAccept", "da/d1a/a15392.html#a5e11149b6359927a71c98242d979e65b", null ]
 ];

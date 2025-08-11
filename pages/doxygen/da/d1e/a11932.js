@@ -1,7 +1,6 @@
 var a11932 =
 [
-    [ "boss_moira_bronzebeardAI", "da/d1e/a11932.html#a11265b6aad76574c2c76253128c79165", null ],
-    [ "CastOnEmperorIfPossible", "da/d1e/a11932.html#a3f42c37e9f4cc14974106bf67ee4e583", null ],
-    [ "JustEngagedWith", "da/d1e/a11932.html#a40ae00eb86e2bec048a9394d4deef106", null ],
-    [ "UpdateAI", "da/d1e/a11932.html#ae3f22a059330fb564cd30e581fc0198d", null ]
+    [ "boss_gorosh_the_dervishAI", "de/dfd/a11936.html", "de/dfd/a11936" ],
+    [ "boss_gorosh_the_dervish", "da/d1e/a11932.html#a18c39f21ebf6a9d43d37eb92857083a3", null ],
+    [ "GetAI", "da/d1e/a11932.html#abae1fa2a7e959d1b7b02e0850aff4fb9", null ]
 ];

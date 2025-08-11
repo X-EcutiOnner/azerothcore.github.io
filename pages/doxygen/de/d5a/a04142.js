@@ -1,11 +1,6 @@
 var a04142 =
 [
-    [ "MCBossObject", "d7/df8/a12510.html", "d7/df8/a12510" ],
-    [ "instance_molten_core", "d7/d82/a12514.html", "d7/d82/a12514" ],
-    [ "instance_molten_core::instance_molten_core_InstanceMapScript", "d8/d01/a12518.html", "d8/d01/a12518" ],
-    [ "AddSC_instance_molten_core", "de/d5a/a04142.html#aa908fb56c2f024e5bfcb38bc98b849ab", null ],
-    [ "linkedBossObjData", "de/d5a/a04142.html#a69ab269a27b57bb4b00d3eee95db589e", null ],
-    [ "MAX_MC_LINKED_BOSS_OBJ", "de/d5a/a04142.html#a398f000c29691c6a24707190dc4a4024", null ],
-    [ "minionData", "de/d5a/a04142.html#a6720238df140a3c574a711042b7f5bd3", null ],
-    [ "SAY_SPAWN", "de/d5a/a04142.html#a1712840a822c3d823764d3c974c6ea31", null ]
+    [ "CharacterDatabase", "de/d5a/a04142.html#af8239cd04c4137e1e621226a6d919ed4", null ],
+    [ "LoginDatabase", "de/d5a/a04142.html#ae753c5c60b556b0cb7998e7424be5cbf", null ],
+    [ "WorldDatabase", "de/d5a/a04142.html#af42e9d262f732792d1e81568ae38ea2e", null ]
 ];

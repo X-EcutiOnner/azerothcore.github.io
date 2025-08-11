@@ -1,18 +1,7 @@
 var a14972 =
 [
-    [ "boss_ossirian", "db/d3a/a14972.html#ab03a53ee2c0dc70ab86328e9a7ad1495", null ],
-    [ "InitializeAI", "db/d3a/a14972.html#a76731e2594cfadf5305d8abc502f665a", null ],
-    [ "JustEngagedWith", "db/d3a/a14972.html#a78616bb875bd51d5727e85d0b65d1a73", null ],
-    [ "JustSummoned", "db/d3a/a14972.html#ad462996cd1b12395f6cdaa33a7b876f1", null ],
-    [ "KilledUnit", "db/d3a/a14972.html#a716acecfc8e38eb663557fafb56719fd", null ],
-    [ "MoveInLineOfSight", "db/d3a/a14972.html#a16aa4ac59c1c8f6f844c311745b6e969", null ],
-    [ "Reset", "db/d3a/a14972.html#a17a31cf7827cdb904efa64d954b19c4a", null ],
-    [ "SetGUID", "db/d3a/a14972.html#a20dcef7e211a7aecbf46ecf6ba3d3fed", null ],
-    [ "SpawnNextCrystal", "db/d3a/a14972.html#a2a95c315af6a9e2bcedc8a9c9a9d9789", null ],
-    [ "SpellHit", "db/d3a/a14972.html#a0b5b92a9bce9a5dd0054cb833a56d32f", null ],
-    [ "SummonedCreatureDespawn", "db/d3a/a14972.html#a5c3ac7bddf52e2390f91599bb3ce3a64", null ],
-    [ "UpdateAI", "db/d3a/a14972.html#a8f3822d1cc3354efa5292d88fedd4087", null ],
-    [ "_crystalIterator", "db/d3a/a14972.html#adc049248fa851c954d5fcbf643d47c16", null ],
-    [ "_firstCrystalGUID", "db/d3a/a14972.html#a498d562d4ceeaecc6a01047bc4559235", null ],
-    [ "_saidIntro", "db/d3a/a14972.html#a5a9b0b7ae7421a4554f4c4abc8850220", null ]
+    [ "HandleScript", "db/d3a/a14972.html#a8aea4a40472aec4cbb7001fbd63db24c", null ],
+    [ "Load", "db/d3a/a14972.html#a2dc1edf537f58133fb4daabde9f43843", null ],
+    [ "PrepareSpellScript", "db/d3a/a14972.html#ae856c6e70ededa95c0308596a9f980af", null ],
+    [ "Register", "db/d3a/a14972.html#ac2e82c7e626658faa968f75c26688b43", null ]
 ];

@@ -1,12 +1,6 @@
 var a23384 =
 [
-    [ "boss_swamplord_muselek", "da/d37/a23384.html#a94ca982b8b9c1785a59040d23e72fc0e", null ],
-    [ "AttackStart", "da/d37/a23384.html#a0732fdf14c972ae955eb43417a6d86a1", null ],
-    [ "CanShootVictim", "da/d37/a23384.html#af84af5e4b344fc5f5da9f2047519710a", null ],
-    [ "JustDied", "da/d37/a23384.html#a4020748c43bf03cb338e3d64a1dfd840", null ],
-    [ "JustEngagedWith", "da/d37/a23384.html#a7b22bff5b78dcd1e5e1cc42858735655", null ],
-    [ "KilledUnit", "da/d37/a23384.html#a9f2afd6aacb9befa956079a42fbace37", null ],
-    [ "Reset", "da/d37/a23384.html#a6e03d7feca2de668c82d8f056d95fc6a", null ],
-    [ "_canChase", "da/d37/a23384.html#aca3298f0e9bbbd7366f4e6456cfff621", null ],
-    [ "_markTarget", "da/d37/a23384.html#a957d3f9ad935dbfa0537c75e39316ce3", null ]
+    [ "instance_steam_vault_InstanceMapScript", "dc/dc0/a23388.html", "dc/dc0/a23388" ],
+    [ "instance_steam_vault", "da/d37/a23384.html#aa3417083841ccb50c8a2f29ba343e115", null ],
+    [ "GetInstanceScript", "da/d37/a23384.html#a3a2edb84cc7067d3c8fa2151b4763c5a", null ]
 ];

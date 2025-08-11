@@ -1,6 +1,8 @@
 var a23732 =
 [
-    [ "instance_the_botanica_InstanceMapScript", "dc/da1/a23736.html", "dc/da1/a23736" ],
-    [ "instance_the_botanica", "dc/da3/a23732.html#a8f8acda65f37e45e2439707f3979cf7c", null ],
-    [ "GetInstanceScript", "dc/da3/a23732.html#a335f671443ca0fb9db5956cefdf37182", null ]
+    [ "boss_commander_sarannis", "dc/da3/a23732.html#ace0957feb37f864798008849be25f607", null ],
+    [ "JustDied", "dc/da3/a23732.html#a7796429f04c049549a4a02a1eb8d35fc", null ],
+    [ "JustEngagedWith", "dc/da3/a23732.html#ad4273db7c169c6cfa9917dd3b76c9c95", null ],
+    [ "KilledUnit", "dc/da3/a23732.html#a64e77321adc5eea9d3494a3e1030f9de", null ],
+    [ "ScheduleReinforcements", "dc/da3/a23732.html#a293f0b860a66396a30c6d255eef85309", null ]
 ];

@@ -1,7 +1,15 @@
 var a22676 =
 [
-    [ "HandleProc", "de/d72/a22676.html#a4d12ab1b286105fdad5eb2dd20131408", null ],
-    [ "PrepareAuraScript", "de/d72/a22676.html#a94b6499dc2e1fa95a50bd9c3c491e858", null ],
-    [ "Register", "de/d72/a22676.html#a6b764182501a1d192f90dc20bbd6549e", null ],
-    [ "Validate", "de/d72/a22676.html#ad89123425cca5bd02a18526a11595a1a", null ]
+    [ "boss_grandmaster_vorpil", "de/d72/a22676.html#a0196ae46acba9c640b6fdfe30ac63f31", null ],
+    [ "counterVoidSpawns", "de/d72/a22676.html#a7a7c5679fe784025423119dd31d0e6ef", null ],
+    [ "JustDied", "de/d72/a22676.html#ab492fff8a9a275c662b44eeff3300b90", null ],
+    [ "JustEngagedWith", "de/d72/a22676.html#af1e6da02cd33742efad568424cf32c4f", null ],
+    [ "JustSummoned", "de/d72/a22676.html#a8a661b495d7fca340f3bd291d34ab3fc", null ],
+    [ "KilledUnit", "de/d72/a22676.html#af7779029f926e6d1c805b2f6c78cfd06", null ],
+    [ "MoveInLineOfSight", "de/d72/a22676.html#adb24a3d337b64f37759a3a39802d7e27", null ],
+    [ "Reset", "de/d72/a22676.html#a6471121ee02a834591b36d03fae28672", null ],
+    [ "spawnVoidTraveler", "de/d72/a22676.html#aa842bc3d88d0a3a411dcba3711809956", null ],
+    [ "summonPortals", "de/d72/a22676.html#a7cbdb7e7652dcac799b6f59424c8e9fd", null ],
+    [ "sayHelp", "de/d72/a22676.html#a3c83e1f9305fc17aebb4ec5f16225e17", null ],
+    [ "sayIntro", "de/d72/a22676.html#a5dd0edce19b33a1dd87d5b6e4458949f", null ]
 ];

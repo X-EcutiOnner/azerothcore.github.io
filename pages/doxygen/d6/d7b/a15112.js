@@ -1,8 +1,9 @@
 var a15112 =
 [
-    [ "npc_ouro_spawner", "d6/d7b/a15112.html#acb18739e5a1734312ffdda35321e5f34", null ],
-    [ "JustSummoned", "d6/d7b/a15112.html#a722dada5bf97c730462a0de2b082d5ff", null ],
-    [ "MoveInLineOfSight", "d6/d7b/a15112.html#a83c0972db4435ccf1af069574e4056f4", null ],
-    [ "Reset", "d6/d7b/a15112.html#ac1591f1c172bfdda25b020e00cd0835e", null ],
-    [ "hasSummoned", "d6/d7b/a15112.html#a6ac376861c1206cc1551d9fa86c0fc97", null ]
+    [ "npc_claw_tentacle", "d6/d7b/a15112.html#a10f1c68d5f49dd1614e7e939498db37b", null ],
+    [ "JustDied", "d6/d7b/a15112.html#aa566b417d1b766668133dd1d6a58293f", null ],
+    [ "JustEngagedWith", "d6/d7b/a15112.html#a9fbe9b30f973d3c8509ab4bbfcfe5bcc", null ],
+    [ "Reset", "d6/d7b/a15112.html#aaf3a3380a33aadc2023d192dfa85cfb2", null ],
+    [ "UpdateAI", "d6/d7b/a15112.html#ae7d521445680167add653717c7ae4c86", null ],
+    [ "_portalGUID", "d6/d7b/a15112.html#ab979781a8f77267348595cfa17341bae", null ]
 ];

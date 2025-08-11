@@ -1,7 +1,7 @@
 var a17380 =
 [
-    [ "achievement_once_bitten_twice_shy", "d8/d8c/a17380.html#ac5799e847f8ee1e2b562e4a58a00df16", null ],
-    [ "OnCheck", "d8/d8c/a17380.html#aa2e3ac3e8a14b06446174e475ac18af3", null ],
-    [ "_spawnMode", "d8/d8c/a17380.html#a6f02f5ab07143ddff553279049714902", null ],
-    [ "_wasVampire", "d8/d8c/a17380.html#a297cf6da45b0cddb4dc9fc888919bdda", null ]
+    [ "PeriodicTick", "d8/d8c/a17380.html#af2419a9f9c8706e6b9a090e88f1b6f78", null ],
+    [ "PrepareAuraScript", "d8/d8c/a17380.html#ac1abcbe62887678adad0194fdf27825a", null ],
+    [ "Register", "d8/d8c/a17380.html#a9c92c88bf261f1da2143e7dee41a77ec", null ],
+    [ "Validate", "d8/d8c/a17380.html#ae7526fcf963fe4ea3ab2f1ec7292e8d8", null ]
 ];

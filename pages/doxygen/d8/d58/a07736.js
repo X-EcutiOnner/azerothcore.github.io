@@ -1,5 +1,5 @@
 var a07736 =
 [
-    [ "Glyph", "d8/d58/a07736.html#a99ef57f9c0bbab04953bd6edcf5b83f2", null ],
-    [ "Slot", "d8/d58/a07736.html#acc79672f4bddb27eb980b6aac19f83ec", null ]
+    [ "IsColorValid", "d8/d58/a07736.html#a4bb1cd2a247136daadfa36f85b50a65d", null ],
+    [ "IsTextValid", "d8/d58/a07736.html#a25b0d16c232ab67fc75a81a494fb5815", null ]
 ];

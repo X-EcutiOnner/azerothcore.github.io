@@ -1,7 +1,6 @@
 var a14912 =
 [
-    [ "npc_hive_zara_larva", "d6/d12/a14912.html#a50fb5738d7b0818689216fee0915a0de", null ],
-    [ "JustSummoned", "d6/d12/a14912.html#a2a1d80f70ae265b1db50e3a7165fa099", null ],
-    [ "MovementInform", "d6/d12/a14912.html#a6890c58106450d654062f548a80cb42f", null ],
-    [ "_instance", "d6/d12/a14912.html#aa8333a25c0e184dd75db580b03ef9cb2", null ]
+    [ "instance_ragefire_chasm_InstanceMapScript", "de/d23/a14916.html", "de/d23/a14916" ],
+    [ "instance_ragefire_chasm", "d6/d12/a14912.html#ab7f27d3e73b24d16dcf9b114f7dd4b36", null ],
+    [ "GetInstanceScript", "d6/d12/a14912.html#a0568996a61ef91688b9f223cb3782e5a", null ]
 ];

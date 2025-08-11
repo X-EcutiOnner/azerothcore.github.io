@@ -1,7 +1,7 @@
 var a13732 =
 [
-    [ "npc_daphne_stilwellAI", "d6/d7a/a13736.html", "d6/d7a/a13736" ],
-    [ "npc_daphne_stilwell", "de/d2f/a13732.html#ad844c5f0409936d7068ee55271506041", null ],
-    [ "GetAI", "de/d2f/a13732.html#af1872100f3eeb14e894277cfc8e1a74b", null ],
-    [ "OnQuestAccept", "de/d2f/a13732.html#ad7b293efc802506a825f202e34cb0f4d", null ]
+    [ "boss_blight_wormAI", "de/d2f/a13732.html#af267e395fbd539f871e498dc6745c610", null ],
+    [ "Reset", "de/d2f/a13732.html#a96e27eaba5c9e422981d78123ed9c83d", null ],
+    [ "UpdateAI", "de/d2f/a13732.html#ac8e4c5a7a251173a2afb369498c88a1d", null ],
+    [ "_events", "de/d2f/a13732.html#a65f7fd4f73c727eeb5988d7ec77b94ce", null ]
 ];

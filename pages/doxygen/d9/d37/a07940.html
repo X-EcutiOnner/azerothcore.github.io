@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: lfg::LfgPlayerBoot Struct Reference</title>
+<title>AzerothCore: lfg::LfgProposalPlayer Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,121 +105,111 @@ $(document).ready(function(){initNavTree('d9/d37/a07940.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
+<a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../d1/d89/a07937.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">lfg::LfgPlayerBoot Struct Reference</div></div>
+  <div class="headertitle"><div class="title">lfg::LfgProposalPlayer Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
 <p><code>#include &quot;<a class="el" href="../../">LFGMgr.h</a>&quot;</code></p>
 <table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
+Public Member Functions</h2></td></tr>
+<tr class="memitem:a80f7d0f3597201dc7fca4d08dd3b7a38"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d37/a07940.html#a80f7d0f3597201dc7fca4d08dd3b7a38">LfgProposalPlayer</a> ()=default</td></tr>
+<tr class="separator:a80f7d0f3597201dc7fca4d08dd3b7a38"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a5fe6d6ede54a1f1228e29fc7ef55a413"><td class="memItemLeft" align="right" valign="top">time_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d37/a07940.html#a5fe6d6ede54a1f1228e29fc7ef55a413">cancelTime</a></td></tr>
-<tr class="memdesc:a5fe6d6ede54a1f1228e29fc7ef55a413"><td class="mdescLeft">&#160;</td><td class="mdescRight">Time left to vote.  <a href="../../d9/d37/a07940.html#a5fe6d6ede54a1f1228e29fc7ef55a413">More...</a><br /></td></tr>
-<tr class="separator:a5fe6d6ede54a1f1228e29fc7ef55a413"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8f3eddc8fbca950f184b6fb8b400344e"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d37/a07940.html#a8f3eddc8fbca950f184b6fb8b400344e">inProgress</a></td></tr>
-<tr class="memdesc:a8f3eddc8fbca950f184b6fb8b400344e"><td class="mdescLeft">&#160;</td><td class="mdescRight">Vote in progress.  <a href="../../d9/d37/a07940.html#a8f3eddc8fbca950f184b6fb8b400344e">More...</a><br /></td></tr>
-<tr class="separator:a8f3eddc8fbca950f184b6fb8b400344e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7619305fea30cc7fdc47f0a7ee365304"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/de6/a04814.html#a24a94f53e8d64ec14618126aff5fb965">LfgAnswerContainer</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d37/a07940.html#a7619305fea30cc7fdc47f0a7ee365304">votes</a></td></tr>
-<tr class="memdesc:a7619305fea30cc7fdc47f0a7ee365304"><td class="mdescLeft">&#160;</td><td class="mdescRight"><a class="el" href="../../da/dd6/a08596.html">Player</a> votes (-1 not answer | 0 Not agree | 1 agree)  <a href="../../d9/d37/a07940.html#a7619305fea30cc7fdc47f0a7ee365304">More...</a><br /></td></tr>
-<tr class="separator:a7619305fea30cc7fdc47f0a7ee365304"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a949262b4b3cbe0f813aae4fab704e7d2"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d9f/a08400.html">ObjectGuid</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d37/a07940.html#a949262b4b3cbe0f813aae4fab704e7d2">victim</a></td></tr>
-<tr class="memdesc:a949262b4b3cbe0f813aae4fab704e7d2"><td class="mdescLeft">&#160;</td><td class="mdescRight"><a class="el" href="../../da/dd6/a08596.html">Player</a> guid to be kicked (can't vote)  <a href="../../d9/d37/a07940.html#a949262b4b3cbe0f813aae4fab704e7d2">More...</a><br /></td></tr>
-<tr class="separator:a949262b4b3cbe0f813aae4fab704e7d2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a279a5575ca0956266ae81b7a165874cf"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d37/a07940.html#a279a5575ca0956266ae81b7a165874cf">reason</a></td></tr>
-<tr class="memdesc:a279a5575ca0956266ae81b7a165874cf"><td class="mdescLeft">&#160;</td><td class="mdescRight">kick reason  <a href="../../d9/d37/a07940.html#a279a5575ca0956266ae81b7a165874cf">More...</a><br /></td></tr>
-<tr class="separator:a279a5575ca0956266ae81b7a165874cf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a54ab4a0f32cc3abc7489fc9c3655fe99"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/d27/a04301.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d37/a07940.html#a54ab4a0f32cc3abc7489fc9c3655fe99">role</a> {0}</td></tr>
+<tr class="memdesc:a54ab4a0f32cc3abc7489fc9c3655fe99"><td class="mdescLeft">&#160;</td><td class="mdescRight">Proposed role.  <a href="../../d9/d37/a07940.html#a54ab4a0f32cc3abc7489fc9c3655fe99">More...</a><br /></td></tr>
+<tr class="separator:a54ab4a0f32cc3abc7489fc9c3655fe99"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acbf0ce1e12307569487096dc5ca544a6"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/df5/a04826.html#a2f2c28e4e9ecf4a98d75b74d622161c5">LfgAnswer</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d37/a07940.html#acbf0ce1e12307569487096dc5ca544a6">accept</a> {<a class="el" href="../../d6/df5/a04826.html#a2f2c28e4e9ecf4a98d75b74d622161c5a867e512f38813d5c2df36fb428caf084">LFG_ANSWER_PENDING</a>}</td></tr>
+<tr class="memdesc:acbf0ce1e12307569487096dc5ca544a6"><td class="mdescLeft">&#160;</td><td class="mdescRight">Accept status (-1 not answer | 0 Not agree | 1 agree)  <a href="../../d9/d37/a07940.html#acbf0ce1e12307569487096dc5ca544a6">More...</a><br /></td></tr>
+<tr class="separator:acbf0ce1e12307569487096dc5ca544a6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a900f24e9caaa1569eeea93b4284139a1"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d48/a08412.html">ObjectGuid</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d37/a07940.html#a900f24e9caaa1569eeea93b4284139a1">group</a></td></tr>
+<tr class="memdesc:a900f24e9caaa1569eeea93b4284139a1"><td class="mdescLeft">&#160;</td><td class="mdescRight">Original group guid. 0 if no original group.  <a href="../../d9/d37/a07940.html#a900f24e9caaa1569eeea93b4284139a1">More...</a><br /></td></tr>
+<tr class="separator:a900f24e9caaa1569eeea93b4284139a1"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Member Data Documentation</h2>
-<a id="a5fe6d6ede54a1f1228e29fc7ef55a413" name="a5fe6d6ede54a1f1228e29fc7ef55a413"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5fe6d6ede54a1f1228e29fc7ef55a413">&#9670;&#160;</a></span>cancelTime</h2>
+<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="a80f7d0f3597201dc7fca4d08dd3b7a38" name="a80f7d0f3597201dc7fca4d08dd3b7a38"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a80f7d0f3597201dc7fca4d08dd3b7a38">&#9670;&#160;</a></span>LfgProposalPlayer()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">lfg::LfgProposalPlayer::LfgProposalPlayer </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">default</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a id="acbf0ce1e12307569487096dc5ca544a6" name="acbf0ce1e12307569487096dc5ca544a6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acbf0ce1e12307569487096dc5ca544a6">&#9670;&#160;</a></span>accept</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">time_t lfg::LfgPlayerBoot::cancelTime</td>
+          <td class="memname"><a class="el" href="../../d6/df5/a04826.html#a2f2c28e4e9ecf4a98d75b74d622161c5">LfgAnswer</a> lfg::LfgProposalPlayer::accept {<a class="el" href="../../d6/df5/a04826.html#a2f2c28e4e9ecf4a98d75b74d622161c5a867e512f38813d5c2df36fb428caf084">LFG_ANSWER_PENDING</a>}</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p>Time left to vote. </p>
+<p>Accept status (-1 not answer | 0 Not agree | 1 agree) </p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l02022">lfg::LFGMgr::InitBoot()</a>, <a class="el" href="../../#l00507">WorldSession::SendLfgBootProposalUpdate()</a>, and <a class="el" href="../../#l00274">lfg::LFGMgr::Update()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00246">lfg::LFGQueue::CheckCompatibility()</a>, <a class="el" href="../../#l00539">WorldSession::SendLfgUpdateProposal()</a>, and <a class="el" href="../../#l01806">lfg::LFGMgr::UpdateProposal()</a>.</p>
 
 </div>
 </div>
-<a id="a8f3eddc8fbca950f184b6fb8b400344e" name="a8f3eddc8fbca950f184b6fb8b400344e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8f3eddc8fbca950f184b6fb8b400344e">&#9670;&#160;</a></span>inProgress</h2>
+<a id="a900f24e9caaa1569eeea93b4284139a1" name="a900f24e9caaa1569eeea93b4284139a1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a900f24e9caaa1569eeea93b4284139a1">&#9670;&#160;</a></span>group</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">bool lfg::LfgPlayerBoot::inProgress</td>
+          <td class="memname"><a class="el" href="../../d9/d48/a08412.html">ObjectGuid</a> lfg::LfgProposalPlayer::group</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p>Vote in progress. </p>
+<p>Original group guid. 0 if no original group. </p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l02022">lfg::LFGMgr::InitBoot()</a>, <a class="el" href="../../#l00507">WorldSession::SendLfgBootProposalUpdate()</a>, <a class="el" href="../../#l00274">lfg::LFGMgr::Update()</a>, and <a class="el" href="../../#l02056">lfg::LFGMgr::UpdateBoot()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00246">lfg::LFGQueue::CheckCompatibility()</a>, and <a class="el" href="../../#l00539">WorldSession::SendLfgUpdateProposal()</a>.</p>
 
 </div>
 </div>
-<a id="a279a5575ca0956266ae81b7a165874cf" name="a279a5575ca0956266ae81b7a165874cf"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a279a5575ca0956266ae81b7a165874cf">&#9670;&#160;</a></span>reason</h2>
+<a id="a54ab4a0f32cc3abc7489fc9c3655fe99" name="a54ab4a0f32cc3abc7489fc9c3655fe99"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a54ab4a0f32cc3abc7489fc9c3655fe99">&#9670;&#160;</a></span>role</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">std::string lfg::LfgPlayerBoot::reason</td>
+          <td class="memname"><a class="el" href="../../d2/d27/a04301.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> lfg::LfgProposalPlayer::role {0}</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p>kick reason </p>
+<p>Proposed role. </p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l02022">lfg::LFGMgr::InitBoot()</a>, and <a class="el" href="../../#l00507">WorldSession::SendLfgBootProposalUpdate()</a>.</p>
-
-</div>
-</div>
-<a id="a949262b4b3cbe0f813aae4fab704e7d2" name="a949262b4b3cbe0f813aae4fab704e7d2"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a949262b4b3cbe0f813aae4fab704e7d2">&#9670;&#160;</a></span>victim</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/d9f/a08400.html">ObjectGuid</a> lfg::LfgPlayerBoot::victim</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p><a class="el" href="../../da/dd6/a08596.html">Player</a> guid to be kicked (can't vote) </p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l02022">lfg::LFGMgr::InitBoot()</a>, <a class="el" href="../../#l00507">WorldSession::SendLfgBootProposalUpdate()</a>, <a class="el" href="../../#l00274">lfg::LFGMgr::Update()</a>, and <a class="el" href="../../#l02056">lfg::LFGMgr::UpdateBoot()</a>.</p>
-
-</div>
-</div>
-<a id="a7619305fea30cc7fdc47f0a7ee365304" name="a7619305fea30cc7fdc47f0a7ee365304"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7619305fea30cc7fdc47f0a7ee365304">&#9670;&#160;</a></span>votes</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/de6/a04814.html#a24a94f53e8d64ec14618126aff5fb965">LfgAnswerContainer</a> lfg::LfgPlayerBoot::votes</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p><a class="el" href="../../da/dd6/a08596.html">Player</a> votes (-1 not answer | 0 Not agree | 1 agree) </p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l02022">lfg::LFGMgr::InitBoot()</a>, <a class="el" href="../../#l00507">WorldSession::SendLfgBootProposalUpdate()</a>, <a class="el" href="../../#l00274">lfg::LFGMgr::Update()</a>, and <a class="el" href="../../#l02056">lfg::LFGMgr::UpdateBoot()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00246">lfg::LFGQueue::CheckCompatibility()</a>, and <a class="el" href="../../#l00539">WorldSession::SendLfgUpdateProposal()</a>.</p>
 
 </div>
 </div>
@@ -228,8 +218,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d0/de6/a04814.html">lfg</a></li><li class="navelem"><a class="el" href="../../d9/d37/a07940.html">LfgPlayerBoot</a></li>
-    <li class="footer">Generated on Mon Jul 7 2025 20:49:44 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d6/df5/a04826.html">lfg</a></li><li class="navelem"><a class="el" href="../../d9/d37/a07940.html">LfgProposalPlayer</a></li>
+    <li class="footer">Generated on Mon Aug 11 2025 20:49:02 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

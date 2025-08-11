@@ -1,12 +1,14 @@
 var a21328 =
 [
-    [ "boss_moraggAI", "d9/d14/a21328.html#a3ae881c9adca20a2cb894af85297d53e", null ],
-    [ "EnterEvadeMode", "d9/d14/a21328.html#a4e70e42407f452c4685c732949fd2b52", null ],
-    [ "JustDied", "d9/d14/a21328.html#a97516e6ad5f7f35d0329674130e76dd3", null ],
-    [ "JustEngagedWith", "d9/d14/a21328.html#ab1d4d863a537a3c567eeda6f95f385ca", null ],
-    [ "MoveInLineOfSight", "d9/d14/a21328.html#a52a99d72dfa017baacb76717e6db931b", null ],
-    [ "Reset", "d9/d14/a21328.html#a8b7419c94e36b4b2292cf110a2eccb01", null ],
-    [ "UpdateAI", "d9/d14/a21328.html#aec7645eaae190d1e7982aae181ff9224", null ],
-    [ "events", "d9/d14/a21328.html#acd021e4216e3920f0534da95d69ba5eb", null ],
-    [ "pInstance", "d9/d14/a21328.html#a9f179ea9b180095a1e6df11b4842c5e5", null ]
+    [ "boss_erekemAI", "d9/d14/a21328.html#aedf10fef3f0f2ac6797efa5f5a809f4a", null ],
+    [ "EnterEvadeMode", "d9/d14/a21328.html#a2c9f8f444b3b28d5cfdbaa234e9d76ee", null ],
+    [ "GetChainHealTargetGUID", "d9/d14/a21328.html#aa346cbaded883bbb3806acf9cb32579a", null ],
+    [ "JustDied", "d9/d14/a21328.html#a12e7fb5389977dcacb4e1eadda771467", null ],
+    [ "JustEngagedWith", "d9/d14/a21328.html#ad380838dbb6c2a3488fa57f2999e137c", null ],
+    [ "KilledUnit", "d9/d14/a21328.html#a120a2c9a6af821ce9a5e68dbab6e800d", null ],
+    [ "MoveInLineOfSight", "d9/d14/a21328.html#a5905809cba20d426c4d222b1e91055bc", null ],
+    [ "Reset", "d9/d14/a21328.html#a338bbc123b1d3adef4f014c3302c4590", null ],
+    [ "UpdateAI", "d9/d14/a21328.html#a234ae447260ae30a137a53fb986e5dc4", null ],
+    [ "events", "d9/d14/a21328.html#a8d4445b6d35f534061818f7708f39f7e", null ],
+    [ "pInstance", "d9/d14/a21328.html#aa68ece744a21ed2ef8d3e7c4b4081d8e", null ]
 ];

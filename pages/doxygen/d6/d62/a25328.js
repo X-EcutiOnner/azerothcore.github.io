@@ -1,6 +1,8 @@
 var a25328 =
 [
-    [ "CalculateAmount", "d6/d62/a25328.html#ac0018b57967a3d3ae71aa81745032f15", null ],
-    [ "PrepareAuraScript", "d6/d62/a25328.html#ab249a493050c5527eeec8913e94cfc64", null ],
-    [ "Register", "d6/d62/a25328.html#a8f078f8370eacba197ceb2068b6a538d", null ]
+    [ "OnApply", "d6/d62/a25328.html#acf25199409ab6f991db15a784749aaf1", null ],
+    [ "OnRemove", "d6/d62/a25328.html#a700513c27a2ae22581bbc61c8c4b523a", null ],
+    [ "PrepareAuraScript", "d6/d62/a25328.html#ae6f93ab542d8f05a95745d7b10d1856a", null ],
+    [ "Register", "d6/d62/a25328.html#a9332cb72f66e83f648b4ed02c8c074eb", null ],
+    [ "Validate", "d6/d62/a25328.html#a09017d12ecf0ae0c3091cea17640782c", null ]
 ];

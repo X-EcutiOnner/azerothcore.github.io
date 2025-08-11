@@ -1,8 +1,11 @@
 var a13248 =
 [
-    [ "npc_demonic_vapor", "dc/df4/a13248.html#aee2e1b7372b8125b49e8466a2406ff00", null ],
-    [ "IsSummonedBy", "dc/df4/a13248.html#ace56fe54dc6d3f597df0d1e28924082f", null ],
-    [ "Reset", "dc/df4/a13248.html#a7d2b88ab26904cedaac34f03567806bc", null ],
-    [ "UpdateAI", "dc/df4/a13248.html#a6637d2d5fc6615c2d76aa0d04c36a047", null ],
-    [ "_timer", "dc/df4/a13248.html#ab067f5b9b9f37db4db9ab6e5295e5d52", null ]
+    [ "boss_alythess", "dc/df4/a13248.html#a707fbd0f310005a60d5ed4c05c9fc176", null ],
+    [ "AttackStart", "dc/df4/a13248.html#ac860cef30a96d020a7c729f63ac5ca4e", null ],
+    [ "DoAction", "dc/df4/a13248.html#aa2dc7ab74fa5bdb753475b2de1515855", null ],
+    [ "JustDied", "dc/df4/a13248.html#a5509c9f0d979a2d9d70a8f4f9e7971a0", null ],
+    [ "JustEngagedWith", "dc/df4/a13248.html#ac5047ee0124864304284c1142e885158", null ],
+    [ "KilledUnit", "dc/df4/a13248.html#a611d8c0a8fb9061e596ef0ac8f1fda88", null ],
+    [ "Reset", "dc/df4/a13248.html#ab5f990d305f42a2d00e182f617175672", null ],
+    [ "_isSisterDead", "dc/df4/a13248.html#a9f9fa0823685066b4990a17880782b9a", null ]
 ];

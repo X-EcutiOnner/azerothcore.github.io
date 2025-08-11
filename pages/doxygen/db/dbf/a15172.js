@@ -1,6 +1,7 @@
 var a15172 =
 [
-    [ "HandleOnHit", "db/dbf/a15172.html#abf5a21f1c88241024e6d3b3c5bffe449", null ],
-    [ "PrepareSpellScript", "db/dbf/a15172.html#aa78fc03dacb373c5108e6a5d92e035c6", null ],
-    [ "Register", "db/dbf/a15172.html#a1e608d67914c0071a913d96d70c625d6", null ]
+    [ "npc_sartura_royal_guard", "db/dbf/a15172.html#a3ce2aeec4e5f26916ef50bdeea624c9d", null ],
+    [ "JustEngagedWith", "db/dbf/a15172.html#a0b162e1fcc925f65fedbfe235b59eb0e", null ],
+    [ "Reset", "db/dbf/a15172.html#a2b604aada12ca7f3e712cdbd1a3f397a", null ],
+    [ "UpdateAI", "db/dbf/a15172.html#a2ed50f65847133c897facecbaa4711d8", null ]
 ];

@@ -1,18 +1,7 @@
 var a11480 =
 [
-    [ "WardenWin", "d7/d4b/a11480.html#ace17ee6e11a0c88478dc9f24c1c7db8f", null ],
-    [ "~WardenWin", "d7/d4b/a11480.html#ac1264c71c1e6f80fa70bf1794aa41368", null ],
-    [ "ForceChecks", "d7/d4b/a11480.html#a2a0e780572b1870f692803caa1ef673d", null ],
-    [ "GetModuleForClient", "d7/d4b/a11480.html#ad5dbc585ebb22eda2e1265f14129aa5c", null ],
-    [ "HandleData", "d7/d4b/a11480.html#a9860f6b2c0beb6d730b02c99e6172690", null ],
-    [ "HandleHashResult", "d7/d4b/a11480.html#a05ab06f2a7928affab20fd1b795a2d3f", null ],
-    [ "Init", "d7/d4b/a11480.html#a3222620148b84a4d95593800a83ba3fa", null ],
-    [ "InitializeModule", "d7/d4b/a11480.html#a2082c6a634c5b1f6cb63d376ff9a9695", null ],
-    [ "IsCheckInProgress", "d7/d4b/a11480.html#aee57f10f6f4f676908c54f305210b6bc", null ],
-    [ "RequestChecks", "d7/d4b/a11480.html#a9a3e9b53f66e97a615c288058b9adcf3", null ],
-    [ "RequestHash", "d7/d4b/a11480.html#abb53eb2b1d9dc95f8e77d12d4086c6c1", null ],
-    [ "_ChecksTodo", "d7/d4b/a11480.html#a61d85f3e94cb64aedbc977c74a64e0be", null ],
-    [ "_CurrentChecks", "d7/d4b/a11480.html#a9cb49a2629d08e0f54d363f81c284425", null ],
-    [ "_PendingChecks", "d7/d4b/a11480.html#a463e1f12600b12ddf54f762093ae57f0", null ],
-    [ "_serverTicks", "d7/d4b/a11480.html#a79e969e649fa057cd3a1a835837188c6", null ]
+    [ "CompressedData", "d7/d4b/a11480.html#a22e1d740e6c3094fea83eb1a44e40944", null ],
+    [ "CompressedSize", "d7/d4b/a11480.html#ab57879b41c825623a989db13a53f2f4e", null ],
+    [ "Id", "d7/d4b/a11480.html#af1e6a5cc01ee05432be5c41c88d84794", null ],
+    [ "Key", "d7/d4b/a11480.html#ad100540b5c6722a19c938b134a985aed", null ]
 ];

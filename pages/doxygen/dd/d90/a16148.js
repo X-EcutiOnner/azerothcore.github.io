@@ -1,6 +1,7 @@
 var a16148 =
 [
-    [ "npc_living_infernoAI", "dd/d90/a16148.html#ab33eeac6aab8e18778fc7d4ffe5038f1", null ],
-    [ "IsSummonedBy", "dd/d90/a16148.html#a4b6986a392aee0741ba47651e809c76c", null ],
-    [ "JustDied", "dd/d90/a16148.html#a60b2e31d24e182e97d604d91223e2dc8", null ]
+    [ "OnApply", "dd/d90/a16148.html#a2e4fa91ed7b3270a1addb8e5b3a85d74", null ],
+    [ "OnRemove", "dd/d90/a16148.html#a781994b0be4588f4df29399fc900ec69", null ],
+    [ "PrepareAuraScript", "dd/d90/a16148.html#aee648b80e7352edffb20fd60697e1d88", null ],
+    [ "Register", "dd/d90/a16148.html#a53c56711e31500f827123c08f44072cb", null ]
 ];

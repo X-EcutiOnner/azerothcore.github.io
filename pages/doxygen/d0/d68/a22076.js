@@ -1,6 +1,6 @@
 var a22076 =
 [
-    [ "npc_infra_green_bomber_genericAI", "d3/da2/a22080.html", "d3/da2/a22080" ],
-    [ "npc_infra_green_bomber_generic", "d0/d68/a22076.html#a39134a09376c35f15e99377cd28ac6ff", null ],
-    [ "GetAI", "d0/d68/a22076.html#ad21ce86a9c88f2ee77acb1d130fd4696", null ]
+    [ "npc_boneguard_footmanAI", "d0/d68/a22076.html#a04eff1976824724b321f0c0d95e0940a", null ],
+    [ "UpdateAI", "d0/d68/a22076.html#a9cba65867824daeb50cb2b39d68ad84b", null ],
+    [ "checkTimer", "d0/d68/a22076.html#a46dd1fa8d111dca0584a8e6fb7a6a566", null ]
 ];

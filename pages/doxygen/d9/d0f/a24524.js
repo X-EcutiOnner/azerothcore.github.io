@@ -1,7 +1,6 @@
 var a24524 =
 [
-    [ "CorpseExplosionCheck", "d9/d0f/a24524.html#aa8b7957705df1d878f5123ffa31a7fd7", null ],
-    [ "operator()", "d9/d0f/a24524.html#aeab379880a8d912d6d0f7b41639edbd4", null ],
-    [ "_allowGhoul", "d9/d0f/a24524.html#abd42a0731af969ceccdfceae722ba276", null ],
-    [ "_casterGUID", "d9/d0f/a24524.html#a497df87745f452716c652e9b1be6d46f", null ]
+    [ "HandleEffectApply", "d9/d0f/a24524.html#a4bc121ecc9357709ec2f1ea395d0b6b1", null ],
+    [ "PrepareAuraScript", "d9/d0f/a24524.html#ac7f16aed55aedba6da0672c3102a5fae", null ],
+    [ "Register", "d9/d0f/a24524.html#a83e15d7db1b9aa4ce4fbc8a359795091", null ]
 ];

@@ -1,6 +1,8 @@
 var a22628 =
 [
-    [ "instance_sethekk_halls_InstanceMapScript", "da/d0b/a22632.html", "da/d0b/a22632" ],
-    [ "instance_sethekk_halls", "d6/dd6/a22628.html#ab50d296266cf377bfb34750ec36963ef", null ],
-    [ "GetInstanceScript", "d6/dd6/a22628.html#adc07afe1aa8132f70474f9a534ecb76c", null ]
+    [ "boss_tavarok", "d6/dd6/a22628.html#acf2e3ec6c28a59b205442c6ed07623af", null ],
+    [ "JustDied", "d6/dd6/a22628.html#a937fc1864eab7fdf23e1be1464d9666d", null ],
+    [ "JustEngagedWith", "d6/dd6/a22628.html#a64cae2439cd6e4334ced5d4ef01ef942", null ],
+    [ "KilledUnit", "d6/dd6/a22628.html#a2c99df9457c548ee562fde920592ea88", null ],
+    [ "Reset", "d6/dd6/a22628.html#a0bea2cc724d92616056b7c5ca2dd03c1", null ]
 ];

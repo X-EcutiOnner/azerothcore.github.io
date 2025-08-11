@@ -1,5 +1,4 @@
 var a01115 =
 [
-    [ "GuildMgr", "de/df7/a09570.html", "de/df7/a09570" ],
-    [ "sGuildMgr", "df/dd5/a01115.html#aef171903a38e30c347ff11360f682f81", null ]
+    [ "ScriptRegistry< BattlegroundScript >", "df/dd5/a01115.html#a954046a61096ecb9db321b0a35da5f77", null ]
 ];

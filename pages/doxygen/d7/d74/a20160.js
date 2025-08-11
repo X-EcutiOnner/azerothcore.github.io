@@ -1,6 +1,7 @@
 var a20160 =
 [
-    [ "npc_ulduar_flash_freezeAI", "de/d76/a20164.html", "de/d76/a20164" ],
-    [ "npc_ulduar_flash_freeze", "d7/d74/a20160.html#a0301ed1231d3b0d113e9fc9389e8f160", null ],
-    [ "GetAI", "d7/d74/a20160.html#a933f99c8d38ab98c8454919b6373bb41", null ]
+    [ "HandleAfterEffectApply", "d7/d74/a20160.html#a672526de2c71dcae79bacef88f34dc26", null ],
+    [ "PrepareAuraScript", "d7/d74/a20160.html#a1da221b63cb7fcd0dbb580e8cf0003ce", null ],
+    [ "Register", "d7/d74/a20160.html#a9ba7c109fe96881dd47ba47366890e2b", null ],
+    [ "Validate", "d7/d74/a20160.html#ab5833f6218760a7d9829b5d453436302", null ]
 ];

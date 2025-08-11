@@ -1,5 +1,10 @@
 var a00902 =
 [
-    [ "WorldPackets::LFG::LFGJoin", "d1/d5e/a10754.html", "d1/d5e/a10754" ],
-    [ "WorldPackets::LFG::LFGLeave", "d2/d7a/a10758.html", "d2/d7a/a10758" ]
+    [ "GameEventScript", "dc/d36/a10304.html", "dc/d36/a10304" ],
+    [ "GameEventHook", "d5/dd3/a00902.html#a6f634b591917b5ff2ab57f9739afa44b", [
+      [ "GAMEEVENTHOOK_ON_START", "d5/dd3/a00902.html#a6f634b591917b5ff2ab57f9739afa44ba82c1717fbd1ba7a6739ce48d1fb3bab6", null ],
+      [ "GAMEEVENTHOOK_ON_STOP", "d5/dd3/a00902.html#a6f634b591917b5ff2ab57f9739afa44ba598d3e2c3c0ff442208e1df830a02e5d", null ],
+      [ "GAMEEVENTHOOK_ON_EVENT_CHECK", "d5/dd3/a00902.html#a6f634b591917b5ff2ab57f9739afa44ba584cbf2008c774dd76adfd51e416663f", null ],
+      [ "GAMEEVENTHOOK_END", "d5/dd3/a00902.html#a6f634b591917b5ff2ab57f9739afa44baef9ad9e7c26fbfcea336dddf0e16d395", null ]
+    ] ]
 ];

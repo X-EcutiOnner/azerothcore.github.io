@@ -1,6 +1,6 @@
 var a21996 =
 [
-    [ "npc_plaguehound_trackerAI", "d3/ddf/a22000.html", "d3/ddf/a22000" ],
-    [ "npc_plaguehound_tracker", "d8/d2a/a21996.html#a5c2803907cf06bc3e641bbb8171681d3", null ],
-    [ "GetAI", "d8/d2a/a21996.html#a1ec8f190139b35837a0ce6c4c2f08709", null ]
+    [ "HandleOnEffectRemove", "d8/d2a/a21996.html#a5aeae7d8fc2fb8c8a1ce446ba1887c51", null ],
+    [ "PrepareAuraScript", "d8/d2a/a21996.html#af415e4d7ea0b4b881af94eb7ea0c3f4c", null ],
+    [ "Register", "d8/d2a/a21996.html#a242faa8822f9cdb7762d8ec3b6245b30", null ]
 ];

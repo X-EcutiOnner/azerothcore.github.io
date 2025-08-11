@@ -1,9 +1,10 @@
 var a25380 =
 [
-    [ "CheckCast", "d0/d0f/a25380.html#a005565dd77de97b5aa04553a1d6a0185", null ],
-    [ "HandleScript", "d0/d0f/a25380.html#a7313a3d9840d7dc81e5a894e83cb6347", null ],
-    [ "Load", "d0/d0f/a25380.html#aadfc8a873c72e31d65001ce00518ca45", null ],
-    [ "PrepareSpellScript", "d0/d0f/a25380.html#a169b60644259855f0614271e4769f6b9", null ],
-    [ "Register", "d0/d0f/a25380.html#a9e7f8cbc7ec3de507069b69678005da3", null ],
-    [ "Validate", "d0/d0f/a25380.html#a9e69eb36c1a2640ff616ae5744c04f4f", null ]
+    [ "Load", "d0/d0f/a25380.html#a04526f30ad35af3f629cdd0c8312e33c", null ],
+    [ "OnApply", "d0/d0f/a25380.html#a83d922c434442e22482410d61aa0198f", null ],
+    [ "OnPetApply", "d0/d0f/a25380.html#a6df5e59e29cb89310a1c78bf93029545", null ],
+    [ "OnRemove", "d0/d0f/a25380.html#aa4efa4ed7d98c63989353c398bb2b128", null ],
+    [ "PrepareAuraScript", "d0/d0f/a25380.html#a1b4d8f636c01f01bc9380c290de91a0e", null ],
+    [ "Register", "d0/d0f/a25380.html#a265726c9bfa180c3b8f470eb1eee837b", null ],
+    [ "Validate", "d0/d0f/a25380.html#ab318472ea9f4aaa79e45f18783586eed", null ]
 ];

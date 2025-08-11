@@ -1,5 +1,5 @@
 var a20264 =
 [
-    [ "achievement_i_have_the_coolest_friends", "d2/dcc/a20264.html#a87fd2d5702fe33ee8b09042c66897636", null ],
-    [ "OnCheck", "d2/dcc/a20264.html#aa77aa6129967601ede2f3fc44b2ee1aa", null ]
+    [ "FlashFreezeCheck", "d2/dcc/a20264.html#a47d07a686a7c74dc8914a98762b16fe3", null ],
+    [ "operator()", "d2/dcc/a20264.html#a87475dc9e2f1b0eb508e9f56aa5c1e2f", null ]
 ];

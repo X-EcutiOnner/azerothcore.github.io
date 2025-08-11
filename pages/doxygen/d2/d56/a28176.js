@@ -1,17 +1,16 @@
 var a28176 =
 [
-    [ "Entry", "d2/d56/a28176.html#a4e8689fabe6b3ef5c495bf84fa1945b7", null ],
-    [ "Difficulty", "d2/d56/a28176.html#aa85e97ced86b0d27c753ca924eba074b", null ],
-    [ "ExpansionLevel", "d2/d56/a28176.html#a5bbacc248aa127b889d60b3a25b12b83", null ],
-    [ "Flags", "d2/d56/a28176.html#a9481c296a064ec400b0f050097903557", null ],
-    [ "GroupID", "d2/d56/a28176.html#a7a6c2971a61b171d00c885ce452601ce", null ],
-    [ "ID", "d2/d56/a28176.html#ae0fdf0d9afd2f99e9b7e6094960e86e0", null ],
-    [ "MapID", "d2/d56/a28176.html#a6c947b111d7d356ba02eb6fffc77f5cb", null ],
-    [ "MaxLevel", "d2/d56/a28176.html#aa4fbfd45d4319c9e8319508821bf4a65", null ],
-    [ "MinLevel", "d2/d56/a28176.html#a17ae5fe60486c54a3becb2b14d5953c9", null ],
-    [ "Name", "d2/d56/a28176.html#a7cb21e4e996be24d531b03fea66ecd27", null ],
-    [ "TargetLevel", "d2/d56/a28176.html#a2e6456d16cce98666b0ac63cebf0eb82", null ],
-    [ "TargetLevelMax", "d2/d56/a28176.html#ae4a27f7bc0563f606f40d955a40fab1e", null ],
-    [ "TargetLevelMin", "d2/d56/a28176.html#a7558f3dc7d695fb17bc3b64e0c381de7", null ],
-    [ "TypeID", "d2/d56/a28176.html#a84a498b44063cc95ba1a3b565c44a81b", null ]
+    [ "CanBeSetAtWar", "d2/d56/a28176.html#ae165dc23f25386eb086e1fa2cb820153", null ],
+    [ "CanHaveReputation", "d2/d56/a28176.html#ab3da6918e197c1098a932418d5c51799", null ],
+    [ "BaseRepClassMask", "d2/d56/a28176.html#ae73655de567de3766fcb3bbfb7f9eed3", null ],
+    [ "BaseRepRaceMask", "d2/d56/a28176.html#aa8e1c08416d07882af7075fbb020ae5a", null ],
+    [ "BaseRepValue", "d2/d56/a28176.html#a52f0753d1e1e69a4994eb6b1eab6824c", null ],
+    [ "ID", "d2/d56/a28176.html#a1953f7a343201113dae80cdd97e1ac90", null ],
+    [ "name", "d2/d56/a28176.html#ad9d326ed1aac5ea66825775665dfea00", null ],
+    [ "ReputationFlags", "d2/d56/a28176.html#ae23a3c94554b2043928d6e1ea748e709", null ],
+    [ "reputationListID", "d2/d56/a28176.html#aee99121c2d7298e16540229923391aee", null ],
+    [ "spilloverMaxRankIn", "d2/d56/a28176.html#a14cea5365f14880850e788ba328d0c8e", null ],
+    [ "spilloverRateIn", "d2/d56/a28176.html#a7a72bc65fb3fe76ffa1d072800c5daed", null ],
+    [ "spilloverRateOut", "d2/d56/a28176.html#a7cea150843bf48277aa9cc917d210fcb", null ],
+    [ "team", "d2/d56/a28176.html#a6210fabf2688f26a0a0050f6c148485d", null ]
 ];

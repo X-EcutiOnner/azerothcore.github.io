@@ -1,8 +1,6 @@
 var a12408 =
 [
-    [ "MajordomoAddData", "d2/def/a12408.html#aa068ada34e1275cbf97b21f74dfd2881", null ],
-    [ "MajordomoAddData", "d2/def/a12408.html#a9b8cc2b43ffbf268e470169e00e66671", null ],
-    [ "creatureEntry", "d2/def/a12408.html#ae3a0444e88158123f4d6359328e89a1d", null ],
-    [ "guid", "d2/def/a12408.html#a2f2b0aaace557361a21d1072f36933dc", null ],
-    [ "spawnPos", "d2/def/a12408.html#a31f8d24efb19c2d0e697f35b911e3237", null ]
+    [ "boss_gehennasAI", "d2/def/a12408.html#aaefd1f10d03957477863df95143a95a9", null ],
+    [ "ExecuteEvent", "d2/def/a12408.html#a1568cecdacc6afee23b4661c3dc0ae2b", null ],
+    [ "JustEngagedWith", "d2/def/a12408.html#ad932bb3d7079f53cf1bb2b7ad143b15d", null ]
 ];

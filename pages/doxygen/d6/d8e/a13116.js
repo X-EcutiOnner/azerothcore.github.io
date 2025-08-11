@@ -1,7 +1,7 @@
 var a13116 =
 [
-    [ "OnPeriodic", "d6/d8e/a13116.html#ab193b7cf8a8fe91879317e7d21522976", null ],
-    [ "PrepareAuraScript", "d6/d8e/a13116.html#a5dca6bc670612f0b0e8e99381c97bf11", null ],
-    [ "Register", "d6/d8e/a13116.html#ac6e0621064e5e0a77e1cdbfa8dbb6a54", null ],
-    [ "Validate", "d6/d8e/a13116.html#a290b864756ceff85d52ba3f974a28217", null ]
+    [ "boss_apothecary_hummelAI", "db/da4/a13120.html", "db/da4/a13120" ],
+    [ "boss_apothecary_hummel", "d6/d8e/a13116.html#af1672c0b7f67d9013e3769a7009c2ee9", null ],
+    [ "GetAI", "d6/d8e/a13116.html#a87a01f4d6eaac7c5e1795133e8aa1ccd", null ],
+    [ "OnQuestReward", "d6/d8e/a13116.html#a86d23ff3569e5e86b8787bb3ea7816c7", null ]
 ];

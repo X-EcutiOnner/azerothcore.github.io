@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: adt_MCIN Class Reference</title>
+<title>AzerothCore: SocketMgr&lt; SocketType &gt; Class Template Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,72 +105,238 @@ $(document).ready(function(){initNavTree('d3/d92/a28516.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#nested-classes">Classes</a> &#124;
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pub-attribs">Public Attributes</a> &#124;
-<a href="#pri-attribs">Private Attributes</a> &#124;
+<a href="#pro-methods">Protected Member Functions</a> &#124;
+<a href="#pro-attribs">Protected Attributes</a> &#124;
 <a href="../../db/d28/a28513.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">adt_MCIN Class Reference</div></div>
+  <div class="headertitle"><div class="title">SocketMgr&lt; SocketType &gt; Class Template Reference<span class="mlabels"><span class="mlabel">abstract</span></span></div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">adt.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">SocketMgr.h</a>&quot;</code></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
-Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dce/a28524.html">adt_CELLS</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:adc7346499aa51f4422c810b7e757f835"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d92/a28516.html#adc7346499aa51f4422c810b7e757f835">prepareLoadedData</a> ()</td></tr>
-<tr class="separator:adc7346499aa51f4422c810b7e757f835"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8330b7cb405146399d3d20e6952a8b40"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dc/dde/a28508.html">adt_MCNK</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d92/a28516.html#a8330b7cb405146399d3d20e6952a8b40">getMCNK</a> (int x, int y)</td></tr>
-<tr class="separator:a8330b7cb405146399d3d20e6952a8b40"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8c8b979692599a68d6f9dbe864e58645"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d92/a28516.html#a8c8b979692599a68d6f9dbe864e58645">~SocketMgr</a> ()</td></tr>
+<tr class="separator:a8c8b979692599a68d6f9dbe864e58645"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a81fc5b0c7bc9750b67ca607ae0cf2c81"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d92/a28516.html#a81fc5b0c7bc9750b67ca607ae0cf2c81">StartNetwork</a> (<a class="el" href="../../d1/dcd/a04880.html">Acore::Asio::IoContext</a> &amp;ioContext, std::string const &amp;bindIp, <a class="el" href="../../d2/d27/a04301.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> port, int threadCount)</td></tr>
+<tr class="separator:a81fc5b0c7bc9750b67ca607ae0cf2c81"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7966832a9ef2151033ac9eeeadffff34"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d92/a28516.html#a7966832a9ef2151033ac9eeeadffff34">StopNetwork</a> ()</td></tr>
+<tr class="separator:a7966832a9ef2151033ac9eeeadffff34"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aace37f1c8fa4c4c4dd378ba2da496b50"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d92/a28516.html#aace37f1c8fa4c4c4dd378ba2da496b50">Wait</a> ()</td></tr>
+<tr class="separator:aace37f1c8fa4c4c4dd378ba2da496b50"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a83b2b85da48d4ffb0e1ed7577dde75c4"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d92/a28516.html#a83b2b85da48d4ffb0e1ed7577dde75c4">OnSocketOpen</a> (tcp::socket &amp;&amp;sock, <a class="el" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> threadIndex)</td></tr>
+<tr class="separator:a83b2b85da48d4ffb0e1ed7577dde75c4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac1afac1d7f3e5092e9fe4425412186fc"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/d27/a04301.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d92/a28516.html#ac1afac1d7f3e5092e9fe4425412186fc">GetNetworkThreadCount</a> () const</td></tr>
+<tr class="separator:ac1afac1d7f3e5092e9fe4425412186fc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abf161238fa7dcf2ee8b3a4ef3c71d5fd"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d92/a28516.html#abf161238fa7dcf2ee8b3a4ef3c71d5fd">SelectThreadWithMinConnections</a> () const</td></tr>
+<tr class="separator:abf161238fa7dcf2ee8b3a4ef3c71d5fd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6d8519103f85522d3bc0bfac5a0955c9"><td class="memItemLeft" align="right" valign="top">std::pair&lt; tcp::socket *, <a class="el" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d92/a28516.html#a6d8519103f85522d3bc0bfac5a0955c9">GetSocketForAccept</a> ()</td></tr>
+<tr class="separator:a6d8519103f85522d3bc0bfac5a0955c9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
-Public Attributes</h2></td></tr>
-<tr class="memitem:a1a40f52ea9eef3add8207da89cb71210"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/daf/a04412.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d92/a28516.html#a1a40f52ea9eef3add8207da89cb71210">size</a></td></tr>
-<tr class="separator:a1a40f52ea9eef3add8207da89cb71210"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a434ed0ca354ec27d5334cc63e5650038"><td class="memItemLeft" align="right" valign="top">struct <a class="el" href="../../da/dce/a28524.html">adt_MCIN::adt_CELLS</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d92/a28516.html#a434ed0ca354ec27d5334cc63e5650038">cells</a> [<a class="el" href="../../d3/d06/a04733.html#aaa17abcdb17267fda5cd146bec40af39">ADT_CELLS_PER_GRID</a>][<a class="el" href="../../d3/d06/a04733.html#aaa17abcdb17267fda5cd146bec40af39">ADT_CELLS_PER_GRID</a>]</td></tr>
-<tr class="separator:a434ed0ca354ec27d5334cc63e5650038"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae7d4acf20e102b6b8f19ded3fe219a7d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/daf/a04412.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d92/a28516.html#ae7d4acf20e102b6b8f19ded3fe219a7d">fcc</a></td></tr>
-<tr class="separator:ae7d4acf20e102b6b8f19ded3fe219a7d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a514bae36851623daf76b26a9d63f1ae0"><td class="memItemLeft" align="right" valign="top">char&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d92/a28516.html#a514bae36851623daf76b26a9d63f1ae0">fcc_txt</a> [4]</td></tr>
-<tr class="separator:a514bae36851623daf76b26a9d63f1ae0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-methods" name="pro-methods"></a>
+Protected Member Functions</h2></td></tr>
+<tr class="memitem:a7582b914e42af5d67e4a4e968fd99b4a"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d92/a28516.html#a7582b914e42af5d67e4a4e968fd99b4a">SocketMgr</a> ()=default</td></tr>
+<tr class="separator:a7582b914e42af5d67e4a4e968fd99b4a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac712a459d409da9e8f21603da8aa0305"><td class="memItemLeft" align="right" valign="top">virtual <a class="el" href="../../dc/dde/a28508.html">NetworkThread</a>&lt; SocketType &gt; *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d92/a28516.html#ac712a459d409da9e8f21603da8aa0305">CreateThreads</a> () const =0</td></tr>
+<tr class="separator:ac712a459d409da9e8f21603da8aa0305"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
-Private Attributes</h2></td></tr>
-<tr class="memitem:a399a96a7cb0aed21ae7fcebd9cb1991a"><td class="memItemLeft" >union {</td></tr>
-<tr class="memitem:a366baa7829ae69124ceac79f3ac668a1"><td class="memItemLeft" >&#160;&#160;&#160;<a class="el" href="../../db/daf/a04412.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d3/d92/a28516.html#ae7d4acf20e102b6b8f19ded3fe219a7d">fcc</a></td></tr>
-<tr class="separator:a366baa7829ae69124ceac79f3ac668a1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a274f1a68ef6c89a482130c81b4929e8f"><td class="memItemLeft" >&#160;&#160;&#160;char&#160;&#160;&#160;<a class="el" href="../../d3/d92/a28516.html#a514bae36851623daf76b26a9d63f1ae0">fcc_txt</a> [4]</td></tr>
-<tr class="separator:a274f1a68ef6c89a482130c81b4929e8f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a399a96a7cb0aed21ae7fcebd9cb1991a"><td class="memItemLeft" valign="top">};&#160;</td><td class="memItemRight" valign="bottom"></td></tr>
-<tr class="separator:a399a96a7cb0aed21ae7fcebd9cb1991a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-attribs" name="pro-attribs"></a>
+Protected Attributes</h2></td></tr>
+<tr class="memitem:af397e6129662d41adeeef25d27a980ea"><td class="memItemLeft" align="right" valign="top">std::unique_ptr&lt; <a class="el" href="../../df/db6/a28504.html">AsyncAcceptor</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d92/a28516.html#af397e6129662d41adeeef25d27a980ea">_acceptor</a></td></tr>
+<tr class="separator:af397e6129662d41adeeef25d27a980ea"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0802f42ee5a7c8fec400e5034d87caac"><td class="memItemLeft" align="right" valign="top">std::unique_ptr&lt; <a class="el" href="../../dc/dde/a28508.html">NetworkThread</a>&lt; SocketType &gt;[]&gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d92/a28516.html#a0802f42ee5a7c8fec400e5034d87caac">_threads</a></td></tr>
+<tr class="separator:a0802f42ee5a7c8fec400e5034d87caac"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abeae5090b8ea81e39465a20c7b960885"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/d27/a04301.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d92/a28516.html#abeae5090b8ea81e39465a20c7b960885">_threadCount</a> {}</td></tr>
+<tr class="separator:abeae5090b8ea81e39465a20c7b960885"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
-<a id="a8330b7cb405146399d3d20e6952a8b40" name="a8330b7cb405146399d3d20e6952a8b40"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8330b7cb405146399d3d20e6952a8b40">&#9670;&#160;</a></span>getMCNK()</h2>
+<div class="textblock"><div class="compoundTemplParams">template&lt;class SocketType&gt;<br />
+class SocketMgr&lt; SocketType &gt;</div></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="a8c8b979692599a68d6f9dbe864e58645" name="a8c8b979692599a68d6f9dbe864e58645"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8c8b979692599a68d6f9dbe864e58645">&#9670;&#160;</a></span>~SocketMgr()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;class SocketType &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../dc/dde/a28508.html">adt_MCNK</a> * adt_MCIN::getMCNK </td>
+          <td class="memname">virtual <a class="el" href="../../d3/d92/a28516.html">SocketMgr</a>&lt; SocketType &gt;::~<a class="el" href="../../d3/d92/a28516.html">SocketMgr</a> </td>
           <td>(</td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>x</em>, </td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   34</span>    {</div>
+<div class="line"><span class="lineno">   35</span>        <a class="code hl_define" href="../../d9/d98/a04610.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(!<a class="code hl_variable" href="../../d3/d92/a28516.html#a0802f42ee5a7c8fec400e5034d87caac">_threads</a> &amp;&amp; !<a class="code hl_variable" href="../../d3/d92/a28516.html#af397e6129662d41adeeef25d27a980ea">_acceptor</a> &amp;&amp; !<a class="code hl_variable" href="../../d3/d92/a28516.html#abeae5090b8ea81e39465a20c7b960885">_threadCount</a>, <span class="stringliteral">&quot;StopNetwork must be called prior to SocketMgr destruction&quot;</span>);</div>
+<div class="line"><span class="lineno">   36</span>    }</div>
+<div class="ttc" id="aa04610_html_af343b20373ba49a92fce523e948f2ab3"><div class="ttname"><a href="../../d9/d98/a04610.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a></div><div class="ttdeci">#define ASSERT</div><div class="ttdef"><b>Definition:</b> Errors.h:68</div></div>
+<div class="ttc" id="aa28516_html_a0802f42ee5a7c8fec400e5034d87caac"><div class="ttname"><a href="../../d3/d92/a28516.html#a0802f42ee5a7c8fec400e5034d87caac">SocketMgr::_threads</a></div><div class="ttdeci">std::unique_ptr&lt; NetworkThread&lt; SocketType &gt;[]&gt; _threads</div><div class="ttdef"><b>Definition:</b> SocketMgr.h:130</div></div>
+<div class="ttc" id="aa28516_html_abeae5090b8ea81e39465a20c7b960885"><div class="ttname"><a href="../../d3/d92/a28516.html#abeae5090b8ea81e39465a20c7b960885">SocketMgr::_threadCount</a></div><div class="ttdeci">int32 _threadCount</div><div class="ttdef"><b>Definition:</b> SocketMgr.h:131</div></div>
+<div class="ttc" id="aa28516_html_af397e6129662d41adeeef25d27a980ea"><div class="ttname"><a href="../../d3/d92/a28516.html#af397e6129662d41adeeef25d27a980ea">SocketMgr::_acceptor</a></div><div class="ttdeci">std::unique_ptr&lt; AsyncAcceptor &gt; _acceptor</div><div class="ttdef"><b>Definition:</b> SocketMgr.h:129</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00129">SocketMgr&lt; SocketType &gt;::_acceptor</a>, <a class="el" href="../../#l00131">SocketMgr&lt; SocketType &gt;::_threadCount</a>, <a class="el" href="../../#l00130">SocketMgr&lt; SocketType &gt;::_threads</a>, and <a class="el" href="../../#l00068">ASSERT</a>.</p>
+
+</div>
+</div>
+<a id="a7582b914e42af5d67e4a4e968fd99b4a" name="a7582b914e42af5d67e4a4e968fd99b4a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7582b914e42af5d67e4a4e968fd99b4a">&#9670;&#160;</a></span>SocketMgr()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class SocketType &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d3/d92/a28516.html">SocketMgr</a>&lt; SocketType &gt;<a class="el" href="../../d3/d92/a28516.html">::SocketMgr</a> </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span><span class="mlabel">default</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="ac712a459d409da9e8f21603da8aa0305" name="ac712a459d409da9e8f21603da8aa0305"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac712a459d409da9e8f21603da8aa0305">&#9670;&#160;</a></span>CreateThreads()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class SocketType &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual <a class="el" href="../../dc/dde/a28508.html">NetworkThread</a>&lt; SocketType &gt; * <a class="el" href="../../d3/d92/a28516.html">SocketMgr</a>&lt; SocketType &gt;::CreateThreads </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span><span class="mlabel">pure virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="../../d0/d56/a05664.html#a98a0866ae616017010f639f0ad9fc72d">AuthSocketMgr</a>, and <a class="el" href="../../d6/d7b/a11048.html#a04e98fcb25c09ff85e9536cf43fd4e6e">WorldSocketMgr</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00038">SocketMgr&lt; SocketType &gt;::StartNetwork()</a>.</p>
+
+</div>
+</div>
+<a id="ac1afac1d7f3e5092e9fe4425412186fc" name="ac1afac1d7f3e5092e9fe4425412186fc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac1afac1d7f3e5092e9fe4425412186fc">&#9670;&#160;</a></span>GetNetworkThreadCount()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class SocketType &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d2/d27/a04301.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> <a class="el" href="../../d3/d92/a28516.html">SocketMgr</a>&lt; SocketType &gt;::GetNetworkThreadCount </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  105</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d3/d92/a28516.html#abeae5090b8ea81e39465a20c7b960885">_threadCount</a>; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00131">SocketMgr&lt; SocketType &gt;::_threadCount</a>.</p>
+
+</div>
+</div>
+<a id="a6d8519103f85522d3bc0bfac5a0955c9" name="a6d8519103f85522d3bc0bfac5a0955c9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6d8519103f85522d3bc0bfac5a0955c9">&#9670;&#160;</a></span>GetSocketForAccept()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class SocketType &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::pair&lt; tcp::socket *, <a class="el" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &gt; <a class="el" href="../../d3/d92/a28516.html">SocketMgr</a>&lt; SocketType &gt;::GetSocketForAccept </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  119</span>    {</div>
+<div class="line"><span class="lineno">  120</span>        <a class="code hl_typedef" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> threadIndex = <a class="code hl_function" href="../../d3/d92/a28516.html#abf161238fa7dcf2ee8b3a4ef3c71d5fd">SelectThreadWithMinConnections</a>();</div>
+<div class="line"><span class="lineno">  121</span>        <span class="keywordflow">return</span> { <a class="code hl_variable" href="../../d3/d92/a28516.html#a0802f42ee5a7c8fec400e5034d87caac">_threads</a>[threadIndex].GetSocketForAccept(), threadIndex };</div>
+<div class="line"><span class="lineno">  122</span>    }</div>
+<div class="ttc" id="aa04301_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
+<div class="ttc" id="aa28516_html_abf161238fa7dcf2ee8b3a4ef3c71d5fd"><div class="ttname"><a href="../../d3/d92/a28516.html#abf161238fa7dcf2ee8b3a4ef3c71d5fd">SocketMgr::SelectThreadWithMinConnections</a></div><div class="ttdeci">uint32 SelectThreadWithMinConnections() const</div><div class="ttdef"><b>Definition:</b> SocketMgr.h:107</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00130">SocketMgr&lt; SocketType &gt;::_threads</a>, and <a class="el" href="../../#l00107">SocketMgr&lt; SocketType &gt;::SelectThreadWithMinConnections()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00038">SocketMgr&lt; SocketType &gt;::StartNetwork()</a>.</p>
+
+</div>
+</div>
+<a id="a83b2b85da48d4ffb0e1ed7577dde75c4" name="a83b2b85da48d4ffb0e1ed7577dde75c4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a83b2b85da48d4ffb0e1ed7577dde75c4">&#9670;&#160;</a></span>OnSocketOpen()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class SocketType &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual void <a class="el" href="../../d3/d92/a28516.html">SocketMgr</a>&lt; SocketType &gt;::OnSocketOpen </td>
+          <td>(</td>
+          <td class="paramtype">tcp::socket &amp;&amp;&#160;</td>
+          <td class="paramname"><em>sock</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>y</em>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>threadIndex</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -180,136 +346,316 @@ Private Attributes</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Reimplemented in <a class="el" href="../../d6/d7b/a11048.html#a308aacca5450fca4a4b35009ddd6142f">WorldSocketMgr</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">   93</span>    {</div>
+<div class="line"><span class="lineno">   94</span>        <span class="keywordflow">try</span></div>
+<div class="line"><span class="lineno">   95</span>        {</div>
+<div class="line"><span class="lineno">   96</span>            std::shared_ptr&lt;SocketType&gt; newSocket = std::make_shared&lt;SocketType&gt;(std::move(sock));</div>
+<div class="line"><span class="lineno">   97</span>            <a class="code hl_variable" href="../../d3/d92/a28516.html#a0802f42ee5a7c8fec400e5034d87caac">_threads</a>[threadIndex].AddSocket(newSocket);</div>
+<div class="line"><span class="lineno">   98</span>        }</div>
+<div class="line"><span class="lineno">   99</span>        <span class="keywordflow">catch</span> (boost::system::system_error <span class="keyword">const</span>&amp; err)</div>
+<div class="line"><span class="lineno">  100</span>        {</div>
+<div class="line"><span class="lineno">  101</span>            <a class="code hl_define" href="../../d8/d7c/a04601.html#adf09840a666e1d86bcd3439105db6edc">LOG_WARN</a>(<span class="stringliteral">&quot;network&quot;</span>, <span class="stringliteral">&quot;Failed to retrieve client&#39;s remote address {}&quot;</span>, err.what());</div>
+<div class="line"><span class="lineno">  102</span>        }</div>
+<div class="line"><span class="lineno">  103</span>    }</div>
+<div class="ttc" id="aa04601_html_adf09840a666e1d86bcd3439105db6edc"><div class="ttname"><a href="../../d8/d7c/a04601.html#adf09840a666e1d86bcd3439105db6edc">LOG_WARN</a></div><div class="ttdeci">#define LOG_WARN(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:162</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00130">SocketMgr&lt; SocketType &gt;::_threads</a>, and <a class="el" href="../../#l00162">LOG_WARN</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00057">AuthSocketMgr::OnSocketAccept()</a>.</p>
+
+</div>
+</div>
+<a id="abf161238fa7dcf2ee8b3a4ef3c71d5fd" name="abf161238fa7dcf2ee8b3a4ef3c71d5fd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abf161238fa7dcf2ee8b3a4ef3c71d5fd">&#9670;&#160;</a></span>SelectThreadWithMinConnections()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class SocketType &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> <a class="el" href="../../d3/d92/a28516.html">SocketMgr</a>&lt; SocketType &gt;::SelectThreadWithMinConnections </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
 <span class="mlabels"><span class="mlabel">inline</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  173</span>    {</div>
-<div class="line"><span class="lineno">  174</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d3/d92/a28516.html#a434ed0ca354ec27d5334cc63e5650038">cells</a>[x][y].offsMCNK)</div>
-<div class="line"><span class="lineno">  175</span>            <span class="keywordflow">return</span> (<a class="code hl_class" href="../../dc/dde/a28508.html">adt_MCNK</a>*)((<a class="code hl_typedef" href="../../db/daf/a04412.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>*)<span class="keyword">this</span> + <a class="code hl_variable" href="../../d3/d92/a28516.html#a434ed0ca354ec27d5334cc63e5650038">cells</a>[x][y].offsMCNK - 84);</div>
-<div class="line"><span class="lineno">  176</span>        <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  177</span>    }</div>
-<div class="ttc" id="aa04412_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../db/daf/a04412.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition:</b> Define.h:109</div></div>
-<div class="ttc" id="aa28508_html"><div class="ttname"><a href="../../dc/dde/a28508.html">adt_MCNK</a></div><div class="ttdef"><b>Definition:</b> adt.h:94</div></div>
-<div class="ttc" id="aa28516_html_a434ed0ca354ec27d5334cc63e5650038"><div class="ttname"><a href="../../d3/d92/a28516.html#a434ed0ca354ec27d5334cc63e5650038">adt_MCIN::cells</a></div><div class="ttdeci">struct adt_MCIN::adt_CELLS cells[ADT_CELLS_PER_GRID][ADT_CELLS_PER_GRID]</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  108</span>    {</div>
+<div class="line"><span class="lineno">  109</span>        <a class="code hl_typedef" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> min = 0;</div>
+<div class="line"><span class="lineno">  110</span> </div>
+<div class="line"><span class="lineno">  111</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d2/d27/a04301.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> i = 1; i &lt; <a class="code hl_variable" href="../../d3/d92/a28516.html#abeae5090b8ea81e39465a20c7b960885">_threadCount</a>; ++i)</div>
+<div class="line"><span class="lineno">  112</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d3/d92/a28516.html#a0802f42ee5a7c8fec400e5034d87caac">_threads</a>[i].GetConnectionCount() &lt; <a class="code hl_variable" href="../../d3/d92/a28516.html#a0802f42ee5a7c8fec400e5034d87caac">_threads</a>[min].GetConnectionCount())</div>
+<div class="line"><span class="lineno">  113</span>                min = i;</div>
+<div class="line"><span class="lineno">  114</span> </div>
+<div class="line"><span class="lineno">  115</span>        <span class="keywordflow">return</span> min;</div>
+<div class="line"><span class="lineno">  116</span>    }</div>
+<div class="ttc" id="aa04301_html_a0bf9964a3ce962c07ad3d8b5432bbbcd"><div class="ttname"><a href="../../d2/d27/a04301.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a></div><div class="ttdeci">std::int32_t int32</div><div class="ttdef"><b>Definition:</b> Define.h:103</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../d3/d92/a28516.html#a434ed0ca354ec27d5334cc63e5650038">cells</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00131">SocketMgr&lt; SocketType &gt;::_threadCount</a>, and <a class="el" href="../../#l00130">SocketMgr&lt; SocketType &gt;::_threads</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00410">ConvertADT()</a>, and <a class="el" href="../../#l00101">prepareLoadedData()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00118">SocketMgr&lt; SocketType &gt;::GetSocketForAccept()</a>.</p>
 
 </div>
 </div>
-<a id="adc7346499aa51f4422c810b7e757f835" name="adc7346499aa51f4422c810b7e757f835"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#adc7346499aa51f4422c810b7e757f835">&#9670;&#160;</a></span>prepareLoadedData()</h2>
+<a id="a81fc5b0c7bc9750b67ca607ae0cf2c81" name="a81fc5b0c7bc9750b67ca607ae0cf2c81"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a81fc5b0c7bc9750b67ca607ae0cf2c81">&#9670;&#160;</a></span>StartNetwork()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;class SocketType &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">bool adt_MCIN::prepareLoadedData </td>
+          <td class="memname">virtual bool <a class="el" href="../../d3/d92/a28516.html">SocketMgr</a>&lt; SocketType &gt;::StartNetwork </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d1/dcd/a04880.html">Acore::Asio::IoContext</a> &amp;&#160;</td>
+          <td class="paramname"><em>ioContext</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">std::string const &amp;&#160;</td>
+          <td class="paramname"><em>bindIp</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d2/d27/a04301.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td>
+          <td class="paramname"><em>port</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>threadCount</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Reimplemented in <a class="el" href="../../d0/d56/a05664.html#a345e4f8cc1c216ed7eb9c3e96748170f">AuthSocketMgr</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">   39</span>    {</div>
+<div class="line"><span class="lineno">   40</span>        <a class="code hl_define" href="../../d9/d98/a04610.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(threadCount &gt; 0);</div>
+<div class="line"><span class="lineno">   41</span> </div>
+<div class="line"><span class="lineno">   42</span>        std::unique_ptr&lt;AsyncAcceptor&gt; acceptor;</div>
+<div class="line"><span class="lineno">   43</span>        <span class="keywordflow">try</span></div>
+<div class="line"><span class="lineno">   44</span>        {</div>
+<div class="line"><span class="lineno">   45</span>            acceptor = std::make_unique&lt;AsyncAcceptor&gt;(ioContext, bindIp, port);</div>
+<div class="line"><span class="lineno">   46</span>        }</div>
+<div class="line"><span class="lineno">   47</span>        <span class="keywordflow">catch</span> (boost::system::system_error <span class="keyword">const</span>&amp; err)</div>
+<div class="line"><span class="lineno">   48</span>        {</div>
+<div class="line"><span class="lineno">   49</span>            <a class="code hl_define" href="../../d8/d7c/a04601.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;network&quot;</span>, <span class="stringliteral">&quot;Exception caught in SocketMgr.StartNetwork ({}:{}): {}&quot;</span>, bindIp, port, err.what());</div>
+<div class="line"><span class="lineno">   50</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">   51</span>        }</div>
+<div class="line"><span class="lineno">   52</span> </div>
+<div class="line"><span class="lineno">   53</span>        <span class="keywordflow">if</span> (!acceptor-&gt;Bind())</div>
+<div class="line"><span class="lineno">   54</span>        {</div>
+<div class="line"><span class="lineno">   55</span>            <a class="code hl_define" href="../../d8/d7c/a04601.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;network&quot;</span>, <span class="stringliteral">&quot;StartNetwork failed to bind socket acceptor&quot;</span>);</div>
+<div class="line"><span class="lineno">   56</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">   57</span>        }</div>
+<div class="line"><span class="lineno">   58</span> </div>
+<div class="line"><span class="lineno">   59</span>        <a class="code hl_variable" href="../../d3/d92/a28516.html#af397e6129662d41adeeef25d27a980ea">_acceptor</a> = std::move(acceptor);</div>
+<div class="line"><span class="lineno">   60</span>        <a class="code hl_variable" href="../../d3/d92/a28516.html#abeae5090b8ea81e39465a20c7b960885">_threadCount</a> = threadCount;</div>
+<div class="line"><span class="lineno">   61</span>        <a class="code hl_variable" href="../../d3/d92/a28516.html#a0802f42ee5a7c8fec400e5034d87caac">_threads</a> = std::unique_ptr&lt;NetworkThread&lt;SocketType&gt;[]&gt;(<a class="code hl_function" href="../../d3/d92/a28516.html#ac712a459d409da9e8f21603da8aa0305">CreateThreads</a>());</div>
+<div class="line"><span class="lineno">   62</span> </div>
+<div class="line"><span class="lineno">   63</span>        <a class="code hl_define" href="../../d9/d98/a04610.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(<a class="code hl_variable" href="../../d3/d92/a28516.html#a0802f42ee5a7c8fec400e5034d87caac">_threads</a>);</div>
+<div class="line"><span class="lineno">   64</span> </div>
+<div class="line"><span class="lineno">   65</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d2/d27/a04301.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> i = 0; i &lt; <a class="code hl_variable" href="../../d3/d92/a28516.html#abeae5090b8ea81e39465a20c7b960885">_threadCount</a>; ++i)</div>
+<div class="line"><span class="lineno">   66</span>            <a class="code hl_variable" href="../../d3/d92/a28516.html#a0802f42ee5a7c8fec400e5034d87caac">_threads</a>[i].Start();</div>
+<div class="line"><span class="lineno">   67</span> </div>
+<div class="line"><span class="lineno">   68</span>        <a class="code hl_variable" href="../../d3/d92/a28516.html#af397e6129662d41adeeef25d27a980ea">_acceptor</a>-&gt;SetSocketFactory([<span class="keyword">this</span>]() { <span class="keywordflow">return</span> <a class="code hl_function" href="../../d3/d92/a28516.html#a6d8519103f85522d3bc0bfac5a0955c9">GetSocketForAccept</a>(); });</div>
+<div class="line"><span class="lineno">   69</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">   70</span>    }</div>
+<div class="ttc" id="aa04601_html_a43832e3fa8508deb4ce43e520005fcd9"><div class="ttname"><a href="../../d8/d7c/a04601.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a></div><div class="ttdeci">#define LOG_ERROR(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:158</div></div>
+<div class="ttc" id="aa28516_html_a6d8519103f85522d3bc0bfac5a0955c9"><div class="ttname"><a href="../../d3/d92/a28516.html#a6d8519103f85522d3bc0bfac5a0955c9">SocketMgr::GetSocketForAccept</a></div><div class="ttdeci">std::pair&lt; tcp::socket *, uint32 &gt; GetSocketForAccept()</div><div class="ttdef"><b>Definition:</b> SocketMgr.h:118</div></div>
+<div class="ttc" id="aa28516_html_ac712a459d409da9e8f21603da8aa0305"><div class="ttname"><a href="../../d3/d92/a28516.html#ac712a459d409da9e8f21603da8aa0305">SocketMgr::CreateThreads</a></div><div class="ttdeci">virtual NetworkThread&lt; SocketType &gt; * CreateThreads() const =0</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00129">SocketMgr&lt; SocketType &gt;::_acceptor</a>, <a class="el" href="../../#l00131">SocketMgr&lt; SocketType &gt;::_threadCount</a>, <a class="el" href="../../#l00130">SocketMgr&lt; SocketType &gt;::_threads</a>, <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../d3/d92/a28516.html#ac712a459d409da9e8f21603da8aa0305">SocketMgr&lt; SocketType &gt;::CreateThreads()</a>, <a class="el" href="../../#l00118">SocketMgr&lt; SocketType &gt;::GetSocketForAccept()</a>, and <a class="el" href="../../#l00158">LOG_ERROR</a>.</p>
+
+</div>
+</div>
+<a id="a7966832a9ef2151033ac9eeeadffff34" name="a7966832a9ef2151033ac9eeeadffff34"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7966832a9ef2151033ac9eeeadffff34">&#9670;&#160;</a></span>StopNetwork()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class SocketType &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual void <a class="el" href="../../d3/d92/a28516.html">SocketMgr</a>&lt; SocketType &gt;::StopNetwork </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  102</span>{</div>
-<div class="line"><span class="lineno">  103</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d3/d92/a28516.html#ae7d4acf20e102b6b8f19ded3fe219a7d">fcc</a> != <a class="code hl_variable" href="../../db/d62/a04730.html#a6f946547b65d321100fd6efa2966180c">MCINMagic</a>.<a class="code hl_variable" href="../../dd/def/a28592.html#a828a2845e666d6eb47d6d4705a663a3d">fcc</a>)</div>
-<div class="line"><span class="lineno">  104</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  105</span> </div>
-<div class="line"><span class="lineno">  106</span>    <span class="comment">// Check cells data</span></div>
-<div class="line"><span class="lineno">  107</span>    <span class="keywordflow">for</span> (<span class="keywordtype">int</span> i = 0; i &lt; <a class="code hl_define" href="../../d3/d06/a04733.html#aaa17abcdb17267fda5cd146bec40af39">ADT_CELLS_PER_GRID</a>; i++)</div>
-<div class="line"><span class="lineno">  108</span>        <span class="keywordflow">for</span> (<span class="keywordtype">int</span> j = 0; j &lt; <a class="code hl_define" href="../../d3/d06/a04733.html#aaa17abcdb17267fda5cd146bec40af39">ADT_CELLS_PER_GRID</a>; j++)</div>
-<div class="line"><span class="lineno">  109</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d3/d92/a28516.html#a434ed0ca354ec27d5334cc63e5650038">cells</a>[i][j].offsMCNK &amp;&amp; !<a class="code hl_function" href="../../d3/d92/a28516.html#a8330b7cb405146399d3d20e6952a8b40">getMCNK</a>(i, j)-&gt;<a class="code hl_function" href="../../d3/d92/a28516.html#adc7346499aa51f4422c810b7e757f835">prepareLoadedData</a>())</div>
-<div class="line"><span class="lineno">  110</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  111</span> </div>
-<div class="line"><span class="lineno">  112</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  113</span>}</div>
-<div class="ttc" id="aa04730_html_a6f946547b65d321100fd6efa2966180c"><div class="ttname"><a href="../../db/d62/a04730.html#a6f946547b65d321100fd6efa2966180c">MCINMagic</a></div><div class="ttdeci">u_map_fcc MCINMagic</div><div class="ttdef"><b>Definition:</b> adt.cpp:27</div></div>
-<div class="ttc" id="aa04733_html_aaa17abcdb17267fda5cd146bec40af39"><div class="ttname"><a href="../../d3/d06/a04733.html#aaa17abcdb17267fda5cd146bec40af39">ADT_CELLS_PER_GRID</a></div><div class="ttdeci">#define ADT_CELLS_PER_GRID</div><div class="ttdef"><b>Definition:</b> adt.h:38</div></div>
-<div class="ttc" id="aa28516_html_a8330b7cb405146399d3d20e6952a8b40"><div class="ttname"><a href="../../d3/d92/a28516.html#a8330b7cb405146399d3d20e6952a8b40">adt_MCIN::getMCNK</a></div><div class="ttdeci">adt_MCNK * getMCNK(int x, int y)</div><div class="ttdef"><b>Definition:</b> adt.h:172</div></div>
-<div class="ttc" id="aa28516_html_adc7346499aa51f4422c810b7e757f835"><div class="ttname"><a href="../../d3/d92/a28516.html#adc7346499aa51f4422c810b7e757f835">adt_MCIN::prepareLoadedData</a></div><div class="ttdeci">bool prepareLoadedData()</div><div class="ttdef"><b>Definition:</b> adt.cpp:101</div></div>
-<div class="ttc" id="aa28516_html_ae7d4acf20e102b6b8f19ded3fe219a7d"><div class="ttname"><a href="../../d3/d92/a28516.html#ae7d4acf20e102b6b8f19ded3fe219a7d">adt_MCIN::fcc</a></div><div class="ttdeci">uint32 fcc</div><div class="ttdef"><b>Definition:</b> adt.h:157</div></div>
-<div class="ttc" id="aa28592_html_a828a2845e666d6eb47d6d4705a663a3d"><div class="ttname"><a href="../../dd/def/a28592.html#a828a2845e666d6eb47d6d4705a663a3d">u_map_fcc::fcc</a></div><div class="ttdeci">uint32 fcc</div><div class="ttdef"><b>Definition:</b> loadlib.h:29</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00038">ADT_CELLS_PER_GRID</a>, <a class="el" href="../../d3/d92/a28516.html#a434ed0ca354ec27d5334cc63e5650038">cells</a>, <a class="el" href="../../#l00157">fcc</a>, <a class="el" href="../../#l00029">u_map_fcc::fcc</a>, <a class="el" href="../../#l00172">getMCNK()</a>, <a class="el" href="../../#l00027">MCINMagic</a>, and <a class="el" href="../../#l00101">prepareLoadedData()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00101">prepareLoadedData()</a>.</p>
+<p>Reimplemented in <a class="el" href="../../d6/d7b/a11048.html#aede126ecfe75f2917aaf730330ea3b82">WorldSocketMgr</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">   73</span>    {</div>
+<div class="line"><span class="lineno">   74</span>        <a class="code hl_variable" href="../../d3/d92/a28516.html#af397e6129662d41adeeef25d27a980ea">_acceptor</a>-&gt;Close();</div>
+<div class="line"><span class="lineno">   75</span> </div>
+<div class="line"><span class="lineno">   76</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d2/d27/a04301.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> i = 0; i &lt; <a class="code hl_variable" href="../../d3/d92/a28516.html#abeae5090b8ea81e39465a20c7b960885">_threadCount</a>; ++i)</div>
+<div class="line"><span class="lineno">   77</span>            <a class="code hl_variable" href="../../d3/d92/a28516.html#a0802f42ee5a7c8fec400e5034d87caac">_threads</a>[i].Stop();</div>
+<div class="line"><span class="lineno">   78</span> </div>
+<div class="line"><span class="lineno">   79</span>        <a class="code hl_function" href="../../d3/d92/a28516.html#aace37f1c8fa4c4c4dd378ba2da496b50">Wait</a>();</div>
+<div class="line"><span class="lineno">   80</span> </div>
+<div class="line"><span class="lineno">   81</span>        <a class="code hl_variable" href="../../d3/d92/a28516.html#af397e6129662d41adeeef25d27a980ea">_acceptor</a>.reset();</div>
+<div class="line"><span class="lineno">   82</span>        <a class="code hl_variable" href="../../d3/d92/a28516.html#a0802f42ee5a7c8fec400e5034d87caac">_threads</a>.reset();</div>
+<div class="line"><span class="lineno">   83</span>        <a class="code hl_variable" href="../../d3/d92/a28516.html#abeae5090b8ea81e39465a20c7b960885">_threadCount</a> = 0;</div>
+<div class="line"><span class="lineno">   84</span>    }</div>
+<div class="ttc" id="aa28516_html_aace37f1c8fa4c4c4dd378ba2da496b50"><div class="ttname"><a href="../../d3/d92/a28516.html#aace37f1c8fa4c4c4dd378ba2da496b50">SocketMgr::Wait</a></div><div class="ttdeci">void Wait()</div><div class="ttdef"><b>Definition:</b> SocketMgr.h:86</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00129">SocketMgr&lt; SocketType &gt;::_acceptor</a>, <a class="el" href="../../#l00131">SocketMgr&lt; SocketType &gt;::_threadCount</a>, <a class="el" href="../../#l00130">SocketMgr&lt; SocketType &gt;::_threads</a>, and <a class="el" href="../../#l00086">SocketMgr&lt; SocketType &gt;::Wait()</a>.</p>
+
+</div>
+</div>
+<a id="aace37f1c8fa4c4c4dd378ba2da496b50" name="aace37f1c8fa4c4c4dd378ba2da496b50"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aace37f1c8fa4c4c4dd378ba2da496b50">&#9670;&#160;</a></span>Wait()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class SocketType &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void <a class="el" href="../../d3/d92/a28516.html">SocketMgr</a>&lt; SocketType &gt;::Wait </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   87</span>    {</div>
+<div class="line"><span class="lineno">   88</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d2/d27/a04301.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> i = 0; i &lt; <a class="code hl_variable" href="../../d3/d92/a28516.html#abeae5090b8ea81e39465a20c7b960885">_threadCount</a>; ++i)</div>
+<div class="line"><span class="lineno">   89</span>            <a class="code hl_variable" href="../../d3/d92/a28516.html#a0802f42ee5a7c8fec400e5034d87caac">_threads</a>[i].<a class="code hl_function" href="../../d3/d92/a28516.html#aace37f1c8fa4c4c4dd378ba2da496b50">Wait</a>();</div>
+<div class="line"><span class="lineno">   90</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00131">SocketMgr&lt; SocketType &gt;::_threadCount</a>, <a class="el" href="../../#l00130">SocketMgr&lt; SocketType &gt;::_threads</a>, and <a class="el" href="../../#l00086">SocketMgr&lt; SocketType &gt;::Wait()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00072">SocketMgr&lt; SocketType &gt;::StopNetwork()</a>, and <a class="el" href="../../#l00086">SocketMgr&lt; SocketType &gt;::Wait()</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a399a96a7cb0aed21ae7fcebd9cb1991a" name="a399a96a7cb0aed21ae7fcebd9cb1991a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a399a96a7cb0aed21ae7fcebd9cb1991a">&#9670;&#160;</a></span></h2>
+<a id="af397e6129662d41adeeef25d27a980ea" name="af397e6129662d41adeeef25d27a980ea"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af397e6129662d41adeeef25d27a980ea">&#9670;&#160;</a></span>_acceptor</h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;class SocketType &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">union  { ... }  adt_MCIN::@380</td>
+          <td class="memname">std::unique_ptr&lt;<a class="el" href="../../df/db6/a28504.html">AsyncAcceptor</a>&gt; <a class="el" href="../../d3/d92/a28516.html">SocketMgr</a>&lt; SocketType &gt;::_acceptor</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00038">SocketMgr&lt; SocketType &gt;::StartNetwork()</a>, <a class="el" href="../../#l00072">SocketMgr&lt; SocketType &gt;::StopNetwork()</a>, and <a class="el" href="../../#l00033">SocketMgr&lt; SocketType &gt;::~SocketMgr()</a>.</p>
 
 </div>
 </div>
-<a id="a434ed0ca354ec27d5334cc63e5650038" name="a434ed0ca354ec27d5334cc63e5650038"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a434ed0ca354ec27d5334cc63e5650038">&#9670;&#160;</a></span>cells</h2>
+<a id="abeae5090b8ea81e39465a20c7b960885" name="abeae5090b8ea81e39465a20c7b960885"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abeae5090b8ea81e39465a20c7b960885">&#9670;&#160;</a></span>_threadCount</h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;class SocketType &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">struct <a class="el" href="../../da/dce/a28524.html">adt_MCIN::adt_CELLS</a> adt_MCIN::cells[<a class="el" href="../../d3/d06/a04733.html#aaa17abcdb17267fda5cd146bec40af39">ADT_CELLS_PER_GRID</a>][<a class="el" href="../../d3/d06/a04733.html#aaa17abcdb17267fda5cd146bec40af39">ADT_CELLS_PER_GRID</a>]</td>
+          <td class="memname"><a class="el" href="../../d2/d27/a04301.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> <a class="el" href="../../d3/d92/a28516.html">SocketMgr</a>&lt; SocketType &gt;::_threadCount {}</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00172">getMCNK()</a>, and <a class="el" href="../../#l00101">prepareLoadedData()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00105">SocketMgr&lt; SocketType &gt;::GetNetworkThreadCount()</a>, <a class="el" href="../../#l00107">SocketMgr&lt; SocketType &gt;::SelectThreadWithMinConnections()</a>, <a class="el" href="../../#l00038">SocketMgr&lt; SocketType &gt;::StartNetwork()</a>, <a class="el" href="../../#l00072">SocketMgr&lt; SocketType &gt;::StopNetwork()</a>, <a class="el" href="../../#l00086">SocketMgr&lt; SocketType &gt;::Wait()</a>, and <a class="el" href="../../#l00033">SocketMgr&lt; SocketType &gt;::~SocketMgr()</a>.</p>
 
 </div>
 </div>
-<a id="ae7d4acf20e102b6b8f19ded3fe219a7d" name="ae7d4acf20e102b6b8f19ded3fe219a7d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae7d4acf20e102b6b8f19ded3fe219a7d">&#9670;&#160;</a></span>fcc</h2>
+<a id="a0802f42ee5a7c8fec400e5034d87caac" name="a0802f42ee5a7c8fec400e5034d87caac"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0802f42ee5a7c8fec400e5034d87caac">&#9670;&#160;</a></span>_threads</h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;class SocketType &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../db/daf/a04412.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> adt_MCIN::fcc</td>
+          <td class="memname">std::unique_ptr&lt;<a class="el" href="../../dc/dde/a28508.html">NetworkThread</a>&lt;SocketType&gt;[]&gt; <a class="el" href="../../d3/d92/a28516.html">SocketMgr</a>&lt; SocketType &gt;::_threads</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00101">prepareLoadedData()</a>.</p>
-
-</div>
-</div>
-<a id="a514bae36851623daf76b26a9d63f1ae0" name="a514bae36851623daf76b26a9d63f1ae0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a514bae36851623daf76b26a9d63f1ae0">&#9670;&#160;</a></span>fcc_txt</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">char adt_MCIN::fcc_txt[4]</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a1a40f52ea9eef3add8207da89cb71210" name="a1a40f52ea9eef3add8207da89cb71210"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1a40f52ea9eef3add8207da89cb71210">&#9670;&#160;</a></span>size</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../db/daf/a04412.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> adt_MCIN::size</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
+<p class="reference">Referenced by <a class="el" href="../../#l00118">SocketMgr&lt; SocketType &gt;::GetSocketForAccept()</a>, <a class="el" href="../../#l00092">SocketMgr&lt; SocketType &gt;::OnSocketOpen()</a>, <a class="el" href="../../#l00107">SocketMgr&lt; SocketType &gt;::SelectThreadWithMinConnections()</a>, <a class="el" href="../../#l00038">SocketMgr&lt; SocketType &gt;::StartNetwork()</a>, <a class="el" href="../../#l00072">SocketMgr&lt; SocketType &gt;::StopNetwork()</a>, <a class="el" href="../../#l00086">SocketMgr&lt; SocketType &gt;::Wait()</a>, and <a class="el" href="../../#l00033">SocketMgr&lt; SocketType &gt;::~SocketMgr()</a>.</p>
 
 </div>
 </div>
@@ -318,8 +664,8 @@ Private Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d3/d92/a28516.html">adt_MCIN</a></li>
-    <li class="footer">Generated on Mon Jul 7 2025 20:48:19 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d3/d92/a28516.html">SocketMgr</a></li>
+    <li class="footer">Generated on Mon Aug 11 2025 20:48:35 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

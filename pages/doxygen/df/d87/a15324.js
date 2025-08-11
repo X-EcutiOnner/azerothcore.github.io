@@ -1,6 +1,6 @@
 var a15324 =
 [
-    [ "npc_webbed_creatureAI", "d5/db2/a15328.html", "d5/db2/a15328" ],
-    [ "npc_webbed_creature", "df/d87/a15324.html#ae52152939766c411e45e827e9ab52d4f", null ],
-    [ "GetAI", "df/d87/a15324.html#a30fd53b81260b7fd6ca06881930b79e9", null ]
+    [ "npc_injured_draeneiAI", "d5/db2/a15328.html", "d5/db2/a15328" ],
+    [ "npc_injured_draenei", "df/d87/a15324.html#a660c0f0c4ed41d70ad0a50cde25c1d14", null ],
+    [ "GetAI", "df/d87/a15324.html#a753bd4a5bb1ddc9feb540a3bedc7d7bb", null ]
 ];

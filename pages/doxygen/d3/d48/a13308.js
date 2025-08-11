@@ -1,12 +1,8 @@
 var a13308 =
 [
-    [ "npc_kiljaeden_controller", "d3/d48/a13308.html#aabe4e5af5ad142bac6cdaa4f6787a7bc", null ],
-    [ "JustDied", "d3/d48/a13308.html#a86c4d79a8caf8a838e353bbf1b78c56d", null ],
-    [ "JustSummoned", "d3/d48/a13308.html#af28211012d8398a450439b8e24bf60ce", null ],
-    [ "Reset", "d3/d48/a13308.html#a11f6f8e86c3ecdecf8e4c5bcb76f8664", null ],
-    [ "ResetOrbs", "d3/d48/a13308.html#a4daacfe92ddb39ade57df3a1bbcd79fd", null ],
-    [ "SummonedCreatureDies", "d3/d48/a13308.html#aed2772552dd500c180c3db4aeef8359a", null ],
-    [ "UpdateAI", "d3/d48/a13308.html#a9f24328d9ffd94ecf3d15303a71acb9b", null ],
-    [ "instance", "d3/d48/a13308.html#a2cb872334b9dd6a4f87468b41f164fc4", null ],
-    [ "summons", "d3/d48/a13308.html#a116a739b2bff3257b35ff7946a3d1995", null ]
+    [ "FilterTargets", "d3/d48/a13308.html#ac7f7287b88cde82fbf8a625f002c86fa", null ],
+    [ "HandleAfterCast", "d3/d48/a13308.html#aa28714ce9ac251fe7c3bdec17b47deb3", null ],
+    [ "Load", "d3/d48/a13308.html#aecfa38940ea3dd287179bdef3d290487", null ],
+    [ "PrepareSpellScript", "d3/d48/a13308.html#a222e2c8e5401c132e89b29bbd22d46a6", null ],
+    [ "Register", "d3/d48/a13308.html#a1a3607dd7e3d56bde3b92cbf4bcd0e78", null ]
 ];

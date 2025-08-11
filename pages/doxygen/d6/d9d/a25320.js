@@ -1,6 +1,6 @@
 var a25320 =
 [
-    [ "CalculateAmount", "d6/d9d/a25320.html#a83bf0327aade6f6a33293a442ad10911", null ],
-    [ "PrepareAuraScript", "d6/d9d/a25320.html#aa964f4eb7391dab54ff744fc94306de1", null ],
-    [ "Register", "d6/d9d/a25320.html#a37d29d87bec2fe2908b7d3e47f5e1caa", null ]
+    [ "CalculateDamage", "d6/d9d/a25320.html#a2b0d2465c42bb32a2e0a2be1884eddb6", null ],
+    [ "PrepareSpellScript", "d6/d9d/a25320.html#a4271f026fd9cddeb109761e9b864c381", null ],
+    [ "Register", "d6/d9d/a25320.html#a03bb4cf19328efa783600273663b609a", null ]
 ];

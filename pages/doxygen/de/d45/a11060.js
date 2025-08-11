@@ -1,7 +1,8 @@
 var a11060 =
 [
-    [ "DynObjAura", "de/d45/a11060.html#aef75bb5d60c10ac63821b0e9baf6eb7a", null ],
-    [ "FillTargetMap", "de/d45/a11060.html#af8e36643ed675ff5652e4665bee9b0c3", null ],
-    [ "Remove", "de/d45/a11060.html#ada3f65b4a817e2337da43da437b93a3b", null ],
-    [ "Aura::Create", "de/d45/a11060.html#ae2c0fdfb409846fec5e861de60797112", null ]
+    [ "SkillExtraItemEntry", "de/d45/a11060.html#a3f7a8bc0b81407e7d5567c7da3e65ec5", null ],
+    [ "SkillExtraItemEntry", "de/d45/a11060.html#a39a44cb09912cb0a15a5dd3b18787d16", null ],
+    [ "additionalCreateChance", "de/d45/a11060.html#a299d886468e9caf22f9d6ce80a64c247", null ],
+    [ "newMaxOrEntry", "de/d45/a11060.html#adfda967d36154b039495f0b289a5c9d1", null ],
+    [ "requiredSpecialization", "de/d45/a11060.html#a0ba0ba6f012a10b717ca4e6c2f46cf26", null ]
 ];

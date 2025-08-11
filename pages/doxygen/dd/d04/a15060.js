@@ -1,13 +1,7 @@
 var a15060 =
 [
-    [ "boss_cthun", "dd/d04/a15060.html#a287ee7b65708971e4fdfa7b814486935", null ],
-    [ "DoAction", "dd/d04/a15060.html#a04ae38b67d358f1d34820b855aab3869", null ],
-    [ "JustDied", "dd/d04/a15060.html#a3c6478e7de0e5a6f20f693a788bf8c86", null ],
-    [ "JustEngagedWith", "dd/d04/a15060.html#a56fe3347ac41b67fb6912f372a5879ba", null ],
-    [ "Reset", "dd/d04/a15060.html#a05bab8427cd4b4bfa50aee450e423f98", null ],
-    [ "ScheduleTasks", "dd/d04/a15060.html#a5a0514e56217bb3b30b22b2681542adb", null ],
-    [ "SummonedCreatureDies", "dd/d04/a15060.html#a49d76bb4cf30ee66fae6114313394961", null ],
-    [ "UpdateAI", "dd/d04/a15060.html#a7d2685597f1eec2459fe509e5b97681f", null ],
-    [ "_fleshTentaclesKilled", "dd/d04/a15060.html#a139de83ae488c40d40a4587509cd197d", null ],
-    [ "WisperTimer", "dd/d04/a15060.html#abad23f1df9c6989e7a6d3d62143adb05", null ]
+    [ "npc_hivezara_stinger", "dd/d04/a15060.html#ac9438c9dd260a41d6248f2adcc14b555", null ],
+    [ "JustEngagedWith", "dd/d04/a15060.html#a433d31057f1732ef7ef15d2023e18b8a", null ],
+    [ "Reset", "dd/d04/a15060.html#ae8e893c90942a469628c393d5b5380cc", null ],
+    [ "UpdateAI", "dd/d04/a15060.html#a35a6511ebc0301ae0bb22aafc91c8524", null ]
 ];

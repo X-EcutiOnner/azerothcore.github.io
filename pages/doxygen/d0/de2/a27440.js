@@ -1,19 +1,10 @@
 var a27440 =
 [
-    [ "npc_simoneAI", "d0/de2/a27440.html#ab33ec5a76f35bfd088a3d316df5c091c", null ],
-    [ "CorpseRemoved", "d0/de2/a27440.html#a0bc792b39b9d17a71c86756d2c7b9af0", null ],
-    [ "HandlePetRespawn", "d0/de2/a27440.html#a0d07b3f85a99ce3c0a1d4c482547113f", null ],
-    [ "JustDied", "d0/de2/a27440.html#a1c275b32a6d4730657e26e5a9c305eb6", null ],
-    [ "JustEngagedWith", "d0/de2/a27440.html#a17cad19f460d6cbfe2258ada48de46cd", null ],
-    [ "JustRespawned", "d0/de2/a27440.html#af456d04fec4a22fa6662ab5a0ccb902b", null ],
-    [ "Precious", "d0/de2/a27440.html#ad40c5f293558ca5a00614810a89d86c9", null ],
-    [ "PreciousAI", "d0/de2/a27440.html#acbdf0e5404402edf28fecf8657303aba", null ],
-    [ "Reset", "d0/de2/a27440.html#a1a62a843922448390151ed14e0ca2148", null ],
-    [ "RespawnPet", "d0/de2/a27440.html#af6d0cad159d88862e915c9f9337a49e3", null ],
-    [ "ScheduleEncounterStart", "d0/de2/a27440.html#ab879f0b452e511212be4df530b11d461", null ],
-    [ "SetPreciousGUID", "d0/de2/a27440.html#a1b735e7c99ba743c74c10911ec08f12b", null ],
-    [ "SpellHit", "d0/de2/a27440.html#ad50d1248c8a608c52d18ddb9d28168d9", null ],
-    [ "UpdateAI", "d0/de2/a27440.html#ae20237221e1fb3699cfe723c48d5bbf7", null ],
-    [ "events", "d0/de2/a27440.html#a1118fe0b8375db5327a9651a13832523", null ],
-    [ "preciousGUID", "d0/de2/a27440.html#a698a3015b5ad25dfd9ec07dfbb991ea8", null ]
+    [ "npc_prof_alchemy", "d0/de2/a27440.html#a43ea842214fc507c34586d12df8f7fea", null ],
+    [ "HasAlchemySpell", "d0/de2/a27440.html#ac9df824e0923ca86189a53ae391b43c0", null ],
+    [ "OnGossipHello", "d0/de2/a27440.html#add760c538c7882e1ad8331b8ded74f5c", null ],
+    [ "OnGossipSelect", "d0/de2/a27440.html#a2377df97a293fb3fcbe7f70d4d815b75", null ],
+    [ "SendActionMenu", "d0/de2/a27440.html#a2d4c7337b40be323a384a9e755fc3145", null ],
+    [ "SendConfirmLearn", "d0/de2/a27440.html#a548224b30494636b9ee292a533fc7b39", null ],
+    [ "SendConfirmUnlearn", "d0/de2/a27440.html#ae4c861cf383f39d2e5ceebc9be4b568c", null ]
 ];

@@ -1,6 +1,6 @@
 var a26724 =
 [
-    [ "CheckCast", "dc/d9a/a26724.html#acdb69e605c4e3b5eb3e48f400957db28", null ],
-    [ "PrepareSpellScript", "dc/d9a/a26724.html#a1fb9a924ddba358d6d67943c5b2ffa24", null ],
-    [ "Register", "dc/d9a/a26724.html#a703b21a93ba41211ac6e6ee182eecb8b", null ]
+    [ "HandleDummy", "dc/d9a/a26724.html#af5bccd5dfb9aa37215b083438b6749ea", null ],
+    [ "PrepareSpellScript", "dc/d9a/a26724.html#a6c2b858c893ed215d1192073b06db81d", null ],
+    [ "Register", "dc/d9a/a26724.html#a1b23dc4a7a04e4c910bb738d45a8df1f", null ]
 ];

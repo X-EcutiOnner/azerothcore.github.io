@@ -1,8 +1,8 @@
 var a19976 =
 [
-    [ "HandleOnEffectApply", "d6/dec/a19976.html#a83ff54727e886161c5568a60833932d1", null ],
-    [ "HandleOnEffectRemove", "d6/dec/a19976.html#a9e48d1c9dc26f882ee685a2cbf59667e", null ],
-    [ "PrepareAuraScript", "d6/dec/a19976.html#a5ec8ffeceae335423dff10f54e096e8a", null ],
-    [ "Register", "d6/dec/a19976.html#ae07af138c6f9c565799574b4f8343492", null ],
-    [ "Validate", "d6/dec/a19976.html#a3a24a25c9b9b118d20ca2b14fbfc5869", null ]
+    [ "FilterTargets", "d6/dec/a19976.html#a93b41db0e89710c6e0e3c764d51d37ad", null ],
+    [ "HandleScript", "d6/dec/a19976.html#a0c7d9007a9401b96a3c1f8614dc1a2db", null ],
+    [ "PrepareSpellScript", "d6/dec/a19976.html#aea46762f43b31923617f740e0545fe98", null ],
+    [ "Register", "d6/dec/a19976.html#a6ccde780ea9fba273b96d6fd9558a2d1", null ],
+    [ "Validate", "d6/dec/a19976.html#af526a7a7a82ec7621f8842e884d7b14f", null ]
 ];

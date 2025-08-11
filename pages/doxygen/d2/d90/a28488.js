@@ -1,8 +1,10 @@
 var a28488 =
 [
-    [ "prepareLoadedData", "d2/d90/a28488.html#a696cfebd8fe66840b316919519e9b319", null ],
-    [ "fcc", "d2/d90/a28488.html#a83cb69fb9eb6eff82a513c75301e5bf6", null ],
-    [ "fcc_txt", "d2/d90/a28488.html#a9c7e27f948978d771115ca4f88f70b5d", null ],
-    [ "height_map", "d2/d90/a28488.html#a50a7fa80b59ba9c0fcd8d93bd924a13f", null ],
-    [ "size", "d2/d90/a28488.html#add2809c6e520cf4aa43807d61f973f0e", null ]
+    [ "area_id", "d2/d90/a28488.html#acbd77950bf9548d266e568640cf38458", null ],
+    [ "map_id", "d2/d90/a28488.html#abeabdc3d225dcd6626a641d6792d7ff8", null ],
+    [ "virtual_map_id", "d2/d90/a28488.html#afe75f114a3aa74a0589cc575e372f1b1", null ],
+    [ "x1", "d2/d90/a28488.html#a78967fef40841f705c2564a177cb36f3", null ],
+    [ "x2", "d2/d90/a28488.html#a037dca812715df0b4f2551f8684b537c", null ],
+    [ "y1", "d2/d90/a28488.html#a7f90073656e1cd00a88add9f8d881d11", null ],
+    [ "y2", "d2/d90/a28488.html#ad8e0164952e5565488d5443f269ec79e", null ]
 ];

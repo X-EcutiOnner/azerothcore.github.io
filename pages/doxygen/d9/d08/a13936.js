@@ -1,5 +1,6 @@
 var a13936 =
 [
-    [ "at_zulgurub_entrance_speech", "d9/d08/a13936.html#afef11c6a7e97befd07072826fa13be55", null ],
-    [ "_OnTrigger", "d9/d08/a13936.html#a55cda55ed70c63f2a0b2ce39b2ffc0a5", null ]
+    [ "npc_zulian_prowlerAI", "de/dc3/a13940.html", "de/dc3/a13940" ],
+    [ "npc_zulian_prowler", "d9/d08/a13936.html#a27ae990985976d02bb221b6d669fa849", null ],
+    [ "GetAI", "d9/d08/a13936.html#a7e7d4f8164bbb728a1b83244c1e356f9", null ]
 ];

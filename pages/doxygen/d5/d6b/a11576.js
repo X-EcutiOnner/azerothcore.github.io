@@ -1,14 +1,15 @@
 var a11576 =
 [
-    [ "cast_commandscript", "d5/d6b/a11576.html#a9c657d2c5404149a45a2db748d23fc2f", null ],
-    [ "CheckSpellCastResult", "d5/d6b/a11576.html#a244b2d11a07fdcbb72f3207ab1e46ea5", null ],
-    [ "CheckSpellExistsAndIsValid", "d5/d6b/a11576.html#a14da4e4674b065c8e8f3d1946a037bda", null ],
-    [ "GetCommands", "d5/d6b/a11576.html#ab0890c036a8d301b382fdd1b6371f671", null ],
-    [ "GetTriggerFlags", "d5/d6b/a11576.html#a26e6986c45a99e6a94d7ba2d9a810aa3", null ],
-    [ "HandleCastBackCommand", "d5/d6b/a11576.html#a964a40278f609a5c5a0bae651484c726", null ],
-    [ "HandleCastCommand", "d5/d6b/a11576.html#ac28430cc0623209b891bacbb4845509b", null ],
-    [ "HandleCastDestCommand", "d5/d6b/a11576.html#a156ca81fba7155205dae106aa4c221d6", null ],
-    [ "HandleCastDistCommand", "d5/d6b/a11576.html#aabbcac8e85c6a64a647d71bb22bebede", null ],
-    [ "HandleCastSelfCommand", "d5/d6b/a11576.html#a69e88bb174c2518584a9ae622e2850bf", null ],
-    [ "HandleCastTargetCommad", "d5/d6b/a11576.html#aa72bd317a3498ef07007c1a9e81e2796", null ]
+    [ "SunsReachReclamationData", "d5/d6b/a11576.html#a840eb2024ae39f2f60f819e884db80b3", null ],
+    [ "GetData", "d5/d6b/a11576.html#ae7ef124f28f2bc8230b4234652734994", null ],
+    [ "GetPhasePercentage", "d5/d6b/a11576.html#a215cec505dd74695704ae7961161e195", null ],
+    [ "GetSubPhasePercentage", "d5/d6b/a11576.html#aaee292336c57d967842d63f55e69bf0f", null ],
+    [ "GetSunwellGatePercentage", "d5/d6b/a11576.html#a9b5de26596e174f9a94e019fcb998f9e", null ],
+    [ "m_gate", "d5/d6b/a11576.html#a35755bcf3f67cfb2ebc77dcb36fa4dfb", null ],
+    [ "m_gateCounters", "d5/d6b/a11576.html#a76b38d6f571386c1d818752e12a66f66", null ],
+    [ "m_phase", "d5/d6b/a11576.html#a67711cd7d43f481161b8f98690d67fe3", null ],
+    [ "m_subphaseMask", "d5/d6b/a11576.html#a0a94a3b69ac5ccfcfae35af007ed375c", null ],
+    [ "m_sunsReachReclamationCounters", "d5/d6b/a11576.html#a14253084085c114aa2cfeefdebb0257d", null ],
+    [ "m_sunsReachReclamationMutex", "d5/d6b/a11576.html#a0ef2835b702469482926ec4942d0f786", null ],
+    [ "m_sunsReachReclamationPlayers", "d5/d6b/a11576.html#a72780ba8e17ccf5513d104eb228b3411", null ]
 ];

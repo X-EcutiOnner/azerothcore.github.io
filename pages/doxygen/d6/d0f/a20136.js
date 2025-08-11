@@ -1,5 +1,7 @@
 var a20136 =
 [
-    [ "go_ulduar_pure_saronite_deposit", "d6/d0f/a20136.html#a39da51a78b9f27392ed7494e18e89b93", null ],
-    [ "OnGossipHello", "d6/d0f/a20136.html#ab69c5b514e0b79ff7155e0080841d4a2", null ]
+    [ "npc_ulduar_saronite_vaporsAI", "d6/d0f/a20136.html#a8f811c588aeca2cd4a12d4d345907bd2", null ],
+    [ "IsSummonedBy", "d6/d0f/a20136.html#a4692bb5c3ffadcfd133db665566c66e5", null ],
+    [ "JustDied", "d6/d0f/a20136.html#a5be637500e7b5735d90e19fa40fde467", null ],
+    [ "pInstance", "d6/d0f/a20136.html#a25cf8dd22f05566ae99b14a596039f5e", null ]
 ];

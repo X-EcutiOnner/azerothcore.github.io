@@ -1,5 +1,6 @@
 var a19928 =
 [
-    [ "go_ulduar_tower", "d3/d66/a19928.html#afc1add1a0543921f52afe1eb907f5de3", null ],
-    [ "OnDestroyed", "d3/d66/a19928.html#aa72ebefe52d49e5b07fb36232efd7e95", null ]
+    [ "npc_pool_of_tarAI", "dd/d61/a19932.html", "dd/d61/a19932" ],
+    [ "npc_pool_of_tar", "d3/d66/a19928.html#a9c585318b4507babe77b3ba758b06a87", null ],
+    [ "GetAI", "d3/d66/a19928.html#ae77bf48a72ce49f821085f32127e91dc", null ]
 ];

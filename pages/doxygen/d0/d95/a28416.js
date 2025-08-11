@@ -1,5 +1,5 @@
 var a28416 =
 [
-    [ "ByteBufferPositionException", "d0/d95/a28416.html#a6c2e31012a8ccf20d52c6431e024a576", null ],
-    [ "~ByteBufferPositionException", "d0/d95/a28416.html#aba8b7764a5517fa3e4a26d7ced1ad38f", null ]
+    [ "Duration", "d0/d95/a28416.html#a20417b0f394c08c779fd3851c2cde87d", null ],
+    [ "ID", "d0/d95/a28416.html#a04f9304093a15b4b7f6596993f2e86d9", null ]
 ];

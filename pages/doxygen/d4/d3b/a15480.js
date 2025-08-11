@@ -1,7 +1,6 @@
 var a15480 =
 [
-    [ "npc_giant_spotlightAI", "d4/d3b/a15480.html#ae0f6686aaeacafce193e0d4590cf8c09", null ],
-    [ "Reset", "d4/d3b/a15480.html#a79f6703107eed52a3aeae30393507c0f", null ],
-    [ "UpdateAI", "d4/d3b/a15480.html#a8567f936dd15933300497d5abe80a272", null ],
-    [ "events", "d4/d3b/a15480.html#a20d1087e59daae9189d78f04ea2b2d05", null ]
+    [ "npcs_riverbreeze_and_silversky", "d4/d3b/a15480.html#a9f012d5bbaa8b9f9822ddfbd86e7c4b2", null ],
+    [ "OnGossipHello", "d4/d3b/a15480.html#a7de032322a37f929c316aadfdadda768", null ],
+    [ "OnGossipSelect", "d4/d3b/a15480.html#a93c7b159dda733da5030de747bad30b5", null ]
 ];

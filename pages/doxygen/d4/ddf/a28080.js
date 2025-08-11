@@ -1,11 +1,7 @@
 var a28080 =
 [
-    [ "Displayid", "d4/ddf/a28080.html#a4aa3c391401f39d6f4a595f4dff0668b", null ],
-    [ "filename", "d4/ddf/a28080.html#a0cee5b90a15b39e1ff49231e332cc320", null ],
-    [ "maxX", "d4/ddf/a28080.html#a10563ae885d34e516825a18db95b40e7", null ],
-    [ "maxY", "d4/ddf/a28080.html#a711286df6d2bd74246dee2170052c17a", null ],
-    [ "maxZ", "d4/ddf/a28080.html#acb74e32790b2c60cca5faef1caa225e4", null ],
-    [ "minX", "d4/ddf/a28080.html#a77466c3aabd4e7b6b7aa8b5f9f2a82da", null ],
-    [ "minY", "d4/ddf/a28080.html#a7168f5b3229bd27edde78e88bf7dc20a", null ],
-    [ "minZ", "d4/ddf/a28080.html#ac88aefc2530212b9dff10e018c4e9305", null ]
+    [ "cutPercent", "d4/ddf/a28080.html#a8581a6a5198dab10680f477a477a7c80", null ],
+    [ "depositPercent", "d4/ddf/a28080.html#af7bb868f1a1e8d570ce7b6cb10ad87d9", null ],
+    [ "faction", "d4/ddf/a28080.html#a4b857e3c4c333b2a86f7f5d08bcc883d", null ],
+    [ "houseId", "d4/ddf/a28080.html#a1bf77c1b14731def0e3de44143df2eed", null ]
 ];

@@ -1,12 +1,6 @@
 var a21056 =
 [
-    [ "boss_skarvald_the_constructor", "d9/d87/a21056.html#a32d092ecf17aaafc61cefb4c0efce639", null ],
-    [ "DoAction", "d9/d87/a21056.html#a63c9e981a198f6fefe8d1fa4d8ede20e", null ],
-    [ "JustDied", "d9/d87/a21056.html#a9180dcb3c22944c75e5e424dc1a78339", null ],
-    [ "JustEngagedWith", "d9/d87/a21056.html#a529439d257abf78f76db0043549964e6", null ],
-    [ "KilledUnit", "d9/d87/a21056.html#a9d65e24161dd1f7bac9fe991624c5c80", null ],
-    [ "Reset", "d9/d87/a21056.html#ada2068f8b5d125062ec0b7fde0d05c7f", null ],
-    [ "UpdateAI", "d9/d87/a21056.html#a9c1f74c20a5a9f47f9430450742938a2", null ],
-    [ "events", "d9/d87/a21056.html#a28837280e161f6971564a4725c97a154", null ],
-    [ "pInstance", "d9/d87/a21056.html#ab5b773a9960f611a6383578a607ba258", null ]
+    [ "npc_ulduar_arachnopod_destroyerAI", "d6/d2b/a21060.html", "d6/d2b/a21060" ],
+    [ "npc_ulduar_arachnopod_destroyer", "d9/d87/a21056.html#aec69c3c143ec27734dd3f2d8db0da9fd", null ],
+    [ "GetAI", "d9/d87/a21056.html#ad667e7bacc181e79cb002181c71aac7c", null ]
 ];

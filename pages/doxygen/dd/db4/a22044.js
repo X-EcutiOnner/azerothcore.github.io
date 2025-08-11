@@ -1,6 +1,5 @@
 var a22044 =
 [
-    [ "npc_boneguard_footmanAI", "dd/db4/a22044.html#a04eff1976824724b321f0c0d95e0940a", null ],
-    [ "UpdateAI", "dd/db4/a22044.html#a9cba65867824daeb50cb2b39d68ad84b", null ],
-    [ "checkTimer", "dd/db4/a22044.html#a46dd1fa8d111dca0584a8e6fb7a6a566", null ]
+    [ "npc_black_knight_graveyardAI", "dd/db4/a22044.html#a908ccf6763240ba0c0ebdf2dec6e1b36", null ],
+    [ "MoveInLineOfSight", "dd/db4/a22044.html#aa5c80b5759656e3865d6721161f9f005", null ]
 ];

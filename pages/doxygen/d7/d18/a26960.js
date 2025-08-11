@@ -1,5 +1,6 @@
 var a26960 =
 [
-    [ "achievement_save_the_day", "d7/d18/a26960.html#a193e4060b6634a87b499b7c8a5e287a1", null ],
-    [ "OnCheck", "d7/d18/a26960.html#a95cfea6cd9ff955ba6800ebdf3a30eb7", null ]
+    [ "CalculateAmount", "d7/d18/a26960.html#a94b6fab25e8cb298650f2a1e2d0b4347", null ],
+    [ "PrepareAuraScript", "d7/d18/a26960.html#a845476e27b3751fd5aab505d41d8696d", null ],
+    [ "Register", "d7/d18/a26960.html#aa5141f11bcd97cc501297a5309df1079", null ]
 ];

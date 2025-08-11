@@ -1,5 +1,5 @@
 var a14484 =
 [
-    [ "npc_pilgrims_bounty_plate", "dd/ddc/a14484.html#ac0217b8fb3a0fbf418ce2d3ca286f2eb", null ],
-    [ "SpellHit", "dd/ddc/a14484.html#a7797b7a532336542ef37f0643df8dec0", null ]
+    [ "PrepareSpellScript", "dd/ddc/a14484.html#aa5593d0da0fe9cb1cb22cb2ccab18e05", null ],
+    [ "Register", "dd/ddc/a14484.html#a99f7d0be5668d5b005400140fc9865a4", null ]
 ];

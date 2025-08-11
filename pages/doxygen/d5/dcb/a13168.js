@@ -1,5 +1,8 @@
 var a13168 =
 [
-    [ "at_malfurion_stormrage", "d5/dcb/a13168.html#ac5da3d1a7c2ccaffee68cfaee04fb63c", null ],
-    [ "OnTrigger", "d5/dcb/a13168.html#a0aa7818bd09b8a456d1ebbaa7d5f5c1d", null ]
+    [ "CalcPeriodic", "d5/dcb/a13168.html#a9aaca3bb1d762c9bddf3b91205f48d00", null ],
+    [ "HandleDummyTick", "d5/dcb/a13168.html#acd3616df94f888ad5fb1c5b0607f6f25", null ],
+    [ "HandleUpdatePeriodic", "d5/dcb/a13168.html#a70ef86fd58eec1422bac6b61a4123842", null ],
+    [ "PrepareAuraScript", "d5/dcb/a13168.html#a9a97a6ab249728dbad4d3603640a7963", null ],
+    [ "Register", "d5/dcb/a13168.html#ab6b223ed68a521ea9a3cbc2a6e21ac49", null ]
 ];

@@ -1,9 +1,18 @@
 var a21424 =
 [
-    [ "npc_azure_stalkerAI", "d5/d98/a21424.html#a1499e734f0d95d491bcd23c2e858a1ee", null ],
-    [ "Reset", "d5/d98/a21424.html#a9bd36e95ce7c3157a2ac53400da51d23", null ],
-    [ "UpdateAI", "d5/d98/a21424.html#a8c4ea046d69b269e886960ba9562fd0c", null ],
-    [ "TacticalBlinkCasted", "d5/d98/a21424.html#a875a272380251fcc7f98e5c0f84bb41a", null ],
-    [ "uiBackstabTimer", "d5/d98/a21424.html#ad03ba957706a62e3d8091d025ddd50dc", null ],
-    [ "uiTacticalBlinkTimer", "d5/d98/a21424.html#ab817fb9f2f06715f0a08a99e12693697", null ]
+    [ "violet_hold_trashAI", "d5/d98/a21424.html#a87011739810f39291655bc835f9995bd", null ],
+    [ "AttackStart", "d5/d98/a21424.html#ab2d2157977ae2482217fa8ac344b30af", null ],
+    [ "ClearDoorSealAura", "d5/d98/a21424.html#ad0c756eb5bef8036cb47ebcc9e6915df", null ],
+    [ "CreatureStartAttackDoor", "d5/d98/a21424.html#a1e64a9f7c82275969e099b5012a32924", null ],
+    [ "EnterEvadeMode", "d5/d98/a21424.html#ab189607a468514d6c472ac40e6f3d85b", null ],
+    [ "JustDied", "d5/d98/a21424.html#acd512cd3722a2edf0ca539272ded3c79", null ],
+    [ "JustEngagedWith", "d5/d98/a21424.html#a16e7677aa9597dda938a67c51febde6c", null ],
+    [ "JustReachedHome", "d5/d98/a21424.html#ae98d0cd977d59cbfe567fa6e294cde7e", null ],
+    [ "MoveInLineOfSight", "d5/d98/a21424.html#ab0e73a03d6e36a35eb393127bce3dad3", null ],
+    [ "UpdateAI", "d5/d98/a21424.html#a8647797343650fcd4f6304bce3742883", null ],
+    [ "WaypointReached", "d5/d98/a21424.html#ac218e3761b79d4d8186ad8d12e0d0b57", null ],
+    [ "bAddedWP", "d5/d98/a21424.html#ad2e8841054cece73bdc7c2e7782c96a8", null ],
+    [ "bAlt", "d5/d98/a21424.html#ad84ecad1a57f0af44af2795a252d2214", null ],
+    [ "pInstance", "d5/d98/a21424.html#a0a5f5b86cd54c28a828db2ac3e83126b", null ],
+    [ "PLoc", "d5/d98/a21424.html#a9e9ca535b9d2fa1b246975f984c96998", null ]
 ];

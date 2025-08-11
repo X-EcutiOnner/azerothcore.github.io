@@ -1,6 +1,8 @@
 var a20468 =
 [
-    [ "npc_ulduar_emergency_fire_botAI", "d9/d37/a20472.html", "d9/d37/a20472" ],
-    [ "npc_ulduar_emergency_fire_bot", "d1/d84/a20468.html#a1adc05ac4602ab2b297b18f605bfd2cd", null ],
-    [ "GetAI", "d1/d84/a20468.html#afb3ab952495175c5f571d4e39a5acea4", null ]
+    [ "npc_ulduar_magnetic_coreAI", "d1/d84/a20468.html#a585437dff0c49ac1a6bf7929ab266ff5", null ],
+    [ "SetData", "d1/d84/a20468.html#a27c31856d2bfe3228ae3b0b361064d7a", null ],
+    [ "UpdateAI", "d1/d84/a20468.html#ab9113a021844aa7ea8ac46df9c50b205", null ],
+    [ "despawnTimer", "d1/d84/a20468.html#ad244ccbaeda814b9e56fad93f06f12fe", null ],
+    [ "pInstance", "d1/d84/a20468.html#a3e01c612a689d89bdbe3529c429a413d", null ]
 ];

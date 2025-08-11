@@ -1,6 +1,5 @@
 var a19332 =
 [
-    [ "boss_drakosAI", "d3/d48/a19336.html", "d3/d48/a19336" ],
-    [ "boss_drakos", "d0/db0/a19332.html#aa70ae2809af4f24eea0b83b42d695448", null ],
-    [ "GetAI", "d0/db0/a19332.html#a16dcc7f9da254d0bddc19394a1cd4ab0", null ]
+    [ "achievement_intense_cold", "d0/db0/a19332.html#a2377357d6bfc03e5b91354428d3da3de", null ],
+    [ "OnCheck", "d0/db0/a19332.html#ab8a774af80a7fb1764df97c9eea57ffc", null ]
 ];

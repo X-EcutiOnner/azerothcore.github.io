@@ -1,5 +1,8 @@
 var a14376 =
 [
-    [ "go_pumpkin_shrine", "de/d10/a14376.html#ab9b05caa7ef7d740a0c46171c2160a19", null ],
-    [ "OnGossipSelect", "de/d10/a14376.html#a35763a67d39c1d68974a9602ce26b699", null ]
+    [ "CalcPeriodic", "de/d10/a14376.html#ae2ce9c161a25385c6de1f4b7607c9935", null ],
+    [ "HandleEffectApply", "de/d10/a14376.html#a4321da69ee59416bd50e621b804e5423", null ],
+    [ "HandleEffectPeriodicUpdate", "de/d10/a14376.html#a3f23e4a8fecf83ba580c904f15e1e98b", null ],
+    [ "PrepareAuraScript", "de/d10/a14376.html#a956136be8cb484efc9af2429d8779a03", null ],
+    [ "Register", "de/d10/a14376.html#a1d4b1c43305b3133e4ac7f8b6ce70727", null ]
 ];

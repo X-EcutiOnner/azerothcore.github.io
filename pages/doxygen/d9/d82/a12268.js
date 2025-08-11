@@ -1,7 +1,7 @@
 var a12268 =
 [
-    [ "HandleDummy", "d9/d82/a12268.html#a7fca477ef5c86d543cd59571ad8dc7de", null ],
-    [ "PrepareSpellScript", "d9/d82/a12268.html#a6ec124990f202af0c6063c285bf04d88", null ],
-    [ "Register", "d9/d82/a12268.html#a5adf9f0bbe5b72c4c22f569086582f0f", null ],
-    [ "Validate", "d9/d82/a12268.html#ae35efa08f507aac5b72166a216d01870", null ]
+    [ "ClassCallSelector", "d9/d82/a12268.html#a223895c97121b0727aac258c12c89e0b", null ],
+    [ "operator()", "d9/d82/a12268.html#ab0d2ab1d94d72c6a202ed0cb2900dd2e", null ],
+    [ "_me", "d9/d82/a12268.html#a5347a24609a21ae0a342682104b1dc14", null ],
+    [ "_targetClass", "d9/d82/a12268.html#a7ce861956ec8d216d2f8cba82c69ea50", null ]
 ];

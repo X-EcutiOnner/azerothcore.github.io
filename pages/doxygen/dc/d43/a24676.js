@@ -1,8 +1,7 @@
 var a24676 =
 [
-    [ "AfterRemove", "dc/d43/a24676.html#afdd1575bce3b34da6e3a101eaa695c41", null ],
-    [ "HandleDispel", "dc/d43/a24676.html#a3c2ffe31074115f6cab5f4b18b05dbc3", null ],
-    [ "PrepareAuraScript", "dc/d43/a24676.html#a44e66753516d693c31dba27c9d1ad250", null ],
-    [ "Register", "dc/d43/a24676.html#aa21ecabbf52b457e163f17b3012b0f84", null ],
-    [ "Validate", "dc/d43/a24676.html#a6af7e5aa16b3c84ed1388e2f62424701", null ]
+    [ "AfterApply", "dc/d43/a24676.html#a1849f49a9682627753b8bd39b3ff827e", null ],
+    [ "AfterRemove", "dc/d43/a24676.html#a7c08bea735cd36840463aa942e7529b4", null ],
+    [ "PrepareAuraScript", "dc/d43/a24676.html#ad27880f797137cae09381e860727e2f7", null ],
+    [ "Register", "dc/d43/a24676.html#a6c105609c1ee61a8f845018550b2e3ba", null ]
 ];

@@ -1,7 +1,5 @@
 var a18892 =
 [
-    [ "npc_ioc_gunship_captainAI", "d9/d12/a18892.html#a23477a6f29b13308067c1f42ced1e9fe", null ],
-    [ "DoAction", "d9/d12/a18892.html#a89fb251869d6bfbefbca1e2d3178178a", null ],
-    [ "UpdateAI", "d9/d12/a18892.html#a222b304633143bba47d3edde67ea093b", null ],
-    [ "_events", "d9/d12/a18892.html#aa8b7c262641a5f1f86c5ae39f8b62dca", null ]
+    [ "creatureEntry", "d9/d12/a18892.html#afab12c40af70303dff2a9553d47dbb7d", null ],
+    [ "questId", "d9/d12/a18892.html#ace2a7dd58d442b6afb2173311c89593b", null ]
 ];

@@ -1,6 +1,6 @@
 var a19760 =
 [
-    [ "boss_stormcaller_brundirAI", "df/de5/a19764.html", "df/de5/a19764" ],
-    [ "boss_stormcaller_brundir", "d0/d46/a19760.html#aa966d1534a58e3832c46772043956533", null ],
-    [ "GetAI", "d0/d46/a19760.html#a399b1b7cf2ee74c1e672231e922ff4fa", null ]
+    [ "PrepareSpellScript", "d0/d46/a19760.html#af280f3880e2e567188ba8ca3e45c00c0", null ],
+    [ "RecalculateDamage", "d0/d46/a19760.html#a54c26d24f62c36108f9fceb7a0c53e37", null ],
+    [ "Register", "d0/d46/a19760.html#aac131aa2d2e5342cf0303b918a077b45", null ]
 ];

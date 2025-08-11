@@ -1,7 +1,6 @@
 var a12972 =
 [
-    [ "CheckCast", "dc/dd6/a12972.html#a3fe12c32e49232c2ea80095e62b4f981", null ],
-    [ "HandleScriptEffect", "dc/dd6/a12972.html#af265f0bba7028f45763a7f9afea2d051", null ],
-    [ "PrepareSpellScript", "dc/dd6/a12972.html#a27518fd5482e65e0324100057e747d68", null ],
-    [ "Register", "dc/dd6/a12972.html#a07789d7d092eb1b6633200442466c52b", null ]
+    [ "npc_scarlet_courierAI", "db/d38/a12976.html", "db/d38/a12976" ],
+    [ "npc_scarlet_courier", "dc/dd6/a12972.html#ac9bb46ff40bdf5c83d55c14e52243004", null ],
+    [ "GetAI", "dc/dd6/a12972.html#a4b6b5a14ec6ce13a9ce7089f08bce9f5", null ]
 ];

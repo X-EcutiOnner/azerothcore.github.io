@@ -1,5 +1,4 @@
 var a00896 =
 [
-    [ "WorldPackets::Totem::TotemDestroyed", "d2/db6/a10898.html", "d2/db6/a10898" ],
-    [ "WorldPackets::Totem::TotemCreated", "dd/d6e/a10902.html", "dd/d6e/a10902" ]
+    [ "ScriptRegistry< FormulaScript >", "da/dd6/a00896.html#a774b8f7659d09535a55ac9bbdcf46025", null ]
 ];

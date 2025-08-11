@@ -1,8 +1,7 @@
 var a20164 =
 [
-    [ "npc_ulduar_flash_freezeAI", "de/d76/a20164.html#a478e7bc76a7b7ffeb25a0df731cb5ed8", null ],
-    [ "DamageTaken", "de/d76/a20164.html#af0c18460b4cc331f51c44a3306f516b8", null ],
-    [ "UpdateAI", "de/d76/a20164.html#ab2efa0a8d06297bff05502c40079efe9", null ],
-    [ "pInstance", "de/d76/a20164.html#a28be7874fee6dcaea6f205cb75f1450f", null ],
-    [ "timer", "de/d76/a20164.html#a590117afe9e9943d8dc8a44af9386066", null ]
+    [ "HandleAfterHit", "de/d76/a20164.html#a75953cbb3a288fd373e602ed07d84441", null ],
+    [ "PrepareSpellScript", "de/d76/a20164.html#a55c604f072fd0bbdcb886635fb53eaa8", null ],
+    [ "Register", "de/d76/a20164.html#af963f0dcdf2a1bc040a597c06983f0a7", null ],
+    [ "Validate", "de/d76/a20164.html#aea2b951dd2353800958f654df58d8fd8", null ]
 ];

@@ -1,8 +1,7 @@
 var a15644 =
 [
-    [ "npc_pluckyAI", "db/d71/a15648.html", "db/d71/a15648" ],
-    [ "npc_plucky", "da/db5/a15644.html#a86bb2992b8af5893987145117aaf3608", null ],
-    [ "GetAI", "da/db5/a15644.html#a51e73f4e1f618aee5a000e31328efefc", null ],
-    [ "OnGossipHello", "da/db5/a15644.html#a3443f3e8c2b3fcc96955ab2e55e7fd61", null ],
-    [ "OnGossipSelect", "da/db5/a15644.html#a88fa465246b4c657b921ebdc96f7a112", null ]
+    [ "npc_giltharesAI", "da/db5/a15644.html#af22e42b2180987febd964784b6d49b5e", null ],
+    [ "JustEngagedWith", "da/db5/a15644.html#ae9ba65652db3d2d32920d1a98594727a", null ],
+    [ "Reset", "da/db5/a15644.html#a34d57ef71b60fe71c749f790cecf70b2", null ],
+    [ "WaypointReached", "da/db5/a15644.html#a9308c73760e50e0f3d04031b508526d1", null ]
 ];

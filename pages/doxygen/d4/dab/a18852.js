@@ -1,5 +1,6 @@
 var a18852 =
 [
-    [ "creatureEntry", "d4/dab/a18852.html#afab12c40af70303dff2a9553d47dbb7d", null ],
-    [ "questId", "d4/dab/a18852.html#ace2a7dd58d442b6afb2173311c89593b", null ]
+    [ "npc_icc_gauntlet_controllerAI", "de/db7/a18856.html", "de/db7/a18856" ],
+    [ "npc_icc_gauntlet_controller", "d4/dab/a18852.html#a5fc4c941842e25bc3da93686e588627b", null ],
+    [ "GetAI", "d4/dab/a18852.html#a4ed1a69fb537e7ce547a3a57253990c4", null ]
 ];

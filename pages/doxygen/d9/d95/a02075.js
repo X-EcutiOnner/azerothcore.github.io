@@ -1,7 +1,6 @@
 var a02075 =
 [
-    [ "MMapTargetData", "dd/dcd/a08758.html", "dd/dcd/a08758" ],
-    [ "SafeUnitPointer", "dc/d61/a08762.html", "dc/d61/a08762" ],
-    [ "BuildValuesCachePosPointers", "d6/d2d/a08766.html", "d6/d2d/a08766" ],
-    [ "BuildValuesCachedBuffer", "d6/d0d/a08770.html", "d6/d0d/a08770" ]
+    [ "bg_commandscript", "d7/d6c/a11596.html", "d7/d6c/a11596" ],
+    [ "AddSC_bag_commandscript", "d9/d95/a02075.html#a8fa1e803122341d611168b2b62fde4e5", null ],
+    [ "itemQualityToString", "d9/d95/a02075.html#af266597924b9d3f439ffc9908001d2cb", null ]
 ];

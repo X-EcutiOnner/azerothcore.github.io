@@ -1,5 +1,7 @@
 var a12792 =
 [
-    [ "boss_warlord_salaris", "dc/d69/a12792.html#afe9ace28dcd302e9b9a9ebe806e2ada5", null ],
-    [ "JustEngagedWith", "dc/d69/a12792.html#a77b3b531466810ee17f9fd6eadf5872a", null ]
+    [ "HandleDummy", "dc/d69/a12792.html#ac2889b1744117f8c0bffcce04952d7c2", null ],
+    [ "PrepareSpellScript", "dc/d69/a12792.html#a5738144c85424e11f33aada38273e24e", null ],
+    [ "Register", "dc/d69/a12792.html#a206a4d40e082246193ba36c9080cdac1", null ],
+    [ "Validate", "dc/d69/a12792.html#a0718461731d563d2c948848f60101d49", null ]
 ];

@@ -1,5 +1,6 @@
 var a21484 =
 [
-    [ "npc_khunok_the_behemothAI", "d0/deb/a21484.html#a435ac0418fe4bba1d2877ce6bea6451c", null ],
-    [ "MoveInLineOfSight", "d0/deb/a21484.html#a5d54954a159da764aa7b83579e03688c", null ]
+    [ "npc_azure_sorcerorAI", "db/d54/a21488.html", "db/d54/a21488" ],
+    [ "npc_azure_sorceror", "d0/deb/a21484.html#ab81ec144680a37312b0a5e0110365a1a", null ],
+    [ "GetAI", "d0/deb/a21484.html#a647ac2853586e380fdf0e0ffa43abaca", null ]
 ];

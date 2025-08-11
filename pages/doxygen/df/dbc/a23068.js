@@ -1,11 +1,8 @@
 var a23068 =
 [
-    [ "boss_doomlordkazzakAI", "df/dbc/a23068.html#a86a942b48bf1146fb3ab445dc386cab9", null ],
-    [ "JustDied", "df/dbc/a23068.html#a33d0bc150c3c2701f4c0c4d8f39fce29", null ],
-    [ "JustEngagedWith", "df/dbc/a23068.html#a8086a5f8f6edd94525b9aedd083b7b00", null ],
-    [ "JustRespawned", "df/dbc/a23068.html#a174912c149657f4d88446f4ac0631598", null ],
-    [ "KilledUnit", "df/dbc/a23068.html#adb91f475b0e8cb73821860c3c5cc226b", null ],
-    [ "Reset", "df/dbc/a23068.html#a51b19c8e7c5f85c41b3168165bb8b40b", null ],
-    [ "UpdateAI", "df/dbc/a23068.html#a28a0a8345fcd5411491409854acef729", null ],
-    [ "_inBerserk", "df/dbc/a23068.html#a996d17128aca96c00c8416957ebc24d0", null ]
+    [ "Absorb", "df/dbc/a23068.html#a1c054ce067a620e16611cbb9e784cee1", null ],
+    [ "CalculateAmount", "df/dbc/a23068.html#abd828dd3493339db9c0613e960792941", null ],
+    [ "PrepareAuraScript", "df/dbc/a23068.html#a1075139fc82cd8e1b30d4bc0f89fbfe0", null ],
+    [ "Register", "df/dbc/a23068.html#a85840e7d27a7ed256c45de87f4486d45", null ],
+    [ "Update", "df/dbc/a23068.html#afbf28fd4eb66899a424e0b542d561656", null ]
 ];

@@ -1,7 +1,7 @@
 var a15384 =
 [
-    [ "npc_aged_dying_ancient_kodoAI", "d1/d75/a15384.html#aaed19d0c915891d8afecda7df75a8a75", null ],
-    [ "JustRespawned", "d1/d75/a15384.html#a9353ac81b0c209a56313b52f2257ddd2", null ],
-    [ "MoveInLineOfSight", "d1/d75/a15384.html#a295d4bef97b97c7deb31a81274f0818d", null ],
-    [ "SpellHit", "d1/d75/a15384.html#a021b82aa6bd2e118fe810f18349fda42", null ]
+    [ "npc_kerlonianAI", "de/db0/a15388.html", "de/db0/a15388" ],
+    [ "npc_kerlonian", "d1/d75/a15384.html#a8a5ab1fde9f21ac256d5168ef3f17f87", null ],
+    [ "GetAI", "d1/d75/a15384.html#a93d93ba13d8521fee39801473b7c4b6a", null ],
+    [ "OnQuestAccept", "d1/d75/a15384.html#a257d24295318605ac2fd5554315dfd63", null ]
 ];

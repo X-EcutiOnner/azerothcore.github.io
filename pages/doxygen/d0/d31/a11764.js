@@ -1,12 +1,9 @@
 var a11764 =
 [
-    [ "npc_av_marshal_or_warmasterAI", "d0/d31/a11764.html#af3620678992778edbb859622e057893a", null ],
-    [ "AttackStart", "d0/d31/a11764.html#aed39eaed8648ce78349c49ee33918b93", null ],
-    [ "EnterEvadeMode", "d0/d31/a11764.html#a4ac6045b3f3dfd6e3f9e0ea757f4d2c6", null ],
-    [ "JustRespawned", "d0/d31/a11764.html#a460c6912063587214ba0f2e01878d827", null ],
-    [ "Reset", "d0/d31/a11764.html#a56d99bcf5038c372399f16a07a2e5d31", null ],
-    [ "UpdateAI", "d0/d31/a11764.html#a7bf1631810c8446bc157f8ff220199b7", null ],
-    [ "_attacked", "d0/d31/a11764.html#a56d7211a3565c19b499f7de2eda6c862", null ],
-    [ "_hasAura", "d0/d31/a11764.html#a1c0049100cde1c62daf80779d1135156", null ],
-    [ "events", "d0/d31/a11764.html#a49b8e01897cd5347bbd06cac254163f4", null ]
+    [ "send_commandscript", "d0/d31/a11764.html#a3aa5d7cc0b5dcd4875e99dfd6f3dbdde", null ],
+    [ "GetCommands", "d0/d31/a11764.html#a2dc60c8c414c9131b4cda1ff82f7beed", null ],
+    [ "HandleSendItemsCommand", "d0/d31/a11764.html#a7ffcd07e0ad08be2eb8a1ebac0fec717", null ],
+    [ "HandleSendMailCommand", "d0/d31/a11764.html#a5ad6f9387c6fb00bf536629c760ba374", null ],
+    [ "HandleSendMessageCommand", "d0/d31/a11764.html#a91017e6171ac9e4dfff6c2036228de47", null ],
+    [ "HandleSendMoneyCommand", "d0/d31/a11764.html#a26938bb54bb3cb678c49737a92cadb56", null ]
 ];

@@ -1,7 +1,6 @@
 var a15216 =
 [
-    [ "npc_anubisath_warder", "da/deb/a15216.html#aebe14673e5c31000a9626e39d87c6775", null ],
-    [ "JustEngagedWith", "da/deb/a15216.html#a579318fa519eb669573b2cea78c2fee3", null ],
-    [ "Reset", "da/deb/a15216.html#aea0fac8f1eb28591b141ace55c49beeb", null ],
-    [ "UpdateAI", "da/deb/a15216.html#aba428f1f1a016191aa4f168c616c3a29", null ]
+    [ "HandleOnHit", "da/deb/a15216.html#abf5a21f1c88241024e6d3b3c5bffe449", null ],
+    [ "PrepareSpellScript", "da/deb/a15216.html#aa78fc03dacb373c5108e6a5d92e035c6", null ],
+    [ "Register", "da/deb/a15216.html#a1e608d67914c0071a913d96d70c625d6", null ]
 ];

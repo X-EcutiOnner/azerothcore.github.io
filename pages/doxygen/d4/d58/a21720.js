@@ -1,8 +1,14 @@
 var a21720 =
 [
-    [ "npc_future_youAI", "d4/d58/a21720.html#a7608c050dd198e3133050e222b42f62b", null ],
-    [ "EnterEvadeMode", "d4/d58/a21720.html#a0b15c8af6075e323e56b2170ce4eefc0", null ],
-    [ "MoveInLineOfSight", "d4/d58/a21720.html#a35b67f9e948f5ffbde8a423190ece603", null ],
-    [ "Reset", "d4/d58/a21720.html#a01a8cd8f94dd614de2ffefdb19cd9f29", null ],
-    [ "UpdateAI", "d4/d58/a21720.html#ac110daa6b4cf6bf26d9e9f9829577fa6", null ]
+    [ "npc_dalaran_mageAI", "d4/d58/a21720.html#ae896a065d2975c5f4d0a125261796215", null ],
+    [ "Initialize", "d4/d58/a21720.html#a8ede1e1e4599f288f5a8c20c40c11236", null ],
+    [ "JustEngagedWith", "d4/d58/a21720.html#a05e9c672ab73029c70fa3d2605b6174d", null ],
+    [ "Reset", "d4/d58/a21720.html#adee723525f46e5476e135e3043f5feb9", null ],
+    [ "UpdateAI", "d4/d58/a21720.html#ab3d5812e38c1fcc1c01af3fdbd27a61e", null ],
+    [ "blink_timer", "d4/d58/a21720.html#ae888e0e5d3302e0a47b6e3d41f166c67", null ],
+    [ "blizzard_timer", "d4/d58/a21720.html#a5da62a7ee9abf7a94c2543076d6479a6", null ],
+    [ "CoC_Timer", "d4/d58/a21720.html#a8a86c02e2c3759ec1f64087943d37b26", null ],
+    [ "frostfire_timer", "d4/d58/a21720.html#ab91070d41571e0070a7c92bf0694f4cc", null ],
+    [ "frostnova_timer", "d4/d58/a21720.html#a77e9a7686cece7ee97236ce6386f82bf", null ],
+    [ "restoremana_timer", "d4/d58/a21720.html#a33da20a649faa6ee7e61db79846ac4a7", null ]
 ];

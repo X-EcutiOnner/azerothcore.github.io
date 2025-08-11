@@ -1,23 +1,11 @@
 var a00554 =
 [
-    [ "CreatureTextEntry", "d8/d58/a11382.html", "d8/d58/a11382" ],
-    [ "CreatureTextLocale", "d4/d18/a11386.html", "d4/d18/a11386" ],
-    [ "CreatureTextId", "d9/d4f/a11390.html", "d9/d4f/a11390" ],
-    [ "CreatureTextMgr", "d7/d69/a11394.html", "d7/d69/a11394" ],
-    [ "CreatureTextLocalizer< Builder >", "d6/d0f/a11398.html", "d6/d0f/a11398" ],
-    [ "sCreatureTextMgr", "dc/df9/a00554.html#a2dc428da007cefe454220dcb355a1cde", null ],
-    [ "CreatureTextGroup", "dc/df9/a00554.html#a9baeb5ff5e542c90d9058942cf0b4bbd", null ],
-    [ "CreatureTextHolder", "dc/df9/a00554.html#aad09b58ddf486cb766cdeb242824cd2d", null ],
-    [ "CreatureTextMap", "dc/df9/a00554.html#ac48698bcbe36b82577c41f42f3f23f09", null ],
-    [ "CreatureTextRepeatGroup", "dc/df9/a00554.html#aa92b7ce1a721a3955751ae25cf01b22a", null ],
-    [ "CreatureTextRepeatIds", "dc/df9/a00554.html#a4a74e5d0af63228e47e1f663570018ae", null ],
-    [ "CreatureTextRepeatMap", "dc/df9/a00554.html#a919aeba9f103d29372eb10a72f3b1142", null ],
-    [ "LocaleCreatureTextMap", "dc/df9/a00554.html#ab39b2d82775a84108d19ed009bd14747", null ],
-    [ "CreatureTextRange", "dc/df9/a00554.html#adf847039afbebeda9e21210c1f4eb052", [
-      [ "TEXT_RANGE_NORMAL", "dc/df9/a00554.html#adf847039afbebeda9e21210c1f4eb052a649e811a5e8853fa24088dbb708ce9ab", null ],
-      [ "TEXT_RANGE_AREA", "dc/df9/a00554.html#adf847039afbebeda9e21210c1f4eb052a1982e7a678f4ba541ea6ecbfec493385", null ],
-      [ "TEXT_RANGE_ZONE", "dc/df9/a00554.html#adf847039afbebeda9e21210c1f4eb052a182bd5362916ba67bcf6660ce37fae0a", null ],
-      [ "TEXT_RANGE_MAP", "dc/df9/a00554.html#adf847039afbebeda9e21210c1f4eb052a90bf8cfe8ac6e4bac224bd3dd9fbc3a3", null ],
-      [ "TEXT_RANGE_WORLD", "dc/df9/a00554.html#adf847039afbebeda9e21210c1f4eb052a3a88078985d9e80a4543acf0acde52d9", null ]
+    [ "StableResultCode", "dc/df9/a00554.html#abee8740a43e35bc796d1287225999514", [
+      [ "STABLE_ERR_MONEY", "dc/df9/a00554.html#abee8740a43e35bc796d1287225999514a2e1a0a641b8771fd5ac124129e76b8c2", null ],
+      [ "STABLE_ERR_STABLE", "dc/df9/a00554.html#abee8740a43e35bc796d1287225999514af3160ddc997ae8fc32c4420aa8169898", null ],
+      [ "STABLE_SUCCESS_STABLE", "dc/df9/a00554.html#abee8740a43e35bc796d1287225999514a87d687b90cdb7cc884567156b95da61e", null ],
+      [ "STABLE_SUCCESS_UNSTABLE", "dc/df9/a00554.html#abee8740a43e35bc796d1287225999514afb9c62c9485c5e5f50c502a61a8f0ab1", null ],
+      [ "STABLE_SUCCESS_BUY_SLOT", "dc/df9/a00554.html#abee8740a43e35bc796d1287225999514aaa2a19926ebaa7372be4a798c5513317", null ],
+      [ "STABLE_ERR_EXOTIC", "dc/df9/a00554.html#abee8740a43e35bc796d1287225999514ac96f0f7b1cccb7a29b30b8152c780f47", null ]
     ] ]
 ];

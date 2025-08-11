@@ -1,6 +1,8 @@
 var a26716 =
 [
-    [ "HandleAuraApply", "dd/d0e/a26716.html#a19d8103126a6446fb5ade53d2b5d0ddb", null ],
-    [ "PrepareAuraScript", "dd/d0e/a26716.html#a7596065e5ffcacf099a5984f5d940c11", null ],
-    [ "Register", "dd/d0e/a26716.html#a8efa76b28dddad68fee132f37791f231", null ]
+    [ "CheckProc", "dd/d0e/a26716.html#a33412f2b5abb1ce2160408ef13e7f0cb", null ],
+    [ "HandleProc", "dd/d0e/a26716.html#ab24c3d3f697a7ebd146d6135305c7741", null ],
+    [ "PrepareAuraScript", "dd/d0e/a26716.html#a8eccfbb749b85bbb850874324f17bbde", null ],
+    [ "Register", "dd/d0e/a26716.html#a482dd09de6cba9f5a36a6cdad1b82a0a", null ],
+    [ "Validate", "dd/d0e/a26716.html#a0c3020d44608920a2820e73e0b9e4b42", null ]
 ];

@@ -1,9 +1,7 @@
 var a08504 =
 [
-    [ "ActionButton", "d3/d22/a08504.html#a78f4e95d921fb997647f89c67c2a66b7", null ],
-    [ "GetAction", "d3/d22/a08504.html#a7c10f6089fab30179cfe8175b740477a", null ],
-    [ "GetType", "d3/d22/a08504.html#abe5bc143770d411cff0d8c8c425b1253", null ],
-    [ "SetActionAndType", "d3/d22/a08504.html#a29d804ed78d79f64e868e9741b37d7be", null ],
-    [ "packedData", "d3/d22/a08504.html#a2a34a116c4890a12255f9ebe24c1cba8", null ],
-    [ "uState", "d3/d22/a08504.html#a6384e73650da93c96d3b4cc42b151b63", null ]
+    [ "IsInSpec", "d3/d22/a08504.html#a17668f5b6ea479c9e6c0fd2593853a1d", null ],
+    [ "Active", "d3/d22/a08504.html#a7ddfb4a1cbd77fe84e49b42b9a28bb90", null ],
+    [ "specMask", "d3/d22/a08504.html#af178fb95c99f0c961bf12435fc7a3fd5", null ],
+    [ "State", "d3/d22/a08504.html#a54331e3ecac0d39a4fc7a6b8c2c9f532", null ]
 ];

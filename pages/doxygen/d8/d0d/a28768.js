@@ -1,9 +1,8 @@
 var a28768 =
 [
-    [ "CheckCast", "d8/d0d/a28768.html#a846862b62f5750801cd804133f290d5d", null ],
-    [ "HandleDummy", "d8/d0d/a28768.html#aa56609d3c75a69fb62e302622fd11c3c", null ],
-    [ "Load", "d8/d0d/a28768.html#acec7437ba80e4ae491020448a36e4559", null ],
-    [ "PrepareSpellScript", "d8/d0d/a28768.html#ab5e281028c009a4b317111de9a0a17e3", null ],
-    [ "Register", "d8/d0d/a28768.html#a865fa526f2131703a668e113ba0d7849", null ],
-    [ "Validate", "d8/d0d/a28768.html#a6c6dee3de2c54536765cfdd97f4fd0c0", null ]
+    [ "TileInfo", "d8/d0d/a28768.html#af1a25ded4212f141ab4f32db95709210", null ],
+    [ "m_mapId", "d8/d0d/a28768.html#a41f4be7d3fce716754b9ac0310b9ecf9", null ],
+    [ "m_navMeshParams", "d8/d0d/a28768.html#a9d7c909370359edafa8a9b6a91cef354", null ],
+    [ "m_tileX", "d8/d0d/a28768.html#a54cc23d82dfe690e0d62b6156d440fc1", null ],
+    [ "m_tileY", "d8/d0d/a28768.html#ab7fba310dd471fddcf2e7d6fba3205ed", null ]
 ];

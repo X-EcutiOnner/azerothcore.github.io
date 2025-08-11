@@ -1,6 +1,10 @@
 var a15144 =
 [
-    [ "boss_veknilash", "db/d64/a15144.html#a73a4095c3dd0ffbd9d7ef5a8a837f13f", null ],
-    [ "IAmVeklor", "db/d64/a15144.html#a454027d829b962ee0feebb6fd5687714", null ],
-    [ "JustEngagedWith", "db/d64/a15144.html#ace8de3d9a397d0571da1f5bdd2ba84d5", null ]
+    [ "boss_huhuran", "db/d64/a15144.html#a64e0b20891992764c708cbb661c18196", null ],
+    [ "DamageTaken", "db/d64/a15144.html#adb47086f29b41f4168ad5d1b2728547d", null ],
+    [ "JustEngagedWith", "db/d64/a15144.html#a08f1d6550680d5bcf07332eade115730", null ],
+    [ "Reset", "db/d64/a15144.html#a45571aa6bd0c7915fb666cae1c5c4544", null ],
+    [ "UpdateAI", "db/d64/a15144.html#a23962e668f046b373f94ea6a2d75574a", null ],
+    [ "_berserk", "db/d64/a15144.html#a5f3f17d0b239f95ed4eb0bfac85c4463", null ],
+    [ "_hardEnrage", "db/d64/a15144.html#a5612bf8b1eedec159b316b28e6f4c915", null ]
 ];

@@ -1,7 +1,9 @@
 var a15620 =
 [
-    [ "npc_wizzlecrank_shredderAI", "d0/d0a/a15624.html", "d0/d0a/a15624" ],
-    [ "npc_wizzlecrank_shredder", "d2/df3/a15620.html#a56a29a61d6f1a5981019f6c059b4da64", null ],
-    [ "GetAI", "d2/df3/a15620.html#a5c42cc6d8cf2642333731138077af66e", null ],
-    [ "OnQuestAccept", "d2/df3/a15620.html#afcd5aaea5234b6510825d9ce5e809aa6", null ]
+    [ "npc_custodian_of_timeAI", "d2/df3/a15620.html#a2434afcda3bc5681a124bdb1a2c8d56f", null ],
+    [ "JustEngagedWith", "d2/df3/a15620.html#a3b12c06566b0c1d567b6edd8b57b8332", null ],
+    [ "MoveInLineOfSight", "d2/df3/a15620.html#a97b21c4ecc89e4ddd5aef4dab30a7ecf", null ],
+    [ "Reset", "d2/df3/a15620.html#a56bcc694ac286488ed4b3f2328c30573", null ],
+    [ "UpdateAI", "d2/df3/a15620.html#a4b43c5f6eaf70fc93dcb18c183e456dc", null ],
+    [ "WaypointReached", "d2/df3/a15620.html#a963736e62fbd0caea631ee3fb69fca46", null ]
 ];

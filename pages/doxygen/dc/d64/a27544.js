@@ -1,6 +1,6 @@
 var a27544 =
 [
-    [ "npc_garments_of_questsAI", "d6/d76/a27548.html", "d6/d76/a27548" ],
-    [ "npc_garments_of_quests", "dc/d64/a27544.html#a7e4ad68e0187c0a392ed93097b2bf0ce", null ],
-    [ "GetAI", "dc/d64/a27544.html#aa8ad1c654f00e054f9b424f61716eafd", null ]
+    [ "spawnedCreatureEntry", "dc/d64/a27544.html#a32b390dfff99d5fd3c49359779718af4", null ],
+    [ "spawnType", "dc/d64/a27544.html#a056dabf4092da4ef3155a661607ca772", null ],
+    [ "thisCreatureEntry", "dc/d64/a27544.html#a97d3cd7c2751fe85d9724ff1f808ba98", null ]
 ];

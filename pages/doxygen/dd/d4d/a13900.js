@@ -1,12 +1,9 @@
 var a13900 =
 [
-    [ "npc_zulian_prowlerAI", "dd/d4d/a13900.html#a367613efead335b060173011267ddcff", null ],
-    [ "JustDied", "dd/d4d/a13900.html#a31258aadddfbf6c6e9e1d729452dd8b2", null ],
-    [ "JustEngagedWith", "dd/d4d/a13900.html#a207504b15ecd22b78088593b80433581", null ],
-    [ "Reset", "dd/d4d/a13900.html#a62d14bae970d8a70a997c683e0e94259", null ],
-    [ "SpellHit", "dd/d4d/a13900.html#a4051cd786d8c1974cf80c28f907cc02a", null ],
-    [ "UpdateAI", "dd/d4d/a13900.html#a708df3a95395f99f6ba3eebcc90a22ab", null ],
-    [ "_events", "dd/d4d/a13900.html#a994ae5b4e72429141155d1342830e5ad", null ],
-    [ "_instance", "dd/d4d/a13900.html#ad37ba6b6ff7f52a88d2a96dc4ea00c34", null ],
-    [ "_sideData", "dd/d4d/a13900.html#afa44e09c5677c2fc567be6a67b766bde", null ]
+    [ "npc_amanishi_lookout", "dd/d4d/a13900.html#adf34c160c531164a459092f45588a7be", null ],
+    [ "DoAction", "dd/d4d/a13900.html#ab43e3372000af268c81e2701070e1b03", null ],
+    [ "MoveInLineOfSight", "dd/d4d/a13900.html#ab94c8563d7c79279ed4922f1d0411ec9", null ],
+    [ "MovementInform", "dd/d4d/a13900.html#ae9e6d22a781392107a7e50e5815c116c", null ],
+    [ "Reset", "dd/d4d/a13900.html#a42f8e96876f07e37fc4533b7eb732db3", null ],
+    [ "_instance", "dd/d4d/a13900.html#ab1557ad1a2cc6574c200ef691596b0c6", null ]
 ];

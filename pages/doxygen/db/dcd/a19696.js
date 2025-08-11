@@ -1,6 +1,9 @@
 var a19696 =
 [
-    [ "HandlePeriodic", "db/dcd/a19696.html#a0a77c0b232e24e5cb8b3392ac8adbd3a", null ],
-    [ "PrepareAuraScript", "db/dcd/a19696.html#a7c6b6839da4a93f656800c9ae174c832", null ],
-    [ "Register", "db/dcd/a19696.html#ae28e67baa12488e248efd46ef5a7cb11", null ]
+    [ "npc_brann_bronzebeard_algalonAI", "db/dcd/a19696.html#a5ab0ff088866cf9d6af99ee3f42e897a", null ],
+    [ "DoAction", "db/dcd/a19696.html#a9de9e9b19b8a635ec4bc0a4f8c8d13c6", null ],
+    [ "MovementInform", "db/dcd/a19696.html#a7f8d3efed49f0d43a5e9e73ee8bd36e0", null ],
+    [ "UpdateAI", "db/dcd/a19696.html#a16e3fcd7f082e04f648d2341a7e83cba", null ],
+    [ "_currentPoint", "db/dcd/a19696.html#ae9da41b5b4cae16e1ed4709ab41b8964", null ],
+    [ "events", "db/dcd/a19696.html#ab71b71ac63517349cb8702bb29d76334", null ]
 ];

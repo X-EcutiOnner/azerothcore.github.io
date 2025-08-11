@@ -1,7 +1,8 @@
 var a19964 =
 [
-    [ "OnPeriodic", "de/d2e/a19964.html#a9407d5477a40e36863e5fb5775dda122", null ],
-    [ "PrepareAuraScript", "de/d2e/a19964.html#a1ecb6e617976cdfbeb534849db41d57a", null ],
-    [ "Register", "de/d2e/a19964.html#a34a31e96b21de9b9320d8276f7beb45e", null ],
-    [ "Validate", "de/d2e/a19964.html#a2c2ca2c0425ab3b815d246b1caebf588", null ]
+    [ "npc_mechanoliftAI", "de/d2e/a19964.html#ad772427e03c2bd2c3a51556b6e5968b5", null ],
+    [ "Reset", "de/d2e/a19964.html#a8198e7db2c6f4f2ceec984cfd53982b1", null ],
+    [ "UpdateAI", "de/d2e/a19964.html#a3f8634abde6b3aa00acf03c77df433be", null ],
+    [ "_evadeTimer", "de/d2e/a19964.html#a53da6899ad0dcea569ca29f57e45bf61", null ],
+    [ "_startTimer", "de/d2e/a19964.html#a9b1587bbadd8f0044e1d404d55b8ba1f", null ]
 ];

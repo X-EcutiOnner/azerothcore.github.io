@@ -1,6 +1,6 @@
 var a27780 =
 [
-    [ "CalculateAmount", "de/d29/a27780.html#a6faee23ed5947a904e58bfb38cf01d05", null ],
-    [ "PrepareAuraScript", "de/d29/a27780.html#a5e7d089dd117b6b3a605ea2e8aea0b04", null ],
-    [ "Register", "de/d29/a27780.html#a37e277143b2ae6cd88260776941b59bf", null ]
+    [ "X", "de/d29/a27780.html#a55bda49b2eb919415afaf780ca1977de", null ],
+    [ "Y", "de/d29/a27780.html#a0bf22799258050a9b12ddc14bb2b4b11", null ],
+    [ "Z", "de/d29/a27780.html#a7f0ceece775146d825d19a3cd22e5da3", null ]
 ];

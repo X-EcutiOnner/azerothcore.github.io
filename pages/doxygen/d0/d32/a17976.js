@@ -1,12 +1,12 @@
 var a17976 =
 [
-    [ "npc_precious_iccAI", "d0/d32/a17976.html#a90dff89c652339ecf7479d2c9233962a", null ],
-    [ "JustDied", "d0/d32/a17976.html#a06671144929a3783f17397b818016032", null ],
-    [ "JustEngagedWith", "d0/d32/a17976.html#a05cd30f0bf149d16c75ad3f717cb9dcc", null ],
-    [ "JustSummoned", "d0/d32/a17976.html#adafed6974cbd70ccfc0f9ee83732d162", null ],
-    [ "Reset", "d0/d32/a17976.html#a9ecb9771140d1248c08c56886c8d4ca9", null ],
-    [ "SummonedCreatureDespawn", "d0/d32/a17976.html#af59e24c588861fe7d1bcd456780f571a", null ],
-    [ "UpdateAI", "d0/d32/a17976.html#a1fd3a4d7d16bb93be68d8b135546ab1e", null ],
-    [ "events", "d0/d32/a17976.html#a4ac57f4ffe0886f463378b42525e2e4d", null ],
-    [ "summons", "d0/d32/a17976.html#ab752e504c7cf463a4447a07fbb67211c", null ]
+    [ "npc_big_oozeAI", "d0/d32/a17976.html#a3564ffec1ac0ac2c7e29b3c7a6b60958", null ],
+    [ "DoAction", "d0/d32/a17976.html#a6d39eb1f177e8670169f18fcfa2e3c4e", null ],
+    [ "EnterEvadeMode", "d0/d32/a17976.html#ad7251cda20f3e2821077d2327528fd2d", null ],
+    [ "IsSummonedBy", "d0/d32/a17976.html#a85d27ac9fb0b9dbb92b2b17a99eaa612", null ],
+    [ "JustDied", "d0/d32/a17976.html#a2372053a84715990fc7fce3d8e269265", null ],
+    [ "UpdateAI", "d0/d32/a17976.html#a2e1f52ca84363703d95da99ca93d3503", null ],
+    [ "events", "d0/d32/a17976.html#a54f3baa4767f8336ff4699de426aae61", null ],
+    [ "firstUpdate", "d0/d32/a17976.html#af5c34c976137e456d1779ca944f88639", null ],
+    [ "instance", "d0/d32/a17976.html#a788141bf9be03161741d01d0aa4fe227", null ]
 ];

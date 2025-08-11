@@ -1,14 +1,8 @@
 var a09652 =
 [
-    [ "LootItemStorage", "db/d34/a09652.html#aa6ece474f05744f2ce24a9fef42734af", null ],
-    [ "~LootItemStorage", "db/d34/a09652.html#a36faeed6ef556fd13118c4ad34e38548", null ],
-    [ "AddNewStoredLoot", "db/d34/a09652.html#a4c463773b50ae1b312865fbf72dfed18", null ],
-    [ "instance", "db/d34/a09652.html#a58d6dc6afa42364ca1dd6cbdcfb55b2b", null ],
-    [ "LoadStorageFromDB", "db/d34/a09652.html#a377c75f9d06eb246072b29d19baf2b62", null ],
-    [ "LoadStoredLoot", "db/d34/a09652.html#ad9804f564302d6ea4db4b84a6cbb093b", null ],
-    [ "RemoveEntryFromDB", "db/d34/a09652.html#a8ab68725c0525d162d325a2131db4c49", null ],
-    [ "RemoveStoredLoot", "db/d34/a09652.html#a414dee93f9852a64f01f9d9bf8dc8b40", null ],
-    [ "RemoveStoredLootItem", "db/d34/a09652.html#a6fd3f2ac820784ba51413b3781df3bcc", null ],
-    [ "RemoveStoredLootMoney", "db/d34/a09652.html#ab22d267a6701fedf824f801e4b703f70", null ],
-    [ "lootItemStore", "db/d34/a09652.html#a58ae52b9812e5752ba00d00a58eb56b0", null ]
+    [ "BossInfo", "db/d34/a09652.html#a455f533d647927d182176c3cceb21f42", null ],
+    [ "boundary", "db/d34/a09652.html#aa4fb2bc78efb3393004c0f827000e4f1", null ],
+    [ "door", "db/d34/a09652.html#a858af8825ed4fe183ee19b6f10239304", null ],
+    [ "minion", "db/d34/a09652.html#abec1469d41f286d02c34223171373cd3", null ],
+    [ "state", "db/d34/a09652.html#a1e4413b3a8bac20ed9e7ac878e3066f7", null ]
 ];

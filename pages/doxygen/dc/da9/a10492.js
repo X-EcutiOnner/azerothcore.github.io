@@ -1,8 +1,7 @@
 var a10492 =
 [
-    [ "PlayedTime", "dc/da9/a10492.html#abc477d90a27dc41a7c643448302464cf", null ],
-    [ "Write", "dc/da9/a10492.html#a147071f2545cd91213d6c92dab7438c7", null ],
-    [ "LevelTime", "dc/da9/a10492.html#a2bf832827f9497a59bbfac714799b4b5", null ],
-    [ "TotalTime", "dc/da9/a10492.html#ae762fe00339a8f4ca6f9e14bb8515251", null ],
-    [ "TriggerScriptEvent", "dc/da9/a10492.html#a434b33c61ba5e2d91f084cbfe425c964", null ]
+    [ "LogoutResponse", "dc/da9/a10492.html#a434ee19fbc4d3e336444b1c62ac2be84", null ],
+    [ "Write", "dc/da9/a10492.html#a0b08225b6ac303afd20ec213aafe4bcb", null ],
+    [ "Instant", "dc/da9/a10492.html#aad6819dc426b91b6ad43f180a53e12ef", null ],
+    [ "LogoutResult", "dc/da9/a10492.html#a5543bf1a6342e9a217cd906e4a185b2e", null ]
 ];

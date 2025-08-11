@@ -1,9 +1,10 @@
 var a10004 =
 [
-    [ "counter", "d7/d1c/a10004.html#a0efb94229f4a9370dc5b256ba623385b", null ],
-    [ "getCurrent", "d7/d1c/a10004.html#afff6411c2b7f1c07d72ad26dc77d4780", null ],
-    [ "Increase", "d7/d1c/a10004.html#a463e0ba077c8398a6125e715afcd8860", null ],
-    [ "init", "d7/d1c/a10004.html#a0369662be009b781174021a2eb6b3202", null ],
-    [ "NewId", "d7/d1c/a10004.html#a06d5bc4ea248173316ed4d1ce96d6281", null ],
-    [ "m_counter", "d7/d1c/a10004.html#a297f1ba5e072e4c90b62c7242ee1b01c", null ]
+    [ "EffectMovementGenerator", "d7/d1c/a10004.html#a4b574eb9865cffe1277d9012db653d98", null ],
+    [ "Finalize", "d7/d1c/a10004.html#a50cad77c4261bea67428b9dcd5a37ea1", null ],
+    [ "GetMovementGeneratorType", "d7/d1c/a10004.html#a42c56bc35cf3d752e24ccc36adcd2e82", null ],
+    [ "Initialize", "d7/d1c/a10004.html#a376f554231bc5dc4c95790e6c85dcb01", null ],
+    [ "Reset", "d7/d1c/a10004.html#a9627573a7206e12ff469e8e6e076862b", null ],
+    [ "Update", "d7/d1c/a10004.html#adff45ee4ce3cc72b6cc88e626c3bd0a5", null ],
+    [ "m_Id", "d7/d1c/a10004.html#a56f483336fe5c86c6d186ec4d7772d4b", null ]
 ];

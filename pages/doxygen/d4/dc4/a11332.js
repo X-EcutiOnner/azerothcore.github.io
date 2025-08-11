@@ -1,6 +1,7 @@
 var a11332 =
 [
-    [ "AuraProcHandler", "d4/dc4/a11332.html#a1c0ad4a28c98d89a0afc2f8eeda9a421", null ],
-    [ "Call", "d4/dc4/a11332.html#abc0c3be9dee08e995c282f20900f3c46", null ],
-    [ "_HandlerScript", "d4/dc4/a11332.html#ada8d7a5659598b0092739a91ba2653bd", null ]
+    [ "EffectApplyHandler", "d4/dc4/a11332.html#a7ab5f0786000c217e2fc71201a8990b6", null ],
+    [ "Call", "d4/dc4/a11332.html#a4c02a1b42d7b3a02633dc9600b0e09bb", null ],
+    [ "mode", "d4/dc4/a11332.html#ac776375c5a5de321edc572c87e983193", null ],
+    [ "pEffectHandlerScript", "d4/dc4/a11332.html#acd715556a7661f688ce0de9afe62250a", null ]
 ];

@@ -1,6 +1,10 @@
 var a21116 =
 [
-    [ "npc_frenzied_worgenAI", "d4/d9a/a21120.html", "d4/d9a/a21120" ],
-    [ "npc_frenzied_worgen", "dc/d42/a21116.html#ad46eb89ab86876950652f6dd6b7dc91a", null ],
-    [ "GetAI", "dc/d42/a21116.html#a1ed46e8e6bd001f8f35492f340ab1d56", null ]
+    [ "npc_enslaved_proto_drake", "dc/d42/a21116.html#aec835fdc8b1beb270176d5341d26c265", null ],
+    [ "MovementInform", "dc/d42/a21116.html#ad2a25f78a82e0f2cef1e7809cb1d7d89", null ],
+    [ "Reset", "dc/d42/a21116.html#a3c1ea80e356e33c4a4b7ed5d083fc7b5", null ],
+    [ "SetData", "dc/d42/a21116.html#a888219a604e4c95a5a3e442fcf8c1a39", null ],
+    [ "UpdateAI", "dc/d42/a21116.html#a252f84198df610bac44b6bd9cd80602e", null ],
+    [ "_events", "dc/d42/a21116.html#a89b48d6fb010bc9611b625e5f02b94d3", null ],
+    [ "_setData", "dc/d42/a21116.html#adb997badd8831dea7763eaecc93b7773", null ]
 ];

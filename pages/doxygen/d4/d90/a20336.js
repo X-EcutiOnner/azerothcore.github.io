@@ -1,7 +1,7 @@
 var a20336 =
 [
-    [ "boss_kologarn_pit_kill_bunny", "d4/d90/a20336.html#a0ecbc2ae8850d4cfb84f40d2a13f4976", null ],
-    [ "Reset", "d4/d90/a20336.html#afd7482896b66f040b8d57b9b6ac37059", null ],
-    [ "UpdateAI", "d4/d90/a20336.html#ad863666aec3db81f73165148ffc98033", null ],
-    [ "_boundaryIntersect", "d4/d90/a20336.html#abc0560637830e70d54ce1fb6b6881ca6", null ]
+    [ "HandleScript", "d4/d90/a20336.html#a760bb60198017605111d02af98c827b1", null ],
+    [ "PrepareSpellScript", "d4/d90/a20336.html#a6128956f1037b62fff2e6f10ec22d956", null ],
+    [ "Register", "d4/d90/a20336.html#ae445c98f5543df2f45b77b6cd54d58e7", null ],
+    [ "Validate", "d4/d90/a20336.html#a3bb460d50928bd1b57566dd6a50fa5cd", null ]
 ];

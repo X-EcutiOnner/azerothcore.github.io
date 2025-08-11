@@ -1,34 +1,29 @@
 var a01448 =
 [
-    [ "LootGroupInvalidSelector", "da/d85/a09656.html", "da/d85/a09656" ],
-    [ "LootTemplate::LootGroup", "de/df5/a09660.html", "de/df5/a09660" ],
-    [ "LoadLootTemplates_Creature", "dd/d08/a01448.html#a2ffebb5466d0f97fdaa495088a046a51", null ],
-    [ "LoadLootTemplates_Disenchant", "dd/d08/a01448.html#aa6e191c54a43255f4cc43af79b20c817", null ],
-    [ "LoadLootTemplates_Fishing", "dd/d08/a01448.html#a5f88815e67cdbdaebef659559cd0d954", null ],
-    [ "LoadLootTemplates_Gameobject", "dd/d08/a01448.html#a24e17720ba3e69cf816688664f0e981a", null ],
-    [ "LoadLootTemplates_Item", "dd/d08/a01448.html#aade507039245a0e20adcdbf548a7d690", null ],
-    [ "LoadLootTemplates_Mail", "dd/d08/a01448.html#a9b802fc33b09fc4fced1a39a7bb8583d", null ],
-    [ "LoadLootTemplates_Milling", "dd/d08/a01448.html#a1d63e7e68b4182ae8ebc36a7bbfd2456", null ],
-    [ "LoadLootTemplates_Pickpocketing", "dd/d08/a01448.html#a09f7e96fb3b750f94e246759397e7546", null ],
-    [ "LoadLootTemplates_Player", "dd/d08/a01448.html#a0e878bb1898269e2be94c066e18b6cac", null ],
-    [ "LoadLootTemplates_Prospecting", "dd/d08/a01448.html#a87bdff8f6fa2a9f948153a770b0512ae", null ],
-    [ "LoadLootTemplates_Reference", "dd/d08/a01448.html#a8015904fb38b1506755242730155cacc", null ],
-    [ "LoadLootTemplates_Skinning", "dd/d08/a01448.html#aec1cdee51afe09234ba6b2d917c21916", null ],
-    [ "LoadLootTemplates_Spell", "dd/d08/a01448.html#a1c69325fc9720f428891b814817eb762", null ],
-    [ "operator<<", "dd/d08/a01448.html#ac7f789f6da959300694693d249113e9f", null ],
-    [ "operator<<", "dd/d08/a01448.html#a08df83acd4a8d8591eebb3753e121fc7", null ],
-    [ "LootTemplates_Creature", "dd/d08/a01448.html#a867a728f0e7d52d0c546457d9199bbe0", null ],
-    [ "LootTemplates_Disenchant", "dd/d08/a01448.html#a5df89c4848d191ab038eed9a8f81b913", null ],
-    [ "LootTemplates_Fishing", "dd/d08/a01448.html#af45baef147256b11372c092b0ac53f91", null ],
-    [ "LootTemplates_Gameobject", "dd/d08/a01448.html#a2092f58e2dc595c617668f039de77935", null ],
-    [ "LootTemplates_Item", "dd/d08/a01448.html#a3148b185e4fb344eaa918ccc37ff8e84", null ],
-    [ "LootTemplates_Mail", "dd/d08/a01448.html#aba8aafe6a5d2d251b6e2f539b27f5949", null ],
-    [ "LootTemplates_Milling", "dd/d08/a01448.html#a433757800c8ee4e9b654d504a4ee828a", null ],
-    [ "LootTemplates_Pickpocketing", "dd/d08/a01448.html#a94fe5d87a40ef83d99db6ccfde0a719f", null ],
-    [ "LootTemplates_Player", "dd/d08/a01448.html#abbe10d61650265aabbc5de5685a8b9bb", null ],
-    [ "LootTemplates_Prospecting", "dd/d08/a01448.html#a5e98772296a6d93715a4ed74eb2b5bdf", null ],
-    [ "LootTemplates_Reference", "dd/d08/a01448.html#a556a2458977647462ba38f61da196218", null ],
-    [ "LootTemplates_Skinning", "dd/d08/a01448.html#a195e88b39c43d01cbf8b1871a7129a60", null ],
-    [ "LootTemplates_Spell", "dd/d08/a01448.html#a12b8cff5bc25ff6a80a044a72d037aaa", null ],
-    [ "qualityToRate", "dd/d08/a01448.html#aaa3aa72e5700e28104b67a1f347c64c7", null ]
+    [ "PallidHorrorPaths", "dd/d08/a01448.html#ad2d2b5f255f79a9389125d179974fa6c", [
+      [ "PATH_STORMWIND_KEEP", "dd/d08/a01448.html#ad2d2b5f255f79a9389125d179974fa6caebc3eba5e01a79f8a51f55bb0b795589", null ],
+      [ "PATH_STORMWIND_TRADE_DISTRICT", "dd/d08/a01448.html#ad2d2b5f255f79a9389125d179974fa6ca18d27259451c4d6fa6e8eda96abb669c", null ],
+      [ "PATH_UNDERCITY_TRADE_QUARTER", "dd/d08/a01448.html#ad2d2b5f255f79a9389125d179974fa6ca396cc934fa150add08da6a9bfeee6130", null ],
+      [ "PATH_UNDERCITY_ROYAL_QUARTER", "dd/d08/a01448.html#ad2d2b5f255f79a9389125d179974fa6caa4c7de27637688faf47903d52c69102b", null ]
+    ] ],
+    [ "WorldStateSunsReachQuests", "dd/d08/a01448.html#ae92d2d64df97e6d4e504459dbe62a704", [
+      [ "QUEST_ERRATIC_BEHAVIOR", "dd/d08/a01448.html#ae92d2d64df97e6d4e504459dbe62a704a4f2a85bb3172f682d010d0782c9bcc24", null ],
+      [ "QUEST_SANCTUM_WARDS", "dd/d08/a01448.html#ae92d2d64df97e6d4e504459dbe62a704a937beacad369f610742b3d62fe33cab0", null ],
+      [ "QUEST_BATTLE_FOR_THE_SUNS_REACH_ARMORY", "dd/d08/a01448.html#ae92d2d64df97e6d4e504459dbe62a704a98ebea3b62e2627835de9b62156cf05a", null ],
+      [ "QUEST_DISTRACTION_AT_THE_DEAD_SCAR", "dd/d08/a01448.html#ae92d2d64df97e6d4e504459dbe62a704adf3a2dd8db11cc9c77b39a8eaebce873", null ],
+      [ "QUEST_INTERCEPTING_THE_MANA_CELLS", "dd/d08/a01448.html#ae92d2d64df97e6d4e504459dbe62a704a6f30cdc73db7de9c5c0c7be0e1b6c377", null ],
+      [ "QUEST_INTERCEPT_THE_REINFORCEMENTS", "dd/d08/a01448.html#ae92d2d64df97e6d4e504459dbe62a704ab875551f6415f6ac57dfd81dae4b1af5", null ],
+      [ "QUEST_TAKING_THE_HARBOR", "dd/d08/a01448.html#ae92d2d64df97e6d4e504459dbe62a704adf6f0dde850df588195e298e20884dc3", null ],
+      [ "QUEST_MAKING_READY", "dd/d08/a01448.html#ae92d2d64df97e6d4e504459dbe62a704abadeaae10ba1cf07a4e49d58b27a2430", null ],
+      [ "QUEST_DISCOVERING_YOUR_ROOTS", "dd/d08/a01448.html#ae92d2d64df97e6d4e504459dbe62a704ad53e4065f2edb54c276af531e4cbd158", null ],
+      [ "QUEST_A_CHARITABLE_DONATION", "dd/d08/a01448.html#ae92d2d64df97e6d4e504459dbe62a704af367c41748283293358b00d0ceea276b", null ],
+      [ "QUEST_A_MAGNANIMOUS_BENEFACTOR", "dd/d08/a01448.html#ae92d2d64df97e6d4e504459dbe62a704ac530d05014596aa5ace83a6c92b0b5c4", null ],
+      [ "COUNTER_MAX_VAL_REQ", "dd/d08/a01448.html#ae92d2d64df97e6d4e504459dbe62a704a45e1556a8329106c7b177a050f5e45a5", null ]
+    ] ],
+    [ "WorldStateSunwellGateQuests", "dd/d08/a01448.html#ab96270d11fbb117a1f967bc0d80f91ca", [
+      [ "QUEST_AGAMATH_THE_FIRST_GATE", "dd/d08/a01448.html#ab96270d11fbb117a1f967bc0d80f91caa5488c9368a2859c5f47656009ebe9eeb", null ],
+      [ "QUEST_ROHENDOR_THE_SECOND_GATE", "dd/d08/a01448.html#ab96270d11fbb117a1f967bc0d80f91caaac3b523ff003dbd2c4630a2f64f9ef52", null ],
+      [ "QUEST_ARCHONISUS_THE_FINAL_GATE", "dd/d08/a01448.html#ab96270d11fbb117a1f967bc0d80f91caa79773a037e39a86021645c7ef20836dc", null ],
+      [ "COUNTER_MAX_VAL_REQ_SWP_GATES", "dd/d08/a01448.html#ab96270d11fbb117a1f967bc0d80f91caadc56c79d9946a6da707fde15807fcfc5", null ]
+    ] ]
 ];

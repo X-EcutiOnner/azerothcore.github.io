@@ -1,6 +1,7 @@
 var a26120 =
 [
-    [ "CheckCast", "de/d77/a26120.html#a5f4979e1d164bee9e5a411e7d023810b", null ],
-    [ "PrepareSpellScript", "de/d77/a26120.html#a33e86d770e926247c58c00143b55c418", null ],
-    [ "Register", "de/d77/a26120.html#a453c7fa25baf458c9a319053ca726621", null ]
+    [ "HandleScriptEffect", "de/d77/a26120.html#a6c1ac025fa93caa08737387a18003612", null ],
+    [ "PrepareSpellScript", "de/d77/a26120.html#acb5ad05212399b06ed9bb64bb9203069", null ],
+    [ "Register", "de/d77/a26120.html#afbf989d514c308f466ecfd9957d2d177", null ],
+    [ "Validate", "de/d77/a26120.html#a2f48b1903edef1a5bb8beeddc8879aa4", null ]
 ];

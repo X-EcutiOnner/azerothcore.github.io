@@ -1,6 +1,5 @@
 var a21676 =
 [
-    [ "npc_dalaran_mageAI", "df/d6f/a21680.html", "df/d6f/a21680" ],
-    [ "npc_dalaran_mage", "d1/d94/a21676.html#a764d637ab0c64e2a0cc0459269974d6d", null ],
-    [ "GetAI", "d1/d94/a21676.html#ae2deef0546e2bf0df562e0a67b8b0b93", null ]
+    [ "npc_steam_powered_auctioneerAI", "d1/d94/a21676.html#a5ef3dfd385ee3e5a49bd5c0e165103fc", null ],
+    [ "CanBeSeen", "d1/d94/a21676.html#a3352588abda326f7c72d0764a3f53370", null ]
 ];

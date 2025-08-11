@@ -1,6 +1,6 @@
 var a19564 =
 [
-    [ "boss_sjonnir_dwarfAI", "dc/d77/a19568.html", "dc/d77/a19568" ],
-    [ "boss_sjonnir_dwarf", "dc/d58/a19564.html#a3589ae3bef1bbfe0fc5381e341c0995b", null ],
-    [ "GetAI", "dc/d58/a19564.html#a945d8e753e1a54dc348848b9c2dd6cce", null ]
+    [ "instance_halls_of_lightning_InstanceMapScript", "dc/d77/a19568.html", "dc/d77/a19568" ],
+    [ "instance_halls_of_lightning", "dc/d58/a19564.html#a24395866efe2c7d1f7727be2557a8b46", null ],
+    [ "GetInstanceScript", "dc/d58/a19564.html#a5ce157aeaf2ed78e98e864059a599b36", null ]
 ];

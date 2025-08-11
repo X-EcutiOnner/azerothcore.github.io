@@ -1,5 +1,6 @@
 var a13232 =
 [
-    [ "at_sunwell_eredar_twins", "d5/dd3/a13232.html#afc183c384bc87321186b20e0ac168c1f", null ],
-    [ "_OnTrigger", "d5/dd3/a13232.html#aa862756c9905e2cb10d60c70b47919aa", null ]
+    [ "HandleActivateObject", "d5/dd3/a13232.html#aedcb4513b7c53b9a9e972b9051da0e0f", null ],
+    [ "PrepareSpellScript", "d5/dd3/a13232.html#afc844250ea7ba48330edfda305fa856c", null ],
+    [ "Register", "d5/dd3/a13232.html#a6d77f6848397724e61c1db7a80de7139", null ]
 ];

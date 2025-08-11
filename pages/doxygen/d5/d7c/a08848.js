@@ -1,16 +1,10 @@
 var a08848 =
 [
-    [ "MessageDistDeliverer", "d5/d7c/a08848.html#a8f8c9fb2dadaa8c521b5036a94a4c9a4", null ],
-    [ "SendPacket", "d5/d7c/a08848.html#af085a9490dfd5a1e577bda6d8333fe1d", null ],
-    [ "Visit", "d5/d7c/a08848.html#af44878b494b1412f0d08248f6a88fff6", null ],
-    [ "Visit", "d5/d7c/a08848.html#a2e8d0ad4bdc5fc8961d9f67b6a93b69d", null ],
-    [ "Visit", "d5/d7c/a08848.html#a8c56d33ec988bfb6ba078fce00beab1a", null ],
-    [ "Visit", "d5/d7c/a08848.html#a09171ca5e494d7cc4b19340e95367a64", null ],
-    [ "i_distSq", "d5/d7c/a08848.html#a871dda581863f0919f1d5b2f60c2fcd9", null ],
-    [ "i_message", "d5/d7c/a08848.html#ac49c2d8b9120edbafd6b04656a6d2909", null ],
-    [ "i_phaseMask", "d5/d7c/a08848.html#abca07d041f9b45b4002f15dfff6e1c9e", null ],
-    [ "i_source", "d5/d7c/a08848.html#aa65c4e298a1302647fdaad1b1227a3a2", null ],
-    [ "required3dDist", "d5/d7c/a08848.html#abdce98d93c98513a434df80b97c096c6", null ],
-    [ "skipped_receiver", "d5/d7c/a08848.html#a7f92e1c65cdc8346dd4bac47f1ba8b5b", null ],
-    [ "teamId", "d5/d7c/a08848.html#acfda3713bbde51a110cb160f0325f848", null ]
+    [ "mapId", "d5/d7c/a08848.html#a828d8b93918ea8ba695e0c5e597c855d", null ],
+    [ "name", "d5/d7c/a08848.html#a9dd0dacb5825cf3afd117c22ac5ebf21", null ],
+    [ "orientation", "d5/d7c/a08848.html#a49b4a83290dbe39ab0be79a8ae2f03a6", null ],
+    [ "position_x", "d5/d7c/a08848.html#a65e7390a1dbb615a155c4f163b830e11", null ],
+    [ "position_y", "d5/d7c/a08848.html#a3d3f398cd23566dce721fefeae7af33c", null ],
+    [ "position_z", "d5/d7c/a08848.html#a9ff9a74b00016df6df7c27ebce8ff3fb", null ],
+    [ "wnameLow", "d5/d7c/a08848.html#ac63cbb609eadc584fe61d33fb709c4d6", null ]
 ];

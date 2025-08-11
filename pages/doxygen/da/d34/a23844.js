@@ -1,6 +1,7 @@
 var a23844 =
 [
-    [ "HandleScriptEffect", "da/d34/a23844.html#a032b00bcd9bda0cd04f93848e4630c6a", null ],
-    [ "PrepareSpellScript", "da/d34/a23844.html#ad99a318c6b3ee834aa3c3591a0f8a330", null ],
-    [ "Register", "da/d34/a23844.html#aa96de13af039d8dfab0ae1a5d30e21a8", null ]
+    [ "HandleEffect", "da/d34/a23844.html#ac0fb38f62cc9a41eb70b2ca951f9d1dc", null ],
+    [ "PrepareSpellScript", "da/d34/a23844.html#abbbffa0a53dc2a55df5e7b17a7f4d38f", null ],
+    [ "Register", "da/d34/a23844.html#ac406946bb793125d49006e3a877c9638", null ],
+    [ "SelectTarget", "da/d34/a23844.html#ac36f3d88a0ef8ccaee5bac17bffcaf49", null ]
 ];

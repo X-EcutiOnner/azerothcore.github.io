@@ -1,6 +1,7 @@
 var a18932 =
 [
-    [ "boss_faerlinaAI", "d5/d1d/a18936.html", "d5/d1d/a18936" ],
-    [ "boss_faerlina", "db/ddf/a18932.html#a86543ac855287e3de2e3ffcde66fb1cb", null ],
-    [ "GetAI", "db/ddf/a18932.html#aed8214323ff5b792d9bd6aae478e7848", null ]
+    [ "npc_ioc_gunship_captainAI", "db/ddf/a18932.html#a23477a6f29b13308067c1f42ced1e9fe", null ],
+    [ "DoAction", "db/ddf/a18932.html#a89fb251869d6bfbefbca1e2d3178178a", null ],
+    [ "UpdateAI", "db/ddf/a18932.html#a222b304633143bba47d3edde67ea093b", null ],
+    [ "_events", "db/ddf/a18932.html#aa8b7c262641a5f1f86c5ae39f8b62dca", null ]
 ];

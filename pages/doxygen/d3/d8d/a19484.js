@@ -1,7 +1,9 @@
 var a19484 =
 [
-    [ "OnRemove", "d3/d8d/a19484.html#adf6b3d56199ad5a4545ce3874d1223db", null ],
-    [ "PrepareAuraScript", "d3/d8d/a19484.html#a2d278e60b34870110dab188896109e24", null ],
-    [ "Register", "d3/d8d/a19484.html#ac15847527cc4d162b3b34b8ca8628864", null ],
-    [ "Validate", "d3/d8d/a19484.html#ac573e5bd171c97af1905b4a57a45e1f4", null ]
+    [ "HandleOnEffectApply", "d3/d8d/a19484.html#a6ab047004cc901331d747641f218cf6a", null ],
+    [ "HandleOnEffectRemove", "d3/d8d/a19484.html#a9f66217f4785c8240c4b074bbf04b96e", null ],
+    [ "PrepareAuraScript", "d3/d8d/a19484.html#aa94b30468b2c853c0d8b86658a43dee4", null ],
+    [ "Register", "d3/d8d/a19484.html#a83b0d414a6e97b434f82492fa01ac385", null ],
+    [ "Validate", "d3/d8d/a19484.html#a88af7f269f56e474434d51c7ac0eb0a0", null ],
+    [ "_drakeGUID", "d3/d8d/a19484.html#a2e0c7df73cc7246524f6d745ff1fbeb1", null ]
 ];

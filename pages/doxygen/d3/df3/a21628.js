@@ -1,7 +1,9 @@
 var a21628 =
 [
-    [ "npc_warmage_violetstand", "d3/df3/a21628.html#a1f67c9521cc3bd63886a8936b28e6622", null ],
-    [ "Reset", "d3/df3/a21628.html#a99015610597f43f184cc686c9fab2fa9", null ],
-    [ "UpdateAI", "d3/df3/a21628.html#aa0eac837ab697c3e0cd5ab753f0bd0b4", null ],
-    [ "targetGUID", "d3/df3/a21628.html#a46560aa7aa90778967a79c931a81721b", null ]
+    [ "npc_bloodmage_laurithAI", "d3/df3/a21628.html#a75dca4f2e90318f334e7e6385d4f7a6f", null ],
+    [ "Reset", "d3/df3/a21628.html#afe9b10dfcee3b241a48e6f2e40eec657", null ],
+    [ "SetGUID", "d3/df3/a21628.html#a50a144cf1545117d79268d3a18a4b4ec", null ],
+    [ "UpdateAI", "d3/df3/a21628.html#a9752f518441071dd4a60cd63423bf9a3", null ],
+    [ "_events", "d3/df3/a21628.html#a35facab84094071d952792a4c3e5015d", null ],
+    [ "_playerGUID", "d3/df3/a21628.html#a6aab8db1d55d4fe3251b544c292711e8", null ]
 ];

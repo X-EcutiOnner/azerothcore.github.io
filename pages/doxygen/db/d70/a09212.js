@@ -1,9 +1,13 @@
 var a09212 =
 [
-    [ "GameObjectLastSearcher", "db/d70/a09212.html#a9f478f784f46fa502910f621f10238f2", null ],
-    [ "Visit", "db/d70/a09212.html#a2ba394a2da9f72c7621567092c175f0b", null ],
-    [ "Visit", "db/d70/a09212.html#a4298bd100890e61a34e827f96d70e752", null ],
-    [ "i_check", "db/d70/a09212.html#a06f8a6b33e26cdc17508198a9ee08f87", null ],
-    [ "i_object", "db/d70/a09212.html#a4573ba382a79a34f6c006b7c175f84f1", null ],
-    [ "i_phaseMask", "db/d70/a09212.html#a7130ecacc379e9f41779a8e0f422b32c", null ]
+    [ "WorldObjectListSearcher", "db/d70/a09212.html#aad6ee62da3f21c7838767dd3af871ad7", null ],
+    [ "Visit", "db/d70/a09212.html#a154998e616ba17d66cf4899debc92ca1", null ],
+    [ "Visit", "db/d70/a09212.html#a64e8d7854baa93e4390703fe986f6777", null ],
+    [ "Visit", "db/d70/a09212.html#a28ded6ec2d69f1a1bd298a9aa11206e1", null ],
+    [ "Visit", "db/d70/a09212.html#a18572bc1f4cfde19476ac9df393296b2", null ],
+    [ "Visit", "db/d70/a09212.html#a2a8a0d1f3fd10e5254a47ed99e7e9ce7", null ],
+    [ "Visit", "db/d70/a09212.html#a8cebd0149bfccc4fdeb30dda9505f0c0", null ],
+    [ "i_check", "db/d70/a09212.html#a6ae05d2ed15201356600cda7d0d5a6c3", null ],
+    [ "i_mapTypeMask", "db/d70/a09212.html#a1d6dc64937ae790d7414456e4644c13b", null ],
+    [ "i_phaseMask", "db/d70/a09212.html#a6b29bb94ed2ec6f508b25d45c11f72fd", null ]
 ];

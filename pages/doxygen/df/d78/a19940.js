@@ -1,8 +1,8 @@
 var a19940 =
 [
-    [ "OnApply", "df/d78/a19940.html#a5aec8606684637bbdb1e819254f5d483", null ],
-    [ "OnRemove", "df/d78/a19940.html#add485a2fd5fdd068d7258d3c9c0d9c2b", null ],
-    [ "PrepareAuraScript", "df/d78/a19940.html#adcc21606209dc2f32c1173c7ab4c5579", null ],
-    [ "Register", "df/d78/a19940.html#af1db6ca387cf0733ba4b9c324172d692", null ],
-    [ "Validate", "df/d78/a19940.html#a332d01b39295ea9a11773be9aa9c3fb3", null ]
+    [ "npc_brann_radioAI", "df/d78/a19940.html#a329ca0310efe109f7fb364045f6eccbb", null ],
+    [ "MoveInLineOfSight", "df/d78/a19940.html#ad119431edd6f632b4c44fc4e8708d375", null ],
+    [ "Reset", "df/d78/a19940.html#a89183942dcb38f48de1867bfbce15721", null ],
+    [ "_helpLock", "df/d78/a19940.html#ae927b6c8143cfb029ab6574d10dde60e", null ],
+    [ "_lock", "df/d78/a19940.html#a421cfd2b8b149a0f3ea5bc2262ba6bac", null ]
 ];

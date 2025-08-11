@@ -1,7 +1,7 @@
 var a15640 =
 [
-    [ "npc_paoka_swiftmountainAI", "d4/d9b/a15640.html#a92a229f76de3bc46ae14910439db0004", null ],
-    [ "DoSpawnWyvern", "d4/d9b/a15640.html#a7997a3d398db82c205e3a8af77ac1684", null ],
-    [ "Reset", "d4/d9b/a15640.html#acae0427957aba04a54e6001823bc7eb4", null ],
-    [ "WaypointReached", "d4/d9b/a15640.html#a262781c90fe1b5a5af2c6f94e4cc52e2", null ]
+    [ "npc_giltharesAI", "da/db5/a15644.html", "da/db5/a15644" ],
+    [ "npc_gilthares", "d4/d9b/a15640.html#af1e0746350b32b68825710e1c3ed91a5", null ],
+    [ "GetAI", "d4/d9b/a15640.html#a96293e28237a092c64f6a91d91bc7ff3", null ],
+    [ "OnQuestAccept", "d4/d9b/a15640.html#a018cc6240a79216acb371241f63e3234", null ]
 ];

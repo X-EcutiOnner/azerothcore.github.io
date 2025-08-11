@@ -1,14 +1,14 @@
 var a12808 =
 [
-    [ "boss_selin_fireheart", "d7/da3/a12808.html#ae3270a227550391fd752d3f241e5ea46", null ],
-    [ "CanAIAttack", "d7/da3/a12808.html#a36f409a006a09812452052d554d5e810", null ],
-    [ "JustDied", "d7/da3/a12808.html#a1330c499c04aee849bcbb3ebfe30eb1e", null ],
-    [ "JustEngagedWith", "d7/da3/a12808.html#ad414ec34127bffbae1b6b5f9a794f28c", null ],
-    [ "KilledUnit", "d7/da3/a12808.html#a0fc74ba75a482a67d19f4323df1f5e6c", null ],
-    [ "MovementInform", "d7/da3/a12808.html#a8072412acc5f52fdeea3b4f740021a91", null ],
-    [ "OnPowerUpdate", "d7/da3/a12808.html#a71677fbd88ab14b6fb40e3bc9897c982", null ],
-    [ "Reset", "d7/da3/a12808.html#a6d6cab76647794f971c9a6837d8fbf8c", null ],
-    [ "SelectNearestCrystal", "d7/da3/a12808.html#afe01bdf64e5f84c7aa5ee0f164ac29c0", null ],
-    [ "SpawnCrystals", "d7/da3/a12808.html#a5c874662b9bf518782b2dc824f1eb03d", null ],
-    [ "SummonedCreatureDies", "d7/da3/a12808.html#a396341d39bead723a7c6f716c08aa447", null ]
+    [ "boss_priestess_delrissa", "d7/da3/a12808.html#afcbf1aa400ec44b709fd194daab91d3d", null ],
+    [ "CheckInRoom", "d7/da3/a12808.html#afa963761e44412915a6d89f097f33b5d", null ],
+    [ "InitializeAI", "d7/da3/a12808.html#ae5105868d704b6ca91b27dcfbeaef3a9", null ],
+    [ "JustDied", "d7/da3/a12808.html#a82d8c198f38c2aa881386e739dea6a08", null ],
+    [ "JustEngagedWith", "d7/da3/a12808.html#a40c9852f9a1ea24b61edf0f7c00193a6", null ],
+    [ "JustSummoned", "d7/da3/a12808.html#ac0a2c4346c6222380d7bda9a274f78e0", null ],
+    [ "KilledUnit", "d7/da3/a12808.html#af0b41306f53c42745cce39069f446704", null ],
+    [ "Reset", "d7/da3/a12808.html#a60e39157aa3043284b2e1e032c0d9241", null ],
+    [ "SummonedCreatureDies", "d7/da3/a12808.html#a14757692ab4af5c1b5b311f059be9091", null ],
+    [ "HelpersKilled", "d7/da3/a12808.html#a26764cdd42721c9276ccecaa97fc9a6e", null ],
+    [ "PlayersKilled", "d7/da3/a12808.html#a9bde16a69ed9e950ce0dfb91805280cc", null ]
 ];

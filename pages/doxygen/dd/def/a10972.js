@@ -1,6 +1,8 @@
 var a10972 =
 [
-    [ "WorldSessionFilter", "dd/def/a10972.html#aba91eb2dfd56201534743b2d458fa111", null ],
-    [ "~WorldSessionFilter", "dd/def/a10972.html#a5de22e3a331e0ab17fe60f34c5b9b3fa", null ],
-    [ "Process", "dd/def/a10972.html#a0f0acf4ed9e61bf8aeb77ee7fb310660", null ]
+    [ "ServerPktHeader", "dd/def/a10972.html#a761e294fccc02055a46bfc46656da706", null ],
+    [ "getHeaderLength", "dd/def/a10972.html#a75ff3550b7794fed0e69bfc4d1418dee", null ],
+    [ "isLargePacket", "dd/def/a10972.html#a4f4e13fc8e2a6ec6de70f4432f25ffe2", null ],
+    [ "header", "dd/def/a10972.html#adc69128832b16124c284c584e7540b11", null ],
+    [ "size", "dd/def/a10972.html#a5d5cf573cebe47a10e3f17b840c7a4e1", null ]
 ];

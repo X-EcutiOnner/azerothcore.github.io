@@ -1,11 +1,4 @@
 var a28144 =
 [
-    [ "ClassID", "de/df0/a28144.html#a8cc7d61907f8fd5c2b3429c21ccbcc05", null ],
-    [ "DisplayInfoID", "de/df0/a28144.html#a87657df2ad024245ccb2192303f76b7a", null ],
-    [ "ID", "de/df0/a28144.html#a8ee5b01112a6d01cf46b4e37fb2e6269", null ],
-    [ "InventoryType", "de/df0/a28144.html#a6dc33fc40a299b010c18a7009aff648b", null ],
-    [ "Material", "de/df0/a28144.html#ab07b947a5b8c2e7aee60ac96d979ad3c", null ],
-    [ "SheatheType", "de/df0/a28144.html#a63a6d7c2a8e2514384a5eb99cd890747", null ],
-    [ "SoundOverrideSubclassID", "de/df0/a28144.html#a6072ce88b5c93034418c590d8aba1ea3", null ],
-    [ "SubclassID", "de/df0/a28144.html#ac39254716573e335caf312f635353a2e", null ]
+    [ "ID", "de/df0/a28144.html#a27cfc07c5aa7efe7a6f0cb62ea691f81", null ]
 ];

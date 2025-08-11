@@ -1,9 +1,8 @@
 var a11608 =
 [
-    [ "event_commandscript", "d6/d12/a11608.html#a160db0ad8874b0834ef863043b1796ae", null ],
-    [ "GetCommands", "d6/d12/a11608.html#aac32a7f3d2d11dc73dfa3e9f8224560e", null ],
-    [ "HandleEventActiveListCommand", "d6/d12/a11608.html#a6752be35103bb585984083a449c85714", null ],
-    [ "HandleEventInfoCommand", "d6/d12/a11608.html#a1f0815bccd6cef61826ada4e349708d9", null ],
-    [ "HandleEventStartCommand", "d6/d12/a11608.html#ad46dbd8892db3548d889d4127461c8e3", null ],
-    [ "HandleEventStopCommand", "d6/d12/a11608.html#a1322b3206a1846dc0404a3fb5c74e025", null ]
+    [ "cache_commandscript", "d6/d12/a11608.html#a709e1d02632aed18113c1adb52e962b5", null ],
+    [ "GetCommands", "d6/d12/a11608.html#ae62aed5b701a408460d8fedcd08bb3a4", null ],
+    [ "HandleCacheDeleteCommand", "d6/d12/a11608.html#a9ee0f4aceb031ad1c6b1870320fca88b", null ],
+    [ "HandleCacheInfoCommand", "d6/d12/a11608.html#aa9bce5578450a35909a4e481bc21867f", null ],
+    [ "HandleCacheRefreshCommand", "d6/d12/a11608.html#abf02cad15dabdcc5ed3df1fab0e87b6f", null ]
 ];

@@ -1,10 +1,11 @@
 var a11676 =
 [
-    [ "mmaps_commandscript", "d2/d40/a11676.html#a1dbdfd26bdb685315a3012453080a56f", null ],
-    [ "GetCommands", "d2/d40/a11676.html#aec91072f9e651c9136bf1a405a9bb95a", null ],
-    [ "HandleMmapLoadedTilesCommand", "d2/d40/a11676.html#a40d5b7e733298210c686fe89490b6f61", null ],
-    [ "HandleMmapLocCommand", "d2/d40/a11676.html#aa3dc699456256d8b2ab9fdd97891bd96", null ],
-    [ "HandleMmapPathCommand", "d2/d40/a11676.html#a2c876439ad6d9ff7523f140d97743dea", null ],
-    [ "HandleMmapStatsCommand", "d2/d40/a11676.html#a823b56cdbb0c97176990bb01af9af9fc", null ],
-    [ "HandleMmapTestArea", "d2/d40/a11676.html#aaae2e5548a6bd9c670db0721ea7508bd", null ]
+    [ "instance_commandscript", "d2/d40/a11676.html#a4d0b308b35a1aa21c66c8bd406ffa82f", null ],
+    [ "GetCommands", "d2/d40/a11676.html#a092d62969c835f6bf2a08ca3e05f04d5", null ],
+    [ "HandleInstanceGetBossStateCommand", "d2/d40/a11676.html#a0530ca6481073d6bafd11596546140b0", null ],
+    [ "HandleInstanceListBindsCommand", "d2/d40/a11676.html#abf42411f9c78ce59b21b34691e3d4233", null ],
+    [ "HandleInstanceSaveDataCommand", "d2/d40/a11676.html#a4b494a8b1de470612436fbb9fa433416", null ],
+    [ "HandleInstanceSetBossStateCommand", "d2/d40/a11676.html#aec65b5af811eae2cbcf17571e9d1473b", null ],
+    [ "HandleInstanceStatsCommand", "d2/d40/a11676.html#a9547a0a88a3bcd7407c449f3f2f25f44", null ],
+    [ "HandleInstanceUnbindCommand", "d2/d40/a11676.html#a7abbe257b10632f2acbdd838e1f073a9", null ]
 ];

@@ -1,7 +1,14 @@
 var a11928 =
 [
-    [ "boss_magmusAI", "da/d6d/a11928.html#a8a3e5361bda492007013af9228899b8f", null ],
-    [ "JustEngagedWith", "da/d6d/a11928.html#a11e4868628564078997694373315a9d6", null ],
-    [ "Reset", "da/d6d/a11928.html#a5fe304cec86831b7e64f83caee1392d0", null ],
-    [ "UpdateAI", "da/d6d/a11928.html#aa8bb8282c794ea02fe7bd95b3d32e5ea", null ]
+    [ "boss_general_angerforgeAI", "da/d6d/a11928.html#af5537ccebc7ac6af49f9b6612d3a6138", null ],
+    [ "JustEngagedWith", "da/d6d/a11928.html#ae99e11630596c62c4155a18f5a0a3dd5", null ],
+    [ "Reset", "da/d6d/a11928.html#aff55a804bdca840016e0f6b1d11f7106", null ],
+    [ "SummonAdds", "da/d6d/a11928.html#a218f4de2d057505f60b2977835e5fd91", null ],
+    [ "SummonMedics", "da/d6d/a11928.html#aeabe71bde9b03a944beedeac68cffd19", null ],
+    [ "UpdateAI", "da/d6d/a11928.html#a751c0d0015c235c8716a2a8ff18500ba", null ],
+    [ "Adds_Timer", "da/d6d/a11928.html#a069f0008735b38c249ddfe5246025438", null ],
+    [ "Cleave_Timer", "da/d6d/a11928.html#af80ac4df7aaab1469ee62ac8b054a0b9", null ],
+    [ "HamString_Timer", "da/d6d/a11928.html#a04c51b1400d17454ca529d6aa257697b", null ],
+    [ "Medics", "da/d6d/a11928.html#a06fc801b89c53430603f1a33bb3e7bd8", null ],
+    [ "MightyBlow_Timer", "da/d6d/a11928.html#aeea6bb264e2d175d1906d8606eced529", null ]
 ];

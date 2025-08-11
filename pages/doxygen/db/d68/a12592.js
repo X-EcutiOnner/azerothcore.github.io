@@ -1,6 +1,5 @@
 var a12592 =
 [
-    [ "HandleApply", "db/d68/a12592.html#ac9f6f1927c9f66682892c32d4a431cc4", null ],
-    [ "PrepareAuraScript", "db/d68/a12592.html#ae908ad87781553cc3bed05ea510a4447", null ],
-    [ "Register", "db/d68/a12592.html#a391dff720ed9d2d48aa69e48e69ba8df", null ]
+    [ "npc_chess_move_trigger", "db/d68/a12592.html#a6c0c37677db45ee11ebe158893d99632", null ],
+    [ "DamageTaken", "db/d68/a12592.html#af413c7af2254c1cc06462b2a62ac88db", null ]
 ];

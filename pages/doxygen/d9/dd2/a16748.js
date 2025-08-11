@@ -1,6 +1,7 @@
 var a16748 =
 [
-    [ "boss_devourer_of_soulsAI", "db/d38/a16752.html", "db/d38/a16752" ],
-    [ "boss_devourer_of_souls", "d9/dd2/a16748.html#a95b3a33be3b85a4c7ecfb4370a9ddc60", null ],
-    [ "GetAI", "d9/dd2/a16748.html#a3de68fa630c5b74104c461f88edd1d36", null ]
+    [ "HandleEffectRemove", "d9/dd2/a16748.html#aa6a118f956cbdc5ad1ce0109c3a0e8e3", null ],
+    [ "Load", "d9/dd2/a16748.html#a71a31b421f192662c14bd6bf3d5eed9f", null ],
+    [ "PrepareAuraScript", "d9/dd2/a16748.html#a97411ddf89a10a962ba74d294eb653e7", null ],
+    [ "Register", "d9/dd2/a16748.html#a1207c9b2ba2e110c3f6c1309f5329d2a", null ]
 ];

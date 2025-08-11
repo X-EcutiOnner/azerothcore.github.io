@@ -1,6 +1,5 @@
 var a22128 =
 [
-    [ "HandleHealPct", "d7/da8/a22128.html#aa297ef88b58849610b1b3bfdb0142eab", null ],
-    [ "PrepareSpellScript", "d7/da8/a22128.html#a902b733a4b106439c49f8c80de8e9bf3", null ],
-    [ "Register", "d7/da8/a22128.html#a52f253d2a3b9b3890020107b7722ad96", null ]
+    [ "npc_guardian_pavilionAI", "d7/da8/a22128.html#a2c116495e65c7f97063aa7dc6516f48c", null ],
+    [ "MoveInLineOfSight", "d7/da8/a22128.html#aeae26e28be93120062d9f77c069ff32a", null ]
 ];

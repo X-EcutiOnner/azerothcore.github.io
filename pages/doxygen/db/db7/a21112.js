@@ -1,13 +1,10 @@
 var a21112 =
 [
-    [ "npc_ravenous_furbolgAI", "db/db7/a21112.html#a3e2a0cac8a02d2d6105b06b5c21f1628", null ],
-    [ "DoAction", "db/db7/a21112.html#a837b442d7812b0c5708995d35c0d45f6", null ],
-    [ "JustDied", "db/db7/a21112.html#a03e5dd969fcc2e3dcebc714247e18bf2", null ],
-    [ "JustEngagedWith", "db/db7/a21112.html#a003eb350a11f3f5c2355a58958633f36", null ],
-    [ "JustReachedHome", "db/db7/a21112.html#a09fc5ba4680c1e5a7a49a81c50cee540", null ],
-    [ "MoveInLineOfSight", "db/db7/a21112.html#a0b4db9708b9b0288ddb1be2f2205e03a", null ],
-    [ "Reset", "db/db7/a21112.html#aca5ae47050590ec22e6e929f44e09276", null ],
-    [ "UpdateAI", "db/db7/a21112.html#ad044c04381a8d61a8fefc55129453ddf", null ],
-    [ "events", "db/db7/a21112.html#a8bf068c63d7ae10c6edf0af3aab1a6c3", null ],
-    [ "m_pInstance", "db/db7/a21112.html#aeb0a7644ada4d44e649b4ae45e0d2dc2", null ]
+    [ "npc_dragonflayer_forge_master", "db/db7/a21112.html#a642c0fb5a5010c48403b8c3dc8bc14eb", null ],
+    [ "JustDied", "db/db7/a21112.html#aa107e88bbc5b55a6ece5124c4081706e", null ],
+    [ "JustEngagedWith", "db/db7/a21112.html#a3dfb76bb5cb13624e0709f1b25414360", null ],
+    [ "Reset", "db/db7/a21112.html#af2c844c926b94456df796b4252e899c2", null ],
+    [ "dataId", "db/db7/a21112.html#a35962dcbbef32dbc7f63dfa33cffd4b4", null ],
+    [ "pInstance", "db/db7/a21112.html#a27b5988d777347832795581b0186c09f", null ],
+    [ "prevDataId", "db/db7/a21112.html#aa057cb5ae681b4b802031151ea1a3529", null ]
 ];

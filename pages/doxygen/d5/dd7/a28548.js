@@ -1,10 +1,10 @@
 var a28548 =
 [
-    [ "plane", "d9/d38/a28556.html", "d9/d38/a28556" ],
-    [ "prepareLoadedData", "d5/dd7/a28548.html#a29dc30be1cb7f5439e023865ff5a4853", null ],
-    [ "fcc", "d5/dd7/a28548.html#a8c64958fb4e18bc3bcfaf7dbfde9f178", null ],
-    [ "fcc_txt", "d5/dd7/a28548.html#ab768fb1ba27812060cf2edeb5f4b876c", null ],
-    [ "max", "d5/dd7/a28548.html#afadebfc1361985b6f5d45c27e22cb303", null ],
-    [ "min", "d5/dd7/a28548.html#ac3ebf1557841088ef8912b68fe6df908", null ],
-    [ "size", "d5/dd7/a28548.html#af92420cfd862486c73c35ac8a9f9fdee", null ]
+    [ "BugfixVersion", "d5/dd7/a28548.html#a461f8c749a874405584dc1fd3fe1d805", null ],
+    [ "Build", "d5/dd7/a28548.html#a6cc7aff1b397df7333b9bb0003282abd", null ],
+    [ "HotfixVersion", "d5/dd7/a28548.html#a0df61c036a57b8a3efde5d180dc38131", null ],
+    [ "MacHash", "d5/dd7/a28548.html#ad59772e86371318fe975760e303fa7d9", null ],
+    [ "MajorVersion", "d5/dd7/a28548.html#a0eb78564680f771e325536a0ab77382a", null ],
+    [ "MinorVersion", "d5/dd7/a28548.html#a7140f7ef9540eff08fabf74ded68b9cc", null ],
+    [ "WindowsHash", "d5/dd7/a28548.html#a96abd69a458dfc4363c4e545fc7fabab", null ]
 ];

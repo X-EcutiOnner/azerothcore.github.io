@@ -1,10 +1,6 @@
 var a04061 =
 [
-    [ "spell_q12779_an_end_to_all_things", "d2/de5/a13006.html", "d2/de5/a13006" ],
-    [ "spell_q12779_an_end_to_all_things_devour_aura", "d8/d58/a13010.html", "d8/d58/a13010" ],
-    [ "DevourHumanoid", "d7/dfc/a04061.html#a4a9cc76e41bd77e034f57ac5663bfbe8", [
-      [ "NPC_HEARTHGLEN_CRUSADER", "d7/dfc/a04061.html#a4a9cc76e41bd77e034f57ac5663bfbe8a5bcd1929ca343fde7380dbf2f02650d7", null ],
-      [ "NPC_TIRISFAL_CRUSADER", "d7/dfc/a04061.html#a4a9cc76e41bd77e034f57ac5663bfbe8a1808abd83c367810e3ca5ac70b35dcd8", null ]
-    ] ],
-    [ "AddSC_the_scarlet_enclave_c3", "d7/dfc/a04061.html#add963c2bc2b515348b9b7c636d176927", null ]
+    [ "fireworkShowGameobjectShattrath", "d7/dfc/a04061.html#a2a4be2c9e5e5d0d215bc1bf7e3ea592c", null ],
+    [ "fireworkShowScheduleShattrath", "d7/dfc/a04061.html#ad36558abe06e5db19b60204279c4606e", null ],
+    [ "fireworkShowShattrath", "d7/dfc/a04061.html#a5fcd036e2fe28c58f38d59d0ade0e4ed", null ]
 ];

@@ -1,6 +1,7 @@
 var a17020 =
 [
-    [ "npc_pos_after_first_bossAI", "d3/d71/a17024.html", "d3/d71/a17024" ],
-    [ "npc_pos_after_first_boss", "d2/d39/a17020.html#a76ae57195ceca454928245f2db12f68c", null ],
-    [ "GetAI", "d2/d39/a17020.html#a3f807335f79218ecc70c32f5496267a6", null ]
+    [ "HandlePeriodicTick", "d2/d39/a17020.html#ac8b3f1a826e3491d4315983a89d23d2e", null ],
+    [ "PrepareAuraScript", "d2/d39/a17020.html#ad54c3014195c5b848ab1f9cc978f72b3", null ],
+    [ "Register", "d2/d39/a17020.html#af8e1ee8ddf7ed8290eb71fb7697428fb", null ],
+    [ "Validate", "d2/d39/a17020.html#a6de2140f17790b63314f653b7dd0ddd3", null ]
 ];

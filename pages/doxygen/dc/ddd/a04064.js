@@ -1,12 +1,6 @@
 var a04064 =
 [
-    [ "npc_valkyr_battle_maiden", "d3/d7b/a13034.html", "d3/d7b/a13034" ],
-    [ "npc_valkyr_battle_maiden::npc_valkyr_battle_maidenAI", "d6/d1c/a13038.html", "d6/d1c/a13038" ],
-    [ "Says_VBM", "dc/ddd/a04064.html#a1e8eb132ddeee98b584395e0a134c9e4", [
-      [ "WHISPER_REVIVE", "dc/ddd/a04064.html#a1e8eb132ddeee98b584395e0a134c9e4ab9bb7fa81ba89129587c51969dd3b833", null ]
-    ] ],
-    [ "Spells_VBM", "dc/ddd/a04064.html#a97df4b07a8686c29a9700c8d11af35e3", [
-      [ "SPELL_REVIVE", "dc/ddd/a04064.html#a97df4b07a8686c29a9700c8d11af35e3a3d8bf8576afa397124a60457a9fdfc38", null ]
-    ] ],
-    [ "AddSC_the_scarlet_enclave", "dc/ddd/a04064.html#a86bbb652876f394aaca15b4ed6e2bfa7", null ]
+    [ "go_firework_show", "d1/d35/a14324.html", "d1/d35/a14324" ],
+    [ "AddSC_event_firework_show_scripts", "dc/ddd/a04064.html#af7a6296c13b6615a14e0823fe7e5b577", null ],
+    [ "FireworkShowStore", "dc/ddd/a04064.html#a7e7f0c2a7b605ff7a9a4fb3302ed279e", null ]
 ];

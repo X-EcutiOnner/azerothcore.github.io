@@ -1,6 +1,6 @@
 var a17620 =
 [
-    [ "IgbExplosionCheck", "d7/d21/a17620.html#ae67cca111f26a275614810cbe053bcd8", null ],
-    [ "operator()", "d7/d21/a17620.html#a28ce6685366e99db2aa1e4022012f943", null ],
-    [ "_source", "d7/d21/a17620.html#a413ee8f2218621d274d118aea967dc9b", null ]
+    [ "npc_gunship_gunnerAI", "d5/d42/a17624.html", "d5/d42/a17624" ],
+    [ "npc_gunship_gunner", "d7/d21/a17620.html#a409711f22b35eae0c0d48bc23545e592", null ],
+    [ "GetAI", "d7/d21/a17620.html#a2b28f5edfddf7a8c94a2a5475ec575dc", null ]
 ];

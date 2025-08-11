@@ -1,4 +1,4 @@
 var a01040 =
 [
-    [ "CanRollOnItem", "db/d14/a01040.html#afbaf3417177da71d9f3c8be9eab09c2b", null ]
+    [ "ScriptRegistry< WeatherScript >", "db/d14/a01040.html#aa691cee39a36861af34c3315e7aa582b", null ]
 ];

@@ -1,5 +1,7 @@
 var a23328 =
 [
-    [ "at_quagmirran_lair", "d6/dcf/a23328.html#a1f8cb1f59e7a179d9e4a987f716ab26f", null ],
-    [ "OnTrigger", "d6/dcf/a23328.html#aa0aab42516efaf842923b8a820942ac4", null ]
+    [ "HandleProc", "d6/dcf/a23328.html#a03b2be5894d489a6021aff2744aee0e0", null ],
+    [ "PrepareAuraScript", "d6/dcf/a23328.html#a0ff401cd6d8e32ff458b7383b76a92a1", null ],
+    [ "Register", "d6/dcf/a23328.html#a804e1bc3d570d28cb2e06155054f3169", null ],
+    [ "Validate", "d6/dcf/a23328.html#a8d18e9ed9fa851f1c4d36c1f0bed8fcb", null ]
 ];

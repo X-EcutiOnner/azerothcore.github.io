@@ -1,5 +1,12 @@
 var a10956 =
 [
-    [ "AccountInfoQueryHolderPerRealm", "d8/dcb/a10956.html#a9d821669804cd04cf121e141d94ead36", null ],
-    [ "Initialize", "d8/dcb/a10956.html#a9d4e4de9a038697f61e6350f5f59713b", null ]
+    [ "Build", "d8/dcb/a10956.html#aa5ed2806342a36723f1317105ebc13fa", null ],
+    [ "FormatVersion", "d8/dcb/a10956.html#abf0c90aa56c9f74e4139b4a1ead3115e", null ],
+    [ "Locale", "d8/dcb/a10956.html#acdcbe4c10ad6143b756638349c185ae5", null ],
+    [ "OptionalDataSize", "d8/dcb/a10956.html#a88c79f6e69197e23ce191bcef187c0fe", null ],
+    [ "SessionKey", "d8/dcb/a10956.html#aff4e4f46725d72923bac3e197ae7d2e3", null ],
+    [ "Signature", "d8/dcb/a10956.html#a34b88d6d83daeee7827176993c152de4", null ],
+    [ "SnifferId", "d8/dcb/a10956.html#a95d3f116ef30a096970ee4f3dd10e2ed", null ],
+    [ "SniffStartTicks", "d8/dcb/a10956.html#a1884076ea4fe5af08964471d0058fd4d", null ],
+    [ "SniffStartUnixtime", "d8/dcb/a10956.html#a8923983e21b7a7f1dd3ee4f21b7df592", null ]
 ];

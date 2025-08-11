@@ -1,6 +1,6 @@
 var a19556 =
 [
-    [ "boss_sjonnirAI", "d2/db3/a19560.html", "d2/db3/a19560" ],
-    [ "boss_sjonnir", "d0/dce/a19556.html#a8bb9b10778a2dedcde3d4ced44bc13f1", null ],
-    [ "GetAI", "d0/dce/a19556.html#a0bb79667d9d80f0c49e30fa0547c6062", null ]
+    [ "npc_hol_monumentAI", "d2/db3/a19560.html", "d2/db3/a19560" ],
+    [ "npc_hol_monument", "d0/dce/a19556.html#ae70329e600ba869891e04b31d7452fc0", null ],
+    [ "GetAI", "d0/dce/a19556.html#a8e025a4c67d3a04a231f4effe0ef3746", null ]
 ];

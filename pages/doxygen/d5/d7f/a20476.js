@@ -1,6 +1,9 @@
 var a20476 =
 [
-    [ "npc_ulduar_rocket_strike_triggerAI", "d6/dfe/a20480.html", "d6/dfe/a20480" ],
-    [ "npc_ulduar_rocket_strike_trigger", "d5/d7f/a20476.html#a41cc84b04124bb47c24b39a48c9023b1", null ],
-    [ "GetAI", "d5/d7f/a20476.html#a7715ce6646efa3728c28c4e11b25c2ed", null ]
+    [ "npc_ulduar_bot_summon_triggerAI", "d5/d7f/a20476.html#a60e0706b9285cdf4b25b6f399cad18e9", null ],
+    [ "DoAction", "d5/d7f/a20476.html#ac5d0e28ee330741da3b287d965537f39", null ],
+    [ "Reset", "d5/d7f/a20476.html#a91207c04ecee6fc0e906133e054bf51b", null ],
+    [ "UpdateAI", "d5/d7f/a20476.html#aebec433e806d4f63f5593db0301612b4", null ],
+    [ "option", "d5/d7f/a20476.html#a98bb19fea19a05127b4b32df039acf05", null ],
+    [ "timer", "d5/d7f/a20476.html#a118d048557b0ed314180299c3cd2bcbc", null ]
 ];

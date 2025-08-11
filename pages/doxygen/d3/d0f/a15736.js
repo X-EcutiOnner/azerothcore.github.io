@@ -1,7 +1,7 @@
 var a15736 =
 [
-    [ "go_troll_cageAI", "d3/d0f/a15736.html#ae742afdb7a37d64bb852b7ecd076d007", null ],
-    [ "GossipHello", "d3/d0f/a15736.html#a5c91cb491021b15ba70cc8ef5f07d037", null ],
-    [ "initBlyCrewMember", "d3/d0f/a15736.html#a6bfb77ec97367d8704885acfef801b74", null ],
-    [ "instance", "d3/d0f/a15736.html#ad5d736dd6cbe7a23d03f21004cae530d", null ]
+    [ "npc_ranshallaAI", "da/d6b/a15740.html", "da/d6b/a15740" ],
+    [ "npc_ranshalla", "d3/d0f/a15736.html#a0b9848c68cf955d24024071ae9beb8e5", null ],
+    [ "GetAI", "d3/d0f/a15736.html#a1a81651366cc05d3ad6e9929160fe059", null ],
+    [ "OnQuestAccept", "d3/d0f/a15736.html#a4ed77a4c0a48dc4922fa5ebb71949e28", null ]
 ];

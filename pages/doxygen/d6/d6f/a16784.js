@@ -1,6 +1,6 @@
 var a16784 =
 [
-    [ "instance_forge_of_souls_InstanceScript", "df/d10/a16788.html", "df/d10/a16788" ],
-    [ "instance_forge_of_souls", "d6/d6f/a16784.html#a504896f6e191c87ce77231c4ef267b27", null ],
-    [ "GetInstanceScript", "d6/d6f/a16784.html#a64982b527cfa6057315b8e628549480b", null ]
+    [ "FilterTargets", "d6/d6f/a16784.html#a36879a2920f43562bb0ff89c76d758e4", null ],
+    [ "PrepareSpellScript", "d6/d6f/a16784.html#afeb95c5fe970ebc147d509981b026e98", null ],
+    [ "Register", "d6/d6f/a16784.html#a800bd9ffab41ccf860844a129ec3b03c", null ]
 ];

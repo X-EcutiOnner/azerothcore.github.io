@@ -1,4 +1,5 @@
 var a08456 =
 [
-    [ "PetLoadQueryHolder", "db/d32/a08456.html#a8dee71a2e729d239b7b05bc172c09e3b", null ]
+    [ "PositionXYZOStreamer", "db/d32/a08456.html#afddf48b02eea5399d818468cdf8795c5", null ],
+    [ "m_pos", "db/d32/a08456.html#a6c2be4021912b753ed7da07f1c6a7464", null ]
 ];

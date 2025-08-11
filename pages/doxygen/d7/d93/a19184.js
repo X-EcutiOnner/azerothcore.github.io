@@ -1,5 +1,8 @@
 var a19184 =
 [
-    [ "at_naxxramas_hub_portal", "d7/d93/a19184.html#a946086e8a4651240b84526a1b2d54065", null ],
-    [ "OnTrigger", "d7/d93/a19184.html#af967b0f61b3257c8b8d802d4ed3af1da", null ]
+    [ "HandleDamage", "d7/d93/a19184.html#ab8948b09b685ad970f5292ca4c5d97ba", null ],
+    [ "HandleTargets", "d7/d93/a19184.html#ac36e689bad93aa17738f390680764a7e", null ],
+    [ "PrepareSpellScript", "d7/d93/a19184.html#a149db071722ce12cded16087c8eec1df", null ],
+    [ "Register", "d7/d93/a19184.html#abd073f34a414fab7ee23ee933863f1c7", null ],
+    [ "Validate", "d7/d93/a19184.html#a177320de9c3a2c2f29120fcaa413ab13", null ]
 ];

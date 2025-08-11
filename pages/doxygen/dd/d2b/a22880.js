@@ -1,12 +1,9 @@
 var a22880 =
 [
-    [ "boss_essence_of_desireAI", "dd/d2b/a22880.html#a02f6dec07038297c15c264fb501b01ab", null ],
-    [ "DamageTaken", "dd/d2b/a22880.html#abc2d334c185f519230e5ee4d1fc8ff39", null ],
-    [ "DoAction", "dd/d2b/a22880.html#ad55459d8e75f34783c1516be05cbb97f", null ],
-    [ "JustEngagedWith", "dd/d2b/a22880.html#a0976078399b2190cca25aa2ae5c3c201", null ],
-    [ "KilledUnit", "dd/d2b/a22880.html#a07509843bd658e3fc0b02cb817da37e9", null ],
-    [ "MovementInform", "dd/d2b/a22880.html#ad65068c5f56db269b4dc711745f96cfb", null ],
-    [ "Reset", "dd/d2b/a22880.html#a5c785c728d201a1a4f8f1e01d7000166", null ],
-    [ "UpdateAI", "dd/d2b/a22880.html#af348a1b996a8e7704ba55185ef79fe7d", null ],
-    [ "_recentlySpoken", "dd/d2b/a22880.html#a6507c0da056a74d961d28e96120cd676", null ]
+    [ "FilterTargets", "dd/d2b/a22880.html#aa8f0401dd004e816b8071381289116fa", null ],
+    [ "HandleTeleportUnits", "dd/d2b/a22880.html#a4333f10a29ef3e5643f637899a0ab5c5", null ],
+    [ "PrepareSpellScript", "dd/d2b/a22880.html#a47898c213cdd125714c80d327bf42d8c", null ],
+    [ "Register", "dd/d2b/a22880.html#a6036577cd7b4fbbc55e90e9ab067f13a", null ],
+    [ "SetDest", "dd/d2b/a22880.html#a4cf75d96a0d1de62bc989826204b04c9", null ],
+    [ "Validate", "dd/d2b/a22880.html#a814083360970284a325621f45e109b5b", null ]
 ];

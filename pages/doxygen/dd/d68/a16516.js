@@ -1,14 +1,7 @@
 var a16516 =
 [
-    [ "npc_snobold_vassalAI", "dd/d68/a16516.html#a2ecc5e8289252b2936f36de9921294e0", null ],
-    [ "AttackStart", "dd/d68/a16516.html#a50afc82c80cede8dcf3240a116463411", null ],
-    [ "DoAction", "dd/d68/a16516.html#a8beac97ea5f7c797d2ae52e2f3c3be50", null ],
-    [ "JustDied", "dd/d68/a16516.html#aef408460584a17f15a84e8a6435c6348", null ],
-    [ "JustEngagedWith", "dd/d68/a16516.html#a60c1704617e99239d60d24d6b7513c1a", null ],
-    [ "MoveInLineOfSight", "dd/d68/a16516.html#aae75a4e69e27c1e4778a7f76caff04ba", null ],
-    [ "Reset", "dd/d68/a16516.html#af794f46b1a7af97b52683954b556c27d", null ],
-    [ "UpdateAI", "dd/d68/a16516.html#ac1d282da6f2d9133619a212a349c777f", null ],
-    [ "events", "dd/d68/a16516.html#adfb6df0ee8ab19b58de24da8d4e6d9df", null ],
-    [ "pInstance", "dd/d68/a16516.html#afc140e6f9fc1ec78914aecc5150345b0", null ],
-    [ "TargetGUID", "dd/d68/a16516.html#a0d36e4903448c5a03115df0dff3480c8", null ]
+    [ "HandleDispel", "dd/d68/a16516.html#a7b24f38bbb7813826520f928b22d30aa", null ],
+    [ "PrepareAuraScript", "dd/d68/a16516.html#a0e0424bd590cfc4f85f40728bf6efd22", null ],
+    [ "Register", "dd/d68/a16516.html#a2bf6921550da3c13730fd98bded2c927", null ],
+    [ "Validate", "dd/d68/a16516.html#ad8b0bb389d232c74acf106b711414fa1", null ]
 ];

@@ -1,8 +1,6 @@
 var a13260 =
 [
-    [ "HandleApply", "d5/dac/a13260.html#a2e07ffc92d44757fe2b074244048dbf4", null ],
-    [ "HandleRemove", "d5/dac/a13260.html#ae0d8cb63cf62e5015daa56463524aa27", null ],
-    [ "PrepareAuraScript", "d5/dac/a13260.html#a4a59bd5c9ce7b74d29cdd6132f94c0bf", null ],
-    [ "Register", "d5/dac/a13260.html#a3b91d692ad34b7ce965887590780e146", null ],
-    [ "Validate", "d5/dac/a13260.html#aa3ee5b49e9e1009d5be34214eefd2a6d", null ]
+    [ "FilterTargets", "d5/dac/a13260.html#a78675c3421e0243de9e136b646c56be1", null ],
+    [ "PrepareSpellScript", "d5/dac/a13260.html#a0fb177c467c2582e6b66ceae51780d6c", null ],
+    [ "Register", "d5/dac/a13260.html#a39f8a11194fe19a14d25b30faaa6cf42", null ]
 ];

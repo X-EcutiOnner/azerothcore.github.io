@@ -1,6 +1,9 @@
 var a12072 =
 [
-    [ "boss_solakar_flamewreathAI", "da/d97/a12076.html", "da/d97/a12076" ],
-    [ "boss_solakar_flamewreath", "d7/dc0/a12072.html#a0d5a9f9525303014e72cd98d45bf302f", null ],
-    [ "GetAI", "d7/dc0/a12072.html#a0bd7971406392f15f68828ed217f4d06", null ]
+    [ "boss_overlordwyrmthalakAI", "d7/dc0/a12072.html#a76f9bd309e1c5045c74bb0ba8d8bce5c", null ],
+    [ "JustDied", "d7/dc0/a12072.html#ade379755d256c4c290e6dc8bbd862261", null ],
+    [ "JustEngagedWith", "d7/dc0/a12072.html#af7780f467df92c9218700773d1257a8c", null ],
+    [ "Reset", "d7/dc0/a12072.html#a9dbc4cc1830703c393fbeb9c0385b709", null ],
+    [ "UpdateAI", "d7/dc0/a12072.html#a950b2161ed4c2441fb73f8b009c5ba30", null ],
+    [ "Summoned", "d7/dc0/a12072.html#a8183e3f02d931809440adc8cc0cd3654", null ]
 ];

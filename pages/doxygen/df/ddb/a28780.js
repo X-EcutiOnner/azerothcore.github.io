@@ -1,8 +1,13 @@
 var a28780 =
 [
-    [ "CheckProc", "df/ddb/a28780.html#a610313f5085c7c0109b5936e94de00fe", null ],
-    [ "OnProc", "df/ddb/a28780.html#ad87c4cbd332dc19be3bc8ec9982a385b", null ],
-    [ "PrepareAuraScript", "df/ddb/a28780.html#aae4d26e262f80681811c9b50c2a63642", null ],
-    [ "Register", "df/ddb/a28780.html#a8fdcd2b4489011294d9f58d5ff0beb3f", null ],
-    [ "Validate", "df/ddb/a28780.html#a00ef3cd4b2ee5739f5f7288ccbd6a1c6", null ]
+    [ "liquidTris", "df/ddb/a28780.html#ad166656bfa449d3093cb23e7bef2cc76", null ],
+    [ "liquidType", "df/ddb/a28780.html#afbbb20fcb4e597c2addcc47893a33f92", null ],
+    [ "liquidVerts", "df/ddb/a28780.html#a52796933ab018f27d12f625673f7f8a9", null ],
+    [ "offMeshConnectionDirs", "df/ddb/a28780.html#a58350c36d5b88fe255880f6c217d4ef9", null ],
+    [ "offMeshConnectionRads", "df/ddb/a28780.html#a56bbdeb5028302de0c5eb5a02cffa44c", null ],
+    [ "offMeshConnections", "df/ddb/a28780.html#a706feac90bb398da61296bac9d0b7176", null ],
+    [ "offMeshConnectionsAreas", "df/ddb/a28780.html#af5af113433bb2776e6735195e57ab6f7", null ],
+    [ "offMeshConnectionsFlags", "df/ddb/a28780.html#a8c819b625f1bb0b21bb756144b2e1266", null ],
+    [ "solidTris", "df/ddb/a28780.html#adb04d376bfa182cf9666689e6c5a7c68", null ],
+    [ "solidVerts", "df/ddb/a28780.html#a915387c2cfa7111de4a957646a2aace4", null ]
 ];

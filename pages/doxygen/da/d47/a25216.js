@@ -1,7 +1,7 @@
 var a25216 =
 [
-    [ "PrepareAuraScript", "da/d47/a25216.html#afeac0a8393b7d7bf787fca59988d0e14", null ],
-    [ "Register", "da/d47/a25216.html#a7cbcf46dbdddea12fd6ce04bcbcea097", null ],
-    [ "TriggerFoodBuff", "da/d47/a25216.html#a5d125413491dd377d61b8e30c4979fdd", null ],
-    [ "Validate", "da/d47/a25216.html#a6b69d7358eb8cfe6a8f9efd47882eb80", null ]
+    [ "CalculateAmount", "da/d47/a25216.html#a074a7de6cd4d930c1f23f6398c738bad", null ],
+    [ "Load", "da/d47/a25216.html#a777803a61286e0eba31246d4771630df", null ],
+    [ "PrepareAuraScript", "da/d47/a25216.html#ab76bc3927d3ce31ae061fe8577ca25f0", null ],
+    [ "Register", "da/d47/a25216.html#a335e1629b98bfacf6e4e565b94d4991e", null ]
 ];

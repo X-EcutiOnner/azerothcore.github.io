@@ -1,7 +1,11 @@
 var a16368 =
 [
-    [ "npc_toc_paladinAI", "d4/d09/a16368.html#a025d39c04e864ebd77f4f930ec20b1e5", null ],
-    [ "myCanCast", "d4/d09/a16368.html#a06130e6e440d0b25d8b5566de6190cbc", null ],
-    [ "UpdateAI", "d4/d09/a16368.html#a32943f1c3ffd0239c85ac1b81786f049", null ],
-    [ "events", "d4/d09/a16368.html#ae47a32bbb05cf2f634ae18bc672ec004", null ]
+    [ "npc_anubarak_spikeAI", "d4/d09/a16368.html#a1982ce33ce76e15d33bfcc222f5ad734", null ],
+    [ "DamageTaken", "d4/d09/a16368.html#a3b548e629d2c6217f21644136ca7ba4b", null ],
+    [ "DoAction", "d4/d09/a16368.html#ab583d97745ea69e95a1ecc0b68ac9878", null ],
+    [ "Reset", "d4/d09/a16368.html#af5b4a1227467d86d9dbba57362fdf360", null ],
+    [ "SelectNewTarget", "d4/d09/a16368.html#ab9ed5d53703464c488267f578a214fb8", null ],
+    [ "UpdateAI", "d4/d09/a16368.html#af8d6d840785c718d963c7b150cd12d9c", null ],
+    [ "events", "d4/d09/a16368.html#a52ff0006b5194edcb55f49e970a15ab8", null ],
+    [ "TargetGUID", "d4/d09/a16368.html#a2f7cbaf81e159035476ee9576a0e3990", null ]
 ];

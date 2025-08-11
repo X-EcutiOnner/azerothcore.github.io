@@ -1,6 +1,6 @@
 var a22372 =
 [
-    [ "PrepareSpellScript", "de/d72/a22372.html#ae9a4734c9b12473f86c91a49860d56dd", null ],
-    [ "RecalculateDamage", "de/d72/a22372.html#ad47d51e68c6ffe60f15beceaffc60b19", null ],
-    [ "Register", "de/d72/a22372.html#a0dbeb30ba0eb22f4eb762f0a14cc6f39", null ]
+    [ "go_wg_vehicle_teleporterAI", "d8/dee/a22376.html", "d8/dee/a22376" ],
+    [ "go_wg_vehicle_teleporter", "de/d72/a22372.html#a074ead770a3da6e9ffa4180a3525f4c8", null ],
+    [ "GetAI", "de/d72/a22372.html#a113aaf42c095000c1a016bfe60df11e7", null ]
 ];

@@ -1,6 +1,6 @@
 var a20192 =
 [
-    [ "npc_ulduar_hodir_shamanAI", "d2/d3f/a20196.html", "d2/d3f/a20196" ],
-    [ "npc_ulduar_hodir_shaman", "d0/d80/a20192.html#ae73a416c72441ab531d8a5db88183d47", null ],
-    [ "GetAI", "d0/d80/a20192.html#ab06a67b72a3954c65792a478ac90672c", null ]
+    [ "npc_ulduar_icicleAI", "d2/d3f/a20196.html", "d2/d3f/a20196" ],
+    [ "npc_ulduar_icicle", "d0/d80/a20192.html#a1ab79b2fa3e64779f62b96c195222683", null ],
+    [ "GetAI", "d0/d80/a20192.html#a71dd83d544307b11bcde58f9aeea097c", null ]
 ];

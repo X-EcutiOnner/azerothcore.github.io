@@ -1,6 +1,6 @@
 var a17300 =
 [
-    [ "ModAuraStack", "d9/d00/a17300.html#a7535ef148e047e32a5f7a1944585e396", null ],
-    [ "PrepareSpellScript", "d9/d00/a17300.html#ad5305dd5a32a18802a9fce5daccf3051", null ],
-    [ "Register", "d9/d00/a17300.html#ab44b362197e74b98b3ffeb98eff52742", null ]
+    [ "npc_dark_nucleusAI", "d3/d23/a17304.html", "d3/d23/a17304" ],
+    [ "npc_dark_nucleus", "d9/d00/a17300.html#a14459f4f41ef568decbc952fdcd4ffd5", null ],
+    [ "GetAI", "d9/d00/a17300.html#a1f59ae45c1a84a6faca5a8bb62fc16fc", null ]
 ];

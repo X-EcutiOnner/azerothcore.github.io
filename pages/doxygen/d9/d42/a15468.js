@@ -1,6 +1,8 @@
 var a15468 =
 [
-    [ "npc_omenAI", "d8/dcc/a15472.html", "d8/dcc/a15472" ],
-    [ "npc_omen", "d9/d42/a15468.html#aff955303a8b9741838779a59dd496f62", null ],
-    [ "GetAI", "d9/d42/a15468.html#a8023ad3298000d9819c46f46a93166d4", null ]
+    [ "CheckRequirement", "d9/d42/a15468.html#ae2b5e9accd0df2cc99e976eaab2d3f35", null ],
+    [ "HandleDummy", "d9/d42/a15468.html#a6d2c75ad53f0e0f7be2df037f385d686", null ],
+    [ "PrepareSpellScript", "d9/d42/a15468.html#a5b0a5f957a7b996cbe6b219a9803069e", null ],
+    [ "Register", "d9/d42/a15468.html#a46f4aec6f7786d0abc8ded21ef16e6f6", null ],
+    [ "Validate", "d9/d42/a15468.html#ab3f8d94f3b8d44e668743cb821430a92", null ]
 ];

@@ -1,9 +1,7 @@
 var a17600 =
 [
-    [ "CheckAreaTarget", "d0/d1d/a17600.html#afd45699e853a5b57f3e9ae7bc4165bfb", null ],
-    [ "HandleApply", "d0/d1d/a17600.html#a9ce86d32957af07313af379b4176d0b3", null ],
-    [ "HandleRemove", "d0/d1d/a17600.html#a04f449a062b20e6f9ebc35857a051ed3", null ],
-    [ "Load", "d0/d1d/a17600.html#aa10821981f3e80262850e5c46449d5d0", null ],
-    [ "PrepareAuraScript", "d0/d1d/a17600.html#ac98e9c47a7cb177c0624cda37d1836e2", null ],
-    [ "Register", "d0/d1d/a17600.html#ab5b7bc1cc347ea368a9f2753b4c020a7", null ]
+    [ "npc_gunship_boarding_leaderAI", "d0/d1d/a17600.html#ac20099905fd6fddda2561b88cf077b77", null ],
+    [ "JustEngagedWith", "d0/d1d/a17600.html#a448ee30c01317a7e3c842a0043b15c2a", null ],
+    [ "UpdateAI", "d0/d1d/a17600.html#ab7a105fbc49a365d609c7787b61fd75f", null ],
+    [ "_events", "d0/d1d/a17600.html#affb899bbaa288e72a48d5518367b023d", null ]
 ];

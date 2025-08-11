@@ -1,8 +1,7 @@
 var a23720 =
 [
-    [ "boss_laj", "d6/dea/a23720.html#a3c9323ab4b5530504588ea62aed2edff", null ],
-    [ "Reset", "d6/dea/a23720.html#ace690a0662376addaa40093f3f119c31", null ],
-    [ "ScheduleTasks", "d6/dea/a23720.html#a6bd0db1ed4c963cdceb681c84469b06c", null ],
-    [ "_lastTransform", "d6/dea/a23720.html#a097eacaaf77a09bec087530bad587b11", null ],
-    [ "_transformContainer", "d6/dea/a23720.html#a313e66ceeb4e359251dad65383e7f568", null ]
+    [ "boss_zereketh_the_unbound", "d6/dea/a23720.html#abb2fc5cbe7514142160818016fda1936", null ],
+    [ "JustDied", "d6/dea/a23720.html#ac5d96da9a33a536f2002cce11453ded3", null ],
+    [ "JustEngagedWith", "d6/dea/a23720.html#ad0305f3eeb578d6dcd2db835331eb10f", null ],
+    [ "KilledUnit", "d6/dea/a23720.html#a07d3a1264e6d78c2696990755fc7fe45", null ]
 ];

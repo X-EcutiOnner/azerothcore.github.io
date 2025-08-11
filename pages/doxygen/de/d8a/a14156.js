@@ -1,6 +1,6 @@
 var a14156 =
 [
-    [ "HandleEffectApply", "de/d8a/a14156.html#a06d50e8c0f7bfd1b055d8a3f5c14d357", null ],
-    [ "PrepareAuraScript", "de/d8a/a14156.html#a5f8abd33848c554f9a530ad23c86a7a0", null ],
-    [ "Register", "de/d8a/a14156.html#a2b39daf6fe325cfa909b964da62c2571", null ]
+    [ "npc_brewfest_keg_thrower", "de/d8a/a14156.html#a29da1efd21fe6737684607e5b360ea84", null ],
+    [ "CanBeSeen", "de/d8a/a14156.html#a36212d0f17c0070d3ef3cc25577ff7b9", null ],
+    [ "MoveInLineOfSight", "de/d8a/a14156.html#a3938b0e63553e79302ba966c6cdcf9be", null ]
 ];

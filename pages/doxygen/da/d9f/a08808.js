@@ -1,7 +1,9 @@
 var a08808 =
 [
-    [ "EquipementIdPrev", "da/d9f/a08808.html#a719c716f8914a200bfde4f5bb3275f26", null ],
-    [ "EquipmentId", "da/d9f/a08808.html#af7f6e5bbb8327e5abf4e17a8a164cc4d", null ],
-    [ "ModelId", "da/d9f/a08808.html#ade2b2413020be410428b9fee9aa284d6", null ],
-    [ "ModelIdPrev", "da/d9f/a08808.html#a9de7aa11788b22692738b72718193057", null ]
+    [ "GameEventAIHookWorker", "da/d9f/a08808.html#ad72640a18d2d32a9201c965089ee49cf", null ],
+    [ "Visit", "da/d9f/a08808.html#a23d979ee43838e7d58e9123e36474a5a", null ],
+    [ "Visit", "da/d9f/a08808.html#a79106ec550d072d690bbf3496d76cb0a", null ],
+    [ "Visit", "da/d9f/a08808.html#a165476edd8b252bbb90b8b78fae963a6", null ],
+    [ "_activate", "da/d9f/a08808.html#a756665eafa08f3c8c51ccef69bdd619f", null ],
+    [ "_eventId", "da/d9f/a08808.html#ab1ee68bb7134e84780772eba2cfac766", null ]
 ];

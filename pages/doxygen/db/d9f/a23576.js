@@ -1,7 +1,6 @@
 var a23576 =
 [
-    [ "FilterTargets", "db/d9f/a23576.html#a921450a09e51585beb9dd2ce9b00bac9", null ],
-    [ "HandleHit", "db/d9f/a23576.html#adb30857a5a320bb24b8cc0bcb9d60040", null ],
-    [ "PrepareSpellScript", "db/d9f/a23576.html#a376618b9811b2e1ec18697431094e22f", null ],
-    [ "Register", "db/d9f/a23576.html#ae7f4f54446d5a1ebb20d49ab9deaed81", null ]
+    [ "instance_hellfire_ramparts_InstanceMapScript", "d3/d04/a23580.html", "d3/d04/a23580" ],
+    [ "instance_hellfire_ramparts", "db/d9f/a23576.html#ab6ee671123dd0d736e9745e45e04b8da", null ],
+    [ "GetInstanceScript", "db/d9f/a23576.html#a6f2dc361984b33c1d14d62d67a563e8d", null ]
 ];

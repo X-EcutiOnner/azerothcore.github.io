@@ -1,6 +1,10 @@
 var a17304 =
 [
-    [ "ChangeSummonPos", "d3/d23/a17304.html#a2c3d69419762c7f78688a22017a8c535", null ],
-    [ "PrepareSpellScript", "d3/d23/a17304.html#a97c48254a0d7a0bd4bcf40f614bc5373", null ],
-    [ "Register", "d3/d23/a17304.html#a9c1aad0131ebe9635c9fdbb3d71c9cdd", null ]
+    [ "npc_dark_nucleusAI", "d3/d23/a17304.html#a9558da93ec684d5c4e79e686e6bfb142", null ],
+    [ "AttackStart", "d3/d23/a17304.html#a3dec28dd13257b944df0c559d26a76e0", null ],
+    [ "DamageTaken", "d3/d23/a17304.html#adfb2ad6f6b36fa122511a6ed10e22b99", null ],
+    [ "JustDied", "d3/d23/a17304.html#a464d479ad80d55e54c7ea2c8b8c03a81", null ],
+    [ "Reset", "d3/d23/a17304.html#ac84f79f84e721ab1306c8eed8658b143", null ],
+    [ "UpdateAI", "d3/d23/a17304.html#a3a08457c34d4dd904a99a78875d6318c", null ],
+    [ "timer", "d3/d23/a17304.html#ac5f9824276987b81aef5cfee05158049", null ]
 ];

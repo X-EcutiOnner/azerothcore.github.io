@@ -1,6 +1,6 @@
 var a12084 =
 [
-    [ "OrcDeathEvent", "d5/db8/a12084.html#ae4088ee95c3c0de9ae524a82803b0ea2", null ],
-    [ "Execute", "d5/db8/a12084.html#a293ec6667da669a27fe75965f919cd68", null ],
-    [ "_me", "d5/db8/a12084.html#a56cdf23ed08cbb800ba6fe7fb5e284b7", null ]
+    [ "npc_blackhand_incarceratorAI", "d6/ddb/a12088.html", "d6/ddb/a12088" ],
+    [ "npc_blackhand_incarcerator", "d5/db8/a12084.html#a0c6bb8ea789e81803a11be57ac1b68e2", null ],
+    [ "GetAI", "d5/db8/a12084.html#a021ddf6442812f7fb698ba7fb45b9ffb", null ]
 ];

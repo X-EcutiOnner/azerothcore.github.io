@@ -1,7 +1,7 @@
 var a21080 =
 [
-    [ "HandleOnEffectRemove", "d6/dd0/a21080.html#acccd790c53f567f93e64afa7b7d1fe6f", null ],
-    [ "PrepareAuraScript", "d6/dd0/a21080.html#a72e6468602d40eb479a80c611d60eb2e", null ],
-    [ "Register", "d6/dd0/a21080.html#a213b50ebb7ce248a36dd78167d1190bb", null ],
-    [ "Validate", "d6/dd0/a21080.html#a8f3ec40c0c2e38dc32db30ce36129684", null ]
+    [ "npc_frost_tomb", "d6/dd0/a21080.html#a9c7abe1dc25b807d34f1ed818ab639ef", null ],
+    [ "JustDied", "d6/dd0/a21080.html#a40a14647eaf9f2c5bd11c094f0aadb79", null ],
+    [ "UpdateAI", "d6/dd0/a21080.html#af2122e9c8cb206151f631659c7d167da", null ],
+    [ "PrisonerGUID", "d6/dd0/a21080.html#a456fcd5dd3f504954a74fc068f253dc2", null ]
 ];

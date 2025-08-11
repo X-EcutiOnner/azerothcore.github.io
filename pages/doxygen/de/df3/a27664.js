@@ -1,5 +1,7 @@
 var a27664 =
 [
-    [ "go_transport_the_purple_princess", "de/df3/a27664.html#ab0c79197964857d578036693a2c18e8a", null ],
-    [ "EventInform", "de/df3/a27664.html#ac5b73f1bea180797169138f8e9228783", null ]
+    [ "npc_venomhide_hatchlingAI", "dc/d27/a27668.html", "dc/d27/a27668" ],
+    [ "npc_venomhide_hatchling", "de/df3/a27664.html#a4dc217dd5950db7b270b7cce3e594e4d", null ],
+    [ "GetAI", "de/df3/a27664.html#a96110b752965d751ab7b466c4f67e333", null ],
+    [ "OnGossipHello", "de/df3/a27664.html#a404d875592b847ddb9f3250c9d954bfc", null ]
 ];

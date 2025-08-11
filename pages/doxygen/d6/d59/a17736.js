@@ -1,6 +1,6 @@
 var a17736 =
 [
-    [ "HandlePeriodicTick", "d6/d59/a17736.html#a29bf443cdb53b10032ba382b8ae44828", null ],
-    [ "PrepareAuraScript", "d6/d59/a17736.html#aa22f2997c77c25927f01d9fb1c6852b9", null ],
-    [ "Register", "d6/d59/a17736.html#a01e31df6c6ec9f6ae5bffb4b435caf8e", null ]
+    [ "boss_lady_deathwhisperAI", "d0/dcd/a17740.html", "d0/dcd/a17740" ],
+    [ "boss_lady_deathwhisper", "d6/d59/a17736.html#a979411cb834611b1239f3bf9058d316d", null ],
+    [ "GetAI", "d6/d59/a17736.html#ac0b86fee1e2e9dbf794ed1b53aab11d2", null ]
 ];

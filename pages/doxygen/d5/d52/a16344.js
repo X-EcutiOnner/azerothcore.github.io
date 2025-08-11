@@ -1,21 +1,12 @@
 var a16344 =
 [
-    [ "boss_faction_championsAI", "d5/d52/a16344.html#aec4455c8bdd8d0629b9c3f17178818b6", null ],
-    [ "AttackStart", "d5/d52/a16344.html#a465492574894303cbce6df2107b87252", null ],
-    [ "EnemiesInRange", "d5/d52/a16344.html#acbb166d6ac50f11eae591ddf1dbba917", null ],
-    [ "EnterEvadeMode", "d5/d52/a16344.html#a81f01bf15e7d7d647fa01da165ee0896", null ],
-    [ "EventMapGCD", "d5/d52/a16344.html#a8f993213b96d47f12258f6182b876042", null ],
-    [ "GetThreatMod", "d5/d52/a16344.html#aae5bc496f0f17c2167dd8a47c8ae40cd", null ],
-    [ "IsCCed", "d5/d52/a16344.html#a6df04b369e7a85e6779228f8a7657ba7", null ],
-    [ "JustDied", "d5/d52/a16344.html#aa8976d148ac4882063787f144ebeeea8", null ],
-    [ "JustEngagedWith", "d5/d52/a16344.html#a3c8e2e446e6325597f1687201698a2c6", null ],
-    [ "KilledUnit", "d5/d52/a16344.html#ac49f6c9994484a6d905362fd66ccf81e", null ],
-    [ "RecalculateThreat", "d5/d52/a16344.html#a435b28bf38824d8b36bc6cf105d2dcf2", null ],
-    [ "SelectEnemyCaster", "d5/d52/a16344.html#a81a318b636472e15624d01ecf3be65fb", null ],
-    [ "SelectTarget_MostHPLostFriendlyMissingBuff", "d5/d52/a16344.html#aea6f9e045fb3866cef15d890f63766d8", null ],
-    [ "UpdateAI", "d5/d52/a16344.html#a6c93329b33c0fa469b04622cff1aa517", null ],
-    [ "mAIType", "d5/d52/a16344.html#acff880f98ff81d25d02224931fe8ff93", null ],
-    [ "pInstance", "d5/d52/a16344.html#a546bff05f2ca0e8e4c8371bfd4d6ed79", null ],
-    [ "powerTimer", "d5/d52/a16344.html#a38394cc3ee369fb5bb580d3702792604", null ],
-    [ "threatTimer", "d5/d52/a16344.html#a6aa684c94874d3a3bcd7150b0d7cd04b", null ]
+    [ "npc_swarm_scarabAI", "d5/d52/a16344.html#a0d0cefd52543044773e7df772f90fd37", null ],
+    [ "CanAIAttack", "d5/d52/a16344.html#a95a27742f4f7fa1af45964b6270a9558", null ],
+    [ "DoAction", "d5/d52/a16344.html#ac1fe6742ef1e7bdee4c81a3933a31659", null ],
+    [ "JustDied", "d5/d52/a16344.html#a0fe99c71cac6d3ee8d360f0d46d03fcd", null ],
+    [ "JustEngagedWith", "d5/d52/a16344.html#a585e1e8800e97b2aa3d6c893d54c1d2b", null ],
+    [ "Reset", "d5/d52/a16344.html#aa24cc2f2b7aa4c5c534e8d2ce2957237", null ],
+    [ "UpdateAI", "d5/d52/a16344.html#aa33d9e101ba7de2a25a6213baccf6df1", null ],
+    [ "despawnTimer", "d5/d52/a16344.html#a6d35e43af695ac112b972badb665f06d", null ],
+    [ "determinationTimer", "d5/d52/a16344.html#af319dbf16bc1d3939602465f0a87d30c", null ]
 ];

@@ -1,6 +1,6 @@
 var a17276 =
 [
-    [ "npc_kinetic_bombAI", "d7/dcd/a17280.html", "d7/dcd/a17280" ],
-    [ "npc_kinetic_bomb", "d7/d54/a17276.html#abca5a72d3ac0d50a27e604e8e1491957", null ],
-    [ "GetAI", "d7/d54/a17276.html#ae00630d96dc7a93ea13841c1f9e9be3b", null ]
+    [ "boss_prince_taldaramAI", "d7/dcd/a17280.html", "d7/dcd/a17280" ],
+    [ "boss_prince_taldaram_icc", "d7/d54/a17276.html#abe14f754e1daf597aa2b7d401f337c8d", null ],
+    [ "GetAI", "d7/d54/a17276.html#a2a8c89206ab72afc68260f41a246da3b", null ]
 ];

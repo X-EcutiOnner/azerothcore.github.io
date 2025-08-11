@@ -1,6 +1,6 @@
 var a26472 =
 [
-    [ "ModDest", "da/d1b/a26472.html#ab03387aec0a02a6b3bac1014443554b6", null ],
-    [ "PrepareSpellScript", "da/d1b/a26472.html#a53f7da301759fb18686bc73281c4a321", null ],
-    [ "Register", "da/d1b/a26472.html#a266198fbc6203517f9845ef6212ddf13", null ]
+    [ "HandleDummy", "da/d1b/a26472.html#a73628636431d3549d6e3530c6ef23c08", null ],
+    [ "PrepareSpellScript", "da/d1b/a26472.html#ab90d3031b356e8004fa62c9562f1ba1f", null ],
+    [ "Register", "da/d1b/a26472.html#a7f42cf47831d3c8544453530a1454ddc", null ]
 ];

@@ -1,8 +1,9 @@
 var a25812 =
 [
-    [ "HandleDummy", "df/db3/a25812.html#a13b4ea32e03dec26d0cdaa9537abb3b0", null ],
-    [ "Load", "df/db3/a25812.html#a78506404ba25b054a9ab3f7176a5d4fc", null ],
-    [ "PrepareSpellScript", "df/db3/a25812.html#a070e83b84feb418f02327240daebede7", null ],
-    [ "Register", "df/db3/a25812.html#a0c2965e62feb26ca764636fcd3a1f885", null ],
-    [ "Validate", "df/db3/a25812.html#a48934cde38c6f3b18087267b616ff338", null ]
+    [ "CheckRequirement", "df/db3/a25812.html#adab261a5221ca54b15cc414d291908fe", null ],
+    [ "HandleDummy", "df/db3/a25812.html#abb7a734244bb18d75304a0510f9efb8d", null ],
+    [ "Load", "df/db3/a25812.html#a418eef16d1e3aeff67013f45409c092a", null ],
+    [ "PrepareSpellScript", "df/db3/a25812.html#ab3e73a456ec7384720827a4ff7f5abc7", null ],
+    [ "Register", "df/db3/a25812.html#a5dbf60e33f2cdca3921f623cd1098948", null ],
+    [ "Validate", "df/db3/a25812.html#a1dcba4f3c2874a952ca422b0a3cdafb1", null ]
 ];

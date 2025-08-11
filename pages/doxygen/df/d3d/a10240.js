@@ -1,6 +1,6 @@
 var a10240 =
 [
-    [ "BattlegroundScript", "df/d3d/a10240.html#a306231f1c7346a00a3f877c7cef3897b", null ],
-    [ "GetBattleground", "df/d3d/a10240.html#a782c6e81f4ed9a63f9276dcc4f0f9116", null ],
-    [ "IsDatabaseBound", "df/d3d/a10240.html#a35b571d570c85a861af6f949b51453cb", null ]
+    [ "AreaTriggerScript", "df/d3d/a10240.html#a478e4dee0f4211af9be6ea448d4e6c89", null ],
+    [ "IsDatabaseBound", "df/d3d/a10240.html#ac5234a2cd020cd8f90b6d19c28ad46ae", null ],
+    [ "OnTrigger", "df/d3d/a10240.html#abb6cdada718e9fad7da98fbb667c6d53", null ]
 ];

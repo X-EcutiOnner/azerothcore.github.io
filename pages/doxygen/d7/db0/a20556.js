@@ -1,9 +1,6 @@
 var a20556 =
 [
-    [ "npc_ulduar_dark_rune_sentinelAI", "d7/db0/a20556.html#a533ae31e0507f12f7d94e347b6b7ebf2", null ],
-    [ "CanAIAttack", "d7/db0/a20556.html#a12b2e5c621a8b04a4d80dde706a4bb2b", null ],
-    [ "Reset", "d7/db0/a20556.html#ada2897f48effedd5d5baa5a260497b5a", null ],
-    [ "UpdateAI", "d7/db0/a20556.html#aa9b319928a9b23cf4d47a07c1eaeb0cd", null ],
-    [ "timer1", "d7/db0/a20556.html#a383a2ee113822b7eff52466f0cc0e137", null ],
-    [ "timer2", "d7/db0/a20556.html#ad5c4698c5d12ff42179d62c47d9f7719", null ]
+    [ "npc_ulduar_harpoonfirestateAI", "d8/d9b/a20560.html", "d8/d9b/a20560" ],
+    [ "npc_ulduar_harpoonfirestate", "d7/db0/a20556.html#a85043e64606ba7c9ce2da7a37bbf0e8e", null ],
+    [ "GetAI", "d7/db0/a20556.html#a8c9e1882c0706cb0b576c24b62215238", null ]
 ];

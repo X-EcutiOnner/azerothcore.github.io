@@ -1,7 +1,6 @@
 var a14548 =
 [
-    [ "boss_azuregosAI", "d2/d78/a14552.html", "d2/d78/a14552" ],
-    [ "boss_azuregos", "da/dea/a14548.html#a48590db0037870ca5c9425a468e5ea3a", null ],
-    [ "GetAI", "da/dea/a14548.html#a3ea1fd967b8ab158a9b2bb5cdd7dcf83", null ],
-    [ "OnGossipSelect", "da/dea/a14548.html#a73220e54a3a53931e740f3c53c3bf20c", null ]
+    [ "PrepareAuraScript", "da/dea/a14548.html#a80660b1417ab33edaf2c4cd517e10e30", null ],
+    [ "RecalculateHook", "da/dea/a14548.html#af3952993947dfb24381083d21a9e64cb", null ],
+    [ "Register", "da/dea/a14548.html#ab7f0aa924dfe8043e44cd794f72e4555", null ]
 ];

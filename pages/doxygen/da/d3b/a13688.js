@@ -1,6 +1,7 @@
 var a13688 =
 [
-    [ "boss_blight_wormAI", "d9/d9a/a13692.html", "d9/d9a/a13692" ],
-    [ "boss_blight_worm", "da/d3b/a13688.html#a6dea51baebc6b44ef94342565136e56d", null ],
-    [ "GetAI", "da/d3b/a13688.html#a1cb9043482e9b3c3eff3fd75057a2fb2", null ]
+    [ "npc_lady_sylvanas_windrunnerAI", "d9/d9a/a13692.html", "d9/d9a/a13692" ],
+    [ "npc_lady_sylvanas_windrunner", "da/d3b/a13688.html#ab3da21f58b68003f50cf0c3d5ce22028", null ],
+    [ "GetAI", "da/d3b/a13688.html#abc382c04be0a8ed46299d1c4b2d008dc", null ],
+    [ "OnQuestReward", "da/d3b/a13688.html#ae0031c5305a03a376dd84e950eb4a23b", null ]
 ];

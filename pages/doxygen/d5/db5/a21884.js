@@ -1,8 +1,7 @@
 var a21884 =
 [
-    [ "npc_ravenous_worgAI", "d5/db5/a21884.html#a5404516869e171c84b774f2a7b8be15d", null ],
-    [ "AttackStart", "d5/db5/a21884.html#a593d218d8cb083a7e37f81d3952c6d4c", null ],
-    [ "UpdateAI", "d5/db5/a21884.html#aeb64d5bde5ef9d8c2a62662bb72d3049", null ],
-    [ "_attack", "d5/db5/a21884.html#a3df5c98821ba33a40e25e7b050858b96", null ],
-    [ "_pacified", "d5/db5/a21884.html#a0da1f59a6fc9cdf39c9cced1eb52acba", null ]
+    [ "HandleDummy", "d5/db5/a21884.html#ae180aea347e73fcce44e9ac3ff33d0ce", null ],
+    [ "PrepareSpellScript", "d5/db5/a21884.html#a9d863ad1d44a9d5dc2b212ef0c414626", null ],
+    [ "Register", "d5/db5/a21884.html#a45f80e0436f93a597deb4653852df6a1", null ],
+    [ "Validate", "d5/db5/a21884.html#ad13fdade1fb7455485bfd68687de53c5", null ]
 ];

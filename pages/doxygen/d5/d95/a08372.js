@@ -1,7 +1,9 @@
 var a08372 =
 [
-    [ "AddToGrid", "d5/d95/a08372.html#a178e3cc30d983d739e1f3f98d9eefbf0", null ],
-    [ "IsInGrid", "d5/d95/a08372.html#a996724d21d62e478f50031faa7637cd5", null ],
-    [ "RemoveFromGrid", "d5/d95/a08372.html#a29740a98fea7db66cdffd824940a2ec2", null ],
-    [ "_gridRef", "d5/d95/a08372.html#aa44ba47734267ac07b733f218623f3c5", null ]
+    [ "Reset", "d5/d95/a08372.html#a9c210ff536b49481f71bc6c3f60ee864", null ],
+    [ "guid", "d5/d95/a08372.html#ac115013e34f67bc1444fef4fc96c843e", null ],
+    [ "pos", "d5/d95/a08372.html#adff317cbf0c2d159d8ffddf52b4751b3", null ],
+    [ "seat", "d5/d95/a08372.html#ad57bea2ae3beb6a086a116989b0d528f", null ],
+    [ "time", "d5/d95/a08372.html#acec3991f0d19fd9f72e9837eef516057", null ],
+    [ "time2", "d5/d95/a08372.html#a426c651d2f359847b033a4d7f278a191", null ]
 ];

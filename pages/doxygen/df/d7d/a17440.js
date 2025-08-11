@@ -1,7 +1,8 @@
 var a17440 =
 [
-    [ "FilterTargets", "df/d7d/a17440.html#aeae290d20ade37eb839c1bf3c9ae59bf", null ],
-    [ "Load", "df/d7d/a17440.html#a38bf6d96c6a78e5105d0369eb993e58c", null ],
-    [ "PrepareSpellScript", "df/d7d/a17440.html#a815c99e9ef570287af5d45c32bdc5b8c", null ],
-    [ "Register", "df/d7d/a17440.html#a33342cc676adaabe5e3896fa559631b7", null ]
+    [ "npc_muradin_bronzebeard_iccAI", "d6/d4b/a17444.html", "d6/d4b/a17444" ],
+    [ "npc_muradin_bronzebeard_icc", "df/d7d/a17440.html#a7e4cecb0f4cabf024794045ed20e3563", null ],
+    [ "GetAI", "df/d7d/a17440.html#ab2b6a0bb1b8626e5a4064b9412234f4b", null ],
+    [ "OnGossipHello", "df/d7d/a17440.html#a7fb9838521dbae6ac0a8bb4ac1e07c37", null ],
+    [ "OnGossipSelect", "df/d7d/a17440.html#a46c4893be723a848d985ff55e28d55a2", null ]
 ];

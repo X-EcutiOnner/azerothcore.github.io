@@ -1,7 +1,6 @@
 var a18412 =
 [
-    [ "AuraRemoveEvent", "d1/d20/a18412.html#a094b9437c7cadb465738daf5684c9725", null ],
-    [ "Execute", "d1/d20/a18412.html#a14ac906a0fcff86f61983c570b0bd6ad", null ],
-    [ "_spellId", "d1/d20/a18412.html#a6fad41839e07e9545859be7c3afcfc36", null ],
-    [ "_trigger", "d1/d20/a18412.html#aad8c27befc102dae6823d5d74fed50b4", null ]
+    [ "npc_lk_spirit_bombAI", "d2/d18/a18416.html", "d2/d18/a18416" ],
+    [ "npc_lk_spirit_bomb", "d1/d20/a18412.html#acc08d41aa1761c450de782e92307ad7c", null ],
+    [ "GetAI", "d1/d20/a18412.html#ade74c00beb2da69dafb0ae93d771c430", null ]
 ];

@@ -1,18 +1,17 @@
 var a12700 =
 [
-    [ "boss_romulo", "d9/d2a/a12700.html#a497e0e57d2abb6640081c1d141a588ff", null ],
-    [ "DamageTaken", "d9/d2a/a12700.html#a603db3883d03367406cbcf3f2cb28a08", null ],
-    [ "DoAction", "d9/d2a/a12700.html#acc23f4f4f5856b9956a764c1f69bbc92", null ],
-    [ "EnterEvadeMode", "d9/d2a/a12700.html#ab4dda6b70337668dd36a582e8439c3db", null ],
-    [ "JustDied", "d9/d2a/a12700.html#aa60d8fe07db9444f25eec9de9e5bf365", null ],
-    [ "JustEngagedWith", "d9/d2a/a12700.html#ab13e2a4ebe8a1956f6de460cdb9b199d", null ],
-    [ "JustReachedHome", "d9/d2a/a12700.html#af8bff3f1c107dc7d8beae7956a25fbcc", null ],
-    [ "KilledUnit", "d9/d2a/a12700.html#ae4ca6736913cc8df4d016876a8fd8576", null ],
-    [ "Reset", "d9/d2a/a12700.html#a15703ee7df979b8ee5892dacf84066e2", null ],
-    [ "ScheduleCombat", "d9/d2a/a12700.html#a4cc20dccb171d1f4d3c680b6b5310e73", null ],
-    [ "UpdateAI", "d9/d2a/a12700.html#ac42df238a2ad354a2fb21ebb558734c6", null ],
-    [ "_scheduler", "d9/d2a/a12700.html#a456abfa48f038e904c427179c2a10edb", null ],
-    [ "instance", "d9/d2a/a12700.html#aae979b72844ff8fcc70956925df4fa9b", null ],
-    [ "isFakingDeath", "d9/d2a/a12700.html#a88ccbe761b4703e4f309d1bb3fca4085", null ],
-    [ "phase", "d9/d2a/a12700.html#ab549436aec35727665150d51f1c25714", null ]
+    [ "boss_dorothee", "d9/d2a/a12700.html#a8bd5b4753c2d8f8aced0c036912f10f1", null ],
+    [ "DoAction", "d9/d2a/a12700.html#a1b9cf1e58d68d249249a8b0d082b725a", null ],
+    [ "EnterEvadeMode", "d9/d2a/a12700.html#a6dfc4109370d4e932e7376a443bd64ad", null ],
+    [ "JustDied", "d9/d2a/a12700.html#a289dfa1f257ca25acba9487908e6223c", null ],
+    [ "JustEngagedWith", "d9/d2a/a12700.html#aa35dafeb9faf8eeea55caa0eeb669db3", null ],
+    [ "JustReachedHome", "d9/d2a/a12700.html#a762209d2bf78cc21c48a426732f2354e", null ],
+    [ "Reset", "d9/d2a/a12700.html#ae3f123a6a9223b7928295812326b0cb4", null ],
+    [ "SummonedCreatureDies", "d9/d2a/a12700.html#a0e76c828a1c7c49741963b6e98003a66", null ],
+    [ "SummonTito", "d9/d2a/a12700.html#a5c04074aab40ecaeeb84b33205b40144", null ],
+    [ "UpdateAI", "d9/d2a/a12700.html#a30fbcc5e7ca4ed74b9d2895b94a9a19e", null ],
+    [ "_scheduler", "d9/d2a/a12700.html#a840bcbad78ff881ef3a803ffa23d3c6e", null ],
+    [ "_startIntro", "d9/d2a/a12700.html#a20e6555e2117a62fce3af7f7fb7167cc", null ],
+    [ "instance", "d9/d2a/a12700.html#ac6a6f1c9074697f761e4e09550cfea71", null ],
+    [ "titoDied", "d9/d2a/a12700.html#a258cc9ce32f314e723d5345ac18336bf", null ]
 ];

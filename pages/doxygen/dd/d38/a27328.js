@@ -1,6 +1,5 @@
 var a27328 =
 [
-    [ "go_bellsAI", "db/d58/a27332.html", "db/d58/a27332" ],
-    [ "go_bells", "dd/d38/a27328.html#a9f40a13aa1aaee28ebd1254d428c0519", null ],
-    [ "GetAI", "dd/d38/a27328.html#a4f1272fb8856310d7924f8e7be1e39f8", null ]
+    [ "go_scourge_cage", "dd/d38/a27328.html#a76dfa458a52c950fbc0a86412e1ad490", null ],
+    [ "OnGossipHello", "dd/d38/a27328.html#ab4e97cd290342d623d212cc7cec227d5", null ]
 ];

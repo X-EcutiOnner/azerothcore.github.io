@@ -1,6 +1,7 @@
 var a07768 =
 [
-    [ "value_type", "d1/ddb/a07768.html#a9297944511f34279a6439ade9d83b0c6", null ],
-    [ "StoreTo", "d1/ddb/a07768.html#a1f5494d3c3472abbf8783026015b5f70", null ],
-    [ "tag", "d1/ddb/a07768.html#a08484916162055a368e768b9f5300047", null ]
+    [ "StoreTo", "d1/ddb/a07768.html#a1f368b832f95ce4acc6ed47ad4ca2e8d", null ],
+    [ "StoreTo", "d1/ddb/a07768.html#a3d9382dd50447477f9f04bc0f055e55c", null ],
+    [ "StoreTo", "d1/ddb/a07768.html#a071922c9c431637de3cb2d6b52def7bd", null ],
+    [ "StoreTo", "d1/ddb/a07768.html#a45556cc3ac64a6692ef08d6d93d48a4d", null ]
 ];

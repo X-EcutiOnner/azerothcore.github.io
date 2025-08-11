@@ -1,7 +1,12 @@
 var a13580 =
 [
-    [ "npc_greengill_slaveAI", "d8/de9/a13580.html#a1a4268b745e63992f4d0fc2028b717aa", null ],
-    [ "JustEngagedWith", "d8/de9/a13580.html#ad7fcb8c711782d3a76e9e4566334fc21", null ],
-    [ "SpellHit", "d8/de9/a13580.html#a0e75a3e8eb3503fdb3aea12e65ccc6e4", null ],
-    [ "UpdateAI", "d8/de9/a13580.html#a6fa27328cf47bef81c3465b8a3e2ace1", null ]
+    [ "npc_sentinel_infiltrator", "d8/de9/a13580.html#a40ce6808a4d0622eb88a669485335020", null ],
+    [ "Initialize", "d8/de9/a13580.html#acc94269a3ede4c897f457a270e9a9c12", null ],
+    [ "JustEngagedWith", "d8/de9/a13580.html#a2c9927468b92d00b60efac851eacfef1", null ],
+    [ "MovementInform", "d8/de9/a13580.html#a57aef1c4ce7a491408c2c6b19d4d4cf2", null ],
+    [ "Reset", "d8/de9/a13580.html#a0f26dbe23efdf572f81723dff1d3eeaf", null ],
+    [ "UpdateAI", "d8/de9/a13580.html#ac676246948689c891c0f9cca7f8bc8b6", null ],
+    [ "_events", "d8/de9/a13580.html#a296d6c70b6c439319cc69a9d39005e62", null ],
+    [ "_fleedForAssistance", "d8/de9/a13580.html#a948c9d2081b33e18aa927fb18598c8ad", null ],
+    [ "_path", "d8/de9/a13580.html#a32d531478df327ccb0bb85e262420813", null ]
 ];

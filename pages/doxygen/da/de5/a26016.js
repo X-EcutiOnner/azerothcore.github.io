@@ -1,7 +1,10 @@
 var a26016 =
 [
-    [ "CheckProc", "da/de5/a26016.html#a2052750b91de67b330a2ae6a190a5d4e", null ],
-    [ "HandleProc", "da/de5/a26016.html#a5b404a07ccb13cabf5fa6ab90db92129", null ],
-    [ "PrepareAuraScript", "da/de5/a26016.html#af16eec48ab0f469ca3cefd149bb0d925", null ],
-    [ "Register", "da/de5/a26016.html#a4f31c76184e4ae5bc03763e04cdac72e", null ]
+    [ "CheckProc", "da/de5/a26016.html#a787008462dce35eb27deda41301b146d", null ],
+    [ "HandleProc", "da/de5/a26016.html#a5b791c7cb8dae574fef801ce42dc6aa1", null ],
+    [ "Load", "da/de5/a26016.html#a9760351c28f5f9948f0b64ae2ca91c24", null ],
+    [ "PrepareAuraScript", "da/de5/a26016.html#ab3d5e71597c67ec0aed70f7e5d2319ac", null ],
+    [ "Register", "da/de5/a26016.html#aa4ef731870355dc386fcd07c5f19d090", null ],
+    [ "Validate", "da/de5/a26016.html#ad04864f0710262364cf40e071446d87c", null ],
+    [ "_procTarget", "da/de5/a26016.html#a9383231fc71c6239507fdf8765d63f3d", null ]
 ];

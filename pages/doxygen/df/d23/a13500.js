@@ -1,6 +1,6 @@
 var a13500 =
 [
-    [ "npc_balance_of_light_and_shadowAI", "dd/d40/a13504.html", "dd/d40/a13504" ],
-    [ "npc_balance_of_light_and_shadow", "df/d23/a13500.html#a55229e3ea8dd9c52972185b36c08908b", null ],
-    [ "GetAI", "df/d23/a13500.html#a07e0547e6bf81cc7ff9fe0aa4a851388", null ]
+    [ "HandleSendEvent", "df/d23/a13500.html#a1be975f4440b823c34cc3e790fcff608", null ],
+    [ "PrepareSpellScript", "df/d23/a13500.html#a91ac4a392fcf5b6e833fb3f5103d8e06", null ],
+    [ "Register", "df/d23/a13500.html#a217fb7cb47b08999d49ec04b345b77fe", null ]
 ];

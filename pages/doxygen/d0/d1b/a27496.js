@@ -1,9 +1,8 @@
 var a27496 =
 [
-    [ "npc_target_dummyAI", "d0/d1b/a27496.html#a117e45559ea721877d73df4b3c18a259", null ],
-    [ "EnterEvadeMode", "d0/d1b/a27496.html#a8f7f2e4decc676e378b4929516f8a147", null ],
-    [ "MoveInLineOfSight", "d0/d1b/a27496.html#a05f5b1f2cb8f0926bf425e7c31d618e2", null ],
-    [ "Reset", "d0/d1b/a27496.html#a4e8f8d1da604a80b60d61f72ed4ecbcf", null ],
-    [ "UpdateAI", "d0/d1b/a27496.html#ae686aa48ab7e91988e5b71c71695ce47", null ],
-    [ "deathTimer", "d0/d1b/a27496.html#abf5bd5122e79a62a03c19a18cd68498b", null ]
+    [ "npc_franklinAI", "d8/d92/a27500.html", "d8/d92/a27500" ],
+    [ "npc_franklin", "d0/d1b/a27496.html#aab059dfa69e52083892e3170c8838e0a", null ],
+    [ "GetAI", "d0/d1b/a27496.html#a10933878afe9d0cc78fa1113341fd522", null ],
+    [ "OnGossipHello", "d0/d1b/a27496.html#a318d512914b135800caabe0efbb1c467", null ],
+    [ "OnGossipSelect", "d0/d1b/a27496.html#a8c37ff7ff15cc9ac49dadabd1650964d", null ]
 ];

@@ -1,7 +1,16 @@
 var a12916 =
 [
-    [ "HandleEffectApply", "dc/d0b/a12916.html#a8d52c4ea09e1d58d2dc44ff73d71faf5", null ],
-    [ "PrepareAuraScript", "dc/d0b/a12916.html#a9829789fe5544429454e29d228ce0daf", null ],
-    [ "Register", "dc/d0b/a12916.html#a7f5a26d10f48d863477ec902e6f5ff1e", null ],
-    [ "Validate", "dc/d0b/a12916.html#ae81a441757ab9f10c29a7b313b99cf5f", null ]
+    [ "npc_unworthy_initiateAI", "dc/d0b/a12916.html#ae535d3335eb7865400f9e5c24b1dd3b5", null ],
+    [ "EventStart", "dc/d0b/a12916.html#a1973d5a14a1ac19be1d74cf57693cabe", null ],
+    [ "JustEngagedWith", "dc/d0b/a12916.html#aeedb0af23823ec5c7ff4f951c872552e", null ],
+    [ "MovementInform", "dc/d0b/a12916.html#afbf6d71b196067400256df98949ae963", null ],
+    [ "Reset", "dc/d0b/a12916.html#aba37cb6291a2e7436f8af796c50dead9", null ],
+    [ "UpdateAI", "dc/d0b/a12916.html#a485695877f48aea0bb191e8b312f9c99", null ],
+    [ "anchorGUID", "dc/d0b/a12916.html#acb1b338fae07b3ececfc8c15cc5ea80b", null ],
+    [ "anchorX", "dc/d0b/a12916.html#a69455d3e3f822c2f2a4f8c3f89e4586d", null ],
+    [ "anchorY", "dc/d0b/a12916.html#a67bbfac4014f2907cc9ad9caca80a4be", null ],
+    [ "events", "dc/d0b/a12916.html#a4eff6a50c098c3f851274ece860fb6fb", null ],
+    [ "phase", "dc/d0b/a12916.html#a299de7b4e1992edebd0a87c119d06d0a", null ],
+    [ "playerGUID", "dc/d0b/a12916.html#a02d1e6dd7a302e170b08f0c90f038ca9", null ],
+    [ "wait_timer", "dc/d0b/a12916.html#a9270c6e57cf77805769cfe692beefbe0", null ]
 ];

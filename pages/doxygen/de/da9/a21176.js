@@ -1,6 +1,6 @@
 var a21176 =
 [
-    [ "boss_ymironAI", "d4/d69/a21180.html", "d4/d69/a21180" ],
-    [ "boss_ymiron", "de/da9/a21176.html#a708ffc55e0a190a8ed6adb0bca6ced7c", null ],
-    [ "GetAI", "de/da9/a21176.html#a0a8caed3c8021ddf861cc71b57297c41", null ]
+    [ "boss_skadi_graufAI", "d4/d69/a21180.html", "d4/d69/a21180" ],
+    [ "boss_skadi_grauf", "de/da9/a21176.html#a571db2d2ae21f38b7051319da0f042f6", null ],
+    [ "GetAI", "de/da9/a21176.html#a9b637a93a572d21691b81b80ec45206d", null ]
 ];

@@ -1,5 +1,6 @@
 var a20364 =
 [
-    [ "achievement_kologarn_looks_could_kill", "d6/d26/a20364.html#a3fcf36dabe41ff35ace233854bd0fb44", null ],
-    [ "OnCheck", "d6/d26/a20364.html#a0e7be4fb00808fab9a231530822fc93d", null ]
+    [ "boss_kologarn_eyebeamAI", "d9/d08/a20368.html", "d9/d08/a20368" ],
+    [ "boss_kologarn_eyebeam", "d6/d26/a20364.html#af28ff60e3b42f7316cc3d63624a91ee9", null ],
+    [ "GetAI", "d6/d26/a20364.html#a34f5533a6bfe84c52fe0b0e854e694f8", null ]
 ];

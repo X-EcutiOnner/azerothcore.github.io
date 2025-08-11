@@ -1,6 +1,6 @@
 var a17004 =
 [
-    [ "npc_pos_leaderAI", "d0/d48/a17008.html", "d0/d48/a17008" ],
-    [ "npc_pos_leader", "de/d22/a17004.html#a690956ba5c822f4cbea9c27c95d5924c", null ],
-    [ "GetAI", "de/d22/a17004.html#a0c0b85bef0b04989dc80d861fa70f463", null ]
+    [ "boss_ickAI", "d0/d48/a17008.html", "d0/d48/a17008" ],
+    [ "boss_ick", "de/d22/a17004.html#af97d7f96bc48ba245e28c18614b9369e", null ],
+    [ "GetAI", "de/d22/a17004.html#a355285766712a31b704c23fe85d19e5f", null ]
 ];

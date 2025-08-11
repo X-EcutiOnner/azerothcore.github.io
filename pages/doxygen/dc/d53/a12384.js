@@ -1,10 +1,8 @@
 var a12384 =
 [
-    [ "npc_core_ragerAI", "dc/d53/a12384.html#a3c5125e0a10043f6181c10ba749fa579", null ],
-    [ "DamageTaken", "dc/d53/a12384.html#a758eb158eb9d232d74514281028efcb3", null ],
-    [ "Reset", "dc/d53/a12384.html#acf83e469d3d8108276227a942fda28b3", null ],
-    [ "UpdateAI", "dc/d53/a12384.html#a2183cf5ab22b737413b86a657fde6d3c", null ],
-    [ "instance", "dc/d53/a12384.html#a7cfddba62f737214b8cfc7fbffa8c2e2", null ],
-    [ "mangleTimer", "dc/d53/a12384.html#a081333b967abb3812b9ddae2f933a324", null ],
-    [ "rangeCheckTimer", "dc/d53/a12384.html#ade427bdd9ec99807b6f190c890136414", null ]
+    [ "boss_garrAI", "dc/d53/a12384.html#a12d403a90bf4920763ddd87b252f544a", null ],
+    [ "JustEngagedWith", "dc/d53/a12384.html#a3b2bf0e6d3b6b32c450d03b1c88f3850", null ],
+    [ "Reset", "dc/d53/a12384.html#acb14e869dac8e7df83b5b9d858cd2b21", null ],
+    [ "UpdateAI", "dc/d53/a12384.html#aca82837e143f4509db221de15276b90c", null ],
+    [ "massEruptionTimer", "dc/d53/a12384.html#ab807c47afd1ba8320730c3aa733e1b15", null ]
 ];

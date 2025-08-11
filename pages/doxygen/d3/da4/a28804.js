@@ -1,6 +1,12 @@
 var a28804 =
 [
-    [ "CalculateAmount", "d3/da4/a28804.html#aa27de1a2fc517a4b796a10e780239880", null ],
-    [ "PrepareAuraScript", "d3/da4/a28804.html#a72e68ff46f2049809f3e3b2c1814bd87", null ],
-    [ "Register", "d3/da4/a28804.html#a5ee969ad0916a9337849c75c18f13c29", null ]
+    [ "Model", "d3/da4/a28804.html#ae102b5fc584185113e89fb7b39a72bd1", null ],
+    [ "~Model", "d3/da4/a28804.html#ad6ebd2062a0b823db841a0b88baac4c0", null ],
+    [ "_unload", "d3/da4/a28804.html#a9b02ed73fa006bc057157b636029ab6f", null ],
+    [ "ConvertToVMAPModel", "d3/da4/a28804.html#ae6fd5d754d9a880359b8afaf50c5753e", null ],
+    [ "open", "d3/da4/a28804.html#a6ed3a71ff468f5acaccc61f5c2c87a0e", null ],
+    [ "filename", "d3/da4/a28804.html#a4c43746e9c460e29cabd1ba2db6ba222", null ],
+    [ "header", "d3/da4/a28804.html#a2f6e66bbf4acc662d73e8fe8e5a0e085", null ],
+    [ "indices", "d3/da4/a28804.html#a3b61d3316481e7b9c38bf50806ebded6", null ],
+    [ "vertices", "d3/da4/a28804.html#a1af9857df4d0e16ab9940846300fa8fe", null ]
 ];

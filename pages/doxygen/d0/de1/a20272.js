@@ -1,5 +1,7 @@
 var a20272 =
 [
-    [ "achievement_staying_buffed_all_winter_25", "d0/de1/a20272.html#a91f0ab3bada837cff6414350b98a27a3", null ],
-    [ "OnCheck", "d0/de1/a20272.html#a36591082184bc8466e124bad9a910545", null ]
+    [ "HandleEffectPeriodic", "d0/de1/a20272.html#af6c50396e9b47cd909184aea80244728", null ],
+    [ "PrepareAuraScript", "d0/de1/a20272.html#aeb41825334049c8e3a39b48cbf271477", null ],
+    [ "Register", "d0/de1/a20272.html#aaa44ceb54aa928c4436120f435bcdc4b", null ],
+    [ "Validate", "d0/de1/a20272.html#a0098e4949fc75b1a2464128f4df869aa", null ]
 ];

@@ -1,6 +1,5 @@
 var a21008 =
 [
-    [ "npc_ulduar_storm_tempered_keeperAI", "d5/d86/a21012.html", "d5/d86/a21012" ],
-    [ "npc_ulduar_storm_tempered_keeper", "d2/d12/a21008.html#aaf2ef154cad4f2ba5796e410dabf02fc", null ],
-    [ "GetAI", "d2/d12/a21008.html#aa0860236d2abedba1e521ee1610c89e8", null ]
+    [ "achievement_yogg_saron_drive_me_crazy", "d2/d12/a21008.html#a381d8fd2e7b4806181959a1b915f3a8c", null ],
+    [ "OnCheck", "d2/d12/a21008.html#a029fdd68e0643b53971efbb1056f19d8", null ]
 ];

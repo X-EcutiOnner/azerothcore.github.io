@@ -1,6 +1,9 @@
 var a13068 =
 [
-    [ "npc_scholomance_occultistAI", "dc/d03/a13072.html", "dc/d03/a13072" ],
-    [ "npc_scholomance_occultist", "d5/d90/a13068.html#adf100912a15ff8edf056efa7eebd13ff", null ],
-    [ "GetAI", "d5/d90/a13068.html#a5da2b011ec4859523c1f713dc18e4d5b", null ]
+    [ "npc_risen_guardianAI", "d5/d90/a13068.html#a50eb3de52205fc1bbc6936f0708c68a6", null ],
+    [ "IsSummonedBy", "d5/d90/a13068.html#ad9f45b9007c1ff74d0f725fbf7f00abe", null ],
+    [ "KilledUnit", "d5/d90/a13068.html#abc7afaa685a436b34ff76edcc6c25e54", null ],
+    [ "Gandling", "d5/d90/a13068.html#a93013b905260aa51341b22d1627cc986", null ],
+    [ "instance", "d5/d90/a13068.html#a96f1835989f646c708b8ef0cc9999e63", null ],
+    [ "room", "d5/d90/a13068.html#a5862a184b6daa92da133cc6c360a993d", null ]
 ];

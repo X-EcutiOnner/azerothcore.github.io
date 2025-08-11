@@ -1,6 +1,6 @@
 var a18292 =
 [
-    [ "HandleScript", "d0/d77/a18292.html#a9489c3454830d3826cb077c95947bf2d", null ],
-    [ "PrepareSpellScript", "d0/d77/a18292.html#a19492e616ac6e69187bca4499175071e", null ],
-    [ "Register", "d0/d77/a18292.html#a3446174d3308f535c27581b63ade9e8a", null ]
+    [ "npc_raging_spiritAI", "d0/d0a/a18296.html", "d0/d0a/a18296" ],
+    [ "npc_raging_spirit", "d0/d77/a18292.html#ad1a580bd394adc8c58575b600c16f9db", null ],
+    [ "GetAI", "d0/d77/a18292.html#ab572a667f6ddd0d4051fe424c8d9e21c", null ]
 ];

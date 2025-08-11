@@ -1,6 +1,7 @@
 var a12924 =
 [
-    [ "npc_crusade_persuadedAI", "d2/dde/a12928.html", "d2/dde/a12928" ],
-    [ "npc_crusade_persuaded", "d8/d9a/a12924.html#a4048e164fc99b9dfff41fd168fb542b6", null ],
-    [ "GetAI", "d8/d9a/a12924.html#a004833d7e6312b23eb6a07c0a6e41db6", null ]
+    [ "npc_unworthy_initiate_anchorAI", "d8/d9a/a12924.html#a2d1a90c4f3c5047a41c7e9f80db13a99", null ],
+    [ "GetGUID", "d8/d9a/a12924.html#a83cca82e7d75231a6aa586f67dad766e", null ],
+    [ "SetGUID", "d8/d9a/a12924.html#a3d2ccbeeddc28002a4eb2392a62ba031", null ],
+    [ "prisonerGUID", "d8/d9a/a12924.html#a38a3e7e7207bb6d809d03c90e67f7742", null ]
 ];

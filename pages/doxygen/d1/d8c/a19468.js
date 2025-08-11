@@ -1,6 +1,6 @@
 var a19468 =
 [
-    [ "boss_ionarAI", "d7/d2a/a19472.html", "d7/d2a/a19472" ],
-    [ "boss_ionar", "d1/d8c/a19468.html#a284da7d86f0b386e352587e0321bf465", null ],
-    [ "GetAI", "d1/d8c/a19468.html#a0c0f28f832458df7326842f04413af5d", null ]
+    [ "PrepareSpellScript", "d1/d8c/a19468.html#a65c3b2c9a416b7d1bbd3c14057e5f8fc", null ],
+    [ "Register", "d1/d8c/a19468.html#ad8470ed0d09c2b7e79fa4ecb1867e9bf", null ],
+    [ "SetDest", "d1/d8c/a19468.html#a24341aae14ed77101d4c31f2fbe11463", null ]
 ];

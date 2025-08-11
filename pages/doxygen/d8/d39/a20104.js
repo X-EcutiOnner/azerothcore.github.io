@@ -1,8 +1,14 @@
 var a20104 =
 [
-    [ "npc_ulduar_saronite_animusAI", "d8/d39/a20104.html#a2b94427feb24a7bda075b6a8f403433a", null ],
-    [ "JustDied", "d8/d39/a20104.html#a30abcab01de3732bc5525864576615b0", null ],
-    [ "UpdateAI", "d8/d39/a20104.html#a1490961adc8fc03ab28a992aff55b43b", null ],
-    [ "pInstance", "d8/d39/a20104.html#a5d3b297355f286b0ad08ed38dbd5b0d2", null ],
-    [ "timer", "d8/d39/a20104.html#a3d0345d4c503eb3f0e4acbe346f1c5e5", null ]
+    [ "boss_freya_summonsAI", "d8/d39/a20104.html#acbba11d918cc6368612cbd3d95310fe2", null ],
+    [ "DoAction", "d8/d39/a20104.html#ad9dd522e33ffd42bff75f7dd5f1bdc45", null ],
+    [ "JustDied", "d8/d39/a20104.html#af7668e0cb4be7d49af8be697b8fa3299", null ],
+    [ "JustEngagedWith", "d8/d39/a20104.html#a3163e12dd184dc5b8981c356e601a05a", null ],
+    [ "Reset", "d8/d39/a20104.html#a44f1ac940625fdd0cdb84454082e7ab6", null ],
+    [ "UpdateAI", "d8/d39/a20104.html#afdd17576728872509ec31188fa68505b", null ],
+    [ "_freyaGUID", "d8/d39/a20104.html#adcdf01b496a52b1d0aa2f1b3bf6a7a0a", null ],
+    [ "_hasDied", "d8/d39/a20104.html#a86f421141d31ac70e58cf63fe707ba27", null ],
+    [ "_isTrio", "d8/d39/a20104.html#ab31e8c73c3e22b031e5efe89ae95ce0e", null ],
+    [ "_stackCount", "d8/d39/a20104.html#ab7fc673ad22c1dd3bd41fa185ee03abb", null ],
+    [ "events", "d8/d39/a20104.html#a79403b4a24b92f89252db603d8ea2210", null ]
 ];

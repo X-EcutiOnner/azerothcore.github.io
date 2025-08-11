@@ -1,7 +1,6 @@
 var a22660 =
 [
-    [ "HandleOnHit", "d2/d76/a22660.html#a5eee46784bfbeaad3a9af069ca7f69a7", null ],
-    [ "PrepareSpellScript", "d2/d76/a22660.html#a734b735c7e87938bff185be91f9de6e8", null ],
-    [ "Register", "d2/d76/a22660.html#a1cc140d2b5487e9dbbf107025e09e51d", null ],
-    [ "Validate", "d2/d76/a22660.html#a162f60784fdec6b748151e5c2a7ed257", null ]
+    [ "instance_sethekk_halls_InstanceMapScript", "de/dc6/a22664.html", "de/dc6/a22664" ],
+    [ "instance_sethekk_halls", "d2/d76/a22660.html#ab50d296266cf377bfb34750ec36963ef", null ],
+    [ "GetInstanceScript", "d2/d76/a22660.html#adc07afe1aa8132f70474f9a534ecb76c", null ]
 ];

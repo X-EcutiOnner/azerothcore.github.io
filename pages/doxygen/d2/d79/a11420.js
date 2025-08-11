@@ -1,7 +1,11 @@
 var a11420 =
 [
-    [ "FieldIndices", "d2/d79/a11420.html#a06a366c804088e6fbb170881004a5cff", null ],
-    [ "TableFields", "d2/d79/a11420.html#ad5d909c6b4b062f3c4aac3f559c5eaec", null ],
-    [ "TableName", "d2/d79/a11420.html#ab00ee028c72660db98e8108583701471", null ],
-    [ "WhereFieldName", "d2/d79/a11420.html#af1be82a21f6172504e310ae27b899e5b", null ]
+    [ "WorldUpdateTime", "d2/d79/a11420.html#a97552c4ce99bd40919f199c17fe203ed", null ],
+    [ "LoadFromConfig", "d2/d79/a11420.html#acb2b9d56504fc760e7df1c93621ab788", null ],
+    [ "RecordUpdateTime", "d2/d79/a11420.html#a88d773c8029cebeab6b99444c25c8379", null ],
+    [ "RecordUpdateTimeDuration", "d2/d79/a11420.html#a3ae299cfba6adcbb4e38af40313428fc", null ],
+    [ "SetRecordUpdateTimeInterval", "d2/d79/a11420.html#ada81050229ccacc49d5b6a9f6101174c", null ],
+    [ "_lastRecordTime", "d2/d79/a11420.html#a7bc68a1a700deb4bc4d19992edf3ffa7", null ],
+    [ "_recordUpdateTimeInverval", "d2/d79/a11420.html#a5486477b0a604f0207336e423f42c2b1", null ],
+    [ "_recordUpdateTimeMin", "d2/d79/a11420.html#a6b8a8d1b61f9ecec591165fa334972fc", null ]
 ];

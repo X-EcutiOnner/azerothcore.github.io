@@ -1,7 +1,6 @@
 var a11528 =
 [
-    [ "achievement_commandscript", "d4/d92/a11528.html#ac1c40d7b3b628cc206c44eae18592292", null ],
-    [ "GetCommands", "d4/d92/a11528.html#adeac4e6f74f006daa76b0ebb8ea1469c", null ],
-    [ "HandleAchievementAddCommand", "d4/d92/a11528.html#ac4f6addfb0c52d584bf8081436aa3d7a", null ],
-    [ "HandleAchievementCheckAllCommand", "d4/d92/a11528.html#a0e3b83961ff20899a8492c8d8b7c13be", null ]
+    [ "rainChance", "dd/d6d/a04777.html#ga8c3d9f1d251a9b167c9adc99101e5612", null ],
+    [ "snowChance", "dd/d6d/a04777.html#ga474650c5237c4a7428e858775fea7b86", null ],
+    [ "stormChance", "dd/d6d/a04777.html#gaa50e5243877e8283f30ee9376b2d519e", null ]
 ];

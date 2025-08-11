@@ -1,7 +1,6 @@
 var a17172 =
 [
-    [ "HandleScriptEffect", "d1/d27/a17172.html#a6469efa0e1fabaf1cb366f119a1158c1", null ],
-    [ "PrepareSpellScript", "d1/d27/a17172.html#aac410690d906867216b40a49d8f15318", null ],
-    [ "Register", "d1/d27/a17172.html#ae8c7acabe93fc33d13f0b8848415eabf", null ],
-    [ "Validate", "d1/d27/a17172.html#a88c3961d5757dd0c75be4acc7de6e45b", null ]
+    [ "npc_living_mojoAI", "d3/df8/a17176.html", "d3/df8/a17176" ],
+    [ "npc_living_mojo", "d1/d27/a17172.html#af24190023549b4ec5fa47b5959618a8a", null ],
+    [ "GetAI", "d1/d27/a17172.html#a2b8ca6e1b26debfafd74e022825c889e", null ]
 ];

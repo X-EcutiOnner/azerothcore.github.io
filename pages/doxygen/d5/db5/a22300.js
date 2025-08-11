@@ -1,6 +1,6 @@
 var a22300 =
 [
-    [ "npc_vehicle_d16_propelled_deliveryAI", "d8/d90/a22304.html", "d8/d90/a22304" ],
-    [ "npc_vehicle_d16_propelled_delivery", "d5/db5/a22300.html#a93bed362ae78231b21327994a3e4cafd", null ],
-    [ "GetAI", "d5/db5/a22300.html#abda3dbcb251d7f1e614d089f630d0d1c", null ]
+    [ "npc_freed_protodrakeAI", "d8/d90/a22304.html", "d8/d90/a22304" ],
+    [ "npc_freed_protodrake", "d5/db5/a22300.html#a56e33e186800efa3fb86ca6a614e3b0b", null ],
+    [ "GetAI", "d5/db5/a22300.html#a9680bf65cb97327396f58c297df1c8f5", null ]
 ];

@@ -1,6 +1,6 @@
 var a21412 =
 [
-    [ "npc_azure_raiderAI", "d5/d86/a21416.html", "d5/d86/a21416" ],
-    [ "npc_azure_raider", "d7/d7c/a21412.html#a249abee0df263e183341193b828a310c", null ],
-    [ "GetAI", "d7/d7c/a21412.html#a88a45e3b117c5105f7541d640dda8470", null ]
+    [ "npc_vh_sinclari", "d7/d7c/a21412.html#ad0235f207a3031420532174c04e0c348", null ],
+    [ "OnGossipHello", "d7/d7c/a21412.html#a95f0d094d417d9d6ce99d7c8aa83496f", null ],
+    [ "OnGossipSelect", "d7/d7c/a21412.html#af0a260d7868f601ae239c226b10d4de3", null ]
 ];

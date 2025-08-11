@@ -1,5 +1,6 @@
 var a16772 =
 [
-    [ "npc_fos_leader_secondAI", "d0/dde/a16772.html#a25df0b8760e9eb7d330779e10e3ac548", null ],
-    [ "MovementInform", "d0/dde/a16772.html#a9cc0b500f1289dc8b764b3755468e639", null ]
+    [ "PrepareSpellScript", "d0/dde/a16772.html#a5ed268ac2642b2df3c5eb1dc93a675fc", null ],
+    [ "RecalculateDamage", "d0/dde/a16772.html#a3fae6ceaa67716004c664dd40a4679ed", null ],
+    [ "Register", "d0/dde/a16772.html#a1a740e697fc84f5f035f2ec251872009", null ]
 ];

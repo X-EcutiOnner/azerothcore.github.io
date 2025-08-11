@@ -1,4 +1,4 @@
 var a01112 =
 [
-    [ "BattlegroundMapScript", "dc/de0/a10219.html", "dc/de0/a10219" ]
+    [ "DynamicObjectScript", "d8/d7f/a10292.html", "d8/d7f/a10292" ]
 ];

@@ -1,8 +1,7 @@
 var a16416 =
 [
-    [ "npc_toc_boomkinAI", "db/d2e/a16416.html#a12c586d57aa6dd3893889f103dbfee20", null ],
-    [ "JustSummoned", "db/d2e/a16416.html#a0d049885773b7f1abd7e03f9200852f4", null ],
-    [ "myCanCast", "db/d2e/a16416.html#a691a0250db77cc4def2bf67b25a1298c", null ],
-    [ "UpdateAI", "db/d2e/a16416.html#a64b0451537c0d27bc01d1c1ec3b5b88d", null ],
-    [ "events", "db/d2e/a16416.html#a0b367855092884b2ce30834e89fced87", null ]
+    [ "npc_toc_priestAI", "db/d2e/a16416.html#aa362d2136193a8738e311bba18b87c90", null ],
+    [ "myCanCast", "db/d2e/a16416.html#ad2d4286d8f51a2d5a4901487e56506dc", null ],
+    [ "UpdateAI", "db/d2e/a16416.html#ae51d2ac95320909150c673b76c9856c7", null ],
+    [ "events", "db/d2e/a16416.html#aa5be20e87351424e0e4698540fc1fef4", null ]
 ];

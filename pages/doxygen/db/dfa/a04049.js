@@ -1,43 +1,39 @@
 var a04049 =
 [
-    [ "npc_ranger_lilatha", "d9/d68/a13566.html", "d9/d68/a13566" ],
-    [ "npc_sentinel_leader", "d9/d43/a13570.html", "d9/d43/a13570" ],
-    [ "npc_sentinel_infiltrator", "d7/d0e/a13574.html", "d7/d0e/a13574" ],
-    [ "RangerLilatha", "db/dfa/a04049.html#a74dc890829d87be230ff5350c12e090a", [
-      [ "SAY_START", "db/dfa/a04049.html#a74dc890829d87be230ff5350c12e090aa2eae21cbf7d110ee89a9798ef6f00239", null ],
-      [ "SAY_PROGRESS1", "db/dfa/a04049.html#a74dc890829d87be230ff5350c12e090aa1a7ff39fa30eb8719e4a1d4d8eea41bd", null ],
-      [ "SAY_PROGRESS2", "db/dfa/a04049.html#a74dc890829d87be230ff5350c12e090aa6b66c233baa6dd334abb1b7798066894", null ],
-      [ "SAY_PROGRESS3", "db/dfa/a04049.html#a74dc890829d87be230ff5350c12e090aa541cce8e829316638c92542a766209b6", null ],
-      [ "SAY_END1", "db/dfa/a04049.html#a74dc890829d87be230ff5350c12e090aa944891a3d2f715c9e1c8f47d65f16eca", null ],
-      [ "SAY_END2", "db/dfa/a04049.html#a74dc890829d87be230ff5350c12e090aaa0efc3eab3d2447cc17568f7ceed8cba", null ],
-      [ "SAY_CAPTAIN_ANSWER", "db/dfa/a04049.html#a74dc890829d87be230ff5350c12e090aaf92ec5f68682db4db5c776edd0e207c0", null ],
-      [ "QUEST_ESCAPE_FROM_THE_CATACOMBS", "db/dfa/a04049.html#a74dc890829d87be230ff5350c12e090aaf838b4afb069e6a501691db32ccd1e16", null ],
-      [ "GO_CAGE", "db/dfa/a04049.html#a74dc890829d87be230ff5350c12e090aab8d35951eed2c9e47bed2aa4da3fab8b", null ],
-      [ "NPC_CAPTAIN_HELIOS", "db/dfa/a04049.html#a74dc890829d87be230ff5350c12e090aaf9140f9834cba6679a2dd4d3dccc02a8", null ],
-      [ "NPC_MUMMIFIED_HEADHUNTER", "db/dfa/a04049.html#a74dc890829d87be230ff5350c12e090aa981d62936965028299a53927f91db057", null ],
-      [ "NPC_SHADOWPINE_ORACLE", "db/dfa/a04049.html#a74dc890829d87be230ff5350c12e090aa84adb37d4c2fc9348d6fc31abfd0306a", null ]
+    [ "spell_winter_veil_mistletoe", "d2/dfb/a14564.html", "d2/dfb/a14564" ],
+    [ "spell_winter_wondervolt_trap", "d0/da2/a14568.html", "d0/da2/a14568" ],
+    [ "spell_winter_veil_racer_rocket_slam", "d5/db0/a14572.html", "d5/db0/a14572" ],
+    [ "spell_winter_veil_racer_slam_hit", "d0/d09/a14576.html", "d0/d09/a14576" ],
+    [ "spell_winter_veil_shoot_air_rifle", "d7/dbe/a14580.html", "d7/dbe/a14580" ],
+    [ "airRifle", "db/dfa/a04049.html#a0a0aa9e1464024e9f2c7b6ec598e13ff", [
+      [ "SPELL_AIR_RIFLE_RIGHT_IN_THE_EYE", "db/dfa/a04049.html#a0a0aa9e1464024e9f2c7b6ec598e13ffa5a3aacd3d3eb74e1020f0e24c3de3d64", null ],
+      [ "SPELL_AIR_RIFLE_STARLED", "db/dfa/a04049.html#a0a0aa9e1464024e9f2c7b6ec598e13ffaab4b4a71800d5b266ac17392701535bd", null ],
+      [ "SPELL_AIR_RIFLE_HIT", "db/dfa/a04049.html#a0a0aa9e1464024e9f2c7b6ec598e13ffadebbc458f6f97c23c78a5d77355557a0", null ],
+      [ "SPELL_AIR_RIFLE_HIT_TRIGGER", "db/dfa/a04049.html#a0a0aa9e1464024e9f2c7b6ec598e13ffaef31b2903ed373a76624e81b5928b3af", null ],
+      [ "SPELL_AIR_RIFLE_PELTED_DAMAGE", "db/dfa/a04049.html#a0a0aa9e1464024e9f2c7b6ec598e13ffada448247eeb3a3e93e78e6d367af2ea4", null ]
     ] ],
-    [ "SentinelInfiltrator", "db/dfa/a04049.html#a0b373714eadff6852c9ed5560abd70e5", [
-      [ "EMOTE_FLEE", "db/dfa/a04049.html#a0b373714eadff6852c9ed5560abd70e5a9d88a2f0a0929d045f07a5386f6a4431", null ],
-      [ "EVENT_TALK2", "db/dfa/a04049.html#a0b373714eadff6852c9ed5560abd70e5a5fbd3336be08db01eeeefc355f4fa541", null ],
-      [ "EVENT_QUESTION2", "db/dfa/a04049.html#a0b373714eadff6852c9ed5560abd70e5a16f3686cedbbcd372b458f36b8fef69d", null ],
-      [ "EVENT_EXCLAMATION", "db/dfa/a04049.html#a0b373714eadff6852c9ed5560abd70e5a235ba44e8ac06bf6c5da1072784d2736", null ],
-      [ "EVENT_SALUTE", "db/dfa/a04049.html#a0b373714eadff6852c9ed5560abd70e5a20c28745aea8562e2f30166e0ceec0ea", null ],
-      [ "EVENT_GOUGE2", "db/dfa/a04049.html#a0b373714eadff6852c9ed5560abd70e5a9c0323353380c86a1dd4583ba40430da", null ],
-      [ "EVENT_BACKSTAB2", "db/dfa/a04049.html#a0b373714eadff6852c9ed5560abd70e5aaf1d9b7bb592c2a5e42e3e0f3e2671cc", null ],
-      [ "NPC_SENTINEL_INFILTRATOR", "db/dfa/a04049.html#a0b373714eadff6852c9ed5560abd70e5a7cb437b950b46596afc196f0864a74fe", null ],
-      [ "PATH_ONE", "db/dfa/a04049.html#a0b373714eadff6852c9ed5560abd70e5a9dabcd3a092570c71edfb732f847d854", null ],
-      [ "PATH_TWO", "db/dfa/a04049.html#a0b373714eadff6852c9ed5560abd70e5a5c1049e5a354a320e8c4ead179675760", null ],
-      [ "SPELL_GOUGE", "db/dfa/a04049.html#a0b373714eadff6852c9ed5560abd70e5ad29cb58b32c3fccaec3fde84e2355de6", null ]
+    [ "crashinTrashin", "db/dfa/a04049.html#a91189806a3728bf253348c6acff4d44a", [
+      [ "SPELL_BLUE_CAR_VISUAL", "db/dfa/a04049.html#a91189806a3728bf253348c6acff4d44aa2a1df012693fca95e41c96fe1dcfc303", null ],
+      [ "SPELL_RED_CAR_VISUAL", "db/dfa/a04049.html#a91189806a3728bf253348c6acff4d44aa83ccfea77911f91274ab6b76a13ebae9", null ],
+      [ "NPC_RED_RACER", "db/dfa/a04049.html#a91189806a3728bf253348c6acff4d44aa3a540ecf55e0e9719a7b1ecc0d089e83", null ],
+      [ "NPC_BLUE_RACER", "db/dfa/a04049.html#a91189806a3728bf253348c6acff4d44aa29832a92f722fc5ef6e6e0e28c43ace3", null ],
+      [ "SPELL_RACER_DEATH_VISUAL", "db/dfa/a04049.html#a91189806a3728bf253348c6acff4d44aa20ebf97f0f750e11499595b1e7908b4e", null ],
+      [ "SPELL_RACER_CHARGE_TO_OBJECT", "db/dfa/a04049.html#a91189806a3728bf253348c6acff4d44aa16c954e8ddff4772f6cc38ccdaa4537a", null ],
+      [ "SPELL_RACER_KILL_COUNTER", "db/dfa/a04049.html#a91189806a3728bf253348c6acff4d44aad39b98fd63372c2d7f9b59e290a38a68", null ],
+      [ "SPELL_RACER_SLAM_HIT", "db/dfa/a04049.html#a91189806a3728bf253348c6acff4d44aaf80af723709c8607c78c552286259f0b", null ],
+      [ "SPELL_RACER_FLAMES", "db/dfa/a04049.html#a91189806a3728bf253348c6acff4d44aac4f06456e8aa8d185db27f65280e3410", null ],
+      [ "RACER_ACHI_CRITERIA", "db/dfa/a04049.html#a91189806a3728bf253348c6acff4d44aa0c0977d0fa0c060c272d5a9f59f63f5d", null ]
     ] ],
-    [ "SentinelLeader", "db/dfa/a04049.html#acb58e7629bec88c770da1efed549d96c", [
-      [ "EVENT_QUESTION", "db/dfa/a04049.html#acb58e7629bec88c770da1efed549d96cae7206febd87cb3058c3f99ed717131a7", null ],
-      [ "EVENT_TALK", "db/dfa/a04049.html#acb58e7629bec88c770da1efed549d96cad8d5fcaf7b3bfdd91e6337d222c1620f", null ],
-      [ "EVENT_SINISTER_STRIKE", "db/dfa/a04049.html#acb58e7629bec88c770da1efed549d96ca23b5677e1eb390f2bbe16d2b30a05498", null ],
-      [ "EVENT_BACKSTAB", "db/dfa/a04049.html#acb58e7629bec88c770da1efed549d96ca1c1d8055d31bb2fb8238437b243852ca", null ],
-      [ "NPC_SENTINEL_SPY", "db/dfa/a04049.html#acb58e7629bec88c770da1efed549d96cae75b24a241dff855e6dc0e3d51e0c9e9", null ],
-      [ "SPELL_SINISTER_STRIKE", "db/dfa/a04049.html#acb58e7629bec88c770da1efed549d96ca3217132d497cc70e674432067fd431a7", null ],
-      [ "SPELL_BACKSTAB", "db/dfa/a04049.html#acb58e7629bec88c770da1efed549d96ca4ff7524487add866a452db82c2791b68", null ]
+    [ "Mistletoe", "db/dfa/a04049.html#a9ae560d3a366e6f163d4fbfd29d339ac", [
+      [ "SPELL_CREATE_MISTLETOE", "db/dfa/a04049.html#a9ae560d3a366e6f163d4fbfd29d339acafdfb3de4159c5083ea35693ceae8b4cc", null ],
+      [ "SPELL_CREATE_HOLLY", "db/dfa/a04049.html#a9ae560d3a366e6f163d4fbfd29d339aca3935eb67c5b7dbbdca5783cb17586508", null ],
+      [ "SPELL_CREATE_SNOWFLAKES", "db/dfa/a04049.html#a9ae560d3a366e6f163d4fbfd29d339aca6fe4f2b2975d9ebf9ed4f806f9c8427a", null ]
     ] ],
-    [ "AddSC_ghostlands", "db/dfa/a04049.html#a1093517f6bb08d3a1c9e52cf36b6a054", null ]
+    [ "winterWondervoltTrap", "db/dfa/a04049.html#a09023d9a36f692674809d983e0b46bb5", [
+      [ "SPELL_WINTER_WONDERVOLT_GREEN_WOMEN", "db/dfa/a04049.html#a09023d9a36f692674809d983e0b46bb5a584ffc066b04a87863dd3bdaa091d6b6", null ],
+      [ "SPELL_WINTER_WONDERVOLT_GREEN_MAN", "db/dfa/a04049.html#a09023d9a36f692674809d983e0b46bb5a962c9fffba35e4a119f563b8656912db", null ],
+      [ "SPELL_WINTER_WONDERVOLT_RED_WOMEN", "db/dfa/a04049.html#a09023d9a36f692674809d983e0b46bb5a08177bc4e663c11752af81f832011bf6", null ],
+      [ "SPELL_WINTER_WONDERVOLT_RED_MAN", "db/dfa/a04049.html#a09023d9a36f692674809d983e0b46bb5a7892046e23913f511b843d5a766e4dd0", null ]
+    ] ],
+    [ "AddSC_event_winter_veil_scripts", "db/dfa/a04049.html#a56e93f0f5c0f4763c439d5ea4cdf6c5e", null ]
 ];

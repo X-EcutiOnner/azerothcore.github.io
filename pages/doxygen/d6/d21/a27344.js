@@ -1,10 +1,6 @@
 var a27344 =
 [
-    [ "guard_shattrath_scryerAI", "d6/d21/a27344.html#a97accbf467ca1190f8a05512b3857164", null ],
-    [ "Reset", "d6/d21/a27344.html#adfcd8bce42148d303fe6ec9b615ffdb1", null ],
-    [ "UpdateAI", "d6/d21/a27344.html#ad759cca08b0093522e190ddc038e2c73", null ],
-    [ "banishTimer", "d6/d21/a27344.html#aa9aa3c2e7e69df5899c84ebde1e357bd", null ],
-    [ "canTeleport", "d6/d21/a27344.html#a84188b40b44deae5714466bb23bf2f0d", null ],
-    [ "exileTimer", "d6/d21/a27344.html#a97fbc3f54c23049fd91ad432cd560698", null ],
-    [ "playerGUID", "d6/d21/a27344.html#adb40d8bbc97a6a1fa0f4e303db470db2", null ]
+    [ "go_soulwellAI", "d0/d00/a27348.html", "d0/d00/a27348" ],
+    [ "go_soulwell", "d6/d21/a27344.html#a3747499bd05326ef6f7024c0ee91a4ce", null ],
+    [ "GetAI", "d6/d21/a27344.html#a0c8b8cf09c26ad08c1c6dbb1a0c57861", null ]
 ];

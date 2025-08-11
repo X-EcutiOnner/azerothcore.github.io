@@ -1,6 +1,7 @@
 var a15604 =
 [
-    [ "npc_taskmaster_fizzuleAI", "dd/d42/a15608.html", "dd/d42/a15608" ],
-    [ "npc_taskmaster_fizzule", "d9/d73/a15604.html#aa42e6cc1a3ac58ea79f5184f7bb293a9", null ],
-    [ "GetAI", "d9/d73/a15604.html#a6281de7424932fe6580ffefa199498d9", null ]
+    [ "npc_kaya_flathoofAI", "d9/d73/a15604.html#a3b43992dfeeb7b3b19e777b9629c55ce", null ],
+    [ "JustSummoned", "d9/d73/a15604.html#ac365753a428009f4fc4d01ead8fe46fd", null ],
+    [ "Reset", "d9/d73/a15604.html#af9be00be9867622a16103bd21311327f", null ],
+    [ "WaypointReached", "d9/d73/a15604.html#a8fcbb19279b925138ba96d2a450fc404", null ]
 ];

@@ -1,5 +1,5 @@
 var a27036 =
 [
-    [ "AreaTrigger_at_legion_teleporter", "d8/d69/a27036.html#a2b648bd038f41025c19338367c696d25", null ],
-    [ "OnTrigger", "d8/d69/a27036.html#ae8239e5ad56d93627102dbd02989353d", null ]
+    [ "achievement_bg_av_perfection", "d8/d69/a27036.html#a8a0ef996bdb1244026268922b301184c", null ],
+    [ "OnCheck", "d8/d69/a27036.html#a17e700c17b5144b571f2aeed92a77749", null ]
 ];

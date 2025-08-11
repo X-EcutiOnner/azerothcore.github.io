@@ -1,8 +1,7 @@
 var a13456 =
 [
-    [ "HandleEffectApply", "db/dba/a13456.html#afd47748c7db2e0a5b7da2e18dc7b53ec", null ],
-    [ "HandleEffectRemove", "db/dba/a13456.html#a87a0061366829cbc6f856cc1f7ea1105", null ],
-    [ "Load", "db/dba/a13456.html#a2e3b53977f188ed28d9deedbcbc03e6b", null ],
-    [ "PrepareAuraScript", "db/dba/a13456.html#a99b97b2ed12d73e417af0b970c2a9645", null ],
-    [ "Register", "db/dba/a13456.html#a6a90296c9903ce65913f3bba29dea176", null ]
+    [ "HandleAfterCast", "db/dba/a13456.html#a251ddadd9d26039da542c402e4ee254f", null ],
+    [ "PrepareSpellScript", "db/dba/a13456.html#a91114aeb4f917ec5138a0c7b20688174", null ],
+    [ "Register", "db/dba/a13456.html#a42960206e2444d8e6fb8fdc4d80a534b", null ],
+    [ "Validate", "db/dba/a13456.html#ad4012436a41537fc5ae854c0c48f09b1", null ]
 ];

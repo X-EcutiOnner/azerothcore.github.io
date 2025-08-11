@@ -1,6 +1,6 @@
 var a12188 =
 [
-    [ "go_chromaggus_leverAI", "da/d54/a12192.html", "da/d54/a12192" ],
-    [ "go_chromaggus_lever", "dc/d74/a12188.html#a88f8078cd5aa1863ca20c9b02a0e52d2", null ],
-    [ "GetAI", "dc/d74/a12188.html#ae307b36029147b8385b3c40878d1a3e4", null ]
+    [ "OnEffect", "dc/d74/a12188.html#a1b5999f392cec9fea4431c3f746ee034", null ],
+    [ "PrepareSpellScript", "dc/d74/a12188.html#a4748a82fcc7b3794850461092ee6b2e4", null ],
+    [ "Register", "dc/d74/a12188.html#acfa32dfc22778576d0dd3096c456ebe0", null ]
 ];

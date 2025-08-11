@@ -1,9 +1,11 @@
 var a13180 =
 [
-    [ "boss_brutallus", "d6/d5a/a13180.html#a501c898505eb4265edee1546bc54713e", null ],
-    [ "AttackStart", "d6/d5a/a13180.html#a05edf7010f4e7364399bc81582502219", null ],
-    [ "JustDied", "d6/d5a/a13180.html#a48ae6589613f2ac90a499b9b6ae07d01", null ],
-    [ "JustEngagedWith", "d6/d5a/a13180.html#a04ff0c07c578c3b92cf45d1ed27fb883", null ],
-    [ "KilledUnit", "d6/d5a/a13180.html#a608607d83680da85f91324ce0035804b", null ],
-    [ "Reset", "d6/d5a/a13180.html#a20ad64739072e39e7ff3132c6f637af7", null ]
+    [ "boss_baroness_anastariAI", "d6/d5a/a13180.html#acf180bbe881ba1f6e49c075254759c00", null ],
+    [ "JustDied", "d6/d5a/a13180.html#a1a7bf1e6c39b0b61e95390e7ee1c5e6b", null ],
+    [ "JustEngagedWith", "d6/d5a/a13180.html#a7329455d99045e7002abffe09112a4ea", null ],
+    [ "Reset", "d6/d5a/a13180.html#a80c99c59486d2a7850a3a54ffebe998b", null ],
+    [ "SchedulePossession", "d6/d5a/a13180.html#afbf2d4e9c3e8e50815c398b97afb3970", null ],
+    [ "UpdateAI", "d6/d5a/a13180.html#a962e4e3091d126682825c326af5f6922", null ],
+    [ "_possessedTargetGuid", "d6/d5a/a13180.html#a36e386b847c7032b5ce95a01070518ad", null ],
+    [ "_scheduler", "d6/d5a/a13180.html#aa59518627a5e64e371dbbb45cfced75f", null ]
 ];

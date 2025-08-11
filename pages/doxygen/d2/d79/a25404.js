@@ -1,8 +1,9 @@
 var a25404 =
 [
-    [ "OnApply", "d2/d79/a25404.html#aeec705e572ce6aa870bb5cc048e02e75", null ],
-    [ "OnRemove", "d2/d79/a25404.html#a38399457b6cb8ebf4c5e457e0590cb1a", null ],
-    [ "PrepareAuraScript", "d2/d79/a25404.html#a8d0f2113c0212a24e94054f3f1db0ad3", null ],
-    [ "Register", "d2/d79/a25404.html#a673dc5619a33632ba3d3f1793c5cfdb4", null ],
-    [ "Validate", "d2/d79/a25404.html#a65722a9826b14dc90cc6df47655d3d6b", null ]
+    [ "DoCheckCast", "d2/d79/a25404.html#a09c7bd66988c38cb019656842ed87366", null ],
+    [ "HandleDummy", "d2/d79/a25404.html#a183e2ac37a432ea2902b31e24a474cea", null ],
+    [ "HandleScriptEffect", "d2/d79/a25404.html#a396b1129f15056d0b22c7887f56bea99", null ],
+    [ "PrepareSpellScript", "d2/d79/a25404.html#aad4de93de822a742e02ac8d5d395d482", null ],
+    [ "Register", "d2/d79/a25404.html#a84fc18d6a2d92aefa2cc4d8095780314", null ],
+    [ "Validate", "d2/d79/a25404.html#a2565f0ad3bb988ad37dd6a60f08c995c", null ]
 ];

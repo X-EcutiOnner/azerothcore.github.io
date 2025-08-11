@@ -1,13 +1,9 @@
 var a07396 =
 [
-    [ "banners", "de/d39/a07396.html#a07c98125c64d119232fec9cc80050537", null ],
-    [ "faction", "de/d39/a07396.html#ab3758f67da3dcb507bb1acab575e2836", null ],
-    [ "gameobject_entry", "de/d39/a07396.html#ae80024986e048e05dca174d6b14964d3", null ],
-    [ "gameobject_type", "de/d39/a07396.html#ac4760cba40ba8916d66cae3712f7c641", null ],
-    [ "last_entry", "de/d39/a07396.html#a968d6f412ba88b9577429910ffa511a5", null ],
-    [ "needChange", "de/d39/a07396.html#acecd97e26d19c82e934817ecbc2afce9", null ],
-    [ "nodeState", "de/d39/a07396.html#a214e160c6fd94cefb4d080a94a12ba56", null ],
-    [ "nodeType", "de/d39/a07396.html#a3b303a427c4a2248dade5eada6774dc9", null ],
-    [ "timer", "de/d39/a07396.html#a434605ed0efcc262057a65d7cd8d0128", null ],
-    [ "worldStates", "de/d39/a07396.html#ae5d3b4b37fc5b7983c08b54d94d6c3d2", null ]
+    [ "entry", "de/d39/a07396.html#a2238cabe763a588a5572611e0aefe6ba", null ],
+    [ "o", "de/d39/a07396.html#a0ebd9ea966eb66cf80b8f3c003db60c0", null ],
+    [ "type", "de/d39/a07396.html#a561ac93f5c1bcc26dacbd0212b602eac", null ],
+    [ "x", "de/d39/a07396.html#a616d422b4e8c99ec3285a87f553d4091", null ],
+    [ "y", "de/d39/a07396.html#a34de8c83a7bc8b33ac0cabdfb1bd3459", null ],
+    [ "z", "de/d39/a07396.html#a78cff0661e6d9440574306ec01389d42", null ]
 ];

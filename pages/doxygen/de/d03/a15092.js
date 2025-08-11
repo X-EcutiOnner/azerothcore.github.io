@@ -1,5 +1,6 @@
 var a15092 =
 [
-    [ "at_cthun_center", "de/d03/a15092.html#a75cf2b77215e0d50c1c89ec9b522ebc3", null ],
-    [ "OnTrigger", "de/d03/a15092.html#af744df9577e84ab64749076324e574c9", null ]
+    [ "FilterTargets", "de/d03/a15092.html#a8fa6932a6cf291d8ab40140b171e1c17", null ],
+    [ "PrepareSpellScript", "de/d03/a15092.html#a5e93e2cb92db31be03703ab2e5d082cd", null ],
+    [ "Register", "de/d03/a15092.html#a0e3a6fd6f3de3d81f535d67451568c45", null ]
 ];

@@ -1,14 +1,9 @@
 var a24036 =
 [
-    [ "npc_maghar_captiveAI", "df/d27/a24036.html#abab2cfe84f4bb83fea3b35202a957bb5", null ],
-    [ "JustDied", "df/d27/a24036.html#adbef78d8c908bfbce6ea506c55fb6922", null ],
-    [ "JustEngagedWith", "df/d27/a24036.html#a2a0ec4a496c7352ba88ceef99eb769e4", null ],
-    [ "JustSummoned", "df/d27/a24036.html#afe55f91acd8c47a758b8d08bd07d763f", null ],
-    [ "Reset", "df/d27/a24036.html#abebcdcb102f8d338ae0b792708940cd7", null ],
-    [ "SpellHitTarget", "df/d27/a24036.html#ab4f4deaae35fdbd602c9925f26e6d0e7", null ],
-    [ "UpdateAI", "df/d27/a24036.html#a295cbae9196e320fabbb4cfb9dc33150", null ],
-    [ "WaypointReached", "df/d27/a24036.html#abfbba8942df57e974ab24ad693c16e70", null ],
-    [ "ChainLightningTimer", "df/d27/a24036.html#aa00a6978074f62d3d8ddead64d3240cf", null ],
-    [ "FrostShockTimer", "df/d27/a24036.html#a2e4a5ef509e7f7ec33b1e83c90d2c80f", null ],
-    [ "HealTimer", "df/d27/a24036.html#a31613adba706f3b5f948f2f7c4222038", null ]
+    [ "npc_wounded_blood_elfAI", "df/d27/a24036.html#a2dfcd5fa17b56c44f4056ecf4861af6e", null ],
+    [ "JustEngagedWith", "df/d27/a24036.html#aba950ba77ff71508263cc54b28c7725b", null ],
+    [ "JustSummoned", "df/d27/a24036.html#aa97f5294981c44b530efca1411458a97", null ],
+    [ "Reset", "df/d27/a24036.html#a8e6be35a3079998f3bab829f5d963c71", null ],
+    [ "sQuestAccept", "df/d27/a24036.html#a56c157928c24daae6edacd5a126ef171", null ],
+    [ "WaypointReached", "df/d27/a24036.html#a5affcb00e28a582f8926ab2226001cd0", null ]
 ];

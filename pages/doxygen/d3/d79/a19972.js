@@ -1,6 +1,8 @@
 var a19972 =
 [
-    [ "PrepareSpellScript", "d3/d79/a19972.html#a7eeb4e2b9c3bb6e7d02d6a5acf8e1d52", null ],
-    [ "RecalculateDamage", "d3/d79/a19972.html#a094a21cf3cf109e704d3e334ad7dbad1", null ],
-    [ "Register", "d3/d79/a19972.html#af2b5382122be41a6b1ee4ab721b417da", null ]
+    [ "OnApply", "d3/d79/a19972.html#a3f2ef4882bcd52e091a0bcfabfc352cd", null ],
+    [ "OnRemove", "d3/d79/a19972.html#ab967233994aa3ff07b272f010b2c1545", null ],
+    [ "PrepareAuraScript", "d3/d79/a19972.html#a788480ec4aaa57e643f55daca17c6ded", null ],
+    [ "Register", "d3/d79/a19972.html#a63a3e30704b282a430dcdbb9073a66df", null ],
+    [ "Validate", "d3/d79/a19972.html#a6ccb698445ce30c5224dcacc3dc8136b", null ]
 ];

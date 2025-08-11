@@ -1,7 +1,6 @@
 var a16332 =
 [
-    [ "HandleEffectPeriodic", "d9/d4c/a16332.html#a7d6d15b8eecfcfb4c36d6504920bd119", null ],
-    [ "PrepareAuraScript", "d9/d4c/a16332.html#a4506f7d723b85c7555296f5ade11cd29", null ],
-    [ "Register", "d9/d4c/a16332.html#aeac7e6abc89209e14451439cdf1d416e", null ],
-    [ "Validate", "d9/d4c/a16332.html#a9d6f9cd0495de03878ed5137542ea89d", null ]
+    [ "boss_anubarak_trialAI", "d7/da0/a16336.html", "d7/da0/a16336" ],
+    [ "boss_anubarak_trial", "d9/d4c/a16332.html#a5204e33a412608b53cc155a043356d58", null ],
+    [ "GetAI", "d9/d4c/a16332.html#a9b8fe9ed3370434612cbd46e7649213d", null ]
 ];

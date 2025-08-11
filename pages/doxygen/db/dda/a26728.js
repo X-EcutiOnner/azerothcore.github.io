@@ -1,6 +1,7 @@
 var a26728 =
 [
-    [ "HandleAuraApply", "db/dda/a26728.html#a0c17d42095cac3d4cf304df1fc83acbf", null ],
-    [ "PrepareAuraScript", "db/dda/a26728.html#a6eedadacba366104fdca2791862be216", null ],
-    [ "Register", "db/dda/a26728.html#a5869dc6372d479d85da1118d0c9ec8e6", null ]
+    [ "HandleDummy", "db/dda/a26728.html#a6990bc24605167d38772f391aa2a5376", null ],
+    [ "PrepareSpellScript", "db/dda/a26728.html#af85da0790eb36b91266ffa45888068d6", null ],
+    [ "Register", "db/dda/a26728.html#a619dab878b3d6e332a15d772dd148e26", null ],
+    [ "Validate", "db/dda/a26728.html#a5a39713deabac73334442e1bdeb00aad", null ]
 ];

@@ -1,6 +1,5 @@
 var a14148 =
 [
-    [ "HandleEffectRemove", "de/dd1/a14148.html#a8d5d43ae12fb6d65029008eadd56973a", null ],
-    [ "PrepareAuraScript", "de/dd1/a14148.html#abe527a7a4fda32c833f4762e82e2bd3d", null ],
-    [ "Register", "de/dd1/a14148.html#aa436788f638fedacb217ca508da5f426", null ]
+    [ "go_brazier_of_madness", "de/dd1/a14148.html#aeb900e575be02244e62c6e5e4153c855", null ],
+    [ "GossipHello", "de/dd1/a14148.html#aba3af326b01cd045523434aec189fd47", null ]
 ];

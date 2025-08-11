@@ -1,16 +1,14 @@
 var a28068 =
 [
-    [ "CanBeSetAtWar", "dc/d7c/a28068.html#ae165dc23f25386eb086e1fa2cb820153", null ],
-    [ "CanHaveReputation", "dc/d7c/a28068.html#ab3da6918e197c1098a932418d5c51799", null ],
-    [ "BaseRepClassMask", "dc/d7c/a28068.html#ae73655de567de3766fcb3bbfb7f9eed3", null ],
-    [ "BaseRepRaceMask", "dc/d7c/a28068.html#aa8e1c08416d07882af7075fbb020ae5a", null ],
-    [ "BaseRepValue", "dc/d7c/a28068.html#a52f0753d1e1e69a4994eb6b1eab6824c", null ],
-    [ "ID", "dc/d7c/a28068.html#a1953f7a343201113dae80cdd97e1ac90", null ],
-    [ "name", "dc/d7c/a28068.html#ad9d326ed1aac5ea66825775665dfea00", null ],
-    [ "ReputationFlags", "dc/d7c/a28068.html#ae23a3c94554b2043928d6e1ea748e709", null ],
-    [ "reputationListID", "dc/d7c/a28068.html#aee99121c2d7298e16540229923391aee", null ],
-    [ "spilloverMaxRankIn", "dc/d7c/a28068.html#a14cea5365f14880850e788ba328d0c8e", null ],
-    [ "spilloverRateIn", "dc/d7c/a28068.html#a7a72bc65fb3fe76ffa1d072800c5daed", null ],
-    [ "spilloverRateOut", "dc/d7c/a28068.html#a7cea150843bf48277aa9cc917d210fcb", null ],
-    [ "team", "dc/d7c/a28068.html#a6210fabf2688f26a0a0050f6c148485d", null ]
+    [ "IsFlyable", "dc/d7c/a28068.html#a2a59297a617c9d3b582ede2a028bd07e", null ],
+    [ "IsSanctuary", "dc/d7c/a28068.html#ad239b4e381b6af858a181e9c361d6cbb", null ],
+    [ "area_level", "dc/d7c/a28068.html#a23434848cf8b2eab4de1b6530b8d5f8d", null ],
+    [ "area_name", "dc/d7c/a28068.html#a87653e6b7f7368a59af7adaf77a49e10", null ],
+    [ "exploreFlag", "dc/d7c/a28068.html#a78cf3009cd0fe49dc7870c7f65c79251", null ],
+    [ "flags", "dc/d7c/a28068.html#a5854e3f565d827dbad3d9a36f99e9a25", null ],
+    [ "ID", "dc/d7c/a28068.html#ad02bb9fce21f464e38223581074a9e21", null ],
+    [ "LiquidTypeOverride", "dc/d7c/a28068.html#abe743a4b542c4356aab9d41f3fae7457", null ],
+    [ "mapid", "dc/d7c/a28068.html#a048ac249318efd9aa35bb705bfb92dc8", null ],
+    [ "team", "dc/d7c/a28068.html#ae18e0efef83e663452715f6be15ecaef", null ],
+    [ "zone", "dc/d7c/a28068.html#a3b4f9e187629db5ced9a06c601fc7f78", null ]
 ];

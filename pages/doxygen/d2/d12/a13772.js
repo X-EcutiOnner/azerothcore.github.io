@@ -1,6 +1,7 @@
 var a13772 =
 [
-    [ "cooldown", "d2/d12/a13772.html#aaf4772a0ac55280355e61d8c50198b3f", null ],
-    [ "spell", "d2/d12/a13772.html#a00ee3238030686e1cc66562f7cefb27a", null ],
-    [ "target", "d2/d12/a13772.html#a16e54dbd059baac1b6e7229621339d83", null ]
+    [ "npc_daphne_stilwellAI", "df/d36/a13776.html", "df/d36/a13776" ],
+    [ "npc_daphne_stilwell", "d2/d12/a13772.html#ad844c5f0409936d7068ee55271506041", null ],
+    [ "GetAI", "d2/d12/a13772.html#af1872100f3eeb14e894277cfc8e1a74b", null ],
+    [ "OnQuestAccept", "d2/d12/a13772.html#ad7b293efc802506a825f202e34cb0f4d", null ]
 ];

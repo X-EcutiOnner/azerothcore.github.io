@@ -1,5 +1,6 @@
 var a27648 =
 [
-    [ "npc_suns_reach_reclamation", "d6/d56/a27648.html#aa66b75aa1a4a96a97c4d2c4e42e3d6bb", null ],
-    [ "OnQuestReward", "d6/d56/a27648.html#a459e53b21778cf901cbbb15c9f6e5cdd", null ]
+    [ "npc_spring_rabbitAI", "da/da9/a27652.html", "da/da9/a27652" ],
+    [ "npc_spring_rabbit", "d6/d56/a27648.html#a4e2ed1f556edd535a8d262d7e0bdfa1a", null ],
+    [ "GetAI", "d6/d56/a27648.html#a968933658fbcc7f7cbdfca90fd9a68dc", null ]
 ];

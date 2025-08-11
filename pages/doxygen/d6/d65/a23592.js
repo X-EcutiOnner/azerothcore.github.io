@@ -1,5 +1,6 @@
 var a23592 =
 [
-    [ "spellId", "d6/d65/a23592.html#acc63d01d5095adef28b9746c520be973", null ],
-    [ "textId", "d6/d65/a23592.html#a5b366c702c1cda6ea10ad0b58935f97c", null ]
+    [ "HandleScriptEffect", "d6/d65/a23592.html#af0841e5c67c981b792a8d8f0d0d18edc", null ],
+    [ "PrepareSpellScript", "d6/d65/a23592.html#a287bff28e57a86f0176921500de78fa9", null ],
+    [ "Register", "d6/d65/a23592.html#ad5fb101794dfdef0c08551dd9397b965", null ]
 ];

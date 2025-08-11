@@ -1,7 +1,6 @@
 var a16712 =
 [
-    [ "HandleScriptEffect", "de/df2/a16712.html#a667e50b01f431dba025f692484f6e7ba", null ],
-    [ "PrepareSpellScript", "de/df2/a16712.html#a9a5ffd28102a519c06f3715d7f2b1039", null ],
-    [ "Register", "de/df2/a16712.html#a7ffa6eb498e9ec06d5cb4f81cff44389", null ],
-    [ "Validate", "de/df2/a16712.html#a0ab270193a95f9043afd40c9ffd2a46b", null ]
+    [ "HandleScript", "de/df2/a16712.html#a4786e0c38f03f7e671174d0641526681", null ],
+    [ "PrepareSpellScript", "de/df2/a16712.html#a7d260468f409a7fb41a39f80db5f9d63", null ],
+    [ "Register", "de/df2/a16712.html#a943117bfb56b846e99d04bd9a348af8d", null ]
 ];

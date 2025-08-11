@@ -1,10 +1,8 @@
 var a13712 =
 [
-    [ "npc_lady_sylvanas_windrunner_bfuAI", "d9/d71/a13712.html#af7d495f489979690615d091bbd9d539b", null ],
-    [ "CanAIAttack", "d9/d71/a13712.html#af332a66852c9499912d8ef4959f394f5", null ],
-    [ "InitializeAI", "d9/d71/a13712.html#a66fcb4b5130ff03f1926eec3b4d9ff6a", null ],
-    [ "JustRespawned", "d9/d71/a13712.html#a70b83dd31e8a8214b5d09f9a4ca7347a", null ],
-    [ "Reset", "d9/d71/a13712.html#a2c5e519bd2a1699b74811c92bb217d20", null ],
-    [ "UpdateAI", "d9/d71/a13712.html#ae1e9308f730ac948f96d4fceba914cdb", null ],
-    [ "_events", "d9/d71/a13712.html#a7078f4c552f741afdc8ecbd1746e31c4", null ]
+    [ "npc_varian_wrynnAI", "df/d05/a13716.html", "df/d05/a13716" ],
+    [ "npc_varian_wrynn", "d9/d71/a13712.html#a1dd8e4664da693f3e4ecdd4581b96c87", null ],
+    [ "GetAI", "d9/d71/a13712.html#aa5aa46f24a128e84ac2a837c012b2e02", null ],
+    [ "OnGossipHello", "d9/d71/a13712.html#a95f6ff3f2a7db807b278d019e187ddec", null ],
+    [ "OnGossipSelect", "d9/d71/a13712.html#a65d02bafebe9c5a45d707f8990d680a3", null ]
 ];

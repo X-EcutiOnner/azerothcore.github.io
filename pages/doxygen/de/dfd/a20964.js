@@ -1,7 +1,8 @@
 var a20964 =
 [
-    [ "HandleProc", "de/dfd/a20964.html#a1b8782a4f22522cfe224073515abdf45", null ],
-    [ "PrepareAuraScript", "de/dfd/a20964.html#ab4a8a98564d561082243c0f7a2dda1bf", null ],
-    [ "Register", "de/dfd/a20964.html#a8e9b7613131ef7ea05b853df337faa4e", null ],
-    [ "Validate", "de/dfd/a20964.html#ab3a99392d06ba0bea8e3f4b345acb23d", null ]
+    [ "Absorb", "de/dfd/a20964.html#a36a7237d7bcd50626e7a07a32c91cfb4", null ],
+    [ "CalculateAmount", "de/dfd/a20964.html#afe50bf22d07e68757caffb056ad55811", null ],
+    [ "PrepareAuraScript", "de/dfd/a20964.html#afa4ef1f7faa36a521c208dde10d09437", null ],
+    [ "Register", "de/dfd/a20964.html#aae020936d42da81c445f7d296660987b", null ],
+    [ "Validate", "de/dfd/a20964.html#a5852135c5214ee3938603632b0f21917", null ]
 ];

@@ -1,6 +1,7 @@
 var a22092 =
 [
-    [ "npc_guardian_pavilionAI", "dd/d49/a22096.html", "dd/d49/a22096" ],
-    [ "npc_guardian_pavilion", "d9/d0f/a22092.html#aecc7e93f2b50351584049f031362e0f0", null ],
-    [ "GetAI", "d9/d0f/a22092.html#a89e55b3267cd93ae688573678851c7b9", null ]
+    [ "HandleDummy", "d9/d0f/a22092.html#abfb58e49821e6a563940e8ba518db850", null ],
+    [ "PrepareSpellScript", "d9/d0f/a22092.html#a61ca2f71b0fa323a54f716415b25b75e", null ],
+    [ "Register", "d9/d0f/a22092.html#a7a2cc833ae8d079b821caabf55b6f0e5", null ],
+    [ "Validate", "d9/d0f/a22092.html#a21daeadffbfd28621d897dfe67dd11a8", null ]
 ];

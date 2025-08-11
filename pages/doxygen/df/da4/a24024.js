@@ -1,6 +1,6 @@
 var a24024 =
 [
-    [ "go_beaconAI", "df/da4/a24024.html#a95f0f62d4e34da650c22a7ce796fc85f", null ],
-    [ "OnStateChanged", "df/da4/a24024.html#a10bd78bf6c2451fe95163eb9083bdf44", null ],
-    [ "creatureList", "df/da4/a24024.html#a8f406b85752e42cc26741aa5a13e69bc", null ]
+    [ "npc_ancestral_wolfAI", "d4/d39/a24028.html", "d4/d39/a24028" ],
+    [ "npc_ancestral_wolf", "df/da4/a24024.html#a7cadf2848a086db63792f8068ee9463d", null ],
+    [ "GetAI", "df/da4/a24024.html#a201255a64d4e742ba8b118b4f2ec5cd5", null ]
 ];

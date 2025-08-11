@@ -1,9 +1,20 @@
 var a14168 =
 [
-    [ "CheckCast", "df/d04/a14168.html#a02965b55e8efadbd21e5afdd824f1dec", null ],
-    [ "FilterTargets", "df/d04/a14168.html#a9638048b4107db116474abf8e18d7760", null ],
-    [ "HandleBeforeHit", "df/d04/a14168.html#a3567c72e999ad6ca9db15b4d6ddadafb", null ],
-    [ "HandleScriptEffect", "df/d04/a14168.html#a47d6a6c1fcb2b04782e54d3797c1f42c", null ],
-    [ "PrepareSpellScript", "df/d04/a14168.html#aab9211291bd9dab8255d94e4eb07bf8e", null ],
-    [ "Register", "df/d04/a14168.html#a73e6c9c91dccb309207fa3aeb6bd9d6f", null ]
+    [ "npc_dark_iron_attack_generator", "df/d04/a14168.html#aef208e008b00af62710c8479bf7b6618", null ],
+    [ "AllowStart", "df/d04/a14168.html#a4c0bdf682ced38cd1555ac6c6dd82361", null ],
+    [ "FinishAttackDueToWin", "df/d04/a14168.html#abe15db24f6cd2c0c4c7fb5572635f09a", null ],
+    [ "FinishEventDueToLoss", "df/d04/a14168.html#ab2dc568f820e3b0b7c863f83e6ca45fc", null ],
+    [ "GetRandomBartender", "df/d04/a14168.html#aefe0e7e40ca5aad089aa27c5151e01fa", null ],
+    [ "JustEngagedWith", "df/d04/a14168.html#a7588ef6382ae081d76423f8233667c5b", null ],
+    [ "MoveInLineOfSight", "df/d04/a14168.html#ae21b69752a1e45eeef318ccf1e5a3b24", null ],
+    [ "PrepareEvent", "df/d04/a14168.html#a4371fcc13d221b843275d1d0e7f896fb", null ],
+    [ "Reset", "df/d04/a14168.html#ab9b3a7d524b8764ef9d00dac3ea75418", null ],
+    [ "SpellHit", "df/d04/a14168.html#a829946c679b3eff97b1eb3ede6cd91d8", null ],
+    [ "UpdateAI", "df/d04/a14168.html#a1038fdc5453c78ebaef26b305be23963", null ],
+    [ "events", "df/d04/a14168.html#a6692f1a74acae5ddebbe8dc8790db07a", null ],
+    [ "guzzlerCounter", "df/d04/a14168.html#a1a5cc21ee54e3d8d7acb1e3235d4e427", null ],
+    [ "kegCounter", "df/d04/a14168.html#a3282d8a556e6e3b84a9597c317722d8e", null ],
+    [ "revelerGUIDs", "df/d04/a14168.html#a873ec2bf87b3d616e60d26aa561258bf", null ],
+    [ "summons", "df/d04/a14168.html#a5ac0502b880031c937f915a7dbca2262", null ],
+    [ "thrown", "df/d04/a14168.html#ac372ce0664ec10b7f60026fa808a74d0", null ]
 ];

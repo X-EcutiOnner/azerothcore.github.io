@@ -1,7 +1,7 @@
 var a26384 =
 [
-    [ "HandleDummy", "d4/d1f/a26384.html#aef93741620dcf29179502f88891ad0b5", null ],
-    [ "Load", "d4/d1f/a26384.html#ab8e5dcd009cca538c9921dcb9c5fe109", null ],
-    [ "PrepareSpellScript", "d4/d1f/a26384.html#ac92fd133395705e4cb3730bc96e1f787", null ],
-    [ "Register", "d4/d1f/a26384.html#a69336bea35240c0014693ae167d4124b", null ]
+    [ "HandleDummy", "d4/d1f/a26384.html#a367bd26543382ad71668fbe4f524d823", null ],
+    [ "PrepareSpellScript", "d4/d1f/a26384.html#a71cde3f81fdb253d8e93a19be104e9db", null ],
+    [ "Register", "d4/d1f/a26384.html#a7c73e3381592bef44d2265aff296b301", null ],
+    [ "Validate", "d4/d1f/a26384.html#a03d59b6859286dbe460b348df6de63d7", null ]
 ];

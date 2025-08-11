@@ -1,7 +1,6 @@
 var a21892 =
 [
-    [ "HandleScriptEffect", "db/d70/a21892.html#a2d39a073c351860db735301b4cf9c79f", null ],
-    [ "PrepareSpellScript", "db/d70/a21892.html#a3674adaef23f1531af360a65c14efadd", null ],
-    [ "Register", "db/d70/a21892.html#a11b217c0066217f2da5ff42ce35c9a0a", null ],
-    [ "Validate", "db/d70/a21892.html#a3dadb61ca7dd8195ba5fdac5bf49583c", null ]
+    [ "npc_torturer_lecraftAI", "db/dde/a21896.html", "db/dde/a21896" ],
+    [ "npc_torturer_lecraft", "db/d70/a21892.html#a789f8bdafe96d5cb01225b940a80c651", null ],
+    [ "GetAI", "db/d70/a21892.html#abdc8b33cd820c5cd14c999e7407897fe", null ]
 ];

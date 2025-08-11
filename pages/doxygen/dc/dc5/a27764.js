@@ -1,6 +1,5 @@
 var a27764 =
 [
-    [ "HandleProc", "dc/dc5/a27764.html#aa333d52d905e722554d8d61c4b9cb656", null ],
-    [ "PrepareAuraScript", "dc/dc5/a27764.html#aac4320b061d627e4ffef737d2e858ef3", null ],
-    [ "Register", "dc/dc5/a27764.html#ad58fea9afa6a3596437a324ec525982e", null ]
+    [ "go_transport_the_iron_eagle", "dc/dc5/a27764.html#aba17edc2e3ac8e1b9996116c6f9bdc6f", null ],
+    [ "EventInform", "dc/dc5/a27764.html#af1970d07730ab0e5f688200289f48b69", null ]
 ];

@@ -1,11 +1,5 @@
 var a13208 =
 [
-    [ "boss_alythess", "d8/dc2/a13208.html#a707fbd0f310005a60d5ed4c05c9fc176", null ],
-    [ "AttackStart", "d8/dc2/a13208.html#ac860cef30a96d020a7c729f63ac5ca4e", null ],
-    [ "DoAction", "d8/dc2/a13208.html#aa2dc7ab74fa5bdb753475b2de1515855", null ],
-    [ "JustDied", "d8/dc2/a13208.html#a5509c9f0d979a2d9d70a8f4f9e7971a0", null ],
-    [ "JustEngagedWith", "d8/dc2/a13208.html#ac5047ee0124864304284c1142e885158", null ],
-    [ "KilledUnit", "d8/dc2/a13208.html#a611d8c0a8fb9061e596ef0ac8f1fda88", null ],
-    [ "Reset", "d8/dc2/a13208.html#ab5f990d305f42a2d00e182f617175672", null ],
-    [ "_isSisterDead", "d8/dc2/a13208.html#a9f9fa0823685066b4990a17880782b9a", null ]
+    [ "at_malfurion_stormrage", "d8/dc2/a13208.html#ac5da3d1a7c2ccaffee68cfaee04fb63c", null ],
+    [ "OnTrigger", "d8/dc2/a13208.html#a0aa7818bd09b8a456d1ebbaa7d5f5c1d", null ]
 ];

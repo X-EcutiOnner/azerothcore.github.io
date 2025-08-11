@@ -1,6 +1,6 @@
 var a21324 =
 [
-    [ "boss_moraggAI", "d9/d14/a21328.html", "d9/d14/a21328" ],
-    [ "boss_moragg", "db/dcf/a21324.html#aeb43f9cc4c41f049fd0a13e79cadfcd1", null ],
-    [ "GetAI", "db/dcf/a21324.html#a5ea2f210038b3e44bf2cb9c402e1b761", null ]
+    [ "boss_erekemAI", "d9/d14/a21328.html", "d9/d14/a21328" ],
+    [ "boss_erekem", "db/dcf/a21324.html#ab618380bd8f8c199ca85f1fe8a67db4d", null ],
+    [ "GetAI", "db/dcf/a21324.html#aa472a21bf4a855ba75bc7de05cce494c", null ]
 ];

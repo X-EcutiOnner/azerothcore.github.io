@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/Chat/ChatCommands/ChatCommandTags.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/game/Scripting/ScriptDefines/LootScript.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,177 +106,53 @@ $(document).ready(function(){initNavTree('d4/d95/a00989.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#namespaces">Namespaces</a> &#124;
-<a href="#define-members">Macros</a> &#124;
-<a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">ChatCommandTags.h File Reference</div></div>
+<a href="#enum-members">Enumerations</a>  </div>
+  <div class="headertitle"><div class="title">LootScript.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">ChatCommandHelpers.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Hyperlinks.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ObjectGuid.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Optional.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Util.h</a>&quot;</code><br />
-<code>#include &lt;boost/preprocessor/punctuation/comma_if.hpp&gt;</code><br />
-<code>#include &lt;boost/preprocessor/repetition/repeat.hpp&gt;</code><br />
-<code>#include &lt;iostream&gt;</code><br />
-<code>#include &lt;string&gt;</code><br />
-<code>#include &lt;string_view&gt;</code><br />
-<code>#include &lt;tuple&gt;</code><br />
-<code>#include &lt;variant&gt;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">ScriptObject.h</a>&quot;</code><br />
+<code>#include &lt;vector&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/df8/a07658.html">Acore::Impl::ChatCommands::ContainerTag</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/deb/a07662.html">Acore::Impl::ChatCommands::tag_base&lt; T, std::enable_if_t&lt; std::is_base_of_v&lt; ContainerTag, T &gt; &gt; &gt;</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d9b/a07666.html">Acore::ChatCommands::ExactSequence&lt; chars &gt;</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d6a/a07670.html">Acore::ChatCommands::Tail</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d5b/a07674.html">Acore::ChatCommands::WTail</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/def/a07678.html">Acore::ChatCommands::QuotedString</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d7f/a07682.html">Acore::ChatCommands::AccountIdentifier</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/db1/a07686.html">Acore::ChatCommands::PlayerIdentifier</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d33/a07690.html">Acore::ChatCommands::Hyperlink&lt; linktag &gt;</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/da1/a07694.html">Acore::Impl::CastToVisitor&lt; T &gt;</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d20/a07698.html">Acore::ChatCommands::Variant&lt; T1, Ts &gt;</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dc2/a10344.html">LootScript</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
-Namespaces</h2></td></tr>
-<tr class="memitem:db/d2a/a04776"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d2a/a04776.html">Acore</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:d2/d5c/a04788"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d5c/a04788.html">Acore::Impl</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:d1/daa/a04816"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/daa/a04816.html">Acore::Impl::ChatCommands</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:db/da7/a04817"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/da7/a04817.html">Acore::ChatCommands</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
-Macros</h2></td></tr>
-<tr class="memitem:a55b2f2ab9e15f11a5b44f6d616f28e8a"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d95/a00989.html#a55b2f2ab9e15f11a5b44f6d616f28e8a">CHATCOMMANDS_IMPL_SPLIT_LITERAL_EXTRACT_CHAR</a>(z,  i,  strliteral)&#160;&#160;&#160;        BOOST_PP_COMMA_IF(i) <a class="el" href="../../d1/daa/a04816.html#ab72843264c39ce4d9aa3d4d8fbd83fc4">Acore::Impl::ChatCommands::GetChar</a>(strliteral, i)</td></tr>
-<tr class="separator:a55b2f2ab9e15f11a5b44f6d616f28e8a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae9ad890da39c16320a177ed5fbdffdf1"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d95/a00989.html#ae9ad890da39c16320a177ed5fbdffdf1">CHATCOMMANDS_IMPL_SPLIT_LITERAL_CONSTRAINED</a>(maxlen,  strliteral)&#160;&#160;&#160;        BOOST_PP_REPEAT(maxlen, <a class="el" href="../../d4/d95/a00989.html#a55b2f2ab9e15f11a5b44f6d616f28e8a">CHATCOMMANDS_IMPL_SPLIT_LITERAL_EXTRACT_CHAR</a>, strliteral)</td></tr>
-<tr class="separator:ae9ad890da39c16320a177ed5fbdffdf1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af98497f511ab4c536bd80e08ff605c04"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d95/a00989.html#af98497f511ab4c536bd80e08ff605c04">CHATCOMMANDS_IMPL_SPLIT_LITERAL</a>(strliteral)&#160;&#160;&#160;<a class="el" href="../../d4/d95/a00989.html#ae9ad890da39c16320a177ed5fbdffdf1">CHATCOMMANDS_IMPL_SPLIT_LITERAL_CONSTRAINED</a>(25, strliteral)</td></tr>
-<tr class="separator:af98497f511ab4c536bd80e08ff605c04"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac61bb0d0d29d3ccc94188eb93516adf5"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d95/a00989.html#ac61bb0d0d29d3ccc94188eb93516adf5">EXACT_SEQUENCE</a>(str)&#160;&#160;&#160;<a class="el" href="../../df/d9b/a07666.html">Acore::ChatCommands::ExactSequence</a>&lt;<a class="el" href="../../d4/d95/a00989.html#af98497f511ab4c536bd80e08ff605c04">CHATCOMMANDS_IMPL_SPLIT_LITERAL</a>(str)&gt;</td></tr>
-<tr class="separator:ac61bb0d0d29d3ccc94188eb93516adf5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
-Functions</h2></td></tr>
-<tr class="memitem:ab72843264c39ce4d9aa3d4d8fbd83fc4"><td class="memTemplParams" colspan="2">template&lt;std::size_t N&gt; </td></tr>
-<tr class="memitem:ab72843264c39ce4d9aa3d4d8fbd83fc4"><td class="memTemplItemLeft" align="right" valign="top">constexpr char&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d1/daa/a04816.html#ab72843264c39ce4d9aa3d4d8fbd83fc4">Acore::Impl::ChatCommands::GetChar</a> (char const (&amp;s)[N], std::size_t i)</td></tr>
-<tr class="separator:ab72843264c39ce4d9aa3d4d8fbd83fc4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
+Enumerations</h2></td></tr>
+<tr class="memitem:a39ce94de1e8ce6b7055130ac7f40632b"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d95/a00989.html#a39ce94de1e8ce6b7055130ac7f40632b">LootHook</a> { <br />
+&#160;&#160;<a class="el" href="../../d4/d95/a00989.html#a39ce94de1e8ce6b7055130ac7f40632ba71990fd8692b46e728ad526346d0f1f1">LOOTHOOK_ON_LOOT_MONEY</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d4/d95/a00989.html#a39ce94de1e8ce6b7055130ac7f40632bab03a0874b2fda00aeb19e4b5ab077fea">LOOTHOOK_END</a>
+<br />
+ }</td></tr>
+<tr class="separator:a39ce94de1e8ce6b7055130ac7f40632b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Macro Definition Documentation</h2>
-<a id="af98497f511ab4c536bd80e08ff605c04" name="af98497f511ab4c536bd80e08ff605c04"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af98497f511ab4c536bd80e08ff605c04">&#9670;&#160;</a></span>CHATCOMMANDS_IMPL_SPLIT_LITERAL</h2>
+<h2 class="groupheader">Enumeration Type Documentation</h2>
+<a id="a39ce94de1e8ce6b7055130ac7f40632b" name="a39ce94de1e8ce6b7055130ac7f40632b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a39ce94de1e8ce6b7055130ac7f40632b">&#9670;&#160;</a></span>LootHook</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">#define CHATCOMMANDS_IMPL_SPLIT_LITERAL</td>
-          <td>(</td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname">strliteral</td><td>)</td>
-          <td>&#160;&#160;&#160;<a class="el" href="../../d4/d95/a00989.html#ae9ad890da39c16320a177ed5fbdffdf1">CHATCOMMANDS_IMPL_SPLIT_LITERAL_CONSTRAINED</a>(25, strliteral)</td>
+          <td class="memname">enum <a class="el" href="../../d4/d95/a00989.html#a39ce94de1e8ce6b7055130ac7f40632b">LootHook</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
-
-</div>
-</div>
-<a id="ae9ad890da39c16320a177ed5fbdffdf1" name="ae9ad890da39c16320a177ed5fbdffdf1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae9ad890da39c16320a177ed5fbdffdf1">&#9670;&#160;</a></span>CHATCOMMANDS_IMPL_SPLIT_LITERAL_CONSTRAINED</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define CHATCOMMANDS_IMPL_SPLIT_LITERAL_CONSTRAINED</td>
-          <td>(</td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname">maxlen, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname">strliteral&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td>&#160;&#160;&#160;        BOOST_PP_REPEAT(maxlen, <a class="el" href="../../d4/d95/a00989.html#a55b2f2ab9e15f11a5b44f6d616f28e8a">CHATCOMMANDS_IMPL_SPLIT_LITERAL_EXTRACT_CHAR</a>, strliteral)</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a55b2f2ab9e15f11a5b44f6d616f28e8a" name="a55b2f2ab9e15f11a5b44f6d616f28e8a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a55b2f2ab9e15f11a5b44f6d616f28e8a">&#9670;&#160;</a></span>CHATCOMMANDS_IMPL_SPLIT_LITERAL_EXTRACT_CHAR</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define CHATCOMMANDS_IMPL_SPLIT_LITERAL_EXTRACT_CHAR</td>
-          <td>(</td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname">z, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname">i, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname">strliteral&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td>&#160;&#160;&#160;        BOOST_PP_COMMA_IF(i) <a class="el" href="../../d1/daa/a04816.html#ab72843264c39ce4d9aa3d4d8fbd83fc4">Acore::Impl::ChatCommands::GetChar</a>(strliteral, i)</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="ac61bb0d0d29d3ccc94188eb93516adf5" name="ac61bb0d0d29d3ccc94188eb93516adf5"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac61bb0d0d29d3ccc94188eb93516adf5">&#9670;&#160;</a></span>EXACT_SEQUENCE</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define EXACT_SEQUENCE</td>
-          <td>(</td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname">str</td><td>)</td>
-          <td>&#160;&#160;&#160;<a class="el" href="../../df/d9b/a07666.html">Acore::ChatCommands::ExactSequence</a>&lt;<a class="el" href="../../d4/d95/a00989.html#af98497f511ab4c536bd80e08ff605c04">CHATCOMMANDS_IMPL_SPLIT_LITERAL</a>(str)&gt;</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a39ce94de1e8ce6b7055130ac7f40632ba71990fd8692b46e728ad526346d0f1f1" name="a39ce94de1e8ce6b7055130ac7f40632ba71990fd8692b46e728ad526346d0f1f1"></a>LOOTHOOK_ON_LOOT_MONEY&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a39ce94de1e8ce6b7055130ac7f40632bab03a0874b2fda00aeb19e4b5ab077fea" name="a39ce94de1e8ce6b7055130ac7f40632bab03a0874b2fda00aeb19e4b5ab077fea"></a>LOOTHOOK_END&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">   25</span>{</div>
+<div class="line"><span class="lineno">   26</span>    <a class="code hl_enumvalue" href="../../d4/d95/a00989.html#a39ce94de1e8ce6b7055130ac7f40632ba71990fd8692b46e728ad526346d0f1f1">LOOTHOOK_ON_LOOT_MONEY</a>,</div>
+<div class="line"><span class="lineno">   27</span>    <a class="code hl_enumvalue" href="../../d4/d95/a00989.html#a39ce94de1e8ce6b7055130ac7f40632bab03a0874b2fda00aeb19e4b5ab077fea">LOOTHOOK_END</a></div>
+<div class="line"><span class="lineno">   28</span>};</div>
+<div class="ttc" id="aa00989_html_a39ce94de1e8ce6b7055130ac7f40632ba71990fd8692b46e728ad526346d0f1f1"><div class="ttname"><a href="../../d4/d95/a00989.html#a39ce94de1e8ce6b7055130ac7f40632ba71990fd8692b46e728ad526346d0f1f1">LOOTHOOK_ON_LOOT_MONEY</a></div><div class="ttdeci">@ LOOTHOOK_ON_LOOT_MONEY</div><div class="ttdef"><b>Definition:</b> LootScript.h:26</div></div>
+<div class="ttc" id="aa00989_html_a39ce94de1e8ce6b7055130ac7f40632bab03a0874b2fda00aeb19e4b5ab077fea"><div class="ttname"><a href="../../d4/d95/a00989.html#a39ce94de1e8ce6b7055130ac7f40632bab03a0874b2fda00aeb19e4b5ab077fea">LOOTHOOK_END</a></div><div class="ttdeci">@ LOOTHOOK_END</div><div class="ttdef"><b>Definition:</b> LootScript.h:27</div></div>
+</div><!-- fragment -->
 </div>
 </div>
 </div><!-- contents -->
@@ -284,8 +160,8 @@ Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_696eb3df8c264f77a3b72ba3d62ed649.html">Chat</a></li><li class="navelem"><a class="el" href="../../dir_c82f813a65ca3ac2a4f36b7f63ade20a.html">ChatCommands</a></li><li class="navelem"><a class="el" href="../../d4/d95/a00989.html">ChatCommandTags.h</a></li>
-    <li class="footer">Generated on Mon Aug 4 2025 20:50:08 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_824c567499771b11a8d1959386aa27e6.html">Scripting</a></li><li class="navelem"><a class="el" href="../../dir_a0aac0519f50cbe40c54d5948ed285d0.html">ScriptDefines</a></li><li class="navelem"><a class="el" href="../../d4/d95/a00989.html">LootScript.h</a></li>
+    <li class="footer">Generated on Mon Aug 11 2025 20:46:40 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

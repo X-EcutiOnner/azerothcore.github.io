@@ -1,6 +1,10 @@
 var a17756 =
 [
-    [ "npc_coldflameAI", "d3/d05/a17760.html", "d3/d05/a17760" ],
-    [ "npc_coldflame", "da/dc5/a17756.html#a573b887358e2ba2281c4c119a267c33f", null ],
-    [ "GetAI", "da/dc5/a17756.html#ac33d0528cdc3c3a0fb7acc4d46b1c2b1", null ]
+    [ "npc_cult_adherentAI", "da/dc5/a17756.html#a1ea249a25b188a949213788614f4049e", null ],
+    [ "JustEngagedWith", "da/dc5/a17756.html#ab97e0177fbc9fc7135dc7a7de0e6e31a", null ],
+    [ "Reset", "da/dc5/a17756.html#ab0b54e45468b5ebed0194c441cce434e", null ],
+    [ "SpellHit", "da/dc5/a17756.html#ab0d83d53a7f0d14cb15e133e426f2f02", null ],
+    [ "UpdateAI", "da/dc5/a17756.html#ad89638cf5859615ba2e3a0deb6701751", null ],
+    [ "_instance", "da/dc5/a17756.html#a970e99fba28d6e3e0cb759c87a866273", null ],
+    [ "events", "da/dc5/a17756.html#aa53025d3fe95086dc0c23d5d563df7c4", null ]
 ];

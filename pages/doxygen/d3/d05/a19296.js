@@ -1,15 +1,8 @@
 var a19296 =
 [
-    [ "boss_magus_telestra", "d3/d05/a19296.html#ac8ee0c8ac0bafa479ef6c3669c8aa430", null ],
-    [ "AttackStart", "d3/d05/a19296.html#a9ef67f8a53c5dceaf74bc156e0c6edad", null ],
-    [ "GetData", "d3/d05/a19296.html#a713f93edc709edabe003c305efdd709c", null ],
-    [ "JustDied", "d3/d05/a19296.html#ac69759755637749a58f712b86d3bf9ac", null ],
-    [ "JustEngagedWith", "d3/d05/a19296.html#a91b4569027b3414814bf1f2e86441fc6", null ],
-    [ "JustSummoned", "d3/d05/a19296.html#a1fc0f30287916d6606829987d29d9387", null ],
-    [ "KilledUnit", "d3/d05/a19296.html#a85b333905e5dcd34dbe001306924529a", null ],
-    [ "Reset", "d3/d05/a19296.html#a82dd720fe591ac1e72ce302087ea64c7", null ],
-    [ "SpellHit", "d3/d05/a19296.html#ac48bb325de6641a1f2f980f15b8e3eb4", null ],
-    [ "UpdateAI", "d3/d05/a19296.html#acd365d6bcc1e526e59344c1a907d0eeb", null ],
-    [ "achievement", "d3/d05/a19296.html#a00c4e862101679d5aa36b8e5dba4e5a2", null ],
-    [ "copiesDied", "d3/d05/a19296.html#a5738bf62869f9958448213b28c1bf771", null ]
+    [ "FilterTargets", "d3/d05/a19296.html#af6700817fd92dbe495e20d5c43b5d6b5", null ],
+    [ "Load", "d3/d05/a19296.html#a639105c26214d9887b84a482ca93eb26", null ],
+    [ "PrepareSpellScript", "d3/d05/a19296.html#a354ae20be436528b16095d4cd8d37859", null ],
+    [ "Register", "d3/d05/a19296.html#a5fcc9cc654d6495f535600a6eef4c968", null ],
+    [ "DrakeGUID", "d3/d05/a19296.html#ad4bbd7d559cdcc21ae5fafae75cd8eb3", null ]
 ];

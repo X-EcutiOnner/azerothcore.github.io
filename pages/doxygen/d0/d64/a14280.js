@@ -1,5 +1,11 @@
 var a14280 =
 [
-    [ "npc_grizzlemaw_cw_triggerAI", "d0/d64/a14280.html#a40207493c75d8a63284e08f1f75d56c4", null ],
-    [ "MoveInLineOfSight", "d0/d64/a14280.html#aef49ccdae1aff20fc469f0aa2663d8af", null ]
+    [ "npc_snowfall_glade_playmate", "d0/d64/a14280.html#aa31b472ad55b240faff4bc2c1ee02ebc", null ],
+    [ "MoveInLineOfSight", "d0/d64/a14280.html#a92143d0bd0eb57b59069ca7a66e16195", null ],
+    [ "Reset", "d0/d64/a14280.html#a89040d9843852b01123e102b49509857", null ],
+    [ "UpdateAI", "d0/d64/a14280.html#a6dedc1cae1e568a792341842e8a922e8", null ],
+    [ "orphanGUID", "d0/d64/a14280.html#ad9bdbee8ec178b0a6c7ff125dc698279", null ],
+    [ "phase", "d0/d64/a14280.html#a9a5b2348313063bc389b99158fc72e3f", null ],
+    [ "playerGUID", "d0/d64/a14280.html#a4ca4198fdbf3c98291255916ee53c637", null ],
+    [ "timer", "d0/d64/a14280.html#ac3d736f2cd62289b88940e0a6ddcd957", null ]
 ];

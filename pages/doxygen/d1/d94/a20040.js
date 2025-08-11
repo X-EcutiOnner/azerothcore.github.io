@@ -1,5 +1,5 @@
 var a20040 =
 [
-    [ "boss_freya_iron_rootAI", "d1/d94/a20040.html#a5e982f5f41433f43a7a0e1d18e009b7b", null ],
-    [ "JustDied", "d1/d94/a20040.html#ad35297f0fa2039749b89d38c2b4f08b9", null ]
+    [ "achievement_flame_leviathan_unbroken", "d1/d94/a20040.html#a30a94a92aacc558d6833994c11f3ee8a", null ],
+    [ "OnCheck", "d1/d94/a20040.html#a78c69e3217b6598ab238a4f51ba598eb", null ]
 ];

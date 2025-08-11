@@ -1,6 +1,6 @@
 var a15436 =
 [
-    [ "npcs_riverbreeze_and_silversky", "dc/d8f/a15436.html#a9f012d5bbaa8b9f9822ddfbd86e7c4b2", null ],
-    [ "OnGossipHello", "dc/d8f/a15436.html#a7de032322a37f929c316aadfdadda768", null ],
-    [ "OnGossipSelect", "dc/d8f/a15436.html#a93c7b159dda733da5030de747bad30b5", null ]
+    [ "npc_tiger_matriarch_creditAI", "dc/d8f/a15436.html#a628772971a9c2a190ffe2fae6b0b6865", null ],
+    [ "UpdateAI", "dc/d8f/a15436.html#a0fc7ca1313a21c5f74539ce2dbd7465d", null ],
+    [ "events", "dc/d8f/a15436.html#ae96e0de4a36dde3237520e8a0ddd9f5f", null ]
 ];

@@ -1,9 +1,15 @@
 var a17048 =
 [
-    [ "npc_pos_collapsing_icicleAI", "db/de0/a17048.html#a007e4bad6ef41729d3f7b7ade4285dfe", null ],
-    [ "SpellHitTarget", "db/de0/a17048.html#aea107ede3b11726b3f7caae590edaf52", null ],
-    [ "UpdateAI", "db/de0/a17048.html#ade416a422e67ce61e8874320cce7143b", null ],
-    [ "pInstance", "db/de0/a17048.html#a8c7e2643c2d443b382a60f28ea74266c", null ],
-    [ "timer1", "db/de0/a17048.html#a5757c27b8c8840cec6ad7282f0cbf51b", null ],
-    [ "timer2", "db/de0/a17048.html#aee61de504cfb25d9a99651a58ea0b63c", null ]
+    [ "npc_pos_leaderAI", "db/de0/a17048.html#a21973bccde394785f8619df7cae5270b", null ],
+    [ "AttackStart", "db/de0/a17048.html#a6dc4161441752b8ea9baab642d6a0684", null ],
+    [ "JustSummoned", "db/de0/a17048.html#a03bfcd0ea38073ff8481188d1b570553", null ],
+    [ "MoveInLineOfSight", "db/de0/a17048.html#ad28f607b313f7729649261969912eba5", null ],
+    [ "Reset", "db/de0/a17048.html#aee23a2835b84ac060a29b41c10116904", null ],
+    [ "SetData", "db/de0/a17048.html#a2b49d5045e0d1e25e7a05b1e3ce65b4f", null ],
+    [ "SummonedCreatureDespawn", "db/de0/a17048.html#a9a35459cf7b83c9f0afc557d1b0b40e7", null ],
+    [ "UpdateAI", "db/de0/a17048.html#a1507ab4bdade501cf92f843cec20842d", null ],
+    [ "counter", "db/de0/a17048.html#a7012a08c6409a40646dcd91a47eb6886", null ],
+    [ "events", "db/de0/a17048.html#a7ea570e98c7a70ae604861c2166eb429", null ],
+    [ "pInstance", "db/de0/a17048.html#a1ba3692738d6bd474d54fe8910a7f316", null ],
+    [ "summons", "db/de0/a17048.html#a44b5ee694d96644da91167c7d793eeb3", null ]
 ];

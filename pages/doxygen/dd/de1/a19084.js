@@ -1,6 +1,7 @@
 var a19084 =
 [
-    [ "boss_nothAI", "d3/d2d/a19088.html", "d3/d2d/a19088" ],
-    [ "boss_noth", "dd/de1/a19084.html#a2760f1ec46a21f22de0e57527cbe9768", null ],
-    [ "GetAI", "dd/de1/a19084.html#a534f30792c051ab44c6c07c9347893e5", null ]
+    [ "FilterTargets", "dd/de1/a19084.html#af92aec0df6c962a10ccbebb366081cfd", null ],
+    [ "PrepareSpellScript", "dd/de1/a19084.html#ad7ccb2b2024887ec0a9802454a8bfaec", null ],
+    [ "Register", "dd/de1/a19084.html#af59416debfc7685bec92541a00e1dafe", null ],
+    [ "Validate", "dd/de1/a19084.html#abbe7ae557fb510457504f72adfa0aedc", null ]
 ];

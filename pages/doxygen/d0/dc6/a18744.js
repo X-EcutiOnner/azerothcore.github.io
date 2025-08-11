@@ -1,6 +1,5 @@
 var a18744 =
 [
-    [ "npc_icc_skybreaker_marksmanAI", "d0/d70/a18748.html", "d0/d70/a18748" ],
-    [ "npc_icc_skybreaker_marksman", "d0/dc6/a18744.html#a1d870b78e1acf2d17782265e28698d1c", null ],
-    [ "GetAI", "d0/dc6/a18744.html#a374017d37da15705d51ab8edc75683ff", null ]
+    [ "at_icc_start_frostwing_gauntlet", "d0/dc6/a18744.html#a285cd9046d5658fc5d917c3427bbbe83", null ],
+    [ "OnTrigger", "d0/dc6/a18744.html#a7137166f281876f00d4e03c846875d85", null ]
 ];

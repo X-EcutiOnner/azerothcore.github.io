@@ -1,5 +1,6 @@
 var a20076 =
 [
-    [ "achievement_freya_getting_back_to_nature", "d0/d4f/a20076.html#aa4078b573a9335fc52c9b9609590b12f", null ],
-    [ "OnCheck", "d0/d4f/a20076.html#a850a32450379284784f019a5eb5ff0ff", null ]
+    [ "boss_freya_iron_rootAI", "d1/d98/a20080.html", "d1/d98/a20080" ],
+    [ "boss_freya_iron_root", "d0/d4f/a20076.html#a9478144d6cb72d08698cbfc50893935b", null ],
+    [ "GetAI", "d0/d4f/a20076.html#acdda736e9259d59a30a40d989e70f95c", null ]
 ];

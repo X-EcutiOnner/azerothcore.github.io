@@ -1,7 +1,10 @@
 var a17980 =
 [
-    [ "FrostwyrmLandEvent", "d0/d72/a17980.html#a6b6a467c474a5b03be40e4d9a86eddc8", null ],
-    [ "Execute", "d0/d72/a17980.html#a4da77796a223e6233ac6d908f7700623", null ],
-    [ "_dest", "d0/d72/a17980.html#a7f5b4c41c459b65e30dea66f7459a7e9", null ],
-    [ "_owner", "d0/d72/a17980.html#a6336050092606ebb27a180abff55dfa2", null ]
+    [ "FilterTargets", "d0/d72/a17980.html#aefba5226671b6217549bd34059519179", null ],
+    [ "Load", "d0/d72/a17980.html#af8a2b651782783dc29ac7266ed02c028", null ],
+    [ "NotifyTargets", "d0/d72/a17980.html#a618e98fbd5c6ae21047cc4f911099730", null ],
+    [ "PrepareSpellScript", "d0/d72/a17980.html#a0cd63fa27a1ee853c5d73c766d1c4de6", null ],
+    [ "Register", "d0/d72/a17980.html#ae72a470c87f7d90e4bd635e239d09f9b", null ],
+    [ "ReplaceTargets", "d0/d72/a17980.html#a5d3df9715d04ea4b663b061c7c02ae03", null ],
+    [ "_target", "d0/d72/a17980.html#a10c85fd3909e56f457d73add8021c0b7", null ]
 ];

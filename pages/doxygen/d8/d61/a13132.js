@@ -1,10 +1,8 @@
 var a13132 =
 [
-    [ "HandleDummyTick", "d8/d61/a13132.html#a036291aee8b08212ecead4afce01adf4", null ],
-    [ "Load", "d8/d61/a13132.html#aaecea41af42790dfe9aeba3c56480668", null ],
-    [ "OnApply", "d8/d61/a13132.html#a37b425f877e7415b245c119c29521c4b", null ],
-    [ "PrepareAuraScript", "d8/d61/a13132.html#ade7bfbc3400fb620956d1e8dff7d4a8a", null ],
-    [ "Register", "d8/d61/a13132.html#a9b32995b6e324a6c779bbd742de6cce2", null ],
-    [ "Validate", "d8/d61/a13132.html#a72595ee3cd995d7bed2bcf8c9f5199fb", null ],
-    [ "_forsakenSpell", "d8/d61/a13132.html#ae2aee05482e4854120fc581ecec41f95", null ]
+    [ "npc_apothecary_baxter", "d8/d61/a13132.html#a4a41816ff4f857a15a4665b8da1aec99", null ],
+    [ "JustDied", "d8/d61/a13132.html#a9bf2362ba1b1e3a290ca12f1ceb54ab9", null ],
+    [ "Reset", "d8/d61/a13132.html#afee5103029bd761c48cbf6a11655c44a", null ],
+    [ "UpdateAI", "d8/d61/a13132.html#ad06090f599d0fda3a88f3182c990a49f", null ],
+    [ "_scheduler", "d8/d61/a13132.html#a6d813041e055f3c2b28be7cba3acde13", null ]
 ];

@@ -1,7 +1,6 @@
 var a04733 =
 [
-    [ "Model", "d1/dd8/a28798.html", "d1/dd8/a28798" ],
-    [ "Extract", "d3/d06/a04733.html#aaece844099afc9d83362feb37427d5ae", null ],
-    [ "ExtractSet", "d3/d06/a04733.html#afd641f15b5ca6e58b68f26ef17a02912", null ],
-    [ "fixCoordSystem", "d3/d06/a04733.html#a8d0afbab5641bb7d88196fbad79e4cf1", null ]
+    [ "VMAP::MapRayCallback", "de/d7d/a05000.html", "de/d7d/a05000" ],
+    [ "VMAP::AreaInfoCallback", "d7/d8a/a05004.html", "d7/d8a/a05004" ],
+    [ "VMAP::LocationInfoCallback", "d6/df3/a05008.html", "d6/df3/a05008" ]
 ];

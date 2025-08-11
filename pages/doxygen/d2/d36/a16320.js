@@ -1,10 +1,8 @@
 var a16320 =
 [
-    [ "npc_nerubian_burrowerAI", "d2/d36/a16320.html#a7673709e7b16a6573d9c7392ba556313", null ],
-    [ "CanAIAttack", "d2/d36/a16320.html#a82e4a5ca23ae2a94212b214aad1c69df", null ],
-    [ "JustDied", "d2/d36/a16320.html#ab5182ad65187c472b306e2177530d7b6", null ],
-    [ "Reset", "d2/d36/a16320.html#a4491965d9c08ed1d888cad6f7b06352d", null ],
-    [ "SpellHitTarget", "d2/d36/a16320.html#a64fa2c8276f7418542190e833dd72c51", null ],
-    [ "UpdateAI", "d2/d36/a16320.html#abd2c7333625ded502a00848b09ee9a40", null ],
-    [ "events", "d2/d36/a16320.html#ab45e8c6dd9ea3552fed4b926136f80e6", null ]
+    [ "npc_announcer_toc5AI", "d7/ded/a16324.html", "d7/ded/a16324" ],
+    [ "npc_announcer_toc5", "d2/d36/a16320.html#abf50bb7deb9e0bb04d9ac802aff5fa41", null ],
+    [ "GetAI", "d2/d36/a16320.html#a06767a8fd1e940d4efee6dd752520e9e", null ],
+    [ "OnGossipHello", "d2/d36/a16320.html#ad2cc55ddc6696b9bfb22e68eab965fb0", null ],
+    [ "OnGossipSelect", "d2/d36/a16320.html#a9017488c652fd75882db75914f4a2db2", null ]
 ];

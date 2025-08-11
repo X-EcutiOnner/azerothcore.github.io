@@ -1,6 +1,6 @@
 var a27596 =
 [
-    [ "npc_fireworkAI", "d8/ddc/a27600.html", "d8/ddc/a27600" ],
-    [ "npc_firework", "db/df9/a27596.html#a9efb6ed098e4eb3e24c30393cb5cb45d", null ],
-    [ "GetAI", "db/df9/a27596.html#a9732f7b6eb8b3638bb6280ff7a71bcf7", null ]
+    [ "npc_guardianAI", "d8/ddc/a27600.html", "d8/ddc/a27600" ],
+    [ "npc_guardian", "db/df9/a27596.html#aa614e73ae6a6c128c323ac275652dbf1", null ],
+    [ "GetAI", "db/df9/a27596.html#a3e65ccc70be9d25b2d8563c23146ef4f", null ]
 ];

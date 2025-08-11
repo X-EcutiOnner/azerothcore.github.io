@@ -1,6 +1,7 @@
 var a20384 =
 [
-    [ "npc_ulduar_leviathan_mkiiAI", "d9/dfc/a20388.html", "d9/dfc/a20388" ],
-    [ "npc_ulduar_leviathan_mkii", "db/dbc/a20384.html#a9e4671adcb2409a7c83460d28d29f579", null ],
-    [ "GetAI", "db/dbc/a20384.html#afe438e97b6989a8899850619c87cd7e6", null ]
+    [ "FilterTargetsInitial", "db/dbc/a20384.html#a2477349cffb8da02936545ba0bd03d0f", null ],
+    [ "Load", "db/dbc/a20384.html#a4606d10a2699e3fb5290cefdc0876505", null ],
+    [ "PrepareSpellScript", "db/dbc/a20384.html#aa28f3565bddf70b98c945be7a7a37bad", null ],
+    [ "Register", "db/dbc/a20384.html#ae9bbe2d4ce5413f040b8b5f73f985822", null ]
 ];

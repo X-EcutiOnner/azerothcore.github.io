@@ -1,6 +1,8 @@
 var a12448 =
 [
-    [ "boss_shazzrahAI", "d4/d4a/a12452.html", "d4/d4a/a12452" ],
-    [ "boss_shazzrah", "db/de4/a12448.html#a99a162d6eac5c9046a27f53ec05af7e4", null ],
-    [ "GetAI", "db/de4/a12448.html#a8135f6ab246dbce4c2ebebe0e7f137d5", null ]
+    [ "MajordomoAddData", "db/de4/a12448.html#aa068ada34e1275cbf97b21f74dfd2881", null ],
+    [ "MajordomoAddData", "db/de4/a12448.html#a9b8cc2b43ffbf268e470169e00e66671", null ],
+    [ "creatureEntry", "db/de4/a12448.html#ae3a0444e88158123f4d6359328e89a1d", null ],
+    [ "guid", "db/de4/a12448.html#a2f2b0aaace557361a21d1072f36933dc", null ],
+    [ "spawnPos", "db/de4/a12448.html#a31f8d24efb19c2d0e697f35b911e3237", null ]
 ];

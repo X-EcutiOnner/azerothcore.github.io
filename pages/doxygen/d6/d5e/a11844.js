@@ -1,6 +1,8 @@
 var a11844 =
 [
-    [ "boss_ambassador_flamelashAI", "d0/d50/a11848.html", "d0/d50/a11848" ],
-    [ "boss_ambassador_flamelash", "d6/d5e/a11844.html#a53d24a240e48033b0474970e8acac1f4", null ],
-    [ "GetAI", "d6/d5e/a11844.html#a332e347d803a58989445ec57d75361ab", null ]
+    [ "ironhand_guardianAI", "d6/d5e/a11844.html#ab109b4ba9d399bd8c7d7dd5c04f2c618", null ],
+    [ "SetData", "d6/d5e/a11844.html#ab4e6402951bf45910fb3399ea107b207", null ],
+    [ "UpdateAI", "d6/d5e/a11844.html#a095b11f44935c8ddb43a20c095495507", null ],
+    [ "events", "d6/d5e/a11844.html#a13ed887285809d2fcad0d23fdf37face", null ],
+    [ "flames_enabled", "d6/d5e/a11844.html#ab54e1eac19a8b51e2aa9fe4bc5f08e46", null ]
 ];

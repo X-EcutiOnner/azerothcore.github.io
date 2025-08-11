@@ -1,8 +1,7 @@
 var a26560 =
 [
-    [ "HandleDummy", "d1/d31/a26560.html#ab653cf0414411c17ccc674395b08af7a", null ],
-    [ "Load", "d1/d31/a26560.html#a6eb80b68a00c91d92a2963adb753ed23", null ],
-    [ "PrepareSpellScript", "d1/d31/a26560.html#ae6c5ba4ed1918125594b31368c3bcf2f", null ],
-    [ "Register", "d1/d31/a26560.html#a92eb201b3ae3ab167cc338174a355b00", null ],
-    [ "Validate", "d1/d31/a26560.html#a3635089640297e059a183322c7e8f7b9", null ]
+    [ "CalcPeriodic", "d1/d31/a26560.html#af787d0c8738284e757f808e7d138bdc6", null ],
+    [ "PrepareAuraScript", "d1/d31/a26560.html#a383db196133bbecee06fe443fdb1bc24", null ],
+    [ "Register", "d1/d31/a26560.html#a1c617b5b26805b0feb468c55337f9d4c", null ],
+    [ "Update", "d1/d31/a26560.html#af3f4a7b82e099313d609df7f85f02d00", null ]
 ];

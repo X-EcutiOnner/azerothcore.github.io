@@ -1,9 +1,6 @@
 var a12472 =
 [
-    [ "npc_flamewaker_priestAI", "d2/d6d/a12472.html#aa0508dda5bc365896128f088b6de30f4", null ],
-    [ "JustDied", "d2/d6d/a12472.html#ad1f51c4589abe6ef5bcf513d70e34a4c", null ],
-    [ "JustEngagedWith", "d2/d6d/a12472.html#a15fefb756ad1ae20257d4ed9cb1d3eca", null ],
-    [ "Reset", "d2/d6d/a12472.html#a3c3629a6c6987e861e40a893363d2508", null ],
-    [ "UpdateAI", "d2/d6d/a12472.html#a28c0ed65521f3d2150874ddc1b913933", null ],
-    [ "events", "d2/d6d/a12472.html#a7d769cc852a69fdf719cb7958c3d890c", null ]
+    [ "boss_ragnarosAI", "dd/d2f/a12476.html", "dd/d2f/a12476" ],
+    [ "boss_ragnaros", "d2/d6d/a12472.html#a47bd4dc50a0d05e8cbb75c1a5a52c9b5", null ],
+    [ "GetAI", "d2/d6d/a12472.html#af54e36608e160811ca06952fd2c63f6e", null ]
 ];

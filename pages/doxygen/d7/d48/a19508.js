@@ -1,6 +1,6 @@
 var a19508 =
 [
-    [ "npc_molten_golemAI", "d4/d2d/a19512.html", "d4/d2d/a19512" ],
-    [ "npc_molten_golem", "d7/d48/a19508.html#a63e16216a59b50524632b49599bd3bd1", null ],
-    [ "GetAI", "d7/d48/a19508.html#a22a723039267cb0901b78c6064a88d0c", null ]
+    [ "boss_ionarAI", "d4/d2d/a19512.html", "d4/d2d/a19512" ],
+    [ "boss_ionar", "d7/d48/a19508.html#a284da7d86f0b386e352587e0321bf465", null ],
+    [ "GetAI", "d7/d48/a19508.html#a0c0f28f832458df7326842f04413af5d", null ]
 ];

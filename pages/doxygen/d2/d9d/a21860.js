@@ -1,8 +1,6 @@
 var a21860 =
 [
-    [ "AfterApply", "d2/d9d/a21860.html#a57279552b867251e9d2ee6a4ff5d7914", null ],
-    [ "PeriodicTick", "d2/d9d/a21860.html#a2e86aa6efe6ab137926c1dfd1bd26a95", null ],
-    [ "PrepareAuraScript", "d2/d9d/a21860.html#a9e1b74bf2d28a367caefdc90c34743c8", null ],
-    [ "Register", "d2/d9d/a21860.html#a69eb0ca43a15d4995ad219459c2b39d6", null ],
-    [ "Validate", "d2/d9d/a21860.html#a946248656cb755f85dd93fd4d607c9a7", null ]
+    [ "npc_q24545_vegardAI", "d3/dbd/a21864.html", "d3/dbd/a21864" ],
+    [ "npc_q24545_vegard", "d2/d9d/a21860.html#ac12e2f143fab6b93950eaea06f5f7d85", null ],
+    [ "GetAI", "d2/d9d/a21860.html#a9a7accfb3eea9f08efbb82fbd4bd7e76", null ]
 ];

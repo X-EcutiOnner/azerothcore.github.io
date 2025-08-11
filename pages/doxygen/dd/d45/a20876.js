@@ -1,11 +1,9 @@
 var a20876 =
 [
-    [ "boss_yoggsaron_llaneAI", "dd/d45/a20876.html#a8524834b7dff49844d96b7dc49fd265d", null ],
-    [ "NextStep", "dd/d45/a20876.html#a6587e7873455950bda97b2a7d78e6fc5", null ],
-    [ "Reset", "dd/d45/a20876.html#a86f9d594562f842d478b63de18e52455", null ],
-    [ "Say", "dd/d45/a20876.html#ab619684f15f5325383a413dced7c930e", null ],
-    [ "UpdateAI", "dd/d45/a20876.html#a545378189f85968ac925baa06ad608b5", null ],
-    [ "_checkTimer", "dd/d45/a20876.html#aa4956f6943adce94a9ed4fec951317d6", null ],
-    [ "_running", "dd/d45/a20876.html#a6d6d186febc408ecb830bf7eea3c72bd", null ],
-    [ "_step", "dd/d45/a20876.html#a718c0bf307934b9ee9cbb933899c6324", null ]
+    [ "boss_yoggsaron_keeper", "dd/d45/a20876.html#ad2098933656371b1bf80ec3ea859c418", null ],
+    [ "DoAction", "dd/d45/a20876.html#a9e3d251810b55072458003356213ae15", null ],
+    [ "JustEngagedWith", "dd/d45/a20876.html#a36bac93a46710f0cd3f51958b4e4223b", null ],
+    [ "JustSummoned", "dd/d45/a20876.html#a272a77cb6f147f38825cd68d54f56a9a", null ],
+    [ "UpdateAI", "dd/d45/a20876.html#afe9c18d91443f2ba3b2fd2a2fdd7dca5", null ],
+    [ "_summons", "dd/d45/a20876.html#aa840eff5f3d8b24225046113737936b4", null ]
 ];

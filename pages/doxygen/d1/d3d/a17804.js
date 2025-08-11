@@ -1,6 +1,6 @@
 var a17804 =
 [
-    [ "boss_professor_putricideAI", "d4/d7c/a17808.html", "d4/d7c/a17808" ],
-    [ "boss_professor_putricide", "d1/d3d/a17804.html#a80776dad5c0205aa6a98752f43e85e32", null ],
-    [ "GetAI", "d1/d3d/a17804.html#a7c84089d24bb0c77a5203884254e0925", null ]
+    [ "npc_bone_spikeAI", "d4/d7c/a17808.html", "d4/d7c/a17808" ],
+    [ "npc_bone_spike", "d1/d3d/a17804.html#ac93d7a45eaeae8d7adf2a3b313825aed", null ],
+    [ "GetAI", "d1/d3d/a17804.html#a887a9156f550ca55047fa501e1709d95", null ]
 ];

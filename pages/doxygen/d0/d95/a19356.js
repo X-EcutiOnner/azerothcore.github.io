@@ -1,6 +1,8 @@
 var a19356 =
 [
-    [ "boss_uromAI", "d6/d68/a19360.html", "d6/d68/a19360" ],
-    [ "boss_urom", "d0/d95/a19356.html#ae85d0bb54d3bf6571bec9d35f31a3e25", null ],
-    [ "GetAI", "d0/d95/a19356.html#ac381b851f3cc746fb323ff238892c537", null ]
+    [ "npc_crystal_spike", "d0/d95/a19356.html#aa6a6e12aba63c589e71b5ca28b924fd4", null ],
+    [ "Reset", "d0/d95/a19356.html#a8cdca606ce482147d87ad5248665099e", null ],
+    [ "UpdateAI", "d0/d95/a19356.html#abc04c8fba427c12630b4faf1d39bdb32", null ],
+    [ "_damageTimer", "d0/d95/a19356.html#a36c70729a0c0281d467f870bfcde80ae", null ],
+    [ "_gameObjectGUID", "d0/d95/a19356.html#a0c0e9a1883cee51201b039947b5bacf3", null ]
 ];

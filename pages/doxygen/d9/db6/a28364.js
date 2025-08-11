@@ -1,9 +1,8 @@
 var a28364 =
 [
-    [ "TimeSeg", "d9/db6/a28364.html#a16782e722a5bada41691841fe594b7a6", null ],
-    [ "TransportEntry", "d9/db6/a28364.html#afcdb94a38d68d2ff8af225dc599db8a4", null ],
-    [ "W", "d9/db6/a28364.html#a4158a2babefbf4e148a64fe16bf113f6", null ],
-    [ "X", "d9/db6/a28364.html#a9c7cb1fd0463d1158d971db6f15431ff", null ],
-    [ "Y", "d9/db6/a28364.html#a7f0ff898e752e2e904ebee1412643df6", null ],
-    [ "Z", "d9/db6/a28364.html#a87647d71a965e80154ca36dc05421585", null ]
+    [ "canLink", "d9/db6/a28364.html#aff87dafee61faf5afdf6248f6f3c9a35", null ],
+    [ "categoryId", "d9/db6/a28364.html#abf285e69e8e2a90626a157cb0c50d158", null ],
+    [ "id", "d9/db6/a28364.html#a7740b26f1bde19a05b002c00eded25e3", null ],
+    [ "name", "d9/db6/a28364.html#afb5e77ab4f6faa132ca62f7664dce116", null ],
+    [ "spellIcon", "d9/db6/a28364.html#a3a20ea7c73a6739e89bd570d6f4d4b03", null ]
 ];

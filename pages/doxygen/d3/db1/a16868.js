@@ -1,6 +1,6 @@
 var a16868 =
 [
-    [ "boss_frostsworn_generalAI", "d6/d86/a16872.html", "d6/d86/a16872" ],
-    [ "boss_frostsworn_general", "d3/db1/a16868.html#a33023712cf056eedfed1cb38e18af5dd", null ],
-    [ "GetAI", "d3/db1/a16868.html#a8e958e13999f23a81a7230fa9ece276b", null ]
+    [ "npc_phantom_mageAI", "d6/d86/a16872.html", "d6/d86/a16872" ],
+    [ "npc_phantom_mage", "d3/db1/a16868.html#ad57414231c40917bf55d6155fa9c05db", null ],
+    [ "GetAI", "d3/db1/a16868.html#ae2134b8be3052da659390bde7c2aac2e", null ]
 ];

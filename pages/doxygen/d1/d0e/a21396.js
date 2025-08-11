@@ -1,6 +1,11 @@
 var a21396 =
 [
-    [ "npc_azure_binderAI", "dd/d7c/a21400.html", "dd/d7c/a21400" ],
-    [ "npc_azure_binder", "d1/d0e/a21396.html#a25b8b19b6ccdae92418c47fe68537c42", null ],
-    [ "GetAI", "d1/d0e/a21396.html#aad091206a8bd06a1064b68b81510eb56", null ]
+    [ "npc_vh_void_sentryAI", "d1/d0e/a21396.html#a312f4bbc07e6d786e85c2b4e89d36344", null ],
+    [ "DoAction", "d1/d0e/a21396.html#a0bc95eea54b5cdc16a4d3f588f3ff900", null ],
+    [ "JustDied", "d1/d0e/a21396.html#add5121ed38a74be9ae168df5f893f89e", null ],
+    [ "SummonedCreatureDespawn", "d1/d0e/a21396.html#a24ff36cdb049da7c67c1f041361e17e4", null ],
+    [ "UpdateAI", "d1/d0e/a21396.html#ae1f683d5ef920213c9c86da35c626381", null ],
+    [ "checkTimer", "d1/d0e/a21396.html#a675bcae4119e45490403013534c731ef", null ],
+    [ "pInstance", "d1/d0e/a21396.html#a7527473944681143bab89fd12b475645", null ],
+    [ "SummonedGUID", "d1/d0e/a21396.html#a4420eb2cf4d3b6d161355b0f4ad9516d", null ]
 ];

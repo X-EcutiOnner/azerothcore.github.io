@@ -1,7 +1,6 @@
 var a12272 =
 [
-    [ "HandleDummy", "d1/da9/a12272.html#a2299a8b99013fb9f9c2b8e81cfc541cc", null ],
-    [ "PrepareSpellScript", "d1/da9/a12272.html#ad07165f81a7f407c716f90691ecb9817", null ],
-    [ "Register", "d1/da9/a12272.html#a28fb28ca049b87dd76fddc3af222fd9c", null ],
-    [ "Validate", "d1/da9/a12272.html#a8ce6773c7d0fd501fa7b26f04fd22796", null ]
+    [ "boss_victor_nefariusAI", "d4/d14/a12276.html", "d4/d14/a12276" ],
+    [ "boss_victor_nefarius", "d1/da9/a12272.html#a85c529c49a0373a553bc59818fb18f49", null ],
+    [ "GetAI", "d1/da9/a12272.html#a6ea19bde6980cbb4ca627d17cf57ae24", null ]
 ];

@@ -1,7 +1,7 @@
 var a28840 =
 [
-    [ "FilterTargets", "d1/d19/a28840.html#aeebe9395cefab1b87196a7ef466aa2c8", null ],
-    [ "PrepareSpellScript", "d1/d19/a28840.html#a954f00317eab544dd57e657368aab7fb", null ],
-    [ "Register", "d1/d19/a28840.html#a1804684c8685372faf2e88e56b48f5be", null ],
-    [ "Validate", "d1/d19/a28840.html#ab08386023ed3b3c8e51178da8973ef1a", null ]
+    [ "Paths", "d1/d19/a28840.html#aff167c694a55441bcf5504f5d1933f41", null ],
+    [ "References", "d1/d19/a28840.html#a07f0d7daa9cd934768b8a603dc52bea3", null ],
+    [ "Sets", "d1/d19/a28840.html#a43774f8dd70e85e16aa8d49b5c6a25b6", null ],
+    [ "Spawns", "d1/d19/a28840.html#a51f24c059516683f0744b81819186c0e", null ]
 ];

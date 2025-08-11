@@ -1,6 +1,10 @@
 var a24400 =
 [
-    [ "DeathEvent", "db/dc1/a24400.html#a2fb9a98c077d715c4648aede6597276e", null ],
-    [ "Execute", "db/dc1/a24400.html#a497ac46ab1acf95816020fc6be8ce03a", null ],
-    [ "_owner", "db/dc1/a24400.html#a099d0d5ae50126f00220b3ed90907617", null ]
+    [ "npc_pet_gen_imp_in_a_bottle", "db/dc1/a24400.html#aa32b7770c2719d77d46fcf6d22989284", null ],
+    [ "InitializeAI", "db/dc1/a24400.html#a9fde3fd30d48068a3ad1a19f65c61bf2", null ],
+    [ "UpdateAI", "db/dc1/a24400.html#a453ec855bb21a30cb72b540ff8f77035", null ],
+    [ "_data", "db/dc1/a24400.html#a982ec923536c2c33353a3673aa425b6a", null ],
+    [ "_hasParty", "db/dc1/a24400.html#a192d9e2ba340040cb6ba5c0f324ffb2d", null ],
+    [ "_ownerGUID", "db/dc1/a24400.html#a5452226bbe4f65a9bd7ce103a7648a2f", null ],
+    [ "_talkTimer", "db/dc1/a24400.html#a07eba859ad2d5db4f6d91734c04020cf", null ]
 ];

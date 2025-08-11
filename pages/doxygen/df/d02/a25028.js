@@ -1,6 +1,7 @@
 var a25028 =
 [
-    [ "HandleScriptEffect", "df/d02/a25028.html#ab3f415ae783f2a778178cc3319b32773", null ],
-    [ "PrepareSpellScript", "df/d02/a25028.html#a4ba7f7935c4acda891190dc375086dee", null ],
-    [ "Register", "df/d02/a25028.html#ad9b1571b4faf7d0fc6df7f6a8eb05c8a", null ]
+    [ "HandleEffectApply", "df/d02/a25028.html#a2854357f92b1faac6e7840f1576138e0", null ],
+    [ "HandleEffectRemove", "df/d02/a25028.html#a7960ca4deb4ff61d04ea7fe7ec0f0471", null ],
+    [ "PrepareAuraScript", "df/d02/a25028.html#a2120cecbca61e4c7380892fe8d43772a", null ],
+    [ "Register", "df/d02/a25028.html#a98c71c0d4c4b0503e66ed2033946cb2e", null ]
 ];

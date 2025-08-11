@@ -1,10 +1,8 @@
 var a21508 =
 [
-    [ "npc_jenny", "db/d1d/a21508.html#ab845ba4551900a03c5a995d348a1be55", null ],
-    [ "DamageTaken", "db/d1d/a21508.html#a8700091c82bfff473f3d5563deb69e0b", null ],
-    [ "Initialize", "db/d1d/a21508.html#aab8c540ebb90ebbaef961b1feb3013a3", null ],
-    [ "MoveInLineOfSight", "db/d1d/a21508.html#acd0939cee3ecb9d961d09815d9c50f71", null ],
-    [ "UpdateFollowerAI", "db/d1d/a21508.html#afbd142855602bcf7a8cd8e4cc4760cf0", null ],
-    [ "_events", "db/d1d/a21508.html#aa98caf8b706551470c943b4b722a85ae", null ],
-    [ "_fezzix", "db/d1d/a21508.html#ac2115c122c2eac2d5a36d1795d1e6bf0", null ]
+    [ "HandleEffectRemove", "db/d1d/a21508.html#aa2b05befb775244423264f6b5e2387c1", null ],
+    [ "Load", "db/d1d/a21508.html#a02ea4c29f2c7e15a5039b93d7a0d3c5e", null ],
+    [ "PrepareAuraScript", "db/d1d/a21508.html#a632e81cc39bdcd0f5adcc684231d1171", null ],
+    [ "Register", "db/d1d/a21508.html#aba5483b1d35c1b58841fad2b1086f07c", null ],
+    [ "Validate", "db/d1d/a21508.html#ada90e1f06ced8f4e353fe2bda3d31637", null ]
 ];

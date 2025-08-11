@@ -1,8 +1,5 @@
 var a13128 =
 [
-    [ "CalcPeriodic", "d9/d59/a13128.html#a9aaca3bb1d762c9bddf3b91205f48d00", null ],
-    [ "HandleDummyTick", "d9/d59/a13128.html#acd3616df94f888ad5fb1c5b0607f6f25", null ],
-    [ "HandleUpdatePeriodic", "d9/d59/a13128.html#a70ef86fd58eec1422bac6b61a4123842", null ],
-    [ "PrepareAuraScript", "d9/d59/a13128.html#a9a97a6ab249728dbad4d3603640a7963", null ],
-    [ "Register", "d9/d59/a13128.html#ab6b223ed68a521ea9a3cbc2a6e21ac49", null ]
+    [ "npc_apothecary_frye", "d9/d59/a13128.html#a5546099958a9a267d237e65720588456", null ],
+    [ "JustDied", "d9/d59/a13128.html#ab1dc310e90c591b44ce4d5bcf1bac930", null ]
 ];

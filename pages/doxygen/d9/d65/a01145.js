@@ -1,5 +1,9 @@
 var a01145 =
 [
-    [ "DispelList", "d9/d65/a01145.html#a711d5a2b2f8cbeb49153d9e33ea51bf1", null ],
-    [ "SpellEffects", "d9/d65/a01145.html#a294b5954f08aebdafe9e5a6f00e2dc82", null ]
+    [ "DatabaseScript", "de/dbf/a10288.html", "de/dbf/a10288" ],
+    [ "DatabaseHook", "d9/d65/a01145.html#a5f7dd71299279ad5a845d4d4030e707e", [
+      [ "DATABASEHOOK_ON_AFTER_DATABASES_LOADED", "d9/d65/a01145.html#a5f7dd71299279ad5a845d4d4030e707ea669793dd5bb736daf7bf4e7a57422171", null ],
+      [ "DATABASEHOOK_ON_AFTER_DATABASE_LOAD_CREATURETEMPLATES", "d9/d65/a01145.html#a5f7dd71299279ad5a845d4d4030e707ea5da0ac4b05308347ca9a69286153d974", null ],
+      [ "DATABASEHOOK_END", "d9/d65/a01145.html#a5f7dd71299279ad5a845d4d4030e707eaf2e5c468c0dfdec9fc3dea4359a93d04", null ]
+    ] ]
 ];

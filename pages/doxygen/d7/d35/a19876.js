@@ -1,15 +1,11 @@
 var a19876 =
 [
-    [ "npc_mimirons_infernoAI", "d7/d35/a19876.html#ae412b49c76e76b322e779665d895080f", null ],
-    [ "AttackStart", "d7/d35/a19876.html#a5676eb2a790be80e539dd71a3b8e140a", null ],
-    [ "DoAction", "d7/d35/a19876.html#a499301a57e57a54aa8f1249c12247be7", null ],
-    [ "JustSummoned", "d7/d35/a19876.html#a586f15a02d77ed6831eb787e2bdf477c", null ],
-    [ "MoveInLineOfSight", "d7/d35/a19876.html#a6ae48c92d9fec13d66c445a2176b58eb", null ],
-    [ "Reset", "d7/d35/a19876.html#adf35df754ce212e9937f4b7833b81bf6", null ],
-    [ "SummonedCreatureDespawn", "d7/d35/a19876.html#a8019ef0c505c6b71a44da13ed0dd081b", null ],
-    [ "UpdateAI", "d7/d35/a19876.html#a661199c38d5bce921632191132767c32", null ],
-    [ "WaypointReached", "d7/d35/a19876.html#a9619ab9bb68a3da71a6c78e4092632f4", null ],
-    [ "_recastTimer", "d7/d35/a19876.html#ad6f7e7f6a745ba9b7b860030a9a22e9a", null ],
-    [ "_spellTimer", "d7/d35/a19876.html#adc8ed31e1d0d2aac5bd75391b21b7bfb", null ],
-    [ "summons", "d7/d35/a19876.html#ad3a5853ee86922f5854ddf757dada8e9", null ]
+    [ "boss_flame_leviathan_seatAI", "d7/d35/a19876.html#ab830db7804ee9b9815e4ea3398a6d856", null ],
+    [ "AttackStart", "d7/d35/a19876.html#a39efb927928e19a040144bab7dfa3ba2", null ],
+    [ "EnterEvadeMode", "d7/d35/a19876.html#aeda2ad4d596c86aa5c19acb1c710cc9f", null ],
+    [ "PassengerBoarded", "d7/d35/a19876.html#af4939f3daef8aae9a1eafe2020ab205e", null ],
+    [ "Reset", "d7/d35/a19876.html#a1e134e9bb2b1048f69dc310a52be9473", null ],
+    [ "UpdateAI", "d7/d35/a19876.html#a857b1e927ae6574e00e25a20a21d4427", null ],
+    [ "_despawnTimer", "d7/d35/a19876.html#ac3d1d8f405a37d2344c5f4e34519e2cb", null ],
+    [ "vehicle", "d7/d35/a19876.html#a9d0624a45613676a39def53b2a2fdce0", null ]
 ];

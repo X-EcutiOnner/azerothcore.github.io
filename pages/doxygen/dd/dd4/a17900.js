@@ -1,6 +1,7 @@
 var a17900 =
 [
-    [ "FilterTargetsInitial", "dd/dd4/a17900.html#a92cc71f268793c616bed66d9a489a145", null ],
-    [ "PrepareSpellScript", "dd/dd4/a17900.html#ae27e6ceab6b92e59c97307ed10f24ab2", null ],
-    [ "Register", "dd/dd4/a17900.html#a91b96940a9e72e632989b49f7e475dba", null ]
+    [ "HandleDummy", "dd/dd4/a17900.html#aa61db53d7395fd45b8569e12978fed0b", null ],
+    [ "PrepareSpellScript", "dd/dd4/a17900.html#ab63054debe6763027ab52ad122277719", null ],
+    [ "Register", "dd/dd4/a17900.html#a6dee5fc9fafd7faa3eadbf9431568dcc", null ],
+    [ "Validate", "dd/dd4/a17900.html#adb7e30d10c2071de5d5070b64a10af30", null ]
 ];

@@ -1,6 +1,17 @@
 var a11816 =
 [
-    [ "npc_grimstoneAI", "d6/dd3/a11820.html", "d6/dd3/a11820" ],
-    [ "npc_grimstone", "dc/def/a11816.html#ae5c3e36bf18cb30dd4fc7cd5e7a72cfb", null ],
-    [ "GetAI", "dc/def/a11816.html#a24cf0aa69ac28c13ac3c44e14c35406c", null ]
+    [ "boss_drektharAI", "dc/def/a11816.html#a4cd7f817b3dfe457cb330e73316e18d1", null ],
+    [ "AttackStart", "dc/def/a11816.html#a058d9683179756e49aa4e243d270105c", null ],
+    [ "EnterEvadeMode", "dc/def/a11816.html#a7f8677796d1b9dbe7021c056252278d3", null ],
+    [ "JustEngagedWith", "dc/def/a11816.html#aea7fad4bfdc14e5526a6620ee5d3ba2e", null ],
+    [ "JustRespawned", "dc/def/a11816.html#aef244c80a915eaf4c1e0ff1c1080b18a", null ],
+    [ "Reset", "dc/def/a11816.html#a87e1f67ae379360bc0843d7bb3cd0acb", null ],
+    [ "UpdateAI", "dc/def/a11816.html#a79f1f0430496d2a1759ded7cca5cdef3", null ],
+    [ "Attacked", "dc/def/a11816.html#a6a6b5b2b00e85231441f5a8a0213e5ec", null ],
+    [ "FrenzyTimer", "dc/def/a11816.html#afd2d5fc6b7091fb019048d32a8b3631e", null ],
+    [ "KnockdownTimer", "dc/def/a11816.html#a235912a2cb78bd10b6b3a45c51ee0cff", null ],
+    [ "ResetTimer", "dc/def/a11816.html#a7d7b0a8d19d540e998db3b6e189cc16d", null ],
+    [ "Whirlwind2Timer", "dc/def/a11816.html#a788359b7f2df1794dbff643d75b2c561", null ],
+    [ "WhirlwindTimer", "dc/def/a11816.html#aef399775e552d7e80224fbb0c2f62aff", null ],
+    [ "YellTimer", "dc/def/a11816.html#ad45ea624603c427fa5b3e40cd6ba7f5d", null ]
 ];

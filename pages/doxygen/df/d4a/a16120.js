@@ -1,6 +1,7 @@
 var a16120 =
 [
-    [ "HandlePeriodic", "df/d4a/a16120.html#a7753587518171689f86f3f76269c1b8a", null ],
-    [ "PrepareAuraScript", "df/d4a/a16120.html#aa73351e7200bee94b0068fb8dabfada5", null ],
-    [ "Register", "df/d4a/a16120.html#ab126fe8d4387609e8834898c3b3a67ea", null ]
+    [ "HandlePeriodic", "df/d4a/a16120.html#ab49a636eaddea5c91f86f21a1d4d182e", null ],
+    [ "PrepareAuraScript", "df/d4a/a16120.html#a3a9a26b3e0964e08d67a89cd950b5a97", null ],
+    [ "Register", "df/d4a/a16120.html#aed8d41a9bf289b21caa9e93e66b004d2", null ],
+    [ "Validate", "df/d4a/a16120.html#a3a428e0e4f63770a35cdf6a6ac85e403", null ]
 ];

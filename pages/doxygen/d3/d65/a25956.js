@@ -1,5 +1,6 @@
 var a25956 =
 [
-    [ "Trigger", "d3/d65/a25956.html#aa16aba75a066e83cb56660a0e29e7453", null ],
-    [ "Validate", "d3/d65/a25956.html#a6c38df91dbe0cf277d1d50a40edd4589", null ]
+    [ "OnRemove", "d3/d65/a25956.html#a3803e6bbdb17e9a848376481581c993d", null ],
+    [ "PrepareAuraScript", "d3/d65/a25956.html#a6f1340b824af4604e310666e89d05b7a", null ],
+    [ "Register", "d3/d65/a25956.html#a3b361a478f1c035b706ac2e17499fb37", null ]
 ];

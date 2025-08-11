@@ -1,14 +1,10 @@
 var a07288 =
 [
-    [ "IsArena", "d8/d5d/a07288.html#a8a99bf73debf5835e58537bee33fe2ad", null ],
-    [ "BattlemasterEntry", "d8/d5d/a07288.html#a51ce3b9fdb2f51f439fee7c8b48e3918", null ],
-    [ "Id", "d8/d5d/a07288.html#a0fca37318585903f68695452a95011a9", null ],
-    [ "MaxLevel", "d8/d5d/a07288.html#a790f55d480d1454a5f6e5713c04314b7", null ],
-    [ "MaxPlayersPerTeam", "d8/d5d/a07288.html#a324a4e557ce66089ec1111a9dae6e1de", null ],
-    [ "MaxStartDistSq", "d8/d5d/a07288.html#a5fbb1a76221e9d15bd7cca13581f7b14", null ],
-    [ "MinLevel", "d8/d5d/a07288.html#a49fdf96a08376830a06956fd501cfa78", null ],
-    [ "MinPlayersPerTeam", "d8/d5d/a07288.html#ac1bea263b53de8573cdb8eb890175495", null ],
-    [ "ScriptId", "d8/d5d/a07288.html#a968dd626dba22925be3d8f1a3bdc51aa", null ],
-    [ "StartLocation", "d8/d5d/a07288.html#a8477d2156c8aa5bb89da038d1a779698", null ],
-    [ "Weight", "d8/d5d/a07288.html#aa7a051e8453599a7e82da763a6f91da2", null ]
+    [ "ArenaLogEntryData", "d8/d5d/a07288.html#a8f3ec057dd930d2f2acd7961e0cf4e5e", null ],
+    [ "Fill", "d8/d5d/a07288.html#aa3cca4521431bf152550611549bf4bbe", null ],
+    [ "Acc", "d8/d5d/a07288.html#aa8983930063298c86f4635d2ae3078fe", null ],
+    [ "ArenaTeamId", "d8/d5d/a07288.html#ac764620c3c8a986286fd74062dac4645", null ],
+    [ "Guid", "d8/d5d/a07288.html#a03b32cd44c655dcc9104aead3b76454e", null ],
+    [ "IP", "d8/d5d/a07288.html#ab9f80eacfe24025a2d4947085d3f6dd7", null ],
+    [ "Name", "d8/d5d/a07288.html#a5c18d554adb9e38ab10baf36c9b3fdd7", null ]
 ];

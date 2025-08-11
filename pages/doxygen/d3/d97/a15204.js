@@ -1,10 +1,15 @@
 var a15204 =
 [
-    [ "npc_anubisath_defender", "d3/d97/a15204.html#ae24a21ad3ebcaa4b8312a1fea66131ba", null ],
-    [ "DamageTaken", "d3/d97/a15204.html#a032714b16d3d77a19bec0f918d8ef8df", null ],
-    [ "JustDied", "d3/d97/a15204.html#a225ca1b3144953bcc5890caf0d32b606", null ],
-    [ "JustEngagedWith", "d3/d97/a15204.html#a6505fcae0e99cae44750f16daddc3309", null ],
-    [ "Reset", "d3/d97/a15204.html#ab10d9ac93aab97172f630e1d7d8faca0", null ],
-    [ "UpdateAI", "d3/d97/a15204.html#a1f190f45ffbaf20f5565221780dc5cc6", null ],
-    [ "_enraged", "d3/d97/a15204.html#a4adef63a5093e3c0ecb8b57283e94ff8", null ]
+    [ "boss_viscidus", "d3/d97/a15204.html#a41dd3ce982a180a2ad415b559508f0ff", null ],
+    [ "CheckInRoom", "d3/d97/a15204.html#a528a368eceb55cc7d41d615c6c1ebf15", null ],
+    [ "DamageTaken", "d3/d97/a15204.html#adb41e6f64c1fe61cf623539353b0c959", null ],
+    [ "InitSpells", "d3/d97/a15204.html#a24357bfc552ecb5205e50241cadb05f4", null ],
+    [ "JustEngagedWith", "d3/d97/a15204.html#a7dfb0ba7d90697d3deac263249cfa977", null ],
+    [ "Reset", "d3/d97/a15204.html#ac9153bd98e4c39b63547c3a9a8798d80", null ],
+    [ "SoftReset", "d3/d97/a15204.html#ad2b4c6835ff113e4a538024f02ff968e", null ],
+    [ "SpellHit", "d3/d97/a15204.html#a43df1ee33d5a9b4794b246ce680a6318", null ],
+    [ "SummonedCreatureDies", "d3/d97/a15204.html#a6a52391b49ba3501a1bb5e8c55f07683", null ],
+    [ "UpdateAI", "d3/d97/a15204.html#a1a194c161b485d2abbb862506b6c239f", null ],
+    [ "_hitcounter", "d3/d97/a15204.html#a12ee60a91dab2f95aab6e9914351344a", null ],
+    [ "_phase", "d3/d97/a15204.html#a321f1f96af51d3d70de0cca89512d965", null ]
 ];

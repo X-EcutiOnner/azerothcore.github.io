@@ -1,7 +1,6 @@
 var a27632 =
 [
-    [ "npc_crashin_thrashin_robot", "d6/d8b/a27632.html#ad21336d212498b1c9ef5d46979d147ab", null ],
-    [ "IsSummonedBy", "d6/d8b/a27632.html#a0652cd455791461f613ab4ebf77d2c3c", null ],
-    [ "UpdateAI", "d6/d8b/a27632.html#a1d21cd2075f3aeba2c7f1e735a33dfec", null ],
-    [ "_scheduler", "d6/d8b/a27632.html#a55778501d154d0a9e77f76054e926f85", null ]
+    [ "npc_locksmith", "d6/d8b/a27632.html#af959a6395ebc33109405f18f262e4ecb", null ],
+    [ "OnGossipHello", "d6/d8b/a27632.html#aec977cf39f11a7bc2f13c2bde8e97351", null ],
+    [ "OnGossipSelect", "d6/d8b/a27632.html#a62ec02e226255ff1f81895391a6494b8", null ]
 ];

@@ -1,6 +1,8 @@
 var a13336 =
 [
-    [ "FilterTargets", "d3/d9a/a13336.html#aa6c8db9ae3ffd14e0841c98633115a9b", null ],
-    [ "PrepareSpellScript", "d3/d9a/a13336.html#a502f57c8567bc7ed15035d89ea26f4a6", null ],
-    [ "Register", "d3/d9a/a13336.html#aa3f50e9c6d430d3a1bc83c382c08b189", null ]
+    [ "CheckCast", "d3/d9a/a13336.html#a414c603646c1a6be9bbb7059abbb7e71", null ],
+    [ "HandleScriptEffect", "d3/d9a/a13336.html#a22f630cb9df4b435a5624f2865915753", null ],
+    [ "PrepareSpellScript", "d3/d9a/a13336.html#a6e6b27ade1cac743946a976dbf343066", null ],
+    [ "Register", "d3/d9a/a13336.html#a4afae0bafceeb6e6a9a26aea2162d4d9", null ],
+    [ "Validate", "d3/d9a/a13336.html#a85779288126b21f516f2feb0238ee65b", null ]
 ];

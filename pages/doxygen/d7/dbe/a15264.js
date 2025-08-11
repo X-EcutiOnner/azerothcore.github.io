@@ -1,6 +1,8 @@
 var a15264 =
 [
-    [ "npc_depth_chargeAI", "d2/d78/a15268.html", "d2/d78/a15268" ],
-    [ "npc_depth_charge", "d7/dbe/a15264.html#ad16e3431b06fdd6797bfb51dda9005f5", null ],
-    [ "GetAI", "d7/dbe/a15264.html#a16de1a207304ea2ad7f47d5674deeec1", null ]
+    [ "npc_obsidian_nullifier", "d7/dbe/a15264.html#a9dbb6d681e348057564750fcd7e8050a", null ],
+    [ "JustEngagedWith", "d7/dbe/a15264.html#ad3e30a214a9bcb6ea13d3a78716b5cb1", null ],
+    [ "Reset", "d7/dbe/a15264.html#a9897eab3b71dd0a6a2ea598951b095cd", null ],
+    [ "UpdateAI", "d7/dbe/a15264.html#a37cf1d335dd3735b262e82828c4f904a", null ],
+    [ "_targetGUIDs", "d7/dbe/a15264.html#aaf125742bf9d17ec0b605b78dee39c7c", null ]
 ];

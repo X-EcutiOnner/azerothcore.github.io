@@ -1,10 +1,11 @@
 var a02465 =
 [
-    [ "AddPetScripts", "d4/d73/a02465.html#aaeb6a149e6495db19023f37a4f8bd882", null ],
-    [ "AddSC_deathknight_pet_scripts", "d4/d73/a02465.html#ac6a5b089240cd6b996928b3e7f9137b3", null ],
-    [ "AddSC_generic_pet_scripts", "d4/d73/a02465.html#a9852812a043673e45884dca938eff157", null ],
-    [ "AddSC_hunter_pet_scripts", "d4/d73/a02465.html#ab89117a79c55f003f82b06a1878e6534", null ],
-    [ "AddSC_mage_pet_scripts", "d4/d73/a02465.html#a689a4efb7777f4164aee994745a0e2d2", null ],
-    [ "AddSC_priest_pet_scripts", "d4/d73/a02465.html#ac0eaa77dc1cb9a092b318e3bc3f6d5b8", null ],
-    [ "AddSC_shaman_pet_scripts", "d4/d73/a02465.html#ab07e634ed761985e07d5c0e10f329231", null ]
+    [ "instance_the_eye", "d2/daf/a23888.html", "d2/daf/a23888" ],
+    [ "instance_the_eye::instance_the_eye_InstanceMapScript", "da/de4/a23892.html", "da/de4/a23892" ],
+    [ "spell_the_eye_countercharge_aura", "d6/d90/a23896.html", "d6/d90/a23896" ],
+    [ "AddSC_instance_the_eye", "d4/d73/a02465.html#a2edbd129d024cabd379cca055dd3e341", null ],
+    [ "boundaries", "d4/d73/a02465.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
+    [ "creatureData", "d4/d73/a02465.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "doorData", "d4/d73/a02465.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
+    [ "gameObjectData", "d4/d73/a02465.html#a1461582839e3b7fdbb7397e5d2086e31", null ]
 ];

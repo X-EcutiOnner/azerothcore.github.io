@@ -1,8 +1,12 @@
 var a04688 =
 [
-    [ "wdt_MPHD", "db/db0/a28722.html", "db/db0/a28722" ],
-    [ "wdt_MAIN", "d2/da2/a28730.html", "d2/da2/a28730" ],
-    [ "wdt_MAIN::adtData", "de/de8/a28738.html", "de/de8/a28738" ],
-    [ "WDT_file", "dd/d27/a28742.html", "dd/d27/a28742" ],
-    [ "WDT_MAP_SIZE", "df/d72/a04688.html#a0cf0c1d4bd3ed48612ab2a5e36b8cf10", null ]
+    [ "MMAP::MMapFactory", "d3/d49/a04972.html", "d3/d49/a04972" ],
+    [ "MMAP_LOAD_RESULT", "df/d72/a04688.html#a329271d76c3ed7ad6d255d45094b4868", [
+      [ "MMAP_LOAD_RESULT_ERROR", "df/d72/a04688.html#a329271d76c3ed7ad6d255d45094b4868a66ec06574c26cbc0b14b939c3cb09f85", null ],
+      [ "MMAP_LOAD_RESULT_OK", "df/d72/a04688.html#a329271d76c3ed7ad6d255d45094b4868ad7493681e0258dd1099139230f17df10", null ],
+      [ "MMAP_LOAD_RESULT_IGNORED", "df/d72/a04688.html#a329271d76c3ed7ad6d255d45094b4868a87dfee65ac7d1c8acf69eea806a151c8", null ],
+      [ "MMAP_LOAD_RESULT_ERROR", "df/d72/a04688.html#a329271d76c3ed7ad6d255d45094b4868a66ec06574c26cbc0b14b939c3cb09f85", null ],
+      [ "MMAP_LOAD_RESULT_OK", "df/d72/a04688.html#a329271d76c3ed7ad6d255d45094b4868ad7493681e0258dd1099139230f17df10", null ],
+      [ "MMAP_LOAD_RESULT_IGNORED", "df/d72/a04688.html#a329271d76c3ed7ad6d255d45094b4868a87dfee65ac7d1c8acf69eea806a151c8", null ]
+    ] ]
 ];

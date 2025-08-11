@@ -1,5 +1,7 @@
 var a26984 =
 [
-    [ "achievement_sickly_gazelle", "d2/d3e/a26984.html#abb613cb222c727923c4c5ce843db3a5f", null ],
-    [ "OnCheck", "d2/d3e/a26984.html#a5a4fcd30c92c10a9c0fb8fc1372f3857", null ]
+    [ "CheckProc", "d2/d3e/a26984.html#a957f8837b5613a3bfd8200ded3529c54", null ],
+    [ "HandleEffectProc", "d2/d3e/a26984.html#a54810a897e535558d060119e3de6537b", null ],
+    [ "PrepareAuraScript", "d2/d3e/a26984.html#a37950bfd846e1c2c550a108461941a26", null ],
+    [ "Register", "d2/d3e/a26984.html#a16c273043e81fd163fb7c3f517ee6f4c", null ]
 ];

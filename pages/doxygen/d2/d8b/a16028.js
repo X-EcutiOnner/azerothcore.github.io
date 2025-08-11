@@ -1,6 +1,6 @@
 var a16028 =
 [
-    [ "npc_onyx_flamecallerAI", "d7/dd0/a16032.html", "d7/dd0/a16032" ],
-    [ "npc_onyx_flamecaller", "d2/d8b/a16028.html#af27af3cb3bbaba0801481ba77a94f9c6", null ],
-    [ "GetAI", "d2/d8b/a16028.html#a712284f1997635aaf7ecd7ca0a263c05", null ]
+    [ "boss_baltharus_the_warbornAI", "d7/dd0/a16032.html", "d7/dd0/a16032" ],
+    [ "boss_baltharus_the_warborn", "d2/d8b/a16028.html#aababb8862273d60f140dce675131783d", null ],
+    [ "GetAI", "d2/d8b/a16028.html#afe7ecf8635c8c0a051047a801c2a8d54", null ]
 ];

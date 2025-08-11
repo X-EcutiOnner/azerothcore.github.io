@@ -1,6 +1,4 @@
 var a00791 =
 [
-    [ "ArenaSeasonTeamRewarder", "d8/dd4/a07226.html", "d8/dd4/a07226" ],
-    [ "ArenaSeasonTeamRewarderImpl", "d2/da4/a07230.html", "d2/da4/a07230" ],
-    [ "ArenaSeasonRewardDistributor", "d4/d8c/a07234.html", "d4/d8c/a07234" ]
+    [ "GetTargetFlagMask", "d4/d45/a00791.html#adc898dfddc20010c41bb771b6d6f274e", null ]
 ];

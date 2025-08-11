@@ -1,6 +1,8 @@
 var a21480 =
 [
-    [ "npc_khunok_the_behemothAI", "d0/deb/a21484.html", "d0/deb/a21484" ],
-    [ "npc_khunok_the_behemoth", "de/d00/a21480.html#a0370959631c00581495dbd7c37263236", null ],
-    [ "GetAI", "de/d00/a21480.html#a201aa35dd119d23126b192a1e3786c09", null ]
+    [ "npc_azure_captainAI", "de/d00/a21480.html#a15b1acc73108c6802dbf3ac2ed0734c9", null ],
+    [ "Reset", "de/d00/a21480.html#a13d25bf1612086cc4bb5bc2078105f18", null ],
+    [ "UpdateAI", "de/d00/a21480.html#ae50ac21138e12be43caa93e37062051e", null ],
+    [ "uiMortalStrikeTimer", "de/d00/a21480.html#a791a3ee9b67e72e1dcb392b9ebc2359a", null ],
+    [ "uiWhirlwindTimer", "de/d00/a21480.html#a2e3439976a6e84a60be765cb0b929798", null ]
 ];

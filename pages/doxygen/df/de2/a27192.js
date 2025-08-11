@@ -1,6 +1,6 @@
 var a27192 =
 [
-    [ "go_heatAI", "df/de2/a27192.html#a40e4ec3294126aaf3fc6875aa8b39f0a", null ],
-    [ "UpdateAI", "df/de2/a27192.html#a2332206ee47b2cea9e4707d16ea79325", null ],
-    [ "timer", "df/de2/a27192.html#a4f01692c9f39e2a40d2d5f9c22e0ac43", null ]
+    [ "go_witherbark_totem_bundleAI", "d5/d0e/a27196.html", "d5/d0e/a27196" ],
+    [ "go_witherbark_totem_bundle", "df/de2/a27192.html#affcdff7ec6894add0acec842028efd2e", null ],
+    [ "GetAI", "df/de2/a27192.html#a5ac2b3b572d67fdcc587f242f3d50f97", null ]
 ];

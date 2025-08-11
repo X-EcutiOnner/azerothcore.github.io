@@ -1,14 +1,12 @@
 var a21840 =
 [
-    [ "npc_commander_eligor_dawnbringerAI", "db/d4b/a21840.html#a84beab3be0d7e5d5d3674a57b1928f09", null ],
-    [ "ChangeImage", "db/d4b/a21840.html#a815e5c67b282e2840676b5453d94d5dc", null ],
-    [ "MovementInform", "db/d4b/a21840.html#a2ed09d31771e9c225d8d8b40ba8f0f82", null ],
-    [ "Reset", "db/d4b/a21840.html#a71410a3e3e5134311bf7bc2ef3051eb3", null ],
-    [ "StoreTargets", "db/d4b/a21840.html#a0732307643a442bc3f070b9cc91d78c9", null ],
-    [ "TurnAudience", "db/d4b/a21840.html#afa7fce3a9cccfcc7b088e72df9f312a4", null ],
-    [ "UpdateAI", "db/d4b/a21840.html#a454984668ca58c8a6fdd9ad4f630dece", null ],
-    [ "_events", "db/d4b/a21840.html#a907626beb601f789a725d88d45689eb2", null ],
-    [ "audienceList", "db/d4b/a21840.html#a5bdb09658bd93e46387df8eeb8cf0221", null ],
-    [ "imageList", "db/d4b/a21840.html#a8177ed5bc5fd54b98f2f36c9389b8099", null ],
-    [ "talkWing", "db/d4b/a21840.html#ace957ffe4fba8f229946d61d63c1798c", null ]
+    [ "npc_q24545_wretched_ghoulAI", "db/d4b/a21840.html#a0e4d9b3acd1de2cd44d0a6a22007e026", null ],
+    [ "Activate", "db/d4b/a21840.html#a52f64cef6159a3bfe29a6ac551b5bbe2", null ],
+    [ "AttackStart", "db/d4b/a21840.html#a9453e2fe00c656ded0bad4d9036dbd2a", null ],
+    [ "CanAIAttack", "db/d4b/a21840.html#a9cf57308ea588cc2febb0bb2666c2afe", null ],
+    [ "Deactivate", "db/d4b/a21840.html#af7dd65b8c0a1b5b55752d7f6b85f21cc", null ],
+    [ "DoAction", "db/d4b/a21840.html#a77aad4a0446fac68a5d1785acbe825eb", null ],
+    [ "JustDied", "db/d4b/a21840.html#a2fc9b40d72eea88b2245e6b01b17384a", null ],
+    [ "JustRespawned", "db/d4b/a21840.html#ab30068f7082176c279e0667f72d750a3", null ],
+    [ "Reset", "db/d4b/a21840.html#ad94a4789b5ba019d021682f15df13589", null ]
 ];

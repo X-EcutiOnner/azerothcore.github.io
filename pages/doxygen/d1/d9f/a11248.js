@@ -1,6 +1,7 @@
 var a11248 =
 [
-    [ "BeforeHitHandler", "d1/d9f/a11248.html#a0c2f048fc10f408a299a8b537ad7551d", null ],
-    [ "Call", "d1/d9f/a11248.html#a393057cca72c41e193508bf150ed0b1f", null ],
-    [ "_pBeforeHitHandlerScript", "d1/d9f/a11248.html#acecb7a8844155ff6eeb3f09582d7a475", null ]
+    [ "EffectNameCheck", "d1/d9f/a11248.html#aa82307388bdda7864bb085a349b63f29", null ],
+    [ "Check", "d1/d9f/a11248.html#a729d7f07669dedec50f009a87b8f32a4", null ],
+    [ "ToString", "d1/d9f/a11248.html#a31e545b0ae22cad4be815ea9e3b44377", null ],
+    [ "effName", "d1/d9f/a11248.html#a905224fb028ea0eab350773b7230f871", null ]
 ];

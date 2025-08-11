@@ -1,13 +1,7 @@
 var a01292 =
 [
-    [ "Movement::TransportPathTransform", "d8/d5b/a10066.html", "d8/d5b/a10066" ],
-    [ "Movement::HoverMovementTransform", "df/d2c/a10070.html", "df/d2c/a10070" ],
-    [ "Movement::MoveSplineInit", "de/df4/a10074.html", "de/df4/a10074" ],
-    [ "AnimType", "d8/d7a/a01292.html#ab518009ca4123b1c5dce0ffe108b78fb", [
-      [ "ToGround", "d8/d7a/a01292.html#ab518009ca4123b1c5dce0ffe108b78fba41889d3628918ee702ad48c7d2689f31", null ],
-      [ "FlyToFly", "d8/d7a/a01292.html#ab518009ca4123b1c5dce0ffe108b78fba547b00b126d19fb188c747f076bf9d2c", null ],
-      [ "ToFly", "d8/d7a/a01292.html#ab518009ca4123b1c5dce0ffe108b78fba3a5a6b4a2eebf34396f22e4c61c10d9b", null ],
-      [ "FlyToGround", "d8/d7a/a01292.html#ab518009ca4123b1c5dce0ffe108b78fbae5cd8217abf54b5ab1e67d925d5c7602", null ]
-    ] ],
-    [ "SelectSpeedType", "d8/d7a/a01292.html#a1f10281929f445f6d8150dc510bf1f2f", null ]
+    [ "C_Evaluate", "d8/d7a/a01292.html#a409e47c24c7802840315c6e4c75725cc", null ],
+    [ "C_Evaluate_Derivative", "d8/d7a/a01292.html#a318f60ef13751f5cf60cdb79cf353faa", null ],
+    [ "s_Bezier3Coeffs", "d8/d7a/a01292.html#a508e01047096fea2dbd9e0fedf6d75cb", null ],
+    [ "s_catmullRomCoeffs", "d8/d7a/a01292.html#aff10e913762216c0735a8a3530ee25d2", null ]
 ];

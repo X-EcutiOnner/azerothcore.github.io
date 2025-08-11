@@ -1,6 +1,6 @@
 var a14060 =
 [
-    [ "HandleOnHit", "d9/d6c/a14060.html#a36909ef786940eb1a05539c968d78e80", null ],
-    [ "PrepareSpellScript", "d9/d6c/a14060.html#a4bc6792c99b40834ec1a8a9764589e24", null ],
-    [ "Register", "d9/d6c/a14060.html#ad1d60c5f747f8ec16cbf2402567cfebd", null ]
+    [ "npc_ohganAI", "d0/d9c/a14064.html", "d0/d9c/a14064" ],
+    [ "npc_ohgan", "d9/d6c/a14060.html#ae391f2b36c68952ca5eaf773c29cbcad", null ],
+    [ "GetAI", "d9/d6c/a14060.html#a129dc2fcd449850403e0dcb99725da90", null ]
 ];

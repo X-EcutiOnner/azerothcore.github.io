@@ -1,10 +1,9 @@
 var a11088 =
 [
-    [ "TriggeredByAuraSpellData", "dc/d2c/a11088.html#a3f4704eed73af1e37a3d09434cfcddae", null ],
-    [ "Init", "dc/d2c/a11088.html#a782e0056967e006748318af3112c0e43", null ],
-    [ "operator bool", "dc/d2c/a11088.html#a85d4782b76b060c172aaa6f914d400da", null ],
-    [ "operator!", "dc/d2c/a11088.html#af7290a4c37b1829a98e436486fa8b6cd", null ],
-    [ "effectIndex", "dc/d2c/a11088.html#a9bbee8d48d4beb8a21721a10e0380c41", null ],
-    [ "spellInfo", "dc/d2c/a11088.html#af58f62fb168e9da7011f7b570f08e977", null ],
-    [ "tickNumber", "dc/d2c/a11088.html#afbb1ffd006dc6eb00ccd65add87b1b22", null ]
+    [ "SpellEvent", "dc/d2c/a11088.html#abca64eb7d39df9788cef9df7e8634368", null ],
+    [ "~SpellEvent", "dc/d2c/a11088.html#a01f8ea354ef70d0a2ee7b88b8dd9f68e", null ],
+    [ "Abort", "dc/d2c/a11088.html#ac21656467ae71def45fd78b9d1fa1c30", null ],
+    [ "Execute", "dc/d2c/a11088.html#ac8158bfbe916ff6207b2f6608308ae24", null ],
+    [ "IsDeletable", "dc/d2c/a11088.html#a2ecd9b31bacc717cc509eb9bb69c3cb3", null ],
+    [ "m_Spell", "dc/d2c/a11088.html#a22cce1d722f5086932ae3e97c58d2921", null ]
 ];

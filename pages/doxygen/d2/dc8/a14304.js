@@ -1,6 +1,5 @@
 var a14304 =
 [
-    [ "HandleDummy", "d2/dc8/a14304.html#a7e6ecd28a6b1f161619e179bc386388e", null ],
-    [ "PrepareSpellScript", "d2/dc8/a14304.html#a87a787c6ab3804847c90266f570381c6", null ],
-    [ "Register", "d2/dc8/a14304.html#ad5c7ab8f3bb74882eed42c6e0868ab70", null ]
+    [ "at_bring_your_orphan_to", "d2/dc8/a14304.html#a160aae23dd3423dbc1afc8e3f8dbec7c", null ],
+    [ "OnTrigger", "d2/dc8/a14304.html#af5cb73f6ba0657eff8809711a5dba84c", null ]
 ];

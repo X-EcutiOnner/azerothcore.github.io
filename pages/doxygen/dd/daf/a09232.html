@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: Acore::UnitListSearcher&lt; Check &gt; Struct Template Reference</title>
+<title>AzerothCore: Acore::GameObjectWorker&lt; Functor &gt; Struct Template Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,84 +106,56 @@ $(document).ready(function(){initNavTree('dd/daf/a09232.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pub-attribs">Public Attributes</a> &#124;
+<a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="../../da/d3c/a09229.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">Acore::UnitListSearcher&lt; Check &gt; Struct Template Reference</div></div>
+  <div class="headertitle"><div class="title">Acore::GameObjectWorker&lt; Functor &gt; Struct Template Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
 <p><code>#include &quot;<a class="el" href="../../">GridNotifiers.h</a>&quot;</code></p>
-<div class="dynheader">
-Inheritance diagram for Acore::UnitListSearcher&lt; Check &gt;:</div>
-<div class="dyncontent">
- <div class="center">
-  <img src="../../dd/daf/a09232.png" usemap="#Acore::UnitListSearcher_3C_20Check_20_3E_map" alt=""/>
-  <map id="Acore::UnitListSearcher_3C_20Check_20_3E_map" name="Acore::UnitListSearcher_3C_20Check_20_3E_map">
-<area href="../../db/d9f/a09188.html" alt="Acore::ContainerInserter&lt; Unit * &gt;" shape="rect" coords="0,0,208,24"/>
-  </map>
-</div></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a24c0de32dc3baa927962626421a343ae"><td class="memTemplParams" colspan="2">template&lt;typename <a class="el" href="../../dd/db2/a00866.html#abe8666ac87665ba963053cdd2b014750a0e7278cda02a9c0446dcc75a4df34eb2">Container</a> &gt; </td></tr>
-<tr class="memitem:a24c0de32dc3baa927962626421a343ae"><td class="memTemplItemLeft" align="right" valign="top">&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../dd/daf/a09232.html#a24c0de32dc3baa927962626421a343ae">UnitListSearcher</a> (<a class="el" href="../../d4/dca/a08384.html">WorldObject</a> const *searcher, <a class="el" href="../../dd/db2/a00866.html#abe8666ac87665ba963053cdd2b014750a0e7278cda02a9c0446dcc75a4df34eb2">Container</a> &amp;container, Check &amp;check)</td></tr>
-<tr class="separator:a24c0de32dc3baa927962626421a343ae"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5fddd281a9f9cd10cf3948d4bf7b626f"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/daf/a09232.html#a5fddd281a9f9cd10cf3948d4bf7b626f">Visit</a> (<a class="el" href="../../d6/d06/a00572.html#ae35a7f6754cf9950d0027369ada820e7">PlayerMapType</a> &amp;m)</td></tr>
-<tr class="separator:a5fddd281a9f9cd10cf3948d4bf7b626f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a83d86364ef2f9f9ed55b9bf9aa9bea0d"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/daf/a09232.html#a83d86364ef2f9f9ed55b9bf9aa9bea0d">Visit</a> (<a class="el" href="../../d6/d06/a00572.html#ac60ef2e7adf9bc71b50d675b4b74980b">CreatureMapType</a> &amp;m)</td></tr>
-<tr class="separator:a83d86364ef2f9f9ed55b9bf9aa9bea0d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a92f9b0407e609b6c61f10d93aa49912f"><td class="memTemplParams" colspan="2">template&lt;class NOT_INTERESTED &gt; </td></tr>
-<tr class="memitem:a92f9b0407e609b6c61f10d93aa49912f"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../dd/daf/a09232.html#a92f9b0407e609b6c61f10d93aa49912f">Visit</a> (<a class="el" href="../../dd/d59/a09076.html">GridRefMgr</a>&lt; NOT_INTERESTED &gt; &amp;)</td></tr>
-<tr class="separator:a92f9b0407e609b6c61f10d93aa49912f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a79dd3983b007d982bbb1f0b33c5c7a54"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/daf/a09232.html#a79dd3983b007d982bbb1f0b33c5c7a54">GameObjectWorker</a> (<a class="el" href="../../d5/d99/a08396.html">WorldObject</a> const *searcher, Functor &amp;func)</td></tr>
+<tr class="separator:a79dd3983b007d982bbb1f0b33c5c7a54"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a754197d7a9aa3203cda964cbee81ae9a"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/daf/a09232.html#a754197d7a9aa3203cda964cbee81ae9a">Visit</a> (<a class="el" href="../../d0/d0a/a00743.html#aad35d1efe9e8a57f45c0740a89bf9fbf">GameObjectMapType</a> &amp;m)</td></tr>
+<tr class="separator:a754197d7a9aa3203cda964cbee81ae9a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a47a10a6790179eb5b78cbb66dd9d7b54"><td class="memTemplParams" colspan="2">template&lt;class NOT_INTERESTED &gt; </td></tr>
+<tr class="memitem:a47a10a6790179eb5b78cbb66dd9d7b54"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../dd/daf/a09232.html#a47a10a6790179eb5b78cbb66dd9d7b54">Visit</a> (<a class="el" href="../../d9/ddc/a09092.html">GridRefMgr</a>&lt; NOT_INTERESTED &gt; &amp;)</td></tr>
+<tr class="separator:a47a10a6790179eb5b78cbb66dd9d7b54"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
-Public Attributes</h2></td></tr>
-<tr class="memitem:a43c863350bea423cf4a720c4c680fd4c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/daf/a04412.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/daf/a09232.html#a43c863350bea423cf4a720c4c680fd4c">i_phaseMask</a></td></tr>
-<tr class="separator:a43c863350bea423cf4a720c4c680fd4c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a508a47e6261e7ae6e5669aee853ff99e"><td class="memItemLeft" align="right" valign="top">Check &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/daf/a09232.html#a508a47e6261e7ae6e5669aee853ff99e">i_check</a></td></tr>
-<tr class="separator:a508a47e6261e7ae6e5669aee853ff99e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="inherited" name="inherited"></a>
-Additional Inherited Members</h2></td></tr>
-<tr class="inherit_header pro_methods_a09188"><td colspan="2" onclick="javascript:toggleInherit('pro_methods_a09188')"><img src="../../closed.png" alt="-"/>&#160;Protected Member Functions inherited from <a class="el" href="../../db/d9f/a09188.html">Acore::ContainerInserter&lt; Unit * &gt;</a></td></tr>
-<tr class="memitem:a44cd545e2965b309c48d40f4617bc38e inherit pro_methods_a09188"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d9f/a09188.html#a44cd545e2965b309c48d40f4617bc38e">ContainerInserter</a> (T &amp;ref_)</td></tr>
-<tr class="separator:a44cd545e2965b309c48d40f4617bc38e inherit pro_methods_a09188"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af482d9f7940d548193fc56839bc2cb87 inherit pro_methods_a09188"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d9f/a09188.html#af482d9f7940d548193fc56839bc2cb87">Insert</a> (<a class="el" href="../../dc/d0b/a08732.html">Unit</a> * type)</td></tr>
-<tr class="separator:af482d9f7940d548193fc56839bc2cb87 inherit pro_methods_a09188"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
+Private Attributes</h2></td></tr>
+<tr class="memitem:abeaa251f909368e3ebeeff4dcefbda94"><td class="memItemLeft" align="right" valign="top">Functor &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/daf/a09232.html#abeaa251f909368e3ebeeff4dcefbda94">_func</a></td></tr>
+<tr class="separator:abeaa251f909368e3ebeeff4dcefbda94"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:accfe66385f5bbfb461d0493c22fde20e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/daf/a09232.html#accfe66385f5bbfb461d0493c22fde20e">_phaseMask</a></td></tr>
+<tr class="separator:accfe66385f5bbfb461d0493c22fde20e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><div class="compoundTemplParams">template&lt;class Check&gt;<br />
-struct Acore::UnitListSearcher&lt; Check &gt;</div></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a24c0de32dc3baa927962626421a343ae" name="a24c0de32dc3baa927962626421a343ae"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a24c0de32dc3baa927962626421a343ae">&#9670;&#160;</a></span>UnitListSearcher()</h2>
+<div class="textblock"><div class="compoundTemplParams">template&lt;class Functor&gt;<br />
+struct Acore::GameObjectWorker&lt; Functor &gt;</div></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="a79dd3983b007d982bbb1f0b33c5c7a54" name="a79dd3983b007d982bbb1f0b33c5c7a54"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a79dd3983b007d982bbb1f0b33c5c7a54">&#9670;&#160;</a></span>GameObjectWorker()</h2>
 
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;class Check &gt; </div>
-<div class="memtemplate">
-template&lt;typename <a class="el" href="../../dd/db2/a00866.html#abe8666ac87665ba963053cdd2b014750a0e7278cda02a9c0446dcc75a4df34eb2">Container</a> &gt; </div>
+template&lt;class Functor &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../dd/daf/a09232.html">Acore::UnitListSearcher</a>&lt; Check &gt;::UnitListSearcher </td>
+          <td class="memname"><a class="el" href="../../dd/daf/a09232.html">Acore::GameObjectWorker</a>&lt; Functor &gt;::GameObjectWorker </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d4/dca/a08384.html">WorldObject</a> const *&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d5/d99/a08396.html">WorldObject</a> const *&#160;</td>
           <td class="paramname"><em>searcher</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../dd/db2/a00866.html#abe8666ac87665ba963053cdd2b014750a0e7278cda02a9c0446dcc75a4df34eb2">Container</a> &amp;&#160;</td>
-          <td class="paramname"><em>container</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">Check &amp;&#160;</td>
-          <td class="paramname"><em>check</em>&#160;</td>
+          <td class="paramtype">Functor &amp;&#160;</td>
+          <td class="paramname"><em>func</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -197,53 +169,58 @@ template&lt;typename <a class="el" href="../../dd/db2/a00866.html#abe8666ac87665
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  429</span>                : ContainerInserter&lt;Unit*&gt;(container),</div>
-<div class="line"><span class="lineno">  430</span>                  <a class="code hl_variable" href="../../dd/daf/a09232.html#a43c863350bea423cf4a720c4c680fd4c">i_phaseMask</a>(searcher-&gt;GetPhaseMask()), <a class="code hl_variable" href="../../dd/daf/a09232.html#a508a47e6261e7ae6e5669aee853ff99e">i_check</a>(check) { }</div>
-<div class="ttc" id="aa09232_html_a43c863350bea423cf4a720c4c680fd4c"><div class="ttname"><a href="../../dd/daf/a09232.html#a43c863350bea423cf4a720c4c680fd4c">Acore::UnitListSearcher::i_phaseMask</a></div><div class="ttdeci">uint32 i_phaseMask</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:424</div></div>
-<div class="ttc" id="aa09232_html_a508a47e6261e7ae6e5669aee853ff99e"><div class="ttname"><a href="../../dd/daf/a09232.html#a508a47e6261e7ae6e5669aee853ff99e">Acore::UnitListSearcher::i_check</a></div><div class="ttdeci">Check &amp; i_check</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:425</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  358</span>            : <a class="code hl_variable" href="../../dd/daf/a09232.html#abeaa251f909368e3ebeeff4dcefbda94">_func</a>(func), <a class="code hl_variable" href="../../dd/daf/a09232.html#accfe66385f5bbfb461d0493c22fde20e">_phaseMask</a>(searcher-&gt;GetPhaseMask()) {}</div>
+<div class="ttc" id="aa09232_html_abeaa251f909368e3ebeeff4dcefbda94"><div class="ttname"><a href="../../dd/daf/a09232.html#abeaa251f909368e3ebeeff4dcefbda94">Acore::GameObjectWorker::_func</a></div><div class="ttdeci">Functor &amp; _func</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:370</div></div>
+<div class="ttc" id="aa09232_html_accfe66385f5bbfb461d0493c22fde20e"><div class="ttname"><a href="../../dd/daf/a09232.html#accfe66385f5bbfb461d0493c22fde20e">Acore::GameObjectWorker::_phaseMask</a></div><div class="ttdeci">uint32 _phaseMask</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:371</div></div>
 </div><!-- fragment -->
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="a83d86364ef2f9f9ed55b9bf9aa9bea0d" name="a83d86364ef2f9f9ed55b9bf9aa9bea0d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a83d86364ef2f9f9ed55b9bf9aa9bea0d">&#9670;&#160;</a></span>Visit() <span class="overload">[1/3]</span></h2>
+<a id="a754197d7a9aa3203cda964cbee81ae9a" name="a754197d7a9aa3203cda964cbee81ae9a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a754197d7a9aa3203cda964cbee81ae9a">&#9670;&#160;</a></span>Visit() <span class="overload">[1/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;class Check &gt; </div>
+template&lt;class Functor &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void <a class="el" href="../../dd/daf/a09232.html">Acore::UnitListSearcher</a>&lt; Check &gt;::Visit </td>
+          <td class="memname">void <a class="el" href="../../dd/daf/a09232.html">Acore::GameObjectWorker</a>&lt; Functor &gt;::Visit </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d6/d06/a00572.html#ac60ef2e7adf9bc71b50d675b4b74980b">CreatureMapType</a> &amp;&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d0/d0a/a00743.html#aad35d1efe9e8a57f45c0740a89bf9fbf">GameObjectMapType</a> &amp;&#160;</td>
           <td class="paramname"><em>m</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  422</span>{</div>
-<div class="line"><span class="lineno">  423</span>    <span class="keywordflow">for</span> (<a class="code hl_class" href="../../d6/dd5/a05228.html">CreatureMapType::iterator</a> itr = m.<a class="code hl_function" href="../../dd/d59/a09076.html#a1e4e67ba11ac8da077942a6581647bf3">begin</a>(); itr != m.<a class="code hl_function" href="../../dd/d59/a09076.html#a266acb421cfc6ccc56dc2acff3202971">end</a>(); ++itr)</div>
-<div class="line"><span class="lineno">  424</span>        <span class="keywordflow">if</span> (itr-&gt;GetSource()-&gt;InSamePhase(<a class="code hl_variable" href="../../dd/daf/a09232.html#a43c863350bea423cf4a720c4c680fd4c">i_phaseMask</a>))</div>
-<div class="line"><span class="lineno">  425</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dd/daf/a09232.html#a508a47e6261e7ae6e5669aee853ff99e">i_check</a>(itr-&gt;GetSource()))</div>
-<div class="line"><span class="lineno">  426</span>                <a class="code hl_function" href="../../db/d9f/a09188.html#af482d9f7940d548193fc56839bc2cb87">Insert</a>(itr-&gt;GetSource());</div>
-<div class="line"><span class="lineno">  427</span>}</div>
-<div class="ttc" id="aa05228_html"><div class="ttname"><a href="../../d6/dd5/a05228.html">LinkedListHead::Iterator</a></div><div class="ttdef"><b>Definition:</b> LinkedList.h:139</div></div>
-<div class="ttc" id="aa09076_html_a1e4e67ba11ac8da077942a6581647bf3"><div class="ttname"><a href="../../dd/d59/a09076.html#a1e4e67ba11ac8da077942a6581647bf3">GridRefMgr::begin</a></div><div class="ttdeci">iterator begin()</div><div class="ttdef"><b>Definition:</b> GridRefMgr.h:35</div></div>
-<div class="ttc" id="aa09076_html_a266acb421cfc6ccc56dc2acff3202971"><div class="ttname"><a href="../../dd/d59/a09076.html#a266acb421cfc6ccc56dc2acff3202971">GridRefMgr::end</a></div><div class="ttdeci">iterator end()</div><div class="ttdef"><b>Definition:</b> GridRefMgr.h:36</div></div>
-<div class="ttc" id="aa09188_html_af482d9f7940d548193fc56839bc2cb87"><div class="ttname"><a href="../../db/d9f/a09188.html#af482d9f7940d548193fc56839bc2cb87">Acore::ContainerInserter&lt; Unit * &gt;::Insert</a></div><div class="ttdeci">void Insert(Unit * type)</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:191</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  361</span>        {</div>
+<div class="line"><span class="lineno">  362</span>            <span class="keywordflow">for</span> (<a class="code hl_class" href="../../d5/d47/a05240.html">GameObjectMapType::iterator</a> itr = m.<a class="code hl_function" href="../../d9/ddc/a09092.html#a1e4e67ba11ac8da077942a6581647bf3">begin</a>(); itr != m.<a class="code hl_function" href="../../d9/ddc/a09092.html#a266acb421cfc6ccc56dc2acff3202971">end</a>(); ++itr)</div>
+<div class="line"><span class="lineno">  363</span>                <span class="keywordflow">if</span> (itr-&gt;GetSource()-&gt;InSamePhase(<a class="code hl_variable" href="../../dd/daf/a09232.html#accfe66385f5bbfb461d0493c22fde20e">_phaseMask</a>))</div>
+<div class="line"><span class="lineno">  364</span>                    <a class="code hl_variable" href="../../dd/daf/a09232.html#abeaa251f909368e3ebeeff4dcefbda94">_func</a>(itr-&gt;GetSource());</div>
+<div class="line"><span class="lineno">  365</span>        }</div>
+<div class="ttc" id="aa05240_html"><div class="ttname"><a href="../../d5/d47/a05240.html">LinkedListHead::Iterator</a></div><div class="ttdef"><b>Definition:</b> LinkedList.h:139</div></div>
+<div class="ttc" id="aa09092_html_a1e4e67ba11ac8da077942a6581647bf3"><div class="ttname"><a href="../../d9/ddc/a09092.html#a1e4e67ba11ac8da077942a6581647bf3">GridRefMgr::begin</a></div><div class="ttdeci">iterator begin()</div><div class="ttdef"><b>Definition:</b> GridRefMgr.h:35</div></div>
+<div class="ttc" id="aa09092_html_a266acb421cfc6ccc56dc2acff3202971"><div class="ttname"><a href="../../d9/ddc/a09092.html#a266acb421cfc6ccc56dc2acff3202971">GridRefMgr::end</a></div><div class="ttdeci">iterator end()</div><div class="ttdef"><b>Definition:</b> GridRefMgr.h:36</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00035">GridRefMgr&lt; OBJECT &gt;::begin()</a>, <a class="el" href="../../#l00036">GridRefMgr&lt; OBJECT &gt;::end()</a>, and <a class="el" href="../../#l00034">Acore::Insert()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00370">Acore::GameObjectWorker&lt; Functor &gt;::_func</a>, <a class="el" href="../../#l00371">Acore::GameObjectWorker&lt; Functor &gt;::_phaseMask</a>, <a class="el" href="../../#l00035">GridRefMgr&lt; OBJECT &gt;::begin()</a>, and <a class="el" href="../../#l00036">GridRefMgr&lt; OBJECT &gt;::end()</a>.</p>
 
 </div>
 </div>
-<a id="a92f9b0407e609b6c61f10d93aa49912f" name="a92f9b0407e609b6c61f10d93aa49912f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a92f9b0407e609b6c61f10d93aa49912f">&#9670;&#160;</a></span>Visit() <span class="overload">[2/3]</span></h2>
+<a id="a47a10a6790179eb5b78cbb66dd9d7b54" name="a47a10a6790179eb5b78cbb66dd9d7b54"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a47a10a6790179eb5b78cbb66dd9d7b54">&#9670;&#160;</a></span>Visit() <span class="overload">[2/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;class Check &gt; </div>
+template&lt;class Functor &gt; </div>
 <div class="memtemplate">
 template&lt;class NOT_INTERESTED &gt; </div>
 <table class="mlabels">
@@ -251,9 +228,9 @@ template&lt;class NOT_INTERESTED &gt; </div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void <a class="el" href="../../dd/daf/a09232.html">Acore::UnitListSearcher</a>&lt; Check &gt;::Visit </td>
+          <td class="memname">void <a class="el" href="../../dd/daf/a09232.html">Acore::GameObjectWorker</a>&lt; Functor &gt;::Visit </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../dd/d59/a09076.html">GridRefMgr</a>&lt; NOT_INTERESTED &gt; &amp;&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d9/ddc/a09092.html">GridRefMgr</a>&lt; NOT_INTERESTED &gt; &amp;&#160;</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
@@ -264,68 +241,60 @@ template&lt;class NOT_INTERESTED &gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  435</span>{}</div>
+<div class="fragment"><div class="line"><span class="lineno">  367</span>{}</div>
 </div><!-- fragment -->
-</div>
-</div>
-<a id="a5fddd281a9f9cd10cf3948d4bf7b626f" name="a5fddd281a9f9cd10cf3948d4bf7b626f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5fddd281a9f9cd10cf3948d4bf7b626f">&#9670;&#160;</a></span>Visit() <span class="overload">[3/3]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;class Check &gt; </div>
-      <table class="memname">
-        <tr>
-          <td class="memname">void <a class="el" href="../../dd/daf/a09232.html">Acore::UnitListSearcher</a>&lt; Check &gt;::Visit </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d6/d06/a00572.html#ae35a7f6754cf9950d0027369ada820e7">PlayerMapType</a> &amp;&#160;</td>
-          <td class="paramname"><em>m</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  413</span>{</div>
-<div class="line"><span class="lineno">  414</span>    <span class="keywordflow">for</span> (<a class="code hl_class" href="../../d6/dd5/a05228.html">PlayerMapType::iterator</a> itr = m.<a class="code hl_function" href="../../dd/d59/a09076.html#a1e4e67ba11ac8da077942a6581647bf3">begin</a>(); itr != m.<a class="code hl_function" href="../../dd/d59/a09076.html#a266acb421cfc6ccc56dc2acff3202971">end</a>(); ++itr)</div>
-<div class="line"><span class="lineno">  415</span>        <span class="keywordflow">if</span> (itr-&gt;GetSource()-&gt;InSamePhase(<a class="code hl_variable" href="../../dd/daf/a09232.html#a43c863350bea423cf4a720c4c680fd4c">i_phaseMask</a>))</div>
-<div class="line"><span class="lineno">  416</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dd/daf/a09232.html#a508a47e6261e7ae6e5669aee853ff99e">i_check</a>(itr-&gt;GetSource()))</div>
-<div class="line"><span class="lineno">  417</span>                <a class="code hl_function" href="../../db/d9f/a09188.html#af482d9f7940d548193fc56839bc2cb87">Insert</a>(itr-&gt;GetSource());</div>
-<div class="line"><span class="lineno">  418</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00035">GridRefMgr&lt; OBJECT &gt;::begin()</a>, <a class="el" href="../../#l00036">GridRefMgr&lt; OBJECT &gt;::end()</a>, and <a class="el" href="../../#l00034">Acore::Insert()</a>.</p>
-
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a508a47e6261e7ae6e5669aee853ff99e" name="a508a47e6261e7ae6e5669aee853ff99e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a508a47e6261e7ae6e5669aee853ff99e">&#9670;&#160;</a></span>i_check</h2>
+<a id="abeaa251f909368e3ebeeff4dcefbda94" name="abeaa251f909368e3ebeeff4dcefbda94"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abeaa251f909368e3ebeeff4dcefbda94">&#9670;&#160;</a></span>_func</h2>
 
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;class Check &gt; </div>
+template&lt;class Functor &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">Check&amp; <a class="el" href="../../dd/daf/a09232.html">Acore::UnitListSearcher</a>&lt; Check &gt;::i_check</td>
+          <td class="memname">Functor&amp; <a class="el" href="../../dd/daf/a09232.html">Acore::GameObjectWorker</a>&lt; Functor &gt;::_func</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00360">Acore::GameObjectWorker&lt; Functor &gt;::Visit()</a>.</p>
 
 </div>
 </div>
-<a id="a43c863350bea423cf4a720c4c680fd4c" name="a43c863350bea423cf4a720c4c680fd4c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a43c863350bea423cf4a720c4c680fd4c">&#9670;&#160;</a></span>i_phaseMask</h2>
+<a id="accfe66385f5bbfb461d0493c22fde20e" name="accfe66385f5bbfb461d0493c22fde20e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#accfe66385f5bbfb461d0493c22fde20e">&#9670;&#160;</a></span>_phaseMask</h2>
 
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;class Check &gt; </div>
+template&lt;class Functor &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../db/daf/a04412.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> <a class="el" href="../../dd/daf/a09232.html">Acore::UnitListSearcher</a>&lt; Check &gt;::i_phaseMask</td>
+          <td class="memname"><a class="el" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> <a class="el" href="../../dd/daf/a09232.html">Acore::GameObjectWorker</a>&lt; Functor &gt;::_phaseMask</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00360">Acore::GameObjectWorker&lt; Functor &gt;::Visit()</a>.</p>
 
 </div>
 </div>
@@ -334,8 +303,8 @@ template&lt;class Check &gt; </div>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d6/df5/a04770.html">Acore</a></li><li class="navelem"><a class="el" href="../../dd/daf/a09232.html">UnitListSearcher</a></li>
-    <li class="footer">Generated on Mon Jul 7 2025 20:49:43 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../db/da6/a04782.html">Acore</a></li><li class="navelem"><a class="el" href="../../dd/daf/a09232.html">GameObjectWorker</a></li>
+    <li class="footer">Generated on Mon Aug 11 2025 20:49:01 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

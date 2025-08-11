@@ -1,6 +1,6 @@
 var a12192 =
 [
-    [ "go_chromaggus_leverAI", "da/d54/a12192.html#a51406a7e313702282cebfbf067c9ce4e", null ],
-    [ "GossipHello", "da/d54/a12192.html#a44ece597fcfcf290234cc1ef073fbf18", null ],
-    [ "_instance", "da/d54/a12192.html#a364f66c7cf0a7bc4a3ea97b87ebe9f90", null ]
+    [ "npc_vaelastrasz_the_redAI", "d3/d6b/a12196.html", "d3/d6b/a12196" ],
+    [ "npc_vaelastrasz_the_red", "da/d54/a12192.html#af39fcaa29b200e3b7933f97de277df6b", null ],
+    [ "GetAI", "da/d54/a12192.html#a59e7630d5060986dc4209d2d2b5ef42b", null ]
 ];

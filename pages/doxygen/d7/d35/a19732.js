@@ -1,6 +1,8 @@
 var a19732 =
 [
-    [ "boss_steelbreakerAI", "d6/da1/a19736.html", "d6/da1/a19736" ],
-    [ "boss_steelbreaker", "d7/d35/a19732.html#af6e4c3729874e59959b35ca67a46aa44", null ],
-    [ "GetAI", "d7/d35/a19732.html#ac4189ffbba997719fb36a10ecdabd26c", null ]
+    [ "HandlePeriodic", "d7/d35/a19732.html#a2724a85983561a14db8b06ae492ead55", null ],
+    [ "OnRemove", "d7/d35/a19732.html#a6d0f941f30d8c850e48396fffd13768d", null ],
+    [ "PrepareAuraScript", "d7/d35/a19732.html#aea9d38dc7fdff6d38d252bb5ded57d78", null ],
+    [ "Register", "d7/d35/a19732.html#a85270947972be9c299a642b31969ef68", null ],
+    [ "Validate", "d7/d35/a19732.html#a91ebb4e69d02deb5129965f543c474d1", null ]
 ];

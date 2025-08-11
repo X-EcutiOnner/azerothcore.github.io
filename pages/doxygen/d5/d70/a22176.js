@@ -1,6 +1,5 @@
 var a22176 =
 [
-    [ "npc_jungle_punch_targetAI", "dc/d0e/a22180.html", "dc/d0e/a22180" ],
-    [ "npc_jungle_punch_target", "d5/d70/a22176.html#a69220634d9d6b84e464cdc4e0cba91a7", null ],
-    [ "GetAI", "d5/d70/a22176.html#abb38ccb55abfe0f48f360469031c6902", null ]
+    [ "go_pressure_valve", "d5/d70/a22176.html#a43a91a1379001ecd3e825d7d4fcd3c6b", null ],
+    [ "OnGossipHello", "d5/d70/a22176.html#a6b81a04a33cd5e1e577fc80a3b1f706c", null ]
 ];

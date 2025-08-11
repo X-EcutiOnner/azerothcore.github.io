@@ -1,7 +1,6 @@
 var a14488 =
 [
-    [ "GetVisualThrow", "d5/dac/a14488.html#afe59e0c21eaa06e2b1d614613b1d2f73", null ],
-    [ "HandleDummy", "d5/dac/a14488.html#adca1aacf89dcf452f1c98cae97f09690", null ],
-    [ "PrepareSpellScript", "d5/dac/a14488.html#a642f2d3992e7e3a4393d2b0c6b521597", null ],
-    [ "Register", "d5/dac/a14488.html#a68a6e9b307500a56e66bc19c41daf9dc", null ]
+    [ "HandleAfterEffectApply", "d5/dac/a14488.html#a54b406a450bb2b56cd32ee152ea1414e", null ],
+    [ "PrepareAuraScript", "d5/dac/a14488.html#a917379c33352721b5b76c1d9dac0c025", null ],
+    [ "Register", "d5/dac/a14488.html#a846d79564d76d6000c2276045775d7da", null ]
 ];

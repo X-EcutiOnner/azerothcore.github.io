@@ -1,6 +1,6 @@
 var a13016 =
 [
-    [ "boss_darkmaster_gandlingAI", "d5/d4b/a13020.html", "d5/d4b/a13020" ],
-    [ "boss_darkmaster_gandling", "d8/d01/a13016.html#a6db73fa3c8324f6bfdcb1ae6a72ee39b", null ],
-    [ "GetAI", "d8/d01/a13016.html#a21ea53862614303af31a517a53d1fbf6", null ]
+    [ "OnRemove", "d8/d01/a13016.html#aedad236b202300eee0925e3600b87bfa", null ],
+    [ "PrepareAuraScript", "d8/d01/a13016.html#acfdeb98e274989e378d4d4c800306a24", null ],
+    [ "Register", "d8/d01/a13016.html#a0d820ca108e3aabe87ab5867d997264c", null ]
 ];

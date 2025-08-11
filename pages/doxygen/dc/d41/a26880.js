@@ -1,7 +1,7 @@
 var a26880 =
 [
-    [ "HandleDummy", "dc/d41/a26880.html#a3af91500357eb127f813334bdf538dbd", null ],
-    [ "PrepareSpellScript", "dc/d41/a26880.html#ae34ff5e6027efecc34fa770690df5887", null ],
-    [ "Register", "dc/d41/a26880.html#add4e4d484008d1e1cf63e36c6b6e9757", null ],
-    [ "Validate", "dc/d41/a26880.html#a0b107442c0b76a018cc019f776c0b785", null ]
+    [ "HandleApply", "dc/d41/a26880.html#a046abc4b8afd26d13bcb7140165aed80", null ],
+    [ "HandleRemove", "dc/d41/a26880.html#ad35716d4210572057fe67d426849931a", null ],
+    [ "PrepareAuraScript", "dc/d41/a26880.html#a9af96871b8b7ac19de01e316f4350ebf", null ],
+    [ "Register", "dc/d41/a26880.html#a37c4c881c563882fb72693babe545fc4", null ]
 ];

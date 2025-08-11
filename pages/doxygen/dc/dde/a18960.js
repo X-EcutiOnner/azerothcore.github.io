@@ -1,7 +1,7 @@
 var a18960 =
 [
-    [ "HandleScriptEffect", "dc/dde/a18960.html#afa9d5c6fd0666a7fa1a6f4d5acabe782", null ],
-    [ "PrepareSpellScript", "dc/dde/a18960.html#a21a3175346c9b12c02205f2d33da3b86", null ],
-    [ "Register", "dc/dde/a18960.html#af5f279ad20e9153f201262eaa7615978", null ],
-    [ "Validate", "dc/dde/a18960.html#a635ff34619767f657778016e1eb901aa", null ]
+    [ "HandleScript", "dc/dde/a18960.html#a2e5311b631a4cbf6002e27e4a806280c", null ],
+    [ "Launch", "dc/dde/a18960.html#a575a7bf98b629dd91e7ca96e388eb8fd", null ],
+    [ "PrepareSpellScript", "dc/dde/a18960.html#ad65642fd7e8b7793f69d041d458fa33f", null ],
+    [ "Register", "dc/dde/a18960.html#aa8800d8fc050f2914d63c24e555aad4b", null ]
 ];

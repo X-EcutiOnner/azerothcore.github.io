@@ -1,6 +1,7 @@
 var a26520 =
 [
-    [ "CheckProc", "d8/d9d/a26520.html#a4e40a3472a7dde5aaa1d6d4cda54482a", null ],
-    [ "PrepareAuraScript", "d8/d9d/a26520.html#af15109e926eb717c3f3cb2f7f617428c", null ],
-    [ "Register", "d8/d9d/a26520.html#aee35ceec1ffcdebf5bd712310bdf9f1c", null ]
+    [ "HandleDummy", "d8/d9d/a26520.html#ab046ef0adc63c32a153ba4ea866f8dcd", null ],
+    [ "PrepareSpellScript", "d8/d9d/a26520.html#ac293d1c1aac41808f81cad2974424c2e", null ],
+    [ "Register", "d8/d9d/a26520.html#ab145e1826eb63d0b6b1ea39a6c3c4d36", null ],
+    [ "Validate", "d8/d9d/a26520.html#aa725a6ee483dfac46724d291de4ee54b", null ]
 ];

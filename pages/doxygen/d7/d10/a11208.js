@@ -1,7 +1,8 @@
 var a11208 =
 [
-    [ "CategoryRecoveryTime", "d7/d10/a11208.html#a5a089aa55b5db1f3e3d3fa0ff61bbfdd", null ],
-    [ "RecoveryTime", "d7/d10/a11208.html#ac0e514cfe760baf23f4f05d871e6779a", null ],
-    [ "StartRecoveryCategory", "d7/d10/a11208.html#abb7ca704f04612ddcec3e2e52470ca77", null ],
-    [ "StartRecoveryTime", "d7/d10/a11208.html#a3155069a4ef8d87d4c952f92df2ec42d", null ]
+    [ "target_mapId", "d7/d10/a11208.html#a6dbbb558810388e0d051d84a0279a444", null ],
+    [ "target_Orientation", "d7/d10/a11208.html#a7e30264eff9ece771dfaa421ef987b2a", null ],
+    [ "target_X", "d7/d10/a11208.html#aa78b3d4cfb4277bcb1bf6a31ffc87546", null ],
+    [ "target_Y", "d7/d10/a11208.html#a6f432d8770adebf513346713b7890b5c", null ],
+    [ "target_Z", "d7/d10/a11208.html#a3af706b81f8fbef12277c518964f717a", null ]
 ];

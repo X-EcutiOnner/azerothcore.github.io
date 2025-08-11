@@ -1,6 +1,6 @@
 var a21776 =
 [
-    [ "npc_q24545_lich_kingAI", "da/deb/a21780.html", "da/deb/a21780" ],
-    [ "npc_q24545_lich_king", "d1/d0f/a21776.html#a1864564dee4f66f1b29850b8b0f6fa29", null ],
-    [ "GetAI", "d1/d0f/a21776.html#aade5ad8ba215d0571185596aa40cf9b2", null ]
+    [ "npc_injured_7th_legion_soldierAI", "d1/d0f/a21776.html#a6929ef42a003f1337d71f9b23fa37c6e", null ],
+    [ "MovementInform", "d1/d0f/a21776.html#a999bc868db485578fcc70ae7e056b778", null ],
+    [ "Reset", "d1/d0f/a21776.html#a3021c037acdb141fc3ca4d6f3b146bbf", null ]
 ];

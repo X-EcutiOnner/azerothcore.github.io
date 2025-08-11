@@ -1,6 +1,7 @@
 var a16164 =
 [
-    [ "HandleScript", "df/dac/a16164.html#a647f39eb125537cd7545ab4115be1091", null ],
-    [ "PrepareSpellScript", "df/dac/a16164.html#a55dec84643f9bd536c7c73b5909ab303", null ],
-    [ "Register", "df/dac/a16164.html#a0077abbe11092b9636c3bb7b5c367946", null ]
+    [ "TwilightCutterSelector", "df/dac/a16164.html#accea6e932c44d083fbb4dc41c5102b3d", null ],
+    [ "operator()", "df/dac/a16164.html#a6374425df156bdf202d53a2c73ef784c", null ],
+    [ "_caster", "df/dac/a16164.html#a784c95ef6472e711f4200f194222d179", null ],
+    [ "_cutterCaster", "df/dac/a16164.html#a7f713777a36a8d127c2865e4610b1288", null ]
 ];

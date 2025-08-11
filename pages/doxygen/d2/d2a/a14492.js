@@ -1,6 +1,5 @@
 var a14492 =
 [
-    [ "HandleDummy", "d2/d2a/a14492.html#aa75140309e66c28590a64e10676356da", null ],
-    [ "PrepareSpellScript", "d2/d2a/a14492.html#a21c4872e16c18c2918dfbea366e61df3", null ],
-    [ "Register", "d2/d2a/a14492.html#a841c9277224cbae878946deb288b87a1", null ]
+    [ "PrepareSpellScript", "d2/d2a/a14492.html#a3e1c670bbc7efb86b95a34ee3c8ba059", null ],
+    [ "Register", "d2/d2a/a14492.html#a06111bf70ee53fee6e90284f8d92642e", null ]
 ];

@@ -1,5 +1,7 @@
 var a20000 =
 [
-    [ "achievement_flame_leviathan_unbroken", "d9/d70/a20000.html#a30a94a92aacc558d6833994c11f3ee8a", null ],
-    [ "OnCheck", "d9/d70/a20000.html#a78c69e3217b6598ab238a4f51ba598eb", null ]
+    [ "HandleScript", "d9/d70/a20000.html#a9580f04e1543262026818f0944bb96c3", null ],
+    [ "PrepareSpellScript", "d9/d70/a20000.html#a924ae640d448da777ce3ecb059c1c9b6", null ],
+    [ "Register", "d9/d70/a20000.html#ac05e58e9b5618b1f079bd1c4924a0f9f", null ],
+    [ "Validate", "d9/d70/a20000.html#a8fc8712a76939dea6831a9eb5b95f946", null ]
 ];

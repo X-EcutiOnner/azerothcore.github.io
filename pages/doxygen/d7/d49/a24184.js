@@ -1,6 +1,6 @@
 var a24184 =
 [
-    [ "npc_lord_illidan_stormrageAI", "d9/d49/a24188.html", "d9/d49/a24188" ],
-    [ "npc_lord_illidan_stormrage", "d7/d49/a24184.html#ad2f213749e170ec4f9903396d132f5f3", null ],
-    [ "GetAI", "d7/d49/a24184.html#a9aaedc4326b90621965dad522f4af897", null ]
+    [ "npc_drake_dealer_hurlunk", "d7/d49/a24184.html#ae6d095365d23c30d5b772b047b459ddb", null ],
+    [ "OnGossipHello", "d7/d49/a24184.html#ad04b7f906f029d9935e29c585b0de421", null ],
+    [ "OnGossipSelect", "d7/d49/a24184.html#aa23833dcdefb909899120c25d5376111", null ]
 ];

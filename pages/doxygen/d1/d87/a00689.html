@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/Battlegrounds/BattlegroundMgr.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/game/Combat/ThreatMgr.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -104,53 +104,90 @@ $(document).ready(function(){initNavTree('d1/d87/a00689.html','../../'); initRes
 </div>
 
 <div class="header">
-  <div class="headertitle"><div class="title">BattlegroundMgr.cpp File Reference</div></div>
+  <div class="summary">
+<a href="#nested-classes">Classes</a> &#124;
+<a href="#namespaces">Namespaces</a> &#124;
+<a href="#define-members">Macros</a> &#124;
+<a href="#typedef-members">Typedefs</a>  </div>
+  <div class="headertitle"><div class="title">ThreatMgr.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">BattlegroundMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ArenaTeam.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ArenaTeamMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">BattlegroundAB.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">BattlegroundAV.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">BattlegroundBE.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">BattlegroundDS.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">BattlegroundEY.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">BattlegroundIC.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">BattlegroundNA.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">BattlegroundQueue.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">BattlegroundRL.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">BattlegroundRV.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">BattlegroundSA.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">BattlegroundWS.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Chat.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Common.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">DisableMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Formulas.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">GameEventMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">GameGraveyard.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">GameTime.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Map.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">MapMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">MiscPackets.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ObjectMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Opcodes.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ScriptMgr.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">IteratorPair.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ObjectGuid.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Reference.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">SharedDefines.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">World.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">WorldPacket.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">WorldState.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">WorldStateDefines.h</a>&quot;</code><br />
-<code>#include &lt;unordered_map&gt;</code><br />
+<code>#include &quot;<a class="el" href="../../">UnitEvents.h</a>&quot;</code><br />
+<code>#include &lt;list&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
+<table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
+Classes</h2></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d32/a07820.html">ThreatCalcHelper</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/da0/a07824.html">HostileReference</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d63/a07828.html">ThreatContainer</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d8c/a07832.html">ThreatMgr</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d14/a07836.html">RedirectThreatInfo</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d49/a07840.html">Acore::ThreatOrderPred</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
+Namespaces</h2></td></tr>
+<tr class="memitem:db/da6/a04782"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/da6/a04782.html">Acore</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
+Macros</h2></td></tr>
+<tr class="memitem:a7173807ed06286e3a91f0497a3588f6b"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d87/a00689.html#a7173807ed06286e3a91f0497a3588f6b">THREAT_UPDATE_INTERVAL</a>&#160;&#160;&#160;2 * <a class="el" href="../../da/d71/a04649.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a></td></tr>
+<tr class="separator:a7173807ed06286e3a91f0497a3588f6b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="typedef-members" name="typedef-members"></a>
+Typedefs</h2></td></tr>
+<tr class="memitem:a62695703be4c945be07f18d2fe6a9a18"><td class="memItemLeft" align="right" valign="top">typedef <a class="el" href="../../de/da0/a07824.html">HostileReference</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d87/a00689.html#a62695703be4c945be07f18d2fe6a9a18">ThreatReference</a></td></tr>
+<tr class="separator:a62695703be4c945be07f18d2fe6a9a18"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table>
+<h2 class="groupheader">Macro Definition Documentation</h2>
+<a id="a7173807ed06286e3a91f0497a3588f6b" name="a7173807ed06286e3a91f0497a3588f6b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7173807ed06286e3a91f0497a3588f6b">&#9670;&#160;</a></span>THREAT_UPDATE_INTERVAL</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define THREAT_UPDATE_INTERVAL&#160;&#160;&#160;2 * <a class="el" href="../../da/d71/a04649.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<h2 class="groupheader">Typedef Documentation</h2>
+<a id="a62695703be4c945be07f18d2fe6a9a18" name="a62695703be4c945be07f18d2fe6a9a18"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a62695703be4c945be07f18d2fe6a9a18">&#9670;&#160;</a></span>ThreatReference</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">typedef <a class="el" href="../../de/da0/a07824.html">HostileReference</a> <a class="el" href="../../d1/d87/a00689.html#a62695703be4c945be07f18d2fe6a9a18">ThreatReference</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_fc52f0b797d74b4b54bfd04593b84648.html">Battlegrounds</a></li><li class="navelem"><a class="el" href="../../d1/d87/a00689.html">BattlegroundMgr.cpp</a></li>
-    <li class="footer">Generated on Mon Aug 4 2025 20:50:07 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_6b63bbd5ab28cd54e716b5236a19bef7.html">Combat</a></li><li class="navelem"><a class="el" href="../../d1/d87/a00689.html">ThreatMgr.h</a></li>
+    <li class="footer">Generated on Mon Aug 11 2025 20:46:39 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

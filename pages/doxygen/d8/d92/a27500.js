@@ -1,6 +1,11 @@
 var a27500 =
 [
-    [ "spawnedCreatureEntry", "d8/d92/a27500.html#a32b390dfff99d5fd3c49359779718af4", null ],
-    [ "spawnType", "d8/d92/a27500.html#a056dabf4092da4ef3155a661607ca772", null ],
-    [ "thisCreatureEntry", "d8/d92/a27500.html#a97d3cd7c2751fe85d9724ff1f808ba98", null ]
+    [ "npc_franklinAI", "d8/d92/a27500.html#a8385d2e39f2d051553cf84a54f3bc5ad", null ],
+    [ "DamageTaken", "d8/d92/a27500.html#afa494098126ce3291e234cfc2b36336f", null ],
+    [ "JustEngagedWith", "d8/d92/a27500.html#ab15fc7bcd912a6c583d4c219ba37c756", null ],
+    [ "Reset", "d8/d92/a27500.html#a51a260460facf06ec6bb1486f434d885", null ],
+    [ "ScheduleEncounterStart", "d8/d92/a27500.html#a2dcd6d0467eada6bd0d244e275c07d22", null ],
+    [ "SpellHit", "d8/d92/a27500.html#aed6b5cfccbbe258f501b2da5c9dadb40", null ],
+    [ "UpdateAI", "d8/d92/a27500.html#a8c3158b1e6c482dd82a6326954b8bbc5", null ],
+    [ "events", "d8/d92/a27500.html#a2f72f9659aa62f80c5d8159df0d14e9f", null ]
 ];

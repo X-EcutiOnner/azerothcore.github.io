@@ -1,21 +1,13 @@
 var a13164 =
 [
-    [ "instance_sunken_temple_InstanceMapScript", "dd/d19/a13164.html#a7c686c287e8fedd53c2a22afd5721656", null ],
-    [ "GetData", "dd/d19/a13164.html#aa6247ca0f46a680373601bae1308b94d", null ],
-    [ "Initialize", "dd/d19/a13164.html#a31b05a8c4e90cbb17dc5d82b79d49b47", null ],
-    [ "OnCreatureCreate", "dd/d19/a13164.html#ae57762cc1a5555f0532cf630179d2840", null ],
-    [ "OnGameObjectCreate", "dd/d19/a13164.html#afce97e50bbc6d935c183b1ed21f6c993", null ],
-    [ "OnUnitDeath", "dd/d19/a13164.html#a4991152894573857021bc3b1fe632a06", null ],
-    [ "ReadSaveDataMore", "dd/d19/a13164.html#af97a2dc80ff18b4258e2137c60c5983d", null ],
-    [ "SetData", "dd/d19/a13164.html#ad87da3eb261f03d36d7520dc20d8b1b9", null ],
-    [ "Update", "dd/d19/a13164.html#aa4ffd7ee39e413c7486eea1d738be522", null ],
-    [ "WriteSaveDataMore", "dd/d19/a13164.html#a2d8da39156e465ec987c518e747f453b", null ],
-    [ "_defendersKilled", "dd/d19/a13164.html#abb53f597c52726680dd20f4946dc363b", null ],
-    [ "_dragonkinList", "dd/d19/a13164.html#a92ccf87798e87caf106e274169ef9d6e", null ],
-    [ "_encounters", "dd/d19/a13164.html#a616b3762e7400b17bb6fc1f3b0a8f2a9", null ],
-    [ "_events", "dd/d19/a13164.html#af535a80d3e92a9ff42c6d9edaa989a44", null ],
-    [ "_forcefieldGUID", "dd/d19/a13164.html#a57d520ed6f16c3f881f892e7578ad378", null ],
-    [ "_jammalanGUID", "dd/d19/a13164.html#ab51ad8cd98d085811aa2c02494de3a7c", null ],
-    [ "_shadeOfEranikusGUID", "dd/d19/a13164.html#a4550fd5b2e3dcca1e0d6ff46885ae4c0", null ],
-    [ "_statuePhase", "dd/d19/a13164.html#aaeb98dc1aad0d16142325c4d5a5cbf8e", null ]
+    [ "instance_shadowfang_keep_InstanceMapScript", "dd/d19/a13164.html#aabb179f16f6a61d1cfc842482880ea0b", null ],
+    [ "Initialize", "dd/d19/a13164.html#a8381b4ead52e3515359cc2c10d52c29a", null ],
+    [ "OnCreatureCreate", "dd/d19/a13164.html#a3f9cca96886b97f7657edc04f4997d41", null ],
+    [ "OnGameObjectCreate", "dd/d19/a13164.html#ad420b6b549b8d76a80844d81548b1143", null ],
+    [ "ReadSaveDataMore", "dd/d19/a13164.html#a83a24703aafb973809618d3ac3ac0375", null ],
+    [ "SetData", "dd/d19/a13164.html#abdc105e9306d9abc776259be97e2488f", null ],
+    [ "WriteSaveDataMore", "dd/d19/a13164.html#a8be19e9a77d3796d3c09e75c5b31c19c", null ],
+    [ "_apothecaryHummel", "dd/d19/a13164.html#a3f77ecd2edf0989fcb957b56153807eb", null ],
+    [ "_crazedApothecaryGeneratorGUIDs", "dd/d19/a13164.html#a00880eedbbc2deb4dc36e4c851558861", null ],
+    [ "_encounters", "dd/d19/a13164.html#acfc196d008166d7b9da9b85c1ef4521e", null ]
 ];

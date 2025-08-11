@@ -1,26 +1,8 @@
 var a00014 =
 [
-    [ "AC_API_EXPORT", "d2/de7/a00014.html#a2c5b5e664ed3daebece45d89595e3105", null ],
-    [ "AC_API_IMPORT", "d2/de7/a00014.html#ae8a7a9ab4a727295d96a5645d592be1a", null ],
-    [ "AC_COMMON_API", "d2/de7/a00014.html#aae2dc50bce825b002235487401b252e8", null ],
-    [ "AC_DATABASE_API", "d2/de7/a00014.html#a4239bd747d930d5084e8f6e489980585", null ],
-    [ "AC_GAME_API", "d2/de7/a00014.html#a00a04eccc2ca042486601576eccae409", null ],
-    [ "AC_SHARED_API", "d2/de7/a00014.html#a0bf4fe16e9c0242e08723860b589d648", null ],
-    [ "ACORE_BIGENDIAN", "d2/de7/a00014.html#a1ea3ec26cc8112e6b4750ed2e3099e23", null ],
-    [ "ACORE_ENDIAN", "d2/de7/a00014.html#a31363a4567529bac0c62af57b8249f37", null ],
-    [ "ACORE_INLINE", "d2/de7/a00014.html#ae4e9017a1f7c4a30d42240994c73707d", null ],
-    [ "ACORE_LITTLEENDIAN", "d2/de7/a00014.html#aa52f254470010db28f546a042d5d2dd3", null ],
-    [ "ACORE_PATH_MAX", "d2/de7/a00014.html#a0e8f3cfd1a18017c3996550aed13d45b", null ],
-    [ "ATTR_PRINTF", "d2/de7/a00014.html#a9fb5e8106efcc99703798f63ee0ee655", null ],
-    [ "SI64LIT", "d2/de7/a00014.html#a9fb461803e0a17b90422b7166f79bd87", null ],
-    [ "STRING_VIEW_FMT_ARG", "d2/de7/a00014.html#a426f0c72f52eca709249d5962bf31b6d", null ],
-    [ "UI64LIT", "d2/de7/a00014.html#abf772f43caa1c9ba44098b6bf2bf355c", null ],
-    [ "int16", "d2/de7/a00014.html#aecf4e3680a32207d17f62a3426731878", null ],
-    [ "int32", "d2/de7/a00014.html#a0bf9964a3ce962c07ad3d8b5432bbbcd", null ],
-    [ "int64", "d2/de7/a00014.html#ad7a3bd3be7bd59e7fb6337fcbc956eb1", null ],
-    [ "int8", "d2/de7/a00014.html#a3bb8a71f4ae9af551f71e9eb2c9c3325", null ],
-    [ "uint16", "d2/de7/a00014.html#ad9c79638db63f1dfe2b085743b5cbf7b", null ],
-    [ "uint32", "d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d", null ],
-    [ "uint64", "d2/de7/a00014.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b", null ],
-    [ "uint8", "d2/de7/a00014.html#a15a8d014fadf85c99a2268d8cbd00767", null ]
+    [ "fixname2", "d2/de7/a00014.html#ac0029be4572a61d00eb1435db5526a74", null ],
+    [ "fixnamen", "d2/de7/a00014.html#abdc56edc46e0804c456749761cff8daf", null ],
+    [ "GetExtension", "d2/de7/a00014.html#ac3f75fc482c41471364c2c3e8bd1dd96", null ],
+    [ "GetPlainName", "d2/de7/a00014.html#a5e577b4c8e75312883ba4e8c571908ca", null ],
+    [ "GetPlainName", "d2/de7/a00014.html#a939d4568b4058bf826a517f55cb963af", null ]
 ];

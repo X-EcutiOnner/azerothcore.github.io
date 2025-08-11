@@ -1,30 +1,6 @@
 var a13704 =
 [
-    [ "npc_thrall_bfuAI", "d8/dec/a13704.html#a0b719e975918c6bf1cb9e74d4b34691e", null ],
-    [ "ActivateValimathrasPortal", "d8/dec/a13704.html#a2a58331b6282602891e98d84921ed600", null ],
-    [ "CanAIAttack", "d8/dec/a13704.html#a1f35d939b0f27c143dc50be18eace58d", null ],
-    [ "EnterEvadeMode", "d8/dec/a13704.html#a4d73a0a63409d251652289db36e9fe8d", null ],
-    [ "FollowThrall", "d8/dec/a13704.html#a183bfae549896afac18bcb89270ca87a", null ],
-    [ "JumpToNextStep", "d8/dec/a13704.html#aa942d8c8cde5ec6e9bcbbc76f62e6eab", null ],
-    [ "JustSummoned", "d8/dec/a13704.html#afe5a4958d703cd9767f6b4051f3b0db2", null ],
-    [ "Reset", "d8/dec/a13704.html#a5f30e1257412cc2dcc9b7b085b8b7bc5", null ],
-    [ "SetHoldState", "d8/dec/a13704.html#a1d587fe68e8ada3994896d7e1bd288fb", null ],
-    [ "SpawnWave", "d8/dec/a13704.html#abde28867b6d1975032a73f4990d0a2b4", null ],
-    [ "SummonedCreatureDies", "d8/dec/a13704.html#a0a2f6ddcb7334a6a7c0b131f82611776", null ],
-    [ "UpdateAI", "d8/dec/a13704.html#ac0d604a3db43172dcc8ae121fe3faa60", null ],
-    [ "UpdateWorldState", "d8/dec/a13704.html#a1f3968dbd3168e745815c45c0b1f044c", null ],
-    [ "WaypointReached", "d8/dec/a13704.html#ab9058c31253d42457136ad4e7a92909c", null ],
-    [ "_events", "d8/dec/a13704.html#ab724c7b0673ab8cd50def4a864545617", null ],
-    [ "allianceForcesGUID", "d8/dec/a13704.html#a97badd906bc9b0cd0278d003191e585a", null ],
-    [ "bStepping", "d8/dec/a13704.html#a2f03d831bd3217366741716f671fcde6", null ],
-    [ "EnableAttack", "d8/dec/a13704.html#aabaab2a83d00264c500552c7463cd9bc", null ],
-    [ "hordeGuardsGUID", "d8/dec/a13704.html#ad0ea32cef7b5fa79e980bc804fd0f22e", null ],
-    [ "JainaGUID", "d8/dec/a13704.html#aaf200bc2ab00524cd78d7cccc141d31d", null ],
-    [ "phaseTimer", "d8/dec/a13704.html#a7fccc11c62d1d898d9c6f40456626ab7", null ],
-    [ "SaurfangGUID", "d8/dec/a13704.html#a5211d82bf6c3bb5d6be665cced01018b", null ],
-    [ "step", "d8/dec/a13704.html#abe0cf3f5e154edd5b0005c62a70dfb06", null ],
-    [ "sylvanasfollowGUID", "d8/dec/a13704.html#a9a948a3a8dd472dce54a1921272b5994", null ],
-    [ "ValimathrasGUID", "d8/dec/a13704.html#a34f9a36d0bdb6dea215d21da3bdf54de", null ],
-    [ "ValimathrasPortalGUID", "d8/dec/a13704.html#a4466ddcdc8acdd99e4c46a2128ac696c", null ],
-    [ "WrynnGUID", "d8/dec/a13704.html#ae764b73931eb22712fc4e22e0c15a080", null ]
+    [ "npc_parqual_fintallas", "d8/dec/a13704.html#a9edaf1f7cf4e81ce24c54faa4aed6cf6", null ],
+    [ "OnGossipHello", "d8/dec/a13704.html#af7c1f119d91aa63ee96765f2092b0a6c", null ],
+    [ "OnGossipSelect", "d8/dec/a13704.html#a39276ef82ec5214a1727ebd60235a506", null ]
 ];

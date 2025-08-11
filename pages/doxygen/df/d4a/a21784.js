@@ -1,5 +1,7 @@
 var a21784 =
 [
-    [ "at_q24545_frostmourne_cavern", "df/d4a/a21784.html#a76e2d8424b5fcd037fabfa9b878d21e1", null ],
-    [ "OnTrigger", "df/d4a/a21784.html#a9016ef31fde1bbcaf57a17e64ea8d503", null ]
+    [ "CheckCast", "df/d4a/a21784.html#af0eb00a8dbff89d780beb07f3a714fff", null ],
+    [ "HandleScript", "df/d4a/a21784.html#a8128bb2d7588409dae73bed78d5285a7", null ],
+    [ "PrepareSpellScript", "df/d4a/a21784.html#aee17a8a21ec5df027082c6990189dccc", null ],
+    [ "Register", "df/d4a/a21784.html#a2a97265e102e9ce31997d99275b42973", null ]
 ];

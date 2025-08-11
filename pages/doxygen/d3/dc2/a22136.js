@@ -1,21 +1,12 @@
 var a22136 =
 [
-    [ "npc_still_at_it_triggerAI", "d3/dc2/a22136.html#a4c8a9984ded254aac0df168e35d658e1", null ],
-    [ "CheckAction", "d3/dc2/a22136.html#ae52906e508ec3ea438c0dbde31a82197", null ],
-    [ "DamageTaken", "d3/dc2/a22136.html#abeae6e59731fb70848ba719dbc18727b", null ],
-    [ "GetManus", "d3/dc2/a22136.html#a1208132a9844369d0e1d87910a8576a7", null ],
-    [ "Reset", "d3/dc2/a22136.html#a51f7fae0fae84e12e27840c04dde65f8", null ],
-    [ "SpellHit", "d3/dc2/a22136.html#a41f2ef44c6ad7b9fff8e9ee90eebc759", null ],
-    [ "Start", "d3/dc2/a22136.html#ac707759eea2d1e3d538f89d013aa96c9", null ],
-    [ "UpdateAI", "d3/dc2/a22136.html#af6b279fbc562bbb702ea17eb892471d4", null ],
-    [ "currentstep", "d3/dc2/a22136.html#a3206f3946f1f9a3e230c39f3370642cd", null ],
-    [ "expectedaction", "d3/dc2/a22136.html#a3aa9f7db1b56bb186678455026e4d193", null ],
-    [ "playeraction", "d3/dc2/a22136.html#af018e010bb709b73eec229615f401966", null ],
-    [ "playerGUID", "d3/dc2/a22136.html#a3385d9f57a52914378fe2c1126600af5", null ],
-    [ "running", "d3/dc2/a22136.html#a81100e14bbfdd5d31d61cef76b4c0a7f", null ],
-    [ "stepcount", "d3/dc2/a22136.html#abd3273fe4758b494153c91362b01a587", null ],
-    [ "success", "d3/dc2/a22136.html#a4e4d83f7b8e084f5051498f47cd57448", null ],
-    [ "tensecstimer", "d3/dc2/a22136.html#a8774bbe4630b518f45508996710d006a", null ],
-    [ "thunderbrewGUID", "d3/dc2/a22136.html#ac55098fa6034fe3b7efabdfaf72d083a", null ],
-    [ "timer", "d3/dc2/a22136.html#a818549f4fd33d6d07e874705b09416e6", null ]
+    [ "npc_tournament_training_dummyAI", "d3/dc2/a22136.html#ab84a35b5145c74f16dfbbe020dd9a73b", null ],
+    [ "DamageTaken", "d3/dc2/a22136.html#a98c18794124922e6946a82a324410837", null ],
+    [ "EnterEvadeMode", "d3/dc2/a22136.html#a3f31d705284b0fad2f00c9210ff06646", null ],
+    [ "MoveInLineOfSight", "d3/dc2/a22136.html#a7a05c8682767f5a2d847e99eeed8e00f", null ],
+    [ "Reset", "d3/dc2/a22136.html#a7339ffe52dc789f9480afca7141a169e", null ],
+    [ "SpellHit", "d3/dc2/a22136.html#a5cd56075333fb59ddd8d4a48dc2eecdf", null ],
+    [ "UpdateAI", "d3/dc2/a22136.html#a8bba917f0e0d67cd7a0121ab71d5a419", null ],
+    [ "events", "d3/dc2/a22136.html#a77fa2ef2f15208ab8b284c71e0227fc4", null ],
+    [ "isVulnerable", "d3/dc2/a22136.html#a4a4d3029a329e6eb253bc57c5f7b2a98", null ]
 ];

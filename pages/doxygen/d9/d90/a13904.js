@@ -1,5 +1,6 @@
 var a13904 =
 [
-    [ "go_gong_of_bethekk", "d9/d90/a13904.html#ae261467be63f1a744eb20f81473c2239", null ],
-    [ "OnGossipHello", "d9/d90/a13904.html#a82072ff8c030aec1a5ed447865680788", null ]
+    [ "npc_eagle_trash_aggro_trigger", "d9/d90/a13904.html#a9d41e8abe764fd0f8cedd888418aafb2", null ],
+    [ "MoveInLineOfSight", "d9/d90/a13904.html#aa8892e7f2bec9f26320cd9749e648ebd", null ],
+    [ "_instance", "d9/d90/a13904.html#a39a222e1eb0a3378c8fcaf1da5629547", null ]
 ];

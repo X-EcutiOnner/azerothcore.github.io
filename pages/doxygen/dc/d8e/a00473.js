@@ -1,4 +1,5 @@
 var a00473 =
 [
-    [ "CircularBuffer< T >", "da/d86/a05438.html", "da/d86/a05438" ]
+    [ "GetEnableModulesList", "dc/d8e/a00473.html#a2a2aa3aabfbef586b9a1e63fbae0e0f7", null ],
+    [ "SetEnableModulesList", "dc/d8e/a00473.html#ac16569c9333f642e54fa7a4ec6a948e3", null ]
 ];

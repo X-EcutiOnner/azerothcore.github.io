@@ -1,7 +1,11 @@
 var a24632 =
 [
-    [ "AfterApply", "d1/daa/a24632.html#adae232af9445638b3d54e81d414483b7", null ],
-    [ "AfterRemove", "d1/daa/a24632.html#abf458f1f1dd5abfbba88325cad044ab1", null ],
-    [ "PrepareAuraScript", "d1/daa/a24632.html#a305c532aa0e8740e8c8a87a6ba0abcff", null ],
-    [ "Register", "d1/daa/a24632.html#abff75ea597dcc017a359a5ef3ada4314", null ]
+    [ "HandleAfterHit", "d1/daa/a24632.html#a3cfb75da66372934ba5aaa1c9ad6c6f3", null ],
+    [ "HandleDummy", "d1/daa/a24632.html#abb3f92850fa6fff94c682b990c361fe6", null ],
+    [ "Load", "d1/daa/a24632.html#ae5900d64c9b9b2de48c494458d4bed8b", null ],
+    [ "PrepareSpellScript", "d1/daa/a24632.html#adea0e24654cd87b3aee07ce2183b9517", null ],
+    [ "Register", "d1/daa/a24632.html#a3e155e336d6a5a6a4d44eae422ef7939", null ],
+    [ "Validate", "d1/daa/a24632.html#a28bb9111c8e5116a82d4e54b7eacb92b", null ],
+    [ "guid", "d1/daa/a24632.html#a6e177d68e1d39dcb27e6643d267328a5", null ],
+    [ "multiplier", "d1/daa/a24632.html#a04ed6aae0ea28a4f1b7c1ed5f4f73a0b", null ]
 ];

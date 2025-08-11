@@ -1,6 +1,11 @@
 var a15916 =
 [
-    [ "boss_sartharionAI", "d2/d30/a15920.html", "d2/d30/a15920" ],
-    [ "boss_sartharion", "dc/d5d/a15916.html#a6605aee69372d08fba8f4b4523896588", null ],
-    [ "GetAI", "dc/d5d/a15916.html#aca5d66e0f5cdcafd6f9cd2c173f43839", null ]
+    [ "spell_hadronox_summon_periodic_aura", "dc/d5d/a15916.html#afcca15cddf71c0d46bd811eab9174f1a", null ],
+    [ "HandlePeriodic", "dc/d5d/a15916.html#a048695baf71d307e5aaa00e54586c9f7", null ],
+    [ "OnApply", "dc/d5d/a15916.html#a4466547bc1a5259a33354f2008d6cce7", null ],
+    [ "PrepareAuraScript", "dc/d5d/a15916.html#a4205560054e5baed86aecba3b98fc202", null ],
+    [ "Register", "dc/d5d/a15916.html#a09efdcddaed4af2833139ca20ef94376", null ],
+    [ "Validate", "dc/d5d/a15916.html#a20827683249c17625242e205bb51f9e8", null ],
+    [ "_delay", "dc/d5d/a15916.html#a191d7eec948e0753835bd41eef66f1ec", null ],
+    [ "_spellEntry", "dc/d5d/a15916.html#a52e45512e2bbe34b0bdbfaa273aeb997", null ]
 ];

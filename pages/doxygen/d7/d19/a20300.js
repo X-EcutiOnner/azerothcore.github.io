@@ -1,9 +1,5 @@
 var a20300 =
 [
-    [ "HandleEffectPeriodic", "d7/d19/a20300.html#adc6e83abb52a21528c07a1d989818dcf", null ],
-    [ "OnApply", "d7/d19/a20300.html#ad52977d3bfeca6d2a7127d91eb3d30ab", null ],
-    [ "OnRemove", "d7/d19/a20300.html#a903e65cc8041f9bd289bb5c6f156fa22", null ],
-    [ "PrepareAuraScript", "d7/d19/a20300.html#aa85f79f5337edca68b3cb87073eff0d4", null ],
-    [ "Register", "d7/d19/a20300.html#a2b18c5db95842a6f8959bf9affd357b7", null ],
-    [ "Validate", "d7/d19/a20300.html#ae88b8bd3e648030df48f6b80cedc4034", null ]
+    [ "achievement_i_could_say_that_this_cache_was_rare", "d7/d19/a20300.html#a8ec1949d92f21fe57f967e510453da3e", null ],
+    [ "OnCheck", "d7/d19/a20300.html#af68ad314c9b7be57964ca9baa8015bc9", null ]
 ];

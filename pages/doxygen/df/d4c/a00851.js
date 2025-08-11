@@ -1,16 +1,10 @@
 var a00851 =
 [
-    [ "WorldPackets::Misc::Weather", "d9/d21/a10762.html", "d9/d21/a10762" ],
-    [ "WorldPackets::Misc::LevelUpInfo", "dc/dc5/a10766.html", "dc/dc5/a10766" ],
-    [ "WorldPackets::Misc::PlayMusic", "dd/d60/a10770.html", "dd/d60/a10770" ],
-    [ "WorldPackets::Misc::PlayObjectSound", "d3/d6f/a10774.html", "d3/d6f/a10774" ],
-    [ "WorldPackets::Misc::Playsound", "de/d41/a10778.html", "de/d41/a10778" ],
-    [ "WorldPackets::Misc::RandomRollClient", "d6/d2f/a10782.html", "d6/d2f/a10782" ],
-    [ "WorldPackets::Misc::RandomRoll", "d4/da3/a10786.html", "d4/da3/a10786" ],
-    [ "WorldPackets::Misc::StartMirrorTimer", "de/d50/a10790.html", "de/d50/a10790" ],
-    [ "WorldPackets::Misc::PauseMirrorTimer", "df/d4a/a10794.html", "df/d4a/a10794" ],
-    [ "WorldPackets::Misc::StopMirrorTimer", "d4/d87/a10798.html", "d4/d87/a10798" ],
-    [ "WorldPackets::Misc::DurabilityDamageDeath", "d3/d9a/a10802.html", "d3/d9a/a10802" ],
-    [ "WorldPackets::Misc::CrossedInebriationThreshold", "d5/db1/a10806.html", "d5/db1/a10806" ],
-    [ "WorldPackets::Misc::UITime", "d9/d7c/a10810.html", "d9/d7c/a10810" ]
+    [ "SavedAddonsList", "df/d4c/a00851.html#afa468163a23ed58507a89e5724c06eac", null ],
+    [ "GetAddonInfo", "df/d4c/a00851.html#a65cb6a88902972060e44c57d7d9ec738", null ],
+    [ "GetBannedAddons", "df/d4c/a00851.html#ad7d0938e7463238a86e8c811e1a58800", null ],
+    [ "LoadFromDB", "df/d4c/a00851.html#aaa12f5b754e6b664dbfb2428478bee03", null ],
+    [ "SaveAddon", "df/d4c/a00851.html#a85021021149b7eb4d78cbe81e43d3d45", null ],
+    [ "m_bannedAddons", "df/d4c/a00851.html#a83195dfb437a3f713fa0ccd6c24477ed", null ],
+    [ "m_knownAddons", "df/d4c/a00851.html#a6cd3e278f71724491a7a3b8167eab60e", null ]
 ];

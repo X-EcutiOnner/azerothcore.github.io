@@ -1,13 +1,6 @@
 var a27668 =
 [
-    [ "DBCDatabaseLoader", "dc/d27/a27668.html#a2efbbd3799e5f72fecaeaf9365579482", null ],
-    [ "DBCDatabaseLoader", "dc/d27/a27668.html#a7d93e6d37796f341edcf25062743c5b5", null ],
-    [ "CloneStringToPool", "dc/d27/a27668.html#a68e5ae50c980aa81b051d0622575bb2d", null ],
-    [ "Load", "dc/d27/a27668.html#a1b116dca8b01e0462a2e6c08245a49a3", null ],
-    [ "operator=", "dc/d27/a27668.html#a46f7d5670840892f7a8714ce0b6cde13", null ],
-    [ "_dbcFormat", "dc/d27/a27668.html#aa749118514d0b784ac6df295bd820d8e", null ],
-    [ "_recordSize", "dc/d27/a27668.html#a6721538ebbcfe020fb195d44b3bdbd11", null ],
-    [ "_sqlIndexPos", "dc/d27/a27668.html#ac1b5b191615d3e3121ea70965b0d495a", null ],
-    [ "_sqlTableName", "dc/d27/a27668.html#ab6590071edf5311ccf484d48e4fd125e", null ],
-    [ "_stringPool", "dc/d27/a27668.html#a52b5b86f0efb8ad0716bc0171a3aa740", null ]
+    [ "npc_venomhide_hatchlingAI", "dc/d27/a27668.html#aa5929973ae39166ef381a3ed3c42a29c", null ],
+    [ "IsSummonedBy", "dc/d27/a27668.html#a6e1b76f43217f1eb855b50d58a069518", null ],
+    [ "SpellHit", "dc/d27/a27668.html#ac6c255438dc2f6c750ee47b61fbc20a3", null ]
 ];

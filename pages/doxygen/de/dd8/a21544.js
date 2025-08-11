@@ -1,7 +1,9 @@
 var a21544 =
 [
-    [ "npc_mootoo_the_youngerAI", "de/dd8/a21544.html#a70a5a502dab9a90a790a90eabc5c3acd", null ],
-    [ "JustDied", "de/dd8/a21544.html#a766612f646a6d22d3f0e6f93298e34bc", null ],
-    [ "Reset", "de/dd8/a21544.html#a04624b9b4d552d6b27308edc3ad44644", null ],
-    [ "WaypointReached", "de/dd8/a21544.html#ac758a992ed0d62a272930c84d617b348", null ]
+    [ "npc_lurgglbrAI", "de/dd8/a21544.html#a9239b85c65f9b405335d432f355637d5", null ],
+    [ "Reset", "de/dd8/a21544.html#a13b8bd8e7d85c93b0ee88c6e9f6d09ca", null ],
+    [ "UpdateAI", "de/dd8/a21544.html#aee019df9abe7ca3bf36a6de2321bedec", null ],
+    [ "WaypointReached", "de/dd8/a21544.html#a09ac2f2f21eefedd0052f727546bafb5", null ],
+    [ "IntroPhase", "de/dd8/a21544.html#a57e2c42cccf91765365e0b046446637a", null ],
+    [ "IntroTimer", "de/dd8/a21544.html#ada9762806ae0132e37197e6fb1279866", null ]
 ];

@@ -1,6 +1,5 @@
 var a28084 =
 [
-    [ "color", "d8/d9f/a28084.html#a2e4ee1d687af07445684907d1bcec4f4", null ],
-    [ "ID", "d8/d9f/a28084.html#ac125147c2dc5546a0116f48e08f36e59", null ],
-    [ "spellitemenchantement", "d8/d9f/a28084.html#a3a6329c8f5caa3cd6e61138339f37f4d", null ]
+    [ "ID", "d8/d9f/a28084.html#a4f030d8b8b87aff67e0d8319c6b53310", null ],
+    [ "price", "d8/d9f/a28084.html#a9b81ec4b4638763b738862d6c184e2a9", null ]
 ];

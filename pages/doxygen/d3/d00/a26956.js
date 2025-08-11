@@ -1,5 +1,6 @@
 var a26956 =
 [
-    [ "achievement_bg_control_all_nodes", "d3/d00/a26956.html#afa3c06227adff7a03998ac7c5f8147cf", null ],
-    [ "OnCheck", "d3/d00/a26956.html#a69609eb5488519fa5a1f43b13a80e280", null ]
+    [ "FilterTargets", "d3/d00/a26956.html#a6224b3193474f569d09edaf29b40c2fb", null ],
+    [ "PrepareSpellScript", "d3/d00/a26956.html#ad7478a1a70ebc52eda1c57dd4f143b67", null ],
+    [ "Register", "d3/d00/a26956.html#a2fab1592d19331239b1ef63045389886", null ]
 ];

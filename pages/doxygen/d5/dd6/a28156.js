@@ -1,10 +1,8 @@
 var a28156 =
 [
-    [ "ID", "d5/dd6/a28156.html#a906c42770a619884f08b67e2870bff93", null ],
-    [ "reqarenapoints", "d5/dd6/a28156.html#a5d45007a832d6120e29c7821c07646de", null ],
-    [ "reqarenaslot", "d5/dd6/a28156.html#ad1e4b8f94a743bac02bbadbc8d62ad0b", null ],
-    [ "reqhonorpoints", "d5/dd6/a28156.html#aca509fb7e234bc54632ff988bf37e6ad", null ],
-    [ "reqitem", "d5/dd6/a28156.html#a9cba8872c909260a55dcfdf7f4726899", null ],
-    [ "reqitemcount", "d5/dd6/a28156.html#a615c5fe0966b5054303ebe1290adc9b6", null ],
-    [ "reqpersonalarenarating", "d5/dd6/a28156.html#af4ff8d55234b03637e4b2fbd10778e97", null ]
+    [ "difficulty", "d5/dd6/a28156.html#a2a04df701c13dc49053b09a9587a72a8", null ],
+    [ "encounterIndex", "d5/dd6/a28156.html#a3d35560824a3aaeecb8db4bf8628ebfd", null ],
+    [ "encounterName", "d5/dd6/a28156.html#af4f26f56526b945e392ddaf6b2d43fa1", null ],
+    [ "id", "d5/dd6/a28156.html#aa9828ccc644a11f9cb35fbcc7d31a827", null ],
+    [ "mapId", "d5/dd6/a28156.html#a61c1ac724c8eb96907d2ea9402a8f9ce", null ]
 ];

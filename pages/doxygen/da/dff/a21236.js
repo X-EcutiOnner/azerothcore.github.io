@@ -1,7 +1,6 @@
 var a21236 =
 [
-    [ "PrepareAuraScript", "da/dff/a21236.html#a2b5894cd889205f19ac2c6ea5a535a82", null ],
-    [ "Register", "da/dff/a21236.html#a95b0bcb7f3027cb63711c74befbd74ea", null ],
-    [ "TriggerFists", "da/dff/a21236.html#a2df5a013ba1b3c5b57d628fd59a9073a", null ],
-    [ "Validate", "da/dff/a21236.html#a2b7c45343d17839d85bf64ed36afd45c", null ]
+    [ "boss_archavonAI", "de/db5/a21240.html", "de/db5/a21240" ],
+    [ "boss_archavon", "da/dff/a21236.html#a44e20480f8d86cf763afe67de49c6c33", null ],
+    [ "GetAI", "da/dff/a21236.html#a5eb62d54fe1559ef9df51c2bd01f7de4", null ]
 ];

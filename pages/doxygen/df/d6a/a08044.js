@@ -1,9 +1,27 @@
 var a08044 =
 [
-    [ "VendorItem", "df/d6a/a08044.html#ae79c26c304bee575a722f8a82fc79fd2", null ],
-    [ "IsGoldRequired", "df/d6a/a08044.html#a5f335ffdb5d82418cdb4eb7a606692c1", null ],
-    [ "ExtendedCost", "df/d6a/a08044.html#a18234f38ff242b8687265f9acf70dbe0", null ],
-    [ "incrtime", "df/d6a/a08044.html#afe3bb3324faf1beae6ee17c223678e9b", null ],
-    [ "item", "df/d6a/a08044.html#a6b26a96440c885684c173ee17d788896", null ],
-    [ "maxcount", "df/d6a/a08044.html#a98be1e0499d9ae9cfb176063991f72ee", null ]
+    [ "CreatureData", "df/d6a/a08044.html#aaee070f272fcfe84179d307a58a6deda", null ],
+    [ "curhealth", "df/d6a/a08044.html#a8d792fe1be63517b89beeb7dc16bc59e", null ],
+    [ "curmana", "df/d6a/a08044.html#a9282b4137e892574d3326273c19b7333", null ],
+    [ "currentwaypoint", "df/d6a/a08044.html#ac58e514339c9c60ce78876a7c1ef50f1", null ],
+    [ "dbData", "df/d6a/a08044.html#a4163a83f674432afc99799dd013f806a", null ],
+    [ "displayid", "df/d6a/a08044.html#a51bd5a47d052accca3944095253d0d7a", null ],
+    [ "dynamicflags", "df/d6a/a08044.html#a25d7752e9510c8019469b8a09ce1b059", null ],
+    [ "equipmentId", "df/d6a/a08044.html#ac2d910ad95ea363dbe0a685d5db6cc79", null ],
+    [ "id1", "df/d6a/a08044.html#af2a1092af24c3766e10554729061e2ff", null ],
+    [ "id2", "df/d6a/a08044.html#a7632a7510b2a868b926a6ea21bf07e7f", null ],
+    [ "id3", "df/d6a/a08044.html#a934d70093ff85a859a80f672c96888b2", null ],
+    [ "mapid", "df/d6a/a08044.html#ad7b505ecbc54fd74d99d6d396b66ee84", null ],
+    [ "movementType", "df/d6a/a08044.html#a5574b3c7c3976325c72f2d49a91d1ef3", null ],
+    [ "npcflag", "df/d6a/a08044.html#a3de7f5eeb02d6c90c2ef4da7752ea87e", null ],
+    [ "orientation", "df/d6a/a08044.html#a8e29f2f310f10644b21b86edce264cb6", null ],
+    [ "phaseMask", "df/d6a/a08044.html#a116526b4b43aa76b5f739c0f498a3144", null ],
+    [ "posX", "df/d6a/a08044.html#ab73d154a173a40973b8211e2bee4ecba", null ],
+    [ "posY", "df/d6a/a08044.html#a98fbc00a0254cb68fbe796c2b54aef50", null ],
+    [ "posZ", "df/d6a/a08044.html#aee7aae90ca299d8ac163bb068fed3f6a", null ],
+    [ "ScriptId", "df/d6a/a08044.html#ad82bedfdb0ea59c9de4fd26887ae322a", null ],
+    [ "spawnMask", "df/d6a/a08044.html#a63f086a033d91e31a78be1d5cd8c8dd5", null ],
+    [ "spawntimesecs", "df/d6a/a08044.html#a1f0910de3138ea16397173c9821acf35", null ],
+    [ "unit_flags", "df/d6a/a08044.html#a6dc0af68922ece07d5a0d86e361ce51e", null ],
+    [ "wander_distance", "df/d6a/a08044.html#a05ac0d5358ba012c40155efee608772e", null ]
 ];

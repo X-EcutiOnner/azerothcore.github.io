@@ -1,6 +1,5 @@
 var a01313 =
 [
-    [ "Movement::FacingInfo", "d6/dd8/a10078.html", "d6/dd8/a10078" ],
-    [ "Movement::MoveSplineInitArgs", "d7/de1/a10086.html", "d7/de1/a10086" ],
-    [ "PointsArray", "de/d90/a01313.html#a86528b2e04ddf38b80888e45d6b9c37d", null ]
+    [ "GetIdleMovementGenerator", "de/d90/a01313.html#ab03e344726a074f17f8c63d10b67fcc1", null ],
+    [ "isStatic", "de/d90/a01313.html#a05fec3371a9aee5a6448115a645a505d", null ]
 ];

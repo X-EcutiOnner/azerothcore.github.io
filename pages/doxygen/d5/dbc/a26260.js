@@ -1,9 +1,8 @@
 var a26260 =
 [
-    [ "HandleAfterCast", "d5/dbc/a26260.html#ac08e632064c407346649f525d030d335", null ],
-    [ "HandleDummy", "d5/dbc/a26260.html#a9c1dadd5a3e2e039b50a414ac589ebf4", null ],
-    [ "Load", "d5/dbc/a26260.html#a177525c755b036a79263c0fa6fa4082e", null ],
-    [ "PrepareSpellScript", "d5/dbc/a26260.html#aed99b07a53068b19bddb4daff3449a52", null ],
-    [ "Register", "d5/dbc/a26260.html#a946e56a325d83656d9b43af80d065e45", null ],
-    [ "_triggerSpellId", "d5/dbc/a26260.html#a6697a22b684784853cb1999d41fcaaa7", null ]
+    [ "AfterCheckProc", "d5/dbc/a26260.html#ad817bc9b07538434956bf64ea1dd0367", null ],
+    [ "HandleProc", "d5/dbc/a26260.html#af972e6ed5524dadd618d6cd907c0241b", null ],
+    [ "PrepareAuraScript", "d5/dbc/a26260.html#a0fbc28d9a524b6dff6783077ecd0b3b9", null ],
+    [ "Register", "d5/dbc/a26260.html#a2cab6b2b0ff567fca6530fa4d917aec1", null ],
+    [ "Validate", "d5/dbc/a26260.html#aa15febbd22621da12b567fc429917bf0", null ]
 ];

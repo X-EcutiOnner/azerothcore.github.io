@@ -1,7 +1,10 @@
 var a11112 =
 [
-    [ "WorldObjectSpellNearbyTargetCheck", "de/d62/a11112.html#afda548f6394c5d11a7ca229fe6b3d402", null ],
-    [ "operator()", "de/d62/a11112.html#a731ee07d028a5ee63ecd14321c83664d", null ],
-    [ "_position", "de/d62/a11112.html#a7b19899dd015a73bd1ae4c71fa9ae79d", null ],
-    [ "_range", "de/d62/a11112.html#abfec0df490876b2b83dcdee4da75a77f", null ]
+    [ "TriggeredByAuraSpellData", "de/d62/a11112.html#a3f4704eed73af1e37a3d09434cfcddae", null ],
+    [ "Init", "de/d62/a11112.html#a782e0056967e006748318af3112c0e43", null ],
+    [ "operator bool", "de/d62/a11112.html#a85d4782b76b060c172aaa6f914d400da", null ],
+    [ "operator!", "de/d62/a11112.html#af7290a4c37b1829a98e436486fa8b6cd", null ],
+    [ "effectIndex", "de/d62/a11112.html#a9bbee8d48d4beb8a21721a10e0380c41", null ],
+    [ "spellInfo", "de/d62/a11112.html#af58f62fb168e9da7011f7b570f08e977", null ],
+    [ "tickNumber", "de/d62/a11112.html#afbb1ffd006dc6eb00ccd65add87b1b22", null ]
 ];

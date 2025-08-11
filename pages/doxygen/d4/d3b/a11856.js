@@ -1,9 +1,6 @@
 var a11856 =
 [
-    [ "npc_burning_spiritAI", "d4/d3b/a11856.html#a52f63423d09794446b0c01da2feb325d", null ],
-    [ "EnterEvadeMode", "d4/d3b/a11856.html#a567a7a023bb83a1228bb458ea16ee2fc", null ],
-    [ "IsSummonedBy", "d4/d3b/a11856.html#a65ee7b6dd6d4394cc04a6260fc75827e", null ],
-    [ "MovementInform", "d4/d3b/a11856.html#a0a02ece5a3ff1eefa30fd27a9cc84d10", null ],
-    [ "_events", "d4/d3b/a11856.html#a9af0f46710741bba3d8401d1a1fb0556", null ],
-    [ "_flamelasherGUID", "d4/d3b/a11856.html#abfc34e3e45d1e74b328a91f6f8981191", null ]
+    [ "npc_grimstoneAI", "d0/d1f/a11860.html", "d0/d1f/a11860" ],
+    [ "npc_grimstone", "d4/d3b/a11856.html#ae5c3e36bf18cb30dd4fc7cd5e7a72cfb", null ],
+    [ "GetAI", "d4/d3b/a11856.html#a24cf0aa69ac28c13ac3c44e14c35406c", null ]
 ];

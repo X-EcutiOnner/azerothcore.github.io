@@ -1,10 +1,12 @@
 var a12944 =
 [
-    [ "npc_scarlet_courierAI", "d1/dfc/a12944.html#a83c5e32659d38a513790322e46dcc283", null ],
-    [ "JustEngagedWith", "d1/dfc/a12944.html#aa470197f0949a413c421bda8c7c09279", null ],
-    [ "MovementInform", "d1/dfc/a12944.html#add19812d92d62b602f96ffc5fb513d6c", null ],
-    [ "Reset", "d1/dfc/a12944.html#ab642188631b67ae5ff5fd312eaf37ff0", null ],
-    [ "UpdateAI", "d1/dfc/a12944.html#ac37287a77e37785b606c742ff8d6eeeb", null ],
-    [ "uiStage", "d1/dfc/a12944.html#a2f920922f8c6f1a878d0e4978e081257", null ],
-    [ "uiStage_timer", "d1/dfc/a12944.html#a8ee22a276535a3a9c2f12a62e984d55b", null ]
+    [ "npc_scarlet_minerAI", "d1/dfc/a12944.html#a7f5ca173103eb4498ce41912bda5da66", null ],
+    [ "InitCartQuest", "d1/dfc/a12944.html#a5d3ece8f2f02a2bae4550a41f55348b0", null ],
+    [ "InitWaypoint", "d1/dfc/a12944.html#a7fe048368b6e0a43b5be501a24773b8c", null ],
+    [ "Reset", "d1/dfc/a12944.html#a2a8660173dc32c38de917049eb33fff8", null ],
+    [ "UpdateAI", "d1/dfc/a12944.html#a48d2c92a4d45d5e59252f9455b82cbbd", null ],
+    [ "WaypointReached", "d1/dfc/a12944.html#a31f4363e269b51d3a002a132b5516dd0", null ],
+    [ "carGUID", "d1/dfc/a12944.html#a963f9c0ca58ce160b43f36f5a9f7dee7", null ],
+    [ "IntroPhase", "d1/dfc/a12944.html#a094c2ee20d13c88805c3de7f9f94b86e", null ],
+    [ "IntroTimer", "d1/dfc/a12944.html#adae2103753dd62699359ff01ac3ba865", null ]
 ];

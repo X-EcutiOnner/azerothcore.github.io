@@ -1,7 +1,7 @@
 var a26280 =
 [
-    [ "CheckTarget", "dd/dac/a26280.html#abaef73201d2e0bd1d6789309442019e0", null ],
-    [ "HandleScriptEffect", "dd/dac/a26280.html#a545196cd976bfabbd85ba48942012e1e", null ],
-    [ "PrepareSpellScript", "dd/dac/a26280.html#add5c1ecaa5a75af6e91a0df5d63bbc42", null ],
-    [ "Register", "dd/dac/a26280.html#a36563a197b7377660b7c3f9e85d478bd", null ]
+    [ "if", "dd/dac/a26280.html#a2b5a85e480bcd0ef5074d3bcf7eaf5cb", null ],
+    [ "PrepareAuraScript", "dd/dac/a26280.html#aa31810077c241e77193e378cb297b7de", null ],
+    [ "Register", "dd/dac/a26280.html#a7b8f537719a4155d1cd95a6f49cf6a3a", null ],
+    [ "AuraEffectHandleModes", "dd/dac/a26280.html#a3113d8e7ec296fdf13c8f386ae74e0f3", null ]
 ];

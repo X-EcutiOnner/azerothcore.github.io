@@ -1,6 +1,7 @@
 var a21732 =
 [
-    [ "npc_injured_7th_legion_soldierAI", "d2/d20/a21736.html", "d2/d20/a21736" ],
-    [ "npc_injured_7th_legion_soldier", "d3/d4b/a21732.html#a9d3c647f485dbca5efeec8f784efba1b", null ],
-    [ "GetAI", "d3/d4b/a21732.html#a0feca7aedcf3c07253d4d402266189cc", null ]
+    [ "npc_cosmetic_toy_plane", "d3/d4b/a21732.html#a71b7df4d5f78768d9e47f41ba78b93d2", null ],
+    [ "Reset", "d3/d4b/a21732.html#aa66f2e16ce6c4e5dd7399b48bd5bc203", null ],
+    [ "UpdateAI", "d3/d4b/a21732.html#a41d62b314510fbd6637d8eddbea16f96", null ],
+    [ "_movementArray", "d3/d4b/a21732.html#a5a85278bc14a0e3158dc3fa8abcc8392", null ]
 ];

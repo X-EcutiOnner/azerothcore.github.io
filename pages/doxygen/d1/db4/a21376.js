@@ -1,6 +1,6 @@
 var a21376 =
 [
-    [ "npc_vh_teleportation_portalAI", "d4/dc9/a21380.html", "d4/dc9/a21380" ],
-    [ "npc_vh_teleportation_portal", "d1/db4/a21376.html#a9a554058f594f992a17dbb3887117a6f", null ],
-    [ "GetAI", "d1/db4/a21376.html#a0721c64c01ae69bd78dfc15637c97f49", null ]
+    [ "boss_xevozzAI", "d4/dc9/a21380.html", "d4/dc9/a21380" ],
+    [ "boss_xevozz", "d1/db4/a21376.html#a814ac939c4570d33450c4a6664833087", null ],
+    [ "GetAI", "d1/db4/a21376.html#a712d8ed125d464da56b677914fbf8796", null ]
 ];

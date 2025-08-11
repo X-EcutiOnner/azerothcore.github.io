@@ -1,8 +1,19 @@
 var a15788 =
 [
-    [ "HandleAfterCast", "df/df7/a15788.html#aa85852ff5e5d03637d1dcc43a446843e", null ],
-    [ "HandleDummyEffect", "df/df7/a15788.html#a539c233fc820248930e1988c4074b9c8", null ],
-    [ "Load", "df/df7/a15788.html#a4fc295b4d8775dce16d913fe4a8ce8cb", null ],
-    [ "PrepareSpellScript", "df/df7/a15788.html#aad6f7f1d29414475b5e678e7bd94737f", null ],
-    [ "Register", "df/df7/a15788.html#ae90184fd34636b33755b732ec82fd52f", null ]
+    [ "npc_weegli_blastfuseAI", "df/df7/a15788.html#acde6b3e037d3c297e5d1beccdbe3d03a", null ],
+    [ "AttackStart", "df/df7/a15788.html#a5e9140b38021ed6a2808e026fd77f8f1", null ],
+    [ "DestroyDoor", "df/df7/a15788.html#a0cf76693b1af179c9857abdccc6931ee", null ],
+    [ "InitializeAI", "df/df7/a15788.html#a61490f8c63f8056ac9f145ed8dd789c7", null ],
+    [ "JustReachedHome", "df/df7/a15788.html#a4a88bc4bff8b5b2f75e3dd0c25927815", null ],
+    [ "MovementInform", "df/df7/a15788.html#a33470a45eba0cbb62b041010f6aed302", null ],
+    [ "Reset", "df/df7/a15788.html#abec9f353a1430afae12c21273bf32197", null ],
+    [ "sGossipHello", "df/df7/a15788.html#a3a8381fa5e5d4daf19f312166247bea5", null ],
+    [ "sGossipSelect", "df/df7/a15788.html#a0927116dcc55a1107dce7c65d1295e2a", null ],
+    [ "UpdateAI", "df/df7/a15788.html#a73e482ebbb1566738e6775a574500dc8", null ],
+    [ "Bomb_Timer", "df/df7/a15788.html#af6f68e291ce7d8cf25105ac64d7eebff", null ],
+    [ "destroyingDoor", "df/df7/a15788.html#a0c7f207666da8ad74ff9dc64b582a042", null ],
+    [ "instance", "df/df7/a15788.html#a609616e5136cf11bc16f9bb30ba92879", null ],
+    [ "LandMine_Timer", "df/df7/a15788.html#ad9bab1d2c7a2baf35f6f7fb2cb4a27c7", null ],
+    [ "outroStage", "df/df7/a15788.html#a30cdbce7bddb4d1d221925de86329a41", null ],
+    [ "outroTimer", "df/df7/a15788.html#a08ef419fbef2ec38b7bcd408f135cd29", null ]
 ];

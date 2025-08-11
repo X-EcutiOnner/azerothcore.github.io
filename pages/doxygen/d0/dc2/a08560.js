@@ -1,6 +1,9 @@
 var a08560 =
 [
-    [ "SkillStatusData", "d0/dc2/a08560.html#a7594ceb20110da34f3aa68ac69996b94", null ],
-    [ "pos", "d0/dc2/a08560.html#a51ccb328b807f2c7fd275d843218f466", null ],
-    [ "uState", "d0/dc2/a08560.html#a232801ad25897a82739916d5be4fdc22", null ]
+    [ "areaFlag", "d0/dc2/a08560.html#ac6244004ed093c1a3d83749cbc20bfe9", null ],
+    [ "areaID", "d0/dc2/a08560.html#a455a890a1d82d31873873ac497cb83b7", null ],
+    [ "x1", "d0/dc2/a08560.html#a7624a89c7eac16955dbebb47f0c721d6", null ],
+    [ "x2", "d0/dc2/a08560.html#aebdb021c0b9c40d624d5115b24616a12", null ],
+    [ "y1", "d0/dc2/a08560.html#a04a84fe41ba2bc9996eb0bd70248222a", null ],
+    [ "y2", "d0/dc2/a08560.html#a84f612cf6d1905e948c7c9a6cb870e31", null ]
 ];

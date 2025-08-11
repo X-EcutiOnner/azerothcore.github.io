@@ -1,6 +1,6 @@
 var a13452 =
 [
-    [ "HandleSendEvent", "d9/d20/a13452.html#af62c176d53589228d5e0077c9fc268a3", null ],
-    [ "PrepareSpellScript", "d9/d20/a13452.html#acea8e256f267dd496e5f573e982dba5f", null ],
-    [ "Register", "d9/d20/a13452.html#a0827e177a8268994bb4e63f07993a354", null ]
+    [ "instance_sunwell_plateau_InstanceMapScript", "d9/d20/a13452.html#aae99b35ff990fd7486d5b70693b6729a", null ],
+    [ "Load", "d9/d20/a13452.html#a5398f0aa153f7c4eaea390e33c400b02", null ],
+    [ "OnPlayerEnter", "d9/d20/a13452.html#ab45827eaa92aea4746378b3c11fda219", null ]
 ];

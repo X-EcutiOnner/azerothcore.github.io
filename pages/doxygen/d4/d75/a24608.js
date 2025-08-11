@@ -1,6 +1,7 @@
 var a24608 =
 [
-    [ "CalculateAmount", "d4/d75/a24608.html#ada4514ba7769ebceeed1e0ab1c3a33e8", null ],
-    [ "PrepareAuraScript", "d4/d75/a24608.html#a1faa084b17776e826242293e2aaef2f4", null ],
-    [ "Register", "d4/d75/a24608.html#a94b21c91954385201d4bad6aff2205fc", null ]
+    [ "HandleScriptEffect", "d4/d75/a24608.html#afaffd667477e286700dd7e5562423452", null ],
+    [ "PrepareSpellScript", "d4/d75/a24608.html#a9c30d4d6427cfc96b88a1427afcedb00", null ],
+    [ "Register", "d4/d75/a24608.html#ab8b68e02d05abceeb4b7eef00092e759", null ],
+    [ "Validate", "d4/d75/a24608.html#a553f2f26a412d2060151b4f49055b847", null ]
 ];

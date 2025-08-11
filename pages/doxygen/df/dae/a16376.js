@@ -1,7 +1,7 @@
 var a16376 =
 [
-    [ "npc_toc_priestAI", "df/dae/a16376.html#aa362d2136193a8738e311bba18b87c90", null ],
-    [ "myCanCast", "df/dae/a16376.html#ad2d4286d8f51a2d5a4901487e56506dc", null ],
-    [ "UpdateAI", "df/dae/a16376.html#ae51d2ac95320909150c673b76c9856c7", null ],
-    [ "events", "df/dae/a16376.html#aa5be20e87351424e0e4698540fc1fef4", null ]
+    [ "HandleEffectPeriodic", "df/dae/a16376.html#a58336f6a693d91b4fcb151b7eb5c1201", null ],
+    [ "PrepareAuraScript", "df/dae/a16376.html#a6dffb84e2c65f030e24a86e23f42c7e3", null ],
+    [ "Register", "df/dae/a16376.html#ad3485b1ab83d4a49713dfd3335b672fd", null ],
+    [ "Validate", "df/dae/a16376.html#a5f3c8e5ddcdcefc4e335e604416890d5", null ]
 ];

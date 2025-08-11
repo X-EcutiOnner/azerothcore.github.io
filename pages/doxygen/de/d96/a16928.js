@@ -1,7 +1,6 @@
 var a16928 =
 [
-    [ "HandleEffectPeriodic", "de/d96/a16928.html#aaefcf8ace7c109648c9220fb0ff9d4de", null ],
-    [ "PrepareAuraScript", "de/d96/a16928.html#ae0ccb7d4566777e52b71e99a908d13fa", null ],
-    [ "Register", "de/d96/a16928.html#a73e8ef9dbd3dd3dc332d4b3a2eb2c5ea", null ],
-    [ "Validate", "de/d96/a16928.html#ab3fcbe5386e9529824228e8f3b6be797", null ]
+    [ "npc_hor_lich_kingAI", "d3/d11/a16932.html", "d3/d11/a16932" ],
+    [ "npc_hor_lich_king", "de/d96/a16928.html#aab2562a7a204699735a89e7a15b3b472", null ],
+    [ "GetAI", "de/d96/a16928.html#ad670ae69daa742c19c06267399445a11", null ]
 ];

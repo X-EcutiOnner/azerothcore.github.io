@@ -1,8 +1,18 @@
 var a22588 =
 [
-    [ "npc_yor", "df/d0a/a22588.html#a43ed8720d06c035085d481dbe6539dca", null ],
-    [ "JustEngagedWith", "df/d0a/a22588.html#a74d5cd95b98a2057f78ee9e9b12aec42", null ],
-    [ "Reset", "df/d0a/a22588.html#aa698540b646fd870b33afbaf19ddbe07", null ],
-    [ "UpdateAI", "df/d0a/a22588.html#a46a2cf8ff94b830348641d94e3d9cd57", null ],
-    [ "_scheduler", "df/d0a/a22588.html#a4ce1e1558c9b8aa5d50b1df1a903d776", null ]
+    [ "OutdoorPvPZM", "df/d0a/a22588.html#a8351867658985b66dd97f39e68c16b94", null ],
+    [ "FillInitialWorldStates", "df/d0a/a22588.html#a86a36c0f47027c8d5ac64090e308d98a", null ],
+    [ "GetAllianceTowersControlled", "df/d0a/a22588.html#a58320dcfca7519ab2a7160bb1f875a9b", null ],
+    [ "GetHordeTowersControlled", "df/d0a/a22588.html#a98bfdd944bc51f9ed30b74e1cf3217b5", null ],
+    [ "HandleKillImpl", "df/d0a/a22588.html#a6cd61b99305a2838261e36652fda42b1", null ],
+    [ "HandlePlayerEnterZone", "df/d0a/a22588.html#a8c0eb1c295f389273cf2b2c7b35c9538", null ],
+    [ "HandlePlayerLeaveZone", "df/d0a/a22588.html#a93105e3229db7798ad882fc7e538b250", null ],
+    [ "SendRemoveWorldStates", "df/d0a/a22588.html#aba24e6285ac45dd0594f557d5830ba7c", null ],
+    [ "SetAllianceTowersControlled", "df/d0a/a22588.html#ab7e230cfa2f06fa450ca40c381491c85", null ],
+    [ "SetHordeTowersControlled", "df/d0a/a22588.html#a27239875476bbce8ff18b30cdfe6815b", null ],
+    [ "SetupOutdoorPvP", "df/d0a/a22588.html#a7e71d2c2480da1a2d155981999201b99", null ],
+    [ "Update", "df/d0a/a22588.html#acd93bd13cf330ec86dde30ff9c6306de", null ],
+    [ "m_AllianceTowersControlled", "df/d0a/a22588.html#aff4124f54572e0812c39562fbc6390c3", null ],
+    [ "m_Graveyard", "df/d0a/a22588.html#a9842f1c5de04af4db3e0397839de7765", null ],
+    [ "m_HordeTowersControlled", "df/d0a/a22588.html#ad5609bc0c13d193d16560045aa4b0c71", null ]
 ];

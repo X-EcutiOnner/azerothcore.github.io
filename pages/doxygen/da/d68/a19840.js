@@ -1,6 +1,9 @@
 var a19840 =
 [
-    [ "boss_flame_leviathan_defense_turretAI", "dc/dfd/a19844.html", "dc/dfd/a19844" ],
-    [ "boss_flame_leviathan_defense_turret", "da/d68/a19840.html#a939c66ff6c1eb6dfdb3d93b3d0292e40", null ],
-    [ "GetAI", "da/d68/a19840.html#a1c3726e2b753cda18bd11d8f4ff154db", null ]
+    [ "npc_auriaya_sanctum_sentryAI", "da/d68/a19840.html#afffb62c4db56bb4e7baa095ae75cd7e3", null ],
+    [ "JustEngagedWith", "da/d68/a19840.html#aeeb0aa4667a110dabcc70d422ebd6de5", null ],
+    [ "Reset", "da/d68/a19840.html#a5ab87ac858782cd7f05d9778ca3a6214", null ],
+    [ "UpdateAI", "da/d68/a19840.html#ab1862b4bd4b4fdfaeac8ad9c52cc5ed6", null ],
+    [ "_ripFleshTimer", "da/d68/a19840.html#a83920afb7f6930d780abd2d6fba2aa4c", null ],
+    [ "_savagePounceTimer", "da/d68/a19840.html#a9a6b14ece9a0bf812a04ea765b546735", null ]
 ];

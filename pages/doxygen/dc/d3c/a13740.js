@@ -1,6 +1,9 @@
 var a13740 =
 [
-    [ "npc_tapoke_slim_jahnAI", "d3/d4e/a13744.html", "d3/d4e/a13744" ],
-    [ "npc_tapoke_slim_jahn", "dc/d3c/a13740.html#a61e36b57f8ba78c371d454efb1512579", null ],
-    [ "GetAI", "dc/d3c/a13740.html#a397629742eace1b96dfd9d4a2e55cc32", null ]
+    [ "npc_thrall_bfuAI", "d3/d4e/a13744.html", "d3/d4e/a13744" ],
+    [ "npc_thrall_bfu", "dc/d3c/a13740.html#a43eb37b9a0cf06be0e2cb6180730b09f", null ],
+    [ "GetAI", "dc/d3c/a13740.html#a28b4030d189e4d967a1b16f3464c14ba", null ],
+    [ "OnGossipHello", "dc/d3c/a13740.html#a71a7108464de9245879c8a1c08932e2a", null ],
+    [ "OnGossipSelect", "dc/d3c/a13740.html#aea62ed8489bea23772a52ddefbf9c60e", null ],
+    [ "OnQuestReward", "dc/d3c/a13740.html#aee56e54615e2696dcd0e7299e4f416b5", null ]
 ];

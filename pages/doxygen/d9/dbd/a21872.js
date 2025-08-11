@@ -1,6 +1,6 @@
 var a21872 =
 [
-    [ "npc_mrfloppyAI", "d4/d07/a21876.html", "d4/d07/a21876" ],
-    [ "npc_mrfloppy", "d9/dbd/a21872.html#a0515ca75aba9b7f6f5577b53e7520f6e", null ],
-    [ "GetAI", "d9/dbd/a21872.html#a88590566309f3fc155eb6dc26055a161", null ]
+    [ "npc_spiritual_insightAI", "d9/dbd/a21872.html#ab173cd8b623fcf8c36406155c91bc4db", null ],
+    [ "GetSpeachId", "d9/dbd/a21872.html#ad2dd22651470f47e7a7ba6f687ba54e9", null ],
+    [ "IsSummonedBy", "d9/dbd/a21872.html#ab6b39190d1195915ea0b4b191d864da6", null ]
 ];

@@ -1,7 +1,10 @@
 var a07924 =
 [
-    [ "LfgReward", "d8/d86/a07924.html#afe2ea037fa24064c2bf04cfc6303d903", null ],
-    [ "firstQuest", "d8/d86/a07924.html#a28162b1e43a5309ab01ca99b45d29799", null ],
-    [ "maxLevel", "d8/d86/a07924.html#aae6e46155dc790ed7c63f5f0b8e08395", null ],
-    [ "otherQuest", "d8/d86/a07924.html#a96de83c64efc3009d7d5cd04a61e71b2", null ]
+    [ "LfgUpdateData", "d8/d86/a07924.html#a01326fafaa2ce562b5710d1d7ca75330", null ],
+    [ "LfgUpdateData", "d8/d86/a07924.html#a656873ea6ef9b3f23791827617a000c6", null ],
+    [ "LfgUpdateData", "d8/d86/a07924.html#a248682a712dd43b8c4601830aae4ddec", null ],
+    [ "comment", "d8/d86/a07924.html#a398f1b9ce0737d833fe4566ecea20e31", null ],
+    [ "dungeons", "d8/d86/a07924.html#a0e9b49693248b438dbc508e230a870db", null ],
+    [ "state", "d8/d86/a07924.html#ad9c270e37acaa105b9e12ec73158c7e3", null ],
+    [ "updateType", "d8/d86/a07924.html#a146e43854f66bf57f703d7089a24481e", null ]
 ];

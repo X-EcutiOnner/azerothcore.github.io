@@ -1,7 +1,7 @@
 var a20096 =
 [
-    [ "npc_ulduar_saronite_vaporsAI", "d1/d75/a20096.html#a8f811c588aeca2cd4a12d4d345907bd2", null ],
-    [ "IsSummonedBy", "d1/d75/a20096.html#a4692bb5c3ffadcfd133db665566c66e5", null ],
-    [ "JustDied", "d1/d75/a20096.html#a5be637500e7b5735d90e19fa40fde467", null ],
-    [ "pInstance", "d1/d75/a20096.html#a25cf8dd22f05566ae99b14a596039f5e", null ]
+    [ "boss_freya_healthy_sporeAI", "d1/d75/a20096.html#a1f72bc2b113f3b909d44fd54fff87e31", null ],
+    [ "Reset", "d1/d75/a20096.html#ad6d6562b5cc9f8232bdda99ec2204052", null ],
+    [ "UpdateAI", "d1/d75/a20096.html#ace79c59d62e597ae31425b4006e1363f", null ],
+    [ "_despawnTimer", "d1/d75/a20096.html#aaf65ef07480e5c634cc42dac0c7c734c", null ]
 ];

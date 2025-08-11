@@ -1,10 +1,26 @@
 var a09736 =
 [
-    [ "DoublePosition", "d2/d02/a09740.html", "d2/d02/a09740" ],
-    [ "~AreaBoundary", "d7/d5a/a09736.html#a6050e91b3d485e75186a2df9a56e8d38", null ],
-    [ "AreaBoundary", "d7/d5a/a09736.html#adf670910c492c08d3384c2dd1824e7ce", null ],
-    [ "IsWithinBoundary", "d7/d5a/a09736.html#aac0ce1e801f3de8f3bb83b98ecd6e5c1", null ],
-    [ "IsWithinBoundary", "d7/d5a/a09736.html#a1d407f77ce0388263fc0ee6224734213", null ],
-    [ "IsWithinBoundaryArea", "d7/d5a/a09736.html#ae5580b0044dba24d100831fe51ee1abc", null ],
-    [ "_isInvertedBoundary", "d7/d5a/a09736.html#ad416f29594688ce670549d6fdcce4314", null ]
+    [ "AddItem", "d7/d5a/a09736.html#ab39b529b190bafe093a7931311c24626", null ],
+    [ "HasItems", "d7/d5a/a09736.html#a0997971db668abca530f1869d71828dc", null ],
+    [ "IsCODPayment", "d7/d5a/a09736.html#a113aef1ace737f4bf119ee9cec9d69bd", null ],
+    [ "IsReturnedMail", "d7/d5a/a09736.html#adb7b77433c2ac76939d3fa9aa7ba5972", null ],
+    [ "IsSentByGM", "d7/d5a/a09736.html#a0e07f4b90ae44b9dc2a2cac9589196db", null ],
+    [ "IsSentByPlayer", "d7/d5a/a09736.html#a387fbf2f51eb9414bbcead134f59fa53", null ],
+    [ "RemoveItem", "d7/d5a/a09736.html#ab96701f1ab95184d78a1a91c87d0076c", null ],
+    [ "body", "d7/d5a/a09736.html#aaa91a94ee92b2712218a9cae389554f7", null ],
+    [ "checked", "d7/d5a/a09736.html#ae3198d4379f7f783aa40b180311ca970", null ],
+    [ "COD", "d7/d5a/a09736.html#ac6db3ffc26e23cc0aea607633390bb66", null ],
+    [ "deliver_time", "d7/d5a/a09736.html#ac418d7eae438c2c3cd297477a760f0b1", null ],
+    [ "expire_time", "d7/d5a/a09736.html#a5d7d7251c7a6021d9dc8b9406c0c20ff", null ],
+    [ "items", "d7/d5a/a09736.html#aab1074d26d11d3216df8f7e6e9b8c1f7", null ],
+    [ "mailTemplateId", "d7/d5a/a09736.html#afefffec74369d920ce395f1a04d8838c", null ],
+    [ "messageID", "d7/d5a/a09736.html#a3ee287f59b36f3154cd977a1e92c4d47", null ],
+    [ "messageType", "d7/d5a/a09736.html#a240dfdc4b89b7cb806330460d5256a44", null ],
+    [ "money", "d7/d5a/a09736.html#af326068e66a3091aa731186e5e3295ed", null ],
+    [ "receiver", "d7/d5a/a09736.html#a1cc9173228e34a23b635dfdb6fdf58a1", null ],
+    [ "removedItems", "d7/d5a/a09736.html#a4299fd5b84f08ff8b1a8fa7caadf531b", null ],
+    [ "sender", "d7/d5a/a09736.html#a62b403874a8e34a2ab99bc77dbe2996d", null ],
+    [ "state", "d7/d5a/a09736.html#ae81b243e0ef55683b282e8bfae1d7a42", null ],
+    [ "stationery", "d7/d5a/a09736.html#a88588149be95899c2fc30b144c4425a6", null ],
+    [ "subject", "d7/d5a/a09736.html#a8bc2e13257b7a771c9065e35aaf02744", null ]
 ];

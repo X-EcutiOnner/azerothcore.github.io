@@ -1,7 +1,7 @@
 var a21988 =
 [
-    [ "npc_Apothecary_HanesAI", "d7/dad/a21992.html", "d7/dad/a21992" ],
-    [ "npc_apothecary_hanes", "dd/d20/a21988.html#a90480bee491e8fe1c9e7b2c71aac28c8", null ],
-    [ "GetAI", "dd/d20/a21988.html#a7f3f86efb9a6146b86aa5d882b751e1f", null ],
-    [ "OnQuestAccept", "dd/d20/a21988.html#ae116e49b0e8865f9b5735e72c8c850fd", null ]
+    [ "HandleDummy", "dd/d20/a21988.html#a98e8a4b7bbe947b00f1bc32632736d59", null ],
+    [ "PrepareSpellScript", "dd/d20/a21988.html#a65b1ddf275eb5ee14ca32a1e25bf6e0e", null ],
+    [ "Register", "dd/d20/a21988.html#acdfa4e1fc8e26a887e80521b1bea5150", null ],
+    [ "Validate", "dd/d20/a21988.html#aeec15705a41ad2ac0e59d90086591d96", null ]
 ];

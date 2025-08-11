@@ -1,6 +1,6 @@
 var a21332 =
 [
-    [ "HandleEffectPeriodic", "d6/df0/a21332.html#a508ff9e362d586497839aa29ceae1227", null ],
-    [ "PrepareAuraScript", "d6/df0/a21332.html#a4e7d5317d28207136b1fd3477a51ae06", null ],
-    [ "Register", "d6/df0/a21332.html#a4b08cefe7d334635b70d389cc9df4901", null ]
+    [ "npc_erekem_guardAI", "d7/d92/a21336.html", "d7/d92/a21336" ],
+    [ "npc_erekem_guard", "d6/df0/a21332.html#a78592996e90f77f81eec0325a7f11956", null ],
+    [ "GetAI", "d6/df0/a21332.html#a844a6a29eda4f41547ea37a4c08fb723", null ]
 ];

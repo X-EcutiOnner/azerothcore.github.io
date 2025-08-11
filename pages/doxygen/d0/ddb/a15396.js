@@ -1,6 +1,8 @@
 var a15396 =
 [
-    [ "npc_tiger_matriarchAI", "d9/d40/a15400.html", "d9/d40/a15400" ],
-    [ "npc_tiger_matriarch", "d0/ddb/a15396.html#a05a08bfa64c428213a4b534a982afb71", null ],
-    [ "GetAI", "d0/ddb/a15396.html#a6d5664ca125a775c2d71f322f5a57655", null ]
+    [ "npc_prospector_remtravelAI", "d0/ddb/a15396.html#a61f26115382f16f3d65c3d4e1c720f02", null ],
+    [ "JustEngagedWith", "d0/ddb/a15396.html#adf388d36c17b69f881e3cb92d9b78b9b", null ],
+    [ "JustSummoned", "d0/ddb/a15396.html#a6b3dd1552b5313dd04d07dc80eef06fe", null ],
+    [ "Reset", "d0/ddb/a15396.html#ac145a4a4a24be227c31fcc5aefd922eb", null ],
+    [ "WaypointReached", "d0/ddb/a15396.html#a7b02b22e9dc63e1fad6b15a44b2ff9b6", null ]
 ];

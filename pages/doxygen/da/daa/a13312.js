@@ -1,18 +1,12 @@
 var a13312 =
 [
-    [ "boss_kiljaeden", "da/daa/a13312.html#a573b32098eac346f3f9485eb46792b1b", null ],
-    [ "AttackStart", "da/daa/a13312.html#a9ad882dda480a564406628bfde386e57", null ],
-    [ "DamageTaken", "da/daa/a13312.html#afd668a9d98182d7e05ca38040e55e908", null ],
-    [ "DoAction", "da/daa/a13312.html#a53f78e51932d98886fadd9422adf96ce", null ],
-    [ "EmpowerOrb", "da/daa/a13312.html#ade10c2e693f41d5d0240bce37d5c1168", null ],
-    [ "EnterEvadeMode", "da/daa/a13312.html#a8e765740602b4f9efddafa5f2bdc8909", null ],
-    [ "InitializeAI", "da/daa/a13312.html#ac72d5d9615040c981e8e4e932be8c362", null ],
-    [ "JustDied", "da/daa/a13312.html#a82376e807061529bfd8fb4e52d409acf", null ],
-    [ "JustEngagedWith", "da/daa/a13312.html#aac01e1f8b7b7dfb80a62f3eb0105ed10", null ],
-    [ "JustSummoned", "da/daa/a13312.html#a3b983a903618b5bfebf7b45819207fde", null ],
-    [ "KilledUnit", "da/daa/a13312.html#a220cf460466c44a82ce3933d2c5f27f8", null ],
-    [ "Reset", "da/daa/a13312.html#aa45b8e5f598f68183b390e3239f0f75c", null ],
-    [ "ScheduleBasicAbilities", "da/daa/a13312.html#a345f52703c9d72be2a67ff46ac1a0472", null ],
-    [ "UpdateAI", "da/daa/a13312.html#aedcd604a535ce354881d7e59a05a79b9", null ],
-    [ "_phase", "da/daa/a13312.html#a6878b5b88a45f1a5d70d866e9850041d", null ]
+    [ "boss_kalecgos", "da/daa/a13312.html#a9a3eaee76ada967445cc0ed3d5ed21d2", null ],
+    [ "CanAIAttack", "da/daa/a13312.html#aa810a7eae5a6b1102e2e96022eaf5085", null ],
+    [ "CheckInRoom", "da/daa/a13312.html#a99cf385b11044c364b23fa8fc7e755ee", null ],
+    [ "ClearPlayerAuras", "da/daa/a13312.html#a17ffb7ec1b591acb0e5c359cb73ed2f6", null ],
+    [ "DoAction", "da/daa/a13312.html#aaccfa519a7290eb56990e43de4beea97", null ],
+    [ "JustEngagedWith", "da/daa/a13312.html#ab4d440dd0b66002b840bc4b3d3a8f7ef", null ],
+    [ "KilledUnit", "da/daa/a13312.html#a9844d54a8334ae5d20689593cd8a5e1a", null ],
+    [ "Reset", "da/daa/a13312.html#ad30cbd6d6fe343b9eb44fb96b0779551", null ],
+    [ "_sathBanished", "da/daa/a13312.html#a595eb66eb6f820efa29fcc5d631fe159", null ]
 ];

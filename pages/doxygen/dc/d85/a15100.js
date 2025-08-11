@@ -1,10 +1,17 @@
 var a15100 =
 [
-    [ "boss_huhuran", "dc/d85/a15100.html#a64e0b20891992764c708cbb661c18196", null ],
-    [ "DamageTaken", "dc/d85/a15100.html#adb47086f29b41f4168ad5d1b2728547d", null ],
-    [ "JustEngagedWith", "dc/d85/a15100.html#a08f1d6550680d5bcf07332eade115730", null ],
-    [ "Reset", "dc/d85/a15100.html#a45571aa6bd0c7915fb666cae1c5c4544", null ],
-    [ "UpdateAI", "dc/d85/a15100.html#a23962e668f046b373f94ea6a2d75574a", null ],
-    [ "_berserk", "dc/d85/a15100.html#a5f3f17d0b239f95ed4eb0bfac85c4463", null ],
-    [ "_hardEnrage", "dc/d85/a15100.html#a5612bf8b1eedec159b316b28e6f4c915", null ]
+    [ "boss_eye_of_cthun", "dc/d85/a15100.html#ac780d2e04a1fab6bd02db049bc6eaab2", null ],
+    [ "DamageTaken", "dc/d85/a15100.html#a1a28da1eefd61303201d1f3150fe405f", null ],
+    [ "DoAction", "dc/d85/a15100.html#a102aabe3ce6d89b6403760c11eac87ec", null ],
+    [ "JustDied", "dc/d85/a15100.html#a4dec255ac49195d835390772a8f1f517", null ],
+    [ "JustEngagedWith", "dc/d85/a15100.html#ae83ed5b888df95ad0b854f67192cbd4a", null ],
+    [ "JustSummoned", "dc/d85/a15100.html#a5c037c1fa7adb8355242bf36beb9c61d", null ],
+    [ "MoveInLineOfSight", "dc/d85/a15100.html#a4555b8c931f9d02b7bd3af1c1f569c6c", null ],
+    [ "Reset", "dc/d85/a15100.html#a66aec1afcbaa46ede6be2ffc32b67faa", null ],
+    [ "ScheduleTask", "dc/d85/a15100.html#a14e5b518f2c8534096b8a8059458636d", null ],
+    [ "_beamTarget", "dc/d85/a15100.html#a2c217290b988d06397c52e3485a7dae8", null ],
+    [ "_eyeTentacleCounter", "dc/d85/a15100.html#a559d6ba31ed626d8c42a00c230d647b8", null ],
+    [ "ClockWise", "dc/d85/a15100.html#a701a24f3a06657467b8665d2e4216710", null ],
+    [ "DarkGlareAngle", "dc/d85/a15100.html#ac71992a2cf223d65c0e06cd8bd440164", null ],
+    [ "DarkGlareTick", "dc/d85/a15100.html#af546d3325ad456d335148cd7284f7cad", null ]
 ];

@@ -1,8 +1,10 @@
 var a21440 =
 [
-    [ "npc_azure_captainAI", "dc/d6b/a21440.html#a15b1acc73108c6802dbf3ac2ed0734c9", null ],
-    [ "Reset", "dc/d6b/a21440.html#a13d25bf1612086cc4bb5bc2078105f18", null ],
-    [ "UpdateAI", "dc/d6b/a21440.html#ae50ac21138e12be43caa93e37062051e", null ],
-    [ "uiMortalStrikeTimer", "dc/d6b/a21440.html#a791a3ee9b67e72e1dcb392b9ebc2359a", null ],
-    [ "uiWhirlwindTimer", "dc/d6b/a21440.html#a2e3439976a6e84a60be765cb0b929798", null ]
+    [ "npc_azure_binderAI", "dc/d6b/a21440.html#ad532d350493a35804660f90a9f00f3cf", null ],
+    [ "Reset", "dc/d6b/a21440.html#aa317ce32f3439286e9a4ac0928d48b3a", null ],
+    [ "UpdateAI", "dc/d6b/a21440.html#a322ae0210ccb24206aee49c4fa7fe2bc", null ],
+    [ "uiArcainBarrageTimer", "dc/d6b/a21440.html#a0e577611e3e11209cc175cd71cd86bc9", null ],
+    [ "uiArcaneExplosionTimer", "dc/d6b/a21440.html#aa5cc777f777166e88a21e98a4ce2b8d3", null ],
+    [ "uiFrostboltTimer", "dc/d6b/a21440.html#a405ec0f2d92e4a1f5f7901e725465604", null ],
+    [ "uiFrostNovaTimer", "dc/d6b/a21440.html#a0f6396376e14711f87f1a046728ce386", null ]
 ];

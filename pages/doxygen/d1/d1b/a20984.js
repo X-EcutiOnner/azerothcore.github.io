@@ -1,6 +1,6 @@
 var a20984 =
 [
-    [ "instance_ulduar_InstanceMapScript", "d8/deb/a20988.html", "d8/deb/a20988" ],
-    [ "instance_ulduar", "d1/d1b/a20984.html#a32c2a76d1cd20f2ad1ab441eafe1b682", null ],
-    [ "GetInstanceScript", "d1/d1b/a20984.html#ad15f003a90e656910fc32d661ca9baba", null ]
+    [ "OnEffect", "d1/d1b/a20984.html#aa24cfd6feec65f466e74c68484815c1e", null ],
+    [ "PrepareSpellScript", "d1/d1b/a20984.html#a648fb610fb1914efac7f2cb6e1bb4290", null ],
+    [ "Register", "d1/d1b/a20984.html#ac1c0076665edc6a2b3a0228340020a1e", null ]
 ];

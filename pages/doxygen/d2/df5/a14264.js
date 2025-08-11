@@ -1,5 +1,7 @@
 var a14264 =
 [
-    [ "at_bring_your_orphan_to", "d2/df5/a14264.html#a160aae23dd3423dbc1afc8e3f8dbec7c", null ],
-    [ "OnTrigger", "d2/df5/a14264.html#af5cb73f6ba0657eff8809711a5dba84c", null ]
+    [ "PeriodicTick", "d2/df5/a14264.html#ac8b584ffbb1a8787f70370d94586ed77", null ],
+    [ "PrepareAuraScript", "d2/df5/a14264.html#a4e860850bbab0f14eb8a160bb5e6799e", null ],
+    [ "Register", "d2/df5/a14264.html#a5def2685cedc4fb78c1a5c534c764ee9", null ],
+    [ "Validate", "d2/df5/a14264.html#a68247c2afa553411fac34582e83635c9", null ]
 ];

@@ -1,11 +1,12 @@
 var a01172 =
 [
-    [ "AuraEffect", "d4/dd9/a11058.html", "d4/dd9/a11058" ],
-    [ "Acore::AbsorbAuraOrderPred", "dd/d01/a11062.html", "dd/d01/a11062" ],
-    [ "pAuraEffectHandler", "d6/db6/a01172.html#a9e98d9a1c1cc41922f386b184fd7ce67", null ],
-    [ "BrewfestEntries", "d6/db6/a01172.html#a4ee83f582e4ebba3a5aea9ab1a5c9354", [
-      [ "BREWFEST_KODO", "d6/db6/a01172.html#a4ee83f582e4ebba3a5aea9ab1a5c9354acbc7617ce19ea8d214518ab0335275c5", null ],
-      [ "GREAT_BREWFEST_KODO", "d6/db6/a01172.html#a4ee83f582e4ebba3a5aea9ab1a5c9354a9e68ffb636426417370cc6b94b7b46aa", null ],
-      [ "FRESH_BREWFEST_HOPS", "d6/db6/a01172.html#a4ee83f582e4ebba3a5aea9ab1a5c9354a62ef26e3a60fddc8cbadbd349cb054bf", null ]
+    [ "TicketScript", "d5/dce/a10388.html", "d5/dce/a10388" ],
+    [ "TicketHook", "d6/db6/a01172.html#af2de2d4afd6c8a1968e6e4b055620b72", [
+      [ "TICKETHOOK_ON_TICKET_CREATE", "d6/db6/a01172.html#af2de2d4afd6c8a1968e6e4b055620b72a048895a23d18ef1c7901256655315a61", null ],
+      [ "TICKETHOOK_ON_TICKET_UPDATE_LAST_CHANGE", "d6/db6/a01172.html#af2de2d4afd6c8a1968e6e4b055620b72a1777cc276841ae965f3636dc48161374", null ],
+      [ "TICKETHOOK_ON_TICKET_CLOSE", "d6/db6/a01172.html#af2de2d4afd6c8a1968e6e4b055620b72ac65b75869b3e3fb1dec5db5eb5701f38", null ],
+      [ "TICKETHOOK_ON_TICKET_STATUS_UPDATE", "d6/db6/a01172.html#af2de2d4afd6c8a1968e6e4b055620b72ad50ae60643438ce57485d63d8492a825", null ],
+      [ "TICKETHOOK_ON_TICKET_RESOLVE", "d6/db6/a01172.html#af2de2d4afd6c8a1968e6e4b055620b72a77a1b9c3448bbffacadaaa5c542086df", null ],
+      [ "TICKETHOOK_END", "d6/db6/a01172.html#af2de2d4afd6c8a1968e6e4b055620b72a12665f6e053ad59e5e6cb0ca56d92222", null ]
     ] ]
 ];

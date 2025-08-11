@@ -1,6 +1,7 @@
 var a09460 =
 [
-    [ "RandomCheck", "d5/d2d/a09460.html#aca7a234c6eef8876abb02af723e9485d", null ],
-    [ "operator()", "d5/d2d/a09460.html#a9886987fa2b675ab404102ebe828c9f3", null ],
-    [ "_chance", "d5/d2d/a09460.html#aad026a0ad4539dd5336c3a6b820e351d", null ]
+    [ "AllWorldObjectsInRange", "d5/d2d/a09460.html#a63f46d510df0fa3153d4b3325676a468", null ],
+    [ "operator()", "d5/d2d/a09460.html#a2cf23c24df93b5f7f29163b32e965a94", null ],
+    [ "m_fRange", "d5/d2d/a09460.html#a6afe3ef05369dce8ee205db219f97846", null ],
+    [ "m_pObject", "d5/d2d/a09460.html#ae7dde7b946d8affb79cb2d4c58eedbed", null ]
 ];

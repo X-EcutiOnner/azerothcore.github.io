@@ -1,7 +1,6 @@
 var a20928 =
 [
-    [ "OnPeriodic", "dd/d10/a20928.html#a529e89c1ae0074370da174defc086719", null ],
-    [ "PrepareAuraScript", "dd/d10/a20928.html#a587652095a5dfae229787a0c0ceacfbe", null ],
-    [ "Register", "dd/d10/a20928.html#acd5551b09882d720608bdec6036dee9a", null ],
-    [ "Validate", "dd/d10/a20928.html#aaed6604e39dd977f4e7c671052d718e8", null ]
+    [ "boss_yoggsaron_voiceAI", "de/d08/a20932.html", "de/d08/a20932" ],
+    [ "boss_yoggsaron_voice", "dd/d10/a20928.html#ae5d10416bb83e57c0e9d3ef5d6f5adc6", null ],
+    [ "GetAI", "dd/d10/a20928.html#a50abcde0313df06a114a2f5f44a1d481", null ]
 ];

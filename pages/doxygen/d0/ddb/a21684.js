@@ -1,6 +1,5 @@
 var a21684 =
 [
-    [ "npc_dalaran_warriorAI", "dc/d97/a21688.html", "dc/d97/a21688" ],
-    [ "npc_dalaran_warrior", "d0/ddb/a21684.html#a13d44b85173232ddedcc35184d50549c", null ],
-    [ "GetAI", "d0/ddb/a21684.html#a1e84676d2a76bac728a1f23f5f9fc25e", null ]
+    [ "npc_mei_francis_mountAI", "d0/ddb/a21684.html#aa9886ead02754faebff8b21eeb85dee6", null ],
+    [ "CanBeSeen", "d0/ddb/a21684.html#ad5e33495339a0315bc7b01351810157e", null ]
 ];

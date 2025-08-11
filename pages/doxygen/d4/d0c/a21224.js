@@ -1,6 +1,6 @@
 var a21224 =
 [
-    [ "boss_koralonAI", "dd/da6/a21228.html", "dd/da6/a21228" ],
-    [ "boss_koralon", "d4/d0c/a21224.html#a43b9fb1224abeba44080fb02062451b0", null ],
-    [ "GetAI", "d4/d0c/a21224.html#a7afd462b2c43ee088c09fcb7ddcb141d", null ]
+    [ "instance_utgarde_pinnacle_InstanceMapScript", "dd/da6/a21228.html", "dd/da6/a21228" ],
+    [ "instance_utgarde_pinnacle", "d4/d0c/a21224.html#a70c1528c9c1b0d830cc7af7debd5721b", null ],
+    [ "GetInstanceScript", "d4/d0c/a21224.html#a41bd06d5f42b09193c5f1b2bbb2323ac", null ]
 ];

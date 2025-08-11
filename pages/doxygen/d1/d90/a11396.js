@@ -1,11 +1,8 @@
 var a11396 =
 [
-    [ "WorldUpdateTime", "d1/d90/a11396.html#a97552c4ce99bd40919f199c17fe203ed", null ],
-    [ "LoadFromConfig", "d1/d90/a11396.html#acb2b9d56504fc760e7df1c93621ab788", null ],
-    [ "RecordUpdateTime", "d1/d90/a11396.html#a88d773c8029cebeab6b99444c25c8379", null ],
-    [ "RecordUpdateTimeDuration", "d1/d90/a11396.html#a3ae299cfba6adcbb4e38af40313428fc", null ],
-    [ "SetRecordUpdateTimeInterval", "d1/d90/a11396.html#ada81050229ccacc49d5b6a9f6101174c", null ],
-    [ "_lastRecordTime", "d1/d90/a11396.html#a7bc68a1a700deb4bc4d19992edf3ffa7", null ],
-    [ "_recordUpdateTimeInverval", "d1/d90/a11396.html#a5486477b0a604f0207336e423f42c2b1", null ],
-    [ "_recordUpdateTimeMin", "d1/d90/a11396.html#a6b8a8d1b61f9ecec591165fa334972fc", null ]
+    [ "CreatureTextId", "d1/d90/a11396.html#ae8058e922bafc69b718ca4be1be39688", null ],
+    [ "operator<", "d1/d90/a11396.html#ae0c693f6cf1959c79e1b3773a2f54db9", null ],
+    [ "entry", "d1/d90/a11396.html#ad69afcf7be87d1f96611fe925b68f26a", null ],
+    [ "textGroup", "d1/d90/a11396.html#af1d1f3f310c219c32ca9b8917d8fb67d", null ],
+    [ "textId", "d1/d90/a11396.html#a5d45808a0b84ca11c8d05c25d26341a2", null ]
 ];

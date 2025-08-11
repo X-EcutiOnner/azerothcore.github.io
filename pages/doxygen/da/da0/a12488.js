@@ -1,6 +1,6 @@
 var a12488 =
 [
-    [ "npc_mc_core_houndAI", "d5/d97/a12492.html", "d5/d97/a12492" ],
-    [ "npc_mc_core_hound", "da/da0/a12488.html#aee1ef71447dbd1494de5e0065bd5ae78", null ],
-    [ "GetAI", "da/da0/a12488.html#a3aa8c5332b509b4d5498cd726ab47e40", null ]
+    [ "boss_shazzrahAI", "d5/d97/a12492.html", "d5/d97/a12492" ],
+    [ "boss_shazzrah", "da/da0/a12488.html#a99a162d6eac5c9046a27f53ec05af7e4", null ],
+    [ "GetAI", "da/da0/a12488.html#a8135f6ab246dbce4c2ebebe0e7f137d5", null ]
 ];

@@ -1,5 +1,5 @@
 var a02213 =
 [
-    [ "GetAISpellInfo", "de/d8e/a02213.html#a1ed41ad074263f6c0c63f38b7f51414b", null ],
-    [ "IsValidCombatTarget", "de/d8e/a02213.html#a981f03ba3b8c59eb1fa9d22df158ba19", null ]
+    [ "group_commandscript", "da/d44/a11664.html", "da/d44/a11664" ],
+    [ "AddSC_group_commandscript", "de/d8e/a02213.html#ac4c9434ed910cd9636e0a8644a8e91e1", null ]
 ];

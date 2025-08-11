@@ -1,6 +1,6 @@
 var a13360 =
 [
-    [ "PrepareSpellScript", "d0/d19/a13360.html#a6a9436d744865971e635f23c2b331688", null ],
-    [ "Register", "d0/d19/a13360.html#a5f8a755040c9972e1bd6f68ceacf3dff", null ],
-    [ "SetDest", "d0/d19/a13360.html#a2d43c0d5230f7be2d9a33e8527fd8c02", null ]
+    [ "FixOrientation", "d0/d19/a13360.html#ac4a9654d37a73f9d5ddc73ff90ce145b", null ],
+    [ "Execute", "d0/d19/a13360.html#a7af72679731c9b86b9ae36d19d1621e5", null ],
+    [ "_owner", "d0/d19/a13360.html#a5f12db3774bdeef25a300780c00db1fb", null ]
 ];

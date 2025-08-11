@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/AI/ScriptedAI/ScriptedCreature.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/scripts/Outland/CoilfangReservoir/SerpentShrine/instance_serpent_shrine.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,360 +106,251 @@ $(document).ready(function(){initNavTree('d3/dc5/a02306.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#enum-members">Enumerations</a> &#124;
 <a href="#func-members">Functions</a> &#124;
 <a href="#var-members">Variables</a>  </div>
-  <div class="headertitle"><div class="title">ScriptedCreature.cpp File Reference</div></div>
+  <div class="headertitle"><div class="title">instance_serpent_shrine.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">ScriptedCreature.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Cell.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">CellImpl.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">GameTime.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">GridNotifiers.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ObjectMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Spell.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">AreaDefines.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">CreatureScript.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">InstanceMapScript.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">InstanceScript.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ScriptedCreature.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">SpellScriptLoader.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">TemporarySummon.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">GridNotifiersImpl.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">serpent_shrine.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">SpellAuraEffects.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">SpellScript.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dac/a06190.html">TSpellSummary</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d94/a23240.html">instance_serpent_shrine</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
-Enumerations</h2></td></tr>
-<tr class="memitem:abaecf87f40b40c4c71ec596a0b73e911"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dc5/a02306.html#abaecf87f40b40c4c71ec596a0b73e911">eNPCs</a> { <br />
-&#160;&#160;<a class="el" href="../../d3/dc5/a02306.html#abaecf87f40b40c4c71ec596a0b73e911a0429b55864dc1628ebf2cc160a93c1dc">NPC_BROODLORD</a> = 12017
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dc5/a02306.html#abaecf87f40b40c4c71ec596a0b73e911a0c9f05f129ebeb37c7b6a6bd0444caca">NPC_JAN_ALAI</a> = 23578
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dc5/a02306.html#abaecf87f40b40c4c71ec596a0b73e911ac5fc96320a852557e13f1d4a95c8ff10">NPC_SARTHARION</a> = 28860
-, <br />
-&#160;&#160;<a class="el" href="../../d3/dc5/a02306.html#abaecf87f40b40c4c71ec596a0b73e911a5406e0387cdb4e28fe7718f28ec3d752">NPC_FREYA</a> = 32906
-, <br />
-&#160;&#160;<a class="el" href="../../d4/d43/a03143.html#abaecf87f40b40c4c71ec596a0b73e911ac5f7785a73b2ea4946e698f73996e906">NPC_INGVAR_UNDEAD</a> = 23980
-, <br />
-&#160;&#160;<a class="el" href="../../d4/d43/a03143.html#abaecf87f40b40c4c71ec596a0b73e911a244024200627132843a0b95f2fdefcb4">NPC_ANNHYLDE</a> = 24068
-, <br />
-&#160;&#160;<a class="el" href="../../d4/d43/a03143.html#abaecf87f40b40c4c71ec596a0b73e911a5c7c851e12a8c23ef9569157753a2546">NPC_THROW</a> = 23997
-, <br />
-&#160;&#160;<a class="el" href="../../d7/d66/a03134.html#abaecf87f40b40c4c71ec596a0b73e911a8d3888198310322d79e29632f594ac76">NPC_FROST_TOMB</a> = 23965
-, <br />
-&#160;&#160;<a class="el" href="../../d7/d66/a03134.html#abaecf87f40b40c4c71ec596a0b73e911ae6d4da6ba356104e95b11d5cd561d0f3">NPC_SKELETON</a> = 23970
-<br />
- }</td></tr>
-<tr class="separator:abaecf87f40b40c4c71ec596a0b73e911"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d4f/a23244.html">instance_serpent_shrine::instance_serpentshrine_cavern_InstanceMapScript</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d2c/a23248.html">spell_serpentshrine_cavern_serpentshrine_parasite</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d93/a23252.html">spell_serpentshrine_cavern_serpentshrine_parasite_trigger_aura</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d15/a23256.html">spell_serpentshrine_cavern_serpentshrine_parasite_trigger</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dbc/a23260.html">spell_serpentshrine_cavern_infection</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d54/a23264.html">spell_serpentshrine_cavern_coilfang_water</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d80/a23268.html">npc_rancid_mushroom</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/de9/a23272.html">spell_rancid_spore_cloud</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:a136c0c059281a05f9cb91237ce55be7b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d36/a07986.html">Creature</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dc5/a02306.html#a136c0c059281a05f9cb91237ce55be7b">GetClosestCreatureWithEntry</a> (<a class="el" href="../../da/da3/a08394.html">WorldObject</a> *source, <a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> entry, float maxSearchRange, bool alive)</td></tr>
-<tr class="separator:a136c0c059281a05f9cb91237ce55be7b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a80b13d7c0fa3b835b0834955ed0f93d8"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/d0a/a08162.html">GameObject</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dc5/a02306.html#a80b13d7c0fa3b835b0834955ed0f93d8">GetClosestGameObjectWithEntry</a> (<a class="el" href="../../da/da3/a08394.html">WorldObject</a> *source, <a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> entry, float maxSearchRange, bool onlySpawned)</td></tr>
-<tr class="separator:a80b13d7c0fa3b835b0834955ed0f93d8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab6a8246d473139627106be4651f6329d"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dc5/a02306.html#ab6a8246d473139627106be4651f6329d">GetCreatureListWithEntryInGrid</a> (std::list&lt; <a class="el" href="../../d0/d36/a07986.html">Creature</a> * &gt; &amp;list, <a class="el" href="../../da/da3/a08394.html">WorldObject</a> *source, <a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> entry, float maxSearchRange)</td></tr>
-<tr class="separator:ab6a8246d473139627106be4651f6329d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae9abb80c4e811509bca88e65cf817276"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dc5/a02306.html#ae9abb80c4e811509bca88e65cf817276">GetGameObjectListWithEntryInGrid</a> (std::list&lt; <a class="el" href="../../d4/d0a/a08162.html">GameObject</a> * &gt; &amp;list, <a class="el" href="../../da/da3/a08394.html">WorldObject</a> *source, <a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> entry, float maxSearchRange)</td></tr>
-<tr class="separator:ae9abb80c4e811509bca88e65cf817276"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2e3edf6fd8a6865d815af4f8acb184af"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dc5/a02306.html#a2e3edf6fd8a6865d815af4f8acb184af">GetDeadCreatureListInGrid</a> (std::list&lt; <a class="el" href="../../d0/d36/a07986.html">Creature</a> * &gt; &amp;list, <a class="el" href="../../da/da3/a08394.html">WorldObject</a> *source, float maxSearchRange, bool alive)</td></tr>
-<tr class="separator:a2e3edf6fd8a6865d815af4f8acb184af"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:accf317168271361913093466ba7f8f0e"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dc5/a02306.html#accf317168271361913093466ba7f8f0e">AddSC_instance_serpentshrine_cavern</a> ()</td></tr>
+<tr class="separator:accf317168271361913093466ba7f8f0e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
 Variables</h2></td></tr>
-<tr class="memitem:ae56af266ccaa1794f1f014938b07e9cc"><td class="memItemLeft" align="right" valign="top">struct <a class="el" href="../../d9/dac/a06190.html">TSpellSummary</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dc5/a02306.html#ae56af266ccaa1794f1f014938b07e9cc">SpellSummary</a></td></tr>
-<tr class="separator:ae56af266ccaa1794f1f014938b07e9cc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a412286b689bd324fedd65ddd8dde8afb"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/d7b/a09648.html">ObjectData</a> const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dc5/a02306.html#a412286b689bd324fedd65ddd8dde8afb">creatureData</a> []</td></tr>
+<tr class="separator:a412286b689bd324fedd65ddd8dde8afb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1461582839e3b7fdbb7397e5d2086e31"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/d7b/a09648.html">ObjectData</a> const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dc5/a02306.html#a1461582839e3b7fdbb7397e5d2086e31">gameObjectData</a> []</td></tr>
+<tr class="separator:a1461582839e3b7fdbb7397e5d2086e31"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6720238df140a3c574a711042b7f5bd3"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/d1c/a09644.html">MinionData</a> const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dc5/a02306.html#a6720238df140a3c574a711042b7f5bd3">minionData</a> []</td></tr>
+<tr class="separator:a6720238df140a3c574a711042b7f5bd3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa75d7d0ffe0cef214f982966c33db1c1"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../df/df9/a09640.html">BossBoundaryData</a> const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dc5/a02306.html#aa75d7d0ffe0cef214f982966c33db1c1">boundaries</a></td></tr>
+<tr class="separator:aa75d7d0ffe0cef214f982966c33db1c1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af7ba92b4a76e9cb7835c84a49f9c2052"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/d7b/a09648.html">ObjectData</a> const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dc5/a02306.html#af7ba92b4a76e9cb7835c84a49f9c2052">summonData</a> []</td></tr>
+<tr class="separator:af7ba92b4a76e9cb7835c84a49f9c2052"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="abaecf87f40b40c4c71ec596a0b73e911" name="abaecf87f40b40c4c71ec596a0b73e911"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#abaecf87f40b40c4c71ec596a0b73e911">&#9670;&#160;</a></span>eNPCs</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../d3/dc5/a02306.html#abaecf87f40b40c4c71ec596a0b73e911">eNPCs</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="abaecf87f40b40c4c71ec596a0b73e911a0429b55864dc1628ebf2cc160a93c1dc" name="abaecf87f40b40c4c71ec596a0b73e911a0429b55864dc1628ebf2cc160a93c1dc"></a>NPC_BROODLORD&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="abaecf87f40b40c4c71ec596a0b73e911a0c9f05f129ebeb37c7b6a6bd0444caca" name="abaecf87f40b40c4c71ec596a0b73e911a0c9f05f129ebeb37c7b6a6bd0444caca"></a>NPC_JAN_ALAI&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="abaecf87f40b40c4c71ec596a0b73e911ac5fc96320a852557e13f1d4a95c8ff10" name="abaecf87f40b40c4c71ec596a0b73e911ac5fc96320a852557e13f1d4a95c8ff10"></a>NPC_SARTHARION&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="abaecf87f40b40c4c71ec596a0b73e911a5406e0387cdb4e28fe7718f28ec3d752" name="abaecf87f40b40c4c71ec596a0b73e911a5406e0387cdb4e28fe7718f28ec3d752"></a>NPC_FREYA&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="abaecf87f40b40c4c71ec596a0b73e911ac5f7785a73b2ea4946e698f73996e906" name="abaecf87f40b40c4c71ec596a0b73e911ac5f7785a73b2ea4946e698f73996e906"></a>NPC_INGVAR_UNDEAD&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="abaecf87f40b40c4c71ec596a0b73e911a244024200627132843a0b95f2fdefcb4" name="abaecf87f40b40c4c71ec596a0b73e911a244024200627132843a0b95f2fdefcb4"></a>NPC_ANNHYLDE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="abaecf87f40b40c4c71ec596a0b73e911a5c7c851e12a8c23ef9569157753a2546" name="abaecf87f40b40c4c71ec596a0b73e911a5c7c851e12a8c23ef9569157753a2546"></a>NPC_THROW&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="abaecf87f40b40c4c71ec596a0b73e911a8d3888198310322d79e29632f594ac76" name="abaecf87f40b40c4c71ec596a0b73e911a8d3888198310322d79e29632f594ac76"></a>NPC_FROST_TOMB&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="abaecf87f40b40c4c71ec596a0b73e911ae6d4da6ba356104e95b11d5cd561d0f3" name="abaecf87f40b40c4c71ec596a0b73e911ae6d4da6ba356104e95b11d5cd561d0f3"></a>NPC_SKELETON&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">  564</span>{</div>
-<div class="line"><span class="lineno">  565</span>    <a class="code hl_enumvalue" href="../../d3/dc5/a02306.html#abaecf87f40b40c4c71ec596a0b73e911a0429b55864dc1628ebf2cc160a93c1dc">NPC_BROODLORD</a>   = 12017,</div>
-<div class="line"><span class="lineno">  566</span>    <a class="code hl_enumvalue" href="../../d3/dc5/a02306.html#abaecf87f40b40c4c71ec596a0b73e911a0c9f05f129ebeb37c7b6a6bd0444caca">NPC_JAN_ALAI</a>    = 23578,</div>
-<div class="line"><span class="lineno">  567</span>    <a class="code hl_enumvalue" href="../../d3/dc5/a02306.html#abaecf87f40b40c4c71ec596a0b73e911ac5fc96320a852557e13f1d4a95c8ff10">NPC_SARTHARION</a>  = 28860,</div>
-<div class="line"><span class="lineno">  568</span>    <a class="code hl_enumvalue" href="../../d3/dc5/a02306.html#abaecf87f40b40c4c71ec596a0b73e911a5406e0387cdb4e28fe7718f28ec3d752">NPC_FREYA</a>       = 32906,</div>
-<div class="line"><span class="lineno">  569</span>};</div>
-<div class="ttc" id="aa02306_html_abaecf87f40b40c4c71ec596a0b73e911a0429b55864dc1628ebf2cc160a93c1dc"><div class="ttname"><a href="../../d3/dc5/a02306.html#abaecf87f40b40c4c71ec596a0b73e911a0429b55864dc1628ebf2cc160a93c1dc">NPC_BROODLORD</a></div><div class="ttdeci">@ NPC_BROODLORD</div><div class="ttdef"><b>Definition:</b> ScriptedCreature.cpp:565</div></div>
-<div class="ttc" id="aa02306_html_abaecf87f40b40c4c71ec596a0b73e911a0c9f05f129ebeb37c7b6a6bd0444caca"><div class="ttname"><a href="../../d3/dc5/a02306.html#abaecf87f40b40c4c71ec596a0b73e911a0c9f05f129ebeb37c7b6a6bd0444caca">NPC_JAN_ALAI</a></div><div class="ttdeci">@ NPC_JAN_ALAI</div><div class="ttdef"><b>Definition:</b> ScriptedCreature.cpp:566</div></div>
-<div class="ttc" id="aa02306_html_abaecf87f40b40c4c71ec596a0b73e911a5406e0387cdb4e28fe7718f28ec3d752"><div class="ttname"><a href="../../d3/dc5/a02306.html#abaecf87f40b40c4c71ec596a0b73e911a5406e0387cdb4e28fe7718f28ec3d752">NPC_FREYA</a></div><div class="ttdeci">@ NPC_FREYA</div><div class="ttdef"><b>Definition:</b> ScriptedCreature.cpp:568</div></div>
-<div class="ttc" id="aa02306_html_abaecf87f40b40c4c71ec596a0b73e911ac5fc96320a852557e13f1d4a95c8ff10"><div class="ttname"><a href="../../d3/dc5/a02306.html#abaecf87f40b40c4c71ec596a0b73e911ac5fc96320a852557e13f1d4a95c8ff10">NPC_SARTHARION</a></div><div class="ttdeci">@ NPC_SARTHARION</div><div class="ttdef"><b>Definition:</b> ScriptedCreature.cpp:567</div></div>
-</div><!-- fragment -->
-</div>
-</div>
 <h2 class="groupheader">Function Documentation</h2>
-<a id="a136c0c059281a05f9cb91237ce55be7b" name="a136c0c059281a05f9cb91237ce55be7b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a136c0c059281a05f9cb91237ce55be7b">&#9670;&#160;</a></span>GetClosestCreatureWithEntry()</h2>
+<a id="accf317168271361913093466ba7f8f0e" name="accf317168271361913093466ba7f8f0e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#accf317168271361913093466ba7f8f0e">&#9670;&#160;</a></span>AddSC_instance_serpentshrine_cavern()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d0/d36/a07986.html">Creature</a> * GetClosestCreatureWithEntry </td>
+          <td class="memname">void AddSC_instance_serpentshrine_cavern </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../da/da3/a08394.html">WorldObject</a> *&#160;</td>
-          <td class="paramname"><em>source</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
+          <td class="paramname"></td><td>)</td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>entry</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>maxSearchRange</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">bool&#160;</td>
-          <td class="paramname"><em>alive</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  866</span>{</div>
-<div class="line"><span class="lineno">  867</span>    <span class="keywordflow">return</span> source-&gt;<a class="code hl_function" href="../../da/da3/a08394.html#aa7cc61d571dbc39ca8ac6ac10ffd18ab">FindNearestCreature</a>(entry, maxSearchRange, alive);</div>
-<div class="line"><span class="lineno">  868</span>}</div>
-<div class="ttc" id="aa08394_html_aa7cc61d571dbc39ca8ac6ac10ffd18ab"><div class="ttname"><a href="../../da/da3/a08394.html#aa7cc61d571dbc39ca8ac6ac10ffd18ab">WorldObject::FindNearestCreature</a></div><div class="ttdeci">Creature * FindNearestCreature(uint32 entry, float range, bool alive=true) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:2441</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  369</span>{</div>
+<div class="line"><span class="lineno">  370</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../df/d94/a23240.html">instance_serpent_shrine</a>();</div>
+<div class="line"><span class="lineno">  371</span>    <a class="code hl_define" href="../../d3/ddc/a01142.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d4/d2c/a23248.html">spell_serpentshrine_cavern_serpentshrine_parasite</a>);</div>
+<div class="line"><span class="lineno">  372</span>    <a class="code hl_define" href="../../d3/ddc/a01142.html#a69b21d1b83cecaba944f4e9379bc866c">RegisterSpellAndAuraScriptPair</a>(<a class="code hl_class" href="../../d5/d15/a23256.html">spell_serpentshrine_cavern_serpentshrine_parasite_trigger</a>, <a class="code hl_class" href="../../d3/d93/a23252.html">spell_serpentshrine_cavern_serpentshrine_parasite_trigger_aura</a>);</div>
+<div class="line"><span class="lineno">  373</span>    <a class="code hl_define" href="../../d3/ddc/a01142.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../dc/dbc/a23260.html">spell_serpentshrine_cavern_infection</a>);</div>
+<div class="line"><span class="lineno">  374</span>    <a class="code hl_define" href="../../d3/ddc/a01142.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d0/d54/a23264.html">spell_serpentshrine_cavern_coilfang_water</a>);</div>
+<div class="line"><span class="lineno">  375</span>    <a class="code hl_define" href="../../db/dda/a02318.html#a7fbb4ccf3ab46507203a71f97489fcf7">RegisterSerpentShrineAI</a>(<a class="code hl_struct" href="../../d9/d80/a23268.html">npc_rancid_mushroom</a>);</div>
+<div class="line"><span class="lineno">  376</span>    <a class="code hl_define" href="../../d3/ddc/a01142.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d2/de9/a23272.html">spell_rancid_spore_cloud</a>);</div>
+<div class="line"><span class="lineno">  377</span>}</div>
+<div class="ttc" id="aa01142_html_a69b21d1b83cecaba944f4e9379bc866c"><div class="ttname"><a href="../../d3/ddc/a01142.html#a69b21d1b83cecaba944f4e9379bc866c">RegisterSpellAndAuraScriptPair</a></div><div class="ttdeci">#define RegisterSpellAndAuraScriptPair(script_1, script_2)</div><div class="ttdef"><b>Definition:</b> SpellScriptLoader.h:90</div></div>
+<div class="ttc" id="aa01142_html_ae221e5976ab29ba14fec3b073a03670f"><div class="ttname"><a href="../../d3/ddc/a01142.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a></div><div class="ttdeci">#define RegisterSpellScript(spell_script)</div><div class="ttdef"><b>Definition:</b> SpellScriptLoader.h:88</div></div>
+<div class="ttc" id="aa02318_html_a7fbb4ccf3ab46507203a71f97489fcf7"><div class="ttname"><a href="../../db/dda/a02318.html#a7fbb4ccf3ab46507203a71f97489fcf7">RegisterSerpentShrineAI</a></div><div class="ttdeci">#define RegisterSerpentShrineAI(ai_name)</div><div class="ttdef"><b>Definition:</b> serpent_shrine.h:106</div></div>
+<div class="ttc" id="aa23240_html"><div class="ttname"><a href="../../df/d94/a23240.html">instance_serpent_shrine</a></div><div class="ttdef"><b>Definition:</b> instance_serpent_shrine.cpp:74</div></div>
+<div class="ttc" id="aa23248_html"><div class="ttname"><a href="../../d4/d2c/a23248.html">spell_serpentshrine_cavern_serpentshrine_parasite</a></div><div class="ttdef"><b>Definition:</b> instance_serpent_shrine.cpp:198</div></div>
+<div class="ttc" id="aa23252_html"><div class="ttname"><a href="../../d3/d93/a23252.html">spell_serpentshrine_cavern_serpentshrine_parasite_trigger_aura</a></div><div class="ttdef"><b>Definition:</b> instance_serpent_shrine.cpp:214</div></div>
+<div class="ttc" id="aa23256_html"><div class="ttname"><a href="../../d5/d15/a23256.html">spell_serpentshrine_cavern_serpentshrine_parasite_trigger</a></div><div class="ttdef"><b>Definition:</b> instance_serpent_shrine.cpp:230</div></div>
+<div class="ttc" id="aa23260_html"><div class="ttname"><a href="../../dc/dbc/a23260.html">spell_serpentshrine_cavern_infection</a></div><div class="ttdef"><b>Definition:</b> instance_serpent_shrine.cpp:247</div></div>
+<div class="ttc" id="aa23264_html"><div class="ttname"><a href="../../d0/d54/a23264.html">spell_serpentshrine_cavern_coilfang_water</a></div><div class="ttdef"><b>Definition:</b> instance_serpent_shrine.cpp:269</div></div>
+<div class="ttc" id="aa23268_html"><div class="ttname"><a href="../../d9/d80/a23268.html">npc_rancid_mushroom</a></div><div class="ttdef"><b>Definition:</b> instance_serpent_shrine.cpp:323</div></div>
+<div class="ttc" id="aa23272_html"><div class="ttname"><a href="../../d2/de9/a23272.html">spell_rancid_spore_cloud</a></div><div class="ttdef"><b>Definition:</b> instance_serpent_shrine.cpp:353</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l02441">WorldObject::FindNearestCreature()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00106">RegisterSerpentShrineAI</a>, <a class="el" href="../../#l00090">RegisterSpellAndAuraScriptPair</a>, and <a class="el" href="../../#l00088">RegisterSpellScript</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00251">npc_mrfloppy::npc_mrfloppyAI::EnterEvadeMode()</a>, <a class="el" href="../../#l03447">SmartScript::GetTargets()</a>, <a class="el" href="../../#l00381">spell_q12227_camera_shake::HandleScriptEffect()</a>, <a class="el" href="../../#l00204">npc_necropolis_health::JustDied()</a>, <a class="el" href="../../#l00789">npc_cultist_engineer::JustDied()</a>, <a class="el" href="../../#l00971">npc_pallid_horror::JustDied()</a>, <a class="el" href="../../#l00233">npc_mrfloppy::npc_mrfloppyAI::JustEngagedWith()</a>, <a class="el" href="../../#l00070">npc_emily::npc_emilyAI::JustSummoned()</a>, <a class="el" href="../../#l00130">npc_deaths_door_fell_cannon_target_bunny::npc_deaths_door_fell_cannon_target_bunnyAI::JustSummoned()</a>, <a class="el" href="../../#l00035">Condition::Meets()</a>, <a class="el" href="../../#l00444">npc_mageguard_dalaran::npc_mageguard_dalaranAI::MoveInLineOfSight()</a>, <a class="el" href="../../#l00228">npc_akama_shade::MovementInform()</a>, <a class="el" href="../../#l00585">go_elune_fire::OnGossipHello()</a>, <a class="el" href="../../#l00908">npc_varian_wrynn::OnGossipSelect()</a>, <a class="el" href="../../#l02223">npc_thrall_bfu::OnGossipSelect()</a>, <a class="el" href="../../#l00201">npc_emily::OnQuestAccept()</a>, <a class="el" href="../../#l00128">at_ancient_leaf::OnTrigger()</a>, <a class="el" href="../../#l01080">npc_oscillating_frequency_scanner_master_bunny::npc_oscillating_frequency_scanner_master_bunnyAI::Reset()</a>, <a class="el" href="../../#l00277">Map::ScriptsProcess()</a>, <a class="el" href="../../#l00308">npc_necropolis_relay::SpellHit()</a>, <a class="el" href="../../#l00274">npc_necropolis_proxy::SpellHit()</a>, <a class="el" href="../../#l00088">npc_deaths_door_fell_cannon_target_bunny::npc_deaths_door_fell_cannon_target_bunnyAI::SpellHit()</a>, <a class="el" href="../../#l00476">npc_a_special_surprise::npc_a_special_surpriseAI::UpdateAI()</a>, <a class="el" href="../../#l01806">npc_blessed_banner::npc_blessed_bannerAI::UpdateAI()</a>, <a class="el" href="../../#l00160">npc_warmage_violetstand::UpdateAI()</a>, <a class="el" href="../../#l00190">npc_deaths_fel_cannon::npc_deaths_fel_cannonAI::UpdateAI()</a>, and <a class="el" href="../../#l00078">npc_emily::npc_emilyAI::WaypointReached()</a>.</p>
-
-</div>
-</div>
-<a id="a80b13d7c0fa3b835b0834955ed0f93d8" name="a80b13d7c0fa3b835b0834955ed0f93d8"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a80b13d7c0fa3b835b0834955ed0f93d8">&#9670;&#160;</a></span>GetClosestGameObjectWithEntry()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d4/d0a/a08162.html">GameObject</a> * GetClosestGameObjectWithEntry </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../da/da3/a08394.html">WorldObject</a> *&#160;</td>
-          <td class="paramname"><em>source</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>entry</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>maxSearchRange</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">bool&#160;</td>
-          <td class="paramname"><em>onlySpawned</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  871</span>{</div>
-<div class="line"><span class="lineno">  872</span>    <span class="keywordflow">return</span> source-&gt;<a class="code hl_function" href="../../da/da3/a08394.html#a178c5ef685f97dc9bbd486dd6cabfb63">FindNearestGameObject</a>(entry, maxSearchRange, onlySpawned);</div>
-<div class="line"><span class="lineno">  873</span>}</div>
-<div class="ttc" id="aa08394_html_a178c5ef685f97dc9bbd486dd6cabfb63"><div class="ttname"><a href="../../da/da3/a08394.html#a178c5ef685f97dc9bbd486dd6cabfb63">WorldObject::FindNearestGameObject</a></div><div class="ttdeci">GameObject * FindNearestGameObject(uint32 entry, float range, bool onlySpawned=false) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:2450</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l02450">WorldObject::FindNearestGameObject()</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00336">npc_ranshalla::npc_ranshallaAI::DoChannelTorchSpell()</a>, <a class="el" href="../../#l02160">npc_firework::npc_fireworkAI::FindNearestLauncher()</a>, <a class="el" href="../../#l03447">SmartScript::GetTargets()</a>, <a class="el" href="../../#l00435">npc_ranshalla::npc_ranshallaAI::JustDidDialogueStep()</a>, <a class="el" href="../../#l00789">npc_cultist_engineer::JustDied()</a>, <a class="el" href="../../#l00035">Condition::Meets()</a>, <a class="el" href="../../#l00061">AreaTrigger_at_coilfang_waterfall::OnTrigger()</a>, <a class="el" href="../../#l00371">npc_necrotic_shard::ScheduleTasks()</a>, <a class="el" href="../../#l00573">npc_necrotic_shard::SummonCultists()</a>, <a class="el" href="../../#l00197">boss_ossirian::SummonedCreatureDespawn()</a>, <a class="el" href="../../#l00262">boss_grand_warlock_nethekurse::UpdateAI()</a>, <a class="el" href="../../#l00743">npc_maxx_a_million_escort::npc_maxx_a_million_escortAI::UpdateAI()</a>, <a class="el" href="../../#l00128">npc_muglash::npc_muglashAI::WaypointReached()</a>, and <a class="el" href="../../#l00711">npc_maxx_a_million_escort::npc_maxx_a_million_escortAI::WaypointReached()</a>.</p>
-
-</div>
-</div>
-<a id="ab6a8246d473139627106be4651f6329d" name="ab6a8246d473139627106be4651f6329d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab6a8246d473139627106be4651f6329d">&#9670;&#160;</a></span>GetCreatureListWithEntryInGrid()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void GetCreatureListWithEntryInGrid </td>
-          <td>(</td>
-          <td class="paramtype">std::list&lt; <a class="el" href="../../d0/d36/a07986.html">Creature</a> * &gt; &amp;&#160;</td>
-          <td class="paramname"><em>list</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../da/da3/a08394.html">WorldObject</a> *&#160;</td>
-          <td class="paramname"><em>source</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>entry</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>maxSearchRange</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  876</span>{</div>
-<div class="line"><span class="lineno">  877</span>    source-&gt;<a class="code hl_function" href="../../da/da3/a08394.html#aa0a6f93bf47966d32dae1ef3fee55ac7">GetCreatureListWithEntryInGrid</a>(list, entry, maxSearchRange);</div>
-<div class="line"><span class="lineno">  878</span>}</div>
-<div class="ttc" id="aa08394_html_aa0a6f93bf47966d32dae1ef3fee55ac7"><div class="ttname"><a href="../../da/da3/a08394.html#aa0a6f93bf47966d32dae1ef3fee55ac7">WorldObject::GetCreatureListWithEntryInGrid</a></div><div class="ttdeci">void GetCreatureListWithEntryInGrid(std::list&lt; Creature * &gt; &amp;lList, uint32 uiEntry, float fMaxSearchRange) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:2502</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l02502">WorldObject::GetCreatureListWithEntryInGrid()</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l01577">instance_icecrown_citadel::instance_icecrown_citadel_InstanceMapScript::CheckLichKingAvailability()</a>, <a class="el" href="../../#l00232">boss_mandokir::boss_mandokirAI::DoAction()</a>, <a class="el" href="../../#l00541">npc_high_overlord_saurfang_icc::npc_high_overlord_saurfangAI::DoAction()</a>, <a class="el" href="../../#l00802">npc_muradin_bronzebeard_icc::npc_muradin_bronzebeard_iccAI::DoAction()</a>, <a class="el" href="../../#l00233">boss_grand_warlock_nethekurse::DoAction()</a>, <a class="el" href="../../#l00712">npc_tirions_gambit_tirion::npc_tirions_gambit_tirionAI::DoAction()</a>, <a class="el" href="../../#l00584">instance_blackrock_spire::instance_blackrock_spireMapScript::Dragonspireroomstore()</a>, <a class="el" href="../../#l00150">boss_arlokk::boss_arlokkAI::EnterEvadeMode()</a>, <a class="el" href="../../#l00250">npc_shattered_hand_scout::FireArrows()</a>, <a class="el" href="../../#l00542">npc_hyjal_ground_trash::GetNearbyFriendlyTrashCreature()</a>, <a class="el" href="../../#l00273">go_tadpole_cage::go_tadpole_cageAI::GossipHello()</a>, <a class="el" href="../../#l01709">spell_frostwarden_handler_order_whelp::HandleForcedCast()</a>, <a class="el" href="../../#l00952">spell_putricide_unstable_experiment::HandleScript()</a>, <a class="el" href="../../#l00868">spell_summon_amanishi_sentries::HandleScriptEffect()</a>, <a class="el" href="../../#l00534">npc_necrotic_shard::HandleShardMinionSpawnerSmall()</a>, <a class="el" href="../../#l00177">boss_mandokir::boss_mandokirAI::JustDied()</a>, <a class="el" href="../../#l00369">npc_blackhand_incarcerator::npc_blackhand_incarceratorAI::JustEngagedWith()</a>, <a class="el" href="../../#l00176">npc_sunblade_scout::JustEngagedWith()</a>, <a class="el" href="../../#l00751">npc_amanishi_scout::JustEngagedWith()</a>, <a class="el" href="../../#l00110">boss_arlokk::boss_arlokkAI::JustEngagedWith()</a>, <a class="el" href="../../#l00151">boss_rotface::boss_rotfaceAI::JustEngagedWith()</a>, <a class="el" href="../../#l01587">npc_sindragosa_trash::npc_sindragosa_trashAI::JustEngagedWith()</a>, <a class="el" href="../../#l00094">npc_shattered_hand_scout::MoveInLineOfSight()</a>, <a class="el" href="../../#l02464">npc_valkyr_shadowguard::npc_valkyr_shadowguardAI::MovementInform()</a>, <a class="el" href="../../#l00127">npc_shattered_hand_scout::MovementInform()</a>, <a class="el" href="../../#l01689">go_veil_skith_cage::OnGossipHello()</a>, <a class="el" href="../../#l02185">at_icc_saurfang_portal::OnTrigger()</a>, <a class="el" href="../../#l00456">npc_harrison_jones::OpenMassiveGateAndCallGuards()</a>, <a class="el" href="../../#l00465">npc_dark_iron_attack_generator::PrepareEvent()</a>, <a class="el" href="../../#l01762">instance_icecrown_citadel::instance_icecrown_citadel_InstanceMapScript::ProcessEvent()</a>, <a class="el" href="../../#l00114">boss_pandemonius::PullRoom()</a>, <a class="el" href="../../#l00118">RevivePlayer()</a>, <a class="el" href="../../#l00793">npc_corrupted_totem::SetAura()</a>, <a class="el" href="../../#l00132">instance_scarlet_monastery::instance_scarlet_monastery_InstanceMapScript::SetData()</a>, <a class="el" href="../../#l01901">npc_commander_eligor_dawnbringer::npc_commander_eligor_dawnbringerAI::StoreTargets()</a>, <a class="el" href="../../#l00200">boss_pyroguard_emberseer::boss_pyroguard_emberseerAI::UpdateAI()</a>, <a class="el" href="../../#l00073">npc_rookery_hatcher::npc_rookery_hatcherAI::UpdateAI()</a>, <a class="el" href="../../#l00295">npc_supervisor_raelen::UpdateAI()</a>, <a class="el" href="../../#l00106">npc_tiger_matriarch_credit::npc_tiger_matriarch_creditAI::UpdateAI()</a>, <a class="el" href="../../#l01146">npc_warmage_coldarra::npc_warmage_coldarraAI::UpdateAI()</a>, and <a class="el" href="../../#l00160">npc_warmage_violetstand::UpdateAI()</a>.</p>
-
-</div>
-</div>
-<a id="a2e3edf6fd8a6865d815af4f8acb184af" name="a2e3edf6fd8a6865d815af4f8acb184af"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2e3edf6fd8a6865d815af4f8acb184af">&#9670;&#160;</a></span>GetDeadCreatureListInGrid()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void GetDeadCreatureListInGrid </td>
-          <td>(</td>
-          <td class="paramtype">std::list&lt; <a class="el" href="../../d0/d36/a07986.html">Creature</a> * &gt; &amp;&#160;</td>
-          <td class="paramname"><em>list</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../da/da3/a08394.html">WorldObject</a> *&#160;</td>
-          <td class="paramname"><em>source</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>maxSearchRange</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">bool&#160;</td>
-          <td class="paramname"><em>alive</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  886</span>{</div>
-<div class="line"><span class="lineno">  887</span>    source-&gt;<a class="code hl_function" href="../../da/da3/a08394.html#a3d9faa2fc099897b31d45d4f74937d82">GetDeadCreatureListInGrid</a>(list, maxSearchRange, alive);</div>
-<div class="line"><span class="lineno">  888</span>}</div>
-<div class="ttc" id="aa08394_html_a3d9faa2fc099897b31d45d4f74937d82"><div class="ttname"><a href="../../da/da3/a08394.html#a3d9faa2fc099897b31d45d4f74937d82">WorldObject::GetDeadCreatureListInGrid</a></div><div class="ttdeci">void GetDeadCreatureListInGrid(std::list&lt; Creature * &gt; &amp;lList, float maxSearchRange, bool alive=false) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:2516</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l02516">WorldObject::GetDeadCreatureListInGrid()</a>.</p>
-
-</div>
-</div>
-<a id="ae9abb80c4e811509bca88e65cf817276" name="ae9abb80c4e811509bca88e65cf817276"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae9abb80c4e811509bca88e65cf817276">&#9670;&#160;</a></span>GetGameObjectListWithEntryInGrid()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void GetGameObjectListWithEntryInGrid </td>
-          <td>(</td>
-          <td class="paramtype">std::list&lt; <a class="el" href="../../d4/d0a/a08162.html">GameObject</a> * &gt; &amp;&#160;</td>
-          <td class="paramname"><em>list</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../da/da3/a08394.html">WorldObject</a> *&#160;</td>
-          <td class="paramname"><em>source</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>entry</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>maxSearchRange</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  881</span>{</div>
-<div class="line"><span class="lineno">  882</span>    source-&gt;<a class="code hl_function" href="../../da/da3/a08394.html#a3abc3a0e7301fe3285ac566edba3eb2c">GetGameObjectListWithEntryInGrid</a>(list, entry, maxSearchRange);</div>
-<div class="line"><span class="lineno">  883</span>}</div>
-<div class="ttc" id="aa08394_html_a3abc3a0e7301fe3285ac566edba3eb2c"><div class="ttname"><a href="../../da/da3/a08394.html#a3abc3a0e7301fe3285ac566edba3eb2c">WorldObject::GetGameObjectListWithEntryInGrid</a></div><div class="ttdeci">void GetGameObjectListWithEntryInGrid(std::list&lt; GameObject * &gt; &amp;lList, uint32 uiEntry, float fMaxSearchRange) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:2488</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l02488">WorldObject::GetGameObjectListWithEntryInGrid()</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00082">boss_broodlord::boss_broodlordAI::JustDied()</a>, <a class="el" href="../../#l01565">npc_coren_direbrew::Reset()</a>, <a class="el" href="../../#l02901">npc_thrall_bfu::npc_thrall_bfuAI::UpdateAI()</a>, and <a class="el" href="../../#l00383">npc_ranshalla::npc_ranshallaAI::WaypointReached()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00122">AddOutlandScripts()</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Variable Documentation</h2>
-<a id="ae56af266ccaa1794f1f014938b07e9cc" name="ae56af266ccaa1794f1f014938b07e9cc"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae56af266ccaa1794f1f014938b07e9cc">&#9670;&#160;</a></span>SpellSummary</h2>
+<a id="aa75d7d0ffe0cef214f982966c33db1c1" name="aa75d7d0ffe0cef214f982966c33db1c1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa75d7d0ffe0cef214f982966c33db1c1">&#9670;&#160;</a></span>boundaries</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">struct <a class="el" href="../../d9/dac/a06190.html">TSpellSummary</a>* SpellSummary</td>
+          <td class="memname"><a class="el" href="../../df/df9/a09640.html">BossBoundaryData</a> const boundaries</td>
         </tr>
       </table>
 </div><div class="memdoc">
+<b>Initial value:</b><div class="fragment"><div class="line">=</div>
+<div class="line">{</div>
+<div class="line">    { <a class="code hl_enumvalue" href="../../db/dda/a02318.html#afb6eb4f28419b652027fad41104a6d22a255a8ecd32cd679e9c32236ae5b19a80">DATA_FATHOM_LORD_KARATHRESS</a>, <span class="keyword">new</span> <a class="code hl_class" href="../../dc/d62/a09764.html">RectangleBoundary</a>(456.86f, 571.56f, -602.07f, -449.59f) },</div>
+<div class="line">    { <a class="code hl_enumvalue" href="../../db/dda/a02318.html#afb6eb4f28419b652027fad41104a6d22afb215454e485b686f9cfbeb2698f02c5">DATA_MOROGRIM_TIDEWALKER</a>,    <span class="keyword">new</span> <a class="code hl_class" href="../../dc/d62/a09764.html">RectangleBoundary</a>(304.32f, 457.59f, -786.5f, -661.3f) },</div>
+<div class="line">    { <a class="code hl_enumvalue" href="../../db/dda/a02318.html#afb6eb4f28419b652027fad41104a6d22aaba632b2bc047fcd78433cd6ed9f4955">DATA_LADY_VASHJ</a>,             <span class="keyword">new</span> <a class="code hl_class" href="../../df/d90/a09768.html">CircleBoundary</a>(<a class="code hl_struct" href="../../db/ddf/a08444.html">Position</a>(29.99f, -922.409f), 83.65f) }</div>
+<div class="line">}</div>
+<div class="ttc" id="aa02318_html_afb6eb4f28419b652027fad41104a6d22a255a8ecd32cd679e9c32236ae5b19a80"><div class="ttname"><a href="../../db/dda/a02318.html#afb6eb4f28419b652027fad41104a6d22a255a8ecd32cd679e9c32236ae5b19a80">DATA_FATHOM_LORD_KARATHRESS</a></div><div class="ttdeci">@ DATA_FATHOM_LORD_KARATHRESS</div><div class="ttdef"><b>Definition:</b> serpent_shrine.h:32</div></div>
+<div class="ttc" id="aa02318_html_afb6eb4f28419b652027fad41104a6d22aaba632b2bc047fcd78433cd6ed9f4955"><div class="ttname"><a href="../../db/dda/a02318.html#afb6eb4f28419b652027fad41104a6d22aaba632b2bc047fcd78433cd6ed9f4955">DATA_LADY_VASHJ</a></div><div class="ttdeci">@ DATA_LADY_VASHJ</div><div class="ttdef"><b>Definition:</b> serpent_shrine.h:34</div></div>
+<div class="ttc" id="aa02318_html_afb6eb4f28419b652027fad41104a6d22afb215454e485b686f9cfbeb2698f02c5"><div class="ttname"><a href="../../db/dda/a02318.html#afb6eb4f28419b652027fad41104a6d22afb215454e485b686f9cfbeb2698f02c5">DATA_MOROGRIM_TIDEWALKER</a></div><div class="ttdeci">@ DATA_MOROGRIM_TIDEWALKER</div><div class="ttdef"><b>Definition:</b> serpent_shrine.h:33</div></div>
+<div class="ttc" id="aa08444_html"><div class="ttname"><a href="../../db/ddf/a08444.html">Position</a></div><div class="ttdef"><b>Definition:</b> Position.h:27</div></div>
+<div class="ttc" id="aa09764_html"><div class="ttname"><a href="../../dc/d62/a09764.html">RectangleBoundary</a></div><div class="ttdef"><b>Definition:</b> AreaBoundary.h:76</div></div>
+<div class="ttc" id="aa09768_html"><div class="ttname"><a href="../../df/d90/a09768.html">CircleBoundary</a></div><div class="ttdef"><b>Definition:</b> AreaBoundary.h:89</div></div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00082">instance_serpent_shrine::instance_serpentshrine_cavern_InstanceMapScript::Initialize()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00238">ScriptMgr::FillSpellSummary()</a>, <a class="el" href="../../#l00344">ScriptedAI::SelectSpell()</a>, and <a class="el" href="../../#l00108">ScriptMgr::Unload()</a>.</p>
+</div>
+</div>
+<a id="a412286b689bd324fedd65ddd8dde8afb" name="a412286b689bd324fedd65ddd8dde8afb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a412286b689bd324fedd65ddd8dde8afb">&#9670;&#160;</a></span>creatureData</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d2/d7b/a09648.html">ObjectData</a> const creatureData[]</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<b>Initial value:</b><div class="fragment"><div class="line">=</div>
+<div class="line">{</div>
+<div class="line">    { <a class="code hl_enumvalue" href="../../db/dda/a02318.html#a2ee1f33d8ee290d833dd84e07c1ff669a9374e15da3cc6bbccd3533be823ac70a">NPC_LEOTHERAS_THE_BLIND</a>,    <a class="code hl_enumvalue" href="../../db/dda/a02318.html#afb6eb4f28419b652027fad41104a6d22aed0f823a89b6a9ea202e4f92768bd05a">DATA_LEOTHERAS_THE_BLIND</a>    },</div>
+<div class="line">    { <a class="code hl_enumvalue" href="../../db/dda/a02318.html#a2ee1f33d8ee290d833dd84e07c1ff669aa9ddbcd9580c375ef8ec7c6d04ff05b2">NPC_FATHOM_LORD_KARATHRESS</a>, <a class="code hl_enumvalue" href="../../db/dda/a02318.html#afb6eb4f28419b652027fad41104a6d22a255a8ecd32cd679e9c32236ae5b19a80">DATA_FATHOM_LORD_KARATHRESS</a> },</div>
+<div class="line">    { <a class="code hl_enumvalue" href="../../db/dda/a02318.html#a2ee1f33d8ee290d833dd84e07c1ff669a7c16cf9744557f72e72894b9472e2c3e">NPC_LADY_VASHJ</a>,             <a class="code hl_enumvalue" href="../../db/dda/a02318.html#afb6eb4f28419b652027fad41104a6d22aaba632b2bc047fcd78433cd6ed9f4955">DATA_LADY_VASHJ</a>             },</div>
+<div class="line">    { <a class="code hl_enumvalue" href="../../db/dda/a02318.html#a2ee1f33d8ee290d833dd84e07c1ff669addedaab0e715c76265b3dbb7085baa48">NPC_SEER_OLUM</a>,              <a class="code hl_enumvalue" href="../../db/dda/a02318.html#afb6eb4f28419b652027fad41104a6d22ac2c28f890412fb68bdf4cad2b2820fb3">DATA_SEER_OLUM</a>              },</div>
+<div class="line">    { 0,                          0                           }</div>
+<div class="line">}</div>
+<div class="ttc" id="aa02318_html_a2ee1f33d8ee290d833dd84e07c1ff669a7c16cf9744557f72e72894b9472e2c3e"><div class="ttname"><a href="../../db/dda/a02318.html#a2ee1f33d8ee290d833dd84e07c1ff669a7c16cf9744557f72e72894b9472e2c3e">NPC_LADY_VASHJ</a></div><div class="ttdeci">@ NPC_LADY_VASHJ</div><div class="ttdef"><b>Definition:</b> serpent_shrine.h:56</div></div>
+<div class="ttc" id="aa02318_html_a2ee1f33d8ee290d833dd84e07c1ff669a9374e15da3cc6bbccd3533be823ac70a"><div class="ttname"><a href="../../db/dda/a02318.html#a2ee1f33d8ee290d833dd84e07c1ff669a9374e15da3cc6bbccd3533be823ac70a">NPC_LEOTHERAS_THE_BLIND</a></div><div class="ttdeci">@ NPC_LEOTHERAS_THE_BLIND</div><div class="ttdef"><b>Definition:</b> serpent_shrine.h:53</div></div>
+<div class="ttc" id="aa02318_html_a2ee1f33d8ee290d833dd84e07c1ff669aa9ddbcd9580c375ef8ec7c6d04ff05b2"><div class="ttname"><a href="../../db/dda/a02318.html#a2ee1f33d8ee290d833dd84e07c1ff669aa9ddbcd9580c375ef8ec7c6d04ff05b2">NPC_FATHOM_LORD_KARATHRESS</a></div><div class="ttdeci">@ NPC_FATHOM_LORD_KARATHRESS</div><div class="ttdef"><b>Definition:</b> serpent_shrine.h:55</div></div>
+<div class="ttc" id="aa02318_html_a2ee1f33d8ee290d833dd84e07c1ff669addedaab0e715c76265b3dbb7085baa48"><div class="ttname"><a href="../../db/dda/a02318.html#a2ee1f33d8ee290d833dd84e07c1ff669addedaab0e715c76265b3dbb7085baa48">NPC_SEER_OLUM</a></div><div class="ttdeci">@ NPC_SEER_OLUM</div><div class="ttdef"><b>Definition:</b> serpent_shrine.h:62</div></div>
+<div class="ttc" id="aa02318_html_afb6eb4f28419b652027fad41104a6d22ac2c28f890412fb68bdf4cad2b2820fb3"><div class="ttname"><a href="../../db/dda/a02318.html#afb6eb4f28419b652027fad41104a6d22ac2c28f890412fb68bdf4cad2b2820fb3">DATA_SEER_OLUM</a></div><div class="ttdeci">@ DATA_SEER_OLUM</div><div class="ttdef"><b>Definition:</b> serpent_shrine.h:42</div></div>
+<div class="ttc" id="aa02318_html_afb6eb4f28419b652027fad41104a6d22aed0f823a89b6a9ea202e4f92768bd05a"><div class="ttname"><a href="../../db/dda/a02318.html#afb6eb4f28419b652027fad41104a6d22aed0f823a89b6a9ea202e4f92768bd05a">DATA_LEOTHERAS_THE_BLIND</a></div><div class="ttdeci">@ DATA_LEOTHERAS_THE_BLIND</div><div class="ttdef"><b>Definition:</b> serpent_shrine.h:31</div></div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00082">instance_serpent_shrine::instance_serpentshrine_cavern_InstanceMapScript::Initialize()</a>.</p>
+
+</div>
+</div>
+<a id="a1461582839e3b7fdbb7397e5d2086e31" name="a1461582839e3b7fdbb7397e5d2086e31"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1461582839e3b7fdbb7397e5d2086e31">&#9670;&#160;</a></span>gameObjectData</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d2/d7b/a09648.html">ObjectData</a> const gameObjectData[]</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<b>Initial value:</b><div class="fragment"><div class="line">=</div>
+<div class="line">{</div>
+<div class="line">    { <a class="code hl_enumvalue" href="../../db/dda/a02318.html#a2ee1f33d8ee290d833dd84e07c1ff669a0ebb63ddf291435dec0ff9b52347bd4c">GO_STRANGE_POOL</a>,              <a class="code hl_enumvalue" href="../../db/dda/a02318.html#afb6eb4f28419b652027fad41104a6d22a6b65e905f33be4295b23495261918c6a">DATA_STRANGE_POOL</a> },</div>
+<div class="line">    { <a class="code hl_enumvalue" href="../../db/dda/a02318.html#a2ee1f33d8ee290d833dd84e07c1ff669a6058858e1edc4d550eb25751c4326118">GO_LADY_VASHJ_BRIDGE_CONSOLE</a>, <a class="code hl_enumvalue" href="../../db/dda/a02318.html#afb6eb4f28419b652027fad41104a6d22add9da5e0d507536ca1bfb530b3163ca7">DATA_CONSOLE</a>      },</div>
+<div class="line">    { <a class="code hl_enumvalue" href="../../db/dda/a02318.html#a2ee1f33d8ee290d833dd84e07c1ff669abed93d67ae5bf832368734e32eff7df3">GO_COILFANG_BRIDGE1</a>,          <a class="code hl_enumvalue" href="../../db/dda/a02318.html#afb6eb4f28419b652027fad41104a6d22ad46aa559d6e44270f71888832eee10df">DATA_BRIDGE_PART1</a> },</div>
+<div class="line">    { <a class="code hl_enumvalue" href="../../db/dda/a02318.html#a2ee1f33d8ee290d833dd84e07c1ff669afc8767723b1c609a313c3aa2991b031c">GO_COILFANG_BRIDGE2</a>,          <a class="code hl_enumvalue" href="../../db/dda/a02318.html#afb6eb4f28419b652027fad41104a6d22a279d761be3da32a485f50674165699d5">DATA_BRIDGE_PART2</a> },</div>
+<div class="line">    { <a class="code hl_enumvalue" href="../../db/dda/a02318.html#a2ee1f33d8ee290d833dd84e07c1ff669a350740d6957c7cdca10f1bccf33ef514">GO_COILFANG_BRIDGE3</a>,          <a class="code hl_enumvalue" href="../../db/dda/a02318.html#afb6eb4f28419b652027fad41104a6d22a61fc42e8a301dde23bcc50dbb12b1fea">DATA_BRIDGE_PART3</a> },</div>
+<div class="line">    { 0,                            0                 }</div>
+<div class="line">}</div>
+<div class="ttc" id="aa02318_html_a2ee1f33d8ee290d833dd84e07c1ff669a0ebb63ddf291435dec0ff9b52347bd4c"><div class="ttname"><a href="../../db/dda/a02318.html#a2ee1f33d8ee290d833dd84e07c1ff669a0ebb63ddf291435dec0ff9b52347bd4c">GO_STRANGE_POOL</a></div><div class="ttdeci">@ GO_STRANGE_POOL</div><div class="ttdef"><b>Definition:</b> serpent_shrine.h:83</div></div>
+<div class="ttc" id="aa02318_html_a2ee1f33d8ee290d833dd84e07c1ff669a350740d6957c7cdca10f1bccf33ef514"><div class="ttname"><a href="../../db/dda/a02318.html#a2ee1f33d8ee290d833dd84e07c1ff669a350740d6957c7cdca10f1bccf33ef514">GO_COILFANG_BRIDGE3</a></div><div class="ttdeci">@ GO_COILFANG_BRIDGE3</div><div class="ttdef"><b>Definition:</b> serpent_shrine.h:76</div></div>
+<div class="ttc" id="aa02318_html_a2ee1f33d8ee290d833dd84e07c1ff669a6058858e1edc4d550eb25751c4326118"><div class="ttname"><a href="../../db/dda/a02318.html#a2ee1f33d8ee290d833dd84e07c1ff669a6058858e1edc4d550eb25751c4326118">GO_LADY_VASHJ_BRIDGE_CONSOLE</a></div><div class="ttdeci">@ GO_LADY_VASHJ_BRIDGE_CONSOLE</div><div class="ttdef"><b>Definition:</b> serpent_shrine.h:73</div></div>
+<div class="ttc" id="aa02318_html_a2ee1f33d8ee290d833dd84e07c1ff669abed93d67ae5bf832368734e32eff7df3"><div class="ttname"><a href="../../db/dda/a02318.html#a2ee1f33d8ee290d833dd84e07c1ff669abed93d67ae5bf832368734e32eff7df3">GO_COILFANG_BRIDGE1</a></div><div class="ttdeci">@ GO_COILFANG_BRIDGE1</div><div class="ttdef"><b>Definition:</b> serpent_shrine.h:74</div></div>
+<div class="ttc" id="aa02318_html_a2ee1f33d8ee290d833dd84e07c1ff669afc8767723b1c609a313c3aa2991b031c"><div class="ttname"><a href="../../db/dda/a02318.html#a2ee1f33d8ee290d833dd84e07c1ff669afc8767723b1c609a313c3aa2991b031c">GO_COILFANG_BRIDGE2</a></div><div class="ttdeci">@ GO_COILFANG_BRIDGE2</div><div class="ttdef"><b>Definition:</b> serpent_shrine.h:75</div></div>
+<div class="ttc" id="aa02318_html_afb6eb4f28419b652027fad41104a6d22a279d761be3da32a485f50674165699d5"><div class="ttname"><a href="../../db/dda/a02318.html#afb6eb4f28419b652027fad41104a6d22a279d761be3da32a485f50674165699d5">DATA_BRIDGE_PART2</a></div><div class="ttdeci">@ DATA_BRIDGE_PART2</div><div class="ttdef"><b>Definition:</b> serpent_shrine.h:45</div></div>
+<div class="ttc" id="aa02318_html_afb6eb4f28419b652027fad41104a6d22a61fc42e8a301dde23bcc50dbb12b1fea"><div class="ttname"><a href="../../db/dda/a02318.html#afb6eb4f28419b652027fad41104a6d22a61fc42e8a301dde23bcc50dbb12b1fea">DATA_BRIDGE_PART3</a></div><div class="ttdeci">@ DATA_BRIDGE_PART3</div><div class="ttdef"><b>Definition:</b> serpent_shrine.h:46</div></div>
+<div class="ttc" id="aa02318_html_afb6eb4f28419b652027fad41104a6d22a6b65e905f33be4295b23495261918c6a"><div class="ttname"><a href="../../db/dda/a02318.html#afb6eb4f28419b652027fad41104a6d22a6b65e905f33be4295b23495261918c6a">DATA_STRANGE_POOL</a></div><div class="ttdeci">@ DATA_STRANGE_POOL</div><div class="ttdef"><b>Definition:</b> serpent_shrine.h:41</div></div>
+<div class="ttc" id="aa02318_html_afb6eb4f28419b652027fad41104a6d22ad46aa559d6e44270f71888832eee10df"><div class="ttname"><a href="../../db/dda/a02318.html#afb6eb4f28419b652027fad41104a6d22ad46aa559d6e44270f71888832eee10df">DATA_BRIDGE_PART1</a></div><div class="ttdeci">@ DATA_BRIDGE_PART1</div><div class="ttdef"><b>Definition:</b> serpent_shrine.h:44</div></div>
+<div class="ttc" id="aa02318_html_afb6eb4f28419b652027fad41104a6d22add9da5e0d507536ca1bfb530b3163ca7"><div class="ttname"><a href="../../db/dda/a02318.html#afb6eb4f28419b652027fad41104a6d22add9da5e0d507536ca1bfb530b3163ca7">DATA_CONSOLE</a></div><div class="ttdeci">@ DATA_CONSOLE</div><div class="ttdef"><b>Definition:</b> serpent_shrine.h:43</div></div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00082">instance_serpent_shrine::instance_serpentshrine_cavern_InstanceMapScript::Initialize()</a>.</p>
+
+</div>
+</div>
+<a id="a6720238df140a3c574a711042b7f5bd3" name="a6720238df140a3c574a711042b7f5bd3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6720238df140a3c574a711042b7f5bd3">&#9670;&#160;</a></span>minionData</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d2/d1c/a09644.html">MinionData</a> const minionData[]</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<b>Initial value:</b><div class="fragment"><div class="line">=</div>
+<div class="line">{</div>
+<div class="line">    { <a class="code hl_enumvalue" href="../../db/dda/a02318.html#a2ee1f33d8ee290d833dd84e07c1ff669a2917a7824e99a14c13f489b261dc6882">NPC_FATHOM_GUARD_SHARKKIS</a>,  <a class="code hl_enumvalue" href="../../db/dda/a02318.html#afb6eb4f28419b652027fad41104a6d22a255a8ecd32cd679e9c32236ae5b19a80">DATA_FATHOM_LORD_KARATHRESS</a> },</div>
+<div class="line">    { <a class="code hl_enumvalue" href="../../db/dda/a02318.html#a2ee1f33d8ee290d833dd84e07c1ff669aac591f904f504e7e510320589afc39a9">NPC_FATHOM_GUARD_TIDALVESS</a>, <a class="code hl_enumvalue" href="../../db/dda/a02318.html#afb6eb4f28419b652027fad41104a6d22a255a8ecd32cd679e9c32236ae5b19a80">DATA_FATHOM_LORD_KARATHRESS</a> },</div>
+<div class="line">    { <a class="code hl_enumvalue" href="../../db/dda/a02318.html#a2ee1f33d8ee290d833dd84e07c1ff669aff9b96a011ffe2976676c7b4f183fe71">NPC_FATHOM_GUARD_CARIBDIS</a>,  <a class="code hl_enumvalue" href="../../db/dda/a02318.html#afb6eb4f28419b652027fad41104a6d22a255a8ecd32cd679e9c32236ae5b19a80">DATA_FATHOM_LORD_KARATHRESS</a> },</div>
+<div class="line">    { 0,                          0,                          }</div>
+<div class="line">}</div>
+<div class="ttc" id="aa02318_html_a2ee1f33d8ee290d833dd84e07c1ff669a2917a7824e99a14c13f489b261dc6882"><div class="ttname"><a href="../../db/dda/a02318.html#a2ee1f33d8ee290d833dd84e07c1ff669a2917a7824e99a14c13f489b261dc6882">NPC_FATHOM_GUARD_SHARKKIS</a></div><div class="ttdeci">@ NPC_FATHOM_GUARD_SHARKKIS</div><div class="ttdef"><b>Definition:</b> serpent_shrine.h:58</div></div>
+<div class="ttc" id="aa02318_html_a2ee1f33d8ee290d833dd84e07c1ff669aac591f904f504e7e510320589afc39a9"><div class="ttname"><a href="../../db/dda/a02318.html#a2ee1f33d8ee290d833dd84e07c1ff669aac591f904f504e7e510320589afc39a9">NPC_FATHOM_GUARD_TIDALVESS</a></div><div class="ttdeci">@ NPC_FATHOM_GUARD_TIDALVESS</div><div class="ttdef"><b>Definition:</b> serpent_shrine.h:59</div></div>
+<div class="ttc" id="aa02318_html_a2ee1f33d8ee290d833dd84e07c1ff669aff9b96a011ffe2976676c7b4f183fe71"><div class="ttname"><a href="../../db/dda/a02318.html#a2ee1f33d8ee290d833dd84e07c1ff669aff9b96a011ffe2976676c7b4f183fe71">NPC_FATHOM_GUARD_CARIBDIS</a></div><div class="ttdeci">@ NPC_FATHOM_GUARD_CARIBDIS</div><div class="ttdef"><b>Definition:</b> serpent_shrine.h:60</div></div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00082">instance_serpent_shrine::instance_serpentshrine_cavern_InstanceMapScript::Initialize()</a>.</p>
+
+</div>
+</div>
+<a id="af7ba92b4a76e9cb7835c84a49f9c2052" name="af7ba92b4a76e9cb7835c84a49f9c2052"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af7ba92b4a76e9cb7835c84a49f9c2052">&#9670;&#160;</a></span>summonData</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d2/d7b/a09648.html">ObjectData</a> const summonData[]</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<b>Initial value:</b><div class="fragment"><div class="line">=</div>
+<div class="line">{</div>
+<div class="line">    { <a class="code hl_enumvalue" href="../../db/dda/a02318.html#a2ee1f33d8ee290d833dd84e07c1ff669a360537f601019f9522404bd720962617">NPC_ENCHANTED_ELEMENTAL</a>, <a class="code hl_enumvalue" href="../../db/dda/a02318.html#afb6eb4f28419b652027fad41104a6d22aaba632b2bc047fcd78433cd6ed9f4955">DATA_LADY_VASHJ</a> },</div>
+<div class="line">    { <a class="code hl_enumvalue" href="../../db/dda/a02318.html#a2ee1f33d8ee290d833dd84e07c1ff669abc20cf236d0df389516e204d508bb8d2">NPC_COILFANG_ELITE</a>,      <a class="code hl_enumvalue" href="../../db/dda/a02318.html#afb6eb4f28419b652027fad41104a6d22aaba632b2bc047fcd78433cd6ed9f4955">DATA_LADY_VASHJ</a> },</div>
+<div class="line">    { <a class="code hl_enumvalue" href="../../db/dda/a02318.html#a2ee1f33d8ee290d833dd84e07c1ff669af94161c0d3554eb52be0804e49ce1b69">NPC_COILFANG_STRIDER</a>,    <a class="code hl_enumvalue" href="../../db/dda/a02318.html#afb6eb4f28419b652027fad41104a6d22aaba632b2bc047fcd78433cd6ed9f4955">DATA_LADY_VASHJ</a> },</div>
+<div class="line">    { <a class="code hl_enumvalue" href="../../db/dda/a02318.html#a2ee1f33d8ee290d833dd84e07c1ff669a3c19cbcab2778d63678e50c6e9d9962e">NPC_TAINTED_ELEMENTAL</a>,   <a class="code hl_enumvalue" href="../../db/dda/a02318.html#afb6eb4f28419b652027fad41104a6d22aaba632b2bc047fcd78433cd6ed9f4955">DATA_LADY_VASHJ</a> },</div>
+<div class="line">    { 0, 0 }</div>
+<div class="line">}</div>
+<div class="ttc" id="aa02318_html_a2ee1f33d8ee290d833dd84e07c1ff669a360537f601019f9522404bd720962617"><div class="ttname"><a href="../../db/dda/a02318.html#a2ee1f33d8ee290d833dd84e07c1ff669a360537f601019f9522404bd720962617">NPC_ENCHANTED_ELEMENTAL</a></div><div class="ttdeci">@ NPC_ENCHANTED_ELEMENTAL</div><div class="ttdef"><b>Definition:</b> serpent_shrine.h:67</div></div>
+<div class="ttc" id="aa02318_html_a2ee1f33d8ee290d833dd84e07c1ff669a3c19cbcab2778d63678e50c6e9d9962e"><div class="ttname"><a href="../../db/dda/a02318.html#a2ee1f33d8ee290d833dd84e07c1ff669a3c19cbcab2778d63678e50c6e9d9962e">NPC_TAINTED_ELEMENTAL</a></div><div class="ttdeci">@ NPC_TAINTED_ELEMENTAL</div><div class="ttdef"><b>Definition:</b> serpent_shrine.h:70</div></div>
+<div class="ttc" id="aa02318_html_a2ee1f33d8ee290d833dd84e07c1ff669abc20cf236d0df389516e204d508bb8d2"><div class="ttname"><a href="../../db/dda/a02318.html#a2ee1f33d8ee290d833dd84e07c1ff669abc20cf236d0df389516e204d508bb8d2">NPC_COILFANG_ELITE</a></div><div class="ttdeci">@ NPC_COILFANG_ELITE</div><div class="ttdef"><b>Definition:</b> serpent_shrine.h:68</div></div>
+<div class="ttc" id="aa02318_html_a2ee1f33d8ee290d833dd84e07c1ff669af94161c0d3554eb52be0804e49ce1b69"><div class="ttname"><a href="../../db/dda/a02318.html#a2ee1f33d8ee290d833dd84e07c1ff669af94161c0d3554eb52be0804e49ce1b69">NPC_COILFANG_STRIDER</a></div><div class="ttdeci">@ NPC_COILFANG_STRIDER</div><div class="ttdef"><b>Definition:</b> serpent_shrine.h:69</div></div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00082">instance_serpent_shrine::instance_serpentshrine_cavern_InstanceMapScript::Initialize()</a>.</p>
 
 </div>
 </div>
@@ -468,8 +359,8 @@ Variables</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_5e5741f7891ede41bef7ecc492194021.html">AI</a></li><li class="navelem"><a class="el" href="../../dir_1f3214457037742cde290c7511bc5bd6.html">ScriptedAI</a></li><li class="navelem"><a class="el" href="../../d3/dc5/a02306.html">ScriptedCreature.cpp</a></li>
-    <li class="footer">Generated on Mon Aug 4 2025 20:50:07 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_aa56e8ce1c3e0d32a59f1a16b86dbc72.html">Outland</a></li><li class="navelem"><a class="el" href="../../dir_22de0d38c781b430619603c756a2179f.html">CoilfangReservoir</a></li><li class="navelem"><a class="el" href="../../dir_5febca738accb9adac72053a7a9a3335.html">SerpentShrine</a></li><li class="navelem"><a class="el" href="../../d3/dc5/a02306.html">instance_serpent_shrine.cpp</a></li>
+    <li class="footer">Generated on Mon Aug 11 2025 20:47:26 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

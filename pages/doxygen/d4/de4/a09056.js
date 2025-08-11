@@ -1,10 +1,9 @@
 var a09056 =
 [
-    [ "~GridCell", "d4/de4/a09056.html#ab6ca5fbc81f184597445b7aef70bb2ad", null ],
-    [ "AddGridObject", "d4/de4/a09056.html#a22ac43b185d6a34c04fb5a36970d7df2", null ],
-    [ "AddWorldObject", "d4/de4/a09056.html#a039ebb29cf4bd2eeb7fca43eba302542", null ],
-    [ "Visit", "d4/de4/a09056.html#a6409c692a1f6ddfee1b3c2806d161d44", null ],
-    [ "Visit", "d4/de4/a09056.html#a2d13e0178010836f05280c1b5b11ad57", null ],
-    [ "_gridObjects", "d4/de4/a09056.html#a1a3fdbe9e3b937c05f82572d6f757e87", null ],
-    [ "_worldObjects", "d4/de4/a09056.html#a29d0551bee2df852e262846d82e90dba", null ]
+    [ "CellArea", "d4/de4/a09056.html#ace8ca84753b4ec8681415386fb135053", null ],
+    [ "CellArea", "d4/de4/a09056.html#a547aa2c544abb8de2c6defdd6ec77fa3", null ],
+    [ "operator!", "d4/de4/a09056.html#a386d4a562c27155012daedc361541e3b", null ],
+    [ "ResizeBorders", "d4/de4/a09056.html#aebb8a0eb3210fa09d647d89ce8a0c7b8", null ],
+    [ "high_bound", "d4/de4/a09056.html#a0c90f0474902deaafc4a64faaf6e8071", null ],
+    [ "low_bound", "d4/de4/a09056.html#a374fe9802c798e6ece359a8025b6e1df", null ]
 ];

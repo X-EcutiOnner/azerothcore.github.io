@@ -1,9 +1,6 @@
 var a12332 =
 [
-    [ "HandleAfterApply", "d1/d40/a12332.html#ab5dea2b9154ea73e9f159f6899f71d1d", null ],
-    [ "HandleAfterRemove", "d1/d40/a12332.html#a07bfb9395c738a197bafbaa0a43b9d48", null ],
-    [ "PeriodicTick", "d1/d40/a12332.html#a1ea9275cf310f95e9f8351892dce0a21", null ],
-    [ "PrepareAuraScript", "d1/d40/a12332.html#a8f13734ec4eb2dfda64be4ed3410e9a7", null ],
-    [ "Register", "d1/d40/a12332.html#a778da1e0ae7d5cab576b55bff93c923f", null ],
-    [ "Validate", "d1/d40/a12332.html#a205b4cc0f5c513680573b41a786a0b5e", null ]
+    [ "HandleOnHit", "d1/d40/a12332.html#a804097903354ab3a730f0fe3eb5ec863", null ],
+    [ "PrepareSpellScript", "d1/d40/a12332.html#aea221ad6fb1a30bec6fee0c3a67d01b0", null ],
+    [ "Register", "d1/d40/a12332.html#a53bed6f1af71fd309a04bc004d07be80", null ]
 ];

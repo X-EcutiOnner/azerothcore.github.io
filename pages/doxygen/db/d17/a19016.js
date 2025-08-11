@@ -1,7 +1,6 @@
 var a19016 =
 [
-    [ "HandleRemove", "db/d17/a19016.html#a7c81c567ae10bf4fd4d3c1eb480b5761", null ],
-    [ "PrepareAuraScript", "db/d17/a19016.html#aaefd5b15f7a3725b2663c0717fe22c92", null ],
-    [ "Register", "db/d17/a19016.html#ad7ba015a7878adad0820cf378d2632ca", null ],
-    [ "Validate", "db/d17/a19016.html#a570bb63c6ed7af58b0b886e8a954dea9", null ]
+    [ "npc_boss_gothik_minionAI", "d2/d4b/a19020.html", "d2/d4b/a19020" ],
+    [ "npc_boss_gothik_minion", "db/d17/a19016.html#a6cabeae812639ac179133245d85a0e15", null ],
+    [ "GetAI", "db/d17/a19016.html#a8abb1ec265f9eeb646a858bee06cfb92", null ]
 ];

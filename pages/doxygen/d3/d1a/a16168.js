@@ -1,6 +1,6 @@
 var a16168 =
 [
-    [ "instance_ruby_sanctum_InstanceMapScript", "df/dc2/a16172.html", "df/dc2/a16172" ],
-    [ "instance_ruby_sanctum", "d3/d1a/a16168.html#a9fc9d56cfcd7d0163f25f49e1ed0baeb", null ],
-    [ "GetInstanceScript", "d3/d1a/a16168.html#ad0329f328d4be2c475d8bcd5ccefd4e1", null ]
+    [ "PrepareSpellScript", "d3/d1a/a16168.html#a743f910c3854e2c4e726e97c55fa7038", null ],
+    [ "Register", "d3/d1a/a16168.html#a3b9b2ffa90f58a5da93fd369e11c6216", null ],
+    [ "RemoveNotBetween", "d3/d1a/a16168.html#aba462e5b8e9336a508d19606f98750b5", null ]
 ];

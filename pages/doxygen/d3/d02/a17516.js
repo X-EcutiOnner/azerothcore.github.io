@@ -1,6 +1,5 @@
 var a17516 =
 [
-    [ "npc_high_overlord_saurfang_igbAI", "df/dcc/a17520.html", "df/dcc/a17520" ],
-    [ "npc_high_overlord_saurfang_igb", "d3/d02/a17516.html#ae68d42f65851a753874705511bb83330", null ],
-    [ "GetAI", "d3/d02/a17516.html#a54b6da97a40665232d28a20bac9b7ef3", null ]
+    [ "achievement_flu_shot_shortage", "d3/d02/a17516.html#af448c773bcdf31cec7ae9d7c85e9e595", null ],
+    [ "OnCheck", "d3/d02/a17516.html#a3195af1d4504ffc200c99bef84eaaa5a", null ]
 ];

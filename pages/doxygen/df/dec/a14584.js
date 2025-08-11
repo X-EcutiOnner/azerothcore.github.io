@@ -1,6 +1,6 @@
 var a14584 =
 [
-    [ "HandleHit", "df/dec/a14584.html#aec32d6b45bdcfe3a6a32c2fb7558edd1", null ],
-    [ "PrepareSpellScript", "df/dec/a14584.html#a31fdc4d630a4a6647d2a9b1100aecdad", null ],
-    [ "Register", "df/dec/a14584.html#a64a861b5c25df5780390aa55899393d7", null ]
+    [ "instance_blackfathom_deeps_InstanceMapScript", "d9/d64/a14588.html", "d9/d64/a14588" ],
+    [ "instance_blackfathom_deeps", "df/dec/a14584.html#a4600a7e6191582c1bee684989a970e0f", null ],
+    [ "GetInstanceScript", "df/dec/a14584.html#a62cdab4f3118ab030b4ef55243690f73", null ]
 ];

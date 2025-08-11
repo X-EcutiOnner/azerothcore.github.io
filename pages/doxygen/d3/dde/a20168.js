@@ -1,6 +1,5 @@
 var a20168 =
 [
-    [ "npc_ulduar_toasty_fireAI", "df/ddf/a20172.html", "df/ddf/a20172" ],
-    [ "npc_ulduar_toasty_fire", "d3/dde/a20168.html#a5a5b77088b24f1c5743c58034190d5ab", null ],
-    [ "GetAI", "d3/dde/a20168.html#a2518ec39c3cea2f3efc5000e0a7779d0", null ]
+    [ "achievement_smell_saronite", "d3/dde/a20168.html#a42dce2aefa2561952dcf5289126035a8", null ],
+    [ "OnCheck", "d3/dde/a20168.html#a5180e3e53fa0f4d32d2a305d315bc8b3", null ]
 ];

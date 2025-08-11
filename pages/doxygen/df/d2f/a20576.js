@@ -1,6 +1,6 @@
 var a20576 =
 [
-    [ "boss_thorim_sifAI", "da/d1b/a20580.html", "da/d1b/a20580" ],
-    [ "boss_thorim_sif", "df/d2f/a20576.html#a71ef8a92f648cbea6553ed1cc657f13d", null ],
-    [ "GetAI", "df/d2f/a20576.html#ae4eadf2bf83c41a8f05b853267b5fcf9", null ]
+    [ "npc_ulduar_dark_rune_guardianAI", "da/d1b/a20580.html", "da/d1b/a20580" ],
+    [ "npc_ulduar_dark_rune_guardian", "df/d2f/a20576.html#a6266dd5c096402b5383af09ac361a634", null ],
+    [ "GetAI", "df/d2f/a20576.html#a9ed188491483548658ce682bf36e6fd2", null ]
 ];

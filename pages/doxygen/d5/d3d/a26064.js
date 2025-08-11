@@ -1,6 +1,6 @@
 var a26064 =
 [
-    [ "HandleEffectCalcSpellMod", "d5/d3d/a26064.html#a81395c735b9546632af71319067b575b", null ],
-    [ "PrepareAuraScript", "d5/d3d/a26064.html#ad5a716f0644b1707aa6d179d564ceb80", null ],
-    [ "Register", "d5/d3d/a26064.html#ae49a0ec525819981595c12839133a35b", null ]
+    [ "FilterTargets", "d5/d3d/a26064.html#aad5d183d0d7ea229cbfc11f751536624", null ],
+    [ "PrepareSpellScript", "d5/d3d/a26064.html#a68ba19142ae6eb04a2547495233700df", null ],
+    [ "Register", "d5/d3d/a26064.html#a22c313409438f94d29ab3e236a56c115", null ]
 ];

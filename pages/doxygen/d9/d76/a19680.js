@@ -1,8 +1,6 @@
 var a19680 =
 [
-    [ "npc_algalon_worm_holeAI", "d9/d76/a19680.html#a07b36b40972bebea6b17890aa8fee50c", null ],
-    [ "JustSummoned", "d9/d76/a19680.html#a148de5da4502813e369ec6c52b1671a0", null ],
-    [ "Reset", "d9/d76/a19680.html#a915a8e5e23062cb10da9a3dbe387cf51", null ],
-    [ "UpdateAI", "d9/d76/a19680.html#a9df88d81aa4f4dd7e1dcdf6209832c32", null ],
-    [ "_summonTimer", "d9/d76/a19680.html#a73a55560e5ff7957d883f732bc0d2a82", null ]
+    [ "CosmicSmashDamageEvent", "d9/d76/a19680.html#a5c9606791b560d8be1825a9c73f2393e", null ],
+    [ "Execute", "d9/d76/a19680.html#a2d4b301e1b7e0852ec47280ad97871f2", null ],
+    [ "_caster", "d9/d76/a19680.html#ab7af2459d3962831812ee2362ee9de2b", null ]
 ];

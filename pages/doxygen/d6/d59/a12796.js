@@ -1,6 +1,8 @@
 var a12796 =
 [
-    [ "boss_garaxxas", "d6/d59/a12796.html#af34e3ef5dac400fb7c217f46345ee9bb", null ],
-    [ "JustEngagedWith", "d6/d59/a12796.html#aebfd7b63d714468ed69e920fb89c345d", null ],
-    [ "Reset", "d6/d59/a12796.html#a56e6489ce49971cb066444888355626e", null ]
+    [ "CheckProc", "d6/d59/a12796.html#a085f6affd2bf76fe66f9023e67725848", null ],
+    [ "HandleProc", "d6/d59/a12796.html#ae5c0f54c072fa5f4bb69af0acd74053c", null ],
+    [ "PrepareAuraScript", "d6/d59/a12796.html#a001de2ce29c768b328b93c66c6aca2f9", null ],
+    [ "Register", "d6/d59/a12796.html#ad4db3b85cab89e4922ac4935b0cdcbd5", null ],
+    [ "Validate", "d6/d59/a12796.html#a42ae1d2f846815480dc02e7e5f92527e", null ]
 ];

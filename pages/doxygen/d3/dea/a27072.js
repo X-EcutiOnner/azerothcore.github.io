@@ -1,6 +1,5 @@
 var a27072 =
 [
-    [ "npc_dream_fogAI", "d4/d07/a27076.html", "d4/d07/a27076" ],
-    [ "npc_dream_fog", "d3/dea/a27072.html#ae50306be88f15c9dfc4d0f12c63c68e6", null ],
-    [ "GetAI", "d3/dea/a27072.html#a48c45fec086e3a50462deed44734ba38", null ]
+    [ "AreaTrigger_at_voltarus_middle", "d3/dea/a27072.html#a45ca444350fe4cfde02ab33da4ce8466", null ],
+    [ "OnTrigger", "d3/dea/a27072.html#a296b300feb6cf999e9e2c2625a911e9b", null ]
 ];

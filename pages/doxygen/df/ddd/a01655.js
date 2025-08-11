@@ -1,4 +1,6 @@
 var a01655 =
 [
-    [ "ScriptRegistry< WorldScript >", "df/ddd/a01655.html#a4b01e55b7bd36b85062bfc12bfef108f", null ]
+    [ "GenerateEnchSuffixFactor", "df/ddd/a01655.html#a25026e783b088b45eebd4db8295b1b87", null ],
+    [ "GetItemEnchantMod", "df/ddd/a01655.html#a76d03c9ceb2d3ac35582eaea4624544f", null ],
+    [ "LoadRandomEnchantmentsTable", "df/ddd/a01655.html#a376fabf7bba54eaf928217f860f1c33b", null ]
 ];

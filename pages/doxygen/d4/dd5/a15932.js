@@ -1,11 +1,15 @@
 var a15932 =
 [
-    [ "boss_sartharion_tenebronAI", "d4/dd5/a15932.html#a9996fce9320390ead967ad82bcef9554", null ],
-    [ "ClearInstance", "d4/dd5/a15932.html#af9e0459fff845bf4f6e53d06e4a9447f", null ],
-    [ "ExecuteEvent", "d4/dd5/a15932.html#a6a7f8255aa1dcbb979354467d0e6949d", null ],
-    [ "HandleExtraEvent", "d4/dd5/a15932.html#ad78a939f0584b775e29341ff08f0eee1", null ],
-    [ "JustDied", "d4/dd5/a15932.html#ac3e03263a174dd147854fa6d714ec003", null ],
-    [ "JustSummoned", "d4/dd5/a15932.html#a50d000b322e3d3a61cc02dea96c2979d", null ],
-    [ "Reset", "d4/dd5/a15932.html#a1aa8277ddc91989ed7480d4221a6e534", null ],
-    [ "summons2", "d4/dd5/a15932.html#a5060b01175ece5ad782e96bdf3d2c82d", null ]
+    [ "boss_krik_thirAI", "d4/dd5/a15932.html#a92a2b2089c890901cd438c8d8ea432c7", null ],
+    [ "GetData", "d4/dd5/a15932.html#adcca5f21a596ffae3c50f102c4698c4e", null ],
+    [ "JustDied", "d4/dd5/a15932.html#ab4a576f9746f7ade8f6b8f8c08795433", null ],
+    [ "JustEngagedWith", "d4/dd5/a15932.html#aa99c241641fc7e94412d08bebed07475", null ],
+    [ "JustSummoned", "d4/dd5/a15932.html#afff556f4bc00b87b3d2a37ffbf54c919", null ],
+    [ "KilledUnit", "d4/dd5/a15932.html#aad554ec61a0c6ad9cedf6d7d1b33ed1d", null ],
+    [ "MoveInLineOfSight", "d4/dd5/a15932.html#a6c72cebac0e09f66bf0a60cdc328aa4d", null ],
+    [ "Reset", "d4/dd5/a15932.html#a613441fcb7bd851a03729be84d27650c", null ],
+    [ "SummonedCreatureDies", "d4/dd5/a15932.html#acb7b45fbe3a736ad65b0a2556ead40ae", null ],
+    [ "UpdateAI", "d4/dd5/a15932.html#ae37227df78ad9ffb9722caa0c16ffa5f", null ],
+    [ "_initTalk", "d4/dd5/a15932.html#a68a4994c750979b91e46160b0cba77b4", null ],
+    [ "events2", "d4/dd5/a15932.html#a8f706239d33861105a37476eecb977ec", null ]
 ];

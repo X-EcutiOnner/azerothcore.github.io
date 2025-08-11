@@ -1,6 +1,6 @@
 var a15512 =
 [
-    [ "npc_anachronos_the_ancientAI", "de/d96/a15516.html", "de/d96/a15516" ],
-    [ "npc_anachronos_the_ancient", "dd/d2c/a15512.html#a720884359886e6f881190471005f4cfc", null ],
-    [ "GetAI", "dd/d2c/a15512.html#a345c801231907d98f2ab2425b1d35cbc", null ]
+    [ "npc_omenAI", "de/d96/a15516.html", "de/d96/a15516" ],
+    [ "npc_omen", "dd/d2c/a15512.html#aff955303a8b9741838779a59dd496f62", null ],
+    [ "GetAI", "dd/d2c/a15512.html#a8023ad3298000d9819c46f46a93166d4", null ]
 ];

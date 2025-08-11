@@ -1,7 +1,6 @@
 var a23204 =
 [
-    [ "FilterTargets", "d9/d5f/a23204.html#adb8581b4b92aa49eda8f531e6d6de1ea", null ],
-    [ "HandleDummy", "d9/d5f/a23204.html#a2fe7441bd9753cb912d11f8d36632f44", null ],
-    [ "PrepareSpellScript", "d9/d5f/a23204.html#ae7714acbe0a08781e3bc297847c47870", null ],
-    [ "Register", "d9/d5f/a23204.html#ade51d4cb00b63c46582c7a5e6e031e9d", null ]
+    [ "OnPeriodic", "d9/d5f/a23204.html#adfd5a3a6d9c16cd6acdb1f24e7874f20", null ],
+    [ "PrepareAuraScript", "d9/d5f/a23204.html#a8444053fa146a4163ea905634be78dfc", null ],
+    [ "Register", "d9/d5f/a23204.html#aad8868dc3d00fd3ea648abe7b536970d", null ]
 ];

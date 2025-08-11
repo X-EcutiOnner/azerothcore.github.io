@@ -1,6 +1,6 @@
 var a20052 =
 [
-    [ "boss_freya_healthy_sporeAI", "d4/d29/a20056.html", "d4/d29/a20056" ],
-    [ "boss_freya_healthy_spore", "d9/d09/a20052.html#a16633136393061aa98c7a98f535d421e", null ],
-    [ "GetAI", "d9/d09/a20052.html#ae76eb3b334f82c536f71fdcfc86e4382", null ]
+    [ "boss_freya_elder_stonebarkAI", "d4/d29/a20056.html", "d4/d29/a20056" ],
+    [ "boss_freya_elder_stonebark", "d9/d09/a20052.html#a9c90c504d78456580ae657a42fac4075", null ],
+    [ "GetAI", "d9/d09/a20052.html#a0b529bb8755c56046c40b620ef4b7448", null ]
 ];

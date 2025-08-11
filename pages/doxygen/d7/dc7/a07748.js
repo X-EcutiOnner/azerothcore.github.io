@@ -1,6 +1,5 @@
 var a07748 =
 [
-    [ "Rank", "d7/dc7/a07748.html#abd26e25c76d5344dfdd94547b2f310d4", null ],
-    [ "Spell", "d7/dc7/a07748.html#a0cb15c7c1e640b5a6acc8f8d94e6c719", null ],
-    [ "Talent", "d7/dc7/a07748.html#ae39546dc8db233709131b388a3868c1a", null ]
+    [ "Glyph", "d7/dc7/a07748.html#a99ef57f9c0bbab04953bd6edcf5b83f2", null ],
+    [ "Slot", "d7/dc7/a07748.html#acc79672f4bddb27eb980b6aac19f83ec", null ]
 ];

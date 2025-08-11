@@ -1,6 +1,6 @@
 var a11304 =
 [
-    [ "EffectCalcSpellModHandler", "d6/dd0/a11304.html#abe81396a3f1c1b3b07c10cf0e191546c", null ],
-    [ "Call", "d6/dd0/a11304.html#a5ca2a9c329a7dbbb7e835849ca4479aa", null ],
-    [ "pEffectHandlerScript", "d6/dd0/a11304.html#a15c0b24641cb04f31bb3d651dae59448", null ]
+    [ "AuraDispelHandler", "d6/dd0/a11304.html#ab6e675b4db931c601b3d6aef65ae0ff6", null ],
+    [ "Call", "d6/dd0/a11304.html#a147d8a6d95f011f27600d052ef7b4000", null ],
+    [ "pHandlerScript", "d6/dd0/a11304.html#ab7dd73a36aa517354a023deb7db0cf19", null ]
 ];

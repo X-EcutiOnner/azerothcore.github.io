@@ -1,7 +1,7 @@
 var a12208 =
 [
-    [ "boss_ebonrocAI", "d8/d5a/a12208.html#a73be20fda4e3f8cb7623796f3c32d741", null ],
-    [ "JustEngagedWith", "d8/d5a/a12208.html#a2c74e0030b1093d79245978939043d53", null ],
-    [ "MovementInform", "d8/d5a/a12208.html#ac1e16bb5ac18b55fbfb8af5078df270f", null ],
-    [ "UpdateAI", "d8/d5a/a12208.html#aa2059c3834fbcfda3c8da5743bd2501f", null ]
+    [ "go_suppression_deviceAI", "d9/de5/a12212.html", "d9/de5/a12212" ],
+    [ "go_suppression_device", "d8/d5a/a12208.html#a900713d6b029015f8868a96e5e1b9018", null ],
+    [ "GetAI", "d8/d5a/a12208.html#aa51bb6f9616022c1f4e1e711ca1130e8", null ],
+    [ "OnLootStateChanged", "d8/d5a/a12208.html#a684546c3ce0c0785d52a87eb011ef313", null ]
 ];

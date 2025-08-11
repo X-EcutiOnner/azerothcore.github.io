@@ -1,6 +1,9 @@
 var a17524 =
 [
-    [ "npc_muradin_bronzebeard_igbAI", "de/de9/a17528.html", "de/de9/a17528" ],
-    [ "npc_muradin_bronzebeard_igb", "d4/dfa/a17524.html#a1e6abc18a192b3acfa29bf03dd4eeed9", null ],
-    [ "GetAI", "d4/dfa/a17524.html#af9b149e0780308f26d5adb1e6607a3ce", null ]
+    [ "npc_stinky_iccAI", "d4/dfa/a17524.html#a545356eb2b77cfae7af3d470e95ea2d6", null ],
+    [ "JustDied", "d4/dfa/a17524.html#a7fa392980e2d30c935b79377df8dc694", null ],
+    [ "JustEngagedWith", "d4/dfa/a17524.html#afd1cd4fc387ff7cdad58c9db60841c7a", null ],
+    [ "Reset", "d4/dfa/a17524.html#ac66e3398598576fdc889a7b56646eecf", null ],
+    [ "UpdateAI", "d4/dfa/a17524.html#af6e04824ea1682c529e8579a306d34ca", null ],
+    [ "events", "d4/dfa/a17524.html#a3ab7ae11b7f5ef5877febbd384014ce2", null ]
 ];

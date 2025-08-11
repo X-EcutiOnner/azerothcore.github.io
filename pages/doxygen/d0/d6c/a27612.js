@@ -1,6 +1,7 @@
 var a27612 =
 [
-    [ "npc_stable_masterAI", "d1/dd0/a27616.html", "d1/dd0/a27616" ],
-    [ "npc_stable_master", "d0/d6c/a27612.html#ad327340f47e10bec7f077192227b0899", null ],
-    [ "GetAI", "d0/d6c/a27612.html#a7e34e18d2dad465eb88b0388fa830490", null ]
+    [ "npc_steam_tonkAI", "d0/d6c/a27612.html#a64bc74af412304d50526e5c93e01a333", null ],
+    [ "JustEngagedWith", "d0/d6c/a27612.html#a95b023adf0a2e62788e0d5646b17b319", null ],
+    [ "OnPossess", "d0/d6c/a27612.html#a954208c1a9826ae84a7402f59e1d7055", null ],
+    [ "Reset", "d0/d6c/a27612.html#a5c76625843b30302b2af0a4ae8b85bd2", null ]
 ];

@@ -1,6 +1,7 @@
 var a15684 =
 [
-    [ "SayerEntry", "d8/d2a/a15684.html#a3f9e374ec2a49823d942c29572ac2fa0", null ],
-    [ "SayTimer", "d8/d2a/a15684.html#a942073f24fd12da712184243d9f098f2", null ],
-    [ "TextEntry", "d8/d2a/a15684.html#a360822e4c069be6019c0a465cb2499cf", null ]
+    [ "npc_paoka_swiftmountainAI", "d8/d2a/a15684.html#a92a229f76de3bc46ae14910439db0004", null ],
+    [ "DoSpawnWyvern", "d8/d2a/a15684.html#a7997a3d398db82c205e3a8af77ac1684", null ],
+    [ "Reset", "d8/d2a/a15684.html#acae0427957aba04a54e6001823bc7eb4", null ],
+    [ "WaypointReached", "d8/d2a/a15684.html#a262781c90fe1b5a5af2c6f94e4cc52e2", null ]
 ];

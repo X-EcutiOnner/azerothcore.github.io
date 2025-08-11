@@ -1,7 +1,11 @@
 var a00797 =
 [
-    [ "ArenaTeamFilter", "d1/ddc/a07238.html", "d1/ddc/a07238" ],
-    [ "ArenaTeamFilterByTypes", "d3/d34/a07242.html", "d3/d34/a07242" ],
-    [ "ArenaTeamFilterAllTeams", "d7/d22/a07246.html", "d7/d22/a07246" ],
-    [ "ArenaTeamFilterFactoryByUserInput", "df/d87/a07250.html", "df/d87/a07250" ]
+    [ "AuraEffect", "d5/d6f/a11064.html", "d5/d6f/a11064" ],
+    [ "Acore::AbsorbAuraOrderPred", "df/d8e/a11068.html", "df/d8e/a11068" ],
+    [ "pAuraEffectHandler", "da/db8/a00797.html#a9e98d9a1c1cc41922f386b184fd7ce67", null ],
+    [ "BrewfestEntries", "da/db8/a00797.html#a4ee83f582e4ebba3a5aea9ab1a5c9354", [
+      [ "BREWFEST_KODO", "da/db8/a00797.html#a4ee83f582e4ebba3a5aea9ab1a5c9354acbc7617ce19ea8d214518ab0335275c5", null ],
+      [ "GREAT_BREWFEST_KODO", "da/db8/a00797.html#a4ee83f582e4ebba3a5aea9ab1a5c9354a9e68ffb636426417370cc6b94b7b46aa", null ],
+      [ "FRESH_BREWFEST_HOPS", "da/db8/a00797.html#a4ee83f582e4ebba3a5aea9ab1a5c9354a62ef26e3a60fddc8cbadbd349cb054bf", null ]
+    ] ]
 ];

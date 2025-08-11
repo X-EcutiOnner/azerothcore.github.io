@@ -1,7 +1,12 @@
 var a22736 =
 [
-    [ "HandleDummy", "de/d7c/a22736.html#af5ac581f7d471300fba2c23548037eea", null ],
-    [ "PrepareSpellScript", "de/d7c/a22736.html#adda61c05b544b52d98af5b7a76d4f808", null ],
-    [ "Register", "de/d7c/a22736.html#a270a64dffdce230d97515f116ec49706", null ],
-    [ "Validate", "de/d7c/a22736.html#a7cf3637ea33ad30913723b4fd33e5546", null ]
+    [ "npc_maiev_illidan", "de/d7c/a22736.html#a0d19d9bb58c44662cdfb66a8fe373a60", null ],
+    [ "DamageTaken", "de/d7c/a22736.html#a780cc558c483efa3293d798cc6048a33", null ],
+    [ "DoAction", "de/d7c/a22736.html#a53607a158edf8fd772908b5d7af6edf1", null ],
+    [ "IsSummonedBy", "de/d7c/a22736.html#a1bf4f2f29132c5132e7903d089ace6e2", null ],
+    [ "JustEngagedWith", "de/d7c/a22736.html#ad1728d7d8b1b5f9db8db4d811c2ba630", null ],
+    [ "Reset", "de/d7c/a22736.html#a100db757c89634a58b9382216e2791ec", null ],
+    [ "SpellHit", "de/d7c/a22736.html#aa4d6626d6130a88519f86cfe70d9fb95", null ],
+    [ "UpdateAI", "de/d7c/a22736.html#a269e4a8f79b508e2da61cd5e2dc34664", null ],
+    [ "instance", "de/d7c/a22736.html#ad41b6deb9406232629ad60ba66cfac6b", null ]
 ];

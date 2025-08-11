@@ -1,11 +1,8 @@
 var a12052 =
 [
-    [ "boss_quartermaster_zigris", "df/dcb/a12052.html#a1d2f68327cc9b88fdd82d44ac8446d57", null ],
-    [ "DamageTaken", "df/dcb/a12052.html#a61d7f1c4e5a2901812f1175ccce69ab2", null ],
-    [ "JustDied", "df/dcb/a12052.html#a9295bbcffd7968051a789e8dfb634e23", null ],
-    [ "JustEngagedWith", "df/dcb/a12052.html#af482c06e00e7f6c15b290115998a27a9", null ],
-    [ "Reset", "df/dcb/a12052.html#a71e911bb91b7447e8aed28cdccfda8db", null ],
-    [ "SpellHitTarget", "df/dcb/a12052.html#a38197746cc73ada1378e6e1a5555ef79", null ],
-    [ "UpdateAI", "df/dcb/a12052.html#a400f7ace05cd5c4d127aecf5d771c616", null ],
-    [ "_hasDrunkPotion", "df/dcb/a12052.html#a25335533bc43171687e03f1ed22d4fb3", null ]
+    [ "boss_highlordomokkAI", "df/dcb/a12052.html#ae6906b2f86eb2d8efe51de92376be0da", null ],
+    [ "JustDied", "df/dcb/a12052.html#ac7e125b4350880d3d195b915c8be9de0", null ],
+    [ "JustEngagedWith", "df/dcb/a12052.html#a072dc582f931deb7d1e0db9ad535f146", null ],
+    [ "Reset", "df/dcb/a12052.html#a627390013798de7a53a95817624417e3", null ],
+    [ "UpdateAI", "df/dcb/a12052.html#a38e6008d616131d2876ae5a085a083ff", null ]
 ];

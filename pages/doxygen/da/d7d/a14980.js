@@ -1,9 +1,9 @@
 var a14980 =
 [
-    [ "go_ossirian_crystalAI", "da/d7d/a14980.html#ae4d3c0c2cff08bd9fe86cbfee2cbb980", null ],
-    [ "DoAction", "da/d7d/a14980.html#a581436335d190466520c07fde56ad441", null ],
-    [ "GossipHello", "da/d7d/a14980.html#ad1aff0e18d8f4ef7fe5d4cfa7ef17875", null ],
-    [ "SetGUID", "da/d7d/a14980.html#a9c983aa02285dbebc545b4056191200c", null ],
-    [ "_instance", "da/d7d/a14980.html#aa2c83296cbe8d49de7bc7262b792e8b3", null ],
-    [ "_triggerGUID", "da/d7d/a14980.html#abd96d9b4f2c5f41e4a85606b22e1b0cf", null ]
+    [ "spell_gen_ayamiss_swarmer_loop", "da/d7d/a14980.html#ad910e172ef6866f102fa3407f676169a", null ],
+    [ "HandleScript", "da/d7d/a14980.html#acd0dffad436cb414deb546b192957783", null ],
+    [ "Load", "da/d7d/a14980.html#aa2b338da6aa545e588be3d3a72b1a747", null ],
+    [ "PrepareSpellScript", "da/d7d/a14980.html#aa64e3d5a98804e2a05d3af1fdc5b2d30", null ],
+    [ "Register", "da/d7d/a14980.html#ae1b7f1ab58bcdc526ff05b9b66b9c9f8", null ],
+    [ "_pathId", "da/d7d/a14980.html#ad179773bdfe73f7926d41d30726f0ac9", null ]
 ];

@@ -1,6 +1,7 @@
 var a16380 =
 [
-    [ "npc_toc_shadow_priestAI", "d1/d78/a16384.html", "d1/d78/a16384" ],
-    [ "npc_toc_shadow_priest", "d9/d74/a16380.html#a05020cd5c5363933dcea7a5901d1ac21", null ],
-    [ "GetAI", "d9/d74/a16380.html#a93b38d23759da3b7417dbb94b4a951da", null ]
+    [ "HandleAfterHit", "d9/d74/a16380.html#a6fc446385881ddb4c94de73199649816", null ],
+    [ "PrepareSpellScript", "d9/d74/a16380.html#acaed5d5902194f8ba9d2b286cd47d8d0", null ],
+    [ "Register", "d9/d74/a16380.html#aaae368b2f647aa6a56827550e50dafe1", null ],
+    [ "Validate", "d9/d74/a16380.html#ad4c84071b538b657fa1302982f8799b4", null ]
 ];

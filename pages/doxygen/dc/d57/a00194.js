@@ -1,4 +1,4 @@
 var a00194 =
 [
-    [ "Acore::Crypto::TOTP", "d2/d72/a05190.html", "d2/d72/a05190" ]
+    [ "SocketMgr< SocketType >", "d3/d92/a28516.html", "d3/d92/a28516" ]
 ];

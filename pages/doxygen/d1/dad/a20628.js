@@ -1,9 +1,11 @@
 var a20628 =
 [
-    [ "boss_thorim_gauntlet_npcsAI", "d1/dad/a20628.html#aaa7e94f653a1db001cd0c962fb855098", null ],
-    [ "JustEngagedWith", "d1/dad/a20628.html#afaf0a05b1fd2fc2187b52328340b65bb", null ],
-    [ "Reset", "d1/dad/a20628.html#a9e4c25742785809d788f2e910f7840bc", null ],
-    [ "UpdateAI", "d1/dad/a20628.html#a4dd5a9cbbb10d514a0473dfd7cdd3c29", null ],
-    [ "_isCaster", "d1/dad/a20628.html#a104f447cc52c285d59653a8ebff20fef", null ],
-    [ "events", "d1/dad/a20628.html#a650508e05b6fa1af538a0b34e04c8bf5", null ]
+    [ "boss_thorim_lightning_orbAI", "d1/dad/a20628.html#a14d4b9f445abfaba77bcfc52173ff705", null ],
+    [ "AttackStart", "d1/dad/a20628.html#a88a885b96016788f8011dd1d3d44d992", null ],
+    [ "EnterEvadeMode", "d1/dad/a20628.html#a04bc99d1bd16f8297e7da8902e4bcaab", null ],
+    [ "InitWaypoint", "d1/dad/a20628.html#a420217dd9e482edc24a87dead2753321", null ],
+    [ "MoveInLineOfSight", "d1/dad/a20628.html#a0ee02cdd5cedf8a6565493b9812e88ae", null ],
+    [ "Reset", "d1/dad/a20628.html#a4e410303d287a4c827c279a4e7c3ca99", null ],
+    [ "WaypointReached", "d1/dad/a20628.html#a141659a0ebbcc097f0f03dec30dad2ca", null ],
+    [ "Timer", "d1/dad/a20628.html#ac251df35736ae44e08f82ae7bbe8fc15", null ]
 ];

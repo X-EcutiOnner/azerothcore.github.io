@@ -1,6 +1,7 @@
 var a25324 =
 [
-    [ "PrepareAuraScript", "db/d15/a25324.html#a1a06aa5d8254f0d33ecb38df72d97d20", null ],
-    [ "Register", "db/d15/a25324.html#abb54f08b1932e3638537656360d3aad8", null ],
-    [ "AuraEffectHandleModes", "db/d15/a25324.html#a9f02f6b1287d320fee15fec18b61cfe7", null ]
+    [ "OnRemove", "db/d15/a25324.html#ab6371347f0dc4ffc8bab6c75ca1cdf59", null ],
+    [ "PrepareAuraScript", "db/d15/a25324.html#ac2b1a2311f97ab427439b45fb0770063", null ],
+    [ "Register", "db/d15/a25324.html#a39e4914aa01769e14f61e2369ad8eda5", null ],
+    [ "Validate", "db/d15/a25324.html#a71e47e70fd18affe1bd563f68fcb2efe", null ]
 ];

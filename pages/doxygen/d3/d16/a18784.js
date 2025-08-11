@@ -1,9 +1,6 @@
 var a18784 =
 [
-    [ "npc_icc_severed_essenceAI", "d3/d16/a18784.html#a76366c33ab9ec7aa291c0df657fbef68", null ],
-    [ "CanAIAttack", "d3/d16/a18784.html#a2cc2cfc967f9ad966d76571eb0eb630f", null ],
-    [ "DoAction", "d3/d16/a18784.html#a938af3a7de5b26432e1ad515a326a032", null ],
-    [ "UpdateAI", "d3/d16/a18784.html#a66e3324baa87ba109dd968a517ee82a5", null ],
-    [ "Class", "d3/d16/a18784.html#aa627713be3a2ac01336d158d96aaccc7", null ],
-    [ "events", "d3/d16/a18784.html#a1bab216925c4123d633d9613bb80365c", null ]
+    [ "npc_icc_skybreaker_marksmanAI", "da/db2/a18788.html", "da/db2/a18788" ],
+    [ "npc_icc_skybreaker_marksman", "d3/d16/a18784.html#a1d870b78e1acf2d17782265e28698d1c", null ],
+    [ "GetAI", "d3/d16/a18784.html#a374017d37da15705d51ab8edc75683ff", null ]
 ];

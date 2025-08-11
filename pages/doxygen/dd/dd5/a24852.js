@@ -1,6 +1,6 @@
 var a24852 =
 [
-    [ "CheckProc", "dd/dd5/a24852.html#ad1678a96784add01965d67c3d86bcd77", null ],
-    [ "PrepareAuraScript", "dd/dd5/a24852.html#a6e164a8e3482b566b776c5ffeeb1b6ac", null ],
-    [ "Register", "dd/dd5/a24852.html#a148f3fe7ee4bdc8e148fe71100779e56", null ]
+    [ "PrepareSpellScript", "dd/dd5/a24852.html#acfa320b33c00883a78c3696bbbeb7eb0", null ],
+    [ "Register", "dd/dd5/a24852.html#a6d251ba1e88d4349dcffa96978389a7f", null ],
+    [ "SelectTarget", "dd/dd5/a24852.html#a0d95f8ad8d05d2c0b100dc10988d00c9", null ]
 ];

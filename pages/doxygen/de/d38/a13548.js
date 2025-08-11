@@ -1,6 +1,6 @@
 var a13548 =
 [
-    [ "npc_rinjiAI", "d4/d93/a13552.html", "d4/d93/a13552" ],
-    [ "npc_rinji", "de/d38/a13548.html#af89b9c77b1a57dc506de0398a0d4b957", null ],
-    [ "GetAI", "de/d38/a13548.html#a5457ac00ce0b195752640358b912af10", null ]
+    [ "npc_augustus_the_touched", "de/d38/a13548.html#abc84c884345f44cf780410569cdee10c", null ],
+    [ "OnGossipHello", "de/d38/a13548.html#a81e0d4f2aaa685cd5231ea430c86e7b4", null ],
+    [ "OnGossipSelect", "de/d38/a13548.html#a992da9b22693c1fac1148b4ba545b819", null ]
 ];

@@ -1,6 +1,5 @@
 var a20116 =
 [
-    [ "FilterTargets", "d2/d0a/a20116.html#adb438b9bcf4be347aeabf6608fbfb8a4", null ],
-    [ "PrepareSpellScript", "d2/d0a/a20116.html#a88f5ca3aaa575cff0ba778f9b575d656", null ],
-    [ "Register", "d2/d0a/a20116.html#ac7337b4ee8511f72b129fccc83b3241e", null ]
+    [ "achievement_freya_getting_back_to_nature", "d2/d0a/a20116.html#aa4078b573a9335fc52c9b9609590b12f", null ],
+    [ "OnCheck", "d2/d0a/a20116.html#a850a32450379284784f019a5eb5ff0ff", null ]
 ];

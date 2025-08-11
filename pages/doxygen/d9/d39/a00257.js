@@ -1,9 +1,7 @@
 var a00257 =
 [
-    [ "Creature", "da/d4d/a07967.html", "da/d4d/a07967" ],
-    [ "AssistDelayEvent", "d5/d12/a07975.html", "d5/d12/a07975" ],
-    [ "ForcedDespawnDelayEvent", "d5/ddf/a07979.html", "d5/ddf/a07979" ],
-    [ "TemporaryThreatModifierEvent", "de/d8a/a07983.html", "de/d8a/a07983" ],
-    [ "CREATURE_Z_ATTACK_RANGE", "d9/d39/a00257.html#a91a03a879f1b4df44968ae2f9f22fb0d", null ],
-    [ "MAX_VENDOR_ITEMS", "d9/d39/a00257.html#a44c3a813b92331e325ba5aae11ed72a3", null ]
+    [ "canCreateExtraItems", "d9/d39/a00257.html#a49687e255d65fa15dac5e6a428c5739d", null ],
+    [ "CanCreatePerfectItem", "d9/d39/a00257.html#a818c557864790091814604b6d2175e52", null ],
+    [ "LoadSkillExtraItemTable", "d9/d39/a00257.html#a3244d04018405bafe21acc8bc96cc743", null ],
+    [ "LoadSkillPerfectItemTable", "d9/d39/a00257.html#a121df170a82be5ab5b05999a6be27b69", null ]
 ];

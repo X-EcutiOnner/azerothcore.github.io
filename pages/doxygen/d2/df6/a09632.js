@@ -1,8 +1,6 @@
 var a09632 =
 [
-    [ "BossInfo", "d2/df6/a09632.html#a455f533d647927d182176c3cceb21f42", null ],
-    [ "boundary", "d2/df6/a09632.html#aa4fb2bc78efb3393004c0f827000e4f1", null ],
-    [ "door", "d2/df6/a09632.html#a858af8825ed4fe183ee19b6f10239304", null ],
-    [ "minion", "d2/df6/a09632.html#abec1469d41f286d02c34223171373cd3", null ],
-    [ "state", "d2/df6/a09632.html#a1e4413b3a8bac20ed9e7ac878e3066f7", null ]
+    [ "bossId", "d2/df6/a09632.html#ac7ce1fcc568ad1fe6bc8a20957357ed8", null ],
+    [ "entry", "d2/df6/a09632.html#a1a199d022692efe54e29a7cb90e73dee", null ],
+    [ "type", "d2/df6/a09632.html#ab5654860b5c27654fa0346e9e92a71fc", null ]
 ];

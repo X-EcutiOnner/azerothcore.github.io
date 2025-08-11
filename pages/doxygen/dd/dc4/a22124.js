@@ -1,6 +1,6 @@
 var a22124 =
 [
-    [ "PrepareSpellScript", "dd/dc4/a22124.html#aa26d34552b04dca1db32390e769ff4dc", null ],
-    [ "RecalculateDamage", "dd/dc4/a22124.html#a1b3458fc865d320050fae1ffeb4c7b5d", null ],
-    [ "Register", "dd/dc4/a22124.html#a58d28dea272b1237cf60efb45d67765d", null ]
+    [ "npc_guardian_pavilionAI", "d7/da8/a22128.html", "d7/da8/a22128" ],
+    [ "npc_guardian_pavilion", "dd/dc4/a22124.html#aecc7e93f2b50351584049f031362e0f0", null ],
+    [ "GetAI", "dd/dc4/a22124.html#a89e55b3267cd93ae688573678851c7b9", null ]
 ];

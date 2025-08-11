@@ -1,7 +1,8 @@
 var a15256 =
 [
-    [ "npc_rizzle_sprysprocketAI", "d1/d42/a15260.html", "d1/d42/a15260" ],
-    [ "npc_rizzle_sprysprocket", "d0/daf/a15256.html#a3bd65f716b42200cc37d2264ddedf735", null ],
-    [ "GetAI", "d0/daf/a15256.html#ae445545476b4046db305117fa635e7f5", null ],
-    [ "OnGossipHello", "d0/daf/a15256.html#a3a42f3ffc35683b55de5bcc8d2b24647", null ]
+    [ "npc_obsidian_eradicator", "d0/daf/a15256.html#a84a6c414b3d74468143984e57f83e383", null ],
+    [ "JustEngagedWith", "d0/daf/a15256.html#ab03b7138306a04a00938bf1cdb9a7966", null ],
+    [ "Reset", "d0/daf/a15256.html#a7c76c7d3a69e464c0dcb6a96226baa61", null ],
+    [ "UpdateAI", "d0/daf/a15256.html#a1697d83e89559f047d5bab652007bb61", null ],
+    [ "_targetGUIDs", "d0/daf/a15256.html#abd83775d1eab5ab2a3aadd7fd925c3ae", null ]
 ];

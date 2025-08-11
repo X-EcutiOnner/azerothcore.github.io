@@ -1,7 +1,7 @@
 var a16108 =
 [
-    [ "OnApply", "dd/d4a/a16108.html#a2e4fa91ed7b3270a1addb8e5b3a85d74", null ],
-    [ "OnRemove", "dd/d4a/a16108.html#a781994b0be4588f4df29399fc900ec69", null ],
-    [ "PrepareAuraScript", "dd/d4a/a16108.html#aee648b80e7352edffb20fd60697e1d88", null ],
-    [ "Register", "dd/d4a/a16108.html#a53c56711e31500f827123c08f44072cb", null ]
+    [ "npc_orb_carrierAI", "dd/d4a/a16108.html#a2011c247d2157f5f2a06db6e149743e0", null ],
+    [ "DoAction", "dd/d4a/a16108.html#a501d0bdb9d77be1229dadf60d5f8af8c", null ],
+    [ "TriggerCutter", "dd/d4a/a16108.html#a6b6b127db878ca3b79ac8d7aeff4156e", null ],
+    [ "UpdateAI", "dd/d4a/a16108.html#a99a08390fcf2b0a058aee161932392d0", null ]
 ];

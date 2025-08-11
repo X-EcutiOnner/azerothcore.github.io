@@ -1,12 +1,14 @@
 var a21320 =
 [
-    [ "boss_lavanthorAI", "df/d72/a21320.html#aa562ad1ee029a35adebf8eac8f8249f3", null ],
-    [ "EnterEvadeMode", "df/d72/a21320.html#a0334d92f1ddf30235efe298df622535b", null ],
-    [ "JustDied", "df/d72/a21320.html#a300dbedf5514998e7065a2ef44a65f1f", null ],
-    [ "JustEngagedWith", "df/d72/a21320.html#a9820ec47af72af19f00b172ee138f908", null ],
-    [ "MoveInLineOfSight", "df/d72/a21320.html#aa613f70d93be479aa701675dfdb2d3e3", null ],
-    [ "Reset", "df/d72/a21320.html#a55d5cc6906033b5c56daa3ed15fabf0f", null ],
-    [ "UpdateAI", "df/d72/a21320.html#ab77ac2c78e94fed437e8ccefba4e363c", null ],
-    [ "events", "df/d72/a21320.html#a273adc56adefe9810013bc80950f2624", null ],
-    [ "pInstance", "df/d72/a21320.html#ad6059577c5e131523f39316c2291b421", null ]
+    [ "boss_cyanigosaAI", "df/d72/a21320.html#a4b24132889b17b3e682a15009a1ae910", null ],
+    [ "EnterEvadeMode", "df/d72/a21320.html#a8da6ddc9b1c9f7b145920205046ce095", null ],
+    [ "JustDied", "df/d72/a21320.html#a805117db567dd3d529a1c862bc24179c", null ],
+    [ "JustEngagedWith", "df/d72/a21320.html#a4ef85c0178120f14f2a7b29efb7a9abf", null ],
+    [ "KilledUnit", "df/d72/a21320.html#a5e69b631ab6844160b1e53fd1d731bae", null ],
+    [ "MoveInLineOfSight", "df/d72/a21320.html#adb699a22dbf1c14cb80f8fdcca9c6f82", null ],
+    [ "Reset", "df/d72/a21320.html#a7b0fdaa4f2603db8fd2d0c1ee6975817", null ],
+    [ "SpellHitTarget", "df/d72/a21320.html#ae8218b69e6dc7489e65d891048d84da1", null ],
+    [ "UpdateAI", "df/d72/a21320.html#ae69afba77636c962045160b610177bd9", null ],
+    [ "events", "df/d72/a21320.html#ab5fe766d46e9445b9e7cfc605073983f", null ],
+    [ "pInstance", "df/d72/a21320.html#a075f4a592202dc73d9b5d63ca5178093", null ]
 ];

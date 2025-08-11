@@ -1,7 +1,6 @@
 var a03977 =
 [
-    [ "inventory_commandscript", "dd/dce/a11674.html", "dd/dce/a11674" ],
-    [ "AddSC_inventory_commandscript", "d9/d2b/a03977.html#a8917ab2c5001702c3dc7a14313dbc562", null ],
-    [ "bagSpecsColors", "d9/d2b/a03977.html#aabf9a2b965ae6153eb18635be4468eb6", null ],
-    [ "bagSpecsToString", "d9/d2b/a03977.html#ac004d76eb746ea415b16f1b512a057b6", null ]
+    [ "instance_pit_of_saron", "df/d5a/a17036.html", "df/d5a/a17036" ],
+    [ "instance_pit_of_saron::instance_pit_of_saron_InstanceScript", "d4/d50/a17040.html", "d4/d50/a17040" ],
+    [ "AddSC_instance_pit_of_saron", "d9/d2b/a03977.html#a0793b7a11993f477eea1066a2da4bbb2", null ]
 ];

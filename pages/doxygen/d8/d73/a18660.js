@@ -1,7 +1,6 @@
 var a18660 =
 [
-    [ "HandleEvent", "d8/d73/a18660.html#a7aea0f5c4cd3765a8266e5478322910b", null ],
-    [ "PrepareSpellScript", "d8/d73/a18660.html#a2e59f7f9eb67790c59c2e94cf877b4f3", null ],
-    [ "Register", "d8/d73/a18660.html#a96c6a479141f765b9c0f96b5f148a428", null ],
-    [ "Validate", "d8/d73/a18660.html#aa86d2cea5cb41b1e0a86248d95b5bfdb", null ]
+    [ "npc_captain_rupertAI", "d7/d53/a18664.html", "d7/d53/a18664" ],
+    [ "npc_captain_rupert", "d8/d73/a18660.html#a7a4535a6b784b460c79722e9a50c3ff6", null ],
+    [ "GetAI", "d8/d73/a18660.html#a20afc31fc1a8bb09692ab0cc47af3c1b", null ]
 ];

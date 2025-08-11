@@ -1,17 +1,11 @@
 var a00260 =
 [
-    [ "GuidLinkType", "dd/dd7/a00260.html#a7c58fae67eb0c9a1b6f18b403121b2f5", [
-      [ "SPELL_LINK_PLAYER", "dd/dd7/a00260.html#a7c58fae67eb0c9a1b6f18b403121b2f5a5d767348c5c4c24512c158282864e028", null ],
-      [ "SPELL_LINK_CREATURE", "dd/dd7/a00260.html#a7c58fae67eb0c9a1b6f18b403121b2f5aaed061119fe0e792ab485fd40a360bf8", null ],
-      [ "SPELL_LINK_GAMEOBJECT", "dd/dd7/a00260.html#a7c58fae67eb0c9a1b6f18b403121b2f5ad11a1fa40770cd0fbd5f0ef62ee244f7", null ]
-    ] ],
-    [ "SpellLinkType", "dd/dd7/a00260.html#a39157073e48b2e925e7227a28d1f09f9", [
-      [ "SPELL_LINK_SPELL", "dd/dd7/a00260.html#a39157073e48b2e925e7227a28d1f09f9a2670f404d5b38a26d1bd9e6567f5f2dd", null ],
-      [ "SPELL_LINK_TALENT", "dd/dd7/a00260.html#a39157073e48b2e925e7227a28d1f09f9ac802fa91fadd1123dd681fb41e79ba56", null ],
-      [ "SPELL_LINK_ENCHANT", "dd/dd7/a00260.html#a39157073e48b2e925e7227a28d1f09f9aea86b74d590ef750d18f0ea02a3a3654", null ],
-      [ "SPELL_LINK_TRADE", "dd/dd7/a00260.html#a39157073e48b2e925e7227a28d1f09f9afb3878bf9e3c79264f9b24165df84919", null ],
-      [ "SPELL_LINK_GLYPH", "dd/dd7/a00260.html#a39157073e48b2e925e7227a28d1f09f9a4560f8b79d96cfda475bb4ac266a255e", null ]
-    ] ],
-    [ "guidKeys", "dd/dd7/a00260.html#ae39447b85bcee503ddb354d2950d638a", null ],
-    [ "spellKeys", "dd/dd7/a00260.html#a493fba30c4b66be28baeb971844ea593", null ]
+    [ "SkillDiscoveryEntry", "d1/dc1/a11052.html", "d1/dc1/a11052" ],
+    [ "SkillDiscoveryList", "dd/dd7/a00260.html#a0c80a6b86b3b7bd5e9c238efa802919b", null ],
+    [ "SkillDiscoveryMap", "dd/dd7/a00260.html#ab7ec6a8662e4edd3167deb3c917d2eab", null ],
+    [ "GetExplicitDiscoverySpell", "dd/dd7/a00260.html#a7cdb9e342efe04c1ba8caf202b7b0d96", null ],
+    [ "GetSkillDiscoverySpell", "dd/dd7/a00260.html#ab50472e4f1f892eb77ce660ef00d808a", null ],
+    [ "HasDiscoveredAllSpells", "dd/dd7/a00260.html#abdf3c2fcf65212466dfb54053e35024c", null ],
+    [ "LoadSkillDiscoveryTable", "dd/dd7/a00260.html#addd95f0a239a27ed32cd943aa1052019", null ],
+    [ "SkillDiscoveryStore", "dd/dd7/a00260.html#a1d624484e07efeeabc8a73a10c75ca4d", null ]
 ];

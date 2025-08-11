@@ -1,16 +1,9 @@
 var a09176 =
 [
-    [ "MessageDistDeliverer", "dc/d4b/a09176.html#a8f8c9fb2dadaa8c521b5036a94a4c9a4", null ],
-    [ "SendPacket", "dc/d4b/a09176.html#af085a9490dfd5a1e577bda6d8333fe1d", null ],
-    [ "Visit", "dc/d4b/a09176.html#af44878b494b1412f0d08248f6a88fff6", null ],
-    [ "Visit", "dc/d4b/a09176.html#a2e8d0ad4bdc5fc8961d9f67b6a93b69d", null ],
-    [ "Visit", "dc/d4b/a09176.html#a8c56d33ec988bfb6ba078fce00beab1a", null ],
-    [ "Visit", "dc/d4b/a09176.html#a09171ca5e494d7cc4b19340e95367a64", null ],
-    [ "i_distSq", "dc/d4b/a09176.html#a871dda581863f0919f1d5b2f60c2fcd9", null ],
-    [ "i_message", "dc/d4b/a09176.html#ac49c2d8b9120edbafd6b04656a6d2909", null ],
-    [ "i_phaseMask", "dc/d4b/a09176.html#abca07d041f9b45b4002f15dfff6e1c9e", null ],
-    [ "i_source", "dc/d4b/a09176.html#aa65c4e298a1302647fdaad1b1227a3a2", null ],
-    [ "required3dDist", "dc/d4b/a09176.html#abdce98d93c98513a434df80b97c096c6", null ],
-    [ "skipped_receiver", "dc/d4b/a09176.html#a7f92e1c65cdc8346dd4bac47f1ba8b5b", null ],
-    [ "teamId", "dc/d4b/a09176.html#acfda3713bbde51a110cb160f0325f848", null ]
+    [ "VisibleChangesNotifier", "dc/d4b/a09176.html#aacb0239ed44c9705eeeebf5ab198f7e0", null ],
+    [ "Visit", "dc/d4b/a09176.html#abfc60c91aaa823cb99cdfc17a287e23e", null ],
+    [ "Visit", "dc/d4b/a09176.html#aaf1dab341f34f75e56da63370af0ecd3", null ],
+    [ "Visit", "dc/d4b/a09176.html#a103a8ef30ce4c0753913b6ecb6cf4e92", null ],
+    [ "Visit", "dc/d4b/a09176.html#a6e856249a08d0a90b9d19f2449f30fba", null ],
+    [ "i_object", "dc/d4b/a09176.html#a496b982d081957cfc288f29b99b8739d", null ]
 ];

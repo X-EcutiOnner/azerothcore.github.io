@@ -1,7 +1,6 @@
 var a22308 =
 [
-    [ "npc_wg_demolisher_engineer", "d0/da2/a22308.html#a722ff6bac34730bfb5f36584d7a62ff8", null ],
-    [ "canBuild", "d0/da2/a22308.html#a5dd51b0d0a05ebfb648faab570e27881", null ],
-    [ "OnGossipHello", "d0/da2/a22308.html#ac3b0bbfd66bb94f29a6d733999b8c6ba", null ],
-    [ "OnGossipSelect", "d0/da2/a22308.html#a3ecf69f45918bef0cb51023327ac9693", null ]
+    [ "npc_icefangAI", "de/d84/a22312.html", "de/d84/a22312" ],
+    [ "npc_icefang", "d0/da2/a22308.html#a2e13be89b110abaa2509e597e4cf883a", null ],
+    [ "GetAI", "d0/da2/a22308.html#ad1a936b1eef30271912054a817e0c9f8", null ]
 ];

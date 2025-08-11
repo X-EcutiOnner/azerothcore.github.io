@@ -1,10 +1,7 @@
 var a07912 =
 [
-    [ "LfgUpdateData", "dd/ddf/a07912.html#a01326fafaa2ce562b5710d1d7ca75330", null ],
-    [ "LfgUpdateData", "dd/ddf/a07912.html#a656873ea6ef9b3f23791827617a000c6", null ],
-    [ "LfgUpdateData", "dd/ddf/a07912.html#a248682a712dd43b8c4601830aae4ddec", null ],
-    [ "comment", "dd/ddf/a07912.html#a398f1b9ce0737d833fe4566ecea20e31", null ],
-    [ "dungeons", "dd/ddf/a07912.html#a0e9b49693248b438dbc508e230a870db", null ],
-    [ "state", "dd/ddf/a07912.html#ad9c270e37acaa105b9e12ec73158c7e3", null ],
-    [ "updateType", "dd/ddf/a07912.html#a146e43854f66bf57f703d7089a24481e", null ]
+    [ "RBEntryInfo", "dd/ddf/a07912.html#aa720dd6cae9ee7163bb9b84918249644", null ],
+    [ "RBEntryInfo", "dd/ddf/a07912.html#a3df17ed1c70ed9b755843308d5ff6336", null ],
+    [ "comment", "dd/ddf/a07912.html#a7284eac7208dba21a52b79257aad7dbc", null ],
+    [ "roles", "dd/ddf/a07912.html#ab891dec65b0070ede1233080eadd0190", null ]
 ];

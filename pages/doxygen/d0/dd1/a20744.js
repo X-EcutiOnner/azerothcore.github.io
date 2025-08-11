@@ -1,6 +1,9 @@
 var a20744 =
 [
-    [ "PrepareSpellScript", "d0/dd1/a20744.html#ac84dedbb3343c15e32ae3c57d80a4561", null ],
-    [ "Register", "d0/dd1/a20744.html#a27c5665b64c50df5d9c67d5136ab7567", null ],
-    [ "SelectTarget", "d0/dd1/a20744.html#a0f9c85168ad0c0fda61f4bb1e97bd518", null ]
+    [ "npc_xt002_pummellerAI", "d0/dd1/a20744.html#a2942c05c93036c2e02b9a72c784441b1", null ],
+    [ "Reset", "d0/dd1/a20744.html#a6542fb3e585f100f06f6be14a1346306", null ],
+    [ "UpdateAI", "d0/dd1/a20744.html#a959990310303ff2102f1c03852b4ab8e", null ],
+    [ "_arcingSmashTimer", "d0/dd1/a20744.html#a830fda66756dc3f34a530939116e7556", null ],
+    [ "_trampleTimer", "d0/dd1/a20744.html#ae5e450601861f83b20419405bb92ef6d", null ],
+    [ "_uppercutTimer", "d0/dd1/a20744.html#a5a1bdb380438070effc091ec37db6aec", null ]
 ];

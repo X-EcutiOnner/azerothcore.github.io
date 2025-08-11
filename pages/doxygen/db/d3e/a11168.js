@@ -1,7 +1,8 @@
 var a11168 =
 [
-    [ "attributeMask", "db/d3e/a11168.html#a6bbb4046cd4c068c990aa28844e4588b", null ],
-    [ "customChance", "db/d3e/a11168.html#ac5d048f7ee803d61d5d3c59bb80a015d", null ],
-    [ "PPMChance", "db/d3e/a11168.html#adb76c11f0073a2738374c98c01fda009", null ],
-    [ "procEx", "db/d3e/a11168.html#a28bcdd11e64ad96be5a3ca0e0dd447c7", null ]
+    [ "DirectionType", "db/d3e/a11168.html#a8491033c0286895c2d4d3280cfd529f0", null ],
+    [ "ObjectType", "db/d3e/a11168.html#a20c29be1005aa52993d4ec0a13c36f4d", null ],
+    [ "ReferenceType", "db/d3e/a11168.html#a44e310a789c4c5a288f07c9254ad389a", null ],
+    [ "SelectionCategory", "db/d3e/a11168.html#a4a42ef329b6cfcfcd7fd4ce59e8f597c", null ],
+    [ "SelectionCheckType", "db/d3e/a11168.html#a35c8d221b47de13408a0256598fa9d63", null ]
 ];

@@ -1,6 +1,9 @@
 var a27672 =
 [
-    [ "X", "df/dad/a27672.html#a55bda49b2eb919415afaf780ca1977de", null ],
-    [ "Y", "df/dad/a27672.html#a0bf22799258050a9b12ddc14bb2b4b11", null ],
-    [ "Z", "df/dad/a27672.html#a7f0ceece775146d825d19a3cd22e5da3", null ]
+    [ "npc_arcanite_dragonling", "df/dad/a27672.html#a9b7e4cefa312a16c90018d655ad94758", null ],
+    [ "CanAIAttack", "df/dad/a27672.html#a374e127ef749dc72ec70137bcd13a0b9", null ],
+    [ "IsSummonedBy", "df/dad/a27672.html#a921b35a91c4f21258efdb41fd87413db", null ],
+    [ "JustEngagedWith", "df/dad/a27672.html#a65f6d779681861117f750b70154b3e0d", null ],
+    [ "Reset", "df/dad/a27672.html#a4468d91430add821bf7a7ab11d8063da", null ],
+    [ "UpdateAI", "df/dad/a27672.html#aebe430b9a3079a5ccbfd979a74e532f3", null ]
 ];

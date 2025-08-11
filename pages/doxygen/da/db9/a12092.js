@@ -1,12 +1,11 @@
 var a12092 =
 [
-    [ "boss_thebeastAI", "da/db9/a12092.html#a51b7d4ec10d2616d99fb21e680ff17b4", null ],
-    [ "FindNearbyOrcs", "da/db9/a12092.html#ad832a878880ac32e05d360262546422a", null ],
-    [ "JustEngagedWith", "da/db9/a12092.html#ab107354f10d0af4b840ab5ff8d3d0eaf", null ],
-    [ "Reset", "da/db9/a12092.html#abfa1bca308a02ef0e80d2baf11670305", null ],
-    [ "SetData", "da/db9/a12092.html#a6f30ed7c0451613998660b258145f801", null ],
-    [ "UpdateAI", "da/db9/a12092.html#a0f490e907ce632e1fb921a6eb46b49c0", null ],
-    [ "_beastReached", "da/db9/a12092.html#a01271598b4b3c85a7066e66d8150e522", null ],
-    [ "_nearbyOrcsGUIDs", "da/db9/a12092.html#af32fb34f4c76cfe292da9bc84a5d6372", null ],
-    [ "_orcYelled", "da/db9/a12092.html#a16df847475ea220b8ac4ea944e8d1ca4", null ]
+    [ "boss_quartermaster_zigris", "da/db9/a12092.html#a1d2f68327cc9b88fdd82d44ac8446d57", null ],
+    [ "DamageTaken", "da/db9/a12092.html#a61d7f1c4e5a2901812f1175ccce69ab2", null ],
+    [ "JustDied", "da/db9/a12092.html#a9295bbcffd7968051a789e8dfb634e23", null ],
+    [ "JustEngagedWith", "da/db9/a12092.html#af482c06e00e7f6c15b290115998a27a9", null ],
+    [ "Reset", "da/db9/a12092.html#a71e911bb91b7447e8aed28cdccfda8db", null ],
+    [ "SpellHitTarget", "da/db9/a12092.html#a38197746cc73ada1378e6e1a5555ef79", null ],
+    [ "UpdateAI", "da/db9/a12092.html#a400f7ace05cd5c4d127aecf5d771c616", null ],
+    [ "_hasDrunkPotion", "da/db9/a12092.html#a25335533bc43171687e03f1ed22d4fb3", null ]
 ];

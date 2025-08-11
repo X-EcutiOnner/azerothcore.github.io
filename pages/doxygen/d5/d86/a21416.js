@@ -1,8 +1,6 @@
 var a21416 =
 [
-    [ "npc_azure_raiderAI", "d5/d86/a21416.html#a6928428a9dc1ed483a682c8f2a281ebf", null ],
-    [ "Reset", "d5/d86/a21416.html#a80d9e586e5c03d19b6b9f0e0f7607b20", null ],
-    [ "UpdateAI", "d5/d86/a21416.html#a2e9833d0d25fd8c442f7ab279de6a40a", null ],
-    [ "uiConcussionBlowTimer", "d5/d86/a21416.html#a4e7dfb8d4991bf7ad3d0eeb72dff770b", null ],
-    [ "uiMagicReflectionTimer", "d5/d86/a21416.html#acb262ab506ea58201abfe2057525c548", null ]
+    [ "npc_vh_teleportation_portalAI", "d2/dc8/a21420.html", "d2/dc8/a21420" ],
+    [ "npc_vh_teleportation_portal", "d5/d86/a21416.html#a9a554058f594f992a17dbb3887117a6f", null ],
+    [ "GetAI", "d5/d86/a21416.html#a0721c64c01ae69bd78dfc15637c97f49", null ]
 ];

@@ -1,8 +1,6 @@
 var a12920 =
 [
-    [ "HandleDummy", "de/d59/a12920.html#a3533f1e0daea7bf0e0e2a5830380159a", null ],
-    [ "HandleScript", "de/d59/a12920.html#a528ce741ebde0fb6b796431da800e439", null ],
-    [ "PrepareSpellScript", "de/d59/a12920.html#aa64f2238cdf8bf733c7e99db5d076c81", null ],
-    [ "Register", "de/d59/a12920.html#a8dea4b47777324b88c7e022f11741b25", null ],
-    [ "Validate", "de/d59/a12920.html#a6f49345b2beea56b4eaad390a6062118", null ]
+    [ "npc_unworthy_initiate_anchorAI", "d8/d9a/a12924.html", "d8/d9a/a12924" ],
+    [ "npc_unworthy_initiate_anchor", "de/d59/a12920.html#a3d4c6d9e5ffa66d3424297b27e5ac4a1", null ],
+    [ "GetAI", "de/d59/a12920.html#ab012983661d20a3ffa4f58136bd2d808", null ]
 ];

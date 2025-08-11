@@ -1,5 +1,4 @@
 var a00080 =
 [
-    [ "FactoryHolder< T, O, Key >", "dc/d72/a05218.html", "dc/d72/a05218" ],
-    [ "Permissible< T >", "d5/d9b/a05222.html", "d5/d9b/a05222" ]
+    [ "DEBUG_WRITE", "da/dec/a00080.html#a4ebf72895c1d62f0bc7d45804db4bc91", null ]
 ];

@@ -1,14 +1,12 @@
 var a20320 =
 [
-    [ "boss_kologarn_armsAI", "d8/d0d/a20320.html#aa647b59e1bb0abb8f71e81700063624d", null ],
-    [ "AttackStart", "d8/d0d/a20320.html#ad8e25495a6559b0c4f63f0c81a4af044", null ],
-    [ "DamageTaken", "d8/d0d/a20320.html#aebc4f20f398a884d5cf911746048066e", null ],
-    [ "EnterEvadeMode", "d8/d0d/a20320.html#a1d39d05719d6e7730bd3d247ec1f56a7", null ],
-    [ "JustDied", "d8/d0d/a20320.html#a224f30aa4703f82e1ff9439b5247398a", null ],
-    [ "MoveInLineOfSight", "d8/d0d/a20320.html#a7f8167fe8edc85fc93143a8e8945bed4", null ],
-    [ "PassengerBoarded", "d8/d0d/a20320.html#a105880e1f201db0d4130611f5b99d730", null ],
-    [ "Reset", "d8/d0d/a20320.html#a8eec8810cdb52bacdd0c9165993dd3c2", null ],
-    [ "UpdateAI", "d8/d0d/a20320.html#ad4f392b7aa918d7f038749db4ffd72b8", null ],
-    [ "_combatStarted", "d8/d0d/a20320.html#a016c5497988d7ddd9f0744e83f7bf1d3", null ],
-    [ "_damageDone", "d8/d0d/a20320.html#af0ad823bc5b02282d5d525d135ee3118", null ]
+    [ "npc_ulduar_iron_constructAI", "d8/d0d/a20320.html#ab81224d24ab1925cde97ab76c2a514d1", null ],
+    [ "DamageTaken", "d8/d0d/a20320.html#a5235538b755dd83615d80a1f7d0ec1b9", null ],
+    [ "JustDied", "d8/d0d/a20320.html#a5b8e1c38257fc13c59bcaf8cb251fee2", null ],
+    [ "JustReachedHome", "d8/d0d/a20320.html#a12416ffe731f96a1ca2949d995eb909c", null ],
+    [ "MoveInLineOfSight", "d8/d0d/a20320.html#a12b228a1edb9460ddcb2b8232bb8209e", null ],
+    [ "Reset", "d8/d0d/a20320.html#ac6dba374d72247be14923aa54898b9b5", null ],
+    [ "SpellHit", "d8/d0d/a20320.html#a10a5444576af84ae50ad8af930ed5970", null ],
+    [ "UpdateAI", "d8/d0d/a20320.html#ac5aabd4a48b6a2f5057eb5ee8a8c99f8", null ],
+    [ "timer", "d8/d0d/a20320.html#ae1996cf79f8a82df7fe02cd60e5ce3a4", null ]
 ];

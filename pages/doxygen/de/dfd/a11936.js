@@ -1,6 +1,7 @@
 var a11936 =
 [
-    [ "boss_high_priestess_thaurissanAI", "de/dfd/a11936.html#acbc89b59865a5fda5a4143dd8c690b37", null ],
-    [ "JustEngagedWith", "de/dfd/a11936.html#a6602682950aab4e9932bf6cdfac9886b", null ],
-    [ "UpdateAI", "de/dfd/a11936.html#a216a5bc7a38aa5e13f9d025f44e04779", null ]
+    [ "boss_gorosh_the_dervishAI", "de/dfd/a11936.html#adac003c51a2d1d0a8daa6ba552114c25", null ],
+    [ "JustEngagedWith", "de/dfd/a11936.html#a52bc5f76baff626b8834aa604fdd8e6a", null ],
+    [ "UpdateAI", "de/dfd/a11936.html#aa17e26419a8e3f7cd99c5e9b44be8ed8", null ],
+    [ "nextWhirlwindTime", "de/dfd/a11936.html#a07f1af63bc54d1b4c8d8e1cd87a787a1", null ]
 ];

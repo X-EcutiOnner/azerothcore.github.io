@@ -1,9 +1,12 @@
 var a01454 =
 [
-    [ "AddWeather", "da/df6/a01454.html#ga1f76350b68494335d48ae206b87e190c", null ],
-    [ "FindWeather", "da/df6/a01454.html#gadd11deec2098fed61adf7910b8f09cc6", null ],
-    [ "LoadWeatherData", "da/df6/a01454.html#ga6c7d8a9fc5dfce0880220f4b5b8cd623", null ],
-    [ "RemoveWeather", "da/df6/a01454.html#ga296a3324a3a38984149fae3e5d62435f", null ],
-    [ "SendFineWeatherUpdateToPlayer", "da/df6/a01454.html#gac86b4e254146468a7412d8fc7b0c27f2", null ],
-    [ "Update", "da/df6/a01454.html#ga45f0da6cf9e14a99380b4b9be2890801", null ]
+    [ "CliCommandHolder", "d2/db3/a11540.html", "d2/db3/a11540" ],
+    [ "IWorld", "d1/d47/a11544.html", "d1/d47/a11544" ],
+    [ "ServerMessageType", "da/df6/a01454.html#a08e6f7cfaf7929274a1908b0e95c798f", [
+      [ "SERVER_MSG_SHUTDOWN_TIME", "da/df6/a01454.html#a08e6f7cfaf7929274a1908b0e95c798fa06a96ab329b402934a6bd8d22fbd930c", null ],
+      [ "SERVER_MSG_RESTART_TIME", "da/df6/a01454.html#a08e6f7cfaf7929274a1908b0e95c798fae8f145f08fb30710c968e3a9951d8b68", null ],
+      [ "SERVER_MSG_STRING", "da/df6/a01454.html#a08e6f7cfaf7929274a1908b0e95c798fa7b603f35c79df6fdd3f52f235dfaf517", null ],
+      [ "SERVER_MSG_SHUTDOWN_CANCELLED", "da/df6/a01454.html#a08e6f7cfaf7929274a1908b0e95c798faabf5988cd244fc5827716176e69d151b", null ],
+      [ "SERVER_MSG_RESTART_CANCELLED", "da/df6/a01454.html#a08e6f7cfaf7929274a1908b0e95c798fabaf3639f93cefc356c92dedb463da131", null ]
+    ] ]
 ];

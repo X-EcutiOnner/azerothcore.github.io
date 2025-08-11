@@ -1,8 +1,10 @@
 var a01931 =
 [
-    [ "MailScript", "d3/ddb/a10324.html", "d3/ddb/a10324" ],
-    [ "MailHook", "d5/d31/a01931.html#a7a2fb0cc0937712e8aff65574e1068d6", [
-      [ "MAILHOOK_ON_BEFORE_MAIL_DRAFT_SEND_MAIL_TO", "d5/d31/a01931.html#a7a2fb0cc0937712e8aff65574e1068d6a8f3555a10968fd2749e256067782760f", null ],
-      [ "MAILHOOK_END", "d5/d31/a01931.html#a7a2fb0cc0937712e8aff65574e1068d6a97af521f76b0d427812db0ac3303f285", null ]
-    ] ]
+    [ "WorldPackets::Pet::DismissCritter", "d4/dc3/a10876.html", "d4/dc3/a10876" ],
+    [ "WorldPackets::Pet::PetAbandon", "d7/db8/a10880.html", "d7/db8/a10880" ],
+    [ "WorldPackets::Pet::PetStopAttack", "db/da9/a10884.html", "db/da9/a10884" ],
+    [ "WorldPackets::Pet::PetSpellAutocast", "d1/d65/a10888.html", "d1/d65/a10888" ],
+    [ "WorldPackets::Pet::PetLearnedSpell", "d4/d40/a10892.html", "d4/d40/a10892" ],
+    [ "WorldPackets::Pet::PetUnlearnedSpell", "df/da4/a10896.html", "df/da4/a10896" ],
+    [ "WorldPackets::Pet::RequestPetInfo", "df/dc5/a10900.html", "df/dc5/a10900" ]
 ];

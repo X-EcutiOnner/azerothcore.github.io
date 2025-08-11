@@ -1,25 +1,12 @@
 var a12968 =
 [
-    [ "Events", "db/d91/a12968.html#a5cfaa8e01186ddc0077c088124825407", [
-      [ "EVENT_START_RITUAL", "db/d91/a12968.html#a5cfaa8e01186ddc0077c088124825407afc564d8d20a38aebccc53438aea776ee", null ],
-      [ "EVENT_GHOULPLOSION", "db/d91/a12968.html#a5cfaa8e01186ddc0077c088124825407a9d567173dec6df2f9aa02824cc5bc1ac", null ],
-      [ "EVENT_RAISE_DEAD", "db/d91/a12968.html#a5cfaa8e01186ddc0077c088124825407a7366f5f9e45ffab6e46ec661bcd21256", null ],
-      [ "EVENT_RESUME_WP", "db/d91/a12968.html#a5cfaa8e01186ddc0077c088124825407adefda2d5f3072d19d2347388327166be", null ]
-    ] ],
-    [ "Points", "db/d91/a12968.html#add8fd9a6f63482df9f45b3bfd766ab8d", [
-      [ "POINT_CORPSE_REACHED", "db/d91/a12968.html#add8fd9a6f63482df9f45b3bfd766ab8da9e753f89ab9b6e361811f315e05cd86d", null ]
-    ] ],
-    [ "Says", "db/d91/a12968.html#ae8b39c5bb662dcd75f77afadabe479e0", [
-      [ "SAY_GRYPHON", "db/d91/a12968.html#ae8b39c5bb662dcd75f77afadabe479e0aa8758b509f2342c32be1e28329ec0397", null ],
-      [ "SAY_GHOUL", "db/d91/a12968.html#ae8b39c5bb662dcd75f77afadabe479e0acf87a9a0c9d87d1874eb0d8aeca450db", null ],
-      [ "SAY_GEIST", "db/d91/a12968.html#ae8b39c5bb662dcd75f77afadabe479e0a813bb4a12b95a86434f4e82fecaeade2", null ]
-    ] ],
-    [ "npc_gothik_the_harvesterAI", "db/d91/a12968.html#adc37477ffc344ba02de99ceacee6f81b", null ],
-    [ "MovementInform", "db/d91/a12968.html#a94d937d44f1b843ddfe75983d3a2477a", null ],
-    [ "Reset", "db/d91/a12968.html#a3670ab9f63fff9ce55f64bba5018cef8", null ],
-    [ "UpdateAI", "db/d91/a12968.html#af2a9927516a41e3d8c35edb993a4aef5", null ],
-    [ "events", "db/d91/a12968.html#a1627517ce67ba5a5e454bc69e89d2e13", null ],
-    [ "geistGUID", "db/d91/a12968.html#a4c9b7d672451b45a4454f6fba7057b59", null ],
-    [ "isOnRitual", "db/d91/a12968.html#a88f5a2c50bcc65a3cd6e9856a85fbce2", null ],
-    [ "targetCorpseGUID", "db/d91/a12968.html#a4499cbb3c415a7ca494c6193aa956ce3", null ]
+    [ "npc_koltira_deathweaverAI", "db/d91/a12968.html#adbc46fce90170aec986faacf012bd2b2", null ],
+    [ "MovementInform", "db/d91/a12968.html#afed53c190d875d0e59775ebfeb749fcf", null ],
+    [ "Reset", "db/d91/a12968.html#ac07053d3798d57449c23bfff68e12f1b", null ],
+    [ "sGossipSelect", "db/d91/a12968.html#af481beffaeb97a69483a62fd5f110616", null ],
+    [ "sQuestAccept", "db/d91/a12968.html#a83fa04558bc7617b561ec05da9f2a6a1", null ],
+    [ "StartEvent", "db/d91/a12968.html#aa4f0df71fb88f6685f2c27f19a34b2b3", null ],
+    [ "SummonedCreatureDies", "db/d91/a12968.html#a967575fafe29db364b4e6a00a5e0457b", null ],
+    [ "UpdateAI", "db/d91/a12968.html#ac90ed956ba45b6363a21af76393126ac", null ],
+    [ "_valrothGUID", "db/d91/a12968.html#ad041942412fb8288ff5f850ee6472e78", null ]
 ];

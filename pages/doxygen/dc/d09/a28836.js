@@ -1,8 +1,8 @@
 var a28836 =
 [
-    [ "CheckProc", "dc/d09/a28836.html#a8a61fbd855294e6218cfc0e2dd3706c9", null ],
-    [ "OnProc", "dc/d09/a28836.html#a9217135a55d6612bf1d36b63ac09e7fb", null ],
-    [ "PrepareAuraScript", "dc/d09/a28836.html#a8bf573bb900773d4669708536b0b8011", null ],
-    [ "Register", "dc/d09/a28836.html#ae8ddcb6329088f904cbae3292ff92023", null ],
-    [ "Validate", "dc/d09/a28836.html#a918c9334b7f20710c0d6448a33c94601", null ]
+    [ "Color", "dc/d09/a28836.html#a379e4cf61345dbb4d93da5a8603138c0", null ],
+    [ "NameIndex", "dc/d09/a28836.html#add893e045d13a3633fd7346457a10477", null ],
+    [ "Position", "dc/d09/a28836.html#afae9056582e71160c151de2c172bc60a", null ],
+    [ "Rotation", "dc/d09/a28836.html#a48d372bc1371fa5f94db9aa39669942a", null ],
+    [ "Scale", "dc/d09/a28836.html#aefacaaf0be0745c95ffc53f410da6e8d", null ]
 ];

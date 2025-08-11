@@ -1,6 +1,6 @@
 var a21064 =
 [
-    [ "instance_utgarde_keep_InstanceMapScript", "de/da4/a21068.html", "de/da4/a21068" ],
-    [ "instance_utgarde_keep", "de/d62/a21064.html#abe013e4f086f63722a6398b2b7928c80", null ],
-    [ "GetInstanceScript", "de/d62/a21064.html#a9a42e0dde1c7598eb2ef665f11e25e92", null ]
+    [ "HandleEffectPeriodic", "de/d62/a21064.html#a3dd6eaa3e5800b92e19c12e47b0ad132", null ],
+    [ "PrepareAuraScript", "de/d62/a21064.html#a0b24e94cfce6b57d2dc8b36c3fe1c39f", null ],
+    [ "Register", "de/d62/a21064.html#a4dd779cac93c2f847495dadc67c0beb2", null ]
 ];

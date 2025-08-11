@@ -1,6 +1,5 @@
 var a27088 =
 [
-    [ "boss_lethonAI", "da/dc4/a27092.html", "da/dc4/a27092" ],
-    [ "boss_lethon", "d8/d5d/a27088.html#a5d758979b061646830373de64b2b3af4", null ],
-    [ "GetAI", "d8/d5d/a27088.html#a493baf37aac400635dd0409e79375a1c", null ]
+    [ "AreaTrigger_at_scent_larkorwi", "d8/d5d/a27088.html#a967a43eae4cc986754eed9ee8291c17e", null ],
+    [ "OnTrigger", "d8/d5d/a27088.html#aeeb339afa5a7dd4b028aea800026998e", null ]
 ];

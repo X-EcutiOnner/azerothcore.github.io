@@ -1,5 +1,7 @@
 var a24076 =
 [
-    [ "at_commander_dawnforge", "d7/dd9/a24076.html#a1dfd7eb69ae515a59887c313001e4a4e", null ],
-    [ "OnTrigger", "d7/dd9/a24076.html#acc78f4f2f9d892c02d62548e93f7f83b", null ]
+    [ "npc_creditmarker_visit_with_ancestorsAI", "d7/dd9/a24076.html#a483e8fb0d73561e34a1078fdde1a1b5b", null ],
+    [ "JustEngagedWith", "d7/dd9/a24076.html#a4038d707731f64f588e307c22c859902", null ],
+    [ "MoveInLineOfSight", "d7/dd9/a24076.html#a40d92122cd4f879f52ff78a4f172c3b8", null ],
+    [ "Reset", "d7/dd9/a24076.html#a29132346f117ba785039057619edb9e7", null ]
 ];

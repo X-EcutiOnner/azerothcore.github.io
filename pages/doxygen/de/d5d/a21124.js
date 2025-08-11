@@ -1,5 +1,6 @@
 var a21124 =
 [
-    [ "go_palehoof_sphere", "de/d5d/a21124.html#a9e31fe7531980a5f75af95e24cbc272d", null ],
-    [ "OnGossipHello", "de/d5d/a21124.html#ad939fd46f8bdf32d4e158f32f2bcd8da", null ]
+    [ "boss_palehoofAI", "d9/d51/a21128.html", "d9/d51/a21128" ],
+    [ "boss_palehoof", "de/d5d/a21124.html#ac0e541befaad7e1e6e318d64ca4a1d94", null ],
+    [ "GetAI", "de/d5d/a21124.html#ae33ca6e71b251214be50168a5940d058", null ]
 ];

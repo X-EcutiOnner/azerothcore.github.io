@@ -1,5 +1,6 @@
 var a26964 =
 [
-    [ "achievement_bg_ic_resource_glut", "df/dff/a26964.html#ace247962dccee2601ceade593b0874d4", null ],
-    [ "OnCheck", "df/dff/a26964.html#a9910cf8b16b8c956df382161cc5f2c84", null ]
+    [ "HandleScript", "df/dff/a26964.html#ab2bad52272a5cd7167a7601fdfa02b1d", null ],
+    [ "PrepareSpellScript", "df/dff/a26964.html#a60454f2c1ba8d1ea160350b5e02bf56d", null ],
+    [ "Register", "df/dff/a26964.html#a22b9877e2cd27c925ae7b351d3d6f41b", null ]
 ];

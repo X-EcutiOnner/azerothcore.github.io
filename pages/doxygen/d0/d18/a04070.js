@@ -1,6 +1,6 @@
 var a04070 =
 [
-    [ "instance_the_stockade", "d4/d7f/a13470.html", "d4/d7f/a13470" ],
-    [ "instance_the_stockade::instance_the_stockade_InstanceMapScript", "d8/dd2/a13474.html", "d8/dd2/a13474" ],
-    [ "AddSC_instance_the_stockade", "d0/d18/a04070.html#a185a86af6f910845f0f833704f0101af", null ]
+    [ "fireworkShowGameobjectStormwind", "d0/d18/a04070.html#ae843a13f6116ce380e3890397d825ae6", null ],
+    [ "fireworkShowScheduleStormwind", "d0/d18/a04070.html#af98c86c5b3725a8753fc620996c94b7f", null ],
+    [ "fireworkShowStormwind", "d0/d18/a04070.html#a378278257abadcd4369abd66f412d8e6", null ]
 ];

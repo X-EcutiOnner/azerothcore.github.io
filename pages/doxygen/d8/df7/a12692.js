@@ -1,12 +1,11 @@
 var a12692 =
 [
-    [ "boss_bigbadwolf", "d8/df7/a12692.html#a1e4ad63c96d64f81e8b9ea82f118cdcc", null ],
-    [ "EnterEvadeMode", "d8/df7/a12692.html#a4f2d5307f5d05ed58bfc200f53bf2969", null ],
-    [ "JustDied", "d8/df7/a12692.html#a167083a43e00a60e9c3792cadaf6e80c", null ],
-    [ "JustEngagedWith", "d8/df7/a12692.html#a529fad938a0ef7261f1c2d589b6ff29c", null ],
-    [ "JustReachedHome", "d8/df7/a12692.html#a7755bf925d919c73075a41f8774280c0", null ],
-    [ "KilledUnit", "d8/df7/a12692.html#a8e004a1feac796ed467eba744f211827", null ],
-    [ "UpdateAI", "d8/df7/a12692.html#ab788a0155a3ffe6535d58263eea16dee", null ],
-    [ "_scheduler", "d8/df7/a12692.html#a661d9b619be30764ba5b89d71de870e9", null ],
-    [ "instance", "d8/df7/a12692.html#aed0e9edc52f13b7b0cfa5047849c26a9", null ]
+    [ "npc_demon_chain", "d8/df7/a12692.html#ac234e729422925bd773bcdbc45f9e1b5", null ],
+    [ "AttackStart", "d8/df7/a12692.html#a745fa194ca5ad30c96e85b3f9daad2ad", null ],
+    [ "IsSummonedBy", "d8/df7/a12692.html#a27007fdff0d685b0a38a0b98820b95fb", null ],
+    [ "JustDied", "d8/df7/a12692.html#a35d1b7de8612f11cdf61b9d663990686", null ],
+    [ "JustEngagedWith", "d8/df7/a12692.html#a9743ebc31c5159a03889bfd40b09d749", null ],
+    [ "MoveInLineOfSight", "d8/df7/a12692.html#a9ffa6ed6faa21c9596f7a0c2ceb1cc05", null ],
+    [ "Reset", "d8/df7/a12692.html#ad531f82511e5156d3b9891dd4095b0d5", null ],
+    [ "sacrificeGUID", "d8/df7/a12692.html#a5572e39fcf3d807ef462f5c16ff703f1", null ]
 ];

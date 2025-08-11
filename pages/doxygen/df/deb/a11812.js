@@ -1,5 +1,6 @@
 var a11812 =
 [
-    [ "at_ring_of_law", "df/deb/a11812.html#ad9bb44e898f90fb489b50cad0a711976", null ],
-    [ "OnTrigger", "df/deb/a11812.html#a613471caae75ab3d82ce915101a20108", null ]
+    [ "boss_drektharAI", "dc/def/a11816.html", "dc/def/a11816" ],
+    [ "boss_drekthar", "df/deb/a11812.html#ac9296654b10191ac9d58219ba36f57b3", null ],
+    [ "GetAI", "df/deb/a11812.html#adeacbbc81ab675260c2cac1a6c76d3fe", null ]
 ];

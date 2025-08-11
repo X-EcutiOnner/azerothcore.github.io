@@ -1,8 +1,7 @@
 var a15424 =
 [
-    [ "CheckRequirement", "d9/da7/a15424.html#ae2b5e9accd0df2cc99e976eaab2d3f35", null ],
-    [ "HandleDummy", "d9/da7/a15424.html#a6d2c75ad53f0e0f7be2df037f385d686", null ],
-    [ "PrepareSpellScript", "d9/da7/a15424.html#a5b0a5f957a7b996cbe6b219a9803069e", null ],
-    [ "Register", "d9/da7/a15424.html#a46f4aec6f7786d0abc8ded21ef16e6f6", null ],
-    [ "Validate", "d9/da7/a15424.html#ab3f8d94f3b8d44e668743cb821430a92", null ]
+    [ "npc_aged_dying_ancient_kodoAI", "d5/dd1/a15428.html", "d5/dd1/a15428" ],
+    [ "npc_aged_dying_ancient_kodo", "d9/da7/a15424.html#a676170a319d3a8e46c9d017e61396c28", null ],
+    [ "GetAI", "d9/da7/a15424.html#a886bc82764e4ca6d98dc94ea73415375", null ],
+    [ "OnGossipHello", "d9/da7/a15424.html#a8489b3f23d8eca39f2750711512672e4", null ]
 ];

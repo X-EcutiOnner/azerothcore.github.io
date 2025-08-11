@@ -1,7 +1,7 @@
 var a13104 =
 [
-    [ "HandleScript", "db/df8/a13104.html#acbff60b24bd0239880378b48cb97b6a4", null ],
-    [ "PrepareSpellScript", "db/df8/a13104.html#a2f72b76ced4443a8eb1dfcf7bf6a4ac5", null ],
-    [ "Register", "db/df8/a13104.html#a132d35555f1d589caa65ecd3728976d5", null ],
-    [ "Validate", "db/df8/a13104.html#a503ce41357f8195837c9b14f2468fb5b", null ]
+    [ "OnApply", "db/df8/a13104.html#a278a1eb6d5f856a620f5a33de294b0ec", null ],
+    [ "OnRemove", "db/df8/a13104.html#a8300f726a41882e3d3f54adc0e5bfb29", null ],
+    [ "PrepareAuraScript", "db/df8/a13104.html#a46ba800f3a3512951b83e428bc5373b9", null ],
+    [ "Register", "db/df8/a13104.html#a4a59d431c7d7607e614c4ec035e3acf7", null ]
 ];

@@ -1,10 +1,9 @@
 var a11568 =
 [
-    [ "bf_commandscript", "df/d3e/a11568.html#a806ca440ae1b51fffefee9d298dab3df", null ],
-    [ "GetCommands", "df/d3e/a11568.html#a97f0192d7ccd3532cfceaebff9f242be", null ],
-    [ "HandleBattlefieldEnable", "df/d3e/a11568.html#a08dd3bdd279c760fe0f126200a01619e", null ],
-    [ "HandleBattlefieldEnd", "df/d3e/a11568.html#af7100032ad26a66fbc9d9b37d1da98e1", null ],
-    [ "HandleBattlefieldStart", "df/d3e/a11568.html#a55102cc3b29a3ded0832ec82be1e3a5e", null ],
-    [ "HandleBattlefieldSwitch", "df/d3e/a11568.html#ac12cac377007d90b25b9797f2b2cc8de", null ],
-    [ "HandleBattlefieldTimer", "df/d3e/a11568.html#a7168b3db9435d70e2c5ca5eb41fc8ef2", null ]
+    [ "map", "df/d3e/a11568.html#a274c6d61203c24b3c680055244e1f590", null ],
+    [ "mouth", "df/d3e/a11568.html#aa785f3badb9c898d24efdf6d42fb8a7f", null ],
+    [ "mouthGuid", "df/d3e/a11568.html#a2245c14e379c83bdd47165e829de2e41", null ],
+    [ "necropolisCount", "df/d3e/a11568.html#aec44e315616920ba8224be8c4831f5e9", null ],
+    [ "remainingNecropoli", "df/d3e/a11568.html#a3c18c61fcd44c32f9e0009479db85399", null ],
+    [ "zoneId", "df/d3e/a11568.html#a98e1490705f74627cf9e5483857f3f25", null ]
 ];

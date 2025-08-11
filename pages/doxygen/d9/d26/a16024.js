@@ -1,11 +1,8 @@
 var a16024 =
 [
-    [ "boss_general_zarithrianAI", "d9/d26/a16024.html#a4168a5883052810d137f59d3b104bc24", null ],
-    [ "CheckEvadeIfOutOfCombatArea", "d9/d26/a16024.html#a22f6ff041e61c94df73a938162fa26f5", null ],
-    [ "JustDied", "d9/d26/a16024.html#a49be533142c82a95a136dc2dcbf4843c", null ],
-    [ "JustEngagedWith", "d9/d26/a16024.html#a9ec34e473b9d478277f472ab3bb7c7ef", null ],
-    [ "JustSummoned", "d9/d26/a16024.html#acb694d20b35d57a315aa4662562af210", null ],
-    [ "KilledUnit", "d9/d26/a16024.html#ad385477740b728e63acff7c184df3c09", null ],
-    [ "Reset", "d9/d26/a16024.html#a3093369d5f3c7e2a1a5828671ac0af0a", null ],
-    [ "UpdateAI", "d9/d26/a16024.html#a3a7e578d64a760cd38712c725eecc97d", null ]
+    [ "RestoreFight", "d9/d26/a16024.html#a0149cccce8c3120b1e988e9a7c96f75c", null ],
+    [ "RestoreFight", "d9/d26/a16024.html#a0149cccce8c3120b1e988e9a7c96f75c", null ],
+    [ "Execute", "d9/d26/a16024.html#a019eb3c08dc8c3b97fc27b989ec8ab77", null ],
+    [ "Execute", "d9/d26/a16024.html#a019eb3c08dc8c3b97fc27b989ec8ab77", null ],
+    [ "_owner", "d9/d26/a16024.html#ae35c9b4547fcd7e8ea0f4b6ee4c637a0", null ]
 ];

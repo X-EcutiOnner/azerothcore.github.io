@@ -1,7 +1,7 @@
 var a18352 =
 [
-    [ "HandleProc", "d6/d26/a18352.html#af06730a865009127c7d3e5423afd4d44", null ],
-    [ "PrepareAuraScript", "d6/d26/a18352.html#a71a81a19a0c543a4aa43d6bf002b7bb9", null ],
-    [ "Register", "d6/d26/a18352.html#a6c97b787ce00491a259c575d26189f8c", null ],
-    [ "Validate", "d6/d26/a18352.html#aed9c98e20d916359629e119d6dd2a94f", null ]
+    [ "CheckTargetCount", "d6/d26/a18352.html#a44f558248f944464c773105728cffbca", null ],
+    [ "PrepareSpellScript", "d6/d26/a18352.html#a2ae927358c2480aecd18c1f3c2e6c1c7", null ],
+    [ "Register", "d6/d26/a18352.html#aeda833ca8483d337311086b9d0a14081", null ],
+    [ "Validate", "d6/d26/a18352.html#aee84751e352dbfc12472fc15924c48fa", null ]
 ];

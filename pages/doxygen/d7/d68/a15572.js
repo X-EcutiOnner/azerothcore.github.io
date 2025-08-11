@@ -1,6 +1,6 @@
 var a15572 =
 [
-    [ "npc_custodian_of_timeAI", "d9/de6/a15576.html", "d9/de6/a15576" ],
-    [ "npc_custodian_of_time", "d7/d68/a15572.html#a6018b30119ce819853a3c662b3d5347e", null ],
-    [ "GetAI", "d7/d68/a15572.html#a57217b2dab1cab110f1c59526ca13c86", null ]
+    [ "npc_anachronos_quest_triggerAI", "d9/de6/a15576.html", "d9/de6/a15576" ],
+    [ "npc_anachronos_quest_trigger", "d7/d68/a15572.html#ad39871952acd3152b51820fe360f4ebd", null ],
+    [ "GetAI", "d7/d68/a15572.html#a2e0e6a69ed1cbed76db9c4bd64d51330", null ]
 ];

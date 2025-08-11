@@ -1,6 +1,9 @@
 var a17720 =
 [
-    [ "npc_vengeful_shadeAI", "d3/d39/a17724.html", "d3/d39/a17724" ],
-    [ "npc_vengeful_shade", "dc/de4/a17720.html#a99c535efd94fbd5bded8fd9555bb6eaf", null ],
-    [ "GetAI", "dc/de4/a17720.html#afa2c672015b43d83bd55050ed020f7e5", null ]
+    [ "CheckAreaTarget", "dc/de4/a17720.html#a770ca8aa441a7c5ddc3e26968d7861a4", null ],
+    [ "HandleApply", "dc/de4/a17720.html#a2aaf88ee6fee8aff23f8ee99b30e369f", null ],
+    [ "Load", "dc/de4/a17720.html#aac27c3377b48bc8c602fa7f12dec491a", null ],
+    [ "PrepareAuraScript", "dc/de4/a17720.html#a105c93dea246a84b73e13bdf3d04f8f4", null ],
+    [ "Register", "dc/de4/a17720.html#a8f476129e0678149463c4b16232f6cb6", null ],
+    [ "_teamIdInInstance", "dc/de4/a17720.html#a78b8e04586e328f89a44f41eb8c478c9", null ]
 ];

@@ -1,11 +1,7 @@
 var a14256 =
 [
-    [ "npc_the_etymidian", "d2/d5a/a14256.html#af491016ac89b67947650a5ca9c379875", null ],
-    [ "MoveInLineOfSight", "d2/d5a/a14256.html#adde2d86e30442eb1b47219e934e24407", null ],
-    [ "Reset", "d2/d5a/a14256.html#a714edf3ba5f7a6d59242c991764effc5", null ],
-    [ "UpdateAI", "d2/d5a/a14256.html#a1f3cfddae43e443c5cd4a8a0f9f87a89", null ],
-    [ "orphanGUID", "d2/d5a/a14256.html#a9ba2c34b08d0fe61e18037b02f352d08", null ],
-    [ "phase", "d2/d5a/a14256.html#a7086e9a8a8a7287cf90688270e9933a7", null ],
-    [ "playerGUID", "d2/d5a/a14256.html#a7371e361c018360315e20086b0b99079", null ],
-    [ "timer", "d2/d5a/a14256.html#a8508a2c89eeeee2d235e1178ca77e895", null ]
+    [ "FilterTargets", "d2/d5a/a14256.html#af3954bbcbce6de5d4ddadd2af0ecac91", null ],
+    [ "HandleDummy", "d2/d5a/a14256.html#ad3688071ca786bbb4c27d5632d1a1e56", null ],
+    [ "PrepareSpellScript", "d2/d5a/a14256.html#a6ac4db072beae6ae7a700774667da613", null ],
+    [ "Register", "d2/d5a/a14256.html#ae981ec2b7e097ad0fe924df7738da5b7", null ]
 ];

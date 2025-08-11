@@ -1,6 +1,8 @@
 var a12036 =
 [
-    [ "boss_pyroguard_emberseerAI", "dc/d61/a12040.html", "dc/d61/a12040" ],
-    [ "boss_pyroguard_emberseer", "d2/d7b/a12036.html#af9f55c012880404e2e6f8278763af194", null ],
-    [ "GetAI", "d2/d7b/a12036.html#a060c52f53760e60a022a7034dd785b1d", null ]
+    [ "CheckProc", "d2/d7b/a12036.html#a08e84f2b2ff25ed7e260e61251f9cdb9", null ],
+    [ "HandleProc", "d2/d7b/a12036.html#afd3d4786f739566056b69390553d9c71", null ],
+    [ "PrepareAuraScript", "d2/d7b/a12036.html#a3ba84d4fd311a91efa685980ffec8d77", null ],
+    [ "Register", "d2/d7b/a12036.html#aa36a2e10a6fd67fa74d08e20dc806744", null ],
+    [ "Validate", "d2/d7b/a12036.html#aeff8b89300bb5d3589a46a4f66cfd77d", null ]
 ];

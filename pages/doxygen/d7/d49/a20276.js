@@ -1,6 +1,7 @@
 var a20276 =
 [
-    [ "npc_ulduar_iron_constructAI", "dc/da0/a20280.html", "dc/da0/a20280" ],
-    [ "npc_ulduar_iron_construct", "d7/d49/a20276.html#a56ddf4d4d290dbb15303419c1dab18da", null ],
-    [ "GetAI", "d7/d49/a20276.html#a7d46ba96b6f1968e35721d45c17b1a49", null ]
+    [ "HandleAfterEffectApply", "d7/d49/a20276.html#adab765d78094eec673abce5140145267", null ],
+    [ "OnApply", "d7/d49/a20276.html#aab4331a7a55dc6f713db02726ec22e3a", null ],
+    [ "PrepareAuraScript", "d7/d49/a20276.html#acb827ae4299ae482d9b7f3fb09bbcc52", null ],
+    [ "Register", "d7/d49/a20276.html#ac1007ce2ee5e046639829558855f0188", null ]
 ];

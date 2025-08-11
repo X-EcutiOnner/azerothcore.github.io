@@ -1,7 +1,6 @@
 var a22932 =
 [
-    [ "npc_ashtongue_channeler", "da/da6/a22932.html#af7217d00f87e56e5cdb411fcad161b51", null ],
-    [ "Reset", "da/da6/a22932.html#ab935559c19b18f9c94dd36c85be5b3b2", null ],
-    [ "UpdateAI", "da/da6/a22932.html#af855dfa521404c4e6127a9bf12a75604", null ],
-    [ "scheduler", "da/da6/a22932.html#a4f58bbd2c44f7a3f9835fd55408ffaf4", null ]
+    [ "HandleEffectRemove", "da/da6/a22932.html#ae9baf688d8ac42c4ccbbf13f3b79e831", null ],
+    [ "PrepareAuraScript", "da/da6/a22932.html#a2e2668f0b5bf369ec859627e0bd8d980", null ],
+    [ "Register", "da/da6/a22932.html#acd7e22159d262a9888c744eecb978c09", null ]
 ];

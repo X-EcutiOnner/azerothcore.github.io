@@ -1,6 +1,12 @@
 var a21360 =
 [
-    [ "instance_violet_hold_InstanceMapScript", "d0/d86/a21364.html", "d0/d86/a21364" ],
-    [ "instance_violet_hold", "d1/d56/a21360.html#ae66f018196cd90683506c3cc3d8c5d7a", null ],
-    [ "GetInstanceScript", "d1/d56/a21360.html#aeedcbb24b0709bd172ebbbc6d9851532", null ]
+    [ "boss_lavanthorAI", "d1/d56/a21360.html#aa562ad1ee029a35adebf8eac8f8249f3", null ],
+    [ "EnterEvadeMode", "d1/d56/a21360.html#a0334d92f1ddf30235efe298df622535b", null ],
+    [ "JustDied", "d1/d56/a21360.html#a300dbedf5514998e7065a2ef44a65f1f", null ],
+    [ "JustEngagedWith", "d1/d56/a21360.html#a9820ec47af72af19f00b172ee138f908", null ],
+    [ "MoveInLineOfSight", "d1/d56/a21360.html#aa613f70d93be479aa701675dfdb2d3e3", null ],
+    [ "Reset", "d1/d56/a21360.html#a55d5cc6906033b5c56daa3ed15fabf0f", null ],
+    [ "UpdateAI", "d1/d56/a21360.html#ab77ac2c78e94fed437e8ccefba4e363c", null ],
+    [ "events", "d1/d56/a21360.html#a273adc56adefe9810013bc80950f2624", null ],
+    [ "pInstance", "d1/d56/a21360.html#ad6059577c5e131523f39316c2291b421", null ]
 ];

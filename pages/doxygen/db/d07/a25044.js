@@ -1,6 +1,8 @@
 var a25044 =
 [
-    [ "CalculateAmount", "db/d07/a25044.html#a66b009487462241e573ea23f081a140a", null ],
-    [ "PrepareAuraScript", "db/d07/a25044.html#a0eee16c77a3c3cea882b67c78826a140", null ],
-    [ "Register", "db/d07/a25044.html#afeafc6922b0a0389fec969e3c7191dda", null ]
+    [ "OnApply", "db/d07/a25044.html#a6aa83e925a93dc7ff89c0357debc75d1", null ],
+    [ "OnRemove", "db/d07/a25044.html#a3ced5941c25fce087699aa095cd487c9", null ],
+    [ "PrepareAuraScript", "db/d07/a25044.html#a497776c6ffdda8670fa255b76057bf2c", null ],
+    [ "Register", "db/d07/a25044.html#ac05f2898ebbb78bf55d70d8a660fb22d", null ],
+    [ "Validate", "db/d07/a25044.html#a44fc9ff07b9db5b2a1263d244916c79f", null ]
 ];

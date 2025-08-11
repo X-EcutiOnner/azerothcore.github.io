@@ -1,4 +1,8 @@
 var a28288 =
 [
-    [ "ID", "d1/d0d/a28288.html#a34a2bcafda3bfe22d829f1782031bb4b", null ]
+    [ "Id", "d1/d0d/a28288.html#a6943bf760d15b3f8af4109d131652d72", null ],
+    [ "MapId", "d1/d0d/a28288.html#ab0cccd760636a3b42af693d6c483bed9", null ],
+    [ "X", "d1/d0d/a28288.html#a91183890254546efeb3162173cc60dad", null ],
+    [ "Y", "d1/d0d/a28288.html#a19ab4d026b45d74f006479641afbc4d3", null ],
+    [ "Z", "d1/d0d/a28288.html#aaa23c59f20fc96aec148b82516f30036", null ]
 ];

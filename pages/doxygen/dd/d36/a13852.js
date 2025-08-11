@@ -1,14 +1,16 @@
 var a13852 =
 [
-    [ "npc_harrison_jones", "dd/d36/a13852.html#ae408c9533166f8919c121053a3efff6c", null ],
-    [ "DoAction", "dd/d36/a13852.html#a2ecf8a9f807e879530ee6a094475e67b", null ],
-    [ "JustEngagedWith", "dd/d36/a13852.html#a884e5973ed597eeeb606f5b8a2b1c028", null ],
-    [ "MovementInform", "dd/d36/a13852.html#a5ee27ccc1aea33ecc8aee5b703e05174", null ],
-    [ "OpenMassiveGateAndCallGuards", "dd/d36/a13852.html#a8f15098ad66e2d13ddfababc2ad2e33b", null ],
-    [ "Reset", "dd/d36/a13852.html#a11b1b2da283ddaa475f3f42534702f5b", null ],
-    [ "sGossipSelect", "dd/d36/a13852.html#ae56b80041fa198063a9ce87729142420", null ],
-    [ "SpellHit", "dd/d36/a13852.html#ad3ead59986b9340529bb6c6f42dbc137", null ],
-    [ "UpdateAI", "dd/d36/a13852.html#a0c64f294257e98522e0f32171aee6080", null ],
-    [ "_instance", "dd/d36/a13852.html#adb995a4b18607a5bd7555ce6989c2525", null ],
-    [ "_phase", "dd/d36/a13852.html#a1620b4f7407aa49c3e16876148c49ba7", null ]
+    [ "boss_zuljin", "dd/d36/a13852.html#a8acdf347d7f982c07614c89a101daae0", null ],
+    [ "EnterEvadeMode", "dd/d36/a13852.html#a1b3da85aa5f4abac16256aa691d035a3", null ],
+    [ "EnterPhase", "dd/d36/a13852.html#ae9970dba905b947a22c4ddf36bdcb656", null ],
+    [ "GetGUID", "dd/d36/a13852.html#a29548891ef8efaa5d6baa384e7b9000a", null ],
+    [ "JustDied", "dd/d36/a13852.html#a2e00e8311c0463a37de87668882ffeec", null ],
+    [ "JustEngagedWith", "dd/d36/a13852.html#ab6854461a5116e94c9f0ca971a3f89ef", null ],
+    [ "KilledUnit", "dd/d36/a13852.html#adf220cb760b77cfd09ed746705529064", null ],
+    [ "MovementInform", "dd/d36/a13852.html#a61501941861f8838392fc8cdbe59feff", null ],
+    [ "Reset", "dd/d36/a13852.html#a2fe7c0338eb4698cc0aae252f4b14f02", null ],
+    [ "SpawnAdds", "dd/d36/a13852.html#a83eb0799a25f19eedddd96e609134778", null ],
+    [ "SpellHitTarget", "dd/d36/a13852.html#aab3558edc5b90be23040077d88e21725", null ],
+    [ "_chargeTargetGUID", "dd/d36/a13852.html#a3b26fe2e82019ea5ce110d2d0a78f47e", null ],
+    [ "_nextPhase", "dd/d36/a13852.html#a4fc9983cb34313affa56c243a4164a4a", null ]
 ];

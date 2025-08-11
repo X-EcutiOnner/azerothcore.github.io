@@ -1,7 +1,6 @@
 var a22056 =
 [
-    [ "GetSeatNumber", "d8/d7b/a22056.html#a8e18a10196667fd3dfba58d16fa281b9", null ],
-    [ "HandleDummy", "d8/d7b/a22056.html#ac5945381452559e1d5655f5345bdeff3", null ],
-    [ "PrepareSpellScript", "d8/d7b/a22056.html#aad375c0d3d1f0352cbda6a23cfb61272", null ],
-    [ "Register", "d8/d7b/a22056.html#aad1cb82fdcd170f5a43f5007ebaadf2e", null ]
+    [ "npc_llod_genericAI", "dc/d59/a22060.html", "dc/d59/a22060" ],
+    [ "npc_llod_generic", "d8/d7b/a22056.html#a97a3957c4881808facf7910e4ae4ffd4", null ],
+    [ "GetAI", "d8/d7b/a22056.html#aeb2e7d9de871686e436d1e55f47085a2", null ]
 ];

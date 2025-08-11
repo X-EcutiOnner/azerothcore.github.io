@@ -1,4 +1,4 @@
 var a01718 =
 [
-    [ "ItemScript", "d9/d14/a10334.html", "d9/d14/a10334" ]
+    [ "KillRewarder", "da/d90/a08496.html", "da/d90/a08496" ]
 ];

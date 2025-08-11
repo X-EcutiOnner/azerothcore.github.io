@@ -1,7 +1,8 @@
 var a16352 =
 [
-    [ "npc_toc_druidAI", "d5/d2e/a16352.html#adb456f1f93be5329174a3199c9092825", null ],
-    [ "myCanCast", "d5/d2e/a16352.html#af82baa22ae49ba268f494cb07287845e", null ],
-    [ "UpdateAI", "d5/d2e/a16352.html#a82a22a557db647f73690d8838a635eaf", null ],
-    [ "events", "d5/d2e/a16352.html#a6bb27baf17f0286db3222287a8073bd7", null ]
+    [ "npc_frost_sphereAI", "d5/d2e/a16352.html#ae697a98d23d94315768dc866852b6e07", null ],
+    [ "DamageTaken", "d5/d2e/a16352.html#a3960f19b456f29a33016d799809a82a8", null ],
+    [ "SpellHit", "d5/d2e/a16352.html#af842d47f1e8462fb6368e9dc7a070b84", null ],
+    [ "UpdateAI", "d5/d2e/a16352.html#a4e866332045135c867f2b9ee871db0c2", null ],
+    [ "permafrostTimer", "d5/d2e/a16352.html#adf7b1b447d0d05a498dd8603dbfab1ab", null ]
 ];

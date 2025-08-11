@@ -1,6 +1,7 @@
 var a14532 =
 [
-    [ "HandleScriptEffect", "d2/dda/a14532.html#a3d22cc828a2aa59d45e5d648161926fd", null ],
-    [ "PrepareSpellScript", "d2/dda/a14532.html#a0ecf5662d9cc1296ebdac82233f1fe7c", null ],
-    [ "Register", "d2/dda/a14532.html#aee5d9189b6df318b57e919511a185a99", null ]
+    [ "GetVisualThrow", "d2/dda/a14532.html#afe59e0c21eaa06e2b1d614613b1d2f73", null ],
+    [ "HandleDummy", "d2/dda/a14532.html#adca1aacf89dcf452f1c98cae97f09690", null ],
+    [ "PrepareSpellScript", "d2/dda/a14532.html#a642f2d3992e7e3a4393d2b0c6b521597", null ],
+    [ "Register", "d2/dda/a14532.html#a68a6e9b307500a56e66bc19c41daf9dc", null ]
 ];

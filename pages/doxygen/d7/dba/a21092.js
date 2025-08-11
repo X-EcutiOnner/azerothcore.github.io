@@ -1,6 +1,7 @@
 var a21092 =
 [
-    [ "npc_massive_jormungarAI", "d1/db7/a21096.html", "d1/db7/a21096" ],
-    [ "npc_massive_jormungar", "d7/dba/a21092.html#ad17b632fcfe78019dcb9e6b58fa1ac01", null ],
-    [ "GetAI", "d7/dba/a21092.html#a68e3557e967ef633ba59fa81e661b80c", null ]
+    [ "HandleEffectPeriodic", "d7/dba/a21092.html#a5741a78ba0cc8c723e80b1847b3eb1bc", null ],
+    [ "PrepareAuraScript", "d7/dba/a21092.html#a748cd347867557b5048d9ba0c112cd80", null ],
+    [ "Register", "d7/dba/a21092.html#a3c24d37ab4a6e16a577983c3f6bc2722", null ],
+    [ "Validate", "d7/dba/a21092.html#afa86789ef14b1d06094705ba6cfb9205", null ]
 ];

@@ -1,6 +1,15 @@
 var a13832 =
 [
-    [ "instance_zulaman_InstanceMapScript", "db/d55/a13836.html", "db/d55/a13836" ],
-    [ "instance_zulaman", "df/d98/a13832.html#a5a81dddc07dea599e2a197737206427b", null ],
-    [ "GetInstanceScript", "df/d98/a13832.html#a2144a517b22c5d6e7f6cc31d344669fc", null ]
+    [ "npc_janalai_hatcher", "df/d98/a13832.html#a337e21f5a014d0f9d7a1f614b7245f36", null ],
+    [ "AttackStart", "df/d98/a13832.html#a5a7826964349ed9adbbdeb7c733dd915", null ],
+    [ "JustEngagedWith", "df/d98/a13832.html#a54c251278dcfa22052b6c6e49a4abd89", null ],
+    [ "MoveInLineOfSight", "df/d98/a13832.html#a4ae2157e37bb93b7465e029e526a6ce4", null ],
+    [ "MovementInform", "df/d98/a13832.html#a3a0170bc53f9f8f96090e34097b90c2c", null ],
+    [ "MoveToNewWaypoint", "df/d98/a13832.html#ab775a888ae1002eed3ed548ab89ca2e4", null ],
+    [ "Reset", "df/d98/a13832.html#ab1c3945160c55b2b2d63763eacced473", null ],
+    [ "UpdateAI", "df/d98/a13832.html#ab5cc0c5f73593128b6d6e023aa4ce609", null ],
+    [ "_isHatching", "df/d98/a13832.html#aae712db69c870d00d07a37b8611ecaf4", null ],
+    [ "_repeatCount", "df/d98/a13832.html#acaf411fe3f6ea66d1ed2cd2da2ccaf12", null ],
+    [ "_side", "df/d98/a13832.html#a177ddd5ff96902363ab708f0c737fc20", null ],
+    [ "_waypoint", "df/d98/a13832.html#ab39ab27d8057b52b77637faefd48e8e6", null ]
 ];

@@ -1,6 +1,6 @@
 var a27148 =
 [
-    [ "go_witherbark_totem_bundleAI", "d9/d14/a27152.html", "d9/d14/a27152" ],
-    [ "go_witherbark_totem_bundle", "d6/d09/a27148.html#affcdff7ec6894add0acec842028efd2e", null ],
-    [ "GetAI", "d6/d09/a27148.html#a5ac2b3b572d67fdcc587f242f3d50f97", null ]
+    [ "boss_emerissAI", "d9/d14/a27152.html", "d9/d14/a27152" ],
+    [ "boss_emeriss", "d6/d09/a27148.html#a2d373e5add3f007cf214ad9763039aa2", null ],
+    [ "GetAI", "d6/d09/a27148.html#a88a0696a12f12e612cce53c14f6b1f92", null ]
 ];

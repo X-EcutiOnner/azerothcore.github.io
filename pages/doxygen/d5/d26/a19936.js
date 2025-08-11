@@ -1,8 +1,6 @@
 var a19936 =
 [
-    [ "FilterTargets", "d5/d26/a19936.html#a93b41db0e89710c6e0e3c764d51d37ad", null ],
-    [ "HandleScript", "d5/d26/a19936.html#a0c7d9007a9401b96a3c1f8614dc1a2db", null ],
-    [ "PrepareSpellScript", "d5/d26/a19936.html#aea46762f43b31923617f740e0545fe98", null ],
-    [ "Register", "d5/d26/a19936.html#a6ccde780ea9fba273b96d6fd9558a2d1", null ],
-    [ "Validate", "d5/d26/a19936.html#af526a7a7a82ec7621f8842e884d7b14f", null ]
+    [ "npc_brann_radioAI", "df/d78/a19940.html", "df/d78/a19940" ],
+    [ "npc_brann_radio", "d5/d26/a19936.html#a22b5231f643c287d8e32d88a3b0728b2", null ],
+    [ "GetAI", "d5/d26/a19936.html#aa2ea91337262fb886e7535ba013f4b10", null ]
 ];

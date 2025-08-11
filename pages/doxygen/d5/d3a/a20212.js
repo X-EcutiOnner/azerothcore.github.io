@@ -1,7 +1,6 @@
 var a20212 =
 [
-    [ "HandleEffectPeriodic", "d5/d3a/a20212.html#a428d1251465cc9947e7474eab83494e3", null ],
-    [ "PrepareAuraScript", "d5/d3a/a20212.html#aa6bfb37f305531f67fa5fad67c83acb9", null ],
-    [ "Register", "d5/d3a/a20212.html#a3ccee6d2c8ac244f5370d11b6a4492b6", null ],
-    [ "Validate", "d5/d3a/a20212.html#a7d4ede9af946be71bbc5531164ed3f17", null ]
+    [ "npc_ulduar_toasty_fireAI", "d5/d3a/a20212.html#a145001c6f1c1d505f810ae545ec62c69", null ],
+    [ "DoAction", "d5/d3a/a20212.html#a8ab71582cc5d8386f788fb95203fbab5", null ],
+    [ "SpellHit", "d5/d3a/a20212.html#a0e4475382dfd754dc119d2e8dba61b7e", null ]
 ];

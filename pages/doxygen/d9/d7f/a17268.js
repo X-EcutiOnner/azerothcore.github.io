@@ -1,6 +1,6 @@
 var a17268 =
 [
-    [ "npc_ball_of_flameAI", "df/d52/a17272.html", "df/d52/a17272" ],
-    [ "npc_ball_of_flame", "d9/d7f/a17268.html#a353bf8385dea6c2e4a489bd14c87e0fe", null ],
-    [ "GetAI", "d9/d7f/a17268.html#ac0309668f9f0ca85a644d4928966e577", null ]
+    [ "boss_prince_kelesethAI", "df/d52/a17272.html", "df/d52/a17272" ],
+    [ "boss_prince_keleseth_icc", "d9/d7f/a17268.html#a0df14bbfc96b1d6eff19633716cea9f9", null ],
+    [ "GetAI", "d9/d7f/a17268.html#ae5a03bbe1d85b9bc865026f05a99545e", null ]
 ];

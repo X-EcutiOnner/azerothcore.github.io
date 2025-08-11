@@ -1,6 +1,8 @@
 var a16292 =
 [
-    [ "boss_anubarak_trialAI", "d8/df4/a16296.html", "d8/df4/a16296" ],
-    [ "boss_anubarak_trial", "d5/d30/a16292.html#a5204e33a412608b53cc155a043356d58", null ],
-    [ "GetAI", "d5/d30/a16292.html#a9b8fe9ed3370434612cbd46e7649213d", null ]
+    [ "npc_toc5_player_vehicleAI", "d5/d30/a16292.html#afa00a6254b482aae5397be04860ac8ba", null ],
+    [ "BeforeSpellClick", "d5/d30/a16292.html#aac7db7f40b47a9c098c98bacb7569faf", null ],
+    [ "OnCharmed", "d5/d30/a16292.html#ace805882a25a9d075d811714e607fa2b", null ],
+    [ "PassengerBoarded", "d5/d30/a16292.html#aca35804df751185193ff5865255d3687", null ],
+    [ "Reset", "d5/d30/a16292.html#a5439b98d544124836d2cf9762f764cea", null ]
 ];

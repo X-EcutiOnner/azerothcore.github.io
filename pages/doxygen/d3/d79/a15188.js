@@ -1,6 +1,6 @@
 var a15188 =
 [
-    [ "aqsentinelAI", "df/d23/a15192.html", "df/d23/a15192" ],
-    [ "npc_anubisath_sentinel", "d3/d79/a15188.html#ada1ab0d1857fe52020e798d9710a66cb", null ],
-    [ "GetAI", "d3/d79/a15188.html#ae19b8ba3766ede8f715dad5ff8d4b2d2", null ]
+    [ "boss_veknilash", "d3/d79/a15188.html#a73a4095c3dd0ffbd9d7ef5a8a837f13f", null ],
+    [ "IAmVeklor", "d3/d79/a15188.html#a454027d829b962ee0feebb6fd5687714", null ],
+    [ "JustEngagedWith", "d3/d79/a15188.html#ace8de3d9a397d0571da1f5bdd2ba84d5", null ]
 ];

@@ -1,6 +1,6 @@
 var a17876 =
 [
-    [ "HandleScript", "df/d0c/a17876.html#a54ecb69bf0c54c170b12c9a4b88b55fb", null ],
-    [ "PrepareSpellScript", "df/d0c/a17876.html#a50560d754709e6b9ec6863142c1ffce3", null ],
-    [ "Register", "df/d0c/a17876.html#ab29deadceb953d6fb5d997b21ee4bb1c", null ]
+    [ "PrepareSpellScript", "df/d0c/a17876.html#a16eadb50b6038f16ea28464d00df3381", null ],
+    [ "Register", "df/d0c/a17876.html#ac6e304d391011863b8eff8105fab5191", null ],
+    [ "SelectDest", "df/d0c/a17876.html#a8ff5d684c0b91d0f068d03698c1ee92c", null ]
 ];

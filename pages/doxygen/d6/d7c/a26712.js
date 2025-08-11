@@ -1,6 +1,7 @@
 var a26712 =
 [
-    [ "HandleSchoolDMG", "d6/d7c/a26712.html#a8f3ff0a48d5de4dcd33831400de0ba28", null ],
-    [ "PrepareSpellScript", "d6/d7c/a26712.html#a42bb397aa53fb43ba1b1799a7f162d9b", null ],
-    [ "Register", "d6/d7c/a26712.html#ac1271959fe8de3c11403b1e76acdbf15", null ]
+    [ "HandleProc", "d6/d7c/a26712.html#a46726e3e05e386892ea86d74d161e8d0", null ],
+    [ "PrepareAuraScript", "d6/d7c/a26712.html#acda7b1b6e91a433b72c2a5dd0e165685", null ],
+    [ "Register", "d6/d7c/a26712.html#a33cd336a6ca68e66e6046cfdac776fee", null ],
+    [ "Validate", "d6/d7c/a26712.html#a5f2c7d754a37e6ae02d4aaec758841e5", null ]
 ];

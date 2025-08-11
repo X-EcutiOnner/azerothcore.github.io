@@ -1,13 +1,8 @@
 var a28496 =
 [
-    [ "liquid_data", "df/db6/a28504.html", "df/db6/a28504" ],
-    [ "prepareLoadedData", "dd/d2c/a28496.html#a999cde9ad5c0e4ee49e620c2ff52cb06", null ],
-    [ "data", "dd/d2c/a28496.html#aa3f6e6de7453b4a1acc7dfe4c83eac69", null ],
-    [ "fcc", "dd/d2c/a28496.html#ab0181729f82eb0f02da5cb95ec48cda1", null ],
-    [ "fcc_txt", "dd/d2c/a28496.html#a9a2576f7b8923089b3b6020d4f8d97fc", null ],
-    [ "flags", "dd/d2c/a28496.html#ac21d785a3a457baa84cbfd33ebb69bd4", null ],
-    [ "height1", "dd/d2c/a28496.html#a7b4a59ac372261c74236b2b4cfc3626a", null ],
-    [ "height2", "dd/d2c/a28496.html#ab03dc912a304c0585d2725596adb4b49", null ],
-    [ "liquid", "dd/d2c/a28496.html#aae29940e6fdf046f9a29cf519ef61936", null ],
-    [ "size", "dd/d2c/a28496.html#a11581f9fb52a4ca433765e6312168288", null ]
+    [ "MapDifficulty", "dd/d2c/a28496.html#abf514d1105541d5c5aaf52a91330a1e2", null ],
+    [ "MapDifficulty", "dd/d2c/a28496.html#a227aec55b5b774076882ea34f70d5d88", null ],
+    [ "hasErrorMessage", "dd/d2c/a28496.html#a8dd5436eaec4d0e67f8b41c8dd071148", null ],
+    [ "maxPlayers", "dd/d2c/a28496.html#af82ad844bc4ac9585cb9df1963697e1b", null ],
+    [ "resetTime", "dd/d2c/a28496.html#a7190131620b9eee0897ac7b4dd62949e", null ]
 ];

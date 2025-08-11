@@ -1,6 +1,6 @@
 var a24432 =
 [
-    [ "FilterTargets", "dc/d57/a24432.html#a991a944f31680e4d53cc2a46d8c8b8bf", null ],
-    [ "PrepareSpellScript", "dc/d57/a24432.html#aea49df3f6b93223ed72c3a9875232b74", null ],
-    [ "Register", "dc/d57/a24432.html#a8f0e0b6363303def780d35415c88b4d6", null ]
+    [ "DeathEvent", "dc/d57/a24432.html#a2fb9a98c077d715c4648aede6597276e", null ],
+    [ "Execute", "dc/d57/a24432.html#a497ac46ab1acf95816020fc6be8ce03a", null ],
+    [ "_owner", "dc/d57/a24432.html#a099d0d5ae50126f00220b3ed90907617", null ]
 ];

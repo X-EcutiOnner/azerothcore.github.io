@@ -1,6 +1,9 @@
 var a28756 =
 [
-    [ "FilterTargets", "df/df5/a28756.html#a4a9762943ca9b0497bbe5d686cec185f", null ],
-    [ "PrepareSpellScript", "df/df5/a28756.html#ad547ab3bfd0def222bd15d38fa3e3584", null ],
-    [ "Register", "df/df5/a28756.html#ad8dea8bd199cde31ce9a44c08b4db950", null ]
+    [ "MapTiles", "df/df5/a28756.html#abc58d7154eab45ae26df27e2e82dac63", null ],
+    [ "MapTiles", "df/df5/a28756.html#a406efc53593b5bceb0a491c0b7553350", null ],
+    [ "~MapTiles", "df/df5/a28756.html#aec1baac21c06380ba71ff5e610152519", null ],
+    [ "operator==", "df/df5/a28756.html#a3e7a87f421e8eb23926afe1d0978c3b4", null ],
+    [ "m_mapId", "df/df5/a28756.html#a2fc10edf226a6f4548c2175e1013c1b9", null ],
+    [ "m_tiles", "df/df5/a28756.html#ab80305bb73234e35a528701d775954b5", null ]
 ];

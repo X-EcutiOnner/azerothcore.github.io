@@ -1,6 +1,7 @@
 var a17996 =
 [
-    [ "boss_sindragosaAI", "d4/d9a/a18000.html", "d4/d9a/a18000" ],
-    [ "boss_sindragosa", "d7/d91/a17996.html#af5cdf4798b8b87467fa45dbda7fcbee1", null ],
-    [ "GetAI", "d7/d91/a17996.html#a005a6da9f4f9690416a108872b3c2b36", null ]
+    [ "HandleScript", "d7/d91/a17996.html#aa579f99f704f4db50b38b5f9b87259d7", null ],
+    [ "PrepareSpellScript", "d7/d91/a17996.html#a92a6f2b0d5a0845e35c07d0b5cefe053", null ],
+    [ "Register", "d7/d91/a17996.html#a2278ecef3dc60082ccb8964a34e55587", null ],
+    [ "Validate", "d7/d91/a17996.html#aeee94330ee7ea9b4fd7447e642404119", null ]
 ];

@@ -1,12 +1,18 @@
 var a11768 =
 [
-    [ "boss_balinda", "d7/de7/a11768.html#a2f3ce696dbc66843cddc13196800866b", null ],
-    [ "DamageTaken", "d7/de7/a11768.html#a826ad90ac15b3421e16fc3faa96784e7", null ],
-    [ "JustDied", "d7/de7/a11768.html#aeb10053198b9b4c43e963d23957ba9ba", null ],
-    [ "JustEngagedWith", "d7/de7/a11768.html#aa0b78302a92bf39ffee51ce3a71fb534", null ],
-    [ "JustSummoned", "d7/de7/a11768.html#a3c2306326d2f85fbb6766352117a1f91", null ],
-    [ "Reset", "d7/de7/a11768.html#a1ecfa5d743682997076a47cce44b19f5", null ],
-    [ "UpdateAI", "d7/de7/a11768.html#af3506dd75baef12fd0328aed21636978", null ],
-    [ "_hasCastIceBlock", "d7/de7/a11768.html#a05c24746060d7c9a3712d9f269b4af8e", null ],
-    [ "summons", "d7/de7/a11768.html#a83df5856391f0ba62dcb0538b7f44e2d", null ]
+    [ "server_commandscript", "d7/de7/a11768.html#a61d8b3a9f967996b533e62e94fe4c8ca", null ],
+    [ "GetCommands", "d7/de7/a11768.html#a850c21f1ece40c576d3bf622f1c3e18f", null ],
+    [ "HandleServerCorpsesCommand", "d7/de7/a11768.html#a01ae63f31c7f03f6c0006fe4583a14a3", null ],
+    [ "HandleServerDebugCommand", "d7/de7/a11768.html#ac78145cb5c0888449756e4dbb36c005f", null ],
+    [ "HandleServerExitCommand", "d7/de7/a11768.html#ab894b36baa95de647fb329fce6eed8fb", null ],
+    [ "HandleServerIdleRestartCommand", "d7/de7/a11768.html#ae18a92337d6cf8e62eafdf5f39d7b5a8", null ],
+    [ "HandleServerIdleShutDownCommand", "d7/de7/a11768.html#aa431504b2755304c4263121a7a437ce4", null ],
+    [ "HandleServerInfoCommand", "d7/de7/a11768.html#a6c63114c474f69621b013dbb57b47bf2", null ],
+    [ "HandleServerMotdCommand", "d7/de7/a11768.html#aa10d866fcb8567fbc625d2a297a116a6", null ],
+    [ "HandleServerRestartCommand", "d7/de7/a11768.html#a3ec7dd1f81f3b4b8adcb5f04f4d20f3f", null ],
+    [ "HandleServerSetClosedCommand", "d7/de7/a11768.html#a2ba489469cdb3c8da944f7d6547ae462", null ],
+    [ "HandleServerSetLogLevelCommand", "d7/de7/a11768.html#a1ce5627c1d948b5a5c86db54357de02a", null ],
+    [ "HandleServerSetMotdCommand", "d7/de7/a11768.html#a8cf2076d5e5fa3b35fddba117cd990bb", null ],
+    [ "HandleServerShutDownCancelCommand", "d7/de7/a11768.html#ae64357518538c1ce4d03a8d9968b4035", null ],
+    [ "HandleServerShutDownCommand", "d7/de7/a11768.html#a514149a8d1dfc4513e0c71b69901767d", null ]
 ];

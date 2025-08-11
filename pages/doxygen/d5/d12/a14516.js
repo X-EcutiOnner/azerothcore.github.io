@@ -1,5 +1,8 @@
 var a14516 =
 [
-    [ "achievement_pb_terokkar_turkey_time", "d5/d12/a14516.html#a68e536379b04e060f44819c9831766c2", null ],
-    [ "OnCheck", "d5/d12/a14516.html#a8e6b82b95974ec27fd578481a1a23ae0", null ]
+    [ "CheckCast", "d5/d12/a14516.html#a1e63e7798ab5e55415eb0277f3160fa3", null ],
+    [ "HandleDummy", "d5/d12/a14516.html#ad39da0510c21855dd74abd93f33621c9", null ],
+    [ "PrepareSpellScript", "d5/d12/a14516.html#a727093fec8cc8422cbbaa79d821338c8", null ],
+    [ "Register", "d5/d12/a14516.html#a8cc68fadf4ae20a9de24c75d2f61301f", null ],
+    [ "Validate", "d5/d12/a14516.html#aacd60538c8410fc313a09b1044ad6c7a", null ]
 ];

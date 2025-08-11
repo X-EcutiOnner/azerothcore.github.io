@@ -1,12 +1,14 @@
 var a14984 =
 [
-    [ "npc_anubisath_guardian", "dc/da3/a14984.html#a7db1771f9083e14c177e37d7bf6690c5", null ],
-    [ "DamageTaken", "dc/da3/a14984.html#a2b7f307b5af7c50c86a68c4834f08ed4", null ],
-    [ "JustDied", "dc/da3/a14984.html#a9f40c43ded16ad5934a5d5499f16ca76", null ],
-    [ "JustEngagedWith", "dc/da3/a14984.html#a16d1e70f0ca0fcef972ac45f82e885e6", null ],
-    [ "Reset", "dc/da3/a14984.html#af87cc86141964c48f9c57ed5bade36a5", null ],
-    [ "UpdateAI", "dc/da3/a14984.html#a9a9c805c92a3e8e96914d01accb01051", null ],
-    [ "_enraged", "dc/da3/a14984.html#a69b3b2cee4c84cd6dccd3465b555ad12", null ],
-    [ "_scheduler", "dc/da3/a14984.html#ad44455c43d53426a152547d5b0770bbe", null ],
-    [ "_spells", "dc/da3/a14984.html#aee75f952ed14f5f6fab1f5117f6b8b9e", null ]
+    [ "boss_buru", "dc/da3/a14984.html#a586dfec9d3b0cb9497e616afb1c0b86d", null ],
+    [ "ChaseNewVictim", "dc/da3/a14984.html#a177ec0ac9dcfbd9de51088bf50c5785c", null ],
+    [ "DamageTaken", "dc/da3/a14984.html#a5ec0141994aac2b8e1fdce12b30c13b0", null ],
+    [ "EnterEvadeMode", "dc/da3/a14984.html#aa534cca1e46299e8db917cc8aa5d5b51", null ],
+    [ "JustDied", "dc/da3/a14984.html#a6d8f3265dca889bc49e747471da8597f", null ],
+    [ "JustEngagedWith", "dc/da3/a14984.html#a61eeeb3eb1684943e94367a9318b3035", null ],
+    [ "KilledUnit", "dc/da3/a14984.html#a7c780a29ea9f7b3d2f72eaa11bf7e19c", null ],
+    [ "ManipulateEggs", "dc/da3/a14984.html#a4f8a92eab729c975443579560edb03a3", null ],
+    [ "SpellHit", "dc/da3/a14984.html#ac3bc641c6bb67e585541c4e5d93dd7fa", null ],
+    [ "UpdateAI", "dc/da3/a14984.html#af65d0026b2ea78edb6d48e3c48b6b37b", null ],
+    [ "_phase", "dc/da3/a14984.html#aa395967af50f2a422bf1e81a087efc43", null ]
 ];

@@ -1,6 +1,10 @@
 var a14120 =
 [
-    [ "npc_brewfest_keg_reciver", "d2/d7a/a14120.html#af12e7608f3f715650e6c265ac18920e4", null ],
-    [ "MoveInLineOfSight", "d2/d7a/a14120.html#ae719a770598c6347d4ee6b9e77d30eae", null ],
-    [ "sGossipSelect", "d2/d7a/a14120.html#ad56ba9921e94cbd4ba1d6c1ddd1efe24", null ]
+    [ "npc_zealot_lorkhan", "d2/d7a/a14120.html#a7df2ab658c1fda0d130815581ffbae4e", null ],
+    [ "JustDied", "d2/d7a/a14120.html#abda06af9ccc78763e70ebf98f0a9dc03", null ],
+    [ "JustEngagedWith", "d2/d7a/a14120.html#a7cb7da94799fa1689a5f16ef33d4d874", null ],
+    [ "Reset", "d2/d7a/a14120.html#abecbd4a2ea2cf3281244933fe7484239", null ],
+    [ "UpdateAI", "d2/d7a/a14120.html#a68c35734f8886b2c241dcbc178899206", null ],
+    [ "_scheduler", "d2/d7a/a14120.html#a50ded84f7cdb698118b406c9cfab7e5c", null ],
+    [ "instance", "d2/d7a/a14120.html#aa677f42d562fa6dc90a4913eed3763c8", null ]
 ];

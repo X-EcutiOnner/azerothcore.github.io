@@ -1,8 +1,7 @@
 var a07920 =
 [
-    [ "LfgPlayerRewardData", "dc/d2e/a07920.html#afe99288f8d7028a5a54317e73e3f2c01", null ],
-    [ "done", "dc/d2e/a07920.html#a91ba12acf66d631af2de45513f20b702", null ],
-    [ "quest", "dc/d2e/a07920.html#abd051091fec6835f63bafa98a045142b", null ],
-    [ "rdungeonEntry", "dc/d2e/a07920.html#a87623ce14ef1d123d226e37e227a566d", null ],
-    [ "sdungeonEntry", "dc/d2e/a07920.html#abe9c93ab7f3a421dd3c44414a0987277", null ]
+    [ "LfgJoinResultData", "dc/d2e/a07920.html#a1d711d49a6b49f55eb3771352b294b95", null ],
+    [ "lockmap", "dc/d2e/a07920.html#aff918b3c02ca76982a964402175f8ad7", null ],
+    [ "result", "dc/d2e/a07920.html#aa713cbc1930962d520883523f6f6446c", null ],
+    [ "state", "dc/d2e/a07920.html#a2eee5e81651a7a9be245e4b717ab53ed", null ]
 ];

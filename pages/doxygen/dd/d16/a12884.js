@@ -1,7 +1,7 @@
 var a12884 =
 [
-    [ "npc_unworthy_initiate_anchorAI", "dd/d16/a12884.html#a2d1a90c4f3c5047a41c7e9f80db13a99", null ],
-    [ "GetGUID", "dd/d16/a12884.html#a83cca82e7d75231a6aa586f67dad766e", null ],
-    [ "SetGUID", "dd/d16/a12884.html#a3d2ccbeeddc28002a4eb2392a62ba031", null ],
-    [ "prisonerGUID", "dd/d16/a12884.html#a38a3e7e7207bb6d809d03c90e67f7742", null ]
+    [ "HandleScriptEffect", "dd/d16/a12884.html#a2ac898d186e755fbf3b3ae8812e8e579", null ],
+    [ "PrepareSpellScript", "dd/d16/a12884.html#ac3ee8d5d585eea8cbcd5e61c34c71fa5", null ],
+    [ "Register", "dd/d16/a12884.html#a99b753e49d18109e8c9c3ac7e616ce2c", null ],
+    [ "Validate", "dd/d16/a12884.html#a20f7416465ba1cc04426f24037e8074e", null ]
 ];

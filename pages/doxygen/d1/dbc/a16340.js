@@ -1,7 +1,6 @@
 var a16340 =
 [
-    [ "HandleAfterHit", "d1/dbc/a16340.html#a6fc446385881ddb4c94de73199649816", null ],
-    [ "PrepareSpellScript", "d1/dbc/a16340.html#acaed5d5902194f8ba9d2b286cd47d8d0", null ],
-    [ "Register", "d1/dbc/a16340.html#aaae368b2f647aa6a56827550e50dafe1", null ],
-    [ "Validate", "d1/dbc/a16340.html#ad4c84071b538b657fa1302982f8799b4", null ]
+    [ "npc_swarm_scarabAI", "d5/d52/a16344.html", "d5/d52/a16344" ],
+    [ "npc_swarm_scarab", "d1/dbc/a16340.html#a1d0969526e57ca50c9a499c83f978fd2", null ],
+    [ "GetAI", "d1/dbc/a16340.html#ae12fe8a7c6ee09fc16bd152f59c2d936", null ]
 ];

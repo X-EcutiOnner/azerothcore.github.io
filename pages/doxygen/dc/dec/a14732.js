@@ -1,7 +1,12 @@
 var a14732 =
 [
-    [ "npc_cos_chromie_middle", "dc/dec/a14732.html#a1bb7229781c122d362e781d2737d0fd3", null ],
-    [ "OnGossipHello", "dc/dec/a14732.html#a105b62bd24fe3912c0f66c234a6dc670", null ],
-    [ "OnGossipSelect", "dc/dec/a14732.html#a37ebdd257ef22554c81cf3c062856141", null ],
-    [ "OnQuestAccept", "dc/dec/a14732.html#a6af52ce23a90e7d8418e2c414c9c0fd4", null ]
+    [ "boss_mal_ganisAI", "dc/dec/a14732.html#aa8b70930372cd0729686f7c6032d3152", null ],
+    [ "DamageTaken", "dc/dec/a14732.html#a4873386266ce3b4b849377028ff746a5", null ],
+    [ "JustDied", "dc/dec/a14732.html#a83690f4a55cfa22a979ad6897b661fcc", null ],
+    [ "JustEngagedWith", "dc/dec/a14732.html#ad04c571e9e485a95d194946c1b3b7ffa", null ],
+    [ "KilledUnit", "dc/dec/a14732.html#a0ec8c95f3e6ea8c243cc28d0c893c7eb", null ],
+    [ "Reset", "dc/dec/a14732.html#abb9d38b3c26af6245bb98e131be07d4d", null ],
+    [ "UpdateAI", "dc/dec/a14732.html#a9466254da12c3aa3c1a69e812ff1a068", null ],
+    [ "events", "dc/dec/a14732.html#a194c002efe244b8c94a072faf72be771", null ],
+    [ "finished", "dc/dec/a14732.html#ac4c90c814aa55781f863c958253e9df2", null ]
 ];

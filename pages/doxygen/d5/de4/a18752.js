@@ -1,6 +1,7 @@
 var a18752 =
 [
-    [ "npc_icc_skybreaker_vicarAI", "d5/d41/a18756.html", "d5/d41/a18756" ],
-    [ "npc_icc_skybreaker_vicar", "d5/de4/a18752.html#a40451cc6fba0cae59e47fa38e4fb79d3", null ],
-    [ "GetAI", "d5/de4/a18752.html#a6884bb7e54b78abee0cc995c4fbb501d", null ]
+    [ "OnPeriodic", "d5/de4/a18752.html#a32c4b856d6248062fbdc1dea13d876ac", null ],
+    [ "PrepareAuraScript", "d5/de4/a18752.html#a87260a1cd06190f5412f3cab0f448a01", null ],
+    [ "Register", "d5/de4/a18752.html#a00827210671b959a030655f6be5edac6", null ],
+    [ "Validate", "d5/de4/a18752.html#a7163fb09fd8568a7ef5a5c37147ed5b0", null ]
 ];

@@ -1,7 +1,8 @@
 var a22060 =
 [
-    [ "HandleDummy", "dc/d59/a22060.html#abfb58e49821e6a563940e8ba518db850", null ],
-    [ "PrepareSpellScript", "dc/d59/a22060.html#a61ca2f71b0fa323a54f716415b25b75e", null ],
-    [ "Register", "dc/d59/a22060.html#a7a2cc833ae8d079b821caabf55b6f0e5", null ],
-    [ "Validate", "dc/d59/a22060.html#a21daeadffbfd28621d897dfe67dd11a8", null ]
+    [ "npc_llod_genericAI", "dc/d59/a22060.html#ac75d85ae4b59416952788102cd1db132", null ],
+    [ "Reset", "dc/d59/a22060.html#a15bd7442fef36a551cc8797f7919f57c", null ],
+    [ "UpdateAI", "dc/d59/a22060.html#aa7dce553fb699127f63281b2c47a2f02", null ],
+    [ "attackTimer", "dc/d59/a22060.html#a28a6e700d24995e477e7e7c4cc8b5d68", null ],
+    [ "summonTimer", "dc/d59/a22060.html#aeeeef545aee565c14d86d8587923c677", null ]
 ];

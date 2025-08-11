@@ -1,10 +1,11 @@
 var a15336 =
 [
-    [ "npc_murkdeepAI", "d8/d1f/a15336.html#abe78235ecb94e4735a6f8eaad7fe6adc", null ],
-    [ "JustEngagedWith", "d8/d1f/a15336.html#ad33de7cb0caffcd255db38204ecfbb1c", null ],
-    [ "Reset", "d8/d1f/a15336.html#aa89316a0fe4f99630a4a129aed305e24", null ],
-    [ "UpdateAI", "d8/d1f/a15336.html#aeca85a1324791d18ac825401fb8a31e8", null ],
-    [ "events", "d8/d1f/a15336.html#ae3d344829aeba22ef0c5947863720390", null ],
-    [ "phase", "d8/d1f/a15336.html#a74a3a16cb3f2993aea9c5d6736a6914e", null ],
-    [ "spawnTimer", "d8/d1f/a15336.html#a6b139fb5cc0776103934f14be15c34d1", null ]
+    [ "npc_magwinAI", "d8/d1f/a15336.html#ad4a352dd0c7c6f76e74f110b00ec9053", null ],
+    [ "JustEngagedWith", "d8/d1f/a15336.html#aea2ab8bf79d6fcc3d2036d160274fab8", null ],
+    [ "Reset", "d8/d1f/a15336.html#a883ef3cd1b097847de148ccb9bd3e903", null ],
+    [ "sQuestAccept", "d8/d1f/a15336.html#aafef28bc7879e29d1fa79ec08f58da55", null ],
+    [ "UpdateEscortAI", "d8/d1f/a15336.html#a34236331be8842a9e2a98036ea382e18", null ],
+    [ "WaypointReached", "d8/d1f/a15336.html#a7278a3cff406af2ecb3d29c7bf90febc", null ],
+    [ "_events", "d8/d1f/a15336.html#a32dad2bde92efab7e0f0d16e809df665", null ],
+    [ "_player", "d8/d1f/a15336.html#ac3d7059ee67abcafa0586f0bed5df9cc", null ]
 ];

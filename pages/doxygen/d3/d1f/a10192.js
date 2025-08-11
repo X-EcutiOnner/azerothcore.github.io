@@ -1,8 +1,10 @@
 var a10192 =
 [
-    [ "AllCommandScript", "d3/d1f/a10192.html#a7ff235b904eecdd4d02d2025c4078980", null ],
-    [ "IsDatabaseBound", "d3/d1f/a10192.html#a89430678d5c88c562f1b0ac2b294fea4", null ],
-    [ "OnBeforeIsInvokerVisible", "d3/d1f/a10192.html#a6f85dc271c1b61244978aa4474e708b0", null ],
-    [ "OnHandleDevCommand", "d3/d1f/a10192.html#aba983f0e052ece230617573f04a35c92", null ],
-    [ "OnTryExecuteCommand", "d3/d1f/a10192.html#a3a116836453073e77bbd8ab974f36f47", null ]
+    [ "Flags", "d3/d1f/a10192.html#abf9c2701e766951e5a211bf6bf85b175", null ],
+    [ "ID", "d3/d1f/a10192.html#a946b8f7244fd22c4afcb26373ee61a13", null ],
+    [ "needSave", "d3/d1f/a10192.html#aae888b1bf10f654ee212f3d687c111e9", null ],
+    [ "needSend", "d3/d1f/a10192.html#ab8692e4433db81f9d3e0f96f8f930a8f", null ],
+    [ "ReputationListID", "d3/d1f/a10192.html#a052caeeae1ecdca831097591e0fddaf6", null ],
+    [ "roundedUp", "d3/d1f/a10192.html#a287fe9e8ec5da58ae3f5096045eebf31", null ],
+    [ "Standing", "d3/d1f/a10192.html#ae87da6cada559e11a9607e194013d671", null ]
 ];

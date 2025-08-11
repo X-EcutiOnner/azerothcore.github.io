@@ -1,6 +1,4 @@
 var a00845 =
 [
-    [ "WorldPackets::Chat::Emote", "db/ddb/a10514.html", "db/ddb/a10514" ],
-    [ "WorldPackets::Chat::EmoteClient", "db/dab/a10518.html", "db/dab/a10518" ],
-    [ "WorldPackets::Chat::ChatServerMessage", "d5/dea/a10522.html", "d5/dea/a10522" ]
+    [ "InstanceHasScript", "d7/dcf/a00845.html#aad76768c8aee9ce3ac24657437adb0de", null ]
 ];

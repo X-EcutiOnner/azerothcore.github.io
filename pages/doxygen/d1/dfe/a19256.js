@@ -1,8 +1,11 @@
 var a19256 =
 [
-    [ "FilterTargets", "d1/dfe/a19256.html#af6700817fd92dbe495e20d5c43b5d6b5", null ],
-    [ "Load", "d1/dfe/a19256.html#a639105c26214d9887b84a482ca93eb26", null ],
-    [ "PrepareSpellScript", "d1/dfe/a19256.html#a354ae20be436528b16095d4cd8d37859", null ],
-    [ "Register", "d1/dfe/a19256.html#a5fcc9cc654d6495f535600a6eef4c968", null ],
-    [ "DrakeGUID", "d1/dfe/a19256.html#ad4bbd7d559cdcc21ae5fafae75cd8eb3", null ]
+    [ "npc_nexus_lordAI", "d1/dfe/a19256.html#a8d26337fdcd055027a20ea91faf7e01b", null ],
+    [ "AttackStart", "d1/dfe/a19256.html#a2f56dcac815431c887b95e9c09aec361", null ],
+    [ "JustDied", "d1/dfe/a19256.html#a828007757a618affad71b955681945cf", null ],
+    [ "JustEngagedWith", "d1/dfe/a19256.html#acfcf227557b1e212eda385e22ccdb981", null ],
+    [ "UpdateAI", "d1/dfe/a19256.html#ad7ddb98d2daaed386e713e423de4cac9", null ],
+    [ "events", "d1/dfe/a19256.html#ad20a56e52b22306ca31406d8defa4aa5", null ],
+    [ "pInstance", "d1/dfe/a19256.html#a81fae70688bcd8c733ea90b06900503d", null ],
+    [ "timer", "d1/dfe/a19256.html#a8edb133f7ca01a4aa75345c572a505c7", null ]
 ];

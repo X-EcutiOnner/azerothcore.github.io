@@ -1,10 +1,12 @@
 var a01400 =
 [
-    [ "QEmote", "dc/df3/a09586.html", "dc/df3/a09586" ],
-    [ "GossipTextOption", "d0/d13/a09590.html", "d0/d13/a09590" ],
-    [ "GossipText", "d1/d51/a09594.html", "d1/d51/a09594" ],
-    [ "PageTextLocale", "de/d53/a09598.html", "de/d53/a09598" ],
-    [ "NpcTextLocale", "dd/d5f/a09602.html", "dd/d5f/a09602" ],
-    [ "MAX_GOSSIP_TEXT_EMOTES", "dc/d35/a01400.html#a705783094711e028814c1c59a16c2c4f", null ],
-    [ "MAX_GOSSIP_TEXT_OPTIONS", "dc/d35/a01400.html#a114c9636000e930cd1dc1ef7e444814f", null ]
+    [ "AggressorAI", "d1/da6/a06064.html", "d1/da6/a06064" ],
+    [ "CombatAI", "d8/d17/a06068.html", "d8/d17/a06068" ],
+    [ "CasterAI", "d1/db6/a06072.html", "d1/db6/a06072" ],
+    [ "ArcherAI", "df/d45/a06076.html", "df/d45/a06076" ],
+    [ "TurretAI", "df/d47/a06080.html", "df/d47/a06080" ],
+    [ "VehicleAI", "dc/d0a/a06084.html", "dc/d0a/a06084" ],
+    [ "VEHICLE_CONDITION_CHECK_TIME", "dc/d35/a01400.html#a2842973ff947088648cd327dc9e1d379", null ],
+    [ "VEHICLE_DISMISS_TIME", "dc/d35/a01400.html#a9b232fec810abbe5eaf5536e608b6e38", null ],
+    [ "SpellVct", "dc/d35/a01400.html#aef8ccdd14344d9c395d613c21bafd91e", null ]
 ];

@@ -1,6 +1,9 @@
 var a13464 =
 [
-    [ "npc_professor_phizzlethorpeAI", "d3/d2b/a13468.html", "d3/d2b/a13468" ],
-    [ "npc_professor_phizzlethorpe", "dc/dd7/a13464.html#a8d32b4a107533c81033c617b0b97027d", null ],
-    [ "GetAI", "dc/dd7/a13464.html#a5eb540d16b2dd123d553ea4ae24d8b53", null ]
+    [ "spell_sunwell_teleport", "dc/dd7/a13464.html#a6c61c9bb6cb5737469686a7976207f1d", null ],
+    [ "HandleScript", "dc/dd7/a13464.html#a4bd9ef50ecc45c792feb8e4d820298b5", null ],
+    [ "PrepareSpellScript", "dc/dd7/a13464.html#afc3c927b4bd5ec19074a0ee6d59783f2", null ],
+    [ "Register", "dc/dd7/a13464.html#a3a82c7a6d6673c5860b196e0cd644aab", null ],
+    [ "Validate", "dc/dd7/a13464.html#a351a2beced058f9354515baa38b0292e", null ],
+    [ "_triggeredSpellId", "dc/dd7/a13464.html#a66d97a0028b8a0c430ac5152213f60eb", null ]
 ];

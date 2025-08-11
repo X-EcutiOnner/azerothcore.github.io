@@ -1,8 +1,6 @@
 var a01190 =
 [
-    [ "WorldPackets::Bank::AutoBankItem", "d9/dbb/a10436.html", "d9/dbb/a10436" ],
-    [ "WorldPackets::Bank::AutoStoreBankItem", "dd/d72/a10440.html", "dd/d72/a10440" ],
-    [ "WorldPackets::Bank::BuyBankSlot", "dd/d31/a10444.html", "dd/d31/a10444" ],
-    [ "WorldPackets::Bank::BuyBankSlotResult", "d9/dc8/a10448.html", "d9/dc8/a10448" ],
-    [ "WorldPackets::Bank::ShowBank", "d6/da4/a10452.html", "d6/da4/a10452" ]
+    [ "MapScript< BattlegroundMap >", "dc/d19/a01190.html#a37068ff91511f7df359c3cf9be0e8d72", null ],
+    [ "MapScript< InstanceMap >", "dc/d19/a01190.html#aad36f2a434a53db1767a65fa0a1dffdc", null ],
+    [ "MapScript< Map >", "dc/d19/a01190.html#aacb4fdedfc86aea6c855e3be41e0c6e1", null ]
 ];

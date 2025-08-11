@@ -1,6 +1,12 @@
 var a01034 =
 [
-    [ "TSpellSummary", "d1/d90/a06171.html", "d1/d90/a06171" ],
-    [ "SCR_CLEAR", "de/d91/a01034.html#ab71e08e3f39b7ee7bda0306cd39b96a0", null ],
-    [ "SpellSummary", "de/d91/a01034.html#ae56af266ccaa1794f1f014938b07e9cc", null ]
+    [ "WorldObjectScript", "d9/d24/a10412.html", "d9/d24/a10412" ],
+    [ "WorldObjectHook", "de/d91/a01034.html#ab8a14556853bd2637a19973d68ba6d1c", [
+      [ "WORLDOBJECTHOOK_ON_WORLD_OBJECT_DESTROY", "de/d91/a01034.html#ab8a14556853bd2637a19973d68ba6d1ca19911e8e8d81b83808647214673201ce", null ],
+      [ "WORLDOBJECTHOOK_ON_WORLD_OBJECT_CREATE", "de/d91/a01034.html#ab8a14556853bd2637a19973d68ba6d1caa4f7a14c3e5de3e6ace4c9a4bacc656c", null ],
+      [ "WORLDOBJECTHOOK_ON_WORLD_OBJECT_SET_MAP", "de/d91/a01034.html#ab8a14556853bd2637a19973d68ba6d1ca06f900f1b11de87d54d283b4433d5100", null ],
+      [ "WORLDOBJECTHOOK_ON_WORLD_OBJECT_RESET_MAP", "de/d91/a01034.html#ab8a14556853bd2637a19973d68ba6d1cac1f7c2d5eb2a8755ef8e628c8c769241", null ],
+      [ "WORLDOBJECTHOOK_ON_WORLD_OBJECT_UPDATE", "de/d91/a01034.html#ab8a14556853bd2637a19973d68ba6d1ca7fcc241c6d7db7844d86f1d88fb06144", null ],
+      [ "WORLDOBJECTHOOK_END", "de/d91/a01034.html#ab8a14556853bd2637a19973d68ba6d1ca4efa80e98b34555980ec0b06142a4c59", null ]
+    ] ]
 ];

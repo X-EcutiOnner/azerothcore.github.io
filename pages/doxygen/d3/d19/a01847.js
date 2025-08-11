@@ -1,12 +1,11 @@
 var a01847 =
 [
-    [ "AchievementScript", "d4/d86/a10202.html", "d4/d86/a10202" ],
-    [ "AchievementHook", "d3/d19/a01847.html#a62b7eadebfd59858b2e2f1a8713a3ae1", [
-      [ "ACHIEVEMENTHOOK_SET_REALM_COMPLETED", "d3/d19/a01847.html#a62b7eadebfd59858b2e2f1a8713a3ae1ac3fc38cd750edf07c66cf42ae357a782", null ],
-      [ "ACHIEVEMENTHOOK_IS_COMPLETED_CRITERIA", "d3/d19/a01847.html#a62b7eadebfd59858b2e2f1a8713a3ae1a12f1bcc17681be9acc81dc3fb51e8f2e", null ],
-      [ "ACHIEVEMENTHOOK_IS_REALM_COMPLETED", "d3/d19/a01847.html#a62b7eadebfd59858b2e2f1a8713a3ae1a0f6e888313610e200011072afae5b8e7", null ],
-      [ "ACHIEVEMENTHOOK_ON_BEFORE_CHECK_CRITERIA", "d3/d19/a01847.html#a62b7eadebfd59858b2e2f1a8713a3ae1a5073468c76ad4823c32a7fe0cc113048", null ],
-      [ "ACHIEVEMENTHOOK_CAN_CHECK_CRITERIA", "d3/d19/a01847.html#a62b7eadebfd59858b2e2f1a8713a3ae1aa9d01d0837118bf75263bb54b21f18b1", null ],
-      [ "ACHIEVEMENTHOOK_END", "d3/d19/a01847.html#a62b7eadebfd59858b2e2f1a8713a3ae1a2df8c3284122e09fda0d8f4b7789732c", null ]
+    [ "BanMgr", "db/d25/a09888.html", "db/d25/a09888" ],
+    [ "sBan", "d3/d19/a01847.html#a7d5e9b6aab3c8157bcf25fa0f070bb17", null ],
+    [ "BanReturn", "d3/d19/a01847.html#a4dd4670ead55e2780d09a66ab39943a7", [
+      [ "BAN_SUCCESS", "d3/d19/a01847.html#a4dd4670ead55e2780d09a66ab39943a7ab48bdf9afe21b115b7550bf103d1dc28", null ],
+      [ "BAN_SYNTAX_ERROR", "d3/d19/a01847.html#a4dd4670ead55e2780d09a66ab39943a7a7ec21f8f8ea6d0904423dded4b8f0dc8", null ],
+      [ "BAN_NOTFOUND", "d3/d19/a01847.html#a4dd4670ead55e2780d09a66ab39943a7aaefc3ea320005c27d70704fb92aed7ad", null ],
+      [ "BAN_LONGER_EXISTS", "d3/d19/a01847.html#a4dd4670ead55e2780d09a66ab39943a7ac441589615fb2fe9c7decb985f6f0d3c", null ]
     ] ]
 ];

@@ -1,6 +1,15 @@
 var a23140 =
 [
-    [ "HandleScriptEffect", "df/d6d/a23140.html#a766edc5924124c869b04ec82cd2bc693", null ],
-    [ "PrepareSpellScript", "df/d6d/a23140.html#a1eac10c673b8f43ae08f8bbdf949f82f", null ],
-    [ "Register", "df/d6d/a23140.html#a60d4e21bf31c997ef4105ad72c8b4e85", null ]
+    [ "boss_hydross_the_unstable", "df/d6d/a23140.html#a8e385f4f7f448033b00828540aa16cde", null ],
+    [ "JustDied", "df/d6d/a23140.html#ad05fa00eade9614ed54b03a9a4d5d348", null ],
+    [ "JustEngagedWith", "df/d6d/a23140.html#a4fd2138ce9962d89410b57702d7df33d", null ],
+    [ "JustReachedHome", "df/d6d/a23140.html#a03cbe48effc4cd3a2821312e60578ed4", null ],
+    [ "JustSummoned", "df/d6d/a23140.html#a3e9031d95c9e62cbd83eeba4af6c965a", null ],
+    [ "KilledUnit", "df/d6d/a23140.html#a252d3abdf24c06922c88823bc5e535f3", null ],
+    [ "Reset", "df/d6d/a23140.html#a0bcad41c74800ab58df8b5ea54d2ec8e", null ],
+    [ "SetForm", "df/d6d/a23140.html#ac80b0611533998d15406d45385d37629", null ],
+    [ "SummonedCreatureDespawn", "df/d6d/a23140.html#afe4b76f528045506586f8289eaee27aa", null ],
+    [ "SummonMovementInform", "df/d6d/a23140.html#af74b63bf239de38f8dd04e69a6ea2b54", null ],
+    [ "SummonTaintedElementalOOC", "df/d6d/a23140.html#a219094dc5a81acb7d7ae86d5d7945da8", null ],
+    [ "_recentlySpoken", "df/d6d/a23140.html#acfd0f1a6331b08659c5fffa7850d30b4", null ]
 ];

@@ -1,6 +1,5 @@
 var a02156 =
 [
-    [ "lfg::LFGPlayerScript", "da/d90/a07974.html", "da/d90/a07974" ],
-    [ "lfg::LFGGroupScript", "d4/d47/a07978.html", "d4/d47/a07978" ],
-    [ "AddSC_LFGScripts", "dd/d3f/a02156.html#a9624b9328e26a9f420a4a3f07e253763", null ]
+    [ "reset_commandscript", "d1/d51/a11760.html", "d1/d51/a11760" ],
+    [ "AddSC_reset_commandscript", "dd/d3f/a02156.html#ae4c7679595ac3aac5f03426eb6e0e6e4", null ]
 ];

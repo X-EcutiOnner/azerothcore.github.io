@@ -1,6 +1,7 @@
 var a14508 =
 [
-    [ "HandleScriptEffect", "d3/dc0/a14508.html#a07ac70b6e91c61dcb59c368381a877dd", null ],
-    [ "PrepareSpellScript", "d3/dc0/a14508.html#a55115ca986d5226588d168ced7ab1f55", null ],
-    [ "Register", "d3/dc0/a14508.html#ad8811bf48dfb564afcd82cf51b860255", null ]
+    [ "HandleDummy", "d3/dc0/a14508.html#a05c3589ee04eed87449f652db065f0e9", null ],
+    [ "PrepareSpellScript", "d3/dc0/a14508.html#afb79a2cf5359e7ec69746cd89d8cd727", null ],
+    [ "Register", "d3/dc0/a14508.html#a51207fcd4f272e120fe1af2ac78c1f80", null ],
+    [ "Validate", "d3/dc0/a14508.html#a5fc6dae87ffb634cc0de389196751b22", null ]
 ];

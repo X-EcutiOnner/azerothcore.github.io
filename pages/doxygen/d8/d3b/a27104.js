@@ -1,6 +1,6 @@
 var a27104 =
 [
-    [ "boss_emerissAI", "d0/d32/a27108.html", "d0/d32/a27108" ],
-    [ "boss_emeriss", "d8/d3b/a27104.html#a2d373e5add3f007cf214ad9763039aa2", null ],
-    [ "GetAI", "d8/d3b/a27104.html#a88a0696a12f12e612cce53c14f6b1f92", null ]
+    [ "AreaTrigger_at_brewfest", "d8/d3b/a27104.html#ad7e2916aefc6efbfb9f747a75a4a14a3", null ],
+    [ "OnTrigger", "d8/d3b/a27104.html#a17e4a8d671136466c7673789e4f69a84", null ],
+    [ "_triggerTimes", "d8/d3b/a27104.html#ab763765427796ad17338bcc8d63cf891", null ]
 ];

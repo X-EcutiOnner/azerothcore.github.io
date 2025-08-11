@@ -1,7 +1,6 @@
 var a17340 =
 [
-    [ "PeriodicTick", "d2/d9c/a17340.html#af2419a9f9c8706e6b9a090e88f1b6f78", null ],
-    [ "PrepareAuraScript", "d2/d9c/a17340.html#ac1abcbe62887678adad0194fdf27825a", null ],
-    [ "Register", "d2/d9c/a17340.html#a9c92c88bf261f1da2143e7dee41a77ec", null ],
-    [ "Validate", "d2/d9c/a17340.html#ae7526fcf963fe4ea3ab2f1ec7292e8d8", null ]
+    [ "ModAuraStack", "d2/d9c/a17340.html#a7535ef148e047e32a5f7a1944585e396", null ],
+    [ "PrepareSpellScript", "d2/d9c/a17340.html#ad5305dd5a32a18802a9fce5daccf3051", null ],
+    [ "Register", "d2/d9c/a17340.html#ab44b362197e74b98b3ffeb98eff52742", null ]
 ];

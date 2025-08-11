@@ -1,6 +1,6 @@
 var a20316 =
 [
-    [ "boss_kologarn_armsAI", "d8/d0d/a20320.html", "d8/d0d/a20320" ],
-    [ "boss_kologarn_arms", "d7/de2/a20316.html#ad540d28bb4b8a2be0ca0769f114c3eda", null ],
-    [ "GetAI", "d7/de2/a20316.html#a9ffe4db97d937e01c5ab2008a011f67d", null ]
+    [ "npc_ulduar_iron_constructAI", "d8/d0d/a20320.html", "d8/d0d/a20320" ],
+    [ "npc_ulduar_iron_construct", "d7/de2/a20316.html#a56ddf4d4d290dbb15303419c1dab18da", null ],
+    [ "GetAI", "d7/de2/a20316.html#a7d46ba96b6f1968e35721d45c17b1a49", null ]
 ];

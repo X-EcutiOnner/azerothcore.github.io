@@ -1,6 +1,6 @@
 var a27536 =
 [
-    [ "npc_injured_patientAI", "de/d6d/a27540.html", "de/d6d/a27540" ],
-    [ "npc_injured_patient", "d5/d87/a27536.html#a0b7ef214aa1b20df088dee0976c73783", null ],
-    [ "GetAI", "d5/d87/a27536.html#a0c042bb81e684f903d28d7879af99d4a", null ]
+    [ "npc_target_dummyAI", "de/d6d/a27540.html", "de/d6d/a27540" ],
+    [ "npc_target_dummy", "d5/d87/a27536.html#a04847f9893a40c0f1c1879f448cc228d", null ],
+    [ "GetAI", "d5/d87/a27536.html#a1aff9199c160e20f9e92ee9f90178d63", null ]
 ];

@@ -1,8 +1,7 @@
 var a09328 =
 [
-    [ "AnyUnfriendlyNoTotemUnitInObjectRangeCheck", "d8/d80/a09328.html#ac4378cfa8fedb3453c0e810d497cb99c", null ],
-    [ "operator()", "d8/d80/a09328.html#ad9e3486316cf297ba79a588c60b4ce15", null ],
-    [ "i_funit", "d8/d80/a09328.html#ace766830b26d8aae3ec673d2102a9969", null ],
-    [ "i_obj", "d8/d80/a09328.html#ae12f4176e49438cfa248345cfe7c9947", null ],
-    [ "i_range", "d8/d80/a09328.html#a8335ef8fd7376e7c920dfbca2318d646", null ]
+    [ "FriendlyCCedInRange", "d8/d80/a09328.html#ae8dcff3f285f208b0db8aa3efed202a1", null ],
+    [ "operator()", "d8/d80/a09328.html#a0e241f930cee855664aeac3604d5c023", null ],
+    [ "i_obj", "d8/d80/a09328.html#a73d3e29bbdc7fd4aa162be3cb7ecbe08", null ],
+    [ "i_range", "d8/d80/a09328.html#a49e79f3aea0c7e8c321c9f297b71a9b2", null ]
 ];

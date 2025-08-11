@@ -1,7 +1,7 @@
 var a15372 =
 [
-    [ "npc_cork_gizeltonAI", "d3/dbe/a15376.html", "d3/dbe/a15376" ],
-    [ "npc_cork_gizelton", "d5/d3e/a15372.html#a915aa2abc18109e7d0197863f59536f2", null ],
-    [ "GetAI", "d5/d3e/a15372.html#a8a5fe5c46767aa37fd6e5b10e1bfc372", null ],
-    [ "OnQuestAccept", "d5/d3e/a15372.html#a11dc1fea0a24add451272b537298fc13", null ]
+    [ "npc_webbed_creatureAI", "d5/d3e/a15372.html#a6b7507eda84c29d6bd557b1b424ee10a", null ],
+    [ "JustDied", "d5/d3e/a15372.html#a153d461124ec9266ffcac147a217f6d9", null ],
+    [ "JustEngagedWith", "d5/d3e/a15372.html#ac52ad6512bcaee35932f856abdac80d4", null ],
+    [ "Reset", "d5/d3e/a15372.html#a459eaadd7f0145b7a1a6caf99d1e8a5d", null ]
 ];

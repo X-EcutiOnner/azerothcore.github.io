@@ -1,5 +1,6 @@
 var a15700 =
 [
-    [ "go_elune_fire", "df/ddb/a15700.html#a84d1b8e5a10e57cf717e10e413cb6027", null ],
-    [ "OnGossipHello", "df/ddb/a15700.html#a31e3cad89090bb7d2933e8758dbb56c4", null ]
+    [ "npc_cairne_bloodhoofAI", "d3/d6a/a15704.html", "d3/d6a/a15704" ],
+    [ "npc_cairne_bloodhoof", "df/ddb/a15700.html#a3519d94c5fcdc3d55e31c49c7773e56c", null ],
+    [ "GetAI", "df/ddb/a15700.html#a1c34470c46ae9e98684de0e786be28b7", null ]
 ];

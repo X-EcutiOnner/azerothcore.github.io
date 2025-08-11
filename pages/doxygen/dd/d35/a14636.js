@@ -1,7 +1,9 @@
 var a14636 =
 [
-    [ "hyjalTyrandeAI", "d5/dd0/a14640.html", "d5/dd0/a14640" ],
-    [ "npc_hyjal_tyrande", "dd/d35/a14636.html#abd2ba500d8e2bbf20c00905012d47d12", null ],
-    [ "GetAI", "dd/d35/a14636.html#a2f863e616352a98763eef9a717d73388", null ],
-    [ "OnGossipSelect", "dd/d35/a14636.html#a014a63098e18b08b6f5cd33a0cba2072", null ]
+    [ "boss_azgalor", "dd/d35/a14636.html#ac794e0eacc2d543fa62e4b521089f080", null ],
+    [ "DoAction", "dd/d35/a14636.html#a43d7afa9da1375f431df871e2a1dfff2", null ],
+    [ "JustDied", "dd/d35/a14636.html#a49cc8abf458f82ad7d46c9c1563f0e98", null ],
+    [ "JustEngagedWith", "dd/d35/a14636.html#a4b067c3bccbd5f9c96c50d009250d3d0", null ],
+    [ "KilledUnit", "dd/d35/a14636.html#a04df1058e89ccc6e7ef2d1dff38d47e7", null ],
+    [ "_recentlySpoken", "dd/d35/a14636.html#abea34396ddde0aa02a073b2f3119fec9", null ]
 ];

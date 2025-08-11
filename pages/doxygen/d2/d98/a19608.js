@@ -1,6 +1,5 @@
 var a19608 =
 [
-    [ "dark_rune_stormcallerAI", "dd/d3f/a19612.html", "dd/d3f/a19612" ],
-    [ "dark_rune_stormcaller", "d2/d98/a19608.html#ab31774011fc3e1e8ffa1a3b7c5cbfbcc", null ],
-    [ "GetAI", "d2/d98/a19608.html#a9072aaf482106cfae0d3901507b47f60", null ]
+    [ "boss_sjonnir_dwarfAI", "d2/d98/a19608.html#aee7608282bef500a7eb3e0d3130fa01c", null ],
+    [ "UpdateAI", "d2/d98/a19608.html#afef50cec19e4cb2018c7c8a9e36ef41c", null ]
 ];

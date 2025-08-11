@@ -1,14 +1,17 @@
 var a09192 =
 [
-    [ "WorldObjectSearcher", "d6/d94/a09192.html#a4c8b6202710f1539e55eb8d30031ce62", null ],
-    [ "Visit", "d6/d94/a09192.html#ace0642ee6949a06f9b94e350b49e64c1", null ],
-    [ "Visit", "d6/d94/a09192.html#ac484deeb43ead6b9ea73182da97ff3ba", null ],
-    [ "Visit", "d6/d94/a09192.html#a28a30052c55b2ffad85e8d2f4f008ff3", null ],
-    [ "Visit", "d6/d94/a09192.html#a42fce9834443194e090e022f3f7618b0", null ],
-    [ "Visit", "d6/d94/a09192.html#aae2b654236e3a85d9ba0b5ce48d5c315", null ],
-    [ "Visit", "d6/d94/a09192.html#aa2742bc25a4773a487e9e8ff760644ea", null ],
-    [ "i_check", "d6/d94/a09192.html#aa8af931f3d562aa1c31e774347db2e24", null ],
-    [ "i_mapTypeMask", "d6/d94/a09192.html#a2910a3c0a932f2d3ea7d10d4541cbb39", null ],
-    [ "i_object", "d6/d94/a09192.html#a8f705e476d2a32ca90d589d9b58b2c8d", null ],
-    [ "i_phaseMask", "d6/d94/a09192.html#a5688db61fc9d297252987830eadb0ee5", null ]
+    [ "MessageDistDeliverer", "d6/d94/a09192.html#a8f8c9fb2dadaa8c521b5036a94a4c9a4", null ],
+    [ "SendPacket", "d6/d94/a09192.html#af085a9490dfd5a1e577bda6d8333fe1d", null ],
+    [ "Visit", "d6/d94/a09192.html#af44878b494b1412f0d08248f6a88fff6", null ],
+    [ "Visit", "d6/d94/a09192.html#a2e8d0ad4bdc5fc8961d9f67b6a93b69d", null ],
+    [ "Visit", "d6/d94/a09192.html#a8c56d33ec988bfb6ba078fce00beab1a", null ],
+    [ "Visit", "d6/d94/a09192.html#a09171ca5e494d7cc4b19340e95367a64", null ],
+    [ "Visit", "d6/d94/a09192.html#ab8bf1e8d9f81dac6baa006262835628f", null ],
+    [ "i_distSq", "d6/d94/a09192.html#a871dda581863f0919f1d5b2f60c2fcd9", null ],
+    [ "i_message", "d6/d94/a09192.html#ac49c2d8b9120edbafd6b04656a6d2909", null ],
+    [ "i_phaseMask", "d6/d94/a09192.html#abca07d041f9b45b4002f15dfff6e1c9e", null ],
+    [ "i_source", "d6/d94/a09192.html#aa65c4e298a1302647fdaad1b1227a3a2", null ],
+    [ "required3dDist", "d6/d94/a09192.html#abdce98d93c98513a434df80b97c096c6", null ],
+    [ "skipped_receiver", "d6/d94/a09192.html#a7f92e1c65cdc8346dd4bac47f1ba8b5b", null ],
+    [ "teamId", "d6/d94/a09192.html#acfda3713bbde51a110cb160f0325f848", null ]
 ];

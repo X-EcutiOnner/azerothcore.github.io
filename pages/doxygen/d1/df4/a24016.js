@@ -1,11 +1,6 @@
 var a24016 =
 [
-    [ "npc_magister_aledis", "d1/df4/a24016.html#a0e30c5d4f9fe023537a1b29258967630", null ],
-    [ "DamageTaken", "d1/df4/a24016.html#a3c3b72de2dc3e2a1e2bdeab908f0691f", null ],
-    [ "Reset", "d1/df4/a24016.html#ae0a701eeaacc5188b382c59ecef14518", null ],
-    [ "sGossipSelect", "d1/df4/a24016.html#a9960de0b5be8b75e8b7bcc8f12c4f187", null ],
-    [ "StartFight", "d1/df4/a24016.html#a9149ce0a1df781043a5590fe4612511a", null ],
-    [ "UpdateAI", "d1/df4/a24016.html#aef885088193e2597e6990e3051a31ef7", null ],
-    [ "_events", "d1/df4/a24016.html#a5b4cd0ab4d214547dca28b8b384f83df", null ],
-    [ "_playerGUID", "d1/df4/a24016.html#a0954d3d1c9ad4eaff387bc2cf4f52aeb", null ]
+    [ "npc_aeranasAI", "d1/de0/a24020.html", "d1/de0/a24020" ],
+    [ "npc_aeranas", "d1/df4/a24016.html#a6ea71481ef6a223a329b805081122537", null ],
+    [ "GetAI", "d1/df4/a24016.html#a81167df6665bdca81ee13468dec19643", null ]
 ];

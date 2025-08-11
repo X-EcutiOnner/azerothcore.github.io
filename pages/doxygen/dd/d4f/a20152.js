@@ -1,6 +1,7 @@
 var a20152 =
 [
-    [ "npc_ulduar_icicleAI", "d2/db4/a20156.html", "d2/db4/a20156" ],
-    [ "npc_ulduar_icicle", "dd/d4f/a20152.html#a1ab79b2fa3e64779f62b96c195222683", null ],
-    [ "GetAI", "dd/d4f/a20152.html#a71dd83d544307b11bcde58f9aeea097c", null ]
+    [ "HandleEffectPeriodic", "dd/d4f/a20152.html#ae1c6062123fb62a48f542e43b34c7bcd", null ],
+    [ "PrepareAuraScript", "dd/d4f/a20152.html#a1c54b6c86fc39d96d601b24c5b30fbdd", null ],
+    [ "Register", "dd/d4f/a20152.html#af7a5a98b5cf784d2de8b57a183c19142", null ],
+    [ "Validate", "dd/d4f/a20152.html#a16c536c913d003826ef4b86c7a497fec", null ]
 ];

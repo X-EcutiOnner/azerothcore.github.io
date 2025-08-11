@@ -1,7 +1,9 @@
 var a13416 =
 [
-    [ "HandleAfterCast", "dc/df1/a13416.html#a251ddadd9d26039da542c402e4ee254f", null ],
-    [ "PrepareSpellScript", "dc/df1/a13416.html#a91114aeb4f917ec5138a0c7b20688174", null ],
-    [ "Register", "dc/df1/a13416.html#a42960206e2444d8e6fb8fdc4d80a534b", null ],
-    [ "Validate", "dc/df1/a13416.html#ad4012436a41537fc5ae854c0c48f09b1", null ]
+    [ "npc_dark_fiend", "dc/df1/a13416.html#a8c4ebf7ba2f991df7053d40108330609", null ],
+    [ "DamageTaken", "dc/df1/a13416.html#a39daa01688ec4ddadf9f1d185faa3f48", null ],
+    [ "Reset", "dc/df1/a13416.html#a5622d14f84ad8e47da773852f1778d56", null ],
+    [ "UpdateAI", "dc/df1/a13416.html#ab4a7cbc09f4b830039cf4c6f59b2b30e", null ],
+    [ "_lastVictimGUID", "dc/df1/a13416.html#abcccb35701f21d417e3c13709cc24281", null ],
+    [ "_spellCast", "dc/df1/a13416.html#a4cde5fbbeedfc7ed2907a2b797f6aafa", null ]
 ];

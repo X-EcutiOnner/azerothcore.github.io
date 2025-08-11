@@ -1,6 +1,6 @@
 var a10892 =
 [
-    [ "WorldStateInfo", "d4/d40/a10892.html#a64fd2e4da7035ea6c01b8ab0819d2f86", null ],
-    [ "Value", "d4/d40/a10892.html#afe5a0e98713c986a17f431795c488c6c", null ],
-    [ "VariableID", "d4/d40/a10892.html#a627bba237bce23aff74fd2bf7a274657", null ]
+    [ "PetLearnedSpell", "d4/d40/a10892.html#a5d105cca08515b9550998f2c86b13a1a", null ],
+    [ "Write", "d4/d40/a10892.html#a6fd7d4bc907b0bb78c438e6a9159dc69", null ],
+    [ "SpellID", "d4/d40/a10892.html#a6ab11b614f13d518a2a007adfbe00ab7", null ]
 ];

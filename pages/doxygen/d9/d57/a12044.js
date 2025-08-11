@@ -1,6 +1,8 @@
 var a12044 =
 [
-    [ "npc_blackhand_incarceratorAI", "d6/dee/a12048.html", "d6/dee/a12048" ],
-    [ "npc_blackhand_incarcerator", "d9/d57/a12044.html#a0c6bb8ea789e81803a11be57ac1b68e2", null ],
-    [ "GetAI", "d9/d57/a12044.html#a021ddf6442812f7fb698ba7fb45b9ffb", null ]
+    [ "boss_halyconAI", "d9/d57/a12044.html#acc110d5d802fc0da3ea630f667167748", null ],
+    [ "JustDied", "d9/d57/a12044.html#a7d71e135a8edf3d3b99ccfcb3b071eaa", null ],
+    [ "JustEngagedWith", "d9/d57/a12044.html#a5735567462167fffa4d01800d696296e", null ],
+    [ "Reset", "d9/d57/a12044.html#ac5622260b0b40cb584cf3037521cc5b8", null ],
+    [ "UpdateAI", "d9/d57/a12044.html#a6e72949b63de3d32d8369c7122b6060d", null ]
 ];

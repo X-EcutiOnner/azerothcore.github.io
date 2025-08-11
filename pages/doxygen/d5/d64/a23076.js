@@ -1,11 +1,6 @@
 var a23076 =
 [
-    [ "boss_doomwalker", "d5/d64/a23076.html#a47811086ff98b1a09af5300af94b6c0e", null ],
-    [ "JustDied", "d5/d64/a23076.html#aeefc6b3fdff4375c421318484e0b18a6", null ],
-    [ "JustEngagedWith", "d5/d64/a23076.html#a01aa1cc0e5feaf9d2f49b54daaf7b13f", null ],
-    [ "KilledUnit", "d5/d64/a23076.html#a2335eb642940397f73ee2a8051624e8e", null ],
-    [ "MoveInLineOfSight", "d5/d64/a23076.html#ac0ffd491ac9a4923e3977e09e8ba310e", null ],
-    [ "Reset", "d5/d64/a23076.html#aba08b227d629c9f35e59f465e29c267b", null ],
-    [ "UpdateAI", "d5/d64/a23076.html#a3105c50e512c6f709985cece619b131f", null ],
-    [ "_inEnrage", "d5/d64/a23076.html#a0004e96e25d8f5ad9393e3cdb3a4ce70", null ]
+    [ "HandleProc", "d5/d64/a23076.html#a93dfb9e0dac89cb66f340c41dbc526bb", null ],
+    [ "PrepareAuraScript", "d5/d64/a23076.html#a94b244ef26355d53c874aec6d26f3a53", null ],
+    [ "Register", "d5/d64/a23076.html#a9499d88802213ceb877e19d1651324f2", null ]
 ];

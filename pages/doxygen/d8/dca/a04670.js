@@ -1,34 +1,12 @@
 var a04670 =
 [
-    [ "adt_MCVT", "d3/d88/a28590.html", "d3/d88/a28590" ],
-    [ "adt_MCLQ", "d6/d16/a28598.html", "d6/d16/a28598" ],
-    [ "adt_MCLQ::liquid_data", "dc/d61/a28606.html", "dc/d61/a28606" ],
-    [ "adt_MCNK", "d9/d12/a28610.html", "d9/d12/a28610" ],
-    [ "adt_MCIN", "dc/d43/a28618.html", "dc/d43/a28618" ],
-    [ "adt_MCIN::adt_CELLS", "db/d4e/a28626.html", "db/d4e/a28626" ],
-    [ "adt_liquid_instance", "d8/d08/a28630.html", "d8/d08/a28630" ],
-    [ "adt_liquid_attributes", "d7/df8/a28634.html", "d7/df8/a28634" ],
-    [ "adt_MH2O", "d9/d45/a28638.html", "d9/d45/a28638" ],
-    [ "adt_MH2O::adt_LIQUID", "d8/d45/a28646.html", "d8/d45/a28646" ],
-    [ "adt_MFBO", "d5/d96/a28650.html", "d5/d96/a28650" ],
-    [ "adt_MFBO::plane", "db/ddc/a28658.html", "db/ddc/a28658" ],
-    [ "adt_MHDR", "d4/d4d/a28662.html", "d4/d4d/a28662" ],
-    [ "ADT_file", "d3/d6e/a28670.html", "d3/d6e/a28670" ],
-    [ "ADT_CELL_SIZE", "d8/dca/a04670.html#a1e3d5d05087dd429cb513f26211aaad1", null ],
-    [ "ADT_CELLS_PER_GRID", "d8/dca/a04670.html#aaa17abcdb17267fda5cd146bec40af39", null ],
-    [ "ADT_GRID_SIZE", "d8/dca/a04670.html#aa01c13bed63c283263ad2ad586721c77", null ],
-    [ "CHUNKSIZE", "d8/dca/a04670.html#a239bebe1697b474e6f84945e9fb9faee", null ],
-    [ "TILESIZE", "d8/dca/a04670.html#a07ae61ed7dc31e9cddbdf9da244567c7", null ],
-    [ "UNITSIZE", "d8/dca/a04670.html#adad9f01017a76fb25b04611c100d3df7", null ],
-    [ "LiquidType", "d8/dca/a04670.html#a623f699008200dd1aa3c00fb91bc7065", [
-      [ "LIQUID_TYPE_WATER", "d8/dca/a04670.html#a623f699008200dd1aa3c00fb91bc7065a1959b1f042d34cdd8a79c9ee3223f043", null ],
-      [ "LIQUID_TYPE_OCEAN", "d8/dca/a04670.html#a623f699008200dd1aa3c00fb91bc7065af157bf14abe6e407890f83a0fbdb82e3", null ],
-      [ "LIQUID_TYPE_MAGMA", "d8/dca/a04670.html#a623f699008200dd1aa3c00fb91bc7065aad4df40b4ce0967a3c2c917bcd3b6300", null ],
-      [ "LIQUID_TYPE_SLIME", "d8/dca/a04670.html#a623f699008200dd1aa3c00fb91bc7065a51f9de84786e092879920b28992da026", null ]
-    ] ],
-    [ "LiquidVertexFormatType", "d8/dca/a04670.html#a5292fd275b2d01d81692c430af9dc51f", [
-      [ "HeightDepth", "d8/dca/a04670.html#a5292fd275b2d01d81692c430af9dc51fadc5bae52022216a549f4d884bf4e2f73", null ],
-      [ "HeightTextureCoord", "d8/dca/a04670.html#a5292fd275b2d01d81692c430af9dc51fad931d69dec9efae87a6040c1e60781cb", null ],
-      [ "Depth", "d8/dca/a04670.html#a5292fd275b2d01d81692c430af9dc51fa675056ad1441b6375b2c5abd48c27ef1", null ]
+    [ "MMAP::IMMapMgr", "d2/ddb/a04952.html", "d2/ddb/a04952" ],
+    [ "MMAP_LOAD_RESULT", "d8/dca/a04670.html#a329271d76c3ed7ad6d255d45094b4868", [
+      [ "MMAP_LOAD_RESULT_ERROR", "d8/dca/a04670.html#a329271d76c3ed7ad6d255d45094b4868a66ec06574c26cbc0b14b939c3cb09f85", null ],
+      [ "MMAP_LOAD_RESULT_OK", "d8/dca/a04670.html#a329271d76c3ed7ad6d255d45094b4868ad7493681e0258dd1099139230f17df10", null ],
+      [ "MMAP_LOAD_RESULT_IGNORED", "d8/dca/a04670.html#a329271d76c3ed7ad6d255d45094b4868a87dfee65ac7d1c8acf69eea806a151c8", null ],
+      [ "MMAP_LOAD_RESULT_ERROR", "d8/dca/a04670.html#a329271d76c3ed7ad6d255d45094b4868a66ec06574c26cbc0b14b939c3cb09f85", null ],
+      [ "MMAP_LOAD_RESULT_OK", "d8/dca/a04670.html#a329271d76c3ed7ad6d255d45094b4868ad7493681e0258dd1099139230f17df10", null ],
+      [ "MMAP_LOAD_RESULT_IGNORED", "d8/dca/a04670.html#a329271d76c3ed7ad6d255d45094b4868a87dfee65ac7d1c8acf69eea806a151c8", null ]
     ] ]
 ];

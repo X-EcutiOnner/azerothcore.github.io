@@ -1,6 +1,6 @@
 var a22256 =
 [
-    [ "npc_roxi_ramrocket", "da/da1/a22256.html#af7f6bf6d5f8fc468abe62605f205571b", null ],
-    [ "OnGossipHello", "da/da1/a22256.html#adec28f778921246c56f11d09753e566e", null ],
-    [ "OnGossipSelect", "da/da1/a22256.html#a46a9898cb4b29808f9e911c03b5759cb", null ]
+    [ "npc_iron_watcherAI", "de/db3/a22260.html", "de/db3/a22260" ],
+    [ "npc_iron_watcher", "da/da1/a22256.html#a174e19241ca6cd1619fbae074d11c8ba", null ],
+    [ "GetAI", "da/da1/a22256.html#af3b80b838e192737762ceed599b0be9a", null ]
 ];

@@ -1,7 +1,9 @@
 var a06112 =
 [
-    [ "ReactorAI", "d8/d7b/a06112.html#aaea292c46945399cf7c855e642941c2d", null ],
-    [ "MoveInLineOfSight", "d8/d7b/a06112.html#a224608a62a15d679863d68d7d0e32dde", null ],
-    [ "Permissible", "d8/d7b/a06112.html#a1b0845464b0d356be7bf38e65ab5eb19", null ],
-    [ "UpdateAI", "d8/d7b/a06112.html#a10c4c10d9ac942990d1a1ef9eb6603ad", null ]
+    [ "CritterAI", "d8/d7b/a06112.html#aa211359ea8b80ac0ed27e9b337e333f1", null ],
+    [ "EnterEvadeMode", "d8/d7b/a06112.html#a989d1fc00af900320dcf27cce7f247dc", null ],
+    [ "JustEngagedWith", "d8/d7b/a06112.html#a2f52eb5c527895168f18ed5ddcc560a9", null ],
+    [ "MovementInform", "d8/d7b/a06112.html#a54c44d28e4b2b3231afeb8de343dee43", null ],
+    [ "Permissible", "d8/d7b/a06112.html#ae43183a24398fe3af1cb8275b9b4c6c6", null ],
+    [ "UpdateAI", "d8/d7b/a06112.html#af860be127a671f5448cb731aa2f701b0", null ]
 ];

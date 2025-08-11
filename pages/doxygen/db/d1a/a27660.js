@@ -1,5 +1,5 @@
 var a27660 =
 [
-    [ "go_transport_the_thundercaller", "db/d1a/a27660.html#a79d5ed60a112c5f352f9f0b94f9f3a17", null ],
-    [ "EventInform", "db/d1a/a27660.html#ad2e981ff6223ec2cbd8a897485a61204", null ]
+    [ "npc_stable_masterAI", "db/d1a/a27660.html#a5c6f9bca1004af163ddb074b606330be", null ],
+    [ "sGossipSelect", "db/d1a/a27660.html#a09205661674dd011ffe425deaadde053", null ]
 ];

@@ -1,10 +1,8 @@
 var a16880 =
 [
-    [ "npc_hor_spiritual_reflectionAI", "d6/d5c/a16880.html#aac0a916bfa325284b354e7241fe857ab", null ],
-    [ "EnterEvadeMode", "d6/d5c/a16880.html#a49f1c93206bfff53090c138a3dbf79e5", null ],
-    [ "JustDied", "d6/d5c/a16880.html#a72073c44f881d4a78552de4119a716d7", null ],
-    [ "JustEngagedWith", "d6/d5c/a16880.html#ac35e648b93bb39ca831390bf88f6a3e7", null ],
-    [ "Reset", "d6/d5c/a16880.html#ad1f523fad45c34077e6d6ce7b9a4aefd", null ],
-    [ "UpdateAI", "d6/d5c/a16880.html#af9613e9309b85317bc6e3a84013dcf89", null ],
-    [ "events", "d6/d5c/a16880.html#a89a466917aa5634c4c86ecbce21280b7", null ]
+    [ "npc_phantom_hallucinationAI", "d6/d5c/a16880.html#a7b27d1c859d77220dc1c3c8323e9eef9", null ],
+    [ "EnterEvadeMode", "d6/d5c/a16880.html#a7ef7411ea780466d7c4dd185d9444aba", null ],
+    [ "JustDied", "d6/d5c/a16880.html#a5a4f05c5930a7e5bd31df2e3131f4cec", null ],
+    [ "UpdateAI", "d6/d5c/a16880.html#ad874a741c641dbac6380aa682d582d7c", null ],
+    [ "numOfUpd", "d6/d5c/a16880.html#adb78f5dcd272e8223f895079885a5461", null ]
 ];

@@ -1,13 +1,14 @@
 var a15184 =
 [
-    [ "instance_temple_of_ahnqiraj_InstanceMapScript", "d1/d65/a15184.html#a454f677dddce956534d6f5a253ed587b", null ],
-    [ "GetData", "d1/d65/a15184.html#ad34ee1e43d05826c1b4e80e2df6ac5f6", null ],
-    [ "Initialize", "d1/d65/a15184.html#a8d46d9aa082d306aa2c9cd8fde3eea1d", null ],
-    [ "OnCreatureCreate", "d1/d65/a15184.html#affc7045f944251fb27683133f511029f", null ],
-    [ "OnGameObjectCreate", "d1/d65/a15184.html#a36f22cb12a5d59b377627f7cacbffecb", null ],
-    [ "OnUnitDeath", "d1/d65/a15184.html#a921a58152e075b9a64bf3c73aabdf1f2", null ],
-    [ "SetBossState", "d1/d65/a15184.html#abb9fc9c7901d0c830d498f3fbdaebbe6", null ],
-    [ "SetData", "d1/d65/a15184.html#a25f4e12aad6325e87b31770c1243d746", null ],
-    [ "BugTrioDeathCount", "d1/d65/a15184.html#aab0191f5b31264f0632a24df0607d05b", null ],
-    [ "CThunGraspGUIDs", "d1/d65/a15184.html#aea180c0b623e919f56f9210ce15724e8", null ]
+    [ "boss_twinemperorsAI", "d1/d65/a15184.html#ae0857b191dbbf086533062aee5885237", null ],
+    [ "DamageTaken", "d1/d65/a15184.html#a118151851f36de9dfc22971a965cb047", null ],
+    [ "DoAction", "d1/d65/a15184.html#a2b5e585749b7a59663813c7a9d56c223", null ],
+    [ "EnterEvadeMode", "d1/d65/a15184.html#ab5a1b28405c38ece65f5ee145e472de8", null ],
+    [ "GetTwin", "d1/d65/a15184.html#af23aa54bca9752c242e80331862ace4d", null ],
+    [ "IAmVeklor", "d1/d65/a15184.html#acdccdde2ee573f51e1783ea493577258", null ],
+    [ "JustDied", "d1/d65/a15184.html#a9cc74619908c2aa9f8deda2689616735", null ],
+    [ "JustEngagedWith", "d1/d65/a15184.html#ab9a279e9ba3bb057268602be7368ffe4", null ],
+    [ "KilledUnit", "d1/d65/a15184.html#aaa52e01bfeff824345f7b9c7346e8aef", null ],
+    [ "UpdateAI", "d1/d65/a15184.html#a4d9e07fd3f682a24332d0aabe6c55f8f", null ],
+    [ "_introDone", "d1/d65/a15184.html#a1b4689b0c403f7246ae100e4f716b138", null ]
 ];

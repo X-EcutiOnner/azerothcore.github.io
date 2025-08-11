@@ -1,7 +1,10 @@
 var a08552 =
 [
-    [ "SetRuneState", "d0/d70/a08552.html#a920d32d04ec7e872680a89b0c0a9b0ef", null ],
-    [ "lastUsedRune", "d0/d70/a08552.html#a88c702716eb3032c20ae5ed74922d923", null ],
-    [ "runes", "d0/d70/a08552.html#aac485530bfa81d54d9da3213fe917c29", null ],
-    [ "runeState", "d0/d70/a08552.html#ae58297e0766578b234604a97641501a1", null ]
+    [ "PvPInfo", "d0/d70/a08552.html#ad956667bc89b49e5a520ee5a4f19f22e", null ],
+    [ "EndTimer", "d0/d70/a08552.html#ae06b5030552c02f30fe8386633a753df", null ],
+    [ "FFAPvPEndTimer", "d0/d70/a08552.html#a739dfc63dfe39429a44ea682d9120522", null ],
+    [ "IsHostile", "d0/d70/a08552.html#a22a1c8f0e8c51f4a27cb8ab362028d61", null ],
+    [ "IsInFFAPvPArea", "d0/d70/a08552.html#a8a654926248b3974587af1eb9c064d15", null ],
+    [ "IsInHostileArea", "d0/d70/a08552.html#a92d3c8991f7e3c5d683b414d18cbbd64", null ],
+    [ "IsInNoPvPArea", "d0/d70/a08552.html#a6858b8db9a441bf950f7d9fdca1587b5", null ]
 ];

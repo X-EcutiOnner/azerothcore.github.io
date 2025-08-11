@@ -1,9 +1,10 @@
 var a23712 =
 [
-    [ "boss_high_botanist_freywinn", "da/d89/a23712.html#aeecf6ed56e34cf1d9a552aab82f1f64a", null ],
-    [ "JustDied", "da/d89/a23712.html#a7b370482ea195d0305cba339ce0cbab3", null ],
-    [ "JustEngagedWith", "da/d89/a23712.html#a841c6f08d8d8c0e47bd8d06bfed7ab8b", null ],
-    [ "KilledUnit", "da/d89/a23712.html#a80a997e0d12c175da0a46d7362890b9c", null ],
-    [ "ResumeEncounter", "da/d89/a23712.html#a06adcf26cb264d35a16ca416661ab4bd", null ],
-    [ "SummonedCreatureDies", "da/d89/a23712.html#a7f1a02d4b944191471f59ba728b6372e", null ]
+    [ "boss_harbinger_skyriss", "da/d89/a23712.html#a245179f74d61c2671b397e8f2473b599", null ],
+    [ "EnterEvadeMode", "da/d89/a23712.html#a873413da06569343225e6659f8277b2c", null ],
+    [ "JustDied", "da/d89/a23712.html#a2b5152ddeb53d382294bd0fe7455a21e", null ],
+    [ "JustEngagedWith", "da/d89/a23712.html#adb4cdec41f4b61f82efdb78fe995c313", null ],
+    [ "JustSummoned", "da/d89/a23712.html#a97d84139a3e970e22d7d422f2f825f12", null ],
+    [ "KilledUnit", "da/d89/a23712.html#a8f9e1bd87c80041e07b428ec300ceef8", null ],
+    [ "Reset", "da/d89/a23712.html#a045ec2371ad99c3465b8f089eb604e0a", null ]
 ];

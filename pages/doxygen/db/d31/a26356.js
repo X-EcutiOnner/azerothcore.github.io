@@ -1,6 +1,5 @@
 var a26356 =
 [
-    [ "HandleDummy", "db/d31/a26356.html#a39c913c3e3225a9b27d17d4ceadd3c70", null ],
-    [ "PrepareSpellScript", "db/d31/a26356.html#a7936186af106ae3ddeec3bc9b39ff127", null ],
-    [ "Register", "db/d31/a26356.html#aa8ce1f0413e19d8f6d403b220fc6749c", null ]
+    [ "spell_q55_sacred_cleansing", "db/d31/a26356.html#a4aa8a16350a7a55706841471fd985ca2", null ],
+    [ "GetSpellScript", "db/d31/a26356.html#a50a8f2d777169aaeef88533b66b88fb2", null ]
 ];

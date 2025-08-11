@@ -1,6 +1,6 @@
 var a20976 =
 [
-    [ "achievement_yogg_saron_he_waits_dreaming", "d2/d62/a20976.html#a25f4950d1ccffe77aa9cf5de7a14ea37", null ],
-    [ "OnCheck", "d2/d62/a20976.html#a7ef7dfb0235fb2db5932e7415e3e6f61", null ],
-    [ "_requiredIllusion", "d2/d62/a20976.html#aa3e107cb3be6fa02687709e07466a094", null ]
+    [ "OnRemove", "d2/d62/a20976.html#a0e2113cd165f9f6ce88ba6eea9034806", null ],
+    [ "PrepareAuraScript", "d2/d62/a20976.html#a5fb0837417b915676549370cc76c477d", null ],
+    [ "Register", "d2/d62/a20976.html#a7f1844fded6ad112cc99d33f52e0799c", null ]
 ];

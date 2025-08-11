@@ -1,7 +1,6 @@
 var a19304 =
 [
-    [ "HandlePull", "d7/d92/a19304.html#a05e6155abeb2720923ddf0d8cae54feb", null ],
-    [ "PrepareSpellScript", "d7/d92/a19304.html#ac192245513e162a2842e47f5b0d64338", null ],
-    [ "Register", "d7/d92/a19304.html#af6c7a881c2fcf07461006fef63074e5e", null ],
-    [ "SelectTarget", "d7/d92/a19304.html#aabee5b6b8f3ba7e2cf91bcb05ce7929d", null ]
+    [ "instance_eye_of_eternity_InstanceMapScript", "d0/d87/a19308.html", "d0/d87/a19308" ],
+    [ "instance_eye_of_eternity", "d7/d92/a19304.html#afcab4ba969d0423871a4e398627a323d", null ],
+    [ "GetInstanceScript", "d7/d92/a19304.html#af51319609d355fe87a77a87eb697f434", null ]
 ];

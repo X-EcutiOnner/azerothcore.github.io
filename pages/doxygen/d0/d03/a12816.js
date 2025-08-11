@@ -1,6 +1,6 @@
 var a12816 =
 [
-    [ "instance_magisters_terrace_InstanceMapScript", "d9/de5/a12820.html", "d9/de5/a12820" ],
-    [ "instance_magisters_terrace", "d0/d03/a12816.html#a81e23ce04c4d765193d2d2763ef78987", null ],
-    [ "GetInstanceScript", "d0/d03/a12816.html#a465cbaebb13535cdb7f6a2108e026fc5", null ]
+    [ "boss_kagani_nightstrike", "d0/d03/a12816.html#aeb4cfab6c4caafcf64d5e54cf481fd6a", null ],
+    [ "JustEngagedWith", "d0/d03/a12816.html#aba5ca4ce6fe6b39bb85aadddbcd9891e", null ],
+    [ "MovementInform", "d0/d03/a12816.html#af1010b7aa7434a92f1168eceda47cc2e", null ]
 ];

@@ -1,4 +1,5 @@
 var a04682 =
 [
-    [ "WDTFile", "df/d8e/a28720.html", "df/d8e/a28720" ]
+    [ "MAP_FILE_NAME_FORMAT", "d3/d49/a04682.html#a1d57d156046bda88886b7488ab0b83bc", null ],
+    [ "TILE_FILE_NAME_FORMAT", "d3/d49/a04682.html#a27e34ce3b8808f2aa889e5c4e623059a", null ]
 ];

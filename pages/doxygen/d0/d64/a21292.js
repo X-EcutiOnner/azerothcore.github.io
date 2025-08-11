@@ -1,6 +1,6 @@
 var a21292 =
 [
-    [ "npc_erekem_guardAI", "db/d26/a21296.html", "db/d26/a21296" ],
-    [ "npc_erekem_guard", "d0/d64/a21292.html#a78592996e90f77f81eec0325a7f11956", null ],
-    [ "GetAI", "d0/d64/a21292.html#a844a6a29eda4f41547ea37a4c08fb723", null ]
+    [ "npc_frozen_orbAI", "db/d26/a21296.html", "db/d26/a21296" ],
+    [ "npc_frozen_orb", "d0/d64/a21292.html#ac14966722e39b2b6b3a907756701ed98", null ],
+    [ "GetAI", "d0/d64/a21292.html#a2f9e1a2cb14ee9e5f24e02aa97697116", null ]
 ];

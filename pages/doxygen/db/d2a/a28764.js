@@ -1,8 +1,8 @@
 var a28764 =
 [
-    [ "CheckProc", "db/d2a/a28764.html#afcda3b112699e108e2db6270836fce1b", null ],
-    [ "OnProc", "db/d2a/a28764.html#ab953f817368120933828d6b3e5e200c0", null ],
-    [ "PrepareAuraScript", "db/d2a/a28764.html#a33381b811abcd52f7a57e0f62fa73e5f", null ],
-    [ "Register", "db/d2a/a28764.html#abfdd5179215432a3e89ea7b498d49867", null ],
-    [ "Validate", "db/d2a/a28764.html#a19e8f1b9aab5ee4e718b304c87303627", null ]
+    [ "TileConfig", "db/d2a/a28764.html#a67b10c747fb0d2bc2a263e5009d42e1b", null ],
+    [ "BASE_UNIT_DIM", "db/d2a/a28764.html#a5a882b0595456ab3fcca85c80af3b6f8", null ],
+    [ "TILES_PER_MAP", "db/d2a/a28764.html#ae3443f89a8a698823c91096abe51a6a9", null ],
+    [ "VERTEX_PER_MAP", "db/d2a/a28764.html#a46640a80428b1ab93d65d593c03d13ed", null ],
+    [ "VERTEX_PER_TILE", "db/d2a/a28764.html#ae0331739074e5546818e13527a76524a", null ]
 ];

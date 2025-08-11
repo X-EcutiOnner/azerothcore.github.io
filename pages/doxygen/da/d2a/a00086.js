@@ -1,10 +1,9 @@
 var a00086 =
 [
-    [ "TypeList< HEAD, TAIL >", "de/dd6/a05298.html", "de/dd6/a05298" ],
-    [ "TYPELIST_1", "da/d2a/a00086.html#a6a7a6aa3dece450c8d239713e2952df7", null ],
-    [ "TYPELIST_2", "da/d2a/a00086.html#a311cb99af993804c6737ae46c5cbfaff", null ],
-    [ "TYPELIST_3", "da/d2a/a00086.html#a0309f68a543c5c0994f9edc0e56dc59f", null ],
-    [ "TYPELIST_4", "da/d2a/a00086.html#a7a156c571ab21a16b0495e1c882a07fa", null ],
-    [ "TYPELIST_5", "da/d2a/a00086.html#aad5d9b3c82c8503c85c625acd41c0a2f", null ],
-    [ "TYPELIST_6", "da/d2a/a00086.html#ac6f3277dcaade98ceeaa5c0e1c454816", null ]
+    [ "ListFilesResult", "da/d2a/a00086.html#a030b28c9f552c0de4a4b4844fc5e6101", [
+      [ "LISTFILE_DIRECTORY_NOT_FOUND", "da/d2a/a00086.html#a030b28c9f552c0de4a4b4844fc5e6101a868c0f60f6afa222577730606ed493a6", null ],
+      [ "LISTFILE_OK", "da/d2a/a00086.html#a030b28c9f552c0de4a4b4844fc5e6101a952e90f65bfd2eefbd80a8b830eb5687", null ]
+    ] ],
+    [ "getDirContents", "da/d2a/a00086.html#a3620968f3c1f5c1a3bb0c809ab0eb4ab", null ],
+    [ "matchWildcardFilter", "da/d2a/a00086.html#a0b1c31a5b3e8bebc7fa860b40f7997e1", null ]
 ];

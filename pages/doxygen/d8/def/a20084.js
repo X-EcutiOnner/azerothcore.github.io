@@ -1,6 +1,6 @@
 var a20084 =
 [
-    [ "boss_vezaxAI", "d0/d87/a20088.html", "d0/d87/a20088" ],
-    [ "boss_vezax", "d8/def/a20084.html#af778f9ef3070598f8ca5109b2f6f0f82", null ],
-    [ "GetAI", "d8/def/a20084.html#a55c7f1ee93252768ba02e8d0d4634eb9", null ]
+    [ "boss_freya_lifebinderAI", "d0/d87/a20088.html", "d0/d87/a20088" ],
+    [ "boss_freya_lifebinder", "d8/def/a20084.html#ad7a3bc09aacf35b4a6a39e65c966b824", null ],
+    [ "GetAI", "d8/def/a20084.html#a978e4472a080f0fc53848abaa305cd77", null ]
 ];

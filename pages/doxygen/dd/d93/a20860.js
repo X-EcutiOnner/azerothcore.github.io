@@ -1,10 +1,6 @@
 var a20860 =
 [
-    [ "boss_yoggsaron_immortal_guardianAI", "dd/d93/a20860.html#a84a3ffe43a4ce49cd543f770594cd683", null ],
-    [ "DamageTaken", "dd/d93/a20860.html#aec157bcf0628a7301bcb91dd62bcc484", null ],
-    [ "Reset", "dd/d93/a20860.html#a763f772414f00c0f83402e1a635b6bd0", null ],
-    [ "SpellHit", "dd/d93/a20860.html#a60721961f2eb5e91c15890252166b872", null ],
-    [ "UpdateAI", "dd/d93/a20860.html#a7fa550f683fcf16f5bd70a307bffcb2b", null ],
-    [ "_spellTimer", "dd/d93/a20860.html#a4ed360380707195e10753436020b67eb", null ],
-    [ "_visualTimer", "dd/d93/a20860.html#a8c382c37aaa3d20cfc0fe604af52bef4", null ]
+    [ "boss_yoggsaron_corruptor_tentacleAI", "d0/dad/a20864.html", "d0/dad/a20864" ],
+    [ "boss_yoggsaron_corruptor_tentacle", "dd/d93/a20860.html#a86fbf881f0a861124dda085347bb03bd", null ],
+    [ "GetAI", "dd/d93/a20860.html#a7325d6feaa12d74c030152ba3a0ab756", null ]
 ];

@@ -1,6 +1,6 @@
 var a18964 =
 [
-    [ "NotOnSameSide", "dc/de4/a18964.html#ac3189b202a8c0ca4c8f52799ed54e284", null ],
-    [ "operator()", "dc/de4/a18964.html#a59ea48b9633049180ec62d3616fe4dea", null ],
-    [ "m_inLiveSide", "dc/de4/a18964.html#a77c1d18f54609a5f4da2e9c13f62293d", null ]
+    [ "boss_anubrekhanAI", "de/db5/a18968.html", "de/db5/a18968" ],
+    [ "boss_anubrekhan", "dc/de4/a18964.html#a6ff866300f8b0b58d4b7467def9747c0", null ],
+    [ "GetAI", "dc/de4/a18964.html#aba5c31f182d6f600302f84ed21e9f7e9", null ]
 ];

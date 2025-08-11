@@ -1,8 +1,6 @@
 var a15148 =
 [
-    [ "boss_veklor", "d0/d8a/a15148.html#acbbe1a2e6ffcb00a28f7ae5413cd02c1", null ],
-    [ "AttackStart", "d0/d8a/a15148.html#a7ecfff13457bf177c1ec250bbee75cbf", null ],
-    [ "IAmVeklor", "d0/d8a/a15148.html#a4c43713c24b5537f292be1e0fcaee703", null ],
-    [ "JustEngagedWith", "d0/d8a/a15148.html#a05913da666b1715eac68441195dd9df4", null ],
-    [ "SpellHit", "d0/d8a/a15148.html#ab5d9ec12c18e360ce2c8749dd97f2ab0", null ]
+    [ "OnRemove", "d0/d8a/a15148.html#a85595fed0e9b6a2ced18aeb4acffcf81", null ],
+    [ "PrepareAuraScript", "d0/d8a/a15148.html#a47849d8241ed17ad0fb541c1178b0760", null ],
+    [ "Register", "d0/d8a/a15148.html#aa23231c5c324e73930fdf8d784b0edb4", null ]
 ];

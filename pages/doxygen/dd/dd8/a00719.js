@@ -1,17 +1,59 @@
 var a00719 =
 [
-    [ "Arena", "d8/d8d/a07202.html", "d8/d8d/a07202" ],
-    [ "ArenaBroadcastTexts", "dd/dd8/a00719.html#a407f2036481e3d9e2def3daa50546c71", [
-      [ "ARENA_TEXT_START_ONE_MINUTE", "dd/dd8/a00719.html#a407f2036481e3d9e2def3daa50546c71a12b484d249dd320cfc39bdf39279d854", null ],
-      [ "ARENA_TEXT_START_THIRTY_SECONDS", "dd/dd8/a00719.html#a407f2036481e3d9e2def3daa50546c71a49cdd0c5a035f182212d6fe53a1e2084", null ],
-      [ "ARENA_TEXT_START_FIFTEEN_SECONDS", "dd/dd8/a00719.html#a407f2036481e3d9e2def3daa50546c71a96636e959a178535f5d886c81ec6a8d9", null ],
-      [ "ARENA_TEXT_START_BATTLE_HAS_BEGUN", "dd/dd8/a00719.html#a407f2036481e3d9e2def3daa50546c71a60ff93f414424628c66faf8f424f1dcd", null ]
+    [ "u_map_magic", "d7/dc5/a09100.html", "d7/dc5/a09100" ],
+    [ "map_fileheader", "d7/ded/a09104.html", "d7/ded/a09104" ],
+    [ "map_areaHeader", "d2/d53/a09108.html", "d2/d53/a09108" ],
+    [ "map_heightHeader", "d6/dc2/a09112.html", "d6/dc2/a09112" ],
+    [ "map_liquidHeader", "d3/d9f/a09116.html", "d3/d9f/a09116" ],
+    [ "LoadedAreaData", "d3/db5/a09120.html", "d3/db5/a09120" ],
+    [ "LoadedHeightData", "d8/d42/a09124.html", "d8/d42/a09124" ],
+    [ "LoadedHeightData::Uint16HeightData", "d7/dd2/a09128.html", "d7/dd2/a09128" ],
+    [ "LoadedHeightData::Uint8HeightData", "d6/d4b/a09132.html", "d6/d4b/a09132" ],
+    [ "LoadedHeightData::FloatHeightData", "da/deb/a09136.html", "da/deb/a09136" ],
+    [ "LoadedLiquidData", "dc/dee/a09140.html", "dc/dee/a09140" ],
+    [ "LoadedHoleData", "d8/d72/a09144.html", "d8/d72/a09144" ],
+    [ "LiquidData", "dd/da8/a09148.html", "dd/da8/a09148" ],
+    [ "GridTerrainData", "d9/d46/a09152.html", "d9/d46/a09152" ],
+    [ "INVALID_HEIGHT", "dd/dd8/a00719.html#ac08ed03fa837b2e3d2624e0123f0897b", null ],
+    [ "MAP_ALL_LIQUIDS", "dd/dd8/a00719.html#ab120de38f25fcadb7db17ec59fcae4e3", null ],
+    [ "MAP_AREA_NO_AREA", "dd/dd8/a00719.html#a29bbacae053e66ee8b7fa97db3cbd127", null ],
+    [ "MAP_HEIGHT_AS_INT16", "dd/dd8/a00719.html#aefa74fa33f3eba2d39b407c2fd2e8aba", null ],
+    [ "MAP_HEIGHT_AS_INT8", "dd/dd8/a00719.html#a15a9245a53c00f1a8a89dd2d798cea9d", null ],
+    [ "MAP_HEIGHT_HAS_FLIGHT_BOUNDS", "dd/dd8/a00719.html#a0fc25db7841a9836359d1825ec78ca08", null ],
+    [ "MAP_HEIGHT_NO_HEIGHT", "dd/dd8/a00719.html#aa5c2437972b2be5c5ff23a7ac04e2680", null ],
+    [ "MAP_LIQUID_NO_HEIGHT", "dd/dd8/a00719.html#a59daadc7c96729526e05982ec6600bb1", null ],
+    [ "MAP_LIQUID_NO_TYPE", "dd/dd8/a00719.html#a42b8b790a3d284e7116bcad1c391b8f9", null ],
+    [ "MAP_LIQUID_STATUS_IN_CONTACT", "dd/dd8/a00719.html#a3f00601bc8d385b63e3e766209cd366b", null ],
+    [ "MAP_LIQUID_STATUS_SWIMMING", "dd/dd8/a00719.html#ac0e95b704f5fbe7f2c5a728ab9ced4be", null ],
+    [ "MAP_LIQUID_TYPE_DARK_WATER", "dd/dd8/a00719.html#a661f965d11d7da56890b64484d871441", null ],
+    [ "MAP_LIQUID_TYPE_MAGMA", "dd/dd8/a00719.html#a14e2a0a2291347b0ef877bc9d70f7384", null ],
+    [ "MAP_LIQUID_TYPE_NO_WATER", "dd/dd8/a00719.html#a17d4c5ea32412f0fbe04a27f63d50e13", null ],
+    [ "MAP_LIQUID_TYPE_OCEAN", "dd/dd8/a00719.html#a6d257e0effb928fba7534eeee5de602d", null ],
+    [ "MAP_LIQUID_TYPE_SLIME", "dd/dd8/a00719.html#aa56f76510545ed9c706b8fee3061b6cb", null ],
+    [ "MAP_LIQUID_TYPE_WATER", "dd/dd8/a00719.html#a5ec110bd30ec47fcd087aaf5d572de28", null ],
+    [ "MAX_FALL_DISTANCE", "dd/dd8/a00719.html#a91e57a946b1b9303401fd9140f3cd13e", null ],
+    [ "MAX_HEIGHT", "dd/dd8/a00719.html#a9059fa76eb5e8e86f870405d63e72c4c", null ],
+    [ "MIN_HEIGHT", "dd/dd8/a00719.html#a1610a21b358c3531db64b3208fa70e5b", null ],
+    [ "LiquidStatus", "dd/dd8/a00719.html#a230261924eebef09eab542c62d316cc4", [
+      [ "LIQUID_MAP_NO_WATER", "dd/dd8/a00719.html#a230261924eebef09eab542c62d316cc4ad816089af57f43b040885d5c01678825", null ],
+      [ "LIQUID_MAP_ABOVE_WATER", "dd/dd8/a00719.html#a230261924eebef09eab542c62d316cc4af6081f84e48299232ed52bb6a2c8df71", null ],
+      [ "LIQUID_MAP_WATER_WALK", "dd/dd8/a00719.html#a230261924eebef09eab542c62d316cc4af70ebc4891408116188de5f9bed2cf50", null ],
+      [ "LIQUID_MAP_IN_WATER", "dd/dd8/a00719.html#a230261924eebef09eab542c62d316cc4af4e67ea19276ef09ee06c196ee361e01", null ],
+      [ "LIQUID_MAP_UNDER_WATER", "dd/dd8/a00719.html#a230261924eebef09eab542c62d316cc4a05ec44d4ffd65817a9210a88d9f9b857", null ]
     ] ],
-    [ "ArenaSpellIds", "dd/dd8/a00719.html#a05b7784b7a9a1ce8e6367f6f9bb875d9", [
-      [ "SPELL_ALLIANCE_GOLD_FLAG", "dd/dd8/a00719.html#a05b7784b7a9a1ce8e6367f6f9bb875d9a310e16f368a3a7d80eeecbaecd5c489c", null ],
-      [ "SPELL_ALLIANCE_GREEN_FLAG", "dd/dd8/a00719.html#a05b7784b7a9a1ce8e6367f6f9bb875d9aeae9474d707e5496dfdf0fd49871bb9f", null ],
-      [ "SPELL_HORDE_GOLD_FLAG", "dd/dd8/a00719.html#a05b7784b7a9a1ce8e6367f6f9bb875d9a83058f9219943bb8b4d4a3024d172af0", null ],
-      [ "SPELL_HORDE_GREEN_FLAG", "dd/dd8/a00719.html#a05b7784b7a9a1ce8e6367f6f9bb875d9ad76f572a30c966179ca9c2c2c26f4222", null ],
-      [ "SPELL_LAST_MAN_STANDING", "dd/dd8/a00719.html#a05b7784b7a9a1ce8e6367f6f9bb875d9a20018007a38c253b1c4d00d9b0b375bd", null ]
-    ] ]
+    [ "TerrainMapDataReadResult", "dd/dd8/a00719.html#acc57f2f56e801a11d6614f1c85f2624c", [
+      [ "Success", "dd/dd8/a00719.html#acc57f2f56e801a11d6614f1c85f2624ca505a83f220c02df2f85c3810cd9ceb38", null ],
+      [ "NotFound", "dd/dd8/a00719.html#acc57f2f56e801a11d6614f1c85f2624ca38c300f4fc9ce8a77aad4a30de05cad8", null ],
+      [ "ReadError", "dd/dd8/a00719.html#acc57f2f56e801a11d6614f1c85f2624cadf9be6f7af7c3f7196c5c3e731de0a87", null ],
+      [ "InvalidMagic", "dd/dd8/a00719.html#acc57f2f56e801a11d6614f1c85f2624ca180818c6d53193ec0e26551c5eab121d", null ],
+      [ "InvalidAreaData", "dd/dd8/a00719.html#acc57f2f56e801a11d6614f1c85f2624cac596ede97e877d22556117b5bdd4633a", null ],
+      [ "InvalidHeightData", "dd/dd8/a00719.html#acc57f2f56e801a11d6614f1c85f2624ca54788e1cdd051e56eea54771f3bf62d9", null ],
+      [ "InvalidLiquidData", "dd/dd8/a00719.html#acc57f2f56e801a11d6614f1c85f2624ca4042a3edb61fea753b1db70d894ac4eb", null ],
+      [ "InvalidHoleData", "dd/dd8/a00719.html#acc57f2f56e801a11d6614f1c85f2624ca5e70882e3225a2c0cc991ee32af97a98", null ]
+    ] ],
+    [ "MapAreaMagic", "dd/dd8/a00719.html#a282d6b57d312c7299da392bbfa5c4167", null ],
+    [ "MapHeightMagic", "dd/dd8/a00719.html#a65782292e4a2b7a0891f1f1fada1c8e8", null ],
+    [ "MapLiquidMagic", "dd/dd8/a00719.html#a79c45da33fc6a30841fef644ecb7044f", null ],
+    [ "MapMagic", "dd/dd8/a00719.html#af2485144ba91e4d6202d195faaa192d3", null ],
+    [ "MapVersionMagic", "dd/dd8/a00719.html#abc01d27c4557068cbc748b21ff701539", null ]
 ];

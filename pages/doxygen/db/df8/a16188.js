@@ -1,6 +1,6 @@
 var a16188 =
 [
-    [ "boss_paletressAI", "de/d8e/a16192.html", "de/d8e/a16192" ],
-    [ "boss_paletress", "db/df8/a16188.html#a04cbd31e71cc349b8c1058780ee6f673", null ],
-    [ "GetAI", "db/df8/a16188.html#a2c20ff397d115cf0e8a1801184e5a3f9", null ]
+    [ "npc_living_infernoAI", "db/df8/a16188.html#ab33eeac6aab8e18778fc7d4ffe5038f1", null ],
+    [ "IsSummonedBy", "db/df8/a16188.html#a4b6986a392aee0741ba47651e809c76c", null ],
+    [ "JustDied", "db/df8/a16188.html#a60b2e31d24e182e97d604d91223e2dc8", null ]
 ];

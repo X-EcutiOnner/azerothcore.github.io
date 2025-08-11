@@ -1,7 +1,6 @@
 var a23332 =
 [
-    [ "boss_hydromancer_thespia", "dc/d8e/a23332.html#a5747c2da9914dcf4118ee0fb37a3a3fd", null ],
-    [ "JustDied", "dc/d8e/a23332.html#ad0662daabd636bbf544a6791187d71fa", null ],
-    [ "JustEngagedWith", "dc/d8e/a23332.html#af230e57ec259e5c92c4034a674d1b6a5", null ],
-    [ "KilledUnit", "dc/d8e/a23332.html#ae1bb4819867ef5718cb5d9130d62fa20", null ]
+    [ "HandleScript", "dc/d8e/a23332.html#a9451ed26358c77ab4d35781fd8fb4b55", null ],
+    [ "PrepareSpellScript", "dc/d8e/a23332.html#ad24e7fa45f35f2cd6071328c60cb2732", null ],
+    [ "Register", "dc/d8e/a23332.html#a1bd01e1103d4959a5b3116e178a16a8f", null ]
 ];

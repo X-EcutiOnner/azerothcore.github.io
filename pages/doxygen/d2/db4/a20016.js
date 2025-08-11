@@ -1,12 +1,8 @@
 var a20016 =
 [
-    [ "boss_freya_elder_stonebarkAI", "d2/db4/a20016.html#a492329e296aaf29861d76e12e2b94631", null ],
-    [ "DamageTaken", "d2/db4/a20016.html#af25c675f46f5ca0d0da170f367cc8bdc", null ],
-    [ "JustDied", "d2/db4/a20016.html#a8dcdf4a1c8df10fc8ca419de924fe136", null ],
-    [ "JustEngagedWith", "d2/db4/a20016.html#a77a231b75bbbbb56638e1e5535827150", null ],
-    [ "KilledUnit", "d2/db4/a20016.html#ad1ce26306c2ea2102183b0679d46efd3", null ],
-    [ "Reset", "d2/db4/a20016.html#a0d17571be8905c4c33ed4591e963d680", null ],
-    [ "UpdateAI", "d2/db4/a20016.html#acd21050c265f6703060f95f2e3c725f3", null ],
-    [ "_chargesCount", "d2/db4/a20016.html#a294714a547bbc7a7364c7477bdc0422c", null ],
-    [ "events", "d2/db4/a20016.html#a07bcbf839c3b0b3924ec1915b47af0f2", null ]
+    [ "HandleOnEffectApply", "d2/db4/a20016.html#a83ff54727e886161c5568a60833932d1", null ],
+    [ "HandleOnEffectRemove", "d2/db4/a20016.html#a9e48d1c9dc26f882ee685a2cbf59667e", null ],
+    [ "PrepareAuraScript", "d2/db4/a20016.html#a5ec8ffeceae335423dff10f54e096e8a", null ],
+    [ "Register", "d2/db4/a20016.html#ae07af138c6f9c565799574b4f8343492", null ],
+    [ "Validate", "d2/db4/a20016.html#a3a24a25c9b9b118d20ca2b14fbfc5869", null ]
 ];

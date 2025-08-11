@@ -1,11 +1,15 @@
 var a01307 =
 [
-    [ "Movement::counter< T, limit >", "df/d1c/a10042.html", "df/d1c/a10042" ],
-    [ "UInt32Counter", "d2/d4c/a01307.html#adebd21803156b193f9b8a733b6cbd3c7", null ],
-    [ "computeFallElevation", "d2/d4c/a01307.html#a87260372150c8322b45e75bfaa445f14", null ],
-    [ "computeFallTime", "d2/d4c/a01307.html#a40f989c23fe19e12628da3cd9e64edf4", null ],
-    [ "MSToSec", "d2/d4c/a01307.html#aefc83834e7badc5f8450322da9567bd6", null ],
-    [ "SecToMS", "d2/d4c/a01307.html#a418fff34f8aed72d6d80876be5a33c58", null ],
-    [ "gravity", "d2/d4c/a01307.html#a15b376933a666c7f7c4600e62d7afe91", null ],
-    [ "splineIdGen", "d2/d4c/a01307.html#a5149db3325f467381006d8d5df24a2a8", null ]
+    [ "WaypointData", "df/dcd/a10104.html", "df/dcd/a10104" ],
+    [ "WaypointMgr", "d9/da6/a10108.html", "d9/da6/a10108" ],
+    [ "sWaypointMgr", "d2/d4c/a01307.html#a8e3218ae672aeeb8c1d9dc23a3a1a627", null ],
+    [ "WaypointPath", "d2/d4c/a01307.html#a3884c0cb3f926b9869757242cf112630", null ],
+    [ "WaypointPathContainer", "d2/d4c/a01307.html#a4022be9e8c89b6ab197c2564c77b52c5", null ],
+    [ "WaypointMoveType", "d2/d4c/a01307.html#ac26115060a1cd0169937b206edddd863", [
+      [ "WAYPOINT_MOVE_TYPE_WALK", "d2/d4c/a01307.html#ac26115060a1cd0169937b206edddd863acc641c64fa11ca399fe52e963d2ad1ff", null ],
+      [ "WAYPOINT_MOVE_TYPE_RUN", "d2/d4c/a01307.html#ac26115060a1cd0169937b206edddd863a1a68f8f06e0a7c3d6f9b007c79630f55", null ],
+      [ "WAYPOINT_MOVE_TYPE_LAND", "d2/d4c/a01307.html#ac26115060a1cd0169937b206edddd863a3190ebe456b4d1effe17f57ecc3379fa", null ],
+      [ "WAYPOINT_MOVE_TYPE_TAKEOFF", "d2/d4c/a01307.html#ac26115060a1cd0169937b206edddd863a6c91e1f2cbadf7be7393f34b5de1b843", null ],
+      [ "WAYPOINT_MOVE_TYPE_MAX", "d2/d4c/a01307.html#ac26115060a1cd0169937b206edddd863a32847b8584f9ff3ce07eb01923c37188", null ]
+    ] ]
 ];

@@ -1,6 +1,7 @@
 var a17324 =
 [
-    [ "PrepareSpellScript", "d6/d28/a17324.html#a86609d6cd708de9ead02c6134cbb6f64", null ],
-    [ "Register", "d6/d28/a17324.html#aceb3da4aec68cb44bcbee36f599afd62", null ],
-    [ "SetDest", "d6/d28/a17324.html#a9ed93e44df4e759fda72a63474e01b3b", null ]
+    [ "HandleDummyTick", "d6/d28/a17324.html#ac0aba414bc0f9f947b7bba9bd41f47b8", null ],
+    [ "PrepareAuraScript", "d6/d28/a17324.html#a0e61ac6aa03aaad08d91883e587f1c40", null ],
+    [ "Register", "d6/d28/a17324.html#a626900d1d0c8a471f4d100b2c2883a52", null ],
+    [ "Validate", "d6/d28/a17324.html#aa6ea31d8757b42bdea42d30b758a9c6d", null ]
 ];

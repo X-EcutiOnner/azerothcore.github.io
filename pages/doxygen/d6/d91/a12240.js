@@ -1,13 +1,7 @@
 var a12240 =
 [
-    [ "boss_nefarian", "d6/d91/a12240.html#ac8ea4f24ed97cace4630d4720b1acf47", null ],
-    [ "JustDied", "d6/d91/a12240.html#a4a0a4cf4ee63ce744ffb580747f992b9", null ],
-    [ "JustEngagedWith", "d6/d91/a12240.html#a6a547ba5aea4d5af2a621e5d97ceae43", null ],
-    [ "KilledUnit", "d6/d91/a12240.html#a6fdf265e453deb8f9a4214beacf3dbab", null ],
-    [ "MovementInform", "d6/d91/a12240.html#a0eea749c0392a7713e372cc1f236cdcd", null ],
-    [ "PathEndReached", "d6/d91/a12240.html#a45ec4ab3cdf9b4de91a9ae682f3335e8", null ],
-    [ "Reset", "d6/d91/a12240.html#a5d687fce34b17e22c605c263395e823b", null ],
-    [ "UpdateAI", "d6/d91/a12240.html#a205c9b1d4116fbd0a1ca972f39094abc", null ],
-    [ "_introDone", "d6/d91/a12240.html#a5710c721f3a24762b8cc3e79e6a14951", null ],
-    [ "classesPresent", "d6/d91/a12240.html#acffc9b31a0a50ee5701c272e32c912c6", null ]
+    [ "HandleScript", "d6/d91/a12240.html#ac6ef94a03f602b44a5c7c22b7e41d116", null ],
+    [ "PrepareSpellScript", "d6/d91/a12240.html#ad92a56c23b9f15e36766fe64d1d0dd17", null ],
+    [ "Register", "d6/d91/a12240.html#aa8ad85cbf0403d79e55bbe0ae184407b", null ],
+    [ "Validate", "d6/d91/a12240.html#a3ad038e7bf43dceedb0fceebd4070bfa", null ]
 ];

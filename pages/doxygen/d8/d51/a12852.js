@@ -1,11 +1,12 @@
 var a12852 =
 [
-    [ "npc_scarlet_ghoulAI", "d8/d51/a12852.html#a194795143717de5aa8f0ca4c4e516136", null ],
-    [ "InitializeAI", "d8/d51/a12852.html#ad0fd204d15350332508b0c9d9decefb1", null ],
-    [ "MovementInform", "d8/d51/a12852.html#a9836c91a7dede1fabd1e0a9523ebd26a", null ],
-    [ "OwnerAttackedBy", "d8/d51/a12852.html#a5b0afc1f2ee57a1cc5e30b8e997ba218", null ],
-    [ "SetGUID", "d8/d51/a12852.html#a832602498643a03087efbc0a5a2f81c3", null ],
-    [ "UpdateAI", "d8/d51/a12852.html#adbe4d539552e7954c7bdb8e520cb9783", null ],
-    [ "events", "d8/d51/a12852.html#a105ac0982d28be590d514d2e452109c0", null ],
-    [ "gothikGUID", "d8/d51/a12852.html#ab5efaf2e030f92d7ab45de8b5d19804d", null ]
+    [ "boss_vexallus", "d8/d51/a12852.html#a68c32ed70274e9f135b7a9107f888c91", null ],
+    [ "JustDied", "d8/d51/a12852.html#a5e67671becf3c1ac4ca9f04c79d82cf1", null ],
+    [ "JustEngagedWith", "d8/d51/a12852.html#aa9d37e8132c715552e2ce0102ac9a59b", null ],
+    [ "JustSummoned", "d8/d51/a12852.html#a9bc7808889da754bae9c935418975f90", null ],
+    [ "KilledUnit", "d8/d51/a12852.html#a48d44cc3ed6f0e7f97f76cd325e5c48e", null ],
+    [ "Reset", "d8/d51/a12852.html#a6ecf0817f6b1811fe9c62ac83d4b3dcc", null ],
+    [ "SummonedCreatureDies", "d8/d51/a12852.html#a4bd88222143d8db098312cff8a2fc969", null ],
+    [ "_energyCooldown", "d8/d51/a12852.html#a395d2186d70d1b7e29dbada7750da354", null ],
+    [ "_energyCount", "d8/d51/a12852.html#a4afa4a245b8863c7b0898773932642c8", null ]
 ];

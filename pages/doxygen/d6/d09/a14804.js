@@ -1,20 +1,12 @@
 var a14804 =
 [
-    [ "instance_the_black_morass_InstanceMapScript", "d6/d09/a14804.html#aa44359378462c0e0de9aad778bb67b6c", null ],
-    [ "CleanupInstance", "d6/d09/a14804.html#afa6718d4aba7ed4f2cf3da1552bff6f0", null ],
-    [ "GetData", "d6/d09/a14804.html#ae8e2aa62fd1e96aef87cd4ef00d3bf5c", null ],
-    [ "OnCreatureCreate", "d6/d09/a14804.html#a024b2c41699ec1ee40b5adbfe355c498", null ],
-    [ "OnCreatureRemove", "d6/d09/a14804.html#af9f5df1e16ca32705fb66d39f5c2526b", null ],
-    [ "OnPlayerEnter", "d6/d09/a14804.html#a151c4f2b0e2210d261a29c2c5f8512c9", null ],
-    [ "ScheduleNextPortal", "d6/d09/a14804.html#aa6187583d1a821cb8c60544566637885", null ],
-    [ "SetBossState", "d6/d09/a14804.html#a8d08e9d50547706579e2eb313583fa12", null ],
-    [ "SetData", "d6/d09/a14804.html#af6b8897ec076a9efa9c8dac8d39398a3", null ],
-    [ "Update", "d6/d09/a14804.html#aa92607dccc1d83c0bbcfd98b6b420042", null ],
-    [ "_availableRiftPositions", "d6/d09/a14804.html#a12c33ad0c493997995b13c2bf6a7271c", null ],
-    [ "_currentRift", "d6/d09/a14804.html#aa994df6a0d7f6c5547ce7c9d0e643ef5", null ],
-    [ "_encounterNPCs", "d6/d09/a14804.html#a50b6d6bf47994ae4d69c9ca26540c814", null ],
-    [ "_eventStatus", "d6/d09/a14804.html#a351f6e209d99e0a4c63e26bd9cf55646", null ],
-    [ "_noBossSpawnDelay", "d6/d09/a14804.html#a70d2a49424c250b761858a3102e37e39", null ],
-    [ "_scheduler", "d6/d09/a14804.html#ac176dc2a8851a3f8a98663037757a380", null ],
-    [ "_shieldPercent", "d6/d09/a14804.html#a8ef05e2031267a5dc21c0999e181344b", null ]
+    [ "boss_lieutenant_drake", "d6/d09/a14804.html#a67e00ef68d5b07023cc9dc7bd6a2289b", null ],
+    [ "InitializeAI", "d6/d09/a14804.html#a2b3eb857c0711b89b6e7a6f3f5f05441", null ],
+    [ "JustDied", "d6/d09/a14804.html#aca7654e30aac96fa509f99f3447121ec", null ],
+    [ "JustEngagedWith", "d6/d09/a14804.html#ae31ac13106d09b8b447aa8fd9d864e41", null ],
+    [ "KilledUnit", "d6/d09/a14804.html#a833c889c28ea35a6198fe753b604a8ed", null ],
+    [ "MovementInform", "d6/d09/a14804.html#aec6e332bc5739552cbbec27569c55759", null ],
+    [ "UpdateAI", "d6/d09/a14804.html#ad898722dfe01c2e4f814fc5af9f057b8", null ],
+    [ "pathId", "d6/d09/a14804.html#ac63f9c885296a797799c0cd83b0ade64", null ],
+    [ "runSecondPath", "d6/d09/a14804.html#a3ea53e2048224ac3bbc4dceda316d7c4", null ]
 ];

@@ -1,5 +1,6 @@
 var a10876 =
 [
-    [ "RequestPetInfo", "d4/dc3/a10876.html#ae0861d1fb77fe39bb48c26505e36ed2b", null ],
-    [ "Read", "d4/dc3/a10876.html#a5cc9bb57bce7dc7f24243fdc63e17870", null ]
+    [ "DismissCritter", "d4/dc3/a10876.html#a87e35583063b340f014d21cd02c54cab", null ],
+    [ "Read", "d4/dc3/a10876.html#a411b65505e8a332ecf9291a670dc38c4", null ],
+    [ "CritterGUID", "d4/dc3/a10876.html#a89c071e81c9d39c099c32c4976f15304", null ]
 ];

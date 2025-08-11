@@ -1,7 +1,6 @@
 var a21936 =
 [
-    [ "HandleScript", "d9/d57/a21936.html#a95de3ae27cfd764380ab1648b49af38d", null ],
-    [ "Load", "d9/d57/a21936.html#a1aafe141985bc1e9c5b9467d4896d96b", null ],
-    [ "PrepareSpellScript", "d9/d57/a21936.html#a442138710213b9b120d8ce57b733205a", null ],
-    [ "Register", "d9/d57/a21936.html#af9d8f764a6a02737f8b559f067156df6", null ]
+    [ "npc_tallhorn_stagAI", "d8/dd0/a21940.html", "d8/dd0/a21940" ],
+    [ "npc_tallhorn_stag", "d9/d57/a21936.html#aff7f23376c27312894c9a042f6a0f848", null ],
+    [ "GetAI", "d9/d57/a21936.html#a3d993542271c80982adcee9a9d60e46b", null ]
 ];

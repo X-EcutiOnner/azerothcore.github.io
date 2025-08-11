@@ -1,8 +1,6 @@
 var a16104 =
 [
-    [ "Load", "dc/d36/a16104.html#a55dc086667f0fe23e513608e951276ed", null ],
-    [ "Phase", "dc/d36/a16104.html#af66a6bff13803e54b6ed1447d1285ad4", null ],
-    [ "PrepareSpellScript", "dc/d36/a16104.html#ae2c7cbd68ccf893144e38581a6f86f04", null ],
-    [ "Register", "dc/d36/a16104.html#a8ab7e05e98771abcf9bed9995875b71d", null ],
-    [ "Validate", "dc/d36/a16104.html#a87192df547adaf3cb060155d9cf4da79", null ]
+    [ "npc_orb_carrierAI", "dd/d4a/a16108.html", "dd/d4a/a16108" ],
+    [ "npc_orb_carrier", "dc/d36/a16104.html#a69fdd8cb2f0cdf7cf6cf0bdabbc0cd03", null ],
+    [ "GetAI", "dc/d36/a16104.html#ab5b7bbffc43b840c686dc889805ea401", null ]
 ];

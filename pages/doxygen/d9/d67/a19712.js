@@ -1,9 +1,11 @@
 var a19712 =
 [
-    [ "CheckTargets", "d9/d67/a19712.html#a9340c167ef70508635092e273c23dcde", null ],
-    [ "CountTargets", "d9/d67/a19712.html#a996db37b678143fbc0a392032d29fff5", null ],
-    [ "Load", "d9/d67/a19712.html#a716bcf5bb0a24f9a57534c9dafb1a56f", null ],
-    [ "PrepareSpellScript", "d9/d67/a19712.html#a0b68ca6bdfe0f7c84236e5fe509d8fd9", null ],
-    [ "Register", "d9/d67/a19712.html#aed312a4408134589fd02bbcb844fd1b7", null ],
-    [ "_targetCount", "d9/d67/a19712.html#ac780614674e748274081f9f99a5165fe", null ]
+    [ "npc_living_constellationAI", "d9/d67/a19712.html#a54f4e946fad895bca07a59f4e00d10a5", null ],
+    [ "DoAction", "d9/d67/a19712.html#acdc93a7dc3019940d730fa20d115a929", null ],
+    [ "GetData", "d9/d67/a19712.html#acb5cc31d7a084e82d8bde3852f9668dd", null ],
+    [ "Reset", "d9/d67/a19712.html#a664b03bdaea184ab8dd8298ed9952790", null ],
+    [ "SpellHit", "d9/d67/a19712.html#a4c83ef2d5fe161a90d465a8fbd7eb4f8", null ],
+    [ "UpdateAI", "d9/d67/a19712.html#ad5b23c3db46b455c9321e7fb29b88572", null ],
+    [ "_isActive", "d9/d67/a19712.html#a786d2d05f83e59dd0da34f44037bdd35", null ],
+    [ "events", "d9/d67/a19712.html#a679c9fe1ed357b7c7e1ed1fac01ef8d3", null ]
 ];

@@ -1,11 +1,12 @@
 var a16872 =
 [
-    [ "boss_frostsworn_generalAI", "d6/d86/a16872.html#afd3e486cd9a0ac18d10675f40f7f6314", null ],
-    [ "EnterEvadeMode", "d6/d86/a16872.html#a4f45facb49cb5c1a8b0565e87dccf50e", null ],
-    [ "JustDied", "d6/d86/a16872.html#ac2653a5664c87045df16f2fdcf850edf", null ],
-    [ "JustEngagedWith", "d6/d86/a16872.html#a64f2b0426491f1471c8cf653e94a2fa2", null ],
-    [ "Reset", "d6/d86/a16872.html#a8333b3f2637f029de4182ca16e2fb634", null ],
-    [ "UpdateAI", "d6/d86/a16872.html#aea65a8fab859db4396690d846d10f5a1", null ],
-    [ "events", "d6/d86/a16872.html#a4e5c714486cdba1fc4a6db609d8b6a97", null ],
-    [ "pInstance", "d6/d86/a16872.html#a01cc3db24e03600501b9980aa966ad7d", null ]
+    [ "npc_phantom_mageAI", "d6/d86/a16872.html#ac919dc1ba167cc68714320f9351b99d0", null ],
+    [ "AttackStart", "d6/d86/a16872.html#ade9ba7071cff655f2c0133481cb9c2bc", null ],
+    [ "DoAction", "d6/d86/a16872.html#a6c66df8b8e59a9dc62f1f944da2afc2c", null ],
+    [ "EnterEvadeMode", "d6/d86/a16872.html#a6ca0be233e8866b6154fa6e7164b856d", null ],
+    [ "JustDied", "d6/d86/a16872.html#a3a522e4c741bc321469ed87c10cf7904", null ],
+    [ "JustEngagedWith", "d6/d86/a16872.html#a5a1bf4aaf716674a63e31d24ae4a5d7c", null ],
+    [ "Reset", "d6/d86/a16872.html#a5c29c8d54956a0917df3997118348590", null ],
+    [ "UpdateAI", "d6/d86/a16872.html#a7135acfbc36212306a68fc8b758e2881", null ],
+    [ "events", "d6/d86/a16872.html#afa0f0b5cac0759db324cea7c64463f75", null ]
 ];

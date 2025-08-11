@@ -1,6 +1,6 @@
 var a22032 =
 [
-    [ "npc_lord_areteAI", "d7/dbe/a22036.html", "d7/dbe/a22036" ],
-    [ "npc_lord_arete", "d0/dd9/a22032.html#a929e3f3346bf4dbaee127463eaf4ffcc", null ],
-    [ "GetAI", "d0/dd9/a22032.html#a212d003e9acb5f141197b5c4d10163a4", null ]
+    [ "npc_plaguehound_trackerAI", "d0/dd9/a22032.html#a7530f500b42ad9bb38593193d3113da8", null ],
+    [ "Reset", "d0/dd9/a22032.html#a05c351ab3aca0cd18209405075bb0f47", null ],
+    [ "WaypointReached", "d0/dd9/a22032.html#a67c345f49572cde76d9109a1baff6788", null ]
 ];

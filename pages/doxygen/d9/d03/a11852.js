@@ -1,6 +1,5 @@
 var a11852 =
 [
-    [ "npc_burning_spiritAI", "d4/d3b/a11856.html", "d4/d3b/a11856" ],
-    [ "npc_burning_spirit", "d9/d03/a11852.html#a596e654486c82d15d7a37b069a99856d", null ],
-    [ "GetAI", "d9/d03/a11852.html#a3c704a0856d669a1e684e5a858bc4334", null ]
+    [ "at_ring_of_law", "d9/d03/a11852.html#ad9bb44e898f90fb489b50cad0a711976", null ],
+    [ "OnTrigger", "d9/d03/a11852.html#a613471caae75ab3d82ce915101a20108", null ]
 ];

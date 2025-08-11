@@ -1,7 +1,10 @@
 var a26140 =
 [
-    [ "HandleProc", "dd/da5/a26140.html#a72463db57f87387aa3ff3175c45ca9df", null ],
-    [ "PrepareAuraScript", "dd/da5/a26140.html#ae158b4b624b50ad984b2c5e9c16d7670", null ],
-    [ "Register", "dd/da5/a26140.html#a2da64a27cfa5a68464f8f3a885e09751", null ],
-    [ "Validate", "dd/da5/a26140.html#a798f51ee6333d3ebb2bbb617ea88ea2b", null ]
+    [ "spell_pal_judgement", "dd/da5/a26140.html#a497aed8c1d8c6a2af22e9e8daae96e14", null ],
+    [ "HandleScriptEffect", "dd/da5/a26140.html#add419a824dbebdc168d2b6dc49d07913", null ],
+    [ "PrepareSpellScript", "dd/da5/a26140.html#a2cffed69c16a1a6189048ed52af35152", null ],
+    [ "Register", "dd/da5/a26140.html#ad8e65beb41a1bb41a2dd307f3b1da839", null ],
+    [ "SealApplication", "dd/da5/a26140.html#a0bb55f122d560c70f416e448d03d2184", null ],
+    [ "Validate", "dd/da5/a26140.html#a3971c195a279338253771675131b4802", null ],
+    [ "_spellId", "dd/da5/a26140.html#ad49ea02800078c672747f4fdbbab1d20", null ]
 ];

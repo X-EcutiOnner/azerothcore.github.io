@@ -1,6 +1,6 @@
 var a20028 =
 [
-    [ "boss_freya_elder_ironbranchAI", "da/ddb/a20032.html", "da/ddb/a20032" ],
-    [ "boss_freya_elder_ironbranch", "d0/d98/a20028.html#a066083e4d6fde6439f7dce80be209075", null ],
-    [ "GetAI", "d0/d98/a20028.html#a67f483d12fe801c1d840dd0f74396564", null ]
+    [ "achievement_flame_leviathan_towers", "d0/d98/a20028.html#a491d66bdd373b6044e406126719ef910", null ],
+    [ "OnCheck", "d0/d98/a20028.html#ad6e9dee3f05afaca0a355b714bf75ea6", null ],
+    [ "_towerCount", "d0/d98/a20028.html#a1099385340b30a1a75655e2e7d2ba3cc", null ]
 ];

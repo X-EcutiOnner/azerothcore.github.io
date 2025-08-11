@@ -1,5 +1,7 @@
 var a27144 =
 [
-    [ "go_mistwhisper_treasure", "d7/d19/a27144.html#a87c90caa9f6a628cb0eea3556b58449e", null ],
-    [ "OnGossipHello", "d7/d19/a27144.html#a03b6b19faba005ced7ff921fdf8ab493", null ]
+    [ "npc_spirit_shadeAI", "d7/d19/a27144.html#a8b7bf7c7cc541a47be79aad76a9bbcbc", null ],
+    [ "IsSummonedBy", "d7/d19/a27144.html#a3a7fcb4af8e3b27e06b4665e8a864b38", null ],
+    [ "MovementInform", "d7/d19/a27144.html#ab001fdc09efe9f8c03ad1b7610124e6d", null ],
+    [ "_summonerGuid", "d7/d19/a27144.html#aa7c6abb848ab37f407a3553d04d0ad81", null ]
 ];

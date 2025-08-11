@@ -1,6 +1,7 @@
 var a02360 =
 [
-    [ "trigger_periodic", "d5/db6/a27384.html", "d5/db6/a27384" ],
-    [ "trigger_periodic::trigger_periodicAI", "dc/da9/a27388.html", "dc/da9/a27388" ],
-    [ "AddSC_generic_creature", "d3/d35/a02360.html#a50f66c4d6429b38157e35a75a0daa31d", null ]
+    [ "instance_the_slave_pens", "d7/d93/a23352.html", "d7/d93/a23352" ],
+    [ "instance_the_slave_pens::instance_the_slave_pens_InstanceMapScript", "d8/de0/a23356.html", "d8/de0/a23356" ],
+    [ "AddSC_instance_the_slave_pens", "d3/d35/a02360.html#a41772e574e8da2d2009384c1f312ed92", null ],
+    [ "creatureData", "d3/d35/a02360.html#a412286b689bd324fedd65ddd8dde8afb", null ]
 ];

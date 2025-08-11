@@ -1,7 +1,10 @@
 var a21908 =
 [
-    [ "npc_amberpine_woodsmanAI", "d1/d75/a21908.html#aa0f37b54c5bfc2f923d09437b8b30424", null ],
-    [ "Reset", "d1/d75/a21908.html#a8da613c7bbaadf331c95667e7a361702", null ],
-    [ "UpdateAI", "d1/d75/a21908.html#a64dbf41424a710c400d51507f6457b41", null ],
-    [ "_events", "d1/d75/a21908.html#aac8cd045a5518e3eaa9c24e0fb83ddaa", null ]
+    [ "npc_emilyAI", "d1/d75/a21908.html#afd1e82e36c8850fbe118ab6abbdb73ce", null ],
+    [ "JustEngagedWith", "d1/d75/a21908.html#a498ddc6969d398fe7a44824f4f8c8893", null ],
+    [ "JustSummoned", "d1/d75/a21908.html#a4730c94b54d2ee5160011557704b35f2", null ],
+    [ "Reset", "d1/d75/a21908.html#a8f196a6e1b21bef162b7ba4d7aeae208", null ],
+    [ "WaypointReached", "d1/d75/a21908.html#a0a68676a6eac8fbe2b634098268eb516", null ],
+    [ "_mrfloppyGUID", "d1/d75/a21908.html#a12a1fbe1ef4767698ab969e51e2f0e8e", null ],
+    [ "_RavenousworgGUID", "d1/d75/a21908.html#aa2a5e45366be9f89221453e00179e1a3", null ]
 ];

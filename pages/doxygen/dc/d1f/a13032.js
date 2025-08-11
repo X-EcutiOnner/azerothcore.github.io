@@ -1,6 +1,7 @@
 var a13032 =
 [
-    [ "boss_kirtonos_the_heraldAI", "d0/d9e/a13036.html", "d0/d9e/a13036" ],
-    [ "boss_kirtonos_the_herald", "dc/d1f/a13032.html#a0e81153a0da7910cda4c9b6d32544318", null ],
-    [ "GetAI", "dc/d1f/a13032.html#aa5e0fe2386aae52fd53ff309282db652", null ]
+    [ "OnApply", "dc/d1f/a13032.html#a21450cd59487a927bbc0a5a5e1ffa72b", null ],
+    [ "OnRemove", "dc/d1f/a13032.html#a810203874163cf04798c3edbe69b747e", null ],
+    [ "PrepareAuraScript", "dc/d1f/a13032.html#a3c17a7366acd9bd1863bae0f9218930a", null ],
+    [ "Register", "dc/d1f/a13032.html#af2ad52165de188897fdeb8d62646b7cc", null ]
 ];

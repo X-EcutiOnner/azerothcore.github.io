@@ -1,6 +1,6 @@
 var a20068 =
 [
-    [ "boss_freya_nature_bombAI", "d7/d5a/a20072.html", "d7/d5a/a20072" ],
-    [ "boss_freya_nature_bomb", "dd/daf/a20068.html#a18fa6ff862a1b367ac23eb1b7bda0ed4", null ],
-    [ "GetAI", "dd/daf/a20068.html#a73e24282c6bb29cf3f6a7da14a4de582", null ]
+    [ "boss_freya_elder_ironbranchAI", "d7/d5a/a20072.html", "d7/d5a/a20072" ],
+    [ "boss_freya_elder_ironbranch", "dd/daf/a20068.html#a066083e4d6fde6439f7dce80be209075", null ],
+    [ "GetAI", "dd/daf/a20068.html#a67f483d12fe801c1d840dd0f74396564", null ]
 ];

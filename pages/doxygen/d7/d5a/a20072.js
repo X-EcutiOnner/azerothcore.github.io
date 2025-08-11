@@ -1,9 +1,10 @@
 var a20072 =
 [
-    [ "boss_freya_nature_bombAI", "d7/d5a/a20072.html#acbf4d330bb5bf4a032732895e8f7e35b", null ],
-    [ "Reset", "d7/d5a/a20072.html#a60738702870e2cacbcdf600e9e7073b5", null ],
-    [ "UpdateAI", "d7/d5a/a20072.html#a4bfa9df3e3151743485f59c4d318d7f9", null ],
-    [ "_explodeTimer", "d7/d5a/a20072.html#a2af9ed2067097eec2a647f17f8b1ef71", null ],
-    [ "_goGUID", "d7/d5a/a20072.html#a1a7579cc6957a52d65a1d302d5ba1da0", null ],
-    [ "Timer", "d7/d5a/a20072.html#a714a582c6ec552b969624244d709d14d", null ]
+    [ "boss_freya_elder_ironbranchAI", "d7/d5a/a20072.html#a4a7350a2bf7c813b1b18fe32566e4d56", null ],
+    [ "JustDied", "d7/d5a/a20072.html#aab878773508fcbb437661d316266b942", null ],
+    [ "JustEngagedWith", "d7/d5a/a20072.html#ab7b5df914ee5b22c25098c188306d123", null ],
+    [ "KilledUnit", "d7/d5a/a20072.html#a7dc8d3b497c2297b35f6aec70cc5447b", null ],
+    [ "Reset", "d7/d5a/a20072.html#afd87a8fc3ca55d1a91f4cc08b34095c8", null ],
+    [ "UpdateAI", "d7/d5a/a20072.html#a711cd2788bff7fbc648c039921297eac", null ],
+    [ "events", "d7/d5a/a20072.html#a88193ba77c8a0269a5b8bdc4f3dc96d2", null ]
 ];

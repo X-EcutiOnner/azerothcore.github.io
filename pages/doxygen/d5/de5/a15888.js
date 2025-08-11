@@ -1,6 +1,5 @@
 var a15888 =
 [
-    [ "boss_krik_thirAI", "d4/de5/a15892.html", "d4/de5/a15892" ],
-    [ "boss_krik_thir", "d5/de5/a15888.html#ab7001cd05e8e5e371cbd6ee2b25f3522", null ],
-    [ "GetAI", "d5/de5/a15888.html#a10e582440092d5c6558c2a11d60907aa", null ]
+    [ "PrepareAuraScript", "d5/de5/a15888.html#a94b3a8e0a610afa69c3a9771f8f22b13", null ],
+    [ "Register", "d5/de5/a15888.html#a1203cbec26f64aa97d10783b567c2d62", null ]
 ];

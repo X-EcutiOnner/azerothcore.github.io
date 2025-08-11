@@ -1,6 +1,6 @@
 var a18420 =
 [
-    [ "boss_valithria_dreamwalkerAI", "d8/ddb/a18424.html", "d8/ddb/a18424" ],
-    [ "boss_valithria_dreamwalker", "d6/dd0/a18420.html#afcc6dc92d94330d3aed67f71452f9cd2", null ],
-    [ "GetAI", "d6/dd0/a18420.html#a0f0bacefa7e3d682a5db81a14f2ff947", null ]
+    [ "ActivateSpirit", "d6/dd0/a18420.html#ae5c9f8e693a98c828e0e922870552952", null ],
+    [ "PrepareSpellScript", "d6/dd0/a18420.html#aa55f0fe4e27520b8a7ae1bb0f810838d", null ],
+    [ "Register", "d6/dd0/a18420.html#a2b1d27e93a879681098a83d17c4d686a", null ]
 ];

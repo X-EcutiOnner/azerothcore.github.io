@@ -1,7 +1,11 @@
 var a20908 =
 [
-    [ "OnApply", "d1/d03/a20908.html#a7dd5b6217db77373dfba5958a2376ff1", null ],
-    [ "OnRemove", "d1/d03/a20908.html#a39510971a0e1dbd800efc37c2e09c74f", null ],
-    [ "PrepareAuraScript", "d1/d03/a20908.html#a35c1e8f81229565e5d333ec42aa2e92c", null ],
-    [ "Register", "d1/d03/a20908.html#a27fdfe00e5201b6472a282f4589a66cc", null ]
+    [ "boss_yoggsaron_lich_kingAI", "d1/d03/a20908.html#a4fcf1be1bc20327ff8daf9c79baabde7", null ],
+    [ "NextStep", "d1/d03/a20908.html#a4f99e511d6296b56df8ab8fbe53620e6", null ],
+    [ "Reset", "d1/d03/a20908.html#a4c8f098f245e90685f0f3660028500a8", null ],
+    [ "Say", "d1/d03/a20908.html#a01217dd4c33b0ccae448aa137e83dd9b", null ],
+    [ "UpdateAI", "d1/d03/a20908.html#a3cbe18164c993fd034242b3f19d27e31", null ],
+    [ "_checkTimer", "d1/d03/a20908.html#a8f0234b32612ff56ac6a7429f6e4da09", null ],
+    [ "_running", "d1/d03/a20908.html#a9d7f0f2a8cf4f421253c8c5a6ec98111", null ],
+    [ "_step", "d1/d03/a20908.html#a6af98b3daace7852a485983167538f85", null ]
 ];

@@ -1,11 +1,11 @@
 var a15312 =
 [
-    [ "npc_stillpine_capitiveAI", "d4/d2f/a15312.html#a98560e7fc360dbfa3166805d9ab3feb4", null ],
-    [ "MovementInform", "d4/d2f/a15312.html#a1e930b49da85a64aa87ba79b5fe72391", null ],
-    [ "Reset", "d4/d2f/a15312.html#a9c884f892e64044057d477bdc0f89eed", null ],
-    [ "StartMoving", "d4/d2f/a15312.html#a2552a79cf384cca1203afa7f241c1cb9", null ],
-    [ "UpdateAI", "d4/d2f/a15312.html#a25dc06767382b5fee2a7098b58726fb2", null ],
-    [ "_events", "d4/d2f/a15312.html#a93dd55d392836d8d085e34293344b700", null ],
-    [ "_movementComplete", "d4/d2f/a15312.html#ae8e39ca782aee412e39d65a33d14014e", null ],
-    [ "_playerGUID", "d4/d2f/a15312.html#a3fe9a4f01aebb602095d60eb606ce763", null ]
+    [ "npc_depth_chargeAI", "d4/d2f/a15312.html#a088848c16418964973107e125c20f508", null ],
+    [ "AttackStart", "d4/d2f/a15312.html#a1ec6e2ea0cc61262932f63f764273cdb", null ],
+    [ "JustEngagedWith", "d4/d2f/a15312.html#a90cc6eab8b63588f2567f59941eafc59", null ],
+    [ "MoveInLineOfSight", "d4/d2f/a15312.html#a8342b7fc7677ac94757c725ec4063e9e", null ],
+    [ "Reset", "d4/d2f/a15312.html#aaccf632a50749c0f6d6f29bb1b1bf5a4", null ],
+    [ "UpdateAI", "d4/d2f/a15312.html#af34e55c3aee40f840edf695adc06495e", null ],
+    [ "WeMustDie", "d4/d2f/a15312.html#a7b25b1228cf5029f1ebe653c76cf9843", null ],
+    [ "WeMustDieTimer", "d4/d2f/a15312.html#a23e4f1f7079d12e78c74c21171d95cc7", null ]
 ];

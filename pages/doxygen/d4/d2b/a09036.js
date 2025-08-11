@@ -1,7 +1,8 @@
 var a09036 =
 [
-    [ "GetAntiDosPolicyForOpcode", "d4/d2b/a09036.html#a9bbbc92f18c1c34c3359d0cad4299c2d", null ],
-    [ "instance", "d4/d2b/a09036.html#a859596f153aa470fa503f67092e26160", null ],
-    [ "LoadAntiDosOpcodePolicies", "d4/d2b/a09036.html#a9bd2c1a1ce11d9a50971d169a353e7f6", null ],
-    [ "_antiDosOpcodePolicies", "d4/d2b/a09036.html#acb7a5639f7ba378483e50aba8e93d68a", null ]
+    [ "DungeonEncounter", "d4/d2b/a09036.html#a3e48a996a47ddcc1b18aaac339457f3d", null ],
+    [ "creditEntry", "d4/d2b/a09036.html#a700a0792973678339f33ab85e7396918", null ],
+    [ "creditType", "d4/d2b/a09036.html#a66a077e193f099bb7aef363dc75672d6", null ],
+    [ "dbcEntry", "d4/d2b/a09036.html#a262bdd0ba443739456fc14bcad83ecda", null ],
+    [ "lastEncounterDungeon", "d4/d2b/a09036.html#a67e29b891887e339dbb40515d082e781", null ]
 ];

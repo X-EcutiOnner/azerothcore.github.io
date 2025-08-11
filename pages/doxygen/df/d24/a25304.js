@@ -1,6 +1,5 @@
 var a25304 =
 [
-    [ "OnProc", "df/d24/a25304.html#ac7f0a86f2d0c5dcb945eb7ccb9cd5c88", null ],
-    [ "PrepareAuraScript", "df/d24/a25304.html#a6a7b011f151ff81672221b84eb4456b8", null ],
-    [ "Register", "df/d24/a25304.html#a15b05d352f94d2aabeb75a6bfd996fc6", null ]
+    [ "PrepareSpellScript", "df/d24/a25304.html#a5e100554f868649d4edea011fe767b8b", null ],
+    [ "Register", "df/d24/a25304.html#a0ffb1cb313060770227621edb16c3a0d", null ]
 ];

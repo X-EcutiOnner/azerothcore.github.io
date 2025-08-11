@@ -1,7 +1,7 @@
 var a22964 =
 [
-    [ "Absorb", "d0/d6d/a22964.html#a227cf7329d7dee564c3f8f9f67378ffe", null ],
-    [ "HandleEffectRemove", "d0/d6d/a22964.html#a3d4026e5208acb948c089a4bedba0de8", null ],
-    [ "PrepareAuraScript", "d0/d6d/a22964.html#af66dc1cba6aa7511c11a071ea9a381bb", null ],
-    [ "Register", "d0/d6d/a22964.html#a983cf678001efcbccc4b34a9ad919881", null ]
+    [ "npc_ashtongue_channeler", "d0/d6d/a22964.html#af7217d00f87e56e5cdb411fcad161b51", null ],
+    [ "Reset", "d0/d6d/a22964.html#ab935559c19b18f9c94dd36c85be5b3b2", null ],
+    [ "UpdateAI", "d0/d6d/a22964.html#af855dfa521404c4e6127a9bf12a75604", null ],
+    [ "scheduler", "d0/d6d/a22964.html#a4f58bbd2c44f7a3f9835fd55408ffaf4", null ]
 ];

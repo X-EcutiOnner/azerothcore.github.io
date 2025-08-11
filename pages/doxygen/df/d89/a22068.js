@@ -1,7 +1,9 @@
 var a22068 =
 [
-    [ "HandleDummy", "df/d89/a22068.html#a85874062bceced2694fff725649df892", null ],
-    [ "PrepareSpellScript", "df/d89/a22068.html#a47bae4bdc488480f91517465d8e1b784", null ],
-    [ "Register", "df/d89/a22068.html#a7131340678ca685db98e2087661321a9", null ],
-    [ "Validate", "df/d89/a22068.html#af1b74ceee10fc48a0b85d4a284103950", null ]
+    [ "npc_lord_areteAI", "df/d89/a22068.html#aebdbf8f4c2fe6948c78315e6b404119b", null ],
+    [ "InitializeAI", "df/d89/a22068.html#a22d0c3e2445bff2d742b28bd99f37394", null ],
+    [ "UpdateAI", "df/d89/a22068.html#a5cba8d4429ae191dd5b90ca5a4fe2866", null ],
+    [ "_landgrenGUID", "df/d89/a22068.html#ac0e3753096dfe779024acc8400791171", null ],
+    [ "_landgrenSoulGUID", "df/d89/a22068.html#aaa28c67691610136f0b418b30892f3cd", null ],
+    [ "events", "df/d89/a22068.html#ae4ec90b30320cf0aeaec4415c4125605", null ]
 ];

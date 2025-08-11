@@ -1,9 +1,6 @@
 var a18756 =
 [
-    [ "npc_icc_skybreaker_vicarAI", "d5/d41/a18756.html#ae74a306850b328f536b55e5c24c040ab", null ],
-    [ "AttackStart", "d5/d41/a18756.html#a52b753e1f599eb02385d980a78cd3c78", null ],
-    [ "JustEngagedWith", "d5/d41/a18756.html#afdb4215cd0578de7342b152783666ed6", null ],
-    [ "Reset", "d5/d41/a18756.html#aeb11687534fa7c1e76ea22cc07deb73d", null ],
-    [ "UpdateAI", "d5/d41/a18756.html#af1726169fe63eb3ff1ed95eb0e10d2f0", null ],
-    [ "events", "d5/d41/a18756.html#a711d9571b4edb87f77eeebbd12e248b3", null ]
+    [ "HandleScript", "d5/d41/a18756.html#a33f15ecf0c0ff013d03742cb2130f372", null ],
+    [ "PrepareSpellScript", "d5/d41/a18756.html#ab3a832cf53f4438db0d9e58b89c0ef7f", null ],
+    [ "Register", "d5/d41/a18756.html#ad0c6d34103244cded41481c745dafe58", null ]
 ];

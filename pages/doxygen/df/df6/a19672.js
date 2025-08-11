@@ -1,11 +1,6 @@
 var a19672 =
 [
-    [ "npc_living_constellationAI", "df/df6/a19672.html#a54f4e946fad895bca07a59f4e00d10a5", null ],
-    [ "DoAction", "df/df6/a19672.html#acdc93a7dc3019940d730fa20d115a929", null ],
-    [ "GetData", "df/df6/a19672.html#acb5cc31d7a084e82d8bde3852f9668dd", null ],
-    [ "Reset", "df/df6/a19672.html#a664b03bdaea184ab8dd8298ed9952790", null ],
-    [ "SpellHit", "df/df6/a19672.html#a4c83ef2d5fe161a90d465a8fbd7eb4f8", null ],
-    [ "UpdateAI", "df/df6/a19672.html#ad5b23c3db46b455c9321e7fb29b88572", null ],
-    [ "_isActive", "df/df6/a19672.html#a786d2d05f83e59dd0da34f44037bdd35", null ],
-    [ "events", "df/df6/a19672.html#a679c9fe1ed357b7c7e1ed1fac01ef8d3", null ]
+    [ "instance_halls_of_stone_InstanceMapScript", "d2/dc5/a19676.html", "d2/dc5/a19676" ],
+    [ "instance_halls_of_stone", "df/df6/a19672.html#ad0237cfaf2e48036f45181fd7746df2b", null ],
+    [ "GetInstanceScript", "df/df6/a19672.html#a784906c7710a216016101cf7a6a915f3", null ]
 ];

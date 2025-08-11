@@ -1,8 +1,6 @@
 var a22248 =
 [
-    [ "AfterRemove", "dd/d40/a22248.html#a06fd72c7754f34dbc62a99a9ed839302", null ],
-    [ "HandlePeriodic", "dd/d40/a22248.html#a5aaadeed42e6a3cf1e2216a13c2d3ff9", null ],
-    [ "OnApply", "dd/d40/a22248.html#a6617555d302923e5e95e7b1c6d8d74d6", null ],
-    [ "PrepareAuraScript", "dd/d40/a22248.html#a47a6281c42dc9368357cc86912331c77", null ],
-    [ "Register", "dd/d40/a22248.html#a868c79cda98b97b27b74d46f86cb980a", null ]
+    [ "npc_frosthoundAI", "dd/dbc/a22252.html", "dd/dbc/a22252" ],
+    [ "npc_frosthound", "dd/d40/a22248.html#a3266f5186d1db0c010f586d3272725a6", null ],
+    [ "GetAI", "dd/d40/a22248.html#a49cd41753c715f166fc903df9dcfdd6b", null ]
 ];

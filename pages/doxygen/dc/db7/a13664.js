@@ -1,6 +1,6 @@
 var a13664 =
 [
-    [ "npc_parqual_fintallas", "dc/db7/a13664.html#a9edaf1f7cf4e81ce24c54faa4aed6cf6", null ],
-    [ "OnGossipHello", "dc/db7/a13664.html#af7c1f119d91aa63ee96765f2092b0a6c", null ],
-    [ "OnGossipSelect", "dc/db7/a13664.html#a39276ef82ec5214a1727ebd60235a506", null ]
+    [ "npc_marzon_silent_bladeAI", "d5/d20/a13668.html", "d5/d20/a13668" ],
+    [ "npc_marzon_silent_blade", "dc/db7/a13664.html#a8fa1c0e11555df45005f37fd9de7f3a8", null ],
+    [ "GetAI", "dc/db7/a13664.html#aadde9b84b46c594e41ae8ca3ae0265a1", null ]
 ];

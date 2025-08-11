@@ -1,6 +1,6 @@
 var a20012 =
 [
-    [ "boss_freya_elder_stonebarkAI", "d2/db4/a20016.html", "d2/db4/a20016" ],
-    [ "boss_freya_elder_stonebark", "de/d2f/a20012.html#a9c90c504d78456580ae657a42fac4075", null ],
-    [ "GetAI", "de/d2f/a20012.html#a0b529bb8755c56046c40b620ef4b7448", null ]
+    [ "PrepareSpellScript", "de/d2f/a20012.html#a7eeb4e2b9c3bb6e7d02d6a5acf8e1d52", null ],
+    [ "RecalculateDamage", "de/d2f/a20012.html#a094a21cf3cf109e704d3e334ad7dbad1", null ],
+    [ "Register", "de/d2f/a20012.html#af2b5382122be41a6b1ee4ab721b417da", null ]
 ];

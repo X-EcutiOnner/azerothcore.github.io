@@ -1,8 +1,6 @@
 var a17612 =
 [
-    [ "Load", "d1/d59/a17612.html#a363d0afcf2f79b8219652de5a3a6d466", null ],
-    [ "PrepareSpellScript", "d1/d59/a17612.html#a8df1abd311a1c32cd6ed296d75566eac", null ],
-    [ "Register", "d1/d59/a17612.html#a61e8f66c7446e0587b5d743f0e6ead92", null ],
-    [ "RelocateDest", "d1/d59/a17612.html#abad4acee4c0898fea6bfb57b8155cab2", null ],
-    [ "SelectTransport", "d1/d59/a17612.html#a0564852176d80ee6593baa3abb18238a", null ]
+    [ "npc_gunship_mageAI", "d9/d4d/a17616.html", "d9/d4d/a17616" ],
+    [ "npc_gunship_mage", "d1/d59/a17612.html#a52c7a072bd1426a1c22da84aa0640bca", null ],
+    [ "GetAI", "d1/d59/a17612.html#a9a0bc091a6cf8bbc7d17cf3d3172e6ff", null ]
 ];

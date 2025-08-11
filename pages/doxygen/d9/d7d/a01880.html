@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/World/World.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/game/Events/GameEventMgr.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,122 +106,228 @@ $(document).ready(function(){initNavTree('d9/d7d/a01880.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#namespaces">Namespaces</a> &#124;
-<a href="#func-members">Functions</a> &#124;
-<a href="#var-members">Variables</a>  </div>
-  <div class="headertitle"><div class="title">World.cpp File Reference<div class="ingroups"><a class="el" href="../../d8/def/a04771.html">The World</a></div></div></div>
+<a href="#define-members">Macros</a> &#124;
+<a href="#typedef-members">Typedefs</a> &#124;
+<a href="#enum-members">Enumerations</a> &#124;
+<a href="#func-members">Functions</a>  </div>
+  <div class="headertitle"><div class="title">GameEventMgr.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">World.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">AccountMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">AchievementMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">AddonMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ArenaTeamMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ArenaSeasonMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">AuctionHouseMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">AutobroadcastMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">BattlefieldMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">BattlegroundMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">CalendarMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Channel.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ChannelMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">CharacterDatabaseCleaner.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Chat.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ChatPackets.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Common.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ConditionMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Config.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">CreatureAIRegistry.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">CreatureGroups.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">CreatureTextMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">DBCStores.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">DatabaseEnv.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">DisableMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">DynamicVisibility.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">GameEventMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">GameGraveyard.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">GameTime.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">GitRevision.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">GridNotifiersImpl.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">GroupMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">GuildMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">IPLocation.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">InstanceSaveMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ItemEnchantmentMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">LFGMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Log.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">LootItemStorage.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">LootMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">M2Stores.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">MMapFactory.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">MapMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Metric.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">MotdMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ObjectMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Opcodes.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">OutdoorPvPMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">PetitionMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">PlayerDump.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">PoolMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Realm.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ScriptMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ServerMailMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SkillDiscovery.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SkillExtraItems.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SmartAI.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SpellMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">TaskScheduler.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">TicketMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Transport.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">TransportMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">UpdateTime.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Util.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">VMapFactory.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">VMapMgr2.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Warden.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">WardenCheckMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">WaypointMovementGenerator.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">WeatherMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">WhoListCacheMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">WorldGlobals.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">WorldPacket.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">WorldSession.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">WorldSessionMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">WorldState.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">WorldStateDefines.h</a>&quot;</code><br />
-<code>#include &lt;boost/asio/ip/address.hpp&gt;</code><br />
-<code>#include &lt;cmath&gt;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">Common.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ObjectGuid.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">SharedDefines.h</a>&quot;</code><br />
+<code>#include &lt;map&gt;</code><br />
+<code>#include &lt;unordered_map&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/df7/a11542.html">Acore::WorldWorldTextBuilder</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d72/a08812.html">GameEventFinishCondition</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d1d/a08816.html">GameEventQuestToEventConditionNum</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d8b/a08820.html">GameEventData</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dcc/a08824.html">ModelEquip</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d6e/a08828.html">NPCVendorEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d14/a08832.html">GameEventMgr</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
-Namespaces</h2></td></tr>
-<tr class="memitem:db/d2a/a04776"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d2a/a04776.html">Acore</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
+Macros</h2></td></tr>
+<tr class="memitem:adaa73d920934a951856f7ce003ce2342"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d7d/a01880.html#adaa73d920934a951856f7ce003ce2342">max_ge_check_delay</a>&#160;&#160;&#160;<a class="el" href="../../da/d71/a04649.html#a219e927a5d306db9cd363487d1f94366">DAY</a></td></tr>
+<tr class="separator:adaa73d920934a951856f7ce003ce2342"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3c1c916d94272dfe845b9cc5e8fc292a"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d7d/a01880.html#a3c1c916d94272dfe845b9cc5e8fc292a">sGameEventMgr</a>&#160;&#160;&#160;<a class="el" href="../../d3/d14/a08832.html#a05276e1cc9758c37008cfafe14dec717">GameEventMgr::instance</a>()</td></tr>
+<tr class="separator:a3c1c916d94272dfe845b9cc5e8fc292a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="typedef-members" name="typedef-members"></a>
+Typedefs</h2></td></tr>
+<tr class="memitem:ac4262be385ac879bb433e00533d835c0"><td class="memItemLeft" align="right" valign="top">typedef std::map&lt; <a class="el" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../da/d72/a08812.html">GameEventFinishCondition</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d7d/a01880.html#ac4262be385ac879bb433e00533d835c0">GameEventConditionMap</a></td></tr>
+<tr class="separator:ac4262be385ac879bb433e00533d835c0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
+Enumerations</h2></td></tr>
+<tr class="memitem:aeb9f2334f35e9f2b2fd8c2ac5630e3b5"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d7d/a01880.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5">GameEventState</a> { <br />
+&#160;&#160;<a class="el" href="../../d9/d7d/a01880.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5a0951d2c0686f93e6e7d0e002b4521921">GAMEEVENT_NORMAL</a> = 0
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d7d/a01880.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5ac5c7f13cfd107dd2d1efb99ce8dd5136">GAMEEVENT_WORLD_INACTIVE</a> = 1
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d7d/a01880.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5a627f133a79fe9018b98ee3646e334ff7">GAMEEVENT_WORLD_CONDITIONS</a> = 2
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d7d/a01880.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5aa9ecd88c85a086ee5273110051a00bc0">GAMEEVENT_WORLD_NEXTPHASE</a> = 3
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d7d/a01880.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5a50f420580ff8bcf744a958e2613085bf">GAMEEVENT_WORLD_FINISHED</a> = 4
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d7d/a01880.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5a2612ea68e0c9d21dae1af2e9ac04bc81">GAMEEVENT_INTERNAL</a> = 5
+<br />
+ }</td></tr>
+<tr class="separator:aeb9f2334f35e9f2b2fd8c2ac5630e3b5"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:ga6bf640d0ef6703c32d9fa1618826319b"><td class="memItemLeft" align="right" valign="top">std::unique_ptr&lt; <a class="el" href="../../dd/d35/a11538.html">IWorld</a> &gt; &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/def/a04771.html#ga6bf640d0ef6703c32d9fa1618826319b">getWorldInstance</a> ()</td></tr>
-<tr class="separator:ga6bf640d0ef6703c32d9fa1618826319b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
-Variables</h2></td></tr>
-<tr class="memitem:gab842e78f86995775c494437356620779"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/dae/a28538.html">Realm</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/def/a04771.html#gab842e78f86995775c494437356620779">realm</a></td></tr>
-<tr class="separator:gab842e78f86995775c494437356620779"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a429db26781d2673aa2f031fc1327ffaf"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d7d/a01880.html#a429db26781d2673aa2f031fc1327ffaf">IsHolidayActive</a> (<a class="el" href="../../db/dd9/a00179.html#ad279224fea61f9754572051fc5ff1fab">HolidayIds</a> id)</td></tr>
+<tr class="separator:a429db26781d2673aa2f031fc1327ffaf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad54f33b2e05154d9c2a384ff579b9208"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d7d/a01880.html#ad54f33b2e05154d9c2a384ff579b9208">IsEventActive</a> (<a class="el" href="../../d2/d27/a04301.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> eventId)</td></tr>
+<tr class="separator:ad54f33b2e05154d9c2a384ff579b9208"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
+<h2 class="groupheader">Macro Definition Documentation</h2>
+<a id="adaa73d920934a951856f7ce003ce2342" name="adaa73d920934a951856f7ce003ce2342"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adaa73d920934a951856f7ce003ce2342">&#9670;&#160;</a></span>max_ge_check_delay</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define max_ge_check_delay&#160;&#160;&#160;<a class="el" href="../../da/d71/a04649.html#a219e927a5d306db9cd363487d1f94366">DAY</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a3c1c916d94272dfe845b9cc5e8fc292a" name="a3c1c916d94272dfe845b9cc5e8fc292a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3c1c916d94272dfe845b9cc5e8fc292a">&#9670;&#160;</a></span>sGameEventMgr</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define sGameEventMgr&#160;&#160;&#160;<a class="el" href="../../d3/d14/a08832.html#a05276e1cc9758c37008cfafe14dec717">GameEventMgr::instance</a>()</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<h2 class="groupheader">Typedef Documentation</h2>
+<a id="ac4262be385ac879bb433e00533d835c0" name="ac4262be385ac879bb433e00533d835c0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac4262be385ac879bb433e00533d835c0">&#9670;&#160;</a></span>GameEventConditionMap</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">typedef std::map&lt;<a class="el" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> , <a class="el" href="../../da/d72/a08812.html">GameEventFinishCondition</a>&gt; <a class="el" href="../../d9/d7d/a01880.html#ac4262be385ac879bb433e00533d835c0">GameEventConditionMap</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<h2 class="groupheader">Enumeration Type Documentation</h2>
+<a id="aeb9f2334f35e9f2b2fd8c2ac5630e3b5" name="aeb9f2334f35e9f2b2fd8c2ac5630e3b5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aeb9f2334f35e9f2b2fd8c2ac5630e3b5">&#9670;&#160;</a></span>GameEventState</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../d9/d7d/a01880.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5">GameEventState</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="aeb9f2334f35e9f2b2fd8c2ac5630e3b5a0951d2c0686f93e6e7d0e002b4521921" name="aeb9f2334f35e9f2b2fd8c2ac5630e3b5a0951d2c0686f93e6e7d0e002b4521921"></a>GAMEEVENT_NORMAL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aeb9f2334f35e9f2b2fd8c2ac5630e3b5ac5c7f13cfd107dd2d1efb99ce8dd5136" name="aeb9f2334f35e9f2b2fd8c2ac5630e3b5ac5c7f13cfd107dd2d1efb99ce8dd5136"></a>GAMEEVENT_WORLD_INACTIVE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aeb9f2334f35e9f2b2fd8c2ac5630e3b5a627f133a79fe9018b98ee3646e334ff7" name="aeb9f2334f35e9f2b2fd8c2ac5630e3b5a627f133a79fe9018b98ee3646e334ff7"></a>GAMEEVENT_WORLD_CONDITIONS&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aeb9f2334f35e9f2b2fd8c2ac5630e3b5aa9ecd88c85a086ee5273110051a00bc0" name="aeb9f2334f35e9f2b2fd8c2ac5630e3b5aa9ecd88c85a086ee5273110051a00bc0"></a>GAMEEVENT_WORLD_NEXTPHASE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aeb9f2334f35e9f2b2fd8c2ac5630e3b5a50f420580ff8bcf744a958e2613085bf" name="aeb9f2334f35e9f2b2fd8c2ac5630e3b5a50f420580ff8bcf744a958e2613085bf"></a>GAMEEVENT_WORLD_FINISHED&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aeb9f2334f35e9f2b2fd8c2ac5630e3b5a2612ea68e0c9d21dae1af2e9ac04bc81" name="aeb9f2334f35e9f2b2fd8c2ac5630e3b5a2612ea68e0c9d21dae1af2e9ac04bc81"></a>GAMEEVENT_INTERNAL&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">   30</span>{</div>
+<div class="line"><span class="lineno">   31</span>    <a class="code hl_enumvalue" href="../../d9/d7d/a01880.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5a0951d2c0686f93e6e7d0e002b4521921">GAMEEVENT_NORMAL</a>            = 0,    <span class="comment">// standard game events</span></div>
+<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../d9/d7d/a01880.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5ac5c7f13cfd107dd2d1efb99ce8dd5136">GAMEEVENT_WORLD_INACTIVE</a>    = 1,    <span class="comment">// not yet started</span></div>
+<div class="line"><span class="lineno">   33</span>    <a class="code hl_enumvalue" href="../../d9/d7d/a01880.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5a627f133a79fe9018b98ee3646e334ff7">GAMEEVENT_WORLD_CONDITIONS</a>  = 2,    <span class="comment">// condition matching phase</span></div>
+<div class="line"><span class="lineno">   34</span>    <a class="code hl_enumvalue" href="../../d9/d7d/a01880.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5aa9ecd88c85a086ee5273110051a00bc0">GAMEEVENT_WORLD_NEXTPHASE</a>   = 3,    <span class="comment">// conditions are met, now &#39;length&#39; timer to start next event</span></div>
+<div class="line"><span class="lineno">   35</span>    <a class="code hl_enumvalue" href="../../d9/d7d/a01880.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5a50f420580ff8bcf744a958e2613085bf">GAMEEVENT_WORLD_FINISHED</a>    = 4,    <span class="comment">// next events are started, unapply this one</span></div>
+<div class="line"><span class="lineno">   36</span>    <a class="code hl_enumvalue" href="../../d9/d7d/a01880.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5a2612ea68e0c9d21dae1af2e9ac04bc81">GAMEEVENT_INTERNAL</a>          = 5,    <span class="comment">// never handled in update</span></div>
+<div class="line"><span class="lineno">   37</span>};</div>
+<div class="ttc" id="aa01880_html_aeb9f2334f35e9f2b2fd8c2ac5630e3b5a0951d2c0686f93e6e7d0e002b4521921"><div class="ttname"><a href="../../d9/d7d/a01880.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5a0951d2c0686f93e6e7d0e002b4521921">GAMEEVENT_NORMAL</a></div><div class="ttdeci">@ GAMEEVENT_NORMAL</div><div class="ttdef"><b>Definition:</b> GameEventMgr.h:31</div></div>
+<div class="ttc" id="aa01880_html_aeb9f2334f35e9f2b2fd8c2ac5630e3b5a2612ea68e0c9d21dae1af2e9ac04bc81"><div class="ttname"><a href="../../d9/d7d/a01880.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5a2612ea68e0c9d21dae1af2e9ac04bc81">GAMEEVENT_INTERNAL</a></div><div class="ttdeci">@ GAMEEVENT_INTERNAL</div><div class="ttdef"><b>Definition:</b> GameEventMgr.h:36</div></div>
+<div class="ttc" id="aa01880_html_aeb9f2334f35e9f2b2fd8c2ac5630e3b5a50f420580ff8bcf744a958e2613085bf"><div class="ttname"><a href="../../d9/d7d/a01880.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5a50f420580ff8bcf744a958e2613085bf">GAMEEVENT_WORLD_FINISHED</a></div><div class="ttdeci">@ GAMEEVENT_WORLD_FINISHED</div><div class="ttdef"><b>Definition:</b> GameEventMgr.h:35</div></div>
+<div class="ttc" id="aa01880_html_aeb9f2334f35e9f2b2fd8c2ac5630e3b5a627f133a79fe9018b98ee3646e334ff7"><div class="ttname"><a href="../../d9/d7d/a01880.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5a627f133a79fe9018b98ee3646e334ff7">GAMEEVENT_WORLD_CONDITIONS</a></div><div class="ttdeci">@ GAMEEVENT_WORLD_CONDITIONS</div><div class="ttdef"><b>Definition:</b> GameEventMgr.h:33</div></div>
+<div class="ttc" id="aa01880_html_aeb9f2334f35e9f2b2fd8c2ac5630e3b5aa9ecd88c85a086ee5273110051a00bc0"><div class="ttname"><a href="../../d9/d7d/a01880.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5aa9ecd88c85a086ee5273110051a00bc0">GAMEEVENT_WORLD_NEXTPHASE</a></div><div class="ttdeci">@ GAMEEVENT_WORLD_NEXTPHASE</div><div class="ttdef"><b>Definition:</b> GameEventMgr.h:34</div></div>
+<div class="ttc" id="aa01880_html_aeb9f2334f35e9f2b2fd8c2ac5630e3b5ac5c7f13cfd107dd2d1efb99ce8dd5136"><div class="ttname"><a href="../../d9/d7d/a01880.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5ac5c7f13cfd107dd2d1efb99ce8dd5136">GAMEEVENT_WORLD_INACTIVE</a></div><div class="ttdeci">@ GAMEEVENT_WORLD_INACTIVE</div><div class="ttdef"><b>Definition:</b> GameEventMgr.h:32</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<h2 class="groupheader">Function Documentation</h2>
+<a id="ad54f33b2e05154d9c2a384ff579b9208" name="ad54f33b2e05154d9c2a384ff579b9208"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad54f33b2e05154d9c2a384ff579b9208">&#9670;&#160;</a></span>IsEventActive()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool IsEventActive </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d2/d27/a04301.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td>
+          <td class="paramname"><em>eventId</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno"> 1966</span>{</div>
+<div class="line"><span class="lineno"> 1967</span>    <a class="code hl_typedef" href="../../d3/d14/a08832.html#a9d1e67f8edbe01fedd10c5fb0aeac2cf">GameEventMgr::ActiveEvents</a> <span class="keyword">const</span>&amp; ae = <a class="code hl_define" href="../../d9/d7d/a01880.html#a3c1c916d94272dfe845b9cc5e8fc292a">sGameEventMgr</a>-&gt;GetActiveEventList();</div>
+<div class="line"><span class="lineno"> 1968</span>    <span class="keywordflow">return</span> ae.find(eventId) != ae.end();</div>
+<div class="line"><span class="lineno"> 1969</span>}</div>
+<div class="ttc" id="aa01880_html_a3c1c916d94272dfe845b9cc5e8fc292a"><div class="ttname"><a href="../../d9/d7d/a01880.html#a3c1c916d94272dfe845b9cc5e8fc292a">sGameEventMgr</a></div><div class="ttdeci">#define sGameEventMgr</div><div class="ttdef"><b>Definition:</b> GameEventMgr.h:201</div></div>
+<div class="ttc" id="aa08832_html_a9d1e67f8edbe01fedd10c5fb0aeac2cf"><div class="ttname"><a href="../../d3/d14/a08832.html#a9d1e67f8edbe01fedd10c5fb0aeac2cf">GameEventMgr::ActiveEvents</a></div><div class="ttdeci">std::set&lt; uint16 &gt; ActiveEvents</div><div class="ttdef"><b>Definition:</b> GameEventMgr.h:106</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00201">sGameEventMgr</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l15749">Player::_LoadBrewOfTheMonth()</a>, <a class="el" href="../../#l00831">Battleground::EndBattleground()</a>, <a class="el" href="../../#l00239">GameEventMgr::LoadEventVendors()</a>, <a class="el" href="../../#l00036">npc_innkeeper::OnGossipHello()</a>, and <a class="el" href="../../#l00063">npc_innkeeper::OnGossipSelect()</a>.</p>
+
+</div>
+</div>
+<a id="a429db26781d2673aa2f031fc1327ffaf" name="a429db26781d2673aa2f031fc1327ffaf"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a429db26781d2673aa2f031fc1327ffaf">&#9670;&#160;</a></span>IsHolidayActive()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool IsHolidayActive </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../db/dd9/a00179.html#ad279224fea61f9754572051fc5ff1fab">HolidayIds</a>&#160;</td>
+          <td class="paramname"><em>id</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno"> 1951</span>{</div>
+<div class="line"><span class="lineno"> 1952</span>    <span class="keywordflow">if</span> (<span class="keywordtype">id</span> == <a class="code hl_enumvalue" href="../../db/dd9/a00179.html#ad279224fea61f9754572051fc5ff1faba28168544ac4271e71835f87f564500f7">HOLIDAY_NONE</a>)</div>
+<div class="line"><span class="lineno"> 1953</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 1954</span> </div>
+<div class="line"><span class="lineno"> 1955</span>    <a class="code hl_typedef" href="../../d3/d14/a08832.html#a2d313485105c8ef04b27833f312a2601">GameEventMgr::GameEventDataMap</a> <span class="keyword">const</span>&amp; <a class="code hl_enumeration" href="../../d0/df8/a02717.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a> = <a class="code hl_define" href="../../d9/d7d/a01880.html#a3c1c916d94272dfe845b9cc5e8fc292a">sGameEventMgr</a>-&gt;GetEventMap();</div>
+<div class="line"><span class="lineno"> 1956</span>    <a class="code hl_typedef" href="../../d3/d14/a08832.html#a9d1e67f8edbe01fedd10c5fb0aeac2cf">GameEventMgr::ActiveEvents</a> <span class="keyword">const</span>&amp; ae = <a class="code hl_define" href="../../d9/d7d/a01880.html#a3c1c916d94272dfe845b9cc5e8fc292a">sGameEventMgr</a>-&gt;GetActiveEventList();</div>
+<div class="line"><span class="lineno"> 1957</span> </div>
+<div class="line"><span class="lineno"> 1958</span>    <span class="keywordflow">for</span> (GameEventMgr::ActiveEvents::const_iterator itr = ae.begin(); itr != ae.end(); ++itr)</div>
+<div class="line"><span class="lineno"> 1959</span>        <span class="keywordflow">if</span> (<a class="code hl_enumeration" href="../../d0/df8/a02717.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>[*itr].HolidayId == <span class="keywordtype">id</span>)</div>
+<div class="line"><span class="lineno"> 1960</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno"> 1961</span> </div>
+<div class="line"><span class="lineno"> 1962</span>    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 1963</span>}</div>
+<div class="ttc" id="aa00179_html_ad279224fea61f9754572051fc5ff1faba28168544ac4271e71835f87f564500f7"><div class="ttname"><a href="../../db/dd9/a00179.html#ad279224fea61f9754572051fc5ff1faba28168544ac4271e71835f87f564500f7">HOLIDAY_NONE</a></div><div class="ttdeci">@ HOLIDAY_NONE</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:2981</div></div>
+<div class="ttc" id="aa02717_html_ad29858f6d8ab73f2970f41cb21a76b84"><div class="ttname"><a href="../../d0/df8/a02717.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a></div><div class="ttdeci">events</div><div class="ttdef"><b>Definition:</b> boss_sartura.cpp:43</div></div>
+<div class="ttc" id="aa08832_html_a2d313485105c8ef04b27833f312a2601"><div class="ttname"><a href="../../d3/d14/a08832.html#a2d313485105c8ef04b27833f312a2601">GameEventMgr::GameEventDataMap</a></div><div class="ttdeci">std::vector&lt; GameEventData &gt; GameEventDataMap</div><div class="ttdef"><b>Definition:</b> GameEventMgr.h:107</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l02981">HOLIDAY_NONE</a>, and <a class="el" href="../../#l00201">sGameEventMgr</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l02275">Player::CanUseItem()</a>, <a class="el" href="../../#l00910">BattlegroundMgr::IsBGWeekend()</a>, <a class="el" href="../../#l02748">lfg::LFGMgr::IsSeasonActive()</a>, <a class="el" href="../../#l00301">AchievementCriteriaData::Meets()</a>, <a class="el" href="../../#l00180">npc_midsummer_bonfire::npc_midsummer_bonfire()</a>, <a class="el" href="../../#l00431">spell_bonfires_blessing::OnApply()</a>, <a class="el" href="../../#l00157">MidsummerPlayerScript::OnPlayerUpdateZone()</a>, <a class="el" href="../../#l01241">BattlegroundAV::SetupBattleground()</a>, <a class="el" href="../../#l00554">go_brewfest_music::go_brewfest_musicAI::UpdateAI()</a>, <a class="el" href="../../#l00701">go_pirate_day_music::go_pirate_day_musicAI::UpdateAI()</a>, <a class="el" href="../../#l00756">go_darkmoon_faire_music::go_darkmoon_faire_musicAI::UpdateAI()</a>, and <a class="el" href="../../#l00811">go_midsummer_music::go_midsummer_musicAI::UpdateAI()</a>.</p>
+
+</div>
+</div>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_6f2d0651f8bb60d9295230d3c0a9398e.html">World</a></li><li class="navelem"><a class="el" href="../../d9/d7d/a01880.html">World.cpp</a></li>
-    <li class="footer">Generated on Mon Aug 4 2025 20:50:09 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_be7ddcf5a4570b7daa864eaef60ffbc7.html">Events</a></li><li class="navelem"><a class="el" href="../../d9/d7d/a01880.html">GameEventMgr.h</a></li>
+    <li class="footer">Generated on Mon Aug 11 2025 20:46:40 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,6 +1,9 @@
 var a21964 =
 [
-    [ "HandleOnEffectRemove", "db/dcd/a21964.html#a5aeae7d8fc2fb8c8a1ce446ba1887c51", null ],
-    [ "PrepareAuraScript", "db/dcd/a21964.html#af415e4d7ea0b4b881af94eb7ea0c3f4c", null ],
-    [ "Register", "db/dcd/a21964.html#a242faa8822f9cdb7762d8ec3b6245b30", null ]
+    [ "npc_venture_co_stragglerAI", "db/dcd/a21964.html#abc3cc04b89b95fd45969ba5859bf810c", null ],
+    [ "Reset", "db/dcd/a21964.html#acfeaad9db95d0b391a64cc65ca3a1cee", null ],
+    [ "SpellHit", "db/dcd/a21964.html#ae1919454c270d10342079b60a727a306", null ],
+    [ "UpdateAI", "db/dcd/a21964.html#a0846336d8d1333e2c2f50731a722c3b7", null ],
+    [ "_events", "db/dcd/a21964.html#a9cd6e6b549e10900f35838f04e10e0f5", null ],
+    [ "_playerGUID", "db/dcd/a21964.html#a649493944b143782d995b5bdda3714b4", null ]
 ];

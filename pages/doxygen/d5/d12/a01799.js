@@ -1,12 +1,25 @@
 var a01799 =
 [
-    [ "ArenaTeamScript", "db/d0e/a10246.html", "db/d0e/a10246" ],
-    [ "ArenaTeamHook", "d5/d12/a01799.html#adfb7077026efd17516d6b85637c2b218", [
-      [ "ARENATEAMHOOK_ON_GET_SLOT_BY_TYPE", "d5/d12/a01799.html#adfb7077026efd17516d6b85637c2b218a138fd48dae9a6b0db50dd8a442045adc", null ],
-      [ "ARENATEAMHOOK_ON_GET_ARENA_POINTS", "d5/d12/a01799.html#adfb7077026efd17516d6b85637c2b218a3b21f54389f578130e4874fd75c7e6a9", null ],
-      [ "ARENATEAMHOOK_ON_TYPEID_TO_QUEUEID", "d5/d12/a01799.html#adfb7077026efd17516d6b85637c2b218ae5c1d8d5548693d43fdd43339ef152a7", null ],
-      [ "ARENATEAMHOOK_ON_QUEUEID_TO_ARENA_TYPE", "d5/d12/a01799.html#adfb7077026efd17516d6b85637c2b218a957830b5a4fb9d7a53b977999068031b", null ],
-      [ "ARENATEAMHOOK_ON_SET_ARENA_MAX_PLAYERS_PER_TEAM", "d5/d12/a01799.html#adfb7077026efd17516d6b85637c2b218aaf39f25b1610466743d5d839986bf6b6", null ],
-      [ "ARENATEAMHOOK_END", "d5/d12/a01799.html#adfb7077026efd17516d6b85637c2b218a5fe29b394fe4fe74fffe7988b90ccaf7", null ]
+    [ "UpdateData", "d8/d05/a08464.html", "d8/d05/a08464" ],
+    [ "OBJECT_UPDATE_FLAGS", "d5/d12/a01799.html#af1fc105a57ed0bc535d17509e4ad5e9e", [
+      [ "UPDATEFLAG_NONE", "d5/d12/a01799.html#af1fc105a57ed0bc535d17509e4ad5e9eab3f4d8eafca6e04f6b445bedda939799", null ],
+      [ "UPDATEFLAG_SELF", "d5/d12/a01799.html#af1fc105a57ed0bc535d17509e4ad5e9eacb59b2f7a20c57e2dc11ad4a4a74195f", null ],
+      [ "UPDATEFLAG_TRANSPORT", "d5/d12/a01799.html#af1fc105a57ed0bc535d17509e4ad5e9ea7b800b143915d7a9ea65020153cee3ca", null ],
+      [ "UPDATEFLAG_HAS_TARGET", "d5/d12/a01799.html#af1fc105a57ed0bc535d17509e4ad5e9eae67f7342d7c369d11cfb6d50bea094dd", null ],
+      [ "UPDATEFLAG_UNKNOWN", "d5/d12/a01799.html#af1fc105a57ed0bc535d17509e4ad5e9eab102319844f46e52393bb89975c591f7", null ],
+      [ "UPDATEFLAG_LOWGUID", "d5/d12/a01799.html#af1fc105a57ed0bc535d17509e4ad5e9ea65f9bb0b19a3ecbc46fbe3b4573cb15b", null ],
+      [ "UPDATEFLAG_LIVING", "d5/d12/a01799.html#af1fc105a57ed0bc535d17509e4ad5e9ea0eedb2f7b118804bb3fe89fde52d7632", null ],
+      [ "UPDATEFLAG_STATIONARY_POSITION", "d5/d12/a01799.html#af1fc105a57ed0bc535d17509e4ad5e9ead20e13b8389c2680af0a59dc557d4ee1", null ],
+      [ "UPDATEFLAG_VEHICLE", "d5/d12/a01799.html#af1fc105a57ed0bc535d17509e4ad5e9ea6dfc1770c97c7c1d8433e0e12ad47c51", null ],
+      [ "UPDATEFLAG_POSITION", "d5/d12/a01799.html#af1fc105a57ed0bc535d17509e4ad5e9ea2e4269d3be94ff8f1f715c41c060222b", null ],
+      [ "UPDATEFLAG_ROTATION", "d5/d12/a01799.html#af1fc105a57ed0bc535d17509e4ad5e9ea2a1fa785627688900bcc7bb221f1462a", null ]
+    ] ],
+    [ "OBJECT_UPDATE_TYPE", "d5/d12/a01799.html#aa0f2952f4b375c0e91f5276ff267cbad", [
+      [ "UPDATETYPE_VALUES", "d5/d12/a01799.html#aa0f2952f4b375c0e91f5276ff267cbada1fc033f630eab16bbf5b7ce7938d7bef", null ],
+      [ "UPDATETYPE_MOVEMENT", "d5/d12/a01799.html#aa0f2952f4b375c0e91f5276ff267cbadac08838cdcba5218c53ea7745f5c0c370", null ],
+      [ "UPDATETYPE_CREATE_OBJECT", "d5/d12/a01799.html#aa0f2952f4b375c0e91f5276ff267cbada4dc60011a5f19dc6c7d8ef61f9b10e20", null ],
+      [ "UPDATETYPE_CREATE_OBJECT2", "d5/d12/a01799.html#aa0f2952f4b375c0e91f5276ff267cbadaf72ecfc1f4c6b5006f7985299cc2cd8f", null ],
+      [ "UPDATETYPE_OUT_OF_RANGE_OBJECTS", "d5/d12/a01799.html#aa0f2952f4b375c0e91f5276ff267cbada5e1317f5c975a9e3a19c37922f49e089", null ],
+      [ "UPDATETYPE_NEAR_OBJECTS", "d5/d12/a01799.html#aa0f2952f4b375c0e91f5276ff267cbada5017763e8c136985831c2ee1583795d5", null ]
     ] ]
 ];

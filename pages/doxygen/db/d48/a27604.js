@@ -1,6 +1,7 @@
 var a27604 =
 [
-    [ "npc_spring_rabbitAI", "d0/d60/a27608.html", "d0/d60/a27608" ],
-    [ "npc_spring_rabbit", "db/d48/a27604.html#a4e2ed1f556edd535a8d262d7e0bdfa1a", null ],
-    [ "GetAI", "db/d48/a27604.html#a968933658fbcc7f7cbdfca90fd9a68dc", null ]
+    [ "npc_sayge", "db/d48/a27604.html#a5b75c459665ece26cee5dbffcc0fc8ff", null ],
+    [ "OnGossipHello", "db/d48/a27604.html#ad069e6cc7fe5271c3474c8bcf537cf4c", null ],
+    [ "OnGossipSelect", "db/d48/a27604.html#aa049b4514fc2d18508d8d4f9b6616c99", null ],
+    [ "SendAction", "db/d48/a27604.html#aed1988335672423d024546654aa95298", null ]
 ];

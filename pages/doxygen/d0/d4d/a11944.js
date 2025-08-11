@@ -1,5 +1,7 @@
 var a11944 =
 [
-    [ "boss_high_priestess_thaurissan", "d0/d4d/a11944.html#a53d3fd78f6a1a3b5028c6fc2940dfbd0", null ],
-    [ "GetAI", "d0/d4d/a11944.html#a7d2bb83a766b8eaa9bdbbb0f45a4fe62", null ]
+    [ "boss_grizzleAI", "d0/d4d/a11944.html#a3310892cafc2a8e022105f77258b25af", null ],
+    [ "JustEngagedWith", "d0/d4d/a11944.html#a598e7e7d6bdd847bf01968116988a935", null ],
+    [ "UpdateAI", "d0/d4d/a11944.html#a2dc5c27cd4eaf2aa1484a370a68e3314", null ],
+    [ "nextTremorTime", "d0/d4d/a11944.html#aa392b5a5db08d8676614923ae4838d05", null ]
 ];

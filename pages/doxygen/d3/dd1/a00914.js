@@ -1,4 +1,5 @@
 var a00914 =
 [
-    [ "WorldPacket", "da/df4/a10970.html", "da/df4/a10970" ]
+    [ "AreaTriggerScript", "df/d3d/a10240.html", "df/d3d/a10240" ],
+    [ "OnlyOnceAreaTriggerScript", "da/dd7/a10244.html", "da/dd7/a10244" ]
 ];

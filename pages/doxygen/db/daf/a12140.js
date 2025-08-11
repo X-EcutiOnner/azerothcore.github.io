@@ -1,6 +1,5 @@
 var a12140 =
 [
-    [ "near_scarshield_infiltrator", "db/daf/a12140.html#a38d2e75946c429b4d80b007f190406bc", null ],
-    [ "OnTrigger", "db/daf/a12140.html#aeb761433e3210ce85c1de4dab653a87c", null ],
-    [ "whisperedTargets", "db/daf/a12140.html#a5655e241d2551798a960cb6375c7df23", null ]
+    [ "at_the_beast_room", "db/daf/a12140.html#aed5c4aae45ee2b256eb078875c5a2c47", null ],
+    [ "OnTrigger", "db/daf/a12140.html#a366c5e35c4030f998404886f1526ae37", null ]
 ];

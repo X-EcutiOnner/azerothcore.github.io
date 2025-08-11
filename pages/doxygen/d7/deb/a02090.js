@@ -1,6 +1,5 @@
 var a02090 =
 [
-    [ "instance_dire_maul", "d0/db7/a14832.html", "d0/db7/a14832" ],
-    [ "instance_dire_maul::instance_dire_maul_InstanceMapScript", "d9/d56/a14836.html", "d9/d56/a14836" ],
-    [ "AddSC_instance_dire_maul", "d7/deb/a02090.html#a4f4fdf8ebf7b15878ba29a663b037908", null ]
+    [ "instance_commandscript", "d2/d40/a11676.html", "d2/d40/a11676" ],
+    [ "AddSC_instance_commandscript", "d7/deb/a02090.html#a3d7dc88b6e95322f2f3dc69ad367fa0c", null ]
 ];

@@ -1,6 +1,7 @@
 var a20764 =
 [
-    [ "boss_yoggsaron_saraAI", "dc/d4a/a20768.html", "dc/d4a/a20768" ],
-    [ "boss_yoggsaron_sara", "df/de5/a20764.html#aaf5bd5440122f6c97315b0e3b9d47586", null ],
-    [ "GetAI", "df/de5/a20764.html#abc83e0f3a7d12a84ea283e5b2a69826d", null ]
+    [ "npc_xt002_life_sparkAI", "df/de5/a20764.html#a763ec1834d3b71c88bfa80bc0e34966a", null ],
+    [ "Reset", "df/de5/a20764.html#a596e2ed45b9221915781b03bf2d18e5b", null ],
+    [ "UpdateAI", "df/de5/a20764.html#af0a1e717b08b2fa35dd4ff83778a87c1", null ],
+    [ "_attackTimer", "df/de5/a20764.html#a79bf005de95aa1fee60dfc73b8920dad", null ]
 ];

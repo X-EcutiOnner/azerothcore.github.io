@@ -1,11 +1,11 @@
 var a17072 =
 [
-    [ "npc_pos_leader_secondAI", "d6/d67/a17072.html#a2ded8591da2548921cd016d592d1f1c8", null ],
-    [ "DoAction", "d6/d67/a17072.html#a941d3b42d6a0e58496b724af56fee44a", null ],
-    [ "MovementInform", "d6/d67/a17072.html#a32f4c5c48f1a63ded0ac9b8ee763090b", null ],
-    [ "SpellHitTarget", "d6/d67/a17072.html#ae630b7b225379831d15a11f66507bc6a", null ],
-    [ "UpdateAI", "d6/d67/a17072.html#a640aea9ce4a47dd13d417748e533fc33", null ],
-    [ "barrierGUID", "d6/d67/a17072.html#a452c096475581c12bf2f4ccb12448026", null ],
-    [ "events", "d6/d67/a17072.html#a1e1ab6c1d349a9543815a29ae185feec", null ],
-    [ "pInstance", "d6/d67/a17072.html#aee9dac9efee94db3d84eb9c5fb8c88a2", null ]
+    [ "npc_pos_tyrannus_eventsAI", "d6/d67/a17072.html#a51769d22a4cb448fae90d827e2494581", null ],
+    [ "MovementInform", "d6/d67/a17072.html#ac0d1550855988fe6f562e8a0a6ada80f", null ],
+    [ "SetData", "d6/d67/a17072.html#a8f8bbb06c50215c90cf11ddbc925ba5d", null ],
+    [ "UpdateAI", "d6/d67/a17072.html#a6c4d82c46547bbb2f86dd7f9fa88c743", null ],
+    [ "deathbringerGUID", "d6/d67/a17072.html#a21ea8c66374403d0eca83e4d24c80a7a", null ],
+    [ "events", "d6/d67/a17072.html#a317d48c75a93ef5abaa3329ab10a1c8e", null ],
+    [ "killsLeft", "d6/d67/a17072.html#ac81d85e0ceb0b571373f44475baa36df", null ],
+    [ "pInstance", "d6/d67/a17072.html#a44460335986bcedf35dc295c242df6da", null ]
 ];

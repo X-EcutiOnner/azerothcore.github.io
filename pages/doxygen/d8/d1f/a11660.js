@@ -1,13 +1,17 @@
 var a11660 =
 [
-    [ "list_commandscript", "d8/d1f/a11660.html#a5a85953a46afe08fe05a11fe69c934dc", null ],
-    [ "GetCommands", "d8/d1f/a11660.html#a949c6e6f372afb50e1116b6414acdd7c", null ],
-    [ "HandleListAllAurasCommand", "d8/d1f/a11660.html#a93f1fe9131b917c813058899efede2a5", null ],
-    [ "HandleListAurasByIdCommand", "d8/d1f/a11660.html#a3c59e8b85175ef056b07f566c231c221", null ],
-    [ "HandleListAurasByNameCommand", "d8/d1f/a11660.html#a78d6be53ddae80068e2d9c04ea494e24", null ],
-    [ "HandleListCreatureCommand", "d8/d1f/a11660.html#a48388f1c839cec6597c74740ec49fa68", null ],
-    [ "HandleListItemCommand", "d8/d1f/a11660.html#a7d0aadb081f25c3d533951bd9841f103", null ],
-    [ "HandleListObjectCommand", "d8/d1f/a11660.html#ac8b32be8650c9e54388320d650c9761b", null ],
-    [ "ListAurasCommand", "d8/d1f/a11660.html#a98c9f6fb42e8030d76f234cdb02a72fb", null ],
-    [ "ShouldListAura", "d8/d1f/a11660.html#afc42154ec5e978b366780fb600b17e8d", null ]
+    [ "gobject_commandscript", "d8/d1f/a11660.html#a664ffe7aa07b1e08156545675ae5dc69", null ],
+    [ "GetCommands", "d8/d1f/a11660.html#a75124102670615a7b3a0ecd457ab631a", null ],
+    [ "HandleGameObjectActivateCommand", "d8/d1f/a11660.html#a2512dfca6b1ae8a2476551a02caa202a", null ],
+    [ "HandleGameObjectAddCommand", "d8/d1f/a11660.html#a23717867956cc0da99e3640d2b790346", null ],
+    [ "HandleGameObjectAddTempCommand", "d8/d1f/a11660.html#a49908d7c180d778c43702563add17d2d", null ],
+    [ "HandleGameObjectDeleteCommand", "d8/d1f/a11660.html#a06ef45827cefcc19f748c5940dfb4b1d", null ],
+    [ "HandleGameObjectInfoCommand", "d8/d1f/a11660.html#a1d6e3c850b0bc2772d3f1f09877d8a40", null ],
+    [ "HandleGameObjectMoveCommand", "d8/d1f/a11660.html#a7098a5b0c94cb09b8c6fe08eba261d93", null ],
+    [ "HandleGameObjectNearCommand", "d8/d1f/a11660.html#a156f293b3bf9c7439b62814ee8f27650", null ],
+    [ "HandleGameObjectRespawn", "d8/d1f/a11660.html#aafed57aa556c8cdc0c380185b056d705", null ],
+    [ "HandleGameObjectSetPhaseCommand", "d8/d1f/a11660.html#af2ac49c9fdd408be62dd4ee179c1142c", null ],
+    [ "HandleGameObjectSetStateCommand", "d8/d1f/a11660.html#ae6d100f51d8b08e1576092eedc4db15f", null ],
+    [ "HandleGameObjectTargetCommand", "d8/d1f/a11660.html#a11d33046310495c0a6d883a307c95632", null ],
+    [ "HandleGameObjectTurnCommand", "d8/d1f/a11660.html#a75883394613b2c3501cd48f5334199b7", null ]
 ];

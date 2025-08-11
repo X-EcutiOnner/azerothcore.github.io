@@ -1,8 +1,26 @@
 var a08368 =
 [
-    [ "Reset", "de/de0/a08368.html#a28a5bd110553457c86d7f77e78041713", null ],
-    [ "cosAngle", "de/de0/a08368.html#a37f49fc816f37dff8c1947f4de7f04d5", null ],
-    [ "sinAngle", "de/de0/a08368.html#af2a184b7c8e7f324607a0b7468bcb8f6", null ],
-    [ "xyspeed", "de/de0/a08368.html#a6fada60d677d89580c3a718d42a75d17", null ],
-    [ "zspeed", "de/de0/a08368.html#ad0a5a36aeabc9b8d8ea27cecae30ae31", null ]
+    [ "JumpInfo", "da/d3e/a08376.html", "da/d3e/a08376" ],
+    [ "TransportInfo", "d5/d95/a08372.html", "d5/d95/a08372" ],
+    [ "MovementInfo", "de/de0/a08368.html#a809340998de55a9ffa895f7b27e1f2c3", null ],
+    [ "AddExtraMovementFlag", "de/de0/a08368.html#aff0e449eb1567041f1a44c34e5fa85bc", null ],
+    [ "AddMovementFlag", "de/de0/a08368.html#ae02908de40bf25e5d07d3bb248448a68", null ],
+    [ "GetExtraMovementFlags", "de/de0/a08368.html#a7a9353ff367c80cddeaddd63fcd32ddb", null ],
+    [ "GetMovementFlags", "de/de0/a08368.html#ade08354701baa32b9ff232d6b07e6097", null ],
+    [ "HasExtraMovementFlag", "de/de0/a08368.html#afad84c80474a806e8abb4626ccfbcfaf", null ],
+    [ "HasMovementFlag", "de/de0/a08368.html#ad9571cb899d58cc60fbe2412be79116e", null ],
+    [ "OutDebug", "de/de0/a08368.html#af8c4c6db42364ec712398b317238c90b", null ],
+    [ "RemoveMovementFlag", "de/de0/a08368.html#ab38114c14a8848a082b4f265eab11c72", null ],
+    [ "SetFallTime", "de/de0/a08368.html#a683565ad0865709083e81d07a8ce1395", null ],
+    [ "SetMovementFlags", "de/de0/a08368.html#ace324e7171c3520efdce76d2bbc75c67", null ],
+    [ "fallTime", "de/de0/a08368.html#abcf42fcf7d61044fd9fb5e6857e21ab5", null ],
+    [ "flags", "de/de0/a08368.html#ab64213c21ac3cdfd769a5acdc7fce200", null ],
+    [ "flags2", "de/de0/a08368.html#aa8dc40a9829334f2ca7fa4e7347f91a5", null ],
+    [ "guid", "de/de0/a08368.html#a10c1c9721558fd98d33bb43b3bfff837", null ],
+    [ "jump", "de/de0/a08368.html#a920a536b873fcc63dd6bb22882a7a8ea", null ],
+    [ "pitch", "de/de0/a08368.html#af2945943a91efc4cd5f2f9a0b86424cf", null ],
+    [ "pos", "de/de0/a08368.html#afc5605f3e357e6ca4f2c681329bb0302", null ],
+    [ "splineElevation", "de/de0/a08368.html#ac524b47fa52b05e7c6a6b7c577c9291f", null ],
+    [ "time", "de/de0/a08368.html#a90c332cb1b99ce1ac6eab39bc2a6e4b2", null ],
+    [ "transport", "de/de0/a08368.html#ac2b0f738ec695f4c9f032daad3e1f041", null ]
 ];

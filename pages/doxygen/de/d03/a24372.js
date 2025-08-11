@@ -1,8 +1,9 @@
 var a24372 =
 [
-    [ "npc_pet_gen_wind_rider_cub", "de/d03/a24372.html#a17e1f3155b9a9864459e48d1cd11c6a6", null ],
-    [ "UpdateAI", "de/d03/a24372.html#a534d122522d553e106e6c7729d6c55db", null ],
-    [ "checkTimer", "de/d03/a24372.html#a39fcfc5f5d9a630180713512db778b32", null ],
-    [ "checkTimer2", "de/d03/a24372.html#aabeaf7a9b5b77df540e1111950860e98", null ],
-    [ "isFlying", "de/d03/a24372.html#a57124f8172bd15a5e6c708edff41dc2f", null ]
+    [ "npc_pet_gen_soul_trader_beacon", "de/d03/a24372.html#a58ef19b8c08aee764bdd55e480d9d750", null ],
+    [ "GetOwner", "de/d03/a24372.html#a72bfd4cf6c734d1f1070a1560131667d", null ],
+    [ "SpellHitTarget", "de/d03/a24372.html#a6c0d3181b913c5022325f66586f66bfa", null ],
+    [ "UpdateAI", "de/d03/a24372.html#a18c06958e6b3d4306a6fdb5f9924d7ff", null ],
+    [ "events", "de/d03/a24372.html#ae0a6d4850a0a0da4bd04227b11bae9e4", null ],
+    [ "ownerGUID", "de/d03/a24372.html#a3a42e83216c0111a740a0c89e57c6f62", null ]
 ];

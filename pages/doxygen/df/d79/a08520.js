@@ -1,5 +1,9 @@
 var a08520 =
 [
-    [ "PlayerLevelInfo", "df/d79/a08520.html#af0d716577a3645fe1cef95968382ec80", null ],
-    [ "stats", "df/d79/a08520.html#a796af7d07604474adebf5a6f3518ca30", null ]
+    [ "ActionButton", "df/d79/a08520.html#a78f4e95d921fb997647f89c67c2a66b7", null ],
+    [ "GetAction", "df/d79/a08520.html#a7c10f6089fab30179cfe8175b740477a", null ],
+    [ "GetType", "df/d79/a08520.html#abe5bc143770d411cff0d8c8c425b1253", null ],
+    [ "SetActionAndType", "df/d79/a08520.html#a29d804ed78d79f64e868e9741b37d7be", null ],
+    [ "packedData", "df/d79/a08520.html#a2a34a116c4890a12255f9ebe24c1cba8", null ],
+    [ "uState", "df/d79/a08520.html#a6384e73650da93c96d3b4cc42b151b63", null ]
 ];

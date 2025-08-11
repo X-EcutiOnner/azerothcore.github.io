@@ -1,7 +1,5 @@
 var a14560 =
 [
-    [ "HandleOnHit", "d2/d4d/a14560.html#a9f1d78b4a98bc76877903b79923c1634", null ],
-    [ "PrepareSpellScript", "d2/d4d/a14560.html#afb0a8a16850da30b0fbdb3d10a935f21", null ],
-    [ "Register", "d2/d4d/a14560.html#ab923488eb891e1f9b1f5cb8ed61f3865", null ],
-    [ "Validate", "d2/d4d/a14560.html#a57d85b1702e5c89d72972505121180ed", null ]
+    [ "achievement_pb_terokkar_turkey_time", "d2/d4d/a14560.html#a68e536379b04e060f44819c9831766c2", null ],
+    [ "OnCheck", "d2/d4d/a14560.html#a8e6b82b95974ec27fd578481a1a23ae0", null ]
 ];

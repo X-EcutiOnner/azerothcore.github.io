@@ -1,6 +1,7 @@
 var a17712 =
 [
-    [ "npc_cult_adherentAI", "dd/d5f/a17716.html", "dd/d5f/a17716" ],
-    [ "npc_cult_adherent", "dd/d40/a17712.html#a74496518cf30674044a4a8a166e4c345", null ],
-    [ "GetAI", "dd/d40/a17712.html#a2bfe464c738c983b9539f9216cabd63a", null ]
+    [ "DamageGunship", "dd/d40/a17712.html#a1dc0145cfff777b18b9241dfc0966f32", null ],
+    [ "PrepareSpellScript", "dd/d40/a17712.html#aa698d016ae58d665c081976f20ec0385", null ],
+    [ "Register", "dd/d40/a17712.html#ab8836babdea1fd963fdd53415db0a3ba", null ],
+    [ "Validate", "dd/d40/a17712.html#ae80cd93b2f01ddb83493f9f818fc0ea1", null ]
 ];

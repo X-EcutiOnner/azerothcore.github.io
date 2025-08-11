@@ -1,6 +1,7 @@
 var a11120 =
 [
-    [ "WorldObjectSpellConeTargetCheck", "d7/d26/a11120.html#a51fa6de40d065bd7ba52f4dc982f9a5e", null ],
-    [ "operator()", "d7/d26/a11120.html#ac66207a4d1dbc9f59269127ee91f0657", null ],
-    [ "_coneAngle", "d7/d26/a11120.html#a8f946789292320ea8b205dec5d1e1975", null ]
+    [ "effectMask", "d7/d26/a11120.html#a07d70f3c2425f07a36db90e9fd5b3c97", null ],
+    [ "processed", "d7/d26/a11120.html#aedfa36678be863a558ecd0ecc07cc544", null ],
+    [ "targetGUID", "d7/d26/a11120.html#a619f98bf094d2667048204f733d64d0c", null ],
+    [ "timeDelay", "d7/d26/a11120.html#ab552326c0780fe62ff95b02249458492", null ]
 ];

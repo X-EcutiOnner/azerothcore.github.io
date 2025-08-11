@@ -1,10 +1,16 @@
 var a19512 =
 [
-    [ "npc_molten_golemAI", "d4/d2d/a19512.html#a5172d70649be5030fd91e1adbcad4f06", null ],
-    [ "DamageTaken", "d4/d2d/a19512.html#a0dd2ca5b83f5d75c51dfa358544c018a", null ],
-    [ "DoAction", "d4/d2d/a19512.html#ada2e9c39ce16f00b47df2f52971d99b1", null ],
-    [ "Reset", "d4/d2d/a19512.html#a9f90e791c77377c02c66e5d809c555cc", null ],
-    [ "UpdateAI", "d4/d2d/a19512.html#ade3cfd0deb27508f5f084b1b49caf13f", null ],
-    [ "events", "d4/d2d/a19512.html#ad97142df8344df59eddfb92471d1a737", null ],
-    [ "m_pInstance", "d4/d2d/a19512.html#ad1a300c13e98965b935c1e3fc26b9606", null ]
+    [ "boss_ionarAI", "d4/d2d/a19512.html#af212102febe4e0ef406475f5e1452695", null ],
+    [ "JustDied", "d4/d2d/a19512.html#a12ad910d0838b1fbb626f761b70c86c5", null ],
+    [ "JustEngagedWith", "d4/d2d/a19512.html#a17bff3df427ad65453cfc440e46f76fa", null ],
+    [ "KilledUnit", "d4/d2d/a19512.html#aa74b2b6cd2358b11596d34357fac194c", null ],
+    [ "Reset", "d4/d2d/a19512.html#acbb2807142af2ef570aec0f12c861d36", null ],
+    [ "ScheduleEvents", "d4/d2d/a19512.html#ad3f0bf773bc091cc14491cd309a4b531", null ],
+    [ "SpellHit", "d4/d2d/a19512.html#a5954749594cf76a2f8db7a61874a0279", null ],
+    [ "Split", "d4/d2d/a19512.html#ab10351b157e6e370d910780febdbda74", null ],
+    [ "UpdateAI", "d4/d2d/a19512.html#a41767f4b491b4d59824bac8854c3090d", null ],
+    [ "events", "d4/d2d/a19512.html#ae87ba5970d8d4f9fc33b94dc9abefa2f", null ],
+    [ "HealthCheck", "d4/d2d/a19512.html#a05006b60fa4e7b33f589ca87b3374aa5", null ],
+    [ "m_pInstance", "d4/d2d/a19512.html#a752059e06a6971d94243f283ef75be91", null ],
+    [ "summons", "d4/d2d/a19512.html#ac67332dd2f94ea8bdd7c7871bc022239", null ]
 ];

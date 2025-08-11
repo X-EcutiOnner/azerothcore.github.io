@@ -1,4 +1,5 @@
 var a01370 =
 [
-    [ "MapRefMgr", "d4/dc7/a09807.html", "d4/dc7/a09807" ]
+    [ "TotemAI", "de/da4/a06128.html", "de/da4/a06128" ],
+    [ "KillMagnetEvent", "d0/d80/a06132.html", "d0/d80/a06132" ]
 ];

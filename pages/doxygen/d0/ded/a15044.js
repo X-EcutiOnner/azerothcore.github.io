@@ -1,6 +1,6 @@
 var a15044 =
 [
-    [ "HandleScriptEffect", "d0/ded/a15044.html#a0f03a3e09e80ae50a5ddedcea1f9f30e", null ],
-    [ "PrepareSpellScript", "d0/ded/a15044.html#aa109d61baba87acf5bce5d44bff55214", null ],
-    [ "Register", "d0/ded/a15044.html#ac8412777c84abfe56262d6d83163e9a1", null ]
+    [ "HandleDamageCalc", "d0/ded/a15044.html#a03eb92eff300872cd5fca452a99375ab", null ],
+    [ "PrepareSpellScript", "d0/ded/a15044.html#ac07421b62bb6044dad89431839a70bd8", null ],
+    [ "Register", "d0/ded/a15044.html#a70cbf764ab475e2358fa6630798cab9d", null ]
 ];

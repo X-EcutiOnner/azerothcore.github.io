@@ -1,7 +1,12 @@
 var a07112 =
 [
-    [ "AuctionSearchUpdateBid", "d0/d5f/a07112.html#ad7ecaf272e5cc8fe61e0b448d05b6d27", null ],
-    [ "auctionId", "d0/d5f/a07112.html#a6ebbff1fcebe77ed4735483ad481fd00", null ],
-    [ "bid", "d0/d5f/a07112.html#a14b7f79b2aa0b020c8c940d6b01c4efc", null ],
-    [ "bidderGuid", "d0/d5f/a07112.html#a843bcff41f694075ea056d9a3c71467f", null ]
+    [ "Type", "d0/d5f/a07112.html#a758c9729d907d872a5e5365539486408", [
+      [ "ADD", "d0/d5f/a07112.html#a758c9729d907d872a5e5365539486408a9eeb52badb613229884838847294b90d", null ],
+      [ "REMOVE", "d0/d5f/a07112.html#a758c9729d907d872a5e5365539486408a78baf367c4626442174307cdf41c6538", null ],
+      [ "UPDATE_BID", "d0/d5f/a07112.html#a758c9729d907d872a5e5365539486408af737406648230093b15420038f06e0a5", null ]
+    ] ],
+    [ "AuctionSearcherUpdate", "d0/d5f/a07112.html#acfc9c3749967b90c2b8633c40f1aa2bd", null ],
+    [ "~AuctionSearcherUpdate", "d0/d5f/a07112.html#a34cb7ede5d2108065a51a80396d6fc55", null ],
+    [ "listFaction", "d0/d5f/a07112.html#a3f61acebd3d594e3a23d682d2d5292bc", null ],
+    [ "updateType", "d0/d5f/a07112.html#af6ee8672029884bdbec327242ce5d5d2", null ]
 ];

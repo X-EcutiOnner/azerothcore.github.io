@@ -1,6 +1,6 @@
 var a15448 =
 [
-    [ "npc_bunthen_plainswind", "d5/d4b/a15448.html#ad9b789ad3e958dee4733b142813b6302", null ],
-    [ "OnGossipHello", "d5/d4b/a15448.html#ae2fe8bfb957dd8ea84d2585293c3b6eb", null ],
-    [ "OnGossipSelect", "d5/d4b/a15448.html#a117f28d513ac645b9d3d908d052d2146", null ]
+    [ "npc_troll_volunteerAI", "d8/d69/a15452.html", "d8/d69/a15452" ],
+    [ "npc_troll_volunteer", "d5/d4b/a15448.html#a3c5eb7108dc0480e07b77eceb01cd18a", null ],
+    [ "GetAI", "d5/d4b/a15448.html#aba0208b0910ace75686941c462ecca56", null ]
 ];

@@ -1,6 +1,10 @@
 var a15248 =
 [
-    [ "npc_muglashAI", "dc/dac/a15252.html", "dc/dac/a15252" ],
-    [ "npc_muglash", "d5/d2a/a15248.html#a5df1b1cff0acf8be4db77b66f8a0b5f4", null ],
-    [ "GetAI", "d5/d2a/a15248.html#a7cfeaf756de85b1bd2fff9163e4bd5e3", null ]
+    [ "npc_anubisath_defender", "d5/d2a/a15248.html#ae24a21ad3ebcaa4b8312a1fea66131ba", null ],
+    [ "DamageTaken", "d5/d2a/a15248.html#a032714b16d3d77a19bec0f918d8ef8df", null ],
+    [ "JustDied", "d5/d2a/a15248.html#a225ca1b3144953bcc5890caf0d32b606", null ],
+    [ "JustEngagedWith", "d5/d2a/a15248.html#a6505fcae0e99cae44750f16daddc3309", null ],
+    [ "Reset", "d5/d2a/a15248.html#ab10d9ac93aab97172f630e1d7d8faca0", null ],
+    [ "UpdateAI", "d5/d2a/a15248.html#a1f190f45ffbaf20f5565221780dc5cc6", null ],
+    [ "_enraged", "d5/d2a/a15248.html#a4adef63a5093e3c0ecb8b57283e94ff8", null ]
 ];

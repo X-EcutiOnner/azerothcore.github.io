@@ -1,11 +1,10 @@
 var a12656 =
 [
-    [ "boss_terestian_illhoof", "d1/d9f/a12656.html#a5750bf4f12ac01216335a926f885e136", null ],
-    [ "JustDied", "d1/d9f/a12656.html#a9039c0fb905e72e659ce62f9d36593ce", null ],
-    [ "JustEngagedWith", "d1/d9f/a12656.html#adc1f9195954eda7ec406ac9a084b7508", null ],
-    [ "JustSummoned", "d1/d9f/a12656.html#a8b156654dbd75a4a7626edf30a8aae78", null ],
-    [ "KilledUnit", "d1/d9f/a12656.html#ab7de8b406de200eec981fab79a56dcd7", null ],
-    [ "Reset", "d1/d9f/a12656.html#a685b00f0e3317740412adfc48df1c3fb", null ],
-    [ "SpellHit", "d1/d9f/a12656.html#a2f25021cfbc9e466d73c13de8116d8f1", null ],
-    [ "SummonKilrek", "d1/d9f/a12656.html#a0007e35a38efce5edada2f47a9bb89c6", null ]
+    [ "npc_netherspite_infernal", "d1/d9f/a12656.html#af9837d7a671533523ce323c083c4e847", null ],
+    [ "DamageTaken", "d1/d9f/a12656.html#aee9b38f3590e08b16de1789576986a09", null ],
+    [ "JustEngagedWith", "d1/d9f/a12656.html#a76d8944ca2d9b2f1aa5b635ce94bacfb", null ],
+    [ "KilledUnit", "d1/d9f/a12656.html#a49c37fbebed2951c493962c1a3bd0339", null ],
+    [ "MoveInLineOfSight", "d1/d9f/a12656.html#a7ecce97cef0adda03910e87d9fd82f71", null ],
+    [ "SpellHit", "d1/d9f/a12656.html#abb6c7d0b5e231e460b069198b16106b7", null ],
+    [ "UpdateAI", "d1/d9f/a12656.html#a575040456c0eb4d343e7c0c5f75159b4", null ]
 ];

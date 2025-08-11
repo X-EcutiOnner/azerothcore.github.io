@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: fmt::formatter&lt; WorldPackets::String&lt; MaxBytesWithoutNullTerminator, Validators... &gt; &gt; Struct Template Reference</title>
+<title>AzerothCore: WorldPackets::Strings::Hyperlinks Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,67 +105,54 @@ $(document).ready(function(){initNavTree('d0/d35/a10848.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pub-static-methods">Static Public Member Functions</a> &#124;
 <a href="../../d8/d0b/a10845.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">fmt::formatter&lt; WorldPackets::String&lt; MaxBytesWithoutNullTerminator, Validators... &gt; &gt; Struct Template Reference</div></div>
+  <div class="headertitle"><div class="title">WorldPackets::Strings::Hyperlinks Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
 <p><code>#include &quot;<a class="el" href="../../">PacketUtilities.h</a>&quot;</code></p>
-<div class="dynheader">
-Inheritance diagram for fmt::formatter&lt; WorldPackets::String&lt; MaxBytesWithoutNullTerminator, Validators... &gt; &gt;:</div>
-<div class="dyncontent">
- <div class="center">
-  <img src="../../d0/d35/a10848.png" alt=""/>
- </div></div>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
-Public Member Functions</h2></td></tr>
-<tr class="memitem:a24a0c7409f4aa2903361863f9cc4c8b6"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d35/a10848.html#a24a0c7409f4aa2903361863f9cc4c8b6">format</a> (<a class="el" href="../../d2/d46/a10832.html">WorldPackets::String</a>&lt; MaxBytesWithoutNullTerminator, Validators... &gt; const &amp;str, format_context &amp;ctx) const</td></tr>
-<tr class="separator:a24a0c7409f4aa2903361863f9cc4c8b6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
+Static Public Member Functions</h2></td></tr>
+<tr class="memitem:a33ba7592ac6571144fc3a7385dbc49f0"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d35/a10848.html#a33ba7592ac6571144fc3a7385dbc49f0">Validate</a> (std::string const &amp;value)</td></tr>
+<tr class="separator:a33ba7592ac6571144fc3a7385dbc49f0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><div class="compoundTemplParams">template&lt;std::size_t MaxBytesWithoutNullTerminator, typename... Validators&gt;<br />
-struct fmt::formatter&lt; WorldPackets::String&lt; MaxBytesWithoutNullTerminator, Validators... &gt; &gt;</div></div><h2 class="groupheader">Member Function Documentation</h2>
-<a id="a24a0c7409f4aa2903361863f9cc4c8b6" name="a24a0c7409f4aa2903361863f9cc4c8b6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a24a0c7409f4aa2903361863f9cc4c8b6">&#9670;&#160;</a></span>format()</h2>
+<div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
+<a id="a33ba7592ac6571144fc3a7385dbc49f0" name="a33ba7592ac6571144fc3a7385dbc49f0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a33ba7592ac6571144fc3a7385dbc49f0">&#9670;&#160;</a></span>Validate()</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;std::size_t MaxBytesWithoutNullTerminator, typename... Validators&gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">auto fmt::formatter&lt; <a class="el" href="../../d2/d46/a10832.html">WorldPackets::String</a>&lt; MaxBytesWithoutNullTerminator, Validators... &gt; &gt;::format </td>
+          <td class="memname">bool WorldPackets::Strings::Hyperlinks::Validate </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d2/d46/a10832.html">WorldPackets::String</a>&lt; MaxBytesWithoutNullTerminator, Validators... &gt; const &amp;&#160;</td>
-          <td class="paramname"><em>str</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
+          <td class="paramtype">std::string const &amp;&#160;</td>
+          <td class="paramname"><em>value</em></td><td>)</td>
           <td></td>
-          <td class="paramtype">format_context &amp;&#160;</td>
-          <td class="paramname"><em>ctx</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td> const</td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  303</span>    {</div>
-<div class="line"><span class="lineno">  304</span>        <span class="keywordflow">return</span> fmt::formatter&lt;std::string_view&gt;::format(std::string_view(str), ctx);</div>
-<div class="line"><span class="lineno">  305</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">   45</span>{</div>
+<div class="line"><span class="lineno">   46</span>    <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../da/d47/a04824.html#a02761d9aa335689ff1b8dc1155b2a3c6">Acore::Hyperlinks::CheckAllLinks</a>(value))</div>
+<div class="line"><span class="lineno">   47</span>        <span class="keywordflow">throw</span> InvalidHyperlinkException(value);</div>
+<div class="line"><span class="lineno">   48</span> </div>
+<div class="line"><span class="lineno">   49</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">   50</span>}</div>
+<div class="ttc" id="aa04824_html_a02761d9aa335689ff1b8dc1155b2a3c6"><div class="ttname"><a href="../../da/d47/a04824.html#a02761d9aa335689ff1b8dc1155b2a3c6">Acore::Hyperlinks::CheckAllLinks</a></div><div class="ttdeci">bool AC_GAME_API CheckAllLinks(std::string_view str)</div><div class="ttdef"><b>Definition:</b> Hyperlinks.cpp:378</div></div>
 </div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00378">Acore::Hyperlinks::CheckAllLinks()</a>.</p>
+
 </div>
 </div>
 </div><!-- contents -->
@@ -173,8 +160,8 @@ template&lt;std::size_t MaxBytesWithoutNullTerminator, typename... Validators&gt
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>fmt</b></li><li class="navelem"><a class="el" href="../../d0/d35/a10848.html">formatter&lt; WorldPackets::String&lt; MaxBytesWithoutNullTerminator, Validators... &gt; &gt;</a></li>
-    <li class="footer">Generated on Mon Jul 7 2025 20:49:44 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d2/d2e/a04831.html">WorldPackets</a></li><li class="navelem"><a class="el" href="../../db/d08/a04848.html">Strings</a></li><li class="navelem"><a class="el" href="../../d0/d35/a10848.html">Hyperlinks</a></li>
+    <li class="footer">Generated on Mon Aug 11 2025 20:49:03 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

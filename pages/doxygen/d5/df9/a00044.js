@@ -1,10 +1,8 @@
 var a00044 =
 [
-    [ "ByteBufferException", "df/de9/a28412.html", "df/de9/a28412" ],
-    [ "ByteBufferPositionException", "d0/d95/a28416.html", "d0/d95/a28416" ],
-    [ "ByteBufferSourceException", "df/dc6/a28420.html", "df/dc6/a28420" ],
-    [ "ByteBufferInvalidValueException", "de/deb/a28424.html", "de/deb/a28424" ],
-    [ "ByteBuffer", "de/ded/a28428.html", "de/ded/a28428" ],
-    [ "ByteBuffer::read< std::string >", "d5/df9/a00044.html#a31d035bbbf2d8edc4942e9f676b32878", null ],
-    [ "ByteBuffer::read_skip< std::string >", "d5/df9/a00044.html#a3550abfaebcca85d45dd39281be0101d", null ]
+    [ "Vec3D", "d5/dfb/a28812.html", "d5/dfb/a28812" ],
+    [ "AaBox3D", "d1/d21/a28816.html", "d1/d21/a28816" ],
+    [ "Vec2D", "d5/d43/a28820.html", "d5/d43/a28820" ],
+    [ "Quaternion", "de/d95/a28824.html", "de/d95/a28824" ],
+    [ "rotate", "d5/df9/a00044.html#a36f9f3de1d3e6935da68df2c6e347a4d", null ]
 ];

@@ -1,6 +1,7 @@
 var a12400 =
 [
-    [ "boss_magmadarAI", "dd/da4/a12400.html#a47207fdd6eb94fb08791da06cd4160f6", null ],
-    [ "ExecuteEvent", "dd/da4/a12400.html#a7d4c1807cb320fdc331057209a4ce166", null ],
-    [ "JustEngagedWith", "dd/da4/a12400.html#a5ce1495d01f28e0a38f00127e7137a4f", null ]
+    [ "HandleHit", "dd/da4/a12400.html#a18f86449945ade16140ee934a7d8703e", null ],
+    [ "PrepareSpellScript", "dd/da4/a12400.html#abaf09043858db27b05fbe544d7a15a8f", null ],
+    [ "Register", "dd/da4/a12400.html#abe0733be2e32ff616c48acaeeb1d39e9", null ],
+    [ "Validate", "dd/da4/a12400.html#abc970a8b4a8f27f81f392cebf81dc574", null ]
 ];

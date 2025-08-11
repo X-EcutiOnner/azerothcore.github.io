@@ -1,16 +1,20 @@
 var a01763 =
 [
-    [ "FormulaScript", "d0/db2/a10294.html", "d0/db2/a10294" ],
-    [ "FormulaHook", "d9/d27/a01763.html#a201bafc9783763d9953381d3aa09bf69", [
-      [ "FORMULAHOOK_ON_HONOR_CALCULATION", "d9/d27/a01763.html#a201bafc9783763d9953381d3aa09bf69a73eb230cf8bc5ea792f11bb873a28419", null ],
-      [ "FORMULAHOOK_ON_GRAY_LEVEL_CALCULATION", "d9/d27/a01763.html#a201bafc9783763d9953381d3aa09bf69ae5bca7263a6d46817dc8dfaa4e6636c4", null ],
-      [ "FORMULAHOOK_ON_COLOR_CODE_CALCULATION", "d9/d27/a01763.html#a201bafc9783763d9953381d3aa09bf69ae305e59fcf7c58fccaa5e3eb7f164436", null ],
-      [ "FORMULAHOOK_ON_ZERO_DIFFERENCE_CALCULATION", "d9/d27/a01763.html#a201bafc9783763d9953381d3aa09bf69aaf4abb2ee4d7e811524828641d035c3f", null ],
-      [ "FORMULAHOOK_ON_BASE_GAIN_CALCULATION", "d9/d27/a01763.html#a201bafc9783763d9953381d3aa09bf69af81c627150a90b1b38ae49bd3b02ab86", null ],
-      [ "FORMULAHOOK_ON_GAIN_CALCULATION", "d9/d27/a01763.html#a201bafc9783763d9953381d3aa09bf69ac9f5d04e83bca695ea8857c2797cbb52", null ],
-      [ "FORMULAHOOK_ON_GROUP_RATE_CALCULATION", "d9/d27/a01763.html#a201bafc9783763d9953381d3aa09bf69a56563d7c720735fee5720cbfc7502baf", null ],
-      [ "FORMULAHOOK_ON_AFTER_ARENA_RATING_CALCULATION", "d9/d27/a01763.html#a201bafc9783763d9953381d3aa09bf69aec7df5954df9c5fdc2ddcc2f36e3cb92", null ],
-      [ "FORMULAHOOK_ON_BEFORE_UPDATING_PERSONAL_RATING", "d9/d27/a01763.html#a201bafc9783763d9953381d3aa09bf69ad8dee2b8396106bfbf66942eb7917b33", null ],
-      [ "FORMULAHOOK_END", "d9/d27/a01763.html#a201bafc9783763d9953381d3aa09bf69a9a1299486f5025ac19ec955832a0813f", null ]
+    [ "Corpse", "d9/dff/a07988.html", "d9/dff/a07988" ],
+    [ "CORPSE_RECLAIM_RADIUS", "d9/d27/a01763.html#a1cebf109f41dcdac8a90086696642782", null ],
+    [ "MAX_CORPSE_TYPE", "d9/d27/a01763.html#aec0512ffe7d6a8f7dd8330c334bb4fc3", null ],
+    [ "CorpseFlags", "d9/d27/a01763.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537c", [
+      [ "CORPSE_FLAG_NONE", "d9/d27/a01763.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537ca30260079b14373a47aef21b99e8757a2", null ],
+      [ "CORPSE_FLAG_BONES", "d9/d27/a01763.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537ca47ec12fa0520573d7d8ff9231ca4eb8b", null ],
+      [ "CORPSE_FLAG_UNK1", "d9/d27/a01763.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537ca043171119fe69fae07f3668763d40c7c", null ],
+      [ "CORPSE_FLAG_UNK2", "d9/d27/a01763.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537ca769ec96151b713170c051ee6236bbd5e", null ],
+      [ "CORPSE_FLAG_HIDE_HELM", "d9/d27/a01763.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537ca830d0cde7665a938cd48d4018ae0df79", null ],
+      [ "CORPSE_FLAG_HIDE_CLOAK", "d9/d27/a01763.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537ca25bc5b9c02c2cce38be9bb32c2ad335a", null ],
+      [ "CORPSE_FLAG_LOOTABLE", "d9/d27/a01763.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537caeb7f1630dc7c0b062b809e65cd4e5f80", null ]
+    ] ],
+    [ "CorpseType", "d9/d27/a01763.html#a43260eb47484e62a16a868f79646c683", [
+      [ "CORPSE_BONES", "d9/d27/a01763.html#a43260eb47484e62a16a868f79646c683ae7046aabaa7e6f435370eb1c49335356", null ],
+      [ "CORPSE_RESURRECTABLE_PVE", "d9/d27/a01763.html#a43260eb47484e62a16a868f79646c683a79e10cac636d94dc5aa8379ecce5cc78", null ],
+      [ "CORPSE_RESURRECTABLE_PVP", "d9/d27/a01763.html#a43260eb47484e62a16a868f79646c683a90cccb41a96804ac3340b13ff68241ba", null ]
     ] ]
 ];

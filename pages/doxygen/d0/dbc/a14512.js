@@ -1,5 +1,6 @@
 var a14512 =
 [
-    [ "achievement_pb_pilgrims_peril", "d0/dbc/a14512.html#a9516eab18d7e1401a5637913d8ec9595", null ],
-    [ "OnCheck", "d0/dbc/a14512.html#a78c92eab532448080c1d28dc8fcabaca", null ]
+    [ "HandleDummy", "d0/dbc/a14512.html#a5e0797e5af760b618b1498f405766de8", null ],
+    [ "PrepareSpellScript", "d0/dbc/a14512.html#a3be664b18a2474857e8a2b199ea93aaf", null ],
+    [ "Register", "d0/dbc/a14512.html#a2254e486bda73e07f8327c3412c7852b", null ]
 ];

@@ -1,7 +1,7 @@
 var a11136 =
 [
-    [ "SpellImmune", "dd/dbd/a11136.html#a70ebcde656db6c4d7c21fb03af44978a", null ],
-    [ "blockType", "dd/dbd/a11136.html#a13a353d02a7330820df170eb46e7a26d", null ],
-    [ "spellId", "dd/dbd/a11136.html#a6aeb1bebf2f079424ebfa5192c568adc", null ],
-    [ "type", "dd/dbd/a11136.html#ae1a414f35b2cce61cd4f5640c761f7ea", null ]
+    [ "WorldObjectSpellNearbyTargetCheck", "dd/dbd/a11136.html#afda548f6394c5d11a7ca229fe6b3d402", null ],
+    [ "operator()", "dd/dbd/a11136.html#a731ee07d028a5ee63ecd14321c83664d", null ],
+    [ "_position", "dd/dbd/a11136.html#a7b19899dd015a73bd1ae4c71fa9ae79d", null ],
+    [ "_range", "dd/dbd/a11136.html#abfec0df490876b2b83dcdee4da75a77f", null ]
 ];

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: Acore::AIRelocationNotifier Struct Reference</title>
+<title>AzerothCore: Acore::VisibleNotifier Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -108,33 +108,50 @@ $(document).ready(function(){initNavTree('db/df5/a09172.html','../../'); initRes
 <a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../de/dd2/a09169.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">Acore::AIRelocationNotifier Struct Reference</div></div>
+  <div class="headertitle"><div class="title">Acore::VisibleNotifier Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
 <p><code>#include &quot;<a class="el" href="../../">GridNotifiers.h</a>&quot;</code></p>
+<div class="dynheader">
+Inheritance diagram for Acore::VisibleNotifier:</div>
+<div class="dyncontent">
+ <div class="center">
+  <img src="../../db/df5/a09172.png" usemap="#Acore::VisibleNotifier_map" alt=""/>
+  <map id="Acore::VisibleNotifier_map" name="Acore::VisibleNotifier_map">
+<area href="../../d0/dbc/a09180.html" alt="Acore::PlayerRelocationNotifier" shape="rect" coords="0,56,190,80"/>
+  </map>
+</div></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:ab19dba99802231bc1ba7b3ae3cb4bdb3"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/df5/a09172.html#ab19dba99802231bc1ba7b3ae3cb4bdb3">AIRelocationNotifier</a> (<a class="el" href="../../dc/d0b/a08732.html">Unit</a> &amp;unit)</td></tr>
-<tr class="separator:ab19dba99802231bc1ba7b3ae3cb4bdb3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0ec9a2499d73516dd2d4a0319990924a"><td class="memTemplParams" colspan="2">template&lt;class T &gt; </td></tr>
-<tr class="memitem:a0ec9a2499d73516dd2d4a0319990924a"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../db/df5/a09172.html#a0ec9a2499d73516dd2d4a0319990924a">Visit</a> (<a class="el" href="../../dd/d59/a09076.html">GridRefMgr</a>&lt; T &gt; &amp;)</td></tr>
-<tr class="separator:a0ec9a2499d73516dd2d4a0319990924a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a06dd774a24d4a1da36a2a862c0ad97df"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/df5/a09172.html#a06dd774a24d4a1da36a2a862c0ad97df">Visit</a> (<a class="el" href="../../d6/d06/a00572.html#ac60ef2e7adf9bc71b50d675b4b74980b">CreatureMapType</a> &amp;)</td></tr>
-<tr class="separator:a06dd774a24d4a1da36a2a862c0ad97df"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af6b878aad8873a7e34670af7ed84188e"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/df5/a09172.html#af6b878aad8873a7e34670af7ed84188e">VisibleNotifier</a> (<a class="el" href="../../d8/d93/a08612.html">Player</a> &amp;player, bool gobjOnly, bool largeOnly)</td></tr>
+<tr class="separator:af6b878aad8873a7e34670af7ed84188e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a77d110af6b97c2a4d93ff53a8771273d"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/df5/a09172.html#a77d110af6b97c2a4d93ff53a8771273d">Visit</a> (<a class="el" href="../../d0/d0a/a00743.html#aad35d1efe9e8a57f45c0740a89bf9fbf">GameObjectMapType</a> &amp;)</td></tr>
+<tr class="separator:a77d110af6b97c2a4d93ff53a8771273d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8dafcbc64e004aea196aec47fb2bb175"><td class="memTemplParams" colspan="2">template&lt;class T &gt; </td></tr>
+<tr class="memitem:a8dafcbc64e004aea196aec47fb2bb175"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../db/df5/a09172.html#a8dafcbc64e004aea196aec47fb2bb175">Visit</a> (<a class="el" href="../../d9/ddc/a09092.html">GridRefMgr</a>&lt; T &gt; &amp;m)</td></tr>
+<tr class="separator:a8dafcbc64e004aea196aec47fb2bb175"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a95d1c60911cfed9e4f0e034afbf11482"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/df5/a09172.html#a95d1c60911cfed9e4f0e034afbf11482">SendToSelf</a> (void)</td></tr>
+<tr class="separator:a95d1c60911cfed9e4f0e034afbf11482"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:ab1dd814e4d94ed2989bb07012a24d40e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dc/d0b/a08732.html">Unit</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/df5/a09172.html#ab1dd814e4d94ed2989bb07012a24d40e">i_unit</a></td></tr>
-<tr class="separator:ab1dd814e4d94ed2989bb07012a24d40e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a199f4b91d00dd4db90855e5521d87a95"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/df5/a09172.html#a199f4b91d00dd4db90855e5521d87a95">isCreature</a></td></tr>
-<tr class="separator:a199f4b91d00dd4db90855e5521d87a95"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aaa324b9a9cffd59c7cbab0c08cf68395"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d93/a08612.html">Player</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/df5/a09172.html#aaa324b9a9cffd59c7cbab0c08cf68395">i_player</a></td></tr>
+<tr class="separator:aaa324b9a9cffd59c7cbab0c08cf68395"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a34d766816baaad7b1b3623360ec9abeb"><td class="memItemLeft" align="right" valign="top">std::vector&lt; <a class="el" href="../../d4/dd6/a08748.html">Unit</a> * &gt; &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/df5/a09172.html#a34d766816baaad7b1b3623360ec9abeb">i_visibleNow</a></td></tr>
+<tr class="separator:a34d766816baaad7b1b3623360ec9abeb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a019182fa8a629d796982f9cc565d9bc3"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/df5/a09172.html#a019182fa8a629d796982f9cc565d9bc3">i_gobjOnly</a></td></tr>
+<tr class="separator:a019182fa8a629d796982f9cc565d9bc3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6954721b71a55874c7f708bf822613bd"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/df5/a09172.html#a6954721b71a55874c7f708bf822613bd">i_largeOnly</a></td></tr>
+<tr class="separator:a6954721b71a55874c7f708bf822613bd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6cfba0f042e117cfdb7bdf1f1168c0ce"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d05/a08464.html">UpdateData</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/df5/a09172.html#a6cfba0f042e117cfdb7bdf1f1168c0ce">i_data</a></td></tr>
+<tr class="separator:a6cfba0f042e117cfdb7bdf1f1168c0ce"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="ab19dba99802231bc1ba7b3ae3cb4bdb3" name="ab19dba99802231bc1ba7b3ae3cb4bdb3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab19dba99802231bc1ba7b3ae3cb4bdb3">&#9670;&#160;</a></span>AIRelocationNotifier()</h2>
+<a id="af6b878aad8873a7e34670af7ed84188e" name="af6b878aad8873a7e34670af7ed84188e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af6b878aad8873a7e34670af7ed84188e">&#9670;&#160;</a></span>VisibleNotifier()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -143,72 +160,220 @@ Public Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">Acore::AIRelocationNotifier::AIRelocationNotifier </td>
+          <td class="memname">Acore::VisibleNotifier::VisibleNotifier </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../dc/d0b/a08732.html">Unit</a> &amp;&#160;</td>
-          <td class="paramname"><em>unit</em></td><td>)</td>
+          <td class="paramtype"><a class="el" href="../../d8/d93/a08612.html">Player</a> &amp;&#160;</td>
+          <td class="paramname"><em>player</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
           <td></td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>gobjOnly</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>largeOnly</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">explicit</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   94</span>: <a class="code hl_variable" href="../../db/df5/a09172.html#ab1dd814e4d94ed2989bb07012a24d40e">i_unit</a>(unit), <a class="code hl_variable" href="../../db/df5/a09172.html#a199f4b91d00dd4db90855e5521d87a95">isCreature</a>(unit.<a class="code hl_function" href="../../d0/de8/a08352.html#aacc8ee332f66effdc0d77c126dae1961">IsCreature</a>())  {}</div>
-<div class="ttc" id="aa08352_html_aacc8ee332f66effdc0d77c126dae1961"><div class="ttname"><a href="../../d0/de8/a08352.html#aacc8ee332f66effdc0d77c126dae1961">Object::IsCreature</a></div><div class="ttdeci">bool IsCreature() const</div><div class="ttdef"><b>Definition:</b> Object.h:205</div></div>
-<div class="ttc" id="aa09172_html_a199f4b91d00dd4db90855e5521d87a95"><div class="ttname"><a href="../../db/df5/a09172.html#a199f4b91d00dd4db90855e5521d87a95">Acore::AIRelocationNotifier::isCreature</a></div><div class="ttdeci">bool isCreature</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:93</div></div>
-<div class="ttc" id="aa09172_html_ab1dd814e4d94ed2989bb07012a24d40e"><div class="ttname"><a href="../../db/df5/a09172.html#ab1dd814e4d94ed2989bb07012a24d40e">Acore::AIRelocationNotifier::i_unit</a></div><div class="ttdeci">Unit &amp; i_unit</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:92</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   51</span>                                                                       :</div>
+<div class="line"><span class="lineno">   52</span>            <a class="code hl_variable" href="../../db/df5/a09172.html#aaa324b9a9cffd59c7cbab0c08cf68395">i_player</a>(player), <a class="code hl_variable" href="../../db/df5/a09172.html#a34d766816baaad7b1b3623360ec9abeb">i_visibleNow</a>(player.<a class="code hl_variable" href="../../d8/d93/a08612.html#a6007101d3738eeb32722a51019109876">m_newVisible</a>), <a class="code hl_variable" href="../../db/df5/a09172.html#a019182fa8a629d796982f9cc565d9bc3">i_gobjOnly</a>(gobjOnly), <a class="code hl_variable" href="../../db/df5/a09172.html#a6954721b71a55874c7f708bf822613bd">i_largeOnly</a>(largeOnly)</div>
+<div class="line"><span class="lineno">   53</span>        {</div>
+<div class="line"><span class="lineno">   54</span>            <a class="code hl_variable" href="../../db/df5/a09172.html#a34d766816baaad7b1b3623360ec9abeb">i_visibleNow</a>.clear();</div>
+<div class="line"><span class="lineno">   55</span>        }</div>
+<div class="ttc" id="aa08612_html_a6007101d3738eeb32722a51019109876"><div class="ttname"><a href="../../d8/d93/a08612.html#a6007101d3738eeb32722a51019109876">Player::m_newVisible</a></div><div class="ttdeci">std::vector&lt; Unit * &gt; m_newVisible</div><div class="ttdef"><b>Definition:</b> Player.h:2399</div></div>
+<div class="ttc" id="aa09172_html_a019182fa8a629d796982f9cc565d9bc3"><div class="ttname"><a href="../../db/df5/a09172.html#a019182fa8a629d796982f9cc565d9bc3">Acore::VisibleNotifier::i_gobjOnly</a></div><div class="ttdeci">bool i_gobjOnly</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:47</div></div>
+<div class="ttc" id="aa09172_html_a34d766816baaad7b1b3623360ec9abeb"><div class="ttname"><a href="../../db/df5/a09172.html#a34d766816baaad7b1b3623360ec9abeb">Acore::VisibleNotifier::i_visibleNow</a></div><div class="ttdeci">std::vector&lt; Unit * &gt; &amp; i_visibleNow</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:46</div></div>
+<div class="ttc" id="aa09172_html_a6954721b71a55874c7f708bf822613bd"><div class="ttname"><a href="../../db/df5/a09172.html#a6954721b71a55874c7f708bf822613bd">Acore::VisibleNotifier::i_largeOnly</a></div><div class="ttdeci">bool i_largeOnly</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:48</div></div>
+<div class="ttc" id="aa09172_html_aaa324b9a9cffd59c7cbab0c08cf68395"><div class="ttname"><a href="../../db/df5/a09172.html#aaa324b9a9cffd59c7cbab0c08cf68395">Acore::VisibleNotifier::i_player</a></div><div class="ttdeci">Player &amp; i_player</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:45</div></div>
 </div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00046">i_visibleNow</a>.</p>
+
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="a06dd774a24d4a1da36a2a862c0ad97df" name="a06dd774a24d4a1da36a2a862c0ad97df"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a06dd774a24d4a1da36a2a862c0ad97df">&#9670;&#160;</a></span>Visit() <span class="overload">[1/2]</span></h2>
+<a id="a95d1c60911cfed9e4f0e034afbf11482" name="a95d1c60911cfed9e4f0e034afbf11482"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a95d1c60911cfed9e4f0e034afbf11482">&#9670;&#160;</a></span>SendToSelf()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void AIRelocationNotifier::Visit </td>
+          <td class="memname">void VisibleNotifier::SendToSelf </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d6/d06/a00572.html#ac60ef2e7adf9bc71b50d675b4b74980b">CreatureMapType</a> &amp;&#160;</td>
+          <td class="paramtype">void&#160;</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   40</span>{</div>
+<div class="line"><span class="lineno">   41</span>    <span class="comment">// at this moment i_clientGUIDs have guids that not iterate at grid level checks</span></div>
+<div class="line"><span class="lineno">   42</span>    <span class="comment">// but exist one case when this possible and object not out of range: transports</span></div>
+<div class="line"><span class="lineno">   43</span>    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d3/d90/a08652.html">Transport</a>* transport = <a class="code hl_variable" href="../../db/df5/a09172.html#aaa324b9a9cffd59c7cbab0c08cf68395">i_player</a>.<a class="code hl_function" href="../../d5/d99/a08396.html#a9ffd4691b1ebdb5011e800739b4dd4f5">GetTransport</a>())</div>
+<div class="line"><span class="lineno">   44</span>    {</div>
+<div class="line"><span class="lineno">   45</span>        <span class="keywordflow">for</span> (Transport::PassengerSet::const_iterator itr = transport-&gt;GetPassengers().begin(); itr != transport-&gt;GetPassengers().end(); ++itr)</div>
+<div class="line"><span class="lineno">   46</span>        {</div>
+<div class="line"><span class="lineno">   47</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../db/df5/a09172.html#a6954721b71a55874c7f708bf822613bd">i_largeOnly</a> != (*itr)-&gt;IsVisibilityOverridden())</div>
+<div class="line"><span class="lineno">   48</span>                <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">   49</span> </div>
+<div class="line"><span class="lineno">   50</span>            <span class="keywordflow">switch</span> ((*itr)-&gt;GetTypeId())</div>
+<div class="line"><span class="lineno">   51</span>            {</div>
+<div class="line"><span class="lineno">   52</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d6/d3d/a01784.html#a183c40b2ba67065929d70b3987da4cc2a91b74ac7ebfe7909332a6eec5054c60d">TYPEID_GAMEOBJECT</a>:</div>
+<div class="line"><span class="lineno">   53</span>                <a class="code hl_variable" href="../../db/df5/a09172.html#aaa324b9a9cffd59c7cbab0c08cf68395">i_player</a>.<a class="code hl_function" href="../../d8/d93/a08612.html#a561292db1465ce3928026072248c66b2">UpdateVisibilityOf</a>((*itr)-&gt;ToGameObject(), <a class="code hl_variable" href="../../db/df5/a09172.html#a6cfba0f042e117cfdb7bdf1f1168c0ce">i_data</a>, <a class="code hl_variable" href="../../db/df5/a09172.html#a34d766816baaad7b1b3623360ec9abeb">i_visibleNow</a>);</div>
+<div class="line"><span class="lineno">   54</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">   55</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d6/d3d/a01784.html#a183c40b2ba67065929d70b3987da4cc2aca37d750899c40a5743285ccda2bba9c">TYPEID_PLAYER</a>:</div>
+<div class="line"><span class="lineno">   56</span>                <a class="code hl_variable" href="../../db/df5/a09172.html#aaa324b9a9cffd59c7cbab0c08cf68395">i_player</a>.<a class="code hl_function" href="../../d8/d93/a08612.html#a561292db1465ce3928026072248c66b2">UpdateVisibilityOf</a>((*itr)-&gt;ToPlayer(), <a class="code hl_variable" href="../../db/df5/a09172.html#a6cfba0f042e117cfdb7bdf1f1168c0ce">i_data</a>, <a class="code hl_variable" href="../../db/df5/a09172.html#a34d766816baaad7b1b3623360ec9abeb">i_visibleNow</a>);</div>
+<div class="line"><span class="lineno">   57</span>                (*itr)-&gt;ToPlayer()-&gt;UpdateVisibilityOf(&amp;<a class="code hl_variable" href="../../db/df5/a09172.html#aaa324b9a9cffd59c7cbab0c08cf68395">i_player</a>);</div>
+<div class="line"><span class="lineno">   58</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">   59</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d6/d3d/a01784.html#a183c40b2ba67065929d70b3987da4cc2a93dfa528ffc48db4993fb7ac62696db9">TYPEID_UNIT</a>:</div>
+<div class="line"><span class="lineno">   60</span>                <a class="code hl_variable" href="../../db/df5/a09172.html#aaa324b9a9cffd59c7cbab0c08cf68395">i_player</a>.<a class="code hl_function" href="../../d8/d93/a08612.html#a561292db1465ce3928026072248c66b2">UpdateVisibilityOf</a>((*itr)-&gt;ToCreature(), <a class="code hl_variable" href="../../db/df5/a09172.html#a6cfba0f042e117cfdb7bdf1f1168c0ce">i_data</a>, <a class="code hl_variable" href="../../db/df5/a09172.html#a34d766816baaad7b1b3623360ec9abeb">i_visibleNow</a>);</div>
+<div class="line"><span class="lineno">   61</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">   62</span>            <span class="keywordflow">default</span>:</div>
+<div class="line"><span class="lineno">   63</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">   64</span>            }</div>
+<div class="line"><span class="lineno">   65</span>        }</div>
+<div class="line"><span class="lineno">   66</span>    }</div>
+<div class="line"><span class="lineno">   67</span> </div>
+<div class="line"><span class="lineno">   68</span>    <a class="code hl_typedef" href="../../d7/d6d/a01769.html#a6fe979433a4dd2c9023626ecc74bf6a5">VisibleWorldObjectsMap</a>* visibleWorldObjects = <a class="code hl_variable" href="../../db/df5/a09172.html#aaa324b9a9cffd59c7cbab0c08cf68395">i_player</a>.<a class="code hl_function" href="../../d5/d99/a08396.html#ac290821bbb0362b1fe15ba5857c727e7">GetObjectVisibilityContainer</a>().<a class="code hl_function" href="../../d3/d5b/a08440.html#a3697b9b06489bee6a9d63313569d6d3e">GetVisibleWorldObjectsMap</a>();</div>
+<div class="line"><span class="lineno">   69</span>    <span class="keywordflow">for</span> (VisibleWorldObjectsMap::iterator itr = visibleWorldObjects-&gt;begin(); itr != visibleWorldObjects-&gt;end();)</div>
+<div class="line"><span class="lineno">   70</span>    {</div>
+<div class="line"><span class="lineno">   71</span>        <a class="code hl_class" href="../../d5/d99/a08396.html">WorldObject</a>* obj = itr-&gt;second;</div>
+<div class="line"><span class="lineno">   72</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../db/df5/a09172.html#a6954721b71a55874c7f708bf822613bd">i_largeOnly</a> != obj-&gt;<a class="code hl_function" href="../../d5/d99/a08396.html#a4f4a4f64229ca85c4ed891ee566fcd7c">IsVisibilityOverridden</a>())</div>
+<div class="line"><span class="lineno">   73</span>        {</div>
+<div class="line"><span class="lineno">   74</span>            ++itr;</div>
+<div class="line"><span class="lineno">   75</span>            <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">   76</span>        }</div>
+<div class="line"><span class="lineno">   77</span> </div>
+<div class="line"><span class="lineno">   78</span>        <span class="comment">// pussywizard: static transports are removed only in RemovePlayerFromMap and here if can no longer detect (eg. phase changed)</span></div>
+<div class="line"><span class="lineno">   79</span>        <span class="keywordflow">if</span> (itr-&gt;first.IsTransport())</div>
+<div class="line"><span class="lineno">   80</span>        {</div>
+<div class="line"><span class="lineno">   81</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d9/dae/a08168.html">GameObject</a>* staticTrans = obj-&gt;<a class="code hl_function" href="../../d1/d53/a08360.html#a96b380b13acdb406d552053cf775180f">ToGameObject</a>())</div>
+<div class="line"><span class="lineno">   82</span>            {</div>
+<div class="line"><span class="lineno">   83</span>                <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../db/df5/a09172.html#aaa324b9a9cffd59c7cbab0c08cf68395">i_player</a>.<a class="code hl_function" href="../../d5/d99/a08396.html#addeafb9ef860ca79c7a6570ae75a4bd0">CanSeeOrDetect</a>(staticTrans, <span class="keyword">false</span>, <span class="keyword">true</span>))</div>
+<div class="line"><span class="lineno">   84</span>                {</div>
+<div class="line"><span class="lineno">   85</span>                    ++itr;</div>
+<div class="line"><span class="lineno">   86</span>                    <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">   87</span>                }</div>
+<div class="line"><span class="lineno">   88</span>            }</div>
+<div class="line"><span class="lineno">   89</span>        }</div>
+<div class="line"><span class="lineno">   90</span> </div>
+<div class="line"><span class="lineno">   91</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../db/df5/a09172.html#aaa324b9a9cffd59c7cbab0c08cf68395">i_player</a>.<a class="code hl_variable" href="../../d8/d93/a08612.html#a627213e5abefc63f5e430cd8ecfbb06e">m_seer</a>-&gt;<a class="code hl_function" href="../../d5/d99/a08396.html#a488ffb2c3d4f60c987706f93bc4db611">IsWithinDist</a>(obj, <a class="code hl_variable" href="../../db/df5/a09172.html#aaa324b9a9cffd59c7cbab0c08cf68395">i_player</a>.<a class="code hl_function" href="../../d8/d93/a08612.html#af7e3ec77fe429cf8eefb9f78657d9906">GetSightRange</a>(obj), <span class="keyword">true</span>))</div>
+<div class="line"><span class="lineno">   92</span>        {</div>
+<div class="line"><span class="lineno">   93</span>            ++itr;</div>
+<div class="line"><span class="lineno">   94</span>            <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">   95</span>        }</div>
+<div class="line"><span class="lineno">   96</span> </div>
+<div class="line"><span class="lineno">   97</span>        <a class="code hl_variable" href="../../db/df5/a09172.html#a6cfba0f042e117cfdb7bdf1f1168c0ce">i_data</a>.<a class="code hl_function" href="../../d8/d05/a08464.html#a4c68f187e2f6e65da3bdb6a443ebcacf">AddOutOfRangeGUID</a>(obj-&gt;<a class="code hl_function" href="../../d1/d53/a08360.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>());</div>
+<div class="line"><span class="lineno">   98</span> </div>
+<div class="line"><span class="lineno">   99</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d8/d93/a08612.html">Player</a>* objPlayer = obj-&gt;<a class="code hl_function" href="../../d1/d53/a08360.html#a328d5f752cc33ed398b3d9861ef6929d">ToPlayer</a>())</div>
+<div class="line"><span class="lineno">  100</span>            objPlayer-&gt;UpdateVisibilityOf(&amp;<a class="code hl_variable" href="../../db/df5/a09172.html#aaa324b9a9cffd59c7cbab0c08cf68395">i_player</a>);</div>
+<div class="line"><span class="lineno">  101</span> </div>
+<div class="line"><span class="lineno">  102</span>        <span class="comment">// Clean up references</span></div>
+<div class="line"><span class="lineno">  103</span>        itr = <a class="code hl_variable" href="../../db/df5/a09172.html#aaa324b9a9cffd59c7cbab0c08cf68395">i_player</a>.<a class="code hl_function" href="../../d5/d99/a08396.html#ac290821bbb0362b1fe15ba5857c727e7">GetObjectVisibilityContainer</a>().<a class="code hl_function" href="../../d3/d5b/a08440.html#acb9c8d0ebfd5454ee7b697c0b1da7ad7">UnlinkVisibilityFromPlayer</a>(obj, itr);</div>
+<div class="line"><span class="lineno">  104</span>    }</div>
+<div class="line"><span class="lineno">  105</span> </div>
+<div class="line"><span class="lineno">  106</span>    <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../db/df5/a09172.html#a6cfba0f042e117cfdb7bdf1f1168c0ce">i_data</a>.<a class="code hl_function" href="../../d8/d05/a08464.html#a067577372028ad59aea7942f0cd4a5c2">HasData</a>())</div>
+<div class="line"><span class="lineno">  107</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  108</span> </div>
+<div class="line"><span class="lineno">  109</span>    <a class="code hl_class" href="../../d7/dbc/a10976.html">WorldPacket</a> packet;</div>
+<div class="line"><span class="lineno">  110</span>    <a class="code hl_variable" href="../../db/df5/a09172.html#a6cfba0f042e117cfdb7bdf1f1168c0ce">i_data</a>.<a class="code hl_function" href="../../d8/d05/a08464.html#a3bea592b01b6c9e41b863c26fd602d45">BuildPacket</a>(packet);</div>
+<div class="line"><span class="lineno">  111</span>    <a class="code hl_variable" href="../../db/df5/a09172.html#aaa324b9a9cffd59c7cbab0c08cf68395">i_player</a>.<a class="code hl_function" href="../../d8/d93/a08612.html#a6ab11ca64cde7c5cde1f53998a6f7253">GetSession</a>()-&gt;<a class="code hl_function" href="../../d8/d39/a11020.html#a2c74b80ca9b81765049e315813b29269">SendPacket</a>(&amp;packet);</div>
+<div class="line"><span class="lineno">  112</span> </div>
+<div class="line"><span class="lineno">  113</span>    <span class="keywordflow">for</span> (std::vector&lt;Unit*&gt;::const_iterator it = <a class="code hl_variable" href="../../db/df5/a09172.html#a34d766816baaad7b1b3623360ec9abeb">i_visibleNow</a>.begin(); it != <a class="code hl_variable" href="../../db/df5/a09172.html#a34d766816baaad7b1b3623360ec9abeb">i_visibleNow</a>.end(); ++it)</div>
+<div class="line"><span class="lineno">  114</span>    {</div>
+<div class="line"><span class="lineno">  115</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../db/df5/a09172.html#a6954721b71a55874c7f708bf822613bd">i_largeOnly</a> != (*it)-&gt;IsVisibilityOverridden())</div>
+<div class="line"><span class="lineno">  116</span>            <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  117</span> </div>
+<div class="line"><span class="lineno">  118</span>        <a class="code hl_variable" href="../../db/df5/a09172.html#aaa324b9a9cffd59c7cbab0c08cf68395">i_player</a>.<a class="code hl_function" href="../../d8/d93/a08612.html#ab887cd27711ff0d2e37174fabd33a3ab">GetInitialVisiblePackets</a>(*it);</div>
+<div class="line"><span class="lineno">  119</span>    }</div>
+<div class="line"><span class="lineno">  120</span>}</div>
+<div class="ttc" id="aa01769_html_a6fe979433a4dd2c9023626ecc74bf6a5"><div class="ttname"><a href="../../d7/d6d/a01769.html#a6fe979433a4dd2c9023626ecc74bf6a5">VisibleWorldObjectsMap</a></div><div class="ttdeci">std::unordered_map&lt; ObjectGuid, WorldObject * &gt; VisibleWorldObjectsMap</div><div class="ttdef"><b>Definition:</b> ObjectVisibilityContainer.h:29</div></div>
+<div class="ttc" id="aa01784_html_a183c40b2ba67065929d70b3987da4cc2a91b74ac7ebfe7909332a6eec5054c60d"><div class="ttname"><a href="../../d6/d3d/a01784.html#a183c40b2ba67065929d70b3987da4cc2a91b74ac7ebfe7909332a6eec5054c60d">TYPEID_GAMEOBJECT</a></div><div class="ttdeci">@ TYPEID_GAMEOBJECT</div><div class="ttdef"><b>Definition:</b> ObjectGuid.h:37</div></div>
+<div class="ttc" id="aa01784_html_a183c40b2ba67065929d70b3987da4cc2a93dfa528ffc48db4993fb7ac62696db9"><div class="ttname"><a href="../../d6/d3d/a01784.html#a183c40b2ba67065929d70b3987da4cc2a93dfa528ffc48db4993fb7ac62696db9">TYPEID_UNIT</a></div><div class="ttdeci">@ TYPEID_UNIT</div><div class="ttdef"><b>Definition:</b> ObjectGuid.h:35</div></div>
+<div class="ttc" id="aa01784_html_a183c40b2ba67065929d70b3987da4cc2aca37d750899c40a5743285ccda2bba9c"><div class="ttname"><a href="../../d6/d3d/a01784.html#a183c40b2ba67065929d70b3987da4cc2aca37d750899c40a5743285ccda2bba9c">TYPEID_PLAYER</a></div><div class="ttdeci">@ TYPEID_PLAYER</div><div class="ttdef"><b>Definition:</b> ObjectGuid.h:36</div></div>
+<div class="ttc" id="aa08168_html"><div class="ttname"><a href="../../d9/dae/a08168.html">GameObject</a></div><div class="ttdef"><b>Definition:</b> GameObject.h:120</div></div>
+<div class="ttc" id="aa08360_html_a328d5f752cc33ed398b3d9861ef6929d"><div class="ttname"><a href="../../d1/d53/a08360.html#a328d5f752cc33ed398b3d9861ef6929d">Object::ToPlayer</a></div><div class="ttdeci">Player * ToPlayer()</div><div class="ttdef"><b>Definition:</b> Object.h:202</div></div>
+<div class="ttc" id="aa08360_html_a96b380b13acdb406d552053cf775180f"><div class="ttname"><a href="../../d1/d53/a08360.html#a96b380b13acdb406d552053cf775180f">Object::ToGameObject</a></div><div class="ttdeci">GameObject * ToGameObject()</div><div class="ttdef"><b>Definition:</b> Object.h:214</div></div>
+<div class="ttc" id="aa08360_html_ad23b997e2442fa6a6228ba73a7ecc138"><div class="ttname"><a href="../../d1/d53/a08360.html#ad23b997e2442fa6a6228ba73a7ecc138">Object::GetGUID</a></div><div class="ttdeci">static ObjectGuid GetGUID(Object const *o)</div><div class="ttdef"><b>Definition:</b> Object.h:113</div></div>
+<div class="ttc" id="aa08396_html"><div class="ttname"><a href="../../d5/d99/a08396.html">WorldObject</a></div><div class="ttdef"><b>Definition:</b> Object.h:461</div></div>
+<div class="ttc" id="aa08396_html_a488ffb2c3d4f60c987706f93bc4db611"><div class="ttname"><a href="../../d5/d99/a08396.html#a488ffb2c3d4f60c987706f93bc4db611">WorldObject::IsWithinDist</a></div><div class="ttdeci">bool IsWithinDist(WorldObject const *obj, float dist2compare, bool is3D=true, bool useBoundingRadius=true) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:1284</div></div>
+<div class="ttc" id="aa08396_html_a4f4a4f64229ca85c4ed891ee566fcd7c"><div class="ttname"><a href="../../d5/d99/a08396.html#a4f4a4f64229ca85c4ed891ee566fcd7c">WorldObject::IsVisibilityOverridden</a></div><div class="ttdeci">bool IsVisibilityOverridden() const</div><div class="ttdef"><b>Definition:</b> Object.h:658</div></div>
+<div class="ttc" id="aa08396_html_a9ffd4691b1ebdb5011e800739b4dd4f5"><div class="ttname"><a href="../../d5/d99/a08396.html#a9ffd4691b1ebdb5011e800739b4dd4f5">WorldObject::GetTransport</a></div><div class="ttdeci">Transport * GetTransport() const</div><div class="ttdef"><b>Definition:</b> Object.h:669</div></div>
+<div class="ttc" id="aa08396_html_ac290821bbb0362b1fe15ba5857c727e7"><div class="ttname"><a href="../../d5/d99/a08396.html#ac290821bbb0362b1fe15ba5857c727e7">WorldObject::GetObjectVisibilityContainer</a></div><div class="ttdeci">ObjectVisibilityContainer &amp; GetObjectVisibilityContainer()</div><div class="ttdef"><b>Definition:</b> Object.h:712</div></div>
+<div class="ttc" id="aa08396_html_addeafb9ef860ca79c7a6570ae75a4bd0"><div class="ttname"><a href="../../d5/d99/a08396.html#addeafb9ef860ca79c7a6570ae75a4bd0">WorldObject::CanSeeOrDetect</a></div><div class="ttdeci">bool CanSeeOrDetect(WorldObject const *obj, bool ignoreStealth=false, bool distanceCheck=false, bool checkAlert=false) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:1694</div></div>
+<div class="ttc" id="aa08440_html_a3697b9b06489bee6a9d63313569d6d3e"><div class="ttname"><a href="../../d3/d5b/a08440.html#a3697b9b06489bee6a9d63313569d6d3e">ObjectVisibilityContainer::GetVisibleWorldObjectsMap</a></div><div class="ttdeci">VisibleWorldObjectsMap * GetVisibleWorldObjectsMap()</div><div class="ttdef"><b>Definition:</b> ObjectVisibilityContainer.h:59</div></div>
+<div class="ttc" id="aa08440_html_acb9c8d0ebfd5454ee7b697c0b1da7ad7"><div class="ttname"><a href="../../d3/d5b/a08440.html#acb9c8d0ebfd5454ee7b697c0b1da7ad7">ObjectVisibilityContainer::UnlinkVisibilityFromPlayer</a></div><div class="ttdeci">VisibleWorldObjectsMap::iterator UnlinkVisibilityFromPlayer(WorldObject *worldObject, VisibleWorldObjectsMap::iterator itr)</div><div class="ttdef"><b>Definition:</b> ObjectVisibilityContainer.cpp:91</div></div>
+<div class="ttc" id="aa08464_html_a067577372028ad59aea7942f0cd4a5c2"><div class="ttname"><a href="../../d8/d05/a08464.html#a067577372028ad59aea7942f0cd4a5c2">UpdateData::HasData</a></div><div class="ttdeci">bool HasData() const</div><div class="ttdef"><b>Definition:</b> UpdateData.h:60</div></div>
+<div class="ttc" id="aa08464_html_a3bea592b01b6c9e41b863c26fd602d45"><div class="ttname"><a href="../../d8/d05/a08464.html#a3bea592b01b6c9e41b863c26fd602d45">UpdateData::BuildPacket</a></div><div class="ttdeci">bool BuildPacket(WorldPacket &amp;packet)</div><div class="ttdef"><b>Definition:</b> UpdateData.cpp:48</div></div>
+<div class="ttc" id="aa08464_html_a4c68f187e2f6e65da3bdb6a443ebcacf"><div class="ttname"><a href="../../d8/d05/a08464.html#a4c68f187e2f6e65da3bdb6a443ebcacf">UpdateData::AddOutOfRangeGUID</a></div><div class="ttdeci">void AddOutOfRangeGUID(ObjectGuid guid)</div><div class="ttdef"><b>Definition:</b> UpdateData.cpp:31</div></div>
+<div class="ttc" id="aa08612_html"><div class="ttname"><a href="../../d8/d93/a08612.html">Player</a></div><div class="ttdef"><b>Definition:</b> Player.h:1083</div></div>
+<div class="ttc" id="aa08612_html_a561292db1465ce3928026072248c66b2"><div class="ttname"><a href="../../d8/d93/a08612.html#a561292db1465ce3928026072248c66b2">Player::UpdateVisibilityOf</a></div><div class="ttdeci">void UpdateVisibilityOf(WorldObject *target)</div><div class="ttdef"><b>Definition:</b> PlayerUpdates.cpp:1716</div></div>
+<div class="ttc" id="aa08612_html_a627213e5abefc63f5e430cd8ecfbb06e"><div class="ttname"><a href="../../d8/d93/a08612.html#a627213e5abefc63f5e430cd8ecfbb06e">Player::m_seer</a></div><div class="ttdeci">WorldObject * m_seer</div><div class="ttdef"><b>Definition:</b> Player.h:2352</div></div>
+<div class="ttc" id="aa08612_html_a6ab11ca64cde7c5cde1f53998a6f7253"><div class="ttname"><a href="../../d8/d93/a08612.html#a6ab11ca64cde7c5cde1f53998a6f7253">Player::GetSession</a></div><div class="ttdeci">WorldSession * GetSession() const</div><div class="ttdef"><b>Definition:</b> Player.h:2016</div></div>
+<div class="ttc" id="aa08612_html_ab887cd27711ff0d2e37174fabd33a3ab"><div class="ttname"><a href="../../d8/d93/a08612.html#ab887cd27711ff0d2e37174fabd33a3ab">Player::GetInitialVisiblePackets</a></div><div class="ttdeci">void GetInitialVisiblePackets(Unit *target)</div><div class="ttdef"><b>Definition:</b> PlayerUpdates.cpp:1705</div></div>
+<div class="ttc" id="aa08612_html_af7e3ec77fe429cf8eefb9f78657d9906"><div class="ttname"><a href="../../d8/d93/a08612.html#af7e3ec77fe429cf8eefb9f78657d9906">Player::GetSightRange</a></div><div class="ttdeci">float GetSightRange(WorldObject const *target=nullptr) const override</div><div class="ttdef"><b>Definition:</b> Player.cpp:16252</div></div>
+<div class="ttc" id="aa08652_html"><div class="ttname"><a href="../../d3/d90/a08652.html">Transport</a></div><div class="ttdef"><b>Definition:</b> Transport.h:30</div></div>
+<div class="ttc" id="aa09172_html_a6cfba0f042e117cfdb7bdf1f1168c0ce"><div class="ttname"><a href="../../db/df5/a09172.html#a6cfba0f042e117cfdb7bdf1f1168c0ce">Acore::VisibleNotifier::i_data</a></div><div class="ttdeci">UpdateData i_data</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:49</div></div>
+<div class="ttc" id="aa10976_html"><div class="ttname"><a href="../../d7/dbc/a10976.html">WorldPacket</a></div><div class="ttdef"><b>Definition:</b> WorldPacket.h:26</div></div>
+<div class="ttc" id="aa11020_html_a2c74b80ca9b81765049e315813b29269"><div class="ttname"><a href="../../d8/d39/a11020.html#a2c74b80ca9b81765049e315813b29269">WorldSession::SendPacket</a></div><div class="ttdeci">void SendPacket(WorldPacket const *packet)</div><div class="ttdoc">Send a packet to the client.</div><div class="ttdef"><b>Definition:</b> WorldSession.cpp:251</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00031">UpdateData::AddOutOfRangeGUID()</a>, <a class="el" href="../../#l00048">UpdateData::BuildPacket()</a>, <a class="el" href="../../#l01694">WorldObject::CanSeeOrDetect()</a>, <a class="el" href="../../#l00113">Object::GetGUID()</a>, <a class="el" href="../../#l01705">Player::GetInitialVisiblePackets()</a>, <a class="el" href="../../#l00712">WorldObject::GetObjectVisibilityContainer()</a>, <a class="el" href="../../#l02016">Player::GetSession()</a>, <a class="el" href="../../#l16252">Player::GetSightRange()</a>, <a class="el" href="../../#l00669">WorldObject::GetTransport()</a>, <a class="el" href="../../#l00059">ObjectVisibilityContainer::GetVisibleWorldObjectsMap()</a>, <a class="el" href="../../#l00060">UpdateData::HasData()</a>, <a class="el" href="../../#l00049">i_data</a>, <a class="el" href="../../#l00048">i_largeOnly</a>, <a class="el" href="../../#l00045">i_player</a>, <a class="el" href="../../#l00046">i_visibleNow</a>, <a class="el" href="../../#l00658">WorldObject::IsVisibilityOverridden()</a>, <a class="el" href="../../#l01284">WorldObject::IsWithinDist()</a>, <a class="el" href="../../#l02352">Player::m_seer</a>, <a class="el" href="../../#l00251">WorldSession::SendPacket()</a>, <a class="el" href="../../#l00214">Object::ToGameObject()</a>, <a class="el" href="../../#l00202">Object::ToPlayer()</a>, <a class="el" href="../../#l00037">TYPEID_GAMEOBJECT</a>, <a class="el" href="../../#l00036">TYPEID_PLAYER</a>, <a class="el" href="../../#l00035">TYPEID_UNIT</a>, <a class="el" href="../../#l00091">ObjectVisibilityContainer::UnlinkVisibilityFromPlayer()</a>, and <a class="el" href="../../#l01716">Player::UpdateVisibilityOf()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l20242">Unit::ExecuteDelayedUnitRelocationEvent()</a>, and <a class="el" href="../../#l01592">Player::UpdateVisibilityForPlayer()</a>.</p>
+
+</div>
+</div>
+<a id="a77d110af6b97c2a4d93ff53a8771273d" name="a77d110af6b97c2a4d93ff53a8771273d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a77d110af6b97c2a4d93ff53a8771273d">&#9670;&#160;</a></span>Visit() <span class="overload">[1/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void VisibleNotifier::Visit </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/d0a/a00743.html#aad35d1efe9e8a57f45c0740a89bf9fbf">GameObjectMapType</a> &amp;&#160;</td>
           <td class="paramname"><em>m</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  196</span>{</div>
-<div class="line"><span class="lineno">  197</span>    <span class="keywordtype">bool</span> self = <a class="code hl_variable" href="../../db/df5/a09172.html#a199f4b91d00dd4db90855e5521d87a95">isCreature</a> &amp;&amp; !((<a class="code hl_class" href="../../d9/d57/a07980.html">Creature</a>*)(&amp;<a class="code hl_variable" href="../../db/df5/a09172.html#ab1dd814e4d94ed2989bb07012a24d40e">i_unit</a>))-&gt;IsMoveInLineOfSightStrictlyDisabled();</div>
-<div class="line"><span class="lineno">  198</span>    <span class="keywordflow">for</span> (<a class="code hl_class" href="../../d6/dd5/a05228.html">CreatureMapType::iterator</a> iter = m.<a class="code hl_function" href="../../dd/d59/a09076.html#a1e4e67ba11ac8da077942a6581647bf3">begin</a>(); iter != m.<a class="code hl_function" href="../../dd/d59/a09076.html#a266acb421cfc6ccc56dc2acff3202971">end</a>(); ++iter)</div>
-<div class="line"><span class="lineno">  199</span>    {</div>
-<div class="line"><span class="lineno">  200</span>        <a class="code hl_class" href="../../d9/d57/a07980.html">Creature</a>* c = iter-&gt;GetSource();</div>
-<div class="line"><span class="lineno">  201</span> </div>
-<div class="line"><span class="lineno">  202</span>        <span class="comment">// NOTIFY_VISIBILITY_CHANGED | NOTIFY_AI_RELOCATION does not guarantee that unit will do it itself (because distance is also checked), but screw it, it&#39;s not that important</span></div>
-<div class="line"><span class="lineno">  203</span>        <span class="keywordflow">if</span> (!c-&gt;<a class="code hl_function" href="../../d4/dca/a08384.html#a266350f5eebd01138f89f659d1eb7505">isNeedNotify</a>(<a class="code hl_enumvalue" href="../../d1/d93/a00875.html#ae6d03ea53b22c98f9dd7e3ce829cf389ae24fd40d89da822e12587f23612eb053">NOTIFY_VISIBILITY_CHANGED</a> | <a class="code hl_enumvalue" href="../../d1/d93/a00875.html#ae6d03ea53b22c98f9dd7e3ce829cf389ac8f5884b0cde878e7d080be2be35f12d">NOTIFY_AI_RELOCATION</a>) &amp;&amp; !c-&gt;<a class="code hl_function" href="../../d9/d57/a07980.html#a311d114dbf2ff185f20a636d3e4c61d0">IsMoveInLineOfSightStrictlyDisabled</a>())</div>
-<div class="line"><span class="lineno">  204</span>            <a class="code hl_function" href="../../dc/dae/a00563.html#a6dd107031f342074ca560b711fe188d7">CreatureUnitRelocationWorker</a>(c, &amp;<a class="code hl_variable" href="../../db/df5/a09172.html#ab1dd814e4d94ed2989bb07012a24d40e">i_unit</a>);</div>
-<div class="line"><span class="lineno">  205</span> </div>
-<div class="line"><span class="lineno">  206</span>        <span class="keywordflow">if</span> (self)</div>
-<div class="line"><span class="lineno">  207</span>            <a class="code hl_function" href="../../dc/dae/a00563.html#a6dd107031f342074ca560b711fe188d7">CreatureUnitRelocationWorker</a>((<a class="code hl_class" href="../../d9/d57/a07980.html">Creature</a>*)&amp;<a class="code hl_variable" href="../../db/df5/a09172.html#ab1dd814e4d94ed2989bb07012a24d40e">i_unit</a>, c);</div>
-<div class="line"><span class="lineno">  208</span>    }</div>
-<div class="line"><span class="lineno">  209</span>}</div>
-<div class="ttc" id="aa00563_html_a6dd107031f342074ca560b711fe188d7"><div class="ttname"><a href="../../dc/dae/a00563.html#a6dd107031f342074ca560b711fe188d7">CreatureUnitRelocationWorker</a></div><div class="ttdeci">void CreatureUnitRelocationWorker(Creature *c, Unit *u)</div><div class="ttdef"><b>Definition:</b> GridNotifiers.cpp:148</div></div>
-<div class="ttc" id="aa00875_html_ae6d03ea53b22c98f9dd7e3ce829cf389ac8f5884b0cde878e7d080be2be35f12d"><div class="ttname"><a href="../../d1/d93/a00875.html#ae6d03ea53b22c98f9dd7e3ce829cf389ac8f5884b0cde878e7d080be2be35f12d">NOTIFY_AI_RELOCATION</a></div><div class="ttdeci">@ NOTIFY_AI_RELOCATION</div><div class="ttdef"><b>Definition:</b> Object.h:68</div></div>
-<div class="ttc" id="aa00875_html_ae6d03ea53b22c98f9dd7e3ce829cf389ae24fd40d89da822e12587f23612eb053"><div class="ttname"><a href="../../d1/d93/a00875.html#ae6d03ea53b22c98f9dd7e3ce829cf389ae24fd40d89da822e12587f23612eb053">NOTIFY_VISIBILITY_CHANGED</a></div><div class="ttdeci">@ NOTIFY_VISIBILITY_CHANGED</div><div class="ttdef"><b>Definition:</b> Object.h:69</div></div>
-<div class="ttc" id="aa05228_html"><div class="ttname"><a href="../../d6/dd5/a05228.html">LinkedListHead::Iterator</a></div><div class="ttdef"><b>Definition:</b> LinkedList.h:139</div></div>
-<div class="ttc" id="aa07980_html"><div class="ttname"><a href="../../d9/d57/a07980.html">Creature</a></div><div class="ttdef"><b>Definition:</b> Creature.h:43</div></div>
-<div class="ttc" id="aa07980_html_a311d114dbf2ff185f20a636d3e4c61d0"><div class="ttname"><a href="../../d9/d57/a07980.html#a311d114dbf2ff185f20a636d3e4c61d0">Creature::IsMoveInLineOfSightStrictlyDisabled</a></div><div class="ttdeci">bool IsMoveInLineOfSightStrictlyDisabled()</div><div class="ttdef"><b>Definition:</b> Creature.h:281</div></div>
-<div class="ttc" id="aa08384_html_a266350f5eebd01138f89f659d1eb7505"><div class="ttname"><a href="../../d4/dca/a08384.html#a266350f5eebd01138f89f659d1eb7505">WorldObject::isNeedNotify</a></div><div class="ttdeci">bool isNeedNotify(uint16 f) const</div><div class="ttdef"><b>Definition:</b> Object.h:575</div></div>
-<div class="ttc" id="aa09076_html_a1e4e67ba11ac8da077942a6581647bf3"><div class="ttname"><a href="../../dd/d59/a09076.html#a1e4e67ba11ac8da077942a6581647bf3">GridRefMgr::begin</a></div><div class="ttdeci">iterator begin()</div><div class="ttdef"><b>Definition:</b> GridRefMgr.h:35</div></div>
-<div class="ttc" id="aa09076_html_a266acb421cfc6ccc56dc2acff3202971"><div class="ttname"><a href="../../dd/d59/a09076.html#a266acb421cfc6ccc56dc2acff3202971">GridRefMgr::end</a></div><div class="ttdeci">iterator end()</div><div class="ttdef"><b>Definition:</b> GridRefMgr.h:36</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   28</span>{</div>
+<div class="line"><span class="lineno">   29</span>    <span class="keywordflow">for</span> (<a class="code hl_class" href="../../d5/d47/a05240.html">GameObjectMapType::iterator</a> iter = m.<a class="code hl_function" href="../../d9/ddc/a09092.html#a1e4e67ba11ac8da077942a6581647bf3">begin</a>(); iter != m.<a class="code hl_function" href="../../d9/ddc/a09092.html#a266acb421cfc6ccc56dc2acff3202971">end</a>(); ++iter)</div>
+<div class="line"><span class="lineno">   30</span>    {</div>
+<div class="line"><span class="lineno">   31</span>        <a class="code hl_class" href="../../d9/dae/a08168.html">GameObject</a>* go = iter-&gt;GetSource();</div>
+<div class="line"><span class="lineno">   32</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../db/df5/a09172.html#a6954721b71a55874c7f708bf822613bd">i_largeOnly</a> != go-&gt;<a class="code hl_function" href="../../d5/d99/a08396.html#a4f4a4f64229ca85c4ed891ee566fcd7c">IsVisibilityOverridden</a>())</div>
+<div class="line"><span class="lineno">   33</span>            <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">   34</span> </div>
+<div class="line"><span class="lineno">   35</span>        <a class="code hl_variable" href="../../db/df5/a09172.html#aaa324b9a9cffd59c7cbab0c08cf68395">i_player</a>.<a class="code hl_function" href="../../d8/d93/a08612.html#a561292db1465ce3928026072248c66b2">UpdateVisibilityOf</a>(go, <a class="code hl_variable" href="../../db/df5/a09172.html#a6cfba0f042e117cfdb7bdf1f1168c0ce">i_data</a>, <a class="code hl_variable" href="../../db/df5/a09172.html#a34d766816baaad7b1b3623360ec9abeb">i_visibleNow</a>);</div>
+<div class="line"><span class="lineno">   36</span>    }</div>
+<div class="line"><span class="lineno">   37</span>}</div>
+<div class="ttc" id="aa05240_html"><div class="ttname"><a href="../../d5/d47/a05240.html">LinkedListHead::Iterator</a></div><div class="ttdef"><b>Definition:</b> LinkedList.h:139</div></div>
+<div class="ttc" id="aa09092_html_a1e4e67ba11ac8da077942a6581647bf3"><div class="ttname"><a href="../../d9/ddc/a09092.html#a1e4e67ba11ac8da077942a6581647bf3">GridRefMgr::begin</a></div><div class="ttdeci">iterator begin()</div><div class="ttdef"><b>Definition:</b> GridRefMgr.h:35</div></div>
+<div class="ttc" id="aa09092_html_a266acb421cfc6ccc56dc2acff3202971"><div class="ttname"><a href="../../d9/ddc/a09092.html#a266acb421cfc6ccc56dc2acff3202971">GridRefMgr::end</a></div><div class="ttdeci">iterator end()</div><div class="ttdef"><b>Definition:</b> GridRefMgr.h:36</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00035">GridRefMgr&lt; OBJECT &gt;::begin()</a>, <a class="el" href="../../#l00148">CreatureUnitRelocationWorker()</a>, <a class="el" href="../../#l00036">GridRefMgr&lt; OBJECT &gt;::end()</a>, <a class="el" href="../../#l00092">i_unit</a>, <a class="el" href="../../#l00093">isCreature</a>, <a class="el" href="../../#l00281">Creature::IsMoveInLineOfSightStrictlyDisabled()</a>, <a class="el" href="../../#l00575">WorldObject::isNeedNotify()</a>, <a class="el" href="../../#l00068">NOTIFY_AI_RELOCATION</a>, and <a class="el" href="../../#l00069">NOTIFY_VISIBILITY_CHANGED</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00035">GridRefMgr&lt; OBJECT &gt;::begin()</a>, <a class="el" href="../../#l00036">GridRefMgr&lt; OBJECT &gt;::end()</a>, <a class="el" href="../../#l00049">i_data</a>, <a class="el" href="../../#l00048">i_largeOnly</a>, <a class="el" href="../../#l00045">i_player</a>, <a class="el" href="../../#l00046">i_visibleNow</a>, <a class="el" href="../../#l00658">WorldObject::IsVisibilityOverridden()</a>, and <a class="el" href="../../#l01716">Player::UpdateVisibilityOf()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00077">Acore::PlayerRelocationNotifier::Visit()</a>.</p>
 
 </div>
 </div>
-<a id="a0ec9a2499d73516dd2d4a0319990924a" name="a0ec9a2499d73516dd2d4a0319990924a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0ec9a2499d73516dd2d4a0319990924a">&#9670;&#160;</a></span>Visit() <span class="overload">[2/2]</span></h2>
+<a id="a8dafcbc64e004aea196aec47fb2bb175" name="a8dafcbc64e004aea196aec47fb2bb175"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8dafcbc64e004aea196aec47fb2bb175">&#9670;&#160;</a></span>Visit() <span class="overload">[2/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -219,10 +384,10 @@ template&lt;class T &gt; </div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void Acore::AIRelocationNotifier::Visit </td>
+          <td class="memname">void Acore::VisibleNotifier::Visit </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../dd/d59/a09076.html">GridRefMgr</a>&lt; T &gt; &amp;&#160;</td>
-          <td class="paramname"></td><td>)</td>
+          <td class="paramtype"><a class="el" href="../../d9/ddc/a09092.html">GridRefMgr</a>&lt; T &gt; &amp;&#160;</td>
+          <td class="paramname"><em>m</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
@@ -232,40 +397,102 @@ template&lt;class T &gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   95</span>{}</div>
+<div class="fragment"><div class="line"><span class="lineno">   30</span>{</div>
+<div class="line"><span class="lineno">   31</span>    <span class="comment">// Xinef: Update gameobjects only</span></div>
+<div class="line"><span class="lineno">   32</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../db/df5/a09172.html#a019182fa8a629d796982f9cc565d9bc3">i_gobjOnly</a>)</div>
+<div class="line"><span class="lineno">   33</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">   34</span> </div>
+<div class="line"><span class="lineno">   35</span>    <span class="keywordflow">for</span> (<span class="keyword">typename</span> <a class="code hl_class" href="../../d5/d47/a05240.html">GridRefMgr&lt;T&gt;::iterator</a> iter = m.<a class="code hl_function" href="../../d9/ddc/a09092.html#a1e4e67ba11ac8da077942a6581647bf3">begin</a>(); iter != m.<a class="code hl_function" href="../../d9/ddc/a09092.html#a266acb421cfc6ccc56dc2acff3202971">end</a>(); ++iter)</div>
+<div class="line"><span class="lineno">   36</span>    {</div>
+<div class="line"><span class="lineno">   37</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../db/df5/a09172.html#a6954721b71a55874c7f708bf822613bd">i_largeOnly</a> != iter-&gt;GetSource()-&gt;IsVisibilityOverridden())</div>
+<div class="line"><span class="lineno">   38</span>            <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">   39</span> </div>
+<div class="line"><span class="lineno">   40</span>        <a class="code hl_variable" href="../../db/df5/a09172.html#aaa324b9a9cffd59c7cbab0c08cf68395">i_player</a>.<a class="code hl_function" href="../../d8/d93/a08612.html#a561292db1465ce3928026072248c66b2">UpdateVisibilityOf</a>(iter-&gt;GetSource(), <a class="code hl_variable" href="../../db/df5/a09172.html#a6cfba0f042e117cfdb7bdf1f1168c0ce">i_data</a>, <a class="code hl_variable" href="../../db/df5/a09172.html#a34d766816baaad7b1b3623360ec9abeb">i_visibleNow</a>);</div>
+<div class="line"><span class="lineno">   41</span>    }</div>
+<div class="line"><span class="lineno">   42</span>}</div>
 </div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00035">GridRefMgr&lt; OBJECT &gt;::begin()</a>, <a class="el" href="../../#l00036">GridRefMgr&lt; OBJECT &gt;::end()</a>, <a class="el" href="../../#l00049">i_data</a>, <a class="el" href="../../#l00047">i_gobjOnly</a>, <a class="el" href="../../#l00048">i_largeOnly</a>, <a class="el" href="../../#l00045">i_player</a>, <a class="el" href="../../#l00046">i_visibleNow</a>, and <a class="el" href="../../#l01716">Player::UpdateVisibilityOf()</a>.</p>
+
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="ab1dd814e4d94ed2989bb07012a24d40e" name="ab1dd814e4d94ed2989bb07012a24d40e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab1dd814e4d94ed2989bb07012a24d40e">&#9670;&#160;</a></span>i_unit</h2>
+<a id="a6cfba0f042e117cfdb7bdf1f1168c0ce" name="a6cfba0f042e117cfdb7bdf1f1168c0ce"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6cfba0f042e117cfdb7bdf1f1168c0ce">&#9670;&#160;</a></span>i_data</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../dc/d0b/a08732.html">Unit</a>&amp; Acore::AIRelocationNotifier::i_unit</td>
+          <td class="memname"><a class="el" href="../../d8/d05/a08464.html">UpdateData</a> Acore::VisibleNotifier::i_data</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00195">Visit()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00039">SendToSelf()</a>, <a class="el" href="../../#l00027">Visit()</a>, and <a class="el" href="../../#l00177">Acore::PlayerRelocationNotifier::Visit()</a>.</p>
 
 </div>
 </div>
-<a id="a199f4b91d00dd4db90855e5521d87a95" name="a199f4b91d00dd4db90855e5521d87a95"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a199f4b91d00dd4db90855e5521d87a95">&#9670;&#160;</a></span>isCreature</h2>
+<a id="a019182fa8a629d796982f9cc565d9bc3" name="a019182fa8a629d796982f9cc565d9bc3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a019182fa8a629d796982f9cc565d9bc3">&#9670;&#160;</a></span>i_gobjOnly</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">bool Acore::AIRelocationNotifier::isCreature</td>
+          <td class="memname">bool Acore::VisibleNotifier::i_gobjOnly</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00195">Visit()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00029">Visit()</a>.</p>
+
+</div>
+</div>
+<a id="a6954721b71a55874c7f708bf822613bd" name="a6954721b71a55874c7f708bf822613bd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6954721b71a55874c7f708bf822613bd">&#9670;&#160;</a></span>i_largeOnly</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool Acore::VisibleNotifier::i_largeOnly</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00039">SendToSelf()</a>, and <a class="el" href="../../#l00027">Visit()</a>.</p>
+
+</div>
+</div>
+<a id="aaa324b9a9cffd59c7cbab0c08cf68395" name="aaa324b9a9cffd59c7cbab0c08cf68395"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aaa324b9a9cffd59c7cbab0c08cf68395">&#9670;&#160;</a></span>i_player</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/d93/a08612.html">Player</a>&amp; Acore::VisibleNotifier::i_player</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00039">SendToSelf()</a>, <a class="el" href="../../#l00027">Visit()</a>, and <a class="el" href="../../#l00177">Acore::PlayerRelocationNotifier::Visit()</a>.</p>
+
+</div>
+</div>
+<a id="a34d766816baaad7b1b3623360ec9abeb" name="a34d766816baaad7b1b3623360ec9abeb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a34d766816baaad7b1b3623360ec9abeb">&#9670;&#160;</a></span>i_visibleNow</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::vector&lt;<a class="el" href="../../d4/dd6/a08748.html">Unit</a>*&gt;&amp; Acore::VisibleNotifier::i_visibleNow</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00039">SendToSelf()</a>, <a class="el" href="../../#l00051">VisibleNotifier()</a>, <a class="el" href="../../#l00027">Visit()</a>, and <a class="el" href="../../#l00177">Acore::PlayerRelocationNotifier::Visit()</a>.</p>
 
 </div>
 </div>
@@ -274,8 +501,8 @@ template&lt;class T &gt; </div>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d6/df5/a04770.html">Acore</a></li><li class="navelem"><a class="el" href="../../db/df5/a09172.html">AIRelocationNotifier</a></li>
-    <li class="footer">Generated on Mon Jul 7 2025 20:49:43 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../db/da6/a04782.html">Acore</a></li><li class="navelem"><a class="el" href="../../db/df5/a09172.html">VisibleNotifier</a></li>
+    <li class="footer">Generated on Mon Aug 11 2025 20:49:01 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

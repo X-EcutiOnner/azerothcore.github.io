@@ -1,5 +1,6 @@
 var a18832 =
 [
-    [ "at_icc_putricide_trap", "db/d40/a18832.html#a9d4183629deada9c22750b8a34e94583", null ],
-    [ "OnTrigger", "db/d40/a18832.html#ad59c2f694c50fabf1946d2c7ae726413", null ]
+    [ "npc_icc_vengeful_fleshreaperAI", "de/d73/a18836.html", "de/d73/a18836" ],
+    [ "npc_icc_vengeful_fleshreaper", "db/d40/a18832.html#aa95ec1e021f3d123e5a95c356765ac36", null ],
+    [ "GetAI", "db/d40/a18832.html#abf1903616dbf52718313c8b404b504a5", null ]
 ];

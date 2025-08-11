@@ -1,11 +1,7 @@
 var a14564 =
 [
-    [ "boss_anetheron", "d2/dfb/a14564.html#a6c103caa3f137756599a75bff03a6648", null ],
-    [ "DoAction", "d2/dfb/a14564.html#a2fd485de26c820fec5240f9141a09964", null ],
-    [ "JustDied", "d2/dfb/a14564.html#a7c8b2039ee7e379bed8387b7236b7ee5", null ],
-    [ "JustEngagedWith", "d2/dfb/a14564.html#aa34ac87ad4014fbecb481be7896c577c", null ],
-    [ "JustSummoned", "d2/dfb/a14564.html#af9c156e28c7eca710d8367bd2a99387d", null ],
-    [ "KilledUnit", "d2/dfb/a14564.html#a4471af823278a3664574729bf5c749be", null ],
-    [ "PathEndReached", "d2/dfb/a14564.html#a75ed708e2769a77defa5c9a0b22dcae9", null ],
-    [ "_recentlySpoken", "d2/dfb/a14564.html#accd9455c3b1d536ca177be6028f3503d", null ]
+    [ "HandleScript", "d2/dfb/a14564.html#adc8ab610e3b816dcce57fe44b6585bdb", null ],
+    [ "PrepareSpellScript", "d2/dfb/a14564.html#a05059d25127cd8d3aa51e4374963f9d9", null ],
+    [ "Register", "d2/dfb/a14564.html#aabe7d4213bbafdb6d072ba50bcfd1793", null ],
+    [ "Validate", "d2/dfb/a14564.html#aa1e74de390a8b71e43e43664981a36ff", null ]
 ];

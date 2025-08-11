@@ -1,8 +1,7 @@
 var a26252 =
 [
-    [ "HandleDummy", "d2/d69/a26252.html#ae396c96647e36da357bdc70e11e3145f", null ],
-    [ "Load", "d2/d69/a26252.html#a2b4811bf7e60361e13bc382e62173cee", null ],
-    [ "PrepareSpellScript", "d2/d69/a26252.html#ac97d07fb0d964bf3fb29d8bee57fc8e7", null ],
-    [ "Register", "d2/d69/a26252.html#a7c6aa891b012a0e1820fbe67976d68fd", null ],
-    [ "count", "d2/d69/a26252.html#a73358b2272ad12faef006b1ef633cac0", null ]
+    [ "HandleApplyEffect", "d2/d69/a26252.html#af95120b26a165196e0310956c245f36f", null ],
+    [ "HandleRemoveEffect", "d2/d69/a26252.html#a59e7d23c969b03aa75ef1da3bf42f6e9", null ],
+    [ "PrepareAuraScript", "d2/d69/a26252.html#ae19e002407db1466f0655db3d14fe0d7", null ],
+    [ "Register", "d2/d69/a26252.html#ae776a5e913fcf1553b7e2a00374a1ee6", null ]
 ];

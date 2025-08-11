@@ -1,6 +1,6 @@
 var a27580 =
 [
-    [ "npc_pet_trainerAI", "d0/d64/a27584.html", "d0/d64/a27584" ],
-    [ "npc_pet_trainer", "dc/de8/a27580.html#ac2279bce52e911b1c339da5e68aa2501", null ],
-    [ "GetAI", "dc/de8/a27580.html#a4ecf9ac0abf43a00dc6bff2d2283eb37", null ]
+    [ "npc_injured_patientAI", "d0/d64/a27584.html", "d0/d64/a27584" ],
+    [ "npc_injured_patient", "dc/de8/a27580.html#a0b7ef214aa1b20df088dee0976c73783", null ],
+    [ "GetAI", "dc/de8/a27580.html#a0c042bb81e684f903d28d7879af99d4a", null ]
 ];

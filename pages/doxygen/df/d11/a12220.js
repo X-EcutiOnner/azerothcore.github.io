@@ -1,6 +1,6 @@
 var a12220 =
 [
-    [ "boss_flamegorAI", "df/d24/a12224.html", "df/d24/a12224" ],
-    [ "boss_flamegor", "df/d11/a12220.html#abc6f068c81466d08306d94667bb1974b", null ],
-    [ "GetAI", "df/d11/a12220.html#a56fb8425c55703fbda14a982d8fdcb2d", null ]
+    [ "boss_chromaggusAI", "df/d24/a12224.html", "df/d24/a12224" ],
+    [ "boss_chromaggus", "df/d11/a12220.html#a55847fc0d5430d3f22074b53d7caca4b", null ],
+    [ "GetAI", "df/d11/a12220.html#ace78172cafb122ce5961ed837201c32b", null ]
 ];

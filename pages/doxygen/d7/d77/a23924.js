@@ -1,6 +1,9 @@
 var a23924 =
 [
-    [ "npc_deaths_fel_cannonAI", "d8/d6e/a23928.html", "d8/d6e/a23928" ],
-    [ "npc_deaths_fel_cannon", "d7/d77/a23924.html#a87ecaca75061928600b5114d3913dd26", null ],
-    [ "GetAI", "d7/d77/a23924.html#a4cf91cd1f28637f359e06bccd30e0338", null ]
+    [ "boss_nethermancer_sepethrea", "d7/d77/a23924.html#aae77446e9a8f2ac41601049d3fe9ffd4", null ],
+    [ "EnterEvadeMode", "d7/d77/a23924.html#a0ac9dd29b73e8734318851ffd9a09162", null ],
+    [ "JustDied", "d7/d77/a23924.html#a2ac13176ebffa245fd9e0ba6173f30cc", null ],
+    [ "JustEngagedWith", "d7/d77/a23924.html#a89851b9f6eb94270fe22151d3a968bec", null ],
+    [ "JustSummoned", "d7/d77/a23924.html#acf98dbddcd55131cb9cdebe6d319e2c2", null ],
+    [ "KilledUnit", "d7/d77/a23924.html#ad9606ca8c1fe6f68f72ec415cc70ef2f", null ]
 ];

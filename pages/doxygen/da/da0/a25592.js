@@ -1,7 +1,7 @@
 var a25592 =
 [
-    [ "OnRemove", "da/da0/a25592.html#a1f4f852ef6d5b2313df20af540eee7da", null ],
-    [ "PrepareAuraScript", "da/da0/a25592.html#a8abf8084dd8bb1ac74b3884380cda809", null ],
-    [ "Register", "da/da0/a25592.html#a35a8adc4944fc2333488e72498f6d252", null ],
-    [ "Validate", "da/da0/a25592.html#aa312f28f03cc0929eb9ea8ba526ebb54", null ]
+    [ "CheckProc", "da/da0/a25592.html#afbd6d4a64b7da0d0dc15c62eb81746c9", null ],
+    [ "HandleProc", "da/da0/a25592.html#a27569fe686e50246768fca4a7625fe0d", null ],
+    [ "PrepareAuraScript", "da/da0/a25592.html#a4f4eaa4aeeac9257804957671c16233f", null ],
+    [ "Register", "da/da0/a25592.html#ab9a662bebdb5e03c5c10a807b892a9bf", null ]
 ];

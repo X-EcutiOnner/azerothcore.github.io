@@ -1,12 +1,16 @@
 var a13592 =
 [
-    [ "npc_corporal_keeshanAI", "d0/d1e/a13592.html#aac5b72ede6e1496f80c4c2520e886efd", null ],
-    [ "Reset", "d0/d1e/a13592.html#a311488932a3de9153490d41e3fae92fb", null ],
-    [ "sQuestAccept", "d0/d1e/a13592.html#a52dd95c74b1457ad5b496b28fd183b06", null ],
-    [ "UpdateAI", "d0/d1e/a13592.html#a973cf65978e531dc8bd7db20fc2809b6", null ],
-    [ "WaypointReached", "d0/d1e/a13592.html#a3edc9ab54068e47f955116db70454f6c", null ],
-    [ "mockingBlowTimer", "d0/d1e/a13592.html#a21cd1ca86864b8507d43e5a1c4c13e0c", null ],
-    [ "phase", "d0/d1e/a13592.html#ae79dcfdb10738d673e8c1aebc6abdee6", null ],
-    [ "shieldBashTimer", "d0/d1e/a13592.html#abb5eaa25a77dd3e6dfff7aaa0aa6c375", null ],
-    [ "timer", "d0/d1e/a13592.html#a3107368f175aa7f4e8c405248ef917df", null ]
+    [ "npc_rinjiAI", "d0/d1e/a13592.html#ab613818b92530269f0802077eccc92d0", null ],
+    [ "DoSpawnAmbush", "d0/d1e/a13592.html#af2535d7364641fadc98bca91ace9c906", null ],
+    [ "JustEngagedWith", "d0/d1e/a13592.html#ae5ca00ee9baead3392a9239dfb68d377", null ],
+    [ "JustRespawned", "d0/d1e/a13592.html#a471f2e8da91639d4e68ad64a11d7b950", null ],
+    [ "JustSummoned", "d0/d1e/a13592.html#a09d65e7bd5a76552208eee920cfcb4f9", null ],
+    [ "Reset", "d0/d1e/a13592.html#ada230a1b7b0f3c8b2b41c706856681b8", null ],
+    [ "sQuestAccept", "d0/d1e/a13592.html#a15b9a0756ae6cebac690c8bb997e99d2", null ],
+    [ "UpdateEscortAI", "d0/d1e/a13592.html#a60f05b58b115f3f2ea11206778893547", null ],
+    [ "WaypointReached", "d0/d1e/a13592.html#a9463060a57b85113b71482c8a0974f60", null ],
+    [ "_IsByOutrunner", "d0/d1e/a13592.html#adecc4eb9f90969621b52b97ff594558d", null ],
+    [ "postEventCount", "d0/d1e/a13592.html#a601f142bd2a04ed303611044bac91035", null ],
+    [ "postEventTimer", "d0/d1e/a13592.html#a5154e551143e81d431f706ad07b78ca0", null ],
+    [ "spawnId", "d0/d1e/a13592.html#a3fc84d1e0f5243c6e8f292ddcac15ace", null ]
 ];

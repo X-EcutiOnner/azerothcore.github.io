@@ -1,6 +1,6 @@
 var a24744 =
 [
-    [ "HandleKnockBack", "d7/de7/a24744.html#ae50d143953074b83183482770046e131", null ],
-    [ "PrepareSpellScript", "d7/de7/a24744.html#a73666b297ef8bbfd490fee6075b06b3a", null ],
-    [ "Register", "d7/de7/a24744.html#a035df6b2e29aa0d2b5558e1cfef96ead", null ]
+    [ "CheckCast", "d7/de7/a24744.html#a8ab8394c56201264ac4f2d859dd52092", null ],
+    [ "PrepareSpellScript", "d7/de7/a24744.html#acc6d27c8d869ec80ee5794405f6c238a", null ],
+    [ "Register", "d7/de7/a24744.html#a191085bc21ce6f5ce1d5b43d6d70f069", null ]
 ];

@@ -1,6 +1,8 @@
 var a14468 =
 [
-    [ "HandleDummy", "de/d04/a14468.html#a5e0797e5af760b618b1498f405766de8", null ],
-    [ "PrepareSpellScript", "de/d04/a14468.html#a3be664b18a2474857e8a2b199ea93aaf", null ],
-    [ "Register", "de/d04/a14468.html#a2254e486bda73e07f8327c3412c7852b", null ]
+    [ "OnApply", "de/d04/a14468.html#a6bc23ff885f4fbc25d00fe35173bad3e", null ],
+    [ "OnRemove", "de/d04/a14468.html#aed62006fe08bfaad0a8bb51d5e739c67", null ],
+    [ "PrepareAuraScript", "de/d04/a14468.html#ac7388aa4c0746ce963cbbb97dbfb4765", null ],
+    [ "Register", "de/d04/a14468.html#a95c3af6d3f1d510ad8a2d9be7e28b2dc", null ],
+    [ "Validate", "de/d04/a14468.html#a0ed19bc16fa8e2da2332766bbc1110e5", null ]
 ];

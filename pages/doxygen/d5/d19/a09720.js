@@ -1,8 +1,15 @@
 var a09720 =
 [
-    [ "ServerMailCondition", "d5/d19/a09720.html#a2ee7d2f3587159c95883fe32674cb586", null ],
-    [ "CheckCondition", "d5/d19/a09720.html#a3c223658629357f05d8879555717f624", null ],
-    [ "state", "d5/d19/a09720.html#a309f739872afaf644331335b27649561", null ],
-    [ "type", "d5/d19/a09720.html#a3b318e7743ca48fcf8ba849398a06968", null ],
-    [ "value", "d5/d19/a09720.html#af709199aed99633cc70d9118ee4fd4fc", null ]
+    [ "MailSender", "d5/d19/a09720.html#a16466924bf75ea8203ba27c0f3e6188b", null ],
+    [ "MailSender", "d5/d19/a09720.html#a735cfef6950357644d6965978dde0309", null ],
+    [ "MailSender", "d5/d19/a09720.html#a145000f5ef63627ee26a5699846e06cf", null ],
+    [ "MailSender", "d5/d19/a09720.html#a9ddda06cf5ecc55efdc4525353471c5b", null ],
+    [ "MailSender", "d5/d19/a09720.html#a7d5a5e40aa20de720f310b739f159225", null ],
+    [ "MailSender", "d5/d19/a09720.html#a12c87bb414a3e8889c95091f3b51716b", null ],
+    [ "GetMailMessageType", "d5/d19/a09720.html#a64c99a49ec01d2226b6bf740edb380fb", null ],
+    [ "GetSenderId", "d5/d19/a09720.html#a03145c3fdc5bbabc64019e63e121132b", null ],
+    [ "GetStationery", "d5/d19/a09720.html#a6a4446e52e20ad7ab4817bf024b38631", null ],
+    [ "m_messageType", "d5/d19/a09720.html#a45a312eda342d2197f15d73b47d7787b", null ],
+    [ "m_senderId", "d5/d19/a09720.html#a0954b3514cfcba4258b1b266dfd71ddb", null ],
+    [ "m_stationery", "d5/d19/a09720.html#a1bbced35b4600f9a45a421d28a33393b", null ]
 ];

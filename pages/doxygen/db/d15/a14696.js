@@ -1,10 +1,10 @@
 var a14696 =
 [
-    [ "boss_meathookAI", "db/d15/a14696.html#abb35c98da760db634545b81d740cd51a", null ],
-    [ "JustDied", "db/d15/a14696.html#a44ebee45de335ff6f653e9d60a364458", null ],
-    [ "JustEngagedWith", "db/d15/a14696.html#adf199bf96bbf342caaa74b7dd6b8013c", null ],
-    [ "KilledUnit", "db/d15/a14696.html#a54deac512294bb0901d072faef3166b1", null ],
-    [ "Reset", "db/d15/a14696.html#ab4dbdedb1ae114fe4aff1fbe0e8adec1", null ],
-    [ "UpdateAI", "db/d15/a14696.html#afeaee24a9b6484e8a0e6509b973ed74d", null ],
-    [ "events", "db/d15/a14696.html#a6cf32d8601a1d07a3a445fa7d9a1ccbc", null ]
+    [ "npc_hyjal_gargoyle", "db/d15/a14696.html#a35b17d008d96116b2e3cf09cceacd6fb", null ],
+    [ "AttackStart", "db/d15/a14696.html#a0301be4d3e34f1248708fdcd3f0d5ea8", null ],
+    [ "DoAction", "db/d15/a14696.html#ae213c71426f438dd2b27699d7de23664", null ],
+    [ "JustEngagedWith", "db/d15/a14696.html#ae10a90c817a7df8d0d6ed18c9cdf6387", null ],
+    [ "PathEndReached", "db/d15/a14696.html#a9ae52d3f7176045ef28713f3e1a16153", null ],
+    [ "Reset", "db/d15/a14696.html#af314bb183bde44680eeb136d2a08c142", null ],
+    [ "UpdateAI", "db/d15/a14696.html#ac1ca0648b08430a8bcbf99980222b684", null ]
 ];

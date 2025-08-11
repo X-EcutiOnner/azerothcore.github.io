@@ -1,6 +1,7 @@
 var a26596 =
 [
-    [ "HandlePeriodic", "db/d2e/a26596.html#af875d62dd47650c9f2e9c3a4508ed05b", null ],
-    [ "PrepareAuraScript", "db/d2e/a26596.html#a2efdcd0902e9cb5c47e285492dd93789", null ],
-    [ "Register", "db/d2e/a26596.html#ac90afe9f5d9d55faba2282a875469311", null ]
+    [ "HandleEffectPeriodic", "db/d2e/a26596.html#abb9ec1dd08954e80cf6dbcacbe44e2ba", null ],
+    [ "PrepareAuraScript", "db/d2e/a26596.html#ae151331af09510cc91b63b65a30bdcbf", null ],
+    [ "Register", "db/d2e/a26596.html#ac2e23fa8c9cfec9b9689512f3363a56e", null ],
+    [ "Validate", "db/d2e/a26596.html#ad5cc7a5aa1164092f267071c82752bb5", null ]
 ];

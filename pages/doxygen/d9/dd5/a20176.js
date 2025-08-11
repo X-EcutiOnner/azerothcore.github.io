@@ -1,6 +1,5 @@
 var a20176 =
 [
-    [ "npc_ulduar_hodir_priestAI", "d0/d54/a20180.html", "d0/d54/a20180" ],
-    [ "npc_ulduar_hodir_priest", "d9/dd5/a20176.html#a30d7f1b68f9a1d10bc47288b81fc517c", null ],
-    [ "GetAI", "d9/dd5/a20176.html#a276046b974666c1462440a46a8096de7", null ]
+    [ "go_ulduar_pure_saronite_deposit", "d9/dd5/a20176.html#a39da51a78b9f27392ed7494e18e89b93", null ],
+    [ "OnGossipHello", "d9/dd5/a20176.html#ab69c5b514e0b79ff7155e0080841d4a2", null ]
 ];

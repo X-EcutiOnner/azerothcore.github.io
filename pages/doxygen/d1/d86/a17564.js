@@ -1,6 +1,6 @@
 var a17564 =
 [
-    [ "npc_gunship_boarding_add_realAI", "d0/dc4/a17568.html", "d0/dc4/a17568" ],
-    [ "npc_gunship_boarding_add", "d1/d86/a17564.html#aa80871f80bae7186d3665f73d757e108", null ],
-    [ "GetAI", "d1/d86/a17564.html#ad7e173bffccca6d852ba545427235447", null ]
+    [ "npc_muradin_bronzebeard_igbAI", "d0/dc4/a17568.html", "d0/dc4/a17568" ],
+    [ "npc_muradin_bronzebeard_igb", "d1/d86/a17564.html#a1e6abc18a192b3acfa29bf03dd4eeed9", null ],
+    [ "GetAI", "d1/d86/a17564.html#af9b149e0780308f26d5adb1e6607a3ce", null ]
 ];

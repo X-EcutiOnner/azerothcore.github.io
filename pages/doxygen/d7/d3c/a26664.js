@@ -1,7 +1,9 @@
 var a26664 =
 [
-    [ "HandleProc", "d7/d3c/a26664.html#a3878044c77e9560bcc7d531d5c119e0f", null ],
-    [ "PrepareAuraScript", "d7/d3c/a26664.html#a3a496539a6adddca91724d9cc77f81c3", null ],
-    [ "Register", "d7/d3c/a26664.html#a096f4ecd857cc642ff1d1e5119933921", null ],
-    [ "Validate", "d7/d3c/a26664.html#a1592084736ebe5b10a343aee4dba8050", null ]
+    [ "HandleHeal", "d7/d3c/a26664.html#ad2d854d275dc6f8b67b866d864b6febe", null ],
+    [ "Load", "d7/d3c/a26664.html#a507a7a4ff11f8bf1157e034d086cd9ad", null ],
+    [ "PrepareSpellScript", "d7/d3c/a26664.html#a91eb46af707897f228e5d1bbd199a833", null ],
+    [ "Register", "d7/d3c/a26664.html#ae28f1b0c23511153eafc037cae067bc0", null ],
+    [ "firstHeal", "d7/d3c/a26664.html#a405326e6e1cd82816aef1712fdf335a0", null ],
+    [ "riptide", "d7/d3c/a26664.html#acaec32f6730bc2e04e613aa982d285bf", null ]
 ];

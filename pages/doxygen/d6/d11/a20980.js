@@ -1,5 +1,7 @@
 var a20980 =
 [
-    [ "achievement_yogg_saron_kiss_and_make_up", "d6/d11/a20980.html#a9f2e5fe9de59a9b5a00c0e73e8f9b376", null ],
-    [ "OnCheck", "d6/d11/a20980.html#a8ce7df713b804d5bdd5f6f47d77fc1b8", null ]
+    [ "HandleEffectCalcPeriodic", "d6/d11/a20980.html#af01eb94174952de52615734055b17c1a", null ],
+    [ "HandleEffectPeriodic", "d6/d11/a20980.html#a87b4517a6ad8630027ab2c3534b9fb8c", null ],
+    [ "PrepareAuraScript", "d6/d11/a20980.html#a95bd054accb5b72c4cfb12caccf0e004", null ],
+    [ "Register", "d6/d11/a20980.html#a2d506669ddc4c84e9ae3eb1746eadce1", null ]
 ];

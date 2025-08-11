@@ -1,6 +1,7 @@
 var a14504 =
 [
-    [ "PrepareAuraScript", "d1/dee/a14504.html#a80660b1417ab33edaf2c4cd517e10e30", null ],
-    [ "RecalculateHook", "d1/dee/a14504.html#af3952993947dfb24381083d21a9e64cb", null ],
-    [ "Register", "d1/dee/a14504.html#ab7f0aa924dfe8043e44cd794f72e4555", null ]
+    [ "HandleFinish", "d1/dee/a14504.html#a8927aaa07145b46067d5807c2048330a", null ],
+    [ "PrepareSpellScript", "d1/dee/a14504.html#a5a0bfef668242fc5f21ad5a4e3e714b5", null ],
+    [ "Register", "d1/dee/a14504.html#a1ffdc199a04bd6ead1a09bc977ae964c", null ],
+    [ "Validate", "d1/dee/a14504.html#a3fd3265e5a08f81b3e9e789f1799abd4", null ]
 ];

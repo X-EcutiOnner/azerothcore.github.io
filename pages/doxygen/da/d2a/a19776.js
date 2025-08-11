@@ -1,8 +1,16 @@
 var a19776 =
 [
-    [ "OnPeriodic", "da/d2a/a19776.html#a56d101b26b220994aeb035e5fbc1f26e", null ],
-    [ "OnRemove", "da/d2a/a19776.html#ac6d961793ddb6423540da9d97e016b82", null ],
-    [ "PrepareAuraScript", "da/d2a/a19776.html#a9384a764bf9c48d12e7f62af99897ce4", null ],
-    [ "Register", "da/d2a/a19776.html#a69f5474dacdf220ffebe18bd5cf8a32f", null ],
-    [ "Validate", "da/d2a/a19776.html#a11d985c5e17c8b3cb34096000fda66ac", null ]
+    [ "boss_steelbreakerAI", "da/d2a/a19776.html#aeec79a009137be8b6290366d8d6bcfa3", null ],
+    [ "DoAction", "da/d2a/a19776.html#ac5bc8a9512c2e6e5169366cc5bbc79c2", null ],
+    [ "JustDied", "da/d2a/a19776.html#a001f8b206f0d00fff77e964f49cbdb58", null ],
+    [ "JustEngagedWith", "da/d2a/a19776.html#a0f207b2a274c7266f6882205e510f346", null ],
+    [ "JustReachedHome", "da/d2a/a19776.html#a3fd5d7c8baf6d6b4651d4d54df2e7fa8", null ],
+    [ "KilledUnit", "da/d2a/a19776.html#a5a0a92144412259bfa02abc04bdc4425", null ],
+    [ "Reset", "da/d2a/a19776.html#a9544ce38a210da1ac867d5cabf9ffbec", null ],
+    [ "SpellHit", "da/d2a/a19776.html#a21d891d8f8f6fa89b1f1883800d8d578", null ],
+    [ "UpdateAI", "da/d2a/a19776.html#ac4adabf023663df7b4c1fdc8c027b52d", null ],
+    [ "UpdatePhase", "da/d2a/a19776.html#af217acbeab5032b8a16180f4ff021e0a", null ],
+    [ "_phase", "da/d2a/a19776.html#ae71145ec4a82d1f024892181daebace9", null ],
+    [ "events", "da/d2a/a19776.html#a8085a615ff5d252452616ef69dfd3249", null ],
+    [ "pInstance", "da/d2a/a19776.html#ac99cd9678f209b0cf2e8e8e3457d0f55", null ]
 ];

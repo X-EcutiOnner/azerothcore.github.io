@@ -1,16 +1,14 @@
 var a01007 =
 [
-    [ "LinkValidator< T >", "dd/def/a07702.html", "dd/def/a07702" ],
-    [ "LinkValidator< LinkTags::achievement >", "df/d72/a07706.html", "df/d72/a07706" ],
-    [ "LinkValidator< LinkTags::item >", "d3/d12/a07710.html", "d3/d12/a07710" ],
-    [ "LinkValidator< LinkTags::quest >", "d7/d40/a07714.html", "d7/d40/a07714" ],
-    [ "LinkValidator< LinkTags::spell >", "de/d40/a07718.html", "de/d40/a07718" ],
-    [ "LinkValidator< LinkTags::enchant >", "db/d64/a07722.html", "db/d64/a07722" ],
-    [ "LinkValidator< LinkTags::glyph >", "d8/d58/a07726.html", "d8/d58/a07726" ],
-    [ "LinkValidator< LinkTags::talent >", "d9/d1c/a07730.html", "d9/d1c/a07730" ],
-    [ "LinkValidator< LinkTags::trade >", "d1/d4c/a07734.html", "d1/d4c/a07734" ],
-    [ "TryValidateAs", "d6/d8d/a01007.html#af1c86bff85f30ff113d5f78421c280af", null ],
-    [ "toHex", "d6/d8d/a01007.html#a0b5e4d40ad5549ddc48c127306499b6c", null ],
-    [ "ValidateAs", "d6/d8d/a01007.html#a1021653ddd2d2e78df34d8c4a2a7ed93", null ],
-    [ "ValidateLinkInfo", "d6/d8d/a01007.html#a7de61dd7d7c595063ae73f415e961cc9", null ]
+    [ "GroupScript", "d3/ddb/a10324.html", "d3/ddb/a10324" ],
+    [ "GroupHook", "d6/d8d/a01007.html#a373b3fe6b402e8321892b8c1be74ab5d", [
+      [ "GROUPHOOK_ON_ADD_MEMBER", "d6/d8d/a01007.html#a373b3fe6b402e8321892b8c1be74ab5da3800aeea2a91eebb3ccdd533a8dfc681", null ],
+      [ "GROUPHOOK_ON_INVITE_MEMBER", "d6/d8d/a01007.html#a373b3fe6b402e8321892b8c1be74ab5da4f30d67b987f0ade961e34bce95e85fe", null ],
+      [ "GROUPHOOK_ON_REMOVE_MEMBER", "d6/d8d/a01007.html#a373b3fe6b402e8321892b8c1be74ab5daee0f42175b42d95f45380c1b70c786c3", null ],
+      [ "GROUPHOOK_ON_CHANGE_LEADER", "d6/d8d/a01007.html#a373b3fe6b402e8321892b8c1be74ab5da32d5ef38f2a877e2d36cdf20e9bb6d23", null ],
+      [ "GROUPHOOK_ON_DISBAND", "d6/d8d/a01007.html#a373b3fe6b402e8321892b8c1be74ab5dafe9e82d7bdea3097607de1e375b0e353", null ],
+      [ "GROUPHOOK_CAN_GROUP_JOIN_BATTLEGROUND_QUEUE", "d6/d8d/a01007.html#a373b3fe6b402e8321892b8c1be74ab5da9b4d04fe85f908719f1412cb9b88e61c", null ],
+      [ "GROUPHOOK_ON_CREATE", "d6/d8d/a01007.html#a373b3fe6b402e8321892b8c1be74ab5da0cc7b93ed018172ab0c6f191681e5f6c", null ],
+      [ "GROUPHOOK_END", "d6/d8d/a01007.html#a373b3fe6b402e8321892b8c1be74ab5da71a6d6ef47c3bda7d088f579b6f3a5f2", null ]
+    ] ]
 ];

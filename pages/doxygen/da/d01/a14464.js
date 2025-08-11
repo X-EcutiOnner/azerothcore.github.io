@@ -1,7 +1,6 @@
 var a14464 =
 [
-    [ "HandleDummy", "da/d01/a14464.html#a05c3589ee04eed87449f652db065f0e9", null ],
-    [ "PrepareSpellScript", "da/d01/a14464.html#afb79a2cf5359e7ec69746cd89d8cd727", null ],
-    [ "Register", "da/d01/a14464.html#a51207fcd4f272e120fe1af2ac78c1f80", null ],
-    [ "Validate", "da/d01/a14464.html#a5fc6dae87ffb634cc0de389196751b22", null ]
+    [ "OnApply", "da/d01/a14464.html#a30d33268b58507c228a4628031bffca0", null ],
+    [ "PrepareAuraScript", "da/d01/a14464.html#a16dc3f52152d63b5512690c761f9915a", null ],
+    [ "Register", "da/d01/a14464.html#a6494e4d7277e910ffa3b30c333117f00", null ]
 ];
