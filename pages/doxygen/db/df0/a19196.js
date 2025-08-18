@@ -1,8 +1,6 @@
 var a19196 =
 [
-    [ "npc_teslaAI", "db/df0/a19196.html#a7281220648af1357b1377d6f7874d663", null ],
-    [ "DamageTaken", "db/df0/a19196.html#aa3ab570e86261bc3178e17109d76af12", null ],
-    [ "EnterEvadeMode", "db/df0/a19196.html#acc8115216989b34593a9435eeb051eda", null ],
-    [ "JustEngagedWith", "db/df0/a19196.html#add93f68bc96b3c93dc0a3271543711e6", null ],
-    [ "UpdateAI", "db/df0/a19196.html#a962745569b07e368067ee483d2379840", null ]
+    [ "npc_teslaAI", "d8/d57/a19200.html", "d8/d57/a19200" ],
+    [ "npc_tesla", "db/df0/a19196.html#ae74ad52adbf4a160ef0c7cf97e4faea0", null ],
+    [ "GetAI", "db/df0/a19196.html#a00d0e2ee0a8c20ed64dd2012f244a760", null ]
 ];

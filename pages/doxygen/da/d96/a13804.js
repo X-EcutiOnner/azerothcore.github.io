@@ -1,7 +1,7 @@
 var a13804 =
 [
-    [ "FilterTargets", "da/d96/a13804.html#aebe9055301495dd3a21736b9a2a35f31", null ],
-    [ "HandleDamageCalc", "da/d96/a13804.html#aa28bc0b1824d3d0825135fcd88057dfe", null ],
-    [ "PrepareSpellScript", "da/d96/a13804.html#a03b8e21e58988d9fc774205263c0817f", null ],
-    [ "Register", "da/d96/a13804.html#aeba1ceddd5b6fcd951e6ac789b50c5a5", null ]
+    [ "Load", "da/d96/a13804.html#a9888c598c4d6cf77c49e15f68c3db225", null ],
+    [ "OnRemove", "da/d96/a13804.html#ad4044dcd8c88eba88d032a96ca79dc4c", null ],
+    [ "PrepareAuraScript", "da/d96/a13804.html#a07abb27367cc0a59bdf60a30dfb7cfb0", null ],
+    [ "Register", "da/d96/a13804.html#ac2db8f8d9b778a0a36081c897f4149cb", null ]
 ];

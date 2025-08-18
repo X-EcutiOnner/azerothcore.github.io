@@ -1,11 +1,10 @@
 var a22824 =
 [
-    [ "boss_high_nethermancer_zerevor", "da/dc5/a22824.html#a2d3ce1a6d972c0b58efe5aad31014c09", null ],
-    [ "AttackStart", "da/dc5/a22824.html#a270961bd3af6ce65eebc79130f4e3d47", null ],
-    [ "CastDampenMagicIfPossible", "da/dc5/a22824.html#ab0af23baf43d377935811c52a346c566", null ],
-    [ "JustEngagedWith", "da/dc5/a22824.html#a390f939ba01ee189fc55670eb4ff1a7e", null ],
-    [ "OnAuraRemove", "da/dc5/a22824.html#a7dd31808dbf00f77b59fce84249778fe", null ],
-    [ "Reset", "da/dc5/a22824.html#afd7a419de217b3d129f783ddc87780af", null ],
-    [ "UpdateAI", "da/dc5/a22824.html#ae1ec04a655525cbb2a6a3c7e382cf078", null ],
-    [ "_canCastDampenMagic", "da/dc5/a22824.html#a72c89454c2b0754690ae72fd7aacb0e8", null ]
+    [ "boss_gathios_the_shatterer", "da/dc5/a22824.html#a34708f52c610e567c5acf62962e90d4e", null ],
+    [ "JustEngagedWith", "da/dc5/a22824.html#a98ad625cf2ac9b1d8d9b41001ba4fb34", null ],
+    [ "SelectCouncilMember", "da/dc5/a22824.html#a3d33c1a29b7ba2feb22ea9d3941b39ed", null ],
+    [ "UpdateAI", "da/dc5/a22824.html#a1541f1efd3978a4c91b80e411aec6442", null ],
+    [ "_toggleAura", "da/dc5/a22824.html#aa983e2d9018a9e53ee29840781f47c33", null ],
+    [ "_toggleBlessing", "da/dc5/a22824.html#a52e9b7d3b1af46d3ecb6ca9432ee3957", null ],
+    [ "_toggleSeal", "da/dc5/a22824.html#ad7e6f9e03968e2abac570d0c7a5de9e2", null ]
 ];

@@ -1,7 +1,6 @@
 var a18068 =
 [
-    [ "OnRemove", "d9/d53/a18068.html#aa096174465120bde1994c85f72682be1", null ],
-    [ "PrepareAuraScript", "d9/d53/a18068.html#a49ba4ed8ac0ee006c74a71e6779c1a3b", null ],
-    [ "Register", "d9/d53/a18068.html#a6e9c95b06f3ec9dc0739beaabc016d5f", null ],
-    [ "Validate", "d9/d53/a18068.html#a1b7ef2c14db8543a9128aa335548fa00", null ]
+    [ "CheckProc", "d9/d53/a18068.html#ad701d353f03eb5a1ccca28a6530555db", null ],
+    [ "PrepareAuraScript", "d9/d53/a18068.html#a51794aa0a42180d9a0f4e9f6d5febca4", null ],
+    [ "Register", "d9/d53/a18068.html#a4f787e29064c15f4dad9047ff618982a", null ]
 ];

@@ -1,6 +1,8 @@
 var a16436 =
 [
-    [ "npc_toc_mageAI", "d8/d0d/a16440.html", "d8/d0d/a16440" ],
-    [ "npc_toc_mage", "d5/d0f/a16436.html#a8270875c1da3e2e96f767362ef90cdc6", null ],
-    [ "GetAI", "d5/d0f/a16436.html#a64b5b8b3a5933a0264537f2187e81e15", null ]
+    [ "npc_toc_warlockAI", "d5/d0f/a16436.html#a4c4c2f502f00ca48bb7419434d88ea3a", null ],
+    [ "JustSummoned", "d5/d0f/a16436.html#a203ef748afaa400aa1f8365b5d7bf6b1", null ],
+    [ "myCanCast", "d5/d0f/a16436.html#a62b2df362bc07aa4a9c14cbc63a10e05", null ],
+    [ "UpdateAI", "d5/d0f/a16436.html#a554849d02d923439bd810b7d8c242afa", null ],
+    [ "events", "d5/d0f/a16436.html#a3b84c70d246bbf5b70ab4dec06c647b3", null ]
 ];

@@ -1,9 +1,8 @@
 var a27180 =
 [
-    [ "ChatLogScript", "d2/d84/a27180.html#ade8c407083cf094f0767412e7b6d7730", null ],
-    [ "OnPlayerChat", "d2/d84/a27180.html#a9dc39835aac01da34c57c420fc82790e", null ],
-    [ "OnPlayerChat", "d2/d84/a27180.html#a64e047261c3d3de22614950c6b6f6f79", null ],
-    [ "OnPlayerChat", "d2/d84/a27180.html#ac9a4dc6a35325a87c69f08f50a26750c", null ],
-    [ "OnPlayerChat", "d2/d84/a27180.html#af6e61405ba6642fa451465e27c4b47d8", null ],
-    [ "OnPlayerChat", "d2/d84/a27180.html#a9962307a0e073ee3f5e7139f059e01b8", null ]
+    [ "FilterTargets", "d2/d84/a27180.html#a53c6d73f3588e50c2be7ce68595a704c", null ],
+    [ "HandleEffect", "d2/d84/a27180.html#a2edac19abf8aa765ada369e00cd7ea69", null ],
+    [ "PrepareSpellScript", "d2/d84/a27180.html#ae1e1ff5456cb7c558ff4fe415de6a691", null ],
+    [ "Register", "d2/d84/a27180.html#acb4d6abeb0e293728ae3dd0d248e0844", null ],
+    [ "Validate", "d2/d84/a27180.html#aabc063155fad404ffd044c9f79b88051", null ]
 ];

@@ -1,6 +1,8 @@
 var a21300 =
 [
-    [ "npc_frozen_orb_stalkerAI", "db/d5c/a21304.html", "db/d5c/a21304" ],
-    [ "npc_frozen_orb_stalker", "df/dec/a21300.html#a7f025c829106aa6668427f913d07a722", null ],
-    [ "GetAI", "df/dec/a21300.html#af33e27138a70286bac561113ed09f350", null ]
+    [ "npc_frozen_orbAI", "df/dec/a21300.html#aa7456d1d876690e3723ee0a36866348b", null ],
+    [ "JustEngagedWith", "df/dec/a21300.html#afd9686dbb8503d7f756b670269aed33d", null ],
+    [ "Reset", "df/dec/a21300.html#a376dc1fcef9752e235008c4ba66e2463", null ],
+    [ "UpdateAI", "df/dec/a21300.html#a37d7cf81197fe4344c8b847753997e93", null ],
+    [ "switchTimer", "df/dec/a21300.html#afc63a3cf6b814df81a35b53278d722c9", null ]
 ];

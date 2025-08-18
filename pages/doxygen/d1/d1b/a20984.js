@@ -1,6 +1,7 @@
 var a20984 =
 [
-    [ "OnEffect", "d1/d1b/a20984.html#aa24cfd6feec65f466e74c68484815c1e", null ],
-    [ "PrepareSpellScript", "d1/d1b/a20984.html#a648fb610fb1914efac7f2cb6e1bb4290", null ],
-    [ "Register", "d1/d1b/a20984.html#ac1c0076665edc6a2b3a0228340020a1e", null ]
+    [ "HandleEffectCalcPeriodic", "d1/d1b/a20984.html#af01eb94174952de52615734055b17c1a", null ],
+    [ "HandleEffectPeriodic", "d1/d1b/a20984.html#a87b4517a6ad8630027ab2c3534b9fb8c", null ],
+    [ "PrepareAuraScript", "d1/d1b/a20984.html#a95bd054accb5b72c4cfb12caccf0e004", null ],
+    [ "Register", "d1/d1b/a20984.html#a2d506669ddc4c84e9ae3eb1746eadce1", null ]
 ];

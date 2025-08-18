@@ -1,7 +1,7 @@
 var a26256 =
 [
-    [ "HandleProc", "dd/ddf/a26256.html#ad5bf7ab28ac2f359c65606a1772a40d2", null ],
-    [ "PrepareAuraScript", "dd/ddf/a26256.html#af4fec7fb65e1327b1a74d48453b9fddd", null ],
-    [ "Register", "dd/ddf/a26256.html#a44a82b94d509eeb04f3520ded1d62891", null ],
-    [ "Validate", "dd/ddf/a26256.html#a7b222bba8f0c4ced50bf4945bf0423ca", null ]
+    [ "HandleApplyEffect", "dd/ddf/a26256.html#af95120b26a165196e0310956c245f36f", null ],
+    [ "HandleRemoveEffect", "dd/ddf/a26256.html#a59e7d23c969b03aa75ef1da3bf42f6e9", null ],
+    [ "PrepareAuraScript", "dd/ddf/a26256.html#ae19e002407db1466f0655db3d14fe0d7", null ],
+    [ "Register", "dd/ddf/a26256.html#ae776a5e913fcf1553b7e2a00374a1ee6", null ]
 ];

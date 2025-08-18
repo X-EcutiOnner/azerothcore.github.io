@@ -1,5 +1,7 @@
 var a16692 =
 [
-    [ "achievement_oh_novos", "dc/da9/a16692.html#a31ca1f458c384401af107cb8f709ef61", null ],
-    [ "OnCheck", "dc/da9/a16692.html#a3b922d9ed709ed46edca794f5ccf858f", null ]
+    [ "HandleScript", "dc/da9/a16692.html#a927cc2ab0e5bba58a2b49e3e4e52ebaa", null ],
+    [ "PrepareSpellScript", "dc/da9/a16692.html#a71b28156c628aacbc6cb481038c0e76c", null ],
+    [ "Register", "dc/da9/a16692.html#a6f036bb2d42f248e0c252158a5ecedf1", null ],
+    [ "Validate", "dc/da9/a16692.html#a7c8a5a7c47bd7a9624028f92b1d9cf9c", null ]
 ];

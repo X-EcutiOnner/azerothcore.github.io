@@ -1,6 +1,5 @@
 var a23644 =
 [
-    [ "boss_porung", "d6/d4d/a23644.html#acef31010461bbf716ac9b13d950807ee", null ],
-    [ "JustDied", "d6/d4d/a23644.html#ac5c36f875692f49d1d0195694d85e5c1", null ],
-    [ "JustEngagedWith", "d6/d4d/a23644.html#a9d44f51e4710e01bdc7d345ff3bba9dc", null ]
+    [ "at_rp_nethekurse", "d6/d4d/a23644.html#ac0a1891f90b674ad0ccbeb27f170e643", null ],
+    [ "_OnTrigger", "d6/d4d/a23644.html#a93001d6dda7b2711f1efe100ffab5879", null ]
 ];

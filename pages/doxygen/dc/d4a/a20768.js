@@ -1,7 +1,7 @@
 var a20768 =
 [
-    [ "FilterTargets", "dc/d4a/a20768.html#a582691eca81b6db6d78ca925ad8fb084", null ],
-    [ "PrepareSpellScript", "dc/d4a/a20768.html#a28ce9d2750c79b2b0061b00df5ae9e8b", null ],
-    [ "RecalculateDamage", "dc/d4a/a20768.html#a02c1af0414de344056b2375488f23c01", null ],
-    [ "Register", "dc/d4a/a20768.html#a1e030067944878000b731edf456d6bc8", null ]
+    [ "npc_xt002_life_sparkAI", "dc/d4a/a20768.html#a763ec1834d3b71c88bfa80bc0e34966a", null ],
+    [ "Reset", "dc/d4a/a20768.html#a596e2ed45b9221915781b03bf2d18e5b", null ],
+    [ "UpdateAI", "dc/d4a/a20768.html#af0a1e717b08b2fa35dd4ff83778a87c1", null ],
+    [ "_attackTimer", "dc/d4a/a20768.html#a79bf005de95aa1fee60dfc73b8920dad", null ]
 ];

@@ -1,8 +1,8 @@
 var a02675 =
 [
-    [ "AccountActionIpLogger", "d4/dd5/a27060.html", "d4/dd5/a27060" ],
-    [ "CharacterActionIpLogger", "d1/d4f/a27064.html", "d1/d4f/a27064" ],
-    [ "CharacterDeleteActionIpLogger", "d2/df1/a27068.html", "d2/df1/a27068" ],
+    [ "AccountActionIpLogger", "d1/d4f/a27064.html", "d1/d4f/a27064" ],
+    [ "CharacterActionIpLogger", "d2/df1/a27068.html", "d2/df1/a27068" ],
+    [ "CharacterDeleteActionIpLogger", "d3/dea/a27072.html", "d3/dea/a27072" ],
     [ "IPLoggingTypes", "d8/d01/a02675.html#a3b67d8dbf539fa5519b3e33da9d0137b", [
       [ "ACCOUNT_LOGIN", "d8/d01/a02675.html#a3b67d8dbf539fa5519b3e33da9d0137ba8f9e397f01ecf6030118a21051f37eb8", null ],
       [ "ACCOUNT_FAIL_LOGIN", "d8/d01/a02675.html#a3b67d8dbf539fa5519b3e33da9d0137baf5dfdd830d71ca55c98a2a6bbc49895f", null ],

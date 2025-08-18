@@ -1,7 +1,7 @@
 var a27604 =
 [
-    [ "npc_sayge", "db/d48/a27604.html#a5b75c459665ece26cee5dbffcc0fc8ff", null ],
-    [ "OnGossipHello", "db/d48/a27604.html#ad069e6cc7fe5271c3474c8bcf537cf4c", null ],
-    [ "OnGossipSelect", "db/d48/a27604.html#aa049b4514fc2d18508d8d4f9b6616c99", null ],
-    [ "SendAction", "db/d48/a27604.html#aed1988335672423d024546654aa95298", null ]
+    [ "npc_guardianAI", "db/d48/a27604.html#acc5d29a79e57fc023369c0dcd4b0d2a3", null ],
+    [ "JustEngagedWith", "db/d48/a27604.html#a50257f80245bc59437e53083badcb056", null ],
+    [ "Reset", "db/d48/a27604.html#a217df9bae079f56ffd70d27958fb2756", null ],
+    [ "UpdateAI", "db/d48/a27604.html#ab42c39f088ef819a5ffb5f9f4ba2c3a3", null ]
 ];

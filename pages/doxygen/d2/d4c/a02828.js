@@ -1,9 +1,9 @@
 var a02828 =
 [
-    [ "npc_rizzle_sprysprocket", "de/d54/a15300.html", "de/d54/a15300" ],
-    [ "npc_rizzle_sprysprocket::npc_rizzle_sprysprocketAI", "dc/d2b/a15304.html", "dc/d2b/a15304" ],
-    [ "npc_depth_charge", "dd/d0f/a15308.html", "dd/d0f/a15308" ],
-    [ "npc_depth_charge::npc_depth_chargeAI", "d4/d2f/a15312.html", "d4/d2f/a15312" ],
+    [ "npc_rizzle_sprysprocket", "dc/d2b/a15304.html", "dc/d2b/a15304" ],
+    [ "npc_rizzle_sprysprocket::npc_rizzle_sprysprocketAI", "dd/d0f/a15308.html", "dd/d0f/a15308" ],
+    [ "npc_depth_charge", "d4/d2f/a15312.html", "d4/d2f/a15312" ],
+    [ "npc_depth_charge::npc_depth_chargeAI", "d3/d42/a15316.html", "d3/d42/a15316" ],
     [ "RizzleSprysprocketData", "d2/d4c/a02828.html#ad694d8f9c4171422b48a06322c8bf5a3", [
       [ "QUEST_CHASING_THE_MOONSTONE", "d2/d4c/a02828.html#ad694d8f9c4171422b48a06322c8bf5a3a62167aa10a1e13501da60bbfd43df100", null ],
       [ "NPC_DEPTH_CHARGE", "d2/d4c/a02828.html#ad694d8f9c4171422b48a06322c8bf5a3a6238920533d94ea0caa141d736f110ac", null ],

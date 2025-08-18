@@ -1,7 +1,7 @@
 var a00059 =
 [
-    [ "map_id", "d6/d5f/a28724.html", "d6/d5f/a28724" ],
-    [ "LiquidTypeEntry", "da/dda/a28292.html", "da/dda/a28292" ],
+    [ "map_id", "d1/ddc/a28728.html", "d1/ddc/a28728" ],
+    [ "LiquidTypeEntry", "d5/dfc/a28296.html", "d5/dfc/a28296" ],
     [ "map_fileheader", "d7/ded/a09104.html", "d7/ded/a09104" ],
     [ "map_areaHeader", "d2/d53/a09108.html", "d2/d53/a09108" ],
     [ "map_heightHeader", "d6/dc2/a09112.html", "d6/dc2/a09112" ],

@@ -1,7 +1,7 @@
 var a25032 =
 [
-    [ "HandleEffectApply", "d2/dea/a25032.html#a97a639459622c9e3e995057989cf9eda", null ],
-    [ "HandleEffectRemove", "d2/dea/a25032.html#a7477bb78ffcc082c111bad4e93b9fd73", null ],
-    [ "PrepareAuraScript", "d2/dea/a25032.html#aa3c4018e18eccd8f12e4607f4bc630ec", null ],
-    [ "Register", "d2/dea/a25032.html#a40793c696a759db4920c4c34f5b9fa66", null ]
+    [ "HandleEffectApply", "d2/dea/a25032.html#a2854357f92b1faac6e7840f1576138e0", null ],
+    [ "HandleEffectRemove", "d2/dea/a25032.html#a7960ca4deb4ff61d04ea7fe7ec0f0471", null ],
+    [ "PrepareAuraScript", "d2/dea/a25032.html#a2120cecbca61e4c7380892fe8d43772a", null ],
+    [ "Register", "d2/dea/a25032.html#a98c71c0d4c4b0503e66ed2033946cb2e", null ]
 ];

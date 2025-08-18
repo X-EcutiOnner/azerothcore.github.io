@@ -1,7 +1,11 @@
 var a19524 =
 [
-    [ "OnRemove", "d4/df8/a19524.html#adf6b3d56199ad5a4545ce3874d1223db", null ],
-    [ "PrepareAuraScript", "d4/df8/a19524.html#a2d278e60b34870110dab188896109e24", null ],
-    [ "Register", "d4/df8/a19524.html#ac15847527cc4d162b3b34b8ca8628864", null ],
-    [ "Validate", "d4/df8/a19524.html#ac573e5bd171c97af1905b4a57a45e1f4", null ]
+    [ "npc_spark_of_ionarAI", "d4/df8/a19524.html#a738ceaa68f13c084fedee2add6fba99e", null ],
+    [ "AttackStart", "d4/df8/a19524.html#a7616d68c090aece19389b4c4842e30a3", null ],
+    [ "DamageTaken", "d4/df8/a19524.html#a42466b7c6af30727b8872bd2ddfddb6f", null ],
+    [ "DoAction", "d4/df8/a19524.html#a995efdb87fdd72eccfdce11d2af0201b", null ],
+    [ "MoveInLineOfSight", "d4/df8/a19524.html#ac87193fba7975147731ca3c92946c308", null ],
+    [ "Reset", "d4/df8/a19524.html#a4b4511ac7258c1182e428bddb2db6519", null ],
+    [ "UpdateAI", "d4/df8/a19524.html#ae4e881e4e66e49c124c0cf540e1d59b7", null ],
+    [ "returning", "d4/df8/a19524.html#a5f6ef34741a6d726c3fecd66d768bd67", null ]
 ];

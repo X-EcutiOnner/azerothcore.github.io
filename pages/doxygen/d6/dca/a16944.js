@@ -1,6 +1,13 @@
 var a16944 =
 [
-    [ "npc_hor_raging_ghoulAI", "d5/d72/a16948.html", "d5/d72/a16948" ],
-    [ "npc_hor_raging_ghoul", "d6/dca/a16944.html#ad2130edf27295719c46dde14deefe5a4", null ],
-    [ "GetAI", "d6/dca/a16944.html#ab29cebad1d54d14ecf21bbd215dc2f2d", null ]
+    [ "npc_hor_leader_secondAI", "d6/dca/a16944.html#a54a5094dc533755efc249ebc96663b62", null ],
+    [ "DamageTaken", "d6/dca/a16944.html#ae534779315b04b3dde495b13a1cb28e4", null ],
+    [ "DoAction", "d6/dca/a16944.html#a4185259006017e85fade721796851dd0", null ],
+    [ "MovementInform", "d6/dca/a16944.html#afe93165a3e96496b52a2be8de5022164", null ],
+    [ "MoveToNextStopPoint", "d6/dca/a16944.html#a6d9f65386d6f40a5cf96b09ecaf54871", null ],
+    [ "Reset", "d6/dca/a16944.html#ae5d125deab31e6425e94b4523d8251eb", null ],
+    [ "UpdateAI", "d6/dca/a16944.html#ae991e18a6729a1b088c60060802c01c2", null ],
+    [ "currentStopPoint", "d6/dca/a16944.html#ae4bf31530e701f9e0aa4f253452f9881", null ],
+    [ "events", "d6/dca/a16944.html#a3510e246908f4e5b758e05ca06a29e47", null ],
+    [ "pInstance", "d6/dca/a16944.html#a32cebea12e13c87b45dd2a4c6cf495e5", null ]
 ];

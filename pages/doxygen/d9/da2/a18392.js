@@ -1,7 +1,9 @@
 var a18392 =
 [
-    [ "HandleProc", "d9/da2/a18392.html#af06730a865009127c7d3e5423afd4d44", null ],
-    [ "PrepareAuraScript", "d9/da2/a18392.html#a71a81a19a0c543a4aa43d6bf002b7bb9", null ],
-    [ "Register", "d9/da2/a18392.html#a6c97b787ce00491a259c575d26189f8c", null ],
-    [ "Validate", "d9/da2/a18392.html#aed9c98e20d916359629e119d6dd2a94f", null ]
+    [ "npc_spirit_wardenAI", "d9/da2/a18392.html#a3391168478345d8b5c1fee151f6e9f04", null ],
+    [ "JustDied", "d9/da2/a18392.html#aa762c0bea6361107312e8231508dc655", null ],
+    [ "Reset", "d9/da2/a18392.html#ad6076663f65f43874feb0ecfc57718a4", null ],
+    [ "UpdateAI", "d9/da2/a18392.html#af845e3e2c38af5baa84c94f6074c0caf", null ],
+    [ "_events", "d9/da2/a18392.html#a1bc5cfdee62efdd622e0fe1aa503c260", null ],
+    [ "_instance", "d9/da2/a18392.html#a58ebb8e42e77add79fc888248013eb24", null ]
 ];

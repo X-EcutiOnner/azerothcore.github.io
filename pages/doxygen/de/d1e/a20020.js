@@ -1,9 +1,8 @@
 var a20020 =
 [
-    [ "Absorb", "de/d1e/a20020.html#a16c2e931950102fc0ae5c88ef14587c1", null ],
-    [ "CalculateAmount", "de/d1e/a20020.html#a9166627cbaa536405975444c4ef601de", null ],
-    [ "Load", "de/d1e/a20020.html#abe7c08d2f26cef3603cf1b1f243f9e38", null ],
-    [ "PrepareAuraScript", "de/d1e/a20020.html#aa5793741c2f8179db68a9fb1222a9085", null ],
-    [ "Register", "de/d1e/a20020.html#a17fed57aed8953c7a7e401d1ac925e67", null ],
-    [ "_absorbPct", "de/d1e/a20020.html#ad9e1dcfd8ce7038173ac5b71d448d80a", null ]
+    [ "HandleOnEffectApply", "de/d1e/a20020.html#a83ff54727e886161c5568a60833932d1", null ],
+    [ "HandleOnEffectRemove", "de/d1e/a20020.html#a9e48d1c9dc26f882ee685a2cbf59667e", null ],
+    [ "PrepareAuraScript", "de/d1e/a20020.html#a5ec8ffeceae335423dff10f54e096e8a", null ],
+    [ "Register", "de/d1e/a20020.html#ae07af138c6f9c565799574b4f8343492", null ],
+    [ "Validate", "de/d1e/a20020.html#a3a24a25c9b9b118d20ca2b14fbfc5869", null ]
 ];

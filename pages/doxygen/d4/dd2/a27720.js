@@ -1,8 +1,8 @@
 var a27720 =
 [
-    [ "npc_cultist_engineer", "d4/dd2/a27720.html#a02675a96d20902d147b0370fa1715d81", null ],
-    [ "JustDied", "d4/dd2/a27720.html#a4b4d561f827553998caa204e0e1b9e54", null ],
-    [ "Reset", "d4/dd2/a27720.html#a6f84d224a959c06fbb7a48197dd4cbdd", null ],
-    [ "sGossipSelect", "d4/dd2/a27720.html#ab26d124cbfdc4d649fef6058e9637845", null ],
-    [ "UpdateAI", "d4/dd2/a27720.html#a47b1b08959b8cd02ba92fcf3a55e32d2", null ]
+    [ "npc_minion_spawner", "d4/dd2/a27720.html#ab49641074ae46f21a3fdc1c2f71396ba", null ],
+    [ "CanSpawnRareMinion", "d4/dd2/a27720.html#a007376c8f66a3963651f81ddd14cbbfc", null ],
+    [ "JustSummoned", "d4/dd2/a27720.html#a1742c98edca62e3d80a32f33d6ed2f97", null ],
+    [ "Reset", "d4/dd2/a27720.html#a0b55c1648c37399ad99d340bdf20cb49", null ],
+    [ "UpdateAI", "d4/dd2/a27720.html#a24f93f1314bb73edb369e188eda83104", null ]
 ];

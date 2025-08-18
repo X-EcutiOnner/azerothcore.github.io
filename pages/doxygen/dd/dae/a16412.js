@@ -1,6 +1,7 @@
 var a16412 =
 [
-    [ "npc_toc_priestAI", "db/d2e/a16416.html", "db/d2e/a16416" ],
-    [ "npc_toc_priest", "dd/dae/a16412.html#a0e360a2cc053434d2f76826683da8eee", null ],
-    [ "GetAI", "dd/dae/a16412.html#a6056a81bef962a02537d525f07d1c302", null ]
+    [ "npc_toc_paladinAI", "dd/dae/a16412.html#a025d39c04e864ebd77f4f930ec20b1e5", null ],
+    [ "myCanCast", "dd/dae/a16412.html#a06130e6e440d0b25d8b5566de6190cbc", null ],
+    [ "UpdateAI", "dd/dae/a16412.html#a32943f1c3ffd0239c85ac1b81786f049", null ],
+    [ "events", "dd/dae/a16412.html#ae47a32bbb05cf2f634ae18bc672ec004", null ]
 ];

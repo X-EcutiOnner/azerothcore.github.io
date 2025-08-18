@@ -1,7 +1,7 @@
 var a17512 =
 [
-    [ "HandleScript", "d1/d80/a17512.html#a101e5e995dd27dcc6b6a4b475eed0989", null ],
-    [ "PrepareSpellScript", "d1/d80/a17512.html#a8f668b88a41585cabeace574b30b4f85", null ],
-    [ "Register", "d1/d80/a17512.html#a8fae161a91fae297b99079bde218ced8", null ],
-    [ "Validate", "d1/d80/a17512.html#a4d1a8c28eefff22afdbf15ab57a6a7fd", null ]
+    [ "ExtraEffect", "d1/d80/a17512.html#a65b5bc8d053a69325f42a7f23ae4dbdc", null ],
+    [ "PrepareAuraScript", "d1/d80/a17512.html#a53d6013e5ec473854e1537969cb31988", null ],
+    [ "Register", "d1/d80/a17512.html#a85be360bb15482ff34b7f1d04d949b1d", null ],
+    [ "Validate", "d1/d80/a17512.html#ab14e7410cf542d9f4043800a3b86c664", null ]
 ];

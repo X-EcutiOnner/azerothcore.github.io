@@ -1,6 +1,8 @@
 var a22308 =
 [
-    [ "npc_icefangAI", "de/d84/a22312.html", "de/d84/a22312" ],
-    [ "npc_icefang", "d0/da2/a22308.html#a2e13be89b110abaa2509e597e4cf883a", null ],
-    [ "GetAI", "d0/da2/a22308.html#ad1a936b1eef30271912054a817e0c9f8", null ]
+    [ "npc_freed_protodrakeAI", "d0/da2/a22308.html#a9e80808035be749c87a1170f37ac3daf", null ],
+    [ "MovementInform", "d0/da2/a22308.html#af056f3c12a314acd8a7e8c6c381b9436", null ],
+    [ "Reset", "d0/da2/a22308.html#ab5781438300442bb7bcb4510aec9d233", null ],
+    [ "UpdateAI", "d0/da2/a22308.html#a9e83b133444e977c35e90b700149472c", null ],
+    [ "events", "d0/da2/a22308.html#ac2e34b9a53ff55d177327ec95dca5466", null ]
 ];

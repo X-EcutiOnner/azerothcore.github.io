@@ -1,11 +1,6 @@
 var a20628 =
 [
-    [ "boss_thorim_lightning_orbAI", "d1/dad/a20628.html#a14d4b9f445abfaba77bcfc52173ff705", null ],
-    [ "AttackStart", "d1/dad/a20628.html#a88a885b96016788f8011dd1d3d44d992", null ],
-    [ "EnterEvadeMode", "d1/dad/a20628.html#a04bc99d1bd16f8297e7da8902e4bcaab", null ],
-    [ "InitWaypoint", "d1/dad/a20628.html#a420217dd9e482edc24a87dead2753321", null ],
-    [ "MoveInLineOfSight", "d1/dad/a20628.html#a0ee02cdd5cedf8a6565493b9812e88ae", null ],
-    [ "Reset", "d1/dad/a20628.html#a4e410303d287a4c827c279a4e7c3ca99", null ],
-    [ "WaypointReached", "d1/dad/a20628.html#a141659a0ebbcc097f0f03dec30dad2ca", null ],
-    [ "Timer", "d1/dad/a20628.html#ac251df35736ae44e08f82ae7bbe8fc15", null ]
+    [ "boss_thorim_lightning_orbAI", "d2/dad/a20632.html", "d2/dad/a20632" ],
+    [ "boss_thorim_lightning_orb", "d1/dad/a20628.html#a2aa29e8d2b3fb10e8be39d8fc3112ac2", null ],
+    [ "GetAI", "d1/dad/a20628.html#ad24d28866145c4fccf7a3971856fa87f", null ]
 ];

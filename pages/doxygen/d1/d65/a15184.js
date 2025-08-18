@@ -1,14 +1,6 @@
 var a15184 =
 [
-    [ "boss_twinemperorsAI", "d1/d65/a15184.html#ae0857b191dbbf086533062aee5885237", null ],
-    [ "DamageTaken", "d1/d65/a15184.html#a118151851f36de9dfc22971a965cb047", null ],
-    [ "DoAction", "d1/d65/a15184.html#a2b5e585749b7a59663813c7a9d56c223", null ],
-    [ "EnterEvadeMode", "d1/d65/a15184.html#ab5a1b28405c38ece65f5ee145e472de8", null ],
-    [ "GetTwin", "d1/d65/a15184.html#af23aa54bca9752c242e80331862ace4d", null ],
-    [ "IAmVeklor", "d1/d65/a15184.html#acdccdde2ee573f51e1783ea493577258", null ],
-    [ "JustDied", "d1/d65/a15184.html#a9cc74619908c2aa9f8deda2689616735", null ],
-    [ "JustEngagedWith", "d1/d65/a15184.html#ab9a279e9ba3bb057268602be7368ffe4", null ],
-    [ "KilledUnit", "d1/d65/a15184.html#aaa52e01bfeff824345f7b9c7346e8aef", null ],
-    [ "UpdateAI", "d1/d65/a15184.html#a4d9e07fd3f682a24332d0aabe6c55f8f", null ],
-    [ "_introDone", "d1/d65/a15184.html#a1b4689b0c403f7246ae100e4f716b138", null ]
+    [ "FilterTargets", "d1/d65/a15184.html#a1ceb8f97a19b7c0434c430b388d0f76b", null ],
+    [ "PrepareSpellScript", "d1/d65/a15184.html#a4a376e2a30c79ee2819c695e72535c0a", null ],
+    [ "Register", "d1/d65/a15184.html#aaf7b4fba94d94331f6b35add2b836061", null ]
 ];

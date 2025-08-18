@@ -1,6 +1,16 @@
 var a19536 =
 [
-    [ "CalculateDamage", "d2/d78/a19536.html#ae38f8cfb44de2798d7a284c942617678", null ],
-    [ "PrepareSpellScript", "d2/d78/a19536.html#a043955d56e0ae4c54d70e8fe6e417dd1", null ],
-    [ "Register", "d2/d78/a19536.html#ab4b32d2db39c8d9079a83c89d63ccd93", null ]
+    [ "boss_lokenAI", "d2/d78/a19536.html#abdadd98c337f97f6a1daf1657f2f3ab2", null ],
+    [ "JustDied", "d2/d78/a19536.html#a2ab2adb8c9fb2048e2c3c341d8c2ff37", null ],
+    [ "JustEngagedWith", "d2/d78/a19536.html#afd9634d8665b946991ccd777072cf70a", null ],
+    [ "KilledUnit", "d2/d78/a19536.html#af6f6ebfffa9e2719c3a18bd53d704018", null ],
+    [ "LokenSpeach", "d2/d78/a19536.html#a853a371812a856f39137c665fcc09b86", null ],
+    [ "MoveInLineOfSight", "d2/d78/a19536.html#a0855580a471661925fdf272dedb418fd", null ],
+    [ "Reset", "d2/d78/a19536.html#a51c7ca1ce5a0b4837d2fbc033c06a864", null ],
+    [ "UpdateAI", "d2/d78/a19536.html#acc5b453efca847a6cada43606b8a08ed", null ],
+    [ "events", "d2/d78/a19536.html#ac3b98aeba2741ee49d262b33d30f8b2a", null ],
+    [ "HealthCheck", "d2/d78/a19536.html#ad9f9e369ce64bab66f29899659440b62", null ],
+    [ "IntroTimer", "d2/d78/a19536.html#ae92b9ff0abd8580baf7a2fca56e0df23", null ],
+    [ "isActive", "d2/d78/a19536.html#a8f20ce4cddf7eae09ddc659b9bf75919", null ],
+    [ "m_pInstance", "d2/d78/a19536.html#aba89a46dae1d4d195c8be10d89fb72ab", null ]
 ];

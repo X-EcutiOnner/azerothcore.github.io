@@ -1,8 +1,10 @@
 var a28660 =
 [
-    [ "TileInfo", "da/df5/a28660.html#af1a25ded4212f141ab4f32db95709210", null ],
-    [ "m_mapId", "da/df5/a28660.html#a41f4be7d3fce716754b9ac0310b9ecf9", null ],
-    [ "m_navMeshParams", "da/df5/a28660.html#a9d7c909370359edafa8a9b6a91cef354", null ],
-    [ "m_tileX", "da/df5/a28660.html#a54cc23d82dfe690e0d62b6156d440fc1", null ],
-    [ "m_tileY", "da/df5/a28660.html#ab7fba310dd471fddcf2e7d6fba3205ed", null ]
+    [ "plane", "d5/d71/a28668.html", "d5/d71/a28668" ],
+    [ "prepareLoadedData", "da/df5/a28660.html#a29dc30be1cb7f5439e023865ff5a4853", null ],
+    [ "fcc", "da/df5/a28660.html#a8c64958fb4e18bc3bcfaf7dbfde9f178", null ],
+    [ "fcc_txt", "da/df5/a28660.html#ab768fb1ba27812060cf2edeb5f4b876c", null ],
+    [ "max", "da/df5/a28660.html#afadebfc1361985b6f5d45c27e22cb303", null ],
+    [ "min", "da/df5/a28660.html#ac3ebf1557841088ef8912b68fe6df908", null ],
+    [ "size", "da/df5/a28660.html#af92420cfd862486c73c35ac8a9f9fdee", null ]
 ];

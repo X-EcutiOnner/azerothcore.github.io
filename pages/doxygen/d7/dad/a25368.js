@@ -1,6 +1,6 @@
 var a25368 =
 [
-    [ "CalculateAmount", "d7/dad/a25368.html#ac0018b57967a3d3ae71aa81745032f15", null ],
-    [ "PrepareAuraScript", "d7/dad/a25368.html#ab249a493050c5527eeec8913e94cfc64", null ],
-    [ "Register", "d7/dad/a25368.html#a8f078f8370eacba197ceb2068b6a538d", null ]
+    [ "PrepareAuraScript", "d7/dad/a25368.html#a1a06aa5d8254f0d33ecb38df72d97d20", null ],
+    [ "Register", "d7/dad/a25368.html#abb54f08b1932e3638537656360d3aad8", null ],
+    [ "AuraEffectHandleModes", "d7/dad/a25368.html#a9f02f6b1287d320fee15fec18b61cfe7", null ]
 ];

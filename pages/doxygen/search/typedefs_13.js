@@ -53,7 +53,7 @@ var searchData=
   ['smartaieventstoredlist_50',['SmartAIEventStoredList',['../de/d70/a01415.html#a9bf01cc8325bd669dff76a3545290fe4',1,'SmartScriptMgr.h']]],
   ['smarteventconditioncontainer_51',['SmartEventConditionContainer',['../d3/d2c/a00764.html#abdfa94c93c90adfe4347841af180cbec',1,'ConditionMgr.h']]],
   ['socialmap_52',['SocialMap',['../d4/d2b/a08640.html#a2b80fa18a6f1ed54fda7719867f45ebd',1,'SocialMgr']]],
-  ['socketcontainer_53',['SocketContainer',['../dc/dde/a28508.html#afecfc2ddefae1d1dca0f74e36695a748',1,'NetworkThread']]],
+  ['socketcontainer_53',['SocketContainer',['../d2/d60/a28512.html#afecfc2ddefae1d1dca0f74e36695a748',1,'NetworkThread']]],
   ['sortableauctionentrieslist_54',['SortableAuctionEntriesList',['../d9/de6/a00404.html#a7d6d8287b2adf4a3caae16ed69a8519d',1,'AuctionHouseSearcher.h']]],
   ['spectatorlist_55',['SpectatorList',['../de/da8/a07292.html#a152b516933fa88d053a99d3e3aa052c3',1,'Battleground']]],
   ['spell_5fmage_5ffingers_5fof_5ffrost_5fproc_5faura_5fscript_56',['spell_mage_fingers_of_frost_proc_aura_script',['../d4/d61/a02588.html#aa5de9b4eecf809a3292a4697d206eaf9',1,'spell_mage.cpp']]],

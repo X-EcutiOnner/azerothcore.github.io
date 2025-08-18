@@ -1,8 +1,7 @@
 var a15064 =
 [
-    [ "npc_obsidian_destroyer", "d1/dfb/a15064.html#abd8b1614a9da9fbe9c9898246b0822b8", null ],
-    [ "JustDied", "d1/dfb/a15064.html#adc54ac02383f5e5bf6af980f5ba301e8", null ],
-    [ "JustEngagedWith", "d1/dfb/a15064.html#aaf95dd2c92a5d1745311e4162aee8dbc", null ],
-    [ "Reset", "d1/dfb/a15064.html#a08c6b9ec0e2f4207d48f95eedf2c26ab", null ],
-    [ "UpdateAI", "d1/dfb/a15064.html#a79ba48d421a636f99ea65c0e34d084e1", null ]
+    [ "npc_hivezara_stinger", "d1/dfb/a15064.html#ac9438c9dd260a41d6248f2adcc14b555", null ],
+    [ "JustEngagedWith", "d1/dfb/a15064.html#a433d31057f1732ef7ef15d2023e18b8a", null ],
+    [ "Reset", "d1/dfb/a15064.html#ae8e893c90942a469628c393d5b5380cc", null ],
+    [ "UpdateAI", "d1/dfb/a15064.html#a35a6511ebc0301ae0bb22aafc91c8524", null ]
 ];

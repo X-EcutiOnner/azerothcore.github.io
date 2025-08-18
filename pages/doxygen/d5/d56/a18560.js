@@ -1,8 +1,8 @@
 var a18560 =
 [
-    [ "FilterTargets", "d5/d56/a18560.html#aed8b741160cbf50dde84cf059c8b52cb", null ],
-    [ "HandleForceCast", "d5/d56/a18560.html#ae783cf255be823bf7c9125f288479e97", null ],
-    [ "Load", "d5/d56/a18560.html#ac8f92e9284abc56d55ecf3aa73d350f8", null ],
-    [ "PrepareSpellScript", "d5/d56/a18560.html#a68074978fe2c1b137c6ddfd7b9082bfc", null ],
-    [ "Register", "d5/d56/a18560.html#a454a8909be4bb85f255ea696041ea447", null ]
+    [ "DecayPeriodicTimer", "d5/d56/a18560.html#a314ac33692cc352c490ec3d87177d67a", null ],
+    [ "Load", "d5/d56/a18560.html#af5a498253c4c382df3b2462a30448a64", null ],
+    [ "PrepareAuraScript", "d5/d56/a18560.html#ac5d4ee199b49e04499997355ac054554", null ],
+    [ "Register", "d5/d56/a18560.html#a1b59480ce384f09cecd47872b39cf3c5", null ],
+    [ "_decayRate", "d5/d56/a18560.html#a20c696ff06f9b48451d9eac43ccf5416", null ]
 ];

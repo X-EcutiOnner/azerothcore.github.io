@@ -1,12 +1,6 @@
 var a20756 =
 [
-    [ "npc_xt002_boombotAI", "de/def/a20756.html#a9be3f9270a828946e2934aea24aa5549", null ],
-    [ "DamageTaken", "de/def/a20756.html#ad581fd228701d851c8d3bf0f3a1f854c", null ],
-    [ "Explode", "de/def/a20756.html#afe8c0408887b8cd0cb533475c221035b", null ],
-    [ "JustDied", "de/def/a20756.html#ad6d240b16aa8f7f297b1ad0982a8827e", null ],
-    [ "MovementInform", "de/def/a20756.html#a2cb53c683de44347b0448d8a1611300e", null ],
-    [ "Reset", "de/def/a20756.html#a5d4f4a4c6c098f440064caa37438a7ed", null ],
-    [ "UpdateAI", "de/def/a20756.html#a2bebdd97339b3b545331a494a51246eb", null ],
-    [ "_boomed", "de/def/a20756.html#acd75eb57db0043fbae633a2f63924c05", null ],
-    [ "_locked", "de/def/a20756.html#ada468c62b133ec1a9c043eec1c52c0d1", null ]
+    [ "npc_xt002_boombotAI", "d6/d81/a20760.html", "d6/d81/a20760" ],
+    [ "npc_xt002_boombot", "de/def/a20756.html#a6e2f7dd0d26d140a5b73b0f66ea434af", null ],
+    [ "GetAI", "de/def/a20756.html#a27237e7a60042ed7163b19d80537c1b3", null ]
 ];

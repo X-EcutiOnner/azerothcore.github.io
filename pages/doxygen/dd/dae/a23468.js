@@ -1,8 +1,5 @@
 var a23468 =
 [
-    [ "ApplyStun", "dd/dae/a23468.html#a5a5b921dc45418485919e599e80f8ca8", null ],
-    [ "HandleScriptEffect", "dd/dae/a23468.html#a32619710179250a6a0b408856a888153", null ],
-    [ "PrepareSpellScript", "dd/dae/a23468.html#afb61d7dcc8ad52da4dcad3d7593f08ad", null ],
-    [ "Register", "dd/dae/a23468.html#aa753fd45caa1b515911d8fdf6fa78754", null ],
-    [ "Validate", "dd/dae/a23468.html#a66d91a87078c663903cd836344eec867", null ]
+    [ "npc_invisible_tractor_beam_source", "dd/dae/a23468.html#a78f8adbc578ec005ae3f764e55895dc4", null ],
+    [ "IsSummonedBy", "dd/dae/a23468.html#a4a47cd459013a783bb1cf47b6d670fce", null ]
 ];

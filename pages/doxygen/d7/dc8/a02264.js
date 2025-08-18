@@ -1,9 +1,9 @@
 var a02264 =
 [
-    [ "boss_murmur", "d2/df0/a22684.html", "d2/df0/a22684" ],
-    [ "spell_murmur_thundering_storm", "d3/db4/a22688.html", "d3/db4/a22688" ],
-    [ "spell_shockwave_knockback", "da/ddc/a22692.html", "da/ddc/a22692" ],
-    [ "spell_murmur_sonic_boom_effect", "df/de2/a22696.html", "df/de2/a22696" ],
+    [ "boss_murmur", "d3/db4/a22688.html", "d3/db4/a22688" ],
+    [ "spell_murmur_thundering_storm", "da/ddc/a22692.html", "da/ddc/a22692" ],
+    [ "spell_shockwave_knockback", "df/de2/a22696.html", "df/de2/a22696" ],
+    [ "spell_murmur_sonic_boom_effect", "d5/d03/a22700.html", "d5/d03/a22700" ],
     [ "Misc", "d7/dc8/a02264.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "DATA_SKILLPOINT_MIN", "de/d19/a03311.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3093ddfcacf2742f4fb344843e2e7ce6", null ],
       [ "NEFARIUS_PATH_2", "df/d62/a03257.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],

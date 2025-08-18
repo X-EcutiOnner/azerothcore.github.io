@@ -1,6 +1,6 @@
 var a19540 =
 [
-    [ "boss_volkhanAI", "d8/d18/a19544.html", "d8/d18/a19544" ],
-    [ "boss_volkhan", "d2/d5b/a19540.html#a9dcb6026fbf3116df9abf5acaf1bfcc2", null ],
-    [ "GetAI", "d2/d5b/a19540.html#aa0f76b387f9f74e0eb6dedd1b44ce34a", null ]
+    [ "CalculateDamage", "d2/d5b/a19540.html#ae38f8cfb44de2798d7a284c942617678", null ],
+    [ "PrepareSpellScript", "d2/d5b/a19540.html#a043955d56e0ae4c54d70e8fe6e417dd1", null ],
+    [ "Register", "d2/d5b/a19540.html#ab4b32d2db39c8d9079a83c89d63ccd93", null ]
 ];

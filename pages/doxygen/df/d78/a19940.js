@@ -1,8 +1,6 @@
 var a19940 =
 [
-    [ "npc_brann_radioAI", "df/d78/a19940.html#a329ca0310efe109f7fb364045f6eccbb", null ],
-    [ "MoveInLineOfSight", "df/d78/a19940.html#ad119431edd6f632b4c44fc4e8708d375", null ],
-    [ "Reset", "df/d78/a19940.html#a89183942dcb38f48de1867bfbce15721", null ],
-    [ "_helpLock", "df/d78/a19940.html#ae927b6c8143cfb029ab6574d10dde60e", null ],
-    [ "_lock", "df/d78/a19940.html#a421cfd2b8b149a0f3ea5bc2262ba6bac", null ]
+    [ "npc_brann_radioAI", "d2/d18/a19944.html", "d2/d18/a19944" ],
+    [ "npc_brann_radio", "df/d78/a19940.html#a22b5231f643c287d8e32d88a3b0728b2", null ],
+    [ "GetAI", "df/d78/a19940.html#aa2ea91337262fb886e7535ba013f4b10", null ]
 ];

@@ -1,6 +1,6 @@
 var a17268 =
 [
-    [ "boss_prince_kelesethAI", "df/d52/a17272.html", "df/d52/a17272" ],
-    [ "boss_prince_keleseth_icc", "d9/d7f/a17268.html#a0df14bbfc96b1d6eff19633716cea9f9", null ],
-    [ "GetAI", "d9/d7f/a17268.html#ae5a03bbe1d85b9bc865026f05a99545e", null ]
+    [ "ShockVortexExplodeEvent", "d9/d7f/a17268.html#ad972aed372822e10a476d1592192f3ea", null ],
+    [ "Execute", "d9/d7f/a17268.html#a601f777052b8a142db49e9b0ab1fa81a", null ],
+    [ "_owner", "d9/d7f/a17268.html#a76b1887e486969fcd7a236a8eb7a9a2a", null ]
 ];

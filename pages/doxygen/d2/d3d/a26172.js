@@ -1,7 +1,10 @@
 var a26172 =
 [
-    [ "FilterTargets", "d2/d3d/a26172.html#ad679149423fda97ad5744318520022b1", null ],
-    [ "PrepareSpellScript", "d2/d3d/a26172.html#ac57c48690c5ad1b907f56287aee949a4", null ],
-    [ "Register", "d2/d3d/a26172.html#aea9b3a6cc4abae242bde76634bcbacd3", null ],
-    [ "Validate", "d2/d3d/a26172.html#a2c755f4ce5c3736dd0b0dd79341a4570", null ]
+    [ "CalculateAPAmount", "d2/d3d/a26172.html#a611247fcbdaeeb416a8cfbaf1a0fc415", null ],
+    [ "CalculateResistanceAmount", "d2/d3d/a26172.html#aa3fd9aa18ea2afa20c7c2298a8699812", null ],
+    [ "CalculateSPAmount", "d2/d3d/a26172.html#a9ae59870127884029a938684786e67a9", null ],
+    [ "CalculateStatAmount", "d2/d3d/a26172.html#a4ac5ffabf820d73d4a92a4a0628370e9", null ],
+    [ "HandleEffectApply", "d2/d3d/a26172.html#aaca0801f75839ebd9568c4cd31011a1e", null ],
+    [ "PrepareAuraScript", "d2/d3d/a26172.html#aa90952337607986eaf7485200a32c353", null ],
+    [ "Register", "d2/d3d/a26172.html#a88520214bd87511b615965593f1b927f", null ]
 ];

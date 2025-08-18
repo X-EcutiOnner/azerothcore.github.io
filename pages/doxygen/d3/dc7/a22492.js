@@ -1,13 +1,13 @@
 var a22492 =
 [
-    [ "OPvPCapturePointEP_CGT", "d3/dc7/a22492.html#a82d8e9bff56eed1870b098dcf21f77cd", null ],
-    [ "ChangeState", "d3/dc7/a22492.html#ab9d32c9a60bbdca9fc54d7e0b2bf8a5d", null ],
-    [ "FillInitialWorldStates", "d3/dc7/a22492.html#ae7d57fe449bb38de013b18ecf2f9f07c", null ],
-    [ "HandlePlayerEnter", "d3/dc7/a22492.html#a48cb29473f25ed9b469c7ff54acc9d88", null ],
-    [ "HandlePlayerLeave", "d3/dc7/a22492.html#ad1886046ecf8c382e1fd0e01d6394614", null ],
-    [ "LinkGraveyard", "d3/dc7/a22492.html#ada14179a31fb6235b7882a190dc96c40", null ],
-    [ "SendChangePhase", "d3/dc7/a22492.html#a30d9f8701dd6a78740f7df0d2c7ceb9d", null ],
-    [ "UpdateTowerState", "d3/dc7/a22492.html#a764284d6143d4879b5bc003acc52048c", null ],
-    [ "m_GraveyardSide", "d3/dc7/a22492.html#aaf1f8440dc891ed45857bb7d15149d9a", null ],
-    [ "m_TowerState", "d3/dc7/a22492.html#a6f434f86ed97f88368e3194a3bc3183b", null ]
+    [ "OPvPCapturePointEP_NPT", "d3/dc7/a22492.html#a2cb0929c3acb81530a0bd7ea57bcc298", null ],
+    [ "ChangeState", "d3/dc7/a22492.html#a9e046ace6129ce67568ed7c15130b617", null ],
+    [ "FillInitialWorldStates", "d3/dc7/a22492.html#add8f3c1b1a1e5600a05a639520b0a1dc", null ],
+    [ "HandlePlayerEnter", "d3/dc7/a22492.html#ace643b7f7bc793934972c61c618045eb", null ],
+    [ "HandlePlayerLeave", "d3/dc7/a22492.html#a950cd355c808f40ca95c0e5a46bac0a2", null ],
+    [ "SendChangePhase", "d3/dc7/a22492.html#aef84a9917d5f40cfff48acb45ffdf0aa", null ],
+    [ "SummonGO", "d3/dc7/a22492.html#a08a54abf3668074b5878c165bd2f8ddd", null ],
+    [ "UpdateTowerState", "d3/dc7/a22492.html#ad8cfefcc567346273914e8039b039835", null ],
+    [ "m_SummonedGOSideId", "d3/dc7/a22492.html#aa034240d169c9ab7276786bb188abc70", null ],
+    [ "m_TowerState", "d3/dc7/a22492.html#a703b68024362d13ceaf9012202b72e7d", null ]
 ];

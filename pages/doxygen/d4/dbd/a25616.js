@@ -1,6 +1,6 @@
 var a25616 =
 [
-    [ "HandleSummon", "d4/dbd/a25616.html#ad1ee0eb347454d50216610a266226d68", null ],
-    [ "PrepareSpellScript", "d4/dbd/a25616.html#a15a545ee3ec4a926f1330ce0ad975d3e", null ],
-    [ "Register", "d4/dbd/a25616.html#aa145041af68291f107c3ff11ce15b85e", null ]
+    [ "HandleSummon", "d4/dbd/a25616.html#aadfea4a2238754473a8abbc487fd7f7b", null ],
+    [ "PrepareSpellScript", "d4/dbd/a25616.html#a4974a3687df394d51db322210ebb5ddb", null ],
+    [ "Register", "d4/dbd/a25616.html#a89146ab41d1408c18ce2bff403ae8e4e", null ]
 ];

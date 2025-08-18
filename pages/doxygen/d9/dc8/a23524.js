@@ -1,7 +1,5 @@
 var a23524 =
 [
-    [ "PeriodicTick", "d9/dc8/a23524.html#a53541105e40202e4a73ecc38d84e9eca", null ],
-    [ "PrepareAuraScript", "d9/dc8/a23524.html#a79c8829a86db535e254db009d5286430", null ],
-    [ "Register", "d9/dc8/a23524.html#a58cd762eb10d224bb188aaf167c816b9", null ],
-    [ "Validate", "d9/dc8/a23524.html#a0a4a1c0b460f7a0ade6ddbbedc893c6f", null ]
+    [ "go_broggok_lever", "d9/dc8/a23524.html#af91c2e283c357d2f38c9932dcfb5c375", null ],
+    [ "OnGossipHello", "d9/dc8/a23524.html#af00fe1da1cfa40dc3ece286cef45090c", null ]
 ];

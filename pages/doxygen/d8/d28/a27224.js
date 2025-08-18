@@ -1,6 +1,9 @@
 var a27224 =
 [
-    [ "go_flamesAI", "db/d96/a27228.html", "db/d96/a27228" ],
-    [ "go_flames", "d8/d28/a27224.html#a75d49202eaf2078b8276e59944d1ec89", null ],
-    [ "GetAI", "d8/d28/a27224.html#aea11412e7d17b744b4e70ec754a1e6cc", null ]
+    [ "go_tadpole_cageAI", "d8/d28/a27224.html#a87dc192a13cecf834d49cd04451224cd", null ],
+    [ "GossipHello", "d8/d28/a27224.html#a5c59db4b4d21b9e7de9bbb8835f31f2a", null ],
+    [ "OnStateChanged", "d8/d28/a27224.html#aa545ba4659b288c1ce1f5c2332d5e61f", null ],
+    [ "SummonTadpoles", "d8/d28/a27224.html#ab4903827c78b1b042cc17aef661a0b4f", null ],
+    [ "UpdateAI", "d8/d28/a27224.html#af6d4f5c3fe822815f58665a0207e3c32", null ],
+    [ "requireSummon", "d8/d28/a27224.html#a9884081855fc45776a6b12b9a68890e4", null ]
 ];

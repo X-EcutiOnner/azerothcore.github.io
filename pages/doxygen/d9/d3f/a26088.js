@@ -1,7 +1,8 @@
 var a26088 =
 [
-    [ "HandleDummy", "d9/d3f/a26088.html#a82ff05f6150750ecb6ef3b5f8c40f703", null ],
-    [ "PrepareSpellScript", "d9/d3f/a26088.html#a6856f05f2cc25267f1d3023d3cb48dc2", null ],
-    [ "Register", "d9/d3f/a26088.html#adadd0254d68281ac1063bcc57574ed77", null ],
-    [ "Validate", "d9/d3f/a26088.html#a61923f636ad8b3d48eb2dbc6a1803527", null ]
+    [ "HandleApply", "d9/d3f/a26088.html#aafdf3712f163919f010d11d0becb398f", null ],
+    [ "HandleRemove", "d9/d3f/a26088.html#ac3e33cb37d13b633f3938a48917a4975", null ],
+    [ "PrepareAuraScript", "d9/d3f/a26088.html#a42590a0ef43a48c5309f995f9bec5c9b", null ],
+    [ "Register", "d9/d3f/a26088.html#a84e7337494dc2e1772ca10dea26c675f", null ],
+    [ "Validate", "d9/d3f/a26088.html#ac2558aafb3ce66ca7bbfd718eb8c6338", null ]
 ];

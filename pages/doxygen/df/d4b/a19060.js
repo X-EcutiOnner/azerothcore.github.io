@@ -1,6 +1,7 @@
 var a19060 =
 [
-    [ "boss_heiganAI", "d1/dab/a19064.html", "d1/dab/a19064" ],
-    [ "boss_heigan", "df/d4b/a19060.html#aefa3a6d870bde0d33504c5f2b56572be", null ],
-    [ "GetAI", "df/d4b/a19060.html#ad9edf8eade874c1ecc2cecdac17700a1", null ]
+    [ "HandleRemove", "df/d4b/a19060.html#a7c81c567ae10bf4fd4d3c1eb480b5761", null ],
+    [ "PrepareAuraScript", "df/d4b/a19060.html#aaefd5b15f7a3725b2663c0717fe22c92", null ],
+    [ "Register", "df/d4b/a19060.html#ad7ba015a7878adad0820cf378d2632ca", null ],
+    [ "Validate", "df/d4b/a19060.html#a570bb63c6ed7af58b0b886e8a954dea9", null ]
 ];

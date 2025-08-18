@@ -1,13 +1,11 @@
 var a23492 =
 [
-    [ "boss_olm_the_summoner", "dd/d15/a23492.html#aa8fe3804d4e2a1a1150975f5e9832ce6", null ],
-    [ "AttackStart", "dd/d15/a23492.html#a334ab95cfc3320db1a568bcb5a1d9542", null ],
-    [ "JustDied", "dd/d15/a23492.html#a07cde4fc7bc882db40b51426dc40ab93", null ],
-    [ "JustEngagedWith", "dd/d15/a23492.html#a68db779bb7ffffa7621caedd7f52d93f", null ],
-    [ "JustSummoned", "dd/d15/a23492.html#a546bede780b7d67b98ec251ae2e1b812", null ],
-    [ "Reset", "dd/d15/a23492.html#a8dcdc816276a1932612d554cff703a45", null ],
-    [ "UpdateAI", "dd/d15/a23492.html#a967f330966fdb29f26ab24e8f40d2152", null ],
-    [ "_scheduler", "dd/d15/a23492.html#a448ba3a88156e80eebad44585791ab21", null ],
-    [ "instance", "dd/d15/a23492.html#a8caabc31bb7a8548eb936c34c655df68", null ],
-    [ "summons", "dd/d15/a23492.html#ae9187928c74fa1cfafaea4df25a55e41", null ]
+    [ "boss_high_king_maulgar", "dd/d15/a23492.html#a8a835570bd4ff5361b2025b2aaeec91f", null ],
+    [ "DoAction", "dd/d15/a23492.html#a210e9c3d42e9201b9fbee0d7776cbcc5", null ],
+    [ "JustDied", "dd/d15/a23492.html#ad235febd755745313b72394c633c3723", null ],
+    [ "JustEngagedWith", "dd/d15/a23492.html#a6ad48aba60a01df62c1ae62e6480a14d", null ],
+    [ "KilledUnit", "dd/d15/a23492.html#a2059016597039929103c053d6524ebf7", null ],
+    [ "Reset", "dd/d15/a23492.html#adf1bf1c8c75fc9bbed871af157c6663c", null ],
+    [ "UpdateAI", "dd/d15/a23492.html#ae540909dbbb3cf93e37503cd755c3001", null ],
+    [ "_recentlySpoken", "dd/d15/a23492.html#a306f8492d83703b339a8fbe044e0cbbd", null ]
 ];

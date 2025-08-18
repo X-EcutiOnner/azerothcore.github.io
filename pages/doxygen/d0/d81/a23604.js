@@ -1,6 +1,7 @@
 var a23604 =
 [
-    [ "HandleHit", "d0/d81/a23604.html#ab948b958955c2413ad6e15dfa09fd3cd", null ],
-    [ "PrepareSpellScript", "d0/d81/a23604.html#a37ff09e6b82d69c85b5bd98e84968569", null ],
-    [ "Register", "d0/d81/a23604.html#acb1b681f587817614c2b3684585369db", null ]
+    [ "HandleDummyApply", "d0/d81/a23604.html#a8a982bbbda94a2cf981c845161f05bdc", null ],
+    [ "HandleDummyRemove", "d0/d81/a23604.html#a5d68d9e15600119deca7179ffe00acda", null ],
+    [ "PrepareAuraScript", "d0/d81/a23604.html#a34d09e48b69d32dae6c127fa0837be4b", null ],
+    [ "Register", "d0/d81/a23604.html#a094004ccf6b4cae4d27bca639b76b899", null ]
 ];

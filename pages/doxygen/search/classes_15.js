@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['u_5fmap_5ffcc_0',['u_map_fcc',['../d8/d74/a28700.html',1,'']]],
+  ['u_5fmap_5ffcc_0',['u_map_fcc',['../d2/dd1/a28704.html',1,'']]],
   ['u_5fmap_5fmagic_1',['u_map_magic',['../d7/dc5/a09100.html',1,'']]],
   ['uint16heightdata_2',['Uint16HeightData',['../d7/dd2/a09128.html',1,'LoadedHeightData']]],
   ['uint8heightdata_3',['Uint8HeightData',['../d6/d4b/a09132.html',1,'LoadedHeightData']]],
@@ -8,8 +8,8 @@ var searchData=
   ['unary_5ffunction_5',['unary_function',['../d9/d4c/a05132.html',1,'Acore']]],
   ['unary_5ffunction_3c_20lootstoreitem_20_2a_2c_20bool_20_3e_6',['unary_function&lt; LootStoreItem *, bool &gt;',['../d9/d4c/a05132.html',1,'Acore']]],
   ['unary_5ffunction_3c_20unit_20_2a_2c_20bool_20_3e_7',['unary_function&lt; Unit *, bool &gt;',['../d9/d4c/a05132.html',1,'Acore']]],
-  ['unboundplaguetargetselector_8',['UnboundPlagueTargetSelector',['../d3/d38/a17836.html',1,'']]],
-  ['unchainedmagictargetselector_9',['UnchainedMagicTargetSelector',['../dc/d3e/a18056.html',1,'']]],
+  ['unboundplaguetargetselector_8',['UnboundPlagueTargetSelector',['../d9/dcc/a17840.html',1,'']]],
+  ['unchainedmagictargetselector_9',['UnchainedMagicTargetSelector',['../d2/d88/a18060.html',1,'']]],
   ['unit_10',['Unit',['../d4/dd6/a08748.html',1,'']]],
   ['unitactionbarentry_11',['UnitActionBarEntry',['../da/d3d/a08672.html',1,'']]],
   ['unitai_12',['UnitAI',['../d4/dac/a06156.html',1,'']]],
@@ -41,5 +41,5 @@ var searchData=
   ['updateworldstate_38',['UpdateWorldState',['../d5/d95/a10920.html',1,'WorldPackets::WorldState']]],
   ['usedpos_39',['UsedPos',['../d2/d95/a08436.html',1,'ObjectPosSelector']]],
   ['utf8_40',['Utf8',['../df/d5e/a10844.html',1,'WorldPackets::Strings']]],
-  ['utherbatteredhiltevent_41',['UtherBatteredHiltEvent',['../d9/d55/a16980.html',1,'']]]
+  ['utherbatteredhiltevent_41',['UtherBatteredHiltEvent',['../db/d8e/a16984.html',1,'']]]
 ];

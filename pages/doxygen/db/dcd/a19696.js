@@ -1,9 +1,6 @@
 var a19696 =
 [
-    [ "npc_brann_bronzebeard_algalonAI", "db/dcd/a19696.html#a5ab0ff088866cf9d6af99ee3f42e897a", null ],
-    [ "DoAction", "db/dcd/a19696.html#a9de9e9b19b8a635ec4bc0a4f8c8d13c6", null ],
-    [ "MovementInform", "db/dcd/a19696.html#a7f8d3efed49f0d43a5e9e73ee8bd36e0", null ],
-    [ "UpdateAI", "db/dcd/a19696.html#a16e3fcd7f082e04f648d2341a7e83cba", null ],
-    [ "_currentPoint", "db/dcd/a19696.html#ae9da41b5b4cae16e1ed4709ab41b8964", null ],
-    [ "events", "db/dcd/a19696.html#ab71b71ac63517349cb8702bb29d76334", null ]
+    [ "npc_brann_bronzebeard_algalonAI", "d3/dd7/a19700.html", "d3/dd7/a19700" ],
+    [ "npc_brann_bronzebeard_algalon", "db/dcd/a19696.html#a2760d42de8f78250ca5862bfcb23ed2e", null ],
+    [ "GetAI", "db/dcd/a19696.html#ad8bc8bde865adcce1e9f6fd6234f1a0a", null ]
 ];

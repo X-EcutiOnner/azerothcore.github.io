@@ -1,6 +1,7 @@
 var a18280 =
 [
-    [ "npc_icc_ice_sphereAI", "d9/d68/a18284.html", "d9/d68/a18284" ],
-    [ "npc_icc_ice_sphere", "d3/d41/a18280.html#a4ed169ba87e801bb83ca4f3c457534cf", null ],
-    [ "GetAI", "d3/d41/a18280.html#aabb9ef14ea217f282173edf1600d3ecd", null ]
+    [ "CheckTargetCount", "d3/d41/a18280.html#a637ba0717ae0f6f736f5532ed65ca301", null ],
+    [ "PrepareSpellScript", "d3/d41/a18280.html#af560e5c4e985e9b139999f5ef618fe3c", null ],
+    [ "Register", "d3/d41/a18280.html#a86e7512496fd38201d458c03a7a60296", null ],
+    [ "Validate", "d3/d41/a18280.html#a744c4aa76387be4aa76a69fbcaa7932e", null ]
 ];

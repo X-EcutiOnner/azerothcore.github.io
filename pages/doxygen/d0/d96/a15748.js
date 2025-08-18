@@ -1,6 +1,5 @@
 var a15748 =
 [
-    [ "creatureID", "d0/d96/a15748.html#a44a9f5e58bfa58e2e2325e116e988f07", null ],
-    [ "pos", "d0/d96/a15748.html#a9705a858cc2c3867e104514d3a0a1866", null ],
-    [ "waveID", "d0/d96/a15748.html#a09b48f7f6da7e203ed50a8abc7f24e56", null ]
+    [ "go_elune_fire", "d0/d96/a15748.html#a84d1b8e5a10e57cf717e10e413cb6027", null ],
+    [ "OnGossipHello", "d0/d96/a15748.html#a31e3cad89090bb7d2933e8758dbb56c4", null ]
 ];

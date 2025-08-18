@@ -1,7 +1,6 @@
 var a27144 =
 [
-    [ "npc_spirit_shadeAI", "d7/d19/a27144.html#a8b7bf7c7cc541a47be79aad76a9bbcbc", null ],
-    [ "IsSummonedBy", "d7/d19/a27144.html#a3a7fcb4af8e3b27e06b4665e8a864b38", null ],
-    [ "MovementInform", "d7/d19/a27144.html#ab001fdc09efe9f8c03ad1b7610124e6d", null ],
-    [ "_summonerGuid", "d7/d19/a27144.html#aa7c6abb848ab37f407a3553d04d0ad81", null ]
+    [ "npc_spirit_shadeAI", "d6/d09/a27148.html", "d6/d09/a27148" ],
+    [ "npc_spirit_shade", "d7/d19/a27144.html#a891ede5651789274496d6426daf9937d", null ],
+    [ "GetAI", "d7/d19/a27144.html#a166f6a9abf7c0e33374c2f998c0524c3", null ]
 ];

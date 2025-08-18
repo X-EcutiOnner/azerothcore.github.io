@@ -1,6 +1,6 @@
 var a22036 =
 [
-    [ "npc_razael_and_lyana", "d7/dbe/a22036.html#aec7257a1136a3580e2b4542e032429d6", null ],
-    [ "OnGossipHello", "d7/dbe/a22036.html#a9c9085db92853d5275c12e804a68b0fc", null ],
-    [ "OnGossipSelect", "d7/dbe/a22036.html#a407d8344280e8e38efb3991fda1d52cd", null ]
+    [ "npc_plaguehound_trackerAI", "d7/dbe/a22036.html#a7530f500b42ad9bb38593193d3113da8", null ],
+    [ "Reset", "d7/dbe/a22036.html#a05c351ab3aca0cd18209405075bb0f47", null ],
+    [ "WaypointReached", "d7/dbe/a22036.html#a67c345f49572cde76d9109a1baff6788", null ]
 ];

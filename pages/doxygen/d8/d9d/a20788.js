@@ -1,6 +1,6 @@
 var a20788 =
 [
-    [ "OnRemove", "d8/d9d/a20788.html#a492bd9e9c82937e00897e19362b40901", null ],
-    [ "PrepareAuraScript", "d8/d9d/a20788.html#a1ae24bb18b5570ebe9b4b0698d3cc2f2", null ],
-    [ "Register", "d8/d9d/a20788.html#adfcaf82ff48225ea0e0314d421795644", null ]
+    [ "PrepareSpellScript", "d8/d9d/a20788.html#ac84dedbb3343c15e32ae3c57d80a4561", null ],
+    [ "Register", "d8/d9d/a20788.html#a27c5665b64c50df5d9c67d5136ab7567", null ],
+    [ "SelectTarget", "d8/d9d/a20788.html#a0f9c85168ad0c0fda61f4bb1e97bd518", null ]
 ];

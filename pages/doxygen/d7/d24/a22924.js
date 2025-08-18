@@ -1,8 +1,12 @@
 var a22924 =
 [
-    [ "HandleEffectApply", "d7/d24/a22924.html#a94993441ef94f84c85aa10c693cf34fe", null ],
-    [ "HandleEffectRemove", "d7/d24/a22924.html#a047a1dd4bab33d7d5b2631c0862ba4b0", null ],
-    [ "PrepareAuraScript", "d7/d24/a22924.html#a0ced86fc2e108e7bba9727d26eac3ff3", null ],
-    [ "Register", "d7/d24/a22924.html#a0dbd8b0bc1dfad8bda0e48ab57b4db3f", null ],
-    [ "Validate", "d7/d24/a22924.html#a964637541cd64e64b4e02c00d36abf2d", null ]
+    [ "boss_essence_of_angerAI", "d7/d24/a22924.html#a25eed717395b4e1ca5504d2d473e2500", null ],
+    [ "DoAction", "d7/d24/a22924.html#a81576aaf465dfc99d199aaf6a182df52", null ],
+    [ "JustDied", "d7/d24/a22924.html#a997d75ad388e790f9863e1b15fa1c899", null ],
+    [ "JustEngagedWith", "d7/d24/a22924.html#a16d2b13fcf3dfa513813669b44712c4c", null ],
+    [ "KilledUnit", "d7/d24/a22924.html#a6a900f9a9dc5509c36e5bdaaaacc197d", null ],
+    [ "Reset", "d7/d24/a22924.html#ade57a575bd84e8e095b1ab5a5c81d3f6", null ],
+    [ "UpdateAI", "d7/d24/a22924.html#a67e9f5a361894aa227f2a74f9222740d", null ],
+    [ "_recentlySpoken", "d7/d24/a22924.html#a056aa8fd704d832e83735cf2a1a22888", null ],
+    [ "targetGUID", "d7/d24/a22924.html#adc3867a4446375f1217809299f3dd9bb", null ]
 ];

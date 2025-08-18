@@ -1,5 +1,5 @@
 var a27088 =
 [
-    [ "AreaTrigger_at_scent_larkorwi", "d8/d5d/a27088.html#a967a43eae4cc986754eed9ee8291c17e", null ],
-    [ "OnTrigger", "d8/d5d/a27088.html#aeeb339afa5a7dd4b028aea800026998e", null ]
+    [ "AreaTrigger_at_stormwright_shelf", "d8/d5d/a27088.html#a97cdf51a8992b3d9edc138351770fd75", null ],
+    [ "OnTrigger", "d8/d5d/a27088.html#ab635f9328b35f3570211cf6ffc60a4c6", null ]
 ];

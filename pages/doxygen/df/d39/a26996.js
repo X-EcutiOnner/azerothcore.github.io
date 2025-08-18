@@ -1,5 +1,6 @@
 var a26996 =
 [
-    [ "achievement_resilient_victory", "df/d39/a26996.html#a6224c8a4b1b1ee7c1ab09d8873e86aa8", null ],
-    [ "OnCheck", "df/d39/a26996.html#a21445d406f67771a20608260b3f9b033", null ]
+    [ "HandleOnHit", "df/d39/a26996.html#a32a6f464057fbfb3bbffe0e10d1d4141", null ],
+    [ "PrepareSpellScript", "df/d39/a26996.html#adfa4da76e8c2486fbcc2b3bea0f50005", null ],
+    [ "Register", "df/d39/a26996.html#a1742dc0c039f7f981cae8114ff9ae59a", null ]
 ];

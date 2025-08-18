@@ -1,7 +1,7 @@
 var a03869 =
 [
-    [ "boss_heigan", "df/d4b/a19060.html", "df/d4b/a19060" ],
-    [ "boss_heigan::boss_heiganAI", "d1/dab/a19064.html", "d1/dab/a19064" ],
+    [ "boss_heigan", "d1/dab/a19064.html", "d1/dab/a19064" ],
+    [ "boss_heigan::boss_heiganAI", "d5/dad/a19068.html", "d5/dad/a19068" ],
     [ "Events", "d6/da9/a03869.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "d2/df0/a03119.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "d2/df0/a03119.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],

@@ -1,6 +1,9 @@
 var a23020 =
 [
-    [ "HandleDummy", "d2/d9f/a23020.html#a85cbe85873c5f04c8fb94ad52e94afda", null ],
-    [ "PrepareSpellScript", "d2/d9f/a23020.html#ae483ea2ecc541f52f37456f6e9d4b380", null ],
-    [ "Register", "d2/d9f/a23020.html#a972574075c86c32593982add71dc893f", null ]
+    [ "boss_najentus", "d2/d9f/a23020.html#ac5d3d54a49524892fe844925d483c244", null ],
+    [ "JustDied", "d2/d9f/a23020.html#afee32dd32033c7a45068ce12e961797c", null ],
+    [ "JustEngagedWith", "d2/d9f/a23020.html#a46e3aab64c21b24ac6457acd598679ec", null ],
+    [ "KilledUnit", "d2/d9f/a23020.html#ad55e1de3aa7a636b3d30b0d61a17dab9", null ],
+    [ "Reset", "d2/d9f/a23020.html#ab7e0bdb8954722c9080146a88a3c5aa2", null ],
+    [ "_canTalk", "d2/d9f/a23020.html#a25ac29a79cdcfb4ebc48de13d677f1d4", null ]
 ];

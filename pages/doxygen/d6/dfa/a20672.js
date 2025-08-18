@@ -1,6 +1,9 @@
 var a20672 =
 [
-    [ "boss_thorim_runic_colossusAI", "d5/dc4/a20676.html", "d5/dc4/a20676" ],
-    [ "boss_thorim_runic_colossus", "d6/dfa/a20672.html#a2ea1c08a98b689cd6c766578e98a3191", null ],
-    [ "GetAI", "d6/dfa/a20672.html#a6d64427ff427a1054e10c9d987b77f53", null ]
+    [ "boss_thorim_gauntlet_npcsAI", "d6/dfa/a20672.html#aaa7e94f653a1db001cd0c962fb855098", null ],
+    [ "JustEngagedWith", "d6/dfa/a20672.html#afaf0a05b1fd2fc2187b52328340b65bb", null ],
+    [ "Reset", "d6/dfa/a20672.html#a9e4c25742785809d788f2e910f7840bc", null ],
+    [ "UpdateAI", "d6/dfa/a20672.html#a4dd5a9cbbb10d514a0473dfd7cdd3c29", null ],
+    [ "_isCaster", "d6/dfa/a20672.html#a104f447cc52c285d59653a8ebff20fef", null ],
+    [ "events", "d6/dfa/a20672.html#a650508e05b6fa1af538a0b34e04c8bf5", null ]
 ];

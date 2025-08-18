@@ -1,6 +1,7 @@
 var a15608 =
 [
-    [ "npc_aquementasAI", "d3/dfa/a15612.html", "d3/dfa/a15612" ],
-    [ "npc_aquementas", "dd/d42/a15608.html#a81d0b010c2aef0ea329ff7656b76cbe5", null ],
-    [ "GetAI", "dd/d42/a15608.html#a8a071b3073d69306feb84aca347a22c8", null ]
+    [ "npc_kaya_flathoofAI", "dd/d42/a15608.html#a3b43992dfeeb7b3b19e777b9629c55ce", null ],
+    [ "JustSummoned", "dd/d42/a15608.html#ac365753a428009f4fc4d01ead8fe46fd", null ],
+    [ "Reset", "dd/d42/a15608.html#af9be00be9867622a16103bd21311327f", null ],
+    [ "WaypointReached", "dd/d42/a15608.html#a8fcbb19279b925138ba96d2a450fc404", null ]
 ];

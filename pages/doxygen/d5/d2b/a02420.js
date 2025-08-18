@@ -1,9 +1,9 @@
 var a02420 =
 [
-    [ "boss_mechano_lord_capacitus", "d7/d76/a23908.html", "d7/d76/a23908" ],
-    [ "spell_capacitus_polarity_charge", "d2/d3b/a23912.html", "d2/d3b/a23912" ],
-    [ "spell_capacitus_polarity_charge_aura", "dc/dc8/a23916.html", "dc/dc8/a23916" ],
-    [ "spell_capacitus_polarity_shift", "d4/da7/a23920.html", "d4/da7/a23920" ],
+    [ "boss_mechano_lord_capacitus", "d2/d3b/a23912.html", "d2/d3b/a23912" ],
+    [ "spell_capacitus_polarity_charge", "dc/dc8/a23916.html", "dc/dc8/a23916" ],
+    [ "spell_capacitus_polarity_charge_aura", "d4/da7/a23920.html", "d4/da7/a23920" ],
+    [ "spell_capacitus_polarity_shift", "d7/d77/a23924.html", "d7/d77/a23924" ],
     [ "polarityShift", "d5/d2b/a02420.html#adfcb85d87bd0304f358a9d2549e866aa", [
       [ "SPELL_POSITIVE_POLARITY", "d5/d2b/a02420.html#adfcb85d87bd0304f358a9d2549e866aaa795738ba63917afbc0763ca952c1acf2", null ],
       [ "SPELL_POSITIVE_CHARGE_STACK", "d5/d2b/a02420.html#adfcb85d87bd0304f358a9d2549e866aaa9a8ba6564944a1455aee4c76339e7ae5", null ],

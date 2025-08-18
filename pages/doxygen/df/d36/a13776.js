@@ -1,12 +1,7 @@
 var a13776 =
 [
-    [ "npc_daphne_stilwellAI", "df/d36/a13776.html#ac2e9f940bc64a70ff8a386e4f483a65e", null ],
-    [ "AttackStart", "df/d36/a13776.html#a30056a45adb91a12cf7bcc4e9f0b2d54", null ],
-    [ "JustSummoned", "df/d36/a13776.html#ae56554d30e9de7644efab891555c57e0", null ],
-    [ "Reset", "df/d36/a13776.html#ae6f0b271478aecf7fd1f3e1c733d77f0", null ],
-    [ "SummonedCreatureDies", "df/d36/a13776.html#aa6fdcf9e09031522d342b603b4c70aed", null ],
-    [ "Update", "df/d36/a13776.html#a4099d75c4a6bca1525781a5753ef9972", null ],
-    [ "WaypointReached", "df/d36/a13776.html#a1035eb0a1696730d8304593b5fb079e4", null ],
-    [ "summons", "df/d36/a13776.html#a0cbf5aaf1cb2f234e725074de0acc7e6", null ],
-    [ "textCounter", "df/d36/a13776.html#a62ab24169c1b7c3028ab33303b217f63", null ]
+    [ "npc_daphne_stilwellAI", "de/dd6/a13780.html", "de/dd6/a13780" ],
+    [ "npc_daphne_stilwell", "df/d36/a13776.html#ad844c5f0409936d7068ee55271506041", null ],
+    [ "GetAI", "df/d36/a13776.html#af1872100f3eeb14e894277cfc8e1a74b", null ],
+    [ "OnQuestAccept", "df/d36/a13776.html#ad7b293efc802506a825f202e34cb0f4d", null ]
 ];

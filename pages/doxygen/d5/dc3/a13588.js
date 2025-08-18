@@ -1,6 +1,6 @@
 var a13588 =
 [
-    [ "npc_rinjiAI", "d0/d1e/a13592.html", "d0/d1e/a13592" ],
-    [ "npc_rinji", "d5/dc3/a13588.html#af89b9c77b1a57dc506de0398a0d4b957", null ],
-    [ "GetAI", "d5/dc3/a13588.html#a5457ac00ce0b195752640358b912af10", null ]
+    [ "x", "d5/dc3/a13588.html#afeb59642abc7d5114668b2c27e315228", null ],
+    [ "y", "d5/dc3/a13588.html#a3e2454dd579de689289003a343e7f29c", null ],
+    [ "z", "d5/dc3/a13588.html#a4fbcf991d732545b4f9c19689ff9d805", null ]
 ];

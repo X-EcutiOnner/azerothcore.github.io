@@ -1,7 +1,7 @@
 var a16152 =
 [
-    [ "OnApply", "db/de3/a16152.html#ad072d243dd148e1b34aea29a2e5d175e", null ],
-    [ "PrepareAuraScript", "db/de3/a16152.html#ae657ceca517aa3f725ba72c18ddbaf1c", null ],
-    [ "Register", "db/de3/a16152.html#a4eab0bd70eb884f7736e90f9001d3cc7", null ],
-    [ "Validate", "db/de3/a16152.html#a2c9e4d82bd25f439e01a05700563b122", null ]
+    [ "OnApply", "db/de3/a16152.html#a2e4fa91ed7b3270a1addb8e5b3a85d74", null ],
+    [ "OnRemove", "db/de3/a16152.html#a781994b0be4588f4df29399fc900ec69", null ],
+    [ "PrepareAuraScript", "db/de3/a16152.html#aee648b80e7352edffb20fd60697e1d88", null ],
+    [ "Register", "db/de3/a16152.html#a53c56711e31500f827123c08f44072cb", null ]
 ];

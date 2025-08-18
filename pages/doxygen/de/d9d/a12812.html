@@ -670,10 +670,10 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  323</span>    }</div>
 <div class="ttc" id="aa03356_html_a85c683fbce186a8ef023f3fd98e9a66ba151d9b74fddf90759bb6a5cf6b822cdc"><div class="ttname"><a href="../../d2/deb/a03356.html#a85c683fbce186a8ef023f3fd98e9a66ba151d9b74fddf90759bb6a5cf6b822cdc">AI_TYPE_MELEE</a></div><div class="ttdeci">@ AI_TYPE_MELEE</div><div class="ttdef"><b>Definition:</b> boss_priestess_delrissa.cpp:206</div></div>
 <div class="ttc" id="aa08748_html_a4a04a3f22c3b0d6f4933993ac0cc7aa4"><div class="ttname"><a href="../../d4/dd6/a08748.html#a4a04a3f22c3b0d6f4933993ac0cc7aa4">Unit::GetMotionMaster</a></div><div class="ttdeci">MotionMaster * GetMotionMaster()</div><div class="ttdef"><b>Definition:</b> Unit.h:1673</div></div>
-<div class="ttc" id="aa08748_html_a8d910c36ac5d61171ee5ddaeb696292c"><div class="ttname"><a href="../../d4/dd6/a08748.html#a8d910c36ac5d61171ee5ddaeb696292c">Unit::Attack</a></div><div class="ttdeci">bool Attack(Unit *victim, bool meleeAttack)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:10333</div></div>
+<div class="ttc" id="aa08748_html_a8d910c36ac5d61171ee5ddaeb696292c"><div class="ttname"><a href="../../d4/dd6/a08748.html#a8d910c36ac5d61171ee5ddaeb696292c">Unit::Attack</a></div><div class="ttdeci">bool Attack(Unit *victim, bool meleeAttack)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:10343</div></div>
 <div class="ttc" id="aa09932_html_a3ff14061961bcc5cf1d34842683d90ac"><div class="ttname"><a href="../../dd/d52/a09932.html#a3ff14061961bcc5cf1d34842683d90ac">MotionMaster::MoveChase</a></div><div class="ttdeci">void MoveChase(Unit *target, std::optional&lt; ChaseRange &gt; dist={}, std::optional&lt; ChaseAngle &gt; angle={})</div><div class="ttdoc">Force the unit to chase this target. Doesn't work with UNIT_FLAG_DISABLE_MOVE.</div><div class="ttdef"><b>Definition:</b> MotionMaster.cpp:313</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00206">AI_TYPE_MELEE</a>, <a class="el" href="../../#l00220">aiType</a>, <a class="el" href="../../#l10333">Unit::Attack()</a>, <a class="el" href="../../#l01673">Unit::GetMotionMaster()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, and <a class="el" href="../../#l00313">MotionMaster::MoveChase()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00206">AI_TYPE_MELEE</a>, <a class="el" href="../../#l00220">aiType</a>, <a class="el" href="../../#l10343">Unit::Attack()</a>, <a class="el" href="../../#l01673">Unit::GetMotionMaster()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, and <a class="el" href="../../#l00313">MotionMaster::MoveChase()</a>.</p>
 
 </div>
 </div>
@@ -781,9 +781,9 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  230</span>        <span class="keywordtype">float</span> mod_armor = <a class="code hl_variable" href="../../de/d9d/a12812.html#a2b7ccbf195658e402ba6f276b18e3551">aiType</a> == <a class="code hl_enumvalue" href="../../d2/deb/a03356.html#a85c683fbce186a8ef023f3fd98e9a66ba151d9b74fddf90759bb6a5cf6b822cdc">AI_TYPE_MELEE</a> ? <a class="code hl_function" href="../../d4/dd6/a08748.html#a3dee46b283ebc2e4bcace26c01895387">Unit::CalcArmorReducedDamage</a>(<a class="code hl_variable" href="../../d8/dae/a06212.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, target, 10000, <span class="keyword">nullptr</span>) / 10000.0f : 1.0f;</div>
 <div class="line"><span class="lineno">  231</span>        <span class="keywordflow">return</span> mod_dist * mod_health * mod_armor;</div>
 <div class="line"><span class="lineno">  232</span>    }</div>
-<div class="ttc" id="aa08748_html_a3dee46b283ebc2e4bcace26c01895387"><div class="ttname"><a href="../../d4/dd6/a08748.html#a3dee46b283ebc2e4bcace26c01895387">Unit::CalcArmorReducedDamage</a></div><div class="ttdeci">static uint32 CalcArmorReducedDamage(Unit const *attacker, Unit const *victim, const uint32 damage, SpellInfo const *spellInfo, uint8 attackerLevel=0, WeaponAttackType attackType=MAX_ATTACK)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:2057</div></div>
+<div class="ttc" id="aa08748_html_a3dee46b283ebc2e4bcace26c01895387"><div class="ttname"><a href="../../d4/dd6/a08748.html#a3dee46b283ebc2e4bcace26c01895387">Unit::CalcArmorReducedDamage</a></div><div class="ttdeci">static uint32 CalcArmorReducedDamage(Unit const *attacker, Unit const *victim, const uint32 damage, SpellInfo const *spellInfo, uint8 attackerLevel=0, WeaponAttackType attackType=MAX_ATTACK)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:2058</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00206">AI_TYPE_MELEE</a>, <a class="el" href="../../#l00220">aiType</a>, <a class="el" href="../../#l02057">Unit::CalcArmorReducedDamage()</a>, and <a class="el" href="../../#l00280">ScriptedAI::me</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00206">AI_TYPE_MELEE</a>, <a class="el" href="../../#l00220">aiType</a>, <a class="el" href="../../#l02058">Unit::CalcArmorReducedDamage()</a>, and <a class="el" href="../../#l00280">ScriptedAI::me</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00234">RecalculateThreat()</a>.</p>
 
@@ -1173,7 +1173,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../de/d9d/a12812.html">boss_priestess_lackey_commonAI</a></li>
-    <li class="footer">Generated on Mon Aug 11 2025 20:47:48 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Aug 18 2025 20:48:11 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

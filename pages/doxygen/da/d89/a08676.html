@@ -440,9 +440,9 @@ Private Attributes</h2></td></tr>
 <div class="ttc" id="aa08672_html_aa00953783b0b3de3beb755a054c77730"><div class="ttname"><a href="../../da/d3d/a08672.html#aa00953783b0b3de3beb755a054c77730">UnitActionBarEntry::SetAction</a></div><div class="ttdeci">void SetAction(uint32 action)</div><div class="ttdef"><b>Definition:</b> CharmInfo.h:119</div></div>
 <div class="ttc" id="aa08676_html_a4951b83a10c85f36f25f2236983a51a3"><div class="ttname"><a href="../../da/d89/a08676.html#a4951b83a10c85f36f25f2236983a51a3">CharmInfo::SetActionBar</a></div><div class="ttdeci">void SetActionBar(uint8 index, uint32 spellOrAction, ActiveStates type)</div><div class="ttdef"><b>Definition:</b> CharmInfo.h:150</div></div>
 <div class="ttc" id="aa08676_html_a79e1a8a988254a9833313430d44ba11e"><div class="ttname"><a href="../../da/d89/a08676.html#a79e1a8a988254a9833313430d44ba11e">CharmInfo::PetActionBar</a></div><div class="ttdeci">UnitActionBarEntry PetActionBar[MAX_UNIT_ACTION_BAR_INDEX]</div><div class="ttdef"><b>Definition:</b> CharmInfo.h:188</div></div>
-<div class="ttc" id="aa08748_html_a3e41c41854a54e38fbdff48ed8ce5062"><div class="ttname"><a href="../../d4/dd6/a08748.html#a3e41c41854a54e38fbdff48ed8ce5062">Unit::GetCharmer</a></div><div class="ttdeci">Unit * GetCharmer() const</div><div class="ttdef"><b>Definition:</b> Unit.cpp:10694</div></div>
+<div class="ttc" id="aa08748_html_a3e41c41854a54e38fbdff48ed8ce5062"><div class="ttname"><a href="../../d4/dd6/a08748.html#a3e41c41854a54e38fbdff48ed8ce5062">Unit::GetCharmer</a></div><div class="ttdeci">Unit * GetCharmer() const</div><div class="ttdef"><b>Definition:</b> Unit.cpp:10704</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00187">_unit</a>, <a class="el" href="../../#l00064">ACT_COMMAND</a>, <a class="el" href="../../#l00066">ACT_DECIDE</a>, <a class="el" href="../../#l00062">ACT_DISABLED</a>, <a class="el" href="../../#l00061">ACT_PASSIVE</a>, <a class="el" href="../../#l00053">ACTION_BAR_INDEX_START</a>, <a class="el" href="../../#l00107">EventProcessor::AddEventAtOffset()</a>, <a class="el" href="../../#l00558">COMMAND_ATTACK</a>, <a class="el" href="../../#l10694">Unit::GetCharmer()</a>, <a class="el" href="../../#l02513">SpellInfo::GetFirstRankSpell()</a>, <a class="el" href="../../#l00320">SpellInfo::Id</a>, <a class="el" href="../../#l01103">SpellInfo::IsAutocastable()</a>, <a class="el" href="../../#l00201">Object::IsPlayer()</a>, <a class="el" href="../../#l00717">WorldObject::m_Events</a>, <a class="el" href="../../#l00029">MAX_UNIT_ACTION_BAR_INDEX</a>, <a class="el" href="../../#l00188">PetActionBar</a>, <a class="el" href="../../#l00119">UnitActionBarEntry::SetAction()</a>, <a class="el" href="../../#l00150">SetActionBar()</a>, <a class="el" href="../../#l00825">sSpellMgr</a>, and <a class="el" href="../../#l00206">Object::ToCreature()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00187">_unit</a>, <a class="el" href="../../#l00064">ACT_COMMAND</a>, <a class="el" href="../../#l00066">ACT_DECIDE</a>, <a class="el" href="../../#l00062">ACT_DISABLED</a>, <a class="el" href="../../#l00061">ACT_PASSIVE</a>, <a class="el" href="../../#l00053">ACTION_BAR_INDEX_START</a>, <a class="el" href="../../#l00107">EventProcessor::AddEventAtOffset()</a>, <a class="el" href="../../#l00558">COMMAND_ATTACK</a>, <a class="el" href="../../#l10704">Unit::GetCharmer()</a>, <a class="el" href="../../#l02513">SpellInfo::GetFirstRankSpell()</a>, <a class="el" href="../../#l00320">SpellInfo::Id</a>, <a class="el" href="../../#l01103">SpellInfo::IsAutocastable()</a>, <a class="el" href="../../#l00201">Object::IsPlayer()</a>, <a class="el" href="../../#l00717">WorldObject::m_Events</a>, <a class="el" href="../../#l00029">MAX_UNIT_ACTION_BAR_INDEX</a>, <a class="el" href="../../#l00188">PetActionBar</a>, <a class="el" href="../../#l00119">UnitActionBarEntry::SetAction()</a>, <a class="el" href="../../#l00150">SetActionBar()</a>, <a class="el" href="../../#l00825">sSpellMgr</a>, and <a class="el" href="../../#l00206">Object::ToCreature()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l01778">Pet::addSpell()</a>, <a class="el" href="../../#l00098">InitCharmCreateSpells()</a>, and <a class="el" href="../../#l00077">InitPossessCreateSpells()</a>.</p>
 
@@ -882,15 +882,15 @@ Private Attributes</h2></td></tr>
 <div class="ttc" id="aa08676_html_a6f348d8d362564c7a4d150517dccc369"><div class="ttname"><a href="../../da/d89/a08676.html#a6f348d8d362564c7a4d150517dccc369">CharmInfo::InitPetActionBar</a></div><div class="ttdeci">void InitPetActionBar()</div><div class="ttdef"><b>Definition:</b> CharmInfo.cpp:52</div></div>
 <div class="ttc" id="aa08676_html_a9a8accf24d9dc481a8e94888634bf391"><div class="ttname"><a href="../../da/d89/a08676.html#a9a8accf24d9dc481a8e94888634bf391">CharmInfo::AddSpellToActionBar</a></div><div class="ttdeci">bool AddSpellToActionBar(SpellInfo const *spellInfo, ActiveStates newstate=ACT_DECIDE, uint32 index=MAX_UNIT_ACTION_BAR_INDEX+1)</div><div class="ttdef"><b>Definition:</b> CharmInfo.cpp:145</div></div>
 <div class="ttc" id="aa08676_html_acbe8fa42ba765bd480589fc3429ddbc0"><div class="ttname"><a href="../../da/d89/a08676.html#acbe8fa42ba765bd480589fc3429ddbc0">CharmInfo::ToggleCreatureAutocast</a></div><div class="ttdeci">void ToggleCreatureAutocast(SpellInfo const *spellInfo, bool apply)</div><div class="ttdef"><b>Definition:</b> CharmInfo.cpp:230</div></div>
-<div class="ttc" id="aa08748_html_aa3ca95f7a14041f562ed69c3994afdfc"><div class="ttname"><a href="../../d4/dd6/a08748.html#aa3ca95f7a14041f562ed69c3994afdfc">Unit::CastSpell</a></div><div class="ttdeci">SpellCastResult CastSpell(SpellCastTargets const &amp;targets, SpellInfo const *spellInfo, CustomSpellValues const *value, TriggerCastFlags triggerFlags=TRIGGERED_NONE, Item *castItem=nullptr, AuraEffect const *triggeredByAura=nullptr, ObjectGuid originalCaster=ObjectGuid::Empty)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:1193</div></div>
+<div class="ttc" id="aa08748_html_aa3ca95f7a14041f562ed69c3994afdfc"><div class="ttname"><a href="../../d4/dd6/a08748.html#aa3ca95f7a14041f562ed69c3994afdfc">Unit::CastSpell</a></div><div class="ttdeci">SpellCastResult CastSpell(SpellCastTargets const &amp;targets, SpellInfo const *spellInfo, CustomSpellValues const *value, TriggerCastFlags triggerFlags=TRIGGERED_NONE, Item *castItem=nullptr, AuraEffect const *triggeredByAura=nullptr, ObjectGuid originalCaster=ObjectGuid::Empty)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:1194</div></div>
 <div class="ttc" id="aa11180_html"><div class="ttname"><a href="../../df/de8/a11180.html">SpellInfo</a></div><div class="ttdef"><b>Definition:</b> SpellInfo.h:316</div></div>
 <div class="ttc" id="aa11180_html_a243b5bc4eb72b1c64695f8b10be3801c"><div class="ttname"><a href="../../df/de8/a11180.html#a243b5bc4eb72b1c64695f8b10be3801c">SpellInfo::IsAutocastable</a></div><div class="ttdeci">bool IsAutocastable() const</div><div class="ttdef"><b>Definition:</b> SpellInfo.cpp:1103</div></div>
 <div class="ttc" id="aa11180_html_a44ac36a7f40b3c5b26a82a3bb0e8af30"><div class="ttname"><a href="../../df/de8/a11180.html#a44ac36a7f40b3c5b26a82a3bb0e8af30">SpellInfo::IsPassive</a></div><div class="ttdeci">bool IsPassive() const</div><div class="ttdef"><b>Definition:</b> SpellInfo.cpp:1098</div></div>
 <div class="ttc" id="aa11180_html_acdb32b1b9b2168e2e396823403a5ed85"><div class="ttname"><a href="../../df/de8/a11180.html#acdb32b1b9b2168e2e396823403a5ed85">SpellInfo::NeedsExplicitUnitTarget</a></div><div class="ttdeci">bool NeedsExplicitUnitTarget() const</div><div class="ttdef"><b>Definition:</b> SpellInfo.cpp:1033</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00189">_charmspells</a>, <a class="el" href="../../#l00187">_unit</a>, <a class="el" href="../../#l00062">ACT_DISABLED</a>, <a class="el" href="../../#l00063">ACT_ENABLED</a>, <a class="el" href="../../#l00061">ACT_PASSIVE</a>, <a class="el" href="../../#l00145">AddSpellToActionBar()</a>, <a class="el" href="../../#l01193">Unit::CastSpell()</a>, <a class="el" href="../../#l00052">InitPetActionBar()</a>, <a class="el" href="../../#l01103">SpellInfo::IsAutocastable()</a>, <a class="el" href="../../#l01098">SpellInfo::IsPassive()</a>, <a class="el" href="../../#l00201">Object::IsPlayer()</a>, <a class="el" href="../../#l00254">Creature::m_spells</a>, <a class="el" href="../../#l00024">MAX_SPELL_CHARM</a>, <a class="el" href="../../#l01033">SpellInfo::NeedsExplicitUnitTarget()</a>, <a class="el" href="../../#l00109">UnitActionBarEntry::SetActionAndType()</a>, <a class="el" href="../../#l00825">sSpellMgr</a>, <a class="el" href="../../#l00206">Object::ToCreature()</a>, and <a class="el" href="../../#l00230">ToggleCreatureAutocast()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00189">_charmspells</a>, <a class="el" href="../../#l00187">_unit</a>, <a class="el" href="../../#l00062">ACT_DISABLED</a>, <a class="el" href="../../#l00063">ACT_ENABLED</a>, <a class="el" href="../../#l00061">ACT_PASSIVE</a>, <a class="el" href="../../#l00145">AddSpellToActionBar()</a>, <a class="el" href="../../#l01194">Unit::CastSpell()</a>, <a class="el" href="../../#l00052">InitPetActionBar()</a>, <a class="el" href="../../#l01103">SpellInfo::IsAutocastable()</a>, <a class="el" href="../../#l01098">SpellInfo::IsPassive()</a>, <a class="el" href="../../#l00201">Object::IsPlayer()</a>, <a class="el" href="../../#l00254">Creature::m_spells</a>, <a class="el" href="../../#l00024">MAX_SPELL_CHARM</a>, <a class="el" href="../../#l01033">SpellInfo::NeedsExplicitUnitTarget()</a>, <a class="el" href="../../#l00109">UnitActionBarEntry::SetActionAndType()</a>, <a class="el" href="../../#l00825">sSpellMgr</a>, <a class="el" href="../../#l00206">Object::ToCreature()</a>, and <a class="el" href="../../#l00230">ToggleCreatureAutocast()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00430">Guardian::InitStats()</a>, and <a class="el" href="../../#l18438">Unit::SetCharmedBy()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00430">Guardian::InitStats()</a>, and <a class="el" href="../../#l18448">Unit::SetCharmedBy()</a>.</p>
 
 </div>
 </div>
@@ -998,9 +998,9 @@ Private Attributes</h2></td></tr>
 <div class="ttc" id="aa01682_html_ac6af0816f1cdb55cd57c5975ff99ad18"><div class="ttname"><a href="../../dd/d08/a01682.html#ac6af0816f1cdb55cd57c5975ff99ad18">MAX_CREATURE_SPELLS</a></div><div class="ttdeci">static constexpr uint32 MAX_CREATURE_SPELLS</div><div class="ttdef"><b>Definition:</b> Unit.h:46</div></div>
 <div class="ttc" id="aa08676_html_ae2e9bdba70936fbe54f7dd757fbb2af3"><div class="ttname"><a href="../../da/d89/a08676.html#ae2e9bdba70936fbe54f7dd757fbb2af3">CharmInfo::InitEmptyActionBar</a></div><div class="ttdeci">void InitEmptyActionBar(bool withAttack=true)</div><div class="ttdef"><b>Definition:</b> CharmInfo.cpp:67</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00187">_unit</a>, <a class="el" href="../../#l00061">ACT_PASSIVE</a>, <a class="el" href="../../#l00145">AddSpellToActionBar()</a>, <a class="el" href="../../#l01193">Unit::CastSpell()</a>, <a class="el" href="../../#l00067">InitEmptyActionBar()</a>, <a class="el" href="../../#l00205">Object::IsCreature()</a>, <a class="el" href="../../#l01098">SpellInfo::IsPassive()</a>, <a class="el" href="../../#l00254">Creature::m_spells</a>, <a class="el" href="../../#l00046">MAX_CREATURE_SPELLS</a>, <a class="el" href="../../#l00825">sSpellMgr</a>, and <a class="el" href="../../#l00206">Object::ToCreature()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00187">_unit</a>, <a class="el" href="../../#l00061">ACT_PASSIVE</a>, <a class="el" href="../../#l00145">AddSpellToActionBar()</a>, <a class="el" href="../../#l01194">Unit::CastSpell()</a>, <a class="el" href="../../#l00067">InitEmptyActionBar()</a>, <a class="el" href="../../#l00205">Object::IsCreature()</a>, <a class="el" href="../../#l01098">SpellInfo::IsPassive()</a>, <a class="el" href="../../#l00254">Creature::m_spells</a>, <a class="el" href="../../#l00046">MAX_CREATURE_SPELLS</a>, <a class="el" href="../../#l00825">sSpellMgr</a>, and <a class="el" href="../../#l00206">Object::ToCreature()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l18438">Unit::SetCharmedBy()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l18448">Unit::SetCharmedBy()</a>.</p>
 
 </div>
 </div>
@@ -1268,7 +1268,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00194">_oldReactState</a>, <a class="el" href="../../#l00187">_unit</a>, and <a class="el" href="../../#l00206">Object::ToCreature()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l15897">Unit::DeleteCharmInfo()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l15907">Unit::DeleteCharmInfo()</a>.</p>
 
 </div>
 </div>
@@ -1314,12 +1314,12 @@ Private Attributes</h2></td></tr>
 <div class="ttc" id="aa08444_html_ad5577c934d9e845b44759b67c534c3e8"><div class="ttname"><a href="../../db/ddf/a08444.html#ad5577c934d9e845b44759b67c534c3e8">Position::GetPositionX</a></div><div class="ttdeci">float GetPositionX() const</div><div class="ttdef"><b>Definition:</b> Position.h:121</div></div>
 <div class="ttc" id="aa08444_html_ae79fc664f6cd027f5d49f6c7df8e4c9e"><div class="ttname"><a href="../../db/ddf/a08444.html#ae79fc664f6cd027f5d49f6c7df8e4c9e">Position::GetPositionY</a></div><div class="ttdeci">float GetPositionY() const</div><div class="ttdef"><b>Definition:</b> Position.h:122</div></div>
 <div class="ttc" id="aa08748_html_a1805acabea4c9a75ad7c0bcab734f627"><div class="ttname"><a href="../../d4/dd6/a08748.html#a1805acabea4c9a75ad7c0bcab734f627">Unit::movespline</a></div><div class="ttdeci">Movement::MoveSpline * movespline</div><div class="ttdef"><b>Definition:</b> Unit.h:2029</div></div>
-<div class="ttc" id="aa08748_html_a959879d9a8051fcc60f824c15d6308a2"><div class="ttname"><a href="../../d4/dd6/a08748.html#a959879d9a8051fcc60f824c15d6308a2">Unit::GetDirectTransport</a></div><div class="ttdeci">TransportBase * GetDirectTransport() const</div><div class="ttdef"><b>Definition:</b> Unit.cpp:18855</div></div>
+<div class="ttc" id="aa08748_html_a959879d9a8051fcc60f824c15d6308a2"><div class="ttname"><a href="../../d4/dd6/a08748.html#a959879d9a8051fcc60f824c15d6308a2">Unit::GetDirectTransport</a></div><div class="ttdeci">TransportBase * GetDirectTransport() const</div><div class="ttdef"><b>Definition:</b> Unit.cpp:18865</div></div>
 <div class="ttc" id="aa08804_html"><div class="ttname"><a href="../../db/dbe/a08804.html">TransportBase</a></div><div class="ttdef"><b>Definition:</b> VehicleDefines.h:130</div></div>
 <div class="ttc" id="aa10064_html_a5a75c3c093ade5d45a92f7d777e572c5"><div class="ttname"><a href="../../d7/d9f/a10064.html#a5a75c3c093ade5d45a92f7d777e572c5">Movement::MoveSpline::FinalDestination</a></div><div class="ttdeci">Vector3 FinalDestination() const</div><div class="ttdef"><b>Definition:</b> MoveSpline.h:120</div></div>
 <div class="ttc" id="aa10064_html_ae68059cf60cd9e73e124d0fd7066c385"><div class="ttname"><a href="../../d7/d9f/a10064.html#ae68059cf60cd9e73e124d0fd7066c385">Movement::MoveSpline::onTransport</a></div><div class="ttdeci">bool onTransport</div><div class="ttdef"><b>Definition:</b> MoveSpline.h:127</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00203">_stayX</a>, <a class="el" href="../../#l00204">_stayY</a>, <a class="el" href="../../#l00205">_stayZ</a>, <a class="el" href="../../#l00187">_unit</a>, <a class="el" href="../../#l00120">Movement::MoveSpline::FinalDestination()</a>, <a class="el" href="../../#l18855">Unit::GetDirectTransport()</a>, <a class="el" href="../../#l00121">Position::GetPositionX()</a>, <a class="el" href="../../#l00122">Position::GetPositionY()</a>, <a class="el" href="../../#l00123">Position::GetPositionZ()</a>, <a class="el" href="../../#l00027">INVALID_HEIGHT</a>, <a class="el" href="../../#l02029">Unit::movespline</a>, <a class="el" href="../../#l00127">Movement::MoveSpline::onTransport</a>, and <a class="el" href="../../#l01522">WorldObject::UpdateAllowedPositionZ()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00203">_stayX</a>, <a class="el" href="../../#l00204">_stayY</a>, <a class="el" href="../../#l00205">_stayZ</a>, <a class="el" href="../../#l00187">_unit</a>, <a class="el" href="../../#l00120">Movement::MoveSpline::FinalDestination()</a>, <a class="el" href="../../#l18865">Unit::GetDirectTransport()</a>, <a class="el" href="../../#l00121">Position::GetPositionX()</a>, <a class="el" href="../../#l00122">Position::GetPositionY()</a>, <a class="el" href="../../#l00123">Position::GetPositionZ()</a>, <a class="el" href="../../#l00027">INVALID_HEIGHT</a>, <a class="el" href="../../#l02029">Unit::movespline</a>, <a class="el" href="../../#l00127">Movement::MoveSpline::onTransport</a>, and <a class="el" href="../../#l01522">WorldObject::UpdateAllowedPositionZ()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00150">WorldSession::HandlePetActionHelper()</a>, and <a class="el" href="../../#l00652">Pet::Update()</a>.</p>
 
@@ -1432,7 +1432,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00201">_forcedSpellId</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00150">WorldSession::HandlePetActionHelper()</a>, <a class="el" href="../../#l00546">PetAI::HandleReturnMovement()</a>, <a class="el" href="../../#l20183">Unit::PetSpellFail()</a>, and <a class="el" href="../../#l00596">PetAI::SpellHit()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00150">WorldSession::HandlePetActionHelper()</a>, <a class="el" href="../../#l00546">PetAI::HandleReturnMovement()</a>, <a class="el" href="../../#l20193">Unit::PetSpellFail()</a>, and <a class="el" href="../../#l00596">PetAI::SpellHit()</a>.</p>
 
 </div>
 </div>
@@ -1463,7 +1463,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00202">_forcedTargetGUID</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00150">WorldSession::HandlePetActionHelper()</a>, <a class="el" href="../../#l00546">PetAI::HandleReturnMovement()</a>, <a class="el" href="../../#l20183">Unit::PetSpellFail()</a>, and <a class="el" href="../../#l00596">PetAI::SpellHit()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00150">WorldSession::HandlePetActionHelper()</a>, <a class="el" href="../../#l00546">PetAI::HandleReturnMovement()</a>, <a class="el" href="../../#l20193">Unit::PetSpellFail()</a>, and <a class="el" href="../../#l00596">PetAI::SpellHit()</a>.</p>
 
 </div>
 </div>
@@ -1488,7 +1488,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00198">_isAtStay</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00072">Pet::AddToWorld()</a>, <a class="el" href="../../#l00788">PetAI::ClearCharmInfoFlags()</a>, <a class="el" href="../../#l00612">PetAI::DoAttack()</a>, <a class="el" href="../../#l00150">WorldSession::HandlePetActionHelper()</a>, <a class="el" href="../../#l00653">PetAI::MovementInform()</a>, <a class="el" href="../../#l20183">Unit::PetSpellFail()</a>, and <a class="el" href="../../#l00652">Pet::Update()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00072">Pet::AddToWorld()</a>, <a class="el" href="../../#l00788">PetAI::ClearCharmInfoFlags()</a>, <a class="el" href="../../#l00612">PetAI::DoAttack()</a>, <a class="el" href="../../#l00150">WorldSession::HandlePetActionHelper()</a>, <a class="el" href="../../#l00653">PetAI::MovementInform()</a>, <a class="el" href="../../#l20193">Unit::PetSpellFail()</a>, and <a class="el" href="../../#l00652">Pet::Update()</a>.</p>
 
 </div>
 </div>
@@ -1513,7 +1513,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00196">_isCommandAttack</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00072">PetAI::_stopAttack()</a>, <a class="el" href="../../#l00072">Pet::AddToWorld()</a>, <a class="el" href="../../#l00788">PetAI::ClearCharmInfoFlags()</a>, <a class="el" href="../../#l00612">PetAI::DoAttack()</a>, <a class="el" href="../../#l00150">WorldSession::HandlePetActionHelper()</a>, <a class="el" href="../../#l20183">Unit::PetSpellFail()</a>, and <a class="el" href="../../#l00652">Pet::Update()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00072">PetAI::_stopAttack()</a>, <a class="el" href="../../#l00072">Pet::AddToWorld()</a>, <a class="el" href="../../#l00788">PetAI::ClearCharmInfoFlags()</a>, <a class="el" href="../../#l00612">PetAI::DoAttack()</a>, <a class="el" href="../../#l00150">WorldSession::HandlePetActionHelper()</a>, <a class="el" href="../../#l20193">Unit::PetSpellFail()</a>, and <a class="el" href="../../#l00652">Pet::Update()</a>.</p>
 
 </div>
 </div>
@@ -1563,7 +1563,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00199">_isFollowing</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00072">Pet::AddToWorld()</a>, <a class="el" href="../../#l00788">PetAI::ClearCharmInfoFlags()</a>, <a class="el" href="../../#l00150">WorldSession::HandlePetActionHelper()</a>, <a class="el" href="../../#l00653">PetAI::MovementInform()</a>, <a class="el" href="../../#l20183">Unit::PetSpellFail()</a>, and <a class="el" href="../../#l00652">Pet::Update()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00072">Pet::AddToWorld()</a>, <a class="el" href="../../#l00788">PetAI::ClearCharmInfoFlags()</a>, <a class="el" href="../../#l00150">WorldSession::HandlePetActionHelper()</a>, <a class="el" href="../../#l00653">PetAI::MovementInform()</a>, <a class="el" href="../../#l20193">Unit::PetSpellFail()</a>, and <a class="el" href="../../#l00652">Pet::Update()</a>.</p>
 
 </div>
 </div>
@@ -1588,7 +1588,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00200">_isReturning</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00072">Pet::AddToWorld()</a>, <a class="el" href="../../#l00788">PetAI::ClearCharmInfoFlags()</a>, <a class="el" href="../../#l00150">WorldSession::HandlePetActionHelper()</a>, <a class="el" href="../../#l00546">PetAI::HandleReturnMovement()</a>, <a class="el" href="../../#l20183">Unit::PetSpellFail()</a>, and <a class="el" href="../../#l00652">Pet::Update()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00072">Pet::AddToWorld()</a>, <a class="el" href="../../#l00788">PetAI::ClearCharmInfoFlags()</a>, <a class="el" href="../../#l00150">WorldSession::HandlePetActionHelper()</a>, <a class="el" href="../../#l00546">PetAI::HandleReturnMovement()</a>, <a class="el" href="../../#l20193">Unit::PetSpellFail()</a>, and <a class="el" href="../../#l00652">Pet::Update()</a>.</p>
 
 </div>
 </div>
@@ -1625,11 +1625,11 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  246</span>        <a class="code hl_variable" href="../../da/d89/a08676.html#af62aeed73a3a4ecc6fe8f81f8cebea8b">_unit</a>-&gt;<a class="code hl_function" href="../../d4/dd6/a08748.html#ac2bd94b573bcf5e80cba886a8e2f540f">SetUInt32Value</a>(<a class="code hl_enumvalue" href="../../d3/d92/a01796.html#a0e42dc606678c9df7884e1aad621e881a114e5f046c491f51fcc9e6754b6575ea">UNIT_FIELD_PETNUMBER</a>, 0);</div>
 <div class="line"><span class="lineno">  247</span>}</div>
 <div class="ttc" id="aa01796_html_a0e42dc606678c9df7884e1aad621e881a114e5f046c491f51fcc9e6754b6575ea"><div class="ttname"><a href="../../d3/d92/a01796.html#a0e42dc606678c9df7884e1aad621e881a114e5f046c491f51fcc9e6754b6575ea">UNIT_FIELD_PETNUMBER</a></div><div class="ttdeci">@ UNIT_FIELD_PETNUMBER</div><div class="ttdef"><b>Definition:</b> UpdateFields.h:132</div></div>
-<div class="ttc" id="aa08748_html_ac2bd94b573bcf5e80cba886a8e2f540f"><div class="ttname"><a href="../../d4/dd6/a08748.html#ac2bd94b573bcf5e80cba886a8e2f540f">Unit::SetUInt32Value</a></div><div class="ttdeci">void SetUInt32Value(uint16 index, uint32 value)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:21181</div></div>
+<div class="ttc" id="aa08748_html_ac2bd94b573bcf5e80cba886a8e2f540f"><div class="ttname"><a href="../../d4/dd6/a08748.html#ac2bd94b573bcf5e80cba886a8e2f540f">Unit::SetUInt32Value</a></div><div class="ttdeci">void SetUInt32Value(uint16 index, uint32 value)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:21191</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00191">_petnumber</a>, <a class="el" href="../../#l00187">_unit</a>, <a class="el" href="../../#l21181">Unit::SetUInt32Value()</a>, and <a class="el" href="../../#l00132">UNIT_FIELD_PETNUMBER</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00191">_petnumber</a>, <a class="el" href="../../#l00187">_unit</a>, <a class="el" href="../../#l21191">Unit::SetUInt32Value()</a>, and <a class="el" href="../../#l00132">UNIT_FIELD_PETNUMBER</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l17469">Unit::InitTamedPet()</a>, <a class="el" href="../../#l00216">Pet::LoadPetFromDB()</a>, <a class="el" href="../../#l18640">Unit::RemoveCharmedBy()</a>, <a class="el" href="../../#l18438">Unit::SetCharmedBy()</a>, and <a class="el" href="../../#l08959">Player::SummonPet()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l17479">Unit::InitTamedPet()</a>, <a class="el" href="../../#l00216">Pet::LoadPetFromDB()</a>, <a class="el" href="../../#l18650">Unit::RemoveCharmedBy()</a>, <a class="el" href="../../#l18448">Unit::SetCharmedBy()</a>, and <a class="el" href="../../#l08959">Player::SummonPet()</a>.</p>
 
 </div>
 </div>
@@ -2164,7 +2164,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../da/d89/a08676.html">CharmInfo</a></li>
-    <li class="footer">Generated on Mon Aug 11 2025 20:47:55 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Aug 18 2025 20:48:17 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,10 +1,10 @@
 var a21116 =
 [
-    [ "npc_enslaved_proto_drake", "dc/d42/a21116.html#aec835fdc8b1beb270176d5341d26c265", null ],
-    [ "MovementInform", "dc/d42/a21116.html#ad2a25f78a82e0f2cef1e7809cb1d7d89", null ],
-    [ "Reset", "dc/d42/a21116.html#a3c1ea80e356e33c4a4b7ed5d083fc7b5", null ],
-    [ "SetData", "dc/d42/a21116.html#a888219a604e4c95a5a3e442fcf8c1a39", null ],
-    [ "UpdateAI", "dc/d42/a21116.html#a252f84198df610bac44b6bd9cd80602e", null ],
-    [ "_events", "dc/d42/a21116.html#a89b48d6fb010bc9611b625e5f02b94d3", null ],
-    [ "_setData", "dc/d42/a21116.html#adb997badd8831dea7763eaecc93b7773", null ]
+    [ "npc_dragonflayer_forge_master", "dc/d42/a21116.html#a642c0fb5a5010c48403b8c3dc8bc14eb", null ],
+    [ "JustDied", "dc/d42/a21116.html#aa107e88bbc5b55a6ece5124c4081706e", null ],
+    [ "JustEngagedWith", "dc/d42/a21116.html#a3dfb76bb5cb13624e0709f1b25414360", null ],
+    [ "Reset", "dc/d42/a21116.html#af2c844c926b94456df796b4252e899c2", null ],
+    [ "dataId", "dc/d42/a21116.html#a35962dcbbef32dbc7f63dfa33cffd4b4", null ],
+    [ "pInstance", "dc/d42/a21116.html#a27b5988d777347832795581b0186c09f", null ],
+    [ "prevDataId", "dc/d42/a21116.html#aa057cb5ae681b4b802031151ea1a3529", null ]
 ];

@@ -1,7 +1,7 @@
 var a15464 =
 [
-    [ "HandleDummy", "d4/d7f/a15464.html#a38dafff805471b19ca3cca4ff5273a87", null ],
-    [ "PrepareSpellScript", "d4/d7f/a15464.html#a40db5a46491aa22b5347f99b0251f1b8", null ],
-    [ "Register", "d4/d7f/a15464.html#a2f297ab67d5e2e990658706f7c508bd4", null ],
-    [ "Validate", "d4/d7f/a15464.html#abb7946f53e6271ae69d34caacef61f47", null ]
+    [ "HandleDummy", "d4/d7f/a15464.html#a7657ffcc0b055b838408de4dd5f778f3", null ],
+    [ "PrepareSpellScript", "d4/d7f/a15464.html#ace2c23ec11d09cfb6f101a2dbd8b9d89", null ],
+    [ "Register", "d4/d7f/a15464.html#ae9be2e8124edf50b98824c584aaa32cf", null ],
+    [ "Validate", "d4/d7f/a15464.html#a041c84fd605abd36b8f774903a5200dc", null ]
 ];

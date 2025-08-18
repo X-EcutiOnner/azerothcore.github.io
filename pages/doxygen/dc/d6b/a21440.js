@@ -1,10 +1,6 @@
 var a21440 =
 [
-    [ "npc_azure_binderAI", "dc/d6b/a21440.html#ad532d350493a35804660f90a9f00f3cf", null ],
-    [ "Reset", "dc/d6b/a21440.html#aa317ce32f3439286e9a4ac0928d48b3a", null ],
-    [ "UpdateAI", "dc/d6b/a21440.html#a322ae0210ccb24206aee49c4fa7fe2bc", null ],
-    [ "uiArcainBarrageTimer", "dc/d6b/a21440.html#a0e577611e3e11209cc175cd71cd86bc9", null ],
-    [ "uiArcaneExplosionTimer", "dc/d6b/a21440.html#aa5cc777f777166e88a21e98a4ce2b8d3", null ],
-    [ "uiFrostboltTimer", "dc/d6b/a21440.html#a405ec0f2d92e4a1f5f7901e725465604", null ],
-    [ "uiFrostNovaTimer", "dc/d6b/a21440.html#a0f6396376e14711f87f1a046728ce386", null ]
+    [ "npc_azure_binderAI", "dc/dd7/a21444.html", "dc/dd7/a21444" ],
+    [ "npc_azure_binder", "dc/d6b/a21440.html#a25b8b19b6ccdae92418c47fe68537c42", null ],
+    [ "GetAI", "dc/d6b/a21440.html#aad091206a8bd06a1064b68b81510eb56", null ]
 ];

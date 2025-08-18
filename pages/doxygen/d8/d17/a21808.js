@@ -1,7 +1,6 @@
 var a21808 =
 [
-    [ "HandleApplyEffect", "d8/d17/a21808.html#aab7bd30368c51a6a209f6cad5a93ba79", null ],
-    [ "HandleRemoveEffect", "d8/d17/a21808.html#a243933fec9ccd650303ea5badbea725b", null ],
-    [ "PrepareAuraScript", "d8/d17/a21808.html#ac0e1fc0694dd51e245340d3658592447", null ],
-    [ "Register", "d8/d17/a21808.html#a0f6e6c6892d56a6fceb927f68c734bde", null ]
+    [ "HandleSendEvent", "d8/d17/a21808.html#a8b8276833404f3f69c3b7f97d95b6982", null ],
+    [ "PrepareSpellScript", "d8/d17/a21808.html#aa632d381ac415feaf226f55fc2cd8520", null ],
+    [ "Register", "d8/d17/a21808.html#a72673f5054cf269cc8da511441f7bd66", null ]
 ];

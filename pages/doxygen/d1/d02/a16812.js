@@ -1,5 +1,6 @@
 var a16812 =
 [
-    [ "npc_fos_leader_secondAI", "d1/d02/a16812.html#a25df0b8760e9eb7d330779e10e3ac548", null ],
-    [ "MovementInform", "d1/d02/a16812.html#a9cc0b500f1289dc8b764b3755468e639", null ]
+    [ "npc_fos_leader_secondAI", "da/d42/a16816.html", "da/d42/a16816" ],
+    [ "npc_fos_leader_second", "d1/d02/a16812.html#a0e24659ef6e834da5a3adc8d79f0db4e", null ],
+    [ "GetAI", "d1/d02/a16812.html#a96082888ccbb1c81be8327e5e0d84e03", null ]
 ];

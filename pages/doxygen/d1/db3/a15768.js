@@ -1,6 +1,6 @@
 var a15768 =
 [
-    [ "npc_sergeant_blyAI", "d4/df1/a15772.html", "d4/df1/a15772" ],
-    [ "npc_sergeant_bly", "d1/db3/a15768.html#afd5c6129098e4939e2b9f3d12b8c7058", null ],
-    [ "GetAI", "d1/db3/a15768.html#ad54ff5aabbc30de759c8f31b7ef9f46e", null ]
+    [ "HandleOpenLock", "d1/db3/a15768.html#a32bfb203e9ecfbcfa75f6c3e7a17fade", null ],
+    [ "PrepareSpellScript", "d1/db3/a15768.html#a646a42455b6a46c9f7cbb4b0229122cd", null ],
+    [ "Register", "d1/db3/a15768.html#a5dcac6f609ec93074ec3ce195101f592", null ]
 ];

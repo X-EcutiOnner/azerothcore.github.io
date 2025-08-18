@@ -1,6 +1,12 @@
 var a16892 =
 [
-    [ "npc_spectral_footmanAI", "d6/da1/a16896.html", "d6/da1/a16896" ],
-    [ "npc_spectral_footman", "dc/d25/a16892.html#a300fb06b896d2d08f9e3671422232ad2", null ],
-    [ "GetAI", "dc/d25/a16892.html#adbc1b961aba6cefb97dfff3014248735", null ]
+    [ "npc_shadowy_mercenaryAI", "dc/d25/a16892.html#ac631624615653a4f82ecfae2aa418455", null ],
+    [ "AttackStart", "dc/d25/a16892.html#a001fa53e29cf8a20ed2e3312058ceb0a", null ],
+    [ "DoAction", "dc/d25/a16892.html#a62f4e98e1dadfa0a2aeea43af9d26234", null ],
+    [ "EnterEvadeMode", "dc/d25/a16892.html#a31a9ddf038046534fad1d41afcf76548", null ],
+    [ "JustDied", "dc/d25/a16892.html#a33e576c92d1b10492cb6e65000ca8198", null ],
+    [ "JustEngagedWith", "dc/d25/a16892.html#ae12ade5e863a0022ea99620f354ca51b", null ],
+    [ "Reset", "dc/d25/a16892.html#afad174f812e2aadf6db86703a46f61d2", null ],
+    [ "UpdateAI", "dc/d25/a16892.html#a7a0238f32aa0d608b9d883db5f170052", null ],
+    [ "events", "dc/d25/a16892.html#a4c6e5a49dc4364477187a0189a166578", null ]
 ];

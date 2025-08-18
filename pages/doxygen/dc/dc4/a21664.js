@@ -1,10 +1,9 @@
 var a21664 =
 [
-    [ "npc_preparations_for_war_vehicle", "dc/dc4/a21664.html#a56b37aa1c2b50cac4dfb6b907ffb6d48", null ],
-    [ "InitializeAI", "dc/dc4/a21664.html#a85eaba9e51498313f8498eaaf0e7d0d1", null ],
-    [ "MovementInform", "dc/dc4/a21664.html#ac78c5675b42563f46cc2af0f0c97bee0", null ],
-    [ "UpdateAI", "dc/dc4/a21664.html#ae40a23070d96ecf122e9de5571a845ef", null ],
-    [ "pointId", "dc/dc4/a21664.html#ae75d286eb6116b41adb346861b3c1365", null ],
-    [ "searchForShipTimer", "dc/dc4/a21664.html#a49f8a43891d61460b1d6cdde610a2e88", null ],
-    [ "transportEntry", "dc/dc4/a21664.html#aa0083566387cd42750aaa56b1fa23fed", null ]
+    [ "npc_counselor_talbotAI", "dc/dc4/a21664.html#acf1865ab4225128b8edbc619f7d8fa93", null ],
+    [ "JustDied", "dc/dc4/a21664.html#a4dbb0c9b91be5fa182bcc5c63ac9307b", null ],
+    [ "JustEngagedWith", "dc/dc4/a21664.html#acacec95c5e74c4b71cf2345bbae2eacb", null ],
+    [ "Reset", "dc/dc4/a21664.html#a03bfaedb136c3e107a4df8e4a1646ae2", null ],
+    [ "UpdateAI", "dc/dc4/a21664.html#a7b5c739d7c85d5205a04f3c6adf367ef", null ],
+    [ "_events", "dc/dc4/a21664.html#a094ce9839bb51b73e6b5826c24cda3b6", null ]
 ];

@@ -1,6 +1,6 @@
 var a24484 =
 [
-    [ "HandlePeriodic", "da/d92/a24484.html#adc387a1b001119b95179856c030853ad", null ],
-    [ "PrepareAuraScript", "da/d92/a24484.html#a64eb2c68651171f1cbda3aa98d58e68e", null ],
-    [ "Register", "da/d92/a24484.html#a1234c3e7b32d5bed67c8e9c2afc1fdc5", null ]
+    [ "HandleAfterCast", "da/d92/a24484.html#aaa65e67362ded5318e89272acf073bf3", null ],
+    [ "PrepareSpellScript", "da/d92/a24484.html#a7d0dd936965845c14e7b54846facdb89", null ],
+    [ "Register", "da/d92/a24484.html#ab7b767743d62d9763bea710b7552a8cf", null ]
 ];

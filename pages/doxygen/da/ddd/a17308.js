@@ -1,6 +1,10 @@
 var a17308 =
 [
-    [ "npc_ball_of_flameAI", "da/dc7/a17312.html", "da/dc7/a17312" ],
-    [ "npc_ball_of_flame", "da/ddd/a17308.html#a353bf8385dea6c2e4a489bd14c87e0fe", null ],
-    [ "GetAI", "da/ddd/a17308.html#ac0309668f9f0ca85a644d4928966e577", null ]
+    [ "npc_dark_nucleusAI", "da/ddd/a17308.html#a9558da93ec684d5c4e79e686e6bfb142", null ],
+    [ "AttackStart", "da/ddd/a17308.html#a3dec28dd13257b944df0c559d26a76e0", null ],
+    [ "DamageTaken", "da/ddd/a17308.html#adfb2ad6f6b36fa122511a6ed10e22b99", null ],
+    [ "JustDied", "da/ddd/a17308.html#a464d479ad80d55e54c7ea2c8b8c03a81", null ],
+    [ "Reset", "da/ddd/a17308.html#ac84f79f84e721ab1306c8eed8658b143", null ],
+    [ "UpdateAI", "da/ddd/a17308.html#a3a08457c34d4dd904a99a78875d6318c", null ],
+    [ "timer", "da/ddd/a17308.html#ac5f9824276987b81aef5cfee05158049", null ]
 ];

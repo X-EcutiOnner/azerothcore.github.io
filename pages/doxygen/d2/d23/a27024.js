@@ -1,6 +1,5 @@
 var a27024 =
 [
-    [ "achievement_arena_by_type", "d2/d23/a27024.html#a2042c808304e8ddf1849820491b9f1a3", null ],
-    [ "OnCheck", "d2/d23/a27024.html#abebdbf19fbf1b79c30114a9cf4ff98a4", null ],
-    [ "_arenaType", "d2/d23/a27024.html#a5c38e5fef5eaf3d037864ba2aa80584a", null ]
+    [ "achievement_bg_sa_artillery", "d2/d23/a27024.html#aa81ae215bc91fd4598d7c9a1b02e3fcc", null ],
+    [ "OnCheck", "d2/d23/a27024.html#ac24f32f872ae32e90f06f642ea2dfebc", null ]
 ];

@@ -1,6 +1,7 @@
 var a21604 =
 [
-    [ "npc_warmage_coldarraAI", "d5/d7d/a21608.html", "d5/d7d/a21608" ],
-    [ "npc_warmage_coldarra", "de/d8f/a21604.html#a358f8ab26991798ff076ac764cd7abe2", null ],
-    [ "GetAI", "de/d8f/a21604.html#aa29181e0ad61b44eff685267f3231382", null ]
+    [ "npc_valiance_keep_cannoneerAI", "de/d8f/a21604.html#a0769e975c5c7ff1cfbfa6089e3e55e3f", null ],
+    [ "Reset", "de/d8f/a21604.html#a65718076e65b68cae0a54ff4112fdb4b", null ],
+    [ "UpdateAI", "de/d8f/a21604.html#a75f16f2b028ca341db6e08536be06bfa", null ],
+    [ "uiTimer", "de/d8f/a21604.html#a0cf5f0413b1cded835252a38e272f835", null ]
 ];

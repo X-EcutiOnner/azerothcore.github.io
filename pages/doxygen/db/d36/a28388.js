@@ -1,5 +1,5 @@
 var a28388 =
 [
-    [ "Flags", "db/d36/a28388.html#a0cb97c73af91dcfdd151c38aa46828cc", null ],
-    [ "Id", "db/d36/a28388.html#a85e0e36dbc79f309d7f50b087ebcd166", null ]
+    [ "CastTime", "db/d36/a28388.html#af0bf895b1a5d61974cb63230b786c55e", null ],
+    [ "ID", "db/d36/a28388.html#a41b1059fc4059bd198925861a9414497", null ]
 ];

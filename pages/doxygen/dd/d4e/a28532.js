@@ -1,5 +1,5 @@
 var a28532 =
 [
-    [ "ByteBufferInvalidValueException", "dd/d4e/a28532.html#a6ee22161167faf11555c6e6b15422cd8", null ],
-    [ "~ByteBufferInvalidValueException", "dd/d4e/a28532.html#a30cc1225522916e05abf95e14805d7a3", null ]
+    [ "ByteBufferSourceException", "dd/d4e/a28532.html#ad021dff8a62dfc170ef0233294b707f6", null ],
+    [ "~ByteBufferSourceException", "dd/d4e/a28532.html#afaf57c545141703ffbe696cfbee6de0f", null ]
 ];

@@ -1,13 +1,13 @@
 var a22488 =
 [
-    [ "OPvPCapturePointEP_NPT", "d4/d5a/a22488.html#a2cb0929c3acb81530a0bd7ea57bcc298", null ],
-    [ "ChangeState", "d4/d5a/a22488.html#a9e046ace6129ce67568ed7c15130b617", null ],
-    [ "FillInitialWorldStates", "d4/d5a/a22488.html#add8f3c1b1a1e5600a05a639520b0a1dc", null ],
-    [ "HandlePlayerEnter", "d4/d5a/a22488.html#ace643b7f7bc793934972c61c618045eb", null ],
-    [ "HandlePlayerLeave", "d4/d5a/a22488.html#a950cd355c808f40ca95c0e5a46bac0a2", null ],
-    [ "SendChangePhase", "d4/d5a/a22488.html#aef84a9917d5f40cfff48acb45ffdf0aa", null ],
-    [ "SummonGO", "d4/d5a/a22488.html#a08a54abf3668074b5878c165bd2f8ddd", null ],
-    [ "UpdateTowerState", "d4/d5a/a22488.html#ad8cfefcc567346273914e8039b039835", null ],
-    [ "m_SummonedGOSideId", "d4/d5a/a22488.html#aa034240d169c9ab7276786bb188abc70", null ],
-    [ "m_TowerState", "d4/d5a/a22488.html#a703b68024362d13ceaf9012202b72e7d", null ]
+    [ "OPvPCapturePointEP_EWT", "d4/d5a/a22488.html#a3740f069c46f9d3f0e11d97663bc0104", null ],
+    [ "ChangeState", "d4/d5a/a22488.html#ac00c50b89e1218f87506778096a9d7cd", null ],
+    [ "FillInitialWorldStates", "d4/d5a/a22488.html#a7ce76f4fc8169c42f65267daf987a3b6", null ],
+    [ "HandlePlayerEnter", "d4/d5a/a22488.html#aed78ccf9ad517b4a94431e3355cba1dd", null ],
+    [ "HandlePlayerLeave", "d4/d5a/a22488.html#a2638b24dca375420778845963e307db3", null ],
+    [ "SendChangePhase", "d4/d5a/a22488.html#a6d45df918aea00e9cb85a8940cb5c1c9", null ],
+    [ "SummonSupportUnitAtNorthpassTower", "d4/d5a/a22488.html#ad70a8cc485072cd9af892290584062d8", null ],
+    [ "UpdateTowerState", "d4/d5a/a22488.html#ac0bcdfb9f2aeabc78b72c3cce674c479", null ],
+    [ "m_TowerState", "d4/d5a/a22488.html#aa30e9cc01476eb20b188c7a13a405c3a", null ],
+    [ "m_UnitsSummonedSideId", "d4/d5a/a22488.html#a0319f0d51624df44419976e7abd1b813", null ]
 ];

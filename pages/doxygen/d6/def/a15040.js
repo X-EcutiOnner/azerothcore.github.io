@@ -1,7 +1,6 @@
 var a15040 =
 [
-    [ "boss_rajaxx", "d6/def/a15040.html#afca05f7afabb4c0e181ce3757acb3bcb", null ],
-    [ "JustDied", "d6/def/a15040.html#a9231a20150ed6eae0cbc79c8386f7371", null ],
-    [ "JustEngagedWith", "d6/def/a15040.html#a8dad79921559359b6aa7149641925fe5", null ],
-    [ "UpdateAI", "d6/def/a15040.html#a9b949bea61ceb45ec1b3e452f218c227", null ]
+    [ "FilterTargets", "d6/def/a15040.html#ab0cd088c750e9538e2087f58fdaac20e", null ],
+    [ "PrepareSpellScript", "d6/def/a15040.html#ae252cbce0ebc63eb4e54bedfc88640ad", null ],
+    [ "Register", "d6/def/a15040.html#a3168a3f97ddb38b261a0730405ba27db", null ]
 ];

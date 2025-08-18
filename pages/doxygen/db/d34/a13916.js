@@ -1,7 +1,9 @@
 var a13916 =
 [
-    [ "HandleTriggerSpell", "db/d34/a13916.html#a66b366f4989d99a58b331e56024e4520", null ],
-    [ "PrepareAuraScript", "db/d34/a13916.html#a4b00497e095b5c43571b543252b31e58", null ],
-    [ "Register", "db/d34/a13916.html#abacee7689888bf8c5d21b534a6d71b40", null ],
-    [ "Validate", "db/d34/a13916.html#a6bef0ac760a319deed6f71fee213e885", null ]
+    [ "npc_amanishi_scout", "db/d34/a13916.html#a74bed56c21c184e661f62c30ce6d9140", null ],
+    [ "JustEngagedWith", "db/d34/a13916.html#a5969fadd871094e993c4d3fe0b08054c", null ],
+    [ "Reset", "db/d34/a13916.html#ac527a3a656888f7ac3d13636a0de7aad", null ],
+    [ "ScheduleCombat", "db/d34/a13916.html#acb736dc42c5f9afbd92c97bfa8293606", null ],
+    [ "UpdateAI", "db/d34/a13916.html#a3740a4fde31e1e81edb34dde61403acc", null ],
+    [ "_drumGUID", "db/d34/a13916.html#afd9a1a57c413d5857331ac90665cc1e0", null ]
 ];

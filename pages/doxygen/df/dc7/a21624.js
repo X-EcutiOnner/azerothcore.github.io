@@ -1,6 +1,6 @@
 var a21624 =
 [
-    [ "npc_bloodmage_laurithAI", "d3/df3/a21628.html", "d3/df3/a21628" ],
-    [ "npc_bloodmage_laurith", "df/dc7/a21624.html#a40ab80342ddc86afca3b1bd37b1ca6b5", null ],
-    [ "GetAI", "df/dc7/a21624.html#a5a5151a56de3ad1012d9a795dbfb5bd5", null ]
+    [ "HandleEffect", "df/dc7/a21624.html#a6732d51d5de34b3e737cc785fb2ab43e", null ],
+    [ "PrepareSpellScript", "df/dc7/a21624.html#aec199e9f9651267fac88bd86be326bb4", null ],
+    [ "Register", "df/dc7/a21624.html#a14bd854db86750704c8377d457dea360", null ]
 ];

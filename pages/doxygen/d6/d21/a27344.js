@@ -1,6 +1,5 @@
 var a27344 =
 [
-    [ "go_soulwellAI", "d0/d00/a27348.html", "d0/d00/a27348" ],
-    [ "go_soulwell", "d6/d21/a27344.html#a3747499bd05326ef6f7024c0ee91a4ce", null ],
-    [ "GetAI", "d6/d21/a27344.html#a0c8b8cf09c26ad08c1c6dbb1a0c57861", null ]
+    [ "go_table_theka", "d6/d21/a27344.html#a9e25a1c9313437b533e1d88a2db04a58", null ],
+    [ "OnGossipHello", "d6/d21/a27344.html#ab04480f032ce074daacdc0dcfa37ee12", null ]
 ];

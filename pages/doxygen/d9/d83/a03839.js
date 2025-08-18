@@ -1,6 +1,6 @@
 var a03839 =
 [
-    [ "npc_announcer_toc10", "dd/d91/a16648.html", "dd/d91/a16648" ],
+    [ "npc_announcer_toc10", "d4/d21/a16652.html", "d4/d21/a16652" ],
     [ "MenuTexts", "d9/d83/a03839.html#a5e87c460d493df2d4629af8c1a30fc5a", [
       [ "MSG_TESTED", "d9/d83/a03839.html#a5e87c460d493df2d4629af8c1a30fc5aa462de44eca88c95eb9e412dcabc36185", null ],
       [ "MSG_NEXT_STAGE", "d9/d83/a03839.html#a5e87c460d493df2d4629af8c1a30fc5aafb4b982343fbe7bdd8db85adec53db80", null ],

@@ -1,9 +1,8 @@
 var a13888 =
 [
-    [ "npc_zulaman_hostageAI", "d1/df3/a13888.html#a36a24241dfb0280a26c826ef9f1509dc", null ],
-    [ "JustDied", "d1/df3/a13888.html#af87bdebb039f1da5736408cf3aad6487", null ],
-    [ "JustEngagedWith", "d1/df3/a13888.html#af0aa229973da1a6230a854439658e9ed", null ],
-    [ "UpdateAI", "d1/df3/a13888.html#a2212a1f56cf151e8816d22095ebb7c9c", null ],
-    [ "IsLoot", "d1/df3/a13888.html#a86e65ee76ce382ec26a5b5bfb3fbf2b1", null ],
-    [ "PlayerGUID", "d1/df3/a13888.html#a49f15c5a94d005c56218d00ac6732b82", null ]
+    [ "npc_zulaman_hostageAI", "de/dfe/a13892.html", "de/dfe/a13892" ],
+    [ "npc_zulaman_hostage", "d1/df3/a13888.html#a12f9ad1889cacb60103c1e921c2fa0e9", null ],
+    [ "GetAI", "d1/df3/a13888.html#a0ae144dc154dd028b409c9d2393f890c", null ],
+    [ "OnGossipHello", "d1/df3/a13888.html#a89d68a976f916a4de2196b57ec0026b0", null ],
+    [ "OnGossipSelect", "d1/df3/a13888.html#a114f6fbfab90944fd49babcba4b48a11", null ]
 ];

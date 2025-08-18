@@ -1,6 +1,7 @@
 var a27624 =
 [
-    [ "npc_pet_trainerAI", "d3/d96/a27628.html", "d3/d96/a27628" ],
-    [ "npc_pet_trainer", "d4/d99/a27624.html#ac2279bce52e911b1c339da5e68aa2501", null ],
-    [ "GetAI", "d4/d99/a27624.html#a4ecf9ac0abf43a00dc6bff2d2283eb37", null ]
+    [ "npc_wormholeAI", "d4/d99/a27624.html#a75c28ce9bcbb5ef6fb4213d000d5596a", null ],
+    [ "GetData", "d4/d99/a27624.html#ad4c9f2265f126c7f2b5538bab6b75cb3", null ],
+    [ "InitializeAI", "d4/d99/a27624.html#aa0a903014ec7243036604ffcc67e0a36", null ],
+    [ "_showUnderground", "d4/d99/a27624.html#a6a2fbf623b8fc55cfd48a12e2c515134", null ]
 ];

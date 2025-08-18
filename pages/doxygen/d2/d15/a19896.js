@@ -1,6 +1,5 @@
 var a19896 =
 [
-    [ "npc_freya_wardAI", "d4/dfa/a19900.html", "d4/dfa/a19900" ],
-    [ "npc_freya_ward", "d2/d15/a19896.html#aebaadcc001922c78e8ec43084a827ac9", null ],
-    [ "GetAI", "d2/d15/a19896.html#a90c0e7a0be1717bf1793415b6fcafbed", null ]
+    [ "boss_flame_leviathan_overload_deviceAI", "d2/d15/a19896.html#ab28c1371c20672e717f92fbc3656fb99", null ],
+    [ "OnSpellClick", "d2/d15/a19896.html#af432be27e1b91ecf5a5a53c7b6add39e", null ]
 ];

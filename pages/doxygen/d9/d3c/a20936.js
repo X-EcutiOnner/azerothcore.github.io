@@ -1,8 +1,10 @@
 var a20936 =
 [
-    [ "OnApply", "d9/d3c/a20936.html#a3046fa845b6763c5602ca7b50aefd68f", null ],
-    [ "OnRemove", "d9/d3c/a20936.html#ad3f482f9fff9798cc6e7a06183344742", null ],
-    [ "PrepareAuraScript", "d9/d3c/a20936.html#ab830a7a6c5ed432f8718071345c99b57", null ],
-    [ "Register", "d9/d3c/a20936.html#ac83a8d085d02feec64b6012cacb60dce", null ],
-    [ "Validate", "d9/d3c/a20936.html#a69a3e0a6c06e3c4085bf0ad25e40edf9", null ]
+    [ "boss_yoggsaron_voiceAI", "d9/d3c/a20936.html#ac78b27f8d4df433e1fad2ae550a4da44", null ],
+    [ "Reset", "d9/d3c/a20936.html#ae5561244ad7387a3614bb6f1e23a7001", null ],
+    [ "SpellHitTarget", "d9/d3c/a20936.html#a0cc39577b4b70eb1be16f9c8b5cb5c72", null ],
+    [ "UpdateAI", "d9/d3c/a20936.html#a3c8458c25f7389f5fb5218177590a4c6", null ],
+    [ "_current", "d9/d3c/a20936.html#ad94ddde194a32b380ba1d309f1ece14a", null ],
+    [ "_targets", "d9/d3c/a20936.html#ab6132214a2249fbb5de8a5115b114381", null ],
+    [ "events", "d9/d3c/a20936.html#ac0c6aa9efe9d9e80b29fae8c190962dc", null ]
 ];

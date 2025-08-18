@@ -1,6 +1,6 @@
 var a02630 =
 [
-    [ "npc_taxi", "db/df7/a27508.html", "db/df7/a27508" ],
+    [ "npc_taxi", "dd/d65/a27512.html", "dd/d65/a27512" ],
     [ "Misc", "d0/d3f/a02630.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "DATA_SKILLPOINT_MIN", "de/d19/a03311.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3093ddfcacf2742f4fb344843e2e7ce6", null ],
       [ "NEFARIUS_PATH_2", "df/d62/a03257.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],

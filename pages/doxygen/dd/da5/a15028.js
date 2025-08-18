@@ -1,12 +1,9 @@
 var a15028 =
 [
-    [ "npc_anubisath_guardian", "dd/da5/a15028.html#a7db1771f9083e14c177e37d7bf6690c5", null ],
-    [ "DamageTaken", "dd/da5/a15028.html#a2b7f307b5af7c50c86a68c4834f08ed4", null ],
-    [ "JustDied", "dd/da5/a15028.html#a9f40c43ded16ad5934a5d5499f16ca76", null ],
-    [ "JustEngagedWith", "dd/da5/a15028.html#a16d1e70f0ca0fcef972ac45f82e885e6", null ],
-    [ "Reset", "dd/da5/a15028.html#af87cc86141964c48f9c57ed5bade36a5", null ],
-    [ "UpdateAI", "dd/da5/a15028.html#a9a9c805c92a3e8e96914d01accb01051", null ],
-    [ "_enraged", "dd/da5/a15028.html#a69b3b2cee4c84cd6dccd3465b555ad12", null ],
-    [ "_scheduler", "dd/da5/a15028.html#ad44455c43d53426a152547d5b0770bbe", null ],
-    [ "_spells", "dd/da5/a15028.html#aee75f952ed14f5f6fab1f5117f6b8b9e", null ]
+    [ "go_ossirian_crystalAI", "dd/da5/a15028.html#ae4d3c0c2cff08bd9fe86cbfee2cbb980", null ],
+    [ "DoAction", "dd/da5/a15028.html#a581436335d190466520c07fde56ad441", null ],
+    [ "GossipHello", "dd/da5/a15028.html#ad1aff0e18d8f4ef7fe5d4cfa7ef17875", null ],
+    [ "SetGUID", "dd/da5/a15028.html#a9c983aa02285dbebc545b4056191200c", null ],
+    [ "_instance", "dd/da5/a15028.html#aa2c83296cbe8d49de7bc7262b792e8b3", null ],
+    [ "_triggerGUID", "dd/da5/a15028.html#abd96d9b4f2c5f41e4a85606b22e1b0cf", null ]
 ];

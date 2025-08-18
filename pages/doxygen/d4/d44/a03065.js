@@ -1,8 +1,8 @@
 var a03065 =
 [
-    [ "SHostageInfo", "d4/dd9/a13868.html", "d4/dd9/a13868" ],
-    [ "instance_zulaman", "d6/d74/a13872.html", "d6/d74/a13872" ],
-    [ "instance_zulaman::instance_zulaman_InstanceMapScript", "d1/dd2/a13876.html", "d1/dd2/a13876" ],
+    [ "SHostageInfo", "d6/d74/a13872.html", "d6/d74/a13872" ],
+    [ "instance_zulaman", "d1/dd2/a13876.html", "d1/dd2/a13876" ],
+    [ "instance_zulaman::instance_zulaman_InstanceMapScript", "de/d8d/a13880.html", "de/d8d/a13880" ],
     [ "Misc", "d4/d44/a03065.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "DATA_SKILLPOINT_MIN", "de/d19/a03311.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3093ddfcacf2742f4fb344843e2e7ce6", null ],
       [ "NEFARIUS_PATH_2", "df/d62/a03257.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],

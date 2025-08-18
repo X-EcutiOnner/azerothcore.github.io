@@ -1,13 +1,6 @@
 var a21144 =
 [
-    [ "npc_ferocious_rhinoAI", "da/d9c/a21144.html#ad70d0aeba4b73330c5087bc84a533389", null ],
-    [ "DoAction", "da/d9c/a21144.html#a10395930fed95fb7809a0b5ffe224c4d", null ],
-    [ "JustDied", "da/d9c/a21144.html#a2b1af0402dc1b4940534d2e60d7ef33e", null ],
-    [ "JustEngagedWith", "da/d9c/a21144.html#aab35078fe4518b6647f98e316d02898a", null ],
-    [ "JustReachedHome", "da/d9c/a21144.html#ab8105d6c8c70037c208c83c13c35242d", null ],
-    [ "MoveInLineOfSight", "da/d9c/a21144.html#a97e32d32a692f223b96746f3ef1086c5", null ],
-    [ "Reset", "da/d9c/a21144.html#a6d317407c2de2f954b5dd2a6db137304", null ],
-    [ "UpdateAI", "da/d9c/a21144.html#a09b80e739e4df6e751c9c2846f3fb999", null ],
-    [ "events", "da/d9c/a21144.html#af23061de7d8566c7435c2c64c53dff89", null ],
-    [ "m_pInstance", "da/d9c/a21144.html#a97e00db40792c559dd06327c9960abe4", null ]
+    [ "npc_ferocious_rhinoAI", "d1/dbe/a21148.html", "d1/dbe/a21148" ],
+    [ "npc_ferocious_rhino", "da/d9c/a21144.html#a480c1d0c24cdbe7cd3c47332ee925466", null ],
+    [ "GetAI", "da/d9c/a21144.html#aa5c3cba6b1ed6cffaac578c5449b9b4e", null ]
 ];

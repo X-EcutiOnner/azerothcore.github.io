@@ -1,10 +1,6 @@
 var a16128 =
 [
-    [ "spell_halion_combustion_consumption_aura", "dc/d8e/a16128.html#a8b67aee76c7288748757e6bec7f4cb78", null ],
-    [ "AddMarkStack", "dc/d8e/a16128.html#a337776c42bd6c42ecdffb508808ed070", null ],
-    [ "OnApply", "dc/d8e/a16128.html#afeea3e5026e6d8472440c9cffac9bce9", null ],
-    [ "OnRemove", "dc/d8e/a16128.html#a3959dbe8bbdf2d3953daf14072614708", null ],
-    [ "PrepareAuraScript", "dc/d8e/a16128.html#a334f2211429dde989b6beb6c10a71464", null ],
-    [ "Register", "dc/d8e/a16128.html#affc66a03e9d1eaef30a54b8a044734b8", null ],
-    [ "_markSpell", "dc/d8e/a16128.html#a8236d9d50f267a12216d90f8041da439", null ]
+    [ "HandleForceCast", "dc/d8e/a16128.html#a975b69649aba9de341f4e52c82a3c111", null ],
+    [ "PrepareSpellScript", "dc/d8e/a16128.html#a2dde8402cc4e8552faf3d8a1f4c6e60e", null ],
+    [ "Register", "dc/d8e/a16128.html#a794a59e5fd3bda75f30d559f422895b5", null ]
 ];

@@ -1,6 +1,6 @@
 var a24920 =
 [
-    [ "HandleScriptEffect", "db/d6b/a24920.html#a142d6a512ba6e937985a9c21725d8d33", null ],
-    [ "PrepareSpellScript", "db/d6b/a24920.html#af46fd8adaf8fef92984376ad6aa4f9a2", null ],
-    [ "Register", "db/d6b/a24920.html#a9cbf1c0678bd0775a452aa3270dff6a0", null ]
+    [ "OnPeriodic", "db/d6b/a24920.html#a3bcef6bd4501489320ef1242a66c50e8", null ],
+    [ "PrepareAuraScript", "db/d6b/a24920.html#ab18f839ab70cc61e52c5e9ddb4847140", null ],
+    [ "Register", "db/d6b/a24920.html#afbc707f30b7db0329f24b9ab8e8134e0", null ]
 ];

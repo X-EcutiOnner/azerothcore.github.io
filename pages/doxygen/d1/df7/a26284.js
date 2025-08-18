@@ -1,6 +1,7 @@
 var a26284 =
 [
-    [ "HandleScriptEffect", "d1/df7/a26284.html#a8b60ae77f13045a582548fe5d1186d54", null ],
-    [ "PrepareSpellScript", "d1/df7/a26284.html#ad68619783c4a1aad5a24826bf5d89858", null ],
-    [ "Register", "d1/df7/a26284.html#a929c49d6dd30b6a0dedfbc23c877eb36", null ]
+    [ "if", "d1/df7/a26284.html#a2b5a85e480bcd0ef5074d3bcf7eaf5cb", null ],
+    [ "PrepareAuraScript", "d1/df7/a26284.html#aa31810077c241e77193e378cb297b7de", null ],
+    [ "Register", "d1/df7/a26284.html#a7b8f537719a4155d1cd95a6f49cf6a3a", null ],
+    [ "AuraEffectHandleModes", "d1/df7/a26284.html#a3113d8e7ec296fdf13c8f386ae74e0f3", null ]
 ];

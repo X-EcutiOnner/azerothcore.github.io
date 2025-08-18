@@ -1,6 +1,25 @@
 var a19548 =
 [
-    [ "npc_molten_golemAI", "d8/db1/a19552.html", "d8/db1/a19552" ],
-    [ "npc_molten_golem", "db/db7/a19548.html#a63e16216a59b50524632b49599bd3bd1", null ],
-    [ "GetAI", "db/db7/a19548.html#a22a723039267cb0901b78c6064a88d0c", null ]
+    [ "boss_volkhanAI", "db/db7/a19548.html#afbab5656887a3983b70bf21452c71f0e", null ],
+    [ "DoAction", "db/db7/a19548.html#a94dd9afca122baa34b6ee5a63e8d6330", null ],
+    [ "GetNextPos", "db/db7/a19548.html#ab333773a0f12ec5d4981669ef0e747b3", null ],
+    [ "GoToAnvil", "db/db7/a19548.html#aea7d66919650969e6d1edfebd976eea6", null ],
+    [ "JustDied", "db/db7/a19548.html#ae6e1bf5e0d86b6999b0357d022e80154", null ],
+    [ "JustEngagedWith", "db/db7/a19548.html#a5f4eaa7215fde5dec0106975981e2276", null ],
+    [ "JustSummoned", "db/db7/a19548.html#a648f8f7b9bcec6d677dbea1888a59c83", null ],
+    [ "KilledUnit", "db/db7/a19548.html#aa227eecb791e12559015ee07a398d251", null ],
+    [ "MovementInform", "db/db7/a19548.html#abe35a1a132a9f2ce22cedf1f10b503d8", null ],
+    [ "Reset", "db/db7/a19548.html#a5e92fd793b6eedc8d1102b89aabecc68", null ],
+    [ "ScheduleEvents", "db/db7/a19548.html#afc94fccc9d761714a4cc8e1b3fceaf13", null ],
+    [ "SpellHitTarget", "db/db7/a19548.html#a4704b32d29a4465fcc2a3f638deb37a9", null ],
+    [ "UpdateAI", "db/db7/a19548.html#a927ab90fe3e1a4951052934d77094530", null ],
+    [ "events", "db/db7/a19548.html#a3305529d3a25a929c4c6c5128773a4b6", null ],
+    [ "HealthCheck", "db/db7/a19548.html#a14c65e87caf2f0e815955946357aebf2", null ],
+    [ "m_pInstance", "db/db7/a19548.html#ab128bbb66f0311b10e2589c5b00ba6bb", null ],
+    [ "PointID", "db/db7/a19548.html#acfe0e8fabd539e3d3a9953db94824e51", null ],
+    [ "ShatteredCount", "db/db7/a19548.html#a5ee620ae4a5570bef0746eb3a57d96b7", null ],
+    [ "summons", "db/db7/a19548.html#a86be695fda3975efa15f2ce2373ec158", null ],
+    [ "x", "db/db7/a19548.html#a76e407ff3cd8194c9ebc8845a579055f", null ],
+    [ "y", "db/db7/a19548.html#ab5a5b9979882dd06a0fa1c0e86a768dc", null ],
+    [ "z", "db/db7/a19548.html#a3a3617b13a66c38695551a5814868f40", null ]
 ];

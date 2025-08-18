@@ -1,7 +1,7 @@
 var a03146 =
 [
-    [ "npc_maredis_firestar", "d2/d7b/a13516.html", "d2/d7b/a13516" ],
-    [ "npc_maredis_firestar::npc_maredis_firestarAI", "de/daf/a13520.html", "de/daf/a13520" ],
+    [ "npc_maredis_firestar", "de/daf/a13520.html", "de/daf/a13520" ],
+    [ "npc_maredis_firestar::npc_maredis_firestarAI", "d4/d16/a13524.html", "d4/d16/a13524" ],
     [ "MaredisFirestar", "dc/df0/a03146.html#a85e4eeb368c070d1186f1c7c07ab1a42", [
       [ "ITEM_LIBRAM_OF_RUMINATION", "dc/df0/a03146.html#a85e4eeb368c070d1186f1c7c07ab1a42a677909b58ffc52e1a197d376f77a711e", null ],
       [ "ITEM_LIBRAM_OF_CONSTITUTION", "dc/df0/a03146.html#a85e4eeb368c070d1186f1c7c07ab1a42a160f2d52664367620f0ef85b255b3277", null ],

@@ -1,6 +1,12 @@
 var a14876 =
 [
-    [ "instance_dire_maul_InstanceMapScript", "dc/dda/a14880.html", "dc/dda/a14880" ],
-    [ "instance_dire_maul", "da/d40/a14876.html#a54ac2c7095a99481c7efbe4237533fac", null ],
-    [ "GetInstanceScript", "da/d40/a14876.html#a7fc2511e0c9475512286006f0bbaed0b", null ]
+    [ "boss_isalien", "da/d40/a14876.html#a736a25e60ae367a45c7d6451be96126d", null ],
+    [ "DamageTaken", "da/d40/a14876.html#a95d461e099193b5e2c1363acb1b5939a", null ],
+    [ "JustDied", "da/d40/a14876.html#a6544b5eb398eb2fc9cae05709e4a5cc1", null ],
+    [ "JustEngagedWith", "da/d40/a14876.html#ad6714da515db77c7299ee80b3268433e", null ],
+    [ "JustSummoned", "da/d40/a14876.html#a84a94a1a8889b48cd02d5cb6a205a487", null ],
+    [ "Reset", "da/d40/a14876.html#a4995c18e2baa62d05717617d0b1e3529", null ],
+    [ "UpdateAI", "da/d40/a14876.html#aa067bea34557a4b2fe840ef305852bc0", null ],
+    [ "_phase", "da/d40/a14876.html#a954bbd32948e6c416197199d96142056", null ],
+    [ "_scheduler", "da/d40/a14876.html#a8eb56a907e3395b9e81588aab7c07ca6", null ]
 ];

@@ -1,6 +1,7 @@
 var a23764 =
 [
-    [ "instance_the_botanica_InstanceMapScript", "d4/d76/a23768.html", "d4/d76/a23768" ],
-    [ "instance_the_botanica", "d0/d4f/a23764.html#a8f8acda65f37e45e2439707f3979cf7c", null ],
-    [ "GetInstanceScript", "d0/d4f/a23764.html#a335f671443ca0fb9db5956cefdf37182", null ]
+    [ "boss_warp_splinter", "d0/d4f/a23764.html#a1d0e8720baaadd1f6f4f6026597c9f63", null ],
+    [ "JustDied", "d0/d4f/a23764.html#a7e7850cf545e57f9fcd8d1aff42f8eb3", null ],
+    [ "JustEngagedWith", "d0/d4f/a23764.html#afc05b2f366e518d5e9ea3fbbfcba05cc", null ],
+    [ "KilledUnit", "d0/d4f/a23764.html#a0e974eb2bfae50383040fe9c7ccf74c1", null ]
 ];

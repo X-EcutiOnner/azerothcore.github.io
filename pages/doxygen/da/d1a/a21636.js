@@ -1,7 +1,6 @@
 var a21636 =
 [
-    [ "npc_thassarianAI", "da/d1a/a21636.html#a92e873dc3aa97f81919225ce75a5f894", null ],
-    [ "Reset", "da/d1a/a21636.html#a8611ef17700c739dbd5e7a70660f1379", null ],
-    [ "UpdateAI", "da/d1a/a21636.html#ad09a3a063d716bc43e23b5aad5e46a7b", null ],
-    [ "_events", "da/d1a/a21636.html#aaecb5a402e4ffca1e819303dbb94f5b5", null ]
+    [ "npc_thassarianAI", "d0/d18/a21640.html", "d0/d18/a21640" ],
+    [ "npc_thassarian", "da/d1a/a21636.html#a82bde4555821f84a6d07a69669528313", null ],
+    [ "GetAI", "da/d1a/a21636.html#af4bbf5f6a63c3765355d6b70c2bda55b", null ]
 ];

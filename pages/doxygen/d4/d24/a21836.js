@@ -1,6 +1,6 @@
 var a21836 =
 [
-    [ "npc_q24545_wretched_ghoulAI", "db/d4b/a21840.html", "db/d4b/a21840" ],
-    [ "npc_q24545_wretched_ghoul", "d4/d24/a21836.html#a3842b5bd89c911d29d561307113fb032", null ],
-    [ "GetAI", "d4/d24/a21836.html#ada973de0ff7295f0441cbd6b6aaca9ac", null ]
+    [ "SACDeactivateEvent", "d4/d24/a21836.html#a14f1db2f3bf7e82d0e5c5b5135d46cf9", null ],
+    [ "Execute", "d4/d24/a21836.html#a12179c55d1999b3cd0cfc5d51d039a31", null ],
+    [ "_owner", "d4/d24/a21836.html#acc87b2f689bf2e6a3f19440dceb6ea6d", null ]
 ];

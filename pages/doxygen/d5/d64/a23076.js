@@ -1,6 +1,6 @@
 var a23076 =
 [
-    [ "HandleProc", "d5/d64/a23076.html#a93dfb9e0dac89cb66f340c41dbc526bb", null ],
-    [ "PrepareAuraScript", "d5/d64/a23076.html#a94b244ef26355d53c874aec6d26f3a53", null ],
-    [ "Register", "d5/d64/a23076.html#a9499d88802213ceb877e19d1651324f2", null ]
+    [ "HandleScriptEffect", "d5/d64/a23076.html#a2b46490b70bf93effb7379686e648618", null ],
+    [ "PrepareSpellScript", "d5/d64/a23076.html#a5030d071372ef12663f6a75be637476e", null ],
+    [ "Register", "d5/d64/a23076.html#aa15afaa9990f29a9e71c1d6395d5de12", null ]
 ];

@@ -1,6 +1,6 @@
 var a26760 =
 [
-    [ "HandleAuraApply", "df/d26/a26760.html#a19d8103126a6446fb5ade53d2b5d0ddb", null ],
-    [ "PrepareAuraScript", "df/d26/a26760.html#a7596065e5ffcacf099a5984f5d940c11", null ],
-    [ "Register", "df/d26/a26760.html#a8efa76b28dddad68fee132f37791f231", null ]
+    [ "HandleSchoolDMG", "df/d26/a26760.html#a8f3ff0a48d5de4dcd33831400de0ba28", null ],
+    [ "PrepareSpellScript", "df/d26/a26760.html#a42bb397aa53fb43ba1b1799a7f162d9b", null ],
+    [ "Register", "df/d26/a26760.html#ac1271959fe8de3c11403b1e76acdbf15", null ]
 ];

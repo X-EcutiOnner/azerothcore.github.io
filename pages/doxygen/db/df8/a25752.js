@@ -1,8 +1,9 @@
 var a25752 =
 [
-    [ "OnRemove", "db/df8/a25752.html#a645e869079e711a87f1a957b42a35e98", null ],
-    [ "OnStackChange", "db/df8/a25752.html#adea8a4a7140e2f9fd4a44ef2a7b4d85b", null ],
-    [ "PrepareAuraScript", "db/df8/a25752.html#a5f9e9d07879705917e1cd261808f0a8f", null ],
-    [ "Register", "db/df8/a25752.html#ac86068a892255e38244c487a7456cd9f", null ],
-    [ "Validate", "db/df8/a25752.html#a74cb62725d939000a1c4ab32b4f4335f", null ]
+    [ "CheckProc", "db/df8/a25752.html#a185159a5c83e8c65ef5b82f49a89dd8a", null ],
+    [ "HandleProc", "db/df8/a25752.html#a67db21e0293f336a31bf518c0fac85d1", null ],
+    [ "OnRemove", "db/df8/a25752.html#a1b51483738d5d3b73f50a78ef9fc1c57", null ],
+    [ "PrepareAuraScript", "db/df8/a25752.html#a3e549b8764c0f8efc5d110543c9944c7", null ],
+    [ "Register", "db/df8/a25752.html#abc4b88f104253b2b141ab0e3e22ee338", null ],
+    [ "Validate", "db/df8/a25752.html#a0b5b97081b7c897d451ef70c810bd7f1", null ]
 ];

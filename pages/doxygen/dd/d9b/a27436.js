@@ -1,6 +1,8 @@
 var a27436 =
 [
-    [ "npc_innkeeper", "dd/d9b/a27436.html#a006f27d898ead8827d8b98d8b93d430d", null ],
-    [ "OnGossipHello", "dd/d9b/a27436.html#ae65c5cd7d3e270b2e50f80c0e12a72ff", null ],
-    [ "OnGossipSelect", "dd/d9b/a27436.html#ab6cf511f5b032050336a77d1e4598dda", null ]
+    [ "trigger_periodicAI", "dd/d9b/a27436.html#a696d62fed28de9c67827dad111cf320b", null ],
+    [ "UpdateAI", "dd/d9b/a27436.html#aed31d60765eff7dd11790714e28e729e", null ],
+    [ "interval", "dd/d9b/a27436.html#a6e9dd149ce11dcc1c2adf039c73e8023", null ],
+    [ "spell", "dd/d9b/a27436.html#a618b707155edf6d9179bbedc0f0ecf1e", null ],
+    [ "timer", "dd/d9b/a27436.html#ac434f6a60065ae3b1adcb11d58af4299", null ]
 ];

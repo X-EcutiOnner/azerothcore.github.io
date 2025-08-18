@@ -1,6 +1,5 @@
 var a19828 =
 [
-    [ "boss_auriayaAI", "de/da5/a19832.html", "de/da5/a19832" ],
-    [ "boss_auriaya", "de/da7/a19828.html#a8acecf02a63e846d1a46633a6ade6083", null ],
-    [ "GetAI", "de/da7/a19828.html#a09c7cd124672eb12ec349dbbbd3c87ef", null ]
+    [ "achievement_cant_do_that_while_stunned", "de/da7/a19828.html#a4d474b36f61631688ea723d2e4033574", null ],
+    [ "OnCheck", "de/da7/a19828.html#a0b108bdcab0bc412975e61247f226bf8", null ]
 ];

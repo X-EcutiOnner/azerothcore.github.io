@@ -1,6 +1,5 @@
 var a20540 =
 [
-    [ "boss_razorscaleAI", "d9/df8/a20544.html", "d9/df8/a20544" ],
-    [ "boss_razorscale", "db/d05/a20540.html#ad8fe81f1b553414df3fa07c646029065", null ],
-    [ "GetAI", "db/d05/a20540.html#a01cf25d901a5eddae9ef3ea291020ba1", null ]
+    [ "achievement_mimiron_set_up_us_the_bomb_13", "db/d05/a20540.html#a74b0cafbc4be4261c8f8f2af3671cbd9", null ],
+    [ "OnCheck", "db/d05/a20540.html#ac91196d094f159932ad871ffa9c0f405", null ]
 ];

@@ -1,6 +1,5 @@
 var a17220 =
 [
-    [ "boss_moorabiAI", "dc/d27/a17224.html", "dc/d27/a17224" ],
-    [ "boss_moorabi", "d1/d3f/a17220.html#a94e14b2a9b06143985f785e781d1c302", null ],
-    [ "GetAI", "d1/d3f/a17220.html#ae90c7dd46fb1335a525c3c3e27040420", null ]
+    [ "achievement_share_the_love", "d1/d3f/a17220.html#a3eaa89eaa356b0e2f8b5c688439baf9c", null ],
+    [ "OnCheck", "d1/d3f/a17220.html#a9d6b6d19611d1482111692de9f2b1cc8", null ]
 ];

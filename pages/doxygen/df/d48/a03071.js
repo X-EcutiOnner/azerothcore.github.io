@@ -1,6 +1,6 @@
 var a03071 =
 [
-    [ "boss_nalorakk", "db/dde/a13840.html", "db/dde/a13840" ],
+    [ "boss_nalorakk", "df/de6/a13844.html", "df/de6/a13844" ],
     [ "NalorakkGroups", "df/d48/a03071.html#a2b9b56f8ba96d26553d016ff45e7c8e2", [
       [ "GROUP_CHECK_DEAD", "df/d48/a03071.html#a2b9b56f8ba96d26553d016ff45e7c8e2af5019321f37c2840c6500d4024e0283f", null ],
       [ "GROUP_CHECK_EVADE", "df/d48/a03071.html#a2b9b56f8ba96d26553d016ff45e7c8e2a087914d7c454fb26a10d35f7e87c34cf", null ],

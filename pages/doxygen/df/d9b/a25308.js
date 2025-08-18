@@ -1,7 +1,5 @@
 var a25308 =
 [
-    [ "HandleScript", "df/d9b/a25308.html#a27e2575e538732ac76add53f2f8f6832", null ],
-    [ "PrepareSpellScript", "df/d9b/a25308.html#ad7c98be6cca23fb1484a6b77bcc7bc9d", null ],
-    [ "Register", "df/d9b/a25308.html#a4ee74f6d8a61a8ba38ece33176c18f84", null ],
-    [ "Validate", "df/d9b/a25308.html#aef9eef1819652e0fce1cd4b3ba9c387c", null ]
+    [ "PrepareSpellScript", "df/d9b/a25308.html#a5e100554f868649d4edea011fe767b8b", null ],
+    [ "Register", "df/d9b/a25308.html#a0ffb1cb313060770227621edb16c3a0d", null ]
 ];

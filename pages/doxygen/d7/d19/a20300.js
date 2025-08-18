@@ -1,5 +1,5 @@
 var a20300 =
 [
-    [ "achievement_i_could_say_that_this_cache_was_rare", "d7/d19/a20300.html#a8ec1949d92f21fe57f967e510453da3e", null ],
-    [ "OnCheck", "d7/d19/a20300.html#af68ad314c9b7be57964ca9baa8015bc9", null ]
+    [ "achievement_getting_cold_in_here", "d7/d19/a20300.html#a57fe7262a09036ffa88e985cb7e2f123", null ],
+    [ "OnCheck", "d7/d19/a20300.html#aeafd382d378381f754da6ee04d382276", null ]
 ];

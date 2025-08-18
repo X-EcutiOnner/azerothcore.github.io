@@ -1,8 +1,7 @@
 var a24816 =
 [
-    [ "HandleSchoolDMG", "da/d31/a24816.html#ab273304fdbeea8768622c3e6b222aaf2", null ],
-    [ "HandleScriptEffect", "da/d31/a24816.html#a06f9cf29387b49f3e5950661173c77eb", null ],
-    [ "PrepareSpellScript", "da/d31/a24816.html#ac1a2b89eda37ed4e6c5946a93e7a58a2", null ],
-    [ "Register", "da/d31/a24816.html#a9bdbf7578509976d482a26869e9068aa", null ],
-    [ "Validate", "da/d31/a24816.html#a20a7b3a25711a90ab5f0e14991112ea0", null ]
+    [ "if", "da/d31/a24816.html#a6b9c0d513b24e9a5c0eef8307b2eb3a8", null ],
+    [ "PrepareAuraScript", "da/d31/a24816.html#a01d974333043452a37ec3124d23b49f2", null ],
+    [ "Register", "da/d31/a24816.html#aeb6c695819e894aad8b210a237e6d315", null ],
+    [ "AuraEffectHandleModes", "da/d31/a24816.html#a9b235517305f9b2fcf2d31eb3a4edbd2", null ]
 ];

@@ -1,6 +1,5 @@
 var a21168 =
 [
-    [ "boss_skadiAI", "d3/d71/a21172.html", "d3/d71/a21172" ],
-    [ "boss_skadi", "db/d54/a21168.html#a124c1c1de7ba232b3256a65547370464", null ],
-    [ "GetAI", "db/d54/a21168.html#a4b66199169442af5ec6542be71c19033", null ]
+    [ "go_palehoof_sphere", "db/d54/a21168.html#a9e31fe7531980a5f75af95e24cbc272d", null ],
+    [ "OnGossipHello", "db/d54/a21168.html#ad939fd46f8bdf32d4e158f32f2bcd8da", null ]
 ];

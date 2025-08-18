@@ -1,8 +1,7 @@
 var a26904 =
 [
-    [ "CheckProc", "d7/d05/a26904.html#a8a61fbd855294e6218cfc0e2dd3706c9", null ],
-    [ "OnProc", "d7/d05/a26904.html#a9217135a55d6612bf1d36b63ac09e7fb", null ],
-    [ "PrepareAuraScript", "d7/d05/a26904.html#a8bf573bb900773d4669708536b0b8011", null ],
-    [ "Register", "d7/d05/a26904.html#ae8ddcb6329088f904cbae3292ff92023", null ],
-    [ "Validate", "d7/d05/a26904.html#a918c9334b7f20710c0d6448a33c94601", null ]
+    [ "HandleApplyAura", "d7/d05/a26904.html#ae364ff4048a2f59eadecd6934c7a0e13", null ],
+    [ "PrepareSpellScript", "d7/d05/a26904.html#adf09900347264bc341884092ea0fee40", null ],
+    [ "Register", "d7/d05/a26904.html#ac56484d4048817a164963e519a97d137", null ],
+    [ "Validate", "d7/d05/a26904.html#ac028c0faf659fb74b2ffa5f85f58f8d1", null ]
 ];

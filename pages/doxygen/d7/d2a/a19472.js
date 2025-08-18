@@ -1,6 +1,6 @@
 var a19472 =
 [
-    [ "HandlePeriodic", "d7/d2a/a19472.html#a08717e9e8e974fcd7051c45fd1d26893", null ],
-    [ "PrepareAuraScript", "d7/d2a/a19472.html#abf7b2d81ee81ff27388678e9a5433eac", null ],
-    [ "Register", "d7/d2a/a19472.html#ac98109fe8d9192ae97e4aa5dc10463cf", null ]
+    [ "PrepareSpellScript", "d7/d2a/a19472.html#a65c3b2c9a416b7d1bbd3c14057e5f8fc", null ],
+    [ "Register", "d7/d2a/a19472.html#ad8470ed0d09c2b7e79fa4ecb1867e9bf", null ],
+    [ "SetDest", "d7/d2a/a19472.html#a24341aae14ed77101d4c31f2fbe11463", null ]
 ];

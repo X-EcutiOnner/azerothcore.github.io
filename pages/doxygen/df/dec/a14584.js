@@ -1,6 +1,6 @@
 var a14584 =
 [
-    [ "instance_blackfathom_deeps_InstanceMapScript", "d9/d64/a14588.html", "d9/d64/a14588" ],
-    [ "instance_blackfathom_deeps", "df/dec/a14584.html#a4600a7e6191582c1bee684989a970e0f", null ],
-    [ "GetInstanceScript", "df/dec/a14584.html#a62cdab4f3118ab030b4ef55243690f73", null ]
+    [ "HandleScriptEffect", "df/dec/a14584.html#a2acaaf3716237f147429cb07779ae49e", null ],
+    [ "PrepareSpellScript", "df/dec/a14584.html#a55df717ede47b17a32ae33ecd64617cd", null ],
+    [ "Register", "df/dec/a14584.html#ac515af62f7e42cafecc4afdf7ba15ddf", null ]
 ];

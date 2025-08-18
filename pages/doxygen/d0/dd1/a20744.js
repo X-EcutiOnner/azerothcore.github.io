@@ -1,9 +1,6 @@
 var a20744 =
 [
-    [ "npc_xt002_pummellerAI", "d0/dd1/a20744.html#a2942c05c93036c2e02b9a72c784441b1", null ],
-    [ "Reset", "d0/dd1/a20744.html#a6542fb3e585f100f06f6be14a1346306", null ],
-    [ "UpdateAI", "d0/dd1/a20744.html#a959990310303ff2102f1c03852b4ab8e", null ],
-    [ "_arcingSmashTimer", "d0/dd1/a20744.html#a830fda66756dc3f34a530939116e7556", null ],
-    [ "_trampleTimer", "d0/dd1/a20744.html#ae5e450601861f83b20419405bb92ef6d", null ],
-    [ "_uppercutTimer", "d0/dd1/a20744.html#a5a1bdb380438070effc091ec37db6aec", null ]
+    [ "npc_xt002_pummellerAI", "d2/d9b/a20748.html", "d2/d9b/a20748" ],
+    [ "npc_xt002_pummeller", "d0/dd1/a20744.html#af620e31a231ca8fb812324521bad4673", null ],
+    [ "GetAI", "d0/dd1/a20744.html#a9ec4e452a3763c3d03e581a17e5d7efe", null ]
 ];

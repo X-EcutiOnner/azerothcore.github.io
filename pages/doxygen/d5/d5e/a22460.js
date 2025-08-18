@@ -1,6 +1,6 @@
 var a22460 =
 [
-    [ "npc_released_offspring_harkoaAI", "d5/d5e/a22460.html#ab1002f002987b6ea2366129afd48d65c", null ],
-    [ "MovementInform", "d5/d5e/a22460.html#a56d52be3fdbc2e4176efe09ba58f55c7", null ],
-    [ "Reset", "d5/d5e/a22460.html#a3ddc30ce39acef3bb5e6f8400a084393", null ]
+    [ "npc_released_offspring_harkoaAI", "d1/df4/a22464.html", "d1/df4/a22464" ],
+    [ "npc_released_offspring_harkoa", "d5/d5e/a22460.html#a10f583320e3b617cf2b327cfb6fed6f5", null ],
+    [ "GetAI", "d5/d5e/a22460.html#ae3d2a02c496be1b2606fce596625d12e", null ]
 ];

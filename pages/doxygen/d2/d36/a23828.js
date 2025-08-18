@@ -1,5 +1,6 @@
 var a23828 =
 [
-    [ "npc_telonicus", "d2/d36/a23828.html#af8ba6be2d39463725bbbaf7770319a93", null ],
-    [ "ScheduleEvents", "d2/d36/a23828.html#a49501a607aeb901aa99e94d9dd0e161b", null ]
+    [ "npc_capernian", "d2/d36/a23828.html#a0acb568664c777797eeb7104f454699d", null ],
+    [ "AttackStart", "d2/d36/a23828.html#a81e89eacbae30a1229fda5e9fe924e2b", null ],
+    [ "ScheduleEvents", "d2/d36/a23828.html#a6bd26f5584a1c960b84b574abd723ad1", null ]
 ];

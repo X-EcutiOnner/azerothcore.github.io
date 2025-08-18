@@ -1,6 +1,9 @@
 var a24024 =
 [
-    [ "npc_ancestral_wolfAI", "d4/d39/a24028.html", "d4/d39/a24028" ],
-    [ "npc_ancestral_wolf", "df/da4/a24024.html#a7cadf2848a086db63792f8068ee9463d", null ],
-    [ "GetAI", "df/da4/a24024.html#a201255a64d4e742ba8b118b4f2ec5cd5", null ]
+    [ "npc_aeranasAI", "df/da4/a24024.html#a2142cebc84e64919fa5c2ef630453282", null ],
+    [ "Reset", "df/da4/a24024.html#a2c1bbe079c065745782adfa13b030515", null ],
+    [ "UpdateAI", "df/da4/a24024.html#ae192a3b38c0ec65cddfce3b95d15555a", null ],
+    [ "envelopingWinds_Timer", "df/da4/a24024.html#a566b5d648abe630efc191f9d6d4938a2", null ],
+    [ "faction_Timer", "df/da4/a24024.html#aac071887c100f91cc7ffc545ea6439d9", null ],
+    [ "shock_Timer", "df/da4/a24024.html#aba8ad016f0e470b07163fef07b603380", null ]
 ];

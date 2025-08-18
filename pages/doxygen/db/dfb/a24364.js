@@ -1,5 +1,6 @@
 var a24364 =
 [
-    [ "npc_pet_dk_dancing_rune_weapon", "db/dfb/a24364.html#ac838b907d56c97a911d7c7454c65e180", null ],
-    [ "InitializeAI", "db/dfb/a24364.html#aafeac4a22f366591d6d66b6150e099e2", null ]
+    [ "npc_pet_dk_army_of_the_dead", "db/dfb/a24364.html#a835f24d7b1b0b70d6345f66a8960e9cf", null ],
+    [ "InitializeAI", "db/dfb/a24364.html#add16c667f3e614f9d6ceebbe17cf0515", null ],
+    [ "IsSummonedBy", "db/dfb/a24364.html#a4f1acbbccd68c83a7c3ea14b26a56305", null ]
 ];

@@ -1,6 +1,6 @@
 var a23920 =
 [
-    [ "HandleDummy", "d4/da7/a23920.html#a4c1177fc89310598b6ba7cddf7f47cd1", null ],
-    [ "PrepareSpellScript", "d4/da7/a23920.html#af511bcad63ff423bf04a430f56959f40", null ],
-    [ "Register", "d4/da7/a23920.html#adaa4fc5294e2b0cb5bcb42f1a93a6f29", null ]
+    [ "HandleAfterRemove", "d4/da7/a23920.html#ac9756a8f206c114ff6443331ca266184", null ],
+    [ "PrepareAuraScript", "d4/da7/a23920.html#a2f67291e6e4291c9d01cdbcbe04a7db7", null ],
+    [ "Register", "d4/da7/a23920.html#ac36d76ad8a5ecb2e437dcb8f1248386d", null ]
 ];

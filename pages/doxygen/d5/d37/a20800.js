@@ -1,6 +1,5 @@
 var a20800 =
 [
-    [ "x", "d5/d37/a20800.html#ae4223168378b602a0a96dbb424a22be4", null ],
-    [ "y", "d5/d37/a20800.html#a30f361d8104e4de44541d75945105963", null ],
-    [ "z", "d5/d37/a20800.html#ae68a79519c35302b89976ac29bb77e26", null ]
+    [ "achievement_xt002_nerf_gravity_bombs", "d5/d37/a20800.html#a9c6471da08acb7a0543d7cc07784dd85", null ],
+    [ "OnCheck", "d5/d37/a20800.html#a03f61470694399ab32aea354cd697771", null ]
 ];

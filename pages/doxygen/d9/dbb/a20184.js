@@ -1,6 +1,6 @@
 var a20184 =
 [
-    [ "boss_hodirAI", "d7/dd6/a20188.html", "d7/dd6/a20188" ],
-    [ "boss_hodir", "d9/dbb/a20184.html#a5740f489f57380d2633a8ee5a18de339", null ],
-    [ "GetAI", "d9/dbb/a20184.html#a8d6ce019e9c383d2eb9ac0d211f4bc4c", null ]
+    [ "id", "d9/dbb/a20184.html#accc6fc59e13a0897ae168fae33ee4c7d", null ],
+    [ "x", "d9/dbb/a20184.html#afb67a1dce0819e0da0ceb9b303f43eb9", null ],
+    [ "y", "d9/dbb/a20184.html#aaf4fd9f1d5b020e102c0fec3863f7020", null ]
 ];

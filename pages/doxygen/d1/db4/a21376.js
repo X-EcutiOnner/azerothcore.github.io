@@ -1,6 +1,6 @@
 var a21376 =
 [
-    [ "boss_xevozzAI", "d4/dc9/a21380.html", "d4/dc9/a21380" ],
-    [ "boss_xevozz", "d1/db4/a21376.html#a814ac939c4570d33450c4a6664833087", null ],
-    [ "GetAI", "d1/db4/a21376.html#a712d8ed125d464da56b677914fbf8796", null ]
+    [ "HandleEffectPeriodic", "d1/db4/a21376.html#a508ff9e362d586497839aa29ceae1227", null ],
+    [ "PrepareAuraScript", "d1/db4/a21376.html#a4e7d5317d28207136b1fd3477a51ae06", null ],
+    [ "Register", "d1/db4/a21376.html#a4b08cefe7d334635b70d389cc9df4901", null ]
 ];

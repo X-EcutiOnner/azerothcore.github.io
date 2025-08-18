@@ -1,5 +1,6 @@
 var a20080 =
 [
-    [ "boss_freya_iron_rootAI", "d1/d98/a20080.html#a5e982f5f41433f43a7a0e1d18e009b7b", null ],
-    [ "JustDied", "d1/d98/a20080.html#ad35297f0fa2039749b89d38c2b4f08b9", null ]
+    [ "boss_freya_iron_rootAI", "d8/def/a20084.html", "d8/def/a20084" ],
+    [ "boss_freya_iron_root", "d1/d98/a20080.html#a9478144d6cb72d08698cbfc50893935b", null ],
+    [ "GetAI", "d1/d98/a20080.html#acdda736e9259d59a30a40d989e70f95c", null ]
 ];

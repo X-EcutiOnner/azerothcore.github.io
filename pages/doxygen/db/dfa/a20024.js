@@ -1,6 +1,9 @@
 var a20024 =
 [
-    [ "CheckCast", "db/dfa/a20024.html#a866fd47d51b5fc4c07c3733739d07c02", null ],
-    [ "PrepareSpellScript", "db/dfa/a20024.html#a09cbe962ae1f18811db8c1d32b856c0d", null ],
-    [ "Register", "db/dfa/a20024.html#a240989af43e5ad6eb81d600a2f1d4769", null ]
+    [ "Absorb", "db/dfa/a20024.html#a16c2e931950102fc0ae5c88ef14587c1", null ],
+    [ "CalculateAmount", "db/dfa/a20024.html#a9166627cbaa536405975444c4ef601de", null ],
+    [ "Load", "db/dfa/a20024.html#abe7c08d2f26cef3603cf1b1f243f9e38", null ],
+    [ "PrepareAuraScript", "db/dfa/a20024.html#aa5793741c2f8179db68a9fb1222a9085", null ],
+    [ "Register", "db/dfa/a20024.html#a17fed57aed8953c7a7e401d1ac925e67", null ],
+    [ "_absorbPct", "db/dfa/a20024.html#ad9e1dcfd8ce7038173ac5b71d448d80a", null ]
 ];

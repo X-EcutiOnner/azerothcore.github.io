@@ -1,6 +1,6 @@
 var a02894 =
 [
-    [ "boss_rage_winterchill", "de/d33/a14660.html", "de/d33/a14660" ],
+    [ "boss_rage_winterchill", "dd/dfc/a14664.html", "dd/dfc/a14664" ],
     [ "Misc", "dc/d38/a02894.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "DATA_SKILLPOINT_MIN", "de/d19/a03311.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3093ddfcacf2742f4fb344843e2e7ce6", null ],
       [ "NEFARIUS_PATH_2", "df/d62/a03257.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],

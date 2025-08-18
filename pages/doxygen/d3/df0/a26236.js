@@ -1,7 +1,6 @@
 var a26236 =
 [
-    [ "HandleHeal", "d3/df0/a26236.html#a22e3dd3ac57c7cb95162ee56ab43bc93", null ],
-    [ "PrepareSpellScript", "d3/df0/a26236.html#a9de9260bc1e2582138c58a708e5d899c", null ],
-    [ "Register", "d3/df0/a26236.html#ab613ce86521f1381b79f6f9f3eaea3cc", null ],
-    [ "Validate", "d3/df0/a26236.html#aa300822cf5455404482124a6853fb314", null ]
+    [ "CheckCast", "d3/df0/a26236.html#a2edd0bcaa3b026cc70f9f6b58f53f486", null ],
+    [ "PrepareSpellScript", "d3/df0/a26236.html#aaf1e16dbc8d33aadcbf74dc4cebe715b", null ],
+    [ "Register", "d3/df0/a26236.html#a32aaab12105c9b1c09edfa8a444ced9c", null ]
 ];

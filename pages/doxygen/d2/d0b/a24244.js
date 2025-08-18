@@ -1,6 +1,9 @@
 var a24244 =
 [
-    [ "npc_shadowmoon_tuber_nodeAI", "df/d74/a24248.html", "df/d74/a24248" ],
-    [ "npc_shadowmoon_tuber_node", "d2/d0b/a24244.html#a98e8c7a84789457900fa342cca209d41", null ],
-    [ "GetAI", "d2/d0b/a24244.html#a5f641af77e2fd78fe67b34fa18bf6b73", null ]
+    [ "npc_enraged_spiritAI", "d2/d0b/a24244.html#aa487c906c1c0d15dc7761c7288e7d3c6", null ],
+    [ "JustDied", "d2/d0b/a24244.html#a9322622f679dbc311bd8983f5037bd2e", null ],
+    [ "JustEngagedWith", "d2/d0b/a24244.html#a1d192d0dd563dc2735b23a171b2bf659", null ],
+    [ "Reset", "d2/d0b/a24244.html#a2d56572acf042ba34f468f0ff3b0bd1a", null ],
+    [ "UpdateAI", "d2/d0b/a24244.html#adc3d04d66f2b4de7a970f2cd5e476a2b", null ],
+    [ "_scheduler", "d2/d0b/a24244.html#afa6825696b0622849f877b392df4b326", null ]
 ];

@@ -1,25 +1,6 @@
 var a17272 =
 [
-    [ "boss_prince_kelesethAI", "df/d52/a17272.html#a5743d3b9db43e31b7de861338f657a3e", null ],
-    [ "AttackStart", "df/d52/a17272.html#a48fa8a4094331da081e93470af5a34b4", null ],
-    [ "DamageDealt", "df/d52/a17272.html#a1102dc1a5feabf3b4a9cf170835f8ade", null ],
-    [ "DamageTaken", "df/d52/a17272.html#a5cc920075198e9dfdbfae94d32099392", null ],
-    [ "DoAction", "df/d52/a17272.html#a32615a07ab4974923a9f8ed3fb6b5eb5", null ],
-    [ "EnterEvadeMode", "df/d52/a17272.html#a812b4f1348c8c73b30cf48373602798c", null ],
-    [ "InitializeAI", "df/d52/a17272.html#a89fe035de2076c7d82434a6b955ced3f", null ],
-    [ "JustDied", "df/d52/a17272.html#adf0e15ab7cae6d73d0ac4d97d63de6b3", null ],
-    [ "JustEngagedWith", "df/d52/a17272.html#a46179701796a35d3cfdbcd6bef481bfc", null ],
-    [ "JustReachedHome", "df/d52/a17272.html#af9896279a3bdcdf78682aac943821e8a", null ],
-    [ "JustRespawned", "df/d52/a17272.html#ae15f486fd0942f9f310b0b60cc29b288", null ],
-    [ "JustSummoned", "df/d52/a17272.html#ae6a8cdf1ce40ab5898e4ab906d0ed41b", null ],
-    [ "KilledUnit", "df/d52/a17272.html#a4bd0bc39045aa42c024489957bacb630", null ],
-    [ "Reset", "df/d52/a17272.html#aac80ae1b85bde17ae6c71193f31df52e", null ],
-    [ "SpellHit", "df/d52/a17272.html#a16265a5ba6d78302034b2a2804e59e24", null ],
-    [ "UpdateAI", "df/d52/a17272.html#a68abd0f9cfe5dd0813d5e7e9b29e4914", null ],
-    [ "_canDie", "df/d52/a17272.html#ae4492fa7c4e6fdab52e2a31c1a0b078a", null ],
-    [ "_evading", "df/d52/a17272.html#a643617bf24bdc575e439bcf22a8dd050", null ],
-    [ "_isEmpowered", "df/d52/a17272.html#a6caada5f7cd8afac81256f1ca6a57af7", null ],
-    [ "events", "df/d52/a17272.html#acb14e5177a73ffe49c5113f5ea5ddf13", null ],
-    [ "instance", "df/d52/a17272.html#a3eb78ce24d15d0a4df15cf4f19f78c00", null ],
-    [ "summons", "df/d52/a17272.html#ad1e9ac4b158ee387369ac1aeeb5abe4c", null ]
+    [ "boss_prince_kelesethAI", "d7/d54/a17276.html", "d7/d54/a17276" ],
+    [ "boss_prince_keleseth_icc", "df/d52/a17272.html#a0df14bbfc96b1d6eff19633716cea9f9", null ],
+    [ "GetAI", "df/d52/a17272.html#ae5a03bbe1d85b9bc865026f05a99545e", null ]
 ];

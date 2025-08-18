@@ -616,7 +616,7 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  267</span>        ++totalcount;</div>
 <div class="line"><span class="lineno">  268</span>    }</div>
 <div class="line"><span class="lineno">  269</span> </div>
-<div class="line"><span class="lineno">  270</span>    searchResponse-&gt;<a class="code hl_variable" href="../../da/dea/a07108.html#ad266cc5bd8e3637534055a7564047f87">packet</a>.<a class="code hl_function" href="../../de/d77/a28536.html#ab14206d336f09c4096a84a27c9bb6777">put</a>&lt;<a class="code hl_typedef" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;(0, count);                           <span class="comment">// add count to placeholder</span></div>
+<div class="line"><span class="lineno">  270</span>    searchResponse-&gt;<a class="code hl_variable" href="../../da/dea/a07108.html#ad266cc5bd8e3637534055a7564047f87">packet</a>.<a class="code hl_function" href="../../d4/d3e/a28540.html#ab14206d336f09c4096a84a27c9bb6777">put</a>&lt;<a class="code hl_typedef" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;(0, count);                           <span class="comment">// add count to placeholder</span></div>
 <div class="line"><span class="lineno">  271</span>    searchResponse-&gt;<a class="code hl_variable" href="../../da/dea/a07108.html#ad266cc5bd8e3637534055a7564047f87">packet</a> &lt;&lt; totalcount;</div>
 <div class="line"><span class="lineno">  272</span>    searchResponse-&gt;<a class="code hl_variable" href="../../da/dea/a07108.html#ad266cc5bd8e3637534055a7564047f87">packet</a> &lt;&lt; <a class="code hl_typedef" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(<a class="code hl_define" href="../../d7/d00/a00401.html#a2f8bc5839b2833512daadb09efb7794d">AUCTION_SEARCH_DELAY</a>);</div>
 <div class="line"><span class="lineno">  273</span> </div>
@@ -631,7 +631,7 @@ Private Attributes</h2></td></tr>
 <div class="ttc" id="aa07108_html_ad266cc5bd8e3637534055a7564047f87"><div class="ttname"><a href="../../da/dea/a07108.html#ad266cc5bd8e3637534055a7564047f87">AuctionSearcherResponse::packet</a></div><div class="ttdeci">WorldPacket packet</div><div class="ttdef"><b>Definition:</b> AuctionHouseSearcher.h:184</div></div>
 <div class="ttc" id="aa07132_html_a8f0ed06055dd0c50bb65017289c6104c"><div class="ttname"><a href="../../da/d99/a07132.html#a8f0ed06055dd0c50bb65017289c6104c">AuctionHouseWorkerThread::GetSearchableAuctionMap</a></div><div class="ttdeci">SearchableAuctionEntriesMap &amp; GetSearchableAuctionMap(AuctionHouseFaction faction)</div><div class="ttdef"><b>Definition:</b> AuctionHouseSearcher.h:267</div></div>
 <div class="ttc" id="aa10976_html_a6b7d58fb0230383629fa888d3aa9dbd8"><div class="ttname"><a href="../../d7/dbc/a10976.html#a6b7d58fb0230383629fa888d3aa9dbd8">WorldPacket::Initialize</a></div><div class="ttdeci">void Initialize(uint16 opcode, std::size_t newres=200)</div><div class="ttdef"><b>Definition:</b> WorldPacket.h:68</div></div>
-<div class="ttc" id="aa28536_html_ab14206d336f09c4096a84a27c9bb6777"><div class="ttname"><a href="../../de/d77/a28536.html#ab14206d336f09c4096a84a27c9bb6777">ByteBuffer::put</a></div><div class="ttdeci">void put(std::size_t pos, T value)</div><div class="ttdef"><b>Definition:</b> ByteBuffer.h:137</div></div>
+<div class="ttc" id="aa28540_html_ab14206d336f09c4096a84a27c9bb6777"><div class="ttname"><a href="../../d4/d3e/a28540.html#ab14206d336f09c4096a84a27c9bb6777">ByteBuffer::put</a></div><div class="ttdeci">void put(std::size_t pos, T value)</div><div class="ttdef"><b>Definition:</b> ByteBuffer.h:137</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00273">_responseQueue</a>, <a class="el" href="../../#l00037">AUCTION_SEARCH_DELAY</a>, <a class="el" href="../../#l00267">GetSearchableAuctionMap()</a>, <a class="el" href="../../#l00068">WorldPacket::Initialize()</a>, <a class="el" href="../../#l00152">AuctionSearcherRequest::listFaction</a>, <a class="el" href="../../#l00177">AuctionSearchBidderListRequest::outbiddedAuctionIds</a>, <a class="el" href="../../#l00178">AuctionSearchBidderListRequest::ownerGuid</a>, <a class="el" href="../../#l00184">AuctionSearcherResponse::packet</a>, <a class="el" href="../../#l00183">AuctionSearcherResponse::playerGuid</a>, <a class="el" href="../../#l00137">ByteBuffer::put()</a>, and <a class="el" href="../../#l00643">SMSG_AUCTION_BIDDER_LIST_RESULT</a>.</p>
 
@@ -717,7 +717,7 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  195</span>        totalCount = searchableAuctionMap.size();</div>
 <div class="line"><span class="lineno">  196</span>    }</div>
 <div class="line"><span class="lineno">  197</span> </div>
-<div class="line"><span class="lineno">  198</span>    searchResponse-&gt;<a class="code hl_variable" href="../../da/dea/a07108.html#ad266cc5bd8e3637534055a7564047f87">packet</a>.<a class="code hl_function" href="../../de/d77/a28536.html#ab14206d336f09c4096a84a27c9bb6777">put</a>&lt;<a class="code hl_typedef" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;(0, count);</div>
+<div class="line"><span class="lineno">  198</span>    searchResponse-&gt;<a class="code hl_variable" href="../../da/dea/a07108.html#ad266cc5bd8e3637534055a7564047f87">packet</a>.<a class="code hl_function" href="../../d4/d3e/a28540.html#ab14206d336f09c4096a84a27c9bb6777">put</a>&lt;<a class="code hl_typedef" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;(0, count);</div>
 <div class="line"><span class="lineno">  199</span>    searchResponse-&gt;<a class="code hl_variable" href="../../da/dea/a07108.html#ad266cc5bd8e3637534055a7564047f87">packet</a> &lt;&lt; totalCount;</div>
 <div class="line"><span class="lineno">  200</span>    searchResponse-&gt;<a class="code hl_variable" href="../../da/dea/a07108.html#ad266cc5bd8e3637534055a7564047f87">packet</a> &lt;&lt; <a class="code hl_typedef" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(<a class="code hl_define" href="../../d7/d00/a00401.html#a2f8bc5839b2833512daadb09efb7794d">AUCTION_SEARCH_DELAY</a>);</div>
 <div class="line"><span class="lineno">  201</span> </div>
@@ -781,7 +781,7 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  225</span>        ++totalcount;</div>
 <div class="line"><span class="lineno">  226</span>    }</div>
 <div class="line"><span class="lineno">  227</span> </div>
-<div class="line"><span class="lineno">  228</span>    searchResponse-&gt;<a class="code hl_variable" href="../../da/dea/a07108.html#ad266cc5bd8e3637534055a7564047f87">packet</a>.<a class="code hl_function" href="../../de/d77/a28536.html#ab14206d336f09c4096a84a27c9bb6777">put</a>&lt;<a class="code hl_typedef" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;(0, count);</div>
+<div class="line"><span class="lineno">  228</span>    searchResponse-&gt;<a class="code hl_variable" href="../../da/dea/a07108.html#ad266cc5bd8e3637534055a7564047f87">packet</a>.<a class="code hl_function" href="../../d4/d3e/a28540.html#ab14206d336f09c4096a84a27c9bb6777">put</a>&lt;<a class="code hl_typedef" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;(0, count);</div>
 <div class="line"><span class="lineno">  229</span>    searchResponse-&gt;<a class="code hl_variable" href="../../da/dea/a07108.html#ad266cc5bd8e3637534055a7564047f87">packet</a> &lt;&lt; (<a class="code hl_typedef" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>)totalcount;</div>
 <div class="line"><span class="lineno">  230</span>    searchResponse-&gt;<a class="code hl_variable" href="../../da/dea/a07108.html#ad266cc5bd8e3637534055a7564047f87">packet</a> &lt;&lt; <a class="code hl_typedef" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(<a class="code hl_define" href="../../d7/d00/a00401.html#a2f8bc5839b2833512daadb09efb7794d">AUCTION_SEARCH_DELAY</a>);</div>
 <div class="line"><span class="lineno">  231</span> </div>
@@ -1076,7 +1076,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../da/d99/a07132.html">AuctionHouseWorkerThread</a></li>
-    <li class="footer">Generated on Mon Aug 11 2025 20:47:36 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Aug 18 2025 20:48:00 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

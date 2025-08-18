@@ -1,6 +1,9 @@
 var a22328 =
 [
-    [ "HandleScriptEffect", "d8/dd7/a22328.html#a66849cb61f056e861d8887dc98f6ccbf", null ],
-    [ "PrepareSpellScript", "d8/dd7/a22328.html#afa4ad1b205bf963b4230881738baf938", null ],
-    [ "Register", "d8/dd7/a22328.html#a0d8925effced854471e2fbec9c631b91", null ]
+    [ "HandlePeriodic", "d8/dd7/a22328.html#a3d9ef90ec1ddebe2b2f3dd3a8b9eb25a", null ],
+    [ "Load", "d8/dd7/a22328.html#af5ed9dda3b2a2fd208fdc32de414c28a", null ],
+    [ "PrepareAuraScript", "d8/dd7/a22328.html#a1057e5262d413149a023bc904a3c3751", null ],
+    [ "Register", "d8/dd7/a22328.html#a47b9665b84742fd8cbb4e422d667b2ac", null ],
+    [ "Validate", "d8/dd7/a22328.html#a85d7ac258d50f690574ad7656256cd05", null ],
+    [ "_counter", "d8/dd7/a22328.html#a855bb93d5d9c5d8a9d06cfbb16d8d814", null ]
 ];

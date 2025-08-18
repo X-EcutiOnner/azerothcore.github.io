@@ -1,6 +1,7 @@
 var a20556 =
 [
-    [ "npc_ulduar_harpoonfirestateAI", "d8/d9b/a20560.html", "d8/d9b/a20560" ],
-    [ "npc_ulduar_harpoonfirestate", "d7/db0/a20556.html#a85043e64606ba7c9ce2da7a37bbf0e8e", null ],
-    [ "GetAI", "d7/db0/a20556.html#a8c9e1882c0706cb0b576c24b62215238", null ]
+    [ "npc_ulduar_expedition_commanderAI", "d7/db0/a20556.html#a100678bddd6a0e859c72035d4642d8e2", null ],
+    [ "MoveInLineOfSight", "d7/db0/a20556.html#a870bdc842d8d7078302a36a20ef661e4", null ],
+    [ "_instance", "d7/db0/a20556.html#a64d925b08f3f0ae59f5053121dbc495c", null ],
+    [ "_introSpoken", "d7/db0/a20556.html#ac6784a66111406f917ae4d07dbeb60a4", null ]
 ];

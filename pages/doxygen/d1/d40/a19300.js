@@ -1,7 +1,8 @@
 var a19300 =
 [
-    [ "EoEDrakeEnterVehicleEvent", "d1/d40/a19300.html#afc529efe07da017e529dc6d5ebc6e7dc", null ],
-    [ "Execute", "d1/d40/a19300.html#a368a613ba7861f7903b80e6f7f0dd64f", null ],
-    [ "_owner", "d1/d40/a19300.html#ab48302fdff800afddfeec2c0d756873c", null ],
-    [ "_playerGUID", "d1/d40/a19300.html#add56bff0695453e01f300e0434a39ec8", null ]
+    [ "FilterTargets", "d1/d40/a19300.html#af6700817fd92dbe495e20d5c43b5d6b5", null ],
+    [ "Load", "d1/d40/a19300.html#a639105c26214d9887b84a482ca93eb26", null ],
+    [ "PrepareSpellScript", "d1/d40/a19300.html#a354ae20be436528b16095d4cd8d37859", null ],
+    [ "Register", "d1/d40/a19300.html#a5fcc9cc654d6495f535600a6eef4c968", null ],
+    [ "DrakeGUID", "d1/d40/a19300.html#ad4bbd7d559cdcc21ae5fafae75cd8eb3", null ]
 ];

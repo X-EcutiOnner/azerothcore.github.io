@@ -1,6 +1,6 @@
 var a14540 =
 [
-    [ "HandleScriptEffect", "de/dc9/a14540.html#a074f54a4b022adc6ea34b3716dec745f", null ],
-    [ "PrepareSpellScript", "de/dc9/a14540.html#a725d5bc1f76614778b140f3061aa2e03", null ],
-    [ "Register", "de/dc9/a14540.html#a339df7ae9553fbae68ce791baef1df5e", null ]
+    [ "HandleDummy", "de/dc9/a14540.html#aa75140309e66c28590a64e10676356da", null ],
+    [ "PrepareSpellScript", "de/dc9/a14540.html#a21c4872e16c18c2918dfbea366e61df3", null ],
+    [ "Register", "de/dc9/a14540.html#a841c9277224cbae878946deb288b87a1", null ]
 ];

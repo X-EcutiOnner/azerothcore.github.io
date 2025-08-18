@@ -1,10 +1,12 @@
 var a14072 =
 [
-    [ "npc_vilebranch_speaker", "da/d98/a14072.html#acd8dfc95c5969fe67e1386d5dbd5884b", null ],
-    [ "JustDied", "da/d98/a14072.html#aa7708f176879db3acd50399b74e4a90c", null ],
-    [ "JustEngagedWith", "da/d98/a14072.html#a236afb8512c2d941479f8a7c18f688a6", null ],
-    [ "Reset", "da/d98/a14072.html#a248195a137cb91f10a882ec12974c7c5", null ],
-    [ "UpdateAI", "da/d98/a14072.html#a75f263fa9241319b58bf77cbf1b75088", null ],
-    [ "_scheduler", "da/d98/a14072.html#abd52bbd2ce88b011176d93ae92b851d0", null ],
-    [ "instance", "da/d98/a14072.html#a88fb28d2c39f0da967ab6706872e68b2", null ]
+    [ "npc_chained_spirit", "da/d98/a14072.html#a5f407e700a2086f971bed0e8c0def0db", null ],
+    [ "DoAction", "da/d98/a14072.html#a7205ef13ca0d164a9222c049bc582254", null ],
+    [ "JustDied", "da/d98/a14072.html#a3b405503231173e7ff7aa52e34f63da5", null ],
+    [ "MovementInform", "da/d98/a14072.html#a469a8fdc4a40857ff1dc0af9ead74d3c", null ],
+    [ "Reset", "da/d98/a14072.html#a2a8a8a429492511aac697878b5dc4cc3", null ],
+    [ "SetGUID", "da/d98/a14072.html#acbe42c0692e8c1d671f2745ff8c2f9bb", null ],
+    [ "UpdateAI", "da/d98/a14072.html#a38d14b69c71bf2902a916028580fbfad", null ],
+    [ "instance", "da/d98/a14072.html#ad5dd92208d6a23954fef6348f4abbd23", null ],
+    [ "revivePlayerGUID", "da/d98/a14072.html#a193fddae1d3eb84bc36842adbb1fe86a", null ]
 ];

@@ -1,6 +1,6 @@
 var a25604 =
 [
-    [ "PrepareSpellScript", "d4/dd9/a25604.html#a3a77016a3a8314969ce41cc6483761ec", null ],
-    [ "Register", "d4/dd9/a25604.html#ae1fa8b9e4a11c884d10b1f4cc0afd09e", null ],
-    [ "SetDest", "d4/dd9/a25604.html#a724217c09faa57ec2e6dad034e8709ed", null ]
+    [ "HandleProc", "d4/dd9/a25604.html#a04796308cb57993dea310e0aca051c46", null ],
+    [ "PrepareAuraScript", "d4/dd9/a25604.html#a1a0291eb2ca9073b0bac8dc8c7d22550", null ],
+    [ "Register", "d4/dd9/a25604.html#a191d0bcc015b92a6f2481b3b5c196cab", null ]
 ];

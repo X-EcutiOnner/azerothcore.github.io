@@ -1,6 +1,9 @@
 var a21968 =
 [
-    [ "npc_lake_frogAI", "d2/d05/a21972.html", "d2/d05/a21972" ],
-    [ "npc_lake_frog", "d8/d39/a21968.html#ac7c56b2a6443356523b468c05c36bc6c", null ],
-    [ "GetAI", "d8/d39/a21968.html#a9730da684a81fced304f10b2806c10e5", null ]
+    [ "npc_venture_co_stragglerAI", "d8/d39/a21968.html#abc3cc04b89b95fd45969ba5859bf810c", null ],
+    [ "Reset", "d8/d39/a21968.html#acfeaad9db95d0b391a64cc65ca3a1cee", null ],
+    [ "SpellHit", "d8/d39/a21968.html#ae1919454c270d10342079b60a727a306", null ],
+    [ "UpdateAI", "d8/d39/a21968.html#a0846336d8d1333e2c2f50731a722c3b7", null ],
+    [ "_events", "d8/d39/a21968.html#a9cd6e6b549e10900f35838f04e10e0f5", null ],
+    [ "_playerGUID", "d8/d39/a21968.html#a649493944b143782d995b5bdda3714b4", null ]
 ];

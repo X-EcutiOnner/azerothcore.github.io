@@ -1,6 +1,8 @@
 var a20208 =
 [
-    [ "npc_ulduar_toasty_fireAI", "d5/d3a/a20212.html", "d5/d3a/a20212" ],
-    [ "npc_ulduar_toasty_fire", "d9/dad/a20208.html#a5a5b77088b24f1c5743c58034190d5ab", null ],
-    [ "GetAI", "d9/dad/a20208.html#a2518ec39c3cea2f3efc5000e0a7779d0", null ]
+    [ "npc_ulduar_flash_freezeAI", "d9/dad/a20208.html#a478e7bc76a7b7ffeb25a0df731cb5ed8", null ],
+    [ "DamageTaken", "d9/dad/a20208.html#af0c18460b4cc331f51c44a3306f516b8", null ],
+    [ "UpdateAI", "d9/dad/a20208.html#ab2efa0a8d06297bff05502c40079efe9", null ],
+    [ "pInstance", "d9/dad/a20208.html#a28be7874fee6dcaea6f205cb75f1450f", null ],
+    [ "timer", "d9/dad/a20208.html#a590117afe9e9943d8dc8a44af9386066", null ]
 ];

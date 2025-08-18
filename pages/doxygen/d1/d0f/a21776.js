@@ -1,6 +1,6 @@
 var a21776 =
 [
-    [ "npc_injured_7th_legion_soldierAI", "d1/d0f/a21776.html#a6929ef42a003f1337d71f9b23fa37c6e", null ],
-    [ "MovementInform", "d1/d0f/a21776.html#a999bc868db485578fcc70ae7e056b778", null ],
-    [ "Reset", "d1/d0f/a21776.html#a3021c037acdb141fc3ca4d6f3b146bbf", null ]
+    [ "npc_injured_7th_legion_soldierAI", "da/deb/a21780.html", "da/deb/a21780" ],
+    [ "npc_injured_7th_legion_soldier", "d1/d0f/a21776.html#a9d3c647f485dbca5efeec8f784efba1b", null ],
+    [ "GetAI", "d1/d0f/a21776.html#a0feca7aedcf3c07253d4d402266189cc", null ]
 ];

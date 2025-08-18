@@ -1,6 +1,9 @@
 var a21612 =
 [
-    [ "npc_hidden_cultistAI", "da/d25/a21616.html", "da/d25/a21616" ],
-    [ "npc_hidden_cultist", "d8/d5b/a21612.html#ab455b35fea966360e01fb8975adad989", null ],
-    [ "GetAI", "d8/d5b/a21612.html#a4897006d9416f1177b0bc0e41df60293", null ]
+    [ "npc_warmage_coldarraAI", "d8/d5b/a21612.html#a9a8c2afff61ad8457aab8a9c23a4b755", null ],
+    [ "AttackStart", "d8/d5b/a21612.html#a41277824ae3f6bd9a099894b6dfc7537", null ],
+    [ "JustEngagedWith", "d8/d5b/a21612.html#a23a8999e34142201c6ceadc64a3df6c2", null ],
+    [ "Reset", "d8/d5b/a21612.html#adf5094ba2bee34ec793124e798d5af8f", null ],
+    [ "UpdateAI", "d8/d5b/a21612.html#a14b221265cc38b4061c52b687274a398", null ],
+    [ "m_uiTimer", "d8/d5b/a21612.html#a338ad26d40d395dfc6ed7e8fedcc6d60", null ]
 ];

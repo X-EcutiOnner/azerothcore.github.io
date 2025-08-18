@@ -1,6 +1,7 @@
 var a17704 =
 [
-    [ "IgbArtilleryCheck", "d8/d85/a17704.html#a78b65928551ed799cf3f446f0603c50e", null ],
-    [ "operator()", "d8/d85/a17704.html#ac083bfb9a5fa2b9888c4e31254baada6", null ],
-    [ "_entry", "d8/d85/a17704.html#a98a6a0836414da82c288e372e982f69f", null ]
+    [ "HandleDummy", "d8/d85/a17704.html#a6e5d70c35420384305d7faf991072b38", null ],
+    [ "PrepareSpellScript", "d8/d85/a17704.html#a64f912555853aab5693692b22eba52c4", null ],
+    [ "Register", "d8/d85/a17704.html#a797ec701f2e3f2949680eb935a9c5c3f", null ],
+    [ "Validate", "d8/d85/a17704.html#afda7fd86e2fc2c40870904065ffcfe50", null ]
 ];

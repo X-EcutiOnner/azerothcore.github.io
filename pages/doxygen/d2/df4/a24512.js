@@ -1,6 +1,7 @@
 var a24512 =
 [
-    [ "HandleProc", "d2/df4/a24512.html#a8fb0e7e5e50fcb201e8e55ee9621034e", null ],
-    [ "PrepareAuraScript", "d2/df4/a24512.html#a2f42e70482f71a4c275f70897b90ed72", null ],
-    [ "Register", "d2/df4/a24512.html#a048f59b6b0d52232e3a953f173324fc2", null ]
+    [ "HandleProc", "d2/df4/a24512.html#ab00bbdd8580426a621abc11c4308bdc4", null ],
+    [ "PrepareAuraScript", "d2/df4/a24512.html#a2840931b939b95e6a476c07f08ca66b5", null ],
+    [ "Register", "d2/df4/a24512.html#ae769fddc14aed4d1055d2f947d292fcf", null ],
+    [ "lastChargeUsedTime", "d2/df4/a24512.html#a69e1d242b6d4bfc752e7e0921aa0f90c", null ]
 ];

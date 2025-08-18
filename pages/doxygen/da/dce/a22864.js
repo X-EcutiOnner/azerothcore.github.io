@@ -1,9 +1,6 @@
 var a22864 =
 [
-    [ "boss_mother_shahraz", "da/dce/a22864.html#adba94363f74975301472d79f24894df8", null ],
-    [ "JustDied", "da/dce/a22864.html#ab69d81acde4e6e2a3f6adb032090b958", null ],
-    [ "JustEngagedWith", "da/dce/a22864.html#a021c702e7eff266308fee8a4220a6ec7", null ],
-    [ "KilledUnit", "da/dce/a22864.html#a81ed314ae9737c0989b62c27c9ce4cc9", null ],
-    [ "Reset", "da/dce/a22864.html#ab9e4162ac92e786b84b6497c37251386", null ],
-    [ "_canTalk", "da/dce/a22864.html#a821d91439c60a60ffcff07b6bdbbc070", null ]
+    [ "PrepareAuraScript", "da/dce/a22864.html#a5cba6aaa06f8ec6e083ee0c5064414e4", null ],
+    [ "Register", "da/dce/a22864.html#a75d0cf142e299783b06903ea03287e28", null ],
+    [ "Update", "da/dce/a22864.html#ac027b02ed0ba70d65621a6af157c98f6", null ]
 ];

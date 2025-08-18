@@ -1,8 +1,5 @@
 var a21688 =
 [
-    [ "npc_shandy_dalaranAI", "d5/d25/a21692.html", "d5/d25/a21692" ],
-    [ "npc_shandy_dalaran", "dc/d97/a21688.html#a7077c769a252af8ba37b5ff5d524463e", null ],
-    [ "GetAI", "dc/d97/a21688.html#a641551a2aef739e1679912ae27ddb888", null ],
-    [ "OnGossipHello", "dc/d97/a21688.html#a91287aaba09fce091c9d826e75208f84", null ],
-    [ "OnGossipSelect", "dc/d97/a21688.html#ad005a17da187e0cfd03d2faf0099c448", null ]
+    [ "npc_mei_francis_mountAI", "dc/d97/a21688.html#aa9886ead02754faebff8b21eeb85dee6", null ],
+    [ "CanBeSeen", "dc/d97/a21688.html#ad5e33495339a0315bc7b01351810157e", null ]
 ];

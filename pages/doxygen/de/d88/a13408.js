@@ -1,9 +1,6 @@
 var a13408 =
 [
-    [ "boss_muru", "de/d88/a13408.html#a6e51cd6b3283f011fc834e0cc59f46e6", null ],
-    [ "DamageTaken", "de/d88/a13408.html#a570c8cc6aaefaac4063d9f1053c04b32", null ],
-    [ "JustEngagedWith", "de/d88/a13408.html#a305f5f20fbe3d15885ed3e6248d96ec6", null ],
-    [ "JustSummoned", "de/d88/a13408.html#a7cf18b5f12586d122ece406feaa5bc39", null ],
-    [ "MoveInLineOfSight", "de/d88/a13408.html#aa589d640b73c0b3e944585bdc702a8ee", null ],
-    [ "Reset", "de/d88/a13408.html#a177aed9c1e5c1380fc8ea5f8c29650c6", null ]
+    [ "HandleEffectApply", "de/d88/a13408.html#a8157e8d305bc9d7da23815ae7e684a05", null ],
+    [ "PrepareAuraScript", "de/d88/a13408.html#ae06b9dc2d00998ce288f015bfc04b323", null ],
+    [ "Register", "de/d88/a13408.html#ac8e6be8aa2e8314fe2f1e22efd8e8b4a", null ]
 ];

@@ -1,11 +1,9 @@
 var a28740 =
 [
-    [ "material", "de/d05/a28740.html#a7079e8817a9684602084eb224f2540fc", null ],
-    [ "pos_x", "de/d05/a28740.html#ac4d971cc46506be14716124afbb5ad9c", null ],
-    [ "pos_y", "de/d05/a28740.html#a6cd85f2a674d732e88371ffce5e46077", null ],
-    [ "pos_z", "de/d05/a28740.html#a183ec8ec2d8d30726494c6b3d3b8606a", null ],
-    [ "xtiles", "de/d05/a28740.html#aca34dfa64624cfe04c314c13bbed0062", null ],
-    [ "xverts", "de/d05/a28740.html#aa5ad7ff660f7f0b5ddfd2d186496d928", null ],
-    [ "ytiles", "de/d05/a28740.html#a9901a7e9828ac840bc290b0768831d66", null ],
-    [ "yverts", "de/d05/a28740.html#abf24042b85692cd0df05d65d734dd99e", null ]
+    [ "adtData", "da/d85/a28748.html", "da/d85/a28748" ],
+    [ "prepareLoadedData", "de/d05/a28740.html#a6b755c9e341918d05105d993391429c6", null ],
+    [ "adt_list", "de/d05/a28740.html#abe28c39e8856412c4fb182baab3218f0", null ],
+    [ "fcc", "de/d05/a28740.html#ac8ee92a1747e31385cbfadaea16c267f", null ],
+    [ "fcc_txt", "de/d05/a28740.html#a0657c323732de8d83b9c360c1dd03b61", null ],
+    [ "size", "de/d05/a28740.html#a797c02773dd470a318474c7ef033ba7c", null ]
 ];

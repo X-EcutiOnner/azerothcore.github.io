@@ -1,6 +1,6 @@
 var a17156 =
 [
-    [ "boss_drakkari_colossusAI", "d1/d17/a17160.html", "d1/d17/a17160" ],
-    [ "boss_drakkari_colossus", "de/d5d/a17156.html#abe1bf28b9147b72c81e5c5efcdeeaf84", null ],
-    [ "GetAI", "de/d5d/a17156.html#a75c6c9c56fe11342dd8aece031059e77", null ]
+    [ "entry", "de/d5d/a17156.html#af2cf5df64adf9ac1575a8217b103e738", null ],
+    [ "x", "de/d5d/a17156.html#aad21475d521921ea30cc0ae5d260ce69", null ],
+    [ "y", "de/d5d/a17156.html#abd69e1c28ad36466c82807ea0ffb0fb7", null ]
 ];

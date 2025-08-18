@@ -1,9 +1,7 @@
 var a21952 =
 [
-    [ "npc_wounded_skirmisher", "de/d72/a21952.html#a30fe2d901df0cfd9b66f3dbd6a1e6aea", null ],
-    [ "Initialize", "de/d72/a21952.html#ae5fab920fcb16b57e0ed53a1177d319b", null ],
-    [ "JustEngagedWith", "de/d72/a21952.html#a80357b71a1eccdcdce8c8bea87de1b66", null ],
-    [ "Reset", "de/d72/a21952.html#acca266640c099718d2a0fd4f6a3c47ab", null ],
-    [ "SpellHit", "de/d72/a21952.html#a891e879af5da1f181c94e528c59a81f1", null ],
-    [ "UpdateAI", "de/d72/a21952.html#a52f8e7f8df05504cad4b4438c50814a4", null ]
+    [ "npc_amberpine_woodsmanAI", "de/d72/a21952.html#aa0f37b54c5bfc2f923d09437b8b30424", null ],
+    [ "Reset", "de/d72/a21952.html#a8da613c7bbaadf331c95667e7a361702", null ],
+    [ "UpdateAI", "de/d72/a21952.html#a64dbf41424a710c400d51507f6457b41", null ],
+    [ "_events", "de/d72/a21952.html#aac8cd045a5518e3eaa9c24e0fb83ddaa", null ]
 ];

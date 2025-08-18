@@ -1,6 +1,8 @@
 var a16808 =
 [
-    [ "npc_fos_leader_secondAI", "d1/d02/a16812.html", "d1/d02/a16812" ],
-    [ "npc_fos_leader_second", "d0/dd9/a16808.html#a0e24659ef6e834da5a3adc8d79f0db4e", null ],
-    [ "GetAI", "d0/dd9/a16808.html#a96082888ccbb1c81be8327e5e0d84e03", null ]
+    [ "npc_fos_leaderAI", "d0/dd9/a16808.html#ae6a80f77558e0f5a62efc3b5ef1f61d6", null ],
+    [ "DoAction", "d0/dd9/a16808.html#a1fd8cea6f8a6d8f76ba3c484b15c4054", null ],
+    [ "Reset", "d0/dd9/a16808.html#a33364da3af4681de9f9e21b9dcf7f16c", null ],
+    [ "UpdateAI", "d0/dd9/a16808.html#ac6f2aedc40e415ac0f7e8c212d4deae5", null ],
+    [ "events", "d0/dd9/a16808.html#ac02a0c34096086e7baf1dc004811f4c1", null ]
 ];

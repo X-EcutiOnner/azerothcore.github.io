@@ -1,7 +1,7 @@
 var a02834 =
 [
-    [ "instance_ruins_of_ahnqiraj", "d3/d5a/a15052.html", "d3/d5a/a15052" ],
-    [ "instance_ruins_of_ahnqiraj::instance_ruins_of_ahnqiraj_InstanceMapScript", "df/d5c/a15056.html", "df/d5c/a15056" ],
+    [ "instance_ruins_of_ahnqiraj", "df/d5c/a15056.html", "df/d5c/a15056" ],
+    [ "instance_ruins_of_ahnqiraj::instance_ruins_of_ahnqiraj_InstanceMapScript", "dd/d04/a15060.html", "dd/d04/a15060" ],
     [ "RajaxxWaveEvent", "d3/d57/a02834.html#a4be5bd3adfc6d188ef97fd3885ddbeb8", [
       [ "SAY_WAVE3", "d3/d57/a02834.html#a4be5bd3adfc6d188ef97fd3885ddbeb8a2c4234c075da474e1859f08d620f20d3", null ],
       [ "SAY_WAVE4", "d3/d57/a02834.html#a4be5bd3adfc6d188ef97fd3885ddbeb8af13e872cbd347b8a5bc80c2e8666381d", null ],

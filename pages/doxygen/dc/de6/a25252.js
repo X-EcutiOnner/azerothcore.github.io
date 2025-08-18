@@ -1,7 +1,7 @@
 var a25252 =
 [
-    [ "PrepareAuraScript", "dc/de6/a25252.html#afeac0a8393b7d7bf787fca59988d0e14", null ],
-    [ "Register", "dc/de6/a25252.html#a7cbcf46dbdddea12fd6ce04bcbcea097", null ],
-    [ "TriggerFoodBuff", "dc/de6/a25252.html#a5d125413491dd377d61b8e30c4979fdd", null ],
-    [ "Validate", "dc/de6/a25252.html#a6b69d7358eb8cfe6a8f9efd47882eb80", null ]
+    [ "OnApply", "dc/de6/a25252.html#afda219a18001505ae7a2d01b1d5b25c0", null ],
+    [ "OnRemove", "dc/de6/a25252.html#a54bcd84599d6e5a6d7f538e2b40b890b", null ],
+    [ "PrepareAuraScript", "dc/de6/a25252.html#a9a7b549e059b6bd2d22802f60e952658", null ],
+    [ "Register", "dc/de6/a25252.html#aae603735281daf02ceca157e218d5c9f", null ]
 ];

@@ -1,6 +1,13 @@
 var a21292 =
 [
-    [ "npc_frozen_orbAI", "db/d26/a21296.html", "db/d26/a21296" ],
-    [ "npc_frozen_orb", "d0/d64/a21292.html#ac14966722e39b2b6b3a907756701ed98", null ],
-    [ "GetAI", "d0/d64/a21292.html#a2f9e1a2cb14ee9e5f24e02aa97697116", null ]
+    [ "boss_toravonAI", "d0/d64/a21292.html#a98474fcfbc56c7850ae054b7489eaa4f", null ],
+    [ "AttackStart", "d0/d64/a21292.html#ac4e2ed28ba7863630cd54c8f6c11455f", null ],
+    [ "JustDied", "d0/d64/a21292.html#ad501bb34a0014be0abc965aae5383e21", null ],
+    [ "JustEngagedWith", "d0/d64/a21292.html#af6a6cfd1ec54546c2e70ea60f871b564", null ],
+    [ "JustSummoned", "d0/d64/a21292.html#a431dafbcc3a6581d771e810a85a92a0b", null ],
+    [ "Reset", "d0/d64/a21292.html#a4af8eb8863e7ee1559bc156b7f28e8d8", null ],
+    [ "UpdateAI", "d0/d64/a21292.html#a97c16b1689cfdb7fa680381964cb272a", null ],
+    [ "events", "d0/d64/a21292.html#ae2a3b691f1580275228204ea8ccaf846", null ],
+    [ "pInstance", "d0/d64/a21292.html#a912bcccd309ccd1f043c5aae633e78fe", null ],
+    [ "summons", "d0/d64/a21292.html#a56ca98fa12190d6d9d459bc5e569ae04", null ]
 ];

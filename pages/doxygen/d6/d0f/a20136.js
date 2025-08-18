@@ -1,7 +1,6 @@
 var a20136 =
 [
-    [ "npc_ulduar_saronite_vaporsAI", "d6/d0f/a20136.html#a8f811c588aeca2cd4a12d4d345907bd2", null ],
-    [ "IsSummonedBy", "d6/d0f/a20136.html#a4692bb5c3ffadcfd133db665566c66e5", null ],
-    [ "JustDied", "d6/d0f/a20136.html#a5be637500e7b5735d90e19fa40fde467", null ],
-    [ "pInstance", "d6/d0f/a20136.html#a25cf8dd22f05566ae99b14a596039f5e", null ]
+    [ "npc_ulduar_saronite_vaporsAI", "da/d2f/a20140.html", "da/d2f/a20140" ],
+    [ "npc_ulduar_saronite_vapors", "d6/d0f/a20136.html#a567c3aca8c381167ca278c2c3562e6f6", null ],
+    [ "GetAI", "d6/d0f/a20136.html#a3c2e7b6263f8935da9291c736b14d139", null ]
 ];

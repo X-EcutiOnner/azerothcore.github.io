@@ -16,6 +16,7 @@ var a02987 =
     [ "spell_kiljaeden_armageddon_periodic_aura", "d8/dcd/a13396.html", "d8/dcd/a13396" ],
     [ "spell_kiljaeden_armageddon_missile", "d2/d94/a13400.html", "d2/d94/a13400" ],
     [ "spell_kiljaeden_dragon_breath", "d6/dfc/a13404.html", "d6/dfc/a13404" ],
+    [ "spell_kiljaeden_shield_of_the_blue", "de/d88/a13408.html", "de/d88/a13408" ],
     [ "Misc", "da/dcd/a02987.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "DATA_SKILLPOINT_MIN", "de/d19/a03311.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3093ddfcacf2742f4fb344843e2e7ce6", null ],
       [ "NEFARIUS_PATH_2", "df/d62/a03257.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],

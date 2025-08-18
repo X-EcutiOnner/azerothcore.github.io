@@ -1,6 +1,5 @@
 var a18116 =
 [
-    [ "npc_spinestalkerAI", "df/dec/a18120.html", "df/dec/a18120" ],
-    [ "npc_spinestalker", "da/df7/a18116.html#a477f951c79045d553901b1e6b6ad2d4f", null ],
-    [ "GetAI", "da/df7/a18116.html#a725f1b1db90d700772bfb76e0f85f1f3", null ]
+    [ "achievement_all_you_can_eat", "da/df7/a18116.html#a0995024862a445ea1f0ff5c82475fc64", null ],
+    [ "OnCheck", "da/df7/a18116.html#a0baa07a7cbd239e4a5fcfd3e687aedf6", null ]
 ];

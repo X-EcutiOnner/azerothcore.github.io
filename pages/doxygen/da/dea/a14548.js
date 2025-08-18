@@ -1,6 +1,6 @@
 var a14548 =
 [
-    [ "PrepareAuraScript", "da/dea/a14548.html#a80660b1417ab33edaf2c4cd517e10e30", null ],
-    [ "RecalculateHook", "da/dea/a14548.html#af3952993947dfb24381083d21a9e64cb", null ],
-    [ "Register", "da/dea/a14548.html#ab7f0aa924dfe8043e44cd794f72e4555", null ]
+    [ "OnAuraRemove", "da/dea/a14548.html#ad16e8b64999771154360afad71454c07", null ],
+    [ "PrepareAuraScript", "da/dea/a14548.html#a70963be80861e10ecd093e40b77e7078", null ],
+    [ "Register", "da/dea/a14548.html#a7381cbea873fb57485e4539aa478d236", null ]
 ];

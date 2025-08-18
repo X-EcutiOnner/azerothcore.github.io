@@ -1,6 +1,6 @@
 var a15752 =
 [
-    [ "instance_zulfarrak_InstanceMapScript", "d8/d50/a15756.html", "d8/d50/a15756" ],
-    [ "instance_zulfarrak", "dd/d49/a15752.html#a7c8594fe278dc9f6c3ab6f291cf9bad2", null ],
-    [ "GetInstanceScript", "dd/d49/a15752.html#a5f092341e49848c9d321452be2193d56", null ]
+    [ "creatureID", "dd/d49/a15752.html#a44a9f5e58bfa58e2e2325e116e988f07", null ],
+    [ "pos", "dd/d49/a15752.html#a9705a858cc2c3867e104514d3a0a1866", null ],
+    [ "waveID", "dd/d49/a15752.html#a09b48f7f6da7e203ed50a8abc7f24e56", null ]
 ];

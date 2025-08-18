@@ -1,27 +1,7 @@
 var a15420 =
 [
-    [ "npc_cork_gizeltonAI", "db/d9f/a15420.html#a3f5f08b4ac364fddf14e8405cdc27b68", null ],
-    [ "CheckCaravan", "db/d9f/a15420.html#aa0d89f971b6e210d8550e89839e28f44", null ],
-    [ "CheckPlayer", "db/d9f/a15420.html#acd3edee41c80992ee97130eac6912c18", null ],
-    [ "EnterEvadeMode", "db/d9f/a15420.html#ab639db8fe4637a2068d94bb5e99d88ea", null ],
-    [ "ImmuneFlagSet", "db/d9f/a15420.html#aee85ef406a6bc0644ec2e35a4a7f22d5", null ],
-    [ "Initialize", "db/d9f/a15420.html#a91131055a31dc828ccb2e3ba087d5062", null ],
-    [ "InitializeAI", "db/d9f/a15420.html#a4c39fd26b4ab6bd861988c19ab3ead37", null ],
-    [ "JustDied", "db/d9f/a15420.html#ab34fe1b0bac1a694c6e76d3cebf67172", null ],
-    [ "JustRespawned", "db/d9f/a15420.html#a6b860a2b93654f92fb821b8907a3cc91", null ],
-    [ "RelocateSummons", "db/d9f/a15420.html#a22d63ca89f2ebce396eb0a5a6cb69d13", null ],
-    [ "RemoveSummons", "db/d9f/a15420.html#a53c900f7bfa720bfdfc22531ac916c5b", null ],
-    [ "SetData", "db/d9f/a15420.html#a26576302fc0f6897d604030431651908", null ],
-    [ "SetGUID", "db/d9f/a15420.html#ada67b8aa3de368daa6e143924cce6a9e", null ],
-    [ "SummonedCreatureDespawn", "db/d9f/a15420.html#a4dabd8ae79a6b956264dea7ba2359e7d", null ],
-    [ "SummonedCreatureDies", "db/d9f/a15420.html#a85cd2486bad6cda8867eba29538842e9", null ],
-    [ "SummonHelpers", "db/d9f/a15420.html#a38986eddc806f76fdefa99de1cd46fb5", null ],
-    [ "SummonsFollow", "db/d9f/a15420.html#a81a72db27d196b2fb6696b6466d26449", null ],
-    [ "UpdateEscortAI", "db/d9f/a15420.html#a2c3704eaa58cc11e86a9e1eb60e3e543", null ],
-    [ "WaypointReached", "db/d9f/a15420.html#ab9d7763f86dcbaa3bf6e2c12c5d872e7", null ],
-    [ "_faction", "db/d9f/a15420.html#a4ff6b0e39f7cbf8ba5f4c79159a03e45", null ],
-    [ "_playerGUID", "db/d9f/a15420.html#a94277075d53a9d9115894e3bf378d106", null ],
-    [ "events", "db/d9f/a15420.html#a251f091e5b314341c8e5131bf38188f0", null ],
-    [ "headNorth", "db/d9f/a15420.html#aace73f2e878ebaf30634431f9f1068ab", null ],
-    [ "summons", "db/d9f/a15420.html#a9af9323b3bf6df4a85445d9859609c78", null ]
+    [ "npc_cork_gizeltonAI", "d9/da7/a15424.html", "d9/da7/a15424" ],
+    [ "npc_cork_gizelton", "db/d9f/a15420.html#a915aa2abc18109e7d0197863f59536f2", null ],
+    [ "GetAI", "db/d9f/a15420.html#a8a5fe5c46767aa37fd6e5b10e1bfc372", null ],
+    [ "OnQuestAccept", "db/d9f/a15420.html#a11dc1fea0a24add451272b537298fc13", null ]
 ];

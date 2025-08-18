@@ -1,6 +1,7 @@
 var a26564 =
 [
-    [ "CheckProc", "dd/d8a/a26564.html#a4e40a3472a7dde5aaa1d6d4cda54482a", null ],
-    [ "PrepareAuraScript", "dd/d8a/a26564.html#af15109e926eb717c3f3cb2f7f617428c", null ],
-    [ "Register", "dd/d8a/a26564.html#aee35ceec1ffcdebf5bd712310bdf9f1c", null ]
+    [ "CalcPeriodic", "dd/d8a/a26564.html#af787d0c8738284e757f808e7d138bdc6", null ],
+    [ "PrepareAuraScript", "dd/d8a/a26564.html#a383db196133bbecee06fe443fdb1bc24", null ],
+    [ "Register", "dd/d8a/a26564.html#a1c617b5b26805b0feb468c55337f9d4c", null ],
+    [ "Update", "dd/d8a/a26564.html#af3f4a7b82e099313d609df7f85f02d00", null ]
 ];

@@ -1,13 +1,12 @@
 var a23184 =
 [
-    [ "npc_inner_demon", "d8/dae/a23184.html#a12063a0125e0e9b5ba5a73f669bfcd84", null ],
-    [ "CanAIAttack", "d8/dae/a23184.html#a7498fd32b0ace832b38dc624d07478ed", null ],
-    [ "CanBeSeen", "d8/dae/a23184.html#a5e61d5fc45bf95efaa06f81df58b5fab", null ],
-    [ "CanReceiveDamage", "d8/dae/a23184.html#a7b0bc55f8dfbba2dc3a3b7d314083bc2", null ],
-    [ "IsSummonedBy", "d8/dae/a23184.html#a5ed405dd9315cb255d14d3e5f808dc9d", null ],
-    [ "JustDied", "d8/dae/a23184.html#a15ab3cd6576055ec7ba29a5ed44e73db", null ],
-    [ "OnCalculateMeleeDamageReceived", "d8/dae/a23184.html#ae95022548b44b23ef93fae24729b5af5", null ],
-    [ "OnCalculatePeriodicTickReceived", "d8/dae/a23184.html#a546281a2257d0407d294fba1f7d3426f", null ],
-    [ "OnCalculateSpellDamageReceived", "d8/dae/a23184.html#aa40ee81a4456e1a1f7254d2169f50e88", null ],
-    [ "UpdateAI", "d8/dae/a23184.html#a977a76b54c4eae6461559d7b15cfc4b2", null ]
+    [ "boss_leotheras_the_blind", "d8/dae/a23184.html#a9229850f996812366a20508931965a87", null ],
+    [ "AttackStart", "d8/dae/a23184.html#a678ed3eba7d53976fd6efa9051d11124", null ],
+    [ "DemonTime", "d8/dae/a23184.html#af62091f4c045b1a85ef022fdc81b6d30", null ],
+    [ "DoAction", "d8/dae/a23184.html#a4f3fd791f12b3f176ce109237c516889", null ],
+    [ "ElfTime", "d8/dae/a23184.html#a52f101530de8883231faa7f5fe689691", null ],
+    [ "MoveToTargetIfOutOfRange", "d8/dae/a23184.html#a3481cfa1883988b8c1c3f65b9009860d", null ],
+    [ "Reset", "d8/dae/a23184.html#a5d4be42da1c7ae15c98b608f39ef82db", null ],
+    [ "UpdateAI", "d8/dae/a23184.html#a89deeb1888046d1f4756bcb6447d8f0d", null ],
+    [ "_recentlySpoken", "d8/dae/a23184.html#ad5231f13a247247dd7095b16c381fc7c", null ]
 ];

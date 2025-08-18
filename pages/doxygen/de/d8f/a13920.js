@@ -1,8 +1,7 @@
 var a13920 =
 [
-    [ "HandleScriptEffect", "de/d8f/a13920.html#af7f22d3b7ba136ec2af88656b9805168", null ],
-    [ "PrepareSpellScript", "de/d8f/a13920.html#aa7b7a3d099b95c9adeb3d9e2198ed8d3", null ],
-    [ "Register", "de/d8f/a13920.html#a6a6d95c6d33bc8d90a2022e1ce23c635", null ],
-    [ "Validate", "de/d8f/a13920.html#a94a5697e9d8a068fe6ae34b8aaf974fd", null ],
-    [ "spells", "de/d8f/a13920.html#a902fc17746af82a4c58fe599c9616ce2", null ]
+    [ "HandleTriggerSpell", "de/d8f/a13920.html#a66b366f4989d99a58b331e56024e4520", null ],
+    [ "PrepareAuraScript", "de/d8f/a13920.html#a4b00497e095b5c43571b543252b31e58", null ],
+    [ "Register", "de/d8f/a13920.html#abacee7689888bf8c5d21b534a6d71b40", null ],
+    [ "Validate", "de/d8f/a13920.html#a6bef0ac760a319deed6f71fee213e885", null ]
 ];

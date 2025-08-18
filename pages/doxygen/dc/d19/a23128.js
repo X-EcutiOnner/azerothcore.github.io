@@ -1,13 +1,19 @@
 var a23128 =
 [
-    [ "boss_fathomguard_caribdis", "dc/d19/a23128.html#a9172b9717e5137ddde7df38bb237478c", null ],
-    [ "EnterEvadeMode", "dc/d19/a23128.html#aa666a491a776b12a042ee140aedc95eb", null ],
-    [ "JustDied", "dc/d19/a23128.html#ab821365b35a48f70a11c6033fe2ca714", null ],
-    [ "JustEngagedWith", "dc/d19/a23128.html#a5503519998f51f475420ada2210f32f0", null ],
-    [ "JustSummoned", "dc/d19/a23128.html#a39ca45ec0de50b7d7a5ec866c4017a8a", null ],
-    [ "Reset", "dc/d19/a23128.html#a0d2a3403d5934e86a897b3417ed2214a", null ],
-    [ "UpdateAI", "dc/d19/a23128.html#af4a544f37d178de21d84f2544f24431e", null ],
-    [ "_instance", "dc/d19/a23128.html#a73f567f2269aeca1435af82e1c6880e9", null ],
-    [ "_scheduler", "dc/d19/a23128.html#a08b01e9735e421d8d5bbc2b552217762", null ],
-    [ "_summons", "dc/d19/a23128.html#ac8b53cb81547a2423a13c997badb77e3", null ]
+    [ "boss_fathomguard_tidalvess", "dc/d19/a23128.html#aa4c3ac27c72e659bd87ad83bbadfb04c", null ],
+    [ "DoAction", "dc/d19/a23128.html#a909601091c25285e0a6c9773b61ff049", null ],
+    [ "EnterEvadeMode", "dc/d19/a23128.html#a8fe1a7a13b0d3d806edcfe8e9bf4ff33", null ],
+    [ "JustDied", "dc/d19/a23128.html#a7f79a16e0c186e97aeb7f16f3b7d45ea", null ],
+    [ "JustEngagedWith", "dc/d19/a23128.html#aa524d5c047b50df8d83b5faa3fd791fc", null ],
+    [ "JustSummoned", "dc/d19/a23128.html#a1dc16180610c742e98a93f87653e93e9", null ],
+    [ "Reset", "dc/d19/a23128.html#af218abccb0b61e483dcc6d7a3313d99d", null ],
+    [ "ScheduleRemoval", "dc/d19/a23128.html#a07c887552c8705b52caf9e102788a781", null ],
+    [ "SummonTotem", "dc/d19/a23128.html#adb4d877f50ba5653d699a0a123f5961c", null ],
+    [ "UpdateAI", "dc/d19/a23128.html#abce5d58fced89ecaac1d1f34989f0d9e", null ],
+    [ "_choice", "dc/d19/a23128.html#a0ced209c6f22a0bf435a0249a25b15c4", null ],
+    [ "_entryList", "dc/d19/a23128.html#a9eaeaf02dbe143d38ca857e5ae478aca", null ],
+    [ "_instance", "dc/d19/a23128.html#a958c76b6ad9d9713625b10baa0d6d992", null ],
+    [ "_scheduler", "dc/d19/a23128.html#ae1652d83938dc820255e383870b957a7", null ],
+    [ "_summons", "dc/d19/a23128.html#aea75646687854c08eaee75c55718376d", null ],
+    [ "_totemScheduler", "dc/d19/a23128.html#a1b4ace7575946c585cc63057e81a1529", null ]
 ];

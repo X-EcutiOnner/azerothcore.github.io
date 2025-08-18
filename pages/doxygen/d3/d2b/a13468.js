@@ -1,8 +1,9 @@
 var a13468 =
 [
-    [ "npc_sunblade_arch_mage", "d3/d2b/a13468.html#a25cc45033c55f1099b50eab4b4f497ee", null ],
-    [ "JustEngagedWith", "d3/d2b/a13468.html#aadeae32d691229b7b7b531175b8a5018", null ],
-    [ "Reset", "d3/d2b/a13468.html#a0d0349ea507b1f8431014c55eef5ce0e", null ],
-    [ "UpdateAI", "d3/d2b/a13468.html#a3289fbad5f987a3d5d9986a31a1c442f", null ],
-    [ "scheduler", "d3/d2b/a13468.html#aa6680f06651316996868907b1d28126c", null ]
+    [ "spell_sunwell_teleport", "d3/d2b/a13468.html#a6c61c9bb6cb5737469686a7976207f1d", null ],
+    [ "HandleScript", "d3/d2b/a13468.html#a4bd9ef50ecc45c792feb8e4d820298b5", null ],
+    [ "PrepareSpellScript", "d3/d2b/a13468.html#afc3c927b4bd5ec19074a0ee6d59783f2", null ],
+    [ "Register", "d3/d2b/a13468.html#a3a82c7a6d6673c5860b196e0cd644aab", null ],
+    [ "Validate", "d3/d2b/a13468.html#a351a2beced058f9354515baa38b0292e", null ],
+    [ "_triggeredSpellId", "d3/d2b/a13468.html#a66d97a0028b8a0c430ac5152213f60eb", null ]
 ];

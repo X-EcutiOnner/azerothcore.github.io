@@ -1,12 +1,6 @@
 var a19900 =
 [
-    [ "npc_freya_wardAI", "d4/dfa/a19900.html#afbc2f3d88173e240b87915cf0520b3cf", null ],
-    [ "DoAction", "d4/dfa/a19900.html#a4c9418b5474eb572a76168d4a460159a", null ],
-    [ "JustSummoned", "d4/dfa/a19900.html#a9075d763014ca50b4e0d2c815e1c23b7", null ],
-    [ "Reset", "d4/dfa/a19900.html#a65d304edd3b00b4a45c58bf36b926900", null ],
-    [ "SummonedCreatureDespawn", "d4/dfa/a19900.html#a6273b024ebde2fb36ed79eb122f7ac68", null ],
-    [ "UpdateAI", "d4/dfa/a19900.html#a11dd073b70e5126f580ec5122dce7bbd", null ],
-    [ "_castTimer", "d4/dfa/a19900.html#a6308aadc8ebf41cf045b04ac58e2244b", null ],
-    [ "_summoned", "d4/dfa/a19900.html#a5df6604055c5f3936a95f8d0ca5be8c1", null ],
-    [ "summons", "d4/dfa/a19900.html#a82932e9f2d570fa6d8394bfd3954c41e", null ]
+    [ "npc_freya_wardAI", "d8/d5c/a19904.html", "d8/d5c/a19904" ],
+    [ "npc_freya_ward", "d4/dfa/a19900.html#aebaadcc001922c78e8ec43084a827ac9", null ],
+    [ "GetAI", "d4/dfa/a19900.html#a90c0e7a0be1717bf1793415b6fcafbed", null ]
 ];

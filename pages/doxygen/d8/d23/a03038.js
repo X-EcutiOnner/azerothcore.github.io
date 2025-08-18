@@ -1,8 +1,8 @@
 var a03038 =
 [
-    [ "boss_thekal", "d9/d7b/a14116.html", "d9/d7b/a14116" ],
-    [ "npc_zealot_lorkhan", "d2/d7a/a14120.html", "d2/d7a/a14120" ],
-    [ "npc_zealot_zath", "dc/d10/a14124.html", "dc/d10/a14124" ],
+    [ "boss_thekal", "d2/d7a/a14120.html", "d2/d7a/a14120" ],
+    [ "npc_zealot_lorkhan", "dc/d10/a14124.html", "dc/d10/a14124" ],
+    [ "npc_zealot_zath", "d6/da1/a14128.html", "d6/da1/a14128" ],
     [ "Actions", "d8/d23/a03038.html#a250372292659bed7ae290d8621f88ccf", [
       [ "ACTION_GUNSHIP_READY", "d3/d5e/a00275.html#a250372292659bed7ae290d8621f88ccfaae8bb35d65ee37e4d232e2a67aeca581", null ],
       [ "ACTION_TELEPORT_PLAYER_TO_TRANSPORT", "d3/d5e/a00275.html#a250372292659bed7ae290d8621f88ccfa6b86b0986a459bb245b3a3cd8b75040c", null ],

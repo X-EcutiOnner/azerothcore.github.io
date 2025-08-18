@@ -1,6 +1,6 @@
 var a24464 =
 [
-    [ "FilterTargets", "d8/d98/a24464.html#a991a944f31680e4d53cc2a46d8c8b8bf", null ],
-    [ "PrepareSpellScript", "d8/d98/a24464.html#aea49df3f6b93223ed72c3a9875232b74", null ],
-    [ "Register", "d8/d98/a24464.html#a8f0e0b6363303def780d35415c88b4d6", null ]
+    [ "HandleEffectRemove", "d8/d98/a24464.html#a9472b79a272aff36be657b66883d822f", null ],
+    [ "PrepareAuraScript", "d8/d98/a24464.html#ad46fedf6ef019d1b5e93d98e7bba8417", null ],
+    [ "Register", "d8/d98/a24464.html#ace15e1f5c158f1f203862b40da2cf8fc", null ]
 ];

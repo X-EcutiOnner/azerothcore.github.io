@@ -1,6 +1,6 @@
 var a18424 =
 [
-    [ "npc_lk_wicked_spiritAI", "d5/d94/a18428.html", "d5/d94/a18428" ],
-    [ "npc_lk_wicked_spirit", "d8/ddb/a18424.html#adb5f0d5db260b3e5b4df3725c0b62827", null ],
-    [ "GetAI", "d8/ddb/a18424.html#ad75b36f2f7242dea685cd67dc72d0d30", null ]
+    [ "ActivateSpirit", "d8/ddb/a18424.html#ae5c9f8e693a98c828e0e922870552952", null ],
+    [ "PrepareSpellScript", "d8/ddb/a18424.html#aa55f0fe4e27520b8a7ae1bb0f810838d", null ],
+    [ "Register", "d8/ddb/a18424.html#a2b1d27e93a879681098a83d17c4d686a", null ]
 ];

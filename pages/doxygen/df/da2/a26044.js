@@ -1,8 +1,10 @@
 var a26044 =
 [
-    [ "HandleDummy", "df/da2/a26044.html#a04ff6beb930b65395ebc3df99bc53dfa", null ],
-    [ "PrepareSpellScript", "df/da2/a26044.html#a73eabf1e68c966f31fe8d83c2fd925c1", null ],
-    [ "Register", "df/da2/a26044.html#a6b03fbcf18612d9bb7361c3e4f022dc0", null ],
-    [ "Validate", "df/da2/a26044.html#a9df13e3e8895854bc086fbfaccfb1b2c", null ],
-    [ "PolymorhForms", "df/da2/a26044.html#a1443d2532a060514e697a8d5e0c21b20", null ]
+    [ "AfterCheckProc", "df/da2/a26044.html#aa6f32a97ece5fc68c0b0a2cfa36e33eb", null ],
+    [ "HandleProc", "df/da2/a26044.html#a613182c741769d0983206bdfa89242f6", null ],
+    [ "PrepareAuraScript", "df/da2/a26044.html#a4f614fe81d829d8a1ceb7500f9557948", null ],
+    [ "Register", "df/da2/a26044.html#acd807de02a83a97a78572d672fb16027", null ],
+    [ "Validate", "df/da2/a26044.html#a3d2d6f1a00825ac66f507a790f468198", null ],
+    [ "_spellInfo", "df/da2/a26044.html#a66a5eb4caa7b43c34b2830d9a3d2f994", null ],
+    [ "_ticksModifier", "df/da2/a26044.html#ae23b54499fff879a096bd459e264c4f0", null ]
 ];

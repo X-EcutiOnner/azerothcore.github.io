@@ -1,7 +1,12 @@
 var a15640 =
 [
-    [ "npc_giltharesAI", "da/db5/a15644.html", "da/db5/a15644" ],
-    [ "npc_gilthares", "d4/d9b/a15640.html#af1e0746350b32b68825710e1c3ed91a5", null ],
-    [ "GetAI", "d4/d9b/a15640.html#a96293e28237a092c64f6a91d91bc7ff3", null ],
-    [ "OnQuestAccept", "d4/d9b/a15640.html#a018cc6240a79216acb371241f63e3234", null ]
+    [ "npc_toogaAI", "d4/d9b/a15640.html#a4db363c7e787f5fbbd61b418cfa87367", null ],
+    [ "MoveInLineOfSight", "d4/d9b/a15640.html#aff15508b97bce5f5fad9cf9750e89ff1", null ],
+    [ "MovementInform", "d4/d9b/a15640.html#a9315e8ba2688903aaf5b871a7490a700", null ],
+    [ "Reset", "d4/d9b/a15640.html#acfedaf5cc989451a4259a65661685f66", null ],
+    [ "UpdateFollowerAI", "d4/d9b/a15640.html#a742791e714be1ff713ab87e7d515bd9e", null ],
+    [ "CheckSpeechTimer", "d4/d9b/a15640.html#a938852d834c5eb8ba4abceaf49e9a5da", null ],
+    [ "PhasePostEvent", "d4/d9b/a15640.html#a4996291afa64e35f3604b2a85ea03dda", null ],
+    [ "PostEventTimer", "d4/d9b/a15640.html#abea9fa4d2623dab4f14978a7f94b595f", null ],
+    [ "TortaGUID", "d4/d9b/a15640.html#a4531aa0e2c7fe7f3207e56fc2ed67c25", null ]
 ];

@@ -1,7 +1,6 @@
 var a26900 =
 [
-    [ "HandleApplyAura", "d0/dbb/a26900.html#ae364ff4048a2f59eadecd6934c7a0e13", null ],
-    [ "PrepareSpellScript", "d0/dbb/a26900.html#adf09900347264bc341884092ea0fee40", null ],
-    [ "Register", "d0/dbb/a26900.html#ac56484d4048817a164963e519a97d137", null ],
-    [ "Validate", "d0/dbb/a26900.html#ac028c0faf659fb74b2ffa5f85f58f8d1", null ]
+    [ "HandleCast", "d0/dbb/a26900.html#ac6afa94be0da1f99b12afebe935bcb5d", null ],
+    [ "PrepareSpellScript", "d0/dbb/a26900.html#aa784c7af6fe38069fca4dcff9a09a22b", null ],
+    [ "Register", "d0/dbb/a26900.html#a81bc86c83ffc70602410912870e61700", null ]
 ];

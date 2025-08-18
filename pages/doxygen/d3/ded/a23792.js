@@ -1,6 +1,6 @@
 var a23792 =
 [
-    [ "HandleCast", "d3/ded/a23792.html#a912dc3b17ab7d0818089c32610d82a16", null ],
-    [ "PrepareSpellScript", "d3/ded/a23792.html#a6590aab70049aa5e94ed48aeb99ab1d0", null ],
-    [ "Register", "d3/ded/a23792.html#a09d4af96e2d5a69b1b61a6055bcb04d4", null ]
+    [ "HandlePeriodic", "d3/ded/a23792.html#ad47e8edce33f9b923aa7bbfe8d0c082a", null ],
+    [ "PrepareAuraScript", "d3/ded/a23792.html#a2aa04c3c08ffc15b481b740d88a54918", null ],
+    [ "Register", "d3/ded/a23792.html#acf77c76f02671da215c7103b60ed77ac", null ]
 ];

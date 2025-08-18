@@ -1,6 +1,6 @@
 var a27284 =
 [
-    [ "go_midsummer_musicAI", "d7/de5/a27284.html#a8cbadc16a9588c469ff48dbaf51ac71c", null ],
-    [ "UpdateAI", "d7/de5/a27284.html#adf185ee702e9e74f65204b90786f9eb4", null ],
-    [ "_events", "d7/de5/a27284.html#a31e45a754930cdc3206fe2b7f754d234", null ]
+    [ "go_midsummer_musicAI", "df/da0/a27288.html", "df/da0/a27288" ],
+    [ "go_midsummer_music", "d7/de5/a27284.html#a39c38fc78b47b16be9eebee0ccd5041d", null ],
+    [ "GetAI", "d7/de5/a27284.html#a1baf09bdbf67c0a85219454c1cd61d2b", null ]
 ];

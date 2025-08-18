@@ -1,6 +1,7 @@
 var a23916 =
 [
-    [ "HandleAfterRemove", "dc/dc8/a23916.html#ac9756a8f206c114ff6443331ca266184", null ],
-    [ "PrepareAuraScript", "dc/dc8/a23916.html#a2f67291e6e4291c9d01cdbcbe04a7db7", null ],
-    [ "Register", "dc/dc8/a23916.html#ac36d76ad8a5ecb2e437dcb8f1248386d", null ]
+    [ "HandleDamage", "dc/dc8/a23916.html#add7e78111217d00bfa3dfa5b3eb490f9", null ],
+    [ "HandleTargets", "dc/dc8/a23916.html#ac9e455d4ef5cc7b7ce424b70b4387c78", null ],
+    [ "PrepareSpellScript", "dc/dc8/a23916.html#a46b62a09ea23cb102b0e5cf075c727d4", null ],
+    [ "Register", "dc/dc8/a23916.html#a8873614ae22c908cb2cf49129fc53be2", null ]
 ];

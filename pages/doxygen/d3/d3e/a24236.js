@@ -1,6 +1,5 @@
 var a24236 =
 [
-    [ "npc_enraged_spiritAI", "d9/dce/a24240.html", "d9/dce/a24240" ],
-    [ "npc_enraged_spirit", "d3/d3e/a24236.html#a17d9e2e5fb8f2795fdeff26567bbf85f", null ],
-    [ "GetAI", "d3/d3e/a24236.html#aa10d5f0147cf4064a49df735ac95575e", null ]
+    [ "go_crystal_prison", "d3/d3e/a24236.html#a0faca8b76f9650ee5cc7825b90463365", null ],
+    [ "OnQuestAccept", "d3/d3e/a24236.html#ad19d8bdf8361d5d7fca2917a6bf0977a", null ]
 ];
