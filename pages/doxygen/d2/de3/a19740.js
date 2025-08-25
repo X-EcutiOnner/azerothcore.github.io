@@ -1,6 +1,6 @@
 var a19740 =
 [
-    [ "HandlePeriodic", "d2/de3/a19740.html#a0a77c0b232e24e5cb8b3392ac8adbd3a", null ],
-    [ "PrepareAuraScript", "d2/de3/a19740.html#a7c6b6839da4a93f656800c9ae174c832", null ],
-    [ "Register", "d2/de3/a19740.html#ae28e67baa12488e248efd46ef5a7cb11", null ]
+    [ "npc_collapsing_starAI", "d2/d18/a19744.html", "d2/d18/a19744" ],
+    [ "npc_collapsing_star", "d2/de3/a19740.html#a8d57987c9b4622746d4f42a2b4845b9e", null ],
+    [ "GetAI", "d2/de3/a19740.html#a346af96d122e64c68defdeccb9183cd4", null ]
 ];

@@ -1,7 +1,6 @@
 var a27280 =
 [
-    [ "go_darkmoon_faire_musicAI", "d9/d2b/a27280.html#a2ee13dd1260c1ad5b810c25665c9ec87", null ],
-    [ "UpdateAI", "d9/d2b/a27280.html#af3d802bd852fc0483f72781edb13b5d5", null ],
-    [ "_events", "d9/d2b/a27280.html#acc7e15d2b286b7df262623acf7ea7f03", null ],
-    [ "rnd", "d9/d2b/a27280.html#a9a4c983f11c4d912f31eaaf351afc016", null ]
+    [ "go_bear_trapAI", "d7/de5/a27284.html", "d7/de5/a27284" ],
+    [ "go_bear_trap", "d9/d2b/a27280.html#a6301aa23009ac2599fc37b81bb3a0750", null ],
+    [ "GetAI", "d9/d2b/a27280.html#afb882fd4cc2e4379bb8d5afff210a679", null ]
 ];

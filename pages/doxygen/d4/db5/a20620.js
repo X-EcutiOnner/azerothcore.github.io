@@ -1,6 +1,8 @@
 var a20620 =
 [
-    [ "boss_thorim_sifAI", "da/d24/a20624.html", "da/d24/a20624" ],
-    [ "boss_thorim_sif", "d4/db5/a20620.html#a71ef8a92f648cbea6553ed1cc657f13d", null ],
-    [ "GetAI", "d4/db5/a20620.html#ae4eadf2bf83c41a8f05b853267b5fcf9", null ]
+    [ "npc_ulduar_dark_rune_guardianAI", "d4/db5/a20620.html#aedb43124c923621aadecb77511204fc6", null ],
+    [ "CanAIAttack", "d4/db5/a20620.html#af23cb4a19d28f5aa57ba96de95f87c87", null ],
+    [ "Reset", "d4/db5/a20620.html#a4c1f53fbbc6189ca9ee0420bc4198684", null ],
+    [ "UpdateAI", "d4/db5/a20620.html#ad21127654d5511b6b1d9b22cdd77bd08", null ],
+    [ "timer2", "d4/db5/a20620.html#aa66f1aa48cf928ac12751cb3ca2358f3", null ]
 ];

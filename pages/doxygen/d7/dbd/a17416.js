@@ -1,6 +1,25 @@
 var a17416 =
 [
-    [ "FilterTargets", "d7/dbd/a17416.html#a59255a2cee0f9d8a75ca183647851779", null ],
-    [ "PrepareSpellScript", "d7/dbd/a17416.html#af8d1cc9c709aeb3a68d1f452bb605c71", null ],
-    [ "Register", "d7/dbd/a17416.html#a6b6dbeaa8feb8eac4441a87cdf371a36", null ]
+    [ "boss_blood_queen_lana_thelAI", "d7/dbd/a17416.html#ab28467f9b11a87162dae0306a1f2fb20", null ],
+    [ "CanAIAttack", "d7/dbd/a17416.html#a4b6ce34090fcf21eb68560c078278303", null ],
+    [ "CleanAuras", "d7/dbd/a17416.html#a78b0d391090e9d2424da315bf1f696e9", null ],
+    [ "DoAction", "d7/dbd/a17416.html#a2e7d45ce9d7a0e05b60c9e94f736d1b3", null ],
+    [ "EnterEvadeMode", "d7/dbd/a17416.html#afb02799e3fad05e2e0d48ea5b3be7526", null ],
+    [ "GoToMinchar", "d7/dbd/a17416.html#acb939a02a912d1db13947a939f4c554c", null ],
+    [ "JustDied", "d7/dbd/a17416.html#a475fcf43849c5cd2144020f57c2a461f", null ],
+    [ "JustEngagedWith", "d7/dbd/a17416.html#a01866a1f5a20bd9b4ccf754051dedd10", null ],
+    [ "KilledUnit", "d7/dbd/a17416.html#aebb53f7599dd3a55953946b7cc9e76d6", null ],
+    [ "MovementInform", "d7/dbd/a17416.html#a4b74cb2b2f36ae115327e8a0532fdc23", null ],
+    [ "Reset", "d7/dbd/a17416.html#abc58e7c6c384ea4c342d6b153557c4b1", null ],
+    [ "SetGUID", "d7/dbd/a17416.html#ac1620cfe6e8f20a8ef54b211a5641bea", null ],
+    [ "UpdateAI", "d7/dbd/a17416.html#a13fe9d7463efbecf63d78fce59fc4fab", null ],
+    [ "WasBloodbolted", "d7/dbd/a17416.html#a76f5eca557f9d25c8025a909b1de8faf", null ],
+    [ "WasVampire", "d7/dbd/a17416.html#a7a74b7241f0ff736bdff7088ee384695", null ],
+    [ "_bloodboltedPlayers", "d7/dbd/a17416.html#a1c5ef6d44112d67a29dde74371ab644a", null ],
+    [ "_creditBloodQuickening", "d7/dbd/a17416.html#a3534b15706cd35ad8de485fc430207b1", null ],
+    [ "_killMinchar", "d7/dbd/a17416.html#ac617b5511beacd7b98d0e9ae8773e7dc", null ],
+    [ "_offtankGUID", "d7/dbd/a17416.html#a8a4d21d7ab9ad827c88a7869000c3628", null ],
+    [ "_tankGUID", "d7/dbd/a17416.html#a231f68b31fdd105559c186d4edbfc47b", null ],
+    [ "_vampires", "d7/dbd/a17416.html#af808b2b543ea9b27b4b03d0e561fb90e", null ],
+    [ "bEnteredCombat", "d7/dbd/a17416.html#aca37d322e154ae01ceb4e96b3b42d5d0", null ]
 ];

@@ -1,6 +1,7 @@
 var a17748 =
 [
-    [ "npc_cult_fanaticAI", "dd/d2b/a17752.html", "dd/d2b/a17752" ],
-    [ "npc_cult_fanatic", "d0/d6e/a17748.html#af29ab8f7628b96b0f192bccab74ca02e", null ],
-    [ "GetAI", "d0/d6e/a17748.html#ae4d22bac12d17d79669d3fccd4029952", null ]
+    [ "HandleScript", "d0/d6e/a17748.html#ae3e8d811d3ad6561768dfff3a16ec9bd", null ],
+    [ "PrepareSpellScript", "d0/d6e/a17748.html#ab69926839f72ee76eba2b225aba9690c", null ],
+    [ "Register", "d0/d6e/a17748.html#aad8925e891d7537993f02f3bc2552fea", null ],
+    [ "SelectRandomTarget", "d0/d6e/a17748.html#aae77f6693a3e5d01e3d05cb990fd1fe5", null ]
 ];

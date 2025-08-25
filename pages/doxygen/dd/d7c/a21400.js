@@ -1,11 +1,12 @@
 var a21400 =
 [
-    [ "npc_vh_void_sentryAI", "dd/d7c/a21400.html#a312f4bbc07e6d786e85c2b4e89d36344", null ],
-    [ "DoAction", "dd/d7c/a21400.html#a0bc95eea54b5cdc16a4d3f588f3ff900", null ],
-    [ "JustDied", "dd/d7c/a21400.html#add5121ed38a74be9ae168df5f893f89e", null ],
-    [ "SummonedCreatureDespawn", "dd/d7c/a21400.html#a24ff36cdb049da7c67c1f041361e17e4", null ],
-    [ "UpdateAI", "dd/d7c/a21400.html#ae1f683d5ef920213c9c86da35c626381", null ],
-    [ "checkTimer", "dd/d7c/a21400.html#a675bcae4119e45490403013534c731ef", null ],
-    [ "pInstance", "dd/d7c/a21400.html#a7527473944681143bab89fd12b475645", null ],
-    [ "SummonedGUID", "dd/d7c/a21400.html#a4420eb2cf4d3b6d161355b0f4ad9516d", null ]
+    [ "boss_lavanthorAI", "dd/d7c/a21400.html#aa562ad1ee029a35adebf8eac8f8249f3", null ],
+    [ "EnterEvadeMode", "dd/d7c/a21400.html#a0334d92f1ddf30235efe298df622535b", null ],
+    [ "JustDied", "dd/d7c/a21400.html#a300dbedf5514998e7065a2ef44a65f1f", null ],
+    [ "JustEngagedWith", "dd/d7c/a21400.html#a9820ec47af72af19f00b172ee138f908", null ],
+    [ "MoveInLineOfSight", "dd/d7c/a21400.html#aa613f70d93be479aa701675dfdb2d3e3", null ],
+    [ "Reset", "dd/d7c/a21400.html#a55d5cc6906033b5c56daa3ed15fabf0f", null ],
+    [ "UpdateAI", "dd/d7c/a21400.html#ab77ac2c78e94fed437e8ccefba4e363c", null ],
+    [ "events", "dd/d7c/a21400.html#a273adc56adefe9810013bc80950f2624", null ],
+    [ "pInstance", "dd/d7c/a21400.html#ad6059577c5e131523f39316c2291b421", null ]
 ];

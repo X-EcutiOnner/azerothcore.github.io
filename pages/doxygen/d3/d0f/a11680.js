@@ -1,6 +1,9 @@
 var a11680 =
 [
-    [ "inventory_commandscript", "d3/d0f/a11680.html#a765d3606093dd3e15bb59c058333dca7", null ],
-    [ "GetCommands", "d3/d0f/a11680.html#ac002b65cbe2e5dafc7614c7afa4a20e6", null ],
-    [ "HandleInventoryCountCommand", "d3/d0f/a11680.html#a60d05e2fd4e23fdb6bc6513a1dc67ba3", null ]
+    [ "event_commandscript", "d3/d0f/a11680.html#a160db0ad8874b0834ef863043b1796ae", null ],
+    [ "GetCommands", "d3/d0f/a11680.html#aac32a7f3d2d11dc73dfa3e9f8224560e", null ],
+    [ "HandleEventActiveListCommand", "d3/d0f/a11680.html#a6752be35103bb585984083a449c85714", null ],
+    [ "HandleEventInfoCommand", "d3/d0f/a11680.html#a1f0815bccd6cef61826ada4e349708d9", null ],
+    [ "HandleEventStartCommand", "d3/d0f/a11680.html#ad46dbd8892db3548d889d4127461c8e3", null ],
+    [ "HandleEventStopCommand", "d3/d0f/a11680.html#a1322b3206a1846dc0404a3fb5c74e025", null ]
 ];

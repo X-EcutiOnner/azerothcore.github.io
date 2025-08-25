@@ -1,19 +1,7 @@
 var a23128 =
 [
-    [ "boss_fathomguard_tidalvess", "dc/d19/a23128.html#aa4c3ac27c72e659bd87ad83bbadfb04c", null ],
-    [ "DoAction", "dc/d19/a23128.html#a909601091c25285e0a6c9773b61ff049", null ],
-    [ "EnterEvadeMode", "dc/d19/a23128.html#a8fe1a7a13b0d3d806edcfe8e9bf4ff33", null ],
-    [ "JustDied", "dc/d19/a23128.html#a7f79a16e0c186e97aeb7f16f3b7d45ea", null ],
-    [ "JustEngagedWith", "dc/d19/a23128.html#aa524d5c047b50df8d83b5faa3fd791fc", null ],
-    [ "JustSummoned", "dc/d19/a23128.html#a1dc16180610c742e98a93f87653e93e9", null ],
-    [ "Reset", "dc/d19/a23128.html#af218abccb0b61e483dcc6d7a3313d99d", null ],
-    [ "ScheduleRemoval", "dc/d19/a23128.html#a07c887552c8705b52caf9e102788a781", null ],
-    [ "SummonTotem", "dc/d19/a23128.html#adb4d877f50ba5653d699a0a123f5961c", null ],
-    [ "UpdateAI", "dc/d19/a23128.html#abce5d58fced89ecaac1d1f34989f0d9e", null ],
-    [ "_choice", "dc/d19/a23128.html#a0ced209c6f22a0bf435a0249a25b15c4", null ],
-    [ "_entryList", "dc/d19/a23128.html#a9eaeaf02dbe143d38ca857e5ae478aca", null ],
-    [ "_instance", "dc/d19/a23128.html#a958c76b6ad9d9713625b10baa0d6d992", null ],
-    [ "_scheduler", "dc/d19/a23128.html#ae1652d83938dc820255e383870b957a7", null ],
-    [ "_summons", "dc/d19/a23128.html#aea75646687854c08eaee75c55718376d", null ],
-    [ "_totemScheduler", "dc/d19/a23128.html#a1b4ace7575946c585cc63057e81a1529", null ]
+    [ "HandleScriptEffect", "dc/d19/a23128.html#a0038e566bc5054e4208fd727fcc266fa", null ],
+    [ "PrepareSpellScript", "dc/d19/a23128.html#abb661bacf4cec1f2e15f4aeda2ab991e", null ],
+    [ "Register", "dc/d19/a23128.html#a416b811c2676c598df0ac0e5906a94d3", null ],
+    [ "Validate", "dc/d19/a23128.html#a11e82a2b40dbbd9949a1dda3bd715679", null ]
 ];

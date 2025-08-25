@@ -1,5 +1,10 @@
 var a28176 =
 [
-    [ "Id", "d2/d56/a28176.html#a2c41c957524b31ad9f7fa361ec0e9d01", null ],
-    [ "textid", "d2/d56/a28176.html#a7e50690fa335b759dba5ac265c9a0dd0", null ]
+    [ "HasFlag", "d2/d56/a28176.html#abe23ca5437589a38ea57bc93a6197911", null ],
+    [ "CollisionHeight", "d2/d56/a28176.html#afd7385ab3dd949ebe230e0a01cec7158", null ],
+    [ "CollisionWidth", "d2/d56/a28176.html#ab79497759cf169348b8922301fc43b2f", null ],
+    [ "Flags", "d2/d56/a28176.html#a3bb96e232124771e78f8b5db53405106", null ],
+    [ "Id", "d2/d56/a28176.html#aa19fec147703c7542be260c8ec5a0446", null ],
+    [ "MountHeight", "d2/d56/a28176.html#a5300334ce02dd5a3b9ea6796eddb7ced", null ],
+    [ "Scale", "d2/d56/a28176.html#a08d8be1d2dbc9eb67e1f631650ea74da", null ]
 ];

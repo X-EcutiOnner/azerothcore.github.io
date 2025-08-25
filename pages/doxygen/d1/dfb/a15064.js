@@ -1,7 +1,9 @@
 var a15064 =
 [
-    [ "npc_hivezara_stinger", "d1/dfb/a15064.html#ac9438c9dd260a41d6248f2adcc14b555", null ],
-    [ "JustEngagedWith", "d1/dfb/a15064.html#a433d31057f1732ef7ef15d2023e18b8a", null ],
-    [ "Reset", "d1/dfb/a15064.html#ae8e893c90942a469628c393d5b5380cc", null ],
-    [ "UpdateAI", "d1/dfb/a15064.html#a35a6511ebc0301ae0bb22aafc91c8524", null ]
+    [ "go_ossirian_crystalAI", "d1/dfb/a15064.html#ae4d3c0c2cff08bd9fe86cbfee2cbb980", null ],
+    [ "DoAction", "d1/dfb/a15064.html#a581436335d190466520c07fde56ad441", null ],
+    [ "GossipHello", "d1/dfb/a15064.html#ad1aff0e18d8f4ef7fe5d4cfa7ef17875", null ],
+    [ "SetGUID", "d1/dfb/a15064.html#a9c983aa02285dbebc545b4056191200c", null ],
+    [ "_instance", "d1/dfb/a15064.html#aa2c83296cbe8d49de7bc7262b792e8b3", null ],
+    [ "_triggerGUID", "d1/dfb/a15064.html#abd96d9b4f2c5f41e4a85606b22e1b0cf", null ]
 ];

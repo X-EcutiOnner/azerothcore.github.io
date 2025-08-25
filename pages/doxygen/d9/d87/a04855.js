@@ -1,16 +1,8 @@
 var a04855 =
 [
-    [ "anonymous_namespace{WeatherMgr.cpp}", "db/dde/a04856.html", [
-      [ "WeatherMap", "db/dde/a04856.html#afdd64650acc01e75684c5ae2b269d5c1", null ],
-      [ "WeatherZoneMap", "db/dde/a04856.html#a77b1d830c50ce06ef7bb67f75cbd48b6", null ],
-      [ "GetWeatherData", "db/dde/a04856.html#a8d453fe2bfb19b170807fe92e393bc51", null ],
-      [ "m_weathers", "db/dde/a04856.html#ac2bde7e8b2ecff6ab9b2705d01ce8b2c", null ],
-      [ "mWeatherZoneMap", "db/dde/a04856.html#a977110fadc5eac5e2efa26106382d408", null ]
-    ] ],
-    [ "AddWeather", "dd/d6d/a04777.html#ga1f76350b68494335d48ae206b87e190c", null ],
-    [ "FindWeather", "dd/d6d/a04777.html#gadd11deec2098fed61adf7910b8f09cc6", null ],
-    [ "LoadWeatherData", "dd/d6d/a04777.html#ga6c7d8a9fc5dfce0880220f4b5b8cd623", null ],
-    [ "RemoveWeather", "dd/d6d/a04777.html#ga296a3324a3a38984149fae3e5d62435f", null ],
-    [ "SendFineWeatherUpdateToPlayer", "dd/d6d/a04777.html#gac86b4e254146468a7412d8fc7b0c27f2", null ],
-    [ "Update", "dd/d6d/a04777.html#ga45f0da6cf9e14a99380b4b9be2890801", null ]
+    [ "ByteSize", "d8/d88/a10856.html", "d8/d88/a10856" ],
+    [ "Hyperlinks", "d8/d09/a10864.html", "d8/d09/a10864" ],
+    [ "NoHyperlinks", "d4/d06/a10868.html", "d4/d06/a10868" ],
+    [ "RawBytes", "dd/d04/a10852.html", "dd/d04/a10852" ],
+    [ "Utf8", "d8/dde/a10860.html", "d8/dde/a10860" ]
 ];

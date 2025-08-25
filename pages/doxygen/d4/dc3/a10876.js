@@ -1,6 +1,4 @@
 var a10876 =
 [
-    [ "DismissCritter", "d4/dc3/a10876.html#a87e35583063b340f014d21cd02c54cab", null ],
-    [ "Read", "d4/dc3/a10876.html#a411b65505e8a332ecf9291a670dc38c4", null ],
-    [ "CritterGUID", "d4/dc3/a10876.html#a89c071e81c9d39c099c32c4976f15304", null ]
+    [ "PacketArrayMaxCapacityException", "d4/dc3/a10876.html#ad71e0267bc6c9e5d182954eaa174c40e", null ]
 ];

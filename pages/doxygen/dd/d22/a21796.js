@@ -1,7 +1,6 @@
 var a21796 =
 [
-    [ "CheckRequirement", "dd/d22/a21796.html#a41beb2c890137328734d6adb14e08302", null ],
-    [ "PrepareSpellScript", "dd/d22/a21796.html#aa0b9873dbd8c75a14fa88094d91eeeaa", null ],
-    [ "Register", "dd/d22/a21796.html#aa0fad5e5a68131ebab5717ad0ce69669", null ],
-    [ "SetDest", "dd/d22/a21796.html#a431a556ab73f91ed63f5983e537834a5", null ]
+    [ "npc_future_youAI", "d6/dd8/a21800.html", "d6/dd8/a21800" ],
+    [ "npc_future_you", "dd/d22/a21796.html#a36e363156bcb32fee468989062817bd5", null ],
+    [ "GetAI", "dd/d22/a21796.html#a2e1529fef3ce307d98057dc93ce5e5fe", null ]
 ];

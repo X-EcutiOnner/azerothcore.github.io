@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: ObjectVisibilityContainer Class Reference</title>
+<title>AzerothCore: ObjectPosSelector Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,152 +105,213 @@ $(document).ready(function(){initNavTree('d3/d5b/a08440.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
+<a href="#nested-classes">Classes</a> &#124;
+<a href="#pub-types">Public Types</a> &#124;
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pri-methods">Private Member Functions</a> &#124;
-<a href="#pri-attribs">Private Attributes</a> &#124;
+<a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../d6/d27/a08437.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">ObjectVisibilityContainer Class Reference</div></div>
+  <div class="headertitle"><div class="title">ObjectPosSelector Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">ObjectVisibilityContainer.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">ObjectPosSelector.h</a>&quot;</code></p>
 <table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
+Classes</h2></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/ddf/a08444.html">UsedPos</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-types" name="pub-types"></a>
+Public Types</h2></td></tr>
+<tr class="memitem:a76a3553e006171560baf7aa7cc2bc163"><td class="memItemLeft" align="right" valign="top">typedef std::multimap&lt; float, <a class="el" href="../../db/ddf/a08444.html">UsedPos</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d5b/a08440.html#a76a3553e006171560baf7aa7cc2bc163">UsedPosList</a></td></tr>
+<tr class="separator:a76a3553e006171560baf7aa7cc2bc163"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a341d254635abb0e62e3050b0dbc8ef36"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d5b/a08440.html#a341d254635abb0e62e3050b0dbc8ef36">ObjectVisibilityContainer</a> (<a class="el" href="../../d5/d99/a08396.html">WorldObject</a> *selfObject)</td></tr>
-<tr class="separator:a341d254635abb0e62e3050b0dbc8ef36"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4f62fa8a0d950932342764c0eeb1a455"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d5b/a08440.html#a4f62fa8a0d950932342764c0eeb1a455">~ObjectVisibilityContainer</a> ()</td></tr>
-<tr class="separator:a4f62fa8a0d950932342764c0eeb1a455"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0834e38c975073e75272732be055b4fa"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d5b/a08440.html#a0834e38c975073e75272732be055b4fa">InitForPlayer</a> ()</td></tr>
-<tr class="separator:a0834e38c975073e75272732be055b4fa"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a567fc2f9f863466244482b94d31822cb"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d5b/a08440.html#a567fc2f9f863466244482b94d31822cb">CleanVisibilityReferences</a> ()</td></tr>
-<tr class="separator:a567fc2f9f863466244482b94d31822cb"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab744b89b7d10ab3fe55acb5f35a2c9c3"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d5b/a08440.html#ab744b89b7d10ab3fe55acb5f35a2c9c3">LinkWorldObjectVisibility</a> (<a class="el" href="../../d5/d99/a08396.html">WorldObject</a> *worldObject)</td></tr>
-<tr class="separator:ab744b89b7d10ab3fe55acb5f35a2c9c3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0c23e636a75c75c0b8976282b186a7f5"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d5b/a08440.html#a0c23e636a75c75c0b8976282b186a7f5">UnlinkWorldObjectVisibility</a> (<a class="el" href="../../d5/d99/a08396.html">WorldObject</a> *worldObject)</td></tr>
-<tr class="separator:a0c23e636a75c75c0b8976282b186a7f5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:acb9c8d0ebfd5454ee7b697c0b1da7ad7"><td class="memItemLeft" align="right" valign="top">VisibleWorldObjectsMap::iterator&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d5b/a08440.html#acb9c8d0ebfd5454ee7b697c0b1da7ad7">UnlinkVisibilityFromPlayer</a> (<a class="el" href="../../d5/d99/a08396.html">WorldObject</a> *worldObject, VisibleWorldObjectsMap::iterator itr)</td></tr>
-<tr class="separator:acb9c8d0ebfd5454ee7b697c0b1da7ad7"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab6901d45f3920457bf6fbe6a89987375"><td class="memItemLeft" align="right" valign="top">VisiblePlayersMap::iterator&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d5b/a08440.html#ab6901d45f3920457bf6fbe6a89987375">UnlinkVisibilityFromWorldObject</a> (<a class="el" href="../../d8/d93/a08612.html">Player</a> *player, VisiblePlayersMap::iterator itr)</td></tr>
-<tr class="separator:ab6901d45f3920457bf6fbe6a89987375"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abf9656ab1132b64e991bcf267fc10c7f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d7/d6d/a01769.html#a52b38df575afa7eef8fb58759ee03bd8">VisiblePlayersMap</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d5b/a08440.html#abf9656ab1132b64e991bcf267fc10c7f">GetVisiblePlayersMap</a> ()</td></tr>
-<tr class="separator:abf9656ab1132b64e991bcf267fc10c7f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0f80121f5c696f8abf265255868e7d56"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d7/d6d/a01769.html#a52b38df575afa7eef8fb58759ee03bd8">VisiblePlayersMap</a> const &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d5b/a08440.html#a0f80121f5c696f8abf265255868e7d56">GetVisiblePlayersMap</a> () const</td></tr>
-<tr class="separator:a0f80121f5c696f8abf265255868e7d56"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3697b9b06489bee6a9d63313569d6d3e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d7/d6d/a01769.html#a6fe979433a4dd2c9023626ecc74bf6a5">VisibleWorldObjectsMap</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d5b/a08440.html#a3697b9b06489bee6a9d63313569d6d3e">GetVisibleWorldObjectsMap</a> ()</td></tr>
-<tr class="separator:a3697b9b06489bee6a9d63313569d6d3e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a68d24d68b4bc7e9d46c52b5748418268"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d7/d6d/a01769.html#a6fe979433a4dd2c9023626ecc74bf6a5">VisibleWorldObjectsMap</a> const *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d5b/a08440.html#a68d24d68b4bc7e9d46c52b5748418268">GetVisibleWorldObjectsMap</a> () const</td></tr>
-<tr class="separator:a68d24d68b4bc7e9d46c52b5748418268"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a353fa17ca519ace0ba637271e8dc1e8b"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d5b/a08440.html#a353fa17ca519ace0ba637271e8dc1e8b">ObjectPosSelector</a> (float x, float y, float size, float dist)</td></tr>
+<tr class="separator:a353fa17ca519ace0ba637271e8dc1e8b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abb77ce4bf44b926a4bc1db59e7b84e36"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d5b/a08440.html#abb77ce4bf44b926a4bc1db59e7b84e36">AddUsedPos</a> (float size, float angle, float dist)</td></tr>
+<tr class="separator:abb77ce4bf44b926a4bc1db59e7b84e36"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac58836fb3671cf87b156072910b811c2"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d5b/a08440.html#ac58836fb3671cf87b156072910b811c2">InitializeAngle</a> ()</td></tr>
+<tr class="separator:ac58836fb3671cf87b156072910b811c2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a34a49751e6810835d4e4f2828d7c8b0c"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d5b/a08440.html#a34a49751e6810835d4e4f2828d7c8b0c">FirstAngle</a> (float &amp;angle)</td></tr>
+<tr class="separator:a34a49751e6810835d4e4f2828d7c8b0c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae45835290af001233a7d76e1a5be6df0"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d5b/a08440.html#ae45835290af001233a7d76e1a5be6df0">NextAngle</a> (float &amp;angle)</td></tr>
+<tr class="separator:ae45835290af001233a7d76e1a5be6df0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a779268da0c5b089c9752601543a0f856"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d5b/a08440.html#a779268da0c5b089c9752601543a0f856">NextUsedAngle</a> (float &amp;angle)</td></tr>
+<tr class="separator:a779268da0c5b089c9752601543a0f856"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3ca2304f7f268685b22db941d70fab36"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d5b/a08440.html#a3ca2304f7f268685b22db941d70fab36">NextPosibleAngle</a> (float &amp;angle)</td></tr>
+<tr class="separator:a3ca2304f7f268685b22db941d70fab36"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a678445810801988c429489ba187b28f0"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d5b/a08440.html#a678445810801988c429489ba187b28f0">CheckAngle</a> (UsedPosList::value_type const &amp;<a class="el" href="../../d3/d5b/a08440.html#a93e3a877fef90a3fa933addeb53e3e8e">nextUsedPos</a>, float sign, float angle) const</td></tr>
+<tr class="separator:a678445810801988c429489ba187b28f0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab5ea7dc197cac7156a5feaf965afe902"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d5b/a08440.html#ab5ea7dc197cac7156a5feaf965afe902">CheckOriginal</a> () const</td></tr>
+<tr class="separator:ab5ea7dc197cac7156a5feaf965afe902"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a092252be70aef7ba47a2e81d183d68ab"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d5b/a08440.html#a092252be70aef7ba47a2e81d183d68ab">IsNonBalanced</a> () const</td></tr>
+<tr class="separator:a092252be70aef7ba47a2e81d183d68ab"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1d792bc79d1646eae7651705bc0afdd5"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d5b/a08440.html#a1d792bc79d1646eae7651705bc0afdd5">NextAngleFor</a> (UsedPosList::value_type const &amp;usedPos, float sign, <a class="el" href="../../d4/d29/a01817.html#a2f1e7723f9d73cff4490d29d2b3df397">UsedPosType</a> uptype, float &amp;angle)</td></tr>
+<tr class="separator:a1d792bc79d1646eae7651705bc0afdd5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a81959e17cd93eb5590dc3533ffa2217b"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d5b/a08440.html#a81959e17cd93eb5590dc3533ffa2217b">NextSmallStepAngle</a> (float sign, <a class="el" href="../../d4/d29/a01817.html#a2f1e7723f9d73cff4490d29d2b3df397">UsedPosType</a> uptype, float &amp;angle)</td></tr>
+<tr class="separator:a81959e17cd93eb5590dc3533ffa2217b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a93e3a877fef90a3fa933addeb53e3e8e"><td class="memItemLeft" align="right" valign="top">UsedPosList::value_type const *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d5b/a08440.html#a93e3a877fef90a3fa933addeb53e3e8e">nextUsedPos</a> (<a class="el" href="../../d4/d29/a01817.html#a2f1e7723f9d73cff4490d29d2b3df397">UsedPosType</a> uptype)</td></tr>
+<tr class="separator:a93e3a877fef90a3fa933addeb53e3e8e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad0fc5c7a577bd9584d7a81346ff78c14"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d5b/a08440.html#ad0fc5c7a577bd9584d7a81346ff78c14">GetAngle</a> (<a class="el" href="../../db/ddf/a08444.html">UsedPos</a> const &amp;usedPos) const</td></tr>
+<tr class="separator:ad0fc5c7a577bd9584d7a81346ff78c14"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-methods" name="pri-methods"></a>
-Private Member Functions</h2></td></tr>
-<tr class="memitem:ac37e5bbcb2bcfe399bf59e782ef1e7b9"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d5b/a08440.html#ac37e5bbcb2bcfe399bf59e782ef1e7b9">DirectRemoveVisibilityReference</a> (<a class="el" href="../../d9/d48/a08412.html">ObjectGuid</a> guid)</td></tr>
-<tr class="separator:ac37e5bbcb2bcfe399bf59e782ef1e7b9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab719a4d7551d0166419d6ea2f036e610"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d5b/a08440.html#ab719a4d7551d0166419d6ea2f036e610">DirectInsertVisiblePlayerReference</a> (<a class="el" href="../../d8/d93/a08612.html">Player</a> *player)</td></tr>
-<tr class="separator:ab719a4d7551d0166419d6ea2f036e610"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7d497bf0dcc4c9342fabd4cbb6e93d25"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d5b/a08440.html#a7d497bf0dcc4c9342fabd4cbb6e93d25">DirectRemoveVisiblePlayerReference</a> (<a class="el" href="../../d9/d48/a08412.html">ObjectGuid</a> guid)</td></tr>
-<tr class="separator:a7d497bf0dcc4c9342fabd4cbb6e93d25"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
-Private Attributes</h2></td></tr>
-<tr class="memitem:a511c809d171be7e4e3a24f77838af445"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d5/d99/a08396.html">WorldObject</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d5b/a08440.html#a511c809d171be7e4e3a24f77838af445">_selfObject</a></td></tr>
-<tr class="separator:a511c809d171be7e4e3a24f77838af445"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa12e3794e004f994f02263251d611708"><td class="memItemLeft" align="right" valign="top">std::unique_ptr&lt; <a class="el" href="../../d7/d6d/a01769.html#a6fe979433a4dd2c9023626ecc74bf6a5">VisibleWorldObjectsMap</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d5b/a08440.html#aa12e3794e004f994f02263251d611708">_visibleWorldObjectsMap</a></td></tr>
-<tr class="separator:aa12e3794e004f994f02263251d611708"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac2a417b5314139baf38ba1d7754bb5bb"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d7/d6d/a01769.html#a52b38df575afa7eef8fb58759ee03bd8">VisiblePlayersMap</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d5b/a08440.html#ac2a417b5314139baf38ba1d7754bb5bb">_visiblePlayersMap</a></td></tr>
-<tr class="separator:ac2a417b5314139baf38ba1d7754bb5bb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
+Public Attributes</h2></td></tr>
+<tr class="memitem:a25ec0d7656c52f0a9c4b24ea81e37771"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d5b/a08440.html#a25ec0d7656c52f0a9c4b24ea81e37771">m_center_x</a></td></tr>
+<tr class="separator:a25ec0d7656c52f0a9c4b24ea81e37771"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa0d25b2794648c6a1f6895632e8a10ea"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d5b/a08440.html#aa0d25b2794648c6a1f6895632e8a10ea">m_center_y</a></td></tr>
+<tr class="separator:aa0d25b2794648c6a1f6895632e8a10ea"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3a61d5b8187c602ba5a2213283b5139c"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d5b/a08440.html#a3a61d5b8187c602ba5a2213283b5139c">m_size</a></td></tr>
+<tr class="separator:a3a61d5b8187c602ba5a2213283b5139c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7b6cf79a4806aff044b3f6b7d9181aaf"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d5b/a08440.html#a7b6cf79a4806aff044b3f6b7d9181aaf">m_dist</a></td></tr>
+<tr class="separator:a7b6cf79a4806aff044b3f6b7d9181aaf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad33b5ad5af8ebfd14851085b5c67cc95"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d5b/a08440.html#ad33b5ad5af8ebfd14851085b5c67cc95">m_anglestep</a></td></tr>
+<tr class="separator:ad33b5ad5af8ebfd14851085b5c67cc95"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afa4cdf73a3473398e0fa2106b6680e55"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d5b/a08440.html#a76a3553e006171560baf7aa7cc2bc163">UsedPosList</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d5b/a08440.html#afa4cdf73a3473398e0fa2106b6680e55">m_UsedPosLists</a> [2]</td></tr>
+<tr class="separator:afa4cdf73a3473398e0fa2106b6680e55"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a56ff73252996b988d6d1ea384dad1de8"><td class="memItemLeft" align="right" valign="top">UsedPosList::const_iterator&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d5b/a08440.html#a56ff73252996b988d6d1ea384dad1de8">m_nextUsedPos</a> [2]</td></tr>
+<tr class="separator:a56ff73252996b988d6d1ea384dad1de8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a39bfdb4e3b3e3e3d902387c548bf81ff"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d5b/a08440.html#a39bfdb4e3b3e3e3d902387c548bf81ff">m_smallStepAngle</a> [2]</td></tr>
+<tr class="separator:a39bfdb4e3b3e3e3d902387c548bf81ff"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7f798861b78a0b54ad121e6acb5e442c"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d5b/a08440.html#a7f798861b78a0b54ad121e6acb5e442c">m_smallStepOk</a> [2]</td></tr>
+<tr class="separator:a7f798861b78a0b54ad121e6acb5e442c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa98dfa81684059fe8f96f64d228e8d6b"><td class="memItemLeft" align="right" valign="top">UsedPosList::value_type const  *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d5b/a08440.html#aa98dfa81684059fe8f96f64d228e8d6b">m_smallStepNextUsedPos</a> [2]</td></tr>
+<tr class="separator:aa98dfa81684059fe8f96f64d228e8d6b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a341d254635abb0e62e3050b0dbc8ef36" name="a341d254635abb0e62e3050b0dbc8ef36"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a341d254635abb0e62e3050b0dbc8ef36">&#9670;&#160;</a></span>ObjectVisibilityContainer()</h2>
+<div class="textblock"></div><h2 class="groupheader">Member Typedef Documentation</h2>
+<a id="a76a3553e006171560baf7aa7cc2bc163" name="a76a3553e006171560baf7aa7cc2bc163"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a76a3553e006171560baf7aa7cc2bc163">&#9670;&#160;</a></span>UsedPosList</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">ObjectVisibilityContainer::ObjectVisibilityContainer </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d5/d99/a08396.html">WorldObject</a> *&#160;</td>
-          <td class="paramname"><em>selfObject</em></td><td>)</td>
-          <td></td>
+          <td class="memname">typedef std::multimap&lt;float, <a class="el" href="../../db/ddf/a08444.html">UsedPos</a>&gt; <a class="el" href="../../d3/d5b/a08440.html#a76a3553e006171560baf7aa7cc2bc163">ObjectPosSelector::UsedPosList</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   30</span>                                                                            :</div>
-<div class="line"><span class="lineno">   31</span>    <a class="code hl_variable" href="../../d3/d5b/a08440.html#a511c809d171be7e4e3a24f77838af445">_selfObject</a>(selfObject)</div>
-<div class="line"><span class="lineno">   32</span>{</div>
-<div class="line"><span class="lineno">   33</span>}</div>
-<div class="ttc" id="aa08440_html_a511c809d171be7e4e3a24f77838af445"><div class="ttname"><a href="../../d3/d5b/a08440.html#a511c809d171be7e4e3a24f77838af445">ObjectVisibilityContainer::_selfObject</a></div><div class="ttdeci">WorldObject * _selfObject</div><div class="ttdef"><b>Definition:</b> ObjectVisibilityContainer.h:90</div></div>
-</div><!-- fragment -->
+
 </div>
 </div>
-<a id="a4f62fa8a0d950932342764c0eeb1a455" name="a4f62fa8a0d950932342764c0eeb1a455"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4f62fa8a0d950932342764c0eeb1a455">&#9670;&#160;</a></span>~ObjectVisibilityContainer()</h2>
+<h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="a353fa17ca519ace0ba637271e8dc1e8b" name="a353fa17ca519ace0ba637271e8dc1e8b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a353fa17ca519ace0ba637271e8dc1e8b">&#9670;&#160;</a></span>ObjectPosSelector()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">ObjectVisibilityContainer::~ObjectVisibilityContainer </td>
+          <td class="memname">ObjectPosSelector::ObjectPosSelector </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>x</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
           <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>y</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>size</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>dist</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   36</span>{</div>
-<div class="line"><span class="lineno">   37</span>    <a class="code hl_define" href="../../d9/d98/a04610.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(<a class="code hl_variable" href="../../d3/d5b/a08440.html#ac2a417b5314139baf38ba1d7754bb5bb">_visiblePlayersMap</a>.empty());</div>
-<div class="line"><span class="lineno">   38</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d3/d5b/a08440.html#aa12e3794e004f994f02263251d611708">_visibleWorldObjectsMap</a>)</div>
-<div class="line"><span class="lineno">   39</span>        <a class="code hl_define" href="../../d9/d98/a04610.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>((*_visibleWorldObjectsMap).empty());</div>
-<div class="line"><span class="lineno">   40</span>}</div>
-<div class="ttc" id="aa04610_html_af343b20373ba49a92fce523e948f2ab3"><div class="ttname"><a href="../../d9/d98/a04610.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a></div><div class="ttdeci">#define ASSERT</div><div class="ttdef"><b>Definition:</b> Errors.h:68</div></div>
-<div class="ttc" id="aa08440_html_aa12e3794e004f994f02263251d611708"><div class="ttname"><a href="../../d3/d5b/a08440.html#aa12e3794e004f994f02263251d611708">ObjectVisibilityContainer::_visibleWorldObjectsMap</a></div><div class="ttdeci">std::unique_ptr&lt; VisibleWorldObjectsMap &gt; _visibleWorldObjectsMap</div><div class="ttdef"><b>Definition:</b> ObjectVisibilityContainer.h:94</div></div>
-<div class="ttc" id="aa08440_html_ac2a417b5314139baf38ba1d7754bb5bb"><div class="ttname"><a href="../../d3/d5b/a08440.html#ac2a417b5314139baf38ba1d7754bb5bb">ObjectVisibilityContainer::_visiblePlayersMap</a></div><div class="ttdeci">VisiblePlayersMap _visiblePlayersMap</div><div class="ttdef"><b>Definition:</b> ObjectVisibilityContainer.h:98</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   21</span>    : <a class="code hl_variable" href="../../d3/d5b/a08440.html#a25ec0d7656c52f0a9c4b24ea81e37771">m_center_x</a>(x), <a class="code hl_variable" href="../../d3/d5b/a08440.html#aa0d25b2794648c6a1f6895632e8a10ea">m_center_y</a>(y), <a class="code hl_variable" href="../../d3/d5b/a08440.html#a3a61d5b8187c602ba5a2213283b5139c">m_size</a>(size), <a class="code hl_variable" href="../../d3/d5b/a08440.html#a7b6cf79a4806aff044b3f6b7d9181aaf">m_dist</a>(dist)</div>
+<div class="line"><span class="lineno">   22</span>{</div>
+<div class="line"><span class="lineno">   23</span>    <a class="code hl_variable" href="../../d3/d5b/a08440.html#ad33b5ad5af8ebfd14851085b5c67cc95">m_anglestep</a> = acos(<a class="code hl_variable" href="../../d3/d5b/a08440.html#a7b6cf79a4806aff044b3f6b7d9181aaf">m_dist</a> / (<a class="code hl_variable" href="../../d3/d5b/a08440.html#a7b6cf79a4806aff044b3f6b7d9181aaf">m_dist</a> + 2 * <a class="code hl_variable" href="../../d3/d5b/a08440.html#a3a61d5b8187c602ba5a2213283b5139c">m_size</a>));</div>
+<div class="line"><span class="lineno">   24</span> </div>
+<div class="line"><span class="lineno">   25</span>    <a class="code hl_variable" href="../../d3/d5b/a08440.html#a56ff73252996b988d6d1ea384dad1de8">m_nextUsedPos</a>[<a class="code hl_enumvalue" href="../../d4/d29/a01817.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e">USED_POS_PLUS</a>]  = <a class="code hl_variable" href="../../d3/d5b/a08440.html#afa4cdf73a3473398e0fa2106b6680e55">m_UsedPosLists</a>[<a class="code hl_enumvalue" href="../../d4/d29/a01817.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e">USED_POS_PLUS</a>].end();</div>
+<div class="line"><span class="lineno">   26</span>    <a class="code hl_variable" href="../../d3/d5b/a08440.html#a56ff73252996b988d6d1ea384dad1de8">m_nextUsedPos</a>[<a class="code hl_enumvalue" href="../../d4/d29/a01817.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816">USED_POS_MINUS</a>] = <a class="code hl_variable" href="../../d3/d5b/a08440.html#afa4cdf73a3473398e0fa2106b6680e55">m_UsedPosLists</a>[<a class="code hl_enumvalue" href="../../d4/d29/a01817.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816">USED_POS_MINUS</a>].end();</div>
+<div class="line"><span class="lineno">   27</span> </div>
+<div class="line"><span class="lineno">   28</span>    <a class="code hl_variable" href="../../d3/d5b/a08440.html#a39bfdb4e3b3e3e3d902387c548bf81ff">m_smallStepAngle</a>[<a class="code hl_enumvalue" href="../../d4/d29/a01817.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e">USED_POS_PLUS</a>]  = 0;</div>
+<div class="line"><span class="lineno">   29</span>    <a class="code hl_variable" href="../../d3/d5b/a08440.html#a39bfdb4e3b3e3e3d902387c548bf81ff">m_smallStepAngle</a>[<a class="code hl_enumvalue" href="../../d4/d29/a01817.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816">USED_POS_MINUS</a>] = 0;</div>
+<div class="line"><span class="lineno">   30</span> </div>
+<div class="line"><span class="lineno">   31</span>    <a class="code hl_variable" href="../../d3/d5b/a08440.html#a7f798861b78a0b54ad121e6acb5e442c">m_smallStepOk</a>[<a class="code hl_enumvalue" href="../../d4/d29/a01817.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e">USED_POS_PLUS</a>]  = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">   32</span>    <a class="code hl_variable" href="../../d3/d5b/a08440.html#a7f798861b78a0b54ad121e6acb5e442c">m_smallStepOk</a>[<a class="code hl_enumvalue" href="../../d4/d29/a01817.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816">USED_POS_MINUS</a>] = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">   33</span> </div>
+<div class="line"><span class="lineno">   34</span>    <a class="code hl_variable" href="../../d3/d5b/a08440.html#aa98dfa81684059fe8f96f64d228e8d6b">m_smallStepNextUsedPos</a>[<a class="code hl_enumvalue" href="../../d4/d29/a01817.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e">USED_POS_PLUS</a>]  = <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">   35</span>    <a class="code hl_variable" href="../../d3/d5b/a08440.html#aa98dfa81684059fe8f96f64d228e8d6b">m_smallStepNextUsedPos</a>[<a class="code hl_enumvalue" href="../../d4/d29/a01817.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816">USED_POS_MINUS</a>] = <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">   36</span>}</div>
+<div class="ttc" id="aa01817_html_a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e"><div class="ttname"><a href="../../d4/d29/a01817.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e">USED_POS_PLUS</a></div><div class="ttdeci">@ USED_POS_PLUS</div><div class="ttdef"><b>Definition:</b> ObjectPosSelector.h:25</div></div>
+<div class="ttc" id="aa01817_html_a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816"><div class="ttname"><a href="../../d4/d29/a01817.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816">USED_POS_MINUS</a></div><div class="ttdeci">@ USED_POS_MINUS</div><div class="ttdef"><b>Definition:</b> ObjectPosSelector.h:25</div></div>
+<div class="ttc" id="aa08440_html_a25ec0d7656c52f0a9c4b24ea81e37771"><div class="ttname"><a href="../../d3/d5b/a08440.html#a25ec0d7656c52f0a9c4b24ea81e37771">ObjectPosSelector::m_center_x</a></div><div class="ttdeci">float m_center_x</div><div class="ttdef"><b>Definition:</b> ObjectPosSelector.h:140</div></div>
+<div class="ttc" id="aa08440_html_a39bfdb4e3b3e3e3d902387c548bf81ff"><div class="ttname"><a href="../../d3/d5b/a08440.html#a39bfdb4e3b3e3e3d902387c548bf81ff">ObjectPosSelector::m_smallStepAngle</a></div><div class="ttdeci">float m_smallStepAngle[2]</div><div class="ttdef"><b>Definition:</b> ObjectPosSelector.h:150</div></div>
+<div class="ttc" id="aa08440_html_a3a61d5b8187c602ba5a2213283b5139c"><div class="ttname"><a href="../../d3/d5b/a08440.html#a3a61d5b8187c602ba5a2213283b5139c">ObjectPosSelector::m_size</a></div><div class="ttdeci">float m_size</div><div class="ttdef"><b>Definition:</b> ObjectPosSelector.h:142</div></div>
+<div class="ttc" id="aa08440_html_a56ff73252996b988d6d1ea384dad1de8"><div class="ttname"><a href="../../d3/d5b/a08440.html#a56ff73252996b988d6d1ea384dad1de8">ObjectPosSelector::m_nextUsedPos</a></div><div class="ttdeci">UsedPosList::const_iterator m_nextUsedPos[2]</div><div class="ttdef"><b>Definition:</b> ObjectPosSelector.h:147</div></div>
+<div class="ttc" id="aa08440_html_a7b6cf79a4806aff044b3f6b7d9181aaf"><div class="ttname"><a href="../../d3/d5b/a08440.html#a7b6cf79a4806aff044b3f6b7d9181aaf">ObjectPosSelector::m_dist</a></div><div class="ttdeci">float m_dist</div><div class="ttdef"><b>Definition:</b> ObjectPosSelector.h:143</div></div>
+<div class="ttc" id="aa08440_html_a7f798861b78a0b54ad121e6acb5e442c"><div class="ttname"><a href="../../d3/d5b/a08440.html#a7f798861b78a0b54ad121e6acb5e442c">ObjectPosSelector::m_smallStepOk</a></div><div class="ttdeci">bool m_smallStepOk[2]</div><div class="ttdef"><b>Definition:</b> ObjectPosSelector.h:151</div></div>
+<div class="ttc" id="aa08440_html_aa0d25b2794648c6a1f6895632e8a10ea"><div class="ttname"><a href="../../d3/d5b/a08440.html#aa0d25b2794648c6a1f6895632e8a10ea">ObjectPosSelector::m_center_y</a></div><div class="ttdeci">float m_center_y</div><div class="ttdef"><b>Definition:</b> ObjectPosSelector.h:141</div></div>
+<div class="ttc" id="aa08440_html_aa98dfa81684059fe8f96f64d228e8d6b"><div class="ttname"><a href="../../d3/d5b/a08440.html#aa98dfa81684059fe8f96f64d228e8d6b">ObjectPosSelector::m_smallStepNextUsedPos</a></div><div class="ttdeci">UsedPosList::value_type const  * m_smallStepNextUsedPos[2]</div><div class="ttdef"><b>Definition:</b> ObjectPosSelector.h:152</div></div>
+<div class="ttc" id="aa08440_html_ad33b5ad5af8ebfd14851085b5c67cc95"><div class="ttname"><a href="../../d3/d5b/a08440.html#ad33b5ad5af8ebfd14851085b5c67cc95">ObjectPosSelector::m_anglestep</a></div><div class="ttdeci">float m_anglestep</div><div class="ttdef"><b>Definition:</b> ObjectPosSelector.h:144</div></div>
+<div class="ttc" id="aa08440_html_afa4cdf73a3473398e0fa2106b6680e55"><div class="ttname"><a href="../../d3/d5b/a08440.html#afa4cdf73a3473398e0fa2106b6680e55">ObjectPosSelector::m_UsedPosLists</a></div><div class="ttdeci">UsedPosList m_UsedPosLists[2]</div><div class="ttdef"><b>Definition:</b> ObjectPosSelector.h:146</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00098">_visiblePlayersMap</a>, <a class="el" href="../../#l00094">_visibleWorldObjectsMap</a>, and <a class="el" href="../../#l00068">ASSERT</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00144">m_anglestep</a>, <a class="el" href="../../#l00143">m_dist</a>, <a class="el" href="../../#l00147">m_nextUsedPos</a>, <a class="el" href="../../#l00142">m_size</a>, <a class="el" href="../../#l00150">m_smallStepAngle</a>, <a class="el" href="../../#l00152">m_smallStepNextUsedPos</a>, <a class="el" href="../../#l00151">m_smallStepOk</a>, <a class="el" href="../../#l00146">m_UsedPosLists</a>, <a class="el" href="../../#l00025">USED_POS_MINUS</a>, and <a class="el" href="../../#l00025">USED_POS_PLUS</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="a567fc2f9f863466244482b94d31822cb" name="a567fc2f9f863466244482b94d31822cb"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a567fc2f9f863466244482b94d31822cb">&#9670;&#160;</a></span>CleanVisibilityReferences()</h2>
+<a id="abb77ce4bf44b926a4bc1db59e7b84e36" name="abb77ce4bf44b926a4bc1db59e7b84e36"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abb77ce4bf44b926a4bc1db59e7b84e36">&#9670;&#160;</a></span>AddUsedPos()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void ObjectVisibilityContainer::CleanVisibilityReferences </td>
+          <td class="memname">void ObjectPosSelector::AddUsedPos </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>size</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
           <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>angle</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>dist</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   48</span>{</div>
-<div class="line"><span class="lineno">   49</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; kvPair : <a class="code hl_variable" href="../../d3/d5b/a08440.html#ac2a417b5314139baf38ba1d7754bb5bb">_visiblePlayersMap</a>)</div>
-<div class="line"><span class="lineno">   50</span>        kvPair.second-&gt;GetObjectVisibilityContainer().DirectRemoveVisibilityReference(<a class="code hl_variable" href="../../d3/d5b/a08440.html#a511c809d171be7e4e3a24f77838af445">_selfObject</a>-&gt;<a class="code hl_function" href="../../d1/d53/a08360.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>());</div>
-<div class="line"><span class="lineno">   51</span> </div>
-<div class="line"><span class="lineno">   52</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d3/d5b/a08440.html#aa12e3794e004f994f02263251d611708">_visibleWorldObjectsMap</a>)</div>
-<div class="line"><span class="lineno">   53</span>    {</div>
-<div class="line"><span class="lineno">   54</span>        <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; kvPair : *<a class="code hl_variable" href="../../d3/d5b/a08440.html#aa12e3794e004f994f02263251d611708">_visibleWorldObjectsMap</a>)</div>
-<div class="line"><span class="lineno">   55</span>            kvPair.second-&gt;GetObjectVisibilityContainer().DirectRemoveVisiblePlayerReference(<a class="code hl_variable" href="../../d3/d5b/a08440.html#a511c809d171be7e4e3a24f77838af445">_selfObject</a>-&gt;<a class="code hl_function" href="../../d1/d53/a08360.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>());</div>
-<div class="line"><span class="lineno">   56</span> </div>
-<div class="line"><span class="lineno">   57</span>        (*_visibleWorldObjectsMap).clear();</div>
-<div class="line"><span class="lineno">   58</span>    }</div>
-<div class="line"><span class="lineno">   59</span> </div>
-<div class="line"><span class="lineno">   60</span>    <a class="code hl_variable" href="../../d3/d5b/a08440.html#ac2a417b5314139baf38ba1d7754bb5bb">_visiblePlayersMap</a>.clear();</div>
+<div class="fragment"><div class="line"><span class="lineno">   56</span>{</div>
+<div class="line"><span class="lineno">   57</span>    <span class="keywordflow">if</span> (angle &gt;= 0)</div>
+<div class="line"><span class="lineno">   58</span>        <a class="code hl_variable" href="../../d3/d5b/a08440.html#afa4cdf73a3473398e0fa2106b6680e55">m_UsedPosLists</a>[<a class="code hl_enumvalue" href="../../d4/d29/a01817.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e">USED_POS_PLUS</a>].insert(UsedPosList::value_type(angle, UsedPos(1.0f, size, dist)));</div>
+<div class="line"><span class="lineno">   59</span>    <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">   60</span>        <a class="code hl_variable" href="../../d3/d5b/a08440.html#afa4cdf73a3473398e0fa2106b6680e55">m_UsedPosLists</a>[<a class="code hl_enumvalue" href="../../d4/d29/a01817.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816">USED_POS_MINUS</a>].insert(UsedPosList::value_type(-angle, UsedPos(-1.0f, size, dist)));</div>
 <div class="line"><span class="lineno">   61</span>}</div>
-<div class="ttc" id="aa08360_html_ad23b997e2442fa6a6228ba73a7ecc138"><div class="ttname"><a href="../../d1/d53/a08360.html#ad23b997e2442fa6a6228ba73a7ecc138">Object::GetGUID</a></div><div class="ttdeci">static ObjectGuid GetGUID(Object const *o)</div><div class="ttdef"><b>Definition:</b> Object.h:113</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00090">_selfObject</a>, <a class="el" href="../../#l00098">_visiblePlayersMap</a>, <a class="el" href="../../#l00094">_visibleWorldObjectsMap</a>, and <a class="el" href="../../#l00113">Object::GetGUID()</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l01135">WorldSession::HandlePlayerLoginToCharInWorld()</a>, and <a class="el" href="../../#l01148">WorldObject::RemoveFromWorld()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00146">m_UsedPosLists</a>, <a class="el" href="../../#l00025">USED_POS_MINUS</a>, and <a class="el" href="../../#l00025">USED_POS_PLUS</a>.</p>
 
 </div>
 </div>
-<a id="ab719a4d7551d0166419d6ea2f036e610" name="ab719a4d7551d0166419d6ea2f036e610"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab719a4d7551d0166419d6ea2f036e610">&#9670;&#160;</a></span>DirectInsertVisiblePlayerReference()</h2>
+<a id="a678445810801988c429489ba187b28f0" name="a678445810801988c429489ba187b28f0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a678445810801988c429489ba187b28f0">&#9670;&#160;</a></span>CheckAngle()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -259,110 +320,27 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void ObjectVisibilityContainer::DirectInsertVisiblePlayerReference </td>
+          <td class="memname">bool ObjectPosSelector::CheckAngle </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d8/d93/a08612.html">Player</a> *&#160;</td>
-          <td class="paramname"><em>player</em></td><td>)</td>
-          <td></td>
+          <td class="paramtype">UsedPosList::value_type const &amp;&#160;</td>
+          <td class="paramname"><em>nextUsedPos</em>, </td>
         </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  111</span>{</div>
-<div class="line"><span class="lineno">  112</span>    <a class="code hl_variable" href="../../d3/d5b/a08440.html#ac2a417b5314139baf38ba1d7754bb5bb">_visiblePlayersMap</a>.insert(std::make_pair(player-&gt;<a class="code hl_function" href="../../d1/d53/a08360.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>(), player));</div>
-<div class="line"><span class="lineno">  113</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00098">_visiblePlayersMap</a>, and <a class="el" href="../../#l00113">Object::GetGUID()</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00063">LinkWorldObjectVisibility()</a>.</p>
-
-</div>
-</div>
-<a id="ac37e5bbcb2bcfe399bf59e782ef1e7b9" name="ac37e5bbcb2bcfe399bf59e782ef1e7b9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac37e5bbcb2bcfe399bf59e782ef1e7b9">&#9670;&#160;</a></span>DirectRemoveVisibilityReference()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
         <tr>
-          <td class="memname">void ObjectVisibilityContainer::DirectRemoveVisibilityReference </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d9/d48/a08412.html">ObjectGuid</a>&#160;</td>
-          <td class="paramname"><em>guid</em></td><td>)</td>
+          <td class="paramkey"></td>
           <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>sign</em>, </td>
         </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  105</span>{</div>
-<div class="line"><span class="lineno">  106</span>    <a class="code hl_define" href="../../d9/d98/a04610.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(<a class="code hl_variable" href="../../d3/d5b/a08440.html#aa12e3794e004f994f02263251d611708">_visibleWorldObjectsMap</a>);</div>
-<div class="line"><span class="lineno">  107</span>    (*_visibleWorldObjectsMap).erase(guid);</div>
-<div class="line"><span class="lineno">  108</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00094">_visibleWorldObjectsMap</a>, and <a class="el" href="../../#l00068">ASSERT</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00098">UnlinkVisibilityFromWorldObject()</a>.</p>
-
-</div>
-</div>
-<a id="a7d497bf0dcc4c9342fabd4cbb6e93d25" name="a7d497bf0dcc4c9342fabd4cbb6e93d25"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7d497bf0dcc4c9342fabd4cbb6e93d25">&#9670;&#160;</a></span>DirectRemoveVisiblePlayerReference()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
         <tr>
-          <td class="memname">void ObjectVisibilityContainer::DirectRemoveVisiblePlayerReference </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d9/d48/a08412.html">ObjectGuid</a>&#160;</td>
-          <td class="paramname"><em>guid</em></td><td>)</td>
+          <td class="paramkey"></td>
           <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>angle</em>&#160;</td>
         </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  116</span>{</div>
-<div class="line"><span class="lineno">  117</span>    <a class="code hl_variable" href="../../d3/d5b/a08440.html#ac2a417b5314139baf38ba1d7754bb5bb">_visiblePlayersMap</a>.erase(guid);</div>
-<div class="line"><span class="lineno">  118</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00098">_visiblePlayersMap</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00091">UnlinkVisibilityFromPlayer()</a>, and <a class="el" href="../../#l00081">UnlinkWorldObjectVisibility()</a>.</p>
-
-</div>
-</div>
-<a id="abf9656ab1132b64e991bcf267fc10c7f" name="abf9656ab1132b64e991bcf267fc10c7f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#abf9656ab1132b64e991bcf267fc10c7f">&#9670;&#160;</a></span>GetVisiblePlayersMap() <span class="overload">[1/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d7/d6d/a01769.html#a52b38df575afa7eef8fb58759ee03bd8">VisiblePlayersMap</a> &amp; ObjectVisibilityContainer::GetVisiblePlayersMap </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
           <td></td>
+          <td>)</td>
+          <td></td><td> const</td>
         </tr>
       </table>
   </td>
@@ -371,16 +349,26 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   54</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d3/d5b/a08440.html#ac2a417b5314139baf38ba1d7754bb5bb">_visiblePlayersMap</a>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">   58</span>    {</div>
+<div class="line"><span class="lineno">   59</span>        <span class="keywordtype">float</span> angle_step2  = <a class="code hl_function" href="../../d3/d5b/a08440.html#ad0fc5c7a577bd9584d7a81346ff78c14">GetAngle</a>(<a class="code hl_function" href="../../d3/d5b/a08440.html#a93e3a877fef90a3fa933addeb53e3e8e">nextUsedPos</a>.second);</div>
+<div class="line"><span class="lineno">   60</span> </div>
+<div class="line"><span class="lineno">   61</span>        <span class="keywordtype">float</span> next_angle = <a class="code hl_function" href="../../d3/d5b/a08440.html#a93e3a877fef90a3fa933addeb53e3e8e">nextUsedPos</a>.first;</div>
+<div class="line"><span class="lineno">   62</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d3/d5b/a08440.html#a93e3a877fef90a3fa933addeb53e3e8e">nextUsedPos</a>.second.sign * sign &lt; 0)             <span class="comment">// last node from diff. list (-pi+alpha)</span></div>
+<div class="line"><span class="lineno">   63</span>            next_angle = 2 * M_PI - next_angle;             <span class="comment">// move to positive</span></div>
+<div class="line"><span class="lineno">   64</span> </div>
+<div class="line"><span class="lineno">   65</span>        <span class="keywordflow">return</span> std::fabs(angle) + angle_step2 &lt;= next_angle;</div>
+<div class="line"><span class="lineno">   66</span>    }</div>
+<div class="ttc" id="aa08440_html_a93e3a877fef90a3fa933addeb53e3e8e"><div class="ttname"><a href="../../d3/d5b/a08440.html#a93e3a877fef90a3fa933addeb53e3e8e">ObjectPosSelector::nextUsedPos</a></div><div class="ttdeci">UsedPosList::value_type const * nextUsedPos(UsedPosType uptype)</div><div class="ttdef"><b>Definition:</b> ObjectPosSelector.cpp:38</div></div>
+<div class="ttc" id="aa08440_html_ad0fc5c7a577bd9584d7a81346ff78c14"><div class="ttname"><a href="../../d3/d5b/a08440.html#ad0fc5c7a577bd9584d7a81346ff78c14">ObjectPosSelector::GetAngle</a></div><div class="ttdeci">float GetAngle(UsedPos const &amp;usedPos) const</div><div class="ttdef"><b>Definition:</b> ObjectPosSelector.h:138</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00098">_visiblePlayersMap</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00138">GetAngle()</a>, and <a class="el" href="../../#l00038">nextUsedPos()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l02905">WorldObject::DestroyForVisiblePlayers()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00068">CheckOriginal()</a>, <a class="el" href="../../#l00076">NextAngleFor()</a>, and <a class="el" href="../../#l00102">NextSmallStepAngle()</a>.</p>
 
 </div>
 </div>
-<a id="a0f80121f5c696f8abf265255868e7d56" name="a0f80121f5c696f8abf265255868e7d56"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0f80121f5c696f8abf265255868e7d56">&#9670;&#160;</a></span>GetVisiblePlayersMap() <span class="overload">[2/2]</span></h2>
+<a id="ab5ea7dc197cac7156a5feaf965afe902" name="ab5ea7dc197cac7156a5feaf965afe902"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab5ea7dc197cac7156a5feaf965afe902">&#9670;&#160;</a></span>CheckOriginal()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -389,7 +377,7 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d7/d6d/a01769.html#a52b38df575afa7eef8fb58759ee03bd8">VisiblePlayersMap</a> const  &amp; ObjectVisibilityContainer::GetVisiblePlayersMap </td>
+          <td class="memname">bool ObjectPosSelector::CheckOriginal </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td> const</td>
@@ -401,49 +389,47 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   55</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d3/d5b/a08440.html#ac2a417b5314139baf38ba1d7754bb5bb">_visiblePlayersMap</a>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">   69</span>    {</div>
+<div class="line"><span class="lineno">   70</span>        <span class="keywordflow">return</span> (<a class="code hl_variable" href="../../d3/d5b/a08440.html#afa4cdf73a3473398e0fa2106b6680e55">m_UsedPosLists</a>[<a class="code hl_enumvalue" href="../../d4/d29/a01817.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e">USED_POS_PLUS</a>].empty() || <a class="code hl_function" href="../../d3/d5b/a08440.html#a678445810801988c429489ba187b28f0">CheckAngle</a>(*<a class="code hl_variable" href="../../d3/d5b/a08440.html#afa4cdf73a3473398e0fa2106b6680e55">m_UsedPosLists</a>[<a class="code hl_enumvalue" href="../../d4/d29/a01817.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e">USED_POS_PLUS</a>].begin(), 1.0f, 0)) &amp;&amp;</div>
+<div class="line"><span class="lineno">   71</span>               (<a class="code hl_variable" href="../../d3/d5b/a08440.html#afa4cdf73a3473398e0fa2106b6680e55">m_UsedPosLists</a>[<a class="code hl_enumvalue" href="../../d4/d29/a01817.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816">USED_POS_MINUS</a>].empty() || <a class="code hl_function" href="../../d3/d5b/a08440.html#a678445810801988c429489ba187b28f0">CheckAngle</a>(*<a class="code hl_variable" href="../../d3/d5b/a08440.html#afa4cdf73a3473398e0fa2106b6680e55">m_UsedPosLists</a>[<a class="code hl_enumvalue" href="../../d4/d29/a01817.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816">USED_POS_MINUS</a>].begin(), -1.0f, 0));</div>
+<div class="line"><span class="lineno">   72</span>    }</div>
+<div class="ttc" id="aa08440_html_a678445810801988c429489ba187b28f0"><div class="ttname"><a href="../../d3/d5b/a08440.html#a678445810801988c429489ba187b28f0">ObjectPosSelector::CheckAngle</a></div><div class="ttdeci">bool CheckAngle(UsedPosList::value_type const &amp;nextUsedPos, float sign, float angle) const</div><div class="ttdef"><b>Definition:</b> ObjectPosSelector.h:57</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00098">_visiblePlayersMap</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00057">CheckAngle()</a>, <a class="el" href="../../#l00146">m_UsedPosLists</a>, <a class="el" href="../../#l00025">USED_POS_MINUS</a>, and <a class="el" href="../../#l00025">USED_POS_PLUS</a>.</p>
 
 </div>
 </div>
-<a id="a3697b9b06489bee6a9d63313569d6d3e" name="a3697b9b06489bee6a9d63313569d6d3e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3697b9b06489bee6a9d63313569d6d3e">&#9670;&#160;</a></span>GetVisibleWorldObjectsMap() <span class="overload">[1/2]</span></h2>
+<a id="a34a49751e6810835d4e4f2828d7c8b0c" name="a34a49751e6810835d4e4f2828d7c8b0c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a34a49751e6810835d4e4f2828d7c8b0c">&#9670;&#160;</a></span>FirstAngle()</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d7/d6d/a01769.html#a6fe979433a4dd2c9023626ecc74bf6a5">VisibleWorldObjectsMap</a> * ObjectVisibilityContainer::GetVisibleWorldObjectsMap </td>
+          <td class="memname">bool ObjectPosSelector::FirstAngle </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
+          <td class="paramtype">float &amp;&#160;</td>
+          <td class="paramname"><em>angle</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   60</span>    {</div>
-<div class="line"><span class="lineno">   61</span>        <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d3/d5b/a08440.html#aa12e3794e004f994f02263251d611708">_visibleWorldObjectsMap</a>)</div>
-<div class="line"><span class="lineno">   62</span>            <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">   63</span> </div>
-<div class="line"><span class="lineno">   64</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d3/d5b/a08440.html#aa12e3794e004f994f02263251d611708">_visibleWorldObjectsMap</a>.get();</div>
-<div class="line"><span class="lineno">   65</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">   76</span>{</div>
+<div class="line"><span class="lineno">   77</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d3/d5b/a08440.html#afa4cdf73a3473398e0fa2106b6680e55">m_UsedPosLists</a>[<a class="code hl_enumvalue" href="../../d4/d29/a01817.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e">USED_POS_PLUS</a>].empty() &amp;&amp; !<a class="code hl_variable" href="../../d3/d5b/a08440.html#afa4cdf73a3473398e0fa2106b6680e55">m_UsedPosLists</a>[<a class="code hl_enumvalue" href="../../d4/d29/a01817.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816">USED_POS_MINUS</a>].empty())</div>
+<div class="line"><span class="lineno">   78</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../d3/d5b/a08440.html#a1d792bc79d1646eae7651705bc0afdd5">NextAngleFor</a>(*<a class="code hl_variable" href="../../d3/d5b/a08440.html#afa4cdf73a3473398e0fa2106b6680e55">m_UsedPosLists</a>[<a class="code hl_enumvalue" href="../../d4/d29/a01817.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816">USED_POS_MINUS</a>].begin(), 1.0f, <a class="code hl_enumvalue" href="../../d4/d29/a01817.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e">USED_POS_PLUS</a>, angle);</div>
+<div class="line"><span class="lineno">   79</span>    <span class="keywordflow">else</span> <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d3/d5b/a08440.html#afa4cdf73a3473398e0fa2106b6680e55">m_UsedPosLists</a>[<a class="code hl_enumvalue" href="../../d4/d29/a01817.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816">USED_POS_MINUS</a>].empty() &amp;&amp; !<a class="code hl_variable" href="../../d3/d5b/a08440.html#afa4cdf73a3473398e0fa2106b6680e55">m_UsedPosLists</a>[<a class="code hl_enumvalue" href="../../d4/d29/a01817.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e">USED_POS_PLUS</a>].empty())</div>
+<div class="line"><span class="lineno">   80</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../d3/d5b/a08440.html#a1d792bc79d1646eae7651705bc0afdd5">NextAngleFor</a>(*<a class="code hl_variable" href="../../d3/d5b/a08440.html#afa4cdf73a3473398e0fa2106b6680e55">m_UsedPosLists</a>[<a class="code hl_enumvalue" href="../../d4/d29/a01817.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e">USED_POS_PLUS</a>].begin(), -1.0f, <a class="code hl_enumvalue" href="../../d4/d29/a01817.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816">USED_POS_MINUS</a>, angle);</div>
+<div class="line"><span class="lineno">   81</span> </div>
+<div class="line"><span class="lineno">   82</span>    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">   83</span>}</div>
+<div class="ttc" id="aa08440_html_a1d792bc79d1646eae7651705bc0afdd5"><div class="ttname"><a href="../../d3/d5b/a08440.html#a1d792bc79d1646eae7651705bc0afdd5">ObjectPosSelector::NextAngleFor</a></div><div class="ttdeci">bool NextAngleFor(UsedPosList::value_type const &amp;usedPos, float sign, UsedPosType uptype, float &amp;angle)</div><div class="ttdef"><b>Definition:</b> ObjectPosSelector.h:76</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00094">_visibleWorldObjectsMap</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00572">WorldObject::DoForAllVisibleWorldObjects()</a>, <a class="el" href="../../#l11402">Player::HaveAtClient()</a>, and <a class="el" href="../../#l00039">Acore::VisibleNotifier::SendToSelf()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00146">m_UsedPosLists</a>, <a class="el" href="../../#l00076">NextAngleFor()</a>, <a class="el" href="../../#l00025">USED_POS_MINUS</a>, and <a class="el" href="../../#l00025">USED_POS_PLUS</a>.</p>
 
 </div>
 </div>
-<a id="a68d24d68b4bc7e9d46c52b5748418268" name="a68d24d68b4bc7e9d46c52b5748418268"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a68d24d68b4bc7e9d46c52b5748418268">&#9670;&#160;</a></span>GetVisibleWorldObjectsMap() <span class="overload">[2/2]</span></h2>
+<a id="ad0fc5c7a577bd9584d7a81346ff78c14" name="ad0fc5c7a577bd9584d7a81346ff78c14"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad0fc5c7a577bd9584d7a81346ff78c14">&#9670;&#160;</a></span>GetAngle()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -452,9 +438,10 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d7/d6d/a01769.html#a6fe979433a4dd2c9023626ecc74bf6a5">VisibleWorldObjectsMap</a> const  * ObjectVisibilityContainer::GetVisibleWorldObjectsMap </td>
+          <td class="memname">float ObjectPosSelector::GetAngle </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
+          <td class="paramtype"><a class="el" href="../../db/ddf/a08444.html">UsedPos</a> const &amp;&#160;</td>
+          <td class="paramname"><em>usedPos</em></td><td>)</td>
           <td> const</td>
         </tr>
       </table>
@@ -464,102 +451,136 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   68</span>    {</div>
-<div class="line"><span class="lineno">   69</span>        <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d3/d5b/a08440.html#aa12e3794e004f994f02263251d611708">_visibleWorldObjectsMap</a>)</div>
-<div class="line"><span class="lineno">   70</span>            <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">   71</span> </div>
-<div class="line"><span class="lineno">   72</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d3/d5b/a08440.html#aa12e3794e004f994f02263251d611708">_visibleWorldObjectsMap</a>.get();</div>
-<div class="line"><span class="lineno">   73</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  138</span>{ <span class="keywordflow">return</span> acos(<a class="code hl_variable" href="../../d3/d5b/a08440.html#a7b6cf79a4806aff044b3f6b7d9181aaf">m_dist</a> / (usedPos.dist + usedPos.size + <a class="code hl_variable" href="../../d3/d5b/a08440.html#a3a61d5b8187c602ba5a2213283b5139c">m_size</a>)); }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00094">_visibleWorldObjectsMap</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00041">ObjectPosSelector::UsedPos::dist</a>, <a class="el" href="../../#l00143">m_dist</a>, <a class="el" href="../../#l00142">m_size</a>, and <a class="el" href="../../#l00040">ObjectPosSelector::UsedPos::size</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00057">CheckAngle()</a>, and <a class="el" href="../../#l00076">NextAngleFor()</a>.</p>
 
 </div>
 </div>
-<a id="a0834e38c975073e75272732be055b4fa" name="a0834e38c975073e75272732be055b4fa"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0834e38c975073e75272732be055b4fa">&#9670;&#160;</a></span>InitForPlayer()</h2>
+<a id="ac58836fb3671cf87b156072910b811c2" name="ac58836fb3671cf87b156072910b811c2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac58836fb3671cf87b156072910b811c2">&#9670;&#160;</a></span>InitializeAngle()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void ObjectVisibilityContainer::InitForPlayer </td>
+          <td class="memname">void ObjectPosSelector::InitializeAngle </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   43</span>{</div>
-<div class="line"><span class="lineno">   44</span>    <a class="code hl_variable" href="../../d3/d5b/a08440.html#aa12e3794e004f994f02263251d611708">_visibleWorldObjectsMap</a> = std::make_unique&lt;VisibleWorldObjectsMap&gt;();</div>
-<div class="line"><span class="lineno">   45</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00094">_visibleWorldObjectsMap</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00152">Player::Player()</a>.</p>
-
-</div>
-</div>
-<a id="ab744b89b7d10ab3fe55acb5f35a2c9c3" name="ab744b89b7d10ab3fe55acb5f35a2c9c3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab744b89b7d10ab3fe55acb5f35a2c9c3">&#9670;&#160;</a></span>LinkWorldObjectVisibility()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void ObjectVisibilityContainer::LinkWorldObjectVisibility </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d5/d99/a08396.html">WorldObject</a> *&#160;</td>
-          <td class="paramname"><em>worldObject</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">   64</span>{</div>
-<div class="line"><span class="lineno">   65</span>    <span class="comment">// Do not link self</span></div>
-<div class="line"><span class="lineno">   66</span>    <span class="keywordflow">if</span> (worldObject == <a class="code hl_variable" href="../../d3/d5b/a08440.html#a511c809d171be7e4e3a24f77838af445">_selfObject</a>)</div>
-<div class="line"><span class="lineno">   67</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">   68</span> </div>
-<div class="line"><span class="lineno">   69</span>    <span class="comment">// Transports are special and should not be added to our visibility map</span></div>
-<div class="line"><span class="lineno">   70</span>    <span class="keywordflow">if</span> (worldObject-&gt;<a class="code hl_function" href="../../d1/d53/a08360.html#a85475682d62e51bfaf2133b51d41a619">IsGameObject</a>() &amp;&amp; worldObject-&gt;<a class="code hl_function" href="../../d1/d53/a08360.html#a96b380b13acdb406d552053cf775180f">ToGameObject</a>()-&gt;<a class="code hl_function" href="../../d9/dae/a08168.html#afdc3efbef6b35704f49a634e258d6299">IsTransport</a>())</div>
-<div class="line"><span class="lineno">   71</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">   72</span> </div>
-<div class="line"><span class="lineno">   73</span>    <span class="comment">// Only players can link visibility</span></div>
-<div class="line"><span class="lineno">   74</span>    <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d3/d5b/a08440.html#aa12e3794e004f994f02263251d611708">_visibleWorldObjectsMap</a>)</div>
-<div class="line"><span class="lineno">   75</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">   76</span> </div>
-<div class="line"><span class="lineno">   77</span>    (*_visibleWorldObjectsMap).insert(std::make_pair(worldObject-&gt;<a class="code hl_function" href="../../d1/d53/a08360.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>(), worldObject));</div>
-<div class="line"><span class="lineno">   78</span>    worldObject-&gt;<a class="code hl_function" href="../../d5/d99/a08396.html#ac290821bbb0362b1fe15ba5857c727e7">GetObjectVisibilityContainer</a>().<a class="code hl_function" href="../../d3/d5b/a08440.html#ab719a4d7551d0166419d6ea2f036e610">DirectInsertVisiblePlayerReference</a>(<a class="code hl_variable" href="../../d3/d5b/a08440.html#a511c809d171be7e4e3a24f77838af445">_selfObject</a>-&gt;<a class="code hl_function" href="../../d1/d53/a08360.html#a328d5f752cc33ed398b3d9861ef6929d">ToPlayer</a>());</div>
-<div class="line"><span class="lineno">   79</span>}</div>
-<div class="ttc" id="aa08168_html_afdc3efbef6b35704f49a634e258d6299"><div class="ttname"><a href="../../d9/dae/a08168.html#afdc3efbef6b35704f49a634e258d6299">GameObject::IsTransport</a></div><div class="ttdeci">bool IsTransport() const</div><div class="ttdef"><b>Definition:</b> GameObject.cpp:1211</div></div>
-<div class="ttc" id="aa08360_html_a328d5f752cc33ed398b3d9861ef6929d"><div class="ttname"><a href="../../d1/d53/a08360.html#a328d5f752cc33ed398b3d9861ef6929d">Object::ToPlayer</a></div><div class="ttdeci">Player * ToPlayer()</div><div class="ttdef"><b>Definition:</b> Object.h:202</div></div>
-<div class="ttc" id="aa08360_html_a85475682d62e51bfaf2133b51d41a619"><div class="ttname"><a href="../../d1/d53/a08360.html#a85475682d62e51bfaf2133b51d41a619">Object::IsGameObject</a></div><div class="ttdeci">bool IsGameObject() const</div><div class="ttdef"><b>Definition:</b> Object.h:213</div></div>
-<div class="ttc" id="aa08360_html_a96b380b13acdb406d552053cf775180f"><div class="ttname"><a href="../../d1/d53/a08360.html#a96b380b13acdb406d552053cf775180f">Object::ToGameObject</a></div><div class="ttdeci">GameObject * ToGameObject()</div><div class="ttdef"><b>Definition:</b> Object.h:214</div></div>
-<div class="ttc" id="aa08396_html_ac290821bbb0362b1fe15ba5857c727e7"><div class="ttname"><a href="../../d5/d99/a08396.html#ac290821bbb0362b1fe15ba5857c727e7">WorldObject::GetObjectVisibilityContainer</a></div><div class="ttdeci">ObjectVisibilityContainer &amp; GetObjectVisibilityContainer()</div><div class="ttdef"><b>Definition:</b> Object.h:712</div></div>
-<div class="ttc" id="aa08440_html_ab719a4d7551d0166419d6ea2f036e610"><div class="ttname"><a href="../../d3/d5b/a08440.html#ab719a4d7551d0166419d6ea2f036e610">ObjectVisibilityContainer::DirectInsertVisiblePlayerReference</a></div><div class="ttdeci">void DirectInsertVisiblePlayerReference(Player *player)</div><div class="ttdef"><b>Definition:</b> ObjectVisibilityContainer.cpp:110</div></div>
+<div class="line"><span class="lineno">   65</span>    <a class="code hl_variable" href="../../d3/d5b/a08440.html#a56ff73252996b988d6d1ea384dad1de8">m_nextUsedPos</a>[<a class="code hl_enumvalue" href="../../d4/d29/a01817.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e">USED_POS_PLUS</a>]  = <a class="code hl_variable" href="../../d3/d5b/a08440.html#afa4cdf73a3473398e0fa2106b6680e55">m_UsedPosLists</a>[<a class="code hl_enumvalue" href="../../d4/d29/a01817.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e">USED_POS_PLUS</a>].begin();</div>
+<div class="line"><span class="lineno">   66</span>    <a class="code hl_variable" href="../../d3/d5b/a08440.html#a56ff73252996b988d6d1ea384dad1de8">m_nextUsedPos</a>[<a class="code hl_enumvalue" href="../../d4/d29/a01817.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816">USED_POS_MINUS</a>] = <a class="code hl_variable" href="../../d3/d5b/a08440.html#afa4cdf73a3473398e0fa2106b6680e55">m_UsedPosLists</a>[<a class="code hl_enumvalue" href="../../d4/d29/a01817.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816">USED_POS_MINUS</a>].begin();</div>
+<div class="line"><span class="lineno">   67</span> </div>
+<div class="line"><span class="lineno">   68</span>    <a class="code hl_variable" href="../../d3/d5b/a08440.html#a39bfdb4e3b3e3e3d902387c548bf81ff">m_smallStepAngle</a>[<a class="code hl_enumvalue" href="../../d4/d29/a01817.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e">USED_POS_PLUS</a>]  = 0;</div>
+<div class="line"><span class="lineno">   69</span>    <a class="code hl_variable" href="../../d3/d5b/a08440.html#a39bfdb4e3b3e3e3d902387c548bf81ff">m_smallStepAngle</a>[<a class="code hl_enumvalue" href="../../d4/d29/a01817.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816">USED_POS_MINUS</a>] = 0;</div>
+<div class="line"><span class="lineno">   70</span> </div>
+<div class="line"><span class="lineno">   71</span>    <a class="code hl_variable" href="../../d3/d5b/a08440.html#a7f798861b78a0b54ad121e6acb5e442c">m_smallStepOk</a>[<a class="code hl_enumvalue" href="../../d4/d29/a01817.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e">USED_POS_PLUS</a>]  = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">   72</span>    <a class="code hl_variable" href="../../d3/d5b/a08440.html#a7f798861b78a0b54ad121e6acb5e442c">m_smallStepOk</a>[<a class="code hl_enumvalue" href="../../d4/d29/a01817.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816">USED_POS_MINUS</a>] = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">   73</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00090">_selfObject</a>, <a class="el" href="../../#l00094">_visibleWorldObjectsMap</a>, <a class="el" href="../../#l00110">DirectInsertVisiblePlayerReference()</a>, <a class="el" href="../../#l00113">Object::GetGUID()</a>, <a class="el" href="../../#l00712">WorldObject::GetObjectVisibilityContainer()</a>, <a class="el" href="../../#l00213">Object::IsGameObject()</a>, <a class="el" href="../../#l01211">GameObject::IsTransport()</a>, <a class="el" href="../../#l00214">Object::ToGameObject()</a>, and <a class="el" href="../../#l00202">Object::ToPlayer()</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l01716">Player::UpdateVisibilityOf()</a>, and <a class="el" href="../../#l01638">UpdateVisibilityOf_helper()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00147">m_nextUsedPos</a>, <a class="el" href="../../#l00150">m_smallStepAngle</a>, <a class="el" href="../../#l00151">m_smallStepOk</a>, <a class="el" href="../../#l00146">m_UsedPosLists</a>, <a class="el" href="../../#l00025">USED_POS_MINUS</a>, and <a class="el" href="../../#l00025">USED_POS_PLUS</a>.</p>
 
 </div>
 </div>
-<a id="acb9c8d0ebfd5454ee7b697c0b1da7ad7" name="acb9c8d0ebfd5454ee7b697c0b1da7ad7"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#acb9c8d0ebfd5454ee7b697c0b1da7ad7">&#9670;&#160;</a></span>UnlinkVisibilityFromPlayer()</h2>
+<a id="a092252be70aef7ba47a2e81d183d68ab" name="a092252be70aef7ba47a2e81d183d68ab"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a092252be70aef7ba47a2e81d183d68ab">&#9670;&#160;</a></span>IsNonBalanced()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool ObjectPosSelector::IsNonBalanced </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   74</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d3/d5b/a08440.html#afa4cdf73a3473398e0fa2106b6680e55">m_UsedPosLists</a>[<a class="code hl_enumvalue" href="../../d4/d29/a01817.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e">USED_POS_PLUS</a>].empty() != <a class="code hl_variable" href="../../d3/d5b/a08440.html#afa4cdf73a3473398e0fa2106b6680e55">m_UsedPosLists</a>[<a class="code hl_enumvalue" href="../../d4/d29/a01817.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816">USED_POS_MINUS</a>].empty(); }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00146">m_UsedPosLists</a>, <a class="el" href="../../#l00025">USED_POS_MINUS</a>, and <a class="el" href="../../#l00025">USED_POS_PLUS</a>.</p>
+
+</div>
+</div>
+<a id="ae45835290af001233a7d76e1a5be6df0" name="ae45835290af001233a7d76e1a5be6df0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae45835290af001233a7d76e1a5be6df0">&#9670;&#160;</a></span>NextAngle()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">VisibleWorldObjectsMap::iterator ObjectVisibilityContainer::UnlinkVisibilityFromPlayer </td>
+          <td class="memname">bool ObjectPosSelector::NextAngle </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d5/d99/a08396.html">WorldObject</a> *&#160;</td>
-          <td class="paramname"><em>worldObject</em>, </td>
+          <td class="paramtype">float &amp;&#160;</td>
+          <td class="paramname"><em>angle</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   86</span>{</div>
+<div class="line"><span class="lineno">   87</span>    <span class="keywordflow">while</span> (<a class="code hl_variable" href="../../d3/d5b/a08440.html#a56ff73252996b988d6d1ea384dad1de8">m_nextUsedPos</a>[<a class="code hl_enumvalue" href="../../d4/d29/a01817.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e">USED_POS_PLUS</a>] != <a class="code hl_variable" href="../../d3/d5b/a08440.html#afa4cdf73a3473398e0fa2106b6680e55">m_UsedPosLists</a>[<a class="code hl_enumvalue" href="../../d4/d29/a01817.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e">USED_POS_PLUS</a>].end() ||</div>
+<div class="line"><span class="lineno">   88</span>            <a class="code hl_variable" href="../../d3/d5b/a08440.html#a56ff73252996b988d6d1ea384dad1de8">m_nextUsedPos</a>[<a class="code hl_enumvalue" href="../../d4/d29/a01817.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816">USED_POS_MINUS</a>] != <a class="code hl_variable" href="../../d3/d5b/a08440.html#afa4cdf73a3473398e0fa2106b6680e55">m_UsedPosLists</a>[<a class="code hl_enumvalue" href="../../d4/d29/a01817.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816">USED_POS_MINUS</a>].end() ||</div>
+<div class="line"><span class="lineno">   89</span>            <a class="code hl_variable" href="../../d3/d5b/a08440.html#a7f798861b78a0b54ad121e6acb5e442c">m_smallStepOk</a>[<a class="code hl_enumvalue" href="../../d4/d29/a01817.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e">USED_POS_PLUS</a>] || <a class="code hl_variable" href="../../d3/d5b/a08440.html#a7f798861b78a0b54ad121e6acb5e442c">m_smallStepOk</a>[<a class="code hl_enumvalue" href="../../d4/d29/a01817.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816">USED_POS_MINUS</a>] )</div>
+<div class="line"><span class="lineno">   90</span>    {</div>
+<div class="line"><span class="lineno">   91</span>        <span class="comment">// calculate next possible angle</span></div>
+<div class="line"><span class="lineno">   92</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d3/d5b/a08440.html#a3ca2304f7f268685b22db941d70fab36">NextPosibleAngle</a>(angle))</div>
+<div class="line"><span class="lineno">   93</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">   94</span>    }</div>
+<div class="line"><span class="lineno">   95</span> </div>
+<div class="line"><span class="lineno">   96</span>    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">   97</span>}</div>
+<div class="ttc" id="aa08440_html_a3ca2304f7f268685b22db941d70fab36"><div class="ttname"><a href="../../d3/d5b/a08440.html#a3ca2304f7f268685b22db941d70fab36">ObjectPosSelector::NextPosibleAngle</a></div><div class="ttdeci">bool NextPosibleAngle(float &amp;angle)</div><div class="ttdef"><b>Definition:</b> ObjectPosSelector.cpp:112</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00147">m_nextUsedPos</a>, <a class="el" href="../../#l00151">m_smallStepOk</a>, <a class="el" href="../../#l00146">m_UsedPosLists</a>, <a class="el" href="../../#l00112">NextPosibleAngle()</a>, <a class="el" href="../../#l00025">USED_POS_MINUS</a>, and <a class="el" href="../../#l00025">USED_POS_PLUS</a>.</p>
+
+</div>
+</div>
+<a id="a1d792bc79d1646eae7651705bc0afdd5" name="a1d792bc79d1646eae7651705bc0afdd5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1d792bc79d1646eae7651705bc0afdd5">&#9670;&#160;</a></span>NextAngleFor()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool ObjectPosSelector::NextAngleFor </td>
+          <td>(</td>
+          <td class="paramtype">UsedPosList::value_type const &amp;&#160;</td>
+          <td class="paramname"><em>usedPos</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">VisibleWorldObjectsMap::iterator&#160;</td>
-          <td class="paramname"><em>itr</em>&#160;</td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>sign</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d4/d29/a01817.html#a2f1e7723f9d73cff4490d29d2b3df397">UsedPosType</a>&#160;</td>
+          <td class="paramname"><em>uptype</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float &amp;&#160;</td>
+          <td class="paramname"><em>angle</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -567,37 +588,132 @@ Private Attributes</h2></td></tr>
           <td></td><td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   92</span>{</div>
-<div class="line"><span class="lineno">   93</span>    <a class="code hl_define" href="../../d9/d98/a04610.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(<a class="code hl_variable" href="../../d3/d5b/a08440.html#aa12e3794e004f994f02263251d611708">_visibleWorldObjectsMap</a>); <span class="comment">// Ensure we aren&#39;t for some reason calling this as a non-player object</span></div>
-<div class="line"><span class="lineno">   94</span>    worldObject-&gt;<a class="code hl_function" href="../../d5/d99/a08396.html#ac290821bbb0362b1fe15ba5857c727e7">GetObjectVisibilityContainer</a>().<a class="code hl_function" href="../../d3/d5b/a08440.html#a7d497bf0dcc4c9342fabd4cbb6e93d25">DirectRemoveVisiblePlayerReference</a>(<a class="code hl_variable" href="../../d3/d5b/a08440.html#a511c809d171be7e4e3a24f77838af445">_selfObject</a>-&gt;<a class="code hl_function" href="../../d1/d53/a08360.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>());</div>
-<div class="line"><span class="lineno">   95</span>    <span class="keywordflow">return</span> (*_visibleWorldObjectsMap).erase(itr);</div>
-<div class="line"><span class="lineno">   96</span>}</div>
-<div class="ttc" id="aa08440_html_a7d497bf0dcc4c9342fabd4cbb6e93d25"><div class="ttname"><a href="../../d3/d5b/a08440.html#a7d497bf0dcc4c9342fabd4cbb6e93d25">ObjectVisibilityContainer::DirectRemoveVisiblePlayerReference</a></div><div class="ttdeci">void DirectRemoveVisiblePlayerReference(ObjectGuid guid)</div><div class="ttdef"><b>Definition:</b> ObjectVisibilityContainer.cpp:115</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   77</span>    {</div>
+<div class="line"><span class="lineno">   78</span>        <span class="keywordtype">float</span> angle_step  = <a class="code hl_function" href="../../d3/d5b/a08440.html#ad0fc5c7a577bd9584d7a81346ff78c14">GetAngle</a>(usedPos.second);</div>
+<div class="line"><span class="lineno">   79</span> </div>
+<div class="line"><span class="lineno">   80</span>        <span class="comment">// next possible angle</span></div>
+<div class="line"><span class="lineno">   81</span>        angle  = usedPos.first * usedPos.second.sign + angle_step * sign;</div>
+<div class="line"><span class="lineno">   82</span> </div>
+<div class="line"><span class="lineno">   83</span>        UsedPosList::value_type <span class="keyword">const</span>* nextNode = <a class="code hl_function" href="../../d3/d5b/a08440.html#a93e3a877fef90a3fa933addeb53e3e8e">nextUsedPos</a>(uptype);</div>
+<div class="line"><span class="lineno">   84</span>        <span class="keywordflow">if</span> (nextNode)</div>
+<div class="line"><span class="lineno">   85</span>        {</div>
+<div class="line"><span class="lineno">   86</span>            <span class="comment">// if next node permit use selected angle, then do it</span></div>
+<div class="line"><span class="lineno">   87</span>            <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d3/d5b/a08440.html#a678445810801988c429489ba187b28f0">CheckAngle</a>(*nextNode, sign, angle))</div>
+<div class="line"><span class="lineno">   88</span>            {</div>
+<div class="line"><span class="lineno">   89</span>                <a class="code hl_variable" href="../../d3/d5b/a08440.html#a7f798861b78a0b54ad121e6acb5e442c">m_smallStepOk</a>[uptype] = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">   90</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">   91</span>            }</div>
+<div class="line"><span class="lineno">   92</span>        }</div>
+<div class="line"><span class="lineno">   93</span> </div>
+<div class="line"><span class="lineno">   94</span>        <span class="comment">// possible more points</span></div>
+<div class="line"><span class="lineno">   95</span>        <a class="code hl_variable" href="../../d3/d5b/a08440.html#a7f798861b78a0b54ad121e6acb5e442c">m_smallStepOk</a>[uptype] = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">   96</span>        <a class="code hl_variable" href="../../d3/d5b/a08440.html#a39bfdb4e3b3e3e3d902387c548bf81ff">m_smallStepAngle</a>[uptype] = angle;</div>
+<div class="line"><span class="lineno">   97</span>        <a class="code hl_variable" href="../../d3/d5b/a08440.html#aa98dfa81684059fe8f96f64d228e8d6b">m_smallStepNextUsedPos</a>[uptype] = nextNode;</div>
+<div class="line"><span class="lineno">   98</span> </div>
+<div class="line"><span class="lineno">   99</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  100</span>    }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00090">_selfObject</a>, <a class="el" href="../../#l00094">_visibleWorldObjectsMap</a>, <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00115">DirectRemoveVisiblePlayerReference()</a>, <a class="el" href="../../#l00113">Object::GetGUID()</a>, and <a class="el" href="../../#l00712">WorldObject::GetObjectVisibilityContainer()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00057">CheckAngle()</a>, <a class="el" href="../../#l00138">GetAngle()</a>, <a class="el" href="../../#l00150">m_smallStepAngle</a>, <a class="el" href="../../#l00152">m_smallStepNextUsedPos</a>, <a class="el" href="../../#l00151">m_smallStepOk</a>, and <a class="el" href="../../#l00038">nextUsedPos()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00039">Acore::VisibleNotifier::SendToSelf()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00075">FirstAngle()</a>, and <a class="el" href="../../#l00112">NextPosibleAngle()</a>.</p>
 
 </div>
 </div>
-<a id="ab6901d45f3920457bf6fbe6a89987375" name="ab6901d45f3920457bf6fbe6a89987375"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab6901d45f3920457bf6fbe6a89987375">&#9670;&#160;</a></span>UnlinkVisibilityFromWorldObject()</h2>
+<a id="a3ca2304f7f268685b22db941d70fab36" name="a3ca2304f7f268685b22db941d70fab36"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3ca2304f7f268685b22db941d70fab36">&#9670;&#160;</a></span>NextPosibleAngle()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">VisiblePlayersMap::iterator ObjectVisibilityContainer::UnlinkVisibilityFromWorldObject </td>
+          <td class="memname">bool ObjectPosSelector::NextPosibleAngle </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d8/d93/a08612.html">Player</a> *&#160;</td>
-          <td class="paramname"><em>player</em>, </td>
+          <td class="paramtype">float &amp;&#160;</td>
+          <td class="paramname"><em>angle</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  113</span>{</div>
+<div class="line"><span class="lineno">  114</span>    <span class="comment">// ++ direction less updated</span></div>
+<div class="line"><span class="lineno">  115</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d3/d5b/a08440.html#a56ff73252996b988d6d1ea384dad1de8">m_nextUsedPos</a>[<a class="code hl_enumvalue" href="../../d4/d29/a01817.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e">USED_POS_PLUS</a>] != <a class="code hl_variable" href="../../d3/d5b/a08440.html#afa4cdf73a3473398e0fa2106b6680e55">m_UsedPosLists</a>[<a class="code hl_enumvalue" href="../../d4/d29/a01817.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e">USED_POS_PLUS</a>].end() &amp;&amp;</div>
+<div class="line"><span class="lineno">  116</span>            (<a class="code hl_variable" href="../../d3/d5b/a08440.html#a56ff73252996b988d6d1ea384dad1de8">m_nextUsedPos</a>[<a class="code hl_enumvalue" href="../../d4/d29/a01817.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816">USED_POS_MINUS</a>] == <a class="code hl_variable" href="../../d3/d5b/a08440.html#afa4cdf73a3473398e0fa2106b6680e55">m_UsedPosLists</a>[<a class="code hl_enumvalue" href="../../d4/d29/a01817.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816">USED_POS_MINUS</a>].end() || <a class="code hl_variable" href="../../d3/d5b/a08440.html#a56ff73252996b988d6d1ea384dad1de8">m_nextUsedPos</a>[<a class="code hl_enumvalue" href="../../d4/d29/a01817.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e">USED_POS_PLUS</a>]-&gt;first &lt;= <a class="code hl_variable" href="../../d3/d5b/a08440.html#a56ff73252996b988d6d1ea384dad1de8">m_nextUsedPos</a>[<a class="code hl_enumvalue" href="../../d4/d29/a01817.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816">USED_POS_MINUS</a>]-&gt;first))</div>
+<div class="line"><span class="lineno">  117</span>    {</div>
+<div class="line"><span class="lineno">  118</span>        <span class="keywordtype">bool</span> ok;</div>
+<div class="line"><span class="lineno">  119</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d3/d5b/a08440.html#a7f798861b78a0b54ad121e6acb5e442c">m_smallStepOk</a>[<a class="code hl_enumvalue" href="../../d4/d29/a01817.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e">USED_POS_PLUS</a>])</div>
+<div class="line"><span class="lineno">  120</span>            ok = <a class="code hl_function" href="../../d3/d5b/a08440.html#a81959e17cd93eb5590dc3533ffa2217b">NextSmallStepAngle</a>(1.0f, <a class="code hl_enumvalue" href="../../d4/d29/a01817.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e">USED_POS_PLUS</a>, angle);</div>
+<div class="line"><span class="lineno">  121</span>        <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  122</span>            ok = <a class="code hl_function" href="../../d3/d5b/a08440.html#a1d792bc79d1646eae7651705bc0afdd5">NextAngleFor</a>(*<a class="code hl_variable" href="../../d3/d5b/a08440.html#a56ff73252996b988d6d1ea384dad1de8">m_nextUsedPos</a>[<a class="code hl_enumvalue" href="../../d4/d29/a01817.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e">USED_POS_PLUS</a>], 1.0f, <a class="code hl_enumvalue" href="../../d4/d29/a01817.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e">USED_POS_PLUS</a>, angle);</div>
+<div class="line"><span class="lineno">  123</span> </div>
+<div class="line"><span class="lineno">  124</span>        <span class="keywordflow">if</span> (!ok)</div>
+<div class="line"><span class="lineno">  125</span>            ++<a class="code hl_variable" href="../../d3/d5b/a08440.html#a56ff73252996b988d6d1ea384dad1de8">m_nextUsedPos</a>[<a class="code hl_enumvalue" href="../../d4/d29/a01817.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e">USED_POS_PLUS</a>];                 <span class="comment">// increase. only at fail (original or checked)</span></div>
+<div class="line"><span class="lineno">  126</span>        <span class="keywordflow">return</span> ok;</div>
+<div class="line"><span class="lineno">  127</span>    }</div>
+<div class="line"><span class="lineno">  128</span>    <span class="comment">// -- direction less updated</span></div>
+<div class="line"><span class="lineno">  129</span>    <span class="keywordflow">else</span> <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d3/d5b/a08440.html#a56ff73252996b988d6d1ea384dad1de8">m_nextUsedPos</a>[<a class="code hl_enumvalue" href="../../d4/d29/a01817.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816">USED_POS_MINUS</a>] != <a class="code hl_variable" href="../../d3/d5b/a08440.html#afa4cdf73a3473398e0fa2106b6680e55">m_UsedPosLists</a>[<a class="code hl_enumvalue" href="../../d4/d29/a01817.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816">USED_POS_MINUS</a>].end())</div>
+<div class="line"><span class="lineno">  130</span>    {</div>
+<div class="line"><span class="lineno">  131</span>        <span class="keywordtype">bool</span> ok;</div>
+<div class="line"><span class="lineno">  132</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d3/d5b/a08440.html#a7f798861b78a0b54ad121e6acb5e442c">m_smallStepOk</a>[<a class="code hl_enumvalue" href="../../d4/d29/a01817.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816">USED_POS_MINUS</a>])</div>
+<div class="line"><span class="lineno">  133</span>            ok = <a class="code hl_function" href="../../d3/d5b/a08440.html#a81959e17cd93eb5590dc3533ffa2217b">NextSmallStepAngle</a>(-1.0f, <a class="code hl_enumvalue" href="../../d4/d29/a01817.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816">USED_POS_MINUS</a>, angle);</div>
+<div class="line"><span class="lineno">  134</span>        <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  135</span>            ok = <a class="code hl_function" href="../../d3/d5b/a08440.html#a1d792bc79d1646eae7651705bc0afdd5">NextAngleFor</a>(*<a class="code hl_variable" href="../../d3/d5b/a08440.html#a56ff73252996b988d6d1ea384dad1de8">m_nextUsedPos</a>[<a class="code hl_enumvalue" href="../../d4/d29/a01817.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816">USED_POS_MINUS</a>], -1.0f, <a class="code hl_enumvalue" href="../../d4/d29/a01817.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816">USED_POS_MINUS</a>, angle);</div>
+<div class="line"><span class="lineno">  136</span> </div>
+<div class="line"><span class="lineno">  137</span>        <span class="keywordflow">if</span> (!ok)</div>
+<div class="line"><span class="lineno">  138</span>            ++<a class="code hl_variable" href="../../d3/d5b/a08440.html#a56ff73252996b988d6d1ea384dad1de8">m_nextUsedPos</a>[<a class="code hl_enumvalue" href="../../d4/d29/a01817.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816">USED_POS_MINUS</a>];</div>
+<div class="line"><span class="lineno">  139</span>        <span class="keywordflow">return</span> ok;</div>
+<div class="line"><span class="lineno">  140</span>    }</div>
+<div class="line"><span class="lineno">  141</span>    <span class="keywordflow">else</span>                                                    <span class="comment">// both list empty</span></div>
+<div class="line"><span class="lineno">  142</span>    {</div>
+<div class="line"><span class="lineno">  143</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d3/d5b/a08440.html#a7f798861b78a0b54ad121e6acb5e442c">m_smallStepOk</a>[<a class="code hl_enumvalue" href="../../d4/d29/a01817.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e">USED_POS_PLUS</a>] &amp;&amp; (!<a class="code hl_variable" href="../../d3/d5b/a08440.html#a7f798861b78a0b54ad121e6acb5e442c">m_smallStepOk</a>[<a class="code hl_enumvalue" href="../../d4/d29/a01817.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816">USED_POS_MINUS</a>] || <a class="code hl_variable" href="../../d3/d5b/a08440.html#a39bfdb4e3b3e3e3d902387c548bf81ff">m_smallStepAngle</a>[<a class="code hl_enumvalue" href="../../d4/d29/a01817.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e">USED_POS_PLUS</a>] &lt;= <a class="code hl_variable" href="../../d3/d5b/a08440.html#a39bfdb4e3b3e3e3d902387c548bf81ff">m_smallStepAngle</a>[<a class="code hl_enumvalue" href="../../d4/d29/a01817.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816">USED_POS_MINUS</a>]))</div>
+<div class="line"><span class="lineno">  144</span>            <span class="keywordflow">return</span> <a class="code hl_function" href="../../d3/d5b/a08440.html#a81959e17cd93eb5590dc3533ffa2217b">NextSmallStepAngle</a>(1.0f, <a class="code hl_enumvalue" href="../../d4/d29/a01817.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e">USED_POS_PLUS</a>, angle);</div>
+<div class="line"><span class="lineno">  145</span>        <span class="comment">// -- direction less updated</span></div>
+<div class="line"><span class="lineno">  146</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d3/d5b/a08440.html#a7f798861b78a0b54ad121e6acb5e442c">m_smallStepOk</a>[<a class="code hl_enumvalue" href="../../d4/d29/a01817.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816">USED_POS_MINUS</a>])</div>
+<div class="line"><span class="lineno">  147</span>            <span class="keywordflow">return</span> <a class="code hl_function" href="../../d3/d5b/a08440.html#a81959e17cd93eb5590dc3533ffa2217b">NextSmallStepAngle</a>(-1.0f, <a class="code hl_enumvalue" href="../../d4/d29/a01817.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816">USED_POS_MINUS</a>, angle);</div>
+<div class="line"><span class="lineno">  148</span>    }</div>
+<div class="line"><span class="lineno">  149</span> </div>
+<div class="line"><span class="lineno">  150</span>    <span class="comment">// no angles</span></div>
+<div class="line"><span class="lineno">  151</span>    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  152</span>}</div>
+<div class="ttc" id="aa08440_html_a81959e17cd93eb5590dc3533ffa2217b"><div class="ttname"><a href="../../d3/d5b/a08440.html#a81959e17cd93eb5590dc3533ffa2217b">ObjectPosSelector::NextSmallStepAngle</a></div><div class="ttdeci">bool NextSmallStepAngle(float sign, UsedPosType uptype, float &amp;angle)</div><div class="ttdef"><b>Definition:</b> ObjectPosSelector.h:102</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00147">m_nextUsedPos</a>, <a class="el" href="../../#l00150">m_smallStepAngle</a>, <a class="el" href="../../#l00151">m_smallStepOk</a>, <a class="el" href="../../#l00146">m_UsedPosLists</a>, <a class="el" href="../../#l00076">NextAngleFor()</a>, <a class="el" href="../../#l00102">NextSmallStepAngle()</a>, <a class="el" href="../../#l00025">USED_POS_MINUS</a>, and <a class="el" href="../../#l00025">USED_POS_PLUS</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00085">NextAngle()</a>, and <a class="el" href="../../#l00099">NextUsedAngle()</a>.</p>
+
+</div>
+</div>
+<a id="a81959e17cd93eb5590dc3533ffa2217b" name="a81959e17cd93eb5590dc3533ffa2217b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a81959e17cd93eb5590dc3533ffa2217b">&#9670;&#160;</a></span>NextSmallStepAngle()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool ObjectPosSelector::NextSmallStepAngle </td>
+          <td>(</td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>sign</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">VisiblePlayersMap::iterator&#160;</td>
-          <td class="paramname"><em>itr</em>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d4/d29/a01817.html#a2f1e7723f9d73cff4490d29d2b3df397">UsedPosType</a>&#160;</td>
+          <td class="paramname"><em>uptype</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float &amp;&#160;</td>
+          <td class="paramname"><em>angle</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -605,119 +721,271 @@ Private Attributes</h2></td></tr>
           <td></td><td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   99</span>{</div>
-<div class="line"><span class="lineno">  100</span>    player-&gt;<a class="code hl_function" href="../../d5/d99/a08396.html#ac290821bbb0362b1fe15ba5857c727e7">GetObjectVisibilityContainer</a>().<a class="code hl_function" href="../../d3/d5b/a08440.html#ac37e5bbcb2bcfe399bf59e782ef1e7b9">DirectRemoveVisibilityReference</a>(<a class="code hl_variable" href="../../d3/d5b/a08440.html#a511c809d171be7e4e3a24f77838af445">_selfObject</a>-&gt;<a class="code hl_function" href="../../d1/d53/a08360.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>());</div>
-<div class="line"><span class="lineno">  101</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d3/d5b/a08440.html#ac2a417b5314139baf38ba1d7754bb5bb">_visiblePlayersMap</a>.erase(itr);</div>
-<div class="line"><span class="lineno">  102</span>}</div>
-<div class="ttc" id="aa08440_html_ac37e5bbcb2bcfe399bf59e782ef1e7b9"><div class="ttname"><a href="../../d3/d5b/a08440.html#ac37e5bbcb2bcfe399bf59e782ef1e7b9">ObjectVisibilityContainer::DirectRemoveVisibilityReference</a></div><div class="ttdeci">void DirectRemoveVisibilityReference(ObjectGuid guid)</div><div class="ttdef"><b>Definition:</b> ObjectVisibilityContainer.cpp:104</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  103</span>    {</div>
+<div class="line"><span class="lineno">  104</span>        <span class="comment">// next possible angle</span></div>
+<div class="line"><span class="lineno">  105</span>        angle  = <a class="code hl_variable" href="../../d3/d5b/a08440.html#a39bfdb4e3b3e3e3d902387c548bf81ff">m_smallStepAngle</a>[uptype] + <a class="code hl_variable" href="../../d3/d5b/a08440.html#ad33b5ad5af8ebfd14851085b5c67cc95">m_anglestep</a> * sign;</div>
+<div class="line"><span class="lineno">  106</span> </div>
+<div class="line"><span class="lineno">  107</span>        <span class="keywordflow">if</span> (std::fabs(angle) &gt; M_PI)</div>
+<div class="line"><span class="lineno">  108</span>        {</div>
+<div class="line"><span class="lineno">  109</span>            <a class="code hl_variable" href="../../d3/d5b/a08440.html#a7f798861b78a0b54ad121e6acb5e442c">m_smallStepOk</a>[uptype] = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  110</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  111</span>        }</div>
+<div class="line"><span class="lineno">  112</span> </div>
+<div class="line"><span class="lineno">  113</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d3/d5b/a08440.html#aa98dfa81684059fe8f96f64d228e8d6b">m_smallStepNextUsedPos</a>[uptype])</div>
+<div class="line"><span class="lineno">  114</span>        {</div>
+<div class="line"><span class="lineno">  115</span>            <span class="keywordflow">if</span> (std::fabs(angle) &gt;= <a class="code hl_variable" href="../../d3/d5b/a08440.html#aa98dfa81684059fe8f96f64d228e8d6b">m_smallStepNextUsedPos</a>[uptype]-&gt;first)</div>
+<div class="line"><span class="lineno">  116</span>            {</div>
+<div class="line"><span class="lineno">  117</span>                <a class="code hl_variable" href="../../d3/d5b/a08440.html#a7f798861b78a0b54ad121e6acb5e442c">m_smallStepOk</a>[uptype] = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  118</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  119</span>            }</div>
+<div class="line"><span class="lineno">  120</span> </div>
+<div class="line"><span class="lineno">  121</span>            <span class="comment">// if next node permit use selected angle, then do it</span></div>
+<div class="line"><span class="lineno">  122</span>            <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d3/d5b/a08440.html#a678445810801988c429489ba187b28f0">CheckAngle</a>(*<a class="code hl_variable" href="../../d3/d5b/a08440.html#aa98dfa81684059fe8f96f64d228e8d6b">m_smallStepNextUsedPos</a>[uptype], sign, angle))</div>
+<div class="line"><span class="lineno">  123</span>            {</div>
+<div class="line"><span class="lineno">  124</span>                <a class="code hl_variable" href="../../d3/d5b/a08440.html#a7f798861b78a0b54ad121e6acb5e442c">m_smallStepOk</a>[uptype] = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  125</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  126</span>            }</div>
+<div class="line"><span class="lineno">  127</span>        }</div>
+<div class="line"><span class="lineno">  128</span> </div>
+<div class="line"><span class="lineno">  129</span>        <span class="comment">// possible more points</span></div>
+<div class="line"><span class="lineno">  130</span>        <a class="code hl_variable" href="../../d3/d5b/a08440.html#a39bfdb4e3b3e3e3d902387c548bf81ff">m_smallStepAngle</a>[uptype] = angle;</div>
+<div class="line"><span class="lineno">  131</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  132</span>    }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00090">_selfObject</a>, <a class="el" href="../../#l00098">_visiblePlayersMap</a>, <a class="el" href="../../#l00104">DirectRemoveVisibilityReference()</a>, <a class="el" href="../../#l00113">Object::GetGUID()</a>, and <a class="el" href="../../#l00712">WorldObject::GetObjectVisibilityContainer()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00057">CheckAngle()</a>, <a class="el" href="../../#l00144">m_anglestep</a>, <a class="el" href="../../#l00150">m_smallStepAngle</a>, <a class="el" href="../../#l00152">m_smallStepNextUsedPos</a>, and <a class="el" href="../../#l00151">m_smallStepOk</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l02905">WorldObject::DestroyForVisiblePlayers()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00112">NextPosibleAngle()</a>.</p>
 
 </div>
 </div>
-<a id="a0c23e636a75c75c0b8976282b186a7f5" name="a0c23e636a75c75c0b8976282b186a7f5"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0c23e636a75c75c0b8976282b186a7f5">&#9670;&#160;</a></span>UnlinkWorldObjectVisibility()</h2>
+<a id="a779268da0c5b089c9752601543a0f856" name="a779268da0c5b089c9752601543a0f856"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a779268da0c5b089c9752601543a0f856">&#9670;&#160;</a></span>NextUsedAngle()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void ObjectVisibilityContainer::UnlinkWorldObjectVisibility </td>
+          <td class="memname">bool ObjectPosSelector::NextUsedAngle </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d5/d99/a08396.html">WorldObject</a> *&#160;</td>
-          <td class="paramname"><em>worldObject</em></td><td>)</td>
+          <td class="paramtype">float &amp;&#160;</td>
+          <td class="paramname"><em>angle</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   82</span>{</div>
-<div class="line"><span class="lineno">   83</span>    <span class="comment">// Only players can unlink visibility</span></div>
-<div class="line"><span class="lineno">   84</span>    <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d3/d5b/a08440.html#aa12e3794e004f994f02263251d611708">_visibleWorldObjectsMap</a>)</div>
-<div class="line"><span class="lineno">   85</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">   86</span> </div>
-<div class="line"><span class="lineno">   87</span>    worldObject-&gt;<a class="code hl_function" href="../../d5/d99/a08396.html#ac290821bbb0362b1fe15ba5857c727e7">GetObjectVisibilityContainer</a>().<a class="code hl_function" href="../../d3/d5b/a08440.html#a7d497bf0dcc4c9342fabd4cbb6e93d25">DirectRemoveVisiblePlayerReference</a>(<a class="code hl_variable" href="../../d3/d5b/a08440.html#a511c809d171be7e4e3a24f77838af445">_selfObject</a>-&gt;<a class="code hl_function" href="../../d1/d53/a08360.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>());</div>
-<div class="line"><span class="lineno">   88</span>    (*_visibleWorldObjectsMap).erase(worldObject-&gt;<a class="code hl_function" href="../../d1/d53/a08360.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>());</div>
-<div class="line"><span class="lineno">   89</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  100</span>{</div>
+<div class="line"><span class="lineno">  101</span>    <span class="keywordflow">while</span> (<a class="code hl_variable" href="../../d3/d5b/a08440.html#a56ff73252996b988d6d1ea384dad1de8">m_nextUsedPos</a>[<a class="code hl_enumvalue" href="../../d4/d29/a01817.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e">USED_POS_PLUS</a>] != <a class="code hl_variable" href="../../d3/d5b/a08440.html#afa4cdf73a3473398e0fa2106b6680e55">m_UsedPosLists</a>[<a class="code hl_enumvalue" href="../../d4/d29/a01817.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e">USED_POS_PLUS</a>].end() ||</div>
+<div class="line"><span class="lineno">  102</span>            <a class="code hl_variable" href="../../d3/d5b/a08440.html#a56ff73252996b988d6d1ea384dad1de8">m_nextUsedPos</a>[<a class="code hl_enumvalue" href="../../d4/d29/a01817.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816">USED_POS_MINUS</a>] != <a class="code hl_variable" href="../../d3/d5b/a08440.html#afa4cdf73a3473398e0fa2106b6680e55">m_UsedPosLists</a>[<a class="code hl_enumvalue" href="../../d4/d29/a01817.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816">USED_POS_MINUS</a>].end())</div>
+<div class="line"><span class="lineno">  103</span>    {</div>
+<div class="line"><span class="lineno">  104</span>        <span class="comment">// calculate next possible angle</span></div>
+<div class="line"><span class="lineno">  105</span>        <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d3/d5b/a08440.html#a3ca2304f7f268685b22db941d70fab36">NextPosibleAngle</a>(angle))</div>
+<div class="line"><span class="lineno">  106</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  107</span>    }</div>
+<div class="line"><span class="lineno">  108</span> </div>
+<div class="line"><span class="lineno">  109</span>    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  110</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00090">_selfObject</a>, <a class="el" href="../../#l00094">_visibleWorldObjectsMap</a>, <a class="el" href="../../#l00115">DirectRemoveVisiblePlayerReference()</a>, <a class="el" href="../../#l00113">Object::GetGUID()</a>, and <a class="el" href="../../#l00712">WorldObject::GetObjectVisibilityContainer()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00147">m_nextUsedPos</a>, <a class="el" href="../../#l00146">m_UsedPosLists</a>, <a class="el" href="../../#l00112">NextPosibleAngle()</a>, <a class="el" href="../../#l00025">USED_POS_MINUS</a>, and <a class="el" href="../../#l00025">USED_POS_PLUS</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01680">Player::UpdateVisibilityOf()</a>.</p>
+</div>
+</div>
+<a id="a93e3a877fef90a3fa933addeb53e3e8e" name="a93e3a877fef90a3fa933addeb53e3e8e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a93e3a877fef90a3fa933addeb53e3e8e">&#9670;&#160;</a></span>nextUsedPos()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">ObjectPosSelector::UsedPosList::value_type const  * ObjectPosSelector::nextUsedPos </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d4/d29/a01817.html#a2f1e7723f9d73cff4490d29d2b3df397">UsedPosType</a>&#160;</td>
+          <td class="paramname"><em>uptype</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   39</span>{</div>
+<div class="line"><span class="lineno">   40</span>    UsedPosList::const_iterator itr = <a class="code hl_variable" href="../../d3/d5b/a08440.html#a56ff73252996b988d6d1ea384dad1de8">m_nextUsedPos</a>[uptype];</div>
+<div class="line"><span class="lineno">   41</span>    <span class="keywordflow">if</span> (itr != <a class="code hl_variable" href="../../d3/d5b/a08440.html#afa4cdf73a3473398e0fa2106b6680e55">m_UsedPosLists</a>[uptype].end())</div>
+<div class="line"><span class="lineno">   42</span>        ++itr;</div>
+<div class="line"><span class="lineno">   43</span> </div>
+<div class="line"><span class="lineno">   44</span>    <span class="keywordflow">if</span> (itr == <a class="code hl_variable" href="../../d3/d5b/a08440.html#afa4cdf73a3473398e0fa2106b6680e55">m_UsedPosLists</a>[uptype].end())</div>
+<div class="line"><span class="lineno">   45</span>    {</div>
+<div class="line"><span class="lineno">   46</span>        <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d3/d5b/a08440.html#afa4cdf73a3473398e0fa2106b6680e55">m_UsedPosLists</a>[~uptype].empty())</div>
+<div class="line"><span class="lineno">   47</span>            <span class="keywordflow">return</span> &amp;*<a class="code hl_variable" href="../../d3/d5b/a08440.html#afa4cdf73a3473398e0fa2106b6680e55">m_UsedPosLists</a>[~uptype].rbegin();</div>
+<div class="line"><span class="lineno">   48</span>        <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">   49</span>            <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">   50</span>    }</div>
+<div class="line"><span class="lineno">   51</span>    <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">   52</span>        <span class="keywordflow">return</span> &amp;*itr;</div>
+<div class="line"><span class="lineno">   53</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00147">m_nextUsedPos</a>, and <a class="el" href="../../#l00146">m_UsedPosLists</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00057">CheckAngle()</a>, and <a class="el" href="../../#l00076">NextAngleFor()</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a511c809d171be7e4e3a24f77838af445" name="a511c809d171be7e4e3a24f77838af445"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a511c809d171be7e4e3a24f77838af445">&#9670;&#160;</a></span>_selfObject</h2>
+<a id="ad33b5ad5af8ebfd14851085b5c67cc95" name="ad33b5ad5af8ebfd14851085b5c67cc95"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad33b5ad5af8ebfd14851085b5c67cc95">&#9670;&#160;</a></span>m_anglestep</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d5/d99/a08396.html">WorldObject</a>* ObjectVisibilityContainer::_selfObject</td>
+          <td class="memname">float ObjectPosSelector::m_anglestep</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00047">CleanVisibilityReferences()</a>, <a class="el" href="../../#l00063">LinkWorldObjectVisibility()</a>, <a class="el" href="../../#l00091">UnlinkVisibilityFromPlayer()</a>, <a class="el" href="../../#l00098">UnlinkVisibilityFromWorldObject()</a>, and <a class="el" href="../../#l00081">UnlinkWorldObjectVisibility()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00102">NextSmallStepAngle()</a>, and <a class="el" href="../../#l00020">ObjectPosSelector()</a>.</p>
 
 </div>
 </div>
-<a id="ac2a417b5314139baf38ba1d7754bb5bb" name="ac2a417b5314139baf38ba1d7754bb5bb"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac2a417b5314139baf38ba1d7754bb5bb">&#9670;&#160;</a></span>_visiblePlayersMap</h2>
+<a id="a25ec0d7656c52f0a9c4b24ea81e37771" name="a25ec0d7656c52f0a9c4b24ea81e37771"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a25ec0d7656c52f0a9c4b24ea81e37771">&#9670;&#160;</a></span>m_center_x</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d7/d6d/a01769.html#a52b38df575afa7eef8fb58759ee03bd8">VisiblePlayersMap</a> ObjectVisibilityContainer::_visiblePlayersMap</td>
+          <td class="memname">float ObjectPosSelector::m_center_x</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00047">CleanVisibilityReferences()</a>, <a class="el" href="../../#l00110">DirectInsertVisiblePlayerReference()</a>, <a class="el" href="../../#l00115">DirectRemoveVisiblePlayerReference()</a>, <a class="el" href="../../#l00054">GetVisiblePlayersMap()</a>, <a class="el" href="../../#l00098">UnlinkVisibilityFromWorldObject()</a>, and <a class="el" href="../../#l00035">~ObjectVisibilityContainer()</a>.</p>
-
 </div>
 </div>
-<a id="aa12e3794e004f994f02263251d611708" name="aa12e3794e004f994f02263251d611708"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa12e3794e004f994f02263251d611708">&#9670;&#160;</a></span>_visibleWorldObjectsMap</h2>
+<a id="aa0d25b2794648c6a1f6895632e8a10ea" name="aa0d25b2794648c6a1f6895632e8a10ea"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa0d25b2794648c6a1f6895632e8a10ea">&#9670;&#160;</a></span>m_center_y</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::unique_ptr&lt;<a class="el" href="../../d7/d6d/a01769.html#a6fe979433a4dd2c9023626ecc74bf6a5">VisibleWorldObjectsMap</a>&gt; ObjectVisibilityContainer::_visibleWorldObjectsMap</td>
+          <td class="memname">float ObjectPosSelector::m_center_y</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00047">CleanVisibilityReferences()</a>, <a class="el" href="../../#l00104">DirectRemoveVisibilityReference()</a>, <a class="el" href="../../#l00059">GetVisibleWorldObjectsMap()</a>, <a class="el" href="../../#l00042">InitForPlayer()</a>, <a class="el" href="../../#l00063">LinkWorldObjectVisibility()</a>, <a class="el" href="../../#l00091">UnlinkVisibilityFromPlayer()</a>, <a class="el" href="../../#l00081">UnlinkWorldObjectVisibility()</a>, and <a class="el" href="../../#l00035">~ObjectVisibilityContainer()</a>.</p>
+</div>
+</div>
+<a id="a7b6cf79a4806aff044b3f6b7d9181aaf" name="a7b6cf79a4806aff044b3f6b7d9181aaf"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7b6cf79a4806aff044b3f6b7d9181aaf">&#9670;&#160;</a></span>m_dist</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">float ObjectPosSelector::m_dist</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00138">GetAngle()</a>, and <a class="el" href="../../#l00020">ObjectPosSelector()</a>.</p>
+
+</div>
+</div>
+<a id="a56ff73252996b988d6d1ea384dad1de8" name="a56ff73252996b988d6d1ea384dad1de8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a56ff73252996b988d6d1ea384dad1de8">&#9670;&#160;</a></span>m_nextUsedPos</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">UsedPosList::const_iterator ObjectPosSelector::m_nextUsedPos[2]</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00063">InitializeAngle()</a>, <a class="el" href="../../#l00085">NextAngle()</a>, <a class="el" href="../../#l00112">NextPosibleAngle()</a>, <a class="el" href="../../#l00099">NextUsedAngle()</a>, <a class="el" href="../../#l00038">nextUsedPos()</a>, and <a class="el" href="../../#l00020">ObjectPosSelector()</a>.</p>
+
+</div>
+</div>
+<a id="a3a61d5b8187c602ba5a2213283b5139c" name="a3a61d5b8187c602ba5a2213283b5139c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3a61d5b8187c602ba5a2213283b5139c">&#9670;&#160;</a></span>m_size</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">float ObjectPosSelector::m_size</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00138">GetAngle()</a>, and <a class="el" href="../../#l00020">ObjectPosSelector()</a>.</p>
+
+</div>
+</div>
+<a id="a39bfdb4e3b3e3e3d902387c548bf81ff" name="a39bfdb4e3b3e3e3d902387c548bf81ff"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a39bfdb4e3b3e3e3d902387c548bf81ff">&#9670;&#160;</a></span>m_smallStepAngle</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">float ObjectPosSelector::m_smallStepAngle[2]</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00063">InitializeAngle()</a>, <a class="el" href="../../#l00076">NextAngleFor()</a>, <a class="el" href="../../#l00112">NextPosibleAngle()</a>, <a class="el" href="../../#l00102">NextSmallStepAngle()</a>, and <a class="el" href="../../#l00020">ObjectPosSelector()</a>.</p>
+
+</div>
+</div>
+<a id="aa98dfa81684059fe8f96f64d228e8d6b" name="aa98dfa81684059fe8f96f64d228e8d6b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa98dfa81684059fe8f96f64d228e8d6b">&#9670;&#160;</a></span>m_smallStepNextUsedPos</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">UsedPosList::value_type const* ObjectPosSelector::m_smallStepNextUsedPos[2]</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00076">NextAngleFor()</a>, <a class="el" href="../../#l00102">NextSmallStepAngle()</a>, and <a class="el" href="../../#l00020">ObjectPosSelector()</a>.</p>
+
+</div>
+</div>
+<a id="a7f798861b78a0b54ad121e6acb5e442c" name="a7f798861b78a0b54ad121e6acb5e442c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7f798861b78a0b54ad121e6acb5e442c">&#9670;&#160;</a></span>m_smallStepOk</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool ObjectPosSelector::m_smallStepOk[2]</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00063">InitializeAngle()</a>, <a class="el" href="../../#l00085">NextAngle()</a>, <a class="el" href="../../#l00076">NextAngleFor()</a>, <a class="el" href="../../#l00112">NextPosibleAngle()</a>, <a class="el" href="../../#l00102">NextSmallStepAngle()</a>, and <a class="el" href="../../#l00020">ObjectPosSelector()</a>.</p>
+
+</div>
+</div>
+<a id="afa4cdf73a3473398e0fa2106b6680e55" name="afa4cdf73a3473398e0fa2106b6680e55"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afa4cdf73a3473398e0fa2106b6680e55">&#9670;&#160;</a></span>m_UsedPosLists</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d3/d5b/a08440.html#a76a3553e006171560baf7aa7cc2bc163">UsedPosList</a> ObjectPosSelector::m_UsedPosLists[2]</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00055">AddUsedPos()</a>, <a class="el" href="../../#l00068">CheckOriginal()</a>, <a class="el" href="../../#l00075">FirstAngle()</a>, <a class="el" href="../../#l00063">InitializeAngle()</a>, <a class="el" href="../../#l00074">IsNonBalanced()</a>, <a class="el" href="../../#l00085">NextAngle()</a>, <a class="el" href="../../#l00112">NextPosibleAngle()</a>, <a class="el" href="../../#l00099">NextUsedAngle()</a>, <a class="el" href="../../#l00038">nextUsedPos()</a>, and <a class="el" href="../../#l00020">ObjectPosSelector()</a>.</p>
 
 </div>
 </div>
@@ -726,8 +994,8 @@ Private Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d3/d5b/a08440.html">ObjectVisibilityContainer</a></li>
-    <li class="footer">Generated on Mon Aug 18 2025 20:48:49 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d3/d5b/a08440.html">ObjectPosSelector</a></li>
+    <li class="footer">Generated on Mon Aug 25 2025 20:47:03 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

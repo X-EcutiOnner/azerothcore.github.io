@@ -1,8 +1,8 @@
 var a17656 =
 [
-    [ "Load", "da/d8a/a17656.html#a363d0afcf2f79b8219652de5a3a6d466", null ],
-    [ "PrepareSpellScript", "da/d8a/a17656.html#a8df1abd311a1c32cd6ed296d75566eac", null ],
-    [ "Register", "da/d8a/a17656.html#a61e8f66c7446e0587b5d743f0e6ead92", null ],
-    [ "RelocateDest", "da/d8a/a17656.html#abad4acee4c0898fea6bfb57b8155cab2", null ],
-    [ "SelectTransport", "da/d8a/a17656.html#a0564852176d80ee6593baa3abb18238a", null ]
+    [ "npc_gunship_mageAI", "da/d8a/a17656.html#ac79cb67f21820ef88ac9cd671ca9e4c7", null ],
+    [ "AttackStart", "da/d8a/a17656.html#a41bd517c360538f568fb56bc9d2f5e55", null ],
+    [ "CanAIAttack", "da/d8a/a17656.html#aadcb217a9df96bee02287d75a23e32c2", null ],
+    [ "MovementInform", "da/d8a/a17656.html#ac0f233fa5a34cd6e080f44c798b4fc62", null ],
+    [ "UpdateAI", "da/d8a/a17656.html#aa767fc4cb2f7eba37fedaec57c4bc175", null ]
 ];

@@ -1,7 +1,6 @@
 var a18728 =
 [
-    [ "HandleScript", "df/daf/a18728.html#a87a2b32a9a20f032157df5ddb2cd9979", null ],
-    [ "PrepareSpellScript", "df/daf/a18728.html#a9aca3a2a981a0cb61569200d77ca527a", null ],
-    [ "Register", "df/daf/a18728.html#afb0289c9906d0383a22dfd0e848573f8", null ],
-    [ "Validate", "df/daf/a18728.html#a69344370af56f033e1c1ba16f4dee174", null ]
+    [ "npc_arthas_teleport_visualAI", "dc/d3e/a18732.html", "dc/d3e/a18732" ],
+    [ "npc_arthas_teleport_visual", "df/daf/a18728.html#a62d2caed6b12355f6d7aeceabba2ddaf", null ],
+    [ "GetAI", "df/daf/a18728.html#a393d5ef960b9ee0cf8feeeeb5d81045d", null ]
 ];

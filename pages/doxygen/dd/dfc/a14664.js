@@ -1,10 +1,18 @@
 var a14664 =
 [
-    [ "boss_rage_winterchill", "dd/dfc/a14664.html#a66fed2a7cc6135d41a2c40bdf4ffe02e", null ],
-    [ "DoAction", "dd/dfc/a14664.html#a45333aea6d6a180473ca4823ea83920a", null ],
-    [ "JustDied", "dd/dfc/a14664.html#ab10c7df81a9e71b2c114465c30e40a9b", null ],
-    [ "JustEngagedWith", "dd/dfc/a14664.html#ad36a840c65949c54d5ee3ae8cb6f1f7b", null ],
-    [ "KilledUnit", "dd/dfc/a14664.html#a69d69530a080379add7be73c552f4937", null ],
-    [ "PathEndReached", "dd/dfc/a14664.html#aec47befdf3246710a5158780fa797fa7", null ],
-    [ "_recentlySpoken", "dd/dfc/a14664.html#ae2141b4ea1d10cb74146aec63d65214c", null ]
+    [ "boss_archimonde", "dd/dfc/a14664.html#a25e52499f80d4c3edb4dd5cf02b95d18", null ],
+    [ "DoAction", "dd/dfc/a14664.html#aba420f926ccdfc6feeb16a0e6d67267f", null ],
+    [ "DoCastDoomFire", "dd/dfc/a14664.html#a409cad381c6562f44fcf8f66a5965ec4", null ],
+    [ "EnterEvadeMode", "dd/dfc/a14664.html#aac09090d17c336e9935cfce7ff1c8d60", null ],
+    [ "JustEngagedWith", "dd/dfc/a14664.html#a31c526a5e72c4244df101918388c777c", null ],
+    [ "JustSummoned", "dd/dfc/a14664.html#a6db990f64d884f1290c77b8ec73b8fb0", null ],
+    [ "KilledUnit", "dd/dfc/a14664.html#a341ab97e59cfe989572fdcceff434e4e", null ],
+    [ "Reset", "dd/dfc/a14664.html#a905918f9fc654c4c1fa1aa99980d39e6", null ],
+    [ "SetGUID", "dd/dfc/a14664.html#a9008cf454dc7e2eeba36c0a45193db7a", null ],
+    [ "UnleashSoulCharge", "dd/dfc/a14664.html#a93f93fe116c75a24dc15bb521b038a27", null ],
+    [ "_availableAuras", "dd/dfc/a14664.html#a552869a0fd5141094a021e3aaaada051", null ],
+    [ "_availableSpells", "dd/dfc/a14664.html#a388a8bafb4407e371a58d3a7d090c754", null ],
+    [ "_enraged", "dd/dfc/a14664.html#a1e295ff6ae857c7a022acf967afd0de0", null ],
+    [ "_isChanneling", "dd/dfc/a14664.html#ad967688caad8a6c7530bfd4709aecb06", null ],
+    [ "_wispCount", "dd/dfc/a14664.html#aa2ec2fcd92ed81f76fb238af9dbad53e", null ]
 ];

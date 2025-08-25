@@ -1,26 +1,8 @@
 var a05100 =
 [
-    [ "GroupModel", "d6/da5/a05100.html#a04394355a9e29ac711f1eac8e1b8f598", null ],
-    [ "GroupModel", "d6/da5/a05100.html#ae80a3f105bb90f9c53c79e120493a080", null ],
-    [ "GroupModel", "d6/da5/a05100.html#abd91bd31c5ec616718cf20f6a1bbb3dc", null ],
-    [ "~GroupModel", "d6/da5/a05100.html#ac4995a270e70f74e6019d35054257c0d", null ],
-    [ "GetBound", "d6/da5/a05100.html#ad7aed338a07d1b34a70d014d099fcbdd", null ],
-    [ "GetLiquidLevel", "d6/da5/a05100.html#a7d40df575640d6af6f07a8d2fac3d2b3", null ],
-    [ "GetLiquidType", "d6/da5/a05100.html#a18a06e1abd1bd1631252d984fc6523bf", null ],
-    [ "GetMeshData", "d6/da5/a05100.html#aca4c1cbe22c8f294295eaeda61a41b9a", null ],
-    [ "GetMogpFlags", "d6/da5/a05100.html#a3a9097772a45d937f95bd2388fca9832", null ],
-    [ "GetWmoID", "d6/da5/a05100.html#a688249a2be14b24567ec46628c9f54b3", null ],
-    [ "IntersectRay", "d6/da5/a05100.html#a993fe26ded8eae40979501ca2004cc76", null ],
-    [ "IsInsideObject", "d6/da5/a05100.html#af9fb3af93970e609c72025856030adbe", null ],
-    [ "readFromFile", "d6/da5/a05100.html#a26ef5a949f7534384d5e18ce3559b174", null ],
-    [ "setLiquidData", "d6/da5/a05100.html#aa7ad91aae0543c338dc6a997bf32cce5", null ],
-    [ "setMeshData", "d6/da5/a05100.html#ad8d7db03ddd9996a77798e5a2e639f5c", null ],
-    [ "writeToFile", "d6/da5/a05100.html#ad1e9c0a3541accf4e4b3c71d1df5c215", null ],
-    [ "iBound", "d6/da5/a05100.html#aec53fdbb6149933298aefbee61d0f442", null ],
-    [ "iGroupWMOID", "d6/da5/a05100.html#adce0e8627021d63217e9efa20e007e36", null ],
-    [ "iLiquid", "d6/da5/a05100.html#a5ad484131e1ec589aa5e9d6f61753c0b", null ],
-    [ "iMogpFlags", "d6/da5/a05100.html#a729f44ee16b082afa174718cb4fdf802", null ],
-    [ "meshTree", "d6/da5/a05100.html#a4c7b308534724048e724265fb1e2adf9", null ],
-    [ "triangles", "d6/da5/a05100.html#a70053fa0535dd38ea81e1e3f2be123e8", null ],
-    [ "vertices", "d6/da5/a05100.html#a0e784e5b8967ee5c475fab8e2e80ca88", null ]
+    [ "MeshTriangle", "d6/da5/a05100.html#af99ecf0b02af73e6727095df1dce8422", null ],
+    [ "MeshTriangle", "d6/da5/a05100.html#a36109fc79a9ca9c6bf19959fd1493e60", null ],
+    [ "idx0", "d6/da5/a05100.html#aed1048a2b6745215a7b8f70dec378371", null ],
+    [ "idx1", "d6/da5/a05100.html#a560bb163f63ff7202aade4d115f31664", null ],
+    [ "idx2", "d6/da5/a05100.html#ac939c5e66526c67c067288b9d6484cac", null ]
 ];

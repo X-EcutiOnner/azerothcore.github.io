@@ -1,7 +1,14 @@
 var a17352 =
 [
-    [ "HandleDummyTick", "d5/d89/a17352.html#a9aa9a7a6c2e09c840cfca3253c2ac7c0", null ],
-    [ "PrepareAuraScript", "d5/d89/a17352.html#a577523701b5a4ea2def4999e634c8862", null ],
-    [ "Register", "d5/d89/a17352.html#aaad9185c62333de4d6704b22780edd28", null ],
-    [ "Validate", "d5/d89/a17352.html#a9cfabcbbb9805a902fdd2d1b327dc4c7", null ]
+    [ "npc_ball_of_flameAI", "d5/d89/a17352.html#a90314990bc6404bf2a4005bb94213926", null ],
+    [ "AttackStart", "d5/d89/a17352.html#a34d51c96005f620c0010948acb6c89ec", null ],
+    [ "DamageDealt", "d5/d89/a17352.html#ac2d36bc12bb86c329721a2af224d037f", null ],
+    [ "DoAction", "d5/d89/a17352.html#ac589db56562987de5bbed27a2bead49f", null ],
+    [ "MoveInLineOfSight", "d5/d89/a17352.html#a7bb96de89b9dc6b6f97443e9aec3ad61", null ],
+    [ "MovementInform", "d5/d89/a17352.html#ab18870c29224fc3fa5e7b76c1aa981f4", null ],
+    [ "SetGUID", "d5/d89/a17352.html#a809a33d832264eba92bf0847222bd23a", null ],
+    [ "_chaseGUID", "d5/d89/a17352.html#a30dc40f8922f8f34d6ad7ec3053413e4", null ],
+    [ "_exploded", "d5/d89/a17352.html#a724de41f7b14755d704d5de335da380b", null ],
+    [ "_instance", "d5/d89/a17352.html#af5d8717572176409eca01ae214910c7f", null ],
+    [ "_started", "d5/d89/a17352.html#a508a5e3f0acafa98956bba6eb41f28fb", null ]
 ];

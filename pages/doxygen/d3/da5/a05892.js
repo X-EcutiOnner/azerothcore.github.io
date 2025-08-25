@@ -1,7 +1,10 @@
 var a05892 =
 [
-    [ "UpdateException", "d3/da5/a05892.html#ace39ae1801ac7dcd055bcdce2411866e", null ],
-    [ "~UpdateException", "d3/da5/a05892.html#a38e016e210bf287d2adc21811497c95c", null ],
-    [ "what", "d3/da5/a05892.html#ab7bc552819bf9620dd670fb5a627b2dd", null ],
-    [ "_msg", "d3/da5/a05892.html#a7b4ba1e0d2829249afb2922f385016b3", null ]
+    [ "TransactionCallback", "d3/da5/a05892.html#a89e9ebf06ffbad9dcf77a78f9f989450", null ],
+    [ "TransactionCallback", "d3/da5/a05892.html#adeff62976c11d9d90169e4650640118b", null ],
+    [ "AfterComplete", "d3/da5/a05892.html#af2ec892bbca8d2cc694b36fb931fc1e8", null ],
+    [ "InvokeIfReady", "d3/da5/a05892.html#a7937d93dbd22617a2fd3893a6fe8c23c", null ],
+    [ "operator=", "d3/da5/a05892.html#ab73d1741c21ea9fd86f65a647768e972", null ],
+    [ "m_callback", "d3/da5/a05892.html#abb0dbcebb22ea716025ed6aca99f6afb", null ],
+    [ "m_future", "d3/da5/a05892.html#a381e889074bc5ca48574d37fe6eea00f", null ]
 ];

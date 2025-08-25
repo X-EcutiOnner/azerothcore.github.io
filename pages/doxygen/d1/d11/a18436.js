@@ -1,5 +1,7 @@
 var a18436 =
 [
-    [ "achievement_been_waiting_long_time", "d1/d11/a18436.html#a839ec8cb50512bbae7125ead3ed35aec", null ],
-    [ "OnCheck", "d1/d11/a18436.html#a5e72304220d3a649d2182cb287215da6", null ]
+    [ "OnPeriodic", "d1/d11/a18436.html#adfbfcf4ad8671ca4eaa439705f7b6c2a", null ],
+    [ "PrepareAuraScript", "d1/d11/a18436.html#a5bb82c03f7c34e6febd3fe8aa57d4723", null ],
+    [ "Register", "d1/d11/a18436.html#a0fc7ca43a0d82058fc04277742231388", null ],
+    [ "Validate", "d1/d11/a18436.html#ae52c7c189a45a0bb5f3a627f502e3730", null ]
 ];

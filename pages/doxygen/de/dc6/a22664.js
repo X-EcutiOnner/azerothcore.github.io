@@ -1,6 +1,8 @@
 var a22664 =
 [
-    [ "instance_sethekk_halls_InstanceMapScript", "d7/df4/a22668.html", "d7/df4/a22668" ],
-    [ "instance_sethekk_halls", "de/dc6/a22664.html#ab50d296266cf377bfb34750ec36963ef", null ],
-    [ "GetInstanceScript", "de/dc6/a22664.html#adc07afe1aa8132f70474f9a534ecb76c", null ]
+    [ "boss_pandemonius", "de/dc6/a22664.html#a650746de74bb8a91e0c9c59d8a6a09ea", null ],
+    [ "JustDied", "de/dc6/a22664.html#a64a493c0dd4bcf5917e00c3e2713f4ce", null ],
+    [ "JustEngagedWith", "de/dc6/a22664.html#a3dbedc67006db89b95443f783cd8dbd9", null ],
+    [ "KilledUnit", "de/dc6/a22664.html#a26a012afe8c418c8da283c7b9f983e89", null ],
+    [ "PullRoom", "de/dc6/a22664.html#a05011127290350f11cc1a333b23dbb04", null ]
 ];

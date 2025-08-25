@@ -1,6 +1,5 @@
 var a20560 =
 [
-    [ "npc_ulduar_harpoonfirestateAI", "df/d1c/a20564.html", "df/d1c/a20564" ],
-    [ "npc_ulduar_harpoonfirestate", "d8/d9b/a20560.html#a85043e64606ba7c9ce2da7a37bbf0e8e", null ],
-    [ "GetAI", "d8/d9b/a20560.html#a8c9e1882c0706cb0b576c24b62215238", null ]
+    [ "npc_ulduar_rocket_strike_triggerAI", "d8/d9b/a20560.html#a6308129d11989dadf0a5948c4a268e4b", null ],
+    [ "SpellHitTarget", "d8/d9b/a20560.html#a3c254e16f62e7d2414d81062c91c2468", null ]
 ];

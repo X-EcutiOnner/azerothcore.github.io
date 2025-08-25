@@ -1,11 +1,25 @@
 var a28852 =
 [
-    [ "material", "de/dbf/a28852.html#a7079e8817a9684602084eb224f2540fc", null ],
-    [ "pos_x", "de/dbf/a28852.html#ac4d971cc46506be14716124afbb5ad9c", null ],
-    [ "pos_y", "de/dbf/a28852.html#a6cd85f2a674d732e88371ffce5e46077", null ],
-    [ "pos_z", "de/dbf/a28852.html#a183ec8ec2d8d30726494c6b3d3b8606a", null ],
-    [ "xtiles", "de/dbf/a28852.html#aca34dfa64624cfe04c314c13bbed0062", null ],
-    [ "xverts", "de/dbf/a28852.html#aa5ad7ff660f7f0b5ddfd2d186496d928", null ],
-    [ "ytiles", "de/dbf/a28852.html#a9901a7e9828ac840bc290b0768831d66", null ],
-    [ "yverts", "de/dbf/a28852.html#abf24042b85692cd0df05d65d734dd99e", null ]
+    [ "Vec3D", "de/dbf/a28852.html#a66e77d25ca67f7a5418bc7b252bf4f9c", null ],
+    [ "Vec3D", "de/dbf/a28852.html#aa5aa758ed25117a81f53e19d8c80e427", null ],
+    [ "length", "de/dbf/a28852.html#aa99cf98be42720cb2e6eda8321d0585d", null ],
+    [ "lengthSquared", "de/dbf/a28852.html#a87ac62b18bdb6534dde07295ad3d7418", null ],
+    [ "normalize", "de/dbf/a28852.html#aad796e1a7950cf29bcf0664ab4529bdd", null ],
+    [ "operator float *", "de/dbf/a28852.html#ae7f0a885985683c338dcf10cdc675849", null ],
+    [ "operator%", "de/dbf/a28852.html#a6c06ca74a17414a8afad8889bc49e5e7", null ],
+    [ "operator*", "de/dbf/a28852.html#aa69f6d867a748bd543ec423a57378a21", null ],
+    [ "operator*", "de/dbf/a28852.html#a4d33d483ce46a408a9d0c45ddb075eb4", null ],
+    [ "operator*=", "de/dbf/a28852.html#aa59022e80683193bae192972da755884", null ],
+    [ "operator+", "de/dbf/a28852.html#a4908c6bd44a6a7856eada7b56425b1cc", null ],
+    [ "operator+=", "de/dbf/a28852.html#a15627b72a8533dba20622314d9c2d02e", null ],
+    [ "operator-", "de/dbf/a28852.html#a7022d6629a4d968fe6efdc29b54b16aa", null ],
+    [ "operator-=", "de/dbf/a28852.html#ac4cd3cead349c30f5bdaeecfaff4fdaa", null ],
+    [ "operator=", "de/dbf/a28852.html#ab7e2806da7e3bdfda666b5e4906f08c3", null ],
+    [ "operator~", "de/dbf/a28852.html#ab58f61de30ae8941782f902eb54dca29", null ],
+    [ "operator*", "de/dbf/a28852.html#ae30695a767fd2a31300bd1b858fda811", null ],
+    [ "operator<<", "de/dbf/a28852.html#ae0085c2ad66a850cb8270bbdd52d680e", null ],
+    [ "operator>>", "de/dbf/a28852.html#a9aa8110efc91a62f0719d9476b3cd7cf", null ],
+    [ "x", "de/dbf/a28852.html#a0f061b9d5ea2a680f64bed8b5be9116d", null ],
+    [ "y", "de/dbf/a28852.html#a3441f0095b7f2b5dc424f7b045f92f2c", null ],
+    [ "z", "de/dbf/a28852.html#a5a619f14529e714231bff4cc6fd36614", null ]
 ];

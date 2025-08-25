@@ -1,6 +1,6 @@
 var a27708 =
 [
-    [ "npc_necropolis_proxy", "db/df4/a27708.html#a73f92ee73673172989d48064e5984db0", null ],
-    [ "SpellHit", "db/df4/a27708.html#a90d1ab55683a6409403e24291643cca5", null ],
-    [ "SpellHitTarget", "db/df4/a27708.html#a79ee941ff32f8bbb1b93242f46a91c1a", null ]
+    [ "npc_venomhide_hatchlingAI", "db/df4/a27708.html#aa5929973ae39166ef381a3ed3c42a29c", null ],
+    [ "IsSummonedBy", "db/df4/a27708.html#a6e1b76f43217f1eb855b50d58a069518", null ],
+    [ "SpellHit", "db/df4/a27708.html#ac6c255438dc2f6c750ee47b61fbc20a3", null ]
 ];

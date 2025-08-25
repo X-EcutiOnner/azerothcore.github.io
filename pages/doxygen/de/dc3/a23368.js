@@ -1,7 +1,7 @@
 var a23368 =
 [
-    [ "boss_hydromancer_thespia", "de/dc3/a23368.html#a5747c2da9914dcf4118ee0fb37a3a3fd", null ],
-    [ "JustDied", "de/dc3/a23368.html#ad0662daabd636bbf544a6791187d71fa", null ],
-    [ "JustEngagedWith", "de/dc3/a23368.html#af230e57ec259e5c92c4034a674d1b6a5", null ],
-    [ "KilledUnit", "de/dc3/a23368.html#ae1bb4819867ef5718cb5d9130d62fa20", null ]
+    [ "HandleProc", "de/dc3/a23368.html#a03b2be5894d489a6021aff2744aee0e0", null ],
+    [ "PrepareAuraScript", "de/dc3/a23368.html#a0ff401cd6d8e32ff458b7383b76a92a1", null ],
+    [ "Register", "de/dc3/a23368.html#a804e1bc3d570d28cb2e06155054f3169", null ],
+    [ "Validate", "de/dc3/a23368.html#a8d18e9ed9fa851f1c4d36c1f0bed8fcb", null ]
 ];

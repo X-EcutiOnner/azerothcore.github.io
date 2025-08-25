@@ -1,7 +1,6 @@
 var a20772 =
 [
-    [ "FilterTargets", "d0/dd4/a20772.html#a582691eca81b6db6d78ca925ad8fb084", null ],
-    [ "PrepareSpellScript", "d0/dd4/a20772.html#a28ce9d2750c79b2b0061b00df5ae9e8b", null ],
-    [ "RecalculateDamage", "d0/dd4/a20772.html#a02c1af0414de344056b2375488f23c01", null ],
-    [ "Register", "d0/dd4/a20772.html#a1e030067944878000b731edf456d6bc8", null ]
+    [ "npc_xt002_scrapbotAI", "d8/df3/a20776.html", "d8/df3/a20776" ],
+    [ "npc_xt002_scrapbot", "d0/dd4/a20772.html#accfd75266d058af3856bdb625728c18d", null ],
+    [ "GetAI", "d0/dd4/a20772.html#aa3639c32c94f0e031ba774e4eed659cd", null ]
 ];

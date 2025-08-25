@@ -1,9 +1,10 @@
 var a10116 =
 [
-    [ "entry", "dc/d7f/a10116.html#a63e9b557b5e712d30580376ad811ff6c", null ],
-    [ "map", "dc/d7f/a10116.html#a762951c4230f0b40a59071e20852bf77", null ],
-    [ "o", "dc/d7f/a10116.html#a70e425f84949f6964a33250e6e9650ef", null ],
-    [ "x", "dc/d7f/a10116.html#a46b691dd3a31a59f56a4a7b36a35a982", null ],
-    [ "y", "dc/d7f/a10116.html#a38be6df7cf824ed47991c9fabb6fb06b", null ],
-    [ "z", "dc/d7f/a10116.html#ade7151bc8f29d91e33e7c78790d7ea55", null ]
+    [ "WaypointMgr", "dc/d7f/a10116.html#a2f038884959f10348bd5b7af3abee7db", null ],
+    [ "~WaypointMgr", "dc/d7f/a10116.html#a7b0fed55791df7ab040a46984700d18e", null ],
+    [ "GetPath", "dc/d7f/a10116.html#a8492dcbb35f4bdb563f861c521eb5317", null ],
+    [ "instance", "dc/d7f/a10116.html#aacd2ed943503288057b3fb9a935a56e9", null ],
+    [ "Load", "dc/d7f/a10116.html#a69ae451ce07f2e68be81b1a86649115d", null ],
+    [ "ReloadPath", "dc/d7f/a10116.html#ac1364780d1ab0c91ca95d366419ca3df", null ],
+    [ "_waypointStore", "dc/d7f/a10116.html#af70ce7663d7f132339ea8d163311c248", null ]
 ];

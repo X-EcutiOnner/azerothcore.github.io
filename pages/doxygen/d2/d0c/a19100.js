@@ -1,15 +1,6 @@
 var a19100 =
 [
-    [ "boss_loathebAI", "d2/d0c/a19100.html#a60256114947b0e9c01f5308108485935", null ],
-    [ "IsInRoom", "d2/d0c/a19100.html#a617d45ab3bde4184aa31c1b2c70c1a6f", null ],
-    [ "JustDied", "d2/d0c/a19100.html#acf24e563d4876fb9f899a4250b19b6f5", null ],
-    [ "JustEngagedWith", "d2/d0c/a19100.html#a1abcf157e05eeb634f8e857a2de35538", null ],
-    [ "JustSummoned", "d2/d0c/a19100.html#a8a28f9fe6c087c230103d1139ddb73dc", null ],
-    [ "KilledUnit", "d2/d0c/a19100.html#a4dac78bba24069050dd9df729dd58b45", null ],
-    [ "Reset", "d2/d0c/a19100.html#a709a4c2fe45fd757ecae6afa402e4728", null ],
-    [ "SummonedCreatureDies", "d2/d0c/a19100.html#aeddc6bd981a13ec133e5481b36668b0e", null ],
-    [ "UpdateAI", "d2/d0c/a19100.html#ab009008f892493b822e5ea5491c58525", null ],
-    [ "doomCounter", "d2/d0c/a19100.html#aed5c631ede2eea27451a74ae21221325", null ],
-    [ "events", "d2/d0c/a19100.html#adc49463bbe227f892e31716516032c64", null ],
-    [ "summons", "d2/d0c/a19100.html#a37ef117714403002afb4faa4978f136b", null ]
+    [ "boss_heiganAI", "de/d15/a19104.html", "de/d15/a19104" ],
+    [ "boss_heigan", "d2/d0c/a19100.html#aefa3a6d870bde0d33504c5f2b56572be", null ],
+    [ "GetAI", "d2/d0c/a19100.html#ad9edf8eade874c1ecc2cecdac17700a1", null ]
 ];

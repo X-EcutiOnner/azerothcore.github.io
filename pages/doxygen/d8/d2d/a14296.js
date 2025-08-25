@@ -1,11 +1,7 @@
 var a14296 =
 [
-    [ "npc_elder_kekek", "d8/d2d/a14296.html#a6084af39be5c70699c9fdcf3cd58e954", null ],
-    [ "MoveInLineOfSight", "d8/d2d/a14296.html#a0c673e4fdf8e75d3bc8570db166bcd95", null ],
-    [ "Reset", "d8/d2d/a14296.html#a97e615bdefba5baf459960fc2987cd69", null ],
-    [ "UpdateAI", "d8/d2d/a14296.html#a5823bc7164d797c40d48b9b74642d9b5", null ],
-    [ "orphanGUID", "d8/d2d/a14296.html#a98c79e46e051c35819c6025828a519cb", null ],
-    [ "phase", "d8/d2d/a14296.html#a99fd9d984f92d5ba8b5876675855d4f6", null ],
-    [ "playerGUID", "d8/d2d/a14296.html#a614ed3332f4af3c5178aa69da968a3d3", null ],
-    [ "timer", "d8/d2d/a14296.html#a445c048d8858f5dc7c1e88308ed7e5ab", null ]
+    [ "FilterTargets", "d8/d2d/a14296.html#af3954bbcbce6de5d4ddadd2af0ecac91", null ],
+    [ "HandleDummy", "d8/d2d/a14296.html#ad3688071ca786bbb4c27d5632d1a1e56", null ],
+    [ "PrepareSpellScript", "d8/d2d/a14296.html#a6ac4db072beae6ae7a700774667da613", null ],
+    [ "Register", "d8/d2d/a14296.html#ae981ec2b7e097ad0fe924df7738da5b7", null ]
 ];

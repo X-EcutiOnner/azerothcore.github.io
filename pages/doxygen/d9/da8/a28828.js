@@ -1,7 +1,9 @@
 var a28828 =
 [
-    [ "W", "d9/da8/a28828.html#adc2e55b935dcc2daefd60739bdb31cec", null ],
-    [ "X", "d9/da8/a28828.html#a2676f1a5ec3a2f69ebb953e4b5741c4b", null ],
-    [ "Y", "d9/da8/a28828.html#aa3353a9f5afdf3614e37f9681441ae05", null ],
-    [ "Z", "d9/da8/a28828.html#a533b5e90b6333d89190828f28721e61d", null ]
+    [ "Flags", "d9/da8/a28828.html#a4471edebd870d3dfaaf34292341e5f60", null ],
+    [ "Id", "d9/da8/a28828.html#a6a25126338a8c3aa7d36c02c979639dd", null ],
+    [ "Position", "d9/da8/a28828.html#a8fa9a49b3195ffe74dcf1872d0fb05c1", null ],
+    [ "Rotation", "d9/da8/a28828.html#a986c3ea05d510db03ec969f0d116fb34", null ],
+    [ "Scale", "d9/da8/a28828.html#af8bcb02c541b9261dbf879353ba6893a", null ],
+    [ "UniqueId", "d9/da8/a28828.html#a374c9893af515badc54b22b2a4d5e024", null ]
 ];

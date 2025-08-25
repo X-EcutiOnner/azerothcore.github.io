@@ -1,7 +1,7 @@
 var a26924 =
 [
-    [ "HandleDummy", "d0/dcd/a26924.html#a436ed0843e0035308c69f0854decd7f2", null ],
-    [ "PrepareSpellScript", "d0/dcd/a26924.html#a42ff645d6c8e94353ae118327af5f4e6", null ],
-    [ "Register", "d0/dcd/a26924.html#a0b69f667ea83dee61206bbc723020cbc", null ],
-    [ "Validate", "d0/dcd/a26924.html#a93e68d77227297883aae472ef08fb67c", null ]
+    [ "HandleApply", "d0/dcd/a26924.html#aa35fa107aee605a8583150901a75ad72", null ],
+    [ "HandleRemove", "d0/dcd/a26924.html#a60b6e438ff67d9db41d160020b54da40", null ],
+    [ "PrepareAuraScript", "d0/dcd/a26924.html#a1da44046f2cb9fb68b18f712111c38ea", null ],
+    [ "Register", "d0/dcd/a26924.html#ac7c9e15a796e91e0ac68791d24e3d4bf", null ]
 ];

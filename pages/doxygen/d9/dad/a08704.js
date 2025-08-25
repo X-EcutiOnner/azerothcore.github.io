@@ -1,11 +1,6 @@
 var a08704 =
 [
-    [ "DispelInfo", "d9/dad/a08704.html#ab6e88e6fc168d22a8b31754a9b1bf2e5", null ],
-    [ "GetDispeller", "d9/dad/a08704.html#a1c6f02de66ffa847c09d19922b02bc20", null ],
-    [ "GetDispellerSpellId", "d9/dad/a08704.html#a0d09f205ff9374fddc694a66ccf0c31d", null ],
-    [ "GetRemovedCharges", "d9/dad/a08704.html#a9c0bd34ebe7d0a0839b7bdee31ef3f3d", null ],
-    [ "SetRemovedCharges", "d9/dad/a08704.html#a3c249e2b70b9f4d8bb3bd9fed07a1bd7", null ],
-    [ "_chargesRemoved", "d9/dad/a08704.html#a5b6105f37470acb57bbda3e14ee664be", null ],
-    [ "_dispellerSpell", "d9/dad/a08704.html#a484e6d516c5de30413e97f2c4abb5515", null ],
-    [ "_dispellerUnit", "d9/dad/a08704.html#ab14d6e0df8bbb89ef0d3550724209040", null ]
+    [ "ResetToHomeOrientation", "d9/dad/a08704.html#a1009ddced98cc6fae6108aa36dfba671", null ],
+    [ "Execute", "d9/dad/a08704.html#ad46e2d8f0ae0a13bc40ebfaf8c3249aa", null ],
+    [ "_self", "d9/dad/a08704.html#a5233190cd777c3d65f2e1c4ce1d6efb2", null ]
 ];

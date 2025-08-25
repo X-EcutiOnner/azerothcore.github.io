@@ -1,10 +1,9 @@
 var a04996 =
 [
-    [ "MmapTileHeader", "dd/dc9/a04996.html#a0165f9a4caee4e4759ea261dfbac08a7", null ],
-    [ "dtVersion", "dd/dc9/a04996.html#a34d3ed8c617139653176454d7fa7934e", null ],
-    [ "mmapMagic", "dd/dc9/a04996.html#ace0ec88460c97f1438de2d0e6a9d7774", null ],
-    [ "mmapVersion", "dd/dc9/a04996.html#a5cc3cd873419fe8aeb479d3187584410", null ],
-    [ "padding", "dd/dc9/a04996.html#a6ca977b85a993eb6721e3bfe9fd3abfd", null ],
-    [ "size", "dd/dc9/a04996.html#a69f3284a4a56b1108792ba56c250bf97", null ],
-    [ "usesLiquids", "dd/dc9/a04996.html#aeb4e622161a4bb42cff42d37542f0254", null ]
+    [ "ManagedModel", "dd/dc9/a04996.html#ab641724be7e7791c2c95982acc13f3b0", null ],
+    [ "decRefCount", "dd/dc9/a04996.html#a5a104acbc0661b19ba2a662dc669b73d", null ],
+    [ "getModel", "dd/dc9/a04996.html#a053fc6647a16746fba19a0795610fea2", null ],
+    [ "setModel", "dd/dc9/a04996.html#aa450ae6be22d507c36a746850629831d", null ],
+    [ "iModel", "dd/dc9/a04996.html#a5e20d0157691bd6036247a83eea8d19b", null ],
+    [ "iRefCount", "dd/dc9/a04996.html#afb30ad900a5979f98276324a1ab1c328", null ]
 ];

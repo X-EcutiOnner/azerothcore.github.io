@@ -1,6 +1,6 @@
 var a17560 =
 [
-    [ "npc_high_overlord_saurfang_igbAI", "d1/d86/a17564.html", "d1/d86/a17564" ],
-    [ "npc_high_overlord_saurfang_igb", "d6/d85/a17560.html#ae68d42f65851a753874705511bb83330", null ],
-    [ "GetAI", "d6/d85/a17560.html#a54b6da97a40665232d28a20bac9b7ef3", null ]
+    [ "npc_stinky_iccAI", "d1/d86/a17564.html", "d1/d86/a17564" ],
+    [ "npc_stinky_icc", "d6/d85/a17560.html#a8f6a3687d4b330f532a0d892dbf429a0", null ],
+    [ "GetAI", "d6/d85/a17560.html#aaf6b7b1a7469d1e353617f63f11f7781", null ]
 ];

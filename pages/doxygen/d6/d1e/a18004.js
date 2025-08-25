@@ -1,7 +1,6 @@
 var a18004 =
 [
-    [ "HandleCast", "d6/d1e/a18004.html#aaa3262bc782e342825d4caba2954e95d", null ],
-    [ "PrepareSpellScript", "d6/d1e/a18004.html#ae4d1f05b978e2a46d7dc3410def73978", null ],
-    [ "Register", "d6/d1e/a18004.html#ac59fb77c6a52d7a603dbb27e933a6814", null ],
-    [ "Validate", "d6/d1e/a18004.html#a6ca80316fe7bcbb4ebda095d633bb1bc", null ]
+    [ "npc_little_oozeAI", "d5/d19/a18008.html", "d5/d19/a18008" ],
+    [ "npc_little_ooze", "d6/d1e/a18004.html#a9b0849057c1d3dd9f6507b9c80e67a66", null ],
+    [ "GetAI", "d6/d1e/a18004.html#a3e56c6dbad6239485897655a4bfbbe07", null ]
 ];

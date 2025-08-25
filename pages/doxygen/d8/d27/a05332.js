@@ -1,9 +1,11 @@
 var a05332 =
 [
-    [ "IpLocationStore", "d8/d27/a05332.html#a1b3a38bbd932ae50d55ff15374aa2f37", null ],
-    [ "~IpLocationStore", "d8/d27/a05332.html#a82360c1ce130670fde23d42135f91324", null ],
-    [ "GetLocationRecord", "d8/d27/a05332.html#a06384169031d2417a7f6bac54d3187a9", null ],
-    [ "instance", "d8/d27/a05332.html#ad740adf9b81b37cf147dc00e220b29db", null ],
-    [ "Load", "d8/d27/a05332.html#a411302e6bf5e5e82e5cd59e78e66bd0b", null ],
-    [ "_ipLocationStore", "d8/d27/a05332.html#af7b7a5a4fc65c6af966be27f7bf7e07d", null ]
+    [ "Decode", "d8/d27/a05332.html#a1017c0ca9db8f38832271dbe04a6c22c", null ],
+    [ "DecodedSize", "d8/d27/a05332.html#ae7f09527200686c22611e59e995a17ef", null ],
+    [ "Encode", "d8/d27/a05332.html#a9132df0434948b03df8f79b6cc48252c", null ],
+    [ "EncodedSize", "d8/d27/a05332.html#ab6808fd4c674e10ce28153394189abf5", null ],
+    [ "BITS_PER_CHAR", "d8/d27/a05332.html#a04facbd14c7d876af5154cb200d74e6b", null ],
+    [ "DECODE_ERROR", "d8/d27/a05332.html#ab52b675a0956909cdac9413443551086", null ],
+    [ "PAD_TO", "d8/d27/a05332.html#a8cec4e14ca170842d1eadf8b7b42b12b", null ],
+    [ "PADDING", "d8/d27/a05332.html#a328b2cd9dc377fb8d5b6740cde162b92", null ]
 ];

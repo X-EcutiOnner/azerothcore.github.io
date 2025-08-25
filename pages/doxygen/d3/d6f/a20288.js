@@ -1,6 +1,6 @@
 var a20288 =
 [
-    [ "HandleAfterEffectApply", "d3/d6f/a20288.html#ac8b5cddcf66c1f43c4ab0461354e97f1", null ],
-    [ "PrepareAuraScript", "d3/d6f/a20288.html#a439799df0d6ca43e6a81930e3e4b5334", null ],
-    [ "Register", "d3/d6f/a20288.html#adce13201dd11c6ba83883b12ad32d1f6", null ]
+    [ "DestroyWinterCache", "d3/d6f/a20288.html#a4f4d8998d611354bce4f5531e6029d6b", null ],
+    [ "PrepareSpellScript", "d3/d6f/a20288.html#a67e36939554e13ddb7fb7493968fbc3f", null ],
+    [ "Register", "d3/d6f/a20288.html#a5ac6314b0a016adafd7c6e87289b5649", null ]
 ];

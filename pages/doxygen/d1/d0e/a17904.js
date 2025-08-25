@@ -1,7 +1,6 @@
 var a17904 =
 [
-    [ "HandleDummy", "d1/d0e/a17904.html#aa61db53d7395fd45b8569e12978fed0b", null ],
-    [ "PrepareSpellScript", "d1/d0e/a17904.html#ab63054debe6763027ab52ad122277719", null ],
-    [ "Register", "d1/d0e/a17904.html#a6dee5fc9fafd7faa3eadbf9431568dcc", null ],
-    [ "Validate", "d1/d0e/a17904.html#adb7e30d10c2071de5d5070b64a10af30", null ]
+    [ "npc_gas_cloudAI", "d3/df6/a17908.html", "d3/df6/a17908" ],
+    [ "npc_gas_cloud", "d1/d0e/a17904.html#a99c887cb8a5cc87bbfca026447368b8e", null ],
+    [ "GetAI", "d1/d0e/a17904.html#a1c76a148f9c1acec473f102b6a24e3bb", null ]
 ];

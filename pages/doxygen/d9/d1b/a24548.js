@@ -1,10 +1,7 @@
 var a24548 =
 [
-    [ "Absorb", "d9/d1b/a24548.html#a99db0d1254ddcfa9e7afb241e73b3235", null ],
-    [ "CalculateAmount", "d9/d1b/a24548.html#a279a025cac490ee3647f47584b59179f", null ],
-    [ "Load", "d9/d1b/a24548.html#a3fededdbfca9d12e6dbd097620e104be", null ],
-    [ "PrepareAuraScript", "d9/d1b/a24548.html#a818875a8073491eab2508182bd941e25", null ],
-    [ "Register", "d9/d1b/a24548.html#a2419bff95bad81a0f63c4988f14eb3f9", null ],
-    [ "Validate", "d9/d1b/a24548.html#a60eb14be1b3108b7b896a27eab35569b", null ],
-    [ "absorbPct", "d9/d1b/a24548.html#ac51bad58076a6dfa520fd3e9ea0c76b5", null ]
+    [ "HandleProc", "d9/d1b/a24548.html#ab00bbdd8580426a621abc11c4308bdc4", null ],
+    [ "PrepareAuraScript", "d9/d1b/a24548.html#a2840931b939b95e6a476c07f08ca66b5", null ],
+    [ "Register", "d9/d1b/a24548.html#ae769fddc14aed4d1055d2f947d292fcf", null ],
+    [ "lastChargeUsedTime", "d9/d1b/a24548.html#a69e1d242b6d4bfc752e7e0921aa0f90c", null ]
 ];

@@ -1,5 +1,6 @@
 var a21412 =
 [
-    [ "go_vh_activation_crystal", "d7/d7c/a21412.html#a4af485ac7ab6144282f3204a6d045cea", null ],
-    [ "OnGossipHello", "d7/d7c/a21412.html#a47a61ba67086580135559332931e9c6e", null ]
+    [ "HandleEffectPeriodic", "d7/d7c/a21412.html#a508ff9e362d586497839aa29ceae1227", null ],
+    [ "PrepareAuraScript", "d7/d7c/a21412.html#a4e7d5317d28207136b1fd3477a51ae06", null ],
+    [ "Register", "d7/d7c/a21412.html#a4b08cefe7d334635b70d389cc9df4901", null ]
 ];

@@ -1,26 +1,16 @@
 var a04301 =
 [
-    [ "AC_API_EXPORT", "d2/d27/a04301.html#a2c5b5e664ed3daebece45d89595e3105", null ],
-    [ "AC_API_IMPORT", "d2/d27/a04301.html#ae8a7a9ab4a727295d96a5645d592be1a", null ],
-    [ "AC_COMMON_API", "d2/d27/a04301.html#aae2dc50bce825b002235487401b252e8", null ],
-    [ "AC_DATABASE_API", "d2/d27/a04301.html#a4239bd747d930d5084e8f6e489980585", null ],
-    [ "AC_GAME_API", "d2/d27/a04301.html#a00a04eccc2ca042486601576eccae409", null ],
-    [ "AC_SHARED_API", "d2/d27/a04301.html#a0bf4fe16e9c0242e08723860b589d648", null ],
-    [ "ACORE_BIGENDIAN", "d2/d27/a04301.html#a1ea3ec26cc8112e6b4750ed2e3099e23", null ],
-    [ "ACORE_ENDIAN", "d2/d27/a04301.html#a31363a4567529bac0c62af57b8249f37", null ],
-    [ "ACORE_INLINE", "d2/d27/a04301.html#ae4e9017a1f7c4a30d42240994c73707d", null ],
-    [ "ACORE_LITTLEENDIAN", "d2/d27/a04301.html#aa52f254470010db28f546a042d5d2dd3", null ],
-    [ "ACORE_PATH_MAX", "d2/d27/a04301.html#a0e8f3cfd1a18017c3996550aed13d45b", null ],
-    [ "ATTR_PRINTF", "d2/d27/a04301.html#a9fb5e8106efcc99703798f63ee0ee655", null ],
-    [ "SI64LIT", "d2/d27/a04301.html#a9fb461803e0a17b90422b7166f79bd87", null ],
-    [ "STRING_VIEW_FMT_ARG", "d2/d27/a04301.html#a426f0c72f52eca709249d5962bf31b6d", null ],
-    [ "UI64LIT", "d2/d27/a04301.html#abf772f43caa1c9ba44098b6bf2bf355c", null ],
-    [ "int16", "d2/d27/a04301.html#aecf4e3680a32207d17f62a3426731878", null ],
-    [ "int32", "d2/d27/a04301.html#a0bf9964a3ce962c07ad3d8b5432bbbcd", null ],
-    [ "int64", "d2/d27/a04301.html#ad7a3bd3be7bd59e7fb6337fcbc956eb1", null ],
-    [ "int8", "d2/d27/a04301.html#a3bb8a71f4ae9af551f71e9eb2c9c3325", null ],
-    [ "uint16", "d2/d27/a04301.html#ad9c79638db63f1dfe2b085743b5cbf7b", null ],
-    [ "uint32", "d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d", null ],
-    [ "uint64", "d2/d27/a04301.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b", null ],
-    [ "uint8", "d2/d27/a04301.html#a15a8d014fadf85c99a2268d8cbd00767", null ]
+    [ "DBCFileLoader", "df/dfd/a05208.html", "df/dfd/a05208" ],
+    [ "DBCFileLoader::Record", "d4/d61/a05212.html", "d4/d61/a05212" ],
+    [ "DbcFieldFormat", "d2/d27/a04301.html#a969264ba91452f632e809db524c68960", [
+      [ "FT_NA", "d2/d27/a04301.html#a969264ba91452f632e809db524c68960a0f8a37a34dd644e8432e79266f8e2f8c", null ],
+      [ "FT_NA_BYTE", "d2/d27/a04301.html#a969264ba91452f632e809db524c68960a974d335432036bc88ad76f044e8fca0c", null ],
+      [ "FT_STRING", "d2/d27/a04301.html#a969264ba91452f632e809db524c68960a424189c585691c2ce732ea69a88f4f29", null ],
+      [ "FT_FLOAT", "d2/d27/a04301.html#a969264ba91452f632e809db524c68960a1091cfb22d5ff81a81948a92b96f8e9a", null ],
+      [ "FT_INT", "d2/d27/a04301.html#a969264ba91452f632e809db524c68960a9d5724546fec2b9d79741da7d3a8030a", null ],
+      [ "FT_BYTE", "d2/d27/a04301.html#a969264ba91452f632e809db524c68960ae268574ec5607a27ec940656742b2095", null ],
+      [ "FT_SORT", "d2/d27/a04301.html#a969264ba91452f632e809db524c68960a496dcb8cfc6d702d15b9a603b242a642", null ],
+      [ "FT_IND", "d2/d27/a04301.html#a969264ba91452f632e809db524c68960a0e7ef1f172d0c33a975fbda2be046036", null ],
+      [ "FT_LOGIC", "d2/d27/a04301.html#a969264ba91452f632e809db524c68960aad79cbf0ed6b926353344f5abde2e4cc", null ]
+    ] ]
 ];

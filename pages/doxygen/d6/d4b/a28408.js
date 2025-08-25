@@ -1,7 +1,13 @@
 var a28408 =
 [
-    [ "Flags", "d6/d4b/a28408.html#a12b3cb0e28ed0f47ff5ccea09fc8b860", null ],
-    [ "ID", "d6/d4b/a28408.html#ab6ccf4a64672a6ade01f59cdeeeb85cb", null ],
-    [ "RangeMax", "d6/d4b/a28408.html#a9691134e5cb1e15e3c93ea05a653975d", null ],
-    [ "RangeMin", "d6/d4b/a28408.html#a127a46f2382edea750ca567d5ea3d304", null ]
+    [ "AcquireMethod", "d6/d4b/a28408.html#a31a8f5d642b2826b58bc7dfaf5f26719", null ],
+    [ "ClassMask", "d6/d4b/a28408.html#a868a7a346c1da7fa74ed36f0bfb59e3e", null ],
+    [ "ID", "d6/d4b/a28408.html#a95cab9102e1dd6c4f449aba2ecf14372", null ],
+    [ "MinSkillLineRank", "d6/d4b/a28408.html#a2a6c4b50a288ea023099fb49aaca37e4", null ],
+    [ "RaceMask", "d6/d4b/a28408.html#acfd38780584b90ca40a1e1cd59605832", null ],
+    [ "SkillLine", "d6/d4b/a28408.html#a0050dcf5c82f785dfc93079debe54a13", null ],
+    [ "Spell", "d6/d4b/a28408.html#a19e1a55dadce68e6e9c1bd7bb2ca51dd", null ],
+    [ "SupercededBySpell", "d6/d4b/a28408.html#a0eabe8b18fa4bf67eaaaa56f2264ad5d", null ],
+    [ "TrivialSkillLineRankHigh", "d6/d4b/a28408.html#aa8f0c15da1d4d14853bd42e7e20bc963", null ],
+    [ "TrivialSkillLineRankLow", "d6/d4b/a28408.html#aca5e15003099e1fdbd2eaa701b96f162", null ]
 ];

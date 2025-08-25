@@ -1,12 +1,8 @@
 var a28804 =
 [
-    [ "Model", "d3/da4/a28804.html#ae102b5fc584185113e89fb7b39a72bd1", null ],
-    [ "~Model", "d3/da4/a28804.html#ad6ebd2062a0b823db841a0b88baac4c0", null ],
-    [ "_unload", "d3/da4/a28804.html#a9b02ed73fa006bc057157b636029ab6f", null ],
-    [ "ConvertToVMAPModel", "d3/da4/a28804.html#ae6fd5d754d9a880359b8afaf50c5753e", null ],
-    [ "open", "d3/da4/a28804.html#a6ed3a71ff468f5acaccc61f5c2c87a0e", null ],
-    [ "filename", "d3/da4/a28804.html#a4c43746e9c460e29cabd1ba2db6ba222", null ],
-    [ "header", "d3/da4/a28804.html#a2f6e66bbf4acc662d73e8fe8e5a0e085", null ],
-    [ "indices", "d3/da4/a28804.html#a3b61d3316481e7b9c38bf50806ebded6", null ],
-    [ "vertices", "d3/da4/a28804.html#a1af9857df4d0e16ab9940846300fa8fe", null ]
+    [ "TileConfig", "d3/da4/a28804.html#a67b10c747fb0d2bc2a263e5009d42e1b", null ],
+    [ "BASE_UNIT_DIM", "d3/da4/a28804.html#a5a882b0595456ab3fcca85c80af3b6f8", null ],
+    [ "TILES_PER_MAP", "d3/da4/a28804.html#ae3443f89a8a698823c91096abe51a6a9", null ],
+    [ "VERTEX_PER_MAP", "d3/da4/a28804.html#a46640a80428b1ab93d65d593c03d13ed", null ],
+    [ "VERTEX_PER_TILE", "d3/da4/a28804.html#ae0331739074e5546818e13527a76524a", null ]
 ];

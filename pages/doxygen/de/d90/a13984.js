@@ -1,5 +1,5 @@
 var a13984 =
 [
-    [ "at_zulgurub_bridge_speech", "de/d90/a13984.html#a0ef9d44dc98ddee8fe5133862339808d", null ],
-    [ "_OnTrigger", "de/d90/a13984.html#a67234a1f4c77888a8535d0ea52e16ba9", null ]
+    [ "go_gong_of_bethekk", "de/d90/a13984.html#ae261467be63f1a744eb20f81473c2239", null ],
+    [ "OnGossipHello", "de/d90/a13984.html#a82072ff8c030aec1a5ed447865680788", null ]
 ];

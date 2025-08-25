@@ -1,6 +1,6 @@
 var a24264 =
 [
-    [ "CheckRequirement", "d2/d2e/a24264.html#aa53bdc1b4b57150dbebce61ac87d2b88", null ],
-    [ "PrepareSpellScript", "d2/d2e/a24264.html#a8e3d6659174d4c920e65f85afb9308b1", null ],
-    [ "Register", "d2/d2e/a24264.html#aa4f62292b32347179a5534e4bc0417f8", null ]
+    [ "npc_illidari_spawnAI", "dd/dee/a24268.html", "dd/dee/a24268" ],
+    [ "npc_illidari_spawn", "d2/d2e/a24264.html#ac8dbb30fe7f40d29a3434c8a888ace60", null ],
+    [ "GetAI", "d2/d2e/a24264.html#a7198f506b0d4fd55d22fc72a90f42a09", null ]
 ];

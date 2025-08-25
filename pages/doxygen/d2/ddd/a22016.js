@@ -1,6 +1,7 @@
 var a22016 =
 [
-    [ "npc_your_inner_turmoilAI", "d1/dd9/a22020.html", "d1/dd9/a22020" ],
-    [ "npc_your_inner_turmoil", "d2/ddd/a22016.html#a72856ef469bb8f6ff4a89a16159479af", null ],
-    [ "GetAI", "d2/ddd/a22016.html#a29c8f76b072e891face1225770688ca6", null ]
+    [ "HandleScript", "d2/ddd/a22016.html#a95de3ae27cfd764380ab1648b49af38d", null ],
+    [ "Load", "d2/ddd/a22016.html#a1aafe141985bc1e9c5b9467d4896d96b", null ],
+    [ "PrepareSpellScript", "d2/ddd/a22016.html#a442138710213b9b120d8ce57b733205a", null ],
+    [ "Register", "d2/ddd/a22016.html#af9d8f764a6a02737f8b559f067156df6", null ]
 ];

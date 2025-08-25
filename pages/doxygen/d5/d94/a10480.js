@@ -1,6 +1,6 @@
 var a10480 =
 [
-    [ "ShowingCloak", "d5/d94/a10480.html#ac8fcfe92c148787a07b77d0b9ebb45cb", null ],
-    [ "Read", "d5/d94/a10480.html#ad72ae43efc070655aa078d9985369442", null ],
-    [ "ShowCloak", "d5/d94/a10480.html#aa9eda46557031d67b4a675bd998e5b7d", null ]
+    [ "BuyBankSlotResult", "d5/d94/a10480.html#a93b60814becc451c38f06f9702a9e027", null ],
+    [ "Write", "d5/d94/a10480.html#a55a6609863b0d3ef966f222526268acb", null ],
+    [ "Result", "d5/d94/a10480.html#ad7bf499ad8d5f0a7e1a580dd02b84c68", null ]
 ];

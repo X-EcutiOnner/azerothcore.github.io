@@ -1,7 +1,6 @@
 var a24140 =
 [
-    [ "CheckRequirement", "dc/da2/a24140.html#a4ad521364c6156c0ecef818a23ce7aff", null ],
-    [ "PrepareSpellScript", "dc/da2/a24140.html#a0d995c6ae6d1da0014c053a62b37a7b7", null ],
-    [ "Register", "dc/da2/a24140.html#a25f275e84570f674071bfae03aeb0ddc", null ],
-    [ "Validate", "dc/da2/a24140.html#adc648151e2c61a61a0dc5883d9fa4ae0", null ]
+    [ "npc_commander_dawnforgeAI", "d0/db3/a24144.html", "d0/db3/a24144" ],
+    [ "npc_commander_dawnforge", "dc/da2/a24140.html#ab4d430725f68f906e9c8def66b1d6646", null ],
+    [ "GetAI", "dc/da2/a24140.html#a6089b087b7c3b18659e23c677814318b", null ]
 ];

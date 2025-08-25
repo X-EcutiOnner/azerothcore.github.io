@@ -1,10 +1,8 @@
 var a08580 =
 [
-    [ "EquipmentSet", "da/d14/a08580.html#acd3085c12c795daceae86e94448109e2", null ],
-    [ "Guid", "da/d14/a08580.html#aae529ea61a2ad4f114b6a108564f5474", null ],
-    [ "IconName", "da/d14/a08580.html#a40233dfcc23f125ff88693d6c7d7fab5", null ],
-    [ "IgnoreMask", "da/d14/a08580.html#af116e824d23f000f424f3b261618e827", null ],
-    [ "Items", "da/d14/a08580.html#a113e6e5883afe38d446a6d435cd34a01", null ],
-    [ "Name", "da/d14/a08580.html#a2b4691a1b44ae47e7d3c2e63f88d78ba", null ],
-    [ "state", "da/d14/a08580.html#a7e2270a6041dda26f8bc7f8c82597e7f", null ]
+    [ "EnchantDuration", "da/d14/a08580.html#a1ce5f81deaa60494c247673c113632d8", null ],
+    [ "EnchantDuration", "da/d14/a08580.html#a52448f2bb8b788193a69fe9a2d8729f3", null ],
+    [ "item", "da/d14/a08580.html#ae803f6a9ce9cdb0dbb133bc85b6613ab", null ],
+    [ "leftduration", "da/d14/a08580.html#a3f4edafbc9b09cb5ab660bc68af435f3", null ],
+    [ "slot", "da/d14/a08580.html#a3de1a8d64aea4c5c1f984a74c6bb017d", null ]
 ];

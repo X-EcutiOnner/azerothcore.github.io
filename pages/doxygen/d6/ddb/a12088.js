@@ -1,11 +1,8 @@
 var a12088 =
 [
-    [ "npc_blackhand_incarceratorAI", "d6/ddb/a12088.html#adecfd5bcc6bf5fee0688459ebac03e18", null ],
-    [ "DamageTaken", "d6/ddb/a12088.html#a3bc090518cba2bc64fb5c454bbb47b72", null ],
-    [ "JustEngagedWith", "d6/ddb/a12088.html#a2026328f428c4e5c15551773255da21f", null ],
-    [ "Reset", "d6/ddb/a12088.html#a3a98f2d5fd764c852a1d9418315cd56b", null ],
-    [ "SetData", "d6/ddb/a12088.html#ae9d92237c6327abd78ada9a306ee8a09", null ],
-    [ "UpdateAI", "d6/ddb/a12088.html#a1bc6aa88d7bc5163e2cc4e2cc1779076", null ],
-    [ "_events", "d6/ddb/a12088.html#abcd817233c0cb85656856c4107d86793", null ],
-    [ "_fleedForAssistance", "d6/ddb/a12088.html#ab4e59b91b47dffc19db6b49ecd4c9fd8", null ]
+    [ "boss_highlordomokkAI", "d6/ddb/a12088.html#ae6906b2f86eb2d8efe51de92376be0da", null ],
+    [ "JustDied", "d6/ddb/a12088.html#ac7e125b4350880d3d195b915c8be9de0", null ],
+    [ "JustEngagedWith", "d6/ddb/a12088.html#a072dc582f931deb7d1e0db9ad535f146", null ],
+    [ "Reset", "d6/ddb/a12088.html#a627390013798de7a53a95817624417e3", null ],
+    [ "UpdateAI", "d6/ddb/a12088.html#a38e6008d616131d2876ae5a085a083ff", null ]
 ];

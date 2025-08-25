@@ -1,12 +1,13 @@
 var a11488 =
 [
-    [ "Action", "d0/d24/a11488.html#a0aba96ac9e7af155a1d9bdf120afae25", null ],
-    [ "Address", "d0/d24/a11488.html#aaae2d4fd576f3eeb40c1413d54802345", null ],
-    [ "CheckId", "d0/d24/a11488.html#a51a0cea0381f2b64e9d240ac39591172", null ],
-    [ "Comment", "d0/d24/a11488.html#a6abdb409f49751b2f6aa8df88c349ba2", null ],
-    [ "Data", "d0/d24/a11488.html#a962795028d40645fe67e4290ea64b10b", null ],
-    [ "IdStr", "d0/d24/a11488.html#a15ecbc1a6582666a14423fa157d2fb84", null ],
-    [ "Length", "d0/d24/a11488.html#abe0249d9550042e696eb74edf06aaec8", null ],
-    [ "Str", "d0/d24/a11488.html#a1fc1eba87b344d4681498aafcaa496cb", null ],
-    [ "Type", "d0/d24/a11488.html#aca31cdb700dca4801dfa514812639c70", null ]
+    [ "PlayerDumpWriter", "d0/d24/a11488.html#a060152c060b37c4bf1208a99edc4a840", null ],
+    [ "AppendTable", "d0/d24/a11488.html#a7f285fddf6d33dd1664b5af801f110e9", null ],
+    [ "GetDump", "d0/d24/a11488.html#a17457008e1262c0aed284469e55841c6", null ],
+    [ "PopulateGuids", "d0/d24/a11488.html#aab122c84eefe801ac23211ec5a41e888", null ],
+    [ "WriteDumpToFile", "d0/d24/a11488.html#a81612bfc0d161595f4de1a6133d5c46d", null ],
+    [ "WriteDumpToString", "d0/d24/a11488.html#a43d30815c9b3b2608e0fecad7bba7254", null ],
+    [ "_items", "d0/d24/a11488.html#a5da825b82a09809ded2ce2c88458cc26", null ],
+    [ "_itemSets", "d0/d24/a11488.html#a33ff3a269064d883eff84ec83c394e92", null ],
+    [ "_mails", "d0/d24/a11488.html#a2863e88ee13debe77e4b1d3d0960d18a", null ],
+    [ "_pets", "d0/d24/a11488.html#a33325b0514324020bba98364a7f59de5", null ]
 ];

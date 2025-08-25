@@ -1,6 +1,5 @@
 var a12220 =
 [
-    [ "boss_chromaggusAI", "df/d24/a12224.html", "df/d24/a12224" ],
-    [ "boss_chromaggus", "df/d11/a12220.html#a55847fc0d5430d3f22074b53d7caca4b", null ],
-    [ "GetAI", "df/d11/a12220.html#ace78172cafb122ce5961ed837201c32b", null ]
+    [ "at_scarshield_infiltrator", "df/d11/a12220.html#a2d1df47353c9a7e0d506b7c54e7be58e", null ],
+    [ "OnTrigger", "df/d11/a12220.html#a607c3ee2bd4716cf1e0499e202d379fc", null ]
 ];

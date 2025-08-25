@@ -1,7 +1,11 @@
 var a21280 =
 [
-    [ "PrepareAuraScript", "dc/dac/a21280.html#a2b5894cd889205f19ac2c6ea5a535a82", null ],
-    [ "Register", "dc/dac/a21280.html#a95b0bcb7f3027cb63711c74befbd74ea", null ],
-    [ "TriggerFists", "dc/dac/a21280.html#a2df5a013ba1b3c5b57d628fd59a9073a", null ],
-    [ "Validate", "dc/dac/a21280.html#a2b7c45343d17839d85bf64ed36afd45c", null ]
+    [ "boss_archavonAI", "dc/dac/a21280.html#a101518193c0fb6bbd6892362a6f09b9c", null ],
+    [ "AttackStart", "dc/dac/a21280.html#ac9f82f61ee7fe945cb3fba23a69e704c", null ],
+    [ "JustDied", "dc/dac/a21280.html#a3974065a80dedf3e673452e7f6f8e449", null ],
+    [ "JustEngagedWith", "dc/dac/a21280.html#ace4a10f62eaa21ecd997ad1dbe15f3c8", null ],
+    [ "Reset", "dc/dac/a21280.html#a7d101626f39947dd54b574491a5e6d72", null ],
+    [ "UpdateAI", "dc/dac/a21280.html#a5abb4c2b4149172d2e7bf0d539237323", null ],
+    [ "events", "dc/dac/a21280.html#a8d7fef6dfcdc5be20f0531c34b09fc13", null ],
+    [ "pInstance", "dc/dac/a21280.html#ab51f09b76054d8bdb13f3c27396db87e", null ]
 ];

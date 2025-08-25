@@ -1,9 +1,6 @@
 var a19508 =
 [
-    [ "npc_stormforged_lieutenantAI", "d7/d48/a19508.html#a74d84534c39e7e6f3774099fd6b28d29", null ],
-    [ "JustEngagedWith", "d7/d48/a19508.html#a112bd4adaa290afd04d229347a96ff4a", null ],
-    [ "Reset", "d7/d48/a19508.html#aaef10316b8f7c3e980082cab722ffe9f", null ],
-    [ "UpdateAI", "d7/d48/a19508.html#a3944886823dad81bcd5d72e020910143", null ],
-    [ "BjarngrimGUID", "d7/d48/a19508.html#a4003deba30ff47ed3296325112b6cb0e", null ],
-    [ "events", "d7/d48/a19508.html#a530d16086a9e613f6f0299186f8bcc33", null ]
+    [ "PrepareSpellScript", "d7/d48/a19508.html#a65c3b2c9a416b7d1bbd3c14057e5f8fc", null ],
+    [ "Register", "d7/d48/a19508.html#ad8470ed0d09c2b7e79fa4ecb1867e9bf", null ],
+    [ "SetDest", "d7/d48/a19508.html#a24341aae14ed77101d4c31f2fbe11463", null ]
 ];

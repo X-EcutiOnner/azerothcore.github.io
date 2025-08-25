@@ -1,10 +1,15 @@
 var a05156 =
 [
-    [ "Hash", "d7/d13/a05156.html#ae23bd592ac284f3068c36688d084c24f", null ],
-    [ "Verify", "d7/d13/a05156.html#a7a041ffc17e4d4291f81d4090f31e1fd", null ],
-    [ "DEFAULT_ITERATIONS", "d7/d13/a05156.html#a898bbe9b4ffddef1eb067915740d6100", null ],
-    [ "DEFAULT_MEMORY_COST", "d7/d13/a05156.html#a413b8cdff629f26836a776412362056d", null ],
-    [ "ENCODED_HASH_LEN", "d7/d13/a05156.html#a07dd0a8033f54177570f62a2a1a0da3d", null ],
-    [ "HASH_LEN", "d7/d13/a05156.html#a923313625297d08ff3ca9a04bbe527aa", null ],
-    [ "PARALLELISM", "d7/d13/a05156.html#a4aabf2fcc43b23c9d565ced3a2adb405", null ]
+    [ "IV", "d7/d13/a05156.html#a3ab3c73ca75661d53842f924f9914656", null ],
+    [ "Key", "d7/d13/a05156.html#ad479930aa60f991335d4cf68251958bb", null ],
+    [ "Tag", "d7/d13/a05156.html#ad6abd9fd7a9b7bafc4c300ebca415a1e", null ],
+    [ "AES", "d7/d13/a05156.html#a75c197cecf7cd7230a1a9f64e8ec9f00", null ],
+    [ "~AES", "d7/d13/a05156.html#abcdb72bef5a57586630650372c339410", null ],
+    [ "Init", "d7/d13/a05156.html#a910f4dcbbd2868264d4b11f3041c833d", null ],
+    [ "Process", "d7/d13/a05156.html#a9933ca01e34684d466bc364dda11a30a", null ],
+    [ "_ctx", "d7/d13/a05156.html#ae461a0a028ca8d02af56496252e6322d", null ],
+    [ "_encrypting", "d7/d13/a05156.html#ac5e1bc89ac1c21f97994db7c76ae4e4e", null ],
+    [ "IV_SIZE_BYTES", "d7/d13/a05156.html#a5c62e48e8791379cdcdb5d20c018f0ea", null ],
+    [ "KEY_SIZE_BYTES", "d7/d13/a05156.html#a03df6b128e9d2553c44e71680ca79cb5", null ],
+    [ "TAG_SIZE_BYTES", "d7/d13/a05156.html#a0a7619278214bbe6b2bd5ad003828ef0", null ]
 ];

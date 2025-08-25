@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: ChannelTargetData Struct Reference</title>
+<title>AzerothCore: Acore::AbsorbAuraOrderPred Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,30 +106,24 @@ $(document).ready(function(){initNavTree('d6/dc7/a11104.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../db/de6/a11101.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">ChannelTargetData Struct Reference</div></div>
+  <div class="headertitle"><div class="title">Acore::AbsorbAuraOrderPred Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">Spell.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">SpellAuraEffects.h</a>&quot;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a26f2a2037750712d8718d9537603e3a1"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/dc7/a11104.html#a26f2a2037750712d8718d9537603e3a1">ChannelTargetData</a> (<a class="el" href="../../d9/d48/a08412.html">ObjectGuid</a> cguid, const <a class="el" href="../../db/d20/a11092.html">SpellDestination</a> *dst)</td></tr>
-<tr class="separator:a26f2a2037750712d8718d9537603e3a1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
-Public Attributes</h2></td></tr>
-<tr class="memitem:afad1c896d6a137ebb224fd636ba4d7f2"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d48/a08412.html">ObjectGuid</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/dc7/a11104.html#afad1c896d6a137ebb224fd636ba4d7f2">channelGUID</a></td></tr>
-<tr class="separator:afad1c896d6a137ebb224fd636ba4d7f2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa5cfec093a599f4bf33ebf0c73a2f4ac"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d20/a11092.html">SpellDestination</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/dc7/a11104.html#aa5cfec093a599f4bf33ebf0c73a2f4ac">spellDst</a></td></tr>
-<tr class="separator:aa5cfec093a599f4bf33ebf0c73a2f4ac"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a30283854715c90496e14d260f913f5fa"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/dc7/a11104.html#a30283854715c90496e14d260f913f5fa">AbsorbAuraOrderPred</a> ()</td></tr>
+<tr class="separator:a30283854715c90496e14d260f913f5fa"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8f705a8b053ef6ff2e2827b4c7f9c643"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/dc7/a11104.html#a8f705a8b053ef6ff2e2827b4c7f9c643">operator()</a> (<a class="el" href="../../d3/de3/a11100.html">AuraEffect</a> *aurEffA, <a class="el" href="../../d3/de3/a11100.html">AuraEffect</a> *aurEffB) const</td></tr>
+<tr class="separator:a8f705a8b053ef6ff2e2827b4c7f9c643"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a26f2a2037750712d8718d9537603e3a1" name="a26f2a2037750712d8718d9537603e3a1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a26f2a2037750712d8718d9537603e3a1">&#9670;&#160;</a></span>ChannelTargetData()</h2>
+<a id="a30283854715c90496e14d260f913f5fa" name="a30283854715c90496e14d260f913f5fa"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a30283854715c90496e14d260f913f5fa">&#9670;&#160;</a></span>AbsorbAuraOrderPred()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -138,21 +132,10 @@ Public Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">ChannelTargetData::ChannelTargetData </td>
+          <td class="memname">Acore::AbsorbAuraOrderPred::AbsorbAuraOrderPred </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d9/d48/a08412.html">ObjectGuid</a>&#160;</td>
-          <td class="paramname"><em>cguid</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
+          <td class="paramname"></td><td>)</td>
           <td></td>
-          <td class="paramtype">const <a class="el" href="../../db/d20/a11092.html">SpellDestination</a> *&#160;</td>
-          <td class="paramname"><em>dst</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
         </tr>
       </table>
   </td>
@@ -161,48 +144,102 @@ Public Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  245</span>                                                                     : <a class="code hl_variable" href="../../d6/dc7/a11104.html#afad1c896d6a137ebb224fd636ba4d7f2">channelGUID</a>(cguid)</div>
-<div class="line"><span class="lineno">  246</span>    {</div>
-<div class="line"><span class="lineno">  247</span>        <span class="keywordflow">if</span> (dst)</div>
-<div class="line"><span class="lineno">  248</span>            <a class="code hl_variable" href="../../d6/dc7/a11104.html#aa5cfec093a599f4bf33ebf0c73a2f4ac">spellDst</a> = *dst;</div>
-<div class="line"><span class="lineno">  249</span>    }</div>
-<div class="ttc" id="aa11104_html_aa5cfec093a599f4bf33ebf0c73a2f4ac"><div class="ttname"><a href="../../d6/dc7/a11104.html#aa5cfec093a599f4bf33ebf0c73a2f4ac">ChannelTargetData::spellDst</a></div><div class="ttdeci">SpellDestination spellDst</div><div class="ttdef"><b>Definition:</b> Spell.h:252</div></div>
-<div class="ttc" id="aa11104_html_afad1c896d6a137ebb224fd636ba4d7f2"><div class="ttname"><a href="../../d6/dc7/a11104.html#afad1c896d6a137ebb224fd636ba4d7f2">ChannelTargetData::channelGUID</a></div><div class="ttdeci">ObjectGuid channelGUID</div><div class="ttdef"><b>Definition:</b> Spell.h:251</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  352</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00252">spellDst</a>.</p>
-
 </div>
 </div>
-<h2 class="groupheader">Member Data Documentation</h2>
-<a id="afad1c896d6a137ebb224fd636ba4d7f2" name="afad1c896d6a137ebb224fd636ba4d7f2"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#afad1c896d6a137ebb224fd636ba4d7f2">&#9670;&#160;</a></span>channelGUID</h2>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="a8f705a8b053ef6ff2e2827b4c7f9c643" name="a8f705a8b053ef6ff2e2827b4c7f9c643"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8f705a8b053ef6ff2e2827b4c7f9c643">&#9670;&#160;</a></span>operator()()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d9/d48/a08412.html">ObjectGuid</a> ChannelTargetData::channelGUID</td>
+          <td class="memname">bool Acore::AbsorbAuraOrderPred::operator() </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d3/de3/a11100.html">AuraEffect</a> *&#160;</td>
+          <td class="paramname"><em>aurEffA</em>, </td>
         </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l06289">AuraEffect::HandlePeriodicTriggerSpellAuraTick()</a>, and <a class="el" href="../../#l06557">AuraEffect::HandlePeriodicTriggerSpellWithValueAuraTick()</a>.</p>
-
-</div>
-</div>
-<a id="aa5cfec093a599f4bf33ebf0c73a2f4ac" name="aa5cfec093a599f4bf33ebf0c73a2f4ac"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa5cfec093a599f4bf33ebf0c73a2f4ac">&#9670;&#160;</a></span>spellDst</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../db/d20/a11092.html">SpellDestination</a> ChannelTargetData::spellDst</td>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d3/de3/a11100.html">AuraEffect</a> *&#160;</td>
+          <td class="paramname"><em>aurEffB</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td> const</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00245">ChannelTargetData()</a>, <a class="el" href="../../#l06289">AuraEffect::HandlePeriodicTriggerSpellAuraTick()</a>, and <a class="el" href="../../#l06557">AuraEffect::HandlePeriodicTriggerSpellWithValueAuraTick()</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">  354</span>        {</div>
+<div class="line"><span class="lineno">  355</span>            <a class="code hl_class" href="../../d1/d71/a11216.html">SpellInfo</a> <span class="keyword">const</span>* spellProtoA = aurEffA-&gt;<a class="code hl_function" href="../../d3/de3/a11100.html#a1004d58d71df9a9b603d217ebca51321">GetSpellInfo</a>();</div>
+<div class="line"><span class="lineno">  356</span>            <a class="code hl_class" href="../../d1/d71/a11216.html">SpellInfo</a> <span class="keyword">const</span>* spellProtoB = aurEffB-&gt;<a class="code hl_function" href="../../d3/de3/a11100.html#a1004d58d71df9a9b603d217ebca51321">GetSpellInfo</a>();</div>
+<div class="line"><span class="lineno">  357</span> </div>
+<div class="line"><span class="lineno">  358</span>            <span class="comment">// Wards</span></div>
+<div class="line"><span class="lineno">  359</span>            <span class="keywordflow">if</span> ((spellProtoA-&gt;<a class="code hl_variable" href="../../d1/d71/a11216.html#af6ec577353f7d3cc59badd7d332153b0">SpellFamilyName</a> == <a class="code hl_enumvalue" href="../../db/dd9/a00179.html#a9264ae6b0ef1b61a6eeb7fdac9fbab1ba0e4b88db8be01ea5d62cc08d07b28aae">SPELLFAMILY_MAGE</a>) ||</div>
+<div class="line"><span class="lineno">  360</span>                    (spellProtoA-&gt;<a class="code hl_variable" href="../../d1/d71/a11216.html#af6ec577353f7d3cc59badd7d332153b0">SpellFamilyName</a> == <a class="code hl_enumvalue" href="../../db/dd9/a00179.html#a9264ae6b0ef1b61a6eeb7fdac9fbab1ba0a134bc75d430da10f6c1df4977c29cf">SPELLFAMILY_WARLOCK</a>))</div>
+<div class="line"><span class="lineno">  361</span>                <span class="keywordflow">if</span> (spellProtoA-&gt;<a class="code hl_function" href="../../d1/d71/a11216.html#a25ed784456d2d769bf59a788f9216001">GetCategory</a>() == 56)</div>
+<div class="line"><span class="lineno">  362</span>                    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  363</span>            <span class="keywordflow">if</span> ((spellProtoB-&gt;<a class="code hl_variable" href="../../d1/d71/a11216.html#af6ec577353f7d3cc59badd7d332153b0">SpellFamilyName</a> == <a class="code hl_enumvalue" href="../../db/dd9/a00179.html#a9264ae6b0ef1b61a6eeb7fdac9fbab1ba0e4b88db8be01ea5d62cc08d07b28aae">SPELLFAMILY_MAGE</a>) ||</div>
+<div class="line"><span class="lineno">  364</span>                    (spellProtoB-&gt;<a class="code hl_variable" href="../../d1/d71/a11216.html#af6ec577353f7d3cc59badd7d332153b0">SpellFamilyName</a> == <a class="code hl_enumvalue" href="../../db/dd9/a00179.html#a9264ae6b0ef1b61a6eeb7fdac9fbab1ba0a134bc75d430da10f6c1df4977c29cf">SPELLFAMILY_WARLOCK</a>))</div>
+<div class="line"><span class="lineno">  365</span>                <span class="keywordflow">if</span> (spellProtoB-&gt;<a class="code hl_function" href="../../d1/d71/a11216.html#a25ed784456d2d769bf59a788f9216001">GetCategory</a>() == 56)</div>
+<div class="line"><span class="lineno">  366</span>                    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  367</span> </div>
+<div class="line"><span class="lineno">  368</span>            <span class="comment">// Sacred Shield</span></div>
+<div class="line"><span class="lineno">  369</span>            <span class="keywordflow">if</span> (spellProtoA-&gt;<a class="code hl_variable" href="../../d1/d71/a11216.html#a49bc14059c2bd3785231c52e0d54d382">Id</a> == 58597)</div>
+<div class="line"><span class="lineno">  370</span>                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  371</span>            <span class="keywordflow">if</span> (spellProtoB-&gt;<a class="code hl_variable" href="../../d1/d71/a11216.html#a49bc14059c2bd3785231c52e0d54d382">Id</a> == 58597)</div>
+<div class="line"><span class="lineno">  372</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  373</span> </div>
+<div class="line"><span class="lineno">  374</span>            <span class="comment">// Fel Blossom</span></div>
+<div class="line"><span class="lineno">  375</span>            <span class="keywordflow">if</span> (spellProtoA-&gt;<a class="code hl_variable" href="../../d1/d71/a11216.html#a49bc14059c2bd3785231c52e0d54d382">Id</a> == 28527)</div>
+<div class="line"><span class="lineno">  376</span>                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  377</span>            <span class="keywordflow">if</span> (spellProtoB-&gt;<a class="code hl_variable" href="../../d1/d71/a11216.html#a49bc14059c2bd3785231c52e0d54d382">Id</a> == 28527)</div>
+<div class="line"><span class="lineno">  378</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  379</span> </div>
+<div class="line"><span class="lineno">  380</span>            <span class="comment">// Divine Aegis</span></div>
+<div class="line"><span class="lineno">  381</span>            <span class="keywordflow">if</span> (spellProtoA-&gt;<a class="code hl_variable" href="../../d1/d71/a11216.html#a49bc14059c2bd3785231c52e0d54d382">Id</a> == 47753)</div>
+<div class="line"><span class="lineno">  382</span>                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  383</span>            <span class="keywordflow">if</span> (spellProtoB-&gt;<a class="code hl_variable" href="../../d1/d71/a11216.html#a49bc14059c2bd3785231c52e0d54d382">Id</a> == 47753)</div>
+<div class="line"><span class="lineno">  384</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  385</span> </div>
+<div class="line"><span class="lineno">  386</span>            <span class="comment">// Ice Barrier</span></div>
+<div class="line"><span class="lineno">  387</span>            <span class="keywordflow">if</span> (spellProtoA-&gt;<a class="code hl_function" href="../../d1/d71/a11216.html#a25ed784456d2d769bf59a788f9216001">GetCategory</a>() == 471)</div>
+<div class="line"><span class="lineno">  388</span>                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  389</span>            <span class="keywordflow">if</span> (spellProtoB-&gt;<a class="code hl_function" href="../../d1/d71/a11216.html#a25ed784456d2d769bf59a788f9216001">GetCategory</a>() == 471)</div>
+<div class="line"><span class="lineno">  390</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  391</span> </div>
+<div class="line"><span class="lineno">  392</span>            <span class="comment">// Sacrifice</span></div>
+<div class="line"><span class="lineno">  393</span>            <span class="keywordflow">if</span> ((spellProtoA-&gt;<a class="code hl_variable" href="../../d1/d71/a11216.html#af6ec577353f7d3cc59badd7d332153b0">SpellFamilyName</a> == <a class="code hl_enumvalue" href="../../db/dd9/a00179.html#a9264ae6b0ef1b61a6eeb7fdac9fbab1ba0a134bc75d430da10f6c1df4977c29cf">SPELLFAMILY_WARLOCK</a>) &amp;&amp;</div>
+<div class="line"><span class="lineno">  394</span>                    (spellProtoA-&gt;<a class="code hl_variable" href="../../d1/d71/a11216.html#ac1a82f9330481616b4b87ed9eff0f785">SpellIconID</a> == 693))</div>
+<div class="line"><span class="lineno">  395</span>                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  396</span>            <span class="keywordflow">if</span> ((spellProtoB-&gt;<a class="code hl_variable" href="../../d1/d71/a11216.html#af6ec577353f7d3cc59badd7d332153b0">SpellFamilyName</a> == <a class="code hl_enumvalue" href="../../db/dd9/a00179.html#a9264ae6b0ef1b61a6eeb7fdac9fbab1ba0a134bc75d430da10f6c1df4977c29cf">SPELLFAMILY_WARLOCK</a>) &amp;&amp;</div>
+<div class="line"><span class="lineno">  397</span>                    (spellProtoB-&gt;<a class="code hl_variable" href="../../d1/d71/a11216.html#ac1a82f9330481616b4b87ed9eff0f785">SpellIconID</a> == 693))</div>
+<div class="line"><span class="lineno">  398</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  399</span> </div>
+<div class="line"><span class="lineno">  400</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  401</span>        }</div>
+<div class="ttc" id="aa00179_html_a9264ae6b0ef1b61a6eeb7fdac9fbab1ba0a134bc75d430da10f6c1df4977c29cf"><div class="ttname"><a href="../../db/dd9/a00179.html#a9264ae6b0ef1b61a6eeb7fdac9fbab1ba0a134bc75d430da10f6c1df4977c29cf">SPELLFAMILY_WARLOCK</a></div><div class="ttdeci">@ SPELLFAMILY_WARLOCK</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:3788</div></div>
+<div class="ttc" id="aa00179_html_a9264ae6b0ef1b61a6eeb7fdac9fbab1ba0e4b88db8be01ea5d62cc08d07b28aae"><div class="ttname"><a href="../../db/dd9/a00179.html#a9264ae6b0ef1b61a6eeb7fdac9fbab1ba0e4b88db8be01ea5d62cc08d07b28aae">SPELLFAMILY_MAGE</a></div><div class="ttdeci">@ SPELLFAMILY_MAGE</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:3786</div></div>
+<div class="ttc" id="aa11100_html_a1004d58d71df9a9b603d217ebca51321"><div class="ttname"><a href="../../d3/de3/a11100.html#a1004d58d71df9a9b603d217ebca51321">AuraEffect::GetSpellInfo</a></div><div class="ttdeci">SpellInfo const * GetSpellInfo() const</div><div class="ttdef"><b>Definition:</b> SpellAuraEffects.h:54</div></div>
+<div class="ttc" id="aa11216_html"><div class="ttname"><a href="../../d1/d71/a11216.html">SpellInfo</a></div><div class="ttdef"><b>Definition:</b> SpellInfo.h:316</div></div>
+<div class="ttc" id="aa11216_html_a25ed784456d2d769bf59a788f9216001"><div class="ttname"><a href="../../d1/d71/a11216.html#a25ed784456d2d769bf59a788f9216001">SpellInfo::GetCategory</a></div><div class="ttdeci">uint32 GetCategory() const</div><div class="ttdef"><b>Definition:</b> SpellInfo.cpp:871</div></div>
+<div class="ttc" id="aa11216_html_a49bc14059c2bd3785231c52e0d54d382"><div class="ttname"><a href="../../d1/d71/a11216.html#a49bc14059c2bd3785231c52e0d54d382">SpellInfo::Id</a></div><div class="ttdeci">uint32 Id</div><div class="ttdef"><b>Definition:</b> SpellInfo.h:320</div></div>
+<div class="ttc" id="aa11216_html_ac1a82f9330481616b4b87ed9eff0f785"><div class="ttname"><a href="../../d1/d71/a11216.html#ac1a82f9330481616b4b87ed9eff0f785">SpellInfo::SpellIconID</a></div><div class="ttdeci">uint32 SpellIconID</div><div class="ttdef"><b>Definition:</b> SpellInfo.h:380</div></div>
+<div class="ttc" id="aa11216_html_af6ec577353f7d3cc59badd7d332153b0"><div class="ttname"><a href="../../d1/d71/a11216.html#af6ec577353f7d3cc59badd7d332153b0">SpellInfo::SpellFamilyName</a></div><div class="ttdeci">uint32 SpellFamilyName</div><div class="ttdef"><b>Definition:</b> SpellInfo.h:387</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00871">SpellInfo::GetCategory()</a>, <a class="el" href="../../#l00054">AuraEffect::GetSpellInfo()</a>, <a class="el" href="../../#l00320">SpellInfo::Id</a>, <a class="el" href="../../#l03786">SPELLFAMILY_MAGE</a>, <a class="el" href="../../#l03788">SPELLFAMILY_WARLOCK</a>, <a class="el" href="../../#l00387">SpellInfo::SpellFamilyName</a>, and <a class="el" href="../../#l00380">SpellInfo::SpellIconID</a>.</p>
 
 </div>
 </div>
@@ -211,8 +248,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d6/dc7/a11104.html">ChannelTargetData</a></li>
-    <li class="footer">Generated on Mon Aug 18 2025 20:48:17 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d2/d5c/a04788.html">Acore</a></li><li class="navelem"><a class="el" href="../../d6/dc7/a11104.html">AbsorbAuraOrderPred</a></li>
+    <li class="footer">Generated on Mon Aug 25 2025 20:47:35 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

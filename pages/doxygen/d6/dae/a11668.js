@@ -1,12 +1,8 @@
 var a11668 =
 [
-    [ "guild_commandscript", "d6/dae/a11668.html#a4394d242740505ad128e4cebf4b617f0", null ],
-    [ "GetCommands", "d6/dae/a11668.html#a6b0a700e7fa3251373c1405d245f6931", null ],
-    [ "HandleGuildCreateCommand", "d6/dae/a11668.html#a2d2c2414b9b08a5d510fccd223b34a36", null ],
-    [ "HandleGuildDeleteCommand", "d6/dae/a11668.html#a4bbef641c86de37611e7ff1c906b4048", null ],
-    [ "HandleGuildInfoCommand", "d6/dae/a11668.html#adbe43a3a362608e37dd7d6652a83adfc", null ],
-    [ "HandleGuildInviteCommand", "d6/dae/a11668.html#a67210b9845ca4475e6ab3d0d7cc0dbab", null ],
-    [ "HandleGuildRankCommand", "d6/dae/a11668.html#adbea3b610c98354866fec52a43fedda0", null ],
-    [ "HandleGuildRenameCommand", "d6/dae/a11668.html#ac946b4284c85e43b1ca29f69df9a8f27", null ],
-    [ "HandleGuildUninviteCommand", "d6/dae/a11668.html#aa7b134de9c3632cc1e147064c9ffcb5f", null ]
+    [ "CreatureCountWorker", "d6/dae/a11668.html#ad01e947d97d03a10ea3a891d24cb05b7", null ],
+    [ "GetTopCreatureCount", "d6/dae/a11668.html#a5d4d009b6685dd71703f96f9945a463e", null ],
+    [ "Visit", "d6/dae/a11668.html#a786d95d42f7711235e60a4f54cc3b4be", null ],
+    [ "Visit", "d6/dae/a11668.html#afa72c0c1f905f4277d650ad0cfef281d", null ],
+    [ "creatureIds", "d6/dae/a11668.html#a3a6f946c40b1006164793dbaed2b3948", null ]
 ];

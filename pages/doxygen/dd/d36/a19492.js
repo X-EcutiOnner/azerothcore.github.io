@@ -1,7 +1,7 @@
 var a19492 =
 [
-    [ "HandleOnEffectApply", "dd/d36/a19492.html#a4841f7a44f5df964c4eb9965383fd747", null ],
-    [ "PrepareAuraScript", "dd/d36/a19492.html#a4cf9cf2aadb43920384ec745f6be484f", null ],
-    [ "Register", "dd/d36/a19492.html#a68fba646552678744f49d10b59704a35", null ],
-    [ "Validate", "dd/d36/a19492.html#a01169ee095aa2f0051eac1b253a5daf5", null ]
+    [ "CalcDamage", "dd/d36/a19492.html#abb2bf75cc347597b17ed5e4ccd213132", null ],
+    [ "PrepareSpellScript", "dd/d36/a19492.html#a705a6f0c9b10dc8e7e2e6c091a3ff89c", null ],
+    [ "Register", "dd/d36/a19492.html#a2c2b391b223ab92b6d644b739419a1d3", null ],
+    [ "Validate", "dd/d36/a19492.html#a773c608119a84cc3f02e7b4d786f2741", null ]
 ];

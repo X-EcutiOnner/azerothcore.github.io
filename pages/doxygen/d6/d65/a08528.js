@@ -1,6 +1,9 @@
 var a08528 =
 [
-    [ "PlayerClassLevelInfo", "d6/d65/a08528.html#a60153094e3179bfc6c028d2b76775805", null ],
-    [ "basehealth", "d6/d65/a08528.html#a034ae3d2b5b14ce454710ca8f92ffee0", null ],
-    [ "basemana", "d6/d65/a08528.html#a939a8d8739a553c919d84e399ce17d22", null ]
+    [ "ActionButton", "d6/d65/a08528.html#a78f4e95d921fb997647f89c67c2a66b7", null ],
+    [ "GetAction", "d6/d65/a08528.html#a7c10f6089fab30179cfe8175b740477a", null ],
+    [ "GetType", "d6/d65/a08528.html#abe5bc143770d411cff0d8c8c425b1253", null ],
+    [ "SetActionAndType", "d6/d65/a08528.html#a29d804ed78d79f64e868e9741b37d7be", null ],
+    [ "packedData", "d6/d65/a08528.html#a2a34a116c4890a12255f9ebe24c1cba8", null ],
+    [ "uState", "d6/d65/a08528.html#a6384e73650da93c96d3b4cc42b151b63", null ]
 ];

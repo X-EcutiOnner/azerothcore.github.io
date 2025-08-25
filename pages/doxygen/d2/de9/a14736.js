@@ -1,12 +1,10 @@
 var a14736 =
 [
-    [ "boss_mal_ganisAI", "d2/de9/a14736.html#aa8b70930372cd0729686f7c6032d3152", null ],
-    [ "DamageTaken", "d2/de9/a14736.html#a4873386266ce3b4b849377028ff746a5", null ],
-    [ "JustDied", "d2/de9/a14736.html#a83690f4a55cfa22a979ad6897b661fcc", null ],
-    [ "JustEngagedWith", "d2/de9/a14736.html#ad04c571e9e485a95d194946c1b3b7ffa", null ],
-    [ "KilledUnit", "d2/de9/a14736.html#a0ec8c95f3e6ea8c243cc28d0c893c7eb", null ],
-    [ "Reset", "d2/de9/a14736.html#abb9d38b3c26af6245bb98e131be07d4d", null ],
-    [ "UpdateAI", "d2/de9/a14736.html#a9466254da12c3aa3c1a69e812ff1a068", null ],
-    [ "events", "d2/de9/a14736.html#a194c002efe244b8c94a072faf72be771", null ],
-    [ "finished", "d2/de9/a14736.html#ac4c90c814aa55781f863c958253e9df2", null ]
+    [ "npc_hyjal_gargoyle", "d2/de9/a14736.html#a35b17d008d96116b2e3cf09cceacd6fb", null ],
+    [ "AttackStart", "d2/de9/a14736.html#a0301be4d3e34f1248708fdcd3f0d5ea8", null ],
+    [ "DoAction", "d2/de9/a14736.html#ae213c71426f438dd2b27699d7de23664", null ],
+    [ "JustEngagedWith", "d2/de9/a14736.html#ae10a90c817a7df8d0d6ed18c9cdf6387", null ],
+    [ "PathEndReached", "d2/de9/a14736.html#a9ae52d3f7176045ef28713f3e1a16153", null ],
+    [ "Reset", "d2/de9/a14736.html#af314bb183bde44680eeb136d2a08c142", null ],
+    [ "UpdateAI", "d2/de9/a14736.html#ac1ca0648b08430a8bcbf99980222b684", null ]
 ];

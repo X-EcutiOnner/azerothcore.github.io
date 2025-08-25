@@ -1,15 +1,20 @@
 var a16252 =
 [
-    [ "npc_argent_soldierAI", "d9/df6/a16252.html#abbfbb5a1e116c6deb3db23f12ff8994f", null ],
-    [ "DamageTaken", "d9/df6/a16252.html#afb48cc1c2e254c292c33eade74b6fad7", null ],
-    [ "JustDied", "d9/df6/a16252.html#aedf4dcd909c1009fedfde593522454ec", null ],
-    [ "JustEngagedWith", "d9/df6/a16252.html#a0aa59fdf0668d64f3b670c595579ba81", null ],
-    [ "Reset", "d9/df6/a16252.html#a1a0c00c09c348f746730c9743d4b7b6b", null ],
-    [ "SetData", "d9/df6/a16252.html#a20b62b48f5cf92106fcd1860d9e91956", null ],
-    [ "UpdateAI", "d9/df6/a16252.html#aed2921c1f6bc0507bf9e6f02f224ab44", null ],
-    [ "WaypointReached", "d9/df6/a16252.html#af70fb91477dbeaa7e6e409f3381f0770", null ],
-    [ "bCheck", "d9/df6/a16252.html#af570597c33add7ac5ebf3d01e8c9b2df", null ],
-    [ "events", "d9/df6/a16252.html#ac458fc9a331dc7edfdc764215b1926e8", null ],
-    [ "pInstance", "d9/df6/a16252.html#ac9951514f27f343ae96e856f484e7baf", null ],
-    [ "uiWaypoint", "d9/df6/a16252.html#a87382571221c608017fd2d4cb99193dc", null ]
+    [ "instance_ruby_sanctum_InstanceMapScript", "d9/df6/a16252.html#a98a097bfa32aedc3fe1d6600f147c94f", null ],
+    [ "FillInitialWorldStates", "d9/df6/a16252.html#a92cf11c73a596e0be141d9626ff10d3d", null ],
+    [ "GetGuidData", "d9/df6/a16252.html#aaee1be892a411ed2fe720aff91c1dbbe", null ],
+    [ "OnCreatureCreate", "d9/df6/a16252.html#a18f4f8286f7ca85b1a366b1ca3ffe6b3", null ],
+    [ "OnGameObjectCreate", "d9/df6/a16252.html#a27c4858d5972471ef91a269c11fc0494", null ],
+    [ "OnGameObjectRemove", "d9/df6/a16252.html#ac53fa1af91c66a264fdd016abe40168c", null ],
+    [ "OnPlayerEnter", "d9/df6/a16252.html#a74b01d2d0b48e95f758a1143fccf40ae", null ],
+    [ "SetBossState", "d9/df6/a16252.html#a3542b2f1f54fc25720bba1b4f2d12e5f", null ],
+    [ "BaltharusTheWarbornGUID", "d9/df6/a16252.html#a99cb15668a0eb037fc7edd6a2340ca33", null ],
+    [ "FlameRingGUID", "d9/df6/a16252.html#a52256dd98ae786bfe9bfc86ce036a060", null ],
+    [ "GeneralZarithrianGUID", "d9/df6/a16252.html#ad92ac599589bdd8b7c3aa055b451f0cf", null ],
+    [ "HalionControllerGUID", "d9/df6/a16252.html#a52144a0152a2ea00066c0d24bdee0b74", null ],
+    [ "HalionGUID", "d9/df6/a16252.html#a0b824e7cf269619220329aecba08e448", null ],
+    [ "OrbCarrierGUID", "d9/df6/a16252.html#a723b8a7384d0b9455b3a99172a903868", null ],
+    [ "TwilightHalionGUID", "d9/df6/a16252.html#a165f776c123fa595b6424be666fa8570", null ],
+    [ "XerestraszaGUID", "d9/df6/a16252.html#aefcf3beb1d5da118c80d3af9eb21ec99", null ],
+    [ "ZarithrianSpawnStalkerGUID", "d9/df6/a16252.html#a5e28d815149507f4bc6a30e42d4034a4", null ]
 ];

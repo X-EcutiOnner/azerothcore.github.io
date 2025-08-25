@@ -1,6 +1,7 @@
 var a17944 =
 [
-    [ "FilterTargetsInitial", "d3/daf/a17944.html#a92cc71f268793c616bed66d9a489a145", null ],
-    [ "PrepareSpellScript", "d3/daf/a17944.html#ae27e6ceab6b92e59c97307ed10f24ab2", null ],
-    [ "Register", "d3/daf/a17944.html#a91b96940a9e72e632989b49f7e475dba", null ]
+    [ "HandleTriggerSpell", "d3/daf/a17944.html#a109dc4f189a64ac3b5949191d6abd2be", null ],
+    [ "OnRemove", "d3/daf/a17944.html#a238adc96e80c1890934b23dd4a2685b4", null ],
+    [ "PrepareAuraScript", "d3/daf/a17944.html#af9ce7433b620fdf1dea570561c514b3b", null ],
+    [ "Register", "d3/daf/a17944.html#ab36a001ea8cd87703e2694e0765635c0", null ]
 ];

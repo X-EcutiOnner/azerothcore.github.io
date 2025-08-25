@@ -1,10 +1,10 @@
 var a01601 =
 [
-    [ "GameObjectTemplate", "d1/d32/a08172.html", "d1/d32/a08172" ],
-    [ "GameObjectTemplateAddon", "de/d19/a08296.html", "de/d19/a08296" ],
-    [ "GameObjectLocale", "d7/d9a/a08300.html", "d7/d9a/a08300" ],
-    [ "GameObjectAddon", "df/d26/a08304.html", "df/d26/a08304" ],
-    [ "GameObjectData", "dd/dcf/a08308.html", "dd/dcf/a08308" ],
+    [ "GameObjectTemplate", "d7/ddf/a08180.html", "d7/ddf/a08180" ],
+    [ "GameObjectTemplateAddon", "df/d26/a08304.html", "df/d26/a08304" ],
+    [ "GameObjectLocale", "dd/dcf/a08308.html", "dd/dcf/a08308" ],
+    [ "GameObjectAddon", "df/d96/a08312.html", "df/d96/a08312" ],
+    [ "GameObjectData", "dd/de3/a08316.html", "dd/de3/a08316" ],
     [ "MAX_GAMEOBJECT_QUEST_ITEMS", "d7/d82/a01601.html#a7698721f2eb4f87abac1a64a64ecf676", null ],
     [ "MAX_GO_STATE", "d7/d82/a01601.html#ac148792c2982ecdddc593bf3871aa520", null ],
     [ "GOState", "d7/d82/a01601.html#ac17cd142af80da019367bb796b15e5ab", [

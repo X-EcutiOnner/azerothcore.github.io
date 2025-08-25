@@ -1,7 +1,7 @@
 var a13124 =
 [
-    [ "npc_apothecary_genericAI", "dd/d3f/a13124.html#afb2b04b51e28d0795e7781effa68dffd", null ],
-    [ "DoAction", "dd/d3f/a13124.html#a59074beefbd3d80104b64f8ecc2ef8e0", null ],
-    [ "MovementInform", "dd/d3f/a13124.html#a63530bd7c3ebcd66521a268e11bf2f93", null ],
-    [ "_movePos", "dd/d3f/a13124.html#a53d10ab64df212b043cc21e054f6528c", null ]
+    [ "HandleScript", "dd/d3f/a13124.html#a03f8c24445ee4ac82a4cf2caece38f90", null ],
+    [ "PrepareSpellScript", "dd/d3f/a13124.html#a034195e58f02225c172b70c3967fe3ad", null ],
+    [ "Register", "dd/d3f/a13124.html#afaf3a6fd54f499982bd1cfd6e4c6c1a2", null ],
+    [ "Validate", "dd/d3f/a13124.html#a8ac78c00c49b1eb2fade4100a810d367", null ]
 ];

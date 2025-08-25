@@ -1,10 +1,11 @@
 var a07420 =
 [
-    [ "BattlegroundNA", "db/d03/a07420.html#abf646e63e474ac5bb381078ffd0f286e", null ],
-    [ "FillInitialWorldStates", "db/d03/a07420.html#af0932b648d2a4a4288409d8da360e06b", null ],
-    [ "HandleAreaTrigger", "db/d03/a07420.html#a6a70ff3655c516d45ac1acf959ad8f73", null ],
-    [ "HandlePlayerUnderMap", "db/d03/a07420.html#a098c01b5da65350b2af9ff53dc9f750c", null ],
-    [ "SetupBattleground", "db/d03/a07420.html#addc3350a283fdac24e7aa88c23a7945a", null ],
-    [ "StartingEventCloseDoors", "db/d03/a07420.html#a316492a374884822045971f6dc3db1e2", null ],
-    [ "StartingEventOpenDoors", "db/d03/a07420.html#a72a953c5047a434d28b98e6185173140", null ]
+    [ "BattlegroundICScore", "db/d03/a07420.html#a3b8798fdb479885fbe4b7cecb2f84f68", null ],
+    [ "BuildObjectivesBlock", "db/d03/a07420.html#a4a10d0be9c318048feb4e76ffae9472c", null ],
+    [ "GetAttr1", "db/d03/a07420.html#af6c42bbd1b8f3f94fe838ce5df610a80", null ],
+    [ "GetAttr2", "db/d03/a07420.html#a758fa51038f232c7d65cd0168a4608c2", null ],
+    [ "UpdateScore", "db/d03/a07420.html#a690ede108b8ce8dfa45a2b7457e53a3c", null ],
+    [ "BattlegroundIC", "db/d03/a07420.html#a2d7503354e4bdce9f2a06d48b649da2f", null ],
+    [ "BasesAssaulted", "db/d03/a07420.html#a5050b80f9d1855cb8b97830f9e80124f", null ],
+    [ "BasesDefended", "db/d03/a07420.html#a70c2965b6b1e99239e0dcc1c03ccb552", null ]
 ];

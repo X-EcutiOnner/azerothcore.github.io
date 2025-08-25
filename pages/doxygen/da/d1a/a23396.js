@@ -1,13 +1,15 @@
 var a23396 =
 [
-    [ "boss_ghazan", "da/d1a/a23396.html#ae730362fcf3606c67b6b85147de98fb6", null ],
-    [ "DoAction", "da/d1a/a23396.html#ac016d5e06ca4f8f0bf2fa13ce2cd89e2", null ],
-    [ "InitializeAI", "da/d1a/a23396.html#a6b8c975a109dc5eb8a3e3fba03fe806e", null ],
-    [ "JustEngagedWith", "da/d1a/a23396.html#ad4136f0f63d267284f36756793c0efa7", null ],
-    [ "JustReachedHome", "da/d1a/a23396.html#af9f2dd854036d5c8b9c6703499836199", null ],
-    [ "MovementInform", "da/d1a/a23396.html#add9b2e60fb2ffc8a3905f063a2f3d0ae", null ],
-    [ "Reset", "da/d1a/a23396.html#afc9522a26060643f2f9d25a8a98691b7", null ],
-    [ "UpdateAI", "da/d1a/a23396.html#a40a6dd5ed2954be7df4612a7552e1bc0", null ],
-    [ "_movedToPlatform", "da/d1a/a23396.html#aa6c0c391355ac0b698d67796efd63062", null ],
-    [ "_reachedPlatform", "da/d1a/a23396.html#af3476318b4721bd52facaf735eabb1f9", null ]
+    [ "instance_the_slave_pens_InstanceMapScript", "da/d1a/a23396.html#a70db3eeeb55784250a13032728220005", null ],
+    [ "GetGuidData", "da/d1a/a23396.html#a77e77209e779b774608f739b258ae419", null ],
+    [ "OnCreatureCreate", "da/d1a/a23396.html#aca6b8148602b8fb95c9a467dc9400b8b", null ],
+    [ "SetGuidData", "da/d1a/a23396.html#a21a29973bcf5ef6925239213ce50bab0", null ],
+    [ "AhuneBunnyGUID", "da/d1a/a23396.html#ad57cefe116f2da6e7c85f36091fe0e94", null ],
+    [ "AhuneGUID", "da/d1a/a23396.html#a8ad4dab281db87bb2d14b925b450f09c", null ],
+    [ "BeamBunnyGUIDs", "da/d1a/a23396.html#a09e3d1ca5d040268578fa770b7153a81", null ],
+    [ "BonfireBunnyGUIDs", "da/d1a/a23396.html#a9de605ffd8092f83af8df5c1725c5d2b", null ],
+    [ "counter", "da/d1a/a23396.html#a4ea85debc35e91668723222e8ea90071", null ],
+    [ "FlameCallerGUIDs", "da/d1a/a23396.html#a50af0f1eaaa4e40d729e797212cf3ba0", null ],
+    [ "FrozenCoreGUID", "da/d1a/a23396.html#a6ac47d1f3eb4d199afdda9ad2a2cc73e", null ],
+    [ "LumaGUID", "da/d1a/a23396.html#a0e9e294b4140dc8b8a5567a54d7b0c42", null ]
 ];

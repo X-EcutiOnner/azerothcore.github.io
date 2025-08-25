@@ -1,6 +1,6 @@
 var a26168 =
 [
-    [ "CheckCast", "dd/dc0/a26168.html#a5f4979e1d164bee9e5a411e7d023810b", null ],
-    [ "PrepareSpellScript", "dd/dc0/a26168.html#a33e86d770e926247c58c00143b55c418", null ],
-    [ "Register", "dd/dc0/a26168.html#a453c7fa25baf458c9a319053ca726621", null ]
+    [ "CheckTarget", "dd/dc0/a26168.html#af1dae4f351ccaa7bc9b2ea315f0752c5", null ],
+    [ "PrepareSpellScript", "dd/dc0/a26168.html#a8f4075c80c7dcaa16f71bc1b396d005f", null ],
+    [ "Register", "dd/dc0/a26168.html#af4a27df3090a45ebd5db29c58e9ea47f", null ]
 ];

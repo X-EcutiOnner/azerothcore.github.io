@@ -1,6 +1,6 @@
 var a27584 =
 [
-    [ "npc_injured_patientAI", "d5/dce/a27588.html", "d5/dce/a27588" ],
-    [ "npc_injured_patient", "d0/d64/a27584.html#a0b7ef214aa1b20df088dee0976c73783", null ],
-    [ "GetAI", "d0/d64/a27584.html#a0c042bb81e684f903d28d7879af99d4a", null ]
+    [ "spawnedCreatureEntry", "d0/d64/a27584.html#a32b390dfff99d5fd3c49359779718af4", null ],
+    [ "spawnType", "d0/d64/a27584.html#a056dabf4092da4ef3155a661607ca772", null ],
+    [ "thisCreatureEntry", "d0/d64/a27584.html#a97d3cd7c2751fe85d9724ff1f808ba98", null ]
 ];

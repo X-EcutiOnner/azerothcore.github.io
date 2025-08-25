@@ -1,6 +1,5 @@
 var a27112 =
 [
-    [ "AreaTrigger_at_area_52_entrance", "db/dcd/a27112.html#a5b7e21903bca1c04bad1394c6965d032", null ],
-    [ "OnTrigger", "db/dcd/a27112.html#a1e537d133ee5e6ad1dbb0c732e23a128", null ],
-    [ "_triggerTimes", "db/dcd/a27112.html#a6c3225f46ea71d06b81b25d5fb6e8f25", null ]
+    [ "AreaTrigger_at_voltarus_middle", "db/dcd/a27112.html#a45ca444350fe4cfde02ab33da4ce8466", null ],
+    [ "OnTrigger", "db/dcd/a27112.html#a296b300feb6cf999e9e2c2625a911e9b", null ]
 ];

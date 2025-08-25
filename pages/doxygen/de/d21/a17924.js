@@ -1,6 +1,6 @@
 var a17924 =
 [
-    [ "HandleScript", "de/d21/a17924.html#abd766c298f8aa363d28198b6a5d7e374", null ],
-    [ "PrepareSpellScript", "de/d21/a17924.html#a5a4e7d674c09ebbbc9d918cf877418a3", null ],
-    [ "Register", "de/d21/a17924.html#ae9bd26c97b3dc9c1af96304e3c67d532", null ]
+    [ "HandleScript", "de/d21/a17924.html#aefdd306b81b44a0a5564eab5a0491e09", null ],
+    [ "PrepareSpellScript", "de/d21/a17924.html#a68c0462bd108b04621f8288328f78b18", null ],
+    [ "Register", "de/d21/a17924.html#aedaec0afc414800bc481a434592ffb5d", null ]
 ];

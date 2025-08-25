@@ -1,15 +1,11 @@
 var a05064 =
 [
-    [ "GetBounds", "d2/d8c/a05064.html#a4a112397e75fbaf5fd991a322a8a4ea4", null ],
-    [ "operator==", "d2/d8c/a05064.html#ab9713afd57c0bdf9f5ff8d5d12cd567f", null ],
-    [ "readFromFile", "d2/d8c/a05064.html#a35d7880eb3e295ed3148ca05a2f4520e", null ],
-    [ "writeToFile", "d2/d8c/a05064.html#ae8623dcb78a2af4c9aebd60f67649f34", null ],
-    [ "adtId", "d2/d8c/a05064.html#a4ebcfe8326eff028e722c9972a16200b", null ],
-    [ "flags", "d2/d8c/a05064.html#acfc7a76db09013abfad8e42aaae59f52", null ],
-    [ "iBound", "d2/d8c/a05064.html#ae1dac1aa360c4d49b61a0cd8af92399c", null ],
-    [ "ID", "d2/d8c/a05064.html#ab2fdb441870d6ac7ddc05640ec1d0598", null ],
-    [ "iPos", "d2/d8c/a05064.html#abb5966f87710bc6a1f5da766c99b3e12", null ],
-    [ "iRot", "d2/d8c/a05064.html#a6d0b4f6bde1a20b246e4b22cc43e25af", null ],
-    [ "iScale", "d2/d8c/a05064.html#aad355d0fb09ff0360ed19610bef92d8e", null ],
-    [ "name", "d2/d8c/a05064.html#a66e19a4a28f8fc0c537f1315d9bddcfb", null ]
+    [ "~GameObjectModelOwnerBase", "d2/d8c/a05064.html#a307c744710782fcb0d5c287b23c74d69", null ],
+    [ "DebugVisualizeCorner", "d2/d8c/a05064.html#acf130fbdfb086a9c6d35d145116357c8", null ],
+    [ "GetDisplayId", "d2/d8c/a05064.html#ae3eddc6c841c3644f50cb3300f80cee2", null ],
+    [ "GetOrientation", "d2/d8c/a05064.html#a35c11d2346c5156b95558729d84b3fe8", null ],
+    [ "GetPhaseMask", "d2/d8c/a05064.html#a6b55de1c8de5a50245d7e5a833766d0f", null ],
+    [ "GetPosition", "d2/d8c/a05064.html#a82e89b7fac5f46a25519674930294ed8", null ],
+    [ "GetScale", "d2/d8c/a05064.html#abf8e9a74f58ec34bc6f1f8d853100f69", null ],
+    [ "IsSpawned", "d2/d8c/a05064.html#ad824da6970d512c344160714cd7ec434", null ]
 ];

@@ -1,7 +1,6 @@
 var a23068 =
 [
-    [ "PrepareAuraScript", "df/dbc/a23068.html#a30ec063aa1ddbc3a32066e1f868bf742", null ],
-    [ "Register", "df/dbc/a23068.html#a1e62c60bfc2b72811950b627ce1202c3", null ],
-    [ "Update", "df/dbc/a23068.html#a3f98767367564734c9877d1870aac31b", null ],
-    [ "Validate", "df/dbc/a23068.html#a450460769e0e54e06f1b64b3c63ba0de", null ]
+    [ "PrepareSpellScript", "df/dbc/a23068.html#a7e03b63174511ed4c3e78c99b781f8f2", null ],
+    [ "Register", "df/dbc/a23068.html#aaed4b5d67dbd06cb0a1adc91aa873247", null ],
+    [ "RemoveSpines", "df/dbc/a23068.html#a076b056328ba6181a6ec907f21258f9d", null ]
 ];

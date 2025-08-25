@@ -1,6 +1,6 @@
 var a11952 =
 [
-    [ "boss_hedrumAI", "d8/deb/a11952.html#a95e4af51a8e24fa7b36b924c6cdfb86c", null ],
-    [ "JustEngagedWith", "d8/deb/a11952.html#a1cf03b06598f2b36814062d47a73ed82", null ],
-    [ "UpdateAI", "d8/deb/a11952.html#aa515ed081aaabdad751c1bbba56d3d96", null ]
+    [ "boss_evisceratorAI", "d4/d75/a11956.html", "d4/d75/a11956" ],
+    [ "boss_eviscerator", "d8/deb/a11952.html#aca65400afa5ca9ca81043687d79cdad0", null ],
+    [ "GetAI", "d8/deb/a11952.html#a21203f69267ec93c46d9ff56321b8169", null ]
 ];

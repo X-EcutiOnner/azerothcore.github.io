@@ -1,6 +1,6 @@
 var a19540 =
 [
-    [ "CalculateDamage", "d2/d5b/a19540.html#ae38f8cfb44de2798d7a284c942617678", null ],
-    [ "PrepareSpellScript", "d2/d5b/a19540.html#a043955d56e0ae4c54d70e8fe6e417dd1", null ],
-    [ "Register", "d2/d5b/a19540.html#ab4b32d2db39c8d9079a83c89d63ccd93", null ]
+    [ "npc_stormforged_lieutenantAI", "d8/d18/a19544.html", "d8/d18/a19544" ],
+    [ "npc_stormforged_lieutenant", "d2/d5b/a19540.html#ab58a73d33c6545815511c5c4f0ecfd9e", null ],
+    [ "GetAI", "d2/d5b/a19540.html#ae3aba4b53e73097c261eaaed19f17950", null ]
 ];

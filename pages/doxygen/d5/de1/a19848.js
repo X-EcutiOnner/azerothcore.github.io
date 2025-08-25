@@ -1,6 +1,7 @@
 var a19848 =
 [
-    [ "npc_auriaya_feral_defenderAI", "dd/d72/a19852.html", "dd/d72/a19852" ],
-    [ "npc_auriaya_feral_defender", "d5/de1/a19848.html#ae1afc396a1d9e6c9c2042ee0f58fb270", null ],
-    [ "GetAI", "d5/de1/a19848.html#abec35e280e42154af82f3e7e4fcec48d", null ]
+    [ "OnRemove", "d5/de1/a19848.html#a4d7ec990112b4ed602bcacf5a6de6722", null ],
+    [ "PrepareAuraScript", "d5/de1/a19848.html#a7cc9f0d6882b713c7b0a2585d6008437", null ],
+    [ "Register", "d5/de1/a19848.html#ad3a66fdfb2a159461bb3deeab6f71c13", null ],
+    [ "Validate", "d5/de1/a19848.html#a8bd121743d1153ae3fd8eb124e475d0f", null ]
 ];

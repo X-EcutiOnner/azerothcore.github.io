@@ -1,7 +1,8 @@
 var a23984 =
 [
-    [ "npc_daranelleAI", "de/d19/a23984.html#a49eeff6e0aea079a0375a92074227d12", null ],
-    [ "JustEngagedWith", "de/d19/a23984.html#aeff39dfd84986186057cdaf7632eed4f", null ],
-    [ "MoveInLineOfSight", "de/d19/a23984.html#a353e27c1485b88f0751a64260898d35b", null ],
-    [ "Reset", "de/d19/a23984.html#a33b2fbec775257e3ba0bebe37fb86349", null ]
+    [ "instance_mechanar_InstanceMapScript", "de/d19/a23984.html#a728d427162c0f56e7d229c55ff88bfbd", null ],
+    [ "OnCreatureCreate", "de/d19/a23984.html#aa0c6a84a6ace9299b18f0cc54263b398", null ],
+    [ "OnGameObjectCreate", "de/d19/a23984.html#a236a8c67ca57ffc7d2161c00e8acbd64", null ],
+    [ "OnGameObjectRemove", "de/d19/a23984.html#ac79c4f1dad7f2caf1278e242ec8fadc9", null ],
+    [ "_pathaleonGUID", "de/d19/a23984.html#aaf5c80af5ba2ba46b3c53ccffaaa1d3b", null ]
 ];

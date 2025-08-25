@@ -1,5 +1,7 @@
 var a22132 =
 [
-    [ "npc_guardian_pavilionAI", "de/da6/a22132.html#a2c116495e65c7f97063aa7dc6516f48c", null ],
-    [ "MoveInLineOfSight", "de/da6/a22132.html#aeae26e28be93120062d9f77c069ff32a", null ]
+    [ "HandleDummy", "de/da6/a22132.html#abfb58e49821e6a563940e8ba518db850", null ],
+    [ "PrepareSpellScript", "de/da6/a22132.html#a61ca2f71b0fa323a54f716415b25b75e", null ],
+    [ "Register", "de/da6/a22132.html#a7a2cc833ae8d079b821caabf55b6f0e5", null ],
+    [ "Validate", "de/da6/a22132.html#a21daeadffbfd28621d897dfe67dd11a8", null ]
 ];

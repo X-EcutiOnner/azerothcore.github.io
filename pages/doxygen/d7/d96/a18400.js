@@ -1,7 +1,6 @@
 var a18400 =
 [
-    [ "OnPeriodic", "d7/d96/a18400.html#adfbfcf4ad8671ca4eaa439705f7b6c2a", null ],
-    [ "PrepareAuraScript", "d7/d96/a18400.html#a5bb82c03f7c34e6febd3fe8aa57d4723", null ],
-    [ "Register", "d7/d96/a18400.html#a0fc7ca43a0d82058fc04277742231388", null ],
-    [ "Validate", "d7/d96/a18400.html#ae52c7c189a45a0bb5f3a627f502e3730", null ]
+    [ "npc_strangulate_vehicleAI", "d3/d63/a18404.html", "d3/d63/a18404" ],
+    [ "npc_strangulate_vehicle", "d7/d96/a18400.html#a04532bc5902af45b1e9c76cf1cec9add", null ],
+    [ "GetAI", "d7/d96/a18400.html#aa5813442234d7b18fc4e7ed44a0b30bc", null ]
 ];

@@ -1,8 +1,17 @@
 var a22624 =
 [
-    [ "npc_yor", "d6/d38/a22624.html#a43ed8720d06c035085d481dbe6539dca", null ],
-    [ "JustEngagedWith", "d6/d38/a22624.html#a74d5cd95b98a2057f78ee9e9b12aec42", null ],
-    [ "Reset", "d6/d38/a22624.html#aa698540b646fd870b33afbaf19ddbe07", null ],
-    [ "UpdateAI", "d6/d38/a22624.html#a46a2cf8ff94b830348641d94e3d9cd57", null ],
-    [ "_scheduler", "d6/d38/a22624.html#a4ce1e1558c9b8aa5d50b1df1a903d776", null ]
+    [ "OPvPCapturePointZM_Graveyard", "d6/d38/a22624.html#a78fe433ee7f86e42d9b9c24d4c47f870", null ],
+    [ "CanTalkTo", "d6/d38/a22624.html#ae16e1448e5c21daea0a56ede78b3174a", null ],
+    [ "ChangeState", "d6/d38/a22624.html#a6a066c902c6e8ac58950037e6c4934b6", null ],
+    [ "FillInitialWorldStates", "d6/d38/a22624.html#a8aea9e4a005f5c88e2c71cfd46d10058", null ],
+    [ "GetGraveyardState", "d6/d38/a22624.html#ac10fc817ba6d3c68310a6b0d68e52342", null ],
+    [ "HandleDropFlag", "d6/d38/a22624.html#a87fb109fcc88099406d9f189333aef7c", null ],
+    [ "HandleGossipOption", "d6/d38/a22624.html#a132a6beb8a265dc614763a5f8e510173", null ],
+    [ "HandleOpenGo", "d6/d38/a22624.html#abef3d9dfff4688e0c5a87cd7b2a847c4", null ],
+    [ "SetBeaconState", "d6/d38/a22624.html#a7d7fc3041c753918c6e13e49a691674a", null ],
+    [ "Update", "d6/d38/a22624.html#a19d09f296598b83079eb2545b3d2caff", null ],
+    [ "UpdateTowerState", "d6/d38/a22624.html#ae907325621c0c0a40fc1e7761b81e832", null ],
+    [ "m_BothControllingFactionId", "d6/d38/a22624.html#ad501fe77b1d678cb593be6a0a8afd0a8", null ],
+    [ "m_FlagCarrierGUID", "d6/d38/a22624.html#acb0c4738c28d48f2f0ccec090e4b96d4", null ],
+    [ "m_GraveyardState", "d6/d38/a22624.html#a20e5b236d87c0942d15a60d2eba1af83", null ]
 ];

@@ -1,23 +1,23 @@
 var a05480 =
 [
-    [ "EventProcessor", "dd/d34/a05480.html#a5c430ef08365f5eeca0f3321991bfaac", null ],
-    [ "~EventProcessor", "dd/d34/a05480.html#af30a066c911c3841d35854c900743b9e", null ],
-    [ "AddEvent", "dd/d34/a05480.html#a6cac613c3aaea0f576619a352f2727c4", null ],
-    [ "AddEvent", "dd/d34/a05480.html#a0ecdf822624a632b7b3fad1e66228cfb", null ],
-    [ "AddEvent", "dd/d34/a05480.html#a7c3cadedc39eb9bb27625869ae79f818", null ],
-    [ "AddEventAtOffset", "dd/d34/a05480.html#ac4cfbe963d7e9335f6404666a6b95bad", null ],
-    [ "AddEventAtOffset", "dd/d34/a05480.html#af1693df9f9c199ab94975c3b03217c02", null ],
-    [ "AddEventAtOffset", "dd/d34/a05480.html#ac13c627f0ecfc4a1443f8e2a1ee1b4c7", null ],
-    [ "AddEventAtOffset", "dd/d34/a05480.html#af2f9f20522e1087c52d0dbb3ac4b076b", null ],
-    [ "AddEventAtOffset", "dd/d34/a05480.html#a62d1cf008ce199778e30d518050b8161", null ],
-    [ "AddEventAtOffset", "dd/d34/a05480.html#a33ae3b0f73b1db3e905661644dce88b9", null ],
-    [ "CalculateQueueTime", "dd/d34/a05480.html#a2db97870b30361980b2d72ef806de951", null ],
-    [ "CalculateTime", "dd/d34/a05480.html#a1a92f983f1dd415146c2875f80cba433", null ],
-    [ "CancelEventGroup", "dd/d34/a05480.html#a29651ba6704e7908820af60ec37a2478", null ],
-    [ "KillAllEvents", "dd/d34/a05480.html#a15a65ecc2391f505266176cfc7f29c39", null ],
-    [ "ModifyEventTime", "dd/d34/a05480.html#ad54487e1753d8ce12bdddb1358ddb0cc", null ],
-    [ "Update", "dd/d34/a05480.html#a72fe67593c7684a55d27fb225ea51d05", null ],
-    [ "m_aborting", "dd/d34/a05480.html#a7a1beec186648c90c112ead3cc5df064", null ],
-    [ "m_events", "dd/d34/a05480.html#a168a435c77de52a151c735d3f004dbb9", null ],
-    [ "m_time", "dd/d34/a05480.html#a829eb8c07982b66e98c0ca118b54aaef", null ]
+    [ "AbortState", "dd/d34/a05480.html#a3f26f839ff35d80af2a8f885ca1a1554", [
+      [ "STATE_RUNNING", "dd/d34/a05480.html#a3f26f839ff35d80af2a8f885ca1a1554ad8a3bbc9a845117a56f75c0f8e74f09e", null ],
+      [ "STATE_ABORT_SCHEDULED", "dd/d34/a05480.html#a3f26f839ff35d80af2a8f885ca1a1554a57184a4db33295d3f2462a45429a7d3a", null ],
+      [ "STATE_ABORTED", "dd/d34/a05480.html#a3f26f839ff35d80af2a8f885ca1a1554a94084d8a7188eb3538561802c1f817f5", null ]
+    ] ],
+    [ "BasicEvent", "dd/d34/a05480.html#a9c3cd17edab7fc410f88bb680d756975", null ],
+    [ "~BasicEvent", "dd/d34/a05480.html#a0c3860e1c8854c2db20a225944792afd", null ],
+    [ "Abort", "dd/d34/a05480.html#a5584968148a48bd7ba072515bd489963", null ],
+    [ "Execute", "dd/d34/a05480.html#a89297a10b64d01895332655122ed8ccb", null ],
+    [ "IsAborted", "dd/d34/a05480.html#a4b05df0749b6a18ef0e0b4137e727d7d", null ],
+    [ "IsAbortScheduled", "dd/d34/a05480.html#a1ee71d72964b7124e8e137b02c81eac2", null ],
+    [ "IsDeletable", "dd/d34/a05480.html#a62c0483af9fd1885e779cf088a50eb02", null ],
+    [ "IsRunning", "dd/d34/a05480.html#aeb6eb1bb1c54f70d5e0f88cf4e462fc2", null ],
+    [ "ScheduleAbort", "dd/d34/a05480.html#afafade0729f08b8f1193a66f50c18348", null ],
+    [ "SetAborted", "dd/d34/a05480.html#a9224c2878bff4f6df28bedb973be2d27", null ],
+    [ "EventProcessor", "dd/d34/a05480.html#acce868eb94e25fcad6a070753b63bdfc", null ],
+    [ "m_abortState", "dd/d34/a05480.html#afd9cf18b8a00c6195b9120f3fcf7ca69", null ],
+    [ "m_addTime", "dd/d34/a05480.html#ac236835e6298588e834cde7a8c2bfece", null ],
+    [ "m_eventGroup", "dd/d34/a05480.html#a2ee03f01e03347d04eb38a215d10f036", null ],
+    [ "m_execTime", "dd/d34/a05480.html#afbd8d5728992e7676fde628fc03dc588", null ]
 ];

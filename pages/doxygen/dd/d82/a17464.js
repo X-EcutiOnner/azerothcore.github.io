@@ -1,8 +1,6 @@
 var a17464 =
 [
-    [ "CheckProc", "dd/d82/a17464.html#a11620e4d645b3bfd35924700b5dad289", null ],
-    [ "HandleProc", "dd/d82/a17464.html#aa80a032f2ec80aba36f6fe0208412587", null ],
-    [ "PrepareAuraScript", "dd/d82/a17464.html#afe04f0cb6539238412253b63dd3c82b9", null ],
-    [ "Register", "dd/d82/a17464.html#ac18d1d1a1d19b0dfa5cb1565377ba273", null ],
-    [ "Validate", "dd/d82/a17464.html#ac42fe3248fadf0ecca95893e06c490ee", null ]
+    [ "boss_deathbringer_saurfangAI", "db/dcc/a17468.html", "db/dcc/a17468" ],
+    [ "boss_deathbringer_saurfang", "dd/d82/a17464.html#ad19893be7dc3b4290d9b1ed3bb992e08", null ],
+    [ "GetAI", "dd/d82/a17464.html#a6bc1ef44b3ea9e860d62bf78cfa38c92", null ]
 ];

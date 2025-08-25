@@ -1,6 +1,6 @@
 var a18048 =
 [
-    [ "npc_ice_tombAI", "de/ddf/a18052.html", "de/ddf/a18052" ],
-    [ "npc_ice_tomb", "d4/d6d/a18048.html#a939c6083a77a6f4cb2a940ec9c1df55e", null ],
-    [ "GetAI", "d4/d6d/a18048.html#ac99b7c9887e54a1764310bd3e079811a", null ]
+    [ "DespawnSelf", "d4/d6d/a18048.html#a7009dd0e842898d03caa89e92447749d", null ],
+    [ "PrepareAuraScript", "d4/d6d/a18048.html#a00f0379b4e4fadf73bed7d483e406ac5", null ],
+    [ "Register", "d4/d6d/a18048.html#a8f21cb8ab1145fe32a78a682445cfc2d", null ]
 ];

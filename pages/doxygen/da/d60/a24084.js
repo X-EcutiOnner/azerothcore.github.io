@@ -1,7 +1,9 @@
 var a24084 =
 [
-    [ "npc_kurenai_captiveAI", "d3/de4/a24088.html", "d3/de4/a24088" ],
-    [ "npc_kurenai_captive", "da/d60/a24084.html#ae0e283bfc476f2d9e602158fa8720cdc", null ],
-    [ "GetAI", "da/d60/a24084.html#ad6f9abf280ca7c3a1b16f7e4815fb979", null ],
-    [ "OnQuestAccept", "da/d60/a24084.html#a7ecdb782bf084f3fd0f9dc3e2e10bf4a", null ]
+    [ "npc_fel_guard_houndAI", "da/d60/a24084.html#af8b3a9b56e4bdf8d8b654ecccd096651", null ],
+    [ "MovementInform", "da/d60/a24084.html#a127a0d7b61fde64c0ced52192f438f12", null ],
+    [ "Reset", "da/d60/a24084.html#ab979c3602897b1148ffd5d4a81941197", null ],
+    [ "UpdateAI", "da/d60/a24084.html#a97a59eec672d7dfe36264d34b922d0c8", null ],
+    [ "checkTimer", "da/d60/a24084.html#ad22bb6efafb4396cd0137c1384240029", null ],
+    [ "helboarGUID", "da/d60/a24084.html#aadcf9b51dbcaa1e62b6619b89d865814", null ]
 ];

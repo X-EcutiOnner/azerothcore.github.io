@@ -1,6 +1,6 @@
 var a15988 =
 [
-    [ "boss_sartharion_vesperonAI", "db/d87/a15992.html", "db/d87/a15992" ],
-    [ "boss_sartharion_vesperon", "d8/de5/a15988.html#a53af67abd9f9bff7f72ee2441e885500", null ],
-    [ "GetAI", "d8/de5/a15988.html#ad045054b44910461e704c412a524bdc4", null ]
+    [ "HandleScriptEffect", "d8/de5/a15988.html#aaa650972803d14e4d74be977430b04f6", null ],
+    [ "PrepareSpellScript", "d8/de5/a15988.html#a1e166c53e2051f3fae1b085a76a08c3f", null ],
+    [ "Register", "d8/de5/a15988.html#a3405c1b04f2e623662c7acaa6810278c", null ]
 ];

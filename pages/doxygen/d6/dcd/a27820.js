@@ -1,7 +1,6 @@
 var a27820 =
 [
-    [ "HandleDummy", "d6/dcd/a27820.html#ad6d449ac393851166d8be653639c7d05", null ],
-    [ "PrepareSpellScript", "d6/dcd/a27820.html#acb0b66631c0b3df227ee371e2e4000ac", null ],
-    [ "Register", "d6/dcd/a27820.html#a8dcd509be4d9034e8c0262bdcb2cf189", null ],
-    [ "Validate", "d6/dcd/a27820.html#af8f4e6bb32120c8113ddddcda17ae51d", null ]
+    [ "X", "d6/dcd/a27820.html#a55bda49b2eb919415afaf780ca1977de", null ],
+    [ "Y", "d6/dcd/a27820.html#a0bf22799258050a9b12ddc14bb2b4b11", null ],
+    [ "Z", "d6/dcd/a27820.html#a7f0ceece775146d825d19a3cd22e5da3", null ]
 ];

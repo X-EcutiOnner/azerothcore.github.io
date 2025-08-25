@@ -1,6 +1,9 @@
 var a19544 =
 [
-    [ "boss_volkhanAI", "db/db7/a19548.html", "db/db7/a19548" ],
-    [ "boss_volkhan", "d8/d18/a19544.html#a9dcb6026fbf3116df9abf5acaf1bfcc2", null ],
-    [ "GetAI", "d8/d18/a19544.html#aa0f76b387f9f74e0eb6dedd1b44ce34a", null ]
+    [ "npc_stormforged_lieutenantAI", "d8/d18/a19544.html#a74d84534c39e7e6f3774099fd6b28d29", null ],
+    [ "JustEngagedWith", "d8/d18/a19544.html#a112bd4adaa290afd04d229347a96ff4a", null ],
+    [ "Reset", "d8/d18/a19544.html#aaef10316b8f7c3e980082cab722ffe9f", null ],
+    [ "UpdateAI", "d8/d18/a19544.html#a3944886823dad81bcd5d72e020910143", null ],
+    [ "BjarngrimGUID", "d8/d18/a19544.html#a4003deba30ff47ed3296325112b6cb0e", null ],
+    [ "events", "d8/d18/a19544.html#a530d16086a9e613f6f0299186f8bcc33", null ]
 ];

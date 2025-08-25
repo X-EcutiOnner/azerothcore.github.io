@@ -1,7 +1,7 @@
 var a26064 =
 [
-    [ "CheckProc", "d5/d3d/a26064.html#a2052750b91de67b330a2ae6a190a5d4e", null ],
-    [ "HandleProc", "d5/d3d/a26064.html#a5b404a07ccb13cabf5fa6ab90db92129", null ],
-    [ "PrepareAuraScript", "d5/d3d/a26064.html#af16eec48ab0f469ca3cefd149bb0d925", null ],
-    [ "Register", "d5/d3d/a26064.html#a4f31c76184e4ae5bc03763e04cdac72e", null ]
+    [ "CalculateSpellAmount", "d5/d3d/a26064.html#a2f93ff69f30b243fe787d72f78a2d159", null ],
+    [ "CheckCast", "d5/d3d/a26064.html#af043f7ee0f80baf667e64225effd57d1", null ],
+    [ "PrepareSpellScript", "d5/d3d/a26064.html#a233ac4020722078d865cf980d7fa76cf", null ],
+    [ "Register", "d5/d3d/a26064.html#a3648ecd94430e21dd014795156c1eb98", null ]
 ];

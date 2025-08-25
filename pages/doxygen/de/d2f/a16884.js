@@ -1,8 +1,14 @@
 var a16884 =
 [
-    [ "npc_phantom_hallucinationAI", "de/d2f/a16884.html#a7b27d1c859d77220dc1c3c8323e9eef9", null ],
-    [ "EnterEvadeMode", "de/d2f/a16884.html#a7ef7411ea780466d7c4dd185d9444aba", null ],
-    [ "JustDied", "de/d2f/a16884.html#a5a4f05c5930a7e5bd31df2e3131f4cec", null ],
-    [ "UpdateAI", "de/d2f/a16884.html#ad874a741c641dbac6380aa682d582d7c", null ],
-    [ "numOfUpd", "de/d2f/a16884.html#adb78f5dcd272e8223f895079885a5461", null ]
+    [ "boss_marwynAI", "de/d2f/a16884.html#abfc074b89e4edcf461c4df4d00c90856", null ],
+    [ "DoAction", "de/d2f/a16884.html#adc68f202aa2e78bd3a7969bfddcce710", null ],
+    [ "EnterEvadeMode", "de/d2f/a16884.html#acb0b5675c2ff9f614ddafd88ff96e62e", null ],
+    [ "JustDied", "de/d2f/a16884.html#a11f64dbf0333c212584d441d4b719d9c", null ],
+    [ "JustEngagedWith", "de/d2f/a16884.html#ae7509cf8b3b93e97b2e617c1ac181c87", null ],
+    [ "KilledUnit", "de/d2f/a16884.html#a43b40959a22a1767c1c717f5bf7200ad", null ],
+    [ "Reset", "de/d2f/a16884.html#a7433e7ed2007ccde768e1e15640ac99d", null ],
+    [ "UpdateAI", "de/d2f/a16884.html#abaa8f609099423c9d8db5b93f2dd411e", null ],
+    [ "events", "de/d2f/a16884.html#a87c1f1785612cfd42667bd635ce16f2a", null ],
+    [ "pInstance", "de/d2f/a16884.html#a524e6c4145851d67edfdc0d9cb5b2e7c", null ],
+    [ "startFightTimer", "de/d2f/a16884.html#a2a1d7531025f136e368fc7d2b4c0d163", null ]
 ];

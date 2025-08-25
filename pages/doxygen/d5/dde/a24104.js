@@ -1,6 +1,7 @@
 var a24104 =
 [
-    [ "npc_commander_dawnforgeAI", "da/d64/a24108.html", "da/d64/a24108" ],
-    [ "npc_commander_dawnforge", "d5/dde/a24104.html#ab4d430725f68f906e9c8def66b1d6646", null ],
-    [ "GetAI", "d5/dde/a24104.html#a6089b087b7c3b18659e23c677814318b", null ]
+    [ "npc_maghar_captiveAI", "da/d64/a24108.html", "da/d64/a24108" ],
+    [ "npc_maghar_captive", "d5/dde/a24104.html#a59e177f33306ed0bb3de9f640d3685e4", null ],
+    [ "GetAI", "d5/dde/a24104.html#a7f1528549b55edfb5286db4afe6ce50e", null ],
+    [ "OnQuestAccept", "d5/dde/a24104.html#a966fdfe66a65675eb1618b0698dfbb21", null ]
 ];

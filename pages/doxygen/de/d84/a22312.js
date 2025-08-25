@@ -1,6 +1,6 @@
 var a22312 =
 [
-    [ "npc_icefangAI", "d3/d6b/a22316.html", "d3/d6b/a22316" ],
-    [ "npc_icefang", "de/d84/a22312.html#a2e13be89b110abaa2509e597e4cf883a", null ],
-    [ "GetAI", "de/d84/a22312.html#ad1a936b1eef30271912054a817e0c9f8", null ]
+    [ "npc_wild_wyrmAI", "d3/d6b/a22316.html", "d3/d6b/a22316" ],
+    [ "npc_wild_wyrm", "de/d84/a22312.html#abce8c3a368e75b4be5e05381f9eb722b", null ],
+    [ "GetAI", "de/d84/a22312.html#aedba91446fe12997047070f123d925d2", null ]
 ];

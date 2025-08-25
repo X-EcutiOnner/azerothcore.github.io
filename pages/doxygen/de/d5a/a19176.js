@@ -1,17 +1,10 @@
 var a19176 =
 [
-    [ "boss_thaddiusAI", "de/d5a/a19176.html#a8a25d56cb38b755fec6f18a9616632e2", null ],
-    [ "DoAction", "de/d5a/a19176.html#aa9697fa990b9d84f3cc9496df1cb4234", null ],
-    [ "JustDied", "de/d5a/a19176.html#a2ec7bfa46d972cdd857289693acdc965", null ],
-    [ "JustEngagedWith", "de/d5a/a19176.html#a52ec355e0ddd2a29b06b473303941b46", null ],
-    [ "JustSummoned", "de/d5a/a19176.html#a1aa9a09089a2070eda14fda1bc51f0fe", null ],
-    [ "KilledUnit", "de/d5a/a19176.html#a94f7852267620b0a77c2e1003f080589", null ],
-    [ "Reset", "de/d5a/a19176.html#ae7b69b5e83fdbaa3df25dda989eeaf07", null ],
-    [ "UpdateAI", "de/d5a/a19176.html#a5eef08082268fa181d4d396fc952dbcd", null ],
-    [ "ballLightningEnabled", "de/d5a/a19176.html#a487582d59f0d717c3ec53679ad36f99a", null ],
-    [ "events", "de/d5a/a19176.html#a8bf6ea9e5d3d198bccb293d4b4eac784", null ],
-    [ "resetTimer", "de/d5a/a19176.html#aba9f23389d5f6724883dc9f7e607a351", null ],
-    [ "reviveTimer", "de/d5a/a19176.html#a11388e745e81c3ad8ba7d97812a17203", null ],
-    [ "summons", "de/d5a/a19176.html#a7487f79c379ef29b72959708284cfd0d", null ],
-    [ "summonTimer", "de/d5a/a19176.html#a82288ef27f720b5f0f84bfd0ac6b9ccb", null ]
+    [ "boss_patchwerkAI", "de/d5a/a19176.html#a74dfcf9ef921aa2a53d877c0e5ee9a34", null ],
+    [ "JustDied", "de/d5a/a19176.html#aaed18187aa8e0058c70b29b1ccbe955f", null ],
+    [ "JustEngagedWith", "de/d5a/a19176.html#a1317cb819d6247f62e0c6c725157db30", null ],
+    [ "KilledUnit", "de/d5a/a19176.html#a17ccb5b2a1841656813a9408f5a05c4e", null ],
+    [ "Reset", "de/d5a/a19176.html#a1d03058bf53e670f4fe9384e9f047891", null ],
+    [ "UpdateAI", "de/d5a/a19176.html#a2db0df50a0faa88ebeaa035ea048157e", null ],
+    [ "events", "de/d5a/a19176.html#a00c98ee5cdb3c512ba0d92a48d441006", null ]
 ];

@@ -1,6 +1,6 @@
 var a15280 =
 [
-    [ "HandleApply", "d3/da4/a15280.html#aefef61bc68c13b20e9b41a6f148a9599", null ],
-    [ "PrepareAuraScript", "d3/da4/a15280.html#aabe8dc8b99dc455dfcfaf58b64fa3f18", null ],
-    [ "Register", "d3/da4/a15280.html#ade5c710416516760cc69f77750aa2a1f", null ]
+    [ "OnPeriodic", "d3/da4/a15280.html#a5945e24db52c6bacae7221b085dc877b", null ],
+    [ "PrepareAuraScript", "d3/da4/a15280.html#acc987aa864a8333de7bd0b770eb9018d", null ],
+    [ "Register", "d3/da4/a15280.html#a3c5a192302ec6d531037f8b5da1565f2", null ]
 ];

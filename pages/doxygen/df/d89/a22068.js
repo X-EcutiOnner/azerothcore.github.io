@@ -1,6 +1,6 @@
 var a22068 =
 [
-    [ "npc_lord_areteAI", "de/df4/a22072.html", "de/df4/a22072" ],
-    [ "npc_lord_arete", "df/d89/a22068.html#a929e3f3346bf4dbaee127463eaf4ffcc", null ],
-    [ "GetAI", "df/d89/a22068.html#a212d003e9acb5f141197b5c4d10163a4", null ]
+    [ "npc_plaguehound_trackerAI", "de/df4/a22072.html", "de/df4/a22072" ],
+    [ "npc_plaguehound_tracker", "df/d89/a22068.html#a5c2803907cf06bc3e641bbb8171681d3", null ],
+    [ "GetAI", "df/d89/a22068.html#a1ec8f190139b35837a0ce6c4c2f08709", null ]
 ];

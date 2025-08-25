@@ -1,6 +1,7 @@
 var a20292 =
 [
-    [ "HandleAfterEffectApply", "d5/dda/a20292.html#af655bb31dc24a3cede08ca371f784913", null ],
-    [ "PrepareAuraScript", "d5/dda/a20292.html#a1824853d0b369deac0745fabe2df657c", null ],
-    [ "Register", "d5/dda/a20292.html#a33e7c6cab2c99789661e6bb2d6b9a593", null ]
+    [ "HandleEffectPeriodic", "d5/dda/a20292.html#a428d1251465cc9947e7474eab83494e3", null ],
+    [ "PrepareAuraScript", "d5/dda/a20292.html#aa6bfb37f305531f67fa5fad67c83acb9", null ],
+    [ "Register", "d5/dda/a20292.html#a3ccee6d2c8ac244f5370d11b6a4492b6", null ],
+    [ "Validate", "d5/dda/a20292.html#a7d4ede9af946be71bbc5531164ed3f17", null ]
 ];

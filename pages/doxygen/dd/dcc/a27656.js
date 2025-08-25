@@ -1,13 +1,8 @@
 var a27656 =
 [
-    [ "npc_spring_rabbitAI", "dd/dcc/a27656.html#a1211ab47dee4844b90a010c284c4f1a5", null ],
-    [ "DoAction", "dd/dcc/a27656.html#a288ddb2f1ee0ab7113f1a1f34dc545c5", null ],
-    [ "JustEngagedWith", "dd/dcc/a27656.html#a0c36f1dfc094007990f067544a940538", null ],
-    [ "Reset", "dd/dcc/a27656.html#ac0f6b47044099016dd6453674b75b2c8", null ],
-    [ "UpdateAI", "dd/dcc/a27656.html#af9da118068234755fa9219b84050d2a3", null ],
-    [ "bunnyTimer", "dd/dcc/a27656.html#a99c2923194cf6a07bee8924abf98f470", null ],
-    [ "inLove", "dd/dcc/a27656.html#aec8887aedf32fb4ebcc68c48f0ee0ea5", null ],
-    [ "jumpTimer", "dd/dcc/a27656.html#a5c17e00187ac87b23482dfbabb89809b", null ],
-    [ "rabbitGUID", "dd/dcc/a27656.html#af838b25c8442767aaef16e95022cb062", null ],
-    [ "searchTimer", "dd/dcc/a27656.html#af1b82227dadf30c6c796e7b8c2abbe82", null ]
+    [ "npc_wormholeAI", "db/d1a/a27660.html", "db/d1a/a27660" ],
+    [ "npc_wormhole", "dd/dcc/a27656.html#aeace4cbf665409786b86140709191cb0", null ],
+    [ "GetAI", "dd/dcc/a27656.html#af43ec809ce2efe2cd7127029f3c3ec45", null ],
+    [ "OnGossipHello", "dd/dcc/a27656.html#a6ae1a84557f8dc0f0631b9cc7e88d78e", null ],
+    [ "OnGossipSelect", "dd/dcc/a27656.html#a73e441bf05f8a4ea7f57d767945e2d5d", null ]
 ];

@@ -1,7 +1,6 @@
 var a22096 =
 [
-    [ "HandleDummy", "dd/d49/a22096.html#abfb58e49821e6a563940e8ba518db850", null ],
-    [ "PrepareSpellScript", "dd/d49/a22096.html#a61ca2f71b0fa323a54f716415b25b75e", null ],
-    [ "Register", "dd/d49/a22096.html#a7a2cc833ae8d079b821caabf55b6f0e5", null ],
-    [ "Validate", "dd/d49/a22096.html#a21daeadffbfd28621d897dfe67dd11a8", null ]
+    [ "npc_llod_genericAI", "d8/da7/a22100.html", "d8/da7/a22100" ],
+    [ "npc_llod_generic", "dd/d49/a22096.html#a97a3957c4881808facf7910e4ae4ffd4", null ],
+    [ "GetAI", "dd/d49/a22096.html#aeb2e7d9de871686e436d1e55f47085a2", null ]
 ];

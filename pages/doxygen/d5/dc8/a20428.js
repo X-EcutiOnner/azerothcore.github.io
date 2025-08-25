@@ -1,6 +1,6 @@
 var a20428 =
 [
-    [ "npc_ulduar_leviathan_mkiiAI", "df/d76/a20432.html", "df/d76/a20432" ],
-    [ "npc_ulduar_leviathan_mkii", "d5/dc8/a20428.html#a9e4671adcb2409a7c83460d28d29f579", null ],
-    [ "GetAI", "d5/dc8/a20428.html#afe438e97b6989a8899850619c87cd7e6", null ]
+    [ "OnRemoveStun", "d5/dc8/a20428.html#a67aeca34d32c43ff647dc2dbe83cbb7f", null ],
+    [ "PrepareAuraScript", "d5/dc8/a20428.html#a0be1d9a7dcba0bff75d59aed926efe55", null ],
+    [ "Register", "d5/dc8/a20428.html#a3166cfcd2acdcd4460217503d4008367", null ]
 ];

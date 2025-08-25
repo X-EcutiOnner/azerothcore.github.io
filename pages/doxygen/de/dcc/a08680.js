@@ -1,6 +1,11 @@
 var a08680 =
 [
-    [ "SplineHandler", "de/dcc/a08680.html#a7c5aac2d12e13bad1c38c4e8860ed27f", null ],
-    [ "operator()", "de/dcc/a08680.html#aa5d1bddc2435eee76f493229740ecf9e", null ],
-    [ "_unit", "de/dcc/a08680.html#aaafb07271736d8bc89d07aafbbae7f25", null ]
+    [ "UnitActionBarEntry", "de/dcc/a08680.html#a41f9020c4811b14fc543ddece6af86d7", null ],
+    [ "GetAction", "de/dcc/a08680.html#afd77e2f64ec856059759d05ddf77876e", null ],
+    [ "GetType", "de/dcc/a08680.html#a0615e6ad9cf5523d6dc85bd529e65f32", null ],
+    [ "IsActionBarForSpell", "de/dcc/a08680.html#a2af43ec77fcd077b2fe9ca3a6d80123b", null ],
+    [ "SetAction", "de/dcc/a08680.html#aa00953783b0b3de3beb755a054c77730", null ],
+    [ "SetActionAndType", "de/dcc/a08680.html#a110840d38445795957ee0425175b4fb6", null ],
+    [ "SetType", "de/dcc/a08680.html#a38e0dcad391d09e475f90be5a5382f78", null ],
+    [ "packedData", "de/dcc/a08680.html#aa50957a4c707ce3dbdfd62a75e3cb8eb", null ]
 ];

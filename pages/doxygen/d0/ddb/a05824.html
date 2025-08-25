@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: QueryCallback::QueryCallbackData Struct Reference</title>
+<title>AzerothCore: PreparedStatementBase Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,64 +106,88 @@ $(document).ready(function(){initNavTree('d0/ddb/a05824.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pri-methods">Private Member Functions</a> &#124;
-<a href="#pri-attribs">Private Attributes</a> &#124;
+<a href="#pro-methods">Protected Member Functions</a> &#124;
+<a href="#pro-attribs">Protected Attributes</a> &#124;
 <a href="#friends">Friends</a> &#124;
 <a href="../../d5/d9e/a05821.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">QueryCallback::QueryCallbackData Struct Reference</div></div>
+  <div class="headertitle"><div class="title">PreparedStatementBase Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
+
+<p><code>#include &quot;<a class="el" href="../../">PreparedStatement.h</a>&quot;</code></p>
+<div class="dynheader">
+Inheritance diagram for PreparedStatementBase:</div>
+<div class="dyncontent">
+ <div class="center">
+  <img src="../../d0/ddb/a05824.png" usemap="#PreparedStatementBase_map" alt=""/>
+  <map id="PreparedStatementBase_map" name="PreparedStatementBase_map">
+<area href="../../d4/d0d/a05692.html" alt="PreparedStatement&lt; T &gt;" shape="rect" coords="0,56,150,80"/>
+  </map>
+</div></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a43aa5b63c21480a9a02e5b1705f5e46a"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/ddb/a05824.html#a43aa5b63c21480a9a02e5b1705f5e46a">QueryCallbackData</a> (std::function&lt; void(<a class="el" href="../../d3/d10/a05832.html">QueryCallback</a> &amp;, <a class="el" href="../../d2/d29/a04181.html#ab0c9feeec448a181290fcb39565b8253">QueryResult</a>)&gt; &amp;&amp;callback)</td></tr>
-<tr class="separator:a43aa5b63c21480a9a02e5b1705f5e46a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af3d8b55a1a392e1f471bcf7ce16d8f45"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/ddb/a05824.html#af3d8b55a1a392e1f471bcf7ce16d8f45">QueryCallbackData</a> (std::function&lt; void(<a class="el" href="../../d3/d10/a05832.html">QueryCallback</a> &amp;, <a class="el" href="../../d2/d29/a04181.html#ac6110b8d867b5f84f677555d07037acb">PreparedQueryResult</a>)&gt; &amp;&amp;callback)</td></tr>
-<tr class="separator:af3d8b55a1a392e1f471bcf7ce16d8f45"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a81f06a2940c72077d0f8bbe0d6292c5e"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/ddb/a05824.html#a81f06a2940c72077d0f8bbe0d6292c5e">QueryCallbackData</a> (<a class="el" href="../../d0/ddb/a05824.html">QueryCallbackData</a> &amp;&amp;right) noexcept</td></tr>
-<tr class="separator:a81f06a2940c72077d0f8bbe0d6292c5e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a135161ac21cd4f11f2178acc8316afea"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/ddb/a05824.html">QueryCallbackData</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/ddb/a05824.html#a135161ac21cd4f11f2178acc8316afea">operator=</a> (<a class="el" href="../../d0/ddb/a05824.html">QueryCallbackData</a> &amp;&amp;right) noexcept</td></tr>
-<tr class="separator:a135161ac21cd4f11f2178acc8316afea"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7a748ec0f04555caf696be1792701134"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/ddb/a05824.html#a7a748ec0f04555caf696be1792701134">~QueryCallbackData</a> ()</td></tr>
-<tr class="separator:a7a748ec0f04555caf696be1792701134"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af804ff958eb51e96c0deccb59e6c79a6"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/ddb/a05824.html#af804ff958eb51e96c0deccb59e6c79a6">PreparedStatementBase</a> (<a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> index, <a class="el" href="../../d9/d4e/a04307.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> capacity)</td></tr>
+<tr class="separator:af804ff958eb51e96c0deccb59e6c79a6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a96323eed4643ae8016b32215d6a902d4"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/ddb/a05824.html#a96323eed4643ae8016b32215d6a902d4">~PreparedStatementBase</a> ()</td></tr>
+<tr class="separator:a96323eed4643ae8016b32215d6a902d4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a52fc2e65042c1db51f0923725a0f0ed0"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
+<tr class="memitem:a52fc2e65042c1db51f0923725a0f0ed0"><td class="memTemplItemLeft" align="right" valign="top"><a class="el" href="../../d1/daa/a04816.html#a6d4fe40146df0d52c6917d8cc920ac84">Acore::Types::is_default</a>&lt; T &gt;&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d0/ddb/a05824.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a> (const <a class="el" href="../../d9/d4e/a04307.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> index, T value)</td></tr>
+<tr class="separator:a52fc2e65042c1db51f0923725a0f0ed0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:add697e08fa53fa173da40d48fd96fe28"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
+<tr class="memitem:add697e08fa53fa173da40d48fd96fe28"><td class="memTemplItemLeft" align="right" valign="top"><a class="el" href="../../d1/daa/a04816.html#ae544e1b7f5a34959b1b48592f67dd4e7">Acore::Types::is_enum_v</a>&lt; T &gt;&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d0/ddb/a05824.html#add697e08fa53fa173da40d48fd96fe28">SetData</a> (const <a class="el" href="../../d9/d4e/a04307.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> index, T value)</td></tr>
+<tr class="separator:add697e08fa53fa173da40d48fd96fe28"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa71863fdcace3c2fc666a0cf456d9e59"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/ddb/a05824.html#aa71863fdcace3c2fc666a0cf456d9e59">SetData</a> (const <a class="el" href="../../d9/d4e/a04307.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> index, std::string_view value)</td></tr>
+<tr class="separator:aa71863fdcace3c2fc666a0cf456d9e59"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab05be7534a37abc4a7d38edd454ffb05"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/ddb/a05824.html#ab05be7534a37abc4a7d38edd454ffb05">SetData</a> (const <a class="el" href="../../d9/d4e/a04307.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> index, std::nullptr_t=nullptr)</td></tr>
+<tr class="separator:ab05be7534a37abc4a7d38edd454ffb05"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abbd81f270eb6504ed04a661dc6da3139"><td class="memTemplParams" colspan="2">template&lt;std::size_t Size&gt; </td></tr>
+<tr class="memitem:abbd81f270eb6504ed04a661dc6da3139"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d0/ddb/a05824.html#abbd81f270eb6504ed04a661dc6da3139">SetData</a> (const <a class="el" href="../../d9/d4e/a04307.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> index, std::array&lt; <a class="el" href="../../d9/d4e/a04307.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>, Size &gt; const &amp;value)</td></tr>
+<tr class="separator:abbd81f270eb6504ed04a661dc6da3139"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac44341575f53ed539f6ca471d27db9e1"><td class="memTemplParams" colspan="2">template&lt;class _Rep , class _Period &gt; </td></tr>
+<tr class="memitem:ac44341575f53ed539f6ca471d27db9e1"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d0/ddb/a05824.html#ac44341575f53ed539f6ca471d27db9e1">SetData</a> (const <a class="el" href="../../d9/d4e/a04307.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> index, std::chrono::duration&lt; _Rep, _Period &gt; const &amp;value, bool convertToUin32=true)</td></tr>
+<tr class="separator:ac44341575f53ed539f6ca471d27db9e1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4b2ca4e3c01a4a26a42dc3a9a8d03660"><td class="memTemplParams" colspan="2">template&lt;typename... Args&gt; </td></tr>
+<tr class="memitem:a4b2ca4e3c01a4a26a42dc3a9a8d03660"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d0/ddb/a05824.html#a4b2ca4e3c01a4a26a42dc3a9a8d03660">SetArguments</a> (Args &amp;&amp;... args)</td></tr>
+<tr class="separator:a4b2ca4e3c01a4a26a42dc3a9a8d03660"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac5e94130932a8975a95cd830051cbeab"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/ddb/a05824.html#ac5e94130932a8975a95cd830051cbeab">GetIndex</a> () const</td></tr>
+<tr class="separator:ac5e94130932a8975a95cd830051cbeab"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:add343f1f2017791df2434463f6114c68"><td class="memItemLeft" align="right" valign="top">std::vector&lt; <a class="el" href="../../d9/d0b/a05820.html">PreparedStatementData</a> &gt; const &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/ddb/a05824.html#add343f1f2017791df2434463f6114c68">GetParameters</a> () const</td></tr>
+<tr class="separator:add343f1f2017791df2434463f6114c68"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-methods" name="pri-methods"></a>
-Private Member Functions</h2></td></tr>
-<tr class="memitem:aea307606758c54a99e020421acaa5697"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/ddb/a05824.html#aea307606758c54a99e020421acaa5697">QueryCallbackData</a> (<a class="el" href="../../d0/ddb/a05824.html">QueryCallbackData</a> const &amp;)=delete</td></tr>
-<tr class="separator:aea307606758c54a99e020421acaa5697"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5b4baade8dd78ab3dc00e1003f679fb3"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/ddb/a05824.html">QueryCallbackData</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/ddb/a05824.html#a5b4baade8dd78ab3dc00e1003f679fb3">operator=</a> (<a class="el" href="../../d0/ddb/a05824.html">QueryCallbackData</a> const &amp;)=delete</td></tr>
-<tr class="separator:a5b4baade8dd78ab3dc00e1003f679fb3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-methods" name="pro-methods"></a>
+Protected Member Functions</h2></td></tr>
+<tr class="memitem:aa450d6784414246752c84556f6960fc9"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
+<tr class="memitem:aa450d6784414246752c84556f6960fc9"><td class="memTemplItemLeft" align="right" valign="top"><a class="el" href="../../d1/daa/a04816.html#a67eb68c20f5616b2ea2a16a87784360a">Acore::Types::is_non_string_view_v</a>&lt; T &gt;&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d0/ddb/a05824.html#aa450d6784414246752c84556f6960fc9">SetValidData</a> (const <a class="el" href="../../d9/d4e/a04307.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> index, T const &amp;value)</td></tr>
+<tr class="separator:aa450d6784414246752c84556f6960fc9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae206b57c5ba8b621ab2e769089eb8045"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/ddb/a05824.html#ae206b57c5ba8b621ab2e769089eb8045">SetValidData</a> (const <a class="el" href="../../d9/d4e/a04307.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> index)</td></tr>
+<tr class="separator:ae206b57c5ba8b621ab2e769089eb8045"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9dcba27137454af96729a7e3e897f86c"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/ddb/a05824.html#a9dcba27137454af96729a7e3e897f86c">SetValidData</a> (const <a class="el" href="../../d9/d4e/a04307.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> index, std::string_view value)</td></tr>
+<tr class="separator:a9dcba27137454af96729a7e3e897f86c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa4ff9aa53e042d424954b553d6912fa8"><td class="memTemplParams" colspan="2">template&lt;typename... Ts&gt; </td></tr>
+<tr class="memitem:aa4ff9aa53e042d424954b553d6912fa8"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d0/ddb/a05824.html#aa4ff9aa53e042d424954b553d6912fa8">SetDataTuple</a> (std::tuple&lt; Ts... &gt; const &amp;argsList)</td></tr>
+<tr class="separator:aa4ff9aa53e042d424954b553d6912fa8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa7703fa7b7cf7cf033a45cccf4701f48"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/ddb/a05824.html#aa7703fa7b7cf7cf033a45cccf4701f48">PreparedStatementBase</a> (<a class="el" href="../../d0/ddb/a05824.html">PreparedStatementBase</a> const &amp;right)=delete</td></tr>
+<tr class="separator:aa7703fa7b7cf7cf033a45cccf4701f48"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abbf3c9d0f2d066bc40a53d53f45fcb79"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/ddb/a05824.html">PreparedStatementBase</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/ddb/a05824.html#abbf3c9d0f2d066bc40a53d53f45fcb79">operator=</a> (<a class="el" href="../../d0/ddb/a05824.html">PreparedStatementBase</a> const &amp;right)=delete</td></tr>
+<tr class="separator:abbf3c9d0f2d066bc40a53d53f45fcb79"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
-Private Attributes</h2></td></tr>
-<tr class="memitem:a4b0fdb764a5368e5f3860ed34d8af420"><td class="memItemLeft" >union {</td></tr>
-<tr class="memitem:a84d5c86ce5345fd05e5c1114b6772ade"><td class="memItemLeft" >&#160;&#160;&#160;std::function&lt; void(<a class="el" href="../../d3/d10/a05832.html">QueryCallback</a> &amp;, <a class="el" href="../../d2/d29/a04181.html#ab0c9feeec448a181290fcb39565b8253">QueryResult</a>)&gt;&#160;&#160;&#160;<a class="el" href="../../d0/ddb/a05824.html#a384db60c65e7823fdbc0ff430ac8dfe1">_string</a></td></tr>
-<tr class="separator:a84d5c86ce5345fd05e5c1114b6772ade"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a65202f3ca32236e85ca1af860287c791"><td class="memItemLeft" >&#160;&#160;&#160;std::function&lt; void(<a class="el" href="../../d3/d10/a05832.html">QueryCallback</a> &amp;, <a class="el" href="../../d2/d29/a04181.html#ac6110b8d867b5f84f677555d07037acb">PreparedQueryResult</a>)&gt;&#160;&#160;&#160;<a class="el" href="../../d0/ddb/a05824.html#ab87a39965f1ca9d48d6e5a88fde51976">_prepared</a></td></tr>
-<tr class="separator:a65202f3ca32236e85ca1af860287c791"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4b0fdb764a5368e5f3860ed34d8af420"><td class="memItemLeft" valign="top">};&#160;</td><td class="memItemRight" valign="bottom"></td></tr>
-<tr class="separator:a4b0fdb764a5368e5f3860ed34d8af420"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad4e5dcd8f5648dfa36116b9944813ec6"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/ddb/a05824.html#ad4e5dcd8f5648dfa36116b9944813ec6">_isPrepared</a></td></tr>
-<tr class="separator:ad4e5dcd8f5648dfa36116b9944813ec6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-attribs" name="pro-attribs"></a>
+Protected Attributes</h2></td></tr>
+<tr class="memitem:a9af41817061c82bc5498c463b2f0fdf0"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/ddb/a05824.html#a9af41817061c82bc5498c463b2f0fdf0">m_index</a></td></tr>
+<tr class="separator:a9af41817061c82bc5498c463b2f0fdf0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad5e60af68205c6a922b21f52ca3d9109"><td class="memItemLeft" align="right" valign="top">std::vector&lt; <a class="el" href="../../d9/d0b/a05820.html">PreparedStatementData</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/ddb/a05824.html#ad5e60af68205c6a922b21f52ca3d9109">statement_data</a></td></tr>
+<tr class="separator:ad5e60af68205c6a922b21f52ca3d9109"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="friends" name="friends"></a>
 Friends</h2></td></tr>
-<tr class="memitem:a3bf0675bb0e337d06f1e7ef31d7622fe"><td class="memItemLeft" align="right" valign="top">class&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/ddb/a05824.html#a3bf0675bb0e337d06f1e7ef31d7622fe">QueryCallback</a></td></tr>
-<tr class="separator:a3bf0675bb0e337d06f1e7ef31d7622fe"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a63276ee687270e668e7c51876ced5fb1"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
-<tr class="memitem:a63276ee687270e668e7c51876ced5fb1"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d0/ddb/a05824.html#a63276ee687270e668e7c51876ced5fb1">ConstructActiveMember</a> (T *obj)</td></tr>
-<tr class="separator:a63276ee687270e668e7c51876ced5fb1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aac0ba6a0017441eb25c4b294fde99186"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
-<tr class="memitem:aac0ba6a0017441eb25c4b294fde99186"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d0/ddb/a05824.html#aac0ba6a0017441eb25c4b294fde99186">DestroyActiveMember</a> (T *obj)</td></tr>
-<tr class="separator:aac0ba6a0017441eb25c4b294fde99186"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4ef783bc4f06f2cbaec3f4b6ca2c49aa"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
-<tr class="memitem:a4ef783bc4f06f2cbaec3f4b6ca2c49aa"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d0/ddb/a05824.html#a4ef783bc4f06f2cbaec3f4b6ca2c49aa">MoveFrom</a> (T *to, T &amp;&amp;from)</td></tr>
-<tr class="separator:a4ef783bc4f06f2cbaec3f4b6ca2c49aa"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4c1bf9847756076bf3bba7b1178f0f99"><td class="memItemLeft" align="right" valign="top">class&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/ddb/a05824.html#a4c1bf9847756076bf3bba7b1178f0f99">PreparedStatementTask</a></td></tr>
+<tr class="separator:a4c1bf9847756076bf3bba7b1178f0f99"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a43aa5b63c21480a9a02e5b1705f5e46a" name="a43aa5b63c21480a9a02e5b1705f5e46a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a43aa5b63c21480a9a02e5b1705f5e46a">&#9670;&#160;</a></span>QueryCallbackData() <span class="overload">[1/4]</span></h2>
+<a id="af804ff958eb51e96c0deccb59e6c79a6" name="af804ff958eb51e96c0deccb59e6c79a6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af804ff958eb51e96c0deccb59e6c79a6">&#9670;&#160;</a></span>PreparedStatementBase() <span class="overload">[1/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -172,310 +196,16 @@ Friends</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">QueryCallback::QueryCallbackData::QueryCallbackData </td>
+          <td class="memname">PreparedStatementBase::PreparedStatementBase </td>
           <td>(</td>
-          <td class="paramtype">std::function&lt; void(<a class="el" href="../../d3/d10/a05832.html">QueryCallback</a> &amp;, <a class="el" href="../../d2/d29/a04181.html#ab0c9feeec448a181290fcb39565b8253">QueryResult</a>)&gt; &amp;&amp;&#160;</td>
-          <td class="paramname"><em>callback</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   68</span>: <a class="code hl_variable" href="../../d0/ddb/a05824.html#a384db60c65e7823fdbc0ff430ac8dfe1">_string</a>(std::move(callback)), <a class="code hl_variable" href="../../d0/ddb/a05824.html#ad4e5dcd8f5648dfa36116b9944813ec6">_isPrepared</a>(<span class="keyword">false</span>) { }</div>
-<div class="ttc" id="aa05824_html_a384db60c65e7823fdbc0ff430ac8dfe1"><div class="ttname"><a href="../../d0/ddb/a05824.html#a384db60c65e7823fdbc0ff430ac8dfe1">QueryCallback::QueryCallbackData::_string</a></div><div class="ttdeci">std::function&lt; void(QueryCallback &amp;, QueryResult)&gt; _string</div><div class="ttdef"><b>Definition:</b> QueryCallback.cpp:107</div></div>
-<div class="ttc" id="aa05824_html_ad4e5dcd8f5648dfa36116b9944813ec6"><div class="ttname"><a href="../../d0/ddb/a05824.html#ad4e5dcd8f5648dfa36116b9944813ec6">QueryCallback::QueryCallbackData::_isPrepared</a></div><div class="ttdeci">bool _isPrepared</div><div class="ttdef"><b>Definition:</b> QueryCallback.cpp:110</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="af3d8b55a1a392e1f471bcf7ce16d8f45" name="af3d8b55a1a392e1f471bcf7ce16d8f45"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af3d8b55a1a392e1f471bcf7ce16d8f45">&#9670;&#160;</a></span>QueryCallbackData() <span class="overload">[2/4]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">QueryCallback::QueryCallbackData::QueryCallbackData </td>
-          <td>(</td>
-          <td class="paramtype">std::function&lt; void(<a class="el" href="../../d3/d10/a05832.html">QueryCallback</a> &amp;, <a class="el" href="../../d2/d29/a04181.html#ac6110b8d867b5f84f677555d07037acb">PreparedQueryResult</a>)&gt; &amp;&amp;&#160;</td>
-          <td class="paramname"><em>callback</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   69</span>: <a class="code hl_variable" href="../../d0/ddb/a05824.html#ab87a39965f1ca9d48d6e5a88fde51976">_prepared</a>(std::move(callback)), <a class="code hl_variable" href="../../d0/ddb/a05824.html#ad4e5dcd8f5648dfa36116b9944813ec6">_isPrepared</a>(<span class="keyword">true</span>) { }</div>
-<div class="ttc" id="aa05824_html_ab87a39965f1ca9d48d6e5a88fde51976"><div class="ttname"><a href="../../d0/ddb/a05824.html#ab87a39965f1ca9d48d6e5a88fde51976">QueryCallback::QueryCallbackData::_prepared</a></div><div class="ttdeci">std::function&lt; void(QueryCallback &amp;, PreparedQueryResult)&gt; _prepared</div><div class="ttdef"><b>Definition:</b> QueryCallback.cpp:108</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a81f06a2940c72077d0f8bbe0d6292c5e" name="a81f06a2940c72077d0f8bbe0d6292c5e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a81f06a2940c72077d0f8bbe0d6292c5e">&#9670;&#160;</a></span>QueryCallbackData() <span class="overload">[3/4]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">QueryCallback::QueryCallbackData::QueryCallbackData </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/ddb/a05824.html">QueryCallbackData</a> &amp;&amp;&#160;</td>
-          <td class="paramname"><em>right</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">noexcept</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   72</span>    {</div>
-<div class="line"><span class="lineno">   73</span>        <a class="code hl_variable" href="../../d0/ddb/a05824.html#ad4e5dcd8f5648dfa36116b9944813ec6">_isPrepared</a> = right._isPrepared;</div>
-<div class="line"><span class="lineno">   74</span>        <a class="code hl_friend" href="../../d0/ddb/a05824.html#a63276ee687270e668e7c51876ced5fb1">ConstructActiveMember</a>(<span class="keyword">this</span>);</div>
-<div class="line"><span class="lineno">   75</span>        <a class="code hl_friend" href="../../d0/ddb/a05824.html#a4ef783bc4f06f2cbaec3f4b6ca2c49aa">MoveFrom</a>(<span class="keyword">this</span>, std::move(right));</div>
-<div class="line"><span class="lineno">   76</span>    }</div>
-<div class="ttc" id="aa05824_html_a4ef783bc4f06f2cbaec3f4b6ca2c49aa"><div class="ttname"><a href="../../d0/ddb/a05824.html#a4ef783bc4f06f2cbaec3f4b6ca2c49aa">QueryCallback::QueryCallbackData::MoveFrom</a></div><div class="ttdeci">friend void MoveFrom(T *to, T &amp;&amp;from)</div><div class="ttdef"><b>Definition:</b> QueryCallback.cpp:53</div></div>
-<div class="ttc" id="aa05824_html_a63276ee687270e668e7c51876ced5fb1"><div class="ttname"><a href="../../d0/ddb/a05824.html#a63276ee687270e668e7c51876ced5fb1">QueryCallback::QueryCallbackData::ConstructActiveMember</a></div><div class="ttdeci">friend void ConstructActiveMember(T *obj)</div><div class="ttdef"><b>Definition:</b> QueryCallback.cpp:35</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00110">_isPrepared</a>, <a class="el" href="../../#l00035">ConstructActiveMember</a>, and <a class="el" href="../../#l00053">MoveFrom</a>.</p>
-
-</div>
-</div>
-<a id="a7a748ec0f04555caf696be1792701134" name="a7a748ec0f04555caf696be1792701134"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7a748ec0f04555caf696be1792701134">&#9670;&#160;</a></span>~QueryCallbackData()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">QueryCallback::QueryCallbackData::~QueryCallbackData </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   95</span>{ <a class="code hl_friend" href="../../d0/ddb/a05824.html#aac0ba6a0017441eb25c4b294fde99186">DestroyActiveMember</a>(<span class="keyword">this</span>); }</div>
-<div class="ttc" id="aa05824_html_aac0ba6a0017441eb25c4b294fde99186"><div class="ttname"><a href="../../d0/ddb/a05824.html#aac0ba6a0017441eb25c4b294fde99186">QueryCallback::QueryCallbackData::DestroyActiveMember</a></div><div class="ttdeci">friend void DestroyActiveMember(T *obj)</div><div class="ttdef"><b>Definition:</b> QueryCallback.cpp:44</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00044">DestroyActiveMember</a>.</p>
-
-</div>
-</div>
-<a id="aea307606758c54a99e020421acaa5697" name="aea307606758c54a99e020421acaa5697"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aea307606758c54a99e020421acaa5697">&#9670;&#160;</a></span>QueryCallbackData() <span class="overload">[4/4]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">QueryCallback::QueryCallbackData::QueryCallbackData </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/ddb/a05824.html">QueryCallbackData</a> const &amp;&#160;</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span><span class="mlabel">delete</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<h2 class="groupheader">Member Function Documentation</h2>
-<a id="a135161ac21cd4f11f2178acc8316afea" name="a135161ac21cd4f11f2178acc8316afea"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a135161ac21cd4f11f2178acc8316afea">&#9670;&#160;</a></span>operator=() <span class="overload">[1/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/ddb/a05824.html">QueryCallbackData</a> &amp; QueryCallback::QueryCallbackData::operator= </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/ddb/a05824.html">QueryCallbackData</a> &amp;&amp;&#160;</td>
-          <td class="paramname"><em>right</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">noexcept</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   79</span>    {</div>
-<div class="line"><span class="lineno">   80</span>        <span class="keywordflow">if</span> (<span class="keyword">this</span> != &amp;right)</div>
-<div class="line"><span class="lineno">   81</span>        {</div>
-<div class="line"><span class="lineno">   82</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d0/ddb/a05824.html#ad4e5dcd8f5648dfa36116b9944813ec6">_isPrepared</a> != right._isPrepared)</div>
-<div class="line"><span class="lineno">   83</span>            {</div>
-<div class="line"><span class="lineno">   84</span>                <a class="code hl_friend" href="../../d0/ddb/a05824.html#aac0ba6a0017441eb25c4b294fde99186">DestroyActiveMember</a>(<span class="keyword">this</span>);</div>
-<div class="line"><span class="lineno">   85</span>                <a class="code hl_variable" href="../../d0/ddb/a05824.html#ad4e5dcd8f5648dfa36116b9944813ec6">_isPrepared</a> = right._isPrepared;</div>
-<div class="line"><span class="lineno">   86</span>                <a class="code hl_friend" href="../../d0/ddb/a05824.html#a63276ee687270e668e7c51876ced5fb1">ConstructActiveMember</a>(<span class="keyword">this</span>);</div>
-<div class="line"><span class="lineno">   87</span>            }</div>
-<div class="line"><span class="lineno">   88</span> </div>
-<div class="line"><span class="lineno">   89</span>            <a class="code hl_friend" href="../../d0/ddb/a05824.html#a4ef783bc4f06f2cbaec3f4b6ca2c49aa">MoveFrom</a>(<span class="keyword">this</span>, std::move(right));</div>
-<div class="line"><span class="lineno">   90</span>        }</div>
-<div class="line"><span class="lineno">   91</span> </div>
-<div class="line"><span class="lineno">   92</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
-<div class="line"><span class="lineno">   93</span>    }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00110">_isPrepared</a>, <a class="el" href="../../#l00035">ConstructActiveMember</a>, <a class="el" href="../../#l00044">DestroyActiveMember</a>, and <a class="el" href="../../#l00053">MoveFrom</a>.</p>
-
-</div>
-</div>
-<a id="a5b4baade8dd78ab3dc00e1003f679fb3" name="a5b4baade8dd78ab3dc00e1003f679fb3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5b4baade8dd78ab3dc00e1003f679fb3">&#9670;&#160;</a></span>operator=() <span class="overload">[2/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/ddb/a05824.html">QueryCallbackData</a> &amp; QueryCallback::QueryCallbackData::operator= </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/ddb/a05824.html">QueryCallbackData</a> const &amp;&#160;</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span><span class="mlabel">delete</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<h2 class="groupheader">Friends And Related Function Documentation</h2>
-<a id="a63276ee687270e668e7c51876ced5fb1" name="a63276ee687270e668e7c51876ced5fb1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a63276ee687270e668e7c51876ced5fb1">&#9670;&#160;</a></span>ConstructActiveMember</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;typename T &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void ConstructActiveMember </td>
-          <td>(</td>
-          <td class="paramtype">T *&#160;</td>
-          <td class="paramname"><em>obj</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">friend</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   36</span>{</div>
-<div class="line"><span class="lineno">   37</span>    <span class="keywordflow">if</span> (!obj-&gt;_isPrepared)</div>
-<div class="line"><span class="lineno">   38</span>        <a class="code hl_function" href="../../d7/ded/a04130.html#a0e2a26009ee3d271eeacbb20a20e930b">Construct</a>(obj-&gt;_string);</div>
-<div class="line"><span class="lineno">   39</span>    <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">   40</span>        <a class="code hl_function" href="../../d7/ded/a04130.html#a0e2a26009ee3d271eeacbb20a20e930b">Construct</a>(obj-&gt;_prepared);</div>
-<div class="line"><span class="lineno">   41</span>}</div>
-<div class="ttc" id="aa04130_html_a0e2a26009ee3d271eeacbb20a20e930b"><div class="ttname"><a href="../../d7/ded/a04130.html#a0e2a26009ee3d271eeacbb20a20e930b">Construct</a></div><div class="ttdeci">void Construct(T &amp;t, Args &amp;&amp;... args)</div><div class="ttdef"><b>Definition:</b> QueryCallback.cpp:23</div></div>
-</div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00078">operator=()</a>, and <a class="el" href="../../#l00071">QueryCallbackData()</a>.</p>
-
-</div>
-</div>
-<a id="aac0ba6a0017441eb25c4b294fde99186" name="aac0ba6a0017441eb25c4b294fde99186"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aac0ba6a0017441eb25c4b294fde99186">&#9670;&#160;</a></span>DestroyActiveMember</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;typename T &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void DestroyActiveMember </td>
-          <td>(</td>
-          <td class="paramtype">T *&#160;</td>
-          <td class="paramname"><em>obj</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">friend</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   45</span>{</div>
-<div class="line"><span class="lineno">   46</span>    <span class="keywordflow">if</span> (!obj-&gt;_isPrepared)</div>
-<div class="line"><span class="lineno">   47</span>        <a class="code hl_enumvalue" href="../../d3/da5/a01598.html#af16a38362829ad78e87eae277ce8b837a0e181f89f47654b86f3beb42f5cc08b8">Destroy</a>(obj-&gt;_string);</div>
-<div class="line"><span class="lineno">   48</span>    <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">   49</span>        <a class="code hl_enumvalue" href="../../d3/da5/a01598.html#af16a38362829ad78e87eae277ce8b837a0e181f89f47654b86f3beb42f5cc08b8">Destroy</a>(obj-&gt;_prepared);</div>
-<div class="line"><span class="lineno">   50</span>}</div>
-<div class="ttc" id="aa01598_html_af16a38362829ad78e87eae277ce8b837a0e181f89f47654b86f3beb42f5cc08b8"><div class="ttname"><a href="../../d3/da5/a01598.html#af16a38362829ad78e87eae277ce8b837a0e181f89f47654b86f3beb42f5cc08b8">GameObjectActions::Destroy</a></div><div class="ttdeci">@ Destroy</div></div>
-</div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00078">operator=()</a>, and <a class="el" href="../../#l00095">~QueryCallbackData()</a>.</p>
-
-</div>
-</div>
-<a id="a4ef783bc4f06f2cbaec3f4b6ca2c49aa" name="a4ef783bc4f06f2cbaec3f4b6ca2c49aa"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4ef783bc4f06f2cbaec3f4b6ca2c49aa">&#9670;&#160;</a></span>MoveFrom</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;typename T &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void MoveFrom </td>
-          <td>(</td>
-          <td class="paramtype">T *&#160;</td>
-          <td class="paramname"><em>to</em>, </td>
+          <td class="paramtype"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>index</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">T &amp;&amp;&#160;</td>
-          <td class="paramname"><em>from</em>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d9/d4e/a04307.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td>
+          <td class="paramname"><em>capacity</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -485,26 +215,20 @@ template&lt;typename T &gt; </div>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">friend</span></span>  </td>
+<span class="mlabels"><span class="mlabel">explicit</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   54</span>{</div>
-<div class="line"><span class="lineno">   55</span>    <a class="code hl_define" href="../../d9/d98/a04610.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(to-&gt;_isPrepared == from._isPrepared);</div>
-<div class="line"><span class="lineno">   56</span> </div>
-<div class="line"><span class="lineno">   57</span>    <span class="keywordflow">if</span> (!to-&gt;_isPrepared)</div>
-<div class="line"><span class="lineno">   58</span>        to-&gt;_string = std::move(from._string);</div>
-<div class="line"><span class="lineno">   59</span>    <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">   60</span>        to-&gt;_prepared = std::move(from._prepared);</div>
-<div class="line"><span class="lineno">   61</span>}</div>
-<div class="ttc" id="aa04610_html_af343b20373ba49a92fce523e948f2ab3"><div class="ttname"><a href="../../d9/d98/a04610.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a></div><div class="ttdeci">#define ASSERT</div><div class="ttdef"><b>Definition:</b> Errors.h:68</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   25</span>                                                                         :</div>
+<div class="line"><span class="lineno">   26</span>    <a class="code hl_variable" href="../../d0/ddb/a05824.html#a9af41817061c82bc5498c463b2f0fdf0">m_index</a>(index),</div>
+<div class="line"><span class="lineno">   27</span>    <a class="code hl_variable" href="../../d0/ddb/a05824.html#ad5e60af68205c6a922b21f52ca3d9109">statement_data</a>(capacity) { }</div>
+<div class="ttc" id="aa05824_html_a9af41817061c82bc5498c463b2f0fdf0"><div class="ttname"><a href="../../d0/ddb/a05824.html#a9af41817061c82bc5498c463b2f0fdf0">PreparedStatementBase::m_index</a></div><div class="ttdeci">uint32 m_index</div><div class="ttdef"><b>Definition:</b> PreparedStatement.h:146</div></div>
+<div class="ttc" id="aa05824_html_ad5e60af68205c6a922b21f52ca3d9109"><div class="ttname"><a href="../../d0/ddb/a05824.html#ad5e60af68205c6a922b21f52ca3d9109">PreparedStatementBase::statement_data</a></div><div class="ttdeci">std::vector&lt; PreparedStatementData &gt; statement_data</div><div class="ttdef"><b>Definition:</b> PreparedStatement.h:149</div></div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00078">operator=()</a>, and <a class="el" href="../../#l00071">QueryCallbackData()</a>.</p>
-
 </div>
 </div>
-<a id="a3bf0675bb0e337d06f1e7ef31d7622fe" name="a3bf0675bb0e337d06f1e7ef31d7622fe"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3bf0675bb0e337d06f1e7ef31d7622fe">&#9670;&#160;</a></span>QueryCallback</h2>
+<a id="a96323eed4643ae8016b32215d6a902d4" name="a96323eed4643ae8016b32215d6a902d4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a96323eed4643ae8016b32215d6a902d4">&#9670;&#160;</a></span>~PreparedStatementBase()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -513,7 +237,589 @@ template&lt;typename T &gt; </div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">friend class <a class="el" href="../../d3/d10/a05832.html">QueryCallback</a></td>
+          <td class="memname">PreparedStatementBase::~PreparedStatementBase </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   29</span>{ }</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="aa7703fa7b7cf7cf033a45cccf4701f48" name="aa7703fa7b7cf7cf033a45cccf4701f48"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa7703fa7b7cf7cf033a45cccf4701f48">&#9670;&#160;</a></span>PreparedStatementBase() <span class="overload">[2/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">PreparedStatementBase::PreparedStatementBase </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/ddb/a05824.html">PreparedStatementBase</a> const &amp;&#160;</td>
+          <td class="paramname"><em>right</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span><span class="mlabel">delete</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="ac5e94130932a8975a95cd830051cbeab" name="ac5e94130932a8975a95cd830051cbeab"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac5e94130932a8975a95cd830051cbeab">&#9670;&#160;</a></span>GetIndex()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> PreparedStatementBase::GetIndex </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  123</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d0/ddb/a05824.html#a9af41817061c82bc5498c463b2f0fdf0">m_index</a>; }</div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00253">MySQLConnection::_Query()</a>, <a class="el" href="../../#l00110">MySQLPreparedStatement::AssertValidIndex()</a>, <a class="el" href="../../#l00068">MySQLPreparedStatement::BindParameters()</a>, and <a class="el" href="../../#l00202">MySQLConnection::Execute()</a>.</p>
+
+</div>
+</div>
+<a id="add343f1f2017791df2434463f6114c68" name="add343f1f2017791df2434463f6114c68"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#add343f1f2017791df2434463f6114c68">&#9670;&#160;</a></span>GetParameters()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::vector&lt; <a class="el" href="../../d9/d0b/a05820.html">PreparedStatementData</a> &gt; const  &amp; PreparedStatementBase::GetParameters </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  124</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d0/ddb/a05824.html#ad5e60af68205c6a922b21f52ca3d9109">statement_data</a>; }</div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00068">MySQLPreparedStatement::BindParameters()</a>, and <a class="el" href="../../#l00189">MySQLPreparedStatement::getQueryString()</a>.</p>
+
+</div>
+</div>
+<a id="abbf3c9d0f2d066bc40a53d53f45fcb79" name="abbf3c9d0f2d066bc40a53d53f45fcb79"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abbf3c9d0f2d066bc40a53d53f45fcb79">&#9670;&#160;</a></span>operator=()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/ddb/a05824.html">PreparedStatementBase</a> &amp; PreparedStatementBase::operator= </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/ddb/a05824.html">PreparedStatementBase</a> const &amp;&#160;</td>
+          <td class="paramname"><em>right</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span><span class="mlabel">delete</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a4b2ca4e3c01a4a26a42dc3a9a8d03660" name="a4b2ca4e3c01a4a26a42dc3a9a8d03660"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4b2ca4e3c01a4a26a42dc3a9a8d03660">&#9670;&#160;</a></span>SetArguments()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename... Args&gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void PreparedStatementBase::SetArguments </td>
+          <td>(</td>
+          <td class="paramtype">Args &amp;&amp;...&#160;</td>
+          <td class="paramname"><em>args</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  119</span>    {</div>
+<div class="line"><span class="lineno">  120</span>        <a class="code hl_function" href="../../d0/ddb/a05824.html#aa4ff9aa53e042d424954b553d6912fa8">SetDataTuple</a>(std::make_tuple(std::forward&lt;Args&gt;(args)...));</div>
+<div class="line"><span class="lineno">  121</span>    }</div>
+<div class="ttc" id="aa05824_html_aa4ff9aa53e042d424954b553d6912fa8"><div class="ttname"><a href="../../d0/ddb/a05824.html#aa4ff9aa53e042d424954b553d6912fa8">PreparedStatementBase::SetDataTuple</a></div><div class="ttdeci">void SetDataTuple(std::tuple&lt; Ts... &gt; const &amp;argsList)</div><div class="ttdef"><b>Definition:</b> PreparedStatement.h:134</div></div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l07596">Player::_SaveSeasonalQuestStatus()</a>, and <a class="el" href="../../#l00739">wp_commandscript::HandleWpShowCommand()</a>.</p>
+
+</div>
+</div>
+<a id="abbd81f270eb6504ed04a661dc6da3139" name="abbd81f270eb6504ed04a661dc6da3139"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abbd81f270eb6504ed04a661dc6da3139">&#9670;&#160;</a></span>SetData() <span class="overload">[1/6]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;std::size_t Size&gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void PreparedStatementBase::SetData </td>
+          <td>(</td>
+          <td class="paramtype">const <a class="el" href="../../d9/d4e/a04307.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td>
+          <td class="paramname"><em>index</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">std::array&lt; <a class="el" href="../../d9/d4e/a04307.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>, Size &gt; const &amp;&#160;</td>
+          <td class="paramname"><em>value</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  104</span>    {</div>
+<div class="line"><span class="lineno">  105</span>        std::vector&lt;uint8&gt; vec(value.begin(), value.end());</div>
+<div class="line"><span class="lineno">  106</span>        <a class="code hl_function" href="../../d0/ddb/a05824.html#aa450d6784414246752c84556f6960fc9">SetValidData</a>(index, vec);</div>
+<div class="line"><span class="lineno">  107</span>    }</div>
+<div class="ttc" id="aa05824_html_aa450d6784414246752c84556f6960fc9"><div class="ttname"><a href="../../d0/ddb/a05824.html#aa450d6784414246752c84556f6960fc9">PreparedStatementBase::SetValidData</a></div><div class="ttdeci">Acore::Types::is_non_string_view_v&lt; T &gt; SetValidData(const uint8 index, T const &amp;value)</div><div class="ttdef"><b>Definition:</b> PreparedStatement.cpp:33</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="ac44341575f53ed539f6ca471d27db9e1" name="ac44341575f53ed539f6ca471d27db9e1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac44341575f53ed539f6ca471d27db9e1">&#9670;&#160;</a></span>SetData() <span class="overload">[2/6]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class _Rep , class _Period &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void PreparedStatementBase::SetData </td>
+          <td>(</td>
+          <td class="paramtype">const <a class="el" href="../../d9/d4e/a04307.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td>
+          <td class="paramname"><em>index</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">std::chrono::duration&lt; _Rep, _Period &gt; const &amp;&#160;</td>
+          <td class="paramname"><em>value</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>convertToUin32</em> = <code>true</code>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  112</span>    {</div>
+<div class="line"><span class="lineno">  113</span>        <a class="code hl_function" href="../../d0/ddb/a05824.html#aa450d6784414246752c84556f6960fc9">SetValidData</a>(index, convertToUin32 ? <span class="keyword">static_cast&lt;</span><a class="code hl_typedef" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a><span class="keyword">&gt;</span>(value.count()) : value.count());</div>
+<div class="line"><span class="lineno">  114</span>    }</div>
+<div class="ttc" id="aa04307_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="ab05be7534a37abc4a7d38edd454ffb05" name="ab05be7534a37abc4a7d38edd454ffb05"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab05be7534a37abc4a7d38edd454ffb05">&#9670;&#160;</a></span>SetData() <span class="overload">[3/6]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void PreparedStatementBase::SetData </td>
+          <td>(</td>
+          <td class="paramtype">const <a class="el" href="../../d9/d4e/a04307.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td>
+          <td class="paramname"><em>index</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">std::nullptr_t&#160;</td>
+          <td class="paramname"> = <code>nullptr</code>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   97</span>    {</div>
+<div class="line"><span class="lineno">   98</span>        <a class="code hl_function" href="../../d0/ddb/a05824.html#aa450d6784414246752c84556f6960fc9">SetValidData</a>(index);</div>
+<div class="line"><span class="lineno">   99</span>    }</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="aa71863fdcace3c2fc666a0cf456d9e59" name="aa71863fdcace3c2fc666a0cf456d9e59"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa71863fdcace3c2fc666a0cf456d9e59">&#9670;&#160;</a></span>SetData() <span class="overload">[4/6]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void PreparedStatementBase::SetData </td>
+          <td>(</td>
+          <td class="paramtype">const <a class="el" href="../../d9/d4e/a04307.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td>
+          <td class="paramname"><em>index</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">std::string_view&#160;</td>
+          <td class="paramname"><em>value</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   91</span>    {</div>
+<div class="line"><span class="lineno">   92</span>        <a class="code hl_function" href="../../d0/ddb/a05824.html#aa450d6784414246752c84556f6960fc9">SetValidData</a>(index, value);</div>
+<div class="line"><span class="lineno">   93</span>    }</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a52fc2e65042c1db51f0923725a0f0ed0" name="a52fc2e65042c1db51f0923725a0f0ed0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a52fc2e65042c1db51f0923725a0f0ed0">&#9670;&#160;</a></span>SetData() <span class="overload">[5/6]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d1/daa/a04816.html#a6d4fe40146df0d52c6917d8cc920ac84">Acore::Types::is_default</a>&lt; T &gt; PreparedStatementBase::SetData </td>
+          <td>(</td>
+          <td class="paramtype">const <a class="el" href="../../d9/d4e/a04307.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td>
+          <td class="paramname"><em>index</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">T&#160;</td>
+          <td class="paramname"><em>value</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   78</span>    {</div>
+<div class="line"><span class="lineno">   79</span>        <a class="code hl_function" href="../../d0/ddb/a05824.html#aa450d6784414246752c84556f6960fc9">SetValidData</a>(index, value);</div>
+<div class="line"><span class="lineno">   80</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l02408">Guild::_CreateDefaultGuildRanks()</a>, <a class="el" href="../../#l02384">Guild::_CreateNewBankTab()</a>, <a class="el" href="../../#l00820">Guild::_DeleteMemberFromDB()</a>, <a class="el" href="../../#l15749">Player::_LoadBrewOfTheMonth()</a>, <a class="el" href="../../#l07002">Player::_LoadHomeBind()</a>, <a class="el" href="../../#l05974">Player::_LoadItem()</a>, <a class="el" href="../../#l06110">Player::_LoadMailedItem()</a>, <a class="el" href="../../#l13638">Player::_LoadSkills()</a>, <a class="el" href="../../#l02476">Guild::_ModifyBankMoney()</a>, <a class="el" href="../../#l00561">InstanceSaveMgr::_ResetOrWarnAll()</a>, <a class="el" href="../../#l00509">InstanceSaveMgr::_ResetSave()</a>, <a class="el" href="../../#l07149">Player::_SaveActions()</a>, <a class="el" href="../../#l01696">Pet::_SaveAuras()</a>, <a class="el" href="../../#l07197">Player::_SaveAuras()</a>, <a class="el" href="../../#l14649">Player::_SaveCharacter()</a>, <a class="el" href="../../#l07535">Player::_SaveDailyQuestStatus()</a>, <a class="el" href="../../#l14566">Player::_SaveEntryPoint()</a>, <a class="el" href="../../#l14515">Player::_SaveEquipmentSets()</a>, <a class="el" href="../../#l14948">Player::_SaveGlyphs()</a>, <a class="el" href="../../#l15838">Player::_SaveInstanceTimeRestrictions()</a>, <a class="el" href="../../#l07255">Player::_SaveInventory()</a>, <a class="el" href="../../#l07393">Player::_SaveMail()</a>, <a class="el" href="../../#l07630">Player::_SaveMonthlyQuestStatus()</a>, <a class="el" href="../../#l07468">Player::_SaveQuestStatus()</a>, <a class="el" href="../../#l07596">Player::_SaveSeasonalQuestStatus()</a>, <a class="el" href="../../#l07652">Player::_SaveSkills()</a>, <a class="el" href="../../#l01520">Pet::_SaveSpellCooldowns()</a>, <a class="el" href="../../#l03648">Player::_SaveSpellCooldowns()</a>, <a class="el" href="../../#l01567">Pet::_SaveSpells()</a>, <a class="el" href="../../#l07708">Player::_SaveSpells()</a>, <a class="el" href="../../#l07755">Player::_SaveStats()</a>, <a class="el" href="../../#l14992">Player::_SaveTalents()</a>, <a class="el" href="../../#l00095">lfg::LFGMgr::_SaveToDB()</a>, <a class="el" href="../../#l07573">Player::_SaveWeeklyQuestStatus()</a>, <a class="el" href="../../#l02495">Guild::_SetLeaderGUID()</a>, <a class="el" href="../../#l01592">World::_UpdateRealmCharCount()</a>, <a class="el" href="../../#l00029">AppenderDB::_write()</a>, <a class="el" href="../../#l00092">AccountActionIpLogger::AccountIPLogAction()</a>, <a class="el" href="../../#l15037">Player::ActivateSpec()</a>, <a class="el" href="../../#l00123">Channel::AddChannelBanToDB()</a>, <a class="el" href="../../#l09181">ObjectMgr::AddGameTele()</a>, <a class="el" href="../../#l00285">Graveyard::AddGraveyardLink()</a>, <a class="el" href="../../#l02178">Guild::AddMember()</a>, <a class="el" href="../../#l00092">ArenaTeam::AddMember()</a>, <a class="el" href="../../#l00390">Group::AddMember()</a>, <a class="el" href="../../#l00083">LootItemStorage::AddNewStoredLoot()</a>, <a class="el" href="../../#l08548">ObjectMgr::AddProfanityPlayerName()</a>, <a class="el" href="../../#l08445">ObjectMgr::AddReservedPlayerName()</a>, <a class="el" href="../../#l01778">Pet::addSpell()</a>, <a class="el" href="../../#l00040">PlayerSocial::AddToSocialList()</a>, <a class="el" href="../../#l09627">ObjectMgr::AddVendorItem()</a>, <a class="el" href="../../#l00038">BanMgr::BanAccount()</a>, <a class="el" href="../../#l00100">BanMgr::BanAccountByPlayerName()</a>, <a class="el" href="../../#l00224">BanMgr::BanCharacter()</a>, <a class="el" href="../../#l00166">BanMgr::BanIP()</a>, <a class="el" href="../../#l00068">AccountMgr::ChangeEmail()</a>, <a class="el" href="../../#l00712">Group::ChangeLeader()</a>, <a class="el" href="../../#l02323">Guild::ChangeMemberRank()</a>, <a class="el" href="../../#l01808">Group::ChangeMembersGroup()</a>, <a class="el" href="../../#l00205">AccountMgr::ChangePassword()</a>, <a class="el" href="../../#l00568">Guild::Member::ChangeRank()</a>, <a class="el" href="../../#l00171">AccountMgr::ChangeUsername()</a>, <a class="el" href="../../#l00029">Channel::Channel()</a>, <a class="el" href="../../#l00208">CharacterActionIpLogger::CharacterIPLogAction()</a>, <a class="el" href="../../#l00279">AccountMgr::CheckPassword()</a>, <a class="el" href="../../#l00140">Channel::CleanOldChannelsInDB()</a>, <a class="el" href="../../#l01264">Item::ClearSoulboundTradeable()</a>, <a class="el" href="../../#l03136">AchievementGlobalMgr::CompletedAchievementForOfflinePlayer()</a>, <a class="el" href="../../#l00260">Group::ConvertToLFG()</a>, <a class="el" href="../../#l00292">Group::ConvertToRaid()</a>, <a class="el" href="../../#l00050">ArenaTeam::Create()</a>, <a class="el" href="../../#l00108">Group::Create()</a>, <a class="el" href="../../#l01049">Guild::Create()</a>, <a class="el" href="../../#l00031">AccountMgr::CreateAccount()</a>, <a class="el" href="../../#l00286">Guild::RankInfo::CreateMissingTabsIfNeeded()</a>, <a class="el" href="../../#l00114">Player::Customize()</a>, <a class="el" href="../../#l00151">OPvPCapturePoint::DelCreature()</a>, <a class="el" href="../../#l00095">AccountMgr::DeleteAccount()</a>, <a class="el" href="../../#l03008">Map::DeleteCorpseData()</a>, <a class="el" href="../../#l01853">Creature::DeleteFromDB()</a>, <a class="el" href="../../#l01172">GameObject::DeleteFromDB()</a>, <a class="el" href="../../#l00109">GmTicket::DeleteFromDB()</a>, <a class="el" href="../../#l00571">AuctionEntry::DeleteFromDB()</a>, <a class="el" href="../../#l00518">Item::DeleteFromDB()</a>, <a class="el" href="../../#l00124">Corpse::DeleteFromDB()</a>, <a class="el" href="../../#l00599">Pet::DeleteFromDB()</a>, <a class="el" href="../../#l00543">AchievementMgr::DeleteFromDB()</a>, <a class="el" href="../../#l04000">Player::DeleteFromDB()</a>, <a class="el" href="../../#l00532">Item::DeleteFromInventoryDB()</a>, <a class="el" href="../../#l09214">ObjectMgr::DeleteGameTele()</a>, <a class="el" href="../../#l00132">MailDraft::deleteIncludedItems()</a>, <a class="el" href="../../#l00250">InstanceSaveMgr::DeleteInstanceSavedData()</a>, <a class="el" href="../../#l00119">InstanceSaveMgr::DeleteInstanceSaveIfNeeded()</a>, <a class="el" href="../../#l00287">CharacterDeleteActionIpLogger::DeleteIPLogAction()</a>, <a class="el" href="../../#l04362">Player::DeleteOldCharacters()</a>, <a class="el" href="../../#l04397">Player::DeleteOldRecoveryItems()</a>, <a class="el" href="../../#l01190">Item::DeleteRefundDataFromDB()</a>, <a class="el" href="../../#l02413">Map::DeleteRespawnTimesInDB()</a>, <a class="el" href="../../#l00448">DeleteSpellFromAllPlayers()</a>, <a class="el" href="../../#l00327">ArenaTeam::DelMember()</a>, <a class="el" href="../../#l03023">Player::DestroyItem()</a>, <a class="el" href="../../#l01108">Guild::Disband()</a>, <a class="el" href="../../#l00753">Group::Disband()</a>, <a class="el" href="../../#l00386">ArenaTeam::Disband()</a>, <a class="el" href="../../#l00216">ArenaTeamMgr::DistributeArenaPoints()</a>, <a class="el" href="../../#l00831">Battleground::EndBattleground()</a>, <a class="el" href="../../#l00207">Arena::EndBattleground()</a>, <a class="el" href="../../#l01327">BGQueueRemoveEvent::Execute()</a>, <a class="el" href="../../#l06336">Player::GetArenaTeamIdFromDB()</a>, <a class="el" href="../../#l00302">AccountMgr::GetCharactersCount()</a>, <a class="el" href="../../#l00107">character_commandscript::GetDeletedCharacterInfoList()</a>, <a class="el" href="../../#l00236">AccountMgr::GetId()</a>, <a class="el" href="../../#l00264">AccountMgr::GetName()</a>, <a class="el" href="../../#l00245">AccountMgr::GetSecurity()</a>, <a class="el" href="../../#l06350">Player::GetZoneIdFromDB()</a>, <a class="el" href="../../#l00235">account_commandscript::HandleAccountAddonCommand()</a>, <a class="el" href="../../#l00493">account_commandscript::HandleAccountLockIpCommand()</a>, <a class="el" href="../../#l00665">account_commandscript::HandleAccountSetAddonCommand()</a>, <a class="el" href="../../#l00726">account_commandscript::HandleAccountSetGmLevelCommand()</a>, <a class="el" href="../../#l00066">disable_commandscript::HandleAddDisables()</a>, <a class="el" href="../../#l00393">WorldSession::HandleAuctionPlaceBid()</a>, <a class="el" href="../../#l00529">WorldSocket::HandleAuthSession()</a>, <a class="el" href="../../#l00555">WorldSocket::HandleAuthSessionCallback()</a>, <a class="el" href="../../#l00307">ban_commandscript::HandleBanInfoCharacterCommand()</a>, <a class="el" href="../../#l00393">ban_commandscript::HandleBanListAccountCommand()</a>, <a class="el" href="../../#l00498">ban_commandscript::HandleBanListCharacterCommand()</a>, <a class="el" href="../../#l00581">ban_commandscript::HandleBanListIPCommand()</a>, <a class="el" href="../../#l00393">WorldSession::HandleBattleFieldPortOpcode()</a>, <a class="el" href="../../#l00618">WorldSession::HandleBugOpcode()</a>, <a class="el" href="../../#l00908">WorldSession::HandleBuybackItem()</a>, <a class="el" href="../../#l00478">character_commandscript::HandleCharacterChangeFactionCommand()</a>, <a class="el" href="../../#l00502">character_commandscript::HandleCharacterChangeRaceCommand()</a>, <a class="el" href="../../#l00454">character_commandscript::HandleCharacterCustomizeCommand()</a>, <a class="el" href="../../#l00322">character_commandscript::HandleCharacterRenameCommand()</a>, <a class="el" href="../../#l00272">WorldSession::HandleCharCreateOpcode()</a>, <a class="el" href="../../#l01619">WorldSession::HandleCharCustomize()</a>, <a class="el" href="../../#l01659">WorldSession::HandleCharCustomizeCallback()</a>, <a class="el" href="../../#l00255">WorldSession::HandleCharEnumOpcode()</a>, <a class="el" href="../../#l01912">WorldSession::HandleCharFactionOrRaceChange()</a>, <a class="el" href="../../#l01952">WorldSession::HandleCharFactionOrRaceChangeCallback()</a>, <a class="el" href="../../#l01376">WorldSession::HandleCharRenameCallBack()</a>, <a class="el" href="../../#l01343">WorldSession::HandleCharRenameOpcode()</a>, <a class="el" href="../../#l00098">deserter_commandscript::HandleDeserterAdd()</a>, <a class="el" href="../../#l00434">gobject_commandscript::HandleGameObjectNearCommand()</a>, <a class="el" href="../../#l00080">gear_commandscript::HandleGearStatsCommand()</a>, <a class="el" href="../../#l00158">gm_commandscript::HandleGMListFullCommand()</a>, <a class="el" href="../../#l00197">WorldSession::HandleGMSurveySubmit()</a>, <a class="el" href="../../#l00176">item_commandscript::HandleItemRefundCommand()</a>, <a class="el" href="../../#l00053">item_commandscript::HandleItemRestoreCommand()</a>, <a class="el" href="../../#l00114">item_commandscript::HandleItemRestoreListCommand()</a>, <a class="el" href="../../#l00144">list_commandscript::HandleListItemCommand()</a>, <a class="el" href="../../#l00456">AuthSession::HandleLogonProof()</a>, <a class="el" href="../../#l01604">lookup_commandscript::HandleLookupPlayerAccountCommand()</a>, <a class="el" href="../../#l01618">lookup_commandscript::HandleLookupPlayerEmailCommand()</a>, <a class="el" href="../../#l01579">lookup_commandscript::HandleLookupPlayerIpCommand()</a>, <a class="el" href="../../#l00401">WorldSession::HandleMailReturnToSender()</a>, <a class="el" href="../../#l02460">misc_commandscript::HandleMuteCommand()</a>, <a class="el" href="../../#l02662">misc_commandscript::HandleMuteInfoHelper()</a>, <a class="el" href="../../#l01215">npc_commandscript::HandleNpcAddFormationCommand()</a>, <a class="el" href="../../#l00297">npc_commandscript::HandleNpcAddMoveCommand()</a>, <a class="el" href="../../#l00718">npc_commandscript::HandleNpcMoveCommand()</a>, <a class="el" href="../../#l00669">npc_commandscript::HandleNpcNearCommand()</a>, <a class="el" href="../../#l00428">npc_commandscript::HandleNpcSetFactionIdCommand()</a>, <a class="el" href="../../#l00504">npc_commandscript::HandleNpcSetFlagCommand()</a>, <a class="el" href="../../#l01005">npc_commandscript::HandleNpcSetSpawnTimeCommand()</a>, <a class="el" href="../../#l00961">npc_commandscript::HandleNpcSetWanderDistanceCommand()</a>, <a class="el" href="../../#l00204">WorldSession::HandleOpenItemOpcode()</a>, <a class="el" href="../../#l00287">WorldSession::HandleOpenWrappedItemCallback()</a>, <a class="el" href="../../#l00032">WorldSession::HandlePetitionBuyOpcode()</a>, <a class="el" href="../../#l00325">WorldSession::HandlePetitionRenameOpcode()</a>, <a class="el" href="../../#l00390">WorldSession::HandlePetitionSignOpcode()</a>, <a class="el" href="../../#l00827">WorldSession::HandlePetRename()</a>, <a class="el" href="../../#l01974">misc_commandscript::HandlePInfoCommand()</a>, <a class="el" href="../../#l00795">WorldSession::HandlePlayerLoginFromDB()</a>, <a class="el" href="../../#l00048">quest_commandscript::HandleQuestAdd()</a>, <a class="el" href="../../#l00217">quest_commandscript::HandleQuestComplete()</a>, <a class="el" href="../../#l01701">GameEventMgr::HandleQuestComplete()</a>, <a class="el" href="../../#l00127">quest_commandscript::HandleQuestRemove()</a>, <a class="el" href="../../#l00483">quest_commandscript::HandleQuestReward()</a>, <a class="el" href="../../#l00726">AuthSession::HandleRealmList()</a>, <a class="el" href="../../#l00620">AuthSession::HandleReconnectChallenge()</a>, <a class="el" href="../../#l00451">reload_commandscript::HandleReloadCreatureTemplateCommand()</a>, <a class="el" href="../../#l00194">disable_commandscript::HandleRemoveDisables()</a>, <a class="el" href="../../#l01641">Guild::HandleRemoveRank()</a>, <a class="el" href="../../#l00256">WorldSession::HandleReportLag()</a>, <a class="el" href="../../#l00270">reset_commandscript::HandleResetAllCommand()</a>, <a class="el" href="../../#l00173">reset_commandscript::HandleResetSpellsCommand()</a>, <a class="el" href="../../#l00229">reset_commandscript::HandleResetTalentsCommand()</a>, <a class="el" href="../../#l00520">server_commandscript::HandleServerSetMotdCommand()</a>, <a class="el" href="../../#l01295">Guild::HandleSetInfo()</a>, <a class="el" href="../../#l01272">Guild::HandleSetMOTD()</a>, <a class="el" href="../../#l01428">WorldSession::HandleSetPlayerDeclinedNames()</a>, <a class="el" href="../../#l00790">WorldSession::HandleSetSavedInstanceExtend()</a>, <a class="el" href="../../#l00550">WorldSession::HandleStablePet()</a>, <a class="el" href="../../#l00771">WorldSession::HandleStableSwapPet()</a>, <a class="el" href="../../#l00162">tele_commandscript::HandleTeleNameCommand()</a>, <a class="el" href="../../#l00641">WorldSession::HandleTurnInPetitionOpcode()</a>, <a class="el" href="../../#l02941">misc_commandscript::HandleUnFreezeCommand()</a>, <a class="el" href="../../#l02584">misc_commandscript::HandleUnmuteCommand()</a>, <a class="el" href="../../#l00618">WorldSession::HandleUnstablePet()</a>, <a class="el" href="../../#l01455">misc_commandscript::HandleUnstuckCommand()</a>, <a class="el" href="../../#l01087">WorldSession::HandleWhoisOpcode()</a>, <a class="el" href="../../#l00073">wp_commandscript::HandleWpAddCommand()</a>, <a class="el" href="../../#l00271">wp_commandscript::HandleWpEventCommand()</a>, <a class="el" href="../../#l00136">wp_commandscript::HandleWpLoadCommand()</a>, <a class="el" href="../../#l00543">wp_commandscript::HandleWpModifyCommand()</a>, <a class="el" href="../../#l00739">wp_commandscript::HandleWpShowCommand()</a>, <a class="el" href="../../#l00230">wp_commandscript::HandleWpUnLoadCommand()</a>, <a class="el" href="../../#l01269">WorldSession::HandleWrapItemOpcode()</a>, <a class="el" href="../../#l00077">LoginQueryHolder::Initialize()</a>, <a class="el" href="../../#l01457">AccountInfoQueryHolderPerRealm::Initialize()</a>, <a class="el" href="../../#l00165">InstanceSave::InsertToDB()</a>, <a class="el" href="../../#l10165">Player::LeaveAllArenaTeams()</a>, <a class="el" href="../../#l11299">Player::LeaveBattleground()</a>, <a class="el" href="../../#l00069">AutobroadcastMgr::LoadAutobroadcastsLocalized()</a>, <a class="el" href="../../#l00050">ChannelMgr::LoadChannels()</a>, <a class="el" href="../../#l00405">InstanceSaveMgr::LoadCharacterBinds()</a>, <a class="el" href="../../#l02923">AchievementGlobalMgr::LoadCompletedAchievements()</a>, <a class="el" href="../../#l02971">Map::LoadCorpseData()</a>, <a class="el" href="../../#l02239">ObjectMgr::LoadCreatures()</a>, <a class="el" href="../../#l01695">World::LoadDBAllowedSecurityLevel()</a>, <a class="el" href="../../#l00764">PlayerDumpReader::LoadDump()</a>, <a class="el" href="../../#l04925">Player::LoadFromDB()</a>, <a class="el" href="../../#l00419">Item::LoadFromDB()</a>, <a class="el" href="../../#l00618">AchievementMgr::LoadFromDB()</a>, <a class="el" href="../../#l02607">ObjectMgr::LoadGameobjects()</a>, <a class="el" href="../../#l00174">Group::LoadGroupFromDB()</a>, <a class="el" href="../../#l00788">InstanceScript::LoadInstanceSavedGameobjectStateData()</a>, <a class="el" href="../../#l00387">Guild::BankTab::LoadItemFromDB()</a>, <a class="el" href="../../#l00229">Group::LoadMemberFromDB()</a>, <a class="el" href="../../#l00059">PlayerSettingsStore::LoadPlayerSettings()</a>, <a class="el" href="../../#l04882">Player::LoadPositionFromDB()</a>, <a class="el" href="../../#l09428">ObjectMgr::LoadReferenceVendor()</a>, <a class="el" href="../../#l02372">Map::LoadRespawnTimes()</a>, <a class="el" href="../../#l00136">Guild::LogHolder&lt; Guild::EventLogEntry &gt;::LogHolder()</a>, <a class="el" href="../../#l00610">WorldSession::LogoutPlayer()</a>, <a class="el" href="../../#l06320">Player::ModifyArenaPoints()</a>, <a class="el" href="../../#l06304">Player::ModifyHonorPoints()</a>, <a class="el" href="../../#l04616">Player::OfflineResurrect()</a>, <a class="el" href="../../#l00030">ServerMailReward::OnPlayerLogin()</a>, <a class="el" href="../../#l00146">PetLoadQueryHolder::PetLoadQueryHolder()</a>, <a class="el" href="../../#l00637">InstanceSaveMgr::PlayerBindToInstance()</a>, <a class="el" href="../../#l00709">InstanceSaveMgr::PlayerUnbindInstance()</a>, <a class="el" href="../../#l00101">PlayerSettingsStore::PrepareReplaceStatement()</a>, <a class="el" href="../../#l02478">AchievementMgr::ProcessOfflineUpdatesQueue()</a>, <a class="el" href="../../#l01689">WorldSession::recoveryItem()</a>, <a class="el" href="../../#l00108">WaypointMgr::ReloadPath()</a>, <a class="el" href="../../#l14605">Player::RemoveAtLoginFlag()</a>, <a class="el" href="../../#l00272">BanMgr::RemoveBanAccount()</a>, <a class="el" href="../../#l00287">BanMgr::RemoveBanAccountByPlayerName()</a>, <a class="el" href="../../#l00312">BanMgr::RemoveBanCharacter()</a>, <a class="el" href="../../#l00302">BanMgr::RemoveBanIP()</a>, <a class="el" href="../../#l00132">Channel::RemoveChannelBanFromDB()</a>, <a class="el" href="../../#l02327">Map::RemoveCreatureRespawnTime()</a>, <a class="el" href="../../#l00069">LootItemStorage::RemoveEntryFromDB()</a>, <a class="el" href="../../#l00172">CalendarMgr::RemoveEvent()</a>, <a class="el" href="../../#l00074">PlayerSocial::RemoveFromSocialList()</a>, <a class="el" href="../../#l02361">Map::RemoveGORespawnTime()</a>, <a class="el" href="../../#l00313">Graveyard::RemoveGraveyardLink()</a>, <a class="el" href="../../#l00224">CalendarMgr::RemoveInvite()</a>, <a class="el" href="../../#l00546">Group::RemoveMember()</a>, <a class="el" href="../../#l09086">Player::RemovePet()</a>, <a class="el" href="../../#l10097">Player::RemovePetitionsAndSigns()</a>, <a class="el" href="../../#l00278">LootItemStorage::RemoveStoredLoot()</a>, <a class="el" href="../../#l09646">ObjectMgr::RemoveVendorItem()</a>, <a class="el" href="../../#l01747">World::ResetEventSeasonalQuests()</a>, <a class="el" href="../../#l06298">ObjectMgr::ReturnOrDeleteOldMails()</a>, <a class="el" href="../../#l00095">AddonMgr::SaveAddon()</a>, <a class="el" href="../../#l02304">Map::SaveCreatureRespawnTime()</a>, <a class="el" href="../../#l07141">Player::SaveGoldToDB()</a>, <a class="el" href="../../#l02338">Map::SaveGORespawnTime()</a>, <a class="el" href="../../#l00208">WorldState::SaveHelper()</a>, <a class="el" href="../../#l00502">Pet::SavePetToDB()</a>, <a class="el" href="../../#l00084">Player::SavePositionInDB()</a>, <a class="el" href="../../#l00971">PoolMgr::SaveQuestsToDB()</a>, <a class="el" href="../../#l01172">Item::SaveRefundDataToDB()</a>, <a class="el" href="../../#l02557">GameObject::SaveStateToDB()</a>, <a class="el" href="../../#l00090">Corpse::SaveToDB()</a>, <a class="el" href="../../#l00041">InstanceScript::SaveToDB()</a>, <a class="el" href="../../#l00933">ArenaTeam::SaveToDB()</a>, <a class="el" href="../../#l00562">AchievementMgr::SaveToDB()</a>, <a class="el" href="../../#l00336">Item::SaveToDB()</a>, <a class="el" href="../../#l00628">ReputationMgr::SaveToDB()</a>, <a class="el" href="../../#l00578">AuctionEntry::SaveToDB()</a>, <a class="el" href="../../#l00587">Guild::Member::SaveToDB()</a>, <a class="el" href="../../#l00275">Guild::RankInfo::SaveToDB()</a>, <a class="el" href="../../#l00079">GmTicket::SaveToDB()</a>, <a class="el" href="../../#l00179">Guild::EventLogEntry::SaveToDB()</a>, <a class="el" href="../../#l00213">Guild::BankEventLogEntry::SaveToDB()</a>, <a class="el" href="../../#l00701">EmblemInfo::SaveToDB()</a>, <a class="el" href="../../#l01419">Creature::SaveToDB()</a>, <a class="el" href="../../#l01041">GameObject::SaveToDB()</a>, <a class="el" href="../../#l00979">WorldSession::SaveTutorialsData()</a>, <a class="el" href="../../#l01773">GameEventMgr::SaveWorldEventStateToDB()</a>, <a class="el" href="../../#l00115">AuctionHouseMgr::SendAuctionWonMail()</a>, <a class="el" href="../../#l00185">MailDraft::SendMailTo()</a>, <a class="el" href="../../#l00151">MailDraft::SendReturnToSender()</a>, <a class="el" href="../../#l00283">ServerMailMgr::SendServerMail()</a>, <a class="el" href="../../#l00914">WorldSession::SetAccountData()</a>, <a class="el" href="../../#l00342">Guild::RankInfo::SetBankMoneyPerDay()</a>, <a class="el" href="../../#l00359">Guild::RankInfo::SetBankTabSlotsAndRights()</a>, <a class="el" href="../../#l00298">ArenaTeam::SetCaptain()</a>, <a class="el" href="../../#l00738">InstanceScript::SetCompletedEncountersMask()</a>, <a class="el" href="../../#l02106">ObjectMgr::SetCreatureLinkedRespawn()</a>, <a class="el" href="../../#l02083">Group::SetDungeonDifficulty()</a>, <a class="el" href="../../#l00105">PlayerSocial::SetFriendNote()</a>, <a class="el" href="../../#l02412">Group::SetGroupMemberFlag()</a>, <a class="el" href="../../#l04903">Player::SetHomebind()</a>, <a class="el" href="../../#l00439">Guild::BankTab::SetInfo()</a>, <a class="el" href="../../#l00303">World::SetInitialWorldSettings()</a>, <a class="el" href="../../#l00472">Guild::BankTab::SetItem()</a>, <a class="el" href="../../#l00285">ArenaTeam::SetName()</a>, <a class="el" href="../../#l01188">Guild::SetName()</a>, <a class="el" href="../../#l00311">Guild::RankInfo::SetName()</a>, <a class="el" href="../../#l00555">Guild::Member::SetOfficerNote()</a>, <a class="el" href="../../#l00542">Guild::Member::SetPublicNote()</a>, <a class="el" href="../../#l02104">Group::SetRaidDifficulty()</a>, <a class="el" href="../../#l15673">Player::SetRandomWinner()</a>, <a class="el" href="../../#l00325">Guild::RankInfo::SetRights()</a>, <a class="el" href="../../#l00455">Guild::BankTab::SetText()</a>, <a class="el" href="../../#l00160">WorldState::setWorldState()</a>, <a class="el" href="../../#l04720">Player::SpawnCorpseBones()</a>, <a class="el" href="../../#l00459">PoolGroup&lt; T &gt;::SpawnObject()</a>, <a class="el" href="../../#l00168">AuthSession::Start()</a>, <a class="el" href="../../#l00128">WorldSocket::Start()</a>, <a class="el" href="../../#l00421">StartDB()</a>, <a class="el" href="../../#l00193">GameEventMgr::StopEvent()</a>, <a class="el" href="../../#l02531">Player::StoreNewItem()</a>, <a class="el" href="../../#l01092">World::Update()</a>, <a class="el" href="../../#l00053">Player::Update()</a>, <a class="el" href="../../#l00181">WorldSession::UpdateAccountFlag()</a>, <a class="el" href="../../#l03147">AchievementGlobalMgr::UpdateAchievementCriteriaForOfflinePlayer()</a>, <a class="el" href="../../#l00649">Guild::Member::UpdateBankWithdrawValue()</a>, <a class="el" href="../../#l00102">Channel::UpdateChannelInDB()</a>, <a class="el" href="../../#l00116">Channel::UpdateChannelUseageInDB()</a>, <a class="el" href="../../#l00259">CalendarMgr::UpdateEvent()</a>, <a class="el" href="../../#l00274">CalendarMgr::UpdateInvite()</a>, <a class="el" href="../../#l01585">World::UpdateRealmCharCount()</a>, and <a class="el" href="../../#l02193">Player::UpdateSpecCount()</a>.</p>
+
+</div>
+</div>
+<a id="add697e08fa53fa173da40d48fd96fe28" name="add697e08fa53fa173da40d48fd96fe28"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#add697e08fa53fa173da40d48fd96fe28">&#9670;&#160;</a></span>SetData() <span class="overload">[6/6]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d1/daa/a04816.html#ae544e1b7f5a34959b1b48592f67dd4e7">Acore::Types::is_enum_v</a>&lt; T &gt; PreparedStatementBase::SetData </td>
+          <td>(</td>
+          <td class="paramtype">const <a class="el" href="../../d9/d4e/a04307.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td>
+          <td class="paramname"><em>index</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">T&#160;</td>
+          <td class="paramname"><em>value</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   85</span>    {</div>
+<div class="line"><span class="lineno">   86</span>        <a class="code hl_function" href="../../d0/ddb/a05824.html#aa450d6784414246752c84556f6960fc9">SetValidData</a>(index, std::underlying_type_t&lt;T&gt;(value));</div>
+<div class="line"><span class="lineno">   87</span>    }</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="aa4ff9aa53e042d424954b553d6912fa8" name="aa4ff9aa53e042d424954b553d6912fa8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa4ff9aa53e042d424954b553d6912fa8">&#9670;&#160;</a></span>SetDataTuple()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename... Ts&gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void PreparedStatementBase::SetDataTuple </td>
+          <td>(</td>
+          <td class="paramtype">std::tuple&lt; Ts... &gt; const &amp;&#160;</td>
+          <td class="paramname"><em>argsList</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  135</span>    {</div>
+<div class="line"><span class="lineno">  136</span>        std::apply</div>
+<div class="line"><span class="lineno">  137</span>        (</div>
+<div class="line"><span class="lineno">  138</span>            [<span class="keyword">this</span>](Ts <span class="keyword">const</span>&amp;... arguments)</div>
+<div class="line"><span class="lineno">  139</span>            {</div>
+<div class="line"><span class="lineno">  140</span>                <a class="code hl_typedef" href="../../d9/d4e/a04307.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> index{ 0 };</div>
+<div class="line"><span class="lineno">  141</span>                ((<a class="code hl_function" href="../../d0/ddb/a05824.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(index, arguments), index++), ...);</div>
+<div class="line"><span class="lineno">  142</span>            }, argsList</div>
+<div class="line"><span class="lineno">  143</span>        );</div>
+<div class="line"><span class="lineno">  144</span>    }</div>
+<div class="ttc" id="aa04307_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../d9/d4e/a04307.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition:</b> Define.h:109</div></div>
+<div class="ttc" id="aa05824_html_a52fc2e65042c1db51f0923725a0f0ed0"><div class="ttname"><a href="../../d0/ddb/a05824.html#a52fc2e65042c1db51f0923725a0f0ed0">PreparedStatementBase::SetData</a></div><div class="ttdeci">Acore::Types::is_default&lt; T &gt; SetData(const uint8 index, T value)</div><div class="ttdef"><b>Definition:</b> PreparedStatement.h:77</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="ae206b57c5ba8b621ab2e769089eb8045" name="ae206b57c5ba8b621ab2e769089eb8045"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae206b57c5ba8b621ab2e769089eb8045">&#9670;&#160;</a></span>SetValidData() <span class="overload">[1/3]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void PreparedStatementBase::SetValidData </td>
+          <td>(</td>
+          <td class="paramtype">const <a class="el" href="../../d9/d4e/a04307.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td>
+          <td class="paramname"><em>index</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   41</span>{</div>
+<div class="line"><span class="lineno">   42</span>    <a class="code hl_define" href="../../de/dfb/a04616.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(index &lt; <a class="code hl_variable" href="../../d0/ddb/a05824.html#ad5e60af68205c6a922b21f52ca3d9109">statement_data</a>.size());</div>
+<div class="line"><span class="lineno">   43</span>    <a class="code hl_variable" href="../../d0/ddb/a05824.html#ad5e60af68205c6a922b21f52ca3d9109">statement_data</a>[index].data.emplace&lt;std::nullptr_t&gt;(<span class="keyword">nullptr</span>);</div>
+<div class="line"><span class="lineno">   44</span>}</div>
+<div class="ttc" id="aa04616_html_af343b20373ba49a92fce523e948f2ab3"><div class="ttname"><a href="../../de/dfb/a04616.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a></div><div class="ttdeci">#define ASSERT</div><div class="ttdef"><b>Definition:</b> Errors.h:68</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, and <a class="el" href="../../#l00149">statement_data</a>.</p>
+
+</div>
+</div>
+<a id="a9dcba27137454af96729a7e3e897f86c" name="a9dcba27137454af96729a7e3e897f86c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9dcba27137454af96729a7e3e897f86c">&#9670;&#160;</a></span>SetValidData() <span class="overload">[2/3]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void PreparedStatementBase::SetValidData </td>
+          <td>(</td>
+          <td class="paramtype">const <a class="el" href="../../d9/d4e/a04307.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td>
+          <td class="paramname"><em>index</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">std::string_view&#160;</td>
+          <td class="paramname"><em>value</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   47</span>{</div>
+<div class="line"><span class="lineno">   48</span>    <a class="code hl_define" href="../../de/dfb/a04616.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(index &lt; <a class="code hl_variable" href="../../d0/ddb/a05824.html#ad5e60af68205c6a922b21f52ca3d9109">statement_data</a>.size());</div>
+<div class="line"><span class="lineno">   49</span>    <a class="code hl_variable" href="../../d0/ddb/a05824.html#ad5e60af68205c6a922b21f52ca3d9109">statement_data</a>[index].data.emplace&lt;std::string&gt;(value);</div>
+<div class="line"><span class="lineno">   50</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, and <a class="el" href="../../#l00149">statement_data</a>.</p>
+
+</div>
+</div>
+<a id="aa450d6784414246752c84556f6960fc9" name="aa450d6784414246752c84556f6960fc9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa450d6784414246752c84556f6960fc9">&#9670;&#160;</a></span>SetValidData() <span class="overload">[3/3]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d1/daa/a04816.html#a67eb68c20f5616b2ea2a16a87784360a">Acore::Types::is_non_string_view_v</a>&lt; T &gt; PreparedStatementBase::SetValidData </td>
+          <td>(</td>
+          <td class="paramtype">const <a class="el" href="../../d9/d4e/a04307.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td>
+          <td class="paramname"><em>index</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">T const &amp;&#160;</td>
+          <td class="paramname"><em>value</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   34</span>{</div>
+<div class="line"><span class="lineno">   35</span>    <a class="code hl_define" href="../../de/dfb/a04616.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(index &lt; <a class="code hl_variable" href="../../d0/ddb/a05824.html#ad5e60af68205c6a922b21f52ca3d9109">statement_data</a>.size());</div>
+<div class="line"><span class="lineno">   36</span>    <a class="code hl_variable" href="../../d0/ddb/a05824.html#ad5e60af68205c6a922b21f52ca3d9109">statement_data</a>[index].data.emplace&lt;T&gt;(value);</div>
+<div class="line"><span class="lineno">   37</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, and <a class="el" href="../../#l00149">statement_data</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Friends And Related Function Documentation</h2>
+<a id="a4c1bf9847756076bf3bba7b1178f0f99" name="a4c1bf9847756076bf3bba7b1178f0f99"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4c1bf9847756076bf3bba7b1178f0f99">&#9670;&#160;</a></span>PreparedStatementTask</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">friend class <a class="el" href="../../d3/d19/a05828.html">PreparedStatementTask</a></td>
         </tr>
       </table>
   </td>
@@ -526,22 +832,8 @@ template&lt;typename T &gt; </div>
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a4b0fdb764a5368e5f3860ed34d8af420" name="a4b0fdb764a5368e5f3860ed34d8af420"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4b0fdb764a5368e5f3860ed34d8af420">&#9670;&#160;</a></span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">union  { ... }  QueryCallback::QueryCallbackData::@3</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="ad4e5dcd8f5648dfa36116b9944813ec6" name="ad4e5dcd8f5648dfa36116b9944813ec6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad4e5dcd8f5648dfa36116b9944813ec6">&#9670;&#160;</a></span>_isPrepared</h2>
+<a id="a9af41817061c82bc5498c463b2f0fdf0" name="a9af41817061c82bc5498c463b2f0fdf0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9af41817061c82bc5498c463b2f0fdf0">&#9670;&#160;</a></span>m_index</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -550,49 +842,39 @@ template&lt;typename T &gt; </div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">bool QueryCallback::QueryCallbackData::_isPrepared</td>
+          <td class="memname"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> PreparedStatementBase::m_index</td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00078">operator=()</a>, and <a class="el" href="../../#l00071">QueryCallbackData()</a>.</p>
-
 </div>
 </div>
-<a id="ab87a39965f1ca9d48d6e5a88fde51976" name="ab87a39965f1ca9d48d6e5a88fde51976"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab87a39965f1ca9d48d6e5a88fde51976">&#9670;&#160;</a></span>_prepared</h2>
+<a id="ad5e60af68205c6a922b21f52ca3d9109" name="ad5e60af68205c6a922b21f52ca3d9109"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad5e60af68205c6a922b21f52ca3d9109">&#9670;&#160;</a></span>statement_data</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::function&lt;void(<a class="el" href="../../d3/d10/a05832.html">QueryCallback</a>&amp;, <a class="el" href="../../d2/d29/a04181.html#ac6110b8d867b5f84f677555d07037acb">PreparedQueryResult</a>)&gt; QueryCallback::QueryCallbackData::_prepared</td>
+          <td class="memname">std::vector&lt;<a class="el" href="../../d9/d0b/a05820.html">PreparedStatementData</a>&gt; PreparedStatementBase::statement_data</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00186">QueryCallback::InvokeIfReady()</a>.</p>
-
-</div>
-</div>
-<a id="a384db60c65e7823fdbc0ff430ac8dfe1" name="a384db60c65e7823fdbc0ff430ac8dfe1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a384db60c65e7823fdbc0ff430ac8dfe1">&#9670;&#160;</a></span>_string</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">std::function&lt;void(<a class="el" href="../../d3/d10/a05832.html">QueryCallback</a>&amp;, <a class="el" href="../../d2/d29/a04181.html#ab0c9feeec448a181290fcb39565b8253">QueryResult</a>)&gt; QueryCallback::QueryCallbackData::_string</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00186">QueryCallback::InvokeIfReady()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00033">SetValidData()</a>.</p>
 
 </div>
 </div>
@@ -601,8 +883,8 @@ template&lt;typename T &gt; </div>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d3/d10/a05832.html">QueryCallback</a></li><li class="navelem"><a class="el" href="../../d0/ddb/a05824.html">QueryCallbackData</a></li>
-    <li class="footer">Generated on Mon Aug 18 2025 20:48:52 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d0/ddb/a05824.html">PreparedStatementBase</a></li>
+    <li class="footer">Generated on Mon Aug 25 2025 20:47:07 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

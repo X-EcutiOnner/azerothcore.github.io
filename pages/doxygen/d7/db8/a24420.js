@@ -1,9 +1,16 @@
 var a24420 =
 [
-    [ "npc_pet_gen_fetch_ball", "d7/db8/a24420.html#a4cd4dabd5df72ad1e64bdc8d6efb2f1b", null ],
-    [ "IsSummonedBy", "d7/db8/a24420.html#abaf6308f7c47fd05acb86055bec0aea8", null ],
-    [ "SpellHitTarget", "d7/db8/a24420.html#a87bdded236f6584d9b71507a1253f7d0", null ],
-    [ "UpdateAI", "d7/db8/a24420.html#a1e0f75d5cd438d500ad94c5024bf83ae", null ],
-    [ "checkTimer", "d7/db8/a24420.html#ab8d0a3a9ba2a8e0d6f58b3867f20974e", null ],
-    [ "targetGUID", "d7/db8/a24420.html#ae474374af7c2270e218ed236d90c789c", null ]
+    [ "npc_pet_gen_argent_pony_bridle", "d7/db8/a24420.html#a9df25627a92b8914ab8009be099f15d4", null ],
+    [ "DoAction", "d7/db8/a24420.html#a4c08ed385886a118c165925602b1dff7", null ],
+    [ "EnterEvadeMode", "d7/db8/a24420.html#a897e72a4bf279607903bce58a5a45c6f", null ],
+    [ "GetData", "d7/db8/a24420.html#a862546ec66d8282c87169305711e4ec7", null ],
+    [ "OnGossipHello", "d7/db8/a24420.html#a35cfcfd3418295bcb1140d1b8b8266ab", null ],
+    [ "OnGossipSelect", "d7/db8/a24420.html#a36f15c2c0ec3466b492148303e828403", null ],
+    [ "Reset", "d7/db8/a24420.html#a4d885f00ea1b6b97270d41f2583bd0dc", null ],
+    [ "UpdateAI", "d7/db8/a24420.html#a1172dbd471ee8f05f25ff77dc222a61d", null ],
+    [ "_banners", "d7/db8/a24420.html#aeda5ce6c8f4f37ce7a4630c06586cde1", null ],
+    [ "_init", "d7/db8/a24420.html#a8a7dd73d9d3af5ca00998735e45ee7e8", null ],
+    [ "_lastAura", "d7/db8/a24420.html#a4abeb86eb0179a77d47d737d67495411", null ],
+    [ "_mountTimer", "d7/db8/a24420.html#a38253b6d1e1f7fb8fc3fdccb2522a090", null ],
+    [ "_state", "d7/db8/a24420.html#ae57f97ca9a08353e8ec8ebfadbd51541", null ]
 ];

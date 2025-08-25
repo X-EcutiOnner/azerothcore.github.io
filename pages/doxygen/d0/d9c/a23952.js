@@ -1,6 +1,7 @@
 var a23952 =
 [
-    [ "npc_deaths_door_fell_cannon_target_bunnyAI", "d1/d8f/a23956.html", "d1/d8f/a23956" ],
-    [ "npc_deaths_door_fell_cannon_target_bunny", "d0/d9c/a23952.html#a1385e50777282fae0c8f8ca2f9f8a3e6", null ],
-    [ "GetAI", "d0/d9c/a23952.html#a250707096229da28024960beeb7725bf", null ]
+    [ "HandleDamage", "d0/d9c/a23952.html#add7e78111217d00bfa3dfa5b3eb490f9", null ],
+    [ "HandleTargets", "d0/d9c/a23952.html#ac9e455d4ef5cc7b7ce424b70b4387c78", null ],
+    [ "PrepareSpellScript", "d0/d9c/a23952.html#a46b62a09ea23cb102b0e5cf075c727d4", null ],
+    [ "Register", "d0/d9c/a23952.html#a8873614ae22c908cb2cf49129fc53be2", null ]
 ];

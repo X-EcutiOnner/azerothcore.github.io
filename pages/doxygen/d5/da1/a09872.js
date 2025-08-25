@@ -1,12 +1,6 @@
 var a09872 =
 [
-    [ "TransportTemplate", "d5/da1/a09872.html#aef4781a37808827e3ceaffc782c3af1e", null ],
-    [ "~TransportTemplate", "d5/da1/a09872.html#afc385d824c171d13a184bc0a16121110", null ],
-    [ "accelDist", "d5/da1/a09872.html#a558f3611434dbe13239834fa2f2ec6b4", null ],
-    [ "accelTime", "d5/da1/a09872.html#aea9903b7c5643061dc9f401e78d3dfd3", null ],
-    [ "entry", "d5/da1/a09872.html#a7b6837ef812eadb353c00cfeb2426e99", null ],
-    [ "inInstance", "d5/da1/a09872.html#a971c84762c229b01cab656945f0c16de", null ],
-    [ "keyFrames", "d5/da1/a09872.html#ac714531f226ca06c3586cf3f6cc06808", null ],
-    [ "mapsUsed", "d5/da1/a09872.html#a93899b0648871ed8ca32dfe8394347c1", null ],
-    [ "pathTime", "d5/da1/a09872.html#a9d6a612652af64e8b4dd5cbb81ed0d71", null ]
+    [ "SplineRawInitializer", "d5/da1/a09872.html#a2aba4b3ca8e2312cc9e910ef4b3a5a26", null ],
+    [ "operator()", "d5/da1/a09872.html#a878f8d8b2bc4b7c0e5c92d3055a437af", null ],
+    [ "_points", "d5/da1/a09872.html#a3cea33c8d33407f7d2d8ea96a85a58c5", null ]
 ];

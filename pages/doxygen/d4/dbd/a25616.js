@@ -1,6 +1,6 @@
 var a25616 =
 [
-    [ "HandleSummon", "d4/dbd/a25616.html#aadfea4a2238754473a8abbc487fd7f7b", null ],
-    [ "PrepareSpellScript", "d4/dbd/a25616.html#a4974a3687df394d51db322210ebb5ddb", null ],
-    [ "Register", "d4/dbd/a25616.html#a89146ab41d1408c18ce2bff403ae8e4e", null ]
+    [ "OnRemove", "d4/dbd/a25616.html#adcdc87bcfb9aee5eaa227ba66ad5f010", null ],
+    [ "PrepareAuraScript", "d4/dbd/a25616.html#a9b3985c6f2b1b88ab86ec38c8508fc16", null ],
+    [ "Register", "d4/dbd/a25616.html#a0bc1dae33d0a780623f4551b1dfb1fbf", null ]
 ];

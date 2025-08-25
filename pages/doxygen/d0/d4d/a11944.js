@@ -1,7 +1,6 @@
 var a11944 =
 [
-    [ "boss_grizzleAI", "d0/d4d/a11944.html#a3310892cafc2a8e022105f77258b25af", null ],
-    [ "JustEngagedWith", "d0/d4d/a11944.html#a598e7e7d6bdd847bf01968116988a935", null ],
-    [ "UpdateAI", "d0/d4d/a11944.html#a2dc5c27cd4eaf2aa1484a370a68e3314", null ],
-    [ "nextTremorTime", "d0/d4d/a11944.html#aa392b5a5db08d8676614923ae4838d05", null ]
+    [ "boss_draganthaurissanAI", "d4/d3e/a11948.html", "d4/d3e/a11948" ],
+    [ "boss_emperor_dagran_thaurissan", "d0/d4d/a11944.html#a8332d74b5aa1528d5687084932419ad1", null ],
+    [ "GetAI", "d0/d4d/a11944.html#aca2c4ca4e32ce75d95b42ddd88c4dc99", null ]
 ];

@@ -1,5 +1,6 @@
 var a20604 =
 [
-    [ "achievement_quick_shave", "d3/de4/a20604.html#a6c2f1e60d2311922abbaf7e22e1e9e4b", null ],
-    [ "OnCheck", "d3/de4/a20604.html#a151c479da3d4cec05999ad8a249b100c", null ]
+    [ "npc_ulduar_expedition_engineerAI", "dd/d43/a20608.html", "dd/d43/a20608" ],
+    [ "npc_ulduar_expedition_engineer", "d3/de4/a20604.html#a1ff99e62b9c2222d8c08e71bfda600ea", null ],
+    [ "GetAI", "d3/de4/a20604.html#a6f1beaab42e42981e152db920e516616", null ]
 ];

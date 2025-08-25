@@ -1,11 +1,8 @@
 var a05916 =
 [
-    [ "AppliedFileEntry", "d5/d98/a05916.html#ac925dd4c2f889ae84e8be8cba9a0ef06", null ],
-    [ "GetStateAsString", "d5/d98/a05916.html#a803f0ee67f0d3944b0933cf97723b5d3", null ],
-    [ "StateConvert", "d5/d98/a05916.html#a16274f0e9e6669be265ba75f79c4b10f", null ],
-    [ "StateConvert", "d5/d98/a05916.html#ac35fc4abcc60015c56765ceebc6fdb8f", null ],
-    [ "hash", "d5/d98/a05916.html#af39f798a10c2675e870d4d62f1d0a10c", null ],
-    [ "name", "d5/d98/a05916.html#a8fc429eae6816054b5828952a5698a4c", null ],
-    [ "state", "d5/d98/a05916.html#a7899f60d95db04e776b7ccfbc1003cfb", null ],
-    [ "timestamp", "d5/d98/a05916.html#a13703e88b76f26858696b33a8bc8f862", null ]
+    [ "UpdateResult", "d5/d98/a05916.html#af32cdf09d32607955c98353fbfa7d392", null ],
+    [ "UpdateResult", "d5/d98/a05916.html#a225eb6b9ff745dcd72d623ca79c007c6", null ],
+    [ "archived", "d5/d98/a05916.html#adee274af5f5d6981e28b3587008d690c", null ],
+    [ "recent", "d5/d98/a05916.html#aea54f4388b659def734957a47e9cca8c", null ],
+    [ "updated", "d5/d98/a05916.html#a12b3fffe01639493fc405bd5a797f463", null ]
 ];

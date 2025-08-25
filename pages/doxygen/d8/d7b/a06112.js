@@ -1,9 +1,11 @@
 var a06112 =
 [
-    [ "CritterAI", "d8/d7b/a06112.html#aa211359ea8b80ac0ed27e9b337e333f1", null ],
-    [ "EnterEvadeMode", "d8/d7b/a06112.html#a989d1fc00af900320dcf27cce7f247dc", null ],
-    [ "JustEngagedWith", "d8/d7b/a06112.html#a2f52eb5c527895168f18ed5ddcc560a9", null ],
-    [ "MovementInform", "d8/d7b/a06112.html#a54c44d28e4b2b3231afeb8de343dee43", null ],
-    [ "Permissible", "d8/d7b/a06112.html#ae43183a24398fe3af1cb8275b9b4c6c6", null ],
-    [ "UpdateAI", "d8/d7b/a06112.html#af860be127a671f5448cb731aa2f701b0", null ]
+    [ "PossessedAI", "d8/d7b/a06112.html#a29bfe06f4f6f0398e3a0a385b179cdbe", null ],
+    [ "AttackStart", "d8/d7b/a06112.html#a293a49d5cffd58dff103b0aacc558cde", null ],
+    [ "EnterEvadeMode", "d8/d7b/a06112.html#ad99b9c297289b819157be56d8049320e", null ],
+    [ "JustDied", "d8/d7b/a06112.html#aae94a4a6d6e67d05d18573845ecebfd7", null ],
+    [ "KilledUnit", "d8/d7b/a06112.html#a8e6d316c08dd6fba53c8ed2edab9ea34", null ],
+    [ "MoveInLineOfSight", "d8/d7b/a06112.html#a7d81135d9c23cb9b9ec48b441dd050e2", null ],
+    [ "Permissible", "d8/d7b/a06112.html#aafc2d20dff60c6e5401eaa579844430d", null ],
+    [ "UpdateAI", "d8/d7b/a06112.html#a3ce62a71e3f963f0b660bc987bf85051", null ]
 ];

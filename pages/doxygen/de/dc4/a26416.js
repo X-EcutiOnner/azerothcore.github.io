@@ -1,6 +1,7 @@
 var a26416 =
 [
-    [ "HandleEffectApply", "de/dc4/a26416.html#a111ce5c9e70ed563bc7b9c2ec8e79b76", null ],
-    [ "PrepareAuraScript", "de/dc4/a26416.html#a707504eccf42af77f6e6e927d208bc8c", null ],
-    [ "Register", "de/dc4/a26416.html#a7aeaa28997bbe966274a738cf45323ed", null ]
+    [ "HandleEffectApply", "de/dc4/a26416.html#a475d0bab96e226853368be3b68c5a2d3", null ],
+    [ "HandleEffectRemove", "de/dc4/a26416.html#aa22a095e40789ac562a64c20d7eadb28", null ],
+    [ "PrepareAuraScript", "de/dc4/a26416.html#a2b06b0dc1a4c2f5b5e4657e11a097660", null ],
+    [ "Register", "de/dc4/a26416.html#a91e75a059828a30d509fd22be19048f8", null ]
 ];

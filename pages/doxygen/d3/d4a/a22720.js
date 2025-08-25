@@ -1,6 +1,7 @@
 var a22720 =
 [
-    [ "FilterTargets", "d3/d4a/a22720.html#abd3fafc2120b7069790dd9822cd62adc", null ],
-    [ "PrepareSpellScript", "d3/d4a/a22720.html#aebc0441481a2c458fc904175df931a9e", null ],
-    [ "Register", "d3/d4a/a22720.html#af1173988538ad44c27ea2ed9d49fe06d", null ]
+    [ "npc_voidtraveler", "d3/d4a/a22720.html#a07e473c14836a0612acd52078a93f2d8", null ],
+    [ "Reset", "d3/d4a/a22720.html#a6efe0725917c92657220de2b60579289", null ],
+    [ "UpdateAI", "d3/d4a/a22720.html#aaa907fe2f6ef1029a23fd819af0a44c3", null ],
+    [ "_scheduler", "d3/d4a/a22720.html#a1809494e7803103f6bc1698e780dcfbc", null ]
 ];

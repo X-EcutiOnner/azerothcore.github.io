@@ -1,8 +1,6 @@
 var a18360 =
 [
-    [ "Load", "d6/d8c/a18360.html#aabd997d6db5fd38b1fdd97d90b1347e9", null ],
-    [ "OnRemove", "d6/d8c/a18360.html#a43b23e5c53cca872a26737d790f2893d", null ],
-    [ "PrepareAuraScript", "d6/d8c/a18360.html#ae51bcb37894240c6fd064cd329698a55", null ],
-    [ "Register", "d6/d8c/a18360.html#ad6247c7f8abf41cd6190d5252ed6834e", null ],
-    [ "Validate", "d6/d8c/a18360.html#a45696018a8810cf1f11fbddcd853d1f4", null ]
+    [ "ModDestHeight", "d6/d8c/a18360.html#acd31e130e72cd93bee3544ecd2dc38ad", null ],
+    [ "PrepareSpellScript", "d6/d8c/a18360.html#a288f8917d73be30234e465778b1f6544", null ],
+    [ "Register", "d6/d8c/a18360.html#a69f9cdbfc33ec39f629f08f20484b29e", null ]
 ];

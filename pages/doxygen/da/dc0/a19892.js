@@ -1,6 +1,6 @@
 var a19892 =
 [
-    [ "boss_flame_leviathan_overload_deviceAI", "d2/d15/a19896.html", "d2/d15/a19896" ],
-    [ "boss_flame_leviathan_overload_device", "da/dc0/a19892.html#ad00f601170c1af833aadb17eab5d19a8", null ],
-    [ "GetAI", "da/dc0/a19892.html#a73988d2b1cfe61d0356ec1f317d90162", null ]
+    [ "FilterTargets", "da/dc0/a19892.html#a38c693dd3d8fb7e04fc1e26359f12399", null ],
+    [ "PrepareSpellScript", "da/dc0/a19892.html#a86c4bb91547d8ea7eebb8e4d7bfd592e", null ],
+    [ "Register", "da/dc0/a19892.html#a4e803984a3eded2736825f631786c204", null ]
 ];

@@ -1,7 +1,6 @@
 var a17508 =
 [
-    [ "HandleScript", "d9/d7b/a17508.html#a5fe0b684473bd5dd1ff9b12432ff3de8", null ],
-    [ "Load", "d9/d7b/a17508.html#ab1d81386ae3ccd332c01864d7f456017", null ],
-    [ "PrepareSpellScript", "d9/d7b/a17508.html#ae3ef753ff4c99aa8bed20ce3369a7e0f", null ],
-    [ "Register", "d9/d7b/a17508.html#a7edb44f70501c2e760d29c8f78a4e087", null ]
+    [ "ModAuraValue", "d9/d7b/a17508.html#a359453c6253beb6f729209c6d3d79af7", null ],
+    [ "PrepareSpellScript", "d9/d7b/a17508.html#a4f916abef69782be10cc6be9ba0124f5", null ],
+    [ "Register", "d9/d7b/a17508.html#a4a387df07c88144288c4327ce86b730a", null ]
 ];

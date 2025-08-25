@@ -1,6 +1,12 @@
 var a24212 =
 [
-    [ "npc_torloth_the_magnificentAI", "d3/d51/a24216.html", "d3/d51/a24216" ],
-    [ "npc_torloth_the_magnificent", "d9/d18/a24212.html#a252796a19dcebe210eecb4d9ae150e5d", null ],
-    [ "GetAI", "d9/d18/a24212.html#a94c206fb75cc6f50c6127908b5b5205f", null ]
+    [ "npc_enslaved_netherwing_drake", "d9/d18/a24212.html#a9f848fa3c68b8a269f0b6016058ec364", null ],
+    [ "_GetPlayer", "d9/d18/a24212.html#af02a965e98f35134a3c40ed9cdfb723e", null ],
+    [ "JustDied", "d9/d18/a24212.html#acde70c9d8c675a9a9dd14695dc752184", null ],
+    [ "MovementInform", "d9/d18/a24212.html#afa030a380365daa33c156a0d6be6a6d9", null ],
+    [ "Reset", "d9/d18/a24212.html#aec02b19d27a09f16ef06adb694c2e65e", null ],
+    [ "SpellHit", "d9/d18/a24212.html#a195794e88870a0b1ca35473f5f0378a7", null ],
+    [ "UpdateAI", "d9/d18/a24212.html#aa7ac2dd17bdf4939d74fe5af85c649b9", null ],
+    [ "_playerGUID", "d9/d18/a24212.html#a2f9a6a6cbaa9cab0e6014f6fd1c54346", null ],
+    [ "_tapped", "d9/d18/a24212.html#a9cbafd9536ff7eca33b0b44295aaec92", null ]
 ];

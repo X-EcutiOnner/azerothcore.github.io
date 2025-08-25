@@ -1,5 +1,6 @@
 var a21188 =
 [
-    [ "go_harpoon_canon", "d0/ddd/a21188.html#aa7651e111cade00bbbdb9d0feced03e6", null ],
-    [ "OnGossipHello", "d0/ddd/a21188.html#ad0098bafd1233636bde181312126e65f", null ]
+    [ "npc_ravenous_furbolgAI", "d9/de0/a21192.html", "d9/de0/a21192" ],
+    [ "npc_ravenous_furbolg", "d0/ddd/a21188.html#a1d7adf8eb055cb6ba82db2f173256fe9", null ],
+    [ "GetAI", "d0/ddd/a21188.html#a284c366e6f5bd024d9627a83dd966669", null ]
 ];

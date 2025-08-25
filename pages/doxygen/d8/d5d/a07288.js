@@ -1,10 +1,10 @@
 var a07288 =
 [
-    [ "ArenaLogEntryData", "d8/d5d/a07288.html#a8f3ec057dd930d2f2acd7961e0cf4e5e", null ],
-    [ "Fill", "d8/d5d/a07288.html#aa3cca4521431bf152550611549bf4bbe", null ],
-    [ "Acc", "d8/d5d/a07288.html#aa8983930063298c86f4635d2ae3078fe", null ],
-    [ "ArenaTeamId", "d8/d5d/a07288.html#ac764620c3c8a986286fd74062dac4645", null ],
-    [ "Guid", "d8/d5d/a07288.html#a03b32cd44c655dcc9104aead3b76454e", null ],
-    [ "IP", "d8/d5d/a07288.html#ab9f80eacfe24025a2d4947085d3f6dd7", null ],
-    [ "Name", "d8/d5d/a07288.html#a5c18d554adb9e38ab10baf36c9b3fdd7", null ]
+    [ "Battleground2ChatBuilder", "d8/d5d/a07288.html#a3e1f73fd8ca5eaa6d1154e206d7d0cb1", null ],
+    [ "operator()", "d8/d5d/a07288.html#a7c0ee21531ba43d9d2ab427d95da2ec5", null ],
+    [ "_arg1", "d8/d5d/a07288.html#aa6959944406804f01baa18cd898bfc41", null ],
+    [ "_arg2", "d8/d5d/a07288.html#aebfaeac77c40d4c7938cbdd488defc51", null ],
+    [ "_msgtype", "d8/d5d/a07288.html#a770d30e207e41a8f985776787d53f2cf", null ],
+    [ "_source", "d8/d5d/a07288.html#a8867dd698d0457688202e1a9378255d2", null ],
+    [ "_textId", "d8/d5d/a07288.html#a632cab30adc21c22f1a8890b1627262a", null ]
 ];

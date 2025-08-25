@@ -1,15 +1,17 @@
 var a23624 =
 [
-    [ "instance_magtheridons_lair_InstanceMapScript", "d3/dcc/a23624.html#a06f7e0f178d45a92f16dc06b68645fba", null ],
-    [ "Initialize", "d3/dcc/a23624.html#afa054fb11fe777019baa70f46bfd8212", null ],
-    [ "OnCreatureCreate", "d3/dcc/a23624.html#aa05f08785d9d62db41e8d29ef55db0d8", null ],
-    [ "OnCreatureRemove", "d3/dcc/a23624.html#a727d4d3bfc52391a088e86fef013617c", null ],
-    [ "OnGameObjectCreate", "d3/dcc/a23624.html#a020584d79926d170c02655c5e2841127", null ],
-    [ "OnGameObjectRemove", "d3/dcc/a23624.html#a9a6ac60b68e2a515e771696c5c88b93d", null ],
-    [ "SetBossState", "d3/dcc/a23624.html#a160269f8d4cde5297d5f70a5f8eec2b2", null ],
-    [ "SetData", "d3/dcc/a23624.html#a847abafb7b00e9b2cab73a90a16b959e", null ],
-    [ "_columnSet", "d3/dcc/a23624.html#a2593bf88b0aba019a831b3ca6a8e15b9", null ],
-    [ "_cubesSet", "d3/dcc/a23624.html#ad59566c515cbea3274d17e483f3b4ef1", null ],
-    [ "_magtheridonGUID", "d3/dcc/a23624.html#a03e70ccaf8c23d2c775051320c6c4636", null ],
-    [ "_wardersSet", "d3/dcc/a23624.html#a37b2621d50e8a8f0bee3f089dbce88f9", null ]
+    [ "boss_magtheridon", "d3/dcc/a23624.html#a3d718a101047cd90448577ee520adf5e", null ],
+    [ "DoAction", "d3/dcc/a23624.html#a3015fd8503a0da84e7b78c551587f8a3", null ],
+    [ "JustDied", "d3/dcc/a23624.html#adca91ab2fbfe88cc79b19aaa4bff74cf", null ],
+    [ "JustEngagedWith", "d3/dcc/a23624.html#a93fb4d888ebd6273bca0a128c8303996", null ],
+    [ "KilledUnit", "d3/dcc/a23624.html#a42aa45e199f76f567bc7a677f3d3aedf", null ],
+    [ "Reset", "d3/dcc/a23624.html#a0999e13f434699bb14c2ef6d2467a043", null ],
+    [ "ScheduleCombatEvents", "d3/dcc/a23624.html#ae9b2f0929c2309e6bd57cc1241452d61", null ],
+    [ "UpdateAI", "d3/dcc/a23624.html#a656e9595b30d014c54cc456d7f81f657", null ],
+    [ "_castingQuake", "d3/dcc/a23624.html#ad1c95705a7018b4eb62cbee6f20fb65a", null ],
+    [ "_channelersKilled", "d3/dcc/a23624.html#a305f71322dbe10e12588ebe0c45eff5f", null ],
+    [ "_currentPhase", "d3/dcc/a23624.html#a2871d60efe88d3901bad9a4c5249fcfb", null ],
+    [ "_interruptScheduler", "d3/dcc/a23624.html#aae56fde097d925bcf58be1d8e6bf50f4", null ],
+    [ "_magReleased", "d3/dcc/a23624.html#a6dd4891771771acf5456a129113e864e", null ],
+    [ "_recentlySpoken", "d3/dcc/a23624.html#af860281db4d20e3d3b9589657c921a50", null ]
 ];

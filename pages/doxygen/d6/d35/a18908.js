@@ -1,6 +1,5 @@
 var a18908 =
 [
-    [ "instance_icecrown_citadel_InstanceMapScript", "d0/d03/a18912.html", "d0/d03/a18912" ],
-    [ "instance_icecrown_citadel", "d6/d35/a18908.html#a0901e23025cff08d1a7516bbef099ffa", null ],
-    [ "GetInstanceScript", "d6/d35/a18908.html#a787c32626681f15f5515385a9ba6b848", null ]
+    [ "at_icc_gauntlet_event", "d6/d35/a18908.html#ae8790bad655661aeda887f56b9393847", null ],
+    [ "OnTrigger", "d6/d35/a18908.html#a9329ec078db088b1c13144ac7ed7a13a", null ]
 ];

@@ -1,7 +1,7 @@
 var a22872 =
 [
-    [ "PrepareAuraScript", "de/d58/a22872.html#afb2e94c1e67b12b7350d83241b3f2864", null ],
-    [ "Register", "de/d58/a22872.html#a0a5ac432eca09206ac032317e8aa8cfc", null ],
-    [ "Update", "de/d58/a22872.html#aa0da369c2047df144c4a9af37a2ea13c", null ],
-    [ "Validate", "de/d58/a22872.html#a70248cfa468dfb3a97ea7f8b6848bc5f", null ]
+    [ "boss_veras_darkshadow", "de/d58/a22872.html#a7b33a5c8257954951ed19a2f8ce17b95", null ],
+    [ "JustEngagedWith", "de/d58/a22872.html#a5eec3e70a7950073eced60d680ff6298", null ],
+    [ "JustSummoned", "de/d58/a22872.html#afd6cb716cfdebccde99d71e1eb797d33", null ],
+    [ "UpdateAI", "de/d58/a22872.html#a21f23998e3c3ecb79cbfa3c0d778f2d5", null ]
 ];

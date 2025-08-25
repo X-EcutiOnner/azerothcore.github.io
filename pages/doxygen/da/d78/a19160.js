@@ -1,6 +1,7 @@
 var a19160 =
 [
-    [ "boss_sapphironAI", "db/dc4/a19164.html", "db/dc4/a19164" ],
-    [ "boss_sapphiron", "da/d78/a19160.html#a87a70204dd727f92d035ad98e2ab9010", null ],
-    [ "GetAI", "da/d78/a19160.html#a31209287faa721bef341388ae4383b6c", null ]
+    [ "OnPeriodic", "da/d78/a19160.html#ae685e9d36b85af8a7e33cefbd439a2f4", null ],
+    [ "PrepareAuraScript", "da/d78/a19160.html#a1362103840db4b3c40ef7d6b0aa5226c", null ],
+    [ "Register", "da/d78/a19160.html#a39b03ebd7f6233f373f52e34f18dad10", null ],
+    [ "Validate", "da/d78/a19160.html#a54cfed486827216817adb740efa6646e", null ]
 ];

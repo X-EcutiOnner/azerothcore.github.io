@@ -1,13 +1,15 @@
 var a23660 =
 [
-    [ "boss_warbringer_omrogg", "dc/dbf/a23660.html#a20f790595640cd41d636ad43c8837cda", null ],
-    [ "HandleHeadTalk", "dc/dbf/a23660.html#aaa324c065f6c2bbf75688f5910be09d1", null ],
-    [ "JustDied", "dc/dbf/a23660.html#a8a2abaceda580ac2ed4f1c736281828f", null ],
-    [ "JustEngagedWith", "dc/dbf/a23660.html#ae1710f22f8a72f661498c4fbc6d108a5", null ],
-    [ "KilledUnit", "dc/dbf/a23660.html#add6b54c4744be120b6b5fd53912ce1fd", null ],
-    [ "ScheduleBurningPhase", "dc/dbf/a23660.html#afd20a8bd1f6f083e0725d962ec747e26", null ],
-    [ "ScheduleNonBurningPhase", "dc/dbf/a23660.html#a176217a0767e8153d07996461ac68f60", null ],
-    [ "SetData", "dc/dbf/a23660.html#a4d1154d64c999316f9ae02ab76cbc870", null ],
-    [ "UpdateAI", "dc/dbf/a23660.html#a90369760ed0e52f1ffc6d3e7c4e39ec2", null ],
-    [ "_headTalk", "dc/dbf/a23660.html#ae657addceb26f4d02d734fa0790a1ae2", null ]
+    [ "instance_magtheridons_lair_InstanceMapScript", "dc/dbf/a23660.html#a06f7e0f178d45a92f16dc06b68645fba", null ],
+    [ "Initialize", "dc/dbf/a23660.html#afa054fb11fe777019baa70f46bfd8212", null ],
+    [ "OnCreatureCreate", "dc/dbf/a23660.html#aa05f08785d9d62db41e8d29ef55db0d8", null ],
+    [ "OnCreatureRemove", "dc/dbf/a23660.html#a727d4d3bfc52391a088e86fef013617c", null ],
+    [ "OnGameObjectCreate", "dc/dbf/a23660.html#a020584d79926d170c02655c5e2841127", null ],
+    [ "OnGameObjectRemove", "dc/dbf/a23660.html#a9a6ac60b68e2a515e771696c5c88b93d", null ],
+    [ "SetBossState", "dc/dbf/a23660.html#a160269f8d4cde5297d5f70a5f8eec2b2", null ],
+    [ "SetData", "dc/dbf/a23660.html#a847abafb7b00e9b2cab73a90a16b959e", null ],
+    [ "_columnSet", "dc/dbf/a23660.html#a2593bf88b0aba019a831b3ca6a8e15b9", null ],
+    [ "_cubesSet", "dc/dbf/a23660.html#ad59566c515cbea3274d17e483f3b4ef1", null ],
+    [ "_magtheridonGUID", "dc/dbf/a23660.html#a03e70ccaf8c23d2c775051320c6c4636", null ],
+    [ "_wardersSet", "dc/dbf/a23660.html#a37b2621d50e8a8f0bee3f089dbce88f9", null ]
 ];

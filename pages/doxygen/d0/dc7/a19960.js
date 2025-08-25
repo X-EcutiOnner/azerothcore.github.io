@@ -1,7 +1,6 @@
 var a19960 =
 [
-    [ "boss_flame_leviathan_safety_containerAI", "d0/dc7/a19960.html#ab9191e20df488df184c468ca1ac41084", null ],
-    [ "MovementInform", "d0/dc7/a19960.html#a1b472a233ebebbb4c1fbf639aeb4bed6", null ],
-    [ "UpdateAI", "d0/dc7/a19960.html#a77b3a493c5650d91c903879db324651d", null ],
-    [ "_allowTimer", "d0/dc7/a19960.html#a2185c9fe04fa7288fab452c5c1de3819", null ]
+    [ "npc_thorims_hammerAI", "de/d2e/a19964.html", "de/d2e/a19964" ],
+    [ "npc_thorims_hammer", "d0/dc7/a19960.html#a97cbcda73931e6119f8ab30fa4bb0806", null ],
+    [ "GetAI", "d0/dc7/a19960.html#aaee92d115d112ebf590cf690de8c6667", null ]
 ];

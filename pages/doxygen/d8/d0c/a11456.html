@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: PlayerDumpReader Class Reference</title>
+<title>AzerothCore: WorldUpdateTime Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,50 +106,76 @@ $(document).ready(function(){initNavTree('d8/d0c/a11456.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pri-methods">Private Member Functions</a> &#124;
+<a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="../../d5/d88/a11453.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">PlayerDumpReader Class Reference</div></div>
+  <div class="headertitle"><div class="title">WorldUpdateTime Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">PlayerDump.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">UpdateTime.h</a>&quot;</code></p>
 <div class="dynheader">
-Inheritance diagram for PlayerDumpReader:</div>
+Inheritance diagram for WorldUpdateTime:</div>
 <div class="dyncontent">
  <div class="center">
-  <img src="../../d8/d0c/a11456.png" usemap="#PlayerDumpReader_map" alt=""/>
-  <map id="PlayerDumpReader_map" name="PlayerDumpReader_map">
-<area href="../../d1/d7d/a11448.html" alt="PlayerDump" shape="rect" coords="0,0,122,24"/>
+  <img src="../../d8/d0c/a11456.png" usemap="#WorldUpdateTime_map" alt=""/>
+  <map id="WorldUpdateTime_map" name="WorldUpdateTime_map">
+<area href="../../d7/dd8/a11452.html" alt="UpdateTime" shape="rect" coords="0,0,110,24"/>
   </map>
 </div></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:ad630b61e298fb1ddf165481c9a14e077"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d0c/a11456.html#ad630b61e298fb1ddf165481c9a14e077">PlayerDumpReader</a> ()</td></tr>
-<tr class="separator:ad630b61e298fb1ddf165481c9a14e077"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae1ed88a6f181cf6ad952edb1285e192e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d7/db2/a02036.html#a4471667403db9bc7532f371d28743866">DumpReturn</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d0c/a11456.html#ae1ed88a6f181cf6ad952edb1285e192e">LoadDumpFromFile</a> (std::string const &amp;file, <a class="el" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> account, std::string name, <a class="el" href="../../d9/d48/a08412.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a> guid)</td></tr>
-<tr class="separator:ae1ed88a6f181cf6ad952edb1285e192e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abd4ce2c50a74922792a7b00d803f03b2"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d7/db2/a02036.html#a4471667403db9bc7532f371d28743866">DumpReturn</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d0c/a11456.html#abd4ce2c50a74922792a7b00d803f03b2">LoadDumpFromString</a> (std::string const &amp;dump, <a class="el" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> account, std::string name, <a class="el" href="../../d9/d48/a08412.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a> guid)</td></tr>
-<tr class="separator:abd4ce2c50a74922792a7b00d803f03b2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a97552c4ce99bd40919f199c17fe203ed"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d0c/a11456.html#a97552c4ce99bd40919f199c17fe203ed">WorldUpdateTime</a> ()</td></tr>
+<tr class="separator:a97552c4ce99bd40919f199c17fe203ed"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acb2b9d56504fc760e7df1c93621ab788"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d0c/a11456.html#acb2b9d56504fc760e7df1c93621ab788">LoadFromConfig</a> ()</td></tr>
+<tr class="separator:acb2b9d56504fc760e7df1c93621ab788"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ada81050229ccacc49d5b6a9f6101174c"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d0c/a11456.html#ada81050229ccacc49d5b6a9f6101174c">SetRecordUpdateTimeInterval</a> (<a class="el" href="../../d3/d74/a04418.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a> t)</td></tr>
+<tr class="separator:ada81050229ccacc49d5b6a9f6101174c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a88d773c8029cebeab6b99444c25c8379"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d0c/a11456.html#a88d773c8029cebeab6b99444c25c8379">RecordUpdateTime</a> (<a class="el" href="../../d3/d74/a04418.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a> gameTimeMs, <a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> diff, <a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> sessionCount)</td></tr>
+<tr class="separator:a88d773c8029cebeab6b99444c25c8379"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3ae299cfba6adcbb4e38af40313428fc"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d0c/a11456.html#a3ae299cfba6adcbb4e38af40313428fc">RecordUpdateTimeDuration</a> (std::string const &amp;text)</td></tr>
+<tr class="separator:a3ae299cfba6adcbb4e38af40313428fc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pub_methods_a11452"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a11452')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../d7/dd8/a11452.html">UpdateTime</a></td></tr>
+<tr class="memitem:a12ec461e5d33845ed375c0965fb024ae inherit pub_methods_a11452"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dd8/a11452.html#a12ec461e5d33845ed375c0965fb024ae">GetAverageUpdateTime</a> () const</td></tr>
+<tr class="separator:a12ec461e5d33845ed375c0965fb024ae inherit pub_methods_a11452"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a29b8d4c5394820b71aaf8864ba4b8327 inherit pub_methods_a11452"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dd8/a11452.html#a29b8d4c5394820b71aaf8864ba4b8327">GetTimeWeightedAverageUpdateTime</a> () const</td></tr>
+<tr class="separator:a29b8d4c5394820b71aaf8864ba4b8327 inherit pub_methods_a11452"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab5b77fcf7746e613e2997601fac659fc inherit pub_methods_a11452"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dd8/a11452.html#ab5b77fcf7746e613e2997601fac659fc">GetMaxUpdateTime</a> () const</td></tr>
+<tr class="separator:ab5b77fcf7746e613e2997601fac659fc inherit pub_methods_a11452"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab5f1c144429d1a8fe3937fd22cab8206 inherit pub_methods_a11452"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dd8/a11452.html#ab5f1c144429d1a8fe3937fd22cab8206">GetMaxUpdateTimeOfCurrentTable</a> () const</td></tr>
+<tr class="separator:ab5f1c144429d1a8fe3937fd22cab8206 inherit pub_methods_a11452"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a28ab3fb6bd445bf1b36f7cb3b73acff2 inherit pub_methods_a11452"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dd8/a11452.html#a28ab3fb6bd445bf1b36f7cb3b73acff2">GetLastUpdateTime</a> () const</td></tr>
+<tr class="separator:a28ab3fb6bd445bf1b36f7cb3b73acff2 inherit pub_methods_a11452"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2073ed7e673a5db381432267861d64ec inherit pub_methods_a11452"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dd8/a11452.html#a2073ed7e673a5db381432267861d64ec">GetDatasetSize</a> () const</td></tr>
+<tr class="separator:a2073ed7e673a5db381432267861d64ec inherit pub_methods_a11452"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a45b460f5fec335763e20bfe06fa33980 inherit pub_methods_a11452"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dd8/a11452.html#a45b460f5fec335763e20bfe06fa33980">GetPercentile</a> (<a class="el" href="../../d9/d4e/a04307.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> p)</td></tr>
+<tr class="separator:a45b460f5fec335763e20bfe06fa33980 inherit pub_methods_a11452"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8837b608acde446f1eda813ca530c63f inherit pub_methods_a11452"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dd8/a11452.html#a8837b608acde446f1eda813ca530c63f">UpdateWithDiff</a> (<a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> diff)</td></tr>
+<tr class="separator:a8837b608acde446f1eda813ca530c63f inherit pub_methods_a11452"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9089665d344f9b0b4e85351dd04e0a5b inherit pub_methods_a11452"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dd8/a11452.html#a9089665d344f9b0b4e85351dd04e0a5b">RecordUpdateTimeReset</a> ()</td></tr>
+<tr class="separator:a9089665d344f9b0b4e85351dd04e0a5b inherit pub_methods_a11452"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-methods" name="pri-methods"></a>
-Private Member Functions</h2></td></tr>
-<tr class="memitem:a62ca90cbcb0d03ec0da52651d8c5f783"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d7/db2/a02036.html#a4471667403db9bc7532f371d28743866">DumpReturn</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d0c/a11456.html#a62ca90cbcb0d03ec0da52651d8c5f783">LoadDump</a> (std::istream &amp;input, <a class="el" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> account, std::string name, <a class="el" href="../../d9/d48/a08412.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a> guid)</td></tr>
-<tr class="separator:a62ca90cbcb0d03ec0da52651d8c5f783"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
+Private Attributes</h2></td></tr>
+<tr class="memitem:a5486477b0a604f0207336e423f42c2b1"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d74/a04418.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d0c/a11456.html#a5486477b0a604f0207336e423f42c2b1">_recordUpdateTimeInverval</a></td></tr>
+<tr class="separator:a5486477b0a604f0207336e423f42c2b1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6b8a8d1b61f9ecec591165fa334972fc"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d74/a04418.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d0c/a11456.html#a6b8a8d1b61f9ecec591165fa334972fc">_recordUpdateTimeMin</a></td></tr>
+<tr class="separator:a6b8a8d1b61f9ecec591165fa334972fc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7bc68a1a700deb4bc4d19992edf3ffa7"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d74/a04418.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d0c/a11456.html#a7bc68a1a700deb4bc4d19992edf3ffa7">_lastRecordTime</a></td></tr>
+<tr class="separator:a7bc68a1a700deb4bc4d19992edf3ffa7"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="inherited" name="inherited"></a>
 Additional Inherited Members</h2></td></tr>
-<tr class="inherit_header pub_static_methods_a11448"><td colspan="2" onclick="javascript:toggleInherit('pub_static_methods_a11448')"><img src="../../closed.png" alt="-"/>&#160;Static Public Member Functions inherited from <a class="el" href="../../d1/d7d/a11448.html">PlayerDump</a></td></tr>
-<tr class="memitem:a69c8e6c412ac09099752a3ad388f5467 inherit pub_static_methods_a11448"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d7d/a11448.html#a69c8e6c412ac09099752a3ad388f5467">InitializeTables</a> ()</td></tr>
-<tr class="separator:a69c8e6c412ac09099752a3ad388f5467 inherit pub_static_methods_a11448"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="inherit_header pro_methods_a11448"><td colspan="2" onclick="javascript:toggleInherit('pro_methods_a11448')"><img src="../../closed.png" alt="-"/>&#160;Protected Member Functions inherited from <a class="el" href="../../d1/d7d/a11448.html">PlayerDump</a></td></tr>
-<tr class="memitem:a457c89834631206d39453721e41af28e inherit pro_methods_a11448"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d7d/a11448.html#a457c89834631206d39453721e41af28e">PlayerDump</a> ()</td></tr>
-<tr class="separator:a457c89834631206d39453721e41af28e inherit pro_methods_a11448"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pro_methods_a11452"><td colspan="2" onclick="javascript:toggleInherit('pro_methods_a11452')"><img src="../../closed.png" alt="-"/>&#160;Protected Member Functions inherited from <a class="el" href="../../d7/dd8/a11452.html">UpdateTime</a></td></tr>
+<tr class="memitem:a5ca37c4eb70f9131276099b65256243b inherit pro_methods_a11452"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dd8/a11452.html#a5ca37c4eb70f9131276099b65256243b">UpdateTime</a> ()</td></tr>
+<tr class="separator:a5ca37c4eb70f9131276099b65256243b inherit pro_methods_a11452"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a451d39365491ae8d38816783865d2a75 inherit pro_methods_a11452"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dd8/a11452.html#a451d39365491ae8d38816783865d2a75">SortUpdateTimeDataTable</a> ()</td></tr>
+<tr class="separator:a451d39365491ae8d38816783865d2a75 inherit pro_methods_a11452"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="ad630b61e298fb1ddf165481c9a14e077" name="ad630b61e298fb1ddf165481c9a14e077"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad630b61e298fb1ddf165481c9a14e077">&#9670;&#160;</a></span>PlayerDumpReader()</h2>
+<a id="a97552c4ce99bd40919f199c17fe203ed" name="a97552c4ce99bd40919f199c17fe203ed"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a97552c4ce99bd40919f199c17fe203ed">&#9670;&#160;</a></span>WorldUpdateTime()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -158,7 +184,7 @@ Additional Inherited Members</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">PlayerDumpReader::PlayerDumpReader </td>
+          <td class="memname">WorldUpdateTime::WorldUpdateTime </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -170,13 +196,145 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   97</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">   67</span>: <a class="code hl_function" href="../../d7/dd8/a11452.html#a5ca37c4eb70f9131276099b65256243b">UpdateTime</a>(), <a class="code hl_variable" href="../../d8/d0c/a11456.html#a5486477b0a604f0207336e423f42c2b1">_recordUpdateTimeInverval</a>(0), <a class="code hl_variable" href="../../d8/d0c/a11456.html#a6b8a8d1b61f9ecec591165fa334972fc">_recordUpdateTimeMin</a>(0), <a class="code hl_variable" href="../../d8/d0c/a11456.html#a7bc68a1a700deb4bc4d19992edf3ffa7">_lastRecordTime</a>(0) { }</div>
+<div class="ttc" id="aa11452_html_a5ca37c4eb70f9131276099b65256243b"><div class="ttname"><a href="../../d7/dd8/a11452.html#a5ca37c4eb70f9131276099b65256243b">UpdateTime::UpdateTime</a></div><div class="ttdeci">UpdateTime()</div><div class="ttdef"><b>Definition:</b> UpdateTime.cpp:29</div></div>
+<div class="ttc" id="aa11456_html_a5486477b0a604f0207336e423f42c2b1"><div class="ttname"><a href="../../d8/d0c/a11456.html#a5486477b0a604f0207336e423f42c2b1">WorldUpdateTime::_recordUpdateTimeInverval</a></div><div class="ttdeci">Milliseconds _recordUpdateTimeInverval</div><div class="ttdef"><b>Definition:</b> UpdateTime.h:74</div></div>
+<div class="ttc" id="aa11456_html_a6b8a8d1b61f9ecec591165fa334972fc"><div class="ttname"><a href="../../d8/d0c/a11456.html#a6b8a8d1b61f9ecec591165fa334972fc">WorldUpdateTime::_recordUpdateTimeMin</a></div><div class="ttdeci">Milliseconds _recordUpdateTimeMin</div><div class="ttdef"><b>Definition:</b> UpdateTime.h:75</div></div>
+<div class="ttc" id="aa11456_html_a7bc68a1a700deb4bc4d19992edf3ffa7"><div class="ttname"><a href="../../d8/d0c/a11456.html#a7bc68a1a700deb4bc4d19992edf3ffa7">WorldUpdateTime::_lastRecordTime</a></div><div class="ttdeci">Milliseconds _lastRecordTime</div><div class="ttdef"><b>Definition:</b> UpdateTime.h:76</div></div>
 </div><!-- fragment -->
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="a62ca90cbcb0d03ec0da52651d8c5f783" name="a62ca90cbcb0d03ec0da52651d8c5f783"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a62ca90cbcb0d03ec0da52651d8c5f783">&#9670;&#160;</a></span>LoadDump()</h2>
+<a id="acb2b9d56504fc760e7df1c93621ab788" name="acb2b9d56504fc760e7df1c93621ab788"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acb2b9d56504fc760e7df1c93621ab788">&#9670;&#160;</a></span>LoadFromConfig()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void WorldUpdateTime::LoadFromConfig </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  153</span>{</div>
+<div class="line"><span class="lineno">  154</span>    <a class="code hl_variable" href="../../d8/d0c/a11456.html#a5486477b0a604f0207336e423f42c2b1">_recordUpdateTimeInverval</a> = <a class="code hl_typedef" href="../../d3/d74/a04418.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a>(<a class="code hl_define" href="../../da/de7/a04643.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;<a class="code hl_typedef" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;(<span class="stringliteral">&quot;RecordUpdateTimeDiffInterval&quot;</span>, 300000));</div>
+<div class="line"><span class="lineno">  155</span>    <a class="code hl_variable" href="../../d8/d0c/a11456.html#a6b8a8d1b61f9ecec591165fa334972fc">_recordUpdateTimeMin</a> = <a class="code hl_typedef" href="../../d3/d74/a04418.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a>(<a class="code hl_define" href="../../da/de7/a04643.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;<a class="code hl_typedef" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;(<span class="stringliteral">&quot;MinRecordUpdateTimeDiff&quot;</span>, 100));</div>
+<div class="line"><span class="lineno">  156</span>}</div>
+<div class="ttc" id="aa04307_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
+<div class="ttc" id="aa04418_html_a1c3834b9e3853535027d58bf21bec81f"><div class="ttname"><a href="../../d3/d74/a04418.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a></div><div class="ttdeci">std::chrono::milliseconds Milliseconds</div><div class="ttdoc">Milliseconds shorthand typedef.</div><div class="ttdef"><b>Definition:</b> Duration.h:27</div></div>
+<div class="ttc" id="aa04643_html_a7236988e98bdd405bf435a029b70a26f"><div class="ttname"><a href="../../da/de7/a04643.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a></div><div class="ttdeci">#define sConfigMgr</div><div class="ttdef"><b>Definition:</b> Config.h:74</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00074">_recordUpdateTimeInverval</a>, <a class="el" href="../../#l00075">_recordUpdateTimeMin</a>, and <a class="el" href="../../#l00074">sConfigMgr</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00164">World::LoadConfigSettings()</a>.</p>
+
+</div>
+</div>
+<a id="a88d773c8029cebeab6b99444c25c8379" name="a88d773c8029cebeab6b99444c25c8379"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a88d773c8029cebeab6b99444c25c8379">&#9670;&#160;</a></span>RecordUpdateTime()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void WorldUpdateTime::RecordUpdateTime </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d3/d74/a04418.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a>&#160;</td>
+          <td class="paramname"><em>gameTimeMs</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>diff</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>sessionCount</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  164</span>{</div>
+<div class="line"><span class="lineno">  165</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d8/d0c/a11456.html#a5486477b0a604f0207336e423f42c2b1">_recordUpdateTimeInverval</a> &gt; 0s &amp;&amp; diff &gt; <a class="code hl_variable" href="../../d8/d0c/a11456.html#a6b8a8d1b61f9ecec591165fa334972fc">_recordUpdateTimeMin</a>.count())</div>
+<div class="line"><span class="lineno">  166</span>    {</div>
+<div class="line"><span class="lineno">  167</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../df/d59/a04343.html#a580dc71f654c9783c7f2637a871222fa">GetMSTimeDiff</a>(<a class="code hl_variable" href="../../d8/d0c/a11456.html#a7bc68a1a700deb4bc4d19992edf3ffa7">_lastRecordTime</a>, gameTimeMs) &gt; <a class="code hl_variable" href="../../d8/d0c/a11456.html#a5486477b0a604f0207336e423f42c2b1">_recordUpdateTimeInverval</a>)</div>
+<div class="line"><span class="lineno">  168</span>        {</div>
+<div class="line"><span class="lineno">  169</span>            <a class="code hl_define" href="../../de/d76/a04607.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;time.update&quot;</span>, <span class="stringliteral">&quot;Update time diff: {}ms with {} players online&quot;</span>, <a class="code hl_function" href="../../d7/dd8/a11452.html#a28ab3fb6bd445bf1b36f7cb3b73acff2">GetLastUpdateTime</a>(), sessionCount);</div>
+<div class="line"><span class="lineno">  170</span>            <a class="code hl_define" href="../../de/d76/a04607.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;time.update&quot;</span>, <span class="stringliteral">&quot;Last {} diffs summary:&quot;</span>, <a class="code hl_function" href="../../d7/dd8/a11452.html#a2073ed7e673a5db381432267861d64ec">GetDatasetSize</a>());</div>
+<div class="line"><span class="lineno">  171</span>            <a class="code hl_define" href="../../de/d76/a04607.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;time.update&quot;</span>, <span class="stringliteral">&quot;|- Mean: {}ms&quot;</span>, <a class="code hl_function" href="../../d7/dd8/a11452.html#a12ec461e5d33845ed375c0965fb024ae">GetAverageUpdateTime</a>());</div>
+<div class="line"><span class="lineno">  172</span>            <a class="code hl_define" href="../../de/d76/a04607.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;time.update&quot;</span>, <span class="stringliteral">&quot;|- Median: {}ms&quot;</span>, <a class="code hl_function" href="../../d7/dd8/a11452.html#a45b460f5fec335763e20bfe06fa33980">GetPercentile</a>(50));</div>
+<div class="line"><span class="lineno">  173</span>            <a class="code hl_define" href="../../de/d76/a04607.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;time.update&quot;</span>, <span class="stringliteral">&quot;|- Percentiles (95, 99, max): {}ms, {}ms, {}ms&quot;</span>, <a class="code hl_function" href="../../d7/dd8/a11452.html#a45b460f5fec335763e20bfe06fa33980">GetPercentile</a>(95), <a class="code hl_function" href="../../d7/dd8/a11452.html#a45b460f5fec335763e20bfe06fa33980">GetPercentile</a>(99), <a class="code hl_function" href="../../d7/dd8/a11452.html#a45b460f5fec335763e20bfe06fa33980">GetPercentile</a>(100));</div>
+<div class="line"><span class="lineno">  174</span>            <a class="code hl_variable" href="../../d8/d0c/a11456.html#a7bc68a1a700deb4bc4d19992edf3ffa7">_lastRecordTime</a> = gameTimeMs;</div>
+<div class="line"><span class="lineno">  175</span>        }</div>
+<div class="line"><span class="lineno">  176</span>    }</div>
+<div class="line"><span class="lineno">  177</span>}</div>
+<div class="ttc" id="aa04343_html_a580dc71f654c9783c7f2637a871222fa"><div class="ttname"><a href="../../df/d59/a04343.html#a580dc71f654c9783c7f2637a871222fa">GetMSTimeDiff</a></div><div class="ttdeci">Milliseconds GetMSTimeDiff(Milliseconds oldMSTime, Milliseconds newMSTime)</div><div class="ttdef"><b>Definition:</b> Timer.h:91</div></div>
+<div class="ttc" id="aa04607_html_a271e427d8e8481efd5cd5f537ec9e419"><div class="ttname"><a href="../../de/d76/a04607.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a></div><div class="ttdeci">#define LOG_INFO(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:166</div></div>
+<div class="ttc" id="aa11452_html_a12ec461e5d33845ed375c0965fb024ae"><div class="ttname"><a href="../../d7/dd8/a11452.html#a12ec461e5d33845ed375c0965fb024ae">UpdateTime::GetAverageUpdateTime</a></div><div class="ttdeci">uint32 GetAverageUpdateTime() const</div><div class="ttdef"><b>Definition:</b> UpdateTime.cpp:41</div></div>
+<div class="ttc" id="aa11452_html_a2073ed7e673a5db381432267861d64ec"><div class="ttname"><a href="../../d7/dd8/a11452.html#a2073ed7e673a5db381432267861d64ec">UpdateTime::GetDatasetSize</a></div><div class="ttdeci">uint32 GetDatasetSize() const</div><div class="ttdef"><b>Definition:</b> UpdateTime.cpp:77</div></div>
+<div class="ttc" id="aa11452_html_a28ab3fb6bd445bf1b36f7cb3b73acff2"><div class="ttname"><a href="../../d7/dd8/a11452.html#a28ab3fb6bd445bf1b36f7cb3b73acff2">UpdateTime::GetLastUpdateTime</a></div><div class="ttdeci">uint32 GetLastUpdateTime() const</div><div class="ttdef"><b>Definition:</b> UpdateTime.cpp:72</div></div>
+<div class="ttc" id="aa11452_html_a45b460f5fec335763e20bfe06fa33980"><div class="ttname"><a href="../../d7/dd8/a11452.html#a45b460f5fec335763e20bfe06fa33980">UpdateTime::GetPercentile</a></div><div class="ttdeci">uint32 GetPercentile(uint8 p)</div><div class="ttdef"><b>Definition:</b> UpdateTime.cpp:82</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00076">_lastRecordTime</a>, <a class="el" href="../../#l00074">_recordUpdateTimeInverval</a>, <a class="el" href="../../#l00075">_recordUpdateTimeMin</a>, <a class="el" href="../../#l00041">UpdateTime::GetAverageUpdateTime()</a>, <a class="el" href="../../#l00077">UpdateTime::GetDatasetSize()</a>, <a class="el" href="../../#l00072">UpdateTime::GetLastUpdateTime()</a>, <a class="el" href="../../#l00091">GetMSTimeDiff()</a>, <a class="el" href="../../#l00082">UpdateTime::GetPercentile()</a>, and <a class="el" href="../../#l00166">LOG_INFO</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l01092">World::Update()</a>.</p>
+
+</div>
+</div>
+<a id="a3ae299cfba6adcbb4e38af40313428fc" name="a3ae299cfba6adcbb4e38af40313428fc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3ae299cfba6adcbb4e38af40313428fc">&#9670;&#160;</a></span>RecordUpdateTimeDuration()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void WorldUpdateTime::RecordUpdateTimeDuration </td>
+          <td>(</td>
+          <td class="paramtype">std::string const &amp;&#160;</td>
+          <td class="paramname"><em>text</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ada81050229ccacc49d5b6a9f6101174c" name="ada81050229ccacc49d5b6a9f6101174c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ada81050229ccacc49d5b6a9f6101174c">&#9670;&#160;</a></span>SetRecordUpdateTimeInterval()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void WorldUpdateTime::SetRecordUpdateTimeInterval </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d3/d74/a04418.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a>&#160;</td>
+          <td class="paramname"><em>t</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  159</span>{</div>
+<div class="line"><span class="lineno">  160</span>    <a class="code hl_variable" href="../../d8/d0c/a11456.html#a5486477b0a604f0207336e423f42c2b1">_recordUpdateTimeInverval</a> = t;</div>
+<div class="line"><span class="lineno">  161</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00074">_recordUpdateTimeInverval</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a id="a7bc68a1a700deb4bc4d19992edf3ffa7" name="a7bc68a1a700deb4bc4d19992edf3ffa7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7bc68a1a700deb4bc4d19992edf3ffa7">&#9670;&#160;</a></span>_lastRecordTime</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -185,33 +343,7 @@ Additional Inherited Members</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d7/db2/a02036.html#a4471667403db9bc7532f371d28743866">DumpReturn</a> PlayerDumpReader::LoadDump </td>
-          <td>(</td>
-          <td class="paramtype">std::istream &amp;&#160;</td>
-          <td class="paramname"><em>input</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>account</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">std::string&#160;</td>
-          <td class="paramname"><em>name</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d9/d48/a08412.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a>&#160;</td>
-          <td class="paramname"><em>guid</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
+          <td class="memname"><a class="el" href="../../d3/d74/a04418.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a> WorldUpdateTime::_lastRecordTime</td>
         </tr>
       </table>
   </td>
@@ -220,364 +352,56 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  765</span>{</div>
-<div class="line"><span class="lineno">  766</span>    <a class="code hl_typedef" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> charcount = <a class="code hl_function" href="../../d0/de6/a04814.html#a4fb760897161c3d463f842b28bcf7c20">AccountMgr::GetCharactersCount</a>(account);</div>
-<div class="line"><span class="lineno">  767</span>    <span class="keywordflow">if</span> (charcount &gt;= 10)</div>
-<div class="line"><span class="lineno">  768</span>        <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../d7/db2/a02036.html#a4471667403db9bc7532f371d28743866a73b27eff0adff2ab7bfd73e34aeb307d">DUMP_TOO_MANY_CHARS</a>;</div>
-<div class="line"><span class="lineno">  769</span> </div>
-<div class="line"><span class="lineno">  770</span>    std::string newguid, chraccount;</div>
-<div class="line"><span class="lineno">  771</span> </div>
-<div class="line"><span class="lineno">  772</span>    <span class="comment">// make sure the same guid doesn&#39;t already exist and is safe to use</span></div>
-<div class="line"><span class="lineno">  773</span>    <span class="keywordtype">bool</span> incHighest = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  774</span>    <span class="keywordflow">if</span> (guid &amp;&amp; guid &lt; sObjectMgr-&gt;GetGenerator&lt;HighGuid::Player&gt;().GetNextAfterMaxUsed())</div>
-<div class="line"><span class="lineno">  775</span>    {</div>
-<div class="line"><span class="lineno">  776</span>        <a class="code hl_class" href="../../d9/d54/a05684.html">CharacterDatabasePreparedStatement</a>* stmt = <a class="code hl_variable" href="../../d1/d7f/a04229.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.GetPreparedStatement(<a class="code hl_enumvalue" href="../../d1/d56/a04163.html#a76116b4fa282d8e35bf8f8e940b5cba7a4dcfa493a586b17a803ce013c1a278a5">CHAR_SEL_CHECK_GUID</a>);</div>
-<div class="line"><span class="lineno">  777</span>        stmt-&gt;<a class="code hl_function" href="../../d3/da1/a05816.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(0, guid);</div>
-<div class="line"><span class="lineno">  778</span> </div>
-<div class="line"><span class="lineno">  779</span>        <span class="keywordflow">if</span> (<a class="code hl_typedef" href="../../d2/d29/a04181.html#ac6110b8d867b5f84f677555d07037acb">PreparedQueryResult</a> result = <a class="code hl_variable" href="../../d1/d7f/a04229.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.Query(stmt))</div>
-<div class="line"><span class="lineno">  780</span>            guid = <a class="code hl_define" href="../../da/d9c/a00413.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a>-&gt;GetGenerator&lt;HighGuid::Player&gt;().GetNextAfterMaxUsed();                     <span class="comment">// use first free if exists</span></div>
-<div class="line"><span class="lineno">  781</span>        <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  782</span>            incHighest = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  783</span>    }</div>
-<div class="line"><span class="lineno">  784</span>    <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  785</span>        guid = <a class="code hl_define" href="../../da/d9c/a00413.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a>-&gt;GetGenerator&lt;HighGuid::Player&gt;().GetNextAfterMaxUsed();</div>
-<div class="line"><span class="lineno">  786</span> </div>
-<div class="line"><span class="lineno">  787</span>    <span class="comment">// normalize the name if specified and check if it exists</span></div>
-<div class="line"><span class="lineno">  788</span>    <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d4/dd3/a00428.html#af55111c173fd16ba2898f3046dfa3d9a">normalizePlayerName</a>(name))</div>
-<div class="line"><span class="lineno">  789</span>        name.clear();</div>
-<div class="line"><span class="lineno">  790</span> </div>
-<div class="line"><span class="lineno">  791</span>    <span class="keywordflow">if</span> (<a class="code hl_function" href="../../dc/d5c/a09040.html#a52aadab7a4733f0de817cbdb5f593358">ObjectMgr::CheckPlayerName</a>(name, <span class="keyword">true</span>) == <a class="code hl_enumvalue" href="../../db/dd9/a00179.html#a42e167e83e1f0229d501a09e3f1d2b1aafca76ecee9b164b52012ea3427c9a118">CHAR_NAME_SUCCESS</a>)</div>
-<div class="line"><span class="lineno">  792</span>    {</div>
-<div class="line"><span class="lineno">  793</span>        <a class="code hl_class" href="../../d9/d54/a05684.html">CharacterDatabasePreparedStatement</a>* stmt = <a class="code hl_variable" href="../../d1/d7f/a04229.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.GetPreparedStatement(<a class="code hl_enumvalue" href="../../d1/d56/a04163.html#a76116b4fa282d8e35bf8f8e940b5cba7a0b33ccc39fca2e9b8b2bcdaa2577e755">CHAR_SEL_CHECK_NAME</a>);</div>
-<div class="line"><span class="lineno">  794</span>        stmt-&gt;<a class="code hl_function" href="../../d3/da1/a05816.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(0, name);</div>
-<div class="line"><span class="lineno">  795</span> </div>
-<div class="line"><span class="lineno">  796</span>        <span class="keywordflow">if</span> (<a class="code hl_typedef" href="../../d2/d29/a04181.html#ac6110b8d867b5f84f677555d07037acb">PreparedQueryResult</a> result = <a class="code hl_variable" href="../../d1/d7f/a04229.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.Query(stmt))</div>
-<div class="line"><span class="lineno">  797</span>            name.clear();                                       <span class="comment">// use the one from the dump</span></div>
-<div class="line"><span class="lineno">  798</span>    }</div>
-<div class="line"><span class="lineno">  799</span>    <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  800</span>        name.clear();</div>
-<div class="line"><span class="lineno">  801</span> </div>
-<div class="line"><span class="lineno">  802</span>    <span class="comment">// name encoded or empty</span></div>
-<div class="line"><span class="lineno">  803</span>    newguid = std::to_string(guid);</div>
-<div class="line"><span class="lineno">  804</span>    chraccount = std::to_string(account);</div>
-<div class="line"><span class="lineno">  805</span> </div>
-<div class="line"><span class="lineno">  806</span>    std::map&lt;ObjectGuid::LowType, ObjectGuid::LowType&gt; items;</div>
-<div class="line"><span class="lineno">  807</span>    <a class="code hl_typedef" href="../../d9/d48/a08412.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a> itemLowGuidOffset = <a class="code hl_define" href="../../da/d9c/a00413.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a>-&gt;GetGenerator&lt;HighGuid::Item&gt;().GetNextAfterMaxUsed();</div>
-<div class="line"><span class="lineno">  808</span> </div>
-<div class="line"><span class="lineno">  809</span>    std::map&lt;ObjectGuid::LowType, ObjectGuid::LowType&gt; mails;</div>
-<div class="line"><span class="lineno">  810</span>    <a class="code hl_typedef" href="../../d9/d48/a08412.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a> mailLowGuidOffset = <a class="code hl_define" href="../../da/d9c/a00413.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a>-&gt;_mailId;</div>
-<div class="line"><span class="lineno">  811</span> </div>
-<div class="line"><span class="lineno">  812</span>    std::map&lt;ObjectGuid::LowType, ObjectGuid::LowType&gt; petIds;</div>
-<div class="line"><span class="lineno">  813</span>    <a class="code hl_typedef" href="../../d9/d48/a08412.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a> petLowGuidOffset = <a class="code hl_define" href="../../da/d9c/a00413.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a>-&gt;_hiPetNumber;</div>
-<div class="line"><span class="lineno">  814</span> </div>
-<div class="line"><span class="lineno">  815</span>    std::map&lt;uint64, uint64&gt; equipmentSetIds;</div>
-<div class="line"><span class="lineno">  816</span>    <a class="code hl_typedef" href="../../d2/d27/a04301.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a> equipmentSetGuidOffset = <a class="code hl_define" href="../../da/d9c/a00413.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a>-&gt;_equipmentSetGuid;</div>
-<div class="line"><span class="lineno">  817</span> </div>
-<div class="line"><span class="lineno">  818</span>    std::string line;</div>
-<div class="line"><span class="lineno">  819</span> </div>
-<div class="line"><span class="lineno">  820</span>    <a class="code hl_typedef" href="../../d2/d27/a04301.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> gender = <a class="code hl_enumvalue" href="../../db/dd9/a00179.html#a3667e3c5ec056737c8789615a989324fafe69f428f13193dcfd8ed8f30d6d2e07">GENDER_NONE</a>;</div>
-<div class="line"><span class="lineno">  821</span>    <a class="code hl_typedef" href="../../d2/d27/a04301.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> race = <a class="code hl_enumvalue" href="../../db/dd9/a00179.html#abece64758d84aa91fa2b6bb82123cc80a47e71374d5c72954dfe58db277fb3bd4">RACE_NONE</a>;</div>
-<div class="line"><span class="lineno">  822</span>    <a class="code hl_typedef" href="../../d2/d27/a04301.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> playerClass = <a class="code hl_enumvalue" href="../../db/dd9/a00179.html#a86e4e3df7a5142175aa5df522d3346cfaba73da32828f4a4d1fce04f4e0ba5aa0">CLASS_NONE</a>;</div>
-<div class="line"><span class="lineno">  823</span>    <a class="code hl_typedef" href="../../d2/d27/a04301.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> level = 1;</div>
-<div class="line"><span class="lineno">  824</span> </div>
-<div class="line"><span class="lineno">  825</span>    <span class="comment">// for logs</span></div>
-<div class="line"><span class="lineno">  826</span>    std::size_t lineNumber = 0;</div>
-<div class="line"><span class="lineno">  827</span> </div>
-<div class="line"><span class="lineno">  828</span>    <a class="code hl_typedef" href="../../d2/d29/a04181.html#a96bac9a371212c6bab7a9448214666c0">CharacterDatabaseTransaction</a> trans = <a class="code hl_variable" href="../../d1/d7f/a04229.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.BeginTransaction();</div>
-<div class="line"><span class="lineno">  829</span>    <span class="keywordflow">while</span> (std::getline(input, line))</div>
-<div class="line"><span class="lineno">  830</span>    {</div>
-<div class="line"><span class="lineno">  831</span>        ++lineNumber;</div>
-<div class="line"><span class="lineno">  832</span> </div>
-<div class="line"><span class="lineno">  833</span>        <span class="comment">// skip empty strings</span></div>
-<div class="line"><span class="lineno">  834</span>        std::size_t nw_pos = line.find_first_not_of(<span class="stringliteral">&quot; \t\n\r\7&quot;</span>);</div>
-<div class="line"><span class="lineno">  835</span>        <span class="keywordflow">if</span> (nw_pos == std::string::npos)</div>
-<div class="line"><span class="lineno">  836</span>            <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  837</span> </div>
-<div class="line"><span class="lineno">  838</span>        <span class="comment">// skip the important notes</span></div>
-<div class="line"><span class="lineno">  839</span>        <span class="keyword">static</span> std::string <span class="keyword">const</span> SkippedLine = <span class="stringliteral">&quot;IMPORTANT NOTE:&quot;</span>;</div>
-<div class="line"><span class="lineno">  840</span>        <span class="keywordflow">if</span> (line.substr(nw_pos, SkippedLine.size()) == SkippedLine)</div>
-<div class="line"><span class="lineno">  841</span>            <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  842</span> </div>
-<div class="line"><span class="lineno">  843</span>        <span class="comment">// determine table name and load type</span></div>
-<div class="line"><span class="lineno">  844</span>        std::string tn = <a class="code hl_function" href="../../d6/d94/a02033.html#af32b9d84c5a117bcf96df822301d8350">GetTableName</a>(line);</div>
-<div class="line"><span class="lineno">  845</span>        <span class="keywordflow">if</span> (tn.empty())</div>
-<div class="line"><span class="lineno">  846</span>        {</div>
-<div class="line"><span class="lineno">  847</span>            <a class="code hl_define" href="../../d8/d7c/a04601.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;misc&quot;</span>, <span class="stringliteral">&quot;LoadPlayerDump: (line {}) Can&#39;t extract table name!&quot;</span>, lineNumber);</div>
-<div class="line"><span class="lineno">  848</span>            <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../d7/db2/a02036.html#a4471667403db9bc7532f371d28743866a86acf22616e301a2ffef9ba80e227ed6">DUMP_FILE_BROKEN</a>;</div>
-<div class="line"><span class="lineno">  849</span>        }</div>
-<div class="line"><span class="lineno">  850</span> </div>
-<div class="line"><span class="lineno">  851</span>        <a class="code hl_enumeration" href="../../d7/db2/a02036.html#ad4739d865080bb5590831b606365e7ef">DumpTableType</a> type = <a class="code hl_enumvalue" href="../../d7/db2/a02036.html#ad4739d865080bb5590831b606365e7efaea3cb16043024e5fdfc4f3301d2df323">DTT_CHARACTER</a>;</div>
-<div class="line"><span class="lineno">  852</span>        <a class="code hl_typedef" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> i;</div>
-<div class="line"><span class="lineno">  853</span>        <span class="keywordflow">for</span> (i = 0; i &lt; <a class="code hl_variable" href="../../d6/d94/a02033.html#a4d61020c5d40e9d3093656551dcc00f0">DUMP_TABLE_COUNT</a>; ++i)</div>
-<div class="line"><span class="lineno">  854</span>        {</div>
-<div class="line"><span class="lineno">  855</span>            <span class="keywordflow">if</span> (tn == <a class="code hl_variable" href="../../d6/d94/a02033.html#a846234dc3d2969c8ef6f67687a3a4049">DumpTables</a>[i].Name)</div>
-<div class="line"><span class="lineno">  856</span>            {</div>
-<div class="line"><span class="lineno">  857</span>                type = <a class="code hl_variable" href="../../d6/d94/a02033.html#a846234dc3d2969c8ef6f67687a3a4049">DumpTables</a>[i].<a class="code hl_variable" href="../../dd/d08/a11432.html#aeacac864bd23dcb7b24efc484810f592">Type</a>;</div>
-<div class="line"><span class="lineno">  858</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  859</span>            }</div>
-<div class="line"><span class="lineno">  860</span>        }</div>
-<div class="line"><span class="lineno">  861</span> </div>
-<div class="line"><span class="lineno">  862</span>        <span class="keywordflow">if</span> (i == <a class="code hl_variable" href="../../d6/d94/a02033.html#a4d61020c5d40e9d3093656551dcc00f0">DUMP_TABLE_COUNT</a>)</div>
-<div class="line"><span class="lineno">  863</span>        {</div>
-<div class="line"><span class="lineno">  864</span>            <a class="code hl_define" href="../../d8/d7c/a04601.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;misc&quot;</span>, <span class="stringliteral">&quot;LoadPlayerDump: (line {}) Unknown table: `{}`!&quot;</span>, lineNumber, tn);</div>
-<div class="line"><span class="lineno">  865</span>            <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../d7/db2/a02036.html#a4471667403db9bc7532f371d28743866a86acf22616e301a2ffef9ba80e227ed6">DUMP_FILE_BROKEN</a>;</div>
-<div class="line"><span class="lineno">  866</span>        }</div>
-<div class="line"><span class="lineno">  867</span> </div>
-<div class="line"><span class="lineno">  868</span>        <a class="code hl_struct" href="../../d7/dbc/a11444.html">TableStruct</a> <span class="keyword">const</span>&amp; ts = <a class="code hl_variable" href="../../d6/d94/a02033.html#ae8849d3a4dc3838acedf5f6f84242c08">CharacterTables</a>[i];</div>
-<div class="line"><span class="lineno">  869</span>        <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d6/d94/a02033.html#ac091f551576a1206061821e3d95b9bc6">ValidateFields</a>(ts, line, lineNumber))</div>
-<div class="line"><span class="lineno">  870</span>            <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../d7/db2/a02036.html#a4471667403db9bc7532f371d28743866a86acf22616e301a2ffef9ba80e227ed6">DUMP_FILE_BROKEN</a>;</div>
-<div class="line"><span class="lineno">  871</span> </div>
-<div class="line"><span class="lineno">  872</span>        <span class="comment">// per field guid offsetting</span></div>
-<div class="line"><span class="lineno">  873</span>        <span class="keywordflow">for</span> (<a class="code hl_struct" href="../../db/dff/a11440.html">TableField</a> <span class="keyword">const</span>&amp; field : ts.<a class="code hl_variable" href="../../d7/dbc/a11444.html#ad5d909c6b4b062f3c4aac3f559c5eaec">TableFields</a>)</div>
-<div class="line"><span class="lineno">  874</span>        {</div>
-<div class="line"><span class="lineno">  875</span>            <span class="keywordflow">if</span> (!field.<a class="code hl_variable" href="../../db/dff/a11440.html#a241b9e8f5672e30732f0b938b02046d4">IsDependentField</a>)</div>
-<div class="line"><span class="lineno">  876</span>                <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  877</span> </div>
-<div class="line"><span class="lineno">  878</span>            <span class="keywordflow">switch</span> (field.<a class="code hl_variable" href="../../db/dff/a11440.html#a88e763ed9715ad76a0eb1c1a9ad7a59b">FieldGuidType</a>)</div>
-<div class="line"><span class="lineno">  879</span>            {</div>
-<div class="line"><span class="lineno">  880</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d6/d94/a02033.html#a786729c2a29db8efe3400a170aeb9073add99b8eef962c1e9a87a68646b4bf876">GUID_TYPE_ACCOUNT</a>:</div>
-<div class="line"><span class="lineno">  881</span>                <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d6/d94/a02033.html#a472b6d51c18d3fc72f924f199508ea12">ChangeColumn</a>(ts, line, field.<a class="code hl_variable" href="../../db/dff/a11440.html#a669f1ecf12148799e59e7b3e3124d681">FieldName</a>, chraccount))</div>
-<div class="line"><span class="lineno">  882</span>                    <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../d7/db2/a02036.html#a4471667403db9bc7532f371d28743866a86acf22616e301a2ffef9ba80e227ed6">DUMP_FILE_BROKEN</a>;</div>
-<div class="line"><span class="lineno">  883</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  884</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d6/d94/a02033.html#a786729c2a29db8efe3400a170aeb9073ac93e6c4d1a9efe0499f1c7a7b826821e">GUID_TYPE_CHAR</a>:</div>
-<div class="line"><span class="lineno">  885</span>                <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d6/d94/a02033.html#a472b6d51c18d3fc72f924f199508ea12">ChangeColumn</a>(ts, line, field.<a class="code hl_variable" href="../../db/dff/a11440.html#a669f1ecf12148799e59e7b3e3124d681">FieldName</a>, newguid))</div>
-<div class="line"><span class="lineno">  886</span>                    <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../d7/db2/a02036.html#a4471667403db9bc7532f371d28743866a86acf22616e301a2ffef9ba80e227ed6">DUMP_FILE_BROKEN</a>;</div>
-<div class="line"><span class="lineno">  887</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  888</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d6/d94/a02033.html#a786729c2a29db8efe3400a170aeb9073a69c016bd84f08697ac13b16609866466">GUID_TYPE_PET</a>:</div>
-<div class="line"><span class="lineno">  889</span>                <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d6/d94/a02033.html#a43971347cb9fd242d082d962c1b8184e">ChangeGuid</a>(ts, line, field.<a class="code hl_variable" href="../../db/dff/a11440.html#a669f1ecf12148799e59e7b3e3124d681">FieldName</a>, petIds, petLowGuidOffset))</div>
-<div class="line"><span class="lineno">  890</span>                    <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../d7/db2/a02036.html#a4471667403db9bc7532f371d28743866a86acf22616e301a2ffef9ba80e227ed6">DUMP_FILE_BROKEN</a>;</div>
-<div class="line"><span class="lineno">  891</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  892</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d6/d94/a02033.html#a786729c2a29db8efe3400a170aeb9073a53f4408b25dfeb8012a6ff280c5abf34">GUID_TYPE_MAIL</a>:</div>
-<div class="line"><span class="lineno">  893</span>                <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d6/d94/a02033.html#a43971347cb9fd242d082d962c1b8184e">ChangeGuid</a>(ts, line, field.<a class="code hl_variable" href="../../db/dff/a11440.html#a669f1ecf12148799e59e7b3e3124d681">FieldName</a>, mails, mailLowGuidOffset))</div>
-<div class="line"><span class="lineno">  894</span>                    <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../d7/db2/a02036.html#a4471667403db9bc7532f371d28743866a86acf22616e301a2ffef9ba80e227ed6">DUMP_FILE_BROKEN</a>;</div>
-<div class="line"><span class="lineno">  895</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  896</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d6/d94/a02033.html#a786729c2a29db8efe3400a170aeb9073ad1a7c19c45454ebb3d4fbaa8e7c23e02">GUID_TYPE_ITEM</a>:</div>
-<div class="line"><span class="lineno">  897</span>                <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d6/d94/a02033.html#a43971347cb9fd242d082d962c1b8184e">ChangeGuid</a>(ts, line, field.<a class="code hl_variable" href="../../db/dff/a11440.html#a669f1ecf12148799e59e7b3e3124d681">FieldName</a>, items, itemLowGuidOffset, <span class="keyword">true</span>))</div>
-<div class="line"><span class="lineno">  898</span>                    <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../d7/db2/a02036.html#a4471667403db9bc7532f371d28743866a86acf22616e301a2ffef9ba80e227ed6">DUMP_FILE_BROKEN</a>;</div>
-<div class="line"><span class="lineno">  899</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  900</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d6/d94/a02033.html#a786729c2a29db8efe3400a170aeb9073a7e486a867408d382ecfe7bfe1a79a157">GUID_TYPE_EQUIPMENT_SET</a>:</div>
-<div class="line"><span class="lineno">  901</span>                <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d6/d94/a02033.html#a43971347cb9fd242d082d962c1b8184e">ChangeGuid</a>(ts, line, field.<a class="code hl_variable" href="../../db/dff/a11440.html#a669f1ecf12148799e59e7b3e3124d681">FieldName</a>, equipmentSetIds, equipmentSetGuidOffset))</div>
-<div class="line"><span class="lineno">  902</span>                    <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../d7/db2/a02036.html#a4471667403db9bc7532f371d28743866a86acf22616e301a2ffef9ba80e227ed6">DUMP_FILE_BROKEN</a>;</div>
-<div class="line"><span class="lineno">  903</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  904</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d6/d94/a02033.html#a786729c2a29db8efe3400a170aeb9073a4215597c66d8cb0ea684255c5b7a2874">GUID_TYPE_NULL</a>:</div>
-<div class="line"><span class="lineno">  905</span>            {</div>
-<div class="line"><span class="lineno">  906</span>                <span class="keyword">static</span> std::string <span class="keyword">const</span> NullString(<span class="stringliteral">&quot;NULL&quot;</span>);</div>
-<div class="line"><span class="lineno">  907</span>                <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d6/d94/a02033.html#a472b6d51c18d3fc72f924f199508ea12">ChangeColumn</a>(ts, line, field.<a class="code hl_variable" href="../../db/dff/a11440.html#a669f1ecf12148799e59e7b3e3124d681">FieldName</a>, NullString))</div>
-<div class="line"><span class="lineno">  908</span>                    <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../d7/db2/a02036.html#a4471667403db9bc7532f371d28743866a86acf22616e301a2ffef9ba80e227ed6">DUMP_FILE_BROKEN</a>;</div>
-<div class="line"><span class="lineno">  909</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  910</span>            }</div>
-<div class="line"><span class="lineno">  911</span>            }</div>
-<div class="line"><span class="lineno">  912</span>        }</div>
-<div class="line"><span class="lineno">  913</span> </div>
-<div class="line"><span class="lineno">  914</span>        <span class="comment">// extra modifications for other tables</span></div>
-<div class="line"><span class="lineno">  915</span>        <span class="keywordflow">switch</span> (type)</div>
-<div class="line"><span class="lineno">  916</span>        {</div>
-<div class="line"><span class="lineno">  917</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d7/db2/a02036.html#ad4739d865080bb5590831b606365e7efaea3cb16043024e5fdfc4f3301d2df323">DTT_CHARACTER</a>:</div>
-<div class="line"><span class="lineno">  918</span>        {</div>
-<div class="line"><span class="lineno">  919</span>            race = *Acore::StringTo&lt;uint32&gt;(<a class="code hl_function" href="../../d6/d94/a02033.html#a21507cf8ad94e164df4f1bfe273d32da">GetColumn</a>(ts, line, <span class="stringliteral">&quot;race&quot;</span>));</div>
-<div class="line"><span class="lineno">  920</span>            playerClass = *Acore::StringTo&lt;uint32&gt;(<a class="code hl_function" href="../../d6/d94/a02033.html#a21507cf8ad94e164df4f1bfe273d32da">GetColumn</a>(ts, line, <span class="stringliteral">&quot;class&quot;</span>));</div>
-<div class="line"><span class="lineno">  921</span>            gender = *Acore::StringTo&lt;uint32&gt;(<a class="code hl_function" href="../../d6/d94/a02033.html#a21507cf8ad94e164df4f1bfe273d32da">GetColumn</a>(ts, line, <span class="stringliteral">&quot;gender&quot;</span>));</div>
-<div class="line"><span class="lineno">  922</span>            level = *Acore::StringTo&lt;uint32&gt;(<a class="code hl_function" href="../../d6/d94/a02033.html#a21507cf8ad94e164df4f1bfe273d32da">GetColumn</a>(ts, line, <span class="stringliteral">&quot;level&quot;</span>));</div>
-<div class="line"><span class="lineno">  923</span>            <span class="keywordflow">if</span> (name.empty())</div>
-<div class="line"><span class="lineno">  924</span>            {</div>
-<div class="line"><span class="lineno">  925</span>                <span class="comment">// generate a temporary name</span></div>
-<div class="line"><span class="lineno">  926</span>                std::string guidPart = <a class="code hl_function" href="../../db/da6/a04782.html#a868406b9609960d4ae0189588c8cbbf4">Acore::StringFormat</a>(<span class="stringliteral">&quot;{:X}&quot;</span>, guid);</div>
-<div class="line"><span class="lineno">  927</span>                std::size_t maxCharsFromOriginalName = <a class="code hl_define" href="../../da/d9c/a00413.html#a17e4584e6f22ba5f1b29f6c6db21fdfb">MAX_PLAYER_NAME</a> - guidPart.length();</div>
-<div class="line"><span class="lineno">  928</span> </div>
-<div class="line"><span class="lineno">  929</span>                name = <a class="code hl_function" href="../../d6/d94/a02033.html#a21507cf8ad94e164df4f1bfe273d32da">GetColumn</a>(ts, line, <span class="stringliteral">&quot;name&quot;</span>).substr(0, maxCharsFromOriginalName) + guidPart;</div>
-<div class="line"><span class="lineno">  930</span> </div>
-<div class="line"><span class="lineno">  931</span>                <span class="comment">// characters.at_login set to &quot;rename on login&quot;</span></div>
-<div class="line"><span class="lineno">  932</span>                <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d6/d94/a02033.html#a472b6d51c18d3fc72f924f199508ea12">ChangeColumn</a>(ts, line, <span class="stringliteral">&quot;name&quot;</span>, name))</div>
-<div class="line"><span class="lineno">  933</span>                    <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../d7/db2/a02036.html#a4471667403db9bc7532f371d28743866a86acf22616e301a2ffef9ba80e227ed6">DUMP_FILE_BROKEN</a>;</div>
-<div class="line"><span class="lineno">  934</span>                <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d6/d94/a02033.html#a472b6d51c18d3fc72f924f199508ea12">ChangeColumn</a>(ts, line, <span class="stringliteral">&quot;at_login&quot;</span>, <span class="stringliteral">&quot;1&quot;</span>))</div>
-<div class="line"><span class="lineno">  935</span>                    <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../d7/db2/a02036.html#a4471667403db9bc7532f371d28743866a86acf22616e301a2ffef9ba80e227ed6">DUMP_FILE_BROKEN</a>;</div>
-<div class="line"><span class="lineno">  936</span>            }</div>
-<div class="line"><span class="lineno">  937</span>            <span class="keywordflow">else</span> <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d6/d94/a02033.html#a472b6d51c18d3fc72f924f199508ea12">ChangeColumn</a>(ts, line, <span class="stringliteral">&quot;name&quot;</span>, name)) <span class="comment">// characters.name</span></div>
-<div class="line"><span class="lineno">  938</span>                <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../d7/db2/a02036.html#a4471667403db9bc7532f371d28743866a86acf22616e301a2ffef9ba80e227ed6">DUMP_FILE_BROKEN</a>;</div>
-<div class="line"><span class="lineno">  939</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  940</span>        }</div>
-<div class="line"><span class="lineno">  941</span>        <span class="keywordflow">default</span>:</div>
-<div class="line"><span class="lineno">  942</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  943</span>        }</div>
-<div class="line"><span class="lineno">  944</span> </div>
-<div class="line"><span class="lineno">  945</span>        <a class="code hl_function" href="../../d6/d94/a02033.html#ad06caa0201c6ed5de4537e124ac90086">FixNULLfields</a>(line);</div>
-<div class="line"><span class="lineno">  946</span> </div>
-<div class="line"><span class="lineno">  947</span>        trans-&gt;Append(line.c_str());</div>
-<div class="line"><span class="lineno">  948</span>    }</div>
-<div class="line"><span class="lineno">  949</span> </div>
-<div class="line"><span class="lineno">  950</span>    <span class="keywordflow">if</span> (input.fail() &amp;&amp; !input.eof())</div>
-<div class="line"><span class="lineno">  951</span>        <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../d7/db2/a02036.html#a4471667403db9bc7532f371d28743866a86acf22616e301a2ffef9ba80e227ed6">DUMP_FILE_BROKEN</a>;</div>
-<div class="line"><span class="lineno">  952</span> </div>
-<div class="line"><span class="lineno">  953</span>    <a class="code hl_variable" href="../../d1/d7f/a04229.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.CommitTransaction(trans);</div>
-<div class="line"><span class="lineno">  954</span> </div>
-<div class="line"><span class="lineno">  955</span>    <span class="comment">// in case of name conflict player has to rename at login anyway</span></div>
-<div class="line"><span class="lineno">  956</span>    <a class="code hl_define" href="../../d2/d21/a01484.html#a7a32c898b33d6163d83a32f46d58517c">sCharacterCache</a>-&gt;AddCharacterCacheEntry(<a class="code hl_class" href="../../d9/d48/a08412.html">ObjectGuid</a>(HighGuid::Player, guid), account, name, gender, race, playerClass, level);</div>
-<div class="line"><span class="lineno">  957</span> </div>
-<div class="line"><span class="lineno">  958</span>    <a class="code hl_define" href="../../da/d9c/a00413.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a>-&gt;GetGenerator&lt;HighGuid::Item&gt;().Set(<a class="code hl_define" href="../../da/d9c/a00413.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a>-&gt;GetGenerator&lt;HighGuid::Item&gt;().GetNextAfterMaxUsed() + items.size());</div>
-<div class="line"><span class="lineno">  959</span>    <a class="code hl_define" href="../../da/d9c/a00413.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a>-&gt;_mailId += mails.size();</div>
-<div class="line"><span class="lineno">  960</span>    <a class="code hl_define" href="../../da/d9c/a00413.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a>-&gt;_hiPetNumber += petIds.size();</div>
-<div class="line"><span class="lineno">  961</span>    <a class="code hl_define" href="../../da/d9c/a00413.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a>-&gt;_equipmentSetGuid += equipmentSetIds.size();</div>
-<div class="line"><span class="lineno">  962</span> </div>
-<div class="line"><span class="lineno">  963</span>    <span class="keywordflow">if</span> (incHighest)</div>
-<div class="line"><span class="lineno">  964</span>        <a class="code hl_define" href="../../da/d9c/a00413.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a>-&gt;GetGenerator&lt;HighGuid::Player&gt;().Generate();</div>
-<div class="line"><span class="lineno">  965</span> </div>
-<div class="line"><span class="lineno">  966</span>    <a class="code hl_define" href="../../dd/d6d/a04777.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;UpdateRealmCharCount(account);</div>
-<div class="line"><span class="lineno">  967</span> </div>
-<div class="line"><span class="lineno">  968</span>    <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../d7/db2/a02036.html#a4471667403db9bc7532f371d28743866a6516d3543697022dbf635913b248e48e">DUMP_SUCCESS</a>;</div>
-<div class="line"><span class="lineno">  969</span>}</div>
-<div class="ttc" id="aa00179_html_a3667e3c5ec056737c8789615a989324fafe69f428f13193dcfd8ed8f30d6d2e07"><div class="ttname"><a href="../../db/dd9/a00179.html#a3667e3c5ec056737c8789615a989324fafe69f428f13193dcfd8ed8f30d6d2e07">GENDER_NONE</a></div><div class="ttdeci">@ GENDER_NONE</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:63</div></div>
-<div class="ttc" id="aa00179_html_a42e167e83e1f0229d501a09e3f1d2b1aafca76ecee9b164b52012ea3427c9a118"><div class="ttname"><a href="../../db/dd9/a00179.html#a42e167e83e1f0229d501a09e3f1d2b1aafca76ecee9b164b52012ea3427c9a118">CHAR_NAME_SUCCESS</a></div><div class="ttdeci">@ CHAR_NAME_SUCCESS</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:3674</div></div>
-<div class="ttc" id="aa00179_html_a86e4e3df7a5142175aa5df522d3346cfaba73da32828f4a4d1fce04f4e0ba5aa0"><div class="ttname"><a href="../../db/dd9/a00179.html#a86e4e3df7a5142175aa5df522d3346cfaba73da32828f4a4d1fce04f4e0ba5aa0">CLASS_NONE</a></div><div class="ttdeci">@ CLASS_NONE</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:140</div></div>
-<div class="ttc" id="aa00179_html_abece64758d84aa91fa2b6bb82123cc80a47e71374d5c72954dfe58db277fb3bd4"><div class="ttname"><a href="../../db/dd9/a00179.html#abece64758d84aa91fa2b6bb82123cc80a47e71374d5c72954dfe58db277fb3bd4">RACE_NONE</a></div><div class="ttdeci">@ RACE_NONE</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:70</div></div>
-<div class="ttc" id="aa00413_html_a17e4584e6f22ba5f1b29f6c6db21fdfb"><div class="ttname"><a href="../../da/d9c/a00413.html#a17e4584e6f22ba5f1b29f6c6db21fdfb">MAX_PLAYER_NAME</a></div><div class="ttdeci">#define MAX_PLAYER_NAME</div><div class="ttdef"><b>Definition:</b> ObjectMgr.h:682</div></div>
-<div class="ttc" id="aa00413_html_a736e30da2b5261060ac6cdbb5de3b787"><div class="ttname"><a href="../../da/d9c/a00413.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a></div><div class="ttdeci">#define sObjectMgr</div><div class="ttdef"><b>Definition:</b> ObjectMgr.h:1650</div></div>
-<div class="ttc" id="aa00428_html_af55111c173fd16ba2898f3046dfa3d9a"><div class="ttname"><a href="../../d4/dd3/a00428.html#af55111c173fd16ba2898f3046dfa3d9a">normalizePlayerName</a></div><div class="ttdeci">bool normalizePlayerName(std::string &amp;name)</div><div class="ttdef"><b>Definition:</b> ObjectMgr.cpp:208</div></div>
-<div class="ttc" id="aa01484_html_a7a32c898b33d6163d83a32f46d58517c"><div class="ttname"><a href="../../d2/d21/a01484.html#a7a32c898b33d6163d83a32f46d58517c">sCharacterCache</a></div><div class="ttdeci">#define sCharacterCache</div><div class="ttdef"><b>Definition:</b> CharacterCache.h:83</div></div>
-<div class="ttc" id="aa02033_html_a21507cf8ad94e164df4f1bfe273d32da"><div class="ttname"><a href="../../d6/d94/a02033.html#a21507cf8ad94e164df4f1bfe273d32da">GetColumn</a></div><div class="ttdeci">std::string GetColumn(TableStruct const &amp;ts, std::string &amp;str, std::string const &amp;column)</div><div class="ttdef"><b>Definition:</b> PlayerDump.cpp:483</div></div>
-<div class="ttc" id="aa02033_html_a43971347cb9fd242d082d962c1b8184e"><div class="ttname"><a href="../../d6/d94/a02033.html#a43971347cb9fd242d082d962c1b8184e">ChangeGuid</a></div><div class="ttdeci">bool ChangeGuid(TableStruct const &amp;ts, std::string &amp;str, std::string const &amp;column, MapType&lt; T, T, Rest... &gt; &amp;guidMap, T guidOffset, bool allowZero=false)</div><div class="ttdef"><b>Definition:</b> PlayerDump.cpp:505</div></div>
-<div class="ttc" id="aa02033_html_a472b6d51c18d3fc72f924f199508ea12"><div class="ttname"><a href="../../d6/d94/a02033.html#a472b6d51c18d3fc72f924f199508ea12">ChangeColumn</a></div><div class="ttdeci">bool ChangeColumn(TableStruct const &amp;ts, std::string &amp;str, std::string const &amp;column, std::string const &amp;with, bool allowZero=false)</div><div class="ttdef"><b>Definition:</b> PlayerDump.cpp:470</div></div>
-<div class="ttc" id="aa02033_html_a4d61020c5d40e9d3093656551dcc00f0"><div class="ttname"><a href="../../d6/d94/a02033.html#a4d61020c5d40e9d3093656551dcc00f0">DUMP_TABLE_COUNT</a></div><div class="ttdeci">uint32 const DUMP_TABLE_COUNT</div><div class="ttdef"><b>Definition:</b> PlayerDump.cpp:123</div></div>
-<div class="ttc" id="aa02033_html_a786729c2a29db8efe3400a170aeb9073a4215597c66d8cb0ea684255c5b7a2874"><div class="ttname"><a href="../../d6/d94/a02033.html#a786729c2a29db8efe3400a170aeb9073a4215597c66d8cb0ea684255c5b7a2874">GUID_TYPE_NULL</a></div><div class="ttdeci">@ GUID_TYPE_NULL</div><div class="ttdef"><b>Definition:</b> PlayerDump.cpp:45</div></div>
-<div class="ttc" id="aa02033_html_a786729c2a29db8efe3400a170aeb9073a53f4408b25dfeb8012a6ff280c5abf34"><div class="ttname"><a href="../../d6/d94/a02033.html#a786729c2a29db8efe3400a170aeb9073a53f4408b25dfeb8012a6ff280c5abf34">GUID_TYPE_MAIL</a></div><div class="ttdeci">@ GUID_TYPE_MAIL</div><div class="ttdef"><b>Definition:</b> PlayerDump.cpp:38</div></div>
-<div class="ttc" id="aa02033_html_a786729c2a29db8efe3400a170aeb9073a69c016bd84f08697ac13b16609866466"><div class="ttname"><a href="../../d6/d94/a02033.html#a786729c2a29db8efe3400a170aeb9073a69c016bd84f08697ac13b16609866466">GUID_TYPE_PET</a></div><div class="ttdeci">@ GUID_TYPE_PET</div><div class="ttdef"><b>Definition:</b> PlayerDump.cpp:37</div></div>
-<div class="ttc" id="aa02033_html_a786729c2a29db8efe3400a170aeb9073a7e486a867408d382ecfe7bfe1a79a157"><div class="ttname"><a href="../../d6/d94/a02033.html#a786729c2a29db8efe3400a170aeb9073a7e486a867408d382ecfe7bfe1a79a157">GUID_TYPE_EQUIPMENT_SET</a></div><div class="ttdeci">@ GUID_TYPE_EQUIPMENT_SET</div><div class="ttdef"><b>Definition:</b> PlayerDump.cpp:42</div></div>
-<div class="ttc" id="aa02033_html_a786729c2a29db8efe3400a170aeb9073ac93e6c4d1a9efe0499f1c7a7b826821e"><div class="ttname"><a href="../../d6/d94/a02033.html#a786729c2a29db8efe3400a170aeb9073ac93e6c4d1a9efe0499f1c7a7b826821e">GUID_TYPE_CHAR</a></div><div class="ttdeci">@ GUID_TYPE_CHAR</div><div class="ttdef"><b>Definition:</b> PlayerDump.cpp:36</div></div>
-<div class="ttc" id="aa02033_html_a786729c2a29db8efe3400a170aeb9073ad1a7c19c45454ebb3d4fbaa8e7c23e02"><div class="ttname"><a href="../../d6/d94/a02033.html#a786729c2a29db8efe3400a170aeb9073ad1a7c19c45454ebb3d4fbaa8e7c23e02">GUID_TYPE_ITEM</a></div><div class="ttdeci">@ GUID_TYPE_ITEM</div><div class="ttdef"><b>Definition:</b> PlayerDump.cpp:39</div></div>
-<div class="ttc" id="aa02033_html_a786729c2a29db8efe3400a170aeb9073add99b8eef962c1e9a87a68646b4bf876"><div class="ttname"><a href="../../d6/d94/a02033.html#a786729c2a29db8efe3400a170aeb9073add99b8eef962c1e9a87a68646b4bf876">GUID_TYPE_ACCOUNT</a></div><div class="ttdeci">@ GUID_TYPE_ACCOUNT</div><div class="ttdef"><b>Definition:</b> PlayerDump.cpp:35</div></div>
-<div class="ttc" id="aa02033_html_a846234dc3d2969c8ef6f67687a3a4049"><div class="ttname"><a href="../../d6/d94/a02033.html#a846234dc3d2969c8ef6f67687a3a4049">DumpTables</a></div><div class="ttdeci">DumpTable const DumpTables[]</div><div class="ttdef"><b>Definition:</b> PlayerDump.cpp:88</div></div>
-<div class="ttc" id="aa02033_html_ac091f551576a1206061821e3d95b9bc6"><div class="ttname"><a href="../../d6/d94/a02033.html#ac091f551576a1206061821e3d95b9bc6">ValidateFields</a></div><div class="ttdeci">bool ValidateFields(TableStruct const &amp;ts, std::string const &amp;str, std::size_t lineNumber)</div><div class="ttdef"><b>Definition:</b> PlayerDump.cpp:429</div></div>
-<div class="ttc" id="aa02033_html_ad06caa0201c6ed5de4537e124ac90086"><div class="ttname"><a href="../../d6/d94/a02033.html#ad06caa0201c6ed5de4537e124ac90086">FixNULLfields</a></div><div class="ttdeci">void FixNULLfields(std::string &amp;line)</div><div class="ttdef"><b>Definition:</b> PlayerDump.cpp:753</div></div>
-<div class="ttc" id="aa02033_html_ae8849d3a4dc3838acedf5f6f84242c08"><div class="ttname"><a href="../../d6/d94/a02033.html#ae8849d3a4dc3838acedf5f6f84242c08">CharacterTables</a></div><div class="ttdeci">std::vector&lt; TableStruct &gt; CharacterTables</div><div class="ttdef"><b>Definition:</b> PlayerDump.cpp:166</div></div>
-<div class="ttc" id="aa02033_html_af32b9d84c5a117bcf96df822301d8350"><div class="ttname"><a href="../../d6/d94/a02033.html#af32b9d84c5a117bcf96df822301d8350">GetTableName</a></div><div class="ttdeci">std::string GetTableName(std::string const &amp;str)</div><div class="ttdef"><b>Definition:</b> PlayerDump.cpp:418</div></div>
-<div class="ttc" id="aa02036_html_a4471667403db9bc7532f371d28743866a6516d3543697022dbf635913b248e48e"><div class="ttname"><a href="../../d7/db2/a02036.html#a4471667403db9bc7532f371d28743866a6516d3543697022dbf635913b248e48e">DUMP_SUCCESS</a></div><div class="ttdeci">@ DUMP_SUCCESS</div><div class="ttdef"><b>Definition:</b> PlayerDump.h:54</div></div>
-<div class="ttc" id="aa02036_html_a4471667403db9bc7532f371d28743866a73b27eff0adff2ab7bfd73e34aeb307d"><div class="ttname"><a href="../../d7/db2/a02036.html#a4471667403db9bc7532f371d28743866a73b27eff0adff2ab7bfd73e34aeb307d">DUMP_TOO_MANY_CHARS</a></div><div class="ttdeci">@ DUMP_TOO_MANY_CHARS</div><div class="ttdef"><b>Definition:</b> PlayerDump.h:56</div></div>
-<div class="ttc" id="aa02036_html_a4471667403db9bc7532f371d28743866a86acf22616e301a2ffef9ba80e227ed6"><div class="ttname"><a href="../../d7/db2/a02036.html#a4471667403db9bc7532f371d28743866a86acf22616e301a2ffef9ba80e227ed6">DUMP_FILE_BROKEN</a></div><div class="ttdeci">@ DUMP_FILE_BROKEN</div><div class="ttdef"><b>Definition:</b> PlayerDump.h:57</div></div>
-<div class="ttc" id="aa02036_html_ad4739d865080bb5590831b606365e7ef"><div class="ttname"><a href="../../d7/db2/a02036.html#ad4739d865080bb5590831b606365e7ef">DumpTableType</a></div><div class="ttdeci">DumpTableType</div><div class="ttdef"><b>Definition:</b> PlayerDump.h:25</div></div>
-<div class="ttc" id="aa02036_html_ad4739d865080bb5590831b606365e7efaea3cb16043024e5fdfc4f3301d2df323"><div class="ttname"><a href="../../d7/db2/a02036.html#ad4739d865080bb5590831b606365e7efaea3cb16043024e5fdfc4f3301d2df323">DTT_CHARACTER</a></div><div class="ttdeci">@ DTT_CHARACTER</div><div class="ttdef"><b>Definition:</b> PlayerDump.h:26</div></div>
-<div class="ttc" id="aa04163_html_a76116b4fa282d8e35bf8f8e940b5cba7a0b33ccc39fca2e9b8b2bcdaa2577e755"><div class="ttname"><a href="../../d1/d56/a04163.html#a76116b4fa282d8e35bf8f8e940b5cba7a0b33ccc39fca2e9b8b2bcdaa2577e755">CHAR_SEL_CHECK_NAME</a></div><div class="ttdeci">@ CHAR_SEL_CHECK_NAME</div><div class="ttdef"><b>Definition:</b> CharacterDatabase.h:37</div></div>
-<div class="ttc" id="aa04163_html_a76116b4fa282d8e35bf8f8e940b5cba7a4dcfa493a586b17a803ce013c1a278a5"><div class="ttname"><a href="../../d1/d56/a04163.html#a76116b4fa282d8e35bf8f8e940b5cba7a4dcfa493a586b17a803ce013c1a278a5">CHAR_SEL_CHECK_GUID</a></div><div class="ttdeci">@ CHAR_SEL_CHECK_GUID</div><div class="ttdef"><b>Definition:</b> CharacterDatabase.h:38</div></div>
-<div class="ttc" id="aa04181_html_a96bac9a371212c6bab7a9448214666c0"><div class="ttname"><a href="../../d2/d29/a04181.html#a96bac9a371212c6bab7a9448214666c0">CharacterDatabaseTransaction</a></div><div class="ttdeci">SQLTransaction&lt; CharacterDatabaseConnection &gt; CharacterDatabaseTransaction</div><div class="ttdef"><b>Definition:</b> DatabaseEnvFwd.h:69</div></div>
-<div class="ttc" id="aa04181_html_ac6110b8d867b5f84f677555d07037acb"><div class="ttname"><a href="../../d2/d29/a04181.html#ac6110b8d867b5f84f677555d07037acb">PreparedQueryResult</a></div><div class="ttdeci">std::shared_ptr&lt; PreparedResultSet &gt; PreparedQueryResult</div><div class="ttdef"><b>Definition:</b> DatabaseEnvFwd.h:45</div></div>
-<div class="ttc" id="aa04229_html_a7e7534bc66d79434bd280b77cb124eec"><div class="ttname"><a href="../../d1/d7f/a04229.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a></div><div class="ttdeci">DatabaseWorkerPool&lt; CharacterDatabaseConnection &gt; CharacterDatabase</div><div class="ttdoc">Accessor to the character database.</div><div class="ttdef"><b>Definition:</b> DatabaseEnv.cpp:21</div></div>
-<div class="ttc" id="aa04301_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../d2/d27/a04301.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition:</b> Define.h:109</div></div>
-<div class="ttc" id="aa04301_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
-<div class="ttc" id="aa04301_html_ac4dd6ce78ce3b840c53bd4b3c63ed09b"><div class="ttname"><a href="../../d2/d27/a04301.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a></div><div class="ttdeci">std::uint64_t uint64</div><div class="ttdef"><b>Definition:</b> Define.h:106</div></div>
-<div class="ttc" id="aa04601_html_a43832e3fa8508deb4ce43e520005fcd9"><div class="ttname"><a href="../../d8/d7c/a04601.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a></div><div class="ttdeci">#define LOG_ERROR(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:158</div></div>
-<div class="ttc" id="aa04777_html_ga05dfb35c344e5b947a19e4284e7f5fa7"><div class="ttname"><a href="../../dd/d6d/a04777.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a></div><div class="ttdeci">#define sWorld</div><div class="ttdef"><b>Definition:</b> World.h:320</div></div>
-<div class="ttc" id="aa04782_html_a868406b9609960d4ae0189588c8cbbf4"><div class="ttname"><a href="../../db/da6/a04782.html#a868406b9609960d4ae0189588c8cbbf4">Acore::StringFormat</a></div><div class="ttdeci">std::string StringFormat(FormatString&lt; Args... &gt; fmt, Args &amp;&amp;... args)</div><div class="ttdoc">Default AC string format function.</div><div class="ttdef"><b>Definition:</b> StringFormat.h:34</div></div>
-<div class="ttc" id="aa04814_html_a4fb760897161c3d463f842b28bcf7c20"><div class="ttname"><a href="../../d0/de6/a04814.html#a4fb760897161c3d463f842b28bcf7c20">AccountMgr::GetCharactersCount</a></div><div class="ttdeci">uint32 GetCharactersCount(uint32 accountId)</div><div class="ttdef"><b>Definition:</b> AccountMgr.cpp:302</div></div>
-<div class="ttc" id="aa05684_html"><div class="ttname"><a href="../../d9/d54/a05684.html">PreparedStatement</a></div><div class="ttdef"><b>Definition:</b> PreparedStatement.h:157</div></div>
-<div class="ttc" id="aa05816_html_a52fc2e65042c1db51f0923725a0f0ed0"><div class="ttname"><a href="../../d3/da1/a05816.html#a52fc2e65042c1db51f0923725a0f0ed0">PreparedStatementBase::SetData</a></div><div class="ttdeci">Acore::Types::is_default&lt; T &gt; SetData(const uint8 index, T value)</div><div class="ttdef"><b>Definition:</b> PreparedStatement.h:77</div></div>
-<div class="ttc" id="aa08412_html"><div class="ttname"><a href="../../d9/d48/a08412.html">ObjectGuid</a></div><div class="ttdef"><b>Definition:</b> ObjectGuid.h:118</div></div>
-<div class="ttc" id="aa08412_html_aa278d50613c05dc1333df5185a6993eb"><div class="ttname"><a href="../../d9/d48/a08412.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a></div><div class="ttdeci">uint32 LowType</div><div class="ttdef"><b>Definition:</b> ObjectGuid.h:122</div></div>
-<div class="ttc" id="aa09040_html_a52aadab7a4733f0de817cbdb5f593358"><div class="ttname"><a href="../../dc/d5c/a09040.html#a52aadab7a4733f0de817cbdb5f593358">ObjectMgr::CheckPlayerName</a></div><div class="ttdeci">static uint8 CheckPlayerName(std::string_view name, bool create=false)</div><div class="ttdef"><b>Definition:</b> ObjectMgr.cpp:8641</div></div>
-<div class="ttc" id="aa11432_html_aeacac864bd23dcb7b24efc484810f592"><div class="ttname"><a href="../../dd/d08/a11432.html#aeacac864bd23dcb7b24efc484810f592">DumpTable::Type</a></div><div class="ttdeci">DumpTableType Type</div><div class="ttdef"><b>Definition:</b> PlayerDump.cpp:85</div></div>
-<div class="ttc" id="aa11440_html"><div class="ttname"><a href="../../db/dff/a11440.html">TableField</a></div><div class="ttdef"><b>Definition:</b> PlayerDump.cpp:149</div></div>
-<div class="ttc" id="aa11440_html_a241b9e8f5672e30732f0b938b02046d4"><div class="ttname"><a href="../../db/dff/a11440.html#a241b9e8f5672e30732f0b938b02046d4">TableField::IsDependentField</a></div><div class="ttdeci">bool IsDependentField</div><div class="ttdef"><b>Definition:</b> PlayerDump.cpp:153</div></div>
-<div class="ttc" id="aa11440_html_a669f1ecf12148799e59e7b3e3124d681"><div class="ttname"><a href="../../db/dff/a11440.html#a669f1ecf12148799e59e7b3e3124d681">TableField::FieldName</a></div><div class="ttdeci">std::string FieldName</div><div class="ttdef"><b>Definition:</b> PlayerDump.cpp:150</div></div>
-<div class="ttc" id="aa11440_html_a88e763ed9715ad76a0eb1c1a9ad7a59b"><div class="ttname"><a href="../../db/dff/a11440.html#a88e763ed9715ad76a0eb1c1a9ad7a59b">TableField::FieldGuidType</a></div><div class="ttdeci">GuidType FieldGuidType</div><div class="ttdef"><b>Definition:</b> PlayerDump.cpp:152</div></div>
-<div class="ttc" id="aa11444_html"><div class="ttname"><a href="../../d7/dbc/a11444.html">TableStruct</a></div><div class="ttdef"><b>Definition:</b> PlayerDump.cpp:157</div></div>
-<div class="ttc" id="aa11444_html_ad5d909c6b4b062f3c4aac3f559c5eaec"><div class="ttname"><a href="../../d7/dbc/a11444.html#ad5d909c6b4b062f3c4aac3f559c5eaec">TableStruct::TableFields</a></div><div class="ttdeci">std::vector&lt; TableField &gt; TableFields</div><div class="ttdef"><b>Definition:</b> PlayerDump.cpp:160</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00470">ChangeColumn()</a>, <a class="el" href="../../#l00505">ChangeGuid()</a>, <a class="el" href="../../#l03674">CHAR_NAME_SUCCESS</a>, <a class="el" href="../../#l00038">CHAR_SEL_CHECK_GUID</a>, <a class="el" href="../../#l00037">CHAR_SEL_CHECK_NAME</a>, <a class="el" href="../../#l00021">CharacterDatabase</a>, <a class="el" href="../../#l00166">CharacterTables</a>, <a class="el" href="../../#l08641">ObjectMgr::CheckPlayerName()</a>, <a class="el" href="../../#l00140">CLASS_NONE</a>, <a class="el" href="../../#l00026">DTT_CHARACTER</a>, <a class="el" href="../../#l00057">DUMP_FILE_BROKEN</a>, <a class="el" href="../../#l00054">DUMP_SUCCESS</a>, <a class="el" href="../../#l00123">DUMP_TABLE_COUNT</a>, <a class="el" href="../../#l00056">DUMP_TOO_MANY_CHARS</a>, <a class="el" href="../../#l00088">DumpTables</a>, <a class="el" href="../../#l00152">TableField::FieldGuidType</a>, <a class="el" href="../../#l00150">TableField::FieldName</a>, <a class="el" href="../../#l00753">FixNULLfields()</a>, <a class="el" href="../../#l00063">GENDER_NONE</a>, <a class="el" href="../../#l00302">AccountMgr::GetCharactersCount()</a>, <a class="el" href="../../#l00483">GetColumn()</a>, <a class="el" href="../../#l00418">GetTableName()</a>, <a class="el" href="../../#l00035">GUID_TYPE_ACCOUNT</a>, <a class="el" href="../../#l00036">GUID_TYPE_CHAR</a>, <a class="el" href="../../#l00042">GUID_TYPE_EQUIPMENT_SET</a>, <a class="el" href="../../#l00039">GUID_TYPE_ITEM</a>, <a class="el" href="../../#l00038">GUID_TYPE_MAIL</a>, <a class="el" href="../../#l00045">GUID_TYPE_NULL</a>, <a class="el" href="../../#l00037">GUID_TYPE_PET</a>, <a class="el" href="../../#l00153">TableField::IsDependentField</a>, <a class="el" href="../../#l00158">LOG_ERROR</a>, <a class="el" href="../../#l00682">MAX_PLAYER_NAME</a>, <a class="el" href="../../#l00208">normalizePlayerName()</a>, <a class="el" href="../../#l00070">RACE_NONE</a>, <a class="el" href="../../#l00083">sCharacterCache</a>, <a class="el" href="../../#l00077">PreparedStatementBase::SetData()</a>, <a class="el" href="../../#l01650">sObjectMgr</a>, <a class="el" href="../../#l00034">Acore::StringFormat()</a>, <a class="el" href="../../#l00320">sWorld</a>, <a class="el" href="../../#l00160">TableStruct::TableFields</a>, <a class="el" href="../../#l00085">DumpTable::Type</a>, and <a class="el" href="../../#l00429">ValidateFields()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00977">LoadDumpFromFile()</a>, and <a class="el" href="../../#l00971">LoadDumpFromString()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00163">RecordUpdateTime()</a>.</p>
 
 </div>
 </div>
-<a id="ae1ed88a6f181cf6ad952edb1285e192e" name="ae1ed88a6f181cf6ad952edb1285e192e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae1ed88a6f181cf6ad952edb1285e192e">&#9670;&#160;</a></span>LoadDumpFromFile()</h2>
+<a id="a5486477b0a604f0207336e423f42c2b1" name="a5486477b0a604f0207336e423f42c2b1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5486477b0a604f0207336e423f42c2b1">&#9670;&#160;</a></span>_recordUpdateTimeInverval</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d7/db2/a02036.html#a4471667403db9bc7532f371d28743866">DumpReturn</a> PlayerDumpReader::LoadDumpFromFile </td>
-          <td>(</td>
-          <td class="paramtype">std::string const &amp;&#160;</td>
-          <td class="paramname"><em>file</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>account</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">std::string&#160;</td>
-          <td class="paramname"><em>name</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d9/d48/a08412.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a>&#160;</td>
-          <td class="paramname"><em>guid</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
+          <td class="memname"><a class="el" href="../../d3/d74/a04418.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a> WorldUpdateTime::_recordUpdateTimeInverval</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  978</span>{</div>
-<div class="line"><span class="lineno">  979</span>    std::ifstream input(file);</div>
-<div class="line"><span class="lineno">  980</span>    <span class="keywordflow">if</span> (!input)</div>
-<div class="line"><span class="lineno">  981</span>        <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../d7/db2/a02036.html#a4471667403db9bc7532f371d28743866a01a5aec7fbe2bac9208d139b46a23656">DUMP_FILE_OPEN_ERROR</a>;</div>
-<div class="line"><span class="lineno">  982</span>    <span class="keywordflow">return</span> <a class="code hl_function" href="../../d8/d0c/a11456.html#a62ca90cbcb0d03ec0da52651d8c5f783">LoadDump</a>(input, account, name, guid);</div>
-<div class="line"><span class="lineno">  983</span>}</div>
-<div class="ttc" id="aa02036_html_a4471667403db9bc7532f371d28743866a01a5aec7fbe2bac9208d139b46a23656"><div class="ttname"><a href="../../d7/db2/a02036.html#a4471667403db9bc7532f371d28743866a01a5aec7fbe2bac9208d139b46a23656">DUMP_FILE_OPEN_ERROR</a></div><div class="ttdeci">@ DUMP_FILE_OPEN_ERROR</div><div class="ttdef"><b>Definition:</b> PlayerDump.h:55</div></div>
-<div class="ttc" id="aa11456_html_a62ca90cbcb0d03ec0da52651d8c5f783"><div class="ttname"><a href="../../d8/d0c/a11456.html#a62ca90cbcb0d03ec0da52651d8c5f783">PlayerDumpReader::LoadDump</a></div><div class="ttdeci">DumpReturn LoadDump(std::istream &amp;input, uint32 account, std::string name, ObjectGuid::LowType guid)</div><div class="ttdef"><b>Definition:</b> PlayerDump.cpp:764</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00055">DUMP_FILE_OPEN_ERROR</a>, and <a class="el" href="../../#l00764">LoadDump()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00152">LoadFromConfig()</a>, <a class="el" href="../../#l00163">RecordUpdateTime()</a>, and <a class="el" href="../../#l00158">SetRecordUpdateTimeInterval()</a>.</p>
 
 </div>
 </div>
-<a id="abd4ce2c50a74922792a7b00d803f03b2" name="abd4ce2c50a74922792a7b00d803f03b2"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#abd4ce2c50a74922792a7b00d803f03b2">&#9670;&#160;</a></span>LoadDumpFromString()</h2>
+<a id="a6b8a8d1b61f9ecec591165fa334972fc" name="a6b8a8d1b61f9ecec591165fa334972fc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6b8a8d1b61f9ecec591165fa334972fc">&#9670;&#160;</a></span>_recordUpdateTimeMin</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d7/db2/a02036.html#a4471667403db9bc7532f371d28743866">DumpReturn</a> PlayerDumpReader::LoadDumpFromString </td>
-          <td>(</td>
-          <td class="paramtype">std::string const &amp;&#160;</td>
-          <td class="paramname"><em>dump</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>account</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">std::string&#160;</td>
-          <td class="paramname"><em>name</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d9/d48/a08412.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a>&#160;</td>
-          <td class="paramname"><em>guid</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
+          <td class="memname"><a class="el" href="../../d3/d74/a04418.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a> WorldUpdateTime::_recordUpdateTimeMin</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  972</span>{</div>
-<div class="line"><span class="lineno">  973</span>    std::istringstream input(dump);</div>
-<div class="line"><span class="lineno">  974</span>    <span class="keywordflow">return</span> <a class="code hl_function" href="../../d8/d0c/a11456.html#a62ca90cbcb0d03ec0da52651d8c5f783">LoadDump</a>(input, account, name, guid);</div>
-<div class="line"><span class="lineno">  975</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00764">LoadDump()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00152">LoadFromConfig()</a>, and <a class="el" href="../../#l00163">RecordUpdateTime()</a>.</p>
 
 </div>
 </div>
@@ -586,8 +410,8 @@ Additional Inherited Members</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d8/d0c/a11456.html">PlayerDumpReader</a></li>
-    <li class="footer">Generated on Mon Aug 18 2025 20:48:52 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d8/d0c/a11456.html">WorldUpdateTime</a></li>
+    <li class="footer">Generated on Mon Aug 25 2025 20:47:35 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

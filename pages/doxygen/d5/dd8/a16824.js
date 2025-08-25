@@ -1,6 +1,6 @@
 var a16824 =
 [
-    [ "entry", "d5/dd8/a16824.html#a80e1510436336f4ed17748a06b27178d", null ],
-    [ "pathId", "d5/dd8/a16824.html#a0b7e499d633e11b314852fb1154ea8e6", null ],
-    [ "startPosition", "d5/dd8/a16824.html#ac8c0dd74d76778aa2f5948b5c8c5ada4", null ]
+    [ "FilterTargets", "d5/dd8/a16824.html#a36879a2920f43562bb0ff89c76d758e4", null ],
+    [ "PrepareSpellScript", "d5/dd8/a16824.html#afeb95c5fe970ebc147d509981b026e98", null ],
+    [ "Register", "d5/dd8/a16824.html#a800bd9ffab41ccf860844a129ec3b03c", null ]
 ];

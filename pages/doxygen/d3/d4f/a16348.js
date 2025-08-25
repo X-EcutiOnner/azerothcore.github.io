@@ -1,12 +1,22 @@
 var a16348 =
 [
-    [ "npc_swarm_scarabAI", "d3/d4f/a16348.html#a0d0cefd52543044773e7df772f90fd37", null ],
-    [ "CanAIAttack", "d3/d4f/a16348.html#a95a27742f4f7fa1af45964b6270a9558", null ],
-    [ "DoAction", "d3/d4f/a16348.html#ac1fe6742ef1e7bdee4c81a3933a31659", null ],
-    [ "JustDied", "d3/d4f/a16348.html#a0fe99c71cac6d3ee8d360f0d46d03fcd", null ],
-    [ "JustEngagedWith", "d3/d4f/a16348.html#a585e1e8800e97b2aa3d6c893d54c1d2b", null ],
-    [ "Reset", "d3/d4f/a16348.html#aa24cc2f2b7aa4c5c534e8d2ce2957237", null ],
-    [ "UpdateAI", "d3/d4f/a16348.html#aa33d9e101ba7de2a25a6213baccf6df1", null ],
-    [ "despawnTimer", "d3/d4f/a16348.html#a6d35e43af695ac112b972badb665f06d", null ],
-    [ "determinationTimer", "d3/d4f/a16348.html#af319dbf16bc1d3939602465f0a87d30c", null ]
+    [ "boss_grand_championAI", "d3/d4f/a16348.html#ab834a151bd87f60b3b3e15e4d96e033d", null ],
+    [ "AddCreatureAddonAuras", "d3/d4f/a16348.html#a9db34f31183caaeb4e64688256de5843", null ],
+    [ "DamageTaken", "d3/d4f/a16348.html#afdb1642dbeb250e897e2f9954e0fc810", null ],
+    [ "DoAction", "d3/d4f/a16348.html#a1bba80af4c24dc0fada7adbf640204d0", null ],
+    [ "EnterEvadeMode", "d3/d4f/a16348.html#af09ee00c4d023c61b6801daa44ae9f1c", null ],
+    [ "JustEngagedWith", "d3/d4f/a16348.html#a273b248eb7b8ffab709d393670cb8f72", null ],
+    [ "MovementInform", "d3/d4f/a16348.html#a228c0e4867afde4008cf7e12158b7e28", null ],
+    [ "Reset", "d3/d4f/a16348.html#a1a8d1674250a7fe75b418b812bc6dd93", null ],
+    [ "ScheduleAbilitiesEvents", "d3/d4f/a16348.html#a84dd10a0922577986ea0680c9bde9d41", null ],
+    [ "SetData", "d3/d4f/a16348.html#a33eb1620bc4b3b289706357d786fa56e", null ],
+    [ "SpellHit", "d3/d4f/a16348.html#a0a3eb3835e3997689cd40568b85bcae4", null ],
+    [ "UpdateAI", "d3/d4f/a16348.html#a9217801f076974ee5da5af19c43097b3", null ],
+    [ "WaypointReached", "d3/d4f/a16348.html#a6240088bec30b62a8ae223e0236959c7", null ],
+    [ "BossOrder", "d3/d4f/a16348.html#a4c6a17931fbfbab3609d70da53662676", null ],
+    [ "events", "d3/d4f/a16348.html#a786bfc8397062beb22412b0873dcb1f0", null ],
+    [ "MountPhase", "d3/d4f/a16348.html#a2a03cc604720f4952a11d72a54bd4437", null ],
+    [ "NewMountGUID", "d3/d4f/a16348.html#a06e384e12f998cd1165255199dec6371", null ],
+    [ "pInstance", "d3/d4f/a16348.html#ab5ec22b52675d28c18ffefe01295d57b", null ],
+    [ "UnitTargetGUID", "d3/d4f/a16348.html#a8cf4c40c8b991990fd77f0c36764d6d0", null ]
 ];

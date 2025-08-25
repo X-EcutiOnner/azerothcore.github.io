@@ -1,6 +1,6 @@
 var a04457 =
 [
-    [ "GetDefaultNetmaskV4", "d5/de3/a04457.html#af75b2c10ca445dc89c53b7ed8d17eae0", null ],
-    [ "IsInNetwork", "d5/de3/a04457.html#af108d05a57113d16ab9c8f3b26870be2", null ],
-    [ "IsInNetwork", "d5/de3/a04457.html#a2617cb1c747a45e5af4e2c32cc29d5de", null ]
+    [ "CONFIG_HIGH_PRIORITY", "d5/de3/a04457.html#a04727fe99a83f6b774ac1fb1b8468f3e", null ],
+    [ "CONFIG_PROCESSOR_AFFINITY", "d5/de3/a04457.html#a714853b6677573f2aa289978eee5b83f", null ],
+    [ "SetProcessPriority", "d5/de3/a04457.html#ac0ccc1e4fc992fb43f068cb8f6b3fd7b", null ]
 ];

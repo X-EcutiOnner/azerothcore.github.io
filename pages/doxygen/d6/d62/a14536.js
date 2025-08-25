@@ -1,7 +1,6 @@
 var a14536 =
 [
-    [ "GetVisualThrow", "d6/d62/a14536.html#afe59e0c21eaa06e2b1d614613b1d2f73", null ],
-    [ "HandleDummy", "d6/d62/a14536.html#adca1aacf89dcf452f1c98cae97f09690", null ],
-    [ "PrepareSpellScript", "d6/d62/a14536.html#a642f2d3992e7e3a4393d2b0c6b521597", null ],
-    [ "Register", "d6/d62/a14536.html#a68a6e9b307500a56e66bc19c41daf9dc", null ]
+    [ "HandleAfterEffectRemove", "d6/d62/a14536.html#acf650fe6fe65164c12fbb06b45e092c9", null ],
+    [ "PrepareAuraScript", "d6/d62/a14536.html#a3b54e232c0502eaa03b314a05dce1835", null ],
+    [ "Register", "d6/d62/a14536.html#a9bacd9538b1ab1cf9aa74e7675ff5b6b", null ]
 ];

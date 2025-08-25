@@ -1,7 +1,6 @@
 var a22948 =
 [
-    [ "HandleEffectRemove", "d0/dde/a22948.html#a6adc572bb13dde9b83a44a1c27833019", null ],
-    [ "PrepareAuraScript", "d0/dde/a22948.html#a877c26735531508d1806273117f3e8bc", null ],
-    [ "Register", "d0/dde/a22948.html#a1b3e9eb2f6979ac2f17ac47eb38c8bb5", null ],
-    [ "Validate", "d0/dde/a22948.html#a8c45ba806d865f7b9d56950013bdd81c", null ]
+    [ "boss_essence_of_desireAI", "d7/d26/a22952.html", "d7/d26/a22952" ],
+    [ "boss_essence_of_desire", "d0/dde/a22948.html#a5006ce57dd19c2a80e961dedca8c503d", null ],
+    [ "GetAI", "d0/dde/a22948.html#a14b66470c508fa24e214062aeec0aae6", null ]
 ];

@@ -1,10 +1,8 @@
 var a08836 =
 [
-    [ "MapType", "d4/d58/a08836.html#a8fa5f0aca9316901f42b2df8251c5a5d", null ],
-    [ "HashMapHolder", "d4/d58/a08836.html#ad10240097462af2a8a76c9429bd7cbca", null ],
-    [ "Find", "d4/d58/a08836.html#a314b4ce3265136fe326b909fe6ef6716", null ],
-    [ "GetContainer", "d4/d58/a08836.html#ad9dfe5d223496a379a4aec0fc12c42d9", null ],
-    [ "GetLock", "d4/d58/a08836.html#a52cc052c8d73d5b700c7f9253138942f", null ],
-    [ "Insert", "d4/d58/a08836.html#af5c618228c141e28ffa11468cfffb21a", null ],
-    [ "Remove", "d4/d58/a08836.html#a7b9c3761746641133d4a9837559c0bb0", null ]
+    [ "Entry", "d4/d58/a08836.html#ac9fa29db15e06513805124a56cd073e8", null ],
+    [ "ExtendedCost", "d4/d58/a08836.html#ac826dc078ef456ed93bf23175bce243d", null ],
+    [ "Incrtime", "d4/d58/a08836.html#a95ce707d0a2b00e65c2cd4c5ddda1ea5", null ],
+    [ "Item", "d4/d58/a08836.html#aa500da847d94a9b70cb3a26b782059b3", null ],
+    [ "MaxCount", "d4/d58/a08836.html#a04534ff42e5889995b5203a3257bc864", null ]
 ];

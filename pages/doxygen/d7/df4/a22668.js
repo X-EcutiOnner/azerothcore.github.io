@@ -1,5 +1,8 @@
 var a22668 =
 [
-    [ "instance_sethekk_halls_InstanceMapScript", "d7/df4/a22668.html#a037ee225b626b64436570680ae4e9ea0", null ],
-    [ "ProcessEvent", "d7/df4/a22668.html#aba05b0edb57e6c42bd45593a51598365", null ]
+    [ "boss_tavarok", "d7/df4/a22668.html#acf2e3ec6c28a59b205442c6ed07623af", null ],
+    [ "JustDied", "d7/df4/a22668.html#a937fc1864eab7fdf23e1be1464d9666d", null ],
+    [ "JustEngagedWith", "d7/df4/a22668.html#a64cae2439cd6e4334ced5d4ef01ef942", null ],
+    [ "KilledUnit", "d7/df4/a22668.html#a2c99df9457c548ee562fde920592ea88", null ],
+    [ "Reset", "d7/df4/a22668.html#a0bea2cc724d92616056b7c5ca2dd03c1", null ]
 ];

@@ -1,6 +1,7 @@
 var a27644 =
 [
-    [ "npc_fireworkAI", "d6/d56/a27648.html", "d6/d56/a27648" ],
-    [ "npc_firework", "d1/db1/a27644.html#a9efb6ed098e4eb3e24c30393cb5cb45d", null ],
-    [ "GetAI", "d1/db1/a27644.html#a9732f7b6eb8b3638bb6280ff7a71bcf7", null ]
+    [ "npc_sayge", "d1/db1/a27644.html#a5b75c459665ece26cee5dbffcc0fc8ff", null ],
+    [ "OnGossipHello", "d1/db1/a27644.html#ad069e6cc7fe5271c3474c8bcf537cf4c", null ],
+    [ "OnGossipSelect", "d1/db1/a27644.html#aa049b4514fc2d18508d8d4f9b6616c99", null ],
+    [ "SendAction", "d1/db1/a27644.html#aed1988335672423d024546654aa95298", null ]
 ];

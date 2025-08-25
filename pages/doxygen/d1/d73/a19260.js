@@ -1,11 +1,7 @@
 var a19260 =
 [
-    [ "npc_nexus_lordAI", "d1/d73/a19260.html#a8d26337fdcd055027a20ea91faf7e01b", null ],
-    [ "AttackStart", "d1/d73/a19260.html#a2f56dcac815431c887b95e9c09aec361", null ],
-    [ "JustDied", "d1/d73/a19260.html#a828007757a618affad71b955681945cf", null ],
-    [ "JustEngagedWith", "d1/d73/a19260.html#acfcf227557b1e212eda385e22ccdb981", null ],
-    [ "UpdateAI", "d1/d73/a19260.html#ad7ddb98d2daaed386e713e423de4cac9", null ],
-    [ "events", "d1/d73/a19260.html#ad20a56e52b22306ca31406d8defa4aa5", null ],
-    [ "pInstance", "d1/d73/a19260.html#a81fae70688bcd8c733ea90b06900503d", null ],
-    [ "timer", "d1/d73/a19260.html#a8edb133f7ca01a4aa75345c572a505c7", null ]
+    [ "npc_naxxramas_trigger", "d1/d73/a19260.html#a62fd64468daf378fbe2e8f18b1f002f8", null ],
+    [ "Reset", "d1/d73/a19260.html#a5bf85ab6027ca5101df32cda6df29b28", null ],
+    [ "UpdateAI", "d1/d73/a19260.html#acd051dd7790aa37cd2375479433509cb", null ],
+    [ "_events", "d1/d73/a19260.html#a1ab25fd0b40f373d30b0f60462dd276b", null ]
 ];

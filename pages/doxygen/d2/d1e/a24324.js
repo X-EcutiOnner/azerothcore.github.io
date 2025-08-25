@@ -1,6 +1,5 @@
 var a24324 =
 [
-    [ "PrepareSpellScript", "d2/d1e/a24324.html#ac781a5ff389268d1f18867ff5585ca71", null ],
-    [ "Register", "d2/d1e/a24324.html#a5cb9e02774ea6c307e76183253ffb472", null ],
-    [ "SetDest", "d2/d1e/a24324.html#a5fec9885b1dd6cf80fb47af321fad98e", null ]
+    [ "npc_shattrath_daily_quest", "d2/d1e/a24324.html#ab6aa71e4738fdce1b59d379249a868d5", null ],
+    [ "DoAction", "d2/d1e/a24324.html#ac3e8c6de30ad7567fe5e52cd1ddfeb2c", null ]
 ];

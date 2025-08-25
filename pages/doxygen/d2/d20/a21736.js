@@ -1,7 +1,6 @@
 var a21736 =
 [
-    [ "npc_cosmetic_toy_plane", "d2/d20/a21736.html#a71b7df4d5f78768d9e47f41ba78b93d2", null ],
-    [ "Reset", "d2/d20/a21736.html#aa66f2e16ce6c4e5dd7399b48bd5bc203", null ],
-    [ "UpdateAI", "d2/d20/a21736.html#a41d62b314510fbd6637d8eddbea16f96", null ],
-    [ "_movementArray", "d2/d20/a21736.html#a5a85278bc14a0e3158dc3fa8abcc8392", null ]
+    [ "npc_archmage_landalockAI", "d6/d04/a21740.html", "d6/d04/a21740" ],
+    [ "npc_archmage_landalock", "d2/d20/a21736.html#ac7379ff07740123312af66ead64df4c6", null ],
+    [ "GetAI", "d2/d20/a21736.html#a92cfa8c2660413681297bfe12815c938", null ]
 ];

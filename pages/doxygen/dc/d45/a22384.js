@@ -1,7 +1,8 @@
 var a22384 =
 [
-    [ "HandleScript", "dc/d45/a22384.html#a26eb647b6c938df3aeff7981571dc475", null ],
-    [ "PrepareSpellScript", "dc/d45/a22384.html#a10114d8fa956aabff64aa0df7708f635", null ],
-    [ "Register", "dc/d45/a22384.html#a0c6c379f5dcbb417d94d8e6315aa49dd", null ],
-    [ "Validate", "dc/d45/a22384.html#adb477d34d8012c6fb45c5548fc49e127", null ]
+    [ "npc_wg_spirit_guideAI", "db/ddd/a22388.html", "db/ddd/a22388" ],
+    [ "npc_wg_spirit_guide", "dc/d45/a22384.html#ad6ca047a51547203ee2c5f69efb6f2d3", null ],
+    [ "GetAI", "dc/d45/a22384.html#a769cdf4ac330b5dec71437d325aaf46a", null ],
+    [ "OnGossipHello", "dc/d45/a22384.html#a2d46078cb47f817239685d168f7f2e35", null ],
+    [ "OnGossipSelect", "dc/d45/a22384.html#aae050d38b9fa9c16d398d2733b1e5faf", null ]
 ];

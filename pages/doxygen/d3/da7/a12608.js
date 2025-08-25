@@ -1,17 +1,8 @@
 var a12608 =
 [
-    [ "boss_attumen", "d3/da7/a12608.html#a394925c2a44b0bfe8931ae88dd9868ae", null ],
-    [ "CanMeleeHit", "d3/da7/a12608.html#ae685929086090928802854cc93f9934a", null ],
-    [ "DamageTaken", "d3/da7/a12608.html#a0b426b760d9ace05211c3383e7628022", null ],
-    [ "EnterEvadeMode", "d3/da7/a12608.html#af00f91294c04d0fe932c922fd270c5dc", null ],
-    [ "Initialize", "d3/da7/a12608.html#ac89445e6a04c2d8cd04e53f4aea30c58", null ],
-    [ "IsSummonedBy", "d3/da7/a12608.html#a1fa6827c323cbda15e2a438bc376e74c", null ],
-    [ "JustDied", "d3/da7/a12608.html#a375a95d46f8db8a53ea6420dd557855e", null ],
-    [ "JustSummoned", "d3/da7/a12608.html#af91018e54244864ca4cd1b9d40c569df", null ],
-    [ "KilledUnit", "d3/da7/a12608.html#ad167a1ec5ff737ad77b0c492efc022f0", null ],
-    [ "Reset", "d3/da7/a12608.html#ab8815ed9b1068e748e43346725cd9281", null ],
-    [ "ScheduleTasks", "d3/da7/a12608.html#ae63d0a3c7ae4ad755f091f2d31342a57", null ],
-    [ "SpellHit", "d3/da7/a12608.html#a1181ae1d50d6c52483b0d90423997c90", null ],
-    [ "UpdateAI", "d3/da7/a12608.html#aac982f13b35e7c37b49a4e76ace5fccd", null ],
-    [ "_phase", "d3/da7/a12608.html#a8a668537dc5b7c01e6d9d91c67d6da72", null ]
+    [ "npc_kernobeeAI", "d3/da7/a12608.html#a9dfc478b7da1bf33463e3653aea3c4da", null ],
+    [ "SetGUID", "d3/da7/a12608.html#a34999b470697ba0a27701facd63625f8", null ],
+    [ "UpdateAI", "d3/da7/a12608.html#ae99836a836234ad441d6ac97c60d7fc6", null ],
+    [ "checkTimer", "d3/da7/a12608.html#ae4731b5dd7b92d6989b0960d88e1dc35", null ],
+    [ "playerGUID", "d3/da7/a12608.html#aca1009b03ee24200f5dbad788ec5c5c8", null ]
 ];

@@ -1,12 +1,9 @@
 var a28796 =
 [
-    [ "Bounds", "d6/df6/a28796.html#a1e982b341ac3859fad38b2efc81ab8ea", null ],
-    [ "DoodadSet", "d6/df6/a28796.html#abbf6e50e76b120be17215cfcf227a524", null ],
-    [ "Flags", "d6/df6/a28796.html#a06f5e96119239356eea45b9acdadf6e1", null ],
-    [ "Id", "d6/df6/a28796.html#a952442c180e8d3710af31272b54eb6ec", null ],
-    [ "NameSet", "d6/df6/a28796.html#a55df9aed38d8cf1503b21f5fd9d5e5d0", null ],
-    [ "Position", "d6/df6/a28796.html#a7e6463db89eaf53bc20832afb1842a5b", null ],
-    [ "Rotation", "d6/df6/a28796.html#a2c04715e800b9f375c287cced96643d1", null ],
-    [ "Scale", "d6/df6/a28796.html#a142716fecae07abc013c7f3bd053c0ea", null ],
-    [ "UniqueId", "d6/df6/a28796.html#a749e920740b9e91547fe1f87933d1c7d", null ]
+    [ "MapTiles", "d6/df6/a28796.html#abc58d7154eab45ae26df27e2e82dac63", null ],
+    [ "MapTiles", "d6/df6/a28796.html#a406efc53593b5bceb0a491c0b7553350", null ],
+    [ "~MapTiles", "d6/df6/a28796.html#aec1baac21c06380ba71ff5e610152519", null ],
+    [ "operator==", "d6/df6/a28796.html#a3e7a87f421e8eb23926afe1d0978c3b4", null ],
+    [ "m_mapId", "d6/df6/a28796.html#a2fc10edf226a6f4548c2175e1013c1b9", null ],
+    [ "m_tiles", "d6/df6/a28796.html#ab80305bb73234e35a528701d775954b5", null ]
 ];

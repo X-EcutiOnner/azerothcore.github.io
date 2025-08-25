@@ -1,5 +1,5 @@
 var a12172 =
 [
-    [ "at_blackrock_stadium", "d0/daa/a12172.html#a9f577437f231a189c02e50e71ffcb85a", null ],
-    [ "OnTrigger", "d0/daa/a12172.html#a26e43099d9253ea44060194e3b38c656", null ]
+    [ "at_trigger_the_beast_movement", "d0/daa/a12172.html#a9534f4b71deab4a2a9a94a36e2946fc7", null ],
+    [ "OnTrigger", "d0/daa/a12172.html#a333d685d765497a950fde35067d876a1", null ]
 ];

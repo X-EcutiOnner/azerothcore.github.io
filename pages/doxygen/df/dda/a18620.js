@@ -1,6 +1,7 @@
 var a18620 =
 [
-    [ "npc_crok_scourgebaneAI", "dc/daf/a18624.html", "dc/daf/a18624" ],
-    [ "npc_crok_scourgebane", "df/dda/a18620.html#a5f560e2c62aa618eadb5a11e2c9b90a3", null ],
-    [ "GetAI", "df/dda/a18620.html#afa4fcbb9d7281fbee3f8bc0f318d2e6b", null ]
+    [ "FrostwingVrykulSearcher", "df/dda/a18620.html#a10aa54184b42a0538dc4f325204399e9", null ],
+    [ "operator()", "df/dda/a18620.html#afbf32ce600cee12930fefcf9b5e87f16", null ],
+    [ "_range", "df/dda/a18620.html#a04b2913aae7fbf6547a960d0876d4d02", null ],
+    [ "_source", "df/dda/a18620.html#af5d3c93f41698e71c867336d0453d40a", null ]
 ];

@@ -1,6 +1,7 @@
 var a20804 =
 [
-    [ "x", "d5/dba/a20804.html#ae4223168378b602a0a96dbb424a22be4", null ],
-    [ "y", "d5/dba/a20804.html#a30f361d8104e4de44541d75945105963", null ],
-    [ "z", "d5/dba/a20804.html#ae68a79519c35302b89976ac29bb77e26", null ]
+    [ "npc_xt002_life_sparkAI", "d5/dba/a20804.html#a763ec1834d3b71c88bfa80bc0e34966a", null ],
+    [ "Reset", "d5/dba/a20804.html#a596e2ed45b9221915781b03bf2d18e5b", null ],
+    [ "UpdateAI", "d5/dba/a20804.html#af0a1e717b08b2fa35dd4ff83778a87c1", null ],
+    [ "_attackTimer", "d5/dba/a20804.html#a79bf005de95aa1fee60dfc73b8920dad", null ]
 ];

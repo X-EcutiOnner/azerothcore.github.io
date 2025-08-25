@@ -1,7 +1,6 @@
 var a18964 =
 [
-    [ "HandleScript", "dc/de4/a18964.html#a2e5311b631a4cbf6002e27e4a806280c", null ],
-    [ "Launch", "dc/de4/a18964.html#a575a7bf98b629dd91e7ca96e388eb8fd", null ],
-    [ "PrepareSpellScript", "dc/de4/a18964.html#ad65642fd7e8b7793f69d041d458fa33f", null ],
-    [ "Register", "dc/de4/a18964.html#aa8800d8fc050f2914d63c24e555aad4b", null ]
+    [ "npc_four_car_garageAI", "dc/de4/a18964.html#a2eedf5934e12d33cda0ac173d82220d5", null ],
+    [ "JustDied", "dc/de4/a18964.html#a1fba9f03dca2db37b5cb969079b25d22", null ],
+    [ "PassengerBoarded", "dc/de4/a18964.html#a144bc36a5c4ff227c8a7dc146d4167b6", null ]
 ];

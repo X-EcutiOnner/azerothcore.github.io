@@ -1,14 +1,12 @@
 var a07216 =
 [
-    [ "ArenaTeamScore", "dc/df3/a07216.html#a017cd1a4d90a466b42aeab8ff1a12f3a", null ],
-    [ "~ArenaTeamScore", "dc/df3/a07216.html#ade081f31c498ee03a80f73fe70a56cc7", null ],
-    [ "Assign", "dc/df3/a07216.html#a28c3a055e1ad69693470f38fe676f0c6", null ],
-    [ "BuildRatingInfoBlock", "dc/df3/a07216.html#ae3e2b8e8a29c50ca20a42a0364349764", null ],
-    [ "BuildTeamInfoBlock", "dc/df3/a07216.html#aa876e0cf0b36f8fdb9efe8989092f143", null ],
-    [ "Reset", "dc/df3/a07216.html#a90611fd5e656d2d62917003ff0a5ff00", null ],
-    [ "Arena", "dc/df3/a07216.html#a5f488c25aa439166d145713c67e7d085", null ],
-    [ "Battleground", "dc/df3/a07216.html#a0c4048053f5f5cabe5bfbfdde8eded86", null ],
-    [ "MatchmakerRating", "dc/df3/a07216.html#a1e82169562a459371f973932d22e2f15", null ],
-    [ "RatingChange", "dc/df3/a07216.html#a61c85f158b767a6c81de87d7ad5007db", null ],
-    [ "TeamName", "dc/df3/a07216.html#ab99de3b9213f3ccab1791858df6aa3e8", null ]
+    [ "Arena", "dc/df3/a07216.html#a74f105bc709d4728fb07f1984abfd345", null ],
+    [ "AddPlayer", "dc/df3/a07216.html#ae24fe304d35c0c09379203135e936450", null ],
+    [ "CheckWinConditions", "dc/df3/a07216.html#a886b586f7ab6fc89d76e86cb811989b8", null ],
+    [ "EndBattleground", "dc/df3/a07216.html#a2be61602189b530a16a9ca954d180914", null ],
+    [ "FillInitialWorldStates", "dc/df3/a07216.html#a592100d0f0ed492a5cdf941e57db787f", null ],
+    [ "HandleKillPlayer", "dc/df3/a07216.html#ae0a56f524bfc9eec6753874ce35d0466", null ],
+    [ "RemovePlayer", "dc/df3/a07216.html#ab5348b8bd4bfd58c01cdf61f16f72db1", null ],
+    [ "RemovePlayerAtLeave", "dc/df3/a07216.html#acae21233e11b21b612e5c051bfa7720e", null ],
+    [ "UpdateArenaWorldState", "dc/df3/a07216.html#a422925ee29e9a5f64aeb4264169ff2d6", null ]
 ];

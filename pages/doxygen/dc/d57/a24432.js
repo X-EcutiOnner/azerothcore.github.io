@@ -1,10 +1,8 @@
 var a24432 =
 [
-    [ "npc_pet_hunter_snake_trap", "dc/d57/a24432.html#aaf5df574c4ac53661c0bb1968f84c6ea", null ],
-    [ "EnterEvadeMode", "dc/d57/a24432.html#a819add0c7b968063403d10275fdc289f", null ],
-    [ "MoveInLineOfSight", "dc/d57/a24432.html#a32d5ed7f4d436f2678b34f4a1d572721", null ],
-    [ "Reset", "dc/d57/a24432.html#a831cf6eea8bd03247cd9877d3be6e1ee", null ],
-    [ "UpdateAI", "dc/d57/a24432.html#a41a37efe6d39c6d97b3dcc5fabbcc812", null ],
-    [ "_init", "dc/d57/a24432.html#a1b5c1301389749f82667c35f3daff847", null ],
-    [ "_spellTimer", "dc/d57/a24432.html#ab9397451e2e8320ca77560a19baeee3f", null ]
+    [ "npc_pet_gen_valkyr_guardian", "dc/d57/a24432.html#a546f0b0b4273de8216e9f688c2d68209", null ],
+    [ "InitializeAI", "dc/d57/a24432.html#ac32c8bb1e1014015a0ab92417bbc78a9", null ],
+    [ "OwnerAttacked", "dc/d57/a24432.html#a7f0bcedd78d88cdc802ba66c0ff7d927", null ],
+    [ "UpdateAI", "dc/d57/a24432.html#a9a5a233763365c6cca5618459a23a816", null ],
+    [ "targetCheck", "dc/d57/a24432.html#aa530b6b6415c85cd76f44d625329c2fb", null ]
 ];

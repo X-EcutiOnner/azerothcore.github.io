@@ -1,6 +1,8 @@
 var a26068 =
 [
-    [ "FilterTargets", "d5/dbf/a26068.html#aad5d183d0d7ea229cbfc11f751536624", null ],
-    [ "PrepareSpellScript", "d5/dbf/a26068.html#a68ba19142ae6eb04a2547495233700df", null ],
-    [ "Register", "d5/dbf/a26068.html#a22c313409438f94d29ab3e236a56c115", null ]
+    [ "CheckProc", "d5/dbf/a26068.html#a801610a9f9fae5cb711850254b291268", null ],
+    [ "HandleProc", "d5/dbf/a26068.html#a3f6a53421c7c4b9346d98aa51c4ccd6d", null ],
+    [ "PrepareAuraScript", "d5/dbf/a26068.html#ad08915b0c7f35bef76ddd05a62add43c", null ],
+    [ "Register", "d5/dbf/a26068.html#a8626318b6f9b35a8b1c116062618b3c0", null ],
+    [ "Validate", "d5/dbf/a26068.html#a8a3abd528fda4aab149fb7f6e5eae00d", null ]
 ];

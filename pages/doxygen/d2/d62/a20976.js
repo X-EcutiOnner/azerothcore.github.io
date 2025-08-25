@@ -1,8 +1,8 @@
 var a20976 =
 [
-    [ "FilterTargets", "d2/d62/a20976.html#a45d300e8cb6fbc499345b3bb2fb0d34f", null ],
-    [ "HandleDummyEffect", "d2/d62/a20976.html#ab1f662fa107d176386067ffc6467d90f", null ],
-    [ "PrepareSpellScript", "d2/d62/a20976.html#a069cc54bf009830ad781c790b4fcedad", null ],
-    [ "Register", "d2/d62/a20976.html#ac91532151b689bde35d7120b1e9aec5b", null ],
-    [ "Validate", "d2/d62/a20976.html#ad225dcdb1325a855f1909a8c66ca577b", null ]
+    [ "OnApply", "d2/d62/a20976.html#a3046fa845b6763c5602ca7b50aefd68f", null ],
+    [ "OnRemove", "d2/d62/a20976.html#ad3f482f9fff9798cc6e7a06183344742", null ],
+    [ "PrepareAuraScript", "d2/d62/a20976.html#ab830a7a6c5ed432f8718071345c99b57", null ],
+    [ "Register", "d2/d62/a20976.html#ac83a8d085d02feec64b6012cacb60dce", null ],
+    [ "Validate", "d2/d62/a20976.html#a69a3e0a6c06e3c4085bf0ad25e40edf9", null ]
 ];

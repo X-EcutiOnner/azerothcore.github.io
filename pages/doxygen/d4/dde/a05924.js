@@ -1,7 +1,11 @@
 var a05924 =
 [
-    [ "arg1", "d4/dde/a05924.html#aa2018e5823bcf013847605847231e3c2", null ],
-    [ "arg2", "d4/dde/a05924.html#a4c8721b050e72556a901be1a4a49c2b6", null ],
-    [ "arg3", "d4/dde/a05924.html#acadf2c3d1d60f8f49fde62b9172980e5", null ],
-    [ "updateType", "d4/dde/a05924.html#a84cace2469c54d57b33abe5ca93588ca", null ]
+    [ "AppliedFileEntry", "d4/dde/a05924.html#ac925dd4c2f889ae84e8be8cba9a0ef06", null ],
+    [ "GetStateAsString", "d4/dde/a05924.html#a803f0ee67f0d3944b0933cf97723b5d3", null ],
+    [ "StateConvert", "d4/dde/a05924.html#a16274f0e9e6669be265ba75f79c4b10f", null ],
+    [ "StateConvert", "d4/dde/a05924.html#ac35fc4abcc60015c56765ceebc6fdb8f", null ],
+    [ "hash", "d4/dde/a05924.html#af39f798a10c2675e870d4d62f1d0a10c", null ],
+    [ "name", "d4/dde/a05924.html#a8fc429eae6816054b5828952a5698a4c", null ],
+    [ "state", "d4/dde/a05924.html#a7899f60d95db04e776b7ccfbc1003cfb", null ],
+    [ "timestamp", "d4/dde/a05924.html#a13703e88b76f26858696b33a8bc8f862", null ]
 ];

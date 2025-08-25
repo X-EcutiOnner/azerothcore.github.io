@@ -1,7 +1,8 @@
 var a05300 =
 [
-    [ "TypeContainerVisitor", "d1/d9e/a05300.html#a1dd5b1ac8e4703358a32431efed8faa2", null ],
-    [ "Visit", "d1/d9e/a05300.html#adf0874fc1f8bb38d2f62530f5667c836", null ],
-    [ "Visit", "d1/d9e/a05300.html#af8110dd70655223f06fb08b552420a6d", null ],
-    [ "i_visitor", "d1/d9e/a05300.html#a7be8eccd05fd489da52e587f51555891", null ]
+    [ "Count", "d1/d9e/a05300.html#a4ab8f061208d7733ee65ba768f85f513", null ],
+    [ "GetElements", "d1/d9e/a05300.html#af75467b56830b1447bebbf974b2747b6", null ],
+    [ "GetElements", "d1/d9e/a05300.html#abbdfddc576af5f2d49dddf5e49ad2864", null ],
+    [ "insert", "d1/d9e/a05300.html#a026880bb3378687143ed19fa7b99b41b", null ],
+    [ "i_elements", "d1/d9e/a05300.html#a8ef4a180d448dcba2141fc389621433d", null ]
 ];

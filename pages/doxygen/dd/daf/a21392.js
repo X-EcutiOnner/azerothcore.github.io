@@ -1,16 +1,11 @@
 var a21392 =
 [
-    [ "boss_zuramatAI", "dd/daf/a21392.html#ab4c04fec01023295946d170a466d1c48", null ],
-    [ "EnterEvadeMode", "dd/daf/a21392.html#a991437ea0d9fd1ce7807ef9937c4cb0a", null ],
-    [ "JustDied", "dd/daf/a21392.html#a060df9b36f2f62f3fc7afb80386d51c5", null ],
-    [ "JustEngagedWith", "dd/daf/a21392.html#a85cc0f20b51e84ff1c5c16a3b2b004b9", null ],
-    [ "JustSummoned", "dd/daf/a21392.html#a6e925207ddc112f7dd7044c08023f90e", null ],
-    [ "KilledUnit", "dd/daf/a21392.html#adb79f8c244f57b88848dd44b592faf41", null ],
-    [ "MoveInLineOfSight", "dd/daf/a21392.html#aa3ef3256d203d264dee12eff4491a28c", null ],
-    [ "Reset", "dd/daf/a21392.html#a18498e4bc4bfac33ff2c591f5bf28d7d", null ],
-    [ "SummonedCreatureDespawn", "dd/daf/a21392.html#a242f814bfec2e937e1338097e78080e3", null ],
-    [ "UpdateAI", "dd/daf/a21392.html#adb591699b7d8ece0b1775afd40a4181b", null ],
-    [ "events", "dd/daf/a21392.html#a4406b42618f3e40fa90e0a34ec3ad09f", null ],
-    [ "pInstance", "dd/daf/a21392.html#a8ebb5ca6f9f18b0205e8b6a54492c06a", null ],
-    [ "summons", "dd/daf/a21392.html#a42cb09654095c8a157720f99e7957102", null ]
+    [ "npc_ichor_globuleAI", "dd/daf/a21392.html#a4d581f89c8385276fd407c000af9e569", null ],
+    [ "AttackStart", "dd/daf/a21392.html#aa4e1fc88a26d6ef41f1ca96c93abbc1a", null ],
+    [ "JustDied", "dd/daf/a21392.html#ad29c7659590933b0749e8e1c2c2e4c46", null ],
+    [ "MoveInLineOfSight", "dd/daf/a21392.html#af8ef8296512d57d934a171f1a5060e73", null ],
+    [ "SpellHit", "dd/daf/a21392.html#a1396538a446545408e3c304f3e56400f", null ],
+    [ "UpdateAI", "dd/daf/a21392.html#a6ff13c853583e5178fb3a690e17303de", null ],
+    [ "pInstance", "dd/daf/a21392.html#a94cbe93a69a28171fc3d91d71b6ec419", null ],
+    [ "uiRangeCheck_Timer", "dd/daf/a21392.html#a99914a55d2dc0b36a623dc7d6248e953", null ]
 ];

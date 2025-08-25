@@ -1,8 +1,31 @@
 var a02708 =
 [
-    [ "spell_gordunni_trap", "d1/d6a/a15492.html", "d1/d6a/a15492" ],
-    [ "GordunniTrap", "d7/d73/a02708.html#ae11511f5835ecdfec73fde1f9f29431c", [
-      [ "GO_GORDUNNI_DIRT_MOUND", "d7/d73/a02708.html#ae11511f5835ecdfec73fde1f9f29431ca12df131fc84f6cc9bcf7d02eaf65e1ab", null ]
+    [ "npcs_riverbreeze_and_silversky", "d7/d93/a15520.html", "d7/d93/a15520" ],
+    [ "at_ancient_leaf", "d0/de7/a15524.html", "d0/de7/a15524" ],
+    [ "AncientMisc", "d7/d73/a02708.html#adaffe09a7c2b9f9bfdc48d5068c18068", [
+      [ "QUEST_ANCIENT_LEAF", "d7/d73/a02708.html#adaffe09a7c2b9f9bfdc48d5068c18068aa825be5f41ad67f6007d3509e9bb87e3", null ],
+      [ "NPC_VARTRUS", "d7/d73/a02708.html#adaffe09a7c2b9f9bfdc48d5068c18068aa3648d60ebaeb2cef5c0578018150e99", null ],
+      [ "NPC_STOMA", "d7/d73/a02708.html#adaffe09a7c2b9f9bfdc48d5068c18068ab30f7bd203d11ff87b0030b3578a5e81", null ],
+      [ "NPC_HASTAT", "d7/d73/a02708.html#adaffe09a7c2b9f9bfdc48d5068c18068acc6ef71bcba7f2d82bc3164636733e04", null ],
+      [ "CREATURE_GROUP_ANCIENTS", "d7/d73/a02708.html#adaffe09a7c2b9f9bfdc48d5068c18068a929e77d337e49edf4de033ddb8ccf149", null ]
     ] ],
-    [ "AddSC_feralas", "d7/d73/a02708.html#a06e54e3edc2df068be660ac788b402e3", null ]
+    [ "RiverbreezeAndSilversky", "d7/d73/a02708.html#acc75d54553750c832fe50b6cb0c42427", [
+      [ "SPELL_CENARION_BEACON", "d7/d73/a02708.html#acc75d54553750c832fe50b6cb0c42427aefb9fe5d61b5fc5b810f077e47334d49", null ],
+      [ "ITEM_CENARION_BEACON", "d7/d73/a02708.html#acc75d54553750c832fe50b6cb0c42427a677781938bceb63690d56c2e2c445f46", null ],
+      [ "ACTION_CREATE_CENARION_BEACON", "d7/d73/a02708.html#acc75d54553750c832fe50b6cb0c42427acc340298bf9880e22b326c208affb4a1", null ],
+      [ "NPC_ARATHANDRIS_SILVERSKY", "d7/d73/a02708.html#acc75d54553750c832fe50b6cb0c42427a15af7b53355112caefafe032f27b15d6", null ],
+      [ "NPC_MAYBESS_RIVERBREEZE", "d7/d73/a02708.html#acc75d54553750c832fe50b6cb0c42427a3362be702aaaa11f11e1df72d0a8e149", null ],
+      [ "QUEST_CLEASING_FELWOOD_A", "d7/d73/a02708.html#acc75d54553750c832fe50b6cb0c42427ab52d337e733144a5a21fce9825f80fff", null ],
+      [ "QUEST_CLEASING_FELWOOD_H", "d7/d73/a02708.html#acc75d54553750c832fe50b6cb0c42427a24da8ad4e5cec47c9a66a1e03e07383f", null ],
+      [ "GOSSIP_MENU_SILVERSKY", "d7/d73/a02708.html#acc75d54553750c832fe50b6cb0c42427a201df035f33936e3020580c82101e7f8", null ],
+      [ "GOSSIP_MENU_RIVERBREEZE", "d7/d73/a02708.html#acc75d54553750c832fe50b6cb0c42427ac00e8bf57bf7a4be3444d02de30309dc", null ],
+      [ "GOSSIP_OPTION_BEACON", "d7/d73/a02708.html#acc75d54553750c832fe50b6cb0c42427a0999bd0707a4dbe03c5715081af725e1", null ],
+      [ "TEXT_SILVERSKY_1", "d7/d73/a02708.html#acc75d54553750c832fe50b6cb0c42427a3148f1367e563486599162f32be4af21", null ],
+      [ "TEXT_SILVERSKY_2", "d7/d73/a02708.html#acc75d54553750c832fe50b6cb0c42427a62011283d742f7947270994268e055de", null ],
+      [ "TEXT_SILVERSKY_3", "d7/d73/a02708.html#acc75d54553750c832fe50b6cb0c42427af033b1f55bfbe0ccfd66cd1df7b50289", null ],
+      [ "TEXT_RIVERBREEZE_1", "d7/d73/a02708.html#acc75d54553750c832fe50b6cb0c42427ac53b44e51816fbef84a98123a317125e", null ],
+      [ "TEXT_RIVERBREEZE_2", "d7/d73/a02708.html#acc75d54553750c832fe50b6cb0c42427a06658a3d493565d3f8a42555e037fa40", null ],
+      [ "TEXT_RIVERBREEZE_3", "d7/d73/a02708.html#acc75d54553750c832fe50b6cb0c42427a1d15502f6a496af4174cb3c5960818b5", null ]
+    ] ],
+    [ "AddSC_felwood", "d7/d73/a02708.html#a63ae28c9f250057b35a18fb585c6a2cf", null ]
 ];

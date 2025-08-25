@@ -1,11 +1,17 @@
 var a24252 =
 [
-    [ "npc_shadowmoon_tuber_nodeAI", "d0/d62/a24252.html#af24a8d5ead256d158c86379e032aa889", null ],
-    [ "Reset", "d0/d62/a24252.html#a9bcbd0b0b6b12058a8356ce274b6a597", null ],
-    [ "SetData", "d0/d62/a24252.html#aca6ad097bd7b8e5f1a0cde6bdebb23ad", null ],
-    [ "SpellHit", "d0/d62/a24252.html#a14523a24042d23efbafc7924f394dd04", null ],
-    [ "UpdateAI", "d0/d62/a24252.html#ae5cd38aa2a9cc1727141298323639660", null ],
-    [ "resetTimer", "d0/d62/a24252.html#a0d2649de651279fa6bbe3ae2f18571bb", null ],
-    [ "tapped", "d0/d62/a24252.html#af6412de701f14a7eb325e1aaf33f28cc", null ],
-    [ "tuberGUID", "d0/d62/a24252.html#a2deaa1aeed26b862e93055d90c9139d6", null ]
+    [ "npc_torloth_the_magnificentAI", "d0/d62/a24252.html#ad34b85c80ebfb2332709c7ee21c053b7", null ],
+    [ "HandleAnimation", "d0/d62/a24252.html#ab69f481e3871e5ce803ab1f389a2385c", null ],
+    [ "JustDied", "d0/d62/a24252.html#aef9d2bcc04b8c1a54bf59f4744eba3ae", null ],
+    [ "JustEngagedWith", "d0/d62/a24252.html#abf3fc3538e82fceaa916d4e217d6f9fd", null ],
+    [ "Reset", "d0/d62/a24252.html#aa7944f80bb6718a65a07128be830ed94", null ],
+    [ "UpdateAI", "d0/d62/a24252.html#ad5f7769462aa39fabb7ec5e79670cda1", null ],
+    [ "AggroTargetGUID", "d0/d62/a24252.html#a826ecad9e9a06050a3ebc0861bf52c1e", null ],
+    [ "AnimationCount", "d0/d62/a24252.html#afbe712b9e3dfe97417e1e621f4eff113", null ],
+    [ "AnimationTimer", "d0/d62/a24252.html#a2485ad15002946c0c5b2ebce65221629", null ],
+    [ "LordIllidanGUID", "d0/d62/a24252.html#ad135529fe083af2ce3e79823213d2735", null ],
+    [ "SpellTimer1", "d0/d62/a24252.html#a991868074e39e2a4d06c37afc642a756", null ],
+    [ "SpellTimer2", "d0/d62/a24252.html#a7da30509a017de1392cc3ba181a0dc53", null ],
+    [ "SpellTimer3", "d0/d62/a24252.html#a0caf2b2d48c78b2eb032ff73168e2556", null ],
+    [ "Timers", "d0/d62/a24252.html#a0eb0c24aff4cdab76d234ba17dbc4b5b", null ]
 ];

@@ -1,6 +1,8 @@
 var a20692 =
 [
-    [ "boss_thorim_arena_npcsAI", "d5/d29/a20696.html", "d5/d29/a20696" ],
-    [ "boss_thorim_arena_npcs", "db/de0/a20692.html#a60d22280bb1eb3c9da92deb08e887942", null ],
-    [ "GetAI", "db/de0/a20692.html#a3709e1c9df32755f5932398ba3535f2f", null ]
+    [ "boss_thorim_pillarAI", "db/de0/a20692.html#ae00c9e72f14e3f2c94da118a1fe27130", null ],
+    [ "Reset", "db/de0/a20692.html#ae9043ed9b72cc0eda6fb7c859355da57", null ],
+    [ "SpellHit", "db/de0/a20692.html#a1cb3ef9fdfc9e375d15e14b9230dd51e", null ],
+    [ "UpdateAI", "db/de0/a20692.html#afd8e05444eeea620a7ef21e97c345d41", null ],
+    [ "_resetTimer", "db/de0/a20692.html#a6ef7c9e23280564aec1b82eb670bc4f9", null ]
 ];

@@ -1,6 +1,13 @@
 var a14104 =
 [
-    [ "HandleOnHit", "da/d31/a14104.html#a36909ef786940eb1a05539c968d78e80", null ],
-    [ "PrepareSpellScript", "da/d31/a14104.html#a4bc6792c99b40834ec1a8a9764589e24", null ],
-    [ "Register", "da/d31/a14104.html#ad1d60c5f747f8ec16cbf2402567cfebd", null ]
+    [ "npc_ohganAI", "da/d31/a14104.html#a43f7fa66ff39bca177d30fc1d0d78080", null ],
+    [ "JustDied", "da/d31/a14104.html#a89e506868e3191362545e34d21528b8f", null ],
+    [ "JustEngagedWith", "da/d31/a14104.html#a5b6171794c5b49e8ee439de7bdc51ba5", null ],
+    [ "KilledUnit", "da/d31/a14104.html#a4e202eef928e54bd52160705bba5cc35", null ],
+    [ "Reset", "da/d31/a14104.html#ac3e1bc9dc819138741eb3b4448051547", null ],
+    [ "SetGUID", "da/d31/a14104.html#a5baf8e15902d4d8ff06c8410314327f6", null ],
+    [ "UpdateAI", "da/d31/a14104.html#aea7c169bc2b7c52ff7d4d9a5dd7a6f0a", null ],
+    [ "_scheduler", "da/d31/a14104.html#a838f1354e24c47e1c52e4b50e2b93c85", null ],
+    [ "instance", "da/d31/a14104.html#aeb6f6bddf881edf818fdc31fc639d5d5", null ],
+    [ "reviveGUID", "da/d31/a14104.html#afc066ae0c6d370f6632408b08de3c3bb", null ]
 ];

@@ -1,5 +1,7 @@
 var a11980 =
 [
-    [ "boss_moira_bronzebeard", "d3/d20/a11980.html#abb9a87023b8afa242e60f9694dea1c39", null ],
-    [ "GetAI", "d3/d20/a11980.html#ad99554aac80c79933b78ab4b6d42cc4f", null ]
+    [ "boss_grizzleAI", "d3/d20/a11980.html#a3310892cafc2a8e022105f77258b25af", null ],
+    [ "JustEngagedWith", "d3/d20/a11980.html#a598e7e7d6bdd847bf01968116988a935", null ],
+    [ "UpdateAI", "d3/d20/a11980.html#a2dc5c27cd4eaf2aa1484a370a68e3314", null ],
+    [ "nextTremorTime", "d3/d20/a11980.html#aa392b5a5db08d8676614923ae4838d05", null ]
 ];

@@ -1,8 +1,6 @@
 var a20148 =
 [
-    [ "npc_ulduar_saronite_animusAI", "dd/d79/a20148.html#a2b94427feb24a7bda075b6a8f403433a", null ],
-    [ "JustDied", "dd/d79/a20148.html#a30abcab01de3732bc5525864576615b0", null ],
-    [ "UpdateAI", "dd/d79/a20148.html#a1490961adc8fc03ab28a992aff55b43b", null ],
-    [ "pInstance", "dd/d79/a20148.html#a5d3b297355f286b0ad08ed38dbd5b0d2", null ],
-    [ "timer", "dd/d79/a20148.html#a3d0345d4c503eb3f0e4acbe346f1c5e5", null ]
+    [ "boss_freya_nature_bombAI", "dd/d4f/a20152.html", "dd/d4f/a20152" ],
+    [ "boss_freya_nature_bomb", "dd/d79/a20148.html#a18fa6ff862a1b367ac23eb1b7bda0ed4", null ],
+    [ "GetAI", "dd/d79/a20148.html#a73e24282c6bb29cf3f6a7da14a4de582", null ]
 ];

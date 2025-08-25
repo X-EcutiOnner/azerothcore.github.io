@@ -1,7 +1,6 @@
 var a17212 =
 [
-    [ "HandleApplyAura", "df/d58/a17212.html#ac71784d7d135df4828ddcf5c85c4301c", null ],
-    [ "PrepareSpellScript", "df/d58/a17212.html#a097bf3b27e4b2d9ceddea07b9c0b8ce9", null ],
-    [ "Register", "df/d58/a17212.html#a80638966202cb9e27d204ea621e379ef", null ],
-    [ "Validate", "df/d58/a17212.html#aaa3505a74905b91f52e37b0ded0ba7fd", null ]
+    [ "npc_living_mojoAI", "db/dc0/a17216.html", "db/dc0/a17216" ],
+    [ "npc_living_mojo", "df/d58/a17212.html#af24190023549b4ec5fa47b5959618a8a", null ],
+    [ "GetAI", "df/d58/a17212.html#a2b8ca6e1b26debfafd74e022825c889e", null ]
 ];

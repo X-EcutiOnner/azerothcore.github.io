@@ -1,11 +1,7 @@
 var a12696 =
 [
-    [ "boss_terestian_illhoof", "d6/de5/a12696.html#a5750bf4f12ac01216335a926f885e136", null ],
-    [ "JustDied", "d6/de5/a12696.html#a9039c0fb905e72e659ce62f9d36593ce", null ],
-    [ "JustEngagedWith", "d6/de5/a12696.html#adc1f9195954eda7ec406ac9a084b7508", null ],
-    [ "JustSummoned", "d6/de5/a12696.html#a8b156654dbd75a4a7626edf30a8aae78", null ],
-    [ "KilledUnit", "d6/de5/a12696.html#ab7de8b406de200eec981fab79a56dcd7", null ],
-    [ "Reset", "d6/de5/a12696.html#a685b00f0e3317740412adfc48df1c3fb", null ],
-    [ "SpellHit", "d6/de5/a12696.html#a2f25021cfbc9e466d73c13de8116d8f1", null ],
-    [ "SummonKilrek", "d6/de5/a12696.html#a0007e35a38efce5edada2f47a9bb89c6", null ]
+    [ "npc_malchezaar_axe", "d6/de5/a12696.html#a1a5615f2def10add30e7917b770ebc74", null ],
+    [ "Initialize", "d6/de5/a12696.html#a078e7f0997c026b73a4e0ab8a1c209b8", null ],
+    [ "JustEngagedWith", "d6/de5/a12696.html#a4a9f90e66359b304622d4f79653f9fd0", null ],
+    [ "UpdateAI", "d6/de5/a12696.html#a202ba6922a426f87909eefbccd070175", null ]
 ];

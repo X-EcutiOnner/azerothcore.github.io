@@ -1,5 +1,9 @@
 var a18844 =
 [
-    [ "npc_icc_buff_switcher", "d5/d57/a18844.html#aeabc3d97c88bf12177b824524af3ae1d", null ],
-    [ "OnGossipSelect", "d5/d57/a18844.html#abb3310d3eb5cf4f1c2a0a3ac46ddd7ba", null ]
+    [ "npc_icc_skybreaker_luminaryAI", "d5/d57/a18844.html#a91868021309239f5582bb7ee89baec13", null ],
+    [ "AttackStart", "d5/d57/a18844.html#acf8d1eaebdc68cb53866155d8aad6e48", null ],
+    [ "JustEngagedWith", "d5/d57/a18844.html#a12927240144022174e3d190be6b34976", null ],
+    [ "Reset", "d5/d57/a18844.html#ac925b84b81ec1d1e118f3e62edfbdd15", null ],
+    [ "UpdateAI", "d5/d57/a18844.html#a969a36e147006971a93711349f90c193", null ],
+    [ "events", "d5/d57/a18844.html#a8521aef674b9a295c27f7e5725af4ffe", null ]
 ];

@@ -1,7 +1,7 @@
 var a09460 =
 [
-    [ "AllWorldObjectsInRange", "d5/d2d/a09460.html#a63f46d510df0fa3153d4b3325676a468", null ],
-    [ "operator()", "d5/d2d/a09460.html#a2cf23c24df93b5f7f29163b32e965a94", null ],
-    [ "m_fRange", "d5/d2d/a09460.html#a6afe3ef05369dce8ee205db219f97846", null ],
-    [ "m_pObject", "d5/d2d/a09460.html#ae7dde7b946d8affb79cb2d4c58eedbed", null ]
+    [ "PlayerAtMinimumRangeAway", "d5/d2d/a09460.html#a12eb5ff486232f88c7303741ebd8e65e", null ],
+    [ "operator()", "d5/d2d/a09460.html#a1cfda97a0590e033f9b6043c8de2d0a0", null ],
+    [ "fRange", "d5/d2d/a09460.html#a0c58929de429694f24877525287f15a6", null ],
+    [ "unit", "d5/d2d/a09460.html#a4ea0f83c3287079cff40fac15272fa94", null ]
 ];

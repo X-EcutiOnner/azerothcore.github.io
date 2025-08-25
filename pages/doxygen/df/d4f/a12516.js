@@ -1,6 +1,7 @@
 var a12516 =
 [
-    [ "bossId", "df/d4f/a12516.html#a898f2ce24d96fb7d6a118e9772344c43", null ],
-    [ "circleId", "df/d4f/a12516.html#aaa379e61fda2f7225ab4089757df5d24", null ],
-    [ "runeId", "df/d4f/a12516.html#aa7ac7e2d5729aa906e00ca9c2648581d", null ]
+    [ "HandleScript", "df/d4f/a12516.html#ac09c2c6b997c2a5fc0bee0ba0ea185ae", null ],
+    [ "PrepareSpellScript", "df/d4f/a12516.html#ad3c052a9bd00d04c954f85218dcfcb0a", null ],
+    [ "Register", "df/d4f/a12516.html#a8658c2c7e32a66e4a1bcc048406653bb", null ],
+    [ "Validate", "df/d4f/a12516.html#aa03795d909e24dfe2ccd12e431b2575e", null ]
 ];

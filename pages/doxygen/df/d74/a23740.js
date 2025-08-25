@@ -1,7 +1,14 @@
 var a23740 =
 [
-    [ "AfterApply", "df/d74/a23740.html#a0ba88b8ed8cfd0afa1de500a7a8d74b5", null ],
-    [ "PrepareAuraScript", "df/d74/a23740.html#aa98346e5f5b23fe016148426a19a719f", null ],
-    [ "Register", "df/d74/a23740.html#ac0edcddf6c38b933c868dbe0535f143a", null ],
-    [ "Validate", "df/d74/a23740.html#a616d1758aa257140f4941fe12ef21e87", null ]
+    [ "npc_warden_mellicharAI", "df/d74/a23740.html#a3486b015ccb8fecfe5e215f45e45f15e", null ],
+    [ "AttackStart", "df/d74/a23740.html#a2b16dc3ad358e4179fe20e2066ba5c64", null ],
+    [ "DamageTaken", "df/d74/a23740.html#a07e7b215ed7653fe7e1ee44d34a74bbd", null ],
+    [ "JustDied", "df/d74/a23740.html#a867404a125aeb4ee3332a4e2b5a8f547", null ],
+    [ "JustEngagedWith", "df/d74/a23740.html#ad584a3c2dd8f108cc9b4e66a6917f97b", null ],
+    [ "JustSummoned", "df/d74/a23740.html#a3fe95a64b640fb61459da2c8621fbc9c", null ],
+    [ "MoveInLineOfSight", "df/d74/a23740.html#aa4edaf9534e7232526fd9c7bd097b7c4", null ],
+    [ "Reset", "df/d74/a23740.html#aebd55a8e6e618e4dc37cf253c60c3a94", null ],
+    [ "SetData", "df/d74/a23740.html#a0d0e8d1af5179aea73aa60e060ba751a", null ],
+    [ "SummonedCreatureDies", "df/d74/a23740.html#a58e1011986be65725d4db3d782bc72ac", null ],
+    [ "UpdateAI", "df/d74/a23740.html#a944cff5367213d561a7e6df5faf2a216", null ]
 ];

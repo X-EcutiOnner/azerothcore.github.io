@@ -1,9 +1,6 @@
 var a19912 =
 [
-    [ "npc_hodirs_furyAI", "d0/d2a/a19912.html#ae08a68a79a3fef952f6dfa50b4eaabca", null ],
-    [ "MovementInform", "d0/d2a/a19912.html#a37b07ddee5403ee2de8f69904412ed42", null ],
-    [ "Reset", "d0/d2a/a19912.html#a389f0f17fbc7860c5531f4859be561d3", null ],
-    [ "UpdateAI", "d0/d2a/a19912.html#a5417d68891ad0f93c8130c9a14d57513", null ],
-    [ "_switchTargetTimer", "d0/d2a/a19912.html#a8d15c1e290438c8a4aa50887cfffccba", null ],
-    [ "_timeToHit", "d0/d2a/a19912.html#a594356602bd0068fba82bea64e284837", null ]
+    [ "boss_flame_leviathan_seatAI", "d6/d1b/a19916.html", "d6/d1b/a19916" ],
+    [ "boss_flame_leviathan_seat", "d0/d2a/a19912.html#a0fc90640a5142d889f1c043270582a16", null ],
+    [ "GetAI", "d0/d2a/a19912.html#a0e17225aeb93e0a5f5442c4ac2362af8", null ]
 ];

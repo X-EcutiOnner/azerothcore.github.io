@@ -1,7 +1,18 @@
 var a12312 =
 [
-    [ "HandleDummy", "d4/dbb/a12312.html#a2299a8b99013fb9f9c2b8e81cfc541cc", null ],
-    [ "PrepareSpellScript", "d4/dbb/a12312.html#ad07165f81a7f407c716f90691ecb9817", null ],
-    [ "Register", "d4/dbb/a12312.html#a28fb28ca049b87dd76fddc3af222fd9c", null ],
-    [ "Validate", "d4/dbb/a12312.html#a8ce6773c7d0fd501fa7b26f04fd22796", null ]
+    [ "boss_victor_nefariusAI", "d4/dbb/a12312.html#a640261332db1736e27d93067fb83c959", null ],
+    [ "BeginEvent", "d4/dbb/a12312.html#a53b0953667a42290ed4ab7e71f2dd509", null ],
+    [ "DoAction", "d4/dbb/a12312.html#ac30157884fa02dce34051d2f76f94d0a", null ],
+    [ "Initialize", "d4/dbb/a12312.html#a68a5a2c9f0b603a52c2e69ef9559d278", null ],
+    [ "JustDied", "d4/dbb/a12312.html#a4104a8f6b91f568d537447cf9a9339b5", null ],
+    [ "JustReachedHome", "d4/dbb/a12312.html#a4e5e6b636918dcf4cc93cd2ce3c53192", null ],
+    [ "JustSummoned", "d4/dbb/a12312.html#a8ca86c4fee920d07cfafad3227e2203a", null ],
+    [ "Reset", "d4/dbb/a12312.html#a4374199f776618afaf00934c93e6e0f4", null ],
+    [ "SetData", "d4/dbb/a12312.html#af9dbc9026fe7baa41c6cf41b59ed81dc", null ],
+    [ "sGossipSelect", "d4/dbb/a12312.html#ad3d7333e624c70c9c635073a1909c67d", null ],
+    [ "SummonedCreatureDies", "d4/dbb/a12312.html#a704489a361ac2034ac65c95e9517772f", null ],
+    [ "UpdateAI", "d4/dbb/a12312.html#a5a043856458c34b47a1dc16e27eac4c9", null ],
+    [ "_nefarianLeftTunnel", "d4/dbb/a12312.html#a2b6132a6a89ed8f9fc215b1342642fed", null ],
+    [ "_nefarianRightTunnel", "d4/dbb/a12312.html#ad7e3b70d671080294811e9fb191e880a", null ],
+    [ "KilledAdds", "d4/dbb/a12312.html#a88f7040db2bf60fb165a406571471fbb", null ]
 ];

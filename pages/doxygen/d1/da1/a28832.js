@@ -1,10 +1,12 @@
 var a28832 =
 [
-    [ "WDTFile", "d1/da1/a28832.html#a10c133d9b2f8d39cb6c2b3d8c2791b78", null ],
-    [ "~WDTFile", "d1/da1/a28832.html#a445fe73204fd378e2b63a83d9f5dca0a", null ],
-    [ "GetMap", "d1/da1/a28832.html#aa952c5bfe52a1aa851984a7e6dc963c9", null ],
-    [ "init", "d1/da1/a28832.html#a91a33f89cae35254f52e8c4f1c33e2cb", null ],
-    [ "_file", "d1/da1/a28832.html#a54ab64288144b9cf4904e67bb359e524", null ],
-    [ "_wmoNames", "d1/da1/a28832.html#a6ec4f95ff866585403670b620a42a857", null ],
-    [ "filename", "d1/da1/a28832.html#ab3dac8623598bac1152a514a00126bf6", null ]
+    [ "Bounds", "d1/da1/a28832.html#a1e982b341ac3859fad38b2efc81ab8ea", null ],
+    [ "DoodadSet", "d1/da1/a28832.html#abbf6e50e76b120be17215cfcf227a524", null ],
+    [ "Flags", "d1/da1/a28832.html#a06f5e96119239356eea45b9acdadf6e1", null ],
+    [ "Id", "d1/da1/a28832.html#a952442c180e8d3710af31272b54eb6ec", null ],
+    [ "NameSet", "d1/da1/a28832.html#a55df9aed38d8cf1503b21f5fd9d5e5d0", null ],
+    [ "Position", "d1/da1/a28832.html#a7e6463db89eaf53bc20832afb1842a5b", null ],
+    [ "Rotation", "d1/da1/a28832.html#a2c04715e800b9f375c287cced96643d1", null ],
+    [ "Scale", "d1/da1/a28832.html#a142716fecae07abc013c7f3bd053c0ea", null ],
+    [ "UniqueId", "d1/da1/a28832.html#a749e920740b9e91547fe1f87933d1c7d", null ]
 ];

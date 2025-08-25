@@ -1,6 +1,7 @@
 var a21296 =
 [
-    [ "npc_frozen_orbAI", "df/dec/a21300.html", "df/dec/a21300" ],
-    [ "npc_frozen_orb", "db/d26/a21296.html#ac14966722e39b2b6b3a907756701ed98", null ],
-    [ "GetAI", "db/d26/a21296.html#a2f9e1a2cb14ee9e5f24e02aa97697116", null ]
+    [ "HandlePeriodicDummy", "db/d26/a21296.html#a295f37cddccc696d450a0c4380d43c29", null ],
+    [ "PrepareAuraScript", "db/d26/a21296.html#a9453aa189ba53de3d89bbab183927cfc", null ],
+    [ "Register", "db/d26/a21296.html#a1ca87e8523c020a9e4e0970c68957c14", null ],
+    [ "Validate", "db/d26/a21296.html#a475480c072aaccde7b00cf28aedff3ec", null ]
 ];

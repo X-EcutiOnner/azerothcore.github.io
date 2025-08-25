@@ -1,6 +1,6 @@
 var a12468 =
 [
-    [ "HandleHit", "d7/dc9/a12468.html#a5245f935c0cafd14e492214a51d85ad3", null ],
-    [ "PrepareSpellScript", "d7/dc9/a12468.html#a074b9e23de0a9b24776c7e361791c6ff", null ],
-    [ "Register", "d7/dc9/a12468.html#a12f7db2345ce0d19a18791a2e63e7450", null ]
+    [ "boss_lucifronAI", "d7/dc9/a12468.html#ab93792bd7798b9ee9cf869fa20190554", null ],
+    [ "ExecuteEvent", "d7/dc9/a12468.html#a0ba286f037c07032488d6763daeaf130", null ],
+    [ "JustEngagedWith", "d7/dc9/a12468.html#aba3256ec99e56e3051045391fceedc7f", null ]
 ];

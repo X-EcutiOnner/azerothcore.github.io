@@ -1,10 +1,13 @@
 var a16132 =
 [
-    [ "spell_halion_combustion_consumption_aura", "da/d38/a16132.html#a8b67aee76c7288748757e6bec7f4cb78", null ],
-    [ "AddMarkStack", "da/d38/a16132.html#a337776c42bd6c42ecdffb508808ed070", null ],
-    [ "OnApply", "da/d38/a16132.html#afeea3e5026e6d8472440c9cffac9bce9", null ],
-    [ "OnRemove", "da/d38/a16132.html#a3959dbe8bbdf2d3953daf14072614708", null ],
-    [ "PrepareAuraScript", "da/d38/a16132.html#a334f2211429dde989b6beb6c10a71464", null ],
-    [ "Register", "da/d38/a16132.html#affc66a03e9d1eaef30a54b8a044734b8", null ],
-    [ "_markSpell", "da/d38/a16132.html#a8236d9d50f267a12216d90f8041da439", null ]
+    [ "boss_twilight_halionAI", "da/d38/a16132.html#aab05bab963d603c3cb70edfd62a84b49", null ],
+    [ "DamageTaken", "da/d38/a16132.html#a0c62ac244e57b1b90101e1ba89a60d27", null ],
+    [ "EnterEvadeMode", "da/d38/a16132.html#af7076251fc1fad1dc259d747934910e2", null ],
+    [ "JustDied", "da/d38/a16132.html#a2874474a1dbc9b30a4ff77d2d7bfd8fd", null ],
+    [ "JustEngagedWith", "da/d38/a16132.html#a136b51ede30d63d87228d35e8b6f2c7a", null ],
+    [ "KilledUnit", "da/d38/a16132.html#ada770d51f63c841c500ffc3197a7a89f", null ],
+    [ "Reset", "da/d38/a16132.html#a9c945841926d5b08f37c6a720dd25a14", null ],
+    [ "UpdateAI", "da/d38/a16132.html#a6ab1d215ed077883781b0c0188282c5e", null ],
+    [ "_events", "da/d38/a16132.html#a22a8a7696fb23b9eab01d42cd45644de", null ],
+    [ "_instance", "da/d38/a16132.html#a033f10bba4ba89aa0111d4cb520540e6", null ]
 ];

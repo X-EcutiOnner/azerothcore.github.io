@@ -1,11 +1,15 @@
 var a16288 =
 [
-    [ "npc_black_knight_ghoulAI", "de/dfa/a16288.html#a6e108052a7f9911dcd1b0ed13b2b8a0f", null ],
-    [ "JustEngagedWith", "de/dfa/a16288.html#a8353dea0de91017223c7624a5a96ebec", null ],
-    [ "Reset", "de/dfa/a16288.html#a8a33efa0719063a9565bc07143f8ad83", null ],
-    [ "SpellHit", "de/dfa/a16288.html#aa1b1fbb1a4633831774c7a7dd5cbb546", null ],
-    [ "SpellHitTarget", "de/dfa/a16288.html#a5f106a3b0edf353769db9021b9ca770d", null ],
-    [ "UpdateAI", "de/dfa/a16288.html#a6ccdb6a59b93999c01d434bcda593f25", null ],
-    [ "events", "de/dfa/a16288.html#acb56826a164e4d7da0a2f04c1efaf72b", null ],
-    [ "pInstance", "de/dfa/a16288.html#a35b8375f1b3407f5cee653ee118e0697", null ]
+    [ "npc_argent_soldierAI", "de/dfa/a16288.html#abbfbb5a1e116c6deb3db23f12ff8994f", null ],
+    [ "DamageTaken", "de/dfa/a16288.html#afb48cc1c2e254c292c33eade74b6fad7", null ],
+    [ "JustDied", "de/dfa/a16288.html#aedf4dcd909c1009fedfde593522454ec", null ],
+    [ "JustEngagedWith", "de/dfa/a16288.html#a0aa59fdf0668d64f3b670c595579ba81", null ],
+    [ "Reset", "de/dfa/a16288.html#a1a0c00c09c348f746730c9743d4b7b6b", null ],
+    [ "SetData", "de/dfa/a16288.html#a20b62b48f5cf92106fcd1860d9e91956", null ],
+    [ "UpdateAI", "de/dfa/a16288.html#aed2921c1f6bc0507bf9e6f02f224ab44", null ],
+    [ "WaypointReached", "de/dfa/a16288.html#af70fb91477dbeaa7e6e409f3381f0770", null ],
+    [ "bCheck", "de/dfa/a16288.html#af570597c33add7ac5ebf3d01e8c9b2df", null ],
+    [ "events", "de/dfa/a16288.html#ac458fc9a331dc7edfdc764215b1926e8", null ],
+    [ "pInstance", "de/dfa/a16288.html#ac9951514f27f343ae96e856f484e7baf", null ],
+    [ "uiWaypoint", "de/dfa/a16288.html#a87382571221c608017fd2d4cb99193dc", null ]
 ];

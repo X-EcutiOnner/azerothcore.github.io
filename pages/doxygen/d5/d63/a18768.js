@@ -1,7 +1,6 @@
 var a18768 =
 [
-    [ "HandleEffectPeriodic", "d5/d63/a18768.html#a57615f1d8b891ab5a5c01de1543235cb", null ],
-    [ "PrepareAuraScript", "d5/d63/a18768.html#ae040da0db1147652266e1f373838df37", null ],
-    [ "Register", "d5/d63/a18768.html#ab11b84522134ee4d13504df3c19f69b8", null ],
-    [ "Validate", "d5/d63/a18768.html#af3c3c90256913ffe188c11a21fc2dcc8", null ]
+    [ "PrepareSpellScript", "d5/d63/a18768.html#aac12da39c503615036120e3e0cd55622", null ],
+    [ "Register", "d5/d63/a18768.html#a808d2283be9714c14f22a2df0a52dd61", null ],
+    [ "RelocateDest", "d5/d63/a18768.html#a843c9dc403404ddd2de667e57e01f00c", null ]
 ];

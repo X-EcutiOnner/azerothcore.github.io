@@ -1,7 +1,7 @@
 var a26600 =
 [
-    [ "HandleEffectPeriodic", "df/d80/a26600.html#abb9ec1dd08954e80cf6dbcacbe44e2ba", null ],
-    [ "PrepareAuraScript", "df/d80/a26600.html#ae151331af09510cc91b63b65a30bdcbf", null ],
-    [ "Register", "df/d80/a26600.html#ac2e23fa8c9cfec9b9689512f3363a56e", null ],
-    [ "Validate", "df/d80/a26600.html#ad5cc7a5aa1164092f267071c82752bb5", null ]
+    [ "CalcPeriodic", "df/d80/a26600.html#af787d0c8738284e757f808e7d138bdc6", null ],
+    [ "PrepareAuraScript", "df/d80/a26600.html#a383db196133bbecee06fe443fdb1bc24", null ],
+    [ "Register", "df/d80/a26600.html#a1c617b5b26805b0feb468c55337f9d4c", null ],
+    [ "Update", "df/d80/a26600.html#af3f4a7b82e099313d609df7f85f02d00", null ]
 ];

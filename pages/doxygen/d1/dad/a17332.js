@@ -1,6 +1,6 @@
 var a17332 =
 [
-    [ "AddExtraDamage", "d1/dad/a17332.html#adeedfdd7555dfd009c99db6f002f7488", null ],
-    [ "PrepareSpellScript", "d1/dad/a17332.html#a5d5c32f102c525f6c25d12281a58f5f4", null ],
-    [ "Register", "d1/dad/a17332.html#affe1d9a5e9c4776d1651fdb95283caf4", null ]
+    [ "npc_blood_queen_lana_thelAI", "d3/d36/a17336.html", "d3/d36/a17336" ],
+    [ "npc_blood_queen_lana_thel", "d1/dad/a17332.html#a39adef3ae54efd4433805bd8ad4719be", null ],
+    [ "GetAI", "d1/dad/a17332.html#a02d928ac4ef1704cee2498ebe6533561", null ]
 ];

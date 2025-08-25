@@ -1,6 +1,7 @@
 var a19796 =
 [
-    [ "npc_assembly_lightningAI", "d2/da0/a19800.html", "d2/da0/a19800" ],
-    [ "npc_assembly_lightning", "da/d9d/a19796.html#ac9776fc8cb3dd3f8bfecb1d367afefd2", null ],
-    [ "GetAI", "da/d9d/a19796.html#a4054ea8bb68b2742847b359e19b477df", null ]
+    [ "HandlePeriodic", "da/d9d/a19796.html#a14fd25f78c9e2bfbdaeb07f3233628b6", null ],
+    [ "PrepareAuraScript", "da/d9d/a19796.html#ad78b06733a8609dd39e885db2f23edba", null ],
+    [ "Register", "da/d9d/a19796.html#ac9ae9be546964752869163896c4045dd", null ],
+    [ "Validate", "da/d9d/a19796.html#afcca84d03b29ef7569c03f973a6c191b", null ]
 ];

@@ -1,7 +1,6 @@
 var a26376 =
 [
-    [ "HandleDummy", "da/d26/a26376.html#a123ddc812fb358b7517eba60d1f90eba", null ],
-    [ "Load", "da/d26/a26376.html#a64ca188f58b4f34827f03ae2878deef0", null ],
-    [ "PrepareSpellScript", "da/d26/a26376.html#a7068dd9e6f7838d9ad7023c2d61482cc", null ],
-    [ "Register", "da/d26/a26376.html#aff7ea1c5c569022ece56ecdb3f434723", null ]
+    [ "CheckRequirement", "da/d26/a26376.html#acaae3858de4d56028e3cb4581a57450c", null ],
+    [ "PrepareSpellScript", "da/d26/a26376.html#aa1013bb1b09aae7b691b6325c8e7a405", null ],
+    [ "Register", "da/d26/a26376.html#aa490168c69f9ba5c12db3171516dd8ac", null ]
 ];

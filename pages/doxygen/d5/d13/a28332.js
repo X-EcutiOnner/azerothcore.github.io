@@ -1,5 +1,7 @@
 var a28332 =
 [
-    [ "Id", "d5/d13/a28332.html#a44532f8af054ae5224f5e816c3c9a8a7", null ],
-    [ "PowerType", "d5/d13/a28332.html#ab6c17a5a3ba9f2f3a8fac125104703c4", null ]
+    [ "Id", "d5/d13/a28332.html#a94843a6f0cb39332f39a9630945f1fc8", null ],
+    [ "SoundBank", "d5/d13/a28332.html#a1dd2e40caf515186c831dc8cc82c095b", null ],
+    [ "SpellId", "d5/d13/a28332.html#aa010947f5fbec6867b005b25728e720b", null ],
+    [ "Type", "d5/d13/a28332.html#a7f610dd6a9944b4634bb981c0cb8e230", null ]
 ];

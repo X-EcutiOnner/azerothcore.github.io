@@ -1,6 +1,7 @@
 var a14632 =
 [
-    [ "HandleHit", "d3/d7b/a14632.html#aec32d6b45bdcfe3a6a32c2fb7558edd1", null ],
-    [ "PrepareSpellScript", "d3/d7b/a14632.html#a31fdc4d630a4a6647d2a9b1100aecdad", null ],
-    [ "Register", "d3/d7b/a14632.html#a64a861b5c25df5780390aa55899393d7", null ]
+    [ "boss_azuregosAI", "dd/d35/a14636.html", "dd/d35/a14636" ],
+    [ "boss_azuregos", "d3/d7b/a14632.html#a48590db0037870ca5c9425a468e5ea3a", null ],
+    [ "GetAI", "d3/d7b/a14632.html#a3ea1fd967b8ab158a9b2bb5cdd7dcf83", null ],
+    [ "OnGossipSelect", "d3/d7b/a14632.html#a73220e54a3a53931e740f3c53c3bf20c", null ]
 ];

@@ -1,14 +1,17 @@
 var a12848 =
 [
-    [ "boss_selin_fireheart", "df/d4d/a12848.html#ae3270a227550391fd752d3f241e5ea46", null ],
-    [ "CanAIAttack", "df/d4d/a12848.html#a36f409a006a09812452052d554d5e810", null ],
-    [ "JustDied", "df/d4d/a12848.html#a1330c499c04aee849bcbb3ebfe30eb1e", null ],
-    [ "JustEngagedWith", "df/d4d/a12848.html#ad414ec34127bffbae1b6b5f9a794f28c", null ],
-    [ "KilledUnit", "df/d4d/a12848.html#a0fc74ba75a482a67d19f4323df1f5e6c", null ],
-    [ "MovementInform", "df/d4d/a12848.html#a8072412acc5f52fdeea3b4f740021a91", null ],
-    [ "OnPowerUpdate", "df/d4d/a12848.html#a71677fbd88ab14b6fb40e3bc9897c982", null ],
-    [ "Reset", "df/d4d/a12848.html#a6d6cab76647794f971c9a6837d8fbf8c", null ],
-    [ "SelectNearestCrystal", "df/d4d/a12848.html#afe01bdf64e5f84c7aa5ee0f164ac29c0", null ],
-    [ "SpawnCrystals", "df/d4d/a12848.html#a5c874662b9bf518782b2dc824f1eb03d", null ],
-    [ "SummonedCreatureDies", "df/d4d/a12848.html#a396341d39bead723a7c6f716c08aa447", null ]
+    [ "boss_priestess_lackey_commonAI", "df/d4d/a12848.html#acf122076823631cef5d66e03a9f607aa", null ],
+    [ "AttackStart", "df/d4d/a12848.html#a6056ef3425f39208e5731b25fc94a335", null ],
+    [ "EnterEvadeMode", "df/d4d/a12848.html#a6935410d7a4ce8e9dec9feed9f5351d7", null ],
+    [ "GetThreatMod", "df/d4d/a12848.html#a2e0e387ae4645c9bbd4625d1469403a8", null ],
+    [ "JustDied", "df/d4d/a12848.html#a8b06ee0a3e22d495a41ccf4c7009ad2d", null ],
+    [ "JustEngagedWith", "df/d4d/a12848.html#a4d47aacc653ab0e4b74fa3bcbcfdbbc7", null ],
+    [ "JustSummoned", "df/d4d/a12848.html#a9a7bcf641bae31827872faf7666635d5", null ],
+    [ "KilledUnit", "df/d4d/a12848.html#a23aaa0a619470898dd617a18130ca17b", null ],
+    [ "RecalculateThreat", "df/d4d/a12848.html#a7daa8f2b2ddfbbd0d0f267dac7e0c2c2", null ],
+    [ "Reset", "df/d4d/a12848.html#aa2ef03d73c43668c97205fa72414e71b", null ],
+    [ "UpdateAI", "df/d4d/a12848.html#adf87bd797da345e49700265319d808cc", null ],
+    [ "aiType", "df/d4d/a12848.html#a2b7ccbf195658e402ba6f276b18e3551", null ],
+    [ "instance", "df/d4d/a12848.html#ac71aa86c97fe11d934f09d62c4ed8eab", null ],
+    [ "summons", "df/d4d/a12848.html#a498ef73fcc7995113318c5f0b6efa23e", null ]
 ];

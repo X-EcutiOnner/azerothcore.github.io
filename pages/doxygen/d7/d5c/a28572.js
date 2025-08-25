@@ -1,5 +1,5 @@
 var a28572 =
 [
-    [ "type", "d7/d5c/a28572.html#af749459df7757d1bab17a54be813f6b6", null ],
-    [ "_type", "d7/d5c/a28572.html#ab0344571616786baef4511c647a3abea", null ]
+    [ "ByteBufferInvalidValueException", "d7/d5c/a28572.html#a6ee22161167faf11555c6e6b15422cd8", null ],
+    [ "~ByteBufferInvalidValueException", "d7/d5c/a28572.html#a30cc1225522916e05abf95e14805d7a3", null ]
 ];

@@ -1,12 +1,22 @@
 var a16868 =
 [
-    [ "npc_ghostly_priestAI", "d3/db1/a16868.html#abb6815d1395b68654eeb6ab8b4217388", null ],
-    [ "AttackStart", "d3/db1/a16868.html#a9719d1ad6e58b727bc1720cb815be3e9", null ],
-    [ "DoAction", "d3/db1/a16868.html#a89c991a1d4c07f1229436871f503c949", null ],
-    [ "EnterEvadeMode", "d3/db1/a16868.html#ab8fd2df32ef12f5f648b8af9abcc3201", null ],
-    [ "JustDied", "d3/db1/a16868.html#a004e8aec05741b9ee36b0695840e6c2a", null ],
-    [ "JustEngagedWith", "d3/db1/a16868.html#a780d530e224ca1f72e26db17cd57f44a", null ],
-    [ "Reset", "d3/db1/a16868.html#ab8f7559110be76633153842e0714554a", null ],
-    [ "UpdateAI", "d3/db1/a16868.html#ab431f451963d0b608f11129934496700", null ],
-    [ "events", "d3/db1/a16868.html#a9b49c143b5a29b4f9b4ce34ce0aecca7", null ]
+    [ "instance_forge_of_souls_InstanceScript", "d3/db1/a16868.html#ae39e116a01c17592037e12185a03201a", null ],
+    [ "CheckAchievementCriteriaMeet", "d3/db1/a16868.html#a534c7f97e7425160f9a2b1e555d0aa29", null ],
+    [ "GetGuidData", "d3/db1/a16868.html#aa2e295b46c826d701dafb2e6635ce723", null ],
+    [ "HandleOutro", "d3/db1/a16868.html#aadf4a99e89f354901ff63c600725b07f", null ],
+    [ "Initialize", "d3/db1/a16868.html#af0f6d3b0a9a5659affc9812de90fc8ae", null ],
+    [ "IsEncounterInProgress", "d3/db1/a16868.html#a698bfce6741edaccdbd32b1215def039", null ],
+    [ "OnCreatureCreate", "d3/db1/a16868.html#a7570ef3ca74178fec80c5018cbecf42a", null ],
+    [ "OnPlayerEnter", "d3/db1/a16868.html#aac223f0ae25071d3323052c52c887636", null ],
+    [ "ReadSaveDataMore", "d3/db1/a16868.html#a590164fab67dd90d63045671d22143c5", null ],
+    [ "SetData", "d3/db1/a16868.html#a7187a50cebadcf77d74c62b053830efb", null ],
+    [ "WriteSaveDataMore", "d3/db1/a16868.html#a1a3006add0aed0572d8b784a449fc75e", null ],
+    [ "m_auiEncounter", "d3/db1/a16868.html#ad5c847c647e45d23fa6df4ca66264c57", null ],
+    [ "NPC_BronjahmGUID", "d3/db1/a16868.html#affae42118c88fee6e7a300a45d74e63a", null ],
+    [ "NPC_DevourerGUID", "d3/db1/a16868.html#ae1da7da294210fd77199f98b23d3b665", null ],
+    [ "NPC_GuardFirstGUID", "d3/db1/a16868.html#acf04c40ff5c4b09fcafc5b5b8328eaab", null ],
+    [ "NPC_GuardSecondGUID", "d3/db1/a16868.html#aa2d81eabe8cf50f3c42b075581e4d6dd", null ],
+    [ "NPC_LeaderFirstGUID", "d3/db1/a16868.html#a10b3c39fb3c038932ddcff1ddfc4ab85", null ],
+    [ "NPC_LeaderSecondGUID", "d3/db1/a16868.html#a252639143b34c38ef106192cb2399b30", null ],
+    [ "str_data", "d3/db1/a16868.html#ad540fbbabef46015fb1730c5b6477b92", null ]
 ];

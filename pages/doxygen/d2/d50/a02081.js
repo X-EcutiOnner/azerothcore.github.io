@@ -1,5 +1,6 @@
 var a02081 =
 [
-    [ "cheat_commandscript", "dd/d3b/a11624.html", "dd/d3b/a11624" ],
-    [ "AddSC_cheat_commandscript", "d2/d50/a02081.html#aafc88882ff0af0beb4632ec2c929fc8c", null ]
+    [ "bg_commandscript", "d9/d3c/a11632.html", "d9/d3c/a11632" ],
+    [ "AddSC_bag_commandscript", "d2/d50/a02081.html#a8fa1e803122341d611168b2b62fde4e5", null ],
+    [ "itemQualityToString", "d2/d50/a02081.html#af266597924b9d3f439ffc9908001d2cb", null ]
 ];

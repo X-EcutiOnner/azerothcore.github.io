@@ -1,17 +1,14 @@
 var a21176 =
 [
-    [ "boss_skadiAI", "de/da9/a21176.html#a674e0cea77b25ec6413f8e52336d06db", null ],
-    [ "DoAction", "de/da9/a21176.html#ac0513a8e187b3d68fd320b124930ac8b", null ],
-    [ "GetGrauf", "de/da9/a21176.html#a48806cf61d295e6ab86a1e018b0fd30a", null ],
-    [ "JustDied", "de/da9/a21176.html#af963eda18854869f3a73cb22f48b0230", null ],
-    [ "JustEngagedWith", "de/da9/a21176.html#a2853d557da48decede7baa4845f5573f", null ],
-    [ "KilledUnit", "de/da9/a21176.html#aab72405691cab78ac0f224cf637f7570", null ],
-    [ "Reset", "de/da9/a21176.html#a7d1287f7a3cc5703a7430a15e769cb2c", null ],
-    [ "UpdateAI", "de/da9/a21176.html#a05690f147e2c2a584179c19b0a84a1b0", null ],
-    [ "events", "de/da9/a21176.html#a7dabced72e6cc2191cc29a221967159e", null ],
-    [ "EventStarted", "de/da9/a21176.html#aa4f75b2430f3b95dcc2a06f22f5d9680", null ],
-    [ "GraufGUID", "de/da9/a21176.html#a9990eed4758e5eaad8a538b09ac7ee4f", null ],
-    [ "m_pInstance", "de/da9/a21176.html#ae48e23b61d9cafbdc9a7811361ebcd11", null ],
-    [ "SecondPhase", "de/da9/a21176.html#a3a3892c0fcc148cf8d3b903a37de3e1f", null ],
-    [ "summons", "de/da9/a21176.html#a93762ced245b700eb6196ea3a96b143c", null ]
+    [ "npc_massive_jormungarAI", "de/da9/a21176.html#aa0b9acaec1aab155f7e4442d12d40c3e", null ],
+    [ "DoAction", "de/da9/a21176.html#a8084994ba056c907b2e487568fa7502a", null ],
+    [ "JustDied", "de/da9/a21176.html#a02b4e75227811250e2210f754e6e04f2", null ],
+    [ "JustEngagedWith", "de/da9/a21176.html#a93769dbb2f7d2136e5ab2603927a5f12", null ],
+    [ "JustReachedHome", "de/da9/a21176.html#a8ea0fe40cb4b113abadc091ab8085636", null ],
+    [ "MoveInLineOfSight", "de/da9/a21176.html#a55c817111fab479c3abcfca8942f16e8", null ],
+    [ "Reset", "de/da9/a21176.html#aca0d8ebe3b47a075a8b87666c0207620", null ],
+    [ "UpdateAI", "de/da9/a21176.html#a9201c4cdf74d55bb3cde52eb265aa3d9", null ],
+    [ "events", "de/da9/a21176.html#a92334b8178317a91a7d4336096d75f33", null ],
+    [ "m_pInstance", "de/da9/a21176.html#ad50a9852370798817fda318f71f27653", null ],
+    [ "summons", "de/da9/a21176.html#acfa84efc38b994706015e6d82fe1f653", null ]
 ];

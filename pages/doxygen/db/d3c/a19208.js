@@ -1,6 +1,6 @@
 var a19208 =
 [
-    [ "DespawnTime", "db/d3c/a19208.html#ae14c357137f16666c74e5f7e3f77aed5", null ],
-    [ "End", "db/d3c/a19208.html#ac87ea314ccf946eb1fa35985e35c81fd", null ],
-    [ "Start", "db/d3c/a19208.html#a985271de503fa704a58abe3e64c3b268", null ]
+    [ "boss_thaddiusAI", "d2/df2/a19212.html", "d2/df2/a19212" ],
+    [ "boss_thaddius", "db/d3c/a19208.html#aff97b030b861feb646e1b22f60ee3605", null ],
+    [ "GetAI", "db/d3c/a19208.html#acf841c6897396f517a74932fc3480e69", null ]
 ];

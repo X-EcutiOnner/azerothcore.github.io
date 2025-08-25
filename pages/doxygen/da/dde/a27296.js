@@ -1,9 +1,6 @@
 var a27296 =
 [
-    [ "go_gilded_brazierAI", "da/dde/a27296.html#aaacf408b0f42b593a8a2897cb27886fb", null ],
-    [ "GossipHello", "da/dde/a27296.html#afac9e217c294e72ff5f2526422e6321e", null ],
-    [ "Initialize", "da/dde/a27296.html#a72d2dd8f7ecdf173e5a3847c94255786", null ],
-    [ "UpdateAI", "da/dde/a27296.html#a0965f0a6f3f1c75e85f184319a1f9cef", null ],
-    [ "_events", "da/dde/a27296.html#a35e62a272b790d6e858cc48c92e55b7b", null ],
-    [ "_playerGUID", "da/dde/a27296.html#a506eccb2c3ebcc126d486638fb07ae3c", null ]
+    [ "go_brewfest_musicAI", "dd/d0f/a27300.html", "dd/d0f/a27300" ],
+    [ "go_brewfest_music", "da/dde/a27296.html#a787963a5ee591933d62fdb52911f9a77", null ],
+    [ "GetAI", "da/dde/a27296.html#a50f36a6d0a72e7188dbe1bdaa09f1888", null ]
 ];

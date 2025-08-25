@@ -1,7 +1,6 @@
 var a16144 =
 [
-    [ "HandleScriptEffect", "db/d8a/a16144.html#a9582a8faa1b8ba973a76d651a7479348", null ],
-    [ "PrepareSpellScript", "db/d8a/a16144.html#a681102507df3aa365ee2e2f064be5e54", null ],
-    [ "Register", "db/d8a/a16144.html#aebfea5eb3339ede812b43a08a8cb82b9", null ],
-    [ "Validate", "db/d8a/a16144.html#ae4a5c7952856caf2a2d3919b24b61949", null ]
+    [ "npc_orb_carrierAI", "dd/d90/a16148.html", "dd/d90/a16148" ],
+    [ "npc_orb_carrier", "db/d8a/a16144.html#a69fdd8cb2f0cdf7cf6cf0bdabbc0cd03", null ],
+    [ "GetAI", "db/d8a/a16144.html#ab5b7bbffc43b840c686dc889805ea401", null ]
 ];

@@ -1,12 +1,6 @@
 var a21560 =
 [
-    [ "npc_beryl_sorcererAI", "dc/d82/a21560.html#a8f99f5f2ad6ccb1b068a86904bb1b864", null ],
-    [ "Initialize", "dc/d82/a21560.html#a40400e4e993d20d9bbe4faf063102521", null ],
-    [ "JustEngagedWith", "dc/d82/a21560.html#afae877e8dac583c9420d214f77c2b438", null ],
-    [ "Reset", "dc/d82/a21560.html#a17a16337c09013483c58cae38576d969", null ],
-    [ "SpellHit", "dc/d82/a21560.html#a762ee3ae8df3757279821af13101e0be", null ],
-    [ "UpdateAI", "dc/d82/a21560.html#a42ec665b06988d13be6cbee646afc898", null ],
-    [ "_chainsCast", "dc/d82/a21560.html#ab6238d539b10a7db9191bdc685ea67eb", null ],
-    [ "_events", "dc/d82/a21560.html#ac640099ca01ae2183b84ae9ee3407cc1", null ],
-    [ "_playerGUID", "dc/d82/a21560.html#a96f9b39c09b7a5fb484ae9069412751f", null ]
+    [ "npc_khunok_the_behemothAI", "d7/d41/a21564.html", "d7/d41/a21564" ],
+    [ "npc_khunok_the_behemoth", "dc/d82/a21560.html#a0370959631c00581495dbd7c37263236", null ],
+    [ "GetAI", "dc/d82/a21560.html#a201aa35dd119d23126b192a1e3786c09", null ]
 ];

@@ -1,5 +1,6 @@
 var a17148 =
 [
-    [ "endPosition", "de/df8/a17148.html#a8a88b0191d28ef6af8f41db627552602", null ],
-    [ "entry", "de/df8/a17148.html#ac4e55af666e269440953ced038c1a8de", null ]
+    [ "npc_pos_leader_secondAI", "de/d90/a17152.html", "de/d90/a17152" ],
+    [ "npc_pos_leader_second", "de/df8/a17148.html#ac4758674cc97eae0937264fa028e6da5", null ],
+    [ "GetAI", "de/df8/a17148.html#ac403cfc86247990d78c9cf4179df8b87", null ]
 ];

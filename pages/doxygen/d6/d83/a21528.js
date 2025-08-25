@@ -1,5 +1,9 @@
 var a21528 =
 [
-    [ "npc_khunok_the_behemothAI", "d6/d83/a21528.html#a435ac0418fe4bba1d2877ce6bea6451c", null ],
-    [ "MoveInLineOfSight", "d6/d83/a21528.html#a5d54954a159da764aa7b83579e03688c", null ]
+    [ "npc_azure_sorcerorAI", "d6/d83/a21528.html#a474a7144908d4820341dc56f77436b90", null ],
+    [ "Reset", "d6/d83/a21528.html#a4c637288f79e1da4bdace6516cd887b1", null ],
+    [ "UpdateAI", "d6/d83/a21528.html#a928d789e2cbd35b228857a23c4204ea1", null ],
+    [ "uiArcaneStreamTimer", "d6/d83/a21528.html#ad238fe8fed4dcefd923d901e4f73ed05", null ],
+    [ "uiArcaneStreamTimerStartingValueHolder", "d6/d83/a21528.html#af044879e8e064e28a491c87d0c6cde74", null ],
+    [ "uiManaDetonationTimer", "d6/d83/a21528.html#a3ebe4eb452296f3c45db5c1b6cdaa243", null ]
 ];

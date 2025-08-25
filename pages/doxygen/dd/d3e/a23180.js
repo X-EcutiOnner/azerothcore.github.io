@@ -1,14 +1,15 @@
 var a23180 =
 [
-    [ "SpellIds", "dd/d3e/a23180.html#a2d0e9022edc8a9f6fc0e34330fda114a", [
-      [ "SPELL_SUMMON_WAVE_A_MOB", "dd/d3e/a23180.html#a2d0e9022edc8a9f6fc0e34330fda114aa19ea6e555692392677c74fccd206380b", null ],
-      [ "SPELL_SUMMON_WAVE_B_MOB", "dd/d3e/a23180.html#a2d0e9022edc8a9f6fc0e34330fda114aa938130293fb55c96d06462e407a24a89", null ],
-      [ "SPELL_SUMMON_WAVE_C_MOB", "dd/d3e/a23180.html#a2d0e9022edc8a9f6fc0e34330fda114aadc855654104e4ec0a09540e9b51cb098", null ],
-      [ "SPELL_SUMMON_WAVE_D_MOB", "dd/d3e/a23180.html#a2d0e9022edc8a9f6fc0e34330fda114aa3bbb32a8c4da3b06e9bf5da83f39970d", null ]
-    ] ],
-    [ "FilterTargets", "dd/d3e/a23180.html#a2a1a2e5069587f52ae968c84cd702eaf", null ],
-    [ "HandleHit", "dd/d3e/a23180.html#aa670812f42c3082f42e0f232ee6bee16", null ],
-    [ "PrepareSpellScript", "dd/d3e/a23180.html#a7fe65229c64c27909868f02439c1ef66", null ],
-    [ "Register", "dd/d3e/a23180.html#a0a8f29b524391ff257aba5cbdc355115", null ],
-    [ "Validate", "dd/d3e/a23180.html#ab8bcdcfcad2a9998d95567006817711e", null ]
+    [ "boss_hydross_the_unstable", "dd/d3e/a23180.html#a8e385f4f7f448033b00828540aa16cde", null ],
+    [ "JustDied", "dd/d3e/a23180.html#ad05fa00eade9614ed54b03a9a4d5d348", null ],
+    [ "JustEngagedWith", "dd/d3e/a23180.html#a4fd2138ce9962d89410b57702d7df33d", null ],
+    [ "JustReachedHome", "dd/d3e/a23180.html#a03cbe48effc4cd3a2821312e60578ed4", null ],
+    [ "JustSummoned", "dd/d3e/a23180.html#a3e9031d95c9e62cbd83eeba4af6c965a", null ],
+    [ "KilledUnit", "dd/d3e/a23180.html#a252d3abdf24c06922c88823bc5e535f3", null ],
+    [ "Reset", "dd/d3e/a23180.html#a0bcad41c74800ab58df8b5ea54d2ec8e", null ],
+    [ "SetForm", "dd/d3e/a23180.html#ac80b0611533998d15406d45385d37629", null ],
+    [ "SummonedCreatureDespawn", "dd/d3e/a23180.html#afe4b76f528045506586f8289eaee27aa", null ],
+    [ "SummonMovementInform", "dd/d3e/a23180.html#af74b63bf239de38f8dd04e69a6ea2b54", null ],
+    [ "SummonTaintedElementalOOC", "dd/d3e/a23180.html#a219094dc5a81acb7d7ae86d5d7945da8", null ],
+    [ "_recentlySpoken", "dd/d3e/a23180.html#acfd0f1a6331b08659c5fffa7850d30b4", null ]
 ];

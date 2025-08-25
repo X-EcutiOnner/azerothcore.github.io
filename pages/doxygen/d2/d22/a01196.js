@@ -1,5 +1,5 @@
 var a01196 =
 [
-    [ "FleeingMovementGenerator< T >", "d9/dd0/a09960.html", "d9/dd0/a09960" ],
-    [ "TimedFleeingMovementGenerator", "de/d42/a09964.html", "de/d42/a09964" ]
+    [ "FleeingMovementGenerator< T >", "d7/d37/a09968.html", "d7/d37/a09968" ],
+    [ "TimedFleeingMovementGenerator", "db/dfc/a09972.html", "db/dfc/a09972" ]
 ];

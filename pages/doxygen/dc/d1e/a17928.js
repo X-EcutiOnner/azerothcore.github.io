@@ -1,7 +1,6 @@
 var a17928 =
 [
-    [ "CheckRequirement", "dc/d1e/a17928.html#a1568599758bdc757ae448ab5a77c1cc7", null ],
-    [ "CheckRequirementInternal", "dc/d1e/a17928.html#ac2559b4a925fc0960a902fa2b306dc54", null ],
-    [ "PrepareSpellScript", "dc/d1e/a17928.html#a0d6745dab09cdd228fc802e482c3d15c", null ],
-    [ "Register", "dc/d1e/a17928.html#a95a250aeb3a41922c529f476d39f18e4", null ]
+    [ "FilterTargets", "dc/d1e/a17928.html#ac2396cbd000a8d58ff22dbb08c81dfb4", null ],
+    [ "PrepareSpellScript", "dc/d1e/a17928.html#abcdfe528430e299c2eb64b24f7ff8eb0", null ],
+    [ "Register", "dc/d1e/a17928.html#a32e04a1110d651701b8eab1648c69a57", null ]
 ];

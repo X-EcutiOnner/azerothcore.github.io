@@ -1,6 +1,6 @@
 var a26764 =
 [
-    [ "HandleAuraApply", "d2/d6c/a26764.html#a19d8103126a6446fb5ade53d2b5d0ddb", null ],
-    [ "PrepareAuraScript", "d2/d6c/a26764.html#a7596065e5ffcacf099a5984f5d940c11", null ],
-    [ "Register", "d2/d6c/a26764.html#a8efa76b28dddad68fee132f37791f231", null ]
+    [ "HandleDummy", "d2/d6c/a26764.html#af5bccd5dfb9aa37215b083438b6749ea", null ],
+    [ "PrepareSpellScript", "d2/d6c/a26764.html#a6c2b858c893ed215d1192073b06db81d", null ],
+    [ "Register", "d2/d6c/a26764.html#a1b23dc4a7a04e4c910bb738d45a8df1f", null ]
 ];

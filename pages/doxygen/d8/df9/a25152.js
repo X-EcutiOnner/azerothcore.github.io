@@ -1,7 +1,6 @@
 var a25152 =
 [
-    [ "CheckIfLanceEquipped", "d8/df9/a25152.html#aae1fe4d0329b7a2db5e4f2a28e3f04c5", null ],
-    [ "PrepareSpellScript", "d8/df9/a25152.html#a2af9ee2ccd34c97734c58bfcbb83c8b5", null ],
-    [ "Register", "d8/df9/a25152.html#a4421ceaedce16777f8f04b9c40855782", null ],
-    [ "Validate", "d8/df9/a25152.html#ab0908d7a15e7554c735d8e5554f7cd65", null ]
+    [ "HandleDummy", "d8/df9/a25152.html#a63bc85e32a1478d03b381c61a33d0dff", null ],
+    [ "PrepareSpellScript", "d8/df9/a25152.html#adae41617f38a71ccec183f419d677cfd", null ],
+    [ "Register", "d8/df9/a25152.html#a820e8b506de36a24411ae4a1c5930417", null ]
 ];

@@ -1,6 +1,6 @@
 var a17916 =
 [
-    [ "HandlePeriodic", "d0/d5b/a17916.html#a9583ccd7b642694a06bde4b88826ec7b", null ],
-    [ "PrepareAuraScript", "d0/d5b/a17916.html#a5d855d79247dff6f949a5e099abb9352", null ],
-    [ "Register", "d0/d5b/a17916.html#ae797de0ed29b3ca179c07d759b469228", null ]
+    [ "PrepareSpellScript", "d0/d5b/a17916.html#a16eadb50b6038f16ea28464d00df3381", null ],
+    [ "Register", "d0/d5b/a17916.html#ac6e304d391011863b8eff8105fab5191", null ],
+    [ "SelectDest", "d0/d5b/a17916.html#a8ff5d684c0b91d0f068d03698c1ee92c", null ]
 ];

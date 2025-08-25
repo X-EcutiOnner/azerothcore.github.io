@@ -1,12 +1,8 @@
 var a28808 =
 [
-    [ "Model", "d2/d01/a28808.html#ae102b5fc584185113e89fb7b39a72bd1", null ],
-    [ "~Model", "d2/d01/a28808.html#ad6ebd2062a0b823db841a0b88baac4c0", null ],
-    [ "_unload", "d2/d01/a28808.html#a9b02ed73fa006bc057157b636029ab6f", null ],
-    [ "ConvertToVMAPModel", "d2/d01/a28808.html#ae6fd5d754d9a880359b8afaf50c5753e", null ],
-    [ "open", "d2/d01/a28808.html#a6ed3a71ff468f5acaccc61f5c2c87a0e", null ],
-    [ "filename", "d2/d01/a28808.html#a4c43746e9c460e29cabd1ba2db6ba222", null ],
-    [ "header", "d2/d01/a28808.html#a2f6e66bbf4acc662d73e8fe8e5a0e085", null ],
-    [ "indices", "d2/d01/a28808.html#a3b61d3316481e7b9c38bf50806ebded6", null ],
-    [ "vertices", "d2/d01/a28808.html#a1af9857df4d0e16ab9940846300fa8fe", null ]
+    [ "TileInfo", "d2/d01/a28808.html#af1a25ded4212f141ab4f32db95709210", null ],
+    [ "m_mapId", "d2/d01/a28808.html#a41f4be7d3fce716754b9ac0310b9ecf9", null ],
+    [ "m_navMeshParams", "d2/d01/a28808.html#a9d7c909370359edafa8a9b6a91cef354", null ],
+    [ "m_tileX", "d2/d01/a28808.html#a54cc23d82dfe690e0d62b6156d440fc1", null ],
+    [ "m_tileY", "d2/d01/a28808.html#ab7fba310dd471fddcf2e7d6fba3205ed", null ]
 ];

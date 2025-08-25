@@ -1,9 +1,10 @@
 var a28488 =
 [
-    [ "adtId", "d2/d90/a28488.html#a9bf7e7dd9dd55e5b1ffeffb0ad3e92e0", null ],
-    [ "areaId", "d2/d90/a28488.html#a7f652c68036429350543fc5a2cc6861e", null ],
-    [ "Flags", "d2/d90/a28488.html#a60f9a61948d1e28587c9d1a338730f37", null ],
-    [ "groupId", "d2/d90/a28488.html#a09052bad3028899580ffedd556672b64", null ],
-    [ "Id", "d2/d90/a28488.html#a70e3e94df9d0b0b1c114ed1001768066", null ],
-    [ "rootId", "d2/d90/a28488.html#a7997c7ac31abdb40f2e7f0e0a7e04403", null ]
+    [ "ID", "d2/d90/a28488.html#a090069d13cbbcc5762ecca600c506492", null ],
+    [ "map_id", "d2/d90/a28488.html#a685931e2a361f9e0fc81c004c7467d19", null ],
+    [ "MountCreatureID", "d2/d90/a28488.html#ab59ab7e8b302ac8858bfd67bc10d803f", null ],
+    [ "name", "d2/d90/a28488.html#ae00db3ea736c3a470f6f0690c178e758", null ],
+    [ "x", "d2/d90/a28488.html#a7cbd40848094fa367862d653b0f7170d", null ],
+    [ "y", "d2/d90/a28488.html#a9380befd45cab3104003b2487464bd71", null ],
+    [ "z", "d2/d90/a28488.html#a2e6ce98f7c96ba1469fca8ff3946404a", null ]
 ];

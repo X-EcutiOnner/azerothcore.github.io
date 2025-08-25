@@ -1,14 +1,6 @@
 var a15656 =
 [
-    [ "npc_taskmaster_fizzuleAI", "d1/dbd/a15656.html#ac792f91930c869ce919f8fd96b3fb076", null ],
-    [ "DoFriend", "d1/dbd/a15656.html#aacaeb3293bbb4b670cdc7031d22a50c2", null ],
-    [ "JustEngagedWith", "d1/dbd/a15656.html#ae7c14a4cf5af178525e5a41c0ba34d4b", null ],
-    [ "ReceiveEmote", "d1/dbd/a15656.html#a21d0d70086f085b715a12d05fbe5d611", null ],
-    [ "Reset", "d1/dbd/a15656.html#ac45352b8b3d2301dbaecceaa69bdb1cf", null ],
-    [ "SpellHit", "d1/dbd/a15656.html#a4c35104935a3a6264c853a657dc42244", null ],
-    [ "UpdateAI", "d1/dbd/a15656.html#a95ccf9a84231d64c87b9d88d85b4ec2e", null ],
-    [ "factionNorm", "d1/dbd/a15656.html#ac0794d9b1c04ec4fe6f8afd1556f1fbc", null ],
-    [ "FlareCount", "d1/dbd/a15656.html#a3a1128b7caa6ef4ba3697e1400aaed04", null ],
-    [ "IsFriend", "d1/dbd/a15656.html#ab7e6bd2e023545c73fba758267551eee", null ],
-    [ "ResetTimer", "d1/dbd/a15656.html#a376b3c7fbc9a81e82ece6840e8e9e7fc", null ]
+    [ "npc_custodian_of_timeAI", "d0/db9/a15660.html", "d0/db9/a15660" ],
+    [ "npc_custodian_of_time", "d1/dbd/a15656.html#a6018b30119ce819853a3c662b3d5347e", null ],
+    [ "GetAI", "d1/dbd/a15656.html#a57217b2dab1cab110f1c59526ca13c86", null ]
 ];

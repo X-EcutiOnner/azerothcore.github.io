@@ -1,6 +1,6 @@
 var a22144 =
 [
-    [ "npc_blessed_bannerAI", "d8/daf/a22148.html", "d8/daf/a22148" ],
-    [ "npc_blessed_banner", "df/da9/a22144.html#a779a0c653088b2d206226e146a19101f", null ],
-    [ "GetAI", "df/da9/a22144.html#a43dabbf2f2d54ae201cde37df792a41d", null ]
+    [ "HandleDummy", "df/da9/a22144.html#a05a38c1b8e3b674f3c6e79c59c7caddd", null ],
+    [ "PrepareSpellScript", "df/da9/a22144.html#a0bfebaf099ef573b51bec0a511ceeb39", null ],
+    [ "Register", "df/da9/a22144.html#a9c71b084ce6b86ccaeb9a94d1f8de2b1", null ]
 ];

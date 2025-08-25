@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: Acore::AnyPlayerExactPositionInGameObjectRangeCheck Class Reference</title>
+<title>AzerothCore: Acore::NearestCreatureEntryWithLiveStateInObjectRangeCheck Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,9 +106,10 @@ $(document).ready(function(){initNavTree('da/dda/a09416.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pri-methods">Private Member Functions</a> &#124;
 <a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="../../de/d56/a09413.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">Acore::AnyPlayerExactPositionInGameObjectRangeCheck Class Reference</div></div>
+  <div class="headertitle"><div class="title">Acore::NearestCreatureEntryWithLiveStateInObjectRangeCheck Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
@@ -116,22 +117,31 @@ $(document).ready(function(){initNavTree('da/dda/a09416.html','../../'); initRes
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a51100c20d5b7f795f062dfaa5aa65017"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dda/a09416.html#a51100c20d5b7f795f062dfaa5aa65017">AnyPlayerExactPositionInGameObjectRangeCheck</a> (<a class="el" href="../../d9/dae/a08168.html">GameObject</a> const *go, float range)</td></tr>
-<tr class="separator:a51100c20d5b7f795f062dfaa5aa65017"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0dd7216a026b7f90b293b2adf20a0191"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dda/a09416.html#a0dd7216a026b7f90b293b2adf20a0191">operator()</a> (<a class="el" href="../../d8/d93/a08612.html">Player</a> *u)</td></tr>
-<tr class="separator:a0dd7216a026b7f90b293b2adf20a0191"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa9f15d071efe7ca7bb975489fec2afbd"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dda/a09416.html#aa9f15d071efe7ca7bb975489fec2afbd">NearestCreatureEntryWithLiveStateInObjectRangeCheck</a> (<a class="el" href="../../d1/d2f/a08404.html">WorldObject</a> const &amp;obj, <a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> entry, bool alive, float range)</td></tr>
+<tr class="separator:aa9f15d071efe7ca7bb975489fec2afbd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abc2ab6f33a6a58a6e692cc32e8139839"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dda/a09416.html#abc2ab6f33a6a58a6e692cc32e8139839">operator()</a> (<a class="el" href="../../d0/dda/a08000.html">Creature</a> *u)</td></tr>
+<tr class="separator:abc2ab6f33a6a58a6e692cc32e8139839"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-methods" name="pri-methods"></a>
+Private Member Functions</h2></td></tr>
+<tr class="memitem:a1e25384d08beeee84d83e401f5a5a565"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dda/a09416.html#a1e25384d08beeee84d83e401f5a5a565">NearestCreatureEntryWithLiveStateInObjectRangeCheck</a> (<a class="el" href="../../da/dda/a09416.html">NearestCreatureEntryWithLiveStateInObjectRangeCheck</a> const &amp;)</td></tr>
+<tr class="separator:a1e25384d08beeee84d83e401f5a5a565"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
-<tr class="memitem:a70e0b15948cf34a7c759885949560dcd"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/dae/a08168.html">GameObject</a> const  *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dda/a09416.html#a70e0b15948cf34a7c759885949560dcd">_go</a></td></tr>
-<tr class="separator:a70e0b15948cf34a7c759885949560dcd"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad91342e50833e3b9d75c5e548248941f"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dda/a09416.html#ad91342e50833e3b9d75c5e548248941f">_range</a></td></tr>
-<tr class="separator:ad91342e50833e3b9d75c5e548248941f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa0340c79c37f3494b01c52f034705aa4"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/d2f/a08404.html">WorldObject</a> const  &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dda/a09416.html#aa0340c79c37f3494b01c52f034705aa4">i_obj</a></td></tr>
+<tr class="separator:aa0340c79c37f3494b01c52f034705aa4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae2bf2c0a0f431f5de445fbee26b60a57"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dda/a09416.html#ae2bf2c0a0f431f5de445fbee26b60a57">i_entry</a></td></tr>
+<tr class="separator:ae2bf2c0a0f431f5de445fbee26b60a57"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7a01388f86d25fa0728d94c6e1a7f752"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dda/a09416.html#a7a01388f86d25fa0728d94c6e1a7f752">i_alive</a></td></tr>
+<tr class="separator:a7a01388f86d25fa0728d94c6e1a7f752"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a695af00612b17e0182ad76a5c3be2356"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dda/a09416.html#a695af00612b17e0182ad76a5c3be2356">i_range</a></td></tr>
+<tr class="separator:a695af00612b17e0182ad76a5c3be2356"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a51100c20d5b7f795f062dfaa5aa65017" name="a51100c20d5b7f795f062dfaa5aa65017"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a51100c20d5b7f795f062dfaa5aa65017">&#9670;&#160;</a></span>AnyPlayerExactPositionInGameObjectRangeCheck()</h2>
+<a id="aa9f15d071efe7ca7bb975489fec2afbd" name="aa9f15d071efe7ca7bb975489fec2afbd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa9f15d071efe7ca7bb975489fec2afbd">&#9670;&#160;</a></span>NearestCreatureEntryWithLiveStateInObjectRangeCheck() <span class="overload">[1/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -140,10 +150,22 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">Acore::AnyPlayerExactPositionInGameObjectRangeCheck::AnyPlayerExactPositionInGameObjectRangeCheck </td>
+          <td class="memname">Acore::NearestCreatureEntryWithLiveStateInObjectRangeCheck::NearestCreatureEntryWithLiveStateInObjectRangeCheck </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d9/dae/a08168.html">GameObject</a> const *&#160;</td>
-          <td class="paramname"><em>go</em>, </td>
+          <td class="paramtype"><a class="el" href="../../d1/d2f/a08404.html">WorldObject</a> const &amp;&#160;</td>
+          <td class="paramname"><em>obj</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>entry</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>alive</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
@@ -163,15 +185,16 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1380</span>: <a class="code hl_variable" href="../../da/dda/a09416.html#a70e0b15948cf34a7c759885949560dcd">_go</a>(go), <a class="code hl_variable" href="../../da/dda/a09416.html#ad91342e50833e3b9d75c5e548248941f">_range</a>(range) {}</div>
-<div class="ttc" id="aa09416_html_a70e0b15948cf34a7c759885949560dcd"><div class="ttname"><a href="../../da/dda/a09416.html#a70e0b15948cf34a7c759885949560dcd">Acore::AnyPlayerExactPositionInGameObjectRangeCheck::_go</a></div><div class="ttdeci">GameObject const  * _go</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:1390</div></div>
-<div class="ttc" id="aa09416_html_ad91342e50833e3b9d75c5e548248941f"><div class="ttname"><a href="../../da/dda/a09416.html#ad91342e50833e3b9d75c5e548248941f">Acore::AnyPlayerExactPositionInGameObjectRangeCheck::_range</a></div><div class="ttdeci">float _range</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:1391</div></div>
+<div class="fragment"><div class="line"><span class="lineno"> 1322</span>            : <a class="code hl_variable" href="../../da/dda/a09416.html#aa0340c79c37f3494b01c52f034705aa4">i_obj</a>(obj), <a class="code hl_variable" href="../../da/dda/a09416.html#ae2bf2c0a0f431f5de445fbee26b60a57">i_entry</a>(entry), <a class="code hl_variable" href="../../da/dda/a09416.html#a7a01388f86d25fa0728d94c6e1a7f752">i_alive</a>(alive), <a class="code hl_variable" href="../../da/dda/a09416.html#a695af00612b17e0182ad76a5c3be2356">i_range</a>(range) {}</div>
+<div class="ttc" id="aa09416_html_a695af00612b17e0182ad76a5c3be2356"><div class="ttname"><a href="../../da/dda/a09416.html#a695af00612b17e0182ad76a5c3be2356">Acore::NearestCreatureEntryWithLiveStateInObjectRangeCheck::i_range</a></div><div class="ttdeci">float i_range</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:1337</div></div>
+<div class="ttc" id="aa09416_html_a7a01388f86d25fa0728d94c6e1a7f752"><div class="ttname"><a href="../../da/dda/a09416.html#a7a01388f86d25fa0728d94c6e1a7f752">Acore::NearestCreatureEntryWithLiveStateInObjectRangeCheck::i_alive</a></div><div class="ttdeci">bool i_alive</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:1336</div></div>
+<div class="ttc" id="aa09416_html_aa0340c79c37f3494b01c52f034705aa4"><div class="ttname"><a href="../../da/dda/a09416.html#aa0340c79c37f3494b01c52f034705aa4">Acore::NearestCreatureEntryWithLiveStateInObjectRangeCheck::i_obj</a></div><div class="ttdeci">WorldObject const  &amp; i_obj</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:1334</div></div>
+<div class="ttc" id="aa09416_html_ae2bf2c0a0f431f5de445fbee26b60a57"><div class="ttname"><a href="../../da/dda/a09416.html#ae2bf2c0a0f431f5de445fbee26b60a57">Acore::NearestCreatureEntryWithLiveStateInObjectRangeCheck::i_entry</a></div><div class="ttdeci">uint32 i_entry</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:1335</div></div>
 </div><!-- fragment -->
 </div>
 </div>
-<h2 class="groupheader">Member Function Documentation</h2>
-<a id="a0dd7216a026b7f90b293b2adf20a0191" name="a0dd7216a026b7f90b293b2adf20a0191"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0dd7216a026b7f90b293b2adf20a0191">&#9670;&#160;</a></span>operator()()</h2>
+<a id="a1e25384d08beeee84d83e401f5a5a565" name="a1e25384d08beeee84d83e401f5a5a565"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1e25384d08beeee84d83e401f5a5a565">&#9670;&#160;</a></span>NearestCreatureEntryWithLiveStateInObjectRangeCheck() <span class="overload">[2/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -180,9 +203,36 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">bool Acore::AnyPlayerExactPositionInGameObjectRangeCheck::operator() </td>
+          <td class="memname">Acore::NearestCreatureEntryWithLiveStateInObjectRangeCheck::NearestCreatureEntryWithLiveStateInObjectRangeCheck </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d8/d93/a08612.html">Player</a> *&#160;</td>
+          <td class="paramtype"><a class="el" href="../../da/dda/a09416.html">NearestCreatureEntryWithLiveStateInObjectRangeCheck</a> const &amp;&#160;</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="abc2ab6f33a6a58a6e692cc32e8139839" name="abc2ab6f33a6a58a6e692cc32e8139839"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abc2ab6f33a6a58a6e692cc32e8139839">&#9670;&#160;</a></span>operator()()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool Acore::NearestCreatureEntryWithLiveStateInObjectRangeCheck::operator() </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/dda/a08000.html">Creature</a> *&#160;</td>
           <td class="paramname"><em>u</em></td><td>)</td>
           <td></td>
         </tr>
@@ -193,24 +243,27 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1382</span>        {</div>
-<div class="line"><span class="lineno"> 1383</span>            <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../da/dda/a09416.html#a70e0b15948cf34a7c759885949560dcd">_go</a>-&gt;<a class="code hl_function" href="../../d9/dae/a08168.html#a745a0423be225a755ce40f93a6f0284c">IsInRange</a>(u-&gt;<a class="code hl_function" href="../../db/ddf/a08444.html#ad5577c934d9e845b44759b67c534c3e8">GetPositionX</a>(), u-&gt;<a class="code hl_function" href="../../db/ddf/a08444.html#ae79fc664f6cd027f5d49f6c7df8e4c9e">GetPositionY</a>(), u-&gt;<a class="code hl_function" href="../../db/ddf/a08444.html#a4e813a59345a6275e8b87b96be03e60b">GetPositionZ</a>(), <a class="code hl_variable" href="../../da/dda/a09416.html#ad91342e50833e3b9d75c5e548248941f">_range</a>))</div>
-<div class="line"><span class="lineno"> 1384</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 1385</span> </div>
-<div class="line"><span class="lineno"> 1386</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno"> 1387</span>        }</div>
-<div class="ttc" id="aa08168_html_a745a0423be225a755ce40f93a6f0284c"><div class="ttname"><a href="../../d9/dae/a08168.html#a745a0423be225a755ce40f93a6f0284c">GameObject::IsInRange</a></div><div class="ttdeci">bool IsInRange(float x, float y, float z, float radius) const</div><div class="ttdef"><b>Definition:</b> GameObject.cpp:2143</div></div>
-<div class="ttc" id="aa08444_html_a4e813a59345a6275e8b87b96be03e60b"><div class="ttname"><a href="../../db/ddf/a08444.html#a4e813a59345a6275e8b87b96be03e60b">Position::GetPositionZ</a></div><div class="ttdeci">float GetPositionZ() const</div><div class="ttdef"><b>Definition:</b> Position.h:123</div></div>
-<div class="ttc" id="aa08444_html_ad5577c934d9e845b44759b67c534c3e8"><div class="ttname"><a href="../../db/ddf/a08444.html#ad5577c934d9e845b44759b67c534c3e8">Position::GetPositionX</a></div><div class="ttdeci">float GetPositionX() const</div><div class="ttdef"><b>Definition:</b> Position.h:121</div></div>
-<div class="ttc" id="aa08444_html_ae79fc664f6cd027f5d49f6c7df8e4c9e"><div class="ttname"><a href="../../db/ddf/a08444.html#ae79fc664f6cd027f5d49f6c7df8e4c9e">Position::GetPositionY</a></div><div class="ttdeci">float GetPositionY() const</div><div class="ttdef"><b>Definition:</b> Position.h:122</div></div>
+<div class="fragment"><div class="line"><span class="lineno"> 1325</span>        {</div>
+<div class="line"><span class="lineno"> 1326</span>            <span class="keywordflow">if</span> (u-&gt;<a class="code hl_function" href="../../de/de0/a08368.html#aa627fe2967ed0e0ed1d8aeeb4365a961">GetEntry</a>() == <a class="code hl_variable" href="../../da/dda/a09416.html#ae2bf2c0a0f431f5de445fbee26b60a57">i_entry</a> &amp;&amp; u-&gt;<a class="code hl_function" href="../../d3/dd2/a08756.html#a5ea3f54af571493f7889220724667189">IsAlive</a>() == <a class="code hl_variable" href="../../da/dda/a09416.html#a7a01388f86d25fa0728d94c6e1a7f752">i_alive</a> &amp;&amp; <a class="code hl_variable" href="../../da/dda/a09416.html#aa0340c79c37f3494b01c52f034705aa4">i_obj</a>.<a class="code hl_function" href="../../d1/d2f/a08404.html#a488ffb2c3d4f60c987706f93bc4db611">IsWithinDist</a>(u, <a class="code hl_variable" href="../../da/dda/a09416.html#a695af00612b17e0182ad76a5c3be2356">i_range</a>) &amp;&amp; <a class="code hl_variable" href="../../da/dda/a09416.html#aa0340c79c37f3494b01c52f034705aa4">i_obj</a>.<a class="code hl_function" href="../../d1/d2f/a08404.html#a9194d2edf982e08c6a17e2893d9969f9">InSamePhase</a>(u))</div>
+<div class="line"><span class="lineno"> 1327</span>            {</div>
+<div class="line"><span class="lineno"> 1328</span>                <a class="code hl_variable" href="../../da/dda/a09416.html#a695af00612b17e0182ad76a5c3be2356">i_range</a> = <a class="code hl_variable" href="../../da/dda/a09416.html#aa0340c79c37f3494b01c52f034705aa4">i_obj</a>.<a class="code hl_function" href="../../d1/d2f/a08404.html#acaa0cccbbb9cac74080c8279a571a68c">GetDistance</a>(u);         <span class="comment">// use found unit range as new range limit for next check</span></div>
+<div class="line"><span class="lineno"> 1329</span>                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno"> 1330</span>            }</div>
+<div class="line"><span class="lineno"> 1331</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 1332</span>        }</div>
+<div class="ttc" id="aa08368_html_aa627fe2967ed0e0ed1d8aeeb4365a961"><div class="ttname"><a href="../../de/de0/a08368.html#aa627fe2967ed0e0ed1d8aeeb4365a961">Object::GetEntry</a></div><div class="ttdeci">uint32 GetEntry() const</div><div class="ttdef"><b>Definition:</b> Object.h:116</div></div>
+<div class="ttc" id="aa08404_html_a488ffb2c3d4f60c987706f93bc4db611"><div class="ttname"><a href="../../d1/d2f/a08404.html#a488ffb2c3d4f60c987706f93bc4db611">WorldObject::IsWithinDist</a></div><div class="ttdeci">bool IsWithinDist(WorldObject const *obj, float dist2compare, bool is3D=true, bool useBoundingRadius=true) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:1284</div></div>
+<div class="ttc" id="aa08404_html_a9194d2edf982e08c6a17e2893d9969f9"><div class="ttname"><a href="../../d1/d2f/a08404.html#a9194d2edf982e08c6a17e2893d9969f9">WorldObject::InSamePhase</a></div><div class="ttdeci">bool InSamePhase(WorldObject const *obj) const</div><div class="ttdef"><b>Definition:</b> Object.h:503</div></div>
+<div class="ttc" id="aa08404_html_acaa0cccbbb9cac74080c8279a571a68c"><div class="ttname"><a href="../../d1/d2f/a08404.html#acaa0cccbbb9cac74080c8279a571a68c">WorldObject::GetDistance</a></div><div class="ttdeci">float GetDistance(WorldObject const *obj) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:1213</div></div>
+<div class="ttc" id="aa08756_html_a5ea3f54af571493f7889220724667189"><div class="ttname"><a href="../../d3/dd2/a08756.html#a5ea3f54af571493f7889220724667189">Unit::IsAlive</a></div><div class="ttdeci">bool IsAlive() const</div><div class="ttdef"><b>Definition:</b> Unit.h:1707</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01390">_go</a>, <a class="el" href="../../#l01391">_range</a>, <a class="el" href="../../#l00121">Position::GetPositionX()</a>, <a class="el" href="../../#l00122">Position::GetPositionY()</a>, <a class="el" href="../../#l00123">Position::GetPositionZ()</a>, and <a class="el" href="../../#l02143">GameObject::IsInRange()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01213">WorldObject::GetDistance()</a>, <a class="el" href="../../#l00116">Object::GetEntry()</a>, <a class="el" href="../../#l01336">i_alive</a>, <a class="el" href="../../#l01335">i_entry</a>, <a class="el" href="../../#l01334">i_obj</a>, <a class="el" href="../../#l01337">i_range</a>, <a class="el" href="../../#l00503">WorldObject::InSamePhase()</a>, <a class="el" href="../../#l01707">Unit::IsAlive()</a>, and <a class="el" href="../../#l01284">WorldObject::IsWithinDist()</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a70e0b15948cf34a7c759885949560dcd" name="a70e0b15948cf34a7c759885949560dcd"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a70e0b15948cf34a7c759885949560dcd">&#9670;&#160;</a></span>_go</h2>
+<a id="a7a01388f86d25fa0728d94c6e1a7f752" name="a7a01388f86d25fa0728d94c6e1a7f752"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7a01388f86d25fa0728d94c6e1a7f752">&#9670;&#160;</a></span>i_alive</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -219,7 +272,7 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d9/dae/a08168.html">GameObject</a> const* Acore::AnyPlayerExactPositionInGameObjectRangeCheck::_go</td>
+          <td class="memname">bool Acore::NearestCreatureEntryWithLiveStateInObjectRangeCheck::i_alive</td>
         </tr>
       </table>
   </td>
@@ -229,12 +282,12 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01381">operator()()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01324">operator()()</a>.</p>
 
 </div>
 </div>
-<a id="ad91342e50833e3b9d75c5e548248941f" name="ad91342e50833e3b9d75c5e548248941f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad91342e50833e3b9d75c5e548248941f">&#9670;&#160;</a></span>_range</h2>
+<a id="ae2bf2c0a0f431f5de445fbee26b60a57" name="ae2bf2c0a0f431f5de445fbee26b60a57"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae2bf2c0a0f431f5de445fbee26b60a57">&#9670;&#160;</a></span>i_entry</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -243,7 +296,7 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">float Acore::AnyPlayerExactPositionInGameObjectRangeCheck::_range</td>
+          <td class="memname"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> Acore::NearestCreatureEntryWithLiveStateInObjectRangeCheck::i_entry</td>
         </tr>
       </table>
   </td>
@@ -253,7 +306,55 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01381">operator()()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01324">operator()()</a>.</p>
+
+</div>
+</div>
+<a id="aa0340c79c37f3494b01c52f034705aa4" name="aa0340c79c37f3494b01c52f034705aa4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa0340c79c37f3494b01c52f034705aa4">&#9670;&#160;</a></span>i_obj</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d1/d2f/a08404.html">WorldObject</a> const&amp; Acore::NearestCreatureEntryWithLiveStateInObjectRangeCheck::i_obj</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01324">operator()()</a>.</p>
+
+</div>
+</div>
+<a id="a695af00612b17e0182ad76a5c3be2356" name="a695af00612b17e0182ad76a5c3be2356"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a695af00612b17e0182ad76a5c3be2356">&#9670;&#160;</a></span>i_range</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">float Acore::NearestCreatureEntryWithLiveStateInObjectRangeCheck::i_range</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01324">operator()()</a>.</p>
 
 </div>
 </div>
@@ -262,8 +363,8 @@ Private Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../db/da6/a04782.html">Acore</a></li><li class="navelem"><a class="el" href="../../da/dda/a09416.html">AnyPlayerExactPositionInGameObjectRangeCheck</a></li>
-    <li class="footer">Generated on Mon Aug 18 2025 20:49:19 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d2/d5c/a04788.html">Acore</a></li><li class="navelem"><a class="el" href="../../da/dda/a09416.html">NearestCreatureEntryWithLiveStateInObjectRangeCheck</a></li>
+    <li class="footer">Generated on Mon Aug 25 2025 20:47:35 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

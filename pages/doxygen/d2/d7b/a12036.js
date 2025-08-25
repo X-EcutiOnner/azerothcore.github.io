@@ -1,8 +1,8 @@
 var a12036 =
 [
-    [ "CheckProc", "d2/d7b/a12036.html#a08e84f2b2ff25ed7e260e61251f9cdb9", null ],
-    [ "HandleProc", "d2/d7b/a12036.html#afd3d4786f739566056b69390553d9c71", null ],
-    [ "PrepareAuraScript", "d2/d7b/a12036.html#a3ba84d4fd311a91efa685980ffec8d77", null ],
-    [ "Register", "d2/d7b/a12036.html#aa36a2e10a6fd67fa74d08e20dc806744", null ],
-    [ "Validate", "d2/d7b/a12036.html#aeff8b89300bb5d3589a46a4f66cfd77d", null ]
+    [ "boss_doomrelAI", "dc/d61/a12040.html", "dc/d61/a12040" ],
+    [ "boss_doomrel", "d2/d7b/a12036.html#aee45a59f9a62f1d32a7dc344bd3c46c6", null ],
+    [ "GetAI", "d2/d7b/a12036.html#a1b8a95208506f79c00ed40be2d51eb38", null ],
+    [ "OnGossipHello", "d2/d7b/a12036.html#a3c544ae70c46a62ac7dd2fc5cca97c8b", null ],
+    [ "OnGossipSelect", "d2/d7b/a12036.html#ae430a8fef70bd46267482a70084049c1", null ]
 ];

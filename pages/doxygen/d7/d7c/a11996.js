@@ -1,6 +1,11 @@
 var a11996 =
 [
-    [ "boss_gloomrel", "d7/d7c/a11996.html#ad655acba7b2d88779f849a685bb9fbb7", null ],
-    [ "OnGossipHello", "d7/d7c/a11996.html#a6ce6898142d767a130ec09769f2be488", null ],
-    [ "OnGossipSelect", "d7/d7c/a11996.html#ab7c623cdd2301f3a0a74d6b1e187a8c5", null ]
+    [ "boss_high_interrogator_gerstahnAI", "d7/d7c/a11996.html#a557fda67d1d1de268ba661350ba915dc", null ],
+    [ "JustEngagedWith", "d7/d7c/a11996.html#a80e01faa471f9e83e85c3c47fd815dea", null ],
+    [ "Reset", "d7/d7c/a11996.html#ab63099f83037b3716d1e2b9c21d7d607", null ],
+    [ "UpdateAI", "d7/d7c/a11996.html#a67b34f7cf4c62a57bc9fb556f5fb0b81", null ],
+    [ "ManaBurn_Timer", "d7/d7c/a11996.html#aede307f972942c15c4b2bfa90e75856d", null ],
+    [ "PsychicScream_Timer", "d7/d7c/a11996.html#a291f3484e4d125fefe437d96b12153f1", null ],
+    [ "ShadowShield_Timer", "d7/d7c/a11996.html#a7ba151c46b097825dca9b8e3ac2cdee9", null ],
+    [ "ShadowWordPain_Timer", "d7/d7c/a11996.html#aec0eab93e8494bc1abc87d81460fac31", null ]
 ];

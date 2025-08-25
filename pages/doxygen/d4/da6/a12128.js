@@ -1,6 +1,11 @@
 var a12128 =
 [
-    [ "boss_thebeastAI", "d5/d41/a12132.html", "d5/d41/a12132" ],
-    [ "boss_the_beast", "d4/da6/a12128.html#a131344b5fada63f4a8f0b3692ecba9eb", null ],
-    [ "GetAI", "d4/da6/a12128.html#a0b40497c665c571247cb8ad8b85ac63f", null ]
+    [ "boss_quartermaster_zigris", "d4/da6/a12128.html#a1d2f68327cc9b88fdd82d44ac8446d57", null ],
+    [ "DamageTaken", "d4/da6/a12128.html#a61d7f1c4e5a2901812f1175ccce69ab2", null ],
+    [ "JustDied", "d4/da6/a12128.html#a9295bbcffd7968051a789e8dfb634e23", null ],
+    [ "JustEngagedWith", "d4/da6/a12128.html#af482c06e00e7f6c15b290115998a27a9", null ],
+    [ "Reset", "d4/da6/a12128.html#a71e911bb91b7447e8aed28cdccfda8db", null ],
+    [ "SpellHitTarget", "d4/da6/a12128.html#a38197746cc73ada1378e6e1a5555ef79", null ],
+    [ "UpdateAI", "d4/da6/a12128.html#a400f7ace05cd5c4d127aecf5d771c616", null ],
+    [ "_hasDrunkPotion", "d4/da6/a12128.html#a25335533bc43171687e03f1ed22d4fb3", null ]
 ];

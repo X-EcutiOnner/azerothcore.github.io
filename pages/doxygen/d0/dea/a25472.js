@@ -1,7 +1,6 @@
 var a25472 =
 [
-    [ "FilterTargets", "d0/dea/a25472.html#affede599b86e05e6475fd64a60268e8e", null ],
-    [ "Load", "d0/dea/a25472.html#a1343407ca8b571140ed2ecf5501bf378", null ],
-    [ "PrepareSpellScript", "d0/dea/a25472.html#a12ff05520225209b476b3ba8422de1c6", null ],
-    [ "Register", "d0/dea/a25472.html#ac99786385187e21fb02e65e9b9719400", null ]
+    [ "OnRemove", "d0/dea/a25472.html#ac3a6d7bdc95605e3c73f8115b4a68da0", null ],
+    [ "PrepareAuraScript", "d0/dea/a25472.html#ab1e3a55a35dbbb4bd781ac8c51608e6a", null ],
+    [ "Register", "d0/dea/a25472.html#aecd068248e174c4b676ff9f43dd0856f", null ]
 ];

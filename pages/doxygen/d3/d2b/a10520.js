@@ -1,7 +1,6 @@
 var a10520 =
 [
-    [ "Emote", "d3/d2b/a10520.html#acb1620d125ffb11fe43caf4ebf27d1be", null ],
-    [ "Write", "d3/d2b/a10520.html#a3f5532f40b59f47423d2b4e3749da88e", null ],
-    [ "EmoteID", "d3/d2b/a10520.html#a7f4d3ee4353b408f8c795e6fdc552e76", null ],
-    [ "Guid", "d3/d2b/a10520.html#ab96a1c0933e90872f54eb0995098274a", null ]
+    [ "PlayedTimeClient", "d3/d2b/a10520.html#a1c82d4d153606da9887d64599f319883", null ],
+    [ "Read", "d3/d2b/a10520.html#a0d25fccc9fb4fdaa5ba3bb11851a14f3", null ],
+    [ "TriggerScriptEvent", "d3/d2b/a10520.html#a092b32f76df529a4f1284d7231b8fc6b", null ]
 ];

@@ -1,7 +1,6 @@
 var a10672 =
 [
-    [ "GuildBankActivate", "d6/d3d/a10672.html#a5b27541a26ada694d9635f6d6873ef20", null ],
-    [ "Read", "d6/d3d/a10672.html#a8dbde75aaa3102024aa0ff3a8f3625da", null ],
-    [ "Banker", "d6/d3d/a10672.html#a9b79075c6ee6a4f73ae18c6956eead7c", null ],
-    [ "FullUpdate", "d6/d3d/a10672.html#a50b9a5333e2296e654c90fc6394bdbd3", null ]
+    [ "GuildOfficerRemoveMember", "d6/d3d/a10672.html#acd0f767ff61006c7b3c78f3dbb6da558", null ],
+    [ "Read", "d6/d3d/a10672.html#aa0c3cd629b73cb079cc3cf90bf6f8067", null ],
+    [ "Removee", "d6/d3d/a10672.html#a18ece7d865fa1b5da005c7c03397b4e2", null ]
 ];

@@ -1,7 +1,6 @@
 var a17876 =
 [
-    [ "HandleScript", "df/d0c/a17876.html#afc76149cb44a4d2aab48350fb4392036", null ],
-    [ "PrepareSpellScript", "df/d0c/a17876.html#a8598de219c2402596fe97b5dd32c534e", null ],
-    [ "Register", "df/d0c/a17876.html#ac9d4842632431e52932f66d09042ea70", null ],
-    [ "ScaleRange", "df/d0c/a17876.html#a9bcc80bd2a8df20ac7fc8f2256f519d9", null ]
+    [ "UnboundPlagueTargetSelector", "df/d0c/a17876.html#aedde7e013418bf6ff54cf3d3b8a70206", null ],
+    [ "operator()", "df/d0c/a17876.html#ae5fc2623d4eb0b0a82b3eaa464c92458", null ],
+    [ "_source", "df/d0c/a17876.html#a87eb77615e443ccec373d571708a156a", null ]
 ];

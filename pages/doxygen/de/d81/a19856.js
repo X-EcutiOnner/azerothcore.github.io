@@ -1,6 +1,8 @@
 var a19856 =
 [
-    [ "FilterTargets", "de/d81/a19856.html#a38c693dd3d8fb7e04fc1e26359f12399", null ],
-    [ "PrepareSpellScript", "de/d81/a19856.html#a86c4bb91547d8ea7eebb8e4d7bfd592e", null ],
-    [ "Register", "de/d81/a19856.html#a4e803984a3eded2736825f631786c204", null ]
+    [ "OnPeriodic", "de/d81/a19856.html#a56d101b26b220994aeb035e5fbc1f26e", null ],
+    [ "OnRemove", "de/d81/a19856.html#ac6d961793ddb6423540da9d97e016b82", null ],
+    [ "PrepareAuraScript", "de/d81/a19856.html#a9384a764bf9c48d12e7f62af99897ce4", null ],
+    [ "Register", "de/d81/a19856.html#a69f5474dacdf220ffebe18bd5cf8a32f", null ],
+    [ "Validate", "de/d81/a19856.html#a11d985c5e17c8b3cb34096000fda66ac", null ]
 ];

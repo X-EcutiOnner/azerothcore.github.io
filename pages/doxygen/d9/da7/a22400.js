@@ -1,6 +1,7 @@
 var a22400 =
 [
-    [ "CheckCast", "d9/da7/a22400.html#afde7c1e90f2faa9c587490ce358a59b2", null ],
-    [ "PrepareSpellScript", "d9/da7/a22400.html#a5139e3e9cb1c9079798cefc3cb04d387", null ],
-    [ "Register", "d9/da7/a22400.html#a01225e48eaf2a6dfe13da245725b0a64", null ]
+    [ "npc_wg_quest_giver", "d9/da7/a22400.html#a68589ab4ce9f43247154f3c66d8107b8", null ],
+    [ "GetDialogStatus", "d9/da7/a22400.html#acd5c1462fe51a350c80af4f3ab46bac8", null ],
+    [ "OnGossipHello", "d9/da7/a22400.html#ad08debc749cbaea6fad9b7bcfb5548e0", null ],
+    [ "OnGossipSelect", "d9/da7/a22400.html#a9d42e558d68eee9f0f96ac1f8cd1a409", null ]
 ];

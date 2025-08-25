@@ -1,18 +1,20 @@
 var a03449 =
 [
-    [ "OutdoorPvPSI", "df/d20/a22556.html", "df/d20/a22556" ],
-    [ "OutdoorPvPSISpells", "d7/dc5/a03449.html#a62a8c4b8a007cc2da63e91f039a9b0f5", [
-      [ "SI_SILITHYST_FLAG_GO_SPELL", "d7/dc5/a03449.html#a62a8c4b8a007cc2da63e91f039a9b0f5add71e365726ced6250de08c4c883f055", null ],
-      [ "SI_SILITHYST_FLAG", "d7/dc5/a03449.html#a62a8c4b8a007cc2da63e91f039a9b0f5a1bf0ed27bacc509ec19e1648e1a9ec74", null ],
-      [ "SI_TRACES_OF_SILITHYST", "d7/dc5/a03449.html#a62a8c4b8a007cc2da63e91f039a9b0f5a8f61c4e11367451aa4b95455a9086410", null ],
-      [ "SI_CENARION_FAVOR", "d7/dc5/a03449.html#a62a8c4b8a007cc2da63e91f039a9b0f5a113a47f651228b031a6d40c36d34d2fb", null ]
+    [ "npc_professor_phizzlethorpe", "d0/dff/a13544.html", "d0/dff/a13544" ],
+    [ "npc_professor_phizzlethorpe::npc_professor_phizzlethorpeAI", "de/d38/a13548.html", "de/d38/a13548" ],
+    [ "ProfessorPhizzlethorpe", "d7/dc5/a03449.html#a2fbc348d7cc479e3131e261e4a86f0a1", [
+      [ "SAY_PROGRESS_1", "d7/dc5/a03449.html#a2fbc348d7cc479e3131e261e4a86f0a1ac7ef023ed2cd6e71dcfa4b57f34ffb21", null ],
+      [ "SAY_PROGRESS_2", "d7/dc5/a03449.html#a2fbc348d7cc479e3131e261e4a86f0a1a967473f354dae95832b5e82733f4cced", null ],
+      [ "SAY_PROGRESS_3", "d7/dc5/a03449.html#a2fbc348d7cc479e3131e261e4a86f0a1a25cbd1006b2e610756fbd3227fb87dcc", null ],
+      [ "EMOTE_PROGRESS_4", "d7/dc5/a03449.html#a2fbc348d7cc479e3131e261e4a86f0a1a35c4fc6952e57458ffc3e74698dd2769", null ],
+      [ "SAY_AGGRO", "d7/dc5/a03449.html#a2fbc348d7cc479e3131e261e4a86f0a1a47c752fff069f3e55065795eef2a9bfe", null ],
+      [ "SAY_PROGRESS_5", "d7/dc5/a03449.html#a2fbc348d7cc479e3131e261e4a86f0a1aeee7fea4c8b3b6d3b0732bcde69433f3", null ],
+      [ "SAY_PROGRESS_6", "d7/dc5/a03449.html#a2fbc348d7cc479e3131e261e4a86f0a1a36a5f74e6995b5cd9d8df351e57bfa84", null ],
+      [ "SAY_PROGRESS_7", "d7/dc5/a03449.html#a2fbc348d7cc479e3131e261e4a86f0a1a9e815bbd308d3234b2feecf6dcd4e4cd", null ],
+      [ "EMOTE_PROGRESS_8", "d7/dc5/a03449.html#a2fbc348d7cc479e3131e261e4a86f0a1a09177823914cf4cba524cd102c309c4e", null ],
+      [ "SAY_PROGRESS_9", "d7/dc5/a03449.html#a2fbc348d7cc479e3131e261e4a86f0a1a0d013e69b765c1cc9024427c5967dbdf", null ],
+      [ "QUEST_SUNKEN_TREASURE", "d7/dc5/a03449.html#a2fbc348d7cc479e3131e261e4a86f0a1a70619c446edf1e13b81824e234d2c7f3", null ],
+      [ "NPC_VENGEFUL_SURGE", "d7/dc5/a03449.html#a2fbc348d7cc479e3131e261e4a86f0a1aa30485aedeea21658a4aa93a8f361873", null ]
     ] ],
-    [ "OutdoorPvPSIBuffZones", "d7/dc5/a03449.html#a155bfb73bcc562d8eaaa4d62d52e59bc", null ],
-    [ "OutdoorPvPSIBuffZonesNum", "d7/dc5/a03449.html#aaf633cff2fc1b3449acb7753f698c4d4", null ],
-    [ "SI_AREATRIGGER_A", "d7/dc5/a03449.html#aca1406dea9e721dc32c834e8b85b2d9a", null ],
-    [ "SI_AREATRIGGER_H", "d7/dc5/a03449.html#abb17804eb9913c298a5dae804e1c7206", null ],
-    [ "SI_MAX_RESOURCES", "d7/dc5/a03449.html#a9558d0ea12ff1048686daf5bf0ff999c", null ],
-    [ "SI_SILITHYST_MOUND", "d7/dc5/a03449.html#a5a6a1265e5e65971f8d86be718ea3bb3", null ],
-    [ "SI_TURNIN_QUEST_CM_A", "d7/dc5/a03449.html#a18c47c74867642b4bd8cc166d9fe1e79", null ],
-    [ "SI_TURNIN_QUEST_CM_H", "d7/dc5/a03449.html#ad1787da9136bc956357571149e1f6b60", null ]
+    [ "AddSC_arathi_highlands", "d7/dc5/a03449.html#a1e4a782474f0928dbacdf32c0ba395fd", null ]
 ];

@@ -1,32 +1,42 @@
 var a02780 =
 [
-    [ "npc_muglash", "d6/d74/a15296.html", "d6/d74/a15296" ],
-    [ "npc_muglash::npc_muglashAI", "de/d54/a15300.html", "de/d54/a15300" ],
-    [ "Muglash", "df/de4/a02780.html#a61aa1bf847260f3b69320f14a98eb057", [
-      [ "SAY_MUG_START1", "df/de4/a02780.html#a61aa1bf847260f3b69320f14a98eb057a8f1263c089dd81c8bfe0e50dd08dbc3e", null ],
-      [ "SAY_MUG_START2", "df/de4/a02780.html#a61aa1bf847260f3b69320f14a98eb057aa6ecd378ab24d862f8be4be085be2ac1", null ],
-      [ "SAY_MUG_BRAZIER", "df/de4/a02780.html#a61aa1bf847260f3b69320f14a98eb057aa75eb8f63b1e11239c3e7692821201a5", null ],
-      [ "SAY_MUG_BRAZIER_WAIT", "df/de4/a02780.html#a61aa1bf847260f3b69320f14a98eb057afc6a19f6790fbcaf0a7e0ea5e61e269a", null ],
-      [ "SAY_MUG_ON_GUARD", "df/de4/a02780.html#a61aa1bf847260f3b69320f14a98eb057ad1908a7f2392471a96c8a4e2667812b8", null ],
-      [ "SAY_MUG_REST", "df/de4/a02780.html#a61aa1bf847260f3b69320f14a98eb057acd07a7572fede15eb4c95479b05525ce", null ],
-      [ "SAY_MUG_DONE", "df/de4/a02780.html#a61aa1bf847260f3b69320f14a98eb057aed6fe5718e188a37d7504397b80d2d1b", null ],
-      [ "SAY_MUG_GRATITUDE", "df/de4/a02780.html#a61aa1bf847260f3b69320f14a98eb057ab4abdfdeeb30fa160aa35ae49a25ef63", null ],
-      [ "SAY_MUG_PATROL", "df/de4/a02780.html#a61aa1bf847260f3b69320f14a98eb057a6d2374968adcf8d86491777fc2307c10", null ],
-      [ "SAY_MUG_RETURN", "df/de4/a02780.html#a61aa1bf847260f3b69320f14a98eb057a513450df3bcff9f9b4909822f155d70d", null ],
-      [ "QUEST_VORSHA", "df/de4/a02780.html#a61aa1bf847260f3b69320f14a98eb057ab7c8b31c047de9d4412c596681ff61e0", null ],
-      [ "GO_NAGA_BRAZIER", "df/de4/a02780.html#a61aa1bf847260f3b69320f14a98eb057a09fae02b8c393729769fda6c507d80ab", null ],
-      [ "NPC_WRATH_RIDER", "df/de4/a02780.html#a61aa1bf847260f3b69320f14a98eb057a776d3cf4369298d5e3f3c55c57d801c4", null ],
-      [ "NPC_WRATH_SORCERESS", "df/de4/a02780.html#a61aa1bf847260f3b69320f14a98eb057a28edd059b13bec6dd1f8092d648fb5ff", null ],
-      [ "NPC_WRATH_RAZORTAIL", "df/de4/a02780.html#a61aa1bf847260f3b69320f14a98eb057a9834947da78f9cbb0c1566379757a203", null ],
-      [ "NPC_WRATH_PRIESTESS", "df/de4/a02780.html#a61aa1bf847260f3b69320f14a98eb057ae8f0e387b20dcfe4a4c0b3cf93196d8a", null ],
-      [ "NPC_WRATH_MYRMIDON", "df/de4/a02780.html#a61aa1bf847260f3b69320f14a98eb057ac97e09870c98309d157f3b8243ea0a46", null ],
-      [ "NPC_WRATH_SEAWITCH", "df/de4/a02780.html#a61aa1bf847260f3b69320f14a98eb057a28087f57cf60fb8024089f4fa9bd2494", null ],
-      [ "NPC_VORSHA", "df/de4/a02780.html#a61aa1bf847260f3b69320f14a98eb057ab963d604f08a6fd8540d9711cfb91964", null ],
-      [ "NPC_MUGLASH", "df/de4/a02780.html#a61aa1bf847260f3b69320f14a98eb057af96a3875f2bb850fcf7901fd8c6e3af7", null ],
-      [ "ACTION_EXTINGUISH_BLAZIER", "df/de4/a02780.html#a61aa1bf847260f3b69320f14a98eb057a591d41376c012165076387e91c32d4d9", null ]
+    [ "DataHeader", "df/de4/a02780.html#a042491ef36459046f3866e90f15aae0d", null ],
+    [ "ZFScriptName", "df/de4/a02780.html#a8c843043d60c28e6ccd7efb1a75ec86e", null ],
+    [ "ZFPyramidPhases", "df/de4/a02780.html#a8774900db93cf3aa38b2e231417d6cc3", [
+      [ "PYRAMID_NOT_STARTED", "df/de4/a02780.html#a8774900db93cf3aa38b2e231417d6cc3a434ccee53d43aeb68a61adc7afc70e71", null ],
+      [ "PYRAMID_CAGES_OPEN", "df/de4/a02780.html#a8774900db93cf3aa38b2e231417d6cc3a733f4b4c341a7c12cea4da96f394e238", null ],
+      [ "PYRAMID_ARRIVED_AT_STAIR", "df/de4/a02780.html#a8774900db93cf3aa38b2e231417d6cc3a44fbc93058f64b77b519778b73835095", null ],
+      [ "PYRAMID_WAVE_1", "df/de4/a02780.html#a8774900db93cf3aa38b2e231417d6cc3ad6fc2894f46a7f845ccb16b02492416d", null ],
+      [ "PYRAMID_PRE_WAVE_2", "df/de4/a02780.html#a8774900db93cf3aa38b2e231417d6cc3a83ddd4a830b4529356e379753ef0a6b0", null ],
+      [ "PYRAMID_WAVE_2", "df/de4/a02780.html#a8774900db93cf3aa38b2e231417d6cc3a0fea1a14ce0b618b7b407cb0ebef5257", null ],
+      [ "PYRAMID_PRE_WAVE_3", "df/de4/a02780.html#a8774900db93cf3aa38b2e231417d6cc3aeca14c0e13407ddbc852a23a75f9e297", null ],
+      [ "PYRAMID_WAVE_3", "df/de4/a02780.html#a8774900db93cf3aa38b2e231417d6cc3aa3061b90909a10cdcf2445a1bee4ddce", null ],
+      [ "PYRAMID_KILLED_ALL_TROLLS", "df/de4/a02780.html#a8774900db93cf3aa38b2e231417d6cc3aa18216a575ced9cd802aef44ec6a5b55", null ],
+      [ "PYRAMID_MOVED_DOWNSTAIRS", "df/de4/a02780.html#a8774900db93cf3aa38b2e231417d6cc3af4a5d3d2602c5283c9a3e987e6eb7cf4", null ],
+      [ "PYRAMID_DESTROY_GATES", "df/de4/a02780.html#a8774900db93cf3aa38b2e231417d6cc3a26d165b4ebf0c18fbab9c99700d40301", null ],
+      [ "PYRAMID_GATES_DESTROYED", "df/de4/a02780.html#a8774900db93cf3aa38b2e231417d6cc3ad3ca6408f8a6f8dacff9c606641f3682", null ],
+      [ "PYRAMID_DONE", "df/de4/a02780.html#a8774900db93cf3aa38b2e231417d6cc3ab8014318ae3d1f73e7e31fa340a12021", null ]
     ] ],
-    [ "AddSC_ashenvale", "df/de4/a02780.html#a5bc25863ec332eb1c8498f84556810c2", null ],
-    [ "FirstNagaCoord", "df/de4/a02780.html#a44aaebd71b577ea90de1a8b853f557ed", null ],
-    [ "SecondNagaCoord", "df/de4/a02780.html#a2381a800b34807e7f0d47d7b60feb025", null ],
-    [ "VorshaCoord", "df/de4/a02780.html#ab15d952fc1bf94911661206ead25b5b1", null ]
+    [ "ZulFarrakCreatures", "df/de4/a02780.html#ab6a75cae3d5218b7c02408d5c4fb4b81", [
+      [ "NPC_SANDFURY_CRETIN", "df/de4/a02780.html#ab6a75cae3d5218b7c02408d5c4fb4b81abc17ce4a19f84d1f43027e038ce1b376", null ],
+      [ "NPC_SANDFURY_SLAVE", "df/de4/a02780.html#ab6a75cae3d5218b7c02408d5c4fb4b81a6c5f3121c15864497a7fd4445e508d9b", null ],
+      [ "NPC_SANDFURY_ACOLYTE", "df/de4/a02780.html#ab6a75cae3d5218b7c02408d5c4fb4b81ad994cdb727fce1b96ee059a3f7d40ab8", null ],
+      [ "NPC_SANDFURY_DRUDGE", "df/de4/a02780.html#ab6a75cae3d5218b7c02408d5c4fb4b81a3b6291c9a6afbd297befe20651cce18a", null ],
+      [ "NPC_SANDFURY_ZEALOT", "df/de4/a02780.html#ab6a75cae3d5218b7c02408d5c4fb4b81aebf682fdf490a79a7c57fa612e9f197d", null ],
+      [ "NPC_SHADOWPRIEST_SEZZZIZ", "df/de4/a02780.html#ab6a75cae3d5218b7c02408d5c4fb4b81a6e6e1f1c3cccf7fad5f37b40eb4d72c7", null ],
+      [ "NPC_NEKRUM_GUTCHEWER", "df/de4/a02780.html#ab6a75cae3d5218b7c02408d5c4fb4b81ac67a7fd5df9d4f39a21fcd4b485ed031", null ],
+      [ "NPC_BLY", "df/de4/a02780.html#ab6a75cae3d5218b7c02408d5c4fb4b81aeeeaf82fbf41331373955f22de91c48d", null ],
+      [ "NPC_RAVEN", "df/de4/a02780.html#ab6a75cae3d5218b7c02408d5c4fb4b81af7eec9c0500aedfefe9bbbbaeb5d73b8", null ],
+      [ "NPC_ORO", "df/de4/a02780.html#ab6a75cae3d5218b7c02408d5c4fb4b81add85ada339b5a0d2a412756a1032799b", null ],
+      [ "NPC_WEEGLI", "df/de4/a02780.html#ab6a75cae3d5218b7c02408d5c4fb4b81a3a660c0cbddbbd8650c9632e52d7b178", null ],
+      [ "NPC_MURTA", "df/de4/a02780.html#ab6a75cae3d5218b7c02408d5c4fb4b81ae2ffa4447246d4d51f2339edf2164b7a", null ]
+    ] ],
+    [ "ZulFarrakData", "df/de4/a02780.html#a66cc3be5310a2efbacb38d2398d8af24", [
+      [ "DATA_PYRAMID", "df/de4/a02780.html#a66cc3be5310a2efbacb38d2398d8af24ab1d90dc5c239d55044f1bed8e5e823e3", null ],
+      [ "DATA_GAHZRILLA", "df/de4/a02780.html#a66cc3be5310a2efbacb38d2398d8af24a023919c11385e898d643499efd09c167", null ]
+    ] ],
+    [ "ZulFarrakGameobjects", "df/de4/a02780.html#a83f1d34de34a6a1e990edbfb47a2f78e", [
+      [ "GO_END_DOOR", "df/de4/a02780.html#a83f1d34de34a6a1e990edbfb47a2f78ea279b9f40e76d0da56ef7eca0a2578319", null ]
+    ] ],
+    [ "GetZulFarrakAI", "df/de4/a02780.html#afc0f10884b3d0ad6a6e73e3767fa3538", null ]
 ];

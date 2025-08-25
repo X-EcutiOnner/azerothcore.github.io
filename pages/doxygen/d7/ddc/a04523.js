@@ -1,4 +1,4 @@
 var a04523 =
 [
-    [ "ProducerConsumerQueue< T >", "da/de3/a05388.html", "da/de3/a05388" ]
+    [ "Acore::Crypto::Argon2", "d9/dab/a05164.html", "d9/dab/a05164" ]
 ];

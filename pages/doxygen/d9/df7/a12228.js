@@ -1,6 +1,6 @@
 var a12228 =
 [
-    [ "go_chromaggus_leverAI", "d0/dae/a12232.html", "d0/dae/a12232" ],
-    [ "go_chromaggus_lever", "d9/df7/a12228.html#a88f8078cd5aa1863ca20c9b02a0e52d2", null ],
-    [ "GetAI", "d9/df7/a12228.html#ae307b36029147b8385b3c40878d1a3e4", null ]
+    [ "npc_vaelastrasz_the_redAI", "d0/dae/a12232.html", "d0/dae/a12232" ],
+    [ "npc_vaelastrasz_the_red", "d9/df7/a12228.html#af39fcaa29b200e3b7933f97de277df6b", null ],
+    [ "GetAI", "d9/df7/a12228.html#a59e7630d5060986dc4209d2d2b5ef42b", null ]
 ];

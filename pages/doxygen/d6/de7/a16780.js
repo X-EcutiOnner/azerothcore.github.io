@@ -1,7 +1,6 @@
 var a16780 =
 [
-    [ "HandlePeriodicTick", "d6/de7/a16780.html#a7fa0334a0a33b15758b6362aa0a9bd7d", null ],
-    [ "PrepareAuraScript", "d6/de7/a16780.html#aabaef31a3c699c322e24e064f357f82f", null ],
-    [ "Register", "d6/de7/a16780.html#ae9602bc623422c124dfc37a18c0dbfec", null ],
-    [ "Validate", "d6/de7/a16780.html#a18d92a82760992bc5d8503e3f774f208", null ]
+    [ "instance_drak_tharon_keep_InstanceScript", "d6/d6f/a16784.html", "d6/d6f/a16784" ],
+    [ "instance_drak_tharon_keep", "d6/de7/a16780.html#a1f375185dba1619fee36160549eb91f4", null ],
+    [ "GetInstanceScript", "d6/de7/a16780.html#aca6364452dc39e747af152695d479bf8", null ]
 ];

@@ -1,7 +1,7 @@
 var a13460 =
 [
-    [ "HandleAfterCast", "da/d6b/a13460.html#a251ddadd9d26039da542c402e4ee254f", null ],
-    [ "PrepareSpellScript", "da/d6b/a13460.html#a91114aeb4f917ec5138a0c7b20688174", null ],
-    [ "Register", "da/d6b/a13460.html#a42960206e2444d8e6fb8fdc4d80a534b", null ],
-    [ "Validate", "da/d6b/a13460.html#ad4012436a41537fc5ae854c0c48f09b1", null ]
+    [ "npc_singularity", "da/d6b/a13460.html#a4ed61ec65ed94d8d5e42ae7ff9ecd41d", null ],
+    [ "FindAndFollowTarget", "da/d6b/a13460.html#a76c21129756dec05f6f2d88cebe948c5", null ],
+    [ "Reset", "da/d6b/a13460.html#ae81c2e5865beb00df8683fa0fb6e7872", null ],
+    [ "UpdateAI", "da/d6b/a13460.html#ad019d234ca9ee719612d59e5bb0b53ea", null ]
 ];

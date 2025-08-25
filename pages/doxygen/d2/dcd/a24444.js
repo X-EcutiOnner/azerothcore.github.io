@@ -1,5 +1,8 @@
 var a24444 =
 [
-    [ "npc_pet_pri_lightwell", "d2/dcd/a24444.html#aebeb192e66c7d5b4201cbaa81d46703c", null ],
-    [ "InitializeAI", "d2/dcd/a24444.html#a5244bcfab27ccad603f80c6f2b2fcd3a", null ]
+    [ "npc_pet_gen_wind_rider_cub", "d2/dcd/a24444.html#a17e1f3155b9a9864459e48d1cd11c6a6", null ],
+    [ "UpdateAI", "d2/dcd/a24444.html#a534d122522d553e106e6c7729d6c55db", null ],
+    [ "checkTimer", "d2/dcd/a24444.html#a39fcfc5f5d9a630180713512db778b32", null ],
+    [ "checkTimer2", "d2/dcd/a24444.html#aabeaf7a9b5b77df540e1111950860e98", null ],
+    [ "isFlying", "d2/dcd/a24444.html#a57124f8172bd15a5e6c708edff41dc2f", null ]
 ];

@@ -1,6 +1,6 @@
 var a16872 =
 [
-    [ "npc_phantom_mageAI", "d5/d9b/a16876.html", "d5/d9b/a16876" ],
-    [ "npc_phantom_mage", "d6/d86/a16872.html#ad57414231c40917bf55d6155fa9c05db", null ],
-    [ "GetAI", "d6/d86/a16872.html#ae2134b8be3052da659390bde7c2aac2e", null ]
+    [ "boss_falricAI", "d5/d9b/a16876.html", "d5/d9b/a16876" ],
+    [ "boss_falric", "d6/d86/a16872.html#aa64253f502f79db5947c09788fb66deb", null ],
+    [ "GetAI", "d6/d86/a16872.html#a95249877208d19bb54edd8de18616158", null ]
 ];

@@ -1,8 +1,10 @@
 var a08564 =
 [
-    [ "BaseRune", "de/d41/a08564.html#ad5a4b3afd246f5a4c071e3c4f350f132", null ],
-    [ "ConvertAura", "de/d41/a08564.html#a41c55cb4c1b3f69c6a424359f60e34e1", null ],
-    [ "Cooldown", "de/d41/a08564.html#a8eeb0f5208c29d43ab493a22f73eb0a6", null ],
-    [ "CurrentRune", "de/d41/a08564.html#a2cebb551231f0364a1751e5d1a37fcda", null ],
-    [ "GracePeriod", "de/d41/a08564.html#a3fa13f205dbaaca5bdcc7406f73b4e6a", null ]
+    [ "DuelInfo", "de/d41/a08564.html#a183f336e52fe7cdaa34dbb43991d0c39", null ],
+    [ "Initiator", "de/d41/a08564.html#ae1a6667f934c88ad8f0b160e6a8b1190", null ],
+    [ "IsMounted", "de/d41/a08564.html#ad80e3507a7bdfc8f7dbebd07697c464f", null ],
+    [ "Opponent", "de/d41/a08564.html#a2765770367c839ad28f804e2df3205cb", null ],
+    [ "OutOfBoundsTime", "de/d41/a08564.html#a8ff9ae1c990674b6ac0cd929f5114f23", null ],
+    [ "StartTime", "de/d41/a08564.html#a1b8b4c373b2e4243f8e33a391821528f", null ],
+    [ "State", "de/d41/a08564.html#ae8492a9857d819fcec56a10cfd5051e2", null ]
 ];

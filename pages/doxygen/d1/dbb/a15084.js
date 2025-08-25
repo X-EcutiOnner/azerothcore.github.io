@@ -1,5 +1,6 @@
 var a15084 =
 [
-    [ "boss_vem", "d1/dbb/a15084.html#a8e303ece8ba209c6dea0ed6c888077d3", null ],
-    [ "JustEngagedWith", "d1/dbb/a15084.html#ae4b7fa599d31155bdee566b31c60b237", null ]
+    [ "HandleDamageCalc", "d1/dbb/a15084.html#a03eb92eff300872cd5fca452a99375ab", null ],
+    [ "PrepareSpellScript", "d1/dbb/a15084.html#ac07421b62bb6044dad89431839a70bd8", null ],
+    [ "Register", "d1/dbb/a15084.html#a70cbf764ab475e2358fa6630798cab9d", null ]
 ];

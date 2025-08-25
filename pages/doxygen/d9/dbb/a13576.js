@@ -1,7 +1,21 @@
 var a13576 =
 [
-    [ "npc_ranger_lilatha", "d9/dbb/a13576.html#abd13a89b41a289edefb9bc21588f8d29", null ],
-    [ "Reset", "d9/dbb/a13576.html#a3e804e483b51961193ee1079caba40be", null ],
-    [ "sQuestAccept", "d9/dbb/a13576.html#acc38d4feacb5e7fa5ce9658b10447c4d", null ],
-    [ "WaypointReached", "d9/dbb/a13576.html#a193bd47c7d7c4fb3d832a59bf55e8412", null ]
+    [ "npc_eris_hevenfireAI", "d9/dbb/a13576.html#a07d91015d64f5d6ac5b78a6082e0280d", null ],
+    [ "CanBeSeen", "d9/dbb/a13576.html#a16293cab0ff15d13675dcadc3050365f", null ],
+    [ "DoAction", "d9/dbb/a13576.html#a982f2efef39ac47d2df6579676b25862", null ],
+    [ "JustSummoned", "d9/dbb/a13576.html#a21f91de064bec6943aae5d710e6ec485", null ],
+    [ "Reset", "d9/dbb/a13576.html#a0b328182914ca26786808b6fd2491619", null ],
+    [ "SetData", "d9/dbb/a13576.html#a8c012a9c083921770980fb8c037d6ccc", null ],
+    [ "SetGUID", "d9/dbb/a13576.html#ac637ff6ea69427f8120be1cf5bf353e3", null ],
+    [ "SummonArchers", "d9/dbb/a13576.html#aa415baa9bff7c93c57f327b661689ac3", null ],
+    [ "SummonPeasants", "d9/dbb/a13576.html#ab5a69679bad85ed42b2f408231781da9", null ],
+    [ "UpdateAI", "d9/dbb/a13576.html#a3f3da888c1076f4f728157f7ba9edf1c", null ],
+    [ "_counter", "d9/dbb/a13576.html#aa5f1374bbf98a613db266994b6640031", null ],
+    [ "_deathCount", "d9/dbb/a13576.html#a258d870137c02dd74ff23b94cb3f90d1", null ],
+    [ "_faction", "d9/dbb/a13576.html#a2b11d54ff39f568cf26845251a38a612", null ],
+    [ "_playerGUID", "d9/dbb/a13576.html#a8ba92ce2b32b70e1275f551871d640fe", null ],
+    [ "_savedCount", "d9/dbb/a13576.html#aef83dfb3c6c737af77b63b650fdf5749", null ],
+    [ "_spoken", "d9/dbb/a13576.html#abe9dbd5111b73ac6c7bf336da98d06d1", null ],
+    [ "events", "d9/dbb/a13576.html#a62dee89eca10f43af3051800e4a69c74", null ],
+    [ "summons", "d9/dbb/a13576.html#a8d30f6f513ee7e195dbef56071f136fc", null ]
 ];

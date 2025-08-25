@@ -1,7 +1,6 @@
 var a15648 =
 [
-    [ "npc_giltharesAI", "db/d71/a15648.html#af22e42b2180987febd964784b6d49b5e", null ],
-    [ "JustEngagedWith", "db/d71/a15648.html#ae9ba65652db3d2d32920d1a98594727a", null ],
-    [ "Reset", "db/d71/a15648.html#a34d57ef71b60fe71c749f790cecf70b2", null ],
-    [ "WaypointReached", "db/d71/a15648.html#a9308c73760e50e0f3d04031b508526d1", null ]
+    [ "npc_aquementasAI", "de/dbd/a15652.html", "de/dbd/a15652" ],
+    [ "npc_aquementas", "db/d71/a15648.html#a81d0b010c2aef0ea329ff7656b76cbe5", null ],
+    [ "GetAI", "db/d71/a15648.html#a8a071b3073d69306feb84aca347a22c8", null ]
 ];

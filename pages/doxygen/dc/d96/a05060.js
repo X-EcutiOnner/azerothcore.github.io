@@ -1,28 +1,7 @@
 var a05060 =
 [
-    [ "GameObjectModel", "dc/d96/a05060.html#aec1b2fdef131624210451e7cee7182ff", null ],
-    [ "~GameObjectModel", "dc/d96/a05060.html#a9473e6c816f412408c2f46e407fba6ca", null ],
-    [ "Create", "dc/d96/a05060.html#ac47c77a56730f93ed14f131f34891f84", null ],
-    [ "disable", "dc/d96/a05060.html#a09d7c38bf6b01fb8f743dbf7130df396", null ],
-    [ "enable", "dc/d96/a05060.html#ac8ebd1a33e4127b9a0805701152ba0a2", null ],
-    [ "GetBounds", "dc/d96/a05060.html#abcb428aaea61d38a171d9a4fda578cb6", null ],
-    [ "GetLiquidLevel", "dc/d96/a05060.html#ad42269f6042c3aad8492d22d88e08edd", null ],
-    [ "GetLocationInfo", "dc/d96/a05060.html#a391fd8d204b9b1039ef8cc42fa90019a", null ],
-    [ "GetPosition", "dc/d96/a05060.html#a7b3023f2db0d728e5004c8b8828a2a98", null ],
-    [ "initialize", "dc/d96/a05060.html#affb481343e6c849a3d133598749e0e70", null ],
-    [ "IntersectPoint", "dc/d96/a05060.html#a1db30d8d79018c11237b60f447ab9d0c", null ],
-    [ "intersectRay", "dc/d96/a05060.html#af99a6abe2b04df64590b8923cc72ed4e", null ],
-    [ "isEnabled", "dc/d96/a05060.html#a77b0c074ae20733d663fdf73169c343d", null ],
-    [ "IsMapObject", "dc/d96/a05060.html#af7d489ccfe12858633b24582be39ba63", null ],
-    [ "UpdatePosition", "dc/d96/a05060.html#aa1c78a367e3706ac82f30b34ff100667", null ],
-    [ "iBound", "dc/d96/a05060.html#ab8c4c51baf86d39e230ab8b8793658a3", null ],
-    [ "iInvRot", "dc/d96/a05060.html#a8c9f3297a5779831d7ba9251f79eb2f0", null ],
-    [ "iInvScale", "dc/d96/a05060.html#af41878cd24e4208de2630f5a91d001e3", null ],
-    [ "iModel", "dc/d96/a05060.html#a8d57c07682f5fecfa8160d47197044eb", null ],
-    [ "iPos", "dc/d96/a05060.html#a6c290e3dbcfb5eab05771f4da5e717b0", null ],
-    [ "iScale", "dc/d96/a05060.html#abbde1836561761b858f08b436edb3b53", null ],
-    [ "isWmo", "dc/d96/a05060.html#a83c4f6f0c45910fb6b86288bb809e787", null ],
-    [ "name", "dc/d96/a05060.html#ab20fa753c8967a4074798d6ded4f5925", null ],
-    [ "owner", "dc/d96/a05060.html#af1b565e8ee52c9c19d6f945bfb06b889", null ],
-    [ "phasemask", "dc/d96/a05060.html#ae33268fbdd1324f72895154e155e8345", null ]
+    [ "GameobjectModelData", "dc/d96/a05060.html#a7d259df5a5541f95e0f548674d023fc8", null ],
+    [ "bound", "dc/d96/a05060.html#ab133a32c9eefff0a35acaa4e157a3f05", null ],
+    [ "isWmo", "dc/d96/a05060.html#ac51305f0d800ff993e9a9cba2ccb6939", null ],
+    [ "name", "dc/d96/a05060.html#ac8a053b6f01a9917ee6b1fc2a738bb4e", null ]
 ];

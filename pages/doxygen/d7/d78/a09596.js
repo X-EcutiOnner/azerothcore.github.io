@@ -1,9 +1,9 @@
 var a09596 =
 [
-    [ "BroadcastTextID", "d7/d78/a09596.html#a756f24dbee852a7fbe152c0cb082c412", null ],
-    [ "Emotes", "d7/d78/a09596.html#a0f67a651fdb3f3217279015c9e3fb292", null ],
-    [ "Language", "d7/d78/a09596.html#a33bc5a0c156918b00380710aeb275d3d", null ],
-    [ "Probability", "d7/d78/a09596.html#a5c743df7a7ad634c5b3f3376547fda00", null ],
-    [ "Text_0", "d7/d78/a09596.html#a046d637b91807db067c6e7050184322d", null ],
-    [ "Text_1", "d7/d78/a09596.html#a8d64d7b8fcdbd995cc11e22adde8c0de", null ]
+    [ "EmoteChatBuilder", "d7/d78/a09596.html#ae1aeb36aad24d5ef28074edfbf2f9e7e", null ],
+    [ "operator()", "d7/d78/a09596.html#a133a7bb35e86cf40425910c4f19a3337", null ],
+    [ "i_emote_num", "d7/d78/a09596.html#a966b8afcbf5afca3a3466d8e075a9437", null ],
+    [ "i_player", "d7/d78/a09596.html#ae09dbfe01b2a24e57b63b2b1df5ad232", null ],
+    [ "i_target", "d7/d78/a09596.html#abc538e056d91ea1ee8d6203c96174b1d", null ],
+    [ "i_text_emote", "d7/d78/a09596.html#add0630dc3fc76fb4fdb79095e13b2fc0", null ]
 ];

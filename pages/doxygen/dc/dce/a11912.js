@@ -1,11 +1,7 @@
 var a11912 =
 [
-    [ "boss_draganthaurissanAI", "dc/dce/a11912.html#a2ecd55ed9e7e48829cb85862e965b7d8", null ],
-    [ "JustDied", "dc/dce/a11912.html#a7a7d4737c4825cfabc1012f9cce0e38a", null ],
-    [ "JustEngagedWith", "dc/dce/a11912.html#a00604bed2c13a7b470d950059122f018", null ],
-    [ "KilledUnit", "dc/dce/a11912.html#acec58686917d6e5aff9a51a96b023174", null ],
-    [ "SetData", "dc/dce/a11912.html#aaa43aa340f946f3b8361f2bb7b29ef40", null ],
-    [ "UpdateAI", "dc/dce/a11912.html#a04eaea53b78d490373f9bb911cc92596", null ],
-    [ "hasYelled", "dc/dce/a11912.html#aef5ede4f444e85fafd30faab6043672b", null ],
-    [ "SenatorYells", "dc/dce/a11912.html#ab4b27bf33b58b44ac604ca6bf6b5e424", null ]
+    [ "npc_rocknotAI", "df/d77/a11916.html", "df/d77/a11916" ],
+    [ "npc_rocknot", "dc/dce/a11912.html#a64a0cd215c1f4881948e5a49cf1b86d7", null ],
+    [ "GetAI", "dc/dce/a11912.html#ac8a90d54e9303c40f0313fda1dcfea86", null ],
+    [ "OnQuestReward", "dc/dce/a11912.html#abd8ad3d7e6dd1e557398e268409a2c98", null ]
 ];

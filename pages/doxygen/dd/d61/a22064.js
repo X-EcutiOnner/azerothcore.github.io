@@ -1,8 +1,9 @@
 var a22064 =
 [
-    [ "npc_llod_genericAI", "dd/d61/a22064.html#ac75d85ae4b59416952788102cd1db132", null ],
-    [ "Reset", "dd/d61/a22064.html#a15bd7442fef36a551cc8797f7919f57c", null ],
-    [ "UpdateAI", "dd/d61/a22064.html#aa7dce553fb699127f63281b2c47a2f02", null ],
-    [ "attackTimer", "dd/d61/a22064.html#a28a6e700d24995e477e7e7c4cc8b5d68", null ],
-    [ "summonTimer", "dd/d61/a22064.html#aeeeef545aee565c14d86d8587923c677", null ]
+    [ "npc_Apothecary_HanesAI", "dd/d61/a22064.html#a8e209b142a58b3b3c0d84c430a086ade", null ],
+    [ "JustDied", "dd/d61/a22064.html#a4c681936d8e7053ace5cdeeaa1ee5ca9", null ],
+    [ "Reset", "dd/d61/a22064.html#a23d54542e6debf39798c2a2d6e2a255d", null ],
+    [ "UpdateEscortAI", "dd/d61/a22064.html#ab54eb5115b9c41b39f0de0f8f4412ef9", null ],
+    [ "WaypointReached", "dd/d61/a22064.html#a7105ea4c83ddd0fd08c96a0b0ff40bd2", null ],
+    [ "PotTimer", "dd/d61/a22064.html#a252858818b61cf15e2e031ceaaadc6b8", null ]
 ];

@@ -1,6 +1,5 @@
 var a27136 =
 [
-    [ "boss_lethonAI", "d0/dd9/a27140.html", "d0/dd9/a27140" ],
-    [ "boss_lethon", "d9/df9/a27136.html#a5d758979b061646830373de64b2b3af4", null ],
-    [ "GetAI", "d9/df9/a27136.html#a493baf37aac400635dd0409e79375a1c", null ]
+    [ "AreaTrigger_at_nats_landing", "d9/df9/a27136.html#ac366e5b1db489b4f8bb8a1d07caa83c2", null ],
+    [ "OnTrigger", "d9/df9/a27136.html#a67434f74300fa3463e679afb7d344467", null ]
 ];

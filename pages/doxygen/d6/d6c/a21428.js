@@ -1,18 +1,16 @@
 var a21428 =
 [
-    [ "violet_hold_trashAI", "d6/d6c/a21428.html#a87011739810f39291655bc835f9995bd", null ],
-    [ "AttackStart", "d6/d6c/a21428.html#ab2d2157977ae2482217fa8ac344b30af", null ],
-    [ "ClearDoorSealAura", "d6/d6c/a21428.html#ad0c756eb5bef8036cb47ebcc9e6915df", null ],
-    [ "CreatureStartAttackDoor", "d6/d6c/a21428.html#a1e64a9f7c82275969e099b5012a32924", null ],
-    [ "EnterEvadeMode", "d6/d6c/a21428.html#ab189607a468514d6c472ac40e6f3d85b", null ],
-    [ "JustDied", "d6/d6c/a21428.html#acd512cd3722a2edf0ca539272ded3c79", null ],
-    [ "JustEngagedWith", "d6/d6c/a21428.html#a16e7677aa9597dda938a67c51febde6c", null ],
-    [ "JustReachedHome", "d6/d6c/a21428.html#ae98d0cd977d59cbfe567fa6e294cde7e", null ],
-    [ "MoveInLineOfSight", "d6/d6c/a21428.html#ab0e73a03d6e36a35eb393127bce3dad3", null ],
-    [ "UpdateAI", "d6/d6c/a21428.html#a8647797343650fcd4f6304bce3742883", null ],
-    [ "WaypointReached", "d6/d6c/a21428.html#ac218e3761b79d4d8186ad8d12e0d0b57", null ],
-    [ "bAddedWP", "d6/d6c/a21428.html#ad2e8841054cece73bdc7c2e7782c96a8", null ],
-    [ "bAlt", "d6/d6c/a21428.html#ad84ecad1a57f0af44af2795a252d2214", null ],
-    [ "pInstance", "d6/d6c/a21428.html#a0a5f5b86cd54c28a828db2ac3e83126b", null ],
-    [ "PLoc", "d6/d6c/a21428.html#a9e9ca535b9d2fa1b246975f984c96998", null ]
+    [ "boss_zuramatAI", "d6/d6c/a21428.html#ab4c04fec01023295946d170a466d1c48", null ],
+    [ "EnterEvadeMode", "d6/d6c/a21428.html#a991437ea0d9fd1ce7807ef9937c4cb0a", null ],
+    [ "JustDied", "d6/d6c/a21428.html#a060df9b36f2f62f3fc7afb80386d51c5", null ],
+    [ "JustEngagedWith", "d6/d6c/a21428.html#a85cc0f20b51e84ff1c5c16a3b2b004b9", null ],
+    [ "JustSummoned", "d6/d6c/a21428.html#a6e925207ddc112f7dd7044c08023f90e", null ],
+    [ "KilledUnit", "d6/d6c/a21428.html#adb79f8c244f57b88848dd44b592faf41", null ],
+    [ "MoveInLineOfSight", "d6/d6c/a21428.html#aa3ef3256d203d264dee12eff4491a28c", null ],
+    [ "Reset", "d6/d6c/a21428.html#a18498e4bc4bfac33ff2c591f5bf28d7d", null ],
+    [ "SummonedCreatureDespawn", "d6/d6c/a21428.html#a242f814bfec2e937e1338097e78080e3", null ],
+    [ "UpdateAI", "d6/d6c/a21428.html#adb591699b7d8ece0b1775afd40a4181b", null ],
+    [ "events", "d6/d6c/a21428.html#a4406b42618f3e40fa90e0a34ec3ad09f", null ],
+    [ "pInstance", "d6/d6c/a21428.html#a8ebb5ca6f9f18b0205e8b6a54492c06a", null ],
+    [ "summons", "d6/d6c/a21428.html#a42cb09654095c8a157720f99e7957102", null ]
 ];

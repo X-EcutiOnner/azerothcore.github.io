@@ -1,6 +1,7 @@
 var a22408 =
 [
-    [ "PrepareSpellScript", "d1/dfa/a22408.html#ae9a4734c9b12473f86c91a49860d56dd", null ],
-    [ "RecalculateDamage", "d1/dfa/a22408.html#ad47d51e68c6ffe60f15beceaffc60b19", null ],
-    [ "Register", "d1/dfa/a22408.html#a0dbeb30ba0eb22f4eb762f0a14cc6f39", null ]
+    [ "npc_wg_siege_machineAI", "d1/dfa/a22408.html#aaeca9e73520701ce28f2cc9d1483cc6b", null ],
+    [ "CanControlVehicle", "d1/dfa/a22408.html#a7ce79406da48e245a0baa2fdd23622b9", null ],
+    [ "UpdateAI", "d1/dfa/a22408.html#a8ddd21047a857facc767a9edc0ec5408", null ],
+    [ "checkTimer", "d1/dfa/a22408.html#abf4b06eae50adeefedba02e2186ea48a", null ]
 ];

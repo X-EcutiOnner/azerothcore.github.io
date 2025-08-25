@@ -1,7 +1,7 @@
 var a19124 =
 [
-    [ "OnPeriodic", "d9/d68/a19124.html#ae685e9d36b85af8a7e33cefbd439a2f4", null ],
-    [ "PrepareAuraScript", "d9/d68/a19124.html#a1362103840db4b3c40ef7d6b0aa5226c", null ],
-    [ "Register", "d9/d68/a19124.html#a39b03ebd7f6233f373f52e34f18dad10", null ],
-    [ "Validate", "d9/d68/a19124.html#a54cfed486827216817adb740efa6646e", null ]
+    [ "FilterTargets", "d9/d68/a19124.html#af92aec0df6c962a10ccbebb366081cfd", null ],
+    [ "PrepareSpellScript", "d9/d68/a19124.html#ad7ccb2b2024887ec0a9802454a8bfaec", null ],
+    [ "Register", "d9/d68/a19124.html#af59416debfc7685bec92541a00e1dafe", null ],
+    [ "Validate", "d9/d68/a19124.html#abbe7ae557fb510457504f72adfa0aedc", null ]
 ];

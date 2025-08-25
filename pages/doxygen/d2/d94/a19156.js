@@ -1,10 +1,8 @@
 var a19156 =
 [
-    [ "boss_razuvious_minionAI", "d2/d94/a19156.html#a6f9fc7dad68f35846ee76d4bff564407", null ],
-    [ "DoAction", "d2/d94/a19156.html#a93cfa3f706ffadd94ad4dbe0585eebf1", null ],
-    [ "JustEngagedWith", "d2/d94/a19156.html#ada2e7a5ac1f129572a0689afce49d310", null ],
-    [ "KilledUnit", "d2/d94/a19156.html#ab1a6f582098c9d1218551af0aae1815d", null ],
-    [ "Reset", "d2/d94/a19156.html#a170de8517a03a0e78b1e67652869fd9a", null ],
-    [ "ScheduleAttackDummy", "d2/d94/a19156.html#abed82c71605d7c57bf29cedc21fc6b24", null ],
-    [ "UpdateAI", "d2/d94/a19156.html#ad56fca0ae00fba6e575baefd72c7a8d0", null ]
+    [ "boss_maexxna_webwrapAI", "d2/d94/a19156.html#a1423b619676f650f71c8e7215aa2a2b7", null ],
+    [ "IsSummonedBy", "d2/d94/a19156.html#a1d434373ccc7dd54c5de7bc99487170a", null ],
+    [ "JustDied", "d2/d94/a19156.html#a1ed18e791d2a5ae26cd1c2f3cdf37d82", null ],
+    [ "UpdateAI", "d2/d94/a19156.html#a05220fcded67e15bbd94d13d0b9581a2", null ],
+    [ "victimGUID", "d2/d94/a19156.html#a54081ebfc0df639b7e18b5f079802c92", null ]
 ];

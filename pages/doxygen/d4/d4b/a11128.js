@@ -1,7 +1,12 @@
 var a11128 =
 [
-    [ "chance", "d4/d4b/a11128.html#a3326edd1fa36b85b9ab7a84a6f6f9d1b", null ],
-    [ "triggeredByAura", "d4/d4b/a11128.html#abb48d6093570ba9c5488f200544a1e83", null ],
-    [ "triggeredByEffIdx", "d4/d4b/a11128.html#a82d752dedab39f417af225add6af1403", null ],
-    [ "triggeredSpell", "d4/d4b/a11128.html#a02ac12119655f9ab82347d21cc68803a", null ]
+    [ "SpellDestination", "d4/d4b/a11128.html#aa91f31101de3139b2e2d2976dac94686", null ],
+    [ "SpellDestination", "d4/d4b/a11128.html#aa27cefe3e93fedd557174a3cc8f49fe1", null ],
+    [ "SpellDestination", "d4/d4b/a11128.html#a12f65757f20436b02b7aa00bb1682c8e", null ],
+    [ "SpellDestination", "d4/d4b/a11128.html#a7b8949fa80249aee8bebc56620ec746c", null ],
+    [ "Relocate", "d4/d4b/a11128.html#ab565861d5013130639013e3c4d22d712", null ],
+    [ "RelocateOffset", "d4/d4b/a11128.html#a0bf1d731787bfed47b593d8cb4943f2a", null ],
+    [ "_position", "d4/d4b/a11128.html#a6c4587b85e295d86f3479e4feeb662e5", null ],
+    [ "_transportGUID", "d4/d4b/a11128.html#ad3456cf591eb32a5dd390ffbb7b27387", null ],
+    [ "_transportOffset", "d4/d4b/a11128.html#a52f0f9f741985bb4d78289145fe66ba0", null ]
 ];

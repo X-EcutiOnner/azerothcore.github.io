@@ -1,8 +1,6 @@
 var a16120 =
 [
-    [ "OnApply", "df/d4a/a16120.html#a96321003a002be0e4838901f03f8a5d8", null ],
-    [ "OnRemove", "df/d4a/a16120.html#af616afe7bf87eb7fdb44bf15e9ad85d4", null ],
-    [ "PrepareAuraScript", "df/d4a/a16120.html#ae5c880210cb50cf5320ee3595791eaa8", null ],
-    [ "Register", "df/d4a/a16120.html#aaa2a16cff2e9aae77cdc1bb75c38f26a", null ],
-    [ "Validate", "df/d4a/a16120.html#ad09a31813a7a03f8abf6dc9c151bb002", null ]
+    [ "boss_halionAI", "d9/d62/a16124.html", "d9/d62/a16124" ],
+    [ "boss_halion", "df/d4a/a16120.html#a94b35248cedbf08b0a1f219c4c28c269", null ],
+    [ "GetAI", "df/d4a/a16120.html#a142314efb4f45ec146ab0225271d29b1", null ]
 ];

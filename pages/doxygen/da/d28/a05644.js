@@ -1,7 +1,9 @@
 var a05644 =
 [
-    [ "cmd", "da/d28/a05644.html#a91e8e56c304147b88db250259ff0a87c", null ],
-    [ "error", "da/d28/a05644.html#a0872e20a5adcd52a94036bdc6eddc6e6", null ],
-    [ "M2", "da/d28/a05644.html#a9bb7dca6b62d35ecae97197c4c9693b7", null ],
-    [ "unk2", "da/d28/a05644.html#a47d83719b502236fdad41e2d07b535a0", null ]
+    [ "A", "da/d28/a05644.html#ab94666c9208b481061cd81382ce94a5a", null ],
+    [ "clientM", "da/d28/a05644.html#a65b25700c577d338e902dc47b4712433", null ],
+    [ "cmd", "da/d28/a05644.html#a51b29f49e940bffa67988d9bc2b16aa4", null ],
+    [ "crc_hash", "da/d28/a05644.html#af2ce94f814a0008c953229fb9cdff454", null ],
+    [ "number_of_keys", "da/d28/a05644.html#ad8f9f53d462f1abd5c81413e0ed8b0a7", null ],
+    [ "securityFlags", "da/d28/a05644.html#ae2ab466af9513c15cbcea7a20e97ddc5", null ]
 ];

@@ -1,7 +1,9 @@
 var a28524 =
 [
-    [ "~ByteBufferException", "da/dce/a28524.html#a0ab73f9061c040127f70dbfc9a176509", null ],
-    [ "message", "da/dce/a28524.html#ab1a64d8fc18565a04c347de29184f68c", null ],
-    [ "what", "da/dce/a28524.html#a87896f7ab19f3032937f5f84e8cf440a", null ],
-    [ "msg_", "da/dce/a28524.html#a314bdbb7063219f8256df894602e6b02", null ]
+    [ "adtId", "da/dce/a28524.html#a9bf7e7dd9dd55e5b1ffeffb0ad3e92e0", null ],
+    [ "areaId", "da/dce/a28524.html#a7f652c68036429350543fc5a2cc6861e", null ],
+    [ "Flags", "da/dce/a28524.html#a60f9a61948d1e28587c9d1a338730f37", null ],
+    [ "groupId", "da/dce/a28524.html#a09052bad3028899580ffedd556672b64", null ],
+    [ "Id", "da/dce/a28524.html#a70e3e94df9d0b0b1c114ed1001768066", null ],
+    [ "rootId", "da/dce/a28524.html#a7997c7ac31abdb40f2e7f0e0a7e04403", null ]
 ];

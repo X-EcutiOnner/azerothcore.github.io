@@ -1,6 +1,6 @@
 var a25480 =
 [
-    [ "HandleItemRemove", "da/df6/a25480.html#a28f8f8e6823bad14900d08ba10cab7e6", null ],
-    [ "PrepareSpellScript", "da/df6/a25480.html#a8b43e146724a2c8b3c495e886a79d021", null ],
-    [ "Register", "da/df6/a25480.html#af8b02c31b81dce516ea47d6a1235d683", null ]
+    [ "CheckCast", "da/df6/a25480.html#a7fa12be149f0cb2202142d7f44cde0a6", null ],
+    [ "PrepareSpellScript", "da/df6/a25480.html#ad6867dad8bda358bd1479935c80b82e7", null ],
+    [ "Register", "da/df6/a25480.html#a0ab2f1f2a87db93e54dc883c4e53d7ba", null ]
 ];

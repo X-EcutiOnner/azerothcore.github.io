@@ -1,5 +1,7 @@
 var a15748 =
 [
-    [ "go_elune_fire", "d0/d96/a15748.html#a84d1b8e5a10e57cf717e10e413cb6027", null ],
-    [ "OnGossipHello", "d0/d96/a15748.html#a31e3cad89090bb7d2933e8758dbb56c4", null ]
+    [ "npc_ameAI", "dd/d49/a15752.html", "dd/d49/a15752" ],
+    [ "npc_ame", "d0/d96/a15748.html#a6b4a20b06bc88393dd08b4eae83c1d50", null ],
+    [ "GetAI", "d0/d96/a15748.html#a09f7688c38d56319791f7543eb32f317", null ],
+    [ "OnQuestAccept", "d0/d96/a15748.html#a69b8ec6558e70e34f7e405b397b09f43", null ]
 ];

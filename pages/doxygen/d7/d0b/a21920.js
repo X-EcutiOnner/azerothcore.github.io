@@ -1,9 +1,14 @@
 var a21920 =
 [
-    [ "npc_mrfloppyAI", "d7/d0b/a21920.html#a2994e5658035bb2cfe6f3cdab4c507fc", null ],
-    [ "EnterEvadeMode", "d7/d0b/a21920.html#af0f11f715cac553c772c0dca7e5e3a22", null ],
-    [ "JustEngagedWith", "d7/d0b/a21920.html#a490bf07de00cc5c59b5f0024317d8125", null ],
-    [ "MoveInLineOfSight", "d7/d0b/a21920.html#af0b376c5f10b6cb43f3bb63376012a0d", null ],
-    [ "Reset", "d7/d0b/a21920.html#ac2dc6204b0579e1aaf7e670f0fcb4ec5", null ],
-    [ "UpdateAI", "d7/d0b/a21920.html#afad6db1ccd903fd18192f832a10a32f4", null ]
+    [ "npc_commander_eligor_dawnbringerAI", "d7/d0b/a21920.html#a84beab3be0d7e5d5d3674a57b1928f09", null ],
+    [ "ChangeImage", "d7/d0b/a21920.html#a815e5c67b282e2840676b5453d94d5dc", null ],
+    [ "MovementInform", "d7/d0b/a21920.html#a2ed09d31771e9c225d8d8b40ba8f0f82", null ],
+    [ "Reset", "d7/d0b/a21920.html#a71410a3e3e5134311bf7bc2ef3051eb3", null ],
+    [ "StoreTargets", "d7/d0b/a21920.html#a0732307643a442bc3f070b9cc91d78c9", null ],
+    [ "TurnAudience", "d7/d0b/a21920.html#afa7fce3a9cccfcc7b088e72df9f312a4", null ],
+    [ "UpdateAI", "d7/d0b/a21920.html#a454984668ca58c8a6fdd9ad4f630dece", null ],
+    [ "_events", "d7/d0b/a21920.html#a907626beb601f789a725d88d45689eb2", null ],
+    [ "audienceList", "d7/d0b/a21920.html#a5bdb09658bd93e46387df8eeb8cf0221", null ],
+    [ "imageList", "d7/d0b/a21920.html#a8177ed5bc5fd54b98f2f36c9389b8099", null ],
+    [ "talkWing", "d7/d0b/a21920.html#ace957ffe4fba8f229946d61d63c1798c", null ]
 ];

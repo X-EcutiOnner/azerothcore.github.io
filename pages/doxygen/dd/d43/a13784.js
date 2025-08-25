@@ -1,6 +1,30 @@
 var a13784 =
 [
-    [ "npc_tapoke_slim_jahnAI", "d7/da3/a13788.html", "d7/da3/a13788" ],
-    [ "npc_tapoke_slim_jahn", "dd/d43/a13784.html#a61e36b57f8ba78c371d454efb1512579", null ],
-    [ "GetAI", "dd/d43/a13784.html#a397629742eace1b96dfd9d4a2e55cc32", null ]
+    [ "npc_thrall_bfuAI", "dd/d43/a13784.html#a0b719e975918c6bf1cb9e74d4b34691e", null ],
+    [ "ActivateValimathrasPortal", "dd/d43/a13784.html#a2a58331b6282602891e98d84921ed600", null ],
+    [ "CanAIAttack", "dd/d43/a13784.html#a1f35d939b0f27c143dc50be18eace58d", null ],
+    [ "EnterEvadeMode", "dd/d43/a13784.html#a4d73a0a63409d251652289db36e9fe8d", null ],
+    [ "FollowThrall", "dd/d43/a13784.html#a183bfae549896afac18bcb89270ca87a", null ],
+    [ "JumpToNextStep", "dd/d43/a13784.html#aa942d8c8cde5ec6e9bcbbc76f62e6eab", null ],
+    [ "JustSummoned", "dd/d43/a13784.html#afe5a4958d703cd9767f6b4051f3b0db2", null ],
+    [ "Reset", "dd/d43/a13784.html#a5f30e1257412cc2dcc9b7b085b8b7bc5", null ],
+    [ "SetHoldState", "dd/d43/a13784.html#a1d587fe68e8ada3994896d7e1bd288fb", null ],
+    [ "SpawnWave", "dd/d43/a13784.html#abde28867b6d1975032a73f4990d0a2b4", null ],
+    [ "SummonedCreatureDies", "dd/d43/a13784.html#a0a2f6ddcb7334a6a7c0b131f82611776", null ],
+    [ "UpdateAI", "dd/d43/a13784.html#ac0d604a3db43172dcc8ae121fe3faa60", null ],
+    [ "UpdateWorldState", "dd/d43/a13784.html#a1f3968dbd3168e745815c45c0b1f044c", null ],
+    [ "WaypointReached", "dd/d43/a13784.html#ab9058c31253d42457136ad4e7a92909c", null ],
+    [ "_events", "dd/d43/a13784.html#ab724c7b0673ab8cd50def4a864545617", null ],
+    [ "allianceForcesGUID", "dd/d43/a13784.html#a97badd906bc9b0cd0278d003191e585a", null ],
+    [ "bStepping", "dd/d43/a13784.html#a2f03d831bd3217366741716f671fcde6", null ],
+    [ "EnableAttack", "dd/d43/a13784.html#aabaab2a83d00264c500552c7463cd9bc", null ],
+    [ "hordeGuardsGUID", "dd/d43/a13784.html#ad0ea32cef7b5fa79e980bc804fd0f22e", null ],
+    [ "JainaGUID", "dd/d43/a13784.html#aaf200bc2ab00524cd78d7cccc141d31d", null ],
+    [ "phaseTimer", "dd/d43/a13784.html#a7fccc11c62d1d898d9c6f40456626ab7", null ],
+    [ "SaurfangGUID", "dd/d43/a13784.html#a5211d82bf6c3bb5d6be665cced01018b", null ],
+    [ "step", "dd/d43/a13784.html#abe0cf3f5e154edd5b0005c62a70dfb06", null ],
+    [ "sylvanasfollowGUID", "dd/d43/a13784.html#a9a948a3a8dd472dce54a1921272b5994", null ],
+    [ "ValimathrasGUID", "dd/d43/a13784.html#a34f9a36d0bdb6dea215d21da3bdf54de", null ],
+    [ "ValimathrasPortalGUID", "dd/d43/a13784.html#a4466ddcdc8acdd99e4c46a2128ac696c", null ],
+    [ "WrynnGUID", "dd/d43/a13784.html#ae764b73931eb22712fc4e22e0c15a080", null ]
 ];

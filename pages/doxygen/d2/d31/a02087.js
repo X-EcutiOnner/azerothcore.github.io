@@ -1,6 +1,5 @@
 var a02087 =
 [
-    [ "character_commandscript", "df/d4b/a11616.html", "df/d4b/a11616" ],
-    [ "character_commandscript::DeletedInfo", "d0/d71/a11620.html", "d0/d71/a11620" ],
-    [ "AddSC_character_commandscript", "d2/d31/a02087.html#a97f9cac12c34068d5e63b2ed28ddf9e2", null ]
+    [ "cheat_commandscript", "d8/d1f/a11660.html", "d8/d1f/a11660" ],
+    [ "AddSC_cheat_commandscript", "d2/d31/a02087.html#aafc88882ff0af0beb4632ec2c929fc8c", null ]
 ];

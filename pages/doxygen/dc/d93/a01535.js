@@ -1,4 +1,4 @@
 var a01535 =
 [
-    [ "ZoneScript", "d4/d4e/a09884.html", "d4/d4e/a09884" ]
+    [ "ZoneScript", "d6/dc0/a09892.html", "d6/dc0/a09892" ]
 ];

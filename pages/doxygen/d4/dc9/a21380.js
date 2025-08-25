@@ -1,6 +1,6 @@
 var a21380 =
 [
-    [ "boss_xevozzAI", "df/df6/a21384.html", "df/df6/a21384" ],
-    [ "boss_xevozz", "d4/dc9/a21380.html#a814ac939c4570d33450c4a6664833087", null ],
-    [ "GetAI", "d4/dc9/a21380.html#a712d8ed125d464da56b677914fbf8796", null ]
+    [ "boss_ichoronAI", "df/df6/a21384.html", "df/df6/a21384" ],
+    [ "boss_ichoron", "d4/dc9/a21380.html#ad4390da77a130edaf050d0bef3926882", null ],
+    [ "GetAI", "d4/dc9/a21380.html#a68051088dc2d2c738b042e2df0436b28", null ]
 ];

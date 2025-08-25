@@ -1,17 +1,10 @@
 var a09016 =
 [
-    [ "ActionMenuID", "db/d55/a09016.html#a486f9af68a02ae52d51772a3421db377", null ],
-    [ "ActionPoiID", "db/d55/a09016.html#a9a20a64e29d0464c40f57286b9c1804d", null ],
-    [ "BoxBroadcastTextID", "db/d55/a09016.html#a12882942190a9a568b9dc30214ee6a88", null ],
-    [ "BoxCoded", "db/d55/a09016.html#a4f7ba04e2d1078909d9587569504f4cd", null ],
-    [ "BoxMoney", "db/d55/a09016.html#ab00c368181ccaba98e878d49de6138e2", null ],
-    [ "BoxText", "db/d55/a09016.html#ad794b3c4e84dedce43ff2c80d3c38d4a", null ],
-    [ "Conditions", "db/d55/a09016.html#aa1632404bbc869b17dab8833f660c52b", null ],
-    [ "MenuID", "db/d55/a09016.html#a6e5b1b2c86bd05b81626a7230349be9a", null ],
-    [ "OptionBroadcastTextID", "db/d55/a09016.html#af8af4b4c27405908482db73797cd2d49", null ],
-    [ "OptionIcon", "db/d55/a09016.html#a0b73f7ce36e7703725e6b0d01c2a4564", null ],
-    [ "OptionID", "db/d55/a09016.html#adf2a8d247a88a062a75eb726dd43d019", null ],
-    [ "OptionNpcFlag", "db/d55/a09016.html#a6f41e9adfcb11adabdd79b55c1d47bfc", null ],
-    [ "OptionText", "db/d55/a09016.html#a2606ac76a4f3607e45676ed3f1df3a83", null ],
-    [ "OptionType", "db/d55/a09016.html#af53a42c8d4ec23be46dfdb16abc9c4ff", null ]
+    [ "Flags", "db/d55/a09016.html#a5292a64de662f608915844d58199542f", null ],
+    [ "Icon", "db/d55/a09016.html#ab7460f125e05509baf9331e424b8bacf", null ],
+    [ "ID", "db/d55/a09016.html#a94b184ecd7c82419fa6d59a59c1d95da", null ],
+    [ "Importance", "db/d55/a09016.html#a623d8bdc2bf5eea161466340ae8e3cd1", null ],
+    [ "Name", "db/d55/a09016.html#a45c6eb50f0d56bbdabd6c3b3469c607c", null ],
+    [ "PositionX", "db/d55/a09016.html#a561763556f1ac77e988c350c37a3a0a1", null ],
+    [ "PositionY", "db/d55/a09016.html#abec7b2b3e649263f0b963f3fedef60fe", null ]
 ];

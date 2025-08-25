@@ -1,6 +1,9 @@
 var a17680 =
 [
-    [ "HandlePeriodicTick", "d2/d80/a17680.html#accfe8a0cea8af9c9474d25fc3e7c7e22", null ],
-    [ "PrepareAuraScript", "d2/d80/a17680.html#a9962029ce4a5223d7aa05068e8d83326", null ],
-    [ "Register", "d2/d80/a17680.html#a64cf56299c8ab5292dbc9cddcee5f841", null ]
+    [ "CheckAreaTarget", "d2/d80/a17680.html#afd45699e853a5b57f3e9ae7bc4165bfb", null ],
+    [ "HandleApply", "d2/d80/a17680.html#a9ce86d32957af07313af379b4176d0b3", null ],
+    [ "HandleRemove", "d2/d80/a17680.html#a04f449a062b20e6f9ebc35857a051ed3", null ],
+    [ "Load", "d2/d80/a17680.html#aa10821981f3e80262850e5c46449d5d0", null ],
+    [ "PrepareAuraScript", "d2/d80/a17680.html#ac98e9c47a7cb177c0624cda37d1836e2", null ],
+    [ "Register", "d2/d80/a17680.html#ab5b7bc1cc347ea368a9f2753b4c020a7", null ]
 ];

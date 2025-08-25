@@ -1,7 +1,7 @@
 var a17820 =
 [
-    [ "HandleSpikes", "dc/df2/a17820.html#a012d61aacf79b9b1f5b4b5c5c81b5ed4", null ],
-    [ "PrepareSpellScript", "dc/df2/a17820.html#a6ffb6454eb4c58a1b66356814c13b659", null ],
-    [ "Register", "dc/df2/a17820.html#a893345cf191d084a0f97a8464b7d381a", null ],
-    [ "Validate", "dc/df2/a17820.html#aa6545760706d8695aefd4064c3c71c6b", null ]
+    [ "OnPeriodic", "dc/df2/a17820.html#a402e6c1a23070e3cef9b66ca0992d1af", null ],
+    [ "PrepareAuraScript", "dc/df2/a17820.html#a0e87dae1be4f69e6412129f14056eb79", null ],
+    [ "Register", "dc/df2/a17820.html#a1b26d102252bf7e0fd480076820d343f", null ],
+    [ "Validate", "dc/df2/a17820.html#a211d52aa385a874730abc43b083f2d22", null ]
 ];

@@ -1,6 +1,5 @@
 var a21864 =
 [
-    [ "npc_q24545_vegardAI", "da/ddb/a21868.html", "da/ddb/a21868" ],
-    [ "npc_q24545_vegard", "d3/dbd/a21864.html#ac12e2f143fab6b93950eaea06f5f7d85", null ],
-    [ "GetAI", "d3/dbd/a21864.html#a9a7accfb3eea9f08efbb82fbd4bd7e76", null ]
+    [ "at_q24545_frostmourne_cavern", "d3/dbd/a21864.html#a76e2d8424b5fcd037fabfa9b878d21e1", null ],
+    [ "OnTrigger", "d3/dbd/a21864.html#a9016ef31fde1bbcaf57a17e64ea8d503", null ]
 ];

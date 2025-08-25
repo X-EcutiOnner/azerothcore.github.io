@@ -1,7 +1,6 @@
 var a11968 =
 [
-    [ "boss_magmusAI", "d2/d1c/a11968.html#a8a3e5361bda492007013af9228899b8f", null ],
-    [ "JustEngagedWith", "d2/d1c/a11968.html#a11e4868628564078997694373315a9d6", null ],
-    [ "Reset", "d2/d1c/a11968.html#a5fe304cec86831b7e64f83caee1392d0", null ],
-    [ "UpdateAI", "d2/d1c/a11968.html#aa8bb8282c794ea02fe7bd95b3d32e5ea", null ]
+    [ "boss_gorosh_the_dervishAI", "d3/d0a/a11972.html", "d3/d0a/a11972" ],
+    [ "boss_gorosh_the_dervish", "d2/d1c/a11968.html#a18c39f21ebf6a9d43d37eb92857083a3", null ],
+    [ "GetAI", "d2/d1c/a11968.html#abae1fa2a7e959d1b7b02e0850aff4fb9", null ]
 ];

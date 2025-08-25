@@ -1,5 +1,5 @@
 var a14532 =
 [
-    [ "npc_pilgrims_bounty_plate", "d2/dda/a14532.html#ac0217b8fb3a0fbf418ce2d3ca286f2eb", null ],
-    [ "SpellHit", "d2/dda/a14532.html#a7797b7a532336542ef37f0643df8dec0", null ]
+    [ "PrepareSpellScript", "d2/dda/a14532.html#a3e1c670bbc7efb86b95a34ee3c8ba059", null ],
+    [ "Register", "d2/dda/a14532.html#a06111bf70ee53fee6e90284f8d92642e", null ]
 ];

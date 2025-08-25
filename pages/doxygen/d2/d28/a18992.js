@@ -1,7 +1,8 @@
 var a18992 =
 [
-    [ "OnApply", "d2/d28/a18992.html#a72a01dea703436b2a220a9976da60fa6", null ],
-    [ "PrepareAuraScript", "d2/d28/a18992.html#adb17425258d4fb2c0c464236e15f32d7", null ],
-    [ "Register", "d2/d28/a18992.html#af026c126029c68ed8b7c6c1886720e4c", null ],
-    [ "Validate", "d2/d28/a18992.html#a5674396828adf4e80102ed2277f1e08a", null ]
+    [ "HandleScript", "d2/d28/a18992.html#ae0d16607f9eb3ff233513233bfb573ea", null ],
+    [ "HandleScript2", "d2/d28/a18992.html#a3ff7d46323da70df6ad11ddfcaf6cfbb", null ],
+    [ "Load", "d2/d28/a18992.html#ad41decc0a264104ca2232aef4e71cdaf", null ],
+    [ "PrepareSpellScript", "d2/d28/a18992.html#a2d1dbae570206b358878020879708000", null ],
+    [ "Register", "d2/d28/a18992.html#a7cf32445caa09f2a2b3c52f68f315ba5", null ]
 ];

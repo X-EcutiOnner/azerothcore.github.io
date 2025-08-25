@@ -1,7 +1,7 @@
 var a10784 =
 [
-    [ "Playsound", "d5/d9e/a10784.html#a955f91d0d65c64f154f99b3b9472e273", null ],
-    [ "Playsound", "d5/d9e/a10784.html#aa242d4ca729d67d7fd58dc81985f22f9", null ],
-    [ "Write", "d5/d9e/a10784.html#acb4bdd9a1613a158832115e4c18bfcd9", null ],
-    [ "SoundKitID", "d5/d9e/a10784.html#a922cb6d06285bdf9f3d89ff990c40b0a", null ]
+    [ "PlayMusic", "d5/d9e/a10784.html#afee4b7ae9ac5f4f2b7365d3d00e7b581", null ],
+    [ "PlayMusic", "d5/d9e/a10784.html#ad3d833f70de5937365c2351aa5206bbf", null ],
+    [ "Write", "d5/d9e/a10784.html#ad01a67d76fe9dff269eac9108a27c75a", null ],
+    [ "SoundKitID", "d5/d9e/a10784.html#ad2342dd0c1461283c595af29c3bc9fe6", null ]
 ];

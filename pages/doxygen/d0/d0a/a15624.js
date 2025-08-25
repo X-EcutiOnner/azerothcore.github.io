@@ -1,9 +1,7 @@
 var a15624 =
 [
-    [ "npc_custodian_of_timeAI", "d0/d0a/a15624.html#a2434afcda3bc5681a124bdb1a2c8d56f", null ],
-    [ "JustEngagedWith", "d0/d0a/a15624.html#a3b12c06566b0c1d567b6edd8b57b8332", null ],
-    [ "MoveInLineOfSight", "d0/d0a/a15624.html#a97b21c4ecc89e4ddd5aef4dab30a7ecf", null ],
-    [ "Reset", "d0/d0a/a15624.html#a56bcc694ac286488ed4b3f2328c30573", null ],
-    [ "UpdateAI", "d0/d0a/a15624.html#a4b43c5f6eaf70fc93dcb18c183e456dc", null ],
-    [ "WaypointReached", "d0/d0a/a15624.html#a963736e62fbd0caea631ee3fb69fca46", null ]
+    [ "DelayedWindstoneSummonEvent", "d0/d0a/a15624.html#aa97daf8cf3479395ffd6558b6699436a", null ],
+    [ "Execute", "d0/d0a/a15624.html#aa413bc8709bc543b89ffb3df42185475", null ],
+    [ "_playerGUID", "d0/d0a/a15624.html#ad83bb6d87b569f59e99abcc16517745b", null ],
+    [ "_summon", "d0/d0a/a15624.html#af9804d276da5daebab3a37f2c75301ea", null ]
 ];

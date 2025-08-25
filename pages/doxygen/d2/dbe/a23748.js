@@ -1,9 +1,9 @@
 var a23748 =
 [
-    [ "boss_high_botanist_freywinn", "d2/dbe/a23748.html#aeecf6ed56e34cf1d9a552aab82f1f64a", null ],
-    [ "JustDied", "d2/dbe/a23748.html#a7b370482ea195d0305cba339ce0cbab3", null ],
-    [ "JustEngagedWith", "d2/dbe/a23748.html#a841c6f08d8d8c0e47bd8d06bfed7ab8b", null ],
-    [ "KilledUnit", "d2/dbe/a23748.html#a80a997e0d12c175da0a46d7362890b9c", null ],
-    [ "ResumeEncounter", "d2/dbe/a23748.html#a06adcf26cb264d35a16ca416661ab4bd", null ],
-    [ "SummonedCreatureDies", "d2/dbe/a23748.html#a7f1a02d4b944191471f59ba728b6372e", null ]
+    [ "boss_dalliah_the_doomsayer", "d2/dbe/a23748.html#ad6edf9623942297b28bc7420ec0cc733", null ],
+    [ "InitializeAI", "d2/dbe/a23748.html#a85342ef80a64ce05f87cf7d90a8bfe79", null ],
+    [ "JustDied", "d2/dbe/a23748.html#a431edc9c25fb125d7d267073eb1c1423", null ],
+    [ "JustEngagedWith", "d2/dbe/a23748.html#a6d3d8d027ddb08417dd11f1606a1418f", null ],
+    [ "KilledUnit", "d2/dbe/a23748.html#af28bfc1166ad45bf7bc046f5906a8b11", null ],
+    [ "Reset", "d2/dbe/a23748.html#a5b4f186225a55afdf1de80b7126d10eb", null ]
 ];

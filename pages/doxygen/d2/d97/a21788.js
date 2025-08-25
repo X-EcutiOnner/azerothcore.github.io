@@ -1,7 +1,6 @@
 var a21788 =
 [
-    [ "CheckCast", "d2/d97/a21788.html#af0eb00a8dbff89d780beb07f3a714fff", null ],
-    [ "HandleScript", "d2/d97/a21788.html#a8128bb2d7588409dae73bed78d5285a7", null ],
-    [ "PrepareSpellScript", "d2/d97/a21788.html#aee17a8a21ec5df027082c6990189dccc", null ],
-    [ "Register", "d2/d97/a21788.html#a2a97265e102e9ce31997d99275b42973", null ]
+    [ "npc_hourglass_of_eternityAI", "d9/da9/a21792.html", "d9/da9/a21792" ],
+    [ "npc_hourglass_of_eternity", "d2/d97/a21788.html#a40500ff582ead06bd646be86baad7d35", null ],
+    [ "GetAI", "d2/d97/a21788.html#a6cdec424e78e5c9decac73d091eec0ed", null ]
 ];

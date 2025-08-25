@@ -1,6 +1,13 @@
 var a13700 =
 [
-    [ "npc_highborne_lamenterAI", "d8/dec/a13704.html", "d8/dec/a13704" ],
-    [ "npc_highborne_lamenter", "d7/d83/a13700.html#a40316cf73a688e34e95dd41feef8612a", null ],
-    [ "GetAI", "d7/d83/a13700.html#aad8ccb43b325b797f60a16e338458a1e", null ]
+    [ "npc_lord_gregor_lescovarAI", "d7/d83/a13700.html#ab3ed8a9536fc6be948f280e319d4fec7", null ],
+    [ "DoGuardsDisappearAndDie", "d7/d83/a13700.html#a8588cae3dc8aa3dd46c55439d355df9b", null ],
+    [ "EnterEvadeMode", "d7/d83/a13700.html#a95e60614808191e4c1f909f5e38e4741", null ],
+    [ "JustEngagedWith", "d7/d83/a13700.html#ad0ca7d80d68b9623b99c644daa8f4c57", null ],
+    [ "Reset", "d7/d83/a13700.html#a06df695e9acd96b07f4e58c9461a708c", null ],
+    [ "UpdateAI", "d7/d83/a13700.html#ab8cc7d7d56550e66497116e5b4233a02", null ],
+    [ "WaypointReached", "d7/d83/a13700.html#ad91850dc72d0307e28b881717bfba6db", null ],
+    [ "MarzonGUID", "d7/d83/a13700.html#a68779dfa5643ffbf0065964d72ba5ddc", null ],
+    [ "uiPhase", "d7/d83/a13700.html#a3eaf47541cabaac9ce12f830d7d3ef41", null ],
+    [ "uiTimer", "d7/d83/a13700.html#a70e6be2f5c0f88664c6bbe3f29e1d184", null ]
 ];

@@ -1,7 +1,8 @@
 var a15368 =
 [
-    [ "HandleEffectRemove", "d3/d9a/a15368.html#aa07e0bdaac9cad239bae1b24d16b433c", null ],
-    [ "PrepareAuraScript", "d3/d9a/a15368.html#a8ab8433afb22bbca79e028e8f082da2b", null ],
-    [ "Register", "d3/d9a/a15368.html#a2ee3afd6fdcb0991e419396ed65e6d4a", null ],
-    [ "AuraEffectHandleModes", "d3/d9a/a15368.html#af8a46c99290ce700e765c7ad5e8c866c", null ]
+    [ "npc_injured_draeneiAI", "d3/d9a/a15368.html#a6832ec8b005e75ff66b0fd04e5ff3daa", null ],
+    [ "JustEngagedWith", "d3/d9a/a15368.html#adcc5750f0ab037a7ac38b9fa64b75a74", null ],
+    [ "MoveInLineOfSight", "d3/d9a/a15368.html#a514556f4a81c6f1f8b7caaa526c08662", null ],
+    [ "Reset", "d3/d9a/a15368.html#adcb601f739a91ce71926791885152471", null ],
+    [ "UpdateAI", "d3/d9a/a15368.html#af4d723ac0a95f9dad12e82d5bc987f50", null ]
 ];

@@ -1,7 +1,8 @@
 var a23408 =
 [
-    [ "npc_underbog_mushroom", "dc/db0/a23408.html#a2b77b2590d46c14c783d2df4a3699c44", null ],
-    [ "InitializeAI", "dc/db0/a23408.html#a7c192010cc63715eaa3f38b1d1372936", null ],
-    [ "UpdateAI", "dc/db0/a23408.html#a9a8ed51b12809152ebe78dda69944d77", null ],
-    [ "_scheduler", "dc/db0/a23408.html#a407cdb1096e5212dd0a50ea4fa401112", null ]
+    [ "boss_mekgineer_steamrigger", "dc/db0/a23408.html#a930dcbade7135d0c689bcc0718815547", null ],
+    [ "JustDied", "dc/db0/a23408.html#a79272c233bc0256cca62700fc7a01421", null ],
+    [ "JustEngagedWith", "dc/db0/a23408.html#aa75dea00ffd73b45ba5115ea1e48a006", null ],
+    [ "JustSummoned", "dc/db0/a23408.html#a7a55a9dffaf239e73962356eb0fa88ad", null ],
+    [ "KilledUnit", "dc/db0/a23408.html#a84374438458cb7e034f91d4b65cd22f1", null ]
 ];

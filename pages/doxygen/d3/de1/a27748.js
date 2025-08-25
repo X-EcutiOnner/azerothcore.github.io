@@ -1,7 +1,6 @@
 var a27748 =
 [
-    [ "HandleDummy", "d3/de1/a27748.html#ade9ff4db63fecf726776f6e4b36bb437", null ],
-    [ "PrepareSpellScript", "d3/de1/a27748.html#a0375b541f2a90e337fee61ced6d8f3ec", null ],
-    [ "Register", "d3/de1/a27748.html#a66c530b497e4952b457bbfa50a036c07", null ],
-    [ "Validate", "d3/de1/a27748.html#a968333dcfe0553ad73879f3042db5511", null ]
+    [ "npc_necropolis_relay", "d3/de1/a27748.html#a044958acd1449d664532aeea7d0cb2fd", null ],
+    [ "SpellHit", "d3/de1/a27748.html#a45fdef0f86f18b87b90d2b4f9c0df9cb", null ],
+    [ "SpellHitTarget", "d3/de1/a27748.html#a1968d3537de2bdb9d4786cc96d2c346c", null ]
 ];

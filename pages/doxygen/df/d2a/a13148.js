@@ -1,7 +1,11 @@
 var a13148 =
 [
-    [ "HandleScript", "df/d2a/a13148.html#ab705220b48be16090107135f9e2272cf", null ],
-    [ "PrepareSpellScript", "df/d2a/a13148.html#a8bf22d62d6e7f50315e4c14714b8457f", null ],
-    [ "Register", "df/d2a/a13148.html#ac969bf9f37d02f2b3d78d31d7f8c4625", null ],
-    [ "Validate", "df/d2a/a13148.html#ad1d90693a427a52fa728e5ae455932a3", null ]
+    [ "npc_scholomance_occultistAI", "df/d2a/a13148.html#af78103d07aef427130d26b4aed5e5ae3", null ],
+    [ "JustEngagedWith", "df/d2a/a13148.html#a03f0f6d015065c5afcf025dc44dc6aa8", null ],
+    [ "JustReachedHome", "df/d2a/a13148.html#ac4bb0aa4009191a36dd4cebb45fd2ad5", null ],
+    [ "SelectUnitCasting", "df/d2a/a13148.html#adde187b89a74a57aac823e4eb19bfeed", null ],
+    [ "UpdateAI", "df/d2a/a13148.html#ab02edf780adb553b2314045d8effa277", null ],
+    [ "events", "df/d2a/a13148.html#a1ee55a572462a1e832a5b89c8906bd87", null ],
+    [ "instance", "df/d2a/a13148.html#a195fe4d681580c17086a5390fd4f82ba", null ],
+    [ "originalDisplayId", "df/d2a/a13148.html#a4dcc895fef36cd1e9ca8cf38bdc2f6c4", null ]
 ];

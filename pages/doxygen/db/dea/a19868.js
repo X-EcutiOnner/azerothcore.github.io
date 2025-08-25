@@ -1,6 +1,6 @@
 var a19868 =
 [
-    [ "boss_flame_leviathanAI", "dc/da7/a19872.html", "dc/da7/a19872" ],
-    [ "boss_flame_leviathan", "db/dea/a19868.html#af4fcd38fc7095701c6c31674d849aef4", null ],
-    [ "GetAI", "db/dea/a19868.html#a3a402b002472bfe4347b512f21654c50", null ]
+    [ "boss_auriayaAI", "dc/da7/a19872.html", "dc/da7/a19872" ],
+    [ "boss_auriaya", "db/dea/a19868.html#a8acecf02a63e846d1a46633a6ade6083", null ],
+    [ "GetAI", "db/dea/a19868.html#a09c7cd124672eb12ec349dbbbd3c87ef", null ]
 ];

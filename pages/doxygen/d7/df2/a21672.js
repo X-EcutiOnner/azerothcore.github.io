@@ -1,7 +1,6 @@
 var a21672 =
 [
-    [ "npc_warmage_violetstand", "d7/df2/a21672.html#a1f67c9521cc3bd63886a8936b28e6622", null ],
-    [ "Reset", "d7/df2/a21672.html#a99015610597f43f184cc686c9fab2fa9", null ],
-    [ "UpdateAI", "d7/df2/a21672.html#aa0eac837ab697c3e0cd5ab753f0bd0b4", null ],
-    [ "targetGUID", "d7/df2/a21672.html#a46560aa7aa90778967a79c931a81721b", null ]
+    [ "npc_thassarianAI", "d1/d94/a21676.html", "d1/d94/a21676" ],
+    [ "npc_thassarian", "d7/df2/a21672.html#a82bde4555821f84a6d07a69669528313", null ],
+    [ "GetAI", "d7/df2/a21672.html#af4bbf5f6a63c3765355d6b70c2bda55b", null ]
 ];

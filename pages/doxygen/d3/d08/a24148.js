@@ -1,7 +1,5 @@
 var a24148 =
 [
-    [ "HandleEffectApply", "d3/d08/a24148.html#a362b5b818ab0029956fd22bd10b4b9ac", null ],
-    [ "HandleEffectRemove", "d3/d08/a24148.html#a96769390468dc132df62b5a0ec3a2da4", null ],
-    [ "PrepareAuraScript", "d3/d08/a24148.html#a7bad0d577281829e60c0fb577d6a7d6e", null ],
-    [ "Register", "d3/d08/a24148.html#a95905ec163c42463314a5f5bb023b4d6", null ]
+    [ "at_commander_dawnforge", "d3/d08/a24148.html#a1dfd7eb69ae515a59887c313001e4a4e", null ],
+    [ "OnTrigger", "d3/d08/a24148.html#acc78f4f2f9d892c02d62548e93f7f83b", null ]
 ];

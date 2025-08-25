@@ -1,8 +1,8 @@
 var a14132 =
 [
-    [ "boss_venoxis", "d5/dde/a14132.html#a3e91a9022163a726cbc077d38459a5f5", null ],
-    [ "InitializeAI", "d5/dde/a14132.html#a1373b5fc673fce6aea1de40d970ac00d", null ],
-    [ "JustDied", "d5/dde/a14132.html#a63ccc5a9520ee30b0ebaf8c4d31e59b8", null ],
-    [ "JustEngagedWith", "d5/dde/a14132.html#afaa68ffbd5fecae48a044009326bcaed", null ],
-    [ "Reset", "d5/dde/a14132.html#a40cbcd4d41ff85ff71d5d913d8e62368", null ]
+    [ "npc_spawn_of_marli", "d5/dde/a14132.html#a1dcd5066de108203903f5767c4b375ea", null ],
+    [ "JustEngagedWith", "d5/dde/a14132.html#a1b8afff5d90df02d16b81785026b2ff0", null ],
+    [ "Reset", "d5/dde/a14132.html#a79ef192d41af75e0dad0494776c75189", null ],
+    [ "UpdateAI", "d5/dde/a14132.html#a1c456e7deb43d2e4dd1abc6f702c3f75", null ],
+    [ "_scheduler", "d5/dde/a14132.html#ae9d30ec62ff25a454824ff4334ad2d99", null ]
 ];

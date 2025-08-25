@@ -1,6 +1,8 @@
 var a05528 =
 [
-    [ "~AsyncProcessResult", "df/d63/a05528.html#a16f0ce13c7401ce07e91b349c91365e0", null ],
-    [ "GetFutureResult", "df/d63/a05528.html#ae0bd36d094d1fc5e325a7b7af1dd0ee8", null ],
-    [ "Terminate", "df/d63/a05528.html#af3951c38d2b368c15c0ac7d415b96ebd", null ]
+    [ "category", "df/d63/a05528.html#a6a53b4b68647fdde65e3c2363127fc4f", null ],
+    [ "char_type", "df/d63/a05528.html#aaecf7407fc4cff91008168377114d7cd", null ],
+    [ "ACLogSink", "df/d63/a05528.html#a070880d742fd84b44c4614a76952e589", null ],
+    [ "write", "df/d63/a05528.html#adad5e421ed10b296eae8b9c52f5e76f5", null ],
+    [ "callback_", "df/d63/a05528.html#a360b91b740efaa05309725f6678eb22a", null ]
 ];

@@ -1,6 +1,6 @@
 var a18628 =
 [
-    [ "boss_sister_svalnaAI", "d5/dd1/a18632.html", "d5/dd1/a18632" ],
-    [ "boss_sister_svalna", "d9/d7a/a18628.html#a233a9606db61f6ab945350e98a0929ff", null ],
-    [ "GetAI", "d9/d7a/a18628.html#a5eb89badd75104dfe1dc3e03d372adc0", null ]
+    [ "CaptainSurviveTalk", "d9/d7a/a18628.html#a43a1b1da17ed41ae765aabc47c858f80", null ],
+    [ "Execute", "d9/d7a/a18628.html#a871cf08e8c7fced2971cae8abbc20454", null ],
+    [ "_owner", "d9/d7a/a18628.html#ac8de506afb4688560ea637918d07b01e", null ]
 ];

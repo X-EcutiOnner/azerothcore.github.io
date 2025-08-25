@@ -1,9 +1,10 @@
 var a20600 =
 [
-    [ "npc_ulduar_dark_rune_sentinelAI", "d6/d52/a20600.html#a533ae31e0507f12f7d94e347b6b7ebf2", null ],
-    [ "CanAIAttack", "d6/d52/a20600.html#a12b2e5c621a8b04a4d80dde706a4bb2b", null ],
-    [ "Reset", "d6/d52/a20600.html#ada2897f48effedd5d5baa5a260497b5a", null ],
-    [ "UpdateAI", "d6/d52/a20600.html#aa9b319928a9b23cf4d47a07c1eaeb0cd", null ],
-    [ "timer1", "d6/d52/a20600.html#a383a2ee113822b7eff52466f0cc0e137", null ],
-    [ "timer2", "d6/d52/a20600.html#ad5c4698c5d12ff42179d62c47d9f7719", null ]
+    [ "npc_ulduar_harpoonfirestateAI", "d6/d52/a20600.html#acc6853671f37e35c746ffa3807ae10b2", null ],
+    [ "GetData", "d6/d52/a20600.html#ac23f2c901ef8c2160ceea43a0a15e185", null ],
+    [ "GetHarpoonGunIdForThisHFS", "d6/d52/a20600.html#af21c4d50febac02eb0572efe564a19b1", null ],
+    [ "Reset", "d6/d52/a20600.html#af300a8271762fe1b5582384114902ee8", null ],
+    [ "SetData", "d6/d52/a20600.html#abf485123f0a73aa84ad5178e23c4192e", null ],
+    [ "pInstance", "d6/d52/a20600.html#af576864ded6610daad973ac420d2fdb8", null ],
+    [ "repairPoints", "d6/d52/a20600.html#a5e9bcd384285b9046da93bd18804d07b", null ]
 ];

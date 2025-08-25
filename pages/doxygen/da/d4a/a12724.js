@@ -1,8 +1,11 @@
 var a12724 =
 [
-    [ "npc_cyclone", "da/d4a/a12724.html#afdc4f98b031f832702929c6a7f192ab5", null ],
-    [ "JustEngagedWith", "da/d4a/a12724.html#a61d0710868c91f707643a436c0d79485", null ],
-    [ "Reset", "da/d4a/a12724.html#a60b74a96fccc12333b9dc3ed67a54637", null ],
-    [ "UpdateAI", "da/d4a/a12724.html#a224795b4ea46fc2c9346e361410f0c0f", null ],
-    [ "_scheduler", "da/d4a/a12724.html#a77f4d42ff45e0565f2d9ee5b27787ffd", null ]
+    [ "npc_kilrek", "da/d4a/a12724.html#a853aa53d3e03aebe07c939eaf1b1c9c2", null ],
+    [ "JustDied", "da/d4a/a12724.html#a314ed9f73c6a9c991c7eb2690e0f7c1c", null ],
+    [ "JustEngagedWith", "da/d4a/a12724.html#a3a60a3bdb5a2876e325a26964bab21ac", null ],
+    [ "Reset", "da/d4a/a12724.html#ae0b375abe5ec909cfaff96c257da0325", null ],
+    [ "UpdateAI", "da/d4a/a12724.html#acf402b43e91b1f488ef8b9e3ed5092c4", null ],
+    [ "_scheduler", "da/d4a/a12724.html#a93663ee806385f617e81a03062dd94d6", null ],
+    [ "instance", "da/d4a/a12724.html#a13b969fa86ef57f9508117a73252a36b", null ],
+    [ "TerestianGUID", "da/d4a/a12724.html#a411476da379bf687cd007e25ba11280e", null ]
 ];

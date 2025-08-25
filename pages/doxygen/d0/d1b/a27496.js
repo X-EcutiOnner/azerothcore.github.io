@@ -1,13 +1,10 @@
 var a27496 =
 [
-    [ "npc_nelsonAI", "d0/d1b/a27496.html#af6aada5c34048ce6bda6d5c1541e0bf3", null ],
-    [ "DoAction", "d0/d1b/a27496.html#a13ec2adee9d671f949139dbf94c75cc3", null ],
-    [ "JustEngagedWith", "d0/d1b/a27496.html#accb9aeb3b3f3fc2233598b7fef40c3ec", null ],
-    [ "JustSummoned", "d0/d1b/a27496.html#a31d622d73a2540e159720d4c8ddc7d00", null ],
-    [ "Reset", "d0/d1b/a27496.html#a05fcb98153f0a24f50004f465d8f3c72", null ],
-    [ "SpellHit", "d0/d1b/a27496.html#afab81d8a6077c755c186bb619944d78d", null ],
-    [ "SummonedCreatureDies", "d0/d1b/a27496.html#ab3753c9b6848c1567ac596a5f6b498a1", null ],
-    [ "UpdateAI", "d0/d1b/a27496.html#ac68749942f37de5f9105556fe7b904b7", null ],
-    [ "events", "d0/d1b/a27496.html#a25eb289b79de306bbdc0dd099b23a2a0", null ],
-    [ "shouldDespawn", "d0/d1b/a27496.html#a09a68f903854fcedd8a4b2ee4c2597e2", null ]
+    [ "npc_prof_tailor", "d0/d1b/a27496.html#a481157e49fb1c09f62a3cb9de85c9da1", null ],
+    [ "HasTailorSpell", "d0/d1b/a27496.html#a188c0ac66b1972bccd031aca26f7fecd", null ],
+    [ "OnGossipHello", "d0/d1b/a27496.html#a686098ac43916ea2f82b7c321527863d", null ],
+    [ "OnGossipSelect", "d0/d1b/a27496.html#a03545eaacf3bae0d407e0e20c32740dc", null ],
+    [ "SendActionMenu", "d0/d1b/a27496.html#a03ced7d6541535097a5e4e3bd9f415f2", null ],
+    [ "SendConfirmLearn", "d0/d1b/a27496.html#a93a8692cb2c0b30ee752ae3ecd5561e5", null ],
+    [ "SendConfirmUnlearn", "d0/d1b/a27496.html#ada0be1dc79f72b7b033191c8e17a8baf", null ]
 ];

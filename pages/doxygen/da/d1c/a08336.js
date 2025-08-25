@@ -1,10 +1,6 @@
 var a08336 =
 [
-    [ "SpellCategory", "da/d1c/a08336.html#ad170ffceb499879a4b0d638e9c922703", null ],
-    [ "SpellCategoryCooldown", "da/d1c/a08336.html#a8a33274d71b410f24f110e9a5921ff18", null ],
-    [ "SpellCharges", "da/d1c/a08336.html#a16909465a3a20dbab6e3ca2e3c807f17", null ],
-    [ "SpellCooldown", "da/d1c/a08336.html#a8ef7106595ed25ce23ca2163258d769a", null ],
-    [ "SpellId", "da/d1c/a08336.html#af6973a8a9a258a87a916bcd431c33d8d", null ],
-    [ "SpellPPMRate", "da/d1c/a08336.html#a5b208a667802e4c3766619c96d267287", null ],
-    [ "SpellTrigger", "da/d1c/a08336.html#a39657ff9e561a3c86a671f7b3c78ef98", null ]
+    [ "DamageMax", "da/d1c/a08336.html#afc0bd7960848f6434c182a3fadc1e256", null ],
+    [ "DamageMin", "da/d1c/a08336.html#acbab962cbc25ad032c97216feac281bb", null ],
+    [ "DamageType", "da/d1c/a08336.html#aecdcc73f2cb30ef5cc149607e01bbe34", null ]
 ];

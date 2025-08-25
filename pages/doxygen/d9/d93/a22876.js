@@ -1,6 +1,6 @@
 var a22876 =
 [
-    [ "PrepareAuraScript", "d9/d93/a22876.html#ac52a5dccc708f9ee63f3c6c92fbf15c1", null ],
-    [ "Register", "d9/d93/a22876.html#acc4afbe7f2b23b67e8f7e3fe1eeb03b5", null ],
-    [ "Update", "d9/d93/a22876.html#aa9f5924b3f12c666c53ddc2b9b80aeea", null ]
+    [ "CalculateAmount", "d9/d93/a22876.html#aeeabfef0accc4e0d1f78f7422dc30a99", null ],
+    [ "PrepareAuraScript", "d9/d93/a22876.html#a5cf70fe73d01e08e78a2d00e5bc95e8e", null ],
+    [ "Register", "d9/d93/a22876.html#a0d2e97463f268892965e307628aaa931", null ]
 ];

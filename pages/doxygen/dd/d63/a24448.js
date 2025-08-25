@@ -1,9 +1,10 @@
 var a24448 =
 [
-    [ "npc_pet_shaman_earth_elemental", "dd/d63/a24448.html#a07f3792cb3b5264d209f1b4726867773", null ],
-    [ "InitializeAI", "dd/d63/a24448.html#a8bbca6686ae324a50cd1598125280446", null ],
-    [ "JustEngagedWith", "dd/d63/a24448.html#ad9b48901b1d96e59ce60af6411a8baaf", null ],
-    [ "UpdateAI", "dd/d63/a24448.html#ab28951b483cab31bf5672fc74e7323e1", null ],
-    [ "_events", "dd/d63/a24448.html#ab7f72d0d574322965f1d0b23f144f1be", null ],
-    [ "_initAttack", "dd/d63/a24448.html#a2af73c97ef60b5b0ade26c9760b8b379", null ]
+    [ "npc_pet_gen_plump_turkey", "dd/d63/a24448.html#acd5a9cb122cbf5a773461ce1027f28a1", null ],
+    [ "MovementInform", "dd/d63/a24448.html#af27c91388891add6d00e251bf3187743", null ],
+    [ "UpdateAI", "dd/d63/a24448.html#a93d2719bcc6a657a9a32cce06f566b19", null ],
+    [ "checkTimer", "dd/d63/a24448.html#af9e7339416ada0c3bb9829cbd8e1f5d3", null ],
+    [ "goGUID", "dd/d63/a24448.html#a5fa88e045430adea9e72a3744bf72780", null ],
+    [ "jumping", "dd/d63/a24448.html#a8486512b7594f2ce759fcb580f1baf34", null ],
+    [ "jumpTimer", "dd/d63/a24448.html#ad53a9abad41ab6a792a55b854155135d", null ]
 ];

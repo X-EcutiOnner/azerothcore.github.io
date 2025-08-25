@@ -1,8 +1,6 @@
 var a16712 =
 [
-    [ "HandleEffectApply", "de/df2/a16712.html#a92b98d9b9be98c330b6efbe34dae235b", null ],
-    [ "HandleEffectRemove", "de/df2/a16712.html#a04504220319ec562b1b6691f471c1b8d", null ],
-    [ "PrepareAuraScript", "de/df2/a16712.html#a10fd29809373bcfaf38fd587fcdd1dee", null ],
-    [ "Register", "de/df2/a16712.html#a9160c940913e4829bd0a6fe269c3b5d3", null ],
-    [ "Validate", "de/df2/a16712.html#a7f7750933e122e8c672b6b93f4801cd7", null ]
+    [ "boss_novosAI", "db/dcc/a16716.html", "db/dcc/a16716" ],
+    [ "boss_novos", "de/df2/a16712.html#a898a5ee1de69df17fde66c84dd065ac1", null ],
+    [ "GetAI", "de/df2/a16712.html#aaf28e2a23a8139197dccc92ae29a8be4", null ]
 ];

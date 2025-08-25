@@ -1,7 +1,6 @@
 var a12464 =
 [
-    [ "HandlePeriodic", "da/d72/a12464.html#a5651e7ecab22d2286f85e56b8eccc003", null ],
-    [ "PrepareAuraScript", "da/d72/a12464.html#a5dca8e116c05d11961cbd7995314441e", null ],
-    [ "Register", "da/d72/a12464.html#a5972e66a8c05c5ae64e6666d0f35cb6e", null ],
-    [ "Validate", "da/d72/a12464.html#a689b93dcf39828f507ef2b7f72d1ca01", null ]
+    [ "boss_lucifronAI", "d7/dc9/a12468.html", "d7/dc9/a12468" ],
+    [ "boss_lucifron", "da/d72/a12464.html#aa54be5c49a77524b036c167dbb6d81ea", null ],
+    [ "GetAI", "da/d72/a12464.html#a885366d4190bbc77dc696ee6910435ed", null ]
 ];

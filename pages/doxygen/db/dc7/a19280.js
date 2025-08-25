@@ -1,6 +1,13 @@
 var a19280 =
 [
-    [ "npc_alexstraszaAI", "d7/d87/a19284.html", "d7/d87/a19284" ],
-    [ "npc_alexstrasza", "db/dc7/a19280.html#aa28858e8368031c2882e7e3c1c5968dd", null ],
-    [ "GetAI", "db/dc7/a19280.html#ad155ccc4f7bca786229ee015d365e3ce", null ]
+    [ "npc_vortex_rideAI", "db/dc7/a19280.html#ae827bdfdef36419e33b37aecde1a2cc4", null ],
+    [ "AttackStart", "db/dc7/a19280.html#a810c0c03317672d5a4a904a1e96cbba9", null ],
+    [ "DamageTaken", "db/dc7/a19280.html#a39e33812041877296c11c9bace6a4667", null ],
+    [ "MoveInLineOfSight", "db/dc7/a19280.html#a2c810e2fe14e4681a0092a0c6bb3eadc", null ],
+    [ "PassengerBoarded", "db/dc7/a19280.html#a77234a8f4ec9c687b194a8c332820609", null ],
+    [ "UpdateAI", "db/dc7/a19280.html#ad450120965f9e85bdb69ffc4c092c901", null ],
+    [ "bUpdatedFlying", "db/dc7/a19280.html#a56f2753ef630b76882cc1dce6b5a8fb9", null ],
+    [ "despawnTimer", "db/dc7/a19280.html#acd7a8c972db52077f8b02317f5398ff0", null ],
+    [ "timer", "db/dc7/a19280.html#acd72c6ae18b84cee94a295e51fae9ac3", null ],
+    [ "VORTEX_RADIUS", "db/dc7/a19280.html#adec384ccbdc5f2b90a1d09c67b47d24f", null ]
 ];

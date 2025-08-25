@@ -1,8 +1,7 @@
 var a17640 =
 [
-    [ "HandlePeriodic", "d8/d6e/a17640.html#a5ff571c616b69bb50c736622feb9ed96", null ],
-    [ "HandleRemove", "d8/d6e/a17640.html#a624887bb5e6d8b72d6c0591661d6ba38", null ],
-    [ "PrepareAuraScript", "d8/d6e/a17640.html#a1b140274e283dd95e28fcb773e30f965", null ],
-    [ "Register", "d8/d6e/a17640.html#abcce83ef6ecbe539a3d8eaef83fb2d33", null ],
-    [ "Validate", "d8/d6e/a17640.html#a94c644e730c51c8edb6a74d68d6228a8", null ]
+    [ "npc_gunship_boarding_leaderAI", "d8/d6e/a17640.html#ac20099905fd6fddda2561b88cf077b77", null ],
+    [ "JustEngagedWith", "d8/d6e/a17640.html#a448ee30c01317a7e3c842a0043b15c2a", null ],
+    [ "UpdateAI", "d8/d6e/a17640.html#ab7a105fbc49a365d609c7787b61fd75f", null ],
+    [ "_events", "d8/d6e/a17640.html#affb899bbaa288e72a48d5518367b023d", null ]
 ];

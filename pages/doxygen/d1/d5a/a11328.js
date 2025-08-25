@@ -1,6 +1,6 @@
 var a11328 =
 [
-    [ "EffectCalcSpellModHandler", "d1/d5a/a11328.html#abe81396a3f1c1b3b07c10cf0e191546c", null ],
-    [ "Call", "d1/d5a/a11328.html#a5ca2a9c329a7dbbb7e835849ca4479aa", null ],
-    [ "pEffectHandlerScript", "d1/d5a/a11328.html#a15c0b24641cb04f31bb3d651dae59448", null ]
+    [ "DestinationTargetSelectHandler", "d1/d5a/a11328.html#ab5ffcc89b7232afddd6bc47e7c347b79", null ],
+    [ "Call", "d1/d5a/a11328.html#a81ae2eb856507ee22308ae2739854382", null ],
+    [ "DestinationTargetSelectHandlerScript", "d1/d5a/a11328.html#a95e882b892a79b464a521a8367b2e9b7", null ]
 ];

@@ -1,7 +1,6 @@
 var a18716 =
 [
-    [ "HandleQuestComplete", "d9/ddb/a18716.html#a5f1e6c4358df4e0910b2227f90b39d24", null ],
-    [ "HandleScript", "d9/ddb/a18716.html#a309052e9b7c3d3747d15ab5e9c0d25fd", null ],
-    [ "PrepareSpellScript", "d9/ddb/a18716.html#ac9b2786ba2dbb8d1c74af05153bb0a6f", null ],
-    [ "Register", "d9/ddb/a18716.html#a3258d4517cfc758080691bab429624d7", null ]
+    [ "npc_impaling_spearAI", "d0/d28/a18720.html", "d0/d28/a18720" ],
+    [ "npc_impaling_spear", "d9/ddb/a18716.html#af546ed9684fc085ad651bf5bd93e5bf7", null ],
+    [ "GetAI", "d9/ddb/a18716.html#aad49164a3e7541b755c1c622b996bb9a", null ]
 ];

@@ -1,15 +1,13 @@
 var a11576 =
 [
-    [ "SunsReachReclamationData", "d5/d6b/a11576.html#a840eb2024ae39f2f60f819e884db80b3", null ],
-    [ "GetData", "d5/d6b/a11576.html#ae7ef124f28f2bc8230b4234652734994", null ],
-    [ "GetPhasePercentage", "d5/d6b/a11576.html#a215cec505dd74695704ae7961161e195", null ],
-    [ "GetSubPhasePercentage", "d5/d6b/a11576.html#aaee292336c57d967842d63f55e69bf0f", null ],
-    [ "GetSunwellGatePercentage", "d5/d6b/a11576.html#a9b5de26596e174f9a94e019fcb998f9e", null ],
-    [ "m_gate", "d5/d6b/a11576.html#a35755bcf3f67cfb2ebc77dcb36fa4dfb", null ],
-    [ "m_gateCounters", "d5/d6b/a11576.html#a76b38d6f571386c1d818752e12a66f66", null ],
-    [ "m_phase", "d5/d6b/a11576.html#a67711cd7d43f481161b8f98690d67fe3", null ],
-    [ "m_subphaseMask", "d5/d6b/a11576.html#a0a94a3b69ac5ccfcfae35af007ed375c", null ],
-    [ "m_sunsReachReclamationCounters", "d5/d6b/a11576.html#a14253084085c114aa2cfeefdebb0257d", null ],
-    [ "m_sunsReachReclamationMutex", "d5/d6b/a11576.html#a0ef2835b702469482926ec4942d0f786", null ],
-    [ "m_sunsReachReclamationPlayers", "d5/d6b/a11576.html#a72780ba8e17ccf5513d104eb228b3411", null ]
+    [ "CommandFinished", "d5/d6b/a11576.html#af7ce6ffac9fa11ce0db6fd10919c4e4a", null ],
+    [ "Print", "d5/d6b/a11576.html#ab10379cf266b38f4d81e2477b727471e", null ],
+    [ "CliCommandHolder", "d5/d6b/a11576.html#a5a45e891607114cd070721fd51926cd5", null ],
+    [ "~CliCommandHolder", "d5/d6b/a11576.html#a44ca7e8af5c717b1cff7b143afc077ee", null ],
+    [ "CliCommandHolder", "d5/d6b/a11576.html#ad9c7b2da92d97c464fb14ad1e0b9a4a9", null ],
+    [ "operator=", "d5/d6b/a11576.html#aaca241ecd81dc25788eaccbdc4aa5f60", null ],
+    [ "m_callbackArg", "d5/d6b/a11576.html#a4579ce86ff43da89524b62eefe308a59", null ],
+    [ "m_command", "d5/d6b/a11576.html#ae333918e09a9de4c9e402c334e076674", null ],
+    [ "m_commandFinished", "d5/d6b/a11576.html#a416a66ac78f1d2cb1ee2d0d93f276f43", null ],
+    [ "m_print", "d5/d6b/a11576.html#aa49897105905b9812fcf962326486d5d", null ]
 ];

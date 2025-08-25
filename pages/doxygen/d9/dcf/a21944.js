@@ -1,7 +1,7 @@
 var a21944 =
 [
-    [ "npc_tallhorn_stagAI", "d9/dcf/a21944.html#a50947c450eece979193b45728e5e1f82", null ],
-    [ "Reset", "d9/dcf/a21944.html#a67dce7ad60ddea63fcba5e1e2079fa7c", null ],
-    [ "UpdateAI", "d9/dcf/a21944.html#adf60f62fa92238cb315c42e0179c3f17", null ],
-    [ "_phase", "d9/dcf/a21944.html#ace2ac6f418876393d2f6d3457b1bc4c0", null ]
+    [ "npc_emilyAI", "d4/d82/a21948.html", "d4/d82/a21948" ],
+    [ "npc_emily", "d9/dcf/a21944.html#ab40f581fad087b3d32a7724fca97895d", null ],
+    [ "GetAI", "d9/dcf/a21944.html#a6317e4b9787c25ce119d08432cd1acf7", null ],
+    [ "OnQuestAccept", "d9/dcf/a21944.html#ad434e7bf2427b3575a8459021e792152", null ]
 ];

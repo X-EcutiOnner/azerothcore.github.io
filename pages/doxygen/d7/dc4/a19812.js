@@ -1,7 +1,6 @@
 var a19812 =
 [
-    [ "OnRemove", "d7/dc4/a19812.html#a4d7ec990112b4ed602bcacf5a6de6722", null ],
-    [ "PrepareAuraScript", "d7/dc4/a19812.html#a7cc9f0d6882b713c7b0a2585d6008437", null ],
-    [ "Register", "d7/dc4/a19812.html#ad3a66fdfb2a159461bb3deeab6f71c13", null ],
-    [ "Validate", "d7/dc4/a19812.html#a8bd121743d1153ae3fd8eb124e475d0f", null ]
+    [ "boss_steelbreakerAI", "d7/d6b/a19816.html", "d7/d6b/a19816" ],
+    [ "boss_steelbreaker", "d7/dc4/a19812.html#af6e4c3729874e59959b35ca67a46aa44", null ],
+    [ "GetAI", "d7/dc4/a19812.html#ac4189ffbba997719fb36a10ecdabd26c", null ]
 ];

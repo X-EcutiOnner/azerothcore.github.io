@@ -1,9 +1,27 @@
 var a10024 =
 [
-    [ "PathMovementBase", "d3/da1/a10024.html#a6b76e1527ed69ff631d7a72c309f264a", null ],
-    [ "PathMovementBase", "d3/da1/a10024.html#a953fcda0cf7764f659fc5a4a19408550", null ],
-    [ "~PathMovementBase", "d3/da1/a10024.html#a33b2b53993fe897712a196bc4ad86bd1", null ],
-    [ "GetCurrentNode", "d3/da1/a10024.html#a7ceb52928f2198392980c3926516fd82", null ],
-    [ "i_currentNode", "d3/da1/a10024.html#a5420aef90d3529881ef41362ebb29934", null ],
-    [ "i_path", "d3/da1/a10024.html#a3dbc5e41e0c6245f369afc7a24081c83", null ]
+    [ "ChaseMovementGenerator", "d3/da1/a10024.html#ac98da5e0e4e4bb24d67ce554095b0bd1", null ],
+    [ "~ChaseMovementGenerator", "d3/da1/a10024.html#ac30308e6e93e600778047e6dc54ebb74", null ],
+    [ "DoFinalize", "d3/da1/a10024.html#a529672fc598fa3c38cbf309c4e95c7bc", null ],
+    [ "DoInitialize", "d3/da1/a10024.html#a6aa7761c76b70e6a171696f1afaac141", null ],
+    [ "DoInitialize", "d3/da1/a10024.html#a802b80cc6ae928821c06121001365db6", null ],
+    [ "DoInitialize", "d3/da1/a10024.html#a54e73981951bb609a81ab261e22a316e", null ],
+    [ "DoReset", "d3/da1/a10024.html#a54601925140f09b330caaba240a43037", null ],
+    [ "DoUpdate", "d3/da1/a10024.html#a2e116b448b83e35c0c7dc63337516fa3", null ],
+    [ "EnableWalking", "d3/da1/a10024.html#a074cf741ec57fa7ea41621f58e6a4b4b", null ],
+    [ "GetMovementGeneratorType", "d3/da1/a10024.html#a30cd5471f5737157cf09bc3eca69758f", null ],
+    [ "GetTarget", "d3/da1/a10024.html#aec3c7041a4e18d8e6baf6bef984077c9", null ],
+    [ "HasLostTarget", "d3/da1/a10024.html#ad3100749f673d40913020f0d1df1e692", null ],
+    [ "MovementInform", "d3/da1/a10024.html#ac325e618f8dd0376a7c726df993e2e3d", null ],
+    [ "PositionOkay", "d3/da1/a10024.html#a11b7bbb07819ac4cbe6c9268429047ea", null ],
+    [ "unitSpeedChanged", "d3/da1/a10024.html#a81cb99fcec507afb4b0dc8d8a3081cdc", null ],
+    [ "_angle", "d3/da1/a10024.html#aa3e0905ba4fa77eff57293d1bb707c8e", null ],
+    [ "_lastTargetPosition", "d3/da1/a10024.html#a80f2f31af93c87371208f2febd03f698", null ],
+    [ "_movingTowards", "d3/da1/a10024.html#ae8b22a656504e59f45bb1fcf80f9a9b6", null ],
+    [ "_mutualChase", "d3/da1/a10024.html#a023e40670b8265260c4e3460bd1bf60c", null ],
+    [ "_range", "d3/da1/a10024.html#ab99da8a9aa9dfcea3e01ee755cb06314", null ],
+    [ "i_leashExtensionTimer", "d3/da1/a10024.html#ae525659d62dc022ffcc03566ad23a01f", null ],
+    [ "i_path", "d3/da1/a10024.html#a8eae21b6df1513ecd17407d59bf52fb2", null ],
+    [ "i_recalculateTravel", "d3/da1/a10024.html#ab80b5a4575f9b484764a36634dd6faf2", null ],
+    [ "i_recheckDistance", "d3/da1/a10024.html#ab8db38136708c7032eaba9149b8dc4e0", null ]
 ];

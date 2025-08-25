@@ -1,7 +1,11 @@
 var a17936 =
 [
-    [ "HandleSummon", "d9/d2c/a17936.html#a8a96bd3a1b3cfaff09e05535eca927a9", null ],
-    [ "PrepareSpellScript", "d9/d2c/a17936.html#a0213cd8e5e79aba8ba80583ceda88b95", null ],
-    [ "Register", "d9/d2c/a17936.html#a01281869dc98a0af5027695391f1221f", null ],
-    [ "Validate", "d9/d2c/a17936.html#a26675411e5f86e6d31f62762a3fdcd70", null ]
+    [ "Load", "d9/d2c/a17936.html#a0dab3a666abd6d8c1486a6e71ce98c20", null ],
+    [ "PrepareSpellScript", "d9/d2c/a17936.html#a8338cc31a3c494c1cb24d015a11fbd64", null ],
+    [ "Register", "d9/d2c/a17936.html#a9adbad7cc2185b22fb16135e78114548", null ],
+    [ "SelectTarget", "d9/d2c/a17936.html#a296ec09cec9661123ea5c86f3f262f32", null ],
+    [ "SetTarget", "d9/d2c/a17936.html#a15373dc2a0767e011faf504f6377e24d", null ],
+    [ "StartAttack", "d9/d2c/a17936.html#a17b20a391d70ae487774d52ed0e5dbd7", null ],
+    [ "Validate", "d9/d2c/a17936.html#a7619f7ec6dc0ce14293414729731ed00", null ],
+    [ "_target", "d9/d2c/a17936.html#abe6d3ad0f06b2370f1a5985878d6af3d", null ]
 ];

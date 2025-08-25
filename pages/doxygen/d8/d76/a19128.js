@@ -1,6 +1,7 @@
 var a19128 =
 [
-    [ "boss_nothAI", "d2/d7a/a19132.html", "d2/d7a/a19132" ],
-    [ "boss_noth", "d8/d76/a19128.html#a2760f1ec46a21f22de0e57527cbe9768", null ],
-    [ "GetAI", "d8/d76/a19128.html#a534f30792c051ab44c6c07c9347893e5", null ]
+    [ "HandleScript", "d8/d76/a19128.html#a66db3976fe6ec7ee8712c5788ce5f3ec", null ],
+    [ "PrepareAuraScript", "d8/d76/a19128.html#aa3053519be0101f55450d76b1291f0f7", null ],
+    [ "Register", "d8/d76/a19128.html#ada596a7f19115c7178fd07fb9e956f58", null ],
+    [ "Validate", "d8/d76/a19128.html#a768dec18bc0e879c457a64135ec27ad9", null ]
 ];

@@ -1,5 +1,8 @@
 var a19336 =
 [
-    [ "achievement_intense_cold", "d3/d48/a19336.html#a2377357d6bfc03e5b91354428d3da3de", null ],
-    [ "OnCheck", "d3/d48/a19336.html#ab8a774af80a7fb1764df97c9eea57ffc", null ]
+    [ "FilterTargets", "d3/d48/a19336.html#af6700817fd92dbe495e20d5c43b5d6b5", null ],
+    [ "Load", "d3/d48/a19336.html#a639105c26214d9887b84a482ca93eb26", null ],
+    [ "PrepareSpellScript", "d3/d48/a19336.html#a354ae20be436528b16095d4cd8d37859", null ],
+    [ "Register", "d3/d48/a19336.html#a5fcc9cc654d6495f535600a6eef4c968", null ],
+    [ "DrakeGUID", "d3/d48/a19336.html#ad4bbd7d559cdcc21ae5fafae75cd8eb3", null ]
 ];

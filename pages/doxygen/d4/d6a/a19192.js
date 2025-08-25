@@ -1,8 +1,10 @@
 var a19192 =
 [
-    [ "HandleAfterCast", "d4/d6a/a19192.html#ac816f81a668ac3018be8f5dc4698039b", null ],
-    [ "HandleDummy", "d4/d6a/a19192.html#a3009faa525c22779a0b2534b96821cfd", null ],
-    [ "PrepareSpellScript", "d4/d6a/a19192.html#aca38f23f080314ab73ec2494bf877716", null ],
-    [ "Register", "d4/d6a/a19192.html#aa87e57dabec6e83029f4dd84913f22ca", null ],
-    [ "Validate", "d4/d6a/a19192.html#af945e399992deb3aef5c81ad393ee50f", null ]
+    [ "boss_razuvious_minionAI", "d4/d6a/a19192.html#a6f9fc7dad68f35846ee76d4bff564407", null ],
+    [ "DoAction", "d4/d6a/a19192.html#a93cfa3f706ffadd94ad4dbe0585eebf1", null ],
+    [ "JustEngagedWith", "d4/d6a/a19192.html#ada2e7a5ac1f129572a0689afce49d310", null ],
+    [ "KilledUnit", "d4/d6a/a19192.html#ab1a6f582098c9d1218551af0aae1815d", null ],
+    [ "Reset", "d4/d6a/a19192.html#a170de8517a03a0e78b1e67652869fd9a", null ],
+    [ "ScheduleAttackDummy", "d4/d6a/a19192.html#abed82c71605d7c57bf29cedc21fc6b24", null ],
+    [ "UpdateAI", "d4/d6a/a19192.html#ad56fca0ae00fba6e575baefd72c7a8d0", null ]
 ];

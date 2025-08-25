@@ -1,13 +1,8 @@
 var a26976 =
 [
-    [ "CheckProc", "df/d16/a26976.html#abb43619da8154c1c9ebc9d164a2f6dc6", null ],
-    [ "HandleAfterApply", "df/d16/a26976.html#ac3c12801bde3bd259b573eeca6dc4d5b", null ],
-    [ "HandleApply", "df/d16/a26976.html#aaa07858f0604965fad5c1189125a822b", null ],
-    [ "HandleProc", "df/d16/a26976.html#a9fd416a5f8f8a405f40c41b9ef8b734e", null ],
-    [ "HandleRemove", "df/d16/a26976.html#a3da984d172878110b77549b51409d7e0", null ],
-    [ "Load", "df/d16/a26976.html#a644aaf343b41f049f34ff7387c613bf1", null ],
-    [ "PrepareAuraScript", "df/d16/a26976.html#aea23ff608c74017d98edcc146d3ba35a", null ],
-    [ "Register", "df/d16/a26976.html#a624d09c6f1a177912a1c7cab30d89c7b", null ],
-    [ "Validate", "df/d16/a26976.html#a34f1b7782dbf2dcc18eb803497104a13", null ],
-    [ "_procTarget", "df/d16/a26976.html#ac6c81bc1f9008c3861f99f4e89626969", null ]
+    [ "HandleEffect", "df/d16/a26976.html#a1c1a06362742abcf83e1817c468de3d3", null ],
+    [ "PrepareSpellScript", "df/d16/a26976.html#a0e2cce13a3b2c8b8e9ace8876def8b9c", null ],
+    [ "Register", "df/d16/a26976.html#a56108b37bc69809ce80d424e2bcb3f55", null ],
+    [ "SendMiss", "df/d16/a26976.html#afda727460aebc8fe97d5c18d0195ea2c", null ],
+    [ "Validate", "df/d16/a26976.html#ab9533351a176f4e0d641a6e36a75d6b9", null ]
 ];

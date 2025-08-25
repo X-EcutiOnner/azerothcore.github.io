@@ -1,9 +1,7 @@
 var a15992 =
 [
-    [ "boss_sartharion_vesperonAI", "db/d87/a15992.html#afd67bf2c7a479771976673b05b0fc29e", null ],
-    [ "ClearInstance", "db/d87/a15992.html#aad9556374e26cbea7641461510fef9ba", null ],
-    [ "ExecuteEvent", "db/d87/a15992.html#aaf88a9e57c0d35f9e5d3fbcd4e2f5d09", null ],
-    [ "HandleExtraEvent", "db/d87/a15992.html#ab2080a14c105aeb6a9c155cf6f4ec17d", null ],
-    [ "Reset", "db/d87/a15992.html#aacf26c52f77ef4eb084814934f00aab1", null ],
-    [ "SummonedCreatureDies", "db/d87/a15992.html#a1e6fc9b1c734e73e5e27f6a17cf65d0b", null ]
+    [ "OnRemove", "db/d87/a15992.html#afb0821bc8774e634eefdd87efe6af945", null ],
+    [ "PrepareAuraScript", "db/d87/a15992.html#a54b1de501bdf3193cdb89125bc1ceb0e", null ],
+    [ "Register", "db/d87/a15992.html#a985ad6d7eca06fbaf869e591136f46a3", null ],
+    [ "Validate", "db/d87/a15992.html#aa794b76c4d9590b867dda57f02724d95", null ]
 ];

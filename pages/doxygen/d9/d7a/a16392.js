@@ -1,6 +1,8 @@
 var a16392 =
 [
-    [ "npc_toc_druidAI", "d0/d5d/a16396.html", "d0/d5d/a16396" ],
-    [ "npc_toc_druid", "d9/d7a/a16392.html#a07321d5ee164b8e47f652f9bad65216b", null ],
-    [ "GetAI", "d9/d7a/a16392.html#a4f33e8f3649c0b398448cd01666cf92b", null ]
+    [ "npc_frost_sphereAI", "d9/d7a/a16392.html#ae697a98d23d94315768dc866852b6e07", null ],
+    [ "DamageTaken", "d9/d7a/a16392.html#a3960f19b456f29a33016d799809a82a8", null ],
+    [ "SpellHit", "d9/d7a/a16392.html#af842d47f1e8462fb6368e9dc7a070b84", null ],
+    [ "UpdateAI", "d9/d7a/a16392.html#a4e866332045135c867f2b9ee871db0c2", null ],
+    [ "permafrostTimer", "d9/d7a/a16392.html#adf7b1b447d0d05a498dd8603dbfab1ab", null ]
 ];

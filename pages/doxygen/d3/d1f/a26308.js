@@ -1,9 +1,8 @@
 var a26308 =
 [
-    [ "HandleAfterCast", "d3/d1f/a26308.html#ac08e632064c407346649f525d030d335", null ],
-    [ "HandleDummy", "d3/d1f/a26308.html#a9c1dadd5a3e2e039b50a414ac589ebf4", null ],
-    [ "Load", "d3/d1f/a26308.html#a177525c755b036a79263c0fa6fa4082e", null ],
-    [ "PrepareSpellScript", "d3/d1f/a26308.html#aed99b07a53068b19bddb4daff3449a52", null ],
-    [ "Register", "d3/d1f/a26308.html#a946e56a325d83656d9b43af80d065e45", null ],
-    [ "_triggerSpellId", "d3/d1f/a26308.html#a6697a22b684784853cb1999d41fcaaa7", null ]
+    [ "HandleEffectApply", "d3/d1f/a26308.html#aed959961fcd07649cd4914fcd38a3214", null ],
+    [ "if", "d3/d1f/a26308.html#a1518c08cb3b5cb716b8bd01692a5160d", null ],
+    [ "PrepareAuraScript", "d3/d1f/a26308.html#a42167bc6bf7992debea8582680251da4", null ],
+    [ "Register", "d3/d1f/a26308.html#aa2c23abd2b90a276bd7980cadc0397a4", null ],
+    [ "AuraEffectHandleModes", "d3/d1f/a26308.html#ac886dec8a2ce55af4ec58ab068c589fa", null ]
 ];

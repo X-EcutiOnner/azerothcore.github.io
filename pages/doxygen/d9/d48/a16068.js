@@ -1,11 +1,6 @@
 var a16068 =
 [
-    [ "boss_general_zarithrianAI", "d9/d48/a16068.html#a4168a5883052810d137f59d3b104bc24", null ],
-    [ "CheckEvadeIfOutOfCombatArea", "d9/d48/a16068.html#a22f6ff041e61c94df73a938162fa26f5", null ],
-    [ "JustDied", "d9/d48/a16068.html#a49be533142c82a95a136dc2dcbf4843c", null ],
-    [ "JustEngagedWith", "d9/d48/a16068.html#a9ec34e473b9d478277f472ab3bb7c7ef", null ],
-    [ "JustSummoned", "d9/d48/a16068.html#acb694d20b35d57a315aa4662562af210", null ],
-    [ "KilledUnit", "d9/d48/a16068.html#ad385477740b728e63acff7c184df3c09", null ],
-    [ "Reset", "d9/d48/a16068.html#a3093369d5f3c7e2a1a5828671ac0af0a", null ],
-    [ "UpdateAI", "d9/d48/a16068.html#a3a7e578d64a760cd38712c725eecc97d", null ]
+    [ "boss_baltharus_the_warbornAI", "dd/db5/a16072.html", "dd/db5/a16072" ],
+    [ "boss_baltharus_the_warborn", "d9/d48/a16068.html#aababb8862273d60f140dce675131783d", null ],
+    [ "GetAI", "d9/d48/a16068.html#afe7ecf8635c8c0a051047a801c2a8d54", null ]
 ];

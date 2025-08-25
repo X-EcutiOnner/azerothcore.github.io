@@ -1,6 +1,6 @@
 var a17968 =
 [
-    [ "npc_little_oozeAI", "dc/d24/a17972.html", "dc/d24/a17972" ],
-    [ "npc_little_ooze", "de/d77/a17968.html#a9b0849057c1d3dd9f6507b9c80e67a66", null ],
-    [ "GetAI", "de/d77/a17968.html#a3e56c6dbad6239485897655a4bfbbe07", null ]
+    [ "OnRemove", "de/d77/a17968.html#ab9c21998c71991ff74e6dfcf4d32f126", null ],
+    [ "PrepareAuraScript", "de/d77/a17968.html#a8fb5803b07022f9bd3d246216bac5abb", null ],
+    [ "Register", "de/d77/a17968.html#afa993cb14444989feac16c9fa2d7b8df", null ]
 ];

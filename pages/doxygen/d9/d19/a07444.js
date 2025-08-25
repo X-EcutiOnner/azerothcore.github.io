@@ -1,11 +1,11 @@
 var a07444 =
 [
-    [ "BattlegroundWGScore", "d9/d19/a07444.html#a43b7933c5e217376e5bb10e9b5bb208b", null ],
-    [ "BuildObjectivesBlock", "d9/d19/a07444.html#a804e56dbd666336d961cce2b0e4d6452", null ],
-    [ "GetAttr1", "d9/d19/a07444.html#aab49f39d88989b153f1eb979fbbfaeb3", null ],
-    [ "GetAttr2", "d9/d19/a07444.html#a191e205e08ef15cc36dabedc32614fd2", null ],
-    [ "UpdateScore", "d9/d19/a07444.html#aa560d7f5f13dd235d43a9e3571090055", null ],
-    [ "BattlegroundWS", "d9/d19/a07444.html#a4285b67c5d8593dce759422a4eb78c77", null ],
-    [ "FlagCaptures", "d9/d19/a07444.html#a23ff00f10d07c1a601e9e1d0eb05b1da", null ],
-    [ "FlagReturns", "d9/d19/a07444.html#ab400c9fb692ff157eb4809f0536c05f7", null ]
+    [ "BattlegroundSAScore", "d9/d19/a07444.html#afb1312e304eee973740cfe208657c5b9", null ],
+    [ "BuildObjectivesBlock", "d9/d19/a07444.html#a57bf8241b404571cda5a8e113c334eab", null ],
+    [ "GetAttr1", "d9/d19/a07444.html#aa31cd91ede928c57cd201dba61f7f585", null ],
+    [ "GetAttr2", "d9/d19/a07444.html#aba47bb1ec440f405bfde8513c60ae576", null ],
+    [ "UpdateScore", "d9/d19/a07444.html#a169a2a0a51edb6564e98c4b55f3e8a3b", null ],
+    [ "BattlegroundSA", "d9/d19/a07444.html#ab31c13442be48941f5dab4214b95cde9", null ],
+    [ "DemolishersDestroyed", "d9/d19/a07444.html#ac49c28efa42cfad7232268de4be45e66", null ],
+    [ "GatesDestroyed", "d9/d19/a07444.html#aeb1310b64150dd51f91722574a9dd3fc", null ]
 ];

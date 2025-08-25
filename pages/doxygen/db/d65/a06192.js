@@ -1,6 +1,6 @@
 var a06192 =
 [
-    [ "GameObjectAIFactory", "db/d65/a06192.html#a2f658540a81d207694b6d2d783009380", null ],
-    [ "Create", "db/d65/a06192.html#a94fa057baafbbad4b81b97aea34354a3", null ],
-    [ "Permit", "db/d65/a06192.html#ae8b7e45a73f87249e27a4dae596b0d52", null ]
+    [ "PermissibleOrderPred", "db/d65/a06192.html#a0f99979c533fb388a2086f419c110f2b", null ],
+    [ "operator()", "db/d65/a06192.html#a42027be1e7cb7a3589caeafea25d2f75", null ],
+    [ "_obj", "db/d65/a06192.html#a5872cf90e79107749c4900cb471b2f16", null ]
 ];

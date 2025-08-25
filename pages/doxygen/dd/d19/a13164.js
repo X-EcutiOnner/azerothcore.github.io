@@ -1,13 +1,5 @@
 var a13164 =
 [
-    [ "instance_shadowfang_keep_InstanceMapScript", "dd/d19/a13164.html#aabb179f16f6a61d1cfc842482880ea0b", null ],
-    [ "Initialize", "dd/d19/a13164.html#a8381b4ead52e3515359cc2c10d52c29a", null ],
-    [ "OnCreatureCreate", "dd/d19/a13164.html#a3f9cca96886b97f7657edc04f4997d41", null ],
-    [ "OnGameObjectCreate", "dd/d19/a13164.html#ad420b6b549b8d76a80844d81548b1143", null ],
-    [ "ReadSaveDataMore", "dd/d19/a13164.html#a83a24703aafb973809618d3ac3ac0375", null ],
-    [ "SetData", "dd/d19/a13164.html#abdc105e9306d9abc776259be97e2488f", null ],
-    [ "WriteSaveDataMore", "dd/d19/a13164.html#a8be19e9a77d3796d3c09e75c5b31c19c", null ],
-    [ "_apothecaryHummel", "dd/d19/a13164.html#a3f77ecd2edf0989fcb957b56153807eb", null ],
-    [ "_crazedApothecaryGeneratorGUIDs", "dd/d19/a13164.html#a00880eedbbc2deb4dc36e4c851558861", null ],
-    [ "_encounters", "dd/d19/a13164.html#acfc196d008166d7b9da9b85c1ef4521e", null ]
+    [ "npc_apothecary_frye", "dd/d19/a13164.html#a5546099958a9a267d237e65720588456", null ],
+    [ "JustDied", "dd/d19/a13164.html#ab1dc310e90c591b44ce4d5bcf1bac930", null ]
 ];

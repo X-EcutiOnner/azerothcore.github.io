@@ -1,6 +1,6 @@
 var a10756 =
 [
-    [ "PlayerSaveGuildEmblem", "dc/d2d/a10756.html#ae1269fb7583f0ce1703cd89d592b1485", null ],
-    [ "Write", "dc/d2d/a10756.html#a0427be2f46cba4ff6b2ca072924bca7b", null ],
-    [ "Error", "dc/d2d/a10756.html#a76930d3b74bf7b84a311b24b53d03b21", null ]
+    [ "GuildSetGuildMaster", "dc/d2d/a10756.html#ae6ca07252de719cc506042c8d3e8285e", null ],
+    [ "Read", "dc/d2d/a10756.html#a94f16e55a840c7cba991a119af5d8263", null ],
+    [ "NewMasterName", "dc/d2d/a10756.html#a02f37610492c75373266bb93000adcbf", null ]
 ];

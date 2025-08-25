@@ -1,9 +1,5 @@
 var a14188 =
 [
-    [ "HandleEffectPeriodic", "d9/dda/a14188.html#a798c8ddfc71e703bfe1e3c1f2d926cef", null ],
-    [ "HandleEffectRemove", "d9/dda/a14188.html#a96ed7366e568b70e82d622586740aa56", null ],
-    [ "Load", "d9/dda/a14188.html#a85cbc44e586330e2adfc0656a428bd7b", null ],
-    [ "PrepareAuraScript", "d9/dda/a14188.html#abd1f851112a50b79e815cdd894275bab", null ],
-    [ "Register", "d9/dda/a14188.html#aa3cd85aed063017c4737e7660fa81f37", null ],
-    [ "questTick", "d9/dda/a14188.html#ae2980e5f4934ce2ba5b755b7d45fab82", null ]
+    [ "go_brazier_of_madness", "d9/dda/a14188.html#aeb900e575be02244e62c6e5e4153c855", null ],
+    [ "GossipHello", "d9/dda/a14188.html#aba3af326b01cd045523434aec189fd47", null ]
 ];

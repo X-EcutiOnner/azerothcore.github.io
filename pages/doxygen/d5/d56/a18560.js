@@ -1,8 +1,8 @@
 var a18560 =
 [
-    [ "DecayPeriodicTimer", "d5/d56/a18560.html#a314ac33692cc352c490ec3d87177d67a", null ],
-    [ "Load", "d5/d56/a18560.html#af5a498253c4c382df3b2462a30448a64", null ],
-    [ "PrepareAuraScript", "d5/d56/a18560.html#ac5d4ee199b49e04499997355ac054554", null ],
-    [ "Register", "d5/d56/a18560.html#a1b59480ce384f09cecd47872b39cf3c5", null ],
-    [ "_decayRate", "d5/d56/a18560.html#a20c696ff06f9b48451d9eac43ccf5416", null ]
+    [ "npc_suppresserAI", "d5/d56/a18560.html#a5787ec6eadae1fc23b84129933ea14e8", null ],
+    [ "AttackStart", "d5/d56/a18560.html#ae36105de1df1dd9841332d9a8e7799be", null ],
+    [ "IsSummonedBy", "d5/d56/a18560.html#a35ec340b2d02a14707fc353428b1298d", null ],
+    [ "UpdateAI", "d5/d56/a18560.html#a1443e8311b6e2d61d6f9abd2e5f40793", null ],
+    [ "_instance", "d5/d56/a18560.html#a3e171216b2d53e00f8e504f47759d9a6", null ]
 ];

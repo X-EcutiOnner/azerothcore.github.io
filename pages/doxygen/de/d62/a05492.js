@@ -1,8 +1,9 @@
 var a05492 =
 [
-    [ "result_type", "de/d62/a05492.html#a20f96383bade76c6185d8f20f458784e", null ],
-    [ "Instance", "de/d62/a05492.html#a5ff7fcb1f8d34861b0c210eddc450681", null ],
-    [ "max", "de/d62/a05492.html#ad5dcf280f768ebd79210caf6ecff4290", null ],
-    [ "min", "de/d62/a05492.html#ab153ffca65139db4084745302dd4db7f", null ],
-    [ "operator()", "de/d62/a05492.html#afe5f6dd94cbc6add3fd13fa3fe37b60d", null ]
+    [ "IteratorPair", "de/d62/a05492.html#ad2e586dfd291c34c82ec71d66e59f36c", null ],
+    [ "IteratorPair", "de/d62/a05492.html#a446d4e8dd1146b053987d48d0dcef59d", null ],
+    [ "IteratorPair", "de/d62/a05492.html#ae8b79501762f0c0ba6e2d769c56e9f8f", null ],
+    [ "begin", "de/d62/a05492.html#a59ff07f1663a3f98f2e10a895ab37ae4", null ],
+    [ "end", "de/d62/a05492.html#aa515ca48852213fb51a4d83e9d5c91d2", null ],
+    [ "_iterators", "de/d62/a05492.html#a9b08728bc90076dd1db392982840c31e", null ]
 ];

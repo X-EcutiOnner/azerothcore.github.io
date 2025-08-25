@@ -1,17 +1,17 @@
 var a16272 =
 [
-    [ "boss_black_knightAI", "d8/da2/a16272.html#a46c906dfeb367134885dc5248b50dbd0", null ],
-    [ "DamageTaken", "d8/da2/a16272.html#a8a9b3f248f3d889b1804c387396d3054", null ],
-    [ "DoAction", "d8/da2/a16272.html#a1b16dda892b2e6c94352cf13e6b961f4", null ],
-    [ "EnterEvadeMode", "d8/da2/a16272.html#a77d1dc632828691fa07a543544bd266c", null ],
-    [ "JustDied", "d8/da2/a16272.html#a3bb0698d0d66e4a26e25569f97ea720d", null ],
-    [ "JustSummoned", "d8/da2/a16272.html#a58c32a4802a93755d7c8129c01901cdf", null ],
-    [ "KilledUnit", "d8/da2/a16272.html#a01121270bc30a75630e5da96c9f61519", null ],
-    [ "Reset", "d8/da2/a16272.html#ae67498247b9d631c4ca6af0acb1c76af", null ],
-    [ "SpellHitTarget", "d8/da2/a16272.html#a718a51ec39cb9a10225a7bc76a069a3b", null ],
-    [ "UpdateAI", "d8/da2/a16272.html#af8600ff24856d079df7e9c59f49850b2", null ],
-    [ "events", "d8/da2/a16272.html#a189de3b3ef51c7870399a7a31503ae24", null ],
-    [ "Phase", "d8/da2/a16272.html#ac25e3299bc9787d5bbad22263ebab235", null ],
-    [ "pInstance", "d8/da2/a16272.html#acde711225a78e54d4bc1e0fde41e951d", null ],
-    [ "summons", "d8/da2/a16272.html#a73e1c3688a853b70527e862efe05bc11", null ]
+    [ "boss_paletressAI", "d8/da2/a16272.html#a3bd22d082434895c4779b121f926a8c4", null ],
+    [ "DamageTaken", "d8/da2/a16272.html#a54af3ec8de6d0fdb17ae0499645a02bd", null ],
+    [ "DoAction", "d8/da2/a16272.html#a30babeb3c9644af4e9c6cbc879317299", null ],
+    [ "JustEngagedWith", "d8/da2/a16272.html#ab8e8485765502d39cb4311d92ac98441", null ],
+    [ "JustSummoned", "d8/da2/a16272.html#a82df372b8216703b8377ff334aa64684", null ],
+    [ "KilledUnit", "d8/da2/a16272.html#af9aa74ec5a3c88475734f864ec307563", null ],
+    [ "MovementInform", "d8/da2/a16272.html#a0ececc88bc520584d1c7baf8d7a5e7f6", null ],
+    [ "Reset", "d8/da2/a16272.html#af216c7ce539b5e8ce80223270f202603", null ],
+    [ "SummonMemory", "d8/da2/a16272.html#ae9daef57101d1ab25e9c6fb6980b05ff", null ],
+    [ "UpdateAI", "d8/da2/a16272.html#a6f8c8d20fbfff32d34cd30f9c3a757a6", null ],
+    [ "events", "d8/da2/a16272.html#a4b19d38e2a84097c7c47c434d66be052", null ],
+    [ "MemoryGUID", "d8/da2/a16272.html#a5b2d80b38623174b7913ed4d893f03c9", null ],
+    [ "pInstance", "d8/da2/a16272.html#a9ef97ec685e516e80b792fa1d7e891c1", null ],
+    [ "summoned", "d8/da2/a16272.html#a6064594bc0e9bd008b76d498f4cdc36c", null ]
 ];

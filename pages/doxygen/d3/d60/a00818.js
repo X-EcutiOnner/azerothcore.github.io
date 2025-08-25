@@ -1,7 +1,7 @@
 var a00818 =
 [
-    [ "CustomSpellValues", "d6/df0/a11156.html", "d6/df0/a11156" ],
-    [ "SpellImmune", "dc/d90/a11160.html", "dc/d90/a11160" ],
+    [ "CustomSpellValues", "d8/dcb/a11192.html", "d8/dcb/a11192" ],
+    [ "SpellImmune", "d1/d82/a11196.html", "d1/d82/a11196" ],
     [ "MAX_SPELLMOD", "d3/d60/a00818.html#ae3264dd4fffa9d9f378061c12b25b991", null ],
     [ "CustomSpellValueMod", "d3/d60/a00818.html#a9712a6b6a8f9f5f194085aed5e4ef7b4", null ],
     [ "SpellImmuneList", "d3/d60/a00818.html#af3217da0ade707b636c550ca6a151251", null ],

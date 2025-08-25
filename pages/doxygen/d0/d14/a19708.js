@@ -1,6 +1,6 @@
 var a19708 =
 [
-    [ "npc_collapsing_starAI", "d0/d14/a19708.html#ac389b380a8f315ae50a8cd809393a773", null ],
-    [ "DamageTaken", "d0/d14/a19708.html#a424fac98093eb9d02cda5027523ad06a", null ],
-    [ "JustSummoned", "d0/d14/a19708.html#ae70fcb66171fe5f87d96aaf2f52e35bc", null ]
+    [ "HandleApplyTouch", "d0/d14/a19708.html#a0c46c506f78f46f17c0de6caae774316", null ],
+    [ "PrepareSpellScript", "d0/d14/a19708.html#a2f32b735a8a72a6ef52744d3ce8ada8b", null ],
+    [ "Register", "d0/d14/a19708.html#a70382055564e4ead8b5da0d6bd20c67f", null ]
 ];

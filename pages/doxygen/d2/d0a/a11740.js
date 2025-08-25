@@ -1,8 +1,12 @@
 var a11740 =
 [
-    [ "pet_commandscript", "d2/d0a/a11740.html#a84595dcb908398e80deee0b0aa47e335", null ],
-    [ "GetCommands", "d2/d0a/a11740.html#a01026a4936774d2225d10e0f6e27b08c", null ],
-    [ "HandlePetCreateCommand", "d2/d0a/a11740.html#a993d06169aa0b0c4bbda38e124b6eea9", null ],
-    [ "HandlePetLearnCommand", "d2/d0a/a11740.html#a59a2a6bd9af23fe3a775319216337bda", null ],
-    [ "HandlePetUnlearnCommand", "d2/d0a/a11740.html#ae6d785cdde773b107ba5e619b039f7b8", null ]
+    [ "message_commandscript", "d2/d0a/a11740.html#a2b0b67076e1cb4c51964d13ec4ab9829", null ],
+    [ "GetCommands", "d2/d0a/a11740.html#a9fc83cb2d161a4158f98ec0b580bcc32", null ],
+    [ "HandleAnnounceCommand", "d2/d0a/a11740.html#a85e2965e4a8fe01ba4a7775a28ef0005", null ],
+    [ "HandleGMAnnounceCommand", "d2/d0a/a11740.html#ac927dceadf96feebf4301ea37b5aec1d", null ],
+    [ "HandleGMNameAnnounceCommand", "d2/d0a/a11740.html#aa667bd6e81cf7c3dbabfa40d08c45475", null ],
+    [ "HandleGMNotifyCommand", "d2/d0a/a11740.html#a0ff57aadce36fddb3c0d36adea8a3e28", null ],
+    [ "HandleNameAnnounceCommand", "d2/d0a/a11740.html#a786902b70345712c6dba9f638695dd9e", null ],
+    [ "HandleNotifyCommand", "d2/d0a/a11740.html#a0d53b2414931451b30abd2fe5acee1af", null ],
+    [ "HandleWhispersCommand", "d2/d0a/a11740.html#a9a02c97677250136f9717968a9f47b73", null ]
 ];

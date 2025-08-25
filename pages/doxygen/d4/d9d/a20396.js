@@ -1,6 +1,6 @@
 var a20396 =
 [
-    [ "HandleInstaKill", "d4/d9d/a20396.html#a593786eb89bf77e05dad4b502ffc1925", null ],
-    [ "PrepareSpellScript", "d4/d9d/a20396.html#aa89401a4c6b1c85e4242bda45933b0ad", null ],
-    [ "Register", "d4/d9d/a20396.html#a46f2c2658e6b55f091bf8894f06a787c", null ]
+    [ "boss_kologarn_armsAI", "de/d96/a20400.html", "de/d96/a20400" ],
+    [ "boss_kologarn_arms", "d4/d9d/a20396.html#ad540d28bb4b8a2be0ca0769f114c3eda", null ],
+    [ "GetAI", "d4/d9d/a20396.html#a9ffe4db97d937e01c5ab2008a011f67d", null ]
 ];

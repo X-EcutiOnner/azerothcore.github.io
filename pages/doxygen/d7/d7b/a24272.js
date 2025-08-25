@@ -1,6 +1,5 @@
 var a24272 =
 [
-    [ "npc_shattrathflaskvendors", "d7/d7b/a24272.html#ab74b234406c2022bf519242a7842458a", null ],
-    [ "OnGossipHello", "d7/d7b/a24272.html#af165d6f4640b41a92b36d77c1f1c1161", null ],
-    [ "OnGossipSelect", "d7/d7b/a24272.html#ad9eb60422dfc663e6d020a630c09ee05", null ]
+    [ "go_crystal_prison", "d7/d7b/a24272.html#a0faca8b76f9650ee5cc7825b90463365", null ],
+    [ "OnQuestAccept", "d7/d7b/a24272.html#ad19d8bdf8361d5d7fca2917a6bf0977a", null ]
 ];

@@ -1,6 +1,9 @@
 var a13608 =
 [
-    [ "OnEffect", "d1/dc9/a13608.html#a41903586310ec274dd10537ccb8655f3", null ],
-    [ "PrepareSpellScript", "d1/dc9/a13608.html#a17240b9d80e5f30cd4638e2ec5b92d0b", null ],
-    [ "Register", "d1/dc9/a13608.html#a64ef9effcdeaf13b58aeef889d777f22", null ]
+    [ "npc_partygoer", "d1/dc9/a13608.html#af053caedfd1fa8173b875f521d279418", null ],
+    [ "Initialize", "d1/dc9/a13608.html#a9012ff95e5cead3c02f9eeb30f29a9f6", null ],
+    [ "Reset", "d1/dc9/a13608.html#ad1936099ec5696a2a593e5041b0360c6", null ],
+    [ "UpdateAI", "d1/dc9/a13608.html#a423df8a3de7d23221ea4d62a0c65fefc", null ],
+    [ "_events", "d1/dc9/a13608.html#ad5095ee005ecb89ca54b0663d41e20ac", null ],
+    [ "_facing", "d1/dc9/a13608.html#a9e934091894987ec091b03090bf733e5", null ]
 ];

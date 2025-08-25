@@ -1,6 +1,7 @@
 var a18604 =
 [
-    [ "npc_rotting_frost_giantAI", "d6/d71/a18608.html", "d6/d71/a18608" ],
-    [ "npc_rotting_frost_giant", "de/de5/a18604.html#ad4440216e11a00d97af43dc5f3957e95", null ],
-    [ "GetAI", "de/de5/a18604.html#aabc388b3690f2d03e903c7f480d52842", null ]
+    [ "PeriodicTick", "de/de5/a18604.html#ac1bace4fc66349364c84b5784967e9bf", null ],
+    [ "PrepareAuraScript", "de/de5/a18604.html#a358193e3340112c04f79c043548c3de0", null ],
+    [ "Register", "de/de5/a18604.html#a28f52bc253899aa407e67f9a089c815c", null ],
+    [ "Validate", "de/de5/a18604.html#a0dde3447e38e45cea94df44449a19a01", null ]
 ];

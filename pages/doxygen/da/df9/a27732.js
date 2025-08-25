@@ -1,7 +1,9 @@
 var a27732 =
 [
-    [ "npc_flameshocker", "da/df9/a27732.html#ac1631ee1802a4014d71bd86567f5d5dd", null ],
-    [ "JustDied", "da/df9/a27732.html#aba94a5bcec75c649049d5816a53ace58", null ],
-    [ "Reset", "da/df9/a27732.html#a13cb88e2b33df2d910fb73053684b420", null ],
-    [ "UpdateAI", "da/df9/a27732.html#adca7cd4e6ac78c0425d4377d66669f40", null ]
+    [ "npc_herald_of_the_lich_king", "da/df9/a27732.html#a62e373796ce4e6509692e6837cdb561f", null ],
+    [ "ChangeZoneEventStatus", "da/df9/a27732.html#a30c44f2f62badd27b105a55527d40670", null ],
+    [ "DoAction", "da/df9/a27732.html#a0ae389e7c2b5d380cb58df1cb9453f94", null ],
+    [ "InitializeAI", "da/df9/a27732.html#a17e1ad9a9107a71697cd9816e5694e40", null ],
+    [ "UpdateAI", "da/df9/a27732.html#a21a5093a46959f4b69777b63de12c557", null ],
+    [ "UpdateWeather", "da/df9/a27732.html#a3c6d076171596c9ce472cddda18a42be", null ]
 ];

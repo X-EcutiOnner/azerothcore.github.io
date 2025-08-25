@@ -1,7 +1,6 @@
 var a05084 =
 [
-    [ "WModelRayCallBack", "d5/d56/a05084.html#ac234cf795a07aab6e456c608dd80bbea", null ],
-    [ "operator()", "d5/d56/a05084.html#a8f658081b44bda2527aa568a139bfd14", null ],
-    [ "hit", "d5/d56/a05084.html#a014e322fc087c2f07617361e0bc585e3", null ],
-    [ "models", "d5/d56/a05084.html#aaad14391ed1379dc3c367e6e522b1150", null ]
+    [ "TriBoundFunc", "d5/d56/a05084.html#a42711c10595c048420a09e35e3345229", null ],
+    [ "operator()", "d5/d56/a05084.html#a026d443e9156f884a21351700b6c69dd", null ],
+    [ "vertices", "d5/d56/a05084.html#a3c5d3e61f9a963eacf4aff4e90d8e1bb", null ]
 ];

@@ -1,7 +1,5 @@
 var a20384 =
 [
-    [ "StoneGripTargetSelector", "db/dbc/a20384.html#a74fc772e2bc0694dee05fe82de4463e2", null ],
-    [ "operator()", "db/dbc/a20384.html#ae40653def55e656f2347029a97605395", null ],
-    [ "_me", "db/dbc/a20384.html#ae5781d6b553491a1e3e8bfde2b965c3a", null ],
-    [ "_victim", "db/dbc/a20384.html#a09c3c6f832c20776f11b72a468a4b0bb", null ]
+    [ "achievement_ignis_shattered", "db/dbc/a20384.html#adbe893b0dd409eb3f10768f81f182f61", null ],
+    [ "OnCheck", "db/dbc/a20384.html#a8a77a6e6979b4b09f5208e51b4faa4c1", null ]
 ];

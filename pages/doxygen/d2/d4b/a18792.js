@@ -1,9 +1,7 @@
 var a18792 =
 [
-    [ "npc_icc_skybreaker_marksmanAI", "d2/d4b/a18792.html#af6d3e79627102acbf764aa7ee8c7433b", null ],
-    [ "AttackStart", "d2/d4b/a18792.html#a82403eecdea07bfc8ed9509eb5a30dcd", null ],
-    [ "JustEngagedWith", "d2/d4b/a18792.html#a7648c626ded6d3abef798b46c77f991d", null ],
-    [ "Reset", "d2/d4b/a18792.html#acaaac3624e262d89920fa8a7da9e3cc0", null ],
-    [ "UpdateAI", "d2/d4b/a18792.html#affcd7c16fe4a50a0743c0f9bb5a9d321", null ],
-    [ "events", "d2/d4b/a18792.html#a5aaffc1e78c255c95893be1537e520d6", null ]
+    [ "OnPeriodic", "d2/d4b/a18792.html#a32c4b856d6248062fbdc1dea13d876ac", null ],
+    [ "PrepareAuraScript", "d2/d4b/a18792.html#a87260a1cd06190f5412f3cab0f448a01", null ],
+    [ "Register", "d2/d4b/a18792.html#a00827210671b959a030655f6be5edac6", null ],
+    [ "Validate", "d2/d4b/a18792.html#a7163fb09fd8568a7ef5a5c37147ed5b0", null ]
 ];

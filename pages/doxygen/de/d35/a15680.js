@@ -1,7 +1,7 @@
 var a15680 =
 [
-    [ "npc_lakota_windsongAI", "de/d35/a15680.html#a922172a38ca75adef66a2653eda7fa98", null ],
-    [ "DoSpawnBandits", "de/d35/a15680.html#aa63601ac87b674cb5d0594213d1e7ea9", null ],
-    [ "Reset", "de/d35/a15680.html#aee7a86275f93021e0e5db249b636bcd4", null ],
-    [ "WaypointReached", "de/d35/a15680.html#a6435c8b1521206789131889e5fa527a6", null ]
+    [ "npc_giltharesAI", "d8/d2a/a15684.html", "d8/d2a/a15684" ],
+    [ "npc_gilthares", "de/d35/a15680.html#af1e0746350b32b68825710e1c3ed91a5", null ],
+    [ "GetAI", "de/d35/a15680.html#a96293e28237a092c64f6a91d91bc7ff3", null ],
+    [ "OnQuestAccept", "de/d35/a15680.html#a018cc6240a79216acb371241f63e3234", null ]
 ];

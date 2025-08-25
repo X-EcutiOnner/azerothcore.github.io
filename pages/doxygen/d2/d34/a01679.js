@@ -1,10 +1,10 @@
 var a01679 =
 [
-    [ "SplineHandler", "de/dcc/a08680.html", "de/dcc/a08680" ],
-    [ "spellIdImmunityPredicate", "d6/d46/a08684.html", "d6/d46/a08684" ],
-    [ "ProcTriggeredData", "d0/d01/a08688.html", "d0/d01/a08688" ],
-    [ "AuraMunchingQueue", "d1/da6/a08692.html", "d1/da6/a08692" ],
-    [ "ResetToHomeOrientation", "d3/d01/a08696.html", "d3/d01/a08696" ],
+    [ "SplineHandler", "d0/d01/a08688.html", "d0/d01/a08688" ],
+    [ "spellIdImmunityPredicate", "d1/da6/a08692.html", "d1/da6/a08692" ],
+    [ "ProcTriggeredData", "d3/d01/a08696.html", "d3/d01/a08696" ],
+    [ "AuraMunchingQueue", "d7/d6b/a08700.html", "d7/d6b/a08700" ],
+    [ "ResetToHomeOrientation", "d9/dad/a08704.html", "d9/dad/a08704" ],
     [ "ProcTriggeredList", "d2/d34/a01679.html#af5ec5d5b1ba4d4454c1bdcbc139de758", null ],
     [ "createProcExtendMask", "d2/d34/a01679.html#afb539370dad036ff97905efdbb4270c0", null ],
     [ "createProcFlags", "d2/d34/a01679.html#a7d920511c20f084098c0f68a75006159", null ],

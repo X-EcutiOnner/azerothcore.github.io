@@ -1,9 +1,6 @@
 var a10908 =
 [
-    [ "TotemCreated", "db/d56/a10908.html#a24c9e483d1edb526330311c719d750df", null ],
-    [ "Write", "db/d56/a10908.html#a554900ae7442f00a63c983ea7ea74510", null ],
-    [ "Duration", "db/d56/a10908.html#aff6335b86ac051bccb623124905c7180", null ],
-    [ "Slot", "db/d56/a10908.html#a0889c816fbef728f1a0a6c530c801eac", null ],
-    [ "SpellID", "db/d56/a10908.html#a2fe9f98b653d7c2afcf3166e86f3756e", null ],
-    [ "Totem", "db/d56/a10908.html#a684d15c5368e8065c78e9320eebb676b", null ]
+    [ "PetLearnedSpell", "db/d56/a10908.html#a5d105cca08515b9550998f2c86b13a1a", null ],
+    [ "Write", "db/d56/a10908.html#a6fd7d4bc907b0bb78c438e6a9159dc69", null ],
+    [ "SpellID", "db/d56/a10908.html#a6ab11b614f13d518a2a007adfbe00ab7", null ]
 ];

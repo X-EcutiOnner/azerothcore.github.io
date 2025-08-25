@@ -1,7 +1,6 @@
 var a26256 =
 [
-    [ "HandleApplyEffect", "dd/ddf/a26256.html#af95120b26a165196e0310956c245f36f", null ],
-    [ "HandleRemoveEffect", "dd/ddf/a26256.html#a59e7d23c969b03aa75ef1da3bf42f6e9", null ],
-    [ "PrepareAuraScript", "dd/ddf/a26256.html#ae19e002407db1466f0655db3d14fe0d7", null ],
-    [ "Register", "dd/ddf/a26256.html#ae776a5e913fcf1553b7e2a00374a1ee6", null ]
+    [ "FilterTargets", "dd/ddf/a26256.html#a23c7b977f7e213322b3702367d6a28c7", null ],
+    [ "PrepareSpellScript", "dd/ddf/a26256.html#a7000b2fd940c914933c486e847932b62", null ],
+    [ "Register", "dd/ddf/a26256.html#a870ee08d0341f6640710a87c97a6b98b", null ]
 ];

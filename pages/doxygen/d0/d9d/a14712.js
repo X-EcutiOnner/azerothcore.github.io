@@ -1,29 +1,7 @@
 var a14712 =
 [
-    [ "instance_mount_hyjal_InstanceMapScript", "d0/d9d/a14712.html#ab824542973eede5a3a3f7dc995e8cc28", null ],
-    [ "GetData", "d0/d9d/a14712.html#ae30c50dfcced56db0c3f42c4deb2bef9", null ],
-    [ "Initialize", "d0/d9d/a14712.html#ac3fffb02ed557b60e22852bdd79cdc9a", null ],
-    [ "OnCreatureCreate", "d0/d9d/a14712.html#a28b8c1e3332dd9ccce42fd3fcb262e2f", null ],
-    [ "OnGameObjectCreate", "d0/d9d/a14712.html#a2048cde72727c5d6b493d67b56ed91f8", null ],
-    [ "OnPlayerInWaterStateUpdate", "d0/d9d/a14712.html#ac07e909721d1416608ea01e8819e3b00", null ],
-    [ "OnUnitDeath", "d0/d9d/a14712.html#a1626532eb4df7ae481032fb9991c5d8f", null ],
-    [ "ResetWaves", "d0/d9d/a14712.html#a183567e69317fe373bf1b17a2a767063", null ],
-    [ "ScheduleWaves", "d0/d9d/a14712.html#afdcceea6e0459b9c5c1e4098227d20dd", null ],
-    [ "SetData", "d0/d9d/a14712.html#a87fd932691795e2d3fb9c8e6de12a20f", null ],
-    [ "Update", "d0/d9d/a14712.html#a4f3824bd9afad19cbffa05c62fdf517b", null ],
-    [ "_ancientGemAlliance", "d0/d9d/a14712.html#a1dc1a47ecf057b4d08e9827c5a859213", null ],
-    [ "_ancientGemHorde", "d0/d9d/a14712.html#a3cd0132363583f8ab24f37e74743abd8", null ],
-    [ "_baseAlliance", "d0/d9d/a14712.html#add9c97be76cdb85bb0cfd24bdf5c99e9", null ],
-    [ "_baseHorde", "d0/d9d/a14712.html#a74d576ec11f4b6027b42ed503e54d3e3", null ],
-    [ "_baseNightElf", "d0/d9d/a14712.html#a4f6a23e1e4c3c406a169908dddc64c00", null ],
-    [ "_bossWave", "d0/d9d/a14712.html#a57e6038adc5c5bfcf30c79559de8dd1e", null ],
-    [ "_currentWave", "d0/d9d/a14712.html#a419ef8bcf249e7aac9c8ea11611fb0c1", null ],
-    [ "_encounterNPCs", "d0/d9d/a14712.html#ae8cdcced3902234317dc419bd04126e0", null ],
-    [ "_infernalTargets", "d0/d9d/a14712.html#a6d48f27c687dc23bb2e60cae55fd33f4", null ],
-    [ "_initialWaves", "d0/d9d/a14712.html#a62fcbef0038fe9a7138acf202d6e7378", null ],
-    [ "_retreat", "d0/d9d/a14712.html#ad9242c9a8e4ea51243b8e526eb82a51b", null ],
-    [ "_roaringFlameAlliance", "d0/d9d/a14712.html#a9c5f35107d7e4311e7d8f65a6eccfb7a", null ],
-    [ "_roaringFlameHorde", "d0/d9d/a14712.html#ac4a2ec6b3fb06cfd9b11486e62e076a3", null ],
-    [ "_summonedNPCs", "d0/d9d/a14712.html#a9bea0d89252e7b6154b2acd67960818a", null ],
-    [ "_trash", "d0/d9d/a14712.html#af7ce9eec953c1986b618b8e3be02ec1a", null ]
+    [ "hyjalThrallAI", "d5/dd8/a14716.html", "d5/dd8/a14716" ],
+    [ "npc_hyjal_thrall", "d0/d9d/a14712.html#a232f085f208a47f7fae08128de1d06b8", null ],
+    [ "GetAI", "d0/d9d/a14712.html#a699b5df19e4e84166348ecfba2dd0172", null ],
+    [ "OnGossipSelect", "d0/d9d/a14712.html#af833f26d79d34655c010aa04f984a94a", null ]
 ];

@@ -1,9 +1,7 @@
 var a11464 =
 [
-    [ "bytes", "d8/d59/a11464.html#a3a2997d203c186bc3cd54a9ba4235319", null ],
-    [ "bytes", "d8/d59/a11464.html#a8484412ccb13cf396a4dc28b86f65b4e", null ],
-    [ "bytes", "d8/d59/a11464.html#ad0213e5de805b0decb4730efa2d412e0", null ],
-    [ "ints", "d8/d59/a11464.html#a0518eb4b0a91697500a5a370068425a8", null ],
-    [ "ints", "d8/d59/a11464.html#a08efba5e78b64fef020453f689bcc5f0", null ],
-    [ "ints", "d8/d59/a11464.html#a36edc530bfb803c2f122e6758d20193a", null ]
+    [ "PlayerGuid", "d8/d59/a11464.html#a629a600c48376d04293c225390f747ff", null ],
+    [ "PrimaryKey", "d8/d59/a11464.html#a7c1ef4d19fb49e5813868ff2ccfe12fc", null ],
+    [ "StoredType", "d8/d59/a11464.html#a9bea7cf549813010b55c23417d65edc6", null ],
+    [ "TableName", "d8/d59/a11464.html#a0f308af88812c110c490c94368bda482", null ]
 ];

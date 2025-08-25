@@ -1,20 +1,17 @@
 var a03443 =
 [
-    [ "npc_professor_phizzlethorpe", "db/de7/a13508.html", "db/de7/a13508" ],
-    [ "npc_professor_phizzlethorpe::npc_professor_phizzlethorpeAI", "db/d83/a13512.html", "db/d83/a13512" ],
-    [ "ProfessorPhizzlethorpe", "d8/df8/a03443.html#a2fbc348d7cc479e3131e261e4a86f0a1", [
-      [ "SAY_PROGRESS_1", "d8/df8/a03443.html#a2fbc348d7cc479e3131e261e4a86f0a1ac7ef023ed2cd6e71dcfa4b57f34ffb21", null ],
-      [ "SAY_PROGRESS_2", "d8/df8/a03443.html#a2fbc348d7cc479e3131e261e4a86f0a1a967473f354dae95832b5e82733f4cced", null ],
-      [ "SAY_PROGRESS_3", "d8/df8/a03443.html#a2fbc348d7cc479e3131e261e4a86f0a1a25cbd1006b2e610756fbd3227fb87dcc", null ],
-      [ "EMOTE_PROGRESS_4", "d8/df8/a03443.html#a2fbc348d7cc479e3131e261e4a86f0a1a35c4fc6952e57458ffc3e74698dd2769", null ],
-      [ "SAY_AGGRO", "d8/df8/a03443.html#a2fbc348d7cc479e3131e261e4a86f0a1a47c752fff069f3e55065795eef2a9bfe", null ],
-      [ "SAY_PROGRESS_5", "d8/df8/a03443.html#a2fbc348d7cc479e3131e261e4a86f0a1aeee7fea4c8b3b6d3b0732bcde69433f3", null ],
-      [ "SAY_PROGRESS_6", "d8/df8/a03443.html#a2fbc348d7cc479e3131e261e4a86f0a1a36a5f74e6995b5cd9d8df351e57bfa84", null ],
-      [ "SAY_PROGRESS_7", "d8/df8/a03443.html#a2fbc348d7cc479e3131e261e4a86f0a1a9e815bbd308d3234b2feecf6dcd4e4cd", null ],
-      [ "EMOTE_PROGRESS_8", "d8/df8/a03443.html#a2fbc348d7cc479e3131e261e4a86f0a1a09177823914cf4cba524cd102c309c4e", null ],
-      [ "SAY_PROGRESS_9", "d8/df8/a03443.html#a2fbc348d7cc479e3131e261e4a86f0a1a0d013e69b765c1cc9024427c5967dbdf", null ],
-      [ "QUEST_SUNKEN_TREASURE", "d8/df8/a03443.html#a2fbc348d7cc479e3131e261e4a86f0a1a70619c446edf1e13b81824e234d2c7f3", null ],
-      [ "NPC_VENGEFUL_SURGE", "d8/df8/a03443.html#a2fbc348d7cc479e3131e261e4a86f0a1aa30485aedeea21658a4aa93a8f361873", null ]
+    [ "npc_daphne_stilwell", "dd/dda/a13812.html", "dd/dda/a13812" ],
+    [ "npc_daphne_stilwell::npc_daphne_stilwellAI", "d0/d6a/a13816.html", "d0/d6a/a13816" ],
+    [ "DaphneStilwell", "d8/df8/a03443.html#a49d1cb4d511d2524f3bf3459da05a2fd", [
+      [ "SAY_DS_START", "d8/df8/a03443.html#a49d1cb4d511d2524f3bf3459da05a2fdaa12c38d2f57b101a5272dde45bbf430e", null ],
+      [ "SAY_DS_DOWN_1", "d8/df8/a03443.html#a49d1cb4d511d2524f3bf3459da05a2fda75bd441fc5d22c60e256684d8664aa46", null ],
+      [ "SAY_DS_DOWN_2", "d8/df8/a03443.html#a49d1cb4d511d2524f3bf3459da05a2fda2fd750f4c8a0d85a69375e139be43d75", null ],
+      [ "SAY_DS_DOWN_3", "d8/df8/a03443.html#a49d1cb4d511d2524f3bf3459da05a2fda14433601b23e5a16dcc971ea746d1128", null ],
+      [ "SAY_DS_PROLOGUE", "d8/df8/a03443.html#a49d1cb4d511d2524f3bf3459da05a2fda402570a024e9b48018ca6b53ff7b83f8", null ],
+      [ "SPELL_SHOOT", "d8/df8/a03443.html#a49d1cb4d511d2524f3bf3459da05a2fda1b728fa1bb0194534b5b491d35ed871c", null ],
+      [ "QUEST_TOME_VALOR", "d8/df8/a03443.html#a49d1cb4d511d2524f3bf3459da05a2fda041a2f4b3f03948fc2f61e32e673973c", null ],
+      [ "NPC_DEFIAS_RAIDER", "d8/df8/a03443.html#a49d1cb4d511d2524f3bf3459da05a2fda8455beedf9f49cb74c0f11bfb5a83050", null ],
+      [ "EQUIP_ID_RIFLE", "d8/df8/a03443.html#a49d1cb4d511d2524f3bf3459da05a2fda31e0ac414da424f6923680055dd801d3", null ]
     ] ],
-    [ "AddSC_arathi_highlands", "d8/df8/a03443.html#a1e4a782474f0928dbacdf32c0ba395fd", null ]
+    [ "AddSC_westfall", "d8/df8/a03443.html#a9c6e961944f462fc3c48a6400c76266c", null ]
 ];

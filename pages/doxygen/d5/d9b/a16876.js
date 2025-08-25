@@ -1,12 +1,15 @@
 var a16876 =
 [
-    [ "npc_phantom_mageAI", "d5/d9b/a16876.html#ac919dc1ba167cc68714320f9351b99d0", null ],
-    [ "AttackStart", "d5/d9b/a16876.html#ade9ba7071cff655f2c0133481cb9c2bc", null ],
-    [ "DoAction", "d5/d9b/a16876.html#a6c66df8b8e59a9dc62f1f944da2afc2c", null ],
-    [ "EnterEvadeMode", "d5/d9b/a16876.html#a6ca0be233e8866b6154fa6e7164b856d", null ],
-    [ "JustDied", "d5/d9b/a16876.html#a3a522e4c741bc321469ed87c10cf7904", null ],
-    [ "JustEngagedWith", "d5/d9b/a16876.html#a5a1bf4aaf716674a63e31d24ae4a5d7c", null ],
-    [ "Reset", "d5/d9b/a16876.html#a5c29c8d54956a0917df3997118348590", null ],
-    [ "UpdateAI", "d5/d9b/a16876.html#a7135acfbc36212306a68fc8b758e2881", null ],
-    [ "events", "d5/d9b/a16876.html#afa0f0b5cac0759db324cea7c64463f75", null ]
+    [ "boss_falricAI", "d5/d9b/a16876.html#a8b333fe1571f98b4e9f44152d130a22d", null ],
+    [ "DoAction", "d5/d9b/a16876.html#a2a7de8f939cd3cdc113c841da36e28c8", null ],
+    [ "EnterEvadeMode", "d5/d9b/a16876.html#aacb6a3b13fe5ea08ab2ff0e77ff841a4", null ],
+    [ "JustDied", "d5/d9b/a16876.html#a4ee3163afcda23102d639740fd628f39", null ],
+    [ "JustEngagedWith", "d5/d9b/a16876.html#ae5a8b14e1984dbd2866af7c442c02df2", null ],
+    [ "KilledUnit", "d5/d9b/a16876.html#a4a8b45eb85c1328af6beec69f2db1842", null ],
+    [ "Reset", "d5/d9b/a16876.html#a0af8ef161bc2a37a5c7f7fa880194251", null ],
+    [ "UpdateAI", "d5/d9b/a16876.html#a640036111dcd14e40016342ffdef7d63", null ],
+    [ "events", "d5/d9b/a16876.html#aa94ca00db157378071b78142b213de23", null ],
+    [ "pInstance", "d5/d9b/a16876.html#aebeae3541bbbf392c44fd52516bb2d98", null ],
+    [ "startFightTimer", "d5/d9b/a16876.html#addd560074b840aed36f41883f893340e", null ],
+    [ "uiHopelessnessCount", "d5/d9b/a16876.html#a0ad83fb57263116a59976834c6667ea9", null ]
 ];

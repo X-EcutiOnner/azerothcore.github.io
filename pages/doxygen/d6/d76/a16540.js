@@ -1,6 +1,6 @@
 var a16540 =
 [
-    [ "npc_mistress_of_painAI", "dd/d0e/a16544.html", "dd/d0e/a16544" ],
-    [ "npc_mistress_of_pain", "d6/d76/a16540.html#a0261ed835454725e0e5629c295be4330", null ],
-    [ "GetAI", "d6/d76/a16540.html#ae32e9b907e2e31556e72d7feb4e24e8a", null ]
+    [ "npc_toc_pet_warlockAI", "dd/d0e/a16544.html", "dd/d0e/a16544" ],
+    [ "npc_toc_pet_warlock", "d6/d76/a16540.html#a4703f506d677d7e490c6813c6d9b060b", null ],
+    [ "GetAI", "d6/d76/a16540.html#aebcaff82726508a14028cb22a1ef944b", null ]
 ];

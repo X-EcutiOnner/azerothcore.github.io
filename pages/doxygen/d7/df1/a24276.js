@@ -1,6 +1,6 @@
 var a24276 =
 [
-    [ "npc_zephyr", "d7/df1/a24276.html#a3bad7bf2bd3b193960f1f53cd7d8349d", null ],
-    [ "OnGossipHello", "d7/df1/a24276.html#a31e132e80a19bb6e63787fcdf7ffd466", null ],
-    [ "OnGossipSelect", "d7/df1/a24276.html#a9b1f5a0d4ba24e65dda521bc94574ad8", null ]
+    [ "npc_enraged_spiritAI", "df/d96/a24280.html", "df/d96/a24280" ],
+    [ "npc_enraged_spirit", "d7/df1/a24276.html#a17d9e2e5fb8f2795fdeff26567bbf85f", null ],
+    [ "GetAI", "d7/df1/a24276.html#aa10d5f0147cf4064a49df735ac95575e", null ]
 ];

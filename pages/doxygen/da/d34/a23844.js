@@ -1,6 +1,6 @@
 var a23844 =
 [
-    [ "HandleScriptEffect", "da/d34/a23844.html#acfe80e22e6c78dba50155f7f20c0678b", null ],
-    [ "PrepareSpellScript", "da/d34/a23844.html#a17cb5f874343bd40c6aafaf9d627b047", null ],
-    [ "Register", "da/d34/a23844.html#a4bb5cfd2cc8503b3a840fc68624a33c1", null ]
+    [ "AfterRemove", "da/d34/a23844.html#a1794dcf8ebca0bd0c4fce5acb8b45de0", null ],
+    [ "PrepareAuraScript", "da/d34/a23844.html#ad5871ce865820456177362c6b790778f", null ],
+    [ "Register", "da/d34/a23844.html#a41e19fb2509051bbd2d9e43c59f16486", null ]
 ];

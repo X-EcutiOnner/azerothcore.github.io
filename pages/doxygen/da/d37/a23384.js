@@ -1,5 +1,5 @@
 var a23384 =
 [
-    [ "go_main_chambers_access_panel", "da/d37/a23384.html#a30c3c20be1892b5107ef53683d593b75", null ],
-    [ "OnGossipHello", "da/d37/a23384.html#af4b3a4a0260de68dcfac7202e0a728ee", null ]
+    [ "boss_quagmirran", "da/d37/a23384.html#a7f6289b86216b052f434a1417023e22c", null ],
+    [ "JustEngagedWith", "da/d37/a23384.html#a28253b6653bd2e26e7f246c71a88b625", null ]
 ];

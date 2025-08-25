@@ -1,11 +1,8 @@
 var a08080 =
 [
-    [ "FormationInfo", "d7/df6/a08080.html#ad00d7dd0ac811a3805a8ba2c9c1e73df", null ],
-    [ "HasGroupFlag", "d7/df6/a08080.html#afc612acf30e8d0a047aac5b0fc2dc07b", null ],
-    [ "follow_angle", "d7/df6/a08080.html#a928ce7047d511c316a5367faf7f96673", null ],
-    [ "follow_dist", "d7/df6/a08080.html#a3b59ee5129e208cc3df407a921362393", null ],
-    [ "groupAI", "d7/df6/a08080.html#af9f6dc52999efef6f0819bb8d1670fec", null ],
-    [ "leaderGUID", "d7/df6/a08080.html#ad5af23397ae1ae835a72ce125d102ef0", null ],
-    [ "point_1", "d7/df6/a08080.html#a84298ff533bebc633689742c7f9299ae", null ],
-    [ "point_2", "d7/df6/a08080.html#acc308b497de18211b99eec4311b256a4", null ]
+    [ "TrainerSpellData", "d7/df6/a08080.html#ab58a8a4ca9d8b609131e7f8b3ec507c9", null ],
+    [ "~TrainerSpellData", "d7/df6/a08080.html#a9bd25177856f54fa2eda882627b21644", null ],
+    [ "Find", "d7/df6/a08080.html#acee027787f06b4186b781bbd0d7db781", null ],
+    [ "spellList", "d7/df6/a08080.html#a0e157dbcebbbea5704270f182d313568", null ],
+    [ "trainerType", "d7/df6/a08080.html#a6ea889f294b37bfe1a7a40dffd1b2159", null ]
 ];

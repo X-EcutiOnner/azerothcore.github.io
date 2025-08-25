@@ -1,6 +1,6 @@
 var a27628 =
 [
-    [ "npc_pet_trainerAI", "d6/d8b/a27632.html", "d6/d8b/a27632" ],
-    [ "npc_pet_trainer", "d3/d96/a27628.html#ac2279bce52e911b1c339da5e68aa2501", null ],
-    [ "GetAI", "d3/d96/a27628.html#a4ecf9ac0abf43a00dc6bff2d2283eb37", null ]
+    [ "npc_garments_of_questsAI", "d6/d8b/a27632.html", "d6/d8b/a27632" ],
+    [ "npc_garments_of_quests", "d3/d96/a27628.html#a7e4ad68e0187c0a392ed93097b2bf0ce", null ],
+    [ "GetAI", "d3/d96/a27628.html#aa8ad1c654f00e054f9b424f61716eafd", null ]
 ];

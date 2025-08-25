@@ -1,10 +1,12 @@
 var a17812 =
 [
-    [ "npc_bone_spikeAI", "d2/d3c/a17812.html#a1b54aaa7b5ed142561fbc02e9593e87c", null ],
-    [ "DoAction", "d2/d3c/a17812.html#a38b2944fb4e9d7fcc7205423faa8a994", null ],
-    [ "IsSummonedBy", "d2/d3c/a17812.html#af2794484ee3ebf0579ce7357d222240d", null ],
-    [ "JustDied", "d2/d3c/a17812.html#ae9c8fa649ba9fac74187913d29be9dd6", null ],
-    [ "UpdateAI", "d2/d3c/a17812.html#a8eff2bcc6507c65e563ed272977f224e", null ],
-    [ "events", "d2/d3c/a17812.html#a6a35900435d41d0603919f29415667a5", null ],
-    [ "hasTrappedUnit", "d2/d3c/a17812.html#aeb7236ef0d313fd3799458f3d50276f7", null ]
+    [ "npc_darnavanAI", "d2/d3c/a17812.html#ae06019c24910c873877398f29f5a1737", null ],
+    [ "JustDied", "d2/d3c/a17812.html#a49250dcdaed6de534de7a1fe3c5aa72c", null ],
+    [ "JustEngagedWith", "d2/d3c/a17812.html#acbaedacea5ad19d82002c25b68623a27", null ],
+    [ "MovementInform", "d2/d3c/a17812.html#afcd3bfd190fcb99e38f32129fb2ce861", null ],
+    [ "Reset", "d2/d3c/a17812.html#a926c39a6e30507d9f9927f4f142e5a45", null ],
+    [ "UpdateAI", "d2/d3c/a17812.html#a2b3b5e168989db21fc047acaf01413d9", null ],
+    [ "_canCharge", "d2/d3c/a17812.html#ac37dc2ddc1787b7bd83b7e64ccdc6af8", null ],
+    [ "_canShatter", "d2/d3c/a17812.html#aa7750edc8051c8ee453143491dccf122", null ],
+    [ "events", "d2/d3c/a17812.html#aa8a022ccb1367432480f72d305c752ac", null ]
 ];

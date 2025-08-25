@@ -1,7 +1,6 @@
 var a12308 =
 [
-    [ "HandleDummy", "d7/d68/a12308.html#a7fca477ef5c86d543cd59571ad8dc7de", null ],
-    [ "PrepareSpellScript", "d7/d68/a12308.html#a6ec124990f202af0c6063c285bf04d88", null ],
-    [ "Register", "d7/d68/a12308.html#a5adf9f0bbe5b72c4c22f569086582f0f", null ],
-    [ "Validate", "d7/d68/a12308.html#ae35efa08f507aac5b72166a216d01870", null ]
+    [ "boss_victor_nefariusAI", "d4/dbb/a12312.html", "d4/dbb/a12312" ],
+    [ "boss_victor_nefarius", "d7/d68/a12308.html#a85c529c49a0373a553bc59818fb18f49", null ],
+    [ "GetAI", "d7/d68/a12308.html#a6ea19bde6980cbb4ca627d17cf57ae24", null ]
 ];

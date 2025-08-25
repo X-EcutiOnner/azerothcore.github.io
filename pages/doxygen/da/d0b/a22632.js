@@ -1,8 +1,12 @@
 var a22632 =
 [
-    [ "boss_tavarok", "da/d0b/a22632.html#acf2e3ec6c28a59b205442c6ed07623af", null ],
-    [ "JustDied", "da/d0b/a22632.html#a937fc1864eab7fdf23e1be1464d9666d", null ],
-    [ "JustEngagedWith", "da/d0b/a22632.html#a64cae2439cd6e4334ced5d4ef01ef942", null ],
-    [ "KilledUnit", "da/d0b/a22632.html#a2c99df9457c548ee562fde920592ea88", null ],
-    [ "Reset", "da/d0b/a22632.html#a0bea2cc724d92616056b7c5ca2dd03c1", null ]
+    [ "boss_exarch_maladaar", "da/d0b/a22632.html#a5dac68e3dc6fc37736bf85b84eadd417", null ],
+    [ "JustDied", "da/d0b/a22632.html#ab1179a19af8948d430559db4074c41ed", null ],
+    [ "JustEngagedWith", "da/d0b/a22632.html#a69427e7a0ca70253ad8035b5e6b1e01e", null ],
+    [ "JustSummoned", "da/d0b/a22632.html#a8f59e1b093af8c85da8c2fd38e01ca1b", null ],
+    [ "KilledUnit", "da/d0b/a22632.html#adf35cb8b039676500d4040baa08b0d48", null ],
+    [ "MoveInLineOfSight", "da/d0b/a22632.html#a14baacd30b9186c7492c981313421d5b", null ],
+    [ "Reset", "da/d0b/a22632.html#accb21d3c4a6856d2de9641cf84c42ce9", null ],
+    [ "UpdateAI", "da/d0b/a22632.html#a7646c4477135d3d3b8580432902babd4", null ],
+    [ "_talked", "da/d0b/a22632.html#a15c4f122529b9f52823ea407c43433c5", null ]
 ];

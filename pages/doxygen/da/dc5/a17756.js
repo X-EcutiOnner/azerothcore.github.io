@@ -1,6 +1,7 @@
 var a17756 =
 [
-    [ "npc_cult_adherentAI", "d3/d05/a17760.html", "d3/d05/a17760" ],
-    [ "npc_cult_adherent", "da/dc5/a17756.html#a74496518cf30674044a4a8a166e4c345", null ],
-    [ "GetAI", "da/dc5/a17756.html#a2bfe464c738c983b9539f9216cabd63a", null ]
+    [ "PrepareSpellScript", "da/dc5/a17756.html#a21bd67c024c5dcfb8496778f67eb48eb", null ],
+    [ "Register", "da/dc5/a17756.html#aff4f05a5a4742a408646000b7cece38c", null ],
+    [ "RemovePassengers", "da/dc5/a17756.html#a77c63e85233e2ef14bf06c82ad27c4b2", null ],
+    [ "Validate", "da/dc5/a17756.html#a2a8da9d150804f979f2313f623ad7760", null ]
 ];

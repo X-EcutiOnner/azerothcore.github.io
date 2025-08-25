@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: SpellProcEntry Struct Reference</title>
+<title>AzerothCore: ReflectEvent Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,232 +105,226 @@ $(document).ready(function(){initNavTree('dd/dd0/a11188.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#pub-attribs">Public Attributes</a> &#124;
+<a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pro-attribs">Protected Attributes</a> &#124;
 <a href="../../d2/dd9/a11185.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">SpellProcEntry Struct Reference</div></div>
+  <div class="headertitle"><div class="title">ReflectEvent Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">SpellMgr.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">Spell.h</a>&quot;</code></p>
+<div class="dynheader">
+Inheritance diagram for ReflectEvent:</div>
+<div class="dyncontent">
+ <div class="center">
+  <img src="../../dd/dd0/a11188.png" usemap="#ReflectEvent_map" alt=""/>
+  <map id="ReflectEvent_map" name="ReflectEvent_map">
+<area href="../../dd/d34/a05480.html" alt="BasicEvent" shape="rect" coords="0,0,83,24"/>
+  </map>
+</div></div>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
-Public Attributes</h2></td></tr>
-<tr class="memitem:acf72c4a783235770bbff952bdc002324"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dd0/a11188.html#acf72c4a783235770bbff952bdc002324">SchoolMask</a></td></tr>
-<tr class="separator:acf72c4a783235770bbff952bdc002324"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2cb738b0d4579503fcb9bca7988f7e36"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dd0/a11188.html#a2cb738b0d4579503fcb9bca7988f7e36">SpellFamilyName</a></td></tr>
-<tr class="separator:a2cb738b0d4579503fcb9bca7988f7e36"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8688e9282cb78d4f24b310cc2521c22b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d0c/a05628.html">flag96</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dd0/a11188.html#a8688e9282cb78d4f24b310cc2521c22b">SpellFamilyMask</a></td></tr>
-<tr class="separator:a8688e9282cb78d4f24b310cc2521c22b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9e5de790c4f61537397a1ce2bce8a9b0"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dd0/a11188.html#a9e5de790c4f61537397a1ce2bce8a9b0">ProcFlags</a></td></tr>
-<tr class="separator:a9e5de790c4f61537397a1ce2bce8a9b0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a99e20d3979a532e1ca90ee83edcff3eb"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dd0/a11188.html#a99e20d3979a532e1ca90ee83edcff3eb">SpellTypeMask</a></td></tr>
-<tr class="separator:a99e20d3979a532e1ca90ee83edcff3eb"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab4c4bfa1493a7a5924d3cd094127f973"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dd0/a11188.html#ab4c4bfa1493a7a5924d3cd094127f973">SpellPhaseMask</a></td></tr>
-<tr class="separator:ab4c4bfa1493a7a5924d3cd094127f973"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8ac3331576b4eb761157fa3d0d622bea"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dd0/a11188.html#a8ac3331576b4eb761157fa3d0d622bea">HitMask</a></td></tr>
-<tr class="separator:a8ac3331576b4eb761157fa3d0d622bea"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7cc9dfa91e034f5052ebd3bf8eaea42a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dd0/a11188.html#a7cc9dfa91e034f5052ebd3bf8eaea42a">AttributesMask</a></td></tr>
-<tr class="separator:a7cc9dfa91e034f5052ebd3bf8eaea42a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3815765c08f6b95cae6efb93fa98623b"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dd0/a11188.html#a3815765c08f6b95cae6efb93fa98623b">ProcsPerMinute</a></td></tr>
-<tr class="separator:a3815765c08f6b95cae6efb93fa98623b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aea5ca609c75ea7b314aec8ae0246297e"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dd0/a11188.html#aea5ca609c75ea7b314aec8ae0246297e">Chance</a></td></tr>
-<tr class="separator:aea5ca609c75ea7b314aec8ae0246297e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4e6185aea35599a3efc2e806145cb1d2"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/daf/a04412.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dd0/a11188.html#a4e6185aea35599a3efc2e806145cb1d2">Cooldown</a></td></tr>
-<tr class="separator:a4e6185aea35599a3efc2e806145cb1d2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a75f0484dad60eec59b399a188fd9908f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dd0/a11188.html#a75f0484dad60eec59b399a188fd9908f">Charges</a></td></tr>
-<tr class="separator:a75f0484dad60eec59b399a188fd9908f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
+Public Member Functions</h2></td></tr>
+<tr class="memitem:a1669aec08a3a09143c57e4889c8fad08"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dd0/a11188.html#a1669aec08a3a09143c57e4889c8fad08">ReflectEvent</a> (<a class="el" href="../../d3/dd2/a08756.html">Unit</a> *caster, <a class="el" href="../../db/d20/a08420.html">ObjectGuid</a> targetGUID, <a class="el" href="../../d1/d71/a11216.html">SpellInfo</a> const *spellInfo)</td></tr>
+<tr class="separator:a1669aec08a3a09143c57e4889c8fad08"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a37fb766d70932e8a431dba363c603531"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dd0/a11188.html#a37fb766d70932e8a431dba363c603531">Execute</a> (<a class="el" href="../../d9/d4e/a04307.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a> e_time, <a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> p_time) override</td></tr>
+<tr class="separator:a37fb766d70932e8a431dba363c603531"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pub_methods_a05480"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a05480')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../dd/d34/a05480.html">BasicEvent</a></td></tr>
+<tr class="memitem:a9c3cd17edab7fc410f88bb680d756975 inherit pub_methods_a05480"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d34/a05480.html#a9c3cd17edab7fc410f88bb680d756975">BasicEvent</a> ()=default</td></tr>
+<tr class="separator:a9c3cd17edab7fc410f88bb680d756975 inherit pub_methods_a05480"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0c3860e1c8854c2db20a225944792afd inherit pub_methods_a05480"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d34/a05480.html#a0c3860e1c8854c2db20a225944792afd">~BasicEvent</a> ()=default</td></tr>
+<tr class="separator:a0c3860e1c8854c2db20a225944792afd inherit pub_methods_a05480"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a89297a10b64d01895332655122ed8ccb inherit pub_methods_a05480"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d34/a05480.html#a89297a10b64d01895332655122ed8ccb">Execute</a> (<a class="el" href="../../d9/d4e/a04307.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>, <a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>)</td></tr>
+<tr class="separator:a89297a10b64d01895332655122ed8ccb inherit pub_methods_a05480"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a62c0483af9fd1885e779cf088a50eb02 inherit pub_methods_a05480"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d34/a05480.html#a62c0483af9fd1885e779cf088a50eb02">IsDeletable</a> () const</td></tr>
+<tr class="separator:a62c0483af9fd1885e779cf088a50eb02 inherit pub_methods_a05480"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5584968148a48bd7ba072515bd489963 inherit pub_methods_a05480"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d34/a05480.html#a5584968148a48bd7ba072515bd489963">Abort</a> (<a class="el" href="../../d9/d4e/a04307.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>)</td></tr>
+<tr class="separator:a5584968148a48bd7ba072515bd489963 inherit pub_methods_a05480"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afafade0729f08b8f1193a66f50c18348 inherit pub_methods_a05480"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d34/a05480.html#afafade0729f08b8f1193a66f50c18348">ScheduleAbort</a> ()</td></tr>
+<tr class="separator:afafade0729f08b8f1193a66f50c18348 inherit pub_methods_a05480"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-attribs" name="pro-attribs"></a>
+Protected Attributes</h2></td></tr>
+<tr class="memitem:a67ec85597bb887e7b8cb31b818910d1a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/dd2/a08756.html">Unit</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dd0/a11188.html#a67ec85597bb887e7b8cb31b818910d1a">_caster</a></td></tr>
+<tr class="separator:a67ec85597bb887e7b8cb31b818910d1a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa9f8c7bf1e22c74f3d134df2cfc014b5"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d20/a08420.html">ObjectGuid</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dd0/a11188.html#aa9f8c7bf1e22c74f3d134df2cfc014b5">_targetGUID</a></td></tr>
+<tr class="separator:aa9f8c7bf1e22c74f3d134df2cfc014b5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae05fc2092226695fa22dd1e72d58bc7b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/d71/a11216.html">SpellInfo</a> const  *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dd0/a11188.html#ae05fc2092226695fa22dd1e72d58bc7b">_spellInfo</a></td></tr>
+<tr class="separator:ae05fc2092226695fa22dd1e72d58bc7b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Member Data Documentation</h2>
-<a id="a7cc9dfa91e034f5052ebd3bf8eaea42a" name="a7cc9dfa91e034f5052ebd3bf8eaea42a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7cc9dfa91e034f5052ebd3bf8eaea42a">&#9670;&#160;</a></span>AttributesMask</h2>
+<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="a1669aec08a3a09143c57e4889c8fad08" name="a1669aec08a3a09143c57e4889c8fad08"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1669aec08a3a09143c57e4889c8fad08">&#9670;&#160;</a></span>ReflectEvent()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SpellProcEntry::AttributesMask</td>
+          <td class="memname">ReflectEvent::ReflectEvent </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d3/dd2/a08756.html">Unit</a> *&#160;</td>
+          <td class="paramname"><em>caster</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../db/d20/a08420.html">ObjectGuid</a>&#160;</td>
+          <td class="paramname"><em>targetGUID</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d1/d71/a11216.html">SpellInfo</a> const *&#160;</td>
+          <td class="paramname"><em>spellInfo</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00897">SpellMgr::CanSpellTriggerProcOnEvent()</a>, and <a class="el" href="../../#l01831">SpellMgr::LoadSpellProcs()</a>.</p>
-
+<div class="fragment"><div class="line"><span class="lineno">  844</span>: <a class="code hl_variable" href="../../dd/dd0/a11188.html#a67ec85597bb887e7b8cb31b818910d1a">_caster</a>(caster), <a class="code hl_variable" href="../../dd/dd0/a11188.html#aa9f8c7bf1e22c74f3d134df2cfc014b5">_targetGUID</a>(targetGUID), <a class="code hl_variable" href="../../dd/dd0/a11188.html#ae05fc2092226695fa22dd1e72d58bc7b">_spellInfo</a>(spellInfo) { }</div>
+<div class="ttc" id="aa11188_html_a67ec85597bb887e7b8cb31b818910d1a"><div class="ttname"><a href="../../dd/dd0/a11188.html#a67ec85597bb887e7b8cb31b818910d1a">ReflectEvent::_caster</a></div><div class="ttdeci">Unit * _caster</div><div class="ttdef"><b>Definition:</b> Spell.h:848</div></div>
+<div class="ttc" id="aa11188_html_aa9f8c7bf1e22c74f3d134df2cfc014b5"><div class="ttname"><a href="../../dd/dd0/a11188.html#aa9f8c7bf1e22c74f3d134df2cfc014b5">ReflectEvent::_targetGUID</a></div><div class="ttdeci">ObjectGuid _targetGUID</div><div class="ttdef"><b>Definition:</b> Spell.h:849</div></div>
+<div class="ttc" id="aa11188_html_ae05fc2092226695fa22dd1e72d58bc7b"><div class="ttname"><a href="../../dd/dd0/a11188.html#ae05fc2092226695fa22dd1e72d58bc7b">ReflectEvent::_spellInfo</a></div><div class="ttdeci">SpellInfo const  * _spellInfo</div><div class="ttdef"><b>Definition:</b> Spell.h:850</div></div>
+</div><!-- fragment -->
 </div>
 </div>
-<a id="aea5ca609c75ea7b314aec8ae0246297e" name="aea5ca609c75ea7b314aec8ae0246297e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aea5ca609c75ea7b314aec8ae0246297e">&#9670;&#160;</a></span>Chance</h2>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="a37fb766d70932e8a431dba363c603531" name="a37fb766d70932e8a431dba363c603531"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a37fb766d70932e8a431dba363c603531">&#9670;&#160;</a></span>Execute()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">float SpellProcEntry::Chance</td>
+          <td class="memname">bool ReflectEvent::Execute </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d9/d4e/a04307.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>&#160;</td>
+          <td class="paramname"><em>e_time</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>p_time</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">override</span><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l02311">Aura::CalcProcChance()</a>, and <a class="el" href="../../#l01831">SpellMgr::LoadSpellProcs()</a>.</p>
+<p>Reimplemented from <a class="el" href="../../dd/d34/a05480.html#a89297a10b64d01895332655122ed8ccb">BasicEvent</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno"> 8238</span>{</div>
+<div class="line"><span class="lineno"> 8239</span>    <a class="code hl_class" href="../../d3/dd2/a08756.html">Unit</a>* target = <a class="code hl_function" href="../../da/d82/a04837.html#a02c2dfb59db7d7e2501dcc9a4f9baf07">ObjectAccessor::GetUnit</a>(*<a class="code hl_variable" href="../../dd/dd0/a11188.html#a67ec85597bb887e7b8cb31b818910d1a">_caster</a>, <a class="code hl_variable" href="../../dd/dd0/a11188.html#aa9f8c7bf1e22c74f3d134df2cfc014b5">_targetGUID</a>);</div>
+<div class="line"><span class="lineno"> 8240</span>    <span class="keywordflow">if</span> (target &amp;&amp; <a class="code hl_variable" href="../../dd/dd0/a11188.html#a67ec85597bb887e7b8cb31b818910d1a">_caster</a>-&gt;<a class="code hl_function" href="../../d1/d2f/a08404.html#aedc362bb48f474ee7291f4c82f585837">IsInMap</a>(target))</div>
+<div class="line"><span class="lineno"> 8241</span>        <a class="code hl_function" href="../../d3/dd2/a08756.html#aad2d8dec02abdea33b3447bea9407a4f">Unit::ProcDamageAndSpell</a>(<a class="code hl_variable" href="../../dd/dd0/a11188.html#a67ec85597bb887e7b8cb31b818910d1a">_caster</a>, target, <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#ade1c2af066d4cf1bbcd88f13f01cd4d6af765023e3e3f58d814e32d66d0f8fe45">PROC_FLAG_NONE</a>, <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a83f7552203278e82d55d40034cea9105">PROC_FLAG_TAKEN_SPELL_MAGIC_DMG_CLASS_NEG</a>, <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#ac9aaef596a1061b6b944e1dc0e679b46ac0f0575131b658e1143778206283552a">PROC_EX_REFLECT</a>, 1, <a class="code hl_enumvalue" href="../../dd/d08/a01682.html#a85524ab4e1fb005ed500bd190f79c352a5145c1138a6f21d47061e9015e07a3ae">BASE_ATTACK</a>, <a class="code hl_variable" href="../../dd/dd0/a11188.html#ae05fc2092226695fa22dd1e72d58bc7b">_spellInfo</a>);</div>
+<div class="line"><span class="lineno"> 8242</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno"> 8243</span>}</div>
+<div class="ttc" id="aa00788_html_ac9aaef596a1061b6b944e1dc0e679b46ac0f0575131b658e1143778206283552a"><div class="ttname"><a href="../../df/d0c/a00788.html#ac9aaef596a1061b6b944e1dc0e679b46ac0f0575131b658e1143778206283552a">PROC_EX_REFLECT</a></div><div class="ttdeci">@ PROC_EX_REFLECT</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:205</div></div>
+<div class="ttc" id="aa00788_html_ade1c2af066d4cf1bbcd88f13f01cd4d6a83f7552203278e82d55d40034cea9105"><div class="ttname"><a href="../../df/d0c/a00788.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a83f7552203278e82d55d40034cea9105">PROC_FLAG_TAKEN_SPELL_MAGIC_DMG_CLASS_NEG</a></div><div class="ttdeci">@ PROC_FLAG_TAKEN_SPELL_MAGIC_DMG_CLASS_NEG</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:132</div></div>
+<div class="ttc" id="aa00788_html_ade1c2af066d4cf1bbcd88f13f01cd4d6af765023e3e3f58d814e32d66d0f8fe45"><div class="ttname"><a href="../../df/d0c/a00788.html#ade1c2af066d4cf1bbcd88f13f01cd4d6af765023e3e3f58d814e32d66d0f8fe45">PROC_FLAG_NONE</a></div><div class="ttdeci">@ PROC_FLAG_NONE</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:105</div></div>
+<div class="ttc" id="aa01682_html_a85524ab4e1fb005ed500bd190f79c352a5145c1138a6f21d47061e9015e07a3ae"><div class="ttname"><a href="../../dd/d08/a01682.html#a85524ab4e1fb005ed500bd190f79c352a5145c1138a6f21d47061e9015e07a3ae">BASE_ATTACK</a></div><div class="ttdeci">@ BASE_ATTACK</div><div class="ttdef"><b>Definition:</b> Unit.h:210</div></div>
+<div class="ttc" id="aa04837_html_a02c2dfb59db7d7e2501dcc9a4f9baf07"><div class="ttname"><a href="../../da/d82/a04837.html#a02c2dfb59db7d7e2501dcc9a4f9baf07">ObjectAccessor::GetUnit</a></div><div class="ttdeci">Unit * GetUnit(WorldObject const &amp;, ObjectGuid const guid)</div><div class="ttdef"><b>Definition:</b> ObjectAccessor.cpp:199</div></div>
+<div class="ttc" id="aa08404_html_aedc362bb48f474ee7291f4c82f585837"><div class="ttname"><a href="../../d1/d2f/a08404.html#aedc362bb48f474ee7291f4c82f585837">WorldObject::IsInMap</a></div><div class="ttdeci">bool IsInMap(WorldObject const *obj) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:1253</div></div>
+<div class="ttc" id="aa08756_html"><div class="ttname"><a href="../../d3/dd2/a08756.html">Unit</a></div><div class="ttdef"><b>Definition:</b> Unit.h:620</div></div>
+<div class="ttc" id="aa08756_html_aad2d8dec02abdea33b3447bea9407a4f"><div class="ttname"><a href="../../d3/dd2/a08756.html#aad2d8dec02abdea33b3447bea9407a4f">Unit::ProcDamageAndSpell</a></div><div class="ttdeci">static void ProcDamageAndSpell(Unit *actor, Unit *victim, uint32 procAttacker, uint32 procVictim, uint32 procEx, uint32 amount, WeaponAttackType attType=BASE_ATTACK, SpellInfo const *procSpellInfo=nullptr, SpellInfo const *procAura=nullptr, int8 procAuraEffectIndex=-1, Spell const *procSpell=nullptr, DamageInfo *damageInfo=nullptr, HealInfo *healInfo=nullptr, uint32 procPhase=2)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:6475</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00848">_caster</a>, <a class="el" href="../../#l00850">_spellInfo</a>, <a class="el" href="../../#l00849">_targetGUID</a>, <a class="el" href="../../#l00210">BASE_ATTACK</a>, <a class="el" href="../../#l00199">ObjectAccessor::GetUnit()</a>, <a class="el" href="../../#l01253">WorldObject::IsInMap()</a>, <a class="el" href="../../#l00205">PROC_EX_REFLECT</a>, <a class="el" href="../../#l00105">PROC_FLAG_NONE</a>, <a class="el" href="../../#l00132">PROC_FLAG_TAKEN_SPELL_MAGIC_DMG_CLASS_NEG</a>, and <a class="el" href="../../#l06475">Unit::ProcDamageAndSpell()</a>.</p>
 
 </div>
 </div>
-<a id="a75f0484dad60eec59b399a188fd9908f" name="a75f0484dad60eec59b399a188fd9908f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a75f0484dad60eec59b399a188fd9908f">&#9670;&#160;</a></span>Charges</h2>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a id="a67ec85597bb887e7b8cb31b818910d1a" name="a67ec85597bb887e7b8cb31b818910d1a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a67ec85597bb887e7b8cb31b818910d1a">&#9670;&#160;</a></span>_caster</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SpellProcEntry::Charges</td>
+          <td class="memname"><a class="el" href="../../d3/dd2/a08756.html">Unit</a>* ReflectEvent::_caster</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01831">SpellMgr::LoadSpellProcs()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l08237">Execute()</a>.</p>
 
 </div>
 </div>
-<a id="a4e6185aea35599a3efc2e806145cb1d2" name="a4e6185aea35599a3efc2e806145cb1d2"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4e6185aea35599a3efc2e806145cb1d2">&#9670;&#160;</a></span>Cooldown</h2>
+<a id="ae05fc2092226695fa22dd1e72d58bc7b" name="ae05fc2092226695fa22dd1e72d58bc7b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae05fc2092226695fa22dd1e72d58bc7b">&#9670;&#160;</a></span>_spellInfo</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../db/daf/a04412.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a> SpellProcEntry::Cooldown</td>
+          <td class="memname"><a class="el" href="../../d1/d71/a11216.html">SpellInfo</a> const* ReflectEvent::_spellInfo</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01831">SpellMgr::LoadSpellProcs()</a>, and <a class="el" href="../../#l02206">Aura::PrepareProcToTrigger()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l08237">Execute()</a>.</p>
 
 </div>
 </div>
-<a id="a8ac3331576b4eb761157fa3d0d622bea" name="a8ac3331576b4eb761157fa3d0d622bea"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8ac3331576b4eb761157fa3d0d622bea">&#9670;&#160;</a></span>HitMask</h2>
+<a id="aa9f8c7bf1e22c74f3d134df2cfc014b5" name="aa9f8c7bf1e22c74f3d134df2cfc014b5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa9f8c7bf1e22c74f3d134df2cfc014b5">&#9670;&#160;</a></span>_targetGUID</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SpellProcEntry::HitMask</td>
+          <td class="memname"><a class="el" href="../../db/d20/a08420.html">ObjectGuid</a> ReflectEvent::_targetGUID</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00897">SpellMgr::CanSpellTriggerProcOnEvent()</a>, and <a class="el" href="../../#l01831">SpellMgr::LoadSpellProcs()</a>.</p>
-
-</div>
-</div>
-<a id="a9e5de790c4f61537397a1ce2bce8a9b0" name="a9e5de790c4f61537397a1ce2bce8a9b0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9e5de790c4f61537397a1ce2bce8a9b0">&#9670;&#160;</a></span>ProcFlags</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SpellProcEntry::ProcFlags</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00897">SpellMgr::CanSpellTriggerProcOnEvent()</a>, and <a class="el" href="../../#l01831">SpellMgr::LoadSpellProcs()</a>.</p>
-
-</div>
-</div>
-<a id="a3815765c08f6b95cae6efb93fa98623b" name="a3815765c08f6b95cae6efb93fa98623b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3815765c08f6b95cae6efb93fa98623b">&#9670;&#160;</a></span>ProcsPerMinute</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">float SpellProcEntry::ProcsPerMinute</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l02311">Aura::CalcProcChance()</a>, and <a class="el" href="../../#l01831">SpellMgr::LoadSpellProcs()</a>.</p>
-
-</div>
-</div>
-<a id="acf72c4a783235770bbff952bdc002324" name="acf72c4a783235770bbff952bdc002324"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#acf72c4a783235770bbff952bdc002324">&#9670;&#160;</a></span>SchoolMask</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SpellProcEntry::SchoolMask</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00897">SpellMgr::CanSpellTriggerProcOnEvent()</a>, and <a class="el" href="../../#l01831">SpellMgr::LoadSpellProcs()</a>.</p>
-
-</div>
-</div>
-<a id="a8688e9282cb78d4f24b310cc2521c22b" name="a8688e9282cb78d4f24b310cc2521c22b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8688e9282cb78d4f24b310cc2521c22b">&#9670;&#160;</a></span>SpellFamilyMask</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d3/d0c/a05628.html">flag96</a> SpellProcEntry::SpellFamilyMask</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00897">SpellMgr::CanSpellTriggerProcOnEvent()</a>, and <a class="el" href="../../#l01831">SpellMgr::LoadSpellProcs()</a>.</p>
-
-</div>
-</div>
-<a id="a2cb738b0d4579503fcb9bca7988f7e36" name="a2cb738b0d4579503fcb9bca7988f7e36"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2cb738b0d4579503fcb9bca7988f7e36">&#9670;&#160;</a></span>SpellFamilyName</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SpellProcEntry::SpellFamilyName</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00897">SpellMgr::CanSpellTriggerProcOnEvent()</a>, and <a class="el" href="../../#l01831">SpellMgr::LoadSpellProcs()</a>.</p>
-
-</div>
-</div>
-<a id="ab4c4bfa1493a7a5924d3cd094127f973" name="ab4c4bfa1493a7a5924d3cd094127f973"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab4c4bfa1493a7a5924d3cd094127f973">&#9670;&#160;</a></span>SpellPhaseMask</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SpellProcEntry::SpellPhaseMask</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00897">SpellMgr::CanSpellTriggerProcOnEvent()</a>, and <a class="el" href="../../#l01831">SpellMgr::LoadSpellProcs()</a>.</p>
-
-</div>
-</div>
-<a id="a99e20d3979a532e1ca90ee83edcff3eb" name="a99e20d3979a532e1ca90ee83edcff3eb"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a99e20d3979a532e1ca90ee83edcff3eb">&#9670;&#160;</a></span>SpellTypeMask</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SpellProcEntry::SpellTypeMask</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00897">SpellMgr::CanSpellTriggerProcOnEvent()</a>, and <a class="el" href="../../#l01831">SpellMgr::LoadSpellProcs()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l08237">Execute()</a>.</p>
 
 </div>
 </div>
@@ -339,8 +333,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dd/dd0/a11188.html">SpellProcEntry</a></li>
-    <li class="footer">Generated on Mon Aug 18 2025 20:49:12 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dd/dd0/a11188.html">ReflectEvent</a></li>
+    <li class="footer">Generated on Mon Aug 25 2025 20:47:07 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

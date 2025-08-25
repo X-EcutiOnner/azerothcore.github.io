@@ -1,7 +1,6 @@
 var a22288 =
 [
-    [ "HandleDummy", "d5/dab/a22288.html#a68c638c6e056cbadb101ddd025909f54", null ],
-    [ "PrepareSpellScript", "d5/dab/a22288.html#a5a857bace5232d259145a0a095f70eec", null ],
-    [ "Register", "d5/dab/a22288.html#af9c657e1fac6ee630af0bea337fbff62", null ],
-    [ "Validate", "d5/dab/a22288.html#a21e9eaf2eea4b46986b8e8b911bd0508", null ]
+    [ "npc_frosthoundAI", "d4/d0d/a22292.html", "d4/d0d/a22292" ],
+    [ "npc_frosthound", "d5/dab/a22288.html#a3266f5186d1db0c010f586d3272725a6", null ],
+    [ "GetAI", "d5/dab/a22288.html#a49cd41753c715f166fc903df9dcfdd6b", null ]
 ];

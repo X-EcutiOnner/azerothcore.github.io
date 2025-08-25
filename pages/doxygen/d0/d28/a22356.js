@@ -1,8 +1,9 @@
 var a22356 =
 [
-    [ "npc_wg_queueAI", "dd/df8/a22360.html", "dd/df8/a22360" ],
-    [ "npc_wg_queue", "d0/d28/a22356.html#a2cc9825e08e982ef195f117a4512c4ae", null ],
-    [ "GetAI", "d0/d28/a22356.html#ad2d7746a32b520d37ea826b03627de4e", null ],
-    [ "OnGossipHello", "d0/d28/a22356.html#a20fc6ae4e4377f237a620b7f5b1de8ee", null ],
-    [ "OnGossipSelect", "d0/d28/a22356.html#afb707da5d85affc65f7ab5a0fc018c93", null ]
+    [ "npc_hyldsmeet_protodrakeAI", "dd/df8/a22360.html", "dd/df8/a22360" ],
+    [ "NPCs", "d0/d28/a22356.html#a8f2ea95c836ba6bab370301fbf3e6822", [
+      [ "NPC_HYLDSMEET_DRAKERIDER", "d0/d28/a22356.html#a8f2ea95c836ba6bab370301fbf3e6822a1b77c38a75142cff5392a89db3e765df", null ]
+    ] ],
+    [ "npc_hyldsmeet_protodrake", "d0/d28/a22356.html#a2471f1d858d7ae8f801208e35860a95e", null ],
+    [ "GetAI", "d0/d28/a22356.html#a791e5cff3901f9a3ec365d4049b82d25", null ]
 ];

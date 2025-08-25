@@ -1,107 +1,96 @@
 var a03815 =
 [
-    [ "npc_finklestein", "dd/db5/a22424.html", "dd/db5/a22424" ],
-    [ "npc_finklestein::npc_finklesteinAI", "dc/d62/a22428.html", "dc/d62/a22428" ],
-    [ "go_finklestein_cauldron", "d1/dc0/a22432.html", "d1/dc0/a22432" ],
-    [ "npc_overlord_drakuru_betrayal", "d0/d66/a22436.html", "d0/d66/a22436" ],
-    [ "npc_overlord_drakuru_betrayal::npc_overlord_drakuru_betrayalAI", "d9/dfc/a22440.html", "d9/dfc/a22440" ],
-    [ "npc_drakuru_shackles", "de/dd9/a22444.html", "de/dd9/a22444" ],
-    [ "npc_drakuru_shackles::npc_drakuru_shacklesAI", "df/dec/a22448.html", "df/dec/a22448" ],
-    [ "npc_captured_rageclaw", "d6/deb/a22452.html", "d6/deb/a22452" ],
-    [ "npc_captured_rageclaw::npc_captured_rageclawAI", "d0/d98/a22456.html", "d0/d98/a22456" ],
-    [ "npc_released_offspring_harkoa", "d5/d5e/a22460.html", "d5/d5e/a22460" ],
-    [ "npc_released_offspring_harkoa::npc_released_offspring_harkoaAI", "d1/df4/a22464.html", "d1/df4/a22464" ],
-    [ "npc_crusade_recruit", "db/d73/a22468.html", "db/d73/a22468" ],
-    [ "npc_crusade_recruit::npc_crusade_recruitAI", "d4/d53/a22472.html", "d4/d53/a22472" ],
-    [ "go_scourge_enclosure", "db/df4/a22476.html", "db/df4/a22476" ],
-    [ "spell_scourge_disguise_instability", "d8/d88/a22480.html", "d8/d88/a22480" ],
-    [ "AlchemistItemRequirements", "d7/dab/a03815.html#ab81a0db27941af407a22b4297fae4c08", [
-      [ "QUEST_ALCHEMIST_APPRENTICE", "d7/dab/a03815.html#ab81a0db27941af407a22b4297fae4c08acc34c525966e25184f9fe99e22f2d192", null ],
-      [ "NPC_FINKLESTEIN", "d7/dab/a03815.html#ab81a0db27941af407a22b4297fae4c08a5cf7fdaa2ca28bb570bd1dd8edab09e6", null ]
+    [ "npc_frosthound", "d5/dab/a22288.html", "d5/dab/a22288" ],
+    [ "npc_frosthound::npc_frosthoundAI", "d4/d0d/a22292.html", "d4/d0d/a22292" ],
+    [ "npc_iron_watcher", "d5/d64/a22296.html", "d5/d64/a22296" ],
+    [ "npc_iron_watcher::npc_iron_watcherAI", "d5/db5/a22300.html", "d5/db5/a22300" ],
+    [ "npc_time_lost_proto_drake", "d8/d90/a22304.html", "d8/d90/a22304" ],
+    [ "npc_time_lost_proto_drake::npc_time_lost_proto_drakeAI", "d0/da2/a22308.html", "d0/da2/a22308" ],
+    [ "npc_wild_wyrm", "de/d84/a22312.html", "de/d84/a22312" ],
+    [ "npc_wild_wyrm::npc_wild_wyrmAI", "d3/d6b/a22316.html", "d3/d6b/a22316" ],
+    [ "spell_q13003_thursting_hodirs_spear_aura", "d9/d41/a22320.html", "d9/d41/a22320" ],
+    [ "spell_q13007_iron_colossus", "db/deb/a22324.html", "db/deb/a22324" ],
+    [ "npc_roxi_ramrocket", "d8/dd7/a22328.html", "d8/dd7/a22328" ],
+    [ "npc_brunnhildar_prisoner", "d7/dbd/a22332.html", "d7/dbd/a22332" ],
+    [ "npc_brunnhildar_prisoner::npc_brunnhildar_prisonerAI", "d3/d07/a22336.html", "d3/d07/a22336" ],
+    [ "npc_freed_protodrake", "d7/d4e/a22340.html", "d7/d4e/a22340" ],
+    [ "npc_freed_protodrake::npc_freed_protodrakeAI", "d6/d20/a22344.html", "d6/d20/a22344" ],
+    [ "npc_icefang", "d4/da8/a22348.html", "d4/da8/a22348" ],
+    [ "npc_icefang::npc_icefangAI", "d9/d0b/a22352.html", "d9/d0b/a22352" ],
+    [ "npc_hyldsmeet_protodrake", "d0/d28/a22356.html", "d0/d28/a22356" ],
+    [ "npc_hyldsmeet_protodrake::npc_hyldsmeet_protodrakeAI", "dd/df8/a22360.html", "dd/df8/a22360" ],
+    [ "spell_close_rift_aura", "dd/dc5/a22364.html", "dd/dc5/a22364" ],
+    [ "spell_q12823_remove_collapsing_cave_aura", "dd/da0/a22368.html", "dd/da0/a22368" ],
+    [ "npc_vehicle_d16_propelled_delivery", "de/d72/a22372.html", "de/d72/a22372" ],
+    [ "npc_vehicle_d16_propelled_delivery::npc_vehicle_d16_propelled_deliveryAI", "d8/dee/a22376.html", "d8/dee/a22376" ],
+    [ "BrunnhildarPrisoner", "d7/dab/a03815.html#a2b3662a99dee3fb091ed7fe9dc34a709", [
+      [ "SPELL_ICE_PRISON", "d7/dab/a03815.html#a2b3662a99dee3fb091ed7fe9dc34a709a9b000c0577f729a8bbf761c4027c988c", null ],
+      [ "SPELL_ICE_LANCE", "d7/dab/a03815.html#a2b3662a99dee3fb091ed7fe9dc34a709aa1488ccf76f0a0098f140e9ddb95794d", null ],
+      [ "SPELL_FREE_PRISONER", "d7/dab/a03815.html#a2b3662a99dee3fb091ed7fe9dc34a709a925c65c2e29b49b806662a8eb662cbd8", null ],
+      [ "SPELL_RIDE_DRAKE", "d7/dab/a03815.html#a2b3662a99dee3fb091ed7fe9dc34a709ad081a8077df8f055143aed59eea51ed9", null ],
+      [ "SPELL_SHARD_IMPACT", "d7/dab/a03815.html#a2b3662a99dee3fb091ed7fe9dc34a709ac25cc7b06441c788ebfe392822513ac3", null ]
     ] ],
-    [ "CrusadeRecruit", "d7/dab/a03815.html#a3c8d2add617bd8d88247b94804d3b558", [
-      [ "SPELL_QUEST_CREDIT", "d7/dab/a03815.html#a3c8d2add617bd8d88247b94804d3b558ab22bb917cff7d6a67cefe2712a66299b", null ],
-      [ "QUEST_TROLL_PATROL_INTESTINAL_FORTITUDE", "d7/dab/a03815.html#a3c8d2add617bd8d88247b94804d3b558aeb26c6f49263481aa6a615f4abc155b8", null ],
-      [ "SAY_RECRUIT", "d7/dab/a03815.html#a3c8d2add617bd8d88247b94804d3b558aa398d24adbdfe339fb61758b7ff7cb27", null ]
+    [ "CloseRift", "d7/dab/a03815.html#a36178b08160d5717735f19eda88aa085", [
+      [ "SPELL_DESPAWN_RIFT", "d7/dab/a03815.html#a36178b08160d5717735f19eda88aa085a00e22ffca5dc82706eccd3a85838bcdd", null ]
     ] ],
-    [ "CrusadeRecruitEvents", "d7/dab/a03815.html#a7f62c9bdaea8d61503062d10b017e639", [
-      [ "EVENT_RECRUIT_1", "d7/dab/a03815.html#a7f62c9bdaea8d61503062d10b017e639a0c41667591b38b074a96c3f2638f8efc", null ],
-      [ "EVENT_RECRUIT_2", "d7/dab/a03815.html#a7f62c9bdaea8d61503062d10b017e639a7bf6caa350b5f312ea893bd9cb9c9b46", null ]
+    [ "CollapsingCave", "d7/dab/a03815.html#a3c3daa7deb54b462a75f105c0baebd01", [
+      [ "SPELL_COLLAPSING_CAVE", "d7/dab/a03815.html#a3c3daa7deb54b462a75f105c0baebd01a3be68ebd35e3687a852a433899580628", null ]
     ] ],
-    [ "DrakuruShackles", "d7/dab/a03815.html#ae1b47c6bf1ad1b8dc31220da558d468e", [
-      [ "NPC_RAGECLAW", "d7/dab/a03815.html#ae1b47c6bf1ad1b8dc31220da558d468eae5a7cc3995ea1ec6bf0e6b10cf88b42c", null ],
-      [ "QUEST_TROLLS_IS_GONE_CRAZY", "d7/dab/a03815.html#ae1b47c6bf1ad1b8dc31220da558d468ead865536461e82af4c716fcc6b05bca0d", null ],
-      [ "SPELL_LEFT_CHAIN", "d7/dab/a03815.html#ae1b47c6bf1ad1b8dc31220da558d468ea9ca1c028e4b4efb8f1b64fdb1aa9458f", null ],
-      [ "SPELL_RIGHT_CHAIN", "d7/dab/a03815.html#ae1b47c6bf1ad1b8dc31220da558d468ea78a87217309119207f5733d5b75c1bf1", null ],
-      [ "SPELL_UNLOCK_SHACKLE", "d7/dab/a03815.html#ae1b47c6bf1ad1b8dc31220da558d468ea38d299dfaf2a1a9d3796e60bc5792e51", null ],
-      [ "SPELL_FREE_RAGECLAW", "d7/dab/a03815.html#ae1b47c6bf1ad1b8dc31220da558d468eaa4c76adb98fdd5265f5e156cdeb0dcf2", null ]
+    [ "eIronWatcher", "d7/dab/a03815.html#ac0dfdb79063698c8140e5423b6ec36ed", [
+      [ "SPELL_THUNDERING_STOMP", "d7/dab/a03815.html#ac0dfdb79063698c8140e5423b6ec36eda626925ba86f88514659778da36ed7122", null ],
+      [ "SPELL_STORM_HAMMER", "d7/dab/a03815.html#ac0dfdb79063698c8140e5423b6ec36eda4fdbea404819b5f53d2fa2195205c8de", null ],
+      [ "SPELL_SHATTERED_EYES", "d7/dab/a03815.html#ac0dfdb79063698c8140e5423b6ec36eda0ab0f58505a9df3f497f065b7b82c995", null ],
+      [ "SPELL_STORM_HAMMER_DUMMY", "d7/dab/a03815.html#ac0dfdb79063698c8140e5423b6ec36edac135fe33f063d714edde9a2a5c3216e4", null ]
     ] ],
-    [ "overlordDrakuru", "d7/dab/a03815.html#a42b0bda1e9a4c753058b169a54d61487", [
-      [ "SPELL_SHADOW_BOLT", "d7/dab/a03815.html#a42b0bda1e9a4c753058b169a54d61487a8872edea8a2ac8c4e895c975482b9413", null ],
-      [ "SPELL_SCOURGE_DISGUISE_EXPIRING", "d7/dab/a03815.html#a42b0bda1e9a4c753058b169a54d61487a7d918919dce786a853c0d39311be9952", null ],
-      [ "SPELL_THROW_BRIGHT_CRYSTAL", "d7/dab/a03815.html#a42b0bda1e9a4c753058b169a54d61487aa94c1a28195c93cadf5477e2cb65522f", null ],
-      [ "SPELL_TELEPORT_EFFECT", "d7/dab/a03815.html#a42b0bda1e9a4c753058b169a54d61487a6dfb4874a898790c86691547bd4a093c", null ],
-      [ "SPELL_SCOURGE_DISGUISE", "d7/dab/a03815.html#a42b0bda1e9a4c753058b169a54d61487a8a59e7b442ce8dbd378d912ed59a4e79", null ],
-      [ "SPELL_SCOURGE_DISGUISE_INSTANT_CAST", "d7/dab/a03815.html#a42b0bda1e9a4c753058b169a54d61487af4b8c747a57701c734e9bd267b927ee3", null ],
-      [ "SPELL_BLIGHT_FOG", "d7/dab/a03815.html#a42b0bda1e9a4c753058b169a54d61487a6e4f243799c8977dcf2c8d31f1f58614", null ],
-      [ "SPELL_THROW_PORTAL_CRYSTAL", "d7/dab/a03815.html#a42b0bda1e9a4c753058b169a54d61487a8146d2494e7cb04d6d9350645714161b", null ],
-      [ "SPELL_ARTHAS_PORTAL", "d7/dab/a03815.html#a42b0bda1e9a4c753058b169a54d61487a2f29709d20708b595b8d34d0dcecaba7", null ],
-      [ "SPELL_TOUCH_OF_DEATH", "d7/dab/a03815.html#a42b0bda1e9a4c753058b169a54d61487a7cd8428f5bd1d2d5d84436f3ffe852a7", null ],
-      [ "SPELL_DRAKURU_DEATH", "d7/dab/a03815.html#a42b0bda1e9a4c753058b169a54d61487a0fa332a2992d7af7b70d89f65ddcd773", null ],
-      [ "SPELL_SUMMON_SKULL", "d7/dab/a03815.html#a42b0bda1e9a4c753058b169a54d61487aa1ce9b9e72da317ab9fb2ab185870301", null ],
-      [ "QUEST_BETRAYAL", "d7/dab/a03815.html#a42b0bda1e9a4c753058b169a54d61487a450d5ad64e19b151479e382d19eb61a1", null ],
-      [ "NPC_BLIGHTBLOOD_TROLL", "d7/dab/a03815.html#a42b0bda1e9a4c753058b169a54d61487aa097f88247c5dbdb01a95545e77de29b", null ],
-      [ "NPC_LICH_KING", "d7/dab/a03815.html#a42b0bda1e9a4c753058b169a54d61487abd0575cd83ccbb6cfce2ed374c32de7a", null ],
-      [ "EVENT_BETRAYAL_1", "d7/dab/a03815.html#a42b0bda1e9a4c753058b169a54d61487a224b9673910536aad883fc5e94a3c063", null ],
-      [ "EVENT_BETRAYAL_2", "d7/dab/a03815.html#a42b0bda1e9a4c753058b169a54d61487a2c081ede5b8b1b8d58c2d91d00288dba", null ],
-      [ "EVENT_BETRAYAL_3", "d7/dab/a03815.html#a42b0bda1e9a4c753058b169a54d61487adbd598841aabdf4a706d82400bb25ced", null ],
-      [ "EVENT_BETRAYAL_4", "d7/dab/a03815.html#a42b0bda1e9a4c753058b169a54d61487a1228953a004d3d7f52b4e16d9ef9b94f", null ],
-      [ "EVENT_BETRAYAL_5", "d7/dab/a03815.html#a42b0bda1e9a4c753058b169a54d61487a39eab459a29301b322dc0ed4c09f0617", null ],
-      [ "EVENT_BETRAYAL_6", "d7/dab/a03815.html#a42b0bda1e9a4c753058b169a54d61487a470b60efa17eae6148329b742c4061f9", null ],
-      [ "EVENT_BETRAYAL_7", "d7/dab/a03815.html#a42b0bda1e9a4c753058b169a54d61487a13df29416c41f85b22a892c1a2224df0", null ],
-      [ "EVENT_BETRAYAL_8", "d7/dab/a03815.html#a42b0bda1e9a4c753058b169a54d61487a197e856655820b6740476d6a5ad2058e", null ],
-      [ "EVENT_BETRAYAL_9", "d7/dab/a03815.html#a42b0bda1e9a4c753058b169a54d61487af66732b964bf36fc84cecb64e78e7eb8", null ],
-      [ "EVENT_BETRAYAL_10", "d7/dab/a03815.html#a42b0bda1e9a4c753058b169a54d61487a65aa041b83cddf2531042963ff4c1ced", null ],
-      [ "EVENT_BETRAYAL_11", "d7/dab/a03815.html#a42b0bda1e9a4c753058b169a54d61487ac85196b0c30c9f9bef115689969e5191", null ],
-      [ "EVENT_BETRAYAL_12", "d7/dab/a03815.html#a42b0bda1e9a4c753058b169a54d61487a930f00318bf5f6ce429cc29bd6ed3754", null ],
-      [ "EVENT_BETRAYAL_13", "d7/dab/a03815.html#a42b0bda1e9a4c753058b169a54d61487a6250d326730c4094733ded9cec0a3cce", null ],
-      [ "EVENT_BETRAYAL_14", "d7/dab/a03815.html#a42b0bda1e9a4c753058b169a54d61487ab863700e5383044ad2679fc5c2eb6dc1", null ],
-      [ "EVENT_BETRAYAL_SHADOW_BOLT", "d7/dab/a03815.html#a42b0bda1e9a4c753058b169a54d61487a5b9b639aff1062c69af1d04b2a7d0a24", null ],
-      [ "EVENT_BETRAYAL_CRYSTAL", "d7/dab/a03815.html#a42b0bda1e9a4c753058b169a54d61487a38671b664c2b9580098ab3401a76769b", null ],
-      [ "EVENT_BETRAYAL_COMBAT_TALK", "d7/dab/a03815.html#a42b0bda1e9a4c753058b169a54d61487a1f027e156f0401296fc8e0ffda20fb3b", null ],
-      [ "SAY_DRAKURU_0", "d7/dab/a03815.html#a42b0bda1e9a4c753058b169a54d61487a5c2abf3f2e5114c90d9b4d7e956bff0b", null ],
-      [ "SAY_DRAKURU_1", "d7/dab/a03815.html#a42b0bda1e9a4c753058b169a54d61487aed70804c411549c598ac05a8a404c7c0", null ],
-      [ "SAY_DRAKURU_2", "d7/dab/a03815.html#a42b0bda1e9a4c753058b169a54d61487a5752d325d7474aef059be90deecb85b9", null ],
-      [ "SAY_DRAKURU_3", "d7/dab/a03815.html#a42b0bda1e9a4c753058b169a54d61487a81566f3eed3be112993b7e0114eb4cb8", null ],
-      [ "SAY_DRAKURU_4", "d7/dab/a03815.html#a42b0bda1e9a4c753058b169a54d61487a2f54db51e0cf852e3929148cc5e22c5d", null ],
-      [ "SAY_DRAKURU_5", "d7/dab/a03815.html#a42b0bda1e9a4c753058b169a54d61487ad04d02024aed7c6c845173693a791bab", null ],
-      [ "SAY_DRAKURU_6", "d7/dab/a03815.html#a42b0bda1e9a4c753058b169a54d61487af44af0ea9fa73b9e75063fab6d82eb5d", null ],
-      [ "SAY_DRAKURU_7", "d7/dab/a03815.html#a42b0bda1e9a4c753058b169a54d61487ad2a38733ab9b03933460a9f6e6b63dea", null ],
-      [ "SAY_LICH_7", "d7/dab/a03815.html#a42b0bda1e9a4c753058b169a54d61487a946e1a90563fbe30e8e9cb8376be379f", null ],
-      [ "SAY_LICH_8", "d7/dab/a03815.html#a42b0bda1e9a4c753058b169a54d61487a9d3e5f3c58ffaa2c5568b558aa84ccbb", null ],
-      [ "SAY_LICH_9", "d7/dab/a03815.html#a42b0bda1e9a4c753058b169a54d61487ad7642215d36c1fb9858ea9245b5ef02b", null ],
-      [ "SAY_LICH_10", "d7/dab/a03815.html#a42b0bda1e9a4c753058b169a54d61487ab2f216d476c5cdb1914c8ac8a18949e0", null ],
-      [ "SAY_LICH_11", "d7/dab/a03815.html#a42b0bda1e9a4c753058b169a54d61487a45e64fe5da4a3306688af0164b823b74", null ],
-      [ "SAY_LICH_12", "d7/dab/a03815.html#a42b0bda1e9a4c753058b169a54d61487a36a853c7970596f9e263a0e7fbf1e825", null ]
+    [ "eTimeLost", "d7/dab/a03815.html#ae562cc946c36ab373babd16dad7493d7", [
+      [ "NPC_TIME_LOST_PROTO_DRAKE", "d7/dab/a03815.html#ae562cc946c36ab373babd16dad7493d7a5d38574cee111f6e50341380b20c0c26", null ],
+      [ "NPC_VYRAGOSA", "d7/dab/a03815.html#ae562cc946c36ab373babd16dad7493d7a7fc208b2a88944b4c011d71b5a40ec78", null ],
+      [ "SPELL_TIME_SHIFT", "d7/dab/a03815.html#ae562cc946c36ab373babd16dad7493d7ac57a87cb312f3d95f613c22e48a0ef10", null ],
+      [ "SPELL_TIME_LAPSE", "d7/dab/a03815.html#ae562cc946c36ab373babd16dad7493d7abf276d995824f99a65014da1cac10b65", null ],
+      [ "SPELL_FROST_BREATH", "d7/dab/a03815.html#ae562cc946c36ab373babd16dad7493d7a21d2702c1c121e1139359d986fbab12a", null ],
+      [ "SPELL_FROST_CLEAVE", "d7/dab/a03815.html#ae562cc946c36ab373babd16dad7493d7ad956a4247c496b57f6cc7830638007ef", null ]
     ] ],
-    [ "Rageclaw", "d7/dab/a03815.html#a0ff9ed580599c0c850f7d53d6432fce0", [
-      [ "SPELL_UNSHACKLED", "d7/dab/a03815.html#a0ff9ed580599c0c850f7d53d6432fce0ad15cf346316f00def5a6d78f5638792d", null ],
-      [ "SPELL_KNEEL", "d7/dab/a03815.html#a0ff9ed580599c0c850f7d53d6432fce0a3e829100c4eeade92ad79a2108141370", null ],
-      [ "SAY_RAGECLAW", "d7/dab/a03815.html#a0ff9ed580599c0c850f7d53d6432fce0a7a8a42222a1947cf47ee480ab22d0c4f", null ]
+    [ "eWildWyrm", "d7/dab/a03815.html#a1d8b3fe9b89bdddf273544e5f2685cee", [
+      [ "SPELL_FIGHT_WYRM_BASE", "d7/dab/a03815.html#a1d8b3fe9b89bdddf273544e5f2685ceeae9c5316a44f6aabec0560520f2714213", null ],
+      [ "SPELL_FIGHT_WYRM_NEXT", "d7/dab/a03815.html#a1d8b3fe9b89bdddf273544e5f2685ceea9903134f04818fffd11af3c69aca7053", null ],
+      [ "SPELL_SPEAR_OF_HODIR", "d7/dab/a03815.html#a1d8b3fe9b89bdddf273544e5f2685ceeab724d61a4559b27c4512cd8168d6db1e", null ],
+      [ "SPELL_DODGE_CLAWS", "d7/dab/a03815.html#a1d8b3fe9b89bdddf273544e5f2685ceea83d89284f483b36bed64cd61c597a289", null ],
+      [ "SPELL_WYRM_GRIP", "d7/dab/a03815.html#a1d8b3fe9b89bdddf273544e5f2685ceeadb17c9a6dbec4722b8ea5d2ca9087ac0", null ],
+      [ "SPELL_GRAB_ON", "d7/dab/a03815.html#a1d8b3fe9b89bdddf273544e5f2685ceeafdfdf7b225fb4eaecaafd18458a7e8e0", null ],
+      [ "SPELL_THRUST_SPEAR", "d7/dab/a03815.html#a1d8b3fe9b89bdddf273544e5f2685ceeaa5091a81264f90c13fc30c56c0152994", null ],
+      [ "SPELL_MIGHTY_SPEAR_THRUST", "d7/dab/a03815.html#a1d8b3fe9b89bdddf273544e5f2685ceea189032763f0efaa7516effaa4352af54", null ],
+      [ "SPELL_FATAL_STRIKE", "d7/dab/a03815.html#a1d8b3fe9b89bdddf273544e5f2685ceea268dd0e7aca5fa4e9ff65f33ab1b9b71", null ],
+      [ "SPELL_PRY_JAWS_OPEN", "d7/dab/a03815.html#a1d8b3fe9b89bdddf273544e5f2685ceead685cfc89c277ad5fce5c6943abf5cf2", null ],
+      [ "SPELL_JAWS_OF_DEATH", "d7/dab/a03815.html#a1d8b3fe9b89bdddf273544e5f2685ceea0e531d9bf92c9a71c24e097d8f1fd381", null ]
     ] ],
-    [ "ScourgeDisguiseInstability", "d7/dab/a03815.html#acea5346ffad736c0f80b61ad8c885f69", [
-      [ "SCOURGE_DISGUISE_FAILING_MESSAGE_1", "d7/dab/a03815.html#acea5346ffad736c0f80b61ad8c885f69a0414afd740fe68ee4ce74105ed220709", null ],
-      [ "SCOURGE_DISGUISE_FAILING_MESSAGE_2", "d7/dab/a03815.html#acea5346ffad736c0f80b61ad8c885f69ad69f168a22a9214e61b161bde38a62fe", null ],
-      [ "SCOURGE_DISGUISE_FAILING_MESSAGE_3", "d7/dab/a03815.html#acea5346ffad736c0f80b61ad8c885f69a8ca03a4ea8749adc0994543e38e6ff74", null ]
+    [ "FreedProtoDrake", "d7/dab/a03815.html#a0cfcc61ebd7905935d3b9472af3edfc4", [
+      [ "NPC_DRAKE", "d7/dab/a03815.html#a0cfcc61ebd7905935d3b9472af3edfc4aa28430f0a5d0543cda73d5c7b6edf40a", null ],
+      [ "TEXT_EMOTE", "d7/dab/a03815.html#a0cfcc61ebd7905935d3b9472af3edfc4a77d76bfa1c6234b9866a0162468137a6", null ],
+      [ "SPELL_KILL_CREDIT_PRISONER", "d7/dab/a03815.html#a0cfcc61ebd7905935d3b9472af3edfc4aa7a7afd87ce65cacea1c3cc271699f32", null ],
+      [ "SPELL_SUMMON_LIBERATED", "d7/dab/a03815.html#a0cfcc61ebd7905935d3b9472af3edfc4a84e4b95b5297798ba7bf31a801cda331", null ],
+      [ "SPELL_KILL_CREDIT_DRAKE", "d7/dab/a03815.html#a0cfcc61ebd7905935d3b9472af3edfc4aef782ab1e88176f53486813628fea63d", null ],
+      [ "EVENT_CHECK_AREA", "d7/dab/a03815.html#a0cfcc61ebd7905935d3b9472af3edfc4a1afe71f4391266cff2080bee59e58245", null ],
+      [ "EVENT_REACHED_HOME", "d7/dab/a03815.html#a0cfcc61ebd7905935d3b9472af3edfc4af05b24d3a5043dee4eec0d79b5af232b", null ]
     ] ],
-    [ "ScourgeEnclosure", "d7/dab/a03815.html#a740acdf4b4d0937eef3e062d66b9de4b", [
-      [ "QUEST_OUR_ONLY_HOPE", "d7/dab/a03815.html#a740acdf4b4d0937eef3e062d66b9de4ba240de8c75d2a585337e19b42ece990e2", null ],
-      [ "NPC_GYMER_DUMMY", "d7/dab/a03815.html#a740acdf4b4d0937eef3e062d66b9de4baf3164c424edbb9f3ac7d0fc0c097c7cf", null ],
-      [ "SPELL_GYMER_LOCK_EXPLOSION", "d7/dab/a03815.html#a740acdf4b4d0937eef3e062d66b9de4ba3ccf1c0c116ac325b0b2c98066ae3ed5", null ]
+    [ "q13007IronColossus", "d7/dab/a03815.html#a087b056704b91fae2c93eba42a026a26", [
+      [ "SPELL_JORMUNGAR_SUBMERGE", "d7/dab/a03815.html#a087b056704b91fae2c93eba42a026a26aed224fcf38261c2346031905865da961", null ],
+      [ "SPELL_JORMUNGAR_EMERGE", "d7/dab/a03815.html#a087b056704b91fae2c93eba42a026a26ac9f68e52ae04ed769ef8584e4d1c28f8", null ],
+      [ "SPELL_JORMUNGAR_SUBMERGE_VISUAL", "d7/dab/a03815.html#a087b056704b91fae2c93eba42a026a26a216b4c566f3bb6e1ccb804989b5534ec", null ],
+      [ "SPELL_COLOSSUS_GROUND_SLAM", "d7/dab/a03815.html#a087b056704b91fae2c93eba42a026a26a392dcbdfd30138c1cc769a3bfeb68430", null ]
     ] ],
-    [ "AddSC_zuldrak", "d7/dab/a03815.html#a595341879dbea9e321816938e73a4d7b", null ],
-    [ "AA_AURA_ID", "d7/dab/a03815.html#a4408cfc9a2f0da1e41850de7868c7b8a", null ],
-    [ "AA_ITEM_ENTRY", "d7/dab/a03815.html#a154010b82ac66d0f04b4b8daf9ae6d6d", null ],
-    [ "AA_ITEM_NAME", "d7/dab/a03815.html#a109a40c1b9a7cd8fec46087dee6c07d4", null ],
-    [ "scourgeDisguiseTextIDs", "d7/dab/a03815.html#a6be38154dc707bc5a8c5306ad197cb35", null ]
+    [ "qSniffing", "d7/dab/a03815.html#a72aa32e04cd59045853af5772e3d687a", [
+      [ "SPELL_SUMMON_PURSUERS_PERIODIC", "d7/dab/a03815.html#a72aa32e04cd59045853af5772e3d687aae8457fa3c07267f329e0540b0a3b1549", null ],
+      [ "SPELL_SNIFFING_CREDIT", "d7/dab/a03815.html#a72aa32e04cd59045853af5772e3d687aa5436d9053113a8e073fc91da29feae33", null ]
+    ] ],
+    [ "RoxiRamrocket", "d7/dab/a03815.html#a058d6572cf39f2cc3c25d28e576fdaff", [
+      [ "SPELL_MECHANO_HOG", "d7/dab/a03815.html#a058d6572cf39f2cc3c25d28e576fdaffa3e2dee241927533a2d68385a01272ffe", null ],
+      [ "SPELL_MEKGINEERS_CHOPPER", "d7/dab/a03815.html#a058d6572cf39f2cc3c25d28e576fdaffac82446ffb1ea10bf1e736999e287b9f6", null ]
+    ] ],
+    [ "WhenAllElseFailsAlliance", "d7/dab/a03815.html#a9fdba13d991fbaa7ff1363f4a4ca7144", [
+      [ "NPC_PROPELLED_DEVICE_1", "d7/dab/a03815.html#a9fdba13d991fbaa7ff1363f4a4ca7144afef7f466c30209c4d2ef04320dc1b8da", null ],
+      [ "NPC_PROPELLED_DEVICE_2", "d7/dab/a03815.html#a9fdba13d991fbaa7ff1363f4a4ca7144ac943cef8ef9283a27474714f809fa92d", null ],
+      [ "SPELL_EJECT_PLAYER", "d7/dab/a03815.html#a9fdba13d991fbaa7ff1363f4a4ca7144a6923288b5e7614e6f220db0c42710b47", null ],
+      [ "SPELL_KNOCKBACK_PLAYER", "d7/dab/a03815.html#a9fdba13d991fbaa7ff1363f4a4ca7144ad069ba965740c548f4d1c0618c4184e0", null ]
+    ] ],
+    [ "AddSC_storm_peaks", "d7/dab/a03815.html#ac8298d2bc33aa6752bc997cb838fe008", null ]
 ];

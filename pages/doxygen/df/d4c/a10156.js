@@ -1,4 +1,4 @@
 var a10156 =
 [
-    [ "RewardText", "df/d4c/a10156.html#afa9f5200ef634323d719794e1d1aa4d2", null ]
+    [ "MaxLimit", "df/d4c/a10156.html#a38ba12a67e99cabba2388a63f12a2b53", null ]
 ];

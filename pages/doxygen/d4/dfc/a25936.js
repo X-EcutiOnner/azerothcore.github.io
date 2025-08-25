@@ -1,6 +1,6 @@
 var a25936 =
 [
-    [ "OnPeriodic", "d4/dfc/a25936.html#a3368e8fad4a5ecd242056da38ad8f23a", null ],
-    [ "PrepareAuraScript", "d4/dfc/a25936.html#ad3d091510685ebc2d87aadb658cacf58", null ],
-    [ "Register", "d4/dfc/a25936.html#a9552ba0f4c18623b6b00ababa034942c", null ]
+    [ "CheckCast", "d4/dfc/a25936.html#a14bd28450fb989b1deb1854e2118cb6b", null ],
+    [ "PrepareSpellScript", "d4/dfc/a25936.html#a2a53af0cc911e1a68b365d692df1f0af", null ],
+    [ "Register", "d4/dfc/a25936.html#a67c43c4dabfb72ca54c160228b4b21c0", null ]
 ];

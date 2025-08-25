@@ -1,7 +1,8 @@
 var a12908 =
 [
-    [ "npc_scarlet_cannonAI", "d3/d86/a12908.html#a26720b34088b8063544f8c5db3b8d67c", null ],
-    [ "PassengerBoarded", "d3/d86/a12908.html#a71241dfc9b3ebe1f664d0adf03439c41", null ],
-    [ "UpdateAI", "d3/d86/a12908.html#a18ebb585e9b83f3781d3c49de5dc73b5", null ],
-    [ "summonAttackers", "d3/d86/a12908.html#a9e8eeb6995dae9a9d9ec3cb0ca6a07f5", null ]
+    [ "npc_death_knight_initiateAI", "d9/d63/a12912.html", "d9/d63/a12912" ],
+    [ "npc_death_knight_initiate", "d3/d86/a12908.html#a0c1b552035bed7be9af1fbdf8205b4b6", null ],
+    [ "GetAI", "d3/d86/a12908.html#ac38e0ed0ea1eac8e0de6f08664cb095a", null ],
+    [ "OnGossipHello", "d3/d86/a12908.html#a24f1b91ad0a69e4468e812747225d303", null ],
+    [ "OnGossipSelect", "d3/d86/a12908.html#ab0712bc84003b5eb72f11b49ef6e57a7", null ]
 ];

@@ -1,6 +1,6 @@
 var a17828 =
 [
-    [ "PrepareSpellScript", "d4/d2c/a17828.html#a9041ce6139de9a48621d6898ddcca673", null ],
-    [ "RecalculateDamage", "d4/d2c/a17828.html#abfb7c002577a59864fb2aa069b713c0a", null ],
-    [ "Register", "d4/d2c/a17828.html#a4308449e8cbe7ed59598a837024141cb", null ]
+    [ "BoneStormMoveTargetSelector", "d4/d2c/a17828.html#acd13e67fbbc29137ca2b77aaf9dc0e77", null ],
+    [ "operator()", "d4/d2c/a17828.html#a5b53c140d38db0df8faef3dfaf5c458d", null ],
+    [ "_source", "d4/d2c/a17828.html#a03d8b1ec5f18398fe2963418bb319973", null ]
 ];

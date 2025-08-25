@@ -1,13 +1,10 @@
 var a10200 =
 [
-    [ "AccountScript", "d6/d42/a10200.html#a3720bf412499a13ba4b41fc5c9f96b7c", null ],
-    [ "CanAccountCreateCharacter", "d6/d42/a10200.html#a6b5b94c1ac64bf8d926928d8401cd533", null ],
-    [ "OnAccountLogin", "d6/d42/a10200.html#afbebc7186ba77b0fefe0a6d32a774601", null ],
-    [ "OnBeforeAccountDelete", "d6/d42/a10200.html#a631f7deca08644da2613142c667618a8", null ],
-    [ "OnEmailChange", "d6/d42/a10200.html#adf20bd20cdc97b91db664dca95f82670", null ],
-    [ "OnFailedAccountLogin", "d6/d42/a10200.html#aae3401d74bdc9e8328a5f084462ae740", null ],
-    [ "OnFailedEmailChange", "d6/d42/a10200.html#a23261a238db9ddd618ebb6a45aaabcbf", null ],
-    [ "OnFailedPasswordChange", "d6/d42/a10200.html#a45d58c0f669f37b24e3dabf0ac4b2423", null ],
-    [ "OnLastIpUpdate", "d6/d42/a10200.html#a3de6453c132bb3d76b6888b87f988d2d", null ],
-    [ "OnPasswordChange", "d6/d42/a10200.html#aefa30b298f52d7c1a44e7648d088c3f0", null ]
+    [ "Flags", "d6/d42/a10200.html#abf9c2701e766951e5a211bf6bf85b175", null ],
+    [ "ID", "d6/d42/a10200.html#a946b8f7244fd22c4afcb26373ee61a13", null ],
+    [ "needSave", "d6/d42/a10200.html#aae888b1bf10f654ee212f3d687c111e9", null ],
+    [ "needSend", "d6/d42/a10200.html#ab8692e4433db81f9d3e0f96f8f930a8f", null ],
+    [ "ReputationListID", "d6/d42/a10200.html#a052caeeae1ecdca831097591e0fddaf6", null ],
+    [ "roundedUp", "d6/d42/a10200.html#a287fe9e8ec5da58ae3f5096045eebf31", null ],
+    [ "Standing", "d6/d42/a10200.html#ae87da6cada559e11a9607e194013d671", null ]
 ];

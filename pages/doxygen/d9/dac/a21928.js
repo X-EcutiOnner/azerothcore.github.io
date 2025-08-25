@@ -1,8 +1,6 @@
 var a21928 =
 [
-    [ "npc_ravenous_worgAI", "d9/dac/a21928.html#a5404516869e171c84b774f2a7b8be15d", null ],
-    [ "AttackStart", "d9/dac/a21928.html#a593d218d8cb083a7e37f81d3952c6d4c", null ],
-    [ "UpdateAI", "d9/dac/a21928.html#aeb64d5bde5ef9d8c2a62662bb72d3049", null ],
-    [ "_attack", "d9/dac/a21928.html#a3df5c98821ba33a40e25e7b050858b96", null ],
-    [ "_pacified", "d9/dac/a21928.html#a0da1f59a6fc9cdf39c9cced1eb52acba", null ]
+    [ "HandleDummy", "d9/dac/a21928.html#afe86744c6ab901750731fca486ff2e6c", null ],
+    [ "PrepareSpellScript", "d9/dac/a21928.html#a47e8a3187fa523c61842885f1cbd041d", null ],
+    [ "Register", "d9/dac/a21928.html#a61b1b63167b3dc562b9916ffce1e4eee", null ]
 ];

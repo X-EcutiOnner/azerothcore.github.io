@@ -1,9 +1,6 @@
 var a12196 =
 [
-    [ "npc_vaelastrasz_the_redAI", "d3/d6b/a12196.html#aa800617f887a21d8a61cac099c86faed", null ],
-    [ "IsSummonedBy", "d3/d6b/a12196.html#ab0eb414e7c9385e4831c4fbc6ba1de49", null ],
-    [ "UpdateAI", "d3/d6b/a12196.html#a4dd74c81dc67291ed04861cf542b0d24", null ],
-    [ "_combatEnabled", "d3/d6b/a12196.html#ae82e9f70dbfd6a4a75206d358de4504e", null ],
-    [ "_events2", "d3/d6b/a12196.html#aa31a968cb89f2c4bb4fde836fd600ab9", null ],
-    [ "_victorGUID", "d3/d6b/a12196.html#a8a4af969b8d340d5492f89499e3e90c2", null ]
+    [ "instance_blackrock_spireMapScript", "d1/d89/a12200.html", "d1/d89/a12200" ],
+    [ "instance_blackrock_spire", "d3/d6b/a12196.html#a3238be88efcdc9669e7e6a1d725649b3", null ],
+    [ "GetInstanceScript", "d3/d6b/a12196.html#a5ee2cc38a36ce2cd8c1196ce9f687e2a", null ]
 ];

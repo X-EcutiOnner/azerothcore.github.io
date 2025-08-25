@@ -1,6 +1,7 @@
 var a22120 =
 [
-    [ "ChangeSummonPos", "d6/d2b/a22120.html#aeb2cf0a5d2e563e4983ddd237a2b1001", null ],
-    [ "PrepareSpellScript", "d6/d2b/a22120.html#a1654fec971696e613b5102b3ca5030f1", null ],
-    [ "Register", "d6/d2b/a22120.html#ab1e7d44914952dfb7f7ccf2de4da286f", null ]
+    [ "npc_tirions_gambit_tirionAI", "dd/dc4/a22124.html", "dd/dc4/a22124" ],
+    [ "npc_tirions_gambit_tirion", "d6/d2b/a22120.html#ad52abd46ccdd3b4409671679434c193c", null ],
+    [ "GetAI", "d6/d2b/a22120.html#a222c092c2e2136dbd7057a3f7ad7b5f4", null ],
+    [ "OnGossipSelect", "d6/d2b/a22120.html#a5af904a3394de9b3eedb52009bd6b0a9", null ]
 ];

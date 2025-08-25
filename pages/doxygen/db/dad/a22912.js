@@ -1,6 +1,6 @@
 var a22912 =
 [
-    [ "boss_essence_of_desireAI", "d5/d19/a22916.html", "d5/d19/a22916" ],
-    [ "boss_essence_of_desire", "db/dad/a22912.html#a5006ce57dd19c2a80e961dedca8c503d", null ],
-    [ "GetAI", "db/dad/a22912.html#a14b66470c508fa24e214062aeec0aae6", null ]
+    [ "PrepareAuraScript", "db/dad/a22912.html#ac52a5dccc708f9ee63f3c6c92fbf15c1", null ],
+    [ "Register", "db/dad/a22912.html#acc4afbe7f2b23b67e8f7e3fe1eeb03b5", null ],
+    [ "Update", "db/dad/a22912.html#aa9f5924b3f12c666c53ddc2b9b80aeea", null ]
 ];

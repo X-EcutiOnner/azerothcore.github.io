@@ -1,5 +1,6 @@
 var a04535 =
 [
-    [ "HMAC_RESULT_SIZE", "d6/df1/a04535.html#abdb09168f87cd99a498636550843012d", null ],
-    [ "TOTP_INTERVAL", "d6/df1/a04535.html#abcaccdfb09251b1b2856cc0c48c64eda", null ]
+    [ "GetRandomBytes", "d6/df1/a04535.html#ab09d7cc2f8e11fc5fe6b2323d57b7184", null ],
+    [ "GetRandomBytes", "d6/df1/a04535.html#a797cfc74306f60b5c63eecb37a2061d3", null ],
+    [ "GetRandomBytes", "d6/df1/a04535.html#a2ff283a7b883696205a91f122b194f6f", null ]
 ];

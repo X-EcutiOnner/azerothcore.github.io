@@ -1,7 +1,6 @@
 var a16756 =
 [
-    [ "HandleScriptEffect", "d0/d4f/a16756.html#a667e50b01f431dba025f692484f6e7ba", null ],
-    [ "PrepareSpellScript", "d0/d4f/a16756.html#a9a5ffd28102a519c06f3715d7f2b1039", null ],
-    [ "Register", "d0/d4f/a16756.html#a7ffa6eb498e9ec06d5cb4f81cff44389", null ],
-    [ "Validate", "d0/d4f/a16756.html#a0ab270193a95f9043afd40c9ffd2a46b", null ]
+    [ "boss_trollgoreAI", "d9/dc4/a16760.html", "d9/dc4/a16760" ],
+    [ "boss_trollgore", "d0/d4f/a16756.html#a95102f1fae6c667e0780b8b388fc156b", null ],
+    [ "GetAI", "d0/d4f/a16756.html#a6da1349da296a3dc3d29527a8e3c2b7d", null ]
 ];

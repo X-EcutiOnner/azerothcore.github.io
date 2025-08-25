@@ -1,9 +1,6 @@
 var a23928 =
 [
-    [ "boss_nethermancer_sepethrea", "d8/d6e/a23928.html#aae77446e9a8f2ac41601049d3fe9ffd4", null ],
-    [ "EnterEvadeMode", "d8/d6e/a23928.html#a0ac9dd29b73e8734318851ffd9a09162", null ],
-    [ "JustDied", "d8/d6e/a23928.html#a2ac13176ebffa245fd9e0ba6173f30cc", null ],
-    [ "JustEngagedWith", "d8/d6e/a23928.html#a89851b9f6eb94270fe22151d3a968bec", null ],
-    [ "JustSummoned", "d8/d6e/a23928.html#acf98dbddcd55131cb9cdebe6d319e2c2", null ],
-    [ "KilledUnit", "d8/d6e/a23928.html#ad9606ca8c1fe6f68f72ec415cc70ef2f", null ]
+    [ "instance_the_eye_InstanceMapScript", "dc/d50/a23932.html", "dc/d50/a23932" ],
+    [ "instance_the_eye", "d8/d6e/a23928.html#a685064ba70095a3fc27ae1a8b33d3c88", null ],
+    [ "GetInstanceScript", "d8/d6e/a23928.html#a811c7d161469f33ce4fb7d792ce30a4e", null ]
 ];

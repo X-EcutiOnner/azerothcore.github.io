@@ -1,6 +1,7 @@
 var a26792 =
 [
-    [ "HandleBanish", "d1/d82/a26792.html#ab8dd3ab2fd7b9aff3556e6284c515474", null ],
-    [ "PrepareSpellScript", "d1/d82/a26792.html#a56118e3ed7525cdf575531a4c2f2d93f", null ],
-    [ "Register", "d1/d82/a26792.html#ad6c066c9d6a64a5d89d3c347600559a9", null ]
+    [ "HandleAuraApply", "d1/d82/a26792.html#afb8eb7fcc0797c3e19a9bfc5eebb5fb2", null ],
+    [ "HandleAuraRemove", "d1/d82/a26792.html#a9029865b5e06c4a9aa7f155f371c9125", null ],
+    [ "PrepareAuraScript", "d1/d82/a26792.html#a5c7d7c0b8880128121d66d39094f1965", null ],
+    [ "Register", "d1/d82/a26792.html#ae15d5175671c60a55e4a77848bc9fe1b", null ]
 ];

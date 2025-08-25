@@ -1,13 +1,13 @@
 var a05568 =
 [
-    [ "IntervalTimer", "db/d7d/a05568.html#a2538976b639e25e63a8ab5927663ade1", null ],
-    [ "GetCurrent", "db/d7d/a05568.html#a93a456d6ff6d74cc889517fc585626e8", null ],
-    [ "GetInterval", "db/d7d/a05568.html#a986bec1dcb7325088517f6721636abcc", null ],
-    [ "Passed", "db/d7d/a05568.html#a9b3ac2407baf9763fa899e35a5c55fbe", null ],
-    [ "Reset", "db/d7d/a05568.html#ae243f18c4c3174b91fa01f6d08b04d4d", null ],
-    [ "SetCurrent", "db/d7d/a05568.html#ab315f686c2777dc21c824d8674479f9f", null ],
-    [ "SetInterval", "db/d7d/a05568.html#a28d95330f971d3a37aaf53e4f16aad4a", null ],
-    [ "Update", "db/d7d/a05568.html#aa1f5b922ea2d95c49924a506ca37a676", null ],
-    [ "_current", "db/d7d/a05568.html#a99c5aec27af00ffbbd83c5adbd2e2016", null ],
-    [ "_interval", "db/d7d/a05568.html#a179584ce91f62ba5e74ae3f34ee32fbc", null ]
+    [ "Clear", "db/d7d/a05568.html#adc64d35670bf0d41519cb9998d3db17e", null ],
+    [ "First", "db/d7d/a05568.html#a8bbd41b304f7e69df565af75f4846bda", null ],
+    [ "GetNextGroupOccurrence", "db/d7d/a05568.html#af2cb38062e4d62558d520be75b01bedb", null ],
+    [ "IsEmpty", "db/d7d/a05568.html#a151898f14e9a1628ddb52b6840fcc4fc", null ],
+    [ "IsGroupQueued", "db/d7d/a05568.html#ada8edd51338da19db3f282ccc6229516", null ],
+    [ "ModifyIf", "db/d7d/a05568.html#a0ad5b4de404b1f8312341a28a1a58b5b", null ],
+    [ "Pop", "db/d7d/a05568.html#a5f5d6b5a4a5e4ec93ff94619485736cb", null ],
+    [ "Push", "db/d7d/a05568.html#aff6bc8c7fae6640b555ddb027cf0f6ab", null ],
+    [ "RemoveIf", "db/d7d/a05568.html#a6efe3145679913fde4d4cc1f8cc819e6", null ],
+    [ "container", "db/d7d/a05568.html#acc56bddf7e586a3a950f608efb730498", null ]
 ];

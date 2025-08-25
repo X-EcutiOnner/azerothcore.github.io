@@ -1,6 +1,6 @@
 var a18364 =
 [
-    [ "npc_strangulate_vehicleAI", "d5/dc6/a18368.html", "d5/dc6/a18368" ],
-    [ "npc_strangulate_vehicle", "d6/d76/a18364.html#a04532bc5902af45b1e9c76cf1cec9add", null ],
-    [ "GetAI", "d6/d76/a18364.html#aa5813442234d7b18fc4e7ed44a0b30bc", null ]
+    [ "ModDest", "d6/d76/a18364.html#a71638bdecb0f580dceff7858441056d8", null ],
+    [ "PrepareSpellScript", "d6/d76/a18364.html#a741227928e07585b156ec716ae8b13da", null ],
+    [ "Register", "d6/d76/a18364.html#a19221c8453f23a7d384f6a2cb24c2fc2", null ]
 ];

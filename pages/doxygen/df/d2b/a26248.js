@@ -1,6 +1,6 @@
 var a26248 =
 [
-    [ "HandleDamage", "df/d2b/a26248.html#ae34b85a4830066e21069e5ab8373e5c4", null ],
-    [ "PrepareSpellScript", "df/d2b/a26248.html#a86fd53d1f9a2ecf22c4969e2f8506acf", null ],
-    [ "Register", "df/d2b/a26248.html#a1a679fb0be26228f5fcdb45da2b994ff", null ]
+    [ "HandleAfterHit", "df/d2b/a26248.html#a6f0ec02c8b1429a6be76465dd9badd1c", null ],
+    [ "PrepareSpellScript", "df/d2b/a26248.html#af2e6c3bfc233ee86fa2c9186cdd6b5a4", null ],
+    [ "Register", "df/d2b/a26248.html#a2a780069022e62b14992a7b69626ac3d", null ]
 ];

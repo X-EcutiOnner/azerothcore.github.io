@@ -1,12 +1,9 @@
 var a07392 =
 [
-    [ "CapturePointInfo", "dd/d53/a07392.html#a8bd80d9a019a5579d32051c6c3f91c0b", null ],
-    [ "IsUncontrolled", "dd/d53/a07392.html#a4a4dbb61dd3ae83084ee518830fb7db0", null ],
-    [ "IsUnderControl", "dd/d53/a07392.html#a3f33897525f5104e2e7733dd6247c090", null ],
-    [ "IsUnderControl", "dd/d53/a07392.html#af6b021020b120b87c300981b8bb60992", null ],
-    [ "_areaTrigger", "dd/d53/a07392.html#aca64138e11e9e29a55bfedeee5b7e7ea", null ],
-    [ "_barStatus", "dd/d53/a07392.html#a02da5cc40ac6e97e63380d6f66e10d7e", null ],
-    [ "_ownerTeamId", "dd/d53/a07392.html#a5f0019635c5d05489f1ef97a95a7f01d", null ],
-    [ "_playersCount", "dd/d53/a07392.html#a7316d0eccaa25b9f30a39c48635e4c16", null ],
-    [ "player", "dd/d53/a07392.html#a97c5da6401e8423c1314ad1186e1dfeb", null ]
+    [ "BattlegroundEYScore", "dd/d53/a07392.html#a91c17f1ff1924439b05840cd11ede36f", null ],
+    [ "BuildObjectivesBlock", "dd/d53/a07392.html#a8a915f38f28ee3929c7922b9fa8f38d6", null ],
+    [ "GetAttr1", "dd/d53/a07392.html#a43d4b01a1f3c8325795d90f2a97c230c", null ],
+    [ "UpdateScore", "dd/d53/a07392.html#afad034f453c54587b86532a37335ab18", null ],
+    [ "BattlegroundEY", "dd/d53/a07392.html#a5d809f1fdf1bb7a29d7504e432e10b8f", null ],
+    [ "FlagCaptures", "dd/d53/a07392.html#a057a335c7491c1031666e6d10cf314b2", null ]
 ];

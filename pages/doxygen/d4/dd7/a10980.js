@@ -1,5 +1,6 @@
 var a10980 =
 [
-    [ "AccountInfoQueryHolderPerRealm", "d4/dd7/a10980.html#a9d821669804cd04cf121e141d94ead36", null ],
-    [ "Initialize", "d4/dd7/a10980.html#a9d4e4de9a038697f61e6350f5f59713b", null ]
+    [ "ClientOpcodeHandler", "db/da6/a04782.html#ga975b7c1e941b9ad11164cc5b0cf3f557", null ],
+    [ "Call", "db/da6/a04782.html#gae6c5104e6c75c2e88a3d8dfcf9e63678", null ],
+    [ "ProcessingPlace", "db/da6/a04782.html#gaccb7f451536a1a56ba072a82202e5a53", null ]
 ];

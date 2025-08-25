@@ -1,7 +1,6 @@
 var a17340 =
 [
-    [ "HandleScript", "d2/d9c/a17340.html#a4b1e392acea30a9259e65a75667704c5", null ],
-    [ "Load", "d2/d9c/a17340.html#a9af7bb4defb7c590aaff1a709dad4573", null ],
-    [ "PrepareSpellScript", "d2/d9c/a17340.html#a17301c4ef9623ec04ec3c15dfd4e316f", null ],
-    [ "Register", "d2/d9c/a17340.html#a77632d11a172e5552c0c49de830a1639", null ]
+    [ "npc_dark_nucleusAI", "d1/dc5/a17344.html", "d1/dc5/a17344" ],
+    [ "npc_dark_nucleus", "d2/d9c/a17340.html#a14459f4f41ef568decbc952fdcd4ffd5", null ],
+    [ "GetAI", "d2/d9c/a17340.html#a1f59ae45c1a84a6faca5a8bb62fc16fc", null ]
 ];

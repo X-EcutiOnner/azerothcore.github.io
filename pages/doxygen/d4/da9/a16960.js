@@ -1,9 +1,10 @@
 var a16960 =
 [
-    [ "npc_hor_risen_witch_doctorAI", "d4/da9/a16960.html#acd33d4811521f6d41bce21270198db45", null ],
-    [ "JustDied", "d4/da9/a16960.html#a49eb1c20ef810d0e4aeea8f99fcabebb", null ],
-    [ "JustEngagedWith", "d4/da9/a16960.html#a54378daf294fcbee4ba1abf14927cc52", null ],
-    [ "Reset", "d4/da9/a16960.html#a20742bb0fe610367283cd5dc7e8b36ff", null ],
-    [ "UpdateAI", "d4/da9/a16960.html#af9baaf71fa53a42ab5d1507fdd6aa9fd", null ],
-    [ "events", "d4/da9/a16960.html#abb39744cdcdc8e1fbf8fd06508af35f9", null ]
+    [ "npc_hor_spiritual_reflectionAI", "d4/da9/a16960.html#aac0a916bfa325284b354e7241fe857ab", null ],
+    [ "EnterEvadeMode", "d4/da9/a16960.html#a49f1c93206bfff53090c138a3dbf79e5", null ],
+    [ "JustDied", "d4/da9/a16960.html#a72073c44f881d4a78552de4119a716d7", null ],
+    [ "JustEngagedWith", "d4/da9/a16960.html#ac35e648b93bb39ca831390bf88f6a3e7", null ],
+    [ "Reset", "d4/da9/a16960.html#ad1f523fad45c34077e6d6ce7b9a4aefd", null ],
+    [ "UpdateAI", "d4/da9/a16960.html#af9613e9309b85317bc6e3a84013dcf89", null ],
+    [ "events", "d4/da9/a16960.html#a89a466917aa5634c4c86ecbce21280b7", null ]
 ];

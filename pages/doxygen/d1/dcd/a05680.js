@@ -1,10 +1,10 @@
 var a05680 =
 [
-    [ "BasicStatementTask", "d1/dcd/a05680.html#a11c6f1259d1d6d9c50211784636e45c4", null ],
-    [ "~BasicStatementTask", "d1/dcd/a05680.html#a0db608b5bae77e5f83b0e1bf5850719f", null ],
-    [ "Execute", "d1/dcd/a05680.html#a7f500736cc0ec4cddf94510927989d4d", null ],
-    [ "GetFuture", "d1/dcd/a05680.html#aa574f8cc00ac956d23f93c7e96864fc9", null ],
-    [ "m_has_result", "d1/dcd/a05680.html#a8bfae5e5695a6bf6bf796d95efa21e7e", null ],
-    [ "m_result", "d1/dcd/a05680.html#af70bc95cbf0df481dacf034ff78d2eb8", null ],
-    [ "m_sql", "d1/dcd/a05680.html#a9320235413d1c4736301070e1faeb161", null ]
+    [ "FreezeDetector", "d4/dcf/a04781.html#gae4bea4699ff716ee22295d12bc9f1b9b", null ],
+    [ "Handler", "d4/dcf/a04781.html#gad4c4e5b291e0c6c2dc169a7dbffdfabb", null ],
+    [ "Start", "d4/dcf/a04781.html#ga6a90ff702a8d363bd23334c81e2e5770", null ],
+    [ "_lastChangeMsTime", "d4/dcf/a04781.html#ga0a2b971b7ea733d846be71abf7b5dc1d", null ],
+    [ "_maxCoreStuckTimeInMs", "d4/dcf/a04781.html#ga54077eab38ea5d0db27f08c50fd0652e", null ],
+    [ "_timer", "d4/dcf/a04781.html#ga2377cec7cca6dbb9133a3d48b4d376c3", null ],
+    [ "_worldLoopCounter", "d4/dcf/a04781.html#ga0ea988a0e070d056c16d7c9f3b1035f4", null ]
 ];

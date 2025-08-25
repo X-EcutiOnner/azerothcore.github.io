@@ -1,8 +1,5 @@
 var a11052 =
 [
-    [ "SkillDiscoveryEntry", "d1/dc1/a11052.html#a54c0f12153c6e63a37e5da44d233b271", null ],
-    [ "SkillDiscoveryEntry", "d1/dc1/a11052.html#a301cae078fe1943cae045e94dc3d38ad", null ],
-    [ "chance", "d1/dc1/a11052.html#a71cf2c48937e5a2a3c6dd8c499a860a7", null ],
-    [ "reqSkillValue", "d1/dc1/a11052.html#a61e0edc8fee1fa4045d846668d08449c", null ],
-    [ "spellId", "d1/dc1/a11052.html#a75ca40729917317173b2953c8f47f833", null ]
+    [ "amountCounter", "d1/dc1/a11052.html#af652ffc837bde625aa39e913ec2e2eec", null ],
+    [ "lastReceiveTime", "d1/dc1/a11052.html#ae0f3f2a90a24b48d239e3df3525f8fdc", null ]
 ];

@@ -1,5 +1,8 @@
 var a28348 =
 [
-    [ "id", "d6/d3d/a28348.html#a4667f55651f20c85f5b3da9384bac078", null ],
-    [ "QuestRewFactionValue", "d6/d3d/a28348.html#a9a42feddeef8e054cd52b72cfc812867", null ]
+    [ "areaTriggerText", "d6/d3d/a28348.html#a32bb8c4a4defce661d108627e25b645a", null ],
+    [ "Difficulty", "d6/d3d/a28348.html#add8ed75cd6aaa3412e6222b869bb4113", null ],
+    [ "MapId", "d6/d3d/a28348.html#aa107ad302ec2aa3ce2289ba392e1c32e", null ],
+    [ "maxPlayers", "d6/d3d/a28348.html#a7ab33229ffee11a27861439053c79831", null ],
+    [ "resetTime", "d6/d3d/a28348.html#a891a741efb049b51996e1a6110efc52d", null ]
 ];

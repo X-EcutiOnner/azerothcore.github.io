@@ -1,7 +1,7 @@
 var a15468 =
 [
-    [ "HandleDummy", "d9/d42/a15468.html#a38dafff805471b19ca3cca4ff5273a87", null ],
-    [ "PrepareSpellScript", "d9/d42/a15468.html#a40db5a46491aa22b5347f99b0251f1b8", null ],
-    [ "Register", "d9/d42/a15468.html#a2f297ab67d5e2e990658706f7c508bd4", null ],
-    [ "Validate", "d9/d42/a15468.html#abb7946f53e6271ae69d34caacef61f47", null ]
+    [ "npc_aged_dying_ancient_kodoAI", "d9/d42/a15468.html#aaed19d0c915891d8afecda7df75a8a75", null ],
+    [ "JustRespawned", "d9/d42/a15468.html#a9353ac81b0c209a56313b52f2257ddd2", null ],
+    [ "MoveInLineOfSight", "d9/d42/a15468.html#a295d4bef97b97c7deb31a81274f0818d", null ],
+    [ "SpellHit", "d9/d42/a15468.html#a021b82aa6bd2e118fe810f18349fda42", null ]
 ];

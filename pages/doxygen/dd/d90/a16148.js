@@ -1,8 +1,7 @@
 var a16148 =
 [
-    [ "Load", "dd/d90/a16148.html#a55dc086667f0fe23e513608e951276ed", null ],
-    [ "Phase", "dd/d90/a16148.html#af66a6bff13803e54b6ed1447d1285ad4", null ],
-    [ "PrepareSpellScript", "dd/d90/a16148.html#ae2c7cbd68ccf893144e38581a6f86f04", null ],
-    [ "Register", "dd/d90/a16148.html#a8ab7e05e98771abcf9bed9995875b71d", null ],
-    [ "Validate", "dd/d90/a16148.html#a87192df547adaf3cb060155d9cf4da79", null ]
+    [ "npc_orb_carrierAI", "dd/d90/a16148.html#a2011c247d2157f5f2a06db6e149743e0", null ],
+    [ "DoAction", "dd/d90/a16148.html#a501d0bdb9d77be1229dadf60d5f8af8c", null ],
+    [ "TriggerCutter", "dd/d90/a16148.html#a6b6b127db878ca3b79ac8d7aeff4156e", null ],
+    [ "UpdateAI", "dd/d90/a16148.html#a99a08390fcf2b0a058aee161932392d0", null ]
 ];

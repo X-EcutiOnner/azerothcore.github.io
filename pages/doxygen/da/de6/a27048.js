@@ -1,5 +1,5 @@
 var a27048 =
 [
-    [ "achievement_tilted", "da/de6/a27048.html#a868d7b8a437434d6dc34b5000c429e66", null ],
-    [ "OnCheck", "da/de6/a27048.html#a61d3eb78450383485699532d96f79d93", null ]
+    [ "achievement_bg_ic_resource_glut", "da/de6/a27048.html#ace247962dccee2601ceade593b0874d4", null ],
+    [ "OnCheck", "da/de6/a27048.html#a9910cf8b16b8c956df382161cc5f2c84", null ]
 ];

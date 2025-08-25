@@ -1,8 +1,7 @@
 var a10608 =
 [
-    [ "OtherGUID", "d9/d2e/a10608.html#a3f7486a2e4e07fef318414eaaa9037da", null ],
-    [ "PlayerGUID", "d9/d2e/a10608.html#ae3d1217ddbfccd601fcbc57b78739a94", null ],
-    [ "RankID", "d9/d2e/a10608.html#a1aebcb39f85c2b44101a311a6ccefdfd", null ],
-    [ "TransactionDate", "d9/d2e/a10608.html#a4a8054876b35134e5dfe2cf84887e66f", null ],
-    [ "TransactionType", "d9/d2e/a10608.html#aa48b69aa9078fb150470d66201b34786", null ]
+    [ "GuildInvite", "d9/d2e/a10608.html#a7b5ef96e9a9d4c6665b280bb844b6d54", null ],
+    [ "Write", "d9/d2e/a10608.html#a4ed1c240a53fa6268eb07b3c77d68757", null ],
+    [ "GuildName", "d9/d2e/a10608.html#ac3ae572bb65d5ea156151e5fc7abf5b8", null ],
+    [ "InviterName", "d9/d2e/a10608.html#a8a91b3f9a94776da4b23c38220c6fc3d", null ]
 ];

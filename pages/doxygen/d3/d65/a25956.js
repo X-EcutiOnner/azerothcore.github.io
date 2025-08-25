@@ -1,7 +1,6 @@
 var a25956 =
 [
-    [ "OnApply", "d3/d65/a25956.html#aa86d7b45f028773b8666c06d3a0e60b4", null ],
-    [ "OnRemove", "d3/d65/a25956.html#a0fdd3c926bb1b2846579102e64e8e18c", null ],
-    [ "PrepareAuraScript", "d3/d65/a25956.html#aa93b45e31c33caf3ea51a26846566b34", null ],
-    [ "Register", "d3/d65/a25956.html#a56d819c88a4e70a89cef5183e3c5b728", null ]
+    [ "PrepareSpellScript", "d3/d65/a25956.html#a7099b8d28128cfea49288792ea02606c", null ],
+    [ "Register", "d3/d65/a25956.html#a7622be3b736678ebeb3982a8d6a5b601", null ],
+    [ "UpdateTarget", "d3/d65/a25956.html#a4e808b026c89d080e309a0ca8b4f57d1", null ]
 ];

@@ -1,6 +1,8 @@
 var a20864 =
 [
-    [ "boss_yoggsaron_corruptor_tentacleAI", "dc/d62/a20868.html", "dc/d62/a20868" ],
-    [ "boss_yoggsaron_corruptor_tentacle", "d0/dad/a20864.html#a86fbf881f0a861124dda085347bb03bd", null ],
-    [ "GetAI", "d0/dad/a20864.html#a7325d6feaa12d74c030152ba3a0ab756", null ]
+    [ "boss_yoggsaron_guardian_of_ysAI", "d0/dad/a20864.html#a5542a4fd68a012049a79047f47dccc68", null ],
+    [ "JustDied", "d0/dad/a20864.html#ad75f0baeef73a79cdb9bf62463bc8e50", null ],
+    [ "Reset", "d0/dad/a20864.html#a43d12c19425f3caa56a9732774b6f943", null ],
+    [ "UpdateAI", "d0/dad/a20864.html#a8e1d0b14747db6ce06b882f3f9d61963", null ],
+    [ "_spellTimer", "d0/dad/a20864.html#a45dec8609328d65413ae6c88f693ba15", null ]
 ];

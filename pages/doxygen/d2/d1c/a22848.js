@@ -1,9 +1,7 @@
 var a22848 =
 [
-    [ "HandleAfterCast", "d2/d1c/a22848.html#a32928b579ef42f377e911ef27197ed61", null ],
-    [ "HandleDummy", "d2/d1c/a22848.html#a2adec08f0cc42cb21e97007b5f1214bc", null ],
-    [ "Load", "d2/d1c/a22848.html#ac870bd626367bdc704e63d2f3b061b1f", null ],
-    [ "PrepareSpellScript", "d2/d1c/a22848.html#a1f51d5562d5caac8d7d0f71de0051989", null ],
-    [ "Register", "d2/d1c/a22848.html#adf8c87e9f6a3fb36bf26ed1c8dbb722f", null ],
-    [ "_targetCount", "d2/d1c/a22848.html#a84d46608f7141d68b1a67fffc3493cbb", null ]
+    [ "VerasEnvenom", "d2/d1c/a22848.html#ac8c5f4fcb63ea5141a71b56324de0b1f", null ],
+    [ "Execute", "d2/d1c/a22848.html#a4b7853bb835cf28aefe2d5b955372d70", null ],
+    [ "_owner", "d2/d1c/a22848.html#af9cf231119ab5592be9829784f20d2e0", null ],
+    [ "_targetGUID", "d2/d1c/a22848.html#a90d62907c775565765fa87903adb94ea", null ]
 ];

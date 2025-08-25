@@ -1,6 +1,6 @@
 var a23064 =
 [
-    [ "PrepareAuraScript", "d6/d06/a23064.html#a0dca39c324a5431d4861c1f20a34355e", null ],
-    [ "Register", "d6/d06/a23064.html#a8f52092f25bdbf453d4126c56ff69f0a", null ],
-    [ "Update", "d6/d06/a23064.html#a6201eaa3b961e838a535b80679996ada", null ]
+    [ "HandleSchoolDamage", "d6/d06/a23064.html#ab105ff1efd0fe20585ac3dc6c60f81a2", null ],
+    [ "PrepareSpellScript", "d6/d06/a23064.html#a0296aa3d00d0d12e213d95b8520c50dc", null ],
+    [ "Register", "d6/d06/a23064.html#a4cd7135ff9e4ef605635f1eccc01ba65", null ]
 ];

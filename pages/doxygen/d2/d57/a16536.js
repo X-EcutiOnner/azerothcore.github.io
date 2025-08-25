@@ -1,9 +1,7 @@
 var a16536 =
 [
-    [ "npc_fel_infernalAI", "d2/d57/a16536.html#a7f34b34facdfeea3fc3507ad3cf84dda", null ],
-    [ "EnterEvadeMode", "d2/d57/a16536.html#aedec8729b9be931a74fe00d1aa649848", null ],
-    [ "JustDied", "d2/d57/a16536.html#a599786069f98231eeb7f9ca809f8e671", null ],
-    [ "Reset", "d2/d57/a16536.html#a09f408c9250467228b91ef9f6c9544f4", null ],
-    [ "UpdateAI", "d2/d57/a16536.html#a45075fdaba6d7c04cb526420deb8a0ac", null ],
-    [ "events", "d2/d57/a16536.html#acf955037c246f7b5f12cc5338b300b63", null ]
+    [ "npc_toc_retro_paladinAI", "d2/d57/a16536.html#afe933281cea61c9a4f3ded76290a3b72", null ],
+    [ "myCanCast", "d2/d57/a16536.html#a271b1d0855dbd2e38ecb6ea62140012f", null ],
+    [ "UpdateAI", "d2/d57/a16536.html#a105d6b9c133c1147b310826d7be416f5", null ],
+    [ "events", "d2/d57/a16536.html#a7078c28d5392bc77d577fa7a6f96b9d7", null ]
 ];

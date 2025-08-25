@@ -1,8 +1,9 @@
 var a19656 =
 [
-    [ "dark_rune_stormcallerAI", "df/deb/a19656.html#ad889fb0c50e879c958c9b8bb681e4bf7", null ],
-    [ "JustEngagedWith", "df/deb/a19656.html#a7ddfb8afac3ff28a84b26255628fab50", null ],
-    [ "Reset", "df/deb/a19656.html#afa9cc2e1a9f7d21cd885479e9afdcd12", null ],
-    [ "UpdateAI", "df/deb/a19656.html#adbd245fc5180dc7c78704595a9592864", null ],
-    [ "events", "df/deb/a19656.html#aa7d8d1d075eeb03952b47cc16846a3db", null ]
+    [ "boss_sjonnir_iron_sludgeAI", "df/deb/a19656.html#aac57ae32188c47ca97b7331d62986e66", null ],
+    [ "JustDied", "df/deb/a19656.html#a6cfebecaaf673e40f97a46a09947a1f0", null ],
+    [ "JustEngagedWith", "df/deb/a19656.html#a772d279407d724477560898559710433", null ],
+    [ "Reset", "df/deb/a19656.html#a5b4a726aa496923d81c41b038e5f7449", null ],
+    [ "UpdateAI", "df/deb/a19656.html#a2745ff26c165851c367e080d28652984", null ],
+    [ "events", "df/deb/a19656.html#a468d45f9b9c2172f326068d59a74121a", null ]
 ];

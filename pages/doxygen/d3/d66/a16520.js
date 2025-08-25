@@ -1,7 +1,7 @@
 var a16520 =
 [
-    [ "HandleDispel", "d3/d66/a16520.html#a7b24f38bbb7813826520f928b22d30aa", null ],
-    [ "PrepareAuraScript", "d3/d66/a16520.html#a0e0424bd590cfc4f85f40728bf6efd22", null ],
-    [ "Register", "d3/d66/a16520.html#a2bf6921550da3c13730fd98bded2c927", null ],
-    [ "Validate", "d3/d66/a16520.html#ad8b0bb389d232c74acf106b711414fa1", null ]
+    [ "npc_toc_rogueAI", "d3/d66/a16520.html#a34027e7d10edbfba8e046f4785e37899", null ],
+    [ "myCanCast", "d3/d66/a16520.html#a85ed8e251dd8356e678536f1e3f3c93d", null ],
+    [ "UpdateAI", "d3/d66/a16520.html#a49b0655def227684f07bd60a3c1e0ce1", null ],
+    [ "events", "d3/d66/a16520.html#a1519bebb81b64d57b2b0b34a059b83f8", null ]
 ];

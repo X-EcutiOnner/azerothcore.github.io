@@ -1,9 +1,9 @@
 var a20516 =
 [
-    [ "npc_ulduar_emergency_fire_botAI", "d7/ddf/a20516.html#a98ad3308b0fa56847ce6f5583bdfaba9", null ],
-    [ "AttackStart", "d7/ddf/a20516.html#aa18e89f63e98112efeb69328f8fdc296", null ],
-    [ "MoveInLineOfSight", "d7/ddf/a20516.html#a6384437fff9349df0cfa5053b37313ea", null ],
-    [ "MovementInform", "d7/ddf/a20516.html#a2f7d5b821ea4bf80bd01d469859f6fb6", null ],
-    [ "UpdateAI", "d7/ddf/a20516.html#a71d24eb5cea764011249b8ff78c3ed6c", null ],
-    [ "events", "d7/ddf/a20516.html#a5099c03b3ab1eb437ea11a0c4e8650f1", null ]
+    [ "npc_ulduar_bot_summon_triggerAI", "d7/ddf/a20516.html#a60e0706b9285cdf4b25b6f399cad18e9", null ],
+    [ "DoAction", "d7/ddf/a20516.html#ac5d0e28ee330741da3b287d965537f39", null ],
+    [ "Reset", "d7/ddf/a20516.html#a91207c04ecee6fc0e906133e054bf51b", null ],
+    [ "UpdateAI", "d7/ddf/a20516.html#aebec433e806d4f63f5593db0301612b4", null ],
+    [ "option", "d7/ddf/a20516.html#a98bb19fea19a05127b4b32df039acf05", null ],
+    [ "timer", "d7/ddf/a20516.html#a118d048557b0ed314180299c3cd2bcbc", null ]
 ];

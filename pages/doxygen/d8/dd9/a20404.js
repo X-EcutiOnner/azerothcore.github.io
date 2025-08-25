@@ -1,6 +1,6 @@
 var a20404 =
 [
-    [ "OnPeriodic", "d8/dd9/a20404.html#a8a12342f694499043e8ed4446fd92d36", null ],
-    [ "PrepareAuraScript", "d8/dd9/a20404.html#a9294210ece0c3bcda0639d1fc486cc9a", null ],
-    [ "Register", "d8/dd9/a20404.html#a381709d53101832de6b2161c4a33a0d4", null ]
+    [ "boss_kologarn_eyebeamAI", "d2/df1/a20408.html", "d2/df1/a20408" ],
+    [ "boss_kologarn_eyebeam", "d8/dd9/a20404.html#af28ff60e3b42f7316cc3d63624a91ee9", null ],
+    [ "GetAI", "d8/dd9/a20404.html#a34f5533a6bfe84c52fe0b0e854e694f8", null ]
 ];

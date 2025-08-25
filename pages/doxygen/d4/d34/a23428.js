@@ -1,7 +1,6 @@
 var a23428 =
 [
-    [ "HandleScript", "d4/d34/a23428.html#a7c1b4d0c8d2ad153cef62ce05fef814c", null ],
-    [ "PrepareSpellScript", "d4/d34/a23428.html#ab826f4f249679ffe87f9e6ccf6b9ecf0", null ],
-    [ "Register", "d4/d34/a23428.html#a82da72fd4eed6773c1f3a4288caa8963", null ],
-    [ "Validate", "d4/d34/a23428.html#a46aca18049e02d50f57579b3fdc705bd", null ]
+    [ "instance_steam_vault_InstanceMapScript", "d4/d34/a23428.html#a1ca8d6b10fabe1a8b829dbf62b77ed51", null ],
+    [ "OnGameObjectCreate", "d4/d34/a23428.html#ace71fc6f1d7bc4b49bc2a2507f481fc2", null ],
+    [ "SetBossState", "d4/d34/a23428.html#ab1e344fbf169ee40f28741217f3dca14", null ]
 ];

@@ -1,6 +1,4 @@
 var a16624 =
 [
-    [ "npc_concentrated_ballAI", "d6/d41/a16628.html", "d6/d41/a16628" ],
-    [ "npc_concentrated_ball", "da/d26/a16624.html#a1f3a873baf61157e704bcb7e524b1d46", null ],
-    [ "GetAI", "da/d26/a16624.html#add43f8cb27a699ba732d62fedd9d2f02", null ]
+    [ "boss_dreadscaleAI", "da/d26/a16624.html#ab0d0f8a7ec6567e8811d09721f6fa9ed", null ]
 ];

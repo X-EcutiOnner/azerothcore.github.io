@@ -1,6 +1,10 @@
 var a17344 =
 [
-    [ "ModAuraStack", "d1/dc5/a17344.html#a7535ef148e047e32a5f7a1944585e396", null ],
-    [ "PrepareSpellScript", "d1/dc5/a17344.html#ad5305dd5a32a18802a9fce5daccf3051", null ],
-    [ "Register", "d1/dc5/a17344.html#ab44b362197e74b98b3ffeb98eff52742", null ]
+    [ "npc_dark_nucleusAI", "d1/dc5/a17344.html#a9558da93ec684d5c4e79e686e6bfb142", null ],
+    [ "AttackStart", "d1/dc5/a17344.html#a3dec28dd13257b944df0c559d26a76e0", null ],
+    [ "DamageTaken", "d1/dc5/a17344.html#adfb2ad6f6b36fa122511a6ed10e22b99", null ],
+    [ "JustDied", "d1/dc5/a17344.html#a464d479ad80d55e54c7ea2c8b8c03a81", null ],
+    [ "Reset", "d1/dc5/a17344.html#ac84f79f84e721ab1306c8eed8658b143", null ],
+    [ "UpdateAI", "d1/dc5/a17344.html#a3a08457c34d4dd904a99a78875d6318c", null ],
+    [ "timer", "d1/dc5/a17344.html#ac5f9824276987b81aef5cfee05158049", null ]
 ];

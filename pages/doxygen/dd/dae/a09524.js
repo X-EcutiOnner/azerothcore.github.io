@@ -1,17 +1,13 @@
 var a09524 =
 [
-    [ "EmblemInfo", "dd/dae/a09524.html#a8d053ab27856955bf6013ef4c61ed33f", null ],
-    [ "GetBackgroundColor", "dd/dae/a09524.html#a66da2cd78cee9e929ff0f2439caed0e5", null ],
-    [ "GetBorderColor", "dd/dae/a09524.html#ac5ea55d7fd129524630dd0d486b457a7", null ],
-    [ "GetBorderStyle", "dd/dae/a09524.html#a7a791a3f467e72a3e8e941e3179d7709", null ],
-    [ "GetColor", "dd/dae/a09524.html#a15108f3a2a93ebbc01111672dd238d63", null ],
-    [ "GetStyle", "dd/dae/a09524.html#a0e6d684542535d537bdeba4104b7a18d", null ],
-    [ "LoadFromDB", "dd/dae/a09524.html#a17de371e72a2b29a7f249dbe912636bc", null ],
-    [ "ReadPacket", "dd/dae/a09524.html#abd73ea3db00fa900d7b3a8eeffa8b1bf", null ],
-    [ "SaveToDB", "dd/dae/a09524.html#aea1326261d893ef3beff026402bf8272", null ],
-    [ "m_backgroundColor", "dd/dae/a09524.html#a0bc92e459910ab6aad3ac35c8b613a5f", null ],
-    [ "m_borderColor", "dd/dae/a09524.html#a5aff1dcb9db9bc1477f2f37ac5b2c6cf", null ],
-    [ "m_borderStyle", "dd/dae/a09524.html#aa3e49b5f76fdb4e2139aeccb79c19390", null ],
-    [ "m_color", "dd/dae/a09524.html#ace48f189e9a1ae685dfbe97f35f49ec5", null ],
-    [ "m_style", "dd/dae/a09524.html#a08191c3c9cc48bde61ef0de81be34c90", null ]
+    [ "GroupReference", "dd/dae/a09524.html#ab1a008e85d413c67696d4d568a98bde7", null ],
+    [ "~GroupReference", "dd/dae/a09524.html#ab586405a850b0985e6b9f08cc6bdf32e", null ],
+    [ "getSubGroup", "dd/dae/a09524.html#a8217ca810bc251005dfe8a2e3b810e1e", null ],
+    [ "next", "dd/dae/a09524.html#a6f8f406f1209dd7060904d40f5424b41", null ],
+    [ "next", "dd/dae/a09524.html#ac913ec0703c28cda068375d01c9cd72d", null ],
+    [ "setSubGroup", "dd/dae/a09524.html#a303caf55ea463398237e6a825f30b143", null ],
+    [ "sourceObjectDestroyLink", "dd/dae/a09524.html#a458157654c27def9b36b68ae099ca7b3", null ],
+    [ "targetObjectBuildLink", "dd/dae/a09524.html#aa7c8acd113fefc7b6d2b9dff94bb047c", null ],
+    [ "targetObjectDestroyLink", "dd/dae/a09524.html#a4c15e8dbb9f990f9ab66c5e1466d0616", null ],
+    [ "iSubGroup", "dd/dae/a09524.html#a528073b16a119cfa81e6f37c6e72cc03", null ]
 ];

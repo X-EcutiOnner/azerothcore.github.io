@@ -1,10 +1,6 @@
 var a25384 =
 [
-    [ "Load", "db/d04/a25384.html#a04526f30ad35af3f629cdd0c8312e33c", null ],
-    [ "OnApply", "db/d04/a25384.html#a83d922c434442e22482410d61aa0198f", null ],
-    [ "OnPetApply", "db/d04/a25384.html#a6df5e59e29cb89310a1c78bf93029545", null ],
-    [ "OnRemove", "db/d04/a25384.html#aa4efa4ed7d98c63989353c398bb2b128", null ],
-    [ "PrepareAuraScript", "db/d04/a25384.html#a1b4d8f636c01f01bc9380c290de91a0e", null ],
-    [ "Register", "db/d04/a25384.html#a265726c9bfa180c3b8f470eb1eee837b", null ],
-    [ "Validate", "db/d04/a25384.html#ab318472ea9f4aaa79e45f18783586eed", null ]
+    [ "OnProc", "db/d04/a25384.html#ac7f0a86f2d0c5dcb945eb7ccb9cd5c88", null ],
+    [ "PrepareAuraScript", "db/d04/a25384.html#a6a7b011f151ff81672221b84eb4456b8", null ],
+    [ "Register", "db/d04/a25384.html#a15b05d352f94d2aabeb75a6bfd996fc6", null ]
 ];

@@ -1,6 +1,5 @@
 var a20832 =
 [
-    [ "boss_yoggsaronAI", "d4/dfd/a20836.html", "d4/dfd/a20836" ],
-    [ "boss_yoggsaron", "d3/d3d/a20832.html#a3fa3ada3979b55100b8ca9e21ec655a1", null ],
-    [ "GetAI", "d3/d3d/a20832.html#a113eb034acc46a2edd4a84598413a63e", null ]
+    [ "achievement_xt002_nerf_engineering", "d3/d3d/a20832.html#a5be8c0a8a51d81c4014ec0ab92c21f79", null ],
+    [ "OnCheck", "d3/d3d/a20832.html#a2b401f51d1ba7ed817f95d81d1048adf", null ]
 ];

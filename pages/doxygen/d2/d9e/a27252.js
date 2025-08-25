@@ -1,6 +1,5 @@
 var a27252 =
 [
-    [ "go_l70_etc_musicAI", "d0/d2c/a27256.html", "d0/d2c/a27256" ],
-    [ "go_l70_etc_music", "d2/d9e/a27252.html#a766dccca12fc7959273ba1e3a278564f", null ],
-    [ "GetAI", "d2/d9e/a27252.html#a5231ffc778830f8a49ae85a8c1173deb", null ]
+    [ "go_resonite_cask", "d2/d9e/a27252.html#a5a89aa97a4cd31d7ae183649ee750b74", null ],
+    [ "OnGossipHello", "d2/d9e/a27252.html#aae8591d53a6983886b52d404acdba293", null ]
 ];

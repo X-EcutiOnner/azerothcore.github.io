@@ -1,9 +1,11 @@
 var a21092 =
 [
-    [ "npc_vrykul_skeleton", "d7/dba/a21092.html#afda2014efb0ce63ee41c46cf2ad6c130", null ],
-    [ "DamageTaken", "d7/dba/a21092.html#a840244c4183987e4fda533edb2ddeff2", null ],
-    [ "Reset", "d7/dba/a21092.html#af950342b2177c84c101485736855b998", null ],
-    [ "UpdateAI", "d7/dba/a21092.html#a80cd072eef6b0bf03a9a6a2fe22e252a", null ],
-    [ "events", "d7/dba/a21092.html#a897bb5b5519f6f507bca49c5c5de17f6", null ],
-    [ "pInstance", "d7/dba/a21092.html#a834f0162540683c20f9fa0f9e32eee33", null ]
+    [ "npc_ulduar_storm_tempered_keeperAI", "d7/dba/a21092.html#a97ffe70fab090c7182b2a8dce3c7c54f", null ],
+    [ "JustDied", "d7/dba/a21092.html#a4778b4c1d7afedc4c8ea3a0b2c2509e1", null ],
+    [ "JustEngagedWith", "d7/dba/a21092.html#a5ae632ba4da1e78dfa6980fce492ec8e", null ],
+    [ "JustSummoned", "d7/dba/a21092.html#a7962e2148fb55d96cde4e2fed48e71f4", null ],
+    [ "Reset", "d7/dba/a21092.html#a521fd2c3f8fb1319daaecfb203d9ebb8", null ],
+    [ "UpdateAI", "d7/dba/a21092.html#a9d5bc84572934b4fba19d2996e1c89f0", null ],
+    [ "events", "d7/dba/a21092.html#a0281fd23155c73768a09f60b3a04ce9d", null ],
+    [ "otherGUID", "d7/dba/a21092.html#a627aa7ff4ffe264d4ea3e78469954170", null ]
 ];

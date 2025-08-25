@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/common/Cryptography/HMAC.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/common/Cryptography/CryptoRandom.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -104,50 +104,21 @@ $(document).ready(function(){initNavTree('d2/d5d/a04511.html','../../'); initRes
 </div>
 
 <div class="header">
-  <div class="summary">
-<a href="#nested-classes">Classes</a> &#124;
-<a href="#namespaces">Namespaces</a> &#124;
-<a href="#typedef-members">Typedefs</a>  </div>
-  <div class="headertitle"><div class="title">HMAC.h File Reference</div></div>
+  <div class="headertitle"><div class="title">CryptoRandom.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">CryptoConstants.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">CryptoHash.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">CryptoRandom.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">Errors.h</a>&quot;</code><br />
-<code>#include &lt;array&gt;</code><br />
-<code>#include &lt;string&gt;</code><br />
-<code>#include &lt;string_view&gt;</code><br />
+<code>#include &lt;openssl/rand.h&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
-<table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
-Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d8c/a05188.html">Acore::Impl::GenericHMAC&lt; HashCreator, DigestLength &gt;</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
-Namespaces</h2></td></tr>
-<tr class="memitem:db/da6/a04782"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/da6/a04782.html">Acore</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:de/d4c/a04794"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d4c/a04794.html">Acore::Impl</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:df/dc6/a04793"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dc6/a04793.html">Acore::Crypto</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="typedef-members" name="typedef-members"></a>
-Typedefs</h2></td></tr>
-<tr class="memitem:a5186a2a02e2301ec3ea7b37d8b41097f"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dc6/a04793.html#a5186a2a02e2301ec3ea7b37d8b41097f">Acore::Crypto::HMAC_SHA1</a> = <a class="el" href="../../d6/d8c/a05188.html">Acore::Impl::GenericHMAC</a>&lt; EVP_sha1, Constants::SHA1_DIGEST_LENGTH_BYTES &gt;</td></tr>
-<tr class="separator:a5186a2a02e2301ec3ea7b37d8b41097f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a80d906d20826d6c963f50eba5f7c4c2a"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dc6/a04793.html#a80d906d20826d6c963f50eba5f7c4c2a">Acore::Crypto::HMAC_SHA256</a> = <a class="el" href="../../d6/d8c/a05188.html">Acore::Impl::GenericHMAC</a>&lt; EVP_sha256, Constants::SHA256_DIGEST_LENGTH_BYTES &gt;</td></tr>
-<tr class="separator:a80d906d20826d6c963f50eba5f7c4c2a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1070012e9e40376f8468ff0aa5b77c71.html">common</a></li><li class="navelem"><a class="el" href="../../dir_c55db428bdbf28a6b4d3b113733cf911.html">Cryptography</a></li><li class="navelem"><a class="el" href="../../d2/d5d/a04511.html">HMAC.h</a></li>
-    <li class="footer">Generated on Mon Aug 18 2025 20:47:04 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1070012e9e40376f8468ff0aa5b77c71.html">common</a></li><li class="navelem"><a class="el" href="../../dir_c55db428bdbf28a6b4d3b113733cf911.html">Cryptography</a></li><li class="navelem"><a class="el" href="../../d2/d5d/a04511.html">CryptoRandom.cpp</a></li>
+    <li class="footer">Generated on Mon Aug 25 2025 20:45:15 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

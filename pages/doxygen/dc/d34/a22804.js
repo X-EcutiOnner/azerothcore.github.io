@@ -1,8 +1,7 @@
 var a22804 =
 [
-    [ "HandleScriptEffect", "dc/d34/a22804.html#a8e5b81581fff787f691521d03fed66fc", null ],
-    [ "Load", "dc/d34/a22804.html#a8a74f3c6776f2613a6b2c63387d962e2", null ],
-    [ "PrepareSpellScript", "dc/d34/a22804.html#a5dfe415b9c990e83b9e6c1ee06a33692", null ],
-    [ "Register", "dc/d34/a22804.html#a5839b0e282fb2848c328cfaaca2c752f", null ],
-    [ "Validate", "dc/d34/a22804.html#a8c1ee55a1122c62056250b3fa09357a8", null ]
+    [ "HandleEffectRemove", "dc/d34/a22804.html#a09124a4351930a35e33359e95ca88580", null ],
+    [ "PrepareAuraScript", "dc/d34/a22804.html#a6ac4aa40f00e7ca03a3a5cf36d6e5d33", null ],
+    [ "Register", "dc/d34/a22804.html#a8b59d3d74816b41a65f9c5bd07226c4e", null ],
+    [ "Validate", "dc/d34/a22804.html#a5bf3ac4b8ff19bdbde604c4d8931d1bc", null ]
 ];

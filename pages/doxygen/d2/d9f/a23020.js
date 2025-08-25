@@ -1,9 +1,6 @@
 var a23020 =
 [
-    [ "boss_najentus", "d2/d9f/a23020.html#ac5d3d54a49524892fe844925d483c244", null ],
-    [ "JustDied", "d2/d9f/a23020.html#afee32dd32033c7a45068ce12e961797c", null ],
-    [ "JustEngagedWith", "d2/d9f/a23020.html#a46e3aab64c21b24ac6457acd598679ec", null ],
-    [ "KilledUnit", "d2/d9f/a23020.html#ad55e1de3aa7a636b3d30b0d61a17dab9", null ],
-    [ "Reset", "d2/d9f/a23020.html#ab7e0bdb8954722c9080146a88a3c5aa2", null ],
-    [ "_canTalk", "d2/d9f/a23020.html#a25ac29a79cdcfb4ebc48de13d677f1d4", null ]
+    [ "npc_supremus_punch_invisible_stalker", "d2/d9f/a23020.html#add7d0e711ef02a16ef58d90cfc8ee733", null ],
+    [ "IsSummonedBy", "d2/d9f/a23020.html#a467d5a43bb6d2349ad859a0ef7de4c00", null ],
+    [ "UpdateAI", "d2/d9f/a23020.html#a90ecfe4257ef77a6d6a200a2f017c51a", null ]
 ];

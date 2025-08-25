@@ -1,6 +1,8 @@
 var a16332 =
 [
-    [ "HideNpcEvent", "d9/d4c/a16332.html#ab454295aab0f5d4586740140232e96eb", null ],
-    [ "Execute", "d9/d4c/a16332.html#aecfbbbcac3fd98675913a6381c891a59", null ],
-    [ "_owner", "d9/d4c/a16332.html#ac5481c94e180900f0a455dc1f1f9851c", null ]
+    [ "npc_toc5_player_vehicleAI", "d9/d4c/a16332.html#afa00a6254b482aae5397be04860ac8ba", null ],
+    [ "BeforeSpellClick", "d9/d4c/a16332.html#aac7db7f40b47a9c098c98bacb7569faf", null ],
+    [ "OnCharmed", "d9/d4c/a16332.html#ace805882a25a9d075d811714e607fa2b", null ],
+    [ "PassengerBoarded", "d9/d4c/a16332.html#aca35804df751185193ff5865255d3687", null ],
+    [ "Reset", "d9/d4c/a16332.html#a5439b98d544124836d2cf9762f764cea", null ]
 ];

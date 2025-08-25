@@ -1,11 +1,7 @@
 var a22980 =
 [
-    [ "boss_supremus", "d7/d88/a22980.html#af1f094534b0e2dec70422839a02327cd", null ],
-    [ "CheckEvadeIfOutOfCombatArea", "d7/d88/a22980.html#a2654bf5b1d5b6da723d4968219e069a9", null ],
-    [ "FindHatefulStrikeTarget", "d7/d88/a22980.html#af560466902d0d372662020e1a67b627c", null ],
-    [ "JustEngagedWith", "d7/d88/a22980.html#a7d3a5e2c183db7639a7c25f309359ed1", null ],
-    [ "JustSummoned", "d7/d88/a22980.html#a7265a01fa79213ab6d8b82a4c92b7661", null ],
-    [ "Reset", "d7/d88/a22980.html#a0eaa29849a2571417d4826d238d72e25", null ],
-    [ "SchedulePhase", "d7/d88/a22980.html#a87e3943d6c645138853aa97644f9df0e", null ],
-    [ "SummonedCreatureDespawn", "d7/d88/a22980.html#a2ae72bfef577654e676a64eb2e4efa7a", null ]
+    [ "CalculateAmount", "d7/d88/a22980.html#adad1c8a513ce8a1badbd40c291363de1", null ],
+    [ "PrepareAuraScript", "d7/d88/a22980.html#ac1a896ac1a751c8bdaee186dffd8c251", null ],
+    [ "Register", "d7/d88/a22980.html#ae839fd19933a6fa9e55ce37e0633073e", null ],
+    [ "Update", "d7/d88/a22980.html#aeb5a347ccac3c5ce6faef7641b5fca1c", null ]
 ];

@@ -1,11 +1,11 @@
 var searchData=
 [
-  ['vaultofarchavonscriptname_0',['VaultOfArchavonScriptName',['../d9/d9f/a04013.html#ab953c3e9c9ee6df1258c89545feabaa1',1,'vault_of_archavon.h']]],
+  ['vaultofarchavonscriptname_0',['VaultOfArchavonScriptName',['../da/d6d/a04019.html#ab953c3e9c9ee6df1258c89545feabaa1',1,'vault_of_archavon.h']]],
   ['vehicle_5fcondition_5fcheck_5ftime_1',['VEHICLE_CONDITION_CHECK_TIME',['../dc/d35/a01400.html#a2842973ff947088648cd327dc9e1d379',1,'CombatAI.h']]],
   ['vehicle_5fdismiss_5ftime_2',['VEHICLE_DISMISS_TIME',['../dc/d35/a01400.html#a9b232fec810abbe5eaf5536e608b6e38',1,'CombatAI.h']]],
-  ['vengeful_5fwp_5fcount_3',['VENGEFUL_WP_COUNT',['../d4/d5e/a03686.html#a226bdb7f1825092d789760b9ae593ad2',1,'icecrown_citadel.cpp']]],
+  ['vengeful_5fwp_5fcount_3',['VENGEFUL_WP_COUNT',['../d6/d1c/a03692.html#a226bdb7f1825092d789760b9ae593ad2',1,'icecrown_citadel.cpp']]],
   ['vertex_5fsize_4',['VERTEX_SIZE',['../d7/ddd/a01223.html#a14571eb5f0eee95bf614e04c59b0207a',1,'PathGenerator.h']]],
-  ['violetholdscriptname_5',['VioletHoldScriptName',['../dd/d25/a03512.html#a92b83fed6edd347210e482742fef71a6',1,'violet_hold.h']]],
+  ['violetholdscriptname_5',['VioletHoldScriptName',['../d7/d65/a03518.html#a92b83fed6edd347210e482742fef71a6',1,'violet_hold.h']]],
   ['visibility_5fcompensation_6',['VISIBILITY_COMPENSATION',['../df/d21/a01778.html#ad7ca43faef12f55e2d72393f26d69ba7',1,'ObjectDefines.h']]],
   ['visibility_5fdist_5fwintergrasp_7',['VISIBILITY_DIST_WINTERGRASP',['../df/d21/a01778.html#a3366917d44c1184b7eea801c37f75eda',1,'ObjectDefines.h']]],
   ['visibility_5fdistance_5fgigantic_8',['VISIBILITY_DISTANCE_GIGANTIC',['../df/d21/a01778.html#ac42804b48d734699eef6b8f584e2fb90',1,'ObjectDefines.h']]],
@@ -19,8 +19,8 @@ var searchData=
   ['visibility_5fsettings_5fmax_5finterval_5fnum_16',['VISIBILITY_SETTINGS_MAX_INTERVAL_NUM',['../d2/d5b/a01841.html#ae515340ce2037b26a80e4db46e653b59',1,'DynamicVisibility.h']]],
   ['visibility_5fsettings_5fplayer_5finterval_17',['VISIBILITY_SETTINGS_PLAYER_INTERVAL',['../d2/d5b/a01841.html#a2733c1a6a4018078df00a4c426661436',1,'DynamicVisibility.h']]],
   ['visual_5fwaypoint_18',['VISUAL_WAYPOINT',['../d6/d0f/a01256.html#af0544189c7fc748059c3075861102b40',1,'MotionMaster.h']]],
-  ['vmap_5finvalid_5fheight_19',['VMAP_INVALID_HEIGHT',['../de/d69/a04679.html#aa3e862468079e7d1ca850fab429fb316',1,'IVMapMgr.h']]],
-  ['vmap_5finvalid_5fheight_5fvalue_20',['VMAP_INVALID_HEIGHT_VALUE',['../de/d69/a04679.html#a6d0d846568e1fbb60e05aacfa9c1c73c',1,'IVMapMgr.h']]],
-  ['vortex_5fdefault_5fdiff_21',['VORTEX_DEFAULT_DIFF',['../d0/ded/a03671.html#a7100ba43dcb23992d0c1aa883b63f3b5',1,'boss_malygos.cpp']]],
-  ['vortex_5ftravel_5ftime_22',['VORTEX_TRAVEL_TIME',['../d0/ded/a03671.html#a4cc5108382726c6576ae18ef024ba300',1,'boss_malygos.cpp']]]
+  ['vmap_5finvalid_5fheight_19',['VMAP_INVALID_HEIGHT',['../d7/d47/a04685.html#aa3e862468079e7d1ca850fab429fb316',1,'IVMapMgr.h']]],
+  ['vmap_5finvalid_5fheight_5fvalue_20',['VMAP_INVALID_HEIGHT_VALUE',['../d7/d47/a04685.html#a6d0d846568e1fbb60e05aacfa9c1c73c',1,'IVMapMgr.h']]],
+  ['vortex_5fdefault_5fdiff_21',['VORTEX_DEFAULT_DIFF',['../d4/d78/a03677.html#a7100ba43dcb23992d0c1aa883b63f3b5',1,'boss_malygos.cpp']]],
+  ['vortex_5ftravel_5ftime_22',['VORTEX_TRAVEL_TIME',['../d4/d78/a03677.html#a4cc5108382726c6576ae18ef024ba300',1,'boss_malygos.cpp']]]
 ];

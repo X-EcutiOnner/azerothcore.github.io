@@ -1,11 +1,8 @@
 var a23508 =
 [
-    [ "boss_krosh_firehand", "d5/d31/a23508.html#a1ef3618844f086de7875f26e7e6190f9", null ],
-    [ "AttackStart", "d5/d31/a23508.html#a74bd2c93ac45efcd163a904b9a52827b", null ],
-    [ "JustDied", "d5/d31/a23508.html#ad20c86b4a3d0cccddf91982c26f56c09", null ],
-    [ "JustEngagedWith", "d5/d31/a23508.html#ad6389c357fb6c09fdf4f3f3ef7095395", null ],
-    [ "Reset", "d5/d31/a23508.html#a989c4b762a7cdb228b245e91881d97a2", null ],
-    [ "UpdateAI", "d5/d31/a23508.html#a3d26a6f544e9d00514ca5b0ef7d4bf4f", null ],
-    [ "_scheduler", "d5/d31/a23508.html#a261ced01dc1305ab7c2d2f3322022fe5", null ],
-    [ "instance", "d5/d31/a23508.html#a876bb040d78cafa9aa22e818f60dce7f", null ]
+    [ "ApplyStun", "d5/d31/a23508.html#a5a5b921dc45418485919e599e80f8ca8", null ],
+    [ "HandleScriptEffect", "d5/d31/a23508.html#a32619710179250a6a0b408856a888153", null ],
+    [ "PrepareSpellScript", "d5/d31/a23508.html#afb61d7dcc8ad52da4dcad3d7593f08ad", null ],
+    [ "Register", "d5/d31/a23508.html#aa753fd45caa1b515911d8fdf6fa78754", null ],
+    [ "Validate", "d5/d31/a23508.html#a66d91a87078c663903cd836344eec867", null ]
 ];

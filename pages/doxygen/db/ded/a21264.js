@@ -1,6 +1,6 @@
 var a21264 =
 [
-    [ "HandleOnHit", "db/ded/a21264.html#aa3f90eb49ae947b5729f722750cb8711", null ],
-    [ "PrepareSpellScript", "db/ded/a21264.html#a3b62711a0ba478d6321a93d436359939", null ],
-    [ "Register", "db/ded/a21264.html#af7bdde31f1221d5679983a41e3eca204", null ]
+    [ "instance_utgarde_pinnacle_InstanceMapScript", "d6/d34/a21268.html", "d6/d34/a21268" ],
+    [ "instance_utgarde_pinnacle", "db/ded/a21264.html#a70c1528c9c1b0d830cc7af7debd5721b", null ],
+    [ "GetInstanceScript", "db/ded/a21264.html#a41bd06d5f42b09193c5f1b2bbb2323ac", null ]
 ];

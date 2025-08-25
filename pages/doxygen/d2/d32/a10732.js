@@ -1,7 +1,6 @@
 var a10732 =
 [
-    [ "GuildBankLogQueryResults", "d2/d32/a10732.html#a878f9545b3141a327de85771de4f1779", null ],
-    [ "Write", "d2/d32/a10732.html#aafdb5114c7d0e8a2d18a848f3c94aa38", null ],
-    [ "Entry", "d2/d32/a10732.html#a5f3704df5311f06833c3243201d35930", null ],
-    [ "Tab", "d2/d32/a10732.html#a214db612bb08e557dd41d3962c827dca", null ]
+    [ "GuildBankLogQuery", "d2/d32/a10732.html#ab094e91a48d0259b4247157b92997bb2", null ],
+    [ "Read", "d2/d32/a10732.html#a5eed269e9285a33ffc61fcfa7d639083", null ],
+    [ "Tab", "d2/d32/a10732.html#ae966e3ac144b86e20f65b742ff3be9e3", null ]
 ];

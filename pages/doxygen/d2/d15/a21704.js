@@ -1,9 +1,10 @@
 var a21704 =
 [
-    [ "npc_archmage_landalockAI", "d2/d15/a21704.html#a8e2b48a9cf243b0d6f11286cf1e301c8", null ],
-    [ "GetImageEntry", "d2/d15/a21704.html#ae09841969253c0baf72cc235b6fa058e", null ],
-    [ "JustSummoned", "d2/d15/a21704.html#af9016bfeca3db7611fdafe4337e5f64a", null ],
-    [ "UpdateAI", "d2/d15/a21704.html#abad2f45c0a5c43cc7aa7867a0291133d", null ],
-    [ "_summonGUID", "d2/d15/a21704.html#a8b59c414dfd46209dcc3d00531e2b98b", null ],
-    [ "_switchImageTimer", "d2/d15/a21704.html#a5e2fb6556bbb5cf22b77a72e9ccbc548", null ]
+    [ "npc_preparations_for_war_vehicle", "d2/d15/a21704.html#a56b37aa1c2b50cac4dfb6b907ffb6d48", null ],
+    [ "InitializeAI", "d2/d15/a21704.html#a85eaba9e51498313f8498eaaf0e7d0d1", null ],
+    [ "MovementInform", "d2/d15/a21704.html#ac78c5675b42563f46cc2af0f0c97bee0", null ],
+    [ "UpdateAI", "d2/d15/a21704.html#ae40a23070d96ecf122e9de5571a845ef", null ],
+    [ "pointId", "d2/d15/a21704.html#ae75d286eb6116b41adb346861b3c1365", null ],
+    [ "searchForShipTimer", "d2/d15/a21704.html#a49f8a43891d61460b1d6cdde610a2e88", null ],
+    [ "transportEntry", "d2/d15/a21704.html#aa0083566387cd42750aaa56b1fa23fed", null ]
 ];

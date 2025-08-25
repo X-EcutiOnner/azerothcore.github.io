@@ -1,9 +1,7 @@
 var a09496 =
 [
-    [ "WorldPacketList", "d2/dfa/a09496.html#a27bf64080270086d6dbc752f8d96ec4c", null ],
-    [ "LocalizedPacketListDo", "d2/dfa/a09496.html#ab52133e238752f725f18580018a84cd2", null ],
-    [ "~LocalizedPacketListDo", "d2/dfa/a09496.html#a8442452027bcb5c98d60830e016803b5", null ],
-    [ "operator()", "d2/dfa/a09496.html#adea9610e36d436563ba1f472481aed85", null ],
-    [ "i_builder", "d2/dfa/a09496.html#a83bda52b10d30f7fd633c285b79e740b", null ],
-    [ "i_data_cache", "d2/dfa/a09496.html#ae2ec6175868c4c82274ce7a623a954a3", null ]
+    [ "RaidCheck", "d2/dfa/a09496.html#ad8c3717b9a645c7806c8c027a8d90ef5", null ],
+    [ "operator()", "d2/dfa/a09496.html#a0c076b737e8e1eacb9aab0981ff66f51", null ],
+    [ "_compare", "d2/dfa/a09496.html#a5fffdd5901fb03c5e9a9adfb58e3d759", null ],
+    [ "_equals", "d2/dfa/a09496.html#a7d253c94403bd50012722a9a9b113c3a", null ]
 ];

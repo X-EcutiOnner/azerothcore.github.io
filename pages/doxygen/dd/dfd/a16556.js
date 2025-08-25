@@ -1,6 +1,7 @@
 var a16556 =
 [
-    [ "npc_snobold_vassalAI", "d3/da4/a16560.html", "d3/da4/a16560" ],
-    [ "npc_snobold_vassal", "dd/dfd/a16556.html#a243cefbc15931ebbb555936d54583314", null ],
-    [ "GetAI", "dd/dfd/a16556.html#a77976a59f600591454fac197ded613ef", null ]
+    [ "HandleDispel", "dd/dfd/a16556.html#a7b24f38bbb7813826520f928b22d30aa", null ],
+    [ "PrepareAuraScript", "dd/dfd/a16556.html#a0e0424bd590cfc4f85f40728bf6efd22", null ],
+    [ "Register", "dd/dfd/a16556.html#a2bf6921550da3c13730fd98bded2c927", null ],
+    [ "Validate", "dd/dfd/a16556.html#ad8b0bb389d232c74acf106b711414fa1", null ]
 ];

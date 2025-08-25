@@ -1,5 +1,7 @@
 var a27316 =
 [
-    [ "go_tele_to_dalaran_crystal", "da/d47/a27316.html#ab41268b7d568e8f189338f27cd90a62c", null ],
-    [ "OnGossipHello", "da/d47/a27316.html#a7f754a29249653ca7848494310ef1a8d", null ]
+    [ "go_darkmoon_faire_musicAI", "da/d47/a27316.html#a2ee13dd1260c1ad5b810c25665c9ec87", null ],
+    [ "UpdateAI", "da/d47/a27316.html#af3d802bd852fc0483f72781edb13b5d5", null ],
+    [ "_events", "da/d47/a27316.html#acc7e15d2b286b7df262623acf7ea7f03", null ],
+    [ "rnd", "da/d47/a27316.html#a9a4c983f11c4d912f31eaaf351afc016", null ]
 ];

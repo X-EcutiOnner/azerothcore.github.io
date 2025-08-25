@@ -1,7 +1,8 @@
 var a14660 =
 [
-    [ "OnPeriodic", "de/d33/a14660.html#a4ed63f32afe3831d7fb08333ff1d379f", null ],
-    [ "PrepareAuraScript", "de/d33/a14660.html#a74be4e2b0f9c6254a87a7cfb8159fc9b", null ],
-    [ "Register", "de/d33/a14660.html#aeb388d608830aeb3b30f707304403b41", null ],
-    [ "Validate", "de/d33/a14660.html#af27768000c5c3232a1264f4f1f2bd7b3", null ]
+    [ "npc_doomfire_spirit", "de/d33/a14660.html#a3d16e8437c2e90ad1ab5de609f4fcff0", null ],
+    [ "Reset", "de/d33/a14660.html#a0600718fad91723eba74b903583c5942", null ],
+    [ "TryTeleportInDirection", "de/d33/a14660.html#a7fc48df636df66a006a8179fd63e2a65", null ],
+    [ "UpdateAI", "de/d33/a14660.html#aa0d953c28f25e2838f3b24364b51f10b", null ],
+    [ "turnConstant", "de/d33/a14660.html#afeab7c791c31457d86e98a0064fa6ad8", null ]
 ];

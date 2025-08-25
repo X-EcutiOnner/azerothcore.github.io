@@ -1,6 +1,6 @@
 var a16212 =
 [
-    [ "instance_ruby_sanctum_InstanceMapScript", "de/d9f/a16216.html", "de/d9f/a16216" ],
-    [ "instance_ruby_sanctum", "df/d14/a16212.html#a9fc9d56cfcd7d0163f25f49e1ed0baeb", null ],
-    [ "GetInstanceScript", "df/d14/a16212.html#ad0329f328d4be2c475d8bcd5ccefd4e1", null ]
+    [ "OnSummon", "df/d14/a16212.html#ae2766d12fb686356b46126848f356c5a", null ],
+    [ "PrepareSpellScript", "df/d14/a16212.html#a6b9af3b70d2ce07fe8aee5292367a982", null ],
+    [ "Register", "df/d14/a16212.html#a717394bfbea621ae637f9e87efddda62", null ]
 ];

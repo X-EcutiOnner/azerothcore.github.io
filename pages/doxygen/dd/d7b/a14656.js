@@ -1,6 +1,9 @@
 var a14656 =
 [
-    [ "FilterTargets", "dd/d7b/a14656.html#a45b0713b2942199bf0e19752fe765aac", null ],
-    [ "PrepareSpellScript", "dd/d7b/a14656.html#a7f7177d7754a99743202f69a0342f587", null ],
-    [ "Register", "dd/d7b/a14656.html#a27b432d8571d48c3f5fb025bbbd29271", null ]
+    [ "npc_ancient_wisp", "dd/d7b/a14656.html#a70e45e500b3490a034b058ca2ec16d39", null ],
+    [ "DamageTaken", "dd/d7b/a14656.html#ad7d96e6b54cdc23a5101338474125e71", null ],
+    [ "JustEngagedWith", "dd/d7b/a14656.html#a755ed852b3149ada65c5750410776fc8", null ],
+    [ "Reset", "dd/d7b/a14656.html#a1c33cc47d7f60b2b3eb60852f1c36820", null ],
+    [ "UpdateAI", "dd/d7b/a14656.html#a51ca214de826d7126f32e49f6852bca3", null ],
+    [ "_instance", "dd/d7b/a14656.html#a5e5e51944d49cc52bed4ff4953513f1f", null ]
 ];

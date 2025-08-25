@@ -1,5 +1,6 @@
 var a24196 =
 [
-    [ "npc_karynaku", "d9/de7/a24196.html#aa6a3cb409cdbc990f1eee4137c7519d2", null ],
-    [ "OnQuestAccept", "d9/de7/a24196.html#a4cae1950fe3b7b4ae6f2e6691800ec47", null ]
+    [ "npc_infernal_attackerAI", "d5/dff/a24200.html", "d5/dff/a24200" ],
+    [ "npc_infernal_attacker", "d9/de7/a24196.html#ac6fbfcf8fc918b48d6b9416a71cfe3fa", null ],
+    [ "GetAI", "d9/de7/a24196.html#ad1d9186c186de36efbe102a07fe89de4", null ]
 ];

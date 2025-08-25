@@ -1,26 +1,6 @@
 var a28308 =
 [
-    [ "Expansion", "dd/da0/a28308.html#a39e6d2e230183f30e369c3bada111bfe", null ],
-    [ "GetEntrancePos", "dd/da0/a28308.html#a0d58d5bfdfce183f815d77e7315b77ed", null ],
-    [ "Instanceable", "dd/da0/a28308.html#af036a047dd6a68deb3dc61cff5bb6958", null ],
-    [ "IsBattleArena", "dd/da0/a28308.html#ade7b243c7089975899c78760e196c1fa", null ],
-    [ "IsBattleground", "dd/da0/a28308.html#a0c5ca5448fd4ec5d5e3a804a38dfb069", null ],
-    [ "IsBattlegroundOrArena", "dd/da0/a28308.html#a9946bfab35c05fcc85dc1c60d7614ec5", null ],
-    [ "IsContinent", "dd/da0/a28308.html#a4e9a18b9335b79bb079b5255d24dd6d7", null ],
-    [ "IsDungeon", "dd/da0/a28308.html#ad9902fc9b28ba9b555b45c0662aa0397", null ],
-    [ "IsDynamicDifficultyMap", "dd/da0/a28308.html#ae7bb16d92e0542f875162214b3743830", null ],
-    [ "IsNonRaidDungeon", "dd/da0/a28308.html#a168041f8e1fa28e6c4e8922d3e6b9005", null ],
-    [ "IsRaid", "dd/da0/a28308.html#adc49d2974929327b06a442012b0a07d1", null ],
-    [ "IsWorldMap", "dd/da0/a28308.html#a6b2df07886f44e0ed0b0442c7f392fd2", null ],
-    [ "entrance_map", "dd/da0/a28308.html#a29fb03d3306ce50afb13d4e72d735e18", null ],
-    [ "entrance_x", "dd/da0/a28308.html#ac2363d1d0f4e6647bcd1e8b8eea5b409", null ],
-    [ "entrance_y", "dd/da0/a28308.html#a05ab3182d6e38a5bf5397957cce465a2", null ],
-    [ "expansionID", "dd/da0/a28308.html#a35c7985906e9bec541c08bdc879a06cc", null ],
-    [ "Flags", "dd/da0/a28308.html#a368dda3514aeb177fb204fd73e9af2c4", null ],
-    [ "linked_zone", "dd/da0/a28308.html#a617a23fd33a5853f20a7b1cbda6f6e3a", null ],
-    [ "map_type", "dd/da0/a28308.html#adc919dc1d095da8c0f1624abfcca2cf6", null ],
-    [ "MapID", "dd/da0/a28308.html#a6bf547a0414908596a7b37db8bd36719", null ],
-    [ "maxPlayers", "dd/da0/a28308.html#ac2769d42a8963e075b7637a2ab520237", null ],
-    [ "multimap_id", "dd/da0/a28308.html#a3ffc45e361a42d043c31c7a6d94e8d46", null ],
-    [ "name", "dd/da0/a28308.html#a91e885a7b5d19824156187fb749f449b", null ]
+    [ "ID", "dd/da0/a28308.html#a7d40e334785d96a2e57d28f87a59778a", null ],
+    [ "maxCount", "dd/da0/a28308.html#a5edc6442e026b12dae654fa86440a11a", null ],
+    [ "mode", "dd/da0/a28308.html#a76553ecf9f880a5e5967f818123742fd", null ]
 ];

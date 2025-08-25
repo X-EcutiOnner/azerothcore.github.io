@@ -1,6 +1,8 @@
 var a12576 =
 [
-    [ "HandleTriggerSpell", "d1/d68/a12576.html#a5f30f2af73eae022b9596939b2f88c0b", null ],
-    [ "PrepareSpellScript", "d1/d68/a12576.html#a4fa2709a456e9e75f5c11b7f2e04912b", null ],
-    [ "Register", "d1/d68/a12576.html#a7e9c140aecea892ee6971bc97d385640", null ]
+    [ "npc_lava_spawn", "d1/d68/a12576.html#aff97441b2cfbcd68e0788be022ee6236", null ],
+    [ "JustEngagedWith", "d1/d68/a12576.html#a3b93df8de3c0f8a50768b860cfa11b72", null ],
+    [ "Reset", "d1/d68/a12576.html#ab774d354991c90b1421e6783c0513e59", null ],
+    [ "UpdateAI", "d1/d68/a12576.html#a6a17c8c40b0110b688ff5faef5585185", null ],
+    [ "_scheduler", "d1/d68/a12576.html#ab7a6b2beec095f3f903ad4443813cfce", null ]
 ];

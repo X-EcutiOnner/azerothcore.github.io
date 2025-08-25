@@ -1,7 +1,6 @@
 var a05052 =
 [
-    [ "GameobjectModelData", "d1/dc4/a05052.html#a7d259df5a5541f95e0f548674d023fc8", null ],
-    [ "bound", "d1/dc4/a05052.html#ab133a32c9eefff0a35acaa4e157a3f05", null ],
-    [ "isWmo", "d1/dc4/a05052.html#ac51305f0d800ff993e9a9cba2ccb6939", null ],
-    [ "name", "d1/dc4/a05052.html#ac8a053b6f01a9917ee6b1fc2a738bb4e", null ]
+    [ "Read", "d1/dc4/a05052.html#a652bcf37d435efc3fb82f4d8cbf00e51", null ],
+    [ "groupsArray", "d1/dc4/a05052.html#a79b2d93c2929aaddac1004aed4ecdd85", null ],
+    [ "RootWMOID", "d1/dc4/a05052.html#a6b9058e7062c970438c79f08103c3c61", null ]
 ];

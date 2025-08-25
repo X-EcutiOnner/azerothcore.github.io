@@ -1,6 +1,6 @@
 var a14576 =
 [
-    [ "HandleTriggerSpell", "d0/d09/a14576.html#a7e5a03d304f0f6fe8d06ed5df12259dd", null ],
-    [ "PrepareSpellScript", "d0/d09/a14576.html#a76a070da8e719198463010499f595599", null ],
-    [ "Register", "d0/d09/a14576.html#ae237c4972167a5a17b59800983496a9d", null ]
+    [ "HandleDummy", "d0/d09/a14576.html#aa75140309e66c28590a64e10676356da", null ],
+    [ "PrepareSpellScript", "d0/d09/a14576.html#a21c4872e16c18c2918dfbea366e61df3", null ],
+    [ "Register", "d0/d09/a14576.html#a841c9277224cbae878946deb288b87a1", null ]
 ];

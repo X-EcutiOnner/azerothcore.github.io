@@ -1,6 +1,6 @@
 var a24364 =
 [
-    [ "npc_pet_dk_army_of_the_dead", "db/dfb/a24364.html#a835f24d7b1b0b70d6345f66a8960e9cf", null ],
-    [ "InitializeAI", "db/dfb/a24364.html#add16c667f3e614f9d6ceebbe17cf0515", null ],
-    [ "IsSummonedBy", "db/dfb/a24364.html#a4f1acbbccd68c83a7c3ea14b26a56305", null ]
+    [ "npc_unkor_the_ruthlessAI", "d6/dfe/a24368.html", "d6/dfe/a24368" ],
+    [ "npc_unkor_the_ruthless", "db/dfb/a24364.html#a4eb173932f39c5503d1db91d55f3a5b7", null ],
+    [ "GetAI", "db/dfb/a24364.html#a552a19b9a48e90f3b093e2b9e16ec867", null ]
 ];

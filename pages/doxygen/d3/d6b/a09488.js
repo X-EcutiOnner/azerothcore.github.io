@@ -1,7 +1,6 @@
 var a09488 =
 [
-    [ "RaidCheck", "d3/d6b/a09488.html#ad8c3717b9a645c7806c8c027a8d90ef5", null ],
-    [ "operator()", "d3/d6b/a09488.html#a0c076b737e8e1eacb9aab0981ff66f51", null ],
-    [ "_compare", "d3/d6b/a09488.html#a5fffdd5901fb03c5e9a9adfb58e3d759", null ],
-    [ "_equals", "d3/d6b/a09488.html#a7d253c94403bd50012722a9a9b113c3a", null ]
+    [ "RandomCheck", "d3/d6b/a09488.html#aca7a234c6eef8876abb02af723e9485d", null ],
+    [ "operator()", "d3/d6b/a09488.html#a9886987fa2b675ab404102ebe828c9f3", null ],
+    [ "_chance", "d3/d6b/a09488.html#aad026a0ad4539dd5336c3a6b820e351d", null ]
 ];

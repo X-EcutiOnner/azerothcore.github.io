@@ -1,8 +1,7 @@
 var a25076 =
 [
-    [ "AchievementCredit", "da/d50/a25076.html#ab0ec836feb53875de355330e05367fe8", null ],
-    [ "Load", "da/d50/a25076.html#ae48c67f363e399f076122cb6eee10ffb", null ],
-    [ "PrepareSpellScript", "da/d50/a25076.html#af0bb22c618af5dca7f534bea32e7ee7f", null ],
-    [ "Register", "da/d50/a25076.html#a793921687c96a39f7dd872b9721096ca", null ],
-    [ "Validate", "da/d50/a25076.html#a5be222c322714ec62f8beaf69faab257", null ]
+    [ "HandleScript", "da/d50/a25076.html#a8ec57aed0788f58e2c50fc08793a5749", null ],
+    [ "PrepareSpellScript", "da/d50/a25076.html#a56c9ab120239252982cab8b96ac8c5fe", null ],
+    [ "Register", "da/d50/a25076.html#a8c727b2b00858abcce058b16d66ca62a", null ],
+    [ "Validate", "da/d50/a25076.html#af3ffb9930eaba8703065719bbcf02f56", null ]
 ];

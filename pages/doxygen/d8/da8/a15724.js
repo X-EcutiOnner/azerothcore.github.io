@@ -1,14 +1,7 @@
 var a15724 =
 [
-    [ "npc_ringoAI", "d8/da8/a15724.html#a816dcad96afa6bec595f4b2dfe6fb11c", null ],
-    [ "ClearFaint", "d8/da8/a15724.html#abd24108debcafafa601958824d44abbb", null ],
-    [ "MoveInLineOfSight", "d8/da8/a15724.html#a6758ef2fe371338826dfc8582d6d03f0", null ],
-    [ "Reset", "d8/da8/a15724.html#a5b2cf17642bd4a560abb54b8d42bcd25", null ],
-    [ "SetFaint", "d8/da8/a15724.html#a09d3770aade34afe5a3a15e17cc64933", null ],
-    [ "SpellHit", "d8/da8/a15724.html#ad30d1a9fb84cc777d48b1363cf571d72", null ],
-    [ "UpdateFollowerAI", "d8/da8/a15724.html#a3b0effa8ec4d335a1d24d2238346b04a", null ],
-    [ "EndEventProgress", "d8/da8/a15724.html#a4df563b83103bbd7e1f0d81a78f6401a", null ],
-    [ "EndEventTimer", "d8/da8/a15724.html#a03f20114ca340c7c710bd77ee3c905ef", null ],
-    [ "FaintTimer", "d8/da8/a15724.html#a37d12c7edf3100837c99e3fb572f4bf1", null ],
-    [ "SpraggleGUID", "d8/da8/a15724.html#a3b58d34a1263355e7b11e22e0eef00a5", null ]
+    [ "npc_paoka_swiftmountainAI", "d8/da8/a15724.html#a92a229f76de3bc46ae14910439db0004", null ],
+    [ "DoSpawnWyvern", "d8/da8/a15724.html#a7997a3d398db82c205e3a8af77ac1684", null ],
+    [ "Reset", "d8/da8/a15724.html#acae0427957aba04a54e6001823bc7eb4", null ],
+    [ "WaypointReached", "d8/da8/a15724.html#a262781c90fe1b5a5af2c6f94e4cc52e2", null ]
 ];

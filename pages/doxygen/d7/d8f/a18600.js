@@ -1,13 +1,8 @@
 var a18600 =
 [
-    [ "npc_highlord_tirion_fordringAI", "d7/d8f/a18600.html#a8852f9196a6609f317b6113ac2eee9ee", null ],
-    [ "Reset", "d7/d8f/a18600.html#a80051b1b2a663997304b1754a3f9ff25", null ],
-    [ "SetData", "d7/d8f/a18600.html#a5642aab7afc50a7494c43ae7a130d571", null ],
-    [ "UpdateAI", "d7/d8f/a18600.html#ac3c8dc2e5bf6e0c3f380f395a785ad49", null ],
-    [ "_bolvarFordragon", "d7/d8f/a18600.html#a8e8ae990a6e70a70ce6de3a13300261c", null ],
-    [ "_damnedKills", "d7/d8f/a18600.html#a56e035884d2ab94629c133efc1fc8feb", null ],
-    [ "_events", "d7/d8f/a18600.html#a8d8d6f1b8dc65b28a8117426e3767762", null ],
-    [ "_factionNPC", "d7/d8f/a18600.html#acf9a436edcbfe3fcf47f56c5cf90cfb2", null ],
-    [ "_instance", "d7/d8f/a18600.html#acd16d6200b08df23576aa9ccbb060d31", null ],
-    [ "_theLichKing", "d7/d8f/a18600.html#afbe85d7002e34cfcb9414f2beda4e0a2", null ]
+    [ "FilterTargets", "d7/d8f/a18600.html#aed8b741160cbf50dde84cf059c8b52cb", null ],
+    [ "HandleForceCast", "d7/d8f/a18600.html#ae783cf255be823bf7c9125f288479e97", null ],
+    [ "Load", "d7/d8f/a18600.html#ac8f92e9284abc56d55ecf3aa73d350f8", null ],
+    [ "PrepareSpellScript", "d7/d8f/a18600.html#a68074978fe2c1b137c6ddfd7b9082bfc", null ],
+    [ "Register", "d7/d8f/a18600.html#a454a8909be4bb85f255ea696041ea447", null ]
 ];

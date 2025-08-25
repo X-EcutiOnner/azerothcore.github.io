@@ -1,7 +1,16 @@
 var a09580 =
 [
-    [ "AddonHandler", "d6/dab/a09580.html#a3e52b0fc5ca99a3f5d83ee6d34e16520", null ],
-    [ "~AddonHandler", "d6/dab/a09580.html#a8e4fc7c1cae505850a907e70a9febbf0", null ],
-    [ "BuildAddonPacket", "d6/dab/a09580.html#aca92dc80033c299daf8e3b42dd24ffea", null ],
-    [ "instance", "d6/dab/a09580.html#a2925b829b803dd07e96685086357ef85", null ]
+    [ "BankMoveItemData", "d6/dab/a09580.html#a9edb987f4866e8bc473fe853597bebae", null ],
+    [ "_ReserveSpace", "d6/dab/a09580.html#a109e8d55108b005426110626815ba866", null ],
+    [ "_StoreItem", "d6/dab/a09580.html#aa11267f5d6202753310da567c0be0e57", null ],
+    [ "CanStore", "d6/dab/a09580.html#ade47c73460329ca1af752921173ca75e", null ],
+    [ "CanStoreItemInTab", "d6/dab/a09580.html#a5ca7975887e5583466d066c86b3a205f", null ],
+    [ "HasStoreRights", "d6/dab/a09580.html#acd684824cab9ccb4d8fd9cbb1f1782e1", null ],
+    [ "HasWithdrawRights", "d6/dab/a09580.html#ae9d8f497b4459c982ac73ee8b5742aad", null ],
+    [ "InitItem", "d6/dab/a09580.html#a69d6b28ccdda7790f821f5181da0db96", null ],
+    [ "IsBank", "d6/dab/a09580.html#a6f1787e15918092ba000ee8bd0852b09", null ],
+    [ "LogAction", "d6/dab/a09580.html#a4f23cdffba39ffa78c38851ff7aa7d0c", null ],
+    [ "LogBankEvent", "d6/dab/a09580.html#a054ca0f7eecfd404651c11b886d106bf", null ],
+    [ "RemoveItem", "d6/dab/a09580.html#abd15e25136ec2a00bcddbc0e81978a78", null ],
+    [ "StoreItem", "d6/dab/a09580.html#a9367b938768eefcaf5bb88e74dde9aa3", null ]
 ];

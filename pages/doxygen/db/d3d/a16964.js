@@ -1,6 +1,5 @@
 var a16964 =
 [
-    [ "npc_hor_lumbering_abominationAI", "d2/d7c/a16968.html", "d2/d7c/a16968" ],
-    [ "npc_hor_lumbering_abomination", "db/d3d/a16964.html#a0d394d1ba52a05a6db0ae983daea7123", null ],
-    [ "GetAI", "db/d3d/a16964.html#a0601ac0af85e545617013846c48de29a", null ]
+    [ "at_hor_shadow_throne", "db/d3d/a16964.html#a342808808be75079acf6a2f930afe930", null ],
+    [ "OnTrigger", "db/d3d/a16964.html#a0166b1a58f4171c4d9893010df5831c4", null ]
 ];

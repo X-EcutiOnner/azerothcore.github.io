@@ -1,7 +1,6 @@
 var a18700 =
 [
-    [ "OnApply", "df/d7a/a18700.html#a5f62c11ef96edbf6f2906bd5f41109d5", null ],
-    [ "OnRemove", "df/d7a/a18700.html#a697a7c76f944b5df956a9de07746b7a9", null ],
-    [ "PrepareAuraScript", "df/d7a/a18700.html#a338d0fa22368d01fe7523b7cc1acea4b", null ],
-    [ "Register", "df/d7a/a18700.html#ab915b3ede10526b3e7ccbe33f2568fae", null ]
+    [ "npc_captain_rupertAI", "df/d34/a18704.html", "df/d34/a18704" ],
+    [ "npc_captain_rupert", "df/d7a/a18700.html#a7a4535a6b784b460c79722e9a50c3ff6", null ],
+    [ "GetAI", "df/d7a/a18700.html#a20afc31fc1a8bb09692ab0cc47af3c1b", null ]
 ];

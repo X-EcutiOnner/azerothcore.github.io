@@ -1,6 +1,5 @@
 var a16644 =
 [
-    [ "instance_trial_of_the_crusader_InstanceMapScript", "dd/d91/a16648.html", "dd/d91/a16648" ],
-    [ "instance_trial_of_the_crusader", "d7/d4e/a16644.html#a764d871d02e4ff53b7cc3a8637dcddf9", null ],
-    [ "GetInstanceScript", "d7/d4e/a16644.html#a792034e9e5687bf5fa543175692bed66", null ]
+    [ "boss_eydisAI", "d7/d4e/a16644.html#a0e97e184b2a2f610730cd3d455702955", null ],
+    [ "JustSummoned", "d7/d4e/a16644.html#aa5ae64cfe003a25859364a12cb871199", null ]
 ];

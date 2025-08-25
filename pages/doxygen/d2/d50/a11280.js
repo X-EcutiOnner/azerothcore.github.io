@@ -1,10 +1,10 @@
 var a11280 =
 [
-    [ "TargetHook", "d2/d50/a11280.html#afcada203ddd8752107c74bbf0e7c24eb", null ],
-    [ "CheckEffect", "d2/d50/a11280.html#af02ad1f1fb914aac52095d7e41f12c94", null ],
-    [ "GetTarget", "d2/d50/a11280.html#a238979ffaaa644bd65ffd4e7cb20d797", null ],
-    [ "ToString", "d2/d50/a11280.html#a424e03e457dc15a2689f344e614a882f", null ],
-    [ "area", "d2/d50/a11280.html#aceec6f0ea91d45a11233122c3bc843ed", null ],
-    [ "dest", "d2/d50/a11280.html#a28f2f6f3338a2c261ee754508ee48e60", null ],
-    [ "targetType", "d2/d50/a11280.html#aed2e0e651bdd5453d716db464ac0ab55", null ]
+    [ "EffectHook", "d2/d50/a11280.html#a4a197e061d918dfba2bc486f3393b00d", null ],
+    [ "~EffectHook", "d2/d50/a11280.html#aa234f63b530764d12064acbe3f5c9299", null ],
+    [ "CheckEffect", "d2/d50/a11280.html#ae8823c5d649d182f572818bf3db72902", null ],
+    [ "EffIndexToString", "d2/d50/a11280.html#ab818ed274cfd66ecc565b8535b751517", null ],
+    [ "GetAffectedEffectsMask", "d2/d50/a11280.html#a31faa86590e22f5ab3ca518f4df02840", null ],
+    [ "IsEffectAffected", "d2/d50/a11280.html#a697041ffa562bb6fff792beb159c7af2", null ],
+    [ "effIndex", "d2/d50/a11280.html#ab5eb48ef7ac903938f92db0e856e0295", null ]
 ];

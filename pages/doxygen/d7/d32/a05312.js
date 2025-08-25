@@ -1,5 +1,5 @@
 var a05312 =
 [
-    [ "Decode", "d7/d32/a05312.html#a16eb5c0306f404a3be454430abd01610", null ],
-    [ "Encode", "d7/d32/a05312.html#a5c439d87d1532c68023e2d612d874e5f", null ]
+    [ "Head", "d7/d32/a05312.html#ac5c6d38e71241055f58984e88368494a", null ],
+    [ "Tail", "d7/d32/a05312.html#a8b16ba737e930ebc023b8cea8231f678", null ]
 ];

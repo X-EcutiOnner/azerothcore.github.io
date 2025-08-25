@@ -1,8 +1,5 @@
 var a13308 =
 [
-    [ "FilterTargets", "d3/d48/a13308.html#ac7f7287b88cde82fbf8a625f002c86fa", null ],
-    [ "HandleAfterCast", "d3/d48/a13308.html#aa28714ce9ac251fe7c3bdec17b47deb3", null ],
-    [ "Load", "d3/d48/a13308.html#aecfa38940ea3dd287179bdef3d290487", null ],
-    [ "PrepareSpellScript", "d3/d48/a13308.html#a222e2c8e5401c132e89b29bbd22d46a6", null ],
-    [ "Register", "d3/d48/a13308.html#a1a3607dd7e3d56bde3b92cbf4bcd0e78", null ]
+    [ "at_sunwell_eredar_twins", "d3/d48/a13308.html#afc183c384bc87321186b20e0ac168c1f", null ],
+    [ "_OnTrigger", "d3/d48/a13308.html#aa862756c9905e2cb10d60c70b47919aa", null ]
 ];

@@ -1,10 +1,12 @@
 var a07188 =
 [
-    [ "CreatureBottom", "d5/dae/a07188.html#aaa8fe59aa58bf02934bf87f636582637", null ],
-    [ "CreatureTop", "d5/dae/a07188.html#a98a71fcf0d3a1f98ba4dab56d1a3c64b", null ],
-    [ "GameObject", "d5/dae/a07188.html#abc26a328692fc048d9040c44f360f4c4", null ],
-    [ "nbCreatureBottom", "d5/dae/a07188.html#ade8af6bff39a72f7052b7b0db14b207d", null ],
-    [ "nbCreatureTop", "d5/dae/a07188.html#a38ab7536e0682efd7080b823569d504b", null ],
-    [ "nbObject", "d5/dae/a07188.html#ad1e431e7205aee7fa7f8f0dd9a155c97", null ],
-    [ "towerEntry", "d5/dae/a07188.html#a1c0edf97a599773b688954f2e966e794", null ]
+    [ "damageText", "d5/dae/a07188.html#af83062a39d8dfc89bf61a4364bd8579d", null ],
+    [ "destroyText", "d5/dae/a07188.html#a81747f8ff920f7c17a55d45d43304cc9", null ],
+    [ "entry", "d5/dae/a07188.html#a58d0395a47190698d309e80d91358bb1", null ],
+    [ "o", "d5/dae/a07188.html#a21238943701f594e1a5346193c895d33", null ],
+    [ "type", "d5/dae/a07188.html#a3cebd422659aa7339e9a23a87cfad0d7", null ],
+    [ "WorldState", "d5/dae/a07188.html#a4b4881aba2d297e125443f0c8ccab618", null ],
+    [ "x", "d5/dae/a07188.html#a80ebabba7265753a05367a4c79f6450c", null ],
+    [ "y", "d5/dae/a07188.html#a5d8ade187749e6fc191f01b384a4cda6", null ],
+    [ "z", "d5/dae/a07188.html#a3913a2618277cc5ad382aa2fc1d00f5e", null ]
 ];

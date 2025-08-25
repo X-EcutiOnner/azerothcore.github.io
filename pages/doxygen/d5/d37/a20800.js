@@ -1,5 +1,6 @@
 var a20800 =
 [
-    [ "achievement_xt002_nerf_gravity_bombs", "d5/d37/a20800.html#a9c6471da08acb7a0543d7cc07784dd85", null ],
-    [ "OnCheck", "d5/d37/a20800.html#a03f61470694399ab32aea354cd697771", null ]
+    [ "npc_xt002_life_sparkAI", "d5/dba/a20804.html", "d5/dba/a20804" ],
+    [ "npc_xt002_life_spark", "d5/d37/a20800.html#a9644718d192708e391b833468a0ff21e", null ],
+    [ "GetAI", "d5/d37/a20800.html#a09a1ce332d55fad146947c94bb53f564", null ]
 ];

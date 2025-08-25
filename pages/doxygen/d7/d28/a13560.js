@@ -1,11 +1,6 @@
 var a13560 =
 [
-    [ "npc_supervisor_raelen", "d7/d28/a13560.html#a2059d41f6df3a44406ab69a0dca501a4", null ],
-    [ "CallPeasent", "d7/d28/a13560.html#a0b8d661a86ec334adeb502d6936135ee", null ],
-    [ "Reset", "d7/d28/a13560.html#a656029c56da84d2d3cee7380d6032e3d", null ],
-    [ "SetData", "d7/d28/a13560.html#ab709a5a975c22556dfe71dce52a3ec2c", null ],
-    [ "UpdateAI", "d7/d28/a13560.html#a623a95d4f3ca483d1bf3dff5e06c1958", null ],
-    [ "_events", "d7/d28/a13560.html#a1ed36b07ff83a6a8a202f4a451d90190", null ],
-    [ "_PeasentId", "d7/d28/a13560.html#ae3e44b8f29f05c771137c5b9afd5da56", null ],
-    [ "peasentGUIDs", "d7/d28/a13560.html#a6e290a29c8205b22bd668f0516e8904a", null ]
+    [ "npc_maredis_firestarAI", "d7/d28/a13560.html#ac2d4ed4b205146524dcf11585d65ae12", null ],
+    [ "sGossipHello", "d7/d28/a13560.html#a72790dc9525249a4b558c37c4a0bd03f", null ],
+    [ "sGossipSelect", "d7/d28/a13560.html#acefb2bc09fe8f7ad77d53ee6eb8bbb71", null ]
 ];

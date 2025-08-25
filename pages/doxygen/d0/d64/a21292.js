@@ -1,13 +1,16 @@
 var a21292 =
 [
-    [ "boss_toravonAI", "d0/d64/a21292.html#a98474fcfbc56c7850ae054b7489eaa4f", null ],
-    [ "AttackStart", "d0/d64/a21292.html#ac4e2ed28ba7863630cd54c8f6c11455f", null ],
-    [ "JustDied", "d0/d64/a21292.html#ad501bb34a0014be0abc965aae5383e21", null ],
-    [ "JustEngagedWith", "d0/d64/a21292.html#af6a6cfd1ec54546c2e70ea60f871b564", null ],
-    [ "JustSummoned", "d0/d64/a21292.html#a431dafbcc3a6581d771e810a85a92a0b", null ],
-    [ "Reset", "d0/d64/a21292.html#a4af8eb8863e7ee1559bc156b7f28e8d8", null ],
-    [ "UpdateAI", "d0/d64/a21292.html#a97c16b1689cfdb7fa680381964cb272a", null ],
-    [ "events", "d0/d64/a21292.html#ae2a3b691f1580275228204ea8ccaf846", null ],
-    [ "pInstance", "d0/d64/a21292.html#a912bcccd309ccd1f043c5aae633e78fe", null ],
-    [ "summons", "d0/d64/a21292.html#a56ca98fa12190d6d9d459bc5e569ae04", null ]
+    [ "boss_emalonAI", "d0/d64/a21292.html#ac87b3ea34e9781f3843321ef874321fe", null ],
+    [ "AttackStart", "d0/d64/a21292.html#ab08f49aabe76b623496da2fc0198a6c1", null ],
+    [ "JustDied", "d0/d64/a21292.html#a79a05156b690140e955a6e850ac41e5b", null ],
+    [ "JustEngagedWith", "d0/d64/a21292.html#a9a3b4e6df73586125c0369aa2d3666df", null ],
+    [ "JustSummoned", "d0/d64/a21292.html#a895f302d336faa0c3f93854314d3b427", null ],
+    [ "Reset", "d0/d64/a21292.html#ae5d33f728077d5bbc3b7d74db8015f5d", null ],
+    [ "ResetSummons", "d0/d64/a21292.html#a7df4da85c40ba1c34063df9b2df5874b", null ],
+    [ "SpellHitTarget", "d0/d64/a21292.html#a2c60642848b73bc00d1a8244d4fb4733", null ],
+    [ "SummonedCreatureDies", "d0/d64/a21292.html#a25a18c4d110b407c5fcf09c14444e8b0", null ],
+    [ "UpdateAI", "d0/d64/a21292.html#a4701d5a77b6ae7ce3432c81b7b6d14cf", null ],
+    [ "events", "d0/d64/a21292.html#a78312371e28b4be3c072dc870370b577", null ],
+    [ "pInstance", "d0/d64/a21292.html#af4cc6489905f9702999cc23fd6a920c2", null ],
+    [ "summons", "d0/d64/a21292.html#a1b6ccd418114e57a0c843cc980a56243", null ]
 ];

@@ -1,8 +1,8 @@
 var a01283 =
 [
-    [ "Movement::TransportPathTransform", "d0/d2a/a10072.html", "d0/d2a/a10072" ],
-    [ "Movement::HoverMovementTransform", "db/d95/a10076.html", "db/d95/a10076" ],
-    [ "Movement::MoveSplineInit", "d7/df8/a10080.html", "d7/df8/a10080" ],
+    [ "Movement::TransportPathTransform", "d7/df8/a10080.html", "d7/df8/a10080" ],
+    [ "Movement::HoverMovementTransform", "d8/d13/a10084.html", "d8/d13/a10084" ],
+    [ "Movement::MoveSplineInit", "d3/d3e/a10088.html", "d3/d3e/a10088" ],
     [ "AnimType", "d5/da7/a01283.html#ab518009ca4123b1c5dce0ffe108b78fb", [
       [ "ToGround", "d5/da7/a01283.html#ab518009ca4123b1c5dce0ffe108b78fba41889d3628918ee702ad48c7d2689f31", null ],
       [ "FlyToFly", "d5/da7/a01283.html#ab518009ca4123b1c5dce0ffe108b78fba547b00b126d19fb188c747f076bf9d2c", null ],

@@ -1,6 +1,6 @@
 var a27324 =
 [
-    [ "go_fel_crystalforge", "d9/d36/a27324.html#aa44708a617edd51651da49918ab776e5", null ],
-    [ "OnGossipHello", "d9/d36/a27324.html#aae9f4beff251efb7b29e1988ddd51eaf", null ],
-    [ "OnGossipSelect", "d9/d36/a27324.html#a97450cce5f547e28ea84fa6a6f8ab79e", null ]
+    [ "go_midsummer_musicAI", "d9/d36/a27324.html#a8cbadc16a9588c469ff48dbaf51ac71c", null ],
+    [ "UpdateAI", "d9/d36/a27324.html#adf185ee702e9e74f65204b90786f9eb4", null ],
+    [ "_events", "d9/d36/a27324.html#a31e45a754930cdc3206fe2b7f754d234", null ]
 ];

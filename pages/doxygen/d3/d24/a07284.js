@@ -1,7 +1,10 @@
 var a07284 =
 [
-    [ "BattlegroundObjectInfo", "d3/d24/a07284.html#a848f2b15f47ceeb91c40e916d5659486", null ],
-    [ "object", "d3/d24/a07284.html#a6722b83d6969c1a34b4846f19865075a", null ],
-    [ "spellid", "d3/d24/a07284.html#ae0233a1078bc735e40855ea7608f5f11", null ],
-    [ "timer", "d3/d24/a07284.html#a7eaf1fbe40f3a7918965da8d5ac81a50", null ]
+    [ "BattlegroundChatBuilder", "d3/d24/a07284.html#ad5ae3b91e81f816ca49f9358222c8b06", null ],
+    [ "do_helper", "d3/d24/a07284.html#aaeb91b7fa2efe1dd36802851e204c9c8", null ],
+    [ "operator()", "d3/d24/a07284.html#ab84296c320b09a387de6e6e6a2326b83", null ],
+    [ "_args", "d3/d24/a07284.html#a32a72bf1110179cc58dcf2df914c7389", null ],
+    [ "_msgtype", "d3/d24/a07284.html#ae73b69d72ddee4e05bb8b634a91e13b7", null ],
+    [ "_source", "d3/d24/a07284.html#aaed8a84ac72a01824d7d7fc2ea17c9af", null ],
+    [ "_textId", "d3/d24/a07284.html#a218d6cc2e99a6170b1a548fc1531e2e7", null ]
 ];

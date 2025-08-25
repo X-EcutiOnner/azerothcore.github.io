@@ -1,7 +1,15 @@
 var a24124 =
 [
-    [ "npc_maxx_a_million_escortAI", "d4/d2b/a24128.html", "d4/d2b/a24128" ],
-    [ "npc_maxx_a_million_escort", "d5/d16/a24124.html#a958a88b495594dd8e14919d950ac917a", null ],
-    [ "GetAI", "d5/d16/a24124.html#af79619087908d442f503e0b0d633937d", null ],
-    [ "OnQuestAccept", "d5/d16/a24124.html#af3c2f2708702f7d25e712c63a45e69e0", null ]
+    [ "npc_kurenai_captiveAI", "d5/d16/a24124.html#ab8771e4c2cefe3d5dc3e07df2eeb7b96", null ],
+    [ "JustDied", "d5/d16/a24124.html#a0778846d7d67f5d29ed3f7ef02f912f4", null ],
+    [ "JustEngagedWith", "d5/d16/a24124.html#a9e36749629568d7917353bee51be08b8", null ],
+    [ "JustSummoned", "d5/d16/a24124.html#a19a5190b72f78ee698d5fa2df6ac9b4b", null ],
+    [ "Reset", "d5/d16/a24124.html#aea5af2579f9be13620f15b82b5cc8436", null ],
+    [ "SetGUID", "d5/d16/a24124.html#a20edaf98031d7683d07b325c0b89ff69", null ],
+    [ "SpellHitTarget", "d5/d16/a24124.html#a1f0cb1afc62b1b29a71cc04a21c456f0", null ],
+    [ "UpdateEscortAI", "d5/d16/a24124.html#a3d0dfb0df190fe1b32cacb039e611dc3", null ],
+    [ "WaypointReached", "d5/d16/a24124.html#a584bfc3a62f9d856e6d918d8f8694b3e", null ],
+    [ "ChainLightningTimer", "d5/d16/a24124.html#a9aede5daebe0cf90ca2091a052c34282", null ],
+    [ "FrostShockTimer", "d5/d16/a24124.html#a224c2df273f8d032e4302958879ce4d5", null ],
+    [ "HealTimer", "d5/d16/a24124.html#a5a8d15bf6d2fd7a04818ba4535195922", null ]
 ];

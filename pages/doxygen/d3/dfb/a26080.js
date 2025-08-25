@@ -1,8 +1,10 @@
 var a26080 =
 [
-    [ "CalculateAmount", "d3/dfb/a26080.html#a8751483423726ffa8a33c70b7e55db23", null ],
-    [ "CheckProc", "d3/dfb/a26080.html#a046cd1087342cdcbd2e6b0f8ded7c03a", null ],
-    [ "HandleProc", "d3/dfb/a26080.html#abda070e7dfbb4ddc8d18cb3d180edc2e", null ],
-    [ "PrepareAuraScript", "d3/dfb/a26080.html#a6bb54cea419145875c4086a69e1e55e8", null ],
-    [ "Register", "d3/dfb/a26080.html#a8e92638bbdd786ef77b17f00dcf0f643", null ]
+    [ "AfterCheckProc", "d3/dfb/a26080.html#aa6f32a97ece5fc68c0b0a2cfa36e33eb", null ],
+    [ "HandleProc", "d3/dfb/a26080.html#a613182c741769d0983206bdfa89242f6", null ],
+    [ "PrepareAuraScript", "d3/dfb/a26080.html#a4f614fe81d829d8a1ceb7500f9557948", null ],
+    [ "Register", "d3/dfb/a26080.html#acd807de02a83a97a78572d672fb16027", null ],
+    [ "Validate", "d3/dfb/a26080.html#a3d2d6f1a00825ac66f507a790f468198", null ],
+    [ "_spellInfo", "d3/dfb/a26080.html#a66a5eb4caa7b43c34b2830d9a3d2f994", null ],
+    [ "_ticksModifier", "d3/dfb/a26080.html#ae23b54499fff879a096bd459e264c4f0", null ]
 ];

@@ -1,6 +1,6 @@
 var a21000 =
 [
-    [ "CheckCast", "d3/dfd/a21000.html#a715a58956db4253c8adfed039833debd", null ],
-    [ "PrepareSpellScript", "d3/dfd/a21000.html#a3b03178d8ab54db36a19ba5a27444917", null ],
-    [ "Register", "d3/dfd/a21000.html#a6309c53b9e3828e76d34a77a8fe35df1", null ]
+    [ "FilterTargets", "d3/dfd/a21000.html#a7efa78a7991b7ca859c7d622f973265d", null ],
+    [ "PrepareSpellScript", "d3/dfd/a21000.html#a67da98b94fe491afa06b7a0cfa92982a", null ],
+    [ "Register", "d3/dfd/a21000.html#a4d2c901a32f526673e968aa5b7ca9117", null ]
 ];

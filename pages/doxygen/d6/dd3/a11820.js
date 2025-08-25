@@ -1,6 +1,9 @@
 var a11820 =
 [
-    [ "boss_galvangarAI", "de/dd5/a11824.html", "de/dd5/a11824" ],
-    [ "boss_galvangar", "d6/dd3/a11820.html#a3949cfd3c987bdf52d313568de9379ba", null ],
-    [ "GetAI", "d6/dd3/a11820.html#a9fd978eb38ae3e2d8d65cf4214e673e3", null ]
+    [ "titles_commandscript", "d6/dd3/a11820.html#ac088fd907013150a0508b79c99f6c2f3", null ],
+    [ "GetCommands", "d6/dd3/a11820.html#af7d00111b3190f8bc9c46cedda3621d6", null ],
+    [ "HandleTitlesAddCommand", "d6/dd3/a11820.html#a2a44d6f83bc5617a25a53b18fbd35e32", null ],
+    [ "HandleTitlesCurrentCommand", "d6/dd3/a11820.html#a9a9b503e9ee65aa0d92cc7ff2e38a09d", null ],
+    [ "HandleTitlesRemoveCommand", "d6/dd3/a11820.html#a2001bcc2eddc5688d57154f9906218e4", null ],
+    [ "HandleTitlesSetMaskCommand", "d6/dd3/a11820.html#a9517b10295b856779cdd067234f640c8", null ]
 ];

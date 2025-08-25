@@ -1,5 +1,5 @@
 var a11016 =
 [
-    [ "amountCounter", "d6/d60/a11016.html#af652ffc837bde625aa39e913ec2e2eec", null ],
-    [ "lastReceiveTime", "d6/d60/a11016.html#ae0f3f2a90a24b48d239e3df3525f8fdc", null ]
+    [ "AccountInfoQueryHolderPerRealm", "d6/d60/a11016.html#a9d821669804cd04cf121e141d94ead36", null ],
+    [ "Initialize", "d6/d60/a11016.html#a9d4e4de9a038697f61e6350f5f59713b", null ]
 ];

@@ -1,5 +1,5 @@
 var a10564 =
 [
-    [ "GuildGetRoster", "d3/d2d/a10564.html#a9beccc6ee2416633c57d2da31fdc021a", null ],
-    [ "Read", "d3/d2d/a10564.html#af795ad992ec1b55d741227bd2d4a62d1", null ]
+    [ "GuildGetInfo", "d3/d2d/a10564.html#a585a6a49fe9747d5044ac185f1236cf5", null ],
+    [ "Read", "d3/d2d/a10564.html#aa2b107f35fcf348fb7f84c2971c5fa00", null ]
 ];

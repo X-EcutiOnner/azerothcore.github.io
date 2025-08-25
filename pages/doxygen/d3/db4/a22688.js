@@ -1,11 +1,8 @@
 var a22688 =
 [
-    [ "boss_murmur", "d3/db4/a22688.html#ad89ea433764c3017a3d33b37eb9e5602", null ],
-    [ "CanAIAttack", "d3/db4/a22688.html#a6b89c95747c0a37c0b37527cd360e524", null ],
-    [ "CastSuppressionOOC", "d3/db4/a22688.html#aab66339a7436c3c483297b25f6859558", null ],
-    [ "EnterEvadeMode", "d3/db4/a22688.html#aa0f549c83a92302ece2323c75dd29acc", null ],
-    [ "JustEngagedWith", "d3/db4/a22688.html#a3d872beeee7bf6ecd0c4aeaa3f8c603d", null ],
-    [ "Reset", "d3/db4/a22688.html#a1f40ead1b2269b97c69bd4db808d6bae", null ],
-    [ "SetGUID", "d3/db4/a22688.html#a88e18fd646a807ee92f1b24b43d500a6", null ],
-    [ "ShouldCastResonance", "d3/db4/a22688.html#ade07217a85655a513d7a472d24589691", null ]
+    [ "boss_darkweaver_syth", "d3/db4/a22688.html#a4f719165e07206c5a378412b3f82ff86", null ],
+    [ "JustDied", "d3/db4/a22688.html#adf7e44e3fdc7241baa5f9eddafcb6d40", null ],
+    [ "JustEngagedWith", "d3/db4/a22688.html#aaf6dab75e66734e930c5732749f3d69a", null ],
+    [ "KilledUnit", "d3/db4/a22688.html#a1904c2596dd455f84625974beec4a2c8", null ],
+    [ "Reset", "d3/db4/a22688.html#a484a6dea12ca9e5a20f0a0761461c1f5", null ]
 ];

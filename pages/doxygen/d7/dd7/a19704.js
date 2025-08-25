@@ -1,6 +1,7 @@
 var a19704 =
 [
-    [ "npc_collapsing_starAI", "d0/d14/a19708.html", "d0/d14/a19708" ],
-    [ "npc_collapsing_star", "d7/dd7/a19704.html#a8d57987c9b4622746d4f42a2b4845b9e", null ],
-    [ "GetAI", "d7/dd7/a19704.html#a346af96d122e64c68defdeccb9183cd4", null ]
+    [ "HandleEffectRemove", "d7/dd7/a19704.html#af61220cb739baef9b33aecddb1cfe5ea", null ],
+    [ "PrepareAuraScript", "d7/dd7/a19704.html#ad8035b1b676751fcc299e4ad8df62ed8", null ],
+    [ "Register", "d7/dd7/a19704.html#abe52dbfdbd42c860e0a79873dd19e22d", null ],
+    [ "Validate", "d7/dd7/a19704.html#a7c4f9df92b501720e30372fa9e9dbad7", null ]
 ];

@@ -1,6 +1,6 @@
 var a19588 =
 [
-    [ "CalculateDamage", "df/dbd/a19588.html#a3b9afc712f9091273e9abc5079a90eb8", null ],
-    [ "PrepareSpellScript", "df/dbd/a19588.html#a59e56fb107cca4952c5e94ed371f73dd", null ],
-    [ "Register", "df/dbd/a19588.html#a02851f0b94687512a8e016bfb9b826e3", null ]
+    [ "npc_molten_golemAI", "d9/d9b/a19592.html", "d9/d9b/a19592" ],
+    [ "npc_molten_golem", "df/dbd/a19588.html#a63e16216a59b50524632b49599bd3bd1", null ],
+    [ "GetAI", "df/dbd/a19588.html#a22a723039267cb0901b78c6064a88d0c", null ]
 ];

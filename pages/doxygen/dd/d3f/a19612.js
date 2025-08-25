@@ -1,5 +1,6 @@
 var a19612 =
 [
-    [ "boss_sjonnir_dwarfAI", "dd/d3f/a19612.html#aee7608282bef500a7eb3e0d3130fa01c", null ],
-    [ "UpdateAI", "dd/d3f/a19612.html#afef50cec19e4cb2018c7c8a9e36ef41c", null ]
+    [ "boss_krystallusAI", "d4/dcf/a19616.html", "d4/dcf/a19616" ],
+    [ "boss_krystallus", "dd/d3f/a19612.html#a1d7453c9d67594bfdbd650fea897666a", null ],
+    [ "GetAI", "dd/d3f/a19612.html#aba14bcfa00a5d997959abd94af647bf4", null ]
 ];

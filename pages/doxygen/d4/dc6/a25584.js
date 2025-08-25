@@ -1,6 +1,7 @@
 var a25584 =
 [
-    [ "HandleActivateObject", "d4/dc6/a25584.html#a0d14ca0b21716855a04a0a9267f3e019", null ],
-    [ "PrepareSpellScript", "d4/dc6/a25584.html#a684079434128bacd3d8b8b71c14dc56a", null ],
-    [ "Register", "d4/dc6/a25584.html#a266301f59c809c03d0ccfc48a2ace302", null ]
+    [ "CalculateDamageAmount", "d4/dc6/a25584.html#a2f608e8391e61434ef1b164c023854fe", null ],
+    [ "CalculateManaLeechAmount", "d4/dc6/a25584.html#a8a4946d1718d8045a72c92355ff38ecb", null ],
+    [ "PrepareAuraScript", "d4/dc6/a25584.html#a63d24d3ca4b2de1aa7f67376ded7bc59", null ],
+    [ "Register", "d4/dc6/a25584.html#aa6e74e89930fd3cc564c3cba86e3687e", null ]
 ];

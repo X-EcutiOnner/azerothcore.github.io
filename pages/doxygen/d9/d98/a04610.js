@@ -1,25 +1,29 @@
 var a04610 =
 [
-    [ "ABORT", "d9/d98/a04610.html#a5376571bbf4cdc9782683635f366f89a", null ],
-    [ "ASSERT", "d9/d98/a04610.html#af343b20373ba49a92fce523e948f2ab3", null ],
-    [ "ASSERT_NODEBUGINFO", "d9/d98/a04610.html#ae4aa5b88f8a0cd841e02343e63098f7a", null ],
-    [ "ASSERT_NOTNULL", "d9/d98/a04610.html#aee2b3b5656453513bc51a5979b247a67", null ],
-    [ "EXCEPTION_ASSERTION_FAILURE", "d9/d98/a04610.html#adb1e581c0b1db74338cf2892218ff23f", null ],
-    [ "WPAbort", "d9/d98/a04610.html#aab8761bc4b218ac84ad259cc6e0c1589", null ],
-    [ "WPAssert", "d9/d98/a04610.html#a6b3632c6657f3d1633b9a9707d9ede62", null ],
-    [ "WPAssert_NODEBUGINFO", "d9/d98/a04610.html#ab0566f9653ccc9fc0e174bda17fc5277", null ],
-    [ "WPError", "d9/d98/a04610.html#a7d9ea9088aab1556ba6739861998001a", null ],
-    [ "WPFatal", "d9/d98/a04610.html#a47d51826ca35c49a890b7bc2ad6818ea", null ],
-    [ "WPWarning", "d9/d98/a04610.html#afbbc90bf1881f7811a1022e7af350b47", null ],
-    [ "Abort", "d9/d98/a04610.html#a257b055b35d21943eb2a144cccd26429", null ],
-    [ "Abort", "d9/d98/a04610.html#af8c8ba5d8126e10ea9f5d86e8a9e742b", null ],
-    [ "AbortHandler", "d9/d98/a04610.html#ad49ea597ac6ffd8eb9ae06bab8c38b43", null ],
-    [ "Assert", "d9/d98/a04610.html#aaacb53f863e011c7d879e93567268109", null ],
-    [ "Assert", "d9/d98/a04610.html#a1990519ae97867f1a629699d00874fb2", null ],
-    [ "ASSERT_NOTNULL_IMPL", "d9/d98/a04610.html#aa8e391e13264a7b2f29f66832263afcf", null ],
-    [ "Error", "d9/d98/a04610.html#af222a0bd205c0bcecd8a7b6554137e33", null ],
-    [ "Fatal", "d9/d98/a04610.html#a07aa40e12479c740872d1ad7f55acbbc", null ],
-    [ "Fatal", "d9/d98/a04610.html#af4a5b364827068eb978fa1a1fff5770f", null ],
-    [ "GetDebugInfo", "d9/d98/a04610.html#a4dc49effc31d570798463c106549b1cb", null ],
-    [ "Warning", "d9/d98/a04610.html#ab1b23d9277c7dd8d381753ec943ad1bc", null ]
+    [ "AppenderFlags", "d9/d98/a04610.html#a94c1c25ceab6db205eb6a5d5a2e0e803", [
+      [ "APPENDER_FLAGS_NONE", "d9/d98/a04610.html#a94c1c25ceab6db205eb6a5d5a2e0e803a184efa87bd2e31eb7cbcb9d9d9da282b", null ],
+      [ "APPENDER_FLAGS_PREFIX_TIMESTAMP", "d9/d98/a04610.html#a94c1c25ceab6db205eb6a5d5a2e0e803abd5b7165060ec5de7b8db0619e2f2a46", null ],
+      [ "APPENDER_FLAGS_PREFIX_LOGLEVEL", "d9/d98/a04610.html#a94c1c25ceab6db205eb6a5d5a2e0e803adc9e7db7404463919a903d8acfeff94e", null ],
+      [ "APPENDER_FLAGS_PREFIX_LOGFILTERTYPE", "d9/d98/a04610.html#a94c1c25ceab6db205eb6a5d5a2e0e803ac133c721eb5548b0845595467e081c5b", null ],
+      [ "APPENDER_FLAGS_USE_TIMESTAMP", "d9/d98/a04610.html#a94c1c25ceab6db205eb6a5d5a2e0e803a6aec71fc9bc28024147cf9f5291c08c3", null ],
+      [ "APPENDER_FLAGS_MAKE_FILE_BACKUP", "d9/d98/a04610.html#a94c1c25ceab6db205eb6a5d5a2e0e803a6a4fbf813da7a71ddfd24f9336a7e5a2", null ]
+    ] ],
+    [ "AppenderType", "d9/d98/a04610.html#aacbd2dccb14fcb75d2651dce582364df", [
+      [ "APPENDER_NONE", "d9/d98/a04610.html#aacbd2dccb14fcb75d2651dce582364dfaceddd86331dd45bd7dbd5f8bae6c8852", null ],
+      [ "APPENDER_CONSOLE", "d9/d98/a04610.html#aacbd2dccb14fcb75d2651dce582364dfa8cc0efa84bbb87aa8207ba11f369b78a", null ],
+      [ "APPENDER_FILE", "d9/d98/a04610.html#aacbd2dccb14fcb75d2651dce582364dfa2420e38b426dcb22e37a90b6a97cc65d", null ],
+      [ "APPENDER_DB", "d9/d98/a04610.html#aacbd2dccb14fcb75d2651dce582364dfacac80dc510e850226c250af5a5600394", null ],
+      [ "APPENDER_INVALID", "d9/d98/a04610.html#aacbd2dccb14fcb75d2651dce582364dfa7cb05f13eacfc1d54ef111d7b8375301", null ]
+    ] ],
+    [ "LogLevel", "d9/d98/a04610.html#ad26ed09e30f81a5d2172b4793a3f2781", [
+      [ "LOG_LEVEL_DISABLED", "d9/d98/a04610.html#ad26ed09e30f81a5d2172b4793a3f2781ae44988e4cdc992741e4a39b3734e1f61", null ],
+      [ "LOG_LEVEL_FATAL", "d9/d98/a04610.html#ad26ed09e30f81a5d2172b4793a3f2781a779dc8dd26898fb0f88cd5f6e02ba1e5", null ],
+      [ "LOG_LEVEL_ERROR", "d9/d98/a04610.html#ad26ed09e30f81a5d2172b4793a3f2781a5b40f003febbc3b535649d63f4b8a44f", null ],
+      [ "LOG_LEVEL_WARN", "d9/d98/a04610.html#ad26ed09e30f81a5d2172b4793a3f2781a99c1e5c8e6d557f3993b9ab54a0107f4", null ],
+      [ "LOG_LEVEL_INFO", "d9/d98/a04610.html#ad26ed09e30f81a5d2172b4793a3f2781aedee1e3159bfe7d918b6e29873c5aee4", null ],
+      [ "LOG_LEVEL_DEBUG", "d9/d98/a04610.html#ad26ed09e30f81a5d2172b4793a3f2781a538b2b6e011479d408ecd2be0f6d6177", null ],
+      [ "LOG_LEVEL_TRACE", "d9/d98/a04610.html#ad26ed09e30f81a5d2172b4793a3f2781a8fa9f12103da446ab4f3d3dc2fcf7f5d", null ],
+      [ "NUM_ENABLED_LOG_LEVELS", "d9/d98/a04610.html#ad26ed09e30f81a5d2172b4793a3f2781a02115b12f9d2c08405f3ea32fb8dea7d", null ],
+      [ "LOG_LEVEL_INVALID", "d9/d98/a04610.html#ad26ed09e30f81a5d2172b4793a3f2781a385a9fffad0d67363b55e833e0395c96", null ]
+    ] ]
 ];

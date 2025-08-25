@@ -1,6 +1,6 @@
 var a21776 =
 [
-    [ "npc_injured_7th_legion_soldierAI", "da/deb/a21780.html", "da/deb/a21780" ],
-    [ "npc_injured_7th_legion_soldier", "d1/d0f/a21776.html#a9d3c647f485dbca5efeec8f784efba1b", null ],
-    [ "GetAI", "d1/d0f/a21776.html#a0feca7aedcf3c07253d4d402266189cc", null ]
+    [ "npc_conversing_with_the_depths_triggerAI", "da/deb/a21780.html", "da/deb/a21780" ],
+    [ "npc_conversing_with_the_depths_trigger", "d1/d0f/a21776.html#a55ba213da86650d44ea1493b26fdb7f2", null ],
+    [ "GetAI", "d1/d0f/a21776.html#a61c337bfe1efb3589cf0df91d9082236", null ]
 ];

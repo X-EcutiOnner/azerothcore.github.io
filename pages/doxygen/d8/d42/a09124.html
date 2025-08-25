@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: LoadedHeightData Struct Reference</title>
+<title>AzerothCore: map_liquidHeader Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,127 +105,178 @@ $(document).ready(function(){initNavTree('d8/d42/a09124.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#nested-classes">Classes</a> &#124;
-<a href="#pub-types">Public Types</a> &#124;
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../d6/d5d/a09121.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">LoadedHeightData Struct Reference</div></div>
+  <div class="headertitle"><div class="title">map_liquidHeader Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
 <p><code>#include &quot;<a class="el" href="../../">GridTerrainData.h</a>&quot;</code></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
-Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/deb/a09136.html">FloatHeightData</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dd2/a09128.html">Uint16HeightData</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d4b/a09132.html">Uint8HeightData</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-types" name="pub-types"></a>
-Public Types</h2></td></tr>
-<tr class="memitem:ab64c3cfcd01805f43ec4ef41fb3bc48d"><td class="memItemLeft" align="right" valign="top">typedef std::array&lt; G3D::Plane, 8 &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d42/a09124.html#ab64c3cfcd01805f43ec4ef41fb3bc48d">HeightPlanesType</a></td></tr>
-<tr class="separator:ab64c3cfcd01805f43ec4ef41fb3bc48d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a1f989ab0921de350dc2410129028201f"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d42/a09124.html#a1f989ab0921de350dc2410129028201f">gridHeight</a></td></tr>
-<tr class="separator:a1f989ab0921de350dc2410129028201f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aec022a29ba14a18fdd33e8f65e1cd977"><td class="memItemLeft" align="right" valign="top">std::unique_ptr&lt; <a class="el" href="../../d7/dd2/a09128.html">Uint16HeightData</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d42/a09124.html#aec022a29ba14a18fdd33e8f65e1cd977">uint16HeightData</a></td></tr>
-<tr class="separator:aec022a29ba14a18fdd33e8f65e1cd977"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a60a4a267b4164347e9f3ead6b5abfe14"><td class="memItemLeft" align="right" valign="top">std::unique_ptr&lt; <a class="el" href="../../d6/d4b/a09132.html">Uint8HeightData</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d42/a09124.html#a60a4a267b4164347e9f3ead6b5abfe14">uint8HeightData</a></td></tr>
-<tr class="separator:a60a4a267b4164347e9f3ead6b5abfe14"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abd47b99dfa1f23b0741b66cfd4837eaa"><td class="memItemLeft" align="right" valign="top">std::unique_ptr&lt; <a class="el" href="../../da/deb/a09136.html">FloatHeightData</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d42/a09124.html#abd47b99dfa1f23b0741b66cfd4837eaa">floatHeightData</a></td></tr>
-<tr class="separator:abd47b99dfa1f23b0741b66cfd4837eaa"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa04f68f079e1f488cf69acd24dcd7899"><td class="memItemLeft" align="right" valign="top">std::unique_ptr&lt; <a class="el" href="../../d8/d42/a09124.html#ab64c3cfcd01805f43ec4ef41fb3bc48d">HeightPlanesType</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d42/a09124.html#aa04f68f079e1f488cf69acd24dcd7899">minHeightPlanes</a></td></tr>
-<tr class="separator:aa04f68f079e1f488cf69acd24dcd7899"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5e7b1d32e42afbeb6898ee02014847cd"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d42/a09124.html#a5e7b1d32e42afbeb6898ee02014847cd">fourcc</a></td></tr>
+<tr class="separator:a5e7b1d32e42afbeb6898ee02014847cd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab1c2612a57fcfce78e10de45dfc1c28d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d4e/a04307.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d42/a09124.html#ab1c2612a57fcfce78e10de45dfc1c28d">flags</a></td></tr>
+<tr class="separator:ab1c2612a57fcfce78e10de45dfc1c28d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a90f22c454f03ecee6aa1b9f9392e10a0"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d4e/a04307.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d42/a09124.html#a90f22c454f03ecee6aa1b9f9392e10a0">liquidFlags</a></td></tr>
+<tr class="separator:a90f22c454f03ecee6aa1b9f9392e10a0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab2ce1920efaec0a4fc0a81df9d6539e3"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d4e/a04307.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d42/a09124.html#ab2ce1920efaec0a4fc0a81df9d6539e3">liquidType</a></td></tr>
+<tr class="separator:ab2ce1920efaec0a4fc0a81df9d6539e3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2ddee980eda8b7321b55ba44697688b5"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d4e/a04307.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d42/a09124.html#a2ddee980eda8b7321b55ba44697688b5">offsetX</a></td></tr>
+<tr class="separator:a2ddee980eda8b7321b55ba44697688b5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abc57f9e6c2f9fae58f575d8e1309f420"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d4e/a04307.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d42/a09124.html#abc57f9e6c2f9fae58f575d8e1309f420">offsetY</a></td></tr>
+<tr class="separator:abc57f9e6c2f9fae58f575d8e1309f420"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aabcbad9f4c0cae9d2e1b015a93f2a0ed"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d4e/a04307.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d42/a09124.html#aabcbad9f4c0cae9d2e1b015a93f2a0ed">width</a></td></tr>
+<tr class="separator:aabcbad9f4c0cae9d2e1b015a93f2a0ed"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab064dde684394c3aa84f9b151749d524"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d4e/a04307.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d42/a09124.html#ab064dde684394c3aa84f9b151749d524">height</a></td></tr>
+<tr class="separator:ab064dde684394c3aa84f9b151749d524"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae4f34f9b8139b18416862bcd413f4aaa"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d42/a09124.html#ae4f34f9b8139b18416862bcd413f4aaa">liquidLevel</a></td></tr>
+<tr class="separator:ae4f34f9b8139b18416862bcd413f4aaa"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Member Typedef Documentation</h2>
-<a id="ab64c3cfcd01805f43ec4ef41fb3bc48d" name="ab64c3cfcd01805f43ec4ef41fb3bc48d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab64c3cfcd01805f43ec4ef41fb3bc48d">&#9670;&#160;</a></span>HeightPlanesType</h2>
+<div class="textblock"></div><h2 class="groupheader">Member Data Documentation</h2>
+<a id="ab1c2612a57fcfce78e10de45dfc1c28d" name="ab1c2612a57fcfce78e10de45dfc1c28d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab1c2612a57fcfce78e10de45dfc1c28d">&#9670;&#160;</a></span>flags</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">typedef std::array&lt;G3D::Plane, 8&gt; <a class="el" href="../../d8/d42/a09124.html#ab64c3cfcd01805f43ec4ef41fb3bc48d">LoadedHeightData::HeightPlanesType</a></td>
+          <td class="memname"><a class="el" href="../../d9/d4e/a04307.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> map_liquidHeader::flags</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
+<p class="reference">Referenced by <a class="el" href="../../#l00414">ConvertADT()</a>, <a class="el" href="../../#l00166">GridTerrainData::LoadLiquidData()</a>, and <a class="el" href="../../#l00135">MMAP::TerrainBuilder::loadMap()</a>.</p>
+
 </div>
 </div>
-<h2 class="groupheader">Member Data Documentation</h2>
-<a id="abd47b99dfa1f23b0741b66cfd4837eaa" name="abd47b99dfa1f23b0741b66cfd4837eaa"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#abd47b99dfa1f23b0741b66cfd4837eaa">&#9670;&#160;</a></span>floatHeightData</h2>
+<a id="a5e7b1d32e42afbeb6898ee02014847cd" name="a5e7b1d32e42afbeb6898ee02014847cd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5e7b1d32e42afbeb6898ee02014847cd">&#9670;&#160;</a></span>fourcc</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">std::unique_ptr&lt;<a class="el" href="../../da/deb/a09136.html">FloatHeightData</a>&gt; LoadedHeightData::floatHeightData</td>
+          <td class="memname"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> map_liquidHeader::fourcc</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
+<p class="reference">Referenced by <a class="el" href="../../#l00414">ConvertADT()</a>, and <a class="el" href="../../#l00166">GridTerrainData::LoadLiquidData()</a>.</p>
+
 </div>
 </div>
-<a id="a1f989ab0921de350dc2410129028201f" name="a1f989ab0921de350dc2410129028201f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1f989ab0921de350dc2410129028201f">&#9670;&#160;</a></span>gridHeight</h2>
+<a id="ab064dde684394c3aa84f9b151749d524" name="ab064dde684394c3aa84f9b151749d524"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab064dde684394c3aa84f9b151749d524">&#9670;&#160;</a></span>height</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">float LoadedHeightData::gridHeight</td>
+          <td class="memname"><a class="el" href="../../d9/d4e/a04307.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> map_liquidHeader::height</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
+<p class="reference">Referenced by <a class="el" href="../../#l00414">ConvertADT()</a>, <a class="el" href="../../#l00166">GridTerrainData::LoadLiquidData()</a>, and <a class="el" href="../../#l00135">MMAP::TerrainBuilder::loadMap()</a>.</p>
+
 </div>
 </div>
-<a id="aa04f68f079e1f488cf69acd24dcd7899" name="aa04f68f079e1f488cf69acd24dcd7899"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa04f68f079e1f488cf69acd24dcd7899">&#9670;&#160;</a></span>minHeightPlanes</h2>
+<a id="a90f22c454f03ecee6aa1b9f9392e10a0" name="a90f22c454f03ecee6aa1b9f9392e10a0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a90f22c454f03ecee6aa1b9f9392e10a0">&#9670;&#160;</a></span>liquidFlags</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">std::unique_ptr&lt;<a class="el" href="../../d8/d42/a09124.html#ab64c3cfcd01805f43ec4ef41fb3bc48d">HeightPlanesType</a>&gt; LoadedHeightData::minHeightPlanes</td>
+          <td class="memname"><a class="el" href="../../d9/d4e/a04307.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> map_liquidHeader::liquidFlags</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
+<p class="reference">Referenced by <a class="el" href="../../#l00414">ConvertADT()</a>, <a class="el" href="../../#l00166">GridTerrainData::LoadLiquidData()</a>, and <a class="el" href="../../#l00135">MMAP::TerrainBuilder::loadMap()</a>.</p>
+
 </div>
 </div>
-<a id="aec022a29ba14a18fdd33e8f65e1cd977" name="aec022a29ba14a18fdd33e8f65e1cd977"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aec022a29ba14a18fdd33e8f65e1cd977">&#9670;&#160;</a></span>uint16HeightData</h2>
+<a id="ae4f34f9b8139b18416862bcd413f4aaa" name="ae4f34f9b8139b18416862bcd413f4aaa"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae4f34f9b8139b18416862bcd413f4aaa">&#9670;&#160;</a></span>liquidLevel</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">std::unique_ptr&lt;<a class="el" href="../../d7/dd2/a09128.html">Uint16HeightData</a>&gt; LoadedHeightData::uint16HeightData</td>
+          <td class="memname">float map_liquidHeader::liquidLevel</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
+<p class="reference">Referenced by <a class="el" href="../../#l00414">ConvertADT()</a>, <a class="el" href="../../#l00166">GridTerrainData::LoadLiquidData()</a>, and <a class="el" href="../../#l00135">MMAP::TerrainBuilder::loadMap()</a>.</p>
+
 </div>
 </div>
-<a id="a60a4a267b4164347e9f3ead6b5abfe14" name="a60a4a267b4164347e9f3ead6b5abfe14"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a60a4a267b4164347e9f3ead6b5abfe14">&#9670;&#160;</a></span>uint8HeightData</h2>
+<a id="ab2ce1920efaec0a4fc0a81df9d6539e3" name="ab2ce1920efaec0a4fc0a81df9d6539e3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab2ce1920efaec0a4fc0a81df9d6539e3">&#9670;&#160;</a></span>liquidType</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">std::unique_ptr&lt;<a class="el" href="../../d6/d4b/a09132.html">Uint8HeightData</a>&gt; LoadedHeightData::uint8HeightData</td>
+          <td class="memname"><a class="el" href="../../d9/d4e/a04307.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> map_liquidHeader::liquidType</td>
         </tr>
       </table>
 </div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00414">ConvertADT()</a>, <a class="el" href="../../#l00166">GridTerrainData::LoadLiquidData()</a>, and <a class="el" href="../../#l00135">MMAP::TerrainBuilder::loadMap()</a>.</p>
+
+</div>
+</div>
+<a id="a2ddee980eda8b7321b55ba44697688b5" name="a2ddee980eda8b7321b55ba44697688b5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2ddee980eda8b7321b55ba44697688b5">&#9670;&#160;</a></span>offsetX</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d9/d4e/a04307.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> map_liquidHeader::offsetX</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00414">ConvertADT()</a>, <a class="el" href="../../#l00166">GridTerrainData::LoadLiquidData()</a>, and <a class="el" href="../../#l00135">MMAP::TerrainBuilder::loadMap()</a>.</p>
+
+</div>
+</div>
+<a id="abc57f9e6c2f9fae58f575d8e1309f420" name="abc57f9e6c2f9fae58f575d8e1309f420"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abc57f9e6c2f9fae58f575d8e1309f420">&#9670;&#160;</a></span>offsetY</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d9/d4e/a04307.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> map_liquidHeader::offsetY</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00414">ConvertADT()</a>, <a class="el" href="../../#l00166">GridTerrainData::LoadLiquidData()</a>, and <a class="el" href="../../#l00135">MMAP::TerrainBuilder::loadMap()</a>.</p>
+
+</div>
+</div>
+<a id="aabcbad9f4c0cae9d2e1b015a93f2a0ed" name="aabcbad9f4c0cae9d2e1b015a93f2a0ed"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aabcbad9f4c0cae9d2e1b015a93f2a0ed">&#9670;&#160;</a></span>width</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d9/d4e/a04307.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> map_liquidHeader::width</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00414">ConvertADT()</a>, <a class="el" href="../../#l00166">GridTerrainData::LoadLiquidData()</a>, and <a class="el" href="../../#l00135">MMAP::TerrainBuilder::loadMap()</a>.</p>
 
 </div>
 </div>
@@ -234,8 +285,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d8/d42/a09124.html">LoadedHeightData</a></li>
-    <li class="footer">Generated on Mon Aug 18 2025 20:48:26 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d8/d42/a09124.html">map_liquidHeader</a></li>
+    <li class="footer">Generated on Mon Aug 25 2025 20:46:39 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

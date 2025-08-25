@@ -1,8 +1,6 @@
 var a15480 =
 [
-    [ "FilterTargets", "d4/d3b/a15480.html#a47b8055fa1b28968e8323ca98613aa83", null ],
-    [ "HandleScript", "d4/d3b/a15480.html#a8f7984e510d8947a2ae4b0734409866b", null ],
-    [ "PrepareSpellScript", "d4/d3b/a15480.html#a5c12caf56e95a9f7960ed9f4a3945c7c", null ],
-    [ "Register", "d4/d3b/a15480.html#adf76a5d9145f88aad5b3dd164fa4fcc4", null ],
-    [ "Validate", "d4/d3b/a15480.html#aa3f9c6418eb804a2ddf235beb8491a19", null ]
+    [ "npc_tiger_matriarchAI", "d7/d34/a15484.html", "d7/d34/a15484" ],
+    [ "npc_tiger_matriarch", "d4/d3b/a15480.html#a05a08bfa64c428213a4b534a982afb71", null ],
+    [ "GetAI", "d4/d3b/a15480.html#a6d5664ca125a775c2d71f322f5a57655", null ]
 ];

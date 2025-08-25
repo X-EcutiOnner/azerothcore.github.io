@@ -1,5 +1,4 @@
 var a04682 =
 [
-    [ "MAP_FILE_NAME_FORMAT", "d3/d49/a04682.html#a1d57d156046bda88886b7488ab0b83bc", null ],
-    [ "TILE_FILE_NAME_FORMAT", "d3/d49/a04682.html#a27e34ce3b8808f2aa889e5c4e623059a", null ]
+    [ "g_MMapMgr", "d3/d49/a04682.html#a7ca17c8e81612c16a92e901cac65113e", null ]
 ];

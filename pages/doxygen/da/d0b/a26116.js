@@ -1,7 +1,8 @@
 var a26116 =
 [
-    [ "OnProc", "da/d0b/a26116.html#a304fd48cc79d3e7371212632d276b2ff", null ],
-    [ "PrepareAuraScript", "da/d0b/a26116.html#a239f9448d36bee4cfb46d95bf20c0148", null ],
-    [ "Register", "da/d0b/a26116.html#a28be437c5f3e8bca0f54be97cb5c5a1f", null ],
-    [ "Validate", "da/d0b/a26116.html#adc217147d7c150d66dad4d3e922cff96", null ]
+    [ "CalculateAmount", "da/d0b/a26116.html#a8751483423726ffa8a33c70b7e55db23", null ],
+    [ "CheckProc", "da/d0b/a26116.html#a046cd1087342cdcbd2e6b0f8ded7c03a", null ],
+    [ "HandleProc", "da/d0b/a26116.html#abda070e7dfbb4ddc8d18cb3d180edc2e", null ],
+    [ "PrepareAuraScript", "da/d0b/a26116.html#a6bb54cea419145875c4086a69e1e55e8", null ],
+    [ "Register", "da/d0b/a26116.html#a8e92638bbdd786ef77b17f00dcf0f643", null ]
 ];

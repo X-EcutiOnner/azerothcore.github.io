@@ -1,7 +1,6 @@
 var a04972 =
 [
-    [ "clear", "d3/d49/a04972.html#af2120a6bb6aa223baa117e5699c93012", null ],
-    [ "createOrGetMMapMgr", "d3/d49/a04972.html#aa7571dc833ba0d2dc6d8bc7bc4b47cdd", null ],
-    [ "InitializeDisabledMaps", "d3/d49/a04972.html#a6df048ce34ec1baed2cb35cedf67f5b2", null ],
-    [ "forbiddenMaps", "d3/d49/a04972.html#a2301f091e1f1e3359dbded7f054eb219", null ]
+    [ "LiquidInfo", "d3/d49/a04972.html#abfae4e75223a93b5b71840f60710afb9", null ],
+    [ "level", "d3/d49/a04972.html#a4c3731c1d0dd78e7a018e2379c42488b", null ],
+    [ "type", "d3/d49/a04972.html#ae766c58994cf635c8e0bdfdb15bd4246", null ]
 ];

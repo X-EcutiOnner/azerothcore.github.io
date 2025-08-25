@@ -1,7 +1,7 @@
 var a24116 =
 [
-    [ "npc_bessyAI", "d3/d81/a24120.html", "d3/d81/a24120" ],
-    [ "npc_bessy", "d6/d3e/a24116.html#a08278c1524445054ca158433044a0824", null ],
-    [ "GetAI", "d6/d3e/a24116.html#af805bc5ee3de2fd6773158e51bf09d4a", null ],
-    [ "OnQuestAccept", "d6/d3e/a24116.html#a98b8e816195b81bab12cc9906df79807", null ]
+    [ "npc_creditmarker_visit_with_ancestorsAI", "d6/d3e/a24116.html#a483e8fb0d73561e34a1078fdde1a1b5b", null ],
+    [ "JustEngagedWith", "d6/d3e/a24116.html#a4038d707731f64f588e307c22c859902", null ],
+    [ "MoveInLineOfSight", "d6/d3e/a24116.html#a40d92122cd4f879f52ff78a4f172c3b8", null ],
+    [ "Reset", "d6/d3e/a24116.html#a29132346f117ba785039057619edb9e7", null ]
 ];

@@ -1,7 +1,7 @@
 var a22836 =
 [
-    [ "boss_veras_darkshadow", "d5/d6a/a22836.html#a7b33a5c8257954951ed19a2f8ce17b95", null ],
-    [ "JustEngagedWith", "d5/d6a/a22836.html#a5eec3e70a7950073eced60d680ff6298", null ],
-    [ "JustSummoned", "d5/d6a/a22836.html#afd6cb716cfdebccde99d71e1eb797d33", null ],
-    [ "UpdateAI", "d5/d6a/a22836.html#a21f23998e3c3ecb79cbfa3c0d778f2d5", null ]
+    [ "HandleDummy", "d5/d6a/a22836.html#adb4e8218eb498d430ececfa357bc1d8a", null ],
+    [ "PrepareSpellScript", "d5/d6a/a22836.html#a85f582794bf8ca2c80add8d9fe35f9f5", null ],
+    [ "Register", "d5/d6a/a22836.html#af5926d8570de13e66aa1870184620b94", null ],
+    [ "Validate", "d5/d6a/a22836.html#aa2839c6dba3d0c6ecfeb19f5ff3a39d2", null ]
 ];

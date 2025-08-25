@@ -1,8 +1,8 @@
 var a21904 =
 [
-    [ "AfterApply", "da/df4/a21904.html#a57279552b867251e9d2ee6a4ff5d7914", null ],
-    [ "PeriodicTick", "da/df4/a21904.html#a2e86aa6efe6ab137926c1dfd1bd26a95", null ],
-    [ "PrepareAuraScript", "da/df4/a21904.html#a9e1b74bf2d28a367caefdc90c34743c8", null ],
-    [ "Register", "da/df4/a21904.html#a69eb0ca43a15d4995ad219459c2b39d6", null ],
-    [ "Validate", "da/df4/a21904.html#a946248656cb755f85dd93fd4d607c9a7", null ]
+    [ "npc_q24545_vegardAI", "da/df4/a21904.html#a6a86b56508a86bf32ab5fb2bd46248c9", null ],
+    [ "JustDied", "da/df4/a21904.html#a1f7784242bbaf39d0fb105d2930da37c", null ],
+    [ "KilledUnit", "da/df4/a21904.html#a2d78117a6c2a29f52f1905595425964a", null ],
+    [ "UpdateAI", "da/df4/a21904.html#a79cc34760b58ad4b29c6a0a496971f0a", null ],
+    [ "events", "da/df4/a21904.html#a68f48d92cc5559025e635d599c2882e3", null ]
 ];

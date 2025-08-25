@@ -1,6 +1,8 @@
 var a04857 =
 [
-    [ "Resolver", "de/d4c/a04857.html#ad1a3a95744d64df722a6fb4b267316e6", null ],
-    [ "Resolve", "de/d4c/a04857.html#ab190f885c84753fe65405db6fb04bf7c", null ],
-    [ "_impl", "de/d4c/a04857.html#a08ed9183a6338606524c44f0fd5695a0", null ]
+    [ "CorpseMapPositionQuery", "d1/d37/a10936.html", "d1/d37/a10936" ],
+    [ "NameQuery", "d5/d95/a10920.html", "d5/d95/a10920" ],
+    [ "NameQueryResponse", "d3/de7/a10924.html", "d3/de7/a10924" ],
+    [ "TimeQuery", "d6/d70/a10928.html", "d6/d70/a10928" ],
+    [ "TimeQueryResponse", "db/da9/a10932.html", "db/da9/a10932" ]
 ];

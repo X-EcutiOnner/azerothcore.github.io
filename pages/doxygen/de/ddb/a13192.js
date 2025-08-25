@@ -1,6 +1,7 @@
 var a13192 =
 [
-    [ "instance_stratholme_InstanceMapScript", "da/d7b/a13196.html", "da/d7b/a13196" ],
-    [ "instance_stratholme", "de/ddb/a13192.html#a42ac504b2790af8c37a44e87fbd9c6c1", null ],
-    [ "GetInstanceScript", "de/ddb/a13192.html#a3d3d2e773029dd1c4bc1a59a94c4e015", null ]
+    [ "OnPeriodic", "de/ddb/a13192.html#ab193b7cf8a8fe91879317e7d21522976", null ],
+    [ "PrepareAuraScript", "de/ddb/a13192.html#a5dca6bc670612f0b0e8e99381c97bf11", null ],
+    [ "Register", "de/ddb/a13192.html#ac6e0621064e5e0a77e1cdbfa8dbb6a54", null ],
+    [ "Validate", "de/ddb/a13192.html#a290b864756ceff85d52ba3f974a28217", null ]
 ];

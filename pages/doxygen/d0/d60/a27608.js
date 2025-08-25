@@ -1,7 +1,10 @@
 var a27608 =
 [
-    [ "npc_sayge", "d0/d60/a27608.html#a5b75c459665ece26cee5dbffcc0fc8ff", null ],
-    [ "OnGossipHello", "d0/d60/a27608.html#ad069e6cc7fe5271c3474c8bcf537cf4c", null ],
-    [ "OnGossipSelect", "d0/d60/a27608.html#aa049b4514fc2d18508d8d4f9b6616c99", null ],
-    [ "SendAction", "d0/d60/a27608.html#aed1988335672423d024546654aa95298", null ]
+    [ "npc_dancing_flamesAI", "d0/d60/a27608.html#a3d597b2ee826c86b5a8feb3aa144a459", null ],
+    [ "JustEngagedWith", "d0/d60/a27608.html#ae0d71d4f9074c05ea76951ede6c7702a", null ],
+    [ "ReceiveEmote", "d0/d60/a27608.html#a13aae489e8b03121c8fbae12e83bdfaa", null ],
+    [ "Reset", "d0/d60/a27608.html#a53b49dadc70e3e134ca49cd239b569d6", null ],
+    [ "UpdateAI", "d0/d60/a27608.html#a555f2ed0d762c5c183ec87580bae46b1", null ],
+    [ "Active", "d0/d60/a27608.html#aa79036bed206327847bf5ad2e768e8f6", null ],
+    [ "CanIteract", "d0/d60/a27608.html#a866bfc106fc33433b4eb13fabd9c39c6", null ]
 ];

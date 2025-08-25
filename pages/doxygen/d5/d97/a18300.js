@@ -1,12 +1,11 @@
 var a18300 =
 [
-    [ "npc_raging_spiritAI", "d5/d97/a18300.html#a1c85351ae62d5f45381214373e64aec4", null ],
-    [ "AttackStart", "d5/d97/a18300.html#a16ab37be9e31dcfc159b5c78b196b847", null ],
-    [ "CanAIAttack", "d5/d97/a18300.html#a64fa46f05861d8736d881aa3687f4320", null ],
-    [ "IsSummonedBy", "d5/d97/a18300.html#a836d605f4320ba9fd49cb60d6a1e032d", null ],
-    [ "JustDied", "d5/d97/a18300.html#a821377a2c29b4180db00f2c4f4268fe7", null ],
-    [ "Reset", "d5/d97/a18300.html#a9dae9cb2c6f18d89d06cfa72b98d36f2", null ],
-    [ "UpdateAI", "d5/d97/a18300.html#a64beac4aafa9e9bb2089a7c1e35fe8a5", null ],
-    [ "_events", "d5/d97/a18300.html#af5783316983b622f20d8c677f2858111", null ],
-    [ "_instance", "d5/d97/a18300.html#aaa9b5728fcdb379849434385b3501251", null ]
+    [ "AddMissingStack", "d5/d97/a18300.html#ae23dc772e58db8648a7ddbf5255bd917", null ],
+    [ "CheckAura", "d5/d97/a18300.html#a9d9e5620f61c92d35b08bec100b5a12a", null ],
+    [ "FilterTargets", "d5/d97/a18300.html#ab6c86c3680823329d5f3aad985aa316a", null ],
+    [ "Load", "d5/d97/a18300.html#a823e600ee1a350ab60ea69043e4fbef9", null ],
+    [ "PrepareSpellScript", "d5/d97/a18300.html#aff3b52df65504d7d4928b1ff69c1fa4b", null ],
+    [ "Register", "d5/d97/a18300.html#af0e6f1fc6687de1abcc1689116150088", null ],
+    [ "_hadInitialAura", "d5/d97/a18300.html#a1b553c0ad5fc4e86f02829b5284db709", null ],
+    [ "_hadJumpingAura", "d5/d97/a18300.html#ade3c2e5f78cbfbc34a3cbc8259e241db", null ]
 ];

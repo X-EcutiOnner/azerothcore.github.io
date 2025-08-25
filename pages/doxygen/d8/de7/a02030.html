@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/Autobroadcast/AutobroadcastMgr.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/game/Mails/ServerMailMgr.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -104,23 +104,238 @@ $(document).ready(function(){initNavTree('d8/de7/a02030.html','../../'); initRes
 </div>
 
 <div class="header">
-  <div class="headertitle"><div class="title">AutobroadcastMgr.cpp File Reference</div></div>
+  <div class="summary">
+<a href="#nested-classes">Classes</a> &#124;
+<a href="#define-members">Macros</a> &#124;
+<a href="#typedef-members">Typedefs</a> &#124;
+<a href="#enum-members">Enumerations</a> &#124;
+<a href="#var-members">Variables</a>  </div>
+  <div class="headertitle"><div class="title">ServerMailMgr.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">AutobroadcastMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Chat.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Config.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">GridNotifiers.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
+
+<p>Manages the <a class="el" href="../../d4/d87/a09756.html" title="Represents a server mail template, including rewards, conditions, and metadata.">ServerMail</a> operations, including template loading, condition checking, and mail delivery.  
+<a href="#details">More...</a></p>
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">Define.h</a>&quot;</code><br />
+<code>#include &lt;string&gt;</code><br />
+<code>#include &lt;unordered_map&gt;</code><br />
+<code>#include &lt;vector&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
+<table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
+Classes</h2></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d21/a09748.html">ServerMailCondition</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Represents a condition that must be met for a player to receive a server mail.  <a href="../../d7/d21/a09748.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d18/a09752.html">ServerMailItems</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Represents an item reward associated with a server mail template.  <a href="../../d0/d18/a09752.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d87/a09756.html">ServerMail</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Represents a server mail template, including rewards, conditions, and metadata.  <a href="../../d4/d87/a09756.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dae/a09760.html">ServerMailMgr</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
+Macros</h2></td></tr>
+<tr class="memitem:a6423d219eaead162b40b6021eadca0c4"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/de7/a02030.html#a6423d219eaead162b40b6021eadca0c4">sServerMailMgr</a>&#160;&#160;&#160;<a class="el" href="../../d1/dae/a09760.html#abc85cb07f717384fac09f4e2b0f59af1">ServerMailMgr::instance</a>()</td></tr>
+<tr class="separator:a6423d219eaead162b40b6021eadca0c4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="typedef-members" name="typedef-members"></a>
+Typedefs</h2></td></tr>
+<tr class="memitem:a9c10c94a0a8508b3af2e92d3455d063b"><td class="memItemLeft" align="right" valign="top">typedef std::unordered_map&lt; <a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d4/d87/a09756.html">ServerMail</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/de7/a02030.html#a9c10c94a0a8508b3af2e92d3455d063b">ServerMailContainer</a></td></tr>
+<tr class="separator:a9c10c94a0a8508b3af2e92d3455d063b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
+Enumerations</h2></td></tr>
+<tr class="memitem:ab25c41bc314095f74fe678a33e086a2b"><td class="memItemLeft" align="right" valign="top">enum class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/de7/a02030.html#ab25c41bc314095f74fe678a33e086a2b">ServerMailConditionType</a> : uint8 { <br />
+&#160;&#160;<a class="el" href="../../d8/de7/a02030.html#ab25c41bc314095f74fe678a33e086a2ba4bbb8f967da6d1a610596d7257179c2b">Invalid</a> = 0
+, <br />
+&#160;&#160;<a class="el" href="../../d8/de7/a02030.html#ab25c41bc314095f74fe678a33e086a2baa0db49ba470c1c9ae2128c3470339153">Level</a> = 1
+, <br />
+&#160;&#160;<a class="el" href="../../d8/de7/a02030.html#ab25c41bc314095f74fe678a33e086a2bad50a5da6b13baa381b72761aae02cde3">PlayTime</a> = 2
+, <br />
+&#160;&#160;<a class="el" href="../../d8/de7/a02030.html#ab25c41bc314095f74fe678a33e086a2ba07bf513a88c3df282a30cb374f8a933d">Quest</a> = 3
+, <br />
+&#160;&#160;<a class="el" href="../../d8/de7/a02030.html#ab25c41bc314095f74fe678a33e086a2bae29be78e8cf65f9f1a934917f9e0903e">Achievement</a> = 4
+, <br />
+&#160;&#160;<a class="el" href="../../d8/de7/a02030.html#ab25c41bc314095f74fe678a33e086a2ba8d9bec4f224970e231041639de877092">Reputation</a> = 5
+, <br />
+&#160;&#160;<a class="el" href="../../d8/de7/a02030.html#ab25c41bc314095f74fe678a33e086a2ba3dcd53a8339c060c69c660b1b89b5201">Faction</a> = 6
+, <br />
+&#160;&#160;<a class="el" href="../../d8/de7/a02030.html#ab25c41bc314095f74fe678a33e086a2ba4e221fc084bb69a82315a154d6dd7879">Race</a> = 7
+, <br />
+&#160;&#160;<a class="el" href="../../d8/de7/a02030.html#ab25c41bc314095f74fe678a33e086a2ba9bd81329febf6efe22788e03ddeaf0af">Class</a> = 8
+, <br />
+&#160;&#160;<a class="el" href="../../d8/de7/a02030.html#ab25c41bc314095f74fe678a33e086a2ba1c14759edfa3dbd063ee9d758a175225">AccountFlags</a> = 9
+<br />
+ }</td></tr>
+<tr class="memdesc:ab25c41bc314095f74fe678a33e086a2b"><td class="mdescLeft">&#160;</td><td class="mdescRight">Represents the type of conditions that can be applied to server mail.  <a href="../../d8/de7/a02030.html#ab25c41bc314095f74fe678a33e086a2b">More...</a><br /></td></tr>
+<tr class="separator:ab25c41bc314095f74fe678a33e086a2b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
+Variables</h2></td></tr>
+<tr class="memitem:af981b509cb816fa6720cf16cceaa9081"><td class="memItemLeft" align="right" valign="top">constexpr std::pair&lt; std::string_view, <a class="el" href="../../d8/de7/a02030.html#ab25c41bc314095f74fe678a33e086a2b">ServerMailConditionType</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/de7/a02030.html#af981b509cb816fa6720cf16cceaa9081">ServerMailConditionTypePairs</a> []</td></tr>
+<tr class="memdesc:af981b509cb816fa6720cf16cceaa9081"><td class="mdescLeft">&#160;</td><td class="mdescRight">Assign string condition to corresponding <a class="el" href="../../d8/de7/a02030.html#ab25c41bc314095f74fe678a33e086a2b">ServerMailConditionType</a> enum value.  <a href="../../d8/de7/a02030.html#af981b509cb816fa6720cf16cceaa9081">More...</a><br /></td></tr>
+<tr class="separator:af981b509cb816fa6720cf16cceaa9081"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"><p >Manages the <a class="el" href="../../d4/d87/a09756.html" title="Represents a server mail template, including rewards, conditions, and metadata.">ServerMail</a> operations, including template loading, condition checking, and mail delivery. </p>
+<p >This class handles the loading of server mail templates, associated items, and conditions from the database. It also provides functionality to check player eligibility for receiving server mails based on configured conditions.</p>
+<p >Key features:</p><ul>
+<li>Supports multi-item mails via <code>mail_server_template_items</code></li>
+<li>Supports flexible mail conditions (level, playtime, quest, achievement) via <code>mail_server_template_conditions</code></li>
+<li>Ensures all related data is loaded and validated on startup </li>
+</ul>
+
+<p class="definition">Definition in file <a class="el" href="../../">ServerMailMgr.h</a>.</p>
+</div><h2 class="groupheader">Macro Definition Documentation</h2>
+<a id="a6423d219eaead162b40b6021eadca0c4" name="a6423d219eaead162b40b6021eadca0c4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6423d219eaead162b40b6021eadca0c4">&#9670;&#160;</a></span>sServerMailMgr</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define sServerMailMgr&#160;&#160;&#160;<a class="el" href="../../d1/dae/a09760.html#abc85cb07f717384fac09f4e2b0f59af1">ServerMailMgr::instance</a>()</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<h2 class="groupheader">Typedef Documentation</h2>
+<a id="a9c10c94a0a8508b3af2e92d3455d063b" name="a9c10c94a0a8508b3af2e92d3455d063b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9c10c94a0a8508b3af2e92d3455d063b">&#9670;&#160;</a></span>ServerMailContainer</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">typedef std::unordered_map&lt;<a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d4/d87/a09756.html">ServerMail</a>&gt; <a class="el" href="../../d8/de7/a02030.html#a9c10c94a0a8508b3af2e92d3455d063b">ServerMailContainer</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<h2 class="groupheader">Enumeration Type Documentation</h2>
+<a id="ab25c41bc314095f74fe678a33e086a2b" name="ab25c41bc314095f74fe678a33e086a2b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab25c41bc314095f74fe678a33e086a2b">&#9670;&#160;</a></span>ServerMailConditionType</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum class <a class="el" href="../../d8/de7/a02030.html#ab25c41bc314095f74fe678a33e086a2b">ServerMailConditionType</a> : <a class="el" href="../../d9/d4e/a04307.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">strong</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Represents the type of conditions that can be applied to server mail. </p>
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="ab25c41bc314095f74fe678a33e086a2ba4bbb8f967da6d1a610596d7257179c2b" name="ab25c41bc314095f74fe678a33e086a2ba4bbb8f967da6d1a610596d7257179c2b"></a>Invalid&#160;</td><td class="fielddoc"><p >Internal use, not used in DB. </p>
+</td></tr>
+<tr><td class="fieldname"><a id="ab25c41bc314095f74fe678a33e086a2baa0db49ba470c1c9ae2128c3470339153" name="ab25c41bc314095f74fe678a33e086a2baa0db49ba470c1c9ae2128c3470339153"></a>Level&#160;</td><td class="fielddoc"><p >Requires the player to be at least a specific level. </p>
+</td></tr>
+<tr><td class="fieldname"><a id="ab25c41bc314095f74fe678a33e086a2bad50a5da6b13baa381b72761aae02cde3" name="ab25c41bc314095f74fe678a33e086a2bad50a5da6b13baa381b72761aae02cde3"></a>PlayTime&#160;</td><td class="fielddoc"><p >Requires the player to have played for a minimum amount of time (in milliseconds). </p>
+</td></tr>
+<tr><td class="fieldname"><a id="ab25c41bc314095f74fe678a33e086a2ba07bf513a88c3df282a30cb374f8a933d" name="ab25c41bc314095f74fe678a33e086a2ba07bf513a88c3df282a30cb374f8a933d"></a>Quest&#160;</td><td class="fielddoc"><p >Requires the player to have completed a specific quest. </p>
+</td></tr>
+<tr><td class="fieldname"><a id="ab25c41bc314095f74fe678a33e086a2bae29be78e8cf65f9f1a934917f9e0903e" name="ab25c41bc314095f74fe678a33e086a2bae29be78e8cf65f9f1a934917f9e0903e"></a>Achievement&#160;</td><td class="fielddoc"><p >Requires the player to have earned a specific achievement. </p>
+</td></tr>
+<tr><td class="fieldname"><a id="ab25c41bc314095f74fe678a33e086a2ba8d9bec4f224970e231041639de877092" name="ab25c41bc314095f74fe678a33e086a2ba8d9bec4f224970e231041639de877092"></a>Reputation&#160;</td><td class="fielddoc"><p >Requires the player to have earned reputation with a specific faction. </p>
+</td></tr>
+<tr><td class="fieldname"><a id="ab25c41bc314095f74fe678a33e086a2ba3dcd53a8339c060c69c660b1b89b5201" name="ab25c41bc314095f74fe678a33e086a2ba3dcd53a8339c060c69c660b1b89b5201"></a>Faction&#160;</td><td class="fielddoc"><p >Requires the player to be a part of a specific faction. Horde/Alliance. </p>
+</td></tr>
+<tr><td class="fieldname"><a id="ab25c41bc314095f74fe678a33e086a2ba4e221fc084bb69a82315a154d6dd7879" name="ab25c41bc314095f74fe678a33e086a2ba4e221fc084bb69a82315a154d6dd7879"></a>Race&#160;</td><td class="fielddoc"><p >Requires the player to be a specific race. </p>
+</td></tr>
+<tr><td class="fieldname"><a id="ab25c41bc314095f74fe678a33e086a2ba9bd81329febf6efe22788e03ddeaf0af" name="ab25c41bc314095f74fe678a33e086a2ba9bd81329febf6efe22788e03ddeaf0af"></a>Class&#160;</td><td class="fielddoc"><p >Requires the player to be a specific class. </p>
+</td></tr>
+<tr><td class="fieldname"><a id="ab25c41bc314095f74fe678a33e086a2ba1c14759edfa3dbd063ee9d758a175225" name="ab25c41bc314095f74fe678a33e086a2ba1c14759edfa3dbd063ee9d758a175225"></a>AccountFlags&#160;</td><td class="fielddoc"><p >Requires the player to have a specific AccountFlag (bit) </p>
+</td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">   46</span>{</div>
+<div class="line"><span class="lineno">   47</span>    <a class="code hl_enumvalue" href="../../d8/de7/a02030.html#ab25c41bc314095f74fe678a33e086a2ba4bbb8f967da6d1a610596d7257179c2b">Invalid</a>     = 0, </div>
+<div class="line"><span class="lineno">   48</span>    <a class="code hl_enumvalue" href="../../d8/de7/a02030.html#ab25c41bc314095f74fe678a33e086a2baa0db49ba470c1c9ae2128c3470339153">Level</a>       = 1, </div>
+<div class="line"><span class="lineno">   49</span>    <a class="code hl_enumvalue" href="../../d8/de7/a02030.html#ab25c41bc314095f74fe678a33e086a2bad50a5da6b13baa381b72761aae02cde3">PlayTime</a>    = 2, </div>
+<div class="line"><span class="lineno">   50</span>    <a class="code hl_class" href="../../d3/d1f/a10192.html">Quest</a>       = 3, </div>
+<div class="line"><span class="lineno">   51</span>    <a class="code hl_enumvalue" href="../../d8/de7/a02030.html#ab25c41bc314095f74fe678a33e086a2bae29be78e8cf65f9f1a934917f9e0903e">Achievement</a> = 4, </div>
+<div class="line"><span class="lineno">   52</span>    <a class="code hl_enumvalue" href="../../d8/de7/a02030.html#ab25c41bc314095f74fe678a33e086a2ba8d9bec4f224970e231041639de877092">Reputation</a>  = 5, </div>
+<div class="line"><span class="lineno">   53</span>    <a class="code hl_enumvalue" href="../../d8/de7/a02030.html#ab25c41bc314095f74fe678a33e086a2ba3dcd53a8339c060c69c660b1b89b5201">Faction</a>     = 6, </div>
+<div class="line"><span class="lineno">   54</span>    <a class="code hl_enumvalue" href="../../d8/de7/a02030.html#ab25c41bc314095f74fe678a33e086a2ba4e221fc084bb69a82315a154d6dd7879">Race</a>        = 7, </div>
+<div class="line"><span class="lineno">   55</span>    <a class="code hl_enumvalue" href="../../d8/de7/a02030.html#ab25c41bc314095f74fe678a33e086a2ba9bd81329febf6efe22788e03ddeaf0af">Class</a>       = 8, </div>
+<div class="line"><span class="lineno">   56</span>    <a class="code hl_enumvalue" href="../../d8/de7/a02030.html#ab25c41bc314095f74fe678a33e086a2ba1c14759edfa3dbd063ee9d758a175225">AccountFlags</a> = 9, </div>
+<div class="line"><span class="lineno">   57</span>};</div>
+<div class="ttc" id="aa02030_html_ab25c41bc314095f74fe678a33e086a2ba1c14759edfa3dbd063ee9d758a175225"><div class="ttname"><a href="../../d8/de7/a02030.html#ab25c41bc314095f74fe678a33e086a2ba1c14759edfa3dbd063ee9d758a175225">ServerMailConditionType::AccountFlags</a></div><div class="ttdeci">@ AccountFlags</div><div class="ttdoc">Requires the player to have a specific AccountFlag (bit)</div></div>
+<div class="ttc" id="aa02030_html_ab25c41bc314095f74fe678a33e086a2ba3dcd53a8339c060c69c660b1b89b5201"><div class="ttname"><a href="../../d8/de7/a02030.html#ab25c41bc314095f74fe678a33e086a2ba3dcd53a8339c060c69c660b1b89b5201">ServerMailConditionType::Faction</a></div><div class="ttdeci">@ Faction</div><div class="ttdoc">Requires the player to be a part of a specific faction. Horde/Alliance.</div></div>
+<div class="ttc" id="aa02030_html_ab25c41bc314095f74fe678a33e086a2ba4bbb8f967da6d1a610596d7257179c2b"><div class="ttname"><a href="../../d8/de7/a02030.html#ab25c41bc314095f74fe678a33e086a2ba4bbb8f967da6d1a610596d7257179c2b">ServerMailConditionType::Invalid</a></div><div class="ttdeci">@ Invalid</div><div class="ttdoc">Internal use, not used in DB.</div></div>
+<div class="ttc" id="aa02030_html_ab25c41bc314095f74fe678a33e086a2ba4e221fc084bb69a82315a154d6dd7879"><div class="ttname"><a href="../../d8/de7/a02030.html#ab25c41bc314095f74fe678a33e086a2ba4e221fc084bb69a82315a154d6dd7879">ServerMailConditionType::Race</a></div><div class="ttdeci">@ Race</div><div class="ttdoc">Requires the player to be a specific race.</div></div>
+<div class="ttc" id="aa02030_html_ab25c41bc314095f74fe678a33e086a2ba8d9bec4f224970e231041639de877092"><div class="ttname"><a href="../../d8/de7/a02030.html#ab25c41bc314095f74fe678a33e086a2ba8d9bec4f224970e231041639de877092">ServerMailConditionType::Reputation</a></div><div class="ttdeci">@ Reputation</div><div class="ttdoc">Requires the player to have earned reputation with a specific faction.</div></div>
+<div class="ttc" id="aa02030_html_ab25c41bc314095f74fe678a33e086a2ba9bd81329febf6efe22788e03ddeaf0af"><div class="ttname"><a href="../../d8/de7/a02030.html#ab25c41bc314095f74fe678a33e086a2ba9bd81329febf6efe22788e03ddeaf0af">ServerMailConditionType::Class</a></div><div class="ttdeci">@ Class</div><div class="ttdoc">Requires the player to be a specific class.</div></div>
+<div class="ttc" id="aa02030_html_ab25c41bc314095f74fe678a33e086a2baa0db49ba470c1c9ae2128c3470339153"><div class="ttname"><a href="../../d8/de7/a02030.html#ab25c41bc314095f74fe678a33e086a2baa0db49ba470c1c9ae2128c3470339153">ServerMailConditionType::Level</a></div><div class="ttdeci">@ Level</div><div class="ttdoc">Requires the player to be at least a specific level.</div></div>
+<div class="ttc" id="aa02030_html_ab25c41bc314095f74fe678a33e086a2bad50a5da6b13baa381b72761aae02cde3"><div class="ttname"><a href="../../d8/de7/a02030.html#ab25c41bc314095f74fe678a33e086a2bad50a5da6b13baa381b72761aae02cde3">ServerMailConditionType::PlayTime</a></div><div class="ttdeci">@ PlayTime</div><div class="ttdoc">Requires the player to have played for a minimum amount of time (in milliseconds).</div></div>
+<div class="ttc" id="aa02030_html_ab25c41bc314095f74fe678a33e086a2bae29be78e8cf65f9f1a934917f9e0903e"><div class="ttname"><a href="../../d8/de7/a02030.html#ab25c41bc314095f74fe678a33e086a2bae29be78e8cf65f9f1a934917f9e0903e">ServerMailConditionType::Achievement</a></div><div class="ttdeci">@ Achievement</div><div class="ttdoc">Requires the player to have earned a specific achievement.</div></div>
+<div class="ttc" id="aa10192_html"><div class="ttname"><a href="../../d3/d1f/a10192.html">Quest</a></div><div class="ttdef"><b>Definition:</b> QuestDef.h:210</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<h2 class="groupheader">Variable Documentation</h2>
+<a id="af981b509cb816fa6720cf16cceaa9081" name="af981b509cb816fa6720cf16cceaa9081"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af981b509cb816fa6720cf16cceaa9081">&#9670;&#160;</a></span>ServerMailConditionTypePairs</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">constexpr std::pair&lt;std::string_view, <a class="el" href="../../d8/de7/a02030.html#ab25c41bc314095f74fe678a33e086a2b">ServerMailConditionType</a>&gt; ServerMailConditionTypePairs[]</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">constexpr</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<b>Initial value:</b><div class="fragment"><div class="line">=</div>
+<div class="line">{</div>
+<div class="line">    { <span class="stringliteral">&quot;Level&quot;</span>,       <a class="code hl_enumvalue" href="../../d8/de7/a02030.html#ab25c41bc314095f74fe678a33e086a2baa0db49ba470c1c9ae2128c3470339153">ServerMailConditionType::Level</a>       },</div>
+<div class="line">    { <span class="stringliteral">&quot;PlayTime&quot;</span>,    <a class="code hl_enumvalue" href="../../d8/de7/a02030.html#ab25c41bc314095f74fe678a33e086a2bad50a5da6b13baa381b72761aae02cde3">ServerMailConditionType::PlayTime</a>    },</div>
+<div class="line">    { <span class="stringliteral">&quot;Quest&quot;</span>,       <a class="code hl_enumvalue" href="../../d8/de7/a02030.html#ab25c41bc314095f74fe678a33e086a2ba07bf513a88c3df282a30cb374f8a933d">ServerMailConditionType::Quest</a>       },</div>
+<div class="line">    { <span class="stringliteral">&quot;Achievement&quot;</span>, <a class="code hl_enumvalue" href="../../d8/de7/a02030.html#ab25c41bc314095f74fe678a33e086a2bae29be78e8cf65f9f1a934917f9e0903e">ServerMailConditionType::Achievement</a> },</div>
+<div class="line">    { <span class="stringliteral">&quot;Reputation&quot;</span>,  <a class="code hl_enumvalue" href="../../d8/de7/a02030.html#ab25c41bc314095f74fe678a33e086a2ba8d9bec4f224970e231041639de877092">ServerMailConditionType::Reputation</a>  },</div>
+<div class="line">    { <span class="stringliteral">&quot;Faction&quot;</span>,     <a class="code hl_enumvalue" href="../../d8/de7/a02030.html#ab25c41bc314095f74fe678a33e086a2ba3dcd53a8339c060c69c660b1b89b5201">ServerMailConditionType::Faction</a>     },</div>
+<div class="line">    { <span class="stringliteral">&quot;Race&quot;</span>,        <a class="code hl_enumvalue" href="../../d8/de7/a02030.html#ab25c41bc314095f74fe678a33e086a2ba4e221fc084bb69a82315a154d6dd7879">ServerMailConditionType::Race</a>        },</div>
+<div class="line">    { <span class="stringliteral">&quot;Class&quot;</span>,       <a class="code hl_enumvalue" href="../../d8/de7/a02030.html#ab25c41bc314095f74fe678a33e086a2ba9bd81329febf6efe22788e03ddeaf0af">ServerMailConditionType::Class</a>       },</div>
+<div class="line">    { <span class="stringliteral">&quot;AccountFlags&quot;</span>, <a class="code hl_enumvalue" href="../../d8/de7/a02030.html#ab25c41bc314095f74fe678a33e086a2ba1c14759edfa3dbd063ee9d758a175225">ServerMailConditionType::AccountFlags</a> }</div>
+<div class="line">}</div>
+<div class="ttc" id="aa02030_html_ab25c41bc314095f74fe678a33e086a2ba07bf513a88c3df282a30cb374f8a933d"><div class="ttname"><a href="../../d8/de7/a02030.html#ab25c41bc314095f74fe678a33e086a2ba07bf513a88c3df282a30cb374f8a933d">ServerMailConditionType::Quest</a></div><div class="ttdeci">@ Quest</div><div class="ttdoc">Requires the player to have completed a specific quest.</div></div>
+</div><!-- fragment -->
+<p>Assign string condition to corresponding <a class="el" href="../../d8/de7/a02030.html#ab25c41bc314095f74fe678a33e086a2b">ServerMailConditionType</a> enum value. </p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00315">ServerMailMgr::GetServerMailConditionType()</a>.</p>
+
+</div>
+</div>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_61f8377607f9116c0be318a1f3f3c987.html">Autobroadcast</a></li><li class="navelem"><a class="el" href="../../d8/de7/a02030.html">AutobroadcastMgr.cpp</a></li>
-    <li class="footer">Generated on Mon Aug 18 2025 20:47:04 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_e5b41f27617119c832debc7577c7457a.html">Mails</a></li><li class="navelem"><a class="el" href="../../d8/de7/a02030.html">ServerMailMgr.h</a></li>
+    <li class="footer">Generated on Mon Aug 25 2025 20:45:17 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

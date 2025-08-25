@@ -1,7 +1,9 @@
 var a22364 =
 [
-    [ "npc_wg_quest_giver", "dd/dc5/a22364.html#a68589ab4ce9f43247154f3c66d8107b8", null ],
-    [ "GetDialogStatus", "dd/dc5/a22364.html#acd5c1462fe51a350c80af4f3ab46bac8", null ],
-    [ "OnGossipHello", "dd/dc5/a22364.html#ad08debc749cbaea6fad9b7bcfb5548e0", null ],
-    [ "OnGossipSelect", "dd/dc5/a22364.html#a9d42e558d68eee9f0f96ac1f8cd1a409", null ]
+    [ "HandlePeriodic", "dd/dc5/a22364.html#a3d9ef90ec1ddebe2b2f3dd3a8b9eb25a", null ],
+    [ "Load", "dd/dc5/a22364.html#af5ed9dda3b2a2fd208fdc32de414c28a", null ],
+    [ "PrepareAuraScript", "dd/dc5/a22364.html#a1057e5262d413149a023bc904a3c3751", null ],
+    [ "Register", "dd/dc5/a22364.html#a47b9665b84742fd8cbb4e422d667b2ac", null ],
+    [ "Validate", "dd/dc5/a22364.html#a85d7ac258d50f690574ad7656256cd05", null ],
+    [ "_counter", "dd/dc5/a22364.html#a855bb93d5d9c5d8a9d06cfbb16d8d814", null ]
 ];

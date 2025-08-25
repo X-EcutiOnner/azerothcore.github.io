@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['vault_5fof_5farchavon_2eh_0',['vault_of_archavon.h',['../d9/d9f/a04013.html',1,'']]],
+  ['vault_5fof_5farchavon_2eh_0',['vault_of_archavon.h',['../da/d6d/a04019.html',1,'']]],
   ['vec3d_2eh_1',['vec3d.h',['../d5/df9/a00044.html',1,'']]],
   ['vehicle_2ecpp_2',['Vehicle.cpp',['../d4/d8e/a01694.html',1,'']]],
   ['vehicle_2eh_3',['Vehicle.h',['../d6/d15/a01697.html',1,'']]],
@@ -8,16 +8,16 @@ var searchData=
   ['vehiclehandler_2ecpp_5',['VehicleHandler.cpp',['../de/dde/a00587.html',1,'']]],
   ['vehiclescript_2ecpp_6',['VehicleScript.cpp',['../da/d20/a01160.html',1,'']]],
   ['vehiclescript_2eh_7',['VehicleScript.h',['../d6/dcf/a01031.html',1,'']]],
-  ['violet_5fhold_2ecpp_8',['violet_hold.cpp',['../d8/d63/a03500.html',1,'']]],
-  ['violet_5fhold_2eh_9',['violet_hold.h',['../dd/d25/a03512.html',1,'']]],
+  ['violet_5fhold_2ecpp_8',['violet_hold.cpp',['../d7/d83/a03506.html',1,'']]],
+  ['violet_5fhold_2eh_9',['violet_hold.h',['../d7/d65/a03518.html',1,'']]],
   ['vmapassembler_2ecpp_10',['VMapAssembler.cpp',['../d1/d44/a00098.html',1,'']]],
-  ['vmapdefinitions_2eh_11',['VMapDefinitions.h',['../d0/d70/a04658.html',1,'']]],
+  ['vmapdefinitions_2eh_11',['VMapDefinitions.h',['../d1/d62/a04664.html',1,'']]],
   ['vmapexport_2ecpp_12',['vmapexport.cpp',['../dc/dee/a00053.html',1,'']]],
   ['vmapexport_2eh_13',['vmapexport.h',['../da/d45/a00011.html',1,'']]],
-  ['vmapfactory_2ecpp_14',['VMapFactory.cpp',['../da/d54/a04673.html',1,'']]],
-  ['vmapfactory_2eh_15',['VMapFactory.h',['../d6/d12/a04691.html',1,'']]],
-  ['vmapmgr2_2ecpp_16',['VMapMgr2.cpp',['../d7/d47/a04685.html',1,'']]],
-  ['vmapmgr2_2eh_17',['VMapMgr2.h',['../d1/d62/a04664.html',1,'']]],
-  ['vmaptools_2eh_18',['VMapTools.h',['../d9/d82/a04718.html',1,'']]],
+  ['vmapfactory_2ecpp_14',['VMapFactory.cpp',['../de/d69/a04679.html',1,'']]],
+  ['vmapfactory_2eh_15',['VMapFactory.h',['../d2/d91/a04697.html',1,'']]],
+  ['vmapmgr2_2ecpp_16',['VMapMgr2.cpp',['../d6/d12/a04691.html',1,'']]],
+  ['vmapmgr2_2eh_17',['VMapMgr2.h',['../d8/dca/a04670.html',1,'']]],
+  ['vmaptools_2eh_18',['VMapTools.h',['../d2/dd5/a04724.html',1,'']]],
   ['voicechathandler_2ecpp_19',['VoiceChatHandler.cpp',['../de/d4e/a00500.html',1,'']]]
 ];

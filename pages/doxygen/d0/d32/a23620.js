@@ -1,6 +1,8 @@
 var a23620 =
 [
-    [ "instance_magtheridons_lair_InstanceMapScript", "d3/dcc/a23624.html", "d3/dcc/a23624" ],
-    [ "instance_magtheridons_lair", "d0/d32/a23620.html#a9bc61758478dc18ba413264eec2e3ca3", null ],
-    [ "GetInstanceScript", "d0/d32/a23620.html#a6c9cc959cf4f294e6173d244f54bcd02", null ]
+    [ "instance_hellfire_ramparts_InstanceMapScript", "d0/d32/a23620.html#aebc047b45cb4560a38df89db75f8efab", null ],
+    [ "Initialize", "d0/d32/a23620.html#a115a36ec26e15e23be4d78250d86d814", null ],
+    [ "OnGameObjectCreate", "d0/d32/a23620.html#a0639fcd867616d1f04aacde44020bb30", null ],
+    [ "SetBossState", "d0/d32/a23620.html#a7a38526ca7b9a7c7c04231f8f8efd2f7", null ],
+    [ "felIronChestGUID", "d0/d32/a23620.html#a7cfcac5dbe4562268679ddceaf8ec8ea", null ]
 ];

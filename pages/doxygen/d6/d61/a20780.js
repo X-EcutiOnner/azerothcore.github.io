@@ -1,8 +1,6 @@
 var a20780 =
 [
-    [ "OnPeriodic", "d6/d61/a20780.html#aa49d1186ca6f5cdd628728a8a30c06a0", null ],
-    [ "OnRemove", "d6/d61/a20780.html#ad3a81506d71ed3d6ddffce7d8f902eb4", null ],
-    [ "PrepareAuraScript", "d6/d61/a20780.html#a63b654cf540e331e4d2b4f4ece5c1fcc", null ],
-    [ "Register", "d6/d61/a20780.html#a004ba2e0e83a14bef3cae208a45f222b", null ],
-    [ "Validate", "d6/d61/a20780.html#aa56622a1e57c157260940023a6c70a35", null ]
+    [ "npc_xt002_pummellerAI", "d3/d96/a20784.html", "d3/d96/a20784" ],
+    [ "npc_xt002_pummeller", "d6/d61/a20780.html#af620e31a231ca8fb812324521bad4673", null ],
+    [ "GetAI", "d6/d61/a20780.html#a9ec4e452a3763c3d03e581a17e5d7efe", null ]
 ];

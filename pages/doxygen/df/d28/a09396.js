@@ -1,7 +1,9 @@
 var a09396 =
 [
-    [ "NearestVisibleDetectableContestedGuardUnitCheck", "df/d28/a09396.html#a470ab1e22a90a00752717d76b45a7aab", null ],
-    [ "NearestVisibleDetectableContestedGuardUnitCheck", "df/d28/a09396.html#a042697dbc7622f5ff96bd1ade1afe5eb", null ],
-    [ "operator()", "df/d28/a09396.html#a031abed7dd2e5523991bf72d47e8e050", null ],
-    [ "me", "df/d28/a09396.html#a6cb490747146e1861006654deea366eb", null ]
+    [ "NearestHostileUnitCheck", "df/d28/a09396.html#aa1d706a1eb1de6168b568e70008e2d3b", null ],
+    [ "NearestHostileUnitCheck", "df/d28/a09396.html#a2fe620370289850eb0362823de2072d1", null ],
+    [ "operator()", "df/d28/a09396.html#a04c85a77d660bbc74279d1062dabc375", null ],
+    [ "i_playerOnly", "df/d28/a09396.html#a64c5fce466521a6d6d78eeda0708d65e", null ],
+    [ "m_range", "df/d28/a09396.html#a801d56a180e196943cfc2cefb6c5dda5", null ],
+    [ "me", "df/d28/a09396.html#a67cef25e6f725ea42f0377df34d48495", null ]
 ];

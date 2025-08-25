@@ -1,7 +1,6 @@
 var a26904 =
 [
-    [ "HandleApplyAura", "d7/d05/a26904.html#ae364ff4048a2f59eadecd6934c7a0e13", null ],
-    [ "PrepareSpellScript", "d7/d05/a26904.html#adf09900347264bc341884092ea0fee40", null ],
-    [ "Register", "d7/d05/a26904.html#ac56484d4048817a164963e519a97d137", null ],
-    [ "Validate", "d7/d05/a26904.html#ac028c0faf659fb74b2ffa5f85f58f8d1", null ]
+    [ "CalculateAmount", "d7/d05/a26904.html#aa27de1a2fc517a4b796a10e780239880", null ],
+    [ "PrepareAuraScript", "d7/d05/a26904.html#a72e68ff46f2049809f3e3b2c1814bd87", null ],
+    [ "Register", "d7/d05/a26904.html#a5ee969ad0916a9337849c75c18f13c29", null ]
 ];

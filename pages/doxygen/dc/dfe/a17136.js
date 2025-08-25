@@ -1,7 +1,13 @@
 var a17136 =
 [
-    [ "HandleEffectPeriodic", "dc/dfe/a17136.html#a4802c810efd7dd8a9954845366398e7f", null ],
-    [ "PrepareAuraScript", "dc/dfe/a17136.html#a008166d25e7a278507e953325f40ccd5", null ],
-    [ "Register", "dc/dfe/a17136.html#ac239d0f42eea59b63c3d31ed275846ea", null ],
-    [ "Validate", "dc/dfe/a17136.html#a3fc78060f881262c59151b6eb6a943f8", null ]
+    [ "npc_pos_martin_or_gorkun_secondAI", "dc/dfe/a17136.html#a2b8f5479565297c95ecdc4882e7d27ae", null ],
+    [ "DoAction", "dc/dfe/a17136.html#aa1df5c0f5612a9fc9a4e78fb901dc8e7", null ],
+    [ "JustSummoned", "dc/dfe/a17136.html#acdfc5d370da977ab69752016368cc9b0", null ],
+    [ "MovementInform", "dc/dfe/a17136.html#a95c033e4e2ca224be09ce993f4e7996d", null ],
+    [ "SummonedCreatureDespawn", "dc/dfe/a17136.html#af31de5c7f901baf4d8c62964fee8ead8", null ],
+    [ "UpdateAI", "dc/dfe/a17136.html#ad22fbcd52404c1e9c1fc71f3bc6b7525", null ],
+    [ "events", "dc/dfe/a17136.html#a44045ae5151625a4d7aacb69e9c934e5", null ],
+    [ "i", "dc/dfe/a17136.html#aa185914ee8a2352e4d233f1fc4800390", null ],
+    [ "pInstance", "dc/dfe/a17136.html#ac38febd0bce9338346d0c1aa6ba50de3", null ],
+    [ "summons", "dc/dfe/a17136.html#ad0f2097f168ea5983e3eece24cb82bfa", null ]
 ];

@@ -1,10 +1,6 @@
 var a23716 =
 [
-    [ "boss_harbinger_skyriss", "dc/d52/a23716.html#a245179f74d61c2671b397e8f2473b599", null ],
-    [ "EnterEvadeMode", "dc/d52/a23716.html#a873413da06569343225e6659f8277b2c", null ],
-    [ "JustDied", "dc/d52/a23716.html#a2b5152ddeb53d382294bd0fe7455a21e", null ],
-    [ "JustEngagedWith", "dc/d52/a23716.html#adb4cdec41f4b61f82efdb78fe995c313", null ],
-    [ "JustSummoned", "dc/d52/a23716.html#a97d84139a3e970e22d7d422f2f825f12", null ],
-    [ "KilledUnit", "dc/d52/a23716.html#a8f9e1bd87c80041e07b428ec300ceef8", null ],
-    [ "Reset", "dc/d52/a23716.html#a045ec2371ad99c3465b8f089eb604e0a", null ]
+    [ "instance_shattered_halls_InstanceMapScript", "d6/dea/a23720.html", "d6/dea/a23720" ],
+    [ "instance_shattered_halls", "dc/d52/a23716.html#a9d0d3b6baec34c679151791610cff3a7", null ],
+    [ "GetInstanceScript", "dc/d52/a23716.html#a82388466811b022a725ba721845cadf3", null ]
 ];

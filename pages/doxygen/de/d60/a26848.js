@@ -1,6 +1,6 @@
 var a26848 =
 [
-    [ "HandleAfterHit", "de/d60/a26848.html#a177bcf10d6b8fa586ff0cac3834367f9", null ],
-    [ "PrepareSpellScript", "de/d60/a26848.html#ac16ef2ff92440deab6c69f4824bdd619", null ],
-    [ "Register", "de/d60/a26848.html#a46fe3d7ebd663d1cb27aa473a56e81eb", null ]
+    [ "FilterTargets", "de/d60/a26848.html#a2bcc808d5869442e4c2e78be2d2a16af", null ],
+    [ "PrepareSpellScript", "de/d60/a26848.html#a51d7035477ba4e3994ef3161edc4cc69", null ],
+    [ "Register", "de/d60/a26848.html#adcc2ed25659208d0eeaec6d9673df3c6", null ]
 ];

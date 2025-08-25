@@ -1,8 +1,7 @@
 var a07168 =
 [
-    [ "WintergraspCapturePoint", "dd/dbc/a07168.html#a36090feb3626e204e0029ea45f1d8136", null ],
-    [ "ChangeTeam", "dd/dbc/a07168.html#a66564dd3237538b256ebeb76d236001f", null ],
-    [ "GetTeam", "dd/dbc/a07168.html#a7ff4106591a5aac1ea8820016b8164bb", null ],
-    [ "LinkToWorkshop", "dd/dbc/a07168.html#a32d378eba7f0eea0f011b8ea8c7e6eee", null ],
-    [ "m_Workshop", "dd/dbc/a07168.html#a1e780ccd3759538fe4c9d7e3fc5447ed", null ]
+    [ "BfGraveyardWG", "dd/dbc/a07168.html#a040af569e6633e4ed4c7513b55d034ac", null ],
+    [ "GetTextId", "dd/dbc/a07168.html#ae1dfdc2d5a36f10f1a116d56b27545ed", null ],
+    [ "SetTextId", "dd/dbc/a07168.html#a367d525e84d8634f47fb6679c2ee3d42", null ],
+    [ "m_GossipTextId", "dd/dbc/a07168.html#ab85d716c0b93f8a17d7bf0dccabc21c6", null ]
 ];

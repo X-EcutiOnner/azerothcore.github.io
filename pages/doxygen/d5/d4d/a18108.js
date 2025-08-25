@@ -1,6 +1,7 @@
 var a18108 =
 [
-    [ "FilterTargets", "d5/d4d/a18108.html#ad5a004ddfdc888c38e95c3a0b49ca73e", null ],
-    [ "PrepareSpellScript", "d5/d4d/a18108.html#a24466e7a04722cc7559b086f89d2edc8", null ],
-    [ "Register", "d5/d4d/a18108.html#a9ecea534f3dffdedf7d23b3b2461509d", null ]
+    [ "OnRemove", "d5/d4d/a18108.html#aa096174465120bde1994c85f72682be1", null ],
+    [ "PrepareAuraScript", "d5/d4d/a18108.html#a49ba4ed8ac0ee006c74a71e6779c1a3b", null ],
+    [ "Register", "d5/d4d/a18108.html#a6e9c95b06f3ec9dc0739beaabc016d5f", null ],
+    [ "Validate", "d5/d4d/a18108.html#a1b7ef2c14db8543a9128aa335548fa00", null ]
 ];

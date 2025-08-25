@@ -1,6 +1,6 @@
 var a04088 =
 [
-    [ "fireworkShowBootyBay", "db/d38/a04088.html#ade8881c3a797a7937c46526f8c8adf99", null ],
-    [ "FireworkShowGameobjectBootyBay", "db/d38/a04088.html#aeff31f29bacaf8ca10d5caee61627422", null ],
-    [ "fireworkShowScheduleBootyBay", "db/d38/a04088.html#aed5048221cf1d35ad3d4989da8786617", null ]
+    [ "fireworkShowGameobjectUndercity", "db/d38/a04088.html#a67896d1b367cdcfcbee837b12ee9451c", null ],
+    [ "fireworkShowScheduleUndercity", "db/d38/a04088.html#ab00bea2179a021590447cb30da50fce1", null ],
+    [ "fireworkShowUndercity", "db/d38/a04088.html#afd61e001f4ea31858964426d56d2b3cf", null ]
 ];

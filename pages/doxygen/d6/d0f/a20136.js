@@ -1,6 +1,7 @@
 var a20136 =
 [
-    [ "npc_ulduar_saronite_vaporsAI", "da/d2f/a20140.html", "da/d2f/a20140" ],
-    [ "npc_ulduar_saronite_vapors", "d6/d0f/a20136.html#a567c3aca8c381167ca278c2c3562e6f6", null ],
-    [ "GetAI", "d6/d0f/a20136.html#a3c2e7b6263f8935da9291c736b14d139", null ]
+    [ "boss_freya_healthy_sporeAI", "d6/d0f/a20136.html#a1f72bc2b113f3b909d44fd54fff87e31", null ],
+    [ "Reset", "d6/d0f/a20136.html#ad6d6562b5cc9f8232bdda99ec2204052", null ],
+    [ "UpdateAI", "d6/d0f/a20136.html#ace79c59d62e597ae31425b4006e1363f", null ],
+    [ "_despawnTimer", "d6/d0f/a20136.html#aaf65ef07480e5c634cc42dac0c7c734c", null ]
 ];

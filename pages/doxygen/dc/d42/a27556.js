@@ -1,10 +1,12 @@
 var a27556 =
 [
-    [ "npc_air_force_botsAI", "dc/d42/a27556.html#a062eb272826d52ffd9b72054f970b761", null ],
-    [ "GetSummonedGuard", "dc/d42/a27556.html#ac4f39049ba15caf314939f12b82ccd05", null ],
-    [ "MoveInLineOfSight", "dc/d42/a27556.html#a474231c0ce93b4db0789bcc8f6767c19", null ],
-    [ "Reset", "dc/d42/a27556.html#a016911d354f3b00e2db3e4f3722cda7f", null ],
-    [ "SummonGuard", "dc/d42/a27556.html#a8da57471dfa875f55f52c3d2b068a0f3", null ],
-    [ "SpawnAssoc", "dc/d42/a27556.html#a6f2f7ffd24dd32780c441fd6ce29dfbf", null ],
-    [ "SpawnedGUID", "dc/d42/a27556.html#a3c8ae595a3b4a436c2f94aa84cb9ee56", null ]
+    [ "npc_elder_clearwaterAI", "dc/d42/a27556.html#a4de89cf4a18918d577be4ac5cc55ba5a", null ],
+    [ "DoAction", "dc/d42/a27556.html#ac46b0f66be3074f73f5a69cffee6d354", null ],
+    [ "GetData", "dc/d42/a27556.html#a077c02bf06b16439225a5cf8d83babf2", null ],
+    [ "UpdateAI", "dc/d42/a27556.html#afbec3c78d34ce4d11a11b56064f343f3", null ],
+    [ "events", "dc/d42/a27556.html#a267fec22dc3d7272cae74267d0567618", null ],
+    [ "finished", "dc/d42/a27556.html#af51d6abb8fc8b59d068156a4859a377e", null ],
+    [ "finishWarning", "dc/d42/a27556.html#a83a2b8e6ceed45d4e6b834e13a4a4cdc", null ],
+    [ "preWarning", "dc/d42/a27556.html#a64abe15565c7e97a3a0ef195d436fedc", null ],
+    [ "startWarning", "dc/d42/a27556.html#a01545211dec4338ac44304ebc7f18a97", null ]
 ];

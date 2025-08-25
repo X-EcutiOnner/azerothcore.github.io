@@ -1,6 +1,6 @@
 var a15312 =
 [
-    [ "npc_depth_chargeAI", "d3/d42/a15316.html", "d3/d42/a15316" ],
-    [ "npc_depth_charge", "d4/d2f/a15312.html#ad16e3431b06fdd6797bfb51dda9005f5", null ],
-    [ "GetAI", "d4/d2f/a15312.html#a16de1a207304ea2ad7f47d5674deeec1", null ]
+    [ "HandleDummy", "d4/d2f/a15312.html#a09b21b3e5357c49d85ef01d9a5d4694f", null ],
+    [ "PrepareSpellScript", "d4/d2f/a15312.html#ac221d3d128265d78acc72d41ebf0fd8a", null ],
+    [ "Register", "d4/d2f/a15312.html#a67be525bc07ef7091d9b8148c1a01fb9", null ]
 ];

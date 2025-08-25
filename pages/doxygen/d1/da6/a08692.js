@@ -1,11 +1,6 @@
 var a08692 =
 [
-    [ "AuraMunchingQueue", "d1/da6/a08692.html#abf9787bcfa9393619ffebe2ad7b5cd46", null ],
-    [ "Execute", "d1/da6/a08692.html#a8f025a0ea1db81fb283db563402d1c40", null ],
-    [ "_auraType", "d1/da6/a08692.html#add694e24c38d585784f236acf9118b76", null ],
-    [ "_aurEff", "d1/da6/a08692.html#a8ac00964608170d5375242c1b19c4be3", null ],
-    [ "_basePoints", "d1/da6/a08692.html#a9cf03046c9595e81bf119b7aacb1a81a", null ],
-    [ "_owner", "d1/da6/a08692.html#a472aaf46c2f167a10ce38267ace0b8bb", null ],
-    [ "_spellId", "d1/da6/a08692.html#a6674c43b906e45e2ad29100a7ff06f44", null ],
-    [ "_targetGUID", "d1/da6/a08692.html#a441b328296f0b7a75bdaee06d2cb94f1", null ]
+    [ "spellIdImmunityPredicate", "d1/da6/a08692.html#a04893e34d418a0649d51dfa82b559d9c", null ],
+    [ "operator()", "d1/da6/a08692.html#ae97afff7a6b3ea5dca917d3dbb9ef818", null ],
+    [ "_type", "d1/da6/a08692.html#a125dfe727d668b5b9820adf1f7f0e0a8", null ]
 ];

@@ -1,7 +1,5 @@
 var a11468 =
 [
-    [ "Command", "dd/d2c/a11468.html#a6042a93c52d18e3a74d3cd46ac3d940f", null ],
-    [ "ModuleId", "dd/d2c/a11468.html#aa2e1c1cee71fc1eb887511c655de0516", null ],
-    [ "ModuleKey", "dd/d2c/a11468.html#aba0f236c39186022816bd86f8e8e9093", null ],
-    [ "Size", "dd/d2c/a11468.html#a6912224c1ef6fd117a5ed02d394254d9", null ]
+    [ "Name", "dd/d2c/a11468.html#ac16bf9d80201e270ffb1571fb2e9fb02", null ],
+    [ "Type", "dd/d2c/a11468.html#aeacac864bd23dcb7b24efc484810f592", null ]
 ];

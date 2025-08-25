@@ -1,6 +1,6 @@
 var a01124 =
 [
-    [ "GlobalScript", "df/db1/a10320.html", "df/db1/a10320" ],
+    [ "GlobalScript", "da/d0e/a10328.html", "da/d0e/a10328" ],
     [ "GlobalHook", "d0/dc8/a01124.html#a9442fcdfa182319eedd41c65183aa54f", [
       [ "GLOBALHOOK_ON_ITEM_DEL_FROM_DB", "d0/dc8/a01124.html#a9442fcdfa182319eedd41c65183aa54fa3fee3c5c76e67faee134aa5f3004fb3a", null ],
       [ "GLOBALHOOK_ON_MIRRORIMAGE_DISPLAY_ITEM", "d0/dc8/a01124.html#a9442fcdfa182319eedd41c65183aa54fa54996842f471924462c858b424771301", null ],

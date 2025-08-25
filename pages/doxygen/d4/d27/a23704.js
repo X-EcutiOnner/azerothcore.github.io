@@ -1,14 +1,16 @@
 var a23704 =
 [
-    [ "npc_warden_mellicharAI", "d4/d27/a23704.html#a3486b015ccb8fecfe5e215f45e45f15e", null ],
-    [ "AttackStart", "d4/d27/a23704.html#a2b16dc3ad358e4179fe20e2066ba5c64", null ],
-    [ "DamageTaken", "d4/d27/a23704.html#a07e7b215ed7653fe7e1ee44d34a74bbd", null ],
-    [ "JustDied", "d4/d27/a23704.html#a867404a125aeb4ee3332a4e2b5a8f547", null ],
-    [ "JustEngagedWith", "d4/d27/a23704.html#ad584a3c2dd8f108cc9b4e66a6917f97b", null ],
-    [ "JustSummoned", "d4/d27/a23704.html#a3fe95a64b640fb61459da2c8621fbc9c", null ],
-    [ "MoveInLineOfSight", "d4/d27/a23704.html#aa4edaf9534e7232526fd9c7bd097b7c4", null ],
-    [ "Reset", "d4/d27/a23704.html#aebd55a8e6e618e4dc37cf253c60c3a94", null ],
-    [ "SetData", "d4/d27/a23704.html#a0d0e8d1af5179aea73aa60e060ba751a", null ],
-    [ "SummonedCreatureDies", "d4/d27/a23704.html#a58e1011986be65725d4db3d782bc72ac", null ],
-    [ "UpdateAI", "d4/d27/a23704.html#a944cff5367213d561a7e6df5faf2a216", null ]
+    [ "boss_warchief_kargath_bladefist", "d4/d27/a23704.html#a0957dbfd6c085575fa862f38c87b6b3d", null ],
+    [ "InitializeAI", "d4/d27/a23704.html#a86d9b5b1500960235e76ae71337a6c90", null ],
+    [ "IsInRoom", "d4/d27/a23704.html#af9d4bd9d94115a1040e1e4a4dbf8df83", null ],
+    [ "JustDied", "d4/d27/a23704.html#a436b90336c90f6662f3ce704a62f0d90", null ],
+    [ "JustEngagedWith", "d4/d27/a23704.html#ab3d7b0ebca4f8134e5c2f31422ff006b", null ],
+    [ "JustSummoned", "d4/d27/a23704.html#aaa69f064d7eb3a0d107c835c806fa1de", null ],
+    [ "KilledUnit", "d4/d27/a23704.html#a730bbd2f95a2919fba1a7300b4307b84", null ],
+    [ "MovementInform", "d4/d27/a23704.html#a716eab9bda2b697252dde90aa513d7df", null ],
+    [ "Reset", "d4/d27/a23704.html#a50fa7a5aed8d3f4916f0449c4fb075ac", null ],
+    [ "RespawnAssassins", "d4/d27/a23704.html#a1397317259589ea69f77f52f60852043", null ],
+    [ "SummonedCreatureDies", "d4/d27/a23704.html#a325da34f78d202708a58c1a543ecb8ca", null ],
+    [ "UpdateAI", "d4/d27/a23704.html#acd463cac8e2fa8289ecb5567709db678", null ],
+    [ "_danceCount", "d4/d27/a23704.html#af4a60caaef6388caff973295e3397a7d", null ]
 ];

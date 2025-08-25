@@ -1,7 +1,6 @@
 var a24520 =
 [
-    [ "CheckProc", "de/d6b/a24520.html#a64414347ed5e132c3268451653082821", null ],
-    [ "HandleProc", "de/d6b/a24520.html#a8a3eab47b8214b59275aeaa8a02e4240", null ],
-    [ "PrepareAuraScript", "de/d6b/a24520.html#a88277eeea14f7799e27a4a897e6e8c0c", null ],
-    [ "Register", "de/d6b/a24520.html#a3ce0dcd5becd38e10e2bb6e3d2f28e89", null ]
+    [ "HandleAfterCast", "de/d6b/a24520.html#aaa65e67362ded5318e89272acf073bf3", null ],
+    [ "PrepareSpellScript", "de/d6b/a24520.html#a7d0dd936965845c14e7b54846facdb89", null ],
+    [ "Register", "de/d6b/a24520.html#ab7b767743d62d9763bea710b7552a8cf", null ]
 ];

@@ -1,4 +1,4 @@
 var a04280 =
 [
-    [ "Acore::Encoding::Base32", "d7/d32/a05312.html", "d7/d32/a05312" ]
+    [ "Reference< TO, FROM >", "d9/df0/a05252.html", "d9/df0/a05252" ]
 ];

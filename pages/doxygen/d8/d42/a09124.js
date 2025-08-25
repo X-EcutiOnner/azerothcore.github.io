@@ -1,12 +1,12 @@
 var a09124 =
 [
-    [ "FloatHeightData", "da/deb/a09136.html", "da/deb/a09136" ],
-    [ "Uint16HeightData", "d7/dd2/a09128.html", "d7/dd2/a09128" ],
-    [ "Uint8HeightData", "d6/d4b/a09132.html", "d6/d4b/a09132" ],
-    [ "HeightPlanesType", "d8/d42/a09124.html#ab64c3cfcd01805f43ec4ef41fb3bc48d", null ],
-    [ "floatHeightData", "d8/d42/a09124.html#abd47b99dfa1f23b0741b66cfd4837eaa", null ],
-    [ "gridHeight", "d8/d42/a09124.html#a1f989ab0921de350dc2410129028201f", null ],
-    [ "minHeightPlanes", "d8/d42/a09124.html#aa04f68f079e1f488cf69acd24dcd7899", null ],
-    [ "uint16HeightData", "d8/d42/a09124.html#aec022a29ba14a18fdd33e8f65e1cd977", null ],
-    [ "uint8HeightData", "d8/d42/a09124.html#a60a4a267b4164347e9f3ead6b5abfe14", null ]
+    [ "flags", "d8/d42/a09124.html#ab1c2612a57fcfce78e10de45dfc1c28d", null ],
+    [ "fourcc", "d8/d42/a09124.html#a5e7b1d32e42afbeb6898ee02014847cd", null ],
+    [ "height", "d8/d42/a09124.html#ab064dde684394c3aa84f9b151749d524", null ],
+    [ "liquidFlags", "d8/d42/a09124.html#a90f22c454f03ecee6aa1b9f9392e10a0", null ],
+    [ "liquidLevel", "d8/d42/a09124.html#ae4f34f9b8139b18416862bcd413f4aaa", null ],
+    [ "liquidType", "d8/d42/a09124.html#ab2ce1920efaec0a4fc0a81df9d6539e3", null ],
+    [ "offsetX", "d8/d42/a09124.html#a2ddee980eda8b7321b55ba44697688b5", null ],
+    [ "offsetY", "d8/d42/a09124.html#abc57f9e6c2f9fae58f575d8e1309f420", null ],
+    [ "width", "d8/d42/a09124.html#aabcbad9f4c0cae9d2e1b015a93f2a0ed", null ]
 ];

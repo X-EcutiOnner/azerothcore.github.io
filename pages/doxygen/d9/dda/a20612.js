@@ -1,6 +1,5 @@
 var a20612 =
 [
-    [ "boss_thorimAI", "d3/d9a/a20616.html", "d3/d9a/a20616" ],
-    [ "boss_thorim", "d9/dda/a20612.html#a23a52a05aea5092cef8fe47be28b4bfb", null ],
-    [ "GetAI", "d9/dda/a20612.html#a70895451317569f50adc11474e653515", null ]
+    [ "go_ulduar_working_harpoon", "d9/dda/a20612.html#a9aaaa16f23f07e402f20a048fd69d347", null ],
+    [ "OnGossipHello", "d9/dda/a20612.html#a164bdd0a9538293699665a821c4f25f3", null ]
 ];

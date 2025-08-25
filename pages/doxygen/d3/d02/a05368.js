@@ -1,10 +1,16 @@
 var a05368 =
 [
-    [ "Category", "d3/d02/a05368.html#a6a7956fedac99271428968ba339f464f", null ],
-    [ "Tags", "d3/d02/a05368.html#ac22787b2dadd4d3991f72f6ccab5c225", null ],
-    [ "Text", "d3/d02/a05368.html#ab63598f64896186fde81048550767b28", null ],
-    [ "Timestamp", "d3/d02/a05368.html#a8248a27d920ca431493750e3f2dec48b", null ],
-    [ "Title", "d3/d02/a05368.html#a857d2d4843480b9967334f079351292a", null ],
-    [ "Type", "d3/d02/a05368.html#af9962592650ba24fd9b3c0ee9ce06f7f", null ],
-    [ "Value", "d3/d02/a05368.html#a09832a09e989c3851e72f4ec198f0e20", null ]
+    [ "LogMessage", "d3/d02/a05368.html#a563286e5cd6518e04b3069a86cf6e972", null ],
+    [ "LogMessage", "d3/d02/a05368.html#a0a5626d481fe047437f213f1fa48a3aa", null ],
+    [ "LogMessage", "d3/d02/a05368.html#a727fa3a719c50572711ada4e257102ab", null ],
+    [ "getTimeStr", "d3/d02/a05368.html#aaeca452ae2fe32e7412f4abc30642da2", null ],
+    [ "getTimeStr", "d3/d02/a05368.html#af40f502e57bf12f31fc7a2fe60584fc8", null ],
+    [ "operator=", "d3/d02/a05368.html#af35b8fc183cb1848e965117497f50ab4", null ],
+    [ "Size", "d3/d02/a05368.html#ad2947063f8263da27acc82ce0bba6bc2", null ],
+    [ "level", "d3/d02/a05368.html#a44096654072d07e506ef6414a8ce4970", null ],
+    [ "mtime", "d3/d02/a05368.html#a2dab9ed7c1aa8b784e74247667295e29", null ],
+    [ "param1", "d3/d02/a05368.html#afcf2119e7c084339bd70e2ffb4c88d0e", null ],
+    [ "prefix", "d3/d02/a05368.html#afe279a591acc9740457c3cd58d43a263", null ],
+    [ "text", "d3/d02/a05368.html#a4ad799611980177ae87f3acbf2af8ff7", null ],
+    [ "type", "d3/d02/a05368.html#a77105c721645df5654e3c48ce00c2b5a", null ]
 ];

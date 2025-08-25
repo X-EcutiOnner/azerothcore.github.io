@@ -1,11 +1,11 @@
 var a10760 =
 [
-    [ "LFGJoin", "dd/d26/a10760.html#a50c79bdef7393907673a328bc36ff8ae", null ],
-    [ "Read", "dd/d26/a10760.html#a5eca5c5a528cf00f1e6aad99ce5386ed", null ],
-    [ "Achievements", "dd/d26/a10760.html#a587e98d4a1c8ff0cacd459298a4193c8", null ],
-    [ "Comment", "dd/d26/a10760.html#a3e12e650a1fa573aafd7c03abd970aff", null ],
-    [ "Needs", "dd/d26/a10760.html#a313c16e84e2cd0b55551d16273e95917", null ],
-    [ "NoPartialClear", "dd/d26/a10760.html#aad54be871d0978034fb69a464fd5b9df", null ],
-    [ "Roles", "dd/d26/a10760.html#a5eaccbeb4fc8b21f5398e216589cb99b", null ],
-    [ "Slots", "dd/d26/a10760.html#aa14a07716504723283ad80c6357cf53f", null ]
+    [ "SaveGuildEmblem", "dd/d26/a10760.html#ae3e507a567dfbead91c84629008539d2", null ],
+    [ "Read", "dd/d26/a10760.html#aeea281ed99165947de4b5d1b4449ea5d", null ],
+    [ "BColor", "dd/d26/a10760.html#a48cfbac2214bfc406d8bc80c175dac8f", null ],
+    [ "Bg", "dd/d26/a10760.html#a53e3f146f6a925bbe1fdae2105b79952", null ],
+    [ "BStyle", "dd/d26/a10760.html#a44fdd025f87e13db6d83afca6c49f5f8", null ],
+    [ "EColor", "dd/d26/a10760.html#ad3775c0839dd9aeb5a708a26ea4ec640", null ],
+    [ "EStyle", "dd/d26/a10760.html#a60c52a080284fabe96c579f39fb0834f", null ],
+    [ "Vendor", "dd/d26/a10760.html#a4bd53f7f5a5f2e7759d6df8a9de0b3f0", null ]
 ];

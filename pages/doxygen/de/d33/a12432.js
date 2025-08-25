@@ -1,6 +1,7 @@
 var a12432 =
 [
-    [ "boss_lucifronAI", "de/d33/a12432.html#ab93792bd7798b9ee9cf869fa20190554", null ],
-    [ "ExecuteEvent", "de/d33/a12432.html#a0ba286f037c07032488d6763daeaf130", null ],
-    [ "JustEngagedWith", "de/d33/a12432.html#aba3256ec99e56e3051045391fceedc7f", null ]
+    [ "HandlePeriodic", "de/d33/a12432.html#a758b588fb02e9cdf2544dd52ceee1055", null ],
+    [ "PrepareAuraScript", "de/d33/a12432.html#aae9d31049889eea5c5f09dd5437de950", null ],
+    [ "Register", "de/d33/a12432.html#a5de6428e3359c4498f5630f85ae3fcc8", null ],
+    [ "Validate", "de/d33/a12432.html#a462b882e41932f99e3501f32368cf4de", null ]
 ];

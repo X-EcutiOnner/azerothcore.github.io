@@ -1,7 +1,8 @@
 var a22344 =
 [
-    [ "npc_wg_demolisher_engineer", "d6/d20/a22344.html#a722ff6bac34730bfb5f36584d7a62ff8", null ],
-    [ "canBuild", "d6/d20/a22344.html#a5dd51b0d0a05ebfb648faab570e27881", null ],
-    [ "OnGossipHello", "d6/d20/a22344.html#ac3b0bbfd66bb94f29a6d733999b8c6ba", null ],
-    [ "OnGossipSelect", "d6/d20/a22344.html#a3ecf69f45918bef0cb51023327ac9693", null ]
+    [ "npc_freed_protodrakeAI", "d6/d20/a22344.html#a9e80808035be749c87a1170f37ac3daf", null ],
+    [ "MovementInform", "d6/d20/a22344.html#af056f3c12a314acd8a7e8c6c381b9436", null ],
+    [ "Reset", "d6/d20/a22344.html#ab5781438300442bb7bcb4510aec9d233", null ],
+    [ "UpdateAI", "d6/d20/a22344.html#a9e83b133444e977c35e90b700149472c", null ],
+    [ "events", "d6/d20/a22344.html#ac2e34b9a53ff55d177327ec95dca5466", null ]
 ];

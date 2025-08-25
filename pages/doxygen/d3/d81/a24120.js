@@ -1,8 +1,7 @@
 var a24120 =
 [
-    [ "npc_bessyAI", "d3/d81/a24120.html#ad1300a563888b34689bedf97c387707c", null ],
-    [ "JustDied", "d3/d81/a24120.html#af98e9235b2432b619e4cc01c0c1111ef", null ],
-    [ "JustSummoned", "d3/d81/a24120.html#a4197fb122299fd152e5da335bb832ae5", null ],
-    [ "Reset", "d3/d81/a24120.html#aed64386629e52c3b65abadde54a63cc4", null ],
-    [ "WaypointReached", "d3/d81/a24120.html#a4611a8f41f66a1a846fb42ba1d4062c8", null ]
+    [ "npc_kurenai_captiveAI", "d5/d16/a24124.html", "d5/d16/a24124" ],
+    [ "npc_kurenai_captive", "d3/d81/a24120.html#ae0e283bfc476f2d9e602158fa8720cdc", null ],
+    [ "GetAI", "d3/d81/a24120.html#ad6f9abf280ca7c3a1b16f7e4815fb979", null ],
+    [ "OnQuestAccept", "d3/d81/a24120.html#a7ecdb782bf084f3fd0f9dc3e2e10bf4a", null ]
 ];

@@ -1,8 +1,6 @@
 var a26680 =
 [
-    [ "Apply", "d8/de4/a26680.html#ac3145df90b6b179fece1c76da114e395", null ],
-    [ "HandleEffectPeriodic", "d8/de4/a26680.html#a480dd240981f91666e25ea2f1f73e4d7", null ],
-    [ "PrepareAuraScript", "d8/de4/a26680.html#aa911ba0b5a13a933bf50a072799a040f", null ],
-    [ "Register", "d8/de4/a26680.html#ae0dff9b5002d3d3361d794a75645057f", null ],
-    [ "Validate", "d8/de4/a26680.html#ad81184b508474a89fbafc63594ef0ab1", null ]
+    [ "HandlePeriodic", "d8/de4/a26680.html#af875d62dd47650c9f2e9c3a4508ed05b", null ],
+    [ "PrepareAuraScript", "d8/de4/a26680.html#a2efdcd0902e9cb5c47e285492dd93789", null ],
+    [ "Register", "d8/de4/a26680.html#ac90afe9f5d9d55faba2282a875469311", null ]
 ];

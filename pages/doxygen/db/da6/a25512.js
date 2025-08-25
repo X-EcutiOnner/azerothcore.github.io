@@ -1,5 +1,6 @@
 var a25512 =
 [
-    [ "PrepareSpellScript", "db/da6/a25512.html#adaaa520c889970d91f3f38c958efdad4", null ],
-    [ "Register", "db/da6/a25512.html#a80fe694c669aa86494bd73bfa7b8ffc8", null ]
+    [ "HandleFinish", "db/da6/a25512.html#a97cef2944f3fcc11aa6898bc8455ab21", null ],
+    [ "PrepareSpellScript", "db/da6/a25512.html#a62920503172dc58ac864a23e90a98dd9", null ],
+    [ "Register", "db/da6/a25512.html#ab40419508a1903869aa2b36a590301ba", null ]
 ];

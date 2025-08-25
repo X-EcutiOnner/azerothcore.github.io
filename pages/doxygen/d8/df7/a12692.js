@@ -1,11 +1,10 @@
 var a12692 =
 [
-    [ "npc_demon_chain", "d8/df7/a12692.html#ac234e729422925bd773bcdbc45f9e1b5", null ],
-    [ "AttackStart", "d8/df7/a12692.html#a745fa194ca5ad30c96e85b3f9daad2ad", null ],
-    [ "IsSummonedBy", "d8/df7/a12692.html#a27007fdff0d685b0a38a0b98820b95fb", null ],
-    [ "JustDied", "d8/df7/a12692.html#a35d1b7de8612f11cdf61b9d663990686", null ],
-    [ "JustEngagedWith", "d8/df7/a12692.html#a9743ebc31c5159a03889bfd40b09d749", null ],
-    [ "MoveInLineOfSight", "d8/df7/a12692.html#a9ffa6ed6faa21c9596f7a0c2ceb1cc05", null ],
-    [ "Reset", "d8/df7/a12692.html#ad531f82511e5156d3b9891dd4095b0d5", null ],
-    [ "sacrificeGUID", "d8/df7/a12692.html#a5572e39fcf3d807ef462f5c16ff703f1", null ]
+    [ "npc_netherspite_infernal", "d8/df7/a12692.html#af9837d7a671533523ce323c083c4e847", null ],
+    [ "DamageTaken", "d8/df7/a12692.html#aee9b38f3590e08b16de1789576986a09", null ],
+    [ "JustEngagedWith", "d8/df7/a12692.html#a76d8944ca2d9b2f1aa5b635ce94bacfb", null ],
+    [ "KilledUnit", "d8/df7/a12692.html#a49c37fbebed2951c493962c1a3bd0339", null ],
+    [ "MoveInLineOfSight", "d8/df7/a12692.html#a7ecce97cef0adda03910e87d9fd82f71", null ],
+    [ "SpellHit", "d8/df7/a12692.html#abb6c7d0b5e231e460b069198b16106b7", null ],
+    [ "UpdateAI", "d8/df7/a12692.html#a575040456c0eb4d343e7c0c5f75159b4", null ]
 ];

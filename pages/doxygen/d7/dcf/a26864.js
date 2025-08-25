@@ -1,8 +1,8 @@
 var a26864 =
 [
-    [ "ApplyEffect", "d7/dcf/a26864.html#a0c303c58064236969e17d1f2df3e0556", null ],
-    [ "PrepareAuraScript", "d7/dcf/a26864.html#a716a483282946f840ac15d73c6e21a94", null ],
-    [ "Register", "d7/dcf/a26864.html#ad72816bc73bdb1cf578f3c4599ec1682", null ],
-    [ "RemoveEffect", "d7/dcf/a26864.html#a571b1b19f4d5b13e54288aa89ab1e9b6", null ],
-    [ "Validate", "d7/dcf/a26864.html#a99eb27ead6f5c8c8f569626600f2daf9", null ]
+    [ "CheckProc", "d7/dcf/a26864.html#afcda3b112699e108e2db6270836fce1b", null ],
+    [ "OnProc", "d7/dcf/a26864.html#ab953f817368120933828d6b3e5e200c0", null ],
+    [ "PrepareAuraScript", "d7/dcf/a26864.html#a33381b811abcd52f7a57e0f62fa73e5f", null ],
+    [ "Register", "d7/dcf/a26864.html#abfdd5179215432a3e89ea7b498d49867", null ],
+    [ "Validate", "d7/dcf/a26864.html#a19e8f1b9aab5ee4e718b304c87303627", null ]
 ];

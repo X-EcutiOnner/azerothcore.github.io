@@ -1,12 +1,15 @@
 var a22716 =
 [
-    [ "boss_gurtogg_bloodboil", "d0/dbc/a22716.html#af6abec4e4db5ce939e4c9593656d16fb", null ],
-    [ "CanAIAttack", "d0/dbc/a22716.html#a60e6439bab689eb88a18612b6b46c713", null ],
-    [ "CheckEvadeIfOutOfCombatArea", "d0/dbc/a22716.html#a42db4d9fab6edfc392e1886c7d2770cb", null ],
-    [ "JustDied", "d0/dbc/a22716.html#a10456695efc6ea0b8eace24b94c37cc3", null ],
-    [ "JustEngagedWith", "d0/dbc/a22716.html#a0847173efbae252c2fbbaf1be17097cb", null ],
-    [ "JustSummoned", "d0/dbc/a22716.html#ae718666a1da0e93cb0965c42c40b51df", null ],
-    [ "KilledUnit", "d0/dbc/a22716.html#ab2b8131fc06f0ff6dd9e3ac7799e72db", null ],
-    [ "Reset", "d0/dbc/a22716.html#add25677d422b8bddcb753465451f0584", null ],
-    [ "_recentlySpoken", "d0/dbc/a22716.html#a74af813b84f7787a5b764cfe574c087b", null ]
+    [ "boss_grandmaster_vorpil", "d0/dbc/a22716.html#a0196ae46acba9c640b6fdfe30ac63f31", null ],
+    [ "counterVoidSpawns", "d0/dbc/a22716.html#a7a7c5679fe784025423119dd31d0e6ef", null ],
+    [ "JustDied", "d0/dbc/a22716.html#ab492fff8a9a275c662b44eeff3300b90", null ],
+    [ "JustEngagedWith", "d0/dbc/a22716.html#af1e6da02cd33742efad568424cf32c4f", null ],
+    [ "JustSummoned", "d0/dbc/a22716.html#a8a661b495d7fca340f3bd291d34ab3fc", null ],
+    [ "KilledUnit", "d0/dbc/a22716.html#af7779029f926e6d1c805b2f6c78cfd06", null ],
+    [ "MoveInLineOfSight", "d0/dbc/a22716.html#adb24a3d337b64f37759a3a39802d7e27", null ],
+    [ "Reset", "d0/dbc/a22716.html#a6471121ee02a834591b36d03fae28672", null ],
+    [ "spawnVoidTraveler", "d0/dbc/a22716.html#aa842bc3d88d0a3a411dcba3711809956", null ],
+    [ "summonPortals", "d0/dbc/a22716.html#a7cbdb7e7652dcac799b6f59424c8e9fd", null ],
+    [ "sayHelp", "d0/dbc/a22716.html#a3c83e1f9305fc17aebb4ec5f16225e17", null ],
+    [ "sayIntro", "d0/dbc/a22716.html#a5dd0edce19b33a1dd87d5b6e4458949f", null ]
 ];

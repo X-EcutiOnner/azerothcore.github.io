@@ -1,9 +1,12 @@
 var a14340 =
 [
-    [ "entries", "da/d36/a14340.html#a8c55bbd253d6bea01e83c0aa7380dee5", null ],
-    [ "entries", "da/d36/a14340.html#a953850b267eb6f599bb49d82080bdf64", null ],
-    [ "revelerId", "da/d36/a14340.html#a9e4069ef00c8b4e31d8af06f34e12ad5", null ],
-    [ "schedule", "da/d36/a14340.html#ad849701425622001519334f352ea6f3e", null ],
-    [ "size", "da/d36/a14340.html#ae6a3fa59e1eb384255c247abadc962d5", null ],
-    [ "spawns", "da/d36/a14340.html#aa081965795e3b9473be5b322b0c46505", null ]
+    [ "npc_alexstraza_the_lifebinder", "da/d36/a14340.html#a7c30258540803bde75843cb070b6a288", null ],
+    [ "MoveInLineOfSight", "da/d36/a14340.html#af5960eb1cf63fb0b5b8dc2bfd86b8e47", null ],
+    [ "Reset", "da/d36/a14340.html#a8144ed8ada8cd4fb11d74393ed0c525a", null ],
+    [ "SetData", "da/d36/a14340.html#aead5ae4ffda9732829e39b8c485a3c3e", null ],
+    [ "UpdateAI", "da/d36/a14340.html#ad13b21d571833210b1c069b7ea8bea05", null ],
+    [ "orphanGUID", "da/d36/a14340.html#a7c2901f01e4fcafaea9c00ff58dbeaf3", null ],
+    [ "phase", "da/d36/a14340.html#a98216e43888854ac93f22169a0e253e5", null ],
+    [ "playerGUID", "da/d36/a14340.html#a063fc935bc8f46f5487e9c338e497ec4", null ],
+    [ "timer", "da/d36/a14340.html#a41791aaa24102383fe4d3f43c714c3bb", null ]
 ];

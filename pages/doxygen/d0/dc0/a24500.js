@@ -1,6 +1,6 @@
 var a24500 =
 [
-    [ "CheckProc", "d0/dc0/a24500.html#a451ceeda18638f88d2e0a24ac445f5e2", null ],
-    [ "PrepareAuraScript", "d0/dc0/a24500.html#a0a6d4617ff3351411f4e13f53876db31", null ],
-    [ "Register", "d0/dc0/a24500.html#a0e5d974111eeca075f38910223f5eaf4", null ]
+    [ "HandleEffectRemove", "d0/dc0/a24500.html#a9472b79a272aff36be657b66883d822f", null ],
+    [ "PrepareAuraScript", "d0/dc0/a24500.html#ad46fedf6ef019d1b5e93d98e7bba8417", null ],
+    [ "Register", "d0/dc0/a24500.html#ace15e1f5c158f1f203862b40da2cf8fc", null ]
 ];

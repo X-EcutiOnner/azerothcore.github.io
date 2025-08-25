@@ -1,8 +1,8 @@
 var a19480 =
 [
-    [ "HandleOnEffectApply", "d8/d5e/a19480.html#ac852d761940494f78b50ba3b060057a2", null ],
-    [ "HandleOnEffectRemove", "d8/d5e/a19480.html#a6764750586be8b57d52a2dba87d89e76", null ],
-    [ "PrepareAuraScript", "d8/d5e/a19480.html#acc93a6d463501a23b73bd1ac1f99854e", null ],
-    [ "Register", "d8/d5e/a19480.html#a2cb77175d7341752bdd8733cfcfe8ed3", null ],
-    [ "Validate", "d8/d5e/a19480.html#a4de69fb4aa8e1506581ed01c42dc8f76", null ]
+    [ "npc_centrifuge_constructAI", "d8/d5e/a19480.html#a9219f4955ae82ca7f401ea1c63f66b09", null ],
+    [ "DamageTaken", "d8/d5e/a19480.html#aa568418de267a99108698e79baa1b3f4", null ],
+    [ "JustEngagedWith", "d8/d5e/a19480.html#ac6ecbb17624c2747253c68a50b93c40f", null ],
+    [ "Reset", "d8/d5e/a19480.html#a2f7750cea2f59d794c85e20b703370af", null ],
+    [ "UpdateAI", "d8/d5e/a19480.html#a28316416ad6c56d83c9e878511256445", null ]
 ];

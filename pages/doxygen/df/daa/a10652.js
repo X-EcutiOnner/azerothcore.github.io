@@ -1,5 +1,6 @@
 var a10652 =
 [
-    [ "GuildDelete", "df/daa/a10652.html#a86733335c7b60d5b9eb8616692da3a7f", null ],
-    [ "Read", "df/daa/a10652.html#ae5ca379b187902323638f4c10be0a4d0", null ]
+    [ "GuildUpdateInfoText", "df/daa/a10652.html#a82afd6cb3240da6870990d6f80f69cd6", null ],
+    [ "Read", "df/daa/a10652.html#a7019344fef99c5479602d7bc1176e9ee", null ],
+    [ "InfoText", "df/daa/a10652.html#a786802ce427465d66a4cea1365743975", null ]
 ];

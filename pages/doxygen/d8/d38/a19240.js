@@ -1,6 +1,5 @@
 var a19240 =
 [
-    [ "npc_vortex_rideAI", "d1/dc5/a19244.html", "d1/dc5/a19244" ],
-    [ "npc_vortex_ride", "d8/d38/a19240.html#ad794cda407c9dfc35dd9bc2724f5014a", null ],
-    [ "GetAI", "d8/d38/a19240.html#a23ef53feb432127db2620810a55d02ff", null ]
+    [ "at_thaddius_entrance", "d8/d38/a19240.html#ad81a60cac337baad82ea526de1d151d1", null ],
+    [ "OnTrigger", "d8/d38/a19240.html#af8635a58d4da0421b72b4451c1ebafc5", null ]
 ];

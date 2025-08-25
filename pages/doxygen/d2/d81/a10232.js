@@ -1,11 +1,19 @@
 var a10232 =
 [
-    [ "AllMapScript", "d2/d81/a10232.html#aea5284ac6b227dd44b83dc944e220f00", null ],
-    [ "OnBeforeCreateInstanceScript", "d2/d81/a10232.html#a1a4b75a1845923bcf68481ecc0d6b77c", null ],
-    [ "OnCreateMap", "d2/d81/a10232.html#a56aa53bfb0a1cb7ad7cb677771739b46", null ],
-    [ "OnDestroyInstance", "d2/d81/a10232.html#a990130b4cd594c1cd04368aea300a49e", null ],
-    [ "OnDestroyMap", "d2/d81/a10232.html#a6bebd1e6e36b5714598439a6c6dfaad6", null ],
-    [ "OnMapUpdate", "d2/d81/a10232.html#a6edbb719d998c57caba09eef7ad559e0", null ],
-    [ "OnPlayerEnterAll", "d2/d81/a10232.html#a42e4af596effb07a00b353164f32cec9", null ],
-    [ "OnPlayerLeaveAll", "d2/d81/a10232.html#adcfd501bee055317bff2a63ef28c3eab", null ]
+    [ "AllGameObjectScript", "d2/d81/a10232.html#ac6640c81043e19d7c73ed6208dd119dd", null ],
+    [ "CanGameObjectGossipHello", "d2/d81/a10232.html#a33efc883fe64cdc52aa9b03f9377da97", null ],
+    [ "CanGameObjectGossipSelect", "d2/d81/a10232.html#a317305c7dc81fede50d73f65fbc2bb42", null ],
+    [ "CanGameObjectGossipSelectCode", "d2/d81/a10232.html#ac0b0ce8b06f371a6adfb69b926797790", null ],
+    [ "CanGameObjectQuestAccept", "d2/d81/a10232.html#a0c99183b04355ecfb3460bc371b58805", null ],
+    [ "CanGameObjectQuestReward", "d2/d81/a10232.html#a55eb61a5e4386908db998ceff1dff359", null ],
+    [ "GetGameObjectAI", "d2/d81/a10232.html#afe0c610693bc883415952ba350596788", null ],
+    [ "OnGameObjectAddWorld", "d2/d81/a10232.html#ae07275a83e4e1ae65371739bdc342d7f", null ],
+    [ "OnGameObjectDamaged", "d2/d81/a10232.html#ab551bd870ab2e6513d95fcfb3e62d8c5", null ],
+    [ "OnGameObjectDestroyed", "d2/d81/a10232.html#a3861b881456c1af3e9231d90519367d6", null ],
+    [ "OnGameObjectLootStateChanged", "d2/d81/a10232.html#a599b35bb426d3c91c5457c838bfe910d", null ],
+    [ "OnGameObjectModifyHealth", "d2/d81/a10232.html#a4d5607d755f044fed3a23c122bceddff", null ],
+    [ "OnGameObjectRemoveWorld", "d2/d81/a10232.html#aca2171a8521195f06ea00c21f219d8f5", null ],
+    [ "OnGameObjectSaveToDB", "d2/d81/a10232.html#ae4bb28ae318f13a72109a3874f2ca12d", null ],
+    [ "OnGameObjectStateChanged", "d2/d81/a10232.html#ab0ab47240bdb815d404f8bd41fb3bdaa", null ],
+    [ "OnGameObjectUpdate", "d2/d81/a10232.html#ada8cc5373b75025199ca62856242d0ab", null ]
 ];

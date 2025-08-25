@@ -1,25 +1,8 @@
 var a19236 =
 [
-    [ "boss_malygosAI", "d8/d26/a19236.html#a6f8d8ec25b9d3acedd7c70f0a9f04a8a", null ],
-    [ "AttackStart", "d8/d26/a19236.html#a4f0ef49be1129d4289ca9682a145d3a8", null ],
-    [ "DamageTaken", "d8/d26/a19236.html#a5ca565d9078c31b7ca6ceda0e262114d", null ],
-    [ "EnterEvadeMode", "d8/d26/a19236.html#adb432469735f6ebc016bb11bbc90a87e", null ],
-    [ "HandleIntroSpeech", "d8/d26/a19236.html#ab959171061519d41998dc9a7e76f3a60", null ],
-    [ "InitializeAI", "d8/d26/a19236.html#a23ea01ace48cde2675399ce3f202cb22", null ],
-    [ "JustDied", "d8/d26/a19236.html#a44ca67ecee771d27b9c59be7b5e7d56b", null ],
-    [ "JustEngagedWith", "d8/d26/a19236.html#aa3f7fd4e97351335ba6b0d90f76659d5", null ],
-    [ "JustSummoned", "d8/d26/a19236.html#a6613931f6211979d8c627c9c5cd8dea2", null ],
-    [ "KilledUnit", "d8/d26/a19236.html#aef2c08bf3727850c517c3cfae1cce170", null ],
-    [ "MoveInLineOfSight", "d8/d26/a19236.html#acee6055640b8f2d51fe13d46f383ebc0", null ],
-    [ "MovementInform", "d8/d26/a19236.html#ae75c077a139345bd63ddf4c27cb5e6f6", null ],
-    [ "Reset", "d8/d26/a19236.html#afb7d93501d3559e4163b207bfb9b0d78", null ],
-    [ "SpellHit", "d8/d26/a19236.html#af18eee25feb57f41708801f4d772a1ee", null ],
-    [ "UpdateAI", "d8/d26/a19236.html#ab49276a5703a35d4271141368c9b6fcb", null ],
-    [ "bLockHealthCheck", "d8/d26/a19236.html#a04ae7795de03560add41170a9487aa99", null ],
-    [ "events", "d8/d26/a19236.html#ad2f425679108a50ac4cee1fc57dfe591", null ],
-    [ "IntroCounter", "d8/d26/a19236.html#a2e19ce8b75578bd8b6f7432c14f3b7f8", null ],
-    [ "pInstance", "d8/d26/a19236.html#a9ec26485d72ccf8e97120756f14161c3", null ],
-    [ "summons", "d8/d26/a19236.html#aedb8188207d090740490fcd2256f84a3", null ],
-    [ "timer1", "d8/d26/a19236.html#aeb4a585d72d6c970d5e1814de1599410", null ],
-    [ "timer2", "d8/d26/a19236.html#affb313b502fbebaa6937fc3f2a380906", null ]
+    [ "npc_teslaAI", "d8/d26/a19236.html#a7281220648af1357b1377d6f7874d663", null ],
+    [ "DamageTaken", "d8/d26/a19236.html#aa3ab570e86261bc3178e17109d76af12", null ],
+    [ "EnterEvadeMode", "d8/d26/a19236.html#acc8115216989b34593a9435eeb051eda", null ],
+    [ "JustEngagedWith", "d8/d26/a19236.html#add93f68bc96b3c93dc0a3271543711e6", null ],
+    [ "UpdateAI", "d8/d26/a19236.html#a962745569b07e368067ee483d2379840", null ]
 ];

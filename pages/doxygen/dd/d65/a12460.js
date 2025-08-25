@@ -1,7 +1,10 @@
 var a12460 =
 [
-    [ "HandleHit", "dd/d65/a12460.html#a87777dce0e2bf1deba600b3ae7ce6b9c", null ],
-    [ "Load", "dd/d65/a12460.html#ab61b4076aab18c0a6593c234209a2c1d", null ],
-    [ "PrepareSpellScript", "dd/d65/a12460.html#a9fb8d980381264a2ef645f2e620abd21", null ],
-    [ "Register", "dd/d65/a12460.html#a4998015873f0e0ca768c20b0f95fda90", null ]
+    [ "npc_core_ragerAI", "dd/d65/a12460.html#a3c5125e0a10043f6181c10ba749fa579", null ],
+    [ "DamageTaken", "dd/d65/a12460.html#a758eb158eb9d232d74514281028efcb3", null ],
+    [ "Reset", "dd/d65/a12460.html#acf83e469d3d8108276227a942fda28b3", null ],
+    [ "UpdateAI", "dd/d65/a12460.html#a2183cf5ab22b737413b86a657fde6d3c", null ],
+    [ "instance", "dd/d65/a12460.html#a7cfddba62f737214b8cfc7fbffa8c2e2", null ],
+    [ "mangleTimer", "dd/d65/a12460.html#a081333b967abb3812b9ddae2f933a324", null ],
+    [ "rangeCheckTimer", "dd/d65/a12460.html#ade427bdd9ec99807b6f190c890136414", null ]
 ];

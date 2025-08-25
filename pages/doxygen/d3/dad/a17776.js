@@ -1,12 +1,6 @@
 var a17776 =
 [
-    [ "npc_darnavanAI", "d3/dad/a17776.html#ae06019c24910c873877398f29f5a1737", null ],
-    [ "JustDied", "d3/dad/a17776.html#a49250dcdaed6de534de7a1fe3c5aa72c", null ],
-    [ "JustEngagedWith", "d3/dad/a17776.html#acbaedacea5ad19d82002c25b68623a27", null ],
-    [ "MovementInform", "d3/dad/a17776.html#afcd3bfd190fcb99e38f32129fb2ce861", null ],
-    [ "Reset", "d3/dad/a17776.html#a926c39a6e30507d9f9927f4f142e5a45", null ],
-    [ "UpdateAI", "d3/dad/a17776.html#a2b3b5e168989db21fc047acaf01413d9", null ],
-    [ "_canCharge", "d3/dad/a17776.html#ac37dc2ddc1787b7bd83b7e64ccdc6af8", null ],
-    [ "_canShatter", "d3/dad/a17776.html#aa7750edc8051c8ee453143491dccf122", null ],
-    [ "events", "d3/dad/a17776.html#aa8a022ccb1367432480f72d305c752ac", null ]
+    [ "boss_lady_deathwhisperAI", "d3/d3a/a17780.html", "d3/d3a/a17780" ],
+    [ "boss_lady_deathwhisper", "d3/dad/a17776.html#a979411cb834611b1239f3bf9058d316d", null ],
+    [ "GetAI", "d3/dad/a17776.html#ac0b86fee1e2e9dbf794ed1b53aab11d2", null ]
 ];

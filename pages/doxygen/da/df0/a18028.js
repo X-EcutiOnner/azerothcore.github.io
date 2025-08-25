@@ -1,7 +1,7 @@
 var a18028 =
 [
-    [ "FrostBombExplosion", "da/df0/a18028.html#ac7d318e241e6442e8aa084b27ea50236", null ],
-    [ "Execute", "da/df0/a18028.html#a0b6521266f18b621260286c530ff3f36", null ],
-    [ "_owner", "da/df0/a18028.html#aa9ff39ce43c351e8815f895896fa759b", null ],
-    [ "_sindragosaGUID", "da/df0/a18028.html#a5afc3d543c8fa457c90735f841aa161c", null ]
+    [ "HandleScript", "da/df0/a18028.html#a37b261d0df2829788d8290a9194913f5", null ],
+    [ "PrepareSpellScript", "da/df0/a18028.html#a69386dbef57322393a38eec90662135f", null ],
+    [ "Register", "da/df0/a18028.html#a5b85b01100d7f7c672c437e4bdfd7a7c", null ],
+    [ "Validate", "da/df0/a18028.html#a63c446574c700a895d7fbc5bb2b81508", null ]
 ];

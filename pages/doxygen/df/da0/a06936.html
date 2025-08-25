@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: AutobroadcastMgr Class Reference</title>
+<title>AzerothCore: SmartTarget Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,56 +106,234 @@ $(document).ready(function(){initNavTree('df/da0/a06936.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pub-static-methods">Static Public Member Functions</a> &#124;
-<a href="#pri-types">Private Types</a> &#124;
-<a href="#pri-methods">Private Member Functions</a> &#124;
-<a href="#pri-attribs">Private Attributes</a> &#124;
+<a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../d7/df0/a06933.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">AutobroadcastMgr Class Reference</div></div>
+  <div class="headertitle"><div class="title">SmartTarget Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">AutobroadcastMgr.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">SmartScriptMgr.h</a>&quot;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a48748969b122aee47d03697b6e9a2ee1"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/da0/a06936.html#a48748969b122aee47d03697b6e9a2ee1">LoadAutobroadcasts</a> ()</td></tr>
-<tr class="separator:a48748969b122aee47d03697b6e9a2ee1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a225907be4944713af11c312185c8aea7"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/da0/a06936.html#a225907be4944713af11c312185c8aea7">SendAutobroadcasts</a> ()</td></tr>
-<tr class="separator:a225907be4944713af11c312185c8aea7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af648cbf7934ad423724a994f9cabc4b6"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/da0/a06936.html#af648cbf7934ad423724a994f9cabc4b6">SmartTarget</a> (<a class="el" href="../../de/d70/a01415.html#a20fbd4053053320ca4f2a803a09eb92e">SMARTAI_TARGETS</a> t=<a class="el" href="../../de/d70/a01415.html#a20fbd4053053320ca4f2a803a09eb92eae4f7681523b0f77ff2d889fb42a848ab">SMART_TARGET_NONE</a>, <a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> p1=0, <a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> p2=0, <a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> p3=0, <a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> p4=0)</td></tr>
+<tr class="separator:af648cbf7934ad423724a994f9cabc4b6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
-Static Public Member Functions</h2></td></tr>
-<tr class="memitem:aead196df7f590d43c89f179ca0bd4a68"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../df/da0/a06936.html">AutobroadcastMgr</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/da0/a06936.html#aead196df7f590d43c89f179ca0bd4a68">instance</a> ()</td></tr>
-<tr class="separator:aead196df7f590d43c89f179ca0bd4a68"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-types" name="pri-types"></a>
-Private Types</h2></td></tr>
-<tr class="memitem:a8abeae830f5692c45bd0b880ba62e743"><td class="memItemLeft" align="right" valign="top">typedef std::map&lt; <a class="el" href="../../d4/ddf/a00488.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>, std::string &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/da0/a06936.html#a8abeae830f5692c45bd0b880ba62e743">AutobroadcastsMap</a></td></tr>
-<tr class="separator:a8abeae830f5692c45bd0b880ba62e743"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a75e5b978794a7010c8d9d3390d8690f9"><td class="memItemLeft" align="right" valign="top">typedef std::map&lt; <a class="el" href="../../d4/ddf/a00488.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>, <a class="el" href="../../d4/ddf/a00488.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/da0/a06936.html#a75e5b978794a7010c8d9d3390d8690f9">AutobroadcastsWeightMap</a></td></tr>
-<tr class="separator:a75e5b978794a7010c8d9d3390d8690f9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-methods" name="pri-methods"></a>
-Private Member Functions</h2></td></tr>
-<tr class="memitem:a64a9c246fe4b57463ecdd63d016c208b"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/da0/a06936.html#a64a9c246fe4b57463ecdd63d016c208b">SendWorldAnnouncement</a> (std::string msg)</td></tr>
-<tr class="separator:a64a9c246fe4b57463ecdd63d016c208b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a942de8b823a0c8d67b6193def73d4416"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/da0/a06936.html#a942de8b823a0c8d67b6193def73d4416">SendNotificationAnnouncement</a> (std::string msg)</td></tr>
-<tr class="separator:a942de8b823a0c8d67b6193def73d4416"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
-Private Attributes</h2></td></tr>
-<tr class="memitem:a06d42010fea307a03aac0ca4e6886f1d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../df/da0/a06936.html#a8abeae830f5692c45bd0b880ba62e743">AutobroadcastsMap</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/da0/a06936.html#a06d42010fea307a03aac0ca4e6886f1d">_autobroadcasts</a></td></tr>
-<tr class="separator:a06d42010fea307a03aac0ca4e6886f1d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aadbd8ca926a64be4fbbe832fd633ee88"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../df/da0/a06936.html#a75e5b978794a7010c8d9d3390d8690f9">AutobroadcastsWeightMap</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/da0/a06936.html#aadbd8ca926a64be4fbbe832fd633ee88">_autobroadcastsWeights</a></td></tr>
-<tr class="separator:aadbd8ca926a64be4fbbe832fd633ee88"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3889edc4001e26519d9df042a8b477fc"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/dce/a01946.html#a28a4ef2f64643c76d8be05bf9eafc731">AnnounceType</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/da0/a06936.html#a3889edc4001e26519d9df042a8b477fc">_announceType</a></td></tr>
-<tr class="separator:a3889edc4001e26519d9df042a8b477fc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
+Public Attributes</h2></td></tr>
+<tr class="memitem:acd89b43d2caa64668e5ed82cd4e7cda5"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d70/a01415.html#a20fbd4053053320ca4f2a803a09eb92e">SMARTAI_TARGETS</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/da0/a06936.html#acd89b43d2caa64668e5ed82cd4e7cda5">type</a></td></tr>
+<tr class="separator:acd89b43d2caa64668e5ed82cd4e7cda5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6a31784c4f9f3955e0cc5cf16687fd82"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/da0/a06936.html#a6a31784c4f9f3955e0cc5cf16687fd82">x</a></td></tr>
+<tr class="separator:a6a31784c4f9f3955e0cc5cf16687fd82"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aaa06940768e7b9e08e549af80ab40650"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/da0/a06936.html#aaa06940768e7b9e08e549af80ab40650">y</a></td></tr>
+<tr class="separator:aaa06940768e7b9e08e549af80ab40650"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acb52eb278431dc7a11e460c6c53c8f8e"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/da0/a06936.html#acb52eb278431dc7a11e460c6c53c8f8e">z</a></td></tr>
+<tr class="separator:acb52eb278431dc7a11e460c6c53c8f8e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a28a91da4b59f75cd41df0e712337b291"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/da0/a06936.html#a28a91da4b59f75cd41df0e712337b291">o</a></td></tr>
+<tr class="separator:a28a91da4b59f75cd41df0e712337b291"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a80705486836388f057c23cbd71b9cd2a"><td class="memItemLeft" >union {</td></tr>
+<tr class="memitem:a8504f7d4e9677db8fd5fb09f2fee05a6"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:a798a0b639397d866cb0922acaaf17354"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#a3be697bd5161ea28f96e855ec6dd5d06">maxDist</a></td></tr>
+<tr class="separator:a798a0b639397d866cb0922acaaf17354"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a34fba3d4eaf511487b7962fff8c3745b"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../de/d70/a01415.html#a96a00b1ae7179b02b6ee7e68ed92c6ac">SAIBool</a>&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#a5d5c979cd4cfd87f978d065ff7c03d01">playerOnly</a></td></tr>
+<tr class="separator:a34fba3d4eaf511487b7962fff8c3745b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a92a2857b4292e898f134bca8e16861fd"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#ad3ddf8fa14f0121965f227629832e0df">powerType</a></td></tr>
+<tr class="separator:a92a2857b4292e898f134bca8e16861fd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adf78e7de495cbe69650650af0a323cd3"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#a0f21c03faa25895f9355fc81790f0154">aura</a></td></tr>
+<tr class="separator:adf78e7de495cbe69650650af0a323cd3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8504f7d4e9677db8fd5fb09f2fee05a6"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#a49a7389f362f2d478ade48ac21b6cc37">hostileRandom</a></td></tr>
+<tr class="separator:a8504f7d4e9677db8fd5fb09f2fee05a6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a530318a7f67580523c376043f6f316e9"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:a9f2b720ee5c059f3adbadba915b60714"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#a3be697bd5161ea28f96e855ec6dd5d06">maxDist</a></td></tr>
+<tr class="separator:a9f2b720ee5c059f3adbadba915b60714"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab5fb810ac986d1111e2f86a168be25ad"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../de/d70/a01415.html#a96a00b1ae7179b02b6ee7e68ed92c6ac">SAIBool</a>&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#a5d5c979cd4cfd87f978d065ff7c03d01">playerOnly</a></td></tr>
+<tr class="separator:ab5fb810ac986d1111e2f86a168be25ad"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5b393497145bf31f2433b6c9ba7e15c9"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../de/d70/a01415.html#a96a00b1ae7179b02b6ee7e68ed92c6ac">SAIBool</a>&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#a4c71451eacd886100952f45ddcc8ae6b">isInLos</a></td></tr>
+<tr class="separator:a5b393497145bf31f2433b6c9ba7e15c9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1e9e66aa7d2580a271899ae99b7dd484"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#afd68fe281c872f9d960b7eb40cc5fba9">minDist</a></td></tr>
+<tr class="separator:a1e9e66aa7d2580a271899ae99b7dd484"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a530318a7f67580523c376043f6f316e9"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#a8839cff7ecc867c727857681aab9aa4a">farthest</a></td></tr>
+<tr class="separator:a530318a7f67580523c376043f6f316e9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a542ceedd2ce5f08e7b504bd5a7d8f638"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:a89623a3559e92e865f354d6f7a6d066d"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#a83eeb205cdbbdee686d883f0ce3c6a37">creature</a></td></tr>
+<tr class="separator:a89623a3559e92e865f354d6f7a6d066d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a386dd0d09a76f36aeedf236ddb6b2a71"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#afd68fe281c872f9d960b7eb40cc5fba9">minDist</a></td></tr>
+<tr class="separator:a386dd0d09a76f36aeedf236ddb6b2a71"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a634e111ab616c4c5274840c1a49724e6"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#a3be697bd5161ea28f96e855ec6dd5d06">maxDist</a></td></tr>
+<tr class="separator:a634e111ab616c4c5274840c1a49724e6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a735bcb1f160bff85a6a1370fb29573ad"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#a6965825e57e41efb16a153eee55c9cff">livingState</a></td></tr>
+<tr class="separator:a735bcb1f160bff85a6a1370fb29573ad"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a542ceedd2ce5f08e7b504bd5a7d8f638"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#a9a28c2b28ca936d582068ea129fc3e6a">unitRange</a></td></tr>
+<tr class="separator:a542ceedd2ce5f08e7b504bd5a7d8f638"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a05392ad2f5ab6bfa586fd3906beefbba"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:acc3036bb1b20612c7dff3dfd0a4e228b"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#a6485b621fa6bb529b7cff1c4bc63c8df">dbGuid</a></td></tr>
+<tr class="separator:acc3036bb1b20612c7dff3dfd0a4e228b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a247eb2917ea3f5d6762ab6982e0fd8e2"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#a776dd7a96577ad914d7856d27205e064">entry</a></td></tr>
+<tr class="separator:a247eb2917ea3f5d6762ab6982e0fd8e2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a05392ad2f5ab6bfa586fd3906beefbba"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#af2839fbd05b7c15016ff868d68795b13">unitGUID</a></td></tr>
+<tr class="separator:a05392ad2f5ab6bfa586fd3906beefbba"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a67fb0b4a3f6782974eb2f09fa3ca393e"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:a7194e6073da06833c6054b09d62af998"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#a3be697bd5161ea28f96e855ec6dd5d06">maxDist</a></td></tr>
+<tr class="separator:a7194e6073da06833c6054b09d62af998"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aefad3725add0d2fa7687b3a4849782cf"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#afafd6378f6b9472ce21aab4addbc55b6">roleMask</a></td></tr>
+<tr class="separator:aefad3725add0d2fa7687b3a4849782cf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afc38a4a9d6b183d8392b03ccec0962d2"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#a283ae7d8a9e5b9b4a02c1ec8f0a28a48">resize</a></td></tr>
+<tr class="separator:afc38a4a9d6b183d8392b03ccec0962d2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a67fb0b4a3f6782974eb2f09fa3ca393e"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#a828e7b824f7b0d8f02da2244ed3f7ecf">roleSelection</a></td></tr>
+<tr class="separator:a67fb0b4a3f6782974eb2f09fa3ca393e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac411dd3e11713fbf934bc690d330b53e"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:ab30848c41edfc3b86e861dff54cdc964"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#a83eeb205cdbbdee686d883f0ce3c6a37">creature</a></td></tr>
+<tr class="separator:ab30848c41edfc3b86e861dff54cdc964"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a10d02b293d82bba2ae763444816e6eca"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#a4a000f749faecc744ca9074301e038f3">dist</a></td></tr>
+<tr class="separator:a10d02b293d82bba2ae763444816e6eca"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8a3c7668d531812d9129f4e6a86301e3"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#a6965825e57e41efb16a153eee55c9cff">livingState</a></td></tr>
+<tr class="separator:a8a3c7668d531812d9129f4e6a86301e3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac411dd3e11713fbf934bc690d330b53e"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#a70bb4d6de31117ce5cb77f734e8400cd">unitDistance</a></td></tr>
+<tr class="separator:ac411dd3e11713fbf934bc690d330b53e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa7ef007be02ece798e0c9fe3c1fbceaf"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:a46c2be8834cb6a95e572993daae5697e"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#a4a000f749faecc744ca9074301e038f3">dist</a></td></tr>
+<tr class="separator:a46c2be8834cb6a95e572993daae5697e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa7ef007be02ece798e0c9fe3c1fbceaf"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#a1c8c169cefe9405ea1eb31664e9238b5">playerDistance</a></td></tr>
+<tr class="separator:aa7ef007be02ece798e0c9fe3c1fbceaf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aae5086ee2423ea9d3e3ac9d19b691cc0"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:a69ca2e9cb0b2ed2049f5905746247ae9"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#afd68fe281c872f9d960b7eb40cc5fba9">minDist</a></td></tr>
+<tr class="separator:a69ca2e9cb0b2ed2049f5905746247ae9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1f815407f4c96563211ad8aa090cf03f"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#a3be697bd5161ea28f96e855ec6dd5d06">maxDist</a></td></tr>
+<tr class="separator:a1f815407f4c96563211ad8aa090cf03f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a11fb1cf2d200b58bbc646e17b9c67b78"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#ab92246c1f3e1c3eef1448383c11db8b7">maxCount</a></td></tr>
+<tr class="separator:a11fb1cf2d200b58bbc646e17b9c67b78"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aae5086ee2423ea9d3e3ac9d19b691cc0"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#a774a93e38334ea5981ccbc2a54f0412d">playerRange</a></td></tr>
+<tr class="separator:aae5086ee2423ea9d3e3ac9d19b691cc0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9f578ae53a4dfddf2dfcd279f8bff5a8"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:af83cfe567f2ed984c7da3f4e2cb6013f"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#ac73ba4a6792fef5f02dc5af2b2303f97">id</a></td></tr>
+<tr class="separator:af83cfe567f2ed984c7da3f4e2cb6013f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9f578ae53a4dfddf2dfcd279f8bff5a8"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#aef8b97bebdcef4174c1dd8b33f8ad025">stored</a></td></tr>
+<tr class="separator:a9f578ae53a4dfddf2dfcd279f8bff5a8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a72fefcd4d229e5dbb2bd1747d1bd2ee5"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:a454f9b794531a86884dddfa0be81352c"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#a776dd7a96577ad914d7856d27205e064">entry</a></td></tr>
+<tr class="separator:a454f9b794531a86884dddfa0be81352c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a96da2a650016995961c991bc4277dcd4"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#afd68fe281c872f9d960b7eb40cc5fba9">minDist</a></td></tr>
+<tr class="separator:a96da2a650016995961c991bc4277dcd4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af9cc839fe6b0fd4b0c2e1ee6b1be6ce0"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#a3be697bd5161ea28f96e855ec6dd5d06">maxDist</a></td></tr>
+<tr class="separator:af9cc839fe6b0fd4b0c2e1ee6b1be6ce0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a72fefcd4d229e5dbb2bd1747d1bd2ee5"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#a33c77c8756fc559467ba621dbd4f7f0e">goRange</a></td></tr>
+<tr class="separator:a72fefcd4d229e5dbb2bd1747d1bd2ee5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a80ad056d69713c3318cfba12b15a924d"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:ae4301bdd1592173d974e82e90ee73de4"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#a6485b621fa6bb529b7cff1c4bc63c8df">dbGuid</a></td></tr>
+<tr class="separator:ae4301bdd1592173d974e82e90ee73de4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af56c1ea848aea2cddad186f0a43b85b5"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#a776dd7a96577ad914d7856d27205e064">entry</a></td></tr>
+<tr class="separator:af56c1ea848aea2cddad186f0a43b85b5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a80ad056d69713c3318cfba12b15a924d"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#a4d4dbefed710810947b43e9d7a19f417">goGUID</a></td></tr>
+<tr class="separator:a80ad056d69713c3318cfba12b15a924d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adcd2113af50f36f41c3cb20bb738761b"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:ac8434c010f07888fef8581aa96fc101e"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#a776dd7a96577ad914d7856d27205e064">entry</a></td></tr>
+<tr class="separator:ac8434c010f07888fef8581aa96fc101e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a51744ab3f716ec7557ebe1c457c8590f"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#a4a000f749faecc744ca9074301e038f3">dist</a></td></tr>
+<tr class="separator:a51744ab3f716ec7557ebe1c457c8590f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adcd2113af50f36f41c3cb20bb738761b"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#a5cb2f6adcedfb1e83c816e7acab7844d">goDistance</a></td></tr>
+<tr class="separator:adcd2113af50f36f41c3cb20bb738761b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3483edeef698f826b1653e87b49fe28f"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:a6c72741ae01bd0f1e9efaa534362c092"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#a776dd7a96577ad914d7856d27205e064">entry</a></td></tr>
+<tr class="separator:a6c72741ae01bd0f1e9efaa534362c092"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aaf8f41699220f672bfb6a3cae44e212f"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#a4a000f749faecc744ca9074301e038f3">dist</a></td></tr>
+<tr class="separator:aaf8f41699220f672bfb6a3cae44e212f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4fb7cdabec6776faa2b8a30a2d0469de"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../de/d70/a01415.html#a96a00b1ae7179b02b6ee7e68ed92c6ac">SAIBool</a>&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#a5d72ed7a43cb807080d7d5461fffaecd">dead</a></td></tr>
+<tr class="separator:a4fb7cdabec6776faa2b8a30a2d0469de"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3483edeef698f826b1653e87b49fe28f"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#a21c24fbbee9866a4dc3b42fd0bd5e196">unitClosest</a></td></tr>
+<tr class="separator:a3483edeef698f826b1653e87b49fe28f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8f7ebbea8dfabf1a31178bc5c9878528"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:a848b367fa79cc5ad7ea78af76fecd783"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../de/d70/a01415.html#a96a00b1ae7179b02b6ee7e68ed92c6ac">SAIBool</a>&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#a59e03101305ccf733a6bdb0e80fe1cce">useCharmerOrOwner</a></td></tr>
+<tr class="separator:a848b367fa79cc5ad7ea78af76fecd783"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8f7ebbea8dfabf1a31178bc5c9878528"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#aba129a5ced35898c1832f0a02498aac8">owner</a></td></tr>
+<tr class="separator:a8f7ebbea8dfabf1a31178bc5c9878528"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae9ffee8fe38a6daba1e01591f38e8944"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:a33296573840b70c014a550341d5e5e9c"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#a61f23fdc1b87de34bd2a6b08d1cae97d">seatMask</a></td></tr>
+<tr class="separator:a33296573840b70c014a550341d5e5e9c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae9ffee8fe38a6daba1e01591f38e8944"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#a62e3ea34a7cbe34515bd075373a8b947">vehicle</a></td></tr>
+<tr class="separator:ae9ffee8fe38a6daba1e01591f38e8944"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4d27d4cc5905676cfe2656bc1ba9e06e"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:a40ea8822facc3821d920a98389ee782f"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#a3be697bd5161ea28f96e855ec6dd5d06">maxDist</a></td></tr>
+<tr class="separator:a40ea8822facc3821d920a98389ee782f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4d27d4cc5905676cfe2656bc1ba9e06e"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#ab07e530801fe29fc06c5beb6ef05dfa3">threatList</a></td></tr>
+<tr class="separator:a4d27d4cc5905676cfe2656bc1ba9e06e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0fcef1cafb8aef579f78053a3f58d1a7"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:a21c466cb941272a8b891ab8c9e2410bb"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#a776dd7a96577ad914d7856d27205e064">entry</a></td></tr>
+<tr class="separator:a21c466cb941272a8b891ab8c9e2410bb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a73ba3e3304a8f329e4d10ac11d10de98"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#a4a000f749faecc744ca9074301e038f3">dist</a></td></tr>
+<tr class="separator:a73ba3e3304a8f329e4d10ac11d10de98"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a23285b86fd4d9e2d0a121f76e3579c90"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#a071915d21320b5469c8edf93e208f7d2">onlySpawned</a></td></tr>
+<tr class="separator:a23285b86fd4d9e2d0a121f76e3579c90"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0fcef1cafb8aef579f78053a3f58d1a7"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#a399e0238ac835db29942cd21d3453c61">goClosest</a></td></tr>
+<tr class="separator:a0fcef1cafb8aef579f78053a3f58d1a7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab77af4d9ffdc83d4a4b81f95f23b3c19"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:af044eceab1f1a8111afb7faf29b4f6a8"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#a3be697bd5161ea28f96e855ec6dd5d06">maxDist</a></td></tr>
+<tr class="separator:af044eceab1f1a8111afb7faf29b4f6a8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0e78c0923982c85cb6c08ffae48673e7"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../de/d70/a01415.html#a96a00b1ae7179b02b6ee7e68ed92c6ac">SAIBool</a>&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#a5d5c979cd4cfd87f978d065ff7c03d01">playerOnly</a></td></tr>
+<tr class="separator:a0e78c0923982c85cb6c08ffae48673e7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab77af4d9ffdc83d4a4b81f95f23b3c19"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#ad270d6c70763616eca497500a4f81d63">closestAttackable</a></td></tr>
+<tr class="separator:ab77af4d9ffdc83d4a4b81f95f23b3c19"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1c22bc756677f609d3f56dfc71ea4ea1"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:aeb1aecf0ed3627e6d2551f3fea1b7823"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#a3be697bd5161ea28f96e855ec6dd5d06">maxDist</a></td></tr>
+<tr class="separator:aeb1aecf0ed3627e6d2551f3fea1b7823"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9e0e5a8a3e540f473bd37b642e8f7fe1"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../de/d70/a01415.html#a96a00b1ae7179b02b6ee7e68ed92c6ac">SAIBool</a>&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#a5d5c979cd4cfd87f978d065ff7c03d01">playerOnly</a></td></tr>
+<tr class="separator:a9e0e5a8a3e540f473bd37b642e8f7fe1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1c22bc756677f609d3f56dfc71ea4ea1"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#a9095fe57f1ed331e56303cb8e610c2bf">closestFriendly</a></td></tr>
+<tr class="separator:a1c22bc756677f609d3f56dfc71ea4ea1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6bcd6e4ac5eb9c27e9941426e738e8f7"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:a62f15a6477920bcb9e16d1b22888f14a"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#a574fa96928ef9dbca12649c55b7ea596">range</a></td></tr>
+<tr class="separator:a62f15a6477920bcb9e16d1b22888f14a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1220e30b85d41495e703a6d12f4acecc"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#a8772407f3c557a577055190db8e6345f">amount</a></td></tr>
+<tr class="separator:a1220e30b85d41495e703a6d12f4acecc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afc138b5474a07839d989e7b57daf4a2f"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#a726279330a1fa9fc4fb89a3d338bf04d">self</a></td></tr>
+<tr class="separator:afc138b5474a07839d989e7b57daf4a2f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6bcd6e4ac5eb9c27e9941426e738e8f7"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#a855c817ec8a69aae1d0e145667f7490b">randomPoint</a></td></tr>
+<tr class="separator:a6bcd6e4ac5eb9c27e9941426e738e8f7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac07e9a8d11a5dfc65a54886100f57eb0"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:a3da30b451d2c94c433ac2527243b84c2"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#a2ed93baf995e552b1bf290ca7a3c21d9">spellId</a></td></tr>
+<tr class="separator:a3da30b451d2c94c433ac2527243b84c2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0f26ff1ee69c4269c85e72a4e69314cf"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#af83071775da34749226ea32c6421d0dd">negation</a></td></tr>
+<tr class="separator:a0f26ff1ee69c4269c85e72a4e69314cf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae3ec0e47a577c4d7be03f87e81925811"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#a15c71966dd35ba4175810f9d84276966">distMax</a></td></tr>
+<tr class="separator:ae3ec0e47a577c4d7be03f87e81925811"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a535366d8fd73e7ec88586cc1242e7611"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#a0f023bbfa25dbd3c818b1f5d990d22ef">distMin</a></td></tr>
+<tr class="separator:a535366d8fd73e7ec88586cc1242e7611"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac07e9a8d11a5dfc65a54886100f57eb0"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#aa5ce6aa37d064ecad0bf31bee77fe4bc">playerWithAura</a></td></tr>
+<tr class="separator:ac07e9a8d11a5dfc65a54886100f57eb0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a98446dbe2969b6e2d82c69184d57eb0b"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:a3e8c880242b085699387da47016d3616"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#a776dd7a96577ad914d7856d27205e064">entry</a></td></tr>
+<tr class="separator:a3e8c880242b085699387da47016d3616"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a98446dbe2969b6e2d82c69184d57eb0b"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#a4cd6d9c4facbfea1e0e7528ef9fac275">summonedCreatures</a></td></tr>
+<tr class="separator:a98446dbe2969b6e2d82c69184d57eb0b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7956df1c7df2890ff1c3f26e57c2daca"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:a285d89dd6993b216e6ed5427fb43f785"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#a47ca1b5e1d5a12bed1934e1eb0c82306">param1</a></td></tr>
+<tr class="separator:a285d89dd6993b216e6ed5427fb43f785"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0121310b7221224af8832457299d68f8"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#ae59a95b879b52ccd14f02f0194f3e0cd">param2</a></td></tr>
+<tr class="separator:a0121310b7221224af8832457299d68f8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ace257233b556b7e85627b2febff0b9f5"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#a8bab79ccc6157e5b8b2a1c2c9d81a415">param3</a></td></tr>
+<tr class="separator:ace257233b556b7e85627b2febff0b9f5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab88bfefab0f1020cb20eae06e332d10d"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#a13101dc99bd1bf29036520d0df6557ee">param4</a></td></tr>
+<tr class="separator:ab88bfefab0f1020cb20eae06e332d10d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7956df1c7df2890ff1c3f26e57c2daca"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#ab9bfbf8a4e4f8a6e29afe3f689e5fc2d">raw</a></td></tr>
+<tr class="separator:a7956df1c7df2890ff1c3f26e57c2daca"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a006f41eab362ae89b9c284f7fcbc8c10"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:af1c7ff8bbd7791f3745fff81ac9e47a2"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#adc7617915da647fb6f70ddca99723c1e">index</a></td></tr>
+<tr class="separator:af1c7ff8bbd7791f3745fff81ac9e47a2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a131da6cdc9441a886a4273e2ca0a9071"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#a647e6d839f3e58848c1088755d3122a1">type</a></td></tr>
+<tr class="separator:a131da6cdc9441a886a4273e2ca0a9071"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a006f41eab362ae89b9c284f7fcbc8c10"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#a710fe7c9ecb56590028ef1f4c9a4c7c8">instanceStorage</a></td></tr>
+<tr class="separator:a006f41eab362ae89b9c284f7fcbc8c10"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aaaeab3c821dcae5c0a5aa57c0c384c53"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:a18865df62db77046f69ec57c0f6b316a"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../de/d70/a01415.html#a96a00b1ae7179b02b6ee7e68ed92c6ac">SAIBool</a>&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#a5aaa94e956b2653c8b7da95b1885c1a1">includePets</a></td></tr>
+<tr class="separator:a18865df62db77046f69ec57c0f6b316a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aaaeab3c821dcae5c0a5aa57c0c384c53"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../df/da0/a06936.html#aceef5924f39a4d767b99255a386ce2bf">invokerParty</a></td></tr>
+<tr class="separator:aaaeab3c821dcae5c0a5aa57c0c384c53"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a80705486836388f057c23cbd71b9cd2a"><td class="memItemLeft" valign="top">};&#160;</td><td class="memItemRight" valign="bottom"></td></tr>
+<tr class="separator:a80705486836388f057c23cbd71b9cd2a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Member Typedef Documentation</h2>
-<a id="a8abeae830f5692c45bd0b880ba62e743" name="a8abeae830f5692c45bd0b880ba62e743"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8abeae830f5692c45bd0b880ba62e743">&#9670;&#160;</a></span>AutobroadcastsMap</h2>
+<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="af648cbf7934ad423724a994f9cabc4b6" name="af648cbf7934ad423724a994f9cabc4b6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af648cbf7934ad423724a994f9cabc4b6">&#9670;&#160;</a></span>SmartTarget()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -164,383 +342,1087 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">typedef std::map&lt;<a class="el" href="../../d4/ddf/a00488.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>, std::string&gt; <a class="el" href="../../df/da0/a06936.html#a8abeae830f5692c45bd0b880ba62e743">AutobroadcastMgr::AutobroadcastsMap</a></td>
+          <td class="memname">SmartTarget::SmartTarget </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../de/d70/a01415.html#a20fbd4053053320ca4f2a803a09eb92e">SMARTAI_TARGETS</a>&#160;</td>
+          <td class="paramname"><em>t</em> = <code><a class="el" href="../../de/d70/a01415.html#a20fbd4053053320ca4f2a803a09eb92eae4f7681523b0f77ff2d889fb42a848ab">SMART_TARGET_NONE</a></code>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>p1</em> = <code>0</code>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>p2</em> = <code>0</code>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>p3</em> = <code>0</code>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>p4</em> = <code>0</code>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-
-</div>
-</div>
-<a id="a75e5b978794a7010c8d9d3390d8690f9" name="a75e5b978794a7010c8d9d3390d8690f9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a75e5b978794a7010c8d9d3390d8690f9">&#9670;&#160;</a></span>AutobroadcastsWeightMap</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">typedef std::map&lt;<a class="el" href="../../d4/ddf/a00488.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>, <a class="el" href="../../d4/ddf/a00488.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&gt; <a class="el" href="../../df/da0/a06936.html#a75e5b978794a7010c8d9d3390d8690f9">AutobroadcastMgr::AutobroadcastsWeightMap</a></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<h2 class="groupheader">Member Function Documentation</h2>
-<a id="aead196df7f590d43c89f179ca0bd4a68" name="aead196df7f590d43c89f179ca0bd4a68"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aead196df7f590d43c89f179ca0bd4a68">&#9670;&#160;</a></span>instance()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../df/da0/a06936.html">AutobroadcastMgr</a> * AutobroadcastMgr::instance </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   25</span>{</div>
-<div class="line"><span class="lineno">   26</span>    <span class="keyword">static</span> <a class="code hl_class" href="../../df/da0/a06936.html">AutobroadcastMgr</a> <a class="code hl_function" href="../../df/da0/a06936.html#aead196df7f590d43c89f179ca0bd4a68">instance</a>;</div>
-<div class="line"><span class="lineno">   27</span>    <span class="keywordflow">return</span> &amp;<a class="code hl_function" href="../../df/da0/a06936.html#aead196df7f590d43c89f179ca0bd4a68">instance</a>;</div>
-<div class="line"><span class="lineno">   28</span>}</div>
-<div class="ttc" id="aa06936_html"><div class="ttname"><a href="../../df/da0/a06936.html">AutobroadcastMgr</a></div><div class="ttdef"><b>Definition:</b> AutobroadcastMgr.h:32</div></div>
-<div class="ttc" id="aa06936_html_aead196df7f590d43c89f179ca0bd4a68"><div class="ttname"><a href="../../df/da0/a06936.html#aead196df7f590d43c89f179ca0bd4a68">AutobroadcastMgr::instance</a></div><div class="ttdeci">static AutobroadcastMgr * instance()</div><div class="ttdef"><b>Definition:</b> AutobroadcastMgr.cpp:24</div></div>
+<div class="fragment"><div class="line"><span class="lineno"> 1579</span>    {</div>
+<div class="line"><span class="lineno"> 1580</span>        <a class="code hl_variable" href="../../df/da0/a06936.html#acd89b43d2caa64668e5ed82cd4e7cda5">type</a> = t;</div>
+<div class="line"><span class="lineno"> 1581</span>        <a class="code hl_variable" href="../../df/da0/a06936.html#ab9bfbf8a4e4f8a6e29afe3f689e5fc2d">raw</a>.param1 = p1;</div>
+<div class="line"><span class="lineno"> 1582</span>        <a class="code hl_variable" href="../../df/da0/a06936.html#ab9bfbf8a4e4f8a6e29afe3f689e5fc2d">raw</a>.param2 = p2;</div>
+<div class="line"><span class="lineno"> 1583</span>        <a class="code hl_variable" href="../../df/da0/a06936.html#ab9bfbf8a4e4f8a6e29afe3f689e5fc2d">raw</a>.param3 = p3;</div>
+<div class="line"><span class="lineno"> 1584</span>        <a class="code hl_variable" href="../../df/da0/a06936.html#ab9bfbf8a4e4f8a6e29afe3f689e5fc2d">raw</a>.param4 = p4;</div>
+<div class="line"><span class="lineno"> 1585</span>        <a class="code hl_variable" href="../../df/da0/a06936.html#a6a31784c4f9f3955e0cc5cf16687fd82">x</a> = 0.0f;</div>
+<div class="line"><span class="lineno"> 1586</span>        <a class="code hl_variable" href="../../df/da0/a06936.html#aaa06940768e7b9e08e549af80ab40650">y</a> = 0.0f;</div>
+<div class="line"><span class="lineno"> 1587</span>        <a class="code hl_variable" href="../../df/da0/a06936.html#acb52eb278431dc7a11e460c6c53c8f8e">z</a> = 0.0f;</div>
+<div class="line"><span class="lineno"> 1588</span>        <a class="code hl_variable" href="../../df/da0/a06936.html#a28a91da4b59f75cd41df0e712337b291">o</a> = 0.0f;</div>
+<div class="line"><span class="lineno"> 1589</span>    }</div>
+<div class="ttc" id="aa06936_html_a28a91da4b59f75cd41df0e712337b291"><div class="ttname"><a href="../../df/da0/a06936.html#a28a91da4b59f75cd41df0e712337b291">SmartTarget::o</a></div><div class="ttdeci">float o</div><div class="ttdef"><b>Definition:</b> SmartScriptMgr.h:1591</div></div>
+<div class="ttc" id="aa06936_html_a6a31784c4f9f3955e0cc5cf16687fd82"><div class="ttname"><a href="../../df/da0/a06936.html#a6a31784c4f9f3955e0cc5cf16687fd82">SmartTarget::x</a></div><div class="ttdeci">float x</div><div class="ttdef"><b>Definition:</b> SmartScriptMgr.h:1591</div></div>
+<div class="ttc" id="aa06936_html_aaa06940768e7b9e08e549af80ab40650"><div class="ttname"><a href="../../df/da0/a06936.html#aaa06940768e7b9e08e549af80ab40650">SmartTarget::y</a></div><div class="ttdeci">float y</div><div class="ttdef"><b>Definition:</b> SmartScriptMgr.h:1591</div></div>
+<div class="ttc" id="aa06936_html_ab9bfbf8a4e4f8a6e29afe3f689e5fc2d"><div class="ttname"><a href="../../df/da0/a06936.html#ab9bfbf8a4e4f8a6e29afe3f689e5fc2d">SmartTarget::raw</a></div><div class="ttdeci">struct SmartTarget::@196::@220 raw</div></div>
+<div class="ttc" id="aa06936_html_acb52eb278431dc7a11e460c6c53c8f8e"><div class="ttname"><a href="../../df/da0/a06936.html#acb52eb278431dc7a11e460c6c53c8f8e">SmartTarget::z</a></div><div class="ttdeci">float z</div><div class="ttdef"><b>Definition:</b> SmartScriptMgr.h:1591</div></div>
+<div class="ttc" id="aa06936_html_acd89b43d2caa64668e5ed82cd4e7cda5"><div class="ttname"><a href="../../df/da0/a06936.html#acd89b43d2caa64668e5ed82cd4e7cda5">SmartTarget::type</a></div><div class="ttdeci">SMARTAI_TARGETS type</div><div class="ttdef"><b>Definition:</b> SmartScriptMgr.h:1590</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00024">instance()</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00024">instance()</a>.</p>
-
-</div>
-</div>
-<a id="a48748969b122aee47d03697b6e9a2ee1" name="a48748969b122aee47d03697b6e9a2ee1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a48748969b122aee47d03697b6e9a2ee1">&#9670;&#160;</a></span>LoadAutobroadcasts()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void AutobroadcastMgr::LoadAutobroadcasts </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   31</span>{</div>
-<div class="line"><span class="lineno">   32</span>    <a class="code hl_typedef" href="../../d4/ddf/a00488.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> oldMSTime = <a class="code hl_function" href="../../d9/dd1/a00398.html#a4476c8e13ea790c3536f2749105f9cb9">getMSTime</a>();</div>
-<div class="line"><span class="lineno">   33</span> </div>
-<div class="line"><span class="lineno">   34</span>    <a class="code hl_variable" href="../../df/da0/a06936.html#a06d42010fea307a03aac0ca4e6886f1d">_autobroadcasts</a>.clear();</div>
-<div class="line"><span class="lineno">   35</span>    <a class="code hl_variable" href="../../df/da0/a06936.html#aadbd8ca926a64be4fbbe832fd633ee88">_autobroadcastsWeights</a>.clear();</div>
-<div class="line"><span class="lineno">   36</span> </div>
-<div class="line"><span class="lineno">   37</span>    <a class="code hl_typedef" href="../../d4/ddf/a00488.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> realmId = <a class="code hl_define" href="../../de/d55/a00323.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;<a class="code hl_typedef" href="../../d4/ddf/a00488.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&gt;(<span class="stringliteral">&quot;RealmID&quot;</span>, 0);</div>
-<div class="line"><span class="lineno">   38</span>    <a class="code hl_class" href="../../d3/d7c/a05572.html">LoginDatabasePreparedStatement</a>* stmt = <a class="code hl_variable" href="../../d1/df7/a02501.html#a2cf25eafe7f2f73b61ccde11d55daf0c">LoginDatabase</a>.GetPreparedStatement(<a class="code hl_enumvalue" href="../../dc/d5c/a02459.html#a2bc6eef17d8ecd1b7027058f5fecc9fba9980b74fcece706b35f1723dd2c9bf9d">LOGIN_SEL_AUTOBROADCAST</a>);</div>
-<div class="line"><span class="lineno">   39</span>    stmt-&gt;SetData(0, realmId);</div>
-<div class="line"><span class="lineno">   40</span>    <a class="code hl_typedef" href="../../dc/d09/a02429.html#ac6110b8d867b5f84f677555d07037acb">PreparedQueryResult</a> result = <a class="code hl_variable" href="../../d1/df7/a02501.html#a2cf25eafe7f2f73b61ccde11d55daf0c">LoginDatabase</a>.Query(stmt);</div>
-<div class="line"><span class="lineno">   41</span> </div>
-<div class="line"><span class="lineno">   42</span>    <span class="keywordflow">if</span> (!result)</div>
-<div class="line"><span class="lineno">   43</span>    {</div>
-<div class="line"><span class="lineno">   44</span>        <a class="code hl_define" href="../../df/d03/a00062.html#adf09840a666e1d86bcd3439105db6edc">LOG_WARN</a>(<span class="stringliteral">&quot;autobroadcast&quot;</span>, <span class="stringliteral">&quot;&gt;&gt; Loaded 0 autobroadcasts definitions. DB table `autobroadcast` is empty for this realm!&quot;</span>);</div>
-<div class="line"><span class="lineno">   45</span>        <a class="code hl_define" href="../../df/d03/a00062.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;autobroadcast&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
-<div class="line"><span class="lineno">   46</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">   47</span>    }</div>
-<div class="line"><span class="lineno">   48</span> </div>
-<div class="line"><span class="lineno">   49</span>    <a class="code hl_variable" href="../../df/da0/a06936.html#a3889edc4001e26519d9df042a8b477fc">_announceType</a> = <span class="keyword">static_cast&lt;</span><a class="code hl_enumeration" href="../../d0/dce/a01946.html#a28a4ef2f64643c76d8be05bf9eafc731">AnnounceType</a><span class="keyword">&gt;</span>(<a class="code hl_define" href="../../db/da5/a04663.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getIntConfig(<a class="code hl_enumvalue" href="../../da/d66/a01856.html#a17aac4c166ebe43e3b8fdccf9e012e41a00c270cba7ea28db008d3449da2f326d">CONFIG_AUTOBROADCAST_CENTER</a>));</div>
-<div class="line"><span class="lineno">   50</span> </div>
-<div class="line"><span class="lineno">   51</span>    <span class="keywordflow">if</span> (_announceType &lt; AnnounceType::World || _announceType &gt; AnnounceType::Both)</div>
-<div class="line"><span class="lineno">   52</span>    {</div>
-<div class="line"><span class="lineno">   53</span>        <a class="code hl_define" href="../../df/d03/a00062.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;autobroadcast&quot;</span>, <span class="stringliteral">&quot;AutobroadcastMgr::LoadAutobroadcasts: Config option AutoBroadcast.Center set to not allowed value {}. Set to default value 0&quot;</span>, (<a class="code hl_typedef" href="../../d4/ddf/a00488.html#a3bb8a71f4ae9af551f71e9eb2c9c3325">int8</a>)<a class="code hl_variable" href="../../df/da0/a06936.html#a3889edc4001e26519d9df042a8b477fc">_announceType</a>);</div>
-<div class="line"><span class="lineno">   54</span>        <a class="code hl_variable" href="../../df/da0/a06936.html#a3889edc4001e26519d9df042a8b477fc">_announceType</a> = AnnounceType::World;</div>
-<div class="line"><span class="lineno">   55</span>    }</div>
-<div class="line"><span class="lineno">   56</span> </div>
-<div class="line"><span class="lineno">   57</span>    <a class="code hl_typedef" href="../../d4/ddf/a00488.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> count = 0;</div>
-<div class="line"><span class="lineno">   58</span> </div>
-<div class="line"><span class="lineno">   59</span>    <span class="keywordflow">do</span></div>
-<div class="line"><span class="lineno">   60</span>    {</div>
-<div class="line"><span class="lineno">   61</span>        <a class="code hl_class" href="../../dd/dd4/a05604.html">Field</a>* fields = result-&gt;Fetch();</div>
-<div class="line"><span class="lineno">   62</span>        <a class="code hl_typedef" href="../../d4/ddf/a00488.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> <span class="keywordtype">id</span> = fields[0].<a class="code hl_function" href="../../dd/dd4/a05604.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d4/ddf/a00488.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&gt;();</div>
-<div class="line"><span class="lineno">   63</span> </div>
-<div class="line"><span class="lineno">   64</span>        <a class="code hl_variable" href="../../df/da0/a06936.html#a06d42010fea307a03aac0ca4e6886f1d">_autobroadcasts</a>[id] = fields[2].<a class="code hl_function" href="../../dd/dd4/a05604.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;std::string&gt;();</div>
-<div class="line"><span class="lineno">   65</span>        <a class="code hl_variable" href="../../df/da0/a06936.html#aadbd8ca926a64be4fbbe832fd633ee88">_autobroadcastsWeights</a>[id] = fields[1].<a class="code hl_function" href="../../dd/dd4/a05604.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d4/ddf/a00488.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&gt;();</div>
-<div class="line"><span class="lineno">   66</span> </div>
-<div class="line"><span class="lineno">   67</span>        ++count;</div>
-<div class="line"><span class="lineno">   68</span>    } <span class="keywordflow">while</span> (result-&gt;NextRow());</div>
-<div class="line"><span class="lineno">   69</span> </div>
-<div class="line"><span class="lineno">   70</span>    <a class="code hl_define" href="../../df/d03/a00062.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;autobroadcast&quot;</span>, <span class="stringliteral">&quot;&gt;&gt; Loaded {} Autobroadcast Definitions in {} ms&quot;</span>, count, <a class="code hl_function" href="../../d9/dd1/a00398.html#a23a2c8663a05f2b03a6f85501972e8c0">GetMSTimeDiffToNow</a>(oldMSTime));</div>
-<div class="line"><span class="lineno">   71</span>    <a class="code hl_define" href="../../df/d03/a00062.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;autobroadcast&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
-<div class="line"><span class="lineno">   72</span>}</div>
-<div class="ttc" id="aa00062_html_a271e427d8e8481efd5cd5f537ec9e419"><div class="ttname"><a href="../../df/d03/a00062.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a></div><div class="ttdeci">#define LOG_INFO(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:164</div></div>
-<div class="ttc" id="aa00062_html_a43832e3fa8508deb4ce43e520005fcd9"><div class="ttname"><a href="../../df/d03/a00062.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a></div><div class="ttdeci">#define LOG_ERROR(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:156</div></div>
-<div class="ttc" id="aa00062_html_adf09840a666e1d86bcd3439105db6edc"><div class="ttname"><a href="../../df/d03/a00062.html#adf09840a666e1d86bcd3439105db6edc">LOG_WARN</a></div><div class="ttdeci">#define LOG_WARN(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:160</div></div>
-<div class="ttc" id="aa00323_html_a7236988e98bdd405bf435a029b70a26f"><div class="ttname"><a href="../../de/d55/a00323.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a></div><div class="ttdeci">#define sConfigMgr</div><div class="ttdef"><b>Definition:</b> Config.h:74</div></div>
-<div class="ttc" id="aa00398_html_a23a2c8663a05f2b03a6f85501972e8c0"><div class="ttname"><a href="../../d9/dd1/a00398.html#a23a2c8663a05f2b03a6f85501972e8c0">GetMSTimeDiffToNow</a></div><div class="ttdeci">uint32 GetMSTimeDiffToNow(uint32 oldMSTime)</div><div class="ttdef"><b>Definition:</b> Timer.h:131</div></div>
-<div class="ttc" id="aa00398_html_a4476c8e13ea790c3536f2749105f9cb9"><div class="ttname"><a href="../../d9/dd1/a00398.html#a4476c8e13ea790c3536f2749105f9cb9">getMSTime</a></div><div class="ttdeci">uint32 getMSTime()</div><div class="ttdef"><b>Definition:</b> Timer.h:103</div></div>
-<div class="ttc" id="aa00488_html_a0bf9964a3ce962c07ad3d8b5432bbbcd"><div class="ttname"><a href="../../d4/ddf/a00488.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a></div><div class="ttdeci">std::int32_t int32</div><div class="ttdef"><b>Definition:</b> Define.h:103</div></div>
-<div class="ttc" id="aa00488_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../d4/ddf/a00488.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition:</b> Define.h:109</div></div>
-<div class="ttc" id="aa00488_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d4/ddf/a00488.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
-<div class="ttc" id="aa00488_html_a3bb8a71f4ae9af551f71e9eb2c9c3325"><div class="ttname"><a href="../../d4/ddf/a00488.html#a3bb8a71f4ae9af551f71e9eb2c9c3325">int8</a></div><div class="ttdeci">std::int8_t int8</div><div class="ttdef"><b>Definition:</b> Define.h:105</div></div>
-<div class="ttc" id="aa01856_html_a17aac4c166ebe43e3b8fdccf9e012e41a00c270cba7ea28db008d3449da2f326d"><div class="ttname"><a href="../../da/d66/a01856.html#a17aac4c166ebe43e3b8fdccf9e012e41a00c270cba7ea28db008d3449da2f326d">CONFIG_AUTOBROADCAST_CENTER</a></div><div class="ttdeci">@ CONFIG_AUTOBROADCAST_CENTER</div><div class="ttdef"><b>Definition:</b> IWorld.h:359</div></div>
-<div class="ttc" id="aa01946_html_a28a4ef2f64643c76d8be05bf9eafc731"><div class="ttname"><a href="../../d0/dce/a01946.html#a28a4ef2f64643c76d8be05bf9eafc731">AnnounceType</a></div><div class="ttdeci">AnnounceType</div><div class="ttdef"><b>Definition:</b> AutobroadcastMgr.h:25</div></div>
-<div class="ttc" id="aa02429_html_ac6110b8d867b5f84f677555d07037acb"><div class="ttname"><a href="../../dc/d09/a02429.html#ac6110b8d867b5f84f677555d07037acb">PreparedQueryResult</a></div><div class="ttdeci">std::shared_ptr&lt; PreparedResultSet &gt; PreparedQueryResult</div><div class="ttdef"><b>Definition:</b> DatabaseEnvFwd.h:46</div></div>
-<div class="ttc" id="aa02459_html_a2bc6eef17d8ecd1b7027058f5fecc9fba9980b74fcece706b35f1723dd2c9bf9d"><div class="ttname"><a href="../../dc/d5c/a02459.html#a2bc6eef17d8ecd1b7027058f5fecc9fba9980b74fcece706b35f1723dd2c9bf9d">LOGIN_SEL_AUTOBROADCAST</a></div><div class="ttdeci">@ LOGIN_SEL_AUTOBROADCAST</div><div class="ttdef"><b>Definition:</b> LoginDatabase.h:99</div></div>
-<div class="ttc" id="aa02501_html_a2cf25eafe7f2f73b61ccde11d55daf0c"><div class="ttname"><a href="../../d1/df7/a02501.html#a2cf25eafe7f2f73b61ccde11d55daf0c">LoginDatabase</a></div><div class="ttdeci">DatabaseWorkerPool&lt; LoginDatabaseConnection &gt; LoginDatabase</div><div class="ttdoc">Accessor to the realm/login database.</div><div class="ttdef"><b>Definition:</b> DatabaseEnv.cpp:22</div></div>
-<div class="ttc" id="aa04663_html_ga05dfb35c344e5b947a19e4284e7f5fa7"><div class="ttname"><a href="../../db/da5/a04663.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a></div><div class="ttdeci">#define sWorld</div><div class="ttdef"><b>Definition:</b> World.h:444</div></div>
-<div class="ttc" id="aa05572_html"><div class="ttname"><a href="../../d3/d7c/a05572.html">PreparedStatement</a></div><div class="ttdef"><b>Definition:</b> PreparedStatement.h:158</div></div>
-<div class="ttc" id="aa05604_html"><div class="ttname"><a href="../../dd/dd4/a05604.html">Field</a></div><div class="ttdoc">Class used to access individual fields of database query result.</div><div class="ttdef"><b>Definition:</b> Field.h:99</div></div>
-<div class="ttc" id="aa05604_html_aae507d21d3570ffdaf1643ba02946f01"><div class="ttname"><a href="../../dd/dd4/a05604.html#aae507d21d3570ffdaf1643ba02946f01">Field::Get</a></div><div class="ttdeci">std::enable_if_t&lt; std::is_arithmetic_v&lt; T &gt;, T &gt; Get() const</div><div class="ttdef"><b>Definition:</b> Field.h:113</div></div>
-<div class="ttc" id="aa06936_html_a06d42010fea307a03aac0ca4e6886f1d"><div class="ttname"><a href="../../df/da0/a06936.html#a06d42010fea307a03aac0ca4e6886f1d">AutobroadcastMgr::_autobroadcasts</a></div><div class="ttdeci">AutobroadcastsMap _autobroadcasts</div><div class="ttdef"><b>Definition:</b> AutobroadcastMgr.h:46</div></div>
-<div class="ttc" id="aa06936_html_a3889edc4001e26519d9df042a8b477fc"><div class="ttname"><a href="../../df/da0/a06936.html#a3889edc4001e26519d9df042a8b477fc">AutobroadcastMgr::_announceType</a></div><div class="ttdeci">AnnounceType _announceType</div><div class="ttdef"><b>Definition:</b> AutobroadcastMgr.h:49</div></div>
-<div class="ttc" id="aa06936_html_aadbd8ca926a64be4fbbe832fd633ee88"><div class="ttname"><a href="../../df/da0/a06936.html#aadbd8ca926a64be4fbbe832fd633ee88">AutobroadcastMgr::_autobroadcastsWeights</a></div><div class="ttdeci">AutobroadcastsWeightMap _autobroadcastsWeights</div><div class="ttdef"><b>Definition:</b> AutobroadcastMgr.h:47</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00049">_announceType</a>, <a class="el" href="../../#l00046">_autobroadcasts</a>, <a class="el" href="../../#l00047">_autobroadcastsWeights</a>, <a class="el" href="../../#l00359">CONFIG_AUTOBROADCAST_CENTER</a>, <a class="el" href="../../#l00113">Field::Get()</a>, <a class="el" href="../../#l00103">getMSTime()</a>, <a class="el" href="../../#l00131">GetMSTimeDiffToNow()</a>, <a class="el" href="../../#l00156">LOG_ERROR</a>, <a class="el" href="../../#l00164">LOG_INFO</a>, <a class="el" href="../../#l00160">LOG_WARN</a>, <a class="el" href="../../#l00099">LOGIN_SEL_AUTOBROADCAST</a>, <a class="el" href="../../#l00022">LoginDatabase</a>, <a class="el" href="../../#l00074">sConfigMgr</a>, and <a class="el" href="../../#l00444">sWorld</a>.</p>
-
-</div>
-</div>
-<a id="a225907be4944713af11c312185c8aea7" name="a225907be4944713af11c312185c8aea7"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a225907be4944713af11c312185c8aea7">&#9670;&#160;</a></span>SendAutobroadcasts()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void AutobroadcastMgr::SendAutobroadcasts </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   75</span>{</div>
-<div class="line"><span class="lineno">   76</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../df/da0/a06936.html#a06d42010fea307a03aac0ca4e6886f1d">_autobroadcasts</a>.empty())</div>
-<div class="line"><span class="lineno">   77</span>    {</div>
-<div class="line"><span class="lineno">   78</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">   79</span>    }</div>
-<div class="line"><span class="lineno">   80</span> </div>
-<div class="line"><span class="lineno">   81</span>    <a class="code hl_typedef" href="../../d4/ddf/a00488.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> weight = 0;</div>
-<div class="line"><span class="lineno">   82</span>    <a class="code hl_typedef" href="../../df/da0/a06936.html#a75e5b978794a7010c8d9d3390d8690f9">AutobroadcastsWeightMap</a> selectionWeights;</div>
-<div class="line"><span class="lineno">   83</span> </div>
-<div class="line"><span class="lineno">   84</span>    std::string msg;</div>
-<div class="line"><span class="lineno">   85</span> </div>
-<div class="line"><span class="lineno">   86</span>    <span class="keywordflow">for</span> (AutobroadcastsWeightMap::const_iterator it = <a class="code hl_variable" href="../../df/da0/a06936.html#aadbd8ca926a64be4fbbe832fd633ee88">_autobroadcastsWeights</a>.begin(); it != <a class="code hl_variable" href="../../df/da0/a06936.html#aadbd8ca926a64be4fbbe832fd633ee88">_autobroadcastsWeights</a>.end(); ++it)</div>
-<div class="line"><span class="lineno">   87</span>    {</div>
-<div class="line"><span class="lineno">   88</span>        <span class="keywordflow">if</span> (it-&gt;second)</div>
-<div class="line"><span class="lineno">   89</span>        {</div>
-<div class="line"><span class="lineno">   90</span>            weight += it-&gt;second;</div>
-<div class="line"><span class="lineno">   91</span>            selectionWeights[it-&gt;first] = it-&gt;second;</div>
-<div class="line"><span class="lineno">   92</span>        }</div>
-<div class="line"><span class="lineno">   93</span>    }</div>
-<div class="line"><span class="lineno">   94</span> </div>
-<div class="line"><span class="lineno">   95</span>    <span class="keywordflow">if</span> (weight)</div>
-<div class="line"><span class="lineno">   96</span>    {</div>
-<div class="line"><span class="lineno">   97</span>        <a class="code hl_typedef" href="../../d4/ddf/a00488.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> selectedWeight = <a class="code hl_function" href="../../dd/df5/a00386.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a>(0, weight - 1);</div>
-<div class="line"><span class="lineno">   98</span>        weight = 0;</div>
-<div class="line"><span class="lineno">   99</span>        <span class="keywordflow">for</span> (AutobroadcastsWeightMap::const_iterator it = selectionWeights.begin(); it != selectionWeights.end(); ++it)</div>
-<div class="line"><span class="lineno">  100</span>        {</div>
-<div class="line"><span class="lineno">  101</span>            weight += it-&gt;second;</div>
-<div class="line"><span class="lineno">  102</span>            <span class="keywordflow">if</span> (selectedWeight &lt; weight)</div>
-<div class="line"><span class="lineno">  103</span>            {</div>
-<div class="line"><span class="lineno">  104</span>                msg = <a class="code hl_variable" href="../../df/da0/a06936.html#a06d42010fea307a03aac0ca4e6886f1d">_autobroadcasts</a>[it-&gt;first];</div>
-<div class="line"><span class="lineno">  105</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  106</span>            }</div>
-<div class="line"><span class="lineno">  107</span>        }</div>
-<div class="line"><span class="lineno">  108</span>    }</div>
-<div class="line"><span class="lineno">  109</span>    <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  110</span>    {</div>
-<div class="line"><span class="lineno">  111</span>        msg = <a class="code hl_variable" href="../../df/da0/a06936.html#a06d42010fea307a03aac0ca4e6886f1d">_autobroadcasts</a>[<a class="code hl_function" href="../../dd/df5/a00386.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a>(0, <a class="code hl_variable" href="../../df/da0/a06936.html#a06d42010fea307a03aac0ca4e6886f1d">_autobroadcasts</a>.size())];</div>
-<div class="line"><span class="lineno">  112</span>    }</div>
-<div class="line"><span class="lineno">  113</span> </div>
-<div class="line"><span class="lineno">  114</span>    <span class="keywordflow">switch</span> (<a class="code hl_variable" href="../../df/da0/a06936.html#a3889edc4001e26519d9df042a8b477fc">_announceType</a>)</div>
-<div class="line"><span class="lineno">  115</span>    {</div>
-<div class="line"><span class="lineno">  116</span>    <span class="keywordflow">case</span> AnnounceType::World:</div>
-<div class="line"><span class="lineno">  117</span>        <a class="code hl_function" href="../../df/da0/a06936.html#a64a9c246fe4b57463ecdd63d016c208b">SendWorldAnnouncement</a>(msg);</div>
-<div class="line"><span class="lineno">  118</span>        <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  119</span>    <span class="keywordflow">case</span> AnnounceType::Notification:</div>
-<div class="line"><span class="lineno">  120</span>        <a class="code hl_function" href="../../df/da0/a06936.html#a942de8b823a0c8d67b6193def73d4416">SendNotificationAnnouncement</a>(msg);</div>
-<div class="line"><span class="lineno">  121</span>        <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  122</span>    <span class="keywordflow">case</span> AnnounceType::Both:</div>
-<div class="line"><span class="lineno">  123</span>        <a class="code hl_function" href="../../df/da0/a06936.html#a64a9c246fe4b57463ecdd63d016c208b">SendWorldAnnouncement</a>(msg);</div>
-<div class="line"><span class="lineno">  124</span>        <a class="code hl_function" href="../../df/da0/a06936.html#a942de8b823a0c8d67b6193def73d4416">SendNotificationAnnouncement</a>(msg);</div>
-<div class="line"><span class="lineno">  125</span>    <span class="keywordflow">default</span>:</div>
-<div class="line"><span class="lineno">  126</span>        <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  127</span>    }</div>
-<div class="line"><span class="lineno">  128</span> </div>
-<div class="line"><span class="lineno">  129</span>    <a class="code hl_define" href="../../df/d03/a00062.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;autobroadcast&quot;</span>, <span class="stringliteral">&quot;AutobroadcastMgr::SendAutobroadcasts: &#39;{}&#39;&quot;</span>, msg);</div>
-<div class="line"><span class="lineno">  130</span>}</div>
-<div class="ttc" id="aa00062_html_a47ac782b14a7531c6232777165a1a161"><div class="ttname"><a href="../../df/d03/a00062.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a></div><div class="ttdeci">#define LOG_DEBUG(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:168</div></div>
-<div class="ttc" id="aa00386_html_ab17def34ccbbd868dc87a16bf35acdbd"><div class="ttname"><a href="../../dd/df5/a00386.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a></div><div class="ttdeci">uint32 urand(uint32 min, uint32 max)</div><div class="ttdef"><b>Definition:</b> Random.cpp:44</div></div>
-<div class="ttc" id="aa06936_html_a64a9c246fe4b57463ecdd63d016c208b"><div class="ttname"><a href="../../df/da0/a06936.html#a64a9c246fe4b57463ecdd63d016c208b">AutobroadcastMgr::SendWorldAnnouncement</a></div><div class="ttdeci">void SendWorldAnnouncement(std::string msg)</div><div class="ttdef"><b>Definition:</b> AutobroadcastMgr.cpp:132</div></div>
-<div class="ttc" id="aa06936_html_a75e5b978794a7010c8d9d3390d8690f9"><div class="ttname"><a href="../../df/da0/a06936.html#a75e5b978794a7010c8d9d3390d8690f9">AutobroadcastMgr::AutobroadcastsWeightMap</a></div><div class="ttdeci">std::map&lt; uint8, uint8 &gt; AutobroadcastsWeightMap</div><div class="ttdef"><b>Definition:</b> AutobroadcastMgr.h:44</div></div>
-<div class="ttc" id="aa06936_html_a942de8b823a0c8d67b6193def73d4416"><div class="ttname"><a href="../../df/da0/a06936.html#a942de8b823a0c8d67b6193def73d4416">AutobroadcastMgr::SendNotificationAnnouncement</a></div><div class="ttdeci">void SendNotificationAnnouncement(std::string msg)</div><div class="ttdef"><b>Definition:</b> AutobroadcastMgr.cpp:137</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00049">_announceType</a>, <a class="el" href="../../#l00046">_autobroadcasts</a>, <a class="el" href="../../#l00047">_autobroadcastsWeights</a>, <a class="el" href="../../#l00168">LOG_DEBUG</a>, <a class="el" href="../../#l00137">SendNotificationAnnouncement()</a>, <a class="el" href="../../#l00132">SendWorldAnnouncement()</a>, and <a class="el" href="../../#l00044">urand()</a>.</p>
-
-</div>
-</div>
-<a id="a942de8b823a0c8d67b6193def73d4416" name="a942de8b823a0c8d67b6193def73d4416"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a942de8b823a0c8d67b6193def73d4416">&#9670;&#160;</a></span>SendNotificationAnnouncement()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void AutobroadcastMgr::SendNotificationAnnouncement </td>
-          <td>(</td>
-          <td class="paramtype">std::string&#160;</td>
-          <td class="paramname"><em>msg</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  138</span>{</div>
-<div class="line"><span class="lineno">  139</span>    <a class="code hl_class" href="../../df/de3/a10668.html">WorldPacket</a> data(<a class="code hl_enumvalue" href="../../dd/d22/a04662.html#gga1073b6abb3a749f18bf1633020879e9ba4b7b8b48f5f1fe56a5c002d78bf1b14e">SMSG_NOTIFICATION</a>, (msg.size() + 1));</div>
-<div class="line"><span class="lineno">  140</span>    data &lt;&lt; msg.data();</div>
-<div class="line"><span class="lineno">  141</span>    <a class="code hl_define" href="../../db/da5/a04663.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;SendGlobalMessage(&amp;data);</div>
-<div class="line"><span class="lineno">  142</span>}</div>
-<div class="ttc" id="aa04662_html_gga1073b6abb3a749f18bf1633020879e9ba4b7b8b48f5f1fe56a5c002d78bf1b14e"><div class="ttname"><a href="../../dd/d22/a04662.html#gga1073b6abb3a749f18bf1633020879e9ba4b7b8b48f5f1fe56a5c002d78bf1b14e">SMSG_NOTIFICATION</a></div><div class="ttdeci">@ SMSG_NOTIFICATION</div><div class="ttdef"><b>Definition:</b> Opcodes.h:489</div></div>
-<div class="ttc" id="aa10668_html"><div class="ttname"><a href="../../df/de3/a10668.html">WorldPacket</a></div><div class="ttdef"><b>Definition:</b> WorldPacket.h:27</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00489">SMSG_NOTIFICATION</a>, and <a class="el" href="../../#l00444">sWorld</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00074">SendAutobroadcasts()</a>.</p>
-
-</div>
-</div>
-<a id="a64a9c246fe4b57463ecdd63d016c208b" name="a64a9c246fe4b57463ecdd63d016c208b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a64a9c246fe4b57463ecdd63d016c208b">&#9670;&#160;</a></span>SendWorldAnnouncement()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void AutobroadcastMgr::SendWorldAnnouncement </td>
-          <td>(</td>
-          <td class="paramtype">std::string&#160;</td>
-          <td class="paramname"><em>msg</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  133</span>{</div>
-<div class="line"><span class="lineno">  134</span>    <a class="code hl_class" href="../../d7/d41/a07260.html">ChatHandler</a>(<span class="keyword">nullptr</span>).<a class="code hl_function" href="../../d7/d41/a07260.html#a5123e186b501687e38dcde7ab51b42b4">SendWorldTextOptional</a>(<a class="code hl_enumvalue" href="../../d1/db0/a01928.html#af9ee42b1cf006ecb2d2e74fe71c0761aa40674451a5e3b270c0ff002fc8d13e9c">LANG_AUTO_BROADCAST</a>, <a class="code hl_enumvalue" href="../../d6/d1e/a02171.html#a32dfba2d10d91879403874fc75b928fda8cc308de4e117be878954235d6580c5e">ANNOUNCER_FLAG_DISABLE_AUTOBROADCAST</a>, msg.data());</div>
-<div class="line"><span class="lineno">  135</span>}</div>
-<div class="ttc" id="aa01928_html_af9ee42b1cf006ecb2d2e74fe71c0761aa40674451a5e3b270c0ff002fc8d13e9c"><div class="ttname"><a href="../../d1/db0/a01928.html#af9ee42b1cf006ecb2d2e74fe71c0761aa40674451a5e3b270c0ff002fc8d13e9c">LANG_AUTO_BROADCAST</a></div><div class="ttdeci">@ LANG_AUTO_BROADCAST</div><div class="ttdef"><b>Definition:</b> Language.h:1281</div></div>
-<div class="ttc" id="aa02171_html_a32dfba2d10d91879403874fc75b928fda8cc308de4e117be878954235d6580c5e"><div class="ttname"><a href="../../d6/d1e/a02171.html#a32dfba2d10d91879403874fc75b928fda8cc308de4e117be878954235d6580c5e">ANNOUNCER_FLAG_DISABLE_AUTOBROADCAST</a></div><div class="ttdeci">@ ANNOUNCER_FLAG_DISABLE_AUTOBROADCAST</div><div class="ttdef"><b>Definition:</b> PlayerSettings.h:35</div></div>
-<div class="ttc" id="aa07260_html"><div class="ttname"><a href="../../d7/d41/a07260.html">ChatHandler</a></div><div class="ttdef"><b>Definition:</b> Chat.h:39</div></div>
-<div class="ttc" id="aa07260_html_a5123e186b501687e38dcde7ab51b42b4"><div class="ttname"><a href="../../d7/d41/a07260.html#a5123e186b501687e38dcde7ab51b42b4">ChatHandler::SendWorldTextOptional</a></div><div class="ttdeci">void SendWorldTextOptional(std::string_view str, uint32 flag)</div><div class="ttdef"><b>Definition:</b> Chat.cpp:145</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00035">ANNOUNCER_FLAG_DISABLE_AUTOBROADCAST</a>, <a class="el" href="../../#l01281">LANG_AUTO_BROADCAST</a>, and <a class="el" href="../../#l00145">ChatHandler::SendWorldTextOptional()</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00074">SendAutobroadcasts()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01591">o</a>, <a class="el" href="../../df/da0/a06936.html#ab9bfbf8a4e4f8a6e29afe3f689e5fc2d">raw</a>, <a class="el" href="../../#l01590">type</a>, <a class="el" href="../../#l01591">x</a>, <a class="el" href="../../#l01591">y</a>, and <a class="el" href="../../#l01591">z</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a3889edc4001e26519d9df042a8b477fc" name="a3889edc4001e26519d9df042a8b477fc"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3889edc4001e26519d9df042a8b477fc">&#9670;&#160;</a></span>_announceType</h2>
+<a id="a80705486836388f057c23cbd71b9cd2a" name="a80705486836388f057c23cbd71b9cd2a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a80705486836388f057c23cbd71b9cd2a">&#9670;&#160;</a></span></h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d0/dce/a01946.html#a28a4ef2f64643c76d8be05bf9eafc731">AnnounceType</a> AutobroadcastMgr::_announceType</td>
+          <td class="memname">union  { ... }  SmartTarget::@197</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00030">LoadAutobroadcasts()</a>, and <a class="el" href="../../#l00074">SendAutobroadcasts()</a>.</p>
-
 </div>
 </div>
-<a id="a06d42010fea307a03aac0ca4e6886f1d" name="a06d42010fea307a03aac0ca4e6886f1d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a06d42010fea307a03aac0ca4e6886f1d">&#9670;&#160;</a></span>_autobroadcasts</h2>
+<a id="a8772407f3c557a577055190db8e6345f" name="a8772407f3c557a577055190db8e6345f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8772407f3c557a577055190db8e6345f">&#9670;&#160;</a></span>amount</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../df/da0/a06936.html#a8abeae830f5692c45bd0b880ba62e743">AutobroadcastsMap</a> AutobroadcastMgr::_autobroadcasts</td>
+          <td class="memname"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SmartTarget::amount</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00030">LoadAutobroadcasts()</a>, and <a class="el" href="../../#l00074">SendAutobroadcasts()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00163">SmartScript::ProcessAction()</a>.</p>
 
 </div>
 </div>
-<a id="aadbd8ca926a64be4fbbe832fd633ee88" name="aadbd8ca926a64be4fbbe832fd633ee88"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aadbd8ca926a64be4fbbe832fd633ee88">&#9670;&#160;</a></span>_autobroadcastsWeights</h2>
+<a id="a0f21c03faa25895f9355fc81790f0154" name="a0f21c03faa25895f9355fc81790f0154"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0f21c03faa25895f9355fc81790f0154">&#9670;&#160;</a></span>aura</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../df/da0/a06936.html#a75e5b978794a7010c8d9d3390d8690f9">AutobroadcastsWeightMap</a> AutobroadcastMgr::_autobroadcastsWeights</td>
+          <td class="memname"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SmartTarget::aura</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00030">LoadAutobroadcasts()</a>, and <a class="el" href="../../#l00074">SendAutobroadcasts()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>.</p>
+
+</div>
+</div>
+<a id="ad270d6c70763616eca497500a4f81d63" name="ad270d6c70763616eca497500a4f81d63"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad270d6c70763616eca497500a4f81d63">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  SmartTarget::closestAttackable</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00908">SmartAIMgr::CheckUnusedTargetParams()</a>, <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>, and <a class="el" href="../../#l00457">SmartAIMgr::IsTargetValid()</a>.</p>
+
+</div>
+</div>
+<a id="a9095fe57f1ed331e56303cb8e610c2bf" name="a9095fe57f1ed331e56303cb8e610c2bf"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9095fe57f1ed331e56303cb8e610c2bf">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  SmartTarget::closestFriendly</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00908">SmartAIMgr::CheckUnusedTargetParams()</a>, <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>, and <a class="el" href="../../#l00457">SmartAIMgr::IsTargetValid()</a>.</p>
+
+</div>
+</div>
+<a id="a83eeb205cdbbdee686d883f0ce3c6a37" name="a83eeb205cdbbdee686d883f0ce3c6a37"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a83eeb205cdbbdee686d883f0ce3c6a37">&#9670;&#160;</a></span>creature</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SmartTarget::creature</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>, and <a class="el" href="../../#l00457">SmartAIMgr::IsTargetValid()</a>.</p>
+
+</div>
+</div>
+<a id="a6485b621fa6bb529b7cff1c4bc63c8df" name="a6485b621fa6bb529b7cff1c4bc63c8df"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6485b621fa6bb529b7cff1c4bc63c8df">&#9670;&#160;</a></span>dbGuid</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SmartTarget::dbGuid</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>.</p>
+
+</div>
+</div>
+<a id="a5d72ed7a43cb807080d7d5461fffaecd" name="a5d72ed7a43cb807080d7d5461fffaecd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5d72ed7a43cb807080d7d5461fffaecd">&#9670;&#160;</a></span>dead</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../de/d70/a01415.html#a96a00b1ae7179b02b6ee7e68ed92c6ac">SAIBool</a> SmartTarget::dead</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>, and <a class="el" href="../../#l00457">SmartAIMgr::IsTargetValid()</a>.</p>
+
+</div>
+</div>
+<a id="a4a000f749faecc744ca9074301e038f3" name="a4a000f749faecc744ca9074301e038f3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4a000f749faecc744ca9074301e038f3">&#9670;&#160;</a></span>dist</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SmartTarget::dist</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>, and <a class="el" href="../../#l00457">SmartAIMgr::IsTargetValid()</a>.</p>
+
+</div>
+</div>
+<a id="a15c71966dd35ba4175810f9d84276966" name="a15c71966dd35ba4175810f9d84276966"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a15c71966dd35ba4175810f9d84276966">&#9670;&#160;</a></span>distMax</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SmartTarget::distMax</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>.</p>
+
+</div>
+</div>
+<a id="a0f023bbfa25dbd3c818b1f5d990d22ef" name="a0f023bbfa25dbd3c818b1f5d990d22ef"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0f023bbfa25dbd3c818b1f5d990d22ef">&#9670;&#160;</a></span>distMin</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SmartTarget::distMin</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>.</p>
+
+</div>
+</div>
+<a id="a776dd7a96577ad914d7856d27205e064" name="a776dd7a96577ad914d7856d27205e064"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a776dd7a96577ad914d7856d27205e064">&#9670;&#160;</a></span>entry</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SmartTarget::entry</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>, and <a class="el" href="../../#l00457">SmartAIMgr::IsTargetValid()</a>.</p>
+
+</div>
+</div>
+<a id="a8839cff7ecc867c727857681aab9aa4a" name="a8839cff7ecc867c727857681aab9aa4a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8839cff7ecc867c727857681aab9aa4a">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  SmartTarget::farthest</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00908">SmartAIMgr::CheckUnusedTargetParams()</a>, <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>, and <a class="el" href="../../#l00457">SmartAIMgr::IsTargetValid()</a>.</p>
+
+</div>
+</div>
+<a id="a399e0238ac835db29942cd21d3453c61" name="a399e0238ac835db29942cd21d3453c61"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a399e0238ac835db29942cd21d3453c61">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  SmartTarget::goClosest</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00908">SmartAIMgr::CheckUnusedTargetParams()</a>, and <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>.</p>
+
+</div>
+</div>
+<a id="a5cb2f6adcedfb1e83c816e7acab7844d" name="a5cb2f6adcedfb1e83c816e7acab7844d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5cb2f6adcedfb1e83c816e7acab7844d">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  SmartTarget::goDistance</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00908">SmartAIMgr::CheckUnusedTargetParams()</a>, <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>, and <a class="el" href="../../#l00457">SmartAIMgr::IsTargetValid()</a>.</p>
+
+</div>
+</div>
+<a id="a4d4dbefed710810947b43e9d7a19f417" name="a4d4dbefed710810947b43e9d7a19f417"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4d4dbefed710810947b43e9d7a19f417">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  SmartTarget::goGUID</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00908">SmartAIMgr::CheckUnusedTargetParams()</a>, <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>, and <a class="el" href="../../#l00457">SmartAIMgr::IsTargetValid()</a>.</p>
+
+</div>
+</div>
+<a id="a33c77c8756fc559467ba621dbd4f7f0e" name="a33c77c8756fc559467ba621dbd4f7f0e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a33c77c8756fc559467ba621dbd4f7f0e">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  SmartTarget::goRange</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00908">SmartAIMgr::CheckUnusedTargetParams()</a>, and <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>.</p>
+
+</div>
+</div>
+<a id="a49a7389f362f2d478ade48ac21b6cc37" name="a49a7389f362f2d478ade48ac21b6cc37"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a49a7389f362f2d478ade48ac21b6cc37">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  SmartTarget::hostileRandom</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00908">SmartAIMgr::CheckUnusedTargetParams()</a>, <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>, and <a class="el" href="../../#l00457">SmartAIMgr::IsTargetValid()</a>.</p>
+
+</div>
+</div>
+<a id="ac73ba4a6792fef5f02dc5af2b2303f97" name="ac73ba4a6792fef5f02dc5af2b2303f97"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac73ba4a6792fef5f02dc5af2b2303f97">&#9670;&#160;</a></span>id</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SmartTarget::id</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>.</p>
+
+</div>
+</div>
+<a id="a5aaa94e956b2653c8b7da95b1885c1a1" name="a5aaa94e956b2653c8b7da95b1885c1a1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5aaa94e956b2653c8b7da95b1885c1a1">&#9670;&#160;</a></span>includePets</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../de/d70/a01415.html#a96a00b1ae7179b02b6ee7e68ed92c6ac">SAIBool</a> SmartTarget::includePets</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>.</p>
+
+</div>
+</div>
+<a id="adc7617915da647fb6f70ddca99723c1e" name="adc7617915da647fb6f70ddca99723c1e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adc7617915da647fb6f70ddca99723c1e">&#9670;&#160;</a></span>index</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SmartTarget::index</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>.</p>
+
+</div>
+</div>
+<a id="a710fe7c9ecb56590028ef1f4c9a4c7c8" name="a710fe7c9ecb56590028ef1f4c9a4c7c8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a710fe7c9ecb56590028ef1f4c9a4c7c8">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  SmartTarget::instanceStorage</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>, and <a class="el" href="../../#l00457">SmartAIMgr::IsTargetValid()</a>.</p>
+
+</div>
+</div>
+<a id="aceef5924f39a4d767b99255a386ce2bf" name="aceef5924f39a4d767b99255a386ce2bf"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aceef5924f39a4d767b99255a386ce2bf">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  SmartTarget::invokerParty</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00908">SmartAIMgr::CheckUnusedTargetParams()</a>, and <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>.</p>
+
+</div>
+</div>
+<a id="a4c71451eacd886100952f45ddcc8ae6b" name="a4c71451eacd886100952f45ddcc8ae6b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4c71451eacd886100952f45ddcc8ae6b">&#9670;&#160;</a></span>isInLos</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../de/d70/a01415.html#a96a00b1ae7179b02b6ee7e68ed92c6ac">SAIBool</a> SmartTarget::isInLos</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>, and <a class="el" href="../../#l00457">SmartAIMgr::IsTargetValid()</a>.</p>
+
+</div>
+</div>
+<a id="a6965825e57e41efb16a153eee55c9cff" name="a6965825e57e41efb16a153eee55c9cff"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6965825e57e41efb16a153eee55c9cff">&#9670;&#160;</a></span>livingState</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SmartTarget::livingState</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>.</p>
+
+</div>
+</div>
+<a id="ab92246c1f3e1c3eef1448383c11db8b7" name="ab92246c1f3e1c3eef1448383c11db8b7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab92246c1f3e1c3eef1448383c11db8b7">&#9670;&#160;</a></span>maxCount</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SmartTarget::maxCount</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>.</p>
+
+</div>
+</div>
+<a id="a3be697bd5161ea28f96e855ec6dd5d06" name="a3be697bd5161ea28f96e855ec6dd5d06"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3be697bd5161ea28f96e855ec6dd5d06">&#9670;&#160;</a></span>maxDist</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SmartTarget::maxDist</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>, and <a class="el" href="../../#l00163">SmartScript::ProcessAction()</a>.</p>
+
+</div>
+</div>
+<a id="afd68fe281c872f9d960b7eb40cc5fba9" name="afd68fe281c872f9d960b7eb40cc5fba9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afd68fe281c872f9d960b7eb40cc5fba9">&#9670;&#160;</a></span>minDist</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SmartTarget::minDist</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>.</p>
+
+</div>
+</div>
+<a id="af83071775da34749226ea32c6421d0dd" name="af83071775da34749226ea32c6421d0dd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af83071775da34749226ea32c6421d0dd">&#9670;&#160;</a></span>negation</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SmartTarget::negation</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>.</p>
+
+</div>
+</div>
+<a id="a28a91da4b59f75cd41df0e712337b291" name="a28a91da4b59f75cd41df0e712337b291"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a28a91da4b59f75cd41df0e712337b291">&#9670;&#160;</a></span>o</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">float SmartTarget::o</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>, <a class="el" href="../../#l00127">SmartAIMgr::LoadSmartAIFromDB()</a>, <a class="el" href="../../#l00163">SmartScript::ProcessAction()</a>, and <a class="el" href="../../#l01578">SmartTarget()</a>.</p>
+
+</div>
+</div>
+<a id="a071915d21320b5469c8edf93e208f7d2" name="a071915d21320b5469c8edf93e208f7d2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a071915d21320b5469c8edf93e208f7d2">&#9670;&#160;</a></span>onlySpawned</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SmartTarget::onlySpawned</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>.</p>
+
+</div>
+</div>
+<a id="aba129a5ced35898c1832f0a02498aac8" name="aba129a5ced35898c1832f0a02498aac8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aba129a5ced35898c1832f0a02498aac8">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  SmartTarget::owner</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00908">SmartAIMgr::CheckUnusedTargetParams()</a>, <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>, and <a class="el" href="../../#l00457">SmartAIMgr::IsTargetValid()</a>.</p>
+
+</div>
+</div>
+<a id="a47ca1b5e1d5a12bed1934e1eb0c82306" name="a47ca1b5e1d5a12bed1934e1eb0c82306"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a47ca1b5e1d5a12bed1934e1eb0c82306">&#9670;&#160;</a></span>param1</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SmartTarget::param1</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l03416">SmartScript::CreateSmartEvent()</a>, <a class="el" href="../../#l03337">SmartScript::InstallTemplate()</a>, and <a class="el" href="../../#l00127">SmartAIMgr::LoadSmartAIFromDB()</a>.</p>
+
+</div>
+</div>
+<a id="ae59a95b879b52ccd14f02f0194f3e0cd" name="ae59a95b879b52ccd14f02f0194f3e0cd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae59a95b879b52ccd14f02f0194f3e0cd">&#9670;&#160;</a></span>param2</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SmartTarget::param2</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l03416">SmartScript::CreateSmartEvent()</a>, and <a class="el" href="../../#l00127">SmartAIMgr::LoadSmartAIFromDB()</a>.</p>
+
+</div>
+</div>
+<a id="a8bab79ccc6157e5b8b2a1c2c9d81a415" name="a8bab79ccc6157e5b8b2a1c2c9d81a415"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8bab79ccc6157e5b8b2a1c2c9d81a415">&#9670;&#160;</a></span>param3</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SmartTarget::param3</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l03416">SmartScript::CreateSmartEvent()</a>, and <a class="el" href="../../#l00127">SmartAIMgr::LoadSmartAIFromDB()</a>.</p>
+
+</div>
+</div>
+<a id="a13101dc99bd1bf29036520d0df6557ee" name="a13101dc99bd1bf29036520d0df6557ee"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a13101dc99bd1bf29036520d0df6557ee">&#9670;&#160;</a></span>param4</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SmartTarget::param4</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l03416">SmartScript::CreateSmartEvent()</a>, and <a class="el" href="../../#l00127">SmartAIMgr::LoadSmartAIFromDB()</a>.</p>
+
+</div>
+</div>
+<a id="a1c8c169cefe9405ea1eb31664e9238b5" name="a1c8c169cefe9405ea1eb31664e9238b5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1c8c169cefe9405ea1eb31664e9238b5">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  SmartTarget::playerDistance</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00908">SmartAIMgr::CheckUnusedTargetParams()</a>, <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>, and <a class="el" href="../../#l00457">SmartAIMgr::IsTargetValid()</a>.</p>
+
+</div>
+</div>
+<a id="a5d5c979cd4cfd87f978d065ff7c03d01" name="a5d5c979cd4cfd87f978d065ff7c03d01"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5d5c979cd4cfd87f978d065ff7c03d01">&#9670;&#160;</a></span>playerOnly</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../de/d70/a01415.html#a96a00b1ae7179b02b6ee7e68ed92c6ac">SAIBool</a> SmartTarget::playerOnly</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>, and <a class="el" href="../../#l00457">SmartAIMgr::IsTargetValid()</a>.</p>
+
+</div>
+</div>
+<a id="a774a93e38334ea5981ccbc2a54f0412d" name="a774a93e38334ea5981ccbc2a54f0412d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a774a93e38334ea5981ccbc2a54f0412d">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  SmartTarget::playerRange</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00908">SmartAIMgr::CheckUnusedTargetParams()</a>, and <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>.</p>
+
+</div>
+</div>
+<a id="aa5ce6aa37d064ecad0bf31bee77fe4bc" name="aa5ce6aa37d064ecad0bf31bee77fe4bc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa5ce6aa37d064ecad0bf31bee77fe4bc">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  SmartTarget::playerWithAura</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00908">SmartAIMgr::CheckUnusedTargetParams()</a>, and <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>.</p>
+
+</div>
+</div>
+<a id="ad3ddf8fa14f0121965f227629832e0df" name="ad3ddf8fa14f0121965f227629832e0df"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad3ddf8fa14f0121965f227629832e0df">&#9670;&#160;</a></span>powerType</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SmartTarget::powerType</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>.</p>
+
+</div>
+</div>
+<a id="a855c817ec8a69aae1d0e145667f7490b" name="a855c817ec8a69aae1d0e145667f7490b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a855c817ec8a69aae1d0e145667f7490b">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  SmartTarget::randomPoint</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00163">SmartScript::ProcessAction()</a>.</p>
+
+</div>
+</div>
+<a id="a574fa96928ef9dbca12649c55b7ea596" name="a574fa96928ef9dbca12649c55b7ea596"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a574fa96928ef9dbca12649c55b7ea596">&#9670;&#160;</a></span>range</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SmartTarget::range</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00163">SmartScript::ProcessAction()</a>.</p>
+
+</div>
+</div>
+<a id="ab9bfbf8a4e4f8a6e29afe3f689e5fc2d" name="ab9bfbf8a4e4f8a6e29afe3f689e5fc2d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab9bfbf8a4e4f8a6e29afe3f689e5fc2d">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  SmartTarget::raw</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00908">SmartAIMgr::CheckUnusedTargetParams()</a>, <a class="el" href="../../#l03416">SmartScript::CreateSmartEvent()</a>, <a class="el" href="../../#l03337">SmartScript::InstallTemplate()</a>, <a class="el" href="../../#l00127">SmartAIMgr::LoadSmartAIFromDB()</a>, and <a class="el" href="../../#l01578">SmartTarget()</a>.</p>
+
+</div>
+</div>
+<a id="a283ae7d8a9e5b9b4a02c1ec8f0a28a48" name="a283ae7d8a9e5b9b4a02c1ec8f0a28a48"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a283ae7d8a9e5b9b4a02c1ec8f0a28a48">&#9670;&#160;</a></span>resize</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SmartTarget::resize</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>.</p>
+
+</div>
+</div>
+<a id="afafd6378f6b9472ce21aab4addbc55b6" name="afafd6378f6b9472ce21aab4addbc55b6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afafd6378f6b9472ce21aab4addbc55b6">&#9670;&#160;</a></span>roleMask</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SmartTarget::roleMask</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>.</p>
+
+</div>
+</div>
+<a id="a828e7b824f7b0d8f02da2244ed3f7ecf" name="a828e7b824f7b0d8f02da2244ed3f7ecf"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a828e7b824f7b0d8f02da2244ed3f7ecf">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  SmartTarget::roleSelection</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>.</p>
+
+</div>
+</div>
+<a id="a61f23fdc1b87de34bd2a6b08d1cae97d" name="a61f23fdc1b87de34bd2a6b08d1cae97d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a61f23fdc1b87de34bd2a6b08d1cae97d">&#9670;&#160;</a></span>seatMask</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SmartTarget::seatMask</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>.</p>
+
+</div>
+</div>
+<a id="a726279330a1fa9fc4fb89a3d338bf04d" name="a726279330a1fa9fc4fb89a3d338bf04d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a726279330a1fa9fc4fb89a3d338bf04d">&#9670;&#160;</a></span>self</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SmartTarget::self</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00163">SmartScript::ProcessAction()</a>.</p>
+
+</div>
+</div>
+<a id="a2ed93baf995e552b1bf290ca7a3c21d9" name="a2ed93baf995e552b1bf290ca7a3c21d9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2ed93baf995e552b1bf290ca7a3c21d9">&#9670;&#160;</a></span>spellId</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SmartTarget::spellId</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>.</p>
+
+</div>
+</div>
+<a id="aef8b97bebdcef4174c1dd8b33f8ad025" name="aef8b97bebdcef4174c1dd8b33f8ad025"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aef8b97bebdcef4174c1dd8b33f8ad025">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  SmartTarget::stored</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00908">SmartAIMgr::CheckUnusedTargetParams()</a>, and <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>.</p>
+
+</div>
+</div>
+<a id="a4cd6d9c4facbfea1e0e7528ef9fac275" name="a4cd6d9c4facbfea1e0e7528ef9fac275"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4cd6d9c4facbfea1e0e7528ef9fac275">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  SmartTarget::summonedCreatures</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>, and <a class="el" href="../../#l00457">SmartAIMgr::IsTargetValid()</a>.</p>
+
+</div>
+</div>
+<a id="ab07e530801fe29fc06c5beb6ef05dfa3" name="ab07e530801fe29fc06c5beb6ef05dfa3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab07e530801fe29fc06c5beb6ef05dfa3">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  SmartTarget::threatList</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00908">SmartAIMgr::CheckUnusedTargetParams()</a>, and <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>.</p>
+
+</div>
+</div>
+<a id="acd89b43d2caa64668e5ed82cd4e7cda5" name="acd89b43d2caa64668e5ed82cd4e7cda5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acd89b43d2caa64668e5ed82cd4e7cda5">&#9670;&#160;</a></span>type <span class="overload">[1/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../de/d70/a01415.html#a20fbd4053053320ca4f2a803a09eb92e">SMARTAI_TARGETS</a> SmartTarget::type</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00908">SmartAIMgr::CheckUnusedTargetParams()</a>, <a class="el" href="../../#l03416">SmartScript::CreateSmartEvent()</a>, <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>, <a class="el" href="../../#l01985">SmartScriptHolder::GetTargetType()</a>, <a class="el" href="../../#l00972">SmartAIMgr::IsEventValid()</a>, <a class="el" href="../../#l00457">SmartAIMgr::IsTargetValid()</a>, <a class="el" href="../../#l00127">SmartAIMgr::LoadSmartAIFromDB()</a>, <a class="el" href="../../#l00163">SmartScript::ProcessAction()</a>, and <a class="el" href="../../#l01578">SmartTarget()</a>.</p>
+
+</div>
+</div>
+<a id="a647e6d839f3e58848c1088755d3122a1" name="a647e6d839f3e58848c1088755d3122a1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a647e6d839f3e58848c1088755d3122a1">&#9670;&#160;</a></span>type <span class="overload">[2/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SmartTarget::type</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a21c24fbbee9866a4dc3b42fd0bd5e196" name="a21c24fbbee9866a4dc3b42fd0bd5e196"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a21c24fbbee9866a4dc3b42fd0bd5e196">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  SmartTarget::unitClosest</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00908">SmartAIMgr::CheckUnusedTargetParams()</a>, <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>, and <a class="el" href="../../#l00457">SmartAIMgr::IsTargetValid()</a>.</p>
+
+</div>
+</div>
+<a id="a70bb4d6de31117ce5cb77f734e8400cd" name="a70bb4d6de31117ce5cb77f734e8400cd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a70bb4d6de31117ce5cb77f734e8400cd">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  SmartTarget::unitDistance</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00908">SmartAIMgr::CheckUnusedTargetParams()</a>, <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>, and <a class="el" href="../../#l00457">SmartAIMgr::IsTargetValid()</a>.</p>
+
+</div>
+</div>
+<a id="af2839fbd05b7c15016ff868d68795b13" name="af2839fbd05b7c15016ff868d68795b13"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af2839fbd05b7c15016ff868d68795b13">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  SmartTarget::unitGUID</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00908">SmartAIMgr::CheckUnusedTargetParams()</a>, <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>, and <a class="el" href="../../#l00457">SmartAIMgr::IsTargetValid()</a>.</p>
+
+</div>
+</div>
+<a id="a9a28c2b28ca936d582068ea129fc3e6a" name="a9a28c2b28ca936d582068ea129fc3e6a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9a28c2b28ca936d582068ea129fc3e6a">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  SmartTarget::unitRange</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00908">SmartAIMgr::CheckUnusedTargetParams()</a>, <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>, and <a class="el" href="../../#l00163">SmartScript::ProcessAction()</a>.</p>
+
+</div>
+</div>
+<a id="a59e03101305ccf733a6bdb0e80fe1cce" name="a59e03101305ccf733a6bdb0e80fe1cce"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a59e03101305ccf733a6bdb0e80fe1cce">&#9670;&#160;</a></span>useCharmerOrOwner</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../de/d70/a01415.html#a96a00b1ae7179b02b6ee7e68ed92c6ac">SAIBool</a> SmartTarget::useCharmerOrOwner</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>, and <a class="el" href="../../#l00457">SmartAIMgr::IsTargetValid()</a>.</p>
+
+</div>
+</div>
+<a id="a62e3ea34a7cbe34515bd075373a8b947" name="a62e3ea34a7cbe34515bd075373a8b947"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a62e3ea34a7cbe34515bd075373a8b947">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  SmartTarget::vehicle</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00908">SmartAIMgr::CheckUnusedTargetParams()</a>, and <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>.</p>
+
+</div>
+</div>
+<a id="a6a31784c4f9f3955e0cc5cf16687fd82" name="a6a31784c4f9f3955e0cc5cf16687fd82"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6a31784c4f9f3955e0cc5cf16687fd82">&#9670;&#160;</a></span>x</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">float SmartTarget::x</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00972">SmartAIMgr::IsEventValid()</a>, <a class="el" href="../../#l00127">SmartAIMgr::LoadSmartAIFromDB()</a>, <a class="el" href="../../#l00163">SmartScript::ProcessAction()</a>, and <a class="el" href="../../#l01578">SmartTarget()</a>.</p>
+
+</div>
+</div>
+<a id="aaa06940768e7b9e08e549af80ab40650" name="aaa06940768e7b9e08e549af80ab40650"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aaa06940768e7b9e08e549af80ab40650">&#9670;&#160;</a></span>y</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">float SmartTarget::y</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00972">SmartAIMgr::IsEventValid()</a>, <a class="el" href="../../#l00127">SmartAIMgr::LoadSmartAIFromDB()</a>, <a class="el" href="../../#l00163">SmartScript::ProcessAction()</a>, and <a class="el" href="../../#l01578">SmartTarget()</a>.</p>
+
+</div>
+</div>
+<a id="acb52eb278431dc7a11e460c6c53c8f8e" name="acb52eb278431dc7a11e460c6c53c8f8e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acb52eb278431dc7a11e460c6c53c8f8e">&#9670;&#160;</a></span>z</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">float SmartTarget::z</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00127">SmartAIMgr::LoadSmartAIFromDB()</a>, <a class="el" href="../../#l00163">SmartScript::ProcessAction()</a>, and <a class="el" href="../../#l01578">SmartTarget()</a>.</p>
 
 </div>
 </div>
@@ -549,8 +1431,8 @@ Private Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../df/da0/a06936.html">AutobroadcastMgr</a></li>
-    <li class="footer">Generated on Mon Sep 23 2024 20:43:25 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../df/da0/a06936.html">SmartTarget</a></li>
+    <li class="footer">Generated on Mon Aug 25 2025 20:47:09 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

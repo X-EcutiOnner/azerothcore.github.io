@@ -1,6 +1,5 @@
 var a21448 =
 [
-    [ "npc_azure_mage_slayerAI", "d6/d46/a21452.html", "d6/d46/a21452" ],
-    [ "npc_azure_mage_slayer", "d9/d0e/a21448.html#ad5e5453235c224f4fac40244516dd1ad", null ],
-    [ "GetAI", "d9/d0e/a21448.html#a9b795915100f47b11a65abdfdcbf39f4", null ]
+    [ "go_vh_activation_crystal", "d9/d0e/a21448.html#a4af485ac7ab6144282f3204a6d045cea", null ],
+    [ "OnGossipHello", "d9/d0e/a21448.html#a47a61ba67086580135559332931e9c6e", null ]
 ];

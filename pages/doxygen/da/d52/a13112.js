@@ -1,11 +1,14 @@
 var a13112 =
 [
-    [ "npc_scholomance_occultistAI", "da/d52/a13112.html#af78103d07aef427130d26b4aed5e5ae3", null ],
-    [ "JustEngagedWith", "da/d52/a13112.html#a03f0f6d015065c5afcf025dc44dc6aa8", null ],
-    [ "JustReachedHome", "da/d52/a13112.html#ac4bb0aa4009191a36dd4cebb45fd2ad5", null ],
-    [ "SelectUnitCasting", "da/d52/a13112.html#adde187b89a74a57aac823e4eb19bfeed", null ],
-    [ "UpdateAI", "da/d52/a13112.html#ab02edf780adb553b2314045d8effa277", null ],
-    [ "events", "da/d52/a13112.html#a1ee55a572462a1e832a5b89c8906bd87", null ],
-    [ "instance", "da/d52/a13112.html#a195fe4d681580c17086a5390fd4f82ba", null ],
-    [ "originalDisplayId", "da/d52/a13112.html#a4dcc895fef36cd1e9ca8cf38bdc2f6c4", null ]
+    [ "boss_kirtonos_the_heraldAI", "da/d52/a13112.html#af68c553db0889c22b7b4b76c868d38e7", null ],
+    [ "DoAction", "da/d52/a13112.html#ade11c2ff67c93f09f34b7b0e59766cc3", null ],
+    [ "EnterEvadeMode", "da/d52/a13112.html#a92ee25d349cc1ae3e46e4696a01697c3", null ],
+    [ "JustDied", "da/d52/a13112.html#a7ecf7396ebcb6f541586435996094f56", null ],
+    [ "JustEngagedWith", "da/d52/a13112.html#abcf09a75bed393e5fc03ef184e5c2918", null ],
+    [ "MovementInform", "da/d52/a13112.html#a16379320eebb8223a79cf3927bdc507e", null ],
+    [ "UpdateAI", "da/d52/a13112.html#a7eedcb1416d05b95f6110751119aea02", null ],
+    [ "events", "da/d52/a13112.html#a5dd38f68ce8745484cbc00dadde439dc", null ],
+    [ "events2", "da/d52/a13112.html#aaf9216da4f5394953d0316be8d8e8c4f", null ],
+    [ "instance", "da/d52/a13112.html#acae39cf7bc9a6d68834d3916fa75a006", null ],
+    [ "TransformsCount", "da/d52/a13112.html#aa0834b23d00463ae36bb0ec6a2067257", null ]
 ];

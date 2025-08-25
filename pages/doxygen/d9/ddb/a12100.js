@@ -1,20 +1,14 @@
 var a12100 =
 [
-    [ "boss_rend_blackhandAI", "d9/ddb/a12100.html#a2814a327bc7a9f757f7a05912a662f44", null ],
-    [ "EnterEvadeMode", "d9/ddb/a12100.html#a144c325de23530f4d77d6ab0a82bd341", null ],
-    [ "IsSummonedBy", "d9/ddb/a12100.html#aaa526ce953dd90de0d2459e74b96d3b7", null ],
-    [ "JustDied", "d9/ddb/a12100.html#a4e41038af6075585346ce7acc40f5d16", null ],
-    [ "JustEngagedWith", "d9/ddb/a12100.html#ad2800c1ca9785cf9a4445bb298635464", null ],
-    [ "JustSummoned", "d9/ddb/a12100.html#ab003c8952ff1d7c71295621967a29bbd", null ],
-    [ "MovementInform", "d9/ddb/a12100.html#a0219dfff536ebb0663dbd575c2955630", null ],
-    [ "Reset", "d9/ddb/a12100.html#adf7859684e871f844db8d39ae29d4229", null ],
-    [ "SetData", "d9/ddb/a12100.html#ae8da177a417f420f63b318477ad2fa9c", null ],
-    [ "SummonedCreatureDespawn", "d9/ddb/a12100.html#a09f814167a86eed5e13dec8a34a5d2e8", null ],
-    [ "SummonedCreatureDies", "d9/ddb/a12100.html#af0467f9f8cf7f552cd90994b6a208394", null ],
-    [ "SummonWave", "d9/ddb/a12100.html#a51a96beb5c271191c52a0b12d3824043", null ],
-    [ "UpdateAI", "d9/ddb/a12100.html#a89970f47673bc2ce1290900251970fe4", null ],
-    [ "_currentWave", "d9/ddb/a12100.html#aff4797532d1ab098dc8f52454c2ecd05", null ],
-    [ "gythEvent", "d9/ddb/a12100.html#ac5c2ee831c560ef96338dd08a61ec4c1", null ],
-    [ "victorGUID", "d9/ddb/a12100.html#a414de083616e4b77a84af8617a3b5f8e", null ],
-    [ "waveDoorGUID", "d9/ddb/a12100.html#a0f426a5f2cde0f522ba2a236d34f9d5a", null ]
+    [ "boss_mor_grayhoof", "d9/ddb/a12100.html#aef1001233a51ad3bb9963c540d39d79b", null ],
+    [ "CastRandomSpell", "d9/ddb/a12100.html#a00756d64d24088ebf408153fcb59ff13", null ],
+    [ "DamageTaken", "d9/ddb/a12100.html#a164a911eb9a86964a61866c05d44512f", null ],
+    [ "JustDied", "d9/ddb/a12100.html#aa98fbfc5cc4ee94e0323d8586dae1e1c", null ],
+    [ "JustEngagedWith", "d9/ddb/a12100.html#a043f6ee099efd0d49982b2966604e65a", null ],
+    [ "Reset", "d9/ddb/a12100.html#af313bd8509a76cd6b6fbc197f15afbff", null ],
+    [ "UpdateAI", "d9/ddb/a12100.html#aaa6a1a9b6e4259aea46d2f25bca3b809", null ],
+    [ "_phase", "d9/ddb/a12100.html#a40bf6a66aefe7a605d94526b5a586ba6", null ],
+    [ "_scheduler", "d9/ddb/a12100.html#ad2a897281d308475957e2636c6536fdd", null ],
+    [ "_sleepTargetGUID", "d9/ddb/a12100.html#a8baa606696dc8acf532e8badfc6c624b", null ],
+    [ "_sleepTargetThreat", "d9/ddb/a12100.html#ac62d7d30b12d0c2da9553b9689091e0e", null ]
 ];

@@ -1,6 +1,9 @@
 var a13448 =
 [
-    [ "ChangeSummonPos", "de/d39/a13448.html#ae24a7c8279a92f1018748a0e930736ac", null ],
-    [ "PrepareSpellScript", "de/d39/a13448.html#a7b6cd9464f27676f0c74224ef1b1a9cc", null ],
-    [ "Register", "de/d39/a13448.html#a03a1a1e5501452eacaceadd9725f2287", null ]
+    [ "boss_muru", "de/d39/a13448.html#a6e51cd6b3283f011fc834e0cc59f46e6", null ],
+    [ "DamageTaken", "de/d39/a13448.html#a570c8cc6aaefaac4063d9f1053c04b32", null ],
+    [ "JustEngagedWith", "de/d39/a13448.html#a305f5f20fbe3d15885ed3e6248d96ec6", null ],
+    [ "JustSummoned", "de/d39/a13448.html#a7cf18b5f12586d122ece406feaa5bc39", null ],
+    [ "MoveInLineOfSight", "de/d39/a13448.html#aa589d640b73c0b3e944585bdc702a8ee", null ],
+    [ "Reset", "de/d39/a13448.html#a177aed9c1e5c1380fc8ea5f8c29650c6", null ]
 ];

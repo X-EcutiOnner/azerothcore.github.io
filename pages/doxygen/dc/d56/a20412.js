@@ -1,5 +1,7 @@
 var a20412 =
 [
-    [ "achievement_kologarn_rubble_and_roll", "dc/d56/a20412.html#ae36bbab8d82f10ad120a1e7564a13961", null ],
-    [ "OnCheck", "dc/d56/a20412.html#acb0f72ebdf1917a3331b3fc0f9aa4300", null ]
+    [ "FilterTargetsInitial", "dc/d56/a20412.html#a5632307d9a1a89d530a63e71c8abad1c", null ],
+    [ "Load", "dc/d56/a20412.html#a5467818535c6c7239e185d7c6c3bbd27", null ],
+    [ "PrepareSpellScript", "dc/d56/a20412.html#a4d1e588557fa3fa432d4015fda930877", null ],
+    [ "Register", "dc/d56/a20412.html#a0428375ddb89907e7f1728757d55d052", null ]
 ];

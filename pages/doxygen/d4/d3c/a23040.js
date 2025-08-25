@@ -1,8 +1,7 @@
 var a23040 =
 [
-    [ "instance_black_temple_InstanceMapScript", "d4/d3c/a23040.html#aa59f4d11ca1418bb3df3a7d5b11795b9", null ],
-    [ "OnCreatureCreate", "d4/d3c/a23040.html#a814ac33238558b4e2a2ff57e6039d4fc", null ],
-    [ "OnGameObjectCreate", "d4/d3c/a23040.html#a564a49814ceb3b3161a6476335ab653a", null ],
-    [ "SetBossState", "d4/d3c/a23040.html#aadcbe48888eba0d0ed50eb9811ce40b0", null ],
-    [ "ashtongueGUIDs", "d4/d3c/a23040.html#a85fa9c5231f13529a0741b0f92266c90", null ]
+    [ "CalculateAmount", "d4/d3c/a23040.html#af0db71393c0b4a7bd5f4e11bd0212d06", null ],
+    [ "PrepareAuraScript", "d4/d3c/a23040.html#a5af876b76d9239808ac72c5b6177cdcb", null ],
+    [ "Register", "d4/d3c/a23040.html#a6d0d47536e6ef74a88c97019843d478c", null ],
+    [ "Update", "d4/d3c/a23040.html#afd2ed6f36d1596a2de753f04c5563c5f", null ]
 ];

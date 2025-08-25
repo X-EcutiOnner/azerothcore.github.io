@@ -1,6 +1,5 @@
 var a22512 =
 [
-    [ "OutdoorPvPGH", "d6/d60/a22512.html#a619492e0a1fdf75f37554a2f19268660", null ],
-    [ "SendRemoveWorldStates", "d6/d60/a22512.html#a92c7e489717072ddc34f707fbe462cb2", null ],
-    [ "SetupOutdoorPvP", "d6/d60/a22512.html#a3d62cb27cfa415c9ba7fe5c18384a75d", null ]
+    [ "go_scourge_enclosure", "d6/d60/a22512.html#a3611232cb735f336087d4d3c90f66b8d", null ],
+    [ "OnGossipHello", "d6/d60/a22512.html#af505dd0a5d9224cd7586878d1fbd3351", null ]
 ];

@@ -1,5 +1,6 @@
 var a20300 =
 [
-    [ "achievement_getting_cold_in_here", "d7/d19/a20300.html#a57fe7262a09036ffa88e985cb7e2f123", null ],
-    [ "OnCheck", "d7/d19/a20300.html#aeafd382d378381f754da6ee04d382276", null ]
+    [ "FilterTargets", "d7/d19/a20300.html#a4f77f654ef8bb589fbb81e8cb1ec6ce6", null ],
+    [ "PrepareSpellScript", "d7/d19/a20300.html#a52c6b32ab01a68b258d4fe89730ec32b", null ],
+    [ "Register", "d7/d19/a20300.html#a2e9ee7705a950d6a500ac472ff783b3a", null ]
 ];

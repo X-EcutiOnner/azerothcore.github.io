@@ -1,10 +1,8 @@
 var a11244 =
 [
-    [ "EffectHook", "dd/d0a/a11244.html#a4a197e061d918dfba2bc486f3393b00d", null ],
-    [ "~EffectHook", "dd/d0a/a11244.html#aa234f63b530764d12064acbe3f5c9299", null ],
-    [ "CheckEffect", "dd/d0a/a11244.html#ae8823c5d649d182f572818bf3db72902", null ],
-    [ "EffIndexToString", "dd/d0a/a11244.html#ab818ed274cfd66ecc565b8535b751517", null ],
-    [ "GetAffectedEffectsMask", "dd/d0a/a11244.html#a31faa86590e22f5ab3ca518f4df02840", null ],
-    [ "IsEffectAffected", "dd/d0a/a11244.html#a697041ffa562bb6fff792beb159c7af2", null ],
-    [ "effIndex", "dd/d0a/a11244.html#ab5eb48ef7ac903938f92db0e856e0295", null ]
+    [ "target_mapId", "dd/d0a/a11244.html#a6dbbb558810388e0d051d84a0279a444", null ],
+    [ "target_Orientation", "dd/d0a/a11244.html#a7e30264eff9ece771dfaa421ef987b2a", null ],
+    [ "target_X", "dd/d0a/a11244.html#aa78b3d4cfb4277bcb1bf6a31ffc87546", null ],
+    [ "target_Y", "dd/d0a/a11244.html#a6f432d8770adebf513346713b7890b5c", null ],
+    [ "target_Z", "dd/d0a/a11244.html#a3af706b81f8fbef12277c518964f717a", null ]
 ];

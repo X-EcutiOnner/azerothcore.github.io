@@ -1,5 +1,6 @@
 var a10764 =
 [
-    [ "LFGLeave", "df/d96/a10764.html#aba31f53e0e13c13fd96f1b6ea1d42310", null ],
-    [ "Read", "df/d96/a10764.html#abae9c55efce73edf5edf1940cb8b61eb", null ]
+    [ "PlayerSaveGuildEmblem", "df/d96/a10764.html#ae1269fb7583f0ce1703cd89d592b1485", null ],
+    [ "Write", "df/d96/a10764.html#a0427be2f46cba4ff6b2ca072924bca7b", null ],
+    [ "Error", "df/d96/a10764.html#a76930d3b74bf7b84a311b24b53d03b21", null ]
 ];

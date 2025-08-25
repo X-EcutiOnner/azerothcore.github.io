@@ -1,11 +1,6 @@
 var a13704 =
 [
-    [ "npc_highborne_lamenterAI", "d8/dec/a13704.html#ad91cd657166a12d3c34adcf7b11d076f", null ],
-    [ "JustEngagedWith", "d8/dec/a13704.html#a77a978fdb0ba0de506f66ec0b2906229", null ],
-    [ "Reset", "d8/dec/a13704.html#a7cf9338767e8edf0a87a5552703de87a", null ],
-    [ "UpdateAI", "d8/dec/a13704.html#a1048c558b825b58dbc7a3d97869a3e88", null ],
-    [ "EventCast", "d8/dec/a13704.html#a02ed3216c8b71e3d2be695866dbc0089", null ],
-    [ "EventCastTimer", "d8/dec/a13704.html#afc490ae2382fd7097b3877c7f9eadf6b", null ],
-    [ "EventMove", "d8/dec/a13704.html#aca22c73db989f0393926067506794e43", null ],
-    [ "EventMoveTimer", "d8/dec/a13704.html#a36d1993262eb0a7200e2bec625f5b4d1", null ]
+    [ "npc_marzon_silent_bladeAI", "de/d69/a13708.html", "de/d69/a13708" ],
+    [ "npc_marzon_silent_blade", "d8/dec/a13704.html#a8fa1c0e11555df45005f37fd9de7f3a8", null ],
+    [ "GetAI", "d8/dec/a13704.html#aadde9b84b46c594e41ae8ca3ae0265a1", null ]
 ];

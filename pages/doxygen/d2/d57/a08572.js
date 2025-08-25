@@ -1,8 +1,8 @@
 var a08572 =
 [
-    [ "EnchantDuration", "d2/d57/a08572.html#a1ce5f81deaa60494c247673c113632d8", null ],
-    [ "EnchantDuration", "d2/d57/a08572.html#a52448f2bb8b788193a69fe9a2d8729f3", null ],
-    [ "item", "d2/d57/a08572.html#ae803f6a9ce9cdb0dbb133bc85b6613ab", null ],
-    [ "leftduration", "d2/d57/a08572.html#a3f4edafbc9b09cb5ab660bc68af435f3", null ],
-    [ "slot", "d2/d57/a08572.html#a3de1a8d64aea4c5c1f984a74c6bb017d", null ]
+    [ "BaseRune", "d2/d57/a08572.html#ad5a4b3afd246f5a4c071e3c4f350f132", null ],
+    [ "ConvertAura", "d2/d57/a08572.html#a41c55cb4c1b3f69c6a424359f60e34e1", null ],
+    [ "Cooldown", "d2/d57/a08572.html#a8eeb0f5208c29d43ab493a22f73eb0a6", null ],
+    [ "CurrentRune", "d2/d57/a08572.html#a2cebb551231f0364a1751e5d1a37fcda", null ],
+    [ "GracePeriod", "d2/d57/a08572.html#a3fa13f205dbaaca5bdcc7406f73b4e6a", null ]
 ];

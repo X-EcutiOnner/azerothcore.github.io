@@ -1,8 +1,6 @@
 var a19976 =
 [
-    [ "OnApply", "d6/dec/a19976.html#a3f2ef4882bcd52e091a0bcfabfc352cd", null ],
-    [ "OnRemove", "d6/dec/a19976.html#ab967233994aa3ff07b272f010b2c1545", null ],
-    [ "PrepareAuraScript", "d6/dec/a19976.html#a788480ec4aaa57e643f55daca17c6ded", null ],
-    [ "Register", "d6/dec/a19976.html#a63a3e30704b282a430dcdbb9073a66df", null ],
-    [ "Validate", "d6/dec/a19976.html#a6ccb698445ce30c5224dcacc3dc8136b", null ]
+    [ "npc_brann_radioAI", "df/d0c/a19980.html", "df/d0c/a19980" ],
+    [ "npc_brann_radio", "d6/dec/a19976.html#a22b5231f643c287d8e32d88a3b0728b2", null ],
+    [ "GetAI", "d6/dec/a19976.html#aa2ea91337262fb886e7535ba013f4b10", null ]
 ];

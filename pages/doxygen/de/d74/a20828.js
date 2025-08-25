@@ -1,8 +1,6 @@
 var a20828 =
 [
-    [ "boss_yoggsaron_guardian_of_ysAI", "de/d74/a20828.html#a5542a4fd68a012049a79047f47dccc68", null ],
-    [ "JustDied", "de/d74/a20828.html#ad75f0baeef73a79cdb9bf62463bc8e50", null ],
-    [ "Reset", "de/d74/a20828.html#a43d12c19425f3caa56a9732774b6f943", null ],
-    [ "UpdateAI", "de/d74/a20828.html#a8e1d0b14747db6ce06b882f3f9d61963", null ],
-    [ "_spellTimer", "de/d74/a20828.html#a45dec8609328d65413ae6c88f693ba15", null ]
+    [ "OnRemove", "de/d74/a20828.html#a492bd9e9c82937e00897e19362b40901", null ],
+    [ "PrepareAuraScript", "de/d74/a20828.html#a1ae24bb18b5570ebe9b4b0698d3cc2f2", null ],
+    [ "Register", "de/d74/a20828.html#adfcaf82ff48225ea0e0314d421795644", null ]
 ];

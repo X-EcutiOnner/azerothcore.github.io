@@ -1,10 +1,7 @@
 var a26876 =
 [
-    [ "CheckProc", "d1/d63/a26876.html#a257202ac9b80a67ce58d9e3491164d22", null ],
-    [ "HandleProc", "d1/d63/a26876.html#aa3c74b25fbe63ac77e10260159adb8ca", null ],
-    [ "HandleTick", "d1/d63/a26876.html#a5e436c530e5ef70bc4de4305676ed196", null ],
-    [ "PrepareAuraScript", "d1/d63/a26876.html#aef7d1a2bbd59af36cc130f07e1204081", null ],
-    [ "Register", "d1/d63/a26876.html#a11b0120ea8c8ccf1c96e5d1053d64895", null ],
-    [ "RemoveEffect", "d1/d63/a26876.html#a333ad80d8478f59713ee049f935d7885", null ],
-    [ "Validate", "d1/d63/a26876.html#aed3cb37f0230463978b210add84bd31d", null ]
+    [ "HandleTeleport", "d1/d63/a26876.html#a7ba7b82988dab5fd8e691b5b87c3d959", null ],
+    [ "PrepareAuraScript", "d1/d63/a26876.html#a2307b7eccd4dd08d7e97ece704ddc4fb", null ],
+    [ "Register", "d1/d63/a26876.html#a82432a4448d8c23ea2a39b4b26eb1b58", null ],
+    [ "Validate", "d1/d63/a26876.html#adabf22bd591a10662ffbf0354a18a936", null ]
 ];

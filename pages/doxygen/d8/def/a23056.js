@@ -1,6 +1,9 @@
 var a23056 =
 [
-    [ "HandleEffectRemove", "d8/def/a23056.html#a99f96034b5976615c38e13e5e55c61b6", null ],
-    [ "PrepareAuraScript", "d8/def/a23056.html#a0515a72abd37df13606876021659b995", null ],
-    [ "Register", "d8/def/a23056.html#ad7c8338ae3f3e6680405652c3e5f7f06", null ]
+    [ "boss_najentus", "d8/def/a23056.html#ac5d3d54a49524892fe844925d483c244", null ],
+    [ "JustDied", "d8/def/a23056.html#afee32dd32033c7a45068ce12e961797c", null ],
+    [ "JustEngagedWith", "d8/def/a23056.html#a46e3aab64c21b24ac6457acd598679ec", null ],
+    [ "KilledUnit", "d8/def/a23056.html#ad55e1de3aa7a636b3d30b0d61a17dab9", null ],
+    [ "Reset", "d8/def/a23056.html#ab7e0bdb8954722c9080146a88a3c5aa2", null ],
+    [ "_canTalk", "d8/def/a23056.html#a25ac29a79cdcfb4ebc48de13d677f1d4", null ]
 ];

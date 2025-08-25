@@ -1,6 +1,6 @@
 var a24300 =
 [
-    [ "PrepareSpellScript", "de/d49/a24300.html#aba1979c98f7d0e162cb7aee36c57f568", null ],
-    [ "Register", "de/d49/a24300.html#a07f75e1ad374118ab0195dd1a17376ed", null ],
-    [ "SetDest", "de/d49/a24300.html#a23afed27143ca0b8e4cdc477d47ab6e0", null ]
+    [ "CheckRequirement", "de/d49/a24300.html#aa53bdc1b4b57150dbebce61ac87d2b88", null ],
+    [ "PrepareSpellScript", "de/d49/a24300.html#a8e3d6659174d4c920e65f85afb9308b1", null ],
+    [ "Register", "de/d49/a24300.html#aa4f62292b32347179a5534e4bc0417f8", null ]
 ];

@@ -1,6 +1,6 @@
 var a12076 =
 [
-    [ "boss_pyroguard_emberseerAI", "d4/d1c/a12080.html", "d4/d1c/a12080" ],
-    [ "boss_pyroguard_emberseer", "da/d97/a12076.html#af9f55c012880404e2e6f8278763af194", null ],
-    [ "GetAI", "da/d97/a12076.html#a060c52f53760e60a022a7034dd785b1d", null ]
+    [ "boss_halyconAI", "d4/d1c/a12080.html", "d4/d1c/a12080" ],
+    [ "boss_halycon", "da/d97/a12076.html#aa149c5f8b34b9c00102f9a0758dcbd9a", null ],
+    [ "GetAI", "da/d97/a12076.html#a861f1b0213ad9bcf572c9d59eabba699", null ]
 ];

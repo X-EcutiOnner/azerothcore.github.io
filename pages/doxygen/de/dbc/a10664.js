@@ -1,6 +1,6 @@
 var a10664 =
 [
-    [ "GuildOfficerRemoveMember", "de/dbc/a10664.html#acd0f767ff61006c7b3c78f3dbb6da558", null ],
-    [ "Read", "de/dbc/a10664.html#aa0c3cd629b73cb079cc3cf90bf6f8067", null ],
-    [ "Removee", "de/dbc/a10664.html#a18ece7d865fa1b5da005c7c03397b4e2", null ]
+    [ "GuildDemoteMember", "de/dbc/a10664.html#aa3d68021828c516d7b1995811e8df7d7", null ],
+    [ "Read", "de/dbc/a10664.html#aca46670c89e3d15df6a3f6694ab3dcb6", null ],
+    [ "Demotee", "de/dbc/a10664.html#a60c7e56c201d794fb473a62fccc160bb", null ]
 ];

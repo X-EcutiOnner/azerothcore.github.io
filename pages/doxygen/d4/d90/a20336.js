@@ -1,7 +1,5 @@
 var a20336 =
 [
-    [ "HandleEffectPeriodic", "d4/d90/a20336.html#a8d2e75ee2869dc135fe83c782ec6e223", null ],
-    [ "PrepareAuraScript", "d4/d90/a20336.html#a0996c661dbc4e9a4bd35c1368247c7eb", null ],
-    [ "Register", "d4/d90/a20336.html#aed86a298340cc05fbe2a8a68396423bb", null ],
-    [ "Validate", "d4/d90/a20336.html#a1c3ecaebf11d1040fde4ce5cb80f315c", null ]
+    [ "achievement_getting_cold_in_here", "d4/d90/a20336.html#a57fe7262a09036ffa88e985cb7e2f123", null ],
+    [ "OnCheck", "d4/d90/a20336.html#aeafd382d378381f754da6ee04d382276", null ]
 ];

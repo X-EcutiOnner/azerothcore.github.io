@@ -1,7 +1,9 @@
 var a12568 =
 [
-    [ "npc_kernobeeAI", "d2/db0/a12572.html", "d2/db0/a12572" ],
-    [ "npc_kernobee", "d3/de1/a12568.html#a325aa3f9962cb99b4af362a23c1b16d8", null ],
-    [ "GetAI", "d3/de1/a12568.html#a13da5b7e79ada7c5a88e84ca551ce8eb", null ],
-    [ "OnQuestAccept", "d3/de1/a12568.html#aa830285cf19211b8233620257735ab62", null ]
+    [ "npc_mc_core_houndAI", "d3/de1/a12568.html#a9b07d662e32a342419a848ecd59d6391", null ],
+    [ "DamageTaken", "d3/de1/a12568.html#aaf2b0ac9b723bb16bfaf8481165e6b4f", null ],
+    [ "Reset", "d3/de1/a12568.html#a9f4b06230ae2e4fc2fe150eb9e9d1f12", null ],
+    [ "UpdateAI", "d3/de1/a12568.html#aaba8ef0b33b9bb9acf74223ef0e9aaad", null ],
+    [ "instance", "d3/de1/a12568.html#ab47451dfeff84c8467be2b76554df897", null ],
+    [ "serratedBiteTimer", "d3/de1/a12568.html#a3a49df32c788497d3e82912d423683b7", null ]
 ];

@@ -1,6 +1,6 @@
 var a21052 =
 [
-    [ "npc_ulduar_storm_tempered_keeperAI", "d9/d87/a21056.html", "d9/d87/a21056" ],
-    [ "npc_ulduar_storm_tempered_keeper", "dc/de3/a21052.html#aaf2ef154cad4f2ba5796e410dabf02fc", null ],
-    [ "GetAI", "dc/de3/a21052.html#aa0860236d2abedba1e521ee1610c89e8", null ]
+    [ "achievement_yogg_saron_darkness", "dc/de3/a21052.html#a536c7156305d47c41a062d3c1a1b16eb", null ],
+    [ "OnCheck", "dc/de3/a21052.html#a809902fca87abaeb4334132763624ed6", null ],
+    [ "_keepersCount", "dc/de3/a21052.html#a765ec4606bb489760ed1e15db10de1dc", null ]
 ];

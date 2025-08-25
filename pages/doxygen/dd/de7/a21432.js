@@ -1,6 +1,6 @@
 var a21432 =
 [
-    [ "npc_azure_invaderAI", "dc/dbe/a21436.html", "dc/dbe/a21436" ],
-    [ "npc_azure_invader", "dd/de7/a21432.html#ab318178a618f2bfdcd5ea3105c240d32", null ],
-    [ "GetAI", "dd/de7/a21432.html#a19c000084ea74a401ece81ee0e20b65c", null ]
+    [ "npc_vh_void_sentryAI", "dc/dbe/a21436.html", "dc/dbe/a21436" ],
+    [ "npc_vh_void_sentry", "dd/de7/a21432.html#a6d4995d112a3fe6b59c3c3c417d98c45", null ],
+    [ "GetAI", "dd/de7/a21432.html#ab3bcb8f8e9084e2ab588f80929a5d5ce", null ]
 ];

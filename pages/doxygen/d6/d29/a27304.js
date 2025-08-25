@@ -1,5 +1,6 @@
 var a27304 =
 [
-    [ "go_jump_a_tron", "d6/d29/a27304.html#a23306caf54a4282d290eec5daa3bfbc5", null ],
-    [ "OnGossipHello", "d6/d29/a27304.html#ae45085de26fc6ad4c3fa2bddf0bf20ec", null ]
+    [ "go_pirate_day_musicAI", "d4/d44/a27308.html", "d4/d44/a27308" ],
+    [ "go_pirate_day_music", "d6/d29/a27304.html#aa8d19102357639bd160eae9e90a87505", null ],
+    [ "GetAI", "d6/d29/a27304.html#a3bce105696415c9a31c5cbeb9607fa95", null ]
 ];

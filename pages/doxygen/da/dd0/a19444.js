@@ -1,8 +1,6 @@
 var a19444 =
 [
-    [ "npc_centrifuge_constructAI", "da/dd0/a19444.html#a9219f4955ae82ca7f401ea1c63f66b09", null ],
-    [ "DamageTaken", "da/dd0/a19444.html#aa568418de267a99108698e79baa1b3f4", null ],
-    [ "JustEngagedWith", "da/dd0/a19444.html#ac6ecbb17624c2747253c68a50b93c40f", null ],
-    [ "Reset", "da/dd0/a19444.html#a2f7750cea2f59d794c85e20b703370af", null ],
-    [ "UpdateAI", "da/dd0/a19444.html#a28316416ad6c56d83c9e878511256445", null ]
+    [ "boss_varosAI", "d2/d9e/a19448.html", "d2/d9e/a19448" ],
+    [ "boss_varos", "da/dd0/a19444.html#a4fdb9de9ee7a3a50ac0972fd6eb8d39c", null ],
+    [ "GetAI", "da/dd0/a19444.html#a36733c4eb6179e43d61a1c37480666ea", null ]
 ];

@@ -1,6 +1,6 @@
 var a17348 =
 [
-    [ "ChangeSummonPos", "d8/d36/a17348.html#a2c3d69419762c7f78688a22017a8c535", null ],
-    [ "PrepareSpellScript", "d8/d36/a17348.html#a97c48254a0d7a0bd4bcf40f614bc5373", null ],
-    [ "Register", "d8/d36/a17348.html#a9c1aad0131ebe9635c9fdbb3d71c9cdd", null ]
+    [ "npc_ball_of_flameAI", "d5/d89/a17352.html", "d5/d89/a17352" ],
+    [ "npc_ball_of_flame", "d8/d36/a17348.html#a353bf8385dea6c2e4a489bd14c87e0fe", null ],
+    [ "GetAI", "d8/d36/a17348.html#ac0309668f9f0ca85a644d4928966e577", null ]
 ];

@@ -1,6 +1,6 @@
 var a19776 =
 [
-    [ "boss_steelbreakerAI", "de/d70/a19780.html", "de/d70/a19780" ],
-    [ "boss_steelbreaker", "da/d2a/a19776.html#af6e4c3729874e59959b35ca67a46aa44", null ],
-    [ "GetAI", "da/d2a/a19776.html#ac4189ffbba997719fb36a10ecdabd26c", null ]
+    [ "HandlePeriodic", "da/d2a/a19776.html#a0a77c0b232e24e5cb8b3392ac8adbd3a", null ],
+    [ "PrepareAuraScript", "da/d2a/a19776.html#a7c6b6839da4a93f656800c9ae174c832", null ],
+    [ "Register", "da/d2a/a19776.html#ae28e67baa12488e248efd46ef5a7cb11", null ]
 ];

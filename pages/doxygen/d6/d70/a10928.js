@@ -1,5 +1,5 @@
 var a10928 =
 [
-    [ "PacketHandler", "d6/d70/a10928.html#a7ca20eda3de42ab35ef45c56f1d6d73e", null ],
-    [ "Call", "d6/d70/a10928.html#a42ac77b81d5280c7f1c54991649ab501", null ]
+    [ "TimeQuery", "d6/d70/a10928.html#a90c467ab19d96b96ace5b50bad617095", null ],
+    [ "Read", "d6/d70/a10928.html#aae26e83828fc6118dea64f8861170868", null ]
 ];

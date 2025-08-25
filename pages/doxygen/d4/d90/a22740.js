@@ -1,12 +1,6 @@
 var a22740 =
 [
-    [ "npc_maiev_illidan", "d4/d90/a22740.html#a0d19d9bb58c44662cdfb66a8fe373a60", null ],
-    [ "DamageTaken", "d4/d90/a22740.html#a780cc558c483efa3293d798cc6048a33", null ],
-    [ "DoAction", "d4/d90/a22740.html#a53607a158edf8fd772908b5d7af6edf1", null ],
-    [ "IsSummonedBy", "d4/d90/a22740.html#a1bf4f2f29132c5132e7903d089ace6e2", null ],
-    [ "JustEngagedWith", "d4/d90/a22740.html#ad1728d7d8b1b5f9db8db4d811c2ba630", null ],
-    [ "Reset", "d4/d90/a22740.html#a100db757c89634a58b9382216e2791ec", null ],
-    [ "SpellHit", "d4/d90/a22740.html#aa4d6626d6130a88519f86cfe70d9fb95", null ],
-    [ "UpdateAI", "d4/d90/a22740.html#a269e4a8f79b508e2da61cd5e2dc34664", null ],
-    [ "instance", "d4/d90/a22740.html#ad41b6deb9406232629ad60ba66cfac6b", null ]
+    [ "instance_shadow_labyrinth_InstanceMapScript", "d2/da0/a22744.html", "d2/da0/a22744" ],
+    [ "instance_shadow_labyrinth", "d4/d90/a22740.html#a16a3acdfd9b1053374dfa5f27e5f3c19", null ],
+    [ "GetInstanceScript", "d4/d90/a22740.html#af9edf624413593a5cdf025dd9a1c3631", null ]
 ];

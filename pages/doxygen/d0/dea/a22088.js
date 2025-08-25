@@ -1,14 +1,7 @@
 var a22088 =
 [
-    [ "npc_tirions_gambit_tirionAI", "d0/dea/a22088.html#a38959c7a5b502b5716a5c09b0f6ae8a4", null ],
-    [ "DoAction", "d0/dea/a22088.html#a495e0762614020ef6d7b741447099326", null ],
-    [ "DoSummonAction", "d0/dea/a22088.html#a891b31661705ed4df634059e6165d499", null ],
-    [ "JustSummoned", "d0/dea/a22088.html#ac62ec499aba734d36249f8c00b36e2d4", null ],
-    [ "Reset", "d0/dea/a22088.html#afb398bda1d6ee4d35527208e6c5bffee", null ],
-    [ "SetData", "d0/dea/a22088.html#a41f24de5f824d84edb69c6b2bdca6d4e", null ],
-    [ "SummonedCreatureDespawn", "d0/dea/a22088.html#aca05fee85997dffba6ec998b144b9495", null ],
-    [ "UpdateEscortAI", "d0/dea/a22088.html#a0b681d6cc1566e6193f7eb143ab2bd5e", null ],
-    [ "WaypointReached", "d0/dea/a22088.html#af5fd69b799c6227dba901f434e30c434", null ],
-    [ "events", "d0/dea/a22088.html#a711c55c26187ae695644b770a358766e", null ],
-    [ "summons", "d0/dea/a22088.html#af574a4b136ff42c597e30c83e4d463ca", null ]
+    [ "npc_battle_at_valhalasAI", "d9/d0f/a22092.html", "d9/d0f/a22092" ],
+    [ "npc_battle_at_valhalas", "d0/dea/a22088.html#aacec717b5b91ae55307c9642779c15ec", null ],
+    [ "GetAI", "d0/dea/a22088.html#a3660ba847b3b40c2d358d63c63517a5e", null ],
+    [ "OnQuestAccept", "d0/dea/a22088.html#addd76fd9f4b4f8ce706693614b80966b", null ]
 ];

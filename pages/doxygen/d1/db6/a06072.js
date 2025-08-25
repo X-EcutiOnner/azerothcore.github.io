@@ -1,9 +1,6 @@
 var a06072 =
 [
-    [ "CasterAI", "d1/db6/a06072.html#ad91d5c64cbc4d56d9a84aaeb2f64b35e", null ],
-    [ "AttackStart", "d1/db6/a06072.html#a28386fd1a275c002445e5eaf90314a3d", null ],
-    [ "InitializeAI", "d1/db6/a06072.html#a2a24cdc24b665c52363dae587572fc4d", null ],
-    [ "JustEngagedWith", "d1/db6/a06072.html#ad436decd8b3da4323cf3fdb4a9e5a849", null ],
-    [ "UpdateAI", "d1/db6/a06072.html#a0fa50ac9bd99ff0c2c7e78f03a737090", null ],
-    [ "m_attackDist", "d1/db6/a06072.html#a561dbc6713a8ec58ef6b23ae4d04d81b", null ]
+    [ "AggressorAI", "d1/db6/a06072.html#a2d4ba3a557832466f29906972d1e14fd", null ],
+    [ "Permissible", "d1/db6/a06072.html#a7867a9ca7249eb94a712e34833fae930", null ],
+    [ "UpdateAI", "d1/db6/a06072.html#ace9bc9ff47a463ceb05217ae77b5782b", null ]
 ];

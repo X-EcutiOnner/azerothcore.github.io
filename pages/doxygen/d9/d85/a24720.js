@@ -1,7 +1,10 @@
 var a24720 =
 [
-    [ "HandleProc", "d9/d85/a24720.html#a1982ba611c17042d0bff8bac66280218", null ],
-    [ "PrepareAuraScript", "d9/d85/a24720.html#a459fde61325e3aeb1e339670138aacce", null ],
-    [ "Register", "d9/d85/a24720.html#a151f0e7f04a9ee01189de20686a15bc4", null ],
-    [ "Validate", "d9/d85/a24720.html#af57da6008a6ff796487b2da68644104b", null ]
+    [ "CalculateAPAmount", "d9/d85/a24720.html#af1d4558f6132d3c2abc71ec1dabee2e8", null ],
+    [ "CalculateResistanceAmount", "d9/d85/a24720.html#a5d6e7b92f4335176388a877e72c0e92c", null ],
+    [ "CalculateSPAmount", "d9/d85/a24720.html#a40c96996d19b9f7eeed3fda4271b9f87", null ],
+    [ "CalculateStatAmount", "d9/d85/a24720.html#ae4f96de2c558a4b0fd7659442aa3d92b", null ],
+    [ "HandleEffectApply", "d9/d85/a24720.html#aeebb14424a6ae336edd4b66d824d648a", null ],
+    [ "PrepareAuraScript", "d9/d85/a24720.html#a7e3dc351574f6d6ad3424eb7df7092df", null ],
+    [ "Register", "d9/d85/a24720.html#ab5713a34ced4d2e2a67b43e98d7a55c0", null ]
 ];

@@ -1,4 +1,5 @@
 var a02219 =
 [
-    [ "AddCustomScripts", "de/d59/a02219.html#a068af514420f658f0c087bbb77628173", null ]
+    [ "group_commandscript", "dc/d82/a11700.html", "dc/d82/a11700" ],
+    [ "AddSC_group_commandscript", "de/d59/a02219.html#ac4c9434ed910cd9636e0a8644a8e91e1", null ]
 ];

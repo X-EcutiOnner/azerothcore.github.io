@@ -1,27 +1,42 @@
 var a02801 =
 [
-    [ "npc_shenthul", "d2/d2c/a15532.html", "d2/d2c/a15532" ],
-    [ "npc_shenthul::npc_shenthulAI", "d0/db9/a15536.html", "d0/db9/a15536" ],
-    [ "npc_thrall_warchief", "d1/de9/a15540.html", "d1/de9/a15540" ],
-    [ "npc_thrall_warchief::npc_thrall_warchiefAI", "d4/d5c/a15544.html", "d4/d5c/a15544" ],
-    [ "Shenthul", "d8/d1e/a02801.html#a032512bb2693fda342f4d77dba794fbe", [
-      [ "QUEST_SHATTERED_SALUTE", "d8/d1e/a02801.html#a032512bb2693fda342f4d77dba794fbea38993f500c01e7bc0ae8dd3a83848ff0", null ]
+    [ "npc_lakota_windsong", "d6/d25/a15712.html", "d6/d25/a15712" ],
+    [ "npc_lakota_windsong::npc_lakota_windsongAI", "db/d23/a15716.html", "db/d23/a15716" ],
+    [ "npc_paoka_swiftmountain", "d8/d4e/a15720.html", "d8/d4e/a15720" ],
+    [ "npc_paoka_swiftmountain::npc_paoka_swiftmountainAI", "d8/da8/a15724.html", "d8/da8/a15724" ],
+    [ "npc_plucky", "d8/d57/a15728.html", "d8/d57/a15728" ],
+    [ "npc_plucky::npc_pluckyAI", "df/d8b/a15732.html", "df/d8b/a15732" ],
+    [ "spell_panther_cage_key", "d3/d0f/a15736.html", "d3/d0f/a15736" ],
+    [ "GOSSIP_P", "d8/d1e/a02801.html#abe76f0bf6cd768a947537874b5a56330", null ],
+    [ "Lakota", "d8/d1e/a02801.html#ac39a2ad4e9c1ced24984bd5c9acf3745", [
+      [ "SAY_LAKO_START", "d8/d1e/a02801.html#ac39a2ad4e9c1ced24984bd5c9acf3745ad685ecf0f999b3b0859c272226a5b4b0", null ],
+      [ "SAY_LAKO_LOOK_OUT", "d8/d1e/a02801.html#ac39a2ad4e9c1ced24984bd5c9acf3745a1b46b3b897330c62331282922a1cc28f", null ],
+      [ "SAY_LAKO_HERE_COME", "d8/d1e/a02801.html#ac39a2ad4e9c1ced24984bd5c9acf3745ab3d49c68827aa5fe936a35424c8f0e6a", null ],
+      [ "SAY_LAKO_MORE", "d8/d1e/a02801.html#ac39a2ad4e9c1ced24984bd5c9acf3745a2c2cac4bc7f485753ffc62ce9ac53f74", null ],
+      [ "SAY_LAKO_END", "d8/d1e/a02801.html#ac39a2ad4e9c1ced24984bd5c9acf3745aec914a4c9c6b907b2f105307b224a80c", null ],
+      [ "QUEST_FREE_AT_LAST", "d8/d1e/a02801.html#ac39a2ad4e9c1ced24984bd5c9acf3745aaab7b3aeba6646842a5bdadb11feed57", null ],
+      [ "NPC_GRIM_BANDIT", "d8/d1e/a02801.html#ac39a2ad4e9c1ced24984bd5c9acf3745acbe7e3eadbfd99e1aefdd918f0c28923", null ],
+      [ "ID_AMBUSH_1", "d8/d1e/a02801.html#ac39a2ad4e9c1ced24984bd5c9acf3745a6b351de9d4d7cf41632a688dac1d3c33", null ],
+      [ "ID_AMBUSH_2", "d8/d1e/a02801.html#ac39a2ad4e9c1ced24984bd5c9acf3745af63f5bcbb697f260ed4b2b515e6c5820", null ],
+      [ "ID_AMBUSH_3", "d8/d1e/a02801.html#ac39a2ad4e9c1ced24984bd5c9acf3745a104db33b08420d20a3c621920e5af607", null ]
     ] ],
-    [ "ThrallWarchief", "d8/d1e/a02801.html#a1cdad3bda3b93500c342a64dce6d15d9", [
-      [ "SPELL_CHAIN_LIGHTNING", "d8/d1e/a02801.html#a1cdad3bda3b93500c342a64dce6d15d9ac0997e72929070d8e30cc0f49cc4539d", null ],
-      [ "SPELL_SHOCK", "d8/d1e/a02801.html#a1cdad3bda3b93500c342a64dce6d15d9a30aa4cac2f70a310466b3fb0f2d10eab", null ],
-      [ "QUEST_FOR_THE_HORDE", "d8/d1e/a02801.html#a1cdad3bda3b93500c342a64dce6d15d9aed442141280385194a0a8b73d7e489af", null ],
-      [ "SPELL_WARCHIEF_BLESSING", "d8/d1e/a02801.html#a1cdad3bda3b93500c342a64dce6d15d9a567e6044eaae260d8ab29c346613b225", null ],
-      [ "NPC_HERALD_OF_THRALL", "d8/d1e/a02801.html#a1cdad3bda3b93500c342a64dce6d15d9a3533aba0519168d4cfb3446a1bbde5bc", null ],
-      [ "ACTION_START_TALKING", "d8/d1e/a02801.html#a1cdad3bda3b93500c342a64dce6d15d9a322b9b49cd88bc70c039be2aa4e0c7fd", null ],
-      [ "SAY_THRALL_ON_QUEST_REWARD_0", "d8/d1e/a02801.html#a1cdad3bda3b93500c342a64dce6d15d9a64ac3588375f611524513fd4d4293a1b", null ],
-      [ "SAY_THRALL_ON_QUEST_REWARD_1", "d8/d1e/a02801.html#a1cdad3bda3b93500c342a64dce6d15d9a3a6a88801e0a276bd78e5299ffb76302", null ],
-      [ "GO_UNADORNED_SPIKE", "d8/d1e/a02801.html#a1cdad3bda3b93500c342a64dce6d15d9a544ea295d906cebdf38aecb93e7ac153", null ],
-      [ "QUEST_WHAT_THE_WIND_CARRIES", "d8/d1e/a02801.html#a1cdad3bda3b93500c342a64dce6d15d9a5bc18876e7da8ddfc493ea155bb75287", null ],
-      [ "GOSSIP_MENU_THRALL", "d8/d1e/a02801.html#a1cdad3bda3b93500c342a64dce6d15d9a502d5aed1ed2917d36573a355656ce86", null ],
-      [ "GOSSIP_RESPONSE_THRALL_FIRST", "d8/d1e/a02801.html#a1cdad3bda3b93500c342a64dce6d15d9a710a8ed7a2d8ddb38e5e0f7db188132d", null ],
-      [ "QUEST_WARCHIEFS_BLESSING", "d8/d1e/a02801.html#a1cdad3bda3b93500c342a64dce6d15d9ab698e2206a77782e1893a2230085a047", null ]
+    [ "Packa", "d8/d1e/a02801.html#aa5861ade3620d04c615fc8c237d80102", [
+      [ "SAY_START", "d8/d1e/a02801.html#aa5861ade3620d04c615fc8c237d80102a2eae21cbf7d110ee89a9798ef6f00239", null ],
+      [ "SAY_WYVERN", "d8/d1e/a02801.html#aa5861ade3620d04c615fc8c237d80102a89b65c3f1b01d8e211937b52981ec045", null ],
+      [ "SAY_COMPLETE", "d8/d1e/a02801.html#aa5861ade3620d04c615fc8c237d80102ac31c61437b536671a4aac2cfc0a66fdd", null ],
+      [ "QUEST_HOMEWARD", "d8/d1e/a02801.html#aa5861ade3620d04c615fc8c237d80102a226fac5a4fdf03b5b8cbdb6ff533037c", null ],
+      [ "NPC_WYVERN", "d8/d1e/a02801.html#aa5861ade3620d04c615fc8c237d80102a771d1fc8b6ed270a927ff5a146e4d9de", null ]
     ] ],
-    [ "AddSC_orgrimmar", "d8/d1e/a02801.html#aec4388ea6d2e4bbc1d279b3a4687c4c6", null ],
-    [ "heraldOfThrallPos", "d8/d1e/a02801.html#a016aeee1d0eac9c78c522520663670f0", null ]
+    [ "PantherCage", "d8/d1e/a02801.html#a59d31c8fc3505146f60a3a4fcbb5b502", [
+      [ "NPC_ENRAGED_PANTHER", "d8/d1e/a02801.html#a59d31c8fc3505146f60a3a4fcbb5b502a9a705dc738c579f064f3dedc010cfa84", null ],
+      [ "QUEST_HYPERCAPACITOR_GIZMO", "d8/d1e/a02801.html#a59d31c8fc3505146f60a3a4fcbb5b502af086e007008db9902863c5bb28c1affe", null ]
+    ] ],
+    [ "Plucky", "d8/d1e/a02801.html#aba5ef692b96fe4f89e8ffd8c4e37d4e1", [
+      [ "QUEST_SCOOP", "d8/d1e/a02801.html#aba5ef692b96fe4f89e8ffd8c4e37d4e1a6c756d0f0363f4a2918294de15581e1b", null ],
+      [ "SPELL_PLUCKY_HUMAN", "d8/d1e/a02801.html#aba5ef692b96fe4f89e8ffd8c4e37d4e1ae828034bf4e23f2a9ab587c74aea1e47", null ],
+      [ "SPELL_PLUCKY_CHICKEN", "d8/d1e/a02801.html#aba5ef692b96fe4f89e8ffd8c4e37d4e1ae20866bf46f5f2e406792d8e5e6a5179", null ]
+    ] ],
+    [ "AddSC_thousand_needles", "d8/d1e/a02801.html#a58e024bcebfefe3b44080ac0751c36bd", null ],
+    [ "BanditLoc", "d8/d1e/a02801.html#a9d831677b4e878c5a76e7bc332ba6730", null ],
+    [ "WyvernLoc", "d8/d1e/a02801.html#aca7b1639e471cc34f43cd5768265d02a", null ]
 ];

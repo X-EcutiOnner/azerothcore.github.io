@@ -1,6 +1,7 @@
 var a19784 =
 [
-    [ "CastRunesEvent", "d2/d4c/a19784.html#aa3c5912362a4ce8a5b463da626f277b0", null ],
-    [ "Execute", "d2/d4c/a19784.html#ad86f17817c8a5accb1cc90e0e5d362f3", null ],
-    [ "_owner", "d2/d4c/a19784.html#a308c679c6e427e89734b5f506ad9d0d6", null ]
+    [ "HandleDummyEffect", "d2/d4c/a19784.html#ae95c1ce60db79c360e9c1431f27705cb", null ],
+    [ "PrepareSpellScript", "d2/d4c/a19784.html#a84a4f52928873e58b1fc49e783c5083a", null ],
+    [ "Register", "d2/d4c/a19784.html#a90c00bcb1768d696addab407425e406a", null ],
+    [ "SelectTarget", "d2/d4c/a19784.html#a2e7a7c05a30ae1e0c5aa14dc2af19345", null ]
 ];

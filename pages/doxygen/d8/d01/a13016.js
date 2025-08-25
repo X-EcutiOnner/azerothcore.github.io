@@ -1,6 +1,6 @@
 var a13016 =
 [
-    [ "OnRemove", "d8/d01/a13016.html#aedad236b202300eee0925e3600b87bfa", null ],
-    [ "PrepareAuraScript", "d8/d01/a13016.html#acfdeb98e274989e378d4d4c800306a24", null ],
-    [ "Register", "d8/d01/a13016.html#a0d820ca108e3aabe87ab5867d997264c", null ]
+    [ "npc_a_special_surpriseAI", "d5/d4b/a13020.html", "d5/d4b/a13020" ],
+    [ "npc_a_special_surprise", "d8/d01/a13016.html#ab88d74a86049c53b1569bdcc263f3dd4", null ],
+    [ "GetAI", "d8/d01/a13016.html#a930c7ba67a20fbfc55b40117ccd52c98", null ]
 ];

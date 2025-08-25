@@ -1,8 +1,8 @@
 var a27560 =
 [
-    [ "npc_chicken_cluckAI", "d8/d9a/a27564.html", "d8/d9a/a27564" ],
-    [ "npc_chicken_cluck", "d1/d73/a27560.html#a7bc08c81fca730886c47e0f3a3d8062c", null ],
-    [ "GetAI", "d1/d73/a27560.html#abf986f555672823477c3c17e0f59bdbe", null ],
-    [ "OnQuestAccept", "d1/d73/a27560.html#acca62c027b5b0cdff107e04cf2c276ea", null ],
-    [ "OnQuestComplete", "d1/d73/a27560.html#a8f22520166a557e066502eb16bdae774", null ]
+    [ "npc_riggle_bassbaitAI", "d8/d9a/a27564.html", "d8/d9a/a27564" ],
+    [ "npc_riggle_bassbait", "d1/d73/a27560.html#afc4280099cda3c28c4634d649e636839", null ],
+    [ "GetAI", "d1/d73/a27560.html#ad5e3230dae9ac23aa83883e53b37234e", null ],
+    [ "OnGossipHello", "d1/d73/a27560.html#aeea1e5d4d59c72ce97e1f0eb8da5b6fe", null ],
+    [ "OnQuestReward", "d1/d73/a27560.html#aa3ef2b3ebd7542a4836983872c397e66", null ]
 ];

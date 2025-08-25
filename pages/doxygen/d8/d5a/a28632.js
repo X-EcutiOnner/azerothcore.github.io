@@ -1,7 +1,9 @@
 var a28632 =
 [
-    [ "asyncId", "d8/d5a/a28632.html#afd18849875b4562e4a532903676ce25d", null ],
-    [ "flags", "d8/d5a/a28632.html#a9b9c3cec4acbd87911aa047dd52ae443", null ],
-    [ "offsMCNK", "d8/d5a/a28632.html#a063c5dc62c44038e882340221bf8228a", null ],
-    [ "size", "d8/d5a/a28632.html#a47a5eeb595d53de009651ae02d2b416d", null ]
+    [ "SetUp", "d8/d5a/a28632.html#abb28ef64461635a540dad471b7b12ebc", null ],
+    [ "TearDown", "d8/d5a/a28632.html#ace0b9a0c578a6b8ec1d33ad584aaf911", null ],
+    [ "arenaTeams", "d8/d5a/a28632.html#ab40dacafdb3c5de73cf66426d014a4fe", null ],
+    [ "team1", "d8/d5a/a28632.html#a325d8058950e53d17e16fd90cd105776", null ],
+    [ "team2", "d8/d5a/a28632.html#ac6336ffa31e59a5d3acc227c674e9ea8", null ],
+    [ "team3", "d8/d5a/a28632.html#af3c2e86874e53ae812debbe1abfbcf05", null ]
 ];

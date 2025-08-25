@@ -1,13 +1,6 @@
 var a22488 =
 [
-    [ "OPvPCapturePointEP_EWT", "d4/d5a/a22488.html#a3740f069c46f9d3f0e11d97663bc0104", null ],
-    [ "ChangeState", "d4/d5a/a22488.html#ac00c50b89e1218f87506778096a9d7cd", null ],
-    [ "FillInitialWorldStates", "d4/d5a/a22488.html#a7ce76f4fc8169c42f65267daf987a3b6", null ],
-    [ "HandlePlayerEnter", "d4/d5a/a22488.html#aed78ccf9ad517b4a94431e3355cba1dd", null ],
-    [ "HandlePlayerLeave", "d4/d5a/a22488.html#a2638b24dca375420778845963e307db3", null ],
-    [ "SendChangePhase", "d4/d5a/a22488.html#a6d45df918aea00e9cb85a8940cb5c1c9", null ],
-    [ "SummonSupportUnitAtNorthpassTower", "d4/d5a/a22488.html#ad70a8cc485072cd9af892290584062d8", null ],
-    [ "UpdateTowerState", "d4/d5a/a22488.html#ac0bcdfb9f2aeabc78b72c3cce674c479", null ],
-    [ "m_TowerState", "d4/d5a/a22488.html#aa30e9cc01476eb20b188c7a13a405c3a", null ],
-    [ "m_UnitsSummonedSideId", "d4/d5a/a22488.html#a0319f0d51624df44419976e7abd1b813", null ]
+    [ "npc_captured_rageclawAI", "d3/dc7/a22492.html", "d3/dc7/a22492" ],
+    [ "npc_captured_rageclaw", "d4/d5a/a22488.html#ad49176279e9d16a6a24c0649c576c0be", null ],
+    [ "GetAI", "d4/d5a/a22488.html#aa39b6c518fe22d91b8673cfd576866a4", null ]
 ];

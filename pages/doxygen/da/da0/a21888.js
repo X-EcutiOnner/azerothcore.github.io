@@ -1,7 +1,7 @@
 var a21888 =
 [
-    [ "HandleDummy", "da/da0/a21888.html#ae180aea347e73fcce44e9ac3ff33d0ce", null ],
-    [ "PrepareSpellScript", "da/da0/a21888.html#a9d863ad1d44a9d5dc2b212ef0c414626", null ],
-    [ "Register", "da/da0/a21888.html#a45f80e0436f93a597deb4653852df6a1", null ],
-    [ "Validate", "da/da0/a21888.html#ad13fdade1fb7455485bfd68687de53c5", null ]
+    [ "FilterTargets", "da/da0/a21888.html#af62588a225f0b701a0f9321677ae22b8", null ],
+    [ "HandleScript", "da/da0/a21888.html#ad68fad08b2613de096e504bb7dea61cd", null ],
+    [ "PrepareSpellScript", "da/da0/a21888.html#a76ac3fe280585a4e2b2d599b4bcc7846", null ],
+    [ "Register", "da/da0/a21888.html#a8fdbf1c7ab67c0ef094d738ec9a169d8", null ]
 ];

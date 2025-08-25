@@ -1,8 +1,8 @@
 var a01616 =
 [
-    [ "FormationInfo", "d7/df6/a08080.html", "d7/df6/a08080" ],
-    [ "FormationMgr", "d9/d93/a08084.html", "d9/d93/a08084" ],
-    [ "CreatureGroup", "de/d0b/a08088.html", "de/d0b/a08088" ],
+    [ "FormationInfo", "de/d0b/a08088.html", "de/d0b/a08088" ],
+    [ "FormationMgr", "d5/d49/a08092.html", "d5/d49/a08092" ],
+    [ "CreatureGroup", "d2/d6b/a08096.html", "d2/d6b/a08096" ],
     [ "sFormationMgr", "db/dad/a01616.html#ae80a51404625cee821a8727ed7369352", null ],
     [ "CreatureGroupInfoType", "db/dad/a01616.html#a2c3447bf21f430bff136da6811d93a61", null ],
     [ "GroupAIFlags", "db/dad/a01616.html#a3754da8cc6b209da0180cd76de20869c", [

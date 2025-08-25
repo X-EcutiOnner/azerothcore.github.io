@@ -1,10 +1,9 @@
 var a21668 =
 [
-    [ "npc_preparations_for_war_vehicle", "d0/d2d/a21668.html#a56b37aa1c2b50cac4dfb6b907ffb6d48", null ],
-    [ "InitializeAI", "d0/d2d/a21668.html#a85eaba9e51498313f8498eaaf0e7d0d1", null ],
-    [ "MovementInform", "d0/d2d/a21668.html#ac78c5675b42563f46cc2af0f0c97bee0", null ],
-    [ "UpdateAI", "d0/d2d/a21668.html#ae40a23070d96ecf122e9de5571a845ef", null ],
-    [ "pointId", "d0/d2d/a21668.html#ae75d286eb6116b41adb346861b3c1365", null ],
-    [ "searchForShipTimer", "d0/d2d/a21668.html#a49f8a43891d61460b1d6cdde610a2e88", null ],
-    [ "transportEntry", "d0/d2d/a21668.html#aa0083566387cd42750aaa56b1fa23fed", null ]
+    [ "npc_bloodmage_laurithAI", "d0/d2d/a21668.html#a75dca4f2e90318f334e7e6385d4f7a6f", null ],
+    [ "Reset", "d0/d2d/a21668.html#afe9b10dfcee3b241a48e6f2e40eec657", null ],
+    [ "SetGUID", "d0/d2d/a21668.html#a50a144cf1545117d79268d3a18a4b4ec", null ],
+    [ "UpdateAI", "d0/d2d/a21668.html#a9752f518441071dd4a60cd63423bf9a3", null ],
+    [ "_events", "d0/d2d/a21668.html#a35facab84094071d952792a4c3e5015d", null ],
+    [ "_playerGUID", "d0/d2d/a21668.html#a6aab8db1d55d4fe3251b544c292711e8", null ]
 ];

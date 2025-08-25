@@ -1,6 +1,7 @@
 var a26560 =
 [
-    [ "HandleSendEvent", "d1/d31/a26560.html#a8126102215aa6eedd638b89d1a6b7110", null ],
-    [ "PrepareSpellScript", "d1/d31/a26560.html#abc57ba05637e2c51bf2d1fb918a93667", null ],
-    [ "Register", "d1/d31/a26560.html#ac37abad48c398bdb22529c1a44327d34", null ]
+    [ "HandleDummy", "d1/d31/a26560.html#ab046ef0adc63c32a153ba4ea866f8dcd", null ],
+    [ "PrepareSpellScript", "d1/d31/a26560.html#ac293d1c1aac41808f81cad2974424c2e", null ],
+    [ "Register", "d1/d31/a26560.html#ab145e1826eb63d0b6b1ea39a6c3c4d36", null ],
+    [ "Validate", "d1/d31/a26560.html#aa725a6ee483dfac46724d291de4ee54b", null ]
 ];

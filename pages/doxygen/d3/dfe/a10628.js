@@ -1,5 +1,5 @@
 var a10628 =
 [
-    [ "Flags", "d3/dfe/a10628.html#af1d25fa760cdbfa907a1b6e0002f0e70", null ],
-    [ "WithdrawItemLimit", "d3/dfe/a10628.html#aa7bb5355ee174f3b9dd32c659e0f7806", null ]
+    [ "GuildPermissionsQuery", "d3/dfe/a10628.html#a6ab30e173d26362db0065f4f9f8fa5f8", null ],
+    [ "Read", "d3/dfe/a10628.html#aec20af8c3c8236627353287fe2eaa0a7", null ]
 ];

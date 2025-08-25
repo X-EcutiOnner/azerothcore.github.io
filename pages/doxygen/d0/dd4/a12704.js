@@ -1,8 +1,10 @@
 var a12704 =
 [
-    [ "npc_tito", "d0/dd4/a12704.html#a0b3b1750e8b8840e50d27d22ebddb7c8", null ],
-    [ "JustEngagedWith", "d0/dd4/a12704.html#a71335c1474e8a29edf76addacb737fa9", null ],
-    [ "UpdateAI", "d0/dd4/a12704.html#ac357c29e68d8480d94349da844efd3ad", null ],
-    [ "_scheduler", "d0/dd4/a12704.html#a96c47ca2e66bb984dfd2cfefa6bde643", null ],
-    [ "instance", "d0/dd4/a12704.html#a9eecd226486e52d559ae1a30687bf0eb", null ]
+    [ "boss_servant_quarters", "d0/dd4/a12704.html#aedf2869e3fbc1ebd13caedffa60bbf5f", null ],
+    [ "JustDied", "d0/dd4/a12704.html#a3b9df7ab573f22a9e15761cb662db404", null ],
+    [ "JustEngagedWith", "d0/dd4/a12704.html#afe4a4a78824851f63ce560a60d55cee3", null ],
+    [ "MovementInform", "d0/dd4/a12704.html#a00d31d9421903b6a92c03a3bd0382328", null ],
+    [ "Reset", "d0/dd4/a12704.html#a273a09b1242968a5dd45ab9866fbe481", null ],
+    [ "UpdateAI", "d0/dd4/a12704.html#a6a41cfd67310077803733190645050e4", null ],
+    [ "_scheduler", "d0/dd4/a12704.html#a520142de5e8d2911684b18c85a3f37e2", null ]
 ];

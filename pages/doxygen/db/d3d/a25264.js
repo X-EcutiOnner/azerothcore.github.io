@@ -1,6 +1,5 @@
 var a25264 =
 [
-    [ "HandleScriptEffect", "db/d3d/a25264.html#a78a131bdf6a1406604edd130c28d664b", null ],
-    [ "PrepareSpellScript", "db/d3d/a25264.html#a3b2d739227e57667a284ae4600ec1bb6", null ],
-    [ "Register", "db/d3d/a25264.html#a8a70913369aa733160366f37ff1c3470", null ]
+    [ "PrepareSpellScript", "db/d3d/a25264.html#a096abf53c6e622875c463060e986b5ef", null ],
+    [ "Register", "db/d3d/a25264.html#a68905cc33f09dbb42db67139193530cb", null ]
 ];

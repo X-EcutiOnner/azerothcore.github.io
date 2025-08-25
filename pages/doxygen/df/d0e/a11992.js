@@ -1,7 +1,6 @@
 var a11992 =
 [
-    [ "boss_okthorAI", "df/d0e/a11992.html#a8007cfade5c04d8b4e0b787ac5a5beff", null ],
-    [ "JustEngagedWith", "df/d0e/a11992.html#a466a618e52f40e04e873dd50f3728755", null ],
-    [ "UpdateAI", "df/d0e/a11992.html#a246c3bd9aa96eb11d2fa48be8654d726", null ],
-    [ "nextArcaneExplosionTime", "df/d0e/a11992.html#a89d8cdd528775ee77caeac1d0465d4f2", null ]
+    [ "boss_high_interrogator_gerstahnAI", "d7/d7c/a11996.html", "d7/d7c/a11996" ],
+    [ "boss_high_interrogator_gerstahn", "df/d0e/a11992.html#a700eb542c041e9ca540f2676fc42aff9", null ],
+    [ "GetAI", "df/d0e/a11992.html#ab4e92847a1ce6bf50f0ae460c1a7108f", null ]
 ];

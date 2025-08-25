@@ -1,9 +1,8 @@
 var a21548 =
 [
-    [ "npc_lurgglbrAI", "d2/d92/a21548.html#a9239b85c65f9b405335d432f355637d5", null ],
-    [ "Reset", "d2/d92/a21548.html#a13b8bd8e7d85c93b0ee88c6e9f6d09ca", null ],
-    [ "UpdateAI", "d2/d92/a21548.html#aee019df9abe7ca3bf36a6de2321bedec", null ],
-    [ "WaypointReached", "d2/d92/a21548.html#a09ac2f2f21eefedd0052f727546bafb5", null ],
-    [ "IntroPhase", "d2/d92/a21548.html#a57e2c42cccf91765365e0b046446637a", null ],
-    [ "IntroTimer", "d2/d92/a21548.html#ada9762806ae0132e37197e6fb1279866", null ]
+    [ "HandleEffectRemove", "d2/d92/a21548.html#aa2b05befb775244423264f6b5e2387c1", null ],
+    [ "Load", "d2/d92/a21548.html#a02ea4c29f2c7e15a5039b93d7a0d3c5e", null ],
+    [ "PrepareAuraScript", "d2/d92/a21548.html#a632e81cc39bdcd0f5adcc684231d1171", null ],
+    [ "Register", "d2/d92/a21548.html#aba5483b1d35c1b58841fad2b1086f07c", null ],
+    [ "Validate", "d2/d92/a21548.html#ada90e1f06ced8f4e353fe2bda3d31637", null ]
 ];

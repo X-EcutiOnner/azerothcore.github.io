@@ -1,15 +1,7 @@
 var a09684 =
 [
-    [ "LootStoreItem", "de/db2/a09684.html#a10250dce57b2b8103c6ac11aa1ac2f0f", null ],
-    [ "IsValid", "de/db2/a09684.html#ae5fc113c31d96bc7ca31a5bc36ab2fcf", null ],
-    [ "Roll", "de/db2/a09684.html#a87cc7956b131a16aee7bd5d4808193df", null ],
-    [ "chance", "de/db2/a09684.html#a20411103b449a9176b3bc665f909f06f", null ],
-    [ "conditions", "de/db2/a09684.html#a88812a51fb467a189f2824ad8b3198e8", null ],
-    [ "groupid", "de/db2/a09684.html#abc6df381782d25490dff0e54bec63b3a", null ],
-    [ "itemid", "de/db2/a09684.html#a5df1d4fde5f3358470bd16f7ad9154c1", null ],
-    [ "lootmode", "de/db2/a09684.html#ab5f7b258bd5cfe4263acd9e0b253b166", null ],
-    [ "maxcount", "de/db2/a09684.html#a96012059cc6affa8120ef544682781d2", null ],
-    [ "mincount", "de/db2/a09684.html#ada6a4d427187361c6bc33bdde789e809", null ],
-    [ "needs_quest", "de/db2/a09684.html#a5a2fe7ae48508b88bbdfc70fc4035f31", null ],
-    [ "reference", "de/db2/a09684.html#a374a94e34095a1beb38abca43069d0b6", null ]
+    [ "LootGroupInvalidSelector", "de/db2/a09684.html#abea815e8ee0d31cc64b3fd7f46033cca", null ],
+    [ "operator()", "de/db2/a09684.html#a2ea426fdeced03324c4a63184c2c1fc4", null ],
+    [ "_loot", "de/db2/a09684.html#a67b9d223426512af79bbf5b035c18a6d", null ],
+    [ "_lootMode", "de/db2/a09684.html#a10e307846a0731aa812388c29c0d4bc8", null ]
 ];

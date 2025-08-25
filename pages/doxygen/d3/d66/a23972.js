@@ -1,6 +1,6 @@
 var a23972 =
 [
-    [ "npc_nether_drakeAI", "d2/da6/a23976.html", "d2/da6/a23976" ],
-    [ "npc_nether_drake", "d3/d66/a23972.html#a253ec3c91857b899ea9e2c824870b760", null ],
-    [ "GetAI", "d3/d66/a23972.html#a58d269e2c73cae07bb507162b742fe8f", null ]
+    [ "HandlePeriodic", "d3/d66/a23972.html#a0838d4449351f46a1f9f485abaf35c2b", null ],
+    [ "PrepareAuraScript", "d3/d66/a23972.html#a438425f3002028a0978e0dbab580ca03", null ],
+    [ "Register", "d3/d66/a23972.html#af4b26607e8838b7bbbe8777f57601341", null ]
 ];

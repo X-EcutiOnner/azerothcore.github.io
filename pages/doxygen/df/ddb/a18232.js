@@ -1,8 +1,7 @@
 var a18232 =
 [
-    [ "FilterTargets", "df/ddb/a18232.html#a242fa53c2da9ac557623281bccf2af92", null ],
-    [ "HandleSendEvent", "df/ddb/a18232.html#a6120e057e2ee39d34eaeab79782add8d", null ],
-    [ "Load", "df/ddb/a18232.html#af48cdbf87d61cf6d8392f65ae4c9b18a", null ],
-    [ "PrepareSpellScript", "df/ddb/a18232.html#a0846e73f467d9c3a63b5e9a5d795aa37", null ],
-    [ "Register", "df/ddb/a18232.html#ae83950dfc35f7c1e64806d6ec273083c", null ]
+    [ "TriggerWickedSpirit", "df/ddb/a18232.html#ace62bc037a2bd8ca9c9c56202eb811e7", null ],
+    [ "Execute", "df/ddb/a18232.html#a7c8f1b5c33fac4d6a7cd89e3e71aa36d", null ],
+    [ "_counter", "df/ddb/a18232.html#a24b85a62208f881418f97b0a8cb10f27", null ],
+    [ "_owner", "df/ddb/a18232.html#ab460675158bfedd7f17a4b8e1cc06b3c", null ]
 ];

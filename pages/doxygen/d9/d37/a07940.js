@@ -1,7 +1,8 @@
 var a07940 =
 [
-    [ "LfgProposalPlayer", "d9/d37/a07940.html#a80f7d0f3597201dc7fca4d08dd3b7a38", null ],
-    [ "accept", "d9/d37/a07940.html#acbf0ce1e12307569487096dc5ca544a6", null ],
-    [ "group", "d9/d37/a07940.html#a900f24e9caaa1569eeea93b4284139a1", null ],
-    [ "role", "d9/d37/a07940.html#a54ab4a0f32cc3abc7489fc9c3655fe99", null ]
+    [ "LfgPlayerRewardData", "d9/d37/a07940.html#afe99288f8d7028a5a54317e73e3f2c01", null ],
+    [ "done", "d9/d37/a07940.html#a91ba12acf66d631af2de45513f20b702", null ],
+    [ "quest", "d9/d37/a07940.html#abd051091fec6835f63bafa98a045142b", null ],
+    [ "rdungeonEntry", "d9/d37/a07940.html#a87623ce14ef1d123d226e37e227a566d", null ],
+    [ "sdungeonEntry", "d9/d37/a07940.html#abe9c93ab7f3a421dd3c44414a0987277", null ]
 ];

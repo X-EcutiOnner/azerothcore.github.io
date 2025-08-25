@@ -1,5 +1,10 @@
 var a09100 =
 [
-    [ "asChar", "d7/dc5/a09100.html#a3c1546425a9287498d23753f51e27de2", null ],
-    [ "asUInt", "d7/dc5/a09100.html#a87b4e38a5c10dba382bd0761b70c2234", null ]
+    [ "iterator", "d7/dc5/a09100.html#a6bf9d06cfe6cb2e7df465ebf2acc099f", null ],
+    [ "begin", "d7/dc5/a09100.html#a1e4e67ba11ac8da077942a6581647bf3", null ],
+    [ "end", "d7/dc5/a09100.html#a266acb421cfc6ccc56dc2acff3202971", null ],
+    [ "getFirst", "d7/dc5/a09100.html#aa0156c2ad3ec5ca0df6f6a4c55d71a05", null ],
+    [ "getLast", "d7/dc5/a09100.html#a46a36813eaf752815a3f8c739db88a5d", null ],
+    [ "rbegin", "d7/dc5/a09100.html#ae69734978b5eec009a696861b7b7152b", null ],
+    [ "rend", "d7/dc5/a09100.html#a3f7b88b333f1da3a6ffdfc8ec31d8f52", null ]
 ];

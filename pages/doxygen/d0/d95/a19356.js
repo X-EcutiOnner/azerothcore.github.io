@@ -1,11 +1,14 @@
 var a19356 =
 [
-    [ "boss_ormorok", "d0/d95/a19356.html#aa4862339ed41d5c593a93ef605d85a39", null ],
-    [ "JustDied", "d0/d95/a19356.html#af84a958b2f16b082fe3b2e1dc70dd8fa", null ],
-    [ "JustEngagedWith", "d0/d95/a19356.html#a22ac203db7c3b445e653798743e48764", null ],
-    [ "JustSummoned", "d0/d95/a19356.html#acc149b49e6658454610a7871e3c82b5e", null ],
-    [ "KilledUnit", "d0/d95/a19356.html#a65a1512bad7c773a0aede6ba2cb9700e", null ],
-    [ "Reset", "d0/d95/a19356.html#a88a1c308790e45a6fa09f0d740116f4e", null ],
-    [ "UpdateAI", "d0/d95/a19356.html#a15f2e30fa1780aadba6673f6537fc16f", null ],
-    [ "_spikesCount", "d0/d95/a19356.html#a29cc8c3db5ba3d528ea873d66be619cd", null ]
+    [ "boss_anomalus", "d0/d95/a19356.html#aa4dd8fac7c360beb834382f624ed2246", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "d0/d95/a19356.html#ada0735330bff29a8c04706c980e6bbfc", null ],
+    [ "GetData", "d0/d95/a19356.html#ad48aebb50cda7ee621f71803669f04c2", null ],
+    [ "JustDied", "d0/d95/a19356.html#a41e257481921a122dba30348559e05fb", null ],
+    [ "JustEngagedWith", "d0/d95/a19356.html#a7224e8cf6e849d7115f88c7198fdb023", null ],
+    [ "JustSummoned", "d0/d95/a19356.html#a3c0413f30d96268cab724856334e61ee", null ],
+    [ "Reset", "d0/d95/a19356.html#a80bec5060c1b6747f2b418b90bcc18eb", null ],
+    [ "SetData", "d0/d95/a19356.html#aa79ec9829862b573cd0f38f965d737e8", null ],
+    [ "UpdateAI", "d0/d95/a19356.html#a5d3d77b49e256e09bbb613e810dfc60b", null ],
+    [ "achievement", "d0/d95/a19356.html#a2db4d6d2d6a19642607560e93ae8bd77", null ],
+    [ "activeRifts", "d0/d95/a19356.html#ac7632bd47c4d64ac032fd066138f22cf", null ]
 ];

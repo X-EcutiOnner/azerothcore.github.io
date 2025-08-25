@@ -1,12 +1,11 @@
 var a08068 =
 [
-    [ "TrainerSpell", "dd/db6/a08068.html#a87a098774b32babfcf2000e3330a25b9", null ],
-    [ "IsCastable", "dd/db6/a08068.html#a2f638f0e068623d38f0dab7c346ac8ed", null ],
-    [ "learnedSpell", "dd/db6/a08068.html#a2396712a58fa61f340632de48dac9b78", null ],
-    [ "reqLevel", "dd/db6/a08068.html#ac71afa7c180905ae4247011b2f40f929", null ],
-    [ "reqSkill", "dd/db6/a08068.html#ac0a74c104994e36ba95703689ed92964", null ],
-    [ "reqSkillValue", "dd/db6/a08068.html#a1187d182a512ae0f40af6ea36a4911db", null ],
-    [ "reqSpell", "dd/db6/a08068.html#a6f2d3fa6a5f4403822b924f64e796deb", null ],
-    [ "spell", "dd/db6/a08068.html#af7649fcfa5e6ca77c7d0aa9ef474b44c", null ],
-    [ "spellCost", "dd/db6/a08068.html#a9adb80199e22a0db5d4eb262d9edbfe8", null ]
+    [ "AddItem", "dd/db6/a08068.html#a46f6533323fd15632c3f9a8b96ef6f3f", null ],
+    [ "Clear", "dd/db6/a08068.html#a70c7400c4bc60923fd538890774445de", null ],
+    [ "Empty", "dd/db6/a08068.html#ab55fa73ab327294de2c5f6906fc1fbdb", null ],
+    [ "FindItemCostPair", "dd/db6/a08068.html#a61dc4394afdd3a360559ffec1655c343", null ],
+    [ "GetItem", "dd/db6/a08068.html#aa764da5b4647c84813e3aa6b46de7593", null ],
+    [ "GetItemCount", "dd/db6/a08068.html#ae80634592ce705c77c5aa53960f89c24", null ],
+    [ "RemoveItem", "dd/db6/a08068.html#a974925f2979910348a0af795893b310b", null ],
+    [ "m_items", "dd/db6/a08068.html#aa16668e54fce8fffe8651644cdef4335", null ]
 ];

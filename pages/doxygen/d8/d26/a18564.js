@@ -1,8 +1,6 @@
 var a18564 =
 [
-    [ "FilterTargets", "d8/d26/a18564.html#aed8b741160cbf50dde84cf059c8b52cb", null ],
-    [ "HandleForceCast", "d8/d26/a18564.html#ae783cf255be823bf7c9125f288479e97", null ],
-    [ "Load", "d8/d26/a18564.html#ac8f92e9284abc56d55ecf3aa73d350f8", null ],
-    [ "PrepareSpellScript", "d8/d26/a18564.html#a68074978fe2c1b137c6ddfd7b9082bfc", null ],
-    [ "Register", "d8/d26/a18564.html#a454a8909be4bb85f255ea696041ea447", null ]
+    [ "npc_blistering_zombieAI", "d8/da7/a18568.html", "d8/da7/a18568" ],
+    [ "npc_blistering_zombie", "d8/d26/a18564.html#aade4afec51e5ee77df8a39cff83e1f44", null ],
+    [ "GetAI", "d8/d26/a18564.html#a08ef7c13b1755ac665507cd8397a2f93", null ]
 ];

@@ -1,4 +1,5 @@
 var a08040 =
 [
-    [ "ItemEntry", "dd/d0b/a08040.html#aa941274a50c076189d0957120ca25e5e", null ]
+    [ "BoxText", "dd/d0b/a08040.html#a00882f98df67222d396ae9992084a1cd", null ],
+    [ "OptionText", "dd/d0b/a08040.html#ab69f2dac8061cf8f6762a683243934fa", null ]
 ];

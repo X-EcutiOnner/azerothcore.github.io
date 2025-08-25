@@ -1,5 +1,7 @@
 var a07680 =
 [
-    [ "value_type", "d8/de1/a07680.html#ae75362e108b0a7323fe92cae75c4729c", null ],
-    [ "TryConsume", "d8/de1/a07680.html#a19112294c2e36c8e36fb3f77f2ccabba", null ]
+    [ "value_type", "d8/de1/a07680.html#a7a7bb2f2de595ea6ca37885da6f63b9f", null ],
+    [ "TryConsume", "d8/de1/a07680.html#ad98dd12bf2b9d4c5a3812d91232c4b8e", null ],
+    [ "_storage", "d8/de1/a07680.html#a0480bb23bf5c47ac03935901211952b5", null ],
+    [ "_string", "d8/de1/a07680.html#ae0538263243f423c8f86459300aec8d7", null ]
 ];

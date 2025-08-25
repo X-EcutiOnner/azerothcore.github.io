@@ -1,6 +1,7 @@
 var a15404 =
 [
-    [ "npc_rabid_thistle_bearAI", "d5/d6c/a15408.html", "d5/d6c/a15408" ],
-    [ "npc_rabid_thistle_bear", "d5/d87/a15404.html#a34b20a4ea22d74352712dee105247d56", null ],
-    [ "GetAI", "d5/d87/a15404.html#ab5c21cd3afa0bd13c937e6acf1912af4", null ]
+    [ "HandleEffectRemove", "d5/d87/a15404.html#aa07e0bdaac9cad239bae1b24d16b433c", null ],
+    [ "PrepareAuraScript", "d5/d87/a15404.html#a8ab8433afb22bbca79e028e8f082da2b", null ],
+    [ "Register", "d5/d87/a15404.html#a2ee3afd6fdcb0991e419396ed65e6d4a", null ],
+    [ "AuraEffectHandleModes", "d5/d87/a15404.html#af8a46c99290ce700e765c7ad5e8c866c", null ]
 ];

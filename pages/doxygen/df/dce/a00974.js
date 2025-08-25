@@ -1,4 +1,4 @@
 var a00974 =
 [
-    [ "BattlegroundScript", "dd/d54/a10264.html", "dd/d54/a10264" ]
+    [ "BattlegroundScript", "df/d2d/a10272.html", "df/d2d/a10272" ]
 ];

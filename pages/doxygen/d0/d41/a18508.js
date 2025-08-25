@@ -1,11 +1,6 @@
 var a18508 =
 [
-    [ "npc_valithria_cloudAI", "d0/d41/a18508.html#a5b550d0154f302cecc509fbd868a53bb", null ],
-    [ "AttackStart", "d0/d41/a18508.html#a5835d5ba19e1480016e585c1e49489c9", null ],
-    [ "EnterEvadeMode", "d0/d41/a18508.html#a346fd998d41451d7d1e605afdb13b65c", null ],
-    [ "MoveInLineOfSight", "d0/d41/a18508.html#a8d4c8d082f12b96b2b77447d0b942c2c", null ],
-    [ "Reset", "d0/d41/a18508.html#abca34d7285ef23c062006df8f8ae6d53", null ],
-    [ "UpdateAI", "d0/d41/a18508.html#a6908f5731915bf7d15bb4921c960aa30", null ],
-    [ "_events", "d0/d41/a18508.html#afc5c9299d7f1f73c087a19dcfb19e096", null ],
-    [ "_instance", "d0/d41/a18508.html#a20cc2bba9d1005cc93b55dfba8bfbcf3", null ]
+    [ "npc_green_dragon_combat_triggerAI", "de/dae/a18512.html", "de/dae/a18512" ],
+    [ "npc_green_dragon_combat_trigger", "d0/d41/a18508.html#acec675494f5e5e9609bf34b7f25cb569", null ],
+    [ "GetAI", "d0/d41/a18508.html#a945b7cd0084873c17d52b3c2cc3ede22", null ]
 ];

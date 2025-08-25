@@ -1,13 +1,14 @@
 var a23720 =
 [
-    [ "boss_wrath_scryer_soccothrates", "d6/dea/a23720.html#a771980c1022e7699c3eb02baccb68a93", null ],
-    [ "InitializeAI", "d6/dea/a23720.html#ad29f9c200de2f25a74f548c918bb61ac", null ],
-    [ "JustDied", "d6/dea/a23720.html#a4954041d6a9cbc754d9fcd1d4ab3d38b", null ],
-    [ "JustEngagedWith", "d6/dea/a23720.html#a09302e6f5e1422232a3024dd24a38fd6", null ],
-    [ "KilledUnit", "d6/dea/a23720.html#a9b9237e0c8ad1b759c2402de79b3d0bd", null ],
-    [ "MoveInLineOfSight", "d6/dea/a23720.html#ab75e402ce24ca34c42f80116b8a0726d", null ],
-    [ "Reset", "d6/dea/a23720.html#a85435a23d36f13e348112348a26e7d12", null ],
-    [ "UpdateAI", "d6/dea/a23720.html#a41ad9124dec5432feb7ca823f0c8f87f", null ],
-    [ "events2", "d6/dea/a23720.html#afd4e9a0ab16406a4a452cd89d13d1fe0", null ],
-    [ "preFight", "d6/dea/a23720.html#a193889ee2815b93a1c9aeee394170fc4", null ]
+    [ "instance_shattered_halls_InstanceMapScript", "d6/dea/a23720.html#aa438091d2868b26d961ee4f81e9cea11", null ],
+    [ "GetGuidData", "d6/dea/a23720.html#a1a0623204ecaaa3623fc503783c4d766", null ],
+    [ "Initialize", "d6/dea/a23720.html#a3761d56e59d5bf1147986978c9fdf2e3", null ],
+    [ "OnCreatureCreate", "d6/dea/a23720.html#a9fa5637791d249553472b31c024f9fc1", null ],
+    [ "ReadSaveDataMore", "d6/dea/a23720.html#a67bc6a2dde5c649d16ef7e2c26c6069b", null ],
+    [ "SetData", "d6/dea/a23720.html#a566090f29d13977354fb50e68d92f046", null ],
+    [ "Update", "d6/dea/a23720.html#aad1666c364feff4e2b7654f5894c129f", null ],
+    [ "WriteSaveDataMore", "d6/dea/a23720.html#aaa8b1b054df41a79ac074ae48e180ee9", null ],
+    [ "ExecutionerGUID", "d6/dea/a23720.html#aa879398b1732952eba7b2b8a822a959e", null ],
+    [ "PrisonerGUID", "d6/dea/a23720.html#a0648efa6b0bbf4860d55f9b11f138e39", null ],
+    [ "RescueTimer", "d6/dea/a23720.html#a8df2961264a192ab2692e3c8ca507666", null ]
 ];

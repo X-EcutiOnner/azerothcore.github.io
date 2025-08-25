@@ -1,6 +1,7 @@
 var a18996 =
 [
-    [ "boss_gluthAI", "d0/dd4/a19000.html", "d0/dd4/a19000" ],
-    [ "boss_gluth", "d4/d11/a18996.html#a3ff6e361cd6799f41d00fa75784c4f76", null ],
-    [ "GetAI", "d4/d11/a18996.html#a3b19c938aaecc897d6552715064be7f8", null ]
+    [ "HandleTriggerSpell", "d4/d11/a18996.html#a0e75076c2aed1544c544b976ee9cfbcd", null ],
+    [ "PrepareAuraScript", "d4/d11/a18996.html#a6ce4c5c2b6797b38225ac3348aad5892", null ],
+    [ "Register", "d4/d11/a18996.html#af87272995f6eeb3bc53cf472f5c3e9d3", null ],
+    [ "Validate", "d4/d11/a18996.html#a813bad39641956fff697580f271416d2", null ]
 ];

@@ -1,14 +1,9 @@
 var a12712 =
 [
-    [ "boss_strawman", "d0/d6c/a12712.html#a1789cdafc2ce03e156ac686e6859e25f", null ],
-    [ "DoAction", "d0/d6c/a12712.html#a57f9519f87bc8e7446632a49f56a02ca", null ],
-    [ "EnterEvadeMode", "d0/d6c/a12712.html#a67fd9b85406512cef4f3ae581461f0c4", null ],
-    [ "JustDied", "d0/d6c/a12712.html#ab175b0104d316b8929e32d9eb939780f", null ],
-    [ "JustEngagedWith", "d0/d6c/a12712.html#a40657516c4f1b049dd0514a50e299a10", null ],
-    [ "JustReachedHome", "d0/d6c/a12712.html#a4235b2de2540199f9570cbadb7326871", null ],
-    [ "KilledUnit", "d0/d6c/a12712.html#a06b92dbb6907ace60df7e10893be7af0", null ],
-    [ "SpellHit", "d0/d6c/a12712.html#a5bf558765b59a7950bd55ece14c07a4f", null ],
-    [ "UpdateAI", "d0/d6c/a12712.html#adcb7db7cb3f938b492a28c3540251ea9", null ],
-    [ "_scheduler", "d0/d6c/a12712.html#a409539c771b373c165bdbccac8a59e7f", null ],
-    [ "instance", "d0/d6c/a12712.html#a157a6faacf83432b8227173f6b14a7d3", null ]
+    [ "FilterTargets", "d0/d6c/a12712.html#a88b91e40b330d39bd04a7873128fb858", null ],
+    [ "HandleFinish", "d0/d6c/a12712.html#a762ea4cc1cd0a50a65daf22cbbf4ce9c", null ],
+    [ "PrepareSpellScript", "d0/d6c/a12712.html#ab4ef82283e4d651d2e5304e49970efa8", null ],
+    [ "Register", "d0/d6c/a12712.html#ab2008e585589cbf313170064d37c4aa9", null ],
+    [ "Validate", "d0/d6c/a12712.html#af4963be6c544a1706a6dc30dcbf18309", null ],
+    [ "_targets", "d0/d6c/a12712.html#a2f75199a90e52cff770f46bce76d5149", null ]
 ];

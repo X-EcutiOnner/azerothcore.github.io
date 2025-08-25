@@ -1,9 +1,9 @@
 var a28596 =
 [
-    [ "SetUp", "dc/d97/a28596.html#abb28ef64461635a540dad471b7b12ebc", null ],
-    [ "TearDown", "dc/d97/a28596.html#ace0b9a0c578a6b8ec1d33ad584aaf911", null ],
-    [ "arenaTeams", "dc/d97/a28596.html#ab40dacafdb3c5de73cf66426d014a4fe", null ],
-    [ "team1", "dc/d97/a28596.html#a325d8058950e53d17e16fd90cd105776", null ],
-    [ "team2", "dc/d97/a28596.html#ac6336ffa31e59a5d3acc227c674e9ea8", null ],
-    [ "team3", "dc/d97/a28596.html#af3c2e86874e53ae812debbe1abfbcf05", null ]
+    [ "flags", "dc/d97/a28596.html#a064de2e88c563121bbb78549a7bab868", null ],
+    [ "_flags", "dc/d97/a28596.html#a16f1b30a57eb6703e8073ef55d988391", null ],
+    [ "bits", "dc/d97/a28596.html#a529f1856635132646457c57f3546f4ec", null ],
+    [ "configKey", "dc/d97/a28596.html#af14d118016b9e01612769c00f13aa2d6", null ],
+    [ "oldKey", "dc/d97/a28596.html#a29605b536523f6d022bbac0e12d1d8dc", null ],
+    [ "owner", "dc/d97/a28596.html#a24aaa1c473c3932c83dd49aad84f8361", null ]
 ];

@@ -1,7 +1,9 @@
 var a14636 =
 [
-    [ "PeriodicTick", "dd/d35/a14636.html#aa94e4d6a31a08959a5287b863737c2e2", null ],
-    [ "PrepareAuraScript", "dd/d35/a14636.html#a59a9c4dfe06859daac5bb69fa5d20e95", null ],
-    [ "Register", "dd/d35/a14636.html#a24058b120f4fa06b89f6d582c53a365a", null ],
-    [ "Validate", "dd/d35/a14636.html#a093b09be5abde91a1487d67a7a554d30", null ]
+    [ "boss_azuregosAI", "dd/d35/a14636.html#a839ab1e096d30062d64c1c515a7462a4", null ],
+    [ "JustDied", "dd/d35/a14636.html#aea4d204173b7882d2d9acf8204410947", null ],
+    [ "JustEngagedWith", "dd/d35/a14636.html#ac17c09d4de27e3b3a299bb8288ef79f8", null ],
+    [ "KilledUnit", "dd/d35/a14636.html#aeefc791e17d2a687f8beae809c44d123", null ],
+    [ "Reset", "dd/d35/a14636.html#a3f9584a7cf4e27f57eec2c5babb7aff1", null ],
+    [ "UpdateAI", "dd/d35/a14636.html#aafdfce2d21d5890ead413a2d9fe1b65d", null ]
 ];

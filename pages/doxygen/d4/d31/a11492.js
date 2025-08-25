@@ -1,4 +1,7 @@
 var a11492 =
 [
-    [ "Result", "d4/d31/a11492.html#afcac99b5c5e876f3da1a72c1063c465f", null ]
+    [ "PlayerDumpReader", "d4/d31/a11492.html#ad630b61e298fb1ddf165481c9a14e077", null ],
+    [ "LoadDump", "d4/d31/a11492.html#a62ca90cbcb0d03ec0da52651d8c5f783", null ],
+    [ "LoadDumpFromFile", "d4/d31/a11492.html#ae1ed88a6f181cf6ad952edb1285e192e", null ],
+    [ "LoadDumpFromString", "d4/d31/a11492.html#abd4ce2c50a74922792a7b00d803f03b2", null ]
 ];

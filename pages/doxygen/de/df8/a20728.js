@@ -1,6 +1,6 @@
 var a20728 =
 [
-    [ "npc_xt002_heartAI", "d6/dac/a20732.html", "d6/dac/a20732" ],
-    [ "npc_xt002_heart", "de/df8/a20728.html#ab914ce1e945080b873cf6f93e3a6a32c", null ],
-    [ "GetAI", "de/df8/a20728.html#af59c6623b97d1adff765e8ba4958d482", null ]
+    [ "boss_thorim_arena_npcsAI", "d6/dac/a20732.html", "d6/dac/a20732" ],
+    [ "boss_thorim_arena_npcs", "de/df8/a20728.html#a60d22280bb1eb3c9da92deb08e887942", null ],
+    [ "GetAI", "de/df8/a20728.html#a3709e1c9df32755f5932398ba3535f2f", null ]
 ];

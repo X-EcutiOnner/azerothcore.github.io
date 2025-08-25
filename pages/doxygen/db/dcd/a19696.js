@@ -1,6 +1,6 @@
 var a19696 =
 [
-    [ "npc_brann_bronzebeard_algalonAI", "d3/dd7/a19700.html", "d3/dd7/a19700" ],
-    [ "npc_brann_bronzebeard_algalon", "db/dcd/a19696.html#a2760d42de8f78250ca5862bfcb23ed2e", null ],
-    [ "GetAI", "db/dcd/a19696.html#ad8bc8bde865adcce1e9f6fd6234f1a0a", null ]
+    [ "iron_golem_custodianAI", "d3/dd7/a19700.html", "d3/dd7/a19700" ],
+    [ "iron_golem_custodian", "db/dcd/a19696.html#adc11b755e193adbad757c21e5b15e063", null ],
+    [ "GetAI", "db/dcd/a19696.html#a272e0c9fe475a665aa80a95f1e1d8629", null ]
 ];

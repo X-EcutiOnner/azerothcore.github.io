@@ -1,7 +1,6 @@
 var a17816 =
 [
-    [ "HandleScriptEffect", "d9/d4c/a17816.html#abeb703f8f050677bafb8f5ce4173751a", null ],
-    [ "PrepareSpellScript", "d9/d4c/a17816.html#a19dec2c1cbe72d90fa86960d7bb21277", null ],
-    [ "Register", "d9/d4c/a17816.html#aa2c6c9de775ecce9f84485e0ac64a651", null ],
-    [ "SelectTarget", "d9/d4c/a17816.html#ae8eb94536a9f08138b42cfe8ea711eaa", null ]
+    [ "HandlePeriodicTick", "d9/d4c/a17816.html#a29bf443cdb53b10032ba382b8ae44828", null ],
+    [ "PrepareAuraScript", "d9/d4c/a17816.html#aa22f2997c77c25927f01d9fb1c6852b9", null ],
+    [ "Register", "d9/d4c/a17816.html#a01e31df6c6ec9f6ae5bffb4b435caf8e", null ]
 ];

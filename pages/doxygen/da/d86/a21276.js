@@ -1,7 +1,6 @@
 var a21276 =
 [
-    [ "HandleDummy", "da/d86/a21276.html#af524c771ef3a314f3c1dbaacae4f4538", null ],
-    [ "PrepareSpellScript", "da/d86/a21276.html#a2ad8abf39847c79ac5bc53093c487fc0", null ],
-    [ "Register", "da/d86/a21276.html#a45a33c0b51ed6c1dfed8d52d2f99e239", null ],
-    [ "Validate", "da/d86/a21276.html#a92f99501ee1582873586d2405b224f4f", null ]
+    [ "boss_archavonAI", "dc/dac/a21280.html", "dc/dac/a21280" ],
+    [ "boss_archavon", "da/d86/a21276.html#a44e20480f8d86cf763afe67de49c6c33", null ],
+    [ "GetAI", "da/d86/a21276.html#a5eb62d54fe1559ef9df51c2bd01f7de4", null ]
 ];

@@ -1,5 +1,5 @@
 var a20528 =
 [
-    [ "achievement_mimiron_firefighter", "d5/d30/a20528.html#ae26c3b2572bc9e3e75fb25537fe46a6c", null ],
-    [ "OnCheck", "d5/d30/a20528.html#a1ebd287ef20c6d367f30b1c30ba68728", null ]
+    [ "go_ulduar_do_not_push_this_button", "d5/d30/a20528.html#aa204af213a643c001161e0c2f173ee6b", null ],
+    [ "OnGossipHello", "d5/d30/a20528.html#ae11efa54b496ab21600a9c62e50b5fbe", null ]
 ];

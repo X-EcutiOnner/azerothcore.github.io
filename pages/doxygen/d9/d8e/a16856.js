@@ -1,8 +1,10 @@
 var a16856 =
 [
-    [ "npc_hor_leaderAI", "d5/d01/a16860.html", "d5/d01/a16860" ],
-    [ "npc_hor_leader", "d9/d8e/a16856.html#a5c8d6cce242d144755fb14879f7f17d3", null ],
-    [ "GetAI", "d9/d8e/a16856.html#a55e7357aa6dff1efdff08541e88413e9", null ],
-    [ "OnGossipHello", "d9/d8e/a16856.html#afb46ea0b6926ad5d9b87b1d6a5e04591", null ],
-    [ "OnGossipSelect", "d9/d8e/a16856.html#ab5d01ae2803bab43b2c701d0cb1d4280", null ]
+    [ "HandleAfterEffectAbsorb", "d9/d8e/a16856.html#a4af67c41afd7843a5cfe2b2e2e9e8055", null ],
+    [ "Load", "d9/d8e/a16856.html#abab656d4ba7e14bf1ffdb1d40c395b5d", null ],
+    [ "PrepareAuraScript", "d9/d8e/a16856.html#a0856d66c801715f16cd251ddf9b25a59", null ],
+    [ "Register", "d9/d8e/a16856.html#a69d8dfebb981b51592770b7b5807bc80", null ],
+    [ "Validate", "d9/d8e/a16856.html#a55ec42ce316978220103a3a39f3939a3", null ],
+    [ "amount", "d9/d8e/a16856.html#aaf34ee04ae619a3ac108a8fd1c9dac99", null ],
+    [ "fired", "d9/d8e/a16856.html#a6a7afa99044644608b16e83328bfd5fa", null ]
 ];

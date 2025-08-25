@@ -1,10 +1,8 @@
 var a05020 =
 [
-    [ "AreaInfo", "d4/d79/a05020.html#a1f45e5e030aaf5b16fb6c58097fa8b14", null ],
-    [ "adtId", "d4/d79/a05020.html#a95c1c986b14dfeba867fa55e77553499", null ],
-    [ "flags", "d4/d79/a05020.html#a780bdbb606fe694941d2105e14a29d70", null ],
-    [ "ground_Z", "d4/d79/a05020.html#aca4fada3b2062f74cf66cd34a63c0c86", null ],
-    [ "groupId", "d4/d79/a05020.html#a76ac6ccec6ff67f16689a6735e644e07", null ],
-    [ "result", "d4/d79/a05020.html#ab9e9a7658d5fb76be208835f786036b0", null ],
-    [ "rootId", "d4/d79/a05020.html#a6f60501d22be8c1d374a46e598d0f2e3", null ]
+    [ "LocationInfo", "d4/d79/a05020.html#ae2e70dc65cd3b0379600a67dce7de6ba", null ],
+    [ "ground_Z", "d4/d79/a05020.html#a0ffbfcfc677809dda6250855d9594ca5", null ],
+    [ "hitInstance", "d4/d79/a05020.html#a5e3fc81a2b7353808dc0c95eebe570be", null ],
+    [ "hitModel", "d4/d79/a05020.html#a2a7e0be8d8e43b055dd1d43cd5331738", null ],
+    [ "rootId", "d4/d79/a05020.html#aae82d7d8518db5e131d6a327927c75a2", null ]
 ];

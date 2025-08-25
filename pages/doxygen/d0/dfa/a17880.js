@@ -1,6 +1,6 @@
 var a17880 =
 [
-    [ "PrepareSpellScript", "d0/dfa/a17880.html#a16eadb50b6038f16ea28464d00df3381", null ],
-    [ "Register", "d0/dfa/a17880.html#ac6e304d391011863b8eff8105fab5191", null ],
-    [ "SelectDest", "d0/dfa/a17880.html#a8ff5d684c0b91d0f068d03698c1ee92c", null ]
+    [ "MalleableGooSelector", "d0/dfa/a17880.html#a5adb1e89ab7d5733514a8fefc5de6a35", null ],
+    [ "operator()", "d0/dfa/a17880.html#adf73957539fdcc604f849944473e0015", null ],
+    [ "me", "d0/dfa/a17880.html#a6cd991b360895b4b3405f0cd9e63879f", null ]
 ];

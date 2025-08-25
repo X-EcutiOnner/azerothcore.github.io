@@ -1,16 +1,13 @@
 var a15572 =
 [
-    [ "npc_qiraj_war_spawnAI", "d7/d68/a15572.html#a1122bc3961300ba39c02613ba0fcd909", null ],
-    [ "JustDied", "d7/d68/a15572.html#ada3362722a2f7a4ac5e3e807385c30fc", null ],
-    [ "JustEngagedWith", "d7/d68/a15572.html#a628da97f8b8bda848880c53a509ad1f5", null ],
-    [ "Reset", "d7/d68/a15572.html#a617104afe4d5cca5cd0d98fe12cb1608", null ],
-    [ "UpdateAI", "d7/d68/a15572.html#afeed6ddc214d7d6ba6156a90e4465cb2", null ],
-    [ "hasTarget", "d7/d68/a15572.html#ad36ad196f757d6014f7aa7cf7afb167b", null ],
-    [ "MobGUID", "d7/d68/a15572.html#a4148121a56275770ee84744a0288b6c5", null ],
-    [ "PlayerGUID", "d7/d68/a15572.html#a9e4294e9b7ce773263e0bd16512602ce", null ],
-    [ "SpellTimer1", "d7/d68/a15572.html#a8979a90473c62aad604857d92574e5f1", null ],
-    [ "SpellTimer2", "d7/d68/a15572.html#a91cb2356a92ef987bd1ba6d31b560ec1", null ],
-    [ "SpellTimer3", "d7/d68/a15572.html#aeea20bb2f78ece03df38a3e9aa5d8b59", null ],
-    [ "SpellTimer4", "d7/d68/a15572.html#a301971cf821e68e6be3223d4076f8b49", null ],
-    [ "Timers", "d7/d68/a15572.html#a460bbddfe94e9c84eaa0ad83e087ebf4", null ]
+    [ "npc_shenthulAI", "d7/d68/a15572.html#ae056474022c27be5565bf018a1b56f0b", null ],
+    [ "JustEngagedWith", "d7/d68/a15572.html#acb202ef530bc11ea807f580ff5dfc621", null ],
+    [ "ReceiveEmote", "d7/d68/a15572.html#ab2ddc3e447b36cb0fceffdaff0fca592", null ],
+    [ "Reset", "d7/d68/a15572.html#af077e96eb8bf89af2d6eb79907444a17", null ],
+    [ "UpdateAI", "d7/d68/a15572.html#a2ae643c11c6ea3808be922de96a24e8f", null ],
+    [ "CanEmote", "d7/d68/a15572.html#a920209c374e611e96347d209337c044f", null ],
+    [ "CanTalk", "d7/d68/a15572.html#a82ea8d2ee50538135add120be7616f86", null ],
+    [ "PlayerGUID", "d7/d68/a15572.html#a4b262388aca789d19231426a8cb73379", null ],
+    [ "ResetTimer", "d7/d68/a15572.html#a475a141d639f0136ac943e6afb1ecd15", null ],
+    [ "SaluteTimer", "d7/d68/a15572.html#ae76b4bbde77b6029a788abfbbbe84df8", null ]
 ];

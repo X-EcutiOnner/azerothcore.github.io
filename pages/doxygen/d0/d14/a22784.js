@@ -1,7 +1,7 @@
 var a22784 =
 [
-    [ "HandleOnEffectApply", "d0/d14/a22784.html#a01d6ca6f8ec21ad42445b5e581c0f79b", null ],
-    [ "HandleOnEffectRemove", "d0/d14/a22784.html#a59952b33d7c4705a6bfe7f3443bbf005", null ],
-    [ "PrepareAuraScript", "d0/d14/a22784.html#a45df29f911b1232e306e04a182648904", null ],
-    [ "Register", "d0/d14/a22784.html#a71fbf189fc116eb7d14944ff4060a9a9", null ]
+    [ "npc_blade_of_azzinoth", "d0/d14/a22784.html#a55afe56313c237afe8080662b2ed2dba", null ],
+    [ "DoAction", "d0/d14/a22784.html#a8e746da7672c0177c4b6c91b1e9d2eb5", null ],
+    [ "IsSummonedBy", "d0/d14/a22784.html#af2925da1235b809ee81469fe32ab0f92", null ],
+    [ "JustSummoned", "d0/d14/a22784.html#a501e2d1ae9af813fd9c30395e7774983", null ]
 ];

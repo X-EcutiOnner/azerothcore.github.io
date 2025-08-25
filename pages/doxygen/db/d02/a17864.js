@@ -1,5 +1,6 @@
 var a17864 =
 [
-    [ "npc_volatile_oozeAI", "db/d02/a17864.html#af042d4c22482aabcdad6fa867dfe093f", null ],
-    [ "CastMainSpell", "db/d02/a17864.html#a91890785174ecc60c9553a0aedf1961b", null ]
+    [ "PrepareSpellScript", "db/d02/a17864.html#a9041ce6139de9a48621d6898ddcca673", null ],
+    [ "RecalculateDamage", "db/d02/a17864.html#abfb7c002577a59864fb2aa069b713c0a", null ],
+    [ "Register", "db/d02/a17864.html#a4308449e8cbe7ed59598a837024141cb", null ]
 ];

@@ -1,8 +1,9 @@
 var a10584 =
 [
-    [ "GuildCommandResult", "d7/d9e/a10584.html#a9b82d7f9fe8f9b42fb4ed74c14cba03d", null ],
-    [ "Write", "d7/d9e/a10584.html#a621e211342b3bf9b5de01a9a3b66291b", null ],
-    [ "Command", "d7/d9e/a10584.html#a099cf9f39c403f76971d006245b03f29", null ],
-    [ "Name", "d7/d9e/a10584.html#a122ee78cb5fc38aa7ecd7a2cad8a33cc", null ],
-    [ "Result", "d7/d9e/a10584.html#a8b6b2127aa39807a61bf0cc3cce15921", null ]
+    [ "GuildRoster", "d7/d9e/a10584.html#a2161128d6fb6fa53a5129a95ded2b5fc", null ],
+    [ "Write", "d7/d9e/a10584.html#a544a539999827d4eb8923cbbcdf42bac", null ],
+    [ "InfoText", "d7/d9e/a10584.html#a9d457ee8feb6c173d960b360aca90fc6", null ],
+    [ "MemberData", "d7/d9e/a10584.html#a964fc72bf3ada77c171fd1f691449241", null ],
+    [ "RankData", "d7/d9e/a10584.html#a67b0a12fae93c5807030c1062f328abb", null ],
+    [ "WelcomeText", "d7/d9e/a10584.html#a5ec2c209558d2c34feee4bfd8cda201c", null ]
 ];

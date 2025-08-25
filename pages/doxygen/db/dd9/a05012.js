@@ -1,8 +1,7 @@
 var a05012 =
 [
-    [ "LocationInfo", "db/dd9/a05012.html#ae2e70dc65cd3b0379600a67dce7de6ba", null ],
-    [ "ground_Z", "db/dd9/a05012.html#a0ffbfcfc677809dda6250855d9594ca5", null ],
-    [ "hitInstance", "db/dd9/a05012.html#a5e3fc81a2b7353808dc0c95eebe570be", null ],
-    [ "hitModel", "db/dd9/a05012.html#a2a7e0be8d8e43b055dd1d43cd5331738", null ],
-    [ "rootId", "db/dd9/a05012.html#aae82d7d8518db5e131d6a327927c75a2", null ]
+    [ "AreaInfoCallback", "db/dd9/a05012.html#a80988ffb9cda6f41e269ba896332e6a1", null ],
+    [ "operator()", "db/dd9/a05012.html#ac53fe7cf79b790f501c8a3dd94cc89ff", null ],
+    [ "aInfo", "db/dd9/a05012.html#a7c38a60631dc273abcfe930847864315", null ],
+    [ "prims", "db/dd9/a05012.html#adb24cb7deeafd42035efb29ad2529b14", null ]
 ];

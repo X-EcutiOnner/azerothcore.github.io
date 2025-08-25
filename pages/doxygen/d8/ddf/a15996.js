@@ -1,6 +1,6 @@
 var a15996 =
 [
-    [ "npc_twilight_summonAI", "dc/d27/a16000.html", "dc/d27/a16000" ],
-    [ "npc_twilight_summon", "d8/ddf/a15996.html#a2406ee3b02d9f1b1ebef54623d9a3c11", null ],
-    [ "GetAI", "d8/ddf/a15996.html#a98bf5ce96c25bc252acd46163644bf33", null ]
+    [ "boss_sartharionAI", "dc/d27/a16000.html", "dc/d27/a16000" ],
+    [ "boss_sartharion", "d8/ddf/a15996.html#a6605aee69372d08fba8f4b4523896588", null ],
+    [ "GetAI", "d8/ddf/a15996.html#aca5d66e0f5cdcafd6f9cd2c173f43839", null ]
 ];

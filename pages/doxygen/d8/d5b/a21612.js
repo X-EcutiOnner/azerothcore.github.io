@@ -1,9 +1,6 @@
 var a21612 =
 [
-    [ "npc_warmage_coldarraAI", "d8/d5b/a21612.html#a9a8c2afff61ad8457aab8a9c23a4b755", null ],
-    [ "AttackStart", "d8/d5b/a21612.html#a41277824ae3f6bd9a099894b6dfc7537", null ],
-    [ "JustEngagedWith", "d8/d5b/a21612.html#a23a8999e34142201c6ceadc64a3df6c2", null ],
-    [ "Reset", "d8/d5b/a21612.html#adf5094ba2bee34ec793124e798d5af8f", null ],
-    [ "UpdateAI", "d8/d5b/a21612.html#a14b221265cc38b4061c52b687274a398", null ],
-    [ "m_uiTimer", "d8/d5b/a21612.html#a338ad26d40d395dfc6ed7e8fedcc6d60", null ]
+    [ "npc_imprisoned_beryl_sorcererAI", "da/d25/a21616.html", "da/d25/a21616" ],
+    [ "npc_imprisoned_beryl_sorcerer", "d8/d5b/a21612.html#a6317eb89406cf6b99f63ecfa7f9999d1", null ],
+    [ "GetAI", "d8/d5b/a21612.html#aedb301f6da8460f3ed1d81d4b5f2f63c", null ]
 ];

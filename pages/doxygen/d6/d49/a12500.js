@@ -1,6 +1,7 @@
 var a12500 =
 [
-    [ "boss_sulfuronAI", "d7/d32/a12504.html", "d7/d32/a12504" ],
-    [ "boss_sulfuron", "d6/d49/a12500.html#aed72791db02009136592b905cc4f4df3", null ],
-    [ "GetAI", "d6/d49/a12500.html#aced001845e4a9bb9f517d45a36f474c7", null ]
+    [ "HandlePeriodic", "d6/d49/a12500.html#a5651e7ecab22d2286f85e56b8eccc003", null ],
+    [ "PrepareAuraScript", "d6/d49/a12500.html#a5dca8e116c05d11961cbd7995314441e", null ],
+    [ "Register", "d6/d49/a12500.html#a5972e66a8c05c5ae64e6666d0f35cb6e", null ],
+    [ "Validate", "d6/d49/a12500.html#a689b93dcf39828f507ef2b7f72d1ca01", null ]
 ];

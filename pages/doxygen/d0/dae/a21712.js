@@ -1,9 +1,6 @@
 var a21712 =
 [
-    [ "npc_mageguard_dalaranAI", "d0/dae/a21712.html#adb9c8b0003c070114b63f3b8e538bceb", null ],
-    [ "AttackStart", "d0/dae/a21712.html#ac1e73ad92bd5db0d3b9fe23b36cd8dd7", null ],
-    [ "JustEngagedWith", "d0/dae/a21712.html#aac463689ae5a488ec2acb8a0310689d8", null ],
-    [ "MoveInLineOfSight", "d0/dae/a21712.html#aafb32462693e0efd9c80cf335f489754", null ],
-    [ "Reset", "d0/dae/a21712.html#aa6dde0732bac407a62403bb8f0f24c26", null ],
-    [ "UpdateAI", "d0/dae/a21712.html#a4d6ce701a4cc463a7e9c295c664d4440", null ]
+    [ "npc_steam_powered_auctioneerAI", "d9/d57/a21716.html", "d9/d57/a21716" ],
+    [ "npc_steam_powered_auctioneer", "d0/dae/a21712.html#ae8c918c639ce0c3ddc14b8cf7f0ef855", null ],
+    [ "GetAI", "d0/dae/a21712.html#a39a2f0c187078c759bc4a391e0a81068", null ]
 ];

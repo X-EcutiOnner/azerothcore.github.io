@@ -1,5 +1,6 @@
 var a27364 =
 [
-    [ "go_hive_pod", "d4/da8/a27364.html#a7ec01a399e75ff2e64746166d1aa3539", null ],
-    [ "OnGossipHello", "d4/da8/a27364.html#a4cfb09789edf6699444a7d817e4ccc70", null ]
+    [ "go_bashir_crystalforge", "d4/da8/a27364.html#a8b68a63933e14d82198580912fddc280", null ],
+    [ "OnGossipHello", "d4/da8/a27364.html#a4aa941ae78a17eecc5593d6ccd17ff63", null ],
+    [ "OnGossipSelect", "d4/da8/a27364.html#ac7e1b6db4ae2bee766b95049a8b0c320", null ]
 ];

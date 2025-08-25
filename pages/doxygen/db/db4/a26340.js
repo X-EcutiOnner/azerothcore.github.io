@@ -1,6 +1,6 @@
 var a26340 =
 [
-    [ "CheckRequirement", "db/db4/a26340.html#acaae3858de4d56028e3cb4581a57450c", null ],
-    [ "PrepareSpellScript", "db/db4/a26340.html#aa1013bb1b09aae7b691b6325c8e7a405", null ],
-    [ "Register", "db/db4/a26340.html#aa490168c69f9ba5c12db3171516dd8ac", null ]
+    [ "HandleScriptEffect", "db/db4/a26340.html#ab958c74ba8b40488751e5137eb0b6a66", null ],
+    [ "PrepareSpellScript", "db/db4/a26340.html#a810fcbfe27f3c6991d1c5f599609b6f7", null ],
+    [ "Register", "db/db4/a26340.html#a12c61c9057250f12ea50be74ba74c948", null ]
 ];

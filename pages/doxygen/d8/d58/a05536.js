@@ -1,5 +1,6 @@
 var a05536 =
 [
-    [ "FromString", "d8/d58/a05536.html#a6992aa92f56607d9546dae7ab5d1af74", null ],
-    [ "ToString", "d8/d58/a05536.html#abf8940ea78f2f947274a2653da04b0a3", null ]
+    [ "~AsyncProcessResult", "d8/d58/a05536.html#a16f0ce13c7401ce07e91b349c91365e0", null ],
+    [ "GetFutureResult", "d8/d58/a05536.html#ae0bd36d094d1fc5e325a7b7af1dd0ee8", null ],
+    [ "Terminate", "d8/d58/a05536.html#af3951c38d2b368c15c0ac7d415b96ebd", null ]
 ];

@@ -1,8 +1,10 @@
 var a28868 =
 [
-    [ "HandleEffect", "da/dcb/a28868.html#a1c1a06362742abcf83e1817c468de3d3", null ],
-    [ "PrepareSpellScript", "da/dcb/a28868.html#a0e2cce13a3b2c8b8e9ace8876def8b9c", null ],
-    [ "Register", "da/dcb/a28868.html#a56108b37bc69809ce80d424e2bcb3f55", null ],
-    [ "SendMiss", "da/dcb/a28868.html#afda727460aebc8fe97d5c18d0195ea2c", null ],
-    [ "Validate", "da/dcb/a28868.html#ab9533351a176f4e0d641a6e36a75d6b9", null ]
+    [ "WDTFile", "da/dcb/a28868.html#a10c133d9b2f8d39cb6c2b3d8c2791b78", null ],
+    [ "~WDTFile", "da/dcb/a28868.html#a445fe73204fd378e2b63a83d9f5dca0a", null ],
+    [ "GetMap", "da/dcb/a28868.html#aa952c5bfe52a1aa851984a7e6dc963c9", null ],
+    [ "init", "da/dcb/a28868.html#a91a33f89cae35254f52e8c4f1c33e2cb", null ],
+    [ "_file", "da/dcb/a28868.html#a54ab64288144b9cf4904e67bb359e524", null ],
+    [ "_wmoNames", "da/dcb/a28868.html#a6ec4f95ff866585403670b620a42a857", null ],
+    [ "filename", "da/dcb/a28868.html#ab3dac8623598bac1152a514a00126bf6", null ]
 ];

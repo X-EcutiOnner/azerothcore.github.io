@@ -1,6 +1,6 @@
 var a12216 =
 [
-    [ "FilterTargets", "d1/d96/a12216.html#ac630fb5f068e4d26adb078b118994c45", null ],
-    [ "PrepareSpellScript", "d1/d96/a12216.html#a5f4986bfad79573e65d56ff276c49914", null ],
-    [ "Register", "d1/d96/a12216.html#aa1f5838d43871fd7908ea3b914666000", null ]
+    [ "near_scarshield_infiltrator", "d1/d96/a12216.html#a38d2e75946c429b4d80b007f190406bc", null ],
+    [ "OnTrigger", "d1/d96/a12216.html#aeb761433e3210ce85c1de4dab653a87c", null ],
+    [ "whisperedTargets", "d1/d96/a12216.html#a5655e241d2551798a960cb6375c7df23", null ]
 ];

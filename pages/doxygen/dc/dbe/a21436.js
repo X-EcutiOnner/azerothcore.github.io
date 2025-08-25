@@ -1,10 +1,11 @@
 var a21436 =
 [
-    [ "npc_azure_invaderAI", "dc/dbe/a21436.html#a85f164a6ba24d7a14d77264441a78f46", null ],
-    [ "Reset", "dc/dbe/a21436.html#ada44600272b19d9416d957bc52bc3be4", null ],
-    [ "UpdateAI", "dc/dbe/a21436.html#a7dfdcb2a88930c6b4150f7f7c825a2df", null ],
-    [ "uiBrutalStrikeTimer", "dc/dbe/a21436.html#a4b88a85f3344edbdadde0104668509aa", null ],
-    [ "uiCleaveTimer", "dc/dbe/a21436.html#a8b1792a8a405651d602d9ed634f52689", null ],
-    [ "uiImpaleTimer", "dc/dbe/a21436.html#aa709ee8919a2d0317d563259c7630c99", null ],
-    [ "uiSunderArmorTimer", "dc/dbe/a21436.html#ab2e6d01df033985ac29e963cf2895466", null ]
+    [ "npc_vh_void_sentryAI", "dc/dbe/a21436.html#a312f4bbc07e6d786e85c2b4e89d36344", null ],
+    [ "DoAction", "dc/dbe/a21436.html#a0bc95eea54b5cdc16a4d3f588f3ff900", null ],
+    [ "JustDied", "dc/dbe/a21436.html#add5121ed38a74be9ae168df5f893f89e", null ],
+    [ "SummonedCreatureDespawn", "dc/dbe/a21436.html#a24ff36cdb049da7c67c1f041361e17e4", null ],
+    [ "UpdateAI", "dc/dbe/a21436.html#ae1f683d5ef920213c9c86da35c626381", null ],
+    [ "checkTimer", "dc/dbe/a21436.html#a675bcae4119e45490403013534c731ef", null ],
+    [ "pInstance", "dc/dbe/a21436.html#a7527473944681143bab89fd12b475645", null ],
+    [ "SummonedGUID", "dc/dbe/a21436.html#a4420eb2cf4d3b6d161355b0f4ad9516d", null ]
 ];

@@ -1,6 +1,7 @@
 var a12348 =
 [
-    [ "instance_blackwing_lair_InstanceMapScript", "d6/d3f/a12352.html", "d6/d3f/a12352" ],
-    [ "instance_blackwing_lair", "d0/d6b/a12348.html#afb9a7ce1ac297b023aa8364cc1383336", null ],
-    [ "GetInstanceScript", "d0/d6b/a12348.html#a70aff4e1bb406f232d0b4961037ed0a1", null ]
+    [ "HandleDummy", "d0/d6b/a12348.html#a2299a8b99013fb9f9c2b8e81cfc541cc", null ],
+    [ "PrepareSpellScript", "d0/d6b/a12348.html#ad07165f81a7f407c716f90691ecb9817", null ],
+    [ "Register", "d0/d6b/a12348.html#a28fb28ca049b87dd76fddc3af222fd9c", null ],
+    [ "Validate", "d0/d6b/a12348.html#a8ce6773c7d0fd501fa7b26f04fd22796", null ]
 ];

@@ -1,6 +1,6 @@
 var a15356 =
 [
-    [ "npc_stillpine_capitiveAI", "d7/de9/a15360.html", "d7/de9/a15360" ],
-    [ "npc_stillpine_capitive", "d7/d0f/a15356.html#a6c9ce06ffe8cafaea2f428ba610d6964", null ],
-    [ "GetAI", "d7/d0f/a15356.html#ad1d81ae43d3c417b8817da61afef4e4b", null ]
+    [ "npc_draenei_survivorAI", "d7/de9/a15360.html", "d7/de9/a15360" ],
+    [ "npc_draenei_survivor", "d7/d0f/a15356.html#a1dca668a7c3f868677a9bf306288430c", null ],
+    [ "GetAI", "d7/d0f/a15356.html#aa8dde30279bb898a4412491faca79267", null ]
 ];

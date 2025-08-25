@@ -1,6 +1,11 @@
 var a14732 =
 [
-    [ "boss_mal_ganisAI", "d2/de9/a14736.html", "d2/de9/a14736" ],
-    [ "boss_mal_ganis", "dc/dec/a14732.html#a604becb65e766f4fb71d2ae168d1be4e", null ],
-    [ "GetAI", "dc/dec/a14732.html#aa747abd11310c3535ea2ea37e4aac28b", null ]
+    [ "npc_hyjal_ground_trash", "dc/dec/a14732.html#a06b590bf9ef983b1ef2b94058144fc7d", null ],
+    [ "AttackStart", "dc/dec/a14732.html#a0ab86d651644dcc579585176c2b5c07e", null ],
+    [ "DoAction", "dc/dec/a14732.html#aa92481bcf993c4eda5ef271145200d77", null ],
+    [ "GetNearbyFriendlyTrashCreature", "dc/dec/a14732.html#ad94fe6d4dca64fa8eec183481f82bb39", null ],
+    [ "JustEngagedWith", "dc/dec/a14732.html#a576b909d65ae862af5dcc6500d2ff7e1", null ],
+    [ "PathEndReached", "dc/dec/a14732.html#a035610284a56e690200f978b0fd496ab", null ],
+    [ "Reset", "dc/dec/a14732.html#aa38b45f63841c049a2add0a9832268ef", null ],
+    [ "UpdateAI", "dc/dec/a14732.html#a91b3ee049bf199271618afd3ad0c5f77", null ]
 ];

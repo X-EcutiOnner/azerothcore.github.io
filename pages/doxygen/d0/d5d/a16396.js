@@ -1,7 +1,6 @@
 var a16396 =
 [
-    [ "npc_toc_druidAI", "d0/d5d/a16396.html#adb456f1f93be5329174a3199c9092825", null ],
-    [ "myCanCast", "d0/d5d/a16396.html#af82baa22ae49ba268f494cb07287845e", null ],
-    [ "UpdateAI", "d0/d5d/a16396.html#a82a22a557db647f73690d8838a635eaf", null ],
-    [ "events", "d0/d5d/a16396.html#a6bb27baf17f0286db3222287a8073bd7", null ]
+    [ "npc_nerubian_burrowerAI", "d3/d6f/a16400.html", "d3/d6f/a16400" ],
+    [ "npc_nerubian_burrower", "d0/d5d/a16396.html#a02c3eb1ed867738c705af8bf38a1aae5", null ],
+    [ "GetAI", "d0/d5d/a16396.html#a145ebac6f95f9190429b9bfa37e23312", null ]
 ];

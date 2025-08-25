@@ -1,6 +1,7 @@
 var a09808 =
 [
-    [ "AllowMount", "de/df1/a09808.html#a611108f0c1f623bb0761a174e477df22", null ],
-    [ "Parent", "de/df1/a09808.html#a6298c3dd0c8939b1cf228727c363918e", null ],
-    [ "ScriptId", "de/df1/a09808.html#ac9cdaf7fc486bc89b5c5d95ac13146da", null ]
+    [ "ownerGUID", "de/df1/a09808.html#a3c89974ea78b732cbffb8a9d482d403b", null ],
+    [ "script", "de/df1/a09808.html#ad995c862431acd9d45cc12c9d5c8b319", null ],
+    [ "sourceGUID", "de/df1/a09808.html#acafb40cbd1e73152f9dbf390f1fc98f3", null ],
+    [ "targetGUID", "de/df1/a09808.html#a1505a3b9a6de23dcd6b2847207a279ca", null ]
 ];

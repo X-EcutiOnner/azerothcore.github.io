@@ -1,6 +1,8 @@
 var a14908 =
 [
-    [ "instance_onyxias_lair_InstanceMapScript", "d6/d12/a14912.html", "d6/d12/a14912" ],
-    [ "instance_onyxias_lair", "da/d72/a14908.html#a1be32e45cb8af86477d300efb6e545cc", null ],
-    [ "GetInstanceScript", "da/d72/a14908.html#abbdc474ce17bca0cb55180661c5204a8", null ]
+    [ "Load", "da/d72/a14908.html#a59e8723d8b73f45075db47e1e09e15fb", null ],
+    [ "PeriodicTick", "da/d72/a14908.html#ae4761ac3bce02903a7266511d80503f9", null ],
+    [ "PrepareAuraScript", "da/d72/a14908.html#a7bacc1ebd4b98e5e43b74e13471b2063", null ],
+    [ "Register", "da/d72/a14908.html#acc4db638e0d858085dc3fb2d6b45f7ec", null ],
+    [ "_ticks", "da/d72/a14908.html#ab858e9f6505fa32cc7325087d29fee8b", null ]
 ];

@@ -1,7 +1,7 @@
 var a18272 =
 [
-    [ "OnRemove", "d1/da3/a18272.html#a106935d92ef6ba7909c57264e26b5522", null ],
-    [ "PrepareAuraScript", "d1/da3/a18272.html#a8ce8f5d4ebd4279fdfd192ba3b01b894", null ],
-    [ "Register", "d1/da3/a18272.html#a095e7530a0f2e7a76dc8bd3f75759089", null ],
-    [ "Validate", "d1/da3/a18272.html#a0b4283bdb19a4ceef505aab41c99abe8", null ]
+    [ "HandleScript", "d1/da3/a18272.html#aef02c7f9ee2a5dda9f6b18d8aa386759", null ],
+    [ "PrepareSpellScript", "d1/da3/a18272.html#acbfd8657da20f2e91a9ef43cab7c4113", null ],
+    [ "Register", "d1/da3/a18272.html#ad83d563da98ad189f2198a061b1cd50f", null ],
+    [ "Validate", "d1/da3/a18272.html#a8f371bdbc57624c295efb14e2ca067c5", null ]
 ];

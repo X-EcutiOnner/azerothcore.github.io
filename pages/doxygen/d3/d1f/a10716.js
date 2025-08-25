@@ -1,13 +1,12 @@
 var a10716 =
 [
-    [ "GuildBankQueryResults", "d3/d1f/a10716.html#a8203a35b76fdc674794c5bd3c1acb9ed", null ],
-    [ "SetWithdrawalsRemaining", "d3/d1f/a10716.html#a52af0d2b4e092daf0719bdf325c51652", null ],
-    [ "Write", "d3/d1f/a10716.html#a4598c0c9d1f94c5aa0671f210e1597d4", null ],
-    [ "_withdrawalsRemainingPos", "d3/d1f/a10716.html#abe711cd2da225fdc73eabe2ad6bd3f5d", null ],
-    [ "FullUpdate", "d3/d1f/a10716.html#a42ca9b48981d7d338aecb7840c248f0f", null ],
-    [ "ItemInfo", "d3/d1f/a10716.html#ad799195b259f92aa4e71e1ee8fd99741", null ],
-    [ "Money", "d3/d1f/a10716.html#ad401eb3444f5ae50781e634e1f55eba1", null ],
-    [ "Tab", "d3/d1f/a10716.html#a72ac06ace5e7974d666e3fc3d626e3c0", null ],
-    [ "TabInfo", "d3/d1f/a10716.html#ad36f0ae1d897ef504ad9761c00db77ca", null ],
-    [ "WithdrawalsRemaining", "d3/d1f/a10716.html#a211288bde5a15f2d21df65acf087c7d0", null ]
+    [ "Charges", "d3/d1f/a10716.html#ada45d7e00efb3bf27afcf9db1ad4d813", null ],
+    [ "Count", "d3/d1f/a10716.html#a6f31a3d750d5c5f1b316f05e7ad9dbe9", null ],
+    [ "EnchantmentID", "d3/d1f/a10716.html#a249a204f5d72d42f562c989b1cb92fc9", null ],
+    [ "Flags", "d3/d1f/a10716.html#a3ca816132a756d3dc939877c57f6045d", null ],
+    [ "ItemID", "d3/d1f/a10716.html#a5dc7e8b40834dba07c63322d80ed73ae", null ],
+    [ "RandomPropertiesID", "d3/d1f/a10716.html#ad98a20548478fe99f9d6d345c5a3b732", null ],
+    [ "RandomPropertiesSeed", "d3/d1f/a10716.html#ae5d493dd4798e11f02d8f02a57ba4274", null ],
+    [ "Slot", "d3/d1f/a10716.html#afcc0a78c2f9a3061830679fece476a64", null ],
+    [ "SocketEnchant", "d3/d1f/a10716.html#a55545d4d1b752e4f08bd05350b22892c", null ]
 ];

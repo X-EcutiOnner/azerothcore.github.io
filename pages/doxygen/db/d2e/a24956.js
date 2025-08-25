@@ -1,6 +1,6 @@
 var a24956 =
 [
-    [ "HandleScriptEffect", "db/d2e/a24956.html#af8f2f4c4459204aa766a41dc4003581c", null ],
-    [ "PrepareSpellScript", "db/d2e/a24956.html#a687f10fa34894cb497a2ce3369fd83ef", null ],
-    [ "Register", "db/d2e/a24956.html#a034e52b435b6f4586084cb831e162c40", null ]
+    [ "OnPeriodic", "db/d2e/a24956.html#a3bcef6bd4501489320ef1242a66c50e8", null ],
+    [ "PrepareAuraScript", "db/d2e/a24956.html#ab18f839ab70cc61e52c5e9ddb4847140", null ],
+    [ "Register", "db/d2e/a24956.html#afbc707f30b7db0329f24b9ab8e8134e0", null ]
 ];

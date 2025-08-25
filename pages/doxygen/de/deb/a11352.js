@@ -1,6 +1,6 @@
 var a11352 =
 [
-    [ "AfterCheckProcHandler", "de/deb/a11352.html#ac0a14950e90d064ffd7adc224b25f9d8", null ],
-    [ "Call", "de/deb/a11352.html#ab2da0d87413dd7317eeaf73df17f1aaf", null ],
-    [ "_HandlerScript", "de/deb/a11352.html#af5a393efc729e8588c0fc425fdfead99", null ]
+    [ "EffectUpdatePeriodicHandler", "de/deb/a11352.html#a6b18a259aa84c847bcc064c5243eb590", null ],
+    [ "Call", "de/deb/a11352.html#a38802863e7859453cbbe58ad91018c67", null ],
+    [ "pEffectHandlerScript", "de/deb/a11352.html#a0e51245e089fcd9532d5789056ab944c", null ]
 ];

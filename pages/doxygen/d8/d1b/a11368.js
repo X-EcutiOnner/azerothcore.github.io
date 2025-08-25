@@ -1,12 +1,7 @@
 var a11368 =
 [
-    [ "BroadcastTextBuilder", "d8/d1b/a11368.html#adafc60b68bed31fdd87f5c71244c96f2", null ],
-    [ "operator()", "d8/d1b/a11368.html#a16f9719278e00013c25902846fa1be5b", null ],
-    [ "operator()", "d8/d1b/a11368.html#ac87701626dddffb6b09bf504b97c4d55", null ],
-    [ "_achievementId", "d8/d1b/a11368.html#a82de25331657b17ce0de33f2b374abda", null ],
-    [ "_gender", "d8/d1b/a11368.html#a71032b0749dd75f552107503528e8166", null ],
-    [ "_msgType", "d8/d1b/a11368.html#a232325cefa217843da5cc6db7e5d80fe", null ],
-    [ "_source", "d8/d1b/a11368.html#ab73315225b3aa36a309f45596f7089f4", null ],
-    [ "_target", "d8/d1b/a11368.html#a958b154f3c82188e9684be0f0b7dae56", null ],
-    [ "_textId", "d8/d1b/a11368.html#a0bbe45b38a92967f145fb1d608d647b1", null ]
+    [ "EffectApplyHandler", "d8/d1b/a11368.html#a7ab5f0786000c217e2fc71201a8990b6", null ],
+    [ "Call", "d8/d1b/a11368.html#a4c02a1b42d7b3a02633dc9600b0e09bb", null ],
+    [ "mode", "d8/d1b/a11368.html#ac776375c5a5de321edc572c87e983193", null ],
+    [ "pEffectHandlerScript", "d8/d1b/a11368.html#acd715556a7661f688ce0de9afe62250a", null ]
 ];

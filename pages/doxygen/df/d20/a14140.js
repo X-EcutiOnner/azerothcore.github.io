@@ -1,6 +1,6 @@
 var a14140 =
 [
-    [ "boss_wushoolayAI", "df/d20/a14140.html#a2ea62154c0932e5cd34bd4b858829ffe", null ],
-    [ "JustEngagedWith", "df/d20/a14140.html#af519da543fff63a39a6fbe48f90f2f22", null ],
-    [ "UpdateAI", "df/d20/a14140.html#acfaacee2a97212eb15056c1552b9e06b", null ]
+    [ "HandleOnHit", "df/d20/a14140.html#a36909ef786940eb1a05539c968d78e80", null ],
+    [ "PrepareSpellScript", "df/d20/a14140.html#a4bc6792c99b40834ec1a8a9764589e24", null ],
+    [ "Register", "df/d20/a14140.html#ad1d60c5f747f8ec16cbf2402567cfebd", null ]
 ];

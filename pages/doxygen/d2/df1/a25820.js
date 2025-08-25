@@ -1,7 +1,7 @@
 var a25820 =
 [
-    [ "HandleDummy", "d2/df1/a25820.html#aec0b2ad3b10f2ccbc755cf7278a5ed46", null ],
-    [ "PrepareSpellScript", "d2/df1/a25820.html#ac1ba0d23cbf805c234ac9d898f6bab85", null ],
-    [ "Register", "d2/df1/a25820.html#afd1588dc55730c52a922f37e60ec134a", null ],
-    [ "Validate", "d2/df1/a25820.html#aaed3ba3d986173b5941e048370d5ebe2", null ]
+    [ "Load", "d2/df1/a25820.html#a8be944ae201f4f8406948aff78f982d9", null ],
+    [ "OnDummyEffect", "d2/df1/a25820.html#adcb707400963e549a295e115d6f3583b", null ],
+    [ "PrepareSpellScript", "d2/df1/a25820.html#a5b2175a933df10d775bc3381f515aa96", null ],
+    [ "Register", "d2/df1/a25820.html#a6e41bf15401c540887dd321e4b2cc7d3", null ]
 ];

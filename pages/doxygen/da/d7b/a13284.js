@@ -1,16 +1,11 @@
 var a13284 =
 [
-    [ "boss_felmyst", "da/d7b/a13284.html#a96aa8f038e3f93aa7628ce3f28ef39ff", null ],
-    [ "InitializeAI", "da/d7b/a13284.html#af29021c428a9c7ffcea517d91b1d4b39", null ],
-    [ "JustDied", "da/d7b/a13284.html#a2269784b565f6a9d18bd9124cf4b8472", null ],
-    [ "JustEngagedWith", "da/d7b/a13284.html#a6fc19cd8b8c7891a912a50fcd673d96f", null ],
-    [ "KilledUnit", "da/d7b/a13284.html#a0233ebbcbb21d100425ac76223e839be", null ],
-    [ "MovementInform", "da/d7b/a13284.html#adf8cd17c20be6acbe381777e8c0efdba", null ],
-    [ "Reset", "da/d7b/a13284.html#ae5181c789809a859edb40488e206c0d3", null ],
-    [ "ScheduleGroundAbilities", "da/d7b/a13284.html#a2d77aab0f9c403e130f0513a0b3013ce", null ],
-    [ "SpellHitTarget", "da/d7b/a13284.html#a9b603cd704126cc6a6bbd65e2bb702e5", null ],
-    [ "StartIntro", "da/d7b/a13284.html#a55e6defd1bc7f8f1dfd2376cb4589356", null ],
-    [ "UpdateAI", "da/d7b/a13284.html#a0e429d8cf49946c0232b9c405c340356", null ],
-    [ "_currentLane", "da/d7b/a13284.html#a7b4230a28ad7d8136ae16ada9d471a39", null ],
-    [ "_strafeCount", "da/d7b/a13284.html#adc58c6e8aef0debe6689e42cebff5aa2", null ]
+    [ "boss_alythess", "da/d7b/a13284.html#a707fbd0f310005a60d5ed4c05c9fc176", null ],
+    [ "AttackStart", "da/d7b/a13284.html#ac860cef30a96d020a7c729f63ac5ca4e", null ],
+    [ "DoAction", "da/d7b/a13284.html#aa2dc7ab74fa5bdb753475b2de1515855", null ],
+    [ "JustDied", "da/d7b/a13284.html#a5509c9f0d979a2d9d70a8f4f9e7971a0", null ],
+    [ "JustEngagedWith", "da/d7b/a13284.html#ac5047ee0124864304284c1142e885158", null ],
+    [ "KilledUnit", "da/d7b/a13284.html#a611d8c0a8fb9061e596ef0ac8f1fda88", null ],
+    [ "Reset", "da/d7b/a13284.html#ab5f990d305f42a2d00e182f617175672", null ],
+    [ "_isSisterDead", "da/d7b/a13284.html#a9f9fa0823685066b4990a17880782b9a", null ]
 ];

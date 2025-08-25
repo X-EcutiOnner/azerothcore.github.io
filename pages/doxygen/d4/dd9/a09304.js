@@ -1,8 +1,8 @@
 var a09304 =
 [
-    [ "NearestGameObjectFishingHole", "d4/dd9/a09304.html#ab0e4734202edf26b69881ab85abe1d93", null ],
-    [ "NearestGameObjectFishingHole", "d4/dd9/a09304.html#a256c64e6c82d98349b958647d98bf4ce", null ],
-    [ "operator()", "d4/dd9/a09304.html#a52e2c64f8209ab364f4e85e1f4e947dc", null ],
-    [ "i_obj", "d4/dd9/a09304.html#a182fbf6b5cc68fb0eba6be26568c9d78", null ],
-    [ "i_range", "d4/dd9/a09304.html#af27a870fb654a130bf1e4ac1472fdffc", null ]
+    [ "RespawnDo", "d4/dd9/a09304.html#a79f6424f2849c4c05998fe29a8510aeb", null ],
+    [ "operator()", "d4/dd9/a09304.html#ac15ff63f29e313556b8f66e0cd80514f", null ],
+    [ "operator()", "d4/dd9/a09304.html#a23408bf4da497d1007e4e88e0d9c0e19", null ],
+    [ "operator()", "d4/dd9/a09304.html#a66335f45bb1f3c770887b263e9d84236", null ],
+    [ "operator()", "d4/dd9/a09304.html#a4551ca2e0fdb6540a724c9c2b43484c6", null ]
 ];

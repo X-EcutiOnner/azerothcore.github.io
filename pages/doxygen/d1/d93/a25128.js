@@ -1,7 +1,6 @@
 var a25128 =
 [
-    [ "HandleScript", "d1/d93/a25128.html#a8b20e2ffed94ec9438dc9b756ba76693", null ],
-    [ "PrepareSpellScript", "d1/d93/a25128.html#a9e29ea947d5415471d991a4e1cd699ac", null ],
-    [ "Register", "d1/d93/a25128.html#aa4bc27415893009581b317637599a85a", null ],
-    [ "Validate", "d1/d93/a25128.html#a77ed10819633ae2bc381023da0feb31b", null ]
+    [ "CheckSeat", "d1/d93/a25128.html#ab4e2376e084bc2cf0e30a91e3e5a270c", null ],
+    [ "PrepareSpellScript", "d1/d93/a25128.html#aaa9a6f31ec57542dcd657874c4eb52aa", null ],
+    [ "Register", "d1/d93/a25128.html#a6feb7c77ba258688a83bdb86e9ee53f8", null ]
 ];

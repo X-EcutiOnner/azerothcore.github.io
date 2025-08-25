@@ -1,16 +1,6 @@
 var a04912 =
 [
-    [ "MDLCallback", "d1/d58/a04916.html", "d1/d58/a04916" ],
-    [ "ObjArray", "dc/d52/a04912.html#a19e64f06ddaf36271df3c1192908042b", null ],
-    [ "BIHWrap", "dc/d52/a04912.html#a8572b541e513074132ba0834e081ec05", null ],
-    [ "balance", "dc/d52/a04912.html#a7a191f8c9d3b20807ef1db9be654ccd1", null ],
-    [ "insert", "dc/d52/a04912.html#ab859ad633f695002cf37776c0e124bbf", null ],
-    [ "intersectPoint", "dc/d52/a04912.html#affbe1a82d945190374753ab6af811ca4", null ],
-    [ "intersectRay", "dc/d52/a04912.html#a6dcddc2503a0acabc0f29ddb5eace803", null ],
-    [ "remove", "dc/d52/a04912.html#aeff1ff9ee3d3965dc4169ea6f0fc9839", null ],
-    [ "m_obj2Idx", "dc/d52/a04912.html#a04248b957bc22dbae570a3d96a03adcd", null ],
-    [ "m_objects", "dc/d52/a04912.html#a1e3b7eb01db291f5dd7febe7c7198ea3", null ],
-    [ "m_objects_to_push", "dc/d52/a04912.html#abd68da8091bf1694013d1231936a8a2c", null ],
-    [ "m_tree", "dc/d52/a04912.html#a13a40cee1097ab0435eb2d50518a41bf", null ],
-    [ "unbalanced_times", "dc/d52/a04912.html#abc44d55ac155023c2661d2687c068a4b", null ]
+    [ "node", "dc/d52/a04912.html#a5b76f0ea514d55ed9ba8ea6c4bdf7491", null ],
+    [ "tfar", "dc/d52/a04912.html#ad53b746617dd5a46930dae493d7488d9", null ],
+    [ "tnear", "dc/d52/a04912.html#a938ca2ace2aa498abdda93ee824b6f09", null ]
 ];

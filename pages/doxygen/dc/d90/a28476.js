@@ -1,9 +1,9 @@
 var a28476 =
 [
-    [ "TimeSeg", "dc/d90/a28476.html#a16782e722a5bada41691841fe594b7a6", null ],
-    [ "TransportEntry", "dc/d90/a28476.html#afcdb94a38d68d2ff8af225dc599db8a4", null ],
-    [ "W", "dc/d90/a28476.html#a4158a2babefbf4e148a64fe16bf113f6", null ],
-    [ "X", "dc/d90/a28476.html#a9c7cb1fd0463d1158d971db6f15431ff", null ],
-    [ "Y", "dc/d90/a28476.html#a7f0ff898e752e2e904ebee1412643df6", null ],
-    [ "Z", "dc/d90/a28476.html#a87647d71a965e80154ca36dc05421585", null ]
+    [ "Category", "dc/d90/a28476.html#acd933f251a1faa1f705420307136681d", null ],
+    [ "Faction", "dc/d90/a28476.html#a4876df0f9a92e10634b7bc0b389ade00", null ],
+    [ "Flags", "dc/d90/a28476.html#a8b41ed573eae71196664a61bac83fe3e", null ],
+    [ "Id", "dc/d90/a28476.html#ae0b89d5ae5f82b4f807a2f8dbbec351a", null ],
+    [ "Slot", "dc/d90/a28476.html#a24449c3e3fd89ae3dbe4be3f64248115", null ],
+    [ "Type", "dc/d90/a28476.html#aa1cbad19aaa973e21fdbd74cec5119f6", null ]
 ];

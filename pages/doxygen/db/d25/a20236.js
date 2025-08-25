@@ -1,6 +1,7 @@
 var a20236 =
 [
-    [ "npc_ulduar_hodir_shamanAI", "d2/dcf/a20240.html", "d2/dcf/a20240" ],
-    [ "npc_ulduar_hodir_shaman", "db/d25/a20236.html#ae73a416c72441ab531d8a5db88183d47", null ],
-    [ "GetAI", "db/d25/a20236.html#ab06a67b72a3954c65792a478ac90672c", null ]
+    [ "npc_ulduar_icicleAI", "db/d25/a20236.html#a258376e257fbe3c8a6c70b2585d44df1", null ],
+    [ "UpdateAI", "db/d25/a20236.html#a0edf734ae2dac7a5378b21b73e3714c8", null ],
+    [ "timer1", "db/d25/a20236.html#aa912acbe225d9056e44bc22b8d9f7473", null ],
+    [ "timer2", "db/d25/a20236.html#a82e034fc4ccb8eb92abeb72a222764c7", null ]
 ];

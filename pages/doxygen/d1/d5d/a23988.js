@@ -1,6 +1,6 @@
 var a23988 =
 [
-    [ "npc_simon_bunnyAI", "d9/dac/a23992.html", "d9/dac/a23992" ],
-    [ "npc_simon_bunny", "d1/d5d/a23988.html#afd3f3a24450bc8b748c0ff5b05b10da1", null ],
-    [ "GetAI", "d1/d5d/a23988.html#ac0c97609916321a1599c0722803a050f", null ]
+    [ "npc_deaths_door_fell_cannon_target_bunnyAI", "d9/dac/a23992.html", "d9/dac/a23992" ],
+    [ "npc_deaths_door_fell_cannon_target_bunny", "d1/d5d/a23988.html#a1385e50777282fae0c8f8ca2f9f8a3e6", null ],
+    [ "GetAI", "d1/d5d/a23988.html#a250707096229da28024960beeb7725bf", null ]
 ];

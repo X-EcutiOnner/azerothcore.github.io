@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: ServerMailMgr Class Reference</title>
+<title>AzerothCore: ServerMailItems Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,61 +106,35 @@ $(document).ready(function(){initNavTree('d0/d18/a09752.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pub-static-methods">Static Public Member Functions</a> &#124;
-<a href="#pri-methods">Private Member Functions</a> &#124;
-<a href="#pri-attribs">Private Attributes</a> &#124;
+<a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../d2/d25/a09749.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">ServerMailMgr Class Reference</div></div>
+  <div class="headertitle"><div class="title">ServerMailItems Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
+
+<p>Represents an item reward associated with a server mail template.  
+ <a href="../../d0/d18/a09752.html#details">More...</a></p>
 
 <p><code>#include &quot;<a class="el" href="../../">ServerMailMgr.h</a>&quot;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a1a01dd7a8e5c45bc7c97203e4a04a768"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d18/a09752.html#a1a01dd7a8e5c45bc7c97203e4a04a768">LoadMailServerTemplates</a> ()</td></tr>
-<tr class="memdesc:a1a01dd7a8e5c45bc7c97203e4a04a768"><td class="mdescLeft">&#160;</td><td class="mdescRight">Loads all server mail templates from the database into memory.  <a href="../../d0/d18/a09752.html#a1a01dd7a8e5c45bc7c97203e4a04a768">More...</a><br /></td></tr>
-<tr class="separator:a1a01dd7a8e5c45bc7c97203e4a04a768"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a49aea924f27804d21fbe06e72e159df3"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d18/a09752.html#a49aea924f27804d21fbe06e72e159df3">LoadMailServerTemplatesItems</a> ()</td></tr>
-<tr class="memdesc:a49aea924f27804d21fbe06e72e159df3"><td class="mdescLeft">&#160;</td><td class="mdescRight">Loads all items associated with server mail templates.  <a href="../../d0/d18/a09752.html#a49aea924f27804d21fbe06e72e159df3">More...</a><br /></td></tr>
-<tr class="separator:a49aea924f27804d21fbe06e72e159df3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6bb75bdb34a25dd01fdc7e81b4e9b897"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d18/a09752.html#a6bb75bdb34a25dd01fdc7e81b4e9b897">LoadMailServerTemplatesConditions</a> ()</td></tr>
-<tr class="memdesc:a6bb75bdb34a25dd01fdc7e81b4e9b897"><td class="mdescLeft">&#160;</td><td class="mdescRight">Loads all conditions associated with server mail templates.  <a href="../../d0/d18/a09752.html#a6bb75bdb34a25dd01fdc7e81b4e9b897">More...</a><br /></td></tr>
-<tr class="separator:a6bb75bdb34a25dd01fdc7e81b4e9b897"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a57f8aea4b5bb15ff77b9ebd8e65e8092"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d7/dbe/a02024.html#ab25c41bc314095f74fe678a33e086a2b">ServerMailConditionType</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d18/a09752.html#a57f8aea4b5bb15ff77b9ebd8e65e8092">GetServerMailConditionType</a> (std::string_view conditionTypeStr) const</td></tr>
-<tr class="memdesc:a57f8aea4b5bb15ff77b9ebd8e65e8092"><td class="mdescLeft">&#160;</td><td class="mdescRight">Convert DB value of conditionType to ServerMailConditionType.  <a href="../../d0/d18/a09752.html#a57f8aea4b5bb15ff77b9ebd8e65e8092">More...</a><br /></td></tr>
-<tr class="separator:a57f8aea4b5bb15ff77b9ebd8e65e8092"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2e7a8cdc7ebdb51204823fd30a0449b3"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d18/a09752.html#a2e7a8cdc7ebdb51204823fd30a0449b3">ConditionTypeUsesConditionState</a> (<a class="el" href="../../d7/dbe/a02024.html#ab25c41bc314095f74fe678a33e086a2b">ServerMailConditionType</a> type) const</td></tr>
-<tr class="memdesc:a2e7a8cdc7ebdb51204823fd30a0449b3"><td class="mdescLeft">&#160;</td><td class="mdescRight">Check if ConditionType should use ConditionState.  <a href="../../d0/d18/a09752.html#a2e7a8cdc7ebdb51204823fd30a0449b3">More...</a><br /></td></tr>
-<tr class="separator:a2e7a8cdc7ebdb51204823fd30a0449b3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af615430a40e9ddfff49bc338b31d6c1b"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d18/a09752.html#af615430a40e9ddfff49bc338b31d6c1b">SendServerMail</a> (<a class="el" href="../../d8/d93/a08612.html">Player</a> *player, <a class="el" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> id, <a class="el" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> money, std::vector&lt; <a class="el" href="../../d1/dd8/a09744.html">ServerMailItems</a> &gt; const &amp;items, std::vector&lt; <a class="el" href="../../d2/d02/a09740.html">ServerMailCondition</a> &gt; const &amp;conditions, std::string const &amp;subject, std::string const &amp;body) const</td></tr>
-<tr class="memdesc:af615430a40e9ddfff49bc338b31d6c1b"><td class="mdescLeft">&#160;</td><td class="mdescRight">Sends a server mail to a player if the template is active and the player is eligible.  <a href="../../d0/d18/a09752.html#af615430a40e9ddfff49bc338b31d6c1b">More...</a><br /></td></tr>
-<tr class="separator:af615430a40e9ddfff49bc338b31d6c1b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:acb4521f696c6f11c977dc9d8b76e0c16"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d7/dbe/a02024.html#a9c10c94a0a8508b3af2e92d3455d063b">ServerMailContainer</a> const &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d18/a09752.html#acb4521f696c6f11c977dc9d8b76e0c16">GetAllServerMailStore</a> () const</td></tr>
-<tr class="memdesc:acb4521f696c6f11c977dc9d8b76e0c16"><td class="mdescLeft">&#160;</td><td class="mdescRight">Retrieves the entire server mail store.  <a href="../../d0/d18/a09752.html#acb4521f696c6f11c977dc9d8b76e0c16">More...</a><br /></td></tr>
-<tr class="separator:acb4521f696c6f11c977dc9d8b76e0c16"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a95cb2278da300c6b0385241f5a3950c1"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d18/a09752.html#a95cb2278da300c6b0385241f5a3950c1">ServerMailItems</a> ()=default</td></tr>
+<tr class="separator:a95cb2278da300c6b0385241f5a3950c1"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
-Static Public Member Functions</h2></td></tr>
-<tr class="memitem:abc85cb07f717384fac09f4e2b0f59af1"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d0/d18/a09752.html">ServerMailMgr</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d18/a09752.html#abc85cb07f717384fac09f4e2b0f59af1">instance</a> ()</td></tr>
-<tr class="separator:abc85cb07f717384fac09f4e2b0f59af1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-methods" name="pri-methods"></a>
-Private Member Functions</h2></td></tr>
-<tr class="memitem:aeec2235e9dd9b36b868634d850f02a5b"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d18/a09752.html#aeec2235e9dd9b36b868634d850f02a5b">ServerMailMgr</a> ()=default</td></tr>
-<tr class="separator:aeec2235e9dd9b36b868634d850f02a5b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:adba54af38e90ecae21e79835910ba195"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d18/a09752.html#adba54af38e90ecae21e79835910ba195">~ServerMailMgr</a> ()=default</td></tr>
-<tr class="separator:adba54af38e90ecae21e79835910ba195"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
-Private Attributes</h2></td></tr>
-<tr class="memitem:a96ae3a78694ca97d112c5d92884f2415"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d7/dbe/a02024.html#a9c10c94a0a8508b3af2e92d3455d063b">ServerMailContainer</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d18/a09752.html#a96ae3a78694ca97d112c5d92884f2415">_serverMailStore</a></td></tr>
-<tr class="separator:a96ae3a78694ca97d112c5d92884f2415"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
+Public Attributes</h2></td></tr>
+<tr class="memitem:ae03738595a87a47e831bcbeea6f97d34"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d18/a09752.html#ae03738595a87a47e831bcbeea6f97d34">item</a> { 0 }</td></tr>
+<tr class="separator:ae03738595a87a47e831bcbeea6f97d34"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4475d65dd5721d4af323ae93d15f4170"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d18/a09752.html#a4475d65dd5721d4af323ae93d15f4170">itemCount</a> { 0 }</td></tr>
+<tr class="separator:a4475d65dd5721d4af323ae93d15f4170"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="aeec2235e9dd9b36b868634d850f02a5b" name="aeec2235e9dd9b36b868634d850f02a5b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aeec2235e9dd9b36b868634d850f02a5b">&#9670;&#160;</a></span>ServerMailMgr()</h2>
+<div class="textblock"><p >Represents an item reward associated with a server mail template. </p>
+<p >Server mail templates can have multiple item rewards, stored separately for each faction. This struct tracks the item ID and item count. </p>
+</div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="a95cb2278da300c6b0385241f5a3950c1" name="a95cb2278da300c6b0385241f5a3950c1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a95cb2278da300c6b0385241f5a3950c1">&#9670;&#160;</a></span>ServerMailItems()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -169,7 +143,7 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">ServerMailMgr::ServerMailMgr </td>
+          <td class="memname">ServerMailItems::ServerMailItems </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -177,670 +151,43 @@ Private Attributes</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span><span class="mlabel">default</span></span>  </td>
+<span class="mlabels"><span class="mlabel">default</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-
-</div>
-</div>
-<a id="adba54af38e90ecae21e79835910ba195" name="adba54af38e90ecae21e79835910ba195"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#adba54af38e90ecae21e79835910ba195">&#9670;&#160;</a></span>~ServerMailMgr()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">ServerMailMgr::~ServerMailMgr </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span><span class="mlabel">default</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<h2 class="groupheader">Member Function Documentation</h2>
-<a id="a2e7a8cdc7ebdb51204823fd30a0449b3" name="a2e7a8cdc7ebdb51204823fd30a0449b3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2e7a8cdc7ebdb51204823fd30a0449b3">&#9670;&#160;</a></span>ConditionTypeUsesConditionState()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool ServerMailMgr::ConditionTypeUsesConditionState </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d7/dbe/a02024.html#ab25c41bc314095f74fe678a33e086a2b">ServerMailConditionType</a>&#160;</td>
-          <td class="paramname"><em>type</em></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p>Check if ConditionType should use ConditionState. </p>
-<dl class="section return"><dt>Returns</dt><dd>True if the ConditionType is allowed to use ConditionState, otherwise False. </dd></dl>
-<div class="fragment"><div class="line"><span class="lineno">  325</span>{</div>
-<div class="line"><span class="lineno">  326</span>    <span class="keywordflow">switch</span> (type)</div>
-<div class="line"><span class="lineno">  327</span>    {</div>
-<div class="line"><span class="lineno">  328</span>    <span class="keywordflow">case</span> ServerMailConditionType::Quest:</div>
-<div class="line"><span class="lineno">  329</span>    <span class="keywordflow">case</span> ServerMailConditionType::Reputation:</div>
-<div class="line"><span class="lineno">  330</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  331</span>    <span class="keywordflow">default</span>:</div>
-<div class="line"><span class="lineno">  332</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  333</span>    }</div>
-<div class="line"><span class="lineno">  334</span>}</div>
-</div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00155">LoadMailServerTemplatesConditions()</a>.</p>
-
-</div>
-</div>
-<a id="acb4521f696c6f11c977dc9d8b76e0c16" name="acb4521f696c6f11c977dc9d8b76e0c16"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#acb4521f696c6f11c977dc9d8b76e0c16">&#9670;&#160;</a></span>GetAllServerMailStore()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d7/dbe/a02024.html#a9c10c94a0a8508b3af2e92d3455d063b">ServerMailContainer</a> const  &amp; ServerMailMgr::GetAllServerMailStore </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p>Retrieves the entire server mail store. </p>
-<p >This function returns a constant reference to the internal <code>_serverMailStore</code> container, which holds all server mail data.</p>
-<dl class="section return"><dt>Returns</dt><dd>A constant reference to the <code>ServerMailContainer</code> containing all stored server mail. </dd></dl>
-<div class="fragment"><div class="line"><span class="lineno">  225</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d0/d18/a09752.html#a96ae3a78694ca97d112c5d92884f2415">_serverMailStore</a>; }</div>
-<div class="ttc" id="aa09752_html_a96ae3a78694ca97d112c5d92884f2415"><div class="ttname"><a href="../../d0/d18/a09752.html#a96ae3a78694ca97d112c5d92884f2415">ServerMailMgr::_serverMailStore</a></div><div class="ttdeci">ServerMailContainer _serverMailStore</div><div class="ttdef"><b>Definition:</b> ServerMailMgr.h:228</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00228">_serverMailStore</a>.</p>
-
-</div>
-</div>
-<a id="a57f8aea4b5bb15ff77b9ebd8e65e8092" name="a57f8aea4b5bb15ff77b9ebd8e65e8092"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a57f8aea4b5bb15ff77b9ebd8e65e8092">&#9670;&#160;</a></span>GetServerMailConditionType()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d7/dbe/a02024.html#ab25c41bc314095f74fe678a33e086a2b">ServerMailConditionType</a> ServerMailMgr::GetServerMailConditionType </td>
-          <td>(</td>
-          <td class="paramtype">std::string_view&#160;</td>
-          <td class="paramname"><em>conditionTypeStr</em></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p>Convert DB value of conditionType to ServerMailConditionType. </p>
-<p >Lookup the corresponding SeverMailConditionType enum for the provided string by DB. If the string is not found we return internal default value ServerMailConditionType::Invalid</p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramname">conditionTypeStr</td><td>string value from DB of conditionType </td></tr>
-  </table>
-  </dd>
-</dl>
-<dl class="section return"><dt>Returns</dt><dd>ServerMailConditionType The corresponding value (see <a class="el" href="../../d7/dbe/a02024.html#ab25c41bc314095f74fe678a33e086a2b">ServerMailConditionType</a>) or default to ServerMailConditionType::Invalid </dd></dl>
-<div class="fragment"><div class="line"><span class="lineno">  316</span>{</div>
-<div class="line"><span class="lineno">  317</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; pair : <a class="code hl_variable" href="../../d7/dbe/a02024.html#af981b509cb816fa6720cf16cceaa9081">ServerMailConditionTypePairs</a>)</div>
-<div class="line"><span class="lineno">  318</span>        <span class="keywordflow">if</span> (pair.first == conditionTypeStr)</div>
-<div class="line"><span class="lineno">  319</span>            <span class="keywordflow">return</span> pair.second;</div>
-<div class="line"><span class="lineno">  320</span> </div>
-<div class="line"><span class="lineno">  321</span>    <span class="keywordflow">return</span> ServerMailConditionType::Invalid;</div>
-<div class="line"><span class="lineno">  322</span>}</div>
-<div class="ttc" id="aa02024_html_af981b509cb816fa6720cf16cceaa9081"><div class="ttname"><a href="../../d7/dbe/a02024.html#af981b509cb816fa6720cf16cceaa9081">ServerMailConditionTypePairs</a></div><div class="ttdeci">constexpr std::pair&lt; std::string_view, ServerMailConditionType &gt; ServerMailConditionTypePairs[]</div><div class="ttdoc">Assign string condition to corresponding ServerMailConditionType enum value.</div><div class="ttdef"><b>Definition:</b> ServerMailMgr.h:62</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00062">ServerMailConditionTypePairs</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00155">LoadMailServerTemplatesConditions()</a>.</p>
-
-</div>
-</div>
-<a id="abc85cb07f717384fac09f4e2b0f59af1" name="abc85cb07f717384fac09f4e2b0f59af1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#abc85cb07f717384fac09f4e2b0f59af1">&#9670;&#160;</a></span>instance()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/d18/a09752.html">ServerMailMgr</a> * ServerMailMgr::instance </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   32</span>{</div>
-<div class="line"><span class="lineno">   33</span>    <span class="keyword">static</span> <a class="code hl_class" href="../../d0/d18/a09752.html">ServerMailMgr</a> <a class="code hl_function" href="../../d0/d18/a09752.html#abc85cb07f717384fac09f4e2b0f59af1">instance</a>;</div>
-<div class="line"><span class="lineno">   34</span>    <span class="keywordflow">return</span> &amp;<a class="code hl_function" href="../../d0/d18/a09752.html#abc85cb07f717384fac09f4e2b0f59af1">instance</a>;</div>
-<div class="line"><span class="lineno">   35</span>}</div>
-<div class="ttc" id="aa09752_html"><div class="ttname"><a href="../../d0/d18/a09752.html">ServerMailMgr</a></div><div class="ttdef"><b>Definition:</b> ServerMailMgr.h:148</div></div>
-<div class="ttc" id="aa09752_html_abc85cb07f717384fac09f4e2b0f59af1"><div class="ttname"><a href="../../d0/d18/a09752.html#abc85cb07f717384fac09f4e2b0f59af1">ServerMailMgr::instance</a></div><div class="ttdeci">static ServerMailMgr * instance()</div><div class="ttdef"><b>Definition:</b> ServerMailMgr.cpp:31</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00031">instance()</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00031">instance()</a>.</p>
-
-</div>
-</div>
-<a id="a1a01dd7a8e5c45bc7c97203e4a04a768" name="a1a01dd7a8e5c45bc7c97203e4a04a768"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1a01dd7a8e5c45bc7c97203e4a04a768">&#9670;&#160;</a></span>LoadMailServerTemplates()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void ServerMailMgr::LoadMailServerTemplates </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p>Loads all server mail templates from the database into memory. </p>
-<p >Queries the <code>mail_server_template</code> table and loads all rows into memory. This method is intended to be called during server startup. </p>
-<div class="fragment"><div class="line"><span class="lineno">   38</span>{</div>
-<div class="line"><span class="lineno">   39</span>    <a class="code hl_typedef" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> oldMSTime = <a class="code hl_function" href="../../d8/d59/a04337.html#a4476c8e13ea790c3536f2749105f9cb9">getMSTime</a>();</div>
-<div class="line"><span class="lineno">   40</span> </div>
-<div class="line"><span class="lineno">   41</span>    <a class="code hl_variable" href="../../d0/d18/a09752.html#a96ae3a78694ca97d112c5d92884f2415">_serverMailStore</a>.clear(); <span class="comment">// for reload case</span></div>
-<div class="line"><span class="lineno">   42</span> </div>
-<div class="line"><span class="lineno">   43</span>    <span class="comment">//                                                    0     1         2         3          4       5</span></div>
-<div class="line"><span class="lineno">   44</span>    <a class="code hl_typedef" href="../../d2/d29/a04181.html#ab0c9feeec448a181290fcb39565b8253">QueryResult</a> result = <a class="code hl_variable" href="../../d1/d7f/a04229.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.Query(<span class="stringliteral">&quot;SELECT `id`, `moneyA`, `moneyH`, `subject`, `body`, `active` FROM `mail_server_template`&quot;</span>);</div>
-<div class="line"><span class="lineno">   45</span>    <span class="keywordflow">if</span> (!result)</div>
-<div class="line"><span class="lineno">   46</span>    {</div>
-<div class="line"><span class="lineno">   47</span>        <a class="code hl_define" href="../../d8/d7c/a04601.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt;&gt; Loaded 0 server mail rewards. DB table `mail_server_template` is empty.&quot;</span>);</div>
-<div class="line"><span class="lineno">   48</span>        <a class="code hl_define" href="../../d8/d7c/a04601.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
-<div class="line"><span class="lineno">   49</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">   50</span>    }</div>
-<div class="line"><span class="lineno">   51</span> </div>
-<div class="line"><span class="lineno">   52</span>    <a class="code hl_variable" href="../../d0/d18/a09752.html#a96ae3a78694ca97d112c5d92884f2415">_serverMailStore</a>.reserve(result-&gt;GetRowCount());</div>
-<div class="line"><span class="lineno">   53</span> </div>
-<div class="line"><span class="lineno">   54</span>    <span class="keywordflow">do</span></div>
-<div class="line"><span class="lineno">   55</span>    {</div>
-<div class="line"><span class="lineno">   56</span>        <a class="code hl_class" href="../../da/de9/a05716.html">Field</a>* fields = result-&gt;Fetch();</div>
-<div class="line"><span class="lineno">   57</span> </div>
-<div class="line"><span class="lineno">   58</span>        <a class="code hl_typedef" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> <span class="keywordtype">id</span> = fields[0].<a class="code hl_function" href="../../da/de9/a05716.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
-<div class="line"><span class="lineno">   59</span> </div>
-<div class="line"><span class="lineno">   60</span>        <a class="code hl_struct" href="../../d7/d21/a09748.html">ServerMail</a>&amp; servMail = <a class="code hl_variable" href="../../d0/d18/a09752.html#a96ae3a78694ca97d112c5d92884f2415">_serverMailStore</a>[id];</div>
-<div class="line"><span class="lineno">   61</span>        servMail.id          = id;</div>
-<div class="line"><span class="lineno">   62</span>        servMail.moneyA      = fields[1].<a class="code hl_function" href="../../da/de9/a05716.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
-<div class="line"><span class="lineno">   63</span>        servMail.moneyH      = fields[2].<a class="code hl_function" href="../../da/de9/a05716.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
-<div class="line"><span class="lineno">   64</span>        servMail.subject     = fields[3].<a class="code hl_function" href="../../da/de9/a05716.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;std::string&gt;();</div>
-<div class="line"><span class="lineno">   65</span>        servMail.body        = fields[4].<a class="code hl_function" href="../../da/de9/a05716.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;std::string&gt;();</div>
-<div class="line"><span class="lineno">   66</span>        servMail.active      = fields[5].<a class="code hl_function" href="../../da/de9/a05716.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d2/d27/a04301.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&gt;();</div>
-<div class="line"><span class="lineno">   67</span> </div>
-<div class="line"><span class="lineno">   68</span>        <span class="comment">// Skip non-activated entries</span></div>
-<div class="line"><span class="lineno">   69</span>        <span class="keywordflow">if</span> (!servMail.active)</div>
-<div class="line"><span class="lineno">   70</span>            <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">   71</span> </div>
-<div class="line"><span class="lineno">   72</span>        <span class="keywordflow">if</span> (servMail.moneyA &gt; <a class="code hl_define" href="../../d1/dd5/a01742.html#aabbccefded1f0620ac64736f1c8224f9">MAX_MONEY_AMOUNT</a> || servMail.moneyH &gt; <a class="code hl_define" href="../../d1/dd5/a01742.html#aabbccefded1f0620ac64736f1c8224f9">MAX_MONEY_AMOUNT</a>)</div>
-<div class="line"><span class="lineno">   73</span>        {</div>
-<div class="line"><span class="lineno">   74</span>            <a class="code hl_define" href="../../d8/d7c/a04601.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;Table `mail_server_template` has moneyA {} or moneyH {} larger than MAX_MONEY_AMOUNT {} for id {}, skipped.&quot;</span>, servMail.moneyA, servMail.moneyH, <a class="code hl_define" href="../../d1/dd5/a01742.html#aabbccefded1f0620ac64736f1c8224f9">MAX_MONEY_AMOUNT</a>, servMail.id);</div>
-<div class="line"><span class="lineno">   75</span>            <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">   76</span>        }</div>
-<div class="line"><span class="lineno">   77</span>    } <span class="keywordflow">while</span> (result-&gt;NextRow());</div>
-<div class="line"><span class="lineno">   78</span> </div>
-<div class="line"><span class="lineno">   79</span>    <a class="code hl_function" href="../../d0/d18/a09752.html#a49aea924f27804d21fbe06e72e159df3">LoadMailServerTemplatesItems</a>();</div>
-<div class="line"><span class="lineno">   80</span>    <a class="code hl_function" href="../../d0/d18/a09752.html#a6bb75bdb34a25dd01fdc7e81b4e9b897">LoadMailServerTemplatesConditions</a>();</div>
-<div class="line"><span class="lineno">   81</span> </div>
-<div class="line"><span class="lineno">   82</span>    <a class="code hl_define" href="../../d8/d7c/a04601.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt;&gt; Loaded {} Mail Server definitions in {} ms&quot;</span>, <a class="code hl_variable" href="../../d0/d18/a09752.html#a96ae3a78694ca97d112c5d92884f2415">_serverMailStore</a>.size(), <a class="code hl_function" href="../../d8/d59/a04337.html#a23a2c8663a05f2b03a6f85501972e8c0">GetMSTimeDiffToNow</a>(oldMSTime));</div>
-<div class="line"><span class="lineno">   83</span>    <a class="code hl_define" href="../../d8/d7c/a04601.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
-<div class="line"><span class="lineno">   84</span>}</div>
-<div class="ttc" id="aa01742_html_aabbccefded1f0620ac64736f1c8224f9"><div class="ttname"><a href="../../d1/dd5/a01742.html#aabbccefded1f0620ac64736f1c8224f9">MAX_MONEY_AMOUNT</a></div><div class="ttdeci">#define MAX_MONEY_AMOUNT</div><div class="ttdef"><b>Definition:</b> Player.h:937</div></div>
-<div class="ttc" id="aa04181_html_ab0c9feeec448a181290fcb39565b8253"><div class="ttname"><a href="../../d2/d29/a04181.html#ab0c9feeec448a181290fcb39565b8253">QueryResult</a></div><div class="ttdeci">std::shared_ptr&lt; ResultSet &gt; QueryResult</div><div class="ttdef"><b>Definition:</b> DatabaseEnvFwd.h:27</div></div>
-<div class="ttc" id="aa04229_html_a7e7534bc66d79434bd280b77cb124eec"><div class="ttname"><a href="../../d1/d7f/a04229.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a></div><div class="ttdeci">DatabaseWorkerPool&lt; CharacterDatabaseConnection &gt; CharacterDatabase</div><div class="ttdoc">Accessor to the character database.</div><div class="ttdef"><b>Definition:</b> DatabaseEnv.cpp:21</div></div>
-<div class="ttc" id="aa04301_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../d2/d27/a04301.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition:</b> Define.h:109</div></div>
-<div class="ttc" id="aa04301_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
-<div class="ttc" id="aa04337_html_a23a2c8663a05f2b03a6f85501972e8c0"><div class="ttname"><a href="../../d8/d59/a04337.html#a23a2c8663a05f2b03a6f85501972e8c0">GetMSTimeDiffToNow</a></div><div class="ttdeci">uint32 GetMSTimeDiffToNow(uint32 oldMSTime)</div><div class="ttdef"><b>Definition:</b> Timer.h:131</div></div>
-<div class="ttc" id="aa04337_html_a4476c8e13ea790c3536f2749105f9cb9"><div class="ttname"><a href="../../d8/d59/a04337.html#a4476c8e13ea790c3536f2749105f9cb9">getMSTime</a></div><div class="ttdeci">uint32 getMSTime()</div><div class="ttdef"><b>Definition:</b> Timer.h:103</div></div>
-<div class="ttc" id="aa04601_html_a271e427d8e8481efd5cd5f537ec9e419"><div class="ttname"><a href="../../d8/d7c/a04601.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a></div><div class="ttdeci">#define LOG_INFO(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:166</div></div>
-<div class="ttc" id="aa04601_html_a43832e3fa8508deb4ce43e520005fcd9"><div class="ttname"><a href="../../d8/d7c/a04601.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a></div><div class="ttdeci">#define LOG_ERROR(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:158</div></div>
-<div class="ttc" id="aa05716_html"><div class="ttname"><a href="../../da/de9/a05716.html">Field</a></div><div class="ttdoc">Class used to access individual fields of database query result.</div><div class="ttdef"><b>Definition:</b> Field.h:98</div></div>
-<div class="ttc" id="aa05716_html_aae507d21d3570ffdaf1643ba02946f01"><div class="ttname"><a href="../../da/de9/a05716.html#aae507d21d3570ffdaf1643ba02946f01">Field::Get</a></div><div class="ttdeci">std::enable_if_t&lt; std::is_arithmetic_v&lt; T &gt;, T &gt; Get() const</div><div class="ttdef"><b>Definition:</b> Field.h:112</div></div>
-<div class="ttc" id="aa09748_html"><div class="ttname"><a href="../../d7/d21/a09748.html">ServerMail</a></div><div class="ttdoc">Represents a server mail template, including rewards, conditions, and metadata.</div><div class="ttdef"><b>Definition:</b> ServerMailMgr.h:128</div></div>
-<div class="ttc" id="aa09752_html_a49aea924f27804d21fbe06e72e159df3"><div class="ttname"><a href="../../d0/d18/a09752.html#a49aea924f27804d21fbe06e72e159df3">ServerMailMgr::LoadMailServerTemplatesItems</a></div><div class="ttdeci">void LoadMailServerTemplatesItems()</div><div class="ttdoc">Loads all items associated with server mail templates.</div><div class="ttdef"><b>Definition:</b> ServerMailMgr.cpp:86</div></div>
-<div class="ttc" id="aa09752_html_a6bb75bdb34a25dd01fdc7e81b4e9b897"><div class="ttname"><a href="../../d0/d18/a09752.html#a6bb75bdb34a25dd01fdc7e81b4e9b897">ServerMailMgr::LoadMailServerTemplatesConditions</a></div><div class="ttdeci">void LoadMailServerTemplatesConditions()</div><div class="ttdoc">Loads all conditions associated with server mail templates.</div><div class="ttdef"><b>Definition:</b> ServerMailMgr.cpp:155</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00228">_serverMailStore</a>, <a class="el" href="../../#l00021">CharacterDatabase</a>, <a class="el" href="../../#l00112">Field::Get()</a>, <a class="el" href="../../#l00103">getMSTime()</a>, <a class="el" href="../../#l00131">GetMSTimeDiffToNow()</a>, <a class="el" href="../../#l00155">LoadMailServerTemplatesConditions()</a>, <a class="el" href="../../#l00086">LoadMailServerTemplatesItems()</a>, <a class="el" href="../../#l00158">LOG_ERROR</a>, <a class="el" href="../../#l00166">LOG_INFO</a>, and <a class="el" href="../../#l00937">MAX_MONEY_AMOUNT</a>.</p>
-
-</div>
-</div>
-<a id="a6bb75bdb34a25dd01fdc7e81b4e9b897" name="a6bb75bdb34a25dd01fdc7e81b4e9b897"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6bb75bdb34a25dd01fdc7e81b4e9b897">&#9670;&#160;</a></span>LoadMailServerTemplatesConditions()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void ServerMailMgr::LoadMailServerTemplatesConditions </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p>Loads all conditions associated with server mail templates. </p>
-<p >Queries the <code>mail_server_template_conditions</code> table and loads all conditions into memory, linking them to their corresponding templates by template ID. This method is intended to be called during server startup. </p>
-<div class="fragment"><div class="line"><span class="lineno">  156</span>{</div>
-<div class="line"><span class="lineno">  157</span>    <span class="comment">//                                                    0             1                2                 3</span></div>
-<div class="line"><span class="lineno">  158</span>    <a class="code hl_typedef" href="../../d2/d29/a04181.html#ab0c9feeec448a181290fcb39565b8253">QueryResult</a> result = <a class="code hl_variable" href="../../d1/d7f/a04229.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.Query(<span class="stringliteral">&quot;SELECT `templateID`, `conditionType`, `conditionValue`, `conditionState` FROM `mail_server_template_conditions`&quot;</span>);</div>
-<div class="line"><span class="lineno">  159</span>    <span class="keywordflow">if</span> (!result)</div>
-<div class="line"><span class="lineno">  160</span>    {</div>
-<div class="line"><span class="lineno">  161</span>        <a class="code hl_define" href="../../d8/d7c/a04601.html#adf09840a666e1d86bcd3439105db6edc">LOG_WARN</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt;&gt; Loaded 0 server mail conditions. DB table `mail_server_template_conditions` is empty.&quot;</span>);</div>
-<div class="line"><span class="lineno">  162</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  163</span>    }</div>
-<div class="line"><span class="lineno">  164</span> </div>
-<div class="line"><span class="lineno">  165</span>    <span class="keywordflow">do</span></div>
-<div class="line"><span class="lineno">  166</span>    {</div>
-<div class="line"><span class="lineno">  167</span>        <a class="code hl_class" href="../../da/de9/a05716.html">Field</a>* fields = result-&gt;Fetch();</div>
-<div class="line"><span class="lineno">  168</span> </div>
-<div class="line"><span class="lineno">  169</span>        <a class="code hl_typedef" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> templateID                 = fields[0].<a class="code hl_function" href="../../da/de9/a05716.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
-<div class="line"><span class="lineno">  170</span>        std::string_view conditionTypeStr = fields[1].<a class="code hl_function" href="../../da/de9/a05716.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;std::string_view&gt;();</div>
-<div class="line"><span class="lineno">  171</span>        <a class="code hl_typedef" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> conditionValue             = fields[2].<a class="code hl_function" href="../../da/de9/a05716.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
-<div class="line"><span class="lineno">  172</span>        <a class="code hl_typedef" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> conditionState             = fields[3].<a class="code hl_function" href="../../da/de9/a05716.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
-<div class="line"><span class="lineno">  173</span> </div>
-<div class="line"><span class="lineno">  174</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d0/d18/a09752.html#a96ae3a78694ca97d112c5d92884f2415">_serverMailStore</a>.find(templateID) == <a class="code hl_variable" href="../../d0/d18/a09752.html#a96ae3a78694ca97d112c5d92884f2415">_serverMailStore</a>.end())</div>
-<div class="line"><span class="lineno">  175</span>        {</div>
-<div class="line"><span class="lineno">  176</span>            <a class="code hl_define" href="../../d8/d7c/a04601.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;Table `mail_server_template_conditions` has an invalid templateID {}, skipped.&quot;</span>, templateID);</div>
-<div class="line"><span class="lineno">  177</span>            <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  178</span>        }</div>
-<div class="line"><span class="lineno">  179</span> </div>
-<div class="line"><span class="lineno">  180</span>        <span class="comment">// Get conditiontype from ServerMailConditionTypePairs</span></div>
-<div class="line"><span class="lineno">  181</span>        <a class="code hl_enumeration" href="../../d7/dbe/a02024.html#ab25c41bc314095f74fe678a33e086a2b">ServerMailConditionType</a> conditionType;</div>
-<div class="line"><span class="lineno">  182</span>        conditionType = <a class="code hl_function" href="../../d0/d18/a09752.html#a57f8aea4b5bb15ff77b9ebd8e65e8092">GetServerMailConditionType</a>(conditionTypeStr);</div>
-<div class="line"><span class="lineno">  183</span>        <span class="keywordflow">if</span> (conditionType == ServerMailConditionType::Invalid) [[unlikely]]</div>
-<div class="line"><span class="lineno">  184</span>        {</div>
-<div class="line"><span class="lineno">  185</span>            <a class="code hl_define" href="../../d8/d7c/a04601.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;Table `mail_server_template_conditions` has unknown conditionType &#39;{}&#39;, skipped.&quot;</span>, conditionTypeStr);</div>
-<div class="line"><span class="lineno">  186</span>            <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  187</span>        }</div>
-<div class="line"><span class="lineno">  188</span> </div>
-<div class="line"><span class="lineno">  189</span>        <span class="keywordflow">if</span> (conditionState &amp;&amp; !<a class="code hl_function" href="../../d0/d18/a09752.html#a2e7a8cdc7ebdb51204823fd30a0449b3">ConditionTypeUsesConditionState</a>(conditionType))</div>
-<div class="line"><span class="lineno">  190</span>            <a class="code hl_define" href="../../d8/d7c/a04601.html#adf09840a666e1d86bcd3439105db6edc">LOG_WARN</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;Table `mail_server_template_conditions` has conditionState value ({}) for conditionType ({}) which does not use conditionState.&quot;</span>, conditionState, conditionTypeStr);</div>
-<div class="line"><span class="lineno">  191</span> </div>
-<div class="line"><span class="lineno">  192</span>        <span class="keywordflow">switch</span> (conditionType)</div>
-<div class="line"><span class="lineno">  193</span>        {</div>
-<div class="line"><span class="lineno">  194</span>        <span class="keywordflow">case</span> ServerMailConditionType::Level:</div>
-<div class="line"><span class="lineno">  195</span>            <span class="keywordflow">if</span> (conditionValue &gt; <a class="code hl_define" href="../../dd/d6d/a04777.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getIntConfig(<a class="code hl_enumvalue" href="../../d2/d2f/a01460.html#a468ad15992691eb97dd20680046832e0a6684273cdd36b9b8215844fc51358ae1">CONFIG_MAX_PLAYER_LEVEL</a>))</div>
-<div class="line"><span class="lineno">  196</span>            {</div>
-<div class="line"><span class="lineno">  197</span>                <a class="code hl_define" href="../../d8/d7c/a04601.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;Table `mail_server_template_conditions` has conditionType &#39;Level&#39; with invalid conditionValue ({}), max level is ({}) for templateID {}, skipped.&quot;</span>, conditionValue, <a class="code hl_define" href="../../dd/d6d/a04777.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getIntConfig(<a class="code hl_enumvalue" href="../../d2/d2f/a01460.html#a468ad15992691eb97dd20680046832e0a6684273cdd36b9b8215844fc51358ae1">CONFIG_MAX_PLAYER_LEVEL</a>), templateID);</div>
-<div class="line"><span class="lineno">  198</span>                <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  199</span>            }</div>
-<div class="line"><span class="lineno">  200</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  201</span>        <span class="keywordflow">case</span> ServerMailConditionType::Quest:</div>
-<div class="line"><span class="lineno">  202</span>        {</div>
-<div class="line"><span class="lineno">  203</span>            <a class="code hl_class" href="../../d9/da3/a10184.html">Quest</a> <span class="keyword">const</span>* qInfo = <a class="code hl_define" href="../../da/d9c/a00413.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a>-&gt;GetQuestTemplate(conditionValue);</div>
-<div class="line"><span class="lineno">  204</span>            <span class="keywordflow">if</span> (!qInfo)</div>
-<div class="line"><span class="lineno">  205</span>            {</div>
-<div class="line"><span class="lineno">  206</span>                <a class="code hl_define" href="../../d8/d7c/a04601.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;Table `mail_server_template_conditions` has conditionType &#39;Quest&#39; with invalid quest in conditionValue ({}) for templateID {}, skipped.&quot;</span>, conditionValue, templateID);</div>
-<div class="line"><span class="lineno">  207</span>                <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  208</span>            }</div>
-<div class="line"><span class="lineno">  209</span>            <span class="keywordflow">if</span> (conditionState &lt; QUEST_STATUS_NONE || conditionState &gt;= <a class="code hl_enumvalue" href="../../d2/d5e/a00860.html#abfc87d39d69176ad25e800fb4aa6f0d8ac5861bd66a93cb8083339c969a26f6d4">MAX_QUEST_STATUS</a> ||</div>
-<div class="line"><span class="lineno">  210</span>                <span class="comment">/*2 and 4 not defined and should not be used*/</span> conditionState == 2 || conditionState == 4)</div>
-<div class="line"><span class="lineno">  211</span>            {</div>
-<div class="line"><span class="lineno">  212</span>                <a class="code hl_define" href="../../d8/d7c/a04601.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;Table `mail_server_template_conditions` has conditionType &#39;Quest&#39; with invalid conditionState ({}) for templateID {}, skipped.&quot;</span>, conditionState, templateID);</div>
-<div class="line"><span class="lineno">  213</span>                <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  214</span>            }</div>
-<div class="line"><span class="lineno">  215</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  216</span>        }</div>
-<div class="line"><span class="lineno">  217</span>        <span class="keywordflow">case</span> ServerMailConditionType::Achievement:</div>
-<div class="line"><span class="lineno">  218</span>        {</div>
-<div class="line"><span class="lineno">  219</span>            <a class="code hl_struct" href="../../d5/d1c/a27804.html">AchievementEntry</a> <span class="keyword">const</span>* achievement = <a class="code hl_variable" href="../../d2/da3/a00593.html#a91e667648c436939ee79c55a276fc0bf">sAchievementStore</a>.LookupEntry(conditionValue);</div>
-<div class="line"><span class="lineno">  220</span>            <span class="keywordflow">if</span> (!achievement)</div>
-<div class="line"><span class="lineno">  221</span>            {</div>
-<div class="line"><span class="lineno">  222</span>                <a class="code hl_define" href="../../d8/d7c/a04601.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;Table `mail_server_template_conditions` has conditionType &#39;Achievement&#39; with invalid achievement in conditionValue ({}) for templateID {}, skipped.&quot;</span>, conditionValue, templateID);</div>
-<div class="line"><span class="lineno">  223</span>                <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  224</span>            }</div>
-<div class="line"><span class="lineno">  225</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  226</span>        }</div>
-<div class="line"><span class="lineno">  227</span>        <span class="keywordflow">case</span> ServerMailConditionType::Reputation:</div>
-<div class="line"><span class="lineno">  228</span>        {</div>
-<div class="line"><span class="lineno">  229</span>            <a class="code hl_struct" href="../../d3/dcf/a28180.html">FactionEntry</a> <span class="keyword">const</span>* faction = <a class="code hl_variable" href="../../d2/da3/a00593.html#a0fff35395ba871f73cf11434790780d7">sFactionStore</a>.LookupEntry(conditionValue);</div>
-<div class="line"><span class="lineno">  230</span>            <span class="keywordflow">if</span> (!faction)</div>
-<div class="line"><span class="lineno">  231</span>            {</div>
-<div class="line"><span class="lineno">  232</span>                <a class="code hl_define" href="../../d8/d7c/a04601.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;Table `mail_server_template_conditions` has conditionType &#39;Reputation&#39; with invalid faction in conditionValue ({}) for templateID {}, skipped.&quot;</span>, conditionValue, templateID);</div>
-<div class="line"><span class="lineno">  233</span>                <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  234</span>            }</div>
-<div class="line"><span class="lineno">  235</span>            <span class="keywordflow">if</span> (conditionState &lt; REP_HATED || conditionState &gt; <a class="code hl_enumvalue" href="../../db/dd9/a00179.html#aa8feab79004a7795346184a5e6140f03a6ba68d52ec3f68805fedecca8551fb7f">REP_EXALTED</a>)</div>
-<div class="line"><span class="lineno">  236</span>            {</div>
-<div class="line"><span class="lineno">  237</span>                <a class="code hl_define" href="../../d8/d7c/a04601.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;Table `mail_server_template_conditions` has conditionType &#39;Reputation&#39; with invalid conditionState ({}) for templateID {}, skipped.&quot;</span>, conditionState, templateID);</div>
-<div class="line"><span class="lineno">  238</span>                <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  239</span>            }</div>
-<div class="line"><span class="lineno">  240</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  241</span>        }</div>
-<div class="line"><span class="lineno">  242</span>        <span class="keywordflow">case</span> ServerMailConditionType::Faction:</div>
-<div class="line"><span class="lineno">  243</span>            <span class="keywordflow">if</span> (conditionValue &lt; TEAM_ALLIANCE || conditionValue &gt; <a class="code hl_enumvalue" href="../../db/dd9/a00179.html#abfb349736a7699bdfcdb134035ef7865a80bb98f9049563b07d3b738a0783366a">TEAM_HORDE</a>)</div>
-<div class="line"><span class="lineno">  244</span>            {</div>
-<div class="line"><span class="lineno">  245</span>                <a class="code hl_define" href="../../d8/d7c/a04601.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;Table `mail_server_template_conditions` has conditionType &#39;Faction&#39; with invalid conditionValue ({}) for templateID {}, skipped.&quot;</span>, conditionValue, templateID);</div>
-<div class="line"><span class="lineno">  246</span>                <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  247</span>            }</div>
-<div class="line"><span class="lineno">  248</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  249</span>        <span class="keywordflow">case</span> ServerMailConditionType::Race:</div>
-<div class="line"><span class="lineno">  250</span>            <span class="keywordflow">if</span> (conditionValue &amp; ~<a class="code hl_define" href="../../db/dd9/a00179.html#ad935ca576b06ccd85380777030e2585f">RACEMASK_ALL_PLAYABLE</a>)</div>
-<div class="line"><span class="lineno">  251</span>            {</div>
-<div class="line"><span class="lineno">  252</span>                <a class="code hl_define" href="../../d8/d7c/a04601.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;Table `mail_server_template_conditions` has conditionType &#39;Race&#39; with invalid conditionValue ({}) for templateID {}, skipped.&quot;</span>, conditionValue, templateID);</div>
-<div class="line"><span class="lineno">  253</span>                <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  254</span>            }</div>
-<div class="line"><span class="lineno">  255</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  256</span>        <span class="keywordflow">case</span> ServerMailConditionType::Class:</div>
-<div class="line"><span class="lineno">  257</span>            <span class="keywordflow">if</span> (conditionValue &amp; ~<a class="code hl_define" href="../../db/dd9/a00179.html#abf66a284fdfaa1dd8b07dbd234ce2028">CLASSMASK_ALL_PLAYABLE</a>)</div>
-<div class="line"><span class="lineno">  258</span>            {</div>
-<div class="line"><span class="lineno">  259</span>                <a class="code hl_define" href="../../d8/d7c/a04601.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;Table `mail_server_template_conditions` has conditionType &#39;Class&#39; with invalid conditionValue ({}) for templateID {}, skipped.&quot;</span>, conditionValue, templateID);</div>
-<div class="line"><span class="lineno">  260</span>                <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  261</span>            }</div>
-<div class="line"><span class="lineno">  262</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  263</span>        <span class="keywordflow">case</span> ServerMailConditionType::AccountFlags:</div>
-<div class="line"><span class="lineno">  264</span>            <span class="keywordflow">if</span> ((conditionValue &amp; ~<a class="code hl_variable" href="../../da/d71/a04649.html#a08f895a627c39784453184ac397edb13">ACCOUNT_FLAGS_ALL</a>) != 0)</div>
-<div class="line"><span class="lineno">  265</span>            {</div>
-<div class="line"><span class="lineno">  266</span>                <a class="code hl_define" href="../../d8/d7c/a04601.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;Table `mail_server_template_conditions` has conditionType &#39;AccountFlags&#39; with invalid conditionValue ({}) for templateID {}, skipped.&quot;</span>, conditionValue, templateID);</div>
-<div class="line"><span class="lineno">  267</span>                <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  268</span>            }</div>
-<div class="line"><span class="lineno">  269</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  270</span>        <span class="keywordflow">default</span>:</div>
-<div class="line"><span class="lineno">  271</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  272</span>        }</div>
-<div class="line"><span class="lineno">  273</span> </div>
-<div class="line"><span class="lineno">  274</span>        <a class="code hl_struct" href="../../d2/d02/a09740.html">ServerMailCondition</a> condition;</div>
-<div class="line"><span class="lineno">  275</span>        condition.<a class="code hl_variable" href="../../d2/d02/a09740.html#a3b318e7743ca48fcf8ba849398a06968">type</a> = conditionType;</div>
-<div class="line"><span class="lineno">  276</span>        condition.<a class="code hl_variable" href="../../d2/d02/a09740.html#af709199aed99633cc70d9118ee4fd4fc">value</a> = conditionValue;</div>
-<div class="line"><span class="lineno">  277</span>        condition.<a class="code hl_variable" href="../../d2/d02/a09740.html#a309f739872afaf644331335b27649561">state</a> = conditionState;</div>
-<div class="line"><span class="lineno">  278</span>        <a class="code hl_variable" href="../../d0/d18/a09752.html#a96ae3a78694ca97d112c5d92884f2415">_serverMailStore</a>[templateID].conditions.push_back(condition);</div>
-<div class="line"><span class="lineno">  279</span> </div>
-<div class="line"><span class="lineno">  280</span>    } <span class="keywordflow">while</span> (result-&gt;NextRow());</div>
-<div class="line"><span class="lineno">  281</span>}</div>
-<div class="ttc" id="aa00179_html_aa8feab79004a7795346184a5e6140f03a6ba68d52ec3f68805fedecca8551fb7f"><div class="ttname"><a href="../../db/dd9/a00179.html#aa8feab79004a7795346184a5e6140f03a6ba68d52ec3f68805fedecca8551fb7f">REP_EXALTED</a></div><div class="ttdeci">@ REP_EXALTED</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:187</div></div>
-<div class="ttc" id="aa00179_html_abf66a284fdfaa1dd8b07dbd234ce2028"><div class="ttname"><a href="../../db/dd9/a00179.html#abf66a284fdfaa1dd8b07dbd234ce2028">CLASSMASK_ALL_PLAYABLE</a></div><div class="ttdeci">#define CLASSMASK_ALL_PLAYABLE</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:157</div></div>
-<div class="ttc" id="aa00179_html_abfb349736a7699bdfcdb134035ef7865a80bb98f9049563b07d3b738a0783366a"><div class="ttname"><a href="../../db/dd9/a00179.html#abfb349736a7699bdfcdb134035ef7865a80bb98f9049563b07d3b738a0783366a">TEAM_HORDE</a></div><div class="ttdeci">@ TEAM_HORDE</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:761</div></div>
-<div class="ttc" id="aa00179_html_ad935ca576b06ccd85380777030e2585f"><div class="ttname"><a href="../../db/dd9/a00179.html#ad935ca576b06ccd85380777030e2585f">RACEMASK_ALL_PLAYABLE</a></div><div class="ttdeci">#define RACEMASK_ALL_PLAYABLE</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:97</div></div>
-<div class="ttc" id="aa00413_html_a736e30da2b5261060ac6cdbb5de3b787"><div class="ttname"><a href="../../da/d9c/a00413.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a></div><div class="ttdeci">#define sObjectMgr</div><div class="ttdef"><b>Definition:</b> ObjectMgr.h:1650</div></div>
-<div class="ttc" id="aa00593_html_a0fff35395ba871f73cf11434790780d7"><div class="ttname"><a href="../../d2/da3/a00593.html#a0fff35395ba871f73cf11434790780d7">sFactionStore</a></div><div class="ttdeci">DBCStorage&lt; FactionEntry &gt; sFactionStore(FactionEntryfmt)</div></div>
-<div class="ttc" id="aa00593_html_a91e667648c436939ee79c55a276fc0bf"><div class="ttname"><a href="../../d2/da3/a00593.html#a91e667648c436939ee79c55a276fc0bf">sAchievementStore</a></div><div class="ttdeci">DBCStorage&lt; AchievementEntry &gt; sAchievementStore(Achievementfmt)</div></div>
-<div class="ttc" id="aa00860_html_abfc87d39d69176ad25e800fb4aa6f0d8ac5861bd66a93cb8083339c969a26f6d4"><div class="ttname"><a href="../../d2/d5e/a00860.html#abfc87d39d69176ad25e800fb4aa6f0d8ac5861bd66a93cb8083339c969a26f6d4">MAX_QUEST_STATUS</a></div><div class="ttdeci">@ MAX_QUEST_STATUS</div><div class="ttdef"><b>Definition:</b> QuestDef.h:107</div></div>
-<div class="ttc" id="aa01460_html_a468ad15992691eb97dd20680046832e0a6684273cdd36b9b8215844fc51358ae1"><div class="ttname"><a href="../../d2/d2f/a01460.html#a468ad15992691eb97dd20680046832e0a6684273cdd36b9b8215844fc51358ae1">CONFIG_MAX_PLAYER_LEVEL</a></div><div class="ttdeci">@ CONFIG_MAX_PLAYER_LEVEL</div><div class="ttdef"><b>Definition:</b> WorldConfig.h:186</div></div>
-<div class="ttc" id="aa02024_html_ab25c41bc314095f74fe678a33e086a2b"><div class="ttname"><a href="../../d7/dbe/a02024.html#ab25c41bc314095f74fe678a33e086a2b">ServerMailConditionType</a></div><div class="ttdeci">ServerMailConditionType</div><div class="ttdoc">Represents the type of conditions that can be applied to server mail.</div><div class="ttdef"><b>Definition:</b> ServerMailMgr.h:46</div></div>
-<div class="ttc" id="aa04601_html_adf09840a666e1d86bcd3439105db6edc"><div class="ttname"><a href="../../d8/d7c/a04601.html#adf09840a666e1d86bcd3439105db6edc">LOG_WARN</a></div><div class="ttdeci">#define LOG_WARN(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:162</div></div>
-<div class="ttc" id="aa04649_html_a08f895a627c39784453184ac397edb13"><div class="ttname"><a href="../../da/d71/a04649.html#a08f895a627c39784453184ac397edb13">ACCOUNT_FLAGS_ALL</a></div><div class="ttdeci">constexpr uint32 ACCOUNT_FLAGS_ALL</div><div class="ttdef"><b>Definition:</b> Common.h:103</div></div>
-<div class="ttc" id="aa04777_html_ga05dfb35c344e5b947a19e4284e7f5fa7"><div class="ttname"><a href="../../dd/d6d/a04777.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a></div><div class="ttdeci">#define sWorld</div><div class="ttdef"><b>Definition:</b> World.h:320</div></div>
-<div class="ttc" id="aa09740_html"><div class="ttname"><a href="../../d2/d02/a09740.html">ServerMailCondition</a></div><div class="ttdoc">Represents a condition that must be met for a player to receive a server mail.</div><div class="ttdef"><b>Definition:</b> ServerMailMgr.h:88</div></div>
-<div class="ttc" id="aa09740_html_a309f739872afaf644331335b27649561"><div class="ttname"><a href="../../d2/d02/a09740.html#a309f739872afaf644331335b27649561">ServerMailCondition::state</a></div><div class="ttdeci">uint32 state</div><div class="ttdef"><b>Definition:</b> ServerMailMgr.h:93</div></div>
-<div class="ttc" id="aa09740_html_a3b318e7743ca48fcf8ba849398a06968"><div class="ttname"><a href="../../d2/d02/a09740.html#a3b318e7743ca48fcf8ba849398a06968">ServerMailCondition::type</a></div><div class="ttdeci">ServerMailConditionType type</div><div class="ttdef"><b>Definition:</b> ServerMailMgr.h:91</div></div>
-<div class="ttc" id="aa09740_html_af709199aed99633cc70d9118ee4fd4fc"><div class="ttname"><a href="../../d2/d02/a09740.html#af709199aed99633cc70d9118ee4fd4fc">ServerMailCondition::value</a></div><div class="ttdeci">uint32 value</div><div class="ttdef"><b>Definition:</b> ServerMailMgr.h:92</div></div>
-<div class="ttc" id="aa09752_html_a2e7a8cdc7ebdb51204823fd30a0449b3"><div class="ttname"><a href="../../d0/d18/a09752.html#a2e7a8cdc7ebdb51204823fd30a0449b3">ServerMailMgr::ConditionTypeUsesConditionState</a></div><div class="ttdeci">bool ConditionTypeUsesConditionState(ServerMailConditionType type) const</div><div class="ttdoc">Check if ConditionType should use ConditionState.</div><div class="ttdef"><b>Definition:</b> ServerMailMgr.cpp:324</div></div>
-<div class="ttc" id="aa09752_html_a57f8aea4b5bb15ff77b9ebd8e65e8092"><div class="ttname"><a href="../../d0/d18/a09752.html#a57f8aea4b5bb15ff77b9ebd8e65e8092">ServerMailMgr::GetServerMailConditionType</a></div><div class="ttdeci">ServerMailConditionType GetServerMailConditionType(std::string_view conditionTypeStr) const</div><div class="ttdoc">Convert DB value of conditionType to ServerMailConditionType.</div><div class="ttdef"><b>Definition:</b> ServerMailMgr.cpp:315</div></div>
-<div class="ttc" id="aa10184_html"><div class="ttname"><a href="../../d9/da3/a10184.html">Quest</a></div><div class="ttdef"><b>Definition:</b> QuestDef.h:210</div></div>
-<div class="ttc" id="aa27804_html"><div class="ttname"><a href="../../d5/d1c/a27804.html">AchievementEntry</a></div><div class="ttdef"><b>Definition:</b> DBCStructure.h:40</div></div>
-<div class="ttc" id="aa28180_html"><div class="ttname"><a href="../../d3/dcf/a28180.html">FactionEntry</a></div><div class="ttdef"><b>Definition:</b> DBCStructure.h:907</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00228">_serverMailStore</a>, <a class="el" href="../../#l00103">ACCOUNT_FLAGS_ALL</a>, <a class="el" href="../../#l00021">CharacterDatabase</a>, <a class="el" href="../../#l00157">CLASSMASK_ALL_PLAYABLE</a>, <a class="el" href="../../#l00324">ConditionTypeUsesConditionState()</a>, <a class="el" href="../../#l00186">CONFIG_MAX_PLAYER_LEVEL</a>, <a class="el" href="../../#l00112">Field::Get()</a>, <a class="el" href="../../#l00315">GetServerMailConditionType()</a>, <a class="el" href="../../#l00158">LOG_ERROR</a>, <a class="el" href="../../#l00162">LOG_WARN</a>, <a class="el" href="../../#l00107">MAX_QUEST_STATUS</a>, <a class="el" href="../../#l00097">RACEMASK_ALL_PLAYABLE</a>, <a class="el" href="../../#l00187">REP_EXALTED</a>, <a class="el" href="../../d2/da3/a00593.html#a91e667648c436939ee79c55a276fc0bf">sAchievementStore</a>, <a class="el" href="../../d2/da3/a00593.html#a0fff35395ba871f73cf11434790780d7">sFactionStore</a>, <a class="el" href="../../#l01650">sObjectMgr</a>, <a class="el" href="../../#l00093">ServerMailCondition::state</a>, <a class="el" href="../../#l00320">sWorld</a>, <a class="el" href="../../#l00761">TEAM_HORDE</a>, <a class="el" href="../../#l00091">ServerMailCondition::type</a>, and <a class="el" href="../../#l00092">ServerMailCondition::value</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00037">LoadMailServerTemplates()</a>.</p>
-
-</div>
-</div>
-<a id="a49aea924f27804d21fbe06e72e159df3" name="a49aea924f27804d21fbe06e72e159df3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a49aea924f27804d21fbe06e72e159df3">&#9670;&#160;</a></span>LoadMailServerTemplatesItems()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void ServerMailMgr::LoadMailServerTemplatesItems </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p>Loads all items associated with server mail templates. </p>
-<p >Queries the <code>mail_server_template_items</code> table and loads all items into memory, linking them to their corresponding templates by template ID. This method is intended to be called during server startup. </p>
-<div class="fragment"><div class="line"><span class="lineno">   87</span>{</div>
-<div class="line"><span class="lineno">   88</span>    <span class="comment">//                                                    0             1          2       3</span></div>
-<div class="line"><span class="lineno">   89</span>    <a class="code hl_typedef" href="../../d2/d29/a04181.html#ab0c9feeec448a181290fcb39565b8253">QueryResult</a> result = <a class="code hl_variable" href="../../d1/d7f/a04229.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.Query(<span class="stringliteral">&quot;SELECT `templateID`, `faction`, `item`, `itemCount` FROM `mail_server_template_items`&quot;</span>);</div>
-<div class="line"><span class="lineno">   90</span>    <span class="keywordflow">if</span> (!result)</div>
-<div class="line"><span class="lineno">   91</span>    {</div>
-<div class="line"><span class="lineno">   92</span>        <a class="code hl_define" href="../../d8/d7c/a04601.html#adf09840a666e1d86bcd3439105db6edc">LOG_WARN</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt;&gt; Loaded 0 server mail items. DB table `mail_server_template_items` is empty.&quot;</span>);</div>
-<div class="line"><span class="lineno">   93</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">   94</span>    }</div>
-<div class="line"><span class="lineno">   95</span> </div>
-<div class="line"><span class="lineno">   96</span>    <span class="keywordflow">do</span></div>
-<div class="line"><span class="lineno">   97</span>    {</div>
-<div class="line"><span class="lineno">   98</span>        <a class="code hl_class" href="../../da/de9/a05716.html">Field</a>* fields = result-&gt;Fetch();</div>
-<div class="line"><span class="lineno">   99</span> </div>
-<div class="line"><span class="lineno">  100</span>        <a class="code hl_typedef" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> templateID        = fields[0].<a class="code hl_function" href="../../da/de9/a05716.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
-<div class="line"><span class="lineno">  101</span>        std::string_view faction = fields[1].<a class="code hl_function" href="../../da/de9/a05716.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;std::string_view&gt;();</div>
-<div class="line"><span class="lineno">  102</span>        <a class="code hl_typedef" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> item              = fields[2].<a class="code hl_function" href="../../da/de9/a05716.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
-<div class="line"><span class="lineno">  103</span>        <a class="code hl_typedef" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> itemCount         = fields[3].<a class="code hl_function" href="../../da/de9/a05716.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
-<div class="line"><span class="lineno">  104</span> </div>
-<div class="line"><span class="lineno">  105</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d0/d18/a09752.html#a96ae3a78694ca97d112c5d92884f2415">_serverMailStore</a>.find(templateID) == <a class="code hl_variable" href="../../d0/d18/a09752.html#a96ae3a78694ca97d112c5d92884f2415">_serverMailStore</a>.end())</div>
-<div class="line"><span class="lineno">  106</span>        {</div>
-<div class="line"><span class="lineno">  107</span>            <a class="code hl_define" href="../../d8/d7c/a04601.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;Table `mail_server_template_items` has an invalid templateID {}, skipped.&quot;</span>, templateID);</div>
-<div class="line"><span class="lineno">  108</span>            <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  109</span>        }</div>
-<div class="line"><span class="lineno">  110</span> </div>
-<div class="line"><span class="lineno">  111</span>        <a class="code hl_struct" href="../../d9/d12/a08344.html">ItemTemplate</a> <span class="keyword">const</span>* itemTemplate = <a class="code hl_define" href="../../da/d9c/a00413.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a>-&gt;GetItemTemplate(item);</div>
-<div class="line"><span class="lineno">  112</span>        <span class="keywordflow">if</span> (!itemTemplate)</div>
-<div class="line"><span class="lineno">  113</span>        {</div>
-<div class="line"><span class="lineno">  114</span>            <a class="code hl_define" href="../../d8/d7c/a04601.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;Table `mail_server_template_items` has an invalid item {} for templateID {}, skipped.&quot;</span>, item, templateID);</div>
-<div class="line"><span class="lineno">  115</span>            <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  116</span>        }</div>
-<div class="line"><span class="lineno">  117</span> </div>
-<div class="line"><span class="lineno">  118</span>        <span class="keywordflow">if</span> (!itemCount)</div>
-<div class="line"><span class="lineno">  119</span>        {</div>
-<div class="line"><span class="lineno">  120</span>            <a class="code hl_define" href="../../d8/d7c/a04601.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;Table `mail_server_template_items` has itemCount 0 for item {}, skipped.&quot;</span>, item);</div>
-<div class="line"><span class="lineno">  121</span>            <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  122</span>        }</div>
-<div class="line"><span class="lineno">  123</span> </div>
-<div class="line"><span class="lineno">  124</span>        <a class="code hl_typedef" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> stackable = itemTemplate-&gt;<a class="code hl_variable" href="../../d9/d12/a08344.html#ae922a1f49766b14e9ac69bad9660a475">Stackable</a>;</div>
-<div class="line"><span class="lineno">  125</span>        <span class="keywordflow">if</span> (itemCount &gt; stackable)</div>
-<div class="line"><span class="lineno">  126</span>        {</div>
-<div class="line"><span class="lineno">  127</span>            <a class="code hl_define" href="../../d8/d7c/a04601.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;Table `mail_server_template_items` has itemCount {} exceeding item_template.Stackable {} for item {}, skipped.&quot;</span>, itemCount, stackable, item);</div>
-<div class="line"><span class="lineno">  128</span>            <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  129</span>        }</div>
-<div class="line"><span class="lineno">  130</span> </div>
-<div class="line"><span class="lineno">  131</span>        <a class="code hl_typedef" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> maxCount = itemTemplate-&gt;<a class="code hl_variable" href="../../d9/d12/a08344.html#a2c13c4c1edbd3add9c6e0e2263f6c717">MaxCount</a>;</div>
-<div class="line"><span class="lineno">  132</span>        <span class="keywordflow">if</span> (maxCount &amp;&amp; itemCount &gt; maxCount)</div>
-<div class="line"><span class="lineno">  133</span>        {</div>
-<div class="line"><span class="lineno">  134</span>            <a class="code hl_define" href="../../d8/d7c/a04601.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;Table `mail_server_template_items` has itemCount {} exceeding item_template.MaxCount {} for item {}, skipped&quot;</span>, itemCount, maxCount, item);</div>
-<div class="line"><span class="lineno">  135</span>            <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  136</span>        }</div>
-<div class="line"><span class="lineno">  137</span> </div>
-<div class="line"><span class="lineno">  138</span>        <a class="code hl_struct" href="../../d1/dd8/a09744.html">ServerMailItems</a> mailItem;</div>
-<div class="line"><span class="lineno">  139</span>        mailItem.<a class="code hl_variable" href="../../d1/dd8/a09744.html#ae03738595a87a47e831bcbeea6f97d34">item</a>      = item;</div>
-<div class="line"><span class="lineno">  140</span>        mailItem.<a class="code hl_variable" href="../../d1/dd8/a09744.html#a4475d65dd5721d4af323ae93d15f4170">itemCount</a> = itemCount;</div>
-<div class="line"><span class="lineno">  141</span> </div>
-<div class="line"><span class="lineno">  142</span>        <span class="keywordflow">if</span> (faction == <span class="stringliteral">&quot;Alliance&quot;</span>)</div>
-<div class="line"><span class="lineno">  143</span>            <a class="code hl_variable" href="../../d0/d18/a09752.html#a96ae3a78694ca97d112c5d92884f2415">_serverMailStore</a>[templateID].itemsA.push_back(mailItem);</div>
-<div class="line"><span class="lineno">  144</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (faction == <span class="stringliteral">&quot;Horde&quot;</span>)</div>
-<div class="line"><span class="lineno">  145</span>            <a class="code hl_variable" href="../../d0/d18/a09752.html#a96ae3a78694ca97d112c5d92884f2415">_serverMailStore</a>[templateID].itemsH.push_back(mailItem);</div>
-<div class="line"><span class="lineno">  146</span>        <span class="keywordflow">else</span> [[unlikely]]</div>
-<div class="line"><span class="lineno">  147</span>        {</div>
-<div class="line"><span class="lineno">  148</span>            <a class="code hl_define" href="../../d8/d7c/a04601.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;Table `mail_server_template_items` has invalid faction value &#39;{}&#39; for templateID {}, skipped.&quot;</span>, faction, templateID);</div>
-<div class="line"><span class="lineno">  149</span>            <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  150</span>        }</div>
-<div class="line"><span class="lineno">  151</span> </div>
-<div class="line"><span class="lineno">  152</span>    } <span class="keywordflow">while</span> (result-&gt;NextRow());</div>
-<div class="line"><span class="lineno">  153</span>}</div>
-<div class="ttc" id="aa08344_html"><div class="ttname"><a href="../../d9/d12/a08344.html">ItemTemplate</a></div><div class="ttdef"><b>Definition:</b> ItemTemplate.h:619</div></div>
-<div class="ttc" id="aa08344_html_a2c13c4c1edbd3add9c6e0e2263f6c717"><div class="ttname"><a href="../../d9/d12/a08344.html#a2c13c4c1edbd3add9c6e0e2263f6c717">ItemTemplate::MaxCount</a></div><div class="ttdeci">int32 MaxCount</div><div class="ttdef"><b>Definition:</b> ItemTemplate.h:644</div></div>
-<div class="ttc" id="aa08344_html_ae922a1f49766b14e9ac69bad9660a475"><div class="ttname"><a href="../../d9/d12/a08344.html#ae922a1f49766b14e9ac69bad9660a475">ItemTemplate::Stackable</a></div><div class="ttdeci">int32 Stackable</div><div class="ttdef"><b>Definition:</b> ItemTemplate.h:645</div></div>
-<div class="ttc" id="aa09744_html"><div class="ttname"><a href="../../d1/dd8/a09744.html">ServerMailItems</a></div><div class="ttdoc">Represents an item reward associated with a server mail template.</div><div class="ttdef"><b>Definition:</b> ServerMailMgr.h:114</div></div>
-<div class="ttc" id="aa09744_html_a4475d65dd5721d4af323ae93d15f4170"><div class="ttname"><a href="../../d1/dd8/a09744.html#a4475d65dd5721d4af323ae93d15f4170">ServerMailItems::itemCount</a></div><div class="ttdeci">uint32 itemCount</div><div class="ttdef"><b>Definition:</b> ServerMailMgr.h:117</div></div>
-<div class="ttc" id="aa09744_html_ae03738595a87a47e831bcbeea6f97d34"><div class="ttname"><a href="../../d1/dd8/a09744.html#ae03738595a87a47e831bcbeea6f97d34">ServerMailItems::item</a></div><div class="ttdeci">uint32 item</div><div class="ttdef"><b>Definition:</b> ServerMailMgr.h:116</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00228">_serverMailStore</a>, <a class="el" href="../../#l00021">CharacterDatabase</a>, <a class="el" href="../../#l00112">Field::Get()</a>, <a class="el" href="../../#l00116">ServerMailItems::item</a>, <a class="el" href="../../#l00117">ServerMailItems::itemCount</a>, <a class="el" href="../../#l00158">LOG_ERROR</a>, <a class="el" href="../../#l00162">LOG_WARN</a>, <a class="el" href="../../#l00644">ItemTemplate::MaxCount</a>, <a class="el" href="../../#l01650">sObjectMgr</a>, and <a class="el" href="../../#l00645">ItemTemplate::Stackable</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00037">LoadMailServerTemplates()</a>.</p>
-
-</div>
-</div>
-<a id="af615430a40e9ddfff49bc338b31d6c1b" name="af615430a40e9ddfff49bc338b31d6c1b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af615430a40e9ddfff49bc338b31d6c1b">&#9670;&#160;</a></span>SendServerMail()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void ServerMailMgr::SendServerMail </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d8/d93/a08612.html">Player</a> *&#160;</td>
-          <td class="paramname"><em>player</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>id</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>money</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">std::vector&lt; <a class="el" href="../../d1/dd8/a09744.html">ServerMailItems</a> &gt; const &amp;&#160;</td>
-          <td class="paramname"><em>items</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">std::vector&lt; <a class="el" href="../../d2/d02/a09740.html">ServerMailCondition</a> &gt; const &amp;&#160;</td>
-          <td class="paramname"><em>conditions</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">std::string const &amp;&#160;</td>
-          <td class="paramname"><em>subject</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">std::string const &amp;&#160;</td>
-          <td class="paramname"><em>body</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td> const</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p>Sends a server mail to a player if the template is active and the player is eligible. </p>
-<p >This method handles the creation of the mail, adding money and items, and saving the mail to the database. It also records that the player received the mail to prevent duplicate delivery.</p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramname">player</td><td>The recipient player. </td></tr>
-    <tr><td class="paramname">id</td><td>The template ID. </td></tr>
-    <tr><td class="paramname">money</td><td>Money reward. </td></tr>
-    <tr><td class="paramname">items</td><td>List of items to include in the mail. </td></tr>
-    <tr><td class="paramname">conditions</td><td>List of the conditions for the mail. </td></tr>
-    <tr><td class="paramname">subject</td><td><a class="el" href="../../d7/d5a/a09736.html">Mail</a> subject. </td></tr>
-    <tr><td class="paramname">body</td><td><a class="el" href="../../d7/d5a/a09736.html">Mail</a> body. </td></tr>
-    <tr><td class="paramname">active</td><td>Whether the mail template is active. </td></tr>
-  </table>
-  </dd>
-</dl>
-<div class="fragment"><div class="line"><span class="lineno">  287</span>{</div>
-<div class="line"><span class="lineno">  288</span>    <span class="keywordflow">for</span> (<a class="code hl_struct" href="../../d2/d02/a09740.html">ServerMailCondition</a> <span class="keyword">const</span>&amp; condition : conditions)</div>
-<div class="line"><span class="lineno">  289</span>        <span class="keywordflow">if</span> (!condition.CheckCondition(player))</div>
-<div class="line"><span class="lineno">  290</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  291</span> </div>
-<div class="line"><span class="lineno">  292</span>    <a class="code hl_typedef" href="../../d2/d29/a04181.html#a96bac9a371212c6bab7a9448214666c0">CharacterDatabaseTransaction</a> trans = <a class="code hl_variable" href="../../d1/d7f/a04229.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.BeginTransaction();</div>
-<div class="line"><span class="lineno">  293</span> </div>
-<div class="line"><span class="lineno">  294</span>    <a class="code hl_class" href="../../d5/d19/a09720.html">MailSender</a> sender(<a class="code hl_enumvalue" href="../../de/d0a/a02015.html#afb83216fd8c410f5d4bdfef0f9b302edaad2526a166df2caa50762ff348a2f54a">MAIL_NORMAL</a>, player-&gt;<a class="code hl_function" href="../../d1/d53/a08360.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>().<a class="code hl_function" href="../../d9/d48/a08412.html#a0df27b85c91a2c619e8f1d9c2cb31677">GetCounter</a>(), <a class="code hl_enumvalue" href="../../de/d0a/a02015.html#a97c589393fcefa82854f195693493094a39230800d1e1c4dbd3c46fbaaba39541">MAIL_STATIONERY_GM</a>);</div>
-<div class="line"><span class="lineno">  295</span>    <a class="code hl_class" href="../../db/dca/a09728.html">MailDraft</a> draft(subject, body);</div>
-<div class="line"><span class="lineno">  296</span> </div>
-<div class="line"><span class="lineno">  297</span>    draft.AddMoney(money);</div>
-<div class="line"><span class="lineno">  298</span>    <span class="comment">// Loop through all items and attach them to the mail</span></div>
-<div class="line"><span class="lineno">  299</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; mailItem : items)</div>
-<div class="line"><span class="lineno">  300</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d9/d1e/a08320.html">Item</a>* newItem = <a class="code hl_function" href="../../d9/d1e/a08320.html#a1eba1689f9ddd48d21394c4206aff398">Item::CreateItem</a>(mailItem.item, mailItem.itemCount))</div>
-<div class="line"><span class="lineno">  301</span>        {</div>
-<div class="line"><span class="lineno">  302</span>            newItem-&gt;SaveToDB(trans);</div>
-<div class="line"><span class="lineno">  303</span>            draft.AddItem(newItem);</div>
-<div class="line"><span class="lineno">  304</span>        }</div>
-<div class="line"><span class="lineno">  305</span> </div>
-<div class="line"><span class="lineno">  306</span>    draft.SendMailTo(trans, <a class="code hl_class" href="../../d6/d5c/a09724.html">MailReceiver</a>(player), sender);</div>
-<div class="line"><span class="lineno">  307</span>    <a class="code hl_variable" href="../../d1/d7f/a04229.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.CommitTransaction(trans);</div>
-<div class="line"><span class="lineno">  308</span> </div>
-<div class="line"><span class="lineno">  309</span>    <a class="code hl_class" href="../../d9/d54/a05684.html">CharacterDatabasePreparedStatement</a>* stmt = <a class="code hl_variable" href="../../d1/d7f/a04229.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.GetPreparedStatement(<a class="code hl_enumvalue" href="../../d1/d56/a04163.html#a76116b4fa282d8e35bf8f8e940b5cba7acb7d7abda6cbd134fbbad04263266d47">CHAR_REP_MAIL_SERVER_CHARACTER</a>);</div>
-<div class="line"><span class="lineno">  310</span>    stmt-&gt;<a class="code hl_function" href="../../d3/da1/a05816.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(0, player-&gt;<a class="code hl_function" href="../../d1/d53/a08360.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>().<a class="code hl_function" href="../../d9/d48/a08412.html#a0df27b85c91a2c619e8f1d9c2cb31677">GetCounter</a>());</div>
-<div class="line"><span class="lineno">  311</span>    stmt-&gt;<a class="code hl_function" href="../../d3/da1/a05816.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(1, <span class="keywordtype">id</span>);</div>
-<div class="line"><span class="lineno">  312</span>    <a class="code hl_variable" href="../../d1/d7f/a04229.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.Execute(stmt);</div>
-<div class="line"><span class="lineno">  313</span>}</div>
-<div class="ttc" id="aa02015_html_a97c589393fcefa82854f195693493094a39230800d1e1c4dbd3c46fbaaba39541"><div class="ttname"><a href="../../de/d0a/a02015.html#a97c589393fcefa82854f195693493094a39230800d1e1c4dbd3c46fbaaba39541">MAIL_STATIONERY_GM</a></div><div class="ttdeci">@ MAIL_STATIONERY_GM</div><div class="ttdef"><b>Definition:</b> Mail.h:59</div></div>
-<div class="ttc" id="aa02015_html_afb83216fd8c410f5d4bdfef0f9b302edaad2526a166df2caa50762ff348a2f54a"><div class="ttname"><a href="../../de/d0a/a02015.html#afb83216fd8c410f5d4bdfef0f9b302edaad2526a166df2caa50762ff348a2f54a">MAIL_NORMAL</a></div><div class="ttdeci">@ MAIL_NORMAL</div><div class="ttdef"><b>Definition:</b> Mail.h:37</div></div>
-<div class="ttc" id="aa04163_html_a76116b4fa282d8e35bf8f8e940b5cba7acb7d7abda6cbd134fbbad04263266d47"><div class="ttname"><a href="../../d1/d56/a04163.html#a76116b4fa282d8e35bf8f8e940b5cba7acb7d7abda6cbd134fbbad04263266d47">CHAR_REP_MAIL_SERVER_CHARACTER</a></div><div class="ttdeci">@ CHAR_REP_MAIL_SERVER_CHARACTER</div><div class="ttdef"><b>Definition:</b> CharacterDatabase.h:85</div></div>
-<div class="ttc" id="aa04181_html_a96bac9a371212c6bab7a9448214666c0"><div class="ttname"><a href="../../d2/d29/a04181.html#a96bac9a371212c6bab7a9448214666c0">CharacterDatabaseTransaction</a></div><div class="ttdeci">SQLTransaction&lt; CharacterDatabaseConnection &gt; CharacterDatabaseTransaction</div><div class="ttdef"><b>Definition:</b> DatabaseEnvFwd.h:69</div></div>
-<div class="ttc" id="aa05684_html"><div class="ttname"><a href="../../d9/d54/a05684.html">PreparedStatement</a></div><div class="ttdef"><b>Definition:</b> PreparedStatement.h:157</div></div>
-<div class="ttc" id="aa05816_html_a52fc2e65042c1db51f0923725a0f0ed0"><div class="ttname"><a href="../../d3/da1/a05816.html#a52fc2e65042c1db51f0923725a0f0ed0">PreparedStatementBase::SetData</a></div><div class="ttdeci">Acore::Types::is_default&lt; T &gt; SetData(const uint8 index, T value)</div><div class="ttdef"><b>Definition:</b> PreparedStatement.h:77</div></div>
-<div class="ttc" id="aa08320_html"><div class="ttname"><a href="../../d9/d1e/a08320.html">Item</a></div><div class="ttdef"><b>Definition:</b> Item.h:220</div></div>
-<div class="ttc" id="aa08320_html_a1eba1689f9ddd48d21394c4206aff398"><div class="ttname"><a href="../../d9/d1e/a08320.html#a1eba1689f9ddd48d21394c4206aff398">Item::CreateItem</a></div><div class="ttdeci">static Item * CreateItem(uint32 item, uint32 count, Player const *player=nullptr, bool clone=false, uint32 randomPropertyId=0)</div><div class="ttdef"><b>Definition:</b> Item.cpp:1087</div></div>
-<div class="ttc" id="aa08360_html_ad23b997e2442fa6a6228ba73a7ecc138"><div class="ttname"><a href="../../d1/d53/a08360.html#ad23b997e2442fa6a6228ba73a7ecc138">Object::GetGUID</a></div><div class="ttdeci">static ObjectGuid GetGUID(Object const *o)</div><div class="ttdef"><b>Definition:</b> Object.h:113</div></div>
-<div class="ttc" id="aa08412_html_a0df27b85c91a2c619e8f1d9c2cb31677"><div class="ttname"><a href="../../d9/d48/a08412.html#a0df27b85c91a2c619e8f1d9c2cb31677">ObjectGuid::GetCounter</a></div><div class="ttdeci">LowType GetCounter() const</div><div class="ttdef"><b>Definition:</b> ObjectGuid.h:145</div></div>
-<div class="ttc" id="aa09720_html"><div class="ttname"><a href="../../d5/d19/a09720.html">MailSender</a></div><div class="ttdef"><b>Definition:</b> Mail.h:83</div></div>
-<div class="ttc" id="aa09724_html"><div class="ttname"><a href="../../d6/d5c/a09724.html">MailReceiver</a></div><div class="ttdef"><b>Definition:</b> Mail.h:105</div></div>
-<div class="ttc" id="aa09728_html"><div class="ttname"><a href="../../db/dca/a09728.html">MailDraft</a></div><div class="ttdef"><b>Definition:</b> Mail.h:119</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00093">MailDraft::AddItem()</a>, <a class="el" href="../../#l00137">MailDraft::AddMoney()</a>, <a class="el" href="../../#l00085">CHAR_REP_MAIL_SERVER_CHARACTER</a>, <a class="el" href="../../#l00021">CharacterDatabase</a>, <a class="el" href="../../#l01087">Item::CreateItem()</a>, <a class="el" href="../../#l00145">ObjectGuid::GetCounter()</a>, <a class="el" href="../../#l00113">Object::GetGUID()</a>, <a class="el" href="../../#l00037">MAIL_NORMAL</a>, <a class="el" href="../../#l00059">MAIL_STATIONERY_GM</a>, <a class="el" href="../../#l00185">MailDraft::SendMailTo()</a>, and <a class="el" href="../../#l00077">PreparedStatementBase::SetData()</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a96ae3a78694ca97d112c5d92884f2415" name="a96ae3a78694ca97d112c5d92884f2415"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a96ae3a78694ca97d112c5d92884f2415">&#9670;&#160;</a></span>_serverMailStore</h2>
+<a id="ae03738595a87a47e831bcbeea6f97d34" name="ae03738595a87a47e831bcbeea6f97d34"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae03738595a87a47e831bcbeea6f97d34">&#9670;&#160;</a></span>item</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d7/dbe/a02024.html#a9c10c94a0a8508b3af2e92d3455d063b">ServerMailContainer</a> ServerMailMgr::_serverMailStore</td>
+          <td class="memname"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ServerMailItems::item { 0 }</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00225">GetAllServerMailStore()</a>, <a class="el" href="../../#l00037">LoadMailServerTemplates()</a>, <a class="el" href="../../#l00155">LoadMailServerTemplatesConditions()</a>, and <a class="el" href="../../#l00086">LoadMailServerTemplatesItems()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00086">ServerMailMgr::LoadMailServerTemplatesItems()</a>.</p>
+
+</div>
+</div>
+<a id="a4475d65dd5721d4af323ae93d15f4170" name="a4475d65dd5721d4af323ae93d15f4170"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4475d65dd5721d4af323ae93d15f4170">&#9670;&#160;</a></span>itemCount</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ServerMailItems::itemCount { 0 }</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00086">ServerMailMgr::LoadMailServerTemplatesItems()</a>.</p>
 
 </div>
 </div>
@@ -849,8 +196,8 @@ Private Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d0/d18/a09752.html">ServerMailMgr</a></li>
-    <li class="footer">Generated on Mon Aug 18 2025 20:48:54 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d0/d18/a09752.html">ServerMailItems</a></li>
+    <li class="footer">Generated on Mon Aug 25 2025 20:47:09 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

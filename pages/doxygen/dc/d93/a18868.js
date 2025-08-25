@@ -1,13 +1,13 @@
 var a18868 =
 [
-    [ "npc_icc_putricades_trapAI", "dc/d93/a18868.html#a9252a83e3deee62d5796e9f283662771", null ],
-    [ "DoAction", "dc/d93/a18868.html#ac8a30d8eba315b967c4e0713b14dcba7", null ],
-    [ "JustReachedHome", "dc/d93/a18868.html#a98f908e89630b23584982e298193cc0e", null ],
-    [ "JustSummoned", "dc/d93/a18868.html#abc5776b08b4fd43a4bb430f160eb630a", null ],
-    [ "Reset", "dc/d93/a18868.html#a3430515c94fd419bd2c59113b3f4e625", null ],
-    [ "SummonedCreatureDies", "dc/d93/a18868.html#a2e49dc8924da5d5537c33f7306287963", null ],
-    [ "UpdateAI", "dc/d93/a18868.html#a724e133f2c4d8c9fe140b3b998c88f64", null ],
-    [ "events", "dc/d93/a18868.html#a3249114a5b208109ec2c2a23533ede82", null ],
-    [ "instance", "dc/d93/a18868.html#a9f6f342ffbf6a29c745de6ea6a5ec0dc", null ],
-    [ "summons", "dc/d93/a18868.html#aaa914f4c2b48bd24c2dd06bc3599f563", null ]
+    [ "npc_icc_spire_frostwyrm", "dc/d93/a18868.html#a8fdfc70108e3294e0fcc3c7ed895074e", null ],
+    [ "CanAIAttack", "dc/d93/a18868.html#ab3364130aacf675602317651a244ae2c", null ],
+    [ "DoAction", "dc/d93/a18868.html#a44edf33b25bdfce3b2bd3a8ec487fd9e", null ],
+    [ "JustEngagedWith", "dc/d93/a18868.html#abfc762cea6b7e40aaaff50b933410127", null ],
+    [ "JustReachedHome", "dc/d93/a18868.html#a144e8cafc020f5c43aae1fdc4a38a10d", null ],
+    [ "MovementInform", "dc/d93/a18868.html#a8e7f148580d91d42959e972ef18b271b", null ],
+    [ "Reset", "dc/d93/a18868.html#a572add30e78af15a8d5d6918169802da", null ],
+    [ "UpdateAI", "dc/d93/a18868.html#ad193a9355e11ea25792e6285d375a488", null ],
+    [ "_canResetFlyingEffects", "dc/d93/a18868.html#a262d843fcb13a444ae377729135ca14d", null ],
+    [ "_scheduler", "dc/d93/a18868.html#a822096df7b1803d92e05ca27d544bd26", null ]
 ];

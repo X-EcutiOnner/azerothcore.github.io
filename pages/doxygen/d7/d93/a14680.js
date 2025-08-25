@@ -1,8 +1,6 @@
 var a14680 =
 [
-    [ "hyjalThrallAI", "d7/d93/a14680.html#a5bc01b52edeaac62e3a9c3e48f90feb2", null ],
-    [ "JustDied", "d7/d93/a14680.html#aa13cb18c91802ad402e5fd97ec78572a", null ],
-    [ "JustEngagedWith", "d7/d93/a14680.html#a96706138634275ae7639c14f53cdd842", null ],
-    [ "Reset", "d7/d93/a14680.html#a6a341bfcc9d697dde64584a5a0231d73", null ],
-    [ "UpdateAI", "d7/d93/a14680.html#a57046716d7c45a5fa4e203d73c4a7b87", null ]
+    [ "FilterTargets", "d7/d93/a14680.html#ab4e32c78307df1d0ea7e0a71ace11734", null ],
+    [ "PrepareSpellScript", "d7/d93/a14680.html#a54fb8b4b7abd1c92d7d98f3b911a7cec", null ],
+    [ "Register", "d7/d93/a14680.html#a164b8b946dc801db878603488c978adb", null ]
 ];

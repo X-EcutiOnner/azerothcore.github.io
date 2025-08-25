@@ -1,12 +1,12 @@
 var a22952 =
 [
-    [ "boss_shade_of_akama", "d7/d26/a22952.html#a385bf995d19652254d6ae8a447c23c37", null ],
-    [ "EnterEvadeMode", "d7/d26/a22952.html#a690f8058fb4358b98960177d76864275", null ],
-    [ "JustDied", "d7/d26/a22952.html#aa22052befeb48c0c7ec3a3cedd91daff", null ],
-    [ "MovementInform", "d7/d26/a22952.html#a345707efebd5027c01a25a563d1e6f43", null ],
-    [ "Reset", "d7/d26/a22952.html#a19a1aca1a599704612ac845001895b4f", null ],
-    [ "SpellHit", "d7/d26/a22952.html#a5a49f0dab7ce6ee81b9ed8deb5704720", null ],
-    [ "UpdateAI", "d7/d26/a22952.html#a25ffed5526b1f25eb1cf790745e2a7c7", null ],
-    [ "channelers", "d7/d26/a22952.html#a63372527172d3f96f533b5776221c2e7", null ],
-    [ "generators", "d7/d26/a22952.html#a3ebaa870a9c3c9b5a0590b8cdc32d857", null ]
+    [ "boss_essence_of_desireAI", "d7/d26/a22952.html#a02f6dec07038297c15c264fb501b01ab", null ],
+    [ "DamageTaken", "d7/d26/a22952.html#abc2d334c185f519230e5ee4d1fc8ff39", null ],
+    [ "DoAction", "d7/d26/a22952.html#ad55459d8e75f34783c1516be05cbb97f", null ],
+    [ "JustEngagedWith", "d7/d26/a22952.html#a0976078399b2190cca25aa2ae5c3c201", null ],
+    [ "KilledUnit", "d7/d26/a22952.html#a07509843bd658e3fc0b02cb817da37e9", null ],
+    [ "MovementInform", "d7/d26/a22952.html#ad65068c5f56db269b4dc711745f96cfb", null ],
+    [ "Reset", "d7/d26/a22952.html#a5c785c728d201a1a4f8f1e01d7000166", null ],
+    [ "UpdateAI", "d7/d26/a22952.html#af348a1b996a8e7704ba55185ef79fe7d", null ],
+    [ "_recentlySpoken", "d7/d26/a22952.html#a6507c0da056a74d961d28e96120cd676", null ]
 ];

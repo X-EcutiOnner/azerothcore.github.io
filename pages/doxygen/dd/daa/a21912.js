@@ -1,10 +1,6 @@
 var a21912 =
 [
-    [ "npc_emilyAI", "dd/daa/a21912.html#afd1e82e36c8850fbe118ab6abbdb73ce", null ],
-    [ "JustEngagedWith", "dd/daa/a21912.html#a498ddc6969d398fe7a44824f4f8c8893", null ],
-    [ "JustSummoned", "dd/daa/a21912.html#a4730c94b54d2ee5160011557704b35f2", null ],
-    [ "Reset", "dd/daa/a21912.html#a8f196a6e1b21bef162b7ba4d7aeae208", null ],
-    [ "WaypointReached", "dd/daa/a21912.html#a0a68676a6eac8fbe2b634098268eb516", null ],
-    [ "_mrfloppyGUID", "dd/daa/a21912.html#a12a1fbe1ef4767698ab969e51e2f0e8e", null ],
-    [ "_RavenousworgGUID", "dd/daa/a21912.html#aa2a5e45366be9f89221453e00179e1a3", null ]
+    [ "npc_spiritual_insightAI", "dd/daa/a21912.html#ab173cd8b623fcf8c36406155c91bc4db", null ],
+    [ "GetSpeachId", "dd/daa/a21912.html#ad2dd22651470f47e7a7ba6f687ba54e9", null ],
+    [ "IsSummonedBy", "dd/daa/a21912.html#ab6b39190d1195915ea0b4b191d864da6", null ]
 ];

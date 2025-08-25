@@ -1,12 +1,13 @@
 var a21732 =
 [
-    [ "npc_dalaran_warriorAI", "d3/d4b/a21732.html#a0c96d8b0797a1388f9fe725753ea91bc", null ],
-    [ "Initialize", "d3/d4b/a21732.html#aa04ecd7a8f988e94ab663a7994e83dd9", null ],
-    [ "JustEngagedWith", "d3/d4b/a21732.html#ae6690f0681363784e457fbd653f5b3f9", null ],
-    [ "Reset", "d3/d4b/a21732.html#a074d116ba39d87fa85c17fbc1764c79b", null ],
-    [ "UpdateAI", "d3/d4b/a21732.html#ae2a740ecd35694b4d04c6aea7ae567fa", null ],
-    [ "Battleshout_timer", "d3/d4b/a21732.html#ae36f30f816164b60232bd849e74c3da1", null ],
-    [ "disarm_timer", "d3/d4b/a21732.html#a54f7ceb37d7e3456166f5af761c95e9e", null ],
-    [ "hamstring_timer", "d3/d4b/a21732.html#ae0e660b8c3faf70a6061260a4b90a4af", null ],
-    [ "shout_timer", "d3/d4b/a21732.html#ac91770c1e9eb31d687247450898a48ae", null ]
+    [ "npc_shandy_dalaranAI", "d3/d4b/a21732.html#ae93b853e4852ce71c4d588d4621b16a1", null ],
+    [ "Reset", "d3/d4b/a21732.html#a38f0630d4e18cea01de343afdcb96db3", null ],
+    [ "RollTask", "d3/d4b/a21732.html#acd1daa5bc99f281bd1ca78d4cdaf5a9e", null ],
+    [ "SetData", "d3/d4b/a21732.html#a5c8a0e6e0729d872c230aa72d41236a3", null ],
+    [ "UpdateAI", "d3/d4b/a21732.html#ac7c8e87b784d8738b8aacbcb58f471b1", null ],
+    [ "_aquanosGUID", "d3/d4b/a21732.html#aa1dfb61fbaae6ab2e25dd9779ec63ed1", null ],
+    [ "_canWash", "d3/d4b/a21732.html#af5b1aae6b2dd82c8199caedec3a8fdec", null ],
+    [ "_events", "d3/d4b/a21732.html#a3fbae63669c8382097b0bcb936301945", null ],
+    [ "_lCount", "d3/d4b/a21732.html#ad55bea5f33de226ff230f99059dc9ec3", null ],
+    [ "_lSource", "d3/d4b/a21732.html#a9e01cee4a79bfac56b1d1ecdac17ca3f", null ]
 ];

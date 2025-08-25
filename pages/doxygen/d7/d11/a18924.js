@@ -1,6 +1,6 @@
 var a18924 =
 [
-    [ "npc_four_car_garageAI", "d0/d05/a18928.html", "d0/d05/a18928" ],
-    [ "npc_four_car_garage", "d7/d11/a18924.html#ae9b811544ab5cbdcb9c44abdc2da41a8", null ],
-    [ "GetAI", "d7/d11/a18924.html#ac55346f9733c5502a9e9f2d6d48feefb", null ]
+    [ "icecrown_citadel_teleport", "d7/d11/a18924.html#ab74d5962073dcf3b4488c33aaa935377", null ],
+    [ "OnGossipHello", "d7/d11/a18924.html#a97b0d94a5c7388a5dfce76f3bd3be24f", null ],
+    [ "OnGossipSelect", "d7/d11/a18924.html#a0b160bd86341542ddb1c80f3d4bd691f", null ]
 ];

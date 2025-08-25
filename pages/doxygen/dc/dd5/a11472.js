@@ -1,6 +1,7 @@
 var a11472 =
 [
-    [ "Command", "dc/dd5/a11472.html#a65dc9a4861ab63743146c65a0a6249f2", null ],
-    [ "Data", "dc/dd5/a11472.html#abda0f8cc15c7fb45fa81fcf5ccad8d08", null ],
-    [ "DataSize", "dc/dd5/a11472.html#a279f37acfa44c06ae14c5a544dd7baf6", null ]
+    [ "StringTransaction", "dc/dd5/a11472.html#aef82d603733e7cb0636d95abea9e6cdc", null ],
+    [ "Append", "dc/dd5/a11472.html#a0d1d9db61a1b3658c3d0fde37e2a4c5e", null ],
+    [ "GetBuffer", "dc/dd5/a11472.html#a7cb52c3e029cdb971dfbb4048ade25a0", null ],
+    [ "_buf", "dc/dd5/a11472.html#a4ec7dd27d7a2321cd1cead11ca78c1ef", null ]
 ];

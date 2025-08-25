@@ -1,8 +1,6 @@
 var a21868 =
 [
-    [ "npc_q24545_vegardAI", "da/ddb/a21868.html#a6a86b56508a86bf32ab5fb2bd46248c9", null ],
-    [ "JustDied", "da/ddb/a21868.html#a1f7784242bbaf39d0fb105d2930da37c", null ],
-    [ "KilledUnit", "da/ddb/a21868.html#a2d78117a6c2a29f52f1905595425964a", null ],
-    [ "UpdateAI", "da/ddb/a21868.html#a79cc34760b58ad4b29c6a0a496971f0a", null ],
-    [ "events", "da/ddb/a21868.html#a68f48d92cc5559025e635d599c2882e3", null ]
+    [ "SACActivateEvent", "da/ddb/a21868.html#a7e5ba22c5500337f14ae067e2b404c5a", null ],
+    [ "Execute", "da/ddb/a21868.html#ad3e4092941e8cd8953fdc251e97c458a", null ],
+    [ "_owner", "da/ddb/a21868.html#ae930bd1f603ea296c5ccabd6fbd299f8", null ]
 ];

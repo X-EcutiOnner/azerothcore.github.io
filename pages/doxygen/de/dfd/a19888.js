@@ -1,11 +1,12 @@
 var a19888 =
 [
-    [ "boss_flame_leviathan_defense_turretAI", "de/dfd/a19888.html#aedf30f06fe89c805019f7cc254646ff1", null ],
-    [ "CanAIAttack", "de/dfd/a19888.html#a76efa1d88ce029775809abb3ec88efb3", null ],
-    [ "DamageTaken", "de/dfd/a19888.html#adedbbeeb01da20843bc85ac2daaed12a", null ],
-    [ "JustDied", "de/dfd/a19888.html#af261cc1f0458984719ab1bb4518bdc64", null ],
-    [ "KilledUnit", "de/dfd/a19888.html#aed3f2a4bac3391683989eec94697ef16", null ],
-    [ "UpdateAI", "de/dfd/a19888.html#a575eb381d1aa31af60484271ae6e4627", null ],
-    [ "_instance", "de/dfd/a19888.html#a8c0658a5d32355607cb16f6e1c83f83e", null ],
-    [ "_setHealth", "de/dfd/a19888.html#aeb220ded0a6515674a428716a8be9f48", null ]
+    [ "npc_auriaya_feral_defenderAI", "de/dfd/a19888.html#a32e6fa30e4c56fdd055a728ba7227beb", null ],
+    [ "DoAction", "de/dfd/a19888.html#a2b0a176dba865e90bdc22727b2860509", null ],
+    [ "JustDied", "de/dfd/a19888.html#a7e9c49d8dc47663e70c8fcbed68746e5", null ],
+    [ "Reset", "de/dfd/a19888.html#ae127a88f18f3348a0bc388d79dcd13d4", null ],
+    [ "UpdateAI", "de/dfd/a19888.html#a1edc249808e1ebdb88605c56e19c272a", null ],
+    [ "_feralEssenceStack", "de/dfd/a19888.html#aab51096b8f57528a0a27e23a306d6762", null ],
+    [ "_feralPounceTimer", "de/dfd/a19888.html#ab91df5ebee9c12d067ff83ee64effece", null ],
+    [ "_feralRushTimer", "de/dfd/a19888.html#aa45e0baf1ad43cc4b2c223d1b9d1c3c6", null ],
+    [ "summons", "de/dfd/a19888.html#a599679f93e4fc4b3b9aa00ea33dcb047", null ]
 ];

@@ -1,8 +1,12 @@
 var a06076 =
 [
-    [ "ArcherAI", "df/d45/a06076.html#a113c138958054716182c15ee9f2b47da", null ],
-    [ "AttackStart", "df/d45/a06076.html#adc79f7ead63ecaf8fed9ea4f81d27f76", null ],
-    [ "Permissible", "df/d45/a06076.html#ac5b3d144b0d71a5e527d53f33c3d31cc", null ],
-    [ "UpdateAI", "df/d45/a06076.html#aa6e072e239549d337de61670a05eb6f8", null ],
-    [ "m_minRange", "df/d45/a06076.html#ab449efcd81769888ff8d8bc5f348cbe7", null ]
+    [ "CombatAI", "df/d45/a06076.html#a32e63efb85155ac3deeb818a9a1ba18a", null ],
+    [ "InitializeAI", "df/d45/a06076.html#a70caf22165251220365d03873b3d3f17", null ],
+    [ "JustDied", "df/d45/a06076.html#a9176b9b9c7a5e13fb05dae636c7ef2d4", null ],
+    [ "JustEngagedWith", "df/d45/a06076.html#ab157082819d821cf0b0093f084111e16", null ],
+    [ "Permissible", "df/d45/a06076.html#aaf52e2cbeb1ea9a816b5e8d914c03edb", null ],
+    [ "Reset", "df/d45/a06076.html#a7a39daea9b9bd09572472ae0d8689edd", null ],
+    [ "UpdateAI", "df/d45/a06076.html#af12583d15ccd183f6236c1889d539b9b", null ],
+    [ "events", "df/d45/a06076.html#af59650830fa1abdf8eec179a12e328e7", null ],
+    [ "spells", "df/d45/a06076.html#ae0ecfc744e4200bbf7ea36cdd84b13c0", null ]
 ];

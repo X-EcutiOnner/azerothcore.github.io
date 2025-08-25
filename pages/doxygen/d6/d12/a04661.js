@@ -1,4 +1,5 @@
 var a04661 =
 [
-    [ "isnan", "d6/d12/a04661.html#a075c8459d7e501109174c1a2fdc5cd7e", null ]
+    [ "BIHWrap< T, BoundsFunc >", "da/d05/a04920.html", "da/d05/a04920" ],
+    [ "BIHWrap< T, BoundsFunc >::MDLCallback< RayCallback >", "d1/db7/a04924.html", "d1/db7/a04924" ]
 ];

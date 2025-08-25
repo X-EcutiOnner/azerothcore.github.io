@@ -1,6 +1,6 @@
 var a16232 =
 [
-    [ "boss_paletressAI", "d3/d7a/a16236.html", "d3/d7a/a16236" ],
-    [ "boss_paletress", "df/d80/a16232.html#a04cbd31e71cc349b8c1058780ee6f673", null ],
-    [ "GetAI", "df/d80/a16232.html#a2c20ff397d115cf0e8a1801184e5a3f9", null ]
+    [ "boss_saviana_ragefireAI", "d3/d7a/a16236.html", "d3/d7a/a16236" ],
+    [ "boss_saviana_ragefire", "df/d80/a16232.html#a5964bbc510355a8b1fd08bd5f9f5f8c0", null ],
+    [ "GetAI", "df/d80/a16232.html#a0a0073d8710af066d9711636f4d5b01e", null ]
 ];

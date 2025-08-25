@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: PositionFullTerrainStatus Struct Reference</title>
+<title>AzerothCore: ResetNotifier Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,34 +106,65 @@ $(document).ready(function(){initNavTree('df/df6/a09804.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../d2/d77/a09801.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">PositionFullTerrainStatus Struct Reference</div></div>
+  <div class="headertitle"><div class="title">ResetNotifier Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
-
-<p><code>#include &quot;<a class="el" href="../../">Map.h</a>&quot;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:ae0349ed89530b35af91b7b1862acaffe"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/df6/a09804.html#ae0349ed89530b35af91b7b1862acaffe">PositionFullTerrainStatus</a> ()=default</td></tr>
-<tr class="separator:ae0349ed89530b35af91b7b1862acaffe"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
-Public Attributes</h2></td></tr>
-<tr class="memitem:ac04966fa31b30f341a937906223463d4"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/df6/a09804.html#ac04966fa31b30f341a937906223463d4">areaId</a> {0}</td></tr>
-<tr class="separator:ac04966fa31b30f341a937906223463d4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abbd186ca681e532d567b5a221a62c02b"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/df6/a09804.html#abbd186ca681e532d567b5a221a62c02b">floorZ</a> {<a class="el" href="../../dd/dd8/a00719.html#ac08ed03fa837b2e3d2624e0123f0897b">INVALID_HEIGHT</a>}</td></tr>
-<tr class="separator:abbd186ca681e532d567b5a221a62c02b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae531eb0a4abc029f82d699c98d6aa565"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/df6/a09804.html#ae531eb0a4abc029f82d699c98d6aa565">outdoors</a> {false}</td></tr>
-<tr class="separator:ae531eb0a4abc029f82d699c98d6aa565"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac96230ad8521342ec97cf4f94013d0b4"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/da8/a09148.html">LiquidData</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/df6/a09804.html#ac96230ad8521342ec97cf4f94013d0b4">liquidInfo</a></td></tr>
-<tr class="separator:ac96230ad8521342ec97cf4f94013d0b4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1472e21d9af04662f3574bc2c7d3890c"><td class="memTemplParams" colspan="2">template&lt;class T &gt; </td></tr>
+<tr class="memitem:a1472e21d9af04662f3574bc2c7d3890c"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../df/df6/a09804.html#a1472e21d9af04662f3574bc2c7d3890c">resetNotify</a> (<a class="el" href="../../d7/dc5/a09100.html">GridRefMgr</a>&lt; T &gt; &amp;m)</td></tr>
+<tr class="separator:a1472e21d9af04662f3574bc2c7d3890c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adf95512d4304962a5740b38c32ea28a7"><td class="memTemplParams" colspan="2">template&lt;class T &gt; </td></tr>
+<tr class="memitem:adf95512d4304962a5740b38c32ea28a7"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../df/df6/a09804.html#adf95512d4304962a5740b38c32ea28a7">Visit</a> (<a class="el" href="../../d7/dc5/a09100.html">GridRefMgr</a>&lt; T &gt; &amp;)</td></tr>
+<tr class="separator:adf95512d4304962a5740b38c32ea28a7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adfcdcf148b002c641638ddc70d577b14"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/df6/a09804.html#adfcdcf148b002c641638ddc70d577b14">Visit</a> (<a class="el" href="../../d0/d0a/a00743.html#ac60ef2e7adf9bc71b50d675b4b74980b">CreatureMapType</a> &amp;m)</td></tr>
+<tr class="separator:adfcdcf148b002c641638ddc70d577b14"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a725fc2c2504eecaa15841c27b367cd55"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/df6/a09804.html#a725fc2c2504eecaa15841c27b367cd55">Visit</a> (<a class="el" href="../../d0/d0a/a00743.html#ae35a7f6754cf9950d0027369ada820e7">PlayerMapType</a> &amp;m)</td></tr>
+<tr class="separator:a725fc2c2504eecaa15841c27b367cd55"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="ae0349ed89530b35af91b7b1862acaffe" name="ae0349ed89530b35af91b7b1862acaffe"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae0349ed89530b35af91b7b1862acaffe">&#9670;&#160;</a></span>PositionFullTerrainStatus()</h2>
+<div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
+<a id="a1472e21d9af04662f3574bc2c7d3890c" name="a1472e21d9af04662f3574bc2c7d3890c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1472e21d9af04662f3574bc2c7d3890c">&#9670;&#160;</a></span>resetNotify()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void ResetNotifier::resetNotify </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d7/dc5/a09100.html">GridRefMgr</a>&lt; T &gt; &amp;&#160;</td>
+          <td class="paramname"><em>m</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  615</span>    {</div>
+<div class="line"><span class="lineno">  616</span>        <span class="keywordflow">for</span> (<span class="keyword">typename</span> <a class="code hl_class" href="../../df/d8e/a05248.html">GridRefMgr&lt;T&gt;::iterator</a> iter = m.<a class="code hl_function" href="../../d7/dc5/a09100.html#a1e4e67ba11ac8da077942a6581647bf3">begin</a>(); iter != m.<a class="code hl_function" href="../../d7/dc5/a09100.html#a266acb421cfc6ccc56dc2acff3202971">end</a>(); ++iter)</div>
+<div class="line"><span class="lineno">  617</span>            iter-&gt;GetSource()-&gt;ResetAllNotifies();</div>
+<div class="line"><span class="lineno">  618</span>    }</div>
+<div class="ttc" id="aa05248_html"><div class="ttname"><a href="../../df/d8e/a05248.html">LinkedListHead::Iterator</a></div><div class="ttdef"><b>Definition:</b> LinkedList.h:139</div></div>
+<div class="ttc" id="aa09100_html_a1e4e67ba11ac8da077942a6581647bf3"><div class="ttname"><a href="../../d7/dc5/a09100.html#a1e4e67ba11ac8da077942a6581647bf3">GridRefMgr::begin</a></div><div class="ttdeci">iterator begin()</div><div class="ttdef"><b>Definition:</b> GridRefMgr.h:35</div></div>
+<div class="ttc" id="aa09100_html_a266acb421cfc6ccc56dc2acff3202971"><div class="ttname"><a href="../../d7/dc5/a09100.html#a266acb421cfc6ccc56dc2acff3202971">GridRefMgr::end</a></div><div class="ttdeci">iterator end()</div><div class="ttdef"><b>Definition:</b> GridRefMgr.h:36</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00035">GridRefMgr&lt; OBJECT &gt;::begin()</a>, and <a class="el" href="../../#l00036">GridRefMgr&lt; OBJECT &gt;::end()</a>.</p>
+
+</div>
+</div>
+<a id="adfcdcf148b002c641638ddc70d577b14" name="adfcdcf148b002c641638ddc70d577b14"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adfcdcf148b002c641638ddc70d577b14">&#9670;&#160;</a></span>Visit() <span class="overload">[1/3]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -142,84 +173,77 @@ Public Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">PositionFullTerrainStatus::PositionFullTerrainStatus </td>
+          <td class="memname">void ResetNotifier::Visit </td>
           <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/d0a/a00743.html#ac60ef2e7adf9bc71b50d675b4b74980b">CreatureMapType</a> &amp;&#160;</td>
+          <td class="paramname"><em>m</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  620</span>{ resetNotify&lt;Creature&gt;(m);}</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="adf95512d4304962a5740b38c32ea28a7" name="adf95512d4304962a5740b38c32ea28a7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adf95512d4304962a5740b38c32ea28a7">&#9670;&#160;</a></span>Visit() <span class="overload">[2/3]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void ResetNotifier::Visit </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d7/dc5/a09100.html">GridRefMgr</a>&lt; T &gt; &amp;&#160;</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">default</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-
+<div class="fragment"><div class="line"><span class="lineno">  619</span>{}</div>
+</div><!-- fragment -->
 </div>
 </div>
-<h2 class="groupheader">Member Data Documentation</h2>
-<a id="ac04966fa31b30f341a937906223463d4" name="ac04966fa31b30f341a937906223463d4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac04966fa31b30f341a937906223463d4">&#9670;&#160;</a></span>areaId</h2>
+<a id="a725fc2c2504eecaa15841c27b367cd55" name="a725fc2c2504eecaa15841c27b367cd55"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a725fc2c2504eecaa15841c27b367cd55">&#9670;&#160;</a></span>Visit() <span class="overload">[3/3]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> PositionFullTerrainStatus::areaId {0}</td>
+          <td class="memname">void ResetNotifier::Visit </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/d0a/a00743.html#ae35a7f6754cf9950d0027369ada820e7">PlayerMapType</a> &amp;&#160;</td>
+          <td class="paramname"><em>m</em></td><td>)</td>
+          <td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l01304">Map::GetFullTerrainStatusForPosition()</a>, and <a class="el" href="../../#l01128">WorldObject::ProcessPositionDataChanged()</a>.</p>
-
-</div>
-</div>
-<a id="abbd186ca681e532d567b5a221a62c02b" name="abbd186ca681e532d567b5a221a62c02b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#abbd186ca681e532d567b5a221a62c02b">&#9670;&#160;</a></span>floorZ</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">float PositionFullTerrainStatus::floorZ {<a class="el" href="../../dd/dd8/a00719.html#ac08ed03fa837b2e3d2624e0123f0897b">INVALID_HEIGHT</a>}</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l01304">Map::GetFullTerrainStatusForPosition()</a>, and <a class="el" href="../../#l01128">WorldObject::ProcessPositionDataChanged()</a>.</p>
-
-</div>
-</div>
-<a id="ac96230ad8521342ec97cf4f94013d0b4" name="ac96230ad8521342ec97cf4f94013d0b4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac96230ad8521342ec97cf4f94013d0b4">&#9670;&#160;</a></span>liquidInfo</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../dd/da8/a09148.html">LiquidData</a> PositionFullTerrainStatus::liquidInfo</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l01304">Map::GetFullTerrainStatusForPosition()</a>, and <a class="el" href="../../#l01128">WorldObject::ProcessPositionDataChanged()</a>.</p>
-
-</div>
-</div>
-<a id="ae531eb0a4abc029f82d699c98d6aa565" name="ae531eb0a4abc029f82d699c98d6aa565"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae531eb0a4abc029f82d699c98d6aa565">&#9670;&#160;</a></span>outdoors</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool PositionFullTerrainStatus::outdoors {false}</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l01304">Map::GetFullTerrainStatusForPosition()</a>, and <a class="el" href="../../#l01128">WorldObject::ProcessPositionDataChanged()</a>.</p>
-
+<div class="fragment"><div class="line"><span class="lineno">  621</span>{ resetNotify&lt;Player&gt;(m);}</div>
+</div><!-- fragment -->
 </div>
 </div>
 </div><!-- contents -->
@@ -227,8 +251,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../df/df6/a09804.html">PositionFullTerrainStatus</a></li>
-    <li class="footer">Generated on Mon Aug 18 2025 20:48:52 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../df/df6/a09804.html">ResetNotifier</a></li>
+    <li class="footer">Generated on Mon Aug 25 2025 20:47:07 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

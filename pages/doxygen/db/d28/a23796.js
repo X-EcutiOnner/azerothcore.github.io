@@ -1,6 +1,10 @@
 var a23796 =
 [
-    [ "HandleCast", "db/d28/a23796.html#a912dc3b17ab7d0818089c32610d82a16", null ],
-    [ "PrepareSpellScript", "db/d28/a23796.html#a6590aab70049aa5e94ed48aeb99ab1d0", null ],
-    [ "Register", "db/d28/a23796.html#a09d4af96e2d5a69b1b61a6055bcb04d4", null ]
+    [ "boss_thorngrin_the_tender", "db/d28/a23796.html#ad960b1084fc08d2870975c7c6c44ab2b", null ],
+    [ "JustDied", "db/d28/a23796.html#a4bc13108f7cb240fedb44ccae2b54047", null ],
+    [ "JustEngagedWith", "db/d28/a23796.html#a647ed5b29861b719d3c4a11fd110c512", null ],
+    [ "KilledUnit", "db/d28/a23796.html#ab3731c5b56e1c01aa5d78d84a5e60234", null ],
+    [ "MoveInLineOfSight", "db/d28/a23796.html#a9467e59287b3e917907de82507d1a16d", null ],
+    [ "Reset", "db/d28/a23796.html#af3f1471cbcdadfe3a86421d7232fb4b9", null ],
+    [ "_intro", "db/d28/a23796.html#a48fc89c7e9814d90a8724ca38c5e2fe8", null ]
 ];

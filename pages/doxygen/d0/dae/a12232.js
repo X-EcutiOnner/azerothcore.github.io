@@ -1,6 +1,9 @@
 var a12232 =
 [
-    [ "go_chromaggus_leverAI", "d0/dae/a12232.html#a51406a7e313702282cebfbf067c9ce4e", null ],
-    [ "GossipHello", "d0/dae/a12232.html#a44ece597fcfcf290234cc1ef073fbf18", null ],
-    [ "_instance", "d0/dae/a12232.html#a364f66c7cf0a7bc4a3ea97b87ebe9f90", null ]
+    [ "npc_vaelastrasz_the_redAI", "d0/dae/a12232.html#aa800617f887a21d8a61cac099c86faed", null ],
+    [ "IsSummonedBy", "d0/dae/a12232.html#ab0eb414e7c9385e4831c4fbc6ba1de49", null ],
+    [ "UpdateAI", "d0/dae/a12232.html#a4dd74c81dc67291ed04861cf542b0d24", null ],
+    [ "_combatEnabled", "d0/dae/a12232.html#ae82e9f70dbfd6a4a75206d358de4504e", null ],
+    [ "_events2", "d0/dae/a12232.html#aa31a968cb89f2c4bb4fde836fd600ab9", null ],
+    [ "_victorGUID", "d0/dae/a12232.html#a8a4af969b8d340d5492f89499e3e90c2", null ]
 ];

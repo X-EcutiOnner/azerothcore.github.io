@@ -1,10 +1,7 @@
 var a20904 =
 [
-    [ "boss_yoggsaron_immortal_guardianAI", "d8/d8f/a20904.html#a84a3ffe43a4ce49cd543f770594cd683", null ],
-    [ "DamageTaken", "d8/d8f/a20904.html#aec157bcf0628a7301bcb91dd62bcc484", null ],
-    [ "Reset", "d8/d8f/a20904.html#a763f772414f00c0f83402e1a635b6bd0", null ],
-    [ "SpellHit", "d8/d8f/a20904.html#a60721961f2eb5e91c15890252166b872", null ],
-    [ "UpdateAI", "d8/d8f/a20904.html#a7fa550f683fcf16f5bd70a307bffcb2b", null ],
-    [ "_spellTimer", "d8/d8f/a20904.html#a4ed360380707195e10753436020b67eb", null ],
-    [ "_visualTimer", "d8/d8f/a20904.html#a8c382c37aaa3d20cfc0fe604af52bef4", null ]
+    [ "boss_yoggsaron_corruptor_tentacleAI", "d8/d8f/a20904.html#a5f8fbd8ac772fad79f809de4d3128574", null ],
+    [ "DoAction", "d8/d8f/a20904.html#abac26b3be775eea734403be36cbed4d2", null ],
+    [ "SelectCorruptionTarget", "d8/d8f/a20904.html#a1d61b34d31794cd2bdcddfe91dc1103e", null ],
+    [ "UpdateAI", "d8/d8f/a20904.html#a0269d1dc655af5680d7074cb093740b8", null ]
 ];

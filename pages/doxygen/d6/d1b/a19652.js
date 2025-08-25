@@ -1,6 +1,6 @@
 var a19652 =
 [
-    [ "dark_rune_stormcallerAI", "df/deb/a19656.html", "df/deb/a19656" ],
-    [ "dark_rune_stormcaller", "d6/d1b/a19652.html#ab31774011fc3e1e8ffa1a3b7c5cbfbcc", null ],
-    [ "GetAI", "d6/d1b/a19652.html#a9072aaf482106cfae0d3901507b47f60", null ]
+    [ "boss_sjonnir_iron_sludgeAI", "df/deb/a19656.html", "df/deb/a19656" ],
+    [ "boss_sjonnir_iron_sludge", "d6/d1b/a19652.html#ae1c523266aab3e8e2c337dede7390c7b", null ],
+    [ "GetAI", "d6/d1b/a19652.html#a2d077bfeac6479d83240ee00ca5aa0e0", null ]
 ];

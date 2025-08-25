@@ -1,6 +1,6 @@
 var a06064 =
 [
-    [ "AggressorAI", "d1/da6/a06064.html#a2d4ba3a557832466f29906972d1e14fd", null ],
-    [ "Permissible", "d1/da6/a06064.html#a7867a9ca7249eb94a712e34833fae930", null ],
-    [ "UpdateAI", "d1/da6/a06064.html#ace9bc9ff47a463ceb05217ae77b5782b", null ]
+    [ "SavedAddon", "d1/da6/a06064.html#a6252c2ac491d0ebd9e84556f26cfa8cd", null ],
+    [ "CRC", "d1/da6/a06064.html#a7d04d21a29aa589429aab0d95172ca95", null ],
+    [ "Name", "d1/da6/a06064.html#a075de88ce6e643cffb7c5bb55f7b1095", null ]
 ];

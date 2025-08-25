@@ -1,6 +1,6 @@
 var a22404 =
 [
-    [ "HandlePeriodicDummy", "d6/dd9/a22404.html#a0096e0521c37a4f7f9ab1f2173a807d4", null ],
-    [ "PrepareAuraScript", "d6/dd9/a22404.html#ad55ab81c39e8bf53d1e2066bbeefa712", null ],
-    [ "Register", "d6/dd9/a22404.html#afeccfe29a0e0f192a4242217f9d4b7e5", null ]
+    [ "npc_wg_siege_machineAI", "d1/dfa/a22408.html", "d1/dfa/a22408" ],
+    [ "npc_wg_siege_machine", "d6/dd9/a22404.html#a23dc1bbeaa396cad781ec177881e7d2a", null ],
+    [ "GetAI", "d6/dd9/a22404.html#ae8b2a71378565ad5428f1ae582cacca1", null ]
 ];

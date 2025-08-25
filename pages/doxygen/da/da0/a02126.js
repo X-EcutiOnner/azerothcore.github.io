@@ -1,5 +1,5 @@
 var a02126 =
 [
-    [ "achievement_commandscript", "d6/daa/a11588.html", "d6/daa/a11588" ],
-    [ "AddSC_achievement_commandscript", "da/da0/a02126.html#afeb482a8cffe8416071764bc4e78bff2", null ]
+    [ "disable_commandscript", "d2/d40/a11676.html", "d2/d40/a11676" ],
+    [ "AddSC_disable_commandscript", "da/da0/a02126.html#a232e1ddbf34ceae5a317df69255bc8de", null ]
 ];

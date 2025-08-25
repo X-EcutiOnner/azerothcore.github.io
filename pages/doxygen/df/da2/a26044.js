@@ -1,10 +1,7 @@
 var a26044 =
 [
-    [ "AfterCheckProc", "df/da2/a26044.html#aa6f32a97ece5fc68c0b0a2cfa36e33eb", null ],
-    [ "HandleProc", "df/da2/a26044.html#a613182c741769d0983206bdfa89242f6", null ],
-    [ "PrepareAuraScript", "df/da2/a26044.html#a4f614fe81d829d8a1ceb7500f9557948", null ],
-    [ "Register", "df/da2/a26044.html#acd807de02a83a97a78572d672fb16027", null ],
-    [ "Validate", "df/da2/a26044.html#a3d2d6f1a00825ac66f507a790f468198", null ],
-    [ "_spellInfo", "df/da2/a26044.html#a66a5eb4caa7b43c34b2830d9a3d2f994", null ],
-    [ "_ticksModifier", "df/da2/a26044.html#ae23b54499fff879a096bd459e264c4f0", null ]
+    [ "HandleKnockBack", "df/da2/a26044.html#a860fb74000a42a7d6f22d17dde93cdf6", null ],
+    [ "PrepareSpellScript", "df/da2/a26044.html#ab951d6403188f178f79311cead8a0a8f", null ],
+    [ "Register", "df/da2/a26044.html#ac62f4fdf003cdd53650fe632b3ed3ef1", null ],
+    [ "Validate", "df/da2/a26044.html#add1bd8f583772d4dfeb20f01b9fac8ed", null ]
 ];

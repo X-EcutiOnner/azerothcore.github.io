@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: TradeData Class Reference</title>
+<title>AzerothCore: PlayerSocial Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,80 +106,66 @@ $(document).ready(function(){initNavTree('d3/d11/a08644.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pri-types">Private Types</a> &#124;
 <a href="#pri-methods">Private Member Functions</a> &#124;
 <a href="#pri-attribs">Private Attributes</a> &#124;
+<a href="#friends">Friends</a> &#124;
 <a href="../../d2/d43/a08641.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">TradeData Class Reference</div></div>
+  <div class="headertitle"><div class="title">PlayerSocial Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">TradeData.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">SocialMgr.h</a>&quot;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:ac2bfab37acbdb9fd955d8f2ee8876b79"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d11/a08644.html#ac2bfab37acbdb9fd955d8f2ee8876b79">TradeData</a> (<a class="el" href="../../d8/d93/a08612.html">Player</a> *player, <a class="el" href="../../d8/d93/a08612.html">Player</a> *trader)</td></tr>
-<tr class="separator:ac2bfab37acbdb9fd955d8f2ee8876b79"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3e3023cdf6deb5283ebbe844727cadef"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d93/a08612.html">Player</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d11/a08644.html#a3e3023cdf6deb5283ebbe844727cadef">GetTrader</a> () const</td></tr>
-<tr class="separator:a3e3023cdf6deb5283ebbe844727cadef"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a91911ad105b24d6055a65b07ab6c269f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d11/a08644.html">TradeData</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d11/a08644.html#a91911ad105b24d6055a65b07ab6c269f">GetTraderData</a> () const</td></tr>
-<tr class="separator:a91911ad105b24d6055a65b07ab6c269f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6c769042535c69e89bdc19234dd680e4"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d1e/a08320.html">Item</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d11/a08644.html#a6c769042535c69e89bdc19234dd680e4">GetItem</a> (<a class="el" href="../../d9/d0d/a01748.html#ad8fd978c4198825d89a1f02643d20c62">TradeSlots</a> slot) const</td></tr>
-<tr class="separator:a6c769042535c69e89bdc19234dd680e4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a420249fcbb7394f16009861ccdb6962a"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d11/a08644.html#a420249fcbb7394f16009861ccdb6962a">HasItem</a> (<a class="el" href="../../d9/d48/a08412.html">ObjectGuid</a> itemGuid) const</td></tr>
-<tr class="separator:a420249fcbb7394f16009861ccdb6962a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2982777fbad962000c016309667104df"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d0d/a01748.html#ad8fd978c4198825d89a1f02643d20c62">TradeSlots</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d11/a08644.html#a2982777fbad962000c016309667104df">GetTradeSlotForItem</a> (<a class="el" href="../../d9/d48/a08412.html">ObjectGuid</a> itemGuid) const</td></tr>
-<tr class="separator:a2982777fbad962000c016309667104df"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab3eff66bb411bd22a11d8e29f7961507"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d11/a08644.html#ab3eff66bb411bd22a11d8e29f7961507">SetItem</a> (<a class="el" href="../../d9/d0d/a01748.html#ad8fd978c4198825d89a1f02643d20c62">TradeSlots</a> slot, <a class="el" href="../../d9/d1e/a08320.html">Item</a> *item)</td></tr>
-<tr class="separator:ab3eff66bb411bd22a11d8e29f7961507"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a99272f794179b17c50c722ae90ea78bf"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d11/a08644.html#a99272f794179b17c50c722ae90ea78bf">GetSpell</a> () const</td></tr>
-<tr class="separator:a99272f794179b17c50c722ae90ea78bf"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2afa4c75d1fe0b8a712f270166f838ef"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d11/a08644.html#a2afa4c75d1fe0b8a712f270166f838ef">SetSpell</a> (<a class="el" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> spell_id, <a class="el" href="../../d9/d1e/a08320.html">Item</a> *castItem=nullptr)</td></tr>
-<tr class="separator:a2afa4c75d1fe0b8a712f270166f838ef"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a011acd6730c58aa75d3c27e793748afc"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d1e/a08320.html">Item</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d11/a08644.html#a011acd6730c58aa75d3c27e793748afc">GetSpellCastItem</a> () const</td></tr>
-<tr class="separator:a011acd6730c58aa75d3c27e793748afc"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a27981abf9bddbfe87bf81836b57e0780"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d11/a08644.html#a27981abf9bddbfe87bf81836b57e0780">HasSpellCastItem</a> () const</td></tr>
-<tr class="separator:a27981abf9bddbfe87bf81836b57e0780"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a54d3de8cb15ccc761d272295b19b7575"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d11/a08644.html#a54d3de8cb15ccc761d272295b19b7575">GetMoney</a> () const</td></tr>
-<tr class="separator:a54d3de8cb15ccc761d272295b19b7575"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0dc996fdc9acab409833caff4e6b489b"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d11/a08644.html#a0dc996fdc9acab409833caff4e6b489b">SetMoney</a> (<a class="el" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> money)</td></tr>
-<tr class="separator:a0dc996fdc9acab409833caff4e6b489b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a75b4970c1f26912bc24da528f226ca76"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d11/a08644.html#a75b4970c1f26912bc24da528f226ca76">IsAccepted</a> () const</td></tr>
-<tr class="separator:a75b4970c1f26912bc24da528f226ca76"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9e48c5ee348c5a8d475c5e7b15058b16"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d11/a08644.html#a9e48c5ee348c5a8d475c5e7b15058b16">SetAccepted</a> (bool state, bool crosssend=false)</td></tr>
-<tr class="separator:a9e48c5ee348c5a8d475c5e7b15058b16"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abbae0b720c0b44a05f0625ebafd09cc8"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d11/a08644.html#abbae0b720c0b44a05f0625ebafd09cc8">IsInAcceptProcess</a> () const</td></tr>
-<tr class="separator:abbae0b720c0b44a05f0625ebafd09cc8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4851016708b0e8336ec33c64ab41aa8a"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d11/a08644.html#a4851016708b0e8336ec33c64ab41aa8a">SetInAcceptProcess</a> (bool state)</td></tr>
-<tr class="separator:a4851016708b0e8336ec33c64ab41aa8a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad505f01fad548b70cf070a86dce40278"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d11/a08644.html#ad505f01fad548b70cf070a86dce40278">PlayerSocial</a> ()</td></tr>
+<tr class="separator:ad505f01fad548b70cf070a86dce40278"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae21a947058622c611f8ffc1430f7f3c3"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d11/a08644.html#ae21a947058622c611f8ffc1430f7f3c3">AddToSocialList</a> (<a class="el" href="../../db/d20/a08420.html">ObjectGuid</a> friend_guid, <a class="el" href="../../df/d9a/a01715.html#ad0ac931a69e6d8885728cb1fca06fc6e">SocialFlag</a> flag)</td></tr>
+<tr class="separator:ae21a947058622c611f8ffc1430f7f3c3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8fb0fc85204ea32cc000a2d711f1245b"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d11/a08644.html#a8fb0fc85204ea32cc000a2d711f1245b">RemoveFromSocialList</a> (<a class="el" href="../../db/d20/a08420.html">ObjectGuid</a> friend_guid, <a class="el" href="../../df/d9a/a01715.html#ad0ac931a69e6d8885728cb1fca06fc6e">SocialFlag</a> flag)</td></tr>
+<tr class="separator:a8fb0fc85204ea32cc000a2d711f1245b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0ee1c5bebc234010f60f79618b541613"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d11/a08644.html#a0ee1c5bebc234010f60f79618b541613">SetFriendNote</a> (<a class="el" href="../../db/d20/a08420.html">ObjectGuid</a> friendGuid, std::string note)</td></tr>
+<tr class="separator:a0ee1c5bebc234010f60f79618b541613"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa31ca078f363c5d5f6cfabcc4126fa9b"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d11/a08644.html#aa31ca078f363c5d5f6cfabcc4126fa9b">SendSocialList</a> (<a class="el" href="../../dc/de6/a08620.html">Player</a> *player, <a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> flags)</td></tr>
+<tr class="separator:aa31ca078f363c5d5f6cfabcc4126fa9b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a85c9c9320e8fa0c673e75d11d7e7b91c"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d11/a08644.html#a85c9c9320e8fa0c673e75d11d7e7b91c">HasFriend</a> (<a class="el" href="../../db/d20/a08420.html">ObjectGuid</a> friend_guid) const</td></tr>
+<tr class="separator:a85c9c9320e8fa0c673e75d11d7e7b91c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab4a6c0eab682fbdfa98a0a71fa6aced8"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d11/a08644.html#ab4a6c0eab682fbdfa98a0a71fa6aced8">HasIgnore</a> (<a class="el" href="../../db/d20/a08420.html">ObjectGuid</a> ignore_guid) const</td></tr>
+<tr class="separator:ab4a6c0eab682fbdfa98a0a71fa6aced8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa14bba47d54e94391d494a6752d45949"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d20/a08420.html">ObjectGuid</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d11/a08644.html#aa14bba47d54e94391d494a6752d45949">GetPlayerGUID</a> () const</td></tr>
+<tr class="separator:aa14bba47d54e94391d494a6752d45949"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af913d007399dede4ddf59c2811fc3b8a"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d11/a08644.html#af913d007399dede4ddf59c2811fc3b8a">SetPlayerGUID</a> (<a class="el" href="../../db/d20/a08420.html">ObjectGuid</a> guid)</td></tr>
+<tr class="separator:af913d007399dede4ddf59c2811fc3b8a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad4b6d7563aa448307c71fd01d0b748c3"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d11/a08644.html#ad4b6d7563aa448307c71fd01d0b748c3">GetNumberOfSocialsWithFlag</a> (<a class="el" href="../../df/d9a/a01715.html#ad0ac931a69e6d8885728cb1fca06fc6e">SocialFlag</a> flag) const</td></tr>
+<tr class="separator:ad4b6d7563aa448307c71fd01d0b748c3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-types" name="pri-types"></a>
+Private Types</h2></td></tr>
+<tr class="memitem:abfb2167fc86ea41b8cf66eebdaa95ceb"><td class="memItemLeft" align="right" valign="top">typedef std::map&lt; <a class="el" href="../../db/d20/a08420.html">ObjectGuid</a>, <a class="el" href="../../d4/d2b/a08640.html">FriendInfo</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d11/a08644.html#abfb2167fc86ea41b8cf66eebdaa95ceb">PlayerSocialMap</a></td></tr>
+<tr class="separator:abfb2167fc86ea41b8cf66eebdaa95ceb"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-methods" name="pri-methods"></a>
 Private Member Functions</h2></td></tr>
-<tr class="memitem:a970e3a0d295495973bda1ff5b4732055"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d11/a08644.html#a970e3a0d295495973bda1ff5b4732055">Update</a> (bool for_trader=true)</td></tr>
-<tr class="separator:a970e3a0d295495973bda1ff5b4732055"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a56e7be93e0ed5e55e21c2b827e73f16b"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d11/a08644.html#a56e7be93e0ed5e55e21c2b827e73f16b">_checkContact</a> (<a class="el" href="../../db/d20/a08420.html">ObjectGuid</a> guid, <a class="el" href="../../df/d9a/a01715.html#ad0ac931a69e6d8885728cb1fca06fc6e">SocialFlag</a> flags) const</td></tr>
+<tr class="separator:a56e7be93e0ed5e55e21c2b827e73f16b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
-<tr class="memitem:aa19e7f2622b315f9cc75531999b795f4"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d93/a08612.html">Player</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d11/a08644.html#aa19e7f2622b315f9cc75531999b795f4">m_player</a></td></tr>
-<tr class="separator:aa19e7f2622b315f9cc75531999b795f4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae9c8547f43701f0693fd16df84ae2543"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d93/a08612.html">Player</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d11/a08644.html#ae9c8547f43701f0693fd16df84ae2543">m_trader</a></td></tr>
-<tr class="separator:ae9c8547f43701f0693fd16df84ae2543"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af2d924a288687047f4d6a47f81025a00"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d11/a08644.html#af2d924a288687047f4d6a47f81025a00">m_accepted</a></td></tr>
-<tr class="separator:af2d924a288687047f4d6a47f81025a00"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1e585dd9ed486381a55e108a709e4db3"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d11/a08644.html#a1e585dd9ed486381a55e108a709e4db3">m_acceptProccess</a></td></tr>
-<tr class="separator:a1e585dd9ed486381a55e108a709e4db3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab5e22a1c07812f11d8692f6e1daf52c9"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d11/a08644.html#ab5e22a1c07812f11d8692f6e1daf52c9">m_money</a></td></tr>
-<tr class="separator:ab5e22a1c07812f11d8692f6e1daf52c9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a291fdc4207d594982a780485b960f6fa"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d11/a08644.html#a291fdc4207d594982a780485b960f6fa">m_spell</a></td></tr>
-<tr class="separator:a291fdc4207d594982a780485b960f6fa"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:adb76e2e7f01cc6f1ee4579ee177ba9c1"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d48/a08412.html">ObjectGuid</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d11/a08644.html#adb76e2e7f01cc6f1ee4579ee177ba9c1">m_spellCastItem</a></td></tr>
-<tr class="separator:adb76e2e7f01cc6f1ee4579ee177ba9c1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac27f6047b7585f8b3ef069af68851965"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d48/a08412.html">ObjectGuid</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d11/a08644.html#ac27f6047b7585f8b3ef069af68851965">m_items</a> [<a class="el" href="../../d9/d0d/a01748.html#ad8fd978c4198825d89a1f02643d20c62a1e8d56a5a22d784c5d388fd8bd206488">TRADE_SLOT_COUNT</a>]</td></tr>
-<tr class="separator:ac27f6047b7585f8b3ef069af68851965"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a608444605a276e67a868b7ceac94a954"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d11/a08644.html#abfb2167fc86ea41b8cf66eebdaa95ceb">PlayerSocialMap</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d11/a08644.html#a608444605a276e67a868b7ceac94a954">m_playerSocialMap</a></td></tr>
+<tr class="separator:a608444605a276e67a868b7ceac94a954"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:accf6a40286cca75dd9d5eed8cc3c6790"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d20/a08420.html">ObjectGuid</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d11/a08644.html#accf6a40286cca75dd9d5eed8cc3c6790">m_playerGUID</a></td></tr>
+<tr class="separator:accf6a40286cca75dd9d5eed8cc3c6790"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="friends" name="friends"></a>
+Friends</h2></td></tr>
+<tr class="memitem:ac90a13e772eca1f96d98f76cfc8bf396"><td class="memItemLeft" align="right" valign="top">class&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d11/a08644.html#ac90a13e772eca1f96d98f76cfc8bf396">SocialMgr</a></td></tr>
+<tr class="separator:ac90a13e772eca1f96d98f76cfc8bf396"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="ac2bfab37acbdb9fd955d8f2ee8876b79" name="ac2bfab37acbdb9fd955d8f2ee8876b79"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac2bfab37acbdb9fd955d8f2ee8876b79">&#9670;&#160;</a></span>TradeData()</h2>
+<div class="textblock"></div><h2 class="groupheader">Member Typedef Documentation</h2>
+<a id="abfb2167fc86ea41b8cf66eebdaa95ceb" name="abfb2167fc86ea41b8cf66eebdaa95ceb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abfb2167fc86ea41b8cf66eebdaa95ceb">&#9670;&#160;</a></span>PlayerSocialMap</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -188,16 +174,353 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">TradeData::TradeData </td>
+          <td class="memname">typedef std::map&lt;<a class="el" href="../../db/d20/a08420.html">ObjectGuid</a>, <a class="el" href="../../d4/d2b/a08640.html">FriendInfo</a>&gt; <a class="el" href="../../d3/d11/a08644.html#abfb2167fc86ea41b8cf66eebdaa95ceb">PlayerSocial::PlayerSocialMap</a></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="ad505f01fad548b70cf070a86dce40278" name="ad505f01fad548b70cf070a86dce40278"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad505f01fad548b70cf070a86dce40278">&#9670;&#160;</a></span>PlayerSocial()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">PlayerSocial::PlayerSocial </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d8/d93/a08612.html">Player</a> *&#160;</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   27</span>: <a class="code hl_variable" href="../../d3/d11/a08644.html#accf6a40286cca75dd9d5eed8cc3c6790">m_playerGUID</a>() { }</div>
+<div class="ttc" id="aa08644_html_accf6a40286cca75dd9d5eed8cc3c6790"><div class="ttname"><a href="../../d3/d11/a08644.html#accf6a40286cca75dd9d5eed8cc3c6790">PlayerSocial::m_playerGUID</a></div><div class="ttdeci">ObjectGuid m_playerGUID</div><div class="ttdef"><b>Definition:</b> SocialMgr.h:122</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="a56e7be93e0ed5e55e21c2b827e73f16b" name="a56e7be93e0ed5e55e21c2b827e73f16b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a56e7be93e0ed5e55e21c2b827e73f16b">&#9670;&#160;</a></span>_checkContact()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool PlayerSocial::_checkContact </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../db/d20/a08420.html">ObjectGuid</a>&#160;</td>
+          <td class="paramname"><em>guid</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../df/d9a/a01715.html#ad0ac931a69e6d8885728cb1fca06fc6e">SocialFlag</a>&#160;</td>
+          <td class="paramname"><em>flags</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  180</span>{</div>
+<div class="line"><span class="lineno">  181</span>    <span class="keyword">auto</span> <span class="keyword">const</span>&amp; itr = <a class="code hl_variable" href="../../d3/d11/a08644.html#a608444605a276e67a868b7ceac94a954">m_playerSocialMap</a>.find(guid);</div>
+<div class="line"><span class="lineno">  182</span>    <span class="keywordflow">if</span> (itr != <a class="code hl_variable" href="../../d3/d11/a08644.html#a608444605a276e67a868b7ceac94a954">m_playerSocialMap</a>.end())</div>
+<div class="line"><span class="lineno">  183</span>        <span class="keywordflow">return</span> (itr-&gt;second.Flags &amp; flags) != 0;</div>
+<div class="line"><span class="lineno">  184</span> </div>
+<div class="line"><span class="lineno">  185</span>    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  186</span>}</div>
+<div class="ttc" id="aa08644_html_a608444605a276e67a868b7ceac94a954"><div class="ttname"><a href="../../d3/d11/a08644.html#a608444605a276e67a868b7ceac94a954">PlayerSocial::m_playerSocialMap</a></div><div class="ttdeci">PlayerSocialMap m_playerSocialMap</div><div class="ttdef"><b>Definition:</b> SocialMgr.h:121</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00121">m_playerSocialMap</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00188">HasFriend()</a>, and <a class="el" href="../../#l00193">HasIgnore()</a>.</p>
+
+</div>
+</div>
+<a id="ae21a947058622c611f8ffc1430f7f3c3" name="ae21a947058622c611f8ffc1430f7f3c3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae21a947058622c611f8ffc1430f7f3c3">&#9670;&#160;</a></span>AddToSocialList()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool PlayerSocial::AddToSocialList </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../db/d20/a08420.html">ObjectGuid</a>&#160;</td>
+          <td class="paramname"><em>friend_guid</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../df/d9a/a01715.html#ad0ac931a69e6d8885728cb1fca06fc6e">SocialFlag</a>&#160;</td>
+          <td class="paramname"><em>flag</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   41</span>{</div>
+<div class="line"><span class="lineno">   42</span>    <span class="comment">// check client limits</span></div>
+<div class="line"><span class="lineno">   43</span>    <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d3/d11/a08644.html#ad4b6d7563aa448307c71fd01d0b748c3">GetNumberOfSocialsWithFlag</a>(flag) &gt;= (((flag &amp; <a class="code hl_enumvalue" href="../../df/d9a/a01715.html#ad0ac931a69e6d8885728cb1fca06fc6ea88e902cf380604f7dde5102ae54cfb63">SOCIAL_FLAG_FRIEND</a>) != 0) ? <a class="code hl_define" href="../../df/d9a/a01715.html#afd83098f3a1e072e6ae7e54b799c5a49">SOCIALMGR_FRIEND_LIMIT</a> : <a class="code hl_define" href="../../df/d9a/a01715.html#ad75bdebf3d450d178eb4945e1b484ff3">SOCIALMGR_IGNORE_LIMIT</a>))</div>
+<div class="line"><span class="lineno">   44</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">   45</span> </div>
+<div class="line"><span class="lineno">   46</span>    <span class="keyword">auto</span> itr = <a class="code hl_variable" href="../../d3/d11/a08644.html#a608444605a276e67a868b7ceac94a954">m_playerSocialMap</a>.find(friendGuid);</div>
+<div class="line"><span class="lineno">   47</span>    <span class="keywordflow">if</span> (itr != <a class="code hl_variable" href="../../d3/d11/a08644.html#a608444605a276e67a868b7ceac94a954">m_playerSocialMap</a>.end())</div>
+<div class="line"><span class="lineno">   48</span>    {</div>
+<div class="line"><span class="lineno">   49</span>        itr-&gt;second.Flags |= flag;</div>
+<div class="line"><span class="lineno">   50</span> </div>
+<div class="line"><span class="lineno">   51</span>        <a class="code hl_class" href="../../d4/d0d/a05692.html">CharacterDatabasePreparedStatement</a>* stmt = <a class="code hl_variable" href="../../de/d93/a04235.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.GetPreparedStatement(<a class="code hl_enumvalue" href="../../df/d4b/a04169.html#a76116b4fa282d8e35bf8f8e940b5cba7ade438f760bf0fd1b7191dee9136273f0">CHAR_UPD_ADD_CHARACTER_SOCIAL_FLAGS</a>);</div>
+<div class="line"><span class="lineno">   52</span> </div>
+<div class="line"><span class="lineno">   53</span>        stmt-&gt;<a class="code hl_function" href="../../d0/ddb/a05824.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(0, itr-&gt;second.Flags);</div>
+<div class="line"><span class="lineno">   54</span>        stmt-&gt;<a class="code hl_function" href="../../d0/ddb/a05824.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(1, <a class="code hl_function" href="../../d3/d11/a08644.html#aa14bba47d54e94391d494a6752d45949">GetPlayerGUID</a>().GetCounter());</div>
+<div class="line"><span class="lineno">   55</span>        stmt-&gt;<a class="code hl_function" href="../../d0/ddb/a05824.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(2, friendGuid.GetCounter());</div>
+<div class="line"><span class="lineno">   56</span> </div>
+<div class="line"><span class="lineno">   57</span>        <a class="code hl_variable" href="../../de/d93/a04235.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.Execute(stmt);</div>
+<div class="line"><span class="lineno">   58</span>    }</div>
+<div class="line"><span class="lineno">   59</span>    <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">   60</span>    {</div>
+<div class="line"><span class="lineno">   61</span>        <a class="code hl_variable" href="../../d3/d11/a08644.html#a608444605a276e67a868b7ceac94a954">m_playerSocialMap</a>[friendGuid].Flags |= flag;</div>
+<div class="line"><span class="lineno">   62</span> </div>
+<div class="line"><span class="lineno">   63</span>        <a class="code hl_class" href="../../d4/d0d/a05692.html">CharacterDatabasePreparedStatement</a>* stmt = <a class="code hl_variable" href="../../de/d93/a04235.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.GetPreparedStatement(<a class="code hl_enumvalue" href="../../df/d4b/a04169.html#a76116b4fa282d8e35bf8f8e940b5cba7acf32ff7992d507bb8c2cc30d94085439">CHAR_INS_CHARACTER_SOCIAL</a>);</div>
+<div class="line"><span class="lineno">   64</span> </div>
+<div class="line"><span class="lineno">   65</span>        stmt-&gt;<a class="code hl_function" href="../../d0/ddb/a05824.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(0, <a class="code hl_function" href="../../d3/d11/a08644.html#aa14bba47d54e94391d494a6752d45949">GetPlayerGUID</a>().GetCounter());</div>
+<div class="line"><span class="lineno">   66</span>        stmt-&gt;<a class="code hl_function" href="../../d0/ddb/a05824.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(1, friendGuid.GetCounter());</div>
+<div class="line"><span class="lineno">   67</span>        stmt-&gt;<a class="code hl_function" href="../../d0/ddb/a05824.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(2, flag);</div>
+<div class="line"><span class="lineno">   68</span> </div>
+<div class="line"><span class="lineno">   69</span>        <a class="code hl_variable" href="../../de/d93/a04235.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.Execute(stmt);</div>
+<div class="line"><span class="lineno">   70</span>    }</div>
+<div class="line"><span class="lineno">   71</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">   72</span>}</div>
+<div class="ttc" id="aa01715_html_ad0ac931a69e6d8885728cb1fca06fc6ea88e902cf380604f7dde5102ae54cfb63"><div class="ttname"><a href="../../df/d9a/a01715.html#ad0ac931a69e6d8885728cb1fca06fc6ea88e902cf380604f7dde5102ae54cfb63">SOCIAL_FLAG_FRIEND</a></div><div class="ttdeci">@ SOCIAL_FLAG_FRIEND</div><div class="ttdef"><b>Definition:</b> SocialMgr.h:39</div></div>
+<div class="ttc" id="aa01715_html_ad75bdebf3d450d178eb4945e1b484ff3"><div class="ttname"><a href="../../df/d9a/a01715.html#ad75bdebf3d450d178eb4945e1b484ff3">SOCIALMGR_IGNORE_LIMIT</a></div><div class="ttdeci">#define SOCIALMGR_IGNORE_LIMIT</div><div class="ttdef"><b>Definition:</b> SocialMgr.h:98</div></div>
+<div class="ttc" id="aa01715_html_afd83098f3a1e072e6ae7e54b799c5a49"><div class="ttname"><a href="../../df/d9a/a01715.html#afd83098f3a1e072e6ae7e54b799c5a49">SOCIALMGR_FRIEND_LIMIT</a></div><div class="ttdeci">#define SOCIALMGR_FRIEND_LIMIT</div><div class="ttdef"><b>Definition:</b> SocialMgr.h:97</div></div>
+<div class="ttc" id="aa04169_html_a76116b4fa282d8e35bf8f8e940b5cba7acf32ff7992d507bb8c2cc30d94085439"><div class="ttname"><a href="../../df/d4b/a04169.html#a76116b4fa282d8e35bf8f8e940b5cba7acf32ff7992d507bb8c2cc30d94085439">CHAR_INS_CHARACTER_SOCIAL</a></div><div class="ttdeci">@ CHAR_INS_CHARACTER_SOCIAL</div><div class="ttdef"><b>Definition:</b> CharacterDatabase.h:321</div></div>
+<div class="ttc" id="aa04169_html_a76116b4fa282d8e35bf8f8e940b5cba7ade438f760bf0fd1b7191dee9136273f0"><div class="ttname"><a href="../../df/d4b/a04169.html#a76116b4fa282d8e35bf8f8e940b5cba7ade438f760bf0fd1b7191dee9136273f0">CHAR_UPD_ADD_CHARACTER_SOCIAL_FLAGS</a></div><div class="ttdeci">@ CHAR_UPD_ADD_CHARACTER_SOCIAL_FLAGS</div><div class="ttdef"><b>Definition:</b> CharacterDatabase.h:319</div></div>
+<div class="ttc" id="aa04235_html_a7e7534bc66d79434bd280b77cb124eec"><div class="ttname"><a href="../../de/d93/a04235.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a></div><div class="ttdeci">DatabaseWorkerPool&lt; CharacterDatabaseConnection &gt; CharacterDatabase</div><div class="ttdoc">Accessor to the character database.</div><div class="ttdef"><b>Definition:</b> DatabaseEnv.cpp:21</div></div>
+<div class="ttc" id="aa05692_html"><div class="ttname"><a href="../../d4/d0d/a05692.html">PreparedStatement</a></div><div class="ttdef"><b>Definition:</b> PreparedStatement.h:157</div></div>
+<div class="ttc" id="aa05824_html_a52fc2e65042c1db51f0923725a0f0ed0"><div class="ttname"><a href="../../d0/ddb/a05824.html#a52fc2e65042c1db51f0923725a0f0ed0">PreparedStatementBase::SetData</a></div><div class="ttdeci">Acore::Types::is_default&lt; T &gt; SetData(const uint8 index, T value)</div><div class="ttdef"><b>Definition:</b> PreparedStatement.h:77</div></div>
+<div class="ttc" id="aa08644_html_aa14bba47d54e94391d494a6752d45949"><div class="ttname"><a href="../../d3/d11/a08644.html#aa14bba47d54e94391d494a6752d45949">PlayerSocial::GetPlayerGUID</a></div><div class="ttdeci">ObjectGuid GetPlayerGUID() const</div><div class="ttdef"><b>Definition:</b> SocialMgr.h:115</div></div>
+<div class="ttc" id="aa08644_html_ad4b6d7563aa448307c71fd01d0b748c3"><div class="ttname"><a href="../../d3/d11/a08644.html#ad4b6d7563aa448307c71fd01d0b748c3">PlayerSocial::GetNumberOfSocialsWithFlag</a></div><div class="ttdeci">uint32 GetNumberOfSocialsWithFlag(SocialFlag flag) const</div><div class="ttdef"><b>Definition:</b> SocialMgr.cpp:29</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00321">CHAR_INS_CHARACTER_SOCIAL</a>, <a class="el" href="../../#l00319">CHAR_UPD_ADD_CHARACTER_SOCIAL_FLAGS</a>, <a class="el" href="../../#l00021">CharacterDatabase</a>, <a class="el" href="../../#l00145">ObjectGuid::GetCounter()</a>, <a class="el" href="../../#l00029">GetNumberOfSocialsWithFlag()</a>, <a class="el" href="../../#l00115">GetPlayerGUID()</a>, <a class="el" href="../../#l00121">m_playerSocialMap</a>, <a class="el" href="../../#l00077">PreparedStatementBase::SetData()</a>, <a class="el" href="../../#l00039">SOCIAL_FLAG_FRIEND</a>, <a class="el" href="../../#l00097">SOCIALMGR_FRIEND_LIMIT</a>, and <a class="el" href="../../#l00098">SOCIALMGR_IGNORE_LIMIT</a>.</p>
+
+</div>
+</div>
+<a id="ad4b6d7563aa448307c71fd01d0b748c3" name="ad4b6d7563aa448307c71fd01d0b748c3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad4b6d7563aa448307c71fd01d0b748c3">&#9670;&#160;</a></span>GetNumberOfSocialsWithFlag()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> PlayerSocial::GetNumberOfSocialsWithFlag </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../df/d9a/a01715.html#ad0ac931a69e6d8885728cb1fca06fc6e">SocialFlag</a>&#160;</td>
+          <td class="paramname"><em>flag</em></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   30</span>{</div>
+<div class="line"><span class="lineno">   31</span>    <a class="code hl_typedef" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> counter = 0;</div>
+<div class="line"><span class="lineno">   32</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; itr : <a class="code hl_variable" href="../../d3/d11/a08644.html#a608444605a276e67a868b7ceac94a954">m_playerSocialMap</a>)</div>
+<div class="line"><span class="lineno">   33</span>    {</div>
+<div class="line"><span class="lineno">   34</span>        <span class="keywordflow">if</span> ((itr.second.Flags &amp; flag) != 0)</div>
+<div class="line"><span class="lineno">   35</span>            ++counter;</div>
+<div class="line"><span class="lineno">   36</span>    }</div>
+<div class="line"><span class="lineno">   37</span>    <span class="keywordflow">return</span> counter;</div>
+<div class="line"><span class="lineno">   38</span>}</div>
+<div class="ttc" id="aa04307_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00121">m_playerSocialMap</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00040">AddToSocialList()</a>.</p>
+
+</div>
+</div>
+<a id="aa14bba47d54e94391d494a6752d45949" name="aa14bba47d54e94391d494a6752d45949"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa14bba47d54e94391d494a6752d45949">&#9670;&#160;</a></span>GetPlayerGUID()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../db/d20/a08420.html">ObjectGuid</a> PlayerSocial::GetPlayerGUID </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  115</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d3/d11/a08644.html#accf6a40286cca75dd9d5eed8cc3c6790">m_playerGUID</a>; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00122">m_playerGUID</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00040">AddToSocialList()</a>, <a class="el" href="../../#l00074">RemoveFromSocialList()</a>, and <a class="el" href="../../#l00105">SetFriendNote()</a>.</p>
+
+</div>
+</div>
+<a id="a85c9c9320e8fa0c673e75d11d7e7b91c" name="a85c9c9320e8fa0c673e75d11d7e7b91c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a85c9c9320e8fa0c673e75d11d7e7b91c">&#9670;&#160;</a></span>HasFriend()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool PlayerSocial::HasFriend </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../db/d20/a08420.html">ObjectGuid</a>&#160;</td>
+          <td class="paramname"><em>friend_guid</em></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  189</span>{</div>
+<div class="line"><span class="lineno">  190</span>    <span class="keywordflow">return</span> <a class="code hl_function" href="../../d3/d11/a08644.html#a56e7be93e0ed5e55e21c2b827e73f16b">_checkContact</a>(friend_guid, <a class="code hl_enumvalue" href="../../df/d9a/a01715.html#ad0ac931a69e6d8885728cb1fca06fc6ea88e902cf380604f7dde5102ae54cfb63">SOCIAL_FLAG_FRIEND</a>);</div>
+<div class="line"><span class="lineno">  191</span>}</div>
+<div class="ttc" id="aa08644_html_a56e7be93e0ed5e55e21c2b827e73f16b"><div class="ttname"><a href="../../d3/d11/a08644.html#a56e7be93e0ed5e55e21c2b827e73f16b">PlayerSocial::_checkContact</a></div><div class="ttdeci">bool _checkContact(ObjectGuid guid, SocialFlag flags) const</div><div class="ttdef"><b>Definition:</b> SocialMgr.cpp:179</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00179">_checkContact()</a>, and <a class="el" href="../../#l00039">SOCIAL_FLAG_FRIEND</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00064">WorldSession::HandleGroupInviteOpcode()</a>.</p>
+
+</div>
+</div>
+<a id="ab4a6c0eab682fbdfa98a0a71fa6aced8" name="ab4a6c0eab682fbdfa98a0a71fa6aced8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab4a6c0eab682fbdfa98a0a71fa6aced8">&#9670;&#160;</a></span>HasIgnore()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool PlayerSocial::HasIgnore </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../db/d20/a08420.html">ObjectGuid</a>&#160;</td>
+          <td class="paramname"><em>ignore_guid</em></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  194</span>{</div>
+<div class="line"><span class="lineno">  195</span>    <span class="keywordflow">return</span> <a class="code hl_function" href="../../d3/d11/a08644.html#a56e7be93e0ed5e55e21c2b827e73f16b">_checkContact</a>(ignore_guid, <a class="code hl_enumvalue" href="../../df/d9a/a01715.html#ad0ac931a69e6d8885728cb1fca06fc6ea97d7bfbfcb1e9318134f55b72f5fdf2c">SOCIAL_FLAG_IGNORED</a>);</div>
+<div class="line"><span class="lineno">  196</span>}</div>
+<div class="ttc" id="aa01715_html_ad0ac931a69e6d8885728cb1fca06fc6ea97d7bfbfcb1e9318134f55b72f5fdf2c"><div class="ttname"><a href="../../df/d9a/a01715.html#ad0ac931a69e6d8885728cb1fca06fc6ea97d7bfbfcb1e9318134f55b72f5fdf2c">SOCIAL_FLAG_IGNORED</a></div><div class="ttdeci">@ SOCIAL_FLAG_IGNORED</div><div class="ttdef"><b>Definition:</b> SocialMgr.h:40</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00179">_checkContact()</a>, and <a class="el" href="../../#l00040">SOCIAL_FLAG_IGNORED</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l04096">Spell::EffectDuel()</a>, <a class="el" href="../../#l00084">WorldSession::HandleArenaTeamInviteOpcode()</a>, <a class="el" href="../../#l00064">WorldSession::HandleGroupInviteOpcode()</a>, <a class="el" href="../../#l01433">Guild::HandleInviteMember()</a>, <a class="el" href="../../#l02623">lfg::LFGMgr::HasIgnore()</a>, and <a class="el" href="../../#l00805">Channel::Invite()</a>.</p>
+
+</div>
+</div>
+<a id="a8fb0fc85204ea32cc000a2d711f1245b" name="a8fb0fc85204ea32cc000a2d711f1245b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8fb0fc85204ea32cc000a2d711f1245b">&#9670;&#160;</a></span>RemoveFromSocialList()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void PlayerSocial::RemoveFromSocialList </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../db/d20/a08420.html">ObjectGuid</a>&#160;</td>
+          <td class="paramname"><em>friend_guid</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../df/d9a/a01715.html#ad0ac931a69e6d8885728cb1fca06fc6e">SocialFlag</a>&#160;</td>
+          <td class="paramname"><em>flag</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   75</span>{</div>
+<div class="line"><span class="lineno">   76</span>    <span class="keyword">auto</span> itr = <a class="code hl_variable" href="../../d3/d11/a08644.html#a608444605a276e67a868b7ceac94a954">m_playerSocialMap</a>.find(friendGuid);</div>
+<div class="line"><span class="lineno">   77</span>    <span class="keywordflow">if</span> (itr == <a class="code hl_variable" href="../../d3/d11/a08644.html#a608444605a276e67a868b7ceac94a954">m_playerSocialMap</a>.end())                     <span class="comment">// not exist</span></div>
+<div class="line"><span class="lineno">   78</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">   79</span> </div>
+<div class="line"><span class="lineno">   80</span>    itr-&gt;second.Flags &amp;= ~flag;</div>
+<div class="line"><span class="lineno">   81</span> </div>
+<div class="line"><span class="lineno">   82</span>    <span class="keywordflow">if</span> (itr-&gt;second.Flags == 0)</div>
+<div class="line"><span class="lineno">   83</span>    {</div>
+<div class="line"><span class="lineno">   84</span>        <a class="code hl_class" href="../../d4/d0d/a05692.html">CharacterDatabasePreparedStatement</a>* stmt = <a class="code hl_variable" href="../../de/d93/a04235.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.GetPreparedStatement(<a class="code hl_enumvalue" href="../../df/d4b/a04169.html#a76116b4fa282d8e35bf8f8e940b5cba7ab4cfb6f19a72ada9181404129301f2b6">CHAR_DEL_CHARACTER_SOCIAL</a>);</div>
+<div class="line"><span class="lineno">   85</span> </div>
+<div class="line"><span class="lineno">   86</span>        stmt-&gt;<a class="code hl_function" href="../../d0/ddb/a05824.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(0, <a class="code hl_function" href="../../d3/d11/a08644.html#aa14bba47d54e94391d494a6752d45949">GetPlayerGUID</a>().GetCounter());</div>
+<div class="line"><span class="lineno">   87</span>        stmt-&gt;<a class="code hl_function" href="../../d0/ddb/a05824.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(1, friendGuid.GetCounter());</div>
+<div class="line"><span class="lineno">   88</span> </div>
+<div class="line"><span class="lineno">   89</span>        <a class="code hl_variable" href="../../de/d93/a04235.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.Execute(stmt);</div>
+<div class="line"><span class="lineno">   90</span> </div>
+<div class="line"><span class="lineno">   91</span>        <a class="code hl_variable" href="../../d3/d11/a08644.html#a608444605a276e67a868b7ceac94a954">m_playerSocialMap</a>.erase(itr);</div>
+<div class="line"><span class="lineno">   92</span>    }</div>
+<div class="line"><span class="lineno">   93</span>    <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">   94</span>    {</div>
+<div class="line"><span class="lineno">   95</span>        <a class="code hl_class" href="../../d4/d0d/a05692.html">CharacterDatabasePreparedStatement</a>* stmt = <a class="code hl_variable" href="../../de/d93/a04235.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.GetPreparedStatement(<a class="code hl_enumvalue" href="../../df/d4b/a04169.html#a76116b4fa282d8e35bf8f8e940b5cba7aae9a7692c8344418d3cbffb5ec6a0bbf">CHAR_UPD_REM_CHARACTER_SOCIAL_FLAGS</a>);</div>
+<div class="line"><span class="lineno">   96</span> </div>
+<div class="line"><span class="lineno">   97</span>        stmt-&gt;<a class="code hl_function" href="../../d0/ddb/a05824.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(0, flag);</div>
+<div class="line"><span class="lineno">   98</span>        stmt-&gt;<a class="code hl_function" href="../../d0/ddb/a05824.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(1, <a class="code hl_function" href="../../d3/d11/a08644.html#aa14bba47d54e94391d494a6752d45949">GetPlayerGUID</a>().GetCounter());</div>
+<div class="line"><span class="lineno">   99</span>        stmt-&gt;<a class="code hl_function" href="../../d0/ddb/a05824.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(2, friendGuid.GetCounter());</div>
+<div class="line"><span class="lineno">  100</span> </div>
+<div class="line"><span class="lineno">  101</span>        <a class="code hl_variable" href="../../de/d93/a04235.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.Execute(stmt);</div>
+<div class="line"><span class="lineno">  102</span>    }</div>
+<div class="line"><span class="lineno">  103</span>}</div>
+<div class="ttc" id="aa04169_html_a76116b4fa282d8e35bf8f8e940b5cba7aae9a7692c8344418d3cbffb5ec6a0bbf"><div class="ttname"><a href="../../df/d4b/a04169.html#a76116b4fa282d8e35bf8f8e940b5cba7aae9a7692c8344418d3cbffb5ec6a0bbf">CHAR_UPD_REM_CHARACTER_SOCIAL_FLAGS</a></div><div class="ttdeci">@ CHAR_UPD_REM_CHARACTER_SOCIAL_FLAGS</div><div class="ttdef"><b>Definition:</b> CharacterDatabase.h:320</div></div>
+<div class="ttc" id="aa04169_html_a76116b4fa282d8e35bf8f8e940b5cba7ab4cfb6f19a72ada9181404129301f2b6"><div class="ttname"><a href="../../df/d4b/a04169.html#a76116b4fa282d8e35bf8f8e940b5cba7ab4cfb6f19a72ada9181404129301f2b6">CHAR_DEL_CHARACTER_SOCIAL</a></div><div class="ttdeci">@ CHAR_DEL_CHARACTER_SOCIAL</div><div class="ttdef"><b>Definition:</b> CharacterDatabase.h:322</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00322">CHAR_DEL_CHARACTER_SOCIAL</a>, <a class="el" href="../../#l00320">CHAR_UPD_REM_CHARACTER_SOCIAL_FLAGS</a>, <a class="el" href="../../#l00021">CharacterDatabase</a>, <a class="el" href="../../#l00145">ObjectGuid::GetCounter()</a>, <a class="el" href="../../#l00115">GetPlayerGUID()</a>, <a class="el" href="../../#l00121">m_playerSocialMap</a>, and <a class="el" href="../../#l00077">PreparedStatementBase::SetData()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00091">WorldSession::HandleDelFriendOpcode()</a>, and <a class="el" href="../../#l00138">WorldSession::HandleDelIgnoreOpcode()</a>.</p>
+
+</div>
+</div>
+<a id="aa31ca078f363c5d5f6cfabcc4126fa9b" name="aa31ca078f363c5d5f6cfabcc4126fa9b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa31ca078f363c5d5f6cfabcc4126fa9b">&#9670;&#160;</a></span>SendSocialList()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void PlayerSocial::SendSocialList </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../dc/de6/a08620.html">Player</a> *&#160;</td>
           <td class="paramname"><em>player</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../d8/d93/a08612.html">Player</a> *&#160;</td>
-          <td class="paramname"><em>trader</em>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>flags</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -205,344 +528,98 @@ Private Attributes</h2></td></tr>
           <td></td><td></td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   38</span>                                              :</div>
-<div class="line"><span class="lineno">   39</span>        <a class="code hl_variable" href="../../d3/d11/a08644.html#aa19e7f2622b315f9cc75531999b795f4">m_player</a>(player),  <a class="code hl_variable" href="../../d3/d11/a08644.html#ae9c8547f43701f0693fd16df84ae2543">m_trader</a>(trader), <a class="code hl_variable" href="../../d3/d11/a08644.html#af2d924a288687047f4d6a47f81025a00">m_accepted</a>(<span class="keyword">false</span>), <a class="code hl_variable" href="../../d3/d11/a08644.html#a1e585dd9ed486381a55e108a709e4db3">m_acceptProccess</a>(<span class="keyword">false</span>), <a class="code hl_variable" href="../../d3/d11/a08644.html#ab5e22a1c07812f11d8692f6e1daf52c9">m_money</a>(0), <a class="code hl_variable" href="../../d3/d11/a08644.html#a291fdc4207d594982a780485b960f6fa">m_spell</a>(0) { }</div>
-<div class="ttc" id="aa08644_html_a1e585dd9ed486381a55e108a709e4db3"><div class="ttname"><a href="../../d3/d11/a08644.html#a1e585dd9ed486381a55e108a709e4db3">TradeData::m_acceptProccess</a></div><div class="ttdeci">bool m_acceptProccess</div><div class="ttdef"><b>Definition:</b> TradeData.h:72</div></div>
-<div class="ttc" id="aa08644_html_a291fdc4207d594982a780485b960f6fa"><div class="ttname"><a href="../../d3/d11/a08644.html#a291fdc4207d594982a780485b960f6fa">TradeData::m_spell</a></div><div class="ttdeci">uint32 m_spell</div><div class="ttdef"><b>Definition:</b> TradeData.h:76</div></div>
-<div class="ttc" id="aa08644_html_aa19e7f2622b315f9cc75531999b795f4"><div class="ttname"><a href="../../d3/d11/a08644.html#aa19e7f2622b315f9cc75531999b795f4">TradeData::m_player</a></div><div class="ttdeci">Player * m_player</div><div class="ttdef"><b>Definition:</b> TradeData.h:68</div></div>
-<div class="ttc" id="aa08644_html_ab5e22a1c07812f11d8692f6e1daf52c9"><div class="ttname"><a href="../../d3/d11/a08644.html#ab5e22a1c07812f11d8692f6e1daf52c9">TradeData::m_money</a></div><div class="ttdeci">uint32 m_money</div><div class="ttdef"><b>Definition:</b> TradeData.h:74</div></div>
-<div class="ttc" id="aa08644_html_ae9c8547f43701f0693fd16df84ae2543"><div class="ttname"><a href="../../d3/d11/a08644.html#ae9c8547f43701f0693fd16df84ae2543">TradeData::m_trader</a></div><div class="ttdeci">Player * m_trader</div><div class="ttdef"><b>Definition:</b> TradeData.h:69</div></div>
-<div class="ttc" id="aa08644_html_af2d924a288687047f4d6a47f81025a00"><div class="ttname"><a href="../../d3/d11/a08644.html#af2d924a288687047f4d6a47f81025a00">TradeData::m_accepted</a></div><div class="ttdeci">bool m_accepted</div><div class="ttdef"><b>Definition:</b> TradeData.h:71</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  125</span>{</div>
+<div class="line"><span class="lineno">  126</span>    <span class="keywordflow">if</span> (!player)</div>
+<div class="line"><span class="lineno">  127</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  128</span> </div>
+<div class="line"><span class="lineno">  129</span>    <a class="code hl_typedef" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> friendsCount = 0;</div>
+<div class="line"><span class="lineno">  130</span>    <a class="code hl_typedef" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ignoredCount = 0;</div>
+<div class="line"><span class="lineno">  131</span>    <a class="code hl_typedef" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> totalCount = 0;</div>
+<div class="line"><span class="lineno">  132</span> </div>
+<div class="line"><span class="lineno">  133</span>    <a class="code hl_class" href="../../d0/d19/a11012.html">WorldPacket</a> data(<a class="code hl_enumvalue" href="../../db/da6/a04782.html#gga1073b6abb3a749f18bf1633020879e9bae7783eee2f9846fcf6fdceca15ef238c">SMSG_CONTACT_LIST</a>, (4 + 4 + <a class="code hl_variable" href="../../d3/d11/a08644.html#a608444605a276e67a868b7ceac94a954">m_playerSocialMap</a>.size() * 25)); <span class="comment">// just can guess size</span></div>
+<div class="line"><span class="lineno">  134</span>    data &lt;&lt; <a class="code hl_typedef" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(flags);                                                        <span class="comment">// 0x1 = Friendlist update. 0x2 = Ignorelist update. 0x4 = Mutelist update.</span></div>
+<div class="line"><span class="lineno">  135</span>    std::size_t countPos = data.wpos();</div>
+<div class="line"><span class="lineno">  136</span>    data &lt;&lt; <a class="code hl_typedef" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(0);                                                           <span class="comment">// contacts count placeholder</span></div>
+<div class="line"><span class="lineno">  137</span> </div>
+<div class="line"><span class="lineno">  138</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span>&amp; itr : <a class="code hl_variable" href="../../d3/d11/a08644.html#a608444605a276e67a868b7ceac94a954">m_playerSocialMap</a>)</div>
+<div class="line"><span class="lineno">  139</span>    {</div>
+<div class="line"><span class="lineno">  140</span>        <a class="code hl_struct" href="../../d4/d2b/a08640.html">FriendInfo</a>&amp; friendInfo = itr.second;</div>
+<div class="line"><span class="lineno">  141</span>        <a class="code hl_typedef" href="../../d9/d4e/a04307.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> contactFlags = friendInfo.<a class="code hl_variable" href="../../d4/d2b/a08640.html#ab74652d747c8baa8df7fdbcfd5c68636">Flags</a>;</div>
+<div class="line"><span class="lineno">  142</span>        <span class="keywordflow">if</span> (!(contactFlags &amp; flags))</div>
+<div class="line"><span class="lineno">  143</span>            <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  144</span> </div>
+<div class="line"><span class="lineno">  145</span>        <span class="comment">// Check client limit for friends list</span></div>
+<div class="line"><span class="lineno">  146</span>        <span class="keywordflow">if</span> (contactFlags &amp; <a class="code hl_enumvalue" href="../../df/d9a/a01715.html#ad0ac931a69e6d8885728cb1fca06fc6ea88e902cf380604f7dde5102ae54cfb63">SOCIAL_FLAG_FRIEND</a>)</div>
+<div class="line"><span class="lineno">  147</span>            <span class="keywordflow">if</span> (++friendsCount &gt; <a class="code hl_define" href="../../df/d9a/a01715.html#afd83098f3a1e072e6ae7e54b799c5a49">SOCIALMGR_FRIEND_LIMIT</a>)</div>
+<div class="line"><span class="lineno">  148</span>                <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  149</span> </div>
+<div class="line"><span class="lineno">  150</span>        <span class="comment">// Check client limit for ignore list</span></div>
+<div class="line"><span class="lineno">  151</span>        <span class="keywordflow">if</span> (contactFlags &amp; <a class="code hl_enumvalue" href="../../df/d9a/a01715.html#ad0ac931a69e6d8885728cb1fca06fc6ea97d7bfbfcb1e9318134f55b72f5fdf2c">SOCIAL_FLAG_IGNORED</a>)</div>
+<div class="line"><span class="lineno">  152</span>            <span class="keywordflow">if</span> (++ignoredCount &gt; <a class="code hl_define" href="../../df/d9a/a01715.html#ad75bdebf3d450d178eb4945e1b484ff3">SOCIALMGR_IGNORE_LIMIT</a>)</div>
+<div class="line"><span class="lineno">  153</span>                <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  154</span> </div>
+<div class="line"><span class="lineno">  155</span>        ++totalCount;</div>
+<div class="line"><span class="lineno">  156</span> </div>
+<div class="line"><span class="lineno">  157</span>        <a class="code hl_define" href="../../df/d9a/a01715.html#a92fb5a2c05247f56e16516cd911d570c">sSocialMgr</a>-&gt;GetFriendInfo(player, itr.first, friendInfo);</div>
+<div class="line"><span class="lineno">  158</span> </div>
+<div class="line"><span class="lineno">  159</span>        data &lt;&lt; itr.first;                                    <span class="comment">// player guid</span></div>
+<div class="line"><span class="lineno">  160</span>        data &lt;&lt; <a class="code hl_typedef" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(contactFlags);                         <span class="comment">// player flag (0x1 = Friend, 0x2 = Ignored, 0x4 = Muted)</span></div>
+<div class="line"><span class="lineno">  161</span>        data &lt;&lt; friendInfo.<a class="code hl_variable" href="../../d4/d2b/a08640.html#aa9aea70eba08de460ff9cc5c622ca75f">Note</a>;                              <span class="comment">// string note</span></div>
+<div class="line"><span class="lineno">  162</span>        <span class="keywordflow">if</span> (contactFlags &amp; <a class="code hl_enumvalue" href="../../df/d9a/a01715.html#ad0ac931a69e6d8885728cb1fca06fc6ea88e902cf380604f7dde5102ae54cfb63">SOCIAL_FLAG_FRIEND</a>)                <span class="comment">// if IsFriend()</span></div>
+<div class="line"><span class="lineno">  163</span>        {</div>
+<div class="line"><span class="lineno">  164</span>            data &lt;&lt; <a class="code hl_typedef" href="../../d9/d4e/a04307.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>(friendInfo.<a class="code hl_variable" href="../../d4/d2b/a08640.html#a380f11d65b34e1e598b7861987cecfe6">Status</a>);                 <span class="comment">// online/offline/etc?</span></div>
+<div class="line"><span class="lineno">  165</span>            <span class="keywordflow">if</span> (friendInfo.<a class="code hl_variable" href="../../d4/d2b/a08640.html#a380f11d65b34e1e598b7861987cecfe6">Status</a>)                            <span class="comment">// if online</span></div>
+<div class="line"><span class="lineno">  166</span>            {</div>
+<div class="line"><span class="lineno">  167</span>                data &lt;&lt; <a class="code hl_typedef" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(friendInfo.<a class="code hl_variable" href="../../d4/d2b/a08640.html#adf16884b55545ed9302dbb54d653867b">Area</a>);              <span class="comment">// player area</span></div>
+<div class="line"><span class="lineno">  168</span>                data &lt;&lt; <a class="code hl_typedef" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(friendInfo.<a class="code hl_variable" href="../../d4/d2b/a08640.html#a70d9a74f4587f648db5bf49b61091213">Level</a>);             <span class="comment">// player level</span></div>
+<div class="line"><span class="lineno">  169</span>                data &lt;&lt; <a class="code hl_typedef" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(friendInfo.<a class="code hl_variable" href="../../d4/d2b/a08640.html#a8b797fcfda05d52d4297f32e458be519">Class</a>);             <span class="comment">// player class</span></div>
+<div class="line"><span class="lineno">  170</span>            }</div>
+<div class="line"><span class="lineno">  171</span>        }</div>
+<div class="line"><span class="lineno">  172</span>    }</div>
+<div class="line"><span class="lineno">  173</span> </div>
+<div class="line"><span class="lineno">  174</span>    data.put&lt;<a class="code hl_typedef" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;(countPos, totalCount);</div>
+<div class="line"><span class="lineno">  175</span>    player-&gt;<a class="code hl_function" href="../../dc/de6/a08620.html#a6ab11ca64cde7c5cde1f53998a6f7253">GetSession</a>()-&gt;<a class="code hl_function" href="../../d3/d7a/a11056.html#a2c74b80ca9b81765049e315813b29269">SendPacket</a>(&amp;data);</div>
+<div class="line"><span class="lineno">  176</span>    <a class="code hl_define" href="../../de/d76/a04607.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;network&quot;</span>, <span class="stringliteral">&quot;WORLD: Sent SMSG_CONTACT_LIST&quot;</span>);</div>
+<div class="line"><span class="lineno">  177</span>}</div>
+<div class="ttc" id="aa01715_html_a92fb5a2c05247f56e16516cd911d570c"><div class="ttname"><a href="../../df/d9a/a01715.html#a92fb5a2c05247f56e16516cd911d570c">sSocialMgr</a></div><div class="ttdeci">#define sSocialMgr</div><div class="ttdef"><b>Definition:</b> SocialMgr.h:147</div></div>
+<div class="ttc" id="aa04307_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../d9/d4e/a04307.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition:</b> Define.h:109</div></div>
+<div class="ttc" id="aa04607_html_a47ac782b14a7531c6232777165a1a161"><div class="ttname"><a href="../../de/d76/a04607.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a></div><div class="ttdeci">#define LOG_DEBUG(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:170</div></div>
+<div class="ttc" id="aa04782_html_gga1073b6abb3a749f18bf1633020879e9bae7783eee2f9846fcf6fdceca15ef238c"><div class="ttname"><a href="../../db/da6/a04782.html#gga1073b6abb3a749f18bf1633020879e9bae7783eee2f9846fcf6fdceca15ef238c">SMSG_CONTACT_LIST</a></div><div class="ttdeci">@ SMSG_CONTACT_LIST</div><div class="ttdef"><b>Definition:</b> Opcodes.h:133</div></div>
+<div class="ttc" id="aa08620_html_a6ab11ca64cde7c5cde1f53998a6f7253"><div class="ttname"><a href="../../dc/de6/a08620.html#a6ab11ca64cde7c5cde1f53998a6f7253">Player::GetSession</a></div><div class="ttdeci">WorldSession * GetSession() const</div><div class="ttdef"><b>Definition:</b> Player.h:2016</div></div>
+<div class="ttc" id="aa08640_html"><div class="ttname"><a href="../../d4/d2b/a08640.html">FriendInfo</a></div><div class="ttdef"><b>Definition:</b> SocialMgr.h:48</div></div>
+<div class="ttc" id="aa08640_html_a380f11d65b34e1e598b7861987cecfe6"><div class="ttname"><a href="../../d4/d2b/a08640.html#a380f11d65b34e1e598b7861987cecfe6">FriendInfo::Status</a></div><div class="ttdeci">FriendStatus Status</div><div class="ttdef"><b>Definition:</b> SocialMgr.h:49</div></div>
+<div class="ttc" id="aa08640_html_a70d9a74f4587f648db5bf49b61091213"><div class="ttname"><a href="../../d4/d2b/a08640.html#a70d9a74f4587f648db5bf49b61091213">FriendInfo::Level</a></div><div class="ttdeci">uint8 Level</div><div class="ttdef"><b>Definition:</b> SocialMgr.h:52</div></div>
+<div class="ttc" id="aa08640_html_a8b797fcfda05d52d4297f32e458be519"><div class="ttname"><a href="../../d4/d2b/a08640.html#a8b797fcfda05d52d4297f32e458be519">FriendInfo::Class</a></div><div class="ttdeci">uint8 Class</div><div class="ttdef"><b>Definition:</b> SocialMgr.h:53</div></div>
+<div class="ttc" id="aa08640_html_aa9aea70eba08de460ff9cc5c622ca75f"><div class="ttname"><a href="../../d4/d2b/a08640.html#aa9aea70eba08de460ff9cc5c622ca75f">FriendInfo::Note</a></div><div class="ttdeci">std::string Note</div><div class="ttdef"><b>Definition:</b> SocialMgr.h:54</div></div>
+<div class="ttc" id="aa08640_html_ab74652d747c8baa8df7fdbcfd5c68636"><div class="ttname"><a href="../../d4/d2b/a08640.html#ab74652d747c8baa8df7fdbcfd5c68636">FriendInfo::Flags</a></div><div class="ttdeci">uint8 Flags</div><div class="ttdef"><b>Definition:</b> SocialMgr.h:50</div></div>
+<div class="ttc" id="aa08640_html_adf16884b55545ed9302dbb54d653867b"><div class="ttname"><a href="../../d4/d2b/a08640.html#adf16884b55545ed9302dbb54d653867b">FriendInfo::Area</a></div><div class="ttdeci">uint32 Area</div><div class="ttdef"><b>Definition:</b> SocialMgr.h:51</div></div>
+<div class="ttc" id="aa11012_html"><div class="ttname"><a href="../../d0/d19/a11012.html">WorldPacket</a></div><div class="ttdef"><b>Definition:</b> WorldPacket.h:26</div></div>
+<div class="ttc" id="aa11056_html_a2c74b80ca9b81765049e315813b29269"><div class="ttname"><a href="../../d3/d7a/a11056.html#a2c74b80ca9b81765049e315813b29269">WorldSession::SendPacket</a></div><div class="ttdeci">void SendPacket(WorldPacket const *packet)</div><div class="ttdoc">Send a packet to the client.</div><div class="ttdef"><b>Definition:</b> WorldSession.cpp:251</div></div>
 </div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00051">FriendInfo::Area</a>, <a class="el" href="../../#l00053">FriendInfo::Class</a>, <a class="el" href="../../#l00050">FriendInfo::Flags</a>, <a class="el" href="../../#l02016">Player::GetSession()</a>, <a class="el" href="../../#l00052">FriendInfo::Level</a>, <a class="el" href="../../#l00170">LOG_DEBUG</a>, <a class="el" href="../../#l00121">m_playerSocialMap</a>, <a class="el" href="../../#l00054">FriendInfo::Note</a>, <a class="el" href="../../#l00137">ByteBuffer::put()</a>, <a class="el" href="../../#l00251">WorldSession::SendPacket()</a>, <a class="el" href="../../#l00133">SMSG_CONTACT_LIST</a>, <a class="el" href="../../#l00039">SOCIAL_FLAG_FRIEND</a>, <a class="el" href="../../#l00040">SOCIAL_FLAG_IGNORED</a>, <a class="el" href="../../#l00097">SOCIALMGR_FRIEND_LIMIT</a>, <a class="el" href="../../#l00098">SOCIALMGR_IGNORE_LIMIT</a>, <a class="el" href="../../#l00147">sSocialMgr</a>, <a class="el" href="../../#l00049">FriendInfo::Status</a>, and <a class="el" href="../../#l00330">ByteBuffer::wpos()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00029">WorldSession::HandleContactListOpcode()</a>, and <a class="el" href="../../#l11547">Player::SendInitialPacketsBeforeAddToMap()</a>.</p>
+
 </div>
 </div>
-<h2 class="groupheader">Member Function Documentation</h2>
-<a id="a6c769042535c69e89bdc19234dd680e4" name="a6c769042535c69e89bdc19234dd680e4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6c769042535c69e89bdc19234dd680e4">&#9670;&#160;</a></span>GetItem()</h2>
+<a id="a0ee1c5bebc234010f60f79618b541613" name="a0ee1c5bebc234010f60f79618b541613"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0ee1c5bebc234010f60f79618b541613">&#9670;&#160;</a></span>SetFriendNote()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d9/d1e/a08320.html">Item</a> * TradeData::GetItem </td>
+          <td class="memname">void PlayerSocial::SetFriendNote </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d9/d0d/a01748.html#ad8fd978c4198825d89a1f02643d20c62">TradeSlots</a>&#160;</td>
-          <td class="paramname"><em>slot</em></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   27</span>{</div>
-<div class="line"><span class="lineno">   28</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d3/d11/a08644.html#ac27f6047b7585f8b3ef069af68851965">m_items</a>[slot] ? <a class="code hl_variable" href="../../d3/d11/a08644.html#aa19e7f2622b315f9cc75531999b795f4">m_player</a>-&gt;<a class="code hl_function" href="../../d8/d93/a08612.html#adf5d2bf68d3caad2202caeb25daadc8e">GetItemByGuid</a>(<a class="code hl_variable" href="../../d3/d11/a08644.html#ac27f6047b7585f8b3ef069af68851965">m_items</a>[slot]) : <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">   29</span>}</div>
-<div class="ttc" id="aa08612_html_adf5d2bf68d3caad2202caeb25daadc8e"><div class="ttname"><a href="../../d8/d93/a08612.html#adf5d2bf68d3caad2202caeb25daadc8e">Player::GetItemByGuid</a></div><div class="ttdeci">Item * GetItemByGuid(ObjectGuid guid) const</div><div class="ttdef"><b>Definition:</b> PlayerStorage.cpp:407</div></div>
-<div class="ttc" id="aa08644_html_ac27f6047b7585f8b3ef069af68851965"><div class="ttname"><a href="../../d3/d11/a08644.html#ac27f6047b7585f8b3ef069af68851965">TradeData::m_items</a></div><div class="ttdeci">ObjectGuid m_items[TRADE_SLOT_COUNT]</div><div class="ttdef"><b>Definition:</b> TradeData.h:79</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00407">Player::GetItemByGuid()</a>, <a class="el" href="../../#l00079">m_items</a>, and <a class="el" href="../../#l00068">m_player</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00244">WorldSession::HandleAcceptTradeOpcode()</a>, <a class="el" href="../../#l00081">WorldSession::SendUpdateTrade()</a>, and <a class="el" href="../../#l00201">setAcceptTradeMode()</a>.</p>
-
-</div>
-</div>
-<a id="a54d3de8cb15ccc761d272295b19b7575" name="a54d3de8cb15ccc761d272295b19b7575"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a54d3de8cb15ccc761d272295b19b7575">&#9670;&#160;</a></span>GetMoney()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> TradeData::GetMoney </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   55</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d3/d11/a08644.html#ab5e22a1c07812f11d8692f6e1daf52c9">m_money</a>; }</div>
-</div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00244">WorldSession::HandleAcceptTradeOpcode()</a>, and <a class="el" href="../../#l00081">WorldSession::SendUpdateTrade()</a>.</p>
-
-</div>
-</div>
-<a id="a99272f794179b17c50c722ae90ea78bf" name="a99272f794179b17c50c722ae90ea78bf"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a99272f794179b17c50c722ae90ea78bf">&#9670;&#160;</a></span>GetSpell()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> TradeData::GetSpell </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   49</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d3/d11/a08644.html#a291fdc4207d594982a780485b960f6fa">m_spell</a>; }</div>
-</div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l05660">Spell::CheckCast()</a>, <a class="el" href="../../#l00244">WorldSession::HandleAcceptTradeOpcode()</a>, and <a class="el" href="../../#l00081">WorldSession::SendUpdateTrade()</a>.</p>
-
-</div>
-</div>
-<a id="a011acd6730c58aa75d3c27e793748afc" name="a011acd6730c58aa75d3c27e793748afc"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a011acd6730c58aa75d3c27e793748afc">&#9670;&#160;</a></span>GetSpellCastItem()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d9/d1e/a08320.html">Item</a> * TradeData::GetSpellCastItem </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   50</span>{</div>
-<div class="line"><span class="lineno">   51</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d3/d11/a08644.html#adb76e2e7f01cc6f1ee4579ee177ba9c1">m_spellCastItem</a> ? <a class="code hl_variable" href="../../d3/d11/a08644.html#aa19e7f2622b315f9cc75531999b795f4">m_player</a>-&gt;<a class="code hl_function" href="../../d8/d93/a08612.html#adf5d2bf68d3caad2202caeb25daadc8e">GetItemByGuid</a>(<a class="code hl_variable" href="../../d3/d11/a08644.html#adb76e2e7f01cc6f1ee4579ee177ba9c1">m_spellCastItem</a>) : <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">   52</span>}</div>
-<div class="ttc" id="aa08644_html_adb76e2e7f01cc6f1ee4579ee177ba9c1"><div class="ttname"><a href="../../d3/d11/a08644.html#adb76e2e7f01cc6f1ee4579ee177ba9c1">TradeData::m_spellCastItem</a></div><div class="ttdeci">ObjectGuid m_spellCastItem</div><div class="ttdef"><b>Definition:</b> TradeData.h:77</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00407">Player::GetItemByGuid()</a>, <a class="el" href="../../#l00068">m_player</a>, and <a class="el" href="../../#l00077">m_spellCastItem</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00244">WorldSession::HandleAcceptTradeOpcode()</a>.</p>
-
-</div>
-</div>
-<a id="a3e3023cdf6deb5283ebbe844727cadef" name="a3e3023cdf6deb5283ebbe844727cadef"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3e3023cdf6deb5283ebbe844727cadef">&#9670;&#160;</a></span>GetTrader()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d8/d93/a08612.html">Player</a> * TradeData::GetTrader </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   41</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d3/d11/a08644.html#ae9c8547f43701f0693fd16df84ae2543">m_trader</a>; }</div>
-</div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l01391">Player::GetTrader()</a>, <a class="el" href="../../#l00244">WorldSession::HandleAcceptTradeOpcode()</a>, <a class="el" href="../../#l00517">WorldSession::HandleBeginTradeOpcode()</a>, and <a class="el" href="../../#l04088">Player::TradeCancel()</a>.</p>
-
-</div>
-</div>
-<a id="a91911ad105b24d6055a65b07ab6c269f" name="a91911ad105b24d6055a65b07ab6c269f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a91911ad105b24d6055a65b07ab6c269f">&#9670;&#160;</a></span>GetTraderData()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d3/d11/a08644.html">TradeData</a> * TradeData::GetTraderData </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   22</span>{</div>
-<div class="line"><span class="lineno">   23</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d3/d11/a08644.html#ae9c8547f43701f0693fd16df84ae2543">m_trader</a>-&gt;<a class="code hl_function" href="../../d8/d93/a08612.html#a9866cfe24c371353d49f86972cfd8c1b">GetTradeData</a>();</div>
-<div class="line"><span class="lineno">   24</span>}</div>
-<div class="ttc" id="aa08612_html_a9866cfe24c371353d49f86972cfd8c1b"><div class="ttname"><a href="../../d8/d93/a08612.html#a9866cfe24c371353d49f86972cfd8c1b">Player::GetTradeData</a></div><div class="ttdeci">TradeData * GetTradeData() const</div><div class="ttdef"><b>Definition:</b> Player.h:1392</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01392">Player::GetTradeData()</a>, and <a class="el" href="../../#l00069">m_trader</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00081">WorldSession::SendUpdateTrade()</a>, <a class="el" href="../../#l00054">SetItem()</a>, <a class="el" href="../../#l00093">SetMoney()</a>, and <a class="el" href="../../#l00076">SetSpell()</a>.</p>
-
-</div>
-</div>
-<a id="a2982777fbad962000c016309667104df" name="a2982777fbad962000c016309667104df"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2982777fbad962000c016309667104df">&#9670;&#160;</a></span>GetTradeSlotForItem()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d9/d0d/a01748.html#ad8fd978c4198825d89a1f02643d20c62">TradeSlots</a> TradeData::GetTradeSlotForItem </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d9/d48/a08412.html">ObjectGuid</a>&#160;</td>
-          <td class="paramname"><em>itemGuid</em></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   41</span>{</div>
-<div class="line"><span class="lineno">   42</span>    <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d2/d27/a04301.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0; i &lt; <a class="code hl_enumvalue" href="../../d9/d0d/a01748.html#ad8fd978c4198825d89a1f02643d20c62a1e8d56a5a22d784c5d388fd8bd206488">TRADE_SLOT_COUNT</a>; ++i)</div>
-<div class="line"><span class="lineno">   43</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d3/d11/a08644.html#ac27f6047b7585f8b3ef069af68851965">m_items</a>[i] == itemGuid)</div>
-<div class="line"><span class="lineno">   44</span>            <span class="keywordflow">return</span> <a class="code hl_enumeration" href="../../d9/d0d/a01748.html#ad8fd978c4198825d89a1f02643d20c62">TradeSlots</a>(i);</div>
-<div class="line"><span class="lineno">   45</span> </div>
-<div class="line"><span class="lineno">   46</span>    <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../d9/d0d/a01748.html#ad8fd978c4198825d89a1f02643d20c62ab98427dca4bc30e207c0433e5e307ad4">TRADE_SLOT_INVALID</a>;</div>
-<div class="line"><span class="lineno">   47</span>}</div>
-<div class="ttc" id="aa01748_html_ad8fd978c4198825d89a1f02643d20c62"><div class="ttname"><a href="../../d9/d0d/a01748.html#ad8fd978c4198825d89a1f02643d20c62">TradeSlots</a></div><div class="ttdeci">TradeSlots</div><div class="ttdef"><b>Definition:</b> TradeData.h:28</div></div>
-<div class="ttc" id="aa01748_html_ad8fd978c4198825d89a1f02643d20c62a1e8d56a5a22d784c5d388fd8bd206488"><div class="ttname"><a href="../../d9/d0d/a01748.html#ad8fd978c4198825d89a1f02643d20c62a1e8d56a5a22d784c5d388fd8bd206488">TRADE_SLOT_COUNT</a></div><div class="ttdeci">@ TRADE_SLOT_COUNT</div><div class="ttdef"><b>Definition:</b> TradeData.h:29</div></div>
-<div class="ttc" id="aa01748_html_ad8fd978c4198825d89a1f02643d20c62ab98427dca4bc30e207c0433e5e307ad4"><div class="ttname"><a href="../../d9/d0d/a01748.html#ad8fd978c4198825d89a1f02643d20c62ab98427dca4bc30e207c0433e5e307ad4">TRADE_SLOT_INVALID</a></div><div class="ttdeci">@ TRADE_SLOT_INVALID</div><div class="ttdef"><b>Definition:</b> TradeData.h:32</div></div>
-<div class="ttc" id="aa04301_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../d2/d27/a04301.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition:</b> Define.h:109</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00079">m_items</a>, <a class="el" href="../../#l00029">TRADE_SLOT_COUNT</a>, and <a class="el" href="../../#l00032">TRADE_SLOT_INVALID</a>.</p>
-
-</div>
-</div>
-<a id="a420249fcbb7394f16009861ccdb6962a" name="a420249fcbb7394f16009861ccdb6962a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a420249fcbb7394f16009861ccdb6962a">&#9670;&#160;</a></span>HasItem()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool TradeData::HasItem </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d9/d48/a08412.html">ObjectGuid</a>&#160;</td>
-          <td class="paramname"><em>itemGuid</em></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   32</span>{</div>
-<div class="line"><span class="lineno">   33</span>    <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d2/d27/a04301.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0; i &lt; <a class="code hl_enumvalue" href="../../d9/d0d/a01748.html#ad8fd978c4198825d89a1f02643d20c62a1e8d56a5a22d784c5d388fd8bd206488">TRADE_SLOT_COUNT</a>; ++i)</div>
-<div class="line"><span class="lineno">   34</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d3/d11/a08644.html#ac27f6047b7585f8b3ef069af68851965">m_items</a>[i] == itemGuid)</div>
-<div class="line"><span class="lineno">   35</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">   36</span> </div>
-<div class="line"><span class="lineno">   37</span>    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">   38</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00079">m_items</a>, and <a class="el" href="../../#l00029">TRADE_SLOT_COUNT</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00664">WorldSession::HandleSetTradeItemOpcode()</a>.</p>
-
-</div>
-</div>
-<a id="a27981abf9bddbfe87bf81836b57e0780" name="a27981abf9bddbfe87bf81836b57e0780"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a27981abf9bddbfe87bf81836b57e0780">&#9670;&#160;</a></span>HasSpellCastItem()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool TradeData::HasSpellCastItem </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   53</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d3/d11/a08644.html#adb76e2e7f01cc6f1ee4579ee177ba9c1">m_spellCastItem</a>; }</div>
-</div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00244">WorldSession::HandleAcceptTradeOpcode()</a>.</p>
-
-</div>
-</div>
-<a id="a75b4970c1f26912bc24da528f226ca76" name="a75b4970c1f26912bc24da528f226ca76"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a75b4970c1f26912bc24da528f226ca76">&#9670;&#160;</a></span>IsAccepted()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool TradeData::IsAccepted </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   58</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d3/d11/a08644.html#af2d924a288687047f4d6a47f81025a00">m_accepted</a>; }</div>
-</div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00244">WorldSession::HandleAcceptTradeOpcode()</a>.</p>
-
-</div>
-</div>
-<a id="abbae0b720c0b44a05f0625ebafd09cc8" name="abbae0b720c0b44a05f0625ebafd09cc8"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#abbae0b720c0b44a05f0625ebafd09cc8">&#9670;&#160;</a></span>IsInAcceptProcess()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool TradeData::IsInAcceptProcess </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   61</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d3/d11/a08644.html#a1e585dd9ed486381a55e108a709e4db3">m_acceptProccess</a>; }</div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a9e48c5ee348c5a8d475c5e7b15058b16" name="a9e48c5ee348c5a8d475c5e7b15058b16"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9e48c5ee348c5a8d475c5e7b15058b16">&#9670;&#160;</a></span>SetAccepted()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void TradeData::SetAccepted </td>
-          <td>(</td>
-          <td class="paramtype">bool&#160;</td>
-          <td class="paramname"><em>state</em>, </td>
+          <td class="paramtype"><a class="el" href="../../db/d20/a08420.html">ObjectGuid</a>&#160;</td>
+          <td class="paramname"><em>friendGuid</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">bool&#160;</td>
-          <td class="paramname"><em>crosssend</em> = <code>false</code>&#160;</td>
+          <td class="paramtype">std::string&#160;</td>
+          <td class="paramname"><em>note</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -551,29 +628,35 @@ Private Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  121</span>{</div>
-<div class="line"><span class="lineno">  122</span>    <a class="code hl_variable" href="../../d3/d11/a08644.html#af2d924a288687047f4d6a47f81025a00">m_accepted</a> = state;</div>
-<div class="line"><span class="lineno">  123</span> </div>
-<div class="line"><span class="lineno">  124</span>    <span class="keywordflow">if</span> (!state)</div>
-<div class="line"><span class="lineno">  125</span>    {</div>
-<div class="line"><span class="lineno">  126</span>        <span class="keywordflow">if</span> (crosssend)</div>
-<div class="line"><span class="lineno">  127</span>            <a class="code hl_variable" href="../../d3/d11/a08644.html#ae9c8547f43701f0693fd16df84ae2543">m_trader</a>-&gt;<a class="code hl_function" href="../../d8/d93/a08612.html#a6ab11ca64cde7c5cde1f53998a6f7253">GetSession</a>()-&gt;<a class="code hl_function" href="../../d8/d39/a11020.html#ac3aff1b7548faa82f1c0786c82df4cca">SendTradeStatus</a>(<a class="code hl_enumvalue" href="../../db/dd9/a00179.html#a4d14fbf24745aec4ec29280851d99dc0a7a15a69e793317aa8a871df1af37e881">TRADE_STATUS_BACK_TO_TRADE</a>);</div>
-<div class="line"><span class="lineno">  128</span>        <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  129</span>            <a class="code hl_variable" href="../../d3/d11/a08644.html#aa19e7f2622b315f9cc75531999b795f4">m_player</a>-&gt;<a class="code hl_function" href="../../d8/d93/a08612.html#a6ab11ca64cde7c5cde1f53998a6f7253">GetSession</a>()-&gt;<a class="code hl_function" href="../../d8/d39/a11020.html#ac3aff1b7548faa82f1c0786c82df4cca">SendTradeStatus</a>(<a class="code hl_enumvalue" href="../../db/dd9/a00179.html#a4d14fbf24745aec4ec29280851d99dc0a7a15a69e793317aa8a871df1af37e881">TRADE_STATUS_BACK_TO_TRADE</a>);</div>
-<div class="line"><span class="lineno">  130</span>    }</div>
-<div class="line"><span class="lineno">  131</span>}</div>
-<div class="ttc" id="aa00179_html_a4d14fbf24745aec4ec29280851d99dc0a7a15a69e793317aa8a871df1af37e881"><div class="ttname"><a href="../../db/dd9/a00179.html#a4d14fbf24745aec4ec29280851d99dc0a7a15a69e793317aa8a871df1af37e881">TRADE_STATUS_BACK_TO_TRADE</a></div><div class="ttdeci">@ TRADE_STATUS_BACK_TO_TRADE</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:3812</div></div>
-<div class="ttc" id="aa08612_html_a6ab11ca64cde7c5cde1f53998a6f7253"><div class="ttname"><a href="../../d8/d93/a08612.html#a6ab11ca64cde7c5cde1f53998a6f7253">Player::GetSession</a></div><div class="ttdeci">WorldSession * GetSession() const</div><div class="ttdef"><b>Definition:</b> Player.h:2016</div></div>
-<div class="ttc" id="aa11020_html_ac3aff1b7548faa82f1c0786c82df4cca"><div class="ttname"><a href="../../d8/d39/a11020.html#ac3aff1b7548faa82f1c0786c82df4cca">WorldSession::SendTradeStatus</a></div><div class="ttdeci">void SendTradeStatus(TradeStatus status)</div><div class="ttdef"><b>Definition:</b> TradeHandler.cpp:33</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  106</span>{</div>
+<div class="line"><span class="lineno">  107</span>    <span class="keyword">auto</span> itr = <a class="code hl_variable" href="../../d3/d11/a08644.html#a608444605a276e67a868b7ceac94a954">m_playerSocialMap</a>.find(friendGuid);</div>
+<div class="line"><span class="lineno">  108</span>    <span class="keywordflow">if</span> (itr == <a class="code hl_variable" href="../../d3/d11/a08644.html#a608444605a276e67a868b7ceac94a954">m_playerSocialMap</a>.end())                     <span class="comment">// not exist</span></div>
+<div class="line"><span class="lineno">  109</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  110</span> </div>
+<div class="line"><span class="lineno">  111</span>    <a class="code hl_function" href="../../d0/dc5/a04415.html#ad881ed438a9a0c698d3c9860d78d4a2b">utf8truncate</a>(note, 48);                                  <span class="comment">// DB and client size limitation</span></div>
+<div class="line"><span class="lineno">  112</span> </div>
+<div class="line"><span class="lineno">  113</span>    <a class="code hl_class" href="../../d4/d0d/a05692.html">CharacterDatabasePreparedStatement</a>* stmt = <a class="code hl_variable" href="../../de/d93/a04235.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.GetPreparedStatement(<a class="code hl_enumvalue" href="../../df/d4b/a04169.html#a76116b4fa282d8e35bf8f8e940b5cba7a961779a689b1e4c2392ccfbc3dd8f88e">CHAR_UPD_CHARACTER_SOCIAL_NOTE</a>);</div>
+<div class="line"><span class="lineno">  114</span> </div>
+<div class="line"><span class="lineno">  115</span>    stmt-&gt;<a class="code hl_function" href="../../d0/ddb/a05824.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(0, note);</div>
+<div class="line"><span class="lineno">  116</span>    stmt-&gt;<a class="code hl_function" href="../../d0/ddb/a05824.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(1, <a class="code hl_function" href="../../d3/d11/a08644.html#aa14bba47d54e94391d494a6752d45949">GetPlayerGUID</a>().GetCounter());</div>
+<div class="line"><span class="lineno">  117</span>    stmt-&gt;<a class="code hl_function" href="../../d0/ddb/a05824.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(2, friendGuid.<a class="code hl_function" href="../../db/d20/a08420.html#a0df27b85c91a2c619e8f1d9c2cb31677">GetCounter</a>());</div>
+<div class="line"><span class="lineno">  118</span> </div>
+<div class="line"><span class="lineno">  119</span>    <a class="code hl_variable" href="../../de/d93/a04235.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.Execute(stmt);</div>
+<div class="line"><span class="lineno">  120</span> </div>
+<div class="line"><span class="lineno">  121</span>    <a class="code hl_variable" href="../../d3/d11/a08644.html#a608444605a276e67a868b7ceac94a954">m_playerSocialMap</a>[friendGuid].Note = note;</div>
+<div class="line"><span class="lineno">  122</span>}</div>
+<div class="ttc" id="aa04169_html_a76116b4fa282d8e35bf8f8e940b5cba7a961779a689b1e4c2392ccfbc3dd8f88e"><div class="ttname"><a href="../../df/d4b/a04169.html#a76116b4fa282d8e35bf8f8e940b5cba7a961779a689b1e4c2392ccfbc3dd8f88e">CHAR_UPD_CHARACTER_SOCIAL_NOTE</a></div><div class="ttdeci">@ CHAR_UPD_CHARACTER_SOCIAL_NOTE</div><div class="ttdef"><b>Definition:</b> CharacterDatabase.h:323</div></div>
+<div class="ttc" id="aa04415_html_ad881ed438a9a0c698d3c9860d78d4a2b"><div class="ttname"><a href="../../d0/dc5/a04415.html#ad881ed438a9a0c698d3c9860d78d4a2b">utf8truncate</a></div><div class="ttdeci">void utf8truncate(std::string &amp;utf8str, std::size_t len)</div><div class="ttdef"><b>Definition:</b> Util.cpp:258</div></div>
+<div class="ttc" id="aa08420_html_a0df27b85c91a2c619e8f1d9c2cb31677"><div class="ttname"><a href="../../db/d20/a08420.html#a0df27b85c91a2c619e8f1d9c2cb31677">ObjectGuid::GetCounter</a></div><div class="ttdeci">LowType GetCounter() const</div><div class="ttdef"><b>Definition:</b> ObjectGuid.h:145</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l02016">Player::GetSession()</a>, <a class="el" href="../../#l00071">m_accepted</a>, <a class="el" href="../../#l00068">m_player</a>, <a class="el" href="../../#l00069">m_trader</a>, <a class="el" href="../../#l00033">WorldSession::SendTradeStatus()</a>, and <a class="el" href="../../#l03812">TRADE_STATUS_BACK_TO_TRADE</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00323">CHAR_UPD_CHARACTER_SOCIAL_NOTE</a>, <a class="el" href="../../#l00021">CharacterDatabase</a>, <a class="el" href="../../#l00145">ObjectGuid::GetCounter()</a>, <a class="el" href="../../#l00115">GetPlayerGUID()</a>, <a class="el" href="../../#l00121">m_playerSocialMap</a>, <a class="el" href="../../#l00077">PreparedStatementBase::SetData()</a>, and <a class="el" href="../../#l00258">utf8truncate()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00244">WorldSession::HandleAcceptTradeOpcode()</a>, <a class="el" href="../../#l00508">WorldSession::HandleUnacceptTradeOpcode()</a>, <a class="el" href="../../#l00054">SetItem()</a>, <a class="el" href="../../#l00093">SetMoney()</a>, and <a class="el" href="../../#l00076">SetSpell()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00037">WorldSession::HandleAddFriendOpcode()</a>, and <a class="el" href="../../#l00147">WorldSession::HandleSetContactNotesOpcode()</a>.</p>
 
 </div>
 </div>
-<a id="a4851016708b0e8336ec33c64ab41aa8a" name="a4851016708b0e8336ec33c64ab41aa8a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4851016708b0e8336ec33c64ab41aa8a">&#9670;&#160;</a></span>SetInAcceptProcess()</h2>
+<a id="af913d007399dede4ddf59c2811fc3b8a" name="af913d007399dede4ddf59c2811fc3b8a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af913d007399dede4ddf59c2811fc3b8a">&#9670;&#160;</a></span>SetPlayerGUID()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -582,10 +665,10 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void TradeData::SetInAcceptProcess </td>
+          <td class="memname">void PlayerSocial::SetPlayerGUID </td>
           <td>(</td>
-          <td class="paramtype">bool&#160;</td>
-          <td class="paramname"><em>state</em></td><td>)</td>
+          <td class="paramtype"><a class="el" href="../../db/d20/a08420.html">ObjectGuid</a>&#160;</td>
+          <td class="paramname"><em>guid</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
@@ -595,162 +678,17 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   62</span>{ <a class="code hl_variable" href="../../d3/d11/a08644.html#a1e585dd9ed486381a55e108a709e4db3">m_acceptProccess</a> = state; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  116</span>{ <a class="code hl_variable" href="../../d3/d11/a08644.html#accf6a40286cca75dd9d5eed8cc3c6790">m_playerGUID</a> = guid; }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00226">clearAcceptTradeMode()</a>, and <a class="el" href="../../#l00201">setAcceptTradeMode()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00122">m_playerGUID</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00319">SocialMgr::LoadFromDB()</a>.</p>
 
 </div>
 </div>
-<a id="ab3eff66bb411bd22a11d8e29f7961507" name="ab3eff66bb411bd22a11d8e29f7961507"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab3eff66bb411bd22a11d8e29f7961507">&#9670;&#160;</a></span>SetItem()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void TradeData::SetItem </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d9/d0d/a01748.html#ad8fd978c4198825d89a1f02643d20c62">TradeSlots</a>&#160;</td>
-          <td class="paramname"><em>slot</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d9/d1e/a08320.html">Item</a> *&#160;</td>
-          <td class="paramname"><em>item</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   55</span>{</div>
-<div class="line"><span class="lineno">   56</span>    <a class="code hl_class" href="../../d9/d48/a08412.html">ObjectGuid</a> itemGuid = item ? item-&gt;<a class="code hl_function" href="../../d1/d53/a08360.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>() : <a class="code hl_variable" href="../../d9/d48/a08412.html#a14039d3f3df79203693f713495503165">ObjectGuid::Empty</a>;</div>
-<div class="line"><span class="lineno">   57</span> </div>
-<div class="line"><span class="lineno">   58</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d3/d11/a08644.html#ac27f6047b7585f8b3ef069af68851965">m_items</a>[slot] == itemGuid)</div>
-<div class="line"><span class="lineno">   59</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">   60</span> </div>
-<div class="line"><span class="lineno">   61</span>    <a class="code hl_variable" href="../../d3/d11/a08644.html#ac27f6047b7585f8b3ef069af68851965">m_items</a>[slot] = itemGuid;</div>
-<div class="line"><span class="lineno">   62</span> </div>
-<div class="line"><span class="lineno">   63</span>    <a class="code hl_function" href="../../d3/d11/a08644.html#a9e48c5ee348c5a8d475c5e7b15058b16">SetAccepted</a>(<span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno">   64</span>    <a class="code hl_function" href="../../d3/d11/a08644.html#a91911ad105b24d6055a65b07ab6c269f">GetTraderData</a>()-&gt;<a class="code hl_function" href="../../d3/d11/a08644.html#a9e48c5ee348c5a8d475c5e7b15058b16">SetAccepted</a>(<span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno">   65</span> </div>
-<div class="line"><span class="lineno">   66</span>    <a class="code hl_function" href="../../d3/d11/a08644.html#a970e3a0d295495973bda1ff5b4732055">Update</a>();</div>
-<div class="line"><span class="lineno">   67</span> </div>
-<div class="line"><span class="lineno">   68</span>    <span class="comment">// need remove possible trader spell applied to changed item</span></div>
-<div class="line"><span class="lineno">   69</span>    <span class="keywordflow">if</span> (slot == <a class="code hl_enumvalue" href="../../d9/d0d/a01748.html#ad8fd978c4198825d89a1f02643d20c62abdab7c30065c4b145dd2e6ce0e27c45f">TRADE_SLOT_NONTRADED</a>)</div>
-<div class="line"><span class="lineno">   70</span>        <a class="code hl_function" href="../../d3/d11/a08644.html#a91911ad105b24d6055a65b07ab6c269f">GetTraderData</a>()-&gt;<a class="code hl_function" href="../../d3/d11/a08644.html#a2afa4c75d1fe0b8a712f270166f838ef">SetSpell</a>(0);</div>
-<div class="line"><span class="lineno">   71</span> </div>
-<div class="line"><span class="lineno">   72</span>    <span class="comment">// need remove possible player spell applied (possible move reagent)</span></div>
-<div class="line"><span class="lineno">   73</span>    <a class="code hl_function" href="../../d3/d11/a08644.html#a2afa4c75d1fe0b8a712f270166f838ef">SetSpell</a>(0);</div>
-<div class="line"><span class="lineno">   74</span>}</div>
-<div class="ttc" id="aa01748_html_ad8fd978c4198825d89a1f02643d20c62abdab7c30065c4b145dd2e6ce0e27c45f"><div class="ttname"><a href="../../d9/d0d/a01748.html#ad8fd978c4198825d89a1f02643d20c62abdab7c30065c4b145dd2e6ce0e27c45f">TRADE_SLOT_NONTRADED</a></div><div class="ttdeci">@ TRADE_SLOT_NONTRADED</div><div class="ttdef"><b>Definition:</b> TradeData.h:31</div></div>
-<div class="ttc" id="aa08360_html_ad23b997e2442fa6a6228ba73a7ecc138"><div class="ttname"><a href="../../d1/d53/a08360.html#ad23b997e2442fa6a6228ba73a7ecc138">Object::GetGUID</a></div><div class="ttdeci">static ObjectGuid GetGUID(Object const *o)</div><div class="ttdef"><b>Definition:</b> Object.h:113</div></div>
-<div class="ttc" id="aa08412_html"><div class="ttname"><a href="../../d9/d48/a08412.html">ObjectGuid</a></div><div class="ttdef"><b>Definition:</b> ObjectGuid.h:118</div></div>
-<div class="ttc" id="aa08412_html_a14039d3f3df79203693f713495503165"><div class="ttname"><a href="../../d9/d48/a08412.html#a14039d3f3df79203693f713495503165">ObjectGuid::Empty</a></div><div class="ttdeci">static ObjectGuid const Empty</div><div class="ttdef"><b>Definition:</b> ObjectGuid.h:120</div></div>
-<div class="ttc" id="aa08644_html_a2afa4c75d1fe0b8a712f270166f838ef"><div class="ttname"><a href="../../d3/d11/a08644.html#a2afa4c75d1fe0b8a712f270166f838ef">TradeData::SetSpell</a></div><div class="ttdeci">void SetSpell(uint32 spell_id, Item *castItem=nullptr)</div><div class="ttdef"><b>Definition:</b> TradeData.cpp:76</div></div>
-<div class="ttc" id="aa08644_html_a91911ad105b24d6055a65b07ab6c269f"><div class="ttname"><a href="../../d3/d11/a08644.html#a91911ad105b24d6055a65b07ab6c269f">TradeData::GetTraderData</a></div><div class="ttdeci">TradeData * GetTraderData() const</div><div class="ttdef"><b>Definition:</b> TradeData.cpp:21</div></div>
-<div class="ttc" id="aa08644_html_a970e3a0d295495973bda1ff5b4732055"><div class="ttname"><a href="../../d3/d11/a08644.html#a970e3a0d295495973bda1ff5b4732055">TradeData::Update</a></div><div class="ttdeci">void Update(bool for_trader=true)</div><div class="ttdef"><b>Definition:</b> TradeData.cpp:112</div></div>
-<div class="ttc" id="aa08644_html_a9e48c5ee348c5a8d475c5e7b15058b16"><div class="ttname"><a href="../../d3/d11/a08644.html#a9e48c5ee348c5a8d475c5e7b15058b16">TradeData::SetAccepted</a></div><div class="ttdeci">void SetAccepted(bool state, bool crosssend=false)</div><div class="ttdef"><b>Definition:</b> TradeData.cpp:120</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00120">ObjectGuid::Empty</a>, <a class="el" href="../../#l00113">Object::GetGUID()</a>, <a class="el" href="../../#l00021">GetTraderData()</a>, <a class="el" href="../../#l00079">m_items</a>, <a class="el" href="../../#l00120">SetAccepted()</a>, <a class="el" href="../../#l00076">SetSpell()</a>, <a class="el" href="../../#l00031">TRADE_SLOT_NONTRADED</a>, and <a class="el" href="../../#l00112">Update()</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00716">WorldSession::HandleClearTradeItemOpcode()</a>, and <a class="el" href="../../#l00664">WorldSession::HandleSetTradeItemOpcode()</a>.</p>
-
-</div>
-</div>
-<a id="a0dc996fdc9acab409833caff4e6b489b" name="a0dc996fdc9acab409833caff4e6b489b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0dc996fdc9acab409833caff4e6b489b">&#9670;&#160;</a></span>SetMoney()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void TradeData::SetMoney </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>money</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   94</span>{</div>
-<div class="line"><span class="lineno">   95</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d3/d11/a08644.html#ab5e22a1c07812f11d8692f6e1daf52c9">m_money</a> == money)</div>
-<div class="line"><span class="lineno">   96</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">   97</span> </div>
-<div class="line"><span class="lineno">   98</span>    <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d3/d11/a08644.html#aa19e7f2622b315f9cc75531999b795f4">m_player</a>-&gt;<a class="code hl_function" href="../../d8/d93/a08612.html#a77b52bf6fc7a0ac6ad37bf836aaf5c7b">HasEnoughMoney</a>(money))</div>
-<div class="line"><span class="lineno">   99</span>    {</div>
-<div class="line"><span class="lineno">  100</span>        <a class="code hl_variable" href="../../d3/d11/a08644.html#aa19e7f2622b315f9cc75531999b795f4">m_player</a>-&gt;<a class="code hl_function" href="../../d8/d93/a08612.html#a6ab11ca64cde7c5cde1f53998a6f7253">GetSession</a>()-&gt;<a class="code hl_function" href="../../d8/d39/a11020.html#ac3aff1b7548faa82f1c0786c82df4cca">SendTradeStatus</a>(<a class="code hl_enumvalue" href="../../db/dd9/a00179.html#a4d14fbf24745aec4ec29280851d99dc0aea6086b44fb425b0e09feb1d6bf0056d">TRADE_STATUS_BUSY</a>);</div>
-<div class="line"><span class="lineno">  101</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  102</span>    }</div>
-<div class="line"><span class="lineno">  103</span> </div>
-<div class="line"><span class="lineno">  104</span>    <a class="code hl_variable" href="../../d3/d11/a08644.html#ab5e22a1c07812f11d8692f6e1daf52c9">m_money</a> = money;</div>
-<div class="line"><span class="lineno">  105</span> </div>
-<div class="line"><span class="lineno">  106</span>    <a class="code hl_function" href="../../d3/d11/a08644.html#a9e48c5ee348c5a8d475c5e7b15058b16">SetAccepted</a>(<span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno">  107</span>    <a class="code hl_function" href="../../d3/d11/a08644.html#a91911ad105b24d6055a65b07ab6c269f">GetTraderData</a>()-&gt;<a class="code hl_function" href="../../d3/d11/a08644.html#a9e48c5ee348c5a8d475c5e7b15058b16">SetAccepted</a>(<span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno">  108</span> </div>
-<div class="line"><span class="lineno">  109</span>    <a class="code hl_function" href="../../d3/d11/a08644.html#a970e3a0d295495973bda1ff5b4732055">Update</a>(<span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  110</span>}</div>
-<div class="ttc" id="aa00179_html_a4d14fbf24745aec4ec29280851d99dc0aea6086b44fb425b0e09feb1d6bf0056d"><div class="ttname"><a href="../../db/dd9/a00179.html#a4d14fbf24745aec4ec29280851d99dc0aea6086b44fb425b0e09feb1d6bf0056d">TRADE_STATUS_BUSY</a></div><div class="ttdeci">@ TRADE_STATUS_BUSY</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:3805</div></div>
-<div class="ttc" id="aa08612_html_a77b52bf6fc7a0ac6ad37bf836aaf5c7b"><div class="ttname"><a href="../../d8/d93/a08612.html#a77b52bf6fc7a0ac6ad37bf836aaf5c7b">Player::HasEnoughMoney</a></div><div class="ttdeci">bool HasEnoughMoney(uint32 amount) const</div><div class="ttdef"><b>Definition:</b> Player.h:1623</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l02016">Player::GetSession()</a>, <a class="el" href="../../#l00021">GetTraderData()</a>, <a class="el" href="../../#l01623">Player::HasEnoughMoney()</a>, <a class="el" href="../../#l00074">m_money</a>, <a class="el" href="../../#l00068">m_player</a>, <a class="el" href="../../#l00033">WorldSession::SendTradeStatus()</a>, <a class="el" href="../../#l00120">SetAccepted()</a>, <a class="el" href="../../#l03805">TRADE_STATUS_BUSY</a>, and <a class="el" href="../../#l00112">Update()</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00652">WorldSession::HandleSetTradeGoldOpcode()</a>.</p>
-
-</div>
-</div>
-<a id="a2afa4c75d1fe0b8a712f270166f838ef" name="a2afa4c75d1fe0b8a712f270166f838ef"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2afa4c75d1fe0b8a712f270166f838ef">&#9670;&#160;</a></span>SetSpell()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void TradeData::SetSpell </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>spell_id</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d9/d1e/a08320.html">Item</a> *&#160;</td>
-          <td class="paramname"><em>castItem</em> = <code>nullptr</code>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   77</span>{</div>
-<div class="line"><span class="lineno">   78</span>    <a class="code hl_class" href="../../d9/d48/a08412.html">ObjectGuid</a> itemGuid = castItem ? castItem-&gt;<a class="code hl_function" href="../../d1/d53/a08360.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>() : <a class="code hl_variable" href="../../d9/d48/a08412.html#a14039d3f3df79203693f713495503165">ObjectGuid::Empty</a>;</div>
-<div class="line"><span class="lineno">   79</span> </div>
-<div class="line"><span class="lineno">   80</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d3/d11/a08644.html#a291fdc4207d594982a780485b960f6fa">m_spell</a> == spell_id &amp;&amp; <a class="code hl_variable" href="../../d3/d11/a08644.html#adb76e2e7f01cc6f1ee4579ee177ba9c1">m_spellCastItem</a> == itemGuid)</div>
-<div class="line"><span class="lineno">   81</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">   82</span> </div>
-<div class="line"><span class="lineno">   83</span>    <a class="code hl_variable" href="../../d3/d11/a08644.html#a291fdc4207d594982a780485b960f6fa">m_spell</a> = spell_id;</div>
-<div class="line"><span class="lineno">   84</span>    <a class="code hl_variable" href="../../d3/d11/a08644.html#adb76e2e7f01cc6f1ee4579ee177ba9c1">m_spellCastItem</a> = itemGuid;</div>
-<div class="line"><span class="lineno">   85</span> </div>
-<div class="line"><span class="lineno">   86</span>    <a class="code hl_function" href="../../d3/d11/a08644.html#a9e48c5ee348c5a8d475c5e7b15058b16">SetAccepted</a>(<span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno">   87</span>    <a class="code hl_function" href="../../d3/d11/a08644.html#a91911ad105b24d6055a65b07ab6c269f">GetTraderData</a>()-&gt;<a class="code hl_function" href="../../d3/d11/a08644.html#a9e48c5ee348c5a8d475c5e7b15058b16">SetAccepted</a>(<span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno">   88</span> </div>
-<div class="line"><span class="lineno">   89</span>    <a class="code hl_function" href="../../d3/d11/a08644.html#a970e3a0d295495973bda1ff5b4732055">Update</a>(<span class="keyword">true</span>);                                           <span class="comment">// send spell info to item owner</span></div>
-<div class="line"><span class="lineno">   90</span>    <a class="code hl_function" href="../../d3/d11/a08644.html#a970e3a0d295495973bda1ff5b4732055">Update</a>(<span class="keyword">false</span>);                                          <span class="comment">// send spell info to caster self</span></div>
-<div class="line"><span class="lineno">   91</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00120">ObjectGuid::Empty</a>, <a class="el" href="../../#l00113">Object::GetGUID()</a>, <a class="el" href="../../#l00021">GetTraderData()</a>, <a class="el" href="../../#l00076">m_spell</a>, <a class="el" href="../../#l00077">m_spellCastItem</a>, <a class="el" href="../../#l00120">SetAccepted()</a>, and <a class="el" href="../../#l00112">Update()</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00244">WorldSession::HandleAcceptTradeOpcode()</a>, and <a class="el" href="../../#l00054">SetItem()</a>.</p>
-
-</div>
-</div>
-<a id="a970e3a0d295495973bda1ff5b4732055" name="a970e3a0d295495973bda1ff5b4732055"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a970e3a0d295495973bda1ff5b4732055">&#9670;&#160;</a></span>Update()</h2>
+<h2 class="groupheader">Friends And Related Function Documentation</h2>
+<a id="ac90a13e772eca1f96d98f76cfc8bf396" name="ac90a13e772eca1f96d98f76cfc8bf396"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac90a13e772eca1f96d98f76cfc8bf396">&#9670;&#160;</a></span>SocialMgr</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -759,36 +697,21 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void TradeData::Update </td>
-          <td>(</td>
-          <td class="paramtype">bool&#160;</td>
-          <td class="paramname"><em>for_trader</em> = <code>true</code></td><td>)</td>
-          <td></td>
+          <td class="memname">friend class <a class="el" href="../../de/d71/a08648.html">SocialMgr</a></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+<span class="mlabels"><span class="mlabel">friend</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  113</span>{</div>
-<div class="line"><span class="lineno">  114</span>    <span class="keywordflow">if</span> (forTarget)</div>
-<div class="line"><span class="lineno">  115</span>        <a class="code hl_variable" href="../../d3/d11/a08644.html#ae9c8547f43701f0693fd16df84ae2543">m_trader</a>-&gt;<a class="code hl_function" href="../../d8/d93/a08612.html#a6ab11ca64cde7c5cde1f53998a6f7253">GetSession</a>()-&gt;<a class="code hl_function" href="../../d8/d39/a11020.html#ada77032a1b7ad5a8d43e257a117239b9">SendUpdateTrade</a>(<span class="keyword">true</span>);      <span class="comment">// player state for trader</span></div>
-<div class="line"><span class="lineno">  116</span>    <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  117</span>        <a class="code hl_variable" href="../../d3/d11/a08644.html#aa19e7f2622b315f9cc75531999b795f4">m_player</a>-&gt;<a class="code hl_function" href="../../d8/d93/a08612.html#a6ab11ca64cde7c5cde1f53998a6f7253">GetSession</a>()-&gt;<a class="code hl_function" href="../../d8/d39/a11020.html#ada77032a1b7ad5a8d43e257a117239b9">SendUpdateTrade</a>(<span class="keyword">false</span>);     <span class="comment">// player state for player</span></div>
-<div class="line"><span class="lineno">  118</span>}</div>
-<div class="ttc" id="aa11020_html_ada77032a1b7ad5a8d43e257a117239b9"><div class="ttname"><a href="../../d8/d39/a11020.html#ada77032a1b7ad5a8d43e257a117239b9">WorldSession::SendUpdateTrade</a></div><div class="ttdeci">void SendUpdateTrade(bool trader_data=true)</div><div class="ttdef"><b>Definition:</b> TradeHandler.cpp:81</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l02016">Player::GetSession()</a>, <a class="el" href="../../#l00068">m_player</a>, <a class="el" href="../../#l00069">m_trader</a>, and <a class="el" href="../../#l00081">WorldSession::SendUpdateTrade()</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00054">SetItem()</a>, <a class="el" href="../../#l00093">SetMoney()</a>, and <a class="el" href="../../#l00076">SetSpell()</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="af2d924a288687047f4d6a47f81025a00" name="af2d924a288687047f4d6a47f81025a00"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af2d924a288687047f4d6a47f81025a00">&#9670;&#160;</a></span>m_accepted</h2>
+<a id="accf6a40286cca75dd9d5eed8cc3c6790" name="accf6a40286cca75dd9d5eed8cc3c6790"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#accf6a40286cca75dd9d5eed8cc3c6790">&#9670;&#160;</a></span>m_playerGUID</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -797,7 +720,7 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">bool TradeData::m_accepted</td>
+          <td class="memname"><a class="el" href="../../db/d20/a08420.html">ObjectGuid</a> PlayerSocial::m_playerGUID</td>
         </tr>
       </table>
   </td>
@@ -807,12 +730,12 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00120">SetAccepted()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00115">GetPlayerGUID()</a>, and <a class="el" href="../../#l00116">SetPlayerGUID()</a>.</p>
 
 </div>
 </div>
-<a id="a1e585dd9ed486381a55e108a709e4db3" name="a1e585dd9ed486381a55e108a709e4db3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1e585dd9ed486381a55e108a709e4db3">&#9670;&#160;</a></span>m_acceptProccess</h2>
+<a id="a608444605a276e67a868b7ceac94a954" name="a608444605a276e67a868b7ceac94a954"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a608444605a276e67a868b7ceac94a954">&#9670;&#160;</a></span>m_playerSocialMap</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -821,7 +744,7 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">bool TradeData::m_acceptProccess</td>
+          <td class="memname"><a class="el" href="../../d3/d11/a08644.html#abfb2167fc86ea41b8cf66eebdaa95ceb">PlayerSocialMap</a> PlayerSocial::m_playerSocialMap</td>
         </tr>
       </table>
   </td>
@@ -831,149 +754,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-</div>
-</div>
-<a id="ac27f6047b7585f8b3ef069af68851965" name="ac27f6047b7585f8b3ef069af68851965"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac27f6047b7585f8b3ef069af68851965">&#9670;&#160;</a></span>m_items</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d9/d48/a08412.html">ObjectGuid</a> TradeData::m_items[<a class="el" href="../../d9/d0d/a01748.html#ad8fd978c4198825d89a1f02643d20c62a1e8d56a5a22d784c5d388fd8bd206488">TRADE_SLOT_COUNT</a>]</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00026">GetItem()</a>, <a class="el" href="../../#l00040">GetTradeSlotForItem()</a>, <a class="el" href="../../#l00031">HasItem()</a>, and <a class="el" href="../../#l00054">SetItem()</a>.</p>
-
-</div>
-</div>
-<a id="ab5e22a1c07812f11d8692f6e1daf52c9" name="ab5e22a1c07812f11d8692f6e1daf52c9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab5e22a1c07812f11d8692f6e1daf52c9">&#9670;&#160;</a></span>m_money</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> TradeData::m_money</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00093">SetMoney()</a>.</p>
-
-</div>
-</div>
-<a id="aa19e7f2622b315f9cc75531999b795f4" name="aa19e7f2622b315f9cc75531999b795f4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa19e7f2622b315f9cc75531999b795f4">&#9670;&#160;</a></span>m_player</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d8/d93/a08612.html">Player</a>* TradeData::m_player</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00026">GetItem()</a>, <a class="el" href="../../#l00049">GetSpellCastItem()</a>, <a class="el" href="../../#l00120">SetAccepted()</a>, <a class="el" href="../../#l00093">SetMoney()</a>, and <a class="el" href="../../#l00112">Update()</a>.</p>
-
-</div>
-</div>
-<a id="a291fdc4207d594982a780485b960f6fa" name="a291fdc4207d594982a780485b960f6fa"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a291fdc4207d594982a780485b960f6fa">&#9670;&#160;</a></span>m_spell</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> TradeData::m_spell</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00076">SetSpell()</a>.</p>
-
-</div>
-</div>
-<a id="adb76e2e7f01cc6f1ee4579ee177ba9c1" name="adb76e2e7f01cc6f1ee4579ee177ba9c1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#adb76e2e7f01cc6f1ee4579ee177ba9c1">&#9670;&#160;</a></span>m_spellCastItem</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d9/d48/a08412.html">ObjectGuid</a> TradeData::m_spellCastItem</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00049">GetSpellCastItem()</a>, and <a class="el" href="../../#l00076">SetSpell()</a>.</p>
-
-</div>
-</div>
-<a id="ae9c8547f43701f0693fd16df84ae2543" name="ae9c8547f43701f0693fd16df84ae2543"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae9c8547f43701f0693fd16df84ae2543">&#9670;&#160;</a></span>m_trader</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d8/d93/a08612.html">Player</a>* TradeData::m_trader</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00021">GetTraderData()</a>, <a class="el" href="../../#l00120">SetAccepted()</a>, and <a class="el" href="../../#l00112">Update()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00179">_checkContact()</a>, <a class="el" href="../../#l00040">AddToSocialList()</a>, <a class="el" href="../../#l00212">SocialMgr::GetFriendInfo()</a>, <a class="el" href="../../#l00029">GetNumberOfSocialsWithFlag()</a>, <a class="el" href="../../#l00319">SocialMgr::LoadFromDB()</a>, <a class="el" href="../../#l00074">RemoveFromSocialList()</a>, <a class="el" href="../../#l00124">SendSocialList()</a>, and <a class="el" href="../../#l00105">SetFriendNote()</a>.</p>
 
 </div>
 </div>
@@ -982,8 +763,8 @@ Private Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d3/d11/a08644.html">TradeData</a></li>
-    <li class="footer">Generated on Mon Aug 18 2025 20:49:14 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d3/d11/a08644.html">PlayerSocial</a></li>
+    <li class="footer">Generated on Mon Aug 25 2025 20:47:06 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,6 +1,6 @@
 var a12264 =
 [
-    [ "boss_flamegorAI", "da/d4f/a12264.html#a4b3d46c3faa566095b0cedad3df9f057", null ],
-    [ "JustEngagedWith", "da/d4f/a12264.html#a6005dca71e2f20ee599e053e531377d6", null ],
-    [ "UpdateAI", "da/d4f/a12264.html#a2e5146815e533cf62e0084a54aa222d5", null ]
+    [ "go_chromaggus_leverAI", "d9/d82/a12268.html", "d9/d82/a12268" ],
+    [ "go_chromaggus_lever", "da/d4f/a12264.html#a88f8078cd5aa1863ca20c9b02a0e52d2", null ],
+    [ "GetAI", "da/d4f/a12264.html#ae307b36029147b8385b3c40878d1a3e4", null ]
 ];

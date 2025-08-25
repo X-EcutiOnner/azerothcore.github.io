@@ -1,6 +1,7 @@
 var a14192 =
 [
-    [ "HandleEffectRemove", "d8/d11/a14192.html#a8d5d43ae12fb6d65029008eadd56973a", null ],
-    [ "PrepareAuraScript", "d8/d11/a14192.html#abe527a7a4fda32c833f4762e82e2bd3d", null ],
-    [ "Register", "d8/d11/a14192.html#aa436788f638fedacb217ca508da5f426", null ]
+    [ "FilterTargets", "d8/d11/a14192.html#a00adeba9ac3e631109308b1e4bf8f529", null ],
+    [ "HandleEffect", "d8/d11/a14192.html#ab6dd7934cc6f10d327e80cd0b6bdfac9", null ],
+    [ "PrepareSpellScript", "d8/d11/a14192.html#a08127992c96fb02e87e9ade65a5375d5", null ],
+    [ "Register", "d8/d11/a14192.html#aeaf1955aece958a8e7d7773a33177e5d", null ]
 ];

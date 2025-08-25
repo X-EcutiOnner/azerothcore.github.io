@@ -1,6 +1,9 @@
 var a25540 =
 [
-    [ "CheckProc", "d7/d67/a25540.html#a8158e7338b29b072f0c851771d0e8eee", null ],
-    [ "PrepareAuraScript", "d7/d67/a25540.html#a44a18144e276e7bdc80c5a19f1d442e2", null ],
-    [ "Register", "d7/d67/a25540.html#ae24336f87db322e546bd858bc50f2351", null ]
+    [ "getMountSpellId", "d7/d67/a25540.html#afe306ed6057050baf342ee717723764d", null ],
+    [ "OnApply", "d7/d67/a25540.html#aa8bee986d413be60d00ac1d2111ef719", null ],
+    [ "OnRemove", "d7/d67/a25540.html#a162d466a1dcd2cb710abf12c06f7c2de", null ],
+    [ "PrepareAuraScript", "d7/d67/a25540.html#a7070cc7aeec4a88fbde960cebf1aef56", null ],
+    [ "Register", "d7/d67/a25540.html#a481e5295da3d789d9b3c1ed30fdaf0bd", null ],
+    [ "Validate", "d7/d67/a25540.html#a6868f6e88c9179efd921b266c83f6daf", null ]
 ];

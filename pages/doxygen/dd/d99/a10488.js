@@ -1,5 +1,6 @@
 var a10488 =
 [
-    [ "LogoutRequest", "dd/d99/a10488.html#ab92b0a8a5d3d076adbd465fcf24b7975", null ],
-    [ "Read", "dd/d99/a10488.html#a84701a16603f8b0f1e8dda1020ec1161", null ]
+    [ "ShowingCloak", "dd/d99/a10488.html#ac8fcfe92c148787a07b77d0b9ebb45cb", null ],
+    [ "Read", "dd/d99/a10488.html#ad72ae43efc070655aa078d9985369442", null ],
+    [ "ShowCloak", "dd/d99/a10488.html#aa9eda46557031d67b4a675bd998e5b7d", null ]
 ];

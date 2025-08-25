@@ -1,5 +1,5 @@
 var a20576 =
 [
-    [ "go_ulduar_working_harpoon", "df/d2f/a20576.html#a9aaaa16f23f07e402f20a048fd69d347", null ],
-    [ "OnGossipHello", "df/d2f/a20576.html#a164bdd0a9538293699665a821c4f25f3", null ]
+    [ "achievement_mimiron_set_up_us_the_bomb_13", "df/d2f/a20576.html#a74b0cafbc4be4261c8f8f2af3671cbd9", null ],
+    [ "OnCheck", "df/d2f/a20576.html#ac91196d094f159932ad871ffa9c0f405", null ]
 ];

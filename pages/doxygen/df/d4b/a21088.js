@@ -1,8 +1,6 @@
 var a21088 =
 [
-    [ "boss_keleseth", "df/d4b/a21088.html#ad2f0f020b0c92852dedadea5730e4e80", null ],
-    [ "AttackStart", "df/d4b/a21088.html#a731ebf8e9ff4f64582a8f9373ce08a39", null ],
-    [ "JustDied", "df/d4b/a21088.html#ad23ede5c869ab12dc1c2f6a783e9b539", null ],
-    [ "JustEngagedWith", "df/d4b/a21088.html#a8d5cba1dd481bdfaf93f6e2427880b2e", null ],
-    [ "KilledUnit", "df/d4b/a21088.html#a64d14f1b8f169128bbbc507730f4f1eb", null ]
+    [ "npc_ulduar_storm_tempered_keeperAI", "d7/dba/a21092.html", "d7/dba/a21092" ],
+    [ "npc_ulduar_storm_tempered_keeper", "df/d4b/a21088.html#aaf2ef154cad4f2ba5796e410dabf02fc", null ],
+    [ "GetAI", "df/d4b/a21088.html#aa0860236d2abedba1e521ee1610c89e8", null ]
 ];

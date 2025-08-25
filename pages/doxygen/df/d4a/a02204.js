@@ -1,5 +1,5 @@
 var a02204 =
 [
-    [ "guild_commandscript", "d6/dae/a11668.html", "d6/dae/a11668" ],
-    [ "AddSC_guild_commandscript", "df/d4a/a02204.html#af4f585942ab79df7bff025b621beef86", null ]
+    [ "HandleLearnSpellCommand", "df/d4a/a02204.html#acbe37f872cbc981a27671ebdf10904de", null ],
+    [ "HandleUnlearnSpellCommand", "df/d4a/a02204.html#ad36f90f90b3d9aaf782f7efc859f7e7a", null ]
 ];

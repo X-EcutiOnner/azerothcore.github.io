@@ -1,5 +1,8 @@
 var a14416 =
 [
-    [ "go_loosely_turned_soilAI", "db/d5b/a14416.html#a603641bc52d26521d64afaaeed3abc4d", null ],
-    [ "CanBeSeen", "db/d5b/a14416.html#a424b51b08d17ceb04b015cd535256889", null ]
+    [ "CalcPeriodic", "db/d5b/a14416.html#ae2ce9c161a25385c6de1f4b7607c9935", null ],
+    [ "HandleEffectApply", "db/d5b/a14416.html#a4321da69ee59416bd50e621b804e5423", null ],
+    [ "HandleEffectPeriodicUpdate", "db/d5b/a14416.html#a3f23e4a8fecf83ba580c904f15e1e98b", null ],
+    [ "PrepareAuraScript", "db/d5b/a14416.html#a956136be8cb484efc9af2429d8779a03", null ],
+    [ "Register", "db/d5b/a14416.html#a1d4b1c43305b3133e4ac7f8b6ce70727", null ]
 ];

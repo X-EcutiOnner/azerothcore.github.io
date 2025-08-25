@@ -1,6 +1,7 @@
 var a16792 =
 [
-    [ "boss_devourer_of_soulsAI", "df/da4/a16796.html", "df/da4/a16796" ],
-    [ "boss_devourer_of_souls", "dd/d04/a16792.html#a95b3a33be3b85a4c7ecfb4370a9ddc60", null ],
-    [ "GetAI", "dd/d04/a16792.html#a3de68fa630c5b74104c461f88edd1d36", null ]
+    [ "HandleScriptEffect", "dd/d04/a16792.html#a667e50b01f431dba025f692484f6e7ba", null ],
+    [ "PrepareSpellScript", "dd/d04/a16792.html#a9a5ffd28102a519c06f3715d7f2b1039", null ],
+    [ "Register", "dd/d04/a16792.html#a7ffa6eb498e9ec06d5cb4f81cff44389", null ],
+    [ "Validate", "dd/d04/a16792.html#a0ab270193a95f9043afd40c9ffd2a46b", null ]
 ];

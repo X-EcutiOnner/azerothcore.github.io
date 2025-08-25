@@ -1,8 +1,8 @@
 var a12936 =
 [
-    [ "npc_scarlet_miner_cartAI", "d6/d04/a12936.html#a4256e3bc9f6678dc85a3b702e1c531f8", null ],
-    [ "DoAction", "d6/d04/a12936.html#a99ac60b1a60cc5f269aa7f02f3fd5083", null ],
-    [ "PassengerBoarded", "d6/d04/a12936.html#a3539847efa7014a8e31a78ace83b6bc5", null ],
-    [ "SetGUID", "d6/d04/a12936.html#a5679fef6f40d0e48547e7bd57a93a176", null ],
-    [ "minerGUID", "d6/d04/a12936.html#a084e80b43b5b30b5e1794feff305e9b3", null ]
+    [ "npc_dkc1_gothikAI", "d6/d04/a12936.html#a35e65bd943f86ba3a1d6841569289df6", null ],
+    [ "DoAction", "d6/d04/a12936.html#a3193c562973bbf995ab5e0173a93d01f", null ],
+    [ "MoveInLineOfSight", "d6/d04/a12936.html#ac2ee224af001a78aa00013f6c8c9ad3d", null ],
+    [ "UpdateAI", "d6/d04/a12936.html#a346d32c9831babe6fb5f675b70b7a897", null ],
+    [ "spoken", "d6/d04/a12936.html#ac6f32e953a66f9e96ddc99b663014b0c", null ]
 ];

@@ -1,8 +1,9 @@
 var a16280 =
 [
-    [ "npc_black_knight_skeletal_gryphonAI", "d6/dc4/a16280.html#ada99dced1e560aebc908a0efb6c23d0a", null ],
-    [ "DoAction", "d6/dc4/a16280.html#af38e129cdf4af99e99c41b6a98448e56", null ],
-    [ "Reset", "d6/dc4/a16280.html#a5e20d5e17baaac92a560a5b2fe15fe7b", null ],
-    [ "UpdateAI", "d6/dc4/a16280.html#a851008790128831c5c10710b4cccb196", null ],
-    [ "WaypointReached", "d6/dc4/a16280.html#a74b5fb1d3631c404e7797085e45e6159", null ]
+    [ "npc_memoryAI", "d6/dc4/a16280.html#ad927d377d60b44f43808469042f5feb9", null ],
+    [ "JustDied", "d6/dc4/a16280.html#a7b0484919d671877f29dfa05ca1265d9", null ],
+    [ "Reset", "d6/dc4/a16280.html#a985c51bbfa2cceeb7601432491253aaf", null ],
+    [ "UpdateAI", "d6/dc4/a16280.html#a6cb74389f5aea91d2062e007ea08acd7", null ],
+    [ "events", "d6/dc4/a16280.html#a2ed2993e89728a3723456a67e13581f7", null ],
+    [ "pInstance", "d6/dc4/a16280.html#a31bcb5041844ea5e3a076ad1366897e1", null ]
 ];

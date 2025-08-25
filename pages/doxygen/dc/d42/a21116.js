@@ -1,10 +1,18 @@
 var a21116 =
 [
-    [ "npc_dragonflayer_forge_master", "dc/d42/a21116.html#a642c0fb5a5010c48403b8c3dc8bc14eb", null ],
-    [ "JustDied", "dc/d42/a21116.html#aa107e88bbc5b55a6ece5124c4081706e", null ],
-    [ "JustEngagedWith", "dc/d42/a21116.html#a3dfb76bb5cb13624e0709f1b25414360", null ],
-    [ "Reset", "dc/d42/a21116.html#af2c844c926b94456df796b4252e899c2", null ],
-    [ "dataId", "dc/d42/a21116.html#a35962dcbbef32dbc7f63dfa33cffd4b4", null ],
-    [ "pInstance", "dc/d42/a21116.html#a27b5988d777347832795581b0186c09f", null ],
-    [ "prevDataId", "dc/d42/a21116.html#aa057cb5ae681b4b802031151ea1a3529", null ]
+    [ "boss_ingvar_the_plunderer", "dc/d42/a21116.html#af37159882b0faabe46e6f7c26ea84913", null ],
+    [ "DamageTaken", "dc/d42/a21116.html#a14ec746bb57e77373e4c3f924dd9f952", null ],
+    [ "EnterEvadeMode", "dc/d42/a21116.html#a5bd8e575292b487a3381854f5ae87306", null ],
+    [ "FeignDeath", "dc/d42/a21116.html#afb732c1e7c74e88f63b2c3eee5ba3dd3", null ],
+    [ "JustDied", "dc/d42/a21116.html#ab3b0ea55dfb6bb90f7d60fec7f2ff8ff", null ],
+    [ "JustEngagedWith", "dc/d42/a21116.html#aedd8ccb3ab3b89cae9d80443ffa3edaa", null ],
+    [ "JustSummoned", "dc/d42/a21116.html#a9101d4c988585f221b503971df87621b", null ],
+    [ "KilledUnit", "dc/d42/a21116.html#ae8d5a148c7089f644db8ee686a04a2a8", null ],
+    [ "Reset", "dc/d42/a21116.html#a57ecf5f8008714c3f067afe5a2ec2ffe", null ],
+    [ "UpdateAI", "dc/d42/a21116.html#a59ee4cc1cf9cfe95ac77bdb637d01f71", null ],
+    [ "events", "dc/d42/a21116.html#ae2155e079dc748bfa1026a05916a8534", null ],
+    [ "pInstance", "dc/d42/a21116.html#ad4855d14fe94168f454a6b77a1ce5fde", null ],
+    [ "summons", "dc/d42/a21116.html#a687b5cd37794ff530180f6ba5c208162", null ],
+    [ "ThrowGUID", "dc/d42/a21116.html#af3b3c0ff36d28a3a7151a27a13879fe2", null ],
+    [ "ValkyrGUID", "dc/d42/a21116.html#a556e9720346ba84a858170bfd8e9f358", null ]
 ];

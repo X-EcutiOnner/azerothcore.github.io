@@ -1,7 +1,10 @@
 var a05376 =
 [
-    [ "MetricStopWatch", "d4/d93/a05376.html#a2007207e0985949f478fdeee300ea0d5", null ],
-    [ "~MetricStopWatch", "d4/d93/a05376.html#a712b660e090531e69455096afeb60c4c", null ],
-    [ "_logger", "d4/d93/a05376.html#a3af6d8a1a621f5e39b2d691ffbe2375c", null ],
-    [ "_startTime", "d4/d93/a05376.html#a74ad62e26a4f6598c76ca5c2d928d3a2", null ]
+    [ "Category", "d4/d93/a05376.html#a6a7956fedac99271428968ba339f464f", null ],
+    [ "Tags", "d4/d93/a05376.html#ac22787b2dadd4d3991f72f6ccab5c225", null ],
+    [ "Text", "d4/d93/a05376.html#ab63598f64896186fde81048550767b28", null ],
+    [ "Timestamp", "d4/d93/a05376.html#a8248a27d920ca431493750e3f2dec48b", null ],
+    [ "Title", "d4/d93/a05376.html#a857d2d4843480b9967334f079351292a", null ],
+    [ "Type", "d4/d93/a05376.html#af9962592650ba24fd9b3c0ee9ce06f7f", null ],
+    [ "Value", "d4/d93/a05376.html#a09832a09e989c3851e72f4ec198f0e20", null ]
 ];

@@ -1,8 +1,8 @@
 var a24428 =
 [
-    [ "npc_pet_darting_hatchling", "d3/d46/a24428.html#a7ae5973061068396bf382dc21e88cd44", null ],
-    [ "SpellHit", "d3/d46/a24428.html#a29ea5438bab7e606175c02165a607f9b", null ],
-    [ "UpdateAI", "d3/d46/a24428.html#a23196d05aebe5fa4a65455c55368820a", null ],
-    [ "checkTimer", "d3/d46/a24428.html#a3539276158abb5fd183ed1aa03a8ead8", null ],
-    [ "goFast", "d3/d46/a24428.html#aaf80b40200f2b8eb2861c69b1dbd2dde", null ]
+    [ "npc_pet_gen_gnomish_flame_turret", "d3/d46/a24428.html#a6e79c0ad6219d0beb23cfb086e6d3eaf", null ],
+    [ "AttackStart", "d3/d46/a24428.html#a2aab464c099e8e5e760a9ae4f28ac33f", null ],
+    [ "Reset", "d3/d46/a24428.html#a46fe5703a5859d5583e7df3a57b3910a", null ],
+    [ "UpdateAI", "d3/d46/a24428.html#ae3db08323af4b82009ffd660b3e78474", null ],
+    [ "checkTimer", "d3/d46/a24428.html#ac6705f4980ca561a5fd33c2917488439", null ]
 ];

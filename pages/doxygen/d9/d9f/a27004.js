@@ -1,5 +1,6 @@
 var a27004 =
 [
-    [ "achievement_bg_control_all_nodes", "d9/d9f/a27004.html#afa3c06227adff7a03998ac7c5f8147cf", null ],
-    [ "OnCheck", "d9/d9f/a27004.html#a69609eb5488519fa5a1f43b13a80e280", null ]
+    [ "HandleScript", "d9/d9f/a27004.html#ab2bad52272a5cd7167a7601fdfa02b1d", null ],
+    [ "PrepareSpellScript", "d9/d9f/a27004.html#a60454f2c1ba8d1ea160350b5e02bf56d", null ],
+    [ "Register", "d9/d9f/a27004.html#a22b9877e2cd27c925ae7b351d3d6f41b", null ]
 ];

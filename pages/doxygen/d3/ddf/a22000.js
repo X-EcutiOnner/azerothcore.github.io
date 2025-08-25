@@ -1,6 +1,6 @@
 var a22000 =
 [
-    [ "HandleOnEffectRemove", "d3/ddf/a22000.html#a5aeae7d8fc2fb8c8a1ce446ba1887c51", null ],
-    [ "PrepareAuraScript", "d3/ddf/a22000.html#af415e4d7ea0b4b881af94eb7ea0c3f4c", null ],
-    [ "Register", "d3/ddf/a22000.html#a242faa8822f9cdb7762d8ec3b6245b30", null ]
+    [ "npc_venture_co_stragglerAI", "de/d9f/a22004.html", "de/d9f/a22004" ],
+    [ "npc_venture_co_straggler", "d3/ddf/a22000.html#a9d928b33dfcd3a6ccb7e1f7a1964762f", null ],
+    [ "GetAI", "d3/ddf/a22000.html#a5f95d20c67553ae8a27f00ebb92e3627", null ]
 ];

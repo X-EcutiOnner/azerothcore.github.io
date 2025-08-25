@@ -1,25 +1,20 @@
 var a13028 =
 [
-    [ "npc_highlord_darion_mograineAI", "df/d85/a13028.html#a04be4c12a255c082b2a00daf40e86d96", null ],
-    [ "DoAction", "df/d85/a13028.html#a7103aa11bc2dff6942f4a4de5cd8d759", null ],
-    [ "FinishFight", "df/d85/a13028.html#ab3fef458ca3180f49d78579f7485e76c", null ],
-    [ "GetData", "df/d85/a13028.html#aa3eae106cf85eb7cb163f9780bf16b9f", null ],
-    [ "GetEntryFromSummons", "df/d85/a13028.html#a2c9e336d14667aabc3e1a8f3a99fc1e7", null ],
-    [ "JustDied", "df/d85/a13028.html#a2875789a251381677106f74e61efaa77", null ],
-    [ "JustEngagedWith", "df/d85/a13028.html#ac6ca07a76351dfc5a82b0a57fdfa08d8", null ],
-    [ "JustRespawned", "df/d85/a13028.html#a3116088116fe6b4a6b42014f7f5fb3a8", null ],
-    [ "JustSummoned", "df/d85/a13028.html#a9ddc2350ffbbf6e3ae91410da55bd326", null ],
-    [ "MovementInform", "df/d85/a13028.html#a205b7ebb74ca3be7a6a11fb2d8670288", null ],
-    [ "Reset", "df/d85/a13028.html#a7dde645763bab79e34fa7421dbec518e", null ],
-    [ "SendInitialWorldStates", "df/d85/a13028.html#ab49e38e481fcb263337f5224c1db7383", null ],
-    [ "SendUpdateWorldState", "df/d85/a13028.html#a32fed806170c3664eeb1dd2a1bfdf278", null ],
-    [ "SummonedCreatureDies", "df/d85/a13028.html#aa0935ab5c5a8a3ad41719e520703ff92", null ],
-    [ "UpdateAI", "df/d85/a13028.html#a086efd646a7298ce17f7ead4688fa022", null ],
-    [ "battleStarted", "df/d85/a13028.html#aecb7e1bdebf943e1793656f8a9c39917", null ],
-    [ "defendersRemaining", "df/d85/a13028.html#a49b41a9719548bffd2020caea7a94a3d", null ],
-    [ "events", "df/d85/a13028.html#a2155cbea373225904a3645a77738dea4", null ],
-    [ "resetExecuted", "df/d85/a13028.html#ae1431b2f46cf2ae096e7ddfb22e54a28", null ],
-    [ "scourgeRemaining", "df/d85/a13028.html#aabaa1fb49467d4dc5abf2a14ec833d15", null ],
-    [ "startTimeRemaining", "df/d85/a13028.html#a503f8e5166ec08664085ae032611de61", null ],
-    [ "summons", "df/d85/a13028.html#ae592eef844350ca8fa8415f343d8dffc", null ]
+    [ "Events", "df/d85/a13028.html#ac42a71db175efdf9b2ab4c2bbb899428", [
+      [ "EVENT_START_RITUAL", "df/d85/a13028.html#ac42a71db175efdf9b2ab4c2bbb899428a5c1cf14a3bf0dfd786daa93ac0a8b043", null ],
+      [ "EVENT_GHOULPLOSION", "df/d85/a13028.html#ac42a71db175efdf9b2ab4c2bbb899428a2fcb5b116ac91e1ae11dfb820a2c8e58", null ],
+      [ "EVENT_RAISE_GHOUL", "df/d85/a13028.html#ac42a71db175efdf9b2ab4c2bbb899428a77051c0b97f18ea906fd85d954ec6184", null ],
+      [ "EVENT_RESUME_WP", "df/d85/a13028.html#ac42a71db175efdf9b2ab4c2bbb899428a1db9eee6c0d33c1cf8b8107810a10ab0", null ]
+    ] ],
+    [ "Points", "df/d85/a13028.html#aaa928de603fc54bbfec990160bce55e9", [
+      [ "POINT_CORPSE_REACHED", "df/d85/a13028.html#aaa928de603fc54bbfec990160bce55e9a8f666ca441d6b3c527fe55f20534c389", null ]
+    ] ],
+    [ "npc_acherus_necromancerAI", "df/d85/a13028.html#a6cec770b61952cd8df720ac783ea46e5", null ],
+    [ "MovementInform", "df/d85/a13028.html#ad446b9b5bbd6f27ac9d3c71d0fe48518", null ],
+    [ "Reset", "df/d85/a13028.html#a3fece0dc9ec211be3e4130240428ad57", null ],
+    [ "UpdateAI", "df/d85/a13028.html#a5bddb39afcb84311536b621679619305", null ],
+    [ "events", "df/d85/a13028.html#a1c119e9719fe139d30b7d2cfd1822ad1", null ],
+    [ "geistGUID", "df/d85/a13028.html#af8d7f13d1b58a01311637d004bf14f2c", null ],
+    [ "isOnRitual", "df/d85/a13028.html#ab04499369c51994457e6aec2d635a5cf", null ],
+    [ "targetCorpseGUID", "df/d85/a13028.html#adf1d8777507658f264c951c88623ce9e", null ]
 ];

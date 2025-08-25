@@ -1,5 +1,5 @@
 var a27336 =
 [
-    [ "go_arcane_prison", "db/dbd/a27336.html#ad73ac33d843027de0e516de8f90c45a0", null ],
-    [ "OnGossipHello", "db/dbd/a27336.html#a0f9d414ce1f3f3e734cb79a554f7523e", null ]
+    [ "go_tablet_of_the_seven", "db/dbd/a27336.html#aa5bcd36c6d0250571f6721f71864ab59", null ],
+    [ "OnGossipHello", "db/dbd/a27336.html#a54d27dc2a52d69d8fd9605c358a855fc", null ]
 ];

@@ -1,10 +1,9 @@
 var a09324 =
 [
-    [ "MostHPPercentMissingInRange", "da/df4/a09324.html#aaef0deb21e2470b45cafc22a8c4d18a5", null ],
-    [ "operator()", "da/df4/a09324.html#ab1734490a3db95ad715756e85ecfaf77", null ],
-    [ "i_hpPct", "da/df4/a09324.html#a41a3b1c4d1f27a2d727e7a18e2e30a7d", null ],
-    [ "i_maxHpPct", "da/df4/a09324.html#afd12795ef0cd99e05e4e21f869582416", null ],
-    [ "i_minHpPct", "da/df4/a09324.html#a11c197d3eea1a8ded0b20f707e6ed5d0", null ],
-    [ "i_obj", "da/df4/a09324.html#a724cf058a6bcf02864a49bb288e32ce6", null ],
-    [ "i_range", "da/df4/a09324.html#a021acff6bdb6aef9ab24c19d8798884f", null ]
+    [ "NearestGameObjectTypeInObjectRangeCheck", "da/df4/a09324.html#a46cde63433cf803205006ad775fe73b5", null ],
+    [ "NearestGameObjectTypeInObjectRangeCheck", "da/df4/a09324.html#a4bf0dee77fb4979a02eebdc610995640", null ],
+    [ "operator()", "da/df4/a09324.html#ac41947606f4344e19edb13aa58f0a5a7", null ],
+    [ "i_obj", "da/df4/a09324.html#aca71a09421fdf412489f7f54cf4bc379", null ],
+    [ "i_range", "da/df4/a09324.html#a37f212d5cb1ef2b8d55e19b749861a17", null ],
+    [ "i_type", "da/df4/a09324.html#a68965425169b93053eadad91403855e0", null ]
 ];

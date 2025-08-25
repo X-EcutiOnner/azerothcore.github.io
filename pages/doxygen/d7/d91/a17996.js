@@ -1,7 +1,6 @@
 var a17996 =
 [
-    [ "HandleScript", "d7/d91/a17996.html#a802f667b20bccd3395c233482aa2485b", null ],
-    [ "PrepareSpellScript", "d7/d91/a17996.html#ad371e6387d5df422eaa05acc9efe2f46", null ],
-    [ "Register", "d7/d91/a17996.html#a730fded490df68f501010f952ceea40b", null ],
-    [ "Validate", "d7/d91/a17996.html#a8ec4a10d4d3c348029256fec28a19ed6", null ]
+    [ "boss_rotfaceAI", "d4/d9a/a18000.html", "d4/d9a/a18000" ],
+    [ "boss_rotface", "d7/d91/a17996.html#a8896f5ed16c728d72a123b2e92a174fb", null ],
+    [ "GetAI", "d7/d91/a17996.html#a8a3ff9ef99da7d72ce2f7827bfc2564b", null ]
 ];

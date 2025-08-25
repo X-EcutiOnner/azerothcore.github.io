@@ -1,6 +1,10 @@
 var a10408 =
 [
-    [ "WorldMapScript", "d1/d0e/a10408.html#a49300e796ceb6ab1a40ed9cbb89a9e4d", null ],
-    [ "checkValidity", "d1/d0e/a10408.html#aa212e582764d2cfbc5e7e600a54f2cb4", null ],
-    [ "isAfterLoadScript", "d1/d0e/a10408.html#a6aeda6e4c8328d7334527cbe69311ddc", null ]
+    [ "VehicleScript", "d1/d0e/a10408.html#a9f708a7e432fcb4abe15dcabb0e5a035", null ],
+    [ "OnAddPassenger", "d1/d0e/a10408.html#a4495f8900ecb85546ac23ebe4783ae7c", null ],
+    [ "OnInstall", "d1/d0e/a10408.html#abbb42dcbc5fad97ed1df45ea7b3afe54", null ],
+    [ "OnInstallAccessory", "d1/d0e/a10408.html#ad59ae4c47404abb86e05ae983704f6ea", null ],
+    [ "OnRemovePassenger", "d1/d0e/a10408.html#ad4094366aba1fb6a1ff19361d1be9210", null ],
+    [ "OnReset", "d1/d0e/a10408.html#a38fca3fec8785f015084b832f9e3b08c", null ],
+    [ "OnUninstall", "d1/d0e/a10408.html#a7d4bafe42756ee73b5ce79783842c243", null ]
 ];

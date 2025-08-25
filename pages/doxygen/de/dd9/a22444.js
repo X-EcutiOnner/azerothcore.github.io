@@ -1,6 +1,6 @@
 var a22444 =
 [
-    [ "npc_drakuru_shacklesAI", "df/dec/a22448.html", "df/dec/a22448" ],
-    [ "npc_drakuru_shackles", "de/dd9/a22444.html#a2b15a214b34d86597cba09b17654e4ff", null ],
-    [ "GetAI", "de/dd9/a22444.html#a90ce98de4630771858cd3b79264a28f9", null ]
+    [ "PrepareSpellScript", "de/dd9/a22444.html#ae9a4734c9b12473f86c91a49860d56dd", null ],
+    [ "RecalculateDamage", "de/dd9/a22444.html#ad47d51e68c6ffe60f15beceaffc60b19", null ],
+    [ "Register", "de/dd9/a22444.html#a0dbeb30ba0eb22f4eb762f0a14cc6f39", null ]
 ];

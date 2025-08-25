@@ -1,6 +1,9 @@
 var a27600 =
 [
-    [ "npc_guardianAI", "db/d48/a27604.html", "db/d48/a27604" ],
-    [ "npc_guardian", "d8/ddc/a27600.html#aa614e73ae6a6c128c323ac275652dbf1", null ],
-    [ "GetAI", "d8/ddc/a27600.html#a3e65ccc70be9d25b2d8563c23146ef4f", null ]
+    [ "npc_chicken_cluckAI", "d8/ddc/a27600.html#a4f2eaa107e2a8b4900fac54780ac9693", null ],
+    [ "JustEngagedWith", "d8/ddc/a27600.html#a854eae196c68cb1e4dd1c1773870ef9a", null ],
+    [ "ReceiveEmote", "d8/ddc/a27600.html#aa5d6d3ea3ad4d0f81781581a39933fc8", null ],
+    [ "Reset", "d8/ddc/a27600.html#a5a32f458a7f09282e7ac53fa7d6255b4", null ],
+    [ "UpdateAI", "d8/ddc/a27600.html#a86c8f74d0a55b9a041a789f16de8189d", null ],
+    [ "ResetFlagTimer", "d8/ddc/a27600.html#a0d0507ae7a1eca369df288515856e1b5", null ]
 ];

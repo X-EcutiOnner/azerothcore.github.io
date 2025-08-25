@@ -1,7 +1,6 @@
 var a24284 =
 [
-    [ "npc_kservantAI", "d7/de0/a24284.html#a0687712690f2bacd24da1c94d222e761", null ],
-    [ "IsSummonedBy", "d7/de0/a24284.html#a6aa9c1544fffdd9916eda7a0941dc828", null ],
-    [ "Reset", "d7/de0/a24284.html#a0756ffacb97c83a3028afc620b32f349", null ],
-    [ "WaypointReached", "d7/de0/a24284.html#a577a2ebb91c08bfe2e09bc67eeebb4ef", null ]
+    [ "npc_shadowmoon_tuber_nodeAI", "d4/d40/a24288.html", "d4/d40/a24288" ],
+    [ "npc_shadowmoon_tuber_node", "d7/de0/a24284.html#a98e8c7a84789457900fa342cca209d41", null ],
+    [ "GetAI", "d7/de0/a24284.html#a5f641af77e2fd78fe67b34fa18bf6b73", null ]
 ];

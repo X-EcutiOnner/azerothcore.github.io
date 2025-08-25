@@ -1,17 +1,13 @@
 var a11688 =
 [
-    [ "learn_commandscript", "d7/d6e/a11688.html#a7ef51367ab7ab1c360390ff5552c0f51", null ],
-    [ "GetCommands", "d7/d6e/a11688.html#a8c8f73f3c1d5dbddd5a3d2e89ea326d8", null ],
-    [ "HandleLearnAllCraftsCommand", "d7/d6e/a11688.html#ae25064fa03d022277a368f52a17e5b70", null ],
-    [ "HandleLearnAllDefaultCommand", "d7/d6e/a11688.html#a985d2a10f01808c4bff2922b1530e911", null ],
-    [ "HandleLearnAllGMCommand", "d7/d6e/a11688.html#a88e28ec43968c5a8b0bfd1f190d89a98", null ],
-    [ "HandleLearnAllLangCommand", "d7/d6e/a11688.html#aaf4d779b47511db72727fe44fb1bbd2d", null ],
-    [ "HandleLearnAllMyClassCommand", "d7/d6e/a11688.html#a956716b7743dfc6de922b0badf40aeda", null ],
-    [ "HandleLearnAllMyPetTalentsCommand", "d7/d6e/a11688.html#a2a7cc02eb4417907b50d49bab39110cf", null ],
-    [ "HandleLearnAllMySpellsCommand", "d7/d6e/a11688.html#af95e27d3bfb3cd421a0fd13f9f655755", null ],
-    [ "HandleLearnAllMyTalentsCommand", "d7/d6e/a11688.html#aaa19e92798ac56355a95e625ead56556", null ],
-    [ "HandleLearnAllRecipesCommand", "d7/d6e/a11688.html#a44b538a1031ad69bec762f1a791cf11f", null ],
-    [ "HandleLearnCommand", "d7/d6e/a11688.html#ab59da6873596596ee84509cb0060e760", null ],
-    [ "HandleLearnSkillRecipesHelper", "d7/d6e/a11688.html#ae8bd0389415fdeb70d369b694b953619", null ],
-    [ "HandleUnLearnCommand", "d7/d6e/a11688.html#a2dc980af9662b3b1c783e3603732ca01", null ]
+    [ "gm_commandscript", "d7/d6e/a11688.html#a1b24112b70818778755ef9b5b062b2e8", null ],
+    [ "GetCommands", "d7/d6e/a11688.html#a17c725e18324de7aadff260c77d75c45", null ],
+    [ "HandleGMChatCommand", "d7/d6e/a11688.html#a15a18b1179a602da3eeba7e8247fbbac", null ],
+    [ "HandleGMFlyCommand", "d7/d6e/a11688.html#a29829660f39c9bfa4190bbb118f482ba", null ],
+    [ "HandleGMListFullCommand", "d7/d6e/a11688.html#add9bd1e64f98964e68cd1be3df6295e7", null ],
+    [ "HandleGMListIngameCommand", "d7/d6e/a11688.html#ab6d59a1c29bd66b699ae597351b969d9", null ],
+    [ "HandleGMOffCommand", "d7/d6e/a11688.html#a66de9b1d6abaad56419a43d65861b5b3", null ],
+    [ "HandleGMOnCommand", "d7/d6e/a11688.html#afb0f18226aac1f581d09f3b7fe9d0ce7", null ],
+    [ "HandleGMSpectatorCommand", "d7/d6e/a11688.html#ab05933bfefd1f5727bef430eeac2cee9", null ],
+    [ "HandleGMVisibleCommand", "d7/d6e/a11688.html#a7af08caf6d3fba1b6ee29ea90b20fef8", null ]
 ];

@@ -1,14 +1,15 @@
 var a07516 =
 [
-    [ "FilteredCommandListIterator", "d8/d12/a07516.html#abd6dc5c1e3c56eb27856eddb46d5e6a6", null ],
-    [ "_skip", "d8/d12/a07516.html#ac2f0e09b76eb9d40d1b78279a81a5e65", null ],
-    [ "operator bool", "d8/d12/a07516.html#aaeb128830c7705a455343d173dc3ae5a", null ],
-    [ "operator!", "d8/d12/a07516.html#a864e81c56946ca97bf24b392ff8f0b8f", null ],
-    [ "operator*", "d8/d12/a07516.html#a7b1008103a94f6dc068d3e839c924ea6", null ],
-    [ "operator++", "d8/d12/a07516.html#a6d4a54adde98e638428a8d314a6e4356", null ],
-    [ "operator->", "d8/d12/a07516.html#ad83cb2c649a847d0cd04b5fd8ee8494c", null ],
-    [ "_end", "d8/d12/a07516.html#a294c3b743ac4b1a1b878d02a6580d3ca", null ],
-    [ "_handler", "d8/d12/a07516.html#a0c64270cd18f8988997882ceb3e10184", null ],
-    [ "_it", "d8/d12/a07516.html#abbf6ac9d50ba494221addff9aba11b80", null ],
-    [ "_token", "d8/d12/a07516.html#acb834f907b55195f2a27d69f89d84961", null ]
+    [ "Print", "d8/d12/a07516.html#a7a3f746595d9ca126747f5e0ba52c71b", null ],
+    [ "CliHandler", "d8/d12/a07516.html#a6a7ba928db9d41743d7cebd1ad98b084", null ],
+    [ "GetAcoreString", "d8/d12/a07516.html#ab12ec41c55bc5f92461abff538a76b66", null ],
+    [ "GetNameLink", "d8/d12/a07516.html#ae879bbfa69992caa7a0b1b2b3c7d939c", null ],
+    [ "GetSessionDbcLocale", "d8/d12/a07516.html#a610f7431dc7b064c964e0d446160d19f", null ],
+    [ "GetSessionDbLocaleIndex", "d8/d12/a07516.html#a5a2118d9227aa53818d736e387d77dea", null ],
+    [ "HasSession", "d8/d12/a07516.html#a1cd4aabe4c61e3899a1e6d6785742abe", null ],
+    [ "needReportToTarget", "d8/d12/a07516.html#ad8c4ee6e45afff55d94dea9704bd2097", null ],
+    [ "ParseCommands", "d8/d12/a07516.html#abbd02247d6094bf39b2791ba45e9942e", null ],
+    [ "SendSysMessage", "d8/d12/a07516.html#a636be10a282a8d100b807dac119b3ff6", null ],
+    [ "m_callbackArg", "d8/d12/a07516.html#aa1fafd68fca180506cc15680b695db9e", null ],
+    [ "m_print", "d8/d12/a07516.html#aadeaa84ce5d26951f506a2656c1d64d2", null ]
 ];

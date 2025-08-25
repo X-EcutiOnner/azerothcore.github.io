@@ -1,5 +1,7 @@
 var a12392 =
 [
-    [ "npc_garr_fireswornAI", "d8/df2/a12392.html#af2454b2ddf93102378ebf9780d260e56", null ],
-    [ "DamageTaken", "d8/df2/a12392.html#ae9582b14e82b163ff97b99cb603e0179", null ]
+    [ "HandleEffectScriptEffect", "d8/df2/a12392.html#a8157c4b213b3b4e260222976e283e2ae", null ],
+    [ "PrepareSpellScript", "d8/df2/a12392.html#aa8a4fdd0dc5c06a836ac05cec0dccd75", null ],
+    [ "Register", "d8/df2/a12392.html#aeda056b568b4956ba35b32a3f20c053e", null ],
+    [ "Validate", "d8/df2/a12392.html#a29a7f51f01e1ccf71dcc53ad68f032ae", null ]
 ];

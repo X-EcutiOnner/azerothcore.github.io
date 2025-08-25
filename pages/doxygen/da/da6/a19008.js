@@ -1,6 +1,13 @@
 var a19008 =
 [
-    [ "NotOnSameSide", "da/da6/a19008.html#ac3189b202a8c0ca4c8f52799ed54e284", null ],
-    [ "operator()", "da/da6/a19008.html#a59ea48b9633049180ec62d3616fe4dea", null ],
-    [ "m_inLiveSide", "da/da6/a19008.html#a77c1d18f54609a5f4da2e9c13f62293d", null ]
+    [ "boss_anubrekhanAI", "da/da6/a19008.html#a6ff658a5aab3b13c4594f5bc44a62818", null ],
+    [ "JustDied", "da/da6/a19008.html#a8a32a256b39558e802d45ae5f4038b79", null ],
+    [ "JustEngagedWith", "da/da6/a19008.html#a0cd5bd7a04b52abcc23a2131d5cbfd2e", null ],
+    [ "JustSummoned", "da/da6/a19008.html#a9fa11bc9192f0b75220383b3ef876219", null ],
+    [ "KilledUnit", "da/da6/a19008.html#a9070ebcd6ca976fc89af88b3de177bcc", null ],
+    [ "MoveInLineOfSight", "da/da6/a19008.html#a75dd903dd059a0fe20e291713e880bc3", null ],
+    [ "Reset", "da/da6/a19008.html#acd6ae267a6848e146128d56196d1af79", null ],
+    [ "SummonCryptGuards", "da/da6/a19008.html#a1dbf747694350bdc835f19ed0b22741c", null ],
+    [ "SummonedCreatureDies", "da/da6/a19008.html#a4889de03a80cc4c3bc0fd41042d1d905", null ],
+    [ "sayGreet", "da/da6/a19008.html#ab2210c62a9a21f426f0ef0b1b1d27162", null ]
 ];

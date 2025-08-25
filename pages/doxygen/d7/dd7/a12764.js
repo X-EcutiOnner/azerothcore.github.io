@@ -1,5 +1,6 @@
 var a12764 =
 [
-    [ "textid", "d7/dd7/a12764.html#a7dac5c31d7df501f28eee3e1dec0523a", null ],
-    [ "timer", "d7/dd7/a12764.html#ab7851f383e7221c6ff2700ee345d9504", null ]
+    [ "npc_grandmother", "d7/dd7/a12764.html#a6cffe8c574859779f6561dde0aef9666", null ],
+    [ "OnGossipHello", "d7/dd7/a12764.html#ae39335d22b5fd1fc4c0f9d34e8977124", null ],
+    [ "OnGossipSelect", "d7/dd7/a12764.html#a0e2b684377ed593abfbb49b730cfe9b2", null ]
 ];

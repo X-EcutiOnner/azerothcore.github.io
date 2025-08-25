@@ -1,7 +1,6 @@
 var a11140 =
 [
-    [ "WorldObjectSpellAreaTargetCheck", "d8/dd7/a11140.html#a2b017300220426ac42de18e3a8699219", null ],
-    [ "operator()", "d8/dd7/a11140.html#a36a7194e3ffbdc2ea1c4bd5ed5997da4", null ],
-    [ "_position", "d8/dd7/a11140.html#a680c45dd148161657da011a1772375ca", null ],
-    [ "_range", "d8/dd7/a11140.html#a4ee3762b4a7f35d252cbb5337d61d92c", null ]
+    [ "ChannelTargetData", "d8/dd7/a11140.html#a26f2a2037750712d8718d9537603e3a1", null ],
+    [ "channelGUID", "d8/dd7/a11140.html#afad1c896d6a137ebb224fd636ba4d7f2", null ],
+    [ "spellDst", "d8/dd7/a11140.html#aa5cfec093a599f4bf33ebf0c73a2f4ac", null ]
 ];

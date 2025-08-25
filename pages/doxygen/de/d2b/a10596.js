@@ -1,6 +1,5 @@
 var a10596 =
 [
-    [ "GuildInviteByName", "de/d2b/a10596.html#a5e0bab98d87000ad796ebb2753cd566b", null ],
-    [ "Read", "de/d2b/a10596.html#a91f3fba33e265cbb119f1d3e69d4a8ca", null ],
-    [ "Name", "de/d2b/a10596.html#a048c7ed9de19bcb57c0cdb10e2cf3bef", null ]
+    [ "AcceptGuildInvite", "de/d2b/a10596.html#a4453fc550871082f6295d9229eef265a", null ],
+    [ "Read", "de/d2b/a10596.html#a3d39b917ca2650f645ccce12cdc1a1e0", null ]
 ];

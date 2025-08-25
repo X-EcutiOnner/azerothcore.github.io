@@ -1,8 +1,8 @@
 var a09428 =
 [
-    [ "AllGameObjectsWithEntryInRange", "df/d62/a09428.html#ab5a57e9a5f8b927b28f1fc9d6f6fce56", null ],
-    [ "operator()", "df/d62/a09428.html#a342aa18d98413620fce4c676fcf75305", null ],
-    [ "m_fRange", "df/d62/a09428.html#a7cce16670c95c19f3eb68e5914160513", null ],
-    [ "m_pObject", "df/d62/a09428.html#a5c898c20992999f11204aab6479d71f6", null ],
-    [ "m_uiEntry", "df/d62/a09428.html#a64ff0c14c71e218b8f9a8888b1017fec", null ]
+    [ "NearestPlayerInObjectRangeCheck", "df/d62/a09428.html#ae8e57c69baf8bdaf0448864d4afbb1a4", null ],
+    [ "NearestPlayerInObjectRangeCheck", "df/d62/a09428.html#aac3d406d10a036b92a55bcd955411165", null ],
+    [ "operator()", "df/d62/a09428.html#a5d7ed3141c03d2209d5a3b1a689d1668", null ],
+    [ "i_obj", "df/d62/a09428.html#a9cd17091269bcfc2b48fefc12ac9b127", null ],
+    [ "i_range", "df/d62/a09428.html#ab55f93d7c5d6ca3461bcbe49010fcb83", null ]
 ];

@@ -1,6 +1,6 @@
 var a14008 =
 [
-    [ "HandleOnHit", "db/dc6/a14008.html#a1f133ab9e85f80c225276bf744da6898", null ],
-    [ "PrepareSpellScript", "db/dc6/a14008.html#ae554f8be36eabc6d23f823e6d153be2b", null ],
-    [ "Register", "db/dc6/a14008.html#a1063358ed71ded8454f35f43442354ab", null ]
+    [ "boss_hakkarAI", "da/d46/a14012.html", "da/d46/a14012" ],
+    [ "boss_hakkar", "db/dc6/a14008.html#a834bd1f223154fbf1be94bf43136da28", null ],
+    [ "GetAI", "db/dc6/a14008.html#aff3a089e30dcddfde4db372104153723", null ]
 ];

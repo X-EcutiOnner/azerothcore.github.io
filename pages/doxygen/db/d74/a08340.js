@@ -1,5 +1,5 @@
 var a08340 =
 [
-    [ "Color", "db/d74/a08340.html#ad6232c851b72ce04d2dcfa00596fc1df", null ],
-    [ "Content", "db/d74/a08340.html#a5437849d9b7f229c4466e174d619d057", null ]
+    [ "ItemStatType", "db/d74/a08340.html#a8643f062d325b5048c839525db56af3e", null ],
+    [ "ItemStatValue", "db/d74/a08340.html#a5a5ee42445d9121f186c084dfbc31425", null ]
 ];

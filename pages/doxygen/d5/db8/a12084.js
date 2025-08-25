@@ -1,6 +1,6 @@
 var a12084 =
 [
-    [ "npc_blackhand_incarceratorAI", "d6/ddb/a12088.html", "d6/ddb/a12088" ],
-    [ "npc_blackhand_incarcerator", "d5/db8/a12084.html#a0c6bb8ea789e81803a11be57ac1b68e2", null ],
-    [ "GetAI", "d5/db8/a12084.html#a021ddf6442812f7fb698ba7fb45b9ffb", null ]
+    [ "boss_highlordomokkAI", "d6/ddb/a12088.html", "d6/ddb/a12088" ],
+    [ "boss_highlord_omokk", "d5/db8/a12084.html#af5174587ed3cd1c46f604183a75de99e", null ],
+    [ "GetAI", "d5/db8/a12084.html#afb8efb012791c6a2fc18975a1ec7f984", null ]
 ];

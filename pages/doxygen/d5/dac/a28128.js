@@ -1,7 +1,8 @@
 var a28128 =
 [
-    [ "Displayid", "d5/dac/a28128.html#adc5aee11b1e27752576b0b98156d3b3c", null ],
-    [ "ExtendedDisplayInfoID", "d5/dac/a28128.html#a174d6f73393e6dcfeecf487fc09c2e6f", null ],
-    [ "ModelId", "d5/dac/a28128.html#ada31381a4ee360e2fcb68403bc6d14e5", null ],
-    [ "scale", "d5/dac/a28128.html#ae15b89669bf5d711cc57c21d8c8be0dd", null ]
+    [ "gender", "d5/dac/a28128.html#a571684c3aa6f2b0192b545d2a38ab333", null ],
+    [ "hair_id", "d5/dac/a28128.html#af4646a9adb0a1dc18b34158de2116b84", null ],
+    [ "Id", "d5/dac/a28128.html#a05de87081cf628e806d6518eef1424e4", null ],
+    [ "race", "d5/dac/a28128.html#a458f5a1e2aca1fd34bb1afadeb5f6db2", null ],
+    [ "type", "d5/dac/a28128.html#a289bb362ba13235c754647ba67be1e56", null ]
 ];

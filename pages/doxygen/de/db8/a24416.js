@@ -1,9 +1,6 @@
 var a24416 =
 [
-    [ "npc_pet_gen_toxic_wasteling", "de/db8/a24416.html#a550a1a9324f605b1a9fd715571f819b7", null ],
-    [ "EnterEvadeMode", "de/db8/a24416.html#abe25deca7fd1c319085995657d62f22a", null ],
-    [ "MovementInform", "de/db8/a24416.html#aec73d567c3bd178ffee3bdece83a409e", null ],
-    [ "Reset", "de/db8/a24416.html#a06a8be653c8685aaf28aee1d1d3ae114", null ],
-    [ "UpdateAI", "de/db8/a24416.html#a22f96d995fcc722c0e95c4f5692cc128", null ],
-    [ "checkTimer", "de/db8/a24416.html#aafe402e0443bd39a1b7aa274d95edad6", null ]
+    [ "achievement", "de/db8/a24416.html#abb6071e172abbcbc65020a0ad9554a03", null ],
+    [ "spell", "de/db8/a24416.html#a740f9162b10d31d1677a4ac4f5926db6", null ],
+    [ "text", "de/db8/a24416.html#aa92e42bc2c54c3b4b1022d5767fcf10c", null ]
 ];

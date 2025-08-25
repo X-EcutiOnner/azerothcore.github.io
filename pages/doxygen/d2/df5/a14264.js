@@ -1,7 +1,6 @@
 var a14264 =
 [
-    [ "HandleScriptEffect", "d2/df5/a14264.html#ae758c224878aebdde0124b5d4ec902a5", null ],
-    [ "PrepareSpellScript", "d2/df5/a14264.html#ac3755ef09a905d90ce7df328b83d51aa", null ],
-    [ "Register", "d2/df5/a14264.html#a051d0fe383e5675e39e4ac8ed7a6e329", null ],
-    [ "Validate", "d2/df5/a14264.html#a56f71954e122f651c6e2ec68453e16cc", null ]
+    [ "CheckItem", "d2/df5/a14264.html#a71f8c9bad4a102914a1047ef61d20f92", null ],
+    [ "PrepareSpellScript", "d2/df5/a14264.html#a0fa160f1218cf838444f894716cb8aed", null ],
+    [ "Register", "d2/df5/a14264.html#a2a6816d9ab97abddfa20cd6413a94178", null ]
 ];

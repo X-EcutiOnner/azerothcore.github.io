@@ -1,7 +1,7 @@
 var a11972 =
 [
-    [ "boss_moira_bronzebeardAI", "d3/d0a/a11972.html#a11265b6aad76574c2c76253128c79165", null ],
-    [ "CastOnEmperorIfPossible", "d3/d0a/a11972.html#a3f42c37e9f4cc14974106bf67ee4e583", null ],
-    [ "JustEngagedWith", "d3/d0a/a11972.html#a40ae00eb86e2bec048a9394d4deef106", null ],
-    [ "UpdateAI", "d3/d0a/a11972.html#ae3f22a059330fb564cd30e581fc0198d", null ]
+    [ "boss_gorosh_the_dervishAI", "d3/d0a/a11972.html#adac003c51a2d1d0a8daa6ba552114c25", null ],
+    [ "JustEngagedWith", "d3/d0a/a11972.html#a52bc5f76baff626b8834aa604fdd8e6a", null ],
+    [ "UpdateAI", "d3/d0a/a11972.html#aa17e26419a8e3f7cd99c5e9b44be8ed8", null ],
+    [ "nextWhirlwindTime", "d3/d0a/a11972.html#a07f1af63bc54d1b4c8d8e1cd87a787a1", null ]
 ];

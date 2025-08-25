@@ -1,5 +1,5 @@
 var a04859 =
 [
-    [ "MDDF", "dd/d25/a28792.html", "dd/d25/a28792" ],
-    [ "MODF", "d6/df6/a28796.html", "d6/df6/a28796" ]
+    [ "InitWorldStates", "d9/d74/a10948.html", "d9/d74/a10948" ],
+    [ "UpdateWorldState", "d8/dcb/a10956.html", "d8/dcb/a10956" ]
 ];

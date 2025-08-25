@@ -1,8 +1,9 @@
 var a26264 =
 [
-    [ "AfterCheckProc", "db/dd1/a26264.html#ad817bc9b07538434956bf64ea1dd0367", null ],
-    [ "HandleProc", "db/dd1/a26264.html#af972e6ed5524dadd618d6cd907c0241b", null ],
-    [ "PrepareAuraScript", "db/dd1/a26264.html#a0fbc28d9a524b6dff6783077ecd0b3b9", null ],
-    [ "Register", "db/dd1/a26264.html#a2cab6b2b0ff567fca6530fa4d917aec1", null ],
-    [ "Validate", "db/dd1/a26264.html#aa15febbd22621da12b567fc429917bf0", null ]
+    [ "CheckCast", "db/dd1/a26264.html#ad6b60c449d57503508c9a94ca6e919f9", null ],
+    [ "HandleDummy", "db/dd1/a26264.html#a7f79495525687fba6229f48935b2558a", null ],
+    [ "Load", "db/dd1/a26264.html#a0c73457e44a3d64bdccee78d28893672", null ],
+    [ "PrepareSpellScript", "db/dd1/a26264.html#a4826d7b257ee05bfe0d6db3d30a924e9", null ],
+    [ "Register", "db/dd1/a26264.html#ab9f09394ab301350a2abaefde90632fe", null ],
+    [ "Validate", "db/dd1/a26264.html#a9b9d5f862e9910f1a12780ff54b067ca", null ]
 ];

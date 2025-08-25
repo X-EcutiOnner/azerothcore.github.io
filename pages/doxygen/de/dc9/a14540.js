@@ -1,6 +1,11 @@
 var a14540 =
 [
-    [ "HandleDummy", "de/dc9/a14540.html#aa75140309e66c28590a64e10676356da", null ],
-    [ "PrepareSpellScript", "de/dc9/a14540.html#a21c4872e16c18c2918dfbea366e61df3", null ],
-    [ "Register", "de/dc9/a14540.html#a841c9277224cbae878946deb288b87a1", null ]
+    [ "HandleFinish", "de/dc9/a14540.html#ace3a2ad0cf8ac31f7ef5345f1dbbf6e7", null ],
+    [ "HandleScript", "de/dc9/a14540.html#a2a2f005c29f0381c3c45d04a75ccc378", null ],
+    [ "Load", "de/dc9/a14540.html#a177ea78202f4d5b4c381f1712b01fe43", null ],
+    [ "PrepareSpellScript", "de/dc9/a14540.html#a9714f48de3982feb245f78efb8008f1b", null ],
+    [ "Register", "de/dc9/a14540.html#ad24c159a0dcfb86eb35a4286f606a3ab", null ],
+    [ "ThrowNextTorch", "de/dc9/a14540.html#a6ea11852ede397c1ede1ebaabb906c35", null ],
+    [ "Validate", "de/dc9/a14540.html#a026fbf7123f6780459c19ff04b370b08", null ],
+    [ "handled", "de/dc9/a14540.html#a869fde9e5d0756d3c68a8db3e10ad50d", null ]
 ];

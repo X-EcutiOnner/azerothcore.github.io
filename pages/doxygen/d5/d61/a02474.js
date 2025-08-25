@@ -1,35 +1,37 @@
 var a02474 =
 [
-    [ "DataHeader", "d5/d61/a02474.html#a042491ef36459046f3866e90f15aae0d", null ],
-    [ "RegisterTheEyeAI", "d5/d61/a02474.html#adcf4d2e44478a9706e54f548f623fd9e", null ],
-    [ "TheEyeScriptName", "d5/d61/a02474.html#a715610ea7ac0b366db509638136446dc", null ],
-    [ "EyeData", "d5/d61/a02474.html#aeff27095b590ff4ec45857b5b09879a3", [
-      [ "DATA_ALAR", "d5/d61/a02474.html#aeff27095b590ff4ec45857b5b09879a3a66655c20f692a6d808496086aa954bea", null ],
-      [ "DATA_ASTROMANCER", "d5/d61/a02474.html#aeff27095b590ff4ec45857b5b09879a3ae1fb90732fdb89170e0805914fa500b9", null ],
-      [ "DATA_REAVER", "d5/d61/a02474.html#aeff27095b590ff4ec45857b5b09879a3a2a5e1f51e98d708c07843e2dacf7007f", null ],
-      [ "DATA_KAELTHAS", "d5/d61/a02474.html#aeff27095b590ff4ec45857b5b09879a3a9459cb9bb83f7a23115debb607cb25a3", null ],
-      [ "MAX_ENCOUNTER", "d5/d61/a02474.html#aeff27095b590ff4ec45857b5b09879a3a7913656ef56deb3793c0c5f3d999d80d", null ],
-      [ "DATA_THALADRED", "d5/d61/a02474.html#aeff27095b590ff4ec45857b5b09879a3ae2ed8de980552f6a962032d1c5d09e82", null ],
-      [ "DATA_LORD_SANGUINAR", "d5/d61/a02474.html#aeff27095b590ff4ec45857b5b09879a3aa3a2a8c4f3a3d06e90f1888bd958e82e", null ],
-      [ "DATA_CAPERNIAN", "d5/d61/a02474.html#aeff27095b590ff4ec45857b5b09879a3adba63d90b0527273ece37f96679725ea", null ],
-      [ "DATA_TELONICUS", "d5/d61/a02474.html#aeff27095b590ff4ec45857b5b09879a3a8ec7795431936ffcd2799d536112657e", null ],
-      [ "DATA_KAEL_DOOR_1", "d5/d61/a02474.html#aeff27095b590ff4ec45857b5b09879a3a207217680f7dacccb028b5f31b86c84b", null ],
-      [ "DATA_KAEL_DOOR_2", "d5/d61/a02474.html#aeff27095b590ff4ec45857b5b09879a3a98fbd26f079dc1afe0d3ffee6577f5ec", null ]
+    [ "boss_void_reaver", "d7/d77/a23924.html", "d7/d77/a23924" ],
+    [ "Groups", "d5/d61/a02474.html#aab072245ab577ff0e12efe20a536b99a", [
+      [ "GROUP_PRECOMBAT_TALK", "d1/d42/a03419.html#aab072245ab577ff0e12efe20a536b99aa3e7953992f23b2eba8d8498bfc66e01d", null ],
+      [ "PORTAL_PHASE", "d2/d21/a03392.html#aab072245ab577ff0e12efe20a536b99aa8f7d8b62b79ce76fc356b355521db829", null ],
+      [ "BANISH_PHASE", "d2/d21/a03392.html#aab072245ab577ff0e12efe20a536b99aa07e6dd48512e34c3e302df6979235f0c", null ],
+      [ "GROUP_GROUND", "d2/dce/a03389.html#aab072245ab577ff0e12efe20a536b99aadafe9cfa7e56c42fc1db09814712d7a7", null ],
+      [ "GROUP_AIR", "d2/dce/a03389.html#aab072245ab577ff0e12efe20a536b99aa2d1cdac72395e4d8222cd2ddd9b285db", null ],
+      [ "GROUP_LAND", "d2/dce/a03389.html#aab072245ab577ff0e12efe20a536b99aae24a94bb64f545d667eefe35a36a1c0f", null ],
+      [ "GROUP_DRINKING", "d6/daa/a03413.html#aab072245ab577ff0e12efe20a536b99aa80ba99dcffa62244d61ae4cdfeae4f89", null ],
+      [ "GROUP_LYNX", "d4/d44/a03065.html#aab072245ab577ff0e12efe20a536b99aaff89ad484a46d0b7b06edeacb6a01395", null ],
+      [ "GROUP_HUMAN", "d4/d44/a03065.html#aab072245ab577ff0e12efe20a536b99aa796793e979d08c776caffceafb33aa85", null ],
+      [ "GROUP_MERGE", "d4/d44/a03065.html#aab072245ab577ff0e12efe20a536b99aac01236358f92d366822edd70b15d96e6", null ],
+      [ "GROUP_SPLIT", "d4/d44/a03065.html#aab072245ab577ff0e12efe20a536b99aa24fb50270283b82bb36d8edf229a98c8", null ],
+      [ "GROUP_FRENZY", "d6/db7/a03884.html#aab072245ab577ff0e12efe20a536b99aa5a49dee524450f24c68e860b88e86120", null ],
+      [ "GROUP_VOID_BLAST", "d2/d81/a02276.html#aab072245ab577ff0e12efe20a536b99aa42a5b582d3481d3a6c19206d7d5089c2", null ],
+      [ "GROUP_COMBAT", "d3/dc5/a02306.html#aab072245ab577ff0e12efe20a536b99aa8a276adfb1bc4c990d9fcd7622ee8b44", null ],
+      [ "GROUP_DEMON", "d3/dc5/a02306.html#aab072245ab577ff0e12efe20a536b99aa9ec61b4a64bb040b8e116599fa55c192", null ],
+      [ "GROUP_WHIRL", "dc/dd6/a02309.html#aab072245ab577ff0e12efe20a536b99aae2fcf2e615b3c4b3730a67d2fce34236", null ],
+      [ "GROUP_GEYSER", "dc/dd6/a02309.html#aab072245ab577ff0e12efe20a536b99aa1fdaf4a07bada6d867ab661c2e27f10c", null ],
+      [ "GROUP_EARLY_RELEASE_CHECK", "d1/d0c/a02570.html#aab072245ab577ff0e12efe20a536b99aa96283caf31f749500082e1812dcefef3", null ],
+      [ "GROUP_RP", "db/df5/a02534.html#aab072245ab577ff0e12efe20a536b99aad9dedf51cb04f0fa875285ac3e21f994", null ],
+      [ "GROUP_ARCANE_ORB", "d5/d61/a02474.html#aab072245ab577ff0e12efe20a536b99aaf9e798664ee1611674a83cdc2f6aac67", null ]
     ] ],
-    [ "EyeGOs", "d5/d61/a02474.html#abd7b2582f2ee738e1a53e2e92a6f654a", [
-      [ "GO_BRIDGE_WINDOW", "d5/d61/a02474.html#abd7b2582f2ee738e1a53e2e92a6f654aad04c2fe3d81625ee29aedd4d709a4697", null ],
-      [ "GO_KAEL_STATUE_RIGHT", "d5/d61/a02474.html#abd7b2582f2ee738e1a53e2e92a6f654aaf07783e681473fb9f52dc50b03b64311", null ],
-      [ "GO_KAEL_STATUE_LEFT", "d5/d61/a02474.html#abd7b2582f2ee738e1a53e2e92a6f654aa9e1eee49e78e1e8cd177e9426ee1661d", null ],
-      [ "GO_KAEL_DOOR_1", "d5/d61/a02474.html#abd7b2582f2ee738e1a53e2e92a6f654aa2a88b3366d09af56089aa586daf1e374", null ],
-      [ "GO_KAEL_DOOR_2", "d5/d61/a02474.html#abd7b2582f2ee738e1a53e2e92a6f654aa509b917488bf30db3c305b4c32649536", null ]
+    [ "voidReaver", "d5/d61/a02474.html#a28ac0e4c009a9641eced9517d2c0e8b6", [
+      [ "SAY_AGGRO", "d5/d61/a02474.html#a28ac0e4c009a9641eced9517d2c0e8b6a47c752fff069f3e55065795eef2a9bfe", null ],
+      [ "SAY_SLAY", "d5/d61/a02474.html#a28ac0e4c009a9641eced9517d2c0e8b6a9e64f6e600dd42567d18006912811f75", null ],
+      [ "SAY_DEATH", "d5/d61/a02474.html#a28ac0e4c009a9641eced9517d2c0e8b6a04c962d9b6aaafde54ff92a54369135e", null ],
+      [ "SAY_POUNDING", "d5/d61/a02474.html#a28ac0e4c009a9641eced9517d2c0e8b6a89c7eec707b0165a5300a6e131488f85", null ],
+      [ "SPELL_POUNDING", "d5/d61/a02474.html#a28ac0e4c009a9641eced9517d2c0e8b6aea323cffcf7dd560267a165d89d9ddb0", null ],
+      [ "SPELL_ARCANE_ORB", "d5/d61/a02474.html#a28ac0e4c009a9641eced9517d2c0e8b6a37f92b258a27961515d602836cee1bef", null ],
+      [ "SPELL_KNOCK_AWAY", "d5/d61/a02474.html#a28ac0e4c009a9641eced9517d2c0e8b6aa72ede58fa3714726fab8d4b7252f5fa", null ],
+      [ "SPELL_BERSERK", "d5/d61/a02474.html#a28ac0e4c009a9641eced9517d2c0e8b6ad7b3e50b45f9949cd0e4030ca19a6b4f", null ]
     ] ],
-    [ "EyeNPCs", "d5/d61/a02474.html#a98f711e2be2bce9d46cfe27d8755ec80", [
-      [ "NPC_ALAR", "d5/d61/a02474.html#a98f711e2be2bce9d46cfe27d8755ec80ab6eed3856fd4b4cd6397c3c87b1005c8", null ],
-      [ "NPC_KAELTHAS", "d5/d61/a02474.html#a98f711e2be2bce9d46cfe27d8755ec80a3d3f4ffdbd8e886f3c232368fb4245b4", null ],
-      [ "NPC_THALADRED", "d5/d61/a02474.html#a98f711e2be2bce9d46cfe27d8755ec80a7cde7fc8bff2cb085f1b995f6a970708", null ],
-      [ "NPC_LORD_SANGUINAR", "d5/d61/a02474.html#a98f711e2be2bce9d46cfe27d8755ec80ac8af45bb65099dd8c9f13b621a15548b", null ],
-      [ "NPC_CAPERNIAN", "d5/d61/a02474.html#a98f711e2be2bce9d46cfe27d8755ec80a537a4c939a96c3ee07e1ff7f60218696", null ],
-      [ "NPC_TELONICUS", "d5/d61/a02474.html#a98f711e2be2bce9d46cfe27d8755ec80a17c6b5b4f2493d2542833fbec1139a74", null ]
-    ] ],
-    [ "GetTheEyeAI", "d5/d61/a02474.html#a8a7e802cde8810f3be593a9ec0ba1e57", null ]
+    [ "AddSC_boss_void_reaver", "d5/d61/a02474.html#a8231e3ec35a484f109599a4507751f6f", null ]
 ];

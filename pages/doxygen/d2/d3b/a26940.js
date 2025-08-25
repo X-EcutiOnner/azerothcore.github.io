@@ -1,8 +1,7 @@
 var a26940 =
 [
-    [ "HandleEffect", "d2/d3b/a26940.html#a1c1a06362742abcf83e1817c468de3d3", null ],
-    [ "PrepareSpellScript", "d2/d3b/a26940.html#a0e2cce13a3b2c8b8e9ace8876def8b9c", null ],
-    [ "Register", "d2/d3b/a26940.html#a56108b37bc69809ce80d424e2bcb3f55", null ],
-    [ "SendMiss", "d2/d3b/a26940.html#afda727460aebc8fe97d5c18d0195ea2c", null ],
-    [ "Validate", "d2/d3b/a26940.html#ab9533351a176f4e0d641a6e36a75d6b9", null ]
+    [ "HandleApplyAura", "d2/d3b/a26940.html#ae364ff4048a2f59eadecd6934c7a0e13", null ],
+    [ "PrepareSpellScript", "d2/d3b/a26940.html#adf09900347264bc341884092ea0fee40", null ],
+    [ "Register", "d2/d3b/a26940.html#ac56484d4048817a164963e519a97d137", null ],
+    [ "Validate", "d2/d3b/a26940.html#ac028c0faf659fb74b2ffa5f85f58f8d1", null ]
 ];

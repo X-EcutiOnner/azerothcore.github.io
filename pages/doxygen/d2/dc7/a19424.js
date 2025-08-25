@@ -1,11 +1,13 @@
 var a19424 =
 [
-    [ "npc_oculus_drakegiverAI", "d2/da8/a19428.html", "d2/da8/a19428" ],
-    [ "npc_oculus_drakegiver", "d2/dc7/a19424.html#add34aba22fb2ca16f6f055dd77a2994b", null ],
-    [ "GetAI", "d2/dc7/a19424.html#aa26a2b82c5e4076ce704d5884895d903", null ],
-    [ "OnGossipHello", "d2/dc7/a19424.html#ac00d09d2d81121d562e3303704229c18", null ],
-    [ "OnGossipSelect", "d2/dc7/a19424.html#ad0fc46e306080ccfe9988d416ef71e77", null ],
-    [ "RemoveEssence", "d2/dc7/a19424.html#a70513d873111c590ca4e33cb446a4438", null ],
-    [ "StoreEssence", "d2/dc7/a19424.html#ac8bbe890722aa924a7f0dee161d342c4", null ],
-    [ "openedMenu", "d2/dc7/a19424.html#a650d1cd18700e29328e0fc97b1709f38", null ]
+    [ "npc_oculus_unstable_sphereAI", "d2/dc7/a19424.html#a800ccd2508f8ec0e53bd185b8944acb0", null ],
+    [ "AttackStart", "d2/dc7/a19424.html#a1dac85f0dae65d12740b54fe5d140a25", null ],
+    [ "MoveInLineOfSight", "d2/dc7/a19424.html#a248dad12dc76b4efa2a64c02d4af4b3c", null ],
+    [ "MovementInform", "d2/dc7/a19424.html#a1d6a80a4f7e9239a781bebaedfd389d7", null ],
+    [ "PickNewLocation", "d2/dc7/a19424.html#a5afcf52182ed8d90aae71d46a9d33a92", null ],
+    [ "Reset", "d2/dc7/a19424.html#ac2e391d0149b62823ac9074d45c694cf", null ],
+    [ "UpdateAI", "d2/dc7/a19424.html#acd8fd7a6353642c8e4a61eae0150c07f", null ],
+    [ "gonext", "d2/dc7/a19424.html#a6b1d2ce8ec85e5a063c215c0adef9e0e", null ],
+    [ "located", "d2/dc7/a19424.html#ab8a13498d8c9926c3d6496a0d4707557", null ],
+    [ "timer", "d2/dc7/a19424.html#a8e62f1613ccaba5d93758d6573f4dd6c", null ]
 ];

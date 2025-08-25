@@ -1,9 +1,17 @@
 var a22708 =
 [
-    [ "instance_shadow_labyrinth_InstanceMapScript", "d8/dde/a22708.html#ada5f19c96bfe623b110389ede032ef53", null ],
-    [ "GetData", "d8/dde/a22708.html#ad876ebd581c470f5a3075129076bd1fb", null ],
-    [ "Initialize", "d8/dde/a22708.html#a9dc908fdaef98aa6eb81fd1709eee9e4", null ],
-    [ "OnCreatureCreate", "d8/dde/a22708.html#a118b4a7a7c872327ec2868c5b0417636", null ],
-    [ "OnUnitDeath", "d8/dde/a22708.html#a4275afcc93c5281d9865601a2d9dabaa", null ],
-    [ "_ritualistsAliveCount", "d8/dde/a22708.html#a7752d5bfe1d1c5eef2c450df7677a69e", null ]
+    [ "boss_ambassador_hellmaw", "d8/dde/a22708.html#ae774dfa4379b7321ff194a796c9eb842", null ],
+    [ "AttackStart", "d8/dde/a22708.html#aa072ff0e9ce6e68f3ba0b4e51fb92f04", null ],
+    [ "CanAIAttack", "d8/dde/a22708.html#a35579b31dec1d0c110b459230ee129e4", null ],
+    [ "DoAction", "d8/dde/a22708.html#a3cbd58fb11fe8d297907bb40d69e4ccb", null ],
+    [ "DoMeleeAttackIfReady", "d8/dde/a22708.html#a8dd75d368f0f567561db45e1c53ad785", null ],
+    [ "InitializeAI", "d8/dde/a22708.html#a9b0170a49751def614126265240bb87c", null ],
+    [ "JustDied", "d8/dde/a22708.html#ae0e04500073a4c02c9656b4bcd63be9c", null ],
+    [ "JustEngagedWith", "d8/dde/a22708.html#a9ea9d60b8fa90a228951a38fc2f59325", null ],
+    [ "KilledUnit", "d8/dde/a22708.html#a5f7564ef25a36395cddf4e2c2dbc2dfc", null ],
+    [ "MoveInLineOfSight", "d8/dde/a22708.html#af3949b46f82863af699396729e88928b", null ],
+    [ "PathEndReached", "d8/dde/a22708.html#a46b9b96ec5e4c121d994560e85266dfe", null ],
+    [ "Reset", "d8/dde/a22708.html#a4881f868ac11eb66f3d15b44c94938bf", null ],
+    [ "UpdateAI", "d8/dde/a22708.html#a44dae5d6517e22dd2be399d08fa67a71", null ],
+    [ "isBanished", "d8/dde/a22708.html#a4805244997c42f5791400c5b1f5e6204", null ]
 ];

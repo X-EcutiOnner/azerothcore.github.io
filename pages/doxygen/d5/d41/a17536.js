@@ -1,9 +1,6 @@
 var a17536 =
 [
-    [ "BattleExperienceEvent", "d5/d41/a17536.html#a3091b403089533ce2ebbb40fa38f28c9", null ],
-    [ "Execute", "d5/d41/a17536.html#a3971962ec90f682baeae96fe6098fa97", null ],
-    [ "_creature", "d5/d41/a17536.html#a0155536d5c2be329a1f3b57c4d852098", null ],
-    [ "_level", "d5/d41/a17536.html#a22f0d7e59f579362be4576180d0977b8", null ],
-    [ "ExperiencedSpells", "d5/d41/a17536.html#a5e2e06a386059ba2d9aff676648fa56b", null ],
-    [ "ExperiencedTimes", "d5/d41/a17536.html#a4daf5818472ebe7c8d3938e2189d8e02", null ]
+    [ "boss_festergutAI", "d0/d49/a17540.html", "d0/d49/a17540" ],
+    [ "boss_festergut", "d5/d41/a17536.html#a07ac6be688118cc57e6fdc1d8e961953", null ],
+    [ "GetAI", "d5/d41/a17536.html#ab2624e1908bb376f1b195a88e4b9b146", null ]
 ];

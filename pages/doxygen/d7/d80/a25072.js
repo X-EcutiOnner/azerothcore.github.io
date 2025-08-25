@@ -1,10 +1,7 @@
 var a25072 =
 [
-    [ "Load", "d7/d80/a25072.html#a18e05511c2dc0b934a97e323fccc3f50", null ],
-    [ "OnApply", "d7/d80/a25072.html#a1fe8240f5c553ba56ce9c2ff9338f75b", null ],
-    [ "OnRemove", "d7/d80/a25072.html#a29834c598d6ef8299d54e48a3461e603", null ],
-    [ "PrepareAuraScript", "d7/d80/a25072.html#a0529b56b30fa7bb97c014bbc2ee4a96a", null ],
-    [ "Register", "d7/d80/a25072.html#a5174f07fde3469c2314a3c1fbba5f432", null ],
-    [ "Validate", "d7/d80/a25072.html#aeaf16594f569af671d221234a4aa2c8b", null ],
-    [ "prevItem", "d7/d80/a25072.html#ad4c0402ae71e663534ed8fd137a9afd2", null ]
+    [ "HandleEffectApply", "d7/d80/a25072.html#a97a639459622c9e3e995057989cf9eda", null ],
+    [ "HandleEffectRemove", "d7/d80/a25072.html#a7477bb78ffcc082c111bad4e93b9fd73", null ],
+    [ "PrepareAuraScript", "d7/d80/a25072.html#aa3c4018e18eccd8f12e4607f4bc630ec", null ],
+    [ "Register", "d7/d80/a25072.html#a40793c696a759db4920c4c34f5b9fa66", null ]
 ];

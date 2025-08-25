@@ -1,9 +1,6 @@
 var a11784 =
 [
-    [ "titles_commandscript", "d5/dcb/a11784.html#ac088fd907013150a0508b79c99f6c2f3", null ],
-    [ "GetCommands", "d5/dcb/a11784.html#af7d00111b3190f8bc9c46cedda3621d6", null ],
-    [ "HandleTitlesAddCommand", "d5/dcb/a11784.html#a2a44d6f83bc5617a25a53b18fbd35e32", null ],
-    [ "HandleTitlesCurrentCommand", "d5/dcb/a11784.html#a9a9b503e9ee65aa0d92cc7ff2e38a09d", null ],
-    [ "HandleTitlesRemoveCommand", "d5/dcb/a11784.html#a2001bcc2eddc5688d57154f9906218e4", null ],
-    [ "HandleTitlesSetMaskCommand", "d5/dcb/a11784.html#a9517b10295b856779cdd067234f640c8", null ]
+    [ "player_settings_commandscript", "d5/dcb/a11784.html#ab8585064d4d358d7d48eed97379a3a78", null ],
+    [ "GetCommands", "d5/dcb/a11784.html#ae545918310d22b4e66e4a668bbb7ba58", null ],
+    [ "HandleSettingsAnnouncerFlags", "d5/dcb/a11784.html#af505117caa66ed4222e52ff91c486b6e", null ]
 ];

@@ -1,7 +1,7 @@
 var a19528 =
 [
-    [ "OnRemove", "d5/dbe/a19528.html#adf6b3d56199ad5a4545ce3874d1223db", null ],
-    [ "PrepareAuraScript", "d5/dbe/a19528.html#a2d278e60b34870110dab188896109e24", null ],
-    [ "Register", "d5/dbe/a19528.html#ac15847527cc4d162b3b34b8ca8628864", null ],
-    [ "Validate", "d5/dbe/a19528.html#ac573e5bd171c97af1905b4a57a45e1f4", null ]
+    [ "HandleOnEffectApply", "d5/dbe/a19528.html#a4841f7a44f5df964c4eb9965383fd747", null ],
+    [ "PrepareAuraScript", "d5/dbe/a19528.html#a4cf9cf2aadb43920384ec745f6be484f", null ],
+    [ "Register", "d5/dbe/a19528.html#a68fba646552678744f49d10b59704a35", null ],
+    [ "Validate", "d5/dbe/a19528.html#a01169ee095aa2f0051eac1b253a5daf5", null ]
 ];

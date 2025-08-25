@@ -1,11 +1,8 @@
 var a07412 =
 [
-    [ "BattlegroundICScore", "de/d24/a07412.html#a3b8798fdb479885fbe4b7cecb2f84f68", null ],
-    [ "BuildObjectivesBlock", "de/d24/a07412.html#a4a10d0be9c318048feb4e76ffae9472c", null ],
-    [ "GetAttr1", "de/d24/a07412.html#af6c42bbd1b8f3f94fe838ce5df610a80", null ],
-    [ "GetAttr2", "de/d24/a07412.html#a758fa51038f232c7d65cd0168a4608c2", null ],
-    [ "UpdateScore", "de/d24/a07412.html#a690ede108b8ce8dfa45a2b7457e53a3c", null ],
-    [ "BattlegroundIC", "de/d24/a07412.html#a2d7503354e4bdce9f2a06d48b649da2f", null ],
-    [ "BasesAssaulted", "de/d24/a07412.html#a5050b80f9d1855cb8b97830f9e80124f", null ],
-    [ "BasesDefended", "de/d24/a07412.html#a70c2965b6b1e99239e0dcc1c03ccb552", null ]
+    [ "NodeId", "de/d24/a07412.html#a09d4904c622dd7810e154bc0f3bd7eaf", null ],
+    [ "TextAllianceTaken", "de/d24/a07412.html#a20cb8eaefa0e45b45a57645c62409ba4", null ],
+    [ "TextAssaulted", "de/d24/a07412.html#a2e49a6d7f8ca935800062d98f1c660de", null ],
+    [ "TextDefended", "de/d24/a07412.html#a27ee2d5be23a110943438a8888b14202", null ],
+    [ "TextHordeTaken", "de/d24/a07412.html#a835c00ebdc2fe61f7e7757b0ed26bd1d", null ]
 ];

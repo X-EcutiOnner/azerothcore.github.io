@@ -1,6 +1,6 @@
 var a12504 =
 [
-    [ "boss_sulfuronAI", "d7/d32/a12504.html#a63c76fb94131830924e2bf77477261ba", null ],
-    [ "ExecuteEvent", "d7/d32/a12504.html#ae038aa8140f5b4128c39c592966321f1", null ],
-    [ "JustEngagedWith", "d7/d32/a12504.html#a35394690b8d25529c91c147025f6ad92", null ]
+    [ "HandleHit", "d7/d32/a12504.html#a5245f935c0cafd14e492214a51d85ad3", null ],
+    [ "PrepareSpellScript", "d7/d32/a12504.html#a074b9e23de0a9b24776c7e361791c6ff", null ],
+    [ "Register", "d7/d32/a12504.html#a12f7db2345ce0d19a18791a2e63e7450", null ]
 ];

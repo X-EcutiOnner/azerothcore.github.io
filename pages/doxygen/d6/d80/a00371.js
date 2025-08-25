@@ -1,6 +1,6 @@
 var a00371 =
 [
-    [ "Arena", "d2/d8e/a07208.html", "d2/d8e/a07208" ],
+    [ "Arena", "dc/df3/a07216.html", "dc/df3/a07216" ],
     [ "ArenaBroadcastTexts", "d6/d80/a00371.html#a407f2036481e3d9e2def3daa50546c71", [
       [ "ARENA_TEXT_START_ONE_MINUTE", "d6/d80/a00371.html#a407f2036481e3d9e2def3daa50546c71a12b484d249dd320cfc39bdf39279d854", null ],
       [ "ARENA_TEXT_START_THIRTY_SECONDS", "d6/d80/a00371.html#a407f2036481e3d9e2def3daa50546c71a49cdd0c5a035f182212d6fe53a1e2084", null ],

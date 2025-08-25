@@ -1,8 +1,8 @@
 var a28876 =
 [
-    [ "HandleDamage", "d6/de2/a28876.html#a371d3112e619453b7c92933a145bf4d2", null ],
-    [ "HandleDummy", "d6/de2/a28876.html#a051f68946f3c246b410bbaa2ac14e4b1", null ],
-    [ "PrepareSpellScript", "d6/de2/a28876.html#a41d69ed3f8372c4e157aefbec6ad525c", null ],
-    [ "Register", "d6/de2/a28876.html#aaa1e53f38a2ba835c12fa726c030ab08", null ],
-    [ "Validate", "d6/de2/a28876.html#a180ab99bc257b841e0bbbfc0ddb83814", null ]
+    [ "Color", "d6/de2/a28876.html#a379e4cf61345dbb4d93da5a8603138c0", null ],
+    [ "NameIndex", "d6/de2/a28876.html#add893e045d13a3633fd7346457a10477", null ],
+    [ "Position", "d6/de2/a28876.html#afae9056582e71160c151de2c172bc60a", null ],
+    [ "Rotation", "d6/de2/a28876.html#a48d372bc1371fa5f94db9aa39669942a", null ],
+    [ "Scale", "d6/de2/a28876.html#aefacaaf0be0745c95ffc53f410da6e8d", null ]
 ];

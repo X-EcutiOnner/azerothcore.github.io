@@ -1,8 +1,7 @@
 var a22792 =
 [
-    [ "Load", "de/dd4/a22792.html#a038301fbb547469574efff88455be663", null ],
-    [ "OnPeriodic", "de/dd4/a22792.html#a8df384cc329cf20ddc5ac0d7bed0345f", null ],
-    [ "PrepareAuraScript", "de/dd4/a22792.html#a386df1300e6a99b02efd13ef4968e99a", null ],
-    [ "Register", "de/dd4/a22792.html#a1b7b9bff5b3d906fa491846a4d5c6743", null ],
-    [ "Validate", "de/dd4/a22792.html#ad64a3fc1a66b9e8914099e501992f2aa", null ]
+    [ "HandleScriptEffect", "de/dd4/a22792.html#a6ec6e79849c618d009eae3551e16ff0a", null ],
+    [ "PrepareSpellScript", "de/dd4/a22792.html#a4f00eca7c78a785780be4379c1a56a6b", null ],
+    [ "Register", "de/dd4/a22792.html#adb676b9d6f36c30efbb8286b1e5edf6d", null ],
+    [ "Validate", "de/dd4/a22792.html#a9ce122d497e72e3a46b1857d722af48d", null ]
 ];

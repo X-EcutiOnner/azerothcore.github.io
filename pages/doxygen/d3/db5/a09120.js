@@ -1,6 +1,7 @@
 var a09120 =
 [
-    [ "AreaMapType", "d3/db5/a09120.html#a0ea8ea1ddb694a7e57c816f6b7d33ec6", null ],
-    [ "areaMap", "d3/db5/a09120.html#a21673b134ee6b5fb20bab06c3e1b2238", null ],
-    [ "gridArea", "d3/db5/a09120.html#a37e8598e7a22dcb17637243fbeeecb0c", null ]
+    [ "flags", "d3/db5/a09120.html#a2faab5766bd3cbc09ed4e541be7e7f94", null ],
+    [ "fourcc", "d3/db5/a09120.html#a93b48dd741d13ff036eac8a77df9f916", null ],
+    [ "gridHeight", "d3/db5/a09120.html#a3fbdc02ff4769b6f2eacbdc02ba4d370", null ],
+    [ "gridMaxHeight", "d3/db5/a09120.html#a1146dfae7dc4f89dddc94cda5deb7a4c", null ]
 ];

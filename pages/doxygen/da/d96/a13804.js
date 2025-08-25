@@ -1,7 +1,6 @@
 var a13804 =
 [
-    [ "Load", "da/d96/a13804.html#a9888c598c4d6cf77c49e15f68c3db225", null ],
-    [ "OnRemove", "da/d96/a13804.html#ad4044dcd8c88eba88d032a96ca79dc4c", null ],
-    [ "PrepareAuraScript", "da/d96/a13804.html#a07abb27367cc0a59bdf60a30dfb7cfb0", null ],
-    [ "Register", "da/d96/a13804.html#ac2db8f8d9b778a0a36081c897f4149cb", null ]
+    [ "npc_andorhal_towerAI", "d2/d77/a13808.html", "d2/d77/a13808" ],
+    [ "npc_andorhal_tower", "da/d96/a13804.html#abf63419b6c10af47f5e5df1a4e7320e7", null ],
+    [ "GetAI", "da/d96/a13804.html#a51139c28da736d26bf27a061862d24ee", null ]
 ];

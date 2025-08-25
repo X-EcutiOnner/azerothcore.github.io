@@ -1,6 +1,6 @@
 var a19476 =
 [
-    [ "HandlePeriodic", "dd/d67/a19476.html#a08717e9e8e974fcd7051c45fd1d26893", null ],
-    [ "PrepareAuraScript", "dd/d67/a19476.html#abf7b2d81ee81ff27388678e9a5433eac", null ],
-    [ "Register", "dd/d67/a19476.html#ac98109fe8d9192ae97e4aa5dc10463cf", null ]
+    [ "npc_centrifuge_constructAI", "d8/d5e/a19480.html", "d8/d5e/a19480" ],
+    [ "npc_centrifuge_construct", "dd/d67/a19476.html#a3822eca10ab4a96126e0b4685751f4d3", null ],
+    [ "GetAI", "dd/d67/a19476.html#a7356047de8a6d7bc6e903e982db2bc00", null ]
 ];

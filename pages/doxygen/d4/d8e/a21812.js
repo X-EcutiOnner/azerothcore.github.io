@@ -1,7 +1,6 @@
 var a21812 =
 [
-    [ "HandleApplyEffect", "d4/d8e/a21812.html#aab7bd30368c51a6a209f6cad5a93ba79", null ],
-    [ "HandleRemoveEffect", "d4/d8e/a21812.html#a243933fec9ccd650303ea5badbea725b", null ],
-    [ "PrepareAuraScript", "d4/d8e/a21812.html#ac0e1fc0694dd51e245340d3658592447", null ],
-    [ "Register", "d4/d8e/a21812.html#a0f6e6c6892d56a6fceb927f68c734bde", null ]
+    [ "npc_injured_7th_legion_soldierAI", "d0/df3/a21816.html", "d0/df3/a21816" ],
+    [ "npc_injured_7th_legion_soldier", "d4/d8e/a21812.html#a9d3c647f485dbca5efeec8f784efba1b", null ],
+    [ "GetAI", "d4/d8e/a21812.html#a0feca7aedcf3c07253d4d402266189cc", null ]
 ];

@@ -1,8 +1,6 @@
 var a11920 =
 [
-    [ "boss_evisceratorAI", "d9/d23/a11920.html#a26bfcd3390e987a9fe13dd1a2bc2a7a4", null ],
-    [ "DamageTaken", "d9/d23/a11920.html#aab3e8290963ca6c312715f18727d3e82", null ],
-    [ "JustEngagedWith", "d9/d23/a11920.html#a60f3942b352206888569f60776041a28", null ],
-    [ "UpdateAI", "d9/d23/a11920.html#aa201d35455f2e6eb41df27e264c2c03c", null ],
-    [ "SpellShieldReady", "d9/d23/a11920.html#a3e5d8a40bfca16cc811f35b1293c19aa", null ]
+    [ "boss_ambassador_flamelashAI", "d8/dfa/a11924.html", "d8/dfa/a11924" ],
+    [ "boss_ambassador_flamelash", "d9/d23/a11920.html#a53d24a240e48033b0474970e8acac1f4", null ],
+    [ "GetAI", "d9/d23/a11920.html#a332e347d803a58989445ec57d75361ab", null ]
 ];

@@ -1,6 +1,7 @@
 var a25588 =
 [
-    [ "PrepareSpellScript", "d0/d6f/a25588.html#a72e57e8a4bdb9a4fcd73e3519b6025ea", null ],
-    [ "Register", "d0/d6f/a25588.html#aac4d3c8ecde3652c65c05abad5c8eaeb", null ],
-    [ "SelectTarget", "d0/d6f/a25588.html#a3153b6c6814922cd7220e19b06f2a602", null ]
+    [ "HandleScriptEffect", "d0/d6f/a25588.html#a3ad488a1b6115bb1ec8cfe6717d3b4cf", null ],
+    [ "Load", "d0/d6f/a25588.html#af89783564da25769be15e22291717f6a", null ],
+    [ "PrepareSpellScript", "d0/d6f/a25588.html#a1e7e4137712fcaa378d1ac7ff1b0a6c7", null ],
+    [ "Register", "d0/d6f/a25588.html#addbe722d9f3727578f817789e3010bab", null ]
 ];

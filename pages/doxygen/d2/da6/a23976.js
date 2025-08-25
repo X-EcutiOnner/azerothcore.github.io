@@ -1,16 +1,11 @@
 var a23976 =
 [
-    [ "npc_nether_drakeAI", "d2/da6/a23976.html#a82f2c29b380be95303e1558776ea2d88", null ],
-    [ "JustEngagedWith", "d2/da6/a23976.html#a5f20faa7f7007989298009b88b3ecbc8", null ],
-    [ "MoveInLineOfSight", "d2/da6/a23976.html#a9e122d4533155c926904a13e8534d32e", null ],
-    [ "MovementInform", "d2/da6/a23976.html#ae1f5248397b606b7872f05cfc929ac0d", null ],
-    [ "Reset", "d2/da6/a23976.html#acb03513dd67988e0961632846021a42d", null ],
-    [ "SpellHit", "d2/da6/a23976.html#a40f05363f38d71954c9fb8773c382444", null ],
-    [ "UpdateAI", "d2/da6/a23976.html#aa538d9d2ead26d6e085ecf62ec7d310f", null ],
-    [ "ArcaneBlast_Timer", "d2/da6/a23976.html#ace872917954f4978f3568d7ddecf22ad", null ],
-    [ "IntangiblePresence_Timer", "d2/da6/a23976.html#acecff3846090fa83c8fc43537d788501", null ],
-    [ "IsNihil", "d2/da6/a23976.html#a37c393101e0f9b07e20cc21beb80ba44", null ],
-    [ "ManaBurn_Timer", "d2/da6/a23976.html#ae6c33df878497d29d5f61234b048009d", null ],
-    [ "NihilSpeech_Phase", "d2/da6/a23976.html#a3e68f0fdb59ce6d8749b5d8629b7ec0b", null ],
-    [ "NihilSpeech_Timer", "d2/da6/a23976.html#a40d7584c68f5f6516eb9a7deaaad7c86", null ]
+    [ "boss_pathaleon_the_calculator", "d2/da6/a23976.html#a679dc3ccc23c6def44e0f0669822e146", null ],
+    [ "CanAIAttack", "d2/da6/a23976.html#abcbb5f1236ebfbec680241ae8c5cbb00", null ],
+    [ "DoAction", "d2/da6/a23976.html#a814cb56cc18277cb4adbd7dc8a82b06d", null ],
+    [ "JustDied", "d2/da6/a23976.html#a0224d47bc85fe54c0cfded69b55e57b3", null ],
+    [ "JustEngagedWith", "d2/da6/a23976.html#a3ba024e86ceb83ebb26afcc11a75791d", null ],
+    [ "KilledUnit", "d2/da6/a23976.html#a899fd2e1e01ac1347e43bcb290babc5b", null ],
+    [ "Reset", "d2/da6/a23976.html#adc48067c3656bf768c3013ff266565c0", null ],
+    [ "_isEnraged", "d2/da6/a23976.html#ab875fb787d71eaf008b7267c81a2a4df", null ]
 ];

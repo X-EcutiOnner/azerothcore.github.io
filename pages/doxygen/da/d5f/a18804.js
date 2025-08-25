@@ -1,6 +1,7 @@
 var a18804 =
 [
-    [ "npc_icc_skybreaker_luminaryAI", "df/de2/a18808.html", "df/de2/a18808" ],
-    [ "npc_icc_skybreaker_luminary", "da/d5f/a18804.html#aff97d0425cf86a8b411ef3e2bd0cc054", null ],
-    [ "GetAI", "da/d5f/a18804.html#ad1378aaa7438758f8a796d8e74ae0ce8", null ]
+    [ "HandleEffectPeriodic", "da/d5f/a18804.html#a57615f1d8b891ab5a5c01de1543235cb", null ],
+    [ "PrepareAuraScript", "da/d5f/a18804.html#ae040da0db1147652266e1f373838df37", null ],
+    [ "Register", "da/d5f/a18804.html#ab11b84522134ee4d13504df3c19f69b8", null ],
+    [ "Validate", "da/d5f/a18804.html#af3c3c90256913ffe188c11a21fc2dcc8", null ]
 ];

@@ -1,8 +1,7 @@
 var a25048 =
 [
-    [ "OnApply", "d0/dd2/a25048.html#a6aa83e925a93dc7ff89c0357debc75d1", null ],
-    [ "OnRemove", "d0/dd2/a25048.html#a3ced5941c25fce087699aa095cd487c9", null ],
-    [ "PrepareAuraScript", "d0/dd2/a25048.html#a497776c6ffdda8670fa255b76057bf2c", null ],
-    [ "Register", "d0/dd2/a25048.html#ac05f2898ebbb78bf55d70d8a660fb22d", null ],
-    [ "Validate", "d0/dd2/a25048.html#a44fc9ff07b9db5b2a1263d244916c79f", null ]
+    [ "HandleEffectPeriodic", "d0/dd2/a25048.html#a3a2e7653276964fd36c93b41aa8f25ea", null ],
+    [ "PrepareAuraScript", "d0/dd2/a25048.html#a893a539f4eeb0b9f027c5a306cc7bd53", null ],
+    [ "Register", "d0/dd2/a25048.html#a36792fd068ec7444aa118ec63cf972a7", null ],
+    [ "Validate", "d0/dd2/a25048.html#aa57af116294cfba007586506ba1dbeb5", null ]
 ];

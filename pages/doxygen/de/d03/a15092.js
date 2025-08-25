@@ -1,6 +1,6 @@
 var a15092 =
 [
-    [ "HandleScriptEffect", "de/d03/a15092.html#a0f03a3e09e80ae50a5ddedcea1f9f30e", null ],
-    [ "PrepareSpellScript", "de/d03/a15092.html#aa109d61baba87acf5bce5d44bff55214", null ],
-    [ "Register", "de/d03/a15092.html#ac8412777c84abfe56262d6d83163e9a1", null ]
+    [ "instance_ruins_of_ahnqiraj_InstanceMapScript", "d1/db8/a15096.html", "d1/db8/a15096" ],
+    [ "instance_ruins_of_ahnqiraj", "de/d03/a15092.html#adeacb1c68e4b12995a335d1bedde075a", null ],
+    [ "GetInstanceScript", "de/d03/a15092.html#a6a661e961c2599498de0ccd41c0763b4", null ]
 ];

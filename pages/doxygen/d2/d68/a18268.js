@@ -1,12 +1,8 @@
 var a18268 =
 [
-    [ "AfterDispel", "d2/d68/a18268.html#a1c7b15cf6adbe78be1c17a78596dee55", null ],
-    [ "Load", "d2/d68/a18268.html#a490251d9afd2ab5a075f254603170d4d", null ],
-    [ "OnApply", "d2/d68/a18268.html#af78da685e156bebea9f0a4881ebdfc9d", null ],
-    [ "OnDispel", "d2/d68/a18268.html#adf24ec3793a34e8bed38aa87d0c3c60b", null ],
-    [ "OnRemove", "d2/d68/a18268.html#a33b586de90e3ff698bb0efbb4b8d4d30", null ],
-    [ "PrepareAuraScript", "d2/d68/a18268.html#acd4f8d3c98147c22124e64ccf7d9a6d0", null ],
-    [ "Register", "d2/d68/a18268.html#a68a909d9510761295bf7b6dfe44a1d26", null ],
-    [ "Validate", "d2/d68/a18268.html#a2de18da71b68275d8d55f859df3ca74c", null ],
-    [ "_lastAmount", "d2/d68/a18268.html#a64610d30731f6aa5f3f155ca5c5e8d61", null ]
+    [ "FilterTargets", "d2/d68/a18268.html#a242fa53c2da9ac557623281bccf2af92", null ],
+    [ "HandleSendEvent", "d2/d68/a18268.html#a6120e057e2ee39d34eaeab79782add8d", null ],
+    [ "Load", "d2/d68/a18268.html#af48cdbf87d61cf6d8392f65ae4c9b18a", null ],
+    [ "PrepareSpellScript", "d2/d68/a18268.html#a0846e73f467d9c3a63b5e9a5d795aa37", null ],
+    [ "Register", "d2/d68/a18268.html#ae83950dfc35f7c1e64806d6ec273083c", null ]
 ];

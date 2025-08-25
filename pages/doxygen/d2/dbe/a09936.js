@@ -1,14 +1,9 @@
 var a09936 =
 [
-    [ "~MovementGenerator", "d2/dbe/a09936.html#a13c3c432ac2a91dd4d07b090ec06b903", null ],
-    [ "Finalize", "d2/dbe/a09936.html#aef4cf800aa06dddac4efd36e3c058d2b", null ],
-    [ "GetMovementGeneratorType", "d2/dbe/a09936.html#a60bac341b438ea7258986f234a952324", null ],
-    [ "GetResetPosition", "d2/dbe/a09936.html#a60ac9e99f41d1f5c320441cf78b4b46a", null ],
-    [ "GetSplineId", "d2/dbe/a09936.html#a99865a1b7cf84b02784bfa8df958585f", null ],
-    [ "Initialize", "d2/dbe/a09936.html#a0040e427ac4a09273641a96a13fd4c1f", null ],
-    [ "Pause", "d2/dbe/a09936.html#a37530e5cd743faecabd21eba08dce939", null ],
-    [ "Reset", "d2/dbe/a09936.html#aa6641fa1182551421fc8572afad8e083", null ],
-    [ "Resume", "d2/dbe/a09936.html#a51988a8b0a45459242467e38ca46303c", null ],
-    [ "unitSpeedChanged", "d2/dbe/a09936.html#a0f9c4fd52947688dcda1161924e829bb", null ],
-    [ "Update", "d2/dbe/a09936.html#ae3014d8c6e728799c86134ef64737ed5", null ]
+    [ "ChaseAngle", "d2/dbe/a09936.html#a0744c615f437514a52b5a26fb717013a", null ],
+    [ "IsAngleOkay", "d2/dbe/a09936.html#aec86c653850655b723e5224ea20b0e21", null ],
+    [ "LowerBound", "d2/dbe/a09936.html#a2f8296cadbada4322ec9c754aed4a5ec", null ],
+    [ "UpperBound", "d2/dbe/a09936.html#a275d01ce57b23d42d4150b10c8433dee", null ],
+    [ "RelativeAngle", "d2/dbe/a09936.html#a810a730ae905bfa296dbe6c1e4b86416", null ],
+    [ "Tolerance", "d2/dbe/a09936.html#a2bb42885da594380cb742c29b6518ea3", null ]
 ];

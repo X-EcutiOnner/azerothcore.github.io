@@ -1,7 +1,9 @@
 var a22004 =
 [
-    [ "HandleScript", "de/d9f/a22004.html#a7fec959237546201ea94d5f87068e1c5", null ],
-    [ "PrepareSpellScript", "de/d9f/a22004.html#ae0c3eafc8b227078a2dcaccf1c0a278b", null ],
-    [ "Register", "de/d9f/a22004.html#a0aab07a4950f60a290491aa13103b332", null ],
-    [ "Validate", "de/d9f/a22004.html#a92d5493a43fca5c54ef89cb19ce00aa2", null ]
+    [ "npc_venture_co_stragglerAI", "de/d9f/a22004.html#abc3cc04b89b95fd45969ba5859bf810c", null ],
+    [ "Reset", "de/d9f/a22004.html#acfeaad9db95d0b391a64cc65ca3a1cee", null ],
+    [ "SpellHit", "de/d9f/a22004.html#ae1919454c270d10342079b60a727a306", null ],
+    [ "UpdateAI", "de/d9f/a22004.html#a0846336d8d1333e2c2f50731a722c3b7", null ],
+    [ "_events", "de/d9f/a22004.html#a9cd6e6b549e10900f35838f04e10e0f5", null ],
+    [ "_playerGUID", "de/d9f/a22004.html#a649493944b143782d995b5bdda3714b4", null ]
 ];

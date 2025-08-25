@@ -1,6 +1,6 @@
 var a23200 =
 [
-    [ "FilterTargets", "df/dab/a23200.html#ac20676c292d87276e444bad56d71960d", null ],
-    [ "PrepareSpellScript", "df/dab/a23200.html#a8622bc4d61c5c236349d4b12c2a6b10d", null ],
-    [ "Register", "df/dab/a23200.html#ae356b768872de3e87806c19bf8cccb08", null ]
+    [ "HandleEffectRemove", "df/dab/a23200.html#adfbbb75ace34ab5c0fec35e6aa88505a", null ],
+    [ "PrepareAuraScript", "df/dab/a23200.html#a94b91d27b9a218b5fdce91d6a6e72f62", null ],
+    [ "Register", "df/dab/a23200.html#a2b7fb2d6d0f92a970a45e0b9c409408d", null ]
 ];

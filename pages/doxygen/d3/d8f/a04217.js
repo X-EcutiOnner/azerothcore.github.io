@@ -1,7 +1,4 @@
 var a04217 =
 [
-    [ "SQLQueryHolderBase", "dd/dce/a05840.html", "dd/dce/a05840" ],
-    [ "SQLQueryHolder< T >", "d4/d0d/a05692.html", "d4/d0d/a05692" ],
-    [ "SQLQueryHolderTask", "d6/dfd/a05844.html", "d6/dfd/a05844" ],
-    [ "SQLQueryHolderCallback", "d7/d68/a05848.html", "d7/d68/a05848" ]
+    [ "DEADLOCK_MAX_RETRY_TIME_MS", "d3/d8f/a04217.html#ac0b52915e8b31344cafb9042ab92e830", null ]
 ];

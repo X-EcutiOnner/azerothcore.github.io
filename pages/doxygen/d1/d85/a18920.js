@@ -1,9 +1,9 @@
 var a18920 =
 [
-    [ "npc_isle_of_conquest_turretAI", "d1/d85/a18920.html#a0a0f24af22e4c72e843970c0d5c1ff87", null ],
-    [ "JustDied", "d1/d85/a18920.html#a88390da94298bea9c445bb422a806d23", null ],
-    [ "SpellHit", "d1/d85/a18920.html#afc8b8a9be6b0908fcb83af57bef7a57a", null ],
-    [ "UpdateAI", "d1/d85/a18920.html#a81c039a2a230b261967842161757b6f8", null ],
-    [ "events", "d1/d85/a18920.html#aee0aa5a950b3743409fd3ae482bc94b8", null ],
-    [ "faction", "d1/d85/a18920.html#aca941c070a97278c8ec27d7e6b4edede", null ]
+    [ "spell_trigger_spell_from_caster", "d1/d85/a18920.html#a0dc389ab8bd51fcfd839250a3bbc2dcd", null ],
+    [ "HandleTrigger", "d1/d85/a18920.html#afc11c9408ea11cb04e476999a9bdf522", null ],
+    [ "PrepareSpellScript", "d1/d85/a18920.html#a24a9bd70a58f051cd6c4ceaff5d7fffe", null ],
+    [ "Register", "d1/d85/a18920.html#ae44cc1a87267c1d08603d1aff2384957", null ],
+    [ "Validate", "d1/d85/a18920.html#a3aace9a309bc848b887b03c949c921bd", null ],
+    [ "_triggerId", "d1/d85/a18920.html#a29af52a9035f18936515a464889fefe5", null ]
 ];

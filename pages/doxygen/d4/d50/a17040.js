@@ -1,6 +1,9 @@
 var a17040 =
 [
-    [ "instance_pit_of_saron_InstanceScript", "dc/dd6/a17044.html", "dc/dd6/a17044" ],
-    [ "instance_pit_of_saron", "d4/d50/a17040.html#a84526dbb5ac7eb6ff5ebe24ed339826b", null ],
-    [ "GetInstanceScript", "d4/d50/a17040.html#a2a1bc125bfe653a1da8b8c36b86aae67", null ]
+    [ "FilterTargets", "d4/d50/a17040.html#aefebf504286394cf3caffa566543e4a4", null ],
+    [ "FilterTargetsNext", "d4/d50/a17040.html#a356b6ace97d07df22a232d2287072b5e", null ],
+    [ "PrepareSpellScript", "d4/d50/a17040.html#a893e0eb620e19909b2f2a715ea946f6b", null ],
+    [ "Register", "d4/d50/a17040.html#a962651920a94190f4864a3b1c7fcd1d3", null ],
+    [ "Unload", "d4/d50/a17040.html#a6adc9b6ca86da6cd9465fa0da150dcca", null ],
+    [ "targetList", "d4/d50/a17040.html#a3c839185938e0b67b97f652d1d15e213", null ]
 ];

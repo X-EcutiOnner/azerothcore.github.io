@@ -1,15 +1,6 @@
 var a22504 =
 [
-    [ "OutdoorPvPEP", "d8/d5c/a22504.html#ab4915dfc03de08cad83eb48c4c789cb8", null ],
-    [ "BuffTeams", "d8/d5c/a22504.html#ac6a61c19ba96ca843eb12952d0c09078", null ],
-    [ "FillInitialWorldStates", "d8/d5c/a22504.html#ac1b185125fa1f8864d1062b65be24bdc", null ],
-    [ "HandlePlayerEnterZone", "d8/d5c/a22504.html#a9e7404160b1220dc3cc2766a07f42ad2", null ],
-    [ "HandlePlayerLeaveZone", "d8/d5c/a22504.html#a251b154abfaec9cbfb1a56e657ac5214", null ],
-    [ "SendRemoveWorldStates", "d8/d5c/a22504.html#afad47628bb4cfcc6060ce35396e33d9d", null ],
-    [ "SetControlledState", "d8/d5c/a22504.html#abef30d5cbe7c2cd52cd32ae29da1c9ce", null ],
-    [ "SetupOutdoorPvP", "d8/d5c/a22504.html#acecc8126180c027cb3d685231e55d873", null ],
-    [ "Update", "d8/d5c/a22504.html#a974910b2f7f2d8cfaf43b6694bf4c2c7", null ],
-    [ "EP_ControlsId", "d8/d5c/a22504.html#a7e8fcf50f88bdb56b189877721a1f006", null ],
-    [ "m_AllianceTowersControlled", "d8/d5c/a22504.html#a09e5cf029656af3fc740b236596d42ee", null ],
-    [ "m_HordeTowersControlled", "d8/d5c/a22504.html#a325c16f6b5f40bd5dd5f63a9d93a8cd1", null ]
+    [ "npc_crusade_recruitAI", "d1/d5b/a22508.html", "d1/d5b/a22508" ],
+    [ "npc_crusade_recruit", "d8/d5c/a22504.html#a6e130f153c506255ef5ece1baf006028", null ],
+    [ "GetAI", "d8/d5c/a22504.html#a412f0d153676758fda8c1f7f1e9dda44", null ]
 ];

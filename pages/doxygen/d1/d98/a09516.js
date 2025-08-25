@@ -1,13 +1,8 @@
 var a09516 =
 [
-    [ "GroupReference", "d1/d98/a09516.html#ab1a008e85d413c67696d4d568a98bde7", null ],
-    [ "~GroupReference", "d1/d98/a09516.html#ab586405a850b0985e6b9f08cc6bdf32e", null ],
-    [ "getSubGroup", "d1/d98/a09516.html#a8217ca810bc251005dfe8a2e3b810e1e", null ],
-    [ "next", "d1/d98/a09516.html#a6f8f406f1209dd7060904d40f5424b41", null ],
-    [ "next", "d1/d98/a09516.html#ac913ec0703c28cda068375d01c9cd72d", null ],
-    [ "setSubGroup", "d1/d98/a09516.html#a303caf55ea463398237e6a825f30b143", null ],
-    [ "sourceObjectDestroyLink", "d1/d98/a09516.html#a458157654c27def9b36b68ae099ca7b3", null ],
-    [ "targetObjectBuildLink", "d1/d98/a09516.html#aa7c8acd113fefc7b6d2b9dff94bb047c", null ],
-    [ "targetObjectDestroyLink", "d1/d98/a09516.html#a4c15e8dbb9f990f9ab66c5e1466d0616", null ],
-    [ "iSubGroup", "d1/d98/a09516.html#a528073b16a119cfa81e6f37c6e72cc03", null ]
+    [ "flags", "d1/d98/a09516.html#a7ecce103d428ed7f91aa12fa5547561c", null ],
+    [ "group", "d1/d98/a09516.html#a0902606d44c8baa1a20b5b2cdd9b4787", null ],
+    [ "guid", "d1/d98/a09516.html#a97a20b4ccf1978165a5f5c7ff4ffb2b4", null ],
+    [ "name", "d1/d98/a09516.html#ab0719bb9805048b58a3e4c75e09d1ee7", null ],
+    [ "roles", "d1/d98/a09516.html#a2109aae0b3ebf74b065b97cc929c2954", null ]
 ];

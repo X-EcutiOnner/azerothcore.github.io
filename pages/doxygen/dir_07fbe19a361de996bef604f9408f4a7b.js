@@ -2,7 +2,7 @@ var dir_07fbe19a361de996bef604f9408f4a7b =
 [
     [ "AllPackets.h", "de/da9/a01934.html", null ],
     [ "BankPackets.cpp", "d1/db0/a01928.html", null ],
-    [ "BankPackets.h", "d6/d8e/a01979.html", "d6/d8e/a01979" ],
+    [ "BankPackets.h", "d3/def/a01985.html", "d3/def/a01985" ],
     [ "CharacterPackets.cpp", "d4/d07/a01913.html", null ],
     [ "CharacterPackets.h", "de/d46/a01967.html", "de/d46/a01967" ],
     [ "ChatPackets.cpp", "df/dd8/a01943.html", null ],
@@ -21,8 +21,10 @@ var dir_07fbe19a361de996bef604f9408f4a7b =
     [ "PacketUtilities.h", "d4/d93/a01955.html", "d4/d93/a01955" ],
     [ "PetPackets.cpp", "d3/d67/a01958.html", null ],
     [ "PetPackets.h", "d5/d31/a01931.html", "d5/d31/a01931" ],
-    [ "TotemPackets.cpp", "d2/d3d/a01982.html", null ],
+    [ "QueryPackets.cpp", "d9/da1/a01976.html", null ],
+    [ "QueryPackets.h", "d2/d3d/a01982.html", "d2/d3d/a01982" ],
+    [ "TotemPackets.cpp", "d5/da1/a01988.html", null ],
     [ "TotemPackets.h", "dd/d19/a01922.html", "dd/d19/a01922" ],
-    [ "WorldStatePackets.cpp", "d9/da1/a01976.html", null ],
+    [ "WorldStatePackets.cpp", "d6/d8e/a01979.html", null ],
     [ "WorldStatePackets.h", "d0/dce/a01946.html", "d0/dce/a01946" ]
 ];

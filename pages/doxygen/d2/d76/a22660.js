@@ -1,8 +1,8 @@
 var a22660 =
 [
-    [ "FilterTargets", "d2/d76/a22660.html#a9e0a72530a8dc764269e8df6d9d1ed3d", null ],
-    [ "HandleDummyHitTarget", "d2/d76/a22660.html#ae892090a9bd48aa447224c9f96801d37", null ],
-    [ "PrepareSpellScript", "d2/d76/a22660.html#af08ab4fcc3705b07e89ed222794e70e9", null ],
-    [ "Register", "d2/d76/a22660.html#aeb1aad59b6b4767a63660c5fe0277392", null ],
-    [ "Validate", "d2/d76/a22660.html#a5a87a7c18a55caf5288b8ca8bbd2f361", null ]
+    [ "npc_yor", "d2/d76/a22660.html#a43ed8720d06c035085d481dbe6539dca", null ],
+    [ "JustEngagedWith", "d2/d76/a22660.html#a74d5cd95b98a2057f78ee9e9b12aec42", null ],
+    [ "Reset", "d2/d76/a22660.html#aa698540b646fd870b33afbaf19ddbe07", null ],
+    [ "UpdateAI", "d2/d76/a22660.html#a46a2cf8ff94b830348641d94e3d9cd57", null ],
+    [ "_scheduler", "d2/d76/a22660.html#a4ce1e1558c9b8aa5d50b1df1a903d776", null ]
 ];

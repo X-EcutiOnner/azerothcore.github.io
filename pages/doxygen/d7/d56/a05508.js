@@ -1,7 +1,7 @@
 var a05508 =
 [
-    [ "Count", "d7/d56/a05508.html#aeeb13e953eff5fde8c9edff41ee17806", null ],
-    [ "FromIndex", "d7/d56/a05508.html#a8c6cb9f0a8d3488956904e2141405cf7", null ],
-    [ "ToIndex", "d7/d56/a05508.html#a25cc4ea08020adcf6deac42e2912b1f9", null ],
-    [ "ToString", "d7/d56/a05508.html#a8d3379c79f103655dd49d993402b741d", null ]
+    [ "~SignalHandler", "d7/d56/a05508.html#a9c515cb60b156629c43d1a6fce81d58e", null ],
+    [ "handle_signal", "d7/d56/a05508.html#a56782d1718cb243bb5b0c6dc2d100042", null ],
+    [ "_handled", "d7/d56/a05508.html#a21b208a696ed4a320a7cf312006a787f", null ],
+    [ "_mutex", "d7/d56/a05508.html#a0c4d6ba642dd3877c3333b067db22db6", null ]
 ];

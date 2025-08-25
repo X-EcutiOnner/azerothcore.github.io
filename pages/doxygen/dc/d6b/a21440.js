@@ -1,6 +1,6 @@
 var a21440 =
 [
-    [ "npc_azure_binderAI", "dc/dd7/a21444.html", "dc/dd7/a21444" ],
-    [ "npc_azure_binder", "dc/d6b/a21440.html#a25b8b19b6ccdae92418c47fe68537c42", null ],
-    [ "GetAI", "dc/d6b/a21440.html#aad091206a8bd06a1064b68b81510eb56", null ]
+    [ "instance_violet_hold_InstanceMapScript", "dc/dd7/a21444.html", "dc/dd7/a21444" ],
+    [ "instance_violet_hold", "dc/d6b/a21440.html#ae66f018196cd90683506c3cc3d8c5d7a", null ],
+    [ "GetInstanceScript", "dc/d6b/a21440.html#aeedcbb24b0709bd172ebbbc6d9851532", null ]
 ];

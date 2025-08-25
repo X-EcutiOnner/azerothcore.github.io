@@ -1,5 +1,6 @@
 var a20712 =
 [
-    [ "achievement_thorim_stand_in_the_lightning", "dd/d13/a20712.html#a9339e89e4eb76151fdeacb6bcd53d7bc", null ],
-    [ "OnCheck", "dd/d13/a20712.html#ade1aec4de4c503be5a62da3e6c35e90f", null ]
+    [ "boss_thorim_runic_colossusAI", "d9/d83/a20716.html", "d9/d83/a20716" ],
+    [ "boss_thorim_runic_colossus", "dd/d13/a20712.html#a2ea1c08a98b689cd6c766578e98a3191", null ],
+    [ "GetAI", "dd/d13/a20712.html#a6d64427ff427a1054e10c9d987b77f53", null ]
 ];

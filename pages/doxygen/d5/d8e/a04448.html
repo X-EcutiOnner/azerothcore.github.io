@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/common/Threading/MPSCQueue.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/common/Threading/PCQueue.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,77 +105,29 @@ $(document).ready(function(){initNavTree('d5/d8e/a04448.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#nested-classes">Classes</a> &#124;
-<a href="#namespaces">Namespaces</a> &#124;
-<a href="#typedef-members">Typedefs</a>  </div>
-  <div class="headertitle"><div class="title">MPSCQueue.h File Reference</div></div>
+<a href="#nested-classes">Classes</a>  </div>
+  <div class="headertitle"><div class="title">PCQueue.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &lt;atomic&gt;</code><br />
-<code>#include &lt;memory&gt;</code><br />
+<div class="textblock"><code>#include &lt;condition_variable&gt;</code><br />
+<code>#include &lt;queue&gt;</code><br />
+<code>#include &lt;atomic&gt;</code><br />
+<code>#include &lt;mutex&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/de3/a05388.html">Acore::Impl::MPSCQueueNonIntrusive&lt; T &gt;</a></td></tr>
-<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">C++ implementation of Dmitry Vyukov's lock-free MPSC queue (Non-Intrusive).  <a href="../../da/de3/a05388.html#details">More...</a><br /></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/df4/a05408.html">ProducerConsumerQueue&lt; T &gt;</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dc0/a05392.html">Acore::Impl::MPSCQueueNonIntrusive&lt; T &gt;::Node</a></td></tr>
-<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">A structure representing a node in the queue.  <a href="../../da/dc0/a05392.html#details">More...</a><br /></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d21/a05396.html">Acore::Impl::MPSCQueueIntrusive&lt; T, IntrusiveLink &gt;</a></td></tr>
-<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">C++ implementation of Dmitry Vyukov's lock-free MPSC queue (Intrusive).  <a href="../../db/d21/a05396.html#details">More...</a><br /></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
-Namespaces</h2></td></tr>
-<tr class="memitem:db/da6/a04782"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/da6/a04782.html">Acore</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:de/d4c/a04794"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d4c/a04794.html">Acore::Impl</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="typedef-members" name="typedef-members"></a>
-Typedefs</h2></td></tr>
-<tr class="memitem:a6443361dced56bb64db991f954b2df47"><td class="memTemplParams" colspan="2">template&lt;typename T , std::atomic&lt; T * &gt; T::* IntrusiveLink = nullptr&gt; </td></tr>
-<tr class="memitem:a6443361dced56bb64db991f954b2df47"><td class="memTemplItemLeft" align="right" valign="top">using&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d5/d8e/a04448.html#a6443361dced56bb64db991f954b2df47">MPSCQueue</a> = std::conditional_t&lt; IntrusiveLink !=nullptr, <a class="el" href="../../db/d21/a05396.html">Acore::Impl::MPSCQueueIntrusive</a>&lt; T, IntrusiveLink &gt;, <a class="el" href="../../da/de3/a05388.html">Acore::Impl::MPSCQueueNonIntrusive</a>&lt; T &gt; &gt;</td></tr>
-<tr class="memdesc:a6443361dced56bb64db991f954b2df47"><td class="mdescLeft">&#160;</td><td class="mdescRight">Conditional type alias for MPSCQueue.  <a href="../../d5/d8e/a04448.html#a6443361dced56bb64db991f954b2df47">More...</a><br /></td></tr>
-<tr class="separator:a6443361dced56bb64db991f954b2df47"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Typedef Documentation</h2>
-<a id="a6443361dced56bb64db991f954b2df47" name="a6443361dced56bb64db991f954b2df47"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6443361dced56bb64db991f954b2df47">&#9670;&#160;</a></span>MPSCQueue</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;typename T , std::atomic&lt; T * &gt; T::* IntrusiveLink = nullptr&gt; </div>
-      <table class="memname">
-        <tr>
-          <td class="memname">using <a class="el" href="../../d5/d8e/a04448.html#a6443361dced56bb64db991f954b2df47">MPSCQueue</a> =  std::conditional_t&lt;IntrusiveLink != nullptr, <a class="el" href="../../db/d21/a05396.html">Acore::Impl::MPSCQueueIntrusive</a>&lt;T, IntrusiveLink&gt;, <a class="el" href="../../da/de3/a05388.html">Acore::Impl::MPSCQueueNonIntrusive</a>&lt;T&gt; &gt;</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p>Conditional type alias for MPSCQueue. </p>
-<p >This alias provides the appropriate type of MPSCQueue based on whether the queue is intrusive or non-intrusive.</p>
-<dl class="tparams"><dt>Template Parameters</dt><dd>
-  <table class="tparams">
-    <tr><td class="paramname">T</td><td>The type of data that is being enqueued in the queue. </td></tr>
-    <tr><td class="paramname">IntrusiveLink</td><td>If provided, the queue will be intrusive, otherwise, it will be non-intrusive. </td></tr>
-  </table>
-  </dd>
-</dl>
-
-</div>
-</div>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1070012e9e40376f8468ff0aa5b77c71.html">common</a></li><li class="navelem"><a class="el" href="../../dir_f69d3ac9ea0d79b27cfca1b33f4c68de.html">Threading</a></li><li class="navelem"><a class="el" href="../../d5/d8e/a04448.html">MPSCQueue.h</a></li>
-    <li class="footer">Generated on Mon Aug 18 2025 20:47:04 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1070012e9e40376f8468ff0aa5b77c71.html">common</a></li><li class="navelem"><a class="el" href="../../dir_f69d3ac9ea0d79b27cfca1b33f4c68de.html">Threading</a></li><li class="navelem"><a class="el" href="../../d5/d8e/a04448.html">PCQueue.h</a></li>
+    <li class="footer">Generated on Mon Aug 25 2025 20:45:16 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

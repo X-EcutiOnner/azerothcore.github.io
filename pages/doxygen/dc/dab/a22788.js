@@ -1,8 +1,9 @@
 var a22788 =
 [
-    [ "Load", "dc/dab/a22788.html#a4ff26763f05b07d882cd8d209464910e", null ],
-    [ "OnPeriodic", "dc/dab/a22788.html#a3e3bb503a6b5f90741a4df668851accf", null ],
-    [ "PrepareAuraScript", "dc/dab/a22788.html#a4126d35669859963f10ed1425a054298", null ],
-    [ "Register", "dc/dab/a22788.html#adb6a44892d80aeaaf4c15c71a47f422e", null ],
-    [ "Validate", "dc/dab/a22788.html#a22d6c338ea1f2af9be0eb02aceba42bd", null ]
+    [ "npc_flame_of_azzinoth", "dc/dab/a22788.html#acdeb046c2214bd449257ba1b932c8a5c", null ],
+    [ "IsSummonedBy", "dc/dab/a22788.html#a5254057af0371a08ea01fe91502c2a20", null ],
+    [ "JustEngagedWith", "dc/dab/a22788.html#a24eba1a6cdea4971573a6f4b2dd34fb3", null ],
+    [ "JustSummoned", "dc/dab/a22788.html#ad2e7085fcd985a08cc2e317485a8fff1", null ],
+    [ "UpdateAI", "dc/dab/a22788.html#a7a1c9b967e6a79721dea8cbca44cbb5b", null ],
+    [ "_bladeGUID", "dc/dab/a22788.html#ae797d929b0e9c8953a4c9efd392a21f3", null ]
 ];

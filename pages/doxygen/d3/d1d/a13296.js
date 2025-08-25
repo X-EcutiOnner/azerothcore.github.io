@@ -1,7 +1,6 @@
 var a13296 =
 [
-    [ "HandleScriptEffect", "d3/d1d/a13296.html#a5ee63545a338e00bfcb8dcc2f3f67db3", null ],
-    [ "PrepareSpellScript", "d3/d1d/a13296.html#af9deee89e837e07486a7555632008eb2", null ],
-    [ "Register", "d3/d1d/a13296.html#aa4a7c699389a6e467b298cb4f9d3ed07", null ],
-    [ "Validate", "d3/d1d/a13296.html#a043d135ea2c37f6e4352aa2fba2bb21c", null ]
+    [ "FilterTargets", "d3/d1d/a13296.html#a78675c3421e0243de9e136b646c56be1", null ],
+    [ "PrepareSpellScript", "d3/d1d/a13296.html#a0fb177c467c2582e6b66ceae51780d6c", null ],
+    [ "Register", "d3/d1d/a13296.html#a39f8a11194fe19a14d25b30faaa6cf42", null ]
 ];

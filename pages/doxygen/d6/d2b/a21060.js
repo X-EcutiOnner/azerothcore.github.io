@@ -1,6 +1,5 @@
 var a21060 =
 [
-    [ "npc_ulduar_arachnopod_destroyerAI", "de/d62/a21064.html", "de/d62/a21064" ],
-    [ "npc_ulduar_arachnopod_destroyer", "d6/d2b/a21060.html#aec69c3c143ec27734dd3f2d8db0da9fd", null ],
-    [ "GetAI", "d6/d2b/a21060.html#ad667e7bacc181e79cb002181c71aac7c", null ]
+    [ "achievement_yogg_saron_kiss_and_make_up", "d6/d2b/a21060.html#a9f2e5fe9de59a9b5a00c0e73e8f9b376", null ],
+    [ "OnCheck", "d6/d2b/a21060.html#a8ce7df713b804d5bdd5f6f47d77fc1b8", null ]
 ];

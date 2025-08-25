@@ -1,18 +1,8 @@
 var a12340 =
 [
-    [ "boss_vaelAI", "d0/d21/a12340.html#acc7eceafe9cc5a5cb5e7045d143d5ca6", null ],
-    [ "BeginSpeech", "d0/d21/a12340.html#a448dcc64099fff57b4c18841f8715dbe", null ],
-    [ "Initialize", "d0/d21/a12340.html#a4364710f3634b6caeea3b739efe7dc56", null ],
-    [ "JustEngagedWith", "d0/d21/a12340.html#a860aa0077f235f652bd6f9a247a40e30", null ],
-    [ "JustSummoned", "d0/d21/a12340.html#a6eb3e6649d0a476fc9b2c12107cea43b", null ],
-    [ "KilledUnit", "d0/d21/a12340.html#a15e4df870d3c5263ab534cd1d2bb8a75", null ],
-    [ "Reset", "d0/d21/a12340.html#a8aab1f11a688d05289bae6acf216cf1c", null ],
-    [ "sGossipSelect", "d0/d21/a12340.html#abd3c8c7ab8d7af10ae297443ac24bd9c", null ],
-    [ "UpdateAI", "d0/d21/a12340.html#a570948cbf0c2ddde65ca77092c4b37a3", null ],
-    [ "_burningAdrenalineCast", "d0/d21/a12340.html#ab1048eb2da3e93f5cb67a8f23d35be2e", null ],
-    [ "_eventsIntro", "d0/d21/a12340.html#aed37566236cb2872b3a85de9f994f0cb", null ],
-    [ "_introDone", "d0/d21/a12340.html#aab29cb166d390a56a1d3b94dd07f1c63", null ],
-    [ "HasYelled", "d0/d21/a12340.html#a4eace0c62b5ad50f7c1a525485da08fb", null ],
-    [ "m_nefariusGuid", "d0/d21/a12340.html#a9402e7435904dffb8a494dc60d6d02e9", null ],
-    [ "PlayerGUID", "d0/d21/a12340.html#a1a86b7b15e0a435284afab6ac724968c", null ]
+    [ "FilterTargets", "d0/d21/a12340.html#a03acb7fb2734d9c8e8e623600bc16859", null ],
+    [ "FilterTargetsEff", "d0/d21/a12340.html#a8aeffd2a01c805246c33d22a59274c6f", null ],
+    [ "PrepareSpellScript", "d0/d21/a12340.html#ae00bc9956c9971d62d9185c72d3bd8b5", null ],
+    [ "Register", "d0/d21/a12340.html#aba646a238c3b4b7343f3eec8c6445eb5", null ],
+    [ "targetList", "d0/d21/a12340.html#a874dc7877ecfae332c9f826f01afce0f", null ]
 ];

@@ -1,5 +1,8 @@
 var a22964 =
 [
-    [ "npc_ashtongue_sorcerer", "d0/d6d/a22964.html#a0045af5cfbfcd2f26bcde2e2dffd04a6", null ],
-    [ "MovementInform", "d0/d6d/a22964.html#a56fa93f83e8a536b13667c8f780961b7", null ]
+    [ "HandleEffectApply", "d0/d6d/a22964.html#a94993441ef94f84c85aa10c693cf34fe", null ],
+    [ "HandleEffectRemove", "d0/d6d/a22964.html#a047a1dd4bab33d7d5b2631c0862ba4b0", null ],
+    [ "PrepareAuraScript", "d0/d6d/a22964.html#a0ced86fc2e108e7bba9727d26eac3ff3", null ],
+    [ "Register", "d0/d6d/a22964.html#a0dbd8b0bc1dfad8bda0e48ab57b4db3f", null ],
+    [ "Validate", "d0/d6d/a22964.html#a964637541cd64e64b4e02c00d36abf2d", null ]
 ];

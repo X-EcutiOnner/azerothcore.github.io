@@ -1,6 +1,6 @@
 var a27144 =
 [
-    [ "npc_spirit_shadeAI", "d6/d09/a27148.html", "d6/d09/a27148" ],
-    [ "npc_spirit_shade", "d7/d19/a27144.html#a891ede5651789274496d6426daf9937d", null ],
-    [ "GetAI", "d7/d19/a27144.html#a166f6a9abf7c0e33374c2f998c0524c3", null ]
+    [ "AreaTrigger_at_brewfest", "d7/d19/a27144.html#ad7e2916aefc6efbfb9f747a75a4a14a3", null ],
+    [ "OnTrigger", "d7/d19/a27144.html#a17e4a8d671136466c7673789e4f69a84", null ],
+    [ "_triggerTimes", "d7/d19/a27144.html#ab763765427796ad17338bcc8d63cf891", null ]
 ];

@@ -1,7 +1,8 @@
 var a22100 =
 [
-    [ "Absorb", "d8/da7/a22100.html#a784b48553696734abac77545df2fc045", null ],
-    [ "CalculateAmount", "d8/da7/a22100.html#a456ee99a71062f6217bda7561e4e7766", null ],
-    [ "PrepareAuraScript", "d8/da7/a22100.html#a456b1b70fd6d9b6642ec959677fe08ff", null ],
-    [ "Register", "d8/da7/a22100.html#aa3260fa9a1a918e13ccfc9cd57f59d19", null ]
+    [ "npc_llod_genericAI", "d8/da7/a22100.html#ac75d85ae4b59416952788102cd1db132", null ],
+    [ "Reset", "d8/da7/a22100.html#a15bd7442fef36a551cc8797f7919f57c", null ],
+    [ "UpdateAI", "d8/da7/a22100.html#aa7dce553fb699127f63281b2c47a2f02", null ],
+    [ "attackTimer", "d8/da7/a22100.html#a28a6e700d24995e477e7e7c4cc8b5d68", null ],
+    [ "summonTimer", "d8/da7/a22100.html#aeeeef545aee565c14d86d8587923c677", null ]
 ];

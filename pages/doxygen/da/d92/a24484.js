@@ -1,6 +1,9 @@
 var a24484 =
 [
-    [ "HandleAfterCast", "da/d92/a24484.html#aaa65e67362ded5318e89272acf073bf3", null ],
-    [ "PrepareSpellScript", "da/d92/a24484.html#a7d0dd936965845c14e7b54846facdb89", null ],
-    [ "Register", "da/d92/a24484.html#ab7b767743d62d9763bea710b7552a8cf", null ]
+    [ "npc_pet_shaman_earth_elemental", "da/d92/a24484.html#a07f3792cb3b5264d209f1b4726867773", null ],
+    [ "InitializeAI", "da/d92/a24484.html#a8bbca6686ae324a50cd1598125280446", null ],
+    [ "JustEngagedWith", "da/d92/a24484.html#ad9b48901b1d96e59ce60af6411a8baaf", null ],
+    [ "UpdateAI", "da/d92/a24484.html#ab28951b483cab31bf5672fc74e7323e1", null ],
+    [ "_events", "da/d92/a24484.html#ab7f72d0d574322965f1d0b23f144f1be", null ],
+    [ "_initAttack", "da/d92/a24484.html#a2af73c97ef60b5b0ade26c9760b8b379", null ]
 ];

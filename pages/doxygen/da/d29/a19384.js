@@ -1,6 +1,7 @@
 var a19384 =
 [
-    [ "npc_oculus_unstable_sphereAI", "df/d6a/a19388.html", "df/d6a/a19388" ],
-    [ "npc_oculus_unstable_sphere", "da/d29/a19384.html#a5167370a6d3fd32a5673bbeb95ed3f3c", null ],
-    [ "GetAI", "da/d29/a19384.html#adda2a9e7eab03444742e85729673ab2f", null ]
+    [ "HandlePull", "da/d29/a19384.html#a05e6155abeb2720923ddf0d8cae54feb", null ],
+    [ "PrepareSpellScript", "da/d29/a19384.html#ac192245513e162a2842e47f5b0d64338", null ],
+    [ "Register", "da/d29/a19384.html#af6c7a881c2fcf07461006fef63074e5e", null ],
+    [ "SelectTarget", "da/d29/a19384.html#aabee5b6b8f3ba7e2cf91bcb05ce7929d", null ]
 ];

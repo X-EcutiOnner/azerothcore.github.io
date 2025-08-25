@@ -1,6 +1,6 @@
 var a06184 =
 [
-    [ "PermissibleOrderPred", "d9/d07/a06184.html#a0f99979c533fb388a2086f419c110f2b", null ],
-    [ "operator()", "d9/d07/a06184.html#a42027be1e7cb7a3589caeafea25d2f75", null ],
-    [ "_obj", "d9/d07/a06184.html#a5872cf90e79107749c4900cb471b2f16", null ]
+    [ "CreatureAIFactory", "d9/d07/a06184.html#a978af64c2793b92ee2fe57763500f8d9", null ],
+    [ "Create", "d9/d07/a06184.html#ab5f691811cc23c5079a7a0a7f3503638", null ],
+    [ "Permit", "d9/d07/a06184.html#ae5e76ee1d1f8949214dd5421bf7e4deb", null ]
 ];

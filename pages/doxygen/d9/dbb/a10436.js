@@ -1,15 +1,13 @@
 var a10436 =
 [
-    [ "MapScript", "d9/dbb/a10436.html#a1932ac48acf7c937c060ee35804e79da", null ],
-    [ "checkMap", "d9/dbb/a10436.html#abf3fbb90119e1ac5d13455217ac95a2f", null ],
-    [ "GetEntry", "d9/dbb/a10436.html#aa2da3eeec627cb67719d774d35f03488", null ],
-    [ "OnCreate", "d9/dbb/a10436.html#a8132edffb918e8b3b1131ae29a8d9e9b", null ],
-    [ "OnDestroy", "d9/dbb/a10436.html#a4631768d457c2804f057c565d6e8fb7a", null ],
-    [ "OnLoadGridMap", "d9/dbb/a10436.html#a77381401d4638c6149f21836f1ca6676", null ],
-    [ "OnPlayerEnter", "d9/dbb/a10436.html#a9cef8253d591e729b4119312ec0b670a", null ],
-    [ "OnPlayerLeave", "d9/dbb/a10436.html#a3d74ae0f2535cda31cf2d4125600f3e2", null ],
-    [ "OnUnloadGridMap", "d9/dbb/a10436.html#a657bcd69e932d358e2c66daa6f571cfe", null ],
-    [ "OnUpdate", "d9/dbb/a10436.html#a4e447511780a0c561e16b9e118361f63", null ],
-    [ "_mapEntry", "d9/dbb/a10436.html#a280ca8d9bfa672c10d34a99db53d2959", null ],
-    [ "_mapId", "d9/dbb/a10436.html#a1cbe9ae08f6e1c129df8d2277366eb1a", null ]
+    [ "ScriptObject", "d9/dbb/a10436.html#ae4ca97cf587379c94354e4889ff8c0c2", null ],
+    [ "~ScriptObject", "d9/dbb/a10436.html#a80c704c939f54eee6655d68509598c42", null ],
+    [ "checkValidity", "d9/dbb/a10436.html#a585e75e34aed7aa32205daad85f8fe08", null ],
+    [ "GetName", "d9/dbb/a10436.html#a79588d839860d2f5caab60c5f1368f10", null ],
+    [ "GetTotalAvailableHooks", "d9/dbb/a10436.html#a69ee35ec7d54226264efef558022c1c0", null ],
+    [ "isAfterLoadScript", "d9/dbb/a10436.html#a2f66339b1cdf1fde795c61cd24c8b0a2", null ],
+    [ "IsDatabaseBound", "d9/dbb/a10436.html#a37da453729d5c8fbe2d06f905563f47c", null ],
+    [ "ScriptMgr", "d9/dbb/a10436.html#a7a753f61d57353451e90f3f23fec4851", null ],
+    [ "_name", "d9/dbb/a10436.html#a90b63e382cac17922ae57fe22b84718c", null ],
+    [ "_totalAvailableHooks", "d9/dbb/a10436.html#ab9ecac7620b4319c634d7e5f30c30f49", null ]
 ];

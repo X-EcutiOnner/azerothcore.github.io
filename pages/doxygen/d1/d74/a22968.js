@@ -1,7 +1,6 @@
 var a22968 =
 [
-    [ "npc_ashtongue_channeler", "d1/d74/a22968.html#af7217d00f87e56e5cdb411fcad161b51", null ],
-    [ "Reset", "d1/d74/a22968.html#ab935559c19b18f9c94dd36c85be5b3b2", null ],
-    [ "UpdateAI", "d1/d74/a22968.html#af855dfa521404c4e6127a9bf12a75604", null ],
-    [ "scheduler", "d1/d74/a22968.html#a4f58bbd2c44f7a3f9835fd55408ffaf4", null ]
+    [ "FilterTargets", "d1/d74/a22968.html#a04973145ed594b88afe2acc0cacb10c6", null ],
+    [ "PrepareSpellScript", "d1/d74/a22968.html#a90c0513a6dba2f2e6619dd8c77544991", null ],
+    [ "Register", "d1/d74/a22968.html#a7c8ca525cd6822d21551331ce37ce5dd", null ]
 ];

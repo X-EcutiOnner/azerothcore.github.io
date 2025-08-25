@@ -1,6 +1,6 @@
 var a11900 =
 [
-    [ "boss_anubshiahAI", "db/d59/a11904.html", "db/d59/a11904" ],
-    [ "boss_anubshiah", "dc/d36/a11900.html#a7176d98f966dac62f7ac1a10d3f2afa1", null ],
-    [ "GetAI", "dc/d36/a11900.html#a157420b5f0c4c05e7dc2ee327ef81cb9", null ]
+    [ "npc_phalanxAI", "db/d59/a11904.html", "db/d59/a11904" ],
+    [ "npc_phalanx", "dc/d36/a11900.html#a947ee4659fe2a46d775119ddcefeb939", null ],
+    [ "GetAI", "dc/d36/a11900.html#ab1e2a0950ab286d5abae3d46aef3c623", null ]
 ];

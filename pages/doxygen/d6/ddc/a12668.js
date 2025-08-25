@@ -1,10 +1,6 @@
 var a12668 =
 [
-    [ "boss_servant_quarters", "d6/ddc/a12668.html#aedf2869e3fbc1ebd13caedffa60bbf5f", null ],
-    [ "JustDied", "d6/ddc/a12668.html#a3b9df7ab573f22a9e15761cb662db404", null ],
-    [ "JustEngagedWith", "d6/ddc/a12668.html#afe4a4a78824851f63ce560a60d55cee3", null ],
-    [ "MovementInform", "d6/ddc/a12668.html#a00d31d9421903b6a92c03a3bd0382328", null ],
-    [ "Reset", "d6/ddc/a12668.html#a273a09b1242968a5dd45ab9866fbe481", null ],
-    [ "UpdateAI", "d6/ddc/a12668.html#a6a41cfd67310077803733190645050e4", null ],
-    [ "_scheduler", "d6/ddc/a12668.html#a520142de5e8d2911684b18c85a3f37e2", null ]
+    [ "HandleApply", "d6/ddc/a12668.html#ac9f6f1927c9f66682892c32d4a431cc4", null ],
+    [ "PrepareAuraScript", "d6/ddc/a12668.html#ae908ad87781553cc3bed05ea510a4447", null ],
+    [ "Register", "d6/ddc/a12668.html#a391dff720ed9d2d48aa69e48e69ba8df", null ]
 ];

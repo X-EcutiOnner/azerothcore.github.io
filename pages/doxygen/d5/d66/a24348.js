@@ -1,6 +1,7 @@
 var a24348 =
 [
-    [ "npc_slim", "d5/d66/a24348.html#aa227fbe22126bed821939873973e6a20", null ],
-    [ "OnGossipHello", "d5/d66/a24348.html#a34dafb9f3a82c1d2f52a95436345dd0b", null ],
-    [ "OnGossipSelect", "d5/d66/a24348.html#a426963b7bf831a3b5a75dcf0629917a9", null ]
+    [ "HandleSendEvent", "d5/d66/a24348.html#a8b32db78a3b4d5a01be230968fda3a8d", null ],
+    [ "PrepareSpellScript", "d5/d66/a24348.html#a0adf10b63735dbdf1cb3d49c73f7da1d", null ],
+    [ "Register", "d5/d66/a24348.html#ad6aedfed88d4a921122fdc7a8b501f0e", null ],
+    [ "Validate", "d5/d66/a24348.html#a9b72b16ac81c53aaa7936640e5149e6c", null ]
 ];

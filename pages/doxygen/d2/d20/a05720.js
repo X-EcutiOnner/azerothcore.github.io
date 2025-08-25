@@ -1,8 +1,10 @@
 var a05720 =
 [
-    [ "Statements", "d2/d20/a05720.html#adaf49f7cb45d90cb041f979b1821e4a1", null ],
-    [ "WorldDatabaseConnection", "d2/d20/a05720.html#a0c03387d2c019c86d1fe4933eca6aae5", null ],
-    [ "WorldDatabaseConnection", "d2/d20/a05720.html#a015f79a049d37f742232bc5ac10e9551", null ],
-    [ "~WorldDatabaseConnection", "d2/d20/a05720.html#a2feafa80fe8e838587d8f7b641c0ab09", null ],
-    [ "DoPrepareStatements", "d2/d20/a05720.html#a280aa4a4571581c5cef8f9967631b484", null ]
+    [ "Alias", "d2/d20/a05720.html#ac885c365760ade7b0c74e5fead82a210", null ],
+    [ "Index", "d2/d20/a05720.html#ad841e71a9394fc114a35f0234ef581b6", null ],
+    [ "Name", "d2/d20/a05720.html#af8b9f87733157401cff6b0846a545fa4", null ],
+    [ "TableAlias", "d2/d20/a05720.html#aa9ca2448829defe395b479a9a4ca3c3e", null ],
+    [ "TableName", "d2/d20/a05720.html#ada6594cc2aa67c8d34bdb45e757fda8c", null ],
+    [ "Type", "d2/d20/a05720.html#a76dec8aee42dce6698e4fda0ee1e3eba", null ],
+    [ "TypeName", "d2/d20/a05720.html#aba1b90e43c4f4c545f76568cae86ad43", null ]
 ];

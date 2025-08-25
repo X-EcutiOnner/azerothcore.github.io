@@ -1,8 +1,7 @@
 var a09804 =
 [
-    [ "PositionFullTerrainStatus", "df/df6/a09804.html#ae0349ed89530b35af91b7b1862acaffe", null ],
-    [ "areaId", "df/df6/a09804.html#ac04966fa31b30f341a937906223463d4", null ],
-    [ "floorZ", "df/df6/a09804.html#abbd186ca681e532d567b5a221a62c02b", null ],
-    [ "liquidInfo", "df/df6/a09804.html#ac96230ad8521342ec97cf4f94013d0b4", null ],
-    [ "outdoors", "df/df6/a09804.html#ae531eb0a4abc029f82d699c98d6aa565", null ]
+    [ "resetNotify", "df/df6/a09804.html#a1472e21d9af04662f3574bc2c7d3890c", null ],
+    [ "Visit", "df/df6/a09804.html#adfcdcf148b002c641638ddc70d577b14", null ],
+    [ "Visit", "df/df6/a09804.html#adf95512d4304962a5740b38c32ea28a7", null ],
+    [ "Visit", "df/df6/a09804.html#a725fc2c2504eecaa15841c27b367cd55", null ]
 ];

@@ -1,11 +1,7 @@
 var a08792 =
 [
-    [ "VehicleSeatAddon", "de/d2b/a08792.html#a307b278917998116156e41f9189a582c", null ],
-    [ "VehicleSeatAddon", "de/d2b/a08792.html#adaec12df869a9ffc81174f5ef1f65606", null ],
-    [ "ExitParameter", "de/d2b/a08792.html#afbb8de193522f1182efff50064e5f83d", null ],
-    [ "ExitParameterO", "de/d2b/a08792.html#a06e385ea5cf0441721432925251a5a63", null ],
-    [ "ExitParameterX", "de/d2b/a08792.html#a521d7a5eda620d0ced0b1309f3c96e17", null ],
-    [ "ExitParameterY", "de/d2b/a08792.html#ad343c7149b12cffe3a3de48ad73685a2", null ],
-    [ "ExitParameterZ", "de/d2b/a08792.html#add1ea5a9e605a49d0ddbcea0f804bd3b", null ],
-    [ "SeatOrientationOffset", "de/d2b/a08792.html#a374c73b40f6e6dad103b172d1829a31d", null ]
+    [ "VehicleDespawnEvent", "de/d2b/a08792.html#ab6f88e60f1068ab79049c158314a87ab", null ],
+    [ "Execute", "de/d2b/a08792.html#a39284ca2343e54cec915ac3ecf51f4a8", null ],
+    [ "_duration", "de/d2b/a08792.html#a3e9c695929c24728b2091940e511d5f0", null ],
+    [ "_self", "de/d2b/a08792.html#a0d472ea9a1a7b615f01c73d20cfc6573", null ]
 ];

@@ -1,7 +1,6 @@
 var a19952 =
 [
-    [ "npc_storm_beacon_spawnAI", "da/d4d/a19952.html#a031c1941f177a18af58efcf4a1270654", null ],
-    [ "UpdateAI", "da/d4d/a19952.html#a249bf56b905ef0c8b34c737d95518c91", null ],
-    [ "_amount", "da/d4d/a19952.html#a3d2286247853cb04b9cc23cd8c0bfdd6", null ],
-    [ "_checkTimer", "da/d4d/a19952.html#a7fd6d449b6a20ba9463896244c513a67", null ]
+    [ "npc_mimirons_infernoAI", "d6/db7/a19956.html", "d6/db7/a19956" ],
+    [ "npc_mimirons_inferno", "da/d4d/a19952.html#a7a531a65a179b5d56c888c055b72d269", null ],
+    [ "GetAI", "da/d4d/a19952.html#a69294c5e8f50727e5f1a6586a8a3682b", null ]
 ];

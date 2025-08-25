@@ -1,9 +1,6 @@
 var a18100 =
 [
-    [ "AfterApply", "d6/d29/a18100.html#a0ee1a701f75e9f0a70dc21528ffea683", null ],
-    [ "ExtraRemoveEffect", "d6/d29/a18100.html#a9f427761fcca9029eb75d586e5876fcd", null ],
-    [ "PeriodicTick", "d6/d29/a18100.html#a82430399e44001343f322b2c3b7769a5", null ],
-    [ "PrepareAuraScript", "d6/d29/a18100.html#a9c8e0ed8fde28588e11ebf5e8abd02dc", null ],
-    [ "Register", "d6/d29/a18100.html#a68be7f7edecd1bae8c962aaa9d556c3e", null ],
-    [ "Validate", "d6/d29/a18100.html#ae20873e93fbace6272a793993fb45349", null ]
+    [ "FilterTargets", "d6/d29/a18100.html#aa7e731de9e5ab1078b8ff7022393c9a7", null ],
+    [ "PrepareSpellScript", "d6/d29/a18100.html#ae92968db6e5a1384f89e6aff9ab2d1f3", null ],
+    [ "Register", "d6/d29/a18100.html#ae6ab0b56688bfc07262cc83e84102ccb", null ]
 ];

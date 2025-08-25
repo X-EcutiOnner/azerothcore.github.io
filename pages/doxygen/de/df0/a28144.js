@@ -1,5 +1,6 @@
 var a28144 =
 [
-    [ "ID", "de/df0/a28144.html#a01bcdc3543d3ff250354acf5e0724c14", null ],
-    [ "spellId", "de/df0/a28144.html#aabbb95c091e0b0946bcb05746b1c23f3", null ]
+    [ "ChannelID", "de/df0/a28144.html#a51753c36711e100fd8dca1cd5b1e7e94", null ],
+    [ "flags", "de/df0/a28144.html#aa77db644555e336ccbb8dd138c192425", null ],
+    [ "pattern", "de/df0/a28144.html#ad8b550cf444d66eede00abcf2cefec22", null ]
 ];

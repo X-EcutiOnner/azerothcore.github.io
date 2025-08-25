@@ -1,7 +1,7 @@
 var a20040 =
 [
-    [ "achievement_flame_leviathan_garage", "d1/d94/a20040.html#a1893b4059d7212d023c45bb828bb1905", null ],
-    [ "OnCheck", "d1/d94/a20040.html#aa5897eb1fadeda4dda9f2390053d89b6", null ],
-    [ "_entry1", "d1/d94/a20040.html#af482d6c1b2681b9fec572281620a86b7", null ],
-    [ "_entry2", "d1/d94/a20040.html#a41e83b47c411dc6a6aff310ae7059f4e", null ]
+    [ "HandleScript", "d1/d94/a20040.html#a9580f04e1543262026818f0944bb96c3", null ],
+    [ "PrepareSpellScript", "d1/d94/a20040.html#a924ae640d448da777ce3ecb059c1c9b6", null ],
+    [ "Register", "d1/d94/a20040.html#ac05e58e9b5618b1f079bd1c4924a0f9f", null ],
+    [ "Validate", "d1/d94/a20040.html#a8fc8712a76939dea6831a9eb5b95f946", null ]
 ];

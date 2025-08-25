@@ -1,10 +1,7 @@
 var a08084 =
 [
-    [ "FormationMgr", "d9/d93/a08084.html#ade1aa22473c112aed65d537929b07908", null ],
-    [ "~FormationMgr", "d9/d93/a08084.html#a8f3ee00e25ebacfb71b71b9e7d63f6e0", null ],
-    [ "AddCreatureToGroup", "d9/d93/a08084.html#aef758bdbc8f93c8981aedd51d7e10a07", null ],
-    [ "instance", "d9/d93/a08084.html#a871fec234a94e4adae07315a008acec3", null ],
-    [ "LoadCreatureFormations", "d9/d93/a08084.html#af0ecde62fc5c4a3a2b3be16c58f51fde", null ],
-    [ "RemoveCreatureFromGroup", "d9/d93/a08084.html#a6ecac2b9dcdc8db2cd7a0bd1be0fd364", null ],
-    [ "CreatureGroupMap", "d9/d93/a08084.html#ac11a3dfbe6a4f7df01d966f14b0aecd9", null ]
+    [ "CreatureSpellCooldown", "d9/d93/a08084.html#a6d234a93951992640df5720a2885be3e", null ],
+    [ "CreatureSpellCooldown", "d9/d93/a08084.html#a53364a501b0ce66e05ec0e6638f6cb6e", null ],
+    [ "category", "d9/d93/a08084.html#a27330a80d711087f1894b2ce816c33b8", null ],
+    [ "end", "d9/d93/a08084.html#a9c1c5f2b6e9a6cd015085e79b043e483", null ]
 ];

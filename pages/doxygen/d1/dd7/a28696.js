@@ -1,20 +1,10 @@
 var a28696 =
 [
-    [ "Record", "d1/dd7/a28696.html#a51a9cc006bb8530fe76452c1bbe7985c", null ],
-    [ "Record", "d1/dd7/a28696.html#a51a9cc006bb8530fe76452c1bbe7985c", null ],
-    [ "getByte", "d1/dd7/a28696.html#ab1897952fa01e930caffa262519645c5", null ],
-    [ "getFloat", "d1/dd7/a28696.html#a3e6402dcebb5adc1becccdc2bbf39758", null ],
-    [ "getFloat", "d1/dd7/a28696.html#a3e6402dcebb5adc1becccdc2bbf39758", null ],
-    [ "getInt", "d1/dd7/a28696.html#a80c4d8d3ae4a5a42ed1dc9a9edcd6747", null ],
-    [ "getInt", "d1/dd7/a28696.html#a80c4d8d3ae4a5a42ed1dc9a9edcd6747", null ],
-    [ "getString", "d1/dd7/a28696.html#a3e330e9888e740bc16d4ba173c90c8d9", null ],
-    [ "getString", "d1/dd7/a28696.html#a3e330e9888e740bc16d4ba173c90c8d9", null ],
-    [ "getUInt", "d1/dd7/a28696.html#ace0215b88ffbaf83c69a82cde51cd45f", null ],
-    [ "getUInt", "d1/dd7/a28696.html#ace0215b88ffbaf83c69a82cde51cd45f", null ],
-    [ "operator=", "d1/dd7/a28696.html#a25c6e7d3b28aade82eb52d41515f0427", null ],
-    [ "DBCFile", "d1/dd7/a28696.html#a6c4f02b14caa99337bbe77b30e5615ab", null ],
-    [ "DBCFile::Iterator", "d1/dd7/a28696.html#a56d48f82a62e25038bf9cf339e608083", null ],
-    [ "Iterator", "d1/dd7/a28696.html#a9830fc407400559db7e7783cc10a9394", null ],
-    [ "file", "d1/dd7/a28696.html#adffc3b9545883356dd9bed0a0613a1fe", null ],
-    [ "offset", "d1/dd7/a28696.html#ae76eb8b329fb6d580aa42484de46c95e", null ]
+    [ "plane", "d2/dd1/a28704.html", "d2/dd1/a28704" ],
+    [ "prepareLoadedData", "d1/dd7/a28696.html#a29dc30be1cb7f5439e023865ff5a4853", null ],
+    [ "fcc", "d1/dd7/a28696.html#a8c64958fb4e18bc3bcfaf7dbfde9f178", null ],
+    [ "fcc_txt", "d1/dd7/a28696.html#ab768fb1ba27812060cf2edeb5f4b876c", null ],
+    [ "max", "d1/dd7/a28696.html#afadebfc1361985b6f5d45c27e22cb303", null ],
+    [ "min", "d1/dd7/a28696.html#ac3ebf1557841088ef8912b68fe6df908", null ],
+    [ "size", "d1/dd7/a28696.html#af92420cfd862486c73c35ac8a9f9fdee", null ]
 ];

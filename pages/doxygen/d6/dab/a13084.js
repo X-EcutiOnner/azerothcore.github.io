@@ -1,7 +1,6 @@
 var a13084 =
 [
-    [ "HandleScript", "d6/dab/a13084.html#a6ce169d6c1b106195f787b52ea433311", null ],
-    [ "PrepareSpellScript", "d6/dab/a13084.html#a4f71583df2193274365944e6d228247c", null ],
-    [ "Register", "d6/dab/a13084.html#aad8978dc0505d1fb80e2416f5525cbc7", null ],
-    [ "Validate", "d6/dab/a13084.html#a51025308f88001f1f66d7f68f174f325", null ]
+    [ "instance_scarlet_monastery_InstanceMapScript", "dc/d7c/a13088.html", "dc/d7c/a13088" ],
+    [ "instance_scarlet_monastery", "d6/dab/a13084.html#a8f068ebd98bd81dbb60dbccd795f1f3f", null ],
+    [ "GetInstanceScript", "d6/dab/a13084.html#a1c66031217457809fbe56303085715a0", null ]
 ];

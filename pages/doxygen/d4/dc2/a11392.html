@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: CreatureTextLocale Struct Reference</title>
+<title>AzerothCore: AuraScript::AuraProcHandler Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,34 +105,103 @@ $(document).ready(function(){initNavTree('d4/dc2/a11392.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#pub-attribs">Public Attributes</a> &#124;
+<a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="../../d2/dbf/a11389.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">CreatureTextLocale Struct Reference</div></div>
+  <div class="headertitle"><div class="title">AuraScript::AuraProcHandler Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">CreatureTextMgr.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">SpellScript.h</a>&quot;</code></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
-Public Attributes</h2></td></tr>
-<tr class="memitem:ab4b16957cc9e845b0f763b4241ba5c89"><td class="memItemLeft" align="right" valign="top">std::vector&lt; std::string &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/dc2/a11392.html#ab4b16957cc9e845b0f763b4241ba5c89">Text</a></td></tr>
-<tr class="separator:ab4b16957cc9e845b0f763b4241ba5c89"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
+Public Member Functions</h2></td></tr>
+<tr class="memitem:a1c0ad4a28c98d89a0afc2f8eeda9a421"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/dc2/a11392.html#a1c0ad4a28c98d89a0afc2f8eeda9a421">AuraProcHandler</a> (AuraProcFnType handlerScript)</td></tr>
+<tr class="separator:a1c0ad4a28c98d89a0afc2f8eeda9a421"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abc0c3be9dee08e995c282f20900f3c46"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/dc2/a11392.html#abc0c3be9dee08e995c282f20900f3c46">Call</a> (<a class="el" href="../../d4/dc4/a11332.html">AuraScript</a> *auraScript, <a class="el" href="../../da/d71/a08728.html">ProcEventInfo</a> &amp;eventInfo)</td></tr>
+<tr class="separator:abc0c3be9dee08e995c282f20900f3c46"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
+Private Attributes</h2></td></tr>
+<tr class="memitem:ada8d7a5659598b0092739a91ba2653bd"><td class="memItemLeft" align="right" valign="top">AuraProcFnType&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/dc2/a11392.html#ada8d7a5659598b0092739a91ba2653bd">_HandlerScript</a></td></tr>
+<tr class="separator:ada8d7a5659598b0092739a91ba2653bd"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Member Data Documentation</h2>
-<a id="ab4b16957cc9e845b0f763b4241ba5c89" name="ab4b16957cc9e845b0f763b4241ba5c89"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab4b16957cc9e845b0f763b4241ba5c89">&#9670;&#160;</a></span>Text</h2>
+<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="a1c0ad4a28c98d89a0afc2f8eeda9a421" name="a1c0ad4a28c98d89a0afc2f8eeda9a421"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1c0ad4a28c98d89a0afc2f8eeda9a421">&#9670;&#160;</a></span>AuraProcHandler()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">std::vector&lt;std::string&gt; CreatureTextLocale::Text</td>
+          <td class="memname">AuraScript::AuraProcHandler::AuraProcHandler </td>
+          <td>(</td>
+          <td class="paramtype">AuraProcFnType&#160;</td>
+          <td class="paramname"><em>handlerScript</em></td><td>)</td>
+          <td></td>
         </tr>
       </table>
 </div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  920</span>{</div>
+<div class="line"><span class="lineno">  921</span>    <a class="code hl_variable" href="../../d4/dc2/a11392.html#ada8d7a5659598b0092739a91ba2653bd">_HandlerScript</a> = handlerScript;</div>
+<div class="line"><span class="lineno">  922</span>}</div>
+<div class="ttc" id="aa11392_html_ada8d7a5659598b0092739a91ba2653bd"><div class="ttname"><a href="../../d4/dc2/a11392.html#ada8d7a5659598b0092739a91ba2653bd">AuraScript::AuraProcHandler::_HandlerScript</a></div><div class="ttdeci">AuraProcFnType _HandlerScript</div><div class="ttdef"><b>Definition:</b> SpellScript.h:657</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="abc0c3be9dee08e995c282f20900f3c46" name="abc0c3be9dee08e995c282f20900f3c46"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abc0c3be9dee08e995c282f20900f3c46">&#9670;&#160;</a></span>Call()</h2>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00168">CreatureTextMgr::LoadCreatureTextLocales()</a>.</p>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AuraScript::AuraProcHandler::Call </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d4/dc4/a11332.html">AuraScript</a> *&#160;</td>
+          <td class="paramname"><em>auraScript</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../da/d71/a08728.html">ProcEventInfo</a> &amp;&#160;</td>
+          <td class="paramname"><em>eventInfo</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  925</span>{</div>
+<div class="line"><span class="lineno">  926</span>    (auraScript-&gt;*<a class="code hl_variable" href="../../d4/dc2/a11392.html#ada8d7a5659598b0092739a91ba2653bd">_HandlerScript</a>)(eventInfo);</div>
+<div class="line"><span class="lineno">  927</span>}</div>
+</div><!-- fragment -->
+</div>
+</div>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a id="ada8d7a5659598b0092739a91ba2653bd" name="ada8d7a5659598b0092739a91ba2653bd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ada8d7a5659598b0092739a91ba2653bd">&#9670;&#160;</a></span>_HandlerScript</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">AuraProcFnType AuraScript::AuraProcHandler::_HandlerScript</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
 
 </div>
 </div>
@@ -141,8 +210,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d4/dc2/a11392.html">CreatureTextLocale</a></li>
-    <li class="footer">Generated on Mon Aug 18 2025 20:48:19 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d4/dc4/a11332.html">AuraScript</a></li><li class="navelem"><a class="el" href="../../d4/dc2/a11392.html">AuraProcHandler</a></li>
+    <li class="footer">Generated on Mon Aug 25 2025 20:46:12 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

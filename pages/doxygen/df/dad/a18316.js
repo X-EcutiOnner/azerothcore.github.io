@@ -1,6 +1,7 @@
 var a18316 =
 [
-    [ "npc_valkyr_shadowguardAI", "d9/d03/a18320.html", "d9/d03/a18320" ],
-    [ "npc_valkyr_shadowguard", "df/dad/a18316.html#a8ee90e21499eebf240c57419454c3829", null ],
-    [ "GetAI", "df/dad/a18316.html#ad84cb094a17e4fb88d3e883c98ce7f5a", null ]
+    [ "CheckTargetCount", "df/dad/a18316.html#a637ba0717ae0f6f736f5532ed65ca301", null ],
+    [ "PrepareSpellScript", "df/dad/a18316.html#af560e5c4e985e9b139999f5ef618fe3c", null ],
+    [ "Register", "df/dad/a18316.html#a86e7512496fd38201d458c03a7a60296", null ],
+    [ "Validate", "df/dad/a18316.html#a744c4aa76387be4aa76a69fbcaa7932e", null ]
 ];

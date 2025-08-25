@@ -1,9 +1,12 @@
 var a21596 =
 [
-    [ "npc_bonker_togglevoltAI", "dc/ddf/a21596.html#adfd43a6a804a35e235262e55f0155ffe", null ],
-    [ "JustDied", "dc/ddf/a21596.html#a5ac6e89ad9ad3d3d69a87f7b9dc4026f", null ],
-    [ "Reset", "dc/ddf/a21596.html#a13efa2a2a0c5c796b3fd9f36a54ce523", null ],
-    [ "UpdateEscortAI", "dc/ddf/a21596.html#a9bf17d7ec59d800955c131dbe14a31d8", null ],
-    [ "WaypointReached", "dc/ddf/a21596.html#a06dc6c018d52f1cd1b2c7f76dbda3a2d", null ],
-    [ "Bonker_agro", "dc/ddf/a21596.html#a395e6e14f03cb0ecfe70348cc148d7ef", null ]
+    [ "npc_beryl_sorcererAI", "dc/ddf/a21596.html#a8f99f5f2ad6ccb1b068a86904bb1b864", null ],
+    [ "Initialize", "dc/ddf/a21596.html#a40400e4e993d20d9bbe4faf063102521", null ],
+    [ "JustEngagedWith", "dc/ddf/a21596.html#afae877e8dac583c9420d214f77c2b438", null ],
+    [ "Reset", "dc/ddf/a21596.html#a17a16337c09013483c58cae38576d969", null ],
+    [ "SpellHit", "dc/ddf/a21596.html#a762ee3ae8df3757279821af13101e0be", null ],
+    [ "UpdateAI", "dc/ddf/a21596.html#a42ec665b06988d13be6cbee646afc898", null ],
+    [ "_chainsCast", "dc/ddf/a21596.html#ab6238d539b10a7db9191bdc685ea67eb", null ],
+    [ "_events", "dc/ddf/a21596.html#ac640099ca01ae2183b84ae9ee3407cc1", null ],
+    [ "_playerGUID", "dc/ddf/a21596.html#a96f9b39c09b7a5fb484ae9069412751f", null ]
 ];

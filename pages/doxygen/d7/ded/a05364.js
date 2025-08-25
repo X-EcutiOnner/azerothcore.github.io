@@ -1,8 +1,13 @@
 var a05364 =
 [
-    [ "LogOperation", "d7/ded/a05364.html#a19e5e4731bd71697876110348f86d737", null ],
-    [ "~LogOperation", "d7/ded/a05364.html#aae305e293044badac1a628edd501ed35", null ],
-    [ "call", "d7/ded/a05364.html#a966a4bfb45430860fa5be56fe8b48f79", null ],
-    [ "logger", "d7/ded/a05364.html#af1d8611d116a3575e59a99e8cba5fc84", null ],
-    [ "msg", "d7/ded/a05364.html#a665effc48367f396f3e714f5d3d56d75", null ]
+    [ "Logger", "d7/ded/a05364.html#a79033d763c69dbfb95b1c591f1cc680b", null ],
+    [ "addAppender", "d7/ded/a05364.html#aabacae0a84994e5567f9c87829909fdd", null ],
+    [ "delAppender", "d7/ded/a05364.html#a1fb8747bf7b652b9dfbf9ee830a82c8b", null ],
+    [ "getLogLevel", "d7/ded/a05364.html#aba945b0f037b7de27976d3a6e1a0fbbd", null ],
+    [ "getName", "d7/ded/a05364.html#ae95167d7bb330ecc0a49779a5635d1e2", null ],
+    [ "setLogLevel", "d7/ded/a05364.html#a00fdcdbeb39a2d5d4fb27cc36c35c101", null ],
+    [ "write", "d7/ded/a05364.html#a3627f98e8676ee7b68a34a4d9439082e", null ],
+    [ "appenders", "d7/ded/a05364.html#aa93931f2386ebc6dbf2464f536ed54f9", null ],
+    [ "level", "d7/ded/a05364.html#a3b1d9dd7bd391ac7bed560918f82a03b", null ],
+    [ "name", "d7/ded/a05364.html#ada299a7dd268085371557213e36695a9", null ]
 ];

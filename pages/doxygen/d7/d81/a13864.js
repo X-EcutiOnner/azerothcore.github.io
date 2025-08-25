@@ -1,7 +1,7 @@
 var a13864 =
 [
-    [ "OnPeriodic", "d7/d81/a13864.html#aa541a8bc034517d1f5d034ac51bd8dac", null ],
-    [ "PrepareAuraScript", "d7/d81/a13864.html#abc166e4dc33e7bffd1d53c2ef8272efa", null ],
-    [ "Register", "d7/d81/a13864.html#a60313d4ba992b1dc81e7cdae942f1b3d", null ],
-    [ "Validate", "d7/d81/a13864.html#a7ed214de6769314a45540e9afdb82949", null ]
+    [ "HandleDispel", "d7/d81/a13864.html#a415977576283972ce4a1050c70826d7c", null ],
+    [ "PrepareAuraScript", "d7/d81/a13864.html#a95dfbfe631e8ec9213a32c6f52d3feb1", null ],
+    [ "Register", "d7/d81/a13864.html#a1bbb71eeb2273c2ecd0eb774b68735dc", null ],
+    [ "Validate", "d7/d81/a13864.html#ac496e7bef875ca46660217e74fc3bc74", null ]
 ];

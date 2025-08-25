@@ -1,13 +1,7 @@
 var a15292 =
 [
-    [ "instance_wailing_caverns_InstanceMapScript", "d6/dab/a15292.html#a47e596ca151268b9c3419ff2a2fffc1c", null ],
-    [ "GetData", "d6/dab/a15292.html#a17e62e8fe06617868baf85caedc3a0fc", null ],
-    [ "Initialize", "d6/dab/a15292.html#a870ab2322971767fa37986743b31d20c", null ],
-    [ "OnCreatureCreate", "d6/dab/a15292.html#aed3807432711105589d0b060a21836cc", null ],
-    [ "ReadSaveDataMore", "d6/dab/a15292.html#ad348102f71e070e7ef12da62238c7b0f", null ],
-    [ "SetData", "d6/dab/a15292.html#a0333b4728e9288937711174743f19f60", null ],
-    [ "WriteSaveDataMore", "d6/dab/a15292.html#a78bece51279e3f9e62800e4d80b00f64", null ],
-    [ "_encounters", "d6/dab/a15292.html#a0f049806007e59363418d4e39f9e389b", null ],
-    [ "DiscipleOfNaralexGUID", "d6/dab/a15292.html#affed3fb16f4e578fe86ae171e5b641d6", null ],
-    [ "SerpentisGUID", "d6/dab/a15292.html#a7ba205e4988a20404f5e597331dd5d56", null ]
+    [ "npc_vekniss_stinger", "d6/dab/a15292.html#ad48098961715a924270cb8bbbe77e4b0", null ],
+    [ "JustEngagedWith", "d6/dab/a15292.html#ae7c758687c81cfb223066f0a9348eab8", null ],
+    [ "Reset", "d6/dab/a15292.html#a2a79f3775aad83410ff2670aa438e811", null ],
+    [ "UpdateAI", "d6/dab/a15292.html#a1ff479e8f45710f6aa36473933bb87e0", null ]
 ];

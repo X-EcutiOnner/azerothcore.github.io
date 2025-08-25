@@ -1,6 +1,7 @@
 var a10656 =
 [
-    [ "GuildDemoteMember", "d9/de1/a10656.html#aa3d68021828c516d7b1995811e8df7d7", null ],
-    [ "Read", "d9/de1/a10656.html#aca46670c89e3d15df6a3f6694ab3dcb6", null ],
-    [ "Demotee", "d9/de1/a10656.html#a60c7e56c201d794fb473a62fccc160bb", null ]
+    [ "GuildSetMemberNote", "d9/de1/a10656.html#a4747c3d015cb1b0d0056928fd75e4d18", null ],
+    [ "Read", "d9/de1/a10656.html#a3d90b6ce26d55a55bac1d953dd39b049", null ],
+    [ "Note", "d9/de1/a10656.html#a33b7b73bd5d26c2a0ac99d6dc0131c41", null ],
+    [ "NoteeName", "d9/de1/a10656.html#acf6beb0a5b122a04162e9d2c027203af", null ]
 ];

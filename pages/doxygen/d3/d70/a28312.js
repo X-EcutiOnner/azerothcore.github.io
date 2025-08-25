@@ -1,8 +1,6 @@
 var a28312 =
 [
-    [ "areaTriggerText", "d3/d70/a28312.html#a32bb8c4a4defce661d108627e25b645a", null ],
-    [ "Difficulty", "d3/d70/a28312.html#add8ed75cd6aaa3412e6222b869bb4113", null ],
-    [ "MapId", "d3/d70/a28312.html#aa107ad302ec2aa3ce2289ba392e1c32e", null ],
-    [ "maxPlayers", "d3/d70/a28312.html#a7ab33229ffee11a27861439053c79831", null ],
-    [ "resetTime", "d3/d70/a28312.html#a891a741efb049b51996e1a6110efc52d", null ]
+    [ "Enchantment", "d3/d70/a28312.html#a480ab806214bb138d56dfd5e9e43936f", null ],
+    [ "ID", "d3/d70/a28312.html#acb673be771124b84dd3fdd5deb300de7", null ],
+    [ "Name", "d3/d70/a28312.html#a3ad3a1b693922ff8264d90232abb3e35", null ]
 ];

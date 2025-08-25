@@ -1,6 +1,8 @@
 var a26336 =
 [
-    [ "HandleScript", "d4/d86/a26336.html#ae81570045d4984ee5682a0333b1b142d", null ],
-    [ "PrepareSpellScript", "d4/d86/a26336.html#acb074781e07961998362349a7616fc4e", null ],
-    [ "Register", "d4/d86/a26336.html#aaf41593da5ebb1118ccb10a5d4d32b26", null ]
+    [ "HandleDummy", "d4/d86/a26336.html#ae396c96647e36da357bdc70e11e3145f", null ],
+    [ "Load", "d4/d86/a26336.html#a2b4811bf7e60361e13bc382e62173cee", null ],
+    [ "PrepareSpellScript", "d4/d86/a26336.html#ac97d07fb0d964bf3fb29d8bee57fc8e7", null ],
+    [ "Register", "d4/d86/a26336.html#a7c6aa891b012a0e1820fbe67976d68fd", null ],
+    [ "count", "d4/d86/a26336.html#a73358b2272ad12faef006b1ef633cac0", null ]
 ];

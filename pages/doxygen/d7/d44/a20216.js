@@ -1,6 +1,5 @@
 var a20216 =
 [
-    [ "npc_ulduar_toasty_fireAI", "d7/d44/a20216.html#a145001c6f1c1d505f810ae545ec62c69", null ],
-    [ "DoAction", "d7/d44/a20216.html#a8ab71582cc5d8386f788fb95203fbab5", null ],
-    [ "SpellHit", "d7/d44/a20216.html#a0e4475382dfd754dc119d2e8dba61b7e", null ]
+    [ "go_ulduar_pure_saronite_deposit", "d7/d44/a20216.html#a39da51a78b9f27392ed7494e18e89b93", null ],
+    [ "OnGossipHello", "d7/d44/a20216.html#ab69c5b514e0b79ff7155e0080841d4a2", null ]
 ];

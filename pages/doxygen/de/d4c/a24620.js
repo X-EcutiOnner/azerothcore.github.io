@@ -1,6 +1,7 @@
 var a24620 =
 [
-    [ "RaiseDeadCheck", "de/d4c/a24620.html#abc6439e5b457f2f6e832f504167a392d", null ],
-    [ "operator()", "de/d4c/a24620.html#a9647e6afd21e7397f05349e66bea4326", null ],
-    [ "_caster", "de/d4c/a24620.html#a7b1647934c5e64de65d38b9fba2d343a", null ]
+    [ "HandleDummy", "de/d4c/a24620.html#a54f7f56a9122b623855eb9d11e34dfca", null ],
+    [ "PrepareSpellScript", "de/d4c/a24620.html#a2fe4b009fa3741c180e18730af5853e3", null ],
+    [ "Register", "de/d4c/a24620.html#a762c2320ab8d48e1284d81962a4b078f", null ],
+    [ "Validate", "de/d4c/a24620.html#a42fbc381d7ae89f1ac265fb15ebd864f", null ]
 ];

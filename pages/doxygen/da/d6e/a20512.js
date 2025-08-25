@@ -1,6 +1,6 @@
 var a20512 =
 [
-    [ "npc_ulduar_emergency_fire_botAI", "d7/ddf/a20516.html", "d7/ddf/a20516" ],
-    [ "npc_ulduar_emergency_fire_bot", "da/d6e/a20512.html#a1adc05ac4602ab2b297b18f605bfd2cd", null ],
-    [ "GetAI", "da/d6e/a20512.html#afb3ab952495175c5f571d4e39a5acea4", null ]
+    [ "npc_ulduar_bot_summon_triggerAI", "d7/ddf/a20516.html", "d7/ddf/a20516" ],
+    [ "npc_ulduar_bot_summon_trigger", "da/d6e/a20512.html#a7a369b4826c6c2a86704088f5dcf1ce7", null ],
+    [ "GetAI", "da/d6e/a20512.html#a0d7f74fc910c5adcaaa46a9d2ea10ea3", null ]
 ];

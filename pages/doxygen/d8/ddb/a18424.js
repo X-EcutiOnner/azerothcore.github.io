@@ -1,6 +1,6 @@
 var a18424 =
 [
-    [ "ActivateSpirit", "d8/ddb/a18424.html#ae5c9f8e693a98c828e0e922870552952", null ],
-    [ "PrepareSpellScript", "d8/ddb/a18424.html#aa55f0fe4e27520b8a7ae1bb0f810838d", null ],
-    [ "Register", "d8/ddb/a18424.html#a2b1d27e93a879681098a83d17c4d686a", null ]
+    [ "npc_spirit_wardenAI", "d5/d94/a18428.html", "d5/d94/a18428" ],
+    [ "npc_spirit_warden", "d8/ddb/a18424.html#ab585d20eadb7876752d731702db44293", null ],
+    [ "GetAI", "d8/ddb/a18424.html#ab33ab494d7fee64eed7c75464ce60489", null ]
 ];

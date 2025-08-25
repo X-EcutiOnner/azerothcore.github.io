@@ -1,10 +1,9 @@
 var a23272 =
 [
-    [ "Spells", "d2/de9/a23272.html#a70ca1841fb1db54e6f76b96331e05cf1", [
-      [ "SPELL_GROW", "d2/de9/a23272.html#a70ca1841fb1db54e6f76b96331e05cf1a287a03bdb61355baf071dd8aa5802ccd", null ],
-      [ "SPELL_SPORE_CLOUD", "d2/de9/a23272.html#a70ca1841fb1db54e6f76b96331e05cf1afae99ec87dcd6bdf3631b9f273fecbd5", null ]
-    ] ],
-    [ "npc_rancid_mushroom", "d2/de9/a23272.html#a15896957b94de57de9eda5a199a05d4c", null ],
-    [ "InitializeAI", "d2/de9/a23272.html#afff169ff9d7a8411cf6d21f4f9be2545", null ],
-    [ "UpdateAI", "d2/de9/a23272.html#a13bfd343bdf54c829b3fcb0a775c0852", null ]
+    [ "FilterTargets", "d2/de9/a23272.html#a9049c113d65b15a9a8e1143980a84b23", null ],
+    [ "HandleDummy", "d2/de9/a23272.html#a21fd59ba177fd7b04eb1fcafe869f33a", null ],
+    [ "Load", "d2/de9/a23272.html#a8cad82701e0147e14f826243175e1c32", null ],
+    [ "PrepareSpellScript", "d2/de9/a23272.html#aa05839a8dd785a2472e8e5f3a9fc58b0", null ],
+    [ "Register", "d2/de9/a23272.html#a0e7e246c322b89c3b6ee08797984f7e6", null ],
+    [ "_targetNumber", "d2/de9/a23272.html#a34f80edf782ade371e7a6fc908b47b4f", null ]
 ];

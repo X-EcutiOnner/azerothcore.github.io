@@ -1,11 +1,12 @@
 var a12116 =
 [
-    [ "boss_solakar_flamewreathAI", "de/dfe/a12116.html#ada12a91bedec9be8923f9dc74fce07d0", null ],
-    [ "ExecuteEvent", "de/dfe/a12116.html#aa1fca22d30b15ee93cc02084ebab0c2c", null ],
-    [ "InitializeAI", "de/dfe/a12116.html#a7a8a5d3c453e29ec746422e1ba8e4d34", null ],
-    [ "JustDied", "de/dfe/a12116.html#aceb580afa2329ada3236dc759f3a3c20", null ],
-    [ "JustEngagedWith", "de/dfe/a12116.html#a47f8a133b6f8c0de11a66b712bb8e266", null ],
-    [ "Reset", "de/dfe/a12116.html#a25ae2943a7ce9a1f459cfd1313c84c49", null ],
-    [ "UpdateAI", "de/dfe/a12116.html#ac5f908584251455c720ce3f25ed07dae", null ],
-    [ "resetTimer", "de/dfe/a12116.html#acd7fdd30767a7863f265eb96e29c221e", null ]
+    [ "boss_pyroguard_emberseerAI", "de/dfe/a12116.html#ac08deea0d151d109f36bb3cf66a34f29", null ],
+    [ "JustDied", "de/dfe/a12116.html#aa35fc50d327c0bf7506bfd166d098522", null ],
+    [ "JustEngagedWith", "de/dfe/a12116.html#a9eff335ff04e3da1e4488e00b55ecbaa", null ],
+    [ "OpenDoors", "de/dfe/a12116.html#a8002f8d7b6b06b970d38d9824d57d737", null ],
+    [ "Reset", "de/dfe/a12116.html#ab82a2bc6e9596d14dd2fd65b859af74d", null ],
+    [ "SetData", "de/dfe/a12116.html#a5892ccaf9107e2da47c22c21bf5b2ed9", null ],
+    [ "SpellHit", "de/dfe/a12116.html#a236f20c40eb1c37a25b04b5cf83e2488", null ],
+    [ "UpdateAI", "de/dfe/a12116.html#a075147c4409174652e732293426b732d", null ],
+    [ "UpdateRunes", "de/dfe/a12116.html#a87d7d63893a9feb6bb6c44adf1c637eb", null ]
 ];

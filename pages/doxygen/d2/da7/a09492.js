@@ -1,8 +1,7 @@
 var a09492 =
 [
-    [ "LocalizedPacketDo", "d2/da7/a09492.html#a9b7700f2a4958b91a67375ec9a40072c", null ],
-    [ "~LocalizedPacketDo", "d2/da7/a09492.html#a4296260b2011e1f7c300987073863ca9", null ],
-    [ "operator()", "d2/da7/a09492.html#a43449bdf0302e426b8cb4341326196b1", null ],
-    [ "i_builder", "d2/da7/a09492.html#a2c794905898feb502bfc5d3760f962b8", null ],
-    [ "i_data_cache", "d2/da7/a09492.html#a2bbff655e1a5268981c48e3ee028b104", null ]
+    [ "PowerCheck", "d2/da7/a09492.html#abb2fc6c6e83e1097a6bb40512fb50dfc", null ],
+    [ "operator()", "d2/da7/a09492.html#a16ad8e68d94742bc78b6f20734f58e99", null ],
+    [ "_equals", "d2/da7/a09492.html#ae7758da7775ff778bc5cd96e9a15649b", null ],
+    [ "_power", "d2/da7/a09492.html#a922a57b62b4289835b539a69b0f58fa1", null ]
 ];

@@ -1,7 +1,7 @@
 var a12240 =
 [
-    [ "HandleScript", "d6/d91/a12240.html#ac6ef94a03f602b44a5c7c22b7e41d116", null ],
-    [ "PrepareSpellScript", "d6/d91/a12240.html#ad92a56c23b9f15e36766fe64d1d0dd17", null ],
-    [ "Register", "d6/d91/a12240.html#aa8ad85cbf0403d79e55bbe0ae184407b", null ],
-    [ "Validate", "d6/d91/a12240.html#a3ad038e7bf43dceedb0fceebd4070bfa", null ]
+    [ "boss_broodlordAI", "d6/d91/a12240.html#aa7a5b16b22633439e5d20f9d47a91041", null ],
+    [ "JustDied", "d6/d91/a12240.html#ab0c4dfdd5abc8edcf039d5207e8a63e8", null ],
+    [ "JustEngagedWith", "d6/d91/a12240.html#ae6e26d9cd6e22426caf6ce031551f8a8", null ],
+    [ "UpdateAI", "d6/d91/a12240.html#aea6fbbe31c96e94c2116733c3c66b59b", null ]
 ];

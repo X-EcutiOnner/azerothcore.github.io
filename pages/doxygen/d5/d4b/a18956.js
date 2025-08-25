@@ -1,8 +1,9 @@
 var a18956 =
 [
-    [ "HandleScript", "d5/d4b/a18956.html#ae0d16607f9eb3ff233513233bfb573ea", null ],
-    [ "HandleScript2", "d5/d4b/a18956.html#a3ff7d46323da70df6ad11ddfcaf6cfbb", null ],
-    [ "Load", "d5/d4b/a18956.html#ad41decc0a264104ca2232aef4e71cdaf", null ],
-    [ "PrepareSpellScript", "d5/d4b/a18956.html#a2d1dbae570206b358878020879708000", null ],
-    [ "Register", "d5/d4b/a18956.html#a7cf32445caa09f2a2b3c52f68f315ba5", null ]
+    [ "npc_isle_of_conquest_turretAI", "d5/d4b/a18956.html#a0a0f24af22e4c72e843970c0d5c1ff87", null ],
+    [ "JustDied", "d5/d4b/a18956.html#a88390da94298bea9c445bb422a806d23", null ],
+    [ "SpellHit", "d5/d4b/a18956.html#afc8b8a9be6b0908fcb83af57bef7a57a", null ],
+    [ "UpdateAI", "d5/d4b/a18956.html#a81c039a2a230b261967842161757b6f8", null ],
+    [ "events", "d5/d4b/a18956.html#aee0aa5a950b3743409fd3ae482bc94b8", null ],
+    [ "faction", "d5/d4b/a18956.html#aca941c070a97278c8ec27d7e6b4edede", null ]
 ];

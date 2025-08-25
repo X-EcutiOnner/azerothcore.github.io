@@ -1,5 +1,6 @@
 var a27020 =
 [
-    [ "achievement_bg_ic_mowed_down", "d9/d2f/a27020.html#ab05387d1e14958e87123bd0fc2188445", null ],
-    [ "OnCheck", "d9/d2f/a27020.html#a385e09c605084900f374090e5e19c24f", null ]
+    [ "HandleEffectCalcSpellMod", "d9/d2f/a27020.html#a38c2a5daeda4b366518026638e6a8e1b", null ],
+    [ "PrepareAuraScript", "d9/d2f/a27020.html#a767c3c52e917b56dbf2368b5dbbf1610", null ],
+    [ "Register", "d9/d2f/a27020.html#af60592a9f1e595f31814eae405d03d5a", null ]
 ];

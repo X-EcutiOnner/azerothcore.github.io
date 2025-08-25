@@ -1,24 +1,9 @@
 var a28788 =
 [
-    [ "TerrainBuilder", "d7/d77/a28788.html#aa902f249e17be94980cc0b06da42d47e", null ],
-    [ "~TerrainBuilder", "d7/d77/a28788.html#a731cd606fd85b176b116512a2ccf86ee", null ],
-    [ "TerrainBuilder", "d7/d77/a28788.html#a8f23adef45880c3cd771ce9d29054bd8", null ],
-    [ "cleanVertices", "d7/d77/a28788.html#a7a3f53367758b6effcc7899894c148de", null ],
-    [ "copyIndices", "d7/d77/a28788.html#a5f4139193ad3708e234414131aa3be55", null ],
-    [ "copyIndices", "d7/d77/a28788.html#a8d5bfc11e790aae74d7b81fb7db27061", null ],
-    [ "copyVertices", "d7/d77/a28788.html#a26207130b8e5807986b36ea148e84457", null ],
-    [ "getHeightCoord", "d7/d77/a28788.html#aecdd8a0ae2dab523925111197afe8835", null ],
-    [ "getHeightTriangle", "d7/d77/a28788.html#ab15913dd11a60078205a9fc76ce99203", null ],
-    [ "getLiquidCoord", "d7/d77/a28788.html#ae29c5c0538049382e6b75d0393a7714f", null ],
-    [ "getLiquidType", "d7/d77/a28788.html#a2d7e5ef7722ce2f78fda293af4e2d08d", null ],
-    [ "getLoopVars", "d7/d77/a28788.html#af47da985fc495b4a5fd8b32774e36b82", null ],
-    [ "isHole", "d7/d77/a28788.html#a219be095026945890d4f76163903ea2c", null ],
-    [ "loadHeightMap", "d7/d77/a28788.html#a5ddd947c48dae0acf29c952eca5ebe56", null ],
-    [ "loadMap", "d7/d77/a28788.html#ab6f3b100ee1a40173c2e77c6ee5a0da9", null ],
-    [ "loadMap", "d7/d77/a28788.html#a4071ed1464f7beb4d8567def275139e4", null ],
-    [ "loadOffMeshConnections", "d7/d77/a28788.html#a8df6feed791e1b6ca3ab46e6001c0f32", null ],
-    [ "loadVMap", "d7/d77/a28788.html#ae816d445265bde3c3866069bcd9e5184", null ],
-    [ "transform", "d7/d77/a28788.html#a6c25e949e12eba48d7e250ba99ce6e85", null ],
-    [ "usesLiquids", "d7/d77/a28788.html#ab869d655ea5cb7f9d32dff63ed4df779", null ],
-    [ "m_skipLiquid", "d7/d77/a28788.html#aa4feec2075cdb31e940f2cf3dc0d136a", null ]
+    [ "WDT_file", "d7/d77/a28788.html#afa32849d31abde3cb2c9f3b558816368", null ],
+    [ "~WDT_file", "d7/d77/a28788.html#a29bf710b8346204eb848017450afebe1", null ],
+    [ "free", "d7/d77/a28788.html#aee6c7e1e402cf986e754753c5e8aee72", null ],
+    [ "prepareLoadedData", "d7/d77/a28788.html#add675f96f010e67ca1df01b029c9ebfb", null ],
+    [ "main", "d7/d77/a28788.html#a89ddf5d1527ac16a5d05790769d266b3", null ],
+    [ "mphd", "d7/d77/a28788.html#a1d216a266e5e6390e9bd2e02c9d3c7f2", null ]
 ];

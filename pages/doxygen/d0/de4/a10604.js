@@ -1,8 +1,6 @@
 var a10604 =
 [
-    [ "GuildEvent", "d0/de4/a10604.html#a78be16122c01d4c68d67e050ede92006", null ],
-    [ "Write", "d0/de4/a10604.html#a4ae1c0daaec964981ad982b97c1b0408", null ],
-    [ "Guid", "d0/de4/a10604.html#a35bcac3da7db22a22b4e8dba21ae1d0a", null ],
-    [ "Params", "d0/de4/a10604.html#a8f0faa70581ca04c26f87ebcd25cee80", null ],
-    [ "Type", "d0/de4/a10604.html#a961ae90991fa23bfc94a054dba357392", null ]
+    [ "GuildInviteByName", "d0/de4/a10604.html#a5e0bab98d87000ad796ebb2753cd566b", null ],
+    [ "Read", "d0/de4/a10604.html#a91f3fba33e265cbb119f1d3e69d4a8ca", null ],
+    [ "Name", "d0/de4/a10604.html#a048c7ed9de19bcb57c0cdb10e2cf3bef", null ]
 ];

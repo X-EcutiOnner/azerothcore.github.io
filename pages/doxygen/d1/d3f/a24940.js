@@ -1,6 +1,7 @@
 var a24940 =
 [
-    [ "ModDest", "d1/d3f/a24940.html#a99d08536d2555390a7399a6d2fc199e6", null ],
-    [ "PrepareSpellScript", "d1/d3f/a24940.html#a361aed7e74a9f01d665018fd0c3addb1", null ],
-    [ "Register", "d1/d3f/a24940.html#aa96b1ff5297d670481d1d8afa9356ef9", null ]
+    [ "HandleEffectRemove", "d1/d3f/a24940.html#a3d6b6ae0bde8ae51362c95df82604d68", null ],
+    [ "PrepareAuraScript", "d1/d3f/a24940.html#aa07b231cc76afb098ac8bc92eb050c80", null ],
+    [ "Register", "d1/d3f/a24940.html#aa381143f36a6443dfb1f0d66ce81c351", null ],
+    [ "AuraEffectHandleModes", "d1/d3f/a24940.html#a97370dd3f7c3e58a719090176c397386", null ]
 ];

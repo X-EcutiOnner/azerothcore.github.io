@@ -1,8 +1,6 @@
 var a24344 =
 [
-    [ "go_skull_pile", "da/dcd/a24344.html#a9cf8dfef432c4967c60f66e645585770", null ],
-    [ "OnGossipHello", "da/dcd/a24344.html#ac95d39ea03e78fee2a10603d8c7f8840", null ],
-    [ "OnGossipSelect", "da/dcd/a24344.html#afb8e8db2705355e975fa48c98e09f20b", null ],
-    [ "SendActionMenu", "da/dcd/a24344.html#a048dd224b46ead864958ad524d76167f", null ],
-    [ "_result", "da/dcd/a24344.html#af74fcd75404c0886128401d661067394", null ]
+    [ "HandleSendEvent", "da/dcd/a24344.html#a698e367b59ce770a9b4d9fe6890edf46", null ],
+    [ "PrepareSpellScript", "da/dcd/a24344.html#aed8815b1d068ba04f12c7714a64af769", null ],
+    [ "Register", "da/dcd/a24344.html#aa55fa06e76b1f34e319e16984405ed20", null ]
 ];

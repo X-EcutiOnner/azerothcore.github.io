@@ -1,7 +1,6 @@
 var a26008 =
 [
-    [ "HandleKnockBack", "db/db5/a26008.html#a860fb74000a42a7d6f22d17dde93cdf6", null ],
-    [ "PrepareSpellScript", "db/db5/a26008.html#ab951d6403188f178f79311cead8a0a8f", null ],
-    [ "Register", "db/db5/a26008.html#ac62f4fdf003cdd53650fe632b3ed3ef1", null ],
-    [ "Validate", "db/db5/a26008.html#add1bd8f583772d4dfeb20f01b9fac8ed", null ]
+    [ "CheckProc", "db/db5/a26008.html#aa8a8c89cf55ab6796a81671d0312a481", null ],
+    [ "PrepareAuraScript", "db/db5/a26008.html#a9c88f86a4edafda286725008ecfeab6c", null ],
+    [ "Register", "db/db5/a26008.html#ad75f33c72dff282e4a8976c92e0b4e76", null ]
 ];

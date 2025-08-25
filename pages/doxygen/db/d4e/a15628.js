@@ -1,7 +1,6 @@
 var a15628 =
 [
-    [ "npc_steward_of_time", "db/d4e/a15628.html#ad49973464c96f44506033b73a85f6360", null ],
-    [ "OnGossipHello", "db/d4e/a15628.html#a3b61038393c3addbbfa6643438164db3", null ],
-    [ "OnGossipSelect", "db/d4e/a15628.html#af4fe13e266a98129b92e5a25188d947c", null ],
-    [ "OnQuestAccept", "db/d4e/a15628.html#a53d552282da49e8246089b2799fff9ca", null ]
+    [ "go_wind_stoneAI", "d3/d99/a15632.html", "d3/d99/a15632" ],
+    [ "go_wind_stone", "db/d4e/a15628.html#a70c4bcb743b0d587caad4b574c589e3e", null ],
+    [ "GetAI", "db/d4e/a15628.html#ab7add0fe4e58eec422e37ae04b9338df", null ]
 ];

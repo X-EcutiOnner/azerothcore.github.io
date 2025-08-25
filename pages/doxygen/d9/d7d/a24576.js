@@ -1,9 +1,9 @@
 var a24576 =
 [
-    [ "CheckCast", "d9/d7d/a24576.html#ad68a099d3167534be3d9978d1fc2b4fe", null ],
-    [ "EntryCheck", "d9/d7d/a24576.html#a8e8578447aafeea4a62e028dbe6c7419", null ],
-    [ "HandleBaseDummy", "d9/d7d/a24576.html#a8534cc52f42f0598088bf8500dd5e0e5", null ],
-    [ "HandleDummy", "d9/d7d/a24576.html#a34d9f5699f306b27830ced2129be506c", null ],
-    [ "PrepareSpellScript", "d9/d7d/a24576.html#af7aff878540dd34138aa479f532611b6", null ],
-    [ "Register", "d9/d7d/a24576.html#a78321d1589e8d7f7fe8957a4939b6197", null ]
+    [ "Absorb", "d9/d7d/a24576.html#ade7f8805491a627cf3e8accdee178f3e", null ],
+    [ "CalculateAmount", "d9/d7d/a24576.html#a1194d2bd96632cbc3eab58300a5f9a46", null ],
+    [ "Load", "d9/d7d/a24576.html#a49277dbcc2d7cc79f29226e9b242120b", null ],
+    [ "PrepareAuraScript", "d9/d7d/a24576.html#a9eb3dc519bd595b7c0193ae3519c136e", null ],
+    [ "Register", "d9/d7d/a24576.html#a730528baddf2087fb1c0898ac7ad76c5", null ],
+    [ "absorbPct", "d9/d7d/a24576.html#a58c03a57bdfcba203159ae38683fdf14", null ]
 ];

@@ -1,6 +1,6 @@
 var a21892 =
 [
-    [ "HandleDummy", "db/d70/a21892.html#afe86744c6ab901750731fca486ff2e6c", null ],
-    [ "PrepareSpellScript", "db/d70/a21892.html#a47e8a3187fa523c61842885f1cbd041d", null ],
-    [ "Register", "db/d70/a21892.html#a61b1b63167b3dc562b9916ffce1e4eee", null ]
+    [ "npc_q24545_vegard_dummyAI", "db/dde/a21896.html", "db/dde/a21896" ],
+    [ "npc_q24545_vegard_dummy", "db/d70/a21892.html#a12363e26a720ae33b6cde0f44aec3adf", null ],
+    [ "GetAI", "db/d70/a21892.html#a201d1dec206887c26e33f795a0fd0887", null ]
 ];

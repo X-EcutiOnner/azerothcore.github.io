@@ -1,6 +1,14 @@
 var a20400 =
 [
-    [ "FilterTargets", "de/d96/a20400.html#ae8d940a89be9b63286911bd55dcd3844", null ],
-    [ "PrepareSpellScript", "de/d96/a20400.html#a8f4b4d82e53c8f820b620896478681a9", null ],
-    [ "Register", "de/d96/a20400.html#a744d5cb8de927410ab1bf72008fff8b3", null ]
+    [ "boss_kologarn_armsAI", "de/d96/a20400.html#aa647b59e1bb0abb8f71e81700063624d", null ],
+    [ "AttackStart", "de/d96/a20400.html#ad8e25495a6559b0c4f63f0c81a4af044", null ],
+    [ "DamageTaken", "de/d96/a20400.html#aebc4f20f398a884d5cf911746048066e", null ],
+    [ "EnterEvadeMode", "de/d96/a20400.html#a1d39d05719d6e7730bd3d247ec1f56a7", null ],
+    [ "JustDied", "de/d96/a20400.html#a224f30aa4703f82e1ff9439b5247398a", null ],
+    [ "MoveInLineOfSight", "de/d96/a20400.html#a7f8167fe8edc85fc93143a8e8945bed4", null ],
+    [ "PassengerBoarded", "de/d96/a20400.html#a105880e1f201db0d4130611f5b99d730", null ],
+    [ "Reset", "de/d96/a20400.html#a8eec8810cdb52bacdd0c9165993dd3c2", null ],
+    [ "UpdateAI", "de/d96/a20400.html#ad4f392b7aa918d7f038749db4ffd72b8", null ],
+    [ "_combatStarted", "de/d96/a20400.html#a016c5497988d7ddd9f0744e83f7bf1d3", null ],
+    [ "_damageDone", "de/d96/a20400.html#af0ad823bc5b02282d5d525d135ee3118", null ]
 ];

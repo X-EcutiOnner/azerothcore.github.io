@@ -1,9 +1,7 @@
 var a25884 =
 [
-    [ "OnEffectHitTargetDisarm", "de/db1/a25884.html#ae8ce5a315886ede30eda7d3682e4ef06", null ],
-    [ "OnEffectHitTargetStun", "de/db1/a25884.html#a5a5253b6d152b1af78de663c09451536", null ],
-    [ "OnEffectLaunchTargetDisarm", "de/db1/a25884.html#a2bbcf5ee2d41362c80a4649a4cf7e260", null ],
-    [ "OnEffectLaunchTargetStun", "de/db1/a25884.html#ac3d5052bf045082fb8bc02c72a0dba39", null ],
-    [ "PrepareSpellScript", "de/db1/a25884.html#a113219d3376a23f8889f26f10744e7cb", null ],
-    [ "Register", "de/db1/a25884.html#a12ef13dbc3e9cd95fb1d57bf393735e3", null ]
+    [ "HandleEnergize", "de/db1/a25884.html#a283e713252166a863aa96530d6e7608b", null ],
+    [ "Load", "de/db1/a25884.html#a89847e0e9435a708c5722ff928f7033f", null ],
+    [ "PrepareSpellScript", "de/db1/a25884.html#a8847e05e6eeafd801fca5423d0689432", null ],
+    [ "Register", "de/db1/a25884.html#ae0778ffd8cf203e22510ee91b0394303", null ]
 ];

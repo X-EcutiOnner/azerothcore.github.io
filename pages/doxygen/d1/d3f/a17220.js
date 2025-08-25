@@ -1,5 +1,7 @@
 var a17220 =
 [
-    [ "achievement_share_the_love", "d1/d3f/a17220.html#a3eaa89eaa356b0e2f8b5c688439baf9c", null ],
-    [ "OnCheck", "d1/d3f/a17220.html#a9d6b6d19611d1482111692de9f2b1cc8", null ]
+    [ "HandleDummy", "d1/d3f/a17220.html#ab614c27fbeb0fc6cac42c3e8f981e11d", null ],
+    [ "PrepareSpellScript", "d1/d3f/a17220.html#a3ef0564565ea49265800422c835432b0", null ],
+    [ "Register", "d1/d3f/a17220.html#a7b685926a8d511397889616e97bbd563", null ],
+    [ "Validate", "d1/d3f/a17220.html#aecd40c136e44dfc9c5e4dd572d577578", null ]
 ];

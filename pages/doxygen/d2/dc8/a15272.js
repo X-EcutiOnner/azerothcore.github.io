@@ -1,8 +1,6 @@
 var a15272 =
 [
-    [ "npc_ahnqiraji_critter", "d2/dc8/a15272.html#a60e2dc1c52579a410d3435126bf39684", null ],
-    [ "JustDied", "d2/dc8/a15272.html#a71d3d5262bde847a18932fea89cb6648", null ],
-    [ "JustEngagedWith", "d2/dc8/a15272.html#aca1df706306f9181db26cd77e5b66452", null ],
-    [ "Reset", "d2/dc8/a15272.html#a645e16e9da29f6579320394201d0ada7", null ],
-    [ "UpdateAI", "d2/dc8/a15272.html#a68c5ded8563c2de9429a13cdb7d38f89", null ]
+    [ "aqsentinelAI", "de/dda/a15276.html", "de/dda/a15276" ],
+    [ "npc_anubisath_sentinel", "d2/dc8/a15272.html#ada1ab0d1857fe52020e798d9710a66cb", null ],
+    [ "GetAI", "d2/dc8/a15272.html#ae19b8ba3766ede8f715dad5ff8d4b2d2", null ]
 ];

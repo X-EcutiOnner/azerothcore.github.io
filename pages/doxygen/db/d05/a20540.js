@@ -1,5 +1,6 @@
 var a20540 =
 [
-    [ "achievement_mimiron_set_up_us_the_bomb_13", "db/d05/a20540.html#a74b0cafbc4be4261c8f8f2af3671cbd9", null ],
-    [ "OnCheck", "db/d05/a20540.html#ac91196d094f159932ad871ffa9c0f405", null ]
+    [ "npc_ulduar_flames_spreadAI", "d9/df8/a20544.html", "d9/df8/a20544" ],
+    [ "npc_ulduar_flames_spread", "db/d05/a20540.html#aca9713b28d6d0c7b13b85a00c8a53ab0", null ],
+    [ "GetAI", "db/d05/a20540.html#af492a5bc9304a05f8475a39458c6abdb", null ]
 ];

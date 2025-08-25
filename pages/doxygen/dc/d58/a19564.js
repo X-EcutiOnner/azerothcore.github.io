@@ -1,12 +1,7 @@
 var a19564 =
 [
-    [ "npc_hol_monumentAI", "dc/d58/a19564.html#a4a59b95e32acf8920082e4159b7e384c", null ],
-    [ "AttackStart", "dc/d58/a19564.html#a6db6528cf3d53bc6de9caf55fb18a28b", null ],
-    [ "JustEngagedWith", "dc/d58/a19564.html#a105f8e66ba3cf752af455c787df7568e", null ],
-    [ "MoveInLineOfSight", "dc/d58/a19564.html#ab37c5c22456c06f78b53505ae7973658", null ],
-    [ "Reset", "dc/d58/a19564.html#a03dd56d6801194333288a2edc7ae4eaa", null ],
-    [ "UpdateAI", "dc/d58/a19564.html#a7c911cf24b21c959ee5c62d664e1879a", null ],
-    [ "_attackGUID", "dc/d58/a19564.html#a0421f258f2cd871ad1f87decf5e23bc8", null ],
-    [ "_isActive", "dc/d58/a19564.html#a0993cfde30a492ae8dfeeda2e01a1124", null ],
-    [ "events", "dc/d58/a19564.html#aeff0f7526f12f0e09e53c0e43a423799", null ]
+    [ "OnRemove", "dc/d58/a19564.html#adf6b3d56199ad5a4545ce3874d1223db", null ],
+    [ "PrepareAuraScript", "dc/d58/a19564.html#a2d278e60b34870110dab188896109e24", null ],
+    [ "Register", "dc/d58/a19564.html#ac15847527cc4d162b3b34b8ca8628864", null ],
+    [ "Validate", "dc/d58/a19564.html#ac573e5bd171c97af1905b4a57a45e1f4", null ]
 ];

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: Acore::LocalizedPacketListDo&lt; Builder &gt; Class Template Reference</title>
+<title>AzerothCore: Acore::RaidCheck Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,74 +105,56 @@ $(document).ready(function(){initNavTree('d2/dfa/a09496.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#pub-types">Public Types</a> &#124;
 <a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="../../d9/d28/a09493.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">Acore::LocalizedPacketListDo&lt; Builder &gt; Class Template Reference</div></div>
+  <div class="headertitle"><div class="title">Acore::RaidCheck Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
 <p><code>#include &quot;<a class="el" href="../../">GridNotifiers.h</a>&quot;</code></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-types" name="pub-types"></a>
-Public Types</h2></td></tr>
-<tr class="memitem:a27bf64080270086d6dbc752f8d96ec4c"><td class="memItemLeft" align="right" valign="top">typedef std::vector&lt; <a class="el" href="../../d7/dbc/a10976.html">WorldPacket</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dfa/a09496.html#a27bf64080270086d6dbc752f8d96ec4c">WorldPacketList</a></td></tr>
-<tr class="separator:a27bf64080270086d6dbc752f8d96ec4c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:ab52133e238752f725f18580018a84cd2"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dfa/a09496.html#ab52133e238752f725f18580018a84cd2">LocalizedPacketListDo</a> (Builder &amp;builder)</td></tr>
-<tr class="separator:ab52133e238752f725f18580018a84cd2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8442452027bcb5c98d60830e016803b5"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dfa/a09496.html#a8442452027bcb5c98d60830e016803b5">~LocalizedPacketListDo</a> ()</td></tr>
-<tr class="separator:a8442452027bcb5c98d60830e016803b5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:adea9610e36d436563ba1f472481aed85"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dfa/a09496.html#adea9610e36d436563ba1f472481aed85">operator()</a> (<a class="el" href="../../d8/d93/a08612.html">Player</a> *p)</td></tr>
-<tr class="separator:adea9610e36d436563ba1f472481aed85"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad8c3717b9a645c7806c8c027a8d90ef5"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dfa/a09496.html#ad8c3717b9a645c7806c8c027a8d90ef5">RaidCheck</a> (<a class="el" href="../../d3/dd2/a08756.html">Unit</a> const *compare, bool equals)</td></tr>
+<tr class="separator:ad8c3717b9a645c7806c8c027a8d90ef5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0c076b737e8e1eacb9aab0981ff66f51"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dfa/a09496.html#a0c076b737e8e1eacb9aab0981ff66f51">operator()</a> (<a class="el" href="../../d1/d2f/a08404.html">WorldObject</a> const *object) const</td></tr>
+<tr class="separator:a0c076b737e8e1eacb9aab0981ff66f51"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
-<tr class="memitem:a83bda52b10d30f7fd633c285b79e740b"><td class="memItemLeft" align="right" valign="top">Builder &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dfa/a09496.html#a83bda52b10d30f7fd633c285b79e740b">i_builder</a></td></tr>
-<tr class="separator:a83bda52b10d30f7fd633c285b79e740b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae2ec6175868c4c82274ce7a623a954a3"><td class="memItemLeft" align="right" valign="top">std::vector&lt; <a class="el" href="../../d2/dfa/a09496.html#a27bf64080270086d6dbc752f8d96ec4c">WorldPacketList</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dfa/a09496.html#ae2ec6175868c4c82274ce7a623a954a3">i_data_cache</a></td></tr>
-<tr class="separator:ae2ec6175868c4c82274ce7a623a954a3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5fffdd5901fb03c5e9a9adfb58e3d759"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/dd2/a08756.html">Unit</a> const  *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dfa/a09496.html#a5fffdd5901fb03c5e9a9adfb58e3d759">_compare</a></td></tr>
+<tr class="separator:a5fffdd5901fb03c5e9a9adfb58e3d759"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7d253c94403bd50012722a9a9b113c3a"><td class="memItemLeft" align="right" valign="top">bool const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dfa/a09496.html#a7d253c94403bd50012722a9a9b113c3a">_equals</a></td></tr>
+<tr class="separator:a7d253c94403bd50012722a9a9b113c3a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><div class="compoundTemplParams">template&lt;class Builder&gt;<br />
-class Acore::LocalizedPacketListDo&lt; Builder &gt;</div></div><h2 class="groupheader">Member Typedef Documentation</h2>
-<a id="a27bf64080270086d6dbc752f8d96ec4c" name="a27bf64080270086d6dbc752f8d96ec4c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a27bf64080270086d6dbc752f8d96ec4c">&#9670;&#160;</a></span>WorldPacketList</h2>
+<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="ad8c3717b9a645c7806c8c027a8d90ef5" name="ad8c3717b9a645c7806c8c027a8d90ef5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad8c3717b9a645c7806c8c027a8d90ef5">&#9670;&#160;</a></span>RaidCheck()</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;class Builder &gt; </div>
-      <table class="memname">
-        <tr>
-          <td class="memname">typedef std::vector&lt;<a class="el" href="../../d7/dbc/a10976.html">WorldPacket</a>*&gt; <a class="el" href="../../d2/dfa/a09496.html">Acore::LocalizedPacketListDo</a>&lt; Builder &gt;::WorldPacketList</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="ab52133e238752f725f18580018a84cd2" name="ab52133e238752f725f18580018a84cd2"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab52133e238752f725f18580018a84cd2">&#9670;&#160;</a></span>LocalizedPacketListDo()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;class Builder &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d2/dfa/a09496.html">Acore::LocalizedPacketListDo</a>&lt; Builder &gt;::LocalizedPacketListDo </td>
+          <td class="memname">Acore::RaidCheck::RaidCheck </td>
           <td>(</td>
-          <td class="paramtype">Builder &amp;&#160;</td>
-          <td class="paramname"><em>builder</em></td><td>)</td>
+          <td class="paramtype"><a class="el" href="../../d3/dd2/a08756.html">Unit</a> const *&#160;</td>
+          <td class="paramname"><em>compare</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
           <td></td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>equals</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
   </td>
@@ -181,27 +163,28 @@ template&lt;class Builder &gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1755</span>: <a class="code hl_variable" href="../../d2/dfa/a09496.html#a83bda52b10d30f7fd633c285b79e740b">i_builder</a>(builder) {}</div>
-<div class="ttc" id="aa09496_html_a83bda52b10d30f7fd633c285b79e740b"><div class="ttname"><a href="../../d2/dfa/a09496.html#a83bda52b10d30f7fd633c285b79e740b">Acore::LocalizedPacketListDo::i_builder</a></div><div class="ttdeci">Builder &amp; i_builder</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:1766</div></div>
+<div class="fragment"><div class="line"><span class="lineno"> 1717</span>: <a class="code hl_variable" href="../../d2/dfa/a09496.html#a5fffdd5901fb03c5e9a9adfb58e3d759">_compare</a>(compare), <a class="code hl_variable" href="../../d2/dfa/a09496.html#a7d253c94403bd50012722a9a9b113c3a">_equals</a>(equals) { }</div>
+<div class="ttc" id="aa09496_html_a5fffdd5901fb03c5e9a9adfb58e3d759"><div class="ttname"><a href="../../d2/dfa/a09496.html#a5fffdd5901fb03c5e9a9adfb58e3d759">Acore::RaidCheck::_compare</a></div><div class="ttdeci">Unit const  * _compare</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:1724</div></div>
+<div class="ttc" id="aa09496_html_a7d253c94403bd50012722a9a9b113c3a"><div class="ttname"><a href="../../d2/dfa/a09496.html#a7d253c94403bd50012722a9a9b113c3a">Acore::RaidCheck::_equals</a></div><div class="ttdeci">bool const _equals</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:1725</div></div>
 </div><!-- fragment -->
 </div>
 </div>
-<a id="a8442452027bcb5c98d60830e016803b5" name="a8442452027bcb5c98d60830e016803b5"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8442452027bcb5c98d60830e016803b5">&#9670;&#160;</a></span>~LocalizedPacketListDo()</h2>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="a0c076b737e8e1eacb9aab0981ff66f51" name="a0c076b737e8e1eacb9aab0981ff66f51"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0c076b737e8e1eacb9aab0981ff66f51">&#9670;&#160;</a></span>operator()()</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;class Builder &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d2/dfa/a09496.html">Acore::LocalizedPacketListDo</a>&lt; Builder &gt;::~<a class="el" href="../../d2/dfa/a09496.html">LocalizedPacketListDo</a> </td>
+          <td class="memname">bool Acore::RaidCheck::operator() </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
+          <td class="paramtype"><a class="el" href="../../d1/d2f/a08404.html">WorldObject</a> const *&#160;</td>
+          <td class="paramname"><em>object</em></td><td>)</td>
+          <td> const</td>
         </tr>
       </table>
   </td>
@@ -210,81 +193,26 @@ template&lt;class Builder &gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1758</span>        {</div>
-<div class="line"><span class="lineno"> 1759</span>            <span class="keywordflow">for</span> (std::size_t i = 0; i &lt; <a class="code hl_variable" href="../../d2/dfa/a09496.html#ae2ec6175868c4c82274ce7a623a954a3">i_data_cache</a>.size(); ++i)</div>
-<div class="line"><span class="lineno"> 1760</span>                <span class="keywordflow">for</span> (std::size_t j = 0; j &lt; <a class="code hl_variable" href="../../d2/dfa/a09496.html#ae2ec6175868c4c82274ce7a623a954a3">i_data_cache</a>[i].size(); ++j)</div>
-<div class="line"><span class="lineno"> 1761</span>                    <span class="keyword">delete</span> <a class="code hl_variable" href="../../d2/dfa/a09496.html#ae2ec6175868c4c82274ce7a623a954a3">i_data_cache</a>[i][j];</div>
-<div class="line"><span class="lineno"> 1762</span>        }</div>
-<div class="ttc" id="aa09496_html_ae2ec6175868c4c82274ce7a623a954a3"><div class="ttname"><a href="../../d2/dfa/a09496.html#ae2ec6175868c4c82274ce7a623a954a3">Acore::LocalizedPacketListDo::i_data_cache</a></div><div class="ttdeci">std::vector&lt; WorldPacketList &gt; i_data_cache</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:1767</div></div>
+<div class="fragment"><div class="line"><span class="lineno"> 1719</span>        {</div>
+<div class="line"><span class="lineno"> 1720</span>            <span class="keywordflow">return</span> <span class="keywordtype">object</span>-&gt;ToUnit() &amp;&amp; <span class="keywordtype">object</span>-&gt;ToUnit()-&gt;IsInRaidWith(<a class="code hl_variable" href="../../d2/dfa/a09496.html#a5fffdd5901fb03c5e9a9adfb58e3d759">_compare</a>) == <a class="code hl_variable" href="../../d2/dfa/a09496.html#a7d253c94403bd50012722a9a9b113c3a">_equals</a>;</div>
+<div class="line"><span class="lineno"> 1721</span>        }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01767">Acore::LocalizedPacketListDo&lt; Builder &gt;::i_data_cache</a>.</p>
-
-</div>
-</div>
-<h2 class="groupheader">Member Function Documentation</h2>
-<a id="adea9610e36d436563ba1f472481aed85" name="adea9610e36d436563ba1f472481aed85"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#adea9610e36d436563ba1f472481aed85">&#9670;&#160;</a></span>operator()()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;class Builder &gt; </div>
-      <table class="memname">
-        <tr>
-          <td class="memname">void <a class="el" href="../../d2/dfa/a09496.html">Acore::LocalizedPacketListDo</a>&lt; Builder &gt;::operator() </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d8/d93/a08612.html">Player</a> *&#160;</td>
-          <td class="paramname"><em>p</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  560</span>{</div>
-<div class="line"><span class="lineno">  561</span>    <a class="code hl_enumeration" href="../../da/d71/a04649.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a> loc_idx = p-&gt;<a class="code hl_function" href="../../d8/d93/a08612.html#a6ab11ca64cde7c5cde1f53998a6f7253">GetSession</a>()-&gt;<a class="code hl_function" href="../../d8/d39/a11020.html#a38ff97828c0efe89c092f5772c543564">GetSessionDbLocaleIndex</a>();</div>
-<div class="line"><span class="lineno">  562</span>    <a class="code hl_typedef" href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> cache_idx = loc_idx + 1;</div>
-<div class="line"><span class="lineno">  563</span>    <a class="code hl_typedef" href="../../d2/dfa/a09496.html#a27bf64080270086d6dbc752f8d96ec4c">WorldPacketList</a>* data_list;</div>
-<div class="line"><span class="lineno">  564</span> </div>
-<div class="line"><span class="lineno">  565</span>    <span class="comment">// create if not cached yet</span></div>
-<div class="line"><span class="lineno">  566</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d2/dfa/a09496.html#ae2ec6175868c4c82274ce7a623a954a3">i_data_cache</a>.size() &lt; cache_idx + 1 || <a class="code hl_variable" href="../../d2/dfa/a09496.html#ae2ec6175868c4c82274ce7a623a954a3">i_data_cache</a>[cache_idx].empty())</div>
-<div class="line"><span class="lineno">  567</span>    {</div>
-<div class="line"><span class="lineno">  568</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d2/dfa/a09496.html#ae2ec6175868c4c82274ce7a623a954a3">i_data_cache</a>.size() &lt; cache_idx + 1)</div>
-<div class="line"><span class="lineno">  569</span>            <a class="code hl_variable" href="../../d2/dfa/a09496.html#ae2ec6175868c4c82274ce7a623a954a3">i_data_cache</a>.resize(cache_idx + 1);</div>
-<div class="line"><span class="lineno">  570</span> </div>
-<div class="line"><span class="lineno">  571</span>        data_list = &amp;<a class="code hl_variable" href="../../d2/dfa/a09496.html#ae2ec6175868c4c82274ce7a623a954a3">i_data_cache</a>[cache_idx];</div>
-<div class="line"><span class="lineno">  572</span> </div>
-<div class="line"><span class="lineno">  573</span>        <a class="code hl_variable" href="../../d2/dfa/a09496.html#a83bda52b10d30f7fd633c285b79e740b">i_builder</a>(*data_list, loc_idx);</div>
-<div class="line"><span class="lineno">  574</span>    }</div>
-<div class="line"><span class="lineno">  575</span>    <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  576</span>        data_list = &amp;<a class="code hl_variable" href="../../d2/dfa/a09496.html#ae2ec6175868c4c82274ce7a623a954a3">i_data_cache</a>[cache_idx];</div>
-<div class="line"><span class="lineno">  577</span> </div>
-<div class="line"><span class="lineno">  578</span>    <span class="keywordflow">for</span> (std::size_t i = 0; i &lt; data_list-&gt;size(); ++i)</div>
-<div class="line"><span class="lineno">  579</span>        p-&gt;<a class="code hl_function" href="../../d8/d93/a08612.html#a2ad9b8f6c94365d5afe104567198aba8">SendDirectMessage</a>((*data_list)[i]);</div>
-<div class="line"><span class="lineno">  580</span>}</div>
-<div class="ttc" id="aa04301_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d2/d27/a04301.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
-<div class="ttc" id="aa04649_html_a54c9b637be7283ba1a04fb5215594332"><div class="ttname"><a href="../../da/d71/a04649.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a></div><div class="ttdeci">LocaleConstant</div><div class="ttdef"><b>Definition:</b> Common.h:117</div></div>
-<div class="ttc" id="aa08612_html_a2ad9b8f6c94365d5afe104567198aba8"><div class="ttname"><a href="../../d8/d93/a08612.html#a2ad9b8f6c94365d5afe104567198aba8">Player::SendDirectMessage</a></div><div class="ttdeci">void SendDirectMessage(WorldPacket const *data) const</div><div class="ttdef"><b>Definition:</b> Player.cpp:5725</div></div>
-<div class="ttc" id="aa08612_html_a6ab11ca64cde7c5cde1f53998a6f7253"><div class="ttname"><a href="../../d8/d93/a08612.html#a6ab11ca64cde7c5cde1f53998a6f7253">Player::GetSession</a></div><div class="ttdeci">WorldSession * GetSession() const</div><div class="ttdef"><b>Definition:</b> Player.h:2016</div></div>
-<div class="ttc" id="aa09496_html_a27bf64080270086d6dbc752f8d96ec4c"><div class="ttname"><a href="../../d2/dfa/a09496.html#a27bf64080270086d6dbc752f8d96ec4c">Acore::LocalizedPacketListDo::WorldPacketList</a></div><div class="ttdeci">std::vector&lt; WorldPacket * &gt; WorldPacketList</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:1754</div></div>
-<div class="ttc" id="aa11020_html_a38ff97828c0efe89c092f5772c543564"><div class="ttname"><a href="../../d8/d39/a11020.html#a38ff97828c0efe89c092f5772c543564">WorldSession::GetSessionDbLocaleIndex</a></div><div class="ttdeci">LocaleConstant GetSessionDbLocaleIndex() const</div><div class="ttdef"><b>Definition:</b> WorldSession.h:517</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l02016">Player::GetSession()</a>, <a class="el" href="../../#l00517">WorldSession::GetSessionDbLocaleIndex()</a>, and <a class="el" href="../../#l05725">Player::SendDirectMessage()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01724">_compare</a>, and <a class="el" href="../../#l01725">_equals</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a83bda52b10d30f7fd633c285b79e740b" name="a83bda52b10d30f7fd633c285b79e740b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a83bda52b10d30f7fd633c285b79e740b">&#9670;&#160;</a></span>i_builder</h2>
+<a id="a5fffdd5901fb03c5e9a9adfb58e3d759" name="a5fffdd5901fb03c5e9a9adfb58e3d759"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5fffdd5901fb03c5e9a9adfb58e3d759">&#9670;&#160;</a></span>_compare</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;class Builder &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">Builder&amp; <a class="el" href="../../d2/dfa/a09496.html">Acore::LocalizedPacketListDo</a>&lt; Builder &gt;::i_builder</td>
+          <td class="memname"><a class="el" href="../../d3/dd2/a08756.html">Unit</a> const* Acore::RaidCheck::_compare</td>
         </tr>
       </table>
   </td>
@@ -294,21 +222,21 @@ template&lt;class Builder &gt; </div>
 </table>
 </div><div class="memdoc">
 
+<p class="reference">Referenced by <a class="el" href="../../#l01718">operator()()</a>.</p>
+
 </div>
 </div>
-<a id="ae2ec6175868c4c82274ce7a623a954a3" name="ae2ec6175868c4c82274ce7a623a954a3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae2ec6175868c4c82274ce7a623a954a3">&#9670;&#160;</a></span>i_data_cache</h2>
+<a id="a7d253c94403bd50012722a9a9b113c3a" name="a7d253c94403bd50012722a9a9b113c3a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7d253c94403bd50012722a9a9b113c3a">&#9670;&#160;</a></span>_equals</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;class Builder &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::vector&lt;<a class="el" href="../../d2/dfa/a09496.html#a27bf64080270086d6dbc752f8d96ec4c">WorldPacketList</a>&gt; <a class="el" href="../../d2/dfa/a09496.html">Acore::LocalizedPacketListDo</a>&lt; Builder &gt;::i_data_cache</td>
+          <td class="memname">bool const Acore::RaidCheck::_equals</td>
         </tr>
       </table>
   </td>
@@ -318,7 +246,7 @@ template&lt;class Builder &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01757">Acore::LocalizedPacketListDo&lt; Builder &gt;::~LocalizedPacketListDo()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01718">operator()()</a>.</p>
 
 </div>
 </div>
@@ -327,8 +255,8 @@ template&lt;class Builder &gt; </div>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../db/da6/a04782.html">Acore</a></li><li class="navelem"><a class="el" href="../../d2/dfa/a09496.html">LocalizedPacketListDo</a></li>
-    <li class="footer">Generated on Mon Aug 18 2025 20:49:19 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d2/d5c/a04788.html">Acore</a></li><li class="navelem"><a class="el" href="../../d2/dfa/a09496.html">RaidCheck</a></li>
+    <li class="footer">Generated on Mon Aug 25 2025 20:47:35 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

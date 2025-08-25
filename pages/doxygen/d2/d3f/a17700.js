@@ -1,7 +1,6 @@
 var a17700 =
 [
-    [ "FilterTargets", "d2/d3f/a17700.html#a77afd0b56c9bddd74999d5df30457b7f", null ],
-    [ "HandleDummy", "d2/d3f/a17700.html#a04166e4e5a4ba082755433555855cb30", null ],
-    [ "PrepareSpellScript", "d2/d3f/a17700.html#aaefa58014db12fb76e3416ae807c69e8", null ],
-    [ "Register", "d2/d3f/a17700.html#a497ee30669d45341023abe549c91ddaf", null ]
+    [ "IgbExplosionCheck", "d2/d3f/a17700.html#ae67cca111f26a275614810cbe053bcd8", null ],
+    [ "operator()", "d2/d3f/a17700.html#a28ce6685366e99db2aa1e4022012f943", null ],
+    [ "_source", "d2/d3f/a17700.html#a413ee8f2218621d274d118aea967dc9b", null ]
 ];

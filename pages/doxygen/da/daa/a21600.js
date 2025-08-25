@@ -1,6 +1,6 @@
 var a21600 =
 [
-    [ "npc_valiance_keep_cannoneerAI", "de/d8f/a21604.html", "de/d8f/a21604" ],
-    [ "npc_valiance_keep_cannoneer", "da/daa/a21600.html#a11f6060a7c6cd7be60001f5c259c94d3", null ],
-    [ "GetAI", "da/daa/a21600.html#a8bfc1505dedee28d1517ba6a7738ffd5", null ]
+    [ "npc_captured_beryl_sorcererAI", "de/d8f/a21604.html", "de/d8f/a21604" ],
+    [ "npc_captured_beryl_sorcerer", "da/daa/a21600.html#ace67e76e96e3be9fa5976dc4c90041e6", null ],
+    [ "GetAI", "da/daa/a21600.html#aa5a31390ff3c6277ebff2a5eebe72b3d", null ]
 ];

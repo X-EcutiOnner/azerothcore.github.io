@@ -1,6 +1,5 @@
 var a25660 =
 [
-    [ "HandleScript", "d7/deb/a25660.html#a9309c0e435240bc656b3bfde2d923a9a", null ],
-    [ "PrepareSpellScript", "d7/deb/a25660.html#a74dc9d9a57ed410b3c0d690418bfb4eb", null ],
-    [ "Register", "d7/deb/a25660.html#a8769cbce815d1f1c457979743e10535c", null ]
+    [ "PrepareSpellScript", "d7/deb/a25660.html#a065d81d698c978bcdd234712807e9098", null ],
+    [ "Register", "d7/deb/a25660.html#a3efcd145189b27272495110c799cf14f", null ]
 ];

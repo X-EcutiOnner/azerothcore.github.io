@@ -1,6 +1,9 @@
 var a08816 =
 [
-    [ "Condition", "d2/d1d/a08816.html#a78172859719e85a21c0a39e41c692cf4", null ],
-    [ "EventId", "d2/d1d/a08816.html#aa5d7e88828c9f44b5913d4593496894f", null ],
-    [ "Num", "d2/d1d/a08816.html#a7cf6141e00b1a33063409c9828773b94", null ]
+    [ "GameEventAIHookWorker", "d2/d1d/a08816.html#ad72640a18d2d32a9201c965089ee49cf", null ],
+    [ "Visit", "d2/d1d/a08816.html#a23d979ee43838e7d58e9123e36474a5a", null ],
+    [ "Visit", "d2/d1d/a08816.html#a79106ec550d072d690bbf3496d76cb0a", null ],
+    [ "Visit", "d2/d1d/a08816.html#a165476edd8b252bbb90b8b78fae963a6", null ],
+    [ "_activate", "d2/d1d/a08816.html#a756665eafa08f3c8c51ccef69bdd619f", null ],
+    [ "_eventId", "d2/d1d/a08816.html#ab1ee68bb7134e84780772eba2cfac766", null ]
 ];

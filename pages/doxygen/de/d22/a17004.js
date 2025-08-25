@@ -1,9 +1,9 @@
 var a17004 =
 [
-    [ "FilterTargets", "de/d22/a17004.html#aefebf504286394cf3caffa566543e4a4", null ],
-    [ "FilterTargetsNext", "de/d22/a17004.html#a356b6ace97d07df22a232d2287072b5e", null ],
-    [ "PrepareSpellScript", "de/d22/a17004.html#a893e0eb620e19909b2f2a715ea946f6b", null ],
-    [ "Register", "de/d22/a17004.html#a962651920a94190f4864a3b1c7fcd1d3", null ],
-    [ "Unload", "de/d22/a17004.html#a6adc9b6ca86da6cd9465fa0da150dcca", null ],
-    [ "targetList", "de/d22/a17004.html#a3c839185938e0b67b97f652d1d15e213", null ]
+    [ "npc_hor_lumbering_abominationAI", "de/d22/a17004.html#acc1e6e72aee030ebf2d0daa50f880f60", null ],
+    [ "JustDied", "de/d22/a17004.html#af243a79da3028d3d66facc8a15132f78", null ],
+    [ "JustEngagedWith", "de/d22/a17004.html#a83d0add807b5d9647328b89fed8e9bc4", null ],
+    [ "Reset", "de/d22/a17004.html#a4270f405bbade0028fce4df0655a1987", null ],
+    [ "UpdateAI", "de/d22/a17004.html#a995d0f7902cb70280d1448ac7731a816", null ],
+    [ "events", "de/d22/a17004.html#aee9063950477b50e38ec904e91882689", null ]
 ];

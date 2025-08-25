@@ -1,17 +1,13 @@
 var a10308 =
 [
-    [ "GameObjectScript", "dc/d4c/a10308.html#a9d9cf73435a16d7fef450134c03980bb", null ],
-    [ "GetAI", "dc/d4c/a10308.html#a05492473fa28c0f7c80770aa3445ce4e", null ],
-    [ "GetDialogStatus", "dc/d4c/a10308.html#ac526fbe66b9b1e9edca51f9fd20a40b9", null ],
-    [ "IsDatabaseBound", "dc/d4c/a10308.html#a020e07dfd6e99b55bf5c8e56cfdd3948", null ],
-    [ "OnDamaged", "dc/d4c/a10308.html#a2fb7d0f8f01ce083643bc0cb810fc612", null ],
-    [ "OnDestroyed", "dc/d4c/a10308.html#a042676e98453494ab49bb90216755052", null ],
-    [ "OnGameObjectStateChanged", "dc/d4c/a10308.html#a4992d88f026bf906852f085db4e8768e", null ],
-    [ "OnGossipHello", "dc/d4c/a10308.html#a58b56fc92ae87aea0530eceba1f3088d", null ],
-    [ "OnGossipSelect", "dc/d4c/a10308.html#a612884c70eed9c56958ab49dc1e2bb1f", null ],
-    [ "OnGossipSelectCode", "dc/d4c/a10308.html#ac9c9feb4d08ea0e5ad202ada205a9772", null ],
-    [ "OnLootStateChanged", "dc/d4c/a10308.html#ab93c178f2137e92da28665d28bfec1d5", null ],
-    [ "OnModifyHealth", "dc/d4c/a10308.html#a1ff457beae2b6249a9d3ecd08fd1b5a4", null ],
-    [ "OnQuestAccept", "dc/d4c/a10308.html#afd22217feca39340d68b9c7fd6c1caa8", null ],
-    [ "OnQuestReward", "dc/d4c/a10308.html#a233712ff412081583a8295cf512da48d", null ]
+    [ "FormulaScript", "dc/d4c/a10308.html#a0c850c1a09bc78a4ceee5f27615d50d7", null ],
+    [ "OnAfterArenaRatingCalculation", "dc/d4c/a10308.html#aa3510b1cfb4661cf6028e1b9f443c865", null ],
+    [ "OnBaseGainCalculation", "dc/d4c/a10308.html#ab154eaf469d5fe3e86c364940816270a", null ],
+    [ "OnBeforeUpdatingPersonalRating", "dc/d4c/a10308.html#a2208a5684c95b936aa9ca1ae863d9682", null ],
+    [ "OnColorCodeCalculation", "dc/d4c/a10308.html#a83893099062d1fb7ce69fe38bf8c4699", null ],
+    [ "OnGainCalculation", "dc/d4c/a10308.html#aa83fab65cc89bd03021da2805e935ffb", null ],
+    [ "OnGrayLevelCalculation", "dc/d4c/a10308.html#affeb57234f961b9e01f5898c7738f38f", null ],
+    [ "OnGroupRateCalculation", "dc/d4c/a10308.html#a1098d29595b4f9206cccf3c3c1dad5f3", null ],
+    [ "OnHonorCalculation", "dc/d4c/a10308.html#a54a5e523ad5a9d3eb2dd061ced2d209f", null ],
+    [ "OnZeroDifferenceCalculation", "dc/d4c/a10308.html#a7755c35bc56e6645e36de08c12a4847d", null ]
 ];

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: LinkValidator&lt; T &gt; Struct Template Reference</title>
+<title>AzerothCore: Acore::Impl::CastToVisitor&lt; T &gt; Struct Template Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,100 +105,52 @@ $(document).ready(function(){initNavTree('dc/d23/a07708.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#pub-static-methods">Static Public Member Functions</a> &#124;
+<a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="../../df/dae/a07705.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">LinkValidator&lt; T &gt; Struct Template Reference</div></div>
+  <div class="headertitle"><div class="title">Acore::Impl::CastToVisitor&lt; T &gt; Struct Template Reference</div></div>
 </div><!--header-->
 <div class="contents">
+
+<p><code>#include &quot;<a class="el" href="../../">ChatCommandTags.h</a>&quot;</code></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
-Static Public Member Functions</h2></td></tr>
-<tr class="memitem:a1c9a027ff1f355b16fe629b7c4af7b98"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d23/a07708.html#a1c9a027ff1f355b16fe629b7c4af7b98">IsTextValid</a> (typename T::value_type, std::string_view)</td></tr>
-<tr class="separator:a1c9a027ff1f355b16fe629b7c4af7b98"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5b13574c40a78f28d15e6b11bc7bd5bc"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d23/a07708.html#a5b13574c40a78f28d15e6b11bc7bd5bc">IsColorValid</a> (typename T::value_type, <a class="el" href="../../d3/dd0/a07804.html">HyperlinkColor</a>)</td></tr>
-<tr class="separator:a5b13574c40a78f28d15e6b11bc7bd5bc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
+Public Member Functions</h2></td></tr>
+<tr class="memitem:a1c1e59697194005023a42873b8856a50"><td class="memTemplParams" colspan="2">template&lt;typename U &gt; </td></tr>
+<tr class="memitem:a1c1e59697194005023a42873b8856a50"><td class="memTemplItemLeft" align="right" valign="top">T&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../dc/d23/a07708.html#a1c1e59697194005023a42873b8856a50">operator()</a> (U const &amp;v) const</td></tr>
+<tr class="separator:a1c1e59697194005023a42873b8856a50"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><div class="compoundTemplParams">template&lt;typename T&gt;<br />
-struct LinkValidator&lt; T &gt;</div></div><h2 class="groupheader">Member Function Documentation</h2>
-<a id="a5b13574c40a78f28d15e6b11bc7bd5bc" name="a5b13574c40a78f28d15e6b11bc7bd5bc"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5b13574c40a78f28d15e6b11bc7bd5bc">&#9670;&#160;</a></span>IsColorValid()</h2>
+struct Acore::Impl::CastToVisitor&lt; T &gt;</div></div><h2 class="groupheader">Member Function Documentation</h2>
+<a id="a1c1e59697194005023a42873b8856a50" name="a1c1e59697194005023a42873b8856a50"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1c1e59697194005023a42873b8856a50">&#9670;&#160;</a></span>operator()()</h2>
 
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
 template&lt;typename T &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">static bool <a class="el" href="../../dc/d23/a07708.html">LinkValidator</a>&lt; T &gt;::IsColorValid </td>
-          <td>(</td>
-          <td class="paramtype">typename T::value_type&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d3/dd0/a07804.html">HyperlinkColor</a>&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  108</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a1c9a027ff1f355b16fe629b7c4af7b98" name="a1c9a027ff1f355b16fe629b7c4af7b98"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1c9a027ff1f355b16fe629b7c4af7b98">&#9670;&#160;</a></span>IsTextValid()</h2>
-
-<div class="memitem">
-<div class="memproto">
 <div class="memtemplate">
-template&lt;typename T &gt; </div>
+template&lt;typename U &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">static bool <a class="el" href="../../dc/d23/a07708.html">LinkValidator</a>&lt; T &gt;::IsTextValid </td>
+          <td class="memname">T <a class="el" href="../../dc/d23/a07708.html">Acore::Impl::CastToVisitor</a>&lt; T &gt;::operator() </td>
           <td>(</td>
-          <td class="paramtype">typename T::value_type&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">std::string_view&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
+          <td class="paramtype">U const &amp;&#160;</td>
+          <td class="paramname"><em>v</em></td><td>)</td>
+          <td> const</td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  107</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  245</span>{ <span class="keywordflow">return</span> v; }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00277">LinkValidator&lt; LinkTags::glyph &gt;::IsTextValid()</a>, <a class="el" href="../../#l00294">LinkValidator&lt; LinkTags::talent &gt;::IsTextValid()</a>, and <a class="el" href="../../#l00315">LinkValidator&lt; LinkTags::trade &gt;::IsTextValid()</a>.</p>
-
 </div>
 </div>
 </div><!-- contents -->
@@ -206,8 +158,8 @@ template&lt;typename T &gt; </div>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dc/d23/a07708.html">LinkValidator</a></li>
-    <li class="footer">Generated on Mon Aug 18 2025 20:48:26 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d2/d5c/a04788.html">Acore</a></li><li class="navelem"><a class="el" href="../../dd/df4/a04800.html">Impl</a></li><li class="navelem"><a class="el" href="../../dc/d23/a07708.html">CastToVisitor</a></li>
+    <li class="footer">Generated on Mon Aug 25 2025 20:47:36 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

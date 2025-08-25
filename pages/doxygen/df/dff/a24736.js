@@ -1,9 +1,7 @@
 var a24736 =
 [
-    [ "Absorb", "df/dff/a24736.html#af7df70d0bd68d12032b5b57faa789a87", null ],
-    [ "CalculateAmount", "df/dff/a24736.html#a40f7cfe30b7bf2237d61665b167476fb", null ],
-    [ "Load", "df/dff/a24736.html#a1b3e5da38a6aba7cc163bf34848ed950", null ],
-    [ "PrepareAuraScript", "df/dff/a24736.html#ae63ad15db90ebe73d73e77e232f4d695", null ],
-    [ "Register", "df/dff/a24736.html#ac7316995b7682a6fafe47ff2547956b0", null ],
-    [ "absorbPct", "df/dff/a24736.html#ab5b59d975e71e0e12bf41e8d173b9491", null ]
+    [ "HandleScriptEffect", "df/dff/a24736.html#a3a33f0ec477ff3b4b19fc98760a2dae7", null ],
+    [ "PrepareSpellScript", "df/dff/a24736.html#ae29c4f69a34e71011192df12509e2935", null ],
+    [ "Register", "df/dff/a24736.html#ae37da44bde25f6bdb5b4a382ab66b7be", null ],
+    [ "Validate", "df/dff/a24736.html#af9056c179b8089cf0b304b3ce61ea92f", null ]
 ];

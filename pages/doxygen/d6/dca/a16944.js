@@ -1,13 +1,12 @@
 var a16944 =
 [
-    [ "npc_hor_leader_secondAI", "d6/dca/a16944.html#a54a5094dc533755efc249ebc96663b62", null ],
-    [ "DamageTaken", "d6/dca/a16944.html#ae534779315b04b3dde495b13a1cb28e4", null ],
-    [ "DoAction", "d6/dca/a16944.html#a4185259006017e85fade721796851dd0", null ],
-    [ "MovementInform", "d6/dca/a16944.html#afe93165a3e96496b52a2be8de5022164", null ],
-    [ "MoveToNextStopPoint", "d6/dca/a16944.html#a6d9f65386d6f40a5cf96b09ecaf54871", null ],
-    [ "Reset", "d6/dca/a16944.html#ae5d125deab31e6425e94b4523d8251eb", null ],
-    [ "UpdateAI", "d6/dca/a16944.html#ae991e18a6729a1b088c60060802c01c2", null ],
-    [ "currentStopPoint", "d6/dca/a16944.html#ae4bf31530e701f9e0aa4f253452f9881", null ],
-    [ "events", "d6/dca/a16944.html#a3510e246908f4e5b758e05ca06a29e47", null ],
-    [ "pInstance", "d6/dca/a16944.html#a32cebea12e13c87b45dd2a4c6cf495e5", null ]
+    [ "npc_tortured_riflemanAI", "d6/dca/a16944.html#a65dc1d2ba5769aed1a0b2487322ff2b1", null ],
+    [ "AttackStart", "d6/dca/a16944.html#aaf2b73d0b60791f887207842580d91dc", null ],
+    [ "DoAction", "d6/dca/a16944.html#acb941c20d911a567c93bb0f92105fdfd", null ],
+    [ "EnterEvadeMode", "d6/dca/a16944.html#aabd56fc4aaed247a9ac3ce5bcdc4cb50", null ],
+    [ "JustDied", "d6/dca/a16944.html#a5796a96626937e1026cc1fec0eba4e0b", null ],
+    [ "JustEngagedWith", "d6/dca/a16944.html#ac5d8f17c48269da06c14643e82c88567", null ],
+    [ "Reset", "d6/dca/a16944.html#a04f9c7056e063d436df66f079127d1a7", null ],
+    [ "UpdateAI", "d6/dca/a16944.html#a194a615eef3651cdc97d4e4ad57bf017", null ],
+    [ "events", "d6/dca/a16944.html#a958f27c1f917dc1ae0a9f84549481f93", null ]
 ];

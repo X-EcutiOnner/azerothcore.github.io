@@ -1,7 +1,6 @@
 var a16220 =
 [
-    [ "CountAllies", "d1/d3c/a16220.html#a207c1fd89fd726054a881e342391d2a0", null ],
-    [ "PrepareSpellScript", "d1/d3c/a16220.html#ae1e230ad204a280a261ebe0f21c7f8a5", null ],
-    [ "Register", "d1/d3c/a16220.html#a47574795b2a262625c65ab23a4179684", null ],
-    [ "Validate", "d1/d3c/a16220.html#a0178e7c4f5509a4bb2c6ed3811fc9685", null ]
+    [ "HandleHealPct", "d1/d3c/a16220.html#ad13b3924815ac3da7902c8292a760943", null ],
+    [ "PrepareSpellScript", "d1/d3c/a16220.html#aeea718bce7dd5aa4ac33bbd1a95a65c0", null ],
+    [ "Register", "d1/d3c/a16220.html#a3016c31c072d6417bbe47c2891059718", null ]
 ];

@@ -1,6 +1,6 @@
 var a01460 =
 [
-    [ "WorldConfig", "d9/d98/a11560.html", "d9/d98/a11560" ],
+    [ "WorldConfig", "d7/d6c/a11596.html", "d7/d6c/a11596" ],
     [ "ServerConfigs", "d2/d2f/a01460.html#a468ad15992691eb97dd20680046832e0", [
       [ "CONFIG_DURABILITY_LOSS_IN_PVP", "d2/d2f/a01460.html#a468ad15992691eb97dd20680046832e0a9bd963cd4dbd7aa4f601fc5a69f582c7", null ],
       [ "CONFIG_ADDON_CHANNEL", "d2/d2f/a01460.html#a468ad15992691eb97dd20680046832e0a57f0703f8632960432f25f4969896d27", null ],

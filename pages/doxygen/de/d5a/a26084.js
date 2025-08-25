@@ -1,16 +1,8 @@
 var a26084 =
 [
-    [ "Spell", "de/d5a/a26084.html#ae62bcfdf7168a58818ffc8b302cffcb7", [
-      [ "PAL_SPELL_ARDENT_DEFENDER_DEBUFF", "de/d5a/a26084.html#ae62bcfdf7168a58818ffc8b302cffcb7a85895054b57340dab995dc14f826314b", null ],
-      [ "PAL_SPELL_ARDENT_DEFENDER_HEAL", "de/d5a/a26084.html#ae62bcfdf7168a58818ffc8b302cffcb7a717b484434bc8fda128b67bd90a123fe", null ]
-    ] ],
-    [ "spell_pal_ardent_defender", "de/d5a/a26084.html#a9bc7f72089287dbac352b308489c7781", null ],
-    [ "Absorb", "de/d5a/a26084.html#aee6b0b00078a880dc5ed6684991ee8c8", null ],
-    [ "CalculateAmount", "de/d5a/a26084.html#a749742ceb8be20f5d327becbea7c64d5", null ],
-    [ "Load", "de/d5a/a26084.html#a3718265890fad2a6c6d53b5f401d16dd", null ],
-    [ "PrepareAuraScript", "de/d5a/a26084.html#a33dd57579e724aee0c6f2a8d767fc3c8", null ],
-    [ "Register", "de/d5a/a26084.html#af405994d4be5f11ce63028d0dba1e1da", null ],
-    [ "Validate", "de/d5a/a26084.html#a74fafd4bde88c2e581cac555a131b39d", null ],
-    [ "absorbPct", "de/d5a/a26084.html#a408fe2ab57ae0adcf803c71b5f6cd724", null ],
-    [ "healPct", "de/d5a/a26084.html#a325024973959856c000f380b0bfc3bda", null ]
+    [ "HandleDummy", "de/d5a/a26084.html#a04ff6beb930b65395ebc3df99bc53dfa", null ],
+    [ "PrepareSpellScript", "de/d5a/a26084.html#a73eabf1e68c966f31fe8d83c2fd925c1", null ],
+    [ "Register", "de/d5a/a26084.html#a6b03fbcf18612d9bb7361c3e4f022dc0", null ],
+    [ "Validate", "de/d5a/a26084.html#a9df13e3e8895854bc086fbfaccfb1b2c", null ],
+    [ "PolymorhForms", "de/d5a/a26084.html#a1443d2532a060514e697a8d5e0c21b20", null ]
 ];

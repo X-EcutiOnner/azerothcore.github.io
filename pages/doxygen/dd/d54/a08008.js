@@ -1,8 +1,10 @@
 var a08008 =
 [
-    [ "TemporaryThreatModifierEvent", "dd/d54/a08008.html#afd58a1128ac6629d7541ba1bfd4ef886", null ],
-    [ "Execute", "dd/d54/a08008.html#a2bbd75ad5e293e78e4bffe880f371d1e", null ],
-    [ "m_owner", "dd/d54/a08008.html#ab786c99d73f0048a993ce7cee8c3b875", null ],
-    [ "m_threatValue", "dd/d54/a08008.html#aacb0f6e66d22a93ff074b4cbcf12b788", null ],
-    [ "m_threatVictimGUID", "dd/d54/a08008.html#aeae82bd80c9b8b08573c6e3baf359f55", null ]
+    [ "AssistDelayEvent", "dd/d54/a08008.html#a022b9cf38b8e059df2dceca38e366b7d", null ],
+    [ "AssistDelayEvent", "dd/d54/a08008.html#a5371fc2a2f9334b821058b96d0c6bc13", null ],
+    [ "AddAssistant", "dd/d54/a08008.html#a987303ec41927528e9a5abfd9ab75512", null ],
+    [ "Execute", "dd/d54/a08008.html#a5afd295abeb1295e43f48b8951b24c35", null ],
+    [ "m_assistants", "dd/d54/a08008.html#ac6de6befda582bd38f92afda01204e94", null ],
+    [ "m_owner", "dd/d54/a08008.html#aabcce364c8009e8172b9d090059ce48c", null ],
+    [ "m_victim", "dd/d54/a08008.html#a47aff9ce39f5fec3718d6564e53b799e", null ]
 ];

@@ -1,6 +1,6 @@
 var a22368 =
 [
-    [ "npc_wg_siege_machineAI", "de/d72/a22372.html", "de/d72/a22372" ],
-    [ "npc_wg_siege_machine", "dd/da0/a22368.html#a23dc1bbeaa396cad781ec177881e7d2a", null ],
-    [ "GetAI", "dd/da0/a22368.html#ae8b2a71378565ad5428f1ae582cacca1", null ]
+    [ "HandleScriptEffect", "dd/da0/a22368.html#a66849cb61f056e861d8887dc98f6ccbf", null ],
+    [ "PrepareSpellScript", "dd/da0/a22368.html#afa4ad1b205bf963b4230881738baf938", null ],
+    [ "Register", "dd/da0/a22368.html#a0d8925effced854471e2fbec9c631b91", null ]
 ];

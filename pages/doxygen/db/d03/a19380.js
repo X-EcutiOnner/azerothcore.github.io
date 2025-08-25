@@ -1,13 +1,9 @@
 var a19380 =
 [
-    [ "boss_drakosAI", "db/d03/a19380.html#a75d771095897081457353be898b332c3", null ],
-    [ "JustDied", "db/d03/a19380.html#a7235760bd407f49802bc9e26e8f3f22c", null ],
-    [ "JustEngagedWith", "db/d03/a19380.html#a4bc15075d9e9a913783da482a7a167c7", null ],
-    [ "JustSummoned", "db/d03/a19380.html#a06e21c4e5bd1a882ada074b9595d4088", null ],
-    [ "KilledUnit", "db/d03/a19380.html#a4bd3e45b45660311d7510f58a1850648", null ],
-    [ "MoveInLineOfSight", "db/d03/a19380.html#a10b2ca39887e906e6e1e33df82afc1da", null ],
-    [ "Reset", "db/d03/a19380.html#a6fd78f4f45b9f2104acc481fb0f2763f", null ],
-    [ "UpdateAI", "db/d03/a19380.html#abf761c7cda4031c31354d8c8d42963e0", null ],
-    [ "events", "db/d03/a19380.html#ae86ad4fcc57cc1137411c881355f2f51", null ],
-    [ "pInstance", "db/d03/a19380.html#adc9461ae5334634a9140f338547688b4", null ]
+    [ "HandleApply", "db/d03/a19380.html#a29679ed64fc288dc0e85beed2971d4be", null ],
+    [ "HandleRemove", "db/d03/a19380.html#a1f1c3e0ea24174605a7be8fa02e30518", null ],
+    [ "Load", "db/d03/a19380.html#a0b5d70a7a9bf27696295ccbbffd2a8b9", null ],
+    [ "PrepareAuraScript", "db/d03/a19380.html#a2804f25643e59f3922291abcb055b641", null ],
+    [ "Register", "db/d03/a19380.html#a711b5744770d0c9fb5aacb550f2384fa", null ],
+    [ "Validate", "db/d03/a19380.html#aa239a693db5fa38ac260a37b25e0e6d9", null ]
 ];

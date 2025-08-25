@@ -1,6 +1,6 @@
 var a15612 =
 [
-    [ "npc_aquementasAI", "db/df9/a15616.html", "db/df9/a15616" ],
-    [ "npc_aquementas", "d3/dfa/a15612.html#a81d0b010c2aef0ea329ff7656b76cbe5", null ],
-    [ "GetAI", "d3/dfa/a15612.html#a8a071b3073d69306feb84aca347a22c8", null ]
+    [ "npc_anachronos_quest_triggerAI", "db/df9/a15616.html", "db/df9/a15616" ],
+    [ "npc_anachronos_quest_trigger", "d3/dfa/a15612.html#ad39871952acd3152b51820fe360f4ebd", null ],
+    [ "GetAI", "d3/dfa/a15612.html#a2e0e6a69ed1cbed76db9c4bd64d51330", null ]
 ];

@@ -1,8 +1,7 @@
 var a25060 =
 [
-    [ "CheckRequirement", "da/d52/a25060.html#ad967ae7e2affa312fa4adbca6e86dd7c", null ],
-    [ "HandleScript", "da/d52/a25060.html#aa89b60b2d757ef1ceacebae38aa5d9d9", null ],
-    [ "Load", "da/d52/a25060.html#a9dfb5501ad6324a25966af44f233b5fb", null ],
-    [ "PrepareSpellScript", "da/d52/a25060.html#ace75db8a6e5628df6e2edba91cd2852f", null ],
-    [ "Register", "da/d52/a25060.html#a89d053e0ee793017c74188aac32d99d5", null ]
+    [ "HandleScript", "da/d52/a25060.html#a9fb69011ce5245925eb6a4fd011d18b2", null ],
+    [ "PrepareSpellScript", "da/d52/a25060.html#ab9300ff0efc4a36d652a1b56c031dc2f", null ],
+    [ "Register", "da/d52/a25060.html#aa0828fa1a3cf75e8222607a4f2fff950", null ],
+    [ "Validate", "da/d52/a25060.html#a9469ebca2d40dd2944f2fb7286fc64ff", null ]
 ];

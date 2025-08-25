@@ -1,10 +1,5 @@
 var a25340 =
 [
-    [ "CalcPeriodic", "d4/d04/a25340.html#a4c5793639ad7715b0dc52a803546e7cf", null ],
-    [ "CalculateSpiritAmount", "d4/d04/a25340.html#a5749d91e27de05f67110178f57c214e4", null ],
-    [ "HandleEffectApply", "d4/d04/a25340.html#a0de0ba95c09c87054d63974943750805", null ],
-    [ "HandlePeriodic", "d4/d04/a25340.html#a2ff4241cf4535a6cb8361b9f54d7a23c", null ],
-    [ "PrepareAuraScript", "d4/d04/a25340.html#aaa2c2fea4310cdba1739f02afa48a318", null ],
-    [ "Register", "d4/d04/a25340.html#ae9df15062a8bd776e9a5a4a5a53fac8f", null ],
-    [ "amount", "d4/d04/a25340.html#af07c7c4a2f6a4d59bee8d44b46be5552", null ]
+    [ "PrepareSpellScript", "d4/d04/a25340.html#a096ce1292821f201af5f294877ee25e0", null ],
+    [ "Register", "d4/d04/a25340.html#a804d6dec38ea4e59a72ed09882dc9e95", null ]
 ];

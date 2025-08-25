@@ -1,15 +1,12 @@
 var a19068 =
 [
-    [ "boss_heiganAI", "d5/dad/a19068.html#a7aab8f8d2c3ccb434c2290362d03f89e", null ],
-    [ "IsInRoom", "d5/dad/a19068.html#a3aee27fdbb0ce9c60f2115b878112ea8", null ],
-    [ "JustDied", "d5/dad/a19068.html#a4a7389a2f81677fa5c0e871bc996fe26", null ],
-    [ "JustEngagedWith", "d5/dad/a19068.html#a72a2ae89b7abede9f8a4cb3ee9d76258", null ],
-    [ "KilledUnit", "d5/dad/a19068.html#a58160aefd36208ad7f0fec161a3f8b85", null ],
-    [ "Reset", "d5/dad/a19068.html#a515a86419bdd1f755943a371b3601795", null ],
-    [ "StartFightPhase", "d5/dad/a19068.html#a211387ae4f89d54a22a4f8515239d1c3", null ],
-    [ "UpdateAI", "d5/dad/a19068.html#a9009ae9392e183758a48ebe59b9c0cf0", null ],
-    [ "currentPhase", "d5/dad/a19068.html#a7b0a9b9f53cded3bc24ed22c1b643a30", null ],
-    [ "currentSection", "d5/dad/a19068.html#a848fbc5aa8a497ae01057c6f0ba59e7a", null ],
-    [ "events", "d5/dad/a19068.html#a7cc35d445aadf1eb252482522b8cc26d", null ],
-    [ "moveRight", "d5/dad/a19068.html#a12da8a2326f0ac72e6ee8733c55139c8", null ]
+    [ "npc_gothik_triggerAI", "d5/dad/a19068.html#ae45c6de238755eb069e0c182943da58c", null ],
+    [ "DamageTaken", "d5/dad/a19068.html#ada8e501edfadbb55162532f081a4b48b", null ],
+    [ "EnterEvadeMode", "d5/dad/a19068.html#aae212c3aecdf82f509ed0bf841f16e59", null ],
+    [ "JustEngagedWith", "d5/dad/a19068.html#ab5403383f1fcd539cacf975dffbe2817", null ],
+    [ "JustSummoned", "d5/dad/a19068.html#a35be0135b77a3e62ac8d421910cf0674", null ],
+    [ "SelectRandomSkullPile", "d5/dad/a19068.html#aeafc63047c9059afdf668b8c22d2937f", null ],
+    [ "SpellHit", "d5/dad/a19068.html#a18a8135ab0395991afc4896950783ae5", null ],
+    [ "SummonedCreatureDespawn", "d5/dad/a19068.html#ad7ed092509dd41fddd44a4024c011364", null ],
+    [ "UpdateAI", "d5/dad/a19068.html#a388a20d6d720f5f44a67073fc40e98b6", null ]
 ];

@@ -1,5 +1,5 @@
 var a27080 =
 [
-    [ "AreaTrigger_at_coilfang_waterfall", "d6/db0/a27080.html#aa2e9a01adad7e195860bbc6c55131024", null ],
-    [ "OnTrigger", "d6/db0/a27080.html#aea1c4b45ae855d0cda81dbad102b8104", null ]
+    [ "achievement_sa_defense_of_the_ancients", "d6/db0/a27080.html#a678cffdece32710a42a92db0c092f3a5", null ],
+    [ "OnCheck", "d6/db0/a27080.html#af23e346f9b022f490b84c8081f847a2f", null ]
 ];

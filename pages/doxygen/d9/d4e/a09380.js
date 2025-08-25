@@ -1,8 +1,10 @@
 var a09380 =
 [
-    [ "CallOfHelpCreatureInRangeDo", "d9/d4e/a09380.html#a6ff932341f415b659d486e63cbeb5fe4", null ],
-    [ "operator()", "d9/d4e/a09380.html#a06eb5dd0f8969c20ca1234e01ae15377", null ],
-    [ "i_enemy", "d9/d4e/a09380.html#a8e2e259c0159fd9418777787e4c68ccd", null ],
-    [ "i_funit", "d9/d4e/a09380.html#aff1768cd844e4e23821cf78f9d360e06", null ],
-    [ "i_range", "d9/d4e/a09380.html#ab0544cf93f94766701b72dbb6b3b55c1", null ]
+    [ "AnyAoETargetUnitInObjectRangeCheck", "d9/d4e/a09380.html#a93d850e2d5f094b97ca5c09bf1d236a9", null ],
+    [ "operator()", "d9/d4e/a09380.html#af9a0c32593544a73aae22cd397eef63a", null ],
+    [ "_spellInfo", "d9/d4e/a09380.html#a1317c9df0d5792ad3122ff1ed1a31458", null ],
+    [ "i_funit", "d9/d4e/a09380.html#aa00b184a24ea73293114f92126f58f24", null ],
+    [ "i_obj", "d9/d4e/a09380.html#aa4acf0089c978408e30b08d539f2512f", null ],
+    [ "i_range", "d9/d4e/a09380.html#ad386efa8206906fd99816694a6a8d69b", null ],
+    [ "i_targetForPlayer", "d9/d4e/a09380.html#af5ce329f3493b97f59c61c3e87af48b1", null ]
 ];

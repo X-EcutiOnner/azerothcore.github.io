@@ -1,6 +1,5 @@
 var a07240 =
 [
-    [ "ArenaSeasonRewardDistributor", "df/d3a/a07240.html#a9b60eb5be0be5c1be68b9c371c99f28c", null ],
-    [ "DistributeRewards", "df/d3a/a07240.html#a93640633dc11edda2cd1fce4f1da496b", null ],
-    [ "_rewarder", "df/d3a/a07240.html#af2801ea5d098bebac111589e1fcf7004", null ]
+    [ "~ArenaSeasonTeamRewarder", "df/d3a/a07240.html#a8f7eb844a39cd5213134ef4f4d4b1fde", null ],
+    [ "RewardTeamWithRewardGroup", "df/d3a/a07240.html#a2beaf893f95e16c4d388ad048885848b", null ]
 ];

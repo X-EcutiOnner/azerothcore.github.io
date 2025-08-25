@@ -1,6 +1,6 @@
 var a01070 =
 [
-    [ "ArenaTeamScript", "d8/dd1/a10252.html", "d8/dd1/a10252" ],
+    [ "ArenaTeamScript", "df/d6f/a10260.html", "df/d6f/a10260" ],
     [ "ArenaTeamHook", "d5/d67/a01070.html#adfb7077026efd17516d6b85637c2b218", [
       [ "ARENATEAMHOOK_ON_GET_SLOT_BY_TYPE", "d5/d67/a01070.html#adfb7077026efd17516d6b85637c2b218a138fd48dae9a6b0db50dd8a442045adc", null ],
       [ "ARENATEAMHOOK_ON_GET_ARENA_POINTS", "d5/d67/a01070.html#adfb7077026efd17516d6b85637c2b218a3b21f54389f578130e4874fd75c7e6a9", null ],

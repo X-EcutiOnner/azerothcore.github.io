@@ -1,7 +1,6 @@
 var a23656 =
 [
-    [ "FilterTargets", "d2/d7e/a23656.html#a834163302ff10875227806d7d4945988", null ],
-    [ "HandleScriptEffect", "d2/d7e/a23656.html#a5dd125da7dd46e2d81ab5e0f10bc00c3", null ],
-    [ "PrepareSpellScript", "d2/d7e/a23656.html#a079e72d57550e03956088b4be1d11422", null ],
-    [ "Register", "d2/d7e/a23656.html#abd4e0f268652652d3828ba8d350de849", null ]
+    [ "instance_magtheridons_lair_InstanceMapScript", "dc/dbf/a23660.html", "dc/dbf/a23660" ],
+    [ "instance_magtheridons_lair", "d2/d7e/a23656.html#a9bc61758478dc18ba413264eec2e3ca3", null ],
+    [ "GetInstanceScript", "d2/d7e/a23656.html#a6c9cc959cf4f294e6173d244f54bcd02", null ]
 ];

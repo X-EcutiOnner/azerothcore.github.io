@@ -1,5 +1,5 @@
 var a27036 =
 [
-    [ "achievement_everything_counts", "d8/d69/a27036.html#af18e6b3128a9d722c98f33f7ec6430b3", null ],
-    [ "OnCheck", "d8/d69/a27036.html#a81741a8df4d10b37314ec8ef09eb888b", null ]
+    [ "achievement_resilient_victory", "d8/d69/a27036.html#a6224c8a4b1b1ee7c1ab09d8873e86aa8", null ],
+    [ "OnCheck", "d8/d69/a27036.html#a21445d406f67771a20608260b3f9b033", null ]
 ];

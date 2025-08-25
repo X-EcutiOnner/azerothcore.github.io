@@ -1,9 +1,8 @@
 var a22320 =
 [
-    [ "npc_hyldsmeet_protodrakeAI", "db/deb/a22324.html", "db/deb/a22324" ],
-    [ "NPCs", "d9/d41/a22320.html#a8f2ea95c836ba6bab370301fbf3e6822", [
-      [ "NPC_HYLDSMEET_DRAKERIDER", "d9/d41/a22320.html#a8f2ea95c836ba6bab370301fbf3e6822a1b77c38a75142cff5392a89db3e765df", null ]
-    ] ],
-    [ "npc_hyldsmeet_protodrake", "d9/d41/a22320.html#a2471f1d858d7ae8f801208e35860a95e", null ],
-    [ "GetAI", "d9/d41/a22320.html#a791e5cff3901f9a3ec365d4049b82d25", null ]
+    [ "AfterRemove", "d9/d41/a22320.html#a06fd72c7754f34dbc62a99a9ed839302", null ],
+    [ "HandlePeriodic", "d9/d41/a22320.html#a5aaadeed42e6a3cf1e2216a13c2d3ff9", null ],
+    [ "OnApply", "d9/d41/a22320.html#a6617555d302923e5e95e7b1c6d8d74d6", null ],
+    [ "PrepareAuraScript", "d9/d41/a22320.html#a47a6281c42dc9368357cc86912331c77", null ],
+    [ "Register", "d9/d41/a22320.html#a868c79cda98b97b27b74d46f86cb980a", null ]
 ];

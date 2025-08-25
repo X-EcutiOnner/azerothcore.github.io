@@ -1,5 +1,6 @@
 var a27000 =
 [
-    [ "achievement_resilient_victory", "db/d45/a27000.html#a6224c8a4b1b1ee7c1ab09d8873e86aa8", null ],
-    [ "OnCheck", "db/d45/a27000.html#a21445d406f67771a20608260b3f9b033", null ]
+    [ "CalculateAmount", "db/d45/a27000.html#a94b6fab25e8cb298650f2a1e2d0b4347", null ],
+    [ "PrepareAuraScript", "db/d45/a27000.html#a845476e27b3751fd5aab505d41d8696d", null ],
+    [ "Register", "db/d45/a27000.html#aa5141f11bcd97cc501297a5309df1079", null ]
 ];

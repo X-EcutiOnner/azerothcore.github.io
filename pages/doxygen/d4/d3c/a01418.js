@@ -1,7 +1,7 @@
 var a01418 =
 [
-    [ "SmartAI", "da/da7/a06244.html", "da/da7/a06244" ],
-    [ "SmartGameObjectAI", "dd/d91/a06248.html", "dd/d91/a06248" ],
+    [ "SmartAI", "db/d70/a06252.html", "db/d70/a06252" ],
+    [ "SmartGameObjectAI", "db/d2c/a06256.html", "db/d2c/a06256" ],
     [ "SmartEscortState", "d4/d3c/a01418.html#a0911043eb49fd7958a828a60e0537d54", [
       [ "SMART_ESCORT_NONE", "d4/d3c/a01418.html#a0911043eb49fd7958a828a60e0537d54ad51ea013b009290e4eba7f3591d0e889", null ],
       [ "SMART_ESCORT_ESCORTING", "d4/d3c/a01418.html#a0911043eb49fd7958a828a60e0537d54a0756668fef1eacc6101e9113e974cc19", null ],

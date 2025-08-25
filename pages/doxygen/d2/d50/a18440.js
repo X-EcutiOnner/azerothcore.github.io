@@ -1,5 +1,6 @@
 var a18440 =
 [
-    [ "achievement_neck_deep_in_vile", "d2/d50/a18440.html#af0e54c236e7637d8c1a8cf7dbed5a195", null ],
-    [ "OnCheck", "d2/d50/a18440.html#a9861c008f302279a4ac5f4ddc14ca2d0", null ]
+    [ "npc_icc_lk_checktargetAI", "d7/d66/a18444.html", "d7/d66/a18444" ],
+    [ "npc_icc_lk_checktarget", "d2/d50/a18440.html#a3a2cc943e731e472694dcb13417090da", null ],
+    [ "GetAI", "d2/d50/a18440.html#a2cd9a5c7fec791ba8786cf1bb5b7c8bd", null ]
 ];

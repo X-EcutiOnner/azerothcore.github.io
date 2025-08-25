@@ -1,6 +1,6 @@
 var a26520 =
 [
-    [ "ModDest", "d8/d9d/a26520.html#ab03387aec0a02a6b3bac1014443554b6", null ],
-    [ "PrepareSpellScript", "d8/d9d/a26520.html#a53f7da301759fb18686bc73281c4a321", null ],
-    [ "Register", "d8/d9d/a26520.html#a266198fbc6203517f9845ef6212ddf13", null ]
+    [ "HandleDummy", "d8/d9d/a26520.html#a86ec9b4606ae92b070edd4ca863fe93e", null ],
+    [ "PrepareSpellScript", "d8/d9d/a26520.html#a4411e4317053450a0ac5217d546952b2", null ],
+    [ "Register", "d8/d9d/a26520.html#a9eea8631e0723555a9c328bdfc1e30b7", null ]
 ];

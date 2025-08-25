@@ -1,8 +1,8 @@
 var a15196 =
 [
-    [ "boss_veklor", "d8/d58/a15196.html#acbbe1a2e6ffcb00a28f7ae5413cd02c1", null ],
-    [ "AttackStart", "d8/d58/a15196.html#a7ecfff13457bf177c1ec250bbee75cbf", null ],
-    [ "IAmVeklor", "d8/d58/a15196.html#a4c43713c24b5537f292be1e0fcaee703", null ],
-    [ "JustEngagedWith", "d8/d58/a15196.html#a05913da666b1715eac68441195dd9df4", null ],
-    [ "SpellHit", "d8/d58/a15196.html#ab5d9ec12c18e360ce2c8749dd97f2ab0", null ]
+    [ "npc_ouro_spawner", "d8/d58/a15196.html#acb18739e5a1734312ffdda35321e5f34", null ],
+    [ "JustSummoned", "d8/d58/a15196.html#a722dada5bf97c730462a0de2b082d5ff", null ],
+    [ "MoveInLineOfSight", "d8/d58/a15196.html#a83c0972db4435ccf1af069574e4056f4", null ],
+    [ "Reset", "d8/d58/a15196.html#ac1591f1c172bfdda25b020e00cd0835e", null ],
+    [ "hasSummoned", "d8/d58/a15196.html#a6ac376861c1206cc1551d9fa86c0fc97", null ]
 ];

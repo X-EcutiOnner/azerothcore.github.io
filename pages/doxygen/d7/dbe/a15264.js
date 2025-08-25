@@ -1,7 +1,6 @@
 var a15264 =
 [
-    [ "npc_anubisath_warder", "d7/dbe/a15264.html#aebe14673e5c31000a9626e39d87c6775", null ],
-    [ "JustEngagedWith", "d7/dbe/a15264.html#a579318fa519eb669573b2cea78c2fee3", null ],
-    [ "Reset", "d7/dbe/a15264.html#aea0fac8f1eb28591b141ace55c49beeb", null ],
-    [ "UpdateAI", "d7/dbe/a15264.html#aba428f1f1a016191aa4f168c616c3a29", null ]
+    [ "instance_temple_of_ahnqiraj_InstanceMapScript", "d2/d78/a15268.html", "d2/d78/a15268" ],
+    [ "instance_temple_of_ahnqiraj", "d7/dbe/a15264.html#a316c5e2cac59f2ee2520fba1b97407e3", null ],
+    [ "GetInstanceScript", "d7/dbe/a15264.html#a9e3060d9f2188f410da8aa3e9526e79d", null ]
 ];

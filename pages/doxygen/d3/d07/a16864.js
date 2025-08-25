@@ -1,6 +1,6 @@
 var a16864 =
 [
-    [ "npc_ghostly_priestAI", "d3/db1/a16868.html", "d3/db1/a16868" ],
-    [ "npc_ghostly_priest", "d3/d07/a16864.html#a7c03bb327cfc65f4df515969da482ddb", null ],
-    [ "GetAI", "d3/d07/a16864.html#a0fab76345c5459efcedff02123e4fc8d", null ]
+    [ "instance_forge_of_souls_InstanceScript", "d3/db1/a16868.html", "d3/db1/a16868" ],
+    [ "instance_forge_of_souls", "d3/d07/a16864.html#a504896f6e191c87ce77231c4ef267b27", null ],
+    [ "GetInstanceScript", "d3/d07/a16864.html#a64982b527cfa6057315b8e628549480b", null ]
 ];

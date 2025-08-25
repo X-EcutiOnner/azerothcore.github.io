@@ -1,8 +1,5 @@
 var a24396 =
 [
-    [ "npc_pet_gen_valkyr_guardian", "d1/df1/a24396.html#a546f0b0b4273de8216e9f688c2d68209", null ],
-    [ "InitializeAI", "d1/df1/a24396.html#ac32c8bb1e1014015a0ab92417bbc78a9", null ],
-    [ "OwnerAttacked", "d1/df1/a24396.html#a7f0bcedd78d88cdc802ba66c0ff7d927", null ],
-    [ "UpdateAI", "d1/df1/a24396.html#a9a5a233763365c6cca5618459a23a816", null ],
-    [ "targetCheck", "d1/df1/a24396.html#aa530b6b6415c85cd76f44d625329c2fb", null ]
+    [ "npc_pet_dk_risen_ally", "d1/df1/a24396.html#ae7ea70827f339d3968ef08dc242b1f03", null ],
+    [ "OnCharmed", "d1/df1/a24396.html#ac3927becc1ed929c384b3413bfee9330", null ]
 ];

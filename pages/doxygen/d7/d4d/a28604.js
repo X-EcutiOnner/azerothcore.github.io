@@ -1,13 +1,11 @@
 var a28604 =
 [
-    [ "liquid_data", "db/dca/a28612.html", "db/dca/a28612" ],
-    [ "prepareLoadedData", "d7/d4d/a28604.html#a999cde9ad5c0e4ee49e620c2ff52cb06", null ],
-    [ "data", "d7/d4d/a28604.html#aa3f6e6de7453b4a1acc7dfe4c83eac69", null ],
-    [ "fcc", "d7/d4d/a28604.html#ab0181729f82eb0f02da5cb95ec48cda1", null ],
-    [ "fcc_txt", "d7/d4d/a28604.html#a9a2576f7b8923089b3b6020d4f8d97fc", null ],
-    [ "flags", "d7/d4d/a28604.html#ac21d785a3a457baa84cbfd33ebb69bd4", null ],
-    [ "height1", "d7/d4d/a28604.html#a7b4a59ac372261c74236b2b4cfc3626a", null ],
-    [ "height2", "d7/d4d/a28604.html#ab03dc912a304c0585d2725596adb4b49", null ],
-    [ "liquid", "d7/d4d/a28604.html#aae29940e6fdf046f9a29cf519ef61936", null ],
-    [ "size", "d7/d4d/a28604.html#a11581f9fb52a4ca433765e6312168288", null ]
+    [ "IsAvailable", "d7/d4d/a28604.html#adfebd7a162ebae8396669de031c768a6", null ],
+    [ "operator bool", "d7/d4d/a28604.html#ac25d4bb270c805b8ea2a6e0b4b6b2e74", null ],
+    [ "operator*", "d7/d4d/a28604.html#a24733bf06b4a91abcf4945aa5303a275", null ],
+    [ "operator->", "d7/d4d/a28604.html#ad0ddd6fe7451f2b968db3a7d7a93b342", null ],
+    [ "SecretMgr", "d7/d4d/a28604.html#af098c138ad828545a3dfb1870ad4c2fb", null ],
+    [ "lock", "d7/d4d/a28604.html#aff5ea87e5a7dbfdf5bd38400997f2c40", null ],
+    [ "state", "d7/d4d/a28604.html#a01563e00123d442b82bd6389d838c23d", null ],
+    [ "value", "d7/d4d/a28604.html#a16b48eb9b384f6ab8c6996b38f559825", null ]
 ];

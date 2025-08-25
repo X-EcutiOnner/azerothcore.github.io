@@ -1,6 +1,8 @@
 var a12804 =
 [
-    [ "HandleAfterCast", "df/d05/a12804.html#a5ca38a2828359e4f373323d1d6cc91cf", null ],
-    [ "PrepareSpellScript", "df/d05/a12804.html#aa0956db2d03405a54893bc30516f5839", null ],
-    [ "Register", "df/d05/a12804.html#a45726adacf1d30b5488df54f57447c0c", null ]
+    [ "npc_barnesAI", "d7/da3/a12808.html", "d7/da3/a12808" ],
+    [ "npc_barnes", "df/d05/a12804.html#aacdc737a94397a90b48b635293fe9c80", null ],
+    [ "GetAI", "df/d05/a12804.html#a4e349ede566d9be90b82e7ebd9d71de3", null ],
+    [ "OnGossipHello", "df/d05/a12804.html#a47cafa3628d2ca99582140f2a72ff8db", null ],
+    [ "OnGossipSelect", "df/d05/a12804.html#aa04d577e318f16f581f82761b6014eb5", null ]
 ];

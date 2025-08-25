@@ -1,6 +1,9 @@
 var a18428 =
 [
-    [ "npc_lk_wicked_spiritAI", "d1/d22/a18432.html", "d1/d22/a18432" ],
-    [ "npc_lk_wicked_spirit", "d5/d94/a18428.html#adb5f0d5db260b3e5b4df3725c0b62827", null ],
-    [ "GetAI", "d5/d94/a18428.html#ad75b36f2f7242dea685cd67dc72d0d30", null ]
+    [ "npc_spirit_wardenAI", "d5/d94/a18428.html#a3391168478345d8b5c1fee151f6e9f04", null ],
+    [ "JustDied", "d5/d94/a18428.html#aa762c0bea6361107312e8231508dc655", null ],
+    [ "Reset", "d5/d94/a18428.html#ad6076663f65f43874feb0ecfc57718a4", null ],
+    [ "UpdateAI", "d5/d94/a18428.html#af845e3e2c38af5baa84c94f6074c0caf", null ],
+    [ "_events", "d5/d94/a18428.html#a1bc5cfdee62efdd622e0fe1aa503c260", null ],
+    [ "_instance", "d5/d94/a18428.html#a58ebb8e42e77add79fc888248013eb24", null ]
 ];

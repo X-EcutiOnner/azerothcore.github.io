@@ -1,6 +1,6 @@
 var a10892 =
 [
-    [ "PetLearnedSpell", "d4/d40/a10892.html#a5d105cca08515b9550998f2c86b13a1a", null ],
-    [ "Write", "d4/d40/a10892.html#a6fd7d4bc907b0bb78c438e6a9159dc69", null ],
-    [ "SpellID", "d4/d40/a10892.html#a6ab11b614f13d518a2a007adfbe00ab7", null ]
+    [ "DismissCritter", "d4/d40/a10892.html#a87e35583063b340f014d21cd02c54cab", null ],
+    [ "Read", "d4/d40/a10892.html#a411b65505e8a332ecf9291a670dc38c4", null ],
+    [ "CritterGUID", "d4/d40/a10892.html#a89c071e81c9d39c099c32c4976f15304", null ]
 ];

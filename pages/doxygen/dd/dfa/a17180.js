@@ -1,10 +1,5 @@
 var a17180 =
 [
-    [ "npc_living_mojoAI", "dd/dfa/a17180.html#ab0e6dd5db0c358ff4fefc4797a622b8c", null ],
-    [ "AttackStart", "dd/dfa/a17180.html#ad3f73a040176cd804f9715141063d176", null ],
-    [ "DoAction", "dd/dfa/a17180.html#a9d942e99f358a7488d473969ab461d6f", null ],
-    [ "MoveInLineOfSight", "dd/dfa/a17180.html#a7981568666269e25580ae839f1f97f09", null ],
-    [ "Reset", "dd/dfa/a17180.html#a139df1207438dbd3793a2fbc58c2396c", null ],
-    [ "UpdateAI", "dd/dfa/a17180.html#a418d7eee72f0a8506357eee3f1fbaf6c", null ],
-    [ "events", "dd/dfa/a17180.html#acc7fd42cf4ea4b0203ad7ba4f775e3f2", null ]
+    [ "at_tyrannus_event_starter", "dd/dfa/a17180.html#a1aef2522c20dd242e749d93a6bee66d8", null ],
+    [ "OnTrigger", "dd/dfa/a17180.html#a8dcfce4cd24dbc45df987b4a9bfcbbc0", null ]
 ];

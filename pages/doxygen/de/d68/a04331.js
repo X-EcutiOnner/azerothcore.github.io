@@ -1,11 +1,9 @@
 var a04331 =
 [
-    [ "FormatString", "de/d68/a04331.html#a32c972cafca136b88de5b298d6cba338", null ],
-    [ "AddSuffixIfNotExists", "de/d68/a04331.html#a712bea71ec99d750664fd46c690a1ad9", null ],
-    [ "format_as", "de/d68/a04331.html#aaa7f21af5991452196a22cd79e127825", null ],
-    [ "IsFormatEmptyOrNull", "de/d68/a04331.html#a6f5584cc7346fd1972b3e8a74036467f", null ],
-    [ "IsFormatEmptyOrNull", "de/d68/a04331.html#a84459e91f517fc4f79414cc23370b9f1", null ],
-    [ "StringFormat", "de/d68/a04331.html#a868406b9609960d4ae0189588c8cbbf4", null ],
-    [ "Trim", "de/d68/a04331.html#a3213c569cd380bda3b76fe3f730899ff", null ],
-    [ "TrimRightInPlace", "de/d68/a04331.html#ac78200daa5bc5f1d4c50a1df47a7a4db", null ]
+    [ "getAngle", "de/d68/a04331.html#a5ce837ff4fb41332a25e6b0dc0f5b848", null ],
+    [ "getCircleAreaByRadius", "de/d68/a04331.html#a18ed540c327b1fd656065d8cbfc4844f", null ],
+    [ "getCirclePerimeterByRadius", "de/d68/a04331.html#a62641094ea3c1b9506faefa7a35ba456", null ],
+    [ "getCylinderVolume", "de/d68/a04331.html#a95ce6760beb476a4c24ff46d3069103f", null ],
+    [ "getSlopeAngle", "de/d68/a04331.html#a61d2d33d44f335480a833a04436620ba", null ],
+    [ "getSlopeAngleAbs", "de/d68/a04331.html#a0b02845f56a27df498d0598d259ca5e1", null ]
 ];

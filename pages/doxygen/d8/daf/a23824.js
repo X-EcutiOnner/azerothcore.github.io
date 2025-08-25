@@ -1,5 +1,7 @@
 var a23824 =
 [
-    [ "npc_lord_sanguinar", "d8/daf/a23824.html#aa5ec2023d72561fe9cf062a2ba5a5469", null ],
-    [ "ScheduleEvents", "d8/daf/a23824.html#af9231da98547875527a519c5884cbec0", null ]
+    [ "CastQuill", "d8/daf/a23824.html#a923234809186bcbdf02457f4be095519", null ],
+    [ "Execute", "d8/daf/a23824.html#a26a971a575e4b9503cd1da73d43ebd1e", null ],
+    [ "_caster", "d8/daf/a23824.html#af809b9279aff141ce4007c8d1fbcc331", null ],
+    [ "_spellId", "d8/daf/a23824.html#ad6f7d8eaf69873b0ba57be4189c145cf", null ]
 ];

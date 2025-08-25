@@ -1,6 +1,7 @@
 var a21624 =
 [
-    [ "HandleEffect", "df/dc7/a21624.html#a6732d51d5de34b3e737cc785fb2ab43e", null ],
-    [ "PrepareSpellScript", "df/dc7/a21624.html#aec199e9f9651267fac88bd86be326bb4", null ],
-    [ "Register", "df/dc7/a21624.html#a14bd854db86750704c8377d457dea360", null ]
+    [ "npc_mootoo_the_youngerAI", "df/dc7/a21624.html#a70a5a502dab9a90a790a90eabc5c3acd", null ],
+    [ "JustDied", "df/dc7/a21624.html#a766612f646a6d22d3f0e6f93298e34bc", null ],
+    [ "Reset", "df/dc7/a21624.html#a04624b9b4d552d6b27308edc3ad44644", null ],
+    [ "WaypointReached", "df/dc7/a21624.html#ac758a992ed0d62a272930c84d617b348", null ]
 ];

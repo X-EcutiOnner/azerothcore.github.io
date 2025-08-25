@@ -1,6 +1,6 @@
 var a20888 =
 [
-    [ "boss_yoggsaron_descend_portalAI", "da/deb/a20888.html#a50ddd1d7b1d4a2e729657e53dfee43f2", null ],
-    [ "OnSpellClick", "da/deb/a20888.html#aba032a7347230db028d1e939944d3f46", null ],
-    [ "_instance", "da/deb/a20888.html#a477abf19a0b5bf9865550541877a29d7", null ]
+    [ "boss_yoggsaron_death_orbAI", "da/deb/a20888.html#a6e87b98e89748585a9f28c6f0e3a85e9", null ],
+    [ "UpdateAI", "da/deb/a20888.html#afde5311434966ff0459dca8ce0d6b8b0", null ],
+    [ "_startTimer", "da/deb/a20888.html#aebc8edef5f84219e1c50f2394d129443", null ]
 ];

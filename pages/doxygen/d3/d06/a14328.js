@@ -1,13 +1,11 @@
 var a14328 =
 [
-    [ "go_firework_show", "d3/d06/a14328.html#a42123490a9752f2187023f3f3ae56333", null ],
-    [ "InitShow", "d3/d06/a14328.html#a27dc501894beaeb88b2ff0d940c7d129", null ],
-    [ "SpawnNextFirework", "d3/d06/a14328.html#a6e9ce552bf040f2acce49c2e3eb70bab", null ],
-    [ "StartShow", "d3/d06/a14328.html#af637d1436655e44738b55040196533d3", null ],
-    [ "StopShow", "d3/d06/a14328.html#ad84f3dbb4692d03933d972ec7be6287d", null ],
-    [ "UpdateAI", "d3/d06/a14328.html#ad1bcb7a47652d62ed8633abdafc56881", null ],
-    [ "_curIdx", "d3/d06/a14328.html#a92613337cf2473e585b98b92bdcbce92", null ],
-    [ "_scheduler", "d3/d06/a14328.html#a6248d36087d8fae9cfa47f473613f886", null ],
-    [ "_show", "d3/d06/a14328.html#a4392d7e2cffa2342b53092cbd9ccea3f", null ],
-    [ "_showRunning", "d3/d06/a14328.html#ae7e870de692c61630d0fd2f44d487aa4", null ]
+    [ "npc_high_oracle_soo_roo", "d3/d06/a14328.html#a86f5f3c3869e9fa7afcfc9425dfdfdde", null ],
+    [ "MoveInLineOfSight", "d3/d06/a14328.html#ae3b4da2d6b888cf6325bb93b3fdbde7f", null ],
+    [ "Reset", "d3/d06/a14328.html#a89a60a83a46e0095045b2353e50483ed", null ],
+    [ "UpdateAI", "d3/d06/a14328.html#ac22cfa519e478da643a51ae887f306fd", null ],
+    [ "orphanGUID", "d3/d06/a14328.html#acd6636eb290a2fe4470b04d467ff7fa1", null ],
+    [ "phase", "d3/d06/a14328.html#abeec923d25d21773f9d8f8ba1deb0148", null ],
+    [ "playerGUID", "d3/d06/a14328.html#a329832491f86c6fcc9ccc4c98b19991e", null ],
+    [ "timer", "d3/d06/a14328.html#aa5238d3ee361374681947de874391a1f", null ]
 ];

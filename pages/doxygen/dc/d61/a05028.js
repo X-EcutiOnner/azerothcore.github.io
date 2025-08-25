@@ -1,11 +1,10 @@
 var a05028 =
 [
-    [ "material", "dc/d61/a05028.html#a29addcb613bc63a100633e612d1dc2d2", null ],
-    [ "pos_x", "dc/d61/a05028.html#a02e9d8789336d77e34bffa19adbab394", null ],
-    [ "pos_y", "dc/d61/a05028.html#ac3162ce321a1f21e4e6fe35041e49a6a", null ],
-    [ "pos_z", "dc/d61/a05028.html#a6e2a2d5d9151d5c6d70fd0d47e6c18e3", null ],
-    [ "xtiles", "dc/d61/a05028.html#a94789843c68d705184e6332ac46bd69d", null ],
-    [ "xverts", "dc/d61/a05028.html#a0548c3fdb216c115a7d3843e4fbc6de3", null ],
-    [ "ytiles", "dc/d61/a05028.html#ac50224cdce231460c78c3e0f077b555d", null ],
-    [ "yverts", "dc/d61/a05028.html#aa9ecb62b53af527b3bd855b8e93ba604", null ]
+    [ "AreaInfo", "dc/d61/a05028.html#a1f45e5e030aaf5b16fb6c58097fa8b14", null ],
+    [ "adtId", "dc/d61/a05028.html#a95c1c986b14dfeba867fa55e77553499", null ],
+    [ "flags", "dc/d61/a05028.html#a780bdbb606fe694941d2105e14a29d70", null ],
+    [ "ground_Z", "dc/d61/a05028.html#aca4fada3b2062f74cf66cd34a63c0c86", null ],
+    [ "groupId", "dc/d61/a05028.html#a76ac6ccec6ff67f16689a6735e644e07", null ],
+    [ "result", "dc/d61/a05028.html#ab9e9a7658d5fb76be208835f786036b0", null ],
+    [ "rootId", "dc/d61/a05028.html#a6f60501d22be8c1d374a46e598d0f2e3", null ]
 ];

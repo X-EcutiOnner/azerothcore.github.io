@@ -1,9 +1,5 @@
 var a07264 =
 [
-    [ "Rank", "d3/d13/a07264.html#a9bcd8dc00437bcf015565eeb43263578", null ],
-    [ "Rating", "d3/d13/a07264.html#ab43875cc3ae58eb636a490c2c0f5c1f6", null ],
-    [ "SeasonGames", "d3/d13/a07264.html#a124c6d64f22c13707764eedd79fe1912", null ],
-    [ "SeasonWins", "d3/d13/a07264.html#ad274601b85ea634524b1c00979e09465", null ],
-    [ "WeekGames", "d3/d13/a07264.html#a1d0092200b2c9428e821473949cfda77", null ],
-    [ "WeekWins", "d3/d13/a07264.html#a313afef901bd5a9347f2074a7ca1bfe0", null ]
+    [ "CreateFilterByUserInput", "d3/d13/a07264.html#ae35ff456f56290032c4c62d252a83690", null ],
+    [ "ParseTypes", "d3/d13/a07264.html#a79a78392d31f1fbf3d8475572d570c1c", null ]
 ];

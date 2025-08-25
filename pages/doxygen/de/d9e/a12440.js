@@ -1,6 +1,6 @@
 var a12440 =
 [
-    [ "boss_magmadarAI", "de/d9e/a12440.html#a47207fdd6eb94fb08791da06cd4160f6", null ],
-    [ "ExecuteEvent", "de/d9e/a12440.html#a7d4c1807cb320fdc331057209a4ce166", null ],
-    [ "JustEngagedWith", "de/d9e/a12440.html#a5ce1495d01f28e0a38f00127e7137a4f", null ]
+    [ "boss_gehennasAI", "d8/db9/a12444.html", "d8/db9/a12444" ],
+    [ "boss_gehennas", "de/d9e/a12440.html#a380a24cbaad4e247c6c76fd63ac34f59", null ],
+    [ "GetAI", "de/d9e/a12440.html#a92f9ff0e957da5331b4a3ecc48be0ffa", null ]
 ];

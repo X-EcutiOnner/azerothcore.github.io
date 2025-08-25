@@ -1,7 +1,8 @@
 var a18380 =
 [
-    [ "CalculateBonus", "d5/dd6/a18380.html#ae149a739150cb7eb9fb67f19130c0510", null ],
-    [ "OnPeriodic", "d5/dd6/a18380.html#a19697bd65a325870becc1c30d7deff36", null ],
-    [ "PrepareAuraScript", "d5/dd6/a18380.html#a77c272d4a26323c421e4b264f79d5b66", null ],
-    [ "Register", "d5/dd6/a18380.html#aecd8670e3a079c8460cddd5ce0b4f79b", null ]
+    [ "Load", "d5/dd6/a18380.html#add67e02f44e3658bff98faf7a9466ba3", null ],
+    [ "OnPeriodic", "d5/dd6/a18380.html#a3e523e0bb23e4aba279ba6704206bfc4", null ],
+    [ "PrepareAuraScript", "d5/dd6/a18380.html#a399fc30c23c03d3c4964ec23faed7c18", null ],
+    [ "Register", "d5/dd6/a18380.html#a4ee6fe23e45481eea16f77d8de72742e", null ],
+    [ "_is25Man", "d5/dd6/a18380.html#ab7776e2d8eff0de1176d5d5efa853c6d", null ]
 ];

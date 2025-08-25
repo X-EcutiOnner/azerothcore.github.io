@@ -1,7 +1,7 @@
 var a15212 =
 [
-    [ "boss_glob_of_viscidus", "dd/dc4/a15212.html#a1ba72393766110382dc4ce4122dfd1ee", null ],
-    [ "InitializeAI", "dd/dc4/a15212.html#a0247055fc4f3a60c880ffb78e96edcb9", null ],
-    [ "MovementInform", "dd/dc4/a15212.html#abe0cd95930fe52fdb5a40c704d092b90", null ],
-    [ "UpdateAI", "dd/dc4/a15212.html#a2e8e38ccdf4ab5e32bd750d73daf1605", null ]
+    [ "npc_sartura_royal_guard", "dd/dc4/a15212.html#a3ce2aeec4e5f26916ef50bdeea624c9d", null ],
+    [ "JustEngagedWith", "dd/dc4/a15212.html#a0b162e1fcc925f65fedbfe235b59eb0e", null ],
+    [ "Reset", "dd/dc4/a15212.html#a2b604aada12ca7f3e712cdbd1a3f397a", null ],
+    [ "UpdateAI", "dd/dc4/a15212.html#a2ed50f65847133c897facecbaa4711d8", null ]
 ];

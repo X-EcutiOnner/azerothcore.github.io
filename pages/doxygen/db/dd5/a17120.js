@@ -1,7 +1,7 @@
 var a17120 =
 [
-    [ "HandleEffectPeriodic", "db/dd5/a17120.html#a370e2cbf796c1bc0a891243b61c057e1", null ],
-    [ "PrepareAuraScript", "db/dd5/a17120.html#ac0cb90fe9bfa7f371cc5469626ce2467", null ],
-    [ "Register", "db/dd5/a17120.html#a5a44978cec95fef30c9ea4308bda2508", null ],
-    [ "Validate", "db/dd5/a17120.html#a8b9f7d76f86f1a5abffdead3ebee694a", null ]
+    [ "npc_pos_icicle_triggerAI", "db/dd5/a17120.html#a28477c5f88b5ec77dc3e021ec01401ce", null ],
+    [ "UpdateAI", "db/dd5/a17120.html#a32d9b6bd2f0b994adb33e2bd99dd34ce", null ],
+    [ "pInstance", "db/dd5/a17120.html#ad4ed0e2380c62cc6dd7d309edfd34ac1", null ],
+    [ "timer", "db/dd5/a17120.html#a91277c41ddebffed7e9dac7098cd78bd", null ]
 ];

@@ -1,11 +1,7 @@
 var a05204 =
 [
-    [ "Record", "d6/d3f/a05204.html#a3303a6b7ba364777e368158052dbe1db", null ],
-    [ "getFloat", "d6/d3f/a05204.html#a1647694079553a20a7c6621aa6d4ecf6", null ],
-    [ "getString", "d6/d3f/a05204.html#a833c7017749b6b3109ebdee2ff0d3517", null ],
-    [ "getUInt", "d6/d3f/a05204.html#a6f22775adc36b8955009f3f0bd51f355", null ],
-    [ "getUInt8", "d6/d3f/a05204.html#af6a95de37b34f0204f57323d9a39d110", null ],
-    [ "DBCFileLoader", "d6/d3f/a05204.html#aa9814b507b472e781e08c803e025cc72", null ],
-    [ "file", "d6/d3f/a05204.html#a146dc23a5f24a0d8a1a34f29375b9bcd", null ],
-    [ "offset", "d6/d3f/a05204.html#a06e2c90771be91d9ca948840a07125e8", null ]
+    [ "Secret", "d6/d3f/a05204.html#aae38427994c1f4ddf3838c4e1f3f7e03", null ],
+    [ "GenerateToken", "d6/d3f/a05204.html#a44829d44e78247991d9c3dde270cab5c", null ],
+    [ "ValidateToken", "d6/d3f/a05204.html#ab6b27542814e577106ad587a5807d663", null ],
+    [ "RECOMMENDED_SECRET_LENGTH", "d6/d3f/a05204.html#a885fc6c1a5bda166416f161ea202eb72", null ]
 ];

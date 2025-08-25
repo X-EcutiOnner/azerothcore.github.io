@@ -1,6 +1,6 @@
 var a01346 =
 [
-    [ "AISpellInfoType", "d1/d27/a06180.html", "d1/d27/a06180" ],
+    [ "AISpellInfoType", "d2/d1b/a06188.html", "d2/d1b/a06188" ],
     [ "AI_DEFAULT_COOLDOWN", "d9/de4/a01346.html#a41c947edd84b4f2bb45133dc7aa00cad", null ],
     [ "AICondition", "d9/de4/a01346.html#ac43b18581ae7a7b66984b1003502d5af", [
       [ "AICOND_AGGRO", "d9/de4/a01346.html#ac43b18581ae7a7b66984b1003502d5afac41d9d90387a55a0b5be34e13683f9c8", null ],

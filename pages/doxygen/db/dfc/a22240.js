@@ -1,8 +1,7 @@
 var a22240 =
 [
-    [ "npc_vics_flying_machineAI", "db/dfc/a22240.html#a4464e0b1433c4ffb24ae7809b1a0eec5", null ],
-    [ "MovementInform", "db/dfc/a22240.html#ac4bbe0a3cccb6878d050b717b9efb320", null ],
-    [ "PassengerBoarded", "db/dfc/a22240.html#aa67dcbb4b43b047398fec2619ad61829", null ],
-    [ "SpellHit", "db/dfc/a22240.html#aa81229a104e1521d570abec4b6f7bca7", null ],
-    [ "pointId", "db/dfc/a22240.html#aa1412c23f0c3b964262e145c51aea974", null ]
+    [ "npc_engineer_heliceAI", "d2/d6f/a22244.html", "d2/d6f/a22244" ],
+    [ "npc_engineer_helice", "db/dfc/a22240.html#a445ed6b85e95db817c8117d5473a3c9d", null ],
+    [ "GetAI", "db/dfc/a22240.html#ad48e3c1ed22a71e8a45273e1338dd0f8", null ],
+    [ "OnQuestAccept", "db/dfc/a22240.html#ae0979d68744372d5d4669b6f014eb123", null ]
 ];

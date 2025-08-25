@@ -1,7 +1,7 @@
 var a23848 =
 [
-    [ "HandleEffect", "d3/d00/a23848.html#ac0fb38f62cc9a41eb70b2ca951f9d1dc", null ],
-    [ "PrepareSpellScript", "d3/d00/a23848.html#abbbffa0a53dc2a55df5e7b17a7f4d38f", null ],
-    [ "Register", "d3/d00/a23848.html#ac406946bb793125d49006e3a877c9638", null ],
-    [ "SelectTarget", "d3/d00/a23848.html#ac36f3d88a0ef8ccaee5bac17bffcaf49", null ]
+    [ "OnApply", "d3/d00/a23848.html#abab02b8307b762d070ba12358f59916d", null ],
+    [ "OnRemove", "d3/d00/a23848.html#a5ac45a5cfa17689d241c44241216ff38", null ],
+    [ "PrepareAuraScript", "d3/d00/a23848.html#a54f128745c3c35d7e52e9de7bb69a39a", null ],
+    [ "Register", "d3/d00/a23848.html#ae130b3cddbe0d9ce21d888e21472d64b", null ]
 ];

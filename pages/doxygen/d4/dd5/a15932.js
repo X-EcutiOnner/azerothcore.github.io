@@ -1,6 +1,6 @@
 var a15932 =
 [
-    [ "boss_krik_thirAI", "db/dcb/a15936.html", "db/dcb/a15936" ],
-    [ "boss_krik_thir", "d4/dd5/a15932.html#ab7001cd05e8e5e371cbd6ee2b25f3522", null ],
-    [ "GetAI", "d4/dd5/a15932.html#a10e582440092d5c6558c2a11d60907aa", null ]
+    [ "HandleApplyAura", "d4/dd5/a15932.html#aeddfd61eab5aa077ca07a924ec491285", null ],
+    [ "PrepareSpellScript", "d4/dd5/a15932.html#ad53341842455d98722c03318dd80fb94", null ],
+    [ "Register", "d4/dd5/a15932.html#a10cb03ba6175f48b0ccaf69ec90e8f50", null ]
 ];

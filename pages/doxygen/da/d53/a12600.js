@@ -1,9 +1,10 @@
 var a12600 =
 [
-    [ "boss_curator", "da/d53/a12600.html#a41b65078d0822ba87f3e40fc7bb10a40", null ],
-    [ "JustDied", "da/d53/a12600.html#a5617f51f51304682d48af11fdb0c6b8b", null ],
-    [ "JustEngagedWith", "da/d53/a12600.html#a848f477a101956662389cab5ffcc0727", null ],
-    [ "JustSummoned", "da/d53/a12600.html#ac779d275e03e6ba190617d215b217ce5", null ],
-    [ "KilledUnit", "da/d53/a12600.html#a9bfb89a8747251e4a84eb2f94a547f0d", null ],
-    [ "Reset", "da/d53/a12600.html#af6fbf3c3d77f9f052f11974f7b54feab", null ]
+    [ "instance_gnomeregan_InstanceMapScript", "da/d53/a12600.html#a0080fdf557ad8159a8934dce5b39a535", null ],
+    [ "OnCreatureCreate", "da/d53/a12600.html#ac607601becc7fbf4ea9c64d87c93287c", null ],
+    [ "OnGameObjectCreate", "da/d53/a12600.html#a0c2f4d615394ef1d6e1b930ed6aff82f", null ],
+    [ "ReadSaveDataMore", "da/d53/a12600.html#a85d3db22430a4bac7e01dcfa1a1efb5b", null ],
+    [ "SetData", "da/d53/a12600.html#af800a1906c532f61f0299f8aa9359a66", null ],
+    [ "WriteSaveDataMore", "da/d53/a12600.html#a1b30829b3c782bb2c52e5da4fa388d5c", null ],
+    [ "_encounters", "da/d53/a12600.html#ae19a56e7fdcb2d0204d444cba11b7441", null ]
 ];

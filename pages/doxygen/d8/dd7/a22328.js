@@ -1,9 +1,6 @@
 var a22328 =
 [
-    [ "HandlePeriodic", "d8/dd7/a22328.html#a3d9ef90ec1ddebe2b2f3dd3a8b9eb25a", null ],
-    [ "Load", "d8/dd7/a22328.html#af5ed9dda3b2a2fd208fdc32de414c28a", null ],
-    [ "PrepareAuraScript", "d8/dd7/a22328.html#a1057e5262d413149a023bc904a3c3751", null ],
-    [ "Register", "d8/dd7/a22328.html#a47b9665b84742fd8cbb4e422d667b2ac", null ],
-    [ "Validate", "d8/dd7/a22328.html#a85d7ac258d50f690574ad7656256cd05", null ],
-    [ "_counter", "d8/dd7/a22328.html#a855bb93d5d9c5d8a9d06cfbb16d8d814", null ]
+    [ "npc_roxi_ramrocket", "d8/dd7/a22328.html#af7f6bf6d5f8fc468abe62605f205571b", null ],
+    [ "OnGossipHello", "d8/dd7/a22328.html#adec28f778921246c56f11d09753e566e", null ],
+    [ "OnGossipSelect", "d8/dd7/a22328.html#a46a9898cb4b29808f9e911c03b5759cb", null ]
 ];

@@ -1,10 +1,7 @@
 var a16820 =
 [
-    [ "HandleAfterEffectAbsorb", "d1/dfc/a16820.html#a4af67c41afd7843a5cfe2b2e2e9e8055", null ],
-    [ "Load", "d1/dfc/a16820.html#abab656d4ba7e14bf1ffdb1d40c395b5d", null ],
-    [ "PrepareAuraScript", "d1/dfc/a16820.html#a0856d66c801715f16cd251ddf9b25a59", null ],
-    [ "Register", "d1/dfc/a16820.html#a69d8dfebb981b51592770b7b5807bc80", null ],
-    [ "Validate", "d1/dfc/a16820.html#a55ec42ce316978220103a3a39f3939a3", null ],
-    [ "amount", "d1/dfc/a16820.html#aaf34ee04ae619a3ac108a8fd1c9dac99", null ],
-    [ "fired", "d1/dfc/a16820.html#a6a7afa99044644608b16e83328bfd5fa", null ]
+    [ "HandlePeriodicTick", "d1/dfc/a16820.html#abe9cc0a87d84504ee029cc565dd97ef5", null ],
+    [ "PrepareAuraScript", "d1/dfc/a16820.html#a93e894c642101160dd51f30952c82d24", null ],
+    [ "Register", "d1/dfc/a16820.html#a49172ede0f888e391b9b4a835475220a", null ],
+    [ "Validate", "d1/dfc/a16820.html#a3b9998ef5ee0931afbe5b04430da10a0", null ]
 ];

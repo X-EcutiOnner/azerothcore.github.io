@@ -1,7 +1,18 @@
 var a11572 =
 [
-    [ "map", "d8/dff/a11572.html#ab52fa79b07a9fad5b0cf8a28669a94eb", null ],
-    [ "pallid", "d8/dff/a11572.html#a0693df9090f40b7b1b8dba0003b6092e", null ],
-    [ "pallidGuid", "d8/dff/a11572.html#ae78b3d7448e8f43a993f46208039f0b1", null ],
-    [ "zoneId", "d8/dff/a11572.html#ad035d67dce95aa1ad7a1f39b1cf7b847", null ]
+    [ "Weather", "d0/d9d/a04783.html#gaf4ec787c400c0e90101f00d022c2c9fd", null ],
+    [ "~Weather", "d0/d9d/a04783.html#ga8db480edb9459ebf73a1363c6fea0b27", null ],
+    [ "GetScriptId", "d0/d9d/a04783.html#ga07ff1c03b6fb225388d418496c18d3be", null ],
+    [ "GetWeatherState", "d0/d9d/a04783.html#gaed38cecb6af95222638b2177fa48757c", null ],
+    [ "GetZone", "d0/d9d/a04783.html#ga5cf53e440c7da53eb6524ea1d658b0e6", null ],
+    [ "ReGenerate", "d0/d9d/a04783.html#gaea61d86d9a64dd5dbc8ea843aad97eb6", null ],
+    [ "SendWeatherUpdateToPlayer", "d0/d9d/a04783.html#gaf9ff2442cc875af4b6ca4bec7f41c965", null ],
+    [ "SetWeather", "d0/d9d/a04783.html#ga32e650a32fc1e01bdb6fbfd960fd022f", null ],
+    [ "Update", "d0/d9d/a04783.html#gaf7a3484daa8221287a4c325fb3a8080c", null ],
+    [ "UpdateWeather", "d0/d9d/a04783.html#gad4885daeab81309a42c2c1fdebcf33ad", null ],
+    [ "m_grade", "d0/d9d/a04783.html#ga5638d204d5986f64eed9d343d086895e", null ],
+    [ "m_timer", "d0/d9d/a04783.html#gadba1100bafe6db8a242bdad35663e909", null ],
+    [ "m_type", "d0/d9d/a04783.html#ga19d9ed53043ba2b9eb3bdc27921501eb", null ],
+    [ "m_weatherChances", "d0/d9d/a04783.html#gaeb74bbd4568c726a2443318aea6313d0", null ],
+    [ "m_zone", "d0/d9d/a04783.html#ga1fd12588331e8f86399378b7bb12317b", null ]
 ];

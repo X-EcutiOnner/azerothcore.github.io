@@ -1,6 +1,6 @@
 var a10644 =
 [
-    [ "GuildUpdateInfoText", "da/d09/a10644.html#a82afd6cb3240da6870990d6f80f69cd6", null ],
-    [ "Read", "da/d09/a10644.html#a7019344fef99c5479602d7bc1176e9ee", null ],
-    [ "InfoText", "da/d09/a10644.html#a786802ce427465d66a4cea1365743975", null ]
+    [ "GuildAddRank", "da/d09/a10644.html#a59c75f3e40e57b5e64f6fa9753a7e0b9", null ],
+    [ "Read", "da/d09/a10644.html#a23636e4b8bd37ea85a282fb1630a969e", null ],
+    [ "Name", "da/d09/a10644.html#a25969282befa638dfb08cf12f14bce53", null ]
 ];

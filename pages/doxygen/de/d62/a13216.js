@@ -1,6 +1,11 @@
 var a13216 =
 [
-    [ "HandleSendEvent", "de/d62/a13216.html#ad245a7dcf129774b8ef3e3653b3e3026", null ],
-    [ "PrepareSpellScript", "de/d62/a13216.html#ad9dfe5b2702540eb119ec86cfbd0ff30", null ],
-    [ "Register", "de/d62/a13216.html#a0b5ac8cfc4eb4adadb653a81a59a8287", null ]
+    [ "boss_baroness_anastariAI", "de/d62/a13216.html#acf180bbe881ba1f6e49c075254759c00", null ],
+    [ "JustDied", "de/d62/a13216.html#a1a7bf1e6c39b0b61e95390e7ee1c5e6b", null ],
+    [ "JustEngagedWith", "de/d62/a13216.html#a7329455d99045e7002abffe09112a4ea", null ],
+    [ "Reset", "de/d62/a13216.html#a80c99c59486d2a7850a3a54ffebe998b", null ],
+    [ "SchedulePossession", "de/d62/a13216.html#afbf2d4e9c3e8e50815c398b97afb3970", null ],
+    [ "UpdateAI", "de/d62/a13216.html#a962e4e3091d126682825c326af5f6922", null ],
+    [ "_possessedTargetGuid", "de/d62/a13216.html#a36e386b847c7032b5ce95a01070518ad", null ],
+    [ "_scheduler", "de/d62/a13216.html#aa59518627a5e64e371dbbb45cfced75f", null ]
 ];

@@ -1,6 +1,7 @@
 var a16188 =
 [
-    [ "npc_living_infernoAI", "de/d8e/a16192.html", "de/d8e/a16192" ],
-    [ "npc_living_inferno", "db/df8/a16188.html#a7df2bb522e67b6f1864604c7b0182078", null ],
-    [ "GetAI", "db/df8/a16188.html#a53f0bbd0a502374664cfa54140f4b8c0", null ]
+    [ "OnApply", "db/df8/a16188.html#a2e4fa91ed7b3270a1addb8e5b3a85d74", null ],
+    [ "OnRemove", "db/df8/a16188.html#a781994b0be4588f4df29399fc900ec69", null ],
+    [ "PrepareAuraScript", "db/df8/a16188.html#aee648b80e7352edffb20fd60697e1d88", null ],
+    [ "Register", "db/df8/a16188.html#a53c56711e31500f827123c08f44072cb", null ]
 ];

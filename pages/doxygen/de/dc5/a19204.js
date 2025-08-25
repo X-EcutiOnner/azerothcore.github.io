@@ -1,5 +1,6 @@
 var a19204 =
 [
-    [ "at_thaddius_entrance", "de/dc5/a19204.html#ad81a60cac337baad82ea526de1d151d1", null ],
-    [ "OnTrigger", "de/dc5/a19204.html#af8635a58d4da0421b72b4451c1ebafc5", null ]
+    [ "FilterTargets", "de/dc5/a19204.html#a4d5340e7b2e3326ff36b4d61d1faeaa9", null ],
+    [ "PrepareSpellScript", "de/dc5/a19204.html#a452937a4e95b40366f915213ec475a84", null ],
+    [ "Register", "de/dc5/a19204.html#a883e383928a9b0ad0aeccf7afee4f15e", null ]
 ];

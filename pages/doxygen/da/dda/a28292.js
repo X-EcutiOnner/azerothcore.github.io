@@ -1,8 +1,11 @@
 var a28292 =
 [
-    [ "Id", "da/dda/a28292.html#a6943bf760d15b3f8af4109d131652d72", null ],
-    [ "MapId", "da/dda/a28292.html#ab0cccd760636a3b42af693d6c483bed9", null ],
-    [ "X", "da/dda/a28292.html#a91183890254546efeb3162173cc60dad", null ],
-    [ "Y", "da/dda/a28292.html#a19ab4d026b45d74f006479641afbc4d3", null ],
-    [ "Z", "da/dda/a28292.html#aaa23c59f20fc96aec148b82516f30036", null ]
+    [ "ClassID", "da/dda/a28292.html#a8cc7d61907f8fd5c2b3429c21ccbcc05", null ],
+    [ "DisplayInfoID", "da/dda/a28292.html#a87657df2ad024245ccb2192303f76b7a", null ],
+    [ "ID", "da/dda/a28292.html#a8ee5b01112a6d01cf46b4e37fb2e6269", null ],
+    [ "InventoryType", "da/dda/a28292.html#a6dc33fc40a299b010c18a7009aff648b", null ],
+    [ "Material", "da/dda/a28292.html#ab07b947a5b8c2e7aee60ac96d979ad3c", null ],
+    [ "SheatheType", "da/dda/a28292.html#a63a6d7c2a8e2514384a5eb99cd890747", null ],
+    [ "SoundOverrideSubclassID", "da/dda/a28292.html#a6072ce88b5c93034418c590d8aba1ea3", null ],
+    [ "SubclassID", "da/dda/a28292.html#ac39254716573e335caf312f635353a2e", null ]
 ];

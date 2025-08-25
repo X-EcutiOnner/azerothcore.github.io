@@ -1,7 +1,6 @@
 var a23340 =
 [
-    [ "HandleScriptEffect", "d9/d70/a23340.html#ace1bb0dd5a76aa75038060af16b2e09f", null ],
-    [ "PrepareSpellScript", "d9/d70/a23340.html#ab3f6d24643b75482d5f96779a5bdda11", null ],
-    [ "Register", "d9/d70/a23340.html#a14772c25b70078c0034b8de17de5b77a", null ],
-    [ "Validate", "d9/d70/a23340.html#a8318385367bf6c6b09e0978c461f5d59", null ]
+    [ "go_ahune_ice_stone", "d9/d70/a23340.html#ab7b665f01da80751ea97705c5113bde7", null ],
+    [ "GossipSelect", "d9/d70/a23340.html#aadb4db41ed84922c0a2d0463b8616876", null ],
+    [ "_instance", "d9/d70/a23340.html#a43651f471ac777b59fb8ba67b830cd35", null ]
 ];

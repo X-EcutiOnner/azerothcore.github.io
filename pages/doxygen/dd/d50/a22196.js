@@ -1,6 +1,6 @@
 var a22196 =
 [
-    [ "npc_bushwhackerAI", "da/dc1/a22200.html", "da/dc1/a22200" ],
-    [ "npc_bushwhacker", "dd/d50/a22196.html#ad87a9fdec3d5dbaef429c88905a5f6e8", null ],
-    [ "GetAI", "dd/d50/a22196.html#ab3190b66069e820abf3637bb877066a0", null ]
+    [ "PrepareSpellScript", "dd/d50/a22196.html#aa26d34552b04dca1db32390e769ff4dc", null ],
+    [ "RecalculateDamage", "dd/d50/a22196.html#a1b3458fc865d320050fae1ffeb4c7b5d", null ],
+    [ "Register", "dd/d50/a22196.html#a58d28dea272b1237cf60efb45d67765d", null ]
 ];

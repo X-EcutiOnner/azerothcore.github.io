@@ -1,10 +1,16 @@
 var a23732 =
 [
-    [ "instance_arcatraz_InstanceMapScript", "dc/da3/a23732.html#a4c6594eb7fa1f7213c89ea5af6c70ae0", null ],
-    [ "GetGuidData", "dc/da3/a23732.html#aa4bedf168359eaf5332476a6de99c830", null ],
-    [ "OnGameObjectCreate", "dc/da3/a23732.html#ad8c84d90b85db5717b6a37fc2343e0aa", null ],
-    [ "SetBossState", "dc/da3/a23732.html#a2937e4ea47af542a476bd3399ecc7233", null ],
-    [ "SetData", "dc/da3/a23732.html#aca09d4856d5c3e1831ea8753a50a3b71", null ],
-    [ "StasisPodGUIDs", "dc/da3/a23732.html#a1fb9824baee2d8d83e030da307f21fc3", null ],
-    [ "WardensShieldGUID", "dc/da3/a23732.html#a3cbff5742e05f6cf0544807bce64b1d0", null ]
+    [ "npc_millhouse_manastormAI", "dc/da3/a23732.html#ac86df4d5887c4c1b719ce47f00b32995", null ],
+    [ "AttackStart", "dc/da3/a23732.html#a032cc1ad7a07ead4ced3afe99601d94f", null ],
+    [ "DamageTaken", "dc/da3/a23732.html#a30ed336d552596211b3bfc316d223968", null ],
+    [ "InitializeAI", "dc/da3/a23732.html#a7e8f7483b7cf4ba5d87386940e632339", null ],
+    [ "JustDied", "dc/da3/a23732.html#aaa22ed7812600c1670d12d6887d316d6", null ],
+    [ "JustEngagedWith", "dc/da3/a23732.html#a5e643192572f29f954a31b7b949f6525", null ],
+    [ "KilledUnit", "dc/da3/a23732.html#ac3ba302f496d03c171d1d3f4dbf175da", null ],
+    [ "Reset", "dc/da3/a23732.html#a74076048ea382816fa9c98a0d759af46", null ],
+    [ "UpdateAI", "dc/da3/a23732.html#a7dad659c4ba1db0460c23a3dc573eff2", null ],
+    [ "_usedIceblock", "dc/da3/a23732.html#af0ce341df018dafdce89f75fcb9f0063", null ],
+    [ "events", "dc/da3/a23732.html#aa9aadd461e32cf8a65b185d77f62d838", null ],
+    [ "events2", "dc/da3/a23732.html#ac762ce5981457cbcf6ec73236bab2486", null ],
+    [ "instance", "dc/da3/a23732.html#aff28c68ed9575440f5732df855ab4372", null ]
 ];

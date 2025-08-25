@@ -1,7 +1,7 @@
 var a23332 =
 [
-    [ "HandleProc", "dc/d8e/a23332.html#a03b2be5894d489a6021aff2744aee0e0", null ],
-    [ "PrepareAuraScript", "dc/d8e/a23332.html#a0ff401cd6d8e32ff458b7383b76a92a1", null ],
-    [ "Register", "dc/d8e/a23332.html#a804e1bc3d570d28cb2e06155054f3169", null ],
-    [ "Validate", "dc/d8e/a23332.html#a8d18e9ed9fa851f1c4d36c1f0bed8fcb", null ]
+    [ "npc_ahune_ice_spear_bunny", "dc/d8e/a23332.html#aecc30efddcf4ae9bd93504e1d727ee87", null ],
+    [ "InitializeAI", "dc/d8e/a23332.html#a5e7eb38f6bf4a947bd1e09ee198eb45d", null ],
+    [ "UpdateAI", "dc/d8e/a23332.html#ac7fd9b174f2ee1b1adf9d20d59c67bc2", null ],
+    [ "_scheduler", "dc/d8e/a23332.html#a1a1a8b066a3cab9e15710fa97a8c83e6", null ]
 ];

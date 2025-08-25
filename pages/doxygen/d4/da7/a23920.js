@@ -1,6 +1,6 @@
 var a23920 =
 [
-    [ "HandleAfterRemove", "d4/da7/a23920.html#ac9756a8f206c114ff6443331ca266184", null ],
-    [ "PrepareAuraScript", "d4/da7/a23920.html#a2f67291e6e4291c9d01cdbcbe04a7db7", null ],
-    [ "Register", "d4/da7/a23920.html#ac36d76ad8a5ecb2e437dcb8f1248386d", null ]
+    [ "HandleScriptEffect", "d4/da7/a23920.html#a9a7f29cde26344fb9af222a69ddbd4fa", null ],
+    [ "PrepareSpellScript", "d4/da7/a23920.html#af475c0968aabaf56e8ca38950ad651f0", null ],
+    [ "Register", "d4/da7/a23920.html#a86cd62582cc8b7c7fa10e0cd2da63822", null ]
 ];

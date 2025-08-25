@@ -1,6 +1,7 @@
 var a10052 =
 [
-    [ "FallInitializer", "d0/def/a10052.html#a618345df62b821d286caadc7179b7d83", null ],
-    [ "operator()", "d0/def/a10052.html#a7a9b294b6820e229cd95f4fc9bde825b", null ],
-    [ "start_elevation", "d0/def/a10052.html#ab94604fb6eee50832001908c12044130", null ]
+    [ "WriteCommonMonsterMovePart", "d0/def/a10052.html#a5dcdbeb513f6da51b0af20d9acd2ac58", null ],
+    [ "WriteCreate", "d0/def/a10052.html#ae5682d7012cca35bd8643b01ce558eb5", null ],
+    [ "WriteMonsterMove", "d0/def/a10052.html#a4c4294e3fed32aca35078dd4975b057d", null ],
+    [ "WriteStopMovement", "d0/def/a10052.html#a1b960c1141ab9b4dca932e0eddaee204", null ]
 ];

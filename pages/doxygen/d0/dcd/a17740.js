@@ -1,6 +1,7 @@
 var a17740 =
 [
-    [ "boss_lady_deathwhisperAI", "d9/dbf/a17744.html", "d9/dbf/a17744" ],
-    [ "boss_lady_deathwhisper", "d0/dcd/a17740.html#a979411cb834611b1239f3bf9058d316d", null ],
-    [ "GetAI", "d0/dcd/a17740.html#ac0b86fee1e2e9dbf794ed1b53aab11d2", null ]
+    [ "HandleDummy", "d0/dcd/a17740.html#a6e5d70c35420384305d7faf991072b38", null ],
+    [ "PrepareSpellScript", "d0/dcd/a17740.html#a64f912555853aab5693692b22eba52c4", null ],
+    [ "Register", "d0/dcd/a17740.html#a797ec701f2e3f2949680eb935a9c5c3f", null ],
+    [ "Validate", "d0/dcd/a17740.html#afda7fd86e2fc2c40870904065ffcfe50", null ]
 ];

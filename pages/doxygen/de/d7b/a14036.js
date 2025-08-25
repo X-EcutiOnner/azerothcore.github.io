@@ -1,9 +1,8 @@
 var a14036 =
 [
-    [ "npc_healing_ward", "de/d7b/a14036.html#a3d3c35f61502d3a83cb2581119e08903", null ],
-    [ "JustEngagedWith", "de/d7b/a14036.html#a5faf7c5633c44ec1fa70b60b2071b97b", null ],
-    [ "Reset", "de/d7b/a14036.html#a756d27a43d86c7ecde859df255c6bd62", null ],
-    [ "UpdateAI", "de/d7b/a14036.html#a8b8635af33ce814602206064e0815520", null ],
-    [ "_instance", "de/d7b/a14036.html#a65f227041ad4bdc7240637dd6cb680ec", null ],
-    [ "_scheduler", "de/d7b/a14036.html#a0c62fe945b491cab76175217a7d10c06", null ]
+    [ "FilterTargets", "de/d7b/a14036.html#a28450a72f3d8510bdf35390f56a67f71", null ],
+    [ "HandleScriptEffect", "de/d7b/a14036.html#af97c3c43da4b099bc37e2cf4f2733dce", null ],
+    [ "PrepareSpellScript", "de/d7b/a14036.html#ac9298a59bc8b9735c210b630c68a536e", null ],
+    [ "Register", "de/d7b/a14036.html#a3bfc71bb504a0eb0f63ff307c943c23e", null ],
+    [ "Validate", "de/d7b/a14036.html#a41b2f12ebf919b781fdefab3a42bdb84", null ]
 ];

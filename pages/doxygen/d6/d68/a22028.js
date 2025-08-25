@@ -1,9 +1,7 @@
 var a22028 =
 [
-    [ "npc_Apothecary_HanesAI", "d6/d68/a22028.html#a8e209b142a58b3b3c0d84c430a086ade", null ],
-    [ "JustDied", "d6/d68/a22028.html#a4c681936d8e7053ace5cdeeaa1ee5ca9", null ],
-    [ "Reset", "d6/d68/a22028.html#a23d54542e6debf39798c2a2d6e2a255d", null ],
-    [ "UpdateEscortAI", "d6/d68/a22028.html#ab54eb5115b9c41b39f0de0f8f4412ef9", null ],
-    [ "WaypointReached", "d6/d68/a22028.html#a7105ea4c83ddd0fd08c96a0b0ff40bd2", null ],
-    [ "PotTimer", "d6/d68/a22028.html#a252858818b61cf15e2e031ceaaadc6b8", null ]
+    [ "HandleDummy", "d6/d68/a22028.html#a98e8a4b7bbe947b00f1bc32632736d59", null ],
+    [ "PrepareSpellScript", "d6/d68/a22028.html#a65b1ddf275eb5ee14ca32a1e25bf6e0e", null ],
+    [ "Register", "d6/d68/a22028.html#acdfa4e1fc8e26a887e80521b1bea5150", null ],
+    [ "Validate", "d6/d68/a22028.html#aeec15705a41ad2ac0e59d90086591d96", null ]
 ];

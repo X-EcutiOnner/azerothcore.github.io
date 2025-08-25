@@ -1,14 +1,6 @@
 var a20108 =
 [
-    [ "boss_freya_summonsAI", "df/d5c/a20108.html#acbba11d918cc6368612cbd3d95310fe2", null ],
-    [ "DoAction", "df/d5c/a20108.html#ad9dd522e33ffd42bff75f7dd5f1bdc45", null ],
-    [ "JustDied", "df/d5c/a20108.html#af7668e0cb4be7d49af8be697b8fa3299", null ],
-    [ "JustEngagedWith", "df/d5c/a20108.html#a3163e12dd184dc5b8981c356e601a05a", null ],
-    [ "Reset", "df/d5c/a20108.html#a44f1ac940625fdd0cdb84454082e7ab6", null ],
-    [ "UpdateAI", "df/d5c/a20108.html#afdd17576728872509ec31188fa68505b", null ],
-    [ "_freyaGUID", "df/d5c/a20108.html#adcdf01b496a52b1d0aa2f1b3bf6a7a0a", null ],
-    [ "_hasDied", "df/d5c/a20108.html#a86f421141d31ac70e58cf63fe707ba27", null ],
-    [ "_isTrio", "df/d5c/a20108.html#ab31e8c73c3e22b031e5efe89ae95ce0e", null ],
-    [ "_stackCount", "df/d5c/a20108.html#ab7fc673ad22c1dd3bd41fa185ee03abb", null ],
-    [ "events", "df/d5c/a20108.html#a79403b4a24b92f89252db603d8ea2210", null ]
+    [ "boss_freya_elder_ironbranchAI", "da/d80/a20112.html", "da/d80/a20112" ],
+    [ "boss_freya_elder_ironbranch", "df/d5c/a20108.html#a066083e4d6fde6439f7dce80be209075", null ],
+    [ "GetAI", "df/d5c/a20108.html#a67f483d12fe801c1d840dd0f74396564", null ]
 ];

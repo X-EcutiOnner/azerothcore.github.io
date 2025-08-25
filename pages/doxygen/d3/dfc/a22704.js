@@ -1,6 +1,5 @@
 var a22704 =
 [
-    [ "instance_shadow_labyrinth_InstanceMapScript", "d8/dde/a22708.html", "d8/dde/a22708" ],
-    [ "instance_shadow_labyrinth", "d3/dfc/a22704.html#a16a3acdfd9b1053374dfa5f27e5f3c19", null ],
-    [ "GetInstanceScript", "d3/dfc/a22704.html#af9edf624413593a5cdf025dd9a1c3631", null ]
+    [ "instance_sethekk_halls_InstanceMapScript", "d3/dfc/a22704.html#a037ee225b626b64436570680ae4e9ea0", null ],
+    [ "ProcessEvent", "d3/dfc/a22704.html#aba05b0edb57e6c42bd45593a51598365", null ]
 ];

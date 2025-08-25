@@ -1,6 +1,7 @@
 var a21832 =
 [
-    [ "SACActivateEvent", "d4/db8/a21832.html#a7e5ba22c5500337f14ae067e2b404c5a", null ],
-    [ "Execute", "d4/db8/a21832.html#ad3e4092941e8cd8953fdc251e97c458a", null ],
-    [ "_owner", "d4/db8/a21832.html#ae930bd1f603ea296c5ccabd6fbd299f8", null ]
+    [ "CheckRequirement", "d4/db8/a21832.html#a41beb2c890137328734d6adb14e08302", null ],
+    [ "PrepareSpellScript", "d4/db8/a21832.html#aa0b9873dbd8c75a14fa88094d91eeeaa", null ],
+    [ "Register", "d4/db8/a21832.html#aa0fad5e5a68131ebab5717ad0ce69669", null ],
+    [ "SetDest", "d4/db8/a21832.html#a431a556ab73f91ed63f5983e537834a5", null ]
 ];

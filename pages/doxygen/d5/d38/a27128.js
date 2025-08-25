@@ -1,6 +1,5 @@
 var a27128 =
 [
-    [ "boss_ysondreAI", "d1/d72/a27132.html", "d1/d72/a27132" ],
-    [ "boss_ysondre", "d5/d38/a27128.html#ad12dbb728f4f0cdf2f4c0ba9cd2a167d", null ],
-    [ "GetAI", "d5/d38/a27128.html#a0da215d7bc8ee86216887e682b9335c3", null ]
+    [ "AreaTrigger_at_scent_larkorwi", "d5/d38/a27128.html#a967a43eae4cc986754eed9ee8291c17e", null ],
+    [ "OnTrigger", "d5/d38/a27128.html#aeeb339afa5a7dd4b028aea800026998e", null ]
 ];

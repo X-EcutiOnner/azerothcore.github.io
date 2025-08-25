@@ -1,7 +1,8 @@
 var a19224 =
 [
-    [ "npc_naxxramas_trigger", "da/d2f/a19224.html#a62fd64468daf378fbe2e8f18b1f002f8", null ],
-    [ "Reset", "da/d2f/a19224.html#a5bf85ab6027ca5101df32cda6df29b28", null ],
-    [ "UpdateAI", "da/d2f/a19224.html#acd051dd7790aa37cd2375479433509cb", null ],
-    [ "_events", "da/d2f/a19224.html#a1ab25fd0b40f373d30b0f60462dd276b", null ]
+    [ "HandleDamage", "da/d2f/a19224.html#ab8948b09b685ad970f5292ca4c5d97ba", null ],
+    [ "HandleTargets", "da/d2f/a19224.html#ac36e689bad93aa17738f390680764a7e", null ],
+    [ "PrepareSpellScript", "da/d2f/a19224.html#a149db071722ce12cded16087c8eec1df", null ],
+    [ "Register", "da/d2f/a19224.html#abd073f34a414fab7ee23ee933863f1c7", null ],
+    [ "Validate", "da/d2f/a19224.html#a177320de9c3a2c2f29120fcaa413ab13", null ]
 ];

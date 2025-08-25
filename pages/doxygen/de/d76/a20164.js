@@ -1,7 +1,6 @@
 var a20164 =
 [
-    [ "HandleAfterEffectApply", "de/d76/a20164.html#a672526de2c71dcae79bacef88f34dc26", null ],
-    [ "PrepareAuraScript", "de/d76/a20164.html#a1da221b63cb7fcd0dbb580e8cf0003ce", null ],
-    [ "Register", "de/d76/a20164.html#a9ba7c109fe96881dd47ba47366890e2b", null ],
-    [ "Validate", "de/d76/a20164.html#ab5833f6218760a7d9829b5d453436302", null ]
+    [ "boss_vezaxAI", "d3/dde/a20168.html", "d3/dde/a20168" ],
+    [ "boss_vezax", "de/d76/a20164.html#af778f9ef3070598f8ca5109b2f6f0f82", null ],
+    [ "GetAI", "de/d76/a20164.html#a55c7f1ee93252768ba02e8d0d4634eb9", null ]
 ];

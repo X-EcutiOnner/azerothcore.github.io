@@ -1,7 +1,5 @@
 var a18724 =
 [
-    [ "Land", "d9/d86/a18724.html#ad2fd3d7c81e3ef22cb3767914f649fd0", null ],
-    [ "PrepareSpellScript", "d9/d86/a18724.html#a31e45adb87719c311fb5b94b2b744487", null ],
-    [ "Register", "d9/d86/a18724.html#a652eca6ec8079b2835d911807857c8a8", null ],
-    [ "RemoveAliveTarget", "d9/d86/a18724.html#abdb5f624b30a046eed9ca6ad7c347010", null ]
+    [ "npc_alchemist_adrianna", "d9/d86/a18724.html#a310d375bc73c51e407580b063a6543fa", null ],
+    [ "OnGossipHello", "d9/d86/a18724.html#a02ec6a66037d72e30bbe821ceee38691", null ]
 ];

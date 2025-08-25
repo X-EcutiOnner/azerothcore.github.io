@@ -1,9 +1,13 @@
 var a05576 =
 [
-    [ "TimeTrackerSmall", "d7/d33/a05576.html#a38a962c928eac8546d1fd37a094077cc", null ],
-    [ "GetExpiry", "d7/d33/a05576.html#a2ebcfabed1bf252b6afb6c3182142c7b", null ],
-    [ "Passed", "d7/d33/a05576.html#af4455d0ebb784497e9fd1a08cc915062", null ],
-    [ "Reset", "d7/d33/a05576.html#ab8a3c45ffe0e83132e708b5e87625c02", null ],
-    [ "Update", "d7/d33/a05576.html#a6c10a37051caf7c16f1aa057bf2bf7da", null ],
-    [ "i_expiryTime", "d7/d33/a05576.html#a332f650bcfc81fb4b0de1b58ff1e0c9b", null ]
+    [ "IntervalTimer", "d7/d33/a05576.html#a2538976b639e25e63a8ab5927663ade1", null ],
+    [ "GetCurrent", "d7/d33/a05576.html#a93a456d6ff6d74cc889517fc585626e8", null ],
+    [ "GetInterval", "d7/d33/a05576.html#a986bec1dcb7325088517f6721636abcc", null ],
+    [ "Passed", "d7/d33/a05576.html#a9b3ac2407baf9763fa899e35a5c55fbe", null ],
+    [ "Reset", "d7/d33/a05576.html#ae243f18c4c3174b91fa01f6d08b04d4d", null ],
+    [ "SetCurrent", "d7/d33/a05576.html#ab315f686c2777dc21c824d8674479f9f", null ],
+    [ "SetInterval", "d7/d33/a05576.html#a28d95330f971d3a37aaf53e4f16aad4a", null ],
+    [ "Update", "d7/d33/a05576.html#aa1f5b922ea2d95c49924a506ca37a676", null ],
+    [ "_current", "d7/d33/a05576.html#a99c5aec27af00ffbbd83c5adbd2e2016", null ],
+    [ "_interval", "d7/d33/a05576.html#a179584ce91f62ba5e74ae3f34ee32fbc", null ]
 ];

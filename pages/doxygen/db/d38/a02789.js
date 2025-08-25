@@ -1,33 +1,50 @@
 var a02789 =
 [
-    [ "npc_belnistrasz", "de/d84/a14932.html", "de/d84/a14932" ],
-    [ "npc_belnistrasz::npc_belnistraszAI", "d8/dd0/a14936.html", "d8/dd0/a14936" ],
-    [ "npc_idol_room_spawner", "db/d18/a14940.html", "db/d18/a14940" ],
-    [ "npc_idol_room_spawner::npc_idol_room_spawnerAI", "d4/d8f/a14944.html", "d4/d8f/a14944" ],
-    [ "Belnistrasz", "db/d38/a02789.html#ab761030cc73179b77506cee80e54afba", [
-      [ "EVENT_CHANNEL", "db/d38/a02789.html#ab761030cc73179b77506cee80e54afbaa328cf2425c283ee53d5cb9d660a11034", null ],
-      [ "EVENT_IDOL_ROOM_SPAWNER", "db/d38/a02789.html#ab761030cc73179b77506cee80e54afbaa1a8dd12063e47b2533422a696ec5fe63", null ],
-      [ "EVENT_PROGRESS", "db/d38/a02789.html#ab761030cc73179b77506cee80e54afbaa9edbfcbbe26666eab8693f9b070f1635", null ],
-      [ "EVENT_COMPLETE", "db/d38/a02789.html#ab761030cc73179b77506cee80e54afbaa277c4ceb154c858f20df1a3b2b9f23c0", null ],
-      [ "EVENT_FIREBALL", "db/d38/a02789.html#ab761030cc73179b77506cee80e54afbaa2f41794aafc9d878c1d2e3aa735cbf44", null ],
-      [ "EVENT_FROST_NOVA", "db/d38/a02789.html#ab761030cc73179b77506cee80e54afbaabdc6cc62f4c38145542e5be0485df2fc", null ],
-      [ "PATH_ESCORT", "db/d38/a02789.html#ab761030cc73179b77506cee80e54afbaaad37e5267c61b3154576082cc5f0d943", null ],
-      [ "POINT_REACH_IDOL", "db/d38/a02789.html#ab761030cc73179b77506cee80e54afbaac918f6177e0a19d346c351646dc8e53a", null ],
-      [ "QUEST_EXTINGUISHING_THE_IDOL", "db/d38/a02789.html#ab761030cc73179b77506cee80e54afbaab86f59506288a17715a05dc6c3cc9c5e", null ],
-      [ "SAY_QUEST_ACCEPTED", "db/d38/a02789.html#ab761030cc73179b77506cee80e54afbaaae4435ce02d8a471af2a02586524d6f5", null ],
-      [ "SAY_EVENT_START", "db/d38/a02789.html#ab761030cc73179b77506cee80e54afbaa5b99398ffec3de91807ff5682f0a7478", null ],
-      [ "SAY_EVENT_THREE_MIN_LEFT", "db/d38/a02789.html#ab761030cc73179b77506cee80e54afbaa1c27a8e990dc6e00c87e33609397f44a", null ],
-      [ "SAY_EVENT_TWO_MIN_LEFT", "db/d38/a02789.html#ab761030cc73179b77506cee80e54afbaa083570db82270d8a62a772524057254f", null ],
-      [ "SAY_EVENT_ONE_MIN_LEFT", "db/d38/a02789.html#ab761030cc73179b77506cee80e54afbaab32dce7b44868931f08d3604a802dd44", null ],
-      [ "SAY_EVENT_END", "db/d38/a02789.html#ab761030cc73179b77506cee80e54afbaa5f86762aa27777e2322b2e11a3120364", null ],
-      [ "SAY_AGGRO", "db/d38/a02789.html#ab761030cc73179b77506cee80e54afbaa47c752fff069f3e55065795eef2a9bfe", null ],
-      [ "SAY_WATCH_OUT", "db/d38/a02789.html#ab761030cc73179b77506cee80e54afbaaab3d1089e4f3d2693a0a9c5cdc810405", null ],
-      [ "SPELL_ARCANE_INTELLECT", "db/d38/a02789.html#ab761030cc73179b77506cee80e54afbaa7f0e5071bc08579a814ae1cb62cc37e4", null ],
-      [ "SPELL_FIREBALL", "db/d38/a02789.html#ab761030cc73179b77506cee80e54afbaa846055c995374082714483a6b39bc963", null ],
-      [ "SPELL_FROST_NOVA", "db/d38/a02789.html#ab761030cc73179b77506cee80e54afbaab913503b67c5b8f901cfc4f207bcba03", null ],
-      [ "SPELL_IDOL_SHUTDOWN_VISUAL", "db/d38/a02789.html#ab761030cc73179b77506cee80e54afbaa947ac08dacf61227418026a59dcab75e", null ],
-      [ "SPELL_IDOM_ROOM_CAMERA_SHAKE", "db/d38/a02789.html#ab761030cc73179b77506cee80e54afbaa767a89efdf4df9a9978449bdddd9be52", null ]
+    [ "npc_gilthares", "de/d35/a15680.html", "de/d35/a15680" ],
+    [ "npc_gilthares::npc_giltharesAI", "d8/d2a/a15684.html", "d8/d2a/a15684" ],
+    [ "npc_taskmaster_fizzule", "d7/ddd/a15688.html", "d7/ddd/a15688" ],
+    [ "npc_taskmaster_fizzule::npc_taskmaster_fizzuleAI", "d8/d7d/a15692.html", "d8/d7d/a15692" ],
+    [ "npc_twiggy_flathead", "d6/d63/a15696.html", "d6/d63/a15696" ],
+    [ "npc_twiggy_flathead::npc_twiggy_flatheadAI", "df/ddb/a15700.html", "df/ddb/a15700" ],
+    [ "npc_wizzlecrank_shredder", "d3/d6a/a15704.html", "d3/d6a/a15704" ],
+    [ "npc_wizzlecrank_shredder::npc_wizzlecrank_shredderAI", "dc/d69/a15708.html", "dc/d69/a15708" ],
+    [ "Gilthares", "db/d38/a02789.html#aa3e172c8a560dd0d92fb1d8f79b90716", [
+      [ "SAY_GIL_START", "db/d38/a02789.html#aa3e172c8a560dd0d92fb1d8f79b90716a9cc558649c398869a908d76e46580a55", null ],
+      [ "SAY_GIL_AT_LAST", "db/d38/a02789.html#aa3e172c8a560dd0d92fb1d8f79b90716a74625b1d5af887cffe07cc6889f66f94", null ],
+      [ "SAY_GIL_PROCEED", "db/d38/a02789.html#aa3e172c8a560dd0d92fb1d8f79b90716a83573efbb4a65334a79436dadb172c25", null ],
+      [ "SAY_GIL_FREEBOOTERS", "db/d38/a02789.html#aa3e172c8a560dd0d92fb1d8f79b90716add548aa464c97165ed4e9a07e2d26b76", null ],
+      [ "SAY_GIL_AGGRO", "db/d38/a02789.html#aa3e172c8a560dd0d92fb1d8f79b90716a189c2478bea56968035dc5626a361ad9", null ],
+      [ "SAY_GIL_ALMOST", "db/d38/a02789.html#aa3e172c8a560dd0d92fb1d8f79b90716af98466d2079315f8451fe5fd010cfd86", null ],
+      [ "SAY_GIL_SWEET", "db/d38/a02789.html#aa3e172c8a560dd0d92fb1d8f79b90716a53a6c4cad1fc536662a170117dab1f9b", null ],
+      [ "SAY_GIL_FREED", "db/d38/a02789.html#aa3e172c8a560dd0d92fb1d8f79b90716af0bf3f928b89fe85bfd73f9973f02046", null ],
+      [ "QUEST_FREE_FROM_HOLD", "db/d38/a02789.html#aa3e172c8a560dd0d92fb1d8f79b90716a406ffd8f7c4e1a504188c50f2743b36a", null ]
     ] ],
-    [ "AddSC_razorfen_downs", "db/d38/a02789.html#aa1cc9839b8806bd940e01edfee8b8cee", null ],
-    [ "PosSummonSpawner", "db/d38/a02789.html#a72b7e5a7b680a19d8c3fe8378e61f1b9", null ]
+    [ "TaskmasterFizzule", "db/d38/a02789.html#a75148097e6b48058f314d1f1d4fc4ed0", [
+      [ "FACTION_FRIENDLY_F", "db/d38/a02789.html#a75148097e6b48058f314d1f1d4fc4ed0a31d50866a36abfe970a3514cb06962ea", null ],
+      [ "SPELL_FLARE", "db/d38/a02789.html#a75148097e6b48058f314d1f1d4fc4ed0a8046626c29fcfd2e2491ac4f74af6eba", null ],
+      [ "SPELL_FOLLY", "db/d38/a02789.html#a75148097e6b48058f314d1f1d4fc4ed0a736760d92e40d0f4387af0951d3ef13a", null ]
+    ] ],
+    [ "TwiggyFlathead", "db/d38/a02789.html#aa59efdc816049c3fc44f4f97e12a5658", [
+      [ "NPC_BIG_WILL", "db/d38/a02789.html#aa59efdc816049c3fc44f4f97e12a5658a52b94fa0523183a46082d10748f5c26e", null ],
+      [ "NPC_AFFRAY_CHALLENGER", "db/d38/a02789.html#aa59efdc816049c3fc44f4f97e12a5658aa3eb3b7d13bad2106f352684e916714e", null ],
+      [ "SAY_TWIGGY_FLATHEAD_BEGIN", "db/d38/a02789.html#aa59efdc816049c3fc44f4f97e12a5658a28f41773e448294cb2b7bdb0e2196423", null ],
+      [ "SAY_TWIGGY_FLATHEAD_FRAY", "db/d38/a02789.html#aa59efdc816049c3fc44f4f97e12a5658a1e039ea737b8aaa19f4293172019e7bd", null ],
+      [ "SAY_TWIGGY_FLATHEAD_DOWN", "db/d38/a02789.html#aa59efdc816049c3fc44f4f97e12a5658a0a41b6c14d5e6d0fa171a6ce3571243b", null ],
+      [ "SAY_TWIGGY_FLATHEAD_OVER", "db/d38/a02789.html#aa59efdc816049c3fc44f4f97e12a5658afcef9e183c118b65e0e78c8b503eabaa", null ]
+    ] ],
+    [ "Wizzlecrank", "db/d38/a02789.html#ac43046d19bb8d15ff051d8b88111a24d", [
+      [ "SAY_MERCENARY", "db/d38/a02789.html#ac43046d19bb8d15ff051d8b88111a24daf5cf9a9b244c85c38bd02b6148fe9217", null ],
+      [ "SAY_START", "db/d38/a02789.html#ac43046d19bb8d15ff051d8b88111a24da2eae21cbf7d110ee89a9798ef6f00239", null ],
+      [ "SAY_STARTUP1", "db/d38/a02789.html#ac43046d19bb8d15ff051d8b88111a24da38e6de67604407821fa452a13ee74da2", null ],
+      [ "SAY_STARTUP2", "db/d38/a02789.html#ac43046d19bb8d15ff051d8b88111a24da23d6a197b8495317fae68ebc5426bfd7", null ],
+      [ "SAY_PROGRESS_1", "db/d38/a02789.html#ac43046d19bb8d15ff051d8b88111a24dac7ef023ed2cd6e71dcfa4b57f34ffb21", null ],
+      [ "SAY_PROGRESS_2", "db/d38/a02789.html#ac43046d19bb8d15ff051d8b88111a24da967473f354dae95832b5e82733f4cced", null ],
+      [ "SAY_PROGRESS_3", "db/d38/a02789.html#ac43046d19bb8d15ff051d8b88111a24da25cbd1006b2e610756fbd3227fb87dcc", null ],
+      [ "SAY_END", "db/d38/a02789.html#ac43046d19bb8d15ff051d8b88111a24da40884932ffbbf14d6c380b9022bcfe97", null ],
+      [ "QUEST_ESCAPE", "db/d38/a02789.html#ac43046d19bb8d15ff051d8b88111a24dac283b4a9a83bbf1c8f03006b37d75208", null ],
+      [ "NPC_PILOT_WIZZ", "db/d38/a02789.html#ac43046d19bb8d15ff051d8b88111a24dabea7d3cfb3795470ea680285a2de300b", null ],
+      [ "NPC_MERCENARY", "db/d38/a02789.html#ac43046d19bb8d15ff051d8b88111a24da3fe4be631c0b988a493e3867b76fab3f", null ]
+    ] ],
+    [ "AddSC_the_barrens", "db/d38/a02789.html#a89bb85fa847a65b610f6b4d1f9f0214c", null ],
+    [ "AffrayChallengerLoc", "db/d38/a02789.html#a0e553820217161ed24e533b560f8ab03", null ]
 ];

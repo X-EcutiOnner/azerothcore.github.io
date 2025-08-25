@@ -1,12 +1,6 @@
 var a12968 =
 [
-    [ "npc_koltira_deathweaverAI", "db/d91/a12968.html#adbc46fce90170aec986faacf012bd2b2", null ],
-    [ "MovementInform", "db/d91/a12968.html#afed53c190d875d0e59775ebfeb749fcf", null ],
-    [ "Reset", "db/d91/a12968.html#ac07053d3798d57449c23bfff68e12f1b", null ],
-    [ "sGossipSelect", "db/d91/a12968.html#af481beffaeb97a69483a62fd5f110616", null ],
-    [ "sQuestAccept", "db/d91/a12968.html#a83fa04558bc7617b561ec05da9f2a6a1", null ],
-    [ "StartEvent", "db/d91/a12968.html#aa4f0df71fb88f6685f2c27f19a34b2b3", null ],
-    [ "SummonedCreatureDies", "db/d91/a12968.html#a967575fafe29db364b4e6a00a5e0457b", null ],
-    [ "UpdateAI", "db/d91/a12968.html#ac90ed956ba45b6363a21af76393126ac", null ],
-    [ "_valrothGUID", "db/d91/a12968.html#ad041942412fb8288ff5f850ee6472e78", null ]
+    [ "npc_scarlet_miner_cartAI", "dc/dd6/a12972.html", "dc/dd6/a12972" ],
+    [ "npc_scarlet_miner_cart", "db/d91/a12968.html#a987247939c6fd576d4b8d541175ecb6b", null ],
+    [ "GetAI", "db/d91/a12968.html#a0f1436f0f6784af5ab62bf91df355731", null ]
 ];

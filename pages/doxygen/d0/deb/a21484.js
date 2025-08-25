@@ -1,8 +1,6 @@
 var a21484 =
 [
-    [ "npc_azure_captainAI", "d0/deb/a21484.html#a15b1acc73108c6802dbf3ac2ed0734c9", null ],
-    [ "Reset", "d0/deb/a21484.html#a13d25bf1612086cc4bb5bc2078105f18", null ],
-    [ "UpdateAI", "d0/deb/a21484.html#ae50ac21138e12be43caa93e37062051e", null ],
-    [ "uiMortalStrikeTimer", "d0/deb/a21484.html#a791a3ee9b67e72e1dcb392b9ebc2359a", null ],
-    [ "uiWhirlwindTimer", "d0/deb/a21484.html#a2e3439976a6e84a60be765cb0b929798", null ]
+    [ "npc_azure_mage_slayerAI", "db/d54/a21488.html", "db/d54/a21488" ],
+    [ "npc_azure_mage_slayer", "d0/deb/a21484.html#ad5e5453235c224f4fac40244516dd1ad", null ],
+    [ "GetAI", "d0/deb/a21484.html#a9b795915100f47b11a65abdfdcbf39f4", null ]
 ];

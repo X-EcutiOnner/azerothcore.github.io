@@ -1,9 +1,9 @@
 var a24452 =
 [
-    [ "npc_pet_shaman_fire_elemental", "d8/d7d/a24452.html#a3428642963fc9e7588ec92fd838f1af9", null ],
-    [ "InitializeAI", "d8/d7d/a24452.html#aef4865f83ce0c73efe0c47a11ac87594", null ],
-    [ "JustEngagedWith", "d8/d7d/a24452.html#ac274b9edb03ab13a8e95d8c4fe5055db", null ],
-    [ "UpdateAI", "d8/d7d/a24452.html#a2280e5cc5187a91917a1e517e80e960d", null ],
-    [ "_events", "d8/d7d/a24452.html#aa4578cdbe41d28e399247c84c9fe8049", null ],
-    [ "_initAttack", "d8/d7d/a24452.html#a2df79acc05dd8489e9e994e044b45404", null ]
+    [ "npc_pet_gen_toxic_wasteling", "d8/d7d/a24452.html#a550a1a9324f605b1a9fd715571f819b7", null ],
+    [ "EnterEvadeMode", "d8/d7d/a24452.html#abe25deca7fd1c319085995657d62f22a", null ],
+    [ "MovementInform", "d8/d7d/a24452.html#aec73d567c3bd178ffee3bdece83a409e", null ],
+    [ "Reset", "d8/d7d/a24452.html#a06a8be653c8685aaf28aee1d1d3ae114", null ],
+    [ "UpdateAI", "d8/d7d/a24452.html#a22f96d995fcc722c0e95c4f5692cc128", null ],
+    [ "checkTimer", "d8/d7d/a24452.html#aafe402e0443bd39a1b7aa274d95edad6", null ]
 ];

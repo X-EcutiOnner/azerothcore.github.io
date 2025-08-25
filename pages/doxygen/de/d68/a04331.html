@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/common/Utilities/StringFormat.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/common/Utilities/Geometry.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,77 +105,326 @@ $(document).ready(function(){initNavTree('de/d68/a04331.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#namespaces">Namespaces</a> &#124;
-<a href="#typedef-members">Typedefs</a> &#124;
 <a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">StringFormat.h File Reference</div></div>
+  <div class="headertitle"><div class="title">Geometry.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">Define.h</a>&quot;</code><br />
-<code>#include &lt;fmt/chrono.h&gt;</code><br />
-<code>#include &lt;fmt/format.h&gt;</code><br />
-<code>#include &lt;fmt/printf.h&gt;</code><br />
-<code>#include &lt;locale&gt;</code><br />
+<div class="textblock"><code>#include &lt;cstdlib&gt;</code><br />
+<code>#include &lt;math.h&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
-Namespaces</h2></td></tr>
-<tr class="memitem:db/da6/a04782"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/da6/a04782.html">Acore</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:d9/d75/a04805"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d75/a04805.html">Acore::String</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="typedef-members" name="typedef-members"></a>
-Typedefs</h2></td></tr>
-<tr class="memitem:a32c972cafca136b88de5b298d6cba338"><td class="memTemplParams" colspan="2">template&lt;typename... Args&gt; </td></tr>
-<tr class="memitem:a32c972cafca136b88de5b298d6cba338"><td class="memTemplItemLeft" align="right" valign="top">using&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../db/da6/a04782.html#a32c972cafca136b88de5b298d6cba338">Acore::FormatString</a> = fmt::format_string&lt; Args... &gt;</td></tr>
-<tr class="separator:a32c972cafca136b88de5b298d6cba338"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:a868406b9609960d4ae0189588c8cbbf4"><td class="memTemplParams" colspan="2">template&lt;typename... Args&gt; </td></tr>
-<tr class="memitem:a868406b9609960d4ae0189588c8cbbf4"><td class="memTemplItemLeft" align="right" valign="top">std::string&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../db/da6/a04782.html#a868406b9609960d4ae0189588c8cbbf4">Acore::StringFormat</a> (FormatString&lt; Args... &gt; fmt, Args &amp;&amp;... args)</td></tr>
-<tr class="memdesc:a868406b9609960d4ae0189588c8cbbf4"><td class="mdescLeft">&#160;</td><td class="mdescRight">Default AC string format function.  <a href="../../db/da6/a04782.html#a868406b9609960d4ae0189588c8cbbf4">More...</a><br /></td></tr>
-<tr class="separator:a868406b9609960d4ae0189588c8cbbf4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6f5584cc7346fd1972b3e8a74036467f"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/da6/a04782.html#a6f5584cc7346fd1972b3e8a74036467f">Acore::IsFormatEmptyOrNull</a> (char const *fmt)</td></tr>
-<tr class="memdesc:a6f5584cc7346fd1972b3e8a74036467f"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns true if the given char pointer is null.  <a href="../../db/da6/a04782.html#a6f5584cc7346fd1972b3e8a74036467f">More...</a><br /></td></tr>
-<tr class="separator:a6f5584cc7346fd1972b3e8a74036467f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a84459e91f517fc4f79414cc23370b9f1"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/da6/a04782.html#a84459e91f517fc4f79414cc23370b9f1">Acore::IsFormatEmptyOrNull</a> (std::string_view fmt)</td></tr>
-<tr class="memdesc:a84459e91f517fc4f79414cc23370b9f1"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns true if the given std::string is empty.  <a href="../../db/da6/a04782.html#a84459e91f517fc4f79414cc23370b9f1">More...</a><br /></td></tr>
-<tr class="separator:a84459e91f517fc4f79414cc23370b9f1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3213c569cd380bda3b76fe3f730899ff"><td class="memTemplParams" colspan="2">template&lt;class Str &gt; </td></tr>
-<tr class="memitem:a3213c569cd380bda3b76fe3f730899ff"><td class="memTemplItemLeft" align="right" valign="top"><a class="el" href="../../d2/d27/a04301.html#aae2dc50bce825b002235487401b252e8">AC_COMMON_API</a> Str&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d9/d75/a04805.html#a3213c569cd380bda3b76fe3f730899ff">Acore::String::Trim</a> (const Str &amp;s, const std::locale &amp;loc=std::locale())</td></tr>
-<tr class="separator:a3213c569cd380bda3b76fe3f730899ff"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac78200daa5bc5f1d4c50a1df47a7a4db"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/d27/a04301.html#aae2dc50bce825b002235487401b252e8">AC_COMMON_API</a> std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d75/a04805.html#ac78200daa5bc5f1d4c50a1df47a7a4db">Acore::String::TrimRightInPlace</a> (std::string &amp;str)</td></tr>
-<tr class="separator:ac78200daa5bc5f1d4c50a1df47a7a4db"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a712bea71ec99d750664fd46c690a1ad9"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/d27/a04301.html#aae2dc50bce825b002235487401b252e8">AC_COMMON_API</a> std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d75/a04805.html#a712bea71ec99d750664fd46c690a1ad9">Acore::String::AddSuffixIfNotExists</a> (std::string str, const char suffix)</td></tr>
-<tr class="memdesc:a712bea71ec99d750664fd46c690a1ad9"><td class="mdescLeft">&#160;</td><td class="mdescRight">Util function to add a suffix char. Can be used to add a slash at the end of a path.  <a href="../../d9/d75/a04805.html#a712bea71ec99d750664fd46c690a1ad9">More...</a><br /></td></tr>
-<tr class="separator:a712bea71ec99d750664fd46c690a1ad9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aaa7f21af5991452196a22cd79e127825"><td class="memTemplParams" colspan="2">template&lt;typename T , FMT_ENABLE_IF(std::is_enum_v&lt; T &gt;) &gt; </td></tr>
-<tr class="memitem:aaa7f21af5991452196a22cd79e127825"><td class="memTemplItemLeft" align="right" valign="top">auto&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../de/d68/a04331.html#aaa7f21af5991452196a22cd79e127825">format_as</a> (T f)</td></tr>
-<tr class="separator:aaa7f21af5991452196a22cd79e127825"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5ce837ff4fb41332a25e6b0dc0f5b848"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d68/a04331.html#a5ce837ff4fb41332a25e6b0dc0f5b848">getAngle</a> (float startX, float startY, float destX, float destY)</td></tr>
+<tr class="separator:a5ce837ff4fb41332a25e6b0dc0f5b848"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a61d2d33d44f335480a833a04436620ba"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d68/a04331.html#a61d2d33d44f335480a833a04436620ba">getSlopeAngle</a> (float startX, float startY, float startZ, float destX, float destY, float destZ)</td></tr>
+<tr class="separator:a61d2d33d44f335480a833a04436620ba"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0b02845f56a27df498d0598d259ca5e1"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d68/a04331.html#a0b02845f56a27df498d0598d259ca5e1">getSlopeAngleAbs</a> (float startX, float startY, float startZ, float destX, float destY, float destZ)</td></tr>
+<tr class="separator:a0b02845f56a27df498d0598d259ca5e1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a18ed540c327b1fd656065d8cbfc4844f"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d68/a04331.html#a18ed540c327b1fd656065d8cbfc4844f">getCircleAreaByRadius</a> (double radius)</td></tr>
+<tr class="separator:a18ed540c327b1fd656065d8cbfc4844f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a62641094ea3c1b9506faefa7a35ba456"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d68/a04331.html#a62641094ea3c1b9506faefa7a35ba456">getCirclePerimeterByRadius</a> (double radius)</td></tr>
+<tr class="separator:a62641094ea3c1b9506faefa7a35ba456"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a95ce6760beb476a4c24ff46d3069103f"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d68/a04331.html#a95ce6760beb476a4c24ff46d3069103f">getCylinderVolume</a> (double height, double radius)</td></tr>
+<tr class="separator:a95ce6760beb476a4c24ff46d3069103f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Function Documentation</h2>
-<a id="aaa7f21af5991452196a22cd79e127825" name="aaa7f21af5991452196a22cd79e127825"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aaa7f21af5991452196a22cd79e127825">&#9670;&#160;</a></span>format_as()</h2>
+<a id="a5ce837ff4fb41332a25e6b0dc0f5b848" name="a5ce837ff4fb41332a25e6b0dc0f5b848"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5ce837ff4fb41332a25e6b0dc0f5b848">&#9670;&#160;</a></span>getAngle()</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;typename T , FMT_ENABLE_IF(std::is_enum_v&lt; T &gt;) &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">auto format_as </td>
+          <td class="memname">float getAngle </td>
           <td>(</td>
-          <td class="paramtype">T&#160;</td>
-          <td class="paramname"><em>f</em></td><td>)</td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>startX</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>startY</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>destX</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>destY</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<p >Utility library to define some global function for geometric calculations </p>
+<div class="fragment"><div class="line"><span class="lineno">   31</span>{</div>
+<div class="line"><span class="lineno">   32</span>    <span class="keyword">auto</span> dx = destX - startX;</div>
+<div class="line"><span class="lineno">   33</span>    <span class="keyword">auto</span> dy = destY - startY;</div>
+<div class="line"><span class="lineno">   34</span> </div>
+<div class="line"><span class="lineno">   35</span>    <span class="keyword">auto</span> ang = std::atan2(dy, dx);</div>
+<div class="line"><span class="lineno">   36</span>    ang = (ang &gt;= 0) ? ang : 2 * <span class="keywordtype">float</span>(M_PI) + ang;</div>
+<div class="line"><span class="lineno">   37</span>    <span class="keywordflow">return</span> ang;</div>
+<div class="line"><span class="lineno">   38</span>}</div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00087">Position::GetAngle()</a>.</p>
+
+</div>
+</div>
+<a id="a18ed540c327b1fd656065d8cbfc4844f" name="a18ed540c327b1fd656065d8cbfc4844f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a18ed540c327b1fd656065d8cbfc4844f">&#9670;&#160;</a></span>getCircleAreaByRadius()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">double getCircleAreaByRadius </td>
+          <td>(</td>
+          <td class="paramtype">double&#160;</td>
+          <td class="paramname"><em>radius</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   72</span>{ <span class="keywordflow">return</span> fmt::underlying(f); }</div>
+<div class="fragment"><div class="line"><span class="lineno">   52</span>{</div>
+<div class="line"><span class="lineno">   53</span>    <span class="keywordflow">return</span> radius * radius * M_PI;</div>
+<div class="line"><span class="lineno">   54</span>}</div>
 </div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00061">getCylinderVolume()</a>, and <a class="el" href="../../#l00046">getOutOfWater()</a>.</p>
+
+</div>
+</div>
+<a id="a62641094ea3c1b9506faefa7a35ba456" name="a62641094ea3c1b9506faefa7a35ba456"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a62641094ea3c1b9506faefa7a35ba456">&#9670;&#160;</a></span>getCirclePerimeterByRadius()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">double getCirclePerimeterByRadius </td>
+          <td>(</td>
+          <td class="paramtype">double&#160;</td>
+          <td class="paramname"><em>radius</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   57</span>{</div>
+<div class="line"><span class="lineno">   58</span>    <span class="keywordflow">return</span> radius * M_PI;</div>
+<div class="line"><span class="lineno">   59</span>}</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a95ce6760beb476a4c24ff46d3069103f" name="a95ce6760beb476a4c24ff46d3069103f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a95ce6760beb476a4c24ff46d3069103f">&#9670;&#160;</a></span>getCylinderVolume()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">double getCylinderVolume </td>
+          <td>(</td>
+          <td class="paramtype">double&#160;</td>
+          <td class="paramname"><em>height</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">double&#160;</td>
+          <td class="paramname"><em>radius</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   62</span>{</div>
+<div class="line"><span class="lineno">   63</span>    <span class="keywordflow">return</span> height * <a class="code hl_function" href="../../de/d68/a04331.html#a18ed540c327b1fd656065d8cbfc4844f">getCircleAreaByRadius</a>(radius);</div>
+<div class="line"><span class="lineno">   64</span>}</div>
+<div class="ttc" id="aa04331_html_a18ed540c327b1fd656065d8cbfc4844f"><div class="ttname"><a href="../../de/d68/a04331.html#a18ed540c327b1fd656065d8cbfc4844f">getCircleAreaByRadius</a></div><div class="ttdeci">double getCircleAreaByRadius(double radius)</div><div class="ttdef"><b>Definition:</b> Geometry.h:51</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00051">getCircleAreaByRadius()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00031">getWeight()</a>.</p>
+
+</div>
+</div>
+<a id="a61d2d33d44f335480a833a04436620ba" name="a61d2d33d44f335480a833a04436620ba"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a61d2d33d44f335480a833a04436620ba">&#9670;&#160;</a></span>getSlopeAngle()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">float getSlopeAngle </td>
+          <td>(</td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>startX</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>startY</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>startZ</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>destX</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>destY</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>destZ</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   41</span>{</div>
+<div class="line"><span class="lineno">   42</span>    <span class="keywordtype">float</span> floorDist = std::sqrt(pow(startY - destY, 2.0f) + pow(startX - destX, 2.0f));</div>
+<div class="line"><span class="lineno">   43</span>    <span class="keywordflow">return</span> atan(std::abs(destZ - startZ) / std::abs(floorDist));</div>
+<div class="line"><span class="lineno">   44</span>}</div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00009">dtQueryFilterExt::getCost()</a>, and <a class="el" href="../../#l00046">getSlopeAngleAbs()</a>.</p>
+
+</div>
+</div>
+<a id="a0b02845f56a27df498d0598d259ca5e1" name="a0b02845f56a27df498d0598d259ca5e1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0b02845f56a27df498d0598d259ca5e1">&#9670;&#160;</a></span>getSlopeAngleAbs()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">float getSlopeAngleAbs </td>
+          <td>(</td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>startX</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>startY</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>startZ</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>destX</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>destY</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>destZ</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   47</span>{</div>
+<div class="line"><span class="lineno">   48</span>    <span class="keywordflow">return</span> std::abs(<a class="code hl_function" href="../../de/d68/a04331.html#a61d2d33d44f335480a833a04436620ba">getSlopeAngle</a>(startX, startY, startZ, destX, destY, destZ));</div>
+<div class="line"><span class="lineno">   49</span>}</div>
+<div class="ttc" id="aa04331_html_a61d2d33d44f335480a833a04436620ba"><div class="ttname"><a href="../../de/d68/a04331.html#a61d2d33d44f335480a833a04436620ba">getSlopeAngle</a></div><div class="ttdeci">float getSlopeAngle(float startX, float startY, float startZ, float destX, float destY, float destZ)</div><div class="ttdef"><b>Definition:</b> Geometry.h:40</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00040">getSlopeAngle()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l01013">PathGenerator::GetRequiredHeightToClimb()</a>.</p>
+
 </div>
 </div>
 </div><!-- contents -->
@@ -183,8 +432,8 @@ template&lt;typename T , FMT_ENABLE_IF(std::is_enum_v&lt; T &gt;) &gt; </div>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1070012e9e40376f8468ff0aa5b77c71.html">common</a></li><li class="navelem"><a class="el" href="../../dir_5b60c41b3dc3977dce15646b3e6a9085.html">Utilities</a></li><li class="navelem"><a class="el" href="../../de/d68/a04331.html">StringFormat.h</a></li>
-    <li class="footer">Generated on Mon Aug 18 2025 20:47:04 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1070012e9e40376f8468ff0aa5b77c71.html">common</a></li><li class="navelem"><a class="el" href="../../dir_5b60c41b3dc3977dce15646b3e6a9085.html">Utilities</a></li><li class="navelem"><a class="el" href="../../de/d68/a04331.html">Geometry.h</a></li>
+    <li class="footer">Generated on Mon Aug 25 2025 20:45:16 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

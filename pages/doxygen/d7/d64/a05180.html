@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: Acore::Impl::GenericHashImpl Struct Reference</title>
+<title>AzerothCore: Acore::Crypto::Constants Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,46 +105,27 @@ $(document).ready(function(){initNavTree('d7/d64/a05180.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#pub-types">Public Types</a> &#124;
-<a href="#pub-static-methods">Static Public Member Functions</a> &#124;
+<a href="#pub-static-attribs">Static Public Attributes</a> &#124;
 <a href="../../d3/dda/a05177.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">Acore::Impl::GenericHashImpl Struct Reference</div></div>
+  <div class="headertitle"><div class="title">Acore::Crypto::Constants Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">CryptoHash.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">CryptoConstants.h</a>&quot;</code></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-types" name="pub-types"></a>
-Public Types</h2></td></tr>
-<tr class="memitem:a03a4f6e31f0cb838b857997a0272f90b"><td class="memItemLeft" align="right" valign="top">typedef EVP_MD const *(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d64/a05180.html#a03a4f6e31f0cb838b857997a0272f90b">HashCreator</a>) ()</td></tr>
-<tr class="separator:a03a4f6e31f0cb838b857997a0272f90b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
-Static Public Member Functions</h2></td></tr>
-<tr class="memitem:a59487cdc54d416f8b2a88eb54ae21c8d"><td class="memItemLeft" align="right" valign="top">static EVP_MD_CTX *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d64/a05180.html#a59487cdc54d416f8b2a88eb54ae21c8d">MakeCTX</a> () noexcept</td></tr>
-<tr class="separator:a59487cdc54d416f8b2a88eb54ae21c8d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7e607b03e0758d10156e201e8d601db4"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d64/a05180.html#a7e607b03e0758d10156e201e8d601db4">DestroyCTX</a> (EVP_MD_CTX *ctx)</td></tr>
-<tr class="separator:a7e607b03e0758d10156e201e8d601db4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-attribs" name="pub-static-attribs"></a>
+Static Public Attributes</h2></td></tr>
+<tr class="memitem:ab3ea6cdc55c7a1ba84db796cf18aaaf1"><td class="memItemLeft" align="right" valign="top">static constexpr std::size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d64/a05180.html#ab3ea6cdc55c7a1ba84db796cf18aaaf1">MD5_DIGEST_LENGTH_BYTES</a> = 16</td></tr>
+<tr class="separator:ab3ea6cdc55c7a1ba84db796cf18aaaf1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acc400beaab2819b6e9799b3fbd9c3dde"><td class="memItemLeft" align="right" valign="top">static constexpr std::size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d64/a05180.html#acc400beaab2819b6e9799b3fbd9c3dde">SHA1_DIGEST_LENGTH_BYTES</a> = 20</td></tr>
+<tr class="separator:acc400beaab2819b6e9799b3fbd9c3dde"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a218da21da27931b95ab95a0f5186318a"><td class="memItemLeft" align="right" valign="top">static constexpr std::size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d64/a05180.html#a218da21da27931b95ab95a0f5186318a">SHA256_DIGEST_LENGTH_BYTES</a> = 32</td></tr>
+<tr class="separator:a218da21da27931b95ab95a0f5186318a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Member Typedef Documentation</h2>
-<a id="a03a4f6e31f0cb838b857997a0272f90b" name="a03a4f6e31f0cb838b857997a0272f90b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a03a4f6e31f0cb838b857997a0272f90b">&#9670;&#160;</a></span>HashCreator</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">typedef EVP_MD const  *(* Acore::Impl::GenericHashImpl::HashCreator) ()</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<h2 class="groupheader">Member Function Documentation</h2>
-<a id="a7e607b03e0758d10156e201e8d601db4" name="a7e607b03e0758d10156e201e8d601db4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7e607b03e0758d10156e201e8d601db4">&#9670;&#160;</a></span>DestroyCTX()</h2>
+<div class="textblock"></div><h2 class="groupheader">Member Data Documentation</h2>
+<a id="ab3ea6cdc55c7a1ba84db796cf18aaaf1" name="ab3ea6cdc55c7a1ba84db796cf18aaaf1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab3ea6cdc55c7a1ba84db796cf18aaaf1">&#9670;&#160;</a></span>MD5_DIGEST_LENGTH_BYTES</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -153,27 +134,20 @@ Static Public Member Functions</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">static void Acore::Impl::GenericHashImpl::DestroyCTX </td>
-          <td>(</td>
-          <td class="paramtype">EVP_MD_CTX *&#160;</td>
-          <td class="paramname"><em>ctx</em></td><td>)</td>
-          <td></td>
+          <td class="memname">constexpr std::size_t Acore::Crypto::Constants::MD5_DIGEST_LENGTH_BYTES = 16</td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+<span class="mlabels"><span class="mlabel">static</span><span class="mlabel">constexpr</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   38</span>{ EVP_MD_CTX_free(ctx); }</div>
-</div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00081">Acore::Impl::GenericHash&lt; HashCreator, DigestLength &gt;::~GenericHash()</a>, and <a class="el" href="../../#l00076">Acore::Impl::GenericHMAC&lt; HashCreator, DigestLength &gt;::~GenericHMAC()</a>.</p>
 
 </div>
 </div>
-<a id="a59487cdc54d416f8b2a88eb54ae21c8d" name="a59487cdc54d416f8b2a88eb54ae21c8d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a59487cdc54d416f8b2a88eb54ae21c8d">&#9670;&#160;</a></span>MakeCTX()</h2>
+<a id="acc400beaab2819b6e9799b3fbd9c3dde" name="acc400beaab2819b6e9799b3fbd9c3dde"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acc400beaab2819b6e9799b3fbd9c3dde">&#9670;&#160;</a></span>SHA1_DIGEST_LENGTH_BYTES</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -182,21 +156,39 @@ Static Public Member Functions</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">static EVP_MD_CTX * Acore::Impl::GenericHashImpl::MakeCTX </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
+          <td class="memname">constexpr std::size_t Acore::Crypto::Constants::SHA1_DIGEST_LENGTH_BYTES = 20</td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span><span class="mlabel">noexcept</span></span>  </td>
+<span class="mlabels"><span class="mlabel">static</span><span class="mlabel">constexpr</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   37</span>{ <span class="keywordflow">return</span> EVP_MD_CTX_new(); }</div>
-</div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00100">Acore::Impl::GenericHash&lt; HashCreator, DigestLength &gt;::operator=()</a>, and <a class="el" href="../../#l00097">Acore::Impl::GenericHMAC&lt; HashCreator, DigestLength &gt;::operator=()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00043">GetCheckPacketBaseSize()</a>, <a class="el" href="../../#l00563">WardenWin::HandleData()</a>, <a class="el" href="../../#l00230">WardenWin::HandleHashResult()</a>, and <a class="el" href="../../#l00156">WardenWin::InitializeModule()</a>.</p>
+
+</div>
+</div>
+<a id="a218da21da27931b95ab95a0f5186318a" name="a218da21da27931b95ab95a0f5186318a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a218da21da27931b95ab95a0f5186318a">&#9670;&#160;</a></span>SHA256_DIGEST_LENGTH_BYTES</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">constexpr std::size_t Acore::Crypto::Constants::SHA256_DIGEST_LENGTH_BYTES = 32</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span><span class="mlabel">constexpr</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
 
 </div>
 </div>
@@ -205,8 +197,8 @@ Static Public Member Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../db/da6/a04782.html">Acore</a></li><li class="navelem"><a class="el" href="../../de/d4c/a04794.html">Impl</a></li><li class="navelem"><a class="el" href="../../d7/d64/a05180.html">GenericHashImpl</a></li>
-    <li class="footer">Generated on Mon Aug 18 2025 20:49:20 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d2/d5c/a04788.html">Acore</a></li><li class="navelem"><a class="el" href="../../d5/d6b/a04799.html">Crypto</a></li><li class="navelem"><a class="el" href="../../d7/d64/a05180.html">Constants</a></li>
+    <li class="footer">Generated on Mon Aug 25 2025 20:47:36 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

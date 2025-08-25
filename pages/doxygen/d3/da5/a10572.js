@@ -1,7 +1,5 @@
 var a10572 =
 [
-    [ "Flags", "d3/da5/a10572.html#a46bfcae3e4788d6ea4e6ee71b8a16edd", null ],
-    [ "TabFlags", "d3/da5/a10572.html#af9c7b68d1bd48da88f65fa40a01ccc72", null ],
-    [ "TabWithdrawItemLimit", "d3/da5/a10572.html#af16392abbddf27a8b21fd21d998501e6", null ],
-    [ "WithdrawGoldLimit", "d3/da5/a10572.html#a3dc50115a24b686d3a2fa9e28a7042af", null ]
+    [ "GuildGetRoster", "d3/da5/a10572.html#a9beccc6ee2416633c57d2da31fdc021a", null ],
+    [ "Read", "d3/da5/a10572.html#af795ad992ec1b55d741227bd2d4a62d1", null ]
 ];

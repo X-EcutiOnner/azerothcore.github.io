@@ -1,7 +1,6 @@
 var a09052 =
 [
-    [ "GetAntiDosPolicyForOpcode", "d0/d3d/a09052.html#a9bbbc92f18c1c34c3359d0cad4299c2d", null ],
-    [ "instance", "d0/d3d/a09052.html#a859596f153aa470fa503f67092e26160", null ],
-    [ "LoadAntiDosOpcodePolicies", "d0/d3d/a09052.html#a9bd2c1a1ce11d9a50971d169a353e7f6", null ],
-    [ "_antiDosOpcodePolicies", "d0/d3d/a09052.html#acb7a5639f7ba378483e50aba8e93d68a", null ]
+    [ "m_guid", "d0/d3d/a09052.html#afa8383c81a2d75f9ead2e8f3daa29086", null ],
+    [ "m_instance", "d0/d3d/a09052.html#a8bc0c5e1cf45073f054c5154c21b3d72", null ],
+    [ "m_state", "d0/d3d/a09052.html#a3ac18fb8f5d386e3245a2435e31e45e1", null ]
 ];

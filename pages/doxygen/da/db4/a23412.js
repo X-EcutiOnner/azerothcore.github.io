@@ -1,6 +1,10 @@
 var a23412 =
 [
-    [ "HandlePeriodic", "da/db4/a23412.html#af6c30bb292a69d5eaaaf75c8a76111ea", null ],
-    [ "PrepareAuraScript", "da/db4/a23412.html#a75515896f3d94d227963a3c5258e2d0d", null ],
-    [ "Register", "da/db4/a23412.html#aeacb1ffc287cc7128366ee0484c2994b", null ]
+    [ "boss_warlord_kalithresh", "da/db4/a23412.html#afcf2288fbea2d5010c41344ce0247559", null ],
+    [ "JustDied", "da/db4/a23412.html#a1947562aa9dafea371e2f2da824a3f65", null ],
+    [ "JustEngagedWith", "da/db4/a23412.html#a2712f5c363c3929550b77ef2536b1385", null ],
+    [ "KilledUnit", "da/db4/a23412.html#a06855288497f5335a236867ef681d3f8", null ],
+    [ "MoveInLineOfSight", "da/db4/a23412.html#a544da19b6c3a6f159ed6b1639def1071", null ],
+    [ "Reset", "da/db4/a23412.html#a89e3bac7eeb3a77e0a7a22d8de9f1024", null ],
+    [ "_introDone", "da/db4/a23412.html#a8e07118bb6fa249178cc081e2b393d2d", null ]
 ];

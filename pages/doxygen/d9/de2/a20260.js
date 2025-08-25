@@ -1,10 +1,14 @@
 var a20260 =
 [
-    [ "HandleEffectPeriodic", "d9/de2/a20260.html#aa62be73e00d9cb512806787eaf1c4144", null ],
-    [ "Load", "d9/de2/a20260.html#ab31989a4abd6b5cb08818b0e082c7d9f", null ],
-    [ "PrepareAuraScript", "d9/de2/a20260.html#ad9664bff267b330565d3c706e1752e9d", null ],
-    [ "Register", "d9/de2/a20260.html#ad971837f4f0da07b21271fb2b5ac1715", null ],
-    [ "Validate", "d9/de2/a20260.html#a3f6653b4ca202d9b0971189930e8b463", null ],
-    [ "_counter", "d9/de2/a20260.html#a3e7343f124b66a55d9a6cbf0ab085309", null ],
-    [ "_prev", "d9/de2/a20260.html#a9dd8f32c8ec709a14be15b46745b692b", null ]
+    [ "npc_ulduar_hodir_priestAI", "d9/de2/a20260.html#aaa57c813d15ebf0c08a43e4530e5acdd", null ],
+    [ "AttackStart", "d9/de2/a20260.html#a54058aacbf9e49f42f4f84779e0ec8ea", null ],
+    [ "CanAIAttack", "d9/de2/a20260.html#a769a825c8e33bce3a130dbec53072aa4", null ],
+    [ "EnterEvadeMode", "d9/de2/a20260.html#a2d92c0e03de238de439ccb3a10819cd1", null ],
+    [ "JustDied", "d9/de2/a20260.html#a23a3783dc151bb7f1c5c4183b22578b0", null ],
+    [ "MoveInLineOfSight", "d9/de2/a20260.html#aaa3764a042473d20526758553b968a39", null ],
+    [ "ScheduleAbilities", "d9/de2/a20260.html#aab32336d42900a275613a227ccba18a7", null ],
+    [ "SpellHit", "d9/de2/a20260.html#af6afbd5b0560fc4665ecb0d00010ecbc", null ],
+    [ "UpdateAI", "d9/de2/a20260.html#af2b162485414ea0cdda3b19d15c2686f", null ],
+    [ "events", "d9/de2/a20260.html#afdc842e08125223760d1eac105aef65b", null ],
+    [ "pInstance", "d9/de2/a20260.html#a9630107a0a8f128c6b62493163a9e246", null ]
 ];

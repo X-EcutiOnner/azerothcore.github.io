@@ -1,17 +1,13 @@
 var a22528 =
 [
-    [ "OutdoorPvPHP", "d2/df4/a22528.html#a19118d7facc4a745e391491fb7d95421", null ],
-    [ "FillInitialWorldStates", "d2/df4/a22528.html#a4ecc55395f1f792075e07026e1ccd171", null ],
-    [ "GetAllianceTowersControlled", "d2/df4/a22528.html#ae6d3a1561b94d92539a5dd8b5ac56689", null ],
-    [ "GetHordeTowersControlled", "d2/df4/a22528.html#a9395b6966bcdd36b448ca1c403f17873", null ],
-    [ "HandleKillImpl", "d2/df4/a22528.html#aad7804f10c42f6643397d673ba4e9bee", null ],
-    [ "HandlePlayerEnterZone", "d2/df4/a22528.html#a117149e3db7fa02fdcfab05a6ff6de18", null ],
-    [ "HandlePlayerLeaveZone", "d2/df4/a22528.html#abf21499824ad64aa7a26a4b33090783e", null ],
-    [ "SendRemoveWorldStates", "d2/df4/a22528.html#ac94c44783b2141c751d5c16a24bce8d4", null ],
-    [ "SetAllianceTowersControlled", "d2/df4/a22528.html#a1f9bbc083ae0bb7c00a303909ab043f5", null ],
-    [ "SetHordeTowersControlled", "d2/df4/a22528.html#ae5de375e1ec88dc5ce0059490596a935", null ],
-    [ "SetupOutdoorPvP", "d2/df4/a22528.html#aee60f1d1da4d6eecd0e66cf975272979", null ],
-    [ "Update", "d2/df4/a22528.html#aeec44f41e6d6fe7c768bb738a3eafb47", null ],
-    [ "m_AllianceTowersControlled", "d2/df4/a22528.html#a90c41df874abfee0a4861cf923de9ab5", null ],
-    [ "m_HordeTowersControlled", "d2/df4/a22528.html#ada8244f57fe3a693d167689d3f921025", null ]
+    [ "OPvPCapturePointEP_NPT", "d2/df4/a22528.html#a2cb0929c3acb81530a0bd7ea57bcc298", null ],
+    [ "ChangeState", "d2/df4/a22528.html#a9e046ace6129ce67568ed7c15130b617", null ],
+    [ "FillInitialWorldStates", "d2/df4/a22528.html#add8f3c1b1a1e5600a05a639520b0a1dc", null ],
+    [ "HandlePlayerEnter", "d2/df4/a22528.html#ace643b7f7bc793934972c61c618045eb", null ],
+    [ "HandlePlayerLeave", "d2/df4/a22528.html#a950cd355c808f40ca95c0e5a46bac0a2", null ],
+    [ "SendChangePhase", "d2/df4/a22528.html#aef84a9917d5f40cfff48acb45ffdf0aa", null ],
+    [ "SummonGO", "d2/df4/a22528.html#a08a54abf3668074b5878c165bd2f8ddd", null ],
+    [ "UpdateTowerState", "d2/df4/a22528.html#ad8cfefcc567346273914e8039b039835", null ],
+    [ "m_SummonedGOSideId", "d2/df4/a22528.html#aa034240d169c9ab7276786bb188abc70", null ],
+    [ "m_TowerState", "d2/df4/a22528.html#a703b68024362d13ceaf9012202b72e7d", null ]
 ];

@@ -1,8 +1,7 @@
 var a26420 =
 [
-    [ "HandleDummy", "db/dea/a26420.html#a50203f655a85ed5984fa549fbdcc1c65", null ],
-    [ "Load", "db/dea/a26420.html#a510f81e77597ef55a87b4f77fa324b2b", null ],
-    [ "PrepareSpellScript", "db/dea/a26420.html#ac8dcfed4a74c85121b8b6c39856f709b", null ],
-    [ "Register", "db/dea/a26420.html#ae7ed739883e30015e99b6ab5d6cb3f39", null ],
-    [ "Validate", "db/dea/a26420.html#a3820e716d20809896c84c1ca781af4d1", null ]
+    [ "HandleDummy", "db/dea/a26420.html#abc630a0c8274f5f85901b2505ff2ae04", null ],
+    [ "PrepareSpellScript", "db/dea/a26420.html#af79cd7c2f6ed47a93dbbe17aaca6834f", null ],
+    [ "Register", "db/dea/a26420.html#a3f1808538acca2742c19f68af9a6fd56", null ],
+    [ "Validate", "db/dea/a26420.html#a475e1d5d8c70e0edd5957a1e493fd43e", null ]
 ];

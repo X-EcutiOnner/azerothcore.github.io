@@ -1,5 +1,5 @@
 var a27044 =
 [
-    [ "achievement_sa_defense_of_the_ancients", "dc/d9d/a27044.html#a678cffdece32710a42a92db0c092f3a5", null ],
-    [ "OnCheck", "dc/d9d/a27044.html#af23e346f9b022f490b84c8081f847a2f", null ]
+    [ "achievement_save_the_day", "dc/d9d/a27044.html#a193e4060b6634a87b499b7c8a5e287a1", null ],
+    [ "OnCheck", "dc/d9d/a27044.html#a95cfea6cd9ff955ba6800ebdf3a30eb7", null ]
 ];

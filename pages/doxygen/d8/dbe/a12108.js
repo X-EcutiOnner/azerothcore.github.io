@@ -1,11 +1,9 @@
 var a12108 =
 [
-    [ "npc_rookery_hatcherAI", "d8/dbe/a12108.html#a3154429437a108edf77de7ec1f0b2cda", null ],
-    [ "InitializeAI", "d8/dbe/a12108.html#af144dc2cbe632038057f931fd71da29d", null ],
-    [ "JustEngagedWith", "d8/dbe/a12108.html#a7b7ecaa42bdd35f4ee9fe7fad4cd25a9", null ],
-    [ "UpdateAI", "d8/dbe/a12108.html#a0f867aa346a2f829067466fbfe6c5335", null ],
-    [ "events", "d8/dbe/a12108.html#a220e6f9869d0ea53a593a6ac8e0e28bd", null ],
-    [ "nearbyEggs", "d8/dbe/a12108.html#a2cf183745cdf699af7bd273e0ee4d697", null ],
-    [ "targetEgg", "d8/dbe/a12108.html#a877af9948503688944e49503a6293574", null ],
-    [ "targetPosition", "d8/dbe/a12108.html#a2e94b3d12ef3d8f80546db6c9a9e9e95", null ]
+    [ "boss_overlordwyrmthalakAI", "d8/dbe/a12108.html#a76f9bd309e1c5045c74bb0ba8d8bce5c", null ],
+    [ "JustDied", "d8/dbe/a12108.html#ade379755d256c4c290e6dc8bbd862261", null ],
+    [ "JustEngagedWith", "d8/dbe/a12108.html#af7780f467df92c9218700773d1257a8c", null ],
+    [ "Reset", "d8/dbe/a12108.html#a9dbc4cc1830703c393fbeb9c0385b709", null ],
+    [ "UpdateAI", "d8/dbe/a12108.html#a950b2161ed4c2441fb73f8b009c5ba30", null ],
+    [ "Summoned", "d8/dbe/a12108.html#a8183e3f02d931809440adc8cc0cd3654", null ]
 ];

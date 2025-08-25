@@ -1,13 +1,10 @@
 var a24440 =
 [
-    [ "npc_pet_mage_mirror_image", "d5/ddc/a24440.html#a2761cc9bf3a8bb7908d3db6d929721ba", null ],
-    [ "EnterEvadeMode", "d5/ddc/a24440.html#a858b070fb53112dc78554f0b20cd876a", null ],
-    [ "InitializeAI", "d5/ddc/a24440.html#a66d513908aa88504d0cbe4ce9bf222be", null ],
-    [ "MySelectNextTarget", "d5/ddc/a24440.html#a49d57ba93cd88816f68c16d56d3b8cd2", null ],
-    [ "Reset", "d5/ddc/a24440.html#a79a8c153ab61c619d928ec5535e67077", null ],
-    [ "UpdateAI", "d5/ddc/a24440.html#aa219b3adc38b625c6885089895b941b4", null ],
-    [ "_ebonGargoyleGUID", "d5/ddc/a24440.html#a8be57d06114f108e74b850ce66722bf3", null ],
-    [ "checktarget", "d5/ddc/a24440.html#a074611355768dc2072da69ed9d72242b", null ],
-    [ "dist", "d5/ddc/a24440.html#a7fcde453faf05a64e4c7099d840c0e2b", null ],
-    [ "selectionTimer", "d5/ddc/a24440.html#a7d7a6ebd88afecd7ae7aaeda0cee6cf7", null ]
+    [ "npc_pet_gen_imp_in_a_bottle", "d5/ddc/a24440.html#aa32b7770c2719d77d46fcf6d22989284", null ],
+    [ "InitializeAI", "d5/ddc/a24440.html#a9fde3fd30d48068a3ad1a19f65c61bf2", null ],
+    [ "UpdateAI", "d5/ddc/a24440.html#a453ec855bb21a30cb72b540ff8f77035", null ],
+    [ "_data", "d5/ddc/a24440.html#a982ec923536c2c33353a3673aa425b6a", null ],
+    [ "_hasParty", "d5/ddc/a24440.html#a192d9e2ba340040cb6ba5c0f324ffb2d", null ],
+    [ "_ownerGUID", "d5/ddc/a24440.html#a5452226bbe4f65a9bd7ce103a7648a2f", null ],
+    [ "_talkTimer", "d5/ddc/a24440.html#a07eba859ad2d5db4f6d91734c04020cf", null ]
 ];

@@ -1,6 +1,6 @@
 var a19884 =
 [
-    [ "boss_flame_leviathan_defense_turretAI", "de/dfd/a19888.html", "de/dfd/a19888" ],
-    [ "boss_flame_leviathan_defense_turret", "d9/df6/a19884.html#a939c66ff6c1eb6dfdb3d93b3d0292e40", null ],
-    [ "GetAI", "d9/df6/a19884.html#a1c3726e2b753cda18bd11d8f4ff154db", null ]
+    [ "npc_auriaya_feral_defenderAI", "de/dfd/a19888.html", "de/dfd/a19888" ],
+    [ "npc_auriaya_feral_defender", "d9/df6/a19884.html#ae1afc396a1d9e6c9c2042ee0f58fb270", null ],
+    [ "GetAI", "d9/df6/a19884.html#abec35e280e42154af82f3e7e4fcec48d", null ]
 ];

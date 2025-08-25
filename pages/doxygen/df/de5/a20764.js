@@ -1,6 +1,6 @@
 var a20764 =
 [
-    [ "npc_xt002_life_sparkAI", "dc/d4a/a20768.html", "dc/d4a/a20768" ],
-    [ "npc_xt002_life_spark", "df/de5/a20764.html#a9644718d192708e391b833468a0ff21e", null ],
-    [ "GetAI", "df/de5/a20764.html#a09a1ce332d55fad146947c94bb53f564", null ]
+    [ "npc_xt002_heartAI", "dc/d4a/a20768.html", "dc/d4a/a20768" ],
+    [ "npc_xt002_heart", "df/de5/a20764.html#ab914ce1e945080b873cf6f93e3a6a32c", null ],
+    [ "GetAI", "df/de5/a20764.html#af59c6623b97d1adff765e8ba4958d482", null ]
 ];

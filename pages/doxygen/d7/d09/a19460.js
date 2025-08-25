@@ -1,7 +1,11 @@
 var a19460 =
 [
-    [ "HandleProc", "d7/d09/a19460.html#a84255cd31ebaa7c70de93d569258c709", null ],
-    [ "PrepareAuraScript", "d7/d09/a19460.html#a8d9c8122b105b28b88c4297d3a9acf7f", null ],
-    [ "Register", "d7/d09/a19460.html#a6bc166d2e1455537fa78c4223da17746", null ],
-    [ "Validate", "d7/d09/a19460.html#ab38bde2ed642dcf4fda1893a131aa6fe", null ]
+    [ "npc_oculus_drakegiverAI", "da/df2/a19464.html", "da/df2/a19464" ],
+    [ "npc_oculus_drakegiver", "d7/d09/a19460.html#add34aba22fb2ca16f6f055dd77a2994b", null ],
+    [ "GetAI", "d7/d09/a19460.html#aa26a2b82c5e4076ce704d5884895d903", null ],
+    [ "OnGossipHello", "d7/d09/a19460.html#ac00d09d2d81121d562e3303704229c18", null ],
+    [ "OnGossipSelect", "d7/d09/a19460.html#ad0fc46e306080ccfe9988d416ef71e77", null ],
+    [ "RemoveEssence", "d7/d09/a19460.html#a70513d873111c590ca4e33cb446a4438", null ],
+    [ "StoreEssence", "d7/d09/a19460.html#ac8bbe890722aa924a7f0dee161d342c4", null ],
+    [ "openedMenu", "d7/d09/a19460.html#a650d1cd18700e29328e0fc97b1709f38", null ]
 ];

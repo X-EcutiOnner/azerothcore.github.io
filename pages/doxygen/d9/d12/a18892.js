@@ -1,5 +1,6 @@
 var a18892 =
 [
-    [ "at_frozen_throne_teleport", "d9/d12/a18892.html#a8065b9f9b55b267be1757775f84de349", null ],
-    [ "OnTrigger", "d9/d12/a18892.html#ae1f9476b7f47320f545e702e9317bd03", null ]
+    [ "npc_icc_gauntlet_controllerAI", "d3/d7d/a18896.html", "d3/d7d/a18896" ],
+    [ "npc_icc_gauntlet_controller", "d9/d12/a18892.html#a5fc4c941842e25bc3da93686e588627b", null ],
+    [ "GetAI", "d9/d12/a18892.html#a4ed1a69fb537e7ce547a3a57253990c4", null ]
 ];

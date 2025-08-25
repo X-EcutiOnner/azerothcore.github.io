@@ -1,6 +1,9 @@
 var a12408 =
 [
-    [ "boss_gehennasAI", "d2/def/a12408.html#aaefd1f10d03957477863df95143a95a9", null ],
-    [ "ExecuteEvent", "d2/def/a12408.html#a1568cecdacc6afee23b4661c3dc0ae2b", null ],
-    [ "JustEngagedWith", "d2/def/a12408.html#ad932bb3d7079f53cf1bb2b7ad143b15d", null ]
+    [ "HandleAfterApply", "d2/def/a12408.html#ab5dea2b9154ea73e9f159f6899f71d1d", null ],
+    [ "HandleAfterRemove", "d2/def/a12408.html#a07bfb9395c738a197bafbaa0a43b9d48", null ],
+    [ "PeriodicTick", "d2/def/a12408.html#a1ea9275cf310f95e9f8351892dce0a21", null ],
+    [ "PrepareAuraScript", "d2/def/a12408.html#a8f13734ec4eb2dfda64be4ed3410e9a7", null ],
+    [ "Register", "d2/def/a12408.html#a778da1e0ae7d5cab576b55bff93c923f", null ],
+    [ "Validate", "d2/def/a12408.html#a205b4cc0f5c513680573b41a786a0b5e", null ]
 ];

@@ -1,8 +1,7 @@
 var a24820 =
 [
-    [ "HandleSchoolDMG", "df/d6e/a24820.html#ab273304fdbeea8768622c3e6b222aaf2", null ],
-    [ "HandleScriptEffect", "df/d6e/a24820.html#a06f9cf29387b49f3e5950661173c77eb", null ],
-    [ "PrepareSpellScript", "df/d6e/a24820.html#ac1a2b89eda37ed4e6c5946a93e7a58a2", null ],
-    [ "Register", "df/d6e/a24820.html#a9bdbf7578509976d482a26869e9068aa", null ],
-    [ "Validate", "df/d6e/a24820.html#a20a7b3a25711a90ab5f0e14991112ea0", null ]
+    [ "FilterTargets", "df/d6e/a24820.html#a9abf4baaba572636dba3980e5ae777c5", null ],
+    [ "Load", "df/d6e/a24820.html#a812e4e461c0ebed6f7c4cc36e88a3367", null ],
+    [ "PrepareSpellScript", "df/d6e/a24820.html#a4e98fbf669c030263ed2e5759a5bd6e8", null ],
+    [ "Register", "df/d6e/a24820.html#a2d72f5771d6563260a6e81122e4a2be5", null ]
 ];

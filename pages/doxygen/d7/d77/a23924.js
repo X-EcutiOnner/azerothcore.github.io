@@ -1,6 +1,9 @@
 var a23924 =
 [
-    [ "HandleDummy", "d7/d77/a23924.html#a4c1177fc89310598b6ba7cddf7f47cd1", null ],
-    [ "PrepareSpellScript", "d7/d77/a23924.html#af511bcad63ff423bf04a430f56959f40", null ],
-    [ "Register", "d7/d77/a23924.html#adaa4fc5294e2b0cb5bcb42f1a93a6f29", null ]
+    [ "boss_void_reaver", "d7/d77/a23924.html#aa6373ef5b27255eca4d85345ae5fa729", null ],
+    [ "JustDied", "d7/d77/a23924.html#a49e6f52b11177bdac07adff92c2675f5", null ],
+    [ "JustEngagedWith", "d7/d77/a23924.html#a9260d05e11f4dec6fc25432a0524706b", null ],
+    [ "KilledUnit", "d7/d77/a23924.html#adc234fc43308771a42d99049876cad1b", null ],
+    [ "Reset", "d7/d77/a23924.html#a02c36ea960de24991f879943991a93c6", null ],
+    [ "_recentlySpoken", "d7/d77/a23924.html#adc1bb9a6a3340f157c3ffcbd7dcd71ac", null ]
 ];

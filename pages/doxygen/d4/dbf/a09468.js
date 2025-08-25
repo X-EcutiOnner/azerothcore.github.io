@@ -1,7 +1,7 @@
 var a09468 =
 [
-    [ "ObjectGUIDCheck", "d4/dbf/a09468.html#a4932b3610ddc148ee5a30a6ce91c6f27", null ],
-    [ "operator()", "d4/dbf/a09468.html#a0f3f6e89a9e621a208cd6795722ae4ef", null ],
-    [ "_equals", "d4/dbf/a09468.html#a413d991eeee0294a54f3c803e296c3ac", null ],
-    [ "_GUID", "d4/dbf/a09468.html#a0e97bfe0e160177549a831df8e9b4555", null ]
+    [ "AllWorldObjectsInRange", "d4/dbf/a09468.html#a63f46d510df0fa3153d4b3325676a468", null ],
+    [ "operator()", "d4/dbf/a09468.html#a2cf23c24df93b5f7f29163b32e965a94", null ],
+    [ "m_fRange", "d4/dbf/a09468.html#a6afe3ef05369dce8ee205db219f97846", null ],
+    [ "m_pObject", "d4/dbf/a09468.html#ae7dde7b946d8affb79cb2d4c58eedbed", null ]
 ];

@@ -1,4 +1,5 @@
 var a09600 =
 [
-    [ "Options", "d8/ddc/a09600.html#a30882f3f0415185ec12ef4d316a0b428", null ]
+    [ "_Delay", "d8/ddc/a09600.html#a8c4024f5818f327f29b44a26892b89a1", null ],
+    [ "_Emote", "d8/ddc/a09600.html#a701c902af6f7f472511727bcc88ceeef", null ]
 ];

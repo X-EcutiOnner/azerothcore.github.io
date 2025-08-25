@@ -1,8 +1,6 @@
 var a11632 =
 [
-    [ "CreatureCountWorker", "d9/d3c/a11632.html#ad01e947d97d03a10ea3a891d24cb05b7", null ],
-    [ "GetTopCreatureCount", "d9/d3c/a11632.html#a5d4d009b6685dd71703f96f9945a463e", null ],
-    [ "Visit", "d9/d3c/a11632.html#a786d95d42f7711235e60a4f54cc3b4be", null ],
-    [ "Visit", "d9/d3c/a11632.html#afa72c0c1f905f4277d650ad0cfef281d", null ],
-    [ "creatureIds", "d9/d3c/a11632.html#a3a6f946c40b1006164793dbaed2b3948", null ]
+    [ "bg_commandscript", "d9/d3c/a11632.html#a86ffdfaed58149f5036f5c1e1040507a", null ],
+    [ "GetCommands", "d9/d3c/a11632.html#a911ccd6445b08c05069f7f196556c891", null ],
+    [ "HandleBagsClearCommand", "d9/d3c/a11632.html#a92347e90c2f78d0dfeb41eb033366319", null ]
 ];

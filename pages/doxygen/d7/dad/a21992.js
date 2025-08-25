@@ -1,7 +1,9 @@
 var a21992 =
 [
-    [ "HandleDummy", "d7/dad/a21992.html#a98e8a4b7bbe947b00f1bc32632736d59", null ],
-    [ "PrepareSpellScript", "d7/dad/a21992.html#a65b1ddf275eb5ee14ca32a1e25bf6e0e", null ],
-    [ "Register", "d7/dad/a21992.html#acdfa4e1fc8e26a887e80521b1bea5150", null ],
-    [ "Validate", "d7/dad/a21992.html#aeec15705a41ad2ac0e59d90086591d96", null ]
+    [ "npc_wounded_skirmisher", "d7/dad/a21992.html#a30fe2d901df0cfd9b66f3dbd6a1e6aea", null ],
+    [ "Initialize", "d7/dad/a21992.html#ae5fab920fcb16b57e0ed53a1177d319b", null ],
+    [ "JustEngagedWith", "d7/dad/a21992.html#a80357b71a1eccdcdce8c8bea87de1b66", null ],
+    [ "Reset", "d7/dad/a21992.html#acca266640c099718d2a0fd4f6a3c47ab", null ],
+    [ "SpellHit", "d7/dad/a21992.html#a891e879af5da1f181c94e528c59a81f1", null ],
+    [ "UpdateAI", "d7/dad/a21992.html#a52f8e7f8df05504cad4b4438c50814a4", null ]
 ];

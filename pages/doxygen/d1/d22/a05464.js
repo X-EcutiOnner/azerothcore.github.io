@@ -1,6 +1,4 @@
 var a05464 =
 [
-    [ "operator()", "d1/d22/a05464.html#a0221f13bb39f5087bce33b6075edaf3b", null ],
-    [ "operator+=", "d1/d22/a05464.html#a685854261b2714cf924622e58a88e6b6", null ],
-    [ "functions", "d1/d22/a05464.html#aae8c666d695a517a3ad1e08afa8c355a", null ]
+    [ "~Base", "d1/d22/a05464.html#a124eb44dd53aa6e964e691b12bcb8d57", null ]
 ];

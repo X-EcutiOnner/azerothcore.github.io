@@ -1,7 +1,6 @@
 var a23916 =
 [
-    [ "HandleDamage", "dc/dc8/a23916.html#add7e78111217d00bfa3dfa5b3eb490f9", null ],
-    [ "HandleTargets", "dc/dc8/a23916.html#ac9e455d4ef5cc7b7ce424b70b4387c78", null ],
-    [ "PrepareSpellScript", "dc/dc8/a23916.html#a46b62a09ea23cb102b0e5cf075c727d4", null ],
-    [ "Register", "dc/dc8/a23916.html#a8873614ae22c908cb2cf49129fc53be2", null ]
+    [ "HandleScriptEffect", "dc/dc8/a23916.html#a032b00bcd9bda0cd04f93848e4630c6a", null ],
+    [ "PrepareSpellScript", "dc/dc8/a23916.html#ad99a318c6b3ee834aa3c3591a0f8a330", null ],
+    [ "Register", "dc/dc8/a23916.html#aa96de13af039d8dfab0ae1a5d30e21a8", null ]
 ];

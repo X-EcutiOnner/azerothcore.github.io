@@ -1,5 +1,6 @@
 var a27312 =
 [
-    [ "go_southfury_moonstone", "db/d32/a27312.html#aed27e57e8232e156177c293ad0c0b4bb", null ],
-    [ "OnGossipHello", "db/d32/a27312.html#a4c0870f0e03708f1fdc073abadbe5de8", null ]
+    [ "go_darkmoon_faire_musicAI", "da/d47/a27316.html", "da/d47/a27316" ],
+    [ "go_darkmoon_faire_music", "db/d32/a27312.html#ab8dd92213e1c2815ff9498267b09b5f2", null ],
+    [ "GetAI", "db/d32/a27312.html#a03be3eddefe4eeba8a0af8ee02bf2839", null ]
 ];

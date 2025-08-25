@@ -1,6 +1,6 @@
 var a21840 =
 [
-    [ "npc_q24545_wretched_ghoulAI", "df/db2/a21844.html", "df/db2/a21844" ],
-    [ "npc_q24545_wretched_ghoul", "db/d4b/a21840.html#a3842b5bd89c911d29d561307113fb032", null ],
-    [ "GetAI", "db/d4b/a21840.html#ada973de0ff7295f0441cbd6b6aaca9ac", null ]
+    [ "npc_heated_battleAI", "db/d4b/a21840.html#a2b73957d7890549f4b02488c5527fcef", null ],
+    [ "DamageTaken", "db/d4b/a21840.html#a8422c157214195d7166ede35c9c05d19", null ],
+    [ "Reset", "db/d4b/a21840.html#a11a4f3270ff260e30da89017dad38433", null ]
 ];

@@ -1,9 +1,5 @@
 var a11568 =
 [
-    [ "map", "df/d3e/a11568.html#a274c6d61203c24b3c680055244e1f590", null ],
-    [ "mouth", "df/d3e/a11568.html#aa785f3badb9c898d24efdf6d42fb8a7f", null ],
-    [ "mouthGuid", "df/d3e/a11568.html#a2245c14e379c83bdd47165e829de2e41", null ],
-    [ "necropolisCount", "df/d3e/a11568.html#aec44e315616920ba8224be8c4831f5e9", null ],
-    [ "remainingNecropoli", "df/d3e/a11568.html#a3c18c61fcd44c32f9e0009479db85399", null ],
-    [ "zoneId", "df/d3e/a11568.html#a98e1490705f74627cf9e5483857f3f25", null ]
+    [ "data", "d0/d9d/a04783.html#ga4e97bd1d129d33b86a11c79c8cfa437b", null ],
+    [ "ScriptId", "d0/d9d/a04783.html#gaa452a9be01e00154512cb55980737ae6", null ]
 ];

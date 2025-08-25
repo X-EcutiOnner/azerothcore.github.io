@@ -1,9 +1,11 @@
 var a08800 =
 [
-    [ "VehicleAccessory", "db/dbe/a08800.html#a70576b3cfa29bb6a31fdc61588b6d3c4", null ],
-    [ "AccessoryEntry", "db/dbe/a08800.html#a6e3cd6b20680974235c146d34b16295a", null ],
-    [ "IsMinion", "db/dbe/a08800.html#ace3fd27311370e4db4103f2c3ac70410", null ],
-    [ "SeatId", "db/dbe/a08800.html#a73b54fbbfe8e18f7129acc65dadec447", null ],
-    [ "SummonedType", "db/dbe/a08800.html#afc843c62c580c860471b0e49f5901363", null ],
-    [ "SummonTime", "db/dbe/a08800.html#a13a024b3ceacf38ce4907b079d732420", null ]
+    [ "VehicleSeatAddon", "db/dbe/a08800.html#a307b278917998116156e41f9189a582c", null ],
+    [ "VehicleSeatAddon", "db/dbe/a08800.html#adaec12df869a9ffc81174f5ef1f65606", null ],
+    [ "ExitParameter", "db/dbe/a08800.html#afbb8de193522f1182efff50064e5f83d", null ],
+    [ "ExitParameterO", "db/dbe/a08800.html#a06e385ea5cf0441721432925251a5a63", null ],
+    [ "ExitParameterX", "db/dbe/a08800.html#a521d7a5eda620d0ced0b1309f3c96e17", null ],
+    [ "ExitParameterY", "db/dbe/a08800.html#ad343c7149b12cffe3a3de48ad73685a2", null ],
+    [ "ExitParameterZ", "db/dbe/a08800.html#add1ea5a9e605a49d0ddbcea0f804bd3b", null ],
+    [ "SeatOrientationOffset", "db/dbe/a08800.html#a374c73b40f6e6dad103b172d1829a31d", null ]
 ];

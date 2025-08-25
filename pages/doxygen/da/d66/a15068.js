@@ -1,8 +1,12 @@
 var a15068 =
 [
-    [ "npc_obsidian_destroyer", "da/d66/a15068.html#abd8b1614a9da9fbe9c9898246b0822b8", null ],
-    [ "JustDied", "da/d66/a15068.html#adc54ac02383f5e5bf6af980f5ba301e8", null ],
-    [ "JustEngagedWith", "da/d66/a15068.html#aaf95dd2c92a5d1745311e4162aee8dbc", null ],
-    [ "Reset", "da/d66/a15068.html#a08c6b9ec0e2f4207d48f95eedf2c26ab", null ],
-    [ "UpdateAI", "da/d66/a15068.html#a79ba48d421a636f99ea65c0e34d084e1", null ]
+    [ "npc_anubisath_guardian", "da/d66/a15068.html#a7db1771f9083e14c177e37d7bf6690c5", null ],
+    [ "DamageTaken", "da/d66/a15068.html#a2b7f307b5af7c50c86a68c4834f08ed4", null ],
+    [ "JustDied", "da/d66/a15068.html#a9f40c43ded16ad5934a5d5499f16ca76", null ],
+    [ "JustEngagedWith", "da/d66/a15068.html#a16d1e70f0ca0fcef972ac45f82e885e6", null ],
+    [ "Reset", "da/d66/a15068.html#af87cc86141964c48f9c57ed5bade36a5", null ],
+    [ "UpdateAI", "da/d66/a15068.html#a9a9c805c92a3e8e96914d01accb01051", null ],
+    [ "_enraged", "da/d66/a15068.html#a69b3b2cee4c84cd6dccd3465b555ad12", null ],
+    [ "_scheduler", "da/d66/a15068.html#ad44455c43d53426a152547d5b0770bbe", null ],
+    [ "_spells", "da/d66/a15068.html#aee75f952ed14f5f6fab1f5117f6b8b9e", null ]
 ];

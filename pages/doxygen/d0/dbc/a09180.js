@@ -1,6 +1,12 @@
 var a09180 =
 [
-    [ "PlayerRelocationNotifier", "d0/dbc/a09180.html#a01cbecc2a9727d822b94a90b0c3035aa", null ],
-    [ "Visit", "d0/dbc/a09180.html#ab9b3ad469216db3a7a49176b41b0b1ea", null ],
-    [ "Visit", "d0/dbc/a09180.html#acffc7490cb9b0cf171a1cfc6e1dbdc79", null ]
+    [ "VisibleNotifier", "d0/dbc/a09180.html#af6b878aad8873a7e34670af7ed84188e", null ],
+    [ "SendToSelf", "d0/dbc/a09180.html#a95d1c60911cfed9e4f0e034afbf11482", null ],
+    [ "Visit", "d0/dbc/a09180.html#a77d110af6b97c2a4d93ff53a8771273d", null ],
+    [ "Visit", "d0/dbc/a09180.html#a8dafcbc64e004aea196aec47fb2bb175", null ],
+    [ "i_data", "d0/dbc/a09180.html#a6cfba0f042e117cfdb7bdf1f1168c0ce", null ],
+    [ "i_gobjOnly", "d0/dbc/a09180.html#a019182fa8a629d796982f9cc565d9bc3", null ],
+    [ "i_largeOnly", "d0/dbc/a09180.html#a6954721b71a55874c7f708bf822613bd", null ],
+    [ "i_player", "d0/dbc/a09180.html#aaa324b9a9cffd59c7cbab0c08cf68395", null ],
+    [ "i_visibleNow", "d0/dbc/a09180.html#a34d766816baaad7b1b3623360ec9abeb", null ]
 ];

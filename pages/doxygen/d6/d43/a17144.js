@@ -1,5 +1,6 @@
 var a17144 =
 [
-    [ "at_tyrannus_event_starter", "d6/d43/a17144.html#a1aef2522c20dd242e749d93a6bee66d8", null ],
-    [ "OnTrigger", "d6/d43/a17144.html#a8dcfce4cd24dbc45df987b4a9bfcbbc0", null ]
+    [ "npc_pos_freed_slaveAI", "d6/d43/a17144.html#ad5728e427f9f4a65cea13ec2c5a01453", null ],
+    [ "CanAIAttack", "d6/d43/a17144.html#a76818ee5fcfcc5678fa9d0957a424d9b", null ],
+    [ "EnterEvadeMode", "d6/d43/a17144.html#a234135e6bea0d91611fbdbae4dec2ea1", null ]
 ];

@@ -1,7 +1,7 @@
 var a07920 =
 [
-    [ "LfgJoinResultData", "dc/d2e/a07920.html#a1d711d49a6b49f55eb3771352b294b95", null ],
-    [ "lockmap", "dc/d2e/a07920.html#aff918b3c02ca76982a964402175f8ad7", null ],
-    [ "result", "dc/d2e/a07920.html#aa713cbc1930962d520883523f6f6446c", null ],
-    [ "state", "dc/d2e/a07920.html#a2eee5e81651a7a9be245e4b717ab53ed", null ]
+    [ "RBEntryInfo", "dc/d2e/a07920.html#aa720dd6cae9ee7163bb9b84918249644", null ],
+    [ "RBEntryInfo", "dc/d2e/a07920.html#a3df17ed1c70ed9b755843308d5ff6336", null ],
+    [ "comment", "dc/d2e/a07920.html#a7284eac7208dba21a52b79257aad7dbc", null ],
+    [ "roles", "dc/d2e/a07920.html#ab891dec65b0070ede1233080eadd0190", null ]
 ];

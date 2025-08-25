@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/common/Asio/IoContext.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/common/Asio/IpNetwork.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,83 +105,41 @@ $(document).ready(function(){initNavTree('d0/d18/a04463.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#nested-classes">Classes</a> &#124;
 <a href="#namespaces">Namespaces</a> &#124;
-<a href="#define-members">Macros</a> &#124;
 <a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">IoContext.h File Reference</div></div>
+  <div class="headertitle"><div class="title">IpNetwork.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &lt;boost/version.hpp&gt;</code><br />
-<code>#include &lt;boost/asio/io_context.hpp&gt;</code><br />
-<code>#include &lt;boost/asio/post.hpp&gt;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">Define.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">IpAddress.h</a>&quot;</code><br />
+<code>#include &lt;boost/asio/ip/network_v4.hpp&gt;</code><br />
+<code>#include &lt;boost/asio/ip/network_v6.hpp&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
-Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dcd/a04880.html">Acore::Asio::IoContext</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
 Namespaces</h2></td></tr>
-<tr class="memitem:db/da6/a04782"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/da6/a04782.html">Acore</a></td></tr>
+<tr class="memitem:d2/d5c/a04788"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d5c/a04788.html">Acore</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:d0/d9d/a04783"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d9d/a04783.html">Acore::Asio</a></td></tr>
+<tr class="memitem:d6/d56/a04790"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d56/a04790.html">Acore::Net</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
-Macros</h2></td></tr>
-<tr class="memitem:ad5308134581a9f19bfac4d556ec345b9"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d18/a04463.html#ad5308134581a9f19bfac4d556ec345b9">IoContextBaseNamespace</a>&#160;&#160;&#160;boost::asio</td></tr>
-<tr class="separator:ad5308134581a9f19bfac4d556ec345b9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0ec391e3d78f246934f76abd937aecd8"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d18/a04463.html#a0ec391e3d78f246934f76abd937aecd8">IoContextBase</a>&#160;&#160;&#160;io_context</td></tr>
-<tr class="separator:a0ec391e3d78f246934f76abd937aecd8"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:ac437e3511a92ead72c7d3c1f6004daaf"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
-<tr class="memitem:ac437e3511a92ead72c7d3c1f6004daaf"><td class="memTemplItemLeft" align="right" valign="top">decltype(auto)&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d0/d9d/a04783.html#ac437e3511a92ead72c7d3c1f6004daaf">Acore::Asio::post</a> (<a class="el" href="../../d0/d18/a04463.html#a0ec391e3d78f246934f76abd937aecd8">IoContextBaseNamespace::IoContextBase</a> &amp;ioContext, T &amp;&amp;t)</td></tr>
-<tr class="separator:ac437e3511a92ead72c7d3c1f6004daaf"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a47f8fe35925492e3f01d723115279f2e"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
-<tr class="memitem:a47f8fe35925492e3f01d723115279f2e"><td class="memTemplItemLeft" align="right" valign="top">boost::asio::io_context &amp;&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d0/d9d/a04783.html#a47f8fe35925492e3f01d723115279f2e">Acore::Asio::get_io_context</a> (T &amp;&amp;ioObject)</td></tr>
-<tr class="separator:a47f8fe35925492e3f01d723115279f2e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af108d05a57113d16ab9c8f3b26870be2"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d56/a04790.html#af108d05a57113d16ab9c8f3b26870be2">Acore::Net::IsInNetwork</a> (boost::asio::ip::address_v4 const &amp;networkAddress, boost::asio::ip::address_v4 const &amp;mask, boost::asio::ip::address_v4 const &amp;clientAddress)</td></tr>
+<tr class="separator:af108d05a57113d16ab9c8f3b26870be2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af75b2c10ca445dc89c53b7ed8d17eae0"><td class="memItemLeft" align="right" valign="top">boost::asio::ip::address_v4&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d56/a04790.html#af75b2c10ca445dc89c53b7ed8d17eae0">Acore::Net::GetDefaultNetmaskV4</a> (boost::asio::ip::address_v4 const &amp;networkAddress)</td></tr>
+<tr class="separator:af75b2c10ca445dc89c53b7ed8d17eae0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2617cb1c747a45e5af4e2c32cc29d5de"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d56/a04790.html#a2617cb1c747a45e5af4e2c32cc29d5de">Acore::Net::IsInNetwork</a> (boost::asio::ip::address_v6 const &amp;networkAddress, <a class="el" href="../../d9/d4e/a04307.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> prefixLength, boost::asio::ip::address_v6 const &amp;clientAddress)</td></tr>
+<tr class="separator:a2617cb1c747a45e5af4e2c32cc29d5de"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Macro Definition Documentation</h2>
-<a id="a0ec391e3d78f246934f76abd937aecd8" name="a0ec391e3d78f246934f76abd937aecd8"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0ec391e3d78f246934f76abd937aecd8">&#9670;&#160;</a></span>IoContextBase</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define IoContextBase&#160;&#160;&#160;io_context</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="ad5308134581a9f19bfac4d556ec345b9" name="ad5308134581a9f19bfac4d556ec345b9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad5308134581a9f19bfac4d556ec345b9">&#9670;&#160;</a></span>IoContextBaseNamespace</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define IoContextBaseNamespace&#160;&#160;&#160;boost::asio</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1070012e9e40376f8468ff0aa5b77c71.html">common</a></li><li class="navelem"><a class="el" href="../../dir_fc9741c162534defc29969ffbc5109e0.html">Asio</a></li><li class="navelem"><a class="el" href="../../d0/d18/a04463.html">IoContext.h</a></li>
-    <li class="footer">Generated on Mon Aug 18 2025 20:47:04 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1070012e9e40376f8468ff0aa5b77c71.html">common</a></li><li class="navelem"><a class="el" href="../../dir_fc9741c162534defc29969ffbc5109e0.html">Asio</a></li><li class="navelem"><a class="el" href="../../d0/d18/a04463.html">IpNetwork.h</a></li>
+    <li class="footer">Generated on Mon Aug 25 2025 20:45:15 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

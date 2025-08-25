@@ -1,6 +1,8 @@
 var a13508 =
 [
-    [ "npc_professor_phizzlethorpeAI", "db/d83/a13512.html", "db/d83/a13512" ],
-    [ "npc_professor_phizzlethorpe", "db/de7/a13508.html#a8d32b4a107533c81033c617b0b97027d", null ],
-    [ "GetAI", "db/de7/a13508.html#a5eb540d16b2dd123d553ea4ae24d8b53", null ]
+    [ "npc_sunblade_arch_mage", "db/de7/a13508.html#a25cc45033c55f1099b50eab4b4f497ee", null ],
+    [ "JustEngagedWith", "db/de7/a13508.html#aadeae32d691229b7b7b531175b8a5018", null ],
+    [ "Reset", "db/de7/a13508.html#a0d0349ea507b1f8431014c55eef5ce0e", null ],
+    [ "UpdateAI", "db/de7/a13508.html#a3289fbad5f987a3d5d9986a31a1c442f", null ],
+    [ "scheduler", "db/de7/a13508.html#aa6680f06651316996868907b1d28126c", null ]
 ];

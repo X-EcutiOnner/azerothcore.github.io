@@ -1,5 +1,7 @@
 var a27768 =
 [
-    [ "go_transport_the_iron_eagle", "dd/db1/a27768.html#aba17edc2e3ac8e1b9996116c6f9bdc6f", null ],
-    [ "EventInform", "dd/db1/a27768.html#af1970d07730ab0e5f688200289f48b69", null ]
+    [ "npc_flameshocker", "dd/db1/a27768.html#ac1631ee1802a4014d71bd86567f5d5dd", null ],
+    [ "JustDied", "dd/db1/a27768.html#aba94a5bcec75c649049d5816a53ace58", null ],
+    [ "Reset", "dd/db1/a27768.html#a13cb88e2b33df2d910fb73053684b420", null ],
+    [ "UpdateAI", "dd/db1/a27768.html#adca7cd4e6ac78c0425d4377d66669f40", null ]
 ];

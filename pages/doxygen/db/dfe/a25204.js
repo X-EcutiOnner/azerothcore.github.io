@@ -1,6 +1,7 @@
 var a25204 =
 [
-    [ "HandleScript", "db/dfe/a25204.html#a1055ce8e5cbcc9d475bd9dab1f99cf92", null ],
-    [ "PrepareSpellScript", "db/dfe/a25204.html#a460823e5ad006c08d5b6378b7df279f0", null ],
-    [ "Register", "db/dfe/a25204.html#a7099938c5f14238b5afdadb6d040f931", null ]
+    [ "PrepareSpellScript", "db/dfe/a25204.html#aad8061898087fbf5eb6527cbaa70927d", null ],
+    [ "RecalculateDamage", "db/dfe/a25204.html#a6f03ccb77ce43c4e36996ae344780ee3", null ],
+    [ "Register", "db/dfe/a25204.html#abc7e406244a1a5ea9d7c3d8feb10b8ae", null ],
+    [ "_damagePct", "db/dfe/a25204.html#a3ab5f5ec279f30dda50fa3ca3f5e6715", null ]
 ];

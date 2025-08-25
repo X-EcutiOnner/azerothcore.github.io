@@ -1,8 +1,7 @@
 var a08072 =
 [
-    [ "TrainerSpellData", "df/db7/a08072.html#ab58a8a4ca9d8b609131e7f8b3ec507c9", null ],
-    [ "~TrainerSpellData", "df/db7/a08072.html#a9bd25177856f54fa2eda882627b21644", null ],
-    [ "Find", "df/db7/a08072.html#acee027787f06b4186b781bbd0d7db781", null ],
-    [ "spellList", "df/db7/a08072.html#a0e157dbcebbbea5704270f182d313568", null ],
-    [ "trainerType", "df/db7/a08072.html#a6ea889f294b37bfe1a7a40dffd1b2159", null ]
+    [ "VendorItemCount", "df/db7/a08072.html#abdf2d2900f75bb2b8d9727bab8fcbbc3", null ],
+    [ "count", "df/db7/a08072.html#aff4c062138792ffb37dadb19b725c87c", null ],
+    [ "itemId", "df/db7/a08072.html#a225158bbb56d6666ba4918155f08f993", null ],
+    [ "lastIncrementTime", "df/db7/a08072.html#a0b88ba4ea590abbdc9234ff4a2a335fa", null ]
 ];

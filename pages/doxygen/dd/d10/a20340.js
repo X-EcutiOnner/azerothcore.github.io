@@ -1,7 +1,5 @@
 var a20340 =
 [
-    [ "HandleScript", "dd/d10/a20340.html#a760bb60198017605111d02af98c827b1", null ],
-    [ "PrepareSpellScript", "dd/d10/a20340.html#a6128956f1037b62fff2e6f10ec22d956", null ],
-    [ "Register", "dd/d10/a20340.html#ae445c98f5543df2f45b77b6cd54d58e7", null ],
-    [ "Validate", "dd/d10/a20340.html#a3bb460d50928bd1b57566dd6a50fa5cd", null ]
+    [ "achievement_i_could_say_that_this_cache_was_rare", "dd/d10/a20340.html#a8ec1949d92f21fe57f967e510453da3e", null ],
+    [ "OnCheck", "dd/d10/a20340.html#af68ad314c9b7be57964ca9baa8015bc9", null ]
 ];

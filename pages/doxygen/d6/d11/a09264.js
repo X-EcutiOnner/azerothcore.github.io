@@ -1,9 +1,8 @@
 var a09264 =
 [
-    [ "PlayerSearcher", "d6/d11/a09264.html#a7247fcab3841996ed5d699696fb21557", null ],
-    [ "Visit", "d6/d11/a09264.html#ab2544b79869ba4de9772b1bff7c40704", null ],
-    [ "Visit", "d6/d11/a09264.html#abdb4dfeb80101e9e4bf0e46cab5a1f7b", null ],
-    [ "i_check", "d6/d11/a09264.html#a58c24b81eec33c9ba8fe8145ee3679b4", null ],
-    [ "i_object", "d6/d11/a09264.html#a70b071a2fccb4ff29fd614d1447e87ad", null ],
-    [ "i_phaseMask", "d6/d11/a09264.html#a6dd83612b7f0d00035a7efb8d970afc6", null ]
+    [ "CreatureListSearcher", "d6/d11/a09264.html#a7b16bf9b7a847a08fa6582b81b607e20", null ],
+    [ "Visit", "d6/d11/a09264.html#a48c084b8fbcbf7db7c051d1aa2aff523", null ],
+    [ "Visit", "d6/d11/a09264.html#a91fcbdcfb08964ebaacec8acae13476b", null ],
+    [ "i_check", "d6/d11/a09264.html#a985d622243d5c7c6c91eb01377b0f91b", null ],
+    [ "i_phaseMask", "d6/d11/a09264.html#a10e4e1fb5749d2b1065dd6a1245783d0", null ]
 ];

@@ -1,6 +1,6 @@
 var a23024 =
 [
-    [ "HandleDummy", "d1/d32/a23024.html#a85cbe85873c5f04c8fb94ad52e94afda", null ],
-    [ "PrepareSpellScript", "d1/d32/a23024.html#ae483ea2ecc541f52f37456f6e9d4b380", null ],
-    [ "Register", "d1/d32/a23024.html#a972574075c86c32593982add71dc893f", null ]
+    [ "ShadowOfDeathSelector", "d1/d32/a23024.html#a1190094fbde74ccffd954fea742ab0ae", null ],
+    [ "operator()", "d1/d32/a23024.html#a3c91b315ce6d6c523d4bdb8a8206a3c8", null ],
+    [ "_tank", "d1/d32/a23024.html#adc238645eec306e00918dbab05549fc8", null ]
 ];

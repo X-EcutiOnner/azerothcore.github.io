@@ -1,8 +1,6 @@
 var a09128 =
 [
-    [ "V8Type", "d7/dd2/a09128.html#ad1b1f07eef9dda43d6ba20d37087e1df", null ],
-    [ "V9Type", "d7/dd2/a09128.html#ac514014328ca676e610cef54710d2430", null ],
-    [ "gridIntHeightMultiplier", "d7/dd2/a09128.html#a6255362ae498172495394e1f0fad44ca", null ],
-    [ "v8", "d7/dd2/a09128.html#a3201a1f3e7307af860396ca26a78dbf9", null ],
-    [ "v9", "d7/dd2/a09128.html#ad31af604d44f964e9c502f36b6717c77", null ]
+    [ "AreaMapType", "d7/dd2/a09128.html#a0ea8ea1ddb694a7e57c816f6b7d33ec6", null ],
+    [ "areaMap", "d7/dd2/a09128.html#a21673b134ee6b5fb20bab06c3e1b2238", null ],
+    [ "gridArea", "d7/dd2/a09128.html#a37e8598e7a22dcb17637243fbeeecb0c", null ]
 ];

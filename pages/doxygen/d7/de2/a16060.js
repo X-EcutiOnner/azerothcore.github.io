@@ -1,5 +1,7 @@
 var a16060 =
 [
-    [ "at_baltharus_plateau", "d7/de2/a16060.html#ac7acc8816b298446ac9bb8d6b82f27b6", null ],
-    [ "OnTrigger", "d7/de2/a16060.html#aea08e30eb57d5d84b78b8891c4a45afb", null ]
+    [ "DelayedTalk", "d7/de2/a16060.html#a8a7ea9e6ddebd73996cfe8d9723276bc", null ],
+    [ "Execute", "d7/de2/a16060.html#a88c1915e73bcbd8ec253a537c416caf7", null ],
+    [ "_owner", "d7/de2/a16060.html#a9d13769bb3fbaed32919fc919da35006", null ],
+    [ "_talkId", "d7/de2/a16060.html#a3f3a1688a36807c653a5d071dd2bb389", null ]
 ];

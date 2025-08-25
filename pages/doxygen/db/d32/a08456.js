@@ -1,5 +1,5 @@
 var a08456 =
 [
-    [ "PositionXYZOStreamer", "db/d32/a08456.html#afddf48b02eea5399d818468cdf8795c5", null ],
-    [ "m_pos", "db/d32/a08456.html#a6c2be4021912b753ed7da07f1c6a7464", null ]
+    [ "PositionXYStreamer", "db/d32/a08456.html#a6f165ea30ccb7cdeba0c4e197b3a0e5b", null ],
+    [ "Pos", "db/d32/a08456.html#afb17e60540233b8861b6e967d0e44e07", null ]
 ];

@@ -1,9 +1,7 @@
 var a10680 =
 [
-    [ "GuildBankUpdateTab", "d2/ddd/a10680.html#a2950da8bfc40df57a3f5a66eee47a7ef", null ],
-    [ "Read", "d2/ddd/a10680.html#ac261ff0102489efb4d69bd866ffc9283", null ],
-    [ "Banker", "d2/ddd/a10680.html#a7ab950cee095221f9114224a624d46db", null ],
-    [ "BankTab", "d2/ddd/a10680.html#a66284a4d9cb40b025ef265d443e6e62f", null ],
-    [ "Icon", "d2/ddd/a10680.html#a75a219a9e2ab677a41920f39a1613a1b", null ],
-    [ "Name", "d2/ddd/a10680.html#a44261fbc379b3137548922faf4b5cbda", null ]
+    [ "GuildBankActivate", "d2/ddd/a10680.html#a5b27541a26ada694d9635f6d6873ef20", null ],
+    [ "Read", "d2/ddd/a10680.html#a8dbde75aaa3102024aa0ff3a8f3625da", null ],
+    [ "Banker", "d2/ddd/a10680.html#a9b79075c6ee6a4f73ae18c6956eead7c", null ],
+    [ "FullUpdate", "d2/ddd/a10680.html#a50b9a5333e2296e654c90fc6394bdbd3", null ]
 ];

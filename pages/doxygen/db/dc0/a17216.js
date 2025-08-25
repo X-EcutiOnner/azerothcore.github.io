@@ -1,7 +1,10 @@
 var a17216 =
 [
-    [ "HandleScriptEffect", "db/dc0/a17216.html#a6469efa0e1fabaf1cb366f119a1158c1", null ],
-    [ "PrepareSpellScript", "db/dc0/a17216.html#aac410690d906867216b40a49d8f15318", null ],
-    [ "Register", "db/dc0/a17216.html#ae8c7acabe93fc33d13f0b8848415eabf", null ],
-    [ "Validate", "db/dc0/a17216.html#a88c3961d5757dd0c75be4acc7de6e45b", null ]
+    [ "npc_living_mojoAI", "db/dc0/a17216.html#ab0e6dd5db0c358ff4fefc4797a622b8c", null ],
+    [ "AttackStart", "db/dc0/a17216.html#ad3f73a040176cd804f9715141063d176", null ],
+    [ "DoAction", "db/dc0/a17216.html#a9d942e99f358a7488d473969ab461d6f", null ],
+    [ "MoveInLineOfSight", "db/dc0/a17216.html#a7981568666269e25580ae839f1f97f09", null ],
+    [ "Reset", "db/dc0/a17216.html#a139df1207438dbd3793a2fbc58c2396c", null ],
+    [ "UpdateAI", "db/dc0/a17216.html#a418d7eee72f0a8506357eee3f1fbaf6c", null ],
+    [ "events", "db/dc0/a17216.html#acc7fd42cf4ea4b0203ad7ba4f775e3f2", null ]
 ];

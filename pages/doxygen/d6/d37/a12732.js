@@ -1,12 +1,11 @@
 var a12732 =
 [
-    [ "boss_bigbadwolf", "d6/d37/a12732.html#a1e4ad63c96d64f81e8b9ea82f118cdcc", null ],
-    [ "EnterEvadeMode", "d6/d37/a12732.html#a4f2d5307f5d05ed58bfc200f53bf2969", null ],
-    [ "JustDied", "d6/d37/a12732.html#a167083a43e00a60e9c3792cadaf6e80c", null ],
-    [ "JustEngagedWith", "d6/d37/a12732.html#a529fad938a0ef7261f1c2d589b6ff29c", null ],
-    [ "JustReachedHome", "d6/d37/a12732.html#a7755bf925d919c73075a41f8774280c0", null ],
-    [ "KilledUnit", "d6/d37/a12732.html#a8e004a1feac796ed467eba744f211827", null ],
-    [ "UpdateAI", "d6/d37/a12732.html#ab788a0155a3ffe6535d58263eea16dee", null ],
-    [ "_scheduler", "d6/d37/a12732.html#a661d9b619be30764ba5b89d71de870e9", null ],
-    [ "instance", "d6/d37/a12732.html#aed0e9edc52f13b7b0cfa5047849c26a9", null ]
+    [ "boss_terestian_illhoof", "d6/d37/a12732.html#a5750bf4f12ac01216335a926f885e136", null ],
+    [ "JustDied", "d6/d37/a12732.html#a9039c0fb905e72e659ce62f9d36593ce", null ],
+    [ "JustEngagedWith", "d6/d37/a12732.html#adc1f9195954eda7ec406ac9a084b7508", null ],
+    [ "JustSummoned", "d6/d37/a12732.html#a8b156654dbd75a4a7626edf30a8aae78", null ],
+    [ "KilledUnit", "d6/d37/a12732.html#ab7de8b406de200eec981fab79a56dcd7", null ],
+    [ "Reset", "d6/d37/a12732.html#a685b00f0e3317740412adfc48df1c3fb", null ],
+    [ "SpellHit", "d6/d37/a12732.html#a2f25021cfbc9e466d73c13de8116d8f1", null ],
+    [ "SummonKilrek", "d6/d37/a12732.html#a0007e35a38efce5edada2f47a9bb89c6", null ]
 ];

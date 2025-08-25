@@ -1,6 +1,6 @@
 var a17960 =
 [
-    [ "boss_rotfaceAI", "de/dbb/a17964.html", "de/dbb/a17964" ],
-    [ "boss_rotface", "dd/d12/a17960.html#a8896f5ed16c728d72a123b2e92a174fb", null ],
-    [ "GetAI", "dd/d12/a17960.html#a8a3ff9ef99da7d72ce2f7827bfc2564b", null ]
+    [ "HandleScript", "dd/d12/a17960.html#abd766c298f8aa363d28198b6a5d7e374", null ],
+    [ "PrepareSpellScript", "dd/d12/a17960.html#a5a4e7d674c09ebbbc9d918cf877418a3", null ],
+    [ "Register", "dd/d12/a17960.html#ae9bd26c97b3dc9c1af96304e3c67d532", null ]
 ];

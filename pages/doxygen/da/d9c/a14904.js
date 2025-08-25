@@ -1,7 +1,5 @@
 var a14904 =
 [
-    [ "npc_onyxian_lair_guard", "da/d9c/a14904.html#ae72d86cddafd8829fc9edd479a01ab1d", null ],
-    [ "JustEngagedWith", "da/d9c/a14904.html#a7b1d3bc68684202f9b4b95f6dc078be0", null ],
-    [ "UpdateAI", "da/d9c/a14904.html#ac8649636d5847813e49d2ada05f78645", null ],
-    [ "events", "da/d9c/a14904.html#a99acb2010853fcf9f7ac6f08143d06ed", null ]
+    [ "npc_black_morass_summoned_add", "da/d9c/a14904.html#ab1551fc3e746dc724ea433f7a3daa786", null ],
+    [ "EnterEvadeMode", "da/d9c/a14904.html#a437e7b72b985713d22883f3e33f30942", null ]
 ];

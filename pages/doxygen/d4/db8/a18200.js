@@ -1,6 +1,6 @@
 var a18200 =
 [
-    [ "LichKingDeathEvent", "d4/db8/a18200.html#a9aa328b60358034355b1eed5caacb9f8", null ],
-    [ "Execute", "d4/db8/a18200.html#a06b9a77d3c5efb228368a1e423a620ae", null ],
-    [ "_owner", "d4/db8/a18200.html#a75ccb1b2bd5a8149aff85404b5e0ce21", null ]
+    [ "PeriodicTick", "d4/db8/a18200.html#af47c7ea07ee3dbe824b1c294024d0c29", null ],
+    [ "PrepareAuraScript", "d4/db8/a18200.html#aa2649c760e362cc7aa22cd770b15f7df", null ],
+    [ "Register", "d4/db8/a18200.html#ad4290158ee9af93df11d1a46a5bd26a2", null ]
 ];

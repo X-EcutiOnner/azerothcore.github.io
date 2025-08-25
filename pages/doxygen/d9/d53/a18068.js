@@ -1,6 +1,7 @@
 var a18068 =
 [
-    [ "CheckProc", "d9/d53/a18068.html#ad701d353f03eb5a1ccca28a6530555db", null ],
-    [ "PrepareAuraScript", "d9/d53/a18068.html#a51794aa0a42180d9a0f4e9f6d5febca4", null ],
-    [ "Register", "d9/d53/a18068.html#a4f787e29064c15f4dad9047ff618982a", null ]
+    [ "IceTombSummonEvent", "d9/d53/a18068.html#a2ead0e5f6eb0c32f5c11f38e667b65d3", null ],
+    [ "Execute", "d9/d53/a18068.html#aa708b67e60ba0b4fe2334c43aaaca5c7", null ],
+    [ "_owner", "d9/d53/a18068.html#a1b95617b511dfa7868c59dbdf7e6c4c7", null ],
+    [ "_sindragosaGUID", "d9/d53/a18068.html#abe61867b29cd4fe3d02268f18b3618ee", null ]
 ];

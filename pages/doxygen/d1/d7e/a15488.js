@@ -1,5 +1,6 @@
 var a15488 =
 [
-    [ "at_ancient_leaf", "d1/d7e/a15488.html#a7c1913b5ac00659697d0b361f1a7a2fd", null ],
-    [ "OnTrigger", "d1/d7e/a15488.html#a6d3a2775216cb0c864dc21f5bb5dbc79", null ]
+    [ "npc_troll_volunteerAI", "d1/d6a/a15492.html", "d1/d6a/a15492" ],
+    [ "npc_troll_volunteer", "d1/d7e/a15488.html#a3c5eb7108dc0480e07b77eceb01cd18a", null ],
+    [ "GetAI", "d1/d7e/a15488.html#aba0208b0910ace75686941c462ecca56", null ]
 ];

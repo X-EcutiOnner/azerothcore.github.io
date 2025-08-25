@@ -1,6 +1,6 @@
 var a27236 =
 [
-    [ "go_heatAI", "dc/dfb/a27240.html", "dc/dfb/a27240" ],
-    [ "go_heat", "db/df3/a27236.html#a6c3d6919652159e4fd265b6d63f59c16", null ],
-    [ "GetAI", "db/df3/a27236.html#a9f19009a78c7abd349d2e2e7bf98c1a0", null ]
+    [ "go_witherbark_totem_bundleAI", "db/df3/a27236.html#a955625e2315008a2e36936d44f825060", null ],
+    [ "UpdateAI", "db/df3/a27236.html#af688bab2dc3d938951adb303e8b8d88b", null ],
+    [ "_timer", "db/df3/a27236.html#a509e6d8401380c326a0f565a6b903d7a", null ]
 ];

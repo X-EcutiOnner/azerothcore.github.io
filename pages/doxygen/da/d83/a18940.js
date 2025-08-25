@@ -1,6 +1,7 @@
 var a18940 =
 [
-    [ "boss_isle_of_conquestAI", "dd/dfe/a18944.html", "dd/dfe/a18944" ],
-    [ "boss_isle_of_conquest", "da/d83/a18940.html#ad4052d1b6865585d32016e1240449659", null ],
-    [ "GetAI", "da/d83/a18940.html#ae14201c4f8654bf2c0cd9ac8a82f3800", null ]
+    [ "DelayedCastMincharEvent", "da/d83/a18940.html#a76d8a08ca273eec5b2e083d136336a15", null ],
+    [ "Execute", "da/d83/a18940.html#a12aeff246d07e541ed192974320842cb", null ],
+    [ "_spellId", "da/d83/a18940.html#af4ea90407b2c8a283f137d213ffe97be", null ],
+    [ "_trigger", "da/d83/a18940.html#a9f3cd02e77ad35b98a6753b792383548", null ]
 ];

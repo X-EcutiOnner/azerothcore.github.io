@@ -1,6 +1,7 @@
 var a18984 =
 [
-    [ "boss_four_horsemenAI", "d0/ddd/a18988.html", "d0/ddd/a18988" ],
-    [ "boss_four_horsemen", "db/da3/a18984.html#a6bcaf9a12d854a322f50ac2f98dbb72b", null ],
-    [ "GetAI", "db/da3/a18984.html#a3ee27da1d0da48306cc10c17c9411d1a", null ]
+    [ "OnRemove", "db/da3/a18984.html#a4e6a66934a01d01c50208459f6771353", null ],
+    [ "PrepareAuraScript", "db/da3/a18984.html#a2320044c6c81a89af0fefd4f90c05bd5", null ],
+    [ "Register", "db/da3/a18984.html#a4890d35f2b0889156a437c95e49f528c", null ],
+    [ "Validate", "db/da3/a18984.html#a1b90f1288b3b45267edd4da2b3418b21", null ]
 ];

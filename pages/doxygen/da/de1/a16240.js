@@ -1,6 +1,7 @@
 var a16240 =
 [
-    [ "npc_memoryAI", "dc/d9d/a16244.html", "dc/d9d/a16244" ],
-    [ "npc_memory", "da/de1/a16240.html#acebf31813025d323f9486d6575a60483", null ],
-    [ "GetAI", "da/de1/a16240.html#ad8e532d029217a06d11ae39810498976", null ]
+    [ "HandleDummy", "da/de1/a16240.html#a687cff5dcfcd7d9253182eb604d7a780", null ],
+    [ "PrepareSpellScript", "da/de1/a16240.html#ab8544e2c9e3bea229abd270c108bfa14", null ],
+    [ "Register", "da/de1/a16240.html#a144224b42aabc0402b729dcc808d779d", null ],
+    [ "Validate", "da/de1/a16240.html#a985e843e856a7322bccf8544c45df48c", null ]
 ];

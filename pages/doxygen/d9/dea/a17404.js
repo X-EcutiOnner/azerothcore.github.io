@@ -1,8 +1,6 @@
 var a17404 =
 [
-    [ "OnApply", "d9/dea/a17404.html#a4741bfaaea8bc956fd1020aca13a51c2", null ],
-    [ "OnRemove", "d9/dea/a17404.html#a21aad38fe91580d3b8e0cc71dce7b1ad", null ],
-    [ "PrepareAuraScript", "d9/dea/a17404.html#a54b2ab23915e84b9c9728eb624dae47b", null ],
-    [ "Register", "d9/dea/a17404.html#a6d552ff58f7bb267cf4d20f2f5aedc7a", null ],
-    [ "Validate", "d9/dea/a17404.html#a5542dca73b5cc2ec1c724fe536e8a15f", null ]
+    [ "PrepareSpellScript", "d9/dea/a17404.html#a86609d6cd708de9ead02c6134cbb6f64", null ],
+    [ "Register", "d9/dea/a17404.html#aceb3da4aec68cb44bcbee36f599afd62", null ],
+    [ "SetDest", "d9/dea/a17404.html#a9ed93e44df4e759fda72a63474e01b3b", null ]
 ];

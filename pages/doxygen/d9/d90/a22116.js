@@ -1,10 +1,6 @@
 var a22116 =
 [
-    [ "npc_infra_green_bomber_genericAI", "d9/d90/a22116.html#aed712ea3625971e059e2ecd158227287", null ],
-    [ "DamageTaken", "d9/d90/a22116.html#a8f860368df96e430b441c8316db99c93", null ],
-    [ "GetSummoner", "d9/d90/a22116.html#aaf7b91ce2bbf65c3f6c4bd41f04682bc", null ],
-    [ "IsSummonedBy", "d9/d90/a22116.html#a79676717b7c6219ea74ebe5a580eab28", null ],
-    [ "SpreadFire", "d9/d90/a22116.html#a5727c839b7dd02ea64eccce3606688d1", null ],
-    [ "UpdateAI", "d9/d90/a22116.html#a252875777655e963965676a24c15e766", null ],
-    [ "events", "d9/d90/a22116.html#ae8795439197b9cbfb70bbf5a672b8019", null ]
+    [ "npc_boneguard_footmanAI", "d9/d90/a22116.html#a04eff1976824724b321f0c0d95e0940a", null ],
+    [ "UpdateAI", "d9/d90/a22116.html#a9cba65867824daeb50cb2b39d68ad84b", null ],
+    [ "checkTimer", "d9/d90/a22116.html#a46dd1fa8d111dca0584a8e6fb7a6a566", null ]
 ];

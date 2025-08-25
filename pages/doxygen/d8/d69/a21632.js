@@ -1,9 +1,9 @@
 var a21632 =
 [
-    [ "npc_bloodmage_laurithAI", "d8/d69/a21632.html#a75dca4f2e90318f334e7e6385d4f7a6f", null ],
-    [ "Reset", "d8/d69/a21632.html#afe9b10dfcee3b241a48e6f2e40eec657", null ],
-    [ "SetGUID", "d8/d69/a21632.html#a50a144cf1545117d79268d3a18a4b4ec", null ],
-    [ "UpdateAI", "d8/d69/a21632.html#a9752f518441071dd4a60cd63423bf9a3", null ],
-    [ "_events", "d8/d69/a21632.html#a35facab84094071d952792a4c3e5015d", null ],
-    [ "_playerGUID", "d8/d69/a21632.html#a6aab8db1d55d4fe3251b544c292711e8", null ]
+    [ "npc_bonker_togglevoltAI", "d8/d69/a21632.html#adfd43a6a804a35e235262e55f0155ffe", null ],
+    [ "JustDied", "d8/d69/a21632.html#a5ac6e89ad9ad3d3d69a87f7b9dc4026f", null ],
+    [ "Reset", "d8/d69/a21632.html#a13efa2a2a0c5c796b3fd9f36a54ce523", null ],
+    [ "UpdateEscortAI", "d8/d69/a21632.html#a9bf17d7ec59d800955c131dbe14a31d8", null ],
+    [ "WaypointReached", "d8/d69/a21632.html#a06dc6c018d52f1cd1b2c7f76dbda3a2d", null ],
+    [ "Bonker_agro", "d8/d69/a21632.html#a395e6e14f03cb0ecfe70348cc148d7ef", null ]
 ];

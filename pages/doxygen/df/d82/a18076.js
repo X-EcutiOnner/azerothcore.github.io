@@ -1,7 +1,6 @@
 var a18076 =
 [
-    [ "HandleScript", "df/d82/a18076.html#a5fbb1d26c4e7d5d21745004e477b3c1e", null ],
-    [ "PrepareSpellScript", "df/d82/a18076.html#a7e6b56f426be7925255da3ebc239f909", null ],
-    [ "Register", "df/d82/a18076.html#a0eb2d734ac99d3a036b95b6daa39b9f5", null ],
-    [ "Validate", "df/d82/a18076.html#a86b4296eab73fc63b38558871f16a889", null ]
+    [ "boss_sindragosaAI", "d3/d12/a18080.html", "d3/d12/a18080" ],
+    [ "boss_sindragosa", "df/d82/a18076.html#af5cdf4798b8b87467fa45dbda7fcbee1", null ],
+    [ "GetAI", "df/d82/a18076.html#a005a6da9f4f9690416a108872b3c2b36", null ]
 ];

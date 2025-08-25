@@ -1,6 +1,6 @@
 var a19316 =
 [
-    [ "ChargeRifts", "d0/dcf/a19316.html#aec98a12dec1f2ad98e00d399b0e2a1d5", null ],
-    [ "Execute", "d0/dcf/a19316.html#a8d01bf861d37c25413dc14eee16a2939", null ],
-    [ "_caster", "d0/dcf/a19316.html#a3cbf5f7e26de337dadd9d96a43d728b0", null ]
+    [ "npc_alexstraszaAI", "d8/daa/a19320.html", "d8/daa/a19320" ],
+    [ "npc_alexstrasza", "d0/dcf/a19316.html#aa28858e8368031c2882e7e3c1c5968dd", null ],
+    [ "GetAI", "d0/dcf/a19316.html#ad155ccc4f7bca786229ee015d365e3ce", null ]
 ];

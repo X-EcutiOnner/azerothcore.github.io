@@ -1,7 +1,8 @@
 var a12760 =
 [
-    [ "HandleDummy", "d7/dc9/a12760.html#a02b89ff0a3ea53bb2740c7deb51279c2", null ],
-    [ "PrepareSpellScript", "d7/dc9/a12760.html#a55a794dbaf76a549bd11fbe2a2432609", null ],
-    [ "Register", "d7/dc9/a12760.html#a17784359e300e9d66c0c22bc5e7b6f6c", null ],
-    [ "Validate", "d7/dc9/a12760.html#af12eb55064f7f1f1063ec0ce2863bc57", null ]
+    [ "npc_cyclone", "d7/dc9/a12760.html#afdc4f98b031f832702929c6a7f192ab5", null ],
+    [ "JustEngagedWith", "d7/dc9/a12760.html#a61d0710868c91f707643a436c0d79485", null ],
+    [ "Reset", "d7/dc9/a12760.html#a60b74a96fccc12333b9dc3ed67a54637", null ],
+    [ "UpdateAI", "d7/dc9/a12760.html#a224795b4ea46fc2c9346e361410f0c0f", null ],
+    [ "_scheduler", "d7/dc9/a12760.html#a77f4d42ff45e0565f2d9ee5b27787ffd", null ]
 ];

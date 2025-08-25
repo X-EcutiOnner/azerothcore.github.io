@@ -1,9 +1,8 @@
 var a07176 =
 [
-    [ "entryAlliance", "d7/de3/a07176.html#a0e5dba26d6d335a9d1e5f40e737acddd", null ],
-    [ "entryHorde", "d7/de3/a07176.html#a374fff4b069e89489395246f378b4900", null ],
-    [ "o", "d7/de3/a07176.html#af8a4ec46795bcdbc77c76302a4cfe639", null ],
-    [ "x", "d7/de3/a07176.html#ab557bbe497fc769b390cf0799b6aaed9", null ],
-    [ "y", "d7/de3/a07176.html#a44a8f3fd8d3cac7cfe61471d8b785ad4", null ],
-    [ "z", "d7/de3/a07176.html#adebb903a00687e17d9088f5da2c97f4a", null ]
+    [ "WintergraspCapturePoint", "d7/de3/a07176.html#a36090feb3626e204e0029ea45f1d8136", null ],
+    [ "ChangeTeam", "d7/de3/a07176.html#a66564dd3237538b256ebeb76d236001f", null ],
+    [ "GetTeam", "d7/de3/a07176.html#a7ff4106591a5aac1ea8820016b8164bb", null ],
+    [ "LinkToWorkshop", "d7/de3/a07176.html#a32d378eba7f0eea0f011b8ea8c7e6eee", null ],
+    [ "m_Workshop", "d7/de3/a07176.html#a1e780ccd3759538fe4c9d7e3fc5447ed", null ]
 ];

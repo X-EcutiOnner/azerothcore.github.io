@@ -1,7 +1,12 @@
 var a08076 =
 [
-    [ "CreatureSpellCooldown", "d7/d06/a08076.html#a6d234a93951992640df5720a2885be3e", null ],
-    [ "CreatureSpellCooldown", "d7/d06/a08076.html#a53364a501b0ce66e05ec0e6638f6cb6e", null ],
-    [ "category", "d7/d06/a08076.html#a27330a80d711087f1894b2ce816c33b8", null ],
-    [ "end", "d7/d06/a08076.html#a9c1c5f2b6e9a6cd015085e79b043e483", null ]
+    [ "TrainerSpell", "d7/d06/a08076.html#a87a098774b32babfcf2000e3330a25b9", null ],
+    [ "IsCastable", "d7/d06/a08076.html#a2f638f0e068623d38f0dab7c346ac8ed", null ],
+    [ "learnedSpell", "d7/d06/a08076.html#a2396712a58fa61f340632de48dac9b78", null ],
+    [ "reqLevel", "d7/d06/a08076.html#ac71afa7c180905ae4247011b2f40f929", null ],
+    [ "reqSkill", "d7/d06/a08076.html#ac0a74c104994e36ba95703689ed92964", null ],
+    [ "reqSkillValue", "d7/d06/a08076.html#a1187d182a512ae0f40af6ea36a4911db", null ],
+    [ "reqSpell", "d7/d06/a08076.html#a6f2d3fa6a5f4403822b924f64e796deb", null ],
+    [ "spell", "d7/d06/a08076.html#af7649fcfa5e6ca77c7d0aa9ef474b44c", null ],
+    [ "spellCost", "d7/d06/a08076.html#a9adb80199e22a0db5d4eb262d9edbfe8", null ]
 ];

@@ -1,9 +1,9 @@
 var a06080 =
 [
-    [ "TurretAI", "df/d47/a06080.html#a0aaa1ee5eb1b2e83657ef24479d9a91e", null ],
-    [ "AttackStart", "df/d47/a06080.html#ab6eb7cf777595a4b196373123da19bea", null ],
-    [ "CanAIAttack", "df/d47/a06080.html#a47c1c38ddcc1f473104fb698fe338684", null ],
-    [ "Permissible", "df/d47/a06080.html#aac81fb574d70369fb006fb7ba22a0784", null ],
-    [ "UpdateAI", "df/d47/a06080.html#aa2d308443a31d8a06bbc63517695dfef", null ],
-    [ "m_minRange", "df/d47/a06080.html#a4cffbf9bcb29468dad6a6583c905b99a", null ]
+    [ "CasterAI", "df/d47/a06080.html#ad91d5c64cbc4d56d9a84aaeb2f64b35e", null ],
+    [ "AttackStart", "df/d47/a06080.html#a28386fd1a275c002445e5eaf90314a3d", null ],
+    [ "InitializeAI", "df/d47/a06080.html#a2a24cdc24b665c52363dae587572fc4d", null ],
+    [ "JustEngagedWith", "df/d47/a06080.html#ad436decd8b3da4323cf3fdb4a9e5a849", null ],
+    [ "UpdateAI", "df/d47/a06080.html#a0fa50ac9bd99ff0c2c7e78f03a737090", null ],
+    [ "m_attackDist", "df/d47/a06080.html#a561dbc6713a8ec58ef6b23ae4d04d81b", null ]
 ];

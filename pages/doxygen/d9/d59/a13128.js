@@ -1,5 +1,6 @@
 var a13128 =
 [
-    [ "npc_apothecary_frye", "d9/d59/a13128.html#a5546099958a9a267d237e65720588456", null ],
-    [ "JustDied", "d9/d59/a13128.html#ab1dc310e90c591b44ce4d5bcf1bac930", null ]
+    [ "instance_scholomance_InstanceMapScript", "d8/d61/a13132.html", "d8/d61/a13132" ],
+    [ "instance_scholomance", "d9/d59/a13128.html#ace7a781c45623419daad6143480d8fe2", null ],
+    [ "GetInstanceScript", "d9/d59/a13128.html#a9e2030e41154c92dbe45d7895ddf37b8", null ]
 ];

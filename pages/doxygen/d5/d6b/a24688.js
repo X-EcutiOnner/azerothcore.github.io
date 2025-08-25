@@ -1,6 +1,11 @@
 var a24688 =
 [
-    [ "CheckCast", "d5/d6b/a24688.html#a583e19667a83ada4cd793fbf391f9e93", null ],
-    [ "PrepareSpellScript", "d5/d6b/a24688.html#ac6adda0dbe544cf2457060647c01de0f", null ],
-    [ "Register", "d5/d6b/a24688.html#a50d1284f1113bfdd0b39690efabe6b9b", null ]
+    [ "CalcPeriodic", "d5/d6b/a24688.html#a8dfb6d67b57e4ff0bd15e49c36d4ec2d", null ],
+    [ "CalculateAPAmount", "d5/d6b/a24688.html#ab23f26c3470f629f0a20f28faf272a68", null ],
+    [ "CalculateHealthAmount", "d5/d6b/a24688.html#a4f827a906ac279e143ba8545545090ad", null ],
+    [ "CalculateSPAmount", "d5/d6b/a24688.html#ae94493ffed217a218e21c05e002cec00", null ],
+    [ "HandleEffectApply", "d5/d6b/a24688.html#acaa3bd6385b05101cad38d4f0738b9d8", null ],
+    [ "HandlePeriodic", "d5/d6b/a24688.html#ac5a656d4fa474b1d0c82af7613bcac10", null ],
+    [ "PrepareAuraScript", "d5/d6b/a24688.html#a5052689d815e0a0543693b39b7454deb", null ],
+    [ "Register", "d5/d6b/a24688.html#a3226edbe6b24a827f2ef28ccfb815b7a", null ]
 ];

@@ -1,9 +1,7 @@
 var a19620 =
 [
-    [ "boss_sjonnir_iron_sludgeAI", "d0/dbf/a19620.html#aac57ae32188c47ca97b7331d62986e66", null ],
-    [ "JustDied", "d0/dbf/a19620.html#a6cfebecaaf673e40f97a46a09947a1f0", null ],
-    [ "JustEngagedWith", "d0/dbf/a19620.html#a772d279407d724477560898559710433", null ],
-    [ "Reset", "d0/dbf/a19620.html#a5b4a726aa496923d81c41b038e5f7449", null ],
-    [ "UpdateAI", "d0/dbf/a19620.html#a2745ff26c165851c367e080d28652984", null ],
-    [ "events", "d0/dbf/a19620.html#a468d45f9b9c2172f326068d59a74121a", null ]
+    [ "HandleScript", "d0/dbf/a19620.html#a5d778f906e1ee820cc97b0b32839cc78", null ],
+    [ "PrepareSpellScript", "d0/dbf/a19620.html#a34337690029eedb60a17572dbbf1e1f9", null ],
+    [ "Register", "d0/dbf/a19620.html#ad554d79e1a98490085b22f5038d058da", null ],
+    [ "Validate", "d0/dbf/a19620.html#a0932ccc5652bc4901aacbe2cf8d6c7d8", null ]
 ];

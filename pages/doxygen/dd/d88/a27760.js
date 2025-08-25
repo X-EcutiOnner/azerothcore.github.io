@@ -1,5 +1,8 @@
 var a27760 =
 [
-    [ "npc_suns_reach_reclamation", "dd/d88/a27760.html#aa66b75aa1a4a96a97c4d2c4e42e3d6bb", null ],
-    [ "OnQuestReward", "dd/d88/a27760.html#a459e53b21778cf901cbbb15c9f6e5cdd", null ]
+    [ "npc_cultist_engineer", "dd/d88/a27760.html#a02675a96d20902d147b0370fa1715d81", null ],
+    [ "JustDied", "dd/d88/a27760.html#a4b4d561f827553998caa204e0e1b9e54", null ],
+    [ "Reset", "dd/d88/a27760.html#a6f84d224a959c06fbb7a48197dd4cbdd", null ],
+    [ "sGossipSelect", "dd/d88/a27760.html#ab26d124cbfdc4d649fef6058e9637845", null ],
+    [ "UpdateAI", "dd/d88/a27760.html#a47b1b08959b8cd02ba92fcf3a55e32d2", null ]
 ];

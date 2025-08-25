@@ -1,8 +1,6 @@
 var a14624 =
 [
-    [ "npc_doomfire_spirit", "d9/d22/a14624.html#a3d16e8437c2e90ad1ab5de609f4fcff0", null ],
-    [ "Reset", "d9/d22/a14624.html#a0600718fad91723eba74b903583c5942", null ],
-    [ "TryTeleportInDirection", "d9/d22/a14624.html#a7fc48df636df66a006a8179fd63e2a65", null ],
-    [ "UpdateAI", "d9/d22/a14624.html#aa0d953c28f25e2838f3b24364b51f10b", null ],
-    [ "turnConstant", "d9/d22/a14624.html#afeab7c791c31457d86e98a0064fa6ad8", null ]
+    [ "instance_blackfathom_deeps_InstanceMapScript", "dd/dfe/a14628.html", "dd/dfe/a14628" ],
+    [ "instance_blackfathom_deeps", "d9/d22/a14624.html#a4600a7e6191582c1bee684989a970e0f", null ],
+    [ "GetInstanceScript", "d9/d22/a14624.html#a62cdab4f3118ab030b4ef55243690f73", null ]
 ];

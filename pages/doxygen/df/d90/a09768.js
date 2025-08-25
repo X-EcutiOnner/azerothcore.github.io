@@ -1,8 +1,14 @@
 var a09768 =
 [
-    [ "CircleBoundary", "df/d90/a09768.html#a1f58f718ac4e4f6de029a0d46954012e", null ],
-    [ "CircleBoundary", "df/d90/a09768.html#a10387b9a70013ecc15ae4f31dd1f21f3", null ],
-    [ "IsWithinBoundaryArea", "df/d90/a09768.html#ad8eef3c2c98ee71a7d28d1e5d93ee508", null ],
-    [ "_center", "df/d90/a09768.html#a65edd0aef7b73b176e5e311bb0d63738", null ],
-    [ "_radiusSq", "df/d90/a09768.html#acbb3cc0c546f0e557a48a45425355950", null ]
+    [ "DoublePosition", "df/d90/a09768.html#a59190a2456f052c6ffa6e181ced94a4f", null ],
+    [ "DoublePosition", "df/d90/a09768.html#a9900e06c36c6ebc4edd0ba45264990b8", null ],
+    [ "DoublePosition", "df/d90/a09768.html#a543ff52f7b278f68cc36ee880932e744", null ],
+    [ "GetDoubleExactDist2dSq", "df/d90/a09768.html#ae17b4e695ff23a8ec323405801f2013a", null ],
+    [ "GetDoublePositionX", "df/d90/a09768.html#a7c769d1762f99150a46ceaa2b2bfa8e8", null ],
+    [ "GetDoublePositionY", "df/d90/a09768.html#a201096c85022d54b1d9dbe9264df901f", null ],
+    [ "GetDoublePositionZ", "df/d90/a09768.html#a01fc3985229b6bd03e6d1da95f871c17", null ],
+    [ "sync", "df/d90/a09768.html#a75e75187d6663591a39c87bc1086aebd", null ],
+    [ "DoublePosX", "df/d90/a09768.html#a4f9ffbbe4396f3ec26a81139f5868e2e", null ],
+    [ "DoublePosY", "df/d90/a09768.html#a90839893f3a58a72a07177d3eee1d691", null ],
+    [ "DoublePosZ", "df/d90/a09768.html#a19af503e9623ccaeb032bfe9f0a0ed63", null ]
 ];

@@ -1,7 +1,6 @@
 var a16692 =
 [
-    [ "HandleScript", "dc/da9/a16692.html#a927cc2ab0e5bba58a2b49e3e4e52ebaa", null ],
-    [ "PrepareSpellScript", "dc/da9/a16692.html#a71b28156c628aacbc6cb481038c0e76c", null ],
-    [ "Register", "dc/da9/a16692.html#a6f036bb2d42f248e0c252158a5ecedf1", null ],
-    [ "Validate", "dc/da9/a16692.html#a7c8a5a7c47bd7a9624028f92b1d9cf9c", null ]
+    [ "boss_dredAI", "d3/da2/a16696.html", "d3/da2/a16696" ],
+    [ "boss_dred", "dc/da9/a16692.html#a60a913f53c63f95680c29c72f48f9a1a", null ],
+    [ "GetAI", "dc/da9/a16692.html#ab8276b185f80a92a54327ea28b19c704", null ]
 ];

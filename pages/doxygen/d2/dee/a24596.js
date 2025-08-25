@@ -1,7 +1,7 @@
 var a24596 =
 [
-    [ "CalculateAmount", "d2/dee/a24596.html#ad99a4176d27864280a79ac548a57a4c8", null ],
-    [ "Load", "d2/dee/a24596.html#aeafec50b06b5dd2f69ca6ab4096aea4d", null ],
-    [ "PrepareAuraScript", "d2/dee/a24596.html#a76528513f0f6728e73085a3d403c3e59", null ],
-    [ "Register", "d2/dee/a24596.html#a4d09be7d33755ae719138d079884e281", null ]
+    [ "CorpseExplosionCheck", "d2/dee/a24596.html#aa8b7957705df1d878f5123ffa31a7fd7", null ],
+    [ "operator()", "d2/dee/a24596.html#aeab379880a8d912d6d0f7b41639edbd4", null ],
+    [ "_allowGhoul", "d2/dee/a24596.html#abd42a0731af969ceccdfceae722ba276", null ],
+    [ "_casterGUID", "d2/dee/a24596.html#a497df87745f452716c652e9b1be6d46f", null ]
 ];

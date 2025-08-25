@@ -1,7 +1,6 @@
 var a24312 =
 [
-    [ "HandleSendEvent", "d4/d88/a24312.html#a8b32db78a3b4d5a01be230968fda3a8d", null ],
-    [ "PrepareSpellScript", "d4/d88/a24312.html#a0adf10b63735dbdf1cb3d49c73f7da1d", null ],
-    [ "Register", "d4/d88/a24312.html#ad6aedfed88d4a921122fdc7a8b501f0e", null ],
-    [ "Validate", "d4/d88/a24312.html#a9b72b16ac81c53aaa7936640e5149e6c", null ]
+    [ "npc_zephyr", "d4/d88/a24312.html#a3bad7bf2bd3b193960f1f53cd7d8349d", null ],
+    [ "OnGossipHello", "d4/d88/a24312.html#a31e132e80a19bb6e63787fcdf7ffd466", null ],
+    [ "OnGossipSelect", "d4/d88/a24312.html#a9b1f5a0d4ba24e65dda521bc94574ad8", null ]
 ];

@@ -1,16 +1,13 @@
 var a08392 =
 [
-    [ "UpdateState", "d7/d37/a08392.html#aa4f58928ebfbd115280b12866d9b7d23", [
-      [ "NotUpdating", "d7/d37/a08392.html#aa4f58928ebfbd115280b12866d9b7d23a29cf8e7615ba78787e84d5298e9835ba", null ],
-      [ "PendingAdd", "d7/d37/a08392.html#aa4f58928ebfbd115280b12866d9b7d23acc2e650db938ff5bf5525de448cd8ddf", null ],
-      [ "Updating", "d7/d37/a08392.html#aa4f58928ebfbd115280b12866d9b7d23ad1caed37f15232d71507dbf81af2a919", null ]
-    ] ],
-    [ "UpdatableMapObject", "d7/d37/a08392.html#a5602f3b21fe1299e300e71d645f3eaee", null ],
-    [ "GetMapUpdateListOffset", "d7/d37/a08392.html#a52bf945e86eba8c73701a3e378503eeb", null ],
-    [ "GetUpdateState", "d7/d37/a08392.html#a90b2d1a9f5b356f013ac4a357020de66", null ],
-    [ "SetMapUpdateListOffset", "d7/d37/a08392.html#aef864d62d4cbefb63647fe691d69dfd4", null ],
-    [ "SetUpdateState", "d7/d37/a08392.html#a7c95f861c7e13c17e2ebf8088882a709", null ],
-    [ "Map", "d7/d37/a08392.html#ad2f32e921244459f7cc6d50355429cc6", null ],
-    [ "_mapUpdateListOffset", "d7/d37/a08392.html#af4aaf71a3308e72af67f20bf0e7ced57", null ],
-    [ "_mapUpdateState", "d7/d37/a08392.html#a46f9010396bb1bd84fb654bbe2795f8e", null ]
+    [ "FlaggedValuesArray32", "d7/d37/a08392.html#a0680f7b67001783f20d89989a49cbead", null ],
+    [ "AddFlag", "d7/d37/a08392.html#a273ab3607b23881628eb0c5d6a4da288", null ],
+    [ "AddValue", "d7/d37/a08392.html#aacca1261b2a22525e5fd40e5f479aa06", null ],
+    [ "DelFlag", "d7/d37/a08392.html#a3a674b2a7b8d5874f7210372b3e92123", null ],
+    [ "GetFlags", "d7/d37/a08392.html#a314a315eb1c1a76116fe3a31f7be9c68", null ],
+    [ "GetValue", "d7/d37/a08392.html#a87e5949bc041f15449331aceb277e8c4", null ],
+    [ "HasFlag", "d7/d37/a08392.html#a0ea5d977caef5152c71c515259a91f06", null ],
+    [ "SetValue", "d7/d37/a08392.html#ad0d385589befe52103f077723fa2463c", null ],
+    [ "m_flags", "d7/d37/a08392.html#abab31b77efb46fa796275c36964eab91", null ],
+    [ "m_values", "d7/d37/a08392.html#aabd025f47ad522e574f603eb559500f0", null ]
 ];

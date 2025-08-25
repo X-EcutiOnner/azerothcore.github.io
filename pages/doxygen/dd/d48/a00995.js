@@ -1,6 +1,6 @@
 var a00995 =
 [
-    [ "UnitScript", "d5/d75/a10396.html", "d5/d75/a10396" ],
+    [ "UnitScript", "d6/d18/a10404.html", "d6/d18/a10404" ],
     [ "UnitHook", "dd/d48/a00995.html#a4eaefcbbd1058569f55194299c218c26", [
       [ "UNITHOOK_ON_HEAL", "dd/d48/a00995.html#a4eaefcbbd1058569f55194299c218c26afb576f10646cffe0868efddf3e7aa256", null ],
       [ "UNITHOOK_ON_DAMAGE", "dd/d48/a00995.html#a4eaefcbbd1058569f55194299c218c26a62c0eeb1f01d869aab444cfe76e2116b", null ],

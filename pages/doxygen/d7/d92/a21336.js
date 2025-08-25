@@ -1,6 +1,8 @@
 var a21336 =
 [
-    [ "npc_erekem_guardAI", "d8/d9d/a21340.html", "d8/d9d/a21340" ],
-    [ "npc_erekem_guard", "d7/d92/a21336.html#a78592996e90f77f81eec0325a7f11956", null ],
-    [ "GetAI", "d7/d92/a21336.html#a844a6a29eda4f41547ea37a4c08fb723", null ]
+    [ "npc_frozen_orbAI", "d7/d92/a21336.html#aa7456d1d876690e3723ee0a36866348b", null ],
+    [ "JustEngagedWith", "d7/d92/a21336.html#afd9686dbb8503d7f756b670269aed33d", null ],
+    [ "Reset", "d7/d92/a21336.html#a376dc1fcef9752e235008c4ba66e2463", null ],
+    [ "UpdateAI", "d7/d92/a21336.html#a37d7cf81197fe4344c8b847753997e93", null ],
+    [ "switchTimer", "d7/d92/a21336.html#afc63a3cf6b814df81a35b53278d722c9", null ]
 ];

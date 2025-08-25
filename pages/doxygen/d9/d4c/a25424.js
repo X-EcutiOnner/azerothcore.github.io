@@ -1,9 +1,10 @@
 var a25424 =
 [
-    [ "CheckCast", "d9/d4c/a25424.html#a005565dd77de97b5aa04553a1d6a0185", null ],
-    [ "HandleScript", "d9/d4c/a25424.html#a7313a3d9840d7dc81e5a894e83cb6347", null ],
-    [ "Load", "d9/d4c/a25424.html#aadfc8a873c72e31d65001ce00518ca45", null ],
-    [ "PrepareSpellScript", "d9/d4c/a25424.html#a169b60644259855f0614271e4769f6b9", null ],
-    [ "Register", "d9/d4c/a25424.html#a9e7f8cbc7ec3de507069b69678005da3", null ],
-    [ "Validate", "d9/d4c/a25424.html#a9e69eb36c1a2640ff616ae5744c04f4f", null ]
+    [ "CheckProc", "d9/d4c/a25424.html#a8a7a0ac560eecc3777087622fb3f3951", null ],
+    [ "HandleProc", "d9/d4c/a25424.html#a90eee01f380f97f033c82d7c6ec48d00", null ],
+    [ "OnApply", "d9/d4c/a25424.html#a93818ec97cfd47da1dee454bb0a9318c", null ],
+    [ "OnRemove", "d9/d4c/a25424.html#a5e978d4d46f42ba5098eaecd9473fccb", null ],
+    [ "PrepareAuraScript", "d9/d4c/a25424.html#a73ae8e378b906a420955fd33d02ba6b7", null ],
+    [ "Register", "d9/d4c/a25424.html#a7070f64c9c47c8c1bc26e49b2b60a110", null ],
+    [ "Validate", "d9/d4c/a25424.html#a91c5a0e10c308332e18dc40033049996", null ]
 ];

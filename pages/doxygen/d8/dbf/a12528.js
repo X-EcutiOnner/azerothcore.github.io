@@ -1,6 +1,6 @@
 var a12528 =
 [
-    [ "npc_mc_core_houndAI", "de/d98/a12532.html", "de/d98/a12532" ],
-    [ "npc_mc_core_hound", "d8/dbf/a12528.html#aee1ef71447dbd1494de5e0065bd5ae78", null ],
-    [ "GetAI", "d8/dbf/a12528.html#a3aa8c5332b509b4d5498cd726ab47e40", null ]
+    [ "boss_shazzrahAI", "d8/dbf/a12528.html#a984b3d32d5f231a019f2c0f1bb027907", null ],
+    [ "ExecuteEvent", "d8/dbf/a12528.html#a0f6e3e6876b9b769ea53db5c9028c6ff", null ],
+    [ "JustEngagedWith", "d8/dbf/a12528.html#aaa8111d42cacd58f767513026976668c", null ]
 ];

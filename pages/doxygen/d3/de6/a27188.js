@@ -1,5 +1,6 @@
 var a27188 =
 [
-    [ "go_seer_of_zebhalak", "d3/de6/a27188.html#a423f16e878d67f7dc6ec3860afabacf4", null ],
-    [ "OnGossipHello", "d3/de6/a27188.html#a84009789ce8e8d0d7c42996fde161135", null ]
+    [ "boss_emerissAI", "df/de2/a27192.html", "df/de2/a27192" ],
+    [ "boss_emeriss", "d3/de6/a27188.html#a2d373e5add3f007cf214ad9763039aa2", null ],
+    [ "GetAI", "d3/de6/a27188.html#a88a0696a12f12e612cce53c14f6b1f92", null ]
 ];

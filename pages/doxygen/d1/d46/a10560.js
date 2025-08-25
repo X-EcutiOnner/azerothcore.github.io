@@ -1,9 +1,6 @@
 var a10560 =
 [
-    [ "GuildInfoResponse", "d1/d46/a10560.html#a256cb81ad2e08050be99c9e1061c2009", null ],
-    [ "Write", "d1/d46/a10560.html#a3222d0018c9593400d3d01258b82371e", null ],
-    [ "CreateDate", "d1/d46/a10560.html#a1a0acf334d88751e94257ff76c9e3fd8", null ],
-    [ "GuildName", "d1/d46/a10560.html#ad8efc926197e955ed0cf8df6a74b41e8", null ],
-    [ "NumAccounts", "d1/d46/a10560.html#a21b42f1654aa10f7872d87635fea66ac", null ],
-    [ "NumMembers", "d1/d46/a10560.html#a7e748a70029e867ba8c90eaba85bf8c9", null ]
+    [ "GuildCreate", "d1/d46/a10560.html#a4dd11d2c4d009b1e495f792f4842d598", null ],
+    [ "Read", "d1/d46/a10560.html#a7d4573196f53d1f068c43b4e7e466fce", null ],
+    [ "GuildName", "d1/d46/a10560.html#a95a0859dd32b6eaf31ea53311ffaa293", null ]
 ];

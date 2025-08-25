@@ -1,7 +1,10 @@
 var a19304 =
 [
-    [ "EoEDrakeEnterVehicleEvent", "d7/d92/a19304.html#afc529efe07da017e529dc6d5ebc6e7dc", null ],
-    [ "Execute", "d7/d92/a19304.html#a368a613ba7861f7903b80e6f7f0dd64f", null ],
-    [ "_owner", "d7/d92/a19304.html#ab48302fdff800afddfeec2c0d756873c", null ],
-    [ "_playerGUID", "d7/d92/a19304.html#add56bff0695453e01f300e0434a39ec8", null ]
+    [ "npc_scion_of_eternityAI", "d7/d92/a19304.html#a2893db70b6a1ffa14d02dd5cea7f7c0a", null ],
+    [ "AttackStart", "d7/d92/a19304.html#a1335f9e34ff73d5501455062be025ada", null ],
+    [ "JustDied", "d7/d92/a19304.html#a81dcae5ef2bbd28b891e46c377fbe153", null ],
+    [ "MoveInLineOfSight", "d7/d92/a19304.html#a74a69fa532f0921285ef678bbd2fa761", null ],
+    [ "UpdateAI", "d7/d92/a19304.html#adb16afb6ea1583a7156b80a8d833951a", null ],
+    [ "events", "d7/d92/a19304.html#ae0e194a24a14033a499e68524da1699d", null ],
+    [ "pInstance", "d7/d92/a19304.html#aa828ca4a75696645d7aa350f1f981f40", null ]
 ];

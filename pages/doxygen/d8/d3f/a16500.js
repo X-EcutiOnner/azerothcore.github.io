@@ -1,7 +1,6 @@
 var a16500 =
 [
-    [ "npc_toc_retro_paladinAI", "d8/d3f/a16500.html#afe933281cea61c9a4f3ded76290a3b72", null ],
-    [ "myCanCast", "d8/d3f/a16500.html#a271b1d0855dbd2e38ecb6ea62140012f", null ],
-    [ "UpdateAI", "d8/d3f/a16500.html#a105d6b9c133c1147b310826d7be416f5", null ],
-    [ "events", "d8/d3f/a16500.html#a7078c28d5392bc77d577fa7a6f96b9d7", null ]
+    [ "npc_toc_warriorAI", "d9/d59/a16504.html", "d9/d59/a16504" ],
+    [ "npc_toc_warrior", "d8/d3f/a16500.html#a3e969be07603ef59389106769010660c", null ],
+    [ "GetAI", "d8/d3f/a16500.html#a557d9aa512c485e37b4a05b57ab3d1a4", null ]
 ];

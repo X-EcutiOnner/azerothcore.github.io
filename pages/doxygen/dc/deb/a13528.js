@@ -1,12 +1,14 @@
 var a13528 =
 [
-    [ "boss_twilight_corrupter", "dc/deb/a13528.html#afe140d6231d9ad8543e17c4a8a8230c0", null ],
-    [ "InitializeAI", "dc/deb/a13528.html#afe06461e9f3e1549da6631d2f89406c4", null ],
-    [ "JustEngagedWith", "dc/deb/a13528.html#a84803153e7e7d5d7efe0106139214b1f", null ],
-    [ "KilledUnit", "dc/deb/a13528.html#aa18d2fc90e1ccd322ec9d3128ba206d2", null ],
-    [ "MoveInLineOfSight", "dc/deb/a13528.html#a637cdd43f2f9a4f773b4b8e8f3c88730", null ],
-    [ "Reset", "dc/deb/a13528.html#a27720f58056206c09bce41ae50018a83", null ],
-    [ "UpdateAI", "dc/deb/a13528.html#a580fbaa55a5c0193c1ef2c6b281d8d9e", null ],
-    [ "_introSpoken", "dc/deb/a13528.html#a1924750c9d41ed588a29aace3c40742d", null ],
-    [ "_scheduler", "dc/deb/a13528.html#a6c49eee2be24199418096cc48c50d384", null ]
+    [ "instance_uldaman_InstanceMapScript", "dc/deb/a13528.html#ab2607f229d1e34852c82139ddb597712", null ],
+    [ "GetData", "dc/deb/a13528.html#adef5f6d2dcaa50dbb615c4c134e7ecfb", null ],
+    [ "Initialize", "dc/deb/a13528.html#a2424bcb1aec0ffc6235a8e8b384f0ed1", null ],
+    [ "OnCreatureCreate", "dc/deb/a13528.html#a49b5562743910dc1b6b55efa8c44b6a0", null ],
+    [ "OnGameObjectCreate", "dc/deb/a13528.html#aacb9db5f66f1f9be0d993aacc3cf4348", null ],
+    [ "ReadSaveDataMore", "dc/deb/a13528.html#a8e0e03189463039dd31d883ad9c40e51", null ],
+    [ "SetData", "dc/deb/a13528.html#ab24fc2db74ef83f2b3be9603d4728385", null ],
+    [ "WriteSaveDataMore", "dc/deb/a13528.html#a3345c117f5e2ceca773843c3f51cb76f", null ],
+    [ "_encounters", "dc/deb/a13528.html#a6840bd04d25fd1f365e0c28c725cde97", null ],
+    [ "ancientVaultDoorGUID", "dc/deb/a13528.html#adf83ba0b0a1650462dbc3bc56182bed9", null ],
+    [ "archaedasTempleDoorGUID", "dc/deb/a13528.html#a6bad33c43ceaa23990544e4a8feefb34", null ]
 ];

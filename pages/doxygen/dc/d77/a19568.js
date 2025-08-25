@@ -1,6 +1,6 @@
 var a19568 =
 [
-    [ "instance_halls_of_lightning_InstanceMapScript", "dc/d47/a19572.html", "dc/d47/a19572" ],
-    [ "instance_halls_of_lightning", "dc/d77/a19568.html#a24395866efe2c7d1f7727be2557a8b46", null ],
-    [ "GetInstanceScript", "dc/d77/a19568.html#a5ce157aeaf2ed78e98e864059a599b36", null ]
+    [ "boss_lokenAI", "dc/d47/a19572.html", "dc/d47/a19572" ],
+    [ "boss_loken", "dc/d77/a19568.html#a44ba0ee009dcdfca6ff8739e297ec786", null ],
+    [ "GetAI", "dc/d77/a19568.html#affb73db8ecdc2d035f8076ecca0c9a99", null ]
 ];

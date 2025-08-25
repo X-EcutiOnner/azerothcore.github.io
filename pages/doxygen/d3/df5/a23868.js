@@ -1,6 +1,5 @@
 var a23868 =
 [
-    [ "HandleScriptEffect", "d3/df5/a23868.html#a32c5e4743adeb3085a6eac062b8f6226", null ],
-    [ "PrepareSpellScript", "d3/df5/a23868.html#a0c51d5a108d8225387ce8a149a0a0c86", null ],
-    [ "Register", "d3/df5/a23868.html#a4b940caf98f1164be5e2f4e748811fc6", null ]
+    [ "npc_telonicus", "d3/df5/a23868.html#af8ba6be2d39463725bbbaf7770319a93", null ],
+    [ "ScheduleEvents", "d3/df5/a23868.html#a49501a607aeb901aa99e94d9dd0e161b", null ]
 ];

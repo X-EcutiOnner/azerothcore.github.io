@@ -1,16 +1,9 @@
 var a10568 =
 [
-    [ "AreaID", "d7/d9f/a10568.html#a7bd695ba9365b53703204e45c930b254", null ],
-    [ "ClassID", "d7/d9f/a10568.html#a794961a2e9f4773254b2439837150b50", null ],
-    [ "Gender", "d7/d9f/a10568.html#aadb29895c835e820168ad7d3f608d3b8", null ],
-    [ "Guid", "d7/d9f/a10568.html#a9dad860d61da34048ab2d52ada0cb43f", null ],
-    [ "LastSave", "d7/d9f/a10568.html#acb553637ff289603411fa5795a361deb", null ],
-    [ "Level", "d7/d9f/a10568.html#a585acb139537e8def9e4ba076a332b6b", null ],
-    [ "Name", "d7/d9f/a10568.html#ad50c43162525d8ad2ea33e48c01e838e", null ],
-    [ "Note", "d7/d9f/a10568.html#aa351a270de4cba2faddc5179cb854b94", null ],
-    [ "OfficerNote", "d7/d9f/a10568.html#aedaee0b4511ddd82cc75e91cb04e175a", null ],
-    [ "RankID", "d7/d9f/a10568.html#a02f6f0dcf1be3a6befe959388d9aedd8", null ],
-    [ "Status", "d7/d9f/a10568.html#aa6342565a23693718b5ef84f90b83350", null ],
-    [ "TotalXP", "d7/d9f/a10568.html#ad3ee1ba956ea725db8588e3be3c57b18", null ],
-    [ "WeeklyXP", "d7/d9f/a10568.html#a7fb40a5bce99fcf70176ebe344424ed2", null ]
+    [ "GuildInfoResponse", "d7/d9f/a10568.html#a256cb81ad2e08050be99c9e1061c2009", null ],
+    [ "Write", "d7/d9f/a10568.html#a3222d0018c9593400d3d01258b82371e", null ],
+    [ "CreateDate", "d7/d9f/a10568.html#a1a0acf334d88751e94257ff76c9e3fd8", null ],
+    [ "GuildName", "d7/d9f/a10568.html#ad8efc926197e955ed0cf8df6a74b41e8", null ],
+    [ "NumAccounts", "d7/d9f/a10568.html#a21b42f1654aa10f7872d87635fea66ac", null ],
+    [ "NumMembers", "d7/d9f/a10568.html#a7e748a70029e867ba8c90eaba85bf8c9", null ]
 ];

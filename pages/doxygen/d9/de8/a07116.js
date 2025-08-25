@@ -1,5 +1,5 @@
 var a07116 =
 [
-    [ "AuctionSearchAdd", "d9/de8/a07116.html#a40116c721d736fe362a3dab56e6b3113", null ],
-    [ "searchableAuctionEntry", "d9/de8/a07116.html#a48e000b0e7d9411676fd2ccacf283163", null ]
+    [ "packet", "d9/de8/a07116.html#ad266cc5bd8e3637534055a7564047f87", null ],
+    [ "playerGuid", "d9/de8/a07116.html#a824393dda7676d4a5268d2d7d2e9d17b", null ]
 ];

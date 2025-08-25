@@ -1,6 +1,6 @@
 var a11908 =
 [
-    [ "boss_draganthaurissanAI", "dc/dce/a11912.html", "dc/dce/a11912" ],
-    [ "boss_emperor_dagran_thaurissan", "d4/d20/a11908.html#a8332d74b5aa1528d5687084932419ad1", null ],
-    [ "GetAI", "d4/d20/a11908.html#aca2c4ca4e32ce75d95b42ddd88c4dc99", null ]
+    [ "npc_lokhtos_darkbargainer", "d4/d20/a11908.html#af91685ecf0f63313968b3d82373668d2", null ],
+    [ "OnGossipHello", "d4/d20/a11908.html#a39547487ef7db8a3942556665099893f", null ],
+    [ "OnGossipSelect", "d4/d20/a11908.html#a5a4640678a5669c75b1fa5d787999c02", null ]
 ];

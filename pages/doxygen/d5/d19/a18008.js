@@ -1,6 +1,11 @@
 var a18008 =
 [
-    [ "CheckTarget", "d5/d19/a18008.html#afce64ba75f8370cab6b8f1e561b10587", null ],
-    [ "PrepareSpellScript", "d5/d19/a18008.html#a6b6eaf3e761f2c173c2e72f46b25595a", null ],
-    [ "Register", "d5/d19/a18008.html#a6964ca668f02a8b5b1c3015503a41eef", null ]
+    [ "npc_little_oozeAI", "d5/d19/a18008.html#a6fb3ac6e3f2c39b96ee4fe265e4940dd", null ],
+    [ "EnterEvadeMode", "d5/d19/a18008.html#a0bd4bfcc8c373a449f297011289e5530", null ],
+    [ "IsSummonedBy", "d5/d19/a18008.html#afb9763ade36bd742398a8bca961c136b", null ],
+    [ "JustDied", "d5/d19/a18008.html#a37e5898e3dc1704be9fba2178567fd2a", null ],
+    [ "UpdateAI", "d5/d19/a18008.html#a6ee56789d528c2b6dcb04abaff6806cb", null ],
+    [ "events", "d5/d19/a18008.html#aa0d2113458887b73fe2af36f9d3ab0f1", null ],
+    [ "firstUpdate", "d5/d19/a18008.html#aa3aca24bc97bcd9a2030fccf6782cf9c", null ],
+    [ "instance", "d5/d19/a18008.html#a8a4ec828f144f071c0c6f2bf48b69cc0", null ]
 ];

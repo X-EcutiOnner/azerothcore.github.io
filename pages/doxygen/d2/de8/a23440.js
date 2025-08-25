@@ -1,7 +1,8 @@
 var a23440 =
 [
-    [ "HandleScript", "d2/de8/a23440.html#a42052a416290a54d5479a402de578a73", null ],
-    [ "PrepareSpellScript", "d2/de8/a23440.html#a5f6aa972879b65c0207e47435d436a33", null ],
-    [ "Register", "d2/de8/a23440.html#a98efb2a9a68d7878af9d6f9d46db88c9", null ],
-    [ "Validate", "d2/de8/a23440.html#a0d10ed00f11ede2b63665e4cfe53a70c", null ]
+    [ "boss_hungarfen", "d2/de8/a23440.html#a009b8d34731d2310a53195024b434935", null ],
+    [ "JustEngagedWith", "d2/de8/a23440.html#a3612bb373ecdba4245587fd94257ba62", null ],
+    [ "Reset", "d2/de8/a23440.html#a4b310eff8af9a33c50ae8f2035ba76ad", null ],
+    [ "UpdateAI", "d2/de8/a23440.html#a1765bd54c04a3479e837b3d0e241300e", null ],
+    [ "_scheduler", "d2/de8/a23440.html#a702185681abb6cfc4add7078ff5bbb52", null ]
 ];

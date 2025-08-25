@@ -1,7 +1,8 @@
 var a15388 =
 [
-    [ "npc_kerlonianAI", "da/d1a/a15392.html", "da/d1a/a15392" ],
-    [ "npc_kerlonian", "de/db0/a15388.html#a8a5ab1fde9f21ac256d5168ef3f17f87", null ],
-    [ "GetAI", "de/db0/a15388.html#a93d93ba13d8521fee39801473b7c4b6a", null ],
-    [ "OnQuestAccept", "de/db0/a15388.html#a257d24295318605ac2fd5554315dfd63", null ]
+    [ "npc_death_ravagerAI", "de/db0/a15388.html#ad18242b078db0883029537562a41cc20", null ],
+    [ "Reset", "de/db0/a15388.html#ac0fdbfe2f324785569fa742e0b244b83", null ],
+    [ "UpdateAI", "de/db0/a15388.html#ac3dce7d79e67f20d7a8fe161da9d5279", null ],
+    [ "EnragingBiteTimer", "de/db0/a15388.html#af33898ebd9bea6b1a58b673373de3c64", null ],
+    [ "RendTimer", "de/db0/a15388.html#ad7ff02fe6e11a0fb0d8a3ae869ed5f6d", null ]
 ];

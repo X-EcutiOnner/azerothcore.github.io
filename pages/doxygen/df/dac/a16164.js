@@ -1,6 +1,6 @@
 var a16164 =
 [
-    [ "HandlePeriodic", "df/dac/a16164.html#a7753587518171689f86f3f76269c1b8a", null ],
-    [ "PrepareAuraScript", "df/dac/a16164.html#aa73351e7200bee94b0068fb8dabfada5", null ],
-    [ "Register", "df/dac/a16164.html#ab126fe8d4387609e8834898c3b3a67ea", null ]
+    [ "HandleForceCast", "df/dac/a16164.html#a975b69649aba9de341f4e52c82a3c111", null ],
+    [ "PrepareSpellScript", "df/dac/a16164.html#a2dde8402cc4e8552faf3d8a1f4c6e60e", null ],
+    [ "Register", "df/dac/a16164.html#a794a59e5fd3bda75f30d559f422895b5", null ]
 ];

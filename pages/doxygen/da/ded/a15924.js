@@ -1,7 +1,14 @@
 var a15924 =
 [
-    [ "HandleEffectRemove", "da/ded/a15924.html#a45ed6d3f1c80dcef3ee6c59e744f13c6", null ],
-    [ "PrepareAuraScript", "da/ded/a15924.html#a34b88963dd81e6a8855daaedb9c238d4", null ],
-    [ "Register", "da/ded/a15924.html#a7c0533650e772713233ea45b0264cbff", null ],
-    [ "Validate", "da/ded/a15924.html#a7690603bd7b01ca6da2a73ac8ed36114", null ]
+    [ "boss_anub_arakAI", "da/ded/a15924.html#a9b9dc11d78456efd9c6ad69e0c12e022", null ],
+    [ "EnterEvadeMode", "da/ded/a15924.html#a016f17a11be149cbb6cc1343f2916a4f", null ],
+    [ "JustDied", "da/ded/a15924.html#abc93931e7698ffd717199a598e16c917", null ],
+    [ "JustEngagedWith", "da/ded/a15924.html#a589c252516b738a8f38f9d89da11912c", null ],
+    [ "JustSummoned", "da/ded/a15924.html#a8624e9dc8af370579bd7ef72063acbf8", null ],
+    [ "KilledUnit", "da/ded/a15924.html#a33e26ae3907e84ecc02514e4133e3002", null ],
+    [ "MoveInLineOfSight", "da/ded/a15924.html#ab89570d2d0ddb494fa20f24d95cac41b", null ],
+    [ "Reset", "da/ded/a15924.html#a254a51a901c0e82da6cb87ade5eba6fa", null ],
+    [ "SummonHelpers", "da/ded/a15924.html#a709ef4602ace41c9b9ccebe8795badec", null ],
+    [ "UpdateAI", "da/ded/a15924.html#acf3ddec273ded62c768631be2b3299fa", null ],
+    [ "intro", "da/ded/a15924.html#a4916d6a1ed06330e94698a13c404ee52", null ]
 ];

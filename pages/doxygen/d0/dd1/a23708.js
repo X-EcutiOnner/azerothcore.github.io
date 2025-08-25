@@ -1,8 +1,8 @@
 var a23708 =
 [
-    [ "HandleEffectApply", "d0/dd1/a23708.html#ad75c8c6279e606d6a557a61d97ee8f42", null ],
-    [ "HandleEffectRemove", "d0/dd1/a23708.html#a7cd59f7ca82a6507024842ebcb1ba093", null ],
-    [ "PrepareAuraScript", "d0/dd1/a23708.html#a438a8ba3688e0832853bae4183695494", null ],
-    [ "Register", "d0/dd1/a23708.html#a52a86cce0afa66203cc5982ddbe5de4f", null ],
-    [ "Validate", "d0/dd1/a23708.html#ab07b244e53b397bc9e9842655617a80d", null ]
+    [ "npc_warchief_portal", "d0/dd1/a23708.html#a1a52395a5ae66f5cc5f92c6d4ce81893", null ],
+    [ "JustSummoned", "d0/dd1/a23708.html#ad90c834dc059040f3922f58dc3bcf4a2", null ],
+    [ "SetData", "d0/dd1/a23708.html#a538ab8c6e7683aa02e8c75f9dd900be8", null ],
+    [ "UpdateAI", "d0/dd1/a23708.html#a8c400cf1b9f41696807e11f1f135c0ad", null ],
+    [ "_scheduler", "d0/dd1/a23708.html#a76bb6a89f0922ed0bc0289ee4e0f20d4", null ]
 ];

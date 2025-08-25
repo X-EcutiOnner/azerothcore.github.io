@@ -1,7 +1,11 @@
 var a21936 =
 [
-    [ "HandleScriptEffect", "d9/d57/a21936.html#a2d39a073c351860db735301b4cf9c79f", null ],
-    [ "PrepareSpellScript", "d9/d57/a21936.html#a3674adaef23f1531af360a65c14efadd", null ],
-    [ "Register", "d9/d57/a21936.html#a11b217c0066217f2da5ff42ce35c9a0a", null ],
-    [ "Validate", "d9/d57/a21936.html#a3dadb61ca7dd8195ba5fdac5bf49583c", null ]
+    [ "npc_torturer_lecraftAI", "d9/d57/a21936.html#a0886d83c8ab8b7db728928ecf922031b", null ],
+    [ "JustEngagedWith", "d9/d57/a21936.html#ac6fa83aa5673bd6c90e128f06e56049e", null ],
+    [ "Reset", "d9/d57/a21936.html#a13177e318e7777ecb13ba71c4f10f425", null ],
+    [ "SpellHit", "d9/d57/a21936.html#a837805efcb6c99de55646a232f151ae8", null ],
+    [ "UpdateAI", "d9/d57/a21936.html#a45919da006b0e767ec38810a6fcbac5d", null ],
+    [ "_events", "d9/d57/a21936.html#a7879e11a94c32266ed11dc352ae7e802", null ],
+    [ "_playerGUID", "d9/d57/a21936.html#ab792ceb52fe5c04851f69b9c2922822d", null ],
+    [ "_textCounter", "d9/d57/a21936.html#aa7560f419ca1486efb9d6c3bda3cedf1", null ]
 ];

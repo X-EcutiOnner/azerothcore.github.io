@@ -1,8 +1,6 @@
 var a21300 =
 [
-    [ "npc_frozen_orbAI", "df/dec/a21300.html#aa7456d1d876690e3723ee0a36866348b", null ],
-    [ "JustEngagedWith", "df/dec/a21300.html#afd9686dbb8503d7f756b670269aed33d", null ],
-    [ "Reset", "df/dec/a21300.html#a376dc1fcef9752e235008c4ba66e2463", null ],
-    [ "UpdateAI", "df/dec/a21300.html#a37d7cf81197fe4344c8b847753997e93", null ],
-    [ "switchTimer", "df/dec/a21300.html#afc63a3cf6b814df81a35b53278d722c9", null ]
+    [ "HandleOnHit", "df/dec/a21300.html#aa3f90eb49ae947b5729f722750cb8711", null ],
+    [ "PrepareSpellScript", "df/dec/a21300.html#a3b62711a0ba478d6321a93d436359939", null ],
+    [ "Register", "df/dec/a21300.html#af7bdde31f1221d5679983a41e3eca204", null ]
 ];

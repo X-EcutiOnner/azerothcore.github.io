@@ -1,6 +1,8 @@
 var a15508 =
 [
-    [ "npc_clintar_spiritAI", "dd/d2c/a15512.html", "dd/d2c/a15512" ],
-    [ "npc_clintar_spirit", "df/dcb/a15508.html#a416f5eea882f2c13c4c0f7dd81d36a2b", null ],
-    [ "GetAI", "df/dcb/a15508.html#a118198504f6f93c86302275a11582d60", null ]
+    [ "CheckRequirement", "df/dcb/a15508.html#ae2b5e9accd0df2cc99e976eaab2d3f35", null ],
+    [ "HandleDummy", "df/dcb/a15508.html#a6d2c75ad53f0e0f7be2df037f385d686", null ],
+    [ "PrepareSpellScript", "df/dcb/a15508.html#a5b0a5f957a7b996cbe6b219a9803069e", null ],
+    [ "Register", "df/dcb/a15508.html#a46f4aec6f7786d0abc8ded21ef16e6f6", null ],
+    [ "Validate", "df/dcb/a15508.html#ab3f8d94f3b8d44e668743cb821430a92", null ]
 ];

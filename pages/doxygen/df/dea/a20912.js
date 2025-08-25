@@ -1,11 +1,10 @@
 var a20912 =
 [
-    [ "boss_yoggsaron_lich_kingAI", "df/dea/a20912.html#a4fcf1be1bc20327ff8daf9c79baabde7", null ],
-    [ "NextStep", "df/dea/a20912.html#a4f99e511d6296b56df8ab8fbe53620e6", null ],
-    [ "Reset", "df/dea/a20912.html#a4c8f098f245e90685f0f3660028500a8", null ],
-    [ "Say", "df/dea/a20912.html#a01217dd4c33b0ccae448aa137e83dd9b", null ],
-    [ "UpdateAI", "df/dea/a20912.html#a3cbe18164c993fd034242b3f19d27e31", null ],
-    [ "_checkTimer", "df/dea/a20912.html#a8f0234b32612ff56ac6a7429f6e4da09", null ],
-    [ "_running", "df/dea/a20912.html#a9d7f0f2a8cf4f421253c8c5a6ec98111", null ],
-    [ "_step", "df/dea/a20912.html#a6af98b3daace7852a485983167538f85", null ]
+    [ "boss_yoggsaron_constrictor_tentacleAI", "df/dea/a20912.html#a351df0050661628e3ab0be2f636f9c4e", null ],
+    [ "DoAction", "df/dea/a20912.html#ad84c2b479a2d7df7aec40f17287a2438", null ],
+    [ "JustDied", "df/dea/a20912.html#a832d1b1154b158c348f9d5883ad0fbd7", null ],
+    [ "SelectConstrictTarget", "df/dea/a20912.html#a174be8d1673e332f9dceb10d2917bb4a", null ],
+    [ "UpdateAI", "df/dea/a20912.html#a00c137429f2b565bf195dab4e9902a7c", null ],
+    [ "_checkTimer", "df/dea/a20912.html#ae5c189401dd04823449e7a16c197e65f", null ],
+    [ "_playerGUID", "df/dea/a20912.html#a01d889af8d8fe5712cde73cdc2bf3c95", null ]
 ];

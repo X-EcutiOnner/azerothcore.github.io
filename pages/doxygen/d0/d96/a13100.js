@@ -1,7 +1,6 @@
 var a13100 =
 [
-    [ "HandleEffectApply", "d0/d96/a13100.html#a710536e0a3bacf173d037041e755bd82", null ],
-    [ "HandleEffectRemove", "d0/d96/a13100.html#a16623b3187e98fc50f5a3b8e0297b0ea", null ],
-    [ "PrepareAuraScript", "d0/d96/a13100.html#ab1d5eb39b503f7e08a404cf172b8de96", null ],
-    [ "Register", "d0/d96/a13100.html#a9092818bdb15a12163aae633049cb7f6", null ]
+    [ "npc_risen_guardianAI", "db/df8/a13104.html", "db/df8/a13104" ],
+    [ "npc_risen_guardian", "d0/d96/a13100.html#a472274c69abe912f5781c60911204eb5", null ],
+    [ "GetAI", "d0/d96/a13100.html#a568f57a442adcd64c8c3d2e4d5df729f", null ]
 ];

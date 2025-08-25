@@ -1,20 +1,16 @@
 var a28556 =
 [
-    [ "RealmMap", "d9/d38/a28556.html#a6031c19ec935fbe535f60a1014483dbd", null ],
-    [ "RealmList", "d9/d38/a28556.html#abe7dfad5160a08a5852cb1436a06eaa9", null ],
-    [ "~RealmList", "d9/d38/a28556.html#a64bea5f38384143cc960840a8e84ef00", null ],
-    [ "Close", "d9/d38/a28556.html#a14a4d9b5383da24bc1ad9754cdfa2183", null ],
-    [ "GetBuildInfo", "d9/d38/a28556.html#a0f7136cb280d2461b1ec0d080645c6e0", null ],
-    [ "GetRealm", "d9/d38/a28556.html#a3e25e63168bcff88d021294559ccf0c5", null ],
-    [ "GetRealms", "d9/d38/a28556.html#afc2cbe2a4ee4d9870821dbe8d96e8fa4", null ],
-    [ "Initialize", "d9/d38/a28556.html#a70954d518dc4559e0aca0388f13db411", null ],
-    [ "Instance", "d9/d38/a28556.html#aea053134fe293fbd4a8801b25fbb44ca", null ],
-    [ "LoadBuildInfo", "d9/d38/a28556.html#a1f8866e57557beb7d69037a63e34428d", null ],
-    [ "UpdateRealm", "d9/d38/a28556.html#ae15cf59b00e8e8e561f266d5dd3e11ae", null ],
-    [ "UpdateRealms", "d9/d38/a28556.html#a0b4559e5538a02ccf5247839005d602e", null ],
-    [ "_builds", "d9/d38/a28556.html#a7c38c3c8b4fe6554c66dbc5ada26a3e0", null ],
-    [ "_realms", "d9/d38/a28556.html#a41693a01cd88ea99b54dd9ca8fe6b445", null ],
-    [ "_resolver", "d9/d38/a28556.html#a1beee0fdd1a9e61f68db925f53d373a9", null ],
-    [ "_updateInterval", "d9/d38/a28556.html#ac07fe3cd4fc18169af4f63b207902e95", null ],
-    [ "_updateTimer", "d9/d38/a28556.html#a5619be8a2649680901cfd7a3608e984a", null ]
+    [ "~SocketMgr", "d9/d38/a28556.html#a8c8b979692599a68d6f9dbe864e58645", null ],
+    [ "SocketMgr", "d9/d38/a28556.html#a7582b914e42af5d67e4a4e968fd99b4a", null ],
+    [ "CreateThreads", "d9/d38/a28556.html#ac712a459d409da9e8f21603da8aa0305", null ],
+    [ "GetNetworkThreadCount", "d9/d38/a28556.html#ac1afac1d7f3e5092e9fe4425412186fc", null ],
+    [ "GetSocketForAccept", "d9/d38/a28556.html#a6d8519103f85522d3bc0bfac5a0955c9", null ],
+    [ "OnSocketOpen", "d9/d38/a28556.html#a83b2b85da48d4ffb0e1ed7577dde75c4", null ],
+    [ "SelectThreadWithMinConnections", "d9/d38/a28556.html#abf161238fa7dcf2ee8b3a4ef3c71d5fd", null ],
+    [ "StartNetwork", "d9/d38/a28556.html#a81fc5b0c7bc9750b67ca607ae0cf2c81", null ],
+    [ "StopNetwork", "d9/d38/a28556.html#a7966832a9ef2151033ac9eeeadffff34", null ],
+    [ "Wait", "d9/d38/a28556.html#aace37f1c8fa4c4c4dd378ba2da496b50", null ],
+    [ "_acceptor", "d9/d38/a28556.html#af397e6129662d41adeeef25d27a980ea", null ],
+    [ "_threadCount", "d9/d38/a28556.html#abeae5090b8ea81e39465a20c7b960885", null ],
+    [ "_threads", "d9/d38/a28556.html#a0802f42ee5a7c8fec400e5034d87caac", null ]
 ];

@@ -1,6 +1,5 @@
 var a10916 =
 [
-    [ "WorldStateInfo", "d0/dce/a10916.html#a64fd2e4da7035ea6c01b8ab0819d2f86", null ],
-    [ "Value", "d0/dce/a10916.html#afe5a0e98713c986a17f431795c488c6c", null ],
-    [ "VariableID", "d0/dce/a10916.html#a627bba237bce23aff74fd2bf7a274657", null ]
+    [ "RequestPetInfo", "d0/dce/a10916.html#ae0861d1fb77fe39bb48c26505e36ed2b", null ],
+    [ "Read", "d0/dce/a10916.html#a5cc9bb57bce7dc7f24243fdc63e17870", null ]
 ];

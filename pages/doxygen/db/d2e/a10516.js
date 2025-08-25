@@ -1,8 +1,5 @@
 var a10516 =
 [
-    [ "PlayedTime", "db/d2e/a10516.html#abc477d90a27dc41a7c643448302464cf", null ],
-    [ "Write", "db/d2e/a10516.html#a147071f2545cd91213d6c92dab7438c7", null ],
-    [ "LevelTime", "db/d2e/a10516.html#a2bf832827f9497a59bbfac714799b4b5", null ],
-    [ "TotalTime", "db/d2e/a10516.html#ae762fe00339a8f4ca6f9e14bb8515251", null ],
-    [ "TriggerScriptEvent", "db/d2e/a10516.html#a434b33c61ba5e2d91f084cbfe425c964", null ]
+    [ "PlayerLogout", "db/d2e/a10516.html#afacee5b02c2adc4bec608b6f280fbcf1", null ],
+    [ "Read", "db/d2e/a10516.html#accbe1ced6a10ea2fa699df5e74575795", null ]
 ];

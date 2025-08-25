@@ -1,9 +1,8 @@
 var a22516 =
 [
-    [ "OPvPCapturePointGH", "d4/de6/a22516.html#a6e46100e50212310af4301c492d5773e", null ],
-    [ "ChangeState", "d4/de6/a22516.html#afe53e37a3a1dc4a7068c03302f26b981", null ],
-    [ "FillInitialWorldStates", "d4/de6/a22516.html#a11d305d6f50ce2535bd5d7b2e7a3389f", null ],
-    [ "HandlePlayerEnter", "d4/de6/a22516.html#afea733c44d129d9a5af78a8337d9e04a", null ],
-    [ "HandlePlayerLeave", "d4/de6/a22516.html#a1e5d9c6f02eb02dfed654078c910635b", null ],
-    [ "SendChangePhase", "d4/de6/a22516.html#aec741b9102829bf77850dc06a49bb8da", null ]
+    [ "HandleApply", "d4/de6/a22516.html#ad8ee9a50314c900b1507e25eaa70ece7", null ],
+    [ "HandleRemove", "d4/de6/a22516.html#a06c7c65d973fcf348f5c929503902520", null ],
+    [ "PrepareAuraScript", "d4/de6/a22516.html#a48b20c0f1997acd0f9f0800bf4b63bd0", null ],
+    [ "Register", "d4/de6/a22516.html#a7018a16262b94a573405e1bdc9fbdd10", null ],
+    [ "Validate", "d4/de6/a22516.html#a8135c492638557eec71189282e7f78a2", null ]
 ];

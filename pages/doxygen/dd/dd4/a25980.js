@@ -1,8 +1,8 @@
 var a25980 =
 [
-    [ "CheckProc", "dd/dd4/a25980.html#a4f8e030154606e0781ebb89294019e0e", null ],
-    [ "HandleProc", "dd/dd4/a25980.html#a3d3db432fb051785f51ece4052ec8907", null ],
-    [ "PrepareAuraScript", "dd/dd4/a25980.html#aed40577ca9a1de3efc501606bcc9a8dd", null ],
-    [ "Register", "dd/dd4/a25980.html#a8cfdc8d98946fca603971ad91035e21c", null ],
-    [ "Validate", "dd/dd4/a25980.html#abfd3c0ad08ad287b38e8da437c18376c", null ]
+    [ "CheckQuest", "dd/dd4/a25980.html#ab7ebff0894832ac009cda89b7c28e252", null ],
+    [ "HandleDummy", "dd/dd4/a25980.html#a365df14504a54e95e7d68d22a284e441", null ],
+    [ "HandleOpenObject", "dd/dd4/a25980.html#a69467afd49dc2429b8ba9640c8af5dfa", null ],
+    [ "PrepareSpellScript", "dd/dd4/a25980.html#a479e313031a2e71473238d8f645bf2d4", null ],
+    [ "Register", "dd/dd4/a25980.html#a70f1a91e611cc2092aad44a909cd53db", null ]
 ];

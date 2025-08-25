@@ -1,6 +1,6 @@
 var a24436 =
 [
-    [ "DeathEvent", "d2/da8/a24436.html#a2fb9a98c077d715c4648aede6597276e", null ],
-    [ "Execute", "d2/da8/a24436.html#a497ac46ab1acf95816020fc6be8ce03a", null ],
-    [ "_owner", "d2/da8/a24436.html#a099d0d5ae50126f00220b3ed90907617", null ]
+    [ "PrepareSpellScript", "d2/da8/a24436.html#ae915f8f6522f0a8d308b2a5f43b8884f", null ],
+    [ "RecalculateDamage", "d2/da8/a24436.html#af01757d0968da2a096d800782ed7e66e", null ],
+    [ "Register", "d2/da8/a24436.html#a62b6613707a2a9b78d52bffe92de604e", null ]
 ];

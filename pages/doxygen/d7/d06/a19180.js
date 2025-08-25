@@ -1,6 +1,6 @@
 var a19180 =
 [
-    [ "boss_thaddius_summonAI", "d7/d93/a19184.html", "d7/d93/a19184" ],
-    [ "boss_thaddius_summon", "d7/d06/a19180.html#a0fd6c83b5ff6d62b1649f9a13de05c73", null ],
-    [ "GetAI", "d7/d06/a19180.html#aaab5973012f9ac55e8b29cc90f5ec98e", null ]
+    [ "boss_razuviousAI", "d7/d93/a19184.html", "d7/d93/a19184" ],
+    [ "boss_razuvious", "d7/d06/a19180.html#ac1a2942f4a7957c671b075df7bf20215", null ],
+    [ "GetAI", "d7/d06/a19180.html#a350a7cf0c3e21e29c3c28155d63dcb87", null ]
 ];

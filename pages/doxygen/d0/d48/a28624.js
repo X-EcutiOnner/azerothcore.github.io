@@ -1,10 +1,6 @@
 var a28624 =
 [
-    [ "adt_CELLS", "d8/d5a/a28632.html", "d8/d5a/a28632" ],
-    [ "getMCNK", "d0/d48/a28624.html#a8330b7cb405146399d3d20e6952a8b40", null ],
-    [ "prepareLoadedData", "d0/d48/a28624.html#adc7346499aa51f4422c810b7e757f835", null ],
-    [ "cells", "d0/d48/a28624.html#a434ed0ca354ec27d5334cc63e5650038", null ],
-    [ "fcc", "d0/d48/a28624.html#ae7d4acf20e102b6b8f19ded3fe219a7d", null ],
-    [ "fcc_txt", "d0/d48/a28624.html#a514bae36851623daf76b26a9d63f1ae0", null ],
-    [ "size", "d0/d48/a28624.html#a1a40f52ea9eef3add8207da89cb71210", null ]
+    [ "SetUp", "d0/d48/a28624.html#a5ee46555116eca62d3e8320dd5a5fbbb", null ],
+    [ "_distributor", "d0/d48/a28624.html#a6c043c7543dec59e640b379aec1ad0d0", null ],
+    [ "_mockRewarder", "d0/d48/a28624.html#ad466c2751d8e9739db56f9f82d15deff", null ]
 ];

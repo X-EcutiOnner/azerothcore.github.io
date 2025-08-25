@@ -1,7 +1,7 @@
 var a17712 =
 [
-    [ "HandleScript", "dd/d40/a17712.html#ae3e8d811d3ad6561768dfff3a16ec9bd", null ],
-    [ "PrepareSpellScript", "dd/d40/a17712.html#ab69926839f72ee76eba2b225aba9690c", null ],
-    [ "Register", "dd/d40/a17712.html#aad8925e891d7537993f02f3bc2552fea", null ],
-    [ "SelectRandomTarget", "dd/d40/a17712.html#aae77f6693a3e5d01e3d05cb990fd1fe5", null ]
+    [ "FilterTargets", "dd/d40/a17712.html#a32b2fa87fb2eaca3db0801fbfe4b8aaa", null ],
+    [ "Load", "dd/d40/a17712.html#a39e8ec4726a1f6c2911c165c7187f291", null ],
+    [ "PrepareSpellScript", "dd/d40/a17712.html#a7526a6df4c25136f4be78e753c6abf62", null ],
+    [ "Register", "dd/d40/a17712.html#a0d01b8292c1c071a5c828a5a88617bd5", null ]
 ];

@@ -1,7 +1,7 @@
 var a19668 =
 [
-    [ "HandleEffectRemove", "d0/d89/a19668.html#af61220cb739baef9b33aecddb1cfe5ea", null ],
-    [ "PrepareAuraScript", "d0/d89/a19668.html#ad8035b1b676751fcc299e4ad8df62ed8", null ],
-    [ "Register", "d0/d89/a19668.html#abe52dbfdbd42c860e0a79873dd19e22d", null ],
-    [ "Validate", "d0/d89/a19668.html#a7c4f9df92b501720e30372fa9e9dbad7", null ]
+    [ "creature", "d0/d89/a19668.html#a55a6ee677ab51120867f542e5a5745b0", null ],
+    [ "sound", "d0/d89/a19668.html#a407acf5c908aa44a169adc1e88a70ab4", null ],
+    [ "text", "d0/d89/a19668.html#a9ed157ddf2c274d021820723b1ebe00e", null ],
+    [ "timer", "d0/d89/a19668.html#a198a3a5a4ad037b591fc3b85675bdfe1", null ]
 ];

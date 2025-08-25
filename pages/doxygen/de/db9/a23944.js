@@ -1,6 +1,7 @@
 var a23944 =
 [
-    [ "instance_mechanar_InstanceMapScript", "da/d8c/a23948.html", "da/d8c/a23948" ],
-    [ "instance_mechanar", "de/db9/a23944.html#ab31a66a0eb8b9ac6f79af479528ff4fd", null ],
-    [ "GetInstanceScript", "de/db9/a23944.html#ae8e9810a9bfd6b0ec256dd6a288392ed", null ]
+    [ "boss_gatewatcher_iron_hand", "de/db9/a23944.html#aef70e713007af38b510f0a3b8c082b24", null ],
+    [ "JustDied", "de/db9/a23944.html#a36b10cd02b35b6e106687b08bc80bfa6", null ],
+    [ "JustEngagedWith", "de/db9/a23944.html#aa6a9f456d158e4c0332816c7e65ec155", null ],
+    [ "KilledUnit", "de/db9/a23944.html#a1973142412b4094dbd9fa51600741148", null ]
 ];

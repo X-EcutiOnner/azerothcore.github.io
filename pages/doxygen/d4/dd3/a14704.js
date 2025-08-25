@@ -1,10 +1,7 @@
 var a14704 =
 [
-    [ "npc_hyjal_frost_wyrm", "d4/dd3/a14704.html#a7cdc8ef87d5ccb88777fa823e199b9ce", null ],
-    [ "AttackStart", "d4/dd3/a14704.html#abaaea3bcbb8806ed9d807742273eb06d", null ],
-    [ "DoAction", "d4/dd3/a14704.html#adab2b42c582cee234aea37d187b66138", null ],
-    [ "JustEngagedWith", "d4/dd3/a14704.html#a23dace13bb2811dea43b63f0b970a2ce", null ],
-    [ "PathEndReached", "d4/dd3/a14704.html#a2ec3137dad743e4766ca402282d913c7", null ],
-    [ "Reset", "d4/dd3/a14704.html#a550c20113f4ebe4015f9a8088888f99b", null ],
-    [ "UpdateAI", "d4/dd3/a14704.html#a182c3b440f74a4ebe6dee64651bf701f", null ]
+    [ "hyjalJainaAI", "da/d63/a14708.html", "da/d63/a14708" ],
+    [ "npc_hyjal_jaina", "d4/dd3/a14704.html#a6616aa6c38818770610259312a392a3f", null ],
+    [ "GetAI", "d4/dd3/a14704.html#ab1891f5a2aacf5d9aeb9377bd92393ed", null ],
+    [ "OnGossipSelect", "d4/dd3/a14704.html#a47853fa317b1a9325fcbe555867139f6", null ]
 ];

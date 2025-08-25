@@ -1,6 +1,8 @@
 var a20244 =
 [
-    [ "npc_ulduar_hodir_mageAI", "da/dc8/a20248.html", "da/dc8/a20248" ],
-    [ "npc_ulduar_hodir_mage", "d7/da3/a20244.html#afebdd0f99f0c7eaaf0a2d5731335105d", null ],
-    [ "GetAI", "d7/da3/a20244.html#abcbe0337b2a83b6eb0a64f7465d7f79a", null ]
+    [ "npc_ulduar_flash_freezeAI", "d7/da3/a20244.html#a478e7bc76a7b7ffeb25a0df731cb5ed8", null ],
+    [ "DamageTaken", "d7/da3/a20244.html#af0c18460b4cc331f51c44a3306f516b8", null ],
+    [ "UpdateAI", "d7/da3/a20244.html#ab2efa0a8d06297bff05502c40079efe9", null ],
+    [ "pInstance", "d7/da3/a20244.html#a28be7874fee6dcaea6f205cb75f1450f", null ],
+    [ "timer", "d7/da3/a20244.html#a590117afe9e9943d8dc8a44af9386066", null ]
 ];

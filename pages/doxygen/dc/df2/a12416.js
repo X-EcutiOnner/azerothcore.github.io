@@ -1,10 +1,6 @@
 var a12416 =
 [
-    [ "boss_golemaggAI", "dc/df2/a12416.html#a79e2416a55a1531316d891ebff4e5575", null ],
-    [ "DamageTaken", "dc/df2/a12416.html#a5f9191609c7ff0715ba186f8ae28262b", null ],
-    [ "Reset", "dc/df2/a12416.html#aeed4cda9fae3e0b46832ec1bfecb97b0", null ],
-    [ "UpdateAI", "dc/df2/a12416.html#af7b322731241dbb08041a92cd355f273", null ],
-    [ "earthquakeTimer", "dc/df2/a12416.html#a6bfd75b1d57d8002cab075bbd5a12612", null ],
-    [ "enraged", "dc/df2/a12416.html#a52e6d8bcf979d216aff536e8fae3bf01", null ],
-    [ "pyroblastTimer", "dc/df2/a12416.html#a142ededff85d517c08744bdafd644c34", null ]
+    [ "boss_garrAI", "db/d8a/a12420.html", "db/d8a/a12420" ],
+    [ "boss_garr", "dc/df2/a12416.html#ab489eb068430a6aaa83c93104dd54d65", null ],
+    [ "GetAI", "dc/df2/a12416.html#abc673a3db7fce0101a0b95d5efbdefa3", null ]
 ];

@@ -1,10 +1,9 @@
 var a25388 =
 [
-    [ "CheckProc", "da/dc8/a25388.html#a8a7a0ac560eecc3777087622fb3f3951", null ],
-    [ "HandleProc", "da/dc8/a25388.html#a90eee01f380f97f033c82d7c6ec48d00", null ],
-    [ "OnApply", "da/dc8/a25388.html#a93818ec97cfd47da1dee454bb0a9318c", null ],
-    [ "OnRemove", "da/dc8/a25388.html#a5e978d4d46f42ba5098eaecd9473fccb", null ],
-    [ "PrepareAuraScript", "da/dc8/a25388.html#a73ae8e378b906a420955fd33d02ba6b7", null ],
-    [ "Register", "da/dc8/a25388.html#a7070f64c9c47c8c1bc26e49b2b60a110", null ],
-    [ "Validate", "da/dc8/a25388.html#a91c5a0e10c308332e18dc40033049996", null ]
+    [ "spell_gen_translocate", "da/dc8/a25388.html#a56a3df0eba3e1521aa2898194c39e919", null ],
+    [ "HandleScript", "da/dc8/a25388.html#a67684fb76da60fdc13dbece055dae157", null ],
+    [ "PrepareSpellScript", "da/dc8/a25388.html#a6f0986e54ad410c2f42a7935645485ed", null ],
+    [ "Register", "da/dc8/a25388.html#abbbcd1fdefbbd1778667ee69d449d63b", null ],
+    [ "Validate", "da/dc8/a25388.html#a0ae40ad6153a98dcd98cdfebeb515faf", null ],
+    [ "_spellId", "da/dc8/a25388.html#a01e4c84404734b7da1bf5f31cb097e58", null ]
 ];

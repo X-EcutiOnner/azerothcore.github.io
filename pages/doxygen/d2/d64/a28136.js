@@ -1,12 +1,7 @@
 var a28136 =
 [
-    [ "ID", "d2/d64/a28136.html#a84ba697182123cb3e7dd3ba07241e971", null ],
-    [ "maxScale", "d2/d64/a28136.html#a23ca0ae7c45790a24f58546970194abf", null ],
-    [ "maxScaleLevel", "d2/d64/a28136.html#ad5d722d74bc08d4de3edd54c2f24addb", null ],
-    [ "minScale", "d2/d64/a28136.html#a3eacdd8639c6dd25dbd3205a58860cf9", null ],
-    [ "minScaleLevel", "d2/d64/a28136.html#a49d9d7847cc4d54891d83166eb277740", null ],
-    [ "Name", "d2/d64/a28136.html#a937fc579ab2790f4a972f07d3453a762", null ],
-    [ "petFoodMask", "d2/d64/a28136.html#a4d9dd8baa3f7981633248513bb25f4ca", null ],
-    [ "petTalentType", "d2/d64/a28136.html#a802000cefb6c4d357edfc45cc291e21e", null ],
-    [ "skillLine", "d2/d64/a28136.html#ad4498d40b31d18742ee4ac235cb58a2e", null ]
+    [ "Class", "d2/d64/a28136.html#abaaa0cd4d1b7f3ef5b297c5afdbc99fe", null ],
+    [ "Gender", "d2/d64/a28136.html#aba6251a7020c6e66b9fc7a21859df271", null ],
+    [ "ItemId", "d2/d64/a28136.html#a7d17ef6151f6b746223e44164ab5c20d", null ],
+    [ "Race", "d2/d64/a28136.html#aee768679c4b8ee7cd28ea3fa899206e3", null ]
 ];

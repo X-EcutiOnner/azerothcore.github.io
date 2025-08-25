@@ -1,13 +1,9 @@
 var a14068 =
 [
-    [ "npc_ohganAI", "da/d50/a14068.html#a43f7fa66ff39bca177d30fc1d0d78080", null ],
-    [ "JustDied", "da/d50/a14068.html#a89e506868e3191362545e34d21528b8f", null ],
-    [ "JustEngagedWith", "da/d50/a14068.html#a5b6171794c5b49e8ee439de7bdc51ba5", null ],
-    [ "KilledUnit", "da/d50/a14068.html#a4e202eef928e54bd52160705bba5cc35", null ],
-    [ "Reset", "da/d50/a14068.html#ac3e1bc9dc819138741eb3b4448051547", null ],
-    [ "SetGUID", "da/d50/a14068.html#a5baf8e15902d4d8ff06c8410314327f6", null ],
-    [ "UpdateAI", "da/d50/a14068.html#aea7c169bc2b7c52ff7d4d9a5dd7a6f0a", null ],
-    [ "_scheduler", "da/d50/a14068.html#a838f1354e24c47e1c52e4b50e2b93c85", null ],
-    [ "instance", "da/d50/a14068.html#aeb6f6bddf881edf818fdc31fc639d5d5", null ],
-    [ "reviveGUID", "da/d50/a14068.html#afc066ae0c6d370f6632408b08de3c3bb", null ]
+    [ "boss_jindo", "da/d50/a14068.html#a9aafe0282e0b5de90ce62b3f8b3cfb14", null ],
+    [ "EnterEvadeMode", "da/d50/a14068.html#a8b80f12d0b9b8e9c7aa7ec46fbb71500", null ],
+    [ "JustEngagedWith", "da/d50/a14068.html#a7f612a1e5033c5097856222cee41f2af", null ],
+    [ "JustSummoned", "da/d50/a14068.html#ac7382289d174ec70703b76dc4e451d39", null ],
+    [ "UpdateAI", "da/d50/a14068.html#aad8885f79fc527954102fc1b78ca8ad7", null ],
+    [ "_scheduler", "da/d50/a14068.html#a7ddbdc4d85936fd54fced20ff31e91cd", null ]
 ];

@@ -1,9 +1,9 @@
 var a18828 =
 [
-    [ "npc_icc_severed_essenceAI", "df/d75/a18828.html#a76366c33ab9ec7aa291c0df657fbef68", null ],
-    [ "CanAIAttack", "df/d75/a18828.html#a2cc2cfc967f9ad966d76571eb0eb630f", null ],
-    [ "DoAction", "df/d75/a18828.html#a938af3a7de5b26432e1ad515a326a032", null ],
-    [ "UpdateAI", "df/d75/a18828.html#a66e3324baa87ba109dd968a517ee82a5", null ],
-    [ "Class", "df/d75/a18828.html#aa627713be3a2ac01336d158d96aaccc7", null ],
-    [ "events", "df/d75/a18828.html#a1bab216925c4123d633d9613bb80365c", null ]
+    [ "npc_icc_skybreaker_marksmanAI", "df/d75/a18828.html#af6d3e79627102acbf764aa7ee8c7433b", null ],
+    [ "AttackStart", "df/d75/a18828.html#a82403eecdea07bfc8ed9509eb5a30dcd", null ],
+    [ "JustEngagedWith", "df/d75/a18828.html#a7648c626ded6d3abef798b46c77f991d", null ],
+    [ "Reset", "df/d75/a18828.html#acaaac3624e262d89920fa8a7da9e3cc0", null ],
+    [ "UpdateAI", "df/d75/a18828.html#affcd7c16fe4a50a0743c0f9bb5a9d321", null ],
+    [ "events", "df/d75/a18828.html#a5aaffc1e78c255c95893be1537e520d6", null ]
 ];

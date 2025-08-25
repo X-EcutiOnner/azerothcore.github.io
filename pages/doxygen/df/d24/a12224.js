@@ -1,14 +1,6 @@
 var a12224 =
 [
-    [ "boss_chromaggusAI", "df/d24/a12224.html#a06f811fb8aa0c15e07e8a771ac722056", null ],
-    [ "CanAIAttack", "df/d24/a12224.html#a4643974601831ced1f6173965009ad20", null ],
-    [ "Initialize", "df/d24/a12224.html#a0697edb4aa9fb60a0db2ccf54c32dc19", null ],
-    [ "JustEngagedWith", "df/d24/a12224.html#a66b6f31ebcfdb2fe9adba85311e655bb", null ],
-    [ "PathEndReached", "df/d24/a12224.html#a2805052cd90212ecb9b5f313f4ecc384", null ],
-    [ "Reset", "df/d24/a12224.html#aaa72a25326e9c4e1936020a1e6e7b87a", null ],
-    [ "SetGUID", "df/d24/a12224.html#a9b5889af178418a3750ae84707818cf7", null ],
-    [ "UpdateAI", "df/d24/a12224.html#a4a120f99c6586fd06af6699bfe913d24", null ],
-    [ "_breathSpells", "df/d24/a12224.html#a10e18592d163d4be586701de47da48c9", null ],
-    [ "_playerGUID", "df/d24/a12224.html#a03a7fc87c67b04eb0b1289276023c1b4", null ],
-    [ "Enraged", "df/d24/a12224.html#acc8b5cfbae8debb22a0493400ec310c4", null ]
+    [ "OnEffect", "df/d24/a12224.html#a1b5999f392cec9fea4431c3f746ee034", null ],
+    [ "PrepareSpellScript", "df/d24/a12224.html#a4748a82fcc7b3794850461092ee6b2e4", null ],
+    [ "Register", "df/d24/a12224.html#acfa32dfc22778576d0dd3096c456ebe0", null ]
 ];

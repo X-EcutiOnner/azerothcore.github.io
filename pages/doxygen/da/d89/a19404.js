@@ -1,24 +1,10 @@
 var a19404 =
 [
-    [ "boss_uromAI", "da/d89/a19404.html#abeb96b1a52d3daf6d8df91a4ce96dfa8", null ],
-    [ "AttackStart", "da/d89/a19404.html#ab9f197acf29e3616ef121d6c06573ccd", null ],
-    [ "EnterEvadeMode", "da/d89/a19404.html#aaf668ef4af475ec259e909567fda5d66", null ],
-    [ "GetPhaseByCurrentPosition", "da/d89/a19404.html#ab389d9d13a4a2fcca0498b1313093c17", null ],
-    [ "JustDied", "da/d89/a19404.html#a2e675e9df2dbe084b27ee81a8e33ee70", null ],
-    [ "JustEngagedWith", "da/d89/a19404.html#a02dbc09934058463d93b88268c70ca7c", null ],
-    [ "JustSummoned", "da/d89/a19404.html#ad298bdd2619770af73265b10e77f1190", null ],
-    [ "KilledUnit", "da/d89/a19404.html#abb34f62f4e4a7f88909b1293163b8c8e", null ],
-    [ "LeaveCombat", "da/d89/a19404.html#adbc7a01adc7dd95894f3d175677353e3", null ],
-    [ "MoveInLineOfSight", "da/d89/a19404.html#ad195384e0216075b7cae67875a0d7284", null ],
-    [ "Reset", "da/d89/a19404.html#a6b8817aec3aacbedbb290c178f5b9eb0", null ],
-    [ "SpellHit", "da/d89/a19404.html#a669ede4aef5ca1da7bcca867d7231c35", null ],
-    [ "UpdateAI", "da/d89/a19404.html#a037de8c5598890701fcef021abd14c71", null ],
-    [ "events", "da/d89/a19404.html#a97732ed404611bee7168e1f04722426c", null ],
-    [ "inCenter", "da/d89/a19404.html#a8a79ebc3f12e2e9b1001f81132ef4259", null ],
-    [ "lock", "da/d89/a19404.html#a9f8635cb44dd5ac3b148c69890cfb38f", null ],
-    [ "pInstance", "da/d89/a19404.html#ab4ef43ca30ccf83c81245db164288794", null ],
-    [ "releaseLockTimer", "da/d89/a19404.html#ab96273a14e3cec773d8fe79ca774ec52", null ],
-    [ "x", "da/d89/a19404.html#a8993238ebdb4b2cc2cb92e75f705d465", null ],
-    [ "y", "da/d89/a19404.html#ae4948d320ec32a56f514f8f01061c524", null ],
-    [ "z", "da/d89/a19404.html#a7bd99156fdc38c22d43e46da8509e8c7", null ]
+    [ "instance_nexus_InstanceMapScript", "da/d89/a19404.html#a6803f233d730f33e5af7dc9d8ecd9775", null ],
+    [ "Initialize", "da/d89/a19404.html#a2c6c42e73de2a155c04f80e37aa5d442", null ],
+    [ "OnCreatureCreate", "da/d89/a19404.html#a04806dc42aa0b171fa99eb1d8492ff61", null ],
+    [ "OnGameObjectCreate", "da/d89/a19404.html#a85c3ac915970d68a192414ca4ff8ad1f", null ],
+    [ "OnGameObjectRemove", "da/d89/a19404.html#ac148c67823484eee38ab6646dfb68530", null ],
+    [ "SetBossState", "da/d89/a19404.html#a11ac1fbc7c699084e7da5e4bf0595651", null ],
+    [ "SetData", "da/d89/a19404.html#a351052b1d3ea4ddb5d36ce69818c7e67", null ]
 ];

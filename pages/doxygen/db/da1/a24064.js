@@ -1,6 +1,6 @@
 var a24064 =
 [
-    [ "go_magtheridons_head", "db/da1/a24064.html#af5816b083f1856196bec7a75f0a995f3", null ],
-    [ "InitializeAI", "db/da1/a24064.html#a84fd97c0dfc2826a0b7795a9fbd70cd5", null ],
-    [ "OnStateChanged", "db/da1/a24064.html#a28682d161074b71e1f2d70236ff2b897", null ]
+    [ "npc_ancestral_wolfAI", "d1/de3/a24068.html", "d1/de3/a24068" ],
+    [ "npc_ancestral_wolf", "db/da1/a24064.html#a7cadf2848a086db63792f8068ee9463d", null ],
+    [ "GetAI", "db/da1/a24064.html#a201255a64d4e742ba8b118b4f2ec5cd5", null ]
 ];

@@ -1,5 +1,5 @@
 var a20304 =
 [
-    [ "achievement_i_could_say_that_this_cache_was_rare", "dc/d1f/a20304.html#a8ec1949d92f21fe57f967e510453da3e", null ],
-    [ "OnCheck", "dc/d1f/a20304.html#af68ad314c9b7be57964ca9baa8015bc9", null ]
+    [ "FlashFreezeCheck", "dc/d1f/a20304.html#a47d07a686a7c74dc8914a98762b16fe3", null ],
+    [ "operator()", "dc/d1f/a20304.html#a87475dc9e2f1b0eb508e9f56aa5c1e2f", null ]
 ];

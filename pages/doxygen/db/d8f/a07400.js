@@ -1,9 +1,12 @@
 var a07400 =
 [
-    [ "entry", "db/d8f/a07400.html#a4c6980a035279ca45e88a2ddc0beb0b5", null ],
-    [ "o", "db/d8f/a07400.html#a785703f50dcafda5888fb76af82a09da", null ],
-    [ "type", "db/d8f/a07400.html#aa21624a51b1fbfc474d0c64f4996cb9b", null ],
-    [ "x", "db/d8f/a07400.html#a55bd18cb9ea27748a07dd91f6783de23", null ],
-    [ "y", "db/d8f/a07400.html#a908fbf198d908963e77630b42deea147", null ],
-    [ "z", "db/d8f/a07400.html#a4a49f5cbb58764ea9c137fc010e898c6", null ]
+    [ "CapturePointInfo", "db/d8f/a07400.html#a8bd80d9a019a5579d32051c6c3f91c0b", null ],
+    [ "IsUncontrolled", "db/d8f/a07400.html#a4a4dbb61dd3ae83084ee518830fb7db0", null ],
+    [ "IsUnderControl", "db/d8f/a07400.html#a3f33897525f5104e2e7733dd6247c090", null ],
+    [ "IsUnderControl", "db/d8f/a07400.html#af6b021020b120b87c300981b8bb60992", null ],
+    [ "_areaTrigger", "db/d8f/a07400.html#aca64138e11e9e29a55bfedeee5b7e7ea", null ],
+    [ "_barStatus", "db/d8f/a07400.html#a02da5cc40ac6e97e63380d6f66e10d7e", null ],
+    [ "_ownerTeamId", "db/d8f/a07400.html#a5f0019635c5d05489f1ef97a95a7f01d", null ],
+    [ "_playersCount", "db/d8f/a07400.html#a7316d0eccaa25b9f30a39c48635e4c16", null ],
+    [ "player", "db/d8f/a07400.html#a97c5da6401e8423c1314ad1186e1dfeb", null ]
 ];

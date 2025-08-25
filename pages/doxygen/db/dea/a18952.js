@@ -1,7 +1,6 @@
 var a18952 =
 [
-    [ "HandleGameObjectDamage", "db/dea/a18952.html#a811edfe01c1784664b5b4253d2305b4e", null ],
-    [ "PrepareSpellScript", "db/dea/a18952.html#a0cfedeba2a747777de292b8f30b6752b", null ],
-    [ "Register", "db/dea/a18952.html#a2d3b99dfe386777cf71ccb2ccac9f3a7", null ],
-    [ "Validate", "db/dea/a18952.html#ab74d5c88a910fe191b071db3ac2c0381", null ]
+    [ "npc_isle_of_conquest_turretAI", "d5/d4b/a18956.html", "d5/d4b/a18956" ],
+    [ "npc_isle_of_conquest_turret", "db/dea/a18952.html#ac080845203adef25e6841133b7e2f4dc", null ],
+    [ "GetAI", "db/dea/a18952.html#a0f532e12439e900b3cb77619f1ecd17d", null ]
 ];

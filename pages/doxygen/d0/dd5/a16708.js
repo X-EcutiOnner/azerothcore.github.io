@@ -1,6 +1,5 @@
 var a16708 =
 [
-    [ "OnPeriodic", "d0/dd5/a16708.html#ab71faf6fb2900e176aac245317113758", null ],
-    [ "PrepareAuraScript", "d0/dd5/a16708.html#a5b4bf1fe2987cdebedaa2e7d048742d6", null ],
-    [ "Register", "d0/dd5/a16708.html#a8b90810bfc5416cdfeac2f6a72c55d3e", null ]
+    [ "achievement_better_off_dred", "d0/dd5/a16708.html#a1ff3442ab3e166a4001c4c10777bdf8a", null ],
+    [ "OnCheck", "d0/dd5/a16708.html#a9aab68b43fbf9f3c71c237b149f23b2d", null ]
 ];

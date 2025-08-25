@@ -1,8 +1,9 @@
 var a15160 =
 [
-    [ "npc_ouro_spawner", "d8/df3/a15160.html#acb18739e5a1734312ffdda35321e5f34", null ],
-    [ "JustSummoned", "d8/df3/a15160.html#a722dada5bf97c730462a0de2b082d5ff", null ],
-    [ "MoveInLineOfSight", "d8/df3/a15160.html#a83c0972db4435ccf1af069574e4056f4", null ],
-    [ "Reset", "d8/df3/a15160.html#ac1591f1c172bfdda25b020e00cd0835e", null ],
-    [ "hasSummoned", "d8/df3/a15160.html#a6ac376861c1206cc1551d9fa86c0fc97", null ]
+    [ "npc_giant_eye_tentacle", "d8/df3/a15160.html#a1adebf586a8a4413bb048936b90ddd3c", null ],
+    [ "JustDied", "d8/df3/a15160.html#a72cac50a711868256a41c543d0cef3da", null ],
+    [ "JustEngagedWith", "d8/df3/a15160.html#ac26b16e709e62c429b7ca88815bbc4cd", null ],
+    [ "Reset", "d8/df3/a15160.html#a4e605a585099d136d8f6bd42b6450f1d", null ],
+    [ "UpdateAI", "d8/df3/a15160.html#aacae6ea2616af2ad9515167fc1bab61d", null ],
+    [ "_portalGUID", "d8/df3/a15160.html#af9784b6d00e50ec28ed27361aaf3442f", null ]
 ];

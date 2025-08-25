@@ -1,9 +1,6 @@
 var a19756 =
 [
-    [ "CheckTargets", "d9/d40/a19756.html#a9340c167ef70508635092e273c23dcde", null ],
-    [ "CountTargets", "d9/d40/a19756.html#a996db37b678143fbc0a392032d29fff5", null ],
-    [ "Load", "d9/d40/a19756.html#a716bcf5bb0a24f9a57534c9dafb1a56f", null ],
-    [ "PrepareSpellScript", "d9/d40/a19756.html#a0b68ca6bdfe0f7c84236e5fe509d8fd9", null ],
-    [ "Register", "d9/d40/a19756.html#aed312a4408134589fd02bbcb844fd1b7", null ],
-    [ "_targetCount", "d9/d40/a19756.html#ac780614674e748274081f9f99a5165fe", null ]
+    [ "npc_algalon_worm_holeAI", "d0/d46/a19760.html", "d0/d46/a19760" ],
+    [ "npc_algalon_worm_hole", "d9/d40/a19756.html#a72516a4824fa61a331caff46d2784c64", null ],
+    [ "GetAI", "d9/d40/a19756.html#aac6ff3a41f08f5a11baa78c0526a3556", null ]
 ];

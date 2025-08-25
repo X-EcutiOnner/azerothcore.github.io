@@ -1,5 +1,5 @@
 var a21204 =
 [
-    [ "npc_ritual_channelerAI", "de/d56/a21204.html#aa770f8f2b9dd5fca86f9e63de7b4000f", null ],
-    [ "AttackStart", "de/d56/a21204.html#aff09fbdc1e701853c9953882ca73ce2a", null ]
+    [ "go_palehoof_sphere", "de/d56/a21204.html#a9e31fe7531980a5f75af95e24cbc272d", null ],
+    [ "OnGossipHello", "de/d56/a21204.html#ad939fd46f8bdf32d4e158f32f2bcd8da", null ]
 ];

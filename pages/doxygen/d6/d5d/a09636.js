@@ -1,5 +1,8 @@
 var a09636 =
 [
-    [ "bossId", "d6/d5d/a09636.html#af9fc7d02d16d4fb3547273428553cf05", null ],
-    [ "boundary", "d6/d5d/a09636.html#a7b474c6b9225102ba08864256d07d9e6", null ]
+    [ "InstResetEvent", "d6/d5d/a09636.html#aefa8f2b1b2cf29ad3472712278741fa4", null ],
+    [ "InstResetEvent", "d6/d5d/a09636.html#af6f80b924e52cd5296d21f4a5d1374c2", null ],
+    [ "difficulty", "d6/d5d/a09636.html#a67afe513dd42370ac4bb385a7128a324", null ],
+    [ "mapid", "d6/d5d/a09636.html#ad02e00b2782304fbd75973fe58eefd33", null ],
+    [ "type", "d6/d5d/a09636.html#ad211513c7ed39269d464190398dabaed", null ]
 ];

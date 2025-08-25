@@ -1,7 +1,6 @@
 var a18960 =
 [
-    [ "HandleTriggerSpell", "dc/dde/a18960.html#a0e75076c2aed1544c544b976ee9cfbcd", null ],
-    [ "PrepareAuraScript", "dc/dde/a18960.html#a6ce4c5c2b6797b38225ac3348aad5892", null ],
-    [ "Register", "dc/dde/a18960.html#af87272995f6eeb3bc53cf472f5c3e9d3", null ],
-    [ "Validate", "dc/dde/a18960.html#a813bad39641956fff697580f271416d2", null ]
+    [ "npc_four_car_garageAI", "dc/de4/a18964.html", "dc/de4/a18964" ],
+    [ "npc_four_car_garage", "dc/dde/a18960.html#ae9b811544ab5cbdcb9c44abdc2da41a8", null ],
+    [ "GetAI", "dc/dde/a18960.html#ac55346f9733c5502a9e9f2d6d48feefb", null ]
 ];

@@ -1,6 +1,6 @@
 var a22340 =
 [
-    [ "npc_vehicle_d16_propelled_deliveryAI", "d7/d4e/a22340.html#afd54b130725aa724b80f150f968ce09d", null ],
-    [ "MovementInform", "d7/d4e/a22340.html#a37800436af47a8f6fbc6f6eb25eab9f9", null ],
-    [ "PassengerBoarded", "d7/d4e/a22340.html#a588ed86f5b8316feafd938d85ac65aa0", null ]
+    [ "npc_freed_protodrakeAI", "d6/d20/a22344.html", "d6/d20/a22344" ],
+    [ "npc_freed_protodrake", "d7/d4e/a22340.html#a56e33e186800efa3fb86ca6a614e3b0b", null ],
+    [ "GetAI", "d7/d4e/a22340.html#a9680bf65cb97327396f58c297df1c8f5", null ]
 ];

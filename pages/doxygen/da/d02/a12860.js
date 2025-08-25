@@ -1,5 +1,5 @@
 var a12860 =
 [
-    [ "instance_magisters_terrace_InstanceMapScript", "da/d02/a12860.html#ad083ab5aa00902987e18f4e9423a705a", null ],
-    [ "ProcessEvent", "da/d02/a12860.html#a8dbe1537ea00412a6fa366891204d645", null ]
+    [ "boss_eramas_brightblaze", "da/d02/a12860.html#a14d1528750036f27948f5de8a2b44bd3", null ],
+    [ "JustEngagedWith", "da/d02/a12860.html#ad34613d2795f7371a43891488044392a", null ]
 ];

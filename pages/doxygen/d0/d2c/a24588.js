@@ -1,8 +1,9 @@
 var a24588 =
 [
-    [ "HandleDamage", "d0/d2c/a24588.html#a2c5149eb0b6698240c25b63e71af0854", null ],
-    [ "PrepareSpellScript", "d0/d2c/a24588.html#a8a19b594de9ba23a59e22db7d05eb60d", null ],
-    [ "Register", "d0/d2c/a24588.html#ad29179d9159700b52b0c21a779cd060b", null ],
-    [ "Suicide", "d0/d2c/a24588.html#a981f8547eae9b317111bf9a7016510ab", null ],
-    [ "Validate", "d0/d2c/a24588.html#aa2c3399146b15f754e073e4fa08f3d5a", null ]
+    [ "HandleAfterHit", "d0/d2c/a24588.html#ae1b4b01bd1a6903bcd594d2191e2770b", null ],
+    [ "Load", "d0/d2c/a24588.html#a7f0dae9dd4ead6ea10e8343810671282", null ],
+    [ "PrepareSpellScript", "d0/d2c/a24588.html#a293ff5d232851bce7cbc4a83aa8253b5", null ],
+    [ "Register", "d0/d2c/a24588.html#ae9eeb78d006bc01dd05fdd726dea9b90", null ],
+    [ "Validate", "d0/d2c/a24588.html#afdbb71f81aacc9ac1a5119707952ec52", null ],
+    [ "_executed", "d0/d2c/a24588.html#a2fe77cc280a5fa3bb324d969f1081b65", null ]
 ];

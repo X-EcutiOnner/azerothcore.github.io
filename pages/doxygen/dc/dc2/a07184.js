@@ -1,8 +1,9 @@
 var a07184 =
 [
-    [ "entry", "dc/dc2/a07184.html#ab47ef3b15c887f46fb1bf9c88f5cc5d8", null ],
-    [ "o", "dc/dc2/a07184.html#af2bf42b7d1a18e7ee1125a305ee7bc79", null ],
-    [ "x", "dc/dc2/a07184.html#a4fb658cf54f9534e0686a8fa5b2328c7", null ],
-    [ "y", "dc/dc2/a07184.html#aa761c9076be145dab6d2cac773bb6e7a", null ],
-    [ "z", "dc/dc2/a07184.html#ac9ff501bbf00d80f5b9350a78ffbb6fb", null ]
+    [ "entryAlliance", "dc/dc2/a07184.html#a0e5dba26d6d335a9d1e5f40e737acddd", null ],
+    [ "entryHorde", "dc/dc2/a07184.html#a374fff4b069e89489395246f378b4900", null ],
+    [ "o", "dc/dc2/a07184.html#af8a4ec46795bcdbc77c76302a4cfe639", null ],
+    [ "x", "dc/dc2/a07184.html#ab557bbe497fc769b390cf0799b6aaed9", null ],
+    [ "y", "dc/dc2/a07184.html#a44a8f3fd8d3cac7cfe61471d8b785ad4", null ],
+    [ "z", "dc/dc2/a07184.html#adebb903a00687e17d9088f5da2c97f4a", null ]
 ];

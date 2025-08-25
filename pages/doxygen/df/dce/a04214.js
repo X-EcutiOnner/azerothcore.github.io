@@ -1,8 +1,6 @@
 var a04214 =
 [
-    [ "TransactionBase", "d8/d73/a05872.html", "d8/d73/a05872" ],
-    [ "Transaction< T >", "db/daf/a05688.html", "db/daf/a05688" ],
-    [ "TransactionTask", "db/d0d/a05876.html", "db/d0d/a05876" ],
-    [ "TransactionWithResultTask", "d6/d45/a05880.html", "d6/d45/a05880" ],
-    [ "TransactionCallback", "d0/d83/a05884.html", "d0/d83/a05884" ]
+    [ "DatabaseWorkerPool< T >", "d3/df8/a05704.html", "d3/df8/a05704" ],
+    [ "MIN_MYSQL_CLIENT_VERSION", "df/dce/a04214.html#abfde8cf59610848eff4ea61d09bb8ca7", null ],
+    [ "MIN_MYSQL_SERVER_VERSION", "df/dce/a04214.html#acd4a83e86313ca0bb35cb66497bc79b2", null ]
 ];

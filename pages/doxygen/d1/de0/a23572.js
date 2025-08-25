@@ -1,12 +1,7 @@
 var a23572 =
 [
-    [ "boss_watchkeeper_gargolmar", "d1/de0/a23572.html#acb4212c6f852f50f3edfa3880806a9d2", null ],
-    [ "JustDied", "d1/de0/a23572.html#a39be5796b39bea913105fc48dda0d186", null ],
-    [ "JustEngagedWith", "d1/de0/a23572.html#a9e3194d02d0d3b66ef38118aa32ae684", null ],
-    [ "KilledUnit", "d1/de0/a23572.html#a22736c2680f41cfd3443a76cd4de9352", null ],
-    [ "MoveInLineOfSight", "d1/de0/a23572.html#adec9837fdb2595ce57acffb279a7d011", null ],
-    [ "Reset", "d1/de0/a23572.html#a356b7fe9071b073b74b21913e35e7408", null ],
-    [ "UpdateAI", "d1/de0/a23572.html#a1453d26ccbd3e78f46cb33f054d57759", null ],
-    [ "_hasSpoken", "d1/de0/a23572.html#a3cd89b2567668b52d96b02af7eb85db8", null ],
-    [ "_taunted", "d1/de0/a23572.html#ab5623501bf92e119806ba4e2ccd0cd7a", null ]
+    [ "boss_the_maker", "d1/de0/a23572.html#a478c48f225e8fdf14cde5b1f144cb6c4", null ],
+    [ "JustDied", "d1/de0/a23572.html#a564abd0a8f52c8c58a305f9c47d8475c", null ],
+    [ "JustEngagedWith", "d1/de0/a23572.html#a6b0a4442dbabde69ca9352017ee23675", null ],
+    [ "KilledUnit", "d1/de0/a23572.html#a40643ca00fe7d7029a291335e47c722a", null ]
 ];

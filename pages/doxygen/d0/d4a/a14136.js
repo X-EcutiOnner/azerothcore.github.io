@@ -1,6 +1,6 @@
 var a14136 =
 [
-    [ "boss_wushoolayAI", "df/d20/a14140.html", "df/d20/a14140" ],
-    [ "boss_wushoolay", "d0/d4a/a14136.html#a68359ee086bb4e86c3c16c4a03e54893", null ],
-    [ "GetAI", "d0/d4a/a14136.html#a70b476358956fd05d6effb75517e2b3d", null ]
+    [ "HandleObjectAreaTargetSelect", "d0/d4a/a14136.html#aa7695bddd766d5adefb04710d41894f6", null ],
+    [ "PrepareSpellScript", "d0/d4a/a14136.html#a77ba184428cfbb8ec3cc4670f78741e0", null ],
+    [ "Register", "d0/d4a/a14136.html#adbc2f1c4ec64b95ec72c82f36f12d928", null ]
 ];

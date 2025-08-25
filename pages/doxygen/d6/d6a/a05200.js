@@ -1,25 +1,9 @@
 var a05200 =
 [
-    [ "Record", "d6/d3f/a05204.html", "d6/d3f/a05204" ],
-    [ "DBCFileLoader", "d6/d6a/a05200.html#a99ba418c63c49cf9a028626b8e282a01", null ],
-    [ "~DBCFileLoader", "d6/d6a/a05200.html#a2e8dd3e5d88b870ea01e0c8dbfa55acd", null ],
-    [ "DBCFileLoader", "d6/d6a/a05200.html#a2e75536e8df1449449b4b6fe5585074d", null ],
-    [ "AutoProduceData", "d6/d6a/a05200.html#af8810dd9cef9ed82036bbebb4c938521", null ],
-    [ "AutoProduceStrings", "d6/d6a/a05200.html#a12054e13d90636076ce04587aacf8ff6", null ],
-    [ "GetCols", "d6/d6a/a05200.html#a3c536a9333a06213a37c95087eaaf8e3", null ],
-    [ "GetFormatRecordSize", "d6/d6a/a05200.html#a990308cf88d2772db090c37a66e9f9e5", null ],
-    [ "GetNumRows", "d6/d6a/a05200.html#aeedb51dd9b316063a58a989b175d0bc5", null ],
-    [ "GetOffset", "d6/d6a/a05200.html#ae624604ad0cdae8d3eb7212630a33613", null ],
-    [ "getRecord", "d6/d6a/a05200.html#ac4b1c79585f63f53f6d48db235732e20", null ],
-    [ "GetRowSize", "d6/d6a/a05200.html#af322bc9e92472463998ca8082c5da3d6", null ],
-    [ "IsLoaded", "d6/d6a/a05200.html#a28bf265dafc284e9edb55fc1ed261694", null ],
-    [ "Load", "d6/d6a/a05200.html#a32c6a04567395f66270858c5feb57f5f", null ],
-    [ "operator=", "d6/d6a/a05200.html#ac2b0f30fb125b8dae385ca8330d02e8b", null ],
-    [ "data", "d6/d6a/a05200.html#a137152d873bfa3cb2d3860fe6001f404", null ],
-    [ "fieldCount", "d6/d6a/a05200.html#a920472d71232fa759bce768fdca9a1c4", null ],
-    [ "fieldsOffset", "d6/d6a/a05200.html#a7aa68d259f6295df3029456bde143862", null ],
-    [ "recordCount", "d6/d6a/a05200.html#a1a17426b679598ee27363e897b40f2bf", null ],
-    [ "recordSize", "d6/d6a/a05200.html#ab4f28de7c57a6e25c715bb009ed5f701", null ],
-    [ "stringSize", "d6/d6a/a05200.html#a0761727ba38d899f337c733873742d69", null ],
-    [ "stringTable", "d6/d6a/a05200.html#a5961bf01316cc14a075c1b874000e8a2", null ]
+    [ "SessionKeyGenerator", "d6/d6a/a05200.html#a8fa39e01cd3ed24e13735343ad658cbb", null ],
+    [ "Generate", "d6/d6a/a05200.html#a2162fde8dbb84fc165faedaafed706b5", null ],
+    [ "o0", "d6/d6a/a05200.html#a1eb1aafb255ccf771b0a49dcab869297", null ],
+    [ "o0it", "d6/d6a/a05200.html#a7ea5a4a796da94a2dc14570d4336c27b", null ],
+    [ "o1", "d6/d6a/a05200.html#a462354aed63797a90fc228e6399cb740", null ],
+    [ "o2", "d6/d6a/a05200.html#a617205c872f2163026d511809776a775", null ]
 ];

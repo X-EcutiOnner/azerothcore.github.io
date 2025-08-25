@@ -1,6 +1,7 @@
 var a16300 =
 [
-    [ "npc_toc5_grand_champion_minionAI", "d4/d5f/a16304.html", "d4/d5f/a16304" ],
-    [ "npc_toc5_grand_champion_minion", "d1/dd4/a16300.html#a5761757b3cbbbce8ada4770805eb8de5", null ],
-    [ "GetAI", "d1/dd4/a16300.html#a55acf397b94ba63b1db626dc1041b28e", null ]
+    [ "HandleAfterEffectAbsorb", "d1/dd4/a16300.html#ab3d9f3679931b4b3b29713602d08701d", null ],
+    [ "PrepareAuraScript", "d1/dd4/a16300.html#a10ee3cda9edfec8140b94e13b88266bd", null ],
+    [ "Register", "d1/dd4/a16300.html#ab68a5ccfb0d96390bb83c329eb849cdd", null ],
+    [ "Validate", "d1/dd4/a16300.html#a87750183d2b2d6adb67bba4a1f767029", null ]
 ];

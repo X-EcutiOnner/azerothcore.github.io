@@ -1,7 +1,7 @@
 var a01643 =
 [
-    [ "ItemSetEffect", "dd/de3/a08316.html", "dd/de3/a08316" ],
-    [ "Item", "d9/d1e/a08320.html", "d9/d1e/a08320" ],
+    [ "ItemSetEffect", "d7/d07/a08324.html", "d7/d07/a08324" ],
+    [ "Item", "dc/d43/a08328.html", "dc/d43/a08328" ],
     [ "MAX_ENCHANTMENT_OFFSET", "d4/d49/a01643.html#a468d419c5aa228b6604358f9af3f15c6", null ],
     [ "MAX_GEM_SOCKETS", "d4/d49/a01643.html#a3561178c2cb0c7f26665f84ea7f69843", null ],
     [ "MAX_ITEM_SPELLS", "d4/d49/a01643.html#a49f24aab76debb803797ffeeaec168e6", null ],

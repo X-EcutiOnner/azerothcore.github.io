@@ -1,7 +1,7 @@
 var a10528 =
 [
-    [ "ChatServerMessage", "d3/d24/a10528.html#aa649857ceeba6b2f9e060f7d502cdb7a", null ],
-    [ "Write", "d3/d24/a10528.html#af8bad4d39693290674bda2e2ad8685bf", null ],
-    [ "MessageID", "d3/d24/a10528.html#afde854fc17313d214fa0f0cdc48ca9a9", null ],
-    [ "StringParam", "d3/d24/a10528.html#ac39a08d84c8f5934d0fe26e91809e60a", null ]
+    [ "Emote", "d3/d24/a10528.html#acb1620d125ffb11fe43caf4ebf27d1be", null ],
+    [ "Write", "d3/d24/a10528.html#a3f5532f40b59f47423d2b4e3749da88e", null ],
+    [ "EmoteID", "d3/d24/a10528.html#a7f4d3ee4353b408f8c795e6fdc552e76", null ],
+    [ "Guid", "d3/d24/a10528.html#ab96a1c0933e90872f54eb0995098274a", null ]
 ];

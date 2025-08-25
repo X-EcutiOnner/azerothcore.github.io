@@ -1,8 +1,9 @@
 var a16028 =
 [
-    [ "RestoreFight", "d2/d8b/a16028.html#a0149cccce8c3120b1e988e9a7c96f75c", null ],
-    [ "RestoreFight", "d2/d8b/a16028.html#a0149cccce8c3120b1e988e9a7c96f75c", null ],
-    [ "Execute", "d2/d8b/a16028.html#a019eb3c08dc8c3b97fc27b989ec8ab77", null ],
-    [ "Execute", "d2/d8b/a16028.html#a019eb3c08dc8c3b97fc27b989ec8ab77", null ],
-    [ "_owner", "d2/d8b/a16028.html#ae35c9b4547fcd7e8ea0f4b6ee4c637a0", null ]
+    [ "boss_sartharion_vesperonAI", "d2/d8b/a16028.html#afd67bf2c7a479771976673b05b0fc29e", null ],
+    [ "ClearInstance", "d2/d8b/a16028.html#aad9556374e26cbea7641461510fef9ba", null ],
+    [ "ExecuteEvent", "d2/d8b/a16028.html#aaf88a9e57c0d35f9e5d3fbcd4e2f5d09", null ],
+    [ "HandleExtraEvent", "d2/d8b/a16028.html#ab2080a14c105aeb6a9c155cf6f4ec17d", null ],
+    [ "Reset", "d2/d8b/a16028.html#aacf26c52f77ef4eb084814934f00aab1", null ],
+    [ "SummonedCreatureDies", "d2/d8b/a16028.html#a1e6fc9b1c734e73e5e27f6a17cf65d0b", null ]
 ];

@@ -1,5 +1,6 @@
 var a21680 =
 [
-    [ "npc_steam_powered_auctioneerAI", "df/d6f/a21680.html#a5ef3dfd385ee3e5a49bd5c0e165103fc", null ],
-    [ "CanBeSeen", "df/d6f/a21680.html#a3352588abda326f7c72d0764a3f53370", null ]
+    [ "npc_thassarian2AI", "d0/ddb/a21684.html", "d0/ddb/a21684" ],
+    [ "npc_thassarian2", "df/d6f/a21680.html#a8a2f1e1595349e4fa9968e85f17d0468", null ],
+    [ "GetAI", "df/d6f/a21680.html#adb87c99f3375f88eca55b39e1cd0bbd5", null ]
 ];

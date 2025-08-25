@@ -1,5 +1,9 @@
 var a20524 =
 [
-    [ "npc_ulduar_rocket_strike_triggerAI", "d2/d5c/a20524.html#a6308129d11989dadf0a5948c4a268e4b", null ],
-    [ "SpellHitTarget", "d2/d5c/a20524.html#a3c254e16f62e7d2414d81062c91c2468", null ]
+    [ "HandleEffectPeriodic", "d2/d5c/a20524.html#ae3cb0f7a3da5a72eaa59350d7df13ffc", null ],
+    [ "Load", "d2/d5c/a20524.html#a60deabce505dd3993dca0e71402dc190", null ],
+    [ "PrepareAuraScript", "d2/d5c/a20524.html#a9a2fae625718f854ec5d2587a01a2da7", null ],
+    [ "Register", "d2/d5c/a20524.html#a524c071390365b7dab59bc7a79b50f15", null ],
+    [ "_lastMSTime", "d2/d5c/a20524.html#a013e9e0eef93583722f7d347c2ebbc49", null ],
+    [ "_lastOrientation", "d2/d5c/a20524.html#a2537b325ff57b867092f3d9a1bd0fa8b", null ]
 ];

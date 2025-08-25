@@ -1,6 +1,5 @@
 var a23680 =
 [
-    [ "instance_shattered_halls_InstanceMapScript", "d0/da7/a23684.html", "d0/da7/a23684" ],
-    [ "instance_shattered_halls", "d8/da2/a23680.html#a9d0d3b6baec34c679151791610cff3a7", null ],
-    [ "GetInstanceScript", "d8/da2/a23680.html#a82388466811b022a725ba721845cadf3", null ]
+    [ "at_rp_nethekurse", "d8/da2/a23680.html#ac0a1891f90b674ad0ccbeb27f170e643", null ],
+    [ "_OnTrigger", "d8/da2/a23680.html#a93001d6dda7b2711f1efe100ffab5879", null ]
 ];

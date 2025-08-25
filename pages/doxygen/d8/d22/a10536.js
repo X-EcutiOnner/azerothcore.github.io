@@ -1,6 +1,7 @@
 var a10536 =
 [
-    [ "SetSheathed", "d8/d22/a10536.html#a0c6ff5057d2ee0c424c8539c0bf99857", null ],
-    [ "Read", "d8/d22/a10536.html#ae2158689450e3a9207b6992ea5223106", null ],
-    [ "CurrentSheathState", "d8/d22/a10536.html#a8363787ac7959f19234def2707ef0b32", null ]
+    [ "ChatServerMessage", "d8/d22/a10536.html#aa649857ceeba6b2f9e060f7d502cdb7a", null ],
+    [ "Write", "d8/d22/a10536.html#af8bad4d39693290674bda2e2ad8685bf", null ],
+    [ "MessageID", "d8/d22/a10536.html#afde854fc17313d214fa0f0cdc48ca9a9", null ],
+    [ "StringParam", "d8/d22/a10536.html#ac39a08d84c8f5934d0fe26e91809e60a", null ]
 ];

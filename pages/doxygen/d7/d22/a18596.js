@@ -1,6 +1,8 @@
 var a18596 =
 [
-    [ "npc_highlord_tirion_fordringAI", "d7/d8f/a18600.html", "d7/d8f/a18600" ],
-    [ "npc_highlord_tirion_fordring_lh", "d7/d22/a18596.html#a96102a488330c54a3e3654c767e8e1a5", null ],
-    [ "GetAI", "d7/d22/a18596.html#aea42394c04c1763cffe10eb5eba09854", null ]
+    [ "DecayPeriodicTimer", "d7/d22/a18596.html#a314ac33692cc352c490ec3d87177d67a", null ],
+    [ "Load", "d7/d22/a18596.html#af5a498253c4c382df3b2462a30448a64", null ],
+    [ "PrepareAuraScript", "d7/d22/a18596.html#ac5d4ee199b49e04499997355ac054554", null ],
+    [ "Register", "d7/d22/a18596.html#a1b59480ce384f09cecd47872b39cf3c5", null ],
+    [ "_decayRate", "d7/d22/a18596.html#a20c696ff06f9b48451d9eac43ccf5416", null ]
 ];

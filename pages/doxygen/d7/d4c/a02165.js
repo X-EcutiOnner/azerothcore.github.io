@@ -1,5 +1,6 @@
 var a02165 =
 [
-    [ "player_commandscript", "dd/d26/a11744.html", "dd/d26/a11744" ],
-    [ "AddSC_player_commandscript", "d7/d4c/a02165.html#a3a4a77162d5b304dab9a8c8e397c3516", null ]
+    [ "lfg_commandscript", "de/d90/a11728.html", "de/d90/a11728" ],
+    [ "AddSC_lfg_commandscript", "d7/d4c/a02165.html#a484938015a7f5ffa8f5b1d0e259d355b", null ],
+    [ "GetPlayerInfo", "d7/d4c/a02165.html#a1d2591add059e8c4daf04b9f706da765", null ]
 ];

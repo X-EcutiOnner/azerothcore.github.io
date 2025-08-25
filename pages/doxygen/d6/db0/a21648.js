@@ -1,19 +1,9 @@
 var a21648 =
 [
-    [ "npc_thassarian2AI", "d6/db0/a21648.html#ab1faae7ecc94a8781d5759de775ff9ba", null ],
-    [ "Cleanup", "d6/db0/a21648.html#a26730ec8ec6180a0dd7798797ba8dcd6", null ],
-    [ "Initialize", "d6/db0/a21648.html#aba9c197fb4ab9bb3fc63cf36e36747f5", null ],
-    [ "JustDied", "d6/db0/a21648.html#aa6b70b2bc438ff98a0c1da7898dc4b9b", null ],
-    [ "MovementInform", "d6/db0/a21648.html#abedd9b40189426c907473c5fb47d3a0d", null ],
-    [ "Reset", "d6/db0/a21648.html#a1bee1fb354dbf4a08c5a8f3a88bbf044", null ],
-    [ "SetData", "d6/db0/a21648.html#a7481081c44c4e092b700c449677da01f", null ],
-    [ "sGossipHello", "d6/db0/a21648.html#a12cfc66cb8ac02dbc088110576ee2460", null ],
-    [ "sGossipSelect", "d6/db0/a21648.html#a680dfc7280a3ef425de8b62eb38e6e21", null ],
-    [ "UpdateAI", "d6/db0/a21648.html#a9a1e96659da31040d41a9898d7e59db5", null ],
-    [ "_arlosGUID", "d6/db0/a21648.html#a6142b1e8045123a7eef1e546bda09943", null ],
-    [ "_arthasGUID", "d6/db0/a21648.html#a0e9aff1cc0c5cb9c266916536782332f", null ],
-    [ "_events", "d6/db0/a21648.html#a6b277a2de46cdeada7045b2b3826fd03", null ],
-    [ "_leryssaGUID", "d6/db0/a21648.html#a489159972b4e0cce65d12477e1031fcd", null ],
-    [ "_playerGUID", "d6/db0/a21648.html#af73af26991dcd12173a50883fe82627e", null ],
-    [ "_talbotGUID", "d6/db0/a21648.html#af148fd3e767999c8ebd4aa3b6eff0d3b", null ]
+    [ "npc_warmage_coldarraAI", "d6/db0/a21648.html#a9a8c2afff61ad8457aab8a9c23a4b755", null ],
+    [ "AttackStart", "d6/db0/a21648.html#a41277824ae3f6bd9a099894b6dfc7537", null ],
+    [ "JustEngagedWith", "d6/db0/a21648.html#a23a8999e34142201c6ceadc64a3df6c2", null ],
+    [ "Reset", "d6/db0/a21648.html#adf5094ba2bee34ec793124e798d5af8f", null ],
+    [ "UpdateAI", "d6/db0/a21648.html#a14b221265cc38b4061c52b687274a398", null ],
+    [ "m_uiTimer", "d6/db0/a21648.html#a338ad26d40d395dfc6ed7e8fedcc6d60", null ]
 ];

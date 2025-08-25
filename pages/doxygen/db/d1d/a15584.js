@@ -1,5 +1,6 @@
 var a15584 =
 [
-    [ "go_crystalline_tear", "db/d1d/a15584.html#a9e19c6538ecd1a758f2639171321d965", null ],
-    [ "OnQuestAccept", "db/d1d/a15584.html#a4efd6b2b8ca37462ba3a26d05f01ec2d", null ]
+    [ "Creature", "db/d1d/a15584.html#a77b33f8998f85808b58052079b1cab54", null ],
+    [ "TextId", "db/d1d/a15584.html#ad691f3cd40035e96547adf7528229119", null ],
+    [ "Timer", "db/d1d/a15584.html#accfccceaedffb3ad4d02231fb0bfeee5", null ]
 ];

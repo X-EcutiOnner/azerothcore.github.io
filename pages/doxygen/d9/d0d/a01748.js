@@ -1,6 +1,6 @@
 var a01748 =
 [
-    [ "TradeData", "d3/d11/a08644.html", "d3/d11/a08644" ],
+    [ "TradeData", "d3/d90/a08652.html", "d3/d90/a08652" ],
     [ "TradeSlots", "d9/d0d/a01748.html#ad8fd978c4198825d89a1f02643d20c62", [
       [ "TRADE_SLOT_COUNT", "d9/d0d/a01748.html#ad8fd978c4198825d89a1f02643d20c62a1e8d56a5a22d784c5d388fd8bd206488", null ],
       [ "TRADE_SLOT_TRADED_COUNT", "d9/d0d/a01748.html#ad8fd978c4198825d89a1f02643d20c62ab52f8b8c3be8445987c622e4dfacaa79", null ],

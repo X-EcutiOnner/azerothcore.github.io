@@ -1,7 +1,6 @@
 var a19748 =
 [
-    [ "HandleDummyEffect", "d3/dd7/a19748.html#ae95c1ce60db79c360e9c1431f27705cb", null ],
-    [ "PrepareSpellScript", "d3/dd7/a19748.html#a84a4f52928873e58b1fc49e783c5083a", null ],
-    [ "Register", "d3/dd7/a19748.html#a90c00bcb1768d696addab407425e406a", null ],
-    [ "SelectTarget", "d3/dd7/a19748.html#a2e7a7c05a30ae1e0c5aa14dc2af19345", null ]
+    [ "npc_living_constellationAI", "dc/d16/a19752.html", "dc/d16/a19752" ],
+    [ "npc_living_constellation", "d3/dd7/a19748.html#a6ee651a525498cb5715ccfedaa26e05d", null ],
+    [ "GetAI", "d3/dd7/a19748.html#a4533812a4da72c0d9eff6d6c9eaf772a", null ]
 ];

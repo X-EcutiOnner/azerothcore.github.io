@@ -1,6 +1,5 @@
 var a15380 =
 [
-    [ "npc_murkdeepAI", "d1/d75/a15384.html", "d1/d75/a15384" ],
-    [ "npc_murkdeep", "d5/dbd/a15380.html#a72d44d786bcba4dea5ccedd33e7dbd3c", null ],
-    [ "GetAI", "d5/dbd/a15380.html#ab9f8faa3adaf1f251e1248fbe0f46468", null ]
+    [ "go_ravager_cage", "d5/dbd/a15380.html#a632c767a4ab0075ee40d40e977fe7c18", null ],
+    [ "OnGossipHello", "d5/dbd/a15380.html#a83c9086cefea0d6d11a5de7a781d84db", null ]
 ];

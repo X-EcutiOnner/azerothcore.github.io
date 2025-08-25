@@ -1,5 +1,7 @@
 var a20044 =
 [
-    [ "achievement_flame_leviathan_unbroken", "d7/d89/a20044.html#a30a94a92aacc558d6833994c11f3ee8a", null ],
-    [ "OnCheck", "d7/d89/a20044.html#a78c69e3217b6598ab238a4f51ba598eb", null ]
+    [ "OnPeriodic", "d7/d89/a20044.html#a9407d5477a40e36863e5fb5775dda122", null ],
+    [ "PrepareAuraScript", "d7/d89/a20044.html#a1ecb6e617976cdfbeb534849db41d57a", null ],
+    [ "Register", "d7/d89/a20044.html#a34a31e96b21de9b9320d8276f7beb45e", null ],
+    [ "Validate", "d7/d89/a20044.html#a2c2ca2c0425ab3b815d246b1caebf588", null ]
 ];

@@ -1,6 +1,6 @@
 var a23936 =
 [
-    [ "HandlePeriodic", "d3/d01/a23936.html#a0838d4449351f46a1f9f485abaf35c2b", null ],
-    [ "PrepareAuraScript", "d3/d01/a23936.html#a438425f3002028a0978e0dbab580ca03", null ],
-    [ "Register", "d3/d01/a23936.html#af4b26607e8838b7bbbe8777f57601341", null ]
+    [ "PrepareAuraScript", "d3/d01/a23936.html#a14d4d1a75130a77e7e59e41720491bec", null ],
+    [ "PrepareProc", "d3/d01/a23936.html#abea217f4bfdffc70007fbc29849e9a49", null ],
+    [ "Register", "d3/d01/a23936.html#a9dbcd4c940f5941472bebb64829125e3", null ]
 ];

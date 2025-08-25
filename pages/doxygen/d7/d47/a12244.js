@@ -1,6 +1,7 @@
 var a12244 =
 [
-    [ "boss_ebonrocAI", "da/de7/a12248.html", "da/de7/a12248" ],
-    [ "boss_ebonroc", "d7/d47/a12244.html#a3f71b5a687ab10a228e560429b8a4709", null ],
-    [ "GetAI", "d7/d47/a12244.html#acf2dc7391e1f642dff3c7f56024aaea5", null ]
+    [ "go_suppression_deviceAI", "da/de7/a12248.html", "da/de7/a12248" ],
+    [ "go_suppression_device", "d7/d47/a12244.html#a900713d6b029015f8868a96e5e1b9018", null ],
+    [ "GetAI", "d7/d47/a12244.html#aa51bb6f9616022c1f4e1e711ca1130e8", null ],
+    [ "OnLootStateChanged", "d7/d47/a12244.html#a684546c3ce0c0785d52a87eb011ef313", null ]
 ];

@@ -1,5 +1,6 @@
 var a23996 =
 [
-    [ "go_simon_cluster", "d8/d14/a23996.html#adac53a8451abd6ace227a66afc7e61e8", null ],
-    [ "OnGossipHello", "d8/d14/a23996.html#a9fd9799604de44c91803511c45b67786", null ]
+    [ "npc_deaths_fel_cannonAI", "d8/dd2/a24000.html", "d8/dd2/a24000" ],
+    [ "npc_deaths_fel_cannon", "d8/d14/a23996.html#a87ecaca75061928600b5114d3913dd26", null ],
+    [ "GetAI", "d8/d14/a23996.html#a4cf91cd1f28637f359e06bccd30e0338", null ]
 ];

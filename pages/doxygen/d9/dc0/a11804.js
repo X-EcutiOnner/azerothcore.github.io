@@ -1,12 +1,18 @@
 var a11804 =
 [
-    [ "npc_av_marshal_or_warmasterAI", "d9/dc0/a11804.html#af3620678992778edbb859622e057893a", null ],
-    [ "AttackStart", "d9/dc0/a11804.html#aed39eaed8648ce78349c49ee33918b93", null ],
-    [ "EnterEvadeMode", "d9/dc0/a11804.html#a4ac6045b3f3dfd6e3f9e0ea757f4d2c6", null ],
-    [ "JustRespawned", "d9/dc0/a11804.html#a460c6912063587214ba0f2e01878d827", null ],
-    [ "Reset", "d9/dc0/a11804.html#a56d99bcf5038c372399f16a07a2e5d31", null ],
-    [ "UpdateAI", "d9/dc0/a11804.html#a7bf1631810c8446bc157f8ff220199b7", null ],
-    [ "_attacked", "d9/dc0/a11804.html#a56d7211a3565c19b499f7de2eda6c862", null ],
-    [ "_hasAura", "d9/dc0/a11804.html#a1c0049100cde1c62daf80779d1135156", null ],
-    [ "events", "d9/dc0/a11804.html#a49b8e01897cd5347bbd06cac254163f4", null ]
+    [ "server_commandscript", "d9/dc0/a11804.html#a61d8b3a9f967996b533e62e94fe4c8ca", null ],
+    [ "GetCommands", "d9/dc0/a11804.html#a850c21f1ece40c576d3bf622f1c3e18f", null ],
+    [ "HandleServerCorpsesCommand", "d9/dc0/a11804.html#a01ae63f31c7f03f6c0006fe4583a14a3", null ],
+    [ "HandleServerDebugCommand", "d9/dc0/a11804.html#ac78145cb5c0888449756e4dbb36c005f", null ],
+    [ "HandleServerExitCommand", "d9/dc0/a11804.html#ab894b36baa95de647fb329fce6eed8fb", null ],
+    [ "HandleServerIdleRestartCommand", "d9/dc0/a11804.html#ae18a92337d6cf8e62eafdf5f39d7b5a8", null ],
+    [ "HandleServerIdleShutDownCommand", "d9/dc0/a11804.html#aa431504b2755304c4263121a7a437ce4", null ],
+    [ "HandleServerInfoCommand", "d9/dc0/a11804.html#a6c63114c474f69621b013dbb57b47bf2", null ],
+    [ "HandleServerMotdCommand", "d9/dc0/a11804.html#aa10d866fcb8567fbc625d2a297a116a6", null ],
+    [ "HandleServerRestartCommand", "d9/dc0/a11804.html#a3ec7dd1f81f3b4b8adcb5f04f4d20f3f", null ],
+    [ "HandleServerSetClosedCommand", "d9/dc0/a11804.html#a2ba489469cdb3c8da944f7d6547ae462", null ],
+    [ "HandleServerSetLogLevelCommand", "d9/dc0/a11804.html#a1ce5627c1d948b5a5c86db54357de02a", null ],
+    [ "HandleServerSetMotdCommand", "d9/dc0/a11804.html#a8cf2076d5e5fa3b35fddba117cd990bb", null ],
+    [ "HandleServerShutDownCancelCommand", "d9/dc0/a11804.html#ae64357518538c1ce4d03a8d9968b4035", null ],
+    [ "HandleServerShutDownCommand", "d9/dc0/a11804.html#a514149a8d1dfc4513e0c71b69901767d", null ]
 ];

@@ -1,7 +1,5 @@
 var a16852 =
 [
-    [ "OnRemove", "d1/d22/a16852.html#a4b95717cb19116b81f3eec798089abad", null ],
-    [ "PrepareAuraScript", "d1/d22/a16852.html#a581645fa151531aaf7b562a8739d5616", null ],
-    [ "Register", "d1/d22/a16852.html#a01304c556d79001e290707551bee7622", null ],
-    [ "Validate", "d1/d22/a16852.html#a96e4b9cae1f016bf87c9a09ceb6da561", null ]
+    [ "npc_fos_leader_secondAI", "d1/d22/a16852.html#a25df0b8760e9eb7d330779e10e3ac548", null ],
+    [ "MovementInform", "d1/d22/a16852.html#a9cc0b500f1289dc8b764b3755468e639", null ]
 ];

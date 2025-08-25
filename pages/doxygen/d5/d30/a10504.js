@@ -1,5 +1,5 @@
 var a10504 =
 [
-    [ "LogoutCancelAck", "d5/d30/a10504.html#a2c261c1cdd4c29658c5160e8fe44ac58", null ],
-    [ "Write", "d5/d30/a10504.html#a12f9e56c2ee59f5a084e8aef3fdfad97", null ]
+    [ "LogoutComplete", "d5/d30/a10504.html#a94f3ea0cd30d1eb44733c1c5aef05ec7", null ],
+    [ "Write", "d5/d30/a10504.html#a0d958bc07b674ed3339833351fec7d3a", null ]
 ];
