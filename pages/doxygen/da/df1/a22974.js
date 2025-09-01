@@ -1,6 +1,7 @@
 var a22974 =
 [
-    [ "npc_supremus_punch_invisible_stalker", "da/df1/a22974.html#add7d0e711ef02a16ef58d90cfc8ee733", null ],
-    [ "IsSummonedBy", "da/df1/a22974.html#a467d5a43bb6d2349ad859a0ef7de4c00", null ],
-    [ "UpdateAI", "da/df1/a22974.html#a90ecfe4257ef77a6d6a200a2f017c51a", null ]
+    [ "VerasEnvenom", "da/df1/a22974.html#ac8c5f4fcb63ea5141a71b56324de0b1f", null ],
+    [ "Execute", "da/df1/a22974.html#a4b7853bb835cf28aefe2d5b955372d70", null ],
+    [ "_owner", "da/df1/a22974.html#af9cf231119ab5592be9829784f20d2e0", null ],
+    [ "_targetGUID", "da/df1/a22974.html#a90d62907c775565765fa87903adb94ea", null ]
 ];

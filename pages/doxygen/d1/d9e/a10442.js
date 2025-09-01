@@ -1,12 +1,18 @@
 var a10442 =
 [
-    [ "Packet", "d1/d9e/a10442.html#a316af2b7ce1ac7189fb1e57f534bad11", null ],
-    [ "~Packet", "d1/d9e/a10442.html#a2ca1e6377bb2fb10bf042311e72eb5d4", null ],
-    [ "Packet", "d1/d9e/a10442.html#a00213b64110a99004b3d9a6b38876cd4", null ],
-    [ "GetRawPacket", "d1/d9e/a10442.html#a9d8649e1b035fe7387dcee3e0b062a5e", null ],
-    [ "GetSize", "d1/d9e/a10442.html#a08eb4c40f49c0d4e7f17a6dc1df2fe6a", null ],
-    [ "operator=", "d1/d9e/a10442.html#a6d2afd0d4b0d7daff11868854b7c4715", null ],
-    [ "Read", "d1/d9e/a10442.html#a94afc4d66c2b5bced3063bab5a666bfd", null ],
-    [ "Write", "d1/d9e/a10442.html#af7c79156d7b6cfe3142fc530f9ed262a", null ],
-    [ "_worldPacket", "d1/d9e/a10442.html#ab85f1c9f20117bc5015180165c7b458a", null ]
+    [ "EnabledHooksVector", "d1/d9e/a10442.html#ac9d98df16d3857ca556acda331064063", null ],
+    [ "EnabledHooksVectorIterator", "d1/d9e/a10442.html#a575c2a2974f9e002a8a3bb1b858a2912", null ],
+    [ "ScriptMap", "d1/d9e/a10442.html#a0f8009ac0cd91574f0bf4ac92ef90ce0", null ],
+    [ "ScriptMapIterator", "d1/d9e/a10442.html#ad1fcde41ec854314c5e1cc50b916ac5d", null ],
+    [ "ScriptVector", "d1/d9e/a10442.html#abf04ad36ed630be4499f0be2d53016a9", null ],
+    [ "ScriptVectorIterator", "d1/d9e/a10442.html#ac0554c5200368592f5d0bfb1025935fe", null ],
+    [ "_checkMemory", "d1/d9e/a10442.html#a8d784f25a47c9ca4be72fca0215bf1c8", null ],
+    [ "AddALScripts", "d1/d9e/a10442.html#aa86b74a2560deae81f5c2a38cf1f72c8", null ],
+    [ "AddScript", "d1/d9e/a10442.html#a4a25c0e3b90f6af4563baf0e7a1c0622", null ],
+    [ "GetScriptById", "d1/d9e/a10442.html#a22226c545e7975d4c612e7adcc766d05", null ],
+    [ "InitEnabledHooksIfNeeded", "d1/d9e/a10442.html#a44238d9b122f50192b989b1efe2107bd", null ],
+    [ "_scriptIdCounter", "d1/d9e/a10442.html#aa66e44e9291be980d12f4167f699c680", null ],
+    [ "ALScripts", "d1/d9e/a10442.html#ac67b828a489c483ceaaa745b2dd7ef57", null ],
+    [ "EnabledHooks", "d1/d9e/a10442.html#a4274e01ddb2659f125970b97014da00e", null ],
+    [ "ScriptPointerList", "d1/d9e/a10442.html#a57e93b2fa2db2a29fa4c12714e217d43", null ]
 ];

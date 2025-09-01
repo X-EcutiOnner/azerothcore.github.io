@@ -1,7 +1,6 @@
 var a12598 =
 [
-    [ "boss_maiden_of_virtue", "d2/dc4/a12598.html#a4cd0c7a566e23e5c3a43466214f35dd3", null ],
-    [ "JustDied", "d2/dc4/a12598.html#a6eded246318f6b47b46f45168e4a8069", null ],
-    [ "JustEngagedWith", "d2/dc4/a12598.html#a6ff1b9e0a17218ad4871bc5fc3748671", null ],
-    [ "KilledUnit", "d2/dc4/a12598.html#a32dd66a297d11f5ffac1841bae15727a", null ]
+    [ "boss_ragnarosAI", "d8/db4/a12602.html", "d8/db4/a12602" ],
+    [ "boss_ragnaros", "d2/dc4/a12598.html#a47bd4dc50a0d05e8cbb75c1a5a52c9b5", null ],
+    [ "GetAI", "d2/dc4/a12598.html#af54e36608e160811ca06952fd2c63f6e", null ]
 ];

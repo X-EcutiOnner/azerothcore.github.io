@@ -1,8 +1,7 @@
 var a13418 =
 [
-    [ "HandleApply", "d2/dd1/a13418.html#a9dce02909356193476e66586aee87f1d", null ],
-    [ "OnPeriodic", "d2/dd1/a13418.html#add4f000f81d5d4112719c6dd7464163c", null ],
-    [ "PrepareAuraScript", "d2/dd1/a13418.html#a1a9dfb50cec61386c5e3a3556f5d2f53", null ],
-    [ "Register", "d2/dd1/a13418.html#abc349f12f375b1f284eb78a363e8172a", null ],
-    [ "Validate", "d2/dd1/a13418.html#a83195ac3c9536a3485e41bf2c04884f6", null ]
+    [ "CheckCast", "d2/dd1/a13418.html#a6ac00101ced46cebd1dd6a32c89374d2", null ],
+    [ "PrepareSpellScript", "d2/dd1/a13418.html#a07973000e8a4b0ff66d4f4d1fd9f327e", null ],
+    [ "Register", "d2/dd1/a13418.html#a7deecb2b7dfc410af30d8b14d941f74a", null ],
+    [ "Validate", "d2/dd1/a13418.html#a9208b9c010bb9cc379c195939351aa45", null ]
 ];

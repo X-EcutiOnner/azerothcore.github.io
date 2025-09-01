@@ -1,6 +1,6 @@
 var a18922 =
 [
-    [ "npc_ioc_gunship_captainAI", "db/dc9/a18926.html", "db/dc9/a18926" ],
-    [ "npc_ioc_gunship_captain", "df/de3/a18922.html#a6463d7bc12d5fe4fc8921ba5916ec906", null ],
-    [ "GetAI", "df/de3/a18922.html#a43f3ce178df31fbf693acbfa8c32a339", null ]
+    [ "HandleScript", "df/de3/a18922.html#a33f15ecf0c0ff013d03742cb2130f372", null ],
+    [ "PrepareSpellScript", "df/de3/a18922.html#ab3a832cf53f4438db0d9e58b89c0ef7f", null ],
+    [ "Register", "df/de3/a18922.html#ad0c6d34103244cded41481c745dafe58", null ]
 ];

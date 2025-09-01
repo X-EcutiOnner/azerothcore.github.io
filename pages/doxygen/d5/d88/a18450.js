@@ -1,7 +1,9 @@
 var a18450 =
 [
-    [ "ValithriaDespawner", "d5/d88/a18450.html#adf6f71ad9b97489f1e35781e491b28d8", null ],
-    [ "Execute", "d5/d88/a18450.html#a4f8c63f52996da14078a7196cae3a00d", null ],
-    [ "operator()", "d5/d88/a18450.html#a05bae39d642f294f2ef98151d66ba382", null ],
-    [ "_creature", "d5/d88/a18450.html#a64bf6181ad867efd987edec141ca3bf0", null ]
+    [ "npc_icc_ice_sphereAI", "d5/d88/a18450.html#a685f45e5cd15b005646e596ff61088e8", null ],
+    [ "DoAction", "d5/d88/a18450.html#ac056ecdd93bc716964054f38ab81014e", null ],
+    [ "SelectNewTarget", "d5/d88/a18450.html#a9274e05e45c07d14c7df5c623e2769d4", null ],
+    [ "UpdateAI", "d5/d88/a18450.html#a5a4117de9e45cea9e9086b3b4daed404", null ],
+    [ "targetGUID", "d5/d88/a18450.html#a3e202f9bde2a202d329066f7aab8897c", null ],
+    [ "timer", "d5/d88/a18450.html#a42842e92926e18ef2589687d81a7d0d4", null ]
 ];

@@ -1,5 +1,6 @@
 var a13762 =
 [
-    [ "npc_andorhal_towerAI", "de/d26/a13762.html#ad2f8a14f2adfe1418a23de274493f85e", null ],
-    [ "MoveInLineOfSight", "de/d26/a13762.html#a1165ee0e066dcaeb300096e55758389b", null ]
+    [ "npc_bh_thalorien_dawnseekerAI", "d4/d5b/a13766.html", "d4/d5b/a13766" ],
+    [ "npc_bh_thalorien_dawnseeker", "de/d26/a13762.html#a1fbee838cbbf1ada476f3dd7a82fc6e6", null ],
+    [ "GetAI", "de/d26/a13762.html#ac5d551d5d4d05ee1006d074908599a3a", null ]
 ];

@@ -1,5 +1,6 @@
 var a09138 =
 [
-    [ "HolesType", "d4/ddb/a09138.html#a72531c15631ba45fe0c0ed962557e993", null ],
-    [ "holes", "d4/ddb/a09138.html#a496f77513e47d89adfcc2f32d4bc1242", null ]
+    [ "AreaMapType", "d4/ddb/a09138.html#a0ea8ea1ddb694a7e57c816f6b7d33ec6", null ],
+    [ "areaMap", "d4/ddb/a09138.html#a21673b134ee6b5fb20bab06c3e1b2238", null ],
+    [ "gridArea", "d4/ddb/a09138.html#a37e8598e7a22dcb17637243fbeeecb0c", null ]
 ];

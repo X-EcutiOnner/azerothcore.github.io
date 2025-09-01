@@ -1,9 +1,14 @@
 var a12190 =
 [
-    [ "npc_vaelastrasz_the_redAI", "d3/df8/a12190.html#aa800617f887a21d8a61cac099c86faed", null ],
-    [ "IsSummonedBy", "d3/df8/a12190.html#ab0eb414e7c9385e4831c4fbc6ba1de49", null ],
-    [ "UpdateAI", "d3/df8/a12190.html#a4dd74c81dc67291ed04861cf542b0d24", null ],
-    [ "_combatEnabled", "d3/df8/a12190.html#ae82e9f70dbfd6a4a75206d358de4504e", null ],
-    [ "_events2", "d3/df8/a12190.html#aa31a968cb89f2c4bb4fde836fd600ab9", null ],
-    [ "_victorGUID", "d3/df8/a12190.html#a8a4af969b8d340d5492f89499e3e90c2", null ]
+    [ "boss_mor_grayhoof", "d3/df8/a12190.html#aef1001233a51ad3bb9963c540d39d79b", null ],
+    [ "CastRandomSpell", "d3/df8/a12190.html#a00756d64d24088ebf408153fcb59ff13", null ],
+    [ "DamageTaken", "d3/df8/a12190.html#a164a911eb9a86964a61866c05d44512f", null ],
+    [ "JustDied", "d3/df8/a12190.html#aa98fbfc5cc4ee94e0323d8586dae1e1c", null ],
+    [ "JustEngagedWith", "d3/df8/a12190.html#a043f6ee099efd0d49982b2966604e65a", null ],
+    [ "Reset", "d3/df8/a12190.html#af313bd8509a76cd6b6fbc197f15afbff", null ],
+    [ "UpdateAI", "d3/df8/a12190.html#aaa6a1a9b6e4259aea46d2f25bca3b809", null ],
+    [ "_phase", "d3/df8/a12190.html#a40bf6a66aefe7a605d94526b5a586ba6", null ],
+    [ "_scheduler", "d3/df8/a12190.html#ad2a897281d308475957e2636c6536fdd", null ],
+    [ "_sleepTargetGUID", "d3/df8/a12190.html#a8baa606696dc8acf532e8badfc6c624b", null ],
+    [ "_sleepTargetThreat", "d3/df8/a12190.html#ac62d7d30b12d0c2da9553b9689091e0e", null ]
 ];

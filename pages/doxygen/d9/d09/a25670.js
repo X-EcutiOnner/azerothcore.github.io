@@ -1,6 +1,6 @@
 var a25670 =
 [
-    [ "PartyTimeEmoteEvent", "d9/d09/a25670.html#a525efd58fc8465658208058e6dc5d31c", null ],
-    [ "Execute", "d9/d09/a25670.html#a65a796ff4efece46c519f7bdf1524bb8", null ],
-    [ "_player", "d9/d09/a25670.html#a61ecb44828c6e4c868def8899791feb3", null ]
+    [ "HandlePreventAura", "d9/d09/a25670.html#a62b9a62f5379f4ca98921c7fe4278b58", null ],
+    [ "PrepareSpellScript", "d9/d09/a25670.html#a61b2f1d5634219f9c48a9ea75e90d423", null ],
+    [ "Register", "d9/d09/a25670.html#ab1a90b7939c146b40badfd6424c35cf7", null ]
 ];

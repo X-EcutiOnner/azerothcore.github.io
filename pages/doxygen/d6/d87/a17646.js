@@ -1,8 +1,7 @@
 var a17646 =
 [
-    [ "Load", "d6/d87/a17646.html#a363d0afcf2f79b8219652de5a3a6d466", null ],
-    [ "PrepareSpellScript", "d6/d87/a17646.html#a8df1abd311a1c32cd6ed296d75566eac", null ],
-    [ "Register", "d6/d87/a17646.html#a61e8f66c7446e0587b5d743f0e6ead92", null ],
-    [ "RelocateDest", "d6/d87/a17646.html#abad4acee4c0898fea6bfb57b8155cab2", null ],
-    [ "SelectTransport", "d6/d87/a17646.html#a0564852176d80ee6593baa3abb18238a", null ]
+    [ "FilterTargets", "d6/d87/a17646.html#aeae290d20ade37eb839c1bf3c9ae59bf", null ],
+    [ "Load", "d6/d87/a17646.html#a38bf6d96c6a78e5105d0369eb993e58c", null ],
+    [ "PrepareSpellScript", "d6/d87/a17646.html#a815c99e9ef570287af5d45c32bdc5b8c", null ],
+    [ "Register", "d6/d87/a17646.html#a33342cc676adaabe5e3896fa559631b7", null ]
 ];

@@ -1,9 +1,6 @@
 var a14514 =
 [
-    [ "HandlePeriodic", "df/d96/a14514.html#ae5f611f0643cdfc3d403cee89667b0f6", null ],
-    [ "Load", "df/d96/a14514.html#aa90cfb5fdb96e8670fa35dd3c16350c0", null ],
-    [ "PrepareAuraScript", "df/d96/a14514.html#afeb65196cbafc813bb02eb3907e59fc2", null ],
-    [ "Register", "df/d96/a14514.html#ac331de3219ae7da9e35e962011540bdf", null ],
-    [ "Validate", "df/d96/a14514.html#a7de36e3ee777b02ab6fc4671e4e9f5ab", null ],
-    [ "_buffGiven", "df/d96/a14514.html#aec2476ad5e046213b90af04ad91f0230", null ]
+    [ "HandleScript", "df/d96/a14514.html#aa60824ed67ae87e96117fc5bf90bec8c", null ],
+    [ "PrepareSpellScript", "df/d96/a14514.html#aab4303fff660c68db100e07a4423c39b", null ],
+    [ "Register", "df/d96/a14514.html#a0fbc130652e58d9418cb3c5036b6aed2", null ]
 ];

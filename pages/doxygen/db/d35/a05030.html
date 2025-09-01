@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: VMAP::MapSpawns Struct Reference</title>
+<title>AzerothCore: VMAP::LocationInfo Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,52 +105,122 @@ $(document).ready(function(){initNavTree('db/d35/a05030.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
+<a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../d1/d82/a05027.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">VMAP::MapSpawns Struct Reference</div></div>
+  <div class="headertitle"><div class="title">VMAP::LocationInfo Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">TileAssembler.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">MapTree.h</a>&quot;</code></p>
 <table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
+Public Member Functions</h2></td></tr>
+<tr class="memitem:ae2e70dc65cd3b0379600a67dce7de6ba"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d35/a05030.html#ae2e70dc65cd3b0379600a67dce7de6ba">LocationInfo</a> ()</td></tr>
+<tr class="separator:ae2e70dc65cd3b0379600a67dce7de6ba"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a5ba6c948eedc6c070a7eb6aa3816d85c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d9d/a04783.html#a3424b44a092b5f3d8074649ae11ee481">UniqueEntryMap</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d35/a05030.html#a5ba6c948eedc6c070a7eb6aa3816d85c">UniqueEntries</a></td></tr>
-<tr class="separator:a5ba6c948eedc6c070a7eb6aa3816d85c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac982af8210389fe769d161a12d4cdb5f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d9d/a04783.html#abfe766a1b58bbf69ce3b17ff14d1c101">TileMap</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d35/a05030.html#ac982af8210389fe769d161a12d4cdb5f">TileEntries</a></td></tr>
-<tr class="separator:ac982af8210389fe769d161a12d4cdb5f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5e3fc81a2b7353808dc0c95eebe570be"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="../../d2/d69/a05086.html">ModelInstance</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d35/a05030.html#a5e3fc81a2b7353808dc0c95eebe570be">hitInstance</a> {nullptr}</td></tr>
+<tr class="separator:a5e3fc81a2b7353808dc0c95eebe570be"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2a7e0be8d8e43b055dd1d43cd5331738"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="../../d5/d87/a05118.html">GroupModel</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d35/a05030.html#a2a7e0be8d8e43b055dd1d43cd5331738">hitModel</a> {nullptr}</td></tr>
+<tr class="separator:a2a7e0be8d8e43b055dd1d43cd5331738"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0ffbfcfc677809dda6250855d9594ca5"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d35/a05030.html#a0ffbfcfc677809dda6250855d9594ca5">ground_Z</a></td></tr>
+<tr class="separator:a0ffbfcfc677809dda6250855d9594ca5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aae82d7d8518db5e131d6a327927c75a2"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d35/a05030.html#aae82d7d8518db5e131d6a327927c75a2">rootId</a> = -1</td></tr>
+<tr class="separator:aae82d7d8518db5e131d6a327927c75a2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Member Data Documentation</h2>
-<a id="ac982af8210389fe769d161a12d4cdb5f" name="ac982af8210389fe769d161a12d4cdb5f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac982af8210389fe769d161a12d4cdb5f">&#9670;&#160;</a></span>TileEntries</h2>
+<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="ae2e70dc65cd3b0379600a67dce7de6ba" name="ae2e70dc65cd3b0379600a67dce7de6ba"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae2e70dc65cd3b0379600a67dce7de6ba">&#9670;&#160;</a></span>LocationInfo()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">VMAP::LocationInfo::LocationInfo </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   35</span>:  <a class="code hl_variable" href="../../db/d35/a05030.html#a0ffbfcfc677809dda6250855d9594ca5">ground_Z</a>(-G3D::inf()) { }</div>
+<div class="ttc" id="aa05030_html_a0ffbfcfc677809dda6250855d9594ca5"><div class="ttname"><a href="../../db/d35/a05030.html#a0ffbfcfc677809dda6250855d9594ca5">VMAP::LocationInfo::ground_Z</a></div><div class="ttdeci">float ground_Z</div><div class="ttdef"><b>Definition:</b> MapTree.h:38</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a id="a0ffbfcfc677809dda6250855d9594ca5" name="a0ffbfcfc677809dda6250855d9594ca5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0ffbfcfc677809dda6250855d9594ca5">&#9670;&#160;</a></span>ground_Z</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d0/d9d/a04783.html#abfe766a1b58bbf69ce3b17ff14d1c101">TileMap</a> VMAP::MapSpawns::TileEntries</td>
+          <td class="memname">float VMAP::LocationInfo::ground_Z</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00219">VMAP::TileAssembler::readMapSpawns()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00328">DynamicMapTree::GetAreaAndLiquidData()</a>, <a class="el" href="../../#l00308">VMAP::VMapMgr2::GetAreaAndLiquidData()</a>, <a class="el" href="../../#l00276">VMAP::VMapMgr2::GetLiquidLevel()</a>, <a class="el" href="../../#l00104">VMAP::ModelInstance::GetLocationInfo()</a>, and <a class="el" href="../../#l00227">GameObjectModel::GetLocationInfo()</a>.</p>
 
 </div>
 </div>
-<a id="a5ba6c948eedc6c070a7eb6aa3816d85c" name="a5ba6c948eedc6c070a7eb6aa3816d85c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5ba6c948eedc6c070a7eb6aa3816d85c">&#9670;&#160;</a></span>UniqueEntries</h2>
+<a id="a5e3fc81a2b7353808dc0c95eebe570be" name="a5e3fc81a2b7353808dc0c95eebe570be"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5e3fc81a2b7353808dc0c95eebe570be">&#9670;&#160;</a></span>hitInstance</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d0/d9d/a04783.html#a3424b44a092b5f3d8074649ae11ee481">UniqueEntryMap</a> VMAP::MapSpawns::UniqueEntries</td>
+          <td class="memname">const <a class="el" href="../../d2/d69/a05086.html">ModelInstance</a>* VMAP::LocationInfo::hitInstance {nullptr}</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00219">VMAP::TileAssembler::readMapSpawns()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00308">VMAP::VMapMgr2::GetAreaAndLiquidData()</a>, <a class="el" href="../../#l00276">VMAP::VMapMgr2::GetLiquidLevel()</a>, and <a class="el" href="../../#l00104">VMAP::ModelInstance::GetLocationInfo()</a>.</p>
+
+</div>
+</div>
+<a id="a2a7e0be8d8e43b055dd1d43cd5331738" name="a2a7e0be8d8e43b055dd1d43cd5331738"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2a7e0be8d8e43b055dd1d43cd5331738">&#9670;&#160;</a></span>hitModel</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">const <a class="el" href="../../d5/d87/a05118.html">GroupModel</a>* VMAP::LocationInfo::hitModel {nullptr}</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00328">DynamicMapTree::GetAreaAndLiquidData()</a>, <a class="el" href="../../#l00308">VMAP::VMapMgr2::GetAreaAndLiquidData()</a>, <a class="el" href="../../#l00144">VMAP::ModelInstance::GetLiquidLevel()</a>, <a class="el" href="../../#l00253">GameObjectModel::GetLiquidLevel()</a>, <a class="el" href="../../#l00276">VMAP::VMapMgr2::GetLiquidLevel()</a>, and <a class="el" href="../../#l00600">VMAP::WorldModel::GetLocationInfo()</a>.</p>
+
+</div>
+</div>
+<a id="aae82d7d8518db5e131d6a327927c75a2" name="aae82d7d8518db5e131d6a327927c75a2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aae82d7d8518db5e131d6a327927c75a2">&#9670;&#160;</a></span>rootId</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> VMAP::LocationInfo::rootId = -1</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00328">DynamicMapTree::GetAreaAndLiquidData()</a>, <a class="el" href="../../#l00308">VMAP::VMapMgr2::GetAreaAndLiquidData()</a>, and <a class="el" href="../../#l00600">VMAP::WorldModel::GetLocationInfo()</a>.</p>
 
 </div>
 </div>
@@ -159,8 +229,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d0/d9d/a04783.html">VMAP</a></li><li class="navelem"><a class="el" href="../../db/d35/a05030.html">MapSpawns</a></li>
-    <li class="footer">Generated on Mon Aug 4 2025 20:52:41 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d5/dc9/a04804.html">VMAP</a></li><li class="navelem"><a class="el" href="../../db/d35/a05030.html">LocationInfo</a></li>
+    <li class="footer">Generated on Mon Sep 1 2025 20:44:47 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

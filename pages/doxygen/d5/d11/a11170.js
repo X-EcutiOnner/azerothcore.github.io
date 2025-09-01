@@ -1,5 +1,5 @@
 var a11170 =
 [
-    [ "ImplicitTargetType", "d5/d11/a11170.html#adc4268d74a3f0b47902e16eea2fc854a", null ],
-    [ "UsedTargetObjectType", "d5/d11/a11170.html#a7bbc11d4a7a68f9441d393c7b48f5231", null ]
+    [ "SocketAdded", "d5/d11/a11170.html#a89b23aa46aca3772ad0c0f36f41db537", null ],
+    [ "SocketRemoved", "d5/d11/a11170.html#a4f4ec084812a4191a477f7fa9223fa6e", null ]
 ];

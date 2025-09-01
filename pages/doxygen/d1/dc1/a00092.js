@@ -1,10 +1,7 @@
 var a00092 =
 [
-    [ "MMAP::MapTiles", "d6/df6/a28796.html", "d6/df6/a28796" ],
-    [ "MMAP::Tile", "d7/d6a/a28800.html", "d7/d6a/a28800" ],
-    [ "MMAP::TileConfig", "d3/da4/a28804.html", "d3/da4/a28804" ],
-    [ "MMAP::TileInfo", "d2/d01/a28808.html", "d2/d01/a28808" ],
-    [ "MMAP::TileBuilder", "d5/dfb/a28812.html", "d5/dfb/a28812" ],
-    [ "MMAP::MapBuilder", "d1/d21/a28816.html", "d1/d21/a28816" ],
-    [ "TileList", "d1/dc1/a00092.html#aa2aae6f254337f29866a5d240d5ec2b1", null ]
+    [ "Tokenize", "d1/dc1/a00092.html#ac486e8c9cdad8809eacd83339cdb121d", null ],
+    [ "Tokenize", "d1/dc1/a00092.html#a6d70d7cc315896984da481f843d6f95f", null ],
+    [ "Tokenize", "d1/dc1/a00092.html#aafa458089884fd3ec682db1762ced09d", null ],
+    [ "Tokenize", "d1/dc1/a00092.html#a6b121485ace4118b9006db1fb89f90f2", null ]
 ];

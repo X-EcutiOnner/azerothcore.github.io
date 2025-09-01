@@ -1,6 +1,5 @@
 var a19990 =
 [
-    [ "OnPeriodic", "d7/d31/a19990.html#a379c55df994c58932fef7e7a59fd8426", null ],
-    [ "PrepareAuraScript", "d7/d31/a19990.html#ab180f54264f0c90376587d1b4c4dfd40", null ],
-    [ "Register", "d7/d31/a19990.html#aacfaa385ca4cbe64217ef191a32936e2", null ]
+    [ "achievement_cant_do_that_while_stunned", "d7/d31/a19990.html#a4d474b36f61631688ea723d2e4033574", null ],
+    [ "OnCheck", "d7/d31/a19990.html#a0b108bdcab0bc412975e61247f226bf8", null ]
 ];

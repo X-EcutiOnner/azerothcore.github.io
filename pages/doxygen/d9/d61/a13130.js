@@ -1,7 +1,12 @@
 var a13130 =
 [
-    [ "HandleAfterCast", "d9/d61/a13130.html#afa662fbe1b777047259ac6212961f7a5", null ],
-    [ "HandleScript", "d9/d61/a13130.html#acd21d059ce10a64a3fe648d104d75ec1", null ],
-    [ "PrepareSpellScript", "d9/d61/a13130.html#aca33d0a7c792a6ac18deaaa945a28a26", null ],
-    [ "Register", "d9/d61/a13130.html#a4a898b0b096583af33f1f691a252b2ed", null ]
+    [ "npc_koltira_deathweaverAI", "d9/d61/a13130.html#adbc46fce90170aec986faacf012bd2b2", null ],
+    [ "MovementInform", "d9/d61/a13130.html#afed53c190d875d0e59775ebfeb749fcf", null ],
+    [ "Reset", "d9/d61/a13130.html#ac07053d3798d57449c23bfff68e12f1b", null ],
+    [ "sGossipSelect", "d9/d61/a13130.html#af481beffaeb97a69483a62fd5f110616", null ],
+    [ "sQuestAccept", "d9/d61/a13130.html#a83fa04558bc7617b561ec05da9f2a6a1", null ],
+    [ "StartEvent", "d9/d61/a13130.html#aa4f0df71fb88f6685f2c27f19a34b2b3", null ],
+    [ "SummonedCreatureDies", "d9/d61/a13130.html#a967575fafe29db364b4e6a00a5e0457b", null ],
+    [ "UpdateAI", "d9/d61/a13130.html#ac90ed956ba45b6363a21af76393126ac", null ],
+    [ "_valrothGUID", "d9/d61/a13130.html#ad041942412fb8288ff5f850ee6472e78", null ]
 ];

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: GridTerrainUnloader Class Reference</title>
+<title>AzerothCore: LoadedHeightData::FloatHeightData Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,154 +105,85 @@ $(document).ready(function(){initNavTree('dc/d57/a09154.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pri-attribs">Private Attributes</a> &#124;
+<a href="#pub-types">Public Types</a> &#124;
+<a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../d1/dab/a09151.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">GridTerrainUnloader Class Reference</div></div>
+  <div class="headertitle"><div class="title">LoadedHeightData::FloatHeightData Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">GridTerrainLoader.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">GridTerrainData.h</a>&quot;</code></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
-Public Member Functions</h2></td></tr>
-<tr class="memitem:a2cae372520a8e6d6a54ad79381a844e9"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d57/a09154.html#a2cae372520a8e6d6a54ad79381a844e9">GridTerrainUnloader</a> (<a class="el" href="../../db/d3a/a00641.html#ae98d6a027a620a037e8c699d935537bf">MapGridType</a> &amp;grid, <a class="el" href="../../df/dee/a09810.html">Map</a> *map)</td></tr>
-<tr class="separator:a2cae372520a8e6d6a54ad79381a844e9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad6648cf97602141fcc64bbb6c688f6a0"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d57/a09154.html#ad6648cf97602141fcc64bbb6c688f6a0">UnloadTerrain</a> ()</td></tr>
-<tr class="separator:ad6648cf97602141fcc64bbb6c688f6a0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-types" name="pub-types"></a>
+Public Types</h2></td></tr>
+<tr class="memitem:a9b7daa2ba0e72e137243ac061efaa2a5"><td class="memItemLeft" align="right" valign="top">typedef std::array&lt; float, 129 *129 &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d57/a09154.html#a9b7daa2ba0e72e137243ac061efaa2a5">V9Type</a></td></tr>
+<tr class="separator:a9b7daa2ba0e72e137243ac061efaa2a5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a385ac15640b76e43eda077c451dcd745"><td class="memItemLeft" align="right" valign="top">typedef std::array&lt; float, 128 *128 &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d57/a09154.html#a385ac15640b76e43eda077c451dcd745">V8Type</a></td></tr>
+<tr class="separator:a385ac15640b76e43eda077c451dcd745"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
-Private Attributes</h2></td></tr>
-<tr class="memitem:a94d346bc8d44f285d8cdb97736859201"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d3a/a00641.html#ae98d6a027a620a037e8c699d935537bf">MapGridType</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d57/a09154.html#a94d346bc8d44f285d8cdb97736859201">_grid</a></td></tr>
-<tr class="separator:a94d346bc8d44f285d8cdb97736859201"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aac1ea80c5210b25ad26f52558336c20d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../df/dee/a09810.html">Map</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d57/a09154.html#aac1ea80c5210b25ad26f52558336c20d">_map</a></td></tr>
-<tr class="separator:aac1ea80c5210b25ad26f52558336c20d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
+Public Attributes</h2></td></tr>
+<tr class="memitem:ab4f6ec9aefc2721bd216582d7a882aa3"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dc/d57/a09154.html#a9b7daa2ba0e72e137243ac061efaa2a5">V9Type</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d57/a09154.html#ab4f6ec9aefc2721bd216582d7a882aa3">v9</a></td></tr>
+<tr class="separator:ab4f6ec9aefc2721bd216582d7a882aa3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a55d7b001e047c31686b110cc4b1aa295"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dc/d57/a09154.html#a385ac15640b76e43eda077c451dcd745">V8Type</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d57/a09154.html#a55d7b001e047c31686b110cc4b1aa295">v8</a></td></tr>
+<tr class="separator:a55d7b001e047c31686b110cc4b1aa295"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a2cae372520a8e6d6a54ad79381a844e9" name="a2cae372520a8e6d6a54ad79381a844e9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2cae372520a8e6d6a54ad79381a844e9">&#9670;&#160;</a></span>GridTerrainUnloader()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">GridTerrainUnloader::GridTerrainUnloader </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../db/d3a/a00641.html#ae98d6a027a620a037e8c699d935537bf">MapGridType</a> &amp;&#160;</td>
-          <td class="paramname"><em>grid</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../df/dee/a09810.html">Map</a> *&#160;</td>
-          <td class="paramname"><em>map</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   47</span>        : <a class="code hl_variable" href="../../dc/d57/a09154.html#a94d346bc8d44f285d8cdb97736859201">_grid</a>(grid), <a class="code hl_variable" href="../../dc/d57/a09154.html#aac1ea80c5210b25ad26f52558336c20d">_map</a>(map) { }</div>
-<div class="ttc" id="aa09154_html_a94d346bc8d44f285d8cdb97736859201"><div class="ttname"><a href="../../dc/d57/a09154.html#a94d346bc8d44f285d8cdb97736859201">GridTerrainUnloader::_grid</a></div><div class="ttdeci">MapGridType &amp; _grid</div><div class="ttdef"><b>Definition:</b> GridTerrainLoader.h:52</div></div>
-<div class="ttc" id="aa09154_html_aac1ea80c5210b25ad26f52558336c20d"><div class="ttname"><a href="../../dc/d57/a09154.html#aac1ea80c5210b25ad26f52558336c20d">GridTerrainUnloader::_map</a></div><div class="ttdeci">Map * _map</div><div class="ttdef"><b>Definition:</b> GridTerrainLoader.h:53</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<h2 class="groupheader">Member Function Documentation</h2>
-<a id="ad6648cf97602141fcc64bbb6c688f6a0" name="ad6648cf97602141fcc64bbb6c688f6a0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad6648cf97602141fcc64bbb6c688f6a0">&#9670;&#160;</a></span>UnloadTerrain()</h2>
+<div class="textblock"></div><h2 class="groupheader">Member Typedef Documentation</h2>
+<a id="a385ac15640b76e43eda077c451dcd745" name="a385ac15640b76e43eda077c451dcd745"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a385ac15640b76e43eda077c451dcd745">&#9670;&#160;</a></span>V8Type</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void GridTerrainUnloader::UnloadTerrain </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
+          <td class="memname">typedef std::array&lt;float, 128 * 128&gt; <a class="el" href="../../dc/d57/a09154.html#a385ac15640b76e43eda077c451dcd745">LoadedHeightData::FloatHeightData::V8Type</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  150</span>{</div>
-<div class="line"><span class="lineno">  151</span>    <span class="comment">// Only parent maps manage terrain data</span></div>
-<div class="line"><span class="lineno">  152</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dc/d57/a09154.html#aac1ea80c5210b25ad26f52558336c20d">_map</a>-&gt;<a class="code hl_function" href="../../df/dee/a09810.html#ae0451da49ca7ce3b856f38870c451e44">GetInstanceId</a>() != 0)</div>
-<div class="line"><span class="lineno">  153</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  154</span> </div>
-<div class="line"><span class="lineno">  155</span>    <a class="code hl_function" href="../../d5/df8/a04978.html#a80f01f24b27dd7a5a795c193d0816624">VMAP::VMapFactory::createOrGetVMapMgr</a>()-&gt;<a class="code hl_function" href="../../d4/de5/a04986.html#ad02faa4408614d29ad5a5815f9c5af16">unloadMap</a>(<a class="code hl_variable" href="../../dc/d57/a09154.html#aac1ea80c5210b25ad26f52558336c20d">_map</a>-&gt;<a class="code hl_function" href="../../df/dee/a09810.html#abea8ed605071226978969647a0246e86">GetId</a>(), <a class="code hl_variable" href="../../dc/d57/a09154.html#a94d346bc8d44f285d8cdb97736859201">_grid</a>.<a class="code hl_function" href="../../d2/dd7/a09158.html#a221418a7ed724420c3fc0b865cc9ae40">GetX</a>(), <a class="code hl_variable" href="../../dc/d57/a09154.html#a94d346bc8d44f285d8cdb97736859201">_grid</a>.<a class="code hl_function" href="../../d2/dd7/a09158.html#a2a52c01e848d76687e321da2ad5ad540">GetY</a>());</div>
-<div class="line"><span class="lineno">  156</span>    <a class="code hl_function" href="../../d6/d5a/a04966.html#aa7571dc833ba0d2dc6d8bc7bc4b47cdd">MMAP::MMapFactory::createOrGetMMapMgr</a>()-&gt;<a class="code hl_function" href="../../d3/d64/a04974.html#a2d933fd783126e48423d81d1c06fb3f9">unloadMap</a>(<a class="code hl_variable" href="../../dc/d57/a09154.html#aac1ea80c5210b25ad26f52558336c20d">_map</a>-&gt;<a class="code hl_function" href="../../df/dee/a09810.html#abea8ed605071226978969647a0246e86">GetId</a>(), <a class="code hl_variable" href="../../dc/d57/a09154.html#a94d346bc8d44f285d8cdb97736859201">_grid</a>.<a class="code hl_function" href="../../d2/dd7/a09158.html#a221418a7ed724420c3fc0b865cc9ae40">GetX</a>(), <a class="code hl_variable" href="../../dc/d57/a09154.html#a94d346bc8d44f285d8cdb97736859201">_grid</a>.<a class="code hl_function" href="../../d2/dd7/a09158.html#a2a52c01e848d76687e321da2ad5ad540">GetY</a>());</div>
-<div class="line"><span class="lineno">  157</span>}</div>
-<div class="ttc" id="aa04966_html_aa7571dc833ba0d2dc6d8bc7bc4b47cdd"><div class="ttname"><a href="../../d6/d5a/a04966.html#aa7571dc833ba0d2dc6d8bc7bc4b47cdd">MMAP::MMapFactory::createOrGetMMapMgr</a></div><div class="ttdeci">static MMapMgr * createOrGetMMapMgr()</div><div class="ttdef"><b>Definition:</b> MMapFactory.cpp:27</div></div>
-<div class="ttc" id="aa04974_html_a2d933fd783126e48423d81d1c06fb3f9"><div class="ttname"><a href="../../d3/d64/a04974.html#a2d933fd783126e48423d81d1c06fb3f9">MMAP::MMapMgr::unloadMap</a></div><div class="ttdeci">bool unloadMap(uint32 mapId, int32 x, int32 y)</div><div class="ttdef"><b>Definition:</b> MMapMgr.cpp:204</div></div>
-<div class="ttc" id="aa04978_html_a80f01f24b27dd7a5a795c193d0816624"><div class="ttname"><a href="../../d5/df8/a04978.html#a80f01f24b27dd7a5a795c193d0816624">VMAP::VMapFactory::createOrGetVMapMgr</a></div><div class="ttdeci">static VMapMgr2 * createOrGetVMapMgr()</div><div class="ttdef"><b>Definition:</b> VMapFactory.cpp:27</div></div>
-<div class="ttc" id="aa04986_html_ad02faa4408614d29ad5a5815f9c5af16"><div class="ttname"><a href="../../d4/de5/a04986.html#ad02faa4408614d29ad5a5815f9c5af16">VMAP::VMapMgr2::unloadMap</a></div><div class="ttdeci">void unloadMap(unsigned int mapId, int x, int y) override</div><div class="ttdef"><b>Definition:</b> VMapMgr2.cpp:160</div></div>
-<div class="ttc" id="aa09158_html_a221418a7ed724420c3fc0b865cc9ae40"><div class="ttname"><a href="../../d2/dd7/a09158.html#a221418a7ed724420c3fc0b865cc9ae40">MapGrid::GetX</a></div><div class="ttdeci">uint16 GetX() const</div><div class="ttdef"><b>Definition:</b> MapGrid.h:42</div></div>
-<div class="ttc" id="aa09158_html_a2a52c01e848d76687e321da2ad5ad540"><div class="ttname"><a href="../../d2/dd7/a09158.html#a2a52c01e848d76687e321da2ad5ad540">MapGrid::GetY</a></div><div class="ttdeci">uint16 GetY() const</div><div class="ttdef"><b>Definition:</b> MapGrid.h:43</div></div>
-<div class="ttc" id="aa09810_html_abea8ed605071226978969647a0246e86"><div class="ttname"><a href="../../df/dee/a09810.html#abea8ed605071226978969647a0246e86">Map::GetId</a></div><div class="ttdeci">uint32 GetId() const</div><div class="ttdef"><b>Definition:</b> Map.h:224</div></div>
-<div class="ttc" id="aa09810_html_ae0451da49ca7ce3b856f38870c451e44"><div class="ttname"><a href="../../df/dee/a09810.html#ae0451da49ca7ce3b856f38870c451e44">Map::GetInstanceId</a></div><div class="ttdeci">uint32 GetInstanceId() const</div><div class="ttdef"><b>Definition:</b> Map.h:261</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00052">_grid</a>, <a class="el" href="../../#l00053">_map</a>, <a class="el" href="../../#l00027">MMAP::MMapFactory::createOrGetMMapMgr()</a>, <a class="el" href="../../#l00027">VMAP::VMapFactory::createOrGetVMapMgr()</a>, <a class="el" href="../../#l00224">Map::GetId()</a>, <a class="el" href="../../#l00261">Map::GetInstanceId()</a>, <a class="el" href="../../#l00042">MapGrid&lt; WORLD_OBJECT_TYPES, GRID_OBJECT_TYPES &gt;::GetX()</a>, <a class="el" href="../../#l00043">MapGrid&lt; WORLD_OBJECT_TYPES, GRID_OBJECT_TYPES &gt;::GetY()</a>, <a class="el" href="../../#l00204">MMAP::MMapMgr::unloadMap()</a>, and <a class="el" href="../../#l00160">VMAP::VMapMgr2::unloadMap()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00038">MapGridManager::UnloadGrid()</a>.</p>
+</div>
+</div>
+<a id="a9b7daa2ba0e72e137243ac061efaa2a5" name="a9b7daa2ba0e72e137243ac061efaa2a5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9b7daa2ba0e72e137243ac061efaa2a5">&#9670;&#160;</a></span>V9Type</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">typedef std::array&lt;float, 129 * 129&gt; <a class="el" href="../../dc/d57/a09154.html#a9b7daa2ba0e72e137243ac061efaa2a5">LoadedHeightData::FloatHeightData::V9Type</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a94d346bc8d44f285d8cdb97736859201" name="a94d346bc8d44f285d8cdb97736859201"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a94d346bc8d44f285d8cdb97736859201">&#9670;&#160;</a></span>_grid</h2>
+<a id="a55d7b001e047c31686b110cc4b1aa295" name="a55d7b001e047c31686b110cc4b1aa295"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a55d7b001e047c31686b110cc4b1aa295">&#9670;&#160;</a></span>v8</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../db/d3a/a00641.html#ae98d6a027a620a037e8c699d935537bf">MapGridType</a>&amp; GridTerrainUnloader::_grid</td>
+          <td class="memname"><a class="el" href="../../dc/d57/a09154.html#a385ac15640b76e43eda077c451dcd745">V8Type</a> LoadedHeightData::FloatHeightData::v8</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00149">UnloadTerrain()</a>.</p>
-
 </div>
 </div>
-<a id="aac1ea80c5210b25ad26f52558336c20d" name="aac1ea80c5210b25ad26f52558336c20d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aac1ea80c5210b25ad26f52558336c20d">&#9670;&#160;</a></span>_map</h2>
+<a id="ab4f6ec9aefc2721bd216582d7a882aa3" name="ab4f6ec9aefc2721bd216582d7a882aa3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab4f6ec9aefc2721bd216582d7a882aa3">&#9670;&#160;</a></span>v9</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../df/dee/a09810.html">Map</a>* GridTerrainUnloader::_map</td>
+          <td class="memname"><a class="el" href="../../dc/d57/a09154.html#a9b7daa2ba0e72e137243ac061efaa2a5">V9Type</a> LoadedHeightData::FloatHeightData::v9</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00149">UnloadTerrain()</a>.</p>
 
 </div>
 </div>
@@ -261,8 +192,8 @@ Private Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dc/d57/a09154.html">GridTerrainUnloader</a></li>
-    <li class="footer">Generated on Mon Aug 4 2025 20:51:30 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d3/d8c/a09142.html">LoadedHeightData</a></li><li class="navelem"><a class="el" href="../../dc/d57/a09154.html">FloatHeightData</a></li>
+    <li class="footer">Generated on Mon Sep 1 2025 20:43:54 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,9 +1,6 @@
 var a14330 =
 [
-    [ "entries", "dd/dd7/a14330.html#a8c55bbd253d6bea01e83c0aa7380dee5", null ],
-    [ "entries", "dd/dd7/a14330.html#a953850b267eb6f599bb49d82080bdf64", null ],
-    [ "revelerId", "dd/dd7/a14330.html#a9e4069ef00c8b4e31d8af06f34e12ad5", null ],
-    [ "schedule", "dd/dd7/a14330.html#ad849701425622001519334f352ea6f3e", null ],
-    [ "size", "dd/dd7/a14330.html#ae6a3fa59e1eb384255c247abadc962d5", null ],
-    [ "spawns", "dd/dd7/a14330.html#aa081965795e3b9473be5b322b0c46505", null ]
+    [ "npc_brewfest_bark_trigger", "dd/dd7/a14330.html#a110d654792e1f5dae8b17f014ea3d425", null ],
+    [ "GetTextFor", "dd/dd7/a14330.html#aca27445a1d9868a2cbd3a6a89dd806df", null ],
+    [ "MoveInLineOfSight", "dd/dd7/a14330.html#a271a440f21b4abddd9aa087e1e64a3d0", null ]
 ];

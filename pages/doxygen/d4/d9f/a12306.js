@@ -1,7 +1,6 @@
 var a12306 =
 [
-    [ "HandleDummy", "d4/d9f/a12306.html#a2299a8b99013fb9f9c2b8e81cfc541cc", null ],
-    [ "PrepareSpellScript", "d4/d9f/a12306.html#ad07165f81a7f407c716f90691ecb9817", null ],
-    [ "Register", "d4/d9f/a12306.html#a28fb28ca049b87dd76fddc3af222fd9c", null ],
-    [ "Validate", "d4/d9f/a12306.html#a8ce6773c7d0fd501fa7b26f04fd22796", null ]
+    [ "near_scarshield_infiltrator", "d4/d9f/a12306.html#a38d2e75946c429b4d80b007f190406bc", null ],
+    [ "OnTrigger", "d4/d9f/a12306.html#aeb761433e3210ce85c1de4dab653a87c", null ],
+    [ "whisperedTargets", "d4/d9f/a12306.html#a5655e241d2551798a960cb6375c7df23", null ]
 ];

@@ -1,7 +1,6 @@
 var a19078 =
 [
-    [ "FilterTargets", "df/d7e/a19078.html#af92aec0df6c962a10ccbebb366081cfd", null ],
-    [ "PrepareSpellScript", "df/d7e/a19078.html#ad7ccb2b2024887ec0a9802454a8bfaec", null ],
-    [ "Register", "df/d7e/a19078.html#af59416debfc7685bec92541a00e1dafe", null ],
-    [ "Validate", "df/d7e/a19078.html#abbe7ae557fb510457504f72adfa0aedc", null ]
+    [ "npc_isle_of_conquest_turretAI", "d3/d30/a19082.html", "d3/d30/a19082" ],
+    [ "npc_isle_of_conquest_turret", "df/d7e/a19078.html#ac080845203adef25e6841133b7e2f4dc", null ],
+    [ "GetAI", "df/d7e/a19078.html#a0f532e12439e900b3cb77619f1ecd17d", null ]
 ];

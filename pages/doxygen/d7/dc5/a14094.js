@@ -1,6 +1,6 @@
 var a14094 =
 [
-    [ "HandleOnHit", "d7/dc5/a14094.html#a36909ef786940eb1a05539c968d78e80", null ],
-    [ "PrepareSpellScript", "d7/dc5/a14094.html#a4bc6792c99b40834ec1a8a9764589e24", null ],
-    [ "Register", "d7/dc5/a14094.html#ad1d60c5f747f8ec16cbf2402567cfebd", null ]
+    [ "boss_arlokkAI", "d1/db0/a14098.html", "d1/db0/a14098" ],
+    [ "boss_arlokk", "d7/dc5/a14094.html#a55bb21239e05acff18d2fb147449800e", null ],
+    [ "GetAI", "d7/dc5/a14094.html#a58b8cc7a198784b48faaab1b069d397c", null ]
 ];

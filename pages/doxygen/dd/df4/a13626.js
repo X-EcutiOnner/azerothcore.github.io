@@ -1,12 +1,10 @@
 var a13626 =
 [
-    [ "npc_corporal_keeshanAI", "dd/df4/a13626.html#aac5b72ede6e1496f80c4c2520e886efd", null ],
-    [ "Reset", "dd/df4/a13626.html#a311488932a3de9153490d41e3fae92fb", null ],
-    [ "sQuestAccept", "dd/df4/a13626.html#a52dd95c74b1457ad5b496b28fd183b06", null ],
-    [ "UpdateAI", "dd/df4/a13626.html#a973cf65978e531dc8bd7db20fc2809b6", null ],
-    [ "WaypointReached", "dd/df4/a13626.html#a3edc9ab54068e47f955116db70454f6c", null ],
-    [ "mockingBlowTimer", "dd/df4/a13626.html#a21cd1ca86864b8507d43e5a1c4c13e0c", null ],
-    [ "phase", "dd/df4/a13626.html#ae79dcfdb10738d673e8c1aebc6abdee6", null ],
-    [ "shieldBashTimer", "dd/df4/a13626.html#abb5eaa25a77dd3e6dfff7aaa0aa6c375", null ],
-    [ "timer", "dd/df4/a13626.html#a3107368f175aa7f4e8c405248ef917df", null ]
+    [ "npc_sunblade_scout", "dd/df4/a13626.html#ab8ecb0d2fb7dfd482b2cba4ed11ababc", null ],
+    [ "JustEngagedWith", "dd/df4/a13626.html#ab57b63a624458a9fa598062e61c5fa0e", null ],
+    [ "Reset", "dd/df4/a13626.html#a8c7f442118fced8a2efac3b9fe0035f5", null ],
+    [ "ScheduleCombat", "dd/df4/a13626.html#ae4ca796fa8fd4aae6ac8f184638b3f97", null ],
+    [ "ScheduleOOC", "dd/df4/a13626.html#ae06c1d7b43cc170f3a3b5f4835822d57", null ],
+    [ "UpdateAI", "dd/df4/a13626.html#aca75482085b72070487c24feefa23fd6", null ],
+    [ "_protectorGUID", "dd/df4/a13626.html#a753f7fbbea33f7fc49f5d6e733a8f833", null ]
 ];

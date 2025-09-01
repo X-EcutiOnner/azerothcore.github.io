@@ -1,6 +1,7 @@
 var a26446 =
 [
-    [ "OnApply", "d8/d44/a26446.html#a50ced6d5a475ccad9429dfbb05130394", null ],
-    [ "PrepareAuraScript", "d8/d44/a26446.html#abd02e129b1201449d473a66aea77d569", null ],
-    [ "Register", "d8/d44/a26446.html#a8c09775f642335252c6e548900dc9d3a", null ]
+    [ "if", "d8/d44/a26446.html#a2b5a85e480bcd0ef5074d3bcf7eaf5cb", null ],
+    [ "PrepareAuraScript", "d8/d44/a26446.html#aa31810077c241e77193e378cb297b7de", null ],
+    [ "Register", "d8/d44/a26446.html#a7b8f537719a4155d1cd95a6f49cf6a3a", null ],
+    [ "AuraEffectHandleModes", "d8/d44/a26446.html#a3113d8e7ec296fdf13c8f386ae74e0f3", null ]
 ];

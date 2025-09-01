@@ -1,5 +1,5 @@
 var a20338 =
 [
-    [ "achievement_ignis_shattered", "d7/dd7/a20338.html#adbe893b0dd409eb3f10768f81f182f61", null ],
-    [ "OnCheck", "d7/dd7/a20338.html#a8a77a6e6979b4b09f5208e51b4faa4c1", null ]
+    [ "achievement_shadowdodger", "d7/dd7/a20338.html#a8389a4972968fcc6cd7807e96ee5e527", null ],
+    [ "OnCheck", "d7/dd7/a20338.html#a3ee0baca0c9163a601cd4bcfa9ebeb04", null ]
 ];

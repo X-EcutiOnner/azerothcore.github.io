@@ -1,5 +1,5 @@
 var a10330 =
 [
-    [ "GenericInstanceMapScript", "d3/da9/a10330.html#a39aef4c434d791f18fc04ea692bf2255", null ],
-    [ "GetInstanceScript", "d3/da9/a10330.html#a8ca7180c1d2f8fb213e8b52bb73b2f76", null ]
+    [ "GenericGameObjectScript", "d3/da9/a10330.html#a7d1d46c8d325619637aef9b9dc5419f7", null ],
+    [ "GetAI", "d3/da9/a10330.html#a7e3ba0f4a88489de522ae714d628c9ab", null ]
 ];

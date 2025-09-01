@@ -1,6 +1,6 @@
 var a13354 =
 [
-    [ "FixOrientation", "dd/d89/a13354.html#ac4a9654d37a73f9d5ddc73ff90ce145b", null ],
-    [ "Execute", "dd/d89/a13354.html#a7af72679731c9b86b9ae36d19d1621e5", null ],
-    [ "_owner", "dd/d89/a13354.html#a5f12db3774bdeef25a300780c00db1fb", null ]
+    [ "instance_stratholme_InstanceMapScript", "db/d2a/a13358.html", "db/d2a/a13358" ],
+    [ "instance_stratholme", "dd/d89/a13354.html#a42ac504b2790af8c37a44e87fbd9c6c1", null ],
+    [ "GetInstanceScript", "dd/d89/a13354.html#a3d3d2e773029dd1c4bc1a59a94c4e015", null ]
 ];

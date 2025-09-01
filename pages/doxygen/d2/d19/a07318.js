@@ -1,12 +1,14 @@
 var a07318 =
 [
-    [ "BGQueueRemoveEvent", "d2/d19/a07318.html#ab751b728f64b2928eefb21f756539d81", null ],
-    [ "~BGQueueRemoveEvent", "d2/d19/a07318.html#aab9ea24041888975439aafb246c571c3", null ],
-    [ "Abort", "d2/d19/a07318.html#a7d1dc829e56398ad421cb53dd51e952e", null ],
-    [ "Execute", "d2/d19/a07318.html#a42482ff784da4b23b568888a74a0b531", null ],
-    [ "m_BgInstanceGUID", "d2/d19/a07318.html#a4732918e6d7c42dd068f5cb147a188fc", null ],
-    [ "m_BgQueueTypeId", "d2/d19/a07318.html#ac059a823ae49bd0250eec15845bf153b", null ],
-    [ "m_BgTypeId", "d2/d19/a07318.html#a8bc484087ef76d627d5ae912bc5de22c", null ],
-    [ "m_PlayerGuid", "d2/d19/a07318.html#a9a1e2c09896b4d7521954d810e7193cc", null ],
-    [ "m_RemoveTime", "d2/d19/a07318.html#a0c40a46749bff9caaf1a462d7bef701e", null ]
+    [ "IsArena", "d2/d19/a07318.html#a8a99bf73debf5835e58537bee33fe2ad", null ],
+    [ "BattlemasterEntry", "d2/d19/a07318.html#a51ce3b9fdb2f51f439fee7c8b48e3918", null ],
+    [ "Id", "d2/d19/a07318.html#a0fca37318585903f68695452a95011a9", null ],
+    [ "MaxLevel", "d2/d19/a07318.html#a790f55d480d1454a5f6e5713c04314b7", null ],
+    [ "MaxPlayersPerTeam", "d2/d19/a07318.html#a324a4e557ce66089ec1111a9dae6e1de", null ],
+    [ "MaxStartDistSq", "d2/d19/a07318.html#a5fbb1a76221e9d15bd7cca13581f7b14", null ],
+    [ "MinLevel", "d2/d19/a07318.html#a49fdf96a08376830a06956fd501cfa78", null ],
+    [ "MinPlayersPerTeam", "d2/d19/a07318.html#ac1bea263b53de8573cdb8eb890175495", null ],
+    [ "ScriptId", "d2/d19/a07318.html#a968dd626dba22925be3d8f1a3bdc51aa", null ],
+    [ "StartLocation", "d2/d19/a07318.html#a8477d2156c8aa5bb89da038d1a779698", null ],
+    [ "Weight", "d2/d19/a07318.html#aa7a051e8453599a7e82da763a6f91da2", null ]
 ];

@@ -1,12 +1,11 @@
 var a11802 =
 [
-    [ "boss_balinda", "db/d03/a11802.html#a2f3ce696dbc66843cddc13196800866b", null ],
-    [ "DamageTaken", "db/d03/a11802.html#a826ad90ac15b3421e16fc3faa96784e7", null ],
-    [ "JustDied", "db/d03/a11802.html#aeb10053198b9b4c43e963d23957ba9ba", null ],
-    [ "JustEngagedWith", "db/d03/a11802.html#aa0b78302a92bf39ffee51ce3a71fb534", null ],
-    [ "JustSummoned", "db/d03/a11802.html#a3c2306326d2f85fbb6766352117a1f91", null ],
-    [ "Reset", "db/d03/a11802.html#a1ecfa5d743682997076a47cce44b19f5", null ],
-    [ "UpdateAI", "db/d03/a11802.html#af3506dd75baef12fd0328aed21636978", null ],
-    [ "_hasCastIceBlock", "db/d03/a11802.html#a05c24746060d7c9a3712d9f269b4af8e", null ],
-    [ "summons", "db/d03/a11802.html#a83df5856391f0ba62dcb0538b7f44e2d", null ]
+    [ "instance_commandscript", "db/d03/a11802.html#a4d0b308b35a1aa21c66c8bd406ffa82f", null ],
+    [ "GetCommands", "db/d03/a11802.html#a092d62969c835f6bf2a08ca3e05f04d5", null ],
+    [ "HandleInstanceGetBossStateCommand", "db/d03/a11802.html#a0530ca6481073d6bafd11596546140b0", null ],
+    [ "HandleInstanceListBindsCommand", "db/d03/a11802.html#abf42411f9c78ce59b21b34691e3d4233", null ],
+    [ "HandleInstanceSaveDataCommand", "db/d03/a11802.html#a4b494a8b1de470612436fbb9fa433416", null ],
+    [ "HandleInstanceSetBossStateCommand", "db/d03/a11802.html#aec65b5af811eae2cbcf17571e9d1473b", null ],
+    [ "HandleInstanceStatsCommand", "db/d03/a11802.html#a9547a0a88a3bcd7407c449f3f2f25f44", null ],
+    [ "HandleInstanceUnbindCommand", "db/d03/a11802.html#a7abbe257b10632f2acbdd838e1f073a9", null ]
 ];

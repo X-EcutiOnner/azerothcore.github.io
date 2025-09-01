@@ -1,5 +1,6 @@
 var a20790 =
 [
-    [ "achievement_xt002_nerf_gravity_bombs", "dc/d32/a20790.html#a9c6471da08acb7a0543d7cc07784dd85", null ],
-    [ "OnCheck", "dc/d32/a20790.html#a03f61470694399ab32aea354cd697771", null ]
+    [ "boss_thorim_lightning_orbAI", "d5/d12/a20794.html", "d5/d12/a20794" ],
+    [ "boss_thorim_lightning_orb", "dc/d32/a20790.html#a2aa29e8d2b3fb10e8be39d8fc3112ac2", null ],
+    [ "GetAI", "dc/d32/a20790.html#ad24d28866145c4fccf7a3971856fa87f", null ]
 ];

@@ -1,7 +1,8 @@
 var a21926 =
 [
-    [ "HandleScriptEffect", "df/df8/a21926.html#a2d39a073c351860db735301b4cf9c79f", null ],
-    [ "PrepareSpellScript", "df/df8/a21926.html#a3674adaef23f1531af360a65c14efadd", null ],
-    [ "Register", "df/df8/a21926.html#a11b217c0066217f2da5ff42ce35c9a0a", null ],
-    [ "Validate", "df/df8/a21926.html#a3dadb61ca7dd8195ba5fdac5bf49583c", null ]
+    [ "npc_future_youAI", "df/df8/a21926.html#a7608c050dd198e3133050e222b42f62b", null ],
+    [ "EnterEvadeMode", "df/df8/a21926.html#a0b15c8af6075e323e56b2170ce4eefc0", null ],
+    [ "MoveInLineOfSight", "df/df8/a21926.html#a35b67f9e948f5ffbde8a423190ece603", null ],
+    [ "Reset", "df/df8/a21926.html#a01a8cd8f94dd614de2ffefdb19cd9f29", null ],
+    [ "UpdateAI", "df/df8/a21926.html#ac110daa6b4cf6bf26d9e9f9829577fa6", null ]
 ];

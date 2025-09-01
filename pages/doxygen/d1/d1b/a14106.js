@@ -1,16 +1,12 @@
 var a14106 =
 [
-    [ "boss_renatakiAI", "d1/d1b/a14106.html#ac154bfadeb99d67f59e1682de257e8bf", null ],
-    [ "CanAIAttack", "d1/d1b/a14106.html#af20dc14dc56500e568a3a11bfb34a227", null ],
-    [ "CanAlwaysBeDetectable", "d1/d1b/a14106.html#af75108eacb982586f43a175beede78ef", null ],
-    [ "CanBeSeen", "d1/d1b/a14106.html#ac79db0d4488702be0cd12b5e03a9bcb9", null ],
-    [ "CanSeeAlways", "d1/d1b/a14106.html#a6e4a1e9bec67a1bdac4c9cef3da4b17d", null ],
-    [ "DamageTaken", "d1/d1b/a14106.html#a62d97adb310b55a2235737b854dc4aca", null ],
-    [ "JustEngagedWith", "d1/d1b/a14106.html#a72e9a85d2215d3da197d50b6aa0b769e", null ],
-    [ "Reset", "d1/d1b/a14106.html#ad50d8e24fb4168186497c5cdb5b39a68", null ],
-    [ "UpdateAI", "d1/d1b/a14106.html#a3a1abaef460d9abe1298080080d74c9d", null ],
-    [ "_dynamicFlags", "d1/d1b/a14106.html#a502bfa737cf97ae909144278a3e39bd0", null ],
-    [ "_enraged", "d1/d1b/a14106.html#a71e717a2ea732729762aff7970439f74", null ],
-    [ "_thousandBladesCount", "d1/d1b/a14106.html#a29dd57c66245f30d12f32d31cc25cd55", null ],
-    [ "_thousandBladesTargets", "d1/d1b/a14106.html#ab8b2b52a2ef8ea6586381234c9a3e3fc", null ]
+    [ "npc_zulian_prowlerAI", "d1/d1b/a14106.html#a367613efead335b060173011267ddcff", null ],
+    [ "JustDied", "d1/d1b/a14106.html#a31258aadddfbf6c6e9e1d729452dd8b2", null ],
+    [ "JustEngagedWith", "d1/d1b/a14106.html#a207504b15ecd22b78088593b80433581", null ],
+    [ "Reset", "d1/d1b/a14106.html#a62d14bae970d8a70a997c683e0e94259", null ],
+    [ "SpellHit", "d1/d1b/a14106.html#a4051cd786d8c1974cf80c28f907cc02a", null ],
+    [ "UpdateAI", "d1/d1b/a14106.html#a708df3a95395f99f6ba3eebcc90a22ab", null ],
+    [ "_events", "d1/d1b/a14106.html#a994ae5b4e72429141155d1342830e5ad", null ],
+    [ "_instance", "d1/d1b/a14106.html#ad37ba6b6ff7f52a88d2a96dc4ea00c34", null ],
+    [ "_sideData", "d1/d1b/a14106.html#afa44e09c5677c2fc567be6a67b766bde", null ]
 ];

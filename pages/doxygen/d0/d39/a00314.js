@@ -1,12 +1,9 @@
 var a00314 =
 [
-    [ "MMAP::MMapFactory", "d6/d5a/a04966.html", "d6/d5a/a04966" ],
-    [ "MMAP_LOAD_RESULT", "d0/d39/a00314.html#a329271d76c3ed7ad6d255d45094b4868", [
-      [ "MMAP_LOAD_RESULT_ERROR", "d0/d39/a00314.html#a329271d76c3ed7ad6d255d45094b4868a66ec06574c26cbc0b14b939c3cb09f85", null ],
-      [ "MMAP_LOAD_RESULT_OK", "d0/d39/a00314.html#a329271d76c3ed7ad6d255d45094b4868ad7493681e0258dd1099139230f17df10", null ],
-      [ "MMAP_LOAD_RESULT_IGNORED", "d0/d39/a00314.html#a329271d76c3ed7ad6d255d45094b4868a87dfee65ac7d1c8acf69eea806a151c8", null ],
-      [ "MMAP_LOAD_RESULT_ERROR", "d0/d39/a00314.html#a329271d76c3ed7ad6d255d45094b4868a66ec06574c26cbc0b14b939c3cb09f85", null ],
-      [ "MMAP_LOAD_RESULT_OK", "d0/d39/a00314.html#a329271d76c3ed7ad6d255d45094b4868ad7493681e0258dd1099139230f17df10", null ],
-      [ "MMAP_LOAD_RESULT_IGNORED", "d0/d39/a00314.html#a329271d76c3ed7ad6d255d45094b4868a87dfee65ac7d1c8acf69eea806a151c8", null ]
-    ] ]
+    [ "BoundsTrait< VMAP::ModelSpawn * >", "de/dda/a05042.html", "de/dda/a05042" ],
+    [ "VMAP::WMOLiquidHeader", "d8/d5f/a05046.html", "d8/d5f/a05046" ],
+    [ "CMP_OR_RETURN", "d0/d39/a00314.html#abb356574335eee18efd5e1f4ed707637", null ],
+    [ "READ_OR_RETURN", "d0/d39/a00314.html#ab09a5bc19f9a9f62a1f60dd7741b4d6d", null ],
+    [ "READ_OR_RETURN_WITH_DELETE", "d0/d39/a00314.html#aaf506ecfd782214a75bd609db9bef004", null ],
+    [ "readChunk", "d0/d39/a00314.html#a166f3eeee53079ac9df4f15ccd577974", null ]
 ];

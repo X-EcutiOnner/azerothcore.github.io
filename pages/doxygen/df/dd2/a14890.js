@@ -1,22 +1,13 @@
 var a14890 =
 [
-    [ "boss_onyxia", "df/dd2/a14890.html#ab46b86e0eeee3918d1308a1fdb48e22f", null ],
-    [ "CheckInRoom", "df/dd2/a14890.html#a4278354db54db2190f8e5639d51f180e", null ],
-    [ "DamageTaken", "df/dd2/a14890.html#abf2607b4eb644bd42edc9e723ec92ef4", null ],
-    [ "DoAction", "df/dd2/a14890.html#a9e6a94b225caf455f9072c3a430ba49e", null ],
-    [ "HandleWhelpSpam", "df/dd2/a14890.html#aa03a986845d79dba3c60446d84ec7189", null ],
-    [ "Initialize", "df/dd2/a14890.html#ae64cfe5c532c4eae8e76c4ddd845e278", null ],
-    [ "JustEngagedWith", "df/dd2/a14890.html#a1dff56a293babebe82b3947c53a1e0e9", null ],
-    [ "JustSummoned", "df/dd2/a14890.html#a424a1815a0f51097c184f7582f1b2f45", null ],
-    [ "MovementInform", "df/dd2/a14890.html#a1413f44b212b651f276ecb1e2f01c36a", null ],
-    [ "Reset", "df/dd2/a14890.html#a837fb19b4c85d87ebf026b2f692696bb", null ],
-    [ "SetPhase", "df/dd2/a14890.html#a7b0df8fb7524d223c14f360c2eb9e282", null ],
-    [ "SpellHitTarget", "df/dd2/a14890.html#ace3d7dd677a4716e13f4c0c1c5944471", null ],
-    [ "UpdateAI", "df/dd2/a14890.html#ad04fc48bd1aa5ffa5570c0e44b2a112c", null ],
-    [ "bManyWhelpsAvailable", "df/dd2/a14890.html#a78565986741d7225de01c283613ba8f2", null ],
-    [ "CurrentWP", "df/dd2/a14890.html#a1b1544c5aea342607a8bc83b49396340", null ],
-    [ "Phase", "df/dd2/a14890.html#a3b10bf8659039752648b2035da7808d6", null ],
-    [ "whelpCount", "df/dd2/a14890.html#a447ca146d4fad7506a274dea1068ec84", null ],
-    [ "whelpSpam", "df/dd2/a14890.html#ab465e9d7dd63ca51559b9b8f1ed9921e", null ],
-    [ "whelpSpamTimer", "df/dd2/a14890.html#a0990000f7fd0041b8da642d1dd714406", null ]
+    [ "boss_infinite_corruptorAI", "df/dd2/a14890.html#add36192941eaabf7f3d1d41c572783bd", null ],
+    [ "DoAction", "df/dd2/a14890.html#a8ff0a9731ad7bc118a1014bdbb0e1daf", null ],
+    [ "JustDied", "df/dd2/a14890.html#a6d2f445bf0819ac644d7de14d3b7034d", null ],
+    [ "JustEngagedWith", "df/dd2/a14890.html#a644725505db4fc7a98c4255d0eb34616", null ],
+    [ "JustSummoned", "df/dd2/a14890.html#a2b12c03184b169a56a0e6696a107dc35", null ],
+    [ "Reset", "df/dd2/a14890.html#a4dbff495bfcda6fb715dec68616e1764", null ],
+    [ "UpdateAI", "df/dd2/a14890.html#aaa0a45066ab7ad7d5a7543822d399947", null ],
+    [ "beamTimer", "df/dd2/a14890.html#a2f8048e591a818f073a65bfcfa49e66c", null ],
+    [ "events", "df/dd2/a14890.html#a5491db8f5e063ca84f18f1ca63c1e846", null ],
+    [ "summons", "df/dd2/a14890.html#aa5de5f986f8a6d3ba5f3aad84422eab6", null ]
 ];

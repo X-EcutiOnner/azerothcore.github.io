@@ -1,6 +1,6 @@
 var a18534 =
 [
-    [ "HandleScript", "df/d79/a18534.html#a567509ccadbc74b3ba9e420f08a0c2b4", null ],
-    [ "PrepareSpellScript", "df/d79/a18534.html#aac5f2cb3e5f498ae46598e95eece825d", null ],
-    [ "Register", "df/d79/a18534.html#a11c40abf4db37e1498b1a7ee5089f083", null ]
+    [ "npc_terenas_menethilAI", "d4/d4f/a18538.html", "d4/d4f/a18538" ],
+    [ "npc_terenas_menethil", "df/d79/a18534.html#a6b6850598c582e3d44c13275302fd32d", null ],
+    [ "GetAI", "df/d79/a18534.html#ad5f29af90c3f40ce0dad019b5ec05cf2", null ]
 ];

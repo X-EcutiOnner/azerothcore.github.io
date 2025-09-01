@@ -1,5 +1,6 @@
 var a20514 =
 [
-    [ "npc_ulduar_rocket_strike_triggerAI", "da/db9/a20514.html#a6308129d11989dadf0a5948c4a268e4b", null ],
-    [ "SpellHitTarget", "da/db9/a20514.html#a3c254e16f62e7d2414d81062c91c2468", null ]
+    [ "boss_kologarnAI", "d7/d12/a20518.html", "d7/d12/a20518" ],
+    [ "boss_kologarn", "da/db9/a20514.html#a5f654a0f534c4ec6c1164ea08e40a476", null ],
+    [ "GetAI", "da/db9/a20514.html#ad78c2d269e68d8c3bbd86b844ada9435", null ]
 ];

@@ -1,9 +1,11 @@
 var a17390 =
 [
-    [ "FilterTargets", "d2/dce/a17390.html#a7b490400378893a19cdaf52af25f3a51", null ],
-    [ "HandleScript", "d2/dce/a17390.html#acee46fb0af45364478a92db59fcc3f24", null ],
-    [ "Load", "d2/dce/a17390.html#a46a43b9a8dec2f61aee3dccad4178a78", null ],
-    [ "PrepareSpellScript", "d2/dce/a17390.html#abb8fac43566f92b19e644edc38ab5d73", null ],
-    [ "Register", "d2/dce/a17390.html#a1add221102b7067ffc130969f5172eae", null ],
-    [ "Validate", "d2/dce/a17390.html#a4d2b60161f5aed31132f0fc554aab7b6", null ]
+    [ "boss_moorabiAI", "d2/dce/a17390.html#a60a03c3840a3743719996929d2ca9e59", null ],
+    [ "JustDied", "d2/dce/a17390.html#a6d866bf54dc06e4f20eb4d62ea97928a", null ],
+    [ "JustEngagedWith", "d2/dce/a17390.html#a1fa46ac21b28ff49382c7389a46fad75", null ],
+    [ "KilledUnit", "d2/dce/a17390.html#a265855d2972e534e927bfa609fbf2cf5", null ],
+    [ "Reset", "d2/dce/a17390.html#a9daf89ed0f4e5795cafc63a6a81e5d1d", null ],
+    [ "SpellHitTarget", "d2/dce/a17390.html#af1f30a0f3bf0f88725f8a146c528b77a", null ],
+    [ "UpdateAI", "d2/dce/a17390.html#a9f9956aaaa60d5d0005a55a87d0424eb", null ],
+    [ "events2", "d2/dce/a17390.html#a02a3bc20ca7b1b750bfd1bd29f093dd2", null ]
 ];

@@ -1,8 +1,14 @@
 var a05514 =
 [
-    [ "category", "d7/d55/a05514.html#a6a53b4b68647fdde65e3c2363127fc4f", null ],
-    [ "char_type", "d7/d55/a05514.html#aaecf7407fc4cff91008168377114d7cd", null ],
-    [ "ACLogSink", "d7/d55/a05514.html#a070880d742fd84b44c4614a76952e589", null ],
-    [ "write", "d7/d55/a05514.html#adad5e421ed10b296eae8b9c52f5e76f5", null ],
-    [ "callback_", "d7/d55/a05514.html#a360b91b740efaa05309725f6678eb22a", null ]
+    [ "SFMTRand", "d7/d55/a05514.html#aa40843ec8c3162e4be6cbf8067f93c9b", null ],
+    [ "operator delete", "d7/d55/a05514.html#a20ef76641899ebf23ecfdfa03933d1d9", null ],
+    [ "operator delete", "d7/d55/a05514.html#ac6267ac04c03814f574a155a4a0cffcb", null ],
+    [ "operator delete[]", "d7/d55/a05514.html#a5051cdb95e18230b7fee753beb621603", null ],
+    [ "operator delete[]", "d7/d55/a05514.html#a7cfe99d3c100b6ba124b82fce756960f", null ],
+    [ "operator new", "d7/d55/a05514.html#a73dfbe0b1545b5604dfde603517efbfb", null ],
+    [ "operator new", "d7/d55/a05514.html#a3dc4f4d003c77547117ec7c31486f884", null ],
+    [ "operator new[]", "d7/d55/a05514.html#a61d2b3bc61bfa640c8b0241d09347d2b", null ],
+    [ "operator new[]", "d7/d55/a05514.html#ace8e8802bdb710f3354d3ff7d619497c", null ],
+    [ "RandomUInt32", "d7/d55/a05514.html#a8d129952ad2916419cdf54aa474c23c0", null ],
+    [ "_state", "d7/d55/a05514.html#a9bc20836138e5dd4db93f7d03a9e856b", null ]
 ];

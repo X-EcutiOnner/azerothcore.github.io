@@ -1,7 +1,9 @@
 var a14198 =
 [
-    [ "GetEmptyEntry", "d0/d2c/a14198.html#a46dfe7b2f8598d24f17868266d1571c6", null ],
-    [ "HandleAfterHit", "d0/d2c/a14198.html#a4f8ab6e42ddf2188ccca2640363b9925", null ],
-    [ "PrepareSpellScript", "d0/d2c/a14198.html#a35f0ab4b36df3d9ec1191cbd9ba88c9e", null ],
-    [ "Register", "d0/d2c/a14198.html#a25e1858e1f81891443f4b7de50a5d495", null ]
+    [ "npc_healing_ward", "d0/d2c/a14198.html#a3d3c35f61502d3a83cb2581119e08903", null ],
+    [ "JustEngagedWith", "d0/d2c/a14198.html#a5faf7c5633c44ec1fa70b60b2071b97b", null ],
+    [ "Reset", "d0/d2c/a14198.html#a756d27a43d86c7ecde859df255c6bd62", null ],
+    [ "UpdateAI", "d0/d2c/a14198.html#a8b8635af33ce814602206064e0815520", null ],
+    [ "_instance", "d0/d2c/a14198.html#a65f227041ad4bdc7240637dd6cb680ec", null ],
+    [ "_scheduler", "d0/d2c/a14198.html#a0c62fe945b491cab76175217a7d10c06", null ]
 ];

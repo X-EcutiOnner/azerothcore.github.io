@@ -1,14 +1,12 @@
 var a13482 =
 [
-    [ "instance_uldaman_InstanceMapScript", "d2/d6f/a13482.html#ab2607f229d1e34852c82139ddb597712", null ],
-    [ "GetData", "d2/d6f/a13482.html#adef5f6d2dcaa50dbb615c4c134e7ecfb", null ],
-    [ "Initialize", "d2/d6f/a13482.html#a2424bcb1aec0ffc6235a8e8b384f0ed1", null ],
-    [ "OnCreatureCreate", "d2/d6f/a13482.html#a49b5562743910dc1b6b55efa8c44b6a0", null ],
-    [ "OnGameObjectCreate", "d2/d6f/a13482.html#aacb9db5f66f1f9be0d993aacc3cf4348", null ],
-    [ "ReadSaveDataMore", "d2/d6f/a13482.html#a8e0e03189463039dd31d883ad9c40e51", null ],
-    [ "SetData", "d2/d6f/a13482.html#ab24fc2db74ef83f2b3be9603d4728385", null ],
-    [ "WriteSaveDataMore", "d2/d6f/a13482.html#a3345c117f5e2ceca773843c3f51cb76f", null ],
-    [ "_encounters", "d2/d6f/a13482.html#a6840bd04d25fd1f365e0c28c725cde97", null ],
-    [ "ancientVaultDoorGUID", "d2/d6f/a13482.html#adf83ba0b0a1650462dbc3bc56182bed9", null ],
-    [ "archaedasTempleDoorGUID", "d2/d6f/a13482.html#a6bad33c43ceaa23990544e4a8feefb34", null ]
+    [ "boss_sathrovarr", "d2/d6f/a13482.html#a92bff830219f795d0aae4511f3d524bb", null ],
+    [ "CanAIAttack", "d2/d6f/a13482.html#a053dcf604aed91ac7c888d682653da54", null ],
+    [ "DoAction", "d2/d6f/a13482.html#ad0b549678e5b4eb7dfc1c1879885b45a", null ],
+    [ "JustDied", "d2/d6f/a13482.html#aa6683f0ccb70260e24f79d86ec4ae2d1", null ],
+    [ "JustEngagedWith", "d2/d6f/a13482.html#a1f3a74ac6f83673eed9b2a4276a5cf49", null ],
+    [ "KilledUnit", "d2/d6f/a13482.html#a17e2a5d253536c25cd04269b71a5c0ed", null ],
+    [ "Reset", "d2/d6f/a13482.html#a171c0e2c07ddf4c5271af8ed83f15257", null ],
+    [ "UpdateAI", "d2/d6f/a13482.html#a99c5c8801333f2eaf6b9fee287588093", null ],
+    [ "_instance", "d2/d6f/a13482.html#af7bfd6a65db102b5010f7b300e4acd27", null ]
 ];

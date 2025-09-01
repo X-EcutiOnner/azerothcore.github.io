@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: BattlefieldMgr Class Reference</title>
+<title>AzerothCore: AuctionHouseWorkerThread Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,543 +105,136 @@ $(document).ready(function(){initNavTree('df/ddd/a07150.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#pub-types">Public Types</a> &#124;
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pub-static-methods">Static Public Member Functions</a> &#124;
+<a href="#pri-methods">Private Member Functions</a> &#124;
 <a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="../../df/d78/a07147.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">BattlefieldMgr Class Reference</div></div>
+  <div class="headertitle"><div class="title">AuctionHouseWorkerThread Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">BattlefieldMgr.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">AuctionHouseSearcher.h</a>&quot;</code></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-types" name="pub-types"></a>
-Public Types</h2></td></tr>
-<tr class="memitem:a440a0f37414815a060e23ac6b79ca3c5"><td class="memItemLeft" align="right" valign="top">typedef std::vector&lt; <a class="el" href="../../de/d85/a07146.html">Battlefield</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/ddd/a07150.html#a440a0f37414815a060e23ac6b79ca3c5">BattlefieldSet</a></td></tr>
-<tr class="separator:a440a0f37414815a060e23ac6b79ca3c5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aea781a60967fbc877bd1593628cdf32d"><td class="memItemLeft" align="right" valign="top">typedef std::map&lt; <a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../de/d85/a07146.html">Battlefield</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/ddd/a07150.html#aea781a60967fbc877bd1593628cdf32d">BattlefieldMap</a></td></tr>
-<tr class="separator:aea781a60967fbc877bd1593628cdf32d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:afaa79f63a91c6b585b4bf10dfdf60af6"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/ddd/a07150.html#afaa79f63a91c6b585b4bf10dfdf60af6">BattlefieldMgr</a> ()</td></tr>
-<tr class="separator:afaa79f63a91c6b585b4bf10dfdf60af6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0d5b198add5190e99a1763a168ce2895"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/ddd/a07150.html#a0d5b198add5190e99a1763a168ce2895">~BattlefieldMgr</a> ()</td></tr>
-<tr class="separator:a0d5b198add5190e99a1763a168ce2895"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a244ce1743c237e95c08dc8861f3ce4b3"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/ddd/a07150.html#a244ce1743c237e95c08dc8861f3ce4b3">InitBattlefield</a> ()</td></tr>
-<tr class="separator:a244ce1743c237e95c08dc8861f3ce4b3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a733f42fdc343d070220e8c56f24fe4ac"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/ddd/a07150.html#a733f42fdc343d070220e8c56f24fe4ac">HandlePlayerEnterZone</a> (<a class="el" href="../../dc/dd9/a08606.html">Player</a> *player, <a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> areaflag)</td></tr>
-<tr class="separator:a733f42fdc343d070220e8c56f24fe4ac"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a89aa3d5d27fe61a13e381f13c599de90"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/ddd/a07150.html#a89aa3d5d27fe61a13e381f13c599de90">HandlePlayerLeaveZone</a> (<a class="el" href="../../dc/dd9/a08606.html">Player</a> *player, <a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> areaflag)</td></tr>
-<tr class="separator:a89aa3d5d27fe61a13e381f13c599de90"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a458fb8b4943de82f0574ddd63ba466a9"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/ddd/a07150.html#a458fb8b4943de82f0574ddd63ba466a9">HandlePlayerResurrects</a> (<a class="el" href="../../dc/dd9/a08606.html">Player</a> *player, <a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> areaflag)</td></tr>
-<tr class="separator:a458fb8b4943de82f0574ddd63ba466a9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aad6dcd56b45aeb2095c0c9033ae9f691"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d85/a07146.html">Battlefield</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/ddd/a07150.html#aad6dcd56b45aeb2095c0c9033ae9f691">GetBattlefieldToZoneId</a> (<a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> zoneid)</td></tr>
-<tr class="separator:aad6dcd56b45aeb2095c0c9033ae9f691"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab99d360162cf61dfc8d53df42127fb07"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d85/a07146.html">Battlefield</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/ddd/a07150.html#ab99d360162cf61dfc8d53df42127fb07">GetBattlefieldByBattleId</a> (<a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> battleid)</td></tr>
-<tr class="separator:ab99d360162cf61dfc8d53df42127fb07"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:accd1dc8e86bc9ab5618483e609b9314d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/de7/a09878.html">ZoneScript</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/ddd/a07150.html#accd1dc8e86bc9ab5618483e609b9314d">GetZoneScript</a> (<a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> zoneId)</td></tr>
-<tr class="separator:accd1dc8e86bc9ab5618483e609b9314d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a03b1d0ef9c969283fbf9ce80842ad33c"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/ddd/a07150.html#a03b1d0ef9c969283fbf9ce80842ad33c">AddZone</a> (<a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> zoneid, <a class="el" href="../../de/d85/a07146.html">Battlefield</a> *handle)</td></tr>
-<tr class="separator:a03b1d0ef9c969283fbf9ce80842ad33c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a15548a7b124741e2fa9f36f1bf087458"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/ddd/a07150.html#a15548a7b124741e2fa9f36f1bf087458">Update</a> (<a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> diff)</td></tr>
-<tr class="separator:a15548a7b124741e2fa9f36f1bf087458"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa54e25c2f1ad982f0a9a57e99fd994f9"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/ddd/a07150.html#aa54e25c2f1ad982f0a9a57e99fd994f9">HandleGossipOption</a> (<a class="el" href="../../dc/dd9/a08606.html">Player</a> *player, <a class="el" href="../../d6/d60/a08410.html">ObjectGuid</a> guid, <a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> gossipid)</td></tr>
-<tr class="separator:aa54e25c2f1ad982f0a9a57e99fd994f9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a18fdd3c81b5641e296318f1113acf73f"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/ddd/a07150.html#a18fdd3c81b5641e296318f1113acf73f">CanTalkTo</a> (<a class="el" href="../../dc/dd9/a08606.html">Player</a> *player, <a class="el" href="../../d0/d36/a07986.html">Creature</a> *creature, <a class="el" href="../../de/dae/a09010.html">GossipMenuItems</a> gso)</td></tr>
-<tr class="separator:a18fdd3c81b5641e296318f1113acf73f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a19b23ca8dc68ceaaca9078a33b62b70e"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/ddd/a07150.html#a19b23ca8dc68ceaaca9078a33b62b70e">HandleDropFlag</a> (<a class="el" href="../../dc/dd9/a08606.html">Player</a> *player, <a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> spellId)</td></tr>
-<tr class="separator:a19b23ca8dc68ceaaca9078a33b62b70e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac008f885bf78e4bfe1e847bcb9b39f04"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/ddd/a07150.html#ac008f885bf78e4bfe1e847bcb9b39f04">AuctionHouseWorkerThread</a> (<a class="el" href="../../d9/d54/a05418.html">ProducerConsumerQueue</a>&lt; <a class="el" href="../../da/d25/a07110.html">AuctionSearcherRequest</a> * &gt; *requestQueue, <a class="el" href="../../d5/d16/a00029.html#a6443361dced56bb64db991f954b2df47">MPSCQueue</a>&lt; <a class="el" href="../../d8/dc2/a07126.html">AuctionSearcherResponse</a> &gt; *responseQueue)</td></tr>
+<tr class="separator:ac008f885bf78e4bfe1e847bcb9b39f04"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae5e76c712f46e8801c2b63e335a246ff"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/ddd/a07150.html#ae5e76c712f46e8801c2b63e335a246ff">Stop</a> ()</td></tr>
+<tr class="separator:ae5e76c712f46e8801c2b63e335a246ff"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afeef919ad04cfedbca376668997a69f4"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/ddd/a07150.html#afeef919ad04cfedbca376668997a69f4">AddAuctionSearchUpdateToQueue</a> (std::shared_ptr&lt; <a class="el" href="../../d1/d1a/a07130.html">AuctionSearcherUpdate</a> &gt; const auctionSearchUpdate)</td></tr>
+<tr class="separator:afeef919ad04cfedbca376668997a69f4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
-Static Public Member Functions</h2></td></tr>
-<tr class="memitem:af96d6d44aa8936f94c20d1bd92af2fb3"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../df/ddd/a07150.html">BattlefieldMgr</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/ddd/a07150.html#af96d6d44aa8936f94c20d1bd92af2fb3">instance</a> ()</td></tr>
-<tr class="separator:af96d6d44aa8936f94c20d1bd92af2fb3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-methods" name="pri-methods"></a>
+Private Member Functions</h2></td></tr>
+<tr class="memitem:a78eb3d86cdb1f7590af5a5f54ac97b6a"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/ddd/a07150.html#a78eb3d86cdb1f7590af5a5f54ac97b6a">Run</a> ()</td></tr>
+<tr class="separator:a78eb3d86cdb1f7590af5a5f54ac97b6a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8901d50705c3e4a4977a547aef241d1d"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/ddd/a07150.html#a8901d50705c3e4a4977a547aef241d1d">ProcessSearchUpdates</a> ()</td></tr>
+<tr class="separator:a8901d50705c3e4a4977a547aef241d1d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a64414f54c6a84546bee85eb4e46ae04f"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/ddd/a07150.html#a64414f54c6a84546bee85eb4e46ae04f">SearchUpdateAdd</a> (<a class="el" href="../../d7/d57/a07134.html">AuctionSearchAdd</a> const &amp;auctionAdd)</td></tr>
+<tr class="separator:a64414f54c6a84546bee85eb4e46ae04f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a31f1510cd146eac4718c6577caf72cc4"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/ddd/a07150.html#a31f1510cd146eac4718c6577caf72cc4">SearchUpdateRemove</a> (<a class="el" href="../../db/dcc/a07138.html">AuctionSearchRemove</a> const &amp;auctionRemove)</td></tr>
+<tr class="separator:a31f1510cd146eac4718c6577caf72cc4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac42f800d004e90bc728df43d3c9c7244"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/ddd/a07150.html#ac42f800d004e90bc728df43d3c9c7244">SearchUpdateBid</a> (<a class="el" href="../../d9/d5f/a07142.html">AuctionSearchUpdateBid</a> const &amp;auctionUpdateBid)</td></tr>
+<tr class="separator:ac42f800d004e90bc728df43d3c9c7244"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3cc7697e74c9acd6dd902a75044d64d3"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/ddd/a07150.html#a3cc7697e74c9acd6dd902a75044d64d3">ProcessSearchRequests</a> ()</td></tr>
+<tr class="separator:a3cc7697e74c9acd6dd902a75044d64d3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2b455c5d62c280c97d30d3b02ce7601d"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/ddd/a07150.html#a2b455c5d62c280c97d30d3b02ce7601d">SearchListRequest</a> (<a class="el" href="../../d4/dff/a07114.html">AuctionSearchListRequest</a> const &amp;searchListRequest)</td></tr>
+<tr class="separator:a2b455c5d62c280c97d30d3b02ce7601d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a99371b6ef770b00d4c32227392234732"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/ddd/a07150.html#a99371b6ef770b00d4c32227392234732">SearchOwnerListRequest</a> (<a class="el" href="../../df/df1/a07118.html">AuctionSearchOwnerListRequest</a> const &amp;searchOwnerListRequest)</td></tr>
+<tr class="separator:a99371b6ef770b00d4c32227392234732"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af23c367773406ed52439f21d4b288264"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/ddd/a07150.html#af23c367773406ed52439f21d4b288264">SearchBidderListRequest</a> (<a class="el" href="../../d6/d43/a07122.html">AuctionSearchBidderListRequest</a> const &amp;searchBidderListRequest)</td></tr>
+<tr class="separator:af23c367773406ed52439f21d4b288264"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4f645c52213b513d3869c3934fec56df"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/ddd/a07150.html#a4f645c52213b513d3869c3934fec56df">BuildListAuctionItems</a> (<a class="el" href="../../d4/dff/a07114.html">AuctionSearchListRequest</a> const &amp;searchRequest, <a class="el" href="../../de/dc3/a04319.html#a7d6d8287b2adf4a3caae16ed69a8519d">SortableAuctionEntriesList</a> &amp;auctionEntries, <a class="el" href="../../de/dc3/a04319.html#a7cad31f048914034b12550129308e80e">SearchableAuctionEntriesMap</a> const &amp;auctionMap) const</td></tr>
+<tr class="separator:a4f645c52213b513d3869c3934fec56df"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8f0ed06055dd0c50bb65017289c6104c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/dc3/a04319.html#a7cad31f048914034b12550129308e80e">SearchableAuctionEntriesMap</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/ddd/a07150.html#a8f0ed06055dd0c50bb65017289c6104c">GetSearchableAuctionMap</a> (<a class="el" href="../../de/d38/a04316.html#af4f47e9bbd0faf17478c06dd0660bb84">AuctionHouseFaction</a> faction)</td></tr>
+<tr class="separator:a8f0ed06055dd0c50bb65017289c6104c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
-<tr class="memitem:a0ca3259d6262b725ee46c5d29f375585"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../df/ddd/a07150.html#a440a0f37414815a060e23ac6b79ca3c5">BattlefieldSet</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/ddd/a07150.html#a0ca3259d6262b725ee46c5d29f375585">m_BattlefieldSet</a></td></tr>
-<tr class="separator:a0ca3259d6262b725ee46c5d29f375585"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a364a78eb7a4b44bbd24188647d3a4f4e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../df/ddd/a07150.html#aea781a60967fbc877bd1593628cdf32d">BattlefieldMap</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/ddd/a07150.html#a364a78eb7a4b44bbd24188647d3a4f4e">m_BattlefieldMap</a></td></tr>
-<tr class="separator:a364a78eb7a4b44bbd24188647d3a4f4e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4818f48ea741ae5b6b588eed9719d0ec"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/ddd/a07150.html#a4818f48ea741ae5b6b588eed9719d0ec">m_UpdateTimer</a></td></tr>
-<tr class="separator:a4818f48ea741ae5b6b588eed9719d0ec"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a68f698401f671fb75901daea75575ce0"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/dc3/a04319.html#a7cad31f048914034b12550129308e80e">SearchableAuctionEntriesMap</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/ddd/a07150.html#a68f698401f671fb75901daea75575ce0">_searchableAuctionMap</a> [<a class="el" href="../../de/d38/a04316.html#a948e0dd86eca242e8907f45c5f16edac">MAX_AUCTION_HOUSE_FACTIONS</a>]</td></tr>
+<tr class="separator:a68f698401f671fb75901daea75575ce0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aecd36ccabd34131c42ec1d7964b8840a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d61/a05402.html">LockedQueue</a>&lt; std::shared_ptr&lt; <a class="el" href="../../d1/d1a/a07130.html">AuctionSearcherUpdate</a> &gt; &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/ddd/a07150.html#aecd36ccabd34131c42ec1d7964b8840a">_auctionUpdatesQueue</a></td></tr>
+<tr class="separator:aecd36ccabd34131c42ec1d7964b8840a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8b92df23eb97b8f3b11c495dbdb15696"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d54/a05418.html">ProducerConsumerQueue</a>&lt; <a class="el" href="../../da/d25/a07110.html">AuctionSearcherRequest</a> * &gt; *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/ddd/a07150.html#a8b92df23eb97b8f3b11c495dbdb15696">_requestQueue</a></td></tr>
+<tr class="separator:a8b92df23eb97b8f3b11c495dbdb15696"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a68a0b0ea5c3292989471f00346ca1318"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d5/d16/a00029.html#a6443361dced56bb64db991f954b2df47">MPSCQueue</a>&lt; <a class="el" href="../../d8/dc2/a07126.html">AuctionSearcherResponse</a> &gt; *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/ddd/a07150.html#a68a0b0ea5c3292989471f00346ca1318">_responseQueue</a></td></tr>
+<tr class="separator:a68a0b0ea5c3292989471f00346ca1318"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9a386c2dc09b128fd427d5a2b44653c5"><td class="memItemLeft" align="right" valign="top">std::thread&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/ddd/a07150.html#a9a386c2dc09b128fd427d5a2b44653c5">_workerThread</a></td></tr>
+<tr class="separator:a9a386c2dc09b128fd427d5a2b44653c5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af4d4c4672e67953c7c909174652b99d1"><td class="memItemLeft" align="right" valign="top">std::atomic&lt; bool &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/ddd/a07150.html#af4d4c4672e67953c7c909174652b99d1">_stopped</a></td></tr>
+<tr class="separator:af4d4c4672e67953c7c909174652b99d1"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Member Typedef Documentation</h2>
-<a id="aea781a60967fbc877bd1593628cdf32d" name="aea781a60967fbc877bd1593628cdf32d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aea781a60967fbc877bd1593628cdf32d">&#9670;&#160;</a></span>BattlefieldMap</h2>
+<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="ac008f885bf78e4bfe1e847bcb9b39f04" name="ac008f885bf78e4bfe1e847bcb9b39f04"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac008f885bf78e4bfe1e847bcb9b39f04">&#9670;&#160;</a></span>AuctionHouseWorkerThread()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">typedef std::map&lt; <a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> , <a class="el" href="../../de/d85/a07146.html">Battlefield</a>* &gt; <a class="el" href="../../df/ddd/a07150.html#aea781a60967fbc877bd1593628cdf32d">BattlefieldMgr::BattlefieldMap</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a440a0f37414815a060e23ac6b79ca3c5" name="a440a0f37414815a060e23ac6b79ca3c5"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a440a0f37414815a060e23ac6b79ca3c5">&#9670;&#160;</a></span>BattlefieldSet</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">typedef std::vector&lt; <a class="el" href="../../de/d85/a07146.html">Battlefield</a>* &gt; <a class="el" href="../../df/ddd/a07150.html#a440a0f37414815a060e23ac6b79ca3c5">BattlefieldMgr::BattlefieldSet</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="afaa79f63a91c6b585b4bf10dfdf60af6" name="afaa79f63a91c6b585b4bf10dfdf60af6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#afaa79f63a91c6b585b4bf10dfdf60af6">&#9670;&#160;</a></span>BattlefieldMgr()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">BattlefieldMgr::BattlefieldMgr </td>
+          <td class="memname">AuctionHouseWorkerThread::AuctionHouseWorkerThread </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
+          <td class="paramtype"><a class="el" href="../../d9/d54/a05418.html">ProducerConsumerQueue</a>&lt; <a class="el" href="../../da/d25/a07110.html">AuctionSearcherRequest</a> * &gt; *&#160;</td>
+          <td class="paramname"><em>requestQueue</em>, </td>
         </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   23</span>{</div>
-<div class="line"><span class="lineno">   24</span>    <a class="code hl_variable" href="../../df/ddd/a07150.html#a4818f48ea741ae5b6b588eed9719d0ec">m_UpdateTimer</a> = 0;</div>
-<div class="line"><span class="lineno">   25</span>    <span class="comment">//LOG_DEBUG(&quot;bg.battlefield&quot;, &quot;Instantiating BattlefieldMgr&quot;);</span></div>
-<div class="line"><span class="lineno">   26</span>}</div>
-<div class="ttc" id="aa07150_html_a4818f48ea741ae5b6b588eed9719d0ec"><div class="ttname"><a href="../../df/ddd/a07150.html#a4818f48ea741ae5b6b588eed9719d0ec">BattlefieldMgr::m_UpdateTimer</a></div><div class="ttdeci">uint32 m_UpdateTimer</div><div class="ttdef"><b>Definition:</b> BattlefieldMgr.h:74</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00074">m_UpdateTimer</a>.</p>
-
-</div>
-</div>
-<a id="a0d5b198add5190e99a1763a168ce2895" name="a0d5b198add5190e99a1763a168ce2895"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0d5b198add5190e99a1763a168ce2895">&#9670;&#160;</a></span>~BattlefieldMgr()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
         <tr>
-          <td class="memname">BattlefieldMgr::~BattlefieldMgr </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
+          <td class="paramkey"></td>
           <td></td>
+          <td class="paramtype"><a class="el" href="../../d5/d16/a00029.html#a6443361dced56bb64db991f954b2df47">MPSCQueue</a>&lt; <a class="el" href="../../d8/dc2/a07126.html">AuctionSearcherResponse</a> &gt; *&#160;</td>
+          <td class="paramname"><em>responseQueue</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   29</span>{</div>
-<div class="line"><span class="lineno">   30</span>    <span class="comment">//LOG_DEBUG(&quot;bg.battlefield&quot;, &quot;Deleting BattlefieldMgr&quot;);</span></div>
-<div class="line"><span class="lineno">   31</span>    <span class="keywordflow">for</span> (BattlefieldSet::iterator itr = <a class="code hl_variable" href="../../df/ddd/a07150.html#a0ca3259d6262b725ee46c5d29f375585">m_BattlefieldSet</a>.begin(); itr != <a class="code hl_variable" href="../../df/ddd/a07150.html#a0ca3259d6262b725ee46c5d29f375585">m_BattlefieldSet</a>.end(); ++itr)</div>
-<div class="line"><span class="lineno">   32</span>        <span class="keyword">delete</span> *itr;</div>
-<div class="line"><span class="lineno">   33</span>}</div>
-<div class="ttc" id="aa07150_html_a0ca3259d6262b725ee46c5d29f375585"><div class="ttname"><a href="../../df/ddd/a07150.html#a0ca3259d6262b725ee46c5d29f375585">BattlefieldMgr::m_BattlefieldSet</a></div><div class="ttdeci">BattlefieldSet m_BattlefieldSet</div><div class="ttdef"><b>Definition:</b> BattlefieldMgr.h:69</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   26</span>{</div>
+<div class="line"><span class="lineno">   27</span>    <a class="code hl_variable" href="../../df/ddd/a07150.html#a9a386c2dc09b128fd427d5a2b44653c5">_workerThread</a> = std::thread(&amp;<a class="code hl_function" href="../../df/ddd/a07150.html#a78eb3d86cdb1f7590af5a5f54ac97b6a">AuctionHouseWorkerThread::Run</a>, <span class="keyword">this</span>);</div>
+<div class="line"><span class="lineno">   28</span>    <a class="code hl_variable" href="../../df/ddd/a07150.html#a8b92df23eb97b8f3b11c495dbdb15696">_requestQueue</a> = requestQueue;</div>
+<div class="line"><span class="lineno">   29</span>    <a class="code hl_variable" href="../../df/ddd/a07150.html#a68a0b0ea5c3292989471f00346ca1318">_responseQueue</a> = responseQueue;</div>
+<div class="line"><span class="lineno">   30</span>    <a class="code hl_variable" href="../../df/ddd/a07150.html#af4d4c4672e67953c7c909174652b99d1">_stopped</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">   31</span>}</div>
+<div class="ttc" id="aa07150_html_a68a0b0ea5c3292989471f00346ca1318"><div class="ttname"><a href="../../df/ddd/a07150.html#a68a0b0ea5c3292989471f00346ca1318">AuctionHouseWorkerThread::_responseQueue</a></div><div class="ttdeci">MPSCQueue&lt; AuctionSearcherResponse &gt; * _responseQueue</div><div class="ttdef"><b>Definition:</b> AuctionHouseSearcher.h:273</div></div>
+<div class="ttc" id="aa07150_html_a78eb3d86cdb1f7590af5a5f54ac97b6a"><div class="ttname"><a href="../../df/ddd/a07150.html#a78eb3d86cdb1f7590af5a5f54ac97b6a">AuctionHouseWorkerThread::Run</a></div><div class="ttdeci">void Run()</div><div class="ttdef"><b>Definition:</b> AuctionHouseSearcher.cpp:44</div></div>
+<div class="ttc" id="aa07150_html_a8b92df23eb97b8f3b11c495dbdb15696"><div class="ttname"><a href="../../df/ddd/a07150.html#a8b92df23eb97b8f3b11c495dbdb15696">AuctionHouseWorkerThread::_requestQueue</a></div><div class="ttdeci">ProducerConsumerQueue&lt; AuctionSearcherRequest * &gt; * _requestQueue</div><div class="ttdef"><b>Definition:</b> AuctionHouseSearcher.h:272</div></div>
+<div class="ttc" id="aa07150_html_a9a386c2dc09b128fd427d5a2b44653c5"><div class="ttname"><a href="../../df/ddd/a07150.html#a9a386c2dc09b128fd427d5a2b44653c5">AuctionHouseWorkerThread::_workerThread</a></div><div class="ttdeci">std::thread _workerThread</div><div class="ttdef"><b>Definition:</b> AuctionHouseSearcher.h:275</div></div>
+<div class="ttc" id="aa07150_html_af4d4c4672e67953c7c909174652b99d1"><div class="ttname"><a href="../../df/ddd/a07150.html#af4d4c4672e67953c7c909174652b99d1">AuctionHouseWorkerThread::_stopped</a></div><div class="ttdeci">std::atomic&lt; bool &gt; _stopped</div><div class="ttdef"><b>Definition:</b> AuctionHouseSearcher.h:276</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00069">m_BattlefieldSet</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00272">_requestQueue</a>, <a class="el" href="../../#l00273">_responseQueue</a>, <a class="el" href="../../#l00276">_stopped</a>, <a class="el" href="../../#l00275">_workerThread</a>, and <a class="el" href="../../#l00044">Run()</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="a03b1d0ef9c969283fbf9ce80842ad33c" name="a03b1d0ef9c969283fbf9ce80842ad33c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a03b1d0ef9c969283fbf9ce80842ad33c">&#9670;&#160;</a></span>AddZone()</h2>
+<a id="afeef919ad04cfedbca376668997a69f4" name="afeef919ad04cfedbca376668997a69f4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afeef919ad04cfedbca376668997a69f4">&#9670;&#160;</a></span>AddAuctionSearchUpdateToQueue()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void BattlefieldMgr::AddZone </td>
+          <td class="memname">void AuctionHouseWorkerThread::AddAuctionSearchUpdateToQueue </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>zoneid</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
+          <td class="paramtype">std::shared_ptr&lt; <a class="el" href="../../d1/d1a/a07130.html">AuctionSearcherUpdate</a> &gt; const&#160;</td>
+          <td class="paramname"><em>auctionSearchUpdate</em></td><td>)</td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../de/d85/a07146.html">Battlefield</a> *&#160;</td>
-          <td class="paramname"><em>handle</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   80</span>{</div>
-<div class="line"><span class="lineno">   81</span>    <a class="code hl_variable" href="../../df/ddd/a07150.html#a364a78eb7a4b44bbd24188647d3a4f4e">m_BattlefieldMap</a>[zoneid] = handle;</div>
-<div class="line"><span class="lineno">   82</span>}</div>
-<div class="ttc" id="aa07150_html_a364a78eb7a4b44bbd24188647d3a4f4e"><div class="ttname"><a href="../../df/ddd/a07150.html#a364a78eb7a4b44bbd24188647d3a4f4e">BattlefieldMgr::m_BattlefieldMap</a></div><div class="ttdeci">BattlefieldMap m_BattlefieldMap</div><div class="ttdef"><b>Definition:</b> BattlefieldMgr.h:72</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   40</span>{</div>
+<div class="line"><span class="lineno">   41</span>    <a class="code hl_variable" href="../../df/ddd/a07150.html#aecd36ccabd34131c42ec1d7964b8840a">_auctionUpdatesQueue</a>.<a class="code hl_function" href="../../d9/d61/a05402.html#a03f459044b4ffb413fb8d1ba98179ab8">add</a>(auctionSearchUpdate);</div>
+<div class="line"><span class="lineno">   42</span>}</div>
+<div class="ttc" id="aa05402_html_a03f459044b4ffb413fb8d1ba98179ab8"><div class="ttname"><a href="../../d9/d61/a05402.html#a03f459044b4ffb413fb8d1ba98179ab8">LockedQueue::add</a></div><div class="ttdeci">void add(const T &amp;item)</div><div class="ttdoc">Adds an item to the back of the queue.</div><div class="ttdef"><b>Definition:</b> LockedQueue.h:52</div></div>
+<div class="ttc" id="aa07150_html_aecd36ccabd34131c42ec1d7964b8840a"><div class="ttname"><a href="../../df/ddd/a07150.html#aecd36ccabd34131c42ec1d7964b8840a">AuctionHouseWorkerThread::_auctionUpdatesQueue</a></div><div class="ttdeci">LockedQueue&lt; std::shared_ptr&lt; AuctionSearcherUpdate &gt; &gt; _auctionUpdatesQueue</div><div class="ttdef"><b>Definition:</b> AuctionHouseSearcher.h:270</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00072">m_BattlefieldMap</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00270">_auctionUpdatesQueue</a>, and <a class="el" href="../../#l00052">LockedQueue&lt; T, StorageType &gt;::add()</a>.</p>
 
 </div>
 </div>
-<a id="a18fdd3c81b5641e296318f1113acf73f" name="a18fdd3c81b5641e296318f1113acf73f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a18fdd3c81b5641e296318f1113acf73f">&#9670;&#160;</a></span>CanTalkTo()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool BattlefieldMgr::CanTalkTo </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../dc/dd9/a08606.html">Player</a> *&#160;</td>
-          <td class="paramname"><em>player</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d0/d36/a07986.html">Creature</a> *&#160;</td>
-          <td class="paramname"><em>creature</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../de/dae/a09010.html">GossipMenuItems</a>&#160;</td>
-          <td class="paramname"><em>gso</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="ab99d360162cf61dfc8d53df42127fb07" name="ab99d360162cf61dfc8d53df42127fb07"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab99d360162cf61dfc8d53df42127fb07">&#9670;&#160;</a></span>GetBattlefieldByBattleId()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../de/d85/a07146.html">Battlefield</a> * BattlefieldMgr::GetBattlefieldByBattleId </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>battleid</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  124</span>{</div>
-<div class="line"><span class="lineno">  125</span>    <span class="keywordflow">for</span> (BattlefieldSet::iterator itr = <a class="code hl_variable" href="../../df/ddd/a07150.html#a0ca3259d6262b725ee46c5d29f375585">m_BattlefieldSet</a>.begin(); itr != <a class="code hl_variable" href="../../df/ddd/a07150.html#a0ca3259d6262b725ee46c5d29f375585">m_BattlefieldSet</a>.end(); ++itr)</div>
-<div class="line"><span class="lineno">  126</span>    {</div>
-<div class="line"><span class="lineno">  127</span>        <span class="keywordflow">if</span> ((*itr)-&gt;GetBattleId() == battleid)</div>
-<div class="line"><span class="lineno">  128</span>            <span class="keywordflow">return</span> (*itr);</div>
-<div class="line"><span class="lineno">  129</span>    }</div>
-<div class="line"><span class="lineno">  130</span>    <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  131</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00069">m_BattlefieldSet</a>.</p>
-
-</div>
-</div>
-<a id="aad6dcd56b45aeb2095c0c9033ae9f691" name="aad6dcd56b45aeb2095c0c9033ae9f691"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aad6dcd56b45aeb2095c0c9033ae9f691">&#9670;&#160;</a></span>GetBattlefieldToZoneId()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../de/d85/a07146.html">Battlefield</a> * BattlefieldMgr::GetBattlefieldToZoneId </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>zoneid</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  111</span>{</div>
-<div class="line"><span class="lineno">  112</span>    BattlefieldMap::iterator itr = <a class="code hl_variable" href="../../df/ddd/a07150.html#a364a78eb7a4b44bbd24188647d3a4f4e">m_BattlefieldMap</a>.find(zoneid);</div>
-<div class="line"><span class="lineno">  113</span>    <span class="keywordflow">if</span> (itr == <a class="code hl_variable" href="../../df/ddd/a07150.html#a364a78eb7a4b44bbd24188647d3a4f4e">m_BattlefieldMap</a>.end())</div>
-<div class="line"><span class="lineno">  114</span>    {</div>
-<div class="line"><span class="lineno">  115</span>        <span class="comment">// no handle for this zone, return</span></div>
-<div class="line"><span class="lineno">  116</span>        <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  117</span>    }</div>
-<div class="line"><span class="lineno">  118</span>    <span class="keywordflow">if</span> (!itr-&gt;second-&gt;IsEnabled())</div>
-<div class="line"><span class="lineno">  119</span>        <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  120</span>    <span class="keywordflow">return</span> itr-&gt;second;</div>
-<div class="line"><span class="lineno">  121</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00072">m_BattlefieldMap</a>.</p>
-
-</div>
-</div>
-<a id="accd1dc8e86bc9ab5618483e609b9314d" name="accd1dc8e86bc9ab5618483e609b9314d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#accd1dc8e86bc9ab5618483e609b9314d">&#9670;&#160;</a></span>GetZoneScript()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d8/de7/a09878.html">ZoneScript</a> * BattlefieldMgr::GetZoneScript </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>zoneId</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  146</span>{</div>
-<div class="line"><span class="lineno">  147</span>    BattlefieldMap::iterator itr = <a class="code hl_variable" href="../../df/ddd/a07150.html#a364a78eb7a4b44bbd24188647d3a4f4e">m_BattlefieldMap</a>.find(zoneId);</div>
-<div class="line"><span class="lineno">  148</span>    <span class="keywordflow">if</span> (itr != <a class="code hl_variable" href="../../df/ddd/a07150.html#a364a78eb7a4b44bbd24188647d3a4f4e">m_BattlefieldMap</a>.end())</div>
-<div class="line"><span class="lineno">  149</span>        <span class="keywordflow">return</span> itr-&gt;second;</div>
-<div class="line"><span class="lineno">  150</span>    <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  151</span>        <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  152</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00072">m_BattlefieldMap</a>.</p>
-
-</div>
-</div>
-<a id="a19b23ca8dc68ceaaca9078a33b62b70e" name="a19b23ca8dc68ceaaca9078a33b62b70e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a19b23ca8dc68ceaaca9078a33b62b70e">&#9670;&#160;</a></span>HandleDropFlag()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void BattlefieldMgr::HandleDropFlag </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../dc/dd9/a08606.html">Player</a> *&#160;</td>
-          <td class="paramname"><em>player</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>spellId</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="aa54e25c2f1ad982f0a9a57e99fd994f9" name="aa54e25c2f1ad982f0a9a57e99fd994f9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa54e25c2f1ad982f0a9a57e99fd994f9">&#9670;&#160;</a></span>HandleGossipOption()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void BattlefieldMgr::HandleGossipOption </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../dc/dd9/a08606.html">Player</a> *&#160;</td>
-          <td class="paramname"><em>player</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d6/d60/a08410.html">ObjectGuid</a>&#160;</td>
-          <td class="paramname"><em>guid</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>gossipid</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a733f42fdc343d070220e8c56f24fe4ac" name="a733f42fdc343d070220e8c56f24fe4ac"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a733f42fdc343d070220e8c56f24fe4ac">&#9670;&#160;</a></span>HandlePlayerEnterZone()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void BattlefieldMgr::HandlePlayerEnterZone </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../dc/dd9/a08606.html">Player</a> *&#160;</td>
-          <td class="paramname"><em>player</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>areaflag</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   85</span>{</div>
-<div class="line"><span class="lineno">   86</span>    BattlefieldMap::iterator itr = <a class="code hl_variable" href="../../df/ddd/a07150.html#a364a78eb7a4b44bbd24188647d3a4f4e">m_BattlefieldMap</a>.find(zoneid);</div>
-<div class="line"><span class="lineno">   87</span>    <span class="keywordflow">if</span> (itr == <a class="code hl_variable" href="../../df/ddd/a07150.html#a364a78eb7a4b44bbd24188647d3a4f4e">m_BattlefieldMap</a>.end())</div>
-<div class="line"><span class="lineno">   88</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">   89</span> </div>
-<div class="line"><span class="lineno">   90</span>    <span class="keywordflow">if</span> (itr-&gt;second-&gt;HasPlayer(player) || !itr-&gt;second-&gt;IsEnabled())</div>
-<div class="line"><span class="lineno">   91</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">   92</span> </div>
-<div class="line"><span class="lineno">   93</span>    itr-&gt;second-&gt;HandlePlayerEnterZone(player, zoneid);</div>
-<div class="line"><span class="lineno">   94</span>    <a class="code hl_define" href="../../d9/d2e/a00056.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;bg.battlefield&quot;</span>, <span class="stringliteral">&quot;Player {} entered outdoorpvp id {}&quot;</span>, player-&gt;<a class="code hl_function" href="../../dd/d4f/a08358.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>().<a class="code hl_function" href="../../d6/d60/a08410.html#a78f5fb47e3b35addf8984000c175125b">ToString</a>(), itr-&gt;second-&gt;GetTypeId());</div>
-<div class="line"><span class="lineno">   95</span>}</div>
-<div class="ttc" id="aa00056_html_a47ac782b14a7531c6232777165a1a161"><div class="ttname"><a href="../../d9/d2e/a00056.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a></div><div class="ttdeci">#define LOG_DEBUG(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:170</div></div>
-<div class="ttc" id="aa08358_html_ad23b997e2442fa6a6228ba73a7ecc138"><div class="ttname"><a href="../../dd/d4f/a08358.html#ad23b997e2442fa6a6228ba73a7ecc138">Object::GetGUID</a></div><div class="ttdeci">static ObjectGuid GetGUID(Object const *o)</div><div class="ttdef"><b>Definition:</b> Object.h:113</div></div>
-<div class="ttc" id="aa08410_html_a78f5fb47e3b35addf8984000c175125b"><div class="ttname"><a href="../../d6/d60/a08410.html#a78f5fb47e3b35addf8984000c175125b">ObjectGuid::ToString</a></div><div class="ttdeci">std::string ToString() const</div><div class="ttdef"><b>Definition:</b> ObjectGuid.cpp:47</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00113">Object::GetGUID()</a>, <a class="el" href="../../#l00170">LOG_DEBUG</a>, <a class="el" href="../../#l00072">m_BattlefieldMap</a>, and <a class="el" href="../../#l00047">ObjectGuid::ToString()</a>.</p>
-
-</div>
-</div>
-<a id="a89aa3d5d27fe61a13e381f13c599de90" name="a89aa3d5d27fe61a13e381f13c599de90"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a89aa3d5d27fe61a13e381f13c599de90">&#9670;&#160;</a></span>HandlePlayerLeaveZone()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void BattlefieldMgr::HandlePlayerLeaveZone </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../dc/dd9/a08606.html">Player</a> *&#160;</td>
-          <td class="paramname"><em>player</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>areaflag</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   98</span>{</div>
-<div class="line"><span class="lineno">   99</span>    BattlefieldMap::iterator itr = <a class="code hl_variable" href="../../df/ddd/a07150.html#a364a78eb7a4b44bbd24188647d3a4f4e">m_BattlefieldMap</a>.find(zoneid);</div>
-<div class="line"><span class="lineno">  100</span>    <span class="keywordflow">if</span> (itr == <a class="code hl_variable" href="../../df/ddd/a07150.html#a364a78eb7a4b44bbd24188647d3a4f4e">m_BattlefieldMap</a>.end())</div>
-<div class="line"><span class="lineno">  101</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  102</span> </div>
-<div class="line"><span class="lineno">  103</span>    <span class="comment">// teleport: remove once in removefromworld, once in updatezone</span></div>
-<div class="line"><span class="lineno">  104</span>    <span class="keywordflow">if</span> (!itr-&gt;second-&gt;HasPlayer(player))</div>
-<div class="line"><span class="lineno">  105</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  106</span>    itr-&gt;second-&gt;HandlePlayerLeaveZone(player, zoneid);</div>
-<div class="line"><span class="lineno">  107</span>    <a class="code hl_define" href="../../d9/d2e/a00056.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;bg.battlefield&quot;</span>, <span class="stringliteral">&quot;Player {} left outdoorpvp id {}&quot;</span>, player-&gt;<a class="code hl_function" href="../../dd/d4f/a08358.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>().<a class="code hl_function" href="../../d6/d60/a08410.html#a78f5fb47e3b35addf8984000c175125b">ToString</a>(), itr-&gt;second-&gt;GetTypeId());</div>
-<div class="line"><span class="lineno">  108</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00113">Object::GetGUID()</a>, <a class="el" href="../../#l00170">LOG_DEBUG</a>, <a class="el" href="../../#l00072">m_BattlefieldMap</a>, and <a class="el" href="../../#l00047">ObjectGuid::ToString()</a>.</p>
-
-</div>
-</div>
-<a id="a458fb8b4943de82f0574ddd63ba466a9" name="a458fb8b4943de82f0574ddd63ba466a9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a458fb8b4943de82f0574ddd63ba466a9">&#9670;&#160;</a></span>HandlePlayerResurrects()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void BattlefieldMgr::HandlePlayerResurrects </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../dc/dd9/a08606.html">Player</a> *&#160;</td>
-          <td class="paramname"><em>player</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>areaflag</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a244ce1743c237e95c08dc8861f3ce4b3" name="a244ce1743c237e95c08dc8861f3ce4b3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a244ce1743c237e95c08dc8861f3ce4b3">&#9670;&#160;</a></span>InitBattlefield()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void BattlefieldMgr::InitBattlefield </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   42</span>{</div>
-<div class="line"><span class="lineno">   43</span>    <span class="keywordflow">if</span> (<a class="code hl_define" href="../../d8/def/a04771.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getIntConfig(<a class="code hl_enumvalue" href="../../d9/d9b/a01889.html#a468ad15992691eb97dd20680046832e0aa64237bf7ab70e8554559907e4d54c8a">CONFIG_WINTERGRASP_ENABLE</a>) == 2)</div>
-<div class="line"><span class="lineno">   44</span>    {</div>
-<div class="line"><span class="lineno">   45</span>        <a class="code hl_define" href="../../d9/d2e/a00056.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;Battlefield: Wintergrasp is disabled.&quot;</span>);</div>
-<div class="line"><span class="lineno">   46</span>        <a class="code hl_define" href="../../d9/d2e/a00056.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
-<div class="line"><span class="lineno">   47</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">   48</span>    }</div>
-<div class="line"><span class="lineno">   49</span>    <a class="code hl_class" href="../../de/d85/a07146.html">Battlefield</a>* pBf = <span class="keyword">new</span> <a class="code hl_class" href="../../d2/d5c/a07166.html">BattlefieldWG</a>;</div>
-<div class="line"><span class="lineno">   50</span>    <span class="comment">// respawn, init variables</span></div>
-<div class="line"><span class="lineno">   51</span>    <span class="keywordflow">if</span> (!pBf-&gt;<a class="code hl_function" href="../../de/d85/a07146.html#a505d37f7c94cc081d9d3b8db1d362220">SetupBattlefield</a>())</div>
-<div class="line"><span class="lineno">   52</span>    {</div>
-<div class="line"><span class="lineno">   53</span>        <a class="code hl_define" href="../../d9/d2e/a00056.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;Battlefield: Wintergrasp init failed.&quot;</span>);</div>
-<div class="line"><span class="lineno">   54</span>        <a class="code hl_define" href="../../d9/d2e/a00056.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
-<div class="line"><span class="lineno">   55</span>        <span class="keyword">delete</span> pBf;</div>
-<div class="line"><span class="lineno">   56</span>    }</div>
-<div class="line"><span class="lineno">   57</span>    <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">   58</span>    {</div>
-<div class="line"><span class="lineno">   59</span>        <a class="code hl_variable" href="../../df/ddd/a07150.html#a0ca3259d6262b725ee46c5d29f375585">m_BattlefieldSet</a>.push_back(pBf);</div>
-<div class="line"><span class="lineno">   60</span>        <a class="code hl_define" href="../../d9/d2e/a00056.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;Battlefield: Wintergrasp successfully initiated.&quot;</span>);</div>
-<div class="line"><span class="lineno">   61</span>        <a class="code hl_define" href="../../d9/d2e/a00056.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
-<div class="line"><span class="lineno">   62</span>    }</div>
-<div class="line"><span class="lineno">   63</span> </div>
-<div class="line"><span class="lineno">   64</span>    <span class="comment">/* For Cataclysm: Tol Barad</span></div>
-<div class="line"><span class="lineno">   65</span><span class="comment">       pBf = new BattlefieldTB;</span></div>
-<div class="line"><span class="lineno">   66</span><span class="comment">       // respawn, init variables</span></div>
-<div class="line"><span class="lineno">   67</span><span class="comment">       if (!pBf-&gt;SetupBattlefield())</span></div>
-<div class="line"><span class="lineno">   68</span><span class="comment">       {</span></div>
-<div class="line"><span class="lineno">   69</span><span class="comment">       LOG_DEBUG(&quot;bg.battlefield&quot;, &quot;Battlefield : Tol Barad init failed.&quot;);</span></div>
-<div class="line"><span class="lineno">   70</span><span class="comment">       delete pBf;</span></div>
-<div class="line"><span class="lineno">   71</span><span class="comment">       }</span></div>
-<div class="line"><span class="lineno">   72</span><span class="comment">       else</span></div>
-<div class="line"><span class="lineno">   73</span><span class="comment">       {</span></div>
-<div class="line"><span class="lineno">   74</span><span class="comment">       m_BattlefieldSet.push_back(pBf);</span></div>
-<div class="line"><span class="lineno">   75</span><span class="comment">       LOG_DEBUG(&quot;bg.battlefield&quot;, &quot;Battlefield : Tol Barad successfully initiated.&quot;);</span></div>
-<div class="line"><span class="lineno">   76</span><span class="comment">       } */</span></div>
-<div class="line"><span class="lineno">   77</span>}</div>
-<div class="ttc" id="aa00056_html_a271e427d8e8481efd5cd5f537ec9e419"><div class="ttname"><a href="../../d9/d2e/a00056.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a></div><div class="ttdeci">#define LOG_INFO(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:166</div></div>
-<div class="ttc" id="aa00056_html_a43832e3fa8508deb4ce43e520005fcd9"><div class="ttname"><a href="../../d9/d2e/a00056.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a></div><div class="ttdeci">#define LOG_ERROR(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:158</div></div>
-<div class="ttc" id="aa01889_html_a468ad15992691eb97dd20680046832e0aa64237bf7ab70e8554559907e4d54c8a"><div class="ttname"><a href="../../d9/d9b/a01889.html#a468ad15992691eb97dd20680046832e0aa64237bf7ab70e8554559907e4d54c8a">CONFIG_WINTERGRASP_ENABLE</a></div><div class="ttdeci">@ CONFIG_WINTERGRASP_ENABLE</div><div class="ttdef"><b>Definition:</b> WorldConfig.h:277</div></div>
-<div class="ttc" id="aa04771_html_ga05dfb35c344e5b947a19e4284e7f5fa7"><div class="ttname"><a href="../../d8/def/a04771.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a></div><div class="ttdeci">#define sWorld</div><div class="ttdef"><b>Definition:</b> World.h:320</div></div>
-<div class="ttc" id="aa07146_html"><div class="ttname"><a href="../../de/d85/a07146.html">Battlefield</a></div><div class="ttdef"><b>Definition:</b> Battlefield.h:204</div></div>
-<div class="ttc" id="aa07146_html_a505d37f7c94cc081d9d3b8db1d362220"><div class="ttname"><a href="../../de/d85/a07146.html#a505d37f7c94cc081d9d3b8db1d362220">Battlefield::SetupBattlefield</a></div><div class="ttdeci">virtual bool SetupBattlefield()</div><div class="ttdoc">Call this to init the Battlefield.</div><div class="ttdef"><b>Definition:</b> Battlefield.h:217</div></div>
-<div class="ttc" id="aa07166_html"><div class="ttname"><a href="../../d2/d5c/a07166.html">BattlefieldWG</a></div><div class="ttdef"><b>Definition:</b> BattlefieldWG.h:253</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00277">CONFIG_WINTERGRASP_ENABLE</a>, <a class="el" href="../../#l00158">LOG_ERROR</a>, <a class="el" href="../../#l00166">LOG_INFO</a>, <a class="el" href="../../#l00069">m_BattlefieldSet</a>, <a class="el" href="../../#l00217">Battlefield::SetupBattlefield()</a>, and <a class="el" href="../../#l00320">sWorld</a>.</p>
-
-</div>
-</div>
-<a id="af96d6d44aa8936f94c20d1bd92af2fb3" name="af96d6d44aa8936f94c20d1bd92af2fb3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af96d6d44aa8936f94c20d1bd92af2fb3">&#9670;&#160;</a></span>instance()</h2>
+<a id="a4f645c52213b513d3869c3934fec56df" name="a4f645c52213b513d3869c3934fec56df"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4f645c52213b513d3869c3934fec56df">&#9670;&#160;</a></span>BuildListAuctionItems()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -650,7 +243,155 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../df/ddd/a07150.html">BattlefieldMgr</a> * BattlefieldMgr::instance </td>
+          <td class="memname">void AuctionHouseWorkerThread::BuildListAuctionItems </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d4/dff/a07114.html">AuctionSearchListRequest</a> const &amp;&#160;</td>
+          <td class="paramname"><em>searchRequest</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../de/dc3/a04319.html#a7d6d8287b2adf4a3caae16ed69a8519d">SortableAuctionEntriesList</a> &amp;&#160;</td>
+          <td class="paramname"><em>auctionEntries</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../de/dc3/a04319.html#a7cad31f048914034b12550129308e80e">SearchableAuctionEntriesMap</a> const &amp;&#160;</td>
+          <td class="paramname"><em>auctionMap</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  278</span>{</div>
+<div class="line"><span class="lineno">  279</span>    <span class="comment">// pussywizard: optimization, this is a simplified case for the default search state (no filters)</span></div>
+<div class="line"><span class="lineno">  280</span>    <span class="keywordflow">if</span> (searchRequest.searchInfo.itemClass == 0xffffffff &amp;&amp; searchRequest.searchInfo.itemSubClass == 0xffffffff</div>
+<div class="line"><span class="lineno">  281</span>        &amp;&amp; searchRequest.searchInfo.inventoryType == 0xffffffff &amp;&amp; searchRequest.searchInfo.quality == 0xffffffff</div>
+<div class="line"><span class="lineno">  282</span>        &amp;&amp; searchRequest.searchInfo.levelmin == 0x00 &amp;&amp; searchRequest.searchInfo.levelmax == 0x00</div>
+<div class="line"><span class="lineno">  283</span>        &amp;&amp; searchRequest.searchInfo.usable == 0x00 &amp;&amp; searchRequest.searchInfo.wsearchedname.empty())</div>
+<div class="line"><span class="lineno">  284</span>    {</div>
+<div class="line"><span class="lineno">  285</span>        <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; pair : auctionMap)</div>
+<div class="line"><span class="lineno">  286</span>            auctionEntries.push_back(pair.second.get());</div>
+<div class="line"><span class="lineno">  287</span> </div>
+<div class="line"><span class="lineno">  288</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  289</span>    }</div>
+<div class="line"><span class="lineno">  290</span> </div>
+<div class="line"><span class="lineno">  291</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; pair : auctionMap)</div>
+<div class="line"><span class="lineno">  292</span>    {</div>
+<div class="line"><span class="lineno">  293</span>        std::shared_ptr&lt;SearchableAuctionEntry&gt; <span class="keyword">const</span>&amp; Aentry = pair.second;</div>
+<div class="line"><span class="lineno">  294</span>        <a class="code hl_struct" href="../../dd/dd2/a07090.html">SearchableAuctionEntryItem</a> <span class="keyword">const</span>&amp; Aitem = Aentry-&gt;item;</div>
+<div class="line"><span class="lineno">  295</span>        <a class="code hl_struct" href="../../d3/d25/a08362.html">ItemTemplate</a> <span class="keyword">const</span>* proto = Aitem.<a class="code hl_variable" href="../../dd/dd2/a07090.html#a356adde7f6574f697e02e6657f325baa">itemTemplate</a>;</div>
+<div class="line"><span class="lineno">  296</span> </div>
+<div class="line"><span class="lineno">  297</span>        <span class="keywordflow">if</span> (searchRequest.searchInfo.itemClass != 0xffffffff &amp;&amp; proto-&gt;<a class="code hl_variable" href="../../d3/d25/a08362.html#aa45a4f915e4ecdd88d1646b259e13f13">Class</a> != searchRequest.searchInfo.itemClass)</div>
+<div class="line"><span class="lineno">  298</span>            <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  299</span> </div>
+<div class="line"><span class="lineno">  300</span>        <span class="keywordflow">if</span> (searchRequest.searchInfo.itemSubClass != 0xffffffff &amp;&amp; proto-&gt;<a class="code hl_variable" href="../../d3/d25/a08362.html#ae0013e982dfd997df41c8499232a8a07">SubClass</a> != searchRequest.searchInfo.itemSubClass)</div>
+<div class="line"><span class="lineno">  301</span>            <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  302</span> </div>
+<div class="line"><span class="lineno">  303</span>        <span class="keywordflow">if</span> (searchRequest.searchInfo.inventoryType != 0xffffffff &amp;&amp; proto-&gt;<a class="code hl_variable" href="../../d3/d25/a08362.html#ac47429e999906b62258c7ade930efcbf">InventoryType</a> != searchRequest.searchInfo.inventoryType)</div>
+<div class="line"><span class="lineno">  304</span>        {</div>
+<div class="line"><span class="lineno">  305</span>            <span class="comment">// xinef: exception, robes are counted as chests</span></div>
+<div class="line"><span class="lineno">  306</span>            <span class="keywordflow">if</span> (searchRequest.searchInfo.inventoryType != <a class="code hl_enumvalue" href="../../d5/d6b/a03428.html#a2793ea198e8b328078cf49008fa1d5b1af2b736117eeda9485c06f5f903f6777f">INVTYPE_CHEST</a> || proto-&gt;<a class="code hl_variable" href="../../d3/d25/a08362.html#ac47429e999906b62258c7ade930efcbf">InventoryType</a> != <a class="code hl_enumvalue" href="../../d5/d6b/a03428.html#a2793ea198e8b328078cf49008fa1d5b1a3e22e849ed0cf8a5cc98ac51085281b6">INVTYPE_ROBE</a>)</div>
+<div class="line"><span class="lineno">  307</span>                <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  308</span>        }</div>
+<div class="line"><span class="lineno">  309</span> </div>
+<div class="line"><span class="lineno">  310</span>        <span class="keywordflow">if</span> (searchRequest.searchInfo.quality != 0xffffffff &amp;&amp; proto-&gt;<a class="code hl_variable" href="../../d3/d25/a08362.html#a1b4b51353503f83db3be63f5a5786a1f">Quality</a> &lt; searchRequest.searchInfo.quality)</div>
+<div class="line"><span class="lineno">  311</span>            <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  312</span> </div>
+<div class="line"><span class="lineno">  313</span>        <span class="keywordflow">if</span> (searchRequest.searchInfo.levelmin != 0x00 &amp;&amp; (proto-&gt;<a class="code hl_variable" href="../../d3/d25/a08362.html#a6e3121554bc0b3c829d300e7da4c5b15">RequiredLevel</a> &lt; searchRequest.searchInfo.levelmin</div>
+<div class="line"><span class="lineno">  314</span>            || (searchRequest.searchInfo.levelmax != 0x00 &amp;&amp; proto-&gt;<a class="code hl_variable" href="../../d3/d25/a08362.html#a6e3121554bc0b3c829d300e7da4c5b15">RequiredLevel</a> &gt; searchRequest.searchInfo.levelmax)))</div>
+<div class="line"><span class="lineno">  315</span>        {</div>
+<div class="line"><span class="lineno">  316</span>            <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  317</span>        }</div>
+<div class="line"><span class="lineno">  318</span> </div>
+<div class="line"><span class="lineno">  319</span>        <span class="keywordflow">if</span> (searchRequest.searchInfo.usable != 0x00)</div>
+<div class="line"><span class="lineno">  320</span>        {</div>
+<div class="line"><span class="lineno">  321</span>            <span class="keywordflow">if</span> (!searchRequest.playerInfo.usablePlayerInfo.value().PlayerCanUseItem(proto))</div>
+<div class="line"><span class="lineno">  322</span>                <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  323</span>        }</div>
+<div class="line"><span class="lineno">  324</span> </div>
+<div class="line"><span class="lineno">  325</span>        <span class="comment">// Allow search by suffix (ie: of the Monkey) or partial name (ie: Monkey)</span></div>
+<div class="line"><span class="lineno">  326</span>        <span class="comment">// No need to do any of this if no search term was entered</span></div>
+<div class="line"><span class="lineno">  327</span>        <span class="keywordflow">if</span> (!searchRequest.searchInfo.wsearchedname.empty())</div>
+<div class="line"><span class="lineno">  328</span>        {</div>
+<div class="line"><span class="lineno">  329</span>            <span class="keywordflow">if</span> (Aitem.<a class="code hl_variable" href="../../dd/dd2/a07090.html#a9184925bad61ad58f35c4e4b3dbccd81">itemName</a>[searchRequest.playerInfo.loc_idx].find(searchRequest.searchInfo.wsearchedname) == std::wstring::npos)</div>
+<div class="line"><span class="lineno">  330</span>                <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  331</span>        }</div>
+<div class="line"><span class="lineno">  332</span> </div>
+<div class="line"><span class="lineno">  333</span>        auctionEntries.push_back(Aentry.get());</div>
+<div class="line"><span class="lineno">  334</span>    }</div>
+<div class="line"><span class="lineno">  335</span>}</div>
+<div class="ttc" id="aa03428_html_a2793ea198e8b328078cf49008fa1d5b1a3e22e849ed0cf8a5cc98ac51085281b6"><div class="ttname"><a href="../../d5/d6b/a03428.html#a2793ea198e8b328078cf49008fa1d5b1a3e22e849ed0cf8a5cc98ac51085281b6">INVTYPE_ROBE</a></div><div class="ttdeci">@ INVTYPE_ROBE</div><div class="ttdef"><b>Definition:</b> ItemTemplate.h:276</div></div>
+<div class="ttc" id="aa03428_html_a2793ea198e8b328078cf49008fa1d5b1af2b736117eeda9485c06f5f903f6777f"><div class="ttname"><a href="../../d5/d6b/a03428.html#a2793ea198e8b328078cf49008fa1d5b1af2b736117eeda9485c06f5f903f6777f">INVTYPE_CHEST</a></div><div class="ttdeci">@ INVTYPE_CHEST</div><div class="ttdef"><b>Definition:</b> ItemTemplate.h:261</div></div>
+<div class="ttc" id="aa07090_html"><div class="ttname"><a href="../../dd/dd2/a07090.html">SearchableAuctionEntryItem</a></div><div class="ttdef"><b>Definition:</b> AuctionHouseSearcher.h:67</div></div>
+<div class="ttc" id="aa07090_html_a356adde7f6574f697e02e6657f325baa"><div class="ttname"><a href="../../dd/dd2/a07090.html#a356adde7f6574f697e02e6657f325baa">SearchableAuctionEntryItem::itemTemplate</a></div><div class="ttdeci">ItemTemplate const  * itemTemplate</div><div class="ttdef"><b>Definition:</b> AuctionHouseSearcher.h:75</div></div>
+<div class="ttc" id="aa07090_html_a9184925bad61ad58f35c4e4b3dbccd81"><div class="ttname"><a href="../../dd/dd2/a07090.html#a9184925bad61ad58f35c4e4b3dbccd81">SearchableAuctionEntryItem::itemName</a></div><div class="ttdeci">std::wstring itemName[TOTAL_LOCALES]</div><div class="ttdef"><b>Definition:</b> AuctionHouseSearcher.h:68</div></div>
+<div class="ttc" id="aa08362_html"><div class="ttname"><a href="../../d3/d25/a08362.html">ItemTemplate</a></div><div class="ttdef"><b>Definition:</b> ItemTemplate.h:619</div></div>
+<div class="ttc" id="aa08362_html_a1b4b51353503f83db3be63f5a5786a1f"><div class="ttname"><a href="../../d3/d25/a08362.html#a1b4b51353503f83db3be63f5a5786a1f">ItemTemplate::Quality</a></div><div class="ttdeci">uint32 Quality</div><div class="ttdef"><b>Definition:</b> ItemTemplate.h:626</div></div>
+<div class="ttc" id="aa08362_html_a6e3121554bc0b3c829d300e7da4c5b15"><div class="ttname"><a href="../../d3/d25/a08362.html#a6e3121554bc0b3c829d300e7da4c5b15">ItemTemplate::RequiredLevel</a></div><div class="ttdeci">uint32 RequiredLevel</div><div class="ttdef"><b>Definition:</b> ItemTemplate.h:636</div></div>
+<div class="ttc" id="aa08362_html_aa45a4f915e4ecdd88d1646b259e13f13"><div class="ttname"><a href="../../d3/d25/a08362.html#aa45a4f915e4ecdd88d1646b259e13f13">ItemTemplate::Class</a></div><div class="ttdeci">uint32 Class</div><div class="ttdef"><b>Definition:</b> ItemTemplate.h:621</div></div>
+<div class="ttc" id="aa08362_html_ac47429e999906b62258c7ade930efcbf"><div class="ttname"><a href="../../d3/d25/a08362.html#ac47429e999906b62258c7ade930efcbf">ItemTemplate::InventoryType</a></div><div class="ttdeci">uint32 InventoryType</div><div class="ttdef"><b>Definition:</b> ItemTemplate.h:632</div></div>
+<div class="ttc" id="aa08362_html_ae0013e982dfd997df41c8499232a8a07"><div class="ttname"><a href="../../d3/d25/a08362.html#ae0013e982dfd997df41c8499232a8a07">ItemTemplate::SubClass</a></div><div class="ttdeci">uint32 SubClass</div><div class="ttdef"><b>Definition:</b> ItemTemplate.h:622</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00621">ItemTemplate::Class</a>, <a class="el" href="../../#l00106">AuctionHouseSearchInfo::inventoryType</a>, <a class="el" href="../../#l00632">ItemTemplate::InventoryType</a>, <a class="el" href="../../#l00261">INVTYPE_CHEST</a>, <a class="el" href="../../#l00276">INVTYPE_ROBE</a>, <a class="el" href="../../#l00107">AuctionHouseSearchInfo::itemClass</a>, <a class="el" href="../../#l00068">SearchableAuctionEntryItem::itemName</a>, <a class="el" href="../../#l00108">AuctionHouseSearchInfo::itemSubClass</a>, <a class="el" href="../../#l00075">SearchableAuctionEntryItem::itemTemplate</a>, <a class="el" href="../../#l00104">AuctionHouseSearchInfo::levelmax</a>, <a class="el" href="../../#l00103">AuctionHouseSearchInfo::levelmin</a>, <a class="el" href="../../#l00134">AuctionHousePlayerInfo::loc_idx</a>, <a class="el" href="../../#l00161">AuctionSearchListRequest::playerInfo</a>, <a class="el" href="../../#l00109">AuctionHouseSearchInfo::quality</a>, <a class="el" href="../../#l00626">ItemTemplate::Quality</a>, <a class="el" href="../../#l00636">ItemTemplate::RequiredLevel</a>, <a class="el" href="../../#l00160">AuctionSearchListRequest::searchInfo</a>, <a class="el" href="../../#l00622">ItemTemplate::SubClass</a>, <a class="el" href="../../#l00105">AuctionHouseSearchInfo::usable</a>, <a class="el" href="../../#l00136">AuctionHousePlayerInfo::usablePlayerInfo</a>, and <a class="el" href="../../#l00101">AuctionHouseSearchInfo::wsearchedname</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00142">SearchListRequest()</a>.</p>
+
+</div>
+</div>
+<a id="a8f0ed06055dd0c50bb65017289c6104c" name="a8f0ed06055dd0c50bb65017289c6104c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8f0ed06055dd0c50bb65017289c6104c">&#9670;&#160;</a></span>GetSearchableAuctionMap()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../de/dc3/a04319.html#a7cad31f048914034b12550129308e80e">SearchableAuctionEntriesMap</a> &amp; AuctionHouseWorkerThread::GetSearchableAuctionMap </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../de/d38/a04316.html#af4f47e9bbd0faf17478c06dd0660bb84">AuctionHouseFaction</a>&#160;</td>
+          <td class="paramname"><em>faction</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  267</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../df/ddd/a07150.html#a68f698401f671fb75901daea75575ce0">_searchableAuctionMap</a>[<span class="keyword">static_cast&lt;</span><a class="code hl_typedef" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a><span class="keyword">&gt;</span>(faction)]; };</div>
+<div class="ttc" id="aa00302_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition:</b> Define.h:109</div></div>
+<div class="ttc" id="aa07150_html_a68f698401f671fb75901daea75575ce0"><div class="ttname"><a href="../../df/ddd/a07150.html#a68f698401f671fb75901daea75575ce0">AuctionHouseWorkerThread::_searchableAuctionMap</a></div><div class="ttdeci">SearchableAuctionEntriesMap _searchableAuctionMap[MAX_AUCTION_HOUSE_FACTIONS]</div><div class="ttdef"><b>Definition:</b> AuctionHouseSearcher.h:269</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00269">_searchableAuctionMap</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00235">SearchBidderListRequest()</a>, <a class="el" href="../../#l00142">SearchListRequest()</a>, <a class="el" href="../../#l00205">SearchOwnerListRequest()</a>, <a class="el" href="../../#l00086">SearchUpdateAdd()</a>, <a class="el" href="../../#l00098">SearchUpdateBid()</a>, and <a class="el" href="../../#l00092">SearchUpdateRemove()</a>.</p>
+
+</div>
+</div>
+<a id="a3cc7697e74c9acd6dd902a75044d64d3" name="a3cc7697e74c9acd6dd902a75044d64d3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3cc7697e74c9acd6dd902a75044d64d3">&#9670;&#160;</a></span>ProcessSearchRequests()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AuctionHouseWorkerThread::ProcessSearchRequests </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -658,57 +399,535 @@ Private Attributes</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   36</span>{</div>
-<div class="line"><span class="lineno">   37</span>    <span class="keyword">static</span> <a class="code hl_class" href="../../df/ddd/a07150.html">BattlefieldMgr</a> <a class="code hl_function" href="../../df/ddd/a07150.html#af96d6d44aa8936f94c20d1bd92af2fb3">instance</a>;</div>
-<div class="line"><span class="lineno">   38</span>    <span class="keywordflow">return</span> &amp;<a class="code hl_function" href="../../df/ddd/a07150.html#af96d6d44aa8936f94c20d1bd92af2fb3">instance</a>;</div>
-<div class="line"><span class="lineno">   39</span>}</div>
-<div class="ttc" id="aa07150_html"><div class="ttname"><a href="../../df/ddd/a07150.html">BattlefieldMgr</a></div><div class="ttdef"><b>Definition:</b> BattlefieldMgr.h:31</div></div>
-<div class="ttc" id="aa07150_html_af96d6d44aa8936f94c20d1bd92af2fb3"><div class="ttname"><a href="../../df/ddd/a07150.html#af96d6d44aa8936f94c20d1bd92af2fb3">BattlefieldMgr::instance</a></div><div class="ttdeci">static BattlefieldMgr * instance()</div><div class="ttdef"><b>Definition:</b> BattlefieldMgr.cpp:35</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  110</span>{</div>
+<div class="line"><span class="lineno">  111</span>    <a class="code hl_struct" href="../../da/d25/a07110.html">AuctionSearcherRequest</a>* searchRequest;</div>
+<div class="line"><span class="lineno">  112</span>    <span class="keywordflow">while</span> (<a class="code hl_variable" href="../../df/ddd/a07150.html#a8b92df23eb97b8f3b11c495dbdb15696">_requestQueue</a>-&gt;<a class="code hl_function" href="../../d9/d54/a05418.html#afe8119f67dd7d95bbcd749d7ac9404d4">Pop</a>(searchRequest))</div>
+<div class="line"><span class="lineno">  113</span>    {</div>
+<div class="line"><span class="lineno">  114</span>        <span class="keywordflow">switch</span> (searchRequest-&gt;<a class="code hl_variable" href="../../da/d25/a07110.html#ad7006f42aafadfa07024e1d2a278be3d">requestType</a>)</div>
+<div class="line"><span class="lineno">  115</span>        {</div>
+<div class="line"><span class="lineno">  116</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../da/d25/a07110.html#abfb75b18c4a43f1818cd78212c668109a298cb25408234de02baf2085803a464a">AuctionSearcherRequest::Type::LIST</a>:</div>
+<div class="line"><span class="lineno">  117</span>        {</div>
+<div class="line"><span class="lineno">  118</span>            <a class="code hl_struct" href="../../d4/dff/a07114.html">AuctionSearchListRequest</a> <span class="keyword">const</span>* searchListRequest = <span class="keyword">static_cast&lt;</span><a class="code hl_struct" href="../../d4/dff/a07114.html">AuctionSearchListRequest</a>*<span class="keyword">&gt;</span>(searchRequest);</div>
+<div class="line"><span class="lineno">  119</span>            <a class="code hl_function" href="../../df/ddd/a07150.html#a2b455c5d62c280c97d30d3b02ce7601d">SearchListRequest</a>(*searchListRequest);</div>
+<div class="line"><span class="lineno">  120</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  121</span>        }</div>
+<div class="line"><span class="lineno">  122</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../da/d25/a07110.html#abfb75b18c4a43f1818cd78212c668109a425771069bf1ccc5efbffddcdd382f5e">AuctionSearcherRequest::Type::OWNER_LIST</a>:</div>
+<div class="line"><span class="lineno">  123</span>        {</div>
+<div class="line"><span class="lineno">  124</span>            <a class="code hl_struct" href="../../df/df1/a07118.html">AuctionSearchOwnerListRequest</a> <span class="keyword">const</span>* searchOwnerListRequest = <span class="keyword">static_cast&lt;</span><a class="code hl_struct" href="../../df/df1/a07118.html">AuctionSearchOwnerListRequest</a>*<span class="keyword">&gt;</span>(searchRequest);</div>
+<div class="line"><span class="lineno">  125</span>            <a class="code hl_function" href="../../df/ddd/a07150.html#a99371b6ef770b00d4c32227392234732">SearchOwnerListRequest</a>(*searchOwnerListRequest);</div>
+<div class="line"><span class="lineno">  126</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  127</span>        }</div>
+<div class="line"><span class="lineno">  128</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../da/d25/a07110.html#abfb75b18c4a43f1818cd78212c668109a3db79062131239cf3a1812bf18377fab">AuctionSearcherRequest::Type::BIDDER_LIST</a>:</div>
+<div class="line"><span class="lineno">  129</span>        {</div>
+<div class="line"><span class="lineno">  130</span>            <a class="code hl_struct" href="../../d6/d43/a07122.html">AuctionSearchBidderListRequest</a> <span class="keyword">const</span>* searchBidderListRequest = <span class="keyword">static_cast&lt;</span><a class="code hl_struct" href="../../d6/d43/a07122.html">AuctionSearchBidderListRequest</a>*<span class="keyword">&gt;</span>(searchRequest);</div>
+<div class="line"><span class="lineno">  131</span>            <a class="code hl_function" href="../../df/ddd/a07150.html#af23c367773406ed52439f21d4b288264">SearchBidderListRequest</a>(*searchBidderListRequest);</div>
+<div class="line"><span class="lineno">  132</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  133</span>        }</div>
+<div class="line"><span class="lineno">  134</span>        <span class="keywordflow">default</span>:</div>
+<div class="line"><span class="lineno">  135</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  136</span>        }</div>
+<div class="line"><span class="lineno">  137</span> </div>
+<div class="line"><span class="lineno">  138</span>        <span class="keyword">delete</span> searchRequest;</div>
+<div class="line"><span class="lineno">  139</span>    }</div>
+<div class="line"><span class="lineno">  140</span>}</div>
+<div class="ttc" id="aa05418_html_afe8119f67dd7d95bbcd749d7ac9404d4"><div class="ttname"><a href="../../d9/d54/a05418.html#afe8119f67dd7d95bbcd749d7ac9404d4">ProducerConsumerQueue::Pop</a></div><div class="ttdeci">bool Pop(T &amp;value)</div><div class="ttdef"><b>Definition:</b> PCQueue.h:60</div></div>
+<div class="ttc" id="aa07110_html"><div class="ttname"><a href="../../da/d25/a07110.html">AuctionSearcherRequest</a></div><div class="ttdef"><b>Definition:</b> AuctionHouseSearcher.h:140</div></div>
+<div class="ttc" id="aa07110_html_abfb75b18c4a43f1818cd78212c668109a298cb25408234de02baf2085803a464a"><div class="ttname"><a href="../../da/d25/a07110.html#abfb75b18c4a43f1818cd78212c668109a298cb25408234de02baf2085803a464a">AuctionSearcherRequest::Type::LIST</a></div><div class="ttdeci">@ LIST</div></div>
+<div class="ttc" id="aa07110_html_abfb75b18c4a43f1818cd78212c668109a3db79062131239cf3a1812bf18377fab"><div class="ttname"><a href="../../da/d25/a07110.html#abfb75b18c4a43f1818cd78212c668109a3db79062131239cf3a1812bf18377fab">AuctionSearcherRequest::Type::BIDDER_LIST</a></div><div class="ttdeci">@ BIDDER_LIST</div></div>
+<div class="ttc" id="aa07110_html_abfb75b18c4a43f1818cd78212c668109a425771069bf1ccc5efbffddcdd382f5e"><div class="ttname"><a href="../../da/d25/a07110.html#abfb75b18c4a43f1818cd78212c668109a425771069bf1ccc5efbffddcdd382f5e">AuctionSearcherRequest::Type::OWNER_LIST</a></div><div class="ttdeci">@ OWNER_LIST</div></div>
+<div class="ttc" id="aa07110_html_ad7006f42aafadfa07024e1d2a278be3d"><div class="ttname"><a href="../../da/d25/a07110.html#ad7006f42aafadfa07024e1d2a278be3d">AuctionSearcherRequest::requestType</a></div><div class="ttdeci">Type requestType</div><div class="ttdef"><b>Definition:</b> AuctionHouseSearcher.h:151</div></div>
+<div class="ttc" id="aa07114_html"><div class="ttname"><a href="../../d4/dff/a07114.html">AuctionSearchListRequest</a></div><div class="ttdef"><b>Definition:</b> AuctionHouseSearcher.h:156</div></div>
+<div class="ttc" id="aa07118_html"><div class="ttname"><a href="../../df/df1/a07118.html">AuctionSearchOwnerListRequest</a></div><div class="ttdef"><b>Definition:</b> AuctionHouseSearcher.h:165</div></div>
+<div class="ttc" id="aa07122_html"><div class="ttname"><a href="../../d6/d43/a07122.html">AuctionSearchBidderListRequest</a></div><div class="ttdef"><b>Definition:</b> AuctionHouseSearcher.h:173</div></div>
+<div class="ttc" id="aa07150_html_a2b455c5d62c280c97d30d3b02ce7601d"><div class="ttname"><a href="../../df/ddd/a07150.html#a2b455c5d62c280c97d30d3b02ce7601d">AuctionHouseWorkerThread::SearchListRequest</a></div><div class="ttdeci">void SearchListRequest(AuctionSearchListRequest const &amp;searchListRequest)</div><div class="ttdef"><b>Definition:</b> AuctionHouseSearcher.cpp:142</div></div>
+<div class="ttc" id="aa07150_html_a99371b6ef770b00d4c32227392234732"><div class="ttname"><a href="../../df/ddd/a07150.html#a99371b6ef770b00d4c32227392234732">AuctionHouseWorkerThread::SearchOwnerListRequest</a></div><div class="ttdeci">void SearchOwnerListRequest(AuctionSearchOwnerListRequest const &amp;searchOwnerListRequest)</div><div class="ttdef"><b>Definition:</b> AuctionHouseSearcher.cpp:205</div></div>
+<div class="ttc" id="aa07150_html_af23c367773406ed52439f21d4b288264"><div class="ttname"><a href="../../df/ddd/a07150.html#af23c367773406ed52439f21d4b288264">AuctionHouseWorkerThread::SearchBidderListRequest</a></div><div class="ttdeci">void SearchBidderListRequest(AuctionSearchBidderListRequest const &amp;searchBidderListRequest)</div><div class="ttdef"><b>Definition:</b> AuctionHouseSearcher.cpp:235</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00035">instance()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00272">_requestQueue</a>, <a class="el" href="../../da/d25/a07110.html#abfb75b18c4a43f1818cd78212c668109a3db79062131239cf3a1812bf18377fab">AuctionSearcherRequest::BIDDER_LIST</a>, <a class="el" href="../../da/d25/a07110.html#abfb75b18c4a43f1818cd78212c668109a298cb25408234de02baf2085803a464a">AuctionSearcherRequest::LIST</a>, <a class="el" href="../../da/d25/a07110.html#abfb75b18c4a43f1818cd78212c668109a425771069bf1ccc5efbffddcdd382f5e">AuctionSearcherRequest::OWNER_LIST</a>, <a class="el" href="../../#l00060">ProducerConsumerQueue&lt; T &gt;::Pop()</a>, <a class="el" href="../../#l00151">AuctionSearcherRequest::requestType</a>, <a class="el" href="../../#l00235">SearchBidderListRequest()</a>, <a class="el" href="../../#l00142">SearchListRequest()</a>, and <a class="el" href="../../#l00205">SearchOwnerListRequest()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00035">instance()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00044">Run()</a>.</p>
 
 </div>
 </div>
-<a id="a15548a7b124741e2fa9f36f1bf087458" name="a15548a7b124741e2fa9f36f1bf087458"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a15548a7b124741e2fa9f36f1bf087458">&#9670;&#160;</a></span>Update()</h2>
+<a id="a8901d50705c3e4a4977a547aef241d1d" name="a8901d50705c3e4a4977a547aef241d1d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8901d50705c3e4a4977a547aef241d1d">&#9670;&#160;</a></span>ProcessSearchUpdates()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AuctionHouseWorkerThread::ProcessSearchUpdates </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   56</span>{</div>
+<div class="line"><span class="lineno">   57</span>    std::shared_ptr&lt;AuctionSearcherUpdate&gt; auctionSearchUpdate;</div>
+<div class="line"><span class="lineno">   58</span>    <span class="keywordflow">while</span> (<a class="code hl_variable" href="../../df/ddd/a07150.html#aecd36ccabd34131c42ec1d7964b8840a">_auctionUpdatesQueue</a>.<a class="code hl_function" href="../../d9/d61/a05402.html#ac818ec56d60e2ec059857e0aaa99f8a4">next</a>(auctionSearchUpdate))</div>
+<div class="line"><span class="lineno">   59</span>    {</div>
+<div class="line"><span class="lineno">   60</span>        <span class="keywordflow">switch</span> (auctionSearchUpdate-&gt;updateType)</div>
+<div class="line"><span class="lineno">   61</span>        {</div>
+<div class="line"><span class="lineno">   62</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d1/d1a/a07130.html#a758c9729d907d872a5e5365539486408a9eeb52badb613229884838847294b90d">AuctionSearcherUpdate::Type::ADD</a>:</div>
+<div class="line"><span class="lineno">   63</span>        {</div>
+<div class="line"><span class="lineno">   64</span>            std::shared_ptr&lt;AuctionSearchAdd&gt; <span class="keyword">const</span> auctionAdd = std::static_pointer_cast&lt;AuctionSearchAdd&gt;(auctionSearchUpdate);</div>
+<div class="line"><span class="lineno">   65</span>            <a class="code hl_function" href="../../df/ddd/a07150.html#a64414f54c6a84546bee85eb4e46ae04f">SearchUpdateAdd</a>(*auctionAdd.get());</div>
+<div class="line"><span class="lineno">   66</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">   67</span>        }</div>
+<div class="line"><span class="lineno">   68</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d1/d1a/a07130.html#a758c9729d907d872a5e5365539486408a78baf367c4626442174307cdf41c6538">AuctionSearcherUpdate::Type::REMOVE</a>:</div>
+<div class="line"><span class="lineno">   69</span>        {</div>
+<div class="line"><span class="lineno">   70</span>            std::shared_ptr&lt;AuctionSearchRemove&gt; <span class="keyword">const</span> auctionRemove = std::static_pointer_cast&lt;AuctionSearchRemove&gt;(auctionSearchUpdate);</div>
+<div class="line"><span class="lineno">   71</span>            <a class="code hl_function" href="../../df/ddd/a07150.html#a31f1510cd146eac4718c6577caf72cc4">SearchUpdateRemove</a>(*auctionRemove.get());</div>
+<div class="line"><span class="lineno">   72</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">   73</span>        }</div>
+<div class="line"><span class="lineno">   74</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d1/d1a/a07130.html#a758c9729d907d872a5e5365539486408af737406648230093b15420038f06e0a5">AuctionSearcherUpdate::Type::UPDATE_BID</a>:</div>
+<div class="line"><span class="lineno">   75</span>        {</div>
+<div class="line"><span class="lineno">   76</span>            std::shared_ptr&lt;AuctionSearchUpdateBid&gt; <span class="keyword">const</span> auctionUpdateBid = std::static_pointer_cast&lt;AuctionSearchUpdateBid&gt;(auctionSearchUpdate);</div>
+<div class="line"><span class="lineno">   77</span>            <a class="code hl_function" href="../../df/ddd/a07150.html#ac42f800d004e90bc728df43d3c9c7244">SearchUpdateBid</a>(*auctionUpdateBid.get());</div>
+<div class="line"><span class="lineno">   78</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">   79</span>        }</div>
+<div class="line"><span class="lineno">   80</span>        <span class="keywordflow">default</span>:</div>
+<div class="line"><span class="lineno">   81</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">   82</span>        }</div>
+<div class="line"><span class="lineno">   83</span>    }</div>
+<div class="line"><span class="lineno">   84</span>}</div>
+<div class="ttc" id="aa05402_html_ac818ec56d60e2ec059857e0aaa99f8a4"><div class="ttname"><a href="../../d9/d61/a05402.html#ac818ec56d60e2ec059857e0aaa99f8a4">LockedQueue::next</a></div><div class="ttdeci">bool next(T &amp;result)</div><div class="ttdoc">Gets the next item in the queue and removes it.</div><div class="ttdef"><b>Definition:</b> LockedQueue.h:77</div></div>
+<div class="ttc" id="aa07130_html_a758c9729d907d872a5e5365539486408a78baf367c4626442174307cdf41c6538"><div class="ttname"><a href="../../d1/d1a/a07130.html#a758c9729d907d872a5e5365539486408a78baf367c4626442174307cdf41c6538">AuctionSearcherUpdate::Type::REMOVE</a></div><div class="ttdeci">@ REMOVE</div></div>
+<div class="ttc" id="aa07130_html_a758c9729d907d872a5e5365539486408a9eeb52badb613229884838847294b90d"><div class="ttname"><a href="../../d1/d1a/a07130.html#a758c9729d907d872a5e5365539486408a9eeb52badb613229884838847294b90d">AuctionSearcherUpdate::Type::ADD</a></div><div class="ttdeci">@ ADD</div></div>
+<div class="ttc" id="aa07130_html_a758c9729d907d872a5e5365539486408af737406648230093b15420038f06e0a5"><div class="ttname"><a href="../../d1/d1a/a07130.html#a758c9729d907d872a5e5365539486408af737406648230093b15420038f06e0a5">AuctionSearcherUpdate::Type::UPDATE_BID</a></div><div class="ttdeci">@ UPDATE_BID</div></div>
+<div class="ttc" id="aa07150_html_a31f1510cd146eac4718c6577caf72cc4"><div class="ttname"><a href="../../df/ddd/a07150.html#a31f1510cd146eac4718c6577caf72cc4">AuctionHouseWorkerThread::SearchUpdateRemove</a></div><div class="ttdeci">void SearchUpdateRemove(AuctionSearchRemove const &amp;auctionRemove)</div><div class="ttdef"><b>Definition:</b> AuctionHouseSearcher.cpp:92</div></div>
+<div class="ttc" id="aa07150_html_a64414f54c6a84546bee85eb4e46ae04f"><div class="ttname"><a href="../../df/ddd/a07150.html#a64414f54c6a84546bee85eb4e46ae04f">AuctionHouseWorkerThread::SearchUpdateAdd</a></div><div class="ttdeci">void SearchUpdateAdd(AuctionSearchAdd const &amp;auctionAdd)</div><div class="ttdef"><b>Definition:</b> AuctionHouseSearcher.cpp:86</div></div>
+<div class="ttc" id="aa07150_html_ac42f800d004e90bc728df43d3c9c7244"><div class="ttname"><a href="../../df/ddd/a07150.html#ac42f800d004e90bc728df43d3c9c7244">AuctionHouseWorkerThread::SearchUpdateBid</a></div><div class="ttdeci">void SearchUpdateBid(AuctionSearchUpdateBid const &amp;auctionUpdateBid)</div><div class="ttdef"><b>Definition:</b> AuctionHouseSearcher.cpp:98</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00270">_auctionUpdatesQueue</a>, <a class="el" href="../../d1/d1a/a07130.html#a758c9729d907d872a5e5365539486408a9eeb52badb613229884838847294b90d">AuctionSearcherUpdate::ADD</a>, <a class="el" href="../../#l00077">LockedQueue&lt; T, StorageType &gt;::next()</a>, <a class="el" href="../../d1/d1a/a07130.html#a758c9729d907d872a5e5365539486408a78baf367c4626442174307cdf41c6538">AuctionSearcherUpdate::REMOVE</a>, <a class="el" href="../../#l00086">SearchUpdateAdd()</a>, <a class="el" href="../../#l00098">SearchUpdateBid()</a>, <a class="el" href="../../#l00092">SearchUpdateRemove()</a>, and <a class="el" href="../../d1/d1a/a07130.html#a758c9729d907d872a5e5365539486408af737406648230093b15420038f06e0a5">AuctionSearcherUpdate::UPDATE_BID</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00044">Run()</a>.</p>
+
+</div>
+</div>
+<a id="a78eb3d86cdb1f7590af5a5f54ac97b6a" name="a78eb3d86cdb1f7590af5a5f54ac97b6a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a78eb3d86cdb1f7590af5a5f54ac97b6a">&#9670;&#160;</a></span>Run()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AuctionHouseWorkerThread::Run </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   45</span>{</div>
+<div class="line"><span class="lineno">   46</span>    <span class="keywordflow">while</span> (!<a class="code hl_variable" href="../../df/ddd/a07150.html#af4d4c4672e67953c7c909174652b99d1">_stopped</a>)</div>
+<div class="line"><span class="lineno">   47</span>    {</div>
+<div class="line"><span class="lineno">   48</span>        std::this_thread::sleep_for(<a class="code hl_typedef" href="../../d7/d06/a00131.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a>(25));</div>
+<div class="line"><span class="lineno">   49</span> </div>
+<div class="line"><span class="lineno">   50</span>        <a class="code hl_function" href="../../df/ddd/a07150.html#a8901d50705c3e4a4977a547aef241d1d">ProcessSearchUpdates</a>();</div>
+<div class="line"><span class="lineno">   51</span>        <a class="code hl_function" href="../../df/ddd/a07150.html#a3cc7697e74c9acd6dd902a75044d64d3">ProcessSearchRequests</a>();</div>
+<div class="line"><span class="lineno">   52</span>    }</div>
+<div class="line"><span class="lineno">   53</span>}</div>
+<div class="ttc" id="aa00131_html_a1c3834b9e3853535027d58bf21bec81f"><div class="ttname"><a href="../../d7/d06/a00131.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a></div><div class="ttdeci">std::chrono::milliseconds Milliseconds</div><div class="ttdoc">Milliseconds shorthand typedef.</div><div class="ttdef"><b>Definition:</b> Duration.h:27</div></div>
+<div class="ttc" id="aa07150_html_a3cc7697e74c9acd6dd902a75044d64d3"><div class="ttname"><a href="../../df/ddd/a07150.html#a3cc7697e74c9acd6dd902a75044d64d3">AuctionHouseWorkerThread::ProcessSearchRequests</a></div><div class="ttdeci">void ProcessSearchRequests()</div><div class="ttdef"><b>Definition:</b> AuctionHouseSearcher.cpp:109</div></div>
+<div class="ttc" id="aa07150_html_a8901d50705c3e4a4977a547aef241d1d"><div class="ttname"><a href="../../df/ddd/a07150.html#a8901d50705c3e4a4977a547aef241d1d">AuctionHouseWorkerThread::ProcessSearchUpdates</a></div><div class="ttdeci">void ProcessSearchUpdates()</div><div class="ttdef"><b>Definition:</b> AuctionHouseSearcher.cpp:55</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00276">_stopped</a>, <a class="el" href="../../#l00109">ProcessSearchRequests()</a>, and <a class="el" href="../../#l00055">ProcessSearchUpdates()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00025">AuctionHouseWorkerThread()</a>.</p>
+
+</div>
+</div>
+<a id="af23c367773406ed52439f21d4b288264" name="af23c367773406ed52439f21d4b288264"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af23c367773406ed52439f21d4b288264">&#9670;&#160;</a></span>SearchBidderListRequest()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AuctionHouseWorkerThread::SearchBidderListRequest </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d6/d43/a07122.html">AuctionSearchBidderListRequest</a> const &amp;&#160;</td>
+          <td class="paramname"><em>searchBidderListRequest</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  236</span>{</div>
+<div class="line"><span class="lineno">  237</span>    <a class="code hl_typedef" href="../../de/dc3/a04319.html#a7cad31f048914034b12550129308e80e">SearchableAuctionEntriesMap</a> <span class="keyword">const</span>&amp; searchableAuctionMap = <a class="code hl_function" href="../../df/ddd/a07150.html#a8f0ed06055dd0c50bb65017289c6104c">GetSearchableAuctionMap</a>(searchBidderListRequest.listFaction);</div>
+<div class="line"><span class="lineno">  238</span> </div>
+<div class="line"><span class="lineno">  239</span>    <a class="code hl_struct" href="../../d8/dc2/a07126.html">AuctionSearcherResponse</a>* searchResponse = <span class="keyword">new</span> <a class="code hl_struct" href="../../d8/dc2/a07126.html">AuctionSearcherResponse</a>();</div>
+<div class="line"><span class="lineno">  240</span>    searchResponse-&gt;<a class="code hl_variable" href="../../d8/dc2/a07126.html#a824393dda7676d4a5268d2d7d2e9d17b">playerGuid</a> = searchBidderListRequest.ownerGuid;</div>
+<div class="line"><span class="lineno">  241</span>    searchResponse-&gt;<a class="code hl_variable" href="../../d8/dc2/a07126.html#ad266cc5bd8e3637534055a7564047f87">packet</a>.<a class="code hl_function" href="../../d3/ddb/a11102.html#a6b7d58fb0230383629fa888d3aa9dbd8">Initialize</a>(<a class="code hl_enumvalue" href="../../db/d92/a04791.html#gga1073b6abb3a749f18bf1633020879e9ba4fddaa6d91333be50789a62b6f3b0bd6">SMSG_AUCTION_BIDDER_LIST_RESULT</a>, (4 + 4 + 4));</div>
+<div class="line"><span class="lineno">  242</span>    searchResponse-&gt;<a class="code hl_variable" href="../../d8/dc2/a07126.html#ad266cc5bd8e3637534055a7564047f87">packet</a> &lt;&lt; (<a class="code hl_typedef" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>)0;                                     <span class="comment">//add 0 as count</span></div>
+<div class="line"><span class="lineno">  243</span> </div>
+<div class="line"><span class="lineno">  244</span>    <a class="code hl_typedef" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> count = 0;</div>
+<div class="line"><span class="lineno">  245</span>    <a class="code hl_typedef" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> totalcount = 0;</div>
+<div class="line"><span class="lineno">  246</span> </div>
+<div class="line"><span class="lineno">  247</span>    <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> <span class="keyword">const</span> auctionId : searchBidderListRequest.outbiddedAuctionIds)</div>
+<div class="line"><span class="lineno">  248</span>    {</div>
+<div class="line"><span class="lineno">  249</span>        SearchableAuctionEntriesMap::const_iterator itr = searchableAuctionMap.find(auctionId);</div>
+<div class="line"><span class="lineno">  250</span>        <span class="keywordflow">if</span> (itr == searchableAuctionMap.end())</div>
+<div class="line"><span class="lineno">  251</span>            <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  252</span> </div>
+<div class="line"><span class="lineno">  253</span>        std::shared_ptr&lt;SearchableAuctionEntry&gt; <span class="keyword">const</span>&amp; auctionEntry = itr-&gt;second;</div>
+<div class="line"><span class="lineno">  254</span>        auctionEntry-&gt;BuildAuctionInfo(searchResponse-&gt;<a class="code hl_variable" href="../../d8/dc2/a07126.html#ad266cc5bd8e3637534055a7564047f87">packet</a>);</div>
+<div class="line"><span class="lineno">  255</span>        ++count;</div>
+<div class="line"><span class="lineno">  256</span>        ++totalcount;</div>
+<div class="line"><span class="lineno">  257</span>    }</div>
+<div class="line"><span class="lineno">  258</span> </div>
+<div class="line"><span class="lineno">  259</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; pair : searchableAuctionMap)</div>
+<div class="line"><span class="lineno">  260</span>    {</div>
+<div class="line"><span class="lineno">  261</span>        <span class="keywordflow">if</span> (pair.second-&gt;bidderGuid != searchBidderListRequest.ownerGuid)</div>
+<div class="line"><span class="lineno">  262</span>            <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  263</span> </div>
+<div class="line"><span class="lineno">  264</span>        std::shared_ptr&lt;SearchableAuctionEntry&gt; <span class="keyword">const</span>&amp; auctionEntry = pair.second;</div>
+<div class="line"><span class="lineno">  265</span>        auctionEntry-&gt;BuildAuctionInfo(searchResponse-&gt;<a class="code hl_variable" href="../../d8/dc2/a07126.html#ad266cc5bd8e3637534055a7564047f87">packet</a>);</div>
+<div class="line"><span class="lineno">  266</span>        ++count;</div>
+<div class="line"><span class="lineno">  267</span>        ++totalcount;</div>
+<div class="line"><span class="lineno">  268</span>    }</div>
+<div class="line"><span class="lineno">  269</span> </div>
+<div class="line"><span class="lineno">  270</span>    searchResponse-&gt;<a class="code hl_variable" href="../../d8/dc2/a07126.html#ad266cc5bd8e3637534055a7564047f87">packet</a>.<a class="code hl_function" href="../../d2/d7e/a28698.html#ab14206d336f09c4096a84a27c9bb6777">put</a>&lt;<a class="code hl_typedef" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;(0, count);                           <span class="comment">// add count to placeholder</span></div>
+<div class="line"><span class="lineno">  271</span>    searchResponse-&gt;<a class="code hl_variable" href="../../d8/dc2/a07126.html#ad266cc5bd8e3637534055a7564047f87">packet</a> &lt;&lt; totalcount;</div>
+<div class="line"><span class="lineno">  272</span>    searchResponse-&gt;<a class="code hl_variable" href="../../d8/dc2/a07126.html#ad266cc5bd8e3637534055a7564047f87">packet</a> &lt;&lt; <a class="code hl_typedef" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(<a class="code hl_define" href="../../de/d38/a04316.html#a2f8bc5839b2833512daadb09efb7794d">AUCTION_SEARCH_DELAY</a>);</div>
+<div class="line"><span class="lineno">  273</span> </div>
+<div class="line"><span class="lineno">  274</span>    <a class="code hl_variable" href="../../df/ddd/a07150.html#a68a0b0ea5c3292989471f00346ca1318">_responseQueue</a>-&gt;Enqueue(searchResponse);</div>
+<div class="line"><span class="lineno">  275</span>}</div>
+<div class="ttc" id="aa00302_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
+<div class="ttc" id="aa04316_html_a2f8bc5839b2833512daadb09efb7794d"><div class="ttname"><a href="../../de/d38/a04316.html#a2f8bc5839b2833512daadb09efb7794d">AUCTION_SEARCH_DELAY</a></div><div class="ttdeci">#define AUCTION_SEARCH_DELAY</div><div class="ttdef"><b>Definition:</b> AuctionHouseMgr.h:37</div></div>
+<div class="ttc" id="aa04319_html_a7cad31f048914034b12550129308e80e"><div class="ttname"><a href="../../de/dc3/a04319.html#a7cad31f048914034b12550129308e80e">SearchableAuctionEntriesMap</a></div><div class="ttdeci">std::unordered_map&lt; uint32, std::shared_ptr&lt; SearchableAuctionEntry &gt; &gt; SearchableAuctionEntriesMap</div><div class="ttdef"><b>Definition:</b> AuctionHouseSearcher.h:229</div></div>
+<div class="ttc" id="aa04791_html_gga1073b6abb3a749f18bf1633020879e9ba4fddaa6d91333be50789a62b6f3b0bd6"><div class="ttname"><a href="../../db/d92/a04791.html#gga1073b6abb3a749f18bf1633020879e9ba4fddaa6d91333be50789a62b6f3b0bd6">SMSG_AUCTION_BIDDER_LIST_RESULT</a></div><div class="ttdeci">@ SMSG_AUCTION_BIDDER_LIST_RESULT</div><div class="ttdef"><b>Definition:</b> Opcodes.h:643</div></div>
+<div class="ttc" id="aa07126_html"><div class="ttname"><a href="../../d8/dc2/a07126.html">AuctionSearcherResponse</a></div><div class="ttdef"><b>Definition:</b> AuctionHouseSearcher.h:182</div></div>
+<div class="ttc" id="aa07126_html_a824393dda7676d4a5268d2d7d2e9d17b"><div class="ttname"><a href="../../d8/dc2/a07126.html#a824393dda7676d4a5268d2d7d2e9d17b">AuctionSearcherResponse::playerGuid</a></div><div class="ttdeci">ObjectGuid playerGuid</div><div class="ttdef"><b>Definition:</b> AuctionHouseSearcher.h:183</div></div>
+<div class="ttc" id="aa07126_html_ad266cc5bd8e3637534055a7564047f87"><div class="ttname"><a href="../../d8/dc2/a07126.html#ad266cc5bd8e3637534055a7564047f87">AuctionSearcherResponse::packet</a></div><div class="ttdeci">WorldPacket packet</div><div class="ttdef"><b>Definition:</b> AuctionHouseSearcher.h:184</div></div>
+<div class="ttc" id="aa07150_html_a8f0ed06055dd0c50bb65017289c6104c"><div class="ttname"><a href="../../df/ddd/a07150.html#a8f0ed06055dd0c50bb65017289c6104c">AuctionHouseWorkerThread::GetSearchableAuctionMap</a></div><div class="ttdeci">SearchableAuctionEntriesMap &amp; GetSearchableAuctionMap(AuctionHouseFaction faction)</div><div class="ttdef"><b>Definition:</b> AuctionHouseSearcher.h:267</div></div>
+<div class="ttc" id="aa11102_html_a6b7d58fb0230383629fa888d3aa9dbd8"><div class="ttname"><a href="../../d3/ddb/a11102.html#a6b7d58fb0230383629fa888d3aa9dbd8">WorldPacket::Initialize</a></div><div class="ttdeci">void Initialize(uint16 opcode, std::size_t newres=200)</div><div class="ttdef"><b>Definition:</b> WorldPacket.h:68</div></div>
+<div class="ttc" id="aa28698_html_ab14206d336f09c4096a84a27c9bb6777"><div class="ttname"><a href="../../d2/d7e/a28698.html#ab14206d336f09c4096a84a27c9bb6777">ByteBuffer::put</a></div><div class="ttdeci">void put(std::size_t pos, T value)</div><div class="ttdef"><b>Definition:</b> ByteBuffer.h:137</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00273">_responseQueue</a>, <a class="el" href="../../#l00037">AUCTION_SEARCH_DELAY</a>, <a class="el" href="../../#l00267">GetSearchableAuctionMap()</a>, <a class="el" href="../../#l00068">WorldPacket::Initialize()</a>, <a class="el" href="../../#l00152">AuctionSearcherRequest::listFaction</a>, <a class="el" href="../../#l00177">AuctionSearchBidderListRequest::outbiddedAuctionIds</a>, <a class="el" href="../../#l00178">AuctionSearchBidderListRequest::ownerGuid</a>, <a class="el" href="../../#l00184">AuctionSearcherResponse::packet</a>, <a class="el" href="../../#l00183">AuctionSearcherResponse::playerGuid</a>, <a class="el" href="../../#l00137">ByteBuffer::put()</a>, and <a class="el" href="../../#l00643">SMSG_AUCTION_BIDDER_LIST_RESULT</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00109">ProcessSearchRequests()</a>.</p>
+
+</div>
+</div>
+<a id="a2b455c5d62c280c97d30d3b02ce7601d" name="a2b455c5d62c280c97d30d3b02ce7601d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2b455c5d62c280c97d30d3b02ce7601d">&#9670;&#160;</a></span>SearchListRequest()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AuctionHouseWorkerThread::SearchListRequest </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d4/dff/a07114.html">AuctionSearchListRequest</a> const &amp;&#160;</td>
+          <td class="paramname"><em>searchListRequest</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  143</span>{</div>
+<div class="line"><span class="lineno">  144</span>    <a class="code hl_typedef" href="../../de/dc3/a04319.html#a7cad31f048914034b12550129308e80e">SearchableAuctionEntriesMap</a> <span class="keyword">const</span>&amp; searchableAuctionMap = <a class="code hl_function" href="../../df/ddd/a07150.html#a8f0ed06055dd0c50bb65017289c6104c">GetSearchableAuctionMap</a>(searchListRequest.listFaction);</div>
+<div class="line"><span class="lineno">  145</span>    <a class="code hl_typedef" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> count = 0, totalCount = 0;</div>
+<div class="line"><span class="lineno">  146</span> </div>
+<div class="line"><span class="lineno">  147</span>    <a class="code hl_struct" href="../../d8/dc2/a07126.html">AuctionSearcherResponse</a>* searchResponse = <span class="keyword">new</span> <a class="code hl_struct" href="../../d8/dc2/a07126.html">AuctionSearcherResponse</a>();</div>
+<div class="line"><span class="lineno">  148</span>    searchResponse-&gt;<a class="code hl_variable" href="../../d8/dc2/a07126.html#a824393dda7676d4a5268d2d7d2e9d17b">playerGuid</a> = searchListRequest.playerInfo.playerGuid;</div>
+<div class="line"><span class="lineno">  149</span>    searchResponse-&gt;<a class="code hl_variable" href="../../d8/dc2/a07126.html#ad266cc5bd8e3637534055a7564047f87">packet</a>.<a class="code hl_function" href="../../d3/ddb/a11102.html#a6b7d58fb0230383629fa888d3aa9dbd8">Initialize</a>(<a class="code hl_enumvalue" href="../../db/d92/a04791.html#gga1073b6abb3a749f18bf1633020879e9ba88e4be7ec455f63618242c65cd3a2671">SMSG_AUCTION_LIST_RESULT</a>, (4 + 4 + 4));</div>
+<div class="line"><span class="lineno">  150</span>    searchResponse-&gt;<a class="code hl_variable" href="../../d8/dc2/a07126.html#ad266cc5bd8e3637534055a7564047f87">packet</a> &lt;&lt; (<a class="code hl_typedef" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>)0;</div>
+<div class="line"><span class="lineno">  151</span> </div>
+<div class="line"><span class="lineno">  152</span>    <span class="keywordflow">if</span> (!searchListRequest.searchInfo.getAll)</div>
+<div class="line"><span class="lineno">  153</span>    {</div>
+<div class="line"><span class="lineno">  154</span>        <a class="code hl_typedef" href="../../de/dc3/a04319.html#a7d6d8287b2adf4a3caae16ed69a8519d">SortableAuctionEntriesList</a> auctionEntries;</div>
+<div class="line"><span class="lineno">  155</span>        <a class="code hl_function" href="../../df/ddd/a07150.html#a4f645c52213b513d3869c3934fec56df">BuildListAuctionItems</a>(searchListRequest, auctionEntries, searchableAuctionMap);</div>
+<div class="line"><span class="lineno">  156</span> </div>
+<div class="line"><span class="lineno">  157</span>        <span class="keywordflow">if</span> (!searchListRequest.searchInfo.sorting.empty() &amp;&amp; auctionEntries.size() &gt; <a class="code hl_define" href="../../de/d38/a04316.html#aa815dc22ea52ecef37fa9285358247c9">MAX_AUCTIONS_PER_PAGE</a>)</div>
+<div class="line"><span class="lineno">  158</span>        {</div>
+<div class="line"><span class="lineno">  159</span>            <a class="code hl_class" href="../../de/d85/a07146.html">AuctionSorter</a> sorter(&amp;searchListRequest.searchInfo.sorting, searchListRequest.playerInfo.loc_idx);</div>
+<div class="line"><span class="lineno">  160</span>            std::sort(auctionEntries.begin(), auctionEntries.end(), sorter);</div>
+<div class="line"><span class="lineno">  161</span>        }</div>
+<div class="line"><span class="lineno">  162</span> </div>
+<div class="line"><span class="lineno">  163</span>        SortableAuctionEntriesList::const_iterator itr = auctionEntries.begin();</div>
+<div class="line"><span class="lineno">  164</span>        <span class="keywordflow">if</span> (searchListRequest.searchInfo.listfrom)</div>
+<div class="line"><span class="lineno">  165</span>        {</div>
+<div class="line"><span class="lineno">  166</span>            <span class="keywordflow">if</span> (searchListRequest.searchInfo.listfrom &gt; auctionEntries.size())</div>
+<div class="line"><span class="lineno">  167</span>                itr = auctionEntries.end();</div>
+<div class="line"><span class="lineno">  168</span>            <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  169</span>                itr += searchListRequest.searchInfo.listfrom;</div>
+<div class="line"><span class="lineno">  170</span>        }</div>
+<div class="line"><span class="lineno">  171</span> </div>
+<div class="line"><span class="lineno">  172</span>        <span class="keywordflow">for</span> (; itr != auctionEntries.end(); ++itr)</div>
+<div class="line"><span class="lineno">  173</span>        {</div>
+<div class="line"><span class="lineno">  174</span>            (*itr)-&gt;BuildAuctionInfo(searchResponse-&gt;<a class="code hl_variable" href="../../d8/dc2/a07126.html#ad266cc5bd8e3637534055a7564047f87">packet</a>);</div>
+<div class="line"><span class="lineno">  175</span> </div>
+<div class="line"><span class="lineno">  176</span>            <span class="keywordflow">if</span> (++count &gt;= <a class="code hl_define" href="../../de/d38/a04316.html#aa815dc22ea52ecef37fa9285358247c9">MAX_AUCTIONS_PER_PAGE</a>)</div>
+<div class="line"><span class="lineno">  177</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  178</span>        }</div>
+<div class="line"><span class="lineno">  179</span> </div>
+<div class="line"><span class="lineno">  180</span>        totalCount = auctionEntries.size();</div>
+<div class="line"><span class="lineno">  181</span>    }</div>
+<div class="line"><span class="lineno">  182</span>    <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  183</span>    {</div>
+<div class="line"><span class="lineno">  184</span>        <span class="comment">// getAll handling</span></div>
+<div class="line"><span class="lineno">  185</span>        <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; pair : searchableAuctionMap)</div>
+<div class="line"><span class="lineno">  186</span>        {</div>
+<div class="line"><span class="lineno">  187</span>            std::shared_ptr&lt;SearchableAuctionEntry&gt; <span class="keyword">const</span>&amp; Aentry = pair.second;</div>
+<div class="line"><span class="lineno">  188</span>            ++count;</div>
+<div class="line"><span class="lineno">  189</span>            Aentry-&gt;BuildAuctionInfo(searchResponse-&gt;<a class="code hl_variable" href="../../d8/dc2/a07126.html#ad266cc5bd8e3637534055a7564047f87">packet</a>);</div>
+<div class="line"><span class="lineno">  190</span> </div>
+<div class="line"><span class="lineno">  191</span>            <span class="keywordflow">if</span> (count &gt;= <a class="code hl_define" href="../../de/d38/a04316.html#aa7ea0efcb608c872aa3375218f3bf857">MAX_GETALL_RETURN</a>)</div>
+<div class="line"><span class="lineno">  192</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  193</span>        }</div>
+<div class="line"><span class="lineno">  194</span> </div>
+<div class="line"><span class="lineno">  195</span>        totalCount = searchableAuctionMap.size();</div>
+<div class="line"><span class="lineno">  196</span>    }</div>
+<div class="line"><span class="lineno">  197</span> </div>
+<div class="line"><span class="lineno">  198</span>    searchResponse-&gt;<a class="code hl_variable" href="../../d8/dc2/a07126.html#ad266cc5bd8e3637534055a7564047f87">packet</a>.<a class="code hl_function" href="../../d2/d7e/a28698.html#ab14206d336f09c4096a84a27c9bb6777">put</a>&lt;<a class="code hl_typedef" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;(0, count);</div>
+<div class="line"><span class="lineno">  199</span>    searchResponse-&gt;<a class="code hl_variable" href="../../d8/dc2/a07126.html#ad266cc5bd8e3637534055a7564047f87">packet</a> &lt;&lt; totalCount;</div>
+<div class="line"><span class="lineno">  200</span>    searchResponse-&gt;<a class="code hl_variable" href="../../d8/dc2/a07126.html#ad266cc5bd8e3637534055a7564047f87">packet</a> &lt;&lt; <a class="code hl_typedef" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(<a class="code hl_define" href="../../de/d38/a04316.html#a2f8bc5839b2833512daadb09efb7794d">AUCTION_SEARCH_DELAY</a>);</div>
+<div class="line"><span class="lineno">  201</span> </div>
+<div class="line"><span class="lineno">  202</span>    <a class="code hl_variable" href="../../df/ddd/a07150.html#a68a0b0ea5c3292989471f00346ca1318">_responseQueue</a>-&gt;Enqueue(searchResponse);</div>
+<div class="line"><span class="lineno">  203</span>}</div>
+<div class="ttc" id="aa04316_html_aa7ea0efcb608c872aa3375218f3bf857"><div class="ttname"><a href="../../de/d38/a04316.html#aa7ea0efcb608c872aa3375218f3bf857">MAX_GETALL_RETURN</a></div><div class="ttdeci">#define MAX_GETALL_RETURN</div><div class="ttdef"><b>Definition:</b> AuctionHouseMgr.h:47</div></div>
+<div class="ttc" id="aa04316_html_aa815dc22ea52ecef37fa9285358247c9"><div class="ttname"><a href="../../de/d38/a04316.html#aa815dc22ea52ecef37fa9285358247c9">MAX_AUCTIONS_PER_PAGE</a></div><div class="ttdeci">#define MAX_AUCTIONS_PER_PAGE</div><div class="ttdef"><b>Definition:</b> AuctionHouseMgr.h:36</div></div>
+<div class="ttc" id="aa04319_html_a7d6d8287b2adf4a3caae16ed69a8519d"><div class="ttname"><a href="../../de/dc3/a04319.html#a7d6d8287b2adf4a3caae16ed69a8519d">SortableAuctionEntriesList</a></div><div class="ttdeci">std::vector&lt; SearchableAuctionEntry * &gt; SortableAuctionEntriesList</div><div class="ttdef"><b>Definition:</b> AuctionHouseSearcher.h:230</div></div>
+<div class="ttc" id="aa04791_html_gga1073b6abb3a749f18bf1633020879e9ba88e4be7ec455f63618242c65cd3a2671"><div class="ttname"><a href="../../db/d92/a04791.html#gga1073b6abb3a749f18bf1633020879e9ba88e4be7ec455f63618242c65cd3a2671">SMSG_AUCTION_LIST_RESULT</a></div><div class="ttdeci">@ SMSG_AUCTION_LIST_RESULT</div><div class="ttdef"><b>Definition:</b> Opcodes.h:634</div></div>
+<div class="ttc" id="aa07146_html"><div class="ttname"><a href="../../de/d85/a07146.html">AuctionSorter</a></div><div class="ttdef"><b>Definition:</b> AuctionHouseSearcher.h:233</div></div>
+<div class="ttc" id="aa07150_html_a4f645c52213b513d3869c3934fec56df"><div class="ttname"><a href="../../df/ddd/a07150.html#a4f645c52213b513d3869c3934fec56df">AuctionHouseWorkerThread::BuildListAuctionItems</a></div><div class="ttdeci">void BuildListAuctionItems(AuctionSearchListRequest const &amp;searchRequest, SortableAuctionEntriesList &amp;auctionEntries, SearchableAuctionEntriesMap const &amp;auctionMap) const</div><div class="ttdef"><b>Definition:</b> AuctionHouseSearcher.cpp:277</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00273">_responseQueue</a>, <a class="el" href="../../#l00037">AUCTION_SEARCH_DELAY</a>, <a class="el" href="../../#l00277">BuildListAuctionItems()</a>, <a class="el" href="../../#l00110">AuctionHouseSearchInfo::getAll</a>, <a class="el" href="../../#l00267">GetSearchableAuctionMap()</a>, <a class="el" href="../../#l00068">WorldPacket::Initialize()</a>, <a class="el" href="../../#l00152">AuctionSearcherRequest::listFaction</a>, <a class="el" href="../../#l00102">AuctionHouseSearchInfo::listfrom</a>, <a class="el" href="../../#l00134">AuctionHousePlayerInfo::loc_idx</a>, <a class="el" href="../../#l00036">MAX_AUCTIONS_PER_PAGE</a>, <a class="el" href="../../#l00047">MAX_GETALL_RETURN</a>, <a class="el" href="../../#l00184">AuctionSearcherResponse::packet</a>, <a class="el" href="../../#l00132">AuctionHousePlayerInfo::playerGuid</a>, <a class="el" href="../../#l00183">AuctionSearcherResponse::playerGuid</a>, <a class="el" href="../../#l00161">AuctionSearchListRequest::playerInfo</a>, <a class="el" href="../../#l00137">ByteBuffer::put()</a>, <a class="el" href="../../#l00160">AuctionSearchListRequest::searchInfo</a>, <a class="el" href="../../#l00634">SMSG_AUCTION_LIST_RESULT</a>, and <a class="el" href="../../#l00111">AuctionHouseSearchInfo::sorting</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00109">ProcessSearchRequests()</a>.</p>
+
+</div>
+</div>
+<a id="a99371b6ef770b00d4c32227392234732" name="a99371b6ef770b00d4c32227392234732"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a99371b6ef770b00d4c32227392234732">&#9670;&#160;</a></span>SearchOwnerListRequest()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AuctionHouseWorkerThread::SearchOwnerListRequest </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../df/df1/a07118.html">AuctionSearchOwnerListRequest</a> const &amp;&#160;</td>
+          <td class="paramname"><em>searchOwnerListRequest</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  206</span>{</div>
+<div class="line"><span class="lineno">  207</span>    <a class="code hl_typedef" href="../../de/dc3/a04319.html#a7cad31f048914034b12550129308e80e">SearchableAuctionEntriesMap</a> <span class="keyword">const</span>&amp; searchableAuctionMap = <a class="code hl_function" href="../../df/ddd/a07150.html#a8f0ed06055dd0c50bb65017289c6104c">GetSearchableAuctionMap</a>(searchOwnerListRequest.listFaction);</div>
+<div class="line"><span class="lineno">  208</span> </div>
+<div class="line"><span class="lineno">  209</span>    <a class="code hl_struct" href="../../d8/dc2/a07126.html">AuctionSearcherResponse</a>* searchResponse = <span class="keyword">new</span> <a class="code hl_struct" href="../../d8/dc2/a07126.html">AuctionSearcherResponse</a>();</div>
+<div class="line"><span class="lineno">  210</span>    searchResponse-&gt;<a class="code hl_variable" href="../../d8/dc2/a07126.html#a824393dda7676d4a5268d2d7d2e9d17b">playerGuid</a> = searchOwnerListRequest.ownerGuid;</div>
+<div class="line"><span class="lineno">  211</span>    searchResponse-&gt;<a class="code hl_variable" href="../../d8/dc2/a07126.html#ad266cc5bd8e3637534055a7564047f87">packet</a>.<a class="code hl_function" href="../../d3/ddb/a11102.html#a6b7d58fb0230383629fa888d3aa9dbd8">Initialize</a>(<a class="code hl_enumvalue" href="../../db/d92/a04791.html#gga1073b6abb3a749f18bf1633020879e9bada558a8a8c5d178d17b3a6c0e2aed543">SMSG_AUCTION_OWNER_LIST_RESULT</a>, (4 + 4 + 4));</div>
+<div class="line"><span class="lineno">  212</span>    searchResponse-&gt;<a class="code hl_variable" href="../../d8/dc2/a07126.html#ad266cc5bd8e3637534055a7564047f87">packet</a> &lt;&lt; (<a class="code hl_typedef" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>)0;                                     <span class="comment">// amount place holder</span></div>
+<div class="line"><span class="lineno">  213</span> </div>
+<div class="line"><span class="lineno">  214</span>    <a class="code hl_typedef" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> count = 0;</div>
+<div class="line"><span class="lineno">  215</span>    <a class="code hl_typedef" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> totalcount = 0;</div>
+<div class="line"><span class="lineno">  216</span> </div>
+<div class="line"><span class="lineno">  217</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; pair : searchableAuctionMap)</div>
+<div class="line"><span class="lineno">  218</span>    {</div>
+<div class="line"><span class="lineno">  219</span>        <span class="keywordflow">if</span> (pair.second-&gt;ownerGuid != searchOwnerListRequest.ownerGuid)</div>
+<div class="line"><span class="lineno">  220</span>            <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  221</span> </div>
+<div class="line"><span class="lineno">  222</span>        std::shared_ptr&lt;SearchableAuctionEntry&gt; <span class="keyword">const</span>&amp; auctionEntry = pair.second;</div>
+<div class="line"><span class="lineno">  223</span>        auctionEntry-&gt;BuildAuctionInfo(searchResponse-&gt;<a class="code hl_variable" href="../../d8/dc2/a07126.html#ad266cc5bd8e3637534055a7564047f87">packet</a>);</div>
+<div class="line"><span class="lineno">  224</span>        ++count;</div>
+<div class="line"><span class="lineno">  225</span>        ++totalcount;</div>
+<div class="line"><span class="lineno">  226</span>    }</div>
+<div class="line"><span class="lineno">  227</span> </div>
+<div class="line"><span class="lineno">  228</span>    searchResponse-&gt;<a class="code hl_variable" href="../../d8/dc2/a07126.html#ad266cc5bd8e3637534055a7564047f87">packet</a>.<a class="code hl_function" href="../../d2/d7e/a28698.html#ab14206d336f09c4096a84a27c9bb6777">put</a>&lt;<a class="code hl_typedef" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;(0, count);</div>
+<div class="line"><span class="lineno">  229</span>    searchResponse-&gt;<a class="code hl_variable" href="../../d8/dc2/a07126.html#ad266cc5bd8e3637534055a7564047f87">packet</a> &lt;&lt; (<a class="code hl_typedef" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>)totalcount;</div>
+<div class="line"><span class="lineno">  230</span>    searchResponse-&gt;<a class="code hl_variable" href="../../d8/dc2/a07126.html#ad266cc5bd8e3637534055a7564047f87">packet</a> &lt;&lt; <a class="code hl_typedef" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(<a class="code hl_define" href="../../de/d38/a04316.html#a2f8bc5839b2833512daadb09efb7794d">AUCTION_SEARCH_DELAY</a>);</div>
+<div class="line"><span class="lineno">  231</span> </div>
+<div class="line"><span class="lineno">  232</span>    <a class="code hl_variable" href="../../df/ddd/a07150.html#a68a0b0ea5c3292989471f00346ca1318">_responseQueue</a>-&gt;Enqueue(searchResponse);</div>
+<div class="line"><span class="lineno">  233</span>}</div>
+<div class="ttc" id="aa04791_html_gga1073b6abb3a749f18bf1633020879e9bada558a8a8c5d178d17b3a6c0e2aed543"><div class="ttname"><a href="../../db/d92/a04791.html#gga1073b6abb3a749f18bf1633020879e9bada558a8a8c5d178d17b3a6c0e2aed543">SMSG_AUCTION_OWNER_LIST_RESULT</a></div><div class="ttdeci">@ SMSG_AUCTION_OWNER_LIST_RESULT</div><div class="ttdef"><b>Definition:</b> Opcodes.h:635</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00273">_responseQueue</a>, <a class="el" href="../../#l00037">AUCTION_SEARCH_DELAY</a>, <a class="el" href="../../#l00267">GetSearchableAuctionMap()</a>, <a class="el" href="../../#l00068">WorldPacket::Initialize()</a>, <a class="el" href="../../#l00152">AuctionSearcherRequest::listFaction</a>, <a class="el" href="../../#l00169">AuctionSearchOwnerListRequest::ownerGuid</a>, <a class="el" href="../../#l00184">AuctionSearcherResponse::packet</a>, <a class="el" href="../../#l00183">AuctionSearcherResponse::playerGuid</a>, <a class="el" href="../../#l00137">ByteBuffer::put()</a>, and <a class="el" href="../../#l00635">SMSG_AUCTION_OWNER_LIST_RESULT</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00109">ProcessSearchRequests()</a>.</p>
+
+</div>
+</div>
+<a id="a64414f54c6a84546bee85eb4e46ae04f" name="a64414f54c6a84546bee85eb4e46ae04f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a64414f54c6a84546bee85eb4e46ae04f">&#9670;&#160;</a></span>SearchUpdateAdd()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AuctionHouseWorkerThread::SearchUpdateAdd </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d7/d57/a07134.html">AuctionSearchAdd</a> const &amp;&#160;</td>
+          <td class="paramname"><em>auctionAdd</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   87</span>{</div>
+<div class="line"><span class="lineno">   88</span>    <a class="code hl_typedef" href="../../de/dc3/a04319.html#a7cad31f048914034b12550129308e80e">SearchableAuctionEntriesMap</a>&amp; searchableAuctionMap = <a class="code hl_function" href="../../df/ddd/a07150.html#a8f0ed06055dd0c50bb65017289c6104c">GetSearchableAuctionMap</a>(auctionAdd.listFaction);</div>
+<div class="line"><span class="lineno">   89</span>    searchableAuctionMap.insert(std::make_pair(auctionAdd.searchableAuctionEntry-&gt;Id, auctionAdd.searchableAuctionEntry));</div>
+<div class="line"><span class="lineno">   90</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00267">GetSearchableAuctionMap()</a>, <a class="el" href="../../#l00200">AuctionSearcherUpdate::listFaction</a>, and <a class="el" href="../../#l00208">AuctionSearchAdd::searchableAuctionEntry</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00055">ProcessSearchUpdates()</a>.</p>
+
+</div>
+</div>
+<a id="ac42f800d004e90bc728df43d3c9c7244" name="ac42f800d004e90bc728df43d3c9c7244"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac42f800d004e90bc728df43d3c9c7244">&#9670;&#160;</a></span>SearchUpdateBid()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AuctionHouseWorkerThread::SearchUpdateBid </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d9/d5f/a07142.html">AuctionSearchUpdateBid</a> const &amp;&#160;</td>
+          <td class="paramname"><em>auctionUpdateBid</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   99</span>{</div>
+<div class="line"><span class="lineno">  100</span>    <a class="code hl_typedef" href="../../de/dc3/a04319.html#a7cad31f048914034b12550129308e80e">SearchableAuctionEntriesMap</a> <span class="keyword">const</span>&amp; searchableAuctionMap = <a class="code hl_function" href="../../df/ddd/a07150.html#a8f0ed06055dd0c50bb65017289c6104c">GetSearchableAuctionMap</a>(auctionUpdateBid.listFaction);</div>
+<div class="line"><span class="lineno">  101</span>    SearchableAuctionEntriesMap::const_iterator itr = searchableAuctionMap.find(auctionUpdateBid.auctionId);</div>
+<div class="line"><span class="lineno">  102</span>    <span class="keywordflow">if</span> (itr != searchableAuctionMap.end())</div>
+<div class="line"><span class="lineno">  103</span>    {</div>
+<div class="line"><span class="lineno">  104</span>        itr-&gt;second-&gt;bid = auctionUpdateBid.bid;</div>
+<div class="line"><span class="lineno">  105</span>        itr-&gt;second-&gt;bidderGuid = auctionUpdateBid.bidderGuid;</div>
+<div class="line"><span class="lineno">  106</span>    }</div>
+<div class="line"><span class="lineno">  107</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00224">AuctionSearchUpdateBid::auctionId</a>, <a class="el" href="../../#l00225">AuctionSearchUpdateBid::bid</a>, <a class="el" href="../../#l00226">AuctionSearchUpdateBid::bidderGuid</a>, <a class="el" href="../../#l00267">GetSearchableAuctionMap()</a>, and <a class="el" href="../../#l00200">AuctionSearcherUpdate::listFaction</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00055">ProcessSearchUpdates()</a>.</p>
+
+</div>
+</div>
+<a id="a31f1510cd146eac4718c6577caf72cc4" name="a31f1510cd146eac4718c6577caf72cc4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a31f1510cd146eac4718c6577caf72cc4">&#9670;&#160;</a></span>SearchUpdateRemove()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AuctionHouseWorkerThread::SearchUpdateRemove </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../db/dcc/a07138.html">AuctionSearchRemove</a> const &amp;&#160;</td>
+          <td class="paramname"><em>auctionRemove</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   93</span>{</div>
+<div class="line"><span class="lineno">   94</span>    <a class="code hl_typedef" href="../../de/dc3/a04319.html#a7cad31f048914034b12550129308e80e">SearchableAuctionEntriesMap</a>&amp; searchableAuctionMap = <a class="code hl_function" href="../../df/ddd/a07150.html#a8f0ed06055dd0c50bb65017289c6104c">GetSearchableAuctionMap</a>(auctionRemove.listFaction);</div>
+<div class="line"><span class="lineno">   95</span>    searchableAuctionMap.erase(auctionRemove.auctionId);</div>
+<div class="line"><span class="lineno">   96</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00216">AuctionSearchRemove::auctionId</a>, <a class="el" href="../../#l00267">GetSearchableAuctionMap()</a>, and <a class="el" href="../../#l00200">AuctionSearcherUpdate::listFaction</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00055">ProcessSearchUpdates()</a>.</p>
+
+</div>
+</div>
+<a id="ae5e76c712f46e8801c2b63e335a246ff" name="ae5e76c712f46e8801c2b63e335a246ff"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae5e76c712f46e8801c2b63e335a246ff">&#9670;&#160;</a></span>Stop()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void BattlefieldMgr::Update </td>
+          <td class="memname">void AuctionHouseWorkerThread::Stop </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>diff</em></td><td>)</td>
+          <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  134</span>{</div>
-<div class="line"><span class="lineno">  135</span>    <a class="code hl_variable" href="../../df/ddd/a07150.html#a4818f48ea741ae5b6b588eed9719d0ec">m_UpdateTimer</a> += diff;</div>
-<div class="line"><span class="lineno">  136</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../df/ddd/a07150.html#a4818f48ea741ae5b6b588eed9719d0ec">m_UpdateTimer</a> &gt; <a class="code hl_variable" href="../../d7/d51/a01340.html#a79df696836c3edc53ca1868aab7f6e76">BATTLEFIELD_OBJECTIVE_UPDATE_INTERVAL</a>)</div>
-<div class="line"><span class="lineno">  137</span>    {</div>
-<div class="line"><span class="lineno">  138</span>        <span class="keywordflow">for</span> (BattlefieldSet::iterator itr = <a class="code hl_variable" href="../../df/ddd/a07150.html#a0ca3259d6262b725ee46c5d29f375585">m_BattlefieldSet</a>.begin(); itr != <a class="code hl_variable" href="../../df/ddd/a07150.html#a0ca3259d6262b725ee46c5d29f375585">m_BattlefieldSet</a>.end(); ++itr)</div>
-<div class="line"><span class="lineno">  139</span>            <span class="comment">//if ((*itr)-&gt;IsEnabled())</span></div>
-<div class="line"><span class="lineno">  140</span>            (*itr)-&gt;Update(<a class="code hl_variable" href="../../df/ddd/a07150.html#a4818f48ea741ae5b6b588eed9719d0ec">m_UpdateTimer</a>);</div>
-<div class="line"><span class="lineno">  141</span>        <a class="code hl_variable" href="../../df/ddd/a07150.html#a4818f48ea741ae5b6b588eed9719d0ec">m_UpdateTimer</a> = 0;</div>
-<div class="line"><span class="lineno">  142</span>    }</div>
-<div class="line"><span class="lineno">  143</span>}</div>
-<div class="ttc" id="aa01340_html_a79df696836c3edc53ca1868aab7f6e76"><div class="ttname"><a href="../../d7/d51/a01340.html#a79df696836c3edc53ca1868aab7f6e76">BATTLEFIELD_OBJECTIVE_UPDATE_INTERVAL</a></div><div class="ttdeci">constexpr auto BATTLEFIELD_OBJECTIVE_UPDATE_INTERVAL</div><div class="ttdef"><b>Definition:</b> Battlefield.h:56</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   34</span>{</div>
+<div class="line"><span class="lineno">   35</span>    <a class="code hl_variable" href="../../df/ddd/a07150.html#af4d4c4672e67953c7c909174652b99d1">_stopped</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">   36</span>    <a class="code hl_variable" href="../../df/ddd/a07150.html#a9a386c2dc09b128fd427d5a2b44653c5">_workerThread</a>.join();</div>
+<div class="line"><span class="lineno">   37</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00056">BATTLEFIELD_OBJECTIVE_UPDATE_INTERVAL</a>, <a class="el" href="../../#l00069">m_BattlefieldSet</a>, and <a class="el" href="../../#l00074">m_UpdateTimer</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00276">_stopped</a>, and <a class="el" href="../../#l00275">_workerThread</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a364a78eb7a4b44bbd24188647d3a4f4e" name="a364a78eb7a4b44bbd24188647d3a4f4e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a364a78eb7a4b44bbd24188647d3a4f4e">&#9670;&#160;</a></span>m_BattlefieldMap</h2>
+<a id="aecd36ccabd34131c42ec1d7964b8840a" name="aecd36ccabd34131c42ec1d7964b8840a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aecd36ccabd34131c42ec1d7964b8840a">&#9670;&#160;</a></span>_auctionUpdatesQueue</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -717,7 +936,7 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../df/ddd/a07150.html#aea781a60967fbc877bd1593628cdf32d">BattlefieldMap</a> BattlefieldMgr::m_BattlefieldMap</td>
+          <td class="memname"><a class="el" href="../../d9/d61/a05402.html">LockedQueue</a>&lt;std::shared_ptr&lt;<a class="el" href="../../d1/d1a/a07130.html">AuctionSearcherUpdate</a>&gt; &gt; AuctionHouseWorkerThread::_auctionUpdatesQueue</td>
         </tr>
       </table>
   </td>
@@ -727,12 +946,12 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00079">AddZone()</a>, <a class="el" href="../../#l00110">GetBattlefieldToZoneId()</a>, <a class="el" href="../../#l00145">GetZoneScript()</a>, <a class="el" href="../../#l00084">HandlePlayerEnterZone()</a>, and <a class="el" href="../../#l00097">HandlePlayerLeaveZone()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00039">AddAuctionSearchUpdateToQueue()</a>, and <a class="el" href="../../#l00055">ProcessSearchUpdates()</a>.</p>
 
 </div>
 </div>
-<a id="a0ca3259d6262b725ee46c5d29f375585" name="a0ca3259d6262b725ee46c5d29f375585"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0ca3259d6262b725ee46c5d29f375585">&#9670;&#160;</a></span>m_BattlefieldSet</h2>
+<a id="a8b92df23eb97b8f3b11c495dbdb15696" name="a8b92df23eb97b8f3b11c495dbdb15696"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8b92df23eb97b8f3b11c495dbdb15696">&#9670;&#160;</a></span>_requestQueue</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -741,7 +960,7 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../df/ddd/a07150.html#a440a0f37414815a060e23ac6b79ca3c5">BattlefieldSet</a> BattlefieldMgr::m_BattlefieldSet</td>
+          <td class="memname"><a class="el" href="../../d9/d54/a05418.html">ProducerConsumerQueue</a>&lt;<a class="el" href="../../da/d25/a07110.html">AuctionSearcherRequest</a>*&gt;* AuctionHouseWorkerThread::_requestQueue</td>
         </tr>
       </table>
   </td>
@@ -751,12 +970,12 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00123">GetBattlefieldByBattleId()</a>, <a class="el" href="../../#l00041">InitBattlefield()</a>, <a class="el" href="../../#l00133">Update()</a>, and <a class="el" href="../../#l00028">~BattlefieldMgr()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00025">AuctionHouseWorkerThread()</a>, and <a class="el" href="../../#l00109">ProcessSearchRequests()</a>.</p>
 
 </div>
 </div>
-<a id="a4818f48ea741ae5b6b588eed9719d0ec" name="a4818f48ea741ae5b6b588eed9719d0ec"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4818f48ea741ae5b6b588eed9719d0ec">&#9670;&#160;</a></span>m_UpdateTimer</h2>
+<a id="a68a0b0ea5c3292989471f00346ca1318" name="a68a0b0ea5c3292989471f00346ca1318"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a68a0b0ea5c3292989471f00346ca1318">&#9670;&#160;</a></span>_responseQueue</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -765,7 +984,7 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> BattlefieldMgr::m_UpdateTimer</td>
+          <td class="memname"><a class="el" href="../../d5/d16/a00029.html#a6443361dced56bb64db991f954b2df47">MPSCQueue</a>&lt;<a class="el" href="../../d8/dc2/a07126.html">AuctionSearcherResponse</a>&gt;* AuctionHouseWorkerThread::_responseQueue</td>
         </tr>
       </table>
   </td>
@@ -775,7 +994,79 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00022">BattlefieldMgr()</a>, and <a class="el" href="../../#l00133">Update()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00025">AuctionHouseWorkerThread()</a>, <a class="el" href="../../#l00235">SearchBidderListRequest()</a>, <a class="el" href="../../#l00142">SearchListRequest()</a>, and <a class="el" href="../../#l00205">SearchOwnerListRequest()</a>.</p>
+
+</div>
+</div>
+<a id="a68f698401f671fb75901daea75575ce0" name="a68f698401f671fb75901daea75575ce0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a68f698401f671fb75901daea75575ce0">&#9670;&#160;</a></span>_searchableAuctionMap</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../de/dc3/a04319.html#a7cad31f048914034b12550129308e80e">SearchableAuctionEntriesMap</a> AuctionHouseWorkerThread::_searchableAuctionMap[<a class="el" href="../../de/d38/a04316.html#a948e0dd86eca242e8907f45c5f16edac">MAX_AUCTION_HOUSE_FACTIONS</a>]</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00267">GetSearchableAuctionMap()</a>.</p>
+
+</div>
+</div>
+<a id="af4d4c4672e67953c7c909174652b99d1" name="af4d4c4672e67953c7c909174652b99d1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af4d4c4672e67953c7c909174652b99d1">&#9670;&#160;</a></span>_stopped</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::atomic&lt;bool&gt; AuctionHouseWorkerThread::_stopped</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00025">AuctionHouseWorkerThread()</a>, <a class="el" href="../../#l00044">Run()</a>, and <a class="el" href="../../#l00033">Stop()</a>.</p>
+
+</div>
+</div>
+<a id="a9a386c2dc09b128fd427d5a2b44653c5" name="a9a386c2dc09b128fd427d5a2b44653c5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9a386c2dc09b128fd427d5a2b44653c5">&#9670;&#160;</a></span>_workerThread</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::thread AuctionHouseWorkerThread::_workerThread</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00025">AuctionHouseWorkerThread()</a>, and <a class="el" href="../../#l00033">Stop()</a>.</p>
 
 </div>
 </div>
@@ -784,8 +1075,8 @@ Private Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../df/ddd/a07150.html">BattlefieldMgr</a></li>
-    <li class="footer">Generated on Mon Aug 4 2025 20:51:06 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../df/ddd/a07150.html">AuctionHouseWorkerThread</a></li>
+    <li class="footer">Generated on Mon Sep 1 2025 20:43:29 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,6 +1,6 @@
 var a20234 =
 [
-    [ "npc_ulduar_hodir_mageAI", "de/d5b/a20238.html", "de/d5b/a20238" ],
-    [ "npc_ulduar_hodir_mage", "d7/d5d/a20234.html#afebdd0f99f0c7eaaf0a2d5731335105d", null ],
-    [ "GetAI", "d7/d5d/a20234.html#abcbe0337b2a83b6eb0a64f7465d7f79a", null ]
+    [ "boss_freya_elder_ironbranchAI", "de/d5b/a20238.html", "de/d5b/a20238" ],
+    [ "boss_freya_elder_ironbranch", "d7/d5d/a20234.html#a066083e4d6fde6439f7dce80be209075", null ],
+    [ "GetAI", "d7/d5d/a20234.html#a67f483d12fe801c1d840dd0f74396564", null ]
 ];

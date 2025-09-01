@@ -1,6 +1,7 @@
 var a21950 =
 [
-    [ "CheckRequirement", "d2/db7/a21950.html#ad58d71b5c2bc10d9ffbfe472bd5b1a32", null ],
-    [ "PrepareSpellScript", "d2/db7/a21950.html#ae621e95feb69b54f9aef5d77577a15ae", null ],
-    [ "Register", "d2/db7/a21950.html#ab0b03fd2d1a0ed6720acc45221a582f6", null ]
+    [ "CheckCast", "d2/db7/a21950.html#af0eb00a8dbff89d780beb07f3a714fff", null ],
+    [ "HandleScript", "d2/db7/a21950.html#a8128bb2d7588409dae73bed78d5285a7", null ],
+    [ "PrepareSpellScript", "d2/db7/a21950.html#aee17a8a21ec5df027082c6990189dccc", null ],
+    [ "Register", "d2/db7/a21950.html#a2a97265e102e9ce31997d99275b42973", null ]
 ];

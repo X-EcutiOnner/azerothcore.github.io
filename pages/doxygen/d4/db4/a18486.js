@@ -1,6 +1,6 @@
 var a18486 =
 [
-    [ "npc_valithria_portalAI", "db/d13/a18490.html", "db/d13/a18490" ],
-    [ "npc_valithria_portal", "d4/db4/a18486.html#a6014d7a57dfe5d21f63c03b3efcbdfc8", null ],
-    [ "GetAI", "d4/db4/a18486.html#a9770ad0bc3732f2271876bbc84885dc0", null ]
+    [ "ModDestHeight", "d4/db4/a18486.html#acd31e130e72cd93bee3544ecd2dc38ad", null ],
+    [ "PrepareSpellScript", "d4/db4/a18486.html#a288f8917d73be30234e465778b1f6544", null ],
+    [ "Register", "d4/db4/a18486.html#a69f9cdbfc33ec39f629f08f20484b29e", null ]
 ];

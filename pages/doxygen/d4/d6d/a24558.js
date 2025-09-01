@@ -1,8 +1,8 @@
 var a24558 =
 [
-    [ "CheckCast", "d4/d6d/a24558.html#a94851a2b6a62138e28466317e9e88480", null ],
-    [ "HandleDummy", "d4/d6d/a24558.html#a970684d219c99519512c437a8efd8d43", null ],
-    [ "PrepareSpellScript", "d4/d6d/a24558.html#a39b726e6c5809a6f8100970e8b71fc71", null ],
-    [ "Register", "d4/d6d/a24558.html#a7acf718f0a1109d384fd2b9dd23ca62c", null ],
-    [ "Validate", "d4/d6d/a24558.html#a59cca008a97447e257bf24071301b366", null ]
+    [ "npc_pet_gen_valkyr_guardian", "d4/d6d/a24558.html#a546f0b0b4273de8216e9f688c2d68209", null ],
+    [ "InitializeAI", "d4/d6d/a24558.html#ac32c8bb1e1014015a0ab92417bbc78a9", null ],
+    [ "OwnerAttacked", "d4/d6d/a24558.html#a7f0bcedd78d88cdc802ba66c0ff7d927", null ],
+    [ "UpdateAI", "d4/d6d/a24558.html#a9a5a233763365c6cca5618459a23a816", null ],
+    [ "targetCheck", "d4/d6d/a24558.html#aa530b6b6415c85cd76f44d625329c2fb", null ]
 ];

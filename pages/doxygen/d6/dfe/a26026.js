@@ -1,7 +1,6 @@
 var a26026 =
 [
-    [ "AfterRemove", "d6/dfe/a26026.html#a9dc5ef5c5545fc382e221ca9473ac3bd", null ],
-    [ "PrepareAuraScript", "d6/dfe/a26026.html#a0fd3e297a66df888f6e30f93b9f60947", null ],
-    [ "Register", "d6/dfe/a26026.html#a2b1872fa0342e0f530b61fc7a5bf876b", null ],
-    [ "Validate", "d6/dfe/a26026.html#ae08f33e0271166afa87208faa30684c4", null ]
+    [ "HandleDummy", "d6/dfe/a26026.html#aeda7eba9ab0b80b549976a4db6e9712c", null ],
+    [ "PrepareSpellScript", "d6/dfe/a26026.html#a251e93768ff684d1586286ce040a611b", null ],
+    [ "Register", "d6/dfe/a26026.html#ad1d4fa3d7bda8f4354325cc4df623b65", null ]
 ];

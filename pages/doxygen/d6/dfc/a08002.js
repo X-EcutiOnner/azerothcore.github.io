@@ -1,8 +1,9 @@
 var a08002 =
 [
-    [ "TemporaryThreatModifierEvent", "d6/dfc/a08002.html#afd58a1128ac6629d7541ba1bfd4ef886", null ],
-    [ "Execute", "d6/dfc/a08002.html#a2bbd75ad5e293e78e4bffe880f371d1e", null ],
-    [ "m_owner", "d6/dfc/a08002.html#ab786c99d73f0048a993ce7cee8c3b875", null ],
-    [ "m_threatValue", "d6/dfc/a08002.html#aacb0f6e66d22a93ff074b4cbcf12b788", null ],
-    [ "m_threatVictimGUID", "d6/dfc/a08002.html#aeae82bd80c9b8b08573c6e3baf359f55", null ]
+    [ "LFGGroupScript", "d6/dfc/a08002.html#adb7730ba67910121a255a6da535d2fc2", null ],
+    [ "OnAddMember", "d6/dfc/a08002.html#a43c29f1c4b0f78b203a8798e34e9bc4c", null ],
+    [ "OnChangeLeader", "d6/dfc/a08002.html#a3616c537eb39fe130c8fb24d93a0ead9", null ],
+    [ "OnDisband", "d6/dfc/a08002.html#a7d8d28f1919e407ed93474d970733d86", null ],
+    [ "OnInviteMember", "d6/dfc/a08002.html#a25add922fa708babe08c3bdaaa0c0d92", null ],
+    [ "OnRemoveMember", "d6/dfc/a08002.html#a1385adec817221a83653a6fa03e57858", null ]
 ];

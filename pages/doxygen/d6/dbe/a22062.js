@@ -1,9 +1,11 @@
 var a22062 =
 [
-    [ "npc_lord_areteAI", "d6/dbe/a22062.html#aebdbf8f4c2fe6948c78315e6b404119b", null ],
-    [ "InitializeAI", "d6/dbe/a22062.html#a22d0c3e2445bff2d742b28bd99f37394", null ],
-    [ "UpdateAI", "d6/dbe/a22062.html#a5cba8d4429ae191dd5b90ca5a4fe2866", null ],
-    [ "_landgrenGUID", "d6/dbe/a22062.html#ac0e3753096dfe779024acc8400791171", null ],
-    [ "_landgrenSoulGUID", "d6/dbe/a22062.html#aaa28c67691610136f0b418b30892f3cd", null ],
-    [ "events", "d6/dbe/a22062.html#ae4ec90b30320cf0aeaec4415c4125605", null ]
+    [ "npc_torturer_lecraftAI", "d6/dbe/a22062.html#a0886d83c8ab8b7db728928ecf922031b", null ],
+    [ "JustEngagedWith", "d6/dbe/a22062.html#ac6fa83aa5673bd6c90e128f06e56049e", null ],
+    [ "Reset", "d6/dbe/a22062.html#a13177e318e7777ecb13ba71c4f10f425", null ],
+    [ "SpellHit", "d6/dbe/a22062.html#a837805efcb6c99de55646a232f151ae8", null ],
+    [ "UpdateAI", "d6/dbe/a22062.html#a45919da006b0e767ec38810a6fcbac5d", null ],
+    [ "_events", "d6/dbe/a22062.html#a7879e11a94c32266ed11dc352ae7e802", null ],
+    [ "_playerGUID", "d6/dbe/a22062.html#ab792ceb52fe5c04851f69b9c2922822d", null ],
+    [ "_textCounter", "d6/dbe/a22062.html#aa7560f419ca1486efb9d6c3bda3cedf1", null ]
 ];

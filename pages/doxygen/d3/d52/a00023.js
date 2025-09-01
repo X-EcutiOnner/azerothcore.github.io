@@ -1,4 +1,6 @@
 var a00023 =
 [
-    [ "fixCoordSystem", "d3/d52/a00023.html#a8d0afbab5641bb7d88196fbad79e4cf1", null ]
+    [ "CONFIG_HIGH_PRIORITY", "d3/d52/a00023.html#a04727fe99a83f6b774ac1fb1b8468f3e", null ],
+    [ "CONFIG_PROCESSOR_AFFINITY", "d3/d52/a00023.html#a714853b6677573f2aa289978eee5b83f", null ],
+    [ "SetProcessPriority", "d3/d52/a00023.html#ac0ccc1e4fc992fb43f068cb8f6b3fd7b", null ]
 ];

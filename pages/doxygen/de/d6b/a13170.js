@@ -1,6 +1,8 @@
 var a13170 =
 [
-    [ "boss_baroness_anastariAI", "db/d69/a13174.html", "db/d69/a13174" ],
-    [ "boss_baroness_anastari", "de/d6b/a13170.html#a60f04c10d9b942cacf74a1dc8364dbbe", null ],
-    [ "GetAI", "de/d6b/a13170.html#a38073f80afbceb5535cc18ab524378a6", null ]
+    [ "CheckCast", "de/d6b/a13170.html#add6229e3f0241ccedf446a5a37cf72ce", null ],
+    [ "HandleScriptEffect", "de/d6b/a13170.html#a36bb2b95651889eaa0321a7a327e173f", null ],
+    [ "PrepareSpellScript", "de/d6b/a13170.html#a053451bd9ae6f7d639d0a977be843bc0", null ],
+    [ "Register", "de/d6b/a13170.html#a6d16f25c93eef3c17ae6b4a43d884279", null ],
+    [ "Validate", "de/d6b/a13170.html#ab0ed12fadaea4c96c7f6e43b7b385653", null ]
 ];

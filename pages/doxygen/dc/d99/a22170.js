@@ -1,5 +1,6 @@
 var a22170 =
 [
-    [ "go_pressure_valve", "dc/d99/a22170.html#a43a91a1379001ecd3e825d7d4fcd3c6b", null ],
-    [ "OnGossipHello", "dc/d99/a22170.html#a6b81a04a33cd5e1e577fc80a3b1f706c", null ]
+    [ "npc_attracted_reef_bullAI", "d2/df6/a22174.html", "d2/df6/a22174" ],
+    [ "npc_attracted_reef_bull", "dc/d99/a22170.html#acd0ade9e7ce5492c11be0b3f2696418e", null ],
+    [ "GetAI", "dc/d99/a22170.html#af705e2768cd41c955af7f944c670ac85", null ]
 ];

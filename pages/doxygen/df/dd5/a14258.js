@@ -1,7 +1,8 @@
 var a14258 =
 [
-    [ "PeriodicTick", "df/dd5/a14258.html#ac8b584ffbb1a8787f70370d94586ed77", null ],
-    [ "PrepareAuraScript", "df/dd5/a14258.html#a4e860850bbab0f14eb8a160bb5e6799e", null ],
-    [ "Register", "df/dd5/a14258.html#a5def2685cedc4fb78c1a5c534c764ee9", null ],
-    [ "Validate", "df/dd5/a14258.html#a68247c2afa553411fac34582e83635c9", null ]
+    [ "npc_spawn_of_marli", "df/dd5/a14258.html#a1dcd5066de108203903f5767c4b375ea", null ],
+    [ "JustEngagedWith", "df/dd5/a14258.html#a1b8afff5d90df02d16b81785026b2ff0", null ],
+    [ "Reset", "df/dd5/a14258.html#a79ef192d41af75e0dad0494776c75189", null ],
+    [ "UpdateAI", "df/dd5/a14258.html#a1c456e7deb43d2e4dd1abc6f702c3f75", null ],
+    [ "_scheduler", "df/dd5/a14258.html#ae9d30ec62ff25a454824ff4334ad2d99", null ]
 ];

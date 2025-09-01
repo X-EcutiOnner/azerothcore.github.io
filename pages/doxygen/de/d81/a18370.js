@@ -1,7 +1,8 @@
 var a18370 =
 [
-    [ "CalculateBonus", "de/d81/a18370.html#ae149a739150cb7eb9fb67f19130c0510", null ],
-    [ "OnPeriodic", "de/d81/a18370.html#a19697bd65a325870becc1c30d7deff36", null ],
-    [ "PrepareAuraScript", "de/d81/a18370.html#a77c272d4a26323c421e4b264f79d5b66", null ],
-    [ "Register", "de/d81/a18370.html#aecd8670e3a079c8460cddd5ce0b4f79b", null ]
+    [ "NecroticPlagueTargetCheck", "de/d81/a18370.html#abf9c21cc0041e5981a91abce8fb0a58f", null ],
+    [ "operator()", "de/d81/a18370.html#a801a176e367a9f4446fe080845477654", null ],
+    [ "_notAura1", "de/d81/a18370.html#a4f52417f233e1ab06210726670f719f3", null ],
+    [ "_notAura2", "de/d81/a18370.html#affa9b300cd7a7469b0bdf2a72d380dd6", null ],
+    [ "_sourceObj", "de/d81/a18370.html#a7cf2e485e65f2396cfdbfe8e646e4d53", null ]
 ];

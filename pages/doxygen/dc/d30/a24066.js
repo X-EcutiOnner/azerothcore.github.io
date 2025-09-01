@@ -1,6 +1,7 @@
 var a24066 =
 [
-    [ "npc_creditmarker_visit_with_ancestorsAI", "da/dc3/a24070.html", "da/dc3/a24070" ],
-    [ "npc_creditmarker_visit_with_ancestors", "dc/d30/a24066.html#a60f7abac7198d8504d944828dceb1ffa", null ],
-    [ "GetAI", "dc/d30/a24066.html#a06eb335a757c9f48fbfa64bfc326bb8e", null ]
+    [ "boss_gatewatcher_gyrokill", "dc/d30/a24066.html#a82335081dd79f7a0aa1dc0c26bd878fb", null ],
+    [ "JustDied", "dc/d30/a24066.html#a4bbfb59c2a687ebb3e88bde9784af38e", null ],
+    [ "JustEngagedWith", "dc/d30/a24066.html#a95d3ae80f87be9d972ecb056e0b85412", null ],
+    [ "KilledUnit", "dc/d30/a24066.html#a274355d0303d9bf5761758f175826bd1", null ]
 ];

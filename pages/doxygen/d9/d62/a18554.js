@@ -1,8 +1,9 @@
 var a18554 =
 [
-    [ "FilterTargets", "d9/d62/a18554.html#aed8b741160cbf50dde84cf059c8b52cb", null ],
-    [ "HandleForceCast", "d9/d62/a18554.html#ae783cf255be823bf7c9125f288479e97", null ],
-    [ "Load", "d9/d62/a18554.html#ac8f92e9284abc56d55ecf3aa73d350f8", null ],
-    [ "PrepareSpellScript", "d9/d62/a18554.html#a68074978fe2c1b137c6ddfd7b9082bfc", null ],
-    [ "Register", "d9/d62/a18554.html#a454a8909be4bb85f255ea696041ea447", null ]
+    [ "npc_spirit_wardenAI", "d9/d62/a18554.html#a3391168478345d8b5c1fee151f6e9f04", null ],
+    [ "JustDied", "d9/d62/a18554.html#aa762c0bea6361107312e8231508dc655", null ],
+    [ "Reset", "d9/d62/a18554.html#ad6076663f65f43874feb0ecfc57718a4", null ],
+    [ "UpdateAI", "d9/d62/a18554.html#af845e3e2c38af5baa84c94f6074c0caf", null ],
+    [ "_events", "d9/d62/a18554.html#a1bc5cfdee62efdd622e0fe1aa503c260", null ],
+    [ "_instance", "d9/d62/a18554.html#a58ebb8e42e77add79fc888248013eb24", null ]
 ];

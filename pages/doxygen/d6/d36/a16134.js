@@ -1,7 +1,6 @@
 var a16134 =
 [
-    [ "HandleScriptEffect", "d6/d36/a16134.html#a9582a8faa1b8ba973a76d651a7479348", null ],
-    [ "PrepareSpellScript", "d6/d36/a16134.html#a681102507df3aa365ee2e2f064be5e54", null ],
-    [ "Register", "d6/d36/a16134.html#aebfea5eb3339ede812b43a08a8cb82b9", null ],
-    [ "Validate", "d6/d36/a16134.html#ae4a5c7952856caf2a2d3919b24b61949", null ]
+    [ "boss_sartharion_tenebronAI", "d6/d5e/a16138.html", "d6/d5e/a16138" ],
+    [ "boss_sartharion_tenebron", "d6/d36/a16134.html#ada445771d2d3d01fb586f15d62e21755", null ],
+    [ "GetAI", "d6/d36/a16134.html#a2eb4555506167a4aee7b844e305d7107", null ]
 ];

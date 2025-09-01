@@ -1,7 +1,12 @@
 var a11218 =
 [
-    [ "maxvalue", "d1/d17/a11218.html#a1dd2289b0d3505cb50e8613595ad8c8e", null ],
-    [ "skill", "d1/d17/a11218.html#a8bcbe05ff6a3220f9f05f52b16925f5d", null ],
-    [ "step", "d1/d17/a11218.html#a1c882f7d43c65954cb99566225660312", null ],
-    [ "value", "d1/d17/a11218.html#a064fece53cdaf07b072510b14200a968", null ]
+    [ "SpellDestination", "d1/d17/a11218.html#aa91f31101de3139b2e2d2976dac94686", null ],
+    [ "SpellDestination", "d1/d17/a11218.html#aa27cefe3e93fedd557174a3cc8f49fe1", null ],
+    [ "SpellDestination", "d1/d17/a11218.html#a12f65757f20436b02b7aa00bb1682c8e", null ],
+    [ "SpellDestination", "d1/d17/a11218.html#a7b8949fa80249aee8bebc56620ec746c", null ],
+    [ "Relocate", "d1/d17/a11218.html#ab565861d5013130639013e3c4d22d712", null ],
+    [ "RelocateOffset", "d1/d17/a11218.html#a0bf1d731787bfed47b593d8cb4943f2a", null ],
+    [ "_position", "d1/d17/a11218.html#a6c4587b85e295d86f3479e4feeb662e5", null ],
+    [ "_transportGUID", "d1/d17/a11218.html#ad3456cf591eb32a5dd390ffbb7b27387", null ],
+    [ "_transportOffset", "d1/d17/a11218.html#a52f0f9f741985bb4d78289145fe66ba0", null ]
 ];

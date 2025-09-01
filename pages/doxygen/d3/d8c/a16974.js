@@ -1,7 +1,6 @@
 var a16974 =
 [
-    [ "UtherBatteredHiltEvent", "d3/d8c/a16974.html#a7bb34b75a3e371260a231aea72f75b40", null ],
-    [ "Execute", "d3/d8c/a16974.html#ad2eb37877155b6dbc9916338e30d0306", null ],
-    [ "_eventId", "d3/d8c/a16974.html#a5045e057b2c5d468aa579751d2c799b8", null ],
-    [ "_owner", "d3/d8c/a16974.html#a588974708f4a48f5a7b097a63a0c0899", null ]
+    [ "npc_fos_leader_secondAI", "df/d21/a16978.html", "df/d21/a16978" ],
+    [ "npc_fos_leader_second", "d3/d8c/a16974.html#a0e24659ef6e834da5a3adc8d79f0db4e", null ],
+    [ "GetAI", "d3/d8c/a16974.html#a96082888ccbb1c81be8327e5e0d84e03", null ]
 ];

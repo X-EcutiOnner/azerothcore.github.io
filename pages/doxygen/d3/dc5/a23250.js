@@ -1,6 +1,7 @@
 var a23250 =
 [
-    [ "HandleApplyAura", "d3/dc5/a23250.html#a4fde347d339f08cd01e2a47883d4b988", null ],
-    [ "PrepareSpellScript", "d3/dc5/a23250.html#ab22bd56638a6adc8d111250780221cb9", null ],
-    [ "Register", "d3/dc5/a23250.html#a1dd967ad59159faf694b8e0bfcd369ac", null ]
+    [ "OnPeriodic", "d3/dc5/a23250.html#ad64b9ba13ef7d77cd778afb8e412ad04", null ],
+    [ "PrepareAuraScript", "d3/dc5/a23250.html#a40faff90cb247203d3afafad9c44bfd7", null ],
+    [ "Register", "d3/dc5/a23250.html#a8b2d4235784396b8c29b8e7de51e5708", null ],
+    [ "Validate", "d3/dc5/a23250.html#a57b481cf462f53ec76f2db326b48c9b6", null ]
 ];

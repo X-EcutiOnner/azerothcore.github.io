@@ -1,7 +1,7 @@
 var a18926 =
 [
-    [ "npc_ioc_gunship_captainAI", "db/dc9/a18926.html#a23477a6f29b13308067c1f42ced1e9fe", null ],
-    [ "DoAction", "db/dc9/a18926.html#a89fb251869d6bfbefbca1e2d3178178a", null ],
-    [ "UpdateAI", "db/dc9/a18926.html#a222b304633143bba47d3edde67ea093b", null ],
-    [ "_events", "db/dc9/a18926.html#aa8b7c262641a5f1f86c5ae39f8b62dca", null ]
+    [ "HandleEffectPeriodic", "db/dc9/a18926.html#a208c4d59e20cd802cf2f4643fa0d6253", null ],
+    [ "PrepareAuraScript", "db/dc9/a18926.html#af1d284c4686f739b02b350a6c0a166c2", null ],
+    [ "Register", "db/dc9/a18926.html#a006a97823ac07346771ec4ab61bd0763", null ],
+    [ "Validate", "db/dc9/a18926.html#ae1f5555dcadb48ba59bf9571073f4a99", null ]
 ];

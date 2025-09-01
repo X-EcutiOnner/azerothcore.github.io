@@ -1,6 +1,7 @@
 var a24498 =
 [
-    [ "PrepareSpellScript", "dd/dac/a24498.html#a6c49fad4dc5d080b9a5550f8f30cae4d", null ],
-    [ "RecalculateDamage", "dd/dac/a24498.html#ab6a781160532d7cbb3bb3304eb412514", null ],
-    [ "Register", "dd/dac/a24498.html#a82395d00066e90abc58103b18a5ef4dc", null ]
+    [ "npc_isla_starmaneAI", "db/d65/a24502.html", "db/d65/a24502" ],
+    [ "npc_isla_starmane", "dd/dac/a24498.html#af30b3658d8f19be0dc07cb35eeb04668", null ],
+    [ "GetAI", "dd/dac/a24498.html#a0ea2dbaab4115772f92849e06aa85575", null ],
+    [ "OnQuestAccept", "dd/dac/a24498.html#afeda3da3761e96e2901ea06c5a26fa3a", null ]
 ];

@@ -1,7 +1,9 @@
 var a12198 =
 [
-    [ "boss_broodlordAI", "df/d96/a12198.html#aa7a5b16b22633439e5d20f9d47a91041", null ],
-    [ "JustDied", "df/d96/a12198.html#ab0c4dfdd5abc8edcf039d5207e8a63e8", null ],
-    [ "JustEngagedWith", "df/d96/a12198.html#ae6e26d9cd6e22426caf6ce031551f8a8", null ],
-    [ "UpdateAI", "df/d96/a12198.html#aea6fbbe31c96e94c2116733c3c66b59b", null ]
+    [ "boss_overlordwyrmthalakAI", "df/d96/a12198.html#a76f9bd309e1c5045c74bb0ba8d8bce5c", null ],
+    [ "JustDied", "df/d96/a12198.html#ade379755d256c4c290e6dc8bbd862261", null ],
+    [ "JustEngagedWith", "df/d96/a12198.html#af7780f467df92c9218700773d1257a8c", null ],
+    [ "Reset", "df/d96/a12198.html#a9dbc4cc1830703c393fbeb9c0385b709", null ],
+    [ "UpdateAI", "df/d96/a12198.html#a950b2161ed4c2441fb73f8b009c5ba30", null ],
+    [ "Summoned", "df/d96/a12198.html#a8183e3f02d931809440adc8cc0cd3654", null ]
 ];

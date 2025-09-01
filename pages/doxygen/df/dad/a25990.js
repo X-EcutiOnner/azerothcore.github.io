@@ -1,7 +1,7 @@
 var a25990 =
 [
-    [ "OnRemove", "df/dad/a25990.html#a8c39ba2fbd8c9c96de622afd8d04281e", null ],
-    [ "PrepareAuraScript", "df/dad/a25990.html#a9e13b76ceb256dec1a6c9dccd5c6c537", null ],
-    [ "Register", "df/dad/a25990.html#a9fbaec43bae2f4d6f4b94b18da0144fe", null ],
-    [ "Validate", "df/dad/a25990.html#a8f111779a3a0e68fe5a313e6eae716b3", null ]
+    [ "HandleDummy", "df/dad/a25990.html#ac3486a646322ef1b6098eeeedaec7d4b", null ],
+    [ "PrepareSpellScript", "df/dad/a25990.html#a455bdb8fb98431d47b3e414dc3b59b13", null ],
+    [ "Register", "df/dad/a25990.html#acdade97c38a75439b3da751a0c348e37", null ],
+    [ "Validate", "df/dad/a25990.html#a2081334e6b7a4191801bc0556e26198c", null ]
 ];

@@ -1,8 +1,7 @@
 var a11162 =
 [
-    [ "DirectionType", "de/d4c/a11162.html#a8491033c0286895c2d4d3280cfd529f0", null ],
-    [ "ObjectType", "de/d4c/a11162.html#a20c29be1005aa52993d4ec0a13c36f4d", null ],
-    [ "ReferenceType", "de/d4c/a11162.html#a44e310a789c4c5a288f07c9254ad389a", null ],
-    [ "SelectionCategory", "de/d4c/a11162.html#a4a42ef329b6cfcfcd7fd4ce59e8f597c", null ],
-    [ "SelectionCheckType", "de/d4c/a11162.html#a35c8d221b47de13408a0256598fa9d63", null ]
+    [ "IsValidOpcode", "de/d4c/a11162.html#afdba55f89a1c7ffb9e7c302f2269687f", null ],
+    [ "IsValidSize", "de/d4c/a11162.html#aec5192f7f57a16c9dfa244ff3874e693", null ],
+    [ "cmd", "de/d4c/a11162.html#ad0a112cb2a8a71e6e8c20e320af63f49", null ],
+    [ "size", "de/d4c/a11162.html#ac1d551036381db4f85b8dc92ea55d4ee", null ]
 ];

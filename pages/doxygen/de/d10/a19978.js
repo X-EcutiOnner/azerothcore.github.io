@@ -1,5 +1,6 @@
 var a19978 =
 [
-    [ "FlameLeviathanPursuedTargetSelector", "de/d10/a19978.html#acc855eaab1e9590e1fcfae6ed8d37815", null ],
-    [ "operator()", "de/d10/a19978.html#aaa2a49366fb651f7486b463ce597f364", null ]
+    [ "HandleInstaKill", "de/d10/a19978.html#a9371a2cc86616fd04e47939d45f01cae", null ],
+    [ "PrepareSpellScript", "de/d10/a19978.html#a38eed301f1db3ea7ac15b626e5927500", null ],
+    [ "Register", "de/d10/a19978.html#a9aaf3e86a2c14ee79cc013b3978621ee", null ]
 ];

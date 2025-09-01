@@ -1,6 +1,6 @@
 var a24390 =
 [
-    [ "PrepareSpellScript", "d2/d14/a24390.html#ae915f8f6522f0a8d308b2a5f43b8884f", null ],
-    [ "RecalculateDamage", "d2/d14/a24390.html#af01757d0968da2a096d800782ed7e66e", null ],
-    [ "Register", "d2/d14/a24390.html#a62b6613707a2a9b78d52bffe92de604e", null ]
+    [ "npc_illidari_spawnAI", "df/d5a/a24394.html", "df/d5a/a24394" ],
+    [ "npc_illidari_spawn", "d2/d14/a24390.html#ac8dbb30fe7f40d29a3434c8a888ace60", null ],
+    [ "GetAI", "d2/d14/a24390.html#a7198f506b0d4fd55d22fc72a90f42a09", null ]
 ];

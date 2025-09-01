@@ -1,7 +1,6 @@
 var a18718 =
 [
-    [ "HandleScript", "d1/d73/a18718.html#a87a2b32a9a20f032157df5ddb2cd9979", null ],
-    [ "PrepareSpellScript", "d1/d73/a18718.html#a9aca3a2a981a0cb61569200d77ca527a", null ],
-    [ "Register", "d1/d73/a18718.html#afb0289c9906d0383a22dfd0e848573f8", null ],
-    [ "Validate", "d1/d73/a18718.html#a69344370af56f033e1c1ba16f4dee174", null ]
+    [ "PeriodicTick", "d1/d73/a18718.html#ac0b2cf06027c2f658745d6a90dfc76a1", null ],
+    [ "PrepareAuraScript", "d1/d73/a18718.html#a0767ac60151517b803e871a0fcb25967", null ],
+    [ "Register", "d1/d73/a18718.html#afd1e28b224035aef5ac109f38d7e118d", null ]
 ];

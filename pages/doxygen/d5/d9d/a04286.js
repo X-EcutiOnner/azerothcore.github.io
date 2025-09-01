@@ -1,4 +1,4 @@
 var a04286 =
 [
-    [ "Acore::Encoding::Base32", "dc/d0e/a05320.html", "dc/d0e/a05320" ]
+    [ "ScriptRegistry< AllBattlegroundScript >", "d5/d9d/a04286.html#a4a1c5c34c42d3aaca9edc12feb3f7575", null ]
 ];

@@ -1,10 +1,20 @@
 var a03377 =
 [
-    [ "spell_razelikh_teleport_group", "d4/d93/a13552.html", "d4/d93/a13552" ],
-    [ "DeathlyUsher", "dd/d8e/a03377.html#aaff0e89586a03a5c2b80f93a4fe0ded7", [
-      [ "SPELL_TELEPORT_SINGLE", "dd/d8e/a03377.html#aaff0e89586a03a5c2b80f93a4fe0ded7a3cdd675db7120b3a968f19df07485e7d", null ],
-      [ "SPELL_TELEPORT_SINGLE_IN_GROUP", "dd/d8e/a03377.html#aaff0e89586a03a5c2b80f93a4fe0ded7a138ccf86c6441c7347a973d3e04c62a5", null ],
-      [ "SPELL_TELEPORT_GROUP", "dd/d8e/a03377.html#aaff0e89586a03a5c2b80f93a4fe0ded7a3efb41f1943511af5c5c1abbced10dcc", null ]
+    [ "UpdatefieldFlags", "dd/d8e/a03377.html#a811fc272bf3df65a461d871556356150", [
+      [ "UF_FLAG_NONE", "dd/d8e/a03377.html#a811fc272bf3df65a461d871556356150a7d1b4f7f2db6116940d9d5939501821a", null ],
+      [ "UF_FLAG_PUBLIC", "dd/d8e/a03377.html#a811fc272bf3df65a461d871556356150aa23748720df562a04ac4e80d7bd222da", null ],
+      [ "UF_FLAG_PRIVATE", "dd/d8e/a03377.html#a811fc272bf3df65a461d871556356150ac5ff327c7c75208435488e55a3008b3c", null ],
+      [ "UF_FLAG_OWNER", "dd/d8e/a03377.html#a811fc272bf3df65a461d871556356150ab1517a7b1049b7541d6de9ab69402715", null ],
+      [ "UF_FLAG_UNUSED1", "dd/d8e/a03377.html#a811fc272bf3df65a461d871556356150aeead926260fb10c5449766745fd71106", null ],
+      [ "UF_FLAG_ITEM_OWNER", "dd/d8e/a03377.html#a811fc272bf3df65a461d871556356150a590c2755c17b30efbb3bbff85036fb65", null ],
+      [ "UF_FLAG_SPECIAL_INFO", "dd/d8e/a03377.html#a811fc272bf3df65a461d871556356150a5715410f0568125f85e318a57c281cd8", null ],
+      [ "UF_FLAG_PARTY_MEMBER", "dd/d8e/a03377.html#a811fc272bf3df65a461d871556356150adabd2ae86a3e7c701374be7847446cb7", null ],
+      [ "UF_FLAG_UNUSED2", "dd/d8e/a03377.html#a811fc272bf3df65a461d871556356150a6b9db4521b5b4cc023e15610eef397e1", null ],
+      [ "UF_FLAG_DYNAMIC", "dd/d8e/a03377.html#a811fc272bf3df65a461d871556356150a3b75563c8e1c2bfbe672d128cce4b1e5", null ]
     ] ],
-    [ "AddSC_blasted_lands", "dd/d8e/a03377.html#a8c45aaff0bee880d1bac07d32d1747f1", null ]
+    [ "CorpseUpdateFieldFlags", "dd/d8e/a03377.html#a4ba9132e74378f888b4724dbbaf147f3", null ],
+    [ "DynamicObjectUpdateFieldFlags", "dd/d8e/a03377.html#aefe3be44e608ab4935e11ea44f8e0ce6", null ],
+    [ "GameObjectUpdateFieldFlags", "dd/d8e/a03377.html#aee13b862f51557c371d3d93341128895", null ],
+    [ "ItemUpdateFieldFlags", "dd/d8e/a03377.html#ac1cca7ecf1650663132e3e220d771adf", null ],
+    [ "UnitUpdateFieldFlags", "dd/d8e/a03377.html#a310c5b2e3065e40ce04fe5ccd84fb51b", null ]
 ];

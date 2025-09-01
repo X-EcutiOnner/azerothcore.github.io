@@ -1,11 +1,10 @@
 var a13778 =
 [
-    [ "npc_tapoke_slim_jahnAI", "db/db6/a13778.html#aeb2bca4d3233d8790b1ccfdd559f2e41", null ],
-    [ "AttackedBy", "db/db6/a13778.html#a25bf491c19fe0bb3116c6df46cb370e5", null ],
-    [ "DamageTaken", "db/db6/a13778.html#a3dbb7abb6559a6f853cc77423d7153e9", null ],
-    [ "JustEngagedWith", "db/db6/a13778.html#a544b8eaee365217a4a735ed39b4607b2", null ],
-    [ "JustSummoned", "db/db6/a13778.html#ae468305fbe930baf0a1547f2e6de9953", null ],
-    [ "Reset", "db/db6/a13778.html#a5aeaa5511584d1095639e7df584019c5", null ],
-    [ "WaypointReached", "db/db6/a13778.html#a886ba3133f77a93cfae9c4a7e9fb0609", null ],
-    [ "IsFriendSummoned", "db/db6/a13778.html#a1e4291187ff400e6f326ef4acbff41ee", null ]
+    [ "npc_grand_magister_rommathAI", "db/db6/a13778.html#a5e9404dd8bf4b513e05daac53c076314", null ],
+    [ "DoAction", "db/db6/a13778.html#a138bc8cd6f1312d83fefdf5499a479b7", null ],
+    [ "MoveInLineOfSight", "db/db6/a13778.html#ad35b64b37915484b133bcd185a832011", null ],
+    [ "UpdateAI", "db/db6/a13778.html#ac687bd20f0ae66b21ce52c21561af417", null ],
+    [ "announced", "db/db6/a13778.html#a4c9107ef5d4a85d7487ff4cf7bf6464a", null ],
+    [ "events", "db/db6/a13778.html#a4c1b6616bc88a9ad5074670843315bc6", null ],
+    [ "playerGUID", "db/db6/a13778.html#ad0ac0647feb998e837a44b0a688694e9", null ]
 ];

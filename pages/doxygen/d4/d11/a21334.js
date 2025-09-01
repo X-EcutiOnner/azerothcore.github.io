@@ -1,6 +1,6 @@
 var a21334 =
 [
-    [ "boss_ichoronAI", "de/d15/a21338.html", "de/d15/a21338" ],
-    [ "boss_ichoron", "d4/d11/a21334.html#ad4390da77a130edaf050d0bef3926882", null ],
-    [ "GetAI", "d4/d11/a21334.html#a68051088dc2d2c738b042e2df0436b28", null ]
+    [ "boss_skadiAI", "de/d15/a21338.html", "de/d15/a21338" ],
+    [ "boss_skadi", "d4/d11/a21334.html#a124c1c1de7ba232b3256a65547370464", null ],
+    [ "GetAI", "d4/d11/a21334.html#a4b66199169442af5ec6542be71c19033", null ]
 ];

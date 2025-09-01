@@ -1,5 +1,4 @@
 var a04268 =
 [
-    [ "FactoryHolder< T, O, Key >", "d5/d8b/a05232.html", "d5/d8b/a05232" ],
-    [ "Permissible< T >", "dd/d1a/a05236.html", "dd/d1a/a05236" ]
+    [ "ScriptRegistry< OutdoorPvPScript >", "d4/d1d/a04268.html#a87dac516981f5c502b37a0500f6f7882", null ]
 ];

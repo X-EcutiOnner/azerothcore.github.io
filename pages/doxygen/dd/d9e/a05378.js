@@ -1,17 +1,16 @@
 var a05378 =
 [
-    [ "LockedQueue", "dd/d9e/a05378.html#a5ce001c1fba3468b513aa7e345113128", null ],
-    [ "~LockedQueue", "dd/d9e/a05378.html#a259a03cc68a36181edebe088ef669c46", null ],
-    [ "add", "dd/d9e/a05378.html#a03f459044b4ffb413fb8d1ba98179ab8", null ],
-    [ "cancel", "dd/d9e/a05378.html#ab3d04497f8a07c5c6b6208b136a297a4", null ],
-    [ "cancelled", "dd/d9e/a05378.html#af9e2adfcd3800e9e9fa858fcacf22e2e", null ],
-    [ "empty", "dd/d9e/a05378.html#a8d62ae6a4bb93f89816714ccbb519753", null ],
-    [ "next", "dd/d9e/a05378.html#ac818ec56d60e2ec059857e0aaa99f8a4", null ],
-    [ "next", "dd/d9e/a05378.html#acaade33a01794600c72efbf389fe7664", null ],
-    [ "peek", "dd/d9e/a05378.html#af1de22fd872bb07a5ad42779d2ddbac3", null ],
-    [ "pop_front", "dd/d9e/a05378.html#aa57d3a3964071fd3e0ba6b7840041c65", null ],
-    [ "readd", "dd/d9e/a05378.html#a4eb9aea8b399a2acc2dd893e83d16120", null ],
-    [ "_canceled", "dd/d9e/a05378.html#a175454f5bf20f3a312d83e2dd5fc5d7c", null ],
-    [ "_lock", "dd/d9e/a05378.html#a64be27c5d4ab7cc4a8c559dd6e1d4ebb", null ],
-    [ "_queue", "dd/d9e/a05378.html#a55ced2abb0a6dd64554597347b61ebf1", null ]
+    [ "LogMessage", "dd/d9e/a05378.html#a563286e5cd6518e04b3069a86cf6e972", null ],
+    [ "LogMessage", "dd/d9e/a05378.html#a0a5626d481fe047437f213f1fa48a3aa", null ],
+    [ "LogMessage", "dd/d9e/a05378.html#a727fa3a719c50572711ada4e257102ab", null ],
+    [ "getTimeStr", "dd/d9e/a05378.html#aaeca452ae2fe32e7412f4abc30642da2", null ],
+    [ "getTimeStr", "dd/d9e/a05378.html#af40f502e57bf12f31fc7a2fe60584fc8", null ],
+    [ "operator=", "dd/d9e/a05378.html#af35b8fc183cb1848e965117497f50ab4", null ],
+    [ "Size", "dd/d9e/a05378.html#ad2947063f8263da27acc82ce0bba6bc2", null ],
+    [ "level", "dd/d9e/a05378.html#a44096654072d07e506ef6414a8ce4970", null ],
+    [ "mtime", "dd/d9e/a05378.html#a2dab9ed7c1aa8b784e74247667295e29", null ],
+    [ "param1", "dd/d9e/a05378.html#afcf2119e7c084339bd70e2ffb4c88d0e", null ],
+    [ "prefix", "dd/d9e/a05378.html#afe279a591acc9740457c3cd58d43a263", null ],
+    [ "text", "dd/d9e/a05378.html#a4ad799611980177ae87f3acbf2af8ff7", null ],
+    [ "type", "dd/d9e/a05378.html#a77105c721645df5654e3c48ce00c2b5a", null ]
 ];

@@ -1,6 +1,6 @@
 var a23186 =
 [
-    [ "HandleDummy", "df/da6/a23186.html#a3347413822ce083085bcf1418fbdbae2", null ],
-    [ "PrepareSpellScript", "df/da6/a23186.html#ad7b15a8c5cf3e2d38a1ce54afb24b3e5", null ],
-    [ "Register", "df/da6/a23186.html#af0c8bf6a5076a4171a9d70f6872a21d5", null ]
+    [ "HandleDummy", "df/da6/a23186.html#a85cbe85873c5f04c8fb94ad52e94afda", null ],
+    [ "PrepareSpellScript", "df/da6/a23186.html#ae483ea2ecc541f52f37456f6e9d4b380", null ],
+    [ "Register", "df/da6/a23186.html#a972574075c86c32593982add71dc893f", null ]
 ];

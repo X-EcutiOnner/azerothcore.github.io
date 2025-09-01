@@ -1,6 +1,6 @@
 var a20102 =
 [
-    [ "boss_freya_nature_bombAI", "d6/de9/a20106.html", "d6/de9/a20106" ],
-    [ "boss_freya_nature_bomb", "d9/d25/a20102.html#a18fa6ff862a1b367ac23eb1b7bda0ed4", null ],
-    [ "GetAI", "d9/d25/a20102.html#a73e24282c6bb29cf3f6a7da14a4de582", null ]
+    [ "npc_brann_radioAI", "d6/de9/a20106.html", "d6/de9/a20106" ],
+    [ "npc_brann_radio", "d9/d25/a20102.html#a22b5231f643c287d8e32d88a3b0728b2", null ],
+    [ "GetAI", "d9/d25/a20102.html#aa2ea91337262fb886e7535ba013f4b10", null ]
 ];

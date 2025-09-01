@@ -1,5 +1,7 @@
 var a23826 =
 [
-    [ "npc_thaladred", "dc/d3e/a23826.html#a2589c19d5cc48c0a5fd504aecddfaa90", null ],
-    [ "ScheduleEvents", "dc/d3e/a23826.html#a24febff1fc8b155bca0fb177a8119dbb", null ]
+    [ "HandleOnApply", "dc/d3e/a23826.html#a4d14f81325ecd0bde345d60a135ad8ba", null ],
+    [ "HandleOnRemove", "dc/d3e/a23826.html#aed5f87523c58d94c8f98b76c06abb140", null ],
+    [ "PrepareAuraScript", "dc/d3e/a23826.html#ab32413873bec92540f9e85e8013b7ea2", null ],
+    [ "Register", "dc/d3e/a23826.html#a0653d8688f98822580a3243a0d47c17a", null ]
 ];

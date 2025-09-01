@@ -1,6 +1,6 @@
 var a15602 =
 [
-    [ "npc_aquementasAI", "db/d11/a15606.html", "db/d11/a15606" ],
-    [ "npc_aquementas", "d7/de8/a15602.html#a81d0b010c2aef0ea329ff7656b76cbe5", null ],
-    [ "GetAI", "d7/de8/a15602.html#a8a071b3073d69306feb84aca347a22c8", null ]
+    [ "npc_tiger_matriarch_creditAI", "d7/de8/a15602.html#a628772971a9c2a190ffe2fae6b0b6865", null ],
+    [ "UpdateAI", "d7/de8/a15602.html#a0fc7ca1313a21c5f74539ce2dbd7465d", null ],
+    [ "events", "d7/de8/a15602.html#ae96e0de4a36dde3237520e8a0ddd9f5f", null ]
 ];

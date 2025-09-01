@@ -1,6 +1,15 @@
 var a09738 =
 [
-    [ "ServerMailItems", "d3/d85/a09738.html#a95cb2278da300c6b0385241f5a3950c1", null ],
-    [ "item", "d3/d85/a09738.html#ae03738595a87a47e831bcbeea6f97d34", null ],
-    [ "itemCount", "d3/d85/a09738.html#a4475d65dd5721d4af323ae93d15f4170", null ]
+    [ "MailSender", "d3/d85/a09738.html#a16466924bf75ea8203ba27c0f3e6188b", null ],
+    [ "MailSender", "d3/d85/a09738.html#a735cfef6950357644d6965978dde0309", null ],
+    [ "MailSender", "d3/d85/a09738.html#a145000f5ef63627ee26a5699846e06cf", null ],
+    [ "MailSender", "d3/d85/a09738.html#a9ddda06cf5ecc55efdc4525353471c5b", null ],
+    [ "MailSender", "d3/d85/a09738.html#a7d5a5e40aa20de720f310b739f159225", null ],
+    [ "MailSender", "d3/d85/a09738.html#a12c87bb414a3e8889c95091f3b51716b", null ],
+    [ "GetMailMessageType", "d3/d85/a09738.html#a64c99a49ec01d2226b6bf740edb380fb", null ],
+    [ "GetSenderId", "d3/d85/a09738.html#a03145c3fdc5bbabc64019e63e121132b", null ],
+    [ "GetStationery", "d3/d85/a09738.html#a6a4446e52e20ad7ab4817bf024b38631", null ],
+    [ "m_messageType", "d3/d85/a09738.html#a45a312eda342d2197f15d73b47d7787b", null ],
+    [ "m_senderId", "d3/d85/a09738.html#a0954b3514cfcba4258b1b266dfd71ddb", null ],
+    [ "m_stationery", "d3/d85/a09738.html#a1bbced35b4600f9a45a421d28a33393b", null ]
 ];

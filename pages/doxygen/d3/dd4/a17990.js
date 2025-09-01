@@ -1,7 +1,6 @@
 var a17990 =
 [
-    [ "HandleScript", "d3/dd4/a17990.html#aa579f99f704f4db50b38b5f9b87259d7", null ],
-    [ "PrepareSpellScript", "d3/dd4/a17990.html#a92a6f2b0d5a0845e35c07d0b5cefe053", null ],
-    [ "Register", "d3/dd4/a17990.html#a2278ecef3dc60082ccb8964a34e55587", null ],
-    [ "Validate", "d3/dd4/a17990.html#aeee94330ee7ea9b4fd7447e642404119", null ]
+    [ "PrepareSpellScript", "d3/dd4/a17990.html#a9041ce6139de9a48621d6898ddcca673", null ],
+    [ "RecalculateDamage", "d3/dd4/a17990.html#abfb7c002577a59864fb2aa069b713c0a", null ],
+    [ "Register", "d3/dd4/a17990.html#a4308449e8cbe7ed59598a837024141cb", null ]
 ];

@@ -1,7 +1,6 @@
 var a22374 =
 [
-    [ "HandleScript", "db/d8b/a22374.html#a26eb647b6c938df3aeff7981571dc475", null ],
-    [ "PrepareSpellScript", "db/d8b/a22374.html#a10114d8fa956aabff64aa0df7708f635", null ],
-    [ "Register", "db/d8b/a22374.html#a0c6c379f5dcbb417d94d8e6315aa49dd", null ],
-    [ "Validate", "db/d8b/a22374.html#adb477d34d8012c6fb45c5548fc49e127", null ]
+    [ "npc_jungle_punch_targetAI", "d8/dcf/a22378.html", "d8/dcf/a22378" ],
+    [ "npc_jungle_punch_target", "db/d8b/a22374.html#a69220634d9d6b84e464cdc4e0cba91a7", null ],
+    [ "GetAI", "db/d8b/a22374.html#abb38ccb55abfe0f48f360469031c6902", null ]
 ];

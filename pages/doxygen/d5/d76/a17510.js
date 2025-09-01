@@ -1,5 +1,6 @@
 var a17510 =
 [
-    [ "achievement_flu_shot_shortage", "d5/d76/a17510.html#af448c773bcdf31cec7ae9d7c85e9e595", null ],
-    [ "OnCheck", "d5/d76/a17510.html#a3195af1d4504ffc200c99bef84eaaa5a", null ]
+    [ "ChangeSummonPos", "d5/d76/a17510.html#a2c3d69419762c7f78688a22017a8c535", null ],
+    [ "PrepareSpellScript", "d5/d76/a17510.html#a97c48254a0d7a0bd4bcf40f614bc5373", null ],
+    [ "Register", "d5/d76/a17510.html#a9c1aad0131ebe9635c9fdbb3d71c9cdd", null ]
 ];

@@ -1,12 +1,7 @@
 var a15846 =
 [
-    [ "npc_taldaram_flamesphere", "d0/d96/a15846.html#aad7d6696b54e39c6abd27a7252353360", null ],
-    [ "DoAction", "d0/d96/a15846.html#aa79e370c1c30eccb44a46b622e2d5f2a", null ],
-    [ "IsSummonedBy", "d0/d96/a15846.html#acb232931bc181eedf4b39d5519dd45e2", null ],
-    [ "JustDied", "d0/d96/a15846.html#ae6dfff3df39257c55495707934d5d38b", null ],
-    [ "SetVictimPos", "d0/d96/a15846.html#a51f1683806095c760d4accff9e23f8b6", null ],
-    [ "UpdateAI", "d0/d96/a15846.html#a163341c0ff0f56986e2486e06e21b4b2", null ],
-    [ "instance", "d0/d96/a15846.html#afd0ff83cb5fba1fbeb85b7d600f1b1de", null ],
-    [ "moveTimer", "d0/d96/a15846.html#afe50ac59ec441ab11745ca9461158a00", null ],
-    [ "victimPos", "d0/d96/a15846.html#ae681d84f2324faf22296dcb6e08484b0", null ]
+    [ "npc_paoka_swiftmountainAI", "d2/dd5/a15850.html", "d2/dd5/a15850" ],
+    [ "npc_paoka_swiftmountain", "d0/d96/a15846.html#abb3f6fab7cca158c2e139159430f880a", null ],
+    [ "GetAI", "d0/d96/a15846.html#a3f41d2caae5acb4b79bcc75780db03d2", null ],
+    [ "OnQuestAccept", "d0/d96/a15846.html#a5bd4442350daf5a19bee1037a1b4d7b3", null ]
 ];

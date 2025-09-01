@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: RedirectSpellEvent Class Reference</title>
+<title>AzerothCore: SpellPeriodicAuraLogInfo Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,56 +106,40 @@ $(document).ready(function(){initNavTree('d1/d41/a08754.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pro-attribs">Protected Attributes</a> &#124;
+<a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../d0/d6a/a08751.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">RedirectSpellEvent Class Reference</div></div>
+  <div class="headertitle"><div class="title">SpellPeriodicAuraLogInfo Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
 <p><code>#include &quot;<a class="el" href="../../">Unit.h</a>&quot;</code></p>
-<div class="dynheader">
-Inheritance diagram for RedirectSpellEvent:</div>
-<div class="dyncontent">
- <div class="center">
-  <img src="../../d1/d41/a08754.png" usemap="#RedirectSpellEvent_map" alt=""/>
-  <map id="RedirectSpellEvent_map" name="RedirectSpellEvent_map">
-<area href="../../d8/d03/a05466.html" alt="BasicEvent" shape="rect" coords="0,0,119,24"/>
-  </map>
-</div></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a77d243d64c2fc651d71c42e10a315161"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d41/a08754.html#a77d243d64c2fc651d71c42e10a315161">RedirectSpellEvent</a> (<a class="el" href="../../de/d9c/a08742.html">Unit</a> &amp;self, <a class="el" href="../../d6/d60/a08410.html">ObjectGuid</a> auraOwnerGUID, <a class="el" href="../../d4/dd9/a11058.html">AuraEffect</a> *auraEffect)</td></tr>
-<tr class="separator:a77d243d64c2fc651d71c42e10a315161"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a34ae2bc23904558bd5f5b99e8f1c5fdc"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d41/a08754.html#a34ae2bc23904558bd5f5b99e8f1c5fdc">Execute</a> (<a class="el" href="../../d2/de7/a00014.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a> e_time, <a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> p_time) override</td></tr>
-<tr class="separator:a34ae2bc23904558bd5f5b99e8f1c5fdc"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="inherit_header pub_methods_a05466"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a05466')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../d8/d03/a05466.html">BasicEvent</a></td></tr>
-<tr class="memitem:a9c3cd17edab7fc410f88bb680d756975 inherit pub_methods_a05466"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d03/a05466.html#a9c3cd17edab7fc410f88bb680d756975">BasicEvent</a> ()=default</td></tr>
-<tr class="separator:a9c3cd17edab7fc410f88bb680d756975 inherit pub_methods_a05466"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0c3860e1c8854c2db20a225944792afd inherit pub_methods_a05466"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d03/a05466.html#a0c3860e1c8854c2db20a225944792afd">~BasicEvent</a> ()=default</td></tr>
-<tr class="separator:a0c3860e1c8854c2db20a225944792afd inherit pub_methods_a05466"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a89297a10b64d01895332655122ed8ccb inherit pub_methods_a05466"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d03/a05466.html#a89297a10b64d01895332655122ed8ccb">Execute</a> (<a class="el" href="../../d2/de7/a00014.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>, <a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>)</td></tr>
-<tr class="separator:a89297a10b64d01895332655122ed8ccb inherit pub_methods_a05466"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a62c0483af9fd1885e779cf088a50eb02 inherit pub_methods_a05466"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d03/a05466.html#a62c0483af9fd1885e779cf088a50eb02">IsDeletable</a> () const</td></tr>
-<tr class="separator:a62c0483af9fd1885e779cf088a50eb02 inherit pub_methods_a05466"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5584968148a48bd7ba072515bd489963 inherit pub_methods_a05466"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d03/a05466.html#a5584968148a48bd7ba072515bd489963">Abort</a> (<a class="el" href="../../d2/de7/a00014.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>)</td></tr>
-<tr class="separator:a5584968148a48bd7ba072515bd489963 inherit pub_methods_a05466"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:afafade0729f08b8f1193a66f50c18348 inherit pub_methods_a05466"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d03/a05466.html#afafade0729f08b8f1193a66f50c18348">ScheduleAbort</a> ()</td></tr>
-<tr class="separator:afafade0729f08b8f1193a66f50c18348 inherit pub_methods_a05466"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3c3c5908556cf765c5cbba3ca7034ae9"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d41/a08754.html#a3c3c5908556cf765c5cbba3ca7034ae9">SpellPeriodicAuraLogInfo</a> (<a class="el" href="../../de/dee/a11190.html">AuraEffect</a> const *_auraEff, <a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> _damage, <a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> _overDamage, <a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> _absorb, <a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> _resist, float _multiplier, bool _critical)</td></tr>
+<tr class="separator:a3c3c5908556cf765c5cbba3ca7034ae9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-attribs" name="pro-attribs"></a>
-Protected Attributes</h2></td></tr>
-<tr class="memitem:aecfa190843c1493b47652ccdac7ae9c3"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d9c/a08742.html">Unit</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d41/a08754.html#aecfa190843c1493b47652ccdac7ae9c3">_self</a></td></tr>
-<tr class="separator:aecfa190843c1493b47652ccdac7ae9c3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1b3fb598748362379fef15b3172d8e2b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d60/a08410.html">ObjectGuid</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d41/a08754.html#a1b3fb598748362379fef15b3172d8e2b">_auraOwnerGUID</a></td></tr>
-<tr class="separator:a1b3fb598748362379fef15b3172d8e2b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a010f14a7d389b4e9ae9896061fa18a65"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/dd9/a11058.html">AuraEffect</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d41/a08754.html#a010f14a7d389b4e9ae9896061fa18a65">_auraEffect</a></td></tr>
-<tr class="separator:a010f14a7d389b4e9ae9896061fa18a65"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
+Public Attributes</h2></td></tr>
+<tr class="memitem:ae69913fad91a8e5b140c206d2c5733e0"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/dee/a11190.html">AuraEffect</a> const  *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d41/a08754.html#ae69913fad91a8e5b140c206d2c5733e0">auraEff</a></td></tr>
+<tr class="separator:ae69913fad91a8e5b140c206d2c5733e0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa3839fed2e3de0f7a01ad209eec2bdcd"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d41/a08754.html#aa3839fed2e3de0f7a01ad209eec2bdcd">damage</a></td></tr>
+<tr class="separator:aa3839fed2e3de0f7a01ad209eec2bdcd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a51904be3790c99bded697b2cf7c8db23"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d41/a08754.html#a51904be3790c99bded697b2cf7c8db23">overDamage</a></td></tr>
+<tr class="separator:a51904be3790c99bded697b2cf7c8db23"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af69ed83578024b979dc9d65ff5ddc83b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d41/a08754.html#af69ed83578024b979dc9d65ff5ddc83b">absorb</a></td></tr>
+<tr class="separator:af69ed83578024b979dc9d65ff5ddc83b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5cb7dbeeb9d28037771a2f235a95e0fe"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d41/a08754.html#a5cb7dbeeb9d28037771a2f235a95e0fe">resist</a></td></tr>
+<tr class="separator:a5cb7dbeeb9d28037771a2f235a95e0fe"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a26b18592b0aebbdc6a00e8f91fd2a75a"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d41/a08754.html#a26b18592b0aebbdc6a00e8f91fd2a75a">multiplier</a></td></tr>
+<tr class="separator:a26b18592b0aebbdc6a00e8f91fd2a75a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a51041b901727b4f595d2a886520626ff"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d41/a08754.html#a51041b901727b4f595d2a886520626ff">critical</a></td></tr>
+<tr class="separator:a51041b901727b4f595d2a886520626ff"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a77d243d64c2fc651d71c42e10a315161" name="a77d243d64c2fc651d71c42e10a315161"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a77d243d64c2fc651d71c42e10a315161">&#9670;&#160;</a></span>RedirectSpellEvent()</h2>
+<a id="a3c3c5908556cf765c5cbba3ca7034ae9" name="a3c3c5908556cf765c5cbba3ca7034ae9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3c3c5908556cf765c5cbba3ca7034ae9">&#9670;&#160;</a></span>SpellPeriodicAuraLogInfo()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -164,22 +148,46 @@ Protected Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">RedirectSpellEvent::RedirectSpellEvent </td>
+          <td class="memname">SpellPeriodicAuraLogInfo::SpellPeriodicAuraLogInfo </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../de/d9c/a08742.html">Unit</a> &amp;&#160;</td>
-          <td class="paramname"><em>self</em>, </td>
+          <td class="paramtype"><a class="el" href="../../de/dee/a11190.html">AuraEffect</a> const *&#160;</td>
+          <td class="paramname"><em>_auraEff</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../d6/d60/a08410.html">ObjectGuid</a>&#160;</td>
-          <td class="paramname"><em>auraOwnerGUID</em>, </td>
+          <td class="paramtype"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>_damage</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../d4/dd9/a11058.html">AuraEffect</a> *&#160;</td>
-          <td class="paramname"><em>auraEffect</em>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>_overDamage</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>_absorb</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>_resist</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>_multiplier</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>_critical</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -193,147 +201,127 @@ Protected Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 2238</span>: <a class="code hl_variable" href="../../d1/d41/a08754.html#aecfa190843c1493b47652ccdac7ae9c3">_self</a>(self), <a class="code hl_variable" href="../../d1/d41/a08754.html#a1b3fb598748362379fef15b3172d8e2b">_auraOwnerGUID</a>(auraOwnerGUID), <a class="code hl_variable" href="../../d1/d41/a08754.html#a010f14a7d389b4e9ae9896061fa18a65">_auraEffect</a>(auraEffect) { }</div>
-<div class="ttc" id="aa08754_html_a010f14a7d389b4e9ae9896061fa18a65"><div class="ttname"><a href="../../d1/d41/a08754.html#a010f14a7d389b4e9ae9896061fa18a65">RedirectSpellEvent::_auraEffect</a></div><div class="ttdeci">AuraEffect * _auraEffect</div><div class="ttdef"><b>Definition:</b> Unit.h:2244</div></div>
-<div class="ttc" id="aa08754_html_a1b3fb598748362379fef15b3172d8e2b"><div class="ttname"><a href="../../d1/d41/a08754.html#a1b3fb598748362379fef15b3172d8e2b">RedirectSpellEvent::_auraOwnerGUID</a></div><div class="ttdeci">ObjectGuid _auraOwnerGUID</div><div class="ttdef"><b>Definition:</b> Unit.h:2243</div></div>
-<div class="ttc" id="aa08754_html_aecfa190843c1493b47652ccdac7ae9c3"><div class="ttname"><a href="../../d1/d41/a08754.html#aecfa190843c1493b47652ccdac7ae9c3">RedirectSpellEvent::_self</a></div><div class="ttdeci">Unit &amp; _self</div><div class="ttdef"><b>Definition:</b> Unit.h:2242</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  515</span>        : <a class="code hl_variable" href="../../d1/d41/a08754.html#ae69913fad91a8e5b140c206d2c5733e0">auraEff</a>(_auraEff), <a class="code hl_variable" href="../../d1/d41/a08754.html#aa3839fed2e3de0f7a01ad209eec2bdcd">damage</a>(_damage), <a class="code hl_variable" href="../../d1/d41/a08754.html#a51904be3790c99bded697b2cf7c8db23">overDamage</a>(_overDamage), <a class="code hl_variable" href="../../d1/d41/a08754.html#af69ed83578024b979dc9d65ff5ddc83b">absorb</a>(_absorb), <a class="code hl_variable" href="../../d1/d41/a08754.html#a5cb7dbeeb9d28037771a2f235a95e0fe">resist</a>(_resist), <a class="code hl_variable" href="../../d1/d41/a08754.html#a26b18592b0aebbdc6a00e8f91fd2a75a">multiplier</a>(_multiplier), <a class="code hl_variable" href="../../d1/d41/a08754.html#a51041b901727b4f595d2a886520626ff">critical</a>(_critical) {}</div>
+<div class="ttc" id="aa08754_html_a26b18592b0aebbdc6a00e8f91fd2a75a"><div class="ttname"><a href="../../d1/d41/a08754.html#a26b18592b0aebbdc6a00e8f91fd2a75a">SpellPeriodicAuraLogInfo::multiplier</a></div><div class="ttdeci">float multiplier</div><div class="ttdef"><b>Definition:</b> Unit.h:522</div></div>
+<div class="ttc" id="aa08754_html_a51041b901727b4f595d2a886520626ff"><div class="ttname"><a href="../../d1/d41/a08754.html#a51041b901727b4f595d2a886520626ff">SpellPeriodicAuraLogInfo::critical</a></div><div class="ttdeci">bool critical</div><div class="ttdef"><b>Definition:</b> Unit.h:523</div></div>
+<div class="ttc" id="aa08754_html_a51904be3790c99bded697b2cf7c8db23"><div class="ttname"><a href="../../d1/d41/a08754.html#a51904be3790c99bded697b2cf7c8db23">SpellPeriodicAuraLogInfo::overDamage</a></div><div class="ttdeci">uint32 overDamage</div><div class="ttdef"><b>Definition:</b> Unit.h:519</div></div>
+<div class="ttc" id="aa08754_html_a5cb7dbeeb9d28037771a2f235a95e0fe"><div class="ttname"><a href="../../d1/d41/a08754.html#a5cb7dbeeb9d28037771a2f235a95e0fe">SpellPeriodicAuraLogInfo::resist</a></div><div class="ttdeci">uint32 resist</div><div class="ttdef"><b>Definition:</b> Unit.h:521</div></div>
+<div class="ttc" id="aa08754_html_aa3839fed2e3de0f7a01ad209eec2bdcd"><div class="ttname"><a href="../../d1/d41/a08754.html#aa3839fed2e3de0f7a01ad209eec2bdcd">SpellPeriodicAuraLogInfo::damage</a></div><div class="ttdeci">uint32 damage</div><div class="ttdef"><b>Definition:</b> Unit.h:518</div></div>
+<div class="ttc" id="aa08754_html_ae69913fad91a8e5b140c206d2c5733e0"><div class="ttname"><a href="../../d1/d41/a08754.html#ae69913fad91a8e5b140c206d2c5733e0">SpellPeriodicAuraLogInfo::auraEff</a></div><div class="ttdeci">AuraEffect const  * auraEff</div><div class="ttdef"><b>Definition:</b> Unit.h:517</div></div>
+<div class="ttc" id="aa08754_html_af69ed83578024b979dc9d65ff5ddc83b"><div class="ttname"><a href="../../d1/d41/a08754.html#af69ed83578024b979dc9d65ff5ddc83b">SpellPeriodicAuraLogInfo::absorb</a></div><div class="ttdeci">uint32 absorb</div><div class="ttdef"><b>Definition:</b> Unit.h:520</div></div>
 </div><!-- fragment -->
-</div>
-</div>
-<h2 class="groupheader">Member Function Documentation</h2>
-<a id="a34ae2bc23904558bd5f5b99e8f1c5fdc" name="a34ae2bc23904558bd5f5b99e8f1c5fdc"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a34ae2bc23904558bd5f5b99e8f1c5fdc">&#9670;&#160;</a></span>Execute()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool RedirectSpellEvent::Execute </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d2/de7/a00014.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>&#160;</td>
-          <td class="paramname"><em>e_time</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>p_time</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">override</span><span class="mlabel">virtual</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p>Reimplemented from <a class="el" href="../../d8/d03/a05466.html#a89297a10b64d01895332655122ed8ccb">BasicEvent</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">11086</span>{</div>
-<div class="line"><span class="lineno">11087</span>    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../de/d9c/a08742.html">Unit</a>* auraOwner = <a class="code hl_function" href="../../da/d47/a04824.html#a02c2dfb59db7d7e2501dcc9a4f9baf07">ObjectAccessor::GetUnit</a>(<a class="code hl_variable" href="../../d1/d41/a08754.html#aecfa190843c1493b47652ccdac7ae9c3">_self</a>, <a class="code hl_variable" href="../../d1/d41/a08754.html#a1b3fb598748362379fef15b3172d8e2b">_auraOwnerGUID</a>))</div>
-<div class="line"><span class="lineno">11088</span>    {</div>
-<div class="line"><span class="lineno">11089</span>        <span class="comment">// Xinef: already removed</span></div>
-<div class="line"><span class="lineno">11090</span>        <span class="keywordflow">if</span> (!auraOwner-&gt;HasSpellMagnetAura())</div>
-<div class="line"><span class="lineno">11091</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">11092</span> </div>
-<div class="line"><span class="lineno">11093</span>        <a class="code hl_typedef" href="../../de/d9c/a08742.html#a11a2ba8f1d241167acab52b186c3fe43">Unit::AuraEffectList</a> <span class="keyword">const</span>&amp; magnetAuras = auraOwner-&gt;GetAuraEffectsByType(<a class="code hl_enumvalue" href="../../d7/daf/a01169.html#a538cdc259460b365f406fe0b3a981799abf8eba241ed858a5a96b414e595c3933">SPELL_AURA_SPELL_MAGNET</a>);</div>
-<div class="line"><span class="lineno">11094</span>        <span class="keywordflow">for</span> (Unit::AuraEffectList::const_iterator itr = magnetAuras.begin(); itr != magnetAuras.end(); ++itr)</div>
-<div class="line"><span class="lineno">11095</span>            <span class="keywordflow">if</span> (*itr == <a class="code hl_variable" href="../../d1/d41/a08754.html#a010f14a7d389b4e9ae9896061fa18a65">_auraEffect</a>)</div>
-<div class="line"><span class="lineno">11096</span>            {</div>
-<div class="line"><span class="lineno">11097</span>                (*itr)-&gt;GetBase()-&gt;DropCharge(<a class="code hl_enumvalue" href="../../d7/daf/a01169.html#a56f7dd5627e22afd9eb73530b767115ea51dd2d6d8e90e4ea4113c02fb772b80c">AURA_REMOVE_BY_DEFAULT</a>);</div>
-<div class="line"><span class="lineno">11098</span>                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">11099</span>            }</div>
-<div class="line"><span class="lineno">11100</span>    }</div>
-<div class="line"><span class="lineno">11101</span> </div>
-<div class="line"><span class="lineno">11102</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">11103</span>}</div>
-<div class="ttc" id="aa01169_html_a538cdc259460b365f406fe0b3a981799abf8eba241ed858a5a96b414e595c3933"><div class="ttname"><a href="../../d7/daf/a01169.html#a538cdc259460b365f406fe0b3a981799abf8eba241ed858a5a96b414e595c3933">SPELL_AURA_SPELL_MAGNET</a></div><div class="ttdeci">@ SPELL_AURA_SPELL_MAGNET</div><div class="ttdef"><b>Definition:</b> SpellAuraDefines.h:159</div></div>
-<div class="ttc" id="aa01169_html_a56f7dd5627e22afd9eb73530b767115ea51dd2d6d8e90e4ea4113c02fb772b80c"><div class="ttname"><a href="../../d7/daf/a01169.html#a56f7dd5627e22afd9eb73530b767115ea51dd2d6d8e90e4ea4113c02fb772b80c">AURA_REMOVE_BY_DEFAULT</a></div><div class="ttdeci">@ AURA_REMOVE_BY_DEFAULT</div><div class="ttdef"><b>Definition:</b> SpellAuraDefines.h:392</div></div>
-<div class="ttc" id="aa04824_html_a02c2dfb59db7d7e2501dcc9a4f9baf07"><div class="ttname"><a href="../../da/d47/a04824.html#a02c2dfb59db7d7e2501dcc9a4f9baf07">ObjectAccessor::GetUnit</a></div><div class="ttdeci">Unit * GetUnit(WorldObject const &amp;, ObjectGuid const guid)</div><div class="ttdef"><b>Definition:</b> ObjectAccessor.cpp:199</div></div>
-<div class="ttc" id="aa08742_html"><div class="ttname"><a href="../../de/d9c/a08742.html">Unit</a></div><div class="ttdef"><b>Definition:</b> Unit.h:620</div></div>
-<div class="ttc" id="aa08742_html_a11a2ba8f1d241167acab52b186c3fe43"><div class="ttname"><a href="../../de/d9c/a08742.html#a11a2ba8f1d241167acab52b186c3fe43">Unit::AuraEffectList</a></div><div class="ttdeci">std::vector&lt; AuraEffect * &gt; AuraEffectList</div><div class="ttdef"><b>Definition:</b> Unit.h:636</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l02244">_auraEffect</a>, <a class="el" href="../../#l02243">_auraOwnerGUID</a>, <a class="el" href="../../#l02242">_self</a>, <a class="el" href="../../#l00392">AURA_REMOVE_BY_DEFAULT</a>, <a class="el" href="../../#l00199">ObjectAccessor::GetUnit()</a>, and <a class="el" href="../../#l00159">SPELL_AURA_SPELL_MAGNET</a>.</p>
-
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a010f14a7d389b4e9ae9896061fa18a65" name="a010f14a7d389b4e9ae9896061fa18a65"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a010f14a7d389b4e9ae9896061fa18a65">&#9670;&#160;</a></span>_auraEffect</h2>
+<a id="af69ed83578024b979dc9d65ff5ddc83b" name="af69ed83578024b979dc9d65ff5ddc83b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af69ed83578024b979dc9d65ff5ddc83b">&#9670;&#160;</a></span>absorb</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d4/dd9/a11058.html">AuraEffect</a>* RedirectSpellEvent::_auraEffect</td>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SpellPeriodicAuraLogInfo::absorb</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l11085">Execute()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l06486">Unit::SendPeriodicAuraLog()</a>.</p>
 
 </div>
 </div>
-<a id="a1b3fb598748362379fef15b3172d8e2b" name="a1b3fb598748362379fef15b3172d8e2b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1b3fb598748362379fef15b3172d8e2b">&#9670;&#160;</a></span>_auraOwnerGUID</h2>
+<a id="ae69913fad91a8e5b140c206d2c5733e0" name="ae69913fad91a8e5b140c206d2c5733e0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae69913fad91a8e5b140c206d2c5733e0">&#9670;&#160;</a></span>auraEff</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d6/d60/a08410.html">ObjectGuid</a> RedirectSpellEvent::_auraOwnerGUID</td>
+          <td class="memname"><a class="el" href="../../de/dee/a11190.html">AuraEffect</a> const* SpellPeriodicAuraLogInfo::auraEff</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l11085">Execute()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l06486">Unit::SendPeriodicAuraLog()</a>.</p>
 
 </div>
 </div>
-<a id="aecfa190843c1493b47652ccdac7ae9c3" name="aecfa190843c1493b47652ccdac7ae9c3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aecfa190843c1493b47652ccdac7ae9c3">&#9670;&#160;</a></span>_self</h2>
+<a id="a51041b901727b4f595d2a886520626ff" name="a51041b901727b4f595d2a886520626ff"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a51041b901727b4f595d2a886520626ff">&#9670;&#160;</a></span>critical</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../de/d9c/a08742.html">Unit</a>&amp; RedirectSpellEvent::_self</td>
+          <td class="memname">bool SpellPeriodicAuraLogInfo::critical</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l11085">Execute()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l06486">Unit::SendPeriodicAuraLog()</a>.</p>
+
+</div>
+</div>
+<a id="aa3839fed2e3de0f7a01ad209eec2bdcd" name="aa3839fed2e3de0f7a01ad209eec2bdcd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa3839fed2e3de0f7a01ad209eec2bdcd">&#9670;&#160;</a></span>damage</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SpellPeriodicAuraLogInfo::damage</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l06486">Unit::SendPeriodicAuraLog()</a>.</p>
+
+</div>
+</div>
+<a id="a26b18592b0aebbdc6a00e8f91fd2a75a" name="a26b18592b0aebbdc6a00e8f91fd2a75a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a26b18592b0aebbdc6a00e8f91fd2a75a">&#9670;&#160;</a></span>multiplier</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">float SpellPeriodicAuraLogInfo::multiplier</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l06486">Unit::SendPeriodicAuraLog()</a>.</p>
+
+</div>
+</div>
+<a id="a51904be3790c99bded697b2cf7c8db23" name="a51904be3790c99bded697b2cf7c8db23"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a51904be3790c99bded697b2cf7c8db23">&#9670;&#160;</a></span>overDamage</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SpellPeriodicAuraLogInfo::overDamage</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l06486">Unit::SendPeriodicAuraLog()</a>.</p>
+
+</div>
+</div>
+<a id="a5cb7dbeeb9d28037771a2f235a95e0fe" name="a5cb7dbeeb9d28037771a2f235a95e0fe"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5cb7dbeeb9d28037771a2f235a95e0fe">&#9670;&#160;</a></span>resist</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SpellPeriodicAuraLogInfo::resist</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l06486">Unit::SendPeriodicAuraLog()</a>.</p>
 
 </div>
 </div>
@@ -342,8 +330,8 @@ Protected Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d1/d41/a08754.html">RedirectSpellEvent</a></li>
-    <li class="footer">Generated on Mon Aug 4 2025 20:52:06 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d1/d41/a08754.html">SpellPeriodicAuraLogInfo</a></li>
+    <li class="footer">Generated on Mon Sep 1 2025 20:44:39 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

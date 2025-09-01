@@ -1,8 +1,11 @@
 var a23442 =
 [
-    [ "npc_underbat", "db/dc7/a23442.html#a710a010d3425b7171ee45d8465fd6b2b", null ],
-    [ "JustEngagedWith", "db/dc7/a23442.html#ae137b6b763b3df6096c3bfd4dd7ee676", null ],
-    [ "Reset", "db/dc7/a23442.html#aae771ad526e8f72a90fe70ebbd91b472", null ],
-    [ "UpdateAI", "db/dc7/a23442.html#ab3a9b97543aee3fdf22c17e94f768c0e", null ],
-    [ "_scheduler", "db/dc7/a23442.html#a7644a73c2a5bcbbe0a3db5c782169752", null ]
+    [ "boss_ahune", "db/dc7/a23442.html#aa3d15e1ab37843761d9f7c56d2e5a319", null ],
+    [ "DoAction", "db/dc7/a23442.html#a9e197e8a5ecbad8487c7bad7647e6d2c", null ],
+    [ "Emerge", "db/dc7/a23442.html#a6404a8255566f2eaa061a89025e2bdcd", null ],
+    [ "EnterEvadeMode", "db/dc7/a23442.html#a2b906881621e59143a916c588beb70e7", null ],
+    [ "ExecuteEvent", "db/dc7/a23442.html#a46b477aef635de1d3ec88baa2465089f", null ],
+    [ "JustDied", "db/dc7/a23442.html#af2fc7c071321653a644ee569ead67d63", null ],
+    [ "JustEngagedWith", "db/dc7/a23442.html#aaffc4f54544c8aa4529b249560ddeeec", null ],
+    [ "Submerge", "db/dc7/a23442.html#aad68758720cc1cb703f8f2dc72c09af2", null ]
 ];

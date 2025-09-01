@@ -1,7 +1,6 @@
 var a21934 =
 [
-    [ "npc_tallhorn_stagAI", "d4/d03/a21934.html#a50947c450eece979193b45728e5e1f82", null ],
-    [ "Reset", "d4/d03/a21934.html#a67dce7ad60ddea63fcba5e1e2079fa7c", null ],
-    [ "UpdateAI", "d4/d03/a21934.html#adf60f62fa92238cb315c42e0179c3f17", null ],
-    [ "_phase", "d4/d03/a21934.html#ace2ac6f418876393d2f6d3457b1bc4c0", null ]
+    [ "npc_mindless_ghoulAI", "d4/d03/a21934.html#a4cc0dbd4aa2366115348bc1db273a5e2", null ],
+    [ "CanAIAttack", "d4/d03/a21934.html#a18fbc44ad760a69d952d003622ec75b2", null ],
+    [ "JustDied", "d4/d03/a21934.html#a272067bef6dbab24024f7de990c10b64", null ]
 ];

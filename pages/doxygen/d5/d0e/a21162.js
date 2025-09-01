@@ -1,6 +1,6 @@
 var a21162 =
 [
-    [ "boss_skadiAI", "d0/d28/a21166.html", "d0/d28/a21166" ],
-    [ "boss_skadi", "d5/d0e/a21162.html#a124c1c1de7ba232b3256a65547370464", null ],
-    [ "GetAI", "d5/d0e/a21162.html#a4b66199169442af5ec6542be71c19033", null ]
+    [ "CheckCast", "d5/d0e/a21162.html#a715a58956db4253c8adfed039833debd", null ],
+    [ "PrepareSpellScript", "d5/d0e/a21162.html#a3b03178d8ab54db36a19ba5a27444917", null ],
+    [ "Register", "d5/d0e/a21162.html#a6309c53b9e3828e76d34a77a8fe35df1", null ]
 ];

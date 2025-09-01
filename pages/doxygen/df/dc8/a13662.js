@@ -1,9 +1,8 @@
 var a13662 =
 [
-    [ "npc_marzon_silent_bladeAI", "df/dc8/a13662.html#a9f29c3b56e26421dabc2c95b8cd0407e", null ],
-    [ "EnterEvadeMode", "df/dc8/a13662.html#a0b42596550d045f5ca0096ceee80c0ac", null ],
-    [ "JustEngagedWith", "df/dc8/a13662.html#a116b3458f342811e378713e6a67f76a6", null ],
-    [ "MovementInform", "df/dc8/a13662.html#a32201d45f0c19212becb6319a48366f8", null ],
-    [ "Reset", "df/dc8/a13662.html#a51c2b16c767ce2922564dc9e4048e089", null ],
-    [ "UpdateAI", "df/dc8/a13662.html#aa6686399b41d32429d530dcc2ec41185", null ]
+    [ "HandleEffectApply", "df/dc8/a13662.html#afd47748c7db2e0a5b7da2e18dc7b53ec", null ],
+    [ "HandleEffectRemove", "df/dc8/a13662.html#a87a0061366829cbc6f856cc1f7ea1105", null ],
+    [ "Load", "df/dc8/a13662.html#a2e3b53977f188ed28d9deedbcbc03e6b", null ],
+    [ "PrepareAuraScript", "df/dc8/a13662.html#a99b97b2ed12d73e417af0b970c2a9645", null ],
+    [ "Register", "df/dc8/a13662.html#a6a90296c9903ce65913f3bba29dea176", null ]
 ];

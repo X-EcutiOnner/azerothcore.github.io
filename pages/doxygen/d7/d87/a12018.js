@@ -1,8 +1,6 @@
 var a12018 =
 [
-    [ "boss_drakkisathAI", "d7/d87/a12018.html#a7c347bcdb092afcd64b481b87d0895ea", null ],
-    [ "JustEngagedWith", "d7/d87/a12018.html#a09f7c704579bdb8dad951ce63b5a54c9", null ],
-    [ "UpdateAI", "d7/d87/a12018.html#a02ffab01744c0dbb8b5a60794e82bdb0", null ],
-    [ "_conflagrateTarget", "d7/d87/a12018.html#a6a74b74e4e4b45aec86f70a5211ddd28", null ],
-    [ "_conflagrateThreat", "d7/d87/a12018.html#aae3762b27c3d99b32f47293c544e4afe", null ]
+    [ "npc_burning_spiritAI", "d9/df9/a12022.html", "d9/df9/a12022" ],
+    [ "npc_burning_spirit", "d7/d87/a12018.html#a596e654486c82d15d7a37b069a99856d", null ],
+    [ "GetAI", "d7/d87/a12018.html#a3c704a0856d669a1e684e5a858bc4334", null ]
 ];

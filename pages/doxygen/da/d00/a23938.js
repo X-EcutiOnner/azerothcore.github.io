@@ -1,8 +1,9 @@
 var a23938 =
 [
-    [ "instance_mechanar_InstanceMapScript", "da/d00/a23938.html#a728d427162c0f56e7d229c55ff88bfbd", null ],
-    [ "OnCreatureCreate", "da/d00/a23938.html#aa0c6a84a6ace9299b18f0cc54263b398", null ],
-    [ "OnGameObjectCreate", "da/d00/a23938.html#a236a8c67ca57ffc7d2161c00e8acbd64", null ],
-    [ "OnGameObjectRemove", "da/d00/a23938.html#ac79c4f1dad7f2caf1278e242ec8fadc9", null ],
-    [ "_pathaleonGUID", "da/d00/a23938.html#aaf5c80af5ba2ba46b3c53ccffaaa1d3b", null ]
+    [ "HandleEffectApply", "da/d00/a23938.html#ac9e030810cc1ffb3927943353bcbb764", null ],
+    [ "HandleEffectRemove", "da/d00/a23938.html#a2524bb4614fa62fb703a3d3cf0c25da0", null ],
+    [ "Load", "da/d00/a23938.html#a60f41c19f5104eef82048fd1e3416abd", null ],
+    [ "PrepareAuraScript", "da/d00/a23938.html#a277d9865108acafac4b1a42bc5b5714b", null ],
+    [ "Register", "da/d00/a23938.html#a5ffe5a8b3422382482f713ff6d8514b2", null ],
+    [ "_falconSet", "da/d00/a23938.html#a1a20f75d251936bff7a0777831d79140", null ]
 ];

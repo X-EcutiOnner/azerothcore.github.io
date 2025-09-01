@@ -1,6 +1,6 @@
 var a25950 =
 [
-    [ "OnRemove", "db/dc7/a25950.html#a3803e6bbdb17e9a848376481581c993d", null ],
-    [ "PrepareAuraScript", "db/dc7/a25950.html#a6f1340b824af4604e310666e89d05b7a", null ],
-    [ "Register", "db/dc7/a25950.html#a3b361a478f1c035b706ac2e17499fb37", null ]
+    [ "HandleTriggerSpell", "db/dc7/a25950.html#a2c9f565aec4c42900037dd387549df18", null ],
+    [ "PrepareAuraScript", "db/dc7/a25950.html#a5864bbba50001cdb84b0015d08134c56", null ],
+    [ "Register", "db/dc7/a25950.html#a5a41ac9e41201ec3defc05c324a792c9", null ]
 ];

@@ -1,13 +1,17 @@
 var a09210 =
 [
-    [ "WorldObjectWorker", "d7/dd6/a09210.html#a15dd68579f1a92f015cfac8577db7422", null ],
-    [ "Visit", "d7/dd6/a09210.html#ae264461e49602fd0b8a17e30ed554c64", null ],
-    [ "Visit", "d7/dd6/a09210.html#a3021825347d132f1368a77d29a8318df", null ],
-    [ "Visit", "d7/dd6/a09210.html#a7b7869c7d151e8abc924f517ecfdef82", null ],
-    [ "Visit", "d7/dd6/a09210.html#a7de6ea339a8113d242dd099ca4d36927", null ],
-    [ "Visit", "d7/dd6/a09210.html#a29196fa36ce32a0cec68d0d67372a400", null ],
-    [ "Visit", "d7/dd6/a09210.html#a17097541c49264c15ebfe474f54aeca2", null ],
-    [ "i_do", "d7/dd6/a09210.html#aa16ce8cce21d4590ef6612e14fb48919", null ],
-    [ "i_mapTypeMask", "d7/dd6/a09210.html#a6f8e447b9693154f56ce010869acadb9", null ],
-    [ "i_phaseMask", "d7/dd6/a09210.html#affa6245985c5d271900be12104ab6bb6", null ]
+    [ "MessageDistDeliverer", "d7/dd6/a09210.html#a8f8c9fb2dadaa8c521b5036a94a4c9a4", null ],
+    [ "SendPacket", "d7/dd6/a09210.html#af085a9490dfd5a1e577bda6d8333fe1d", null ],
+    [ "Visit", "d7/dd6/a09210.html#af44878b494b1412f0d08248f6a88fff6", null ],
+    [ "Visit", "d7/dd6/a09210.html#a2e8d0ad4bdc5fc8961d9f67b6a93b69d", null ],
+    [ "Visit", "d7/dd6/a09210.html#a8c56d33ec988bfb6ba078fce00beab1a", null ],
+    [ "Visit", "d7/dd6/a09210.html#a09171ca5e494d7cc4b19340e95367a64", null ],
+    [ "Visit", "d7/dd6/a09210.html#ab8bf1e8d9f81dac6baa006262835628f", null ],
+    [ "i_distSq", "d7/dd6/a09210.html#a871dda581863f0919f1d5b2f60c2fcd9", null ],
+    [ "i_message", "d7/dd6/a09210.html#ac49c2d8b9120edbafd6b04656a6d2909", null ],
+    [ "i_phaseMask", "d7/dd6/a09210.html#abca07d041f9b45b4002f15dfff6e1c9e", null ],
+    [ "i_source", "d7/dd6/a09210.html#aa65c4e298a1302647fdaad1b1227a3a2", null ],
+    [ "required3dDist", "d7/dd6/a09210.html#abdce98d93c98513a434df80b97c096c6", null ],
+    [ "skipped_receiver", "d7/dd6/a09210.html#a7f92e1c65cdc8346dd4bac47f1ba8b5b", null ],
+    [ "teamId", "d7/dd6/a09210.html#acfda3713bbde51a110cb160f0325f848", null ]
 ];

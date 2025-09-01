@@ -1,7 +1,7 @@
 var a27614 =
 [
-    [ "npc_wormholeAI", "d4/db6/a27614.html#a75c28ce9bcbb5ef6fb4213d000d5596a", null ],
-    [ "GetData", "d4/db6/a27614.html#ad4c9f2265f126c7f2b5538bab6b75cb3", null ],
-    [ "InitializeAI", "d4/db6/a27614.html#aa0a903014ec7243036604ffcc67e0a36", null ],
-    [ "_showUnderground", "d4/db6/a27614.html#a6a2fbf623b8fc55cfd48a12e2c515134", null ]
+    [ "npc_engineering_tele_trinket", "d4/db6/a27614.html#ab891a8378a7b1b63151d05801b8b2fd1", null ],
+    [ "CanLearn", "d4/db6/a27614.html#a8a35f1c09a9df609561e76f4ed578647", null ],
+    [ "OnGossipHello", "d4/db6/a27614.html#ad11f576fb7efad0f6ea4cf22d3bc4e59", null ],
+    [ "OnGossipSelect", "d4/db6/a27614.html#a4d7125cf0333d4e5ebc299019c8feb1a", null ]
 ];

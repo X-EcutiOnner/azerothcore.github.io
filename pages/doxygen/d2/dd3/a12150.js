@@ -1,7 +1,8 @@
 var a12150 =
 [
-    [ "boss_warmastervooneAI", "d2/dd3/a12150.html#aa22519c8d3037cf07c275080b9bedcaf", null ],
-    [ "DamageTaken", "d2/dd3/a12150.html#adce28de25fa74557000d60188346e2d2", null ],
-    [ "ExecuteEvent", "d2/dd3/a12150.html#ac9dc6ef78503a87ea68d0e232b0376da", null ],
-    [ "JustEngagedWith", "d2/dd3/a12150.html#ac419c5118a45264e24e391f7575d90fb", null ]
+    [ "boss_drakkisathAI", "d2/dd3/a12150.html#a7c347bcdb092afcd64b481b87d0895ea", null ],
+    [ "JustEngagedWith", "d2/dd3/a12150.html#a09f7c704579bdb8dad951ce63b5a54c9", null ],
+    [ "UpdateAI", "d2/dd3/a12150.html#a02ffab01744c0dbb8b5a60794e82bdb0", null ],
+    [ "_conflagrateTarget", "d2/dd3/a12150.html#a6a74b74e4e4b45aec86f70a5211ddd28", null ],
+    [ "_conflagrateThreat", "d2/dd3/a12150.html#aae3762b27c3d99b32f47293c544e4afe", null ]
 ];

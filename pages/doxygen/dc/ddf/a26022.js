@@ -1,8 +1,8 @@
 var a26022 =
 [
-    [ "CheckProc", "dc/ddf/a26022.html#a801610a9f9fae5cb711850254b291268", null ],
-    [ "HandleProc", "dc/ddf/a26022.html#a3f6a53421c7c4b9346d98aa51c4ccd6d", null ],
-    [ "PrepareAuraScript", "dc/ddf/a26022.html#ad08915b0c7f35bef76ddd05a62add43c", null ],
-    [ "Register", "dc/ddf/a26022.html#a8626318b6f9b35a8b1c116062618b3c0", null ],
-    [ "Validate", "dc/ddf/a26022.html#a8a3abd528fda4aab149fb7f6e5eae00d", null ]
+    [ "HandleDummy", "dc/ddf/a26022.html#a13b4ea32e03dec26d0cdaa9537abb3b0", null ],
+    [ "Load", "dc/ddf/a26022.html#a78506404ba25b054a9ab3f7176a5d4fc", null ],
+    [ "PrepareSpellScript", "dc/ddf/a26022.html#a070e83b84feb418f02327240daebede7", null ],
+    [ "Register", "dc/ddf/a26022.html#a0c2965e62feb26ca764636fcd3a1f885", null ],
+    [ "Validate", "dc/ddf/a26022.html#a48934cde38c6f3b18087267b616ff338", null ]
 ];

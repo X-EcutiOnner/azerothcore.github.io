@@ -1,7 +1,5 @@
 var a12310 =
 [
-    [ "HandleDummy", "d0/db0/a12310.html#a21c5eb1511cb4035f795ff1d22797e34", null ],
-    [ "PrepareSpellScript", "d0/db0/a12310.html#a5308de47023b89e4ff8680158a502ac0", null ],
-    [ "Register", "d0/db0/a12310.html#a5f148d259b1102b1046e6a3ac096fea8", null ],
-    [ "Validate", "d0/db0/a12310.html#a75f89d90b9e68288e54e1e0bd3b2ce98", null ]
+    [ "at_scarshield_infiltrator", "d0/db0/a12310.html#a2d1df47353c9a7e0d506b7c54e7be58e", null ],
+    [ "OnTrigger", "d0/db0/a12310.html#a607c3ee2bd4716cf1e0499e202d379fc", null ]
 ];

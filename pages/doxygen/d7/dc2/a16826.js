@@ -1,6 +1,6 @@
 var a16826 =
 [
-    [ "boss_falricAI", "d5/d1b/a16830.html", "d5/d1b/a16830" ],
-    [ "boss_falric", "d7/dc2/a16826.html#aa64253f502f79db5947c09788fb66deb", null ],
-    [ "GetAI", "d7/dc2/a16826.html#a95249877208d19bb54edd8de18616158", null ]
+    [ "OnPeriodic", "d7/dc2/a16826.html#a6f2e191d76f894517aed395866b7e508", null ],
+    [ "PrepareAuraScript", "d7/dc2/a16826.html#a571ee1c735b6095408973bfe5f91bcf7", null ],
+    [ "Register", "d7/dc2/a16826.html#a6094dc303c034e49fb4e543874db080b", null ]
 ];

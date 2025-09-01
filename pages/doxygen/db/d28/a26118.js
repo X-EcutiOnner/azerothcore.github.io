@@ -1,8 +1,7 @@
 var a26118 =
 [
-    [ "Load", "db/d28/a26118.html#a7662d85a5469c20edf6d2eefca820db3", null ],
-    [ "PrepareAuraScript", "db/d28/a26118.html#a252bd975a7639eab4e151249db974b7c", null ],
-    [ "Register", "db/d28/a26118.html#a51723a22f1062f44e8eb6848e1398595", null ],
-    [ "Split", "db/d28/a26118.html#a08e982eae6030fdc679663bfd38bca47", null ],
-    [ "remainingAmount", "db/d28/a26118.html#afaab88988769ddc720deb44f06de3d7d", null ]
+    [ "OnApply", "db/d28/a26118.html#aa86d7b45f028773b8666c06d3a0e60b4", null ],
+    [ "OnRemove", "db/d28/a26118.html#a0fdd3c926bb1b2846579102e64e8e18c", null ],
+    [ "PrepareAuraScript", "db/d28/a26118.html#aa93b45e31c33caf3ea51a26846566b34", null ],
+    [ "Register", "db/d28/a26118.html#a56d819c88a4e70a89cef5183e3c5b728", null ]
 ];

@@ -1,6 +1,6 @@
 var a17302 =
 [
-    [ "npc_ball_of_flameAI", "d3/d95/a17306.html", "d3/d95/a17306" ],
-    [ "npc_ball_of_flame", "db/d01/a17302.html#a353bf8385dea6c2e4a489bd14c87e0fe", null ],
-    [ "GetAI", "db/d01/a17302.html#ac0309668f9f0ca85a644d4928966e577", null ]
+    [ "HandleEffectPeriodic", "db/d01/a17302.html#a8a165d3931353fefc2e6a7c7f309150e", null ],
+    [ "PrepareAuraScript", "db/d01/a17302.html#a2de3b6d4e32832ec7ce4548df23d3d5c", null ],
+    [ "Register", "db/d01/a17302.html#a3593ab75583bb5b9b31b29ba2c3cdd76", null ]
 ];

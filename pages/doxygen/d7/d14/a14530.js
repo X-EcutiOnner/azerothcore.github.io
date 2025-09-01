@@ -1,6 +1,7 @@
 var a14530 =
 [
-    [ "HandleDummy", "d7/d14/a14530.html#aa75140309e66c28590a64e10676356da", null ],
-    [ "PrepareSpellScript", "d7/d14/a14530.html#a21c4872e16c18c2918dfbea366e61df3", null ],
-    [ "Register", "d7/d14/a14530.html#a841c9277224cbae878946deb288b87a1", null ]
+    [ "HandleEffectApply", "d7/d14/a14530.html#a22f3143b10155635194abe22994a397c", null ],
+    [ "HandleEffectRemove", "d7/d14/a14530.html#a2ecc50fa3c14918b6eace63eac75eb96", null ],
+    [ "PrepareAuraScript", "d7/d14/a14530.html#abb4f53a42e701323b2fc66598ec3503c", null ],
+    [ "Register", "d7/d14/a14530.html#ad1ff6d29459d9a38fcdef3f6c7007f6b", null ]
 ];

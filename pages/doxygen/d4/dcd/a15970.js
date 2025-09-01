@@ -1,6 +1,6 @@
 var a15970 =
 [
-    [ "boss_sartharion_shadronAI", "d8/d94/a15974.html", "d8/d94/a15974" ],
-    [ "boss_sartharion_shadron", "d4/dcd/a15970.html#ac297719abff8c795af10973492fc6fbe", null ],
-    [ "GetAI", "d4/dcd/a15970.html#a95c7184ee7589f01920adc57a7df963b", null ]
+    [ "HandleApply", "d4/dcd/a15970.html#aee4d5908035d06be2f1469a50db02e26", null ],
+    [ "PrepareAuraScript", "d4/dcd/a15970.html#ac8349deb2e9c8861194e80132bd72fc5", null ],
+    [ "Register", "d4/dcd/a15970.html#ac83962bef84b68cef6d7937769730598", null ]
 ];

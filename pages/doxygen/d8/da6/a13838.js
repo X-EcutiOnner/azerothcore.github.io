@@ -1,5 +1,6 @@
 var a13838 =
 [
-    [ "entry", "d8/da6/a13838.html#ad7431eb64907aed0a03205a37c65a735", null ],
-    [ "pos", "d8/da6/a13838.html#ab60283e91e81c141f3b31218aa4442a3", null ]
+    [ "npc_tyrion_spybotAI", "d3/db7/a13842.html", "d3/db7/a13842" ],
+    [ "npc_tyrion_spybot", "d8/da6/a13838.html#a7e0eed1b51ffe1df2d8ae2ad37f26528", null ],
+    [ "GetAI", "d8/da6/a13838.html#af81b70437703edc8d99fe24249891dd6", null ]
 ];

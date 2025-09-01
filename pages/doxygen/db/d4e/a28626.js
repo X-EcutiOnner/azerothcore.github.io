@@ -1,7 +1,6 @@
 var a28626 =
 [
-    [ "asyncId", "db/d4e/a28626.html#afd18849875b4562e4a532903676ce25d", null ],
-    [ "flags", "db/d4e/a28626.html#a9b9c3cec4acbd87911aa047dd52ae443", null ],
-    [ "offsMCNK", "db/d4e/a28626.html#a063c5dc62c44038e882340221bf8228a", null ],
-    [ "size", "db/d4e/a28626.html#a47a5eeb595d53de009651ae02d2b416d", null ]
+    [ "categoryMask", "db/d4e/a28626.html#abd8816e5dda7bda455ccd6932647c4be", null ],
+    [ "categoryType", "db/d4e/a28626.html#a954f9fca8d0d84d5aec66f4a3f642f96", null ],
+    [ "ID", "db/d4e/a28626.html#a2e0f0cb7a05da77dee49bd7221c01d60", null ]
 ];

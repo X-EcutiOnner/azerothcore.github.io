@@ -1,6 +1,7 @@
 var a19198 =
 [
-    [ "DespawnTime", "d9/d8b/a19198.html#ae14c357137f16666c74e5f7e3f77aed5", null ],
-    [ "End", "d9/d8b/a19198.html#ac87ea314ccf946eb1fa35985e35c81fd", null ],
-    [ "Start", "d9/d8b/a19198.html#a985271de503fa704a58abe3e64c3b268", null ]
+    [ "FilterTargets", "d9/d8b/a19198.html#a56ff062a6014099623466145a66284cc", null ],
+    [ "PrepareSpellScript", "d9/d8b/a19198.html#aa14623bb948ff457e52979facf74ffab", null ],
+    [ "Register", "d9/d8b/a19198.html#a9494bea35088161c9a520395d714fde1", null ],
+    [ "Validate", "d9/d8b/a19198.html#a6a02bc1a79a5f4fefe3b1e2900eaf0b4", null ]
 ];

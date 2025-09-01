@@ -1,7 +1,8 @@
 var a13450 =
 [
-    [ "HandleAfterCast", "d3/d9e/a13450.html#a251ddadd9d26039da542c402e4ee254f", null ],
-    [ "PrepareSpellScript", "d3/d9e/a13450.html#a91114aeb4f917ec5138a0c7b20688174", null ],
-    [ "Register", "d3/d9e/a13450.html#a42960206e2444d8e6fb8fdc4d80a534b", null ],
-    [ "Validate", "d3/d9e/a13450.html#ad4012436a41537fc5ae854c0c48f09b1", null ]
+    [ "npc_demonic_vapor", "d3/d9e/a13450.html#aee2e1b7372b8125b49e8466a2406ff00", null ],
+    [ "IsSummonedBy", "d3/d9e/a13450.html#ace56fe54dc6d3f597df0d1e28924082f", null ],
+    [ "Reset", "d3/d9e/a13450.html#a7d2b88ab26904cedaac34f03567806bc", null ],
+    [ "UpdateAI", "d3/d9e/a13450.html#a6637d2d5fc6615c2d76aa0d04c36a047", null ],
+    [ "_timer", "d3/d9e/a13450.html#ab067f5b9b9f37db4db9ab6e5295e5d52", null ]
 ];

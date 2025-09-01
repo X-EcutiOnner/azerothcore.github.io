@@ -1,11 +1,7 @@
 var a23482 =
 [
-    [ "boss_high_king_maulgar", "d1/d95/a23482.html#a8a835570bd4ff5361b2025b2aaeec91f", null ],
-    [ "DoAction", "d1/d95/a23482.html#a210e9c3d42e9201b9fbee0d7776cbcc5", null ],
-    [ "JustDied", "d1/d95/a23482.html#ad235febd755745313b72394c633c3723", null ],
-    [ "JustEngagedWith", "d1/d95/a23482.html#a6ad48aba60a01df62c1ae62e6480a14d", null ],
-    [ "KilledUnit", "d1/d95/a23482.html#a2059016597039929103c053d6524ebf7", null ],
-    [ "Reset", "d1/d95/a23482.html#adf1bf1c8c75fc9bbed871af157c6663c", null ],
-    [ "UpdateAI", "d1/d95/a23482.html#ae540909dbbb3cf93e37503cd755c3001", null ],
-    [ "_recentlySpoken", "d1/d95/a23482.html#a306f8492d83703b339a8fbe044e0cbbd", null ]
+    [ "PeriodicTick", "d1/d95/a23482.html#a94bee50f214d0a61fa81c4cca1b38fb2", null ],
+    [ "PrepareAuraScript", "d1/d95/a23482.html#a2c34fbc5c12be43b1c054cf4b23542cb", null ],
+    [ "Register", "d1/d95/a23482.html#ae1479b53d8c0575947a7ce7cae4747c4", null ],
+    [ "Validate", "d1/d95/a23482.html#ade8d57db324f02734e1752f49976dc9d", null ]
 ];

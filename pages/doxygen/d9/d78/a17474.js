@@ -1,7 +1,6 @@
 var a17474 =
 [
-    [ "FilterTargets", "d9/d78/a17474.html#aeae290d20ade37eb839c1bf3c9ae59bf", null ],
-    [ "Load", "d9/d78/a17474.html#a38bf6d96c6a78e5105d0369eb993e58c", null ],
-    [ "PrepareSpellScript", "d9/d78/a17474.html#a815c99e9ef570287af5d45c32bdc5b8c", null ],
-    [ "Register", "d9/d78/a17474.html#a33342cc676adaabe5e3896fa559631b7", null ]
+    [ "npc_ball_of_flameAI", "d9/dc9/a17478.html", "d9/dc9/a17478" ],
+    [ "npc_ball_of_flame", "d9/d78/a17474.html#a353bf8385dea6c2e4a489bd14c87e0fe", null ],
+    [ "GetAI", "d9/d78/a17474.html#ac0309668f9f0ca85a644d4928966e577", null ]
 ];

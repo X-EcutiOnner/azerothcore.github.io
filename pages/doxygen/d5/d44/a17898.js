@@ -1,7 +1,6 @@
 var a17898 =
 [
-    [ "HandleTriggerSpell", "d5/d44/a17898.html#a109dc4f189a64ac3b5949191d6abd2be", null ],
-    [ "OnRemove", "d5/d44/a17898.html#a238adc96e80c1890934b23dd4a2685b4", null ],
-    [ "PrepareAuraScript", "d5/d44/a17898.html#af9ce7433b620fdf1dea570561c514b3b", null ],
-    [ "Register", "d5/d44/a17898.html#ab36a001ea8cd87703e2694e0765635c0", null ]
+    [ "DaranavanMoveEvent", "d5/d44/a17898.html#add38d87b9108c09aa9b9fd60f12abcde", null ],
+    [ "Execute", "d5/d44/a17898.html#ada0ebc4a9c9f949dd0155a554a553543", null ],
+    [ "_darnavan", "d5/d44/a17898.html#a7585edb957755efbc6064f232d50ea4e", null ]
 ];

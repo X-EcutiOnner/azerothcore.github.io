@@ -1,5 +1,6 @@
 var a24434 =
 [
-    [ "npc_pet_pri_lightwell", "d4/da5/a24434.html#aebeb192e66c7d5b4201cbaa81d46703c", null ],
-    [ "InitializeAI", "d4/da5/a24434.html#a5244bcfab27ccad603f80c6f2b2fcd3a", null ]
+    [ "npc_shattrathflaskvendors", "d4/da5/a24434.html#ab74b234406c2022bf519242a7842458a", null ],
+    [ "OnGossipHello", "d4/da5/a24434.html#af165d6f4640b41a92b36d77c1f1c1161", null ],
+    [ "OnGossipSelect", "d4/da5/a24434.html#ad9eb60422dfc663e6d020a630c09ee05", null ]
 ];

@@ -1,6 +1,6 @@
 var a25718 =
 [
-    [ "HandleScript", "df/d43/a25718.html#a382dd0eb5ebc2f5da70561eaaf1f8d3d", null ],
-    [ "PrepareSpellScript", "df/d43/a25718.html#a4f0f4d29231ef1976d726b66f6277ca8", null ],
-    [ "Register", "df/d43/a25718.html#ad75843039e582b64da28b4818f48aeb3", null ]
+    [ "HandleDummy", "df/d43/a25718.html#a8b9510efa5af25ef698fc6eb49b19b69", null ],
+    [ "PrepareSpellScript", "df/d43/a25718.html#a80b89fbd2506191b897dcf367ff11500", null ],
+    [ "Register", "df/d43/a25718.html#a522730e5ba844728c0b3d6f423cd123a", null ]
 ];

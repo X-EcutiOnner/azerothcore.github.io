@@ -1,8 +1,5 @@
 var a18598 =
 [
-    [ "npc_rotting_frost_giantAI", "d1/dad/a18598.html#a7b412075e17a81bf50aba63f96c16e53", null ],
-    [ "JustDied", "d1/dad/a18598.html#a68b4e823de82fdfd31ccf765192e8768", null ],
-    [ "Reset", "d1/dad/a18598.html#ae96994e7c02a1fb8df8ef9fe80d7bc41", null ],
-    [ "UpdateAI", "d1/dad/a18598.html#a7bb99a6ff894c085bf3fb2e2708f3914", null ],
-    [ "_events", "d1/dad/a18598.html#ab061ea54c2b36f6f1c2ec7841202e684", null ]
+    [ "achievement_been_waiting_long_time", "d1/dad/a18598.html#a839ec8cb50512bbae7125ead3ed35aec", null ],
+    [ "OnCheck", "d1/dad/a18598.html#a5e72304220d3a649d2182cb287215da6", null ]
 ];

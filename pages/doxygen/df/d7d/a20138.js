@@ -1,8 +1,8 @@
 var a20138 =
 [
-    [ "npc_ulduar_saronite_animusAI", "df/d7d/a20138.html#a2b94427feb24a7bda075b6a8f403433a", null ],
-    [ "JustDied", "df/d7d/a20138.html#a30abcab01de3732bc5525864576615b0", null ],
-    [ "UpdateAI", "df/d7d/a20138.html#a1490961adc8fc03ab28a992aff55b43b", null ],
-    [ "pInstance", "df/d7d/a20138.html#a5d3b297355f286b0ad08ed38dbd5b0d2", null ],
-    [ "timer", "df/d7d/a20138.html#a3d0345d4c503eb3f0e4acbe346f1c5e5", null ]
+    [ "OnApply", "df/d7d/a20138.html#a3f2ef4882bcd52e091a0bcfabfc352cd", null ],
+    [ "OnRemove", "df/d7d/a20138.html#ab967233994aa3ff07b272f010b2c1545", null ],
+    [ "PrepareAuraScript", "df/d7d/a20138.html#a788480ec4aaa57e643f55daca17c6ded", null ],
+    [ "Register", "df/d7d/a20138.html#a63a3e30704b282a430dcdbb9073a66df", null ],
+    [ "Validate", "df/d7d/a20138.html#a6ccb698445ce30c5224dcacc3dc8136b", null ]
 ];

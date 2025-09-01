@@ -1,6 +1,9 @@
 var a10898 =
 [
-    [ "TotemDestroyed", "d2/db6/a10898.html#a3bcaa030b2c15d54617564cf0f5e4c36", null ],
-    [ "Read", "d2/db6/a10898.html#a0bc6b5a33024d4fd8bc8dd4cfa25d3e2", null ],
-    [ "Slot", "d2/db6/a10898.html#a41eebde65aa696c2dec812da0aeab633", null ]
+    [ "RandomRoll", "d2/db6/a10898.html#abc64acf498b3dc70b9afd23c399e3db8", null ],
+    [ "Write", "d2/db6/a10898.html#aab5879874745603dd448a7f5084d60d4", null ],
+    [ "Max", "d2/db6/a10898.html#a21460b09eddfbee6ba022f88b5f37cc7", null ],
+    [ "Min", "d2/db6/a10898.html#aee5564c9fc17613b9f30fc8ce88944c6", null ],
+    [ "Result", "d2/db6/a10898.html#a34fd2c1d018bb292836724671163ff07", null ],
+    [ "Roller", "d2/db6/a10898.html#af02aa97826259885791d0f4afc0c1a84", null ]
 ];

@@ -1,6 +1,6 @@
 var a12966 =
 [
-    [ "npc_scarlet_courierAI", "d2/de1/a12970.html", "d2/de1/a12970" ],
-    [ "npc_scarlet_courier", "d7/d03/a12966.html#ac9bb46ff40bdf5c83d55c14e52243004", null ],
-    [ "GetAI", "d7/d03/a12966.html#a4b6b5a14ec6ce13a9ce7089f08bce9f5", null ]
+    [ "HandleAfterCast", "d7/d03/a12966.html#a5ca38a2828359e4f373323d1d6cc91cf", null ],
+    [ "PrepareSpellScript", "d7/d03/a12966.html#aa0956db2d03405a54893bc30516f5839", null ],
+    [ "Register", "d7/d03/a12966.html#a45726adacf1d30b5488df54f57447c0c", null ]
 ];

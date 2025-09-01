@@ -1,13 +1,7 @@
 var a27770 =
 [
-    [ "DBCDatabaseLoader", "d9/d65/a27770.html#a2efbbd3799e5f72fecaeaf9365579482", null ],
-    [ "DBCDatabaseLoader", "d9/d65/a27770.html#a7d93e6d37796f341edcf25062743c5b5", null ],
-    [ "CloneStringToPool", "d9/d65/a27770.html#a68e5ae50c980aa81b051d0622575bb2d", null ],
-    [ "Load", "d9/d65/a27770.html#a1b116dca8b01e0462a2e6c08245a49a3", null ],
-    [ "operator=", "d9/d65/a27770.html#a46f7d5670840892f7a8714ce0b6cde13", null ],
-    [ "_dbcFormat", "d9/d65/a27770.html#aa749118514d0b784ac6df295bd820d8e", null ],
-    [ "_recordSize", "d9/d65/a27770.html#a6721538ebbcfe020fb195d44b3bdbd11", null ],
-    [ "_sqlIndexPos", "d9/d65/a27770.html#ac1b5b191615d3e3121ea70965b0d495a", null ],
-    [ "_sqlTableName", "d9/d65/a27770.html#ab6590071edf5311ccf484d48e4fd125e", null ],
-    [ "_stringPool", "d9/d65/a27770.html#a52b5b86f0efb8ad0716bc0171a3aa740", null ]
+    [ "npc_sayge", "d9/d65/a27770.html#a5b75c459665ece26cee5dbffcc0fc8ff", null ],
+    [ "OnGossipHello", "d9/d65/a27770.html#ad069e6cc7fe5271c3474c8bcf537cf4c", null ],
+    [ "OnGossipSelect", "d9/d65/a27770.html#aa049b4514fc2d18508d8d4f9b6616c99", null ],
+    [ "SendAction", "d9/d65/a27770.html#aed1988335672423d024546654aa95298", null ]
 ];

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/Warden/WardenWin.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/common/Common.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -107,290 +107,175 @@ $(document).ready(function(){initNavTree('df/d70/a00431.html','../../'); initRes
   <div class="summary">
 <a href="#func-members">Functions</a> &#124;
 <a href="#var-members">Variables</a>  </div>
-  <div class="headertitle"><div class="title">WardenWin.cpp File Reference</div></div>
+  <div class="headertitle"><div class="title">Common.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">WardenWin.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ByteBuffer.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Common.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">CryptoRandom.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">GameTime.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">HMAC.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Log.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Opcodes.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SessionKeyGenerator.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Util.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">WardenCheckMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">WardenModuleWin.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">World.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">WorldPacket.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">WorldSession.h</a>&quot;</code><br />
-<code>#include &lt;openssl/crypto.h&gt;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">Common.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:aa48d9759919f0fb8415c0fd0731a23b1"><td class="memItemLeft" align="right" valign="top">static constexpr <a class="el" href="../../d9/d4e/a04307.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d70/a00431.html#aa48d9759919f0fb8415c0fd0731a23b1">GetCheckPacketBaseSize</a> (<a class="el" href="../../d9/d4e/a04307.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> type)</td></tr>
-<tr class="separator:aa48d9759919f0fb8415c0fd0731a23b1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:adfb39c1ce4f6159c2c70e3cdf26978c9"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d9/d4e/a04307.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d70/a00431.html#adfb39c1ce4f6159c2c70e3cdf26978c9">GetCheckPacketSize</a> (<a class="el" href="../../de/d89/a11524.html">WardenCheck</a> const *check)</td></tr>
-<tr class="separator:adfb39c1ce4f6159c2c70e3cdf26978c9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aedb0d8dcf11f0df50080f361dcd78fed"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d2/d2f/a01460.html#a468ad15992691eb97dd20680046832e0">ServerConfigs</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d70/a00431.html#aedb0d8dcf11f0df50080f361dcd78fed">GetMaxWardenChecksForType</a> (<a class="el" href="../../d9/d4e/a04307.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> type)</td></tr>
-<tr class="separator:aedb0d8dcf11f0df50080f361dcd78fed"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac2f3763b8ee770808af7ecec42dfaa76"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d70/a00431.html#ac2f3763b8ee770808af7ecec42dfaa76">IsLocaleValid</a> (std::string const &amp;locale)</td></tr>
+<tr class="separator:ac2f3763b8ee770808af7ecec42dfaa76"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8051d28826d995169bd4ce60310d5d65"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/dbc/a00395.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d70/a00431.html#a8051d28826d995169bd4ce60310d5d65">GetLocaleByName</a> (const std::string &amp;name)</td></tr>
+<tr class="separator:a8051d28826d995169bd4ce60310d5d65"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3a6dbe16dbe45905c1f3aabc858c1fe1"><td class="memItemLeft" align="right" valign="top">const std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d70/a00431.html#a3a6dbe16dbe45905c1f3aabc858c1fe1">GetNameByLocaleConstant</a> (<a class="el" href="../../db/dbc/a00395.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a> localeConstant)</td></tr>
+<tr class="separator:a3a6dbe16dbe45905c1f3aabc858c1fe1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4750695bf6f728da1b0356af3ddaabc9"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d70/a00431.html#a4750695bf6f728da1b0356af3ddaabc9">CleanStringForMysqlQuery</a> (std::string &amp;str)</td></tr>
+<tr class="separator:a4750695bf6f728da1b0356af3ddaabc9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
 Variables</h2></td></tr>
-<tr class="memitem:a259abc7d98e16cefc14404b5886cbc09"><td class="memItemLeft" align="right" valign="top">static constexpr char&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d70/a00431.html#a259abc7d98e16cefc14404b5886cbc09">_luaEvalPrefix</a> [] = &quot;local S,T,R=SendAddonMessage,function()&quot;</td></tr>
-<tr class="separator:a259abc7d98e16cefc14404b5886cbc09"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5506a4e4233b2c380f79ad1225c4dc93"><td class="memItemLeft" align="right" valign="top">static constexpr char&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d70/a00431.html#a5506a4e4233b2c380f79ad1225c4dc93">_luaEvalMidfix</a> [] = &quot; end R=S and T()if R then S('_TW',&quot;</td></tr>
-<tr class="separator:a5506a4e4233b2c380f79ad1225c4dc93"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad14853510c2482e64bd81633e5074206"><td class="memItemLeft" align="right" valign="top">static constexpr char&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d70/a00431.html#ad14853510c2482e64bd81633e5074206">_luaEvalPostfix</a> [] = &quot;,'GUILD')end&quot;</td></tr>
-<tr class="separator:ad14853510c2482e64bd81633e5074206"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a32b3de4eb98b686cc6472385a449e4e9"><td class="memItemLeft" align="right" valign="top">char const  *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d70/a00431.html#a32b3de4eb98b686cc6472385a449e4e9">localeNames</a> [<a class="el" href="../../db/dbc/a00395.html#a54c9b637be7283ba1a04fb5215594332a7f84fea169b93e300da83986234a30d8">TOTAL_LOCALES</a>]</td></tr>
+<tr class="separator:a32b3de4eb98b686cc6472385a449e4e9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Function Documentation</h2>
-<a id="aa48d9759919f0fb8415c0fd0731a23b1" name="aa48d9759919f0fb8415c0fd0731a23b1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa48d9759919f0fb8415c0fd0731a23b1">&#9670;&#160;</a></span>GetCheckPacketBaseSize()</h2>
+<a id="a4750695bf6f728da1b0356af3ddaabc9" name="a4750695bf6f728da1b0356af3ddaabc9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4750695bf6f728da1b0356af3ddaabc9">&#9670;&#160;</a></span>CleanStringForMysqlQuery()</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">static constexpr <a class="el" href="../../d9/d4e/a04307.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> GetCheckPacketBaseSize </td>
+          <td class="memname">void CleanStringForMysqlQuery </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d9/d4e/a04307.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td>
-          <td class="paramname"><em>type</em></td><td>)</td>
+          <td class="paramtype">std::string &amp;&#160;</td>
+          <td class="paramname"><em>str</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span><span class="mlabel">constexpr</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   44</span>{</div>
-<div class="line"><span class="lineno">   45</span>    <span class="keywordflow">switch</span> (type)</div>
-<div class="line"><span class="lineno">   46</span>    {</div>
-<div class="line"><span class="lineno">   47</span>    <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../dd/d63/a00455.html#a7598131f87414a66259189a0518ca6f2a2b63e52f1c3146183a59fffa98919c93">DRIVER_CHECK</a>:</div>
-<div class="line"><span class="lineno">   48</span>    <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../dd/d63/a00455.html#a7598131f87414a66259189a0518ca6f2ab22116b6a319b5c4ad88eaf90291090b">MPQ_CHECK</a>: <span class="keywordflow">return</span> 1;</div>
-<div class="line"><span class="lineno">   49</span>    <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../dd/d63/a00455.html#a7598131f87414a66259189a0518ca6f2a88364ba9c51997e2baa92428922caada">LUA_EVAL_CHECK</a>: <span class="keywordflow">return</span> 1 + <span class="keyword">sizeof</span>(<a class="code hl_variable" href="../../df/d70/a00431.html#a259abc7d98e16cefc14404b5886cbc09">_luaEvalPrefix</a>) - 1 + <span class="keyword">sizeof</span>(<a class="code hl_variable" href="../../df/d70/a00431.html#a5506a4e4233b2c380f79ad1225c4dc93">_luaEvalMidfix</a>) - 1 + 4 + <span class="keyword">sizeof</span>(<a class="code hl_variable" href="../../df/d70/a00431.html#ad14853510c2482e64bd81633e5074206">_luaEvalPostfix</a>) - 1;</div>
-<div class="line"><span class="lineno">   50</span>    <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../dd/d63/a00455.html#a7598131f87414a66259189a0518ca6f2a331b64b77a83e62b070746aab1ea995f">PAGE_CHECK_A</a>: <span class="keywordflow">return</span> (4 + 1);</div>
-<div class="line"><span class="lineno">   51</span>    <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../dd/d63/a00455.html#a7598131f87414a66259189a0518ca6f2a366d33d737ecb1b63b92e5c4fc13ed87">PAGE_CHECK_B</a>: <span class="keywordflow">return</span> (4 + 1);</div>
-<div class="line"><span class="lineno">   52</span>    <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../dd/d63/a00455.html#a7598131f87414a66259189a0518ca6f2adc2e09d27e8f622121d11ba931c4ff77">MODULE_CHECK</a>: <span class="keywordflow">return</span> (4 + <a class="code hl_variable" href="../../d7/d64/a05180.html#acc400beaab2819b6e9799b3fbd9c3dde">Acore::Crypto::Constants::SHA1_DIGEST_LENGTH_BYTES</a>);</div>
-<div class="line"><span class="lineno">   53</span>    <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../dd/d63/a00455.html#a7598131f87414a66259189a0518ca6f2aba449b452d425f871a9c01be028b5074">MEM_CHECK</a>: <span class="keywordflow">return</span> (1 + 4 + 1);</div>
-<div class="line"><span class="lineno">   54</span>    <span class="keywordflow">default</span>: <span class="keywordflow">return</span> 0;</div>
-<div class="line"><span class="lineno">   55</span>    }</div>
-<div class="line"><span class="lineno">   56</span>}</div>
-<div class="ttc" id="aa00431_html_a259abc7d98e16cefc14404b5886cbc09"><div class="ttname"><a href="../../df/d70/a00431.html#a259abc7d98e16cefc14404b5886cbc09">_luaEvalPrefix</a></div><div class="ttdeci">static constexpr char _luaEvalPrefix[]</div><div class="ttdef"><b>Definition:</b> WardenWin.cpp:37</div></div>
-<div class="ttc" id="aa00431_html_a5506a4e4233b2c380f79ad1225c4dc93"><div class="ttname"><a href="../../df/d70/a00431.html#a5506a4e4233b2c380f79ad1225c4dc93">_luaEvalMidfix</a></div><div class="ttdeci">static constexpr char _luaEvalMidfix[]</div><div class="ttdef"><b>Definition:</b> WardenWin.cpp:38</div></div>
-<div class="ttc" id="aa00431_html_ad14853510c2482e64bd81633e5074206"><div class="ttname"><a href="../../df/d70/a00431.html#ad14853510c2482e64bd81633e5074206">_luaEvalPostfix</a></div><div class="ttdeci">static constexpr char _luaEvalPostfix[]</div><div class="ttdef"><b>Definition:</b> WardenWin.cpp:39</div></div>
-<div class="ttc" id="aa00455_html_a7598131f87414a66259189a0518ca6f2a2b63e52f1c3146183a59fffa98919c93"><div class="ttname"><a href="../../dd/d63/a00455.html#a7598131f87414a66259189a0518ca6f2a2b63e52f1c3146183a59fffa98919c93">DRIVER_CHECK</a></div><div class="ttdeci">@ DRIVER_CHECK</div><div class="ttdef"><b>Definition:</b> Warden.h:53</div></div>
-<div class="ttc" id="aa00455_html_a7598131f87414a66259189a0518ca6f2a331b64b77a83e62b070746aab1ea995f"><div class="ttname"><a href="../../dd/d63/a00455.html#a7598131f87414a66259189a0518ca6f2a331b64b77a83e62b070746aab1ea995f">PAGE_CHECK_A</a></div><div class="ttdeci">@ PAGE_CHECK_A</div><div class="ttdef"><b>Definition:</b> Warden.h:49</div></div>
-<div class="ttc" id="aa00455_html_a7598131f87414a66259189a0518ca6f2a366d33d737ecb1b63b92e5c4fc13ed87"><div class="ttname"><a href="../../dd/d63/a00455.html#a7598131f87414a66259189a0518ca6f2a366d33d737ecb1b63b92e5c4fc13ed87">PAGE_CHECK_B</a></div><div class="ttdeci">@ PAGE_CHECK_B</div><div class="ttdef"><b>Definition:</b> Warden.h:50</div></div>
-<div class="ttc" id="aa00455_html_a7598131f87414a66259189a0518ca6f2a88364ba9c51997e2baa92428922caada"><div class="ttname"><a href="../../dd/d63/a00455.html#a7598131f87414a66259189a0518ca6f2a88364ba9c51997e2baa92428922caada">LUA_EVAL_CHECK</a></div><div class="ttdeci">@ LUA_EVAL_CHECK</div><div class="ttdef"><b>Definition:</b> Warden.h:52</div></div>
-<div class="ttc" id="aa00455_html_a7598131f87414a66259189a0518ca6f2ab22116b6a319b5c4ad88eaf90291090b"><div class="ttname"><a href="../../dd/d63/a00455.html#a7598131f87414a66259189a0518ca6f2ab22116b6a319b5c4ad88eaf90291090b">MPQ_CHECK</a></div><div class="ttdeci">@ MPQ_CHECK</div><div class="ttdef"><b>Definition:</b> Warden.h:51</div></div>
-<div class="ttc" id="aa00455_html_a7598131f87414a66259189a0518ca6f2aba449b452d425f871a9c01be028b5074"><div class="ttname"><a href="../../dd/d63/a00455.html#a7598131f87414a66259189a0518ca6f2aba449b452d425f871a9c01be028b5074">MEM_CHECK</a></div><div class="ttdeci">@ MEM_CHECK</div><div class="ttdef"><b>Definition:</b> Warden.h:48</div></div>
-<div class="ttc" id="aa00455_html_a7598131f87414a66259189a0518ca6f2adc2e09d27e8f622121d11ba931c4ff77"><div class="ttname"><a href="../../dd/d63/a00455.html#a7598131f87414a66259189a0518ca6f2adc2e09d27e8f622121d11ba931c4ff77">MODULE_CHECK</a></div><div class="ttdeci">@ MODULE_CHECK</div><div class="ttdef"><b>Definition:</b> Warden.h:56</div></div>
-<div class="ttc" id="aa05180_html_acc400beaab2819b6e9799b3fbd9c3dde"><div class="ttname"><a href="../../d7/d64/a05180.html#acc400beaab2819b6e9799b3fbd9c3dde">Acore::Crypto::Constants::SHA1_DIGEST_LENGTH_BYTES</a></div><div class="ttdeci">static constexpr std::size_t SHA1_DIGEST_LENGTH_BYTES</div><div class="ttdef"><b>Definition:</b> CryptoConstants.h:26</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   62</span>{</div>
+<div class="line"><span class="lineno">   63</span>    std::string::size_type n = 0;</div>
+<div class="line"><span class="lineno">   64</span>    <span class="keywordflow">while</span> ((n = str.find(<span class="charliteral">&#39;\\&#39;</span>)) != str.npos) { str.erase(n, 1); }</div>
+<div class="line"><span class="lineno">   65</span>    <span class="keywordflow">while</span> ((n = str.find(<span class="charliteral">&#39;&quot;&#39;</span>)) != str.npos) { str.erase(n, 1); }</div>
+<div class="line"><span class="lineno">   66</span>    <span class="keywordflow">while</span> ((n = str.find(<span class="charliteral">&#39;\&#39;&#39;</span>)) != str.npos) { str.erase(n, 1); }</div>
+<div class="line"><span class="lineno">   67</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00038">_luaEvalMidfix</a>, <a class="el" href="../../#l00039">_luaEvalPostfix</a>, <a class="el" href="../../#l00037">_luaEvalPrefix</a>, <a class="el" href="../../#l00053">DRIVER_CHECK</a>, <a class="el" href="../../#l00052">LUA_EVAL_CHECK</a>, <a class="el" href="../../#l00048">MEM_CHECK</a>, <a class="el" href="../../#l00056">MODULE_CHECK</a>, <a class="el" href="../../#l00051">MPQ_CHECK</a>, <a class="el" href="../../#l00049">PAGE_CHECK_A</a>, <a class="el" href="../../#l00050">PAGE_CHECK_B</a>, and <a class="el" href="../../#l00026">Acore::Crypto::Constants::SHA1_DIGEST_LENGTH_BYTES</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00058">GetCheckPacketSize()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00482">WorldSession::HandleMailTakeItem()</a>, <a class="el" href="../../#l00063">WorldSession::HandleSendMail()</a>, and <a class="el" href="../../#l02491">Map::LogEncounterFinished()</a>.</p>
 
 </div>
 </div>
-<a id="adfb39c1ce4f6159c2c70e3cdf26978c9" name="adfb39c1ce4f6159c2c70e3cdf26978c9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#adfb39c1ce4f6159c2c70e3cdf26978c9">&#9670;&#160;</a></span>GetCheckPacketSize()</h2>
+<a id="a8051d28826d995169bd4ce60310d5d65" name="a8051d28826d995169bd4ce60310d5d65"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8051d28826d995169bd4ce60310d5d65">&#9670;&#160;</a></span>GetLocaleByName()</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">static <a class="el" href="../../d9/d4e/a04307.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> GetCheckPacketSize </td>
+          <td class="memname"><a class="el" href="../../db/dbc/a00395.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a> GetLocaleByName </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../de/d89/a11524.html">WardenCheck</a> const *&#160;</td>
-          <td class="paramname"><em>check</em></td><td>)</td>
+          <td class="paramtype">const std::string &amp;&#160;</td>
+          <td class="paramname"><em>name</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   59</span>{</div>
-<div class="line"><span class="lineno">   60</span>    <span class="keywordflow">if</span> (!check)</div>
-<div class="line"><span class="lineno">   61</span>    {</div>
-<div class="line"><span class="lineno">   62</span>        <span class="keywordflow">return</span> 0;</div>
-<div class="line"><span class="lineno">   63</span>    }</div>
-<div class="line"><span class="lineno">   64</span> </div>
-<div class="line"><span class="lineno">   65</span>    <a class="code hl_typedef" href="../../d9/d4e/a04307.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> size = 1;</div>
-<div class="line"><span class="lineno">   66</span> </div>
-<div class="line"><span class="lineno">   67</span>    <span class="keywordflow">if</span> (check-&gt;CheckId &gt;= <a class="code hl_variable" href="../../dc/dca/a11552.html#a9f7e5a100c56a6ee9a6bd39a792b9e44">WardenPayloadMgr::WardenPayloadOffsetMin</a> &amp;&amp; check-&gt;Type == <a class="code hl_enumvalue" href="../../dd/d63/a00455.html#a7598131f87414a66259189a0518ca6f2a88364ba9c51997e2baa92428922caada">LUA_EVAL_CHECK</a>)</div>
-<div class="line"><span class="lineno">   68</span>    {</div>
-<div class="line"><span class="lineno">   69</span>        <span class="comment">// Custom payload has no prefix, midfix, postfix.</span></div>
-<div class="line"><span class="lineno">   70</span>        size = size + (4 + 1);</div>
-<div class="line"><span class="lineno">   71</span>    }</div>
-<div class="line"><span class="lineno">   72</span>    <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">   73</span>    {</div>
-<div class="line"><span class="lineno">   74</span>        size = size + <a class="code hl_function" href="../../df/d70/a00431.html#aa48d9759919f0fb8415c0fd0731a23b1">GetCheckPacketBaseSize</a>(check-&gt;Type);  <span class="comment">// 1 byte check type</span></div>
-<div class="line"><span class="lineno">   75</span>    }</div>
-<div class="line"><span class="lineno">   76</span> </div>
-<div class="line"><span class="lineno">   77</span>    <span class="keywordflow">if</span> (!check-&gt;Str.empty())</div>
-<div class="line"><span class="lineno">   78</span>    {</div>
-<div class="line"><span class="lineno">   79</span>        size += (<span class="keyword">static_cast&lt;</span><a class="code hl_typedef" href="../../d9/d4e/a04307.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a><span class="keyword">&gt;</span>(check-&gt;Str.length()) + 1); <span class="comment">// 1 byte string length</span></div>
-<div class="line"><span class="lineno">   80</span>    }</div>
-<div class="line"><span class="lineno">   81</span> </div>
-<div class="line"><span class="lineno">   82</span>    <a class="code hl_class" href="../../d3/dd2/a05176.html">BigNumber</a> tempNumber = check-&gt;Data;</div>
-<div class="line"><span class="lineno">   83</span>    <span class="keywordflow">if</span> (!tempNumber.<a class="code hl_function" href="../../d3/dd2/a05176.html#ab6e59df65e45251677cf033d9ca25c23">GetNumBytes</a>())</div>
-<div class="line"><span class="lineno">   84</span>    {</div>
-<div class="line"><span class="lineno">   85</span>        size += tempNumber.<a class="code hl_function" href="../../d3/dd2/a05176.html#ab6e59df65e45251677cf033d9ca25c23">GetNumBytes</a>();</div>
-<div class="line"><span class="lineno">   86</span>    }</div>
-<div class="line"><span class="lineno">   87</span>    <span class="keywordflow">return</span> size;</div>
-<div class="line"><span class="lineno">   88</span>}</div>
-<div class="ttc" id="aa00431_html_aa48d9759919f0fb8415c0fd0731a23b1"><div class="ttname"><a href="../../df/d70/a00431.html#aa48d9759919f0fb8415c0fd0731a23b1">GetCheckPacketBaseSize</a></div><div class="ttdeci">static constexpr uint8 GetCheckPacketBaseSize(uint8 type)</div><div class="ttdef"><b>Definition:</b> WardenWin.cpp:43</div></div>
-<div class="ttc" id="aa04307_html_ad9c79638db63f1dfe2b085743b5cbf7b"><div class="ttname"><a href="../../d9/d4e/a04307.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a></div><div class="ttdeci">std::uint16_t uint16</div><div class="ttdef"><b>Definition:</b> Define.h:108</div></div>
-<div class="ttc" id="aa05176_html"><div class="ttname"><a href="../../d3/dd2/a05176.html">BigNumber</a></div><div class="ttdef"><b>Definition:</b> BigNumber.h:29</div></div>
-<div class="ttc" id="aa05176_html_ab6e59df65e45251677cf033d9ca25c23"><div class="ttname"><a href="../../d3/dd2/a05176.html#ab6e59df65e45251677cf033d9ca25c23">BigNumber::GetNumBytes</a></div><div class="ttdeci">int32 GetNumBytes() const</div><div class="ttdef"><b>Definition:</b> BigNumber.cpp:165</div></div>
-<div class="ttc" id="aa11552_html_a9f7e5a100c56a6ee9a6bd39a792b9e44"><div class="ttname"><a href="../../dc/dca/a11552.html#a9f7e5a100c56a6ee9a6bd39a792b9e44">WardenPayloadMgr::WardenPayloadOffsetMin</a></div><div class="ttdeci">static uint16 constexpr WardenPayloadOffsetMin</div><div class="ttdoc">The minimum id available for custom payloads.</div><div class="ttdef"><b>Definition:</b> WardenPayloadMgr.h:115</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   43</span>{</div>
+<div class="line"><span class="lineno">   44</span>    <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> i = 0; i &lt; <a class="code hl_enumvalue" href="../../db/dbc/a00395.html#a54c9b637be7283ba1a04fb5215594332a7f84fea169b93e300da83986234a30d8">TOTAL_LOCALES</a>; ++i)</div>
+<div class="line"><span class="lineno">   45</span>        <span class="keywordflow">if</span> (name == <a class="code hl_variable" href="../../df/d70/a00431.html#a32b3de4eb98b686cc6472385a449e4e9">localeNames</a>[i])</div>
+<div class="line"><span class="lineno">   46</span>            <span class="keywordflow">return</span> <a class="code hl_enumeration" href="../../db/dbc/a00395.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a>(i);</div>
+<div class="line"><span class="lineno">   47</span> </div>
+<div class="line"><span class="lineno">   48</span>    <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../db/dbc/a00395.html#a54c9b637be7283ba1a04fb5215594332ac07b7e8b5def3b0907685ac6c3566de3">LOCALE_enUS</a>;                                     <span class="comment">// including enGB case</span></div>
+<div class="line"><span class="lineno">   49</span>}</div>
+<div class="ttc" id="aa00302_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
+<div class="ttc" id="aa00395_html_a54c9b637be7283ba1a04fb5215594332"><div class="ttname"><a href="../../db/dbc/a00395.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a></div><div class="ttdeci">LocaleConstant</div><div class="ttdef"><b>Definition:</b> Common.h:117</div></div>
+<div class="ttc" id="aa00395_html_a54c9b637be7283ba1a04fb5215594332a7f84fea169b93e300da83986234a30d8"><div class="ttname"><a href="../../db/dbc/a00395.html#a54c9b637be7283ba1a04fb5215594332a7f84fea169b93e300da83986234a30d8">TOTAL_LOCALES</a></div><div class="ttdeci">@ TOTAL_LOCALES</div><div class="ttdef"><b>Definition:</b> Common.h:128</div></div>
+<div class="ttc" id="aa00395_html_a54c9b637be7283ba1a04fb5215594332ac07b7e8b5def3b0907685ac6c3566de3"><div class="ttname"><a href="../../db/dbc/a00395.html#a54c9b637be7283ba1a04fb5215594332ac07b7e8b5def3b0907685ac6c3566de3">LOCALE_enUS</a></div><div class="ttdeci">@ LOCALE_enUS</div><div class="ttdef"><b>Definition:</b> Common.h:118</div></div>
+<div class="ttc" id="aa00431_html_a32b3de4eb98b686cc6472385a449e4e9"><div class="ttname"><a href="../../df/d70/a00431.html#a32b3de4eb98b686cc6472385a449e4e9">localeNames</a></div><div class="ttdeci">char const  * localeNames[TOTAL_LOCALES]</div><div class="ttdef"><b>Definition:</b> Common.cpp:20</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00051">WardenCheck::CheckId</a>, <a class="el" href="../../#l00046">WardenCheck::Data</a>, <a class="el" href="../../#l00043">GetCheckPacketBaseSize()</a>, <a class="el" href="../../#l00165">BigNumber::GetNumBytes()</a>, <a class="el" href="../../#l00052">LUA_EVAL_CHECK</a>, <a class="el" href="../../#l00049">WardenCheck::Str</a>, <a class="el" href="../../#l00045">WardenCheck::Type</a>, and <a class="el" href="../../#l00115">WardenPayloadMgr::WardenPayloadOffsetMin</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00118">LOCALE_enUS</a>, <a class="el" href="../../#l00020">localeNames</a>, and <a class="el" href="../../#l00128">TOTAL_LOCALES</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00277">WardenWin::RequestChecks()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00456">AuthSession::HandleLogonProof()</a>, <a class="el" href="../../#l00520">server_commandscript::HandleServerSetMotdCommand()</a>, <a class="el" href="../../#l00069">AutobroadcastMgr::LoadAutobroadcastsLocalized()</a>, <a class="el" href="../../#l09909">ObjectMgr::LoadBroadcastTextLocales()</a>, <a class="el" href="../../#l00393">ObjectMgr::LoadCreatureLocales()</a>, <a class="el" href="../../#l00168">CreatureTextMgr::LoadCreatureTextLocales()</a>, <a class="el" href="../../#l07284">ObjectMgr::LoadGameObjectLocales()</a>, <a class="el" href="../../#l00422">ObjectMgr::LoadGossipMenuItemsLocales()</a>, <a class="el" href="../../#l02807">ObjectMgr::LoadItemLocales()</a>, <a class="el" href="../../#l03481">ObjectMgr::LoadItemSetNameLocales()</a>, <a class="el" href="../../#l08853">ObjectMgr::LoadModuleStringsLocale()</a>, <a class="el" href="../../#l00080">MotdMgr::LoadMotdLocale()</a>, <a class="el" href="../../#l06263">ObjectMgr::LoadNpcTextLocales()</a>, <a class="el" href="../../#l06010">ObjectMgr::LoadPageTextLocales()</a>, <a class="el" href="../../#l00453">ObjectMgr::LoadPetNamesLocales()</a>, <a class="el" href="../../#l00493">ObjectMgr::LoadPointOfInterestLocales()</a>, <a class="el" href="../../#l06551">ObjectMgr::LoadQuestGreetingsLocales()</a>, <a class="el" href="../../#l05381">ObjectMgr::LoadQuestLocales()</a>, <a class="el" href="../../#l06612">ObjectMgr::LoadQuestOfferRewardLocale()</a>, <a class="el" href="../../#l06641">ObjectMgr::LoadQuestRequestItemsLocale()</a>, <a class="el" href="../../#l03091">AchievementGlobalMgr::LoadRewardLocales()</a>, and <a class="el" href="../../#l00317">AuthSession::LogonChallengeCallback()</a>.</p>
 
 </div>
 </div>
-<a id="aedb0d8dcf11f0df50080f361dcd78fed" name="aedb0d8dcf11f0df50080f361dcd78fed"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aedb0d8dcf11f0df50080f361dcd78fed">&#9670;&#160;</a></span>GetMaxWardenChecksForType()</h2>
+<a id="a3a6dbe16dbe45905c1f3aabc858c1fe1" name="a3a6dbe16dbe45905c1f3aabc858c1fe1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3a6dbe16dbe45905c1f3aabc858c1fe1">&#9670;&#160;</a></span>GetNameByLocaleConstant()</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">static <a class="el" href="../../d2/d2f/a01460.html#a468ad15992691eb97dd20680046832e0">ServerConfigs</a> GetMaxWardenChecksForType </td>
+          <td class="memname">const std::string GetNameByLocaleConstant </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d9/d4e/a04307.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td>
-          <td class="paramname"><em>type</em></td><td>)</td>
+          <td class="paramtype"><a class="el" href="../../db/dbc/a00395.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a>&#160;</td>
+          <td class="paramname"><em>localeConstant</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   92</span>{</div>
-<div class="line"><span class="lineno">   93</span>    <span class="comment">// Should never be higher type than defined</span></div>
-<div class="line"><span class="lineno">   94</span>    <a class="code hl_define" href="../../de/dfb/a04616.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(type &lt; <a class="code hl_variable" href="../../de/df8/a00440.html#a80604a840828219101f07100a7a48dad">MAX_WARDEN_CHECK_TYPES</a>);</div>
-<div class="line"><span class="lineno">   95</span> </div>
-<div class="line"><span class="lineno">   96</span>    <span class="keywordflow">switch</span> (type)</div>
-<div class="line"><span class="lineno">   97</span>    {</div>
-<div class="line"><span class="lineno">   98</span>    <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../de/df8/a00440.html#ad353d1b1b229bf72b97440ac296da2f0a3a995022793f145e1eb48b42d3aadfb3">WARDEN_CHECK_MEM_TYPE</a>:</div>
-<div class="line"><span class="lineno">   99</span>        <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../d2/d2f/a01460.html#a468ad15992691eb97dd20680046832e0a482567408b50b5bdce327094b6762c14">CONFIG_WARDEN_NUM_MEM_CHECKS</a>;</div>
-<div class="line"><span class="lineno">  100</span>    <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../de/df8/a00440.html#ad353d1b1b229bf72b97440ac296da2f0a78405e80a7b4bf4186706d64389e96af">WARDEN_CHECK_LUA_TYPE</a>:</div>
-<div class="line"><span class="lineno">  101</span>        <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../d2/d2f/a01460.html#a468ad15992691eb97dd20680046832e0a0ea99535fffce86366b9af4ca71d1e40">CONFIG_WARDEN_NUM_LUA_CHECKS</a>;</div>
-<div class="line"><span class="lineno">  102</span>    <span class="keywordflow">default</span>:</div>
-<div class="line"><span class="lineno">  103</span>        <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  104</span>    }</div>
-<div class="line"><span class="lineno">  105</span> </div>
-<div class="line"><span class="lineno">  106</span>    <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../d2/d2f/a01460.html#a468ad15992691eb97dd20680046832e0aa28215fb699969bb584015e26849308a">CONFIG_WARDEN_NUM_OTHER_CHECKS</a>;</div>
-<div class="line"><span class="lineno">  107</span>}</div>
-<div class="ttc" id="aa00440_html_a80604a840828219101f07100a7a48dad"><div class="ttname"><a href="../../de/df8/a00440.html#a80604a840828219101f07100a7a48dad">MAX_WARDEN_CHECK_TYPES</a></div><div class="ttdeci">constexpr uint8 MAX_WARDEN_CHECK_TYPES</div><div class="ttdef"><b>Definition:</b> WardenCheckMgr.h:41</div></div>
-<div class="ttc" id="aa00440_html_ad353d1b1b229bf72b97440ac296da2f0a3a995022793f145e1eb48b42d3aadfb3"><div class="ttname"><a href="../../de/df8/a00440.html#ad353d1b1b229bf72b97440ac296da2f0a3a995022793f145e1eb48b42d3aadfb3">WARDEN_CHECK_MEM_TYPE</a></div><div class="ttdeci">@ WARDEN_CHECK_MEM_TYPE</div><div class="ttdef"><b>Definition:</b> WardenCheckMgr.h:36</div></div>
-<div class="ttc" id="aa00440_html_ad353d1b1b229bf72b97440ac296da2f0a78405e80a7b4bf4186706d64389e96af"><div class="ttname"><a href="../../de/df8/a00440.html#ad353d1b1b229bf72b97440ac296da2f0a78405e80a7b4bf4186706d64389e96af">WARDEN_CHECK_LUA_TYPE</a></div><div class="ttdeci">@ WARDEN_CHECK_LUA_TYPE</div><div class="ttdef"><b>Definition:</b> WardenCheckMgr.h:37</div></div>
-<div class="ttc" id="aa01460_html_a468ad15992691eb97dd20680046832e0a0ea99535fffce86366b9af4ca71d1e40"><div class="ttname"><a href="../../d2/d2f/a01460.html#a468ad15992691eb97dd20680046832e0a0ea99535fffce86366b9af4ca71d1e40">CONFIG_WARDEN_NUM_LUA_CHECKS</a></div><div class="ttdeci">@ CONFIG_WARDEN_NUM_LUA_CHECKS</div><div class="ttdef"><b>Definition:</b> WorldConfig.h:333</div></div>
-<div class="ttc" id="aa01460_html_a468ad15992691eb97dd20680046832e0a482567408b50b5bdce327094b6762c14"><div class="ttname"><a href="../../d2/d2f/a01460.html#a468ad15992691eb97dd20680046832e0a482567408b50b5bdce327094b6762c14">CONFIG_WARDEN_NUM_MEM_CHECKS</a></div><div class="ttdeci">@ CONFIG_WARDEN_NUM_MEM_CHECKS</div><div class="ttdef"><b>Definition:</b> WorldConfig.h:332</div></div>
-<div class="ttc" id="aa01460_html_a468ad15992691eb97dd20680046832e0aa28215fb699969bb584015e26849308a"><div class="ttname"><a href="../../d2/d2f/a01460.html#a468ad15992691eb97dd20680046832e0aa28215fb699969bb584015e26849308a">CONFIG_WARDEN_NUM_OTHER_CHECKS</a></div><div class="ttdeci">@ CONFIG_WARDEN_NUM_OTHER_CHECKS</div><div class="ttdef"><b>Definition:</b> WorldConfig.h:334</div></div>
-<div class="ttc" id="aa04616_html_af343b20373ba49a92fce523e948f2ab3"><div class="ttname"><a href="../../de/dfb/a04616.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a></div><div class="ttdeci">#define ASSERT</div><div class="ttdef"><b>Definition:</b> Errors.h:68</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   52</span>{</div>
+<div class="line"><span class="lineno">   53</span>    <span class="keywordflow">if</span> (localeConstant &lt; <a class="code hl_enumvalue" href="../../db/dbc/a00395.html#a54c9b637be7283ba1a04fb5215594332a7f84fea169b93e300da83986234a30d8">TOTAL_LOCALES</a>)</div>
+<div class="line"><span class="lineno">   54</span>    {</div>
+<div class="line"><span class="lineno">   55</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../df/d70/a00431.html#a32b3de4eb98b686cc6472385a449e4e9">localeNames</a>[localeConstant];</div>
+<div class="line"><span class="lineno">   56</span>    }</div>
+<div class="line"><span class="lineno">   57</span> </div>
+<div class="line"><span class="lineno">   58</span>    <span class="keywordflow">return</span> <span class="stringliteral">&quot;enUS&quot;</span>; <span class="comment">// Default value for unsupported or invalid LocaleConstant</span></div>
+<div class="line"><span class="lineno">   59</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00333">CONFIG_WARDEN_NUM_LUA_CHECKS</a>, <a class="el" href="../../#l00332">CONFIG_WARDEN_NUM_MEM_CHECKS</a>, <a class="el" href="../../#l00334">CONFIG_WARDEN_NUM_OTHER_CHECKS</a>, <a class="el" href="../../#l00041">MAX_WARDEN_CHECK_TYPES</a>, <a class="el" href="../../#l00037">WARDEN_CHECK_LUA_TYPE</a>, and <a class="el" href="../../#l00036">WARDEN_CHECK_MEM_TYPE</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00020">localeNames</a>, and <a class="el" href="../../#l00128">TOTAL_LOCALES</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00277">WardenWin::RequestChecks()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00284">server_commandscript::HandleServerMotdCommand()</a>.</p>
+
+</div>
+</div>
+<a id="ac2f3763b8ee770808af7ecec42dfaa76" name="ac2f3763b8ee770808af7ecec42dfaa76"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac2f3763b8ee770808af7ecec42dfaa76">&#9670;&#160;</a></span>IsLocaleValid()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool IsLocaleValid </td>
+          <td>(</td>
+          <td class="paramtype">std::string const &amp;&#160;</td>
+          <td class="paramname"><em>locale</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   34</span>{</div>
+<div class="line"><span class="lineno">   35</span>    <span class="keywordflow">for</span> (<span class="keywordtype">int</span> i = 0; i &lt; <a class="code hl_enumvalue" href="../../db/dbc/a00395.html#a54c9b637be7283ba1a04fb5215594332a7f84fea169b93e300da83986234a30d8">TOTAL_LOCALES</a>; ++i)</div>
+<div class="line"><span class="lineno">   36</span>        <span class="keywordflow">if</span> (locale == <a class="code hl_variable" href="../../df/d70/a00431.html#a32b3de4eb98b686cc6472385a449e4e9">localeNames</a>[i])</div>
+<div class="line"><span class="lineno">   37</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">   38</span> </div>
+<div class="line"><span class="lineno">   39</span>    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">   40</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00020">localeNames</a>, and <a class="el" href="../../#l00128">TOTAL_LOCALES</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00520">server_commandscript::HandleServerSetMotdCommand()</a>, and <a class="el" href="../../#l00080">MotdMgr::LoadMotdLocale()</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Variable Documentation</h2>
-<a id="a5506a4e4233b2c380f79ad1225c4dc93" name="a5506a4e4233b2c380f79ad1225c4dc93"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5506a4e4233b2c380f79ad1225c4dc93">&#9670;&#160;</a></span>_luaEvalMidfix</h2>
+<a id="a32b3de4eb98b686cc6472385a449e4e9" name="a32b3de4eb98b686cc6472385a449e4e9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a32b3de4eb98b686cc6472385a449e4e9">&#9670;&#160;</a></span>localeNames</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">constexpr char _luaEvalMidfix[] = &quot; end R=S and T()if R then S('_TW',&quot;</td>
+          <td class="memname">char const* localeNames[<a class="el" href="../../db/dbc/a00395.html#a54c9b637be7283ba1a04fb5215594332a7f84fea169b93e300da83986234a30d8">TOTAL_LOCALES</a>]</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span><span class="mlabel">constexpr</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00043">GetCheckPacketBaseSize()</a>, and <a class="el" href="../../#l00277">WardenWin::RequestChecks()</a>.</p>
-
-</div>
-</div>
-<a id="ad14853510c2482e64bd81633e5074206" name="ad14853510c2482e64bd81633e5074206"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad14853510c2482e64bd81633e5074206">&#9670;&#160;</a></span>_luaEvalPostfix</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">constexpr char _luaEvalPostfix[] = &quot;,'GUILD')end&quot;</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span><span class="mlabel">constexpr</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00043">GetCheckPacketBaseSize()</a>, and <a class="el" href="../../#l00277">WardenWin::RequestChecks()</a>.</p>
-
-</div>
-</div>
-<a id="a259abc7d98e16cefc14404b5886cbc09" name="a259abc7d98e16cefc14404b5886cbc09"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a259abc7d98e16cefc14404b5886cbc09">&#9670;&#160;</a></span>_luaEvalPrefix</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">constexpr char _luaEvalPrefix[] = &quot;local S,T,R=SendAddonMessage,function()&quot;</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span><span class="mlabel">constexpr</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00043">GetCheckPacketBaseSize()</a>, and <a class="el" href="../../#l00277">WardenWin::RequestChecks()</a>.</p>
+<b>Initial value:</b><div class="fragment"><div class="line">=</div>
+<div class="line">{</div>
+<div class="line">    <span class="stringliteral">&quot;enUS&quot;</span>,</div>
+<div class="line">    <span class="stringliteral">&quot;koKR&quot;</span>,</div>
+<div class="line">    <span class="stringliteral">&quot;frFR&quot;</span>,</div>
+<div class="line">    <span class="stringliteral">&quot;deDE&quot;</span>,</div>
+<div class="line">    <span class="stringliteral">&quot;zhCN&quot;</span>,</div>
+<div class="line">    <span class="stringliteral">&quot;zhTW&quot;</span>,</div>
+<div class="line">    <span class="stringliteral">&quot;esES&quot;</span>,</div>
+<div class="line">    <span class="stringliteral">&quot;esMX&quot;</span>,</div>
+<div class="line">    <span class="stringliteral">&quot;ruRU&quot;</span></div>
+<div class="line">}</div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l01048">World::DetectDBCLang()</a>, <a class="el" href="../../#l00042">GetLocaleByName()</a>, <a class="el" href="../../#l00051">GetNameByLocaleConstant()</a>, <a class="el" href="../../#l00526">character_commandscript::HandleCharacterReputationCommand()</a>, <a class="el" href="../../#l00274">character_commandscript::HandleCharacterTitlesCommand()</a>, <a class="el" href="../../#l00075">lookup_commandscript::HandleLookupAreaCommand()</a>, <a class="el" href="../../#l00316">lookup_commandscript::HandleLookupFactionCommand()</a>, <a class="el" href="../../#l00558">lookup_commandscript::HandleLookupItemSetCommand()</a>, <a class="el" href="../../#l00890">lookup_commandscript::HandleLookupSkillCommand()</a>, <a class="el" href="../../#l00995">lookup_commandscript::HandleLookupSpellCommand()</a>, <a class="el" href="../../#l01147">lookup_commandscript::HandleLookupSpellIdCommand()</a>, <a class="el" href="../../#l01260">lookup_commandscript::HandleLookupTaxiNodeCommand()</a>, <a class="el" href="../../#l01413">lookup_commandscript::HandleLookupTitleCommand()</a>, <a class="el" href="../../#l00108">server_commandscript::HandleServerDebugCommand()</a>, <a class="el" href="../../#l00033">IsLocaleValid()</a>, and <a class="el" href="../../#l00213">LoadDBC()</a>.</p>
 
 </div>
 </div>
@@ -399,8 +284,8 @@ Variables</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_4b21bdf52d2a98b0776a5d7d01fdcc43.html">Warden</a></li><li class="navelem"><a class="el" href="../../df/d70/a00431.html">WardenWin.cpp</a></li>
-    <li class="footer">Generated on Mon Aug 25 2025 20:45:18 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1070012e9e40376f8468ff0aa5b77c71.html">common</a></li><li class="navelem"><a class="el" href="../../df/d70/a00431.html">Common.cpp</a></li>
+    <li class="footer">Generated on Mon Sep 1 2025 20:42:34 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

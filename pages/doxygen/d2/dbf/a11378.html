@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: PlayerTextBuilder Class Reference</title>
+<title>AzerothCore: _SpellScript::EffectAuraNameCheck Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -108,40 +108,49 @@ $(document).ready(function(){initNavTree('d2/dbf/a11378.html','../../'); initRes
 <a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="../../db/ddf/a11375.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">PlayerTextBuilder Class Reference</div></div>
+  <div class="headertitle"><div class="title">_SpellScript::EffectAuraNameCheck Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
+
+<p><code>#include &quot;<a class="el" href="../../">SpellScript.h</a>&quot;</code></p>
+<div class="dynheader">
+Inheritance diagram for _SpellScript::EffectAuraNameCheck:</div>
+<div class="dyncontent">
+ <div class="center">
+  <img src="../../d2/dbf/a11378.png" usemap="#_5FSpellScript::EffectAuraNameCheck_map" alt=""/>
+  <map id="_5FSpellScript::EffectAuraNameCheck_map" name="_5FSpellScript::EffectAuraNameCheck_map">
+<area href="../../d9/db1/a11434.html" alt="AuraScript::EffectBase" shape="rect" coords="0,56,243,80"/>
+<area href="../../da/d10/a11462.html" alt="AuraScript::EffectAbsorbHandler" shape="rect" coords="253,112,496,136"/>
+<area href="../../d7/d97/a11458.html" alt="AuraScript::EffectApplyHandler" shape="rect" coords="253,168,496,192"/>
+<area href="../../d0/db0/a11446.html" alt="AuraScript::EffectCalcAmountHandler" shape="rect" coords="253,224,496,248"/>
+<area href="../../d5/df9/a11450.html" alt="AuraScript::EffectCalcPeriodicHandler" shape="rect" coords="253,280,496,304"/>
+<area href="../../d2/d16/a11454.html" alt="AuraScript::EffectCalcSpellModHandler" shape="rect" coords="253,336,496,360"/>
+<area href="../../d5/db4/a11466.html" alt="AuraScript::EffectManaShieldHandler" shape="rect" coords="253,392,496,416"/>
+<area href="../../d7/d35/a11438.html" alt="AuraScript::EffectPeriodicHandler" shape="rect" coords="253,448,496,472"/>
+<area href="../../d3/d9c/a11486.html" alt="AuraScript::EffectProcHandler" shape="rect" coords="253,504,496,528"/>
+<area href="../../da/ddf/a11470.html" alt="AuraScript::EffectSplitHandler" shape="rect" coords="253,560,496,584"/>
+<area href="../../d1/dbe/a11442.html" alt="AuraScript::EffectUpdatePeriodicHandler" shape="rect" coords="253,616,496,640"/>
+  </map>
+</div></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a0740c581636009448fe2c29084db41ae"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dbf/a11378.html#a0740c581636009448fe2c29084db41ae">PlayerTextBuilder</a> (<a class="el" href="../../da/da3/a08394.html">WorldObject</a> *obj, <a class="el" href="../../da/da3/a08394.html">WorldObject</a> *speaker, <a class="el" href="../../d2/de7/a00014.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> gender, <a class="el" href="../../d4/d2d/a02408.html#a249e68b260c9857b5d0d4cf4697fae16">ChatMsg</a> msgtype, <a class="el" href="../../d2/de7/a00014.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> textGroup, <a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> id, <a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> language, <a class="el" href="../../da/da3/a08394.html">WorldObject</a> const *target)</td></tr>
-<tr class="separator:a0740c581636009448fe2c29084db41ae"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a64d2905971ecd645e364a774f320a721"><td class="memItemLeft" align="right" valign="top">std::size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dbf/a11378.html#a64d2905971ecd645e364a774f320a721">operator()</a> (<a class="el" href="../../da/df4/a10970.html">WorldPacket</a> *data, <a class="el" href="../../d4/d51/a00017.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a> locale) const</td></tr>
-<tr class="separator:a64d2905971ecd645e364a774f320a721"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4b10ec0fcb3ffd841cf790574875017d"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dbf/a11378.html#a4b10ec0fcb3ffd841cf790574875017d">EffectAuraNameCheck</a> (<a class="el" href="../../d0/d61/a00302.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> _effAurName)</td></tr>
+<tr class="separator:a4b10ec0fcb3ffd841cf790574875017d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7fff405a99c65d3e846463ca29a8ddfd"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dbf/a11378.html#a7fff405a99c65d3e846463ca29a8ddfd">Check</a> (<a class="el" href="../../d2/dfa/a11306.html">SpellInfo</a> const *spellInfo, <a class="el" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> effIndex)</td></tr>
+<tr class="separator:a7fff405a99c65d3e846463ca29a8ddfd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a602fc1ddafe663e2e5ddceaeaec8b118"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dbf/a11378.html#a602fc1ddafe663e2e5ddceaeaec8b118">ToString</a> ()</td></tr>
+<tr class="separator:a602fc1ddafe663e2e5ddceaeaec8b118"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
-<tr class="memitem:a9fe9f865b0ba84b5497e63947893533e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../da/da3/a08394.html">WorldObject</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dbf/a11378.html#a9fe9f865b0ba84b5497e63947893533e">_source</a></td></tr>
-<tr class="separator:a9fe9f865b0ba84b5497e63947893533e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8a8cd00cc76e048500800938a773aa06"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../da/da3/a08394.html">WorldObject</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dbf/a11378.html#a8a8cd00cc76e048500800938a773aa06">_talker</a></td></tr>
-<tr class="separator:a8a8cd00cc76e048500800938a773aa06"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aece205d3d523dcf6fefbdd9914943723"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/de7/a00014.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dbf/a11378.html#aece205d3d523dcf6fefbdd9914943723">_gender</a></td></tr>
-<tr class="separator:aece205d3d523dcf6fefbdd9914943723"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af546f2788870b8b10b3405695ef81171"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/d2d/a02408.html#a249e68b260c9857b5d0d4cf4697fae16">ChatMsg</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dbf/a11378.html#af546f2788870b8b10b3405695ef81171">_msgType</a></td></tr>
-<tr class="separator:af546f2788870b8b10b3405695ef81171"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab44fe12e73da36acb1199987e8573467"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/de7/a00014.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dbf/a11378.html#ab44fe12e73da36acb1199987e8573467">_textGroup</a></td></tr>
-<tr class="separator:ab44fe12e73da36acb1199987e8573467"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a17b33a9a05a77722219a85a71f3bbc5e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dbf/a11378.html#a17b33a9a05a77722219a85a71f3bbc5e">_textId</a></td></tr>
-<tr class="separator:a17b33a9a05a77722219a85a71f3bbc5e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a934d4a519c2c7b4017805b3bc24a4714"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dbf/a11378.html#a934d4a519c2c7b4017805b3bc24a4714">_language</a></td></tr>
-<tr class="separator:a934d4a519c2c7b4017805b3bc24a4714"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac97cf187d079c5162e47bebb7024faa5"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../da/da3/a08394.html">WorldObject</a> const  *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dbf/a11378.html#ac97cf187d079c5162e47bebb7024faa5">_target</a></td></tr>
-<tr class="separator:ac97cf187d079c5162e47bebb7024faa5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abcf90ed5a832b5fe5ce3913a812da05d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dbf/a11378.html#abcf90ed5a832b5fe5ce3913a812da05d">effAurName</a></td></tr>
+<tr class="separator:abcf90ed5a832b5fe5ce3913a812da05d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a0740c581636009448fe2c29084db41ae" name="a0740c581636009448fe2c29084db41ae"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0740c581636009448fe2c29084db41ae">&#9670;&#160;</a></span>PlayerTextBuilder()</h2>
+<a id="a4b10ec0fcb3ffd841cf790574875017d" name="a4b10ec0fcb3ffd841cf790574875017d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4b10ec0fcb3ffd841cf790574875017d">&#9670;&#160;</a></span>EffectAuraNameCheck()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -150,52 +159,44 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">PlayerTextBuilder::PlayerTextBuilder </td>
+          <td class="memname">_SpellScript::EffectAuraNameCheck::EffectAuraNameCheck </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../da/da3/a08394.html">WorldObject</a> *&#160;</td>
-          <td class="paramname"><em>obj</em>, </td>
+          <td class="paramtype"><a class="el" href="../../d0/d61/a00302.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td>
+          <td class="paramname"><em>_effAurName</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   98</span>{ <a class="code hl_variable" href="../../d2/dbf/a11378.html#abcf90ed5a832b5fe5ce3913a812da05d">effAurName</a> = _effAurName; }</div>
+<div class="ttc" id="aa11378_html_abcf90ed5a832b5fe5ce3913a812da05d"><div class="ttname"><a href="../../d2/dbf/a11378.html#abcf90ed5a832b5fe5ce3913a812da05d">_SpellScript::EffectAuraNameCheck::effAurName</a></div><div class="ttdeci">uint16 effAurName</div><div class="ttdef"><b>Definition:</b> SpellScript.h:102</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00102">effAurName</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="a7fff405a99c65d3e846463ca29a8ddfd" name="a7fff405a99c65d3e846463ca29a8ddfd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7fff405a99c65d3e846463ca29a8ddfd">&#9670;&#160;</a></span>Check()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool _SpellScript::EffectAuraNameCheck::Check </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d2/dfa/a11306.html">SpellInfo</a> const *&#160;</td>
+          <td class="paramname"><em>spellInfo</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../da/da3/a08394.html">WorldObject</a> *&#160;</td>
-          <td class="paramname"><em>speaker</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d2/de7/a00014.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td>
-          <td class="paramname"><em>gender</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d4/d2d/a02408.html#a249e68b260c9857b5d0d4cf4697fae16">ChatMsg</a>&#160;</td>
-          <td class="paramname"><em>msgtype</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d2/de7/a00014.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td>
-          <td class="paramname"><em>textGroup</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>id</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>language</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../da/da3/a08394.html">WorldObject</a> const *&#160;</td>
-          <td class="paramname"><em>target</em>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td>
+          <td class="paramname"><em>effIndex</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -203,75 +204,57 @@ Private Attributes</h2></td></tr>
           <td></td><td></td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   55</span>        : <a class="code hl_variable" href="../../d2/dbf/a11378.html#a9fe9f865b0ba84b5497e63947893533e">_source</a>(obj), <a class="code hl_variable" href="../../d2/dbf/a11378.html#a8a8cd00cc76e048500800938a773aa06">_talker</a>(speaker), <a class="code hl_variable" href="../../d2/dbf/a11378.html#aece205d3d523dcf6fefbdd9914943723">_gender</a>(gender), <a class="code hl_variable" href="../../d2/dbf/a11378.html#af546f2788870b8b10b3405695ef81171">_msgType</a>(msgtype), <a class="code hl_variable" href="../../d2/dbf/a11378.html#ab44fe12e73da36acb1199987e8573467">_textGroup</a>(textGroup), <a class="code hl_variable" href="../../d2/dbf/a11378.html#a17b33a9a05a77722219a85a71f3bbc5e">_textId</a>(<span class="keywordtype">id</span>), <a class="code hl_variable" href="../../d2/dbf/a11378.html#a934d4a519c2c7b4017805b3bc24a4714">_language</a>(language), <a class="code hl_variable" href="../../d2/dbf/a11378.html#ac97cf187d079c5162e47bebb7024faa5">_target</a>(target) { }</div>
-<div class="ttc" id="aa11378_html_a17b33a9a05a77722219a85a71f3bbc5e"><div class="ttname"><a href="../../d2/dbf/a11378.html#a17b33a9a05a77722219a85a71f3bbc5e">PlayerTextBuilder::_textId</a></div><div class="ttdeci">uint32 _textId</div><div class="ttdef"><b>Definition:</b> CreatureTextMgr.cpp:70</div></div>
-<div class="ttc" id="aa11378_html_a8a8cd00cc76e048500800938a773aa06"><div class="ttname"><a href="../../d2/dbf/a11378.html#a8a8cd00cc76e048500800938a773aa06">PlayerTextBuilder::_talker</a></div><div class="ttdeci">WorldObject * _talker</div><div class="ttdef"><b>Definition:</b> CreatureTextMgr.cpp:66</div></div>
-<div class="ttc" id="aa11378_html_a934d4a519c2c7b4017805b3bc24a4714"><div class="ttname"><a href="../../d2/dbf/a11378.html#a934d4a519c2c7b4017805b3bc24a4714">PlayerTextBuilder::_language</a></div><div class="ttdeci">uint32 _language</div><div class="ttdef"><b>Definition:</b> CreatureTextMgr.cpp:71</div></div>
-<div class="ttc" id="aa11378_html_a9fe9f865b0ba84b5497e63947893533e"><div class="ttname"><a href="../../d2/dbf/a11378.html#a9fe9f865b0ba84b5497e63947893533e">PlayerTextBuilder::_source</a></div><div class="ttdeci">WorldObject * _source</div><div class="ttdef"><b>Definition:</b> CreatureTextMgr.cpp:65</div></div>
-<div class="ttc" id="aa11378_html_ab44fe12e73da36acb1199987e8573467"><div class="ttname"><a href="../../d2/dbf/a11378.html#ab44fe12e73da36acb1199987e8573467">PlayerTextBuilder::_textGroup</a></div><div class="ttdeci">uint8 _textGroup</div><div class="ttdef"><b>Definition:</b> CreatureTextMgr.cpp:69</div></div>
-<div class="ttc" id="aa11378_html_ac97cf187d079c5162e47bebb7024faa5"><div class="ttname"><a href="../../d2/dbf/a11378.html#ac97cf187d079c5162e47bebb7024faa5">PlayerTextBuilder::_target</a></div><div class="ttdeci">WorldObject const  * _target</div><div class="ttdef"><b>Definition:</b> CreatureTextMgr.cpp:72</div></div>
-<div class="ttc" id="aa11378_html_aece205d3d523dcf6fefbdd9914943723"><div class="ttname"><a href="../../d2/dbf/a11378.html#aece205d3d523dcf6fefbdd9914943723">PlayerTextBuilder::_gender</a></div><div class="ttdeci">uint8 _gender</div><div class="ttdef"><b>Definition:</b> CreatureTextMgr.cpp:67</div></div>
-<div class="ttc" id="aa11378_html_af546f2788870b8b10b3405695ef81171"><div class="ttname"><a href="../../d2/dbf/a11378.html#af546f2788870b8b10b3405695ef81171">PlayerTextBuilder::_msgType</a></div><div class="ttdeci">ChatMsg _msgType</div><div class="ttdef"><b>Definition:</b> CreatureTextMgr.cpp:68</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  145</span>{</div>
+<div class="line"><span class="lineno">  146</span>    <span class="keywordflow">if</span> (!spellInfo-&gt;Effects[effIndex].ApplyAuraName &amp;&amp; !<a class="code hl_variable" href="../../d2/dbf/a11378.html#abcf90ed5a832b5fe5ce3913a812da05d">effAurName</a>)</div>
+<div class="line"><span class="lineno">  147</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  148</span>    <span class="keywordflow">if</span> (!spellInfo-&gt;Effects[effIndex].ApplyAuraName)</div>
+<div class="line"><span class="lineno">  149</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  150</span>    <span class="keywordflow">return</span> (<a class="code hl_variable" href="../../d2/dbf/a11378.html#abcf90ed5a832b5fe5ce3913a812da05d">effAurName</a> == <a class="code hl_define" href="../../d9/d33/a03269.html#adc2aca3aa7cbad44c23b542d6bc0162a">SPELL_AURA_ANY</a>) || (spellInfo-&gt;Effects[effIndex].ApplyAuraName == <a class="code hl_variable" href="../../d2/dbf/a11378.html#abcf90ed5a832b5fe5ce3913a812da05d">effAurName</a>);</div>
+<div class="line"><span class="lineno">  151</span>}</div>
+<div class="ttc" id="aa03269_html_adc2aca3aa7cbad44c23b542d6bc0162a"><div class="ttname"><a href="../../d9/d33/a03269.html#adc2aca3aa7cbad44c23b542d6bc0162a">SPELL_AURA_ANY</a></div><div class="ttdeci">#define SPELL_AURA_ANY</div><div class="ttdef"><b>Definition:</b> SpellScript.h:43</div></div>
 </div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00393">SpellInfo::Effects</a>, and <a class="el" href="../../#l00043">SPELL_AURA_ANY</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00788">AuraScript::EffectBase::CheckEffect()</a>.</p>
+
 </div>
 </div>
-<h2 class="groupheader">Member Function Documentation</h2>
-<a id="a64d2905971ecd645e364a774f320a721" name="a64d2905971ecd645e364a774f320a721"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a64d2905971ecd645e364a774f320a721">&#9670;&#160;</a></span>operator()()</h2>
+<a id="a602fc1ddafe663e2e5ddceaeaec8b118" name="a602fc1ddafe663e2e5ddceaeaec8b118"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a602fc1ddafe663e2e5ddceaeaec8b118">&#9670;&#160;</a></span>ToString()</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::size_t PlayerTextBuilder::operator() </td>
+          <td class="memname">std::string _SpellScript::EffectAuraNameCheck::ToString </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../da/df4/a10970.html">WorldPacket</a> *&#160;</td>
-          <td class="paramname"><em>data</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
+          <td class="paramname"></td><td>)</td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../d4/d51/a00017.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a>&#160;</td>
-          <td class="paramname"><em>locale</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td> const</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   58</span>    {</div>
-<div class="line"><span class="lineno">   59</span>        std::string <span class="keyword">const</span>&amp; text = <a class="code hl_define" href="../../dc/df9/a00554.html#a2dc428da007cefe454220dcb355a1cde">sCreatureTextMgr</a>-&gt;GetLocalizedChatString(<a class="code hl_variable" href="../../d2/dbf/a11378.html#a9fe9f865b0ba84b5497e63947893533e">_source</a>-&gt;<a class="code hl_function" href="../../dd/d4f/a08358.html#aa627fe2967ed0e0ed1d8aeeb4365a961">GetEntry</a>(), <a class="code hl_variable" href="../../d2/dbf/a11378.html#aece205d3d523dcf6fefbdd9914943723">_gender</a>, <a class="code hl_variable" href="../../d2/dbf/a11378.html#ab44fe12e73da36acb1199987e8573467">_textGroup</a>, <a class="code hl_variable" href="../../d2/dbf/a11378.html#a17b33a9a05a77722219a85a71f3bbc5e">_textId</a>, locale);</div>
-<div class="line"><span class="lineno">   60</span> </div>
-<div class="line"><span class="lineno">   61</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../d1/dd7/a07498.html#a3295cee708d267aac165f9ee55d2e615">ChatHandler::BuildChatPacket</a>(*data, <a class="code hl_variable" href="../../d2/dbf/a11378.html#af546f2788870b8b10b3405695ef81171">_msgType</a>, <a class="code hl_enumeration" href="../../d4/d2d/a02408.html#a315ca917ad583797f709ea477dd28705">Language</a>(<a class="code hl_variable" href="../../d2/dbf/a11378.html#a934d4a519c2c7b4017805b3bc24a4714">_language</a>), <a class="code hl_variable" href="../../d2/dbf/a11378.html#a8a8cd00cc76e048500800938a773aa06">_talker</a>, <a class="code hl_variable" href="../../d2/dbf/a11378.html#ac97cf187d079c5162e47bebb7024faa5">_target</a>, text, 0, <span class="stringliteral">&quot;&quot;</span>, locale);</div>
-<div class="line"><span class="lineno">   62</span>    }</div>
-<div class="ttc" id="aa00554_html_a2dc428da007cefe454220dcb355a1cde"><div class="ttname"><a href="../../dc/df9/a00554.html#a2dc428da007cefe454220dcb355a1cde">sCreatureTextMgr</a></div><div class="ttdeci">#define sCreatureTextMgr</div><div class="ttdef"><b>Definition:</b> CreatureTextMgr.h:119</div></div>
-<div class="ttc" id="aa02408_html_a315ca917ad583797f709ea477dd28705"><div class="ttname"><a href="../../d4/d2d/a02408.html#a315ca917ad583797f709ea477dd28705">Language</a></div><div class="ttdeci">Language</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:734</div></div>
-<div class="ttc" id="aa07498_html_a3295cee708d267aac165f9ee55d2e615"><div class="ttname"><a href="../../d1/dd7/a07498.html#a3295cee708d267aac165f9ee55d2e615">ChatHandler::BuildChatPacket</a></div><div class="ttdeci">static std::size_t BuildChatPacket(WorldPacket &amp;data, ChatMsg chatType, Language language, ObjectGuid senderGUID, ObjectGuid receiverGUID, std::string_view message, uint8 chatTag, std::string const &amp;senderName=&quot;&quot;, std::string const &amp;receiverName=&quot;&quot;, uint32 achievementId=0, bool gmMessage=false, std::string const &amp;channelName=&quot;&quot;)</div><div class="ttdef"><b>Definition:</b> Chat.cpp:265</div></div>
-<div class="ttc" id="aa08358_html_aa627fe2967ed0e0ed1d8aeeb4365a961"><div class="ttname"><a href="../../dd/d4f/a08358.html#aa627fe2967ed0e0ed1d8aeeb4365a961">Object::GetEntry</a></div><div class="ttdeci">uint32 GetEntry() const</div><div class="ttdef"><b>Definition:</b> Object.h:116</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  154</span>{</div>
+<div class="line"><span class="lineno">  155</span>    <span class="keywordflow">switch</span> (<a class="code hl_variable" href="../../d2/dbf/a11378.html#abcf90ed5a832b5fe5ce3913a812da05d">effAurName</a>)</div>
+<div class="line"><span class="lineno">  156</span>    {</div>
+<div class="line"><span class="lineno">  157</span>        <span class="keywordflow">case</span> <a class="code hl_define" href="../../d9/d33/a03269.html#adc2aca3aa7cbad44c23b542d6bc0162a">SPELL_AURA_ANY</a>:</div>
+<div class="line"><span class="lineno">  158</span>            <span class="keywordflow">return</span> <span class="stringliteral">&quot;SPELL_AURA_ANY&quot;</span>;</div>
+<div class="line"><span class="lineno">  159</span>        <span class="keywordflow">default</span>:</div>
+<div class="line"><span class="lineno">  160</span>            <span class="keywordtype">char</span> num[10];</div>
+<div class="line"><span class="lineno">  161</span>            snprintf(num, <span class="keyword">sizeof</span>(num), <span class="stringliteral">&quot;%u&quot;</span>, <a class="code hl_variable" href="../../d2/dbf/a11378.html#abcf90ed5a832b5fe5ce3913a812da05d">effAurName</a>);</div>
+<div class="line"><span class="lineno">  162</span>            <span class="keywordflow">return</span> num;</div>
+<div class="line"><span class="lineno">  163</span>    }</div>
+<div class="line"><span class="lineno">  164</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00067">_gender</a>, <a class="el" href="../../#l00071">_language</a>, <a class="el" href="../../#l00068">_msgType</a>, <a class="el" href="../../#l00065">_source</a>, <a class="el" href="../../#l00066">_talker</a>, <a class="el" href="../../#l00072">_target</a>, <a class="el" href="../../#l00069">_textGroup</a>, <a class="el" href="../../#l00070">_textId</a>, <a class="el" href="../../#l00265">ChatHandler::BuildChatPacket()</a>, <a class="el" href="../../#l00116">Object::GetEntry()</a>, and <a class="el" href="../../#l00119">sCreatureTextMgr</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00043">SPELL_AURA_ANY</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00793">AuraScript::EffectBase::ToString()</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="aece205d3d523dcf6fefbdd9914943723" name="aece205d3d523dcf6fefbdd9914943723"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aece205d3d523dcf6fefbdd9914943723">&#9670;&#160;</a></span>_gender</h2>
+<a id="abcf90ed5a832b5fe5ce3913a812da05d" name="abcf90ed5a832b5fe5ce3913a812da05d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abcf90ed5a832b5fe5ce3913a812da05d">&#9670;&#160;</a></span>effAurName</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -280,7 +263,7 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d2/de7/a00014.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> PlayerTextBuilder::_gender</td>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> _SpellScript::EffectAuraNameCheck::effAurName</td>
         </tr>
       </table>
   </td>
@@ -290,175 +273,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00057">operator()()</a>.</p>
-
-</div>
-</div>
-<a id="a934d4a519c2c7b4017805b3bc24a4714" name="a934d4a519c2c7b4017805b3bc24a4714"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a934d4a519c2c7b4017805b3bc24a4714">&#9670;&#160;</a></span>_language</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> PlayerTextBuilder::_language</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00057">operator()()</a>.</p>
-
-</div>
-</div>
-<a id="af546f2788870b8b10b3405695ef81171" name="af546f2788870b8b10b3405695ef81171"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af546f2788870b8b10b3405695ef81171">&#9670;&#160;</a></span>_msgType</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d4/d2d/a02408.html#a249e68b260c9857b5d0d4cf4697fae16">ChatMsg</a> PlayerTextBuilder::_msgType</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00057">operator()()</a>.</p>
-
-</div>
-</div>
-<a id="a9fe9f865b0ba84b5497e63947893533e" name="a9fe9f865b0ba84b5497e63947893533e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9fe9f865b0ba84b5497e63947893533e">&#9670;&#160;</a></span>_source</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../da/da3/a08394.html">WorldObject</a>* PlayerTextBuilder::_source</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00057">operator()()</a>.</p>
-
-</div>
-</div>
-<a id="a8a8cd00cc76e048500800938a773aa06" name="a8a8cd00cc76e048500800938a773aa06"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8a8cd00cc76e048500800938a773aa06">&#9670;&#160;</a></span>_talker</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../da/da3/a08394.html">WorldObject</a>* PlayerTextBuilder::_talker</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00057">operator()()</a>.</p>
-
-</div>
-</div>
-<a id="ac97cf187d079c5162e47bebb7024faa5" name="ac97cf187d079c5162e47bebb7024faa5"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac97cf187d079c5162e47bebb7024faa5">&#9670;&#160;</a></span>_target</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../da/da3/a08394.html">WorldObject</a> const* PlayerTextBuilder::_target</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00057">operator()()</a>.</p>
-
-</div>
-</div>
-<a id="ab44fe12e73da36acb1199987e8573467" name="ab44fe12e73da36acb1199987e8573467"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab44fe12e73da36acb1199987e8573467">&#9670;&#160;</a></span>_textGroup</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d2/de7/a00014.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> PlayerTextBuilder::_textGroup</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00057">operator()()</a>.</p>
-
-</div>
-</div>
-<a id="a17b33a9a05a77722219a85a71f3bbc5e" name="a17b33a9a05a77722219a85a71f3bbc5e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a17b33a9a05a77722219a85a71f3bbc5e">&#9670;&#160;</a></span>_textId</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> PlayerTextBuilder::_textId</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00057">operator()()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00098">EffectAuraNameCheck()</a>.</p>
 
 </div>
 </div>
@@ -467,8 +282,8 @@ Private Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d2/dbf/a11378.html">PlayerTextBuilder</a></li>
-    <li class="footer">Generated on Mon Aug 4 2025 20:52:05 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d0/de6/a11366.html">_SpellScript</a></li><li class="navelem"><a class="el" href="../../d2/dbf/a11378.html">EffectAuraNameCheck</a></li>
+    <li class="footer">Generated on Mon Sep 1 2025 20:43:28 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

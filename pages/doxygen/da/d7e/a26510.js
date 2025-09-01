@@ -1,6 +1,5 @@
 var a26510 =
 [
-    [ "ModDest", "da/d7e/a26510.html#ab03387aec0a02a6b3bac1014443554b6", null ],
-    [ "PrepareSpellScript", "da/d7e/a26510.html#a53f7da301759fb18686bc73281c4a321", null ],
-    [ "Register", "da/d7e/a26510.html#a266198fbc6203517f9845ef6212ddf13", null ]
+    [ "PrepareSpellScript", "da/d7e/a26510.html#aee9595d4716fb2ea1bd9e2a66d26c39e", null ],
+    [ "Register", "da/d7e/a26510.html#a6318da4bfeb63dee75a971106bdc2146", null ]
 ];

@@ -1,15 +1,11 @@
 var a20230 =
 [
-    [ "npc_ulduar_hodir_shamanAI", "d9/d65/a20230.html#a4f18b06f254b57787b7ab31c9b422402", null ],
-    [ "AttackStart", "d9/d65/a20230.html#a022aabbc965872925698bd53fad2f84d", null ],
-    [ "CanAIAttack", "d9/d65/a20230.html#a21b3804fe0af15e59e9af30260552666", null ],
-    [ "EnterEvadeMode", "d9/d65/a20230.html#af9cfc1dc173e0a4d82f1dbc8eb1cbcba", null ],
-    [ "JustDied", "d9/d65/a20230.html#a5c06c412d38203bb10e9951e27d5760a", null ],
-    [ "MoveInLineOfSight", "d9/d65/a20230.html#a24d570f1c4a133c4f001032a1c915a27", null ],
-    [ "ScheduleAbilities", "d9/d65/a20230.html#ac197b53bc03fd8bdf44b8b2e2a64f568", null ],
-    [ "SpellHit", "d9/d65/a20230.html#a3c61b680a0d75a87bfaf4d8ae8072ea9", null ],
-    [ "SpellHitTarget", "d9/d65/a20230.html#ae829e62ec342c1e0d12a523506ea6b04", null ],
-    [ "UpdateAI", "d9/d65/a20230.html#af961f02169ab700716410e26114fd857", null ],
-    [ "events", "d9/d65/a20230.html#ad92f69d2a63313798e16cfbaf55301ca", null ],
-    [ "pInstance", "d9/d65/a20230.html#af4f0d720b9d9e4cbe4805cfc0c9a12c8", null ]
+    [ "boss_freya_elder_brightleafAI", "d9/d65/a20230.html#a53de463d34b808b4c5d459e1339f6f30", null ],
+    [ "JustDied", "d9/d65/a20230.html#aeea7300081f645d3fa83df6841c5a497", null ],
+    [ "JustEngagedWith", "d9/d65/a20230.html#a956adeb9b6ea0c8fa71bdcbd3735c79d", null ],
+    [ "KilledUnit", "d9/d65/a20230.html#a47935d017a2d34a888acb4079d3ff9aa", null ],
+    [ "Reset", "d9/d65/a20230.html#aee11d2e1fad8bc1b18c17b1527610914", null ],
+    [ "UpdateAI", "d9/d65/a20230.html#af28f94f278d279513d7f72cdc36528d4", null ],
+    [ "events", "d9/d65/a20230.html#a45b4f0d12497dd8e3ffc1cde429116f6", null ],
+    [ "summons", "d9/d65/a20230.html#a456123135a7fb4595d611a9e3995f461", null ]
 ];

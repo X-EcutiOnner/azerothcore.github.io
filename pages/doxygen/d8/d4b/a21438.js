@@ -1,6 +1,7 @@
 var a21438 =
 [
-    [ "npc_azure_mage_slayerAI", "d4/dfe/a21442.html", "d4/dfe/a21442" ],
-    [ "npc_azure_mage_slayer", "d8/d4b/a21438.html#ad5e5453235c224f4fac40244516dd1ad", null ],
-    [ "GetAI", "d8/d4b/a21438.html#a9b795915100f47b11a65abdfdcbf39f4", null ]
+    [ "HandleDummy", "d8/d4b/a21438.html#af524c771ef3a314f3c1dbaacae4f4538", null ],
+    [ "PrepareSpellScript", "d8/d4b/a21438.html#a2ad8abf39847c79ac5bc53093c487fc0", null ],
+    [ "Register", "d8/d4b/a21438.html#a45a33c0b51ed6c1dfed8d52d2f99e239", null ],
+    [ "Validate", "d8/d4b/a21438.html#a92f99501ee1582873586d2405b224f4f", null ]
 ];

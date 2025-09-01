@@ -1,9 +1,12 @@
 var a28954 =
 [
-    [ "boss_lethonAI", "d8/dd2/a28954.html#ac5d53a746f5286776b2e510f1de86790", null ],
-    [ "DamageTaken", "d8/dd2/a28954.html#a8a67dc7f923bfd56948a16d917a5f70f", null ],
-    [ "JustEngagedWith", "d8/dd2/a28954.html#a1a3acb1e8cbceb16854aafcf51a0f99d", null ],
-    [ "Reset", "d8/dd2/a28954.html#a0e53d139f64d104557e157a91176a47a", null ],
-    [ "SpellHitTarget", "d8/dd2/a28954.html#aa478414144cb396fa67a9bdb46dcbb4c", null ],
-    [ "_stage", "d8/dd2/a28954.html#aa267296ee60efc7d39a20dc05afec081", null ]
+    [ "Bounds", "d8/dd2/a28954.html#a1e982b341ac3859fad38b2efc81ab8ea", null ],
+    [ "DoodadSet", "d8/dd2/a28954.html#abbf6e50e76b120be17215cfcf227a524", null ],
+    [ "Flags", "d8/dd2/a28954.html#a06f5e96119239356eea45b9acdadf6e1", null ],
+    [ "Id", "d8/dd2/a28954.html#a952442c180e8d3710af31272b54eb6ec", null ],
+    [ "NameSet", "d8/dd2/a28954.html#a55df9aed38d8cf1503b21f5fd9d5e5d0", null ],
+    [ "Position", "d8/dd2/a28954.html#a7e6463db89eaf53bc20832afb1842a5b", null ],
+    [ "Rotation", "d8/dd2/a28954.html#a2c04715e800b9f375c287cced96643d1", null ],
+    [ "Scale", "d8/dd2/a28954.html#a142716fecae07abc013c7f3bd053c0ea", null ],
+    [ "UniqueId", "d8/dd2/a28954.html#a749e920740b9e91547fe1f87933d1c7d", null ]
 ];

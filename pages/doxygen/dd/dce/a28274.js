@@ -1,9 +1,13 @@
 var a28274 =
 [
-    [ "itemId", "dd/dce/a28274.html#ae125712e5569c9699b4748b6a15fbc12", null ],
-    [ "items_to_triggerspell", "dd/dce/a28274.html#a8496a2f3fa3e230def04b996fc585760", null ],
-    [ "name", "dd/dce/a28274.html#a9b62f843833d524f200782d44151503d", null ],
-    [ "required_skill_id", "dd/dce/a28274.html#ab3058ac725fb8f105b9359d5a5147942", null ],
-    [ "required_skill_value", "dd/dce/a28274.html#a58d0997a73cf48061545edbc0201f544", null ],
-    [ "spells", "dd/dce/a28274.html#a8aac032992efe1bfbba0e49693562c7f", null ]
+    [ "HasFlag", "dd/dce/a28274.html#a5d13e1af17cddf3acdbfc5387869e43f", null ],
+    [ "CinematicSequence", "dd/dce/a28274.html#a33a01b1c26b21706d9898af246f2a0df", null ],
+    [ "expansion", "dd/dce/a28274.html#ab6547f8b08d4d1bf57a37f9574b71e43", null ],
+    [ "FactionID", "dd/dce/a28274.html#a5c66801f2f89aeb847699a2dd87486c7", null ],
+    [ "Flags", "dd/dce/a28274.html#a8c2d30fb87284806a93d4c1da4a6edb0", null ],
+    [ "model_f", "dd/dce/a28274.html#a4807227fd863e247b18d29db0ea8236a", null ],
+    [ "model_m", "dd/dce/a28274.html#a50b5409352d7fe3e6f5919d83c9a0eae", null ],
+    [ "name", "dd/dce/a28274.html#a4970323e45feb3f74b47420648371ab6", null ],
+    [ "RaceID", "dd/dce/a28274.html#a853f3262af3408cf2791e7cd08ec8d32", null ],
+    [ "TeamID", "dd/dce/a28274.html#addd21f5fbf6868e7cf2cd3c54c7172a1", null ]
 ];

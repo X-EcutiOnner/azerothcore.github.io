@@ -1,6 +1,5 @@
 var a13954 =
 [
-    [ "boss_grilekAI", "d8/d98/a13958.html", "d8/d98/a13958" ],
-    [ "boss_grilek", "d5/d11/a13954.html#acffe0061db18c5725c8c290822c5fed7", null ],
-    [ "GetAI", "d5/d11/a13954.html#aa346fa8807069d8fc94bd4d81a014c76", null ]
+    [ "npc_mikhail", "d5/d11/a13954.html#ab63d49e91b0d4b6ca0f00ff0992f5bad", null ],
+    [ "OnQuestAccept", "d5/d11/a13954.html#a3e1d81aa9e610b73c3d856b355338d3b", null ]
 ];

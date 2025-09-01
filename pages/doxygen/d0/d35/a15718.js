@@ -1,6 +1,6 @@
 var a15718 =
 [
-    [ "npc_rivern_frostwind", "d0/d35/a15718.html#a0675c120fc28b26c7ea3c35f8d3f2a64", null ],
-    [ "OnGossipHello", "d0/d35/a15718.html#a90a6582633336de422c9f98973562b32", null ],
-    [ "OnGossipSelect", "d0/d35/a15718.html#a067ff91179f551633594d488eda269ed", null ]
+    [ "SpellId", "d0/d35/a15718.html#a2c430be201c1fd866ee96224f1803a20", null ],
+    [ "Timer1", "d0/d35/a15718.html#a9a35c148286e88f48b174be8b74fc5d0", null ],
+    [ "Timer2", "d0/d35/a15718.html#a108dee679b1f5d9fb8351f7b4b4f3a56", null ]
 ];

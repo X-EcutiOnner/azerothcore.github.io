@@ -1,6 +1,6 @@
 var a20906 =
 [
-    [ "boss_yoggsaron_llaneAI", "d9/d8f/a20910.html", "d9/d8f/a20910" ],
-    [ "boss_yoggsaron_llane", "de/d3c/a20906.html#a671df488222583aa12bc1c75695918b9", null ],
-    [ "GetAI", "de/d3c/a20906.html#a1e7d1b4bce0ca1dbfbbe8c044b451b92", null ]
+    [ "npc_xt002_pummellerAI", "d9/d8f/a20910.html", "d9/d8f/a20910" ],
+    [ "npc_xt002_pummeller", "de/d3c/a20906.html#af620e31a231ca8fb812324521bad4673", null ],
+    [ "GetAI", "de/d3c/a20906.html#a9ec4e452a3763c3d03e581a17e5d7efe", null ]
 ];

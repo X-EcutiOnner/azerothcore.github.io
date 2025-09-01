@@ -1,10 +1,6 @@
 var a24790 =
 [
-    [ "Load", "da/dbb/a24790.html#a2c4e408e45995098b01a05815fffb34c", null ],
-    [ "OnApply", "da/dbb/a24790.html#acae1047046bb8f555d1798ca024a2650", null ],
-    [ "OnRemove", "da/dbb/a24790.html#aa01df2b86cf69508866f6e7d063c735a", null ],
-    [ "PrepareAuraScript", "da/dbb/a24790.html#a18103f56fd6f90f8c3aa53ff53b82492", null ],
-    [ "Register", "da/dbb/a24790.html#a02ef50b047ac0ac8932d37234ad4ae2f", null ],
-    [ "Validate", "da/dbb/a24790.html#ac89215007d26494b6eaa690b23d6bbd8", null ],
-    [ "_casterGUID", "da/dbb/a24790.html#a8047fb4309487c7a529047ec5148a2e3", null ]
+    [ "CheckTargets", "da/dbb/a24790.html#abb6ffb41731b05b868f82498b373d8b9", null ],
+    [ "PrepareSpellScript", "da/dbb/a24790.html#a4ce2790448bd39c19daf8caae7ef5a9d", null ],
+    [ "Register", "da/dbb/a24790.html#aeefc7910c2960dbf3a49da6ed3c15523", null ]
 ];

@@ -1,14 +1,10 @@
 var a20238 =
 [
-    [ "npc_ulduar_hodir_mageAI", "de/d5b/a20238.html#a118059c877151a9f6b2b15a4070e2704", null ],
-    [ "AttackStart", "de/d5b/a20238.html#a3217617eb3312c1da34dc7dce590fe0d", null ],
-    [ "CanAIAttack", "de/d5b/a20238.html#a66ea56e856fcc706e4f938512def1590", null ],
-    [ "EnterEvadeMode", "de/d5b/a20238.html#a6d4cd626dcd58f825a6c88b804bb38a7", null ],
-    [ "JustDied", "de/d5b/a20238.html#a0176f8b45c20af1552e1a8b70e307442", null ],
-    [ "MoveInLineOfSight", "de/d5b/a20238.html#aaf35c04462b1698e85df64190f4e2c8a", null ],
-    [ "ScheduleAbilities", "de/d5b/a20238.html#a7927f399ef1c89b3eb83804fde9b2700", null ],
-    [ "SpellHit", "de/d5b/a20238.html#aa814a46a45ce5eb9696c8f6c6de8c521", null ],
-    [ "UpdateAI", "de/d5b/a20238.html#acbbe6667360e5bb7576c1ea741c2e2f1", null ],
-    [ "events", "de/d5b/a20238.html#a556453c557df0be6a57255e400d98a87", null ],
-    [ "pInstance", "de/d5b/a20238.html#ac4677898f5612c01d98ab242c7628e8f", null ]
+    [ "boss_freya_elder_ironbranchAI", "de/d5b/a20238.html#a4a7350a2bf7c813b1b18fe32566e4d56", null ],
+    [ "JustDied", "de/d5b/a20238.html#aab878773508fcbb437661d316266b942", null ],
+    [ "JustEngagedWith", "de/d5b/a20238.html#ab7b5df914ee5b22c25098c188306d123", null ],
+    [ "KilledUnit", "de/d5b/a20238.html#a7dc8d3b497c2297b35f6aec70cc5447b", null ],
+    [ "Reset", "de/d5b/a20238.html#afd87a8fc3ca55d1a91f4cc08b34095c8", null ],
+    [ "UpdateAI", "de/d5b/a20238.html#a711cd2788bff7fbc648c039921297eac", null ],
+    [ "events", "de/d5b/a20238.html#a88193ba77c8a0269a5b8bdc4f3dc96d2", null ]
 ];

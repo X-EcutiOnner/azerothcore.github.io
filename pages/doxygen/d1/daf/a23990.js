@@ -1,6 +1,6 @@
 var a23990 =
 [
-    [ "go_apexis_relic", "d1/daf/a23990.html#a91ff5a986ee62b628456e9f5c75f6bc9", null ],
-    [ "OnGossipHello", "d1/daf/a23990.html#ae8f7167ba5b973881e32d604691dc15a", null ],
-    [ "OnGossipSelect", "d1/daf/a23990.html#a025cc7cc9c69f0eb461445170972ab52", null ]
+    [ "npc_capernian", "d1/daf/a23990.html#a0acb568664c777797eeb7104f454699d", null ],
+    [ "AttackStart", "d1/daf/a23990.html#a81e89eacbae30a1229fda5e9fe924e2b", null ],
+    [ "ScheduleEvents", "d1/daf/a23990.html#a6bd26f5584a1c960b84b574abd723ad1", null ]
 ];

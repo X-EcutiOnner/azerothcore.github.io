@@ -1,6 +1,8 @@
 var a13498 =
 [
-    [ "npc_professor_phizzlethorpeAI", "d3/d88/a13502.html", "d3/d88/a13502" ],
-    [ "npc_professor_phizzlethorpe", "df/d9b/a13498.html#a8d32b4a107533c81033c617b0b97027d", null ],
-    [ "GetAI", "df/d9b/a13498.html#a5eb540d16b2dd123d553ea4ae24d8b53", null ]
+    [ "CheckCast", "df/d9b/a13498.html#a414c603646c1a6be9bbb7059abbb7e71", null ],
+    [ "HandleScriptEffect", "df/d9b/a13498.html#a22f630cb9df4b435a5624f2865915753", null ],
+    [ "PrepareSpellScript", "df/d9b/a13498.html#a6e6b27ade1cac743946a976dbf343066", null ],
+    [ "Register", "df/d9b/a13498.html#a4afae0bafceeb6e6a9a26aea2162d4d9", null ],
+    [ "Validate", "df/d9b/a13498.html#a85779288126b21f516f2feb0238ee65b", null ]
 ];

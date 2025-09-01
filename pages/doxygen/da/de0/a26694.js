@@ -1,7 +1,6 @@
 var a26694 =
 [
-    [ "HandleDummy", "da/de0/a26694.html#a00d36b914f5fd0466ae775e1fc95aa4f", null ],
-    [ "PrepareSpellScript", "da/de0/a26694.html#a86a5c2b8ff373af7e98645b8b380145c", null ],
-    [ "Register", "da/de0/a26694.html#a1b879ab84b8d6227ee5b2cccccd38bc2", null ],
-    [ "Validate", "da/de0/a26694.html#aa7d437146a96bb40c1a66a453e3e4339", null ]
+    [ "HandleScript", "da/de0/a26694.html#ad0885113f3bd8eea8ff3db30b55cc240", null ],
+    [ "PrepareSpellScript", "da/de0/a26694.html#a8410b746f810eaeb7f71c3a7de607a84", null ],
+    [ "Register", "da/de0/a26694.html#ab8f5c857ee42a6767d10277b52a7da01", null ]
 ];

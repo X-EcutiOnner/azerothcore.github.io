@@ -1,6 +1,7 @@
 var a11254 =
 [
-    [ "CastHandler", "d1/d17/a11254.html#aad22cf4791a20b9cb6704712ec3d9339", null ],
-    [ "Call", "d1/d17/a11254.html#afdbd455bd010bd93e84c334fe3987bf1", null ],
-    [ "pCastHandlerScript", "d1/d17/a11254.html#a091c494c18bc81968a386bc5f2565905", null ]
+    [ "chance", "d1/d17/a11254.html#a3326edd1fa36b85b9ab7a84a6f6f9d1b", null ],
+    [ "triggeredByAura", "d1/d17/a11254.html#abb48d6093570ba9c5488f200544a1e83", null ],
+    [ "triggeredByEffIdx", "d1/d17/a11254.html#a82d752dedab39f417af225add6af1403", null ],
+    [ "triggeredSpell", "d1/d17/a11254.html#a02ac12119655f9ab82347d21cc68803a", null ]
 ];

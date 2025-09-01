@@ -1,6 +1,11 @@
 var a23670 =
 [
-    [ "instance_shattered_halls_InstanceMapScript", "df/d1c/a23674.html", "df/d1c/a23674" ],
-    [ "instance_shattered_halls", "dc/d33/a23670.html#a9d0d3b6baec34c679151791610cff3a7", null ],
-    [ "GetInstanceScript", "dc/d33/a23670.html#a82388466811b022a725ba721845cadf3", null ]
+    [ "boss_krosh_firehand", "dc/d33/a23670.html#a1ef3618844f086de7875f26e7e6190f9", null ],
+    [ "AttackStart", "dc/d33/a23670.html#a74bd2c93ac45efcd163a904b9a52827b", null ],
+    [ "JustDied", "dc/d33/a23670.html#ad20c86b4a3d0cccddf91982c26f56c09", null ],
+    [ "JustEngagedWith", "dc/d33/a23670.html#ad6389c357fb6c09fdf4f3f3ef7095395", null ],
+    [ "Reset", "dc/d33/a23670.html#a989c4b762a7cdb228b245e91881d97a2", null ],
+    [ "UpdateAI", "dc/d33/a23670.html#a3d26a6f544e9d00514ca5b0ef7d4bf4f", null ],
+    [ "_scheduler", "dc/d33/a23670.html#a261ced01dc1305ab7c2d2f3322022fe5", null ],
+    [ "instance", "dc/d33/a23670.html#a876bb040d78cafa9aa22e818f60dce7f", null ]
 ];

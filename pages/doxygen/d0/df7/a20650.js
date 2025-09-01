@@ -1,6 +1,9 @@
 var a20650 =
 [
-    [ "boss_thorim_start_npcsAI", "db/dd2/a20654.html", "db/dd2/a20654" ],
-    [ "boss_thorim_start_npcs", "d0/df7/a20650.html#a3aa11a487ae00b2e397fd25ed2e42702", null ],
-    [ "GetAI", "d0/df7/a20650.html#a6c529b19d071b4966ccc74b44279cb08", null ]
+    [ "HandleEffectPeriodic", "d0/df7/a20650.html#ae3cb0f7a3da5a72eaa59350d7df13ffc", null ],
+    [ "Load", "d0/df7/a20650.html#a60deabce505dd3993dca0e71402dc190", null ],
+    [ "PrepareAuraScript", "d0/df7/a20650.html#a9a2fae625718f854ec5d2587a01a2da7", null ],
+    [ "Register", "d0/df7/a20650.html#a524c071390365b7dab59bc7a79b50f15", null ],
+    [ "_lastMSTime", "d0/df7/a20650.html#a013e9e0eef93583722f7d347c2ebbc49", null ],
+    [ "_lastOrientation", "d0/df7/a20650.html#a2537b325ff57b867092f3d9a1bd0fa8b", null ]
 ];

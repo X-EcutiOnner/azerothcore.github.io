@@ -1,7 +1,7 @@
 var a14430 =
 [
-    [ "HandleScript", "dd/d94/a14430.html#a78899a874a645d531dd4d89f2bd5478a", null ],
-    [ "PrepareSpellScript", "dd/d94/a14430.html#adc96c1dbf0b561a72d26dca57d5bfcec", null ],
-    [ "Register", "dd/d94/a14430.html#a76942c06492a48ce16bb85cf55d1e58d", null ],
-    [ "Validate", "dd/d94/a14430.html#a727f7c6ab1a2b5635e0b8fbd071d863d", null ]
+    [ "PeriodicTick", "dd/d94/a14430.html#ac8b584ffbb1a8787f70370d94586ed77", null ],
+    [ "PrepareAuraScript", "dd/d94/a14430.html#a4e860850bbab0f14eb8a160bb5e6799e", null ],
+    [ "Register", "dd/d94/a14430.html#a5def2685cedc4fb78c1a5c534c764ee9", null ],
+    [ "Validate", "dd/d94/a14430.html#a68247c2afa553411fac34582e83635c9", null ]
 ];

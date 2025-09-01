@@ -1,9 +1,10 @@
 var a08598 =
 [
-    [ "EntryPointData", "d4/d46/a08598.html#a1852523ba9ca889cdd6731c63de759e2", null ],
-    [ "ClearTaxiPath", "d4/d46/a08598.html#a4aee0d4ef3850fb486987ae6fe78ee91", null ],
-    [ "HasTaxiPath", "d4/d46/a08598.html#afd310b2f367ec7df76f01689ea120e6e", null ],
-    [ "joinPos", "d4/d46/a08598.html#abfdc0ccd945f60e0a3ec37d278c96940", null ],
-    [ "mountSpell", "d4/d46/a08598.html#a06e1cadac24a2ab90e57373692f829dc", null ],
-    [ "taxiPath", "d4/d46/a08598.html#a5af670fa420b250c22e0f3237e753a6f", null ]
+    [ "EquipmentSet", "d4/d46/a08598.html#acd3085c12c795daceae86e94448109e2", null ],
+    [ "Guid", "d4/d46/a08598.html#aae529ea61a2ad4f114b6a108564f5474", null ],
+    [ "IconName", "d4/d46/a08598.html#a40233dfcc23f125ff88693d6c7d7fab5", null ],
+    [ "IgnoreMask", "d4/d46/a08598.html#af116e824d23f000f424f3b261618e827", null ],
+    [ "Items", "d4/d46/a08598.html#a113e6e5883afe38d446a6d435cd34a01", null ],
+    [ "Name", "d4/d46/a08598.html#a2b4691a1b44ae47e7d3c2e63f88d78ba", null ],
+    [ "state", "d4/d46/a08598.html#a7e2270a6041dda26f8bc7f8c82597e7f", null ]
 ];

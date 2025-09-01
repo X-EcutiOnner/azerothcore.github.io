@@ -1,6 +1,11 @@
 var a16082 =
 [
-    [ "boss_twilight_halionAI", "de/db7/a16086.html", "de/db7/a16086" ],
-    [ "boss_twilight_halion", "d4/db8/a16082.html#a23ea0a61acb2cf3fd83aece3ac7d218e", null ],
-    [ "GetAI", "d4/db8/a16082.html#a56842d74b16cbd5636649cbc643c50d8", null ]
+    [ "spell_hadronox_summon_periodic_aura", "d4/db8/a16082.html#afcca15cddf71c0d46bd811eab9174f1a", null ],
+    [ "HandlePeriodic", "d4/db8/a16082.html#a048695baf71d307e5aaa00e54586c9f7", null ],
+    [ "OnApply", "d4/db8/a16082.html#a4466547bc1a5259a33354f2008d6cce7", null ],
+    [ "PrepareAuraScript", "d4/db8/a16082.html#a4205560054e5baed86aecba3b98fc202", null ],
+    [ "Register", "d4/db8/a16082.html#a09efdcddaed4af2833139ca20ef94376", null ],
+    [ "Validate", "d4/db8/a16082.html#a20827683249c17625242e205bb51f9e8", null ],
+    [ "_delay", "d4/db8/a16082.html#a191d7eec948e0753835bd41eef66f1ec", null ],
+    [ "_spellEntry", "d4/db8/a16082.html#a52e45512e2bbe34b0bdbfaa273aeb997", null ]
 ];

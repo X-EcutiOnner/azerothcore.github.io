@@ -1,7 +1,6 @@
 var a17110 =
 [
-    [ "HandleEffectPeriodic", "de/d71/a17110.html#a370e2cbf796c1bc0a891243b61c057e1", null ],
-    [ "PrepareAuraScript", "de/d71/a17110.html#ac0cb90fe9bfa7f371cc5469626ce2467", null ],
-    [ "Register", "de/d71/a17110.html#a5a44978cec95fef30c9ea4308bda2508", null ],
-    [ "Validate", "de/d71/a17110.html#a8b9f7d76f86f1a5abffdead3ebee694a", null ]
+    [ "npc_hor_raging_ghoulAI", "d6/d5c/a17114.html", "d6/d5c/a17114" ],
+    [ "npc_hor_raging_ghoul", "de/d71/a17110.html#ad2130edf27295719c46dde14deefe5a4", null ],
+    [ "GetAI", "de/d71/a17110.html#ab29cebad1d54d14ecf21bbd215dc2f2d", null ]
 ];

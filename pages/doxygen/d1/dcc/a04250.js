@@ -1,4 +1,4 @@
 var a04250 =
 [
-    [ "AppenderDB", "d5/dd4/a05896.html", "d5/dd4/a05896" ]
+    [ "ScriptRegistry< BattlegroundMapScript >", "d1/dcc/a04250.html#a79e6d39d74f9bbf97afe75113cd4db80", null ]
 ];

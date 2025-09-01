@@ -1,7 +1,6 @@
 var a27446 =
 [
-    [ "npc_prof_leather", "db/df0/a27446.html#a4a96f0c41a2a75ed26f52b1b0377c800", null ],
-    [ "HasLeatherSpecialty", "db/df0/a27446.html#aefbf75b4109f8013335f36cd2d6e84de", null ],
-    [ "OnGossipHello", "db/df0/a27446.html#a1a0dc1574c814af5e4f992c7fb199215", null ],
-    [ "OnGossipSelect", "db/df0/a27446.html#afdf3a42c20903efd7f45ab0042f79de0", null ]
+    [ "go_midsummer_musicAI", "d5/dd1/a27450.html", "d5/dd1/a27450" ],
+    [ "go_midsummer_music", "db/df0/a27446.html#a39c38fc78b47b16be9eebee0ccd5041d", null ],
+    [ "GetAI", "db/df0/a27446.html#a1baf09bdbf67c0a85219454c1cd61d2b", null ]
 ];

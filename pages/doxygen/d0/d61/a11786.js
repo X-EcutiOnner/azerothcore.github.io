@@ -1,12 +1,17 @@
 var a11786 =
 [
-    [ "wp_commandscript", "d0/d61/a11786.html#a152610b5faf3ee05bb830bbf820b7162", null ],
-    [ "GetCommands", "d0/d61/a11786.html#a55ecc8d67d7c240df1b177f755fc5850", null ],
-    [ "HandleWpAddCommand", "d0/d61/a11786.html#adedc9b5184e1c29edfa80734e59b8bf0", null ],
-    [ "HandleWpEventCommand", "d0/d61/a11786.html#a16fdb79724677307198ccf2fd6aa670d", null ],
-    [ "HandleWpLoadCommand", "d0/d61/a11786.html#a3fae6e6c16f1f6ed1e9dc9da716d064d", null ],
-    [ "HandleWpModifyCommand", "d0/d61/a11786.html#a83677a6b64c3e5f6e44345026775721a", null ],
-    [ "HandleWpReloadCommand", "d0/d61/a11786.html#a671598d3727fa7e9358391008c690cb6", null ],
-    [ "HandleWpShowCommand", "d0/d61/a11786.html#ac07358385858058e3df99bd0dd9ab5c1", null ],
-    [ "HandleWpUnLoadCommand", "d0/d61/a11786.html#a8e0f636c31f69acf5b9b0b27e9a9462e", null ]
+    [ "gobject_commandscript", "d0/d61/a11786.html#a664ffe7aa07b1e08156545675ae5dc69", null ],
+    [ "GetCommands", "d0/d61/a11786.html#a75124102670615a7b3a0ecd457ab631a", null ],
+    [ "HandleGameObjectActivateCommand", "d0/d61/a11786.html#a2512dfca6b1ae8a2476551a02caa202a", null ],
+    [ "HandleGameObjectAddCommand", "d0/d61/a11786.html#a23717867956cc0da99e3640d2b790346", null ],
+    [ "HandleGameObjectAddTempCommand", "d0/d61/a11786.html#a49908d7c180d778c43702563add17d2d", null ],
+    [ "HandleGameObjectDeleteCommand", "d0/d61/a11786.html#a06ef45827cefcc19f748c5940dfb4b1d", null ],
+    [ "HandleGameObjectInfoCommand", "d0/d61/a11786.html#a1d6e3c850b0bc2772d3f1f09877d8a40", null ],
+    [ "HandleGameObjectMoveCommand", "d0/d61/a11786.html#a7098a5b0c94cb09b8c6fe08eba261d93", null ],
+    [ "HandleGameObjectNearCommand", "d0/d61/a11786.html#a156f293b3bf9c7439b62814ee8f27650", null ],
+    [ "HandleGameObjectRespawn", "d0/d61/a11786.html#aafed57aa556c8cdc0c380185b056d705", null ],
+    [ "HandleGameObjectSetPhaseCommand", "d0/d61/a11786.html#af2ac49c9fdd408be62dd4ee179c1142c", null ],
+    [ "HandleGameObjectSetStateCommand", "d0/d61/a11786.html#ae6d100f51d8b08e1576092eedc4db15f", null ],
+    [ "HandleGameObjectTargetCommand", "d0/d61/a11786.html#a11d33046310495c0a6d883a307c95632", null ],
+    [ "HandleGameObjectTurnCommand", "d0/d61/a11786.html#a75883394613b2c3501cd48f5334199b7", null ]
 ];

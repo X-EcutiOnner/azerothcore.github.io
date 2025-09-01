@@ -1,6 +1,6 @@
 var a24618 =
 [
-    [ "CheckTargets", "da/dd9/a24618.html#abb6ffb41731b05b868f82498b373d8b9", null ],
-    [ "PrepareSpellScript", "da/dd9/a24618.html#a4ce2790448bd39c19daf8caae7ef5a9d", null ],
-    [ "Register", "da/dd9/a24618.html#aeefc7910c2960dbf3a49da6ed3c15523", null ]
+    [ "FilterTargets", "da/dd9/a24618.html#adab73c94c659d7421c9c6887d956cd83", null ],
+    [ "PrepareSpellScript", "da/dd9/a24618.html#a8cf5e4224f46b6f836d517f90fd135d4", null ],
+    [ "Register", "da/dd9/a24618.html#a3aaf93f3746b36d5bfa4fc475aabe43b", null ]
 ];

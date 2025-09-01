@@ -1,8 +1,6 @@
 var a15258 =
 [
-    [ "npc_obsidian_nullifier", "da/d94/a15258.html#a9dbb6d681e348057564750fcd7e8050a", null ],
-    [ "JustEngagedWith", "da/d94/a15258.html#ad3e30a214a9bcb6ea13d3a78716b5cb1", null ],
-    [ "Reset", "da/d94/a15258.html#a9897eab3b71dd0a6a2ea598951b095cd", null ],
-    [ "UpdateAI", "da/d94/a15258.html#a37cf1d335dd3735b262e82828c4f904a", null ],
-    [ "_targetGUIDs", "da/d94/a15258.html#aaf125742bf9d17ec0b605b78dee39c7c", null ]
+    [ "FilterTargets", "da/d94/a15258.html#a8fa6932a6cf291d8ab40140b171e1c17", null ],
+    [ "PrepareSpellScript", "da/d94/a15258.html#a5e93e2cb92db31be03703ab2e5d082cd", null ],
+    [ "Register", "da/d94/a15258.html#a0e3a6fd6f3de3d81f535d67451568c45", null ]
 ];

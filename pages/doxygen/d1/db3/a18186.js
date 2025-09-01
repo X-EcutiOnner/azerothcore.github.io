@@ -1,7 +1,7 @@
 var a18186 =
 [
-    [ "TriggerWickedSpirit", "d1/db3/a18186.html#ace62bc037a2bd8ca9c9c56202eb811e7", null ],
-    [ "Execute", "d1/db3/a18186.html#a7c8f1b5c33fac4d6a7cd89e3e71aa36d", null ],
-    [ "_counter", "d1/db3/a18186.html#a24b85a62208f881418f97b0a8cb10f27", null ],
-    [ "_owner", "d1/db3/a18186.html#ab460675158bfedd7f17a4b8e1cc06b3c", null ]
+    [ "FrostwyrmLandEvent", "d1/db3/a18186.html#a6b6a467c474a5b03be40e4d9a86eddc8", null ],
+    [ "Execute", "d1/db3/a18186.html#a4da77796a223e6233ac6d908f7700623", null ],
+    [ "_dest", "d1/db3/a18186.html#a7f5b4c41c459b65e30dea66f7459a7e9", null ],
+    [ "_owner", "d1/db3/a18186.html#a6336050092606ebb27a180abff55dfa2", null ]
 ];

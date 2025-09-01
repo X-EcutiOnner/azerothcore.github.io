@@ -1,6 +1,6 @@
 var a26122 =
 [
-    [ "CheckTarget", "d9/db3/a26122.html#af1dae4f351ccaa7bc9b2ea315f0752c5", null ],
-    [ "PrepareSpellScript", "d9/db3/a26122.html#a8f4075c80c7dcaa16f71bc1b396d005f", null ],
-    [ "Register", "d9/db3/a26122.html#af4a27df3090a45ebd5db29c58e9ea47f", null ]
+    [ "OnRemove", "d9/db3/a26122.html#a3803e6bbdb17e9a848376481581c993d", null ],
+    [ "PrepareAuraScript", "d9/db3/a26122.html#a6f1340b824af4604e310666e89d05b7a", null ],
+    [ "Register", "d9/db3/a26122.html#a3b361a478f1c035b706ac2e17499fb37", null ]
 ];

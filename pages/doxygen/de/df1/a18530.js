@@ -1,9 +1,12 @@
 var a18530 =
 [
-    [ "npc_gluttonous_abominationAI", "de/df1/a18530.html#a8b9b632e2e26ef8d0e8c122d28530e81", null ],
-    [ "JustDied", "de/df1/a18530.html#abc0dd71bbaf85786f34367acc3a849e9", null ],
-    [ "JustSummoned", "de/df1/a18530.html#a49ff3db7845167b9e98feab2a01b1ed1", null ],
-    [ "Reset", "de/df1/a18530.html#a45588181429a74ac024e0390c76fa57a", null ],
-    [ "UpdateAI", "de/df1/a18530.html#a33ef03a9f005ff187493275a9c2683a7", null ],
-    [ "_events", "de/df1/a18530.html#a4a841c7d2565f4797bc893a9c1ee7acd", null ]
+    [ "npc_strangulate_vehicleAI", "de/df1/a18530.html#a58e79834ed3f463ad51eca703d1c99ef", null ],
+    [ "DoAction", "de/df1/a18530.html#acf9d5a9e2f8b07f5ceb5ca75634e58fb", null ],
+    [ "IsHeroic", "de/df1/a18530.html#adb6ae2cefeec245196d21dc1112b2d5c", null ],
+    [ "IsSummonedBy", "de/df1/a18530.html#a381aec40cdcdf546d70b57a43978dbe9", null ],
+    [ "OnCharmed", "de/df1/a18530.html#a40e5537897c452d35093920ddd3669b0", null ],
+    [ "PassengerBoarded", "de/df1/a18530.html#a819746e13af95fa964c6da3d765a7c21", null ],
+    [ "UpdateAI", "de/df1/a18530.html#a53f567b77b7dfd0ccb5a0d98c0f5ef26", null ],
+    [ "_events", "de/df1/a18530.html#a19b493e994d246128f63d9109e87737a", null ],
+    [ "_instance", "de/df1/a18530.html#a7a16fbe4723a95293db01d3a2d80b569", null ]
 ];

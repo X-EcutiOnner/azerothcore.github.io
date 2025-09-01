@@ -1,6 +1,6 @@
 var a20194 =
 [
-    [ "npc_ulduar_flash_freezeAI", "d5/d80/a20198.html", "d5/d80/a20198" ],
-    [ "npc_ulduar_flash_freeze", "df/da1/a20194.html#a0301ed1231d3b0d113e9fc9389e8f160", null ],
-    [ "GetAI", "df/da1/a20194.html#a933f99c8d38ab98c8454919b6373bb41", null ]
+    [ "achievement_flame_leviathan_towers", "df/da1/a20194.html#a491d66bdd373b6044e406126719ef910", null ],
+    [ "OnCheck", "df/da1/a20194.html#ad6e9dee3f05afaca0a355b714bf75ea6", null ],
+    [ "_towerCount", "df/da1/a20194.html#a1099385340b30a1a75655e2e7d2ba3cc", null ]
 ];

@@ -1,10 +1,9 @@
 var a13454 =
 [
-    [ "npc_sunblade_scout", "d9/d43/a13454.html#ab8ecb0d2fb7dfd482b2cba4ed11ababc", null ],
-    [ "JustEngagedWith", "d9/d43/a13454.html#ab57b63a624458a9fa598062e61c5fa0e", null ],
-    [ "Reset", "d9/d43/a13454.html#a8c7f442118fced8a2efac3b9fe0035f5", null ],
-    [ "ScheduleCombat", "d9/d43/a13454.html#ae4ca796fa8fd4aae6ac8f184638b3f97", null ],
-    [ "ScheduleOOC", "d9/d43/a13454.html#ae06c1d7b43cc170f3a3b5f4835822d57", null ],
-    [ "UpdateAI", "d9/d43/a13454.html#aca75482085b72070487c24feefa23fd6", null ],
-    [ "_protectorGUID", "d9/d43/a13454.html#a753f7fbbea33f7fc49f5d6e733a8f833", null ]
+    [ "npc_demonic_vapor_trail", "d9/d43/a13454.html#a5bd024ea050372e982a183da59b45904", null ],
+    [ "JustSummoned", "d9/d43/a13454.html#a2e18ab340bfcc5ae2f1c80b92b0b5d3d", null ],
+    [ "Reset", "d9/d43/a13454.html#a9da762ab640abfaf5092034f284239af", null ],
+    [ "SpellHitTarget", "d9/d43/a13454.html#a21e2223f58156da2fbe1803554623ecd", null ],
+    [ "UpdateAI", "d9/d43/a13454.html#a90810fcfc4f27a457917cb79f4320fe3", null ],
+    [ "_timer", "d9/d43/a13454.html#a8eb3d3a6da57b7f0a2db9ff7ca7b01af", null ]
 ];

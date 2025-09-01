@@ -1,6 +1,6 @@
 var a24314 =
 [
-    [ "PrepareSpellScript", "d7/dc1/a24314.html#ac781a5ff389268d1f18867ff5585ca71", null ],
-    [ "Register", "d7/dc1/a24314.html#a5cb9e02774ea6c307e76183253ffb472", null ],
-    [ "SetDest", "d7/dc1/a24314.html#a5fec9885b1dd6cf80fb47af321fad98e", null ]
+    [ "npc_invis_infernal_casterAI", "d9/d97/a24318.html", "d9/d97/a24318" ],
+    [ "npc_invis_infernal_caster", "d7/dc1/a24314.html#a9aed081ef904075830428bbc76f53874", null ],
+    [ "GetAI", "d7/dc1/a24314.html#aede0c5cc390ea423169b1cba66d929cd", null ]
 ];

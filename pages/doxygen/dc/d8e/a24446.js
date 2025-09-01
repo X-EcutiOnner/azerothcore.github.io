@@ -1,6 +1,7 @@
 var a24446 =
 [
-    [ "FilterTargets", "dc/d8e/a24446.html#adab73c94c659d7421c9c6887d956cd83", null ],
-    [ "PrepareSpellScript", "dc/d8e/a24446.html#a8cf5e4224f46b6f836d517f90fd135d4", null ],
-    [ "Register", "dc/d8e/a24446.html#a3aaf93f3746b36d5bfa4fc475aabe43b", null ]
+    [ "npc_kservantAI", "dc/d8e/a24446.html#a0687712690f2bacd24da1c94d222e761", null ],
+    [ "IsSummonedBy", "dc/d8e/a24446.html#a6aa9c1544fffdd9916eda7a0941dc828", null ],
+    [ "Reset", "dc/d8e/a24446.html#a0756ffacb97c83a3028afc620b32f349", null ],
+    [ "WaypointReached", "dc/d8e/a24446.html#a577a2ebb91c08bfe2e09bc67eeebb4ef", null ]
 ];

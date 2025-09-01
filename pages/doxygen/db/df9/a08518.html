@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: PlayerCreateInfoItem Struct Reference</title>
+<title>AzerothCore: SpellModPredicate Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,30 +106,20 @@ $(document).ready(function(){initNavTree('db/df9/a08518.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../da/dde/a08515.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">PlayerCreateInfoItem Struct Reference</div></div>
+  <div class="headertitle"><div class="title">SpellModPredicate Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
-
-<p><code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:aba5495af3d4c463f7f65fa1851879d3b"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/df9/a08518.html#aba5495af3d4c463f7f65fa1851879d3b">PlayerCreateInfoItem</a> (<a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> id, <a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> amount)</td></tr>
-<tr class="separator:aba5495af3d4c463f7f65fa1851879d3b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
-Public Attributes</h2></td></tr>
-<tr class="memitem:a54e5593fe1a1e06b16963c96f1840a2a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/df9/a08518.html#a54e5593fe1a1e06b16963c96f1840a2a">item_id</a></td></tr>
-<tr class="separator:a54e5593fe1a1e06b16963c96f1840a2a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2cc481d54ec0c8a58477803364f40b2a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/df9/a08518.html#a2cc481d54ec0c8a58477803364f40b2a">item_amount</a></td></tr>
-<tr class="separator:a2cc481d54ec0c8a58477803364f40b2a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad03044f44da107f20eb3a3932d9cf667"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/df9/a08518.html#ad03044f44da107f20eb3a3932d9cf667">operator()</a> (<a class="el" href="../../de/d71/a08530.html">SpellModifier</a> const *a, <a class="el" href="../../de/d71/a08530.html">SpellModifier</a> const *b) const</td></tr>
+<tr class="separator:ad03044f44da107f20eb3a3932d9cf667"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="aba5495af3d4c463f7f65fa1851879d3b" name="aba5495af3d4c463f7f65fa1851879d3b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aba5495af3d4c463f7f65fa1851879d3b">&#9670;&#160;</a></span>PlayerCreateInfoItem()</h2>
+<div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
+<a id="ad03044f44da107f20eb3a3932d9cf667" name="ad03044f44da107f20eb3a3932d9cf667"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad03044f44da107f20eb3a3932d9cf667">&#9670;&#160;</a></span>operator()()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -138,21 +128,21 @@ Public Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">PlayerCreateInfoItem::PlayerCreateInfoItem </td>
+          <td class="memname">bool SpellModPredicate::operator() </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>id</em>, </td>
+          <td class="paramtype"><a class="el" href="../../de/d71/a08530.html">SpellModifier</a> const *&#160;</td>
+          <td class="paramname"><em>a</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>amount</em>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../de/d71/a08530.html">SpellModifier</a> const *&#160;</td>
+          <td class="paramname"><em>b</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
           <td>)</td>
-          <td></td><td></td>
+          <td></td><td> const</td>
         </tr>
       </table>
   </td>
@@ -161,38 +151,14 @@ Public Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  286</span>: <a class="code hl_variable" href="../../db/df9/a08518.html#a54e5593fe1a1e06b16963c96f1840a2a">item_id</a>(<span class="keywordtype">id</span>), <a class="code hl_variable" href="../../db/df9/a08518.html#a2cc481d54ec0c8a58477803364f40b2a">item_amount</a>(amount) {}</div>
-<div class="ttc" id="aa08518_html_a2cc481d54ec0c8a58477803364f40b2a"><div class="ttname"><a href="../../db/df9/a08518.html#a2cc481d54ec0c8a58477803364f40b2a">PlayerCreateInfoItem::item_amount</a></div><div class="ttdeci">uint32 item_amount</div><div class="ttdef"><b>Definition:</b> Player.h:289</div></div>
-<div class="ttc" id="aa08518_html_a54e5593fe1a1e06b16963c96f1840a2a"><div class="ttname"><a href="../../db/df9/a08518.html#a54e5593fe1a1e06b16963c96f1840a2a">PlayerCreateInfoItem::item_id</a></div><div class="ttdeci">uint32 item_id</div><div class="ttdef"><b>Definition:</b> Player.h:288</div></div>
+<div class="fragment"><div class="line"><span class="lineno"> 9912</span>    {</div>
+<div class="line"><span class="lineno"> 9913</span>        <span class="keywordflow">if</span> (a-&gt;type != b-&gt;type)</div>
+<div class="line"><span class="lineno"> 9914</span>            <span class="keywordflow">return</span> a-&gt;type == <a class="code hl_enumvalue" href="../../df/d5f/a03494.html#a946f1b98541e5df18b4b45f6fb144ce8a8ebc303e6990a35340cd39cef55f4dd7">SPELLMOD_FLAT</a>;</div>
+<div class="line"><span class="lineno"> 9915</span>        <span class="keywordflow">return</span> a-&gt;priority &gt; b-&gt;priority;</div>
+<div class="line"><span class="lineno"> 9916</span>    }</div>
+<div class="ttc" id="aa03494_html_a946f1b98541e5df18b4b45f6fb144ce8a8ebc303e6990a35340cd39cef55f4dd7"><div class="ttname"><a href="../../df/d5f/a03494.html#a946f1b98541e5df18b4b45f6fb144ce8a8ebc303e6990a35340cd39cef55f4dd7">SPELLMOD_FLAT</a></div><div class="ttdeci">@ SPELLMOD_FLAT</div><div class="ttdef"><b>Definition:</b> Player.h:93</div></div>
 </div><!-- fragment -->
-</div>
-</div>
-<h2 class="groupheader">Member Data Documentation</h2>
-<a id="a2cc481d54ec0c8a58477803364f40b2a" name="a2cc481d54ec0c8a58477803364f40b2a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2cc481d54ec0c8a58477803364f40b2a">&#9670;&#160;</a></span>item_amount</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> PlayerCreateInfoItem::item_amount</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a54e5593fe1a1e06b16963c96f1840a2a" name="a54e5593fe1a1e06b16963c96f1840a2a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a54e5593fe1a1e06b16963c96f1840a2a">&#9670;&#160;</a></span>item_id</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> PlayerCreateInfoItem::item_id</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
+<p class="reference">References <a class="el" href="../../#l00190">SpellModifier::priority</a>, <a class="el" href="../../#l00093">SPELLMOD_FLAT</a>, and <a class="el" href="../../#l00184">SpellModifier::type</a>.</p>
 
 </div>
 </div>
@@ -201,8 +167,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../db/df9/a08518.html">PlayerCreateInfoItem</a></li>
-    <li class="footer">Generated on Mon Aug 4 2025 20:52:05 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../db/df9/a08518.html">SpellModPredicate</a></li>
+    <li class="footer">Generated on Mon Sep 1 2025 20:44:39 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

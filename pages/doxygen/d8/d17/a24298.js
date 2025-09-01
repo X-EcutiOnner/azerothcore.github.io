@@ -1,6 +1,6 @@
 var a24298 =
 [
-    [ "HandleSendEvent", "d8/d17/a24298.html#a698e367b59ce770a9b4d9fe6890edf46", null ],
-    [ "PrepareSpellScript", "d8/d17/a24298.html#aed8815b1d068ba04f12c7714a64af769", null ],
-    [ "Register", "d8/d17/a24298.html#aa55fa06e76b1f34e319e16984405ed20", null ]
+    [ "HandleEffectRemove", "d8/d17/a24298.html#a2e73fd55dd7e6e658bc6c6623b650732", null ],
+    [ "PrepareAuraScript", "d8/d17/a24298.html#a9aabae3a6c57be9b17394d4a39fe24ec", null ],
+    [ "Register", "d8/d17/a24298.html#ac02217c103db141d75377e233e1e4242", null ]
 ];

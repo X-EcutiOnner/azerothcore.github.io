@@ -1,6 +1,12 @@
 var a04088 =
 [
-    [ "fireworkShowGameobjectUndercity", "db/d38/a04088.html#a67896d1b367cdcfcbee837b12ee9451c", null ],
-    [ "fireworkShowScheduleUndercity", "db/d38/a04088.html#ab00bea2179a021590447cb30da50fce1", null ],
-    [ "fireworkShowUndercity", "db/d38/a04088.html#afd61e001f4ea31858964426d56d2b3cf", null ]
+    [ "AchievementScript", "d9/d95/a10226.html", "d9/d95/a10226" ],
+    [ "AchievementHook", "db/d38/a04088.html#a62b7eadebfd59858b2e2f1a8713a3ae1", [
+      [ "ACHIEVEMENTHOOK_SET_REALM_COMPLETED", "db/d38/a04088.html#a62b7eadebfd59858b2e2f1a8713a3ae1ac3fc38cd750edf07c66cf42ae357a782", null ],
+      [ "ACHIEVEMENTHOOK_IS_COMPLETED_CRITERIA", "db/d38/a04088.html#a62b7eadebfd59858b2e2f1a8713a3ae1a12f1bcc17681be9acc81dc3fb51e8f2e", null ],
+      [ "ACHIEVEMENTHOOK_IS_REALM_COMPLETED", "db/d38/a04088.html#a62b7eadebfd59858b2e2f1a8713a3ae1a0f6e888313610e200011072afae5b8e7", null ],
+      [ "ACHIEVEMENTHOOK_ON_BEFORE_CHECK_CRITERIA", "db/d38/a04088.html#a62b7eadebfd59858b2e2f1a8713a3ae1a5073468c76ad4823c32a7fe0cc113048", null ],
+      [ "ACHIEVEMENTHOOK_CAN_CHECK_CRITERIA", "db/d38/a04088.html#a62b7eadebfd59858b2e2f1a8713a3ae1aa9d01d0837118bf75263bb54b21f18b1", null ],
+      [ "ACHIEVEMENTHOOK_END", "db/d38/a04088.html#a62b7eadebfd59858b2e2f1a8713a3ae1a2df8c3284122e09fda0d8f4b7789732c", null ]
+    ] ]
 ];

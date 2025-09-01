@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/Battlegrounds/BattlegroundUtils.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/common/Collision/Management/IVMapMgr.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,72 +105,90 @@ $(document).ready(function(){initNavTree('d4/def/a00359.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">BattlegroundUtils.cpp File Reference</div></div>
+<a href="#nested-classes">Classes</a> &#124;
+<a href="#namespaces">Namespaces</a> &#124;
+<a href="#define-members">Macros</a> &#124;
+<a href="#enum-members">Enumerations</a>  </div>
+  <div class="headertitle"><div class="title">IVMapMgr.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">BattlegroundUtils.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">World.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">Define.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ModelIgnoreFlags.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Optional.h</a>&quot;</code><br />
+<code>#include &lt;string&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
-Functions</h2></td></tr>
-<tr class="memitem:ab22bdb52b0357434faced9df19db9d81"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/def/a00359.html#ab22bdb52b0357434faced9df19db9d81">GetMinPlayersPerTeam</a> (<a class="el" href="../../d5/d9b/a07300.html">Battleground</a> *bg, <a class="el" href="../../db/d93/a28372.html">PvPDifficultyEntry</a> const *bracketEntry)</td></tr>
-<tr class="separator:ab22bdb52b0357434faced9df19db9d81"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
+Classes</h2></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d64/a04974.html">VMAP::AreaAndLiquidData</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/df8/a04978.html">VMAP::AreaAndLiquidData::AreaInfo</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d5e/a04982.html">VMAP::AreaAndLiquidData::LiquidInfo</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/de5/a04986.html">VMAP::IVMapMgr</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
+Namespaces</h2></td></tr>
+<tr class="memitem:d5/dc9/a04804"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/dc9/a04804.html">VMAP</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
+Macros</h2></td></tr>
+<tr class="memitem:aa3e862468079e7d1ca850fab429fb316"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/def/a00359.html#aa3e862468079e7d1ca850fab429fb316">VMAP_INVALID_HEIGHT</a>&#160;&#160;&#160;-100000.0f</td></tr>
+<tr class="separator:aa3e862468079e7d1ca850fab429fb316"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6d0d846568e1fbb60e05aacfa9c1c73c"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/def/a00359.html#a6d0d846568e1fbb60e05aacfa9c1c73c">VMAP_INVALID_HEIGHT_VALUE</a>&#160;&#160;&#160;-200000.0f</td></tr>
+<tr class="separator:a6d0d846568e1fbb60e05aacfa9c1c73c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
+Enumerations</h2></td></tr>
+<tr class="memitem:a70f18a0d29fcdc21e145ab8306987b18"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/dc9/a04804.html#a70f18a0d29fcdc21e145ab8306987b18">VMAP::VMAP_LOAD_RESULT</a> { <br />
+&#160;&#160;<a class="el" href="../../d5/dc9/a04804.html#a70f18a0d29fcdc21e145ab8306987b18a514fc6255627123117d881d4968bf663">VMAP::VMAP_LOAD_RESULT_ERROR</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d5/dc9/a04804.html#a70f18a0d29fcdc21e145ab8306987b18a942b44b8a6db80f6d4ab19ebad17192b">VMAP::VMAP_LOAD_RESULT_OK</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d5/dc9/a04804.html#a70f18a0d29fcdc21e145ab8306987b18addac30ca7168c74f716b6923498e0165">VMAP::VMAP_LOAD_RESULT_IGNORED</a>
+<br />
+ }</td></tr>
+<tr class="separator:a70f18a0d29fcdc21e145ab8306987b18"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3ca4e45c9be5012fb1af06ea12b759c2"><td class="memItemLeft" align="right" valign="top">enum class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/dc9/a04804.html#a3ca4e45c9be5012fb1af06ea12b759c2">VMAP::LoadResult</a> : uint8 { <br />
+&#160;&#160;<a class="el" href="../../d5/dc9/a04804.html#a3ca4e45c9be5012fb1af06ea12b759c2a505a83f220c02df2f85c3810cd9ceb38">VMAP::Success</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d5/dc9/a04804.html#a3ca4e45c9be5012fb1af06ea12b759c2a2767828026039e8ba7b38973cbb701f2">VMAP::FileNotFound</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d5/dc9/a04804.html#a3ca4e45c9be5012fb1af06ea12b759c2a2d50084f04994afa70d78b604a22dd31">VMAP::VersionMismatch</a>
+<br />
+ }</td></tr>
+<tr class="separator:a3ca4e45c9be5012fb1af06ea12b759c2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Function Documentation</h2>
-<a id="ab22bdb52b0357434faced9df19db9d81" name="ab22bdb52b0357434faced9df19db9d81"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab22bdb52b0357434faced9df19db9d81">&#9670;&#160;</a></span>GetMinPlayersPerTeam()</h2>
+<h2 class="groupheader">Macro Definition Documentation</h2>
+<a id="aa3e862468079e7d1ca850fab429fb316" name="aa3e862468079e7d1ca850fab429fb316"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa3e862468079e7d1ca850fab429fb316">&#9670;&#160;</a></span>VMAP_INVALID_HEIGHT</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> GetMinPlayersPerTeam </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d5/d9b/a07300.html">Battleground</a> *&#160;</td>
-          <td class="paramname"><em>bg</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../db/d93/a28372.html">PvPDifficultyEntry</a> const *&#160;</td>
-          <td class="paramname"><em>bracketEntry</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
+          <td class="memname">#define VMAP_INVALID_HEIGHT&#160;&#160;&#160;-100000.0f</td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">    5</span>{</div>
-<div class="line"><span class="lineno">    6</span>    <span class="comment">// The problem addressed here is that methods such as bg-&gt;GetMinLevel() and bg-&gt;GetMaxLevel() have a different meaning</span></div>
-<div class="line"><span class="lineno">    7</span>    <span class="comment">// according to whether the BG is a template (then it&#39;s the value from the `battleground_template` table)</span></div>
-<div class="line"><span class="lineno">    8</span>    <span class="comment">// or if it&#39;s the real BG (then it&#39;s the specific bracket minimum level, e.g. &quot;60&quot; for &quot;60-69&quot;).</span></div>
-<div class="line"><span class="lineno">    9</span> </div>
-<div class="line"><span class="lineno">   10</span>    <span class="keywordflow">if</span> (!bg-&gt;<a class="code hl_function" href="../../d5/d9b/a07300.html#acf16b3c5055b8a424e5f67cf471c5764">isTemplate</a>() || bg-&gt;<a class="code hl_function" href="../../d5/d9b/a07300.html#a8ca3356d984db0c5b6e09d61cf7a406c">isArena</a>())</div>
-<div class="line"><span class="lineno">   11</span>    {</div>
-<div class="line"><span class="lineno">   12</span>        <span class="keywordflow">return</span> bg-&gt;<a class="code hl_function" href="../../d5/d9b/a07300.html#a2def9e5daf5fcb029686b8000111ba5f">GetMinPlayersPerTeam</a>();</div>
-<div class="line"><span class="lineno">   13</span>    }</div>
-<div class="line"><span class="lineno">   14</span> </div>
-<div class="line"><span class="lineno">   15</span>    <span class="keyword">auto</span> maxPlayerLevel = <a class="code hl_define" href="../../d0/d9d/a04783.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getIntConfig(<a class="code hl_enumvalue" href="../../d2/d2f/a01460.html#a468ad15992691eb97dd20680046832e0a6684273cdd36b9b8215844fc51358ae1">CONFIG_MAX_PLAYER_LEVEL</a>);</div>
-<div class="line"><span class="lineno">   16</span>    <span class="keyword">auto</span> isMaxLevel = bracketEntry-&gt;minLevel &lt;= maxPlayerLevel &amp;&amp; maxPlayerLevel &lt;= bracketEntry-&gt;maxLevel;</div>
-<div class="line"><span class="lineno">   17</span>    <span class="keyword">auto</span> lowLevelsOverride = <a class="code hl_define" href="../../d0/d9d/a04783.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getIntConfig(<a class="code hl_enumvalue" href="../../d2/d2f/a01460.html#a468ad15992691eb97dd20680046832e0acc35d8a8f61002583d1c994bd93592eb">CONFIG_BATTLEGROUND_OVERRIDE_LOWLEVELS_MINPLAYERS</a>);</div>
-<div class="line"><span class="lineno">   18</span> </div>
-<div class="line"><span class="lineno">   19</span>    <span class="keywordflow">return</span> (lowLevelsOverride &amp;&amp; !isMaxLevel) ? lowLevelsOverride : bg-&gt;<a class="code hl_function" href="../../d5/d9b/a07300.html#a2def9e5daf5fcb029686b8000111ba5f">GetMinPlayersPerTeam</a>();</div>
-<div class="line"><span class="lineno">   20</span>}</div>
-<div class="ttc" id="aa01460_html_a468ad15992691eb97dd20680046832e0a6684273cdd36b9b8215844fc51358ae1"><div class="ttname"><a href="../../d2/d2f/a01460.html#a468ad15992691eb97dd20680046832e0a6684273cdd36b9b8215844fc51358ae1">CONFIG_MAX_PLAYER_LEVEL</a></div><div class="ttdeci">@ CONFIG_MAX_PLAYER_LEVEL</div><div class="ttdef"><b>Definition:</b> WorldConfig.h:186</div></div>
-<div class="ttc" id="aa01460_html_a468ad15992691eb97dd20680046832e0acc35d8a8f61002583d1c994bd93592eb"><div class="ttname"><a href="../../d2/d2f/a01460.html#a468ad15992691eb97dd20680046832e0acc35d8a8f61002583d1c994bd93592eb">CONFIG_BATTLEGROUND_OVERRIDE_LOWLEVELS_MINPLAYERS</a></div><div class="ttdeci">@ CONFIG_BATTLEGROUND_OVERRIDE_LOWLEVELS_MINPLAYERS</div><div class="ttdef"><b>Definition:</b> WorldConfig.h:258</div></div>
-<div class="ttc" id="aa04783_html_ga05dfb35c344e5b947a19e4284e7f5fa7"><div class="ttname"><a href="../../d0/d9d/a04783.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a></div><div class="ttdeci">#define sWorld</div><div class="ttdef"><b>Definition:</b> World.h:320</div></div>
-<div class="ttc" id="aa07300_html_a2def9e5daf5fcb029686b8000111ba5f"><div class="ttname"><a href="../../d5/d9b/a07300.html#a2def9e5daf5fcb029686b8000111ba5f">Battleground::GetMinPlayersPerTeam</a></div><div class="ttdeci">uint32 GetMinPlayersPerTeam() const</div><div class="ttdef"><b>Definition:</b> Battleground.h:341</div></div>
-<div class="ttc" id="aa07300_html_a8ca3356d984db0c5b6e09d61cf7a406c"><div class="ttname"><a href="../../d5/d9b/a07300.html#a8ca3356d984db0c5b6e09d61cf7a406c">Battleground::isArena</a></div><div class="ttdeci">bool isArena() const</div><div class="ttdef"><b>Definition:</b> Battleground.h:404</div></div>
-<div class="ttc" id="aa07300_html_acf16b3c5055b8a424e5f67cf471c5764"><div class="ttname"><a href="../../d5/d9b/a07300.html#acf16b3c5055b8a424e5f67cf471c5764">Battleground::isTemplate</a></div><div class="ttdeci">bool isTemplate() const</div><div class="ttdef"><b>Definition:</b> Battleground.h:332</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00258">CONFIG_BATTLEGROUND_OVERRIDE_LOWLEVELS_MINPLAYERS</a>, <a class="el" href="../../#l00186">CONFIG_MAX_PLAYER_LEVEL</a>, <a class="el" href="../../#l00341">Battleground::GetMinPlayersPerTeam()</a>, <a class="el" href="../../#l00404">Battleground::isArena()</a>, <a class="el" href="../../#l00332">Battleground::isTemplate()</a>, <a class="el" href="../../#l01437">PvPDifficultyEntry::maxLevel</a>, <a class="el" href="../../#l01436">PvPDifficultyEntry::minLevel</a>, and <a class="el" href="../../#l00320">sWorld</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00959">BattlegroundQueue::BattlegroundQueueAnnouncerUpdate()</a>, <a class="el" href="../../#l00707">BattlegroundQueue::BattlegroundQueueUpdate()</a>, and <a class="el" href="../../#l01036">BattlegroundQueue::SendMessageBGQueue()</a>.</p>
+</div>
+</div>
+<a id="a6d0d846568e1fbb60e05aacfa9c1c73c" name="a6d0d846568e1fbb60e05aacfa9c1c73c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6d0d846568e1fbb60e05aacfa9c1c73c">&#9670;&#160;</a></span>VMAP_INVALID_HEIGHT_VALUE</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define VMAP_INVALID_HEIGHT_VALUE&#160;&#160;&#160;-200000.0f</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
 
 </div>
 </div>
@@ -179,8 +197,8 @@ Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_fc52f0b797d74b4b54bfd04593b84648.html">Battlegrounds</a></li><li class="navelem"><a class="el" href="../../d4/def/a00359.html">BattlegroundUtils.cpp</a></li>
-    <li class="footer">Generated on Mon Aug 25 2025 20:45:16 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1070012e9e40376f8468ff0aa5b77c71.html">common</a></li><li class="navelem"><a class="el" href="../../dir_34825b659a55315b272dfcc55a7a0f6a.html">Collision</a></li><li class="navelem"><a class="el" href="../../dir_d80fbdfc32bca936ccce0e66a1573f7f.html">Management</a></li><li class="navelem"><a class="el" href="../../d4/def/a00359.html">IVMapMgr.h</a></li>
+    <li class="footer">Generated on Mon Sep 1 2025 20:42:34 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

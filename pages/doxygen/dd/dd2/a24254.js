@@ -1,6 +1,5 @@
 var a24254 =
 [
-    [ "CheckRequirement", "dd/dd2/a24254.html#aa53bdc1b4b57150dbebce61ac87d2b88", null ],
-    [ "PrepareSpellScript", "dd/dd2/a24254.html#a8e3d6659174d4c920e65f85afb9308b1", null ],
-    [ "Register", "dd/dd2/a24254.html#aa4f62292b32347179a5534e4bc0417f8", null ]
+    [ "go_warmaul_prison", "dd/dd2/a24254.html#adffbb532d7ee3c5a67543fe15ce5b67b", null ],
+    [ "OnGossipHello", "dd/dd2/a24254.html#ac9e66eeb30bf951d37f2d0917a295705", null ]
 ];

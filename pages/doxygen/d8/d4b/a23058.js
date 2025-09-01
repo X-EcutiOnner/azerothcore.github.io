@@ -1,7 +1,6 @@
 var a23058 =
 [
-    [ "PrepareAuraScript", "d8/d4b/a23058.html#a30ec063aa1ddbc3a32066e1f868bf742", null ],
-    [ "Register", "d8/d4b/a23058.html#a1e62c60bfc2b72811950b627ce1202c3", null ],
-    [ "Update", "d8/d4b/a23058.html#a3f98767367564734c9877d1870aac31b", null ],
-    [ "Validate", "d8/d4b/a23058.html#a450460769e0e54e06f1b64b3c63ba0de", null ]
+    [ "boss_reliquary_of_soulsAI", "d2/d94/a23062.html", "d2/d94/a23062" ],
+    [ "boss_reliquary_of_souls", "d8/d4b/a23058.html#a0c73fc6221da0b19903e534932ca6406", null ],
+    [ "GetAI", "d8/d4b/a23058.html#a55b717fe2b1bfdda84fec6c63852ae7c", null ]
 ];

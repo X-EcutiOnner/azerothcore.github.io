@@ -1,7 +1,7 @@
 var a09710 =
 [
-    [ "LootView", "d9/d0b/a09710.html#a4cfc8ca1034e941a85d2955f38b2e894", null ],
-    [ "loot", "d9/d0b/a09710.html#ac95fa4805c79923b292e8984b00de929", null ],
-    [ "permission", "d9/d0b/a09710.html#a33d7eeebd6fbc854300275a4138d9030", null ],
-    [ "viewer", "d9/d0b/a09710.html#af9a6926c6c871dee245f876038e49995", null ]
+    [ "QuestItem", "d9/d0b/a09710.html#a1d6e1d5de83a397b17115dbeba2a58b3", null ],
+    [ "QuestItem", "d9/d0b/a09710.html#a51b978ee64ec979ebe097f3b3f4c3cd0", null ],
+    [ "index", "d9/d0b/a09710.html#a0e48289882a1eabb6c8ff30032193bd2", null ],
+    [ "is_looted", "d9/d0b/a09710.html#a48f2baabd2d5a07313dc38a27c6f4713", null ]
 ];

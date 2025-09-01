@@ -1,24 +1,20 @@
 var a02834 =
 [
-    [ "npc_rizzle_sprysprocket", "d7/d6b/a15340.html", "d7/d6b/a15340" ],
-    [ "npc_rizzle_sprysprocket::npc_rizzle_sprysprocketAI", "d9/dbd/a15344.html", "d9/dbd/a15344" ],
-    [ "npc_depth_charge", "d1/dac/a15348.html", "d1/dac/a15348" ],
-    [ "npc_depth_charge::npc_depth_chargeAI", "d0/d8f/a15352.html", "d0/d8f/a15352" ],
-    [ "RizzleSprysprocketData", "d3/d57/a02834.html#ad694d8f9c4171422b48a06322c8bf5a3", [
-      [ "QUEST_CHASING_THE_MOONSTONE", "d3/d57/a02834.html#ad694d8f9c4171422b48a06322c8bf5a3a62167aa10a1e13501da60bbfd43df100", null ],
-      [ "NPC_DEPTH_CHARGE", "d3/d57/a02834.html#ad694d8f9c4171422b48a06322c8bf5a3a6238920533d94ea0caa141d736f110ac", null ],
-      [ "SPELL_RIZZLE_BLACKJACK", "d3/d57/a02834.html#ad694d8f9c4171422b48a06322c8bf5a3aa6c12ccbf9db4eb0ed767b4f07ddf62c", null ],
-      [ "SPELL_RIZZLE_ESCAPE", "d3/d57/a02834.html#ad694d8f9c4171422b48a06322c8bf5a3a045675473e0b088d783fd577efa8ad75", null ],
-      [ "SPELL_RIZZLE_FROST_GRENADE", "d3/d57/a02834.html#ad694d8f9c4171422b48a06322c8bf5a3a28994b7a8f42678d14a11b5a7078c0e1", null ],
-      [ "SPELL_DEPTH_CHARGE_TRAP", "d3/d57/a02834.html#ad694d8f9c4171422b48a06322c8bf5a3a685ae5385fd93ebf978ae918d8e88afe", null ],
-      [ "SPELL_PERIODIC_DEPTH_CHARGE", "d3/d57/a02834.html#ad694d8f9c4171422b48a06322c8bf5a3a46e20b8a4b722974fa1a48c334ad0965", null ],
-      [ "SPELL_GIVE_SOUTHFURY_MOONSTONE", "d3/d57/a02834.html#ad694d8f9c4171422b48a06322c8bf5a3a008357389ef71129c47d0af4c103f168", null ],
-      [ "SAY_RIZZLE_START", "d3/d57/a02834.html#ad694d8f9c4171422b48a06322c8bf5a3a4041141e3ffdb02858ab8e153b4bb80f", null ],
-      [ "SAY_RIZZLE_GRENADE", "d3/d57/a02834.html#ad694d8f9c4171422b48a06322c8bf5a3a62818d492b5281057628356574ada201", null ],
-      [ "SAY_RIZZLE_FINAL", "d3/d57/a02834.html#ad694d8f9c4171422b48a06322c8bf5a3a2171c54277d8aadbe7b633befacf4ab3", null ],
-      [ "MSG_ESCAPE_NOTICE", "d3/d57/a02834.html#ad694d8f9c4171422b48a06322c8bf5a3ac276316b4b9c389e1701165b3a1491c7", null ],
-      [ "GOSSIP_GET_MOONSTONE", "d3/d57/a02834.html#ad694d8f9c4171422b48a06322c8bf5a3a9ba89e15a5cf6168c5e38316ef46daa0", null ]
+    [ "WardenCheck", "de/dff/a11614.html", "de/dff/a11614" ],
+    [ "WardenCheckResult", "d1/dfd/a11618.html", "d1/dfd/a11618" ],
+    [ "WardenCheckMgr", "d0/db0/a11622.html", "d0/db0/a11622" ],
+    [ "sWardenCheckMgr", "d3/d57/a02834.html#a367963ecc82479f8bea3aea9e235a85c", null ],
+    [ "WardenActions", "d3/d57/a02834.html#acd25f1c729cc9c78338c6bc117dcd5e1", [
+      [ "WARDEN_ACTION_LOG", "d3/d57/a02834.html#acd25f1c729cc9c78338c6bc117dcd5e1a886d1d7fc710f19b1f98a28dd6652d81", null ],
+      [ "WARDEN_ACTION_KICK", "d3/d57/a02834.html#acd25f1c729cc9c78338c6bc117dcd5e1a3e6856d34f7e97f6cafcce4a86315d13", null ],
+      [ "WARDEN_ACTION_BAN", "d3/d57/a02834.html#acd25f1c729cc9c78338c6bc117dcd5e1a420c50c42a2e76090d4a4ab690885ae0", null ]
     ] ],
-    [ "AddSC_azshara", "d3/d57/a02834.html#ad86bcd16e9f7f0d1b823153be725f9ce", null ],
-    [ "WPs", "d3/d57/a02834.html#a6963f0357cacc0d2bcf7d514cad45e73", null ]
+    [ "WardenCheckTypes", "d3/d57/a02834.html#ad353d1b1b229bf72b97440ac296da2f0", [
+      [ "WARDEN_CHECK_MEM_TYPE", "d3/d57/a02834.html#ad353d1b1b229bf72b97440ac296da2f0a3a995022793f145e1eb48b42d3aadfb3", null ],
+      [ "WARDEN_CHECK_LUA_TYPE", "d3/d57/a02834.html#ad353d1b1b229bf72b97440ac296da2f0a78405e80a7b4bf4186706d64389e96af", null ],
+      [ "WARDEN_CHECK_OTHER_TYPE", "d3/d57/a02834.html#ad353d1b1b229bf72b97440ac296da2f0ab3ea81385a6db9185a94c0715749ffe2", null ]
+    ] ],
+    [ "MAX_WARDEN_ACTION", "d3/d57/a02834.html#afa0b1cff6db4dd71ef500011182f2834", null ],
+    [ "MAX_WARDEN_CHECK_TYPES", "d3/d57/a02834.html#a80604a840828219101f07100a7a48dad", null ],
+    [ "WARDEN_MAX_LUA_CHECK_LENGTH", "d3/d57/a02834.html#a005df8388201fb598a4eedfeac422fbc", null ]
 ];

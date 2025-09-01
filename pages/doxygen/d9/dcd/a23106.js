@@ -1,12 +1,7 @@
 var a23106 =
 [
-    [ "boss_fathomlord_karathress", "d9/dcd/a23106.html#a05c483ea61011926c260b43f6c01cac3", null ],
-    [ "DoAction", "d9/dcd/a23106.html#adc5685244341e353c6dac67b0191d877", null ],
-    [ "JustDied", "d9/dcd/a23106.html#a4c356359be50b626a28fab4a803386f8", null ],
-    [ "JustEngagedWith", "d9/dcd/a23106.html#ae221d994f2ebb0a298288233727ea1ba", null ],
-    [ "JustReachedHome", "d9/dcd/a23106.html#a1e03da049ad75a464de5dd15ac5e6d88", null ],
-    [ "JustSummoned", "d9/dcd/a23106.html#a3a692ef94d555e991a7cd34dee9812d9", null ],
-    [ "KilledUnit", "d9/dcd/a23106.html#a02812a3cc7de22348058dedd107bb6d0", null ],
-    [ "Reset", "d9/dcd/a23106.html#a52f76cb43a32c5f59cbc7476f0df8646", null ],
-    [ "_recentlySpoken", "d9/dcd/a23106.html#a81f52ead90284ca3598cd64eb9fb88ee", null ]
+    [ "CalculateAmount", "d9/dcd/a23106.html#adad1c8a513ce8a1badbd40c291363de1", null ],
+    [ "PrepareAuraScript", "d9/dcd/a23106.html#ac1a896ac1a751c8bdaee186dffd8c251", null ],
+    [ "Register", "d9/dcd/a23106.html#ae839fd19933a6fa9e55ce37e0633073e", null ],
+    [ "Update", "d9/dcd/a23106.html#aeb5a347ccac3c5ce6faef7641b5fca1c", null ]
 ];

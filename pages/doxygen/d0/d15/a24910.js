@@ -1,6 +1,6 @@
 var a24910 =
 [
-    [ "OnPeriodic", "d0/d15/a24910.html#a3bcef6bd4501489320ef1242a66c50e8", null ],
-    [ "PrepareAuraScript", "d0/d15/a24910.html#ab18f839ab70cc61e52c5e9ddb4847140", null ],
-    [ "Register", "d0/d15/a24910.html#afbc707f30b7db0329f24b9ab8e8134e0", null ]
+    [ "CheckCast", "d0/d15/a24910.html#a8ab8394c56201264ac4f2d859dd52092", null ],
+    [ "PrepareSpellScript", "d0/d15/a24910.html#acc6d27c8d869ec80ee5794405f6c238a", null ],
+    [ "Register", "d0/d15/a24910.html#a191085bc21ce6f5ce1d5b43d6d70f069", null ]
 ];

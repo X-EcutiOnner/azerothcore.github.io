@@ -1,6 +1,6 @@
 var a21058 =
 [
-    [ "HandleEffectPeriodic", "dd/d61/a21058.html#a3dd6eaa3e5800b92e19c12e47b0ad132", null ],
-    [ "PrepareAuraScript", "dd/d61/a21058.html#a0b24e94cfce6b57d2dc8b36c3fe1c39f", null ],
-    [ "Register", "dd/d61/a21058.html#a4dd779cac93c2f847495dadc67c0beb2", null ]
+    [ "boss_yoggsaron_influence_tentacleAI", "dd/d61/a21058.html#ae7457ed8084888b1074a44dd9a7ed0c7", null ],
+    [ "DamageTaken", "dd/d61/a21058.html#ad46e93ffb89c9c3ee9bfbe0f27c7117c", null ],
+    [ "JustDied", "dd/d61/a21058.html#ab09c96d167b9502098b9a7a2fa1b82ec", null ]
 ];

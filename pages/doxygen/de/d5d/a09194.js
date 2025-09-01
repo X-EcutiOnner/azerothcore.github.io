@@ -1,9 +1,9 @@
 var a09194 =
 [
-    [ "InserterType", "de/d5d/a09194.html#a8ea29aedfb1eaf2b3eac29bc61849319", null ],
-    [ "ContainerInserter", "de/d5d/a09194.html#a44cd545e2965b309c48d40f4617bc38e", null ],
-    [ "Insert", "de/d5d/a09194.html#af482d9f7940d548193fc56839bc2cb87", null ],
-    [ "InserterOf", "de/d5d/a09194.html#a003318d4ec066ca45d79ec5b669cdb8c", null ],
-    [ "inserter", "de/d5d/a09194.html#ac10b2769f02687260efd531af666fbb3", null ],
-    [ "ref", "de/d5d/a09194.html#a60d4a9120523c28d8c408c981305535e", null ]
+    [ "VisibleChangesNotifier", "de/d5d/a09194.html#aacb0239ed44c9705eeeebf5ab198f7e0", null ],
+    [ "Visit", "de/d5d/a09194.html#abfc60c91aaa823cb99cdfc17a287e23e", null ],
+    [ "Visit", "de/d5d/a09194.html#aaf1dab341f34f75e56da63370af0ecd3", null ],
+    [ "Visit", "de/d5d/a09194.html#a103a8ef30ce4c0753913b6ecb6cf4e92", null ],
+    [ "Visit", "de/d5d/a09194.html#a6e856249a08d0a90b9d19f2449f30fba", null ],
+    [ "i_object", "de/d5d/a09194.html#a496b982d081957cfc288f29b99b8739d", null ]
 ];

@@ -1,6 +1,7 @@
 var a19830 =
 [
-    [ "npc_auriaya_sanctum_sentryAI", "d5/d70/a19834.html", "d5/d70/a19834" ],
-    [ "npc_auriaya_sanctum_sentry", "d5/dc2/a19830.html#aa275374ba3a19a2e6a8768d4f01752b2", null ],
-    [ "GetAI", "d5/dc2/a19830.html#a6a8843d3f24378a2fd334e773618ab72", null ]
+    [ "HandleEffectRemove", "d5/dc2/a19830.html#af61220cb739baef9b33aecddb1cfe5ea", null ],
+    [ "PrepareAuraScript", "d5/dc2/a19830.html#ad8035b1b676751fcc299e4ad8df62ed8", null ],
+    [ "Register", "d5/dc2/a19830.html#abe52dbfdbd42c860e0a79873dd19e22d", null ],
+    [ "Validate", "d5/dc2/a19830.html#a7c4f9df92b501720e30372fa9e9dbad7", null ]
 ];

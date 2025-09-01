@@ -1,17 +1,11 @@
 var a15502 =
 [
-    [ "npc_clintar_spiritAI", "d4/dec/a15502.html#ab64c9da6af7246e1665a5264a26d75ab", null ],
-    [ "EnterEvadeMode", "d4/dec/a15502.html#a2ccffe81e2bd7cddcab10746bc9311bf", null ],
-    [ "IsSummonedBy", "d4/dec/a15502.html#af55bc32b17bfd45968e668c5591325ae", null ],
-    [ "JustDied", "d4/dec/a15502.html#a4e90511d9daf0545f0fee471f3ab0d5e", null ],
-    [ "Reset", "d4/dec/a15502.html#afd59b5e50deb65f7175138272f439740", null ],
-    [ "StartEvent", "d4/dec/a15502.html#ae3bbfd8374bf667d4eeb26e047ee2186", null ],
-    [ "UpdateAI", "d4/dec/a15502.html#a4b780f14cb2aa08c06e39a58501a21fe", null ],
-    [ "WaypointReached", "d4/dec/a15502.html#a98315f3202daaac261a1e7f0222b01c5", null ],
-    [ "checkPlayerTimer", "d4/dec/a15502.html#a10165a369bb8a7775050ae425cb94123", null ],
-    [ "CurrWP", "d4/dec/a15502.html#ae3b4588a2dfd337ffc71456652fa136f", null ],
-    [ "EventOnWait", "d4/dec/a15502.html#a7473dff3417d3e7510bc4fb7acbeb494", null ],
-    [ "EventTimer", "d4/dec/a15502.html#a27b0a90757df63df276b1e26bfbaba83", null ],
-    [ "PlayerGUID", "d4/dec/a15502.html#ad721852353215d46bc623efca358981f", null ],
-    [ "Step", "d4/dec/a15502.html#af9b65e2de0dcce5844fbc642b32f5a3f", null ]
+    [ "npc_magwinAI", "d4/dec/a15502.html#ad4a352dd0c7c6f76e74f110b00ec9053", null ],
+    [ "JustEngagedWith", "d4/dec/a15502.html#aea2ab8bf79d6fcc3d2036d160274fab8", null ],
+    [ "Reset", "d4/dec/a15502.html#a883ef3cd1b097847de148ccb9bd3e903", null ],
+    [ "sQuestAccept", "d4/dec/a15502.html#aafef28bc7879e29d1fa79ec08f58da55", null ],
+    [ "UpdateEscortAI", "d4/dec/a15502.html#a34236331be8842a9e2a98036ea382e18", null ],
+    [ "WaypointReached", "d4/dec/a15502.html#a7278a3cff406af2ecb3d29c7bf90febc", null ],
+    [ "_events", "d4/dec/a15502.html#a32dad2bde92efab7e0f0d16e809df665", null ],
+    [ "_player", "d4/dec/a15502.html#ac3d7059ee67abcafa0586f0bed5df9cc", null ]
 ];

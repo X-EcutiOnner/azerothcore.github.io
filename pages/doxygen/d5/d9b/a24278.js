@@ -1,5 +1,7 @@
 var a24278 =
 [
-    [ "npc_shattrath_daily_quest", "d5/d9b/a24278.html#ab6aa71e4738fdce1b59d379249a868d5", null ],
-    [ "DoAction", "d5/d9b/a24278.html#ac3e8c6de30ad7567fe5e52cd1ddfeb2c", null ]
+    [ "npc_bessyAI", "dd/d1c/a24282.html", "dd/d1c/a24282" ],
+    [ "npc_bessy", "d5/d9b/a24278.html#a08278c1524445054ca158433044a0824", null ],
+    [ "GetAI", "d5/d9b/a24278.html#af805bc5ee3de2fd6773158e51bf09d4a", null ],
+    [ "OnQuestAccept", "d5/d9b/a24278.html#a98b8e816195b81bab12cc9906df79807", null ]
 ];

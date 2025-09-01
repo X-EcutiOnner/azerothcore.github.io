@@ -1,6 +1,6 @@
 var a16062 =
 [
-    [ "npc_onyx_flamecallerAI", "da/d7e/a16066.html", "da/d7e/a16066" ],
-    [ "npc_onyx_flamecaller", "db/db5/a16062.html#af27af3cb3bbaba0801481ba77a94f9c6", null ],
-    [ "GetAI", "db/db5/a16062.html#a712284f1997635aaf7ecd7ca0a263c05", null ]
+    [ "PrepareSpellScript", "db/db5/a16062.html#a2a3602af522bb8658c1bfdede1234efd", null ],
+    [ "Register", "db/db5/a16062.html#aba235111ea4e186064a85295466f2a3f", null ],
+    [ "SetDest", "db/db5/a16062.html#a89827e4db37bea4847c79265d95386c6", null ]
 ];

@@ -1,5 +1,8 @@
 var a04865 =
 [
-    [ "hi", "dd/d2f/a04865.html#aa227ae5593ba3111598033f570d97cb9", null ],
-    [ "lo", "dd/d2f/a04865.html#aaf79653331f78979c84dfee2da118fdd", null ]
+    [ "ByteSize", "d5/deb/a10946.html", "d5/deb/a10946" ],
+    [ "Hyperlinks", "de/d40/a10954.html", "de/d40/a10954" ],
+    [ "NoHyperlinks", "dd/da6/a10958.html", "dd/da6/a10958" ],
+    [ "RawBytes", "de/de2/a10942.html", "de/de2/a10942" ],
+    [ "Utf8", "df/daf/a10950.html", "df/daf/a10950" ]
 ];

@@ -1,6 +1,8 @@
 var a12510 =
 [
-    [ "bossId", "d7/df8/a12510.html#a898f2ce24d96fb7d6a118e9772344c43", null ],
-    [ "circleId", "d7/df8/a12510.html#aaa379e61fda2f7225ab4089757df5d24", null ],
-    [ "runeId", "d7/df8/a12510.html#aa7ac7e2d5729aa906e00ca9c2648581d", null ]
+    [ "boss_garrAI", "d7/df8/a12510.html#a12d403a90bf4920763ddd87b252f544a", null ],
+    [ "JustEngagedWith", "d7/df8/a12510.html#a3b2bf0e6d3b6b32c450d03b1c88f3850", null ],
+    [ "Reset", "d7/df8/a12510.html#acb14e869dac8e7df83b5b9d858cd2b21", null ],
+    [ "UpdateAI", "d7/df8/a12510.html#aca82837e143f4509db221de15276b90c", null ],
+    [ "massEruptionTimer", "d7/df8/a12510.html#ab807c47afd1ba8320730c3aa733e1b15", null ]
 ];

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: PlayerSettingsStore Namespace Reference</title>
+<title>AzerothCore: ArenaSpectator Namespace Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,44 +106,571 @@ $(document).ready(function(){initNavTree('d4/de4/a04834.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">PlayerSettingsStore Namespace Reference</div></div>
+  <div class="headertitle"><div class="title">ArenaSpectator Namespace Reference</div></div>
 </div><!--header-->
 <div class="contents">
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:aeaa79bb46d98ab2f4f5f3674d52f6745"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/d46/a01739.html#a5c88535ec12f87cc432b1c594bf05326">PlayerSettingVector</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/de4/a04834.html#aeaa79bb46d98ab2f4f5f3674d52f6745">ParseSettingsData</a> (std::string const &amp;data)</td></tr>
-<tr class="separator:aeaa79bb46d98ab2f4f5f3674d52f6745"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2e2d73056f0c30ed8b22419fed1c3d6a"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/de4/a04834.html#a2e2d73056f0c30ed8b22419fed1c3d6a">SerializeSettingsData</a> (<a class="el" href="../../d1/d46/a01739.html#a5c88535ec12f87cc432b1c594bf05326">PlayerSettingVector</a> const &amp;settings)</td></tr>
-<tr class="separator:a2e2d73056f0c30ed8b22419fed1c3d6a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aeeeef0d082814c49edeabefa39fb10b7"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d1/d46/a01739.html#a5c88535ec12f87cc432b1c594bf05326">PlayerSettingVector</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/de4/a04834.html#aeeeef0d082814c49edeabefa39fb10b7">LoadPlayerSettings</a> (<a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> playerLowGuid, std::string const &amp;source)</td></tr>
-<tr class="separator:aeeeef0d082814c49edeabefa39fb10b7"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aaf1d54a7292b560b6d26c7a0332482e0"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/de4/a04834.html#aaf1d54a7292b560b6d26c7a0332482e0">UpdateSetting</a> (<a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> playerLowGuid, std::string const &amp;source, <a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> index, <a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> value)</td></tr>
-<tr class="separator:aaf1d54a7292b560b6d26c7a0332482e0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a50a2948284069e6a28f5f61561e6695c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/dde/a04187.html#adabd50def0511ee540f8e1296c8cf782">CharacterDatabasePreparedStatement</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/de4/a04834.html#a50a2948284069e6a28f5f61561e6695c">PrepareReplaceStatement</a> (<a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> playerLowGuid, std::string const &amp;source, <a class="el" href="../../d1/d46/a01739.html#a5c88535ec12f87cc432b1c594bf05326">PlayerSettingVector</a> const &amp;settings)</td></tr>
-<tr class="separator:a50a2948284069e6a28f5f61561e6695c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abc5c395f3697c21f09c4e70a81f02497"><td class="memTemplParams" colspan="2">template&lt;class T &gt; </td></tr>
+<tr class="memitem:abc5c395f3697c21f09c4e70a81f02497"><td class="memTemplItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a00a04eccc2ca042486601576eccae409">AC_GAME_API</a> void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d4/de4/a04834.html#abc5c395f3697c21f09c4e70a81f02497">SendPacketTo</a> (const T *object, std::string &amp;&amp;message)</td></tr>
+<tr class="separator:abc5c395f3697c21f09c4e70a81f02497"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4824203dd64e1ddcd47642df9d465ea0"><td class="memTemplParams" colspan="2">template&lt;class T , typename Format , typename... Args&gt; </td></tr>
+<tr class="memitem:a4824203dd64e1ddcd47642df9d465ea0"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d4/de4/a04834.html#a4824203dd64e1ddcd47642df9d465ea0">SendCommand</a> (T *o, Format &amp;&amp;fmt, Args &amp;&amp;... args)</td></tr>
+<tr class="separator:a4824203dd64e1ddcd47642df9d465ea0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac7839fd6177447b31578a19f8ee8e42a"><td class="memTemplParams" colspan="2">template&lt;class T &gt; </td></tr>
+<tr class="memitem:ac7839fd6177447b31578a19f8ee8e42a"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d4/de4/a04834.html#ac7839fd6177447b31578a19f8ee8e42a">SendCommand_String</a> (T *o, <a class="el" href="../../d4/dea/a08430.html">ObjectGuid</a> targetGUID, const char *prefix, const char *c)</td></tr>
+<tr class="separator:ac7839fd6177447b31578a19f8ee8e42a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae899637e3543ca40ec63e98bf0426f58"><td class="memTemplParams" colspan="2">template&lt;class T &gt; </td></tr>
+<tr class="memitem:ae899637e3543ca40ec63e98bf0426f58"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d4/de4/a04834.html#ae899637e3543ca40ec63e98bf0426f58">SendCommand_UInt32Value</a> (T *o, <a class="el" href="../../d4/dea/a08430.html">ObjectGuid</a> targetGUID, const char *prefix, <a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> t)</td></tr>
+<tr class="separator:ae899637e3543ca40ec63e98bf0426f58"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af537ad9da6345b285d2d726b640a0340"><td class="memTemplParams" colspan="2">template&lt;class T &gt; </td></tr>
+<tr class="memitem:af537ad9da6345b285d2d726b640a0340"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d4/de4/a04834.html#af537ad9da6345b285d2d726b640a0340">SendCommand_GUID</a> (T *o, <a class="el" href="../../d4/dea/a08430.html">ObjectGuid</a> targetGUID, const char *prefix, <a class="el" href="../../d4/dea/a08430.html">ObjectGuid</a> t)</td></tr>
+<tr class="separator:af537ad9da6345b285d2d726b640a0340"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a461f69ba88de17058481bc77a3e9f7bb"><td class="memTemplParams" colspan="2">template&lt;class T &gt; </td></tr>
+<tr class="memitem:a461f69ba88de17058481bc77a3e9f7bb"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d4/de4/a04834.html#a461f69ba88de17058481bc77a3e9f7bb">SendCommand_Spell</a> (T *o, <a class="el" href="../../d4/dea/a08430.html">ObjectGuid</a> targetGUID, const char *prefix, <a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> id, <a class="el" href="../../d0/d61/a00302.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> casttime)</td></tr>
+<tr class="separator:a461f69ba88de17058481bc77a3e9f7bb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5e336b6d62f2d9e24551cfb96c7a8679"><td class="memTemplParams" colspan="2">template&lt;class T &gt; </td></tr>
+<tr class="memitem:a5e336b6d62f2d9e24551cfb96c7a8679"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d4/de4/a04834.html#a5e336b6d62f2d9e24551cfb96c7a8679">SendCommand_Cooldown</a> (T *o, <a class="el" href="../../d4/dea/a08430.html">ObjectGuid</a> targetGUID, const char *prefix, <a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> id, <a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> dur, <a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> maxdur)</td></tr>
+<tr class="separator:a5e336b6d62f2d9e24551cfb96c7a8679"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a918c7c3c9fd7d26b7a78f2e6d13e1e27"><td class="memTemplParams" colspan="2">template&lt;class T &gt; </td></tr>
+<tr class="memitem:a918c7c3c9fd7d26b7a78f2e6d13e1e27"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d4/de4/a04834.html#a918c7c3c9fd7d26b7a78f2e6d13e1e27">SendCommand_Aura</a> (T *o, <a class="el" href="../../d4/dea/a08430.html">ObjectGuid</a> targetGUID, const char *prefix, <a class="el" href="../../d4/dea/a08430.html">ObjectGuid</a> caster, <a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> id, bool isDebuff, <a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> dispel, <a class="el" href="../../d0/d61/a00302.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> dur, <a class="el" href="../../d0/d61/a00302.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> maxdur, <a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> stack, bool remove)</td></tr>
+<tr class="separator:a918c7c3c9fd7d26b7a78f2e6d13e1e27"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac3b35eed76fdcf00f43b226912317b4a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a00a04eccc2ca042486601576eccae409">AC_GAME_API</a> bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/de4/a04834.html#ac3b35eed76fdcf00f43b226912317b4a">HandleSpectatorSpectateCommand</a> (<a class="el" href="../../d1/d15/a07522.html">ChatHandler</a> *handler, std::string const &amp;name)</td></tr>
+<tr class="separator:ac3b35eed76fdcf00f43b226912317b4a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae611c9f6783ca983d1ff667f36dd7c7d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a00a04eccc2ca042486601576eccae409">AC_GAME_API</a> bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/de4/a04834.html#ae611c9f6783ca983d1ff667f36dd7c7d">HandleSpectatorWatchCommand</a> (<a class="el" href="../../d1/d15/a07522.html">ChatHandler</a> *handler, std::string const &amp;name)</td></tr>
+<tr class="separator:ae611c9f6783ca983d1ff667f36dd7c7d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a20983eb9cb8e3f584a4d8f752586d06b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a00a04eccc2ca042486601576eccae409">AC_GAME_API</a> void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/de4/a04834.html#a20983eb9cb8e3f584a4d8f752586d06b">CreatePacket</a> (<a class="el" href="../../d3/ddb/a11102.html">WorldPacket</a> &amp;data, std::string const &amp;message)</td></tr>
+<tr class="separator:a20983eb9cb8e3f584a4d8f752586d06b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4508ccc26eb193b85e4d229a088c6be5"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a00a04eccc2ca042486601576eccae409">AC_GAME_API</a> void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/de4/a04834.html#a4508ccc26eb193b85e4d229a088c6be5">HandleResetCommand</a> (<a class="el" href="../../d4/d95/a08630.html">Player</a> *player)</td></tr>
+<tr class="separator:a4508ccc26eb193b85e4d229a088c6be5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a29f78349223aca49d417c3f818b2dd4c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a00a04eccc2ca042486601576eccae409">AC_GAME_API</a> bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/de4/a04834.html#a29f78349223aca49d417c3f818b2dd4c">ShouldSendAura</a> (<a class="el" href="../../da/d3e/a11202.html">Aura</a> *aura, <a class="el" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> effMask, <a class="el" href="../../d4/dea/a08430.html">ObjectGuid</a> targetGUID, bool remove)</td></tr>
+<tr class="separator:a29f78349223aca49d417c3f818b2dd4c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Function Documentation</h2>
-<a id="aeeeef0d082814c49edeabefa39fb10b7" name="aeeeef0d082814c49edeabefa39fb10b7"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aeeeef0d082814c49edeabefa39fb10b7">&#9670;&#160;</a></span>LoadPlayerSettings()</h2>
+<a id="a20983eb9cb8e3f584a4d8f752586d06b" name="a20983eb9cb8e3f584a4d8f752586d06b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a20983eb9cb8e3f584a4d8f752586d06b">&#9670;&#160;</a></span>CreatePacket()</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">static <a class="el" href="../../d1/d46/a01739.html#a5c88535ec12f87cc432b1c594bf05326">PlayerSettingVector</a> PlayerSettingsStore::LoadPlayerSettings </td>
+          <td class="memname">void ArenaSpectator::CreatePacket </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>playerLowGuid</em>, </td>
+          <td class="paramtype"><a class="el" href="../../d3/ddb/a11102.html">WorldPacket</a> &amp;&#160;</td>
+          <td class="paramname"><em>data</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype">std::string const &amp;&#160;</td>
-          <td class="paramname"><em>source</em>&#160;</td>
+          <td class="paramname"><em>message</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  214</span>{</div>
+<div class="line"><span class="lineno">  215</span>    std::size_t len = message.length();</div>
+<div class="line"><span class="lineno">  216</span>    data.<a class="code hl_function" href="../../d3/ddb/a11102.html#a6b7d58fb0230383629fa888d3aa9dbd8">Initialize</a>(<a class="code hl_enumvalue" href="../../db/d92/a04791.html#gga1073b6abb3a749f18bf1633020879e9ba4c79b0cc83e509f31b580eb22f0ae116">SMSG_MESSAGECHAT</a>, 1 + 4 + 8 + 4 + 8 + 4 + 1 + len + 1);</div>
+<div class="line"><span class="lineno">  217</span>    data &lt;&lt; <a class="code hl_typedef" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>(<a class="code hl_enumvalue" href="../../dc/d43/a04727.html#a249e68b260c9857b5d0d4cf4697fae16a79f5ed3a0d02f99bad2520dc879272bc">CHAT_MSG_WHISPER</a>);</div>
+<div class="line"><span class="lineno">  218</span>    data &lt;&lt; <a class="code hl_typedef" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(<a class="code hl_enumvalue" href="../../dc/d43/a04727.html#a315ca917ad583797f709ea477dd28705aa85e31bb25e43732ec93feb7e5355e18">LANG_ADDON</a>);</div>
+<div class="line"><span class="lineno">  219</span>    data &lt;&lt; <a class="code hl_typedef" href="../../d0/d61/a00302.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>(0);</div>
+<div class="line"><span class="lineno">  220</span>    data &lt;&lt; <a class="code hl_typedef" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(0);</div>
+<div class="line"><span class="lineno">  221</span>    data &lt;&lt; <a class="code hl_typedef" href="../../d0/d61/a00302.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>(0);</div>
+<div class="line"><span class="lineno">  222</span>    data &lt;&lt; <a class="code hl_typedef" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(len + 1);</div>
+<div class="line"><span class="lineno">  223</span>    data &lt;&lt; message;</div>
+<div class="line"><span class="lineno">  224</span>    data &lt;&lt; <a class="code hl_typedef" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>(0);</div>
+<div class="line"><span class="lineno">  225</span>}</div>
+<div class="ttc" id="aa00302_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition:</b> Define.h:109</div></div>
+<div class="ttc" id="aa00302_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
+<div class="ttc" id="aa00302_html_ac4dd6ce78ce3b840c53bd4b3c63ed09b"><div class="ttname"><a href="../../d0/d61/a00302.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a></div><div class="ttdeci">std::uint64_t uint64</div><div class="ttdef"><b>Definition:</b> Define.h:106</div></div>
+<div class="ttc" id="aa04727_html_a249e68b260c9857b5d0d4cf4697fae16a79f5ed3a0d02f99bad2520dc879272bc"><div class="ttname"><a href="../../dc/d43/a04727.html#a249e68b260c9857b5d0d4cf4697fae16a79f5ed3a0d02f99bad2520dc879272bc">CHAT_MSG_WHISPER</a></div><div class="ttdeci">@ CHAT_MSG_WHISPER</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:3409</div></div>
+<div class="ttc" id="aa04727_html_a315ca917ad583797f709ea477dd28705aa85e31bb25e43732ec93feb7e5355e18"><div class="ttname"><a href="../../dc/d43/a04727.html#a315ca917ad583797f709ea477dd28705aa85e31bb25e43732ec93feb7e5355e18">LANG_ADDON</a></div><div class="ttdeci">@ LANG_ADDON</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:764</div></div>
+<div class="ttc" id="aa04791_html_gga1073b6abb3a749f18bf1633020879e9ba4c79b0cc83e509f31b580eb22f0ae116"><div class="ttname"><a href="../../db/d92/a04791.html#gga1073b6abb3a749f18bf1633020879e9ba4c79b0cc83e509f31b580eb22f0ae116">SMSG_MESSAGECHAT</a></div><div class="ttdeci">@ SMSG_MESSAGECHAT</div><div class="ttdef"><b>Definition:</b> Opcodes.h:180</div></div>
+<div class="ttc" id="aa11102_html_a6b7d58fb0230383629fa888d3aa9dbd8"><div class="ttname"><a href="../../d3/ddb/a11102.html#a6b7d58fb0230383629fa888d3aa9dbd8">WorldPacket::Initialize</a></div><div class="ttdeci">void Initialize(uint16 opcode, std::size_t newres=200)</div><div class="ttdef"><b>Definition:</b> WorldPacket.h:68</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l03409">CHAT_MSG_WHISPER</a>, <a class="el" href="../../#l00068">WorldPacket::Initialize()</a>, <a class="el" href="../../#l00764">LANG_ADDON</a>, and <a class="el" href="../../#l00180">SMSG_MESSAGECHAT</a>.</p>
+
+</div>
+</div>
+<a id="a4508ccc26eb193b85e4d229a088c6be5" name="a4508ccc26eb193b85e4d229a088c6be5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4508ccc26eb193b85e4d229a088c6be5">&#9670;&#160;</a></span>HandleResetCommand()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void ArenaSpectator::HandleResetCommand </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d4/d95/a08630.html">Player</a> *&#160;</td>
+          <td class="paramname"><em>player</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  228</span>{</div>
+<div class="line"><span class="lineno">  229</span>    <span class="keywordflow">if</span> (!player-&gt;<a class="code hl_function" href="../../dc/d1b/a08414.html#a1e43fee59e696ae47ed06191ae3b1b82">FindMap</a>() || !player-&gt;<a class="code hl_function" href="../../de/d6b/a08378.html#a3aeab7def818ba6c50249f197ad2f9ca">IsInWorld</a>() || !player-&gt;<a class="code hl_function" href="../../dc/d1b/a08414.html#a1e43fee59e696ae47ed06191ae3b1b82">FindMap</a>()-&gt;<a class="code hl_function" href="../../d8/df9/a09834.html#afe645aa76713224c7e7fcd0f5e12fc79">IsBattleArena</a>())</div>
+<div class="line"><span class="lineno">  230</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  231</span> </div>
+<div class="line"><span class="lineno">  232</span>    <a class="code hl_class" href="../../db/d09/a07310.html">Battleground</a>* bg = ((<a class="code hl_class" href="../../d6/dc0/a09842.html">BattlegroundMap</a>*)player-&gt;<a class="code hl_function" href="../../dc/d1b/a08414.html#a1e43fee59e696ae47ed06191ae3b1b82">FindMap</a>())-&gt;GetBG();</div>
+<div class="line"><span class="lineno">  233</span>    <span class="keywordflow">if</span> (!bg || bg-&gt;<a class="code hl_function" href="../../db/d09/a07310.html#aaa7ab97fdd1ee4fda63deba7eabe9cb1">GetStatus</a>() != <a class="code hl_enumvalue" href="../../dd/da3/a03026.html#ad1473374651bd09f461cdc994a6bc8d2afaf0b6349b8a93b543f64c744e321d5a">STATUS_IN_PROGRESS</a>)</div>
+<div class="line"><span class="lineno">  234</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  235</span> </div>
+<div class="line"><span class="lineno">  236</span>    <a class="code hl_typedef" href="../../db/d09/a07310.html#a89ad7beedc7aca0506c87d983b74eee4">Battleground::BattlegroundPlayerMap</a> <span class="keyword">const</span>&amp; pl = bg-&gt;<a class="code hl_function" href="../../db/d09/a07310.html#a9e2bbc0cf8fe25b492486503fbe8d673">GetPlayers</a>();</div>
+<div class="line"><span class="lineno">  237</span>    <span class="keywordflow">for</span> (Battleground::BattlegroundPlayerMap::const_iterator itr = pl.begin(); itr != pl.end(); ++itr)</div>
+<div class="line"><span class="lineno">  238</span>    {</div>
+<div class="line"><span class="lineno">  239</span>        <span class="keywordflow">if</span> (player-&gt;<a class="code hl_function" href="../../d4/d95/a08630.html#a56895d0a241eb0f36211ef34f3caaf4e">HasReceivedSpectatorResetFor</a>(itr-&gt;first))</div>
+<div class="line"><span class="lineno">  240</span>            <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  241</span> </div>
+<div class="line"><span class="lineno">  242</span>        <a class="code hl_class" href="../../d4/d95/a08630.html">Player</a>* plr = itr-&gt;second;</div>
+<div class="line"><span class="lineno">  243</span>        player-&gt;<a class="code hl_function" href="../../d4/d95/a08630.html#a6307a2b4db34ca2997248becd8c70ec9">AddReceivedSpectatorResetFor</a>(itr-&gt;first);</div>
+<div class="line"><span class="lineno">  244</span> </div>
+<div class="line"><span class="lineno">  245</span>        <a class="code hl_function" href="../../d4/de4/a04834.html#ac7839fd6177447b31578a19f8ee8e42a">SendCommand_String</a>(player, itr-&gt;first, <span class="stringliteral">&quot;NME&quot;</span>, plr-&gt;<a class="code hl_function" href="../../dc/d1b/a08414.html#a7e67658eb5aa058bc7f46bf6b11a797c">GetName</a>().c_str());</div>
+<div class="line"><span class="lineno">  246</span>        <span class="comment">// Xinef: addon compatibility</span></div>
+<div class="line"><span class="lineno">  247</span>        <a class="code hl_function" href="../../d4/de4/a04834.html#ae899637e3543ca40ec63e98bf0426f58">SendCommand_UInt32Value</a>(player, itr-&gt;first, <span class="stringliteral">&quot;TEM&quot;</span>, plr-&gt;<a class="code hl_function" href="../../d4/d95/a08630.html#afcf1880d221c0af14b0e0c6b54b328ab">GetBgTeamId</a>() == <a class="code hl_enumvalue" href="../../dc/d43/a04727.html#abfb349736a7699bdfcdb134035ef7865a77ec52d5d5f9771c1ac94fddaf7fb84e">TEAM_ALLIANCE</a> ? <a class="code hl_enumvalue" href="../../dc/d43/a04727.html#a9c13bb5b1d69698f9b47900990eaa598a360acb47017e8e0d3522e08575f3d1b2">ALLIANCE</a> : <a class="code hl_enumvalue" href="../../dc/d43/a04727.html#a9c13bb5b1d69698f9b47900990eaa598ae00f67931133b08b7de375111e800b42">HORDE</a>);</div>
+<div class="line"><span class="lineno">  248</span>        <a class="code hl_function" href="../../d4/de4/a04834.html#ae899637e3543ca40ec63e98bf0426f58">SendCommand_UInt32Value</a>(player, itr-&gt;first, <span class="stringliteral">&quot;CLA&quot;</span>, plr-&gt;<a class="code hl_function" href="../../d6/d2d/a08766.html#a58a507ebe628930b8a506144b364d84b">getClass</a>());</div>
+<div class="line"><span class="lineno">  249</span>        <a class="code hl_function" href="../../d4/de4/a04834.html#ae899637e3543ca40ec63e98bf0426f58">SendCommand_UInt32Value</a>(player, itr-&gt;first, <span class="stringliteral">&quot;MHP&quot;</span>, plr-&gt;<a class="code hl_function" href="../../d6/d2d/a08766.html#a5173c1774b09b42c409bf31280c37d36">GetMaxHealth</a>());</div>
+<div class="line"><span class="lineno">  250</span>        <a class="code hl_function" href="../../d4/de4/a04834.html#ae899637e3543ca40ec63e98bf0426f58">SendCommand_UInt32Value</a>(player, itr-&gt;first, <span class="stringliteral">&quot;CHP&quot;</span>, plr-&gt;<a class="code hl_function" href="../../d6/d2d/a08766.html#a958172d6051b106e3b3c776e4f9f3952">GetHealth</a>());</div>
+<div class="line"><span class="lineno">  251</span>        <a class="code hl_function" href="../../d4/de4/a04834.html#ae899637e3543ca40ec63e98bf0426f58">SendCommand_UInt32Value</a>(player, itr-&gt;first, <span class="stringliteral">&quot;STA&quot;</span>, plr-&gt;<a class="code hl_function" href="../../d6/d2d/a08766.html#a5ea3f54af571493f7889220724667189">IsAlive</a>() ? 1 : 0);</div>
+<div class="line"><span class="lineno">  252</span>        <a class="code hl_enumeration" href="../../dc/d43/a04727.html#a17e15fab4b89f4840e745f31ca76a414">Powers</a> ptype = plr-&gt;<a class="code hl_function" href="../../d6/d2d/a08766.html#ad44d31430fab9282a79e8682822ccd9c">getPowerType</a>();</div>
+<div class="line"><span class="lineno">  253</span>        <a class="code hl_function" href="../../d4/de4/a04834.html#ae899637e3543ca40ec63e98bf0426f58">SendCommand_UInt32Value</a>(player, itr-&gt;first, <span class="stringliteral">&quot;PWT&quot;</span>, ptype);</div>
+<div class="line"><span class="lineno">  254</span>        <a class="code hl_function" href="../../d4/de4/a04834.html#ae899637e3543ca40ec63e98bf0426f58">SendCommand_UInt32Value</a>(player, itr-&gt;first, <span class="stringliteral">&quot;MPW&quot;</span>, ptype == <a class="code hl_enumvalue" href="../../dc/d43/a04727.html#a17e15fab4b89f4840e745f31ca76a414a1b514bf3a42e9a5dc4271bd25b7dce7e">POWER_RAGE</a> || ptype == <a class="code hl_enumvalue" href="../../dc/d43/a04727.html#a17e15fab4b89f4840e745f31ca76a414a4c504424e60c95f01e0ec1468a52d221">POWER_RUNIC_POWER</a> ? plr-&gt;<a class="code hl_function" href="../../d6/d2d/a08766.html#a93f83fd909310de2c76382d00d7dbbf1">GetMaxPower</a>(ptype) / 10 : plr-&gt;<a class="code hl_function" href="../../d6/d2d/a08766.html#a93f83fd909310de2c76382d00d7dbbf1">GetMaxPower</a>(ptype));</div>
+<div class="line"><span class="lineno">  255</span>        <a class="code hl_function" href="../../d4/de4/a04834.html#ae899637e3543ca40ec63e98bf0426f58">SendCommand_UInt32Value</a>(player, itr-&gt;first, <span class="stringliteral">&quot;CPW&quot;</span>, ptype == <a class="code hl_enumvalue" href="../../dc/d43/a04727.html#a17e15fab4b89f4840e745f31ca76a414a1b514bf3a42e9a5dc4271bd25b7dce7e">POWER_RAGE</a> || ptype == <a class="code hl_enumvalue" href="../../dc/d43/a04727.html#a17e15fab4b89f4840e745f31ca76a414a4c504424e60c95f01e0ec1468a52d221">POWER_RUNIC_POWER</a> ? plr-&gt;<a class="code hl_function" href="../../d6/d2d/a08766.html#ad7e475d80b9af430cc076d7c01f967e9">GetPower</a>(ptype) / 10 : plr-&gt;<a class="code hl_function" href="../../d6/d2d/a08766.html#ad7e475d80b9af430cc076d7c01f967e9">GetPower</a>(ptype));</div>
+<div class="line"><span class="lineno">  256</span>        <a class="code hl_class" href="../../d3/daf/a08498.html">Pet</a>* pet = plr-&gt;<a class="code hl_function" href="../../d4/d95/a08630.html#a5eef7fef24e4a9269d1ee834bc2bd501">GetPet</a>();</div>
+<div class="line"><span class="lineno">  257</span>        <a class="code hl_function" href="../../d4/de4/a04834.html#ae899637e3543ca40ec63e98bf0426f58">SendCommand_UInt32Value</a>(player, itr-&gt;first, <span class="stringliteral">&quot;PHP&quot;</span>, pet &amp;&amp; pet-&gt;<a class="code hl_function" href="../../da/d2e/a08010.html#a97fd2015b3956323ef777b5f9e23a1e8">GetCreatureTemplate</a>()-&gt;<a class="code hl_variable" href="../../df/d60/a08038.html#af596e49e3418f003b8ed9c6bb8305e01">family</a> ? (<a class="code hl_typedef" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>)pet-&gt;<a class="code hl_function" href="../../d6/d2d/a08766.html#a0cb842af542d302eb67b743078e1ac01">GetHealthPct</a>() : 0);</div>
+<div class="line"><span class="lineno">  258</span>        <a class="code hl_function" href="../../d4/de4/a04834.html#ae899637e3543ca40ec63e98bf0426f58">SendCommand_UInt32Value</a>(player, itr-&gt;first, <span class="stringliteral">&quot;PET&quot;</span>, pet ? pet-&gt;<a class="code hl_function" href="../../da/d2e/a08010.html#a97fd2015b3956323ef777b5f9e23a1e8">GetCreatureTemplate</a>()-&gt;<a class="code hl_variable" href="../../df/d60/a08038.html#af596e49e3418f003b8ed9c6bb8305e01">family</a> : 0);</div>
+<div class="line"><span class="lineno">  259</span>        <a class="code hl_function" href="../../d4/de4/a04834.html#af537ad9da6345b285d2d726b640a0340">SendCommand_GUID</a>(player, itr-&gt;first, <span class="stringliteral">&quot;TRG&quot;</span>, plr-&gt;<a class="code hl_function" href="../../d6/d2d/a08766.html#af387d5e18806e37f65ebc3408c0b8712">GetTarget</a>());</div>
+<div class="line"><span class="lineno">  260</span>        <a class="code hl_function" href="../../d4/de4/a04834.html#ae899637e3543ca40ec63e98bf0426f58">SendCommand_UInt32Value</a>(player, itr-&gt;first, <span class="stringliteral">&quot;RES&quot;</span>, 1);</div>
+<div class="line"><span class="lineno">  261</span>        <a class="code hl_function" href="../../d4/de4/a04834.html#ae899637e3543ca40ec63e98bf0426f58">SendCommand_UInt32Value</a>(player, itr-&gt;first, <span class="stringliteral">&quot;CDC&quot;</span>, 1);</div>
+<div class="line"><span class="lineno">  262</span>        <a class="code hl_function" href="../../d4/de4/a04834.html#ae899637e3543ca40ec63e98bf0426f58">SendCommand_UInt32Value</a>(player, itr-&gt;first, <span class="stringliteral">&quot;TIM&quot;</span>, (bg-&gt;<a class="code hl_function" href="../../db/d09/a07310.html#a9cb3765aa8a79a83e1402d60835c0ae8">GetStartTime</a>() &lt; 46 * <a class="code hl_variable" href="../../db/dbc/a00395.html#afacf27522adfacf698390ddafc53fa30">MINUTE</a> * <a class="code hl_variable" href="../../db/dbc/a00395.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a>) ? (46 * <a class="code hl_variable" href="../../db/dbc/a00395.html#afacf27522adfacf698390ddafc53fa30">MINUTE</a> * <a class="code hl_variable" href="../../db/dbc/a00395.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a> - bg-&gt;<a class="code hl_function" href="../../db/d09/a07310.html#a9cb3765aa8a79a83e1402d60835c0ae8">GetStartTime</a>()) / <a class="code hl_variable" href="../../db/dbc/a00395.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a> : 0);</div>
+<div class="line"><span class="lineno">  263</span>        <span class="comment">// &quot;SPE&quot; not here (only possible to send starting a new cast)</span></div>
+<div class="line"><span class="lineno">  264</span> </div>
+<div class="line"><span class="lineno">  265</span>        <span class="comment">// send all &quot;CD&quot;</span></div>
+<div class="line"><span class="lineno">  266</span>        <a class="code hl_typedef" href="../../df/d5f/a03494.html#a4e67032f6ccb88a3ffc6fb32196c31ce">SpellCooldowns</a> <span class="keyword">const</span>&amp; sc = plr-&gt;<a class="code hl_function" href="../../d4/d95/a08630.html#a8f007a82e79d25a390bca316a922a83e">GetSpellCooldownMap</a>();</div>
+<div class="line"><span class="lineno">  267</span>        <span class="keywordflow">for</span> (SpellCooldowns::const_iterator itrc = sc.begin(); itrc != sc.end(); ++itrc)</div>
+<div class="line"><span class="lineno">  268</span>            <span class="keywordflow">if</span> (itrc-&gt;second.sendToSpectator &amp;&amp; itrc-&gt;second.maxduration &gt;= <a class="code hl_define" href="../../d4/d81/a04556.html#ad2182c49e417fd86e25b7c2a209d044b">SPECTATOR_COOLDOWN_MIN</a> * <a class="code hl_variable" href="../../db/dbc/a00395.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a> &amp;&amp; itrc-&gt;second.maxduration &lt;= <a class="code hl_define" href="../../d4/d81/a04556.html#a5caad2c604ec8c4fe2b2653a9a629d23">SPECTATOR_COOLDOWN_MAX</a> * <a class="code hl_variable" href="../../db/dbc/a00395.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a>)</div>
+<div class="line"><span class="lineno">  269</span>                <span class="keywordflow">if</span> (<a class="code hl_typedef" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> cd = (<a class="code hl_function" href="../../d1/d44/a00098.html#ad9f0d19bcdfb695da4f399b36471c7de">getMSTimeDiff</a>(<a class="code hl_function" href="../../d1/d44/a00098.html#a4476c8e13ea790c3536f2749105f9cb9">getMSTime</a>(), itrc-&gt;second.end) / 1000))</div>
+<div class="line"><span class="lineno">  270</span>                    <a class="code hl_function" href="../../d4/de4/a04834.html#a5e336b6d62f2d9e24551cfb96c7a8679">SendCommand_Cooldown</a>(player, itr-&gt;first, <span class="stringliteral">&quot;ACD&quot;</span>, itrc-&gt;first, cd, itrc-&gt;second.maxduration / 1000);</div>
+<div class="line"><span class="lineno">  271</span> </div>
+<div class="line"><span class="lineno">  272</span>        <span class="comment">// send all visible &quot;AUR&quot;</span></div>
+<div class="line"><span class="lineno">  273</span>        <a class="code hl_typedef" href="../../d6/d2d/a08766.html#a6bbd36a660c01a3d5f3e28a6e8eb894c">Unit::VisibleAuraMap</a> <span class="keyword">const</span>* visibleAuras = plr-&gt;<a class="code hl_function" href="../../d6/d2d/a08766.html#aa7c7c23be40f1b4a96d5d98a1d447ed0">GetVisibleAuras</a>();</div>
+<div class="line"><span class="lineno">  274</span>        <span class="keywordflow">for</span> (Unit::VisibleAuraMap::const_iterator aitr = visibleAuras-&gt;begin(); aitr != visibleAuras-&gt;end(); ++aitr)</div>
+<div class="line"><span class="lineno">  275</span>        {</div>
+<div class="line"><span class="lineno">  276</span>            <a class="code hl_class" href="../../da/d3e/a11202.html">Aura</a>* aura = aitr-&gt;second-&gt;GetBase();</div>
+<div class="line"><span class="lineno">  277</span>            <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d4/de4/a04834.html#a29f78349223aca49d417c3f818b2dd4c">ShouldSendAura</a>(aura, aitr-&gt;second-&gt;GetEffectMask(), plr-&gt;<a class="code hl_function" href="../../de/d6b/a08378.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>(), <span class="keyword">false</span>))</div>
+<div class="line"><span class="lineno">  278</span>                <a class="code hl_function" href="../../d4/de4/a04834.html#a918c7c3c9fd7d26b7a78f2e6d13e1e27">SendCommand_Aura</a>(player, itr-&gt;first, <span class="stringliteral">&quot;AUR&quot;</span>, aura-&gt;<a class="code hl_function" href="../../da/d3e/a11202.html#a3c4dfe75dad16fbf2afaf23ce77e4262">GetCasterGUID</a>(), aura-&gt;<a class="code hl_function" href="../../da/d3e/a11202.html#ab4abe60bbc09777bab95a0a0ec66af25">GetSpellInfo</a>()-&gt;<a class="code hl_variable" href="../../d2/dfa/a11306.html#a49bc14059c2bd3785231c52e0d54d382">Id</a>, aura-&gt;<a class="code hl_function" href="../../da/d3e/a11202.html#ab4abe60bbc09777bab95a0a0ec66af25">GetSpellInfo</a>()-&gt;<a class="code hl_function" href="../../d2/dfa/a11306.html#adef74790281b92d72ac2c2118a665096">IsPositive</a>(), aura-&gt;<a class="code hl_function" href="../../da/d3e/a11202.html#ab4abe60bbc09777bab95a0a0ec66af25">GetSpellInfo</a>()-&gt;<a class="code hl_variable" href="../../d2/dfa/a11306.html#a642e1537c76965d64f443c2891eb3d4b">Dispel</a>, aura-&gt;<a class="code hl_function" href="../../da/d3e/a11202.html#a5e79eaa33b5f9ae5aaa44a62d096d6fe">GetDuration</a>(), aura-&gt;<a class="code hl_function" href="../../da/d3e/a11202.html#a14457cfa6d589b8024bbeeb1d4aa03d3">GetMaxDuration</a>(), (aura-&gt;<a class="code hl_function" href="../../da/d3e/a11202.html#ab07705be94c0c10fce558c80d7208e0b">GetCharges</a>() &gt; 1 ? aura-&gt;<a class="code hl_function" href="../../da/d3e/a11202.html#ab07705be94c0c10fce558c80d7208e0b">GetCharges</a>() : aura-&gt;<a class="code hl_function" href="../../da/d3e/a11202.html#aae0b7e0da61a681e67a19b6d23c2cee6">GetStackAmount</a>()), <span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno">  279</span>        }</div>
+<div class="line"><span class="lineno">  280</span>    }</div>
+<div class="line"><span class="lineno">  281</span>}</div>
+<div class="ttc" id="aa00098_html_a4476c8e13ea790c3536f2749105f9cb9"><div class="ttname"><a href="../../d1/d44/a00098.html#a4476c8e13ea790c3536f2749105f9cb9">getMSTime</a></div><div class="ttdeci">uint32 getMSTime()</div><div class="ttdef"><b>Definition:</b> Timer.h:103</div></div>
+<div class="ttc" id="aa00098_html_ad9f0d19bcdfb695da4f399b36471c7de"><div class="ttname"><a href="../../d1/d44/a00098.html#ad9f0d19bcdfb695da4f399b36471c7de">getMSTimeDiff</a></div><div class="ttdeci">uint32 getMSTimeDiff(uint32 oldMSTime, uint32 newMSTime)</div><div class="ttdef"><b>Definition:</b> Timer.h:110</div></div>
+<div class="ttc" id="aa00395_html_a84190f79c8167211609f67284e066c58"><div class="ttname"><a href="../../db/dbc/a00395.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a></div><div class="ttdeci">constexpr auto IN_MILLISECONDS</div><div class="ttdef"><b>Definition:</b> Common.h:53</div></div>
+<div class="ttc" id="aa00395_html_afacf27522adfacf698390ddafc53fa30"><div class="ttname"><a href="../../db/dbc/a00395.html#afacf27522adfacf698390ddafc53fa30">MINUTE</a></div><div class="ttdeci">constexpr auto MINUTE</div><div class="ttdef"><b>Definition:</b> Common.h:47</div></div>
+<div class="ttc" id="aa03026_html_ad1473374651bd09f461cdc994a6bc8d2afaf0b6349b8a93b543f64c744e321d5a"><div class="ttname"><a href="../../dd/da3/a03026.html#ad1473374651bd09f461cdc994a6bc8d2afaf0b6349b8a93b543f64c744e321d5a">STATUS_IN_PROGRESS</a></div><div class="ttdeci">@ STATUS_IN_PROGRESS</div><div class="ttdef"><b>Definition:</b> Battleground.h:193</div></div>
+<div class="ttc" id="aa03494_html_a4e67032f6ccb88a3ffc6fb32196c31ce"><div class="ttname"><a href="../../df/d5f/a03494.html#a4e67032f6ccb88a3ffc6fb32196c31ce">SpellCooldowns</a></div><div class="ttdeci">std::map&lt; uint32, SpellCooldown &gt; SpellCooldowns</div><div class="ttdef"><b>Definition:</b> Player.h:209</div></div>
+<div class="ttc" id="aa04556_html_a5caad2c604ec8c4fe2b2653a9a629d23"><div class="ttname"><a href="../../d4/d81/a04556.html#a5caad2c604ec8c4fe2b2653a9a629d23">SPECTATOR_COOLDOWN_MAX</a></div><div class="ttdeci">#define SPECTATOR_COOLDOWN_MAX</div><div class="ttdef"><b>Definition:</b> ArenaSpectator.h:37</div></div>
+<div class="ttc" id="aa04556_html_ad2182c49e417fd86e25b7c2a209d044b"><div class="ttname"><a href="../../d4/d81/a04556.html#ad2182c49e417fd86e25b7c2a209d044b">SPECTATOR_COOLDOWN_MIN</a></div><div class="ttdeci">#define SPECTATOR_COOLDOWN_MIN</div><div class="ttdef"><b>Definition:</b> ArenaSpectator.h:36</div></div>
+<div class="ttc" id="aa04727_html_a17e15fab4b89f4840e745f31ca76a414"><div class="ttname"><a href="../../dc/d43/a04727.html#a17e15fab4b89f4840e745f31ca76a414">Powers</a></div><div class="ttdeci">Powers</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:279</div></div>
+<div class="ttc" id="aa04727_html_a17e15fab4b89f4840e745f31ca76a414a1b514bf3a42e9a5dc4271bd25b7dce7e"><div class="ttname"><a href="../../dc/d43/a04727.html#a17e15fab4b89f4840e745f31ca76a414a1b514bf3a42e9a5dc4271bd25b7dce7e">POWER_RAGE</a></div><div class="ttdeci">@ POWER_RAGE</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:281</div></div>
+<div class="ttc" id="aa04727_html_a17e15fab4b89f4840e745f31ca76a414a4c504424e60c95f01e0ec1468a52d221"><div class="ttname"><a href="../../dc/d43/a04727.html#a17e15fab4b89f4840e745f31ca76a414a4c504424e60c95f01e0ec1468a52d221">POWER_RUNIC_POWER</a></div><div class="ttdeci">@ POWER_RUNIC_POWER</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:286</div></div>
+<div class="ttc" id="aa04727_html_a9c13bb5b1d69698f9b47900990eaa598a360acb47017e8e0d3522e08575f3d1b2"><div class="ttname"><a href="../../dc/d43/a04727.html#a9c13bb5b1d69698f9b47900990eaa598a360acb47017e8e0d3522e08575f3d1b2">ALLIANCE</a></div><div class="ttdeci">@ ALLIANCE</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:779</div></div>
+<div class="ttc" id="aa04727_html_a9c13bb5b1d69698f9b47900990eaa598ae00f67931133b08b7de375111e800b42"><div class="ttname"><a href="../../dc/d43/a04727.html#a9c13bb5b1d69698f9b47900990eaa598ae00f67931133b08b7de375111e800b42">HORDE</a></div><div class="ttdeci">@ HORDE</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:778</div></div>
+<div class="ttc" id="aa04727_html_abfb349736a7699bdfcdb134035ef7865a77ec52d5d5f9771c1ac94fddaf7fb84e"><div class="ttname"><a href="../../dc/d43/a04727.html#abfb349736a7699bdfcdb134035ef7865a77ec52d5d5f9771c1ac94fddaf7fb84e">TEAM_ALLIANCE</a></div><div class="ttdeci">@ TEAM_ALLIANCE</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:771</div></div>
+<div class="ttc" id="aa04834_html_a29f78349223aca49d417c3f818b2dd4c"><div class="ttname"><a href="../../d4/de4/a04834.html#a29f78349223aca49d417c3f818b2dd4c">ArenaSpectator::ShouldSendAura</a></div><div class="ttdeci">AC_GAME_API bool ShouldSendAura(Aura *aura, uint8 effMask, ObjectGuid targetGUID, bool remove)</div><div class="ttdef"><b>Definition:</b> ArenaSpectator.cpp:283</div></div>
+<div class="ttc" id="aa04834_html_a5e336b6d62f2d9e24551cfb96c7a8679"><div class="ttname"><a href="../../d4/de4/a04834.html#a5e336b6d62f2d9e24551cfb96c7a8679">ArenaSpectator::SendCommand_Cooldown</a></div><div class="ttdeci">void SendCommand_Cooldown(T *o, ObjectGuid targetGUID, const char *prefix, uint32 id, uint32 dur, uint32 maxdur)</div><div class="ttdef"><b>Definition:</b> ArenaSpectator.h:89</div></div>
+<div class="ttc" id="aa04834_html_a918c7c3c9fd7d26b7a78f2e6d13e1e27"><div class="ttname"><a href="../../d4/de4/a04834.html#a918c7c3c9fd7d26b7a78f2e6d13e1e27">ArenaSpectator::SendCommand_Aura</a></div><div class="ttdeci">void SendCommand_Aura(T *o, ObjectGuid targetGUID, const char *prefix, ObjectGuid caster, uint32 id, bool isDebuff, uint32 dispel, int32 dur, int32 maxdur, uint32 stack, bool remove)</div><div class="ttdef"><b>Definition:</b> ArenaSpectator.h:102</div></div>
+<div class="ttc" id="aa04834_html_ac7839fd6177447b31578a19f8ee8e42a"><div class="ttname"><a href="../../d4/de4/a04834.html#ac7839fd6177447b31578a19f8ee8e42a">ArenaSpectator::SendCommand_String</a></div><div class="ttdeci">void SendCommand_String(T *o, ObjectGuid targetGUID, const char *prefix, const char *c)</div><div class="ttdef"><b>Definition:</b> ArenaSpectator.h:53</div></div>
+<div class="ttc" id="aa04834_html_ae899637e3543ca40ec63e98bf0426f58"><div class="ttname"><a href="../../d4/de4/a04834.html#ae899637e3543ca40ec63e98bf0426f58">ArenaSpectator::SendCommand_UInt32Value</a></div><div class="ttdeci">void SendCommand_UInt32Value(T *o, ObjectGuid targetGUID, const char *prefix, uint32 t)</div><div class="ttdef"><b>Definition:</b> ArenaSpectator.h:62</div></div>
+<div class="ttc" id="aa04834_html_af537ad9da6345b285d2d726b640a0340"><div class="ttname"><a href="../../d4/de4/a04834.html#af537ad9da6345b285d2d726b640a0340">ArenaSpectator::SendCommand_GUID</a></div><div class="ttdeci">void SendCommand_GUID(T *o, ObjectGuid targetGUID, const char *prefix, ObjectGuid t)</div><div class="ttdef"><b>Definition:</b> ArenaSpectator.h:71</div></div>
+<div class="ttc" id="aa07310_html"><div class="ttname"><a href="../../db/d09/a07310.html">Battleground</a></div><div class="ttdef"><b>Definition:</b> Battleground.h:294</div></div>
+<div class="ttc" id="aa07310_html_a89ad7beedc7aca0506c87d983b74eee4"><div class="ttname"><a href="../../db/d09/a07310.html#a89ad7beedc7aca0506c87d983b74eee4">Battleground::BattlegroundPlayerMap</a></div><div class="ttdeci">std::map&lt; ObjectGuid, Player * &gt; BattlegroundPlayerMap</div><div class="ttdef"><b>Definition:</b> Battleground.h:408</div></div>
+<div class="ttc" id="aa07310_html_a9cb3765aa8a79a83e1402d60835c0ae8"><div class="ttname"><a href="../../db/d09/a07310.html#a9cb3765aa8a79a83e1402d60835c0ae8">Battleground::GetStartTime</a></div><div class="ttdeci">uint32 GetStartTime() const</div><div class="ttdef"><b>Definition:</b> Battleground.h:325</div></div>
+<div class="ttc" id="aa07310_html_a9e2bbc0cf8fe25b492486503fbe8d673"><div class="ttname"><a href="../../db/d09/a07310.html#a9e2bbc0cf8fe25b492486503fbe8d673">Battleground::GetPlayers</a></div><div class="ttdeci">BattlegroundPlayerMap const &amp; GetPlayers() const</div><div class="ttdef"><b>Definition:</b> Battleground.h:409</div></div>
+<div class="ttc" id="aa07310_html_aaa7ab97fdd1ee4fda63deba7eabe9cb1"><div class="ttname"><a href="../../db/d09/a07310.html#aaa7ab97fdd1ee4fda63deba7eabe9cb1">Battleground::GetStatus</a></div><div class="ttdeci">BattlegroundStatus GetStatus() const</div><div class="ttdef"><b>Definition:</b> Battleground.h:323</div></div>
+<div class="ttc" id="aa08010_html_a97fd2015b3956323ef777b5f9e23a1e8"><div class="ttname"><a href="../../da/d2e/a08010.html#a97fd2015b3956323ef777b5f9e23a1e8">Creature::GetCreatureTemplate</a></div><div class="ttdeci">CreatureTemplate const * GetCreatureTemplate() const</div><div class="ttdef"><b>Definition:</b> Creature.h:209</div></div>
+<div class="ttc" id="aa08038_html_af596e49e3418f003b8ed9c6bb8305e01"><div class="ttname"><a href="../../df/d60/a08038.html#af596e49e3418f003b8ed9c6bb8305e01">CreatureTemplate::family</a></div><div class="ttdeci">uint32 family</div><div class="ttdef"><b>Definition:</b> CreatureData.h:217</div></div>
+<div class="ttc" id="aa08378_html_a3aeab7def818ba6c50249f197ad2f9ca"><div class="ttname"><a href="../../de/d6b/a08378.html#a3aeab7def818ba6c50249f197ad2f9ca">Object::IsInWorld</a></div><div class="ttdeci">bool IsInWorld() const</div><div class="ttdef"><b>Definition:</b> Object.h:108</div></div>
+<div class="ttc" id="aa08378_html_ad23b997e2442fa6a6228ba73a7ecc138"><div class="ttname"><a href="../../de/d6b/a08378.html#ad23b997e2442fa6a6228ba73a7ecc138">Object::GetGUID</a></div><div class="ttdeci">static ObjectGuid GetGUID(Object const *o)</div><div class="ttdef"><b>Definition:</b> Object.h:113</div></div>
+<div class="ttc" id="aa08414_html_a1e43fee59e696ae47ed06191ae3b1b82"><div class="ttname"><a href="../../dc/d1b/a08414.html#a1e43fee59e696ae47ed06191ae3b1b82">WorldObject::FindMap</a></div><div class="ttdeci">Map * FindMap() const</div><div class="ttdef"><b>Definition:</b> Object.h:611</div></div>
+<div class="ttc" id="aa08414_html_a7e67658eb5aa058bc7f46bf6b11a797c"><div class="ttname"><a href="../../dc/d1b/a08414.html#a7e67658eb5aa058bc7f46bf6b11a797c">WorldObject::GetName</a></div><div class="ttdeci">std::string const &amp; GetName() const</div><div class="ttdef"><b>Definition:</b> Object.h:514</div></div>
+<div class="ttc" id="aa08498_html"><div class="ttname"><a href="../../d3/daf/a08498.html">Pet</a></div><div class="ttdef"><b>Definition:</b> Pet.h:41</div></div>
+<div class="ttc" id="aa08630_html"><div class="ttname"><a href="../../d4/d95/a08630.html">Player</a></div><div class="ttdef"><b>Definition:</b> Player.h:1072</div></div>
+<div class="ttc" id="aa08630_html_a56895d0a241eb0f36211ef34f3caaf4e"><div class="ttname"><a href="../../d4/d95/a08630.html#a56895d0a241eb0f36211ef34f3caaf4e">Player::HasReceivedSpectatorResetFor</a></div><div class="ttdeci">bool HasReceivedSpectatorResetFor(ObjectGuid guid)</div><div class="ttdef"><b>Definition:</b> Player.h:2591</div></div>
+<div class="ttc" id="aa08630_html_a5eef7fef24e4a9269d1ee834bc2bd501"><div class="ttname"><a href="../../d4/d95/a08630.html#a5eef7fef24e4a9269d1ee834bc2bd501">Player::GetPet</a></div><div class="ttdeci">Pet * GetPet() const</div><div class="ttdef"><b>Definition:</b> Player.cpp:8986</div></div>
+<div class="ttc" id="aa08630_html_a6307a2b4db34ca2997248becd8c70ec9"><div class="ttname"><a href="../../d4/d95/a08630.html#a6307a2b4db34ca2997248becd8c70ec9">Player::AddReceivedSpectatorResetFor</a></div><div class="ttdeci">void AddReceivedSpectatorResetFor(ObjectGuid guid)</div><div class="ttdef"><b>Definition:</b> Player.h:2593</div></div>
+<div class="ttc" id="aa08630_html_a8f007a82e79d25a390bca316a922a83e"><div class="ttname"><a href="../../d4/d95/a08630.html#a8f007a82e79d25a390bca316a922a83e">Player::GetSpellCooldownMap</a></div><div class="ttdeci">SpellCooldowns const &amp; GetSpellCooldownMap() const</div><div class="ttdef"><b>Definition:</b> Player.h:1778</div></div>
+<div class="ttc" id="aa08630_html_afcf1880d221c0af14b0e0c6b54b328ab"><div class="ttname"><a href="../../d4/d95/a08630.html#afcf1880d221c0af14b0e0c6b54b328ab">Player::GetBgTeamId</a></div><div class="ttdeci">TeamId GetBgTeamId() const</div><div class="ttdef"><b>Definition:</b> Player.h:2288</div></div>
+<div class="ttc" id="aa08766_html_a0cb842af542d302eb67b743078e1ac01"><div class="ttname"><a href="../../d6/d2d/a08766.html#a0cb842af542d302eb67b743078e1ac01">Unit::GetHealthPct</a></div><div class="ttdeci">float GetHealthPct() const</div><div class="ttdef"><b>Definition:</b> Unit.h:1033</div></div>
+<div class="ttc" id="aa08766_html_a5173c1774b09b42c409bf31280c37d36"><div class="ttname"><a href="../../d6/d2d/a08766.html#a5173c1774b09b42c409bf31280c37d36">Unit::GetMaxHealth</a></div><div class="ttdeci">uint32 GetMaxHealth() const</div><div class="ttdef"><b>Definition:</b> Unit.h:1032</div></div>
+<div class="ttc" id="aa08766_html_a58a507ebe628930b8a506144b364d84b"><div class="ttname"><a href="../../d6/d2d/a08766.html#a58a507ebe628930b8a506144b364d84b">Unit::getClass</a></div><div class="ttdeci">uint8 getClass() const</div><div class="ttdef"><b>Definition:</b> Unit.h:793</div></div>
+<div class="ttc" id="aa08766_html_a5ea3f54af571493f7889220724667189"><div class="ttname"><a href="../../d6/d2d/a08766.html#a5ea3f54af571493f7889220724667189">Unit::IsAlive</a></div><div class="ttdeci">bool IsAlive() const</div><div class="ttdef"><b>Definition:</b> Unit.h:1707</div></div>
+<div class="ttc" id="aa08766_html_a6bbd36a660c01a3d5f3e28a6e8eb894c"><div class="ttname"><a href="../../d6/d2d/a08766.html#a6bbd36a660c01a3d5f3e28a6e8eb894c">Unit::VisibleAuraMap</a></div><div class="ttdeci">std::map&lt; uint8, AuraApplication * &gt; VisibleAuraMap</div><div class="ttdef"><b>Definition:</b> Unit.h:642</div></div>
+<div class="ttc" id="aa08766_html_a93f83fd909310de2c76382d00d7dbbf1"><div class="ttname"><a href="../../d6/d2d/a08766.html#a93f83fd909310de2c76382d00d7dbbf1">Unit::GetMaxPower</a></div><div class="ttdeci">uint32 GetMaxPower(Powers power) const</div><div class="ttdef"><b>Definition:</b> Unit.h:1059</div></div>
+<div class="ttc" id="aa08766_html_a958172d6051b106e3b3c776e4f9f3952"><div class="ttname"><a href="../../d6/d2d/a08766.html#a958172d6051b106e3b3c776e4f9f3952">Unit::GetHealth</a></div><div class="ttdeci">uint32 GetHealth() const</div><div class="ttdef"><b>Definition:</b> Unit.h:1031</div></div>
+<div class="ttc" id="aa08766_html_aa7c7c23be40f1b4a96d5d98a1d447ed0"><div class="ttname"><a href="../../d6/d2d/a08766.html#aa7c7c23be40f1b4a96d5d98a1d447ed0">Unit::GetVisibleAuras</a></div><div class="ttdeci">VisibleAuraMap const * GetVisibleAuras()</div><div class="ttdef"><b>Definition:</b> Unit.h:1458</div></div>
+<div class="ttc" id="aa08766_html_ad44d31430fab9282a79e8682822ccd9c"><div class="ttname"><a href="../../d6/d2d/a08766.html#ad44d31430fab9282a79e8682822ccd9c">Unit::getPowerType</a></div><div class="ttdeci">Powers getPowerType() const</div><div class="ttdef"><b>Definition:</b> Unit.h:1054</div></div>
+<div class="ttc" id="aa08766_html_ad7e475d80b9af430cc076d7c01f967e9"><div class="ttname"><a href="../../d6/d2d/a08766.html#ad7e475d80b9af430cc076d7c01f967e9">Unit::GetPower</a></div><div class="ttdeci">uint32 GetPower(Powers power) const</div><div class="ttdef"><b>Definition:</b> Unit.h:1058</div></div>
+<div class="ttc" id="aa08766_html_af387d5e18806e37f65ebc3408c0b8712"><div class="ttname"><a href="../../d6/d2d/a08766.html#af387d5e18806e37f65ebc3408c0b8712">Unit::GetTarget</a></div><div class="ttdeci">ObjectGuid GetTarget() const</div><div class="ttdef"><b>Definition:</b> Unit.h:811</div></div>
+<div class="ttc" id="aa09834_html_afe645aa76713224c7e7fcd0f5e12fc79"><div class="ttname"><a href="../../d8/df9/a09834.html#afe645aa76713224c7e7fcd0f5e12fc79">Map::IsBattleArena</a></div><div class="ttdeci">bool IsBattleArena() const</div><div class="ttdef"><b>Definition:</b> Map.h:297</div></div>
+<div class="ttc" id="aa09842_html"><div class="ttname"><a href="../../d6/dc0/a09842.html">BattlegroundMap</a></div><div class="ttdef"><b>Definition:</b> Map.h:648</div></div>
+<div class="ttc" id="aa11202_html"><div class="ttname"><a href="../../da/d3e/a11202.html">Aura</a></div><div class="ttdef"><b>Definition:</b> SpellAuras.h:87</div></div>
+<div class="ttc" id="aa11202_html_a14457cfa6d589b8024bbeeb1d4aa03d3"><div class="ttname"><a href="../../da/d3e/a11202.html#a14457cfa6d589b8024bbeeb1d4aa03d3">Aura::GetMaxDuration</a></div><div class="ttdeci">int32 GetMaxDuration() const</div><div class="ttdef"><b>Definition:</b> SpellAuras.h:129</div></div>
+<div class="ttc" id="aa11202_html_a3c4dfe75dad16fbf2afaf23ce77e4262"><div class="ttname"><a href="../../da/d3e/a11202.html#a3c4dfe75dad16fbf2afaf23ce77e4262">Aura::GetCasterGUID</a></div><div class="ttdeci">ObjectGuid GetCasterGUID() const</div><div class="ttdef"><b>Definition:</b> SpellAuras.h:105</div></div>
+<div class="ttc" id="aa11202_html_a5e79eaa33b5f9ae5aaa44a62d096d6fe"><div class="ttname"><a href="../../da/d3e/a11202.html#a5e79eaa33b5f9ae5aaa44a62d096d6fe">Aura::GetDuration</a></div><div class="ttdeci">int32 GetDuration() const</div><div class="ttdef"><b>Definition:</b> SpellAuras.h:133</div></div>
+<div class="ttc" id="aa11202_html_aae0b7e0da61a681e67a19b6d23c2cee6"><div class="ttname"><a href="../../da/d3e/a11202.html#aae0b7e0da61a681e67a19b6d23c2cee6">Aura::GetStackAmount</a></div><div class="ttdeci">uint8 GetStackAmount() const</div><div class="ttdef"><b>Definition:</b> SpellAuras.h:148</div></div>
+<div class="ttc" id="aa11202_html_ab07705be94c0c10fce558c80d7208e0b"><div class="ttname"><a href="../../da/d3e/a11202.html#ab07705be94c0c10fce558c80d7208e0b">Aura::GetCharges</a></div><div class="ttdeci">uint8 GetCharges() const</div><div class="ttdef"><b>Definition:</b> SpellAuras.h:141</div></div>
+<div class="ttc" id="aa11202_html_ab4abe60bbc09777bab95a0a0ec66af25"><div class="ttname"><a href="../../da/d3e/a11202.html#ab4abe60bbc09777bab95a0a0ec66af25">Aura::GetSpellInfo</a></div><div class="ttdeci">SpellInfo const * GetSpellInfo() const</div><div class="ttdef"><b>Definition:</b> SpellAuras.h:100</div></div>
+<div class="ttc" id="aa11306_html_a49bc14059c2bd3785231c52e0d54d382"><div class="ttname"><a href="../../d2/dfa/a11306.html#a49bc14059c2bd3785231c52e0d54d382">SpellInfo::Id</a></div><div class="ttdeci">uint32 Id</div><div class="ttdef"><b>Definition:</b> SpellInfo.h:320</div></div>
+<div class="ttc" id="aa11306_html_a642e1537c76965d64f443c2891eb3d4b"><div class="ttname"><a href="../../d2/dfa/a11306.html#a642e1537c76965d64f443c2891eb3d4b">SpellInfo::Dispel</a></div><div class="ttdeci">uint32 Dispel</div><div class="ttdef"><b>Definition:</b> SpellInfo.h:322</div></div>
+<div class="ttc" id="aa11306_html_adef74790281b92d72ac2c2118a665096"><div class="ttname"><a href="../../d2/dfa/a11306.html#adef74790281b92d72ac2c2118a665096">SpellInfo::IsPositive</a></div><div class="ttdeci">bool IsPositive() const</div><div class="ttdef"><b>Definition:</b> SpellInfo.cpp:1237</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l02593">Player::AddReceivedSpectatorResetFor()</a>, <a class="el" href="../../#l00779">ALLIANCE</a>, <a class="el" href="../../#l00322">SpellInfo::Dispel</a>, <a class="el" href="../../#l00217">CreatureTemplate::family</a>, <a class="el" href="../../#l00611">WorldObject::FindMap()</a>, <a class="el" href="../../#l02288">Player::GetBgTeamId()</a>, <a class="el" href="../../#l00105">Aura::GetCasterGUID()</a>, <a class="el" href="../../#l00141">Aura::GetCharges()</a>, <a class="el" href="../../#l00793">Unit::getClass()</a>, <a class="el" href="../../#l00209">Creature::GetCreatureTemplate()</a>, <a class="el" href="../../#l00133">Aura::GetDuration()</a>, <a class="el" href="../../#l00176">Aura::GetEffectMask()</a>, <a class="el" href="../../#l00113">Object::GetGUID()</a>, <a class="el" href="../../#l01031">Unit::GetHealth()</a>, <a class="el" href="../../#l01033">Unit::GetHealthPct()</a>, <a class="el" href="../../#l00129">Aura::GetMaxDuration()</a>, <a class="el" href="../../#l01032">Unit::GetMaxHealth()</a>, <a class="el" href="../../#l01059">Unit::GetMaxPower()</a>, <a class="el" href="../../#l00103">getMSTime()</a>, <a class="el" href="../../#l00110">getMSTimeDiff()</a>, <a class="el" href="../../#l00514">WorldObject::GetName()</a>, <a class="el" href="../../#l08986">Player::GetPet()</a>, <a class="el" href="../../#l00409">Battleground::GetPlayers()</a>, <a class="el" href="../../#l01058">Unit::GetPower()</a>, <a class="el" href="../../#l01054">Unit::getPowerType()</a>, <a class="el" href="../../#l01778">Player::GetSpellCooldownMap()</a>, <a class="el" href="../../#l00100">Aura::GetSpellInfo()</a>, <a class="el" href="../../#l00148">Aura::GetStackAmount()</a>, <a class="el" href="../../#l00325">Battleground::GetStartTime()</a>, <a class="el" href="../../#l00323">Battleground::GetStatus()</a>, <a class="el" href="../../#l00811">Unit::GetTarget()</a>, <a class="el" href="../../#l01458">Unit::GetVisibleAuras()</a>, <a class="el" href="../../#l02591">Player::HasReceivedSpectatorResetFor()</a>, <a class="el" href="../../#l00778">HORDE</a>, <a class="el" href="../../#l00320">SpellInfo::Id</a>, <a class="el" href="../../#l00053">IN_MILLISECONDS</a>, <a class="el" href="../../#l01707">Unit::IsAlive()</a>, <a class="el" href="../../#l00297">Map::IsBattleArena()</a>, <a class="el" href="../../#l00108">Object::IsInWorld()</a>, <a class="el" href="../../#l01237">SpellInfo::IsPositive()</a>, <a class="el" href="../../#l00047">MINUTE</a>, <a class="el" href="../../#l00281">POWER_RAGE</a>, <a class="el" href="../../#l00286">POWER_RUNIC_POWER</a>, <a class="el" href="../../#l00102">SendCommand_Aura()</a>, <a class="el" href="../../#l00089">SendCommand_Cooldown()</a>, <a class="el" href="../../#l00071">SendCommand_GUID()</a>, <a class="el" href="../../#l00053">SendCommand_String()</a>, <a class="el" href="../../#l00062">SendCommand_UInt32Value()</a>, <a class="el" href="../../#l00283">ShouldSendAura()</a>, <a class="el" href="../../#l00037">SPECTATOR_COOLDOWN_MAX</a>, <a class="el" href="../../#l00036">SPECTATOR_COOLDOWN_MIN</a>, <a class="el" href="../../#l00193">STATUS_IN_PROGRESS</a>, and <a class="el" href="../../#l00771">TEAM_ALLIANCE</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00466">Battleground::_ProcessJoin()</a>, <a class="el" href="../../#l00050">WorldSession::HandleMoveWorldportAck()</a>, and <a class="el" href="../../#l00065">spectator_commandscript::HandleSpectatorResetCommand()</a>.</p>
+
+</div>
+</div>
+<a id="ac3b35eed76fdcf00f43b226912317b4a" name="ac3b35eed76fdcf00f43b226912317b4a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac3b35eed76fdcf00f43b226912317b4a">&#9670;&#160;</a></span>HandleSpectatorSpectateCommand()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool ArenaSpectator::HandleSpectatorSpectateCommand </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d1/d15/a07522.html">ChatHandler</a> *&#160;</td>
+          <td class="paramname"><em>handler</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">std::string const &amp;&#160;</td>
+          <td class="paramname"><em>name</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   30</span>{</div>
+<div class="line"><span class="lineno">   31</span>    <a class="code hl_class" href="../../d4/d95/a08630.html">Player</a>* player = handler-&gt;<a class="code hl_function" href="../../d1/d15/a07522.html#a635eca3065c9464e0cdcedd9f0740daa">GetSession</a>()-&gt;<a class="code hl_function" href="../../d2/d4b/a11146.html#a62c786bcb829a021c267e7eb56809952">GetPlayer</a>();</div>
+<div class="line"><span class="lineno">   32</span>    std::list&lt;std::string&gt; errors;</div>
+<div class="line"><span class="lineno">   33</span> </div>
+<div class="line"><span class="lineno">   34</span>    <span class="keywordflow">if</span> (player-&gt;<a class="code hl_function" href="../../d4/d95/a08630.html#ac5d6db67faffc024da4d9f83b434bed3">IsSpectator</a>())</div>
+<div class="line"><span class="lineno">   35</span>    {</div>
+<div class="line"><span class="lineno">   36</span>        <span class="keywordflow">if</span> (player-&gt;<a class="code hl_function" href="../../dc/d1b/a08414.html#a1e43fee59e696ae47ed06191ae3b1b82">FindMap</a>() &amp;&amp; player-&gt;<a class="code hl_function" href="../../dc/d1b/a08414.html#a1e43fee59e696ae47ed06191ae3b1b82">FindMap</a>()-&gt;<a class="code hl_function" href="../../d8/df9/a09834.html#afe645aa76713224c7e7fcd0f5e12fc79">IsBattleArena</a>())</div>
+<div class="line"><span class="lineno">   37</span>        {</div>
+<div class="line"><span class="lineno">   38</span>            <a class="code hl_function" href="../../d4/de4/a04834.html#ae611c9f6783ca983d1ff667f36dd7c7d">HandleSpectatorWatchCommand</a>(handler, name);</div>
+<div class="line"><span class="lineno">   39</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">   40</span>        }</div>
+<div class="line"><span class="lineno">   41</span>        handler-&gt;<a class="code hl_function" href="../../d1/d15/a07522.html#a54305506d6194dfdd1c1a3f30c8d1d62">PSendSysMessage</a>(<span class="stringliteral">&quot;You are already spectacting arena.&quot;</span>);</div>
+<div class="line"><span class="lineno">   42</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">   43</span>    }</div>
+<div class="line"><span class="lineno">   44</span> </div>
+<div class="line"><span class="lineno">   45</span>    <span class="keywordflow">if</span> (player-&gt;<a class="code hl_function" href="../../d4/d95/a08630.html#a966607859ce9c9537038b9ca21b9e827">IsClass</a>(<a class="code hl_enumvalue" href="../../dc/d43/a04727.html#a86e4e3df7a5142175aa5df522d3346cfa7f7b30426fd386c181799196c1739058">CLASS_DEATH_KNIGHT</a>, <a class="code hl_enumvalue" href="../../d0/de4/a03308.html#a2a9983288cb2a06108c1d1a94c96c046a744fb18598cda5f7c53aff806d2fa2c2">CLASS_CONTEXT_TELEPORT</a>) &amp;&amp; player-&gt;<a class="code hl_function" href="../../df/d29/a08478.html#a2682e56ae4f0ce4b517a8ba3cd2798b1">GetMapId</a>() == <a class="code hl_enumvalue" href="../../dd/d3f/a02912.html#a6d57376a08b6ff3944dd9a5930a492cba8b0ad8ad60a3a1610cc79f115d93cdce">MAP_EBON_HOLD</a>)</div>
+<div class="line"><span class="lineno">   46</span>    {</div>
+<div class="line"><span class="lineno">   47</span>        handler-&gt;<a class="code hl_function" href="../../d1/d15/a07522.html#a54305506d6194dfdd1c1a3f30c8d1d62">PSendSysMessage</a>(<span class="stringliteral">&quot;Death Knights can&#39;t spectate before finishing questline.&quot;</span>);</div>
+<div class="line"><span class="lineno">   48</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">   49</span>    }</div>
+<div class="line"><span class="lineno">   50</span> </div>
+<div class="line"><span class="lineno">   51</span>    <a class="code hl_class" href="../../d4/d95/a08630.html">Player</a>* spectate = <a class="code hl_function" href="../../de/d25/a04846.html#af5cb6806842c9689cf1d5f43ffdc4b0a">ObjectAccessor::FindPlayerByName</a>(name);</div>
+<div class="line"><span class="lineno">   52</span>    <span class="keywordflow">if</span> (!spectate)</div>
+<div class="line"><span class="lineno">   53</span>    {</div>
+<div class="line"><span class="lineno">   54</span>        handler-&gt;<a class="code hl_function" href="../../d1/d15/a07522.html#ac1ed346507097817b3f8e00f0ae657a0">SendSysMessage</a>(<span class="stringliteral">&quot;Requested player not found.&quot;</span>);</div>
+<div class="line"><span class="lineno">   55</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">   56</span>    }</div>
+<div class="line"><span class="lineno">   57</span> </div>
+<div class="line"><span class="lineno">   58</span>    <span class="keywordflow">if</span> (spectate-&gt;<a class="code hl_function" href="../../d4/d95/a08630.html#ac5d6db67faffc024da4d9f83b434bed3">IsSpectator</a>())</div>
+<div class="line"><span class="lineno">   59</span>    {</div>
+<div class="line"><span class="lineno">   60</span>        handler-&gt;<a class="code hl_function" href="../../d1/d15/a07522.html#ac1ed346507097817b3f8e00f0ae657a0">SendSysMessage</a>(<span class="stringliteral">&quot;Requested player is a spectator.&quot;</span>);</div>
+<div class="line"><span class="lineno">   61</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">   62</span>    }</div>
+<div class="line"><span class="lineno">   63</span> </div>
+<div class="line"><span class="lineno">   64</span>    <span class="keywordflow">if</span> (!spectate-&gt;<a class="code hl_function" href="../../dc/d1b/a08414.html#a1e43fee59e696ae47ed06191ae3b1b82">FindMap</a>() || !spectate-&gt;<a class="code hl_function" href="../../dc/d1b/a08414.html#a1e43fee59e696ae47ed06191ae3b1b82">FindMap</a>()-&gt;<a class="code hl_function" href="../../d8/df9/a09834.html#afe645aa76713224c7e7fcd0f5e12fc79">IsBattleArena</a>())</div>
+<div class="line"><span class="lineno">   65</span>    {</div>
+<div class="line"><span class="lineno">   66</span>        handler-&gt;<a class="code hl_function" href="../../d1/d15/a07522.html#ac1ed346507097817b3f8e00f0ae657a0">SendSysMessage</a>(<span class="stringliteral">&quot;Requested player is not in arena.&quot;</span>);</div>
+<div class="line"><span class="lineno">   67</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">   68</span>    }</div>
+<div class="line"><span class="lineno">   69</span> </div>
+<div class="line"><span class="lineno">   70</span>    <a class="code hl_class" href="../../d6/dc0/a09842.html">BattlegroundMap</a>* bgmap = ((<a class="code hl_class" href="../../d6/dc0/a09842.html">BattlegroundMap</a>*)spectate-&gt;<a class="code hl_function" href="../../dc/d1b/a08414.html#a1e43fee59e696ae47ed06191ae3b1b82">FindMap</a>());</div>
+<div class="line"><span class="lineno">   71</span>    <span class="keywordflow">if</span> (!bgmap-&gt;<a class="code hl_function" href="../../d6/dc0/a09842.html#a2fcb965981bb03571f12c11cdbac54a4">GetBG</a>() || bgmap-&gt;<a class="code hl_function" href="../../d6/dc0/a09842.html#a2fcb965981bb03571f12c11cdbac54a4">GetBG</a>()-&gt;<a class="code hl_function" href="../../db/d09/a07310.html#aaa7ab97fdd1ee4fda63deba7eabe9cb1">GetStatus</a>() == <a class="code hl_enumvalue" href="../../dd/da3/a03026.html#ad1473374651bd09f461cdc994a6bc8d2ae7efc0dc1952d03b010583a83242fab8">STATUS_WAIT_LEAVE</a>)</div>
+<div class="line"><span class="lineno">   72</span>    {</div>
+<div class="line"><span class="lineno">   73</span>        handler-&gt;<a class="code hl_function" href="../../d1/d15/a07522.html#ac1ed346507097817b3f8e00f0ae657a0">SendSysMessage</a>(<span class="stringliteral">&quot;This arena battle has finished.&quot;</span>);</div>
+<div class="line"><span class="lineno">   74</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">   75</span>    }</div>
+<div class="line"><span class="lineno">   76</span> </div>
+<div class="line"><span class="lineno">   77</span>    <span class="keywordflow">if</span> (player-&gt;<a class="code hl_function" href="../../d4/d95/a08630.html#af66560315fcbe492a24137bc8d96dd94">IsBeingTeleported</a>() || !player-&gt;<a class="code hl_function" href="../../de/d6b/a08378.html#a3aeab7def818ba6c50249f197ad2f9ca">IsInWorld</a>())</div>
+<div class="line"><span class="lineno">   78</span>        errors.push_back(<span class="stringliteral">&quot;Can&#39;t use while being teleported.&quot;</span>);</div>
+<div class="line"><span class="lineno">   79</span> </div>
+<div class="line"><span class="lineno">   80</span>    <span class="keywordflow">if</span> (!player-&gt;<a class="code hl_function" href="../../dc/d1b/a08414.html#a1e43fee59e696ae47ed06191ae3b1b82">FindMap</a>() || player-&gt;<a class="code hl_function" href="../../dc/d1b/a08414.html#a1e43fee59e696ae47ed06191ae3b1b82">FindMap</a>()-&gt;<a class="code hl_function" href="../../d8/df9/a09834.html#aae3a929aefb05046ef304ffba10aae71">Instanceable</a>())</div>
+<div class="line"><span class="lineno">   81</span>        errors.push_back(<span class="stringliteral">&quot;Can&#39;t use while in instance, bg or arena.&quot;</span>);</div>
+<div class="line"><span class="lineno">   82</span> </div>
+<div class="line"><span class="lineno">   83</span>    <span class="keywordflow">if</span> (player-&gt;<a class="code hl_function" href="../../d6/d2d/a08766.html#a0839378167049038c2857252d3b14738">GetVehicle</a>())</div>
+<div class="line"><span class="lineno">   84</span>        errors.push_back(<span class="stringliteral">&quot;Can&#39;t be on a vehicle.&quot;</span>);</div>
+<div class="line"><span class="lineno">   85</span> </div>
+<div class="line"><span class="lineno">   86</span>    <span class="keywordflow">if</span> (player-&gt;<a class="code hl_function" href="../../d6/d2d/a08766.html#af5e75d013dfa8a8b888d7714992e3f2a">IsInCombat</a>())</div>
+<div class="line"><span class="lineno">   87</span>        errors.push_back(<span class="stringliteral">&quot;Can&#39;t be in combat.&quot;</span>);</div>
+<div class="line"><span class="lineno">   88</span> </div>
+<div class="line"><span class="lineno">   89</span>    <span class="keywordflow">if</span> (player-&gt;<a class="code hl_function" href="../../d4/d95/a08630.html#ac69f491c4421221d87e895ab299d0bad">IsUsingLfg</a>())</div>
+<div class="line"><span class="lineno">   90</span>        errors.push_back(<span class="stringliteral">&quot;Can&#39;t spectate while using LFG system.&quot;</span>);</div>
+<div class="line"><span class="lineno">   91</span> </div>
+<div class="line"><span class="lineno">   92</span>    <span class="keywordflow">if</span> (player-&gt;<a class="code hl_function" href="../../d4/d95/a08630.html#a68910cdec33bf9685215f8d39b3eee4a">InBattlegroundQueue</a>())</div>
+<div class="line"><span class="lineno">   93</span>        errors.push_back(<span class="stringliteral">&quot;Can&#39;t be queued for arena or bg.&quot;</span>);</div>
+<div class="line"><span class="lineno">   94</span> </div>
+<div class="line"><span class="lineno">   95</span>    <span class="keywordflow">if</span> (player-&gt;<a class="code hl_function" href="../../d4/d95/a08630.html#a99fc00f9ac903dbe9adcadc5f7415abb">GetGroup</a>())</div>
+<div class="line"><span class="lineno">   96</span>        errors.push_back(<span class="stringliteral">&quot;Can&#39;t be in a group.&quot;</span>);</div>
+<div class="line"><span class="lineno">   97</span> </div>
+<div class="line"><span class="lineno">   98</span>    <span class="keywordflow">if</span> (player-&gt;<a class="code hl_function" href="../../d6/d2d/a08766.html#ab78147cd520d2dac6be709b4c80a7de3">HasUnitState</a>(<a class="code hl_enumvalue" href="../../d0/de4/a03308.html#ae51d2ecb71f7a5cb3882982a622c9544a7c4ae74029844364315885e02df35505">UNIT_STATE_ISOLATED</a>))</div>
+<div class="line"><span class="lineno">   99</span>        errors.push_back(<span class="stringliteral">&quot;Can&#39;t be isolated.&quot;</span>);</div>
+<div class="line"><span class="lineno">  100</span> </div>
+<div class="line"><span class="lineno">  101</span>    <span class="keywordflow">if</span> (player-&gt;<a class="code hl_variable" href="../../d4/d95/a08630.html#a33e10b3465ce2c1d997ca656af1258e4">m_mover</a> != player)</div>
+<div class="line"><span class="lineno">  102</span>        errors.push_back(<span class="stringliteral">&quot;You must control yourself.&quot;</span>);</div>
+<div class="line"><span class="lineno">  103</span> </div>
+<div class="line"><span class="lineno">  104</span>    <span class="keywordflow">if</span> (player-&gt;<a class="code hl_function" href="../../d6/d2d/a08766.html#a85b547eedd208db5f9dddc5f75a1a211">IsInFlight</a>())</div>
+<div class="line"><span class="lineno">  105</span>        errors.push_back(<span class="stringliteral">&quot;Can&#39;t be in flight.&quot;</span>);</div>
+<div class="line"><span class="lineno">  106</span> </div>
+<div class="line"><span class="lineno">  107</span>    <span class="keywordflow">if</span> (player-&gt;<a class="code hl_function" href="../../d6/d2d/a08766.html#aa8ff700c8aec70f3ab1e1385262959b1">IsMounted</a>())</div>
+<div class="line"><span class="lineno">  108</span>        errors.push_back(<span class="stringliteral">&quot;Dismount before spectating.&quot;</span>);</div>
+<div class="line"><span class="lineno">  109</span> </div>
+<div class="line"><span class="lineno">  110</span>    <span class="keywordflow">if</span> (!player-&gt;<a class="code hl_function" href="../../d6/d2d/a08766.html#a5ea3f54af571493f7889220724667189">IsAlive</a>())</div>
+<div class="line"><span class="lineno">  111</span>        errors.push_back(<span class="stringliteral">&quot;Must be alive.&quot;</span>);</div>
+<div class="line"><span class="lineno">  112</span> </div>
+<div class="line"><span class="lineno">  113</span>    <span class="keywordflow">if</span> (!player-&gt;<a class="code hl_variable" href="../../d6/d2d/a08766.html#a148e79f1285e417f73d2a95b49fc2bf9">m_Controlled</a>.empty())</div>
+<div class="line"><span class="lineno">  114</span>        errors.push_back(<span class="stringliteral">&quot;Can&#39;t be controlling creatures.&quot;</span>);</div>
+<div class="line"><span class="lineno">  115</span> </div>
+<div class="line"><span class="lineno">  116</span>    <span class="keyword">const</span> <a class="code hl_typedef" href="../../d6/d2d/a08766.html#a6bbd36a660c01a3d5f3e28a6e8eb894c">Unit::VisibleAuraMap</a>* va = player-&gt;<a class="code hl_function" href="../../d6/d2d/a08766.html#aa7c7c23be40f1b4a96d5d98a1d447ed0">GetVisibleAuras</a>();</div>
+<div class="line"><span class="lineno">  117</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> itr = va-&gt;begin(); itr != va-&gt;end(); ++itr)</div>
+<div class="line"><span class="lineno">  118</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../da/d3e/a11202.html">Aura</a>* aura = itr-&gt;second-&gt;GetBase())</div>
+<div class="line"><span class="lineno">  119</span>            <span class="keywordflow">if</span> (!itr-&gt;second-&gt;IsPositive() &amp;&amp; !aura-&gt;IsPermanent() &amp;&amp; aura-&gt;GetDuration() &lt; <a class="code hl_variable" href="../../db/dbc/a00395.html#ac78ba8a81d12635c129fe2f92ca46c6f">HOUR</a> * <a class="code hl_variable" href="../../db/dbc/a00395.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a>)</div>
+<div class="line"><span class="lineno">  120</span>            {</div>
+<div class="line"><span class="lineno">  121</span>                <span class="keywordflow">switch</span> (aura-&gt;GetSpellInfo()-&gt;Id)</div>
+<div class="line"><span class="lineno">  122</span>                {</div>
+<div class="line"><span class="lineno">  123</span>                    <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d4/d72/a04841.html#a2b5cf5a4940992366122159776b67c7cad66eeedac753103a97f53bb7e31ac898">lfg::LFG_SPELL_DUNGEON_DESERTER</a>:</div>
+<div class="line"><span class="lineno">  124</span>                    <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d4/d72/a04841.html#a2b5cf5a4940992366122159776b67c7ca3ae4cb3e189406d52dcacbb4f110b158">lfg::LFG_SPELL_DUNGEON_COOLDOWN</a>:</div>
+<div class="line"><span class="lineno">  125</span>                    <span class="keywordflow">case</span> 26013: <span class="comment">// bg deserter</span></div>
+<div class="line"><span class="lineno">  126</span>                    <span class="keywordflow">case</span> 57724: <span class="comment">// sated</span></div>
+<div class="line"><span class="lineno">  127</span>                    <span class="keywordflow">case</span> 57723: <span class="comment">// exhaustion</span></div>
+<div class="line"><span class="lineno">  128</span>                    <span class="keywordflow">case</span> 25771: <span class="comment">// forbearance</span></div>
+<div class="line"><span class="lineno">  129</span>                    <span class="keywordflow">case</span> 15007: <span class="comment">// resurrection sickness</span></div>
+<div class="line"><span class="lineno">  130</span>                    <span class="keywordflow">case</span> 24755: <span class="comment">// Tricked or Treated (z eventu)</span></div>
+<div class="line"><span class="lineno">  131</span>                        <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  132</span>                }</div>
+<div class="line"><span class="lineno">  133</span> </div>
+<div class="line"><span class="lineno">  134</span>                errors.push_back(<span class="stringliteral">&quot;Can&#39;t have negative auras.&quot;</span>);</div>
+<div class="line"><span class="lineno">  135</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  136</span>            }</div>
+<div class="line"><span class="lineno">  137</span> </div>
+<div class="line"><span class="lineno">  138</span>    <span class="keywordflow">if</span> (<a class="code hl_typedef" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> inviteInstanceId = player-&gt;<a class="code hl_function" href="../../d4/d95/a08630.html#aec995d50706b9d0e8401e1f3b6199296">GetPendingSpectatorInviteInstanceId</a>())</div>
+<div class="line"><span class="lineno">  139</span>    {</div>
+<div class="line"><span class="lineno">  140</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/d09/a07310.html">Battleground</a>* tbg = <a class="code hl_define" href="../../dc/d94/a02999.html#abe50926a988d0fff4ee6ba0358c6b278">sBattlegroundMgr</a>-&gt;GetBattleground(inviteInstanceId, <a class="code hl_enumvalue" href="../../dc/d43/a04727.html#aaef9ddb244c12d22800aee24c3b637a2a8748942e38a5e4140daf8e10cb08f0c7">BATTLEGROUND_TYPE_NONE</a>))</div>
+<div class="line"><span class="lineno">  141</span>            tbg-&gt;RemoveToBeTeleported(player-&gt;<a class="code hl_function" href="../../de/d6b/a08378.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>());</div>
+<div class="line"><span class="lineno">  142</span>        player-&gt;<a class="code hl_function" href="../../d4/d95/a08630.html#aab00da73ab9f8eb49ccefb35476ddaf8">SetPendingSpectatorInviteInstanceId</a>(0);</div>
+<div class="line"><span class="lineno">  143</span>    }</div>
+<div class="line"><span class="lineno">  144</span> </div>
+<div class="line"><span class="lineno">  145</span>    <span class="keywordtype">bool</span> bgPreparation = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  146</span>    <span class="keywordflow">if</span> ((!handler-&gt;<a class="code hl_function" href="../../d1/d15/a07522.html#a635eca3065c9464e0cdcedd9f0740daa">GetSession</a>()-&gt;<a class="code hl_function" href="../../d2/d4b/a11146.html#a38f29ba7dc5216093dd812cf3e7861df">GetSecurity</a>() &amp;&amp; bgmap-&gt;<a class="code hl_function" href="../../d6/dc0/a09842.html#a2fcb965981bb03571f12c11cdbac54a4">GetBG</a>()-&gt;<a class="code hl_function" href="../../db/d09/a07310.html#aaa7ab97fdd1ee4fda63deba7eabe9cb1">GetStatus</a>() != <a class="code hl_enumvalue" href="../../dd/da3/a03026.html#ad1473374651bd09f461cdc994a6bc8d2afaf0b6349b8a93b543f64c744e321d5a">STATUS_IN_PROGRESS</a>) ||</div>
+<div class="line"><span class="lineno">  147</span>            (handler-&gt;<a class="code hl_function" href="../../d1/d15/a07522.html#a635eca3065c9464e0cdcedd9f0740daa">GetSession</a>()-&gt;<a class="code hl_function" href="../../d2/d4b/a11146.html#a38f29ba7dc5216093dd812cf3e7861df">GetSecurity</a>() &amp;&amp; bgmap-&gt;<a class="code hl_function" href="../../d6/dc0/a09842.html#a2fcb965981bb03571f12c11cdbac54a4">GetBG</a>()-&gt;<a class="code hl_function" href="../../db/d09/a07310.html#aaa7ab97fdd1ee4fda63deba7eabe9cb1">GetStatus</a>() != <a class="code hl_enumvalue" href="../../dd/da3/a03026.html#ad1473374651bd09f461cdc994a6bc8d2af0b95a17deaea4fc8f467eaacaa515b2">STATUS_WAIT_JOIN</a> &amp;&amp; bgmap-&gt;<a class="code hl_function" href="../../d6/dc0/a09842.html#a2fcb965981bb03571f12c11cdbac54a4">GetBG</a>()-&gt;<a class="code hl_function" href="../../db/d09/a07310.html#aaa7ab97fdd1ee4fda63deba7eabe9cb1">GetStatus</a>() != <a class="code hl_enumvalue" href="../../dd/da3/a03026.html#ad1473374651bd09f461cdc994a6bc8d2afaf0b6349b8a93b543f64c744e321d5a">STATUS_IN_PROGRESS</a>))</div>
+<div class="line"><span class="lineno">  148</span>    {</div>
+<div class="line"><span class="lineno">  149</span>        bgPreparation = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  150</span>        handler-&gt;<a class="code hl_function" href="../../d1/d15/a07522.html#ac1ed346507097817b3f8e00f0ae657a0">SendSysMessage</a>(<span class="stringliteral">&quot;Arena is not in progress yet. You will be invited as soon as it starts.&quot;</span>);</div>
+<div class="line"><span class="lineno">  151</span>        bgmap-&gt;<a class="code hl_function" href="../../d6/dc0/a09842.html#a2fcb965981bb03571f12c11cdbac54a4">GetBG</a>()-&gt;<a class="code hl_function" href="../../db/d09/a07310.html#a15ae5454869e14bf35aa3df6cfe3be8f">AddToBeTeleported</a>(player-&gt;<a class="code hl_function" href="../../de/d6b/a08378.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>(), spectate-&gt;<a class="code hl_function" href="../../de/d6b/a08378.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>());</div>
+<div class="line"><span class="lineno">  152</span>        player-&gt;<a class="code hl_function" href="../../d4/d95/a08630.html#aab00da73ab9f8eb49ccefb35476ddaf8">SetPendingSpectatorInviteInstanceId</a>(spectate-&gt;<a class="code hl_function" href="../../d4/d95/a08630.html#ac0238c1e89a66105296197175c2b121e">GetBattlegroundId</a>());</div>
+<div class="line"><span class="lineno">  153</span>    }</div>
+<div class="line"><span class="lineno">  154</span> </div>
+<div class="line"><span class="lineno">  155</span>    <span class="keywordflow">if</span> (!errors.empty())</div>
+<div class="line"><span class="lineno">  156</span>    {</div>
+<div class="line"><span class="lineno">  157</span>        handler-&gt;<a class="code hl_function" href="../../d1/d15/a07522.html#a54305506d6194dfdd1c1a3f30c8d1d62">PSendSysMessage</a>(<span class="stringliteral">&quot;To spectate, please fix the following:&quot;</span>);</div>
+<div class="line"><span class="lineno">  158</span>        <span class="keywordflow">for</span> (std::list&lt;std::string&gt;::const_iterator itr = errors.begin(); itr != errors.end(); ++itr)</div>
+<div class="line"><span class="lineno">  159</span>            handler-&gt;<a class="code hl_function" href="../../d1/d15/a07522.html#a54305506d6194dfdd1c1a3f30c8d1d62">PSendSysMessage</a>(<span class="stringliteral">&quot;- {}&quot;</span>, (*itr));</div>
+<div class="line"><span class="lineno">  160</span> </div>
+<div class="line"><span class="lineno">  161</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  162</span>    }</div>
+<div class="line"><span class="lineno">  163</span> </div>
+<div class="line"><span class="lineno">  164</span>    <span class="keywordflow">if</span> (bgPreparation)</div>
+<div class="line"><span class="lineno">  165</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  166</span> </div>
+<div class="line"><span class="lineno">  167</span>    <span class="keywordtype">float</span> z = spectate-&gt;<a class="code hl_function" href="../../df/d29/a08478.html#a2682e56ae4f0ce4b517a8ba3cd2798b1">GetMapId</a>() == <a class="code hl_enumvalue" href="../../dd/d3f/a02912.html#a6d57376a08b6ff3944dd9a5930a492cba2065a55b80538f8ca95f059acf9cd2f7">MAP_THE_RING_OF_VALOR</a> ? std::max(28.27f, spectate-&gt;<a class="code hl_function" href="../../d8/dea/a08462.html#a4e813a59345a6275e8b87b96be03e60b">GetPositionZ</a>() + 0.25f) : spectate-&gt;GetPositionZ() + 0.25f;</div>
+<div class="line"><span class="lineno">  168</span> </div>
+<div class="line"><span class="lineno">  169</span>    player-&gt;<a class="code hl_function" href="../../d4/d95/a08630.html#ae8c2ec9cbf0bfee766781f033fa75e22">SetPendingSpectatorForBG</a>(spectate-&gt;<a class="code hl_function" href="../../d4/d95/a08630.html#ac0238c1e89a66105296197175c2b121e">GetBattlegroundId</a>());</div>
+<div class="line"><span class="lineno">  170</span>    player-&gt;<a class="code hl_function" href="../../d4/d95/a08630.html#a6c28ad5b8a7d2bf507e1fbf8d2554c02">SetBattlegroundId</a>(spectate-&gt;<a class="code hl_function" href="../../d4/d95/a08630.html#ac0238c1e89a66105296197175c2b121e">GetBattlegroundId</a>(), spectate-&gt;<a class="code hl_function" href="../../d4/d95/a08630.html#a1db422d6843388c2b2a01eb2cbe06a96">GetBattlegroundTypeId</a>(), <a class="code hl_define" href="../../dc/d43/a04727.html#ae00102953affc07f8aa49666d1b97c3c">PLAYER_MAX_BATTLEGROUND_QUEUES</a>, <span class="keyword">false</span>, <span class="keyword">false</span>, <a class="code hl_enumvalue" href="../../dc/d43/a04727.html#abfb349736a7699bdfcdb134035ef7865a1d009932a5dde84d818f627cfcfe3fe5">TEAM_NEUTRAL</a>);</div>
+<div class="line"><span class="lineno">  171</span>    player-&gt;<a class="code hl_function" href="../../d4/d95/a08630.html#a45890cefbc8ee91ef68e6782dc7e03b8">SetEntryPoint</a>();</div>
+<div class="line"><span class="lineno">  172</span>    player-&gt;<a class="code hl_function" href="../../d4/d95/a08630.html#aa2eae30c1e0af118b9a6b5db0a1929b7">TeleportTo</a>(spectate-&gt;<a class="code hl_function" href="../../df/d29/a08478.html#a2682e56ae4f0ce4b517a8ba3cd2798b1">GetMapId</a>(), spectate-&gt;<a class="code hl_function" href="../../d8/dea/a08462.html#ad5577c934d9e845b44759b67c534c3e8">GetPositionX</a>(), spectate-&gt;<a class="code hl_function" href="../../d8/dea/a08462.html#ae79fc664f6cd027f5d49f6c7df8e4c9e">GetPositionY</a>(), z, spectate-&gt;<a class="code hl_function" href="../../d8/dea/a08462.html#a74cabfb8f441acb38e1abd5bf6ecdc84">GetOrientation</a>(), <a class="code hl_enumvalue" href="../../df/d5f/a03494.html#a19f261ab504f8e06e9488bd5a3c23075ac848cb12b6d8ee4208900a15b9c7b3bc">TELE_TO_GM_MODE</a>);</div>
+<div class="line"><span class="lineno">  173</span> </div>
+<div class="line"><span class="lineno">  174</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  175</span>}</div>
+<div class="ttc" id="aa00395_html_ac78ba8a81d12635c129fe2f92ca46c6f"><div class="ttname"><a href="../../db/dbc/a00395.html#ac78ba8a81d12635c129fe2f92ca46c6f">HOUR</a></div><div class="ttdeci">constexpr auto HOUR</div><div class="ttdef"><b>Definition:</b> Common.h:48</div></div>
+<div class="ttc" id="aa02912_html_a6d57376a08b6ff3944dd9a5930a492cba2065a55b80538f8ca95f059acf9cd2f7"><div class="ttname"><a href="../../dd/d3f/a02912.html#a6d57376a08b6ff3944dd9a5930a492cba2065a55b80538f8ca95f059acf9cd2f7">MAP_THE_RING_OF_VALOR</a></div><div class="ttdeci">@ MAP_THE_RING_OF_VALOR</div><div class="ttdef"><b>Definition:</b> AreaDefines.h:261</div></div>
+<div class="ttc" id="aa02912_html_a6d57376a08b6ff3944dd9a5930a492cba8b0ad8ad60a3a1610cc79f115d93cdce"><div class="ttname"><a href="../../dd/d3f/a02912.html#a6d57376a08b6ff3944dd9a5930a492cba8b0ad8ad60a3a1610cc79f115d93cdce">MAP_EBON_HOLD</a></div><div class="ttdeci">@ MAP_EBON_HOLD</div><div class="ttdef"><b>Definition:</b> AreaDefines.h:258</div></div>
+<div class="ttc" id="aa02999_html_abe50926a988d0fff4ee6ba0358c6b278"><div class="ttname"><a href="../../dc/d94/a02999.html#abe50926a988d0fff4ee6ba0358c6b278">sBattlegroundMgr</a></div><div class="ttdeci">#define sBattlegroundMgr</div><div class="ttdef"><b>Definition:</b> BattlegroundMgr.h:187</div></div>
+<div class="ttc" id="aa03026_html_ad1473374651bd09f461cdc994a6bc8d2ae7efc0dc1952d03b010583a83242fab8"><div class="ttname"><a href="../../dd/da3/a03026.html#ad1473374651bd09f461cdc994a6bc8d2ae7efc0dc1952d03b010583a83242fab8">STATUS_WAIT_LEAVE</a></div><div class="ttdeci">@ STATUS_WAIT_LEAVE</div><div class="ttdef"><b>Definition:</b> Battleground.h:194</div></div>
+<div class="ttc" id="aa03026_html_ad1473374651bd09f461cdc994a6bc8d2af0b95a17deaea4fc8f467eaacaa515b2"><div class="ttname"><a href="../../dd/da3/a03026.html#ad1473374651bd09f461cdc994a6bc8d2af0b95a17deaea4fc8f467eaacaa515b2">STATUS_WAIT_JOIN</a></div><div class="ttdeci">@ STATUS_WAIT_JOIN</div><div class="ttdef"><b>Definition:</b> Battleground.h:192</div></div>
+<div class="ttc" id="aa03308_html_a2a9983288cb2a06108c1d1a94c96c046a744fb18598cda5f7c53aff806d2fa2c2"><div class="ttname"><a href="../../d0/de4/a03308.html#a2a9983288cb2a06108c1d1a94c96c046a744fb18598cda5f7c53aff806d2fa2c2">CLASS_CONTEXT_TELEPORT</a></div><div class="ttdeci">@ CLASS_CONTEXT_TELEPORT</div><div class="ttdef"><b>Definition:</b> UnitDefines.h:228</div></div>
+<div class="ttc" id="aa03308_html_ae51d2ecb71f7a5cb3882982a622c9544a7c4ae74029844364315885e02df35505"><div class="ttname"><a href="../../d0/de4/a03308.html#ae51d2ecb71f7a5cb3882982a622c9544a7c4ae74029844364315885e02df35505">UNIT_STATE_ISOLATED</a></div><div class="ttdeci">@ UNIT_STATE_ISOLATED</div><div class="ttdef"><b>Definition:</b> UnitDefines.h:183</div></div>
+<div class="ttc" id="aa03494_html_a19f261ab504f8e06e9488bd5a3c23075ac848cb12b6d8ee4208900a15b9c7b3bc"><div class="ttname"><a href="../../df/d5f/a03494.html#a19f261ab504f8e06e9488bd5a3c23075ac848cb12b6d8ee4208900a15b9c7b3bc">TELE_TO_GM_MODE</a></div><div class="ttdeci">@ TELE_TO_GM_MODE</div><div class="ttdef"><b>Definition:</b> Player.h:817</div></div>
+<div class="ttc" id="aa04727_html_a86e4e3df7a5142175aa5df522d3346cfa7f7b30426fd386c181799196c1739058"><div class="ttname"><a href="../../dc/d43/a04727.html#a86e4e3df7a5142175aa5df522d3346cfa7f7b30426fd386c181799196c1739058">CLASS_DEATH_KNIGHT</a></div><div class="ttdeci">@ CLASS_DEATH_KNIGHT</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:146</div></div>
+<div class="ttc" id="aa04727_html_aaef9ddb244c12d22800aee24c3b637a2a8748942e38a5e4140daf8e10cb08f0c7"><div class="ttname"><a href="../../dc/d43/a04727.html#aaef9ddb244c12d22800aee24c3b637a2a8748942e38a5e4140daf8e10cb08f0c7">BATTLEGROUND_TYPE_NONE</a></div><div class="ttdeci">@ BATTLEGROUND_TYPE_NONE</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:3746</div></div>
+<div class="ttc" id="aa04727_html_abfb349736a7699bdfcdb134035ef7865a1d009932a5dde84d818f627cfcfe3fe5"><div class="ttname"><a href="../../dc/d43/a04727.html#abfb349736a7699bdfcdb134035ef7865a1d009932a5dde84d818f627cfcfe3fe5">TEAM_NEUTRAL</a></div><div class="ttdeci">@ TEAM_NEUTRAL</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:773</div></div>
+<div class="ttc" id="aa04727_html_ae00102953affc07f8aa49666d1b97c3c"><div class="ttname"><a href="../../dc/d43/a04727.html#ae00102953affc07f8aa49666d1b97c3c">PLAYER_MAX_BATTLEGROUND_QUEUES</a></div><div class="ttdeci">#define PLAYER_MAX_BATTLEGROUND_QUEUES</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:176</div></div>
+<div class="ttc" id="aa04834_html_ae611c9f6783ca983d1ff667f36dd7c7d"><div class="ttname"><a href="../../d4/de4/a04834.html#ae611c9f6783ca983d1ff667f36dd7c7d">ArenaSpectator::HandleSpectatorWatchCommand</a></div><div class="ttdeci">AC_GAME_API bool HandleSpectatorWatchCommand(ChatHandler *handler, std::string const &amp;name)</div><div class="ttdef"><b>Definition:</b> ArenaSpectator.cpp:177</div></div>
+<div class="ttc" id="aa04841_html_a2b5cf5a4940992366122159776b67c7ca3ae4cb3e189406d52dcacbb4f110b158"><div class="ttname"><a href="../../d4/d72/a04841.html#a2b5cf5a4940992366122159776b67c7ca3ae4cb3e189406d52dcacbb4f110b158">lfg::LFG_SPELL_DUNGEON_COOLDOWN</a></div><div class="ttdeci">@ LFG_SPELL_DUNGEON_COOLDOWN</div><div class="ttdef"><b>Definition:</b> LFGMgr.h:52</div></div>
+<div class="ttc" id="aa04841_html_a2b5cf5a4940992366122159776b67c7cad66eeedac753103a97f53bb7e31ac898"><div class="ttname"><a href="../../d4/d72/a04841.html#a2b5cf5a4940992366122159776b67c7cad66eeedac753103a97f53bb7e31ac898">lfg::LFG_SPELL_DUNGEON_DESERTER</a></div><div class="ttdeci">@ LFG_SPELL_DUNGEON_DESERTER</div><div class="ttdef"><b>Definition:</b> LFGMgr.h:53</div></div>
+<div class="ttc" id="aa04846_html_af5cb6806842c9689cf1d5f43ffdc4b0a"><div class="ttname"><a href="../../de/d25/a04846.html#af5cb6806842c9689cf1d5f43ffdc4b0a">ObjectAccessor::FindPlayerByName</a></div><div class="ttdeci">Player * FindPlayerByName(std::string const &amp;name, bool checkInWorld=true)</div><div class="ttdef"><b>Definition:</b> ObjectAccessor.cpp:271</div></div>
+<div class="ttc" id="aa07310_html_a15ae5454869e14bf35aa3df6cfe3be8f"><div class="ttname"><a href="../../db/d09/a07310.html#a15ae5454869e14bf35aa3df6cfe3be8f">Battleground::AddToBeTeleported</a></div><div class="ttdeci">void AddToBeTeleported(ObjectGuid spectator, ObjectGuid participant)</div><div class="ttdef"><b>Definition:</b> Battleground.h:400</div></div>
+<div class="ttc" id="aa07522_html_a54305506d6194dfdd1c1a3f30c8d1d62"><div class="ttname"><a href="../../d1/d15/a07522.html#a54305506d6194dfdd1c1a3f30c8d1d62">ChatHandler::PSendSysMessage</a></div><div class="ttdeci">void PSendSysMessage(std::string_view str, bool escapeCharacters=false)</div><div class="ttdef"><b>Definition:</b> Chat.cpp:211</div></div>
+<div class="ttc" id="aa07522_html_a635eca3065c9464e0cdcedd9f0740daa"><div class="ttname"><a href="../../d1/d15/a07522.html#a635eca3065c9464e0cdcedd9f0740daa">ChatHandler::GetSession</a></div><div class="ttdeci">WorldSession * GetSession()</div><div class="ttdef"><b>Definition:</b> Chat.h:242</div></div>
+<div class="ttc" id="aa07522_html_ac1ed346507097817b3f8e00f0ae657a0"><div class="ttname"><a href="../../d1/d15/a07522.html#ac1ed346507097817b3f8e00f0ae657a0">ChatHandler::SendSysMessage</a></div><div class="ttdeci">virtual void SendSysMessage(std::string_view str, bool escapeCharacters=false)</div><div class="ttdef"><b>Definition:</b> Chat.cpp:160</div></div>
+<div class="ttc" id="aa08462_html_a4e813a59345a6275e8b87b96be03e60b"><div class="ttname"><a href="../../d8/dea/a08462.html#a4e813a59345a6275e8b87b96be03e60b">Position::GetPositionZ</a></div><div class="ttdeci">float GetPositionZ() const</div><div class="ttdef"><b>Definition:</b> Position.h:123</div></div>
+<div class="ttc" id="aa08462_html_a74cabfb8f441acb38e1abd5bf6ecdc84"><div class="ttname"><a href="../../d8/dea/a08462.html#a74cabfb8f441acb38e1abd5bf6ecdc84">Position::GetOrientation</a></div><div class="ttdeci">float GetOrientation() const</div><div class="ttdef"><b>Definition:</b> Position.h:124</div></div>
+<div class="ttc" id="aa08462_html_ad5577c934d9e845b44759b67c534c3e8"><div class="ttname"><a href="../../d8/dea/a08462.html#ad5577c934d9e845b44759b67c534c3e8">Position::GetPositionX</a></div><div class="ttdeci">float GetPositionX() const</div><div class="ttdef"><b>Definition:</b> Position.h:121</div></div>
+<div class="ttc" id="aa08462_html_ae79fc664f6cd027f5d49f6c7df8e4c9e"><div class="ttname"><a href="../../d8/dea/a08462.html#ae79fc664f6cd027f5d49f6c7df8e4c9e">Position::GetPositionY</a></div><div class="ttdeci">float GetPositionY() const</div><div class="ttdef"><b>Definition:</b> Position.h:122</div></div>
+<div class="ttc" id="aa08478_html_a2682e56ae4f0ce4b517a8ba3cd2798b1"><div class="ttname"><a href="../../df/d29/a08478.html#a2682e56ae4f0ce4b517a8ba3cd2798b1">WorldLocation::GetMapId</a></div><div class="ttdeci">uint32 GetMapId() const</div><div class="ttdef"><b>Definition:</b> Position.h:280</div></div>
+<div class="ttc" id="aa08630_html_a1db422d6843388c2b2a01eb2cbe06a96"><div class="ttname"><a href="../../d4/d95/a08630.html#a1db422d6843388c2b2a01eb2cbe06a96">Player::GetBattlegroundTypeId</a></div><div class="ttdeci">BattlegroundTypeId GetBattlegroundTypeId() const</div><div class="ttdef"><b>Definition:</b> Player.h:2265</div></div>
+<div class="ttc" id="aa08630_html_a33e10b3465ce2c1d997ca656af1258e4"><div class="ttname"><a href="../../d4/d95/a08630.html#a33e10b3465ce2c1d997ca656af1258e4">Player::m_mover</a></div><div class="ttdeci">SafeUnitPointer m_mover</div><div class="ttdef"><b>Definition:</b> Player.h:2343</div></div>
+<div class="ttc" id="aa08630_html_a45890cefbc8ee91ef68e6782dc7e03b8"><div class="ttname"><a href="../../d4/d95/a08630.html#a45890cefbc8ee91ef68e6782dc7e03b8">Player::SetEntryPoint</a></div><div class="ttdeci">void SetEntryPoint()</div><div class="ttdef"><b>Definition:</b> Player.cpp:11312</div></div>
+<div class="ttc" id="aa08630_html_a68910cdec33bf9685215f8d39b3eee4a"><div class="ttname"><a href="../../d4/d95/a08630.html#a68910cdec33bf9685215f8d39b3eee4a">Player::InBattlegroundQueue</a></div><div class="ttdeci">bool InBattlegroundQueue(bool ignoreArena=false) const</div><div class="ttdef"><b>Definition:</b> Player.cpp:12224</div></div>
+<div class="ttc" id="aa08630_html_a6c28ad5b8a7d2bf507e1fbf8d2554c02"><div class="ttname"><a href="../../d4/d95/a08630.html#a6c28ad5b8a7d2bf507e1fbf8d2554c02">Player::SetBattlegroundId</a></div><div class="ttdeci">void SetBattlegroundId(uint32 id, BattlegroundTypeId bgTypeId, uint32 queueSlot, bool invited, bool isRandom, TeamId teamId)</div><div class="ttdef"><b>Definition:</b> Player.cpp:12325</div></div>
+<div class="ttc" id="aa08630_html_a966607859ce9c9537038b9ca21b9e827"><div class="ttname"><a href="../../d4/d95/a08630.html#a966607859ce9c9537038b9ca21b9e827">Player::IsClass</a></div><div class="ttdeci">bool IsClass(Classes playerClass, ClassContext context=CLASS_CONTEXT_NONE) const override</div><div class="ttdef"><b>Definition:</b> Player.cpp:1295</div></div>
+<div class="ttc" id="aa08630_html_a99fc00f9ac903dbe9adcadc5f7415abb"><div class="ttname"><a href="../../d4/d95/a08630.html#a99fc00f9ac903dbe9adcadc5f7415abb">Player::GetGroup</a></div><div class="ttdeci">Group * GetGroup()</div><div class="ttdef"><b>Definition:</b> Player.h:2477</div></div>
+<div class="ttc" id="aa08630_html_aa2eae30c1e0af118b9a6b5db0a1929b7"><div class="ttname"><a href="../../d4/d95/a08630.html#aa2eae30c1e0af118b9a6b5db0a1929b7">Player::TeleportTo</a></div><div class="ttdeci">bool TeleportTo(uint32 mapid, float x, float y, float z, float orientation, uint32 options=0, Unit *target=nullptr, bool newInstance=false)</div><div class="ttdef"><b>Definition:</b> Player.cpp:1345</div></div>
+<div class="ttc" id="aa08630_html_aab00da73ab9f8eb49ccefb35476ddaf8"><div class="ttname"><a href="../../d4/d95/a08630.html#aab00da73ab9f8eb49ccefb35476ddaf8">Player::SetPendingSpectatorInviteInstanceId</a></div><div class="ttdeci">void SetPendingSpectatorInviteInstanceId(uint32 bgInstanceId)</div><div class="ttdef"><b>Definition:</b> Player.h:2589</div></div>
+<div class="ttc" id="aa08630_html_ac0238c1e89a66105296197175c2b121e"><div class="ttname"><a href="../../d4/d95/a08630.html#ac0238c1e89a66105296197175c2b121e">Player::GetBattlegroundId</a></div><div class="ttdeci">uint32 GetBattlegroundId() const</div><div class="ttdef"><b>Definition:</b> Player.h:2264</div></div>
+<div class="ttc" id="aa08630_html_ac5d6db67faffc024da4d9f83b434bed3"><div class="ttname"><a href="../../d4/d95/a08630.html#ac5d6db67faffc024da4d9f83b434bed3">Player::IsSpectator</a></div><div class="ttdeci">bool IsSpectator() const</div><div class="ttdef"><b>Definition:</b> Player.h:2584</div></div>
+<div class="ttc" id="aa08630_html_ac69f491c4421221d87e895ab299d0bad"><div class="ttname"><a href="../../d4/d95/a08630.html#ac69f491c4421221d87e895ab299d0bad">Player::IsUsingLfg</a></div><div class="ttdeci">bool IsUsingLfg()</div><div class="ttdef"><b>Definition:</b> Player.cpp:13084</div></div>
+<div class="ttc" id="aa08630_html_ae8c2ec9cbf0bfee766781f033fa75e22"><div class="ttname"><a href="../../d4/d95/a08630.html#ae8c2ec9cbf0bfee766781f033fa75e22">Player::SetPendingSpectatorForBG</a></div><div class="ttdeci">void SetPendingSpectatorForBG(uint32 bgInstanceId)</div><div class="ttdef"><b>Definition:</b> Player.h:2587</div></div>
+<div class="ttc" id="aa08630_html_aec995d50706b9d0e8401e1f3b6199296"><div class="ttname"><a href="../../d4/d95/a08630.html#aec995d50706b9d0e8401e1f3b6199296">Player::GetPendingSpectatorInviteInstanceId</a></div><div class="ttdeci">uint32 GetPendingSpectatorInviteInstanceId() const</div><div class="ttdef"><b>Definition:</b> Player.h:2590</div></div>
+<div class="ttc" id="aa08630_html_af66560315fcbe492a24137bc8d96dd94"><div class="ttname"><a href="../../d4/d95/a08630.html#af66560315fcbe492a24137bc8d96dd94">Player::IsBeingTeleported</a></div><div class="ttdeci">bool IsBeingTeleported() const</div><div class="ttdef"><b>Definition:</b> Player.h:2097</div></div>
+<div class="ttc" id="aa08766_html_a0839378167049038c2857252d3b14738"><div class="ttname"><a href="../../d6/d2d/a08766.html#a0839378167049038c2857252d3b14738">Unit::GetVehicle</a></div><div class="ttdeci">Vehicle * GetVehicle() const</div><div class="ttdef"><b>Definition:</b> Unit.h:1839</div></div>
+<div class="ttc" id="aa08766_html_a148e79f1285e417f73d2a95b49fc2bf9"><div class="ttname"><a href="../../d6/d2d/a08766.html#a148e79f1285e417f73d2a95b49fc2bf9">Unit::m_Controlled</a></div><div class="ttdeci">ControlSet m_Controlled</div><div class="ttdef"><b>Definition:</b> Unit.h:1990</div></div>
+<div class="ttc" id="aa08766_html_a85b547eedd208db5f9dddc5f75a1a211"><div class="ttname"><a href="../../d6/d2d/a08766.html#a85b547eedd208db5f9dddc5f75a1a211">Unit::IsInFlight</a></div><div class="ttdeci">bool IsInFlight() const</div><div class="ttdef"><b>Definition:</b> Unit.h:1619</div></div>
+<div class="ttc" id="aa08766_html_aa8ff700c8aec70f3ab1e1385262959b1"><div class="ttname"><a href="../../d6/d2d/a08766.html#aa8ff700c8aec70f3ab1e1385262959b1">Unit::IsMounted</a></div><div class="ttdeci">bool IsMounted() const</div><div class="ttdef"><b>Definition:</b> Unit.h:1800</div></div>
+<div class="ttc" id="aa08766_html_ab78147cd520d2dac6be709b4c80a7de3"><div class="ttname"><a href="../../d6/d2d/a08766.html#ab78147cd520d2dac6be709b4c80a7de3">Unit::HasUnitState</a></div><div class="ttdeci">bool HasUnitState(const uint32 f) const</div><div class="ttdef"><b>Definition:</b> Unit.h:691</div></div>
+<div class="ttc" id="aa08766_html_af5e75d013dfa8a8b888d7714992e3f2a"><div class="ttname"><a href="../../d6/d2d/a08766.html#af5e75d013dfa8a8b888d7714992e3f2a">Unit::IsInCombat</a></div><div class="ttdeci">bool IsInCombat() const</div><div class="ttdef"><b>Definition:</b> Unit.h:879</div></div>
+<div class="ttc" id="aa09834_html_aae3a929aefb05046ef304ffba10aae71"><div class="ttname"><a href="../../d8/df9/a09834.html#aae3a929aefb05046ef304ffba10aae71">Map::Instanceable</a></div><div class="ttdeci">bool Instanceable() const</div><div class="ttdef"><b>Definition:</b> Map.h:289</div></div>
+<div class="ttc" id="aa09842_html_a2fcb965981bb03571f12c11cdbac54a4"><div class="ttname"><a href="../../d6/dc0/a09842.html#a2fcb965981bb03571f12c11cdbac54a4">BattlegroundMap::GetBG</a></div><div class="ttdeci">Battleground * GetBG()</div><div class="ttdef"><b>Definition:</b> Map.h:661</div></div>
+<div class="ttc" id="aa11146_html_a38f29ba7dc5216093dd812cf3e7861df"><div class="ttname"><a href="../../d2/d4b/a11146.html#a38f29ba7dc5216093dd812cf3e7861df">WorldSession::GetSecurity</a></div><div class="ttdeci">AccountTypes GetSecurity() const</div><div class="ttdef"><b>Definition:</b> WorldSession.h:408</div></div>
+<div class="ttc" id="aa11146_html_a62c786bcb829a021c267e7eb56809952"><div class="ttname"><a href="../../d2/d4b/a11146.html#a62c786bcb829a021c267e7eb56809952">WorldSession::GetPlayer</a></div><div class="ttdeci">Player * GetPlayer() const</div><div class="ttdef"><b>Definition:</b> WorldSession.h:411</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00400">Battleground::AddToBeTeleported()</a>, <a class="el" href="../../#l03746">BATTLEGROUND_TYPE_NONE</a>, <a class="el" href="../../#l00228">CLASS_CONTEXT_TELEPORT</a>, <a class="el" href="../../#l00146">CLASS_DEATH_KNIGHT</a>, <a class="el" href="../../#l00611">WorldObject::FindMap()</a>, <a class="el" href="../../#l00271">ObjectAccessor::FindPlayerByName()</a>, <a class="el" href="../../#l02264">Player::GetBattlegroundId()</a>, <a class="el" href="../../#l02265">Player::GetBattlegroundTypeId()</a>, <a class="el" href="../../#l00661">BattlegroundMap::GetBG()</a>, <a class="el" href="../../#l02477">Player::GetGroup()</a>, <a class="el" href="../../#l00113">Object::GetGUID()</a>, <a class="el" href="../../#l00280">WorldLocation::GetMapId()</a>, <a class="el" href="../../#l00124">Position::GetOrientation()</a>, <a class="el" href="../../#l02590">Player::GetPendingSpectatorInviteInstanceId()</a>, <a class="el" href="../../#l00411">WorldSession::GetPlayer()</a>, <a class="el" href="../../#l00121">Position::GetPositionX()</a>, <a class="el" href="../../#l00122">Position::GetPositionY()</a>, <a class="el" href="../../#l00123">Position::GetPositionZ()</a>, <a class="el" href="../../#l00408">WorldSession::GetSecurity()</a>, <a class="el" href="../../#l00242">ChatHandler::GetSession()</a>, <a class="el" href="../../#l00323">Battleground::GetStatus()</a>, <a class="el" href="../../#l01839">Unit::GetVehicle()</a>, <a class="el" href="../../#l01458">Unit::GetVisibleAuras()</a>, <a class="el" href="../../#l00177">HandleSpectatorWatchCommand()</a>, <a class="el" href="../../#l00691">Unit::HasUnitState()</a>, <a class="el" href="../../#l00048">HOUR</a>, <a class="el" href="../../#l00053">IN_MILLISECONDS</a>, <a class="el" href="../../#l12224">Player::InBattlegroundQueue()</a>, <a class="el" href="../../#l00289">Map::Instanceable()</a>, <a class="el" href="../../#l01707">Unit::IsAlive()</a>, <a class="el" href="../../#l00297">Map::IsBattleArena()</a>, <a class="el" href="../../#l02097">Player::IsBeingTeleported()</a>, <a class="el" href="../../#l01295">Player::IsClass()</a>, <a class="el" href="../../#l00879">Unit::IsInCombat()</a>, <a class="el" href="../../#l01619">Unit::IsInFlight()</a>, <a class="el" href="../../#l00108">Object::IsInWorld()</a>, <a class="el" href="../../#l01800">Unit::IsMounted()</a>, <a class="el" href="../../#l02584">Player::IsSpectator()</a>, <a class="el" href="../../#l13084">Player::IsUsingLfg()</a>, <a class="el" href="../../#l00052">lfg::LFG_SPELL_DUNGEON_COOLDOWN</a>, <a class="el" href="../../#l00053">lfg::LFG_SPELL_DUNGEON_DESERTER</a>, <a class="el" href="../../#l01990">Unit::m_Controlled</a>, <a class="el" href="../../#l02343">Player::m_mover</a>, <a class="el" href="../../#l00258">MAP_EBON_HOLD</a>, <a class="el" href="../../#l00261">MAP_THE_RING_OF_VALOR</a>, <a class="el" href="../../#l00176">PLAYER_MAX_BATTLEGROUND_QUEUES</a>, <a class="el" href="../../#l00211">ChatHandler::PSendSysMessage()</a>, <a class="el" href="../../#l00187">sBattlegroundMgr</a>, <a class="el" href="../../#l00160">ChatHandler::SendSysMessage()</a>, <a class="el" href="../../#l12325">Player::SetBattlegroundId()</a>, <a class="el" href="../../#l11312">Player::SetEntryPoint()</a>, <a class="el" href="../../#l02587">Player::SetPendingSpectatorForBG()</a>, <a class="el" href="../../#l02589">Player::SetPendingSpectatorInviteInstanceId()</a>, <a class="el" href="../../#l00193">STATUS_IN_PROGRESS</a>, <a class="el" href="../../#l00192">STATUS_WAIT_JOIN</a>, <a class="el" href="../../#l00194">STATUS_WAIT_LEAVE</a>, <a class="el" href="../../#l00773">TEAM_NEUTRAL</a>, <a class="el" href="../../#l00817">TELE_TO_GM_MODE</a>, <a class="el" href="../../#l01345">Player::TeleportTo()</a>, and <a class="el" href="../../#l00183">UNIT_STATE_ISOLATED</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00088">spectator_commandscript::HandleSpectatorSpectateCommand()</a>, and <a class="el" href="../../#l00828">WorldSession::HandleSummonResponseOpcode()</a>.</p>
+
+</div>
+</div>
+<a id="ae611c9f6783ca983d1ff667f36dd7c7d" name="ae611c9f6783ca983d1ff667f36dd7c7d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae611c9f6783ca983d1ff667f36dd7c7d">&#9670;&#160;</a></span>HandleSpectatorWatchCommand()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool ArenaSpectator::HandleSpectatorWatchCommand </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d1/d15/a07522.html">ChatHandler</a> *&#160;</td>
+          <td class="paramname"><em>handler</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">std::string const &amp;&#160;</td>
+          <td class="paramname"><em>name</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  178</span>{</div>
+<div class="line"><span class="lineno">  179</span>    <a class="code hl_class" href="../../d4/d95/a08630.html">Player</a>* player = handler-&gt;<a class="code hl_function" href="../../d1/d15/a07522.html#a635eca3065c9464e0cdcedd9f0740daa">GetSession</a>()-&gt;<a class="code hl_function" href="../../d2/d4b/a11146.html#a62c786bcb829a021c267e7eb56809952">GetPlayer</a>();</div>
+<div class="line"><span class="lineno">  180</span>    <span class="keywordflow">if</span> (!player-&gt;<a class="code hl_function" href="../../d4/d95/a08630.html#ac5d6db67faffc024da4d9f83b434bed3">IsSpectator</a>())</div>
+<div class="line"><span class="lineno">  181</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  182</span> </div>
+<div class="line"><span class="lineno">  183</span>    <span class="keywordflow">if</span> (!player-&gt;<a class="code hl_function" href="../../dc/d1b/a08414.html#a1e43fee59e696ae47ed06191ae3b1b82">FindMap</a>() || !player-&gt;<a class="code hl_function" href="../../dc/d1b/a08414.html#a1e43fee59e696ae47ed06191ae3b1b82">FindMap</a>()-&gt;<a class="code hl_function" href="../../d8/df9/a09834.html#afe645aa76713224c7e7fcd0f5e12fc79">IsBattleArena</a>())</div>
+<div class="line"><span class="lineno">  184</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  185</span> </div>
+<div class="line"><span class="lineno">  186</span>    <a class="code hl_class" href="../../db/d09/a07310.html">Battleground</a>* bg = ((<a class="code hl_class" href="../../d6/dc0/a09842.html">BattlegroundMap</a>*)player-&gt;<a class="code hl_function" href="../../dc/d1b/a08414.html#a1e43fee59e696ae47ed06191ae3b1b82">FindMap</a>())-&gt;GetBG();</div>
+<div class="line"><span class="lineno">  187</span>    <span class="keywordflow">if</span> (!bg || bg-&gt;<a class="code hl_function" href="../../db/d09/a07310.html#aaa7ab97fdd1ee4fda63deba7eabe9cb1">GetStatus</a>() != <a class="code hl_enumvalue" href="../../dd/da3/a03026.html#ad1473374651bd09f461cdc994a6bc8d2afaf0b6349b8a93b543f64c744e321d5a">STATUS_IN_PROGRESS</a>)</div>
+<div class="line"><span class="lineno">  188</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  189</span> </div>
+<div class="line"><span class="lineno">  190</span>    <a class="code hl_class" href="../../d4/d95/a08630.html">Player</a>* spectate = <a class="code hl_function" href="../../de/d25/a04846.html#af5cb6806842c9689cf1d5f43ffdc4b0a">ObjectAccessor::FindPlayerByName</a>(name);</div>
+<div class="line"><span class="lineno">  191</span>    <span class="keywordflow">if</span> (!spectate || !spectate-&gt;<a class="code hl_function" href="../../d6/d2d/a08766.html#a5ea3f54af571493f7889220724667189">IsAlive</a>() || spectate-&gt;<a class="code hl_function" href="../../d4/d95/a08630.html#ac5d6db67faffc024da4d9f83b434bed3">IsSpectator</a>() || spectate-&gt;<a class="code hl_function" href="../../de/d6b/a08378.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>() == player-&gt;<a class="code hl_function" href="../../de/d6b/a08378.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>() || !spectate-&gt;<a class="code hl_function" href="../../de/d6b/a08378.html#a3aeab7def818ba6c50249f197ad2f9ca">IsInWorld</a>() || !spectate-&gt;<a class="code hl_function" href="../../dc/d1b/a08414.html#a1e43fee59e696ae47ed06191ae3b1b82">FindMap</a>() || spectate-&gt;<a class="code hl_function" href="../../d4/d95/a08630.html#af66560315fcbe492a24137bc8d96dd94">IsBeingTeleported</a>() || spectate-&gt;<a class="code hl_function" href="../../dc/d1b/a08414.html#a1e43fee59e696ae47ed06191ae3b1b82">FindMap</a>() != player-&gt;<a class="code hl_function" href="../../dc/d1b/a08414.html#a1e43fee59e696ae47ed06191ae3b1b82">FindMap</a>() || !bg-&gt;<a class="code hl_function" href="../../db/d09/a07310.html#a8c095e425130c2460d3ad85f85238ffe">IsPlayerInBattleground</a>(spectate-&gt;<a class="code hl_function" href="../../de/d6b/a08378.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>()))</div>
+<div class="line"><span class="lineno">  192</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  193</span> </div>
+<div class="line"><span class="lineno">  194</span>    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../dc/d1b/a08414.html">WorldObject</a>* o = player-&gt;<a class="code hl_function" href="../../d4/d95/a08630.html#a84bf5baccbc8fb7a764855954584ffb4">GetViewpoint</a>())</div>
+<div class="line"><span class="lineno">  195</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d6/d2d/a08766.html">Unit</a>* u = o-&gt;<a class="code hl_function" href="../../de/d6b/a08378.html#afd88f95deffad982ca0b5ef16b6244e8">ToUnit</a>())</div>
+<div class="line"><span class="lineno">  196</span>        {</div>
+<div class="line"><span class="lineno">  197</span>            u-&gt;RemoveAurasByType(<a class="code hl_enumvalue" href="../../d2/d74/a03293.html#a538cdc259460b365f406fe0b3a981799aff313dd31d66c100086b4d9b6a81d329">SPELL_AURA_BIND_SIGHT</a>, player-&gt;<a class="code hl_function" href="../../de/d6b/a08378.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>());</div>
+<div class="line"><span class="lineno">  198</span>            player-&gt;<a class="code hl_function" href="../../d6/d2d/a08766.html#aac612f06e84142d92dcfc432b5feb4ac">RemoveAurasDueToSpell</a>(<a class="code hl_define" href="../../d4/d81/a04556.html#a45eed6b7e374a4b2ea26b3dd5ee915d0">SPECTATOR_SPELL_BINDSIGHT</a>, player-&gt;<a class="code hl_function" href="../../de/d6b/a08378.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>(), (1 &lt;&lt; <a class="code hl_enumvalue" href="../../dc/d43/a04727.html#a091a832125de330a1d2fb91d57c0e1ffa8ad5debef66c8aadbaf13f97f522e791">EFFECT_1</a>));</div>
+<div class="line"><span class="lineno">  199</span> </div>
+<div class="line"><span class="lineno">  200</span>            <span class="keywordflow">if</span> (u-&gt;GetGUID() == spectate-&gt;<a class="code hl_function" href="../../de/d6b/a08378.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>())</div>
+<div class="line"><span class="lineno">  201</span>                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  202</span>        }</div>
+<div class="line"><span class="lineno">  203</span> </div>
+<div class="line"><span class="lineno">  204</span>    <span class="keywordflow">if</span> (player-&gt;<a class="code hl_function" href="../../de/d6b/a08378.html#aa837a338065017a1b39f1aa2f310587d">GetUInt64Value</a>(<a class="code hl_enumvalue" href="../../d0/d57/a03380.html#a0e42dc606678c9df7884e1aad621e881acbbc2f72651995ffa95bda05c7e99349">PLAYER_FARSIGHT</a>) || player-&gt;<a class="code hl_variable" href="../../d4/d95/a08630.html#a627213e5abefc63f5e430cd8ecfbb06e">m_seer</a> != player) <span class="comment">// pussywizard: below this point we must not have a viewpoint!</span></div>
+<div class="line"><span class="lineno">  205</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  206</span> </div>
+<div class="line"><span class="lineno">  207</span>    <span class="keywordflow">if</span> (player-&gt;<a class="code hl_function" href="../../d4/d95/a08630.html#a3f14db9604cd251d30cbab5afa1877af">HaveAtClient</a>(spectate))</div>
+<div class="line"><span class="lineno">  208</span>        player-&gt;<a class="code hl_function" href="../../d6/d2d/a08766.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(spectate, <a class="code hl_define" href="../../d4/d81/a04556.html#a45eed6b7e374a4b2ea26b3dd5ee915d0">SPECTATOR_SPELL_BINDSIGHT</a>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  209</span> </div>
+<div class="line"><span class="lineno">  210</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  211</span>}</div>
+<div class="ttc" id="aa03293_html_a538cdc259460b365f406fe0b3a981799aff313dd31d66c100086b4d9b6a81d329"><div class="ttname"><a href="../../d2/d74/a03293.html#a538cdc259460b365f406fe0b3a981799aff313dd31d66c100086b4d9b6a81d329">SPELL_AURA_BIND_SIGHT</a></div><div class="ttdeci">@ SPELL_AURA_BIND_SIGHT</div><div class="ttdef"><b>Definition:</b> SpellAuraDefines.h:64</div></div>
+<div class="ttc" id="aa03380_html_a0e42dc606678c9df7884e1aad621e881acbbc2f72651995ffa95bda05c7e99349"><div class="ttname"><a href="../../d0/d57/a03380.html#a0e42dc606678c9df7884e1aad621e881acbbc2f72651995ffa95bda05c7e99349">PLAYER_FARSIGHT</a></div><div class="ttdeci">@ PLAYER_FARSIGHT</div><div class="ttdef"><b>Definition:</b> UpdateFields.h:334</div></div>
+<div class="ttc" id="aa04556_html_a45eed6b7e374a4b2ea26b3dd5ee915d0"><div class="ttname"><a href="../../d4/d81/a04556.html#a45eed6b7e374a4b2ea26b3dd5ee915d0">SPECTATOR_SPELL_BINDSIGHT</a></div><div class="ttdeci">#define SPECTATOR_SPELL_BINDSIGHT</div><div class="ttdef"><b>Definition:</b> ArenaSpectator.h:38</div></div>
+<div class="ttc" id="aa04727_html_a091a832125de330a1d2fb91d57c0e1ffa8ad5debef66c8aadbaf13f97f522e791"><div class="ttname"><a href="../../dc/d43/a04727.html#a091a832125de330a1d2fb91d57c0e1ffa8ad5debef66c8aadbaf13f97f522e791">EFFECT_1</a></div><div class="ttdeci">@ EFFECT_1</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:32</div></div>
+<div class="ttc" id="aa07310_html_a8c095e425130c2460d3ad85f85238ffe"><div class="ttname"><a href="../../db/d09/a07310.html#a8c095e425130c2460d3ad85f85238ffe">Battleground::IsPlayerInBattleground</a></div><div class="ttdeci">bool IsPlayerInBattleground(ObjectGuid guid) const</div><div class="ttdef"><b>Definition:</b> Battleground.cpp:1796</div></div>
+<div class="ttc" id="aa08378_html_aa837a338065017a1b39f1aa2f310587d"><div class="ttname"><a href="../../de/d6b/a08378.html#aa837a338065017a1b39f1aa2f310587d">Object::GetUInt64Value</a></div><div class="ttdeci">uint64 GetUInt64Value(uint16 index) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:300</div></div>
+<div class="ttc" id="aa08378_html_afd88f95deffad982ca0b5ef16b6244e8"><div class="ttname"><a href="../../de/d6b/a08378.html#afd88f95deffad982ca0b5ef16b6244e8">Object::ToUnit</a></div><div class="ttdeci">Unit * ToUnit()</div><div class="ttdef"><b>Definition:</b> Object.h:210</div></div>
+<div class="ttc" id="aa08414_html"><div class="ttname"><a href="../../dc/d1b/a08414.html">WorldObject</a></div><div class="ttdef"><b>Definition:</b> Object.h:461</div></div>
+<div class="ttc" id="aa08630_html_a3f14db9604cd251d30cbab5afa1877af"><div class="ttname"><a href="../../d4/d95/a08630.html#a3f14db9604cd251d30cbab5afa1877af">Player::HaveAtClient</a></div><div class="ttdeci">bool HaveAtClient(WorldObject const *u) const</div><div class="ttdef"><b>Definition:</b> Player.cpp:11440</div></div>
+<div class="ttc" id="aa08630_html_a627213e5abefc63f5e430cd8ecfbb06e"><div class="ttname"><a href="../../d4/d95/a08630.html#a627213e5abefc63f5e430cd8ecfbb06e">Player::m_seer</a></div><div class="ttdeci">WorldObject * m_seer</div><div class="ttdef"><b>Definition:</b> Player.h:2344</div></div>
+<div class="ttc" id="aa08630_html_a84bf5baccbc8fb7a764855954584ffb4"><div class="ttname"><a href="../../d4/d95/a08630.html#a84bf5baccbc8fb7a764855954584ffb4">Player::GetViewpoint</a></div><div class="ttdeci">WorldObject * GetViewpoint() const</div><div class="ttdef"><b>Definition:</b> Player.cpp:13228</div></div>
+<div class="ttc" id="aa08766_html"><div class="ttname"><a href="../../d6/d2d/a08766.html">Unit</a></div><div class="ttdef"><b>Definition:</b> Unit.h:620</div></div>
+<div class="ttc" id="aa08766_html_aa3ca95f7a14041f562ed69c3994afdfc"><div class="ttname"><a href="../../d6/d2d/a08766.html#aa3ca95f7a14041f562ed69c3994afdfc">Unit::CastSpell</a></div><div class="ttdeci">SpellCastResult CastSpell(SpellCastTargets const &amp;targets, SpellInfo const *spellInfo, CustomSpellValues const *value, TriggerCastFlags triggerFlags=TRIGGERED_NONE, Item *castItem=nullptr, AuraEffect const *triggeredByAura=nullptr, ObjectGuid originalCaster=ObjectGuid::Empty)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:1194</div></div>
+<div class="ttc" id="aa08766_html_aac612f06e84142d92dcfc432b5feb4ac"><div class="ttname"><a href="../../d6/d2d/a08766.html#aac612f06e84142d92dcfc432b5feb4ac">Unit::RemoveAurasDueToSpell</a></div><div class="ttdeci">void RemoveAurasDueToSpell(uint32 spellId, ObjectGuid casterGUID=ObjectGuid::Empty, uint8 reqEffMask=0, AuraRemoveMode removeMode=AURA_REMOVE_BY_DEFAULT)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:4975</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l01194">Unit::CastSpell()</a>, <a class="el" href="../../#l00032">EFFECT_1</a>, <a class="el" href="../../#l00611">WorldObject::FindMap()</a>, <a class="el" href="../../#l00271">ObjectAccessor::FindPlayerByName()</a>, <a class="el" href="../../#l00113">Object::GetGUID()</a>, <a class="el" href="../../#l00411">WorldSession::GetPlayer()</a>, <a class="el" href="../../#l00242">ChatHandler::GetSession()</a>, <a class="el" href="../../#l00323">Battleground::GetStatus()</a>, <a class="el" href="../../#l00300">Object::GetUInt64Value()</a>, <a class="el" href="../../#l13228">Player::GetViewpoint()</a>, <a class="el" href="../../#l11440">Player::HaveAtClient()</a>, <a class="el" href="../../#l01707">Unit::IsAlive()</a>, <a class="el" href="../../#l00297">Map::IsBattleArena()</a>, <a class="el" href="../../#l02097">Player::IsBeingTeleported()</a>, <a class="el" href="../../#l00108">Object::IsInWorld()</a>, <a class="el" href="../../#l01796">Battleground::IsPlayerInBattleground()</a>, <a class="el" href="../../#l02584">Player::IsSpectator()</a>, <a class="el" href="../../#l02344">Player::m_seer</a>, <a class="el" href="../../#l00334">PLAYER_FARSIGHT</a>, <a class="el" href="../../#l04975">Unit::RemoveAurasDueToSpell()</a>, <a class="el" href="../../#l00038">SPECTATOR_SPELL_BINDSIGHT</a>, <a class="el" href="../../#l00064">SPELL_AURA_BIND_SIGHT</a>, <a class="el" href="../../#l00193">STATUS_IN_PROGRESS</a>, and <a class="el" href="../../#l00210">Object::ToUnit()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00029">HandleSpectatorSpectateCommand()</a>, and <a class="el" href="../../#l00096">spectator_commandscript::HandleSpectatorWatchCommand()</a>.</p>
+
+</div>
+</div>
+<a id="a4824203dd64e1ddcd47642df9d465ea0" name="a4824203dd64e1ddcd47642df9d465ea0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4824203dd64e1ddcd47642df9d465ea0">&#9670;&#160;</a></span>SendCommand()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T , typename Format , typename... Args&gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void ArenaSpectator::SendCommand </td>
+          <td>(</td>
+          <td class="paramtype">T *&#160;</td>
+          <td class="paramname"><em>o</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Format &amp;&amp;&#160;</td>
+          <td class="paramname"><em>fmt</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Args &amp;&amp;...&#160;</td>
+          <td class="paramname"><em>args</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -153,107 +680,471 @@ Functions</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   60</span>    {</div>
-<div class="line"><span class="lineno">   61</span>        <a class="code hl_typedef" href="../../d1/d46/a01739.html#a5c88535ec12f87cc432b1c594bf05326">PlayerSettingVector</a> result;</div>
-<div class="line"><span class="lineno">   62</span> </div>
-<div class="line"><span class="lineno">   63</span>        <a class="code hl_class" href="../../d4/d0d/a05692.html">CharacterDatabasePreparedStatement</a>* stmt = <a class="code hl_variable" href="../../de/d93/a04235.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.GetPreparedStatement(<a class="code hl_enumvalue" href="../../df/d4b/a04169.html#a76116b4fa282d8e35bf8f8e940b5cba7a96957242827fb6e9c0f1866bafddeef0">CHAR_SEL_CHAR_SETTINGS</a>);</div>
-<div class="line"><span class="lineno">   64</span>        stmt-&gt;<a class="code hl_function" href="../../d0/ddb/a05824.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(0, playerLowGuid);</div>
-<div class="line"><span class="lineno">   65</span>        <a class="code hl_typedef" href="../../d1/dde/a04187.html#ac6110b8d867b5f84f677555d07037acb">PreparedQueryResult</a> dbRes = <a class="code hl_variable" href="../../de/d93/a04235.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.Query(stmt);</div>
-<div class="line"><span class="lineno">   66</span>        <span class="keywordflow">if</span> (!dbRes)</div>
-<div class="line"><span class="lineno">   67</span>            <span class="keywordflow">return</span> result;</div>
-<div class="line"><span class="lineno">   68</span> </div>
-<div class="line"><span class="lineno">   69</span>        <span class="keywordflow">do</span></div>
-<div class="line"><span class="lineno">   70</span>        {</div>
-<div class="line"><span class="lineno">   71</span>            <a class="code hl_class" href="../../de/d6e/a05724.html">Field</a>* fields = dbRes-&gt;Fetch();</div>
-<div class="line"><span class="lineno">   72</span>            std::string rowSource = fields[0].<a class="code hl_function" href="../../de/d6e/a05724.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;std::string&gt;();</div>
-<div class="line"><span class="lineno">   73</span>            <span class="keywordflow">if</span> (rowSource != source)</div>
-<div class="line"><span class="lineno">   74</span>                <span class="keywordflow">continue</span>;</div>
+<div class="fragment"><div class="line"><span class="lineno">   48</span>    {</div>
+<div class="line"><span class="lineno">   49</span>        <a class="code hl_function" href="../../d4/de4/a04834.html#abc5c395f3697c21f09c4e70a81f02497">SendPacketTo</a>(o, <a class="code hl_function" href="../../d3/d7d/a04797.html#a868406b9609960d4ae0189588c8cbbf4">Acore::StringFormat</a>(std::forward&lt;Format&gt;(fmt), std::forward&lt;Args&gt;(args)...));</div>
+<div class="line"><span class="lineno">   50</span>    }</div>
+<div class="ttc" id="aa04797_html_a868406b9609960d4ae0189588c8cbbf4"><div class="ttname"><a href="../../d3/d7d/a04797.html#a868406b9609960d4ae0189588c8cbbf4">Acore::StringFormat</a></div><div class="ttdeci">std::string StringFormat(FormatString&lt; Args... &gt; fmt, Args &amp;&amp;... args)</div><div class="ttdoc">Default AC string format function.</div><div class="ttdef"><b>Definition:</b> StringFormat.h:34</div></div>
+<div class="ttc" id="aa04834_html_abc5c395f3697c21f09c4e70a81f02497"><div class="ttname"><a href="../../d4/de4/a04834.html#abc5c395f3697c21f09c4e70a81f02497">ArenaSpectator::SendPacketTo</a></div><div class="ttdeci">AC_GAME_API void SendPacketTo(const T *object, std::string &amp;&amp;message)</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../d4/de4/a04834.html#abc5c395f3697c21f09c4e70a81f02497">SendPacketTo()</a>, and <a class="el" href="../../#l00034">Acore::StringFormat()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00050">WorldSession::HandleMoveWorldportAck()</a>, <a class="el" href="../../#l00058">spectator_commandscript::HandleSpectatorVersionCommand()</a>, <a class="el" href="../../#l00102">SendCommand_Aura()</a>, <a class="el" href="../../#l00089">SendCommand_Cooldown()</a>, <a class="el" href="../../#l00071">SendCommand_GUID()</a>, <a class="el" href="../../#l00080">SendCommand_Spell()</a>, <a class="el" href="../../#l00053">SendCommand_String()</a>, and <a class="el" href="../../#l00062">SendCommand_UInt32Value()</a>.</p>
+
+</div>
+</div>
+<a id="a918c7c3c9fd7d26b7a78f2e6d13e1e27" name="a918c7c3c9fd7d26b7a78f2e6d13e1e27"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a918c7c3c9fd7d26b7a78f2e6d13e1e27">&#9670;&#160;</a></span>SendCommand_Aura()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void ArenaSpectator::SendCommand_Aura </td>
+          <td>(</td>
+          <td class="paramtype">T *&#160;</td>
+          <td class="paramname"><em>o</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d4/dea/a08430.html">ObjectGuid</a>&#160;</td>
+          <td class="paramname"><em>targetGUID</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const char *&#160;</td>
+          <td class="paramname"><em>prefix</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d4/dea/a08430.html">ObjectGuid</a>&#160;</td>
+          <td class="paramname"><em>caster</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>id</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>isDebuff</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>dispel</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d0/d61/a00302.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td>
+          <td class="paramname"><em>dur</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d0/d61/a00302.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td>
+          <td class="paramname"><em>maxdur</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>stack</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>remove</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  103</span>    {</div>
+<div class="line"><span class="lineno">  104</span>        <span class="keywordflow">if</span> (!targetGUID.<a class="code hl_function" href="../../d4/dea/a08430.html#a676c61adb79a8be696a771a116253ee1">IsPlayer</a>())</div>
+<div class="line"><span class="lineno">  105</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  106</span> </div>
+<div class="line"><span class="lineno">  107</span>        <a class="code hl_function" href="../../d4/de4/a04834.html#a4824203dd64e1ddcd47642df9d465ea0">SendCommand</a>(o, <span class="stringliteral">&quot;%s0x%016llX;%s=%u,%u,%i,%i,%u,%u,%u,0x%016llX;&quot;</span>, <a class="code hl_define" href="../../d4/d81/a04556.html#ad208fe13d99ebdd4ecc344c284d15e68">SPECTATOR_ADDON_PREFIX</a>, targetGUID.<a class="code hl_function" href="../../d4/dea/a08430.html#a65626f4640cb4f79c66ce9d5dda8ab27">GetRawValue</a>(), prefix, remove ? 1 : 0, stack, dur, maxdur, <span class="keywordtype">id</span>, dispel, isDebuff ? 1 : 0, caster.<a class="code hl_function" href="../../d4/dea/a08430.html#a65626f4640cb4f79c66ce9d5dda8ab27">GetRawValue</a>());</div>
+<div class="line"><span class="lineno">  108</span>    }</div>
+<div class="ttc" id="aa04556_html_ad208fe13d99ebdd4ecc344c284d15e68"><div class="ttname"><a href="../../d4/d81/a04556.html#ad208fe13d99ebdd4ecc344c284d15e68">SPECTATOR_ADDON_PREFIX</a></div><div class="ttdeci">#define SPECTATOR_ADDON_PREFIX</div><div class="ttdef"><b>Definition:</b> ArenaSpectator.h:35</div></div>
+<div class="ttc" id="aa04834_html_a4824203dd64e1ddcd47642df9d465ea0"><div class="ttname"><a href="../../d4/de4/a04834.html#a4824203dd64e1ddcd47642df9d465ea0">ArenaSpectator::SendCommand</a></div><div class="ttdeci">void SendCommand(T *o, Format &amp;&amp;fmt, Args &amp;&amp;... args)</div><div class="ttdef"><b>Definition:</b> ArenaSpectator.h:47</div></div>
+<div class="ttc" id="aa08430_html_a65626f4640cb4f79c66ce9d5dda8ab27"><div class="ttname"><a href="../../d4/dea/a08430.html#a65626f4640cb4f79c66ce9d5dda8ab27">ObjectGuid::GetRawValue</a></div><div class="ttdeci">uint64 GetRawValue() const</div><div class="ttdef"><b>Definition:</b> ObjectGuid.h:142</div></div>
+<div class="ttc" id="aa08430_html_a676c61adb79a8be696a771a116253ee1"><div class="ttname"><a href="../../d4/dea/a08430.html#a676c61adb79a8be696a771a116253ee1">ObjectGuid::IsPlayer</a></div><div class="ttdeci">bool IsPlayer() const</div><div class="ttdef"><b>Definition:</b> ObjectGuid.h:168</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00142">ObjectGuid::GetRawValue()</a>, <a class="el" href="../../#l00168">ObjectGuid::IsPlayer()</a>, <a class="el" href="../../#l00047">SendCommand()</a>, and <a class="el" href="../../#l00035">SPECTATOR_ADDON_PREFIX</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00281">AuraApplication::ClientUpdate()</a>, and <a class="el" href="../../#l00227">HandleResetCommand()</a>.</p>
+
+</div>
+</div>
+<a id="a5e336b6d62f2d9e24551cfb96c7a8679" name="a5e336b6d62f2d9e24551cfb96c7a8679"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5e336b6d62f2d9e24551cfb96c7a8679">&#9670;&#160;</a></span>SendCommand_Cooldown()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void ArenaSpectator::SendCommand_Cooldown </td>
+          <td>(</td>
+          <td class="paramtype">T *&#160;</td>
+          <td class="paramname"><em>o</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d4/dea/a08430.html">ObjectGuid</a>&#160;</td>
+          <td class="paramname"><em>targetGUID</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const char *&#160;</td>
+          <td class="paramname"><em>prefix</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>id</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>dur</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>maxdur</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   90</span>    {</div>
+<div class="line"><span class="lineno">   91</span>        <span class="keywordflow">if</span> (!targetGUID.<a class="code hl_function" href="../../d4/dea/a08430.html#a676c61adb79a8be696a771a116253ee1">IsPlayer</a>())</div>
+<div class="line"><span class="lineno">   92</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">   93</span> </div>
+<div class="line"><span class="lineno">   94</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/dfa/a11306.html">SpellInfo</a> <span class="keyword">const</span>* si = <a class="code hl_define" href="../../d2/d76/a03296.html#aa21e14d8e1145507b746a69b5487109d">sSpellMgr</a>-&gt;GetSpellInfo(<span class="keywordtype">id</span>))</div>
+<div class="line"><span class="lineno">   95</span>            <span class="keywordflow">if</span> (si-&gt;SpellIconID == 1)</div>
+<div class="line"><span class="lineno">   96</span>                <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">   97</span> </div>
+<div class="line"><span class="lineno">   98</span>        <a class="code hl_function" href="../../d4/de4/a04834.html#a4824203dd64e1ddcd47642df9d465ea0">SendCommand</a>(o, <span class="stringliteral">&quot;%s0x%016llX;%s=%u,%u,%u;&quot;</span>, <a class="code hl_define" href="../../d4/d81/a04556.html#ad208fe13d99ebdd4ecc344c284d15e68">SPECTATOR_ADDON_PREFIX</a>, targetGUID.<a class="code hl_function" href="../../d4/dea/a08430.html#a65626f4640cb4f79c66ce9d5dda8ab27">GetRawValue</a>(), prefix, <span class="keywordtype">id</span>, dur, maxdur);</div>
+<div class="line"><span class="lineno">   99</span>    }</div>
+<div class="ttc" id="aa03296_html_aa21e14d8e1145507b746a69b5487109d"><div class="ttname"><a href="../../d2/d76/a03296.html#aa21e14d8e1145507b746a69b5487109d">sSpellMgr</a></div><div class="ttdeci">#define sSpellMgr</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:825</div></div>
+<div class="ttc" id="aa11306_html"><div class="ttname"><a href="../../d2/dfa/a11306.html">SpellInfo</a></div><div class="ttdef"><b>Definition:</b> SpellInfo.h:316</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00142">ObjectGuid::GetRawValue()</a>, <a class="el" href="../../#l00168">ObjectGuid::IsPlayer()</a>, <a class="el" href="../../#l00047">SendCommand()</a>, <a class="el" href="../../#l00035">SPECTATOR_ADDON_PREFIX</a>, and <a class="el" href="../../#l00825">sSpellMgr</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l11094">Player::_AddSpellCooldown()</a>, and <a class="el" href="../../#l00227">HandleResetCommand()</a>.</p>
+
+</div>
+</div>
+<a id="af537ad9da6345b285d2d726b640a0340" name="af537ad9da6345b285d2d726b640a0340"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af537ad9da6345b285d2d726b640a0340">&#9670;&#160;</a></span>SendCommand_GUID()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void ArenaSpectator::SendCommand_GUID </td>
+          <td>(</td>
+          <td class="paramtype">T *&#160;</td>
+          <td class="paramname"><em>o</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d4/dea/a08430.html">ObjectGuid</a>&#160;</td>
+          <td class="paramname"><em>targetGUID</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const char *&#160;</td>
+          <td class="paramname"><em>prefix</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d4/dea/a08430.html">ObjectGuid</a>&#160;</td>
+          <td class="paramname"><em>t</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   72</span>    {</div>
+<div class="line"><span class="lineno">   73</span>        <span class="keywordflow">if</span> (!targetGUID.<a class="code hl_function" href="../../d4/dea/a08430.html#a676c61adb79a8be696a771a116253ee1">IsPlayer</a>())</div>
+<div class="line"><span class="lineno">   74</span>            <span class="keywordflow">return</span>;</div>
 <div class="line"><span class="lineno">   75</span> </div>
-<div class="line"><span class="lineno">   76</span>            std::string data = fields[1].<a class="code hl_function" href="../../de/d6e/a05724.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;std::string&gt;();</div>
-<div class="line"><span class="lineno">   77</span>            <span class="keywordflow">return</span> <a class="code hl_function" href="../../d4/de4/a04834.html#aeaa79bb46d98ab2f4f5f3674d52f6745">ParseSettingsData</a>(data);</div>
-<div class="line"><span class="lineno">   78</span>        } <span class="keywordflow">while</span> (dbRes-&gt;NextRow());</div>
-<div class="line"><span class="lineno">   79</span> </div>
-<div class="line"><span class="lineno">   80</span>        <span class="keywordflow">return</span> result;</div>
-<div class="line"><span class="lineno">   81</span>    }</div>
-<div class="ttc" id="aa01739_html_a5c88535ec12f87cc432b1c594bf05326"><div class="ttname"><a href="../../d1/d46/a01739.html#a5c88535ec12f87cc432b1c594bf05326">PlayerSettingVector</a></div><div class="ttdeci">std::vector&lt; PlayerSetting &gt; PlayerSettingVector</div><div class="ttdef"><b>Definition:</b> PlayerSettings.h:52</div></div>
-<div class="ttc" id="aa04169_html_a76116b4fa282d8e35bf8f8e940b5cba7a96957242827fb6e9c0f1866bafddeef0"><div class="ttname"><a href="../../df/d4b/a04169.html#a76116b4fa282d8e35bf8f8e940b5cba7a96957242827fb6e9c0f1866bafddeef0">CHAR_SEL_CHAR_SETTINGS</a></div><div class="ttdeci">@ CHAR_SEL_CHAR_SETTINGS</div><div class="ttdef"><b>Definition:</b> CharacterDatabase.h:522</div></div>
-<div class="ttc" id="aa04187_html_ac6110b8d867b5f84f677555d07037acb"><div class="ttname"><a href="../../d1/dde/a04187.html#ac6110b8d867b5f84f677555d07037acb">PreparedQueryResult</a></div><div class="ttdeci">std::shared_ptr&lt; PreparedResultSet &gt; PreparedQueryResult</div><div class="ttdef"><b>Definition:</b> DatabaseEnvFwd.h:45</div></div>
-<div class="ttc" id="aa04235_html_a7e7534bc66d79434bd280b77cb124eec"><div class="ttname"><a href="../../de/d93/a04235.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a></div><div class="ttdeci">DatabaseWorkerPool&lt; CharacterDatabaseConnection &gt; CharacterDatabase</div><div class="ttdoc">Accessor to the character database.</div><div class="ttdef"><b>Definition:</b> DatabaseEnv.cpp:21</div></div>
-<div class="ttc" id="aa04834_html_aeaa79bb46d98ab2f4f5f3674d52f6745"><div class="ttname"><a href="../../d4/de4/a04834.html#aeaa79bb46d98ab2f4f5f3674d52f6745">PlayerSettingsStore::ParseSettingsData</a></div><div class="ttdeci">PlayerSettingVector ParseSettingsData(std::string const &amp;data)</div><div class="ttdef"><b>Definition:</b> PlayerSettings.cpp:30</div></div>
-<div class="ttc" id="aa05692_html"><div class="ttname"><a href="../../d4/d0d/a05692.html">PreparedStatement</a></div><div class="ttdef"><b>Definition:</b> PreparedStatement.h:157</div></div>
-<div class="ttc" id="aa05724_html"><div class="ttname"><a href="../../de/d6e/a05724.html">Field</a></div><div class="ttdoc">Class used to access individual fields of database query result.</div><div class="ttdef"><b>Definition:</b> Field.h:98</div></div>
-<div class="ttc" id="aa05724_html_aae507d21d3570ffdaf1643ba02946f01"><div class="ttname"><a href="../../de/d6e/a05724.html#aae507d21d3570ffdaf1643ba02946f01">Field::Get</a></div><div class="ttdeci">std::enable_if_t&lt; std::is_arithmetic_v&lt; T &gt;, T &gt; Get() const</div><div class="ttdef"><b>Definition:</b> Field.h:112</div></div>
-<div class="ttc" id="aa05824_html_a52fc2e65042c1db51f0923725a0f0ed0"><div class="ttname"><a href="../../d0/ddb/a05824.html#a52fc2e65042c1db51f0923725a0f0ed0">PreparedStatementBase::SetData</a></div><div class="ttdeci">Acore::Types::is_default&lt; T &gt; SetData(const uint8 index, T value)</div><div class="ttdef"><b>Definition:</b> PreparedStatement.h:77</div></div>
+<div class="line"><span class="lineno">   76</span>        <a class="code hl_function" href="../../d4/de4/a04834.html#a4824203dd64e1ddcd47642df9d465ea0">SendCommand</a>(o, <span class="stringliteral">&quot;%s0x%016llX;%s=0x%016llX;&quot;</span>, <a class="code hl_define" href="../../d4/d81/a04556.html#ad208fe13d99ebdd4ecc344c284d15e68">SPECTATOR_ADDON_PREFIX</a>, targetGUID.<a class="code hl_function" href="../../d4/dea/a08430.html#a65626f4640cb4f79c66ce9d5dda8ab27">GetRawValue</a>(), prefix, t.<a class="code hl_function" href="../../d4/dea/a08430.html#a65626f4640cb4f79c66ce9d5dda8ab27">GetRawValue</a>());</div>
+<div class="line"><span class="lineno">   77</span>    }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00522">CHAR_SEL_CHAR_SETTINGS</a>, <a class="el" href="../../#l00021">CharacterDatabase</a>, <a class="el" href="../../#l00112">Field::Get()</a>, <a class="el" href="../../#l00030">ParseSettingsData()</a>, and <a class="el" href="../../#l00077">PreparedStatementBase::SetData()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00142">ObjectGuid::GetRawValue()</a>, <a class="el" href="../../#l00168">ObjectGuid::IsPlayer()</a>, <a class="el" href="../../#l00047">SendCommand()</a>, and <a class="el" href="../../#l00035">SPECTATOR_ADDON_PREFIX</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00083">UpdateSetting()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00227">HandleResetCommand()</a>, and <a class="el" href="../../#l11574">Player::SetSelection()</a>.</p>
 
 </div>
 </div>
-<a id="aeaa79bb46d98ab2f4f5f3674d52f6745" name="aeaa79bb46d98ab2f4f5f3674d52f6745"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aeaa79bb46d98ab2f4f5f3674d52f6745">&#9670;&#160;</a></span>ParseSettingsData()</h2>
+<a id="a461f69ba88de17058481bc77a3e9f7bb" name="a461f69ba88de17058481bc77a3e9f7bb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a461f69ba88de17058481bc77a3e9f7bb">&#9670;&#160;</a></span>SendCommand_Spell()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d1/d46/a01739.html#a5c88535ec12f87cc432b1c594bf05326">PlayerSettingVector</a> PlayerSettingsStore::ParseSettingsData </td>
+          <td class="memname">void ArenaSpectator::SendCommand_Spell </td>
           <td>(</td>
-          <td class="paramtype">std::string const &amp;&#160;</td>
-          <td class="paramname"><em>data</em></td><td>)</td>
+          <td class="paramtype">T *&#160;</td>
+          <td class="paramname"><em>o</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
           <td></td>
+          <td class="paramtype"><a class="el" href="../../d4/dea/a08430.html">ObjectGuid</a>&#160;</td>
+          <td class="paramname"><em>targetGUID</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const char *&#160;</td>
+          <td class="paramname"><em>prefix</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>id</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d0/d61/a00302.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td>
+          <td class="paramname"><em>casttime</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   31</span>    {</div>
-<div class="line"><span class="lineno">   32</span>        <a class="code hl_typedef" href="../../d1/d46/a01739.html#a5c88535ec12f87cc432b1c594bf05326">PlayerSettingVector</a> result;</div>
-<div class="line"><span class="lineno">   33</span>        std::vector&lt;std::string_view&gt; tokens = <a class="code hl_function" href="../../d2/d5c/a04788.html#a6b121485ace4118b9006db1fb89f90f2">Acore::Tokenize</a>(data, <span class="charliteral">&#39; &#39;</span>, <span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno">   34</span>        result.reserve(tokens.size());</div>
-<div class="line"><span class="lineno">   35</span>        <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; token : tokens)</div>
-<div class="line"><span class="lineno">   36</span>        {</div>
-<div class="line"><span class="lineno">   37</span>            <span class="keywordflow">if</span> (token.empty())</div>
-<div class="line"><span class="lineno">   38</span>                <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">   39</span>            <span class="keywordflow">if</span> (<span class="keyword">auto</span> parsed = Acore::StringTo&lt;uint32&gt;(token))</div>
-<div class="line"><span class="lineno">   40</span>                result.emplace_back(*parsed);</div>
-<div class="line"><span class="lineno">   41</span>        }</div>
-<div class="line"><span class="lineno">   42</span>        <span class="keywordflow">return</span> result;</div>
-<div class="line"><span class="lineno">   43</span>    }</div>
-<div class="ttc" id="aa04788_html_a6b121485ace4118b9006db1fb89f90f2"><div class="ttname"><a href="../../d2/d5c/a04788.html#a6b121485ace4118b9006db1fb89f90f2">Acore::Tokenize</a></div><div class="ttdeci">std::vector&lt; std::string_view &gt; Tokenize(std::string_view str, char sep, bool keepEmpty)</div><div class="ttdef"><b>Definition:</b> Tokenize.cpp:20</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   81</span>    {</div>
+<div class="line"><span class="lineno">   82</span>        <span class="keywordflow">if</span> (!targetGUID.<a class="code hl_function" href="../../d4/dea/a08430.html#a676c61adb79a8be696a771a116253ee1">IsPlayer</a>())</div>
+<div class="line"><span class="lineno">   83</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">   84</span> </div>
+<div class="line"><span class="lineno">   85</span>        <a class="code hl_function" href="../../d4/de4/a04834.html#a4824203dd64e1ddcd47642df9d465ea0">SendCommand</a>(o, <span class="stringliteral">&quot;%s0x%016llX;%s=%u,%i;&quot;</span>, <a class="code hl_define" href="../../d4/d81/a04556.html#ad208fe13d99ebdd4ecc344c284d15e68">SPECTATOR_ADDON_PREFIX</a>, targetGUID.<a class="code hl_function" href="../../d4/dea/a08430.html#a65626f4640cb4f79c66ce9d5dda8ab27">GetRawValue</a>(), prefix, <span class="keywordtype">id</span>, casttime);</div>
+<div class="line"><span class="lineno">   86</span>    }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00020">Acore::Tokenize()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00142">ObjectGuid::GetRawValue()</a>, <a class="el" href="../../#l00168">ObjectGuid::IsPlayer()</a>, <a class="el" href="../../#l00047">SendCommand()</a>, and <a class="el" href="../../#l00035">SPECTATOR_ADDON_PREFIX</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00110">Player::_LoadCharacterSettings()</a>, and <a class="el" href="../../#l00059">LoadPlayerSettings()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l03716">Spell::cancel()</a>, <a class="el" href="../../#l05213">Spell::SendChannelStart()</a>, and <a class="el" href="../../#l04724">Spell::SendSpellStart()</a>.</p>
 
 </div>
 </div>
-<a id="a50a2948284069e6a28f5f61561e6695c" name="a50a2948284069e6a28f5f61561e6695c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a50a2948284069e6a28f5f61561e6695c">&#9670;&#160;</a></span>PrepareReplaceStatement()</h2>
+<a id="ac7839fd6177447b31578a19f8ee8e42a" name="ac7839fd6177447b31578a19f8ee8e42a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac7839fd6177447b31578a19f8ee8e42a">&#9670;&#160;</a></span>SendCommand_String()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d1/dde/a04187.html#adabd50def0511ee540f8e1296c8cf782">CharacterDatabasePreparedStatement</a> * PlayerSettingsStore::PrepareReplaceStatement </td>
+          <td class="memname">void ArenaSpectator::SendCommand_String </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>playerLowGuid</em>, </td>
+          <td class="paramtype">T *&#160;</td>
+          <td class="paramname"><em>o</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">std::string const &amp;&#160;</td>
-          <td class="paramname"><em>source</em>, </td>
+          <td class="paramtype"><a class="el" href="../../d4/dea/a08430.html">ObjectGuid</a>&#160;</td>
+          <td class="paramname"><em>targetGUID</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../d1/d46/a01739.html#a5c88535ec12f87cc432b1c594bf05326">PlayerSettingVector</a> const &amp;&#160;</td>
-          <td class="paramname"><em>settings</em>&#160;</td>
+          <td class="paramtype">const char *&#160;</td>
+          <td class="paramname"><em>prefix</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const char *&#160;</td>
+          <td class="paramname"><em>c</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   54</span>    {</div>
+<div class="line"><span class="lineno">   55</span>        <span class="keywordflow">if</span> (!targetGUID.<a class="code hl_function" href="../../d4/dea/a08430.html#a676c61adb79a8be696a771a116253ee1">IsPlayer</a>())</div>
+<div class="line"><span class="lineno">   56</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">   57</span> </div>
+<div class="line"><span class="lineno">   58</span>        <a class="code hl_function" href="../../d4/de4/a04834.html#a4824203dd64e1ddcd47642df9d465ea0">SendCommand</a>(o, <span class="stringliteral">&quot;%s0x%016llX;%s=%s;&quot;</span>, <a class="code hl_define" href="../../d4/d81/a04556.html#ad208fe13d99ebdd4ecc344c284d15e68">SPECTATOR_ADDON_PREFIX</a>, targetGUID.<a class="code hl_function" href="../../d4/dea/a08430.html#a65626f4640cb4f79c66ce9d5dda8ab27">GetRawValue</a>(), prefix, c);</div>
+<div class="line"><span class="lineno">   59</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00142">ObjectGuid::GetRawValue()</a>, <a class="el" href="../../#l00168">ObjectGuid::IsPlayer()</a>, <a class="el" href="../../#l00047">SendCommand()</a>, and <a class="el" href="../../#l00035">SPECTATOR_ADDON_PREFIX</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00227">HandleResetCommand()</a>.</p>
+
+</div>
+</div>
+<a id="ae899637e3543ca40ec63e98bf0426f58" name="ae899637e3543ca40ec63e98bf0426f58"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae899637e3543ca40ec63e98bf0426f58">&#9670;&#160;</a></span>SendCommand_UInt32Value()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void ArenaSpectator::SendCommand_UInt32Value </td>
+          <td>(</td>
+          <td class="paramtype">T *&#160;</td>
+          <td class="paramname"><em>o</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d4/dea/a08430.html">ObjectGuid</a>&#160;</td>
+          <td class="paramname"><em>targetGUID</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const char *&#160;</td>
+          <td class="paramname"><em>prefix</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>t</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   63</span>    {</div>
+<div class="line"><span class="lineno">   64</span>        <span class="keywordflow">if</span> (!targetGUID.<a class="code hl_function" href="../../d4/dea/a08430.html#a676c61adb79a8be696a771a116253ee1">IsPlayer</a>())</div>
+<div class="line"><span class="lineno">   65</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">   66</span> </div>
+<div class="line"><span class="lineno">   67</span>        <a class="code hl_function" href="../../d4/de4/a04834.html#a4824203dd64e1ddcd47642df9d465ea0">SendCommand</a>(o, <span class="stringliteral">&quot;%s0x%016llX;%s=%u;&quot;</span>, <a class="code hl_define" href="../../d4/d81/a04556.html#ad208fe13d99ebdd4ecc344c284d15e68">SPECTATOR_ADDON_PREFIX</a>, targetGUID.<a class="code hl_function" href="../../d4/dea/a08430.html#a65626f4640cb4f79c66ce9d5dda8ab27">GetRawValue</a>(), prefix, t);</div>
+<div class="line"><span class="lineno">   68</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00142">ObjectGuid::GetRawValue()</a>, <a class="el" href="../../#l00168">ObjectGuid::IsPlayer()</a>, <a class="el" href="../../#l00047">SendCommand()</a>, and <a class="el" href="../../#l00035">SPECTATOR_ADDON_PREFIX</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00227">HandleResetCommand()</a>, <a class="el" href="../../#l09136">Player::RemovePet()</a>, <a class="el" href="../../#l14670">Player::SendClearCooldown()</a>, <a class="el" href="../../#l01024">Player::setDeathState()</a>, <a class="el" href="../../#l15580">Unit::SetHealth()</a>, <a class="el" href="../../#l15630">Unit::SetMaxHealth()</a>, <a class="el" href="../../#l15719">Unit::SetMaxPower()</a>, <a class="el" href="../../#l15668">Unit::SetPower()</a>, <a class="el" href="../../#l10050">Unit::setPowerType()</a>, and <a class="el" href="../../#l09009">Player::SummonPet()</a>.</p>
+
+</div>
+</div>
+<a id="abc5c395f3697c21f09c4e70a81f02497" name="abc5c395f3697c21f09c4e70a81f02497"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abc5c395f3697c21f09c4e70a81f02497">&#9670;&#160;</a></span>SendPacketTo()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a00a04eccc2ca042486601576eccae409">AC_GAME_API</a> void ArenaSpectator::SendPacketTo </td>
+          <td>(</td>
+          <td class="paramtype">const T *&#160;</td>
+          <td class="paramname"><em>object</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">std::string &amp;&amp;&#160;</td>
+          <td class="paramname"><em>message</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -262,81 +1153,40 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  102</span>{</div>
-<div class="line"><span class="lineno">  103</span>    <a class="code hl_class" href="../../d4/d0d/a05692.html">CharacterDatabasePreparedStatement</a>* stmt = <a class="code hl_variable" href="../../de/d93/a04235.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.GetPreparedStatement(<a class="code hl_enumvalue" href="../../df/d4b/a04169.html#a76116b4fa282d8e35bf8f8e940b5cba7a0ab5f8934f7b51c9b64a20e368a1377f">CHAR_REP_CHAR_SETTINGS</a>);</div>
-<div class="line"><span class="lineno">  104</span>    stmt-&gt;<a class="code hl_function" href="../../d0/ddb/a05824.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(0, playerLowGuid);</div>
-<div class="line"><span class="lineno">  105</span>    stmt-&gt;<a class="code hl_function" href="../../d0/ddb/a05824.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(1, source);</div>
-<div class="line"><span class="lineno">  106</span>    stmt-&gt;<a class="code hl_function" href="../../d0/ddb/a05824.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(2, <a class="code hl_function" href="../../d4/de4/a04834.html#a2e2d73056f0c30ed8b22419fed1c3d6a">SerializeSettingsData</a>(settings));</div>
-<div class="line"><span class="lineno">  107</span>    <span class="keywordflow">return</span> stmt;</div>
-<div class="line"><span class="lineno">  108</span>}</div>
-<div class="ttc" id="aa04169_html_a76116b4fa282d8e35bf8f8e940b5cba7a0ab5f8934f7b51c9b64a20e368a1377f"><div class="ttname"><a href="../../df/d4b/a04169.html#a76116b4fa282d8e35bf8f8e940b5cba7a0ab5f8934f7b51c9b64a20e368a1377f">CHAR_REP_CHAR_SETTINGS</a></div><div class="ttdeci">@ CHAR_REP_CHAR_SETTINGS</div><div class="ttdef"><b>Definition:</b> CharacterDatabase.h:523</div></div>
-<div class="ttc" id="aa04834_html_a2e2d73056f0c30ed8b22419fed1c3d6a"><div class="ttname"><a href="../../d4/de4/a04834.html#a2e2d73056f0c30ed8b22419fed1c3d6a">PlayerSettingsStore::SerializeSettingsData</a></div><div class="ttdeci">std::string SerializeSettingsData(PlayerSettingVector const &amp;settings)</div><div class="ttdef"><b>Definition:</b> PlayerSettings.cpp:46</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00523">CHAR_REP_CHAR_SETTINGS</a>, <a class="el" href="../../#l00021">CharacterDatabase</a>, <a class="el" href="../../#l00046">SerializeSettingsData()</a>, and <a class="el" href="../../#l00077">PreparedStatementBase::SetData()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00144">Player::_SavePlayerSettings()</a>, and <a class="el" href="../../#l00083">UpdateSetting()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00047">SendCommand()</a>.</p>
 
 </div>
 </div>
-<a id="a2e2d73056f0c30ed8b22419fed1c3d6a" name="a2e2d73056f0c30ed8b22419fed1c3d6a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2e2d73056f0c30ed8b22419fed1c3d6a">&#9670;&#160;</a></span>SerializeSettingsData()</h2>
+<a id="a29f78349223aca49d417c3f818b2dd4c" name="a29f78349223aca49d417c3f818b2dd4c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a29f78349223aca49d417c3f818b2dd4c">&#9670;&#160;</a></span>ShouldSendAura()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">std::string PlayerSettingsStore::SerializeSettingsData </td>
+          <td class="memname">bool ArenaSpectator::ShouldSendAura </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d1/d46/a01739.html#a5c88535ec12f87cc432b1c594bf05326">PlayerSettingVector</a> const &amp;&#160;</td>
-          <td class="paramname"><em>settings</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   47</span>    {</div>
-<div class="line"><span class="lineno">   48</span>        <span class="keywordflow">if</span> (settings.empty())</div>
-<div class="line"><span class="lineno">   49</span>            <span class="keywordflow">return</span> <span class="stringliteral">&quot;&quot;</span>;</div>
-<div class="line"><span class="lineno">   50</span> </div>
-<div class="line"><span class="lineno">   51</span>        std::ostringstream data;</div>
-<div class="line"><span class="lineno">   52</span>        data &lt;&lt; settings[0].value;</div>
-<div class="line"><span class="lineno">   53</span>        <span class="keywordflow">for</span> (<span class="keywordtype">size_t</span> i = 1; i &lt; settings.size(); ++i)</div>
-<div class="line"><span class="lineno">   54</span>            data &lt;&lt; <span class="charliteral">&#39; &#39;</span> &lt;&lt; settings[i].value;</div>
-<div class="line"><span class="lineno">   55</span>        <span class="keywordflow">return</span> data.str();</div>
-<div class="line"><span class="lineno">   56</span>    }</div>
-</div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00101">PrepareReplaceStatement()</a>.</p>
-
-</div>
-</div>
-<a id="aaf1d54a7292b560b6d26c7a0332482e0" name="aaf1d54a7292b560b6d26c7a0332482e0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aaf1d54a7292b560b6d26c7a0332482e0">&#9670;&#160;</a></span>UpdateSetting()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void PlayerSettingsStore::UpdateSetting </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>playerLowGuid</em>, </td>
+          <td class="paramtype"><a class="el" href="../../da/d3e/a11202.html">Aura</a> *&#160;</td>
+          <td class="paramname"><em>aura</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">std::string const &amp;&#160;</td>
-          <td class="paramname"><em>source</em>, </td>
+          <td class="paramtype"><a class="el" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td>
+          <td class="paramname"><em>effMask</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>index</em>, </td>
+          <td class="paramtype"><a class="el" href="../../d4/dea/a08430.html">ObjectGuid</a>&#160;</td>
+          <td class="paramname"><em>targetGUID</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>value</em>&#160;</td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>remove</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -345,26 +1195,46 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   84</span>    {</div>
-<div class="line"><span class="lineno">   85</span>        <span class="keywordflow">if</span> (!<a class="code hl_define" href="../../d0/d9d/a04783.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getBoolConfig(<a class="code hl_enumvalue" href="../../d2/d2f/a01460.html#a468ad15992691eb97dd20680046832e0aae01e43352b5b919a55aed11c1bf1258">CONFIG_PLAYER_SETTINGS_ENABLED</a>))</div>
-<div class="line"><span class="lineno">   86</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">   87</span> </div>
-<div class="line"><span class="lineno">   88</span>        <a class="code hl_typedef" href="../../d1/d46/a01739.html#a5c88535ec12f87cc432b1c594bf05326">PlayerSettingVector</a> settings = <a class="code hl_function" href="../../d4/de4/a04834.html#aeeeef0d082814c49edeabefa39fb10b7">LoadPlayerSettings</a>(playerLowGuid, source);</div>
-<div class="line"><span class="lineno">   89</span>        <span class="keywordtype">size_t</span> <span class="keyword">const</span> requiredSize = <span class="keyword">static_cast&lt;</span><span class="keywordtype">size_t</span><span class="keyword">&gt;</span>(index) + 1;</div>
-<div class="line"><span class="lineno">   90</span>        <span class="keywordflow">if</span> (settings.size() &lt; requiredSize)</div>
-<div class="line"><span class="lineno">   91</span>            settings.resize(requiredSize); <span class="comment">// zero-initialized PlayerSetting::value</span></div>
-<div class="line"><span class="lineno">   92</span> </div>
-<div class="line"><span class="lineno">   93</span>        settings[index].value = value;</div>
-<div class="line"><span class="lineno">   94</span> </div>
-<div class="line"><span class="lineno">   95</span>        <a class="code hl_class" href="../../d4/d0d/a05692.html">CharacterDatabasePreparedStatement</a>* stmt = <a class="code hl_function" href="../../d4/de4/a04834.html#a50a2948284069e6a28f5f61561e6695c">PlayerSettingsStore::PrepareReplaceStatement</a>(playerLowGuid, source, settings);</div>
-<div class="line"><span class="lineno">   96</span>        <a class="code hl_variable" href="../../de/d93/a04235.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.Execute(stmt);</div>
-<div class="line"><span class="lineno">   97</span>    }</div>
-<div class="ttc" id="aa01460_html_a468ad15992691eb97dd20680046832e0aae01e43352b5b919a55aed11c1bf1258"><div class="ttname"><a href="../../d2/d2f/a01460.html#a468ad15992691eb97dd20680046832e0aae01e43352b5b919a55aed11c1bf1258">CONFIG_PLAYER_SETTINGS_ENABLED</a></div><div class="ttdeci">@ CONFIG_PLAYER_SETTINGS_ENABLED</div><div class="ttdef"><b>Definition:</b> WorldConfig.h:128</div></div>
-<div class="ttc" id="aa04783_html_ga05dfb35c344e5b947a19e4284e7f5fa7"><div class="ttname"><a href="../../d0/d9d/a04783.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a></div><div class="ttdeci">#define sWorld</div><div class="ttdef"><b>Definition:</b> World.h:320</div></div>
-<div class="ttc" id="aa04834_html_a50a2948284069e6a28f5f61561e6695c"><div class="ttname"><a href="../../d4/de4/a04834.html#a50a2948284069e6a28f5f61561e6695c">PlayerSettingsStore::PrepareReplaceStatement</a></div><div class="ttdeci">CharacterDatabasePreparedStatement * PrepareReplaceStatement(uint32 playerLowGuid, std::string const &amp;source, PlayerSettingVector const &amp;settings)</div><div class="ttdef"><b>Definition:</b> PlayerSettings.cpp:101</div></div>
-<div class="ttc" id="aa04834_html_aeeeef0d082814c49edeabefa39fb10b7"><div class="ttname"><a href="../../d4/de4/a04834.html#aeeeef0d082814c49edeabefa39fb10b7">PlayerSettingsStore::LoadPlayerSettings</a></div><div class="ttdeci">static PlayerSettingVector LoadPlayerSettings(uint32 playerLowGuid, std::string const &amp;source)</div><div class="ttdef"><b>Definition:</b> PlayerSettings.cpp:59</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  284</span>{</div>
+<div class="line"><span class="lineno">  285</span>    <span class="keywordflow">if</span> (aura-&gt;<a class="code hl_function" href="../../da/d3e/a11202.html#ab4abe60bbc09777bab95a0a0ec66af25">GetSpellInfo</a>()-&gt;<a class="code hl_variable" href="../../d2/dfa/a11306.html#ac1a82f9330481616b4b87ed9eff0f785">SpellIconID</a> == 1 || aura-&gt;<a class="code hl_function" href="../../da/d3e/a11202.html#ab4abe60bbc09777bab95a0a0ec66af25">GetSpellInfo</a>()-&gt;<a class="code hl_function" href="../../d2/dfa/a11306.html#a975746d6b737abb063ea037327abfc5a">HasAttribute</a>(<a class="code hl_enumvalue" href="../../dc/d43/a04727.html#a638f8f550e23b2e3180b481bb3f38076a5dcb23ba32a2e36cf7f5798c0e9688b9">SPELL_ATTR1_NO_AURA_ICON</a>))</div>
+<div class="line"><span class="lineno">  286</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  287</span> </div>
+<div class="line"><span class="lineno">  288</span>    <span class="keywordflow">if</span> (remove || aura-&gt;<a class="code hl_function" href="../../da/d3e/a11202.html#ab4abe60bbc09777bab95a0a0ec66af25">GetSpellInfo</a>()-&gt;<a class="code hl_function" href="../../d2/dfa/a11306.html#a975746d6b737abb063ea037327abfc5a">HasAttribute</a>(<a class="code hl_enumvalue" href="../../df/d62/a03257.html#a93795b2131c8cbe38a7b23768a5a146da6e135d0f3f1ffad609c7a52988db5d0e">SPELL_ATTR0_CU_DONT_BREAK_STEALTH</a>) || aura-&gt;<a class="code hl_function" href="../../da/d3e/a11202.html#ab4abe60bbc09777bab95a0a0ec66af25">GetSpellInfo</a>()-&gt;<a class="code hl_variable" href="../../d2/dfa/a11306.html#af6ec577353f7d3cc59badd7d332153b0">SpellFamilyName</a> == <a class="code hl_enumvalue" href="../../dc/d43/a04727.html#a9264ae6b0ef1b61a6eeb7fdac9fbab1ba0ebbb6206eb92cdc484b416eb6f41743">SPELLFAMILY_GENERIC</a>)</div>
+<div class="line"><span class="lineno">  289</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  290</span> </div>
+<div class="line"><span class="lineno">  291</span>    <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = <a class="code hl_enumvalue" href="../../dc/d43/a04727.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>; i &lt; <a class="code hl_define" href="../../d7/de9/a04715.html#ac5733f5b58bf8a23a1919a005b5ec895">MAX_SPELL_EFFECTS</a>; ++i)</div>
+<div class="line"><span class="lineno">  292</span>    {</div>
+<div class="line"><span class="lineno">  293</span>        <span class="keywordflow">if</span> (effMask &amp; (1 &lt;&lt; i))</div>
+<div class="line"><span class="lineno">  294</span>        {</div>
+<div class="line"><span class="lineno">  295</span>            <a class="code hl_enumeration" href="../../d2/d74/a03293.html#a538cdc259460b365f406fe0b3a981799">AuraType</a> at = aura-&gt;<a class="code hl_function" href="../../da/d3e/a11202.html#a6ee04786fcd54da7e3e2b7a0277adeb8">GetEffect</a>(i)-&gt;<a class="code hl_function" href="../../de/dee/a11190.html#a120cf8a45a3c816e4ef588733fa812e5">GetAuraType</a>();</div>
+<div class="line"><span class="lineno">  296</span>            <span class="keywordflow">if</span> ((aura-&gt;<a class="code hl_function" href="../../da/d3e/a11202.html#a6ee04786fcd54da7e3e2b7a0277adeb8">GetEffect</a>(i)-&gt;<a class="code hl_function" href="../../de/dee/a11190.html#afcf272bebf373ad3aebc03cce644cbee">GetAmount</a>() &amp;&amp; (aura-&gt;<a class="code hl_function" href="../../da/d3e/a11202.html#ab4abe60bbc09777bab95a0a0ec66af25">GetSpellInfo</a>()-&gt;<a class="code hl_function" href="../../d2/dfa/a11306.html#adef74790281b92d72ac2c2118a665096">IsPositive</a>() || targetGUID != aura-&gt;<a class="code hl_function" href="../../da/d3e/a11202.html#a3c4dfe75dad16fbf2afaf23ce77e4262">GetCasterGUID</a>())) ||</div>
+<div class="line"><span class="lineno">  297</span>                at == <a class="code hl_enumvalue" href="../../d2/d74/a03293.html#a538cdc259460b365f406fe0b3a981799a9357fb759d2046a3ff76aab126823c7b">SPELL_AURA_MECHANIC_IMMUNITY</a> || at == <a class="code hl_enumvalue" href="../../d2/d74/a03293.html#a538cdc259460b365f406fe0b3a981799ab09a238cc0e8c09f186407726a7c5e4f">SPELL_AURA_EFFECT_IMMUNITY</a> || at == <a class="code hl_enumvalue" href="../../d2/d74/a03293.html#a538cdc259460b365f406fe0b3a981799ae11278d069f7537f8b4be475bb3893b4">SPELL_AURA_STATE_IMMUNITY</a> || at == <a class="code hl_enumvalue" href="../../d2/d74/a03293.html#a538cdc259460b365f406fe0b3a981799a8bebfff86f80b58fd3930dc14c5fe347">SPELL_AURA_SCHOOL_IMMUNITY</a> || at == <a class="code hl_enumvalue" href="../../d2/d74/a03293.html#a538cdc259460b365f406fe0b3a981799a062ac134921e3069ab2192f208c3c599">SPELL_AURA_DISPEL_IMMUNITY</a>)</div>
+<div class="line"><span class="lineno">  298</span>                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  299</span>        }</div>
+<div class="line"><span class="lineno">  300</span>    }</div>
+<div class="line"><span class="lineno">  301</span>    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  302</span>}</div>
+<div class="ttc" id="aa03257_html_a93795b2131c8cbe38a7b23768a5a146da6e135d0f3f1ffad609c7a52988db5d0e"><div class="ttname"><a href="../../df/d62/a03257.html#a93795b2131c8cbe38a7b23768a5a146da6e135d0f3f1ffad609c7a52988db5d0e">SPELL_ATTR0_CU_DONT_BREAK_STEALTH</a></div><div class="ttdeci">@ SPELL_ATTR0_CU_DONT_BREAK_STEALTH</div><div class="ttdef"><b>Definition:</b> SpellInfo.h:182</div></div>
+<div class="ttc" id="aa03293_html_a538cdc259460b365f406fe0b3a981799"><div class="ttname"><a href="../../d2/d74/a03293.html#a538cdc259460b365f406fe0b3a981799">AuraType</a></div><div class="ttdeci">AuraType</div><div class="ttdef"><b>Definition:</b> SpellAuraDefines.h:62</div></div>
+<div class="ttc" id="aa03293_html_a538cdc259460b365f406fe0b3a981799a062ac134921e3069ab2192f208c3c599"><div class="ttname"><a href="../../d2/d74/a03293.html#a538cdc259460b365f406fe0b3a981799a062ac134921e3069ab2192f208c3c599">SPELL_AURA_DISPEL_IMMUNITY</a></div><div class="ttdeci">@ SPELL_AURA_DISPEL_IMMUNITY</div><div class="ttdef"><b>Definition:</b> SpellAuraDefines.h:104</div></div>
+<div class="ttc" id="aa03293_html_a538cdc259460b365f406fe0b3a981799a8bebfff86f80b58fd3930dc14c5fe347"><div class="ttname"><a href="../../d2/d74/a03293.html#a538cdc259460b365f406fe0b3a981799a8bebfff86f80b58fd3930dc14c5fe347">SPELL_AURA_SCHOOL_IMMUNITY</a></div><div class="ttdeci">@ SPELL_AURA_SCHOOL_IMMUNITY</div><div class="ttdef"><b>Definition:</b> SpellAuraDefines.h:102</div></div>
+<div class="ttc" id="aa03293_html_a538cdc259460b365f406fe0b3a981799a9357fb759d2046a3ff76aab126823c7b"><div class="ttname"><a href="../../d2/d74/a03293.html#a538cdc259460b365f406fe0b3a981799a9357fb759d2046a3ff76aab126823c7b">SPELL_AURA_MECHANIC_IMMUNITY</a></div><div class="ttdeci">@ SPELL_AURA_MECHANIC_IMMUNITY</div><div class="ttdef"><b>Definition:</b> SpellAuraDefines.h:140</div></div>
+<div class="ttc" id="aa03293_html_a538cdc259460b365f406fe0b3a981799ab09a238cc0e8c09f186407726a7c5e4f"><div class="ttname"><a href="../../d2/d74/a03293.html#a538cdc259460b365f406fe0b3a981799ab09a238cc0e8c09f186407726a7c5e4f">SPELL_AURA_EFFECT_IMMUNITY</a></div><div class="ttdeci">@ SPELL_AURA_EFFECT_IMMUNITY</div><div class="ttdef"><b>Definition:</b> SpellAuraDefines.h:100</div></div>
+<div class="ttc" id="aa03293_html_a538cdc259460b365f406fe0b3a981799ae11278d069f7537f8b4be475bb3893b4"><div class="ttname"><a href="../../d2/d74/a03293.html#a538cdc259460b365f406fe0b3a981799ae11278d069f7537f8b4be475bb3893b4">SPELL_AURA_STATE_IMMUNITY</a></div><div class="ttdeci">@ SPELL_AURA_STATE_IMMUNITY</div><div class="ttdef"><b>Definition:</b> SpellAuraDefines.h:101</div></div>
+<div class="ttc" id="aa04715_html_ac5733f5b58bf8a23a1919a005b5ec895"><div class="ttname"><a href="../../d7/de9/a04715.html#ac5733f5b58bf8a23a1919a005b5ec895">MAX_SPELL_EFFECTS</a></div><div class="ttdeci">#define MAX_SPELL_EFFECTS</div><div class="ttdef"><b>Definition:</b> DBCStructure.h:1638</div></div>
+<div class="ttc" id="aa04727_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../dc/d43/a04727.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:31</div></div>
+<div class="ttc" id="aa04727_html_a638f8f550e23b2e3180b481bb3f38076a5dcb23ba32a2e36cf7f5798c0e9688b9"><div class="ttname"><a href="../../dc/d43/a04727.html#a638f8f550e23b2e3180b481bb3f38076a5dcb23ba32a2e36cf7f5798c0e9688b9">SPELL_ATTR1_NO_AURA_ICON</a></div><div class="ttdeci">@ SPELL_ATTR1_NO_AURA_ICON</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:458</div></div>
+<div class="ttc" id="aa04727_html_a9264ae6b0ef1b61a6eeb7fdac9fbab1ba0ebbb6206eb92cdc484b416eb6f41743"><div class="ttname"><a href="../../dc/d43/a04727.html#a9264ae6b0ef1b61a6eeb7fdac9fbab1ba0ebbb6206eb92cdc484b416eb6f41743">SPELLFAMILY_GENERIC</a></div><div class="ttdeci">@ SPELLFAMILY_GENERIC</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:3794</div></div>
+<div class="ttc" id="aa11190_html_a120cf8a45a3c816e4ef588733fa812e5"><div class="ttname"><a href="../../de/dee/a11190.html#a120cf8a45a3c816e4ef588733fa812e5">AuraEffect::GetAuraType</a></div><div class="ttdeci">AuraType GetAuraType() const</div><div class="ttdef"><b>Definition:</b> SpellAuraEffects.cpp:448</div></div>
+<div class="ttc" id="aa11190_html_afcf272bebf373ad3aebc03cce644cbee"><div class="ttname"><a href="../../de/dee/a11190.html#afcf272bebf373ad3aebc03cce644cbee">AuraEffect::GetAmount</a></div><div class="ttdeci">int32 GetAmount() const</div><div class="ttdef"><b>Definition:</b> SpellAuraEffects.h:64</div></div>
+<div class="ttc" id="aa11202_html_a6ee04786fcd54da7e3e2b7a0277adeb8"><div class="ttname"><a href="../../da/d3e/a11202.html#a6ee04786fcd54da7e3e2b7a0277adeb8">Aura::GetEffect</a></div><div class="ttdeci">AuraEffect * GetEffect(uint8 effIndex) const</div><div class="ttdef"><b>Definition:</b> SpellAuras.h:175</div></div>
+<div class="ttc" id="aa11306_html_a975746d6b737abb063ea037327abfc5a"><div class="ttname"><a href="../../d2/dfa/a11306.html#a975746d6b737abb063ea037327abfc5a">SpellInfo::HasAttribute</a></div><div class="ttdeci">bool HasAttribute(SpellAttr0 attribute) const</div><div class="ttdef"><b>Definition:</b> SpellInfo.h:415</div></div>
+<div class="ttc" id="aa11306_html_ac1a82f9330481616b4b87ed9eff0f785"><div class="ttname"><a href="../../d2/dfa/a11306.html#ac1a82f9330481616b4b87ed9eff0f785">SpellInfo::SpellIconID</a></div><div class="ttdeci">uint32 SpellIconID</div><div class="ttdef"><b>Definition:</b> SpellInfo.h:380</div></div>
+<div class="ttc" id="aa11306_html_af6ec577353f7d3cc59badd7d332153b0"><div class="ttname"><a href="../../d2/dfa/a11306.html#af6ec577353f7d3cc59badd7d332153b0">SpellInfo::SpellFamilyName</a></div><div class="ttdeci">uint32 SpellFamilyName</div><div class="ttdef"><b>Definition:</b> SpellInfo.h:387</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00021">CharacterDatabase</a>, <a class="el" href="../../#l00128">CONFIG_PLAYER_SETTINGS_ENABLED</a>, <a class="el" href="../../#l00059">LoadPlayerSettings()</a>, <a class="el" href="../../#l00101">PrepareReplaceStatement()</a>, and <a class="el" href="../../#l00320">sWorld</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00064">AuraEffect::GetAmount()</a>, <a class="el" href="../../#l00448">AuraEffect::GetAuraType()</a>, <a class="el" href="../../#l00105">Aura::GetCasterGUID()</a>, <a class="el" href="../../#l00175">Aura::GetEffect()</a>, <a class="el" href="../../#l00100">Aura::GetSpellInfo()</a>, <a class="el" href="../../#l00415">SpellInfo::HasAttribute()</a>, <a class="el" href="../../#l01237">SpellInfo::IsPositive()</a>, <a class="el" href="../../#l01638">MAX_SPELL_EFFECTS</a>, <a class="el" href="../../#l00182">SPELL_ATTR0_CU_DONT_BREAK_STEALTH</a>, <a class="el" href="../../#l00458">SPELL_ATTR1_NO_AURA_ICON</a>, <a class="el" href="../../#l00104">SPELL_AURA_DISPEL_IMMUNITY</a>, <a class="el" href="../../#l00100">SPELL_AURA_EFFECT_IMMUNITY</a>, <a class="el" href="../../#l00140">SPELL_AURA_MECHANIC_IMMUNITY</a>, <a class="el" href="../../#l00102">SPELL_AURA_SCHOOL_IMMUNITY</a>, <a class="el" href="../../#l00101">SPELL_AURA_STATE_IMMUNITY</a>, <a class="el" href="../../#l03794">SPELLFAMILY_GENERIC</a>, <a class="el" href="../../#l00387">SpellInfo::SpellFamilyName</a>, and <a class="el" href="../../#l00380">SpellInfo::SpellIconID</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00281">AuraApplication::ClientUpdate()</a>, and <a class="el" href="../../#l00227">HandleResetCommand()</a>.</p>
 
 </div>
 </div>
@@ -373,8 +1243,8 @@ Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d4/de4/a04834.html">PlayerSettingsStore</a></li>
-    <li class="footer">Generated on Mon Aug 25 2025 20:47:37 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d4/de4/a04834.html">ArenaSpectator</a></li>
+    <li class="footer">Generated on Mon Sep 1 2025 20:44:47 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

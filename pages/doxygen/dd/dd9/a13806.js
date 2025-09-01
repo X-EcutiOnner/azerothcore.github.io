@@ -1,6 +1,7 @@
 var a13806 =
 [
-    [ "cooldown", "dd/dd9/a13806.html#aaf4772a0ac55280355e61d8c50198b3f", null ],
-    [ "spell", "dd/dd9/a13806.html#a00ee3238030686e1cc66562f7cefb27a", null ],
-    [ "target", "dd/dd9/a13806.html#a16e54dbd059baac1b6e7229621339d83", null ]
+    [ "npc_deathstalker_erlandAI", "dd/dd9/a13806.html#aa3c6822db09bc40dc87d556f6b3cc880", null ],
+    [ "JustEngagedWith", "dd/dd9/a13806.html#ae4789c26cbb00b4ac04d646617a48a40", null ],
+    [ "Reset", "dd/dd9/a13806.html#a3def0a0dd57ed732242a09d6390ab1f0", null ],
+    [ "WaypointReached", "dd/dd9/a13806.html#af200e269d3f4b51bb5cfd08e9bf7ecc5", null ]
 ];

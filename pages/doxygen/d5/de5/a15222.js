@@ -1,13 +1,23 @@
 var a15222 =
 [
-    [ "instance_temple_of_ahnqiraj_InstanceMapScript", "d5/de5/a15222.html#a454f677dddce956534d6f5a253ed587b", null ],
-    [ "GetData", "d5/de5/a15222.html#ad34ee1e43d05826c1b4e80e2df6ac5f6", null ],
-    [ "Initialize", "d5/de5/a15222.html#a8d46d9aa082d306aa2c9cd8fde3eea1d", null ],
-    [ "OnCreatureCreate", "d5/de5/a15222.html#affc7045f944251fb27683133f511029f", null ],
-    [ "OnGameObjectCreate", "d5/de5/a15222.html#a36f22cb12a5d59b377627f7cacbffecb", null ],
-    [ "OnUnitDeath", "d5/de5/a15222.html#a921a58152e075b9a64bf3c73aabdf1f2", null ],
-    [ "SetBossState", "d5/de5/a15222.html#abb9fc9c7901d0c830d498f3fbdaebbe6", null ],
-    [ "SetData", "d5/de5/a15222.html#a25f4e12aad6325e87b31770c1243d746", null ],
-    [ "BugTrioDeathCount", "d5/de5/a15222.html#aab0191f5b31264f0632a24df0607d05b", null ],
-    [ "CThunGraspGUIDs", "d5/de5/a15222.html#aea180c0b623e919f56f9210ce15724e8", null ]
+    [ "instance_ruins_of_ahnqiraj_InstanceMapScript", "d5/de5/a15222.html#a1dfadd96c9cc420bb7c90ec8a2d0a1a2", null ],
+    [ "CallNextRajaxxLeader", "d5/de5/a15222.html#a12de9882d8e71f68e7b52e4b3972dca4", null ],
+    [ "GetData", "d5/de5/a15222.html#abe72d94186f5d5b9b97c82ac65f71fd6", null ],
+    [ "GetGuidData", "d5/de5/a15222.html#a8a2c4b3677d8da475d1e5ea035becf15", null ],
+    [ "OnCreatureCreate", "d5/de5/a15222.html#ac2b2bfb3ae426a82affbf363a49049ef", null ],
+    [ "OnCreatureEvade", "d5/de5/a15222.html#af59d38b0842a962b94efcbf9af8e56ca", null ],
+    [ "OnPlayerEnter", "d5/de5/a15222.html#aca8fbf17f8d583c1568a965bdf2b22f4", null ],
+    [ "OnUnitDeath", "d5/de5/a15222.html#afc601fed830c0d8fe63cbf7741ff1c55", null ],
+    [ "ResetRajaxxWaves", "d5/de5/a15222.html#a3a6aa2cc867de4842b10632ea761fb1e", null ],
+    [ "SetData", "d5/de5/a15222.html#a4a9acbb13d81d88674b62aa49ac8a2e3", null ],
+    [ "SetGuidData", "d5/de5/a15222.html#ac8f2440e439654e977d4a9a4b2b50b52", null ],
+    [ "_andorovGUID", "d5/de5/a15222.html#a52168c9369fe1e691378577ea700115c", null ],
+    [ "_buruGUID", "d5/de5/a15222.html#afbf08e65630819d5c60ecaa3d4d5bc42", null ],
+    [ "_buruPhase", "d5/de5/a15222.html#ab8192edc41599ce20cc66efaaba5479a", null ],
+    [ "_kurinnaxxGUID", "d5/de5/a15222.html#af1077bb8af7e756d9d548a4fe3fbd17b", null ],
+    [ "_moamGUID", "d5/de5/a15222.html#a1025fdcd1b84e5d2c4eaa79d918ecd78", null ],
+    [ "_ossirianGUID", "d5/de5/a15222.html#a254a550649a8f806f98d6eb90f593b54", null ],
+    [ "_paralyzedGUID", "d5/de5/a15222.html#abc537534538f78cabf6534371ab090e9", null ],
+    [ "_rajaxWaveCounter", "d5/de5/a15222.html#a010079e135c41de850419149ec2857f3", null ],
+    [ "_rajaxxGUID", "d5/de5/a15222.html#aa92f25482c7c6d2bf7944a080beb858c", null ]
 ];

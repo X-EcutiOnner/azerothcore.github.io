@@ -1,5 +1,8 @@
 var a27026 =
 [
-    [ "achievement_everything_counts", "da/d5e/a27026.html#af18e6b3128a9d722c98f33f7ec6430b3", null ],
-    [ "OnCheck", "da/d5e/a27026.html#a81741a8df4d10b37314ec8ef09eb888b", null ]
+    [ "ApplyEffect", "da/d5e/a27026.html#a0c303c58064236969e17d1f2df3e0556", null ],
+    [ "PrepareAuraScript", "da/d5e/a27026.html#a716a483282946f840ac15d73c6e21a94", null ],
+    [ "Register", "da/d5e/a27026.html#ad72816bc73bdb1cf578f3c4599ec1682", null ],
+    [ "RemoveEffect", "da/d5e/a27026.html#a571b1b19f4d5b13e54288aa89ab1e9b6", null ],
+    [ "Validate", "da/d5e/a27026.html#a99eb27ead6f5c8c8f569626600f2daf9", null ]
 ];

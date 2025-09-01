@@ -1,11 +1,10 @@
 var a14286 =
 [
-    [ "npc_elder_kekek", "d0/d2c/a14286.html#a6084af39be5c70699c9fdcf3cd58e954", null ],
-    [ "MoveInLineOfSight", "d0/d2c/a14286.html#a0c673e4fdf8e75d3bc8570db166bcd95", null ],
-    [ "Reset", "d0/d2c/a14286.html#a97e615bdefba5baf459960fc2987cd69", null ],
-    [ "UpdateAI", "d0/d2c/a14286.html#a5823bc7164d797c40d48b9b74642d9b5", null ],
-    [ "orphanGUID", "d0/d2c/a14286.html#a98c79e46e051c35819c6025828a519cb", null ],
-    [ "phase", "d0/d2c/a14286.html#a99fd9d984f92d5ba8b5876675855d4f6", null ],
-    [ "playerGUID", "d0/d2c/a14286.html#a614ed3332f4af3c5178aa69da968a3d3", null ],
-    [ "timer", "d0/d2c/a14286.html#a445c048d8858f5dc7c1e88308ed7e5ab", null ]
+    [ "npc_zealot_lorkhan", "d0/d2c/a14286.html#a7df2ab658c1fda0d130815581ffbae4e", null ],
+    [ "JustDied", "d0/d2c/a14286.html#abda06af9ccc78763e70ebf98f0a9dc03", null ],
+    [ "JustEngagedWith", "d0/d2c/a14286.html#a7cb7da94799fa1689a5f16ef33d4d874", null ],
+    [ "Reset", "d0/d2c/a14286.html#abecbd4a2ea2cf3281244933fe7484239", null ],
+    [ "UpdateAI", "d0/d2c/a14286.html#a68c35734f8886b2c241dcbc178899206", null ],
+    [ "_scheduler", "d0/d2c/a14286.html#a50ded84f7cdb698118b406c9cfab7e5c", null ],
+    [ "instance", "d0/d2c/a14286.html#aa677f42d562fa6dc90a4913eed3763c8", null ]
 ];

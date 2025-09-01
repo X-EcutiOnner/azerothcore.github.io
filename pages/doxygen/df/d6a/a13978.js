@@ -1,5 +1,6 @@
 var a13978 =
 [
-    [ "at_zulgurub_temple_speech", "df/d6a/a13978.html#ab727ad7cb7f0a0e8309bbab233766cde", null ],
-    [ "_OnTrigger", "df/d6a/a13978.html#afd42cd408df7562a9dcd91e33750f3d4", null ]
+    [ "cooldown", "df/d6a/a13978.html#aaf4772a0ac55280355e61d8c50198b3f", null ],
+    [ "spell", "df/d6a/a13978.html#a00ee3238030686e1cc66562f7cefb27a", null ],
+    [ "target", "df/d6a/a13978.html#a16e54dbd059baac1b6e7229621339d83", null ]
 ];

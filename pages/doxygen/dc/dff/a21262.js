@@ -1,12 +1,12 @@
 var a21262 =
 [
-    [ "boss_koralonAI", "dc/dff/a21262.html#a3f5bc42a141011e543d1215eac09dc74", null ],
-    [ "AttackStart", "dc/dff/a21262.html#aa84e6e9a302172e134163cd07ca57864", null ],
-    [ "JustDied", "dc/dff/a21262.html#a102c10792d9e7df61d920b5a43f58e51", null ],
-    [ "JustEngagedWith", "dc/dff/a21262.html#aa7503618dd09e0aebac44394595f4715", null ],
-    [ "Reset", "dc/dff/a21262.html#a0e57ee42e45e55b1a69ac7cb0f1d2666", null ],
-    [ "UpdateAI", "dc/dff/a21262.html#aa944aad2eb68adc917cba743d1e530c7", null ],
-    [ "events", "dc/dff/a21262.html#abc8b9a8759b0e3e95d66c16615f621f5", null ],
-    [ "pInstance", "dc/dff/a21262.html#a4bdea1a9d7e46d4ef71cd43ce969e59c", null ],
-    [ "rotateTimer", "dc/dff/a21262.html#ad4b766094f28e940b0b7971d6dadc277", null ]
+    [ "boss_skarvald_the_constructor", "dc/dff/a21262.html#a32d092ecf17aaafc61cefb4c0efce639", null ],
+    [ "DoAction", "dc/dff/a21262.html#a63c9e981a198f6fefe8d1fa4d8ede20e", null ],
+    [ "JustDied", "dc/dff/a21262.html#a9180dcb3c22944c75e5e424dc1a78339", null ],
+    [ "JustEngagedWith", "dc/dff/a21262.html#a529439d257abf78f76db0043549964e6", null ],
+    [ "KilledUnit", "dc/dff/a21262.html#a9d65e24161dd1f7bac9fe991624c5c80", null ],
+    [ "Reset", "dc/dff/a21262.html#ada2068f8b5d125062ec0b7fde0d05c7f", null ],
+    [ "UpdateAI", "dc/dff/a21262.html#a9c1f74c20a5a9f47f9430450742938a2", null ],
+    [ "events", "dc/dff/a21262.html#a28837280e161f6971564a4725c97a154", null ],
+    [ "pInstance", "dc/dff/a21262.html#ab5b773a9960f611a6383578a607ba258", null ]
 ];

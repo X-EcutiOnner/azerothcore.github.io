@@ -1,9 +1,10 @@
 var a24566 =
 [
-    [ "CheckCast", "d3/d8a/a24566.html#ad68a099d3167534be3d9978d1fc2b4fe", null ],
-    [ "EntryCheck", "d3/d8a/a24566.html#a8e8578447aafeea4a62e028dbe6c7419", null ],
-    [ "HandleBaseDummy", "d3/d8a/a24566.html#a8534cc52f42f0598088bf8500dd5e0e5", null ],
-    [ "HandleDummy", "d3/d8a/a24566.html#a34d9f5699f306b27830ced2129be506c", null ],
-    [ "PrepareSpellScript", "d3/d8a/a24566.html#af7aff878540dd34138aa479f532611b6", null ],
-    [ "Register", "d3/d8a/a24566.html#a78321d1589e8d7f7fe8957a4939b6197", null ]
+    [ "npc_pet_gen_imp_in_a_bottle", "d3/d8a/a24566.html#aa32b7770c2719d77d46fcf6d22989284", null ],
+    [ "InitializeAI", "d3/d8a/a24566.html#a9fde3fd30d48068a3ad1a19f65c61bf2", null ],
+    [ "UpdateAI", "d3/d8a/a24566.html#a453ec855bb21a30cb72b540ff8f77035", null ],
+    [ "_data", "d3/d8a/a24566.html#a982ec923536c2c33353a3673aa425b6a", null ],
+    [ "_hasParty", "d3/d8a/a24566.html#a192d9e2ba340040cb6ba5c0f324ffb2d", null ],
+    [ "_ownerGUID", "d3/d8a/a24566.html#a5452226bbe4f65a9bd7ce103a7648a2f", null ],
+    [ "_talkTimer", "d3/d8a/a24566.html#a07eba859ad2d5db4f6d91734c04020cf", null ]
 ];

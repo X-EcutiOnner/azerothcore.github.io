@@ -1,8 +1,6 @@
 var a25050 =
 [
-    [ "CheckRequirement", "db/de8/a25050.html#ad967ae7e2affa312fa4adbca6e86dd7c", null ],
-    [ "HandleScript", "db/de8/a25050.html#aa89b60b2d757ef1ceacebae38aa5d9d9", null ],
-    [ "Load", "db/de8/a25050.html#a9dfb5501ad6324a25966af44f233b5fb", null ],
-    [ "PrepareSpellScript", "db/de8/a25050.html#ace75db8a6e5628df6e2edba91cd2852f", null ],
-    [ "Register", "db/de8/a25050.html#a89d053e0ee793017c74188aac32d99d5", null ]
+    [ "CheckProc", "db/de8/a25050.html#a3c4f64fc51367ebb549282b068458f4c", null ],
+    [ "PrepareAuraScript", "db/de8/a25050.html#a72dc7c7b8bc842a7feb6857cbec34d25", null ],
+    [ "Register", "db/de8/a25050.html#ac84b357828094a42aab1c8bfee83d298", null ]
 ];

@@ -1,5 +1,7 @@
 var a11554 =
 [
-    [ "WorldConfig", "d6/d22/a11554.html#abe3f855f1902d7f3974b741cfc0a3663", null ],
-    [ "BuildConfigCache", "d6/d22/a11554.html#aaf6bfad583f3a2dbb1e9ea2487dd2c9d", null ]
+    [ "PlayerGuid", "d6/d22/a11554.html#a629a600c48376d04293c225390f747ff", null ],
+    [ "PrimaryKey", "d6/d22/a11554.html#a7c1ef4d19fb49e5813868ff2ccfe12fc", null ],
+    [ "StoredType", "d6/d22/a11554.html#a9bea7cf549813010b55c23417d65edc6", null ],
+    [ "TableName", "d6/d22/a11554.html#a0f308af88812c110c490c94368bda482", null ]
 ];

@@ -1,6 +1,5 @@
 var a17310 =
 [
-    [ "npc_kinetic_bombAI", "d6/d89/a17314.html", "d6/d89/a17314" ],
-    [ "npc_kinetic_bomb", "d6/dff/a17310.html#abca5a72d3ac0d50a27e604e8e1491957", null ],
-    [ "GetAI", "d6/dff/a17310.html#ae00630d96dc7a93ea13841c1f9e9be3b", null ]
+    [ "endPosition", "d6/dff/a17310.html#a8a88b0191d28ef6af8f41db627552602", null ],
+    [ "entry", "d6/dff/a17310.html#ac4e55af666e269440953ced038c1a8de", null ]
 ];

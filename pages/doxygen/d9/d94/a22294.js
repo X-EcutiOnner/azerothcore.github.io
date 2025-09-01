@@ -1,6 +1,5 @@
 var a22294 =
 [
-    [ "npc_freed_protodrakeAI", "da/d26/a22298.html", "da/d26/a22298" ],
-    [ "npc_freed_protodrake", "d9/d94/a22294.html#a56e33e186800efa3fb86ca6a614e3b0b", null ],
-    [ "GetAI", "d9/d94/a22294.html#a9680bf65cb97327396f58c297df1c8f5", null ]
+    [ "npc_guardian_pavilionAI", "d9/d94/a22294.html#a2c116495e65c7f97063aa7dc6516f48c", null ],
+    [ "MoveInLineOfSight", "d9/d94/a22294.html#aeae26e28be93120062d9f77c069ff32a", null ]
 ];

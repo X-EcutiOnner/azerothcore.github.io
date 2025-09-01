@@ -1,4 +1,5 @@
 var a09610 =
 [
-    [ "m", "d1/d2e/a09610.html#ab61920ede22c5109d5cd7263522a7ef4", null ]
+    [ "_Delay", "d1/d2e/a09610.html#a8c4024f5818f327f29b44a26892b89a1", null ],
+    [ "_Emote", "d1/d2e/a09610.html#a701c902af6f7f472511727bcc88ceeef", null ]
 ];

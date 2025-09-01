@@ -1,10 +1,6 @@
 var a14114 =
 [
-    [ "npc_zealot_lorkhan", "d0/d5e/a14114.html#a7df2ab658c1fda0d130815581ffbae4e", null ],
-    [ "JustDied", "d0/d5e/a14114.html#abda06af9ccc78763e70ebf98f0a9dc03", null ],
-    [ "JustEngagedWith", "d0/d5e/a14114.html#a7cb7da94799fa1689a5f16ef33d4d874", null ],
-    [ "Reset", "d0/d5e/a14114.html#abecbd4a2ea2cf3281244933fe7484239", null ],
-    [ "UpdateAI", "d0/d5e/a14114.html#a68c35734f8886b2c241dcbc178899206", null ],
-    [ "_scheduler", "d0/d5e/a14114.html#a50ded84f7cdb698118b406c9cfab7e5c", null ],
-    [ "instance", "d0/d5e/a14114.html#aa677f42d562fa6dc90a4913eed3763c8", null ]
+    [ "boss_gahzranka", "d0/d5e/a14114.html#a82cc1a44a967f859039957e41f38dd77", null ],
+    [ "IsSummonedBy", "d0/d5e/a14114.html#ad68be854f95c398dc5dd9e5b22f538a8", null ],
+    [ "JustEngagedWith", "d0/d5e/a14114.html#ac1cc43194c00fda1729f8a068d4e8779", null ]
 ];

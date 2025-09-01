@@ -1,6 +1,5 @@
 var a19038 =
 [
-    [ "boss_grobbulus_poison_cloudAI", "d9/d94/a19042.html", "d9/d94/a19042" ],
-    [ "boss_grobbulus_poison_cloud", "d1/d00/a19038.html#a2bb8ebec0ae79f20602e551f654e0761", null ],
-    [ "GetAI", "d1/d00/a19038.html#a34c68dd3e58b83c52f270eb1b194f2ed", null ]
+    [ "at_icc_putricide_trap", "d1/d00/a19038.html#a9d4183629deada9c22750b8a34e94583", null ],
+    [ "OnTrigger", "d1/d00/a19038.html#ad59c2f694c50fabf1946d2c7ae726413", null ]
 ];

@@ -1,7 +1,9 @@
 var a20762 =
 [
-    [ "FilterTargets", "da/d1b/a20762.html#a582691eca81b6db6d78ca925ad8fb084", null ],
-    [ "PrepareSpellScript", "da/d1b/a20762.html#a28ce9d2750c79b2b0061b00df5ae9e8b", null ],
-    [ "RecalculateDamage", "da/d1b/a20762.html#a02c1af0414de344056b2375488f23c01", null ],
-    [ "Register", "da/d1b/a20762.html#a1e030067944878000b731edf456d6bc8", null ]
+    [ "npc_ulduar_dark_rune_sentinelAI", "da/d1b/a20762.html#a533ae31e0507f12f7d94e347b6b7ebf2", null ],
+    [ "CanAIAttack", "da/d1b/a20762.html#a12b2e5c621a8b04a4d80dde706a4bb2b", null ],
+    [ "Reset", "da/d1b/a20762.html#ada2897f48effedd5d5baa5a260497b5a", null ],
+    [ "UpdateAI", "da/d1b/a20762.html#aa9b319928a9b23cf4d47a07c1eaeb0cd", null ],
+    [ "timer1", "da/d1b/a20762.html#a383a2ee113822b7eff52466f0cc0e137", null ],
+    [ "timer2", "da/d1b/a20762.html#ad5c4698c5d12ff42179d62c47d9f7719", null ]
 ];

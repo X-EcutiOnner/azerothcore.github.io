@@ -1,11 +1,7 @@
 var a10618 =
 [
-    [ "GuildRankTabPermissions", "dc/d72/a10622.html", "dc/d72/a10622" ],
-    [ "GuildPermissionsQueryResults", "da/d7f/a10618.html#aa643af51780fc550f3947936266d54f5", null ],
-    [ "Write", "da/d7f/a10618.html#a4a5937a8daab44b5000a5308ed0be06a", null ],
-    [ "Flags", "da/d7f/a10618.html#a368162426ab526adafc7ecb223fdf865", null ],
-    [ "NumTabs", "da/d7f/a10618.html#ab797ef0f0081c4520a6333afbe6cd5b4", null ],
-    [ "RankID", "da/d7f/a10618.html#a795ba45650991bd5c1aa03c17886d86b", null ],
-    [ "Tab", "da/d7f/a10618.html#ae54eeb1a76f5eeaf4a63bcb58bab3460", null ],
-    [ "WithdrawGoldLimit", "da/d7f/a10618.html#a9d175a8de69f15c3f8eadf237f68e84a", null ]
+    [ "GuildInvite", "da/d7f/a10618.html#a7b5ef96e9a9d4c6665b280bb844b6d54", null ],
+    [ "Write", "da/d7f/a10618.html#a4ed1c240a53fa6268eb07b3c77d68757", null ],
+    [ "GuildName", "da/d7f/a10618.html#ac3ae572bb65d5ea156151e5fc7abf5b8", null ],
+    [ "InviterName", "da/d7f/a10618.html#a8a91b3f9a94776da4b23c38220c6fc3d", null ]
 ];

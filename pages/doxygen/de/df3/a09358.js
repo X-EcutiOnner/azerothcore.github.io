@@ -1,7 +1,8 @@
 var a09358 =
 [
-    [ "AnyUnitInObjectRangeCheck", "de/df3/a09358.html#ab96cd47c1a4c585e52590b94cf8ff021", null ],
-    [ "operator()", "de/df3/a09358.html#a0906cdad65a5b11dc6a8829ace8f135b", null ],
-    [ "i_obj", "de/df3/a09358.html#a834214b260576a0fe01908a163428757", null ],
-    [ "i_range", "de/df3/a09358.html#acc546656dbe9a405023ba56b028c8420", null ]
+    [ "AnyUnfriendlyNoTotemUnitInObjectRangeCheck", "de/df3/a09358.html#ac4378cfa8fedb3453c0e810d497cb99c", null ],
+    [ "operator()", "de/df3/a09358.html#ad9e3486316cf297ba79a588c60b4ce15", null ],
+    [ "i_funit", "de/df3/a09358.html#ace766830b26d8aae3ec673d2102a9969", null ],
+    [ "i_obj", "de/df3/a09358.html#ae12f4176e49438cfa248345cfe7c9947", null ],
+    [ "i_range", "de/df3/a09358.html#a8335ef8fd7376e7c920dfbca2318d646", null ]
 ];

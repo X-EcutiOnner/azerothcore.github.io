@@ -1,6 +1,16 @@
 var a19662 =
 [
-    [ "HandleApplyTouch", "dd/d24/a19662.html#a0c46c506f78f46f17c0de6caae774316", null ],
-    [ "PrepareSpellScript", "dd/d24/a19662.html#a2f32b735a8a72a6ef52744d3ce8ada8b", null ],
-    [ "Register", "dd/d24/a19662.html#a70382055564e4ead8b5da0d6bd20c67f", null ]
+    [ "boss_bjarngrimAI", "dd/d24/a19662.html#ab599d5f62638d622c560f5b63e645b50", null ],
+    [ "JustDied", "dd/d24/a19662.html#adcad5667168768d8f3c8235735f357b1", null ],
+    [ "JustEngagedWith", "dd/d24/a19662.html#a2e99538fdc107bc7e91c23898c178047", null ],
+    [ "KilledUnit", "dd/d24/a19662.html#ad3cbbdc77909515e1573a2fb49cc1e30", null ],
+    [ "RemoveStanceAura", "dd/d24/a19662.html#ac2bca5cebc4847af71272de0ffa3d91a", null ],
+    [ "Reset", "dd/d24/a19662.html#a138d14f9666b03dda50f6adeea609046", null ],
+    [ "RollStance", "dd/d24/a19662.html#a70791697fde5c6194226fd42c893385a", null ],
+    [ "UpdateEscortAI", "dd/d24/a19662.html#a9db8e85b47e8ebb4760f99ec04a36fcb", null ],
+    [ "WaypointReached", "dd/d24/a19662.html#a31e1bceb7b944b3db9d7e881be4246bf", null ],
+    [ "events", "dd/d24/a19662.html#a5314bce83c4c7e80ecea99a8d5559fd8", null ],
+    [ "m_pInstance", "dd/d24/a19662.html#af6dbef6bb9565b5ee1738e188b08748f", null ],
+    [ "m_uiStance", "dd/d24/a19662.html#abd4d058fad17b56bc29a165d74062dd0", null ],
+    [ "summons", "dd/d24/a19662.html#a02bd445d2c969ea186a48f68585e640c", null ]
 ];

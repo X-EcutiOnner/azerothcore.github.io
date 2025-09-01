@@ -1,6 +1,6 @@
 var a27274 =
 [
-    [ "go_midsummer_musicAI", "d3/d40/a27278.html", "d3/d40/a27278" ],
-    [ "go_midsummer_music", "dc/d5b/a27274.html#a39c38fc78b47b16be9eebee0ccd5041d", null ],
-    [ "GetAI", "dc/d5b/a27274.html#a1baf09bdbf67c0a85219454c1cd61d2b", null ]
+    [ "AreaTrigger_at_area_52_entrance", "dc/d5b/a27274.html#a5b7e21903bca1c04bad1394c6965d032", null ],
+    [ "OnTrigger", "dc/d5b/a27274.html#a1e537d133ee5e6ad1dbb0c732e23a128", null ],
+    [ "_triggerTimes", "dc/d5b/a27274.html#a6c3225f46ea71d06b81b25d5fb6e8f25", null ]
 ];

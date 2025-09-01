@@ -1,6 +1,5 @@
 var a10146 =
 [
-    [ "PoolObject", "db/d3e/a10146.html#a772dc7bc9e1ce25edba89977bf87e3f0", null ],
-    [ "chance", "db/d3e/a10146.html#ae129795bb2f358af900dbc8892502123", null ],
-    [ "guid", "db/d3e/a10146.html#ae10fa01f5959e231fe2c16d38d9f3615", null ]
+    [ "ScriptId", "db/d3e/a10146.html#a6b17e959f80e7b3f2f3352a345eebcf9", null ],
+    [ "TypeId", "db/d3e/a10146.html#aaddf1f172211966f5d727e6238889223", null ]
 ];

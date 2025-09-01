@@ -1,6 +1,6 @@
 var a16626 =
 [
-    [ "HandleEffectPeriodic", "db/dd6/a16626.html#a8775f4e2cb6be96f57596413d560206c", null ],
-    [ "PrepareAuraScript", "db/dd6/a16626.html#a45118f9887d248a5eb840b945dee5b79", null ],
-    [ "Register", "db/dd6/a16626.html#ad1b2b8e1dca62c31ec2b071ae4ca2f35", null ]
+    [ "npc_toc_warriorAI", "d4/d8f/a16630.html", "d4/d8f/a16630" ],
+    [ "npc_toc_warrior", "db/dd6/a16626.html#a3e969be07603ef59389106769010660c", null ],
+    [ "GetAI", "db/dd6/a16626.html#a557d9aa512c485e37b4a05b57ab3d1a4", null ]
 ];

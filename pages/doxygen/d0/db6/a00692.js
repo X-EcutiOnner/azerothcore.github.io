@@ -1,7 +1,11 @@
 var a00692 =
 [
-    [ "AddTime", "d0/db6/a00692.html#aae074176c44fa3d99280320c869fde46", null ],
-    [ "GetTime", "d0/db6/a00692.html#ae44f550ac340528abe454269c2273d73", null ],
-    [ "IsCorrectDelay", "d0/db6/a00692.html#a18121c73cd31656af9ee5e5da754e4bd", null ],
-    [ "_players", "d0/db6/a00692.html#af8ad5db2c36ddfbca0b6b18e3478c2c5", null ]
+    [ "npc_innkeeper", "dd/d5d/a27602.html", "dd/d5d/a27602" ],
+    [ "AddSC_npc_innkeeper", "d0/db6/a00692.html#a3ffce1ea6cca981888af85ba67364df9", null ],
+    [ "GOSSIP_MENU", "d0/db6/a00692.html#a3115623eb3e0408aad7cd637686aaaee", null ],
+    [ "GOSSIP_MENU_EVENT", "d0/db6/a00692.html#a6bb09725b9e6b10b76686a9059038e6b", null ],
+    [ "HALLOWEEN_EVENTID", "d0/db6/a00692.html#a2e23760d3d379f3fa92c139f067b5984", null ],
+    [ "SPELL_TREAT", "d0/db6/a00692.html#a072a033da374692139d9d33e63be89ca", null ],
+    [ "SPELL_TRICK", "d0/db6/a00692.html#ad2b2ba30383cca3be221f38a809e2da1", null ],
+    [ "SPELL_TRICKED_OR_TREATED", "d0/db6/a00692.html#a022e344eaf73aa8ab6655d2c6aaac688", null ]
 ];

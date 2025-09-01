@@ -1,8 +1,6 @@
 var a27550 =
 [
-    [ "npc_chicken_cluckAI", "d2/da6/a27554.html", "d2/da6/a27554" ],
-    [ "npc_chicken_cluck", "d0/de1/a27550.html#a7bc08c81fca730886c47e0f3a3d8062c", null ],
-    [ "GetAI", "d0/de1/a27550.html#abf986f555672823477c3c17e0f59bdbe", null ],
-    [ "OnQuestAccept", "d0/de1/a27550.html#acca62c027b5b0cdff107e04cf2c276ea", null ],
-    [ "OnQuestComplete", "d0/de1/a27550.html#a8f22520166a557e066502eb16bdae774", null ]
+    [ "guard_shattrath_scryerAI", "d2/da6/a27554.html", "d2/da6/a27554" ],
+    [ "guard_shattrath_scryer", "d0/de1/a27550.html#a2ee4d6881d7c24cd848c590b84207663", null ],
+    [ "GetAI", "d0/de1/a27550.html#ab1d937102f63c63de4c92e45eff2c21c", null ]
 ];

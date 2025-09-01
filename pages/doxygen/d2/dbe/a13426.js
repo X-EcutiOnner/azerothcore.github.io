@@ -1,8 +1,7 @@
 var a13426 =
 [
-    [ "HandleApply", "d2/dbe/a13426.html#a717e3428afd59fa3a5e9916887d88273", null ],
-    [ "HandleRemove", "d2/dbe/a13426.html#ae389028340dc25ee0260ed3e9f1d5ceb", null ],
-    [ "PrepareAuraScript", "d2/dbe/a13426.html#a58e6bae0c4c203c704cfa6cfdd6d560f", null ],
-    [ "Register", "d2/dbe/a13426.html#ac2ba66696c791d47c7c485aec6028f0b", null ],
-    [ "Validate", "d2/dbe/a13426.html#a393a46618a4e1928b8149e04b4823726", null ]
+    [ "HandleScript", "d2/dbe/a13426.html#aae2f572a523431f6764f08e4719adbcf", null ],
+    [ "PrepareSpellScript", "d2/dbe/a13426.html#a20fdb423d5db4f1fa629a0f0480e2a9f", null ],
+    [ "Register", "d2/dbe/a13426.html#ae3b002197564318cc92242bd925d35af", null ],
+    [ "Validate", "d2/dbe/a13426.html#a98d9d84fd26d110efbbbaba9a19ef423", null ]
 ];

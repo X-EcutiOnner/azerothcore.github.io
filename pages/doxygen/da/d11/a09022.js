@@ -1,13 +1,6 @@
 var a09022 =
 [
-    [ "QuestPOI", "da/d11/a09022.html#af4ce75549d1fff2042e98683119214a6", null ],
-    [ "QuestPOI", "da/d11/a09022.html#a4cf252fabc68cf11df5d44f192955a0b", null ],
-    [ "AreaId", "da/d11/a09022.html#ad81f08fa2bc5fd0ccd81d0efc42ce804", null ],
-    [ "FloorId", "da/d11/a09022.html#a1af6ed9fdb9ff429e18fb5d98a42ce45", null ],
-    [ "Id", "da/d11/a09022.html#aace0de15249c756ba3cbd5763cbb3f98", null ],
-    [ "MapId", "da/d11/a09022.html#a851f8e6e62373d2592173534754d757b", null ],
-    [ "ObjectiveIndex", "da/d11/a09022.html#ad80f65110beacd44e667008387e6bb70", null ],
-    [ "points", "da/d11/a09022.html#aeb505cb061a00ecaa2acc749e391f207", null ],
-    [ "Unk3", "da/d11/a09022.html#a1f1d8fa843c856b54ec1ca85b08d78e1", null ],
-    [ "Unk4", "da/d11/a09022.html#aa8089160bb8e93ea79df96b956050b70", null ]
+    [ "faction", "da/d11/a09022.html#aaad6e04ef66264f040ddd91ae7f4e04b", null ],
+    [ "faction_rank", "da/d11/a09022.html#a1ffb9cddf950edfb17e9779691b09f07", null ],
+    [ "faction_rate", "da/d11/a09022.html#ab86cdfcd03a47f0c48e0661c5e9c8fd4", null ]
 ];

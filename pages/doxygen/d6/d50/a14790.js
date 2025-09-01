@@ -1,14 +1,18 @@
 var a14790 =
 [
-    [ "boss_captain_skarloc", "d6/d50/a14790.html#a196477160ab6d07dc644ddadf756a1e0", null ],
-    [ "InitializeAI", "d6/d50/a14790.html#a1c67fb99984f666b63f8f79c6783341d", null ],
-    [ "JustDied", "d6/d50/a14790.html#aca0d536010a53efdf9270146f15f9058", null ],
-    [ "JustEngagedWith", "d6/d50/a14790.html#aaa516f26cdc0ccd88f5c529a0a4252d4", null ],
-    [ "JustSummoned", "d6/d50/a14790.html#a5f5f08ab00d18bece28dde7490e52af8", null ],
-    [ "KilledUnit", "d6/d50/a14790.html#a1ead95b7cf3c4fb5b36be083e852aa21", null ],
-    [ "MovementInform", "d6/d50/a14790.html#a8e16d85ca8e41bc1cb7ac749dfaea075", null ],
-    [ "Reset", "d6/d50/a14790.html#a73b728cd24c8cb124f93c0e637bc8a11", null ],
-    [ "UpdateAI", "d6/d50/a14790.html#aa1a9d9e781f1bc2394e2ebf879fdf196", null ],
-    [ "_spawnedAdds", "d6/d50/a14790.html#ad69432da4a5beb5fcc8bbac155608a87", null ],
-    [ "summons", "d6/d50/a14790.html#a83a9e5971411de1c136cbad91f73f487", null ]
+    [ "boss_archimonde", "d6/d50/a14790.html#a25e52499f80d4c3edb4dd5cf02b95d18", null ],
+    [ "DoAction", "d6/d50/a14790.html#aba420f926ccdfc6feeb16a0e6d67267f", null ],
+    [ "DoCastDoomFire", "d6/d50/a14790.html#a409cad381c6562f44fcf8f66a5965ec4", null ],
+    [ "EnterEvadeMode", "d6/d50/a14790.html#aac09090d17c336e9935cfce7ff1c8d60", null ],
+    [ "JustEngagedWith", "d6/d50/a14790.html#a31c526a5e72c4244df101918388c777c", null ],
+    [ "JustSummoned", "d6/d50/a14790.html#a6db990f64d884f1290c77b8ec73b8fb0", null ],
+    [ "KilledUnit", "d6/d50/a14790.html#a341ab97e59cfe989572fdcceff434e4e", null ],
+    [ "Reset", "d6/d50/a14790.html#a905918f9fc654c4c1fa1aa99980d39e6", null ],
+    [ "SetGUID", "d6/d50/a14790.html#a9008cf454dc7e2eeba36c0a45193db7a", null ],
+    [ "UnleashSoulCharge", "d6/d50/a14790.html#a93f93fe116c75a24dc15bb521b038a27", null ],
+    [ "_availableAuras", "d6/d50/a14790.html#a552869a0fd5141094a021e3aaaada051", null ],
+    [ "_availableSpells", "d6/d50/a14790.html#a388a8bafb4407e371a58d3a7d090c754", null ],
+    [ "_enraged", "d6/d50/a14790.html#a1e295ff6ae857c7a022acf967afd0de0", null ],
+    [ "_isChanneling", "d6/d50/a14790.html#ad967688caad8a6c7530bfd4709aecb06", null ],
+    [ "_wispCount", "d6/d50/a14790.html#aa2ec2fcd92ed81f76fb238af9dbad53e", null ]
 ];

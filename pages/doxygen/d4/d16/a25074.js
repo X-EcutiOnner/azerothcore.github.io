@@ -1,6 +1,6 @@
 var a25074 =
 [
-    [ "CalculateAmount", "d4/d16/a25074.html#a66b009487462241e573ea23f081a140a", null ],
-    [ "PrepareAuraScript", "d4/d16/a25074.html#a0eee16c77a3c3cea882b67c78826a140", null ],
-    [ "Register", "d4/d16/a25074.html#afeafc6922b0a0389fec969e3c7191dda", null ]
+    [ "PrepareAuraScript", "d4/d16/a25074.html#a8a60db6939ba71ddcf723fb4e48b3146", null ],
+    [ "Register", "d4/d16/a25074.html#a8ab913cf84f55428d2b0615172f3da3b", null ],
+    [ "AuraEffectHandleModes", "d4/d16/a25074.html#aed1cfe63d82450b526e154678fb97ac4", null ]
 ];

@@ -1,6 +1,6 @@
 var a21798 =
 [
-    [ "HandleSendEvent", "d2/d25/a21798.html#a8b8276833404f3f69c3b7f97d95b6982", null ],
-    [ "PrepareSpellScript", "d2/d25/a21798.html#aa632d381ac415feaf226f55fc2cd8520", null ],
-    [ "Register", "d2/d25/a21798.html#a72673f5054cf269cc8da511441f7bd66", null ]
+    [ "npc_thassarianAI", "d5/deb/a21802.html", "d5/deb/a21802" ],
+    [ "npc_thassarian", "d2/d25/a21798.html#a82bde4555821f84a6d07a69669528313", null ],
+    [ "GetAI", "d2/d25/a21798.html#af4bbf5f6a63c3765355d6b70c2bda55b", null ]
 ];

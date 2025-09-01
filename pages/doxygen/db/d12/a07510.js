@@ -1,14 +1,20 @@
 var a07510 =
 [
-    [ "FilteredCommandListIterator", "db/d12/a07510.html#abd6dc5c1e3c56eb27856eddb46d5e6a6", null ],
-    [ "_skip", "db/d12/a07510.html#ac2f0e09b76eb9d40d1b78279a81a5e65", null ],
-    [ "operator bool", "db/d12/a07510.html#aaeb128830c7705a455343d173dc3ae5a", null ],
-    [ "operator!", "db/d12/a07510.html#a864e81c56946ca97bf24b392ff8f0b8f", null ],
-    [ "operator*", "db/d12/a07510.html#a7b1008103a94f6dc068d3e839c924ea6", null ],
-    [ "operator++", "db/d12/a07510.html#a6d4a54adde98e638428a8d314a6e4356", null ],
-    [ "operator->", "db/d12/a07510.html#ad83cb2c649a847d0cd04b5fd8ee8494c", null ],
-    [ "_end", "db/d12/a07510.html#a294c3b743ac4b1a1b878d02a6580d3ca", null ],
-    [ "_handler", "db/d12/a07510.html#a0c64270cd18f8988997882ceb3e10184", null ],
-    [ "_it", "db/d12/a07510.html#abbf6ac9d50ba494221addff9aba11b80", null ],
-    [ "_token", "db/d12/a07510.html#acb834f907b55195f2a27d69f89d84961", null ]
+    [ "ChannelMap", "db/d12/a07510.html#a84c686f095464d67f750309244a47ba5", null ],
+    [ "ChannelRightsMap", "db/d12/a07510.html#a4e153c81aede8182160b0a5ab89e5b4b", null ],
+    [ "ChannelMgr", "db/d12/a07510.html#aa671334be6933f374466666ec5c6cc46", null ],
+    [ "~ChannelMgr", "db/d12/a07510.html#a2f9099cf528aacae9110d349841e57a7", null ],
+    [ "forTeam", "db/d12/a07510.html#a62fd837572c3c88d8848115c98587401", null ],
+    [ "GetChannel", "db/d12/a07510.html#a89dbd4095eeeb79ae59947beb2d2cd17", null ],
+    [ "GetChannelRightsFor", "db/d12/a07510.html#a5cc03c09dfc33a89d3d4f59d1e92d757", null ],
+    [ "GetJoinChannel", "db/d12/a07510.html#a92540d37b38ccc032665fa220349a4ec", null ],
+    [ "LoadChannelRights", "db/d12/a07510.html#a4fa043d2c61f5013d62b192d46bd453a", null ],
+    [ "LoadChannels", "db/d12/a07510.html#a73e822c758aacb7f959407b100b9aff6", null ],
+    [ "MakeNotOnPacket", "db/d12/a07510.html#ae85b95eac40037d5066efa17fb484bc5", null ],
+    [ "SetChannelRightsFor", "db/d12/a07510.html#a1d672ab806b5e00bdd96d3a56fe3520b", null ],
+    [ "_channelIdMax", "db/d12/a07510.html#a41bbe928d2e50c899a10b4b7da0e1a68", null ],
+    [ "_teamId", "db/d12/a07510.html#a1ac5de545c0cb91088176fae883748ed", null ],
+    [ "channelRightsEmpty", "db/d12/a07510.html#aecb848ba8e3cfa8ccdb84a1f62a26ab9", null ],
+    [ "channels", "db/d12/a07510.html#a823810bd463e51a0fb007712717f13dd", null ],
+    [ "channels_rights", "db/d12/a07510.html#adfc7c2e0156b2dc290c1c0f307a6911f", null ]
 ];

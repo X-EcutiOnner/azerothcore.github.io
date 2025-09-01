@@ -1,10 +1,6 @@
 var a15510 =
 [
-    [ "npc_omenAI", "d2/d5a/a15510.html#a042c0854b4cc08861fabbd347acbb9d7", null ],
-    [ "JustDied", "d2/d5a/a15510.html#a5a5d61081c2c59d637739de0f2fe39d4", null ],
-    [ "JustEngagedWith", "d2/d5a/a15510.html#aa2dbe46d16d7059c57876e000fcf1bb5", null ],
-    [ "MovementInform", "d2/d5a/a15510.html#a92e59bde1f0da2ee537a836304a3c385", null ],
-    [ "SpellHit", "d2/d5a/a15510.html#a4e3960d506fd0435de055a365906a9c9", null ],
-    [ "UpdateAI", "d2/d5a/a15510.html#a6f114ab4bbe3e6e1fd6d74da93a36027", null ],
-    [ "events", "d2/d5a/a15510.html#aaaaff29ffd8f216eb3e09b51a67f7321", null ]
+    [ "npc_death_ravagerAI", "d8/df0/a15514.html", "d8/df0/a15514" ],
+    [ "npc_death_ravager", "d2/d5a/a15510.html#a6aa04a28ce5aa0e467e638c8ffe11657", null ],
+    [ "GetAI", "d2/d5a/a15510.html#a284d0b8ccf902d3f03ddfc6750fe0f1c", null ]
 ];

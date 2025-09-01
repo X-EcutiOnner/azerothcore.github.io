@@ -1,16 +1,13 @@
 var a04364 =
 [
-    [ "RandomEngine", "de/d62/a05492.html", "de/d62/a05492" ],
-    [ "frand", "d3/dd1/a04364.html#aa28484fcb823a22578601847e4b0ddb4", null ],
-    [ "irand", "d3/dd1/a04364.html#a0a5e53ee066789ecb565abc05fe36dbc", null ],
-    [ "rand32", "d3/dd1/a04364.html#ab91ed86274e1e52eb314784862b61696", null ],
-    [ "rand_chance", "d3/dd1/a04364.html#a60564a0d93e0c87809379e0c1fa7acd1", null ],
-    [ "rand_norm", "d3/dd1/a04364.html#ad552d8147f66d6ec0cd44271e8799599", null ],
-    [ "randtime", "d3/dd1/a04364.html#a2fc61a89dc958460e6eabe08d87a4021", null ],
-    [ "randtime", "d3/dd1/a04364.html#ad7a1463dbba108f4bfc0d800fa6f99c1", null ],
-    [ "roll_chance_f", "d3/dd1/a04364.html#a4b15099bc81731469c5078a778673c94", null ],
-    [ "roll_chance_i", "d3/dd1/a04364.html#a50320d4edff86db31b25138ae72161ad", null ],
-    [ "urand", "d3/dd1/a04364.html#a3648faa6a1353eac6d2eec0b399c5aba", null ],
-    [ "urandms", "d3/dd1/a04364.html#a1a4ee564518371004a4d34135600bfa0", null ],
-    [ "urandweighted", "d3/dd1/a04364.html#a673de62907a2657190e58678691d3b36", null ]
+    [ "FollowerAI", "d6/d3a/a06254.html", "d6/d3a/a06254" ],
+    [ "eFollowState", "d3/dd1/a04364.html#a1ec9c3a60a913ecbf16778626ccf0138", [
+      [ "STATE_FOLLOW_NONE", "d3/dd1/a04364.html#a1ec9c3a60a913ecbf16778626ccf0138a8d3724990b83869077eeef397588a9ae", null ],
+      [ "STATE_FOLLOW_INPROGRESS", "d3/dd1/a04364.html#a1ec9c3a60a913ecbf16778626ccf0138aa4c302e4ec6ca00eb8d737e1b43e9e0b", null ],
+      [ "STATE_FOLLOW_RETURNING", "d3/dd1/a04364.html#a1ec9c3a60a913ecbf16778626ccf0138abc2b0083c7efe88c6be3c67e20de2523", null ],
+      [ "STATE_FOLLOW_PAUSED", "d3/dd1/a04364.html#a1ec9c3a60a913ecbf16778626ccf0138ab64828a6eee48ed5f0060f66fef4dbe6", null ],
+      [ "STATE_FOLLOW_COMPLETE", "d3/dd1/a04364.html#a1ec9c3a60a913ecbf16778626ccf0138a73636e044fe9883bf259a17bc617e7c9", null ],
+      [ "STATE_FOLLOW_PREEVENT", "d3/dd1/a04364.html#a1ec9c3a60a913ecbf16778626ccf0138a5ed17b2670a724e36c47de32fa5e821b", null ],
+      [ "STATE_FOLLOW_POSTEVENT", "d3/dd1/a04364.html#a1ec9c3a60a913ecbf16778626ccf0138a77b50e5da22490d74b38dcebae6e6c6a", null ]
+    ] ]
 ];

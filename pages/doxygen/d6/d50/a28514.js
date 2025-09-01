@@ -1,7 +1,7 @@
 var a28514 =
 [
-    [ "~ByteBufferException", "d6/d50/a28514.html#a0ab73f9061c040127f70dbfc9a176509", null ],
-    [ "message", "d6/d50/a28514.html#ab1a64d8fc18565a04c347de29184f68c", null ],
-    [ "what", "d6/d50/a28514.html#a87896f7ab19f3032937f5f84e8cf440a", null ],
-    [ "msg_", "d6/d50/a28514.html#a314bdbb7063219f8256df894602e6b02", null ]
+    [ "Id", "d6/d50/a28514.html#a5e2447dd0f6b60e322105d8fcafd0010", null ],
+    [ "MaxLevel", "d6/d50/a28514.html#a0392e52a26bb4e1d1927fa7f76c674b8", null ],
+    [ "Modifier", "d6/d50/a28514.html#a5ce5b18749d3c75878b310bdc8427b1f", null ],
+    [ "StatMod", "d6/d50/a28514.html#ab639dd94c53707ca160e13f71342730d", null ]
 ];

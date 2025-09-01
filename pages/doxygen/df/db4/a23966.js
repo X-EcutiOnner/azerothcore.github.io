@@ -1,16 +1,11 @@
 var a23966 =
 [
-    [ "npc_nether_drakeAI", "df/db4/a23966.html#a82f2c29b380be95303e1558776ea2d88", null ],
-    [ "JustEngagedWith", "df/db4/a23966.html#a5f20faa7f7007989298009b88b3ecbc8", null ],
-    [ "MoveInLineOfSight", "df/db4/a23966.html#a9e122d4533155c926904a13e8534d32e", null ],
-    [ "MovementInform", "df/db4/a23966.html#ae1f5248397b606b7872f05cfc929ac0d", null ],
-    [ "Reset", "df/db4/a23966.html#acb03513dd67988e0961632846021a42d", null ],
-    [ "SpellHit", "df/db4/a23966.html#a40f05363f38d71954c9fb8773c382444", null ],
-    [ "UpdateAI", "df/db4/a23966.html#aa538d9d2ead26d6e085ecf62ec7d310f", null ],
-    [ "ArcaneBlast_Timer", "df/db4/a23966.html#ace872917954f4978f3568d7ddecf22ad", null ],
-    [ "IntangiblePresence_Timer", "df/db4/a23966.html#acecff3846090fa83c8fc43537d788501", null ],
-    [ "IsNihil", "df/db4/a23966.html#a37c393101e0f9b07e20cc21beb80ba44", null ],
-    [ "ManaBurn_Timer", "df/db4/a23966.html#ae6c33df878497d29d5f61234b048009d", null ],
-    [ "NihilSpeech_Phase", "df/db4/a23966.html#a3e68f0fdb59ce6d8749b5d8629b7ec0b", null ],
-    [ "NihilSpeech_Timer", "df/db4/a23966.html#a40d7584c68f5f6516eb9a7deaaad7c86", null ]
+    [ "boss_high_astromancer_solarian", "df/db4/a23966.html#a2db48cc179539f81b55188de08a7e180", null ],
+    [ "AttackStart", "df/db4/a23966.html#acaf94134aef553447e766a5e431c8b83", null ],
+    [ "JustDied", "df/db4/a23966.html#a510eb2e4f0770670d6767bc2545375b7", null ],
+    [ "JustEngagedWith", "df/db4/a23966.html#a86cd2162187f1a81932000ca1cfb7f85", null ],
+    [ "JustSummoned", "df/db4/a23966.html#ac5b209a45a5a3ea2a8421706d181a827", null ],
+    [ "KilledUnit", "df/db4/a23966.html#a561a78193615575b7e43e0f21387f1b8", null ],
+    [ "Reset", "df/db4/a23966.html#a58cbb2c8a6c30855a0f9f2275338c1b5", null ],
+    [ "UpdateAI", "df/db4/a23966.html#a07a76c34a978c31212390cf10ed3e382", null ]
 ];

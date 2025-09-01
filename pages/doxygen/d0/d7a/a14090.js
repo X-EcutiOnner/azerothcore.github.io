@@ -1,6 +1,7 @@
 var a14090 =
 [
-    [ "HandleObjectAreaTargetSelect", "d0/d7a/a14090.html#aa7695bddd766d5adefb04710d41894f6", null ],
-    [ "PrepareSpellScript", "d0/d7a/a14090.html#a77ba184428cfbb8ec3cc4670f78741e0", null ],
-    [ "Register", "d0/d7a/a14090.html#adbc2f1c4ec64b95ec72c82f36f12d928", null ]
+    [ "HandleEffect", "d0/d7a/a14090.html#a8cda8eff109af7441d6990a236a52b80", null ],
+    [ "PrepareSpellScript", "d0/d7a/a14090.html#acc2698ba702be211bef63cefa41005f4", null ],
+    [ "Register", "d0/d7a/a14090.html#a5d6dccbb44a5d95055755673ad70707f", null ],
+    [ "Validate", "d0/d7a/a14090.html#a0b106298aa550e4fe9e8a449ed7eaa51", null ]
 ];

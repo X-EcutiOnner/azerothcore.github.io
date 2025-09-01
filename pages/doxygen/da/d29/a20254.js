@@ -1,6 +1,7 @@
 var a20254 =
 [
-    [ "FilterTargets", "da/d29/a20254.html#a4f77f654ef8bb589fbb81e8cb1ec6ce6", null ],
-    [ "PrepareSpellScript", "da/d29/a20254.html#a52c6b32ab01a68b258d4fe89730ec32b", null ],
-    [ "Register", "da/d29/a20254.html#a2e9ee7705a950d6a500ac472ff783b3a", null ]
+    [ "boss_freya_lifebinderAI", "da/d29/a20254.html#ae421aa209690e4a2908995b6b7d322cd", null ],
+    [ "Reset", "da/d29/a20254.html#a972bd7d390d444e0ea2bc513d5d3816a", null ],
+    [ "UpdateAI", "da/d29/a20254.html#afb06c217c1012d6463e44689359eada9", null ],
+    [ "_healTimer", "da/d29/a20254.html#a7021d13dceb9af343f0e820cf086046e", null ]
 ];

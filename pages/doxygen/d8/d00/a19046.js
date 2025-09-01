@@ -1,6 +1,9 @@
 var a19046 =
 [
-    [ "FilterTargets", "d8/d00/a19046.html#a2df81e30554809a0d5b45d2f471bb71f", null ],
-    [ "PrepareSpellScript", "d8/d00/a19046.html#aa51d9c578b782fbe0e7e3cf13789b702", null ],
-    [ "Register", "d8/d00/a19046.html#a4c1eab348e54011f1a2f827fc251ca13", null ]
+    [ "spell_trigger_spell_from_caster", "d8/d00/a19046.html#a0dc389ab8bd51fcfd839250a3bbc2dcd", null ],
+    [ "HandleTrigger", "d8/d00/a19046.html#afc11c9408ea11cb04e476999a9bdf522", null ],
+    [ "PrepareSpellScript", "d8/d00/a19046.html#a24a9bd70a58f051cd6c4ceaff5d7fffe", null ],
+    [ "Register", "d8/d00/a19046.html#ae44cc1a87267c1d08603d1aff2384957", null ],
+    [ "Validate", "d8/d00/a19046.html#a3aace9a309bc848b887b03c949c921bd", null ],
+    [ "_triggerId", "d8/d00/a19046.html#a29af52a9035f18936515a464889fefe5", null ]
 ];

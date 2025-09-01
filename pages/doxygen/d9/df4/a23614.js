@@ -1,15 +1,8 @@
 var a23614 =
 [
-    [ "instance_magtheridons_lair_InstanceMapScript", "d9/df4/a23614.html#a06f7e0f178d45a92f16dc06b68645fba", null ],
-    [ "Initialize", "d9/df4/a23614.html#afa054fb11fe777019baa70f46bfd8212", null ],
-    [ "OnCreatureCreate", "d9/df4/a23614.html#aa05f08785d9d62db41e8d29ef55db0d8", null ],
-    [ "OnCreatureRemove", "d9/df4/a23614.html#a727d4d3bfc52391a088e86fef013617c", null ],
-    [ "OnGameObjectCreate", "d9/df4/a23614.html#a020584d79926d170c02655c5e2841127", null ],
-    [ "OnGameObjectRemove", "d9/df4/a23614.html#a9a6ac60b68e2a515e771696c5c88b93d", null ],
-    [ "SetBossState", "d9/df4/a23614.html#a160269f8d4cde5297d5f70a5f8eec2b2", null ],
-    [ "SetData", "d9/df4/a23614.html#a847abafb7b00e9b2cab73a90a16b959e", null ],
-    [ "_columnSet", "d9/df4/a23614.html#a2593bf88b0aba019a831b3ca6a8e15b9", null ],
-    [ "_cubesSet", "d9/df4/a23614.html#ad59566c515cbea3274d17e483f3b4ef1", null ],
-    [ "_magtheridonGUID", "d9/df4/a23614.html#a03e70ccaf8c23d2c775051320c6c4636", null ],
-    [ "_wardersSet", "d9/df4/a23614.html#a37b2621d50e8a8f0bee3f089dbce88f9", null ]
+    [ "npc_underbat", "d9/df4/a23614.html#a710a010d3425b7171ee45d8465fd6b2b", null ],
+    [ "JustEngagedWith", "d9/df4/a23614.html#ae137b6b763b3df6096c3bfd4dd7ee676", null ],
+    [ "Reset", "d9/df4/a23614.html#aae771ad526e8f72a90fe70ebbd91b472", null ],
+    [ "UpdateAI", "d9/df4/a23614.html#ab3a9b97543aee3fdf22c17e94f768c0e", null ],
+    [ "_scheduler", "d9/df4/a23614.html#a7644a73c2a5bcbbe0a3db5c782169752", null ]
 ];

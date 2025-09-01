@@ -1,7 +1,10 @@
 var a26978 =
 [
-    [ "CheckProc", "d8/dc5/a26978.html#a957f8837b5613a3bfd8200ded3529c54", null ],
-    [ "HandleEffectProc", "d8/dc5/a26978.html#a54810a897e535558d060119e3de6537b", null ],
-    [ "PrepareAuraScript", "d8/dc5/a26978.html#a37950bfd846e1c2c550a108461941a26", null ],
-    [ "Register", "d8/dc5/a26978.html#a16c273043e81fd163fb7c3f517ee6f4c", null ]
+    [ "CalculateAmount", "d8/dc5/a26978.html#a9e0e28d871f9d3c89cf2dc862971321d", null ],
+    [ "Detonate", "d8/dc5/a26978.html#adc622aae157984546dfe3d8373c0c413", null ],
+    [ "HandleProc", "d8/dc5/a26978.html#a3b5812649b67830d8dc6d10b5dd1c937", null ],
+    [ "OnRemove", "d8/dc5/a26978.html#a5067cef0afc99d487f995f8d6edea21f", null ],
+    [ "PrepareAuraScript", "d8/dc5/a26978.html#abc23ebb3761e3505486ac578bdeaeeed", null ],
+    [ "Register", "d8/dc5/a26978.html#acc4819698e175889a0491d7f7cc680fd", null ],
+    [ "Validate", "d8/dc5/a26978.html#a0649826ce0d66c9f21be8d47c76f4941", null ]
 ];

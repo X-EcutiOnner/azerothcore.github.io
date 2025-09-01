@@ -1,10 +1,8 @@
 var a08610 =
 [
-    [ "Index", "d4/d3a/a08610.html#a28b25d822326a1b7d5ec7f95ce084bac", [
-      [ "REGULAR", "d4/d3a/a08610.html#a28b25d822326a1b7d5ec7f95ce084bacaff2524a88b92db0ec25cc1f17b28cf68", null ],
-      [ "ADDON", "d4/d3a/a08610.html#a28b25d822326a1b7d5ec7f95ce084baca0d74e752005cb5fe12644048433ea5cb", null ],
-      [ "MAX", "d4/d3a/a08610.html#a28b25d822326a1b7d5ec7f95ce084baca6ca77c7f76d3ccd18db1d4c0f4e070a5", null ]
-    ] ],
-    [ "Count", "d4/d3a/a08610.html#a0dc1d4dc63d5289fde92bbb2c28a7e2e", null ],
-    [ "Time", "d4/d3a/a08610.html#a20b83dcc96256f2ab16326b2b8ec925e", null ]
+    [ "checkLeaderOnly", "d4/d3a/a08610.html#ade8f2e22abe69a9a32085e4d901bc83b", null ],
+    [ "faction", "d4/d3a/a08610.html#a23c649e494795b27856b67225370a820", null ],
+    [ "id", "d4/d3a/a08610.html#a5d5b8f6fe0bfc5ae98c2fb10e3a18360", null ],
+    [ "note", "d4/d3a/a08610.html#a0e800dd8869fedbe71e5b14aa3c79d8a", null ],
+    [ "priority", "d4/d3a/a08610.html#a3a66018ae4e7a7e755962f1edae58d29", null ]
 ];

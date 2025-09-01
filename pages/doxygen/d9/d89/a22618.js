@@ -1,8 +1,6 @@
 var a22618 =
 [
-    [ "boss_pandemonius", "d9/d89/a22618.html#a650746de74bb8a91e0c9c59d8a6a09ea", null ],
-    [ "JustDied", "d9/d89/a22618.html#a64a493c0dd4bcf5917e00c3e2713f4ce", null ],
-    [ "JustEngagedWith", "d9/d89/a22618.html#a3dbedc67006db89b95443f783cd8dbd9", null ],
-    [ "KilledUnit", "d9/d89/a22618.html#a26a012afe8c418c8da283c7b9f983e89", null ],
-    [ "PullRoom", "d9/d89/a22618.html#a05011127290350f11cc1a333b23dbb04", null ]
+    [ "npc_captured_rageclawAI", "d9/d89/a22618.html#a5bb483a323330b0895f87c5381d73314", null ],
+    [ "Reset", "d9/d89/a22618.html#a9cde0a0e5015334ec8dcd277fcd99dc3", null ],
+    [ "SpellHit", "d9/d89/a22618.html#a2c63911d27435a2271a7c89d9d88318c", null ]
 ];

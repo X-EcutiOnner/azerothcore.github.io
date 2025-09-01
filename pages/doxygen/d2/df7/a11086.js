@@ -1,12 +1,11 @@
 var a11086 =
 [
-    [ "SpellDestination", "d2/df7/a11086.html#aa91f31101de3139b2e2d2976dac94686", null ],
-    [ "SpellDestination", "d2/df7/a11086.html#aa27cefe3e93fedd557174a3cc8f49fe1", null ],
-    [ "SpellDestination", "d2/df7/a11086.html#a12f65757f20436b02b7aa00bb1682c8e", null ],
-    [ "SpellDestination", "d2/df7/a11086.html#a7b8949fa80249aee8bebc56620ec746c", null ],
-    [ "Relocate", "d2/df7/a11086.html#ab565861d5013130639013e3c4d22d712", null ],
-    [ "RelocateOffset", "d2/df7/a11086.html#a0bf1d731787bfed47b593d8cb4943f2a", null ],
-    [ "_position", "d2/df7/a11086.html#a6c4587b85e295d86f3479e4feeb662e5", null ],
-    [ "_transportGUID", "d2/df7/a11086.html#ad3456cf591eb32a5dd390ffbb7b27387", null ],
-    [ "_transportOffset", "d2/df7/a11086.html#a52f0f9f741985bb4d78289145fe66ba0", null ]
+    [ "OptionalData", "da/d96/a11090.html", "da/d96/a11090" ],
+    [ "ArrivalTicks", "d2/df7/a11086.html#a8fa635d0c8f77a0e39fd66501490f6ea", null ],
+    [ "ConnectionId", "d2/df7/a11086.html#abe8700ec99d55a66b22f8fbb28c833fa", null ],
+    [ "Direction", "d2/df7/a11086.html#a03a38a8ceed9eb1ea5585fcfb1ab29b8", null ],
+    [ "Length", "d2/df7/a11086.html#ab889533c6ebe4a8b3dbf0a2a5fef06dc", null ],
+    [ "Opcode", "d2/df7/a11086.html#a7fcc9281cd10ecf79929f9f17c855b65", null ],
+    [ "OptionalData", "d2/df7/a11086.html#aa5219ee4193cccf913dabf6db5d6f57a", null ],
+    [ "OptionalDataSize", "d2/df7/a11086.html#a03b79fe07bd5f0a1c254f2fb92a3ecba", null ]
 ];

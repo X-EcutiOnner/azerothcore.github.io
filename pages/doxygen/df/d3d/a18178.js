@@ -1,7 +1,6 @@
 var a18178 =
 [
-    [ "StartMovementEvent", "df/d3d/a18178.html#a4f0fd5e835f742c876f37f31bf03c56f", null ],
-    [ "Execute", "df/d3d/a18178.html#af1a043d953bcffe9341292e85cae2f55", null ],
-    [ "_owner", "df/d3d/a18178.html#ac2f4166af128a161c471b243144856ba", null ],
-    [ "_summoner", "df/d3d/a18178.html#afe1f7bcb3569758bc075380a24527067", null ]
+    [ "npc_precious_iccAI", "dc/def/a18182.html", "dc/def/a18182" ],
+    [ "npc_precious_icc", "df/d3d/a18178.html#a463eb0df1edb17e154658dac131f0898", null ],
+    [ "GetAI", "df/d3d/a18178.html#aa63840c5968a089bff41dcd9c86d5849", null ]
 ];

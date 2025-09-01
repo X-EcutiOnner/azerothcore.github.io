@@ -1,4 +1,4 @@
 var a04547 =
 [
-    [ "BigNumber", "d3/dd2/a05176.html", "d3/dd2/a05176" ]
+    [ "CanRollOnItem", "d0/da8/a04547.html#afbaf3417177da71d9f3c8be9eab09c2b", null ]
 ];

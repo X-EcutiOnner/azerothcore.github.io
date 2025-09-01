@@ -1,8 +1,7 @@
 var a29002 =
 [
-    [ "FilterTargets", "db/d4e/a29002.html#a5827581d7f5597b64d1261bb9f271ad6", null ],
-    [ "HandleEffect", "db/d4e/a29002.html#ae51879e493da8672760d3c4a90fb45f6", null ],
-    [ "PrepareSpellScript", "db/d4e/a29002.html#a539e8e2635821df603cacc706e4a509b", null ],
-    [ "Register", "db/d4e/a29002.html#a409edb6f16da6b2218a64df2995e5f3a", null ],
-    [ "Validate", "db/d4e/a29002.html#ac1bea156984012f5a5947c808a4cac3b", null ]
+    [ "Paths", "db/d4e/a29002.html#aff167c694a55441bcf5504f5d1933f41", null ],
+    [ "References", "db/d4e/a29002.html#a07f0d7daa9cd934768b8a603dc52bea3", null ],
+    [ "Sets", "db/d4e/a29002.html#a43774f8dd70e85e16aa8d49b5c6a25b6", null ],
+    [ "Spawns", "db/d4e/a29002.html#a51f24c059516683f0744b81819186c0e", null ]
 ];

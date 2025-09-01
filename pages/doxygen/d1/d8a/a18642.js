@@ -1,6 +1,6 @@
 var a18642 =
 [
-    [ "npc_captain_brandonAI", "d1/d8a/a18642.html#a1fe09b93be658660ba3c127c142e2ee6", null ],
-    [ "Reset", "d1/d8a/a18642.html#a13226b321707eee9faf5f073c81403e4", null ],
-    [ "UpdateAI", "d1/d8a/a18642.html#a721f8f7395cd57d4dba74f66ae40169f", null ]
+    [ "npc_the_lich_king_controllerAI", "d3/ddc/a18646.html", "d3/ddc/a18646" ],
+    [ "npc_the_lich_king_controller", "d1/d8a/a18642.html#a32b14d699737497ba7c90d8ef17557d7", null ],
+    [ "GetAI", "d1/d8a/a18642.html#ae9b6dacb0f4e8e6f12f187ab0dfd2165", null ]
 ];

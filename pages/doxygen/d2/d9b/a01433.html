@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/AI/CreatureAI.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/scripts/Northrend/IcecrownCitadel/icecrown_citadel_teleport.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,131 +105,134 @@ $(document).ready(function(){initNavTree('d2/d9b/a01433.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
+<a href="#nested-classes">Classes</a> &#124;
+<a href="#define-members">Macros</a> &#124;
+<a href="#enum-members">Enumerations</a> &#124;
 <a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">CreatureAI.cpp File Reference</div></div>
+  <div class="headertitle"><div class="title">icecrown_citadel_teleport.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">CreatureAI.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">AreaBoundary.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Creature.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">CreatureAIImpl.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">CreatureGroups.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">CreatureTextMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">GameObjectAI.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Log.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">MapReference.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">AreaTriggerScript.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">GameObjectScript.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">InstanceScript.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ScriptMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">TemporarySummon.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Vehicle.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ZoneScript.h</a>&quot;</code><br />
-<code>#include &lt;functional&gt;</code><br />
+<code>#include &quot;<a class="el" href="../../">ScriptedGossip.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Spell.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">icecrown_citadel.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">SpellMgr.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
+Classes</h2></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/de9/a19050.html">icecrown_citadel_teleport</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/df9/a19054.html">at_frozen_throne_teleport</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
+Macros</h2></td></tr>
+<tr class="memitem:a6fba34564bcdeb5d7a73d3c21850f02a"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d9b/a01433.html#a6fba34564bcdeb5d7a73d3c21850f02a">GOSSIP_SENDER_ICC_PORT</a>&#160;&#160;&#160;631</td></tr>
+<tr class="separator:a6fba34564bcdeb5d7a73d3c21850f02a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
+Enumerations</h2></td></tr>
+<tr class="memitem:a6fd4f2624c3269860a58fdcfbb273928"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d9b/a01433.html#a6fd4f2624c3269860a58fdcfbb273928">ICCTeleportOption</a> { <br />
+&#160;&#160;<a class="el" href="../../d2/d9b/a01433.html#a6fd4f2624c3269860a58fdcfbb273928a5d845311579fa05dd470ab95e3810591">ICC_TELEPORT_GOSSIP_OPT_LIGHTS_HAMMER</a> = 0
+, <br />
+&#160;&#160;<a class="el" href="../../d2/d9b/a01433.html#a6fd4f2624c3269860a58fdcfbb273928a655e3ad8e4a944b86f70a1979aeb3c3c">ICC_TELEPORT_GOSSIP_OPT_ORATORY_OF_THE_DAMNED</a> = 1
+, <br />
+&#160;&#160;<a class="el" href="../../d2/d9b/a01433.html#a6fd4f2624c3269860a58fdcfbb273928a96ac68871dedf676d54492d7a0820201">ICC_TELEPORT_GOSSIP_OPT_RAMPART_OF_SKULLS</a> = 3
+, <br />
+&#160;&#160;<a class="el" href="../../d2/d9b/a01433.html#a6fd4f2624c3269860a58fdcfbb273928ac08906a205127f970d28dbee8bade56c">ICC_TELEPORT_GOSSIP_OPT_DEATHBRINGERS_RISE</a> = 4
+, <br />
+&#160;&#160;<a class="el" href="../../d2/d9b/a01433.html#a6fd4f2624c3269860a58fdcfbb273928ae2d96cab8de57bd2a2a012503c2ddbf2">ICC_TELEPORT_GOSSIP_OPT_UPPER_SPIRE</a> = 5
+, <br />
+&#160;&#160;<a class="el" href="../../d2/d9b/a01433.html#a6fd4f2624c3269860a58fdcfbb273928a196236e7232fea20a0707b300c9a996b">ICC_TELEPORT_GOSSIP_OPT_SINDRAGOSAS_LAIR</a> = 6
+<br />
+ }</td></tr>
+<tr class="separator:a6fd4f2624c3269860a58fdcfbb273928"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:a1ed41ad074263f6c0c63f38b7f51414b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/d1b/a06188.html">AISpellInfoType</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d9b/a01433.html#a1ed41ad074263f6c0c63f38b7f51414b">GetAISpellInfo</a> (<a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> i)</td></tr>
-<tr class="separator:a1ed41ad074263f6c0c63f38b7f51414b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a981f03ba3b8c59eb1fa9d22df158ba19"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d9b/a01433.html#a981f03ba3b8c59eb1fa9d22df158ba19">IsValidCombatTarget</a> (<a class="el" href="../../d0/dda/a08000.html">Creature</a> *source, <a class="el" href="../../dc/de6/a08620.html">Player</a> *target)</td></tr>
-<tr class="separator:a981f03ba3b8c59eb1fa9d22df158ba19"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aba5bcd7624aeee0dbd61deec7f8d5d5b"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d9b/a01433.html#aba5bcd7624aeee0dbd61deec7f8d5d5b">AddSC_icecrown_citadel_teleport</a> ()</td></tr>
+<tr class="separator:aba5bcd7624aeee0dbd61deec7f8d5d5b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
+<h2 class="groupheader">Macro Definition Documentation</h2>
+<a id="a6fba34564bcdeb5d7a73d3c21850f02a" name="a6fba34564bcdeb5d7a73d3c21850f02a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6fba34564bcdeb5d7a73d3c21850f02a">&#9670;&#160;</a></span>GOSSIP_SENDER_ICC_PORT</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define GOSSIP_SENDER_ICC_PORT&#160;&#160;&#160;631</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<h2 class="groupheader">Enumeration Type Documentation</h2>
+<a id="a6fd4f2624c3269860a58fdcfbb273928" name="a6fd4f2624c3269860a58fdcfbb273928"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6fd4f2624c3269860a58fdcfbb273928">&#9670;&#160;</a></span>ICCTeleportOption</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../d2/d9b/a01433.html#a6fd4f2624c3269860a58fdcfbb273928">ICCTeleportOption</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a6fd4f2624c3269860a58fdcfbb273928a5d845311579fa05dd470ab95e3810591" name="a6fd4f2624c3269860a58fdcfbb273928a5d845311579fa05dd470ab95e3810591"></a>ICC_TELEPORT_GOSSIP_OPT_LIGHTS_HAMMER&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a6fd4f2624c3269860a58fdcfbb273928a655e3ad8e4a944b86f70a1979aeb3c3c" name="a6fd4f2624c3269860a58fdcfbb273928a655e3ad8e4a944b86f70a1979aeb3c3c"></a>ICC_TELEPORT_GOSSIP_OPT_ORATORY_OF_THE_DAMNED&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a6fd4f2624c3269860a58fdcfbb273928a96ac68871dedf676d54492d7a0820201" name="a6fd4f2624c3269860a58fdcfbb273928a96ac68871dedf676d54492d7a0820201"></a>ICC_TELEPORT_GOSSIP_OPT_RAMPART_OF_SKULLS&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a6fd4f2624c3269860a58fdcfbb273928ac08906a205127f970d28dbee8bade56c" name="a6fd4f2624c3269860a58fdcfbb273928ac08906a205127f970d28dbee8bade56c"></a>ICC_TELEPORT_GOSSIP_OPT_DEATHBRINGERS_RISE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a6fd4f2624c3269860a58fdcfbb273928ae2d96cab8de57bd2a2a012503c2ddbf2" name="a6fd4f2624c3269860a58fdcfbb273928ae2d96cab8de57bd2a2a012503c2ddbf2"></a>ICC_TELEPORT_GOSSIP_OPT_UPPER_SPIRE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a6fd4f2624c3269860a58fdcfbb273928a196236e7232fea20a0707b300c9a996b" name="a6fd4f2624c3269860a58fdcfbb273928a196236e7232fea20a0707b300c9a996b"></a>ICC_TELEPORT_GOSSIP_OPT_SINDRAGOSAS_LAIR&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">   30</span>{</div>
+<div class="line"><span class="lineno">   31</span>    <a class="code hl_enumvalue" href="../../d2/d9b/a01433.html#a6fd4f2624c3269860a58fdcfbb273928a5d845311579fa05dd470ab95e3810591">ICC_TELEPORT_GOSSIP_OPT_LIGHTS_HAMMER</a> = 0,</div>
+<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../d2/d9b/a01433.html#a6fd4f2624c3269860a58fdcfbb273928a655e3ad8e4a944b86f70a1979aeb3c3c">ICC_TELEPORT_GOSSIP_OPT_ORATORY_OF_THE_DAMNED</a> = 1,</div>
+<div class="line"><span class="lineno">   33</span>    <a class="code hl_enumvalue" href="../../d2/d9b/a01433.html#a6fd4f2624c3269860a58fdcfbb273928a96ac68871dedf676d54492d7a0820201">ICC_TELEPORT_GOSSIP_OPT_RAMPART_OF_SKULLS</a> = 3,</div>
+<div class="line"><span class="lineno">   34</span>    <a class="code hl_enumvalue" href="../../d2/d9b/a01433.html#a6fd4f2624c3269860a58fdcfbb273928ac08906a205127f970d28dbee8bade56c">ICC_TELEPORT_GOSSIP_OPT_DEATHBRINGERS_RISE</a> = 4,</div>
+<div class="line"><span class="lineno">   35</span>    <a class="code hl_enumvalue" href="../../d2/d9b/a01433.html#a6fd4f2624c3269860a58fdcfbb273928ae2d96cab8de57bd2a2a012503c2ddbf2">ICC_TELEPORT_GOSSIP_OPT_UPPER_SPIRE</a> = 5,</div>
+<div class="line"><span class="lineno">   36</span>    <a class="code hl_enumvalue" href="../../d2/d9b/a01433.html#a6fd4f2624c3269860a58fdcfbb273928a196236e7232fea20a0707b300c9a996b">ICC_TELEPORT_GOSSIP_OPT_SINDRAGOSAS_LAIR</a> = 6</div>
+<div class="line"><span class="lineno">   37</span>};</div>
+<div class="ttc" id="aa01433_html_a6fd4f2624c3269860a58fdcfbb273928a196236e7232fea20a0707b300c9a996b"><div class="ttname"><a href="../../d2/d9b/a01433.html#a6fd4f2624c3269860a58fdcfbb273928a196236e7232fea20a0707b300c9a996b">ICC_TELEPORT_GOSSIP_OPT_SINDRAGOSAS_LAIR</a></div><div class="ttdeci">@ ICC_TELEPORT_GOSSIP_OPT_SINDRAGOSAS_LAIR</div><div class="ttdef"><b>Definition:</b> icecrown_citadel_teleport.cpp:36</div></div>
+<div class="ttc" id="aa01433_html_a6fd4f2624c3269860a58fdcfbb273928a5d845311579fa05dd470ab95e3810591"><div class="ttname"><a href="../../d2/d9b/a01433.html#a6fd4f2624c3269860a58fdcfbb273928a5d845311579fa05dd470ab95e3810591">ICC_TELEPORT_GOSSIP_OPT_LIGHTS_HAMMER</a></div><div class="ttdeci">@ ICC_TELEPORT_GOSSIP_OPT_LIGHTS_HAMMER</div><div class="ttdef"><b>Definition:</b> icecrown_citadel_teleport.cpp:31</div></div>
+<div class="ttc" id="aa01433_html_a6fd4f2624c3269860a58fdcfbb273928a655e3ad8e4a944b86f70a1979aeb3c3c"><div class="ttname"><a href="../../d2/d9b/a01433.html#a6fd4f2624c3269860a58fdcfbb273928a655e3ad8e4a944b86f70a1979aeb3c3c">ICC_TELEPORT_GOSSIP_OPT_ORATORY_OF_THE_DAMNED</a></div><div class="ttdeci">@ ICC_TELEPORT_GOSSIP_OPT_ORATORY_OF_THE_DAMNED</div><div class="ttdef"><b>Definition:</b> icecrown_citadel_teleport.cpp:32</div></div>
+<div class="ttc" id="aa01433_html_a6fd4f2624c3269860a58fdcfbb273928a96ac68871dedf676d54492d7a0820201"><div class="ttname"><a href="../../d2/d9b/a01433.html#a6fd4f2624c3269860a58fdcfbb273928a96ac68871dedf676d54492d7a0820201">ICC_TELEPORT_GOSSIP_OPT_RAMPART_OF_SKULLS</a></div><div class="ttdeci">@ ICC_TELEPORT_GOSSIP_OPT_RAMPART_OF_SKULLS</div><div class="ttdef"><b>Definition:</b> icecrown_citadel_teleport.cpp:33</div></div>
+<div class="ttc" id="aa01433_html_a6fd4f2624c3269860a58fdcfbb273928ac08906a205127f970d28dbee8bade56c"><div class="ttname"><a href="../../d2/d9b/a01433.html#a6fd4f2624c3269860a58fdcfbb273928ac08906a205127f970d28dbee8bade56c">ICC_TELEPORT_GOSSIP_OPT_DEATHBRINGERS_RISE</a></div><div class="ttdeci">@ ICC_TELEPORT_GOSSIP_OPT_DEATHBRINGERS_RISE</div><div class="ttdef"><b>Definition:</b> icecrown_citadel_teleport.cpp:34</div></div>
+<div class="ttc" id="aa01433_html_a6fd4f2624c3269860a58fdcfbb273928ae2d96cab8de57bd2a2a012503c2ddbf2"><div class="ttname"><a href="../../d2/d9b/a01433.html#a6fd4f2624c3269860a58fdcfbb273928ae2d96cab8de57bd2a2a012503c2ddbf2">ICC_TELEPORT_GOSSIP_OPT_UPPER_SPIRE</a></div><div class="ttdeci">@ ICC_TELEPORT_GOSSIP_OPT_UPPER_SPIRE</div><div class="ttdef"><b>Definition:</b> icecrown_citadel_teleport.cpp:35</div></div>
+</div><!-- fragment -->
+</div>
+</div>
 <h2 class="groupheader">Function Documentation</h2>
-<a id="a1ed41ad074263f6c0c63f38b7f51414b" name="a1ed41ad074263f6c0c63f38b7f51414b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1ed41ad074263f6c0c63f38b7f51414b">&#9670;&#160;</a></span>GetAISpellInfo()</h2>
+<a id="aba5bcd7624aeee0dbd61deec7f8d5d5b" name="aba5bcd7624aeee0dbd61deec7f8d5d5b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aba5bcd7624aeee0dbd61deec7f8d5d5b">&#9670;&#160;</a></span>AddSC_icecrown_citadel_teleport()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d2/d1b/a06188.html">AISpellInfoType</a> * GetAISpellInfo </td>
+          <td class="memname">void AddSC_icecrown_citadel_teleport </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>i</em></td><td>)</td>
+          <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   43</span>{ <span class="keywordflow">return</span> &amp;<a class="code hl_variable" href="../../dc/d55/a06164.html#adaf99f0a5a2d4993e5408eec175f5e24">CreatureAI::AISpellInfo</a>[i]; }</div>
-<div class="ttc" id="aa06164_html_adaf99f0a5a2d4993e5408eec175f5e24"><div class="ttname"><a href="../../dc/d55/a06164.html#adaf99f0a5a2d4993e5408eec175f5e24">UnitAI::AISpellInfo</a></div><div class="ttdeci">static AISpellInfoType * AISpellInfo</div><div class="ttdef"><b>Definition:</b> UnitAI.h:406</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  134</span>{</div>
+<div class="line"><span class="lineno">  135</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../db/de9/a19050.html">icecrown_citadel_teleport</a>();</div>
+<div class="line"><span class="lineno">  136</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../dd/df9/a19054.html">at_frozen_throne_teleport</a>();</div>
+<div class="line"><span class="lineno">  137</span>}</div>
+<div class="ttc" id="aa19050_html"><div class="ttname"><a href="../../db/de9/a19050.html">icecrown_citadel_teleport</a></div><div class="ttdef"><b>Definition:</b> icecrown_citadel_teleport.cpp:40</div></div>
+<div class="ttc" id="aa19054_html"><div class="ttname"><a href="../../dd/df9/a19054.html">at_frozen_throne_teleport</a></div><div class="ttdef"><b>Definition:</b> icecrown_citadel_teleport.cpp:109</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00406">UnitAI::AISpellInfo</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00110">CasterAI::InitializeAI()</a>, <a class="el" href="../../#l00127">CasterAI::JustEngagedWith()</a>, and <a class="el" href="../../#l00151">CasterAI::UpdateAI()</a>.</p>
-
-</div>
-</div>
-<a id="a981f03ba3b8c59eb1fa9d22df158ba19" name="a981f03ba3b8c59eb1fa9d22df158ba19"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a981f03ba3b8c59eb1fa9d22df158ba19">&#9670;&#160;</a></span>IsValidCombatTarget()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool IsValidCombatTarget </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/dda/a08000.html">Creature</a> *&#160;</td>
-          <td class="paramname"><em>source</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../dc/de6/a08620.html">Player</a> *&#160;</td>
-          <td class="paramname"><em>target</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   79</span>{</div>
-<div class="line"><span class="lineno">   80</span>    <span class="keywordflow">if</span> (target-&gt;<a class="code hl_function" href="../../dc/de6/a08620.html#a9f23cae8a3da0345a05c2a2bfedc2fe2">IsGameMaster</a>())</div>
-<div class="line"><span class="lineno">   81</span>    {</div>
-<div class="line"><span class="lineno">   82</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">   83</span>    }</div>
-<div class="line"><span class="lineno">   84</span> </div>
-<div class="line"><span class="lineno">   85</span>    <span class="keywordflow">if</span> (!source-&gt;<a class="code hl_function" href="../../de/de0/a08368.html#a3aeab7def818ba6c50249f197ad2f9ca">IsInWorld</a>() || !target-&gt;<a class="code hl_function" href="../../de/de0/a08368.html#a3aeab7def818ba6c50249f197ad2f9ca">IsInWorld</a>())</div>
-<div class="line"><span class="lineno">   86</span>    {</div>
-<div class="line"><span class="lineno">   87</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">   88</span>    }</div>
-<div class="line"><span class="lineno">   89</span> </div>
-<div class="line"><span class="lineno">   90</span>    <span class="keywordflow">if</span> (!source-&gt;<a class="code hl_function" href="../../d3/dd2/a08756.html#a5ea3f54af571493f7889220724667189">IsAlive</a>() || !target-&gt;<a class="code hl_function" href="../../d3/dd2/a08756.html#a5ea3f54af571493f7889220724667189">IsAlive</a>())</div>
-<div class="line"><span class="lineno">   91</span>    {</div>
-<div class="line"><span class="lineno">   92</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">   93</span>    }</div>
-<div class="line"><span class="lineno">   94</span> </div>
-<div class="line"><span class="lineno">   95</span>    <span class="keywordflow">if</span> (!source-&gt;<a class="code hl_function" href="../../d1/d2f/a08404.html#a9194d2edf982e08c6a17e2893d9969f9">InSamePhase</a>(target))</div>
-<div class="line"><span class="lineno">   96</span>    {</div>
-<div class="line"><span class="lineno">   97</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">   98</span>    }</div>
-<div class="line"><span class="lineno">   99</span> </div>
-<div class="line"><span class="lineno">  100</span>    <span class="keywordflow">if</span> (source-&gt;<a class="code hl_function" href="../../d3/dd2/a08756.html#ab78147cd520d2dac6be709b4c80a7de3">HasUnitState</a>(<a class="code hl_enumvalue" href="../../d6/d53/a01688.html#ae51d2ecb71f7a5cb3882982a622c9544acaa99b04af24f0d3e5adb2e92d82ffcc">UNIT_STATE_IN_FLIGHT</a>) || target-&gt;<a class="code hl_function" href="../../d3/dd2/a08756.html#ab78147cd520d2dac6be709b4c80a7de3">HasUnitState</a>(<a class="code hl_enumvalue" href="../../d6/d53/a01688.html#ae51d2ecb71f7a5cb3882982a622c9544acaa99b04af24f0d3e5adb2e92d82ffcc">UNIT_STATE_IN_FLIGHT</a>))</div>
-<div class="line"><span class="lineno">  101</span>    {</div>
-<div class="line"><span class="lineno">  102</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  103</span>    }</div>
-<div class="line"><span class="lineno">  104</span> </div>
-<div class="line"><span class="lineno">  105</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  106</span>}</div>
-<div class="ttc" id="aa01688_html_ae51d2ecb71f7a5cb3882982a622c9544acaa99b04af24f0d3e5adb2e92d82ffcc"><div class="ttname"><a href="../../d6/d53/a01688.html#ae51d2ecb71f7a5cb3882982a622c9544acaa99b04af24f0d3e5adb2e92d82ffcc">UNIT_STATE_IN_FLIGHT</a></div><div class="ttdeci">@ UNIT_STATE_IN_FLIGHT</div><div class="ttdef"><b>Definition:</b> UnitDefines.h:178</div></div>
-<div class="ttc" id="aa08368_html_a3aeab7def818ba6c50249f197ad2f9ca"><div class="ttname"><a href="../../de/de0/a08368.html#a3aeab7def818ba6c50249f197ad2f9ca">Object::IsInWorld</a></div><div class="ttdeci">bool IsInWorld() const</div><div class="ttdef"><b>Definition:</b> Object.h:108</div></div>
-<div class="ttc" id="aa08404_html_a9194d2edf982e08c6a17e2893d9969f9"><div class="ttname"><a href="../../d1/d2f/a08404.html#a9194d2edf982e08c6a17e2893d9969f9">WorldObject::InSamePhase</a></div><div class="ttdeci">bool InSamePhase(WorldObject const *obj) const</div><div class="ttdef"><b>Definition:</b> Object.h:503</div></div>
-<div class="ttc" id="aa08620_html_a9f23cae8a3da0345a05c2a2bfedc2fe2"><div class="ttname"><a href="../../dc/de6/a08620.html#a9f23cae8a3da0345a05c2a2bfedc2fe2">Player::IsGameMaster</a></div><div class="ttdeci">bool IsGameMaster() const</div><div class="ttdef"><b>Definition:</b> Player.h:1177</div></div>
-<div class="ttc" id="aa08756_html_a5ea3f54af571493f7889220724667189"><div class="ttname"><a href="../../d3/dd2/a08756.html#a5ea3f54af571493f7889220724667189">Unit::IsAlive</a></div><div class="ttdeci">bool IsAlive() const</div><div class="ttdef"><b>Definition:</b> Unit.h:1707</div></div>
-<div class="ttc" id="aa08756_html_ab78147cd520d2dac6be709b4c80a7de3"><div class="ttname"><a href="../../d3/dd2/a08756.html#ab78147cd520d2dac6be709b4c80a7de3">Unit::HasUnitState</a></div><div class="ttdeci">bool HasUnitState(const uint32 f) const</div><div class="ttdef"><b>Definition:</b> Unit.h:691</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00691">Unit::HasUnitState()</a>, <a class="el" href="../../#l00503">WorldObject::InSamePhase()</a>, <a class="el" href="../../#l01707">Unit::IsAlive()</a>, <a class="el" href="../../#l01177">Player::IsGameMaster()</a>, <a class="el" href="../../#l00108">Object::IsInWorld()</a>, and <a class="el" href="../../#l00178">UNIT_STATE_IN_FLIGHT</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00108">CreatureAI::DoZoneInCombat()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00183">AddNorthrendScripts()</a>.</p>
 
 </div>
 </div>
@@ -238,8 +241,8 @@ Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_5e5741f7891ede41bef7ecc492194021.html">AI</a></li><li class="navelem"><a class="el" href="../../d2/d9b/a01433.html">CreatureAI.cpp</a></li>
-    <li class="footer">Generated on Mon Aug 25 2025 20:45:16 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_81f27dfa25f27c55a8e8044b1a11fbfb.html">Northrend</a></li><li class="navelem"><a class="el" href="../../dir_49de9ff38e0063bf9846434b8d63cf58.html">IcecrownCitadel</a></li><li class="navelem"><a class="el" href="../../d2/d9b/a01433.html">icecrown_citadel_teleport.cpp</a></li>
+    <li class="footer">Generated on Mon Sep 1 2025 20:43:07 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

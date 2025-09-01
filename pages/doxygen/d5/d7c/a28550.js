@@ -1,9 +1,5 @@
 var a28550 =
 [
-    [ "flags", "d5/d7c/a28550.html#a064de2e88c563121bbb78549a7bab868", null ],
-    [ "_flags", "d5/d7c/a28550.html#a16f1b30a57eb6703e8073ef55d988391", null ],
-    [ "bits", "d5/d7c/a28550.html#a529f1856635132646457c57f3546f4ec", null ],
-    [ "configKey", "d5/d7c/a28550.html#af14d118016b9e01612769c00f13aa2d6", null ],
-    [ "oldKey", "d5/d7c/a28550.html#a29605b536523f6d022bbac0e12d1d8dc", null ],
-    [ "owner", "d5/d7c/a28550.html#a24aaa1c473c3932c83dd49aad84f8361", null ]
+    [ "Flags", "d5/d7c/a28550.html#a0cb97c73af91dcfdd151c38aa46828cc", null ],
+    [ "Id", "d5/d7c/a28550.html#a85e0e36dbc79f309d7f50b087ebcd166", null ]
 ];

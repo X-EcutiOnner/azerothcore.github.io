@@ -1,6 +1,5 @@
 var a20466 =
 [
-    [ "npc_ulduar_bot_summon_triggerAI", "d5/de7/a20470.html", "d5/de7/a20470" ],
-    [ "npc_ulduar_bot_summon_trigger", "d5/ddd/a20466.html#a7a369b4826c6c2a86704088f5dcf1ce7", null ],
-    [ "GetAI", "d5/ddd/a20466.html#a0d7f74fc910c5adcaaa46a9d2ea10ea3", null ]
+    [ "achievement_i_could_say_that_this_cache_was_rare", "d5/ddd/a20466.html#a8ec1949d92f21fe57f967e510453da3e", null ],
+    [ "OnCheck", "d5/ddd/a20466.html#af68ad314c9b7be57964ca9baa8015bc9", null ]
 ];

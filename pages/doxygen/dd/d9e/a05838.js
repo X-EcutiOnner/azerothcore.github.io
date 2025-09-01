@@ -1,9 +1,10 @@
 var a05838 =
 [
-    [ "SQLQueryHolderTask", "dd/d9e/a05838.html#a017ab0275ea42132bb1e4ece7111572e", null ],
-    [ "~SQLQueryHolderTask", "dd/d9e/a05838.html#a0d1122160565c8f20f9a48390352c770", null ],
-    [ "Execute", "dd/d9e/a05838.html#a1dc2cdfee574ecbb8fd7bc595ca2f170", null ],
-    [ "GetFuture", "dd/d9e/a05838.html#a73199c4e5805933c9f79091797dedc5d", null ],
-    [ "m_holder", "dd/d9e/a05838.html#a64b624b8e77c819f5b47d592edc0979d", null ],
-    [ "m_result", "dd/d9e/a05838.html#ab27ce22bdb505509662d862e92fe7e77", null ]
+    [ "PreparedStatementTask", "dd/d9e/a05838.html#a332f6ddad1ee338da3fa4bd2461a9c29", null ],
+    [ "~PreparedStatementTask", "dd/d9e/a05838.html#a4ca96ab46d5015b2c673164652146886", null ],
+    [ "Execute", "dd/d9e/a05838.html#ad4058410f5eba4f0f935696d38ba85ab", null ],
+    [ "GetFuture", "dd/d9e/a05838.html#a07031e5cff28553e33d98140847b9e0d", null ],
+    [ "m_has_result", "dd/d9e/a05838.html#a7c2841b7638c42caa4e8c1116110f8a3", null ],
+    [ "m_result", "dd/d9e/a05838.html#a841a7aefd9ea58a76cead1da65a786b2", null ],
+    [ "m_stmt", "dd/d9e/a05838.html#aba9082a717729915a4e4d640220a49d2", null ]
 ];

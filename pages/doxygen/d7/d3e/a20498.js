@@ -1,5 +1,7 @@
 var a20498 =
 [
-    [ "npc_ulduar_flames_spreadAI", "d7/d3e/a20498.html#a607ee542f7c6d84f4072557e44a80905", null ],
-    [ "SpellHit", "d7/d3e/a20498.html#abe69df9873fc125306a4ed757665e448", null ]
+    [ "HandleEffectPeriodic", "d7/d3e/a20498.html#a8d2e75ee2869dc135fe83c782ec6e223", null ],
+    [ "PrepareAuraScript", "d7/d3e/a20498.html#a0996c661dbc4e9a4bd35c1368247c7eb", null ],
+    [ "Register", "d7/d3e/a20498.html#aed86a298340cc05fbe2a8a68396423bb", null ],
+    [ "Validate", "d7/d3e/a20498.html#a1c3ecaebf11d1040fde4ce5cb80f315c", null ]
 ];

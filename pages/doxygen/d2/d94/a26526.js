@@ -1,7 +1,6 @@
 var a26526 =
 [
-    [ "HandleScript", "d2/d94/a26526.html#ad22b87be8f47886650d7bf9e98eee495", null ],
-    [ "PrepareSpellScript", "d2/d94/a26526.html#a806f934cd684039425ce3fca037b0e8c", null ],
-    [ "Register", "d2/d94/a26526.html#a9bd3ea5aa5fb16aac87f6097db31e113", null ],
-    [ "Validate", "d2/d94/a26526.html#a96d189c452a969850121323faef1d9c1", null ]
+    [ "HandleScriptEffect", "d2/d94/a26526.html#a703b5a1725e05bfbfccc3b6ee5107d95", null ],
+    [ "PrepareSpellScript", "d2/d94/a26526.html#ab2bb14aac4758dac46aae636ba09e50d", null ],
+    [ "Register", "d2/d94/a26526.html#ae2fca7fde9af90dd7d461c2d046d9783", null ]
 ];

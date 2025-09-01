@@ -1,11 +1,6 @@
 var a11998 =
 [
-    [ "boss_doomrelAI", "d7/d10/a11998.html#a231cc3989d1c575af941a5462ad94cbd", null ],
-    [ "EnterEvadeMode", "d7/d10/a11998.html#ae633f4cc1747f291a3911ca50ee39370", null ],
-    [ "JustEngagedWith", "d7/d10/a11998.html#a622f673548b0a6f1db2a59ef69f31ac7", null ],
-    [ "Reset", "d7/d10/a11998.html#aec30616ad3c84ee4b6dd92f6ac8b4fbc", null ],
-    [ "UpdateAI", "d7/d10/a11998.html#a3d851f7bd5a78858fd228cac78c05f27", null ],
-    [ "_events", "d7/d10/a11998.html#aaf800dd1d20dc8288cad5aa21cd602b0", null ],
-    [ "instance", "d7/d10/a11998.html#aa0fc44bb955e83c2ef7b7373751fc2c2", null ],
-    [ "Voidwalkers", "d7/d10/a11998.html#af29d871a370a534f508f225d49c3dc9f", null ]
+    [ "npc_lokhtos_darkbargainer", "d7/d10/a11998.html#af91685ecf0f63313968b3d82373668d2", null ],
+    [ "OnGossipHello", "d7/d10/a11998.html#a39547487ef7db8a3942556665099893f", null ],
+    [ "OnGossipSelect", "d7/d10/a11998.html#a5a4640678a5669c75b1fa5d787999c02", null ]
 ];

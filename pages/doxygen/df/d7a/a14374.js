@@ -1,13 +1,9 @@
 var a14374 =
 [
-    [ "npc_costumed_orphan_matron", "df/d7a/a14374.html#a0b913090588613ac00ea928f6273d56f", null ],
-    [ "DoAction", "df/d7a/a14374.html#a7a7739f89604ffb5afc6bab75118340e", null ],
-    [ "GetInitXYZ", "df/d7a/a14374.html#a3c6d0e6cecd1c4ef85b3d77c45ef6533", null ],
-    [ "Reset", "df/d7a/a14374.html#a962de50b13079f3337c4e41eb2d98b55", null ],
-    [ "sGossipHello", "df/d7a/a14374.html#a1a9c58c087b8addf8e482375737d6c49", null ],
-    [ "sQuestAccept", "df/d7a/a14374.html#adac5d514261a210a701442da13ba1587", null ],
-    [ "UpdateAI", "df/d7a/a14374.html#a4679d807df8749265ba0453c5b7588f1", null ],
-    [ "allowQuest", "df/d7a/a14374.html#a722f4bfd0fb8b2665ff2b79d3208bc90", null ],
-    [ "eventStarted", "df/d7a/a14374.html#a5292ab4e45fe3a858b3a59ef4a79bb34", null ],
-    [ "horseGUID", "df/d7a/a14374.html#a92cfd09cefd26933ae322f2cc2716927", null ]
+    [ "CheckCast", "df/d7a/a14374.html#a02965b55e8efadbd21e5afdd824f1dec", null ],
+    [ "FilterTargets", "df/d7a/a14374.html#a9638048b4107db116474abf8e18d7760", null ],
+    [ "HandleBeforeHit", "df/d7a/a14374.html#a3567c72e999ad6ca9db15b4d6ddadafb", null ],
+    [ "HandleScriptEffect", "df/d7a/a14374.html#a47d6a6c1fcb2b04782e54d3797c1f42c", null ],
+    [ "PrepareSpellScript", "df/d7a/a14374.html#aab9211291bd9dab8255d94e4eb07bf8e", null ],
+    [ "Register", "df/d7a/a14374.html#a73e6c9c91dccb309207fa3aeb6bd9d6f", null ]
 ];

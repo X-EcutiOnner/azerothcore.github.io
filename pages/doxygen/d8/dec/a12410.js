@@ -1,10 +1,10 @@
 var a12410 =
 [
-    [ "boss_golemaggAI", "d8/dec/a12410.html#a79e2416a55a1531316d891ebff4e5575", null ],
-    [ "DamageTaken", "d8/dec/a12410.html#a5f9191609c7ff0715ba186f8ae28262b", null ],
-    [ "Reset", "d8/dec/a12410.html#aeed4cda9fae3e0b46832ec1bfecb97b0", null ],
-    [ "UpdateAI", "d8/dec/a12410.html#af7b322731241dbb08041a92cd355f273", null ],
-    [ "earthquakeTimer", "d8/dec/a12410.html#a6bfd75b1d57d8002cab075bbd5a12612", null ],
-    [ "enraged", "d8/dec/a12410.html#a52e6d8bcf979d216aff536e8fae3bf01", null ],
-    [ "pyroblastTimer", "d8/dec/a12410.html#a142ededff85d517c08744bdafd644c34", null ]
+    [ "npc_corrupted_totem", "d8/dec/a12410.html#a5e0c58b341fe25a5d682b68e9eee207f", null ],
+    [ "IsSummonedBy", "d8/dec/a12410.html#ae8314903c9006b7bca94a47115a0d05b", null ],
+    [ "JustDied", "d8/dec/a12410.html#aa3c6b1a3df61c9e98c62efadff637578", null ],
+    [ "Reset", "d8/dec/a12410.html#a0bc8df2b8266b7b3a5f40f1ede0e10b4", null ],
+    [ "SetAura", "d8/dec/a12410.html#a509688befda49f789f77ee0e4170a74e", null ],
+    [ "UpdateAI", "d8/dec/a12410.html#ac128625268820d2e9b1f0ef5ead975e9", null ],
+    [ "_auraAdded", "d8/dec/a12410.html#a953cf5af625b9b5a4ab6704d5b1b664c", null ]
 ];

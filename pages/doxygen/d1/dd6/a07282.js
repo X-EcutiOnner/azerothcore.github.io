@@ -1,10 +1,9 @@
 var a07282 =
 [
-    [ "ArenaLogEntryData", "d1/dd6/a07282.html#a8f3ec057dd930d2f2acd7961e0cf4e5e", null ],
-    [ "Fill", "d1/dd6/a07282.html#aa3cca4521431bf152550611549bf4bbe", null ],
-    [ "Acc", "d1/dd6/a07282.html#aa8983930063298c86f4635d2ae3078fe", null ],
-    [ "ArenaTeamId", "d1/dd6/a07282.html#ac764620c3c8a986286fd74062dac4645", null ],
-    [ "Guid", "d1/dd6/a07282.html#a03b32cd44c655dcc9104aead3b76454e", null ],
-    [ "IP", "d1/dd6/a07282.html#ab9f80eacfe24025a2d4947085d3f6dd7", null ],
-    [ "Name", "d1/dd6/a07282.html#a5c18d554adb9e38ab10baf36c9b3fdd7", null ]
+    [ "Rank", "d1/dd6/a07282.html#a9bcd8dc00437bcf015565eeb43263578", null ],
+    [ "Rating", "d1/dd6/a07282.html#ab43875cc3ae58eb636a490c2c0f5c1f6", null ],
+    [ "SeasonGames", "d1/dd6/a07282.html#a124c6d64f22c13707764eedd79fe1912", null ],
+    [ "SeasonWins", "d1/dd6/a07282.html#ad274601b85ea634524b1c00979e09465", null ],
+    [ "WeekGames", "d1/dd6/a07282.html#a1d0092200b2c9428e821473949cfda77", null ],
+    [ "WeekWins", "d1/dd6/a07282.html#a313afef901bd5a9347f2074a7ca1bfe0", null ]
 ];

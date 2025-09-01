@@ -1,7 +1,6 @@
 var a24894 =
 [
-    [ "HandleEffectRemove", "d2/d96/a24894.html#a3d6b6ae0bde8ae51362c95df82604d68", null ],
-    [ "PrepareAuraScript", "d2/d96/a24894.html#aa07b231cc76afb098ac8bc92eb050c80", null ],
-    [ "Register", "d2/d96/a24894.html#aa381143f36a6443dfb1f0d66ce81c351", null ],
-    [ "AuraEffectHandleModes", "d2/d96/a24894.html#a97370dd3f7c3e58a719090176c397386", null ]
+    [ "PrepareAuraScript", "d2/d96/a24894.html#a31bde31b6db4f71ce65c6e1a862df771", null ],
+    [ "Register", "d2/d96/a24894.html#aebe64c4760d13d8afaebcf4a4b1196fa", null ],
+    [ "UpdateAmount", "d2/d96/a24894.html#a621e73a09438f3f9cbaa232125df3b87", null ]
 ];

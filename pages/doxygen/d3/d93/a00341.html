@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/Battlegrounds/ArenaSeason/ArenaSeasonRewardsDistributor.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/common/Collision/Models/WorldModel.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,56 +105,50 @@ $(document).ready(function(){initNavTree('d3/d93/a00341.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#var-members">Variables</a>  </div>
-  <div class="headertitle"><div class="title">ArenaSeasonRewardsDistributor.cpp File Reference</div></div>
+<a href="#nested-classes">Classes</a> &#124;
+<a href="#namespaces">Namespaces</a> &#124;
+<a href="#func-members">Functions</a>  </div>
+  <div class="headertitle"><div class="title">WorldModel.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">ArenaSeasonRewardsDistributor.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">AchievementMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">CharacterDatabase.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Mail.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
-<code>#include &lt;algorithm&gt;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">WorldModel.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">MapTree.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ModelIgnoreFlags.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ModelInstance.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">VMapDefinitions.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
-Variables</h2></td></tr>
-<tr class="memitem:a4d7ce2e01ab25ea6833099b2821b6b5b"><td class="memItemLeft" align="right" valign="top">constexpr float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d93/a00341.html#a4d7ce2e01ab25ea6833099b2821b6b5b">minPctTeamGamesForMemberToGetReward</a> = 30</td></tr>
-<tr class="separator:a4d7ce2e01ab25ea6833099b2821b6b5b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
+Classes</h2></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dbd/a05090.html">BoundsTrait&lt; VMAP::GroupModel &gt;</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d78/a05094.html">VMAP::TriBoundFunc</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dc2/a05098.html">VMAP::GModelRayCallback</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d94/a05102.html">VMAP::WModelRayCallBack</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/ddb/a05106.html">VMAP::WModelAreaCallback</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
+Namespaces</h2></td></tr>
+<tr class="memitem:d5/dc9/a04804"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/dc9/a04804.html">VMAP</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
+Functions</h2></td></tr>
+<tr class="memitem:a4fa75e5ca5211394c63abc7ff28eb741"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/dc9/a04804.html#a4fa75e5ca5211394c63abc7ff28eb741">VMAP::IntersectTriangle</a> (const MeshTriangle &amp;tri, std::vector&lt; Vector3 &gt;::const_iterator points, const G3D::Ray &amp;ray, float &amp;distance)</td></tr>
+<tr class="separator:a4fa75e5ca5211394c63abc7ff28eb741"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Variable Documentation</h2>
-<a id="a4d7ce2e01ab25ea6833099b2821b6b5b" name="a4d7ce2e01ab25ea6833099b2821b6b5b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4d7ce2e01ab25ea6833099b2821b6b5b">&#9670;&#160;</a></span>minPctTeamGamesForMemberToGetReward</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">constexpr float minPctTeamGamesForMemberToGetReward = 30</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">constexpr</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00073">ArenaSeasonTeamRewarderImpl::RewardWithAchievements()</a>, and <a class="el" href="../../#l00033">ArenaSeasonTeamRewarderImpl::RewardWithMail()</a>.</p>
-
-</div>
-</div>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_fc52f0b797d74b4b54bfd04593b84648.html">Battlegrounds</a></li><li class="navelem"><a class="el" href="../../dir_48faa64a6ed131cb5d396ef5deb4a27f.html">ArenaSeason</a></li><li class="navelem"><a class="el" href="../../d3/d93/a00341.html">ArenaSeasonRewardsDistributor.cpp</a></li>
-    <li class="footer">Generated on Mon Aug 25 2025 20:45:16 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1070012e9e40376f8468ff0aa5b77c71.html">common</a></li><li class="navelem"><a class="el" href="../../dir_34825b659a55315b272dfcc55a7a0f6a.html">Collision</a></li><li class="navelem"><a class="el" href="../../dir_4f6dd9407c30513885e39c17576c5e90.html">Models</a></li><li class="navelem"><a class="el" href="../../d3/d93/a00341.html">WorldModel.cpp</a></li>
+    <li class="footer">Generated on Mon Sep 1 2025 20:42:34 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

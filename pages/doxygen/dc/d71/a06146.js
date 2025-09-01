@@ -1,10 +1,12 @@
 var a06146 =
 [
-    [ "RangeSelector", "dc/d71/a06146.html#a4a87b90485180ede638e2c9bd2a7e9ed", null ],
-    [ "operator()", "dc/d71/a06146.html#a917f21b135f402210d21e6bb3f19b9fa", null ],
-    [ "_inLos", "dc/d71/a06146.html#a9dcf455d9db8d32aaebfc46eee36e1b5", null ],
-    [ "_maxDist", "dc/d71/a06146.html#a973ec93b54a839f853101ad5998c10b2", null ],
-    [ "_me", "dc/d71/a06146.html#a72ad35c7de0b5d540be27d9a9d46a1d4", null ],
-    [ "_minDist", "dc/d71/a06146.html#ac1ce7a7a7ad6d033972b449867a1c5bf", null ],
-    [ "_playerOnly", "dc/d71/a06146.html#ac68f7dfefe2e71942a3dfff7026a7ae7", null ]
+    [ "TotemAI", "dc/d71/a06146.html#ad57f973e52d22f45b5171faeb28f2e91", null ],
+    [ "AttackStart", "dc/d71/a06146.html#aa5bb81b51ec79a4328016cca34363880", null ],
+    [ "DoAction", "dc/d71/a06146.html#a9457dae982b3c1d411aa42ff2f30feac", null ],
+    [ "EnterEvadeMode", "dc/d71/a06146.html#acd8ed4528ac7c16182a0470e49b422f6", null ],
+    [ "MoveInLineOfSight", "dc/d71/a06146.html#a796d05b45b4ba4dc23f04897fc2ce253", null ],
+    [ "Permissible", "dc/d71/a06146.html#a75a0cdb27da98b47cf3ccbd2e594cd18", null ],
+    [ "SpellHit", "dc/d71/a06146.html#a7a5fc1dc37708fab628bc78bb28575be", null ],
+    [ "UpdateAI", "dc/d71/a06146.html#a2b5b3c8bb51d83bfa8f3474a868fcb19", null ],
+    [ "i_victimGuid", "dc/d71/a06146.html#ae651f8f7a02261c1a0e37a6c7ddde4be", null ]
 ];

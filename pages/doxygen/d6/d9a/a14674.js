@@ -1,7 +1,7 @@
 var a14674 =
 [
-    [ "hyjalTyrandeAI", "dc/dcc/a14678.html", "dc/dcc/a14678" ],
-    [ "npc_hyjal_tyrande", "d6/d9a/a14674.html#abd2ba500d8e2bbf20c00905012d47d12", null ],
-    [ "GetAI", "d6/d9a/a14674.html#a2f863e616352a98763eef9a717d73388", null ],
-    [ "OnGossipSelect", "d6/d9a/a14674.html#a014a63098e18b08b6f5cd33a0cba2072", null ]
+    [ "HandleDummy", "d6/d9a/a14674.html#a05c3589ee04eed87449f652db065f0e9", null ],
+    [ "PrepareSpellScript", "d6/d9a/a14674.html#afb79a2cf5359e7ec69746cd89d8cd727", null ],
+    [ "Register", "d6/d9a/a14674.html#a51207fcd4f272e120fe1af2ac78c1f80", null ],
+    [ "Validate", "d6/d9a/a14674.html#a5fc6dae87ffb634cc0de389196751b22", null ]
 ];

@@ -1,6 +1,5 @@
 var a27590 =
 [
-    [ "npc_guardianAI", "d5/dad/a27594.html", "d5/dad/a27594" ],
-    [ "npc_guardian", "de/dcf/a27590.html#aa614e73ae6a6c128c323ac275652dbf1", null ],
-    [ "GetAI", "de/dcf/a27590.html#a3e65ccc70be9d25b2d8563c23146ef4f", null ]
+    [ "item_generic_limit_chance_above_60", "de/dcf/a27590.html#abc18809810f0a7668020d01c482be84b", null ],
+    [ "OnCastItemCombatSpell", "de/dcf/a27590.html#aa34809cfd53edb6a77d3fa415a079d72", null ]
 ];

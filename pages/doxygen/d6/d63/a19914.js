@@ -1,6 +1,6 @@
 var a19914 =
 [
-    [ "npc_thorims_hammerAI", "dd/de5/a19918.html", "dd/de5/a19918" ],
-    [ "npc_thorims_hammer", "d6/d63/a19914.html#a97cbcda73931e6119f8ab30fa4bb0806", null ],
-    [ "GetAI", "d6/d63/a19914.html#aaee92d115d112ebf590cf690de8c6667", null ]
+    [ "PrepareSpellScript", "d6/d63/a19914.html#af7426e99a49f8618fc38242ded7132f1", null ],
+    [ "RecalculateDamage", "d6/d63/a19914.html#a94e70b20f2139f668227dccb623c1af6", null ],
+    [ "Register", "d6/d63/a19914.html#acd911f78780e052d88f5f47574092d62", null ]
 ];

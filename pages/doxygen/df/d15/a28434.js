@@ -1,11 +1,6 @@
 var a28434 =
 [
-    [ "addToSpellBook", "df/d15/a28434.html#ad312934d24abcc78c02d50cc5cb5403f", null ],
-    [ "Col", "df/d15/a28434.html#a0bc589c5b1425d5e889cd290b805169e", null ],
-    [ "DependsOn", "df/d15/a28434.html#a7b1aa1384777b8d94dceed3c387bb628", null ],
-    [ "DependsOnRank", "df/d15/a28434.html#a608f232669981da3423b959479ca8683", null ],
-    [ "RankID", "df/d15/a28434.html#a96d0fd120ed3aa7fbd287d104fd87c26", null ],
-    [ "Row", "df/d15/a28434.html#a136b889d2e8875b01fc7aa2be06847ac", null ],
-    [ "TalentID", "df/d15/a28434.html#aa769574106b0e5afdbc7c71c51c3b9a2", null ],
-    [ "TalentTab", "df/d15/a28434.html#acefe6f8c0a5b3893e2a9f828d500df68", null ]
+    [ "Enchantment", "df/d15/a28434.html#a480ab806214bb138d56dfd5e9e43936f", null ],
+    [ "ID", "df/d15/a28434.html#acb673be771124b84dd3fdd5deb300de7", null ],
+    [ "Name", "df/d15/a28434.html#a3ad3a1b693922ff8264d90232abb3e35", null ]
 ];

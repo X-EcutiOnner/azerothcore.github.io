@@ -1,7 +1,8 @@
 var a15358 =
 [
-    [ "HandleEffectRemove", "db/d9f/a15358.html#aa07e0bdaac9cad239bae1b24d16b433c", null ],
-    [ "PrepareAuraScript", "db/d9f/a15358.html#a8ab8433afb22bbca79e028e8f082da2b", null ],
-    [ "Register", "db/d9f/a15358.html#a2ee3afd6fdcb0991e419396ed65e6d4a", null ],
-    [ "AuraEffectHandleModes", "db/d9f/a15358.html#af8a46c99290ce700e765c7ad5e8c866c", null ]
+    [ "boss_veklor", "db/d9f/a15358.html#acbbe1a2e6ffcb00a28f7ae5413cd02c1", null ],
+    [ "AttackStart", "db/d9f/a15358.html#a7ecfff13457bf177c1ec250bbee75cbf", null ],
+    [ "IAmVeklor", "db/d9f/a15358.html#a4c43713c24b5537f292be1e0fcaee703", null ],
+    [ "JustEngagedWith", "db/d9f/a15358.html#a05913da666b1715eac68441195dd9df4", null ],
+    [ "SpellHit", "db/d9f/a15358.html#ab5d9ec12c18e360ce2c8749dd97f2ab0", null ]
 ];

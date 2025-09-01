@@ -1,9 +1,7 @@
 var a22874 =
 [
-    [ "FilterTargets", "d2/d11/a22874.html#aa8f0401dd004e816b8071381289116fa", null ],
-    [ "HandleTeleportUnits", "d2/d11/a22874.html#a4333f10a29ef3e5643f637899a0ab5c5", null ],
-    [ "PrepareSpellScript", "d2/d11/a22874.html#a47898c213cdd125714c80d327bf42d8c", null ],
-    [ "Register", "d2/d11/a22874.html#a6036577cd7b4fbbc55e90e9ab067f13a", null ],
-    [ "SetDest", "d2/d11/a22874.html#a4cf75d96a0d1de62bc989826204b04c9", null ],
-    [ "Validate", "d2/d11/a22874.html#a814083360970284a325621f45e109b5b", null ]
+    [ "HandleProc", "d2/d11/a22874.html#a4d12ab1b286105fdad5eb2dd20131408", null ],
+    [ "PrepareAuraScript", "d2/d11/a22874.html#a94b6499dc2e1fa95a50bd9c3c491e858", null ],
+    [ "Register", "d2/d11/a22874.html#a6b764182501a1d192f90dc20bbd6549e", null ],
+    [ "Validate", "d2/d11/a22874.html#ad89123425cca5bd02a18526a11595a1a", null ]
 ];

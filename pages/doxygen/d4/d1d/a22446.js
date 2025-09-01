@@ -1,6 +1,8 @@
 var a22446 =
 [
-    [ "npc_captured_rageclawAI", "d4/d1d/a22446.html#a5bb483a323330b0895f87c5381d73314", null ],
-    [ "Reset", "d4/d1d/a22446.html#a9cde0a0e5015334ec8dcd277fcd99dc3", null ],
-    [ "SpellHit", "d4/d1d/a22446.html#a2c63911d27435a2271a7c89d9d88318c", null ]
+    [ "AfterRemove", "d4/d1d/a22446.html#a06fd72c7754f34dbc62a99a9ed839302", null ],
+    [ "HandlePeriodic", "d4/d1d/a22446.html#a5aaadeed42e6a3cf1e2216a13c2d3ff9", null ],
+    [ "OnApply", "d4/d1d/a22446.html#a6617555d302923e5e95e7b1c6d8d74d6", null ],
+    [ "PrepareAuraScript", "d4/d1d/a22446.html#a47a6281c42dc9368357cc86912331c77", null ],
+    [ "Register", "d4/d1d/a22446.html#a868c79cda98b97b27b74d46f86cb980a", null ]
 ];

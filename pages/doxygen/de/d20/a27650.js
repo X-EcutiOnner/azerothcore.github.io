@@ -1,6 +1,19 @@
 var a27650 =
 [
-    [ "npc_stable_masterAI", "d7/d57/a27654.html", "d7/d57/a27654" ],
-    [ "npc_stable_master", "de/d20/a27650.html#ad327340f47e10bec7f077192227b0899", null ],
-    [ "GetAI", "de/d20/a27650.html#a7e34e18d2dad465eb88b0388fa830490", null ]
+    [ "npc_simoneAI", "de/d20/a27650.html#ab33ec5a76f35bfd088a3d316df5c091c", null ],
+    [ "CorpseRemoved", "de/d20/a27650.html#a0bc792b39b9d17a71c86756d2c7b9af0", null ],
+    [ "HandlePetRespawn", "de/d20/a27650.html#a0d07b3f85a99ce3c0a1d4c482547113f", null ],
+    [ "JustDied", "de/d20/a27650.html#a1c275b32a6d4730657e26e5a9c305eb6", null ],
+    [ "JustEngagedWith", "de/d20/a27650.html#a17cad19f460d6cbfe2258ada48de46cd", null ],
+    [ "JustRespawned", "de/d20/a27650.html#af456d04fec4a22fa6662ab5a0ccb902b", null ],
+    [ "Precious", "de/d20/a27650.html#ad40c5f293558ca5a00614810a89d86c9", null ],
+    [ "PreciousAI", "de/d20/a27650.html#acbdf0e5404402edf28fecf8657303aba", null ],
+    [ "Reset", "de/d20/a27650.html#a1a62a843922448390151ed14e0ca2148", null ],
+    [ "RespawnPet", "de/d20/a27650.html#af6d0cad159d88862e915c9f9337a49e3", null ],
+    [ "ScheduleEncounterStart", "de/d20/a27650.html#ab879f0b452e511212be4df530b11d461", null ],
+    [ "SetPreciousGUID", "de/d20/a27650.html#a1b735e7c99ba743c74c10911ec08f12b", null ],
+    [ "SpellHit", "de/d20/a27650.html#ad50d1248c8a608c52d18ddb9d28168d9", null ],
+    [ "UpdateAI", "de/d20/a27650.html#ae20237221e1fb3699cfe723c48d5bbf7", null ],
+    [ "events", "de/d20/a27650.html#a1118fe0b8375db5327a9651a13832523", null ],
+    [ "preciousGUID", "de/d20/a27650.html#a698a3015b5ad25dfd9ec07dfbb991ea8", null ]
 ];

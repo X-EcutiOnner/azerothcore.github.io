@@ -1,6 +1,6 @@
 var a21182 =
 [
-    [ "boss_svalaAI", "d9/dd0/a21186.html", "d9/dd0/a21186" ],
-    [ "boss_svala", "dc/d68/a21182.html#a7ac5866eb6a013cb03f3d459b13b4a62", null ],
-    [ "GetAI", "dc/d68/a21182.html#a0c3b94635eca667a28496cf799efad25", null ]
+    [ "achievement_yogg_saron_he_waits_dreaming", "dc/d68/a21182.html#a25f4950d1ccffe77aa9cf5de7a14ea37", null ],
+    [ "OnCheck", "dc/d68/a21182.html#a7ef7dfb0235fb2db5932e7415e3e6f61", null ],
+    [ "_requiredIllusion", "dc/d68/a21182.html#aa3e107cb3be6fa02687709e07466a094", null ]
 ];

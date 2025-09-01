@@ -1,10 +1,5 @@
 var a08046 =
 [
-    [ "auras", "d3/d76/a08046.html#a20695ff7997e1ebd6fe898a8b41aeddb", null ],
-    [ "bytes1", "d3/d76/a08046.html#ae337bd59e1e1eb7f4c9cdee4e8c6a7b9", null ],
-    [ "bytes2", "d3/d76/a08046.html#aedf06568867bbb5db5ca8017727dab9d", null ],
-    [ "emote", "d3/d76/a08046.html#a82f7be10807af7b25dd41c643be066fc", null ],
-    [ "mount", "d3/d76/a08046.html#a4d84276a45de1b62e507ac5c763dce3a", null ],
-    [ "path_id", "d3/d76/a08046.html#aa86bac734e0e652b6bb4ea273cf62571", null ],
-    [ "visibilityDistanceType", "d3/d76/a08046.html#ad3ae39b8c5be151e15ab6f1494943bc3", null ]
+    [ "Name", "d3/d76/a08046.html#aa971d38e5169f2b7b610cf6cf0aec928", null ],
+    [ "Title", "d3/d76/a08046.html#a344cbaef4846d4c9c76e1d783dd2b4fc", null ]
 ];

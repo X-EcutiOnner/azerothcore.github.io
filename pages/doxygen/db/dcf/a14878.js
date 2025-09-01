@@ -1,6 +1,6 @@
 var a14878 =
 [
-    [ "instance_maraudon_InstanceMapScript", "d3/d88/a14882.html", "d3/d88/a14882" ],
-    [ "instance_maraudon", "db/dcf/a14878.html#aaae11d2569d04b42840b101a5702cf24", null ],
-    [ "GetInstanceScript", "db/dcf/a14878.html#ac4f5c7c3ee755226449c96b3e351f12d", null ]
+    [ "boss_epochAI", "d3/d88/a14882.html", "d3/d88/a14882" ],
+    [ "boss_epoch", "db/dcf/a14878.html#a78b7d775bc3fc44496e41c58f2ed534d", null ],
+    [ "GetAI", "db/dcf/a14878.html#a2673a4fb8c70d62009dfdc6daf23aee2", null ]
 ];

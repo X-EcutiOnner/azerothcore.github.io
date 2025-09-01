@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: SpellImmune Struct Reference</title>
+<title>AzerothCore: WorldSessionMgr Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,33 +105,151 @@ $(document).ready(function(){initNavTree('df/d70/a11154.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
+<a href="#pub-types">Public Types</a> &#124;
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pub-attribs">Public Attributes</a> &#124;
+<a href="#pub-static-methods">Static Public Member Functions</a> &#124;
+<a href="#pri-types">Private Types</a> &#124;
+<a href="#pri-methods">Private Member Functions</a> &#124;
+<a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="../../d1/dfb/a11151.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">SpellImmune Struct Reference</div></div>
+  <div class="headertitle"><div class="title">WorldSessionMgr Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">SpellDefines.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">WorldSessionMgr.h</a>&quot;</code></p>
 <table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-types" name="pub-types"></a>
+Public Types</h2></td></tr>
+<tr class="memitem:aff543987bdf9b5d8c293ddfa393d3c7b"><td class="memItemLeft" align="right" valign="top">typedef std::unordered_map&lt; <a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d2/d4b/a11146.html">WorldSession</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d70/a11154.html#aff543987bdf9b5d8c293ddfa393d3c7b">SessionMap</a></td></tr>
+<tr class="separator:aff543987bdf9b5d8c293ddfa393d3c7b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a70ebcde656db6c4d7c21fb03af44978a"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d70/a11154.html#a70ebcde656db6c4d7c21fb03af44978a">SpellImmune</a> ()</td></tr>
-<tr class="separator:a70ebcde656db6c4d7c21fb03af44978a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a85c2dd65c6d2f0369fbc29508995eb69"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d70/a11154.html#a85c2dd65c6d2f0369fbc29508995eb69">WorldSessionMgr</a> ()</td></tr>
+<tr class="separator:a85c2dd65c6d2f0369fbc29508995eb69"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7deeac6b61bc32b648588c428b867eae"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d70/a11154.html#a7deeac6b61bc32b648588c428b867eae">~WorldSessionMgr</a> ()</td></tr>
+<tr class="separator:a7deeac6b61bc32b648588c428b867eae"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a226d982be39b7a55bce04d91e5860002"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/d4b/a11146.html">WorldSession</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d70/a11154.html#a226d982be39b7a55bce04d91e5860002">FindSession</a> (<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> id) const</td></tr>
+<tr class="memdesc:a226d982be39b7a55bce04d91e5860002"><td class="mdescLeft">&#160;</td><td class="mdescRight">Find a session by its id.  <a href="../../df/d70/a11154.html#a226d982be39b7a55bce04d91e5860002">More...</a><br /></td></tr>
+<tr class="separator:a226d982be39b7a55bce04d91e5860002"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a76271af20d3baa02ce23195b7d2b11a6"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/d4b/a11146.html">WorldSession</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d70/a11154.html#a76271af20d3baa02ce23195b7d2b11a6">FindOfflineSession</a> (<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> id) const</td></tr>
+<tr class="separator:a76271af20d3baa02ce23195b7d2b11a6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ace35cfc22e857bb204ffa929f985e2a2"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/d4b/a11146.html">WorldSession</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d70/a11154.html#ace35cfc22e857bb204ffa929f985e2a2">FindOfflineSessionForCharacterGUID</a> (<a class="el" href="../../d4/dea/a08430.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a> guidLow) const</td></tr>
+<tr class="separator:ace35cfc22e857bb204ffa929f985e2a2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6234855de299f067b0b61e690f532835"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d70/a11154.html#a6234855de299f067b0b61e690f532835">UpdateSessions</a> (<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> const diff)</td></tr>
+<tr class="separator:a6234855de299f067b0b61e690f532835"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a152ef062ca6e1ddc2599588c4cd33b41"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d70/a11154.html#a152ef062ca6e1ddc2599588c4cd33b41">KickSession</a> (<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> id)</td></tr>
+<tr class="memdesc:a152ef062ca6e1ddc2599588c4cd33b41"><td class="mdescLeft">&#160;</td><td class="mdescRight">Remove a given session.  <a href="../../df/d70/a11154.html#a152ef062ca6e1ddc2599588c4cd33b41">More...</a><br /></td></tr>
+<tr class="separator:a152ef062ca6e1ddc2599588c4cd33b41"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a617366da53f314122ea8344fd5515ec2"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d70/a11154.html#a617366da53f314122ea8344fd5515ec2">KickAll</a> ()</td></tr>
+<tr class="memdesc:a617366da53f314122ea8344fd5515ec2"><td class="mdescLeft">&#160;</td><td class="mdescRight">Kick (and save) all players.  <a href="../../df/d70/a11154.html#a617366da53f314122ea8344fd5515ec2">More...</a><br /></td></tr>
+<tr class="separator:a617366da53f314122ea8344fd5515ec2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1e46b0caf50047514c40645f886d50bf"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d70/a11154.html#a1e46b0caf50047514c40645f886d50bf">KickAllLess</a> (<a class="el" href="../../db/dbc/a00395.html#adaa1cabfe05f8df3c272bdcfd89cdac7">AccountTypes</a> sec)</td></tr>
+<tr class="memdesc:a1e46b0caf50047514c40645f886d50bf"><td class="mdescLeft">&#160;</td><td class="mdescRight">Kick (and save) all players with security level less <code>sec</code>  <a href="../../df/d70/a11154.html#a1e46b0caf50047514c40645f886d50bf">More...</a><br /></td></tr>
+<tr class="separator:a1e46b0caf50047514c40645f886d50bf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1b3ff90bb664dd3f9c102c4b548fbacb"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d70/a11154.html#a1b3ff90bb664dd3f9c102c4b548fbacb">AddSession</a> (<a class="el" href="../../d2/d4b/a11146.html">WorldSession</a> *session)</td></tr>
+<tr class="separator:a1b3ff90bb664dd3f9c102c4b548fbacb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab53abc7759de051e8ae5758b15f0b394"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d70/a11154.html#ab53abc7759de051e8ae5758b15f0b394">AddQueuedPlayer</a> (<a class="el" href="../../d2/d4b/a11146.html">WorldSession</a> *session)</td></tr>
+<tr class="separator:ab53abc7759de051e8ae5758b15f0b394"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae05a416541dc5ef3e0611a835d19e70a"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d70/a11154.html#ae05a416541dc5ef3e0611a835d19e70a">RemoveQueuedPlayer</a> (<a class="el" href="../../d2/d4b/a11146.html">WorldSession</a> *session)</td></tr>
+<tr class="separator:ae05a416541dc5ef3e0611a835d19e70a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:add68fe299373743ca2b1f50530939d6d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d70/a11154.html#add68fe299373743ca2b1f50530939d6d">GetQueuePos</a> (<a class="el" href="../../d2/d4b/a11146.html">WorldSession</a> *session)</td></tr>
+<tr class="separator:add68fe299373743ca2b1f50530939d6d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9e79fc57bd7c3da2c7afd70510caf3e9"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d70/a11154.html#a9e79fc57bd7c3da2c7afd70510caf3e9">HasRecentlyDisconnected</a> (<a class="el" href="../../d2/d4b/a11146.html">WorldSession</a> *session)</td></tr>
+<tr class="separator:a9e79fc57bd7c3da2c7afd70510caf3e9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8343ab20c6ae724a86c724d25d2fb87a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../df/d70/a11154.html#aff543987bdf9b5d8c293ddfa393d3c7b">SessionMap</a> const &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d70/a11154.html#a8343ab20c6ae724a86c724d25d2fb87a">GetAllSessions</a> () const</td></tr>
+<tr class="separator:a8343ab20c6ae724a86c724d25d2fb87a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4d5f21e27d14a2dee1ff4e48bdb7b341"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d70/a11154.html#a4d5f21e27d14a2dee1ff4e48bdb7b341">UpdateMaxSessionCounters</a> ()</td></tr>
+<tr class="memdesc:a4d5f21e27d14a2dee1ff4e48bdb7b341"><td class="mdescLeft">&#160;</td><td class="mdescRight">Get the number of current active sessions.  <a href="../../df/d70/a11154.html#a4d5f21e27d14a2dee1ff4e48bdb7b341">More...</a><br /></td></tr>
+<tr class="separator:a4d5f21e27d14a2dee1ff4e48bdb7b341"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa602b4bb999b7ce347c1169f50e6aafe"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d70/a11154.html#aa602b4bb999b7ce347c1169f50e6aafe">GetActiveAndQueuedSessionCount</a> () const</td></tr>
+<tr class="separator:aa602b4bb999b7ce347c1169f50e6aafe"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a41014381cb82fede01329f472f6352d2"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d70/a11154.html#a41014381cb82fede01329f472f6352d2">GetActiveSessionCount</a> () const</td></tr>
+<tr class="separator:a41014381cb82fede01329f472f6352d2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aff17c7a73420146c5a0cfe6a05e9339d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d70/a11154.html#aff17c7a73420146c5a0cfe6a05e9339d">GetQueuedSessionCount</a> () const</td></tr>
+<tr class="separator:aff17c7a73420146c5a0cfe6a05e9339d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad3fff5792a80dad203969742016922aa"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d70/a11154.html#ad3fff5792a80dad203969742016922aa">GetMaxQueuedSessionCount</a> () const</td></tr>
+<tr class="memdesc:ad3fff5792a80dad203969742016922aa"><td class="mdescLeft">&#160;</td><td class="mdescRight">Get the maximum number of parallel sessions on the server since last reboot.  <a href="../../df/d70/a11154.html#ad3fff5792a80dad203969742016922aa">More...</a><br /></td></tr>
+<tr class="separator:ad3fff5792a80dad203969742016922aa"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3c09bdad053d7d9b9d76f7ccf31d975d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d70/a11154.html#a3c09bdad053d7d9b9d76f7ccf31d975d">GetMaxActiveSessionCount</a> () const</td></tr>
+<tr class="separator:a3c09bdad053d7d9b9d76f7ccf31d975d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7def4e4cba23388ccf7b76ff4e30ff88"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d70/a11154.html#a7def4e4cba23388ccf7b76ff4e30ff88">GetPlayerCount</a> () const</td></tr>
+<tr class="memdesc:a7def4e4cba23388ccf7b76ff4e30ff88"><td class="mdescLeft">&#160;</td><td class="mdescRight">Get number of players.  <a href="../../df/d70/a11154.html#a7def4e4cba23388ccf7b76ff4e30ff88">More...</a><br /></td></tr>
+<tr class="separator:a7def4e4cba23388ccf7b76ff4e30ff88"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae70975cbfbfa31a91ef819b76d1ff6c6"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d70/a11154.html#ae70975cbfbfa31a91ef819b76d1ff6c6">GetMaxPlayerCount</a> () const</td></tr>
+<tr class="separator:ae70975cbfbfa31a91ef819b76d1ff6c6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a773b78393737216b3e8cbb506f5335ca"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d70/a11154.html#a773b78393737216b3e8cbb506f5335ca">SetPlayerAmountLimit</a> (<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> limit)</td></tr>
+<tr class="memdesc:a773b78393737216b3e8cbb506f5335ca"><td class="mdescLeft">&#160;</td><td class="mdescRight">Active session server limit.  <a href="../../df/d70/a11154.html#a773b78393737216b3e8cbb506f5335ca">More...</a><br /></td></tr>
+<tr class="separator:a773b78393737216b3e8cbb506f5335ca"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a558c19c8ac800961d0d734c22f34700a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d70/a11154.html#a558c19c8ac800961d0d734c22f34700a">GetPlayerAmountLimit</a> () const</td></tr>
+<tr class="separator:a558c19c8ac800961d0d734c22f34700a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1d527b57e3536f9e8d190c3374c56ab6"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d70/a11154.html#a1d527b57e3536f9e8d190c3374c56ab6">IncreasePlayerCount</a> ()</td></tr>
+<tr class="memdesc:a1d527b57e3536f9e8d190c3374c56ab6"><td class="mdescLeft">&#160;</td><td class="mdescRight">Increase/Decrease number of players.  <a href="../../df/d70/a11154.html#a1d527b57e3536f9e8d190c3374c56ab6">More...</a><br /></td></tr>
+<tr class="separator:a1d527b57e3536f9e8d190c3374c56ab6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae0034ece158518da1918dc4331673524"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d70/a11154.html#ae0034ece158518da1918dc4331673524">DecreasePlayerCount</a> ()</td></tr>
+<tr class="separator:ae0034ece158518da1918dc4331673524"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af32e97573c3742b0e922a6537d9c56ac"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d70/a11154.html#af32e97573c3742b0e922a6537d9c56ac">SendGlobalMessage</a> (<a class="el" href="../../d3/ddb/a11102.html">WorldPacket</a> const *packet, <a class="el" href="../../d2/d4b/a11146.html">WorldSession</a> *self=nullptr, <a class="el" href="../../dc/d43/a04727.html#abfb349736a7699bdfcdb134035ef7865">TeamId</a> teamId=<a class="el" href="../../dc/d43/a04727.html#abfb349736a7699bdfcdb134035ef7865a1d009932a5dde84d818f627cfcfe3fe5">TEAM_NEUTRAL</a>)</td></tr>
+<tr class="memdesc:af32e97573c3742b0e922a6537d9c56ac"><td class="mdescLeft">&#160;</td><td class="mdescRight">Send a packet to all players (except self if mentioned)  <a href="../../df/d70/a11154.html#af32e97573c3742b0e922a6537d9c56ac">More...</a><br /></td></tr>
+<tr class="separator:af32e97573c3742b0e922a6537d9c56ac"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a56fc77b52d3340a3e3432254f5274bfb"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d70/a11154.html#a56fc77b52d3340a3e3432254f5274bfb">SendGlobalGMMessage</a> (<a class="el" href="../../d3/ddb/a11102.html">WorldPacket</a> const *packet, <a class="el" href="../../d2/d4b/a11146.html">WorldSession</a> *self=nullptr, <a class="el" href="../../dc/d43/a04727.html#abfb349736a7699bdfcdb134035ef7865">TeamId</a> teamId=<a class="el" href="../../dc/d43/a04727.html#abfb349736a7699bdfcdb134035ef7865a1d009932a5dde84d818f627cfcfe3fe5">TEAM_NEUTRAL</a>)</td></tr>
+<tr class="memdesc:a56fc77b52d3340a3e3432254f5274bfb"><td class="mdescLeft">&#160;</td><td class="mdescRight">Send a packet to all GMs (except self if mentioned)  <a href="../../df/d70/a11154.html#a56fc77b52d3340a3e3432254f5274bfb">More...</a><br /></td></tr>
+<tr class="separator:a56fc77b52d3340a3e3432254f5274bfb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a574d4b97f8877466c5acc97a3b0439fb"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d70/a11154.html#a574d4b97f8877466c5acc97a3b0439fb">SendZoneMessage</a> (<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> zone, <a class="el" href="../../d3/ddb/a11102.html">WorldPacket</a> const *packet, <a class="el" href="../../d2/d4b/a11146.html">WorldSession</a> *self=nullptr, <a class="el" href="../../dc/d43/a04727.html#abfb349736a7699bdfcdb134035ef7865">TeamId</a> teamId=<a class="el" href="../../dc/d43/a04727.html#abfb349736a7699bdfcdb134035ef7865a1d009932a5dde84d818f627cfcfe3fe5">TEAM_NEUTRAL</a>)</td></tr>
+<tr class="memdesc:a574d4b97f8877466c5acc97a3b0439fb"><td class="mdescLeft">&#160;</td><td class="mdescRight">Send a packet to all players (or players selected team) in the zone (except self if mentioned)  <a href="../../df/d70/a11154.html#a574d4b97f8877466c5acc97a3b0439fb">More...</a><br /></td></tr>
+<tr class="separator:a574d4b97f8877466c5acc97a3b0439fb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af5e5c30b13c4f4b66fcdcb3d6c57f0e4"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d70/a11154.html#af5e5c30b13c4f4b66fcdcb3d6c57f0e4">SendZoneText</a> (<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> zone, std::string text, <a class="el" href="../../d2/d4b/a11146.html">WorldSession</a> *self=nullptr, <a class="el" href="../../dc/d43/a04727.html#abfb349736a7699bdfcdb134035ef7865">TeamId</a> teamId=<a class="el" href="../../dc/d43/a04727.html#abfb349736a7699bdfcdb134035ef7865a1d009932a5dde84d818f627cfcfe3fe5">TEAM_NEUTRAL</a>)</td></tr>
+<tr class="memdesc:af5e5c30b13c4f4b66fcdcb3d6c57f0e4"><td class="mdescLeft">&#160;</td><td class="mdescRight">Send a System Message to all players in the zone (except self if mentioned)  <a href="../../df/d70/a11154.html#af5e5c30b13c4f4b66fcdcb3d6c57f0e4">More...</a><br /></td></tr>
+<tr class="separator:af5e5c30b13c4f4b66fcdcb3d6c57f0e4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9bca1ddebb09c5fdba4d8dd70076a6ba"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d70/a11154.html#a9bca1ddebb09c5fdba4d8dd70076a6ba">SendServerMessage</a> (<a class="el" href="../../d4/db9/a02918.html#a08e6f7cfaf7929274a1908b0e95c798f">ServerMessageType</a> messageID, std::string stringParam=&quot;&quot;, <a class="el" href="../../d4/d95/a08630.html">Player</a> *player=nullptr)</td></tr>
+<tr class="memdesc:a9bca1ddebb09c5fdba4d8dd70076a6ba"><td class="mdescLeft">&#160;</td><td class="mdescRight">Send a server message to the user(s)  <a href="../../df/d70/a11154.html#a9bca1ddebb09c5fdba4d8dd70076a6ba">More...</a><br /></td></tr>
+<tr class="separator:a9bca1ddebb09c5fdba4d8dd70076a6ba"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae1a848609e9a3f36f1ed86f479e4cf48"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d70/a11154.html#ae1a848609e9a3f36f1ed86f479e4cf48">DoForAllOnlinePlayers</a> (std::function&lt; void(<a class="el" href="../../d4/d95/a08630.html">Player</a> *)&gt; exec)</td></tr>
+<tr class="separator:ae1a848609e9a3f36f1ed86f479e4cf48"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
-Public Attributes</h2></td></tr>
-<tr class="memitem:a6aeb1bebf2f079424ebfa5192c568adc"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d70/a11154.html#a6aeb1bebf2f079424ebfa5192c568adc">spellId</a></td></tr>
-<tr class="separator:a6aeb1bebf2f079424ebfa5192c568adc"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae1a414f35b2cce61cd4f5640c761f7ea"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d70/a11154.html#ae1a414f35b2cce61cd4f5640c761f7ea">type</a></td></tr>
-<tr class="separator:ae1a414f35b2cce61cd4f5640c761f7ea"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a13a353d02a7330820df170eb46e7a26d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d70/a11154.html#a13a353d02a7330820df170eb46e7a26d">blockType</a></td></tr>
-<tr class="separator:a13a353d02a7330820df170eb46e7a26d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
+Static Public Member Functions</h2></td></tr>
+<tr class="memitem:a049528a26adeba22e833920d30112833"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../df/d70/a11154.html">WorldSessionMgr</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d70/a11154.html#a049528a26adeba22e833920d30112833">Instance</a> ()</td></tr>
+<tr class="separator:a049528a26adeba22e833920d30112833"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-types" name="pri-types"></a>
+Private Types</h2></td></tr>
+<tr class="memitem:a87b26d470986090c226cc144c5f6af36"><td class="memItemLeft" align="right" valign="top">typedef std::unordered_map&lt; <a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, time_t &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d70/a11154.html#a87b26d470986090c226cc144c5f6af36">DisconnectMap</a></td></tr>
+<tr class="separator:a87b26d470986090c226cc144c5f6af36"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a79a045523b1d345710b7779264386464"><td class="memItemLeft" align="right" valign="top">typedef std::list&lt; <a class="el" href="../../d2/d4b/a11146.html">WorldSession</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d70/a11154.html#a79a045523b1d345710b7779264386464">Queue</a></td></tr>
+<tr class="separator:a79a045523b1d345710b7779264386464"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-methods" name="pri-methods"></a>
+Private Member Functions</h2></td></tr>
+<tr class="memitem:a1396aef667415727714f25c68ca33d65"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d70/a11154.html#a1396aef667415727714f25c68ca33d65">AddSession_</a> (<a class="el" href="../../d2/d4b/a11146.html">WorldSession</a> *session)</td></tr>
+<tr class="separator:a1396aef667415727714f25c68ca33d65"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
+Private Attributes</h2></td></tr>
+<tr class="memitem:acf06a5c5685db9b266d9323bb915d4aa"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d61/a05402.html">LockedQueue</a>&lt; <a class="el" href="../../d2/d4b/a11146.html">WorldSession</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d70/a11154.html#acf06a5c5685db9b266d9323bb915d4aa">_addSessQueue</a></td></tr>
+<tr class="separator:acf06a5c5685db9b266d9323bb915d4aa"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1c9c41702c6a4261c3e5fd2663f151d0"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../df/d70/a11154.html#aff543987bdf9b5d8c293ddfa393d3c7b">SessionMap</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d70/a11154.html#a1c9c41702c6a4261c3e5fd2663f151d0">_sessions</a></td></tr>
+<tr class="separator:a1c9c41702c6a4261c3e5fd2663f151d0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a385de87355e09051dff5aed1350d63ac"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../df/d70/a11154.html#aff543987bdf9b5d8c293ddfa393d3c7b">SessionMap</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d70/a11154.html#a385de87355e09051dff5aed1350d63ac">_offlineSessions</a></td></tr>
+<tr class="separator:a385de87355e09051dff5aed1350d63ac"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4dc377ec8326db07146d0521d0c0907d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../df/d70/a11154.html#a87b26d470986090c226cc144c5f6af36">DisconnectMap</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d70/a11154.html#a4dc377ec8326db07146d0521d0c0907d">_disconnects</a></td></tr>
+<tr class="separator:a4dc377ec8326db07146d0521d0c0907d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aceb362636b5fe7b4061d5870de4558cc"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../df/d70/a11154.html#a79a045523b1d345710b7779264386464">Queue</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d70/a11154.html#aceb362636b5fe7b4061d5870de4558cc">_queuedPlayer</a></td></tr>
+<tr class="separator:aceb362636b5fe7b4061d5870de4558cc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5014fbe3488ab42044035ba51c22a9ce"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d70/a11154.html#a5014fbe3488ab42044035ba51c22a9ce">_playerLimit</a></td></tr>
+<tr class="separator:a5014fbe3488ab42044035ba51c22a9ce"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a564d19d48fb433cc9a85c1434d6ecf81"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d70/a11154.html#a564d19d48fb433cc9a85c1434d6ecf81">_maxActiveSessionCount</a></td></tr>
+<tr class="separator:a564d19d48fb433cc9a85c1434d6ecf81"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a63bcf9b4f2625b466c276fae8d5593cc"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d70/a11154.html#a63bcf9b4f2625b466c276fae8d5593cc">_maxQueuedSessionCount</a></td></tr>
+<tr class="separator:a63bcf9b4f2625b466c276fae8d5593cc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aca405a0eb8b98eabf38a5f7b10cd0177"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d70/a11154.html#aca405a0eb8b98eabf38a5f7b10cd0177">_playerCount</a></td></tr>
+<tr class="separator:aca405a0eb8b98eabf38a5f7b10cd0177"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ade1bd1d26fcddc04c84eb5254d431eb0"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d70/a11154.html#ade1bd1d26fcddc04c84eb5254d431eb0">_maxPlayerCount</a></td></tr>
+<tr class="separator:ade1bd1d26fcddc04c84eb5254d431eb0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a70ebcde656db6c4d7c21fb03af44978a" name="a70ebcde656db6c4d7c21fb03af44978a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a70ebcde656db6c4d7c21fb03af44978a">&#9670;&#160;</a></span>SpellImmune()</h2>
+<div class="textblock"></div><h2 class="groupheader">Member Typedef Documentation</h2>
+<a id="a87b26d470986090c226cc144c5f6af36" name="a87b26d470986090c226cc144c5f6af36"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a87b26d470986090c226cc144c5f6af36">&#9670;&#160;</a></span>DisconnectMap</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -140,7 +258,306 @@ Public Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">SpellImmune::SpellImmune </td>
+          <td class="memname">typedef std::unordered_map&lt;<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, time_t&gt; <a class="el" href="../../df/d70/a11154.html#a87b26d470986090c226cc144c5f6af36">WorldSessionMgr::DisconnectMap</a></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a79a045523b1d345710b7779264386464" name="a79a045523b1d345710b7779264386464"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a79a045523b1d345710b7779264386464">&#9670;&#160;</a></span>Queue</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">typedef std::list&lt;<a class="el" href="../../d2/d4b/a11146.html">WorldSession</a>*&gt; <a class="el" href="../../df/d70/a11154.html#a79a045523b1d345710b7779264386464">WorldSessionMgr::Queue</a></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="aff543987bdf9b5d8c293ddfa393d3c7b" name="aff543987bdf9b5d8c293ddfa393d3c7b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aff543987bdf9b5d8c293ddfa393d3c7b">&#9670;&#160;</a></span>SessionMap</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">typedef std::unordered_map&lt;<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d2/d4b/a11146.html">WorldSession</a>*&gt; <a class="el" href="../../df/d70/a11154.html#aff543987bdf9b5d8c293ddfa393d3c7b">WorldSessionMgr::SessionMap</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="a85c2dd65c6d2f0369fbc29508995eb69" name="a85c2dd65c6d2f0369fbc29508995eb69"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a85c2dd65c6d2f0369fbc29508995eb69">&#9670;&#160;</a></span>WorldSessionMgr()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">WorldSessionMgr::WorldSessionMgr </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   34</span>{</div>
+<div class="line"><span class="lineno">   35</span>    <a class="code hl_variable" href="../../df/d70/a11154.html#a5014fbe3488ab42044035ba51c22a9ce">_playerLimit</a> = 0;</div>
+<div class="line"><span class="lineno">   36</span>    <a class="code hl_variable" href="../../df/d70/a11154.html#a564d19d48fb433cc9a85c1434d6ecf81">_maxActiveSessionCount</a> = 0;</div>
+<div class="line"><span class="lineno">   37</span>    <a class="code hl_variable" href="../../df/d70/a11154.html#a63bcf9b4f2625b466c276fae8d5593cc">_maxQueuedSessionCount</a> = 0;</div>
+<div class="line"><span class="lineno">   38</span>    <a class="code hl_variable" href="../../df/d70/a11154.html#aca405a0eb8b98eabf38a5f7b10cd0177">_playerCount</a> = 0;</div>
+<div class="line"><span class="lineno">   39</span>    <a class="code hl_variable" href="../../df/d70/a11154.html#ade1bd1d26fcddc04c84eb5254d431eb0">_maxPlayerCount</a> = 0;</div>
+<div class="line"><span class="lineno">   40</span>}</div>
+<div class="ttc" id="aa11154_html_a5014fbe3488ab42044035ba51c22a9ce"><div class="ttname"><a href="../../df/d70/a11154.html#a5014fbe3488ab42044035ba51c22a9ce">WorldSessionMgr::_playerLimit</a></div><div class="ttdeci">uint32 _playerLimit</div><div class="ttdef"><b>Definition:</b> WorldSessionMgr.h:103</div></div>
+<div class="ttc" id="aa11154_html_a564d19d48fb433cc9a85c1434d6ecf81"><div class="ttname"><a href="../../df/d70/a11154.html#a564d19d48fb433cc9a85c1434d6ecf81">WorldSessionMgr::_maxActiveSessionCount</a></div><div class="ttdeci">uint32 _maxActiveSessionCount</div><div class="ttdef"><b>Definition:</b> WorldSessionMgr.h:104</div></div>
+<div class="ttc" id="aa11154_html_a63bcf9b4f2625b466c276fae8d5593cc"><div class="ttname"><a href="../../df/d70/a11154.html#a63bcf9b4f2625b466c276fae8d5593cc">WorldSessionMgr::_maxQueuedSessionCount</a></div><div class="ttdeci">uint32 _maxQueuedSessionCount</div><div class="ttdef"><b>Definition:</b> WorldSessionMgr.h:105</div></div>
+<div class="ttc" id="aa11154_html_aca405a0eb8b98eabf38a5f7b10cd0177"><div class="ttname"><a href="../../df/d70/a11154.html#aca405a0eb8b98eabf38a5f7b10cd0177">WorldSessionMgr::_playerCount</a></div><div class="ttdeci">uint32 _playerCount</div><div class="ttdef"><b>Definition:</b> WorldSessionMgr.h:106</div></div>
+<div class="ttc" id="aa11154_html_ade1bd1d26fcddc04c84eb5254d431eb0"><div class="ttname"><a href="../../df/d70/a11154.html#ade1bd1d26fcddc04c84eb5254d431eb0">WorldSessionMgr::_maxPlayerCount</a></div><div class="ttdeci">uint32 _maxPlayerCount</div><div class="ttdef"><b>Definition:</b> WorldSessionMgr.h:107</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00104">_maxActiveSessionCount</a>, <a class="el" href="../../#l00107">_maxPlayerCount</a>, <a class="el" href="../../#l00105">_maxQueuedSessionCount</a>, <a class="el" href="../../#l00106">_playerCount</a>, and <a class="el" href="../../#l00103">_playerLimit</a>.</p>
+
+</div>
+</div>
+<a id="a7deeac6b61bc32b648588c428b867eae" name="a7deeac6b61bc32b648588c428b867eae"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7deeac6b61bc32b648588c428b867eae">&#9670;&#160;</a></span>~WorldSessionMgr()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">WorldSessionMgr::~WorldSessionMgr </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<ul>
+<li>Empty the kicked session set</li>
+</ul>
+<div class="fragment"><div class="line"><span class="lineno">   43</span>{</div>
+<div class="line"><span class="lineno">   45</span>    <span class="keywordflow">while</span> (!<a class="code hl_variable" href="../../df/d70/a11154.html#a1c9c41702c6a4261c3e5fd2663f151d0">_sessions</a>.empty())</div>
+<div class="line"><span class="lineno">   46</span>    {</div>
+<div class="line"><span class="lineno">   47</span>        <span class="comment">// not remove from queue, prevent loading new sessions</span></div>
+<div class="line"><span class="lineno">   48</span>        <span class="keyword">delete</span> <a class="code hl_variable" href="../../df/d70/a11154.html#a1c9c41702c6a4261c3e5fd2663f151d0">_sessions</a>.begin()-&gt;second;</div>
+<div class="line"><span class="lineno">   49</span>        <a class="code hl_variable" href="../../df/d70/a11154.html#a1c9c41702c6a4261c3e5fd2663f151d0">_sessions</a>.erase(<a class="code hl_variable" href="../../df/d70/a11154.html#a1c9c41702c6a4261c3e5fd2663f151d0">_sessions</a>.begin());</div>
+<div class="line"><span class="lineno">   50</span>    }</div>
+<div class="line"><span class="lineno">   51</span> </div>
+<div class="line"><span class="lineno">   52</span>    <span class="keywordflow">while</span> (!<a class="code hl_variable" href="../../df/d70/a11154.html#a385de87355e09051dff5aed1350d63ac">_offlineSessions</a>.empty())</div>
+<div class="line"><span class="lineno">   53</span>    {</div>
+<div class="line"><span class="lineno">   54</span>        <span class="keyword">delete</span> <a class="code hl_variable" href="../../df/d70/a11154.html#a385de87355e09051dff5aed1350d63ac">_offlineSessions</a>.begin()-&gt;second;</div>
+<div class="line"><span class="lineno">   55</span>        <a class="code hl_variable" href="../../df/d70/a11154.html#a385de87355e09051dff5aed1350d63ac">_offlineSessions</a>.erase(<a class="code hl_variable" href="../../df/d70/a11154.html#a385de87355e09051dff5aed1350d63ac">_offlineSessions</a>.begin());</div>
+<div class="line"><span class="lineno">   56</span>    }</div>
+<div class="line"><span class="lineno">   57</span>}</div>
+<div class="ttc" id="aa11154_html_a1c9c41702c6a4261c3e5fd2663f151d0"><div class="ttname"><a href="../../df/d70/a11154.html#a1c9c41702c6a4261c3e5fd2663f151d0">WorldSessionMgr::_sessions</a></div><div class="ttdeci">SessionMap _sessions</div><div class="ttdef"><b>Definition:</b> WorldSessionMgr.h:94</div></div>
+<div class="ttc" id="aa11154_html_a385de87355e09051dff5aed1350d63ac"><div class="ttname"><a href="../../df/d70/a11154.html#a385de87355e09051dff5aed1350d63ac">WorldSessionMgr::_offlineSessions</a></div><div class="ttdeci">SessionMap _offlineSessions</div><div class="ttdef"><b>Definition:</b> WorldSessionMgr.h:95</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00095">_offlineSessions</a>, and <a class="el" href="../../#l00094">_sessions</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="ab53abc7759de051e8ae5758b15f0b394" name="ab53abc7759de051e8ae5758b15f0b394"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab53abc7759de051e8ae5758b15f0b394">&#9670;&#160;</a></span>AddQueuedPlayer()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void WorldSessionMgr::AddQueuedPlayer </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d2/d4b/a11146.html">WorldSession</a> *&#160;</td>
+          <td class="paramname"><em>session</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  210</span>{</div>
+<div class="line"><span class="lineno">  211</span>    session-&gt;<a class="code hl_function" href="../../d2/d4b/a11146.html#a925fd2929c66ff019044d98078aab6ce">SetInQueue</a>(<span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  212</span>    <a class="code hl_variable" href="../../df/d70/a11154.html#aceb362636b5fe7b4061d5870de4558cc">_queuedPlayer</a>.push_back(session);</div>
+<div class="line"><span class="lineno">  213</span> </div>
+<div class="line"><span class="lineno">  214</span>    <span class="comment">// The 1st SMSG_AUTH_RESPONSE needs to contain other info too.</span></div>
+<div class="line"><span class="lineno">  215</span>    session-&gt;<a class="code hl_function" href="../../d2/d4b/a11146.html#af453aa80f317cf0f46485ee5ff22549b">SendAuthResponse</a>(<a class="code hl_enumvalue" href="../../dc/d43/a04727.html#a42e167e83e1f0229d501a09e3f1d2b1aa213d7ea0e0b1e6862b211e6a92ddfe53">AUTH_WAIT_QUEUE</a>, <span class="keyword">false</span>, <a class="code hl_function" href="../../df/d70/a11154.html#add68fe299373743ca2b1f50530939d6d">GetQueuePos</a>(session));</div>
+<div class="line"><span class="lineno">  216</span>}</div>
+<div class="ttc" id="aa04727_html_a42e167e83e1f0229d501a09e3f1d2b1aa213d7ea0e0b1e6862b211e6a92ddfe53"><div class="ttname"><a href="../../dc/d43/a04727.html#a42e167e83e1f0229d501a09e3f1d2b1aa213d7ea0e0b1e6862b211e6a92ddfe53">AUTH_WAIT_QUEUE</a></div><div class="ttdeci">@ AUTH_WAIT_QUEUE</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:3616</div></div>
+<div class="ttc" id="aa11146_html_a925fd2929c66ff019044d98078aab6ce"><div class="ttname"><a href="../../d2/d4b/a11146.html#a925fd2929c66ff019044d98078aab6ce">WorldSession::SetInQueue</a></div><div class="ttdeci">void SetInQueue(bool state)</div><div class="ttdoc">Session in auth.queue currently.</div><div class="ttdef"><b>Definition:</b> WorldSession.h:431</div></div>
+<div class="ttc" id="aa11146_html_af453aa80f317cf0f46485ee5ff22549b"><div class="ttname"><a href="../../d2/d4b/a11146.html#af453aa80f317cf0f46485ee5ff22549b">WorldSession::SendAuthResponse</a></div><div class="ttdeci">void SendAuthResponse(uint8 code, bool shortForm, uint32 queuePos=0)</div><div class="ttdef"><b>Definition:</b> AuthHandler.cpp:22</div></div>
+<div class="ttc" id="aa11154_html_aceb362636b5fe7b4061d5870de4558cc"><div class="ttname"><a href="../../df/d70/a11154.html#aceb362636b5fe7b4061d5870de4558cc">WorldSessionMgr::_queuedPlayer</a></div><div class="ttdeci">Queue _queuedPlayer</div><div class="ttdef"><b>Definition:</b> WorldSessionMgr.h:101</div></div>
+<div class="ttc" id="aa11154_html_add68fe299373743ca2b1f50530939d6d"><div class="ttname"><a href="../../df/d70/a11154.html#add68fe299373743ca2b1f50530939d6d">WorldSessionMgr::GetQueuePos</a></div><div class="ttdeci">int32 GetQueuePos(WorldSession *session)</div><div class="ttdef"><b>Definition:</b> WorldSessionMgr.cpp:266</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00101">_queuedPlayer</a>, <a class="el" href="../../#l03616">AUTH_WAIT_QUEUE</a>, <a class="el" href="../../#l00266">GetQueuePos()</a>, <a class="el" href="../../#l00022">WorldSession::SendAuthResponse()</a>, and <a class="el" href="../../#l00431">WorldSession::SetInQueue()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00277">AddSession_()</a>.</p>
+
+</div>
+</div>
+<a id="a1b3ff90bb664dd3f9c102c4b548fbacb" name="a1b3ff90bb664dd3f9c102c4b548fbacb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1b3ff90bb664dd3f9c102c4b548fbacb">&#9670;&#160;</a></span>AddSession()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void WorldSessionMgr::AddSession </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d2/d4b/a11146.html">WorldSession</a> *&#160;</td>
+          <td class="paramname"><em>session</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  205</span>{</div>
+<div class="line"><span class="lineno">  206</span>    <a class="code hl_variable" href="../../df/d70/a11154.html#acf06a5c5685db9b266d9323bb915d4aa">_addSessQueue</a>.<a class="code hl_function" href="../../d9/d61/a05402.html#a03f459044b4ffb413fb8d1ba98179ab8">add</a>(session);</div>
+<div class="line"><span class="lineno">  207</span>}</div>
+<div class="ttc" id="aa05402_html_a03f459044b4ffb413fb8d1ba98179ab8"><div class="ttname"><a href="../../d9/d61/a05402.html#a03f459044b4ffb413fb8d1ba98179ab8">LockedQueue::add</a></div><div class="ttdeci">void add(const T &amp;item)</div><div class="ttdoc">Adds an item to the back of the queue.</div><div class="ttdef"><b>Definition:</b> LockedQueue.h:52</div></div>
+<div class="ttc" id="aa11154_html_acf06a5c5685db9b266d9323bb915d4aa"><div class="ttname"><a href="../../df/d70/a11154.html#acf06a5c5685db9b266d9323bb915d4aa">WorldSessionMgr::_addSessQueue</a></div><div class="ttdeci">LockedQueue&lt; WorldSession * &gt; _addSessQueue</div><div class="ttdef"><b>Definition:</b> WorldSessionMgr.h:91</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00091">_addSessQueue</a>, and <a class="el" href="../../#l00052">LockedQueue&lt; T, StorageType &gt;::add()</a>.</p>
+
+</div>
+</div>
+<a id="a1396aef667415727714f25c68ca33d65" name="a1396aef667415727714f25c68ca33d65"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1396aef667415727714f25c68ca33d65">&#9670;&#160;</a></span>AddSession_()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void WorldSessionMgr::AddSession_ </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d2/d4b/a11146.html">WorldSession</a> *&#160;</td>
+          <td class="paramname"><em>session</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  278</span>{</div>
+<div class="line"><span class="lineno">  279</span>    <a class="code hl_define" href="../../dc/d9a/a00218.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(session);</div>
+<div class="line"><span class="lineno">  280</span> </div>
+<div class="line"><span class="lineno">  281</span>    <span class="comment">// kick existing session with same account (if any)</span></div>
+<div class="line"><span class="lineno">  282</span>    <span class="comment">// if character on old session is being loaded, then return</span></div>
+<div class="line"><span class="lineno">  283</span>    <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../df/d70/a11154.html#a152ef062ca6e1ddc2599588c4cd33b41">KickSession</a>(session-&gt;<a class="code hl_function" href="../../d2/d4b/a11146.html#a9fa5510daf576fe281d1961430902dd9">GetAccountId</a>()))</div>
+<div class="line"><span class="lineno">  284</span>    {</div>
+<div class="line"><span class="lineno">  285</span>        session-&gt;<a class="code hl_function" href="../../d2/d4b/a11146.html#ad84e1251e6fb43fe3aed0ea2a27f018b">KickPlayer</a>(<span class="stringliteral">&quot;kick existing session with same account&quot;</span>);</div>
+<div class="line"><span class="lineno">  286</span>        <span class="keyword">delete</span> session; <span class="comment">// session not added yet in session list, so not listed in queue</span></div>
+<div class="line"><span class="lineno">  287</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  288</span>    }</div>
+<div class="line"><span class="lineno">  289</span> </div>
+<div class="line"><span class="lineno">  290</span>    SessionMap::const_iterator old = <a class="code hl_variable" href="../../df/d70/a11154.html#a1c9c41702c6a4261c3e5fd2663f151d0">_sessions</a>.find(session-&gt;<a class="code hl_function" href="../../d2/d4b/a11146.html#a9fa5510daf576fe281d1961430902dd9">GetAccountId</a>());</div>
+<div class="line"><span class="lineno">  291</span>    <span class="keywordflow">if</span> (old != <a class="code hl_variable" href="../../df/d70/a11154.html#a1c9c41702c6a4261c3e5fd2663f151d0">_sessions</a>.end())</div>
+<div class="line"><span class="lineno">  292</span>    {</div>
+<div class="line"><span class="lineno">  293</span>        <a class="code hl_class" href="../../d2/d4b/a11146.html">WorldSession</a>* oldSession = old-&gt;second;</div>
+<div class="line"><span class="lineno">  294</span> </div>
+<div class="line"><span class="lineno">  295</span>        <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../df/d70/a11154.html#ae05a416541dc5ef3e0611a835d19e70a">RemoveQueuedPlayer</a>(oldSession) &amp;&amp; <a class="code hl_define" href="../../da/d11/a04792.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getIntConfig(<a class="code hl_enumvalue" href="../../de/d87/a02939.html#a468ad15992691eb97dd20680046832e0abec90063546d416bed17328ae5f8e7f9">CONFIG_INTERVAL_DISCONNECT_TOLERANCE</a>))</div>
+<div class="line"><span class="lineno">  296</span>            <a class="code hl_variable" href="../../df/d70/a11154.html#a4dc377ec8326db07146d0521d0c0907d">_disconnects</a>[session-&gt;<a class="code hl_function" href="../../d2/d4b/a11146.html#a9fa5510daf576fe281d1961430902dd9">GetAccountId</a>()] = <a class="code hl_function" href="../../da/dbb/a04871.html#adbe1785d1327dedf2ac403b7cc8e99c2">GameTime::GetGameTime</a>().count();</div>
+<div class="line"><span class="lineno">  297</span> </div>
+<div class="line"><span class="lineno">  298</span>        <span class="comment">// pussywizard:</span></div>
+<div class="line"><span class="lineno">  299</span>        <span class="keywordflow">if</span> (oldSession-&gt;<a class="code hl_function" href="../../d2/d4b/a11146.html#a9ae6d2e8d45ac594b48f8cdd4aa5a0b9">HandleSocketClosed</a>())</div>
+<div class="line"><span class="lineno">  300</span>        {</div>
+<div class="line"><span class="lineno">  301</span>            <span class="comment">// there should be no offline session if current one is logged onto a character</span></div>
+<div class="line"><span class="lineno">  302</span>            SessionMap::iterator iter;</div>
+<div class="line"><span class="lineno">  303</span>            <span class="keywordflow">if</span> ((iter = <a class="code hl_variable" href="../../df/d70/a11154.html#a385de87355e09051dff5aed1350d63ac">_offlineSessions</a>.find(oldSession-&gt;<a class="code hl_function" href="../../d2/d4b/a11146.html#a9fa5510daf576fe281d1961430902dd9">GetAccountId</a>())) != <a class="code hl_variable" href="../../df/d70/a11154.html#a385de87355e09051dff5aed1350d63ac">_offlineSessions</a>.end())</div>
+<div class="line"><span class="lineno">  304</span>            {</div>
+<div class="line"><span class="lineno">  305</span>                <a class="code hl_class" href="../../d2/d4b/a11146.html">WorldSession</a>* tmp = iter-&gt;second;</div>
+<div class="line"><span class="lineno">  306</span>                <a class="code hl_variable" href="../../df/d70/a11154.html#a385de87355e09051dff5aed1350d63ac">_offlineSessions</a>.erase(iter);</div>
+<div class="line"><span class="lineno">  307</span>                <span class="keyword">delete</span> tmp;</div>
+<div class="line"><span class="lineno">  308</span>            }</div>
+<div class="line"><span class="lineno">  309</span>            oldSession-&gt;<a class="code hl_function" href="../../d2/d4b/a11146.html#a2932892fe992dd518fd5929aaa7a46b7">SetOfflineTime</a>(<a class="code hl_function" href="../../da/dbb/a04871.html#adbe1785d1327dedf2ac403b7cc8e99c2">GameTime::GetGameTime</a>().count());</div>
+<div class="line"><span class="lineno">  310</span>            <a class="code hl_variable" href="../../df/d70/a11154.html#a385de87355e09051dff5aed1350d63ac">_offlineSessions</a>[oldSession-&gt;<a class="code hl_function" href="../../d2/d4b/a11146.html#a9fa5510daf576fe281d1961430902dd9">GetAccountId</a>()] = oldSession;</div>
+<div class="line"><span class="lineno">  311</span>        }</div>
+<div class="line"><span class="lineno">  312</span>        <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  313</span>        {</div>
+<div class="line"><span class="lineno">  314</span>            <span class="keyword">delete</span> oldSession;</div>
+<div class="line"><span class="lineno">  315</span>        }</div>
+<div class="line"><span class="lineno">  316</span>    }</div>
+<div class="line"><span class="lineno">  317</span> </div>
+<div class="line"><span class="lineno">  318</span>    <a class="code hl_variable" href="../../df/d70/a11154.html#a1c9c41702c6a4261c3e5fd2663f151d0">_sessions</a>[session-&gt;<a class="code hl_function" href="../../d2/d4b/a11146.html#a9fa5510daf576fe281d1961430902dd9">GetAccountId</a>()] = session;</div>
+<div class="line"><span class="lineno">  319</span> </div>
+<div class="line"><span class="lineno">  320</span>    <a class="code hl_typedef" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> Sessions = <a class="code hl_function" href="../../df/d70/a11154.html#aa602b4bb999b7ce347c1169f50e6aafe">GetActiveAndQueuedSessionCount</a>();</div>
+<div class="line"><span class="lineno">  321</span>    <a class="code hl_typedef" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> pLimit = <a class="code hl_function" href="../../df/d70/a11154.html#a558c19c8ac800961d0d734c22f34700a">GetPlayerAmountLimit</a>();</div>
+<div class="line"><span class="lineno">  322</span> </div>
+<div class="line"><span class="lineno">  323</span>    <span class="comment">// don&#39;t count this session when checking player limit</span></div>
+<div class="line"><span class="lineno">  324</span>    --Sessions;</div>
+<div class="line"><span class="lineno">  325</span> </div>
+<div class="line"><span class="lineno">  326</span>    <span class="keywordflow">if</span> (pLimit &gt; 0 &amp;&amp; Sessions &gt;= pLimit &amp;&amp; <a class="code hl_function" href="../../d4/d9a/a04829.html#a63751f144cb7acb57fc20f0caf5e7043">AccountMgr::IsPlayerAccount</a>(session-&gt;<a class="code hl_function" href="../../d2/d4b/a11146.html#a38f29ba7dc5216093dd812cf3e7861df">GetSecurity</a>()) &amp;&amp; !session-&gt;<a class="code hl_function" href="../../d2/d4b/a11146.html#afb718100a773ebac090f6492e4810236">CanSkipQueue</a>() &amp;&amp; !<a class="code hl_function" href="../../df/d70/a11154.html#a9e79fc57bd7c3da2c7afd70510caf3e9">HasRecentlyDisconnected</a>(session))</div>
+<div class="line"><span class="lineno">  327</span>    {</div>
+<div class="line"><span class="lineno">  328</span>        <a class="code hl_function" href="../../df/d70/a11154.html#ab53abc7759de051e8ae5758b15f0b394">AddQueuedPlayer</a>(session);</div>
+<div class="line"><span class="lineno">  329</span>        <a class="code hl_function" href="../../df/d70/a11154.html#a4d5f21e27d14a2dee1ff4e48bdb7b341">UpdateMaxSessionCounters</a>();</div>
+<div class="line"><span class="lineno">  330</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  331</span>    }</div>
+<div class="line"><span class="lineno">  332</span> </div>
+<div class="line"><span class="lineno">  333</span>    session-&gt;<a class="code hl_function" href="../../d2/d4b/a11146.html#ae1e51c0a1aec5ba7fe5ce1b667f7e5ca">InitializeSession</a>();</div>
+<div class="line"><span class="lineno">  334</span> </div>
+<div class="line"><span class="lineno">  335</span>    <a class="code hl_function" href="../../df/d70/a11154.html#a4d5f21e27d14a2dee1ff4e48bdb7b341">UpdateMaxSessionCounters</a>();</div>
+<div class="line"><span class="lineno">  336</span>}</div>
+<div class="ttc" id="aa00218_html_af343b20373ba49a92fce523e948f2ab3"><div class="ttname"><a href="../../dc/d9a/a00218.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a></div><div class="ttdeci">#define ASSERT</div><div class="ttdef"><b>Definition:</b> Errors.h:68</div></div>
+<div class="ttc" id="aa00302_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
+<div class="ttc" id="aa02939_html_a468ad15992691eb97dd20680046832e0abec90063546d416bed17328ae5f8e7f9"><div class="ttname"><a href="../../de/d87/a02939.html#a468ad15992691eb97dd20680046832e0abec90063546d416bed17328ae5f8e7f9">CONFIG_INTERVAL_DISCONNECT_TOLERANCE</a></div><div class="ttdeci">@ CONFIG_INTERVAL_DISCONNECT_TOLERANCE</div><div class="ttdef"><b>Definition:</b> WorldConfig.h:164</div></div>
+<div class="ttc" id="aa04792_html_ga05dfb35c344e5b947a19e4284e7f5fa7"><div class="ttname"><a href="../../da/d11/a04792.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a></div><div class="ttdeci">#define sWorld</div><div class="ttdef"><b>Definition:</b> World.h:320</div></div>
+<div class="ttc" id="aa04829_html_a63751f144cb7acb57fc20f0caf5e7043"><div class="ttname"><a href="../../d4/d9a/a04829.html#a63751f144cb7acb57fc20f0caf5e7043">AccountMgr::IsPlayerAccount</a></div><div class="ttdeci">bool IsPlayerAccount(uint32 gmlevel)</div><div class="ttdef"><b>Definition:</b> AccountMgr.cpp:312</div></div>
+<div class="ttc" id="aa04871_html_adbe1785d1327dedf2ac403b7cc8e99c2"><div class="ttname"><a href="../../da/dbb/a04871.html#adbe1785d1327dedf2ac403b7cc8e99c2">GameTime::GetGameTime</a></div><div class="ttdeci">Seconds GetGameTime()</div><div class="ttdef"><b>Definition:</b> GameTime.cpp:38</div></div>
+<div class="ttc" id="aa11146_html"><div class="ttname"><a href="../../d2/d4b/a11146.html">WorldSession</a></div><div class="ttdoc">Player session in the World.</div><div class="ttdef"><b>Definition:</b> WorldSession.h:360</div></div>
+<div class="ttc" id="aa11146_html_a2932892fe992dd518fd5929aaa7a46b7"><div class="ttname"><a href="../../d2/d4b/a11146.html#a2932892fe992dd518fd5929aaa7a46b7">WorldSession::SetOfflineTime</a></div><div class="ttdeci">void SetOfflineTime(uint32 time)</div><div class="ttdef"><b>Definition:</b> WorldSession.h:1112</div></div>
+<div class="ttc" id="aa11146_html_a38f29ba7dc5216093dd812cf3e7861df"><div class="ttname"><a href="../../d2/d4b/a11146.html#a38f29ba7dc5216093dd812cf3e7861df">WorldSession::GetSecurity</a></div><div class="ttdeci">AccountTypes GetSecurity() const</div><div class="ttdef"><b>Definition:</b> WorldSession.h:408</div></div>
+<div class="ttc" id="aa11146_html_a9ae6d2e8d45ac594b48f8cdd4aa5a0b9"><div class="ttname"><a href="../../d2/d4b/a11146.html#a9ae6d2e8d45ac594b48f8cdd4aa5a0b9">WorldSession::HandleSocketClosed</a></div><div class="ttdeci">bool HandleSocketClosed()</div><div class="ttdef"><b>Definition:</b> WorldSession.cpp:562</div></div>
+<div class="ttc" id="aa11146_html_a9fa5510daf576fe281d1961430902dd9"><div class="ttname"><a href="../../d2/d4b/a11146.html#a9fa5510daf576fe281d1961430902dd9">WorldSession::GetAccountId</a></div><div class="ttdeci">uint32 GetAccountId() const</div><div class="ttdef"><b>Definition:</b> WorldSession.h:410</div></div>
+<div class="ttc" id="aa11146_html_ad84e1251e6fb43fe3aed0ea2a27f018b"><div class="ttname"><a href="../../d2/d4b/a11146.html#ad84e1251e6fb43fe3aed0ea2a27f018b">WorldSession::KickPlayer</a></div><div class="ttdeci">void KickPlayer(bool setKicked=true)</div><div class="ttdef"><b>Definition:</b> WorldSession.h:449</div></div>
+<div class="ttc" id="aa11146_html_ae1e51c0a1aec5ba7fe5ce1b667f7e5ca"><div class="ttname"><a href="../../d2/d4b/a11146.html#ae1e51c0a1aec5ba7fe5ce1b667f7e5ca">WorldSession::InitializeSession</a></div><div class="ttdeci">void InitializeSession()</div><div class="ttdef"><b>Definition:</b> WorldSession.cpp:1473</div></div>
+<div class="ttc" id="aa11146_html_afb718100a773ebac090f6492e4810236"><div class="ttname"><a href="../../d2/d4b/a11146.html#afb718100a773ebac090f6492e4810236">WorldSession::CanSkipQueue</a></div><div class="ttdeci">bool CanSkipQueue() const</div><div class="ttdef"><b>Definition:</b> WorldSession.h:409</div></div>
+<div class="ttc" id="aa11154_html_a152ef062ca6e1ddc2599588c4cd33b41"><div class="ttname"><a href="../../df/d70/a11154.html#a152ef062ca6e1ddc2599588c4cd33b41">WorldSessionMgr::KickSession</a></div><div class="ttdeci">bool KickSession(uint32 id)</div><div class="ttdoc">Remove a given session.</div><div class="ttdef"><b>Definition:</b> WorldSessionMgr.cpp:165</div></div>
+<div class="ttc" id="aa11154_html_a4d5f21e27d14a2dee1ff4e48bdb7b341"><div class="ttname"><a href="../../df/d70/a11154.html#a4d5f21e27d14a2dee1ff4e48bdb7b341">WorldSessionMgr::UpdateMaxSessionCounters</a></div><div class="ttdeci">void UpdateMaxSessionCounters()</div><div class="ttdoc">Get the number of current active sessions.</div><div class="ttdef"><b>Definition:</b> WorldSessionMgr.cpp:360</div></div>
+<div class="ttc" id="aa11154_html_a4dc377ec8326db07146d0521d0c0907d"><div class="ttname"><a href="../../df/d70/a11154.html#a4dc377ec8326db07146d0521d0c0907d">WorldSessionMgr::_disconnects</a></div><div class="ttdeci">DisconnectMap _disconnects</div><div class="ttdef"><b>Definition:</b> WorldSessionMgr.h:98</div></div>
+<div class="ttc" id="aa11154_html_a558c19c8ac800961d0d734c22f34700a"><div class="ttname"><a href="../../df/d70/a11154.html#a558c19c8ac800961d0d734c22f34700a">WorldSessionMgr::GetPlayerAmountLimit</a></div><div class="ttdeci">uint32 GetPlayerAmountLimit() const</div><div class="ttdef"><b>Definition:</b> WorldSessionMgr.h:72</div></div>
+<div class="ttc" id="aa11154_html_a9e79fc57bd7c3da2c7afd70510caf3e9"><div class="ttname"><a href="../../df/d70/a11154.html#a9e79fc57bd7c3da2c7afd70510caf3e9">WorldSessionMgr::HasRecentlyDisconnected</a></div><div class="ttdeci">bool HasRecentlyDisconnected(WorldSession *session)</div><div class="ttdef"><b>Definition:</b> WorldSessionMgr.cpp:338</div></div>
+<div class="ttc" id="aa11154_html_aa602b4bb999b7ce347c1169f50e6aafe"><div class="ttname"><a href="../../df/d70/a11154.html#aa602b4bb999b7ce347c1169f50e6aafe">WorldSessionMgr::GetActiveAndQueuedSessionCount</a></div><div class="ttdeci">uint32 GetActiveAndQueuedSessionCount() const</div><div class="ttdef"><b>Definition:</b> WorldSessionMgr.h:61</div></div>
+<div class="ttc" id="aa11154_html_ab53abc7759de051e8ae5758b15f0b394"><div class="ttname"><a href="../../df/d70/a11154.html#ab53abc7759de051e8ae5758b15f0b394">WorldSessionMgr::AddQueuedPlayer</a></div><div class="ttdeci">void AddQueuedPlayer(WorldSession *session)</div><div class="ttdef"><b>Definition:</b> WorldSessionMgr.cpp:209</div></div>
+<div class="ttc" id="aa11154_html_ae05a416541dc5ef3e0611a835d19e70a"><div class="ttname"><a href="../../df/d70/a11154.html#ae05a416541dc5ef3e0611a835d19e70a">WorldSessionMgr::RemoveQueuedPlayer</a></div><div class="ttdeci">bool RemoveQueuedPlayer(WorldSession *session)</div><div class="ttdef"><b>Definition:</b> WorldSessionMgr.cpp:218</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00098">_disconnects</a>, <a class="el" href="../../#l00095">_offlineSessions</a>, <a class="el" href="../../#l00094">_sessions</a>, <a class="el" href="../../#l00209">AddQueuedPlayer()</a>, <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00409">WorldSession::CanSkipQueue()</a>, <a class="el" href="../../#l00164">CONFIG_INTERVAL_DISCONNECT_TOLERANCE</a>, <a class="el" href="../../#l00410">WorldSession::GetAccountId()</a>, <a class="el" href="../../#l00061">GetActiveAndQueuedSessionCount()</a>, <a class="el" href="../../#l00038">GameTime::GetGameTime()</a>, <a class="el" href="../../#l00072">GetPlayerAmountLimit()</a>, <a class="el" href="../../#l00408">WorldSession::GetSecurity()</a>, <a class="el" href="../../#l00562">WorldSession::HandleSocketClosed()</a>, <a class="el" href="../../#l00338">HasRecentlyDisconnected()</a>, <a class="el" href="../../#l01473">WorldSession::InitializeSession()</a>, <a class="el" href="../../#l00312">AccountMgr::IsPlayerAccount()</a>, <a class="el" href="../../#l00449">WorldSession::KickPlayer()</a>, <a class="el" href="../../#l00165">KickSession()</a>, <a class="el" href="../../#l00218">RemoveQueuedPlayer()</a>, <a class="el" href="../../#l01112">WorldSession::SetOfflineTime()</a>, <a class="el" href="../../#l00320">sWorld</a>, and <a class="el" href="../../#l00360">UpdateMaxSessionCounters()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00091">UpdateSessions()</a>.</p>
+
+</div>
+</div>
+<a id="ae0034ece158518da1918dc4331673524" name="ae0034ece158518da1918dc4331673524"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae0034ece158518da1918dc4331673524">&#9670;&#160;</a></span>DecreasePlayerCount()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void WorldSessionMgr::DecreasePlayerCount </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -152,61 +569,1389 @@ Public Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  175</span>: <a class="code hl_variable" href="../../df/d70/a11154.html#a6aeb1bebf2f079424ebfa5192c568adc">spellId</a>(0), <a class="code hl_variable" href="../../df/d70/a11154.html#ae1a414f35b2cce61cd4f5640c761f7ea">type</a>(<a class="code hl_enumvalue" href="../../d4/d2d/a02408.html#a91d505a1e789c6ea6a338f3a3c85b6b9a5da3c36e87dda6bd23b3c55edd0830d2">IMMUNITY_EFFECT</a>), <a class="code hl_variable" href="../../df/d70/a11154.html#a13a353d02a7330820df170eb46e7a26d">blockType</a>(<a class="code hl_enumvalue" href="../../d6/d27/a01163.html#a9714315fea51314dc7b5f61e56a03211a2ad272b579814ab99a7e831afdabdc1d">SPELL_BLOCK_TYPE_ALL</a>) { }</div>
-<div class="ttc" id="aa01163_html_a9714315fea51314dc7b5f61e56a03211a2ad272b579814ab99a7e831afdabdc1d"><div class="ttname"><a href="../../d6/d27/a01163.html#a9714315fea51314dc7b5f61e56a03211a2ad272b579814ab99a7e831afdabdc1d">SPELL_BLOCK_TYPE_ALL</a></div><div class="ttdeci">@ SPELL_BLOCK_TYPE_ALL</div><div class="ttdef"><b>Definition:</b> SpellDefines.h:159</div></div>
-<div class="ttc" id="aa02408_html_a91d505a1e789c6ea6a338f3a3c85b6b9a5da3c36e87dda6bd23b3c55edd0830d2"><div class="ttname"><a href="../../d4/d2d/a02408.html#a91d505a1e789c6ea6a338f3a3c85b6b9a5da3c36e87dda6bd23b3c55edd0830d2">IMMUNITY_EFFECT</a></div><div class="ttdeci">@ IMMUNITY_EFFECT</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:1394</div></div>
-<div class="ttc" id="aa11154_html_a13a353d02a7330820df170eb46e7a26d"><div class="ttname"><a href="../../df/d70/a11154.html#a13a353d02a7330820df170eb46e7a26d">SpellImmune::blockType</a></div><div class="ttdeci">uint32 blockType</div><div class="ttdef"><b>Definition:</b> SpellDefines.h:179</div></div>
-<div class="ttc" id="aa11154_html_a6aeb1bebf2f079424ebfa5192c568adc"><div class="ttname"><a href="../../df/d70/a11154.html#a6aeb1bebf2f079424ebfa5192c568adc">SpellImmune::spellId</a></div><div class="ttdeci">uint32 spellId</div><div class="ttdef"><b>Definition:</b> SpellDefines.h:177</div></div>
-<div class="ttc" id="aa11154_html_ae1a414f35b2cce61cd4f5640c761f7ea"><div class="ttname"><a href="../../df/d70/a11154.html#ae1a414f35b2cce61cd4f5640c761f7ea">SpellImmune::type</a></div><div class="ttdeci">uint32 type</div><div class="ttdef"><b>Definition:</b> SpellDefines.h:178</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   80</span>{ <a class="code hl_variable" href="../../df/d70/a11154.html#aca405a0eb8b98eabf38a5f7b10cd0177">_playerCount</a>--; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00106">_playerCount</a>.</p>
+
+</div>
+</div>
+<a id="ae1a848609e9a3f36f1ed86f479e4cf48" name="ae1a848609e9a3f36f1ed86f479e4cf48"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae1a848609e9a3f36f1ed86f479e4cf48">&#9670;&#160;</a></span>DoForAllOnlinePlayers()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void WorldSessionMgr::DoForAllOnlinePlayers </td>
+          <td>(</td>
+          <td class="paramtype">std::function&lt; void(<a class="el" href="../../d4/d95/a08630.html">Player</a> *)&gt;&#160;</td>
+          <td class="paramname"><em>exec</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  447</span>{</div>
+<div class="line"><span class="lineno">  448</span>    std::shared_lock lock(*<a class="code hl_class" href="../../de/d62/a08854.html">HashMapHolder&lt;Player&gt;::GetLock</a>());</div>
+<div class="line"><span class="lineno">  449</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; it : <a class="code hl_function" href="../../de/d25/a04846.html#a868ecab21b3e6e3ac68beed32f4ea793">ObjectAccessor::GetPlayers</a>())</div>
+<div class="line"><span class="lineno">  450</span>    {</div>
+<div class="line"><span class="lineno">  451</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d4/d95/a08630.html">Player</a>* player = it.second)</div>
+<div class="line"><span class="lineno">  452</span>        {</div>
+<div class="line"><span class="lineno">  453</span>            <span class="keywordflow">if</span> (!player-&gt;IsInWorld())</div>
+<div class="line"><span class="lineno">  454</span>            {</div>
+<div class="line"><span class="lineno">  455</span>                <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  456</span>            }</div>
+<div class="line"><span class="lineno">  457</span> </div>
+<div class="line"><span class="lineno">  458</span>            exec(player);</div>
+<div class="line"><span class="lineno">  459</span>        }</div>
+<div class="line"><span class="lineno">  460</span>    }</div>
+<div class="line"><span class="lineno">  461</span>}</div>
+<div class="ttc" id="aa04846_html_a868ecab21b3e6e3ac68beed32f4ea793"><div class="ttname"><a href="../../de/d25/a04846.html#a868ecab21b3e6e3ac68beed32f4ea793">ObjectAccessor::GetPlayers</a></div><div class="ttdeci">HashMapHolder&lt; Player &gt;::MapType const &amp; GetPlayers()</div><div class="ttdef"><b>Definition:</b> ObjectAccessor.cpp:75</div></div>
+<div class="ttc" id="aa08630_html"><div class="ttname"><a href="../../d4/d95/a08630.html">Player</a></div><div class="ttdef"><b>Definition:</b> Player.h:1072</div></div>
+<div class="ttc" id="aa08854_html"><div class="ttname"><a href="../../de/d62/a08854.html">HashMapHolder</a></div><div class="ttdef"><b>Definition:</b> ObjectAccessor.h:41</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00075">ObjectAccessor::GetPlayers()</a>.</p>
+
+</div>
+</div>
+<a id="a76271af20d3baa02ce23195b7d2b11a6" name="a76271af20d3baa02ce23195b7d2b11a6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a76271af20d3baa02ce23195b7d2b11a6">&#9670;&#160;</a></span>FindOfflineSession()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d2/d4b/a11146.html">WorldSession</a> * WorldSessionMgr::FindOfflineSession </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>id</em></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   71</span>{</div>
+<div class="line"><span class="lineno">   72</span>    SessionMap::const_iterator itr = <a class="code hl_variable" href="../../df/d70/a11154.html#a385de87355e09051dff5aed1350d63ac">_offlineSessions</a>.find(<span class="keywordtype">id</span>);</div>
+<div class="line"><span class="lineno">   73</span>    <span class="keywordflow">if</span> (itr != <a class="code hl_variable" href="../../df/d70/a11154.html#a385de87355e09051dff5aed1350d63ac">_offlineSessions</a>.end())</div>
+<div class="line"><span class="lineno">   74</span>        <span class="keywordflow">return</span> itr-&gt;second;</div>
+<div class="line"><span class="lineno">   75</span>    <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">   76</span>        <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">   77</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00095">_offlineSessions</a>.</p>
+
+</div>
+</div>
+<a id="ace35cfc22e857bb204ffa929f985e2a2" name="ace35cfc22e857bb204ffa929f985e2a2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ace35cfc22e857bb204ffa929f985e2a2">&#9670;&#160;</a></span>FindOfflineSessionForCharacterGUID()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d2/d4b/a11146.html">WorldSession</a> * WorldSessionMgr::FindOfflineSessionForCharacterGUID </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d4/dea/a08430.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a>&#160;</td>
+          <td class="paramname"><em>guidLow</em></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   80</span>{</div>
+<div class="line"><span class="lineno">   81</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../df/d70/a11154.html#a385de87355e09051dff5aed1350d63ac">_offlineSessions</a>.empty())</div>
+<div class="line"><span class="lineno">   82</span>        <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">   83</span> </div>
+<div class="line"><span class="lineno">   84</span>    <span class="keywordflow">for</span> (SessionMap::const_iterator itr = <a class="code hl_variable" href="../../df/d70/a11154.html#a385de87355e09051dff5aed1350d63ac">_offlineSessions</a>.begin(); itr != <a class="code hl_variable" href="../../df/d70/a11154.html#a385de87355e09051dff5aed1350d63ac">_offlineSessions</a>.end(); ++itr)</div>
+<div class="line"><span class="lineno">   85</span>        <span class="keywordflow">if</span> (itr-&gt;second-&gt;GetGuidLow() == guidLow)</div>
+<div class="line"><span class="lineno">   86</span>            <span class="keywordflow">return</span> itr-&gt;second;</div>
+<div class="line"><span class="lineno">   87</span> </div>
+<div class="line"><span class="lineno">   88</span>    <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">   89</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00095">_offlineSessions</a>.</p>
+
+</div>
+</div>
+<a id="a226d982be39b7a55bce04d91e5860002" name="a226d982be39b7a55bce04d91e5860002"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a226d982be39b7a55bce04d91e5860002">&#9670;&#160;</a></span>FindSession()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d2/d4b/a11146.html">WorldSession</a> * WorldSessionMgr::FindSession </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>id</em></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Find a session by its id. </p>
+<div class="fragment"><div class="line"><span class="lineno">   61</span>{</div>
+<div class="line"><span class="lineno">   62</span>    SessionMap::const_iterator itr = <a class="code hl_variable" href="../../df/d70/a11154.html#a1c9c41702c6a4261c3e5fd2663f151d0">_sessions</a>.find(<span class="keywordtype">id</span>);</div>
+<div class="line"><span class="lineno">   63</span> </div>
+<div class="line"><span class="lineno">   64</span>    <span class="keywordflow">if</span> (itr != <a class="code hl_variable" href="../../df/d70/a11154.html#a1c9c41702c6a4261c3e5fd2663f151d0">_sessions</a>.end())</div>
+<div class="line"><span class="lineno">   65</span>        <span class="keywordflow">return</span> itr-&gt;second;                                 <span class="comment">// also can return nullptr for kicked session</span></div>
+<div class="line"><span class="lineno">   66</span>    <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">   67</span>        <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">   68</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00094">_sessions</a>.</p>
+
+</div>
+</div>
+<a id="aa602b4bb999b7ce347c1169f50e6aafe" name="aa602b4bb999b7ce347c1169f50e6aafe"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa602b4bb999b7ce347c1169f50e6aafe">&#9670;&#160;</a></span>GetActiveAndQueuedSessionCount()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> WorldSessionMgr::GetActiveAndQueuedSessionCount </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   61</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../df/d70/a11154.html#a1c9c41702c6a4261c3e5fd2663f151d0">_sessions</a>.size(); }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00094">_sessions</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00277">AddSession_()</a>.</p>
+
+</div>
+</div>
+<a id="a41014381cb82fede01329f472f6352d2" name="a41014381cb82fede01329f472f6352d2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a41014381cb82fede01329f472f6352d2">&#9670;&#160;</a></span>GetActiveSessionCount()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> WorldSessionMgr::GetActiveSessionCount </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   62</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../df/d70/a11154.html#a1c9c41702c6a4261c3e5fd2663f151d0">_sessions</a>.size() - <a class="code hl_variable" href="../../df/d70/a11154.html#aceb362636b5fe7b4061d5870de4558cc">_queuedPlayer</a>.size(); }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00101">_queuedPlayer</a>, and <a class="el" href="../../#l00094">_sessions</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00218">RemoveQueuedPlayer()</a>.</p>
+
+</div>
+</div>
+<a id="a8343ab20c6ae724a86c724d25d2fb87a" name="a8343ab20c6ae724a86c724d25d2fb87a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8343ab20c6ae724a86c724d25d2fb87a">&#9670;&#160;</a></span>GetAllSessions()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../df/d70/a11154.html#aff543987bdf9b5d8c293ddfa393d3c7b">SessionMap</a> const  &amp; WorldSessionMgr::GetAllSessions </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   57</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../df/d70/a11154.html#a1c9c41702c6a4261c3e5fd2663f151d0">_sessions</a>; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00094">_sessions</a>.</p>
+
+</div>
+</div>
+<a id="a3c09bdad053d7d9b9d76f7ccf31d975d" name="a3c09bdad053d7d9b9d76f7ccf31d975d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3c09bdad053d7d9b9d76f7ccf31d975d">&#9670;&#160;</a></span>GetMaxActiveSessionCount()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> WorldSessionMgr::GetMaxActiveSessionCount </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   66</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../df/d70/a11154.html#a564d19d48fb433cc9a85c1434d6ecf81">_maxActiveSessionCount</a>; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00104">_maxActiveSessionCount</a>.</p>
+
+</div>
+</div>
+<a id="ae70975cbfbfa31a91ef819b76d1ff6c6" name="ae70975cbfbfa31a91ef819b76d1ff6c6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae70975cbfbfa31a91ef819b76d1ff6c6">&#9670;&#160;</a></span>GetMaxPlayerCount()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> WorldSessionMgr::GetMaxPlayerCount </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   69</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../df/d70/a11154.html#ade1bd1d26fcddc04c84eb5254d431eb0">_maxPlayerCount</a>; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00107">_maxPlayerCount</a>.</p>
+
+</div>
+</div>
+<a id="ad3fff5792a80dad203969742016922aa" name="ad3fff5792a80dad203969742016922aa"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad3fff5792a80dad203969742016922aa">&#9670;&#160;</a></span>GetMaxQueuedSessionCount()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> WorldSessionMgr::GetMaxQueuedSessionCount </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Get the maximum number of parallel sessions on the server since last reboot. </p>
+<div class="fragment"><div class="line"><span class="lineno">   65</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../df/d70/a11154.html#a63bcf9b4f2625b466c276fae8d5593cc">_maxQueuedSessionCount</a>; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00105">_maxQueuedSessionCount</a>.</p>
+
+</div>
+</div>
+<a id="a558c19c8ac800961d0d734c22f34700a" name="a558c19c8ac800961d0d734c22f34700a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a558c19c8ac800961d0d734c22f34700a">&#9670;&#160;</a></span>GetPlayerAmountLimit()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> WorldSessionMgr::GetPlayerAmountLimit </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   72</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../df/d70/a11154.html#a5014fbe3488ab42044035ba51c22a9ce">_playerLimit</a>; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00103">_playerLimit</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00277">AddSession_()</a>, and <a class="el" href="../../#l00218">RemoveQueuedPlayer()</a>.</p>
+
+</div>
+</div>
+<a id="a7def4e4cba23388ccf7b76ff4e30ff88" name="a7def4e4cba23388ccf7b76ff4e30ff88"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7def4e4cba23388ccf7b76ff4e30ff88">&#9670;&#160;</a></span>GetPlayerCount()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> WorldSessionMgr::GetPlayerCount </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Get number of players. </p>
+<div class="fragment"><div class="line"><span class="lineno">   68</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../df/d70/a11154.html#aca405a0eb8b98eabf38a5f7b10cd0177">_playerCount</a>; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00106">_playerCount</a>.</p>
+
+</div>
+</div>
+<a id="aff17c7a73420146c5a0cfe6a05e9339d" name="aff17c7a73420146c5a0cfe6a05e9339d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aff17c7a73420146c5a0cfe6a05e9339d">&#9670;&#160;</a></span>GetQueuedSessionCount()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> WorldSessionMgr::GetQueuedSessionCount </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   63</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../df/d70/a11154.html#aceb362636b5fe7b4061d5870de4558cc">_queuedPlayer</a>.size(); }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00101">_queuedPlayer</a>.</p>
+
+</div>
+</div>
+<a id="add68fe299373743ca2b1f50530939d6d" name="add68fe299373743ca2b1f50530939d6d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#add68fe299373743ca2b1f50530939d6d">&#9670;&#160;</a></span>GetQueuePos()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> WorldSessionMgr::GetQueuePos </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d2/d4b/a11146.html">WorldSession</a> *&#160;</td>
+          <td class="paramname"><em>session</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  267</span>{</div>
+<div class="line"><span class="lineno">  268</span>    <a class="code hl_typedef" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> position = 1;</div>
+<div class="line"><span class="lineno">  269</span> </div>
+<div class="line"><span class="lineno">  270</span>    <span class="keywordflow">for</span> (Queue::const_iterator iter = <a class="code hl_variable" href="../../df/d70/a11154.html#aceb362636b5fe7b4061d5870de4558cc">_queuedPlayer</a>.begin(); iter != <a class="code hl_variable" href="../../df/d70/a11154.html#aceb362636b5fe7b4061d5870de4558cc">_queuedPlayer</a>.end(); ++iter, ++position)</div>
+<div class="line"><span class="lineno">  271</span>        <span class="keywordflow">if</span> ((*iter) == session)</div>
+<div class="line"><span class="lineno">  272</span>            <span class="keywordflow">return</span> position;</div>
+<div class="line"><span class="lineno">  273</span> </div>
+<div class="line"><span class="lineno">  274</span>    <span class="keywordflow">return</span> 0;</div>
+<div class="line"><span class="lineno">  275</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00101">_queuedPlayer</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00209">AddQueuedPlayer()</a>.</p>
+
+</div>
+</div>
+<a id="a9e79fc57bd7c3da2c7afd70510caf3e9" name="a9e79fc57bd7c3da2c7afd70510caf3e9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9e79fc57bd7c3da2c7afd70510caf3e9">&#9670;&#160;</a></span>HasRecentlyDisconnected()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool WorldSessionMgr::HasRecentlyDisconnected </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d2/d4b/a11146.html">WorldSession</a> *&#160;</td>
+          <td class="paramname"><em>session</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  339</span>{</div>
+<div class="line"><span class="lineno">  340</span>    <span class="keywordflow">if</span> (!session)</div>
+<div class="line"><span class="lineno">  341</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  342</span> </div>
+<div class="line"><span class="lineno">  343</span>    <span class="keywordflow">if</span> (<a class="code hl_typedef" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> tolerance = <a class="code hl_define" href="../../da/d11/a04792.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getIntConfig(<a class="code hl_enumvalue" href="../../de/d87/a02939.html#a468ad15992691eb97dd20680046832e0abec90063546d416bed17328ae5f8e7f9">CONFIG_INTERVAL_DISCONNECT_TOLERANCE</a>))</div>
+<div class="line"><span class="lineno">  344</span>    {</div>
+<div class="line"><span class="lineno">  345</span>        <span class="keywordflow">for</span> (DisconnectMap::iterator i = <a class="code hl_variable" href="../../df/d70/a11154.html#a4dc377ec8326db07146d0521d0c0907d">_disconnects</a>.begin(); i != <a class="code hl_variable" href="../../df/d70/a11154.html#a4dc377ec8326db07146d0521d0c0907d">_disconnects</a>.end();)</div>
+<div class="line"><span class="lineno">  346</span>        {</div>
+<div class="line"><span class="lineno">  347</span>            <span class="keywordflow">if</span> ((<a class="code hl_function" href="../../da/dbb/a04871.html#adbe1785d1327dedf2ac403b7cc8e99c2">GameTime::GetGameTime</a>().count() - i-&gt;second) &lt; tolerance)</div>
+<div class="line"><span class="lineno">  348</span>            {</div>
+<div class="line"><span class="lineno">  349</span>                <span class="keywordflow">if</span> (i-&gt;first == session-&gt;<a class="code hl_function" href="../../d2/d4b/a11146.html#a9fa5510daf576fe281d1961430902dd9">GetAccountId</a>())</div>
+<div class="line"><span class="lineno">  350</span>                    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  351</span>                ++i;</div>
+<div class="line"><span class="lineno">  352</span>            }</div>
+<div class="line"><span class="lineno">  353</span>            <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  354</span>                <a class="code hl_variable" href="../../df/d70/a11154.html#a4dc377ec8326db07146d0521d0c0907d">_disconnects</a>.erase(i++);</div>
+<div class="line"><span class="lineno">  355</span>        }</div>
+<div class="line"><span class="lineno">  356</span>    }</div>
+<div class="line"><span class="lineno">  357</span>    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  358</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00098">_disconnects</a>, <a class="el" href="../../#l00164">CONFIG_INTERVAL_DISCONNECT_TOLERANCE</a>, <a class="el" href="../../#l00410">WorldSession::GetAccountId()</a>, <a class="el" href="../../#l00038">GameTime::GetGameTime()</a>, and <a class="el" href="../../#l00320">sWorld</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00277">AddSession_()</a>.</p>
+
+</div>
+</div>
+<a id="a1d527b57e3536f9e8d190c3374c56ab6" name="a1d527b57e3536f9e8d190c3374c56ab6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1d527b57e3536f9e8d190c3374c56ab6">&#9670;&#160;</a></span>IncreasePlayerCount()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void WorldSessionMgr::IncreasePlayerCount </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Increase/Decrease number of players. </p>
+<div class="fragment"><div class="line"><span class="lineno">   76</span>    {</div>
+<div class="line"><span class="lineno">   77</span>        <a class="code hl_variable" href="../../df/d70/a11154.html#aca405a0eb8b98eabf38a5f7b10cd0177">_playerCount</a>++;</div>
+<div class="line"><span class="lineno">   78</span>        <a class="code hl_variable" href="../../df/d70/a11154.html#ade1bd1d26fcddc04c84eb5254d431eb0">_maxPlayerCount</a> = std::max(<a class="code hl_variable" href="../../df/d70/a11154.html#ade1bd1d26fcddc04c84eb5254d431eb0">_maxPlayerCount</a>, <a class="code hl_variable" href="../../df/d70/a11154.html#aca405a0eb8b98eabf38a5f7b10cd0177">_playerCount</a>);</div>
+<div class="line"><span class="lineno">   79</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00107">_maxPlayerCount</a>, and <a class="el" href="../../#l00106">_playerCount</a>.</p>
+
+</div>
+</div>
+<a id="a049528a26adeba22e833920d30112833" name="a049528a26adeba22e833920d30112833"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a049528a26adeba22e833920d30112833">&#9670;&#160;</a></span>Instance()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../df/d70/a11154.html">WorldSessionMgr</a> * WorldSessionMgr::Instance </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   28</span>{</div>
+<div class="line"><span class="lineno">   29</span>    <span class="keyword">static</span> <a class="code hl_class" href="../../df/d70/a11154.html">WorldSessionMgr</a> instance;</div>
+<div class="line"><span class="lineno">   30</span>    <span class="keywordflow">return</span> &amp;instance;</div>
+<div class="line"><span class="lineno">   31</span>}</div>
+<div class="ttc" id="aa11154_html"><div class="ttname"><a href="../../df/d70/a11154.html">WorldSessionMgr</a></div><div class="ttdef"><b>Definition:</b> WorldSessionMgr.h:33</div></div>
 </div><!-- fragment -->
 </div>
 </div>
+<a id="a617366da53f314122ea8344fd5515ec2" name="a617366da53f314122ea8344fd5515ec2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a617366da53f314122ea8344fd5515ec2">&#9670;&#160;</a></span>KickAll()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void WorldSessionMgr::KickAll </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Kick (and save) all players. </p>
+<div class="fragment"><div class="line"><span class="lineno">  183</span>{</div>
+<div class="line"><span class="lineno">  184</span>    <a class="code hl_variable" href="../../df/d70/a11154.html#aceb362636b5fe7b4061d5870de4558cc">_queuedPlayer</a>.clear();                                 <span class="comment">// prevent send queue update packet and login queued sessions</span></div>
+<div class="line"><span class="lineno">  185</span> </div>
+<div class="line"><span class="lineno">  186</span>    <span class="comment">// session not removed at kick and will removed in next update tick</span></div>
+<div class="line"><span class="lineno">  187</span>    <span class="keywordflow">for</span> (SessionMap::const_iterator itr = <a class="code hl_variable" href="../../df/d70/a11154.html#a1c9c41702c6a4261c3e5fd2663f151d0">_sessions</a>.begin(); itr != <a class="code hl_variable" href="../../df/d70/a11154.html#a1c9c41702c6a4261c3e5fd2663f151d0">_sessions</a>.end(); ++itr)</div>
+<div class="line"><span class="lineno">  188</span>        itr-&gt;second-&gt;KickPlayer(<span class="stringliteral">&quot;KickAll sessions&quot;</span>);</div>
+<div class="line"><span class="lineno">  189</span> </div>
+<div class="line"><span class="lineno">  190</span>    <span class="comment">// pussywizard: kick offline sessions</span></div>
+<div class="line"><span class="lineno">  191</span>    <span class="keywordflow">for</span> (SessionMap::const_iterator itr = <a class="code hl_variable" href="../../df/d70/a11154.html#a385de87355e09051dff5aed1350d63ac">_offlineSessions</a>.begin(); itr != <a class="code hl_variable" href="../../df/d70/a11154.html#a385de87355e09051dff5aed1350d63ac">_offlineSessions</a>.end(); ++itr)</div>
+<div class="line"><span class="lineno">  192</span>        itr-&gt;second-&gt;KickPlayer(<span class="stringliteral">&quot;KickAll offline sessions&quot;</span>);</div>
+<div class="line"><span class="lineno">  193</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00095">_offlineSessions</a>, <a class="el" href="../../#l00101">_queuedPlayer</a>, and <a class="el" href="../../#l00094">_sessions</a>.</p>
+
+</div>
+</div>
+<a id="a1e46b0caf50047514c40645f886d50bf" name="a1e46b0caf50047514c40645f886d50bf"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1e46b0caf50047514c40645f886d50bf">&#9670;&#160;</a></span>KickAllLess()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void WorldSessionMgr::KickAllLess </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../db/dbc/a00395.html#adaa1cabfe05f8df3c272bdcfd89cdac7">AccountTypes</a>&#160;</td>
+          <td class="paramname"><em>sec</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Kick (and save) all players with security level less <code>sec</code> </p>
+<div class="fragment"><div class="line"><span class="lineno">  197</span>{</div>
+<div class="line"><span class="lineno">  198</span>    <span class="comment">// session not removed at kick and will removed in next update tick</span></div>
+<div class="line"><span class="lineno">  199</span>    <span class="keywordflow">for</span> (SessionMap::const_iterator itr = <a class="code hl_variable" href="../../df/d70/a11154.html#a1c9c41702c6a4261c3e5fd2663f151d0">_sessions</a>.begin(); itr != <a class="code hl_variable" href="../../df/d70/a11154.html#a1c9c41702c6a4261c3e5fd2663f151d0">_sessions</a>.end(); ++itr)</div>
+<div class="line"><span class="lineno">  200</span>        <span class="keywordflow">if</span> (itr-&gt;second-&gt;GetSecurity() &lt; sec)</div>
+<div class="line"><span class="lineno">  201</span>            itr-&gt;second-&gt;KickPlayer(<span class="stringliteral">&quot;KickAllLess&quot;</span>);</div>
+<div class="line"><span class="lineno">  202</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00094">_sessions</a>.</p>
+
+</div>
+</div>
+<a id="a152ef062ca6e1ddc2599588c4cd33b41" name="a152ef062ca6e1ddc2599588c4cd33b41"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a152ef062ca6e1ddc2599588c4cd33b41">&#9670;&#160;</a></span>KickSession()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool WorldSessionMgr::KickSession </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>id</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Remove a given session. </p>
+<ul>
+<li>Find the session, kick the user, but we can't delete session at this moment to prevent iterator invalidation</li>
+</ul>
+<div class="fragment"><div class="line"><span class="lineno">  166</span>{</div>
+<div class="line"><span class="lineno">  168</span>    SessionMap::const_iterator itr = <a class="code hl_variable" href="../../df/d70/a11154.html#a1c9c41702c6a4261c3e5fd2663f151d0">_sessions</a>.find(<span class="keywordtype">id</span>);</div>
+<div class="line"><span class="lineno">  169</span> </div>
+<div class="line"><span class="lineno">  170</span>    <span class="keywordflow">if</span> (itr != <a class="code hl_variable" href="../../df/d70/a11154.html#a1c9c41702c6a4261c3e5fd2663f151d0">_sessions</a>.end() &amp;&amp; itr-&gt;second)</div>
+<div class="line"><span class="lineno">  171</span>    {</div>
+<div class="line"><span class="lineno">  172</span>        <span class="keywordflow">if</span> (itr-&gt;second-&gt;PlayerLoading())</div>
+<div class="line"><span class="lineno">  173</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  174</span> </div>
+<div class="line"><span class="lineno">  175</span>        itr-&gt;second-&gt;KickPlayer(<span class="stringliteral">&quot;KickSession&quot;</span>, <span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno">  176</span>    }</div>
+<div class="line"><span class="lineno">  177</span> </div>
+<div class="line"><span class="lineno">  178</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  179</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00094">_sessions</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00277">AddSession_()</a>.</p>
+
+</div>
+</div>
+<a id="ae05a416541dc5ef3e0611a835d19e70a" name="ae05a416541dc5ef3e0611a835d19e70a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae05a416541dc5ef3e0611a835d19e70a">&#9670;&#160;</a></span>RemoveQueuedPlayer()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool WorldSessionMgr::RemoveQueuedPlayer </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d2/d4b/a11146.html">WorldSession</a> *&#160;</td>
+          <td class="paramname"><em>session</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  219</span>{</div>
+<div class="line"><span class="lineno">  220</span>    <a class="code hl_typedef" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> sessions = <a class="code hl_function" href="../../df/d70/a11154.html#a41014381cb82fede01329f472f6352d2">GetActiveSessionCount</a>();</div>
+<div class="line"><span class="lineno">  221</span> </div>
+<div class="line"><span class="lineno">  222</span>    <a class="code hl_typedef" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> position = 1;</div>
+<div class="line"><span class="lineno">  223</span>    Queue::iterator iter = <a class="code hl_variable" href="../../df/d70/a11154.html#aceb362636b5fe7b4061d5870de4558cc">_queuedPlayer</a>.begin();</div>
+<div class="line"><span class="lineno">  224</span> </div>
+<div class="line"><span class="lineno">  225</span>    <span class="comment">// search to remove and count skipped positions</span></div>
+<div class="line"><span class="lineno">  226</span>    <span class="keywordtype">bool</span> found = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  227</span> </div>
+<div class="line"><span class="lineno">  228</span>    <span class="keywordflow">for</span> (; iter != <a class="code hl_variable" href="../../df/d70/a11154.html#aceb362636b5fe7b4061d5870de4558cc">_queuedPlayer</a>.end(); ++iter, ++position)</div>
+<div class="line"><span class="lineno">  229</span>    {</div>
+<div class="line"><span class="lineno">  230</span>        <span class="keywordflow">if</span> (*iter == session)</div>
+<div class="line"><span class="lineno">  231</span>        {</div>
+<div class="line"><span class="lineno">  232</span>            session-&gt;<a class="code hl_function" href="../../d2/d4b/a11146.html#a925fd2929c66ff019044d98078aab6ce">SetInQueue</a>(<span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno">  233</span>            session-&gt;<a class="code hl_function" href="../../d2/d4b/a11146.html#ae0e743d72f66c8ae96d9bec226fa9ad6">ResetTimeOutTime</a>(<span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno">  234</span>            iter = <a class="code hl_variable" href="../../df/d70/a11154.html#aceb362636b5fe7b4061d5870de4558cc">_queuedPlayer</a>.erase(iter);</div>
+<div class="line"><span class="lineno">  235</span>            found = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  236</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  237</span>        }</div>
+<div class="line"><span class="lineno">  238</span>    }</div>
+<div class="line"><span class="lineno">  239</span> </div>
+<div class="line"><span class="lineno">  240</span>    <span class="comment">// if session not queued then it was an active session</span></div>
+<div class="line"><span class="lineno">  241</span>    <span class="keywordflow">if</span> (!found)</div>
+<div class="line"><span class="lineno">  242</span>    {</div>
+<div class="line"><span class="lineno">  243</span>        <a class="code hl_define" href="../../dc/d9a/a00218.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(sessions &gt; 0);</div>
+<div class="line"><span class="lineno">  244</span>        --sessions;</div>
+<div class="line"><span class="lineno">  245</span>    }</div>
+<div class="line"><span class="lineno">  246</span> </div>
+<div class="line"><span class="lineno">  247</span>    <span class="comment">// accept first in queue</span></div>
+<div class="line"><span class="lineno">  248</span>    <span class="keywordflow">if</span> ((!<a class="code hl_function" href="../../df/d70/a11154.html#a558c19c8ac800961d0d734c22f34700a">GetPlayerAmountLimit</a>() || sessions &lt; <a class="code hl_function" href="../../df/d70/a11154.html#a558c19c8ac800961d0d734c22f34700a">GetPlayerAmountLimit</a>()) &amp;&amp; !<a class="code hl_variable" href="../../df/d70/a11154.html#aceb362636b5fe7b4061d5870de4558cc">_queuedPlayer</a>.empty())</div>
+<div class="line"><span class="lineno">  249</span>    {</div>
+<div class="line"><span class="lineno">  250</span>        <a class="code hl_class" href="../../d2/d4b/a11146.html">WorldSession</a>* pop_sess = <a class="code hl_variable" href="../../df/d70/a11154.html#aceb362636b5fe7b4061d5870de4558cc">_queuedPlayer</a>.front();</div>
+<div class="line"><span class="lineno">  251</span>        pop_sess-&gt;<a class="code hl_function" href="../../d2/d4b/a11146.html#ae1e51c0a1aec5ba7fe5ce1b667f7e5ca">InitializeSession</a>();</div>
+<div class="line"><span class="lineno">  252</span>        <a class="code hl_variable" href="../../df/d70/a11154.html#aceb362636b5fe7b4061d5870de4558cc">_queuedPlayer</a>.pop_front();</div>
+<div class="line"><span class="lineno">  253</span> </div>
+<div class="line"><span class="lineno">  254</span>        <span class="comment">// update iter to point first queued socket or end() if queue is empty now</span></div>
+<div class="line"><span class="lineno">  255</span>        iter = <a class="code hl_variable" href="../../df/d70/a11154.html#aceb362636b5fe7b4061d5870de4558cc">_queuedPlayer</a>.begin();</div>
+<div class="line"><span class="lineno">  256</span>        position = 1;</div>
+<div class="line"><span class="lineno">  257</span>    }</div>
+<div class="line"><span class="lineno">  258</span> </div>
+<div class="line"><span class="lineno">  259</span>    <span class="comment">// update queue position from iter to end()</span></div>
+<div class="line"><span class="lineno">  260</span>    <span class="keywordflow">for</span> (; iter != <a class="code hl_variable" href="../../df/d70/a11154.html#aceb362636b5fe7b4061d5870de4558cc">_queuedPlayer</a>.end(); ++iter, ++position)</div>
+<div class="line"><span class="lineno">  261</span>        (*iter)-&gt;SendAuthWaitQueue(position);</div>
+<div class="line"><span class="lineno">  262</span> </div>
+<div class="line"><span class="lineno">  263</span>    <span class="keywordflow">return</span> found;</div>
+<div class="line"><span class="lineno">  264</span>}</div>
+<div class="ttc" id="aa11146_html_ae0e743d72f66c8ae96d9bec226fa9ad6"><div class="ttname"><a href="../../d2/d4b/a11146.html#ae0e743d72f66c8ae96d9bec226fa9ad6">WorldSession::ResetTimeOutTime</a></div><div class="ttdeci">void ResetTimeOutTime(bool onlyActive)</div><div class="ttdef"><b>Definition:</b> WorldSession.h:562</div></div>
+<div class="ttc" id="aa11154_html_a41014381cb82fede01329f472f6352d2"><div class="ttname"><a href="../../df/d70/a11154.html#a41014381cb82fede01329f472f6352d2">WorldSessionMgr::GetActiveSessionCount</a></div><div class="ttdeci">uint32 GetActiveSessionCount() const</div><div class="ttdef"><b>Definition:</b> WorldSessionMgr.h:62</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00101">_queuedPlayer</a>, <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00062">GetActiveSessionCount()</a>, <a class="el" href="../../#l00072">GetPlayerAmountLimit()</a>, <a class="el" href="../../#l01473">WorldSession::InitializeSession()</a>, <a class="el" href="../../#l00562">WorldSession::ResetTimeOutTime()</a>, and <a class="el" href="../../#l00431">WorldSession::SetInQueue()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00277">AddSession_()</a>, and <a class="el" href="../../#l00091">UpdateSessions()</a>.</p>
+
+</div>
+</div>
+<a id="a56fc77b52d3340a3e3432254f5274bfb" name="a56fc77b52d3340a3e3432254f5274bfb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a56fc77b52d3340a3e3432254f5274bfb">&#9670;&#160;</a></span>SendGlobalGMMessage()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void WorldSessionMgr::SendGlobalGMMessage </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d3/ddb/a11102.html">WorldPacket</a> const *&#160;</td>
+          <td class="paramname"><em>packet</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d2/d4b/a11146.html">WorldSession</a> *&#160;</td>
+          <td class="paramname"><em>self</em> = <code>nullptr</code>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../dc/d43/a04727.html#abfb349736a7699bdfcdb134035ef7865">TeamId</a>&#160;</td>
+          <td class="paramname"><em>teamId</em> = <code><a class="el" href="../../dc/d43/a04727.html#abfb349736a7699bdfcdb134035ef7865a1d009932a5dde84d818f627cfcfe3fe5">TEAM_NEUTRAL</a></code>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Send a packet to all GMs (except self if mentioned) </p>
+<div class="fragment"><div class="line"><span class="lineno">  385</span>{</div>
+<div class="line"><span class="lineno">  386</span>    SessionMap::iterator itr;</div>
+<div class="line"><span class="lineno">  387</span>    <span class="keywordflow">for</span> (itr = <a class="code hl_variable" href="../../df/d70/a11154.html#a1c9c41702c6a4261c3e5fd2663f151d0">_sessions</a>.begin(); itr != <a class="code hl_variable" href="../../df/d70/a11154.html#a1c9c41702c6a4261c3e5fd2663f151d0">_sessions</a>.end(); ++itr)</div>
+<div class="line"><span class="lineno">  388</span>    {</div>
+<div class="line"><span class="lineno">  389</span>        <span class="keywordflow">if</span> (itr-&gt;second &amp;&amp;</div>
+<div class="line"><span class="lineno">  390</span>            itr-&gt;second-&gt;GetPlayer() &amp;&amp;</div>
+<div class="line"><span class="lineno">  391</span>            itr-&gt;second-&gt;GetPlayer()-&gt;IsInWorld() &amp;&amp;</div>
+<div class="line"><span class="lineno">  392</span>            itr-&gt;second != self &amp;&amp;</div>
+<div class="line"><span class="lineno">  393</span>            !<a class="code hl_function" href="../../d4/d9a/a04829.html#a63751f144cb7acb57fc20f0caf5e7043">AccountMgr::IsPlayerAccount</a>(itr-&gt;second-&gt;GetSecurity()) &amp;&amp;</div>
+<div class="line"><span class="lineno">  394</span>            (teamId == <a class="code hl_enumvalue" href="../../dc/d43/a04727.html#abfb349736a7699bdfcdb134035ef7865a1d009932a5dde84d818f627cfcfe3fe5">TEAM_NEUTRAL</a> || itr-&gt;second-&gt;GetPlayer()-&gt;GetTeamId() == teamId))</div>
+<div class="line"><span class="lineno">  395</span>        {</div>
+<div class="line"><span class="lineno">  396</span>            itr-&gt;second-&gt;SendPacket(packet);</div>
+<div class="line"><span class="lineno">  397</span>        }</div>
+<div class="line"><span class="lineno">  398</span>    }</div>
+<div class="line"><span class="lineno">  399</span>}</div>
+<div class="ttc" id="aa04727_html_abfb349736a7699bdfcdb134035ef7865a1d009932a5dde84d818f627cfcfe3fe5"><div class="ttname"><a href="../../dc/d43/a04727.html#abfb349736a7699bdfcdb134035ef7865a1d009932a5dde84d818f627cfcfe3fe5">TEAM_NEUTRAL</a></div><div class="ttdeci">@ TEAM_NEUTRAL</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:773</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00094">_sessions</a>, <a class="el" href="../../#l00312">AccountMgr::IsPlayerAccount()</a>, and <a class="el" href="../../#l00773">TEAM_NEUTRAL</a>.</p>
+
+</div>
+</div>
+<a id="af32e97573c3742b0e922a6537d9c56ac" name="af32e97573c3742b0e922a6537d9c56ac"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af32e97573c3742b0e922a6537d9c56ac">&#9670;&#160;</a></span>SendGlobalMessage()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void WorldSessionMgr::SendGlobalMessage </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d3/ddb/a11102.html">WorldPacket</a> const *&#160;</td>
+          <td class="paramname"><em>packet</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d2/d4b/a11146.html">WorldSession</a> *&#160;</td>
+          <td class="paramname"><em>self</em> = <code>nullptr</code>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../dc/d43/a04727.html#abfb349736a7699bdfcdb134035ef7865">TeamId</a>&#160;</td>
+          <td class="paramname"><em>teamId</em> = <code><a class="el" href="../../dc/d43/a04727.html#abfb349736a7699bdfcdb134035ef7865a1d009932a5dde84d818f627cfcfe3fe5">TEAM_NEUTRAL</a></code>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Send a packet to all players (except self if mentioned) </p>
+<div class="fragment"><div class="line"><span class="lineno">  368</span>{</div>
+<div class="line"><span class="lineno">  369</span>    SessionMap::const_iterator itr;</div>
+<div class="line"><span class="lineno">  370</span>    <span class="keywordflow">for</span> (itr = <a class="code hl_variable" href="../../df/d70/a11154.html#a1c9c41702c6a4261c3e5fd2663f151d0">_sessions</a>.begin(); itr != <a class="code hl_variable" href="../../df/d70/a11154.html#a1c9c41702c6a4261c3e5fd2663f151d0">_sessions</a>.end(); ++itr)</div>
+<div class="line"><span class="lineno">  371</span>    {</div>
+<div class="line"><span class="lineno">  372</span>        <span class="keywordflow">if</span> (itr-&gt;second &amp;&amp;</div>
+<div class="line"><span class="lineno">  373</span>            itr-&gt;second-&gt;GetPlayer() &amp;&amp;</div>
+<div class="line"><span class="lineno">  374</span>            itr-&gt;second-&gt;GetPlayer()-&gt;IsInWorld() &amp;&amp;</div>
+<div class="line"><span class="lineno">  375</span>            itr-&gt;second != self &amp;&amp;</div>
+<div class="line"><span class="lineno">  376</span>            (teamId == <a class="code hl_enumvalue" href="../../dc/d43/a04727.html#abfb349736a7699bdfcdb134035ef7865a1d009932a5dde84d818f627cfcfe3fe5">TEAM_NEUTRAL</a> || itr-&gt;second-&gt;GetPlayer()-&gt;GetTeamId() == teamId))</div>
+<div class="line"><span class="lineno">  377</span>        {</div>
+<div class="line"><span class="lineno">  378</span>            itr-&gt;second-&gt;SendPacket(packet);</div>
+<div class="line"><span class="lineno">  379</span>        }</div>
+<div class="line"><span class="lineno">  380</span>    }</div>
+<div class="line"><span class="lineno">  381</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00094">_sessions</a>, and <a class="el" href="../../#l00773">TEAM_NEUTRAL</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00425">SendServerMessage()</a>.</p>
+
+</div>
+</div>
+<a id="a9bca1ddebb09c5fdba4d8dd70076a6ba" name="a9bca1ddebb09c5fdba4d8dd70076a6ba"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9bca1ddebb09c5fdba4d8dd70076a6ba">&#9670;&#160;</a></span>SendServerMessage()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void WorldSessionMgr::SendServerMessage </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d4/db9/a02918.html#a08e6f7cfaf7929274a1908b0e95c798f">ServerMessageType</a>&#160;</td>
+          <td class="paramname"><em>messageID</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">std::string&#160;</td>
+          <td class="paramname"><em>stringParam</em> = <code>&quot;&quot;</code>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d4/d95/a08630.html">Player</a> *&#160;</td>
+          <td class="paramname"><em>player</em> = <code>nullptr</code>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Send a server message to the user(s) </p>
+<div class="fragment"><div class="line"><span class="lineno">  426</span>{</div>
+<div class="line"><span class="lineno">  427</span>    <a class="code hl_class" href="../../d0/d62/a10546.html">WorldPackets::Chat::ChatServerMessage</a> chatServerMessage;</div>
+<div class="line"><span class="lineno">  428</span>    chatServerMessage.<a class="code hl_variable" href="../../d0/d62/a10546.html#afde854fc17313d214fa0f0cdc48ca9a9">MessageID</a> = <a class="code hl_typedef" href="../../d0/d61/a00302.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>(messageID);</div>
+<div class="line"><span class="lineno">  429</span>    <span class="keywordflow">if</span> (messageID &lt;= <a class="code hl_enumvalue" href="../../d4/db9/a02918.html#a08e6f7cfaf7929274a1908b0e95c798fa7b603f35c79df6fdd3f52f235dfaf517">SERVER_MSG_STRING</a>)</div>
+<div class="line"><span class="lineno">  430</span>        chatServerMessage.<a class="code hl_variable" href="../../d0/d62/a10546.html#ac39a08d84c8f5934d0fe26e91809e60a">StringParam</a> = stringParam;</div>
+<div class="line"><span class="lineno">  431</span> </div>
+<div class="line"><span class="lineno">  432</span>    <span class="keywordflow">if</span> (player)</div>
+<div class="line"><span class="lineno">  433</span>        player-&gt;<a class="code hl_function" href="../../d4/d95/a08630.html#a2ad9b8f6c94365d5afe104567198aba8">SendDirectMessage</a>(chatServerMessage.<a class="code hl_function" href="../../d0/d62/a10546.html#af8bad4d39693290674bda2e2ad8685bf">Write</a>());</div>
+<div class="line"><span class="lineno">  434</span>    <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  435</span>        <a class="code hl_function" href="../../df/d70/a11154.html#af32e97573c3742b0e922a6537d9c56ac">SendGlobalMessage</a>(chatServerMessage.<a class="code hl_function" href="../../d0/d62/a10546.html#af8bad4d39693290674bda2e2ad8685bf">Write</a>());</div>
+<div class="line"><span class="lineno">  436</span>}</div>
+<div class="ttc" id="aa00302_html_a0bf9964a3ce962c07ad3d8b5432bbbcd"><div class="ttname"><a href="../../d0/d61/a00302.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a></div><div class="ttdeci">std::int32_t int32</div><div class="ttdef"><b>Definition:</b> Define.h:103</div></div>
+<div class="ttc" id="aa02918_html_a08e6f7cfaf7929274a1908b0e95c798fa7b603f35c79df6fdd3f52f235dfaf517"><div class="ttname"><a href="../../d4/db9/a02918.html#a08e6f7cfaf7929274a1908b0e95c798fa7b603f35c79df6fdd3f52f235dfaf517">SERVER_MSG_STRING</a></div><div class="ttdeci">@ SERVER_MSG_STRING</div><div class="ttdef"><b>Definition:</b> IWorld.h:57</div></div>
+<div class="ttc" id="aa08630_html_a2ad9b8f6c94365d5afe104567198aba8"><div class="ttname"><a href="../../d4/d95/a08630.html#a2ad9b8f6c94365d5afe104567198aba8">Player::SendDirectMessage</a></div><div class="ttdeci">void SendDirectMessage(WorldPacket const *data) const</div><div class="ttdef"><b>Definition:</b> Player.cpp:5728</div></div>
+<div class="ttc" id="aa10546_html"><div class="ttname"><a href="../../d0/d62/a10546.html">WorldPackets::Chat::ChatServerMessage</a></div><div class="ttdef"><b>Definition:</b> ChatPackets.h:50</div></div>
+<div class="ttc" id="aa10546_html_ac39a08d84c8f5934d0fe26e91809e60a"><div class="ttname"><a href="../../d0/d62/a10546.html#ac39a08d84c8f5934d0fe26e91809e60a">WorldPackets::Chat::ChatServerMessage::StringParam</a></div><div class="ttdeci">std::string StringParam</div><div class="ttdef"><b>Definition:</b> ChatPackets.h:57</div></div>
+<div class="ttc" id="aa10546_html_af8bad4d39693290674bda2e2ad8685bf"><div class="ttname"><a href="../../d0/d62/a10546.html#af8bad4d39693290674bda2e2ad8685bf">WorldPackets::Chat::ChatServerMessage::Write</a></div><div class="ttdeci">WorldPacket const * Write() override</div><div class="ttdef"><b>Definition:</b> ChatPackets.cpp:33</div></div>
+<div class="ttc" id="aa10546_html_afde854fc17313d214fa0f0cdc48ca9a9"><div class="ttname"><a href="../../d0/d62/a10546.html#afde854fc17313d214fa0f0cdc48ca9a9">WorldPackets::Chat::ChatServerMessage::MessageID</a></div><div class="ttdeci">int32 MessageID</div><div class="ttdef"><b>Definition:</b> ChatPackets.h:56</div></div>
+<div class="ttc" id="aa11154_html_af32e97573c3742b0e922a6537d9c56ac"><div class="ttname"><a href="../../df/d70/a11154.html#af32e97573c3742b0e922a6537d9c56ac">WorldSessionMgr::SendGlobalMessage</a></div><div class="ttdeci">void SendGlobalMessage(WorldPacket const *packet, WorldSession *self=nullptr, TeamId teamId=TEAM_NEUTRAL)</div><div class="ttdoc">Send a packet to all players (except self if mentioned)</div><div class="ttdef"><b>Definition:</b> WorldSessionMgr.cpp:367</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00056">WorldPackets::Chat::ChatServerMessage::MessageID</a>, <a class="el" href="../../#l05728">Player::SendDirectMessage()</a>, <a class="el" href="../../#l00367">SendGlobalMessage()</a>, <a class="el" href="../../#l00057">SERVER_MSG_STRING</a>, <a class="el" href="../../#l00057">WorldPackets::Chat::ChatServerMessage::StringParam</a>, and <a class="el" href="../../#l00033">WorldPackets::Chat::ChatServerMessage::Write()</a>.</p>
+
+</div>
+</div>
+<a id="a574d4b97f8877466c5acc97a3b0439fb" name="a574d4b97f8877466c5acc97a3b0439fb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a574d4b97f8877466c5acc97a3b0439fb">&#9670;&#160;</a></span>SendZoneMessage()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool WorldSessionMgr::SendZoneMessage </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>zone</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d3/ddb/a11102.html">WorldPacket</a> const *&#160;</td>
+          <td class="paramname"><em>packet</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d2/d4b/a11146.html">WorldSession</a> *&#160;</td>
+          <td class="paramname"><em>self</em> = <code>nullptr</code>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../dc/d43/a04727.html#abfb349736a7699bdfcdb134035ef7865">TeamId</a>&#160;</td>
+          <td class="paramname"><em>teamId</em> = <code><a class="el" href="../../dc/d43/a04727.html#abfb349736a7699bdfcdb134035ef7865a1d009932a5dde84d818f627cfcfe3fe5">TEAM_NEUTRAL</a></code>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Send a packet to all players (or players selected team) in the zone (except self if mentioned) </p>
+<div class="fragment"><div class="line"><span class="lineno">  403</span>{</div>
+<div class="line"><span class="lineno">  404</span>    <span class="keywordtype">bool</span> foundPlayerToSend = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  405</span>    SessionMap::const_iterator itr;</div>
+<div class="line"><span class="lineno">  406</span> </div>
+<div class="line"><span class="lineno">  407</span>    <span class="keywordflow">for</span> (itr = <a class="code hl_variable" href="../../df/d70/a11154.html#a1c9c41702c6a4261c3e5fd2663f151d0">_sessions</a>.begin(); itr != <a class="code hl_variable" href="../../df/d70/a11154.html#a1c9c41702c6a4261c3e5fd2663f151d0">_sessions</a>.end(); ++itr)</div>
+<div class="line"><span class="lineno">  408</span>    {</div>
+<div class="line"><span class="lineno">  409</span>        <span class="keywordflow">if</span> (itr-&gt;second &amp;&amp;</div>
+<div class="line"><span class="lineno">  410</span>            itr-&gt;second-&gt;GetPlayer() &amp;&amp;</div>
+<div class="line"><span class="lineno">  411</span>            itr-&gt;second-&gt;GetPlayer()-&gt;IsInWorld() &amp;&amp;</div>
+<div class="line"><span class="lineno">  412</span>            itr-&gt;second-&gt;GetPlayer()-&gt;GetZoneId() == zone &amp;&amp;</div>
+<div class="line"><span class="lineno">  413</span>            itr-&gt;second != self &amp;&amp;</div>
+<div class="line"><span class="lineno">  414</span>            (teamId == <a class="code hl_enumvalue" href="../../dc/d43/a04727.html#abfb349736a7699bdfcdb134035ef7865a1d009932a5dde84d818f627cfcfe3fe5">TEAM_NEUTRAL</a> || itr-&gt;second-&gt;GetPlayer()-&gt;GetTeamId() == teamId))</div>
+<div class="line"><span class="lineno">  415</span>        {</div>
+<div class="line"><span class="lineno">  416</span>            itr-&gt;second-&gt;SendPacket(packet);</div>
+<div class="line"><span class="lineno">  417</span>            foundPlayerToSend = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  418</span>        }</div>
+<div class="line"><span class="lineno">  419</span>    }</div>
+<div class="line"><span class="lineno">  420</span> </div>
+<div class="line"><span class="lineno">  421</span>    <span class="keywordflow">return</span> foundPlayerToSend;</div>
+<div class="line"><span class="lineno">  422</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00094">_sessions</a>, and <a class="el" href="../../#l00773">TEAM_NEUTRAL</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00439">SendZoneText()</a>.</p>
+
+</div>
+</div>
+<a id="af5e5c30b13c4f4b66fcdcb3d6c57f0e4" name="af5e5c30b13c4f4b66fcdcb3d6c57f0e4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af5e5c30b13c4f4b66fcdcb3d6c57f0e4">&#9670;&#160;</a></span>SendZoneText()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void WorldSessionMgr::SendZoneText </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>zone</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">std::string&#160;</td>
+          <td class="paramname"><em>text</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d2/d4b/a11146.html">WorldSession</a> *&#160;</td>
+          <td class="paramname"><em>self</em> = <code>nullptr</code>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../dc/d43/a04727.html#abfb349736a7699bdfcdb134035ef7865">TeamId</a>&#160;</td>
+          <td class="paramname"><em>teamId</em> = <code><a class="el" href="../../dc/d43/a04727.html#abfb349736a7699bdfcdb134035ef7865a1d009932a5dde84d818f627cfcfe3fe5">TEAM_NEUTRAL</a></code>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Send a System Message to all players in the zone (except self if mentioned) </p>
+<div class="fragment"><div class="line"><span class="lineno">  440</span>{</div>
+<div class="line"><span class="lineno">  441</span>    <a class="code hl_class" href="../../d3/ddb/a11102.html">WorldPacket</a> data;</div>
+<div class="line"><span class="lineno">  442</span>    <a class="code hl_function" href="../../d1/d15/a07522.html#a3295cee708d267aac165f9ee55d2e615">ChatHandler::BuildChatPacket</a>(data, <a class="code hl_enumvalue" href="../../dc/d43/a04727.html#a249e68b260c9857b5d0d4cf4697fae16a8fcd3e7170e686c1826b9f7fcdf5df96">CHAT_MSG_SYSTEM</a>, <a class="code hl_enumvalue" href="../../dc/d43/a04727.html#a315ca917ad583797f709ea477dd28705a15adb0ab094ffe068674ecc6ea720d3a">LANG_UNIVERSAL</a>, <span class="keyword">nullptr</span>, <span class="keyword">nullptr</span>, text.c_str());</div>
+<div class="line"><span class="lineno">  443</span>    <a class="code hl_function" href="../../df/d70/a11154.html#a574d4b97f8877466c5acc97a3b0439fb">SendZoneMessage</a>(zone, &amp;data, self, teamId);</div>
+<div class="line"><span class="lineno">  444</span>}</div>
+<div class="ttc" id="aa04727_html_a249e68b260c9857b5d0d4cf4697fae16a8fcd3e7170e686c1826b9f7fcdf5df96"><div class="ttname"><a href="../../dc/d43/a04727.html#a249e68b260c9857b5d0d4cf4697fae16a8fcd3e7170e686c1826b9f7fcdf5df96">CHAT_MSG_SYSTEM</a></div><div class="ttdeci">@ CHAT_MSG_SYSTEM</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:3402</div></div>
+<div class="ttc" id="aa04727_html_a315ca917ad583797f709ea477dd28705a15adb0ab094ffe068674ecc6ea720d3a"><div class="ttname"><a href="../../dc/d43/a04727.html#a315ca917ad583797f709ea477dd28705a15adb0ab094ffe068674ecc6ea720d3a">LANG_UNIVERSAL</a></div><div class="ttdeci">@ LANG_UNIVERSAL</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:746</div></div>
+<div class="ttc" id="aa07522_html_a3295cee708d267aac165f9ee55d2e615"><div class="ttname"><a href="../../d1/d15/a07522.html#a3295cee708d267aac165f9ee55d2e615">ChatHandler::BuildChatPacket</a></div><div class="ttdeci">static std::size_t BuildChatPacket(WorldPacket &amp;data, ChatMsg chatType, Language language, ObjectGuid senderGUID, ObjectGuid receiverGUID, std::string_view message, uint8 chatTag, std::string const &amp;senderName=&quot;&quot;, std::string const &amp;receiverName=&quot;&quot;, uint32 achievementId=0, bool gmMessage=false, std::string const &amp;channelName=&quot;&quot;)</div><div class="ttdef"><b>Definition:</b> Chat.cpp:265</div></div>
+<div class="ttc" id="aa11102_html"><div class="ttname"><a href="../../d3/ddb/a11102.html">WorldPacket</a></div><div class="ttdef"><b>Definition:</b> WorldPacket.h:26</div></div>
+<div class="ttc" id="aa11154_html_a574d4b97f8877466c5acc97a3b0439fb"><div class="ttname"><a href="../../df/d70/a11154.html#a574d4b97f8877466c5acc97a3b0439fb">WorldSessionMgr::SendZoneMessage</a></div><div class="ttdeci">bool SendZoneMessage(uint32 zone, WorldPacket const *packet, WorldSession *self=nullptr, TeamId teamId=TEAM_NEUTRAL)</div><div class="ttdoc">Send a packet to all players (or players selected team) in the zone (except self if mentioned)</div><div class="ttdef"><b>Definition:</b> WorldSessionMgr.cpp:402</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00265">ChatHandler::BuildChatPacket()</a>, <a class="el" href="../../#l03402">CHAT_MSG_SYSTEM</a>, <a class="el" href="../../#l00746">LANG_UNIVERSAL</a>, and <a class="el" href="../../#l00402">SendZoneMessage()</a>.</p>
+
+</div>
+</div>
+<a id="a773b78393737216b3e8cbb506f5335ca" name="a773b78393737216b3e8cbb506f5335ca"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a773b78393737216b3e8cbb506f5335ca">&#9670;&#160;</a></span>SetPlayerAmountLimit()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void WorldSessionMgr::SetPlayerAmountLimit </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>limit</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Active session server limit. </p>
+<div class="fragment"><div class="line"><span class="lineno">   71</span>{ <a class="code hl_variable" href="../../df/d70/a11154.html#a5014fbe3488ab42044035ba51c22a9ce">_playerLimit</a> = limit; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00103">_playerLimit</a>.</p>
+
+</div>
+</div>
+<a id="a4d5f21e27d14a2dee1ff4e48bdb7b341" name="a4d5f21e27d14a2dee1ff4e48bdb7b341"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4d5f21e27d14a2dee1ff4e48bdb7b341">&#9670;&#160;</a></span>UpdateMaxSessionCounters()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void WorldSessionMgr::UpdateMaxSessionCounters </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Get the number of current active sessions. </p>
+<div class="fragment"><div class="line"><span class="lineno">  361</span>{</div>
+<div class="line"><span class="lineno">  362</span>    <a class="code hl_variable" href="../../df/d70/a11154.html#a564d19d48fb433cc9a85c1434d6ecf81">_maxActiveSessionCount</a> = std::max(<a class="code hl_variable" href="../../df/d70/a11154.html#a564d19d48fb433cc9a85c1434d6ecf81">_maxActiveSessionCount</a>, <a class="code hl_typedef" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(<a class="code hl_variable" href="../../df/d70/a11154.html#a1c9c41702c6a4261c3e5fd2663f151d0">_sessions</a>.size() - <a class="code hl_variable" href="../../df/d70/a11154.html#aceb362636b5fe7b4061d5870de4558cc">_queuedPlayer</a>.size()));</div>
+<div class="line"><span class="lineno">  363</span>    <a class="code hl_variable" href="../../df/d70/a11154.html#a63bcf9b4f2625b466c276fae8d5593cc">_maxQueuedSessionCount</a> = std::max(<a class="code hl_variable" href="../../df/d70/a11154.html#a63bcf9b4f2625b466c276fae8d5593cc">_maxQueuedSessionCount</a>, <a class="code hl_typedef" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(<a class="code hl_variable" href="../../df/d70/a11154.html#aceb362636b5fe7b4061d5870de4558cc">_queuedPlayer</a>.size()));</div>
+<div class="line"><span class="lineno">  364</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00104">_maxActiveSessionCount</a>, <a class="el" href="../../#l00105">_maxQueuedSessionCount</a>, <a class="el" href="../../#l00101">_queuedPlayer</a>, and <a class="el" href="../../#l00094">_sessions</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00277">AddSession_()</a>.</p>
+
+</div>
+</div>
+<a id="a6234855de299f067b0b61e690f532835" name="a6234855de299f067b0b61e690f532835"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6234855de299f067b0b61e690f532835">&#9670;&#160;</a></span>UpdateSessions()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void WorldSessionMgr::UpdateSessions </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> const&#160;</td>
+          <td class="paramname"><em>diff</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<ul>
+<li>Add new sessions</li>
+<li>Then send an update signal to remaining ones</li>
+<li>and remove not active sessions from the list</li>
+</ul>
+<div class="fragment"><div class="line"><span class="lineno">   92</span>{</div>
+<div class="line"><span class="lineno">   93</span>    {</div>
+<div class="line"><span class="lineno">   94</span>        <a class="code hl_define" href="../../d7/d00/a00401.html#a281633f6f8b252d96029ce8fd29da746">METRIC_DETAILED_NO_THRESHOLD_TIMER</a>(<span class="stringliteral">&quot;world_update_time&quot;</span>,</div>
+<div class="line"><span class="lineno">   95</span>            <a class="code hl_define" href="../../d7/d00/a00401.html#ab81b5769123c1e5e3870b9b05f25fe0a">METRIC_TAG</a>(<span class="stringliteral">&quot;type&quot;</span>, <span class="stringliteral">&quot;Add sessions&quot;</span>),</div>
+<div class="line"><span class="lineno">   96</span>            <a class="code hl_define" href="../../d7/d00/a00401.html#ab81b5769123c1e5e3870b9b05f25fe0a">METRIC_TAG</a>(<span class="stringliteral">&quot;parent_type&quot;</span>, <span class="stringliteral">&quot;Update sessions&quot;</span>));</div>
+<div class="line"><span class="lineno">   97</span> </div>
+<div class="line"><span class="lineno">   99</span>        <a class="code hl_class" href="../../d2/d4b/a11146.html">WorldSession</a>* sess = <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">  100</span>        <span class="keywordflow">while</span> (<a class="code hl_variable" href="../../df/d70/a11154.html#acf06a5c5685db9b266d9323bb915d4aa">_addSessQueue</a>.<a class="code hl_function" href="../../d9/d61/a05402.html#ac818ec56d60e2ec059857e0aaa99f8a4">next</a>(sess))</div>
+<div class="line"><span class="lineno">  101</span>        {</div>
+<div class="line"><span class="lineno">  102</span>            <a class="code hl_function" href="../../df/d70/a11154.html#a1396aef667415727714f25c68ca33d65">AddSession_</a>(sess);</div>
+<div class="line"><span class="lineno">  103</span>        }</div>
+<div class="line"><span class="lineno">  104</span>    }</div>
+<div class="line"><span class="lineno">  105</span> </div>
+<div class="line"><span class="lineno">  107</span>    <span class="keywordflow">for</span> (SessionMap::iterator itr = <a class="code hl_variable" href="../../df/d70/a11154.html#a1c9c41702c6a4261c3e5fd2663f151d0">_sessions</a>.begin(), next; itr != <a class="code hl_variable" href="../../df/d70/a11154.html#a1c9c41702c6a4261c3e5fd2663f151d0">_sessions</a>.end(); itr = next)</div>
+<div class="line"><span class="lineno">  108</span>    {</div>
+<div class="line"><span class="lineno">  109</span>        next = itr;</div>
+<div class="line"><span class="lineno">  110</span>        ++next;</div>
+<div class="line"><span class="lineno">  111</span> </div>
+<div class="line"><span class="lineno">  113</span>        <a class="code hl_class" href="../../d2/d4b/a11146.html">WorldSession</a>* pSession = itr-&gt;second;</div>
+<div class="line"><span class="lineno">  114</span>        <a class="code hl_class" href="../../d1/d60/a11122.html">WorldSessionFilter</a> updater(pSession);</div>
+<div class="line"><span class="lineno">  115</span> </div>
+<div class="line"><span class="lineno">  116</span>        <span class="comment">// pussywizard:</span></div>
+<div class="line"><span class="lineno">  117</span>        <span class="keywordflow">if</span> (pSession-&gt;<a class="code hl_function" href="../../d2/d4b/a11146.html#a9ae6d2e8d45ac594b48f8cdd4aa5a0b9">HandleSocketClosed</a>())</div>
+<div class="line"><span class="lineno">  118</span>        {</div>
+<div class="line"><span class="lineno">  119</span>            <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../df/d70/a11154.html#ae05a416541dc5ef3e0611a835d19e70a">RemoveQueuedPlayer</a>(pSession) &amp;&amp; <a class="code hl_define" href="../../da/d11/a04792.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getIntConfig(<a class="code hl_enumvalue" href="../../de/d87/a02939.html#a468ad15992691eb97dd20680046832e0abec90063546d416bed17328ae5f8e7f9">CONFIG_INTERVAL_DISCONNECT_TOLERANCE</a>))</div>
+<div class="line"><span class="lineno">  120</span>                <a class="code hl_variable" href="../../df/d70/a11154.html#a4dc377ec8326db07146d0521d0c0907d">_disconnects</a>[pSession-&gt;<a class="code hl_function" href="../../d2/d4b/a11146.html#a9fa5510daf576fe281d1961430902dd9">GetAccountId</a>()] = <a class="code hl_function" href="../../da/dbb/a04871.html#adbe1785d1327dedf2ac403b7cc8e99c2">GameTime::GetGameTime</a>().count();</div>
+<div class="line"><span class="lineno">  121</span>            <a class="code hl_variable" href="../../df/d70/a11154.html#a1c9c41702c6a4261c3e5fd2663f151d0">_sessions</a>.erase(itr);</div>
+<div class="line"><span class="lineno">  122</span>            <span class="comment">// there should be no offline session if current one is logged onto a character</span></div>
+<div class="line"><span class="lineno">  123</span>            SessionMap::iterator iter;</div>
+<div class="line"><span class="lineno">  124</span>            <span class="keywordflow">if</span> ((iter = <a class="code hl_variable" href="../../df/d70/a11154.html#a385de87355e09051dff5aed1350d63ac">_offlineSessions</a>.find(pSession-&gt;<a class="code hl_function" href="../../d2/d4b/a11146.html#a9fa5510daf576fe281d1961430902dd9">GetAccountId</a>())) != <a class="code hl_variable" href="../../df/d70/a11154.html#a385de87355e09051dff5aed1350d63ac">_offlineSessions</a>.end())</div>
+<div class="line"><span class="lineno">  125</span>            {</div>
+<div class="line"><span class="lineno">  126</span>                <a class="code hl_class" href="../../d2/d4b/a11146.html">WorldSession</a>* tmp = iter-&gt;second;</div>
+<div class="line"><span class="lineno">  127</span>                <a class="code hl_variable" href="../../df/d70/a11154.html#a385de87355e09051dff5aed1350d63ac">_offlineSessions</a>.erase(iter);</div>
+<div class="line"><span class="lineno">  128</span>                <span class="keyword">delete</span> tmp;</div>
+<div class="line"><span class="lineno">  129</span>            }</div>
+<div class="line"><span class="lineno">  130</span>            pSession-&gt;<a class="code hl_function" href="../../d2/d4b/a11146.html#a2932892fe992dd518fd5929aaa7a46b7">SetOfflineTime</a>(<a class="code hl_function" href="../../da/dbb/a04871.html#adbe1785d1327dedf2ac403b7cc8e99c2">GameTime::GetGameTime</a>().count());</div>
+<div class="line"><span class="lineno">  131</span>            <a class="code hl_variable" href="../../df/d70/a11154.html#a385de87355e09051dff5aed1350d63ac">_offlineSessions</a>[pSession-&gt;<a class="code hl_function" href="../../d2/d4b/a11146.html#a9fa5510daf576fe281d1961430902dd9">GetAccountId</a>()] = pSession;</div>
+<div class="line"><span class="lineno">  132</span>            <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  133</span>        }</div>
+<div class="line"><span class="lineno">  134</span> </div>
+<div class="line"><span class="lineno">  135</span>        [[maybe_unused]] <a class="code hl_typedef" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> currentSessionId = itr-&gt;first;</div>
+<div class="line"><span class="lineno">  136</span>        <a class="code hl_define" href="../../d7/d00/a00401.html#a22dcbf78f0d280a4b2b4e0662034efe9">METRIC_DETAILED_TIMER</a>(<span class="stringliteral">&quot;world_update_sessions_time&quot;</span>, <a class="code hl_define" href="../../d7/d00/a00401.html#ab81b5769123c1e5e3870b9b05f25fe0a">METRIC_TAG</a>(<span class="stringliteral">&quot;account_id&quot;</span>, std::to_string(currentSessionId)));</div>
+<div class="line"><span class="lineno">  137</span> </div>
+<div class="line"><span class="lineno">  138</span>        <span class="keywordflow">if</span> (!pSession-&gt;<a class="code hl_function" href="../../d2/d4b/a11146.html#a062e088e5224575a64c97ada7e494f4c">Update</a>(diff, updater))</div>
+<div class="line"><span class="lineno">  139</span>        {</div>
+<div class="line"><span class="lineno">  140</span>            <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../df/d70/a11154.html#ae05a416541dc5ef3e0611a835d19e70a">RemoveQueuedPlayer</a>(pSession) &amp;&amp; <a class="code hl_define" href="../../da/d11/a04792.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getIntConfig(<a class="code hl_enumvalue" href="../../de/d87/a02939.html#a468ad15992691eb97dd20680046832e0abec90063546d416bed17328ae5f8e7f9">CONFIG_INTERVAL_DISCONNECT_TOLERANCE</a>))</div>
+<div class="line"><span class="lineno">  141</span>                <a class="code hl_variable" href="../../df/d70/a11154.html#a4dc377ec8326db07146d0521d0c0907d">_disconnects</a>[pSession-&gt;<a class="code hl_function" href="../../d2/d4b/a11146.html#a9fa5510daf576fe281d1961430902dd9">GetAccountId</a>()] = <a class="code hl_function" href="../../da/dbb/a04871.html#adbe1785d1327dedf2ac403b7cc8e99c2">GameTime::GetGameTime</a>().count();</div>
+<div class="line"><span class="lineno">  142</span>            <a class="code hl_variable" href="../../df/d70/a11154.html#a1c9c41702c6a4261c3e5fd2663f151d0">_sessions</a>.erase(itr);</div>
+<div class="line"><span class="lineno">  143</span>            <span class="keyword">delete</span> pSession;</div>
+<div class="line"><span class="lineno">  144</span>        }</div>
+<div class="line"><span class="lineno">  145</span>    }</div>
+<div class="line"><span class="lineno">  146</span> </div>
+<div class="line"><span class="lineno">  147</span>    <span class="comment">// pussywizard:</span></div>
+<div class="line"><span class="lineno">  148</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../df/d70/a11154.html#a385de87355e09051dff5aed1350d63ac">_offlineSessions</a>.empty())</div>
+<div class="line"><span class="lineno">  149</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  150</span>    <a class="code hl_typedef" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> currTime = <a class="code hl_function" href="../../da/dbb/a04871.html#adbe1785d1327dedf2ac403b7cc8e99c2">GameTime::GetGameTime</a>().count();</div>
+<div class="line"><span class="lineno">  151</span>    <span class="keywordflow">for</span> (SessionMap::iterator itr = <a class="code hl_variable" href="../../df/d70/a11154.html#a385de87355e09051dff5aed1350d63ac">_offlineSessions</a>.begin(), next; itr != <a class="code hl_variable" href="../../df/d70/a11154.html#a385de87355e09051dff5aed1350d63ac">_offlineSessions</a>.end(); itr = next)</div>
+<div class="line"><span class="lineno">  152</span>    {</div>
+<div class="line"><span class="lineno">  153</span>        next = itr;</div>
+<div class="line"><span class="lineno">  154</span>        ++next;</div>
+<div class="line"><span class="lineno">  155</span>        <a class="code hl_class" href="../../d2/d4b/a11146.html">WorldSession</a>* pSession = itr-&gt;second;</div>
+<div class="line"><span class="lineno">  156</span>        <span class="keywordflow">if</span> (!pSession-&gt;<a class="code hl_function" href="../../d2/d4b/a11146.html#a62c786bcb829a021c267e7eb56809952">GetPlayer</a>() || pSession-&gt;<a class="code hl_function" href="../../d2/d4b/a11146.html#a3edc9dcf5e56d0030a6793b4492dda43">GetOfflineTime</a>() + 60 &lt; currTime || pSession-&gt;<a class="code hl_function" href="../../d2/d4b/a11146.html#afd519a2ae4f8deb94208a71b23a33aaf">IsKicked</a>())</div>
+<div class="line"><span class="lineno">  157</span>        {</div>
+<div class="line"><span class="lineno">  158</span>            <a class="code hl_variable" href="../../df/d70/a11154.html#a385de87355e09051dff5aed1350d63ac">_offlineSessions</a>.erase(itr);</div>
+<div class="line"><span class="lineno">  159</span>            <span class="keyword">delete</span> pSession;</div>
+<div class="line"><span class="lineno">  160</span>        }</div>
+<div class="line"><span class="lineno">  161</span>    }</div>
+<div class="line"><span class="lineno">  162</span>}</div>
+<div class="ttc" id="aa00401_html_a22dcbf78f0d280a4b2b4e0662034efe9"><div class="ttname"><a href="../../d7/d00/a00401.html#a22dcbf78f0d280a4b2b4e0662034efe9">METRIC_DETAILED_TIMER</a></div><div class="ttdeci">#define METRIC_DETAILED_TIMER(category,...)</div><div class="ttdef"><b>Definition:</b> Metric.h:223</div></div>
+<div class="ttc" id="aa00401_html_a281633f6f8b252d96029ce8fd29da746"><div class="ttname"><a href="../../d7/d00/a00401.html#a281633f6f8b252d96029ce8fd29da746">METRIC_DETAILED_NO_THRESHOLD_TIMER</a></div><div class="ttdeci">#define METRIC_DETAILED_NO_THRESHOLD_TIMER(category,...)</div><div class="ttdef"><b>Definition:</b> Metric.h:224</div></div>
+<div class="ttc" id="aa00401_html_ab81b5769123c1e5e3870b9b05f25fe0a"><div class="ttname"><a href="../../d7/d00/a00401.html#ab81b5769123c1e5e3870b9b05f25fe0a">METRIC_TAG</a></div><div class="ttdeci">#define METRIC_TAG(name, value)</div><div class="ttdef"><b>Definition:</b> Metric.h:163</div></div>
+<div class="ttc" id="aa05402_html_ac818ec56d60e2ec059857e0aaa99f8a4"><div class="ttname"><a href="../../d9/d61/a05402.html#ac818ec56d60e2ec059857e0aaa99f8a4">LockedQueue::next</a></div><div class="ttdeci">bool next(T &amp;result)</div><div class="ttdoc">Gets the next item in the queue and removes it.</div><div class="ttdef"><b>Definition:</b> LockedQueue.h:77</div></div>
+<div class="ttc" id="aa11122_html"><div class="ttname"><a href="../../d1/d60/a11122.html">WorldSessionFilter</a></div><div class="ttdef"><b>Definition:</b> WorldSession.h:287</div></div>
+<div class="ttc" id="aa11146_html_a062e088e5224575a64c97ada7e494f4c"><div class="ttname"><a href="../../d2/d4b/a11146.html#a062e088e5224575a64c97ada7e494f4c">WorldSession::Update</a></div><div class="ttdeci">bool Update(uint32 diff, PacketFilter &amp;updater)</div><div class="ttdoc">Update the WorldSession (triggered by World update)</div><div class="ttdef"><b>Definition:</b> WorldSession.cpp:326</div></div>
+<div class="ttc" id="aa11146_html_a3edc9dcf5e56d0030a6793b4492dda43"><div class="ttname"><a href="../../d2/d4b/a11146.html#a3edc9dcf5e56d0030a6793b4492dda43">WorldSession::GetOfflineTime</a></div><div class="ttdeci">uint32 GetOfflineTime() const</div><div class="ttdef"><b>Definition:</b> WorldSession.h:1113</div></div>
+<div class="ttc" id="aa11146_html_a62c786bcb829a021c267e7eb56809952"><div class="ttname"><a href="../../d2/d4b/a11146.html#a62c786bcb829a021c267e7eb56809952">WorldSession::GetPlayer</a></div><div class="ttdeci">Player * GetPlayer() const</div><div class="ttdef"><b>Definition:</b> WorldSession.h:411</div></div>
+<div class="ttc" id="aa11146_html_afd519a2ae4f8deb94208a71b23a33aaf"><div class="ttname"><a href="../../d2/d4b/a11146.html#afd519a2ae4f8deb94208a71b23a33aaf">WorldSession::IsKicked</a></div><div class="ttdeci">bool IsKicked() const</div><div class="ttdef"><b>Definition:</b> WorldSession.h:1114</div></div>
+<div class="ttc" id="aa11154_html_a1396aef667415727714f25c68ca33d65"><div class="ttname"><a href="../../df/d70/a11154.html#a1396aef667415727714f25c68ca33d65">WorldSessionMgr::AddSession_</a></div><div class="ttdeci">void AddSession_(WorldSession *session)</div><div class="ttdef"><b>Definition:</b> WorldSessionMgr.cpp:277</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00091">_addSessQueue</a>, <a class="el" href="../../#l00098">_disconnects</a>, <a class="el" href="../../#l00095">_offlineSessions</a>, <a class="el" href="../../#l00094">_sessions</a>, <a class="el" href="../../#l00277">AddSession_()</a>, <a class="el" href="../../#l00164">CONFIG_INTERVAL_DISCONNECT_TOLERANCE</a>, <a class="el" href="../../#l00410">WorldSession::GetAccountId()</a>, <a class="el" href="../../#l00038">GameTime::GetGameTime()</a>, <a class="el" href="../../#l01113">WorldSession::GetOfflineTime()</a>, <a class="el" href="../../#l00411">WorldSession::GetPlayer()</a>, <a class="el" href="../../#l00562">WorldSession::HandleSocketClosed()</a>, <a class="el" href="../../#l01114">WorldSession::IsKicked()</a>, <a class="el" href="../../#l00224">METRIC_DETAILED_NO_THRESHOLD_TIMER</a>, <a class="el" href="../../#l00223">METRIC_DETAILED_TIMER</a>, <a class="el" href="../../#l00163">METRIC_TAG</a>, <a class="el" href="../../#l00077">LockedQueue&lt; T, StorageType &gt;::next()</a>, <a class="el" href="../../#l00218">RemoveQueuedPlayer()</a>, <a class="el" href="../../#l01112">WorldSession::SetOfflineTime()</a>, <a class="el" href="../../#l00320">sWorld</a>, and <a class="el" href="../../#l00326">WorldSession::Update()</a>.</p>
+
+</div>
+</div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a13a353d02a7330820df170eb46e7a26d" name="a13a353d02a7330820df170eb46e7a26d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a13a353d02a7330820df170eb46e7a26d">&#9670;&#160;</a></span>blockType</h2>
+<a id="acf06a5c5685db9b266d9323bb915d4aa" name="acf06a5c5685db9b266d9323bb915d4aa"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acf06a5c5685db9b266d9323bb915d4aa">&#9670;&#160;</a></span>_addSessQueue</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SpellImmune::blockType</td>
+          <td class="memname"><a class="el" href="../../d9/d61/a05402.html">LockedQueue</a>&lt;<a class="el" href="../../d2/d4b/a11146.html">WorldSession</a>*&gt; WorldSessionMgr::_addSessQueue</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l13474">Unit::ApplySpellImmune()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00204">AddSession()</a>, and <a class="el" href="../../#l00091">UpdateSessions()</a>.</p>
 
 </div>
 </div>
-<a id="a6aeb1bebf2f079424ebfa5192c568adc" name="a6aeb1bebf2f079424ebfa5192c568adc"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6aeb1bebf2f079424ebfa5192c568adc">&#9670;&#160;</a></span>spellId</h2>
+<a id="a4dc377ec8326db07146d0521d0c0907d" name="a4dc377ec8326db07146d0521d0c0907d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4dc377ec8326db07146d0521d0c0907d">&#9670;&#160;</a></span>_disconnects</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SpellImmune::spellId</td>
+          <td class="memname"><a class="el" href="../../df/d70/a11154.html#a87b26d470986090c226cc144c5f6af36">DisconnectMap</a> WorldSessionMgr::_disconnects</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l13474">Unit::ApplySpellImmune()</a>, and <a class="el" href="../../#l13468">spellIdImmunityPredicate::operator()()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00277">AddSession_()</a>, <a class="el" href="../../#l00338">HasRecentlyDisconnected()</a>, and <a class="el" href="../../#l00091">UpdateSessions()</a>.</p>
 
 </div>
 </div>
-<a id="ae1a414f35b2cce61cd4f5640c761f7ea" name="ae1a414f35b2cce61cd4f5640c761f7ea"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae1a414f35b2cce61cd4f5640c761f7ea">&#9670;&#160;</a></span>type</h2>
+<a id="a564d19d48fb433cc9a85c1434d6ecf81" name="a564d19d48fb433cc9a85c1434d6ecf81"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a564d19d48fb433cc9a85c1434d6ecf81">&#9670;&#160;</a></span>_maxActiveSessionCount</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SpellImmune::type</td>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> WorldSessionMgr::_maxActiveSessionCount</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l13474">Unit::ApplySpellImmune()</a>, and <a class="el" href="../../#l13468">spellIdImmunityPredicate::operator()()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00066">GetMaxActiveSessionCount()</a>, <a class="el" href="../../#l00360">UpdateMaxSessionCounters()</a>, and <a class="el" href="../../#l00033">WorldSessionMgr()</a>.</p>
+
+</div>
+</div>
+<a id="ade1bd1d26fcddc04c84eb5254d431eb0" name="ade1bd1d26fcddc04c84eb5254d431eb0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ade1bd1d26fcddc04c84eb5254d431eb0">&#9670;&#160;</a></span>_maxPlayerCount</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> WorldSessionMgr::_maxPlayerCount</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00069">GetMaxPlayerCount()</a>, <a class="el" href="../../#l00075">IncreasePlayerCount()</a>, and <a class="el" href="../../#l00033">WorldSessionMgr()</a>.</p>
+
+</div>
+</div>
+<a id="a63bcf9b4f2625b466c276fae8d5593cc" name="a63bcf9b4f2625b466c276fae8d5593cc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a63bcf9b4f2625b466c276fae8d5593cc">&#9670;&#160;</a></span>_maxQueuedSessionCount</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> WorldSessionMgr::_maxQueuedSessionCount</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00065">GetMaxQueuedSessionCount()</a>, <a class="el" href="../../#l00360">UpdateMaxSessionCounters()</a>, and <a class="el" href="../../#l00033">WorldSessionMgr()</a>.</p>
+
+</div>
+</div>
+<a id="a385de87355e09051dff5aed1350d63ac" name="a385de87355e09051dff5aed1350d63ac"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a385de87355e09051dff5aed1350d63ac">&#9670;&#160;</a></span>_offlineSessions</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../df/d70/a11154.html#aff543987bdf9b5d8c293ddfa393d3c7b">SessionMap</a> WorldSessionMgr::_offlineSessions</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00277">AddSession_()</a>, <a class="el" href="../../#l00070">FindOfflineSession()</a>, <a class="el" href="../../#l00079">FindOfflineSessionForCharacterGUID()</a>, <a class="el" href="../../#l00182">KickAll()</a>, <a class="el" href="../../#l00091">UpdateSessions()</a>, and <a class="el" href="../../#l00042">~WorldSessionMgr()</a>.</p>
+
+</div>
+</div>
+<a id="aca405a0eb8b98eabf38a5f7b10cd0177" name="aca405a0eb8b98eabf38a5f7b10cd0177"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aca405a0eb8b98eabf38a5f7b10cd0177">&#9670;&#160;</a></span>_playerCount</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> WorldSessionMgr::_playerCount</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00080">DecreasePlayerCount()</a>, <a class="el" href="../../#l00068">GetPlayerCount()</a>, <a class="el" href="../../#l00075">IncreasePlayerCount()</a>, and <a class="el" href="../../#l00033">WorldSessionMgr()</a>.</p>
+
+</div>
+</div>
+<a id="a5014fbe3488ab42044035ba51c22a9ce" name="a5014fbe3488ab42044035ba51c22a9ce"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5014fbe3488ab42044035ba51c22a9ce">&#9670;&#160;</a></span>_playerLimit</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> WorldSessionMgr::_playerLimit</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00072">GetPlayerAmountLimit()</a>, <a class="el" href="../../#l00071">SetPlayerAmountLimit()</a>, and <a class="el" href="../../#l00033">WorldSessionMgr()</a>.</p>
+
+</div>
+</div>
+<a id="aceb362636b5fe7b4061d5870de4558cc" name="aceb362636b5fe7b4061d5870de4558cc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aceb362636b5fe7b4061d5870de4558cc">&#9670;&#160;</a></span>_queuedPlayer</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../df/d70/a11154.html#a79a045523b1d345710b7779264386464">Queue</a> WorldSessionMgr::_queuedPlayer</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00209">AddQueuedPlayer()</a>, <a class="el" href="../../#l00062">GetActiveSessionCount()</a>, <a class="el" href="../../#l00063">GetQueuedSessionCount()</a>, <a class="el" href="../../#l00266">GetQueuePos()</a>, <a class="el" href="../../#l00182">KickAll()</a>, <a class="el" href="../../#l00218">RemoveQueuedPlayer()</a>, and <a class="el" href="../../#l00360">UpdateMaxSessionCounters()</a>.</p>
+
+</div>
+</div>
+<a id="a1c9c41702c6a4261c3e5fd2663f151d0" name="a1c9c41702c6a4261c3e5fd2663f151d0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1c9c41702c6a4261c3e5fd2663f151d0">&#9670;&#160;</a></span>_sessions</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../df/d70/a11154.html#aff543987bdf9b5d8c293ddfa393d3c7b">SessionMap</a> WorldSessionMgr::_sessions</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00277">AddSession_()</a>, <a class="el" href="../../#l00060">FindSession()</a>, <a class="el" href="../../#l00061">GetActiveAndQueuedSessionCount()</a>, <a class="el" href="../../#l00062">GetActiveSessionCount()</a>, <a class="el" href="../../#l00057">GetAllSessions()</a>, <a class="el" href="../../#l00182">KickAll()</a>, <a class="el" href="../../#l00196">KickAllLess()</a>, <a class="el" href="../../#l00165">KickSession()</a>, <a class="el" href="../../#l00384">SendGlobalGMMessage()</a>, <a class="el" href="../../#l00367">SendGlobalMessage()</a>, <a class="el" href="../../#l00402">SendZoneMessage()</a>, <a class="el" href="../../#l00360">UpdateMaxSessionCounters()</a>, <a class="el" href="../../#l00091">UpdateSessions()</a>, and <a class="el" href="../../#l00042">~WorldSessionMgr()</a>.</p>
 
 </div>
 </div>
@@ -215,8 +1960,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../df/d70/a11154.html">SpellImmune</a></li>
-    <li class="footer">Generated on Mon Aug 4 2025 20:52:31 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../df/d70/a11154.html">WorldSessionMgr</a></li>
+    <li class="footer">Generated on Mon Sep 1 2025 20:44:45 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

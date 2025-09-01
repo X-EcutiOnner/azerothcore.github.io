@@ -1,6 +1,11 @@
 var a08690 =
 [
-    [ "ResetToHomeOrientation", "df/d36/a08690.html#a1009ddced98cc6fae6108aa36dfba671", null ],
-    [ "Execute", "df/d36/a08690.html#ad46e2d8f0ae0a13bc40ebfaf8c3249aa", null ],
-    [ "_self", "df/d36/a08690.html#a5233190cd777c3d65f2e1c4ce1d6efb2", null ]
+    [ "UnitActionBarEntry", "df/d36/a08690.html#a41f9020c4811b14fc543ddece6af86d7", null ],
+    [ "GetAction", "df/d36/a08690.html#afd77e2f64ec856059759d05ddf77876e", null ],
+    [ "GetType", "df/d36/a08690.html#a0615e6ad9cf5523d6dc85bd529e65f32", null ],
+    [ "IsActionBarForSpell", "df/d36/a08690.html#a2af43ec77fcd077b2fe9ca3a6d80123b", null ],
+    [ "SetAction", "df/d36/a08690.html#aa00953783b0b3de3beb755a054c77730", null ],
+    [ "SetActionAndType", "df/d36/a08690.html#a110840d38445795957ee0425175b4fb6", null ],
+    [ "SetType", "df/d36/a08690.html#a38e0dcad391d09e475f90be5a5382f78", null ],
+    [ "packedData", "df/d36/a08690.html#aa50957a4c707ce3dbdfd62a75e3cb8eb", null ]
 ];

@@ -1,6 +1,7 @@
 var a20442 =
 [
-    [ "npc_ulduar_proximity_mineAI", "df/d1b/a20446.html", "df/d1b/a20446" ],
-    [ "npc_ulduar_proximity_mine", "d8/df3/a20442.html#ac33beb07e17712cdda1b3434d9dc8222", null ],
-    [ "GetAI", "d8/df3/a20442.html#a7d8237b965699004f9df731e357b4020", null ]
+    [ "HandleAfterEffectApply", "d8/df3/a20442.html#adab765d78094eec673abce5140145267", null ],
+    [ "OnApply", "d8/df3/a20442.html#aab4331a7a55dc6f713db02726ec22e3a", null ],
+    [ "PrepareAuraScript", "d8/df3/a20442.html#acb827ae4299ae482d9b7f3fb09bbcc52", null ],
+    [ "Register", "d8/df3/a20442.html#ac1007ce2ee5e046639829558855f0188", null ]
 ];

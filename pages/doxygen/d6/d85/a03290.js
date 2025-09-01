@@ -1,16 +1,7 @@
 var a03290 =
 [
-    [ "boss_grizzle", "d4/dea/a11976.html", "d4/dea/a11976" ],
-    [ "boss_grizzle::boss_grizzleAI", "d3/d20/a11980.html", "d3/d20/a11980" ],
-    [ "Grizzle", "d6/d85/a03290.html#acfff5d4b983e4db1d5efb6bd5da7e7aa", [
-      [ "SPELL_GROUNDTREMOR", "d6/d85/a03290.html#acfff5d4b983e4db1d5efb6bd5da7e7aaa4426ae7fabf4ddb0d8355b0049b5a6bb", null ],
-      [ "SPELL_FRENZY", "d6/d85/a03290.html#acfff5d4b983e4db1d5efb6bd5da7e7aaab54f261ba282273bed875abe6642a293", null ],
-      [ "EMOTE_FRENZY_KILL", "d6/d85/a03290.html#acfff5d4b983e4db1d5efb6bd5da7e7aaaebdb26e3a90dde560c1c4f7fd5615f63", null ]
-    ] ],
-    [ "Timer", "d6/d85/a03290.html#a6e0035edd58cc6ca8c94b5f9723a0d80", [
-      [ "TIMER_GROUNDTREMOR", "d6/d85/a03290.html#a6e0035edd58cc6ca8c94b5f9723a0d80a5046fe24f2bd1c59407d77496c82dd59", null ],
-      [ "TIMER_FRENZY", "d6/d85/a03290.html#a6e0035edd58cc6ca8c94b5f9723a0d80a31ac972cb44128c4662a608b8f6eeb83", null ],
-      [ "TIMER_WAR_STOMP", "d9/d01/a03248.html#a6e0035edd58cc6ca8c94b5f9723a0d80a77d3bf4a5b183f5934aa399d3e185eef", null ]
-    ] ],
-    [ "AddSC_boss_grizzle", "d6/d85/a03290.html#adb6c19fe584b9ecd11ab67084570a0be", null ]
+    [ "AuraApplication", "de/de4/a11198.html", "de/de4/a11198" ],
+    [ "Aura", "da/d3e/a11202.html", "da/d3e/a11202" ],
+    [ "UnitAura", "da/d23/a11206.html", "da/d23/a11206" ],
+    [ "DynObjAura", "db/da4/a11210.html", "db/da4/a11210" ]
 ];

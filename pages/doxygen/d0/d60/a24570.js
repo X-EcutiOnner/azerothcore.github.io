@@ -1,7 +1,8 @@
 var a24570 =
 [
-    [ "CheckCast", "d0/d60/a24570.html#ab215bbeea333d250ecbff0482f4f0966", null ],
-    [ "FilterTargets", "d0/d60/a24570.html#a6ee8387c7fed3fd3042852a2f542c5bd", null ],
-    [ "PrepareSpellScript", "d0/d60/a24570.html#a83447d184bb2299987d0c54d5af4c910", null ],
-    [ "Register", "d0/d60/a24570.html#a6107ba00471dd346c363db80fe81b698", null ]
+    [ "npc_pet_gen_wind_rider_cub", "d0/d60/a24570.html#a17e1f3155b9a9864459e48d1cd11c6a6", null ],
+    [ "UpdateAI", "d0/d60/a24570.html#a534d122522d553e106e6c7729d6c55db", null ],
+    [ "checkTimer", "d0/d60/a24570.html#a39fcfc5f5d9a630180713512db778b32", null ],
+    [ "checkTimer2", "d0/d60/a24570.html#aabeaf7a9b5b77df540e1111950860e98", null ],
+    [ "isFlying", "d0/d60/a24570.html#a57124f8172bd15a5e6c708edff41dc2f", null ]
 ];

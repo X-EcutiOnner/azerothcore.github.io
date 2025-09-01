@@ -1,6 +1,7 @@
 var a16654 =
 [
-    [ "OnPeriodic", "d2/d9d/a16654.html#a6f2e191d76f894517aed395866b7e508", null ],
-    [ "PrepareAuraScript", "d2/d9d/a16654.html#a571ee1c735b6095408973bfe5f91bcf7", null ],
-    [ "Register", "d2/d9d/a16654.html#a6094dc303c034e49fb4e543874db080b", null ]
+    [ "npc_toc_enh_shamanAI", "d2/d9d/a16654.html#ae1ef5395722e42660c1856d6faf52cbb", null ],
+    [ "myCanCast", "d2/d9d/a16654.html#a8a38da4063a22361b25835a67f14ff52", null ],
+    [ "UpdateAI", "d2/d9d/a16654.html#a4aa59b136b97859d15b39fd2fbbdf53d", null ],
+    [ "events", "d2/d9d/a16654.html#adec973540bf3b046f54547fb845c06b1", null ]
 ];

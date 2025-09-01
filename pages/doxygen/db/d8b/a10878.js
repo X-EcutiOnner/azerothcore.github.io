@@ -1,6 +1,8 @@
 var a10878 =
 [
-    [ "PetStopAttack", "db/d8b/a10878.html#a4a68127f3290d4f2e288600757dd3282", null ],
-    [ "Read", "db/d8b/a10878.html#a22dd8d9fcbadbec5ba046812f5cdac51", null ],
-    [ "PetGUID", "db/d8b/a10878.html#af7b95e5b976af2fa7bb4c61319f7eb97", null ]
+    [ "PlayObjectSound", "db/d8b/a10878.html#ab322044d36abddeb2fafbf99261bb70b", null ],
+    [ "PlayObjectSound", "db/d8b/a10878.html#a2c4d15099e991a9c2ddc5295536aa28e", null ],
+    [ "Write", "db/d8b/a10878.html#a1162715dd557a9f7b7c25a0331bc3b74", null ],
+    [ "SoundKitID", "db/d8b/a10878.html#a5e794706b8793d164a1189e9a6918735", null ],
+    [ "SourceObjectGUID", "db/d8b/a10878.html#a82b226eba66e569c1f377f529e511361", null ]
 ];

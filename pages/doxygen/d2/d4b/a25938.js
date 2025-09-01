@@ -1,7 +1,6 @@
 var a25938 =
 [
-    [ "CheckCast", "d2/d4b/a25938.html#a02134ecbc1b1e0c8b6047ec13ef7e701", null ],
-    [ "HandleEffect", "d2/d4b/a25938.html#a9f1be51fb58cde38cd643c6d1a5a6c15", null ],
-    [ "PrepareSpellScript", "d2/d4b/a25938.html#aa63cb903e7c6037a6c08381334ccc126", null ],
-    [ "Register", "d2/d4b/a25938.html#a670a8dbdadd988fe3220cc01b71114aa", null ]
+    [ "CheckSinkholes", "d2/d4b/a25938.html#a5c363144cde9e809d97730f54873fe85", null ],
+    [ "PrepareSpellScript", "d2/d4b/a25938.html#a0cd1fc05ee319b04299fcebe3a405bb4", null ],
+    [ "Register", "d2/d4b/a25938.html#a6694fbf58b776b74df0a54cd96141688", null ]
 ];

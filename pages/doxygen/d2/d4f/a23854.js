@@ -1,8 +1,6 @@
 var a23854 =
 [
-    [ "HandleScriptEffect", "d2/d4f/a23854.html#a7cde39fc0844f19604c8026a853e8216", null ],
-    [ "Load", "d2/d4f/a23854.html#a5d3eb86208c4aa9c6592349d28c5df79", null ],
-    [ "PrepareSpellScript", "d2/d4f/a23854.html#a962de50d1fa35ca16b4753f55e5cbd47", null ],
-    [ "Register", "d2/d4f/a23854.html#aee6bd90e8b39132d4b53b67c22d6c331", null ],
-    [ "_currentSpellId", "d2/d4f/a23854.html#a0ad25535ba345fe9672150af67687305", null ]
+    [ "npc_millhouse_manastormAI", "d4/d6d/a23858.html", "d4/d6d/a23858" ],
+    [ "npc_millhouse_manastorm", "d2/d4f/a23854.html#aebc8efc48d207ad7f1105fa636b9c104", null ],
+    [ "GetAI", "d2/d4f/a23854.html#ac4516785f7daf544718fc201197ba977", null ]
 ];

@@ -1,8 +1,7 @@
 var a08586 =
 [
-    [ "checkLeaderOnly", "d1/dfe/a08586.html#ade8f2e22abe69a9a32085e4d901bc83b", null ],
-    [ "faction", "d1/dfe/a08586.html#a23c649e494795b27856b67225370a820", null ],
-    [ "id", "d1/dfe/a08586.html#a5d5b8f6fe0bfc5ae98c2fb10e3a18360", null ],
-    [ "note", "d1/dfe/a08586.html#a0e800dd8869fedbe71e5b14aa3c79d8a", null ],
-    [ "priority", "d1/dfe/a08586.html#a3a66018ae4e7a7e755962f1edae58d29", null ]
+    [ "SetRuneState", "d1/dfe/a08586.html#a920d32d04ec7e872680a89b0c0a9b0ef", null ],
+    [ "lastUsedRune", "d1/dfe/a08586.html#a88c702716eb3032c20ae5ed74922d923", null ],
+    [ "runes", "d1/dfe/a08586.html#aac485530bfa81d54d9da3213fe917c29", null ],
+    [ "runeState", "d1/dfe/a08586.html#ae58297e0766578b234604a97641501a1", null ]
 ];

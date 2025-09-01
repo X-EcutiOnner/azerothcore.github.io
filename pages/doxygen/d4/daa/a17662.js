@@ -1,6 +1,6 @@
 var a17662 =
 [
-    [ "IgbTeleportOnVictoryCheck", "d4/daa/a17662.html#a29ee8cac93b9920e598da9205406e608", null ],
-    [ "operator()", "d4/daa/a17662.html#acf85943e238179e911434358f1593be2", null ],
-    [ "_inst", "d4/daa/a17662.html#a015353ecb66da16c697152b7ad3c527e", null ]
+    [ "boss_festergutAI", "db/dfc/a17666.html", "db/dfc/a17666" ],
+    [ "boss_festergut", "d4/daa/a17662.html#a07ac6be688118cc57e6fdc1d8e961953", null ],
+    [ "GetAI", "d4/daa/a17662.html#ab2624e1908bb376f1b195a88e4b9b146", null ]
 ];

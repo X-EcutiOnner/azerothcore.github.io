@@ -1,4 +1,31 @@
 var a09078 =
 [
-    [ "Visit", "de/daa/a09078.html#a1cb23e6a41ba6faafe6d303bcdc1eaf4", null ]
+    [ "Cell", "de/daa/a09078.html#a394510643e8664cf12b5efaf5cb99f71", null ],
+    [ "Cell", "de/daa/a09078.html#a11103acd21fad30d29b9b5a42220fdea", null ],
+    [ "Cell", "de/daa/a09078.html#a9ed4535aabe48966738425a8322e265e", null ],
+    [ "Cell", "de/daa/a09078.html#abe34b4a97c468b8db563092dda60340a", null ],
+    [ "CalculateCellArea", "de/daa/a09078.html#ad2bffe1e67368857b3c82a07a89c3a55", null ],
+    [ "CellX", "de/daa/a09078.html#abc5ed731630ec862efb15d699d4e5213", null ],
+    [ "CellY", "de/daa/a09078.html#abf5f46566b03eefa5509e8d4f5ad5003", null ],
+    [ "Compute", "de/daa/a09078.html#a6ba637c4f7e1e563197b8006c19f00e1", null ],
+    [ "DiffCell", "de/daa/a09078.html#ac7eebe2036bdbeaa342abf428c0dae6c", null ],
+    [ "DiffGrid", "de/daa/a09078.html#ab255ad0293fc1990773513de3fa472ad", null ],
+    [ "GetCellCoord", "de/daa/a09078.html#a1311175ad2f4224778db22ce19913c7e", null ],
+    [ "GridX", "de/daa/a09078.html#a15c6d9e68123ebceaf3520a383f5b7e8", null ],
+    [ "GridY", "de/daa/a09078.html#a7766818a31b73b5b9f4e44936f331141", null ],
+    [ "operator!=", "de/daa/a09078.html#aac53c1b488624eb2a64c99dc544f7d90", null ],
+    [ "operator=", "de/daa/a09078.html#a6ccf5bbce503433022fce680363b4e3a", null ],
+    [ "operator==", "de/daa/a09078.html#a8f7e2e56eb1a910c451fd23c974a52b7", null ],
+    [ "Visit", "de/daa/a09078.html#a9aeb10f855fbf40d38edb8c2b542d0ee", null ],
+    [ "Visit", "de/daa/a09078.html#abd95fd440e9f8dab059a8c518c58eca2", null ],
+    [ "VisitCircle", "de/daa/a09078.html#aa8d9ead1231c6119656eb132949d3a97", null ],
+    [ "VisitObjects", "de/daa/a09078.html#ad507586547e54f178924f392c0066c16", null ],
+    [ "VisitObjects", "de/daa/a09078.html#a1498ced567e6adac094dc3be7e6e9686", null ],
+    [ "All", "de/daa/a09078.html#ad5e39934e854314a3f1c0cfcd129e123", null ],
+    [ "cell_x", "de/daa/a09078.html#aa3496123fb4af8a4d62c3b79c00155cb", null ],
+    [ "cell_y", "de/daa/a09078.html#a83d1e587eeb791007c845f9ea52ab42f", null ],
+    [ "data", "de/daa/a09078.html#a7626a5fc8186c5c5cbcc74709c831241", null ],
+    [ "grid_x", "de/daa/a09078.html#ab3fe002db0c02530e0e81857857ab26b", null ],
+    [ "grid_y", "de/daa/a09078.html#a40eda303ad77ca42a04b00a504d49b19", null ],
+    [ "Part", "de/daa/a09078.html#a6464cf1525359804a77fd13eb91089f0", null ]
 ];

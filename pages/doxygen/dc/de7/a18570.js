@@ -1,5 +1,5 @@
 var a18570 =
 [
-    [ "achievement_portal_jockey", "dc/de7/a18570.html#a6c6c4779072386ab7b64bad92762e2ac", null ],
-    [ "OnCheck", "dc/de7/a18570.html#a2695b1fee353be7340f319c632a43efc", null ]
+    [ "npc_icc_lk_checktargetAI", "dc/de7/a18570.html#a9a5953a9353be61a3fa96eaf7df7c489", null ],
+    [ "CanAIAttack", "dc/de7/a18570.html#a4dfce75e23f1093c3de0ce75b049a20a", null ]
 ];

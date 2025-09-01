@@ -1,6 +1,10 @@
 var a08866 =
 [
-    [ "faction", "d1/de9/a08866.html#aaad6e04ef66264f040ddd91ae7f4e04b", null ],
-    [ "faction_rank", "d1/de9/a08866.html#a1ffb9cddf950edfb17e9779691b09f07", null ],
-    [ "faction_rate", "d1/de9/a08866.html#ab86cdfcd03a47f0c48e0661c5e9c8fd4", null ]
+    [ "mapId", "d1/de9/a08866.html#a828d8b93918ea8ba695e0c5e597c855d", null ],
+    [ "name", "d1/de9/a08866.html#a9dd0dacb5825cf3afd117c22ac5ebf21", null ],
+    [ "orientation", "d1/de9/a08866.html#a49b4a83290dbe39ab0be79a8ae2f03a6", null ],
+    [ "position_x", "d1/de9/a08866.html#a65e7390a1dbb615a155c4f163b830e11", null ],
+    [ "position_y", "d1/de9/a08866.html#a3d3f398cd23566dce721fefeae7af33c", null ],
+    [ "position_z", "d1/de9/a08866.html#a9ff9a74b00016df6df7c27ebce8ff3fb", null ],
+    [ "wnameLow", "d1/de9/a08866.html#ac63cbb609eadc584fe61d33fb709c4d6", null ]
 ];

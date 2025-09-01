@@ -1,6 +1,6 @@
 var a20210 =
 [
-    [ "npc_ulduar_hodir_priestAI", "d9/d98/a20214.html", "d9/d98/a20214" ],
-    [ "npc_ulduar_hodir_priest", "dd/d9f/a20210.html#a30d7f1b68f9a1d10bc47288b81fc517c", null ],
-    [ "GetAI", "dd/d9f/a20210.html#a276046b974666c1462440a46a8096de7", null ]
+    [ "boss_freyaAI", "d9/d98/a20214.html", "d9/d98/a20214" ],
+    [ "boss_freya", "dd/d9f/a20210.html#ae366f60526e7c948dee148cdd12f0752", null ],
+    [ "GetAI", "dd/d9f/a20210.html#a6a2f5b402e99208a535fc3f23c2a0eb3", null ]
 ];

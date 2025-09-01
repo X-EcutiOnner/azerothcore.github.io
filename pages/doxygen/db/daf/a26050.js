@@ -1,6 +1,6 @@
 var a26050 =
 [
-    [ "CheckProc", "db/daf/a26050.html#a5b8ee53249a19954e4d46b17422207d5", null ],
-    [ "PrepareAuraScript", "db/daf/a26050.html#a2640f58f3e7442c37615b61ecf938a6f", null ],
-    [ "Register", "db/daf/a26050.html#a55be2362ac226caa615e07a2a3b5ea38", null ]
+    [ "PrepareSpellScript", "db/daf/a26050.html#a738e105a48f6c603f3d9a690f44b8745", null ],
+    [ "Register", "db/daf/a26050.html#a6bc9791d0f08440e19b89daa9b65892c", null ],
+    [ "SetDest", "db/daf/a26050.html#a59641895cead08de4a4503262505ee73", null ]
 ];

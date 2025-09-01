@@ -1,6 +1,6 @@
 var a14218 =
 [
-    [ "CheckItem", "d4/dbc/a14218.html#a71f8c9bad4a102914a1047ef61d20f92", null ],
-    [ "PrepareSpellScript", "d4/dbc/a14218.html#a0fa160f1218cf838444f894716cb8aed", null ],
-    [ "Register", "d4/dbc/a14218.html#a2a6816d9ab97abddfa20cd6413a94178", null ]
+    [ "boss_mandokirAI", "d3/d21/a14222.html", "d3/d21/a14222" ],
+    [ "boss_mandokir", "d4/dbc/a14218.html#aad13c8302cef7fb4981f0d2178630def", null ],
+    [ "GetAI", "d4/dbc/a14218.html#a215842d5ab23824ec20db64e2fa4407e", null ]
 ];

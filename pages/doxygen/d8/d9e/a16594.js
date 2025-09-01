@@ -1,6 +1,6 @@
 var a16594 =
 [
-    [ "boss_eydisAI", "d4/dbc/a16598.html", "d4/dbc/a16598" ],
-    [ "boss_eydis", "d8/d9e/a16594.html#aa555f80882499bc4627e622fbb48b2a4", null ],
-    [ "GetAI", "d8/d9e/a16594.html#ad49a673431c479fa2f5d9b6da42bbf55", null ]
+    [ "npc_toc_warlockAI", "d4/dbc/a16598.html", "d4/dbc/a16598" ],
+    [ "npc_toc_warlock", "d8/d9e/a16594.html#a75ac1d6f6835860fed8a9197fa1cf3c2", null ],
+    [ "GetAI", "d8/d9e/a16594.html#ad3162c9414be83d53d9513c7aa6b75d7", null ]
 ];

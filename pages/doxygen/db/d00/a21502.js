@@ -1,8 +1,10 @@
 var a21502 =
 [
-    [ "HandleEffectRemove", "db/d00/a21502.html#aa2b05befb775244423264f6b5e2387c1", null ],
-    [ "Load", "db/d00/a21502.html#a02ea4c29f2c7e15a5039b93d7a0d3c5e", null ],
-    [ "PrepareAuraScript", "db/d00/a21502.html#a632e81cc39bdcd0f5adcc684231d1171", null ],
-    [ "Register", "db/d00/a21502.html#aba5483b1d35c1b58841fad2b1086f07c", null ],
-    [ "Validate", "db/d00/a21502.html#ada90e1f06ced8f4e353fe2bda3d31637", null ]
+    [ "npc_erekem_guardAI", "db/d00/a21502.html#a1ce40b70a35fc76e6ac0af449b7f4ded", null ],
+    [ "JustEngagedWith", "db/d00/a21502.html#a93819c5c76821b1c9559be55359d677e", null ],
+    [ "MoveInLineOfSight", "db/d00/a21502.html#aa1140892c13f4c070b1f3f1bf2230bb5", null ],
+    [ "Reset", "db/d00/a21502.html#a079be6dd45e96184d66e95f031dc9c5f", null ],
+    [ "UpdateAI", "db/d00/a21502.html#ab2c55e384f624b0f671e42e381aa3a37", null ],
+    [ "events", "db/d00/a21502.html#a15afc8dd6d6e15fcd1a632728ad8d16e", null ],
+    [ "pInstance", "db/d00/a21502.html#a81985b8522111f2aae540353cd5641fe", null ]
 ];

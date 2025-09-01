@@ -1,6 +1,6 @@
 var a12182 =
 [
-    [ "OnEffect", "db/d2e/a12182.html#a1b5999f392cec9fea4431c3f746ee034", null ],
-    [ "PrepareSpellScript", "db/d2e/a12182.html#a4748a82fcc7b3794850461092ee6b2e4", null ],
-    [ "Register", "db/d2e/a12182.html#acfa32dfc22778576d0dd3096c456ebe0", null ]
+    [ "boss_lord_valthalakAI", "d0/da7/a12186.html", "d0/da7/a12186" ],
+    [ "boss_lord_valthalak", "db/d2e/a12182.html#a180ecb2e2b11ee79c80de18124de3dbc", null ],
+    [ "GetAI", "db/d2e/a12182.html#a771bd8ff3918d71007b5e4b05baf3df3", null ]
 ];

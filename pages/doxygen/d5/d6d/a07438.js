@@ -1,11 +1,10 @@
 var a07438 =
 [
-    [ "BattlegroundWGScore", "d5/d6d/a07438.html#a43b7933c5e217376e5bb10e9b5bb208b", null ],
-    [ "BuildObjectivesBlock", "d5/d6d/a07438.html#a804e56dbd666336d961cce2b0e4d6452", null ],
-    [ "GetAttr1", "d5/d6d/a07438.html#aab49f39d88989b153f1eb979fbbfaeb3", null ],
-    [ "GetAttr2", "d5/d6d/a07438.html#a191e205e08ef15cc36dabedc32614fd2", null ],
-    [ "UpdateScore", "d5/d6d/a07438.html#aa560d7f5f13dd235d43a9e3571090055", null ],
-    [ "BattlegroundWS", "d5/d6d/a07438.html#a4285b67c5d8593dce759422a4eb78c77", null ],
-    [ "FlagCaptures", "d5/d6d/a07438.html#a23ff00f10d07c1a601e9e1d0eb05b1da", null ],
-    [ "FlagReturns", "d5/d6d/a07438.html#ab400c9fb692ff157eb4809f0536c05f7", null ]
+    [ "BattlegroundNA", "d5/d6d/a07438.html#abf646e63e474ac5bb381078ffd0f286e", null ],
+    [ "FillInitialWorldStates", "d5/d6d/a07438.html#af0932b648d2a4a4288409d8da360e06b", null ],
+    [ "HandleAreaTrigger", "d5/d6d/a07438.html#a6a70ff3655c516d45ac1acf959ad8f73", null ],
+    [ "HandlePlayerUnderMap", "d5/d6d/a07438.html#a098c01b5da65350b2af9ff53dc9f750c", null ],
+    [ "SetupBattleground", "d5/d6d/a07438.html#addc3350a283fdac24e7aa88c23a7945a", null ],
+    [ "StartingEventCloseDoors", "d5/d6d/a07438.html#a316492a374884822045971f6dc3db1e2", null ],
+    [ "StartingEventOpenDoors", "d5/d6d/a07438.html#a72a953c5047a434d28b98e6185173140", null ]
 ];

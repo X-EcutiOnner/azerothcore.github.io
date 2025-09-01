@@ -1,6 +1,7 @@
 var a20718 =
 [
-    [ "npc_xt002_heartAI", "d7/dcd/a20722.html", "d7/dcd/a20722" ],
-    [ "npc_xt002_heart", "d0/ddb/a20718.html#ab914ce1e945080b873cf6f93e3a6a32c", null ],
-    [ "GetAI", "d0/ddb/a20718.html#af59c6623b97d1adff765e8ba4958d482", null ]
+    [ "npc_ulduar_expedition_commanderAI", "d0/ddb/a20718.html#a100678bddd6a0e859c72035d4642d8e2", null ],
+    [ "MoveInLineOfSight", "d0/ddb/a20718.html#a870bdc842d8d7078302a36a20ef661e4", null ],
+    [ "_instance", "d0/ddb/a20718.html#a64d925b08f3f0ae59f5053121dbc495c", null ],
+    [ "_introSpoken", "d0/ddb/a20718.html#ac6784a66111406f917ae4d07dbeb60a4", null ]
 ];

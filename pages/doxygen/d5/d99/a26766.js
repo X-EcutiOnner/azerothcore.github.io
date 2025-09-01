@@ -1,6 +1,7 @@
 var a26766 =
 [
-    [ "HandleAuraApply", "d5/d99/a26766.html#a0c17d42095cac3d4cf304df1fc83acbf", null ],
-    [ "PrepareAuraScript", "d5/d99/a26766.html#a6eedadacba366104fdca2791862be216", null ],
-    [ "Register", "d5/d99/a26766.html#a5869dc6372d479d85da1118d0c9ec8e6", null ]
+    [ "CalculateAmount", "d5/d99/a26766.html#aefeab4e58c1b5c1be87f583256d366f5", null ],
+    [ "Load", "d5/d99/a26766.html#ae2ef0eae77137c120ec61af8698677db", null ],
+    [ "PrepareAuraScript", "d5/d99/a26766.html#acaecc78c031aa436f432fd7145478de4", null ],
+    [ "Register", "d5/d99/a26766.html#afd27c8bc5fd1628b7e32bf464bfe3d48", null ]
 ];

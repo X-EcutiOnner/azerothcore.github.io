@@ -1,7 +1,7 @@
 var a26902 =
 [
-    [ "FilterTargets", "da/dee/a26902.html#aeebe9395cefab1b87196a7ef466aa2c8", null ],
-    [ "PrepareSpellScript", "da/dee/a26902.html#a954f00317eab544dd57e657368aab7fb", null ],
-    [ "Register", "da/dee/a26902.html#a1804684c8685372faf2e88e56b48f5be", null ],
-    [ "Validate", "da/dee/a26902.html#ab08386023ed3b3c8e51178da8973ef1a", null ]
+    [ "AfterRemove", "da/dee/a26902.html#ad0bad4a07d5a65a7834e7ab46e082b20", null ],
+    [ "PrepareAuraScript", "da/dee/a26902.html#af338af238305f1872275e1e5e9fdee16", null ],
+    [ "Register", "da/dee/a26902.html#aa266e794be35b51a399b13ee2d06199d", null ],
+    [ "Validate", "da/dee/a26902.html#af58098eb7a904e20846cf728f5adc18b", null ]
 ];

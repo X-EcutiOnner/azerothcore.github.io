@@ -1,7 +1,8 @@
 var a18982 =
 [
-    [ "OnApply", "d0/df8/a18982.html#a72a01dea703436b2a220a9976da60fa6", null ],
-    [ "PrepareAuraScript", "d0/df8/a18982.html#adb17425258d4fb2c0c464236e15f32d7", null ],
-    [ "Register", "d0/df8/a18982.html#af026c126029c68ed8b7c6c1886720e4c", null ],
-    [ "Validate", "d0/df8/a18982.html#a5674396828adf4e80102ed2277f1e08a", null ]
+    [ "Class", "d0/df8/a18982.html#a095390e9023609f5836c4481ed79e1af", null ],
+    [ "cooldown_ms", "d0/df8/a18982.html#a6f1fdab250e8557d16066c03a54fb2a4", null ],
+    [ "id", "d0/df8/a18982.html#ae9fdf89271339b93f306c4aa0871f844", null ],
+    [ "range", "d0/df8/a18982.html#aad126da206abceb6a66dcda1cbd3b28b", null ],
+    [ "targetType", "d0/df8/a18982.html#ae5fc8cb423536f631591d3b72bfd06dd", null ]
 ];

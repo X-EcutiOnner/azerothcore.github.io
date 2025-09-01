@@ -1,5 +1,6 @@
 var a12634 =
 [
-    [ "go_blackened_urn", "da/d0e/a12634.html#aaa311353e693a0dd7fd9a6f8e617e0ab", null ],
-    [ "OnGossipHello", "da/d0e/a12634.html#ab091bd54734acc65532303a391441ee2", null ]
+    [ "npc_flamewaker_priestAI", "db/d7f/a12638.html", "db/d7f/a12638" ],
+    [ "npc_flamewaker_priest", "da/d0e/a12634.html#a2ae4d75192f8ddc60d092b9a129e636e", null ],
+    [ "GetAI", "da/d0e/a12634.html#a8a38c2c54ae8366496eb58145f75eac9", null ]
 ];

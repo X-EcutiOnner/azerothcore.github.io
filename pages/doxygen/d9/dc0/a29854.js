@@ -1,7 +1,7 @@
 var a29854 =
 [
-    [ "Class", "d9/dc0/a29854.html#abaaa0cd4d1b7f3ef5b297c5afdbc99fe", null ],
-    [ "Gender", "d9/dc0/a29854.html#aba6251a7020c6e66b9fc7a21859df271", null ],
-    [ "ItemId", "d9/dc0/a29854.html#a7d17ef6151f6b746223e44164ab5c20d", null ],
-    [ "Race", "d9/dc0/a29854.html#aee768679c4b8ee7cd28ea3fa899206e3", null ]
+    [ "MPQArchive", "d4/d07/a28878.html", "d4/d07/a28878" ],
+    [ "MPQFile", "dc/df6/a28882.html", "dc/df6/a28882" ],
+    [ "ArchiveSet", "d9/dc0/a29854.html#a8d76af4bfff910da40b4f93a1c465744", null ],
+    [ "flipcc", "d9/dc0/a29854.html#aff3add09c98fece7ace91b0e7c90435e", null ]
 ];

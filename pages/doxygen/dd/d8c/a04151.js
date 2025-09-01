@@ -1,4 +1,4 @@
 var a04151 =
 [
-    [ "DatabaseLoader", "d2/d02/a05708.html", "d2/d02/a05708" ]
+    [ "ScriptRegistry< GuildScript >", "dd/d8c/a04151.html#af7c126caabb7b664b2a28086b5f7737e", null ]
 ];

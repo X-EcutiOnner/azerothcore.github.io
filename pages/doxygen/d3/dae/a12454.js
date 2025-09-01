@@ -1,7 +1,5 @@
 var a12454 =
 [
-    [ "HandleHit", "d3/dae/a12454.html#a87777dce0e2bf1deba600b3ae7ce6b9c", null ],
-    [ "Load", "d3/dae/a12454.html#ab61b4076aab18c0a6593c234209a2c1d", null ],
-    [ "PrepareSpellScript", "d3/dae/a12454.html#a9fb8d980381264a2ef645f2e620abd21", null ],
-    [ "Register", "d3/dae/a12454.html#a4998015873f0e0ca768c20b0f95fda90", null ]
+    [ "go_orb_of_domination", "d3/dae/a12454.html#a1d4659e21344a12ec6084ef7ef5df7d0", null ],
+    [ "OnGossipHello", "d3/dae/a12454.html#aa88cebf1bd539b55cf63f10a25cc1bbb", null ]
 ];

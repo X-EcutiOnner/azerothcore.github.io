@@ -1,6 +1,7 @@
 var a15690 =
 [
-    [ "HandleDummy", "d4/de8/a15690.html#a2750ae788168e7496ea2345c5535509c", null ],
-    [ "PrepareSpellScript", "d4/de8/a15690.html#a66b4187decbfb0b5623ce5630a8fa9d3", null ],
-    [ "Register", "d4/de8/a15690.html#ab6c961d89d22761402eb4f5881cbd318", null ]
+    [ "npc_giant_spotlightAI", "d4/de8/a15690.html#ae0f6686aaeacafce193e0d4590cf8c09", null ],
+    [ "Reset", "d4/de8/a15690.html#a79f6703107eed52a3aeae30393507c0f", null ],
+    [ "UpdateAI", "d4/de8/a15690.html#a8567f936dd15933300497d5abe80a272", null ],
+    [ "events", "d4/de8/a15690.html#a20d1087e59daae9189d78f04ea2b2d05", null ]
 ];

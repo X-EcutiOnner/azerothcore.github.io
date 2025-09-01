@@ -1,7 +1,12 @@
 var a27962 =
 [
-    [ "Displayid", "d0/db1/a27962.html#adc5aee11b1e27752576b0b98156d3b3c", null ],
-    [ "ExtendedDisplayInfoID", "d0/db1/a27962.html#a174d6f73393e6dcfeecf487fc09c2e6f", null ],
-    [ "ModelId", "d0/db1/a27962.html#ada31381a4ee360e2fcb68403bc6d14e5", null ],
-    [ "scale", "d0/db1/a27962.html#ae15b89669bf5d711cc57c21d8c8be0dd", null ]
+    [ "categoryId", "d0/db1/a27962.html#a1de0e4302757f18c08b90b40e059737b", null ],
+    [ "count", "d0/db1/a27962.html#a93aac150067979467f56d9919ff665a4", null ],
+    [ "flags", "d0/db1/a27962.html#a5c0dfb5b3c0711aff47d3d604ded2d1a", null ],
+    [ "ID", "d0/db1/a27962.html#a843fee247948d02f7aaf04144cb37ef5", null ],
+    [ "mapID", "d0/db1/a27962.html#ab3d41381808c8bdc163554f7c46f6bc6", null ],
+    [ "name", "d0/db1/a27962.html#a806cfeddc475994f1b421679bd9699e6", null ],
+    [ "points", "d0/db1/a27962.html#abc2b4cf9c6580c6bc99d5c47d7539374", null ],
+    [ "refAchievement", "d0/db1/a27962.html#a858661b2e3479fa3fc2e029ae0d8a145", null ],
+    [ "requiredFaction", "d0/db1/a27962.html#a722dbda5ed8d74f5a1e75bdec8841aa3", null ]
 ];

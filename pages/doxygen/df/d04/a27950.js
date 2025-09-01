@@ -1,13 +1,18 @@
 var a27950 =
 [
-    [ "HasFlag", "df/d04/a27950.html#a5d13e1af17cddf3acdbfc5387869e43f", null ],
-    [ "CinematicSequence", "df/d04/a27950.html#a33a01b1c26b21706d9898af246f2a0df", null ],
-    [ "expansion", "df/d04/a27950.html#ab6547f8b08d4d1bf57a37f9574b71e43", null ],
-    [ "FactionID", "df/d04/a27950.html#a5c66801f2f89aeb847699a2dd87486c7", null ],
-    [ "Flags", "df/d04/a27950.html#a8c2d30fb87284806a93d4c1da4a6edb0", null ],
-    [ "model_f", "df/d04/a27950.html#a4807227fd863e247b18d29db0ea8236a", null ],
-    [ "model_m", "df/d04/a27950.html#a50b5409352d7fe3e6f5919d83c9a0eae", null ],
-    [ "name", "df/d04/a27950.html#a4970323e45feb3f74b47420648371ab6", null ],
-    [ "RaceID", "df/d04/a27950.html#a853f3262af3408cf2791e7cd08ec8d32", null ],
-    [ "TeamID", "df/d04/a27950.html#addd21f5fbf6868e7cf2cd3c54c7172a1", null ]
+    [ "DBCStorageBase", "df/d04/a27950.html#ad688053187f77a4a016274f7e46a76a3", null ],
+    [ "~DBCStorageBase", "df/d04/a27950.html#a39d4e4f05a50b952c2f952a452beb010", null ],
+    [ "GetFieldCount", "df/d04/a27950.html#a867375a50bcf7ec8c40b6ff7305a5e81", null ],
+    [ "GetFormat", "df/d04/a27950.html#ab333cdbf4cb7c6f527045902256fdf2f", null ],
+    [ "Load", "df/d04/a27950.html#a779bd666cbdc6587eab6a81e51e894d8", null ],
+    [ "Load", "df/d04/a27950.html#a14dfcde7f1c9c63a293638009b6ce16b", null ],
+    [ "LoadFromDB", "df/d04/a27950.html#abea56cf48880a3ae02d322b6283032b4", null ],
+    [ "LoadFromDB", "df/d04/a27950.html#a7156af21138d19a978b9551a2ca24708", null ],
+    [ "LoadStringsFrom", "df/d04/a27950.html#a912b4793ddc3e3ff3bc9279693373b79", null ],
+    [ "LoadStringsFrom", "df/d04/a27950.html#a0e3e3be24e2404fad11c322190e0e337", null ],
+    [ "_dataTable", "df/d04/a27950.html#ab13a1018e69345a3665f50d696bc7236", null ],
+    [ "_fieldCount", "df/d04/a27950.html#aa9bebefe18610016bef2c7d087d20abe", null ],
+    [ "_fileFormat", "df/d04/a27950.html#a3ac1c70817c9b7a351ea0e0d2e602351", null ],
+    [ "_indexTableSize", "df/d04/a27950.html#aa17bb429de3b9df9bb6ffcbc9bf9010b", null ],
+    [ "_stringPool", "df/d04/a27950.html#a8d571b107344a2dbde0b2cbcfa3c9b52", null ]
 ];

@@ -1,7 +1,7 @@
 var a15626 =
 [
-    [ "npc_toogaAI", "da/d48/a15630.html", "da/d48/a15630" ],
-    [ "npc_tooga", "da/db2/a15626.html#a6ea6a9e4dea1ab98475dae13680ceeaf", null ],
-    [ "GetAI", "da/db2/a15626.html#a7847577589f3bdc1c3ea5ee0f1f9232f", null ],
-    [ "OnQuestAccept", "da/db2/a15626.html#ac0fdcb3959c239d614b1cc7c66623c5d", null ]
+    [ "HandleDummy", "da/db2/a15626.html#a7657ffcc0b055b838408de4dd5f778f3", null ],
+    [ "PrepareSpellScript", "da/db2/a15626.html#ace2c23ec11d09cfb6f101a2dbd8b9d89", null ],
+    [ "Register", "da/db2/a15626.html#ae9be2e8124edf50b98824c584aaa32cf", null ],
+    [ "Validate", "da/db2/a15626.html#a041c84fd605abd36b8f774903a5200dc", null ]
 ];

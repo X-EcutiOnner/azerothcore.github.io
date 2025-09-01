@@ -1,6 +1,11 @@
 var a22850 =
 [
-    [ "HandleScriptEffect", "dc/db1/a22850.html#aeafb2893534c8e188bbb519b6c7a0113", null ],
-    [ "PrepareSpellScript", "dc/db1/a22850.html#a6caaa93244719d7fc8c3f28280a3c1c5", null ],
-    [ "Register", "dc/db1/a22850.html#a99e2243ca4372eab1a742f8979d61334", null ]
+    [ "boss_murmur", "dc/db1/a22850.html#ad89ea433764c3017a3d33b37eb9e5602", null ],
+    [ "CanAIAttack", "dc/db1/a22850.html#a6b89c95747c0a37c0b37527cd360e524", null ],
+    [ "CastSuppressionOOC", "dc/db1/a22850.html#aab66339a7436c3c483297b25f6859558", null ],
+    [ "EnterEvadeMode", "dc/db1/a22850.html#aa0f549c83a92302ece2323c75dd29acc", null ],
+    [ "JustEngagedWith", "dc/db1/a22850.html#a3d872beeee7bf6ecd0c4aeaa3f8c603d", null ],
+    [ "Reset", "dc/db1/a22850.html#a1f40ead1b2269b97c69bd4db808d6bae", null ],
+    [ "SetGUID", "dc/db1/a22850.html#a88e18fd646a807ee92f1b24b43d500a6", null ],
+    [ "ShouldCastResonance", "dc/db1/a22850.html#ade07217a85655a513d7a472d24589691", null ]
 ];

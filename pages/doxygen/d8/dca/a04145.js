@@ -1,10 +1,13 @@
 var a04145 =
 [
-    [ "MySQLConnectionInfo", "d5/d12/a05744.html", "d5/d12/a05744" ],
-    [ "MySQLConnection", "db/d37/a05748.html", "db/d37/a05748" ],
-    [ "ConnectionFlags", "d8/dca/a04145.html#a008b1c9a9206a70569b89aea01ac321f", [
-      [ "CONNECTION_ASYNC", "d8/dca/a04145.html#a008b1c9a9206a70569b89aea01ac321faa12dee499d68ef84c216f874cb104fe9", null ],
-      [ "CONNECTION_SYNCH", "d8/dca/a04145.html#a008b1c9a9206a70569b89aea01ac321fa38de35d7007257d23046b73a6aec7946", null ],
-      [ "CONNECTION_BOTH", "d8/dca/a04145.html#a008b1c9a9206a70569b89aea01ac321fa69536f08cbcdbe5a0ff0d89981fc6b39", null ]
+    [ "ServerScript", "dc/dc1/a10394.html", "dc/dc1/a10394" ],
+    [ "ServerHook", "d8/dca/a04145.html#af8cee964a488266c6dec6c3b76b1a2d9", [
+      [ "SERVERHOOK_ON_NETWORK_START", "d8/dca/a04145.html#af8cee964a488266c6dec6c3b76b1a2d9aa644f9d52a55cf9cf2a11293c30d53e3", null ],
+      [ "SERVERHOOK_ON_NETWORK_STOP", "d8/dca/a04145.html#af8cee964a488266c6dec6c3b76b1a2d9a750717da9270f21f519c8d5a05d7a3b4", null ],
+      [ "SERVERHOOK_ON_SOCKET_OPEN", "d8/dca/a04145.html#af8cee964a488266c6dec6c3b76b1a2d9af5241aced10e2c6c6077ac764206c6bd", null ],
+      [ "SERVERHOOK_ON_SOCKET_CLOSE", "d8/dca/a04145.html#af8cee964a488266c6dec6c3b76b1a2d9ace5af0b477d230f9aa1e51c82789dc8d", null ],
+      [ "SERVERHOOK_CAN_PACKET_SEND", "d8/dca/a04145.html#af8cee964a488266c6dec6c3b76b1a2d9a7efd4b6dcfe8fd03b250b045c1dcaf12", null ],
+      [ "SERVERHOOK_CAN_PACKET_RECEIVE", "d8/dca/a04145.html#af8cee964a488266c6dec6c3b76b1a2d9ad4bcaa584ee5ee3556aabfe396d2e971", null ],
+      [ "SERVERHOOK_END", "d8/dca/a04145.html#af8cee964a488266c6dec6c3b76b1a2d9a9292463242a21cee981d7f24a964e6dc", null ]
     ] ]
 ];

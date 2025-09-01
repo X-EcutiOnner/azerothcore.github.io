@@ -1,20 +1,7 @@
 var a27786 =
 [
-    [ "iterator", "dc/dbf/a27786.html#acbe3d8adad76c063eeff0472b14e9c2d", null ],
-    [ "DBCStorage", "dc/dbf/a27786.html#a1aac83146adf1d72b98f641acf133353", null ],
-    [ "~DBCStorage", "dc/dbf/a27786.html#a52478c32db2c7d0bfddfc5c3f614b2c2", null ],
-    [ "DBCStorage", "dc/dbf/a27786.html#af1212e7eac4a35aed1cc30d1885093d0", null ],
-    [ "AssertEntry", "dc/dbf/a27786.html#a2193a31f1a96f04c113191e0e200af57", null ],
-    [ "begin", "dc/dbf/a27786.html#a43338cbd450480a91ed25228611dfe89", null ],
-    [ "end", "dc/dbf/a27786.html#a00d89ccb706cdf73c3cd3840333504cc", null ],
-    [ "GetNumRows", "dc/dbf/a27786.html#ab7d5f0bdff10c1473c68ad5ccb71e8f1", null ],
-    [ "Load", "dc/dbf/a27786.html#aad72c211d47bfeb5b82636c131507083", null ],
-    [ "LoadFromDB", "dc/dbf/a27786.html#a3900db604c7fa373d55c161006f8752a", null ],
-    [ "LoadStringsFrom", "dc/dbf/a27786.html#a26fd44b61cf6352b99122abb23768a97", null ],
-    [ "LookupEntry", "dc/dbf/a27786.html#a6cb9477a0d94271c073f5850ad23ae07", null ],
-    [ "operator=", "dc/dbf/a27786.html#ace37b566e9013928a845c981437158ae", null ],
-    [ "SetEntry", "dc/dbf/a27786.html#a2e738aadf73e51ee4787a45d8b4908d3", null ],
-    [ "_indexTable", "dc/dbf/a27786.html#a26882ab09ad59a8d6db222068f55c6c5", null ],
-    [ "AsChar", "dc/dbf/a27786.html#a7ef1de4ced6822e264b73cbe72dcfc7c", null ],
-    [ "AsT", "dc/dbf/a27786.html#a2002a0adee55fa79ec5a0cceab48b607", null ]
+    [ "npc_wormholeAI", "dc/dbf/a27786.html#a75c28ce9bcbb5ef6fb4213d000d5596a", null ],
+    [ "GetData", "dc/dbf/a27786.html#ad4c9f2265f126c7f2b5538bab6b75cb3", null ],
+    [ "InitializeAI", "dc/dbf/a27786.html#aa0a903014ec7243036604ffcc67e0a36", null ],
+    [ "_showUnderground", "dc/dbf/a27786.html#a6a2fbf623b8fc55cfd48a12e2c515134", null ]
 ];

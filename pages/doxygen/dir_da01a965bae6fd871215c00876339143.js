@@ -1,7 +1,7 @@
 var dir_da01a965bae6fd871215c00876339143 =
 [
-    [ "boss_gruul.cpp", "d1/d29/a02393.html", "d1/d29/a02393" ],
-    [ "boss_high_king_maulgar.cpp", "d5/d10/a02396.html", "d5/d10/a02396" ],
-    [ "gruuls_lair.h", "da/d11/a02399.html", "da/d11/a02399" ],
-    [ "instance_gruuls_lair.cpp", "d6/dff/a02390.html", "d6/dff/a02390" ]
+    [ "boss_gruul.cpp", "d3/ddc/a01142.html", "d3/ddc/a01142" ],
+    [ "boss_high_king_maulgar.cpp", "d9/d65/a01145.html", "d9/d65/a01145" ],
+    [ "gruuls_lair.h", "de/df1/a01151.html", "de/df1/a01151" ],
+    [ "instance_gruuls_lair.cpp", "db/d17/a01148.html", "db/d17/a01148" ]
 ];

@@ -1,6 +1,6 @@
 var a12122 =
 [
-    [ "boss_thebeastAI", "d4/d8c/a12126.html", "d4/d8c/a12126" ],
-    [ "boss_the_beast", "dc/d16/a12122.html#a131344b5fada63f4a8f0b3692ecba9eb", null ],
-    [ "GetAI", "dc/d16/a12122.html#a0b40497c665c571247cb8ad8b85ac63f", null ]
+    [ "boss_gloomrel", "dc/d16/a12122.html#ad655acba7b2d88779f849a685bb9fbb7", null ],
+    [ "OnGossipHello", "dc/d16/a12122.html#a6ce6898142d767a130ec09769f2be488", null ],
+    [ "OnGossipSelect", "dc/d16/a12122.html#ab7c623cdd2301f3a0a74d6b1e187a8c5", null ]
 ];

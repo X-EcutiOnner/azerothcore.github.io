@@ -1,5 +1,6 @@
 var a18106 =
 [
-    [ "achievement_all_you_can_eat", "d8/de6/a18106.html#a0995024862a445ea1f0ff5c82475fc64", null ],
-    [ "OnCheck", "d8/de6/a18106.html#a0baa07a7cbd239e4a5fcfd3e687aedf6", null ]
+    [ "FilterTargetsInitial", "d8/de6/a18106.html#a92cc71f268793c616bed66d9a489a145", null ],
+    [ "PrepareSpellScript", "d8/de6/a18106.html#ae27e6ceab6b92e59c97307ed10f24ab2", null ],
+    [ "Register", "d8/de6/a18106.html#a91b96940a9e72e632989b49f7e475dba", null ]
 ];

@@ -1,6 +1,6 @@
 var a22002 =
 [
-    [ "npc_attracted_reef_bullAI", "d5/def/a22002.html#aa8917a912fb31a5987332e53e8d268e7", null ],
-    [ "MovementInform", "d5/def/a22002.html#a79d9539243f178a2989f017c5f9ebc8c", null ],
-    [ "SpellHit", "d5/def/a22002.html#ab06ee7ef84d881262ae682b69fae3135", null ]
+    [ "npc_q24545_wretched_ghoulAI", "d8/de9/a22006.html", "d8/de9/a22006" ],
+    [ "npc_q24545_wretched_ghoul", "d5/def/a22002.html#a3842b5bd89c911d29d561307113fb032", null ],
+    [ "GetAI", "d5/def/a22002.html#ada973de0ff7295f0441cbd6b6aaca9ac", null ]
 ];

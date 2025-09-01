@@ -1,7 +1,7 @@
 var a14966 =
 [
-    [ "HandleScript", "df/d55/a14966.html#a8aea4a40472aec4cbb7001fbd63db24c", null ],
-    [ "Load", "df/d55/a14966.html#a2dc1edf537f58133fb4daabde9f43843", null ],
-    [ "PrepareSpellScript", "df/d55/a14966.html#ae856c6e70ededa95c0308596a9f980af", null ],
-    [ "Register", "df/d55/a14966.html#ac2e82c7e626658faa968f75c26688b43", null ]
+    [ "boss_epoch_hunter", "df/d55/a14966.html#a652d14ebfced39b8164687a713780600", null ],
+    [ "JustDied", "df/d55/a14966.html#a38d3cbed2ce8f810fd169e0004fd91dc", null ],
+    [ "JustEngagedWith", "df/d55/a14966.html#a2571f98f36d1271f3911617e0fdfba54", null ],
+    [ "KilledUnit", "df/d55/a14966.html#a61456e680e9108dd841e83d97536ef1b", null ]
 ];

@@ -1,6 +1,5 @@
 var a20698 =
 [
-    [ "OnPeriodic", "df/d9d/a20698.html#a5247db3b621d1d499b9e22e16c7a951a", null ],
-    [ "PrepareAuraScript", "df/d9d/a20698.html#a6aa46e818199da206e6543005a7fe87f", null ],
-    [ "Register", "df/d9d/a20698.html#ab64dfdda3c09e65cfaeb90d20a5212ed", null ]
+    [ "achievement_mimiron_set_up_us_the_bomb_12", "df/d9d/a20698.html#adc7f5769894c59710fa70604878b1e2c", null ],
+    [ "OnCheck", "df/d9d/a20698.html#ad604fa41b8c8d34b996dbdc709faac66", null ]
 ];

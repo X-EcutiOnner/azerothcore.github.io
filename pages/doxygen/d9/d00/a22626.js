@@ -1,6 +1,6 @@
 var a22626 =
 [
-    [ "instance_mana_tombs_InstanceMapScript", "db/d16/a22630.html", "db/d16/a22630" ],
-    [ "instance_mana_tombs", "d9/d00/a22626.html#a78ca8b378e4ab290f1eea2b2b5799630", null ],
-    [ "GetInstanceScript", "d9/d00/a22626.html#a26e4dad0957df886bc446396ab48ceda", null ]
+    [ "npc_released_offspring_harkoaAI", "d9/d00/a22626.html#ab1002f002987b6ea2366129afd48d65c", null ],
+    [ "MovementInform", "d9/d00/a22626.html#a56d52be3fdbc2e4176efe09ba58f55c7", null ],
+    [ "Reset", "d9/d00/a22626.html#a3ddc30ce39acef3bb5e6f8400a084393", null ]
 ];

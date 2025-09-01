@@ -1,7 +1,9 @@
 var a26742 =
 [
-    [ "HandleProc", "d5/d3f/a26742.html#a85df8d4086a980d2b0a441097a909143", null ],
-    [ "PrepareAuraScript", "d5/d3f/a26742.html#a4576f3d5af2d9265fa173f66d68ed512", null ],
-    [ "Register", "d5/d3f/a26742.html#ab5308a36bc3b878a2913a89a84051ad7", null ],
-    [ "Validate", "d5/d3f/a26742.html#a760a018b8410233e09065d94abeeb1ff", null ]
+    [ "HandleAfterHit", "d5/d3f/a26742.html#a05341e7a67f50c6ced4bf4bd3892f39a", null ],
+    [ "HandleBeforeHit", "d5/d3f/a26742.html#a7ca0fe15f6679c73aa77818ef3d94eed", null ],
+    [ "Load", "d5/d3f/a26742.html#a6b2a1f378c0f5a2762ce1d34740d310e", null ],
+    [ "PrepareSpellScript", "d5/d3f/a26742.html#a496c27472579be3b8989868765ec19ef", null ],
+    [ "Register", "d5/d3f/a26742.html#a133e338413e960c442446a2a4a13b85b", null ],
+    [ "_stackAmount", "d5/d3f/a26742.html#a3aa304a5386f6c0ee4aa428bf4ed12bb", null ]
 ];

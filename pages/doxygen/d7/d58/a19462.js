@@ -1,6 +1,8 @@
 var a19462 =
 [
-    [ "PrepareSpellScript", "d7/d58/a19462.html#a65c3b2c9a416b7d1bbd3c14057e5f8fc", null ],
-    [ "Register", "d7/d58/a19462.html#ad8470ed0d09c2b7e79fa4ecb1867e9bf", null ],
-    [ "SetDest", "d7/d58/a19462.html#a24341aae14ed77101d4c31f2fbe11463", null ]
+    [ "FilterTargets", "d7/d58/a19462.html#af6700817fd92dbe495e20d5c43b5d6b5", null ],
+    [ "Load", "d7/d58/a19462.html#a639105c26214d9887b84a482ca93eb26", null ],
+    [ "PrepareSpellScript", "d7/d58/a19462.html#a354ae20be436528b16095d4cd8d37859", null ],
+    [ "Register", "d7/d58/a19462.html#a5fcc9cc654d6495f535600a6eef4c968", null ],
+    [ "DrakeGUID", "d7/d58/a19462.html#ad4bbd7d559cdcc21ae5fafae75cd8eb3", null ]
 ];

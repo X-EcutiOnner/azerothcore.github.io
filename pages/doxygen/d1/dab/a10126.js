@@ -1,25 +1,10 @@
 var a10126 =
 [
-    [ "OutdoorPvPMgr", "d1/dab/a10126.html#a57480bb851822adda3d106f4a842354b", null ],
-    [ "~OutdoorPvPMgr", "d1/dab/a10126.html#a47a54de2e5f8d2d95691be9f6707d1d8", null ],
-    [ "AddZone", "d1/dab/a10126.html#a2f71683200a6f780ea1365ec2934b875", null ],
-    [ "CanTalkTo", "d1/dab/a10126.html#a8020976431b2754fc73acf762ed140b1", null ],
-    [ "Die", "d1/dab/a10126.html#a60821e2ea353606552f863aed2807316", null ],
-    [ "GetOutdoorPvPToZoneId", "d1/dab/a10126.html#aa297448e0e861e9d033b2a3a5d5176bb", null ],
-    [ "GetZoneScript", "d1/dab/a10126.html#a1c4ebcc2c64d9075e2f2f85e9239e4fa", null ],
-    [ "HandleCustomSpell", "d1/dab/a10126.html#a0134ce08b64931aadf7ffac968c47521", null ],
-    [ "HandleDropFlag", "d1/dab/a10126.html#aa1e8175a9964e3fdbd7f98ef33650217", null ],
-    [ "HandleGossipOption", "d1/dab/a10126.html#aa041123e1030c23c9862b494b057d3b2", null ],
-    [ "HandleOpenGo", "d1/dab/a10126.html#a8de2d40eb24baf6f7f1597fd97202a85", null ],
-    [ "HandlePlayerEnterZone", "d1/dab/a10126.html#ac3c4b3b6df6ae7787ff7072f3f46521f", null ],
-    [ "HandlePlayerLeaveZone", "d1/dab/a10126.html#a37c292b98c44830833c15eba1d74e24d", null ],
-    [ "HandlePlayerResurrects", "d1/dab/a10126.html#ad39bacd781ddb165c680758643a54c56", null ],
-    [ "InitOutdoorPvP", "d1/dab/a10126.html#aaae2ebe275de3da1282bd48b4dfc2ae9", null ],
-    [ "instance", "d1/dab/a10126.html#a0a92945f30266985e289742c29b13ed2", null ],
-    [ "Update", "d1/dab/a10126.html#a981b6e2b6201f3b1d32ffe4b2e215a57", null ],
-    [ "_lock", "d1/dab/a10126.html#ab8f0f56d34805ccf6b7210e390b947f7", null ],
-    [ "m_OutdoorPvPDatas", "d1/dab/a10126.html#aae1d441ea9e1715154b8f630b4cd4b2c", null ],
-    [ "m_OutdoorPvPMap", "d1/dab/a10126.html#a0927b39028f4060b0125bb63fe73a53a", null ],
-    [ "m_OutdoorPvPSet", "d1/dab/a10126.html#a4dc1a3a28d95a63b2ac6e5c9310730d6", null ],
-    [ "m_UpdateTimer", "d1/dab/a10126.html#ad07d15d5bbdf9d2e67a576d61e942b40", null ]
+    [ "WaypointMgr", "d1/dab/a10126.html#a2f038884959f10348bd5b7af3abee7db", null ],
+    [ "~WaypointMgr", "d1/dab/a10126.html#a7b0fed55791df7ab040a46984700d18e", null ],
+    [ "GetPath", "d1/dab/a10126.html#a8492dcbb35f4bdb563f861c521eb5317", null ],
+    [ "instance", "d1/dab/a10126.html#aacd2ed943503288057b3fb9a935a56e9", null ],
+    [ "Load", "d1/dab/a10126.html#a69ae451ce07f2e68be81b1a86649115d", null ],
+    [ "ReloadPath", "d1/dab/a10126.html#ac1364780d1ab0c91ca95d366419ca3df", null ],
+    [ "_waypointStore", "d1/dab/a10126.html#af70ce7663d7f132339ea8d163311c248", null ]
 ];

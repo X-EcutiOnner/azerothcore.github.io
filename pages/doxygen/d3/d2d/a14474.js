@@ -1,7 +1,6 @@
 var a14474 =
 [
-    [ "HandleEffectApply", "d3/d2d/a14474.html#a404f2134734e1d21201033b3f26e611e", null ],
-    [ "HandleEffectPeriodic", "d3/d2d/a14474.html#a8ce6799e01cf8b7849386fbdd2edddb8", null ],
-    [ "PrepareAuraScript", "d3/d2d/a14474.html#a1707f92d77a3ed7beefd499adc7f4a95", null ],
-    [ "Register", "d3/d2d/a14474.html#ad239472c15ca0c73b053d112f538ecff", null ]
+    [ "npc_cw_area_triggerAI", "d2/d14/a14478.html", "d2/d14/a14478" ],
+    [ "npc_cw_area_trigger", "d3/d2d/a14474.html#a11af64ac4ab078566bf8f68a36781939", null ],
+    [ "GetAI", "d3/d2d/a14474.html#a66c55b2984bab71be89ad7b6b96e3784", null ]
 ];

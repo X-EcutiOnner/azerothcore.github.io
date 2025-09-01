@@ -1,7 +1,7 @@
 var a27738 =
 [
-    [ "HandleDummy", "d9/d4e/a27738.html#ade9ff4db63fecf726776f6e4b36bb437", null ],
-    [ "PrepareSpellScript", "d9/d4e/a27738.html#a0375b541f2a90e337fee61ced6d8f3ec", null ],
-    [ "Register", "d9/d4e/a27738.html#a66c530b497e4952b457bbfa50a036c07", null ],
-    [ "Validate", "d9/d4e/a27738.html#a968333dcfe0553ad73879f3042db5511", null ]
+    [ "npc_doctorAI", "db/dae/a27742.html", "db/dae/a27742" ],
+    [ "npc_doctor", "d9/d4e/a27738.html#a8471bcd3e83b1a7a69de7bde00846698", null ],
+    [ "GetAI", "d9/d4e/a27738.html#a3da4d53b2402ad7338eeb6ea463a62f6", null ],
+    [ "OnQuestAccept", "d9/d4e/a27738.html#a990668aee39a9fa6ec90d0f6095ce48a", null ]
 ];

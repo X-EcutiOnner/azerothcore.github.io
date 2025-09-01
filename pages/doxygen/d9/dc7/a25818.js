@@ -1,7 +1,6 @@
 var a25818 =
 [
-    [ "HandleDummy", "d9/dc7/a25818.html#ac3486a646322ef1b6098eeeedaec7d4b", null ],
-    [ "PrepareSpellScript", "d9/dc7/a25818.html#a455bdb8fb98431d47b3e414dc3b59b13", null ],
-    [ "Register", "d9/dc7/a25818.html#acdade97c38a75439b3da751a0c348e37", null ],
-    [ "Validate", "d9/dc7/a25818.html#a2081334e6b7a4191801bc0556e26198c", null ]
+    [ "CheckProc", "d9/dc7/a25818.html#acac962ba1cb72615772fe8bc81d24f9d", null ],
+    [ "PrepareAuraScript", "d9/dc7/a25818.html#aebe1c8083ba09c21125c47843b2949da", null ],
+    [ "Register", "d9/dc7/a25818.html#adde6dada6b3012c2650ba9173c6616a0", null ]
 ];

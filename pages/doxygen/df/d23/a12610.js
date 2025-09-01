@@ -1,8 +1,7 @@
 var a12610 =
 [
-    [ "HandleEffectRemove", "df/d23/a12610.html#a5e5a218cb491b830ec8d50609a3d54ae", null ],
-    [ "if", "df/d23/a12610.html#a8596fc98402bf952484c9567f61c7820", null ],
-    [ "PrepareAuraScript", "df/d23/a12610.html#a4055f781a914de631187b00ba7aefeef", null ],
-    [ "Register", "df/d23/a12610.html#aefb4bbae43558abde871548088784613", null ],
-    [ "AuraEffectHandleModes", "df/d23/a12610.html#a7d419ba41e68b70740a867a2265824bd", null ]
+    [ "HandleScript", "df/d23/a12610.html#aa6a02fd6ac2fe27588cb17377e63125f", null ],
+    [ "PrepareSpellScript", "df/d23/a12610.html#a8d200122bafb943ccb6aa1bd86a1d227", null ],
+    [ "Register", "df/d23/a12610.html#ab1ee3baa1bd7341660bcc7a10978aff3", null ],
+    [ "Validate", "df/d23/a12610.html#a931be0e5aa4b54e646a3ed3ade135423", null ]
 ];

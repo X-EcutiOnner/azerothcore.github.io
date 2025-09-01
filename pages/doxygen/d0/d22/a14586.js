@@ -1,7 +1,7 @@
 var a14586 =
 [
-    [ "boss_azuregosAI", "d2/d7e/a14590.html", "d2/d7e/a14590" ],
-    [ "boss_azuregos", "d0/d22/a14586.html#a48590db0037870ca5c9425a468e5ea3a", null ],
-    [ "GetAI", "d0/d22/a14586.html#a3ea1fd967b8ab158a9b2bb5cdd7dcf83", null ],
-    [ "OnGossipSelect", "d0/d22/a14586.html#a73220e54a3a53931e740f3c53c3bf20c", null ]
+    [ "npc_love_in_air_supply_sentry", "d0/d22/a14586.html#ab2742c3be0ed661a509b9eb32326bee5", null ],
+    [ "MoveInLineOfSight", "d0/d22/a14586.html#a9df110324c74277e07183c7db231bbda", null ],
+    [ "UpdateAI", "d0/d22/a14586.html#aaa658222954f96d45b75daf83555f6f8", null ],
+    [ "lock", "d0/d22/a14586.html#a59bf67b114014542538165c21aa109a6", null ]
 ];

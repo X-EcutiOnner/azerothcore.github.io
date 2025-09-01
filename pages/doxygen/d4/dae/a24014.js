@@ -1,9 +1,6 @@
 var a24014 =
 [
-    [ "npc_aeranasAI", "d4/dae/a24014.html#a2142cebc84e64919fa5c2ef630453282", null ],
-    [ "Reset", "d4/dae/a24014.html#a2c1bbe079c065745782adfa13b030515", null ],
-    [ "UpdateAI", "d4/dae/a24014.html#ae192a3b38c0ec65cddfce3b95d15555a", null ],
-    [ "envelopingWinds_Timer", "d4/dae/a24014.html#a566b5d648abe630efc191f9d6d4938a2", null ],
-    [ "faction_Timer", "d4/dae/a24014.html#aac071887c100f91cc7ffc545ea6439d9", null ],
-    [ "shock_Timer", "d4/dae/a24014.html#aba8ad016f0e470b07163fef07b603380", null ]
+    [ "HandlePeriodic", "d4/dae/a24014.html#a0a6da7aad8b7fcc92092f7a3c5bc0768", null ],
+    [ "PrepareAuraScript", "d4/dae/a24014.html#a75d72d196ded2ee109d0231d4342890a", null ],
+    [ "Register", "d4/dae/a24014.html#a148013ea68bbc573bddc1c3639dba019", null ]
 ];

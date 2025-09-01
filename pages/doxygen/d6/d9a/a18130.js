@@ -1,5 +1,6 @@
 var a18130 =
 [
-    [ "at_sindragosa_lair", "d6/d9a/a18130.html#a60ce46f248e66faa1f13a8b5c088bdc6", null ],
-    [ "OnTrigger", "d6/d9a/a18130.html#a07074bff20272042ed05be83dd818ee9", null ]
+    [ "npc_little_oozeAI", "de/d4c/a18134.html", "de/d4c/a18134" ],
+    [ "npc_little_ooze", "d6/d9a/a18130.html#a9b0849057c1d3dd9f6507b9c80e67a66", null ],
+    [ "GetAI", "d6/d9a/a18130.html#a3e56c6dbad6239485897655a4bfbbe07", null ]
 ];

@@ -1,6 +1,6 @@
 var a18002 =
 [
-    [ "DespawnSelf", "df/df1/a18002.html#a7009dd0e842898d03caa89e92447749d", null ],
-    [ "PrepareAuraScript", "df/df1/a18002.html#a00f0379b4e4fadf73bed7d483e406ac5", null ],
-    [ "Register", "df/df1/a18002.html#a8f21cb8ab1145fe32a78a682445cfc2d", null ]
+    [ "UnboundPlagueTargetSelector", "df/df1/a18002.html#aedde7e013418bf6ff54cf3d3b8a70206", null ],
+    [ "operator()", "df/df1/a18002.html#ae5fc2623d4eb0b0a82b3eaa464c92458", null ],
+    [ "_source", "df/df1/a18002.html#a87eb77615e443ccec373d571708a156a", null ]
 ];

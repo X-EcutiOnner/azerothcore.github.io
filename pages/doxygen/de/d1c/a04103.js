@@ -1,13 +1,12 @@
 var a04103 =
 [
-    [ "AddEventsScripts", "de/d1c/a04103.html#a5b00ce0eeb1dcf64dc867f4bce623416", null ],
-    [ "AddSC_event_brewfest_scripts", "de/d1c/a04103.html#a7b95e86ce715aad734d059cfc0cf88d7", null ],
-    [ "AddSC_event_childrens_week", "de/d1c/a04103.html#a832536a026ab4dad8df7bb48ad0493fc", null ],
-    [ "AddSC_event_firework_show_scripts", "de/d1c/a04103.html#af7a6296c13b6615a14e0823fe7e5b577", null ],
-    [ "AddSC_event_hallows_end_scripts", "de/d1c/a04103.html#a70705fe4a0f9a88d8f185363054af273", null ],
-    [ "AddSC_event_love_in_the_air", "de/d1c/a04103.html#acd28b6b284f9e0f8caa1194e2dc904f8", null ],
-    [ "AddSC_event_midsummer_scripts", "de/d1c/a04103.html#adc17dd3d30524a3c73b564d6eed54f1c", null ],
-    [ "AddSC_event_noblegarden_scripts", "de/d1c/a04103.html#a60b11fd113b9059778bb843dd1806c79", null ],
-    [ "AddSC_event_pilgrims_end_scripts", "de/d1c/a04103.html#a8e59953c9b1731e315c9c6b9148a88e6", null ],
-    [ "AddSC_event_winter_veil_scripts", "de/d1c/a04103.html#a56e93f0f5c0f4763c439d5ea4cdf6c5e", null ]
+    [ "ArenaTeamScript", "d4/db5/a10270.html", "d4/db5/a10270" ],
+    [ "ArenaTeamHook", "de/d1c/a04103.html#adfb7077026efd17516d6b85637c2b218", [
+      [ "ARENATEAMHOOK_ON_GET_SLOT_BY_TYPE", "de/d1c/a04103.html#adfb7077026efd17516d6b85637c2b218a138fd48dae9a6b0db50dd8a442045adc", null ],
+      [ "ARENATEAMHOOK_ON_GET_ARENA_POINTS", "de/d1c/a04103.html#adfb7077026efd17516d6b85637c2b218a3b21f54389f578130e4874fd75c7e6a9", null ],
+      [ "ARENATEAMHOOK_ON_TYPEID_TO_QUEUEID", "de/d1c/a04103.html#adfb7077026efd17516d6b85637c2b218ae5c1d8d5548693d43fdd43339ef152a7", null ],
+      [ "ARENATEAMHOOK_ON_QUEUEID_TO_ARENA_TYPE", "de/d1c/a04103.html#adfb7077026efd17516d6b85637c2b218a957830b5a4fb9d7a53b977999068031b", null ],
+      [ "ARENATEAMHOOK_ON_SET_ARENA_MAX_PLAYERS_PER_TEAM", "de/d1c/a04103.html#adfb7077026efd17516d6b85637c2b218aaf39f25b1610466743d5d839986bf6b6", null ],
+      [ "ARENATEAMHOOK_END", "de/d1c/a04103.html#adfb7077026efd17516d6b85637c2b218a5fe29b394fe4fe74fffe7988b90ccaf7", null ]
+    ] ]
 ];

@@ -1,13 +1,15 @@
 var a24430 =
 [
-    [ "npc_pet_mage_mirror_image", "d2/d25/a24430.html#a2761cc9bf3a8bb7908d3db6d929721ba", null ],
-    [ "EnterEvadeMode", "d2/d25/a24430.html#a858b070fb53112dc78554f0b20cd876a", null ],
-    [ "InitializeAI", "d2/d25/a24430.html#a66d513908aa88504d0cbe4ce9bf222be", null ],
-    [ "MySelectNextTarget", "d2/d25/a24430.html#a49d57ba93cd88816f68c16d56d3b8cd2", null ],
-    [ "Reset", "d2/d25/a24430.html#a79a8c153ab61c619d928ec5535e67077", null ],
-    [ "UpdateAI", "d2/d25/a24430.html#aa219b3adc38b625c6885089895b941b4", null ],
-    [ "_ebonGargoyleGUID", "d2/d25/a24430.html#a8be57d06114f108e74b850ce66722bf3", null ],
-    [ "checktarget", "d2/d25/a24430.html#a074611355768dc2072da69ed9d72242b", null ],
-    [ "dist", "d2/d25/a24430.html#a7fcde453faf05a64e4c7099d840c0e2b", null ],
-    [ "selectionTimer", "d2/d25/a24430.html#a7d7a6ebd88afecd7ae7aaeda0cee6cf7", null ]
+    [ "dragonmaw_race_npc", "d2/d25/a24430.html#ad93bcd14a4fd05c9e8a1aee4dd53d4aa", null ],
+    [ "FailQuest", "d2/d25/a24430.html#a15a1223f9dc5d3979485a753687f169e", null ],
+    [ "FinishRace", "d2/d25/a24430.html#a2439f54aca4ff28c23d351245099a4fc", null ],
+    [ "MovementInform", "d2/d25/a24430.html#ad0b4ef357605a44a4188c29292303dcf", null ],
+    [ "PathEndReached", "d2/d25/a24430.html#a6b93a5fb6beb8e8b886f6bf8bb58d3d2", null ],
+    [ "Reset", "d2/d25/a24430.html#a0edde2bdb8d4d2204551ebc7a7c41fe9", null ],
+    [ "sQuestAccept", "d2/d25/a24430.html#a539fcaf1dc25a34531d032032c19182e", null ],
+    [ "StartRace", "d2/d25/a24430.html#ac7d20cb0f2a997d2306195da5c9004e8", null ],
+    [ "StartRaceAttacks", "d2/d25/a24430.html#a341528843b89a29711f60a1b932da616", null ],
+    [ "TakeOff", "d2/d25/a24430.html#a8b14aeb1e67059a159f42aad578ccbfb", null ],
+    [ "UpdateAI", "d2/d25/a24430.html#a5d84467b3fa0c3eefcf7054d0dde472c", null ],
+    [ "_playerGUID", "d2/d25/a24430.html#a8a172511afed700d5c0fa1d5de4cb379", null ]
 ];

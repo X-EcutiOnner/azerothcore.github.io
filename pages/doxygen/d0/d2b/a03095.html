@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/scripts/EasternKingdoms/Scholomance/instance_scholomance.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/game/Battlegrounds/BattlegroundUtils.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,174 +105,71 @@ $(document).ready(function(){initNavTree('d0/d2b/a03095.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#nested-classes">Classes</a> &#124;
-<a href="#enum-members">Enumerations</a> &#124;
-<a href="#func-members">Functions</a> &#124;
-<a href="#var-members">Variables</a>  </div>
-  <div class="headertitle"><div class="title">instance_scholomance.cpp File Reference</div></div>
+<a href="#func-members">Functions</a>  </div>
+  <div class="headertitle"><div class="title">BattlegroundUtils.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">CreatureScript.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">GameObjectAI.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">InstanceMapScript.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">InstanceScript.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ScriptedCreature.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SpellAuras.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SpellScript.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SpellScriptLoader.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">scholomance.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">Battleground.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
-Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d59/a13128.html">instance_scholomance</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d61/a13132.html">instance_scholomance::instance_scholomance_InstanceMapScript</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d81/a13136.html">spell_scholomance_fixate_aura</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d3c/a13140.html">spell_scholomance_boon_of_life_aura</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d4a/a13144.html">npc_scholomance_occultist</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d2a/a13148.html">npc_scholomance_occultist::npc_scholomance_occultistAI</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
-Enumerations</h2></td></tr>
-<tr class="memitem:a8b43fe18f8176260ed382582db3c3818"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d2b/a03095.html#a8b43fe18f8176260ed382582db3c3818">OccultistEntries</a> { <br />
-&#160;&#160;<a class="el" href="../../d0/d2b/a03095.html#a8b43fe18f8176260ed382582db3c3818a5bb832c5eb17f3850f1178b2b3590a5a">CASTER_ENTRY</a> = 10472
-, <br />
-&#160;&#160;<a class="el" href="../../d0/d2b/a03095.html#a8b43fe18f8176260ed382582db3c3818a404c94392628f9372866677c936edb15">DARK_SHADE_ENTRY</a> = 11284
-<br />
- }</td></tr>
-<tr class="separator:a8b43fe18f8176260ed382582db3c3818"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9f85ef6fae02a6e177aa60a656ac2b3d"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d2b/a03095.html#a9f85ef6fae02a6e177aa60a656ac2b3d">OccultistSpells</a> { <br />
-&#160;&#160;<a class="el" href="../../d0/d2b/a03095.html#a9f85ef6fae02a6e177aa60a656ac2b3da89e933b806d06611ede39194aec55c1a">BONE_ARMOR_SPELL</a> = 16431
-, <br />
-&#160;&#160;<a class="el" href="../../d0/d2b/a03095.html#a9f85ef6fae02a6e177aa60a656ac2b3da8b221e5c5dc36e75186eb2b8bdc0e313">COUNTER_SPELL</a> = 15122
-, <br />
-&#160;&#160;<a class="el" href="../../d0/d2b/a03095.html#a9f85ef6fae02a6e177aa60a656ac2b3da5a3228d15aeb4d8cb7c29650200766af">DRAIN_MANA_SPELL</a> = 17243
-, <br />
-&#160;&#160;<a class="el" href="../../d0/d2b/a03095.html#a9f85ef6fae02a6e177aa60a656ac2b3da2e1fda31c0d43a826ad22b89a62cfb8c">SHADOWBOLT_VOLLEY_SPELL</a> = 17228
-<br />
- }</td></tr>
-<tr class="separator:a9f85ef6fae02a6e177aa60a656ac2b3d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:a57729392acbf8df56faae2a7865f65b4"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d2b/a03095.html#a57729392acbf8df56faae2a7865f65b4">AddSC_instance_scholomance</a> ()</td></tr>
-<tr class="separator:a57729392acbf8df56faae2a7865f65b4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
-Variables</h2></td></tr>
-<tr class="memitem:a5e00a038de93e0b1fc4ac53b49bf47da"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d33/a08452.html">Position</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d2b/a03095.html#a5e00a038de93e0b1fc4ac53b49bf47da">KirtonosSpawn</a> = <a class="el" href="../../de/d33/a08452.html">Position</a>(315.028, 70.5385, 102.15, 0.385971)</td></tr>
-<tr class="separator:a5e00a038de93e0b1fc4ac53b49bf47da"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab22bdb52b0357434faced9df19db9d81"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d2b/a03095.html#ab22bdb52b0357434faced9df19db9d81">GetMinPlayersPerTeam</a> (<a class="el" href="../../db/d09/a07310.html">Battleground</a> *bg, <a class="el" href="../../dc/d98/a28494.html">PvPDifficultyEntry</a> const *bracketEntry)</td></tr>
+<tr class="separator:ab22bdb52b0357434faced9df19db9d81"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="a8b43fe18f8176260ed382582db3c3818" name="a8b43fe18f8176260ed382582db3c3818"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8b43fe18f8176260ed382582db3c3818">&#9670;&#160;</a></span>OccultistEntries</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../d0/d2b/a03095.html#a8b43fe18f8176260ed382582db3c3818">OccultistEntries</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a8b43fe18f8176260ed382582db3c3818a5bb832c5eb17f3850f1178b2b3590a5a" name="a8b43fe18f8176260ed382582db3c3818a5bb832c5eb17f3850f1178b2b3590a5a"></a>CASTER_ENTRY&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a8b43fe18f8176260ed382582db3c3818a404c94392628f9372866677c936edb15" name="a8b43fe18f8176260ed382582db3c3818a404c94392628f9372866677c936edb15"></a>DARK_SHADE_ENTRY&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">  311</span>{</div>
-<div class="line"><span class="lineno">  312</span>    <a class="code hl_enumvalue" href="../../d0/d2b/a03095.html#a8b43fe18f8176260ed382582db3c3818a5bb832c5eb17f3850f1178b2b3590a5a">CASTER_ENTRY</a>      = 10472,</div>
-<div class="line"><span class="lineno">  313</span>    <a class="code hl_enumvalue" href="../../d0/d2b/a03095.html#a8b43fe18f8176260ed382582db3c3818a404c94392628f9372866677c936edb15">DARK_SHADE_ENTRY</a>  = 11284</div>
-<div class="line"><span class="lineno">  314</span>};</div>
-<div class="ttc" id="aa03095_html_a8b43fe18f8176260ed382582db3c3818a404c94392628f9372866677c936edb15"><div class="ttname"><a href="../../d0/d2b/a03095.html#a8b43fe18f8176260ed382582db3c3818a404c94392628f9372866677c936edb15">DARK_SHADE_ENTRY</a></div><div class="ttdeci">@ DARK_SHADE_ENTRY</div><div class="ttdef"><b>Definition:</b> instance_scholomance.cpp:313</div></div>
-<div class="ttc" id="aa03095_html_a8b43fe18f8176260ed382582db3c3818a5bb832c5eb17f3850f1178b2b3590a5a"><div class="ttname"><a href="../../d0/d2b/a03095.html#a8b43fe18f8176260ed382582db3c3818a5bb832c5eb17f3850f1178b2b3590a5a">CASTER_ENTRY</a></div><div class="ttdeci">@ CASTER_ENTRY</div><div class="ttdef"><b>Definition:</b> instance_scholomance.cpp:312</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a9f85ef6fae02a6e177aa60a656ac2b3d" name="a9f85ef6fae02a6e177aa60a656ac2b3d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9f85ef6fae02a6e177aa60a656ac2b3d">&#9670;&#160;</a></span>OccultistSpells</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../d0/d2b/a03095.html#a9f85ef6fae02a6e177aa60a656ac2b3d">OccultistSpells</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a9f85ef6fae02a6e177aa60a656ac2b3da89e933b806d06611ede39194aec55c1a" name="a9f85ef6fae02a6e177aa60a656ac2b3da89e933b806d06611ede39194aec55c1a"></a>BONE_ARMOR_SPELL&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a9f85ef6fae02a6e177aa60a656ac2b3da8b221e5c5dc36e75186eb2b8bdc0e313" name="a9f85ef6fae02a6e177aa60a656ac2b3da8b221e5c5dc36e75186eb2b8bdc0e313"></a>COUNTER_SPELL&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a9f85ef6fae02a6e177aa60a656ac2b3da5a3228d15aeb4d8cb7c29650200766af" name="a9f85ef6fae02a6e177aa60a656ac2b3da5a3228d15aeb4d8cb7c29650200766af"></a>DRAIN_MANA_SPELL&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a9f85ef6fae02a6e177aa60a656ac2b3da2e1fda31c0d43a826ad22b89a62cfb8c" name="a9f85ef6fae02a6e177aa60a656ac2b3da2e1fda31c0d43a826ad22b89a62cfb8c"></a>SHADOWBOLT_VOLLEY_SPELL&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">  317</span>{</div>
-<div class="line"><span class="lineno">  318</span>    <a class="code hl_enumvalue" href="../../d0/d2b/a03095.html#a9f85ef6fae02a6e177aa60a656ac2b3da89e933b806d06611ede39194aec55c1a">BONE_ARMOR_SPELL</a>         = 16431,</div>
-<div class="line"><span class="lineno">  319</span>    <a class="code hl_enumvalue" href="../../d0/d2b/a03095.html#a9f85ef6fae02a6e177aa60a656ac2b3da8b221e5c5dc36e75186eb2b8bdc0e313">COUNTER_SPELL</a>            = 15122,</div>
-<div class="line"><span class="lineno">  320</span>    <a class="code hl_enumvalue" href="../../d0/d2b/a03095.html#a9f85ef6fae02a6e177aa60a656ac2b3da5a3228d15aeb4d8cb7c29650200766af">DRAIN_MANA_SPELL</a>         = 17243,</div>
-<div class="line"><span class="lineno">  321</span>    <a class="code hl_enumvalue" href="../../d0/d2b/a03095.html#a9f85ef6fae02a6e177aa60a656ac2b3da2e1fda31c0d43a826ad22b89a62cfb8c">SHADOWBOLT_VOLLEY_SPELL</a>  = 17228</div>
-<div class="line"><span class="lineno">  322</span>};</div>
-<div class="ttc" id="aa03095_html_a9f85ef6fae02a6e177aa60a656ac2b3da2e1fda31c0d43a826ad22b89a62cfb8c"><div class="ttname"><a href="../../d0/d2b/a03095.html#a9f85ef6fae02a6e177aa60a656ac2b3da2e1fda31c0d43a826ad22b89a62cfb8c">SHADOWBOLT_VOLLEY_SPELL</a></div><div class="ttdeci">@ SHADOWBOLT_VOLLEY_SPELL</div><div class="ttdef"><b>Definition:</b> instance_scholomance.cpp:321</div></div>
-<div class="ttc" id="aa03095_html_a9f85ef6fae02a6e177aa60a656ac2b3da5a3228d15aeb4d8cb7c29650200766af"><div class="ttname"><a href="../../d0/d2b/a03095.html#a9f85ef6fae02a6e177aa60a656ac2b3da5a3228d15aeb4d8cb7c29650200766af">DRAIN_MANA_SPELL</a></div><div class="ttdeci">@ DRAIN_MANA_SPELL</div><div class="ttdef"><b>Definition:</b> instance_scholomance.cpp:320</div></div>
-<div class="ttc" id="aa03095_html_a9f85ef6fae02a6e177aa60a656ac2b3da89e933b806d06611ede39194aec55c1a"><div class="ttname"><a href="../../d0/d2b/a03095.html#a9f85ef6fae02a6e177aa60a656ac2b3da89e933b806d06611ede39194aec55c1a">BONE_ARMOR_SPELL</a></div><div class="ttdeci">@ BONE_ARMOR_SPELL</div><div class="ttdef"><b>Definition:</b> instance_scholomance.cpp:318</div></div>
-<div class="ttc" id="aa03095_html_a9f85ef6fae02a6e177aa60a656ac2b3da8b221e5c5dc36e75186eb2b8bdc0e313"><div class="ttname"><a href="../../d0/d2b/a03095.html#a9f85ef6fae02a6e177aa60a656ac2b3da8b221e5c5dc36e75186eb2b8bdc0e313">COUNTER_SPELL</a></div><div class="ttdeci">@ COUNTER_SPELL</div><div class="ttdef"><b>Definition:</b> instance_scholomance.cpp:319</div></div>
-</div><!-- fragment -->
-</div>
-</div>
 <h2 class="groupheader">Function Documentation</h2>
-<a id="a57729392acbf8df56faae2a7865f65b4" name="a57729392acbf8df56faae2a7865f65b4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a57729392acbf8df56faae2a7865f65b4">&#9670;&#160;</a></span>AddSC_instance_scholomance()</h2>
+<a id="ab22bdb52b0357434faced9df19db9d81" name="ab22bdb52b0357434faced9df19db9d81"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab22bdb52b0357434faced9df19db9d81">&#9670;&#160;</a></span>GetMinPlayersPerTeam()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void AddSC_instance_scholomance </td>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> GetMinPlayersPerTeam </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
+          <td class="paramtype"><a class="el" href="../../db/d09/a07310.html">Battleground</a> *&#160;</td>
+          <td class="paramname"><em>bg</em>, </td>
         </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  439</span>{</div>
-<div class="line"><span class="lineno">  440</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d9/d59/a13128.html">instance_scholomance</a>();</div>
-<div class="line"><span class="lineno">  441</span>    <a class="code hl_define" href="../../d3/ddc/a01142.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../dd/d81/a13136.html">spell_scholomance_fixate_aura</a>);</div>
-<div class="line"><span class="lineno">  442</span>    <a class="code hl_define" href="../../d3/ddc/a01142.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d5/d3c/a13140.html">spell_scholomance_boon_of_life_aura</a>);</div>
-<div class="line"><span class="lineno">  443</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../dc/d4a/a13144.html">npc_scholomance_occultist</a>();</div>
-<div class="line"><span class="lineno">  444</span>}</div>
-<div class="ttc" id="aa01142_html_ae221e5976ab29ba14fec3b073a03670f"><div class="ttname"><a href="../../d3/ddc/a01142.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a></div><div class="ttdeci">#define RegisterSpellScript(spell_script)</div><div class="ttdef"><b>Definition:</b> SpellScriptLoader.h:88</div></div>
-<div class="ttc" id="aa13128_html"><div class="ttname"><a href="../../d9/d59/a13128.html">instance_scholomance</a></div><div class="ttdef"><b>Definition:</b> instance_scholomance.cpp:32</div></div>
-<div class="ttc" id="aa13136_html"><div class="ttname"><a href="../../dd/d81/a13136.html">spell_scholomance_fixate_aura</a></div><div class="ttdef"><b>Definition:</b> instance_scholomance.cpp:250</div></div>
-<div class="ttc" id="aa13140_html"><div class="ttname"><a href="../../d5/d3c/a13140.html">spell_scholomance_boon_of_life_aura</a></div><div class="ttdef"><b>Definition:</b> instance_scholomance.cpp:275</div></div>
-<div class="ttc" id="aa13144_html"><div class="ttname"><a href="../../dc/d4a/a13144.html">npc_scholomance_occultist</a></div><div class="ttdef"><b>Definition:</b> instance_scholomance.cpp:325</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00088">RegisterSpellScript</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00168">AddEasternKingdomsScripts()</a>.</p>
-
-</div>
-</div>
-<h2 class="groupheader">Variable Documentation</h2>
-<a id="a5e00a038de93e0b1fc4ac53b49bf47da" name="a5e00a038de93e0b1fc4ac53b49bf47da"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5e00a038de93e0b1fc4ac53b49bf47da">&#9670;&#160;</a></span>KirtonosSpawn</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../de/d33/a08452.html">Position</a> KirtonosSpawn = <a class="el" href="../../de/d33/a08452.html">Position</a>(315.028, 70.5385, 102.15, 0.385971)</td>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../dc/d98/a28494.html">PvPDifficultyEntry</a> const *&#160;</td>
+          <td class="paramname"><em>bracketEntry</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">    5</span>{</div>
+<div class="line"><span class="lineno">    6</span>    <span class="comment">// The problem addressed here is that methods such as bg-&gt;GetMinLevel() and bg-&gt;GetMaxLevel() have a different meaning</span></div>
+<div class="line"><span class="lineno">    7</span>    <span class="comment">// according to whether the BG is a template (then it&#39;s the value from the `battleground_template` table)</span></div>
+<div class="line"><span class="lineno">    8</span>    <span class="comment">// or if it&#39;s the real BG (then it&#39;s the specific bracket minimum level, e.g. &quot;60&quot; for &quot;60-69&quot;).</span></div>
+<div class="line"><span class="lineno">    9</span> </div>
+<div class="line"><span class="lineno">   10</span>    <span class="keywordflow">if</span> (!bg-&gt;<a class="code hl_function" href="../../db/d09/a07310.html#acf16b3c5055b8a424e5f67cf471c5764">isTemplate</a>() || bg-&gt;<a class="code hl_function" href="../../db/d09/a07310.html#a8ca3356d984db0c5b6e09d61cf7a406c">isArena</a>())</div>
+<div class="line"><span class="lineno">   11</span>    {</div>
+<div class="line"><span class="lineno">   12</span>        <span class="keywordflow">return</span> bg-&gt;<a class="code hl_function" href="../../db/d09/a07310.html#a2def9e5daf5fcb029686b8000111ba5f">GetMinPlayersPerTeam</a>();</div>
+<div class="line"><span class="lineno">   13</span>    }</div>
+<div class="line"><span class="lineno">   14</span> </div>
+<div class="line"><span class="lineno">   15</span>    <span class="keyword">auto</span> maxPlayerLevel = <a class="code hl_define" href="../../da/d11/a04792.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getIntConfig(<a class="code hl_enumvalue" href="../../de/d87/a02939.html#a468ad15992691eb97dd20680046832e0a6684273cdd36b9b8215844fc51358ae1">CONFIG_MAX_PLAYER_LEVEL</a>);</div>
+<div class="line"><span class="lineno">   16</span>    <span class="keyword">auto</span> isMaxLevel = bracketEntry-&gt;minLevel &lt;= maxPlayerLevel &amp;&amp; maxPlayerLevel &lt;= bracketEntry-&gt;maxLevel;</div>
+<div class="line"><span class="lineno">   17</span>    <span class="keyword">auto</span> lowLevelsOverride = <a class="code hl_define" href="../../da/d11/a04792.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getIntConfig(<a class="code hl_enumvalue" href="../../de/d87/a02939.html#a468ad15992691eb97dd20680046832e0acc35d8a8f61002583d1c994bd93592eb">CONFIG_BATTLEGROUND_OVERRIDE_LOWLEVELS_MINPLAYERS</a>);</div>
+<div class="line"><span class="lineno">   18</span> </div>
+<div class="line"><span class="lineno">   19</span>    <span class="keywordflow">return</span> (lowLevelsOverride &amp;&amp; !isMaxLevel) ? lowLevelsOverride : bg-&gt;<a class="code hl_function" href="../../db/d09/a07310.html#a2def9e5daf5fcb029686b8000111ba5f">GetMinPlayersPerTeam</a>();</div>
+<div class="line"><span class="lineno">   20</span>}</div>
+<div class="ttc" id="aa02939_html_a468ad15992691eb97dd20680046832e0a6684273cdd36b9b8215844fc51358ae1"><div class="ttname"><a href="../../de/d87/a02939.html#a468ad15992691eb97dd20680046832e0a6684273cdd36b9b8215844fc51358ae1">CONFIG_MAX_PLAYER_LEVEL</a></div><div class="ttdeci">@ CONFIG_MAX_PLAYER_LEVEL</div><div class="ttdef"><b>Definition:</b> WorldConfig.h:187</div></div>
+<div class="ttc" id="aa02939_html_a468ad15992691eb97dd20680046832e0acc35d8a8f61002583d1c994bd93592eb"><div class="ttname"><a href="../../de/d87/a02939.html#a468ad15992691eb97dd20680046832e0acc35d8a8f61002583d1c994bd93592eb">CONFIG_BATTLEGROUND_OVERRIDE_LOWLEVELS_MINPLAYERS</a></div><div class="ttdeci">@ CONFIG_BATTLEGROUND_OVERRIDE_LOWLEVELS_MINPLAYERS</div><div class="ttdef"><b>Definition:</b> WorldConfig.h:259</div></div>
+<div class="ttc" id="aa04792_html_ga05dfb35c344e5b947a19e4284e7f5fa7"><div class="ttname"><a href="../../da/d11/a04792.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a></div><div class="ttdeci">#define sWorld</div><div class="ttdef"><b>Definition:</b> World.h:320</div></div>
+<div class="ttc" id="aa07310_html_a2def9e5daf5fcb029686b8000111ba5f"><div class="ttname"><a href="../../db/d09/a07310.html#a2def9e5daf5fcb029686b8000111ba5f">Battleground::GetMinPlayersPerTeam</a></div><div class="ttdeci">uint32 GetMinPlayersPerTeam() const</div><div class="ttdef"><b>Definition:</b> Battleground.h:341</div></div>
+<div class="ttc" id="aa07310_html_a8ca3356d984db0c5b6e09d61cf7a406c"><div class="ttname"><a href="../../db/d09/a07310.html#a8ca3356d984db0c5b6e09d61cf7a406c">Battleground::isArena</a></div><div class="ttdeci">bool isArena() const</div><div class="ttdef"><b>Definition:</b> Battleground.h:404</div></div>
+<div class="ttc" id="aa07310_html_acf16b3c5055b8a424e5f67cf471c5764"><div class="ttname"><a href="../../db/d09/a07310.html#acf16b3c5055b8a424e5f67cf471c5764">Battleground::isTemplate</a></div><div class="ttdeci">bool isTemplate() const</div><div class="ttdef"><b>Definition:</b> Battleground.h:332</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00259">CONFIG_BATTLEGROUND_OVERRIDE_LOWLEVELS_MINPLAYERS</a>, <a class="el" href="../../#l00187">CONFIG_MAX_PLAYER_LEVEL</a>, <a class="el" href="../../#l00341">Battleground::GetMinPlayersPerTeam()</a>, <a class="el" href="../../#l00404">Battleground::isArena()</a>, <a class="el" href="../../#l00332">Battleground::isTemplate()</a>, <a class="el" href="../../#l01437">PvPDifficultyEntry::maxLevel</a>, <a class="el" href="../../#l01436">PvPDifficultyEntry::minLevel</a>, and <a class="el" href="../../#l00320">sWorld</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00125">instance_scholomance::instance_scholomance_InstanceMapScript::SetData()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00959">BattlegroundQueue::BattlegroundQueueAnnouncerUpdate()</a>, <a class="el" href="../../#l00707">BattlegroundQueue::BattlegroundQueueUpdate()</a>, and <a class="el" href="../../#l01036">BattlegroundQueue::SendMessageBGQueue()</a>.</p>
 
 </div>
 </div>
@@ -281,8 +178,8 @@ Variables</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_ddeb450e5fe586f747c0635391d1d1d6.html">EasternKingdoms</a></li><li class="navelem"><a class="el" href="../../dir_29679c4820650ebe701cec6df12f9d89.html">Scholomance</a></li><li class="navelem"><a class="el" href="../../d0/d2b/a03095.html">instance_scholomance.cpp</a></li>
-    <li class="footer">Generated on Mon Aug 25 2025 20:45:29 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_fc52f0b797d74b4b54bfd04593b84648.html">Battlegrounds</a></li><li class="navelem"><a class="el" href="../../d0/d2b/a03095.html">BattlegroundUtils.h</a></li>
+    <li class="footer">Generated on Mon Sep 1 2025 20:42:34 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

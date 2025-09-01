@@ -1,6 +1,7 @@
 var a21134 =
 [
-    [ "npc_ferocious_rhinoAI", "d3/dfa/a21138.html", "d3/dfa/a21138" ],
-    [ "npc_ferocious_rhino", "d9/de7/a21134.html#a480c1d0c24cdbe7cd3c47332ee925466", null ],
-    [ "GetAI", "d9/de7/a21134.html#aa5c3cba6b1ed6cffaac578c5449b9b4e", null ]
+    [ "OnPeriodic", "d9/de7/a21134.html#a529e89c1ae0074370da174defc086719", null ],
+    [ "PrepareAuraScript", "d9/de7/a21134.html#a587652095a5dfae229787a0c0ceacfbe", null ],
+    [ "Register", "d9/de7/a21134.html#acd5551b09882d720608bdec6036dee9a", null ],
+    [ "Validate", "d9/de7/a21134.html#aaed6604e39dd977f4e7c671052d718e8", null ]
 ];

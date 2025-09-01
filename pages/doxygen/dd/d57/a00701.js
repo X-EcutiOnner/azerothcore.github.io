@@ -1,62 +1,46 @@
 var a00701 =
 [
-    [ "ArenaTeamMember", "df/d01/a07254.html", "df/d01/a07254" ],
-    [ "ArenaTeamStats", "de/d00/a07258.html", "de/d00/a07258" ],
-    [ "ArenaTeam", "da/d0c/a07262.html", "da/d0c/a07262" ],
-    [ "MAX_ARENA_SLOT", "dd/d57/a00701.html#a3ed680b9b5f263a9c57435bf412b89f6", null ],
-    [ "ArenaSlot", "dd/d57/a00701.html#af7e171357dbfd0fedfa2da950cf6abbf", [
-      [ "ARENA_SLOT_2v2", "dd/d57/a00701.html#af7e171357dbfd0fedfa2da950cf6abbfa91adb8a9823496c7b8bbece5e5a3a74e", null ],
-      [ "ARENA_SLOT_3v3", "dd/d57/a00701.html#af7e171357dbfd0fedfa2da950cf6abbfab5c77731583aa5a2ef36073e297be240", null ],
-      [ "ARENA_SLOT_5v5", "dd/d57/a00701.html#af7e171357dbfd0fedfa2da950cf6abbfaa750824f1390167b2db96f7a04288990", null ]
+    [ "ZeppelinEvent", "dd/d57/a00701.html#a79ab5591f9534775ed690dc76f71b042", [
+      [ "EVENT_UC_FROM_GROMGOL_ARRIVAL", "dd/d57/a00701.html#a79ab5591f9534775ed690dc76f71b042ad8c3b3e97c6776a5f533b6fdadf5564c", null ],
+      [ "EVENT_GROMGOL_FROM_UC_ARRIVAL", "dd/d57/a00701.html#a79ab5591f9534775ed690dc76f71b042a0d7270e5463c8d0c7f1b6287ea9623f8", null ],
+      [ "EVENT_OG_FROM_UC_ARRIVAL", "dd/d57/a00701.html#a79ab5591f9534775ed690dc76f71b042a359c0cfd8564260f755d081f4a72aaf8", null ],
+      [ "EVENT_UC_FROM_OG_ARRIVAL", "dd/d57/a00701.html#a79ab5591f9534775ed690dc76f71b042a71ba8526f6b6da8d27559d08da3a043d", null ],
+      [ "EVENT_OG_FROM_GROMGOL_ARRIVAL", "dd/d57/a00701.html#a79ab5591f9534775ed690dc76f71b042a404b382addc43d908acf571a3543acaa", null ],
+      [ "EVENT_GROMGOL_FROM_OG_ARRIVAL", "dd/d57/a00701.html#a79ab5591f9534775ed690dc76f71b042afe3801ab9e0f7c0438996827c281b9d2", null ],
+      [ "EVENT_WK_ARRIVAL", "dd/d57/a00701.html#a79ab5591f9534775ed690dc76f71b042a9a576d577517ddbcaeb801b9833b7f84", null ],
+      [ "EVENT_VL_FROM_UC_ARRIVAL", "dd/d57/a00701.html#a79ab5591f9534775ed690dc76f71b042ac8b6b89345c6fe78a7dbb5197b16041f", null ],
+      [ "EVENT_UC_FROM_VL_ARRIVAL", "dd/d57/a00701.html#a79ab5591f9534775ed690dc76f71b042a628abde60b661eb144377f12c792b331", null ],
+      [ "EVENT_OG_FROM_BT_ARRIVAL", "dd/d57/a00701.html#a79ab5591f9534775ed690dc76f71b042ac1182a82039ec21248a14b0dacd5fdf9", null ],
+      [ "EVENT_BT_FROM_OG_ARRIVAL", "dd/d57/a00701.html#a79ab5591f9534775ed690dc76f71b042a495dcdd368ee1050722706e45639eb7c", null ],
+      [ "EVENT_OG_FROM_TB_ARRIVAL", "dd/d57/a00701.html#a79ab5591f9534775ed690dc76f71b042aa3e2aa342e976c9298df23edb99e7d01", null ],
+      [ "EVENT_TB_FROM_OG_ARRIVAL", "dd/d57/a00701.html#a79ab5591f9534775ed690dc76f71b042a5c1e71dd6ac0b00949242285a18465c9", null ],
+      [ "EVENT_OG_TO_GROMGOL_DEPARTURE", "dd/d57/a00701.html#a79ab5591f9534775ed690dc76f71b042a6e4a87ae8612d4f5f219c534f0601588", null ],
+      [ "EVENT_GROMGOL_TO_OG_DEPARTURE", "dd/d57/a00701.html#a79ab5591f9534775ed690dc76f71b042a1c629700ce98fb01d1749368613c52fd", null ],
+      [ "EVENT_OG_TO_UC_DEPARTURE", "dd/d57/a00701.html#a79ab5591f9534775ed690dc76f71b042a995774e8491af931828dba45955065ff", null ],
+      [ "EVENT_UC_TO_OG_DEPARTURE", "dd/d57/a00701.html#a79ab5591f9534775ed690dc76f71b042a3fcf4fc5145b77ab22eea5a29b1298ce", null ],
+      [ "EVENT_UC_TO_GROMGOL_DEPARTURE", "dd/d57/a00701.html#a79ab5591f9534775ed690dc76f71b042a294ed6ed695d3b69af3c2739d05ab84a", null ],
+      [ "EVENT_GROMGOL_TO_UC_DEPARTURE", "dd/d57/a00701.html#a79ab5591f9534775ed690dc76f71b042a5ba57a07d4d85759cbaac823104741c8", null ]
     ] ],
-    [ "ArenaTeamCommandErrors", "dd/d57/a00701.html#aaef5689eecf34c2bfc684e272a576b3c", [
-      [ "ERR_ARENA_TEAM_INTERNAL", "dd/d57/a00701.html#aaef5689eecf34c2bfc684e272a576b3ca41e9ff94d6d37e25de05fa381e169070", null ],
-      [ "ERR_ALREADY_IN_ARENA_TEAM", "dd/d57/a00701.html#aaef5689eecf34c2bfc684e272a576b3ca604ef0adfa5d8d26e1cd06c96443d7c0", null ],
-      [ "ERR_ALREADY_IN_ARENA_TEAM_S", "dd/d57/a00701.html#aaef5689eecf34c2bfc684e272a576b3ca2129fd8e1a3016d3f24f87345a5904a6", null ],
-      [ "ERR_INVITED_TO_ARENA_TEAM", "dd/d57/a00701.html#aaef5689eecf34c2bfc684e272a576b3ca4d75a01959fade0df3db076bd7c5690a", null ],
-      [ "ERR_ALREADY_INVITED_TO_ARENA_TEAM_S", "dd/d57/a00701.html#aaef5689eecf34c2bfc684e272a576b3cad93a3c8f9993d960fbd8235dc752d6f2", null ],
-      [ "ERR_ARENA_TEAM_NAME_INVALID", "dd/d57/a00701.html#aaef5689eecf34c2bfc684e272a576b3ca1b9f5d1c1c937e0303c5e3704e20101b", null ],
-      [ "ERR_ARENA_TEAM_NAME_EXISTS_S", "dd/d57/a00701.html#aaef5689eecf34c2bfc684e272a576b3caedbaa3d036cb3b5652762b91df5f908a", null ],
-      [ "ERR_ARENA_TEAM_LEADER_LEAVE_S", "dd/d57/a00701.html#aaef5689eecf34c2bfc684e272a576b3ca99b876d236d6a86261af0113b161657d", null ],
-      [ "ERR_ARENA_TEAM_PERMISSIONS", "dd/d57/a00701.html#aaef5689eecf34c2bfc684e272a576b3caa30839ed27dd1a23b9d26bd4cefb58bd", null ],
-      [ "ERR_ARENA_TEAM_PLAYER_NOT_IN_TEAM", "dd/d57/a00701.html#aaef5689eecf34c2bfc684e272a576b3ca906a0bd0de6f0ccbd36238309675f75a", null ],
-      [ "ERR_ARENA_TEAM_PLAYER_NOT_IN_TEAM_SS", "dd/d57/a00701.html#aaef5689eecf34c2bfc684e272a576b3caf6d4ab0d0f708627e4661270079cf5bc", null ],
-      [ "ERR_ARENA_TEAM_PLAYER_NOT_FOUND_S", "dd/d57/a00701.html#aaef5689eecf34c2bfc684e272a576b3caca502d97b4ce3a42b0c4c4b097ea5872", null ],
-      [ "ERR_ARENA_TEAM_NOT_ALLIED", "dd/d57/a00701.html#aaef5689eecf34c2bfc684e272a576b3cab073d31d5c2050eb02fa4c8bcbde744b", null ],
-      [ "ERR_ARENA_TEAM_IGNORING_YOU_S", "dd/d57/a00701.html#aaef5689eecf34c2bfc684e272a576b3ca6c97f9288f5c74a49df5fd3beda71f7d", null ],
-      [ "ERR_ARENA_TEAM_TARGET_TOO_LOW_S", "dd/d57/a00701.html#aaef5689eecf34c2bfc684e272a576b3cac8c7b33482e44350c2bd5e8dec713ad9", null ],
-      [ "ERR_ARENA_TEAM_TARGET_TOO_HIGH_S", "dd/d57/a00701.html#aaef5689eecf34c2bfc684e272a576b3ca17bc7cae6e897ba316ede8d045e1e478", null ],
-      [ "ERR_ARENA_TEAM_TOO_MANY_MEMBERS_S", "dd/d57/a00701.html#aaef5689eecf34c2bfc684e272a576b3ca00fe0fff5f647873a102d0ff5aafa713", null ],
-      [ "ERR_ARENA_TEAM_NOT_FOUND", "dd/d57/a00701.html#aaef5689eecf34c2bfc684e272a576b3ca6f8d79650a20ea97beef68557013afbc", null ],
-      [ "ERR_ARENA_TEAMS_LOCKED", "dd/d57/a00701.html#aaef5689eecf34c2bfc684e272a576b3ca6ffa2803290c499255e02a15ac6056af", null ]
+    [ "ZeppelinMaster", "dd/d57/a00701.html#a8f8deae914061890416155e26c96f16a", [
+      [ "NPC_NEZRAZ", "dd/d57/a00701.html#a8f8deae914061890416155e26c96f16aa9dafa4aafab1e41697e00451566d77a5", null ],
+      [ "NPC_HINDENBURG", "dd/d57/a00701.html#a8f8deae914061890416155e26c96f16aa3ae3d747b633a660fa8c1fdc7630724f", null ],
+      [ "NPC_FREZZA", "dd/d57/a00701.html#a8f8deae914061890416155e26c96f16aa108f93f6b9254fafdbbd93c327bdd4cc", null ],
+      [ "NPC_ZAPETTA", "dd/d57/a00701.html#a8f8deae914061890416155e26c96f16aa6e153644c37eb87e753d443564b3abf8", null ],
+      [ "NPC_SNURK_BUCKSQUICK", "dd/d57/a00701.html#a8f8deae914061890416155e26c96f16aad7c14130ab0f04b4805f8c841d733f9e", null ],
+      [ "NPC_SQUIBBY_OVERSPECK", "dd/d57/a00701.html#a8f8deae914061890416155e26c96f16aa09d5e48c24e03306a4d0d12e08262b90", null ],
+      [ "NPC_HARROWMEISER", "dd/d57/a00701.html#a8f8deae914061890416155e26c96f16aad428ead4634d411ce7fb653948cf4998", null ],
+      [ "NPC_GREEB_RAMROCKET", "dd/d57/a00701.html#a8f8deae914061890416155e26c96f16aabb311f9be7358b3bff7676b80881bf2c", null ],
+      [ "NPC_NARGO_SCREWBORE", "dd/d57/a00701.html#a8f8deae914061890416155e26c96f16aa61d8fcf1d72150cfc7e1a5abdfc71f21", null ],
+      [ "NPC_MEEFI_FARTHROTTLE", "dd/d57/a00701.html#a8f8deae914061890416155e26c96f16aa36328bd68c5f25b7f8209c43a180c3ad", null ],
+      [ "NPC_DRENK_SPANNERSPARK", "dd/d57/a00701.html#a8f8deae914061890416155e26c96f16aa23f2b96f68a213c9abe2d9d74bf3ef6e", null ],
+      [ "NPC_ZELLI_HOTNOZZLE", "dd/d57/a00701.html#a8f8deae914061890416155e26c96f16aa1724626eca7bd8e8e1b78bd0785e5fd5", null ],
+      [ "NPC_KRENDLE_BIGPOCKETS", "dd/d57/a00701.html#a8f8deae914061890416155e26c96f16aad567c94242534f784c0211341fe1002b", null ]
     ] ],
-    [ "ArenaTeamCommandTypes", "dd/d57/a00701.html#a1fcb206499884c4432a2fb3f1bc2e9f8", [
-      [ "ERR_ARENA_TEAM_CREATE_S", "dd/d57/a00701.html#a1fcb206499884c4432a2fb3f1bc2e9f8acf8f425d01f57269e321e56e23327c6c", null ],
-      [ "ERR_ARENA_TEAM_INVITE_SS", "dd/d57/a00701.html#a1fcb206499884c4432a2fb3f1bc2e9f8a6db086a93e3a2cef750fa4611d0599c8", null ],
-      [ "ERR_ARENA_TEAM_QUIT_S", "dd/d57/a00701.html#a1fcb206499884c4432a2fb3f1bc2e9f8a94c61be43bc38d745d50cb849e7c677c", null ],
-      [ "ERR_ARENA_TEAM_FOUNDER_S", "dd/d57/a00701.html#a1fcb206499884c4432a2fb3f1bc2e9f8a37f9df0d4f22190b5310924b6ac930f1", null ]
+    [ "ZeppelinPassenger", "dd/d57/a00701.html#a84ac3a8fc106c05c2d0bd523feae76f5", [
+      [ "NPC_SKY_CAPTAIN_CLOUDKICKER", "dd/d57/a00701.html#a84ac3a8fc106c05c2d0bd523feae76f5a2c56c53c589bf23482cfd7b6634feec9", null ],
+      [ "NPC_CHIEF_OFFICER_COPPERNUT", "dd/d57/a00701.html#a84ac3a8fc106c05c2d0bd523feae76f5a1a94d73b5d5e70d7c17e463556e8e876", null ],
+      [ "NPC_SKY_CAPTAIN_CABLELAMP", "dd/d57/a00701.html#a84ac3a8fc106c05c2d0bd523feae76f5abfdb729378b13ab02f84c546478b1f84", null ],
+      [ "NPC_WATCHER_UMJIN", "dd/d57/a00701.html#a84ac3a8fc106c05c2d0bd523feae76f5a507e22eb760b71237f8238d944d0e5f8", null ]
     ] ],
-    [ "ArenaTeamEvents", "dd/d57/a00701.html#ac0a8573a87f770ea7c10df9b77e51c8a", [
-      [ "ERR_ARENA_TEAM_JOIN_SS", "dd/d57/a00701.html#ac0a8573a87f770ea7c10df9b77e51c8aa87a592f39d8b998672029e2ede3bc7d9", null ],
-      [ "ERR_ARENA_TEAM_LEAVE_SS", "dd/d57/a00701.html#ac0a8573a87f770ea7c10df9b77e51c8aa483c8031ec08a7c47b67b55b8dd949da", null ],
-      [ "ERR_ARENA_TEAM_REMOVE_SSS", "dd/d57/a00701.html#ac0a8573a87f770ea7c10df9b77e51c8aa44614d25e1c22b45bd4c11f09f69b6ae", null ],
-      [ "ERR_ARENA_TEAM_LEADER_IS_SS", "dd/d57/a00701.html#ac0a8573a87f770ea7c10df9b77e51c8aac6e559df2f09cd936ce6ff89d53ce87c", null ],
-      [ "ERR_ARENA_TEAM_LEADER_CHANGED_SSS", "dd/d57/a00701.html#ac0a8573a87f770ea7c10df9b77e51c8aa1e0474620fe85d5a5073c37c645ff612", null ],
-      [ "ERR_ARENA_TEAM_DISBANDED_S", "dd/d57/a00701.html#ac0a8573a87f770ea7c10df9b77e51c8aa80c970a7a9b0d59fc7dd0435bbd13c97", null ]
-    ] ],
-    [ "ArenaTeamInfoType", "dd/d57/a00701.html#a70db3aa0de523db72170532f1968f53a", [
-      [ "ARENA_TEAM_ID", "dd/d57/a00701.html#a70db3aa0de523db72170532f1968f53aa7417fe6be6e65f6c6624065d21d8a67d", null ],
-      [ "ARENA_TEAM_TYPE", "dd/d57/a00701.html#a70db3aa0de523db72170532f1968f53aa4405261c9e2ef19502e7e683f5d50599", null ],
-      [ "ARENA_TEAM_MEMBER", "dd/d57/a00701.html#a70db3aa0de523db72170532f1968f53aaa0f054a6e3ee861880e5b5d5456534d5", null ],
-      [ "ARENA_TEAM_GAMES_WEEK", "dd/d57/a00701.html#a70db3aa0de523db72170532f1968f53aa0381830df98ba279e8144613469980af", null ],
-      [ "ARENA_TEAM_GAMES_SEASON", "dd/d57/a00701.html#a70db3aa0de523db72170532f1968f53aabdca49c47f5919deea0cbc99e949e39a", null ],
-      [ "ARENA_TEAM_WINS_SEASON", "dd/d57/a00701.html#a70db3aa0de523db72170532f1968f53aaa218bd11a0df7666bff40edceccdc7e3", null ],
-      [ "ARENA_TEAM_PERSONAL_RATING", "dd/d57/a00701.html#a70db3aa0de523db72170532f1968f53aa8f3ee63b5df0172896a6f69385928d9e", null ],
-      [ "ARENA_TEAM_END", "dd/d57/a00701.html#a70db3aa0de523db72170532f1968f53aa79d6199c026b36a46345fd73dd98211f", null ]
-    ] ],
-    [ "ArenaTeamTypes", "dd/d57/a00701.html#a4bcf5153b4e15b706a3ff2dada112cae", [
-      [ "ARENA_TEAM_2v2", "dd/d57/a00701.html#a4bcf5153b4e15b706a3ff2dada112caea6f737fce1aaa0bd705adbd47d6797614", null ],
-      [ "ARENA_TEAM_3v3", "dd/d57/a00701.html#a4bcf5153b4e15b706a3ff2dada112caea76932d9f9aa71ed9e8f709d14e8512bd", null ],
-      [ "ARENA_TEAM_5v5", "dd/d57/a00701.html#a4bcf5153b4e15b706a3ff2dada112caea2ccfa6a14f64fde9ef92b9fc7e0417cc", null ]
-    ] ]
+    [ "SEARCH_RANGE_ZEPPELIN_MASTER", "dd/d57/a00701.html#ab326c00672be06c22ee74bd2dc7a3ce0", null ]
 ];

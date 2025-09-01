@@ -1,8 +1,5 @@
 var a23510 =
 [
-    [ "boss_broggok", "d6/ddc/a23510.html#ae20c04793116d3e8eab62d2ee27010df", null ],
-    [ "DoAction", "d6/ddc/a23510.html#af5de5a1747c502f72af015c09d050354", null ],
-    [ "JustEngagedWith", "d6/ddc/a23510.html#a084e3c37a0218d47c8e39b196fc6746a", null ],
-    [ "JustSummoned", "d6/ddc/a23510.html#a0bf2d75f7889542a9e48689b8d080a1e", null ],
-    [ "Reset", "d6/ddc/a23510.html#af11b4dc2aee8064a1eaad334d93e6de0", null ]
+    [ "boss_quagmirran", "d6/ddc/a23510.html#a7f6289b86216b052f434a1417023e22c", null ],
+    [ "JustEngagedWith", "d6/ddc/a23510.html#a28253b6653bd2e26e7f246c71a88b625", null ]
 ];

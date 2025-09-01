@@ -1,6 +1,5 @@
 var a27250 =
 [
-    [ "go_brewfest_musicAI", "db/d9c/a27254.html", "db/d9c/a27254" ],
-    [ "go_brewfest_music", "de/d66/a27250.html#a787963a5ee591933d62fdb52911f9a77", null ],
-    [ "GetAI", "de/d66/a27250.html#a50f36a6d0a72e7188dbe1bdaa09f1888", null ]
+    [ "AreaTrigger_at_stormwright_shelf", "de/d66/a27250.html#a97cdf51a8992b3d9edc138351770fd75", null ],
+    [ "OnTrigger", "de/d66/a27250.html#ab635f9328b35f3570211cf6ffc60a4c6", null ]
 ];

@@ -1,7 +1,11 @@
 var a26746 =
 [
-    [ "HandleAuraApply", "dd/df0/a26746.html#afb8eb7fcc0797c3e19a9bfc5eebb5fb2", null ],
-    [ "HandleAuraRemove", "dd/df0/a26746.html#a9029865b5e06c4a9aa7f155f371c9125", null ],
-    [ "PrepareAuraScript", "dd/df0/a26746.html#a5c7d7c0b8880128121d66d39094f1965", null ],
-    [ "Register", "dd/df0/a26746.html#ae15d5175671c60a55e4a77848bc9fe1b", null ]
+    [ "AddTarget", "dd/df0/a26746.html#a18875ef707271a77c0c5867fa8de7ff7", null ],
+    [ "HandleApply", "dd/df0/a26746.html#afad10ab0f64e688a18ed749c294a2fbe", null ],
+    [ "HandleEffectPeriodic", "dd/df0/a26746.html#a339b71689056a61e4eebf77f1abcb3dd", null ],
+    [ "HandleRemove", "dd/df0/a26746.html#a1bd9806323ad6b26a0c1fb8773596c98", null ],
+    [ "PrepareAuraScript", "dd/df0/a26746.html#abd535f756fae06c9fae613d69ef4e353", null ],
+    [ "Register", "dd/df0/a26746.html#a0f41f9287f5eb5046e6679d22c65416a", null ],
+    [ "Validate", "dd/df0/a26746.html#a47351141df5e5e15a2d454cc653a9cf5", null ],
+    [ "_targets", "dd/df0/a26746.html#ad2467bc150cb08766c57cca23d4d9843", null ]
 ];

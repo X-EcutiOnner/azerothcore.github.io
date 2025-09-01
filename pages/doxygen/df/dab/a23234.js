@@ -1,6 +1,8 @@
 var a23234 =
 [
-    [ "instance_serpentshrine_cavern_InstanceMapScript", "da/df3/a23238.html", "da/df3/a23238" ],
-    [ "instance_serpent_shrine", "df/dab/a23234.html#aac4fc7113307805138ba4ce4a9adff09", null ],
-    [ "GetInstanceScript", "df/dab/a23234.html#aa81add2f4aeb8b2084bcc81c05b606c7", null ]
+    [ "Absorb", "df/dab/a23234.html#a1c054ce067a620e16611cbb9e784cee1", null ],
+    [ "CalculateAmount", "df/dab/a23234.html#abd828dd3493339db9c0613e960792941", null ],
+    [ "PrepareAuraScript", "df/dab/a23234.html#a1075139fc82cd8e1b30d4bc0f89fbfe0", null ],
+    [ "Register", "df/dab/a23234.html#a85840e7d27a7ed256c45de87f4486d45", null ],
+    [ "Update", "df/dab/a23234.html#afbf28fd4eb66899a424e0b542d561656", null ]
 ];

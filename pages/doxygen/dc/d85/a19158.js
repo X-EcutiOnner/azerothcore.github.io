@@ -1,6 +1,6 @@
 var a19158 =
 [
-    [ "FilterTargets", "dc/d85/a19158.html#a4d5340e7b2e3326ff36b4d61d1faeaa9", null ],
-    [ "PrepareSpellScript", "dc/d85/a19158.html#a452937a4e95b40366f915213ec475a84", null ],
-    [ "Register", "dc/d85/a19158.html#a883e383928a9b0ad0aeccf7afee4f15e", null ]
+    [ "boss_gluthAI", "d4/d2d/a19162.html", "d4/d2d/a19162" ],
+    [ "boss_gluth", "dc/d85/a19158.html#a3ff6e361cd6799f41d00fa75784c4f76", null ],
+    [ "GetAI", "dc/d85/a19158.html#a3b19c938aaecc897d6552715064be7f8", null ]
 ];

@@ -1,8 +1,8 @@
 var a16874 =
 [
-    [ "npc_phantom_hallucinationAI", "da/d29/a16874.html#a7b27d1c859d77220dc1c3c8323e9eef9", null ],
-    [ "EnterEvadeMode", "da/d29/a16874.html#a7ef7411ea780466d7c4dd185d9444aba", null ],
-    [ "JustDied", "da/d29/a16874.html#a5a4f05c5930a7e5bd31df2e3131f4cec", null ],
-    [ "UpdateAI", "da/d29/a16874.html#ad874a741c641dbac6380aa682d582d7c", null ],
-    [ "numOfUpd", "da/d29/a16874.html#adb78f5dcd272e8223f895079885a5461", null ]
+    [ "HandleEffectApply", "da/d29/a16874.html#a92b98d9b9be98c330b6efbe34dae235b", null ],
+    [ "HandleEffectRemove", "da/d29/a16874.html#a04504220319ec562b1b6691f471c1b8d", null ],
+    [ "PrepareAuraScript", "da/d29/a16874.html#a10fd29809373bcfaf38fd587fcdd1dee", null ],
+    [ "Register", "da/d29/a16874.html#a9160c940913e4829bd0a6fe269c3b5d3", null ],
+    [ "Validate", "da/d29/a16874.html#a7f7750933e122e8c672b6b93f4801cd7", null ]
 ];

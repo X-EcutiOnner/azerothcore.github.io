@@ -1,6 +1,6 @@
 var a12078 =
 [
-    [ "npc_blackhand_incarceratorAI", "dc/d30/a12082.html", "dc/d30/a12082" ],
-    [ "npc_blackhand_incarcerator", "d2/db3/a12078.html#a0c6bb8ea789e81803a11be57ac1b68e2", null ],
-    [ "GetAI", "d2/db3/a12078.html#a021ddf6442812f7fb698ba7fb45b9ffb", null ]
+    [ "boss_hedrumAI", "d2/db3/a12078.html#a95e4af51a8e24fa7b36b924c6cdfb86c", null ],
+    [ "JustEngagedWith", "d2/db3/a12078.html#a1cf03b06598f2b36814062d47a73ed82", null ],
+    [ "UpdateAI", "d2/db3/a12078.html#aa515ed081aaabdad751c1bbba56d3d96", null ]
 ];

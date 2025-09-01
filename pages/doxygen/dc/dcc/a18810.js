@@ -1,8 +1,6 @@
 var a18810 =
 [
-    [ "Class", "dc/dcc/a18810.html#a095390e9023609f5836c4481ed79e1af", null ],
-    [ "cooldown_ms", "dc/dcc/a18810.html#a6f1fdab250e8557d16066c03a54fb2a4", null ],
-    [ "id", "dc/dcc/a18810.html#ae9fdf89271339b93f306c4aa0871f844", null ],
-    [ "range", "dc/dcc/a18810.html#aad126da206abceb6a66dcda1cbd3b28b", null ],
-    [ "targetType", "dc/dcc/a18810.html#ae5fc8cb423536f631591d3b72bfd06dd", null ]
+    [ "npc_captain_brandonAI", "d1/d51/a18814.html", "d1/d51/a18814" ],
+    [ "npc_captain_brandon", "dc/dcc/a18810.html#ad522dd280882d894b5d32e7c888f2360", null ],
+    [ "GetAI", "dc/dcc/a18810.html#a3d77951d8d9dbc14fad2fd52d84118a3", null ]
 ];

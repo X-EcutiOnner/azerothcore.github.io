@@ -1,8 +1,6 @@
 var a27714 =
 [
-    [ "npc_cultist_engineer", "d5/d77/a27714.html#a02675a96d20902d147b0370fa1715d81", null ],
-    [ "JustDied", "d5/d77/a27714.html#a4b4d561f827553998caa204e0e1b9e54", null ],
-    [ "Reset", "d5/d77/a27714.html#a6f84d224a959c06fbb7a48197dd4cbdd", null ],
-    [ "sGossipSelect", "d5/d77/a27714.html#ab26d124cbfdc4d649fef6058e9637845", null ],
-    [ "UpdateAI", "d5/d77/a27714.html#a47b1b08959b8cd02ba92fcf3a55e32d2", null ]
+    [ "npc_air_force_botsAI", "de/dcb/a27718.html", "de/dcb/a27718" ],
+    [ "npc_air_force_bots", "d5/d77/a27714.html#a00b8f274bde3260a113ea21e0f68cdf8", null ],
+    [ "GetAI", "d5/d77/a27714.html#ae971e34d61b0f960d8f5940f9015523d", null ]
 ];

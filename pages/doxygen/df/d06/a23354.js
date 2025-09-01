@@ -1,5 +1,6 @@
 var a23354 =
 [
-    [ "at_quagmirran_lair", "df/d06/a23354.html#a1f8cb1f59e7a179d9e4a987f716ab26f", null ],
-    [ "OnTrigger", "df/d06/a23354.html#aa0aab42516efaf842923b8a820942ac4", null ]
+    [ "HandleScriptEffect", "df/d06/a23354.html#a18fb2e73a00f1de7c62049eadfcbc658", null ],
+    [ "PrepareSpellScript", "df/d06/a23354.html#ae80b4ca96692035c399d1621b632fe66", null ],
+    [ "Register", "df/d06/a23354.html#ac655157c74104a51f045e114fc63a42d", null ]
 ];

@@ -1,7 +1,11 @@
 var a16466 =
 [
-    [ "npc_toc_dkAI", "da/dd1/a16466.html#aa01bf528b10ed7bbdfe9b03694e51845", null ],
-    [ "myCanCast", "da/dd1/a16466.html#a54dee5d9b0f17bad21e8c1e275f0b222", null ],
-    [ "UpdateAI", "da/dd1/a16466.html#ab4f4b11e2b250fb24de6c069c5e38208", null ],
-    [ "events", "da/dd1/a16466.html#a293d5fca2940432c4eea57c5de5a1fdc", null ]
+    [ "npc_toc5_grand_champion_minionAI", "da/dd1/a16466.html#a06ff16fe0076de4e34ba20e0bbc49009", null ],
+    [ "JustDied", "da/dd1/a16466.html#a23e5001255c6d49a6b217b9606aa53c5", null ],
+    [ "JustEngagedWith", "da/dd1/a16466.html#a37a04ac2d6f30e415410f3806abaabb8", null ],
+    [ "Reset", "da/dd1/a16466.html#ad35a26c28485b1976c55d49fcd32fb19", null ],
+    [ "UpdateAI", "da/dd1/a16466.html#a2b9fdd3daa725921819ae2acee418d51", null ],
+    [ "events", "da/dd1/a16466.html#a1b405c2acd53a4e5f1179f52c8c2261b", null ],
+    [ "pInstance", "da/dd1/a16466.html#a6edd3dc8070edd031143e7a750f4d7a8", null ],
+    [ "ShieldTimer", "da/dd1/a16466.html#a080916d385f4157afbe4c455033b88ba", null ]
 ];

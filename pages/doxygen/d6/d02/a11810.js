@@ -1,17 +1,10 @@
 var a11810 =
 [
-    [ "boss_drektharAI", "d6/d02/a11810.html#a4cd7f817b3dfe457cb330e73316e18d1", null ],
-    [ "AttackStart", "d6/d02/a11810.html#a058d9683179756e49aa4e243d270105c", null ],
-    [ "EnterEvadeMode", "d6/d02/a11810.html#a7f8677796d1b9dbe7021c056252278d3", null ],
-    [ "JustEngagedWith", "d6/d02/a11810.html#aea7fad4bfdc14e5526a6620ee5d3ba2e", null ],
-    [ "JustRespawned", "d6/d02/a11810.html#aef244c80a915eaf4c1e0ff1c1080b18a", null ],
-    [ "Reset", "d6/d02/a11810.html#a87e1f67ae379360bc0843d7bb3cd0acb", null ],
-    [ "UpdateAI", "d6/d02/a11810.html#a79f1f0430496d2a1759ded7cca5cdef3", null ],
-    [ "Attacked", "d6/d02/a11810.html#a6a6b5b2b00e85231441f5a8a0213e5ec", null ],
-    [ "FrenzyTimer", "d6/d02/a11810.html#afd2d5fc6b7091fb019048d32a8b3631e", null ],
-    [ "KnockdownTimer", "d6/d02/a11810.html#a235912a2cb78bd10b6b3a45c51ee0cff", null ],
-    [ "ResetTimer", "d6/d02/a11810.html#a7d7b0a8d19d540e998db3b6e189cc16d", null ],
-    [ "Whirlwind2Timer", "d6/d02/a11810.html#a788359b7f2df1794dbff643d75b2c561", null ],
-    [ "WhirlwindTimer", "d6/d02/a11810.html#aef399775e552d7e80224fbb0c2f62aff", null ],
-    [ "YellTimer", "d6/d02/a11810.html#ad45ea624603c427fa5b3e40cd6ba7f5d", null ]
+    [ "item_commandscript", "d6/d02/a11810.html#a22f9cb46f2c3701fc5c9136c87c09435", null ],
+    [ "GetCommands", "d6/d02/a11810.html#aab60aa980ef0f86938cfcb51e7ee20a8", null ],
+    [ "HandleItemMoveCommand", "d6/d02/a11810.html#a6adae7cb08c0e69ac0a20c107f818a57", null ],
+    [ "HandleItemRefundCommand", "d6/d02/a11810.html#af914e33be05148062abd89c754d939c9", null ],
+    [ "HandleItemRestoreCommand", "d6/d02/a11810.html#a84c67a46c513c1aac2b9d2563d693929", null ],
+    [ "HandleItemRestoreListCommand", "d6/d02/a11810.html#a40181310f4187a71a6f5f5f600a8f468", null ],
+    [ "HasItemDeletionConfig", "d6/d02/a11810.html#a28d0b4083bf3352f80b6210f9ac00692", null ]
 ];

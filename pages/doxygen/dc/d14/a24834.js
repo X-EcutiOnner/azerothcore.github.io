@@ -1,7 +1,6 @@
 var a24834 =
 [
-    [ "CheckRequirement", "dc/d14/a24834.html#a6be5f335a15226db87a04548490f488d", null ],
-    [ "PrepareSpellScript", "dc/d14/a24834.html#a25463eda0ce51a124e8715baf305c8f6", null ],
-    [ "Register", "dc/d14/a24834.html#a8db5a5597d8f6fe4064799766fb61502", null ],
-    [ "_level", "dc/d14/a24834.html#a3d6867e8eae9afde2b03acc2e6ebe961", null ]
+    [ "CheckProc", "dc/d14/a24834.html#a1b7b855383b04bd1b627c6f1e33ad7a5", null ],
+    [ "PrepareAuraScript", "dc/d14/a24834.html#a204655e4eea1cf8694c62ddae6d5a760", null ],
+    [ "Register", "dc/d14/a24834.html#a23e8088d6d9626ec4c3f8fc6e66c1e24", null ]
 ];

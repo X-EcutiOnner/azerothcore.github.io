@@ -1,7 +1,7 @@
 var a09478 =
 [
-    [ "PowerCheck", "d4/da8/a09478.html#abb2fc6c6e83e1097a6bb40512fb50dfc", null ],
-    [ "operator()", "d4/da8/a09478.html#a16ad8e68d94742bc78b6f20734f58e99", null ],
-    [ "_equals", "d4/da8/a09478.html#ae7758da7775ff778bc5cd96e9a15649b", null ],
-    [ "_power", "d4/da8/a09478.html#a922a57b62b4289835b539a69b0f58fa1", null ]
+    [ "AllWorldObjectsInRange", "d4/da8/a09478.html#a63f46d510df0fa3153d4b3325676a468", null ],
+    [ "operator()", "d4/da8/a09478.html#a2cf23c24df93b5f7f29163b32e965a94", null ],
+    [ "m_fRange", "d4/da8/a09478.html#a6afe3ef05369dce8ee205db219f97846", null ],
+    [ "m_pObject", "d4/da8/a09478.html#ae7dde7b946d8affb79cb2d4c58eedbed", null ]
 ];

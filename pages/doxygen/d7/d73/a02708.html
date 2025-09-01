@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/scripts/Kalimdor/zone_felwood.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/apps/authserver/PrecompiledHeaders/authserverPCH.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -104,223 +104,23 @@ $(document).ready(function(){initNavTree('d7/d73/a02708.html','../../'); initRes
 </div>
 
 <div class="header">
-  <div class="summary">
-<a href="#nested-classes">Classes</a> &#124;
-<a href="#enum-members">Enumerations</a> &#124;
-<a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">zone_felwood.cpp File Reference</div></div>
+  <div class="headertitle"><div class="title">authserverPCH.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">AreaTriggerScript.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">CreatureScript.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ScriptedCreature.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ScriptedGossip.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">Common.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Config.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">DatabaseEnv.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Log.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">RealmList.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
-<table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
-Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d93/a15520.html">npcs_riverbreeze_and_silversky</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/de7/a15524.html">at_ancient_leaf</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
-Enumerations</h2></td></tr>
-<tr class="memitem:acc75d54553750c832fe50b6cb0c42427"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d73/a02708.html#acc75d54553750c832fe50b6cb0c42427">RiverbreezeAndSilversky</a> { <br />
-&#160;&#160;<a class="el" href="../../d7/d73/a02708.html#acc75d54553750c832fe50b6cb0c42427aefb9fe5d61b5fc5b810f077e47334d49">SPELL_CENARION_BEACON</a> = 15120
-, <br />
-&#160;&#160;<a class="el" href="../../d7/d73/a02708.html#acc75d54553750c832fe50b6cb0c42427a677781938bceb63690d56c2e2c445f46">ITEM_CENARION_BEACON</a> = 11511
-, <br />
-&#160;&#160;<a class="el" href="../../d7/d73/a02708.html#acc75d54553750c832fe50b6cb0c42427acc340298bf9880e22b326c208affb4a1">ACTION_CREATE_CENARION_BEACON</a> = GOSSIP_ACTION_INFO_DEF + 1
-, <br />
-&#160;&#160;<a class="el" href="../../d7/d73/a02708.html#acc75d54553750c832fe50b6cb0c42427a15af7b53355112caefafe032f27b15d6">NPC_ARATHANDRIS_SILVERSKY</a> = 9528
-, <br />
-&#160;&#160;<a class="el" href="../../d7/d73/a02708.html#acc75d54553750c832fe50b6cb0c42427a3362be702aaaa11f11e1df72d0a8e149">NPC_MAYBESS_RIVERBREEZE</a> = 9529
-, <br />
-&#160;&#160;<a class="el" href="../../d7/d73/a02708.html#acc75d54553750c832fe50b6cb0c42427ab52d337e733144a5a21fce9825f80fff">QUEST_CLEASING_FELWOOD_A</a> = 4101
-, <br />
-&#160;&#160;<a class="el" href="../../d7/d73/a02708.html#acc75d54553750c832fe50b6cb0c42427a24da8ad4e5cec47c9a66a1e03e07383f">QUEST_CLEASING_FELWOOD_H</a> = 4102
-, <br />
-&#160;&#160;<a class="el" href="../../d7/d73/a02708.html#acc75d54553750c832fe50b6cb0c42427a201df035f33936e3020580c82101e7f8">GOSSIP_MENU_SILVERSKY</a> = 2208
-, <br />
-&#160;&#160;<a class="el" href="../../d7/d73/a02708.html#acc75d54553750c832fe50b6cb0c42427ac00e8bf57bf7a4be3444d02de30309dc">GOSSIP_MENU_RIVERBREEZE</a> = 21400
-, <br />
-&#160;&#160;<a class="el" href="../../d7/d73/a02708.html#acc75d54553750c832fe50b6cb0c42427a0999bd0707a4dbe03c5715081af725e1">GOSSIP_OPTION_BEACON</a> = 0
-, <br />
-&#160;&#160;<a class="el" href="../../d7/d73/a02708.html#acc75d54553750c832fe50b6cb0c42427a3148f1367e563486599162f32be4af21">TEXT_SILVERSKY_1</a> = 2848
-, <br />
-&#160;&#160;<a class="el" href="../../d7/d73/a02708.html#acc75d54553750c832fe50b6cb0c42427a62011283d742f7947270994268e055de">TEXT_SILVERSKY_2</a> = 2845
-, <br />
-&#160;&#160;<a class="el" href="../../d7/d73/a02708.html#acc75d54553750c832fe50b6cb0c42427af033b1f55bfbe0ccfd66cd1df7b50289">TEXT_SILVERSKY_3</a> = 2844
-, <br />
-&#160;&#160;<a class="el" href="../../d7/d73/a02708.html#acc75d54553750c832fe50b6cb0c42427ac53b44e51816fbef84a98123a317125e">TEXT_RIVERBREEZE_1</a> = 2849
-, <br />
-&#160;&#160;<a class="el" href="../../d7/d73/a02708.html#acc75d54553750c832fe50b6cb0c42427a06658a3d493565d3f8a42555e037fa40">TEXT_RIVERBREEZE_2</a> = 2843
-, <br />
-&#160;&#160;<a class="el" href="../../d7/d73/a02708.html#acc75d54553750c832fe50b6cb0c42427a1d15502f6a496af4174cb3c5960818b5">TEXT_RIVERBREEZE_3</a> = 2842
-<br />
- }</td></tr>
-<tr class="separator:acc75d54553750c832fe50b6cb0c42427"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:adaffe09a7c2b9f9bfdc48d5068c18068"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d73/a02708.html#adaffe09a7c2b9f9bfdc48d5068c18068">AncientMisc</a> { <br />
-&#160;&#160;<a class="el" href="../../d7/d73/a02708.html#adaffe09a7c2b9f9bfdc48d5068c18068aa825be5f41ad67f6007d3509e9bb87e3">QUEST_ANCIENT_LEAF</a> = 7632
-, <br />
-&#160;&#160;<a class="el" href="../../d7/d73/a02708.html#adaffe09a7c2b9f9bfdc48d5068c18068aa3648d60ebaeb2cef5c0578018150e99">NPC_VARTRUS</a> = 14524
-, <br />
-&#160;&#160;<a class="el" href="../../d7/d73/a02708.html#adaffe09a7c2b9f9bfdc48d5068c18068ab30f7bd203d11ff87b0030b3578a5e81">NPC_STOMA</a> = 14525
-, <br />
-&#160;&#160;<a class="el" href="../../d7/d73/a02708.html#adaffe09a7c2b9f9bfdc48d5068c18068acc6ef71bcba7f2d82bc3164636733e04">NPC_HASTAT</a> = 14526
-, <br />
-&#160;&#160;<a class="el" href="../../d7/d73/a02708.html#adaffe09a7c2b9f9bfdc48d5068c18068a929e77d337e49edf4de033ddb8ccf149">CREATURE_GROUP_ANCIENTS</a> = 1
-<br />
- }</td></tr>
-<tr class="separator:adaffe09a7c2b9f9bfdc48d5068c18068"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
-Functions</h2></td></tr>
-<tr class="memitem:a63ae28c9f250057b35a18fb585c6a2cf"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d73/a02708.html#a63ae28c9f250057b35a18fb585c6a2cf">AddSC_felwood</a> ()</td></tr>
-<tr class="separator:a63ae28c9f250057b35a18fb585c6a2cf"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table>
-<h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="adaffe09a7c2b9f9bfdc48d5068c18068" name="adaffe09a7c2b9f9bfdc48d5068c18068"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#adaffe09a7c2b9f9bfdc48d5068c18068">&#9670;&#160;</a></span>AncientMisc</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../d7/d73/a02708.html#adaffe09a7c2b9f9bfdc48d5068c18068">AncientMisc</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="adaffe09a7c2b9f9bfdc48d5068c18068aa825be5f41ad67f6007d3509e9bb87e3" name="adaffe09a7c2b9f9bfdc48d5068c18068aa825be5f41ad67f6007d3509e9bb87e3"></a>QUEST_ANCIENT_LEAF&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="adaffe09a7c2b9f9bfdc48d5068c18068aa3648d60ebaeb2cef5c0578018150e99" name="adaffe09a7c2b9f9bfdc48d5068c18068aa3648d60ebaeb2cef5c0578018150e99"></a>NPC_VARTRUS&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="adaffe09a7c2b9f9bfdc48d5068c18068ab30f7bd203d11ff87b0030b3578a5e81" name="adaffe09a7c2b9f9bfdc48d5068c18068ab30f7bd203d11ff87b0030b3578a5e81"></a>NPC_STOMA&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="adaffe09a7c2b9f9bfdc48d5068c18068acc6ef71bcba7f2d82bc3164636733e04" name="adaffe09a7c2b9f9bfdc48d5068c18068acc6ef71bcba7f2d82bc3164636733e04"></a>NPC_HASTAT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="adaffe09a7c2b9f9bfdc48d5068c18068a929e77d337e49edf4de033ddb8ccf149" name="adaffe09a7c2b9f9bfdc48d5068c18068a929e77d337e49edf4de033ddb8ccf149"></a>CREATURE_GROUP_ANCIENTS&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">  115</span>{</div>
-<div class="line"><span class="lineno">  116</span>    <a class="code hl_enumvalue" href="../../d7/d73/a02708.html#adaffe09a7c2b9f9bfdc48d5068c18068aa825be5f41ad67f6007d3509e9bb87e3">QUEST_ANCIENT_LEAF</a>      = 7632,</div>
-<div class="line"><span class="lineno">  117</span>    <a class="code hl_enumvalue" href="../../d7/d73/a02708.html#adaffe09a7c2b9f9bfdc48d5068c18068aa3648d60ebaeb2cef5c0578018150e99">NPC_VARTRUS</a>             = 14524,</div>
-<div class="line"><span class="lineno">  118</span>    <a class="code hl_enumvalue" href="../../d7/d73/a02708.html#adaffe09a7c2b9f9bfdc48d5068c18068ab30f7bd203d11ff87b0030b3578a5e81">NPC_STOMA</a>               = 14525,</div>
-<div class="line"><span class="lineno">  119</span>    <a class="code hl_enumvalue" href="../../d7/d73/a02708.html#adaffe09a7c2b9f9bfdc48d5068c18068acc6ef71bcba7f2d82bc3164636733e04">NPC_HASTAT</a>              = 14526,</div>
-<div class="line"><span class="lineno">  120</span>    <a class="code hl_enumvalue" href="../../d7/d73/a02708.html#adaffe09a7c2b9f9bfdc48d5068c18068a929e77d337e49edf4de033ddb8ccf149">CREATURE_GROUP_ANCIENTS</a> = 1</div>
-<div class="line"><span class="lineno">  121</span>};</div>
-<div class="ttc" id="aa02708_html_adaffe09a7c2b9f9bfdc48d5068c18068a929e77d337e49edf4de033ddb8ccf149"><div class="ttname"><a href="../../d7/d73/a02708.html#adaffe09a7c2b9f9bfdc48d5068c18068a929e77d337e49edf4de033ddb8ccf149">CREATURE_GROUP_ANCIENTS</a></div><div class="ttdeci">@ CREATURE_GROUP_ANCIENTS</div><div class="ttdef"><b>Definition:</b> zone_felwood.cpp:120</div></div>
-<div class="ttc" id="aa02708_html_adaffe09a7c2b9f9bfdc48d5068c18068aa3648d60ebaeb2cef5c0578018150e99"><div class="ttname"><a href="../../d7/d73/a02708.html#adaffe09a7c2b9f9bfdc48d5068c18068aa3648d60ebaeb2cef5c0578018150e99">NPC_VARTRUS</a></div><div class="ttdeci">@ NPC_VARTRUS</div><div class="ttdef"><b>Definition:</b> zone_felwood.cpp:117</div></div>
-<div class="ttc" id="aa02708_html_adaffe09a7c2b9f9bfdc48d5068c18068aa825be5f41ad67f6007d3509e9bb87e3"><div class="ttname"><a href="../../d7/d73/a02708.html#adaffe09a7c2b9f9bfdc48d5068c18068aa825be5f41ad67f6007d3509e9bb87e3">QUEST_ANCIENT_LEAF</a></div><div class="ttdeci">@ QUEST_ANCIENT_LEAF</div><div class="ttdef"><b>Definition:</b> zone_felwood.cpp:116</div></div>
-<div class="ttc" id="aa02708_html_adaffe09a7c2b9f9bfdc48d5068c18068ab30f7bd203d11ff87b0030b3578a5e81"><div class="ttname"><a href="../../d7/d73/a02708.html#adaffe09a7c2b9f9bfdc48d5068c18068ab30f7bd203d11ff87b0030b3578a5e81">NPC_STOMA</a></div><div class="ttdeci">@ NPC_STOMA</div><div class="ttdef"><b>Definition:</b> zone_felwood.cpp:118</div></div>
-<div class="ttc" id="aa02708_html_adaffe09a7c2b9f9bfdc48d5068c18068acc6ef71bcba7f2d82bc3164636733e04"><div class="ttname"><a href="../../d7/d73/a02708.html#adaffe09a7c2b9f9bfdc48d5068c18068acc6ef71bcba7f2d82bc3164636733e04">NPC_HASTAT</a></div><div class="ttdeci">@ NPC_HASTAT</div><div class="ttdef"><b>Definition:</b> zone_felwood.cpp:119</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="acc75d54553750c832fe50b6cb0c42427" name="acc75d54553750c832fe50b6cb0c42427"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#acc75d54553750c832fe50b6cb0c42427">&#9670;&#160;</a></span>RiverbreezeAndSilversky</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../d7/d73/a02708.html#acc75d54553750c832fe50b6cb0c42427">RiverbreezeAndSilversky</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="acc75d54553750c832fe50b6cb0c42427aefb9fe5d61b5fc5b810f077e47334d49" name="acc75d54553750c832fe50b6cb0c42427aefb9fe5d61b5fc5b810f077e47334d49"></a>SPELL_CENARION_BEACON&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="acc75d54553750c832fe50b6cb0c42427a677781938bceb63690d56c2e2c445f46" name="acc75d54553750c832fe50b6cb0c42427a677781938bceb63690d56c2e2c445f46"></a>ITEM_CENARION_BEACON&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="acc75d54553750c832fe50b6cb0c42427acc340298bf9880e22b326c208affb4a1" name="acc75d54553750c832fe50b6cb0c42427acc340298bf9880e22b326c208affb4a1"></a>ACTION_CREATE_CENARION_BEACON&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="acc75d54553750c832fe50b6cb0c42427a15af7b53355112caefafe032f27b15d6" name="acc75d54553750c832fe50b6cb0c42427a15af7b53355112caefafe032f27b15d6"></a>NPC_ARATHANDRIS_SILVERSKY&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="acc75d54553750c832fe50b6cb0c42427a3362be702aaaa11f11e1df72d0a8e149" name="acc75d54553750c832fe50b6cb0c42427a3362be702aaaa11f11e1df72d0a8e149"></a>NPC_MAYBESS_RIVERBREEZE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="acc75d54553750c832fe50b6cb0c42427ab52d337e733144a5a21fce9825f80fff" name="acc75d54553750c832fe50b6cb0c42427ab52d337e733144a5a21fce9825f80fff"></a>QUEST_CLEASING_FELWOOD_A&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="acc75d54553750c832fe50b6cb0c42427a24da8ad4e5cec47c9a66a1e03e07383f" name="acc75d54553750c832fe50b6cb0c42427a24da8ad4e5cec47c9a66a1e03e07383f"></a>QUEST_CLEASING_FELWOOD_H&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="acc75d54553750c832fe50b6cb0c42427a201df035f33936e3020580c82101e7f8" name="acc75d54553750c832fe50b6cb0c42427a201df035f33936e3020580c82101e7f8"></a>GOSSIP_MENU_SILVERSKY&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="acc75d54553750c832fe50b6cb0c42427ac00e8bf57bf7a4be3444d02de30309dc" name="acc75d54553750c832fe50b6cb0c42427ac00e8bf57bf7a4be3444d02de30309dc"></a>GOSSIP_MENU_RIVERBREEZE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="acc75d54553750c832fe50b6cb0c42427a0999bd0707a4dbe03c5715081af725e1" name="acc75d54553750c832fe50b6cb0c42427a0999bd0707a4dbe03c5715081af725e1"></a>GOSSIP_OPTION_BEACON&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="acc75d54553750c832fe50b6cb0c42427a3148f1367e563486599162f32be4af21" name="acc75d54553750c832fe50b6cb0c42427a3148f1367e563486599162f32be4af21"></a>TEXT_SILVERSKY_1&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="acc75d54553750c832fe50b6cb0c42427a62011283d742f7947270994268e055de" name="acc75d54553750c832fe50b6cb0c42427a62011283d742f7947270994268e055de"></a>TEXT_SILVERSKY_2&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="acc75d54553750c832fe50b6cb0c42427af033b1f55bfbe0ccfd66cd1df7b50289" name="acc75d54553750c832fe50b6cb0c42427af033b1f55bfbe0ccfd66cd1df7b50289"></a>TEXT_SILVERSKY_3&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="acc75d54553750c832fe50b6cb0c42427ac53b44e51816fbef84a98123a317125e" name="acc75d54553750c832fe50b6cb0c42427ac53b44e51816fbef84a98123a317125e"></a>TEXT_RIVERBREEZE_1&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="acc75d54553750c832fe50b6cb0c42427a06658a3d493565d3f8a42555e037fa40" name="acc75d54553750c832fe50b6cb0c42427a06658a3d493565d3f8a42555e037fa40"></a>TEXT_RIVERBREEZE_2&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="acc75d54553750c832fe50b6cb0c42427a1d15502f6a496af4174cb3c5960818b5" name="acc75d54553750c832fe50b6cb0c42427a1d15502f6a496af4174cb3c5960818b5"></a>TEXT_RIVERBREEZE_3&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   29</span>{</div>
-<div class="line"><span class="lineno">   30</span>    <a class="code hl_enumvalue" href="../../d7/d73/a02708.html#acc75d54553750c832fe50b6cb0c42427aefb9fe5d61b5fc5b810f077e47334d49">SPELL_CENARION_BEACON</a>       = 15120,</div>
-<div class="line"><span class="lineno">   31</span>    <a class="code hl_enumvalue" href="../../d7/d73/a02708.html#acc75d54553750c832fe50b6cb0c42427a677781938bceb63690d56c2e2c445f46">ITEM_CENARION_BEACON</a>        = 11511,</div>
-<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../d7/d73/a02708.html#acc75d54553750c832fe50b6cb0c42427acc340298bf9880e22b326c208affb4a1">ACTION_CREATE_CENARION_BEACON</a> = <a class="code hl_enumvalue" href="../../d5/df4/a01322.html#ac61a667541c1c7c94a9aeb407e34d36daf5e2b26c787b79ef696a69604bb85fd8">GOSSIP_ACTION_INFO_DEF</a> + 1,</div>
-<div class="line"><span class="lineno">   33</span> </div>
-<div class="line"><span class="lineno">   34</span>    <a class="code hl_enumvalue" href="../../d7/d73/a02708.html#acc75d54553750c832fe50b6cb0c42427a15af7b53355112caefafe032f27b15d6">NPC_ARATHANDRIS_SILVERSKY</a>   = 9528,</div>
-<div class="line"><span class="lineno">   35</span>    <a class="code hl_enumvalue" href="../../d7/d73/a02708.html#acc75d54553750c832fe50b6cb0c42427a3362be702aaaa11f11e1df72d0a8e149">NPC_MAYBESS_RIVERBREEZE</a>     = 9529,</div>
-<div class="line"><span class="lineno">   36</span> </div>
-<div class="line"><span class="lineno">   37</span>    <a class="code hl_enumvalue" href="../../d7/d73/a02708.html#acc75d54553750c832fe50b6cb0c42427ab52d337e733144a5a21fce9825f80fff">QUEST_CLEASING_FELWOOD_A</a>    = 4101,</div>
-<div class="line"><span class="lineno">   38</span>    <a class="code hl_enumvalue" href="../../d7/d73/a02708.html#acc75d54553750c832fe50b6cb0c42427a24da8ad4e5cec47c9a66a1e03e07383f">QUEST_CLEASING_FELWOOD_H</a>    = 4102,</div>
-<div class="line"><span class="lineno">   39</span> </div>
-<div class="line"><span class="lineno">   40</span>    <span class="comment">// Texts</span></div>
-<div class="line"><span class="lineno">   41</span>    <a class="code hl_enumvalue" href="../../d7/d73/a02708.html#acc75d54553750c832fe50b6cb0c42427a201df035f33936e3020580c82101e7f8">GOSSIP_MENU_SILVERSKY</a> = 2208,</div>
-<div class="line"><span class="lineno">   42</span>    <a class="code hl_enumvalue" href="../../d7/d73/a02708.html#acc75d54553750c832fe50b6cb0c42427ac00e8bf57bf7a4be3444d02de30309dc">GOSSIP_MENU_RIVERBREEZE</a> = 21400,</div>
-<div class="line"><span class="lineno">   43</span>    <a class="code hl_enumvalue" href="../../d7/d73/a02708.html#acc75d54553750c832fe50b6cb0c42427a0999bd0707a4dbe03c5715081af725e1">GOSSIP_OPTION_BEACON</a> = 0,</div>
-<div class="line"><span class="lineno">   44</span> </div>
-<div class="line"><span class="lineno">   45</span>    <a class="code hl_enumvalue" href="../../d7/d73/a02708.html#acc75d54553750c832fe50b6cb0c42427a3148f1367e563486599162f32be4af21">TEXT_SILVERSKY_1</a> = 2848,</div>
-<div class="line"><span class="lineno">   46</span>    <a class="code hl_enumvalue" href="../../d7/d73/a02708.html#acc75d54553750c832fe50b6cb0c42427a62011283d742f7947270994268e055de">TEXT_SILVERSKY_2</a> = 2845,</div>
-<div class="line"><span class="lineno">   47</span>    <a class="code hl_enumvalue" href="../../d7/d73/a02708.html#acc75d54553750c832fe50b6cb0c42427af033b1f55bfbe0ccfd66cd1df7b50289">TEXT_SILVERSKY_3</a> = 2844,</div>
-<div class="line"><span class="lineno">   48</span>    <a class="code hl_enumvalue" href="../../d7/d73/a02708.html#acc75d54553750c832fe50b6cb0c42427ac53b44e51816fbef84a98123a317125e">TEXT_RIVERBREEZE_1</a> = 2849,</div>
-<div class="line"><span class="lineno">   49</span>    <a class="code hl_enumvalue" href="../../d7/d73/a02708.html#acc75d54553750c832fe50b6cb0c42427a06658a3d493565d3f8a42555e037fa40">TEXT_RIVERBREEZE_2</a> = 2843,</div>
-<div class="line"><span class="lineno">   50</span>    <a class="code hl_enumvalue" href="../../d7/d73/a02708.html#acc75d54553750c832fe50b6cb0c42427a1d15502f6a496af4174cb3c5960818b5">TEXT_RIVERBREEZE_3</a> = 2842,</div>
-<div class="line"><span class="lineno">   51</span>};</div>
-<div class="ttc" id="aa01322_html_ac61a667541c1c7c94a9aeb407e34d36daf5e2b26c787b79ef696a69604bb85fd8"><div class="ttname"><a href="../../d5/df4/a01322.html#ac61a667541c1c7c94a9aeb407e34d36daf5e2b26c787b79ef696a69604bb85fd8">GOSSIP_ACTION_INFO_DEF</a></div><div class="ttdeci">@ GOSSIP_ACTION_INFO_DEF</div><div class="ttdef"><b>Definition:</b> ScriptedGossip.h:68</div></div>
-<div class="ttc" id="aa02708_html_acc75d54553750c832fe50b6cb0c42427a06658a3d493565d3f8a42555e037fa40"><div class="ttname"><a href="../../d7/d73/a02708.html#acc75d54553750c832fe50b6cb0c42427a06658a3d493565d3f8a42555e037fa40">TEXT_RIVERBREEZE_2</a></div><div class="ttdeci">@ TEXT_RIVERBREEZE_2</div><div class="ttdef"><b>Definition:</b> zone_felwood.cpp:49</div></div>
-<div class="ttc" id="aa02708_html_acc75d54553750c832fe50b6cb0c42427a0999bd0707a4dbe03c5715081af725e1"><div class="ttname"><a href="../../d7/d73/a02708.html#acc75d54553750c832fe50b6cb0c42427a0999bd0707a4dbe03c5715081af725e1">GOSSIP_OPTION_BEACON</a></div><div class="ttdeci">@ GOSSIP_OPTION_BEACON</div><div class="ttdef"><b>Definition:</b> zone_felwood.cpp:43</div></div>
-<div class="ttc" id="aa02708_html_acc75d54553750c832fe50b6cb0c42427a15af7b53355112caefafe032f27b15d6"><div class="ttname"><a href="../../d7/d73/a02708.html#acc75d54553750c832fe50b6cb0c42427a15af7b53355112caefafe032f27b15d6">NPC_ARATHANDRIS_SILVERSKY</a></div><div class="ttdeci">@ NPC_ARATHANDRIS_SILVERSKY</div><div class="ttdef"><b>Definition:</b> zone_felwood.cpp:34</div></div>
-<div class="ttc" id="aa02708_html_acc75d54553750c832fe50b6cb0c42427a1d15502f6a496af4174cb3c5960818b5"><div class="ttname"><a href="../../d7/d73/a02708.html#acc75d54553750c832fe50b6cb0c42427a1d15502f6a496af4174cb3c5960818b5">TEXT_RIVERBREEZE_3</a></div><div class="ttdeci">@ TEXT_RIVERBREEZE_3</div><div class="ttdef"><b>Definition:</b> zone_felwood.cpp:50</div></div>
-<div class="ttc" id="aa02708_html_acc75d54553750c832fe50b6cb0c42427a201df035f33936e3020580c82101e7f8"><div class="ttname"><a href="../../d7/d73/a02708.html#acc75d54553750c832fe50b6cb0c42427a201df035f33936e3020580c82101e7f8">GOSSIP_MENU_SILVERSKY</a></div><div class="ttdeci">@ GOSSIP_MENU_SILVERSKY</div><div class="ttdef"><b>Definition:</b> zone_felwood.cpp:41</div></div>
-<div class="ttc" id="aa02708_html_acc75d54553750c832fe50b6cb0c42427a24da8ad4e5cec47c9a66a1e03e07383f"><div class="ttname"><a href="../../d7/d73/a02708.html#acc75d54553750c832fe50b6cb0c42427a24da8ad4e5cec47c9a66a1e03e07383f">QUEST_CLEASING_FELWOOD_H</a></div><div class="ttdeci">@ QUEST_CLEASING_FELWOOD_H</div><div class="ttdef"><b>Definition:</b> zone_felwood.cpp:38</div></div>
-<div class="ttc" id="aa02708_html_acc75d54553750c832fe50b6cb0c42427a3148f1367e563486599162f32be4af21"><div class="ttname"><a href="../../d7/d73/a02708.html#acc75d54553750c832fe50b6cb0c42427a3148f1367e563486599162f32be4af21">TEXT_SILVERSKY_1</a></div><div class="ttdeci">@ TEXT_SILVERSKY_1</div><div class="ttdef"><b>Definition:</b> zone_felwood.cpp:45</div></div>
-<div class="ttc" id="aa02708_html_acc75d54553750c832fe50b6cb0c42427a3362be702aaaa11f11e1df72d0a8e149"><div class="ttname"><a href="../../d7/d73/a02708.html#acc75d54553750c832fe50b6cb0c42427a3362be702aaaa11f11e1df72d0a8e149">NPC_MAYBESS_RIVERBREEZE</a></div><div class="ttdeci">@ NPC_MAYBESS_RIVERBREEZE</div><div class="ttdef"><b>Definition:</b> zone_felwood.cpp:35</div></div>
-<div class="ttc" id="aa02708_html_acc75d54553750c832fe50b6cb0c42427a62011283d742f7947270994268e055de"><div class="ttname"><a href="../../d7/d73/a02708.html#acc75d54553750c832fe50b6cb0c42427a62011283d742f7947270994268e055de">TEXT_SILVERSKY_2</a></div><div class="ttdeci">@ TEXT_SILVERSKY_2</div><div class="ttdef"><b>Definition:</b> zone_felwood.cpp:46</div></div>
-<div class="ttc" id="aa02708_html_acc75d54553750c832fe50b6cb0c42427a677781938bceb63690d56c2e2c445f46"><div class="ttname"><a href="../../d7/d73/a02708.html#acc75d54553750c832fe50b6cb0c42427a677781938bceb63690d56c2e2c445f46">ITEM_CENARION_BEACON</a></div><div class="ttdeci">@ ITEM_CENARION_BEACON</div><div class="ttdef"><b>Definition:</b> zone_felwood.cpp:31</div></div>
-<div class="ttc" id="aa02708_html_acc75d54553750c832fe50b6cb0c42427ab52d337e733144a5a21fce9825f80fff"><div class="ttname"><a href="../../d7/d73/a02708.html#acc75d54553750c832fe50b6cb0c42427ab52d337e733144a5a21fce9825f80fff">QUEST_CLEASING_FELWOOD_A</a></div><div class="ttdeci">@ QUEST_CLEASING_FELWOOD_A</div><div class="ttdef"><b>Definition:</b> zone_felwood.cpp:37</div></div>
-<div class="ttc" id="aa02708_html_acc75d54553750c832fe50b6cb0c42427ac00e8bf57bf7a4be3444d02de30309dc"><div class="ttname"><a href="../../d7/d73/a02708.html#acc75d54553750c832fe50b6cb0c42427ac00e8bf57bf7a4be3444d02de30309dc">GOSSIP_MENU_RIVERBREEZE</a></div><div class="ttdeci">@ GOSSIP_MENU_RIVERBREEZE</div><div class="ttdef"><b>Definition:</b> zone_felwood.cpp:42</div></div>
-<div class="ttc" id="aa02708_html_acc75d54553750c832fe50b6cb0c42427ac53b44e51816fbef84a98123a317125e"><div class="ttname"><a href="../../d7/d73/a02708.html#acc75d54553750c832fe50b6cb0c42427ac53b44e51816fbef84a98123a317125e">TEXT_RIVERBREEZE_1</a></div><div class="ttdeci">@ TEXT_RIVERBREEZE_1</div><div class="ttdef"><b>Definition:</b> zone_felwood.cpp:48</div></div>
-<div class="ttc" id="aa02708_html_acc75d54553750c832fe50b6cb0c42427acc340298bf9880e22b326c208affb4a1"><div class="ttname"><a href="../../d7/d73/a02708.html#acc75d54553750c832fe50b6cb0c42427acc340298bf9880e22b326c208affb4a1">ACTION_CREATE_CENARION_BEACON</a></div><div class="ttdeci">@ ACTION_CREATE_CENARION_BEACON</div><div class="ttdef"><b>Definition:</b> zone_felwood.cpp:32</div></div>
-<div class="ttc" id="aa02708_html_acc75d54553750c832fe50b6cb0c42427aefb9fe5d61b5fc5b810f077e47334d49"><div class="ttname"><a href="../../d7/d73/a02708.html#acc75d54553750c832fe50b6cb0c42427aefb9fe5d61b5fc5b810f077e47334d49">SPELL_CENARION_BEACON</a></div><div class="ttdeci">@ SPELL_CENARION_BEACON</div><div class="ttdef"><b>Definition:</b> zone_felwood.cpp:30</div></div>
-<div class="ttc" id="aa02708_html_acc75d54553750c832fe50b6cb0c42427af033b1f55bfbe0ccfd66cd1df7b50289"><div class="ttname"><a href="../../d7/d73/a02708.html#acc75d54553750c832fe50b6cb0c42427af033b1f55bfbe0ccfd66cd1df7b50289">TEXT_SILVERSKY_3</a></div><div class="ttdeci">@ TEXT_SILVERSKY_3</div><div class="ttdef"><b>Definition:</b> zone_felwood.cpp:47</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<h2 class="groupheader">Function Documentation</h2>
-<a id="a63ae28c9f250057b35a18fb585c6a2cf" name="a63ae28c9f250057b35a18fb585c6a2cf"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a63ae28c9f250057b35a18fb585c6a2cf">&#9670;&#160;</a></span>AddSC_felwood()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void AddSC_felwood </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  147</span>{</div>
-<div class="line"><span class="lineno">  148</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d7/d93/a15520.html">npcs_riverbreeze_and_silversky</a>();</div>
-<div class="line"><span class="lineno">  149</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d0/de7/a15524.html">at_ancient_leaf</a>();</div>
-<div class="line"><span class="lineno">  150</span>}</div>
-<div class="ttc" id="aa15520_html"><div class="ttname"><a href="../../d7/d93/a15520.html">npcs_riverbreeze_and_silversky</a></div><div class="ttdef"><b>Definition:</b> zone_felwood.cpp:54</div></div>
-<div class="ttc" id="aa15524_html"><div class="ttname"><a href="../../d0/de7/a15524.html">at_ancient_leaf</a></div><div class="ttdef"><b>Definition:</b> zone_felwood.cpp:124</div></div>
-</div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00100">AddKalimdorScripts()</a>.</p>
-
-</div>
-</div>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_5ee14a0f6ab8ad29bd27b6821baacc69.html">Kalimdor</a></li><li class="navelem"><a class="el" href="../../d7/d73/a02708.html">zone_felwood.cpp</a></li>
-    <li class="footer">Generated on Mon Aug 25 2025 20:45:41 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c8498b4bff487486cc5ffdac4c412cf7.html">apps</a></li><li class="navelem"><a class="el" href="../../dir_5048a8ff141d56662c703e95f88ef858.html">authserver</a></li><li class="navelem"><a class="el" href="../../dir_59b1c4a7701748b9764497b156d6c1ba.html">PrecompiledHeaders</a></li><li class="navelem"><a class="el" href="../../d7/d73/a02708.html">authserverPCH.h</a></li>
+    <li class="footer">Generated on Mon Sep 1 2025 20:42:34 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

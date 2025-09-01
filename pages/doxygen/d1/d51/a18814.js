@@ -1,6 +1,6 @@
 var a18814 =
 [
-    [ "npc_icc_severed_essenceAI", "de/d32/a18818.html", "de/d32/a18818" ],
-    [ "npc_icc_severed_essence", "d1/d51/a18814.html#ace5b55755ef1dff3bd08a67fe2f64f94", null ],
-    [ "GetAI", "d1/d51/a18814.html#a74b8dbb95f3dc31b514a2d7ac1f18190", null ]
+    [ "npc_captain_brandonAI", "d1/d51/a18814.html#a1fe09b93be658660ba3c127c142e2ee6", null ],
+    [ "Reset", "d1/d51/a18814.html#a13226b321707eee9faf5f073c81403e4", null ],
+    [ "UpdateAI", "d1/d51/a18814.html#a721f8f7395cd57d4dba74f66ae40169f", null ]
 ];

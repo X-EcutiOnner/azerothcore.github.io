@@ -1,7 +1,6 @@
 var a03998 =
 [
-    [ "UtherBatteredHiltEvent", "d2/d39/a17020.html", "d2/d39/a17020" ],
-    [ "instance_halls_of_reflection", "d3/d71/a17024.html", "d3/d71/a17024" ],
-    [ "instance_halls_of_reflection::instance_halls_of_reflection_InstanceMapScript", "da/d81/a17028.html", "da/d81/a17028" ],
-    [ "AddSC_instance_halls_of_reflection", "df/d58/a03998.html#a0f581d4a1a046db6b8b7729c87457646", null ]
+    [ "GameEventAIHookWorker", "d4/d6d/a08826.html", "d4/d6d/a08826" ],
+    [ "IsEventActive", "df/d58/a03998.html#ad54f33b2e05154d9c2a384ff579b9208", null ],
+    [ "IsHolidayActive", "df/d58/a03998.html#a429db26781d2673aa2f031fc1327ffaf", null ]
 ];

@@ -1,8 +1,6 @@
 var a12378 =
 [
-    [ "boss_garrAI", "dd/d40/a12378.html#a12d403a90bf4920763ddd87b252f544a", null ],
-    [ "JustEngagedWith", "dd/d40/a12378.html#a3b2bf0e6d3b6b32c450d03b1c88f3850", null ],
-    [ "Reset", "dd/d40/a12378.html#acb14e869dac8e7df83b5b9d858cd2b21", null ],
-    [ "UpdateAI", "dd/d40/a12378.html#aca82837e143f4509db221de15276b90c", null ],
-    [ "massEruptionTimer", "dd/d40/a12378.html#ab807c47afd1ba8320730c3aa733e1b15", null ]
+    [ "boss_firemawAI", "dc/dc1/a12382.html", "dc/dc1/a12382" ],
+    [ "boss_firemaw", "dd/d40/a12378.html#a71174eb128356802be0029fd9e24fe1f", null ],
+    [ "GetAI", "dd/d40/a12378.html#a3a20bcefa86a21daaecaef14396dadc4", null ]
 ];

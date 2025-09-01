@@ -1,6 +1,7 @@
 var a20318 =
 [
-    [ "boss_ignisAI", "d6/d33/a20322.html", "d6/d33/a20322" ],
-    [ "boss_ignis", "df/db0/a20318.html#a15f42f252e4f9472707d5b81f7fdaece", null ],
-    [ "GetAI", "df/db0/a20318.html#ac11ff148e9cbc985875f859268a3de01", null ]
+    [ "HandleEffectPeriodic", "df/db0/a20318.html#ae1c6062123fb62a48f542e43b34c7bcd", null ],
+    [ "PrepareAuraScript", "df/db0/a20318.html#a1c54b6c86fc39d96d601b24c5b30fbdd", null ],
+    [ "Register", "df/db0/a20318.html#af7a5a98b5cf784d2de8b57a183c19142", null ],
+    [ "Validate", "df/db0/a20318.html#a16c536c913d003826ef4b86c7a497fec", null ]
 ];

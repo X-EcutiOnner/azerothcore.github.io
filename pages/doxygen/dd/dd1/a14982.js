@@ -1,9 +1,8 @@
 var a14982 =
 [
-    [ "npc_buru_egg", "dd/dd1/a14982.html#a6aa2896342b802caecde1c1dffcf4907", null ],
-    [ "JustDied", "dd/dd1/a14982.html#a3de169b252374f0b2daed3ecb5a11502", null ],
-    [ "JustEngagedWith", "dd/dd1/a14982.html#a8cde6848569671876a17b00d75228ebe", null ],
-    [ "JustSummoned", "dd/dd1/a14982.html#abebb96dcb3d653bddd4210da6567fb87", null ],
-    [ "UpdateAI", "dd/dd1/a14982.html#a4d77f8b40ea8e936c9388aeff4927420", null ],
-    [ "_instance", "dd/dd1/a14982.html#a5b168226755a57368f17827e3457a0ca", null ]
+    [ "npc_thrall_old_hillsbradAI", "df/d23/a14986.html", "df/d23/a14986" ],
+    [ "npc_thrall_old_hillsbrad", "dd/dd1/a14982.html#a3e6fa750b095af3beac806a619e18328", null ],
+    [ "GetAI", "dd/dd1/a14982.html#a7b7baeb3e2e33dcb4ffb0af5d1f5930c", null ],
+    [ "OnGossipHello", "dd/dd1/a14982.html#a9b3f622ab9c0dc06011cb36cd084f2e7", null ],
+    [ "OnGossipSelect", "dd/dd1/a14982.html#a17fcb00850503903f430506654e035c0", null ]
 ];

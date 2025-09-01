@@ -1,6 +1,6 @@
 var a12254 =
 [
-    [ "boss_flamegorAI", "d9/d34/a12258.html", "d9/d34/a12258" ],
-    [ "boss_flamegor", "d2/d45/a12254.html#abc6f068c81466d08306d94667bb1974b", null ],
-    [ "GetAI", "d2/d45/a12254.html#a56fb8425c55703fbda14a982d8fdcb2d", null ]
+    [ "boss_thebeastAI", "d9/d34/a12258.html", "d9/d34/a12258" ],
+    [ "boss_the_beast", "d2/d45/a12254.html#a131344b5fada63f4a8f0b3692ecba9eb", null ],
+    [ "GetAI", "d2/d45/a12254.html#a0b40497c665c571247cb8ad8b85ac63f", null ]
 ];

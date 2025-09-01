@@ -1,10 +1,8 @@
 var a26758 =
 [
-    [ "CalcPeriodic", "d5/daa/a26758.html#abd23b7e24d9688dd4b9cbe70cdd45d75", null ],
-    [ "CalculateAmount", "d5/daa/a26758.html#a55aa6c6a23e4db0f407b86bcf95d3761", null ],
-    [ "HandleEffectCalcSpellMod", "d5/daa/a26758.html#a8c888218fde2176a3c3b5cb97fdce5de", null ],
-    [ "HandlePeriodic", "d5/daa/a26758.html#ae2c4de235fc727039a50f1b6ba729422", null ],
-    [ "Load", "d5/daa/a26758.html#a9e1a5a07db18f6ff238276f9e1c44321", null ],
-    [ "PrepareAuraScript", "d5/daa/a26758.html#a847c1db1bf92baeba47260ffbacbcdd9", null ],
-    [ "Register", "d5/daa/a26758.html#a9241ab85d616f4f17c52b3730c5434e1", null ]
+    [ "HandleDummy", "d5/daa/a26758.html#a308880cf9c61c76de0fdee05fff2b463", null ],
+    [ "Load", "d5/daa/a26758.html#acafb9d6ac4fde694dc44cbf13b7f97ad", null ],
+    [ "PrepareSpellScript", "d5/daa/a26758.html#a3a2672c39f36229c0dd6cdea0fad3299", null ],
+    [ "Register", "d5/daa/a26758.html#a1857b342ae34a57f079f45019645c688", null ],
+    [ "Validate", "d5/daa/a26758.html#a121c30045281eab5fee4f65d38d1dfc3", null ]
 ];

@@ -1,6 +1,6 @@
 var a25602 =
 [
-    [ "HandlePeriodicTick", "d8/d44/a25602.html#a1bd15727da421fdbfc3a60136bfa9bc9", null ],
-    [ "PrepareAuraScript", "d8/d44/a25602.html#a1c4f592511c8886d0b9a5e64eb19cda7", null ],
-    [ "Register", "d8/d44/a25602.html#ac019a52a6f62f1251d20efcfadba1e78", null ]
+    [ "CheckCast", "d8/d44/a25602.html#a849de7a9bc8d22ca1556e4e798807eaa", null ],
+    [ "PrepareSpellScript", "d8/d44/a25602.html#aadbfe7c69dac7cbc76aee2bfb790b612", null ],
+    [ "Register", "d8/d44/a25602.html#a2ca1fd7353e69d1028b8a9b2882d7931", null ]
 ];

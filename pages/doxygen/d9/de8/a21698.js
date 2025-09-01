@@ -1,6 +1,6 @@
 var a21698 =
 [
-    [ "npc_mageguard_dalaranAI", "dc/deb/a21702.html", "dc/deb/a21702" ],
-    [ "npc_mageguard_dalaran", "d9/de8/a21698.html#a0cec4f232b665325c421cecb5839885f", null ],
-    [ "GetAI", "d9/de8/a21698.html#a10cbddceb53a2d432da2224128c59b28", null ]
+    [ "npc_nerubar_victimAI", "dc/deb/a21702.html", "dc/deb/a21702" ],
+    [ "npc_nerubar_victim", "d9/de8/a21698.html#a4fe80597d3e56776f0f04965fc706097", null ],
+    [ "GetAI", "d9/de8/a21698.html#a5bb565352ab47fb5cb572190f55df8d1", null ]
 ];

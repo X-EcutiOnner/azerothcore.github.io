@@ -1,6 +1,8 @@
 var a11278 =
 [
-    [ "ObjectAreaTargetSelectHandler", "db/d2f/a11278.html#a89b86436bb1de38223165e7ef60f2b61", null ],
-    [ "Call", "db/d2f/a11278.html#a11d2070610d178006231bac274d1f311", null ],
-    [ "pObjectAreaTargetSelectHandlerScript", "db/d2f/a11278.html#a118ca963c6319802806913762c4d1fec", null ]
+    [ "ReflectEvent", "db/d2f/a11278.html#a1669aec08a3a09143c57e4889c8fad08", null ],
+    [ "Execute", "db/d2f/a11278.html#a37fb766d70932e8a431dba363c603531", null ],
+    [ "_caster", "db/d2f/a11278.html#a67ec85597bb887e7b8cb31b818910d1a", null ],
+    [ "_spellInfo", "db/d2f/a11278.html#ae05fc2092226695fa22dd1e72d58bc7b", null ],
+    [ "_targetGUID", "db/d2f/a11278.html#aa9f8c7bf1e22c74f3d134df2cfc014b5", null ]
 ];

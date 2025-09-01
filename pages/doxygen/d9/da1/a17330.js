@@ -1,7 +1,6 @@
 var a17330 =
 [
-    [ "HandleScript", "d9/da1/a17330.html#a4b1e392acea30a9259e65a75667704c5", null ],
-    [ "Load", "d9/da1/a17330.html#a9af7bb4defb7c590aaff1a709dad4573", null ],
-    [ "PrepareSpellScript", "d9/da1/a17330.html#a17301c4ef9623ec04ec3c15dfd4e316f", null ],
-    [ "Register", "d9/da1/a17330.html#a77632d11a172e5552c0c49de830a1639", null ]
+    [ "boss_drakkari_elementalAI", "d3/dda/a17334.html", "d3/dda/a17334" ],
+    [ "boss_drakkari_elemental", "d9/da1/a17330.html#a143dd5d52ea7bb3c3c1d96da45af81ee", null ],
+    [ "GetAI", "d9/da1/a17330.html#aab2f9c71ddb77164bd644d18b9e88313", null ]
 ];

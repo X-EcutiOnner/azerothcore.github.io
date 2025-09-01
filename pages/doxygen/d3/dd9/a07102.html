@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: AuctionSearcherResponse Struct Reference</title>
+<title>AzerothCore: AuctionHouseUsablePlayerInfo Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,52 +105,246 @@ $(document).ready(function(){initNavTree('d3/dd9/a07102.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
+<a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../d9/d1d/a07099.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">AuctionSearcherResponse Struct Reference</div></div>
+  <div class="headertitle"><div class="title">AuctionHouseUsablePlayerInfo Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
 <p><code>#include &quot;<a class="el" href="../../">AuctionHouseSearcher.h</a>&quot;</code></p>
 <table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
+Public Member Functions</h2></td></tr>
+<tr class="memitem:aee11f4f45f83664483344e3bbfba7463"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dd9/a07102.html#aee11f4f45f83664483344e3bbfba7463">PlayerCanUseItem</a> (<a class="el" href="../../d3/d25/a08362.html">ItemTemplate</a> const *proto) const</td></tr>
+<tr class="separator:aee11f4f45f83664483344e3bbfba7463"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8f5894a5729d4c8d26376bbe1a2ac29e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dd9/a07102.html#a8f5894a5729d4c8d26376bbe1a2ac29e">GetSkillValue</a> (<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> skill) const</td></tr>
+<tr class="separator:a8f5894a5729d4c8d26376bbe1a2ac29e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3400ad05d8423ae6878fab815521ec6f"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dd9/a07102.html#a3400ad05d8423ae6878fab815521ec6f">HasSpell</a> (<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> spell) const</td></tr>
+<tr class="separator:a3400ad05d8423ae6878fab815521ec6f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a824393dda7676d4a5268d2d7d2e9d17b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d60/a08410.html">ObjectGuid</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dd9/a07102.html#a824393dda7676d4a5268d2d7d2e9d17b">playerGuid</a></td></tr>
-<tr class="separator:a824393dda7676d4a5268d2d7d2e9d17b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad266cc5bd8e3637534055a7564047f87"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../da/df4/a10970.html">WorldPacket</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dd9/a07102.html#ad266cc5bd8e3637534055a7564047f87">packet</a></td></tr>
-<tr class="separator:ad266cc5bd8e3637534055a7564047f87"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a41a57c372871c84a572d2f3697cb18aa"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dd9/a07102.html#a41a57c372871c84a572d2f3697cb18aa">classMask</a></td></tr>
+<tr class="separator:a41a57c372871c84a572d2f3697cb18aa"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a96e56943da42f1a1258fc1d716259e1a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dd9/a07102.html#a96e56943da42f1a1258fc1d716259e1a">raceMask</a></td></tr>
+<tr class="separator:a96e56943da42f1a1258fc1d716259e1a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a870f632b54e4638b1f5a4e93b6bd9e52"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dd9/a07102.html#a870f632b54e4638b1f5a4e93b6bd9e52">level</a></td></tr>
+<tr class="separator:a870f632b54e4638b1f5a4e93b6bd9e52"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a55c2ad9d1cdea4913cb35deb4adc87fd"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/dc3/a04319.html#a1b900c09f81e1b28037da303e33bd597">AuctionPlayerSkills</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dd9/a07102.html#a55c2ad9d1cdea4913cb35deb4adc87fd">skills</a></td></tr>
+<tr class="separator:a55c2ad9d1cdea4913cb35deb4adc87fd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac83cc019ceb1752ce8d6b5a3aa3d350f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/dc3/a04319.html#add0df1394d287b79672ebf01c59138c1">AuctionPlayerSpells</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dd9/a07102.html#ac83cc019ceb1752ce8d6b5a3aa3d350f">spells</a></td></tr>
+<tr class="separator:ac83cc019ceb1752ce8d6b5a3aa3d350f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Member Data Documentation</h2>
-<a id="ad266cc5bd8e3637534055a7564047f87" name="ad266cc5bd8e3637534055a7564047f87"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad266cc5bd8e3637534055a7564047f87">&#9670;&#160;</a></span>packet</h2>
+<div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
+<a id="a8f5894a5729d4c8d26376bbe1a2ac29e" name="a8f5894a5729d4c8d26376bbe1a2ac29e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8f5894a5729d4c8d26376bbe1a2ac29e">&#9670;&#160;</a></span>GetSkillValue()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../da/df4/a10970.html">WorldPacket</a> AuctionSearcherResponse::packet</td>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> AuctionHouseUsablePlayerInfo::GetSkillValue </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>skill</em></td><td>)</td>
+          <td> const</td>
         </tr>
       </table>
 </div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  707</span>{</div>
+<div class="line"><span class="lineno">  708</span>    <span class="keywordflow">if</span> (!skill)</div>
+<div class="line"><span class="lineno">  709</span>        <span class="keywordflow">return</span> 0;</div>
+<div class="line"><span class="lineno">  710</span> </div>
+<div class="line"><span class="lineno">  711</span>    AuctionPlayerSkills::const_iterator itr = <a class="code hl_variable" href="../../d3/dd9/a07102.html#a55c2ad9d1cdea4913cb35deb4adc87fd">skills</a>.find(skill);</div>
+<div class="line"><span class="lineno">  712</span>    <span class="keywordflow">if</span> (itr == <a class="code hl_variable" href="../../d3/dd9/a07102.html#a55c2ad9d1cdea4913cb35deb4adc87fd">skills</a>.end())</div>
+<div class="line"><span class="lineno">  713</span>        <span class="keywordflow">return</span> 0;</div>
+<div class="line"><span class="lineno">  714</span> </div>
+<div class="line"><span class="lineno">  715</span>    <span class="keywordflow">return</span> itr-&gt;second;</div>
+<div class="line"><span class="lineno">  716</span>}</div>
+<div class="ttc" id="aa07102_html_a55c2ad9d1cdea4913cb35deb4adc87fd"><div class="ttname"><a href="../../d3/dd9/a07102.html#a55c2ad9d1cdea4913cb35deb4adc87fd">AuctionHouseUsablePlayerInfo::skills</a></div><div class="ttdeci">AuctionPlayerSkills skills</div><div class="ttdef"><b>Definition:</b> AuctionHouseSearcher.h:122</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00122">skills</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00235">AuctionHouseWorkerThread::SearchBidderListRequest()</a>, <a class="el" href="../../#l00142">AuctionHouseWorkerThread::SearchListRequest()</a>, <a class="el" href="../../#l00205">AuctionHouseWorkerThread::SearchOwnerListRequest()</a>, and <a class="el" href="../../#l00350">AuctionHouseSearcher::Update()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00663">PlayerCanUseItem()</a>.</p>
 
 </div>
 </div>
-<a id="a824393dda7676d4a5268d2d7d2e9d17b" name="a824393dda7676d4a5268d2d7d2e9d17b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a824393dda7676d4a5268d2d7d2e9d17b">&#9670;&#160;</a></span>playerGuid</h2>
+<a id="a3400ad05d8423ae6878fab815521ec6f" name="a3400ad05d8423ae6878fab815521ec6f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3400ad05d8423ae6878fab815521ec6f">&#9670;&#160;</a></span>HasSpell()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d6/d60/a08410.html">ObjectGuid</a> AuctionSearcherResponse::playerGuid</td>
+          <td class="memname">bool AuctionHouseUsablePlayerInfo::HasSpell </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>spell</em></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  719</span>{</div>
+<div class="line"><span class="lineno">  720</span>    AuctionPlayerSpells::const_iterator itr = <a class="code hl_enumeration" href="../../d1/dd5/a01742.html#abdbd89eacbc02a7997082886574e8ec2">spells</a>.find(spell);</div>
+<div class="line"><span class="lineno">  721</span>    <span class="keywordflow">return</span> (itr != <a class="code hl_enumeration" href="../../d1/dd5/a01742.html#abdbd89eacbc02a7997082886574e8ec2">spells</a>.end());</div>
+<div class="line"><span class="lineno">  722</span>}</div>
+<div class="ttc" id="aa01742_html_abdbd89eacbc02a7997082886574e8ec2"><div class="ttname"><a href="../../d1/dd5/a01742.html#abdbd89eacbc02a7997082886574e8ec2">spells</a></div><div class="ttdeci">spells</div><div class="ttdef"><b>Definition:</b> boss_krystallus.cpp:26</div></div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00663">PlayerCanUseItem()</a>.</p>
+
+</div>
+</div>
+<a id="aee11f4f45f83664483344e3bbfba7463" name="aee11f4f45f83664483344e3bbfba7463"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aee11f4f45f83664483344e3bbfba7463">&#9670;&#160;</a></span>PlayerCanUseItem()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool AuctionHouseUsablePlayerInfo::PlayerCanUseItem </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d3/d25/a08362.html">ItemTemplate</a> const *&#160;</td>
+          <td class="paramname"><em>proto</em></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  664</span>{</div>
+<div class="line"><span class="lineno">  665</span>    <a class="code hl_typedef" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> itemSkill = proto-&gt;GetSkill();</div>
+<div class="line"><span class="lineno">  666</span>    <span class="keywordflow">if</span> (itemSkill != 0)</div>
+<div class="line"><span class="lineno">  667</span>    {</div>
+<div class="line"><span class="lineno">  668</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d3/dd9/a07102.html#a8f5894a5729d4c8d26376bbe1a2ac29e">GetSkillValue</a>(itemSkill) == 0)</div>
+<div class="line"><span class="lineno">  669</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  670</span>    }</div>
+<div class="line"><span class="lineno">  671</span> </div>
+<div class="line"><span class="lineno">  672</span>    <span class="keywordflow">if</span> ((proto-&gt;AllowableClass &amp; <a class="code hl_variable" href="../../d3/dd9/a07102.html#a41a57c372871c84a572d2f3697cb18aa">classMask</a>) == 0 || (proto-&gt;AllowableRace &amp; <a class="code hl_variable" href="../../d3/dd9/a07102.html#a96e56943da42f1a1258fc1d716259e1a">raceMask</a>) == 0)</div>
+<div class="line"><span class="lineno">  673</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  674</span> </div>
+<div class="line"><span class="lineno">  675</span>    <span class="keywordflow">if</span> (proto-&gt;RequiredSkill != 0)</div>
+<div class="line"><span class="lineno">  676</span>    {</div>
+<div class="line"><span class="lineno">  677</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d3/dd9/a07102.html#a8f5894a5729d4c8d26376bbe1a2ac29e">GetSkillValue</a>(proto-&gt;RequiredSkill) == 0)</div>
+<div class="line"><span class="lineno">  678</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  679</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d3/dd9/a07102.html#a8f5894a5729d4c8d26376bbe1a2ac29e">GetSkillValue</a>(proto-&gt;RequiredSkill) &lt; proto-&gt;RequiredSkillRank)</div>
+<div class="line"><span class="lineno">  680</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  681</span>    }</div>
+<div class="line"><span class="lineno">  682</span> </div>
+<div class="line"><span class="lineno">  683</span>    <span class="keywordflow">if</span> (proto-&gt;RequiredSpell != 0 &amp;&amp; !<a class="code hl_function" href="../../d3/dd9/a07102.html#a3400ad05d8423ae6878fab815521ec6f">HasSpell</a>(proto-&gt;RequiredSpell))</div>
+<div class="line"><span class="lineno">  684</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  685</span> </div>
+<div class="line"><span class="lineno">  686</span>    <span class="keywordflow">if</span> (level &lt; proto-&gt;RequiredLevel)</div>
+<div class="line"><span class="lineno">  687</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  688</span> </div>
+<div class="line"><span class="lineno">  689</span>    <span class="keywordflow">if</span> (proto-&gt;Spells[0].SpellId)</div>
+<div class="line"><span class="lineno">  690</span>    {</div>
+<div class="line"><span class="lineno">  691</span>        <span class="comment">// this check is for vanilla recipies. Spells are learned through individual learning spells instead of spell 483 and 55884</span></div>
+<div class="line"><span class="lineno">  692</span>        <a class="code hl_struct" href="../../d5/d77/a28542.html">SpellEntry</a> <span class="keyword">const</span>* spellEntry = <a class="code hl_variable" href="../../de/d69/a02786.html#ab07c8126df92da43a32dfe00d7986cf6">sSpellStore</a>.LookupEntry(proto-&gt;Spells[0].SpellId);</div>
+<div class="line"><span class="lineno">  693</span>        <span class="keywordflow">if</span> (spellEntry &amp;&amp; spellEntry-&gt;<a class="code hl_variable" href="../../d5/d77/a28542.html#a9b37b50c55d7a887d61805e6197bfa21">Effect</a>[0] == <a class="code hl_enumvalue" href="../../dc/d43/a04727.html#a292c893150c454dd75628b719db1fe97acef490c9f3480852d33dbbec7727fa7f">SPELL_EFFECT_LEARN_SPELL</a> &amp;&amp; spellEntry-&gt;<a class="code hl_variable" href="../../d5/d77/a28542.html#a2a76a4db284742bee6b7293fb291c18d">EffectTriggerSpell</a>[0])</div>
+<div class="line"><span class="lineno">  694</span>            <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d3/dd9/a07102.html#a3400ad05d8423ae6878fab815521ec6f">HasSpell</a>(spellEntry-&gt;<a class="code hl_variable" href="../../d5/d77/a28542.html#a2a76a4db284742bee6b7293fb291c18d">EffectTriggerSpell</a>[0]))</div>
+<div class="line"><span class="lineno">  695</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  696</span> </div>
+<div class="line"><span class="lineno">  697</span>        <span class="comment">// this check is for tbc/wotlk recipies. Spells are learned through 483 and 55884, the second spell in the item will be the actual spell learned.</span></div>
+<div class="line"><span class="lineno">  698</span>        <span class="keywordflow">if</span> (proto-&gt;Spells[0].SpellId == 483 || proto-&gt;Spells[0].SpellId == 55884)</div>
+<div class="line"><span class="lineno">  699</span>            <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d3/dd9/a07102.html#a3400ad05d8423ae6878fab815521ec6f">HasSpell</a>(proto-&gt;Spells[1].SpellId))</div>
+<div class="line"><span class="lineno">  700</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  701</span>    }</div>
+<div class="line"><span class="lineno">  702</span> </div>
+<div class="line"><span class="lineno">  703</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  704</span>}</div>
+<div class="ttc" id="aa00302_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
+<div class="ttc" id="aa02786_html_ab07c8126df92da43a32dfe00d7986cf6"><div class="ttname"><a href="../../de/d69/a02786.html#ab07c8126df92da43a32dfe00d7986cf6">sSpellStore</a></div><div class="ttdeci">DBCStorage&lt; SpellEntry &gt; sSpellStore(SpellEntryfmt)</div></div>
+<div class="ttc" id="aa04727_html_a292c893150c454dd75628b719db1fe97acef490c9f3480852d33dbbec7727fa7f"><div class="ttname"><a href="../../dc/d43/a04727.html#a292c893150c454dd75628b719db1fe97acef490c9f3480852d33dbbec7727fa7f">SPELL_EFFECT_LEARN_SPELL</a></div><div class="ttdeci">@ SPELL_EFFECT_LEARN_SPELL</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:825</div></div>
+<div class="ttc" id="aa07102_html_a3400ad05d8423ae6878fab815521ec6f"><div class="ttname"><a href="../../d3/dd9/a07102.html#a3400ad05d8423ae6878fab815521ec6f">AuctionHouseUsablePlayerInfo::HasSpell</a></div><div class="ttdeci">bool HasSpell(uint32 spell) const</div><div class="ttdef"><b>Definition:</b> AuctionHouseSearcher.cpp:718</div></div>
+<div class="ttc" id="aa07102_html_a41a57c372871c84a572d2f3697cb18aa"><div class="ttname"><a href="../../d3/dd9/a07102.html#a41a57c372871c84a572d2f3697cb18aa">AuctionHouseUsablePlayerInfo::classMask</a></div><div class="ttdeci">uint32 classMask</div><div class="ttdef"><b>Definition:</b> AuctionHouseSearcher.h:119</div></div>
+<div class="ttc" id="aa07102_html_a8f5894a5729d4c8d26376bbe1a2ac29e"><div class="ttname"><a href="../../d3/dd9/a07102.html#a8f5894a5729d4c8d26376bbe1a2ac29e">AuctionHouseUsablePlayerInfo::GetSkillValue</a></div><div class="ttdeci">uint16 GetSkillValue(uint32 skill) const</div><div class="ttdef"><b>Definition:</b> AuctionHouseSearcher.cpp:706</div></div>
+<div class="ttc" id="aa07102_html_a96e56943da42f1a1258fc1d716259e1a"><div class="ttname"><a href="../../d3/dd9/a07102.html#a96e56943da42f1a1258fc1d716259e1a">AuctionHouseUsablePlayerInfo::raceMask</a></div><div class="ttdeci">uint32 raceMask</div><div class="ttdef"><b>Definition:</b> AuctionHouseSearcher.h:120</div></div>
+<div class="ttc" id="aa28542_html"><div class="ttname"><a href="../../d5/d77/a28542.html">SpellEntry</a></div><div class="ttdef"><b>Definition:</b> DBCStructure.h:1643</div></div>
+<div class="ttc" id="aa28542_html_a2a76a4db284742bee6b7293fb291c18d"><div class="ttname"><a href="../../d5/d77/a28542.html#a2a76a4db284742bee6b7293fb291c18d">SpellEntry::EffectTriggerSpell</a></div><div class="ttdeci">std::array&lt; uint32, MAX_SPELL_EFFECTS &gt; EffectTriggerSpell</div><div class="ttdef"><b>Definition:</b> DBCStructure.h:1713</div></div>
+<div class="ttc" id="aa28542_html_a9b37b50c55d7a887d61805e6197bfa21"><div class="ttname"><a href="../../d5/d77/a28542.html#a9b37b50c55d7a887d61805e6197bfa21">SpellEntry::Effect</a></div><div class="ttdeci">std::array&lt; uint32, MAX_SPELL_EFFECTS &gt; Effect</div><div class="ttdef"><b>Definition:</b> DBCStructure.h:1698</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00633">ItemTemplate::AllowableClass</a>, <a class="el" href="../../#l00634">ItemTemplate::AllowableRace</a>, <a class="el" href="../../#l00119">classMask</a>, <a class="el" href="../../#l01698">SpellEntry::Effect</a>, <a class="el" href="../../#l01713">SpellEntry::EffectTriggerSpell</a>, <a class="el" href="../../#l00783">ItemTemplate::GetSkill()</a>, <a class="el" href="../../#l00706">GetSkillValue()</a>, <a class="el" href="../../#l00718">HasSpell()</a>, <a class="el" href="../../#l00120">raceMask</a>, <a class="el" href="../../#l00637">ItemTemplate::RequiredSkill</a>, <a class="el" href="../../#l00638">ItemTemplate::RequiredSkillRank</a>, <a class="el" href="../../#l00639">ItemTemplate::RequiredSpell</a>, <a class="el" href="../../#l00825">SPELL_EFFECT_LEARN_SPELL</a>, <a class="el" href="../../#l00591">_Spell::SpellId</a>, <a class="el" href="../../#l00662">ItemTemplate::Spells</a>, and <a class="el" href="../../de/d69/a02786.html#ab07c8126df92da43a32dfe00d7986cf6">sSpellStore</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a id="a41a57c372871c84a572d2f3697cb18aa" name="a41a57c372871c84a572d2f3697cb18aa"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a41a57c372871c84a572d2f3697cb18aa">&#9670;&#160;</a></span>classMask</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AuctionHouseUsablePlayerInfo::classMask</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00235">AuctionHouseWorkerThread::SearchBidderListRequest()</a>, <a class="el" href="../../#l00142">AuctionHouseWorkerThread::SearchListRequest()</a>, <a class="el" href="../../#l00205">AuctionHouseWorkerThread::SearchOwnerListRequest()</a>, and <a class="el" href="../../#l00350">AuctionHouseSearcher::Update()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00672">WorldSession::HandleAuctionListItems()</a>, and <a class="el" href="../../#l00663">PlayerCanUseItem()</a>.</p>
+
+</div>
+</div>
+<a id="a870f632b54e4638b1f5a4e93b6bd9e52" name="a870f632b54e4638b1f5a4e93b6bd9e52"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a870f632b54e4638b1f5a4e93b6bd9e52">&#9670;&#160;</a></span>level</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> AuctionHouseUsablePlayerInfo::level</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00672">WorldSession::HandleAuctionListItems()</a>.</p>
+
+</div>
+</div>
+<a id="a96e56943da42f1a1258fc1d716259e1a" name="a96e56943da42f1a1258fc1d716259e1a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a96e56943da42f1a1258fc1d716259e1a">&#9670;&#160;</a></span>raceMask</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AuctionHouseUsablePlayerInfo::raceMask</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00672">WorldSession::HandleAuctionListItems()</a>, and <a class="el" href="../../#l00663">PlayerCanUseItem()</a>.</p>
+
+</div>
+</div>
+<a id="a55c2ad9d1cdea4913cb35deb4adc87fd" name="a55c2ad9d1cdea4913cb35deb4adc87fd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a55c2ad9d1cdea4913cb35deb4adc87fd">&#9670;&#160;</a></span>skills</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../de/dc3/a04319.html#a1b900c09f81e1b28037da303e33bd597">AuctionPlayerSkills</a> AuctionHouseUsablePlayerInfo::skills</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00706">GetSkillValue()</a>, and <a class="el" href="../../#l00672">WorldSession::HandleAuctionListItems()</a>.</p>
+
+</div>
+</div>
+<a id="ac83cc019ceb1752ce8d6b5a3aa3d350f" name="ac83cc019ceb1752ce8d6b5a3aa3d350f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac83cc019ceb1752ce8d6b5a3aa3d350f">&#9670;&#160;</a></span>spells</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../de/dc3/a04319.html#add0df1394d287b79672ebf01c59138c1">AuctionPlayerSpells</a> AuctionHouseUsablePlayerInfo::spells</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00672">WorldSession::HandleAuctionListItems()</a>.</p>
 
 </div>
 </div>
@@ -159,8 +353,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d3/dd9/a07102.html">AuctionSearcherResponse</a></li>
-    <li class="footer">Generated on Mon Aug 4 2025 20:51:05 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d3/dd9/a07102.html">AuctionHouseUsablePlayerInfo</a></li>
+    <li class="footer">Generated on Mon Sep 1 2025 20:43:29 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,6 +1,8 @@
 var a25238 =
 [
-    [ "OnApply", "d7/d42/a25238.html#a476bf6fc1a91784dbc8534c0e57005d6", null ],
-    [ "PrepareAuraScript", "d7/d42/a25238.html#a159ee8a9b0af729ed01f7632adb58863", null ],
-    [ "Register", "d7/d42/a25238.html#a0f33043317402119aa14e50a1eb6c227", null ]
+    [ "AchievementCredit", "d7/d42/a25238.html#ab0ec836feb53875de355330e05367fe8", null ],
+    [ "Load", "d7/d42/a25238.html#ae48c67f363e399f076122cb6eee10ffb", null ],
+    [ "PrepareSpellScript", "d7/d42/a25238.html#af0bb22c618af5dca7f534bea32e7ee7f", null ],
+    [ "Register", "d7/d42/a25238.html#a793921687c96a39f7dd872b9721096ca", null ],
+    [ "Validate", "d7/d42/a25238.html#a5be222c322714ec62f8beaf69faab257", null ]
 ];

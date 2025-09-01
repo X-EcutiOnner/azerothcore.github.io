@@ -1,10 +1,11 @@
 var a24798 =
 [
-    [ "HandleEffectApply", "d9/d05/a24798.html#ac977d07e0b054af33345538f10d80c56", null ],
-    [ "HandleEffectRemove", "d9/d05/a24798.html#acd9c460acb60eae5db8874c246014147", null ],
-    [ "PrepareAuraScript", "d9/d05/a24798.html#a1527c59b43a26db344e5a4d2900ea9b0", null ],
-    [ "Register", "d9/d05/a24798.html#ab0de0c0459d3414f69a0dde7669b6f79", null ],
-    [ "_hasFlag", "d9/d05/a24798.html#adb5058ba54ea53db9fdc9251a44619aa", null ],
-    [ "_itemId", "d9/d05/a24798.html#a28c06ecd352466e0d1076d9eb4fa8e9b", null ],
-    [ "_modelId", "d9/d05/a24798.html#ae77b9ae8a1092e0dc144e83db4c0758c", null ]
+    [ "HandleAfterHit", "d9/d05/a24798.html#a3cfb75da66372934ba5aaa1c9ad6c6f3", null ],
+    [ "HandleDummy", "d9/d05/a24798.html#abb3f92850fa6fff94c682b990c361fe6", null ],
+    [ "Load", "d9/d05/a24798.html#ae5900d64c9b9b2de48c494458d4bed8b", null ],
+    [ "PrepareSpellScript", "d9/d05/a24798.html#adea0e24654cd87b3aee07ce2183b9517", null ],
+    [ "Register", "d9/d05/a24798.html#a3e155e336d6a5a6a4d44eae422ef7939", null ],
+    [ "Validate", "d9/d05/a24798.html#a28bb9111c8e5116a82d4e54b7eacb92b", null ],
+    [ "guid", "d9/d05/a24798.html#a6e177d68e1d39dcb27e6643d267328a5", null ],
+    [ "multiplier", "d9/d05/a24798.html#a04ed6aae0ea28a4f1b7c1ed5f4f73a0b", null ]
 ];

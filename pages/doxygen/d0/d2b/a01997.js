@@ -1,6 +1,5 @@
 var a01997 =
 [
-    [ "EncryptableAndCompressiblePacket", "df/d8e/a11068.html", "df/d8e/a11068" ],
-    [ "ClientPktHeader", "de/d93/a11072.html", "de/d93/a11072" ],
-    [ "WorldSocket", "d0/df3/a11076.html", "d0/df3/a11076" ]
+    [ "learn_commandscript", "df/d11/a11814.html", "df/d11/a11814" ],
+    [ "AddSC_learn_commandscript", "d0/d2b/a01997.html#a8dd69858fd98c4630027654ecdcf92e7", null ]
 ];

@@ -1,8 +1,8 @@
 var a13386 =
 [
-    [ "HandleApply", "d5/ddd/a13386.html#a2c64240e8675fc76598600ae2632570f", null ],
-    [ "HandleRemove", "d5/ddd/a13386.html#a2a6e32bbc9b722ad7e872c6a26daa6bb", null ],
-    [ "PrepareAuraScript", "d5/ddd/a13386.html#a6ff74fbaf3a6ef84024d55528fd6f8e2", null ],
-    [ "Register", "d5/ddd/a13386.html#aebfb4b20a9b0ebefff652a0ae1727994", null ],
-    [ "Validate", "d5/ddd/a13386.html#abdad49fe5e0a72799847fdfcfe22eec0", null ]
+    [ "npc_madrigosa", "d5/ddd/a13386.html#a7624e25e00c1e7505ba171d0be40beb3", null ],
+    [ "DoAction", "d5/ddd/a13386.html#aaf481ec840e679a9633bd3ecdb4eb3df", null ],
+    [ "UpdateAI", "d5/ddd/a13386.html#a3431d13ea4ebd97d3fc6e542f89e033d", null ],
+    [ "events", "d5/ddd/a13386.html#a5859e4c8454371eb71740616d4763c0e", null ],
+    [ "instance", "d5/ddd/a13386.html#a09525d3bb35d1da4246bd84bbadea304", null ]
 ];

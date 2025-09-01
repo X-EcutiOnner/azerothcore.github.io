@@ -1,7 +1,9 @@
 var a24582 =
 [
-    [ "CalcDamage", "d8/dbd/a24582.html#a5e06d1aa2864c296b2680a83a9f2187f", null ],
-    [ "PrepareSpellScript", "d8/dbd/a24582.html#a80a748b6a18d26004b04a4486df1ebe3", null ],
-    [ "Register", "d8/dbd/a24582.html#a857a010e6426e931ca872f66803b99b9", null ],
-    [ "Validate", "d8/dbd/a24582.html#ab64625ce305efb9dc92780c945b4fd62", null ]
+    [ "npc_pet_gen_fetch_ball", "d8/dbd/a24582.html#a4cd4dabd5df72ad1e64bdc8d6efb2f1b", null ],
+    [ "IsSummonedBy", "d8/dbd/a24582.html#abaf6308f7c47fd05acb86055bec0aea8", null ],
+    [ "SpellHitTarget", "d8/dbd/a24582.html#a87bdded236f6584d9b71507a1253f7d0", null ],
+    [ "UpdateAI", "d8/dbd/a24582.html#a1e0f75d5cd438d500ad94c5024bf83ae", null ],
+    [ "checkTimer", "d8/dbd/a24582.html#ab8d0a3a9ba2a8e0d6f58b3867f20974e", null ],
+    [ "targetGUID", "d8/dbd/a24582.html#ae474374af7c2270e218ed236d90c789c", null ]
 ];

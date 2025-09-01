@@ -1,6 +1,6 @@
 var a14134 =
 [
-    [ "instance_zulgurub_InstanceMapScript", "da/dc0/a14138.html", "da/dc0/a14138" ],
-    [ "instance_zulgurub", "d0/d7d/a14134.html#aedc8c70e880ed9ccaf58b7154f9ba341", null ],
-    [ "GetInstanceScript", "d0/d7d/a14134.html#a51f17d1135c7e97ff082d0d95ec3ffa4", null ]
+    [ "boss_hakkarAI", "da/dc0/a14138.html", "da/dc0/a14138" ],
+    [ "boss_hakkar", "d0/d7d/a14134.html#a834bd1f223154fbf1be94bf43136da28", null ],
+    [ "GetAI", "d0/d7d/a14134.html#aff3a089e30dcddfde4db372104153723", null ]
 ];

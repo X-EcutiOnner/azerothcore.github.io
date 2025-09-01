@@ -1,7 +1,6 @@
 var a24134 =
 [
-    [ "HandleScriptEffect", "de/d76/a24134.html#ad018d907a85ee31d3194823a4c02a1a5", null ],
-    [ "PrepareSpellScript", "de/d76/a24134.html#a50b6bc43eaeee0ec760c02ac1685454e", null ],
-    [ "Register", "de/d76/a24134.html#a2096673a3f57cc224aeb7d3ce84526cb", null ],
-    [ "Validate", "de/d76/a24134.html#a5209de3456c374010502a94f67ff4544", null ]
+    [ "npc_nether_drakeAI", "d5/dcf/a24138.html", "d5/dcf/a24138" ],
+    [ "npc_nether_drake", "de/d76/a24134.html#a253ec3c91857b899ea9e2c824870b760", null ],
+    [ "GetAI", "de/d76/a24134.html#a58d269e2c73cae07bb507162b742fe8f", null ]
 ];

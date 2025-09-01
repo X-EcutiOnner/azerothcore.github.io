@@ -1,7 +1,5 @@
 var a10298 =
 [
-    [ "GameEventScript", "d5/d5b/a10298.html#ac43a9c70638ad56b69b5841ee8410374", null ],
-    [ "OnEventCheck", "d5/d5b/a10298.html#aadab9593da561e9b19202d09b53cba36", null ],
-    [ "OnStart", "d5/d5b/a10298.html#a0e61a9e1379aef55af93a593af84a3cc", null ],
-    [ "OnStop", "d5/d5b/a10298.html#a4813f26f03e5ba79a740bf30558e604c", null ]
+    [ "GenericCreatureScript", "d5/d5b/a10298.html#a52157430320e253a5897612623eb796c", null ],
+    [ "GetAI", "d5/d5b/a10298.html#a9e8eb28ece41af0c4159710c6eb51395", null ]
 ];

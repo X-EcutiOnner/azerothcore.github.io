@@ -1,10 +1,18 @@
 var a08990 =
 [
-    [ "creatureRate", "d3/d0d/a08990.html#aa9c27c19179b8a7bdfdc11d906cd1c06", null ],
-    [ "questDailyRate", "d3/d0d/a08990.html#a1798044bdf25ce774191b00e261add1e", null ],
-    [ "questMonthlyRate", "d3/d0d/a08990.html#a0db34ed7420bc376cfe64a0d12434fea", null ],
-    [ "questRate", "d3/d0d/a08990.html#a914118aa28b3736ff4e6c5b61d738834", null ],
-    [ "questRepeatableRate", "d3/d0d/a08990.html#a2b050d4cf6555e824d59a3ffc0558b21", null ],
-    [ "questWeeklyRate", "d3/d0d/a08990.html#a0fb31ebc33d0ce11f392be845907e043", null ],
-    [ "spellRate", "d3/d0d/a08990.html#a508485f1e6833c58a11706667a2c24fd", null ]
+    [ "BroadcastText", "d3/d0d/a08990.html#abab322532f769f25ad0241422e066c3c", null ],
+    [ "GetText", "d3/d0d/a08990.html#a5002c01e04536db717167eb7d0f4c5ec", null ],
+    [ "EmoteDelay1", "d3/d0d/a08990.html#a627971cd4d55f9e3e17c885791a0cfbf", null ],
+    [ "EmoteDelay2", "d3/d0d/a08990.html#a101f8fcc99c6badc2a7b05a9f18aa0f5", null ],
+    [ "EmoteDelay3", "d3/d0d/a08990.html#ad54e97026a67329529daaa30f997a89a", null ],
+    [ "EmoteId1", "d3/d0d/a08990.html#acc72081442b6a4544533a3084b5240da", null ],
+    [ "EmoteId2", "d3/d0d/a08990.html#a519449d0a5cc67e758f39c154e22f853", null ],
+    [ "EmoteId3", "d3/d0d/a08990.html#acbce2101751bdaed47315c23f5058a7b", null ],
+    [ "EmotesID", "d3/d0d/a08990.html#a2c7c03c32d8fe589507b575fc5c2138f", null ],
+    [ "FemaleText", "d3/d0d/a08990.html#a255f95912612f11867611093ebc23a59", null ],
+    [ "Flags", "d3/d0d/a08990.html#af07f883cd3deb5a1a59e23aa058e6c78", null ],
+    [ "Id", "d3/d0d/a08990.html#a12594a2bbd643a1968726db708a35b79", null ],
+    [ "LanguageID", "d3/d0d/a08990.html#a35ea9cc4ebd2680988e610f344086c86", null ],
+    [ "MaleText", "d3/d0d/a08990.html#ab30526857fe7c7c945d84931ffa4c416", null ],
+    [ "SoundEntriesId", "d3/d0d/a08990.html#aae69d8b9ca72f1cb20869b69a9601595", null ]
 ];

@@ -1,6 +1,6 @@
 var a12138 =
 [
-    [ "boss_urok_doomhowlAI", "de/d76/a12142.html", "de/d76/a12142" ],
-    [ "boss_urok_doomhowl", "df/d7b/a12138.html#a0ca9cea9919648baa5ff7db2d5a5b530", null ],
-    [ "GetAI", "df/d7b/a12138.html#ac77756af77191e02df49161da0ace268", null ]
+    [ "instance_blackrock_depths_InstanceMapScript", "de/d76/a12142.html", "de/d76/a12142" ],
+    [ "instance_blackrock_depths", "df/d7b/a12138.html#a8d906bdb520b2c7907b94b0e22b5cdf4", null ],
+    [ "GetInstanceScript", "df/d7b/a12138.html#af8f8c9929cae50c098efc5a0dbdd727a", null ]
 ];

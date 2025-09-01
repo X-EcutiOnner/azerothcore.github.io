@@ -1,7 +1,8 @@
 var a22790 =
 [
-    [ "HandleDummy", "df/dff/a22790.html#adb4e8218eb498d430ececfa357bc1d8a", null ],
-    [ "PrepareSpellScript", "df/dff/a22790.html#a85f582794bf8ca2c80add8d9fe35f9f5", null ],
-    [ "Register", "df/dff/a22790.html#af5926d8570de13e66aa1870184620b94", null ],
-    [ "Validate", "df/dff/a22790.html#aa2839c6dba3d0c6ecfeb19f5ff3a39d2", null ]
+    [ "boss_pandemonius", "df/dff/a22790.html#a650746de74bb8a91e0c9c59d8a6a09ea", null ],
+    [ "JustDied", "df/dff/a22790.html#a64a493c0dd4bcf5917e00c3e2713f4ce", null ],
+    [ "JustEngagedWith", "df/dff/a22790.html#a3dbedc67006db89b95443f783cd8dbd9", null ],
+    [ "KilledUnit", "df/dff/a22790.html#a26a012afe8c418c8da283c7b9f983e89", null ],
+    [ "PullRoom", "df/dff/a22790.html#a05011127290350f11cc1a333b23dbb04", null ]
 ];

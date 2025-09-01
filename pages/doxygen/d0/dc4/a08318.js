@@ -1,7 +1,5 @@
 var a08318 =
 [
-    [ "EnchStoreItem", "d0/dc4/a08318.html#a89019e156774c5b978251479264e5463", null ],
-    [ "EnchStoreItem", "d0/dc4/a08318.html#aca83bb20eb6153faeaf599b07b97e357", null ],
-    [ "chance", "d0/dc4/a08318.html#a2d3d0cd28c79402b3625694d4676ed8b", null ],
-    [ "ench", "d0/dc4/a08318.html#ac2346b6c6c5c09bb63676d72c798d848", null ]
+    [ "CastBarCaption", "d0/dc4/a08318.html#ae78195bdc8edd6f4996c617e7a541e12", null ],
+    [ "Name", "d0/dc4/a08318.html#a462917eda1e095c99054495abf70cd67", null ]
 ];

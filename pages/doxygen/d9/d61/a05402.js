@@ -1,17 +1,17 @@
 var a05402 =
 [
-    [ "Thread", "d9/d61/a05402.html#a95c703fb8f2f27cb64f475a8c940864a", null ],
-    [ "Thread", "d9/d61/a05402.html#a72d9240b0f28a378bf0e05e97918e25a", null ],
-    [ "~Thread", "d9/d61/a05402.html#a37d9edd3a1a776cbc27dedff949c9726", null ],
-    [ "Thread", "d9/d61/a05402.html#ae65c99228766cc135c8dad74af50120e", null ],
-    [ "currentId", "d9/d61/a05402.html#a65c7edbd9a1a3ed492485013d1baaf8d", null ],
-    [ "destroy", "d9/d61/a05402.html#a4ee8270c681c7faf3d3a6b8271f31796", null ],
-    [ "operator=", "d9/d61/a05402.html#a79ab3cf5b994c65dc196e2c154fabe7a", null ],
-    [ "setPriority", "d9/d61/a05402.html#a4dcbafab5741b819852d6702e5b09369", null ],
-    [ "Sleep", "d9/d61/a05402.html#addc70b7462f6fe4e51e136176f05a6b8", null ],
-    [ "ThreadTask", "d9/d61/a05402.html#a3e9a687df7ed593abc33f5e5897125e5", null ],
-    [ "wait", "d9/d61/a05402.html#a29758de9c29e1437e234ab8d2a3e07d0", null ],
-    [ "m_iThreadId", "d9/d61/a05402.html#a997822ac4937e995c085c0554ca48d53", null ],
-    [ "m_task", "d9/d61/a05402.html#afa81b66db9223412b20be34f2ee1651f", null ],
-    [ "m_ThreadImp", "d9/d61/a05402.html#ac2b69bbcfc8f20ac6aa2e517311b2861", null ]
+    [ "LockedQueue", "d9/d61/a05402.html#a5ce001c1fba3468b513aa7e345113128", null ],
+    [ "~LockedQueue", "d9/d61/a05402.html#a259a03cc68a36181edebe088ef669c46", null ],
+    [ "add", "d9/d61/a05402.html#a03f459044b4ffb413fb8d1ba98179ab8", null ],
+    [ "cancel", "d9/d61/a05402.html#ab3d04497f8a07c5c6b6208b136a297a4", null ],
+    [ "cancelled", "d9/d61/a05402.html#af9e2adfcd3800e9e9fa858fcacf22e2e", null ],
+    [ "empty", "d9/d61/a05402.html#a8d62ae6a4bb93f89816714ccbb519753", null ],
+    [ "next", "d9/d61/a05402.html#ac818ec56d60e2ec059857e0aaa99f8a4", null ],
+    [ "next", "d9/d61/a05402.html#acaade33a01794600c72efbf389fe7664", null ],
+    [ "peek", "d9/d61/a05402.html#af1de22fd872bb07a5ad42779d2ddbac3", null ],
+    [ "pop_front", "d9/d61/a05402.html#aa57d3a3964071fd3e0ba6b7840041c65", null ],
+    [ "readd", "d9/d61/a05402.html#a4eb9aea8b399a2acc2dd893e83d16120", null ],
+    [ "_canceled", "d9/d61/a05402.html#a175454f5bf20f3a312d83e2dd5fc5d7c", null ],
+    [ "_lock", "d9/d61/a05402.html#a64be27c5d4ab7cc4a8c559dd6e1d4ebb", null ],
+    [ "_queue", "d9/d61/a05402.html#a55ced2abb0a6dd64554597347b61ebf1", null ]
 ];

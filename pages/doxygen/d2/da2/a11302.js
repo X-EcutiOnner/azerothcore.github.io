@@ -1,6 +1,5 @@
 var a11302 =
 [
-    [ "EffectBase", "d2/da2/a11302.html#ab02f9f344e2f32ad59b35993d5c8f819", null ],
-    [ "CheckEffect", "d2/da2/a11302.html#a8c300ca68c3ff6f74b230835c566fd60", null ],
-    [ "ToString", "d2/da2/a11302.html#ab6f5b2a7ec1183206110eac9a21a7de5", null ]
+    [ "ImplicitTargetType", "d2/da2/a11302.html#adc4268d74a3f0b47902e16eea2fc854a", null ],
+    [ "UsedTargetObjectType", "d2/da2/a11302.html#a7bbc11d4a7a68f9441d393c7b48f5231", null ]
 ];

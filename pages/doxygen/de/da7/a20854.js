@@ -1,6 +1,6 @@
 var a20854 =
 [
-    [ "boss_yoggsaron_corruptor_tentacleAI", "df/d98/a20858.html", "df/d98/a20858" ],
-    [ "boss_yoggsaron_corruptor_tentacle", "de/da7/a20854.html#a86fbf881f0a861124dda085347bb03bd", null ],
-    [ "GetAI", "de/da7/a20854.html#a7325d6feaa12d74c030152ba3a0ab756", null ]
+    [ "boss_thorim_arena_npcsAI", "df/d98/a20858.html", "df/d98/a20858" ],
+    [ "boss_thorim_arena_npcs", "de/da7/a20854.html#a60d22280bb1eb3c9da92deb08e887942", null ],
+    [ "GetAI", "de/da7/a20854.html#a3709e1c9df32755f5932398ba3535f2f", null ]
 ];

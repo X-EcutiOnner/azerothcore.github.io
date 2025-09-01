@@ -1,10 +1,10 @@
 var a23922 =
 [
-    [ "npc_raging_flames", "df/da9/a23922.html#aa2cc5c8af07c202a7f0fab1af259a0db", null ],
-    [ "EnterEvadeMode", "df/da9/a23922.html#a24a878560153dcf9cf5282c6d0a8f7f0", null ],
-    [ "FixateRandomTarget", "df/da9/a23922.html#a0e015aa73efdafb1bb9683b2f3c1ba34", null ],
-    [ "InitializeAI", "df/da9/a23922.html#a96d3a8ef364dc6bc3f15ffc82b14c4c0", null ],
-    [ "IsSummonedBy", "df/da9/a23922.html#ae42c4329be355807af92c1c803e61500", null ],
-    [ "Reset", "df/da9/a23922.html#a34ac2249e507784d81c4040e87a646e0", null ],
-    [ "UpdateAI", "df/da9/a23922.html#a3e4feafe10e59ad9cb1d2275dc7954b0", null ]
+    [ "boss_thorngrin_the_tender", "df/da9/a23922.html#ad960b1084fc08d2870975c7c6c44ab2b", null ],
+    [ "JustDied", "df/da9/a23922.html#a4bc13108f7cb240fedb44ccae2b54047", null ],
+    [ "JustEngagedWith", "df/da9/a23922.html#a647ed5b29861b719d3c4a11fd110c512", null ],
+    [ "KilledUnit", "df/da9/a23922.html#ab3731c5b56e1c01aa5d78d84a5e60234", null ],
+    [ "MoveInLineOfSight", "df/da9/a23922.html#a9467e59287b3e917907de82507d1a16d", null ],
+    [ "Reset", "df/da9/a23922.html#af3f1471cbcdadfe3a86421d7232fb4b9", null ],
+    [ "_intro", "df/da9/a23922.html#a48fc89c7e9814d90a8724ca38c5e2fe8", null ]
 ];

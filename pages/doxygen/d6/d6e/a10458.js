@@ -1,7 +1,9 @@
 var a10458 =
 [
-    [ "AutoStoreBankItem", "d6/d6e/a10458.html#a1cdb7e9c7da7e646af14ac4ac3b7e950", null ],
-    [ "Read", "d6/d6e/a10458.html#a2a482b716f537866a815085ead9cfd38", null ],
-    [ "Bag", "d6/d6e/a10458.html#a08d2992816ee94b6757c2811b54ed437", null ],
-    [ "Slot", "d6/d6e/a10458.html#aaf2cd8c1c3d67301cc40af78f138daa0", null ]
+    [ "fX", "d6/d6e/a10458.html#a53aeb6e82eea1dc4a4e5d8e99dfd3fc5", null ],
+    [ "fY", "d6/d6e/a10458.html#a9b158e247014eec0d35e465ab9469ac7", null ],
+    [ "fZ", "d6/d6e/a10458.html#a2e02f9738393aeb8cd62ac26dda8fc10", null ],
+    [ "uiCreatureEntry", "d6/d6e/a10458.html#ac31436c40bd0bf375635e2ea604fbf61", null ],
+    [ "uiPointId", "d6/d6e/a10458.html#acb4d9697a24d5c29deacdefe8eb0e267", null ],
+    [ "uiWaitTime", "d6/d6e/a10458.html#a305620aad71152c1139a88dea05a1887", null ]
 ];

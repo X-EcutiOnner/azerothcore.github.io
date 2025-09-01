@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: ArenaTeamFilterFactoryByUserInput Class Reference</title>
+<title>AzerothCore: ArenaSeasonTeamRewarder Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,28 +106,34 @@ $(document).ready(function(){initNavTree('df/d87/a07250.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pri-methods">Private Member Functions</a> &#124;
 <a href="../../d8/d2e/a07247.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">ArenaTeamFilterFactoryByUserInput Class Reference</div></div>
+  <div class="headertitle"><div class="title">ArenaSeasonTeamRewarder Class Reference<span class="mlabels"><span class="mlabel">abstract</span></span></div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">ArenaTeamFilter.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">ArenaSeasonRewardsDistributor.h</a>&quot;</code></p>
+<div class="dynheader">
+Inheritance diagram for ArenaSeasonTeamRewarder:</div>
+<div class="dyncontent">
+ <div class="center">
+  <img src="../../df/d87/a07250.png" usemap="#ArenaSeasonTeamRewarder_map" alt=""/>
+  <map id="ArenaSeasonTeamRewarder_map" name="ArenaSeasonTeamRewarder_map">
+<area href="../../df/d01/a07254.html" alt="ArenaSeasonTeamRewarderImpl" shape="rect" coords="0,56,205,80"/>
+<area href="../../dd/d27/a28742.html" alt="MockArenaSeasonTeamRewarder" shape="rect" coords="215,56,420,80"/>
+  </map>
+</div></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:ae35ff456f56290032c4c62d252a83690"><td class="memItemLeft" align="right" valign="top">std::unique_ptr&lt; <a class="el" href="../../d1/ddc/a07238.html">ArenaTeamFilter</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d87/a07250.html#ae35ff456f56290032c4c62d252a83690">CreateFilterByUserInput</a> (std::string userInput)</td></tr>
-<tr class="separator:ae35ff456f56290032c4c62d252a83690"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-methods" name="pri-methods"></a>
-Private Member Functions</h2></td></tr>
-<tr class="memitem:a79a78392d31f1fbf3d8475572d570c1c"><td class="memItemLeft" align="right" valign="top">std::vector&lt; <a class="el" href="../../d2/de7/a00014.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d87/a07250.html#a79a78392d31f1fbf3d8475572d570c1c">ParseTypes</a> (std::string_view userInput)</td></tr>
-<tr class="separator:a79a78392d31f1fbf3d8475572d570c1c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8f7eb844a39cd5213134ef4f4d4b1fde"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d87/a07250.html#a8f7eb844a39cd5213134ef4f4d4b1fde">~ArenaSeasonTeamRewarder</a> ()=default</td></tr>
+<tr class="separator:a8f7eb844a39cd5213134ef4f4d4b1fde"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2beaf893f95e16c4d388ad048885848b"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d87/a07250.html#a2beaf893f95e16c4d388ad048885848b">RewardTeamWithRewardGroup</a> (<a class="el" href="../../da/d6c/a07286.html">ArenaTeam</a> *arenaTeam, <a class="el" href="../../d3/d34/a07242.html">ArenaSeasonRewardGroup</a> const &amp;rewardGroup)=0</td></tr>
+<tr class="separator:a2beaf893f95e16c4d388ad048885848b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
-<a id="ae35ff456f56290032c4c62d252a83690" name="ae35ff456f56290032c4c62d252a83690"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae35ff456f56290032c4c62d252a83690">&#9670;&#160;</a></span>CreateFilterByUserInput()</h2>
+<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="a8f7eb844a39cd5213134ef4f4d4b1fde" name="a8f7eb844a39cd5213134ef4f4d4b1fde"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8f7eb844a39cd5213134ef4f4d4b1fde">&#9670;&#160;</a></span>~ArenaSeasonTeamRewarder()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -136,44 +142,24 @@ Private Member Functions</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::unique_ptr&lt; <a class="el" href="../../d1/ddc/a07238.html">ArenaTeamFilter</a> &gt; ArenaTeamFilterFactoryByUserInput::CreateFilterByUserInput </td>
+          <td class="memname">virtual ArenaSeasonTeamRewarder::~ArenaSeasonTeamRewarder </td>
           <td>(</td>
-          <td class="paramtype">std::string&#160;</td>
-          <td class="paramname"><em>userInput</em></td><td>)</td>
+          <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+<span class="mlabels"><span class="mlabel">virtual</span><span class="mlabel">default</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   83</span>    {</div>
-<div class="line"><span class="lineno">   84</span>        std::transform(userInput.begin(), userInput.end(), userInput.begin(),</div>
-<div class="line"><span class="lineno">   85</span>                       [](<span class="keywordtype">unsigned</span> <span class="keywordtype">char</span> c) { return std::tolower(c); });</div>
-<div class="line"><span class="lineno">   86</span> </div>
-<div class="line"><span class="lineno">   87</span>        <span class="keywordflow">if</span> (userInput == <span class="stringliteral">&quot;all&quot;</span>)</div>
-<div class="line"><span class="lineno">   88</span>            <span class="keywordflow">return</span> std::make_unique&lt;ArenaTeamFilterAllTeams&gt;();</div>
-<div class="line"><span class="lineno">   89</span> </div>
-<div class="line"><span class="lineno">   90</span>        <span class="comment">// Parse the input string (e.g., &quot;2,3&quot;) into valid types</span></div>
-<div class="line"><span class="lineno">   91</span>        std::vector&lt;uint8&gt; validTypes = <a class="code hl_function" href="../../df/d87/a07250.html#a79a78392d31f1fbf3d8475572d570c1c">ParseTypes</a>(userInput);</div>
-<div class="line"><span class="lineno">   92</span> </div>
-<div class="line"><span class="lineno">   93</span>        <span class="keywordflow">if</span> (!validTypes.empty())</div>
-<div class="line"><span class="lineno">   94</span>            <span class="keywordflow">return</span> std::make_unique&lt;ArenaTeamFilterByTypes&gt;(validTypes);</div>
-<div class="line"><span class="lineno">   95</span> </div>
-<div class="line"><span class="lineno">   96</span>        <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">   97</span>    }</div>
-<div class="ttc" id="aa07250_html_a79a78392d31f1fbf3d8475572d570c1c"><div class="ttname"><a href="../../df/d87/a07250.html#a79a78392d31f1fbf3d8475572d570c1c">ArenaTeamFilterFactoryByUserInput::ParseTypes</a></div><div class="ttdeci">std::vector&lt; uint8 &gt; ParseTypes(std::string_view userInput)</div><div class="ttdef"><b>Definition:</b> ArenaTeamFilter.h:100</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00100">ParseTypes()</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00242">arena_commandscript::HandleArenaSeasonRewardCommand()</a>, and <a class="el" href="../../#l00098">TEST_F()</a>.</p>
 
 </div>
 </div>
-<a id="a79a78392d31f1fbf3d8475572d570c1c" name="a79a78392d31f1fbf3d8475572d570c1c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a79a78392d31f1fbf3d8475572d570c1c">&#9670;&#160;</a></span>ParseTypes()</h2>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="a2beaf893f95e16c4d388ad048885848b" name="a2beaf893f95e16c4d388ad048885848b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2beaf893f95e16c4d388ad048885848b">&#9670;&#160;</a></span>RewardTeamWithRewardGroup()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -182,34 +168,33 @@ Private Member Functions</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::vector&lt; <a class="el" href="../../d2/de7/a00014.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> &gt; ArenaTeamFilterFactoryByUserInput::ParseTypes </td>
+          <td class="memname">virtual void ArenaSeasonTeamRewarder::RewardTeamWithRewardGroup </td>
           <td>(</td>
-          <td class="paramtype">std::string_view&#160;</td>
-          <td class="paramname"><em>userInput</em></td><td>)</td>
+          <td class="paramtype"><a class="el" href="../../da/d6c/a07286.html">ArenaTeam</a> *&#160;</td>
+          <td class="paramname"><em>arenaTeam</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
           <td></td>
+          <td class="paramtype"><a class="el" href="../../d3/d34/a07242.html">ArenaSeasonRewardGroup</a> const &amp;&#160;</td>
+          <td class="paramname"><em>rewardGroup</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">private</span></span>  </td>
+<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  101</span>    {</div>
-<div class="line"><span class="lineno">  102</span>        std::vector&lt;uint8&gt; validTypes;</div>
-<div class="line"><span class="lineno">  103</span>        <span class="keyword">auto</span> tokens = <a class="code hl_function" href="../../db/d2a/a04776.html#a6b121485ace4118b9006db1fb89f90f2">Acore::Tokenize</a>(userInput, <span class="charliteral">&#39;,&#39;</span>, <span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno">  104</span> </div>
-<div class="line"><span class="lineno">  105</span>        <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; token : tokens)</div>
-<div class="line"><span class="lineno">  106</span>            <span class="keywordflow">if</span> (<span class="keyword">auto</span> typeOpt = Acore::StringTo&lt;uint8&gt;(token))</div>
-<div class="line"><span class="lineno">  107</span>                validTypes.push_back(*typeOpt);</div>
-<div class="line"><span class="lineno">  108</span> </div>
-<div class="line"><span class="lineno">  109</span>        <span class="keywordflow">return</span> validTypes;</div>
-<div class="line"><span class="lineno">  110</span>    }</div>
-<div class="ttc" id="aa04776_html_a6b121485ace4118b9006db1fb89f90f2"><div class="ttname"><a href="../../db/d2a/a04776.html#a6b121485ace4118b9006db1fb89f90f2">Acore::Tokenize</a></div><div class="ttdeci">std::vector&lt; std::string_view &gt; Tokenize(std::string_view str, char sep, bool keepEmpty)</div><div class="ttdef"><b>Definition:</b> Tokenize.cpp:20</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00020">Acore::Tokenize()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00082">CreateFilterByUserInput()</a>.</p>
+<p>Implemented in <a class="el" href="../../df/d01/a07254.html#a962da3fcdc2feb57ffd2a635d431939a">ArenaSeasonTeamRewarderImpl</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00109">ArenaSeasonRewardDistributor::DistributeRewards()</a>.</p>
 
 </div>
 </div>
@@ -218,8 +203,8 @@ Private Member Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../df/d87/a07250.html">ArenaTeamFilterFactoryByUserInput</a></li>
-    <li class="footer">Generated on Mon Aug 4 2025 20:51:04 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../df/d87/a07250.html">ArenaSeasonTeamRewarder</a></li>
+    <li class="footer">Generated on Mon Sep 1 2025 20:43:29 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,6 +1,7 @@
 var a11286 =
 [
-    [ "DestinationTargetSelectHandler", "d7/ddd/a11286.html#ab5ffcc89b7232afddd6bc47e7c347b79", null ],
-    [ "Call", "d7/ddd/a11286.html#a81ae2eb856507ee22308ae2739854382", null ],
-    [ "DestinationTargetSelectHandlerScript", "d7/ddd/a11286.html#a95e882b892a79b464a521a8367b2e9b7", null ]
+    [ "SpellImmune", "d7/ddd/a11286.html#a70ebcde656db6c4d7c21fb03af44978a", null ],
+    [ "blockType", "d7/ddd/a11286.html#a13a353d02a7330820df170eb46e7a26d", null ],
+    [ "spellId", "d7/ddd/a11286.html#a6aeb1bebf2f079424ebfa5192c568adc", null ],
+    [ "type", "d7/ddd/a11286.html#ae1a414f35b2cce61cd4f5640c761f7ea", null ]
 ];

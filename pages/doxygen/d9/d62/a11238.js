@@ -1,10 +1,10 @@
 var a11238 =
 [
-    [ "EffectHook", "d9/d62/a11238.html#a4a197e061d918dfba2bc486f3393b00d", null ],
-    [ "~EffectHook", "d9/d62/a11238.html#aa234f63b530764d12064acbe3f5c9299", null ],
-    [ "CheckEffect", "d9/d62/a11238.html#ae8823c5d649d182f572818bf3db72902", null ],
-    [ "EffIndexToString", "d9/d62/a11238.html#ab818ed274cfd66ecc565b8535b751517", null ],
-    [ "GetAffectedEffectsMask", "d9/d62/a11238.html#a31faa86590e22f5ab3ca518f4df02840", null ],
-    [ "IsEffectAffected", "d9/d62/a11238.html#a697041ffa562bb6fff792beb159c7af2", null ],
-    [ "effIndex", "d9/d62/a11238.html#ab5eb48ef7ac903938f92db0e856e0295", null ]
+    [ "TriggeredByAuraSpellData", "d9/d62/a11238.html#a3f4704eed73af1e37a3d09434cfcddae", null ],
+    [ "Init", "d9/d62/a11238.html#a782e0056967e006748318af3112c0e43", null ],
+    [ "operator bool", "d9/d62/a11238.html#a85d4782b76b060c172aaa6f914d400da", null ],
+    [ "operator!", "d9/d62/a11238.html#af7290a4c37b1829a98e436486fa8b6cd", null ],
+    [ "effectIndex", "d9/d62/a11238.html#a9bbee8d48d4beb8a21721a10e0380c41", null ],
+    [ "spellInfo", "d9/d62/a11238.html#af58f62fb168e9da7011f7b570f08e977", null ],
+    [ "tickNumber", "d9/d62/a11238.html#afbb1ffd006dc6eb00ccd65add87b1b22", null ]
 ];

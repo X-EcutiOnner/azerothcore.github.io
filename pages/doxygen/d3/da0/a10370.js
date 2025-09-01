@@ -1,10 +1,23 @@
 var a10370 =
 [
-    [ "ServerScript", "d3/da0/a10370.html#a164286c210360b97b9efb48aed33b0d8", null ],
-    [ "CanPacketReceive", "d3/da0/a10370.html#a9c817a6f922029c9c58f783c4ebc18ff", null ],
-    [ "CanPacketSend", "d3/da0/a10370.html#a6682dfb556d137feb5fc95a66ccd6917", null ],
-    [ "OnNetworkStart", "d3/da0/a10370.html#ab51ce520816236687820d1f72bae0ed6", null ],
-    [ "OnNetworkStop", "d3/da0/a10370.html#a1f2e87caed202bbcde98e2cb0c8f19c6", null ],
-    [ "OnSocketClose", "d3/da0/a10370.html#a27ecdfc9c6d737d02705adcd13be9d13", null ],
-    [ "OnSocketOpen", "d3/da0/a10370.html#a656f1c0dc191b8f91e0705748d286454", null ]
+    [ "MiscScript", "d3/da0/a10370.html#afbd758be34ed4b7045525250cb2cf5be", null ],
+    [ "CanApplySoulboundFlag", "d3/da0/a10370.html#a8918c758dd84f447f321f009030615ff", null ],
+    [ "CanItemApplyEquipSpell", "d3/da0/a10370.html#a3241973d4f8ff5d9e4eed8a0cc95e74d", null ],
+    [ "CanSendAuctionHello", "d3/da0/a10370.html#aac9b8415ab2002a1d4ad2f26211fa4e2", null ],
+    [ "GetDialogStatus", "d3/da0/a10370.html#a25d97a2c91563263da76e5d67358edce", null ],
+    [ "IsDatabaseBound", "d3/da0/a10370.html#a6eb3eb8a451ddc1abdf4a238b4e08253", null ],
+    [ "OnAfterLootTemplateProcess", "d3/da0/a10370.html#adcf037b59a970e43b99f1c8f4b35cde5", null ],
+    [ "OnConstructGroup", "d3/da0/a10370.html#a044e0a8f789c9cb8e19cfc82c87ab745", null ],
+    [ "OnConstructInstanceSave", "d3/da0/a10370.html#a7857523e8dec674efbec50f8bfdf108b", null ],
+    [ "OnConstructObject", "d3/da0/a10370.html#acdf0d559e38565bdb55ccb666f39d9f4", null ],
+    [ "OnConstructPlayer", "d3/da0/a10370.html#a14cf20bad86e743a0ddc225d780ed13c", null ],
+    [ "OnDestructGroup", "d3/da0/a10370.html#ae2977af97c42c0eedb4081a0d7984b01", null ],
+    [ "OnDestructInstanceSave", "d3/da0/a10370.html#a2c2b480dd47c6e8a2ebd4e19ead442fc", null ],
+    [ "OnDestructObject", "d3/da0/a10370.html#a2160ea9f05168a3018ab34ebddee18cc", null ],
+    [ "OnDestructPlayer", "d3/da0/a10370.html#a100f72c7b930788c5d3a4a0d2dd2d9d9", null ],
+    [ "OnInstanceSave", "d3/da0/a10370.html#a1434e3a2638144a9ddd4e2834a4983be", null ],
+    [ "OnItemCreate", "d3/da0/a10370.html#a52619636b636036f454dd0d9129754fa", null ],
+    [ "OnPlayerSetPhase", "d3/da0/a10370.html#a19700d3ee246e42852d3b9993157d2e8", null ],
+    [ "ValidateSpellAtCastSpell", "d3/da0/a10370.html#a40356d17f149920064ea1005920c4e45", null ],
+    [ "ValidateSpellAtCastSpellResult", "d3/da0/a10370.html#a3a45534d56665943fbcfd82e15a17753", null ]
 ];

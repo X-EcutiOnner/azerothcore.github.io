@@ -1,10 +1,6 @@
 var a27146 =
 [
-    [ "boss_emerissAI", "d6/dee/a27146.html#ad94b3b097d9987e365f91b7e57d0f208", null ],
-    [ "DamageTaken", "d6/dee/a27146.html#abb80c49c166f31cd7e2d24392fbf60e1", null ],
-    [ "ExecuteEvent", "d6/dee/a27146.html#ad3839ad4b0a930bc96154b5b0aab17fe", null ],
-    [ "JustEngagedWith", "d6/dee/a27146.html#a5a51b97216a27637f6bd3020ba05e0f7", null ],
-    [ "KilledUnit", "d6/dee/a27146.html#ad851169bc09a362137e211dd10d30a1b", null ],
-    [ "Reset", "d6/dee/a27146.html#a44dfb325c4e8413662052137edc710ef", null ],
-    [ "_stage", "d6/dee/a27146.html#ae2c8c5c2d2054af41c5dbe938b3eb79a", null ]
+    [ "HandleEffectCalcSpellMod", "d6/dee/a27146.html#a38c2a5daeda4b366518026638e6a8e1b", null ],
+    [ "PrepareAuraScript", "d6/dee/a27146.html#a767c3c52e917b56dbf2368b5dbbf1610", null ],
+    [ "Register", "d6/dee/a27146.html#af60592a9f1e595f31814eae405d03d5a", null ]
 ];

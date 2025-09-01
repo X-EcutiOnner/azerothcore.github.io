@@ -1,6 +1,6 @@
 var a14326 =
 [
-    [ "gameobjectId", "dc/dfa/a14326.html#a5cebf652fccc66cb5f98968036405d14", null ],
-    [ "spawnIndex", "dc/dfa/a14326.html#a5e8b95d6ecf69db8736941b67e2478d8", null ],
-    [ "timestamp", "dc/dfa/a14326.html#a0c49f62b35e906637890fee896c74951", null ]
+    [ "npc_brewfest_keg_reciver", "dc/dfa/a14326.html#af12e7608f3f715650e6c265ac18920e4", null ],
+    [ "MoveInLineOfSight", "dc/dfa/a14326.html#ae719a770598c6347d4ee6b9e77d30eae", null ],
+    [ "sGossipSelect", "dc/dfa/a14326.html#ad56ba9921e94cbd4ba1d6c1ddd1efe24", null ]
 ];

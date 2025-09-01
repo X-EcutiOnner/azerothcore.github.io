@@ -1,6 +1,6 @@
 var a14362 =
 [
-    [ "HandleScript", "dd/db5/a14362.html#a4077b809530d28bed0a9419b5a745f42", null ],
-    [ "PrepareSpellScript", "dd/db5/a14362.html#a97eb6d1fcdcf0628433e5bec68785932", null ],
-    [ "Register", "dd/db5/a14362.html#ac09b1c86655eef0febaccff86533b28f", null ]
+    [ "HandleEffectApply", "dd/db5/a14362.html#a06d50e8c0f7bfd1b055d8a3f5c14d357", null ],
+    [ "PrepareAuraScript", "dd/db5/a14362.html#a5f8abd33848c554f9a530ad23c86a7a0", null ],
+    [ "Register", "dd/db5/a14362.html#a2b39daf6fe325cfa909b964da62c2571", null ]
 ];

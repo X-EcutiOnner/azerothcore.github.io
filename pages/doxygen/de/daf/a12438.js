@@ -1,7 +1,7 @@
 var a12438 =
 [
-    [ "HandleDummy", "de/daf/a12438.html#acbf0fa3d73de0cec47928fc0dda0c724", null ],
-    [ "PrepareSpellScript", "de/daf/a12438.html#a76d395449ed9fb26914aa9ff0488f1be", null ],
-    [ "Register", "de/daf/a12438.html#a7d094ce258e3dc28cc30d5fb644d5a1e", null ],
-    [ "Validate", "de/daf/a12438.html#a24447c4367d8e8713ba7d05ea53681ee", null ]
+    [ "HandleDummy", "de/daf/a12438.html#a2299a8b99013fb9f9c2b8e81cfc541cc", null ],
+    [ "PrepareSpellScript", "de/daf/a12438.html#ad07165f81a7f407c716f90691ecb9817", null ],
+    [ "Register", "de/daf/a12438.html#a28fb28ca049b87dd76fddc3af222fd9c", null ],
+    [ "Validate", "de/daf/a12438.html#a8ce6773c7d0fd501fa7b26f04fd22796", null ]
 ];

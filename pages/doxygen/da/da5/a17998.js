@@ -1,6 +1,6 @@
 var a17998 =
 [
-    [ "CheckTarget", "da/da5/a17998.html#afce64ba75f8370cab6b8f1e561b10587", null ],
-    [ "PrepareSpellScript", "da/da5/a17998.html#a6b6eaf3e761f2c173c2e72f46b25595a", null ],
-    [ "Register", "da/da5/a17998.html#a6964ca668f02a8b5b1c3015503a41eef", null ]
+    [ "AbominationDespawner", "da/da5/a17998.html#a3bbf8c5d4e42569ffe993a3c3b8ff95e", null ],
+    [ "operator()", "da/da5/a17998.html#a58b8faac1cdffa7230783a1d6439fcfb", null ],
+    [ "_owner", "da/da5/a17998.html#af9089e566905b885887a5714ad5b0741", null ]
 ];

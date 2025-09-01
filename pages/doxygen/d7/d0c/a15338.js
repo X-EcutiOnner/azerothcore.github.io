@@ -1,6 +1,7 @@
 var a15338 =
 [
-    [ "npc_death_ravagerAI", "da/d98/a15342.html", "da/d98/a15342" ],
-    [ "npc_death_ravager", "d7/d0c/a15338.html#a6aa04a28ce5aa0e467e638c8ffe11657", null ],
-    [ "GetAI", "d7/d0c/a15338.html#a284d0b8ccf902d3f03ddfc6750fe0f1c", null ]
+    [ "npc_sartura_royal_guard", "d7/d0c/a15338.html#a3ce2aeec4e5f26916ef50bdeea624c9d", null ],
+    [ "JustEngagedWith", "d7/d0c/a15338.html#a0b162e1fcc925f65fedbfe235b59eb0e", null ],
+    [ "Reset", "d7/d0c/a15338.html#a2b604aada12ca7f3e712cdbd1a3f397a", null ],
+    [ "UpdateAI", "d7/d0c/a15338.html#a2ed50f65847133c897facecbaa4711d8", null ]
 ];

@@ -1,10 +1,8 @@
 var a00851 =
 [
-    [ "SavedAddonsList", "df/d4c/a00851.html#afa468163a23ed58507a89e5724c06eac", null ],
-    [ "GetAddonInfo", "df/d4c/a00851.html#a65cb6a88902972060e44c57d7d9ec738", null ],
-    [ "GetBannedAddons", "df/d4c/a00851.html#ad7d0938e7463238a86e8c811e1a58800", null ],
-    [ "LoadFromDB", "df/d4c/a00851.html#aaa12f5b754e6b664dbfb2428478bee03", null ],
-    [ "SaveAddon", "df/d4c/a00851.html#a85021021149b7eb4d78cbe81e43d3d45", null ],
-    [ "m_bannedAddons", "df/d4c/a00851.html#a83195dfb437a3f713fa0ccd6c24477ed", null ],
-    [ "m_knownAddons", "df/d4c/a00851.html#a6cd3e278f71724491a7a3b8167eab60e", null ]
+    [ "spell_gordunni_trap", "de/dea/a15654.html", "de/dea/a15654" ],
+    [ "GordunniTrap", "df/d4c/a00851.html#ae11511f5835ecdfec73fde1f9f29431c", [
+      [ "GO_GORDUNNI_DIRT_MOUND", "df/d4c/a00851.html#ae11511f5835ecdfec73fde1f9f29431ca12df131fc84f6cc9bcf7d02eaf65e1ab", null ]
+    ] ],
+    [ "AddSC_feralas", "df/d4c/a00851.html#a06e54e3edc2df068be660ac788b402e3", null ]
 ];

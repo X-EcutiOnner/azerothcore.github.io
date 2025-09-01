@@ -1,8 +1,6 @@
 var a18222 =
 [
-    [ "FilterTargets", "d0/d6f/a18222.html#a242fa53c2da9ac557623281bccf2af92", null ],
-    [ "HandleSendEvent", "d0/d6f/a18222.html#a6120e057e2ee39d34eaeab79782add8d", null ],
-    [ "Load", "d0/d6f/a18222.html#af48cdbf87d61cf6d8392f65ae4c9b18a", null ],
-    [ "PrepareSpellScript", "d0/d6f/a18222.html#a0846e73f467d9c3a63b5e9a5d795aa37", null ],
-    [ "Register", "d0/d6f/a18222.html#ae83950dfc35f7c1e64806d6ec273083c", null ]
+    [ "UnchainedMagicTargetSelector", "d0/d6f/a18222.html#ae412c72884e6cfb1ceef8ed9fb347fbf", null ],
+    [ "operator()", "d0/d6f/a18222.html#af28ce8f46154ae6152e9025775a7f84f", null ],
+    [ "_removeHealers", "d0/d6f/a18222.html#a35a7981ce5495cba8b3a5391e4031431", null ]
 ];

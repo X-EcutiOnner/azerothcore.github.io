@@ -1,7 +1,12 @@
 var a23734 =
 [
-    [ "HandleCast", "dd/dfd/a23734.html#a0084e7f81fcd032c1e04b8f86d821993", null ],
-    [ "PrepareSpellScript", "dd/dfd/a23734.html#acfd6b86e5afed08fd9cf43f64e948149", null ],
-    [ "Register", "dd/dfd/a23734.html#a6ae0573ea69573df64cd57ba84f99918", null ],
-    [ "Validate", "dd/dfd/a23734.html#ab5794ca5c0863ce40194ed40e156279a", null ]
+    [ "boss_watchkeeper_gargolmar", "dd/dfd/a23734.html#acb4212c6f852f50f3edfa3880806a9d2", null ],
+    [ "JustDied", "dd/dfd/a23734.html#a39be5796b39bea913105fc48dda0d186", null ],
+    [ "JustEngagedWith", "dd/dfd/a23734.html#a9e3194d02d0d3b66ef38118aa32ae684", null ],
+    [ "KilledUnit", "dd/dfd/a23734.html#a22736c2680f41cfd3443a76cd4de9352", null ],
+    [ "MoveInLineOfSight", "dd/dfd/a23734.html#adec9837fdb2595ce57acffb279a7d011", null ],
+    [ "Reset", "dd/dfd/a23734.html#a356b7fe9071b073b74b21913e35e7408", null ],
+    [ "UpdateAI", "dd/dfd/a23734.html#a1453d26ccbd3e78f46cb33f054d57759", null ],
+    [ "_hasSpoken", "dd/dfd/a23734.html#a3cd89b2567668b52d96b02af7eb85db8", null ],
+    [ "_taunted", "dd/dfd/a23734.html#ab5623501bf92e119806ba4e2ccd0cd7a", null ]
 ];

@@ -1,7 +1,6 @@
 var a16674 =
 [
-    [ "HandleScriptEffect", "d2/df6/a16674.html#a51064b3a11f453724ae0879c80eaf8df", null ],
-    [ "PrepareSpellScript", "d2/df6/a16674.html#aac26002ff107e609fb7258306b430f1b", null ],
-    [ "Register", "d2/df6/a16674.html#a0efef7644706940e3929ce99cd162c91", null ],
-    [ "Validate", "d2/df6/a16674.html#a7110d4136337d44aa0300ec82e5a6511", null ]
+    [ "npc_toc_pet_hunterAI", "d0/dd6/a16678.html", "d0/dd6/a16678" ],
+    [ "npc_toc_pet_hunter", "d2/df6/a16674.html#a1aa59cca8cd71e9f17fb9f55cf03c1da", null ],
+    [ "GetAI", "d2/df6/a16674.html#a9febc3086b0627324277f45d49cdd03f", null ]
 ];

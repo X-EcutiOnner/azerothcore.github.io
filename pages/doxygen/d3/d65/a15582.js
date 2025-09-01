@@ -1,6 +1,7 @@
 var a15582 =
 [
-    [ "go_wind_stoneAI", "de/d77/a15586.html", "de/d77/a15586" ],
-    [ "go_wind_stone", "d3/d65/a15582.html#a70c4bcb743b0d587caad4b574c589e3e", null ],
-    [ "GetAI", "d3/d65/a15582.html#ab7add0fe4e58eec422e37ae04b9338df", null ]
+    [ "npc_cork_gizeltonAI", "de/d77/a15586.html", "de/d77/a15586" ],
+    [ "npc_cork_gizelton", "d3/d65/a15582.html#a915aa2abc18109e7d0197863f59536f2", null ],
+    [ "GetAI", "d3/d65/a15582.html#a8a5fe5c46767aa37fd6e5b10e1bfc372", null ],
+    [ "OnQuestAccept", "d3/d65/a15582.html#a11dc1fea0a24add451272b537298fc13", null ]
 ];

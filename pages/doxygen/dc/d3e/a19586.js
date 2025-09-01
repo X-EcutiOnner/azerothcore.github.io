@@ -1,11 +1,11 @@
 var a19586 =
 [
-    [ "boss_maiden_of_griefAI", "dc/d3e/a19586.html#a521decece7a53165349ebcfb9fb8dfb5", null ],
-    [ "JustDied", "dc/d3e/a19586.html#abd3977cca1cbbf4b64c278a641514fc8", null ],
-    [ "JustEngagedWith", "dc/d3e/a19586.html#acf30049b09bbaf3e30f2dcb77bf1b4e0", null ],
-    [ "KilledUnit", "dc/d3e/a19586.html#a3d2173db5a852a356c187b2d2771b75f", null ],
-    [ "Reset", "dc/d3e/a19586.html#a46776004549b0dcfcf73351225adaad8", null ],
-    [ "UpdateAI", "dc/d3e/a19586.html#a4e26fc785b3c72982f9d98e0b120e929", null ],
-    [ "events", "dc/d3e/a19586.html#aa2d2ccea219b679594d8d8b4a38d70cc", null ],
-    [ "pInstance", "dc/d3e/a19586.html#abc195718a208a926f978d7f0fe0e7925", null ]
+    [ "npc_oculus_drakegiverAI", "d5/db3/a19590.html", "d5/db3/a19590" ],
+    [ "npc_oculus_drakegiver", "dc/d3e/a19586.html#add34aba22fb2ca16f6f055dd77a2994b", null ],
+    [ "GetAI", "dc/d3e/a19586.html#aa26a2b82c5e4076ce704d5884895d903", null ],
+    [ "OnGossipHello", "dc/d3e/a19586.html#ac00d09d2d81121d562e3303704229c18", null ],
+    [ "OnGossipSelect", "dc/d3e/a19586.html#ad0fc46e306080ccfe9988d416ef71e77", null ],
+    [ "RemoveEssence", "dc/d3e/a19586.html#a70513d873111c590ca4e33cb446a4438", null ],
+    [ "StoreEssence", "dc/d3e/a19586.html#ac8bbe890722aa924a7f0dee161d342c4", null ],
+    [ "openedMenu", "dc/d3e/a19586.html#a650d1cd18700e29328e0fc97b1709f38", null ]
 ];

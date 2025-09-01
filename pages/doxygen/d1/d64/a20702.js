@@ -1,5 +1,5 @@
 var a20702 =
 [
-    [ "achievement_thorim_stand_in_the_lightning", "d1/d64/a20702.html#a9339e89e4eb76151fdeacb6bcd53d7bc", null ],
-    [ "OnCheck", "d1/d64/a20702.html#ade1aec4de4c503be5a62da3e6c35e90f", null ]
+    [ "achievement_mimiron_set_up_us_the_bomb_13", "d1/d64/a20702.html#a74b0cafbc4be4261c8f8f2af3671cbd9", null ],
+    [ "OnCheck", "d1/d64/a20702.html#ac91196d094f159932ad871ffa9c0f405", null ]
 ];

@@ -1,12 +1,7 @@
 var a13314 =
 [
-    [ "boss_sathrovarr", "d9/d3b/a13314.html#a92bff830219f795d0aae4511f3d524bb", null ],
-    [ "CanAIAttack", "d9/d3b/a13314.html#a053dcf604aed91ac7c888d682653da54", null ],
-    [ "DoAction", "d9/d3b/a13314.html#ad0b549678e5b4eb7dfc1c1879885b45a", null ],
-    [ "JustDied", "d9/d3b/a13314.html#aa6683f0ccb70260e24f79d86ec4ae2d1", null ],
-    [ "JustEngagedWith", "d9/d3b/a13314.html#a1f3a74ac6f83673eed9b2a4276a5cf49", null ],
-    [ "KilledUnit", "d9/d3b/a13314.html#a17e2a5d253536c25cd04269b71a5c0ed", null ],
-    [ "Reset", "d9/d3b/a13314.html#a171c0e2c07ddf4c5271af8ed83f15257", null ],
-    [ "UpdateAI", "d9/d3b/a13314.html#a99c5c8801333f2eaf6b9fee287588093", null ],
-    [ "_instance", "d9/d3b/a13314.html#af7bfd6a65db102b5010f7b300e4acd27", null ]
+    [ "OnPeriodic", "d9/d3b/a13314.html#aa48b6f35302a8857465c6567f811dec6", null ],
+    [ "PrepareAuraScript", "d9/d3b/a13314.html#ad606a06f64b85c762f3c83bc9ca5b7b3", null ],
+    [ "Register", "d9/d3b/a13314.html#aa7708067531131738b86077638eda7ac", null ],
+    [ "Validate", "d9/d3b/a13314.html#a665698b54201184185d96bd33f53e584", null ]
 ];

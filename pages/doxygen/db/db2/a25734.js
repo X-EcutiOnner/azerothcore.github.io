@@ -1,8 +1,6 @@
 var a25734 =
 [
-    [ "CheckProc", "db/db2/a25734.html#a8b3f8cf17dda2322d0e9f8f4211cbd20", null ],
-    [ "HandleProc", "db/db2/a25734.html#ae034bd626880858c9701ed963de993c9", null ],
-    [ "isException", "db/db2/a25734.html#aa5f4fcd1b9b710e2931460207cfc6dea", null ],
-    [ "PrepareAuraScript", "db/db2/a25734.html#a50348fd27947f67df03bf4ddbec89cca", null ],
-    [ "Register", "db/db2/a25734.html#aaa14b34ac54b4caee76ff72d07dd5c2d", null ]
+    [ "HandleDummy", "db/db2/a25734.html#a7b56d07d46647a2790553d40e75da79d", null ],
+    [ "PrepareSpellScript", "db/db2/a25734.html#aad36c108f4531c19ba552064ba0d3248", null ],
+    [ "Register", "db/db2/a25734.html#a754fcf618f53b4b17c2bcae4740e561f", null ]
 ];

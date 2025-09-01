@@ -1,6 +1,6 @@
 var a13486 =
 [
-    [ "HandleSendEvent", "db/d87/a13486.html#af62c176d53589228d5e0077c9fc268a3", null ],
-    [ "PrepareSpellScript", "db/d87/a13486.html#acea8e256f267dd496e5f573e982dba5f", null ],
-    [ "Register", "db/d87/a13486.html#a0827e177a8268994bb4e63f07993a354", null ]
+    [ "SpectralBlastCheck", "db/d87/a13486.html#ada2eda8781891a4049ee30c5ecb81c3c", null ],
+    [ "operator()", "db/d87/a13486.html#afbe13a5f90a5b95832e14fe9d7affc9f", null ],
+    [ "_victim", "db/d87/a13486.html#ab96456159d61e781aa8d691dd0b1fec1", null ]
 ];

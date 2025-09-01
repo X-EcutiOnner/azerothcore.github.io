@@ -1,6 +1,6 @@
 var a18378 =
 [
-    [ "npc_spirit_wardenAI", "d3/deb/a18382.html", "d3/deb/a18382" ],
-    [ "npc_spirit_warden", "d5/d08/a18378.html#ab585d20eadb7876752d731702db44293", null ],
-    [ "GetAI", "d5/d08/a18378.html#ab33ab494d7fee64eed7c75464ce60489", null ]
+    [ "boss_the_lich_kingAI", "d3/deb/a18382.html", "d3/deb/a18382" ],
+    [ "boss_the_lich_king", "d5/d08/a18378.html#a10e2789a98a85907d24eabae6d7655f4", null ],
+    [ "GetAI", "d5/d08/a18378.html#ab12d8cdfdb1c5428423f6db9dda6c97e", null ]
 ];

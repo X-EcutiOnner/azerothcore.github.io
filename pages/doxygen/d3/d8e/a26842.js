@@ -1,7 +1,8 @@
 var a26842 =
 [
-    [ "HandleRemove", "d3/d8e/a26842.html#a0f5a3e4d75dbb5c699ea1acbf89db318", null ],
-    [ "PrepareAuraScript", "d3/d8e/a26842.html#a9e153c86e29a17b0cc20c65c635aa070", null ],
-    [ "Register", "d3/d8e/a26842.html#a338ee9c0eddd309ce2a791160059bad6", null ],
-    [ "Validate", "d3/d8e/a26842.html#ae8272b65a070fc959af003f701567c3c", null ]
+    [ "Apply", "d3/d8e/a26842.html#ac3145df90b6b179fece1c76da114e395", null ],
+    [ "HandleEffectPeriodic", "d3/d8e/a26842.html#a480dd240981f91666e25ea2f1f73e4d7", null ],
+    [ "PrepareAuraScript", "d3/d8e/a26842.html#aa911ba0b5a13a933bf50a072799a040f", null ],
+    [ "Register", "d3/d8e/a26842.html#ae0dff9b5002d3d3361d794a75645057f", null ],
+    [ "Validate", "d3/d8e/a26842.html#ad81184b508474a89fbafc63594ef0ab1", null ]
 ];

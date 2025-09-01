@@ -1,4 +1,5 @@
 var a04442 =
 [
-    [ "LockedQueue< T, StorageType >", "da/dc0/a05392.html", "da/dc0/a05392" ]
+    [ "SmartScript", "df/d41/a06270.html", "df/d41/a06270" ],
+    [ "SmartScript::SmartScriptFrame", "d3/d28/a06274.html", "d3/d28/a06274" ]
 ];

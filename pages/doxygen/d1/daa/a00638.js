@@ -1,17 +1,9 @@
 var a00638 =
 [
-    [ "GuidLinkType", "d1/daa/a00638.html#a7c58fae67eb0c9a1b6f18b403121b2f5", [
-      [ "SPELL_LINK_PLAYER", "d1/daa/a00638.html#a7c58fae67eb0c9a1b6f18b403121b2f5a5d767348c5c4c24512c158282864e028", null ],
-      [ "SPELL_LINK_CREATURE", "d1/daa/a00638.html#a7c58fae67eb0c9a1b6f18b403121b2f5aaed061119fe0e792ab485fd40a360bf8", null ],
-      [ "SPELL_LINK_GAMEOBJECT", "d1/daa/a00638.html#a7c58fae67eb0c9a1b6f18b403121b2f5ad11a1fa40770cd0fbd5f0ef62ee244f7", null ]
-    ] ],
-    [ "SpellLinkType", "d1/daa/a00638.html#a39157073e48b2e925e7227a28d1f09f9", [
-      [ "SPELL_LINK_SPELL", "d1/daa/a00638.html#a39157073e48b2e925e7227a28d1f09f9a2670f404d5b38a26d1bd9e6567f5f2dd", null ],
-      [ "SPELL_LINK_TALENT", "d1/daa/a00638.html#a39157073e48b2e925e7227a28d1f09f9ac802fa91fadd1123dd681fb41e79ba56", null ],
-      [ "SPELL_LINK_ENCHANT", "d1/daa/a00638.html#a39157073e48b2e925e7227a28d1f09f9aea86b74d590ef750d18f0ea02a3a3654", null ],
-      [ "SPELL_LINK_TRADE", "d1/daa/a00638.html#a39157073e48b2e925e7227a28d1f09f9afb3878bf9e3c79264f9b24165df84919", null ],
-      [ "SPELL_LINK_GLYPH", "d1/daa/a00638.html#a39157073e48b2e925e7227a28d1f09f9a4560f8b79d96cfda475bb4ac266a255e", null ]
-    ] ],
-    [ "guidKeys", "d1/daa/a00638.html#ae39447b85bcee503ddb354d2950d638a", null ],
-    [ "spellKeys", "d1/daa/a00638.html#a493fba30c4b66be28baeb971844ea593", null ]
+    [ "OutdoorPvP_hellfire_peninsula", "de/d2d/a22682.html", "de/d2d/a22682" ],
+    [ "AddSC_outdoorpvp_hp", "d1/daa/a00638.html#a69303ad6f661d8c009ee493dc4fd486c", null ],
+    [ "HP_LANG_CAPTURE_A", "d1/daa/a00638.html#a642fe1233b764402bae812604b684442", null ],
+    [ "HP_LANG_CAPTURE_H", "d1/daa/a00638.html#a3ae9bb2c949b7f3c852ce2e4552d8ccd", null ],
+    [ "HP_LANG_LOSE_A", "d1/daa/a00638.html#a1b9adf9c71e549e4545c2e4eabe58dd5", null ],
+    [ "HP_LANG_LOSE_H", "d1/daa/a00638.html#ad62cd8f07ac98311202494985c6ae9c8", null ]
 ];

@@ -1,7 +1,6 @@
 var a26018 =
 [
-    [ "CalculateSpellAmount", "d0/d54/a26018.html#a2f93ff69f30b243fe787d72f78a2d159", null ],
-    [ "CheckCast", "d0/d54/a26018.html#af043f7ee0f80baf667e64225effd57d1", null ],
-    [ "PrepareSpellScript", "d0/d54/a26018.html#a233ac4020722078d865cf980d7fa76cf", null ],
-    [ "Register", "d0/d54/a26018.html#a3648ecd94430e21dd014795156c1eb98", null ]
+    [ "HandleDummy", "d0/d54/a26018.html#a9530db7f75987879285d224fb8381c2b", null ],
+    [ "PrepareSpellScript", "d0/d54/a26018.html#ad1c1bdb577739f769802127960aaf9e5", null ],
+    [ "Register", "d0/d54/a26018.html#ae3a340132caf3f8839631c92015d47a0", null ]
 ];

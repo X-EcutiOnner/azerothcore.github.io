@@ -1,16 +1,11 @@
 var a15554 =
 [
-    [ "npc_anachronos_the_ancientAI", "d4/d00/a15554.html#aad6fbdc3cf33f2deb6dd3cc741e4aec4", null ],
-    [ "HandleAnimation", "d4/d00/a15554.html#a0bd43e2482a12cda79566f761d448109", null ],
-    [ "Reset", "d4/d00/a15554.html#a3bd2380cfd18b14aae1ae72a452299bb", null ],
-    [ "UpdateAI", "d4/d00/a15554.html#a5a55cfec1d204b6657779938e93b6be5", null ],
-    [ "AnachronosQuestTriggerGUID", "d4/d00/a15554.html#aa51b7cdfb2a37310196c81a01f89a7dd", null ],
-    [ "AnimationCount", "d4/d00/a15554.html#a504038880b7e837f63f99d477c8a0bba", null ],
-    [ "AnimationTimer", "d4/d00/a15554.html#a4ca3807429ffa2caca6199ecd66c4015", null ],
-    [ "ArygosGUID", "d4/d00/a15554.html#a4f2917c85d41d3b5015d6eed56fe9e12", null ],
-    [ "CaelestraszGUID", "d4/d00/a15554.html#adceafa1ad19ecb7df59f87b501d4622c", null ],
-    [ "eventEnd", "d4/d00/a15554.html#ad125b9eb7052449a6b75eebde7a192e0", null ],
-    [ "FandralGUID", "d4/d00/a15554.html#a157af7db82bf943c298b63d8294067ce", null ],
-    [ "MerithraGUID", "d4/d00/a15554.html#af7088f79687a4109f5701488e9019aeb", null ],
-    [ "PlayerGUID", "d4/d00/a15554.html#a7e1777ca319e4f6dafc1a035d05dabc0", null ]
+    [ "npc_kerlonianAI", "d4/d00/a15554.html#a0f7a4566ca93a174c92fe10e904af480", null ],
+    [ "ClearSleeping", "d4/d00/a15554.html#aea2815d79da4fa006ea150f052255b9d", null ],
+    [ "MoveInLineOfSight", "d4/d00/a15554.html#a8b0a606510d278f26099a125d583377a", null ],
+    [ "Reset", "d4/d00/a15554.html#a20fac33bf3322ad0caf72ea883680b8d", null ],
+    [ "SetSleeping", "d4/d00/a15554.html#a0e1e6beaa98090d8bf8a17d28a9ee733", null ],
+    [ "SpellHit", "d4/d00/a15554.html#a1df028085cf1cb9e8152cdb70a3d28b1", null ],
+    [ "UpdateFollowerAI", "d4/d00/a15554.html#aa86dc8b3e934ff3297f7316de5420fe6", null ],
+    [ "FallAsleepTimer", "d4/d00/a15554.html#a8cfd8d869f8a313d041d89f8d0daa1bb", null ]
 ];

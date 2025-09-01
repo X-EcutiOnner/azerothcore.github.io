@@ -1,5 +1,6 @@
 var a22122 =
 [
-    [ "npc_guardian_pavilionAI", "db/d17/a22122.html#a2c116495e65c7f97063aa7dc6516f48c", null ],
-    [ "MoveInLineOfSight", "db/d17/a22122.html#aeae26e28be93120062d9f77c069ff32a", null ]
+    [ "CheckRequirement", "db/d17/a22122.html#ad58d71b5c2bc10d9ffbfe472bd5b1a32", null ],
+    [ "PrepareSpellScript", "db/d17/a22122.html#ae621e95feb69b54f9aef5d77577a15ae", null ],
+    [ "Register", "db/d17/a22122.html#ab0b03fd2d1a0ed6720acc45221a582f6", null ]
 ];

@@ -1,5 +1,6 @@
 var a21062 =
 [
-    [ "AreaTrigger_at_celestial_planetarium_enterance", "da/db3/a21062.html#ae1503a754a05a77991d9955a2fb74265", null ],
-    [ "OnTrigger", "da/db3/a21062.html#aa7aa93e00170313de251af4e562c422c", null ]
+    [ "boss_yoggsaron_immortal_guardianAI", "dd/d73/a21066.html", "dd/d73/a21066" ],
+    [ "boss_yoggsaron_immortal_guardian", "da/db3/a21062.html#a4009759d284b54cb958ee0bb80c45f14", null ],
+    [ "GetAI", "da/db3/a21062.html#ac532ca090d93ce6d11a0332329111f2b", null ]
 ];

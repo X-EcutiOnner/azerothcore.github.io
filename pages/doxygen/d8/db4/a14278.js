@@ -1,11 +1,16 @@
 var a14278 =
 [
-    [ "npc_the_biggest_tree", "d8/db4/a14278.html#a7366f46c4864fa0f1372c920b94c6e97", null ],
-    [ "MoveInLineOfSight", "d8/db4/a14278.html#a572c0b146d461b6a8504163452570954", null ],
-    [ "Reset", "d8/db4/a14278.html#a3fd4c5e522e8945925124426a8ff870b", null ],
-    [ "UpdateAI", "d8/db4/a14278.html#a3d1b33ab7cd28de5438f53a00657170a", null ],
-    [ "orphanGUID", "d8/db4/a14278.html#a36c170fb178a19256fd41fb2cbbb7830", null ],
-    [ "phase", "d8/db4/a14278.html#a7101fe10b15ce1779d3d131e597ef636", null ],
-    [ "playerGUID", "d8/db4/a14278.html#ab39af61d9ab7d9f7210f96b65971654d", null ],
-    [ "timer", "d8/db4/a14278.html#a7525783692c3bc9642f534296b71a5f5", null ]
+    [ "boss_renatakiAI", "d8/db4/a14278.html#ac154bfadeb99d67f59e1682de257e8bf", null ],
+    [ "CanAIAttack", "d8/db4/a14278.html#af20dc14dc56500e568a3a11bfb34a227", null ],
+    [ "CanAlwaysBeDetectable", "d8/db4/a14278.html#af75108eacb982586f43a175beede78ef", null ],
+    [ "CanBeSeen", "d8/db4/a14278.html#ac79db0d4488702be0cd12b5e03a9bcb9", null ],
+    [ "CanSeeAlways", "d8/db4/a14278.html#a6e4a1e9bec67a1bdac4c9cef3da4b17d", null ],
+    [ "DamageTaken", "d8/db4/a14278.html#a62d97adb310b55a2235737b854dc4aca", null ],
+    [ "JustEngagedWith", "d8/db4/a14278.html#a72e9a85d2215d3da197d50b6aa0b769e", null ],
+    [ "Reset", "d8/db4/a14278.html#ad50d8e24fb4168186497c5cdb5b39a68", null ],
+    [ "UpdateAI", "d8/db4/a14278.html#a3a1abaef460d9abe1298080080d74c9d", null ],
+    [ "_dynamicFlags", "d8/db4/a14278.html#a502bfa737cf97ae909144278a3e39bd0", null ],
+    [ "_enraged", "d8/db4/a14278.html#a71e717a2ea732729762aff7970439f74", null ],
+    [ "_thousandBladesCount", "d8/db4/a14278.html#a29dd57c66245f30d12f32d31cc25cd55", null ],
+    [ "_thousandBladesTargets", "d8/db4/a14278.html#ab8b2b52a2ef8ea6586381234c9a3e3fc", null ]
 ];

@@ -1,8 +1,8 @@
 var a26290 =
 [
-    [ "HandleDummy", "da/d3a/a26290.html#ae396c96647e36da357bdc70e11e3145f", null ],
-    [ "Load", "da/d3a/a26290.html#a2b4811bf7e60361e13bc382e62173cee", null ],
-    [ "PrepareSpellScript", "da/d3a/a26290.html#ac97d07fb0d964bf3fb29d8bee57fc8e7", null ],
-    [ "Register", "da/d3a/a26290.html#a7c6aa891b012a0e1820fbe67976d68fd", null ],
-    [ "count", "da/d3a/a26290.html#a73358b2272ad12faef006b1ef633cac0", null ]
+    [ "Load", "da/d3a/a26290.html#a7662d85a5469c20edf6d2eefca820db3", null ],
+    [ "PrepareAuraScript", "da/d3a/a26290.html#a252bd975a7639eab4e151249db974b7c", null ],
+    [ "Register", "da/d3a/a26290.html#a51723a22f1062f44e8eb6848e1398595", null ],
+    [ "Split", "da/d3a/a26290.html#a08e982eae6030fdc679663bfd38bca47", null ],
+    [ "remainingAmount", "da/d3a/a26290.html#afaab88988769ddc720deb44f06de3d7d", null ]
 ];

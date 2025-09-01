@@ -1,8 +1,6 @@
 var a27490 =
 [
-    [ "npc_franklinAI", "dd/db9/a27494.html", "dd/db9/a27494" ],
-    [ "npc_franklin", "d7/dab/a27490.html#aab059dfa69e52083892e3170c8838e0a", null ],
-    [ "GetAI", "d7/dab/a27490.html#a10933878afe9d0cc78fa1113341fd522", null ],
-    [ "OnGossipHello", "d7/dab/a27490.html#a318d512914b135800caabe0efbb1c467", null ],
-    [ "OnGossipSelect", "d7/dab/a27490.html#a8c37ff7ff15cc9ac49dadabd1650964d", null ]
+    [ "go_bashir_crystalforge", "d7/dab/a27490.html#a8b68a63933e14d82198580912fddc280", null ],
+    [ "OnGossipHello", "d7/dab/a27490.html#a4aa941ae78a17eecc5593d6ccd17ff63", null ],
+    [ "OnGossipSelect", "d7/dab/a27490.html#ac7e1b6db4ae2bee766b95049a8b0c320", null ]
 ];

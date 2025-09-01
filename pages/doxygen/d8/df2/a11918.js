@@ -1,6 +1,12 @@
 var a11918 =
 [
-    [ "boss_general_angerforgeAI", "d8/de7/a11922.html", "d8/de7/a11922" ],
-    [ "boss_general_angerforge", "d8/df2/a11918.html#a00c94097831dc52d31505f312a04f562", null ],
-    [ "GetAI", "d8/df2/a11918.html#ac3f3b26bf2c6745bb9ab23c7ff1484ae", null ]
+    [ "wp_commandscript", "d8/df2/a11918.html#a152610b5faf3ee05bb830bbf820b7162", null ],
+    [ "GetCommands", "d8/df2/a11918.html#a55ecc8d67d7c240df1b177f755fc5850", null ],
+    [ "HandleWpAddCommand", "d8/df2/a11918.html#adedc9b5184e1c29edfa80734e59b8bf0", null ],
+    [ "HandleWpEventCommand", "d8/df2/a11918.html#a16fdb79724677307198ccf2fd6aa670d", null ],
+    [ "HandleWpLoadCommand", "d8/df2/a11918.html#a3fae6e6c16f1f6ed1e9dc9da716d064d", null ],
+    [ "HandleWpModifyCommand", "d8/df2/a11918.html#a83677a6b64c3e5f6e44345026775721a", null ],
+    [ "HandleWpReloadCommand", "d8/df2/a11918.html#a671598d3727fa7e9358391008c690cb6", null ],
+    [ "HandleWpShowCommand", "d8/df2/a11918.html#ac07358385858058e3df99bd0dd9ab5c1", null ],
+    [ "HandleWpUnLoadCommand", "d8/df2/a11918.html#a8e0f636c31f69acf5b9b0b27e9a9462e", null ]
 ];

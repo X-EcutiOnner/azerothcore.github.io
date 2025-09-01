@@ -1,6 +1,6 @@
 var a18030 =
 [
-    [ "boss_sindragosaAI", "de/d09/a18034.html", "de/d09/a18034" ],
-    [ "boss_sindragosa", "de/d30/a18030.html#af5cdf4798b8b87467fa45dbda7fcbee1", null ],
-    [ "GetAI", "de/d30/a18030.html#a005a6da9f4f9690416a108872b3c2b36", null ]
+    [ "npc_gas_cloudAI", "de/d09/a18034.html", "de/d09/a18034" ],
+    [ "npc_gas_cloud", "de/d30/a18030.html#a99c887cb8a5cc87bbfca026447368b8e", null ],
+    [ "GetAI", "de/d30/a18030.html#a1c76a148f9c1acec473f102b6a24e3bb", null ]
 ];

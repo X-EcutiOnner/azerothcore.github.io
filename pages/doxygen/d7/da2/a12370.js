@@ -1,7 +1,6 @@
 var a12370 =
 [
-    [ "HandleAfterApply", "d7/da2/a12370.html#a8f55616f861cccf7126f7e1a7c88f3c1", null ],
-    [ "HandleAfterRemove", "d7/da2/a12370.html#a7970613f1668294f29f61c1f10a9ba37", null ],
-    [ "PrepareAuraScript", "d7/da2/a12370.html#aea2f52682e723f8dacfffa20cd0f41a5", null ],
-    [ "Register", "d7/da2/a12370.html#ae38b71adaff3b36f5d7b3007e84e620f", null ]
+    [ "boss_ebonrocAI", "db/da1/a12374.html", "db/da1/a12374" ],
+    [ "boss_ebonroc", "d7/da2/a12370.html#a3f71b5a687ab10a228e560429b8a4709", null ],
+    [ "GetAI", "d7/da2/a12370.html#acf2dc7391e1f642dff3c7f56024aaea5", null ]
 ];

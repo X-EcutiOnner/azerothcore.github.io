@@ -1,9 +1,12 @@
 var a11082 =
 [
-    [ "SpellEvent", "d6/d53/a11082.html#abca64eb7d39df9788cef9df7e8634368", null ],
-    [ "~SpellEvent", "d6/d53/a11082.html#a01f8ea354ef70d0a2ee7b88b8dd9f68e", null ],
-    [ "Abort", "d6/d53/a11082.html#ac21656467ae71def45fd78b9d1fa1c30", null ],
-    [ "Execute", "d6/d53/a11082.html#ac8158bfbe916ff6207b2f6608308ae24", null ],
-    [ "IsDeletable", "d6/d53/a11082.html#a2ecd9b31bacc717cc509eb9bb69c3cb3", null ],
-    [ "m_Spell", "d6/d53/a11082.html#a22cce1d722f5086932ae3e97c58d2921", null ]
+    [ "Build", "d6/d53/a11082.html#aa5ed2806342a36723f1317105ebc13fa", null ],
+    [ "FormatVersion", "d6/d53/a11082.html#abf0c90aa56c9f74e4139b4a1ead3115e", null ],
+    [ "Locale", "d6/d53/a11082.html#acdcbe4c10ad6143b756638349c185ae5", null ],
+    [ "OptionalDataSize", "d6/d53/a11082.html#a88c79f6e69197e23ce191bcef187c0fe", null ],
+    [ "SessionKey", "d6/d53/a11082.html#aff4e4f46725d72923bac3e197ae7d2e3", null ],
+    [ "Signature", "d6/d53/a11082.html#a34b88d6d83daeee7827176993c152de4", null ],
+    [ "SnifferId", "d6/d53/a11082.html#a95d3f116ef30a096970ee4f3dd10e2ed", null ],
+    [ "SniffStartTicks", "d6/d53/a11082.html#a1884076ea4fe5af08964471d0058fd4d", null ],
+    [ "SniffStartUnixtime", "d6/d53/a11082.html#a8923983e21b7a7f1dd3ee4f21b7df592", null ]
 ];

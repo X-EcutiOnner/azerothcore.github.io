@@ -1,6 +1,9 @@
 var a24210 =
 [
-    [ "npc_lord_illidan_stormrageAI", "d9/d55/a24214.html", "d9/d55/a24214" ],
-    [ "npc_lord_illidan_stormrage", "d6/d15/a24210.html#ad2f213749e170ec4f9903396d132f5f3", null ],
-    [ "GetAI", "d6/d15/a24210.html#a9aaedc4326b90621965dad522f4af897", null ]
+    [ "npc_fel_guard_houndAI", "d6/d15/a24210.html#af8b3a9b56e4bdf8d8b654ecccd096651", null ],
+    [ "MovementInform", "d6/d15/a24210.html#a127a0d7b61fde64c0ced52192f438f12", null ],
+    [ "Reset", "d6/d15/a24210.html#ab979c3602897b1148ffd5d4a81941197", null ],
+    [ "UpdateAI", "d6/d15/a24210.html#a97a59eec672d7dfe36264d34b922d0c8", null ],
+    [ "checkTimer", "d6/d15/a24210.html#ad22bb6efafb4396cd0137c1384240029", null ],
+    [ "helboarGUID", "d6/d15/a24210.html#aadcf9b51dbcaa1e62b6619b89d865814", null ]
 ];

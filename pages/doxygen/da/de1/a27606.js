@@ -1,7 +1,10 @@
 var a27606 =
 [
-    [ "npc_steam_tonkAI", "da/de1/a27606.html#a64bc74af412304d50526e5c93e01a333", null ],
-    [ "JustEngagedWith", "da/de1/a27606.html#a95b023adf0a2e62788e0d5646b17b319", null ],
-    [ "OnPossess", "da/de1/a27606.html#a954208c1a9826ae84a7402f59e1d7055", null ],
-    [ "Reset", "da/de1/a27606.html#a5c76625843b30302b2af0a4ae8b85bd2", null ]
+    [ "npc_prof_alchemy", "da/de1/a27606.html#a43ea842214fc507c34586d12df8f7fea", null ],
+    [ "HasAlchemySpell", "da/de1/a27606.html#ac9df824e0923ca86189a53ae391b43c0", null ],
+    [ "OnGossipHello", "da/de1/a27606.html#add760c538c7882e1ad8331b8ded74f5c", null ],
+    [ "OnGossipSelect", "da/de1/a27606.html#a2377df97a293fb3fcbe7f70d4d815b75", null ],
+    [ "SendActionMenu", "da/de1/a27606.html#a2d4c7337b40be323a384a9e755fc3145", null ],
+    [ "SendConfirmLearn", "da/de1/a27606.html#a548224b30494636b9ee292a533fc7b39", null ],
+    [ "SendConfirmUnlearn", "da/de1/a27606.html#ae4c861cf383f39d2e5ceebc9be4b568c", null ]
 ];

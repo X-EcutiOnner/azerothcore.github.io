@@ -1,5 +1,7 @@
 var a18730 =
 [
-    [ "at_icc_shutdown_traps", "d9/d5f/a18730.html#aa13f5d78d3032e8114e9978f42468f64", null ],
-    [ "OnTrigger", "d9/d5f/a18730.html#abb31b3f6d0b159b625d731ac47127005", null ]
+    [ "PeriodicTick", "d9/d5f/a18730.html#ac1bace4fc66349364c84b5784967e9bf", null ],
+    [ "PrepareAuraScript", "d9/d5f/a18730.html#a358193e3340112c04f79c043548c3de0", null ],
+    [ "Register", "d9/d5f/a18730.html#a28f52bc253899aa407e67f9a089c815c", null ],
+    [ "Validate", "d9/d5f/a18730.html#a0dde3447e38e45cea94df44449a19a01", null ]
 ];

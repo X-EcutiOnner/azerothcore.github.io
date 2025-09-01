@@ -1,8 +1,9 @@
 var a04954 =
 [
-    [ "AreaInfo", "d2/d68/a04954.html#a5cff768781236ef358e8864269d739e4", null ],
-    [ "adtId", "d2/d68/a04954.html#a6e13cfcbd4aa9c36fb80be7913640730", null ],
-    [ "groupId", "d2/d68/a04954.html#ae0e0518b31f3a16121bf3abd0770eb57", null ],
-    [ "mogpFlags", "d2/d68/a04954.html#ace485f0168c41ce50c78c782dd6301fd", null ],
-    [ "rootId", "d2/d68/a04954.html#a225d78ba13f20c147b92c6dfac1b37ad", null ]
+    [ "DynamicTreeIntersectionCallback", "d2/d68/a04954.html#a77d71c68e20f4d19059317b307c27441", null ],
+    [ "didHit", "d2/d68/a04954.html#a616d15c3cce00574d604591bc8af4140", null ],
+    [ "operator()", "d2/d68/a04954.html#a9927d15de557ef58b7e4046e830f8dad", null ],
+    [ "_didHit", "d2/d68/a04954.html#a1805d508be79660d90f991e4453c2c9a", null ],
+    [ "_ignoreFlags", "d2/d68/a04954.html#a6559c66c8451c32078187a1c43b3a85e", null ],
+    [ "_phaseMask", "d2/d68/a04954.html#a52e7470145db9cc4c2369024fbf7bbb8", null ]
 ];

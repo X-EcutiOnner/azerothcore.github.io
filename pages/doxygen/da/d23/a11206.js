@@ -1,13 +1,12 @@
 var a11206 =
 [
-    [ "PetAuraMap", "da/d23/a11206.html#a6c020340ff467b5f2d00c3b5f9fee817", null ],
-    [ "PetAura", "da/d23/a11206.html#a8cd7e3284837b30a8a3c6739ab5cb9b3", null ],
-    [ "PetAura", "da/d23/a11206.html#a79a2f086e2d8dbe1af47716b53df0524", null ],
-    [ "AddAura", "da/d23/a11206.html#ae33bb99ab341f66fb2f296ccd6617e63", null ],
-    [ "GetAura", "da/d23/a11206.html#a6f8318410229a89e0b3aa2af28d6cb2b", null ],
-    [ "GetDamage", "da/d23/a11206.html#a38087712cef92ad55dc84f96e2b9e300", null ],
-    [ "IsRemovedOnChangePet", "da/d23/a11206.html#adc1b329e1f303b5ad3f353abb4343cdf", null ],
-    [ "auras", "da/d23/a11206.html#abacd738dfb04687810b981297b1a1567", null ],
-    [ "damage", "da/d23/a11206.html#a216021a7ad893ae6ca65ea068dd6eedb", null ],
-    [ "removeOnChangePet", "da/d23/a11206.html#aa5b3219cd2021341ce0910dce81d8b56", null ]
+    [ "UnitAura", "da/d23/a11206.html#ada4033955271dfb21d16a95b316087f5", null ],
+    [ "_ApplyForTarget", "da/d23/a11206.html#a920549cf55c8def37149b00ae971127d", null ],
+    [ "_UnapplyForTarget", "da/d23/a11206.html#af4d453cee6758e633bdcae0049581898", null ],
+    [ "FillTargetMap", "da/d23/a11206.html#add5ce04446338e078c5986420abfd16e", null ],
+    [ "GetDiminishGroup", "da/d23/a11206.html#a8ebf7b01e7f324938f68ad4ce74d56b5", null ],
+    [ "Remove", "da/d23/a11206.html#a28f714404942bb5c614ac844cf937546", null ],
+    [ "SetDiminishGroup", "da/d23/a11206.html#a6d858a153c5d3046574f3387ab852050", null ],
+    [ "Aura::Create", "da/d23/a11206.html#ae2c0fdfb409846fec5e861de60797112", null ],
+    [ "m_AuraDRGroup", "da/d23/a11206.html#a4b413c5e62eee76875a22345059e6124", null ]
 ];

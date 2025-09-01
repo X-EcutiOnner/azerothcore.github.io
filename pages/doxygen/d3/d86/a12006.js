@@ -1,6 +1,11 @@
 var a12006 =
 [
-    [ "instance_blackrock_depths_InstanceMapScript", "dd/dbc/a12010.html", "dd/dbc/a12010" ],
-    [ "instance_blackrock_depths", "d3/d86/a12006.html#a8d906bdb520b2c7907b94b0e22b5cdf4", null ],
-    [ "GetInstanceScript", "d3/d86/a12006.html#af8f8c9929cae50c098efc5a0dbdd727a", null ]
+    [ "npc_rocknotAI", "d3/d86/a12006.html#a4daa5104eabb6d38c22274b48a8514be", null ],
+    [ "DoGo", "d3/d86/a12006.html#a7591520e06782feddb98a86107fbcb27", null ],
+    [ "Reset", "d3/d86/a12006.html#a4d855a23c638e835de6f1c4644350166", null ],
+    [ "UpdateAI", "d3/d86/a12006.html#a1d3bce3248766393be5f84c5ca5030b1", null ],
+    [ "WaypointReached", "d3/d86/a12006.html#ae7d6f0b1e52767c61ad014accb1cec7a", null ],
+    [ "BreakDoor_Timer", "d3/d86/a12006.html#a3ae6edef4812fd3161c3b8ad5aa5cac2", null ],
+    [ "BreakKeg_Timer", "d3/d86/a12006.html#a6f380ad58cf55fe2ea9fc1f56118b454", null ],
+    [ "instance", "d3/d86/a12006.html#a4328c25f12f562cfdf41740e908cb3bd", null ]
 ];

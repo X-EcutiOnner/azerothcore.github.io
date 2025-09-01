@@ -1,5 +1,6 @@
 var a22474 =
 [
-    [ "OutdoorPvP_eastern_plaguelands", "de/d43/a22474.html#a5178152ee493eb90b1c1c0f611c6cd92", null ],
-    [ "GetOutdoorPvP", "de/d43/a22474.html#abc4e99dfa8a600ef578b77ffc3956ada", null ]
+    [ "npc_icefangAI", "d6/d75/a22478.html", "d6/d75/a22478" ],
+    [ "npc_icefang", "de/d43/a22474.html#a2e13be89b110abaa2509e597e4cf883a", null ],
+    [ "GetAI", "de/d43/a22474.html#ad1a936b1eef30271912054a817e0c9f8", null ]
 ];

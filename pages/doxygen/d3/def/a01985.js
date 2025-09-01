@@ -1,8 +1,5 @@
 var a01985 =
 [
-    [ "WorldPackets::Bank::AutoBankItem", "dc/dce/a10468.html", "dc/dce/a10468" ],
-    [ "WorldPackets::Bank::AutoStoreBankItem", "d4/d25/a10472.html", "d4/d25/a10472" ],
-    [ "WorldPackets::Bank::BuyBankSlot", "d6/d30/a10476.html", "d6/d30/a10476" ],
-    [ "WorldPackets::Bank::BuyBankSlotResult", "d5/d94/a10480.html", "d5/d94/a10480" ],
-    [ "WorldPackets::Bank::ShowBank", "d3/de2/a10484.html", "d3/de2/a10484" ]
+    [ "item_commandscript", "d6/d02/a11810.html", "d6/d02/a11810" ],
+    [ "AddSC_item_commandscript", "d3/def/a01985.html#ad129450eb89b9c3e5c98717b2c44de8e", null ]
 ];

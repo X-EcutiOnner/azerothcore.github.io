@@ -1,6 +1,6 @@
 var a16514 =
 [
-    [ "boss_jaraxxusAI", "d6/dff/a16518.html", "d6/dff/a16518" ],
-    [ "boss_jaraxxus", "dc/d25/a16514.html#a82cf0601aa16893d88d9b669a6d1fc72", null ],
-    [ "GetAI", "dc/d25/a16514.html#a518f7af9f86ab995e5195175b5a34bc6", null ]
+    [ "npc_frost_sphereAI", "d6/dff/a16518.html", "d6/dff/a16518" ],
+    [ "npc_frost_sphere", "dc/d25/a16514.html#a0256ba1c53853307f8b66e22b10bef24", null ],
+    [ "GetAI", "dc/d25/a16514.html#a3e6de3551306fb4c35aabbd4fc656ee6", null ]
 ];

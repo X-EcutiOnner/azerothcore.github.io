@@ -1,10 +1,9 @@
 var a14066 =
 [
-    [ "npc_vilebranch_speaker", "d9/d1d/a14066.html#acd8dfc95c5969fe67e1386d5dbd5884b", null ],
-    [ "JustDied", "d9/d1d/a14066.html#aa7708f176879db3acd50399b74e4a90c", null ],
-    [ "JustEngagedWith", "d9/d1d/a14066.html#a236afb8512c2d941479f8a7c18f688a6", null ],
-    [ "Reset", "d9/d1d/a14066.html#a248195a137cb91f10a882ec12974c7c5", null ],
-    [ "UpdateAI", "d9/d1d/a14066.html#a75f263fa9241319b58bf77cbf1b75088", null ],
-    [ "_scheduler", "d9/d1d/a14066.html#abd52bbd2ce88b011176d93ae92b851d0", null ],
-    [ "instance", "d9/d1d/a14066.html#a88fb28d2c39f0da967ab6706872e68b2", null ]
+    [ "npc_amanishi_lookout", "d9/d1d/a14066.html#adf34c160c531164a459092f45588a7be", null ],
+    [ "DoAction", "d9/d1d/a14066.html#ab43e3372000af268c81e2701070e1b03", null ],
+    [ "MoveInLineOfSight", "d9/d1d/a14066.html#ab94c8563d7c79279ed4922f1d0411ec9", null ],
+    [ "MovementInform", "d9/d1d/a14066.html#ae9e6d22a781392107a7e50e5815c116c", null ],
+    [ "Reset", "d9/d1d/a14066.html#a42f8e96876f07e37fc4533b7eb732db3", null ],
+    [ "_instance", "d9/d1d/a14066.html#ab1557ad1a2cc6574c200ef691596b0c6", null ]
 ];

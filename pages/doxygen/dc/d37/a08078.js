@@ -1,10 +1,11 @@
 var a08078 =
 [
-    [ "FormationMgr", "dc/d37/a08078.html#ade1aa22473c112aed65d537929b07908", null ],
-    [ "~FormationMgr", "dc/d37/a08078.html#a8f3ee00e25ebacfb71b71b9e7d63f6e0", null ],
-    [ "AddCreatureToGroup", "dc/d37/a08078.html#aef758bdbc8f93c8981aedd51d7e10a07", null ],
-    [ "instance", "dc/d37/a08078.html#a871fec234a94e4adae07315a008acec3", null ],
-    [ "LoadCreatureFormations", "dc/d37/a08078.html#af0ecde62fc5c4a3a2b3be16c58f51fde", null ],
-    [ "RemoveCreatureFromGroup", "dc/d37/a08078.html#a6ecac2b9dcdc8db2cd7a0bd1be0fd364", null ],
-    [ "CreatureGroupMap", "dc/d37/a08078.html#ac11a3dfbe6a4f7df01d966f14b0aecd9", null ]
+    [ "AddItem", "dc/d37/a08078.html#a46f6533323fd15632c3f9a8b96ef6f3f", null ],
+    [ "Clear", "dc/d37/a08078.html#a70c7400c4bc60923fd538890774445de", null ],
+    [ "Empty", "dc/d37/a08078.html#ab55fa73ab327294de2c5f6906fc1fbdb", null ],
+    [ "FindItemCostPair", "dc/d37/a08078.html#a61dc4394afdd3a360559ffec1655c343", null ],
+    [ "GetItem", "dc/d37/a08078.html#aa764da5b4647c84813e3aa6b46de7593", null ],
+    [ "GetItemCount", "dc/d37/a08078.html#ae80634592ce705c77c5aa53960f89c24", null ],
+    [ "RemoveItem", "dc/d37/a08078.html#a974925f2979910348a0af795893b310b", null ],
+    [ "m_items", "dc/d37/a08078.html#aa16668e54fce8fffe8651644cdef4335", null ]
 ];

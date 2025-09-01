@@ -1,9 +1,10 @@
 var a27554 =
 [
-    [ "npc_chicken_cluckAI", "d2/da6/a27554.html#a4f2eaa107e2a8b4900fac54780ac9693", null ],
-    [ "JustEngagedWith", "d2/da6/a27554.html#a854eae196c68cb1e4dd1c1773870ef9a", null ],
-    [ "ReceiveEmote", "d2/da6/a27554.html#aa5d6d3ea3ad4d0f81781581a39933fc8", null ],
-    [ "Reset", "d2/da6/a27554.html#a5a32f458a7f09282e7ac53fa7d6255b4", null ],
-    [ "UpdateAI", "d2/da6/a27554.html#a86c8f74d0a55b9a041a789f16de8189d", null ],
-    [ "ResetFlagTimer", "d2/da6/a27554.html#a0d0507ae7a1eca369df288515856e1b5", null ]
+    [ "guard_shattrath_scryerAI", "d2/da6/a27554.html#a97accbf467ca1190f8a05512b3857164", null ],
+    [ "Reset", "d2/da6/a27554.html#adfcd8bce42148d303fe6ec9b615ffdb1", null ],
+    [ "UpdateAI", "d2/da6/a27554.html#ad759cca08b0093522e190ddc038e2c73", null ],
+    [ "banishTimer", "d2/da6/a27554.html#aa9aa3c2e7e69df5899c84ebde1e357bd", null ],
+    [ "canTeleport", "d2/da6/a27554.html#a84188b40b44deae5714466bb23bf2f0d", null ],
+    [ "exileTimer", "d2/da6/a27554.html#a97fbc3f54c23049fd91ad432cd560698", null ],
+    [ "playerGUID", "d2/da6/a27554.html#adb40d8bbc97a6a1fa0f4e303db470db2", null ]
 ];

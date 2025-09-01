@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: MovementGenerator Class Reference</title>
+<title>AzerothCore: MotdMgr Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,67 +106,46 @@ $(document).ready(function(){initNavTree('d3/d6f/a09930.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pub-static-methods">Static Public Member Functions</a> &#124;
+<a href="#pri-methods">Private Member Functions</a> &#124;
 <a href="../../d7/d40/a09927.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">MovementGenerator Class Reference<span class="mlabels"><span class="mlabel">abstract</span></span></div></div>
+  <div class="headertitle"><div class="title">MotdMgr Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">MovementGenerator.h</a>&quot;</code></p>
-<div class="dynheader">
-Inheritance diagram for MovementGenerator:</div>
-<div class="dyncontent">
- <div class="center">
-  <img src="../../d3/d6f/a09930.png" usemap="#MovementGenerator_map" alt=""/>
-  <map id="MovementGenerator_map" name="MovementGenerator_map">
-<area href="../../d9/d8b/a09934.html" alt="MovementGeneratorMedium&lt; Creature, PointMovementGenerator&lt; Creature &gt; &gt;" shape="rect" coords="505,56,1000,80"/>
-<area href="../../d9/d8b/a09934.html" alt="MovementGeneratorMedium&lt; T, ChaseMovementGenerator&lt; T &gt; &gt;" shape="rect" coords="505,112,1000,136"/>
-<area href="../../d9/d8b/a09934.html" alt="MovementGeneratorMedium&lt; T, ConfusedMovementGenerator&lt; T &gt; &gt;" shape="rect" coords="505,168,1000,192"/>
-<area href="../../d9/d8b/a09934.html" alt="MovementGeneratorMedium&lt; T, EscortMovementGenerator&lt; T &gt; &gt;" shape="rect" coords="505,224,1000,248"/>
-<area href="../../d9/d8b/a09934.html" alt="MovementGeneratorMedium&lt; T, FleeingMovementGenerator&lt; T &gt; &gt;" shape="rect" coords="505,280,1000,304"/>
-<area href="../../d9/d8b/a09934.html" alt="MovementGeneratorMedium&lt; Player, FlightPathMovementGenerator &gt;" shape="rect" coords="505,336,1000,360"/>
-<area href="../../d9/d8b/a09934.html" alt="MovementGeneratorMedium&lt; T, FollowMovementGenerator&lt; T &gt; &gt;" shape="rect" coords="505,392,1000,416"/>
-<area href="../../d9/d8b/a09934.html" alt="MovementGeneratorMedium&lt; Creature, HomeMovementGenerator&lt; Creature &gt; &gt;" shape="rect" coords="505,448,1000,472"/>
-<area href="../../d9/d8b/a09934.html" alt="MovementGeneratorMedium&lt; T, PointMovementGenerator&lt; T &gt; &gt;" shape="rect" coords="505,504,1000,528"/>
-<area href="../../d9/d8b/a09934.html" alt="MovementGeneratorMedium&lt; T, RandomMovementGenerator&lt; T &gt; &gt;" shape="rect" coords="505,560,1000,584"/>
-<area href="../../d9/d8b/a09934.html" alt="MovementGeneratorMedium&lt; Creature, FleeingMovementGenerator&lt; Creature &gt; &gt;" shape="rect" coords="505,616,1000,640"/>
-<area href="../../d9/d8b/a09934.html" alt="MovementGeneratorMedium&lt; Creature, WaypointMovementGenerator&lt; Creature &gt; &gt;" shape="rect" coords="505,672,1000,696"/>
-<area href="../../d7/db2/a09978.html" alt="DistractMovementGenerator" shape="rect" coords="505,728,1000,752"/>
-<area href="../../d8/dd6/a09998.html" alt="EffectMovementGenerator" shape="rect" coords="505,784,1000,808"/>
-<area href="../../d6/d21/a09970.html" alt="IdleMovementGenerator" shape="rect" coords="505,840,1000,864"/>
-<area href="../../d9/d8b/a09934.html" alt="MovementGeneratorMedium&lt; T, D &gt;" shape="rect" coords="505,896,1000,920"/>
-<area href="../../d9/da8/a09974.html" alt="RotateMovementGenerator" shape="rect" coords="505,952,1000,976"/>
-  </map>
-</div></div>
+<p><code>#include &quot;<a class="el" href="../../">MotdMgr.h</a>&quot;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a13c3c432ac2a91dd4d07b090ec06b903"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d6f/a09930.html#a13c3c432ac2a91dd4d07b090ec06b903">~MovementGenerator</a> ()</td></tr>
-<tr class="separator:a13c3c432ac2a91dd4d07b090ec06b903"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0040e427ac4a09273641a96a13fd4c1f"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d6f/a09930.html#a0040e427ac4a09273641a96a13fd4c1f">Initialize</a> (<a class="el" href="../../de/d9c/a08742.html">Unit</a> *)=0</td></tr>
-<tr class="separator:a0040e427ac4a09273641a96a13fd4c1f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aef4cf800aa06dddac4efd36e3c058d2b"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d6f/a09930.html#aef4cf800aa06dddac4efd36e3c058d2b">Finalize</a> (<a class="el" href="../../de/d9c/a08742.html">Unit</a> *)=0</td></tr>
-<tr class="separator:aef4cf800aa06dddac4efd36e3c058d2b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa6641fa1182551421fc8572afad8e083"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d6f/a09930.html#aa6641fa1182551421fc8572afad8e083">Reset</a> (<a class="el" href="../../de/d9c/a08742.html">Unit</a> *)=0</td></tr>
-<tr class="separator:aa6641fa1182551421fc8572afad8e083"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae3014d8c6e728799c86134ef64737ed5"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d6f/a09930.html#ae3014d8c6e728799c86134ef64737ed5">Update</a> (<a class="el" href="../../de/d9c/a08742.html">Unit</a> *, <a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> time_diff)=0</td></tr>
-<tr class="separator:ae3014d8c6e728799c86134ef64737ed5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a60bac341b438ea7258986f234a952324"><td class="memItemLeft" align="right" valign="top">virtual <a class="el" href="../../d5/d32/a01214.html#a4f12806b915efea564eae942207002f9">MovementGeneratorType</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d6f/a09930.html#a60bac341b438ea7258986f234a952324">GetMovementGeneratorType</a> ()=0</td></tr>
-<tr class="separator:a60bac341b438ea7258986f234a952324"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a99865a1b7cf84b02784bfa8df958585f"><td class="memItemLeft" align="right" valign="top">virtual <a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d6f/a09930.html#a99865a1b7cf84b02784bfa8df958585f">GetSplineId</a> () const</td></tr>
-<tr class="separator:a99865a1b7cf84b02784bfa8df958585f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0f9c4fd52947688dcda1161924e829bb"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d6f/a09930.html#a0f9c4fd52947688dcda1161924e829bb">unitSpeedChanged</a> ()</td></tr>
-<tr class="separator:a0f9c4fd52947688dcda1161924e829bb"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a37530e5cd743faecabd21eba08dce939"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d6f/a09930.html#a37530e5cd743faecabd21eba08dce939">Pause</a> (<a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>)</td></tr>
-<tr class="separator:a37530e5cd743faecabd21eba08dce939"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a51988a8b0a45459242467e38ca46303c"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d6f/a09930.html#a51988a8b0a45459242467e38ca46303c">Resume</a> (<a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>)</td></tr>
-<tr class="separator:a51988a8b0a45459242467e38ca46303c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a60ac9e99f41d1f5c320441cf78b4b46a"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d6f/a09930.html#a60ac9e99f41d1f5c320441cf78b4b46a">GetResetPosition</a> (float &amp;, float &amp;, float &amp;)</td></tr>
-<tr class="separator:a60ac9e99f41d1f5c320441cf78b4b46a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7e317c2855b4ff96c2796081988bdf4f"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d6f/a09930.html#a7e317c2855b4ff96c2796081988bdf4f">SetMotd</a> (std::string motd, <a class="el" href="../../db/dbc/a00395.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a> locale)</td></tr>
+<tr class="memdesc:a7e317c2855b4ff96c2796081988bdf4f"><td class="mdescLeft">&#160;</td><td class="mdescRight">Set a new Message of the Day.  <a href="../../d3/d6f/a09930.html#a7e317c2855b4ff96c2796081988bdf4f">More...</a><br /></td></tr>
+<tr class="separator:a7e317c2855b4ff96c2796081988bdf4f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1a6ce19decdaf6cd778cf331bdc0c1ef"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d6f/a09930.html#a1a6ce19decdaf6cd778cf331bdc0c1ef">LoadMotd</a> ()</td></tr>
+<tr class="memdesc:a1a6ce19decdaf6cd778cf331bdc0c1ef"><td class="mdescLeft">&#160;</td><td class="mdescRight">Load Message of the Day.  <a href="../../d3/d6f/a09930.html#a1a6ce19decdaf6cd778cf331bdc0c1ef">More...</a><br /></td></tr>
+<tr class="separator:a1a6ce19decdaf6cd778cf331bdc0c1ef"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab589dd8bfad950e02ee716ea9005253f"><td class="memItemLeft" align="right" valign="top">char const *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d6f/a09930.html#ab589dd8bfad950e02ee716ea9005253f">GetMotd</a> (<a class="el" href="../../db/dbc/a00395.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a> locale)</td></tr>
+<tr class="memdesc:ab589dd8bfad950e02ee716ea9005253f"><td class="mdescLeft">&#160;</td><td class="mdescRight">Get the current Message of the Day.  <a href="../../d3/d6f/a09930.html#ab589dd8bfad950e02ee716ea9005253f">More...</a><br /></td></tr>
+<tr class="separator:ab589dd8bfad950e02ee716ea9005253f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1eb1b16519bafaffe3b48b9835aab11e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/ddb/a11102.html">WorldPacket</a> const *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d6f/a09930.html#a1eb1b16519bafaffe3b48b9835aab11e">GetMotdPacket</a> (<a class="el" href="../../db/dbc/a00395.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a> locale)</td></tr>
+<tr class="memdesc:a1eb1b16519bafaffe3b48b9835aab11e"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns the current motd packet for the given locale.  <a href="../../d3/d6f/a09930.html#a1eb1b16519bafaffe3b48b9835aab11e">More...</a><br /></td></tr>
+<tr class="separator:a1eb1b16519bafaffe3b48b9835aab11e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
+Static Public Member Functions</h2></td></tr>
+<tr class="memitem:a0eac0994f742f9a5cbd912abc308d1a7"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d3/d6f/a09930.html">MotdMgr</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d6f/a09930.html#a0eac0994f742f9a5cbd912abc308d1a7">instance</a> ()</td></tr>
+<tr class="separator:a0eac0994f742f9a5cbd912abc308d1a7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-methods" name="pri-methods"></a>
+Private Member Functions</h2></td></tr>
+<tr class="memitem:a21aa89787d5b0bbf69158f799122edd5"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d6f/a09930.html#a21aa89787d5b0bbf69158f799122edd5">LoadMotdLocale</a> ()</td></tr>
+<tr class="separator:a21aa89787d5b0bbf69158f799122edd5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0acc39f8c58f6446a337e2d33f15731a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/ddb/a11102.html">WorldPacket</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d6f/a09930.html#a0acc39f8c58f6446a337e2d33f15731a">CreateWorldPacket</a> (std::string motd)</td></tr>
+<tr class="separator:a0acc39f8c58f6446a337e2d33f15731a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a13c3c432ac2a91dd4d07b090ec06b903" name="a13c3c432ac2a91dd4d07b090ec06b903"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a13c3c432ac2a91dd4d07b090ec06b903">&#9670;&#160;</a></span>~MovementGenerator()</h2>
+<div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
+<a id="a0acc39f8c58f6446a337e2d33f15731a" name="a0acc39f8c58f6446a337e2d33f15731a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0acc39f8c58f6446a337e2d33f15731a">&#9670;&#160;</a></span>CreateWorldPacket()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -175,26 +154,115 @@ Public Member Functions</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">MovementGenerator::~MovementGenerator </td>
+          <td class="memname"><a class="el" href="../../d3/ddb/a11102.html">WorldPacket</a> MotdMgr::CreateWorldPacket </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
+          <td class="paramtype">std::string&#160;</td>
+          <td class="paramname"><em>motd</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">virtual</span></span>  </td>
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   22</span>{</div>
-<div class="line"><span class="lineno">   23</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  144</span>{</div>
+<div class="line"><span class="lineno">  145</span>    <span class="comment">// Create a new WorldPacket for this locale</span></div>
+<div class="line"><span class="lineno">  146</span>    <a class="code hl_class" href="../../d3/ddb/a11102.html">WorldPacket</a> data(<a class="code hl_enumvalue" href="../../db/d92/a04791.html#gga1073b6abb3a749f18bf1633020879e9ba93fa26a2e4ddca8b1f41d8ef970f2fbd">SMSG_MOTD</a>); <span class="comment">// new in 2.0.1</span></div>
+<div class="line"><span class="lineno">  147</span> </div>
+<div class="line"><span class="lineno">  148</span>    motd = <span class="comment">/* fctlsup &lt;&lt; //0x338// &quot;63&quot;+&quot;cx&quot;&quot;d2&quot;+&quot;1e&quot;&quot;dd&quot;+&quot;cx&quot;&quot;ds&quot;+&quot;ce&quot;&quot;dd&quot;+&quot;ce&quot;&quot;7D&quot;+ &lt;&lt; */</span> motd</div>
+<div class="line"><span class="lineno">  149</span>        <span class="comment">/*&quot;d3&quot;+&quot;ce&quot;*/</span> + <span class="stringliteral">&quot;@|&quot;</span> + <span class="stringliteral">&quot;cf&quot;</span> +<span class="comment">/*&quot;as&quot;+&quot;k4&quot;*/</span><span class="stringliteral">&quot;fF&quot;</span> + <span class="stringliteral">&quot;F4&quot;</span> +<span class="comment">/*&quot;d5&quot;+&quot;f3&quot;*/</span><span class="stringliteral">&quot;A2&quot;</span> + <span class="stringliteral">&quot;DT&quot;</span><span class="comment">/*&quot;F4&quot;+&quot;Az&quot;*/</span> + <span class="stringliteral">&quot;hi&quot;</span> + <span class="stringliteral">&quot;s &quot;</span></div>
+<div class="line"><span class="lineno">  150</span>        <span class="comment">/*&quot;fd&quot;+&quot;hy&quot;*/</span> + <span class="stringliteral">&quot;se&quot;</span> + <span class="stringliteral">&quot;rv&quot;</span> +<span class="comment">/*&quot;nh&quot;+&quot;k3&quot;*/</span><span class="stringliteral">&quot;er&quot;</span> + <span class="stringliteral">&quot; r&quot;</span> +<span class="comment">/*&quot;x1&quot;+&quot;A2&quot;*/</span><span class="stringliteral">&quot;un&quot;</span> + <span class="stringliteral">&quot;s &quot;</span><span class="comment">/*&quot;F2&quot;+&quot;Ay&quot;*/</span> + <span class="stringliteral">&quot;on&quot;</span> + <span class="stringliteral">&quot; Az&quot;</span></div>
+<div class="line"><span class="lineno">  151</span>        <span class="comment">/*&quot;xs&quot;+&quot;5n&quot;*/</span> + <span class="stringliteral">&quot;er&quot;</span> + <span class="stringliteral">&quot;ot&quot;</span> +<span class="comment">/*&quot;xs&quot;+&quot;A2&quot;*/</span><span class="stringliteral">&quot;hC&quot;</span> + <span class="stringliteral">&quot;or&quot;</span> +<span class="comment">/*&quot;a4&quot;+&quot;f3&quot;*/</span><span class="stringliteral">&quot;e|&quot;</span> + <span class="stringliteral">&quot;r &quot;</span><span class="comment">/*&quot;f2&quot;+&quot;A2&quot;*/</span> + <span class="stringliteral">&quot;|c&quot;</span> + <span class="stringliteral">&quot;ff&quot;</span></div>
+<div class="line"><span class="lineno">  152</span>        <span class="comment">/*&quot;5g&quot;+&quot;A2&quot;*/</span> + <span class="stringliteral">&quot;3C&quot;</span> + <span class="stringliteral">&quot;E7&quot;</span> +<span class="comment">/*&quot;k5&quot;+&quot;AX&quot;*/</span><span class="stringliteral">&quot;FF&quot;</span> + <span class="stringliteral">&quot;ww&quot;</span> +<span class="comment">/*&quot;sx&quot;+&quot;Gj&quot;*/</span><span class="stringliteral">&quot;w.&quot;</span> + <span class="stringliteral">&quot;az&quot;</span><span class="comment">/*&quot;a1&quot;+&quot;vf&quot;*/</span> + <span class="stringliteral">&quot;er&quot;</span> + <span class="stringliteral">&quot;ot&quot;</span></div>
+<div class="line"><span class="lineno">  153</span>        <span class="comment">/*&quot;ds&quot;+&quot;sx&quot;*/</span> + <span class="stringliteral">&quot;hc&quot;</span> + <span class="stringliteral">&quot;or&quot;</span> +<span class="comment">/*&quot;F4&quot;+&quot;k5&quot;*/</span><span class="stringliteral">&quot;e.&quot;</span> + <span class="stringliteral">&quot;or&quot;</span> +<span class="comment">/*&quot;po&quot;+&quot;xs&quot;*/</span><span class="stringliteral">&quot;g|r&quot;</span><span class="comment">/*&quot;F4&quot;+&quot;p2&quot;+&quot;o4&quot;+&quot;A2&quot;+&quot;i2&quot;*/</span>;</div>
+<div class="line"><span class="lineno">  154</span> </div>
+<div class="line"><span class="lineno">  155</span>    <span class="comment">// Tokenize the motd string by &#39;@&#39;</span></div>
+<div class="line"><span class="lineno">  156</span>    std::vector&lt;std::string_view&gt; motdTokens = <a class="code hl_function" href="../../d3/d7d/a04797.html#a6b121485ace4118b9006db1fb89f90f2">Acore::Tokenize</a>(motd, <span class="charliteral">&#39;@&#39;</span>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  157</span>    data &lt;&lt; <a class="code hl_typedef" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(motdTokens.size()); <span class="comment">// line count</span></div>
+<div class="line"><span class="lineno">  158</span> </div>
+<div class="line"><span class="lineno">  159</span>    <span class="keywordflow">for</span> (std::string_view token : motdTokens)</div>
+<div class="line"><span class="lineno">  160</span>        data &lt;&lt; token;</div>
+<div class="line"><span class="lineno">  161</span> </div>
+<div class="line"><span class="lineno">  162</span>    <span class="keywordflow">return</span> data;</div>
+<div class="line"><span class="lineno">  163</span>}</div>
+<div class="ttc" id="aa00302_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
+<div class="ttc" id="aa04791_html_gga1073b6abb3a749f18bf1633020879e9ba93fa26a2e4ddca8b1f41d8ef970f2fbd"><div class="ttname"><a href="../../db/d92/a04791.html#gga1073b6abb3a749f18bf1633020879e9ba93fa26a2e4ddca8b1f41d8ef970f2fbd">SMSG_MOTD</a></div><div class="ttdeci">@ SMSG_MOTD</div><div class="ttdef"><b>Definition:</b> Opcodes.h:859</div></div>
+<div class="ttc" id="aa04797_html_a6b121485ace4118b9006db1fb89f90f2"><div class="ttname"><a href="../../d3/d7d/a04797.html#a6b121485ace4118b9006db1fb89f90f2">Acore::Tokenize</a></div><div class="ttdeci">std::vector&lt; std::string_view &gt; Tokenize(std::string_view str, char sep, bool keepEmpty)</div><div class="ttdef"><b>Definition:</b> Tokenize.cpp:20</div></div>
+<div class="ttc" id="aa11102_html"><div class="ttname"><a href="../../d3/ddb/a11102.html">WorldPacket</a></div><div class="ttdef"><b>Definition:</b> WorldPacket.h:26</div></div>
 </div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00859">SMSG_MOTD</a>, and <a class="el" href="../../#l00020">Acore::Tokenize()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00042">SetMotd()</a>.</p>
+
 </div>
 </div>
-<h2 class="groupheader">Member Function Documentation</h2>
-<a id="aef4cf800aa06dddac4efd36e3c058d2b" name="aef4cf800aa06dddac4efd36e3c058d2b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aef4cf800aa06dddac4efd36e3c058d2b">&#9670;&#160;</a></span>Finalize()</h2>
+<a id="ab589dd8bfad950e02ee716ea9005253f" name="ab589dd8bfad950e02ee716ea9005253f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab589dd8bfad950e02ee716ea9005253f">&#9670;&#160;</a></span>GetMotd()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">char const  * MotdMgr::GetMotd </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../db/dbc/a00395.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a>&#160;</td>
+          <td class="paramname"><em>locale</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Get the current Message of the Day. </p>
+<div class="fragment"><div class="line"><span class="lineno">  124</span>{</div>
+<div class="line"><span class="lineno">  125</span>    <span class="comment">// Return localized motd if available, otherwise fallback to enUS</span></div>
+<div class="line"><span class="lineno">  126</span>    <span class="keyword">auto</span> it = <a class="code hl_variable" href="../../d6/ddb/a04853.html#a5c662919d486ab6fdecf6195e172bc0d">MotdMap</a>.find(locale);</div>
+<div class="line"><span class="lineno">  127</span>    <span class="keywordflow">if</span> (it != <a class="code hl_variable" href="../../d6/ddb/a04853.html#a5c662919d486ab6fdecf6195e172bc0d">MotdMap</a>.end())</div>
+<div class="line"><span class="lineno">  128</span>        <span class="keywordflow">return</span> it-&gt;second.c_str();</div>
+<div class="line"><span class="lineno">  129</span> </div>
+<div class="line"><span class="lineno">  130</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d6/ddb/a04853.html#a5c662919d486ab6fdecf6195e172bc0d">MotdMap</a>[<a class="code hl_enumvalue" href="../../db/dbc/a00395.html#a54c9b637be7283ba1a04fb5215594332ac07b7e8b5def3b0907685ac6c3566de3">LOCALE_enUS</a>].c_str();  <span class="comment">// Fallback to enUS if locale is not found</span></div>
+<div class="line"><span class="lineno">  131</span>}</div>
+<div class="ttc" id="aa00395_html_a54c9b637be7283ba1a04fb5215594332ac07b7e8b5def3b0907685ac6c3566de3"><div class="ttname"><a href="../../db/dbc/a00395.html#a54c9b637be7283ba1a04fb5215594332ac07b7e8b5def3b0907685ac6c3566de3">LOCALE_enUS</a></div><div class="ttdeci">@ LOCALE_enUS</div><div class="ttdef"><b>Definition:</b> Common.h:118</div></div>
+<div class="ttc" id="aa04853_html_a5c662919d486ab6fdecf6195e172bc0d"><div class="ttname"><a href="../../d6/ddb/a04853.html#a5c662919d486ab6fdecf6195e172bc0d">anonymous_namespace{MotdMgr.cpp}::MotdMap</a></div><div class="ttdeci">std::unordered_map&lt; LocaleConstant, std::string &gt; MotdMap</div><div class="ttdef"><b>Definition:</b> MotdMgr.cpp:33</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00118">LOCALE_enUS</a>.</p>
+
+</div>
+</div>
+<a id="a1eb1b16519bafaffe3b48b9835aab11e" name="a1eb1b16519bafaffe3b48b9835aab11e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1eb1b16519bafaffe3b48b9835aab11e">&#9670;&#160;</a></span>GetMotdPacket()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d3/ddb/a11102.html">WorldPacket</a> const  * MotdMgr::GetMotdPacket </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../db/dbc/a00395.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a>&#160;</td>
+          <td class="paramname"><em>locale</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Returns the current motd packet for the given locale. </p>
+<div class="fragment"><div class="line"><span class="lineno">  134</span>{</div>
+<div class="line"><span class="lineno">  135</span>    <span class="comment">// Return localized packet if available, otherwise fallback to enUS</span></div>
+<div class="line"><span class="lineno">  136</span>    <span class="keyword">auto</span> it = <a class="code hl_variable" href="../../d6/ddb/a04853.html#a58c795807a8c0ddf95b6dde3d1760c0a">MotdPackets</a>.find(locale);</div>
+<div class="line"><span class="lineno">  137</span>    <span class="keywordflow">if</span> (it != <a class="code hl_variable" href="../../d6/ddb/a04853.html#a58c795807a8c0ddf95b6dde3d1760c0a">MotdPackets</a>.end())</div>
+<div class="line"><span class="lineno">  138</span>        <span class="keywordflow">return</span> &amp;it-&gt;second;</div>
+<div class="line"><span class="lineno">  139</span> </div>
+<div class="line"><span class="lineno">  140</span>    <span class="keywordflow">return</span> &amp;<a class="code hl_variable" href="../../d6/ddb/a04853.html#a58c795807a8c0ddf95b6dde3d1760c0a">MotdPackets</a>[<a class="code hl_enumvalue" href="../../db/dbc/a00395.html#a54c9b637be7283ba1a04fb5215594332ac07b7e8b5def3b0907685ac6c3566de3">LOCALE_enUS</a>];  <span class="comment">// Fallback to enUS if locale is not found</span></div>
+<div class="line"><span class="lineno">  141</span>}</div>
+<div class="ttc" id="aa04853_html_a58c795807a8c0ddf95b6dde3d1760c0a"><div class="ttname"><a href="../../d6/ddb/a04853.html#a58c795807a8c0ddf95b6dde3d1760c0a">anonymous_namespace{MotdMgr.cpp}::MotdPackets</a></div><div class="ttdeci">std::unordered_map&lt; LocaleConstant, WorldPacket &gt; MotdPackets</div><div class="ttdef"><b>Definition:</b> MotdMgr.cpp:31</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00118">LOCALE_enUS</a>.</p>
+
+</div>
+</div>
+<a id="a0eac0994f742f9a5cbd912abc308d1a7" name="a0eac0994f742f9a5cbd912abc308d1a7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0eac0994f742f9a5cbd912abc308d1a7">&#9670;&#160;</a></span>instance()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -203,28 +271,94 @@ Public Member Functions</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">virtual void MovementGenerator::Finalize </td>
+          <td class="memname"><a class="el" href="../../d3/d6f/a09930.html">MotdMgr</a> * MotdMgr::instance </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../de/d9c/a08742.html">Unit</a> *&#160;</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   37</span>{</div>
+<div class="line"><span class="lineno">   38</span>    <span class="keyword">static</span> <a class="code hl_class" href="../../d3/d6f/a09930.html">MotdMgr</a> <a class="code hl_function" href="../../d3/d6f/a09930.html#a0eac0994f742f9a5cbd912abc308d1a7">instance</a>;</div>
+<div class="line"><span class="lineno">   39</span>    <span class="keywordflow">return</span> &amp;<a class="code hl_function" href="../../d3/d6f/a09930.html#a0eac0994f742f9a5cbd912abc308d1a7">instance</a>;</div>
+<div class="line"><span class="lineno">   40</span>}</div>
+<div class="ttc" id="aa09930_html"><div class="ttname"><a href="../../d3/d6f/a09930.html">MotdMgr</a></div><div class="ttdef"><b>Definition:</b> MotdMgr.h:28</div></div>
+<div class="ttc" id="aa09930_html_a0eac0994f742f9a5cbd912abc308d1a7"><div class="ttname"><a href="../../d3/d6f/a09930.html#a0eac0994f742f9a5cbd912abc308d1a7">MotdMgr::instance</a></div><div class="ttdeci">static MotdMgr * instance()</div><div class="ttdef"><b>Definition:</b> MotdMgr.cpp:36</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00036">instance()</a>.</p>
 
-<p>Implemented in <a class="el" href="../../dd/dbc/a09958.html#a1a18f033663fa93ef0b9885aae21f766">TimedFleeingMovementGenerator</a>, <a class="el" href="../../de/dad/a09994.html#a6fc296a5283726cca409d7df1137743d">AssistanceMovementGenerator</a>, <a class="el" href="../../d6/d21/a09970.html#abf4c6547449605e703b424d8aa7f46b5">IdleMovementGenerator</a>, <a class="el" href="../../d9/da8/a09974.html#afd7588c7877b116cc9626a774b89d584">RotateMovementGenerator</a>, <a class="el" href="../../d7/db2/a09978.html#aa4a2b943ecde8750bd764290d65872df">DistractMovementGenerator</a>, <a class="el" href="../../d1/d52/a09982.html#a1511f74a52e5ad92471e554eb77c235a">AssistanceDistractMovementGenerator</a>, <a class="el" href="../../d8/dd6/a09998.html#a50cad77c4261bea67428b9dcd5a37ea1">EffectMovementGenerator</a>, <a class="el" href="../../d9/d8b/a09934.html#a90c8b42ef67968bf58acae5678dc7496">MovementGeneratorMedium&lt; T, D &gt;</a>, <a class="el" href="../../d9/d8b/a09934.html#a90c8b42ef67968bf58acae5678dc7496">MovementGeneratorMedium&lt; Creature, PointMovementGenerator&lt; Creature &gt; &gt;</a>, <a class="el" href="../../d9/d8b/a09934.html#a90c8b42ef67968bf58acae5678dc7496">MovementGeneratorMedium&lt; T, ChaseMovementGenerator&lt; T &gt; &gt;</a>, <a class="el" href="../../d9/d8b/a09934.html#a90c8b42ef67968bf58acae5678dc7496">MovementGeneratorMedium&lt; T, ConfusedMovementGenerator&lt; T &gt; &gt;</a>, <a class="el" href="../../d9/d8b/a09934.html#a90c8b42ef67968bf58acae5678dc7496">MovementGeneratorMedium&lt; T, EscortMovementGenerator&lt; T &gt; &gt;</a>, <a class="el" href="../../d9/d8b/a09934.html#a90c8b42ef67968bf58acae5678dc7496">MovementGeneratorMedium&lt; T, FleeingMovementGenerator&lt; T &gt; &gt;</a>, <a class="el" href="../../d9/d8b/a09934.html#a90c8b42ef67968bf58acae5678dc7496">MovementGeneratorMedium&lt; Player, FlightPathMovementGenerator &gt;</a>, <a class="el" href="../../d9/d8b/a09934.html#a90c8b42ef67968bf58acae5678dc7496">MovementGeneratorMedium&lt; T, FollowMovementGenerator&lt; T &gt; &gt;</a>, <a class="el" href="../../d9/d8b/a09934.html#a90c8b42ef67968bf58acae5678dc7496">MovementGeneratorMedium&lt; Creature, HomeMovementGenerator&lt; Creature &gt; &gt;</a>, <a class="el" href="../../d9/d8b/a09934.html#a90c8b42ef67968bf58acae5678dc7496">MovementGeneratorMedium&lt; T, PointMovementGenerator&lt; T &gt; &gt;</a>, <a class="el" href="../../d9/d8b/a09934.html#a90c8b42ef67968bf58acae5678dc7496">MovementGeneratorMedium&lt; T, RandomMovementGenerator&lt; T &gt; &gt;</a>, <a class="el" href="../../d9/d8b/a09934.html#a90c8b42ef67968bf58acae5678dc7496">MovementGeneratorMedium&lt; Creature, FleeingMovementGenerator&lt; Creature &gt; &gt;</a>, and <a class="el" href="../../d9/d8b/a09934.html#a90c8b42ef67968bf58acae5678dc7496">MovementGeneratorMedium&lt; Creature, WaypointMovementGenerator&lt; Creature &gt; &gt;</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00958">MotionMaster::DirectDelete()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00036">instance()</a>.</p>
 
 </div>
 </div>
-<a id="a60bac341b438ea7258986f234a952324" name="a60bac341b438ea7258986f234a952324"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a60bac341b438ea7258986f234a952324">&#9670;&#160;</a></span>GetMovementGeneratorType()</h2>
+<a id="a1a6ce19decdaf6cd778cf331bdc0c1ef" name="a1a6ce19decdaf6cd778cf331bdc0c1ef"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1a6ce19decdaf6cd778cf331bdc0c1ef">&#9670;&#160;</a></span>LoadMotd()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void MotdMgr::LoadMotd </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Load Message of the Day. </p>
+<div class="fragment"><div class="line"><span class="lineno">   52</span>{</div>
+<div class="line"><span class="lineno">   53</span>    <a class="code hl_typedef" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> oldMSTime = <a class="code hl_function" href="../../d1/d44/a00098.html#a4476c8e13ea790c3536f2749105f9cb9">getMSTime</a>();</div>
+<div class="line"><span class="lineno">   54</span> </div>
+<div class="line"><span class="lineno">   55</span>    <a class="code hl_typedef" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> realmId = <a class="code hl_define" href="../../de/d79/a00203.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;<a class="code hl_typedef" href="../../d0/d61/a00302.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&gt;(<span class="stringliteral">&quot;RealmID&quot;</span>, 0);</div>
+<div class="line"><span class="lineno">   56</span>    <a class="code hl_class" href="../../d1/dc4/a05702.html">LoginDatabasePreparedStatement</a>* stmt = <a class="code hl_variable" href="../../d6/d12/a04691.html#a2cf25eafe7f2f73b61ccde11d55daf0c">LoginDatabase</a>.GetPreparedStatement(<a class="code hl_enumvalue" href="../../da/d71/a04649.html#a2bc6eef17d8ecd1b7027058f5fecc9fbae979faae50322791e59f95000a6e2249">LOGIN_SEL_MOTD</a>);</div>
+<div class="line"><span class="lineno">   57</span>    stmt-&gt;SetData(0, realmId);</div>
+<div class="line"><span class="lineno">   58</span>    <a class="code hl_typedef" href="../../de/d69/a04679.html#ac6110b8d867b5f84f677555d07037acb">PreparedQueryResult</a> result = <a class="code hl_variable" href="../../d6/d12/a04691.html#a2cf25eafe7f2f73b61ccde11d55daf0c">LoginDatabase</a>.Query(stmt);</div>
+<div class="line"><span class="lineno">   59</span> </div>
+<div class="line"><span class="lineno">   60</span>    <span class="keywordflow">if</span> (result)</div>
+<div class="line"><span class="lineno">   61</span>    {</div>
+<div class="line"><span class="lineno">   62</span>        <a class="code hl_class" href="../../d1/d52/a05734.html">Field</a>* fields = result-&gt;Fetch();</div>
+<div class="line"><span class="lineno">   63</span>        std::string motd = fields[0].<a class="code hl_function" href="../../d1/d52/a05734.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;std::string&gt;();</div>
+<div class="line"><span class="lineno">   64</span> </div>
+<div class="line"><span class="lineno">   65</span>        <a class="code hl_function" href="../../d3/d6f/a09930.html#a7e317c2855b4ff96c2796081988bdf4f">SetMotd</a>(motd, <a class="code hl_enumvalue" href="../../db/dbc/a00395.html#a54c9b637be7283ba1a04fb5215594332ac07b7e8b5def3b0907685ac6c3566de3">LOCALE_enUS</a>);</div>
+<div class="line"><span class="lineno">   66</span> </div>
+<div class="line"><span class="lineno">   67</span>        <a class="code hl_function" href="../../d3/d6f/a09930.html#a21aa89787d5b0bbf69158f799122edd5">LoadMotdLocale</a>();</div>
+<div class="line"><span class="lineno">   68</span>    }</div>
+<div class="line"><span class="lineno">   69</span>    <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">   70</span>    {</div>
+<div class="line"><span class="lineno">   71</span>        <a class="code hl_define" href="../../d5/d0f/a00494.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt;&gt; Loaded 0 motd definitions. DB table `motd` is empty for this realm!&quot;</span>);</div>
+<div class="line"><span class="lineno">   72</span>        <a class="code hl_define" href="../../d5/d0f/a00494.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt;&gt; Loaded 0 motd locale definitions. DB table `motd` needs an entry to be able to load DB table `motd_locale`!&quot;</span>);</div>
+<div class="line"><span class="lineno">   73</span>        <a class="code hl_define" href="../../d5/d0f/a00494.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
+<div class="line"><span class="lineno">   74</span>    }</div>
+<div class="line"><span class="lineno">   75</span> </div>
+<div class="line"><span class="lineno">   76</span>    <a class="code hl_define" href="../../d5/d0f/a00494.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt;&gt; Loaded motd definitions in {} ms&quot;</span>, <a class="code hl_function" href="../../d1/d44/a00098.html#a23a2c8663a05f2b03a6f85501972e8c0">GetMSTimeDiffToNow</a>(oldMSTime));</div>
+<div class="line"><span class="lineno">   77</span>    <a class="code hl_define" href="../../d5/d0f/a00494.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
+<div class="line"><span class="lineno">   78</span>}</div>
+<div class="ttc" id="aa00098_html_a23a2c8663a05f2b03a6f85501972e8c0"><div class="ttname"><a href="../../d1/d44/a00098.html#a23a2c8663a05f2b03a6f85501972e8c0">GetMSTimeDiffToNow</a></div><div class="ttdeci">uint32 GetMSTimeDiffToNow(uint32 oldMSTime)</div><div class="ttdef"><b>Definition:</b> Timer.h:131</div></div>
+<div class="ttc" id="aa00098_html_a4476c8e13ea790c3536f2749105f9cb9"><div class="ttname"><a href="../../d1/d44/a00098.html#a4476c8e13ea790c3536f2749105f9cb9">getMSTime</a></div><div class="ttdeci">uint32 getMSTime()</div><div class="ttdef"><b>Definition:</b> Timer.h:103</div></div>
+<div class="ttc" id="aa00203_html_a7236988e98bdd405bf435a029b70a26f"><div class="ttname"><a href="../../de/d79/a00203.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a></div><div class="ttdeci">#define sConfigMgr</div><div class="ttdef"><b>Definition:</b> Config.h:74</div></div>
+<div class="ttc" id="aa00302_html_a0bf9964a3ce962c07ad3d8b5432bbbcd"><div class="ttname"><a href="../../d0/d61/a00302.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a></div><div class="ttdeci">std::int32_t int32</div><div class="ttdef"><b>Definition:</b> Define.h:103</div></div>
+<div class="ttc" id="aa00494_html_a271e427d8e8481efd5cd5f537ec9e419"><div class="ttname"><a href="../../d5/d0f/a00494.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a></div><div class="ttdeci">#define LOG_INFO(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:166</div></div>
+<div class="ttc" id="aa04649_html_a2bc6eef17d8ecd1b7027058f5fecc9fbae979faae50322791e59f95000a6e2249"><div class="ttname"><a href="../../da/d71/a04649.html#a2bc6eef17d8ecd1b7027058f5fecc9fbae979faae50322791e59f95000a6e2249">LOGIN_SEL_MOTD</a></div><div class="ttdeci">@ LOGIN_SEL_MOTD</div><div class="ttdef"><b>Definition:</b> LoginDatabase.h:103</div></div>
+<div class="ttc" id="aa04679_html_ac6110b8d867b5f84f677555d07037acb"><div class="ttname"><a href="../../de/d69/a04679.html#ac6110b8d867b5f84f677555d07037acb">PreparedQueryResult</a></div><div class="ttdeci">std::shared_ptr&lt; PreparedResultSet &gt; PreparedQueryResult</div><div class="ttdef"><b>Definition:</b> DatabaseEnvFwd.h:45</div></div>
+<div class="ttc" id="aa04691_html_a2cf25eafe7f2f73b61ccde11d55daf0c"><div class="ttname"><a href="../../d6/d12/a04691.html#a2cf25eafe7f2f73b61ccde11d55daf0c">LoginDatabase</a></div><div class="ttdeci">DatabaseWorkerPool&lt; LoginDatabaseConnection &gt; LoginDatabase</div><div class="ttdoc">Accessor to the realm/login database.</div><div class="ttdef"><b>Definition:</b> DatabaseEnv.cpp:22</div></div>
+<div class="ttc" id="aa05702_html"><div class="ttname"><a href="../../d1/dc4/a05702.html">PreparedStatement</a></div><div class="ttdef"><b>Definition:</b> PreparedStatement.h:157</div></div>
+<div class="ttc" id="aa05734_html"><div class="ttname"><a href="../../d1/d52/a05734.html">Field</a></div><div class="ttdoc">Class used to access individual fields of database query result.</div><div class="ttdef"><b>Definition:</b> Field.h:98</div></div>
+<div class="ttc" id="aa05734_html_aae507d21d3570ffdaf1643ba02946f01"><div class="ttname"><a href="../../d1/d52/a05734.html#aae507d21d3570ffdaf1643ba02946f01">Field::Get</a></div><div class="ttdeci">std::enable_if_t&lt; std::is_arithmetic_v&lt; T &gt;, T &gt; Get() const</div><div class="ttdef"><b>Definition:</b> Field.h:112</div></div>
+<div class="ttc" id="aa09930_html_a21aa89787d5b0bbf69158f799122edd5"><div class="ttname"><a href="../../d3/d6f/a09930.html#a21aa89787d5b0bbf69158f799122edd5">MotdMgr::LoadMotdLocale</a></div><div class="ttdeci">void LoadMotdLocale()</div><div class="ttdef"><b>Definition:</b> MotdMgr.cpp:80</div></div>
+<div class="ttc" id="aa09930_html_a7e317c2855b4ff96c2796081988bdf4f"><div class="ttname"><a href="../../d3/d6f/a09930.html#a7e317c2855b4ff96c2796081988bdf4f">MotdMgr::SetMotd</a></div><div class="ttdeci">void SetMotd(std::string motd, LocaleConstant locale)</div><div class="ttdoc">Set a new Message of the Day.</div><div class="ttdef"><b>Definition:</b> MotdMgr.cpp:42</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00112">Field::Get()</a>, <a class="el" href="../../#l00103">getMSTime()</a>, <a class="el" href="../../#l00131">GetMSTimeDiffToNow()</a>, <a class="el" href="../../#l00080">LoadMotdLocale()</a>, <a class="el" href="../../#l00118">LOCALE_enUS</a>, <a class="el" href="../../#l00166">LOG_INFO</a>, <a class="el" href="../../#l00103">LOGIN_SEL_MOTD</a>, <a class="el" href="../../#l00022">LoginDatabase</a>, <a class="el" href="../../#l00074">sConfigMgr</a>, and <a class="el" href="../../#l00042">SetMotd()</a>.</p>
+
+</div>
+</div>
+<a id="a21aa89787d5b0bbf69158f799122edd5" name="a21aa89787d5b0bbf69158f799122edd5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a21aa89787d5b0bbf69158f799122edd5">&#9670;&#160;</a></span>LoadMotdLocale()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -233,7 +367,7 @@ Public Member Functions</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">virtual <a class="el" href="../../d5/d32/a01214.html#a4f12806b915efea564eae942207002f9">MovementGeneratorType</a> MovementGenerator::GetMovementGeneratorType </td>
+          <td class="memname">void MotdMgr::LoadMotdLocale </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -241,43 +375,80 @@ Public Member Functions</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   81</span>{</div>
+<div class="line"><span class="lineno">   82</span>    <a class="code hl_typedef" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> oldMSTime = <a class="code hl_function" href="../../d1/d44/a00098.html#a4476c8e13ea790c3536f2749105f9cb9">getMSTime</a>();</div>
+<div class="line"><span class="lineno">   83</span>    <a class="code hl_typedef" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> count = 0;</div>
+<div class="line"><span class="lineno">   84</span>    <a class="code hl_define" href="../../d5/d0f/a00494.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;Loading Motd locale...&quot;</span>);</div>
+<div class="line"><span class="lineno">   85</span> </div>
+<div class="line"><span class="lineno">   86</span>    <a class="code hl_typedef" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> realmId = <a class="code hl_define" href="../../de/d79/a00203.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;<a class="code hl_typedef" href="../../d0/d61/a00302.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&gt;(<span class="stringliteral">&quot;RealmID&quot;</span>, 0);</div>
+<div class="line"><span class="lineno">   87</span>    <a class="code hl_class" href="../../d1/dc4/a05702.html">LoginDatabasePreparedStatement</a>* stmt = <a class="code hl_variable" href="../../d6/d12/a04691.html#a2cf25eafe7f2f73b61ccde11d55daf0c">LoginDatabase</a>.GetPreparedStatement(<a class="code hl_enumvalue" href="../../da/d71/a04649.html#a2bc6eef17d8ecd1b7027058f5fecc9fba5a4a29b257bff1e7be9cdbfc9bffae15">LOGIN_SEL_MOTD_LOCALE</a>);</div>
+<div class="line"><span class="lineno">   88</span>    stmt-&gt;SetData(0, realmId);</div>
+<div class="line"><span class="lineno">   89</span>    <a class="code hl_typedef" href="../../de/d69/a04679.html#ac6110b8d867b5f84f677555d07037acb">PreparedQueryResult</a> result = <a class="code hl_variable" href="../../d6/d12/a04691.html#a2cf25eafe7f2f73b61ccde11d55daf0c">LoginDatabase</a>.Query(stmt);</div>
+<div class="line"><span class="lineno">   90</span> </div>
+<div class="line"><span class="lineno">   91</span>    <span class="keywordflow">if</span> (result)</div>
+<div class="line"><span class="lineno">   92</span>    {</div>
+<div class="line"><span class="lineno">   93</span>        <span class="keywordflow">do</span></div>
+<div class="line"><span class="lineno">   94</span>        {</div>
+<div class="line"><span class="lineno">   95</span>            <a class="code hl_class" href="../../d1/d52/a05734.html">Field</a>* fields = result-&gt;Fetch();</div>
+<div class="line"><span class="lineno">   96</span>            <span class="comment">// fields[0] is the locale string and fields[1] is the localized motd text</span></div>
+<div class="line"><span class="lineno">   97</span>            std::string locale = fields[0].<a class="code hl_function" href="../../d1/d52/a05734.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;std::string&gt;();</div>
+<div class="line"><span class="lineno">   98</span>            std::string localizedText = fields[1].<a class="code hl_function" href="../../d1/d52/a05734.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;std::string&gt;();</div>
+<div class="line"><span class="lineno">   99</span> </div>
+<div class="line"><span class="lineno">  100</span>            <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../df/d70/a00431.html#ac2f3763b8ee770808af7ecec42dfaa76">IsLocaleValid</a>(locale))</div>
+<div class="line"><span class="lineno">  101</span>            {</div>
+<div class="line"><span class="lineno">  102</span>                <a class="code hl_define" href="../../d5/d0f/a00494.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;DB table `motd_localized` has invalid locale ({}), skipped.&quot;</span>, locale);</div>
+<div class="line"><span class="lineno">  103</span>                <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  104</span>            }</div>
+<div class="line"><span class="lineno">  105</span> </div>
+<div class="line"><span class="lineno">  106</span>            <a class="code hl_enumeration" href="../../db/dbc/a00395.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a> localeId = <a class="code hl_function" href="../../df/d70/a00431.html#a8051d28826d995169bd4ce60310d5d65">GetLocaleByName</a>(locale);</div>
+<div class="line"><span class="lineno">  107</span>            <span class="keywordflow">if</span> (localeId == <a class="code hl_enumvalue" href="../../db/dbc/a00395.html#a54c9b637be7283ba1a04fb5215594332ac07b7e8b5def3b0907685ac6c3566de3">LOCALE_enUS</a>)</div>
+<div class="line"><span class="lineno">  108</span>                <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  109</span> </div>
+<div class="line"><span class="lineno">  110</span>            <a class="code hl_function" href="../../d3/d6f/a09930.html#a7e317c2855b4ff96c2796081988bdf4f">SetMotd</a>(localizedText, localeId);</div>
+<div class="line"><span class="lineno">  111</span>            ++count;</div>
+<div class="line"><span class="lineno">  112</span>        } <span class="keywordflow">while</span> (result-&gt;NextRow());</div>
+<div class="line"><span class="lineno">  113</span>    }</div>
+<div class="line"><span class="lineno">  114</span>    <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  115</span>    {</div>
+<div class="line"><span class="lineno">  116</span>        <a class="code hl_define" href="../../d5/d0f/a00494.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt;&gt; Loaded 0 motd locale definitions. DB table `motd_localized` is empty for this realm!&quot;</span>);</div>
+<div class="line"><span class="lineno">  117</span>        <a class="code hl_define" href="../../d5/d0f/a00494.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
+<div class="line"><span class="lineno">  118</span>    }</div>
+<div class="line"><span class="lineno">  119</span> </div>
+<div class="line"><span class="lineno">  120</span>    <a class="code hl_define" href="../../d5/d0f/a00494.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt;&gt; Loaded {} motd locale definitions in {} ms&quot;</span>, count, <a class="code hl_function" href="../../d1/d44/a00098.html#a23a2c8663a05f2b03a6f85501972e8c0">GetMSTimeDiffToNow</a>(oldMSTime));</div>
+<div class="line"><span class="lineno">  121</span>}</div>
+<div class="ttc" id="aa00395_html_a54c9b637be7283ba1a04fb5215594332"><div class="ttname"><a href="../../db/dbc/a00395.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a></div><div class="ttdeci">LocaleConstant</div><div class="ttdef"><b>Definition:</b> Common.h:117</div></div>
+<div class="ttc" id="aa00431_html_a8051d28826d995169bd4ce60310d5d65"><div class="ttname"><a href="../../df/d70/a00431.html#a8051d28826d995169bd4ce60310d5d65">GetLocaleByName</a></div><div class="ttdeci">LocaleConstant GetLocaleByName(const std::string &amp;name)</div><div class="ttdef"><b>Definition:</b> Common.cpp:42</div></div>
+<div class="ttc" id="aa00431_html_ac2f3763b8ee770808af7ecec42dfaa76"><div class="ttname"><a href="../../df/d70/a00431.html#ac2f3763b8ee770808af7ecec42dfaa76">IsLocaleValid</a></div><div class="ttdeci">bool IsLocaleValid(std::string const &amp;locale)</div><div class="ttdef"><b>Definition:</b> Common.cpp:33</div></div>
+<div class="ttc" id="aa00494_html_a43832e3fa8508deb4ce43e520005fcd9"><div class="ttname"><a href="../../d5/d0f/a00494.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a></div><div class="ttdeci">#define LOG_ERROR(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:158</div></div>
+<div class="ttc" id="aa04649_html_a2bc6eef17d8ecd1b7027058f5fecc9fba5a4a29b257bff1e7be9cdbfc9bffae15"><div class="ttname"><a href="../../da/d71/a04649.html#a2bc6eef17d8ecd1b7027058f5fecc9fba5a4a29b257bff1e7be9cdbfc9bffae15">LOGIN_SEL_MOTD_LOCALE</a></div><div class="ttdeci">@ LOGIN_SEL_MOTD_LOCALE</div><div class="ttdef"><b>Definition:</b> LoginDatabase.h:104</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00112">Field::Get()</a>, <a class="el" href="../../#l00042">GetLocaleByName()</a>, <a class="el" href="../../#l00103">getMSTime()</a>, <a class="el" href="../../#l00131">GetMSTimeDiffToNow()</a>, <a class="el" href="../../#l00033">IsLocaleValid()</a>, <a class="el" href="../../#l00118">LOCALE_enUS</a>, <a class="el" href="../../#l00158">LOG_ERROR</a>, <a class="el" href="../../#l00166">LOG_INFO</a>, <a class="el" href="../../#l00104">LOGIN_SEL_MOTD_LOCALE</a>, <a class="el" href="../../#l00022">LoginDatabase</a>, <a class="el" href="../../#l00074">sConfigMgr</a>, and <a class="el" href="../../#l00042">SetMotd()</a>.</p>
 
-<p>Implemented in <a class="el" href="../../db/d43/a09946.html#a3f0760b38745b9e065e069d6ad984d51">ConfusedMovementGenerator&lt; T &gt;</a>, <a class="el" href="../../db/da4/a09950.html#a0733162a5a0cab2593150f288edeb27b">EscortMovementGenerator&lt; T &gt;</a>, <a class="el" href="../../dd/dbc/a09958.html#a1533d13f4e786e498353805a2a2daf85">TimedFleeingMovementGenerator</a>, <a class="el" href="../../df/d5b/a09966.html#aaa203c37c8259c8b54ad5ec70db484f1">HomeMovementGenerator&lt; Creature &gt;</a>, <a class="el" href="../../d2/d97/a09990.html#a5b3f4195ffe026d6ba0b6a52631c09a5">PointMovementGenerator&lt; T &gt;</a>, <a class="el" href="../../d2/d97/a09990.html#a5b3f4195ffe026d6ba0b6a52631c09a5">PointMovementGenerator&lt; Creature &gt;</a>, <a class="el" href="../../de/dad/a09994.html#a1d4b6fe8693fdd21c364b53075c27439">AssistanceMovementGenerator</a>, <a class="el" href="../../dd/daa/a10002.html#a10626f514ae30260131303cf2ecbb36d">RandomMovementGenerator&lt; T &gt;</a>, <a class="el" href="../../d9/db8/a10010.html#a30cd5471f5737157cf09bc3eca69758f">ChaseMovementGenerator&lt; T &gt;</a>, <a class="el" href="../../d0/dcf/a10014.html#aaf0860a5a14b59e8b45f9cfa29f34387">FollowMovementGenerator&lt; T &gt;</a>, <a class="el" href="../../da/d24/a10026.html#a20c8c2373bb55d32dd9c3a17a9c01c34">WaypointMovementGenerator&lt; Creature &gt;</a>, <a class="el" href="../../da/d73/a09954.html#aa739940493313028f17d306c1b23da52">FleeingMovementGenerator&lt; T &gt;</a>, <a class="el" href="../../da/d73/a09954.html#aa739940493313028f17d306c1b23da52">FleeingMovementGenerator&lt; Creature &gt;</a>, <a class="el" href="../../d6/d21/a09970.html#aa1eb3228e14c5b145f7074e97ccdab5f">IdleMovementGenerator</a>, <a class="el" href="../../d9/da8/a09974.html#a20677803edf5d93ceae3bf76ef426a81">RotateMovementGenerator</a>, <a class="el" href="../../d7/db2/a09978.html#a0b30745bf1cd7b5a264e970273595592">DistractMovementGenerator</a>, <a class="el" href="../../d1/d52/a09982.html#a233eb9333ea365955589932ddbd18d8a">AssistanceDistractMovementGenerator</a>, <a class="el" href="../../d8/dd6/a09998.html#a42c56bc35cf3d752e24ccc36adcd2e82">EffectMovementGenerator</a>, and <a class="el" href="../../d8/d23/a10030.html#a8ef0966524b238a617487bde185de6f7">FlightPathMovementGenerator</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00966">MotionMaster::DelayedDelete()</a>, <a class="el" href="../../#l00913">MotionMaster::GetCurrentMovementGeneratorType()</a>, <a class="el" href="../../#l00921">MotionMaster::GetMotionSlotType()</a>, and <a class="el" href="../../#l02684">misc_commandscript::HandleMovegensCommand()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00051">LoadMotd()</a>.</p>
 
 </div>
 </div>
-<a id="a60ac9e99f41d1f5c320441cf78b4b46a" name="a60ac9e99f41d1f5c320441cf78b4b46a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a60ac9e99f41d1f5c320441cf78b4b46a">&#9670;&#160;</a></span>GetResetPosition()</h2>
+<a id="a7e317c2855b4ff96c2796081988bdf4f" name="a7e317c2855b4ff96c2796081988bdf4f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7e317c2855b4ff96c2796081988bdf4f">&#9670;&#160;</a></span>SetMotd()</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">virtual bool MovementGenerator::GetResetPosition </td>
+          <td class="memname">void MotdMgr::SetMotd </td>
           <td>(</td>
-          <td class="paramtype">float &amp;&#160;</td>
-          <td class="paramname">, </td>
+          <td class="paramtype">std::string&#160;</td>
+          <td class="paramname"><em>motd</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">float &amp;&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">float &amp;&#160;</td>
-          <td class="paramname">&#160;</td>
+          <td class="paramtype"><a class="el" href="../../db/dbc/a00395.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a>&#160;</td>
+          <td class="paramname"><em>locale</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -285,233 +456,22 @@ Public Member Functions</h2></td></tr>
           <td></td><td></td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
-<p>Reimplemented in <a class="el" href="../../dd/daa/a10002.html#a20b49e85e5d6d29ed351a645ac3b71c7">RandomMovementGenerator&lt; T &gt;</a>, and <a class="el" href="../../dd/daa/a10002.html#a973ee4bdf2e90f7de2b99ae1df9f6028">RandomMovementGenerator&lt; T &gt;</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">   51</span>{ <span class="keywordflow">return</span> <span class="keyword">false</span>; }</div>
+<p>Set a new Message of the Day. </p>
+<div class="fragment"><div class="line"><span class="lineno">   43</span>{</div>
+<div class="line"><span class="lineno">   44</span>    <span class="comment">// scripts may change motd</span></div>
+<div class="line"><span class="lineno">   45</span>    <a class="code hl_define" href="../../d9/d4e/a04307.html#ae8161e629869974bc49b1cbfc73c1087">sScriptMgr</a>-&gt;OnMotdChange(motd, locale);</div>
+<div class="line"><span class="lineno">   46</span> </div>
+<div class="line"><span class="lineno">   47</span>    <a class="code hl_variable" href="../../d6/ddb/a04853.html#a5c662919d486ab6fdecf6195e172bc0d">MotdMap</a>[locale] = motd;</div>
+<div class="line"><span class="lineno">   48</span>    <a class="code hl_variable" href="../../d6/ddb/a04853.html#a58c795807a8c0ddf95b6dde3d1760c0a">MotdPackets</a>[locale] = <a class="code hl_function" href="../../d3/d6f/a09930.html#a0acc39f8c58f6446a337e2d33f15731a">CreateWorldPacket</a>(motd);</div>
+<div class="line"><span class="lineno">   49</span>}</div>
+<div class="ttc" id="aa04307_html_ae8161e629869974bc49b1cbfc73c1087"><div class="ttname"><a href="../../d9/d4e/a04307.html#ae8161e629869974bc49b1cbfc73c1087">sScriptMgr</a></div><div class="ttdeci">#define sScriptMgr</div><div class="ttdef"><b>Definition:</b> ScriptMgr.h:728</div></div>
+<div class="ttc" id="aa09930_html_a0acc39f8c58f6446a337e2d33f15731a"><div class="ttname"><a href="../../d3/d6f/a09930.html#a0acc39f8c58f6446a337e2d33f15731a">MotdMgr::CreateWorldPacket</a></div><div class="ttdeci">WorldPacket CreateWorldPacket(std::string motd)</div><div class="ttdef"><b>Definition:</b> MotdMgr.cpp:143</div></div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00048">HomeMovementGenerator&lt; Creature &gt;::_setTargetLocation()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00143">CreateWorldPacket()</a>, and <a class="el" href="../../#l00728">sScriptMgr</a>.</p>
 
-</div>
-</div>
-<a id="a99865a1b7cf84b02784bfa8df958585f" name="a99865a1b7cf84b02784bfa8df958585f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a99865a1b7cf84b02784bfa8df958585f">&#9670;&#160;</a></span>GetSplineId()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">virtual <a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> MovementGenerator::GetSplineId </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p>Reimplemented in <a class="el" href="../../db/da4/a09950.html#a61d74b098d1ae692ce305fa493aaa6d2">EscortMovementGenerator&lt; T &gt;</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">   41</span>{ <span class="keywordflow">return</span> 0; }  <span class="comment">// Xinef: Escort system</span></div>
-</div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00944">MotionMaster::GetCurrentSplineId()</a>.</p>
-
-</div>
-</div>
-<a id="a0040e427ac4a09273641a96a13fd4c1f" name="a0040e427ac4a09273641a96a13fd4c1f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0040e427ac4a09273641a96a13fd4c1f">&#9670;&#160;</a></span>Initialize()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">virtual void MovementGenerator::Initialize </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../de/d9c/a08742.html">Unit</a> *&#160;</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p>Implemented in <a class="el" href="../../d6/d21/a09970.html#a68c249f25ef86f2e50d69698e190ed03">IdleMovementGenerator</a>, <a class="el" href="../../d9/da8/a09974.html#a18fea8760bb24912af9349a06ff7b596">RotateMovementGenerator</a>, <a class="el" href="../../d7/db2/a09978.html#a71410ddbda2be6b34bb2276a83fea5c9">DistractMovementGenerator</a>, <a class="el" href="../../d8/dd6/a09998.html#a376f554231bc5dc4c95790e6c85dcb01">EffectMovementGenerator</a>, <a class="el" href="../../d9/d8b/a09934.html#ad6b97c3e2884dfbe3f17e2579b31ac66">MovementGeneratorMedium&lt; T, D &gt;</a>, <a class="el" href="../../d9/d8b/a09934.html#ad6b97c3e2884dfbe3f17e2579b31ac66">MovementGeneratorMedium&lt; Creature, PointMovementGenerator&lt; Creature &gt; &gt;</a>, <a class="el" href="../../d9/d8b/a09934.html#ad6b97c3e2884dfbe3f17e2579b31ac66">MovementGeneratorMedium&lt; T, ChaseMovementGenerator&lt; T &gt; &gt;</a>, <a class="el" href="../../d9/d8b/a09934.html#ad6b97c3e2884dfbe3f17e2579b31ac66">MovementGeneratorMedium&lt; T, ConfusedMovementGenerator&lt; T &gt; &gt;</a>, <a class="el" href="../../d9/d8b/a09934.html#ad6b97c3e2884dfbe3f17e2579b31ac66">MovementGeneratorMedium&lt; T, EscortMovementGenerator&lt; T &gt; &gt;</a>, <a class="el" href="../../d9/d8b/a09934.html#ad6b97c3e2884dfbe3f17e2579b31ac66">MovementGeneratorMedium&lt; T, FleeingMovementGenerator&lt; T &gt; &gt;</a>, <a class="el" href="../../d9/d8b/a09934.html#ad6b97c3e2884dfbe3f17e2579b31ac66">MovementGeneratorMedium&lt; Player, FlightPathMovementGenerator &gt;</a>, <a class="el" href="../../d9/d8b/a09934.html#ad6b97c3e2884dfbe3f17e2579b31ac66">MovementGeneratorMedium&lt; T, FollowMovementGenerator&lt; T &gt; &gt;</a>, <a class="el" href="../../d9/d8b/a09934.html#ad6b97c3e2884dfbe3f17e2579b31ac66">MovementGeneratorMedium&lt; Creature, HomeMovementGenerator&lt; Creature &gt; &gt;</a>, <a class="el" href="../../d9/d8b/a09934.html#ad6b97c3e2884dfbe3f17e2579b31ac66">MovementGeneratorMedium&lt; T, PointMovementGenerator&lt; T &gt; &gt;</a>, <a class="el" href="../../d9/d8b/a09934.html#ad6b97c3e2884dfbe3f17e2579b31ac66">MovementGeneratorMedium&lt; T, RandomMovementGenerator&lt; T &gt; &gt;</a>, <a class="el" href="../../d9/d8b/a09934.html#ad6b97c3e2884dfbe3f17e2579b31ac66">MovementGeneratorMedium&lt; Creature, FleeingMovementGenerator&lt; Creature &gt; &gt;</a>, and <a class="el" href="../../d9/d8b/a09934.html#ad6b97c3e2884dfbe3f17e2579b31ac66">MovementGeneratorMedium&lt; Creature, WaypointMovementGenerator&lt; Creature &gt; &gt;</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00050">WorldSession::HandleMoveWorldportAck()</a>, <a class="el" href="../../#l00952">MotionMaster::InitTop()</a>, and <a class="el" href="../../#l00819">MotionMaster::Mutate()</a>.</p>
-
-</div>
-</div>
-<a id="a37530e5cd743faecabd21eba08dce939" name="a37530e5cd743faecabd21eba08dce939"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a37530e5cd743faecabd21eba08dce939">&#9670;&#160;</a></span>Pause()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">virtual void MovementGenerator::Pause </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p>Reimplemented in <a class="el" href="../../da/d24/a10026.html#aca0b1fab7047439d53363cc833522d88">WaypointMovementGenerator&lt; Creature &gt;</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">   46</span>{}</div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="aa6641fa1182551421fc8572afad8e083" name="aa6641fa1182551421fc8572afad8e083"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa6641fa1182551421fc8572afad8e083">&#9670;&#160;</a></span>Reset()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">virtual void MovementGenerator::Reset </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../de/d9c/a08742.html">Unit</a> *&#160;</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p>Implemented in <a class="el" href="../../d6/d21/a09970.html#a124e4f9506ef6f31e991e905ce38dc43">IdleMovementGenerator</a>, <a class="el" href="../../d8/dd6/a09998.html#a9627573a7206e12ff469e8e6e076862b">EffectMovementGenerator</a>, <a class="el" href="../../d9/da8/a09974.html#a3e177762fcfc11ac47aa820b46b93ed0">RotateMovementGenerator</a>, <a class="el" href="../../d7/db2/a09978.html#ad544709b2873b63b28d27ab414c280ba">DistractMovementGenerator</a>, <a class="el" href="../../d9/d8b/a09934.html#a6db99ea9863dc60d032bacda37afa078">MovementGeneratorMedium&lt; T, D &gt;</a>, <a class="el" href="../../d9/d8b/a09934.html#a6db99ea9863dc60d032bacda37afa078">MovementGeneratorMedium&lt; Creature, PointMovementGenerator&lt; Creature &gt; &gt;</a>, <a class="el" href="../../d9/d8b/a09934.html#a6db99ea9863dc60d032bacda37afa078">MovementGeneratorMedium&lt; T, ChaseMovementGenerator&lt; T &gt; &gt;</a>, <a class="el" href="../../d9/d8b/a09934.html#a6db99ea9863dc60d032bacda37afa078">MovementGeneratorMedium&lt; T, ConfusedMovementGenerator&lt; T &gt; &gt;</a>, <a class="el" href="../../d9/d8b/a09934.html#a6db99ea9863dc60d032bacda37afa078">MovementGeneratorMedium&lt; T, EscortMovementGenerator&lt; T &gt; &gt;</a>, <a class="el" href="../../d9/d8b/a09934.html#a6db99ea9863dc60d032bacda37afa078">MovementGeneratorMedium&lt; T, FleeingMovementGenerator&lt; T &gt; &gt;</a>, <a class="el" href="../../d9/d8b/a09934.html#a6db99ea9863dc60d032bacda37afa078">MovementGeneratorMedium&lt; Player, FlightPathMovementGenerator &gt;</a>, <a class="el" href="../../d9/d8b/a09934.html#a6db99ea9863dc60d032bacda37afa078">MovementGeneratorMedium&lt; T, FollowMovementGenerator&lt; T &gt; &gt;</a>, <a class="el" href="../../d9/d8b/a09934.html#a6db99ea9863dc60d032bacda37afa078">MovementGeneratorMedium&lt; Creature, HomeMovementGenerator&lt; Creature &gt; &gt;</a>, <a class="el" href="../../d9/d8b/a09934.html#a6db99ea9863dc60d032bacda37afa078">MovementGeneratorMedium&lt; T, PointMovementGenerator&lt; T &gt; &gt;</a>, <a class="el" href="../../d9/d8b/a09934.html#a6db99ea9863dc60d032bacda37afa078">MovementGeneratorMedium&lt; T, RandomMovementGenerator&lt; T &gt; &gt;</a>, <a class="el" href="../../d9/d8b/a09934.html#a6db99ea9863dc60d032bacda37afa078">MovementGeneratorMedium&lt; Creature, FleeingMovementGenerator&lt; Creature &gt; &gt;</a>, and <a class="el" href="../../d9/d8b/a09934.html#a6db99ea9863dc60d032bacda37afa078">MovementGeneratorMedium&lt; Creature, WaypointMovementGenerator&lt; Creature &gt; &gt;</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00146">MotionMaster::DirectClean()</a>, <a class="el" href="../../#l00174">MotionMaster::DirectExpire()</a>, <a class="el" href="../../#l00207">MotionMaster::DirectExpireSlot()</a>, <a class="el" href="../../#l00904">MotionMaster::ReinitializeMovement()</a>, and <a class="el" href="../../#l00104">MotionMaster::UpdateMotion()</a>.</p>
-
-</div>
-</div>
-<a id="a51988a8b0a45459242467e38ca46303c" name="a51988a8b0a45459242467e38ca46303c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a51988a8b0a45459242467e38ca46303c">&#9670;&#160;</a></span>Resume()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">virtual void MovementGenerator::Resume </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p>Reimplemented in <a class="el" href="../../da/d24/a10026.html#ae3f50b0fedbe0da23f806ef89dcd39f6">WaypointMovementGenerator&lt; Creature &gt;</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">   48</span>{}</div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a0f9c4fd52947688dcda1161924e829bb" name="a0f9c4fd52947688dcda1161924e829bb"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0f9c4fd52947688dcda1161924e829bb">&#9670;&#160;</a></span>unitSpeedChanged()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">virtual void MovementGenerator::unitSpeedChanged </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p>Reimplemented in <a class="el" href="../../db/da4/a09950.html#a235e330c4c3368af00d37028915684ff">EscortMovementGenerator&lt; T &gt;</a>, <a class="el" href="../../df/d5b/a09966.html#ac5078f624899e574a7b56b72e2824b9a">HomeMovementGenerator&lt; Creature &gt;</a>, <a class="el" href="../../d2/d97/a09990.html#a011d9401a20171e9300296ea1a7424a8">PointMovementGenerator&lt; T &gt;</a>, <a class="el" href="../../d2/d97/a09990.html#a011d9401a20171e9300296ea1a7424a8">PointMovementGenerator&lt; Creature &gt;</a>, <a class="el" href="../../d9/db8/a10010.html#a81cb99fcec507afb4b0dc8d8a3081cdc">ChaseMovementGenerator&lt; T &gt;</a>, and <a class="el" href="../../d0/dcf/a10014.html#af28a24a9ee622dbc42a9705b9e44d172">FollowMovementGenerator&lt; T &gt;</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">   43</span>{ }</div>
-</div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00890">MotionMaster::propagateSpeedChange()</a>.</p>
-
-</div>
-</div>
-<a id="ae3014d8c6e728799c86134ef64737ed5" name="ae3014d8c6e728799c86134ef64737ed5"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae3014d8c6e728799c86134ef64737ed5">&#9670;&#160;</a></span>Update()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">virtual bool MovementGenerator::Update </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../de/d9c/a08742.html">Unit</a> *&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>time_diff</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p>Implemented in <a class="el" href="../../dd/dbc/a09958.html#a53688aae55bfdd3a33eb24484fcc157e">TimedFleeingMovementGenerator</a>, <a class="el" href="../../d6/d21/a09970.html#a4d96b744fa55fa11764873a2c4a891c5">IdleMovementGenerator</a>, <a class="el" href="../../d9/da8/a09974.html#a0dc8600e3aa862a81735dfb927232e53">RotateMovementGenerator</a>, <a class="el" href="../../d7/db2/a09978.html#ad5a15c1507b8ab315b658351077629b3">DistractMovementGenerator</a>, <a class="el" href="../../d8/dd6/a09998.html#adff45ee4ce3cc72b6cc88e626c3bd0a5">EffectMovementGenerator</a>, <a class="el" href="../../d9/d8b/a09934.html#af044c8725ef11e8a152987225521ef8b">MovementGeneratorMedium&lt; T, D &gt;</a>, <a class="el" href="../../d9/d8b/a09934.html#af044c8725ef11e8a152987225521ef8b">MovementGeneratorMedium&lt; Creature, PointMovementGenerator&lt; Creature &gt; &gt;</a>, <a class="el" href="../../d9/d8b/a09934.html#af044c8725ef11e8a152987225521ef8b">MovementGeneratorMedium&lt; T, ChaseMovementGenerator&lt; T &gt; &gt;</a>, <a class="el" href="../../d9/d8b/a09934.html#af044c8725ef11e8a152987225521ef8b">MovementGeneratorMedium&lt; T, ConfusedMovementGenerator&lt; T &gt; &gt;</a>, <a class="el" href="../../d9/d8b/a09934.html#af044c8725ef11e8a152987225521ef8b">MovementGeneratorMedium&lt; T, EscortMovementGenerator&lt; T &gt; &gt;</a>, <a class="el" href="../../d9/d8b/a09934.html#af044c8725ef11e8a152987225521ef8b">MovementGeneratorMedium&lt; T, FleeingMovementGenerator&lt; T &gt; &gt;</a>, <a class="el" href="../../d9/d8b/a09934.html#af044c8725ef11e8a152987225521ef8b">MovementGeneratorMedium&lt; Player, FlightPathMovementGenerator &gt;</a>, <a class="el" href="../../d9/d8b/a09934.html#af044c8725ef11e8a152987225521ef8b">MovementGeneratorMedium&lt; T, FollowMovementGenerator&lt; T &gt; &gt;</a>, <a class="el" href="../../d9/d8b/a09934.html#af044c8725ef11e8a152987225521ef8b">MovementGeneratorMedium&lt; Creature, HomeMovementGenerator&lt; Creature &gt; &gt;</a>, <a class="el" href="../../d9/d8b/a09934.html#af044c8725ef11e8a152987225521ef8b">MovementGeneratorMedium&lt; T, PointMovementGenerator&lt; T &gt; &gt;</a>, <a class="el" href="../../d9/d8b/a09934.html#af044c8725ef11e8a152987225521ef8b">MovementGeneratorMedium&lt; T, RandomMovementGenerator&lt; T &gt; &gt;</a>, <a class="el" href="../../d9/d8b/a09934.html#af044c8725ef11e8a152987225521ef8b">MovementGeneratorMedium&lt; Creature, FleeingMovementGenerator&lt; Creature &gt; &gt;</a>, and <a class="el" href="../../d9/d8b/a09934.html#af044c8725ef11e8a152987225521ef8b">MovementGeneratorMedium&lt; Creature, WaypointMovementGenerator&lt; Creature &gt; &gt;</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00051">LoadMotd()</a>, and <a class="el" href="../../#l00080">LoadMotdLocale()</a>.</p>
 
 </div>
 </div>
@@ -520,8 +480,8 @@ Public Member Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d3/d6f/a09930.html">MovementGenerator</a></li>
-    <li class="footer">Generated on Mon Aug 4 2025 20:51:36 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d3/d6f/a09930.html">MotdMgr</a></li>
+    <li class="footer">Generated on Mon Sep 1 2025 20:43:55 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

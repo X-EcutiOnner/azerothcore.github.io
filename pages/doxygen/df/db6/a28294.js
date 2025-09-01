@@ -1,5 +1,12 @@
 var a28294 =
 [
-    [ "content", "df/db6/a28294.html#a936eb07adb8a41480dfc196127b7e5c0", null ],
-    [ "ID", "df/db6/a28294.html#a1a33aff67b979c3c7a76c26debb5fc25", null ]
+    [ "ID", "df/db6/a28294.html#a84ba697182123cb3e7dd3ba07241e971", null ],
+    [ "maxScale", "df/db6/a28294.html#a23ca0ae7c45790a24f58546970194abf", null ],
+    [ "maxScaleLevel", "df/db6/a28294.html#ad5d722d74bc08d4de3edd54c2f24addb", null ],
+    [ "minScale", "df/db6/a28294.html#a3eacdd8639c6dd25dbd3205a58860cf9", null ],
+    [ "minScaleLevel", "df/db6/a28294.html#a49d9d7847cc4d54891d83166eb277740", null ],
+    [ "Name", "df/db6/a28294.html#a937fc579ab2790f4a972f07d3453a762", null ],
+    [ "petFoodMask", "df/db6/a28294.html#a4d9dd8baa3f7981633248513bb25f4ca", null ],
+    [ "petTalentType", "df/db6/a28294.html#a802000cefb6c4d357edfc45cc291e21e", null ],
+    [ "skillLine", "df/db6/a28294.html#ad4498d40b31d18742ee4ac235cb58a2e", null ]
 ];

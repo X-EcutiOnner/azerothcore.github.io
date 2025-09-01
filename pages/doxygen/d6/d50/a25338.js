@@ -1,6 +1,8 @@
 var a25338 =
 [
-    [ "OnProc", "d6/d50/a25338.html#ac7f0a86f2d0c5dcb945eb7ccb9cd5c88", null ],
-    [ "PrepareAuraScript", "d6/d50/a25338.html#a6a7b011f151ff81672221b84eb4456b8", null ],
-    [ "Register", "d6/d50/a25338.html#a15b05d352f94d2aabeb75a6bfd996fc6", null ]
+    [ "CheckCast", "d6/d50/a25338.html#a459b6aa2fd05ffc5cb97815a53e2797c", null ],
+    [ "HandleScript", "d6/d50/a25338.html#a2c1702398e4cbdcc106679d534a27743", null ],
+    [ "PrepareSpellScript", "d6/d50/a25338.html#a613bdf7841744632c1e6de147e0352b9", null ],
+    [ "Register", "d6/d50/a25338.html#ada961aaa5679aa00cc650d6e97487ca4", null ],
+    [ "Validate", "d6/d50/a25338.html#a0a9de0825edf5c82b91dbe7326a65de9", null ]
 ];

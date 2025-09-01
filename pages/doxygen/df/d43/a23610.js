@@ -1,6 +1,5 @@
 var a23610 =
 [
-    [ "instance_magtheridons_lair_InstanceMapScript", "d9/df4/a23614.html", "d9/df4/a23614" ],
-    [ "instance_magtheridons_lair", "df/d43/a23610.html#a9bc61758478dc18ba413264eec2e3ca3", null ],
-    [ "GetInstanceScript", "df/d43/a23610.html#a6c9cc959cf4f294e6173d244f54bcd02", null ]
+    [ "instance_the_underbog_InstanceMapScript", "df/d43/a23610.html#ae7668c7c4432b74caa3ea46a7c7364e3", null ],
+    [ "Initialize", "df/d43/a23610.html#a9c7c10020eef3db4794283c0f946d086", null ]
 ];

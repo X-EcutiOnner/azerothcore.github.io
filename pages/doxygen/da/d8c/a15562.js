@@ -1,16 +1,8 @@
 var a15562 =
 [
-    [ "npc_qiraj_war_spawnAI", "da/d8c/a15562.html#a1122bc3961300ba39c02613ba0fcd909", null ],
-    [ "JustDied", "da/d8c/a15562.html#ada3362722a2f7a4ac5e3e807385c30fc", null ],
-    [ "JustEngagedWith", "da/d8c/a15562.html#a628da97f8b8bda848880c53a509ad1f5", null ],
-    [ "Reset", "da/d8c/a15562.html#a617104afe4d5cca5cd0d98fe12cb1608", null ],
-    [ "UpdateAI", "da/d8c/a15562.html#afeed6ddc214d7d6ba6156a90e4465cb2", null ],
-    [ "hasTarget", "da/d8c/a15562.html#ad36ad196f757d6014f7aa7cf7afb167b", null ],
-    [ "MobGUID", "da/d8c/a15562.html#a4148121a56275770ee84744a0288b6c5", null ],
-    [ "PlayerGUID", "da/d8c/a15562.html#a9e4294e9b7ce773263e0bd16512602ce", null ],
-    [ "SpellTimer1", "da/d8c/a15562.html#a8979a90473c62aad604857d92574e5f1", null ],
-    [ "SpellTimer2", "da/d8c/a15562.html#a91cb2356a92ef987bd1ba6d31b560ec1", null ],
-    [ "SpellTimer3", "da/d8c/a15562.html#aeea20bb2f78ece03df38a3e9aa5d8b59", null ],
-    [ "SpellTimer4", "da/d8c/a15562.html#a301971cf821e68e6be3223d4076f8b49", null ],
-    [ "Timers", "da/d8c/a15562.html#a460bbddfe94e9c84eaa0ad83e087ebf4", null ]
+    [ "npc_prospector_remtravelAI", "da/d8c/a15562.html#a61f26115382f16f3d65c3d4e1c720f02", null ],
+    [ "JustEngagedWith", "da/d8c/a15562.html#adf388d36c17b69f881e3cb92d9b78b9b", null ],
+    [ "JustSummoned", "da/d8c/a15562.html#a6b3dd1552b5313dd04d07dc80eef06fe", null ],
+    [ "Reset", "da/d8c/a15562.html#ac145a4a4a24be227c31fcc5aefd922eb", null ],
+    [ "WaypointReached", "da/d8c/a15562.html#a7b02b22e9dc63e1fad6b15a44b2ff9b6", null ]
 ];

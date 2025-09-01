@@ -1,6 +1,9 @@
 var a26266 =
 [
-    [ "HandleDummyEffect", "dd/d34/a26266.html#ad5421ca3dd5bf802952f98e6d1170003", null ],
-    [ "PrepareSpellScript", "dd/d34/a26266.html#a9489556e1e16cd2e0d5c43b38d7ea5ee", null ],
-    [ "Register", "dd/d34/a26266.html#a2ad2c00807d07aeb55a8fd848a69f9d1", null ]
+    [ "Load", "dd/d34/a26266.html#ae8329a18e94b3830e19bcbcbdf055dd2", null ],
+    [ "PrepareSpellScript", "dd/d34/a26266.html#a7a082f577937bf9f794bfb21bbc416f1", null ],
+    [ "Register", "dd/d34/a26266.html#a7b8f209bff9c2f1dff96f3d90c66cad4", null ],
+    [ "TriggerHeal", "dd/d34/a26266.html#acad9295c5c6b46bd969a4fb528a8ec25", null ],
+    [ "Validate", "dd/d34/a26266.html#a5f53a97e97f7959c51e1b5947f7c4418", null ],
+    [ "healPct", "dd/d34/a26266.html#a33b4d26c34903e45b7274e369f096ce1", null ]
 ];

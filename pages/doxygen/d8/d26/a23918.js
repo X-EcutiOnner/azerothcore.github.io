@@ -1,9 +1,8 @@
 var a23918 =
 [
-    [ "boss_nethermancer_sepethrea", "d8/d26/a23918.html#aae77446e9a8f2ac41601049d3fe9ffd4", null ],
-    [ "EnterEvadeMode", "d8/d26/a23918.html#a0ac9dd29b73e8734318851ffd9a09162", null ],
-    [ "JustDied", "d8/d26/a23918.html#a2ac13176ebffa245fd9e0ba6173f30cc", null ],
-    [ "JustEngagedWith", "d8/d26/a23918.html#a89851b9f6eb94270fe22151d3a968bec", null ],
-    [ "JustSummoned", "d8/d26/a23918.html#acf98dbddcd55131cb9cdebe6d319e2c2", null ],
-    [ "KilledUnit", "d8/d26/a23918.html#ad9606ca8c1fe6f68f72ec415cc70ef2f", null ]
+    [ "boss_laj", "d8/d26/a23918.html#a3c9323ab4b5530504588ea62aed2edff", null ],
+    [ "Reset", "d8/d26/a23918.html#ace690a0662376addaa40093f3f119c31", null ],
+    [ "ScheduleTasks", "d8/d26/a23918.html#a6bd0db1ed4c963cdceb681c84469b06c", null ],
+    [ "_lastTransform", "d8/d26/a23918.html#a097eacaaf77a09bec087530bad587b11", null ],
+    [ "_transformContainer", "d8/d26/a23918.html#a313e66ceeb4e359251dad65383e7f568", null ]
 ];

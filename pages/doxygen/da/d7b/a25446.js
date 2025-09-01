@@ -1,8 +1,7 @@
 var a25446 =
 [
-    [ "HandleFinish", "da/d7b/a25446.html#aac1981a16cbb61bfaf20c865bcfaf6a8", null ],
-    [ "PrepareSpellScript", "da/d7b/a25446.html#a73865997890d4f58cc09d54c2c4e5243", null ],
-    [ "Register", "da/d7b/a25446.html#a106cf5d53956b66f8f548caceda41dc8", null ],
-    [ "SelectTarget", "da/d7b/a25446.html#ab33513df20e942ba354932df5082efa8", null ],
-    [ "_target", "da/d7b/a25446.html#af25d11fc93423ee6e1678ebb5dcf1276", null ]
+    [ "HandleDummy", "da/d7b/a25446.html#a704a2f1c36b32809b22bc3edc87b3414", null ],
+    [ "PrepareSpellScript", "da/d7b/a25446.html#aad01f2888176e8a555fe7acd1bc3fd8b", null ],
+    [ "Register", "da/d7b/a25446.html#ae12fa2b2f9859b465a64fbec04345c9e", null ],
+    [ "Validate", "da/d7b/a25446.html#ad4bb369ef46122cd45c38d876884d350", null ]
 ];

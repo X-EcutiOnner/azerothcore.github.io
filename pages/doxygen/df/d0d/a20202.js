@@ -1,6 +1,7 @@
 var a20202 =
 [
-    [ "npc_ulduar_toasty_fireAI", "d9/dc4/a20206.html", "d9/dc4/a20206" ],
-    [ "npc_ulduar_toasty_fire", "df/d0d/a20202.html#a5a5b77088b24f1c5743c58034190d5ab", null ],
-    [ "GetAI", "df/d0d/a20202.html#a2518ec39c3cea2f3efc5000e0a7779d0", null ]
+    [ "achievement_flame_leviathan_garage", "df/d0d/a20202.html#a1893b4059d7212d023c45bb828bb1905", null ],
+    [ "OnCheck", "df/d0d/a20202.html#aa5897eb1fadeda4dda9f2390053d89b6", null ],
+    [ "_entry1", "df/d0d/a20202.html#af482d6c1b2681b9fec572281620a86b7", null ],
+    [ "_entry2", "df/d0d/a20202.html#a41e83b47c411dc6a6aff310ae7059f4e", null ]
 ];

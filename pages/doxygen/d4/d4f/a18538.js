@@ -1,6 +1,11 @@
 var a18538 =
 [
-    [ "HandleScript", "d4/d4f/a18538.html#a930b8a515b5d156c16925dc218cf8172", null ],
-    [ "PrepareSpellScript", "d4/d4f/a18538.html#a892b0ba0f6541b3557a0200be5028479", null ],
-    [ "Register", "d4/d4f/a18538.html#a1eb85bc675a89ef9679e673c1fea9a08", null ]
+    [ "npc_terenas_menethilAI", "d4/d4f/a18538.html#aa2e95b96928b033ef374843ad1fb9f3c", null ],
+    [ "CanAIAttack", "d4/d4f/a18538.html#a1414da7f20e0f93486eb77c9b9450fa9", null ],
+    [ "DamageTaken", "d4/d4f/a18538.html#ae62a6f965ffb11d633190f1ca4122bc9", null ],
+    [ "DoAction", "d4/d4f/a18538.html#a4f261b19a7a8676dfd6d76d428a4f1b1", null ],
+    [ "EnterEvadeMode", "d4/d4f/a18538.html#ada5313b34e8c20c82ac97396e54e27df", null ],
+    [ "UpdateAI", "d4/d4f/a18538.html#a6210ca6e5e954d5c66d2108359efc888", null ],
+    [ "_events", "d4/d4f/a18538.html#ae61e4919b99a2b9195a389992947a125", null ],
+    [ "_instance", "d4/d4f/a18538.html#a60aae54e5e54526ba12a9468a3f45c88", null ]
 ];

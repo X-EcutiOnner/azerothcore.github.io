@@ -1,9 +1,9 @@
 var a22462 =
 [
-    [ "npc_crusade_recruitAI", "d2/d8e/a22462.html#aa5d5e8cc4fe612fda84d971d9cee987f", null ],
-    [ "Reset", "d2/d8e/a22462.html#a183360b99ecbd784b4dabbf5158f59d1", null ],
-    [ "sGossipSelect", "d2/d8e/a22462.html#ab7bfdc4cc8c86645174ac154ee5db541", null ],
-    [ "UpdateAI", "d2/d8e/a22462.html#a0b4dad62e1adf04013d8fbcefe310400", null ],
-    [ "_events", "d2/d8e/a22462.html#a32060a04ba73fbf9ae2df8417e826ce9", null ],
-    [ "_heading", "d2/d8e/a22462.html#a6e260a6e085962d54b765bff4cb17963", null ]
+    [ "npc_brunnhildar_prisonerAI", "d2/d8e/a22462.html#ad650885c7f615f8b27ba20203c9fbb6f", null ],
+    [ "JustRespawned", "d2/d8e/a22462.html#a15843fcdc5d9eb34df7869b56a0b16ac", null ],
+    [ "Reset", "d2/d8e/a22462.html#ac9ba0806b9702cebe9171d9ba8962b0f", null ],
+    [ "SpellHit", "d2/d8e/a22462.html#af2835ec5b951e2f4bb176ebe6bb958fd", null ],
+    [ "UpdateAI", "d2/d8e/a22462.html#a0702d4cf577ac00688a7b93bfe656952", null ],
+    [ "freed", "d2/d8e/a22462.html#a46e03a19bac91a800154e3c873235800", null ]
 ];

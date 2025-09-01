@@ -1,6 +1,5 @@
 var a12982 =
 [
-    [ "npc_acherus_necromancerAI", "d8/d05/a12986.html", "d8/d05/a12986" ],
-    [ "npc_acherus_necromancer", "d0/d4e/a12982.html#a14ca04a1656a6bb0c842ecb709aba1a7", null ],
-    [ "GetAI", "d0/d4e/a12982.html#af43b1908b1d99868ea5a3899fe8ebd02", null ]
+    [ "boss_ellris_duskhallow", "d0/d4e/a12982.html#a85dc1f923c8211180cc5b250fb509ba7", null ],
+    [ "JustEngagedWith", "d0/d4e/a12982.html#a5bb5bc51b62ad371bf086c6ced2eee89", null ]
 ];

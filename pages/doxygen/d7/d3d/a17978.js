@@ -1,6 +1,7 @@
 var a17978 =
 [
-    [ "ExtraRemoveEffect", "d7/d3d/a17978.html#a49b1087d66606ddeebe6918ad05d4b37", null ],
-    [ "PrepareAuraScript", "d7/d3d/a17978.html#a41992ed6c23275d3a910915755b682f9", null ],
-    [ "Register", "d7/d3d/a17978.html#ab956cb95473cf0c5fc9fb2af14fc945e", null ]
+    [ "HandleScriptEffect", "d7/d3d/a17978.html#abeb703f8f050677bafb8f5ce4173751a", null ],
+    [ "PrepareSpellScript", "d7/d3d/a17978.html#a19dec2c1cbe72d90fa86960d7bb21277", null ],
+    [ "Register", "d7/d3d/a17978.html#aa2c6c9de775ecce9f84485e0ac64a651", null ],
+    [ "SelectTarget", "d7/d3d/a17978.html#ae8eb94536a9f08138b42cfe8ea711eaa", null ]
 ];

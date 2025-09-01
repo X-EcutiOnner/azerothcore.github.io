@@ -1,8 +1,5 @@
 var a01982 =
 [
-    [ "WorldPackets::Query::NameQuery", "d5/d95/a10920.html", "d5/d95/a10920" ],
-    [ "WorldPackets::Query::NameQueryResponse", "d3/de7/a10924.html", "d3/de7/a10924" ],
-    [ "WorldPackets::Query::TimeQuery", "d6/d70/a10928.html", "d6/d70/a10928" ],
-    [ "WorldPackets::Query::TimeQueryResponse", "db/da9/a10932.html", "db/da9/a10932" ],
-    [ "WorldPackets::Query::CorpseMapPositionQuery", "d1/d37/a10936.html", "d1/d37/a10936" ]
+    [ "quest_commandscript", "da/d27/a11878.html", "da/d27/a11878" ],
+    [ "AddSC_quest_commandscript", "d2/d3d/a01982.html#ae9edb5f21eaacbfd73cc01543cb2fcdd", null ]
 ];

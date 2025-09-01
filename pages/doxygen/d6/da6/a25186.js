@@ -1,10 +1,7 @@
 var a25186 =
 [
-    [ "spell_gen_summon_elemental", "d6/da6/a25186.html#ae2dece3ac20afe16430e741fab909fa1", null ],
-    [ "AfterApply", "d6/da6/a25186.html#a97fbc7e3f60b6aae5d9783bbd9a2415d", null ],
-    [ "AfterRemove", "d6/da6/a25186.html#aeec3688e66a7e9f0207b219e9dcdb265", null ],
-    [ "PrepareAuraScript", "d6/da6/a25186.html#a3ad6e5615bb080abae4e18673cd40b6d", null ],
-    [ "Register", "d6/da6/a25186.html#ac364e1a3c4b5a1cfd35d8dcec0a42345", null ],
-    [ "Validate", "d6/da6/a25186.html#ac2284d4f192fe402ebcf6ad75e777c2a", null ],
-    [ "_spellId", "d6/da6/a25186.html#a6ac27b65f909a8c832cf3d301c8db0ce", null ]
+    [ "HandleScript", "d6/da6/a25186.html#a9fb69011ce5245925eb6a4fd011d18b2", null ],
+    [ "PrepareSpellScript", "d6/da6/a25186.html#ab9300ff0efc4a36d652a1b56c031dc2f", null ],
+    [ "Register", "d6/da6/a25186.html#aa0828fa1a3cf75e8222607a4f2fff950", null ],
+    [ "Validate", "d6/da6/a25186.html#a9469ebca2d40dd2944f2fb7286fc64ff", null ]
 ];

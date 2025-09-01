@@ -1,6 +1,7 @@
 var a10874 =
 [
-    [ "PetAbandon", "d2/d74/a10874.html#aeac05969ce6bdb41a02f7ffe56126dfd", null ],
-    [ "Read", "d2/d74/a10874.html#a58ebb244de4bd65a85f75dcc24250883", null ],
-    [ "PetGUID", "d2/d74/a10874.html#a7175c081b7cb691ceb4729c1abc5028e", null ]
+    [ "PlayMusic", "d2/d74/a10874.html#afee4b7ae9ac5f4f2b7365d3d00e7b581", null ],
+    [ "PlayMusic", "d2/d74/a10874.html#ad3d833f70de5937365c2351aa5206bbf", null ],
+    [ "Write", "d2/d74/a10874.html#ad01a67d76fe9dff269eac9108a27c75a", null ],
+    [ "SoundKitID", "d2/d74/a10874.html#ad2342dd0c1461283c595af29c3bc9fe6", null ]
 ];

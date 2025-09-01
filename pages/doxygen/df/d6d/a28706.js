@@ -1,20 +1,16 @@
 var a28706 =
 [
-    [ "FileLoader", "df/d6d/a28706.html#a51313b536560d1d89d8350475d2bc749", null ],
-    [ "~FileLoader", "df/d6d/a28706.html#a0954776182dd01364bdb216539ce398b", null ],
-    [ "FileLoader", "df/d6d/a28706.html#a51313b536560d1d89d8350475d2bc749", null ],
-    [ "~FileLoader", "df/d6d/a28706.html#a0954776182dd01364bdb216539ce398b", null ],
-    [ "free", "df/d6d/a28706.html#a738aeb2ebe751c9fc75013dbce30dcc4", null ],
-    [ "free", "df/d6d/a28706.html#aef98564821c8e63b6d484179cda0b380", null ],
-    [ "GetData", "df/d6d/a28706.html#aed85cdbd6a4e52096292c6ed8578f7bd", null ],
-    [ "GetData", "df/d6d/a28706.html#aed85cdbd6a4e52096292c6ed8578f7bd", null ],
-    [ "GetDataSize", "df/d6d/a28706.html#a2a07adb0692a51af06ccd31d449ae444", null ],
-    [ "GetDataSize", "df/d6d/a28706.html#a2a07adb0692a51af06ccd31d449ae444", null ],
-    [ "loadFile", "df/d6d/a28706.html#a11908109042f93ddde393e7a874683c9", null ],
-    [ "loadFile", "df/d6d/a28706.html#a11908109042f93ddde393e7a874683c9", null ],
-    [ "prepareLoadedData", "df/d6d/a28706.html#ab66347098d7c9ac470339c232f9b7588", null ],
-    [ "prepareLoadedData", "df/d6d/a28706.html#a498a33d80768843b4ab1ff2d5ffe68d9", null ],
-    [ "data", "df/d6d/a28706.html#aff1880ac2038f17f4d1f63bc9f7d9afd", null ],
-    [ "data_size", "df/d6d/a28706.html#a355891fc980538e74080b9b83a95dec8", null ],
-    [ "version", "df/d6d/a28706.html#a41cedec185e5909d83c8a185d1476dee", null ]
+    [ "GetAddressForClient", "df/d6d/a28706.html#a2a3f3db57bb7e6f69ca4f030b65c7331", null ],
+    [ "AllowedSecurityLevel", "df/d6d/a28706.html#a25e953d80aa3c80e068afe6b57f67d99", null ],
+    [ "Build", "df/d6d/a28706.html#a64533e919d8c3a37bd5668af77d09166", null ],
+    [ "ExternalAddress", "df/d6d/a28706.html#a703504aaf54f1ecf934b9184e9737367", null ],
+    [ "Flags", "df/d6d/a28706.html#a1984cc9564b01b6456f31f77fd65a6d6", null ],
+    [ "Id", "df/d6d/a28706.html#ab0ccda7e7a58eee0965261767f3ee2ee", null ],
+    [ "LocalAddress", "df/d6d/a28706.html#a61f429ddc92895e66dff2808e17cc322", null ],
+    [ "LocalSubnetMask", "df/d6d/a28706.html#a52a4b2704e7f76d8ea296148cefb9482", null ],
+    [ "Name", "df/d6d/a28706.html#a9381717fdc924158ecd61a8f00488fc0", null ],
+    [ "PopulationLevel", "df/d6d/a28706.html#a63cdbd47c50f368974b43c3db2f32cee", null ],
+    [ "Port", "df/d6d/a28706.html#a0131d758f10cbae0c610c2c088299feb", null ],
+    [ "Timezone", "df/d6d/a28706.html#a377055c4729f21beecb8601cd79017db", null ],
+    [ "Type", "df/d6d/a28706.html#af77452a4cf7f632d692079615af4737c", null ]
 ];

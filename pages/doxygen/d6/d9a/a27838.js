@@ -1,7 +1,9 @@
 var a27838 =
 [
-    [ "cutPercent", "d6/d9a/a27838.html#a8581a6a5198dab10680f477a477a7c80", null ],
-    [ "depositPercent", "d6/d9a/a27838.html#af7bb868f1a1e8d570ce7b6cb10ad87d9", null ],
-    [ "faction", "d6/d9a/a27838.html#a4b857e3c4c333b2a86f7f5d08bcc883d", null ],
-    [ "houseId", "d6/d9a/a27838.html#a1bf77c1b14731def0e3de44143df2eed", null ]
+    [ "npc_arcanite_dragonling", "d6/d9a/a27838.html#a9b7e4cefa312a16c90018d655ad94758", null ],
+    [ "CanAIAttack", "d6/d9a/a27838.html#a374e127ef749dc72ec70137bcd13a0b9", null ],
+    [ "IsSummonedBy", "d6/d9a/a27838.html#a921b35a91c4f21258efdb41fd87413db", null ],
+    [ "JustEngagedWith", "d6/d9a/a27838.html#a65f6d779681861117f750b70154b3e0d", null ],
+    [ "Reset", "d6/d9a/a27838.html#a4468d91430add821bf7a7ab11d8063da", null ],
+    [ "UpdateAI", "d6/d9a/a27838.html#aebe430b9a3079a5ccbfd979a74e532f3", null ]
 ];

@@ -1,6 +1,6 @@
 var a21498 =
 [
-    [ "npc_violet_hold_defense_system", "d3/d0f/a21498.html#abb5eb275e803201aad3010ad77aa4b41", null ],
-    [ "Reset", "d3/d0f/a21498.html#a77925ae6097f7a52d446ee20bbb3de62", null ],
-    [ "UpdateAI", "d3/d0f/a21498.html#ab39bc3da2d7ce33be1e27cd48fc16e89", null ]
+    [ "npc_erekem_guardAI", "db/d00/a21502.html", "db/d00/a21502" ],
+    [ "npc_erekem_guard", "d3/d0f/a21498.html#a78592996e90f77f81eec0325a7f11956", null ],
+    [ "GetAI", "d3/d0f/a21498.html#a844a6a29eda4f41547ea37a4c08fb723", null ]
 ];

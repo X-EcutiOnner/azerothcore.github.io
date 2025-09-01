@@ -1,6 +1,9 @@
 var a21710 =
 [
-    [ "npc_dalaran_mageAI", "d6/d05/a21714.html", "d6/d05/a21714" ],
-    [ "npc_dalaran_mage", "d2/d0e/a21710.html#a764d637ab0c64e2a0cc0459269974d6d", null ],
-    [ "GetAI", "d2/d0e/a21710.html#ae2deef0546e2bf0df562e0a67b8b0b93", null ]
+    [ "npc_lurgglbrAI", "d2/d0e/a21710.html#a9239b85c65f9b405335d432f355637d5", null ],
+    [ "Reset", "d2/d0e/a21710.html#a13b8bd8e7d85c93b0ee88c6e9f6d09ca", null ],
+    [ "UpdateAI", "d2/d0e/a21710.html#aee019df9abe7ca3bf36a6de2321bedec", null ],
+    [ "WaypointReached", "d2/d0e/a21710.html#a09ac2f2f21eefedd0052f727546bafb5", null ],
+    [ "IntroPhase", "d2/d0e/a21710.html#a57e2c42cccf91765365e0b046446637a", null ],
+    [ "IntroTimer", "d2/d0e/a21710.html#ada9762806ae0132e37197e6fb1279866", null ]
 ];

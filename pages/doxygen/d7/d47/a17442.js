@@ -1,6 +1,6 @@
 var a17442 =
 [
-    [ "npc_saurfang_eventAI", "de/d88/a17446.html", "de/d88/a17446" ],
-    [ "npc_saurfang_event", "d7/d47/a17442.html#a3bfce5457466360458498833098d660c", null ],
-    [ "GetAI", "d7/d47/a17442.html#a953842d2fa3380a8331faf3a42cb3177", null ]
+    [ "boss_prince_taldaramAI", "de/d88/a17446.html", "de/d88/a17446" ],
+    [ "boss_prince_taldaram_icc", "d7/d47/a17442.html#abe14f754e1daf597aa2b7d401f337c8d", null ],
+    [ "GetAI", "d7/d47/a17442.html#a2a8c89206ab72afc68260f41a246da3b", null ]
 ];

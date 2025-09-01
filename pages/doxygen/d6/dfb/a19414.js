@@ -1,11 +1,10 @@
 var a19414 =
 [
-    [ "npc_oculus_drakegiverAI", "de/d0d/a19418.html", "de/d0d/a19418" ],
-    [ "npc_oculus_drakegiver", "d6/dfb/a19414.html#add34aba22fb2ca16f6f055dd77a2994b", null ],
-    [ "GetAI", "d6/dfb/a19414.html#aa26a2b82c5e4076ce704d5884895d903", null ],
-    [ "OnGossipHello", "d6/dfb/a19414.html#ac00d09d2d81121d562e3303704229c18", null ],
-    [ "OnGossipSelect", "d6/dfb/a19414.html#ad0fc46e306080ccfe9988d416ef71e77", null ],
-    [ "RemoveEssence", "d6/dfb/a19414.html#a70513d873111c590ca4e33cb446a4438", null ],
-    [ "StoreEssence", "d6/dfb/a19414.html#ac8bbe890722aa924a7f0dee161d342c4", null ],
-    [ "openedMenu", "d6/dfb/a19414.html#a650d1cd18700e29328e0fc97b1709f38", null ]
+    [ "npc_power_sparkAI", "d6/dfb/a19414.html#a3f0fd553d859c5709ed2dbd9051db3d3", null ],
+    [ "DamageTaken", "d6/dfb/a19414.html#aebd86516e17e77711d3877a11a159105", null ],
+    [ "DoAction", "d6/dfb/a19414.html#a54b4578be614da76cc886dedbe3d853e", null ],
+    [ "UpdateAI", "d6/dfb/a19414.html#a7e9b2a161fc88d269e631d47c38bfd5e", null ],
+    [ "CheckTimer", "d6/dfb/a19414.html#af98dff7dd45c258d45ce81b8520e56a8", null ],
+    [ "MoveTimer", "d6/dfb/a19414.html#af16a57b82fb94eb464c51b6006f2a66b", null ],
+    [ "pInstance", "d6/dfb/a19414.html#a4142b3872dd17015eeabb2eaee0c3369", null ]
 ];

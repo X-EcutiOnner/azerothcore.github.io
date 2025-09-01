@@ -1,6 +1,6 @@
 var a14102 =
 [
-    [ "boss_renatakiAI", "d1/d1b/a14106.html", "d1/d1b/a14106" ],
-    [ "boss_renataki", "dd/d45/a14102.html#a8504ed2df8c8f8a85fc9d0e99cc24ec6", null ],
-    [ "GetAI", "dd/d45/a14102.html#a386b7ef3d1fc4070eb300cf4fdaa4d9a", null ]
+    [ "npc_zulian_prowlerAI", "d1/d1b/a14106.html", "d1/d1b/a14106" ],
+    [ "npc_zulian_prowler", "dd/d45/a14102.html#a27ae990985976d02bb221b6d669fa849", null ],
+    [ "GetAI", "dd/d45/a14102.html#a7e7d4f8164bbb728a1b83244c1e356f9", null ]
 ];

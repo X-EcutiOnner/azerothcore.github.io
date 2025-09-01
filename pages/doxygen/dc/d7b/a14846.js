@@ -1,6 +1,7 @@
 var a14846 =
 [
-    [ "NpcRunToHome", "dc/d7b/a14846.html#ac190e89b494554e391e6ebd878d7f8e8", null ],
-    [ "Execute", "dc/d7b/a14846.html#a0da766e3bae0d8d97a46ef82b3873cc0", null ],
-    [ "_owner", "dc/d7b/a14846.html#a7dd38171a6e55665fc28a74212313e51", null ]
+    [ "hyjalTyrandeAI", "d5/d3a/a14850.html", "d5/d3a/a14850" ],
+    [ "npc_hyjal_tyrande", "dc/d7b/a14846.html#abd2ba500d8e2bbf20c00905012d47d12", null ],
+    [ "GetAI", "dc/d7b/a14846.html#a2f863e616352a98763eef9a717d73388", null ],
+    [ "OnGossipSelect", "dc/d7b/a14846.html#a014a63098e18b08b6f5cd33a0cba2072", null ]
 ];

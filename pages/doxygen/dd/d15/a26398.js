@@ -1,7 +1,6 @@
 var a26398 =
 [
-    [ "HandleDummy", "dd/d15/a26398.html#ad2367c1fd551187b6f19f795abb15ea6", null ],
-    [ "PrepareSpellScript", "dd/d15/a26398.html#a125f7550ce826f74ac14902bc82d5021", null ],
-    [ "Register", "dd/d15/a26398.html#a35e9132e2414383caafbde699de6061d", null ],
-    [ "Validate", "dd/d15/a26398.html#a530489a10287a6dd281d518683b1a3f3", null ]
+    [ "CheckCast", "dd/d15/a26398.html#a2edd0bcaa3b026cc70f9f6b58f53f486", null ],
+    [ "PrepareSpellScript", "dd/d15/a26398.html#aaf1e16dbc8d33aadcbf74dc4cebe715b", null ],
+    [ "Register", "dd/d15/a26398.html#a32aaab12105c9b1c09edfa8a444ced9c", null ]
 ];

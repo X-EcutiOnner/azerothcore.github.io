@@ -1,6 +1,5 @@
 var a16222 =
 [
-    [ "boss_paletressAI", "d5/dd5/a16226.html", "d5/dd5/a16226" ],
-    [ "boss_paletress", "d7/dfb/a16222.html#a04cbd31e71cc349b8c1058780ee6f673", null ],
-    [ "GetAI", "d7/dfb/a16222.html#a2c20ff397d115cf0e8a1801184e5a3f9", null ]
+    [ "at_baltharus_plateau", "d7/dfb/a16222.html#ac7acc8816b298446ac9bb8d6b82f27b6", null ],
+    [ "OnTrigger", "d7/dfb/a16222.html#aea08e30eb57d5d84b78b8891c4a45afb", null ]
 ];

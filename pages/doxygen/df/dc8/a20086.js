@@ -1,6 +1,6 @@
 var a20086 =
 [
-    [ "boss_freya_healthy_sporeAI", "da/d77/a20090.html", "da/d77/a20090" ],
-    [ "boss_freya_healthy_spore", "df/dc8/a20086.html#a16633136393061aa98c7a98f535d421e", null ],
-    [ "GetAI", "df/dc8/a20086.html#ae76eb3b334f82c536f71fdcfc86e4382", null ]
+    [ "npc_thorims_hammerAI", "da/d77/a20090.html", "da/d77/a20090" ],
+    [ "npc_thorims_hammer", "df/dc8/a20086.html#a97cbcda73931e6119f8ab30fa4bb0806", null ],
+    [ "GetAI", "df/dc8/a20086.html#aaee92d115d112ebf590cf690de8c6667", null ]
 ];

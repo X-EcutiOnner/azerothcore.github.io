@@ -1,6 +1,21 @@
 var a18786 =
 [
-    [ "npc_icc_skybreaker_vicarAI", "df/d26/a18790.html", "df/d26/a18790" ],
-    [ "npc_icc_skybreaker_vicar", "da/d70/a18786.html#a40451cc6fba0cae59e47fa38e4fb79d3", null ],
-    [ "GetAI", "da/d70/a18786.html#a6884bb7e54b78abee0cc995c4fbb501d", null ]
+    [ "npc_crok_scourgebaneAI", "da/d70/a18786.html#a0b59ffcc00aeb1b9ac23ddc0b1504054", null ],
+    [ "CanAIAttack", "da/d70/a18786.html#a0a26fdecc1748b96d0e7598a80449dc9", null ],
+    [ "DamageTaken", "da/d70/a18786.html#ae727d192e29c63d5aa699b491425cdc6", null ],
+    [ "DoAction", "da/d70/a18786.html#aaf9b034a97510ce7d58aa2d9ecfc0c14", null ],
+    [ "Reset", "da/d70/a18786.html#a6c1d480fff0a4a6361986dc82a945534", null ],
+    [ "SetGUID", "da/d70/a18786.html#ad2493bd37a68c9b2709e25231863a863", null ],
+    [ "UpdateAI", "da/d70/a18786.html#a109b1bf28de7903557c9c03957fa7d71", null ],
+    [ "UpdateEscortAI", "da/d70/a18786.html#ae424685131ee51e8d6390e4ddb341b04", null ],
+    [ "WaypointReached", "da/d70/a18786.html#a58c3e2ed37552b3adde1aa4f1a8ba0ba", null ],
+    [ "WaypointStart", "da/d70/a18786.html#a900611179c3c9d4ceffd86261f62151b", null ],
+    [ "_aliveTrash", "da/d70/a18786.html#ae0c99157db5daa07643715a56217bccd", null ],
+    [ "_currentWPid", "da/d70/a18786.html#a541f03486042a87f3ff223d7424d32f8", null ],
+    [ "_didUnderTenPercentText", "da/d70/a18786.html#a8cb4c0126549dbb10e0b60d164ba7924", null ],
+    [ "_events", "da/d70/a18786.html#a8f6b1618223d4660cce33d34d215f323", null ],
+    [ "_handledWP4", "da/d70/a18786.html#acf6f70f93dbca7f5139af17ec411b971", null ],
+    [ "_instance", "da/d70/a18786.html#a0698a3297da669fd5440743be200c378", null ],
+    [ "_isEventDone", "da/d70/a18786.html#a184a0a5b62cfc33c9ae71c0d2d651c27", null ],
+    [ "_wipeCheckTimer", "da/d70/a18786.html#a91be80fbce6f6f0ae6a249128ba319c9", null ]
 ];

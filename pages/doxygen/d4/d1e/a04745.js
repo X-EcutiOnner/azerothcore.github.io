@@ -1,12 +1,25 @@
 var a04745 =
 [
-    [ "HashTrait< GameObjectModel >", "db/d15/a04928.html", "db/d15/a04928" ],
-    [ "PositionTrait< GameObjectModel >", "d5/df2/a04932.html", "d5/df2/a04932" ],
-    [ "BoundsTrait< GameObjectModel >", "dc/de0/a04936.html", "dc/de0/a04936" ],
-    [ "DynTreeImpl", "da/d94/a04940.html", "da/d94/a04940" ],
-    [ "DynamicTreeIntersectionCallback", "d7/d3f/a04944.html", "d7/d3f/a04944" ],
-    [ "DynamicTreeAreaInfoCallback", "de/d1b/a04948.html", "de/d1b/a04948" ],
-    [ "DynamicTreeLocationInfoCallback", "d2/ddb/a04952.html", "d2/ddb/a04952" ],
-    [ "ParentTree", "d4/d1e/a04745.html#a8e6e06962c0e04aa7bb4ea9a8e6f54a9", null ],
-    [ "CHECK_TREE_PERIOD", "d4/d1e/a04745.html#a6c8b5b425bcbc0776a4dfa5dae72bf74", null ]
+    [ "RealmHandle", "d6/df3/a28702.html", "d6/df3/a28702" ],
+    [ "Realm", "df/d6d/a28706.html", "df/d6d/a28706" ],
+    [ "RealmFlags", "d4/d1e/a04745.html#ace3f717ac43bef67791faeb2a0b2c1e2", [
+      [ "REALM_FLAG_NONE", "d4/d1e/a04745.html#ace3f717ac43bef67791faeb2a0b2c1e2a78cb2956eac93bb478e5a6573336a0a2", null ],
+      [ "REALM_FLAG_VERSION_MISMATCH", "d4/d1e/a04745.html#ace3f717ac43bef67791faeb2a0b2c1e2a9e5fc6c089666cb09890f97038c44056", null ],
+      [ "REALM_FLAG_OFFLINE", "d4/d1e/a04745.html#ace3f717ac43bef67791faeb2a0b2c1e2a728d61b0842461c34b1f6167e5dcdb68", null ],
+      [ "REALM_FLAG_SPECIFYBUILD", "d4/d1e/a04745.html#ace3f717ac43bef67791faeb2a0b2c1e2afda7734169f8aad2549a0a0aa4c04903", null ],
+      [ "REALM_FLAG_UNK1", "d4/d1e/a04745.html#ace3f717ac43bef67791faeb2a0b2c1e2a73ff031081f52c4cecfe2f899bb92304", null ],
+      [ "REALM_FLAG_UNK2", "d4/d1e/a04745.html#ace3f717ac43bef67791faeb2a0b2c1e2a9d7b7c5ef743cf68b93360af13b7ed81", null ],
+      [ "REALM_FLAG_RECOMMENDED", "d4/d1e/a04745.html#ace3f717ac43bef67791faeb2a0b2c1e2ab5051c0caffaa54a0fe3aab0d3c99b29", null ],
+      [ "REALM_FLAG_NEW", "d4/d1e/a04745.html#ace3f717ac43bef67791faeb2a0b2c1e2a214cd38c14a7209f7986ae4ca43fe73b", null ],
+      [ "REALM_FLAG_FULL", "d4/d1e/a04745.html#ace3f717ac43bef67791faeb2a0b2c1e2acdaee6e8c961adfa63cde3a06707b952", null ]
+    ] ],
+    [ "RealmType", "d4/d1e/a04745.html#ae8ff852caf6f88797c9c3716d1acbe59", [
+      [ "REALM_TYPE_NORMAL", "d4/d1e/a04745.html#ae8ff852caf6f88797c9c3716d1acbe59accb12c63a2ee89b9c3f72e5fd2b056fb", null ],
+      [ "REALM_TYPE_PVP", "d4/d1e/a04745.html#ae8ff852caf6f88797c9c3716d1acbe59a5b9f160cabace91bff99046f281b899c", null ],
+      [ "REALM_TYPE_NORMAL2", "d4/d1e/a04745.html#ae8ff852caf6f88797c9c3716d1acbe59a8529db1edd00f579cbeff7e0c2a88e19", null ],
+      [ "REALM_TYPE_RP", "d4/d1e/a04745.html#ae8ff852caf6f88797c9c3716d1acbe59a81056f603f1158cb39b25f9ae8beb88f", null ],
+      [ "REALM_TYPE_RPPVP", "d4/d1e/a04745.html#ae8ff852caf6f88797c9c3716d1acbe59a58e3ebd90691c511e7976f5bff724fae", null ],
+      [ "MAX_CLIENT_REALM_TYPE", "d4/d1e/a04745.html#ae8ff852caf6f88797c9c3716d1acbe59a580a3990630da9c56e3fef200d6b15be", null ],
+      [ "REALM_TYPE_FFA_PVP", "d4/d1e/a04745.html#ae8ff852caf6f88797c9c3716d1acbe59a43cf71d6098c453fc931d7e25f729457", null ]
+    ] ]
 ];

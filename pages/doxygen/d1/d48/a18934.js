@@ -1,10 +1,7 @@
 var a18934 =
 [
-    [ "boss_isle_of_conquestAI", "d1/d48/a18934.html#a7880ea86e7a03f5b14875065a83a206a", null ],
-    [ "CheckRageBuff", "d1/d48/a18934.html#a6d60480e39fa89dbcc0facce9f0b69a3", null ],
-    [ "JustEngagedWith", "d1/d48/a18934.html#a878635ef0673325943e6026ad76c2b06", null ],
-    [ "Reset", "d1/d48/a18934.html#add59669e5f6c3c882ac008c720349573", null ],
-    [ "UpdateAI", "d1/d48/a18934.html#ab33aa7e735c5837428a4cf2b76e4275e", null ],
-    [ "events", "d1/d48/a18934.html#a38e308b66b0f35d3efe6916b03e4391c", null ],
-    [ "rage", "d1/d48/a18934.html#aa16ebdd6e2f486d3a6e4b58f4cb5e696", null ]
+    [ "HandleDummyLaunch", "d1/d48/a18934.html#a4991dab04ed9cb8cfd846588a8ef01bf", null ],
+    [ "PrepareSpellScript", "d1/d48/a18934.html#a8926bc8e228eaaa4a7d554643b50e48d", null ],
+    [ "Register", "d1/d48/a18934.html#add5dc6c0a3b618fba3d3a73b6c76235b", null ],
+    [ "Validate", "d1/d48/a18934.html#a577166695c1479e3730a70637bc18cf1", null ]
 ];

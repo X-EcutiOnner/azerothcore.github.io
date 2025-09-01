@@ -1,6 +1,6 @@
 var a25598 =
 [
-    [ "PrepareSpellScript", "de/de5/a25598.html#a3a77016a3a8314969ce41cc6483761ec", null ],
-    [ "Register", "de/de5/a25598.html#ae1fa8b9e4a11c884d10b1f4cc0afd09e", null ],
-    [ "SetDest", "de/de5/a25598.html#a724217c09faa57ec2e6dad034e8709ed", null ]
+    [ "OnRemove", "de/de5/a25598.html#ac3a6d7bdc95605e3c73f8115b4a68da0", null ],
+    [ "PrepareAuraScript", "de/de5/a25598.html#ab1e3a55a35dbbb4bd781ac8c51608e6a", null ],
+    [ "Register", "de/de5/a25598.html#aecd068248e174c4b676ff9f43dd0856f", null ]
 ];

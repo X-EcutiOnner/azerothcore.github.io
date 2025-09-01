@@ -1,6 +1,6 @@
 var a17638 =
 [
-    [ "PrepareSpellScript", "d4/d07/a17638.html#a47df21229183b628c1d82bf34cbbe396", null ],
-    [ "Register", "d4/d07/a17638.html#a3cc4a1180f66cd9fe19020c1e5f2fccb", null ],
-    [ "RelocateTransportOffset", "d4/d07/a17638.html#acab29d77b4806f5d59ddc5dc3493c8ae", null ]
+    [ "PrepareAuraScript", "d4/d07/a17638.html#abbcd0a9a63908a875bcdbc66fb5e1218", null ],
+    [ "RecalculateHook", "d4/d07/a17638.html#a829e96cabbb565922f7183adb3edf13c", null ],
+    [ "Register", "d4/d07/a17638.html#a7ded7cbe8c5cbffd6798bbb66d8a5d1a", null ]
 ];

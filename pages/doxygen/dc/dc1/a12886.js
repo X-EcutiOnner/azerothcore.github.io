@@ -1,11 +1,8 @@
 var a12886 =
 [
-    [ "npc_scarlet_ghoulAI", "dc/dc1/a12886.html#a194795143717de5aa8f0ca4c4e516136", null ],
-    [ "InitializeAI", "dc/dc1/a12886.html#ad0fd204d15350332508b0c9d9decefb1", null ],
-    [ "MovementInform", "dc/dc1/a12886.html#a9836c91a7dede1fabd1e0a9523ebd26a", null ],
-    [ "OwnerAttackedBy", "dc/dc1/a12886.html#a5b0afc1f2ee57a1cc5e30b8e997ba218", null ],
-    [ "SetGUID", "dc/dc1/a12886.html#a832602498643a03087efbc0a5a2f81c3", null ],
-    [ "UpdateAI", "dc/dc1/a12886.html#adbe4d539552e7954c7bdb8e520cb9783", null ],
-    [ "events", "dc/dc1/a12886.html#a105ac0982d28be590d514d2e452109c0", null ],
-    [ "gothikGUID", "dc/dc1/a12886.html#ab5efaf2e030f92d7ab45de8b5d19804d", null ]
+    [ "npc_cyclone", "dc/dc1/a12886.html#afdc4f98b031f832702929c6a7f192ab5", null ],
+    [ "JustEngagedWith", "dc/dc1/a12886.html#a61d0710868c91f707643a436c0d79485", null ],
+    [ "Reset", "dc/dc1/a12886.html#a60b74a96fccc12333b9dc3ed67a54637", null ],
+    [ "UpdateAI", "dc/dc1/a12886.html#a224795b4ea46fc2c9346e361410f0c0f", null ],
+    [ "_scheduler", "dc/dc1/a12886.html#a77f4d42ff45e0565f2d9ee5b27787ffd", null ]
 ];

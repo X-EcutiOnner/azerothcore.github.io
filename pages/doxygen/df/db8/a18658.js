@@ -1,6 +1,6 @@
 var a18658 =
 [
-    [ "npc_captain_rupertAI", "df/db8/a18658.html#ae91de64c440e71e612f34e37b90076d5", null ],
-    [ "Reset", "df/db8/a18658.html#a8ebaca725aba2c3aed8856fb23228ae1", null ],
-    [ "UpdateAI", "df/db8/a18658.html#a2edf4e51c9a5bde61a1875c067e963f2", null ]
+    [ "npc_valithria_portalAI", "d3/dff/a18662.html", "d3/dff/a18662" ],
+    [ "npc_valithria_portal", "df/db8/a18658.html#a6014d7a57dfe5d21f63c03b3efcbdfc8", null ],
+    [ "GetAI", "df/db8/a18658.html#a9770ad0bc3732f2271876bbc84885dc0", null ]
 ];

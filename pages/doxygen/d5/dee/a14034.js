@@ -1,6 +1,6 @@
 var a14034 =
 [
-    [ "HandleOnHit", "d5/dee/a14034.html#a76b09288d14d399735250607e2105eb3", null ],
-    [ "PrepareSpellScript", "d5/dee/a14034.html#a2270ce546ae286ffa701d094df591aa2", null ],
-    [ "Register", "d5/dee/a14034.html#a710f2a60bf6ae00909d279b98ac6b7d6", null ]
+    [ "go", "d5/dee/a14034.html#ac14168f8c25efe7fa22ec802259b3a11", null ],
+    [ "npc", "d5/dee/a14034.html#a04d6e67fa2fb208ca747798ccc53083d", null ],
+    [ "pos", "d5/dee/a14034.html#a51175880a326101b29879d7a6a62c48d", null ]
 ];

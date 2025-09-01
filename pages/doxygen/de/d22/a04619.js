@@ -1,7 +1,6 @@
 var a04619 =
 [
-    [ "Crash", "de/d22/a04619.html#a510bae7d9948cf497418ec913452009f", null ],
-    [ "GetDebugInfo", "de/d22/a04619.html#a29601d3ea684d75bac9c331eb4866951", null ],
-    [ "MakeAbortMessage", "de/d22/a04619.html#a52b8a43ee2424672ac8de45dcc283eda", null ],
-    [ "MakeMessage", "de/d22/a04619.html#a31219fe016a9b170fc6ae111157ba552", null ]
+    [ "CharacterDatabase", "de/d22/a04619.html#af8239cd04c4137e1e621226a6d919ed4", null ],
+    [ "LoginDatabase", "de/d22/a04619.html#ae753c5c60b556b0cb7998e7424be5cbf", null ],
+    [ "WorldDatabase", "de/d22/a04619.html#af42e9d262f732792d1e81568ae38ea2e", null ]
 ];

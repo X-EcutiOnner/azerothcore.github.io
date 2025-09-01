@@ -1,7 +1,6 @@
 var a25526 =
 [
-    [ "HandleDummy", "da/dad/a25526.html#a5a82cbe58f57c94441cfda618e0eecca", null ],
-    [ "HandleScriptEffect", "da/dad/a25526.html#a30d760a8708b49a185eb000249a9a5eb", null ],
-    [ "PrepareSpellScript", "da/dad/a25526.html#a102d8493d285757c789cbba4a1bdc688", null ],
-    [ "Register", "da/dad/a25526.html#ab4031ddb745995128854c149f7706045", null ]
+    [ "CalculateAmount", "da/dad/a25526.html#a83bf0327aade6f6a33293a442ad10911", null ],
+    [ "PrepareAuraScript", "da/dad/a25526.html#aa964f4eb7391dab54ff744fc94306de1", null ],
+    [ "Register", "da/dad/a25526.html#a37d29d87bec2fe2908b7d3e47f5e1caa", null ]
 ];

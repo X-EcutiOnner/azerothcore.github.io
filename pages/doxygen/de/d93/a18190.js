@@ -1,6 +1,7 @@
 var a18190 =
 [
-    [ "LichKingDeathEvent", "de/d93/a18190.html#a9aa328b60358034355b1eed5caacb9f8", null ],
-    [ "Execute", "de/d93/a18190.html#a06b9a77d3c5efb228368a1e423a620ae", null ],
-    [ "_owner", "de/d93/a18190.html#a75ccb1b2bd5a8149aff85404b5e0ce21", null ]
+    [ "FrostBombExplosion", "de/d93/a18190.html#ac7d318e241e6442e8aa084b27ea50236", null ],
+    [ "Execute", "de/d93/a18190.html#a0b6521266f18b621260286c530ff3f36", null ],
+    [ "_owner", "de/d93/a18190.html#aa9ff39ce43c351e8815f895896fa759b", null ],
+    [ "_sindragosaGUID", "de/d93/a18190.html#a5afc3d543c8fa457c90735f841aa161c", null ]
 ];

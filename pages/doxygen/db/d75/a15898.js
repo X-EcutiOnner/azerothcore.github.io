@@ -1,15 +1,12 @@
 var a15898 =
 [
-    [ "boss_hadronoxAI", "db/d75/a15898.html#a75430465e2329252581c2522ff14d82b", null ],
-    [ "AnyPlayerValid", "db/d75/a15898.html#a5b4dc381ff6df8a4badc61196e2687bd", null ],
-    [ "CheckEvadeIfOutOfCombatArea", "db/d75/a15898.html#aa5c858b2702744f24ac1d22078df1d7b", null ],
-    [ "DamageTaken", "db/d75/a15898.html#a31ddd8521366da9cb862334c659288b3", null ],
-    [ "DoAction", "db/d75/a15898.html#ab3bf3ca6a2adcf4c50a9bf1ddc8bac0e", null ],
-    [ "GetData", "db/d75/a15898.html#a6fdb9b9650382600086f5646a627af52", null ],
-    [ "JustDied", "db/d75/a15898.html#a42ffdf5a3d2ee43ddf0fc0d29f580491", null ],
-    [ "JustEngagedWith", "db/d75/a15898.html#af8bcc00fbf757e0a0129111cca0a0a5c", null ],
-    [ "JustSummoned", "db/d75/a15898.html#a65b93a213a69edf864ca123b6560b0a8", null ],
-    [ "KilledUnit", "db/d75/a15898.html#ac4b6a589939bdc8a23f182ebf955e242", null ],
-    [ "Reset", "db/d75/a15898.html#a1063db2596a0d57381011c2a6ceeb34e", null ],
-    [ "UpdateAI", "db/d75/a15898.html#a10aa0f67aeb12d3d9a34f6213fe3d28f", null ]
+    [ "DialogueHelper", "db/d75/a15898.html#a3566655e8781bf5f9dff514fcd659421", null ],
+    [ "DialogueUpdate", "db/d75/a15898.html#aaac3463d91a0cdbe2622b4fd85b34ed0", null ],
+    [ "DoNextDialogueStep", "db/d75/a15898.html#a6e23a56ba5c5e4d4ab3b4c6be5cb09af", null ],
+    [ "GetSpeakerByEntry", "db/d75/a15898.html#a50e652ca2cff035d8c79517fdbcfc67a", null ],
+    [ "JustDidDialogueStep", "db/d75/a15898.html#a79e80634f1780895669f5c810958fd4f", null ],
+    [ "StartNextDialogueText", "db/d75/a15898.html#ac16b8b9b50e8b35980d21f161bf33340", null ],
+    [ "_actionTimer", "db/d75/a15898.html#a33b8551c136bcbc896b29d935c155a75", null ],
+    [ "_currentEntry", "db/d75/a15898.html#a89ca5e8d25372bd8ab32322a0a9999f2", null ],
+    [ "_dialogueArray", "db/d75/a15898.html#a489b8cd1c75ced0ec8e34b8051899dd7", null ]
 ];

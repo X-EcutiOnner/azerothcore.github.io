@@ -1,5 +1,6 @@
 var a20566 =
 [
-    [ "go_ulduar_working_harpoon", "dc/d04/a20566.html#a9aaaa16f23f07e402f20a048fd69d347", null ],
-    [ "OnGossipHello", "dc/d04/a20566.html#a164bdd0a9538293699665a821c4f25f3", null ]
+    [ "OnPeriodic", "dc/d04/a20566.html#a8a12342f694499043e8ed4446fd92d36", null ],
+    [ "PrepareAuraScript", "dc/d04/a20566.html#a9294210ece0c3bcda0639d1fc486cc9a", null ],
+    [ "Register", "dc/d04/a20566.html#a381709d53101832de6b2161c4a33a0d4", null ]
 ];

@@ -1,9 +1,7 @@
 var a14830 =
 [
-    [ "boss_chrono_lord_deja", "db/d05/a14830.html#a85f82d4bde99b7e1d05fba82177916e6", null ],
-    [ "JustDied", "db/d05/a14830.html#a68eb4941364f9fac121aa3d610d45f48", null ],
-    [ "JustEngagedWith", "db/d05/a14830.html#ab5324b2993f2fd1ec3290eb962ef6065", null ],
-    [ "KilledUnit", "db/d05/a14830.html#a02c279fb1cfccd38dc60ba7c610cf859", null ],
-    [ "MoveInLineOfSight", "db/d05/a14830.html#a535c0c157c60804188ad8c4413c277dd", null ],
-    [ "OwnTalk", "db/d05/a14830.html#acdef53bd447c30d87bd15af3bf4200bc", null ]
+    [ "hyjalJainaAI", "dd/d2e/a14834.html", "dd/d2e/a14834" ],
+    [ "npc_hyjal_jaina", "db/d05/a14830.html#a6616aa6c38818770610259312a392a3f", null ],
+    [ "GetAI", "db/d05/a14830.html#ab1891f5a2aacf5d9aeb9377bd92393ed", null ],
+    [ "OnGossipSelect", "db/d05/a14830.html#a47853fa317b1a9325fcbe555867139f6", null ]
 ];

@@ -1,8 +1,6 @@
 var a13754 =
 [
-    [ "npc_the_scourge_cauldronAI", "df/de9/a13754.html#aa8b221cfe49b09efbfe5943489c844b8", null ],
-    [ "DoDie", "df/de9/a13754.html#a9f720a27db2943a66b11ad6355690bf5", null ],
-    [ "JustEngagedWith", "df/de9/a13754.html#a89954dec2f7d57d933c18822333243ac", null ],
-    [ "MoveInLineOfSight", "df/de9/a13754.html#a256195dbe75859d72afcd0defb9ff76e", null ],
-    [ "Reset", "df/de9/a13754.html#ab18bb2eb344f45827685786c665b1750", null ]
+    [ "npc_rinjiAI", "dc/d42/a13758.html", "dc/d42/a13758" ],
+    [ "npc_rinji", "df/de9/a13754.html#af89b9c77b1a57dc506de0398a0d4b957", null ],
+    [ "GetAI", "df/de9/a13754.html#a5457ac00ce0b195752640358b912af10", null ]
 ];

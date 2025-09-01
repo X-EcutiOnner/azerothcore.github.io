@@ -1,8 +1,5 @@
 var a15250 =
 [
-    [ "npc_obsidian_eradicator", "d4/d0e/a15250.html#a84a6c414b3d74468143984e57f83e383", null ],
-    [ "JustEngagedWith", "d4/d0e/a15250.html#ab03b7138306a04a00938bf1cdb9a7966", null ],
-    [ "Reset", "d4/d0e/a15250.html#a7c76c7d3a69e464c0dcb6a96226baa61", null ],
-    [ "UpdateAI", "d4/d0e/a15250.html#a1697d83e89559f047d5bab652007bb61", null ],
-    [ "_targetGUIDs", "d4/d0e/a15250.html#abd83775d1eab5ab2a3aadd7fd925c3ae", null ]
+    [ "boss_yauj", "d4/d0e/a15250.html#a15ab7b6b35d29fb1552b11586163320e", null ],
+    [ "JustEngagedWith", "d4/d0e/a15250.html#a94a2fa960e6924bde9ba6934a56ed684", null ]
 ];

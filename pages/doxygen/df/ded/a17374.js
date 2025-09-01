@@ -1,7 +1,7 @@
 var a17374 =
 [
-    [ "PeriodicTick", "df/ded/a17374.html#af2419a9f9c8706e6b9a090e88f1b6f78", null ],
-    [ "PrepareAuraScript", "df/ded/a17374.html#ac1abcbe62887678adad0194fdf27825a", null ],
-    [ "Register", "df/ded/a17374.html#a9c92c88bf261f1da2143e7dee41a77ec", null ],
-    [ "Validate", "df/ded/a17374.html#ae7526fcf963fe4ea3ab2f1ec7292e8d8", null ]
+    [ "HandleApplyAura", "df/ded/a17374.html#ac71784d7d135df4828ddcf5c85c4301c", null ],
+    [ "PrepareSpellScript", "df/ded/a17374.html#a097bf3b27e4b2d9ceddea07b9c0b8ce9", null ],
+    [ "Register", "df/ded/a17374.html#a80638966202cb9e27d204ea621e379ef", null ],
+    [ "Validate", "df/ded/a17374.html#aaa3505a74905b91f52e37b0ded0ba7fd", null ]
 ];

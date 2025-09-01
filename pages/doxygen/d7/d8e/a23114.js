@@ -1,12 +1,12 @@
 var a23114 =
 [
-    [ "boss_fathomguard_sharkkis", "d7/d8e/a23114.html#affc3a4422ce62311879bef6df104c9b9", null ],
-    [ "EnterEvadeMode", "d7/d8e/a23114.html#a344072e382566575168cdcf57d0f6481", null ],
-    [ "JustDied", "d7/d8e/a23114.html#a1a4fdf91f6d8d0e3e0672e174152a59d", null ],
-    [ "JustEngagedWith", "d7/d8e/a23114.html#a5724db6f55f1c5ed2e351603a1b26943", null ],
-    [ "JustSummoned", "d7/d8e/a23114.html#a31098d1e91412b797663fe677114af20", null ],
-    [ "Reset", "d7/d8e/a23114.html#a5d8b89e2d4a203df5ec574b96df0d489", null ],
-    [ "UpdateAI", "d7/d8e/a23114.html#ab71689fda10d6d31dd2bfc72026bd755", null ],
-    [ "_instance", "d7/d8e/a23114.html#ad3dc90987a8b01fcd55799f66d18906c", null ],
-    [ "_summons", "d7/d8e/a23114.html#a73f887b3f829027fc336a8e4a9c5b963", null ]
+    [ "boss_shade_of_akama", "d7/d8e/a23114.html#a385bf995d19652254d6ae8a447c23c37", null ],
+    [ "EnterEvadeMode", "d7/d8e/a23114.html#a690f8058fb4358b98960177d76864275", null ],
+    [ "JustDied", "d7/d8e/a23114.html#aa22052befeb48c0c7ec3a3cedd91daff", null ],
+    [ "MovementInform", "d7/d8e/a23114.html#a345707efebd5027c01a25a563d1e6f43", null ],
+    [ "Reset", "d7/d8e/a23114.html#a19a1aca1a599704612ac845001895b4f", null ],
+    [ "SpellHit", "d7/d8e/a23114.html#a5a49f0dab7ce6ee81b9ed8deb5704720", null ],
+    [ "UpdateAI", "d7/d8e/a23114.html#a25ffed5526b1f25eb1cf790745e2a7c7", null ],
+    [ "channelers", "d7/d8e/a23114.html#a63372527172d3f96f533b5776221c2e7", null ],
+    [ "generators", "d7/d8e/a23114.html#a3ebaa870a9c3c9b5a0590b8cdc32d857", null ]
 ];

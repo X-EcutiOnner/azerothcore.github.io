@@ -1,11 +1,6 @@
 var a10754 =
 [
-    [ "LFGJoin", "d1/d5e/a10754.html#a50c79bdef7393907673a328bc36ff8ae", null ],
-    [ "Read", "d1/d5e/a10754.html#a5eca5c5a528cf00f1e6aad99ce5386ed", null ],
-    [ "Achievements", "d1/d5e/a10754.html#a587e98d4a1c8ff0cacd459298a4193c8", null ],
-    [ "Comment", "d1/d5e/a10754.html#a3e12e650a1fa573aafd7c03abd970aff", null ],
-    [ "Needs", "d1/d5e/a10754.html#a313c16e84e2cd0b55551d16273e95917", null ],
-    [ "NoPartialClear", "d1/d5e/a10754.html#aad54be871d0978034fb69a464fd5b9df", null ],
-    [ "Roles", "d1/d5e/a10754.html#a5eaccbeb4fc8b21f5398e216589cb99b", null ],
-    [ "Slots", "d1/d5e/a10754.html#aa14a07716504723283ad80c6357cf53f", null ]
+    [ "GuildBankTextQuery", "d1/d5e/a10754.html#ab74c6b61182349e3697d6b8f2f3393d2", null ],
+    [ "Read", "d1/d5e/a10754.html#af20bd5c8e58b891028613625fb14807d", null ],
+    [ "Tab", "d1/d5e/a10754.html#a368054d83fb99317ffd14b4d79ffd0af", null ]
 ];

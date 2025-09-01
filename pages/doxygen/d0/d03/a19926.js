@@ -1,6 +1,6 @@
 var a19926 =
 [
-    [ "npc_pool_of_tarAI", "d0/d03/a19926.html#a6141addc9b1cf2c0028d98ef4f4d9d37", null ],
-    [ "DamageTaken", "d0/d03/a19926.html#a4ea55aa08123f724268238e0def5b595", null ],
-    [ "SpellHit", "d0/d03/a19926.html#acb63166b396c079d5b4bb9db67a1448a", null ]
+    [ "PrepareSpellScript", "d0/d03/a19926.html#af280f3880e2e567188ba8ca3e45c00c0", null ],
+    [ "RecalculateDamage", "d0/d03/a19926.html#a54c26d24f62c36108f9fceb7a0c53e37", null ],
+    [ "Register", "d0/d03/a19926.html#aac131aa2d2e5342cf0303b918a077b45", null ]
 ];

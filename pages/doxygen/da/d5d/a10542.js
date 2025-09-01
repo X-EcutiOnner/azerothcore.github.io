@@ -1,7 +1,6 @@
 var a10542 =
 [
-    [ "QueryGuildInfoResponse", "da/d5d/a10542.html#ae1f7b9f33e36821477a19439a3d4065d", null ],
-    [ "Write", "da/d5d/a10542.html#abda9452eba38e76c460f910eb3aad5fa", null ],
-    [ "GuildId", "da/d5d/a10542.html#a04eec0531238fa55a91afa11c394fbce", null ],
-    [ "Info", "da/d5d/a10542.html#a749e992a19264b259f62d403b4925abe", null ]
+    [ "EmoteClient", "da/d5d/a10542.html#af98c098cb1019057d8027f39c168e1a9", null ],
+    [ "Read", "da/d5d/a10542.html#abad5fca865b7b99e595ce95137e8105c", null ],
+    [ "EmoteID", "da/d5d/a10542.html#a24503de36535106220984ffbf6ba0338", null ]
 ];

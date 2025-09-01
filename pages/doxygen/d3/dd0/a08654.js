@@ -1,18 +1,18 @@
 var a08654 =
 [
-    [ "StaticTransport", "d3/dd0/a08654.html#a85d28733791b54ab76af97338c83d293", null ],
-    [ "~StaticTransport", "d3/dd0/a08654.html#ade4493306f4ae366de36318ecb135c18", null ],
-    [ "AddPassenger", "d3/dd0/a08654.html#a2139a5fe8d531e332d6e12678fb3167b", null ],
-    [ "BuildUpdate", "d3/dd0/a08654.html#a0062abb9d323f52361b7a0faa72bbf4f", null ],
-    [ "CleanupsBeforeDelete", "d3/dd0/a08654.html#aec75e819a3de528d282e0a1b72c3d460", null ],
-    [ "Create", "d3/dd0/a08654.html#a5e9c6c3a75d54314783c3b5bab48c66f", null ],
-    [ "GetPauseTime", "d3/dd0/a08654.html#a6be1d21626f3749b695413d9a6703823", null ],
-    [ "GetPeriod", "d3/dd0/a08654.html#aedf0413dbd588acf5c8646390f003060", null ],
-    [ "RelocateToProgress", "d3/dd0/a08654.html#acf98efbbabb71e4e9f7cf0a152b33e2b", null ],
-    [ "RemovePassenger", "d3/dd0/a08654.html#ad4362ce7937c48ce0e5eb68ae97f789f", null ],
-    [ "SetPauseTime", "d3/dd0/a08654.html#aaa57cb09072c6a7f22af38055f83b3b1", null ],
-    [ "Update", "d3/dd0/a08654.html#aa904c077782b7760e0247c941c4e9d01", null ],
-    [ "UpdatePassengerPositions", "d3/dd0/a08654.html#a79c30c2463d714d8980dcfa73351b493", null ],
-    [ "UpdatePosition", "d3/dd0/a08654.html#a9b2661d0b90270aa97fe550b8ae27c95", null ],
-    [ "_needDoInitialRelocation", "d3/dd0/a08654.html#a54f37a0c74b4cc2afbebaf53ebcf2e2b", null ]
+    [ "PlayerSocialMap", "d3/dd0/a08654.html#abfb2167fc86ea41b8cf66eebdaa95ceb", null ],
+    [ "PlayerSocial", "d3/dd0/a08654.html#ad505f01fad548b70cf070a86dce40278", null ],
+    [ "_checkContact", "d3/dd0/a08654.html#a56e7be93e0ed5e55e21c2b827e73f16b", null ],
+    [ "AddToSocialList", "d3/dd0/a08654.html#ae21a947058622c611f8ffc1430f7f3c3", null ],
+    [ "GetNumberOfSocialsWithFlag", "d3/dd0/a08654.html#ad4b6d7563aa448307c71fd01d0b748c3", null ],
+    [ "GetPlayerGUID", "d3/dd0/a08654.html#aa14bba47d54e94391d494a6752d45949", null ],
+    [ "HasFriend", "d3/dd0/a08654.html#a85c9c9320e8fa0c673e75d11d7e7b91c", null ],
+    [ "HasIgnore", "d3/dd0/a08654.html#ab4a6c0eab682fbdfa98a0a71fa6aced8", null ],
+    [ "RemoveFromSocialList", "d3/dd0/a08654.html#a8fb0fc85204ea32cc000a2d711f1245b", null ],
+    [ "SendSocialList", "d3/dd0/a08654.html#aa31ca078f363c5d5f6cfabcc4126fa9b", null ],
+    [ "SetFriendNote", "d3/dd0/a08654.html#a0ee1c5bebc234010f60f79618b541613", null ],
+    [ "SetPlayerGUID", "d3/dd0/a08654.html#af913d007399dede4ddf59c2811fc3b8a", null ],
+    [ "SocialMgr", "d3/dd0/a08654.html#ac90a13e772eca1f96d98f76cfc8bf396", null ],
+    [ "m_playerGUID", "d3/dd0/a08654.html#accf6a40286cca75dd9d5eed8cc3c6790", null ],
+    [ "m_playerSocialMap", "d3/dd0/a08654.html#a608444605a276e67a868b7ceac94a954", null ]
 ];

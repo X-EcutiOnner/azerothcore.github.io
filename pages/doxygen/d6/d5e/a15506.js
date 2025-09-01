@@ -1,6 +1,5 @@
 var a15506 =
 [
-    [ "npc_omenAI", "d2/d5a/a15510.html", "d2/d5a/a15510" ],
-    [ "npc_omen", "d6/d5e/a15506.html#aff955303a8b9741838779a59dd496f62", null ],
-    [ "GetAI", "d6/d5e/a15506.html#a8023ad3298000d9819c46f46a93166d4", null ]
+    [ "go_ravager_cage", "d6/d5e/a15506.html#a632c767a4ab0075ee40d40e977fe7c18", null ],
+    [ "OnGossipHello", "d6/d5e/a15506.html#a83c9086cefea0d6d11a5de7a781d84db", null ]
 ];

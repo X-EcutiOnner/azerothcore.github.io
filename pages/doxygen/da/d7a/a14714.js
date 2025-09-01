@@ -1,6 +1,6 @@
 var a14714 =
 [
-    [ "boss_infinite_corruptorAI", "d6/d98/a14718.html", "d6/d98/a14718" ],
-    [ "boss_infinite_corruptor", "da/d7a/a14714.html#a78a939073ab44b818cefdb25419f92be", null ],
-    [ "GetAI", "da/d7a/a14714.html#ab6eaf2f9d1928817e45b092a3a87bda4", null ]
+    [ "PrepareAuraScript", "da/d7a/a14714.html#a80660b1417ab33edaf2c4cd517e10e30", null ],
+    [ "RecalculateHook", "da/d7a/a14714.html#af3952993947dfb24381083d21a9e64cb", null ],
+    [ "Register", "da/d7a/a14714.html#ab7f0aa924dfe8043e44cd794f72e4555", null ]
 ];

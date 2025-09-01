@@ -1,8 +1,14 @@
 var a15150 =
 [
-    [ "npc_ouro_spawner", "d9/d91/a15150.html#acb18739e5a1734312ffdda35321e5f34", null ],
-    [ "JustSummoned", "d9/d91/a15150.html#a722dada5bf97c730462a0de2b082d5ff", null ],
-    [ "MoveInLineOfSight", "d9/d91/a15150.html#a83c0972db4435ccf1af069574e4056f4", null ],
-    [ "Reset", "d9/d91/a15150.html#ac1591f1c172bfdda25b020e00cd0835e", null ],
-    [ "hasSummoned", "d9/d91/a15150.html#a6ac376861c1206cc1551d9fa86c0fc97", null ]
+    [ "boss_buru", "d9/d91/a15150.html#a586dfec9d3b0cb9497e616afb1c0b86d", null ],
+    [ "ChaseNewVictim", "d9/d91/a15150.html#a177ec0ac9dcfbd9de51088bf50c5785c", null ],
+    [ "DamageTaken", "d9/d91/a15150.html#a5ec0141994aac2b8e1fdce12b30c13b0", null ],
+    [ "EnterEvadeMode", "d9/d91/a15150.html#aa534cca1e46299e8db917cc8aa5d5b51", null ],
+    [ "JustDied", "d9/d91/a15150.html#a6d8f3265dca889bc49e747471da8597f", null ],
+    [ "JustEngagedWith", "d9/d91/a15150.html#a61eeeb3eb1684943e94367a9318b3035", null ],
+    [ "KilledUnit", "d9/d91/a15150.html#a7c780a29ea9f7b3d2f72eaa11bf7e19c", null ],
+    [ "ManipulateEggs", "d9/d91/a15150.html#a4f8a92eab729c975443579560edb03a3", null ],
+    [ "SpellHit", "d9/d91/a15150.html#ac3bc641c6bb67e585541c4e5d93dd7fa", null ],
+    [ "UpdateAI", "d9/d91/a15150.html#af65d0026b2ea78edb6d48e3c48b6b37b", null ],
+    [ "_phase", "d9/d91/a15150.html#aa395967af50f2a422bf1e81a087efc43", null ]
 ];

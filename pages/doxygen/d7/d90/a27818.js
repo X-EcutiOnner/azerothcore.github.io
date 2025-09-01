@@ -1,16 +1,13 @@
 var a27818 =
 [
-    [ "CanBeSetAtWar", "d7/d90/a27818.html#ae165dc23f25386eb086e1fa2cb820153", null ],
-    [ "CanHaveReputation", "d7/d90/a27818.html#ab3da6918e197c1098a932418d5c51799", null ],
-    [ "BaseRepClassMask", "d7/d90/a27818.html#ae73655de567de3766fcb3bbfb7f9eed3", null ],
-    [ "BaseRepRaceMask", "d7/d90/a27818.html#aa8e1c08416d07882af7075fbb020ae5a", null ],
-    [ "BaseRepValue", "d7/d90/a27818.html#a52f0753d1e1e69a4994eb6b1eab6824c", null ],
-    [ "ID", "d7/d90/a27818.html#a1953f7a343201113dae80cdd97e1ac90", null ],
-    [ "name", "d7/d90/a27818.html#ad9d326ed1aac5ea66825775665dfea00", null ],
-    [ "ReputationFlags", "d7/d90/a27818.html#ae23a3c94554b2043928d6e1ea748e709", null ],
-    [ "reputationListID", "d7/d90/a27818.html#aee99121c2d7298e16540229923391aee", null ],
-    [ "spilloverMaxRankIn", "d7/d90/a27818.html#a14cea5365f14880850e788ba328d0c8e", null ],
-    [ "spilloverRateIn", "d7/d90/a27818.html#a7a72bc65fb3fe76ffa1d072800c5daed", null ],
-    [ "spilloverRateOut", "d7/d90/a27818.html#a7cea150843bf48277aa9cc917d210fcb", null ],
-    [ "team", "d7/d90/a27818.html#a6210fabf2688f26a0a0050f6c148485d", null ]
+    [ "npc_spring_rabbitAI", "d7/d90/a27818.html#a1211ab47dee4844b90a010c284c4f1a5", null ],
+    [ "DoAction", "d7/d90/a27818.html#a288ddb2f1ee0ab7113f1a1f34dc545c5", null ],
+    [ "JustEngagedWith", "d7/d90/a27818.html#a0c36f1dfc094007990f067544a940538", null ],
+    [ "Reset", "d7/d90/a27818.html#ac0f6b47044099016dd6453674b75b2c8", null ],
+    [ "UpdateAI", "d7/d90/a27818.html#af9da118068234755fa9219b84050d2a3", null ],
+    [ "bunnyTimer", "d7/d90/a27818.html#a99c2923194cf6a07bee8924abf98f470", null ],
+    [ "inLove", "d7/d90/a27818.html#aec8887aedf32fb4ebcc68c48f0ee0ea5", null ],
+    [ "jumpTimer", "d7/d90/a27818.html#a5c17e00187ac87b23482dfbabb89809b", null ],
+    [ "rabbitGUID", "d7/d90/a27818.html#af838b25c8442767aaef16e95022cb062", null ],
+    [ "searchTimer", "d7/d90/a27818.html#af1b82227dadf30c6c796e7b8c2abbe82", null ]
 ];

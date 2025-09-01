@@ -1,6 +1,6 @@
 var a16954 =
 [
-    [ "npc_hor_lumbering_abominationAI", "dc/d71/a16958.html", "dc/d71/a16958" ],
-    [ "npc_hor_lumbering_abomination", "d3/d06/a16954.html#a0d394d1ba52a05a6db0ae983daea7123", null ],
-    [ "GetAI", "d3/d06/a16954.html#a0601ac0af85e545617013846c48de29a", null ]
+    [ "boss_devourer_of_soulsAI", "dc/d71/a16958.html", "dc/d71/a16958" ],
+    [ "boss_devourer_of_souls", "d3/d06/a16954.html#a95b3a33be3b85a4c7ecfb4370a9ddc60", null ],
+    [ "GetAI", "d3/d06/a16954.html#a3de68fa630c5b74104c461f88edd1d36", null ]
 ];

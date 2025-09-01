@@ -1,6 +1,5 @@
 var a18602 =
 [
-    [ "npc_frost_freeze_trapAI", "dd/d71/a18606.html", "dd/d71/a18606" ],
-    [ "npc_frost_freeze_trap", "db/dfc/a18602.html#ac58ed2598fd4250f220208a91343f9b8", null ],
-    [ "GetAI", "db/dfc/a18602.html#a88ed9aeb0403b3b625c858cd1e44a99f", null ]
+    [ "achievement_neck_deep_in_vile", "db/dfc/a18602.html#af0e54c236e7637d8c1a8cf7dbed5a195", null ],
+    [ "OnCheck", "db/dfc/a18602.html#a9861c008f302279a4ac5f4ddc14ca2d0", null ]
 ];

@@ -1,4 +1,6 @@
 var a00509 =
 [
-    [ "MAX_INBOX_CLIENT_CAPACITY", "df/db6/a00509.html#ae1d9c2394745301897af9c167e219ca8", null ]
+    [ "IpLocationRecord", "d5/d30/a05346.html", "d5/d30/a05346" ],
+    [ "IpLocationStore", "d7/d24/a05350.html", "d7/d24/a05350" ],
+    [ "sIPLocation", "df/db6/a00509.html#a85e62bd98f395189fea9c9514d44fc31", null ]
 ];

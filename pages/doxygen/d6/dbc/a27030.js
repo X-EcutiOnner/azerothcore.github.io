@@ -1,5 +1,6 @@
 var a27030 =
 [
-    [ "achievement_bg_av_perfection", "d6/dbc/a27030.html#a8a0ef996bdb1244026268922b301184c", null ],
-    [ "OnCheck", "d6/dbc/a27030.html#a17e700c17b5144b571f2aeed92a77749", null ]
+    [ "CalculateAmount", "d6/dbc/a27030.html#aa27de1a2fc517a4b796a10e780239880", null ],
+    [ "PrepareAuraScript", "d6/dbc/a27030.html#a72e68ff46f2049809f3e3b2c1814bd87", null ],
+    [ "Register", "d6/dbc/a27030.html#a5ee969ad0916a9337849c75c18f13c29", null ]
 ];

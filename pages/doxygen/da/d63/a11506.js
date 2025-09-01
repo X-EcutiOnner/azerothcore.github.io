@@ -1,12 +1,12 @@
 var a11506 =
 [
-    [ "WardenMac", "da/d63/a11506.html#a576c0cf7a819e95c97cc0ac4e5962d6d", null ],
-    [ "~WardenMac", "da/d63/a11506.html#a5f3832580c73a0af34fa83669a92ceab", null ],
-    [ "GetModuleForClient", "da/d63/a11506.html#a7a31b72ea7362c70f0fc9ff6e316d80b", null ],
-    [ "HandleData", "da/d63/a11506.html#a024be47d39641cb0e7654b0e0999e444", null ],
-    [ "HandleHashResult", "da/d63/a11506.html#a7feb3f82b2e0efd8427d6d8bcabaf17c", null ],
-    [ "Init", "da/d63/a11506.html#ae329d60e41b9f5af2a2c7e4983936eac", null ],
-    [ "InitializeModule", "da/d63/a11506.html#a4fceef34e83db1a357d9eadce35efdef", null ],
-    [ "RequestChecks", "da/d63/a11506.html#a2437a3a5650305b05fc22d312d0006da", null ],
-    [ "RequestHash", "da/d63/a11506.html#af031f18554c5a96b4eb39371a92b9c51", null ]
+    [ "CreatureTextBuilder", "da/d63/a11506.html#a582eed3ab284675e72261a1db9808925", null ],
+    [ "operator()", "da/d63/a11506.html#a851cc84cc7faebfffe3267ecb0d3b3fb", null ],
+    [ "_gender", "da/d63/a11506.html#a615c3046f749bf44b036958fb1a50128", null ],
+    [ "_language", "da/d63/a11506.html#ac6e3bea125cd2b44a56f899c4aa35e1b", null ],
+    [ "_msgType", "da/d63/a11506.html#ac4b4f75821f4ff5855cafca91523cbca", null ],
+    [ "_source", "da/d63/a11506.html#ab87c45c49aa07b4434e42b6d7948e8b3", null ],
+    [ "_target", "da/d63/a11506.html#a5a5fd218c7162ba634455e0db6ee35a1", null ],
+    [ "_textGroup", "da/d63/a11506.html#afcd842c1482980c6232f3f19d21a1481", null ],
+    [ "_textId", "da/d63/a11506.html#a3f40b8dd1da052a372afbbc5f06700ac", null ]
 ];

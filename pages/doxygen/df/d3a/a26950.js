@@ -1,6 +1,10 @@
 var a26950 =
 [
-    [ "FilterTargets", "df/d3a/a26950.html#a6224b3193474f569d09edaf29b40c2fb", null ],
-    [ "PrepareSpellScript", "df/d3a/a26950.html#ad7478a1a70ebc52eda1c57dd4f143b67", null ],
-    [ "Register", "df/d3a/a26950.html#a2fab1592d19331239b1ef63045389886", null ]
+    [ "CalculateAPAmount", "df/d3a/a26950.html#ae76d10c68df1f149f83d4247122b47a7", null ],
+    [ "CalculateResistanceAmount", "df/d3a/a26950.html#ab21a4b135dfd70963f75eff7bffbf476", null ],
+    [ "CalculateSPAmount", "df/d3a/a26950.html#a421996ca946d5b04c264718e6dd63fa9", null ],
+    [ "CalculateStatAmount", "df/d3a/a26950.html#ae695515c915f2452dccb71aeb018f3a3", null ],
+    [ "HandleEffectApply", "df/d3a/a26950.html#a207864c73e485e0db0fe47bde97d87a2", null ],
+    [ "PrepareAuraScript", "df/d3a/a26950.html#a4179be48195872410bda69cac3454812", null ],
+    [ "Register", "df/d3a/a26950.html#a94b34a7e4c36bf1336b5611e82e2dd58", null ]
 ];

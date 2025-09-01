@@ -1,6 +1,6 @@
 var a13210 =
 [
-    [ "HandleSendEvent", "da/d69/a13210.html#ad245a7dcf129774b8ef3e3653b3e3026", null ],
-    [ "PrepareSpellScript", "da/d69/a13210.html#ad9dfe5b2702540eb119ec86cfbd0ff30", null ],
-    [ "Register", "da/d69/a13210.html#a0b5ac8cfc4eb4adadb653a81a59a8287", null ]
+    [ "instance_scarlet_monastery_InstanceMapScript", "d2/d65/a13214.html", "d2/d65/a13214" ],
+    [ "instance_scarlet_monastery", "da/d69/a13210.html#a8f068ebd98bd81dbb60dbccd795f1f3f", null ],
+    [ "GetInstanceScript", "da/d69/a13210.html#a1c66031217457809fbe56303085715a0", null ]
 ];

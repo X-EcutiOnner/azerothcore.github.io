@@ -1,6 +1,7 @@
 var a12062 =
 [
-    [ "boss_overlordwyrmthalakAI", "dd/d80/a12066.html", "dd/d80/a12066" ],
-    [ "boss_overlord_wyrmthalak", "d5/d24/a12062.html#a2af6edf776c189d43cb82cc35bb838fe", null ],
-    [ "GetAI", "d5/d24/a12062.html#a56de538f25cbabc9346b987dbfe680a1", null ]
+    [ "boss_gorosh_the_dervishAI", "d5/d24/a12062.html#adac003c51a2d1d0a8daa6ba552114c25", null ],
+    [ "JustEngagedWith", "d5/d24/a12062.html#a52bc5f76baff626b8834aa604fdd8e6a", null ],
+    [ "UpdateAI", "d5/d24/a12062.html#aa17e26419a8e3f7cd99c5e9b44be8ed8", null ],
+    [ "nextWhirlwindTime", "d5/d24/a12062.html#a07f1af63bc54d1b4c8d8e1cd87a787a1", null ]
 ];

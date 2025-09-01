@@ -1,6 +1,6 @@
 var a21018 =
 [
-    [ "instance_ulduar_InstanceMapScript", "d8/d49/a21022.html", "d8/d49/a21022" ],
-    [ "instance_ulduar", "dd/d3f/a21018.html#a32c2a76d1cd20f2ad1ab441eafe1b682", null ],
-    [ "GetInstanceScript", "dd/d3f/a21018.html#ad15f003a90e656910fc32d661ca9baba", null ]
+    [ "boss_yoggsaron_crusher_tentacleAI", "d8/d49/a21022.html", "d8/d49/a21022" ],
+    [ "boss_yoggsaron_crusher_tentacle", "dd/d3f/a21018.html#a9bb0c5535bf98e186d39f235f5786ff0", null ],
+    [ "GetAI", "dd/d3f/a21018.html#a82b6a328197ec81223c1d00dabb79a66", null ]
 ];

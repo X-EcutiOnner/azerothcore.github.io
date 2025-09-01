@@ -1,10 +1,9 @@
 var a12662 =
 [
-    [ "boss_servant_quarters", "d0/d1e/a12662.html#aedf2869e3fbc1ebd13caedffa60bbf5f", null ],
-    [ "JustDied", "d0/d1e/a12662.html#a3b9df7ab573f22a9e15761cb662db404", null ],
-    [ "JustEngagedWith", "d0/d1e/a12662.html#afe4a4a78824851f63ce560a60d55cee3", null ],
-    [ "MovementInform", "d0/d1e/a12662.html#a00d31d9421903b6a92c03a3bd0382328", null ],
-    [ "Reset", "d0/d1e/a12662.html#a273a09b1242968a5dd45ab9866fbe481", null ],
-    [ "UpdateAI", "d0/d1e/a12662.html#a6a41cfd67310077803733190645050e4", null ],
-    [ "_scheduler", "d0/d1e/a12662.html#a520142de5e8d2911684b18c85a3f37e2", null ]
+    [ "HandleEffectApply", "d0/d1e/a12662.html#ab1f4879fd9bd3982b9695bda886b0b99", null ],
+    [ "HandleEffectRemove", "d0/d1e/a12662.html#a8e38bc0ebf6b62982eee84e4c2722413", null ],
+    [ "Load", "d0/d1e/a12662.html#a8259745e21c561e4eedabc87ca8bdf73", null ],
+    [ "PrepareAuraScript", "d0/d1e/a12662.html#abec6d69d331e9952c129dc4cc24f0f13", null ],
+    [ "Register", "d0/d1e/a12662.html#a201bafab6c483b08a6ae27054392dea9", null ],
+    [ "Validate", "d0/d1e/a12662.html#a94aa1bd618035323b1fd4817fa7f9687", null ]
 ];

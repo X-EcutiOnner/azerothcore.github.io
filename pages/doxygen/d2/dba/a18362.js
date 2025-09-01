@@ -1,6 +1,6 @@
 var a18362 =
 [
-    [ "npc_terenas_menethilAI", "da/d0e/a18366.html", "da/d0e/a18366" ],
-    [ "npc_terenas_menethil", "d2/dba/a18362.html#a6b6850598c582e3d44c13275302fd32d", null ],
-    [ "GetAI", "d2/dba/a18362.html#ad5f29af90c3f40ce0dad019b5ec05cf2", null ]
+    [ "LichKingDeathEvent", "d2/dba/a18362.html#a9aa328b60358034355b1eed5caacb9f8", null ],
+    [ "Execute", "d2/dba/a18362.html#a06b9a77d3c5efb228368a1e423a620ae", null ],
+    [ "_owner", "d2/dba/a18362.html#a75ccb1b2bd5a8149aff85404b5e0ce21", null ]
 ];

@@ -1,7 +1,6 @@
 var a07122 =
 [
-    [ "AuctionSorter", "d6/d43/a07122.html#a233a8eff7fbd76ecf5bd6e4469c6ba0b", null ],
-    [ "operator()", "d6/d43/a07122.html#a7e8ef0ab50f9bfd1f84bf88647b26ea7", null ],
-    [ "_loc_idx", "d6/d43/a07122.html#a11708aa660757db95c88d9dc7e9b9521", null ],
-    [ "_sort", "d6/d43/a07122.html#a9c777b91d8b80940daee0b32c4f11c37", null ]
+    [ "AuctionSearchBidderListRequest", "d6/d43/a07122.html#a193c39468959c998a2ccae74342983d2", null ],
+    [ "outbiddedAuctionIds", "d6/d43/a07122.html#a6caf25d532b87d38b043cf3aa214f9cd", null ],
+    [ "ownerGuid", "d6/d43/a07122.html#a6fb69f4996993f264466c50e7485c4a6", null ]
 ];

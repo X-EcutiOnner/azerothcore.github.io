@@ -1,6 +1,5 @@
 var a19366 =
 [
-    [ "boss_drakosAI", "dd/d85/a19370.html", "dd/d85/a19370" ],
-    [ "boss_drakos", "de/d23/a19366.html#aa70ae2809af4f24eea0b83b42d695448", null ],
-    [ "GetAI", "de/d23/a19366.html#a16dcc7f9da254d0bddc19394a1cd4ab0", null ]
+    [ "at_thaddius_entrance", "de/d23/a19366.html#ad81a60cac337baad82ea526de1d151d1", null ],
+    [ "OnTrigger", "de/d23/a19366.html#af8635a58d4da0421b72b4451c1ebafc5", null ]
 ];

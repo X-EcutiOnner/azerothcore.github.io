@@ -1,5 +1,5 @@
 var a27202 =
 [
-    [ "go_ethereum_stasis", "d8/d90/a27202.html#aaa8fc5733678a17a37c60c9853f91e62", null ],
-    [ "OnGossipHello", "d8/d90/a27202.html#ac36da8dccbebcaee605a878df3904c60", null ]
+    [ "achievement_bg_av_perfection", "d8/d90/a27202.html#a8a0ef996bdb1244026268922b301184c", null ],
+    [ "OnCheck", "d8/d90/a27202.html#a17e700c17b5144b571f2aeed92a77749", null ]
 ];

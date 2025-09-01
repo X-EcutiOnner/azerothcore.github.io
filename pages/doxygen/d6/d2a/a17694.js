@@ -1,7 +1,6 @@
 var a17694 =
 [
-    [ "HandleDummy", "d6/d2a/a17694.html#a6e5d70c35420384305d7faf991072b38", null ],
-    [ "PrepareSpellScript", "d6/d2a/a17694.html#a64f912555853aab5693692b22eba52c4", null ],
-    [ "Register", "d6/d2a/a17694.html#a797ec701f2e3f2949680eb935a9c5c3f", null ],
-    [ "Validate", "d6/d2a/a17694.html#afda7fd86e2fc2c40870904065ffcfe50", null ]
+    [ "Cooldown", "d6/d2a/a17694.html#ac2f21814be8269023a2069f3eb03dfe2", null ],
+    [ "Entry", "d6/d2a/a17694.html#a28ff8bdab669f7b4aec95857cc460a2f", null ],
+    [ "TargetPosition", "d6/d2a/a17694.html#ac47af49622012b4ad40357cadc5214b3", null ]
 ];

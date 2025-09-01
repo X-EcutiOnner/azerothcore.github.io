@@ -1,12 +1,9 @@
 var a12846 =
 [
-    [ "boss_vexallus", "d9/de7/a12846.html#a68c32ed70274e9f135b7a9107f888c91", null ],
-    [ "JustDied", "d9/de7/a12846.html#a5e67671becf3c1ac4ca9f04c79d82cf1", null ],
-    [ "JustEngagedWith", "d9/de7/a12846.html#aa9d37e8132c715552e2ce0102ac9a59b", null ],
-    [ "JustSummoned", "d9/de7/a12846.html#a9bc7808889da754bae9c935418975f90", null ],
-    [ "KilledUnit", "d9/de7/a12846.html#a48d44cc3ed6f0e7f97f76cd325e5c48e", null ],
-    [ "Reset", "d9/de7/a12846.html#a6ecf0817f6b1811fe9c62ac83d4b3dcc", null ],
-    [ "SummonedCreatureDies", "d9/de7/a12846.html#a4bd88222143d8db098312cff8a2fc969", null ],
-    [ "_energyCooldown", "d9/de7/a12846.html#a395d2186d70d1b7e29dbada7750da354", null ],
-    [ "_energyCount", "d9/de7/a12846.html#a4afa4a245b8863c7b0898773932642c8", null ]
+    [ "go_blood_drenched_doorAI", "d9/de7/a12846.html#af431fff2778278cbd3e27b3906201373", null ],
+    [ "GossipHello", "d9/de7/a12846.html#aa3d9c4ee80d6fb42103a3f02abdd8d20", null ],
+    [ "UpdateAI", "d9/de7/a12846.html#a644ac9ce05242714d1b87150852539f3", null ],
+    [ "events", "d9/de7/a12846.html#a2c51ffa6a3992fe55c2e22cb783409c9", null ],
+    [ "mirkblood", "d9/de7/a12846.html#a07e1b098c31efe45e2df4f85f71109e4", null ],
+    [ "opener", "d9/de7/a12846.html#aa70272eb79e875ba7d7767a1bf82afe9", null ]
 ];

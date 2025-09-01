@@ -1,7 +1,5 @@
 var a21574 =
 [
-    [ "npc_mootoo_the_youngerAI", "d9/dee/a21578.html", "d9/dee/a21578" ],
-    [ "npc_mootoo_the_younger", "d0/d5f/a21574.html#a91e10489ed6a98cfa764fd4de8448317", null ],
-    [ "GetAI", "d0/d5f/a21574.html#ac49b3454afa4a3fbedd0887e3ff831b3", null ],
-    [ "OnQuestAccept", "d0/d5f/a21574.html#a5fce360ef989f5b2fe42cd04361e33bc", null ]
+    [ "go_vh_activation_crystal", "d0/d5f/a21574.html#a4af485ac7ab6144282f3204a6d045cea", null ],
+    [ "OnGossipHello", "d0/d5f/a21574.html#a47a61ba67086580135559332931e9c6e", null ]
 ];

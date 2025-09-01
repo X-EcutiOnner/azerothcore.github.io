@@ -1,6 +1,6 @@
 var a25534 =
 [
-    [ "HandleHeal", "dd/d5e/a25534.html#a3d315ab6d76d45f3d0f5de4a312377ff", null ],
-    [ "PrepareSpellScript", "dd/d5e/a25534.html#ad77d816c82714fe2cafb4dbf48691937", null ],
-    [ "Register", "dd/d5e/a25534.html#a313abe6367e5494bd81a557ab42f9f50", null ]
+    [ "CalculateAmount", "dd/d5e/a25534.html#ac0018b57967a3d3ae71aa81745032f15", null ],
+    [ "PrepareAuraScript", "dd/d5e/a25534.html#ab249a493050c5527eeec8913e94cfc64", null ],
+    [ "Register", "dd/d5e/a25534.html#a8f078f8370eacba197ceb2068b6a538d", null ]
 ];

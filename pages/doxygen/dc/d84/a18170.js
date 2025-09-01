@@ -1,6 +1,6 @@
 var a18170 =
 [
-    [ "DefileTargetSelector", "dc/d84/a18170.html#a9c13a04378d6550dd135d2cb41c9bc1c", null ],
-    [ "operator()", "dc/d84/a18170.html#a2ffea7bb2c62e0fa069e3d1ffec3ab11", null ],
-    [ "_source", "dc/d84/a18170.html#a427b4304b5a93f26741eda90d20ff13b", null ]
+    [ "CheckTarget", "dc/d84/a18170.html#afce64ba75f8370cab6b8f1e561b10587", null ],
+    [ "PrepareSpellScript", "dc/d84/a18170.html#a6b6eaf3e761f2c173c2e72f46b25595a", null ],
+    [ "Register", "dc/d84/a18170.html#a6964ca668f02a8b5b1c3015503a41eef", null ]
 ];

@@ -1,6 +1,7 @@
 var a17838 =
 [
-    [ "boss_professor_putricideAI", "d3/d6c/a17842.html", "d3/d6c/a17842" ],
-    [ "boss_professor_putricide", "da/d9c/a17838.html#a80776dad5c0205aa6a98752f43e85e32", null ],
-    [ "GetAI", "da/d9c/a17838.html#a7c84089d24bb0c77a5203884254e0925", null ]
+    [ "FilterTargets", "da/d9c/a17838.html#a32b2fa87fb2eaca3db0801fbfe4b8aaa", null ],
+    [ "Load", "da/d9c/a17838.html#a39e8ec4726a1f6c2911c165c7187f291", null ],
+    [ "PrepareSpellScript", "da/d9c/a17838.html#a7526a6df4c25136f4be78e753c6abf62", null ],
+    [ "Register", "da/d9c/a17838.html#a0d01b8292c1c071a5c828a5a88617bd5", null ]
 ];

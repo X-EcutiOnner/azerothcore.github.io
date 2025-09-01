@@ -1,5 +1,5 @@
 var a07750 =
 [
-    [ "Quest", "da/d03/a07750.html#aca1cbcd3319031b549c0ec6441b2c821", null ],
-    [ "QuestLevel", "da/d03/a07750.html#ad162701af62caac909ef9f57f68bf848", null ]
+    [ "IsColorValid", "da/d03/a07750.html#a4e2a1ab20d086987429174f41887bc45", null ],
+    [ "IsTextValid", "da/d03/a07750.html#a4704555f7e926f8facce237de6772a3d", null ]
 ];

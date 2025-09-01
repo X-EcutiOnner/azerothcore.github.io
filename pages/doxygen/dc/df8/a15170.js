@@ -1,15 +1,10 @@
 var a15170 =
 [
-    [ "boss_skeram", "dc/df8/a15170.html#a293710a88c91a181ee1000939386e176", null ],
-    [ "DoTeleport", "dc/df8/a15170.html#a96166ddebd5906868b872c39a6755a70", null ],
-    [ "EnterEvadeMode", "dc/df8/a15170.html#ab050e31d661c8c089d175de231b0eeb2", null ],
-    [ "JustDied", "dc/df8/a15170.html#a6b30a6ca5167aae41ad70bd502265d2b", null ],
-    [ "JustEngagedWith", "dc/df8/a15170.html#a07bba9a1a62ad9ad15b9cd42b5d5b3d3", null ],
-    [ "JustSummoned", "dc/df8/a15170.html#a3e3d74bc646a96e20a88d3541f806c62", null ],
-    [ "KilledUnit", "dc/df8/a15170.html#a185cb6686d37e064278260ebe5fae13a", null ],
-    [ "Reset", "dc/df8/a15170.html#a08c9c2c577ef4b713594ca67f4c87a68", null ],
-    [ "UpdateAI", "dc/df8/a15170.html#aaf29331e0fac71479747d62fd9f1e301", null ],
-    [ "_copiesGUIDs", "dc/df8/a15170.html#a28f1465938dc2141779d5171ea09ecd0", null ],
-    [ "_flag", "dc/df8/a15170.html#a0abcf1e8721aa972be70774d5be7b53b", null ],
-    [ "_hpct", "dc/df8/a15170.html#a5c8760788264a9a04a28c05a0247676c", null ]
+    [ "boss_moam", "dc/df8/a15170.html#a9a7a9f410efc5a05e46fd05f331e96c9", null ],
+    [ "InitializeAI", "dc/df8/a15170.html#a2c8bde24fb3811e29c91a57258a243e5", null ],
+    [ "JustDied", "dc/df8/a15170.html#a06b843bddd8f2759fa733c5169e0a5e6", null ],
+    [ "JustEngagedWith", "dc/df8/a15170.html#ad33ba2f2cf9c83f37856aa6f2212637b", null ],
+    [ "Reset", "dc/df8/a15170.html#a4112940fbe1f8be8e7adee7dbc48a9ae", null ],
+    [ "SummonedCreatureDies", "dc/df8/a15170.html#a8401c5e2bd216deee197617b78d85222", null ],
+    [ "UpdateAI", "dc/df8/a15170.html#aadd8320c6194923b113967d3d6c49a5e", null ]
 ];

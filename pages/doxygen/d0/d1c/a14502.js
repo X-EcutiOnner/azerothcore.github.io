@@ -1,7 +1,9 @@
 var a14502 =
 [
-    [ "HandleDummy", "d0/d1c/a14502.html#a05c3589ee04eed87449f652db065f0e9", null ],
-    [ "PrepareSpellScript", "d0/d1c/a14502.html#afb79a2cf5359e7ec69746cd89d8cd727", null ],
-    [ "Register", "d0/d1c/a14502.html#a51207fcd4f272e120fe1af2ac78c1f80", null ],
-    [ "Validate", "d0/d1c/a14502.html#a5fc6dae87ffb634cc0de389196751b22", null ]
+    [ "entries", "d0/d1c/a14502.html#a8c55bbd253d6bea01e83c0aa7380dee5", null ],
+    [ "entries", "d0/d1c/a14502.html#a953850b267eb6f599bb49d82080bdf64", null ],
+    [ "revelerId", "d0/d1c/a14502.html#a9e4069ef00c8b4e31d8af06f34e12ad5", null ],
+    [ "schedule", "d0/d1c/a14502.html#ad849701425622001519334f352ea6f3e", null ],
+    [ "size", "d0/d1c/a14502.html#ae6a3fa59e1eb384255c247abadc962d5", null ],
+    [ "spawns", "d0/d1c/a14502.html#aa081965795e3b9473be5b322b0c46505", null ]
 ];

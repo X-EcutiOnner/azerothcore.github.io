@@ -1,7 +1,7 @@
 var a26370 =
 [
-    [ "HandleEffectApply", "d4/d2d/a26370.html#a475d0bab96e226853368be3b68c5a2d3", null ],
-    [ "HandleEffectRemove", "d4/d2d/a26370.html#aa22a095e40789ac562a64c20d7eadb28", null ],
-    [ "PrepareAuraScript", "d4/d2d/a26370.html#a2b06b0dc1a4c2f5b5e4657e11a097660", null ],
-    [ "Register", "d4/d2d/a26370.html#a91e75a059828a30d509fd22be19048f8", null ]
+    [ "CalculateAmount", "d4/d2d/a26370.html#a5d4549ac73b46382c1beddbb65257ad0", null ],
+    [ "HandleUpdateSpellclick", "d4/d2d/a26370.html#a89956d7f3a6404d5b60e46034867c82c", null ],
+    [ "PrepareAuraScript", "d4/d2d/a26370.html#a7cbdc79c63306a8fcfcc06180998a290", null ],
+    [ "Register", "d4/d2d/a26370.html#a2252719e6ea995b85b7b0c5ecb6a26d3", null ]
 ];

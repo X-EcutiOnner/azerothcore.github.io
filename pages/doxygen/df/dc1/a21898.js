@@ -1,7 +1,7 @@
 var a21898 =
 [
-    [ "npc_emilyAI", "db/d5c/a21902.html", "db/d5c/a21902" ],
-    [ "npc_emily", "df/dc1/a21898.html#ab40f581fad087b3d32a7724fca97895d", null ],
-    [ "GetAI", "df/dc1/a21898.html#a6317e4b9787c25ce119d08432cd1acf7", null ],
-    [ "OnQuestAccept", "df/dc1/a21898.html#ad434e7bf2427b3575a8459021e792152", null ]
+    [ "npc_cosmetic_toy_plane", "df/dc1/a21898.html#a71b7df4d5f78768d9e47f41ba78b93d2", null ],
+    [ "Reset", "df/dc1/a21898.html#aa66f2e16ce6c4e5dd7399b48bd5bc203", null ],
+    [ "UpdateAI", "df/dc1/a21898.html#a41d62b314510fbd6637d8eddbea16f96", null ],
+    [ "_movementArray", "df/dc1/a21898.html#a5a85278bc14a0e3158dc3fa8abcc8392", null ]
 ];

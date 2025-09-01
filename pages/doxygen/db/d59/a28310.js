@@ -1,4 +1,5 @@
 var a28310 =
 [
-    [ "Pattern", "db/d59/a28310.html#a6a13e445a1c894f95105f6dd4f0f24ba", null ]
+    [ "BitIndex", "db/d59/a28310.html#a55fdf966aec0ca687cd6074683af6e7f", null ],
+    [ "ItemId", "db/d59/a28310.html#a998c1f6dadb823fbba56bb2154396635", null ]
 ];

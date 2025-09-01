@@ -1,8 +1,9 @@
 var a11994 =
 [
-    [ "boss_doomrelAI", "d7/d10/a11998.html", "d7/d10/a11998" ],
-    [ "boss_doomrel", "dd/d2f/a11994.html#aee45a59f9a62f1d32a7dc344bd3c46c6", null ],
-    [ "GetAI", "dd/d2f/a11994.html#a1b8a95208506f79c00ed40be2d51eb38", null ],
-    [ "OnGossipHello", "dd/d2f/a11994.html#a3c544ae70c46a62ac7dd2fc5cca97c8b", null ],
-    [ "OnGossipSelect", "dd/d2f/a11994.html#ae430a8fef70bd46267482a70084049c1", null ]
+    [ "npc_phalanxAI", "dd/d2f/a11994.html#a1a09cd0b0cf765dec20ca9c3c5bb9373", null ],
+    [ "Reset", "dd/d2f/a11994.html#a41a14315d82b169528bd764335c16d52", null ],
+    [ "UpdateAI", "dd/d2f/a11994.html#a78092bfb2d9b8455b5348d872afc6521", null ],
+    [ "FireballVolley_Timer", "dd/d2f/a11994.html#a0e7bedf19d7a69707fcfec9cbd3649e5", null ],
+    [ "MightyBlow_Timer", "dd/d2f/a11994.html#ae8fe8a7313f573e910763d5a82303e66", null ],
+    [ "ThunderClap_Timer", "dd/d2f/a11994.html#ab68781dcd728e2a0d021a0d52e43fd71", null ]
 ];

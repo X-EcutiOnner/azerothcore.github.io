@@ -1,7 +1,6 @@
 var a21942 =
 [
-    [ "npc_amberpine_woodsmanAI", "d4/d76/a21942.html#aa0f37b54c5bfc2f923d09437b8b30424", null ],
-    [ "Reset", "d4/d76/a21942.html#a8da613c7bbaadf331c95667e7a361702", null ],
-    [ "UpdateAI", "d4/d76/a21942.html#a64dbf41424a710c400d51507f6457b41", null ],
-    [ "_events", "d4/d76/a21942.html#aac8cd045a5518e3eaa9c24e0fb83ddaa", null ]
+    [ "npc_injured_7th_legion_soldierAI", "d4/d76/a21942.html#a6929ef42a003f1337d71f9b23fa37c6e", null ],
+    [ "MovementInform", "d4/d76/a21942.html#a999bc868db485578fcc70ae7e056b778", null ],
+    [ "Reset", "d4/d76/a21942.html#a3021c037acdb141fc3ca4d6f3b146bbf", null ]
 ];

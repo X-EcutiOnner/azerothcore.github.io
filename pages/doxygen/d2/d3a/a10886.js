@@ -1,6 +1,7 @@
 var a10886 =
 [
-    [ "PetLearnedSpell", "d2/d3a/a10886.html#a5d105cca08515b9550998f2c86b13a1a", null ],
-    [ "Write", "d2/d3a/a10886.html#a6fd7d4bc907b0bb78c438e6a9159dc69", null ],
-    [ "SpellID", "d2/d3a/a10886.html#a6ab11b614f13d518a2a007adfbe00ab7", null ]
+    [ "MinimapPingClient", "d2/d3a/a10886.html#a23500c61c0653f39c8c8a96ab34d0bf0", null ],
+    [ "Read", "d2/d3a/a10886.html#a7ee57120fc5221ccf1e18d877d5bccff", null ],
+    [ "MapX", "d2/d3a/a10886.html#ad4ff3977c260035145d6acd00429d81e", null ],
+    [ "MapY", "d2/d3a/a10886.html#abd8640cb98238f339218c3b945885c97", null ]
 ];

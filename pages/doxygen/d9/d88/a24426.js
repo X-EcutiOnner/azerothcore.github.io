@@ -1,6 +1,6 @@
 var a24426 =
 [
-    [ "DeathEvent", "d9/d88/a24426.html#a2fb9a98c077d715c4648aede6597276e", null ],
-    [ "Execute", "d9/d88/a24426.html#a497ac46ab1acf95816020fc6be8ce03a", null ],
-    [ "_owner", "d9/d88/a24426.html#a099d0d5ae50126f00220b3ed90907617", null ]
+    [ "CheckRequirement", "d9/d88/a24426.html#aa53bdc1b4b57150dbebce61ac87d2b88", null ],
+    [ "PrepareSpellScript", "d9/d88/a24426.html#a8e3d6659174d4c920e65f85afb9308b1", null ],
+    [ "Register", "d9/d88/a24426.html#aa4f62292b32347179a5534e4bc0417f8", null ]
 ];

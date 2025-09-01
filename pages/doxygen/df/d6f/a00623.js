@@ -1,31 +1,18 @@
 var a00623 =
 [
-    [ "BfCapturePoint", "df/d04/a07152.html", "df/d04/a07152" ],
-    [ "BfGraveyard", "d0/d0b/a07156.html", "d0/d0b/a07156" ],
-    [ "Battlefield", "d7/d99/a07160.html", "d7/d99/a07160" ],
-    [ "GraveyardVect", "df/d6f/a00623.html#a3c001cdd2e1b762c5c2bdd6814e59f6c", null ],
-    [ "PlayerTimerMap", "df/d6f/a00623.html#a0467dc30f5bb6a1c9ee1487a3aced1a1", null ],
-    [ "BattlefieldIDs", "df/d6f/a00623.html#aff53bf428d550c270744c9a188d4187f", [
-      [ "BATTLEFIELD_BATTLEID_WG", "df/d6f/a00623.html#aff53bf428d550c270744c9a188d4187fa38e75e8c40750cb29f0d478d19974010", null ]
+    [ "OutdoorPvPSI", "dc/d83/a22718.html", "dc/d83/a22718" ],
+    [ "OutdoorPvPSISpells", "df/d6f/a00623.html#a62a8c4b8a007cc2da63e91f039a9b0f5", [
+      [ "SI_SILITHYST_FLAG_GO_SPELL", "df/d6f/a00623.html#a62a8c4b8a007cc2da63e91f039a9b0f5add71e365726ced6250de08c4c883f055", null ],
+      [ "SI_SILITHYST_FLAG", "df/d6f/a00623.html#a62a8c4b8a007cc2da63e91f039a9b0f5a1bf0ed27bacc509ec19e1648e1a9ec74", null ],
+      [ "SI_TRACES_OF_SILITHYST", "df/d6f/a00623.html#a62a8c4b8a007cc2da63e91f039a9b0f5a8f61c4e11367451aa4b95455a9086410", null ],
+      [ "SI_CENARION_FAVOR", "df/d6f/a00623.html#a62a8c4b8a007cc2da63e91f039a9b0f5a113a47f651228b031a6d40c36d34d2fb", null ]
     ] ],
-    [ "BattlefieldObjectiveStates", "df/d6f/a00623.html#af6db5a1d93982b261639cd12634a2798", [
-      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_NEUTRAL", "df/d6f/a00623.html#af6db5a1d93982b261639cd12634a2798afafb6299c9f30c2bd0d2caac21577178", null ],
-      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_ALLIANCE", "df/d6f/a00623.html#af6db5a1d93982b261639cd12634a2798ac05149e43f48e8fbe687c2cb48a88ac7", null ],
-      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_HORDE", "df/d6f/a00623.html#af6db5a1d93982b261639cd12634a2798a683078aa231d432a72923b9eff4d5a29", null ],
-      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_NEUTRAL_ALLIANCE_CHALLENGE", "df/d6f/a00623.html#af6db5a1d93982b261639cd12634a2798a47f8021bf59a901b2a512d28cc044c7f", null ],
-      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_NEUTRAL_HORDE_CHALLENGE", "df/d6f/a00623.html#af6db5a1d93982b261639cd12634a2798a28c520f0b5997a10c6e8c040d803a9d5", null ],
-      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_ALLIANCE_HORDE_CHALLENGE", "df/d6f/a00623.html#af6db5a1d93982b261639cd12634a2798a9c9e1d966e139a18ba54ee2c2fa0bc2b", null ],
-      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_HORDE_ALLIANCE_CHALLENGE", "df/d6f/a00623.html#af6db5a1d93982b261639cd12634a2798af7b31d0894d6b9bd950d9a48c86da7c4", null ]
-    ] ],
-    [ "BattlefieldSounds", "df/d6f/a00623.html#a7c3836172413cb3b2cdabeb20b99f1b4", [
-      [ "BF_HORDE_WINS", "df/d6f/a00623.html#a7c3836172413cb3b2cdabeb20b99f1b4af85d42c135f0c26853ba8465193e8f3a", null ],
-      [ "BF_ALLIANCE_WINS", "df/d6f/a00623.html#a7c3836172413cb3b2cdabeb20b99f1b4ae1455c543e0df55993ddfe9e73cdc138", null ],
-      [ "BF_START", "df/d6f/a00623.html#a7c3836172413cb3b2cdabeb20b99f1b4a586da22ef0e5767a451125b0ca064007", null ]
-    ] ],
-    [ "BattlefieldTypes", "df/d6f/a00623.html#a6f435417da35c7d1b51c95e516fc6b2d", [
-      [ "BATTLEFIELD_WG", "df/d6f/a00623.html#a6f435417da35c7d1b51c95e516fc6b2da1fc74ab91b471d0c59f02fea08cb2efd", null ],
-      [ "BATTLEFIELD_TB", "df/d6f/a00623.html#a6f435417da35c7d1b51c95e516fc6b2daf6a0681946ddb59a6623fb1d76f4f610", null ]
-    ] ],
-    [ "BATTLEFIELD_OBJECTIVE_UPDATE_INTERVAL", "df/d6f/a00623.html#a79df696836c3edc53ca1868aab7f6e76", null ],
-    [ "BattlefieldFactions", "df/d6f/a00623.html#af5e231859535c4e1e6bd27ee42753f63", null ]
+    [ "OutdoorPvPSIBuffZones", "df/d6f/a00623.html#a155bfb73bcc562d8eaaa4d62d52e59bc", null ],
+    [ "OutdoorPvPSIBuffZonesNum", "df/d6f/a00623.html#aaf633cff2fc1b3449acb7753f698c4d4", null ],
+    [ "SI_AREATRIGGER_A", "df/d6f/a00623.html#aca1406dea9e721dc32c834e8b85b2d9a", null ],
+    [ "SI_AREATRIGGER_H", "df/d6f/a00623.html#abb17804eb9913c298a5dae804e1c7206", null ],
+    [ "SI_MAX_RESOURCES", "df/d6f/a00623.html#a9558d0ea12ff1048686daf5bf0ff999c", null ],
+    [ "SI_SILITHYST_MOUND", "df/d6f/a00623.html#a5a6a1265e5e65971f8d86be718ea3bb3", null ],
+    [ "SI_TURNIN_QUEST_CM_A", "df/d6f/a00623.html#a18c47c74867642b4bd8cc166d9fe1e79", null ],
+    [ "SI_TURNIN_QUEST_CM_H", "df/d6f/a00623.html#ad1787da9136bc956357571149e1f6b60", null ]
 ];

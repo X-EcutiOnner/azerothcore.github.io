@@ -1,9 +1,7 @@
 var a19690 =
 [
-    [ "npc_brann_bronzebeard_algalonAI", "d9/d1b/a19690.html#a5ab0ff088866cf9d6af99ee3f42e897a", null ],
-    [ "DoAction", "d9/d1b/a19690.html#a9de9e9b19b8a635ec4bc0a4f8c8d13c6", null ],
-    [ "MovementInform", "d9/d1b/a19690.html#a7f8d3efed49f0d43a5e9e73ee8bd36e0", null ],
-    [ "UpdateAI", "d9/d1b/a19690.html#a16e3fcd7f082e04f648d2341a7e83cba", null ],
-    [ "_currentPoint", "d9/d1b/a19690.html#ae9da41b5b4cae16e1ed4709ab41b8964", null ],
-    [ "events", "d9/d1b/a19690.html#ab71b71ac63517349cb8702bb29d76334", null ]
+    [ "OnRemove", "d9/d1b/a19690.html#adf6b3d56199ad5a4545ce3874d1223db", null ],
+    [ "PrepareAuraScript", "d9/d1b/a19690.html#a2d278e60b34870110dab188896109e24", null ],
+    [ "Register", "d9/d1b/a19690.html#ac15847527cc4d162b3b34b8ca8628864", null ],
+    [ "Validate", "d9/d1b/a19690.html#ac573e5bd171c97af1905b4a57a45e1f4", null ]
 ];

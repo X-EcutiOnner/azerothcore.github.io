@@ -1,6 +1,8 @@
 var a14542 =
 [
-    [ "PrepareAuraScript", "dc/d37/a14542.html#a80660b1417ab33edaf2c4cd517e10e30", null ],
-    [ "RecalculateHook", "dc/d37/a14542.html#af3952993947dfb24381083d21a9e64cb", null ],
-    [ "Register", "dc/d37/a14542.html#ab7f0aa924dfe8043e44cd794f72e4555", null ]
+    [ "CalcPeriodic", "dc/d37/a14542.html#ae2ce9c161a25385c6de1f4b7607c9935", null ],
+    [ "HandleEffectApply", "dc/d37/a14542.html#a4321da69ee59416bd50e621b804e5423", null ],
+    [ "HandleEffectPeriodicUpdate", "dc/d37/a14542.html#a3f23e4a8fecf83ba580c904f15e1e98b", null ],
+    [ "PrepareAuraScript", "dc/d37/a14542.html#a956136be8cb484efc9af2429d8779a03", null ],
+    [ "Register", "dc/d37/a14542.html#a1d4b1c43305b3133e4ac7f8b6ce70727", null ]
 ];

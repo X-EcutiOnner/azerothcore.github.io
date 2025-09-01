@@ -1,8 +1,9 @@
 var a11214 =
 [
-    [ "first", "d6/d53/a11214.html#a49aea8bfed353c2c552f6195b8e9f60a", null ],
-    [ "last", "d6/d53/a11214.html#a05a8077c7ec39bcca66fe84aa1da7040", null ],
-    [ "next", "d6/d53/a11214.html#a0a7791b7069912a013299e7afaf4142f", null ],
-    [ "prev", "d6/d53/a11214.html#ae27b7d0aa5a2ae5cb75a7f0d397c849f", null ],
-    [ "rank", "d6/d53/a11214.html#a0b58cef8fc18f91fa59b8c7d7b9f9872", null ]
+    [ "SpellEvent", "d6/d53/a11214.html#abca64eb7d39df9788cef9df7e8634368", null ],
+    [ "~SpellEvent", "d6/d53/a11214.html#a01f8ea354ef70d0a2ee7b88b8dd9f68e", null ],
+    [ "Abort", "d6/d53/a11214.html#ac21656467ae71def45fd78b9d1fa1c30", null ],
+    [ "Execute", "d6/d53/a11214.html#ac8158bfbe916ff6207b2f6608308ae24", null ],
+    [ "IsDeletable", "d6/d53/a11214.html#a2ecd9b31bacc717cc509eb9bb69c3cb3", null ],
+    [ "m_Spell", "d6/d53/a11214.html#a22cce1d722f5086932ae3e97c58d2921", null ]
 ];

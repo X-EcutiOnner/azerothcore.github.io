@@ -1,7 +1,5 @@
 var a27166 =
 [
-    [ "HandlePeriodic", "d9/d8a/a27166.html#a3da4cc5322f2e34244729fe3b3876482", null ],
-    [ "PrepareAuraScript", "d9/d8a/a27166.html#aab7f5c5bdfdd2b440f59f16ab321765a", null ],
-    [ "Register", "d9/d8a/a27166.html#a53b6067f46912648413fc6d6f107b0d8", null ],
-    [ "Validate", "d9/d8a/a27166.html#aa03222717b3c06316b232a6ac0270ec0", null ]
+    [ "achievement_bg_control_all_nodes", "d9/d8a/a27166.html#afa3c06227adff7a03998ac7c5f8147cf", null ],
+    [ "OnCheck", "d9/d8a/a27166.html#a69609eb5488519fa5a1f43b13a80e280", null ]
 ];

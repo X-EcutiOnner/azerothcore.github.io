@@ -1,9 +1,6 @@
 var a12670 =
 [
-    [ "FilterTargets", "db/d10/a12670.html#a88b91e40b330d39bd04a7873128fb858", null ],
-    [ "HandleFinish", "db/d10/a12670.html#a762ea4cc1cd0a50a65daf22cbbf4ce9c", null ],
-    [ "PrepareSpellScript", "db/d10/a12670.html#ab4ef82283e4d651d2e5304e49970efa8", null ],
-    [ "Register", "db/d10/a12670.html#ab2008e585589cbf313170064d37c4aa9", null ],
-    [ "Validate", "db/d10/a12670.html#af4963be6c544a1706a6dc30dcbf18309", null ],
-    [ "_targets", "db/d10/a12670.html#a2f75199a90e52cff770f46bce76d5149", null ]
+    [ "boss_mr_smiteAI", "df/d27/a12674.html", "df/d27/a12674" ],
+    [ "boss_mr_smite", "db/d10/a12670.html#a011d41112ef7376b71d2959f806be262", null ],
+    [ "GetAI", "db/d10/a12670.html#a619ca0aede1eb33f992328048319c4f0", null ]
 ];

@@ -1,6 +1,8 @@
 var a15434 =
 [
-    [ "npc_tiger_matriarchAI", "d6/dfd/a15438.html", "d6/dfd/a15438" ],
-    [ "npc_tiger_matriarch", "d5/d9f/a15434.html#a05a08bfa64c428213a4b534a982afb71", null ],
-    [ "GetAI", "d5/d9f/a15434.html#a6d5664ca125a775c2d71f322f5a57655", null ]
+    [ "npc_ahnqiraji_critter", "d5/d9f/a15434.html#a60e2dc1c52579a410d3435126bf39684", null ],
+    [ "JustDied", "d5/d9f/a15434.html#a71d3d5262bde847a18932fea89cb6648", null ],
+    [ "JustEngagedWith", "d5/d9f/a15434.html#aca1df706306f9181db26cd77e5b66452", null ],
+    [ "Reset", "d5/d9f/a15434.html#a645e16e9da29f6579320394201d0ada7", null ],
+    [ "UpdateAI", "d5/d9f/a15434.html#a68c5ded8563c2de9429a13cdb7d38f89", null ]
 ];

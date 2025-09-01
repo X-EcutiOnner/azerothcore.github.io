@@ -1,6 +1,5 @@
 var a27246 =
 [
-    [ "go_l70_etc_musicAI", "d4/d20/a27246.html#a1709414fc40d48ac7c13eb8251dfbb26", null ],
-    [ "UpdateAI", "d4/d20/a27246.html#a182a5a9bbe53ced25740de9a4a368469", null ],
-    [ "_events", "d4/d20/a27246.html#aa0cda672b4491b3cfc75214038aa2132", null ]
+    [ "AreaTrigger_at_legion_teleporter", "d4/d20/a27246.html#a2b648bd038f41025c19338367c696d25", null ],
+    [ "OnTrigger", "d4/d20/a27246.html#ae8239e5ad56d93627102dbd02989353d", null ]
 ];

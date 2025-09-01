@@ -1,6 +1,6 @@
 var a12238 =
 [
-    [ "boss_ebonrocAI", "d4/d18/a12242.html", "d4/d18/a12242" ],
-    [ "boss_ebonroc", "d2/db7/a12238.html#a3f71b5a687ab10a228e560429b8a4709", null ],
-    [ "GetAI", "d2/db7/a12238.html#acf2dc7391e1f642dff3c7f56024aaea5", null ]
+    [ "boss_solakar_flamewreathAI", "d4/d18/a12242.html", "d4/d18/a12242" ],
+    [ "boss_solakar_flamewreath", "d2/db7/a12238.html#a0d5a9f9525303014e72cd98d45bf302f", null ],
+    [ "GetAI", "d2/db7/a12238.html#a0bd7971406392f15f68828ed217f4d06", null ]
 ];

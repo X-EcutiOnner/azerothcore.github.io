@@ -1,10 +1,9 @@
 var a24802 =
 [
-    [ "FilterTargets", "de/da6/a24802.html#a033c63470d406ad2249c5aa223c00b2f", null ],
-    [ "HandleFinish", "de/da6/a24802.html#a3b5760ed61d0b2789ddcaef998303d38", null ],
-    [ "HandleScript", "de/da6/a24802.html#a2c26838015f1b21715fc1438537e15d3", null ],
-    [ "Load", "de/da6/a24802.html#a669aefa81d57358ef452f4c247b2ceff", null ],
-    [ "PrepareSpellScript", "de/da6/a24802.html#a3b65dbff73258b45f9e345bffc7a63a8", null ],
-    [ "Register", "de/da6/a24802.html#ac9b8d46cc77b06c427b5b3cbc1135072", null ],
-    [ "haveTarget", "de/da6/a24802.html#a7f5a4e68fb7d948f0df35824272cbdb0", null ]
+    [ "Absorb", "de/da6/a24802.html#ae5101c9adc7b9d09daf9c78d5e6d9d14", null ],
+    [ "CalculateAmount", "de/da6/a24802.html#a0e88abc0dfc1f0aa5c52f3602f99d45a", null ],
+    [ "Load", "de/da6/a24802.html#ab7eae0747736dea5633ef51eb0945fae", null ],
+    [ "PrepareAuraScript", "de/da6/a24802.html#a760b72149ee11ad88e290c9537b3094b", null ],
+    [ "Register", "de/da6/a24802.html#a0d25efee128ee95f9ad268b53358f376", null ],
+    [ "absorbPct", "de/da6/a24802.html#a31091ef6a0d39e1d498420a85f6c84fa", null ]
 ];

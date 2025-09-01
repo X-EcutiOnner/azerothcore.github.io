@@ -1,7 +1,6 @@
 var a21086 =
 [
-    [ "HandleEffectPeriodic", "d1/dc7/a21086.html#a5741a78ba0cc8c723e80b1847b3eb1bc", null ],
-    [ "PrepareAuraScript", "d1/dc7/a21086.html#a748cd347867557b5048d9ba0c112cd80", null ],
-    [ "Register", "d1/dc7/a21086.html#a3c24d37ab4a6e16a577983c3f6bc2722", null ],
-    [ "Validate", "d1/dc7/a21086.html#afa86789ef14b1d06094705ba6cfb9205", null ]
+    [ "boss_yoggsaron_neltharionAI", "da/d80/a21090.html", "da/d80/a21090" ],
+    [ "boss_yoggsaron_neltharion", "d1/dc7/a21086.html#a9910e0d6043e7738cba0fe9ae7e92898", null ],
+    [ "GetAI", "d1/dc7/a21086.html#abce5f59c35f7af3e1d5b30cc55ff48e6", null ]
 ];

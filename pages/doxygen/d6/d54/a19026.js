@@ -1,7 +1,6 @@
 var a19026 =
 [
-    [ "FilterTargets", "d6/d54/a19026.html#a56ff062a6014099623466145a66284cc", null ],
-    [ "PrepareSpellScript", "d6/d54/a19026.html#aa14623bb948ff457e52979facf74ffab", null ],
-    [ "Register", "d6/d54/a19026.html#a9494bea35088161c9a520395d714fde1", null ],
-    [ "Validate", "d6/d54/a19026.html#a6a02bc1a79a5f4fefe3b1e2900eaf0b4", null ]
+    [ "npc_icc_putricades_trapAI", "da/dc9/a19030.html", "da/dc9/a19030" ],
+    [ "npc_icc_putricades_trap", "d6/d54/a19026.html#ae022f2991fee4143fb965c53e4d4da5c", null ],
+    [ "GetAI", "d6/d54/a19026.html#a42ab1cb27234ebd10755dbbedce5f187", null ]
 ];

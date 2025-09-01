@@ -1,5 +1,5 @@
 var a07742 =
 [
-    [ "Glyph", "db/d4e/a07742.html#a99ef57f9c0bbab04953bd6edcf5b83f2", null ],
-    [ "Slot", "db/d4e/a07742.html#acc79672f4bddb27eb980b6aac19f83ec", null ]
+    [ "IsColorValid", "db/d4e/a07742.html#a816b3afba97af88a04cd5a724e9b663c", null ],
+    [ "IsTextValid", "db/d4e/a07742.html#a54af0b68fa7891adbc3001c74e251ea1", null ]
 ];

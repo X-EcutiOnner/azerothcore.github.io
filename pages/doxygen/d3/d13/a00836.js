@@ -1,12 +1,10 @@
 var a00836 =
 [
-    [ "InstancePlayerBind", "d5/dc4/a09620.html", "d5/dc4/a09620" ],
-    [ "BoundInstancesMapWrapper", "da/d6d/a09624.html", "da/d6d/a09624" ],
-    [ "InstanceSave", "d3/db3/a09628.html", "d3/db3/a09628" ],
-    [ "InstanceSaveMgr", "d2/df6/a09632.html", "d2/df6/a09632" ],
-    [ "InstanceSaveMgr::InstResetEvent", "d6/d5d/a09636.html", "d6/d5d/a09636" ],
-    [ "sInstanceSaveMgr", "d3/d13/a00836.html#ae1d3c96dbd749e40f06799fa52eeb9a2", null ],
-    [ "BoundInstancesMap", "d3/d13/a00836.html#aaa779bf09b703eb355cb51ac3481a19e", null ],
-    [ "PlayerBindStorage", "d3/d13/a00836.html#a2e2e3e31db4cc3be56b24e732c84106b", null ],
-    [ "ResetTimeByMapDifficultyMap", "d3/d13/a00836.html#aecf15b673beb714ef0acaa3bac23696a", null ]
+    [ "npc_webbed_creature", "d0/de0/a15534.html", "d0/de0/a15534" ],
+    [ "npc_webbed_creature::npc_webbed_creatureAI", "d4/d0b/a15538.html", "d4/d0b/a15538" ],
+    [ "WebbedCreature", "d3/d13/a00836.html#aa14073eff8de36ab4c416f5ae7bd8cd0", [
+      [ "NPC_EXPEDITION_RESEARCHER", "d3/d13/a00836.html#aa14073eff8de36ab4c416f5ae7bd8cd0afbd11004b44bf2d153ac8e084395b3b3", null ]
+    ] ],
+    [ "AddSC_bloodmyst_isle", "d3/d13/a00836.html#a6b9832f4bb6cfefde5bab6937fd46fae", null ],
+    [ "possibleSpawns", "d3/d13/a00836.html#ab3e43a66e02bf6f3b8cbd7c154f9d70d", null ]
 ];

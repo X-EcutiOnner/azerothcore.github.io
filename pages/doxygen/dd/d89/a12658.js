@@ -1,7 +1,9 @@
 var a12658 =
 [
-    [ "FilterTargets", "dd/d89/a12658.html#ab00f1a67df39f01aa0ead3459c3c3183", null ],
-    [ "Load", "dd/d89/a12658.html#a5bb1cb64090e1ebb3f6f7bcd1fa1ec21", null ],
-    [ "PrepareSpellScript", "dd/d89/a12658.html#a17bebef0c4c59c3fd0ccfb28e103ee3e", null ],
-    [ "Register", "dd/d89/a12658.html#ae366530ddacf45a92eaa36be7e706a84", null ]
+    [ "npc_mc_core_houndAI", "dd/d89/a12658.html#a9b07d662e32a342419a848ecd59d6391", null ],
+    [ "DamageTaken", "dd/d89/a12658.html#aaf2b0ac9b723bb16bfaf8481165e6b4f", null ],
+    [ "Reset", "dd/d89/a12658.html#a9f4b06230ae2e4fc2fe150eb9e9d1f12", null ],
+    [ "UpdateAI", "dd/d89/a12658.html#aaba8ef0b33b9bb9acf74223ef0e9aaad", null ],
+    [ "instance", "dd/d89/a12658.html#ab47451dfeff84c8467be2b76554df897", null ],
+    [ "serratedBiteTimer", "dd/d89/a12658.html#a3a49df32c788497d3e82912d423683b7", null ]
 ];

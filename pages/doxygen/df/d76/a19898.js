@@ -1,6 +1,8 @@
 var a19898 =
 [
-    [ "npc_hodirs_furyAI", "d4/dde/a19902.html", "d4/dde/a19902" ],
-    [ "npc_hodirs_fury", "df/d76/a19898.html#af5e0f1cb4c478bd4fc9ec246aa7d7e08", null ],
-    [ "GetAI", "df/d76/a19898.html#ad8856a6da86a8f4ce744d57614ee16e6", null ]
+    [ "HandlePeriodic", "df/d76/a19898.html#a2724a85983561a14db8b06ae492ead55", null ],
+    [ "OnRemove", "df/d76/a19898.html#a6d0f941f30d8c850e48396fffd13768d", null ],
+    [ "PrepareAuraScript", "df/d76/a19898.html#aea9d38dc7fdff6d38d252bb5ded57d78", null ],
+    [ "Register", "df/d76/a19898.html#a85270947972be9c299a642b31969ef68", null ],
+    [ "Validate", "df/d76/a19898.html#a91ebb4e69d02deb5129965f543c474d1", null ]
 ];

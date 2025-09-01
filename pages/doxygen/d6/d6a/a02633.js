@@ -1,5 +1,11 @@
 var a02633 =
 [
-    [ "ChatLogScript", "d9/db8/a27220.html", "d9/db8/a27220" ],
-    [ "AddSC_chat_log", "d6/d6a/a02633.html#ae796ad81a78a552e5c31fcf6c5c135fa", null ]
+    [ "MCBossObject", "d7/de8/a12642.html", "d7/de8/a12642" ],
+    [ "instance_molten_core", "da/d44/a12646.html", "da/d44/a12646" ],
+    [ "instance_molten_core::instance_molten_core_InstanceMapScript", "d7/ded/a12650.html", "d7/ded/a12650" ],
+    [ "AddSC_instance_molten_core", "d6/d6a/a02633.html#aa908fb56c2f024e5bfcb38bc98b849ab", null ],
+    [ "linkedBossObjData", "d6/d6a/a02633.html#a69ab269a27b57bb4b00d3eee95db589e", null ],
+    [ "MAX_MC_LINKED_BOSS_OBJ", "d6/d6a/a02633.html#a398f000c29691c6a24707190dc4a4024", null ],
+    [ "minionData", "d6/d6a/a02633.html#a6720238df140a3c574a711042b7f5bd3", null ],
+    [ "SAY_SPAWN", "d6/d6a/a02633.html#a1712840a822c3d823764d3c974c6ea31", null ]
 ];

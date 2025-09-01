@@ -1,7 +1,6 @@
 var a24654 =
 [
-    [ "AfterApply", "dd/d02/a24654.html#aee69eceead7e31cce2638ff252f6653d", null ],
-    [ "AfterRemove", "dd/d02/a24654.html#ad53d25cc04f1b6cc1f3d0a8d9fc69a89", null ],
-    [ "PrepareAuraScript", "dd/d02/a24654.html#a0ccde960cb328cd1c72b2504376e92b4", null ],
-    [ "Register", "dd/d02/a24654.html#ab5f8afbfa688ebd548a5508543498b55", null ]
+    [ "HandleSummon", "dd/d02/a24654.html#a00e265d830ea3e8a0a1952984c438071", null ],
+    [ "PrepareSpellScript", "dd/d02/a24654.html#a96df13b19964b6e89babb312465b90bc", null ],
+    [ "Register", "dd/d02/a24654.html#a5341e4ddf1b1ef94099c337114164ba8", null ]
 ];

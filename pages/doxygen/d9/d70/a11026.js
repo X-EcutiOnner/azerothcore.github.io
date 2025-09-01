@@ -1,9 +1,6 @@
 var a11026 =
 [
-    [ "EncryptableAndCompressiblePacket", "d9/d70/a11026.html#a64eb3fa6b02a6aff486aa2d9a4d09fc6", null ],
-    [ "CompressIfNeeded", "d9/d70/a11026.html#a113d89a8f2832c5db01611ff71d2bc73", null ],
-    [ "NeedsCompression", "d9/d70/a11026.html#ad376b973f02c1b0cd2afbb43cc081917", null ],
-    [ "NeedsEncryption", "d9/d70/a11026.html#a114e5d6da2e81a26e478f7aea287d08a", null ],
-    [ "_encrypt", "d9/d70/a11026.html#a37a68eddad23001a85a4a2f77e237810", null ],
-    [ "SocketQueueLink", "d9/d70/a11026.html#a88f11ce75f439fd290bdc09156d559c2", null ]
+    [ "CorpseMapPositionQuery", "d9/d70/a11026.html#a14bfe5f386800785ae3f4f39aea9ea83", null ],
+    [ "Read", "d9/d70/a11026.html#a0adb3889b6bc53646cb54163f7b04a6b", null ],
+    [ "unk", "d9/d70/a11026.html#ab7edc2e1ef196f05aef9ea1c8427f877", null ]
 ];

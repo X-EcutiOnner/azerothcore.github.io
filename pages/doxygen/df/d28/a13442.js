@@ -1,6 +1,7 @@
 var a13442 =
 [
-    [ "instance_sunwell_plateau_InstanceMapScript", "d4/daf/a13446.html", "d4/daf/a13446" ],
-    [ "instance_sunwell_plateau", "df/d28/a13442.html#a31d2245a9237c8dc4480b9d26ff3557c", null ],
-    [ "GetInstanceScript", "df/d28/a13442.html#a5960785a845c87e2e1730cfd865b44b4", null ]
+    [ "CorruptTriggers", "df/d28/a13442.html#a225cafcce56db7d4aefd3fb75ed2533f", null ],
+    [ "Execute", "df/d28/a13442.html#a9929f3518f307e0b753782967f06c6c1", null ],
+    [ "_caster", "df/d28/a13442.html#a2b9e4c3d292b7e3deea57e1542b3ba12", null ],
+    [ "_currentLane", "df/d28/a13442.html#a53e4c60e29f59aa91e059d50e470a22a", null ]
 ];

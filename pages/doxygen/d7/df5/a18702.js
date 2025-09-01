@@ -1,8 +1,9 @@
 var a18702 =
 [
-    [ "CountTargets", "d7/df5/a18702.html#a3000d234134bb3d4b2e17fd1eff8f4f0", null ],
-    [ "HandleScript", "d7/df5/a18702.html#af058a0c458463bdba4a4eb73aa91c113", null ],
-    [ "PrepareSpellScript", "d7/df5/a18702.html#a83b2fad7cdc189a17129e25a015952ff", null ],
-    [ "Register", "d7/df5/a18702.html#af5e214ab418ca05ddd637c83d7a7e71a", null ],
-    [ "Validate", "d7/df5/a18702.html#a63e8e899cb1469dca26cd5fa34b85408", null ]
+    [ "npc_gluttonous_abominationAI", "d7/df5/a18702.html#a8b9b632e2e26ef8d0e8c122d28530e81", null ],
+    [ "JustDied", "d7/df5/a18702.html#abc0dd71bbaf85786f34367acc3a849e9", null ],
+    [ "JustSummoned", "d7/df5/a18702.html#a49ff3db7845167b9e98feab2a01b1ed1", null ],
+    [ "Reset", "d7/df5/a18702.html#a45588181429a74ac024e0390c76fa57a", null ],
+    [ "UpdateAI", "d7/df5/a18702.html#a33ef03a9f005ff187493275a9c2683a7", null ],
+    [ "_events", "d7/df5/a18702.html#a4a841c7d2565f4797bc893a9c1ee7acd", null ]
 ];

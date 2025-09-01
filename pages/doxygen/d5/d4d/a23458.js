@@ -1,5 +1,7 @@
 var a23458 =
 [
-    [ "npc_invisible_tractor_beam_source", "d5/d4d/a23458.html#a78f8adbc578ec005ae3f764e55895dc4", null ],
-    [ "IsSummonedBy", "d5/d4d/a23458.html#a4a47cd459013a783bb1cf47b6d670fce", null ]
+    [ "npc_ahune_ice_spear_bunny", "d5/d4d/a23458.html#aecc30efddcf4ae9bd93504e1d727ee87", null ],
+    [ "InitializeAI", "d5/d4d/a23458.html#a5e7eb38f6bf4a947bd1e09ee198eb45d", null ],
+    [ "UpdateAI", "d5/d4d/a23458.html#ac7fd9b174f2ee1b1adf9d20d59c67bc2", null ],
+    [ "_scheduler", "d5/d4d/a23458.html#a1a1a8b066a3cab9e15710fa97a8c83e6", null ]
 ];

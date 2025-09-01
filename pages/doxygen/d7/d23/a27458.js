@@ -1,8 +1,9 @@
 var a27458 =
 [
-    [ "npc_artoriusAI", "d5/d04/a27462.html", "d5/d04/a27462" ],
-    [ "npc_artorius", "d7/d23/a27458.html#a832831aa19ef3694eee5bbae4d1d39e1", null ],
-    [ "GetAI", "d7/d23/a27458.html#a2563f90fe1fd35c6bcf3f2296652981d", null ],
-    [ "OnGossipHello", "d7/d23/a27458.html#a2c91fcd777d0e0e7ab4927290ca04359", null ],
-    [ "OnGossipSelect", "d7/d23/a27458.html#ae0d8b09e4f7ad830cac9d82ef2d2fe57", null ]
+    [ "go_gilded_brazierAI", "d7/d23/a27458.html#aaacf408b0f42b593a8a2897cb27886fb", null ],
+    [ "GossipHello", "d7/d23/a27458.html#afac9e217c294e72ff5f2526422e6321e", null ],
+    [ "Initialize", "d7/d23/a27458.html#a72d2dd8f7ecdf173e5a3847c94255786", null ],
+    [ "UpdateAI", "d7/d23/a27458.html#a0965f0a6f3f1c75e85f184319a1f9cef", null ],
+    [ "_events", "d7/d23/a27458.html#a35e62a272b790d6e858cc48c92e55b7b", null ],
+    [ "_playerGUID", "d7/d23/a27458.html#a506eccb2c3ebcc126d486638fb07ae3c", null ]
 ];

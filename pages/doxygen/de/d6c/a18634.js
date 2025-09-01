@@ -1,7 +1,6 @@
 var a18634 =
 [
-    [ "npc_captain_arnathAI", "de/d6c/a18634.html#a34e3d17b89010569bf7e9cb28361c2af", null ],
-    [ "FindFriendlyCreature", "de/d6c/a18634.html#ad6411d2a87d2552bea2051f80ca16e14", null ],
-    [ "Reset", "de/d6c/a18634.html#a016fbe51f31e1c5ec1636e8d20d8cb30", null ],
-    [ "UpdateAI", "de/d6c/a18634.html#a020efd7adc0d60152007906e3229988d", null ]
+    [ "npc_green_dragon_combat_triggerAI", "d9/dab/a18638.html", "d9/dab/a18638" ],
+    [ "npc_green_dragon_combat_trigger", "de/d6c/a18634.html#acec675494f5e5e9609bf34b7f25cb569", null ],
+    [ "GetAI", "de/d6c/a18634.html#a945b7cd0084873c17d52b3c2cc3ede22", null ]
 ];

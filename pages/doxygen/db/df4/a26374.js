@@ -1,7 +1,6 @@
 var a26374 =
 [
-    [ "HandleDummy", "db/df4/a26374.html#abc630a0c8274f5f85901b2505ff2ae04", null ],
-    [ "PrepareSpellScript", "db/df4/a26374.html#af79cd7c2f6ed47a93dbbe17aaca6834f", null ],
-    [ "Register", "db/df4/a26374.html#a3f1808538acca2742c19f68af9a6fd56", null ],
-    [ "Validate", "db/df4/a26374.html#a475e1d5d8c70e0edd5957a1e493fd43e", null ]
+    [ "HandleAfterHit", "db/df4/a26374.html#a6f0ec02c8b1429a6be76465dd9badd1c", null ],
+    [ "PrepareSpellScript", "db/df4/a26374.html#af2e6c3bfc233ee86fa2c9186cdd6b5a4", null ],
+    [ "Register", "db/df4/a26374.html#a2a780069022e62b14992a7b69626ac3d", null ]
 ];

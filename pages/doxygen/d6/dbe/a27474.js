@@ -1,8 +1,5 @@
 var a27474 =
 [
-    [ "npc_simoneAI", "db/d7a/a27478.html", "db/d7a/a27478" ],
-    [ "npc_simone", "d6/dbe/a27474.html#acf3e759dea12cc5fbe1376213bd3585c", null ],
-    [ "GetAI", "d6/dbe/a27474.html#a36d94c5ab6c910cd3853e579d6a5ab5a", null ],
-    [ "OnGossipHello", "d6/dbe/a27474.html#ae1a0cd1fbee6bee0a54a1a666c8367dd", null ],
-    [ "OnGossipSelect", "d6/dbe/a27474.html#ae2b1a653be3767881769b54607219757", null ]
+    [ "go_southfury_moonstone", "d6/dbe/a27474.html#aed27e57e8232e156177c293ad0c0b4bb", null ],
+    [ "OnGossipHello", "d6/dbe/a27474.html#a4c0870f0e03708f1fdc073abadbe5de8", null ]
 ];

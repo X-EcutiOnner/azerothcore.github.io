@@ -1,6 +1,7 @@
 var a24746 =
 [
-    [ "FilterTargets", "db/d3d/a24746.html#ac01bb4bac4f041318937cfc09ed603cd", null ],
-    [ "PrepareSpellScript", "db/d3d/a24746.html#a3eb1d8c26653477bed5b7ae0c69b34e9", null ],
-    [ "Register", "db/d3d/a24746.html#a658a476f5c2229715a8949aa6ba4f99c", null ]
+    [ "HandleDummy", "db/d3d/a24746.html#a54f7f56a9122b623855eb9d11e34dfca", null ],
+    [ "PrepareSpellScript", "db/d3d/a24746.html#a2fe4b009fa3741c180e18730af5853e3", null ],
+    [ "Register", "db/d3d/a24746.html#a762c2320ab8d48e1284d81962a4b078f", null ],
+    [ "Validate", "db/d3d/a24746.html#a42fbc381d7ae89f1ac265fb15ebd864f", null ]
 ];

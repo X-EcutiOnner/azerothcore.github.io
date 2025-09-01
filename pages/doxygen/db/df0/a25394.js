@@ -1,7 +1,7 @@
 var a25394 =
 [
-    [ "HandleDummy", "db/df0/a25394.html#a84430c269e419acd94a2d0520b9ca639", null ],
-    [ "PrepareSpellScript", "db/df0/a25394.html#a8ec4e9cea213739825126111d038d1a5", null ],
-    [ "Register", "db/df0/a25394.html#a1abee3e5f324875aab8dd666ac417308", null ],
-    [ "Validate", "db/df0/a25394.html#a393043b94f50d9379a987f9b49b8abde", null ]
+    [ "HandleEffectPeriodic", "db/df0/a25394.html#a76e5aea0f1a3698e8034a1cbb08f4196", null ],
+    [ "PrepareAuraScript", "db/df0/a25394.html#affc698127fe0656df25bd094c02a7e50", null ],
+    [ "Register", "db/df0/a25394.html#a4707bfaeb86b3540920a6772e1726e26", null ],
+    [ "Validate", "db/df0/a25394.html#aef839f163d7e623a54b163e1c27542cd", null ]
 ];

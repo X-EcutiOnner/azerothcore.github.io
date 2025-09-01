@@ -1,10 +1,5 @@
 var a11686 =
 [
-    [ "lfg_commandscript", "d5/d0e/a11686.html#a90faaca821e4162e0aea40a4d98af62c", null ],
-    [ "GetCommands", "d5/d0e/a11686.html#a324310f9b04675c277ceae44ea09fbaf", null ],
-    [ "HandleLfgCleanCommand", "d5/d0e/a11686.html#a93db689dbdb97a0318d62409a863767e", null ],
-    [ "HandleLfgGroupInfoCommand", "d5/d0e/a11686.html#a2376288a2ef82d8a19602cd66ff880f2", null ],
-    [ "HandleLfgOptionsCommand", "d5/d0e/a11686.html#a73187a97c883d8d1bb3765943dd98c39", null ],
-    [ "HandleLfgPlayerInfoCommand", "d5/d0e/a11686.html#acdf12aff45f16904df5724ab158e3b97", null ],
-    [ "HandleLfgQueueInfoCommand", "d5/d0e/a11686.html#a54dcdf133cc5b22961c34eda62a4f2fc", null ]
+    [ "WorldConfig", "d5/d0e/a11686.html#abe3f855f1902d7f3974b741cfc0a3663", null ],
+    [ "BuildConfigCache", "d5/d0e/a11686.html#aaf6bfad583f3a2dbb1e9ea2487dd2c9d", null ]
 ];

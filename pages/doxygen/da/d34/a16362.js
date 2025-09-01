@@ -1,11 +1,11 @@
 var a16362 =
 [
-    [ "npc_anubarak_spikeAI", "da/d34/a16362.html#a1982ce33ce76e15d33bfcc222f5ad734", null ],
-    [ "DamageTaken", "da/d34/a16362.html#a3b548e629d2c6217f21644136ca7ba4b", null ],
-    [ "DoAction", "da/d34/a16362.html#ab583d97745ea69e95a1ecc0b68ac9878", null ],
-    [ "Reset", "da/d34/a16362.html#af5b4a1227467d86d9dbba57362fdf360", null ],
-    [ "SelectNewTarget", "da/d34/a16362.html#ab9ed5d53703464c488267f578a214fb8", null ],
-    [ "UpdateAI", "da/d34/a16362.html#af8d6d840785c718d963c7b150cd12d9c", null ],
-    [ "events", "da/d34/a16362.html#a52ff0006b5194edcb55f49e970a15ab8", null ],
-    [ "TargetGUID", "da/d34/a16362.html#a2f7cbaf81e159035476ee9576a0e3990", null ]
+    [ "boss_saviana_ragefireAI", "da/d34/a16362.html#ab4fa6a2cc57c9d110bfd3cf16a016942", null ],
+    [ "JustDied", "da/d34/a16362.html#a30331f9cdb141cd2dbc043888b48a6eb", null ],
+    [ "JustEngagedWith", "da/d34/a16362.html#a458eb370872c20441b5ec6ecd2c97500", null ],
+    [ "JustReachedHome", "da/d34/a16362.html#a74abf893a37874eb98aa5ba9883e8d62", null ],
+    [ "KilledUnit", "da/d34/a16362.html#ac07513681c72d6748246cc7c349d117c", null ],
+    [ "MovementInform", "da/d34/a16362.html#aed4c70f571586c8cbcc044c01bdc472d", null ],
+    [ "Reset", "da/d34/a16362.html#a4b7f103331c566cbf007a075161505af", null ],
+    [ "UpdateAI", "da/d34/a16362.html#af36ca2a359f950a10214d07aad240324", null ]
 ];

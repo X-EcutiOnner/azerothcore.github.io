@@ -1,6 +1,7 @@
 var a14698 =
 [
-    [ "instance_mount_hyjal_InstanceMapScript", "df/d35/a14702.html", "df/d35/a14702" ],
-    [ "instance_hyjal", "df/d7b/a14698.html#ade946c0fcaa4bad790bfcb4b6ffb6420", null ],
-    [ "GetInstanceScript", "df/d7b/a14698.html#ae6e39933d7cfd6563f6d37636f1c6f68", null ]
+    [ "GetVisualThrow", "df/d7b/a14698.html#afe59e0c21eaa06e2b1d614613b1d2f73", null ],
+    [ "HandleDummy", "df/d7b/a14698.html#adca1aacf89dcf452f1c98cae97f09690", null ],
+    [ "PrepareSpellScript", "df/d7b/a14698.html#a642f2d3992e7e3a4393d2b0c6b521597", null ],
+    [ "Register", "df/d7b/a14698.html#a68a6e9b307500a56e66bc19c41daf9dc", null ]
 ];

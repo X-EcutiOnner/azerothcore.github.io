@@ -1,18 +1,14 @@
 var a00698 =
 [
-    [ "UnitBaseEvent", "da/d98/a07852.html", "da/d98/a07852" ],
-    [ "ThreatRefStatusChangeEvent", "db/d0d/a07856.html", "db/d0d/a07856" ],
-    [ "ThreatMgrEvent", "d2/deb/a07864.html", "d2/deb/a07864" ],
-    [ "UEV_ALL_EVENT_MASK", "df/dbb/a00698.html#a99af7f8805c877a694d51ab4feb1e58b", null ],
-    [ "UEV_THREAT_MANAGER_EVENT_MASK", "df/dbb/a00698.html#a28d3aa8f148208fa65f5ef1af46913cc", null ],
-    [ "UEV_THREAT_REF_EVENT_MASK", "df/dbb/a00698.html#aca3c8db6dd274b113d9c3c7755ff5d7a", null ],
-    [ "UNIT_EVENT_TYPE", "df/dbb/a00698.html#a5207de6e2fb421d2579a9baf4c471e97", [
-      [ "UEV_THREAT_REF_ONLINE_STATUS", "df/dbb/a00698.html#a5207de6e2fb421d2579a9baf4c471e97a77f8da111f54455d20c58ae0fd4156f9", null ],
-      [ "UEV_THREAT_REF_THREAT_CHANGE", "df/dbb/a00698.html#a5207de6e2fb421d2579a9baf4c471e97a5c74b5ccc46cdc399916b41b6d97bfb0", null ],
-      [ "UEV_THREAT_REF_REMOVE_FROM_LIST", "df/dbb/a00698.html#a5207de6e2fb421d2579a9baf4c471e97aa8b5a9d97c235e1f56e98ff4103b08d0", null ],
-      [ "UEV_THREAT_REF_ASSECCIBLE_STATUS", "df/dbb/a00698.html#a5207de6e2fb421d2579a9baf4c471e97abd7481924e1cb036704820e5be0407db", null ],
-      [ "UEV_THREAT_SORT_LIST", "df/dbb/a00698.html#a5207de6e2fb421d2579a9baf4c471e97a74092d5fa151b78ce0de1ddf3ed05865", null ],
-      [ "UEV_THREAT_SET_NEXT_TARGET", "df/dbb/a00698.html#a5207de6e2fb421d2579a9baf4c471e97ac45249081756ba40d712bd7e08626ed9", null ],
-      [ "UEV_THREAT_VICTIM_CHANGED", "df/dbb/a00698.html#a5207de6e2fb421d2579a9baf4c471e97af02166c466fbff650b908cd08c7e4669", null ]
-    ] ]
+    [ "guard_shattrath_scryer", "d0/de1/a27550.html", "d0/de1/a27550" ],
+    [ "guard_shattrath_scryer::guard_shattrath_scryerAI", "d2/da6/a27554.html", "d2/da6/a27554" ],
+    [ "guard_shattrath_aldor", "d8/d9d/a27558.html", "d8/d9d/a27558" ],
+    [ "guard_shattrath_aldor::guard_shattrath_aldorAI", "d9/d31/a27562.html", "d9/d31/a27562" ],
+    [ "GuardShattrath", "df/dbb/a00698.html#a7c8fcdd86e1aa9eab132e6321290e79c", [
+      [ "SPELL_BANISHED_SHATTRATH_A", "df/dbb/a00698.html#a7c8fcdd86e1aa9eab132e6321290e79ca958387dd7fcdedf036a81cf2ab4f56fe", null ],
+      [ "SPELL_BANISHED_SHATTRATH_S", "df/dbb/a00698.html#a7c8fcdd86e1aa9eab132e6321290e79ca78bb081a2031299d661fbce8fd5a3d48", null ],
+      [ "SPELL_BANISH_TELEPORT", "df/dbb/a00698.html#a7c8fcdd86e1aa9eab132e6321290e79ca7aecffca2feb1502c591610fee5566e0", null ],
+      [ "SPELL_EXILE", "df/dbb/a00698.html#a7c8fcdd86e1aa9eab132e6321290e79ca6758cdbc7bb8447df1f7b3073833463d", null ]
+    ] ],
+    [ "AddSC_guards", "df/dbb/a00698.html#acba582cbc90c710c629dd30926acdca4", null ]
 ];

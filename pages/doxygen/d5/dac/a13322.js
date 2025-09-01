@@ -1,8 +1,6 @@
 var a13322 =
 [
-    [ "FilterTargets", "d5/dac/a13322.html#a3aac5e364d04a4a086aaa911051417d5", null ],
-    [ "HandleDummy", "d5/dac/a13322.html#aa0705dee3edeca7b61f82581f367e94a", null ],
-    [ "PrepareSpellScript", "d5/dac/a13322.html#a1efa036eac25d789850849dc1b209379", null ],
-    [ "Register", "d5/dac/a13322.html#a656b512d5bef657004a72acbf7875760", null ],
-    [ "Validate", "d5/dac/a13322.html#a33534d9fd70af99bbde1e4a908d22084", null ]
+    [ "instance_shadowfang_keep_InstanceMapScript", "dd/d3d/a13326.html", "dd/d3d/a13326" ],
+    [ "instance_shadowfang_keep", "d5/dac/a13322.html#aa6817df7270fbf9397c6b66b28d0f6f8", null ],
+    [ "GetInstanceScript", "d5/dac/a13322.html#a5c076ed86470247de5b4e3733b70fa25", null ]
 ];

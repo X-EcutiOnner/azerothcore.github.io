@@ -1,12 +1,9 @@
 var a12726 =
 [
-    [ "boss_bigbadwolf", "d2/d34/a12726.html#a1e4ad63c96d64f81e8b9ea82f118cdcc", null ],
-    [ "EnterEvadeMode", "d2/d34/a12726.html#a4f2d5307f5d05ed58bfc200f53bf2969", null ],
-    [ "JustDied", "d2/d34/a12726.html#a167083a43e00a60e9c3792cadaf6e80c", null ],
-    [ "JustEngagedWith", "d2/d34/a12726.html#a529fad938a0ef7261f1c2d589b6ff29c", null ],
-    [ "JustReachedHome", "d2/d34/a12726.html#a7755bf925d919c73075a41f8774280c0", null ],
-    [ "KilledUnit", "d2/d34/a12726.html#a8e004a1feac796ed467eba744f211827", null ],
-    [ "UpdateAI", "d2/d34/a12726.html#ab788a0155a3ffe6535d58263eea16dee", null ],
-    [ "_scheduler", "d2/d34/a12726.html#a661d9b619be30764ba5b89d71de870e9", null ],
-    [ "instance", "d2/d34/a12726.html#aed0e9edc52f13b7b0cfa5047849c26a9", null ]
+    [ "boss_curator", "d2/d34/a12726.html#a41b65078d0822ba87f3e40fc7bb10a40", null ],
+    [ "JustDied", "d2/d34/a12726.html#a5617f51f51304682d48af11fdb0c6b8b", null ],
+    [ "JustEngagedWith", "d2/d34/a12726.html#a848f477a101956662389cab5ffcc0727", null ],
+    [ "JustSummoned", "d2/d34/a12726.html#ac779d275e03e6ba190617d215b217ce5", null ],
+    [ "KilledUnit", "d2/d34/a12726.html#a9bfb89a8747251e4a84eb2f94a547f0d", null ],
+    [ "Reset", "d2/d34/a12726.html#af6fbf3c3d77f9f052f11974f7b54feab", null ]
 ];

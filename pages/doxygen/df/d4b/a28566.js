@@ -1,6 +1,7 @@
 var a28566 =
 [
-    [ "SetUp", "df/d4b/a28566.html#af04bbb2661f10d3bf442c590ebdf1a2b", null ],
-    [ "TearDown", "df/d4b/a28566.html#a3bc271279472966f9dae906f9f77119b", null ],
-    [ "confFilePath", "df/d4b/a28566.html#aaaccdda1669c76b94483bf2db2615d4e", null ]
+    [ "Flags", "df/d4b/a28566.html#a12b3cb0e28ed0f47ff5ccea09fc8b860", null ],
+    [ "ID", "df/d4b/a28566.html#ab6ccf4a64672a6ade01f59cdeeeb85cb", null ],
+    [ "RangeMax", "df/d4b/a28566.html#a9691134e5cb1e15e3c93ea05a653975d", null ],
+    [ "RangeMin", "df/d4b/a28566.html#a127a46f2382edea750ca567d5ea3d304", null ]
 ];

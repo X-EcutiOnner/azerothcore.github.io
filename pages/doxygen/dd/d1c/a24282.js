@@ -1,6 +1,8 @@
 var a24282 =
 [
-    [ "PrepareSpellScript", "dd/d1c/a24282.html#a6b5c1227e2d12ee5f2040dc6dacd60ac", null ],
-    [ "Register", "dd/d1c/a24282.html#ac57aee08a131bcf7db11bc105f32242c", null ],
-    [ "SetDest", "dd/d1c/a24282.html#a26362c4873890bb60c2526bf07058746", null ]
+    [ "npc_bessyAI", "dd/d1c/a24282.html#ad1300a563888b34689bedf97c387707c", null ],
+    [ "JustDied", "dd/d1c/a24282.html#af98e9235b2432b619e4cc01c0c1111ef", null ],
+    [ "JustSummoned", "dd/d1c/a24282.html#a4197fb122299fd152e5da335bb832ae5", null ],
+    [ "Reset", "dd/d1c/a24282.html#aed64386629e52c3b65abadde54a63cc4", null ],
+    [ "WaypointReached", "dd/d1c/a24282.html#a4611a8f41f66a1a846fb42ba1d4062c8", null ]
 ];

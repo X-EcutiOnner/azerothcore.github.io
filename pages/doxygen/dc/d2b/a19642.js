@@ -1,6 +1,8 @@
 var a19642 =
 [
-    [ "dark_rune_stormcallerAI", "d3/d67/a19646.html", "d3/d67/a19646" ],
-    [ "dark_rune_stormcaller", "dc/d2b/a19642.html#ab31774011fc3e1e8ffa1a3b7c5cbfbcc", null ],
-    [ "GetAI", "dc/d2b/a19642.html#a9072aaf482106cfae0d3901507b47f60", null ]
+    [ "HandleOnEffectApply", "dc/d2b/a19642.html#ac852d761940494f78b50ba3b060057a2", null ],
+    [ "HandleOnEffectRemove", "dc/d2b/a19642.html#a6764750586be8b57d52a2dba87d89e76", null ],
+    [ "PrepareAuraScript", "dc/d2b/a19642.html#acc93a6d463501a23b73bd1ac1f99854e", null ],
+    [ "Register", "dc/d2b/a19642.html#a2cb77175d7341752bdd8733cfcfe8ed3", null ],
+    [ "Validate", "dc/d2b/a19642.html#a4de69fb4aa8e1506581ed01c42dc8f76", null ]
 ];

@@ -1,6 +1,8 @@
 var a15642 =
 [
-    [ "npc_taskmaster_fizzuleAI", "df/dbd/a15646.html", "df/dbd/a15646" ],
-    [ "npc_taskmaster_fizzule", "d2/de8/a15642.html#aa42e6cc1a3ac58ea79f5184f7bb293a9", null ],
-    [ "GetAI", "d2/de8/a15642.html#a6281de7424932fe6580ffefa199498d9", null ]
+    [ "FilterTargets", "d2/de8/a15642.html#a47b8055fa1b28968e8323ca98613aa83", null ],
+    [ "HandleScript", "d2/de8/a15642.html#a8f7984e510d8947a2ae4b0734409866b", null ],
+    [ "PrepareSpellScript", "d2/de8/a15642.html#a5c12caf56e95a9f7960ed9f4a3945c7c", null ],
+    [ "Register", "d2/de8/a15642.html#adf76a5d9145f88aad5b3dd164fa4fcc4", null ],
+    [ "Validate", "d2/de8/a15642.html#aa3f9c6418eb804a2ddf235beb8491a19", null ]
 ];

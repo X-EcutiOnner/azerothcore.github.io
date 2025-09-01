@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/scripts/Kalimdor/OnyxiasLair/onyxias_lair.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/apps/worldserver/ACSoap/ACSoap.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,326 +105,260 @@ $(document).ready(function(){initNavTree('d8/da6/a02696.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#define-members">Macros</a> &#124;
-<a href="#enum-members">Enumerations</a> &#124;
-<a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">onyxias_lair.h File Reference</div></div>
+<a href="#func-members">Functions</a> &#124;
+<a href="#var-members">Variables</a>  </div>
+  <div class="headertitle"><div class="title">ACSoap.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">CreatureAIImpl.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">ACSoap.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">AccountMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Log.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">World.h</a>&quot;</code><br />
+<code>#include &quot;soapStub.h&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
-Macros</h2></td></tr>
-<tr class="memitem:a042491ef36459046f3866e90f15aae0d"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/da6/a02696.html#a042491ef36459046f3866e90f15aae0d">DataHeader</a>&#160;&#160;&#160;&quot;OL&quot;</td></tr>
-<tr class="separator:a042491ef36459046f3866e90f15aae0d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a411397a87d359be66de671f07dbefefe"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/da6/a02696.html#a411397a87d359be66de671f07dbefefe">OnyxiasLairScriptName</a>&#160;&#160;&#160;&quot;instance_onyxias_lair&quot;</td></tr>
-<tr class="separator:a411397a87d359be66de671f07dbefefe"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4becd56438e0f64fd4e609bda9b542a4"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/da6/a02696.html#a4becd56438e0f64fd4e609bda9b542a4">RegisterOnyxiasLairCreatureAI</a>(ai_name)&#160;&#160;&#160;<a class="el" href="../../d1/dd8/a01022.html#a25cc02ecf50f52ec8cdff096060b8be1">RegisterCreatureAIWithFactory</a>(ai_name, <a class="el" href="../../d8/da6/a02696.html#a3573a392c09a4df350f96df672ce58ad">GetOnyxiasLairAI</a>)</td></tr>
-<tr class="separator:a4becd56438e0f64fd4e609bda9b542a4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
-Enumerations</h2></td></tr>
-<tr class="memitem:a7395e25d8049b2c60a1c7191d197f5cc"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/da6/a02696.html#a7395e25d8049b2c60a1c7191d197f5cc">eInstanceData</a> { <br />
-&#160;&#160;<a class="el" href="../../d8/da6/a02696.html#a7395e25d8049b2c60a1c7191d197f5cca8fddf4be448f687691188b276d390817">DATA_ONYXIA</a> = 0
-, <br />
-&#160;&#160;<a class="el" href="../../d8/da6/a02696.html#a7395e25d8049b2c60a1c7191d197f5cca7913656ef56deb3793c0c5f3d999d80d">MAX_ENCOUNTER</a> = 1
-, <br />
-&#160;&#160;<a class="el" href="../../d8/da6/a02696.html#a7395e25d8049b2c60a1c7191d197f5cca620ba8d85c596c11f1df0132b0117fbc">DATA_WHELP_SUMMONED</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d8/da6/a02696.html#a7395e25d8049b2c60a1c7191d197f5cca3678a84e6e3ed1c831e230a816a5475d">DATA_DEEP_BREATH_FAILED</a>
-<br />
- }</td></tr>
-<tr class="separator:a7395e25d8049b2c60a1c7191d197f5cc"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a59602e8f26d052c0b6f6bdfe896510b8"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/da6/a02696.html#a59602e8f26d052c0b6f6bdfe896510b8">eCreatures</a> { <br />
-&#160;&#160;<a class="el" href="../../d8/da6/a02696.html#a59602e8f26d052c0b6f6bdfe896510b8ac5297157e46436388d2a4e835c06de6e">NPC_ONYXIA</a> = 10184
-, <br />
-&#160;&#160;<a class="el" href="../../d8/da6/a02696.html#a59602e8f26d052c0b6f6bdfe896510b8a29f399e186a17314b99be364d738371a">NPC_ONYXIAN_WHELP</a> = 11262
-, <br />
-&#160;&#160;<a class="el" href="../../d8/da6/a02696.html#a59602e8f26d052c0b6f6bdfe896510b8ac5a305bf78c6e737c665da793df48e49">NPC_ONYXIAN_LAIR_GUARD</a> = 36561
-, <br />
-&#160;&#160;<a class="el" href="../../d9/df0/a03782.html#a59602e8f26d052c0b6f6bdfe896510b8a1aa34e102fe5c920939fbbed64fd3bdd">NPC_KELESETH</a> = 23953
-, <br />
-&#160;&#160;<a class="el" href="../../d9/df0/a03782.html#a59602e8f26d052c0b6f6bdfe896510b8adc8eb044588758e3cfb4ed8c699e483d">NPC_DALRONN</a> = 24201
-, <br />
-&#160;&#160;<a class="el" href="../../d9/df0/a03782.html#a59602e8f26d052c0b6f6bdfe896510b8ad6b59b3f0fa1841b3dbce49b32ce88f7">NPC_DALRONN_GHOST</a> = 27389
-, <br />
-&#160;&#160;<a class="el" href="../../d9/df0/a03782.html#a59602e8f26d052c0b6f6bdfe896510b8a531d439e3ed6f40d45aaf591d93722af">NPC_SKARVALD</a> = 24200
-, <br />
-&#160;&#160;<a class="el" href="../../d9/df0/a03782.html#a59602e8f26d052c0b6f6bdfe896510b8aa4eafbdfd4632f9b207feb03c1c9906e">NPC_SKARVALD_GHOST</a> = 27390
-, <br />
-&#160;&#160;<a class="el" href="../../d9/df0/a03782.html#a59602e8f26d052c0b6f6bdfe896510b8aa8071c2550f86111dabfe071bb8905ec">NPC_INGVAR</a> = 23954
-, <br />
-&#160;&#160;<a class="el" href="../../d9/df0/a03782.html#a59602e8f26d052c0b6f6bdfe896510b8a629c86c326a68aa9c57e75b658644e27">NPC_DARK_RANGER_MARRAH</a> = 24137
-, <br />
-&#160;&#160;<a class="el" href="../../d9/df0/a03782.html#a59602e8f26d052c0b6f6bdfe896510b8ab4269b45260da78a67bfdab9a95d8c2c">NPC_ENSLAVED_PROTO_DRAKE</a> = 24083
-, <br />
-&#160;&#160;<a class="el" href="../../d0/de9/a03530.html#a59602e8f26d052c0b6f6bdfe896510b8a5c39abb26566ef9fb1e3afe0cecc9762">NPC_ICHOR_GLOBULE</a> = 29321
-<br />
- }</td></tr>
-<tr class="separator:a59602e8f26d052c0b6f6bdfe896510b8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0b356f44d43edb1bff30f404c9469250"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/da6/a02696.html#a0b356f44d43edb1bff30f404c9469250">eGameObjects</a> { <br />
-&#160;&#160;<a class="el" href="../../d8/da6/a02696.html#a0b356f44d43edb1bff30f404c9469250adf4548283b784850a8154cefa0fd360d">GO_WHELP_SPAWNER</a> = 176510
-, <br />
-&#160;&#160;<a class="el" href="../../d8/da6/a02696.html#a0b356f44d43edb1bff30f404c9469250a4695e1a78b0f6094399a19023996f851">GO_WHELP_EGG</a> = 176511
-, <br />
-&#160;&#160;<a class="el" href="../../d5/d73/a03836.html#a0b356f44d43edb1bff30f404c9469250af7f4bfc022fbae9247e3389c3e755e0b">GO_MAIN_GATE</a> = 195647
-, <br />
-&#160;&#160;<a class="el" href="../../d5/d73/a03836.html#a0b356f44d43edb1bff30f404c9469250a5ebaf585ae3da6d909256800aebebbfc">GO_SOUTH_PORTCULLIS</a> = 195649
-, <br />
-&#160;&#160;<a class="el" href="../../d5/d73/a03836.html#a0b356f44d43edb1bff30f404c9469250a8a57a3fcd514b7a621e04ae73c2647c9">GO_EAST_PORTCULLIS</a> = 195648
-, <br />
-&#160;&#160;<a class="el" href="../../d5/d73/a03836.html#a0b356f44d43edb1bff30f404c9469250af8f7a209e9b9e0909610ffbcb8fe94ca">GO_NORTH_PORTCULLIS</a> = 195650
-, <br />
-&#160;&#160;<a class="el" href="../../d5/d73/a03836.html#a0b356f44d43edb1bff30f404c9469250af347b8590e6d6688cd7cd8a901a01839">GO_CHAMPIONS_LOOT</a> = 195709
-, <br />
-&#160;&#160;<a class="el" href="../../d5/d73/a03836.html#a0b356f44d43edb1bff30f404c9469250a911cbac98e241072502109aef1a58966">GO_CHAMPIONS_LOOT_H</a> = 195710
-, <br />
-&#160;&#160;<a class="el" href="../../d5/d73/a03836.html#a0b356f44d43edb1bff30f404c9469250ad29f747e71326720660778477708682f">GO_EADRIC_LOOT</a> = 195374
-, <br />
-&#160;&#160;<a class="el" href="../../d5/d73/a03836.html#a0b356f44d43edb1bff30f404c9469250afec277328734b29a227e6942dcc303e1">GO_EADRIC_LOOT_H</a> = 195375
-, <br />
-&#160;&#160;<a class="el" href="../../d5/d73/a03836.html#a0b356f44d43edb1bff30f404c9469250a22dab9e0abcb8bbe36c42b492a6ae6b1">GO_PALETRESS_LOOT</a> = 195323
-, <br />
-&#160;&#160;<a class="el" href="../../d5/d73/a03836.html#a0b356f44d43edb1bff30f404c9469250a558835744936913cd5345f9435739ee0">GO_PALETRESS_LOOT_H</a> = 195324
-<br />
- }</td></tr>
-<tr class="separator:a0b356f44d43edb1bff30f404c9469250"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aca087c1cb2fbca0c938185dd321856c4"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/da6/a02696.html#aca087c1cb2fbca0c938185dd321856c4">eAchievementData</a> { <br />
-&#160;&#160;<a class="el" href="../../d8/da6/a02696.html#aca087c1cb2fbca0c938185dd321856c4a57918d5eb6d9b6dad01b98eec717c611">ACHIEV_CRITERIA_MANY_WHELPS_10_PLAYER</a> = 12565
-, <br />
-&#160;&#160;<a class="el" href="../../d8/da6/a02696.html#aca087c1cb2fbca0c938185dd321856c4ab4cb5a7391642e00f98bf8c4feca4931">ACHIEV_CRITERIA_MANY_WHELPS_25_PLAYER</a> = 12568
-, <br />
-&#160;&#160;<a class="el" href="../../d8/da6/a02696.html#aca087c1cb2fbca0c938185dd321856c4a7d5dc918b0b3edc2fc3863242904bb22">ACHIEV_CRITERIA_DEEP_BREATH_10_PLAYER</a> = 12566
-, <br />
-&#160;&#160;<a class="el" href="../../d8/da6/a02696.html#aca087c1cb2fbca0c938185dd321856c4a7c0f8695a55dfedf6c942dead4b86bb9">ACHIEV_CRITERIA_DEEP_BREATH_25_PLAYER</a> = 12569
-, <br />
-&#160;&#160;<a class="el" href="../../d8/da6/a02696.html#aca087c1cb2fbca0c938185dd321856c4a6ac3776ff6343c84361329e38055da04">ACHIEV_TIMED_START_EVENT</a> = 6601
-<br />
- }</td></tr>
-<tr class="separator:aca087c1cb2fbca0c938185dd321856c4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:a3573a392c09a4df350f96df672ce58ad"><td class="memTemplParams" colspan="2">template&lt;class AI , class T &gt; </td></tr>
-<tr class="memitem:a3573a392c09a4df350f96df672ce58ad"><td class="memTemplItemLeft" align="right" valign="top">AI *&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d8/da6/a02696.html#a3573a392c09a4df350f96df672ce58ad">GetOnyxiasLairAI</a> (T *obj)</td></tr>
-<tr class="separator:a3573a392c09a4df350f96df672ce58ad"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a69e574c9a3cecf7c395cd036bb672ed3"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/da6/a02696.html#a69e574c9a3cecf7c395cd036bb672ed3">ACSoapThread</a> (const std::string &amp;host, <a class="el" href="../../d0/d61/a00302.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> port)</td></tr>
+<tr class="separator:a69e574c9a3cecf7c395cd036bb672ed3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abf914e30c869f88f2fafb9f656320c6a"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/da6/a02696.html#abf914e30c869f88f2fafb9f656320c6a">process_message</a> (struct soap *soap_message)</td></tr>
+<tr class="separator:abf914e30c869f88f2fafb9f656320c6a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af9d30c869db1c560fead6671ff96ad82"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/da6/a02696.html#af9d30c869db1c560fead6671ff96ad82">ns1__executeCommand</a> (soap *soap, char *command, char **result)</td></tr>
+<tr class="separator:af9d30c869db1c560fead6671ff96ad82"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
+Variables</h2></td></tr>
+<tr class="memitem:aabfac0a3b8d38498bc5e1e3bc465ead6"><td class="memItemLeft" align="right" valign="top">struct Namespace&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/da6/a02696.html#aabfac0a3b8d38498bc5e1e3bc465ead6">namespaces</a> []</td></tr>
+<tr class="separator:aabfac0a3b8d38498bc5e1e3bc465ead6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Macro Definition Documentation</h2>
-<a id="a042491ef36459046f3866e90f15aae0d" name="a042491ef36459046f3866e90f15aae0d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a042491ef36459046f3866e90f15aae0d">&#9670;&#160;</a></span>DataHeader</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define DataHeader&#160;&#160;&#160;&quot;OL&quot;</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a411397a87d359be66de671f07dbefefe" name="a411397a87d359be66de671f07dbefefe"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a411397a87d359be66de671f07dbefefe">&#9670;&#160;</a></span>OnyxiasLairScriptName</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define OnyxiasLairScriptName&#160;&#160;&#160;&quot;instance_onyxias_lair&quot;</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a4becd56438e0f64fd4e609bda9b542a4" name="a4becd56438e0f64fd4e609bda9b542a4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4becd56438e0f64fd4e609bda9b542a4">&#9670;&#160;</a></span>RegisterOnyxiasLairCreatureAI</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define RegisterOnyxiasLairCreatureAI</td>
-          <td>(</td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname">ai_name</td><td>)</td>
-          <td>&#160;&#160;&#160;<a class="el" href="../../d1/dd8/a01022.html#a25cc02ecf50f52ec8cdff096060b8be1">RegisterCreatureAIWithFactory</a>(ai_name, <a class="el" href="../../d8/da6/a02696.html#a3573a392c09a4df350f96df672ce58ad">GetOnyxiasLairAI</a>)</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="aca087c1cb2fbca0c938185dd321856c4" name="aca087c1cb2fbca0c938185dd321856c4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aca087c1cb2fbca0c938185dd321856c4">&#9670;&#160;</a></span>eAchievementData</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../d8/da6/a02696.html#aca087c1cb2fbca0c938185dd321856c4">eAchievementData</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="aca087c1cb2fbca0c938185dd321856c4a57918d5eb6d9b6dad01b98eec717c611" name="aca087c1cb2fbca0c938185dd321856c4a57918d5eb6d9b6dad01b98eec717c611"></a>ACHIEV_CRITERIA_MANY_WHELPS_10_PLAYER&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aca087c1cb2fbca0c938185dd321856c4ab4cb5a7391642e00f98bf8c4feca4931" name="aca087c1cb2fbca0c938185dd321856c4ab4cb5a7391642e00f98bf8c4feca4931"></a>ACHIEV_CRITERIA_MANY_WHELPS_25_PLAYER&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aca087c1cb2fbca0c938185dd321856c4a7d5dc918b0b3edc2fc3863242904bb22" name="aca087c1cb2fbca0c938185dd321856c4a7d5dc918b0b3edc2fc3863242904bb22"></a>ACHIEV_CRITERIA_DEEP_BREATH_10_PLAYER&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aca087c1cb2fbca0c938185dd321856c4a7c0f8695a55dfedf6c942dead4b86bb9" name="aca087c1cb2fbca0c938185dd321856c4a7c0f8695a55dfedf6c942dead4b86bb9"></a>ACHIEV_CRITERIA_DEEP_BREATH_25_PLAYER&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aca087c1cb2fbca0c938185dd321856c4a6ac3776ff6343c84361329e38055da04" name="aca087c1cb2fbca0c938185dd321856c4a6ac3776ff6343c84361329e38055da04"></a>ACHIEV_TIMED_START_EVENT&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   49</span>{</div>
-<div class="line"><span class="lineno">   50</span>    <a class="code hl_enumvalue" href="../../d8/da6/a02696.html#aca087c1cb2fbca0c938185dd321856c4a57918d5eb6d9b6dad01b98eec717c611">ACHIEV_CRITERIA_MANY_WHELPS_10_PLAYER</a>                   = 12565, <span class="comment">// Criteria for achievement 4403: Many Whelps! Handle It! (10 player) Hatch 50 eggs in 10s</span></div>
-<div class="line"><span class="lineno">   51</span>    <a class="code hl_enumvalue" href="../../d8/da6/a02696.html#aca087c1cb2fbca0c938185dd321856c4ab4cb5a7391642e00f98bf8c4feca4931">ACHIEV_CRITERIA_MANY_WHELPS_25_PLAYER</a>                   = 12568, <span class="comment">// Criteria for achievement 4406: Many Whelps! Handle It! (25 player) Hatch 50 eggs in 10s</span></div>
-<div class="line"><span class="lineno">   52</span>    <a class="code hl_enumvalue" href="../../d8/da6/a02696.html#aca087c1cb2fbca0c938185dd321856c4a7d5dc918b0b3edc2fc3863242904bb22">ACHIEV_CRITERIA_DEEP_BREATH_10_PLAYER</a>                   = 12566, <span class="comment">// Criteria for achievement 4404: She Deep Breaths More (10 player) Everybody evade Deep Breath</span></div>
-<div class="line"><span class="lineno">   53</span>    <a class="code hl_enumvalue" href="../../d8/da6/a02696.html#aca087c1cb2fbca0c938185dd321856c4a7c0f8695a55dfedf6c942dead4b86bb9">ACHIEV_CRITERIA_DEEP_BREATH_25_PLAYER</a>                   = 12569, <span class="comment">// Criteria for achievement 4407: She Deep Breaths More (25 player) Everybody evade Deep Breath</span></div>
-<div class="line"><span class="lineno">   54</span>    <a class="code hl_enumvalue" href="../../d8/da6/a02696.html#aca087c1cb2fbca0c938185dd321856c4a6ac3776ff6343c84361329e38055da04">ACHIEV_TIMED_START_EVENT</a>                                =  6601, <span class="comment">// Timed event for achievement 4402, 4005: More Dots! (10,25 player) 5 min kill</span></div>
-<div class="line"><span class="lineno">   55</span>};</div>
-<div class="ttc" id="aa02696_html_aca087c1cb2fbca0c938185dd321856c4a57918d5eb6d9b6dad01b98eec717c611"><div class="ttname"><a href="../../d8/da6/a02696.html#aca087c1cb2fbca0c938185dd321856c4a57918d5eb6d9b6dad01b98eec717c611">ACHIEV_CRITERIA_MANY_WHELPS_10_PLAYER</a></div><div class="ttdeci">@ ACHIEV_CRITERIA_MANY_WHELPS_10_PLAYER</div><div class="ttdef"><b>Definition:</b> onyxias_lair.h:50</div></div>
-<div class="ttc" id="aa02696_html_aca087c1cb2fbca0c938185dd321856c4a6ac3776ff6343c84361329e38055da04"><div class="ttname"><a href="../../d8/da6/a02696.html#aca087c1cb2fbca0c938185dd321856c4a6ac3776ff6343c84361329e38055da04">ACHIEV_TIMED_START_EVENT</a></div><div class="ttdeci">@ ACHIEV_TIMED_START_EVENT</div><div class="ttdef"><b>Definition:</b> onyxias_lair.h:54</div></div>
-<div class="ttc" id="aa02696_html_aca087c1cb2fbca0c938185dd321856c4a7c0f8695a55dfedf6c942dead4b86bb9"><div class="ttname"><a href="../../d8/da6/a02696.html#aca087c1cb2fbca0c938185dd321856c4a7c0f8695a55dfedf6c942dead4b86bb9">ACHIEV_CRITERIA_DEEP_BREATH_25_PLAYER</a></div><div class="ttdeci">@ ACHIEV_CRITERIA_DEEP_BREATH_25_PLAYER</div><div class="ttdef"><b>Definition:</b> onyxias_lair.h:53</div></div>
-<div class="ttc" id="aa02696_html_aca087c1cb2fbca0c938185dd321856c4a7d5dc918b0b3edc2fc3863242904bb22"><div class="ttname"><a href="../../d8/da6/a02696.html#aca087c1cb2fbca0c938185dd321856c4a7d5dc918b0b3edc2fc3863242904bb22">ACHIEV_CRITERIA_DEEP_BREATH_10_PLAYER</a></div><div class="ttdeci">@ ACHIEV_CRITERIA_DEEP_BREATH_10_PLAYER</div><div class="ttdef"><b>Definition:</b> onyxias_lair.h:52</div></div>
-<div class="ttc" id="aa02696_html_aca087c1cb2fbca0c938185dd321856c4ab4cb5a7391642e00f98bf8c4feca4931"><div class="ttname"><a href="../../d8/da6/a02696.html#aca087c1cb2fbca0c938185dd321856c4ab4cb5a7391642e00f98bf8c4feca4931">ACHIEV_CRITERIA_MANY_WHELPS_25_PLAYER</a></div><div class="ttdeci">@ ACHIEV_CRITERIA_MANY_WHELPS_25_PLAYER</div><div class="ttdef"><b>Definition:</b> onyxias_lair.h:51</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a59602e8f26d052c0b6f6bdfe896510b8" name="a59602e8f26d052c0b6f6bdfe896510b8"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a59602e8f26d052c0b6f6bdfe896510b8">&#9670;&#160;</a></span>eCreatures</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../d8/da6/a02696.html#a59602e8f26d052c0b6f6bdfe896510b8">eCreatures</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a59602e8f26d052c0b6f6bdfe896510b8ac5297157e46436388d2a4e835c06de6e" name="a59602e8f26d052c0b6f6bdfe896510b8ac5297157e46436388d2a4e835c06de6e"></a>NPC_ONYXIA&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a59602e8f26d052c0b6f6bdfe896510b8a29f399e186a17314b99be364d738371a" name="a59602e8f26d052c0b6f6bdfe896510b8a29f399e186a17314b99be364d738371a"></a>NPC_ONYXIAN_WHELP&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a59602e8f26d052c0b6f6bdfe896510b8ac5a305bf78c6e737c665da793df48e49" name="a59602e8f26d052c0b6f6bdfe896510b8ac5a305bf78c6e737c665da793df48e49"></a>NPC_ONYXIAN_LAIR_GUARD&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a59602e8f26d052c0b6f6bdfe896510b8a1aa34e102fe5c920939fbbed64fd3bdd" name="a59602e8f26d052c0b6f6bdfe896510b8a1aa34e102fe5c920939fbbed64fd3bdd"></a>NPC_KELESETH&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a59602e8f26d052c0b6f6bdfe896510b8adc8eb044588758e3cfb4ed8c699e483d" name="a59602e8f26d052c0b6f6bdfe896510b8adc8eb044588758e3cfb4ed8c699e483d"></a>NPC_DALRONN&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a59602e8f26d052c0b6f6bdfe896510b8ad6b59b3f0fa1841b3dbce49b32ce88f7" name="a59602e8f26d052c0b6f6bdfe896510b8ad6b59b3f0fa1841b3dbce49b32ce88f7"></a>NPC_DALRONN_GHOST&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a59602e8f26d052c0b6f6bdfe896510b8a531d439e3ed6f40d45aaf591d93722af" name="a59602e8f26d052c0b6f6bdfe896510b8a531d439e3ed6f40d45aaf591d93722af"></a>NPC_SKARVALD&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a59602e8f26d052c0b6f6bdfe896510b8aa4eafbdfd4632f9b207feb03c1c9906e" name="a59602e8f26d052c0b6f6bdfe896510b8aa4eafbdfd4632f9b207feb03c1c9906e"></a>NPC_SKARVALD_GHOST&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a59602e8f26d052c0b6f6bdfe896510b8aa8071c2550f86111dabfe071bb8905ec" name="a59602e8f26d052c0b6f6bdfe896510b8aa8071c2550f86111dabfe071bb8905ec"></a>NPC_INGVAR&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a59602e8f26d052c0b6f6bdfe896510b8a629c86c326a68aa9c57e75b658644e27" name="a59602e8f26d052c0b6f6bdfe896510b8a629c86c326a68aa9c57e75b658644e27"></a>NPC_DARK_RANGER_MARRAH&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a59602e8f26d052c0b6f6bdfe896510b8ab4269b45260da78a67bfdab9a95d8c2c" name="a59602e8f26d052c0b6f6bdfe896510b8ab4269b45260da78a67bfdab9a95d8c2c"></a>NPC_ENSLAVED_PROTO_DRAKE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a59602e8f26d052c0b6f6bdfe896510b8a5c39abb26566ef9fb1e3afe0cecc9762" name="a59602e8f26d052c0b6f6bdfe896510b8a5c39abb26566ef9fb1e3afe0cecc9762"></a>NPC_ICHOR_GLOBULE&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   36</span>{</div>
-<div class="line"><span class="lineno">   37</span>    <a class="code hl_enumvalue" href="../../d8/da6/a02696.html#a59602e8f26d052c0b6f6bdfe896510b8ac5297157e46436388d2a4e835c06de6e">NPC_ONYXIA</a>                  = 10184,</div>
-<div class="line"><span class="lineno">   38</span>    <a class="code hl_enumvalue" href="../../d8/da6/a02696.html#a59602e8f26d052c0b6f6bdfe896510b8a29f399e186a17314b99be364d738371a">NPC_ONYXIAN_WHELP</a>           = 11262,</div>
-<div class="line"><span class="lineno">   39</span>    <a class="code hl_enumvalue" href="../../d8/da6/a02696.html#a59602e8f26d052c0b6f6bdfe896510b8ac5a305bf78c6e737c665da793df48e49">NPC_ONYXIAN_LAIR_GUARD</a>      = 36561,</div>
-<div class="line"><span class="lineno">   40</span>};</div>
-<div class="ttc" id="aa02696_html_a59602e8f26d052c0b6f6bdfe896510b8a29f399e186a17314b99be364d738371a"><div class="ttname"><a href="../../d8/da6/a02696.html#a59602e8f26d052c0b6f6bdfe896510b8a29f399e186a17314b99be364d738371a">NPC_ONYXIAN_WHELP</a></div><div class="ttdeci">@ NPC_ONYXIAN_WHELP</div><div class="ttdef"><b>Definition:</b> onyxias_lair.h:38</div></div>
-<div class="ttc" id="aa02696_html_a59602e8f26d052c0b6f6bdfe896510b8ac5297157e46436388d2a4e835c06de6e"><div class="ttname"><a href="../../d8/da6/a02696.html#a59602e8f26d052c0b6f6bdfe896510b8ac5297157e46436388d2a4e835c06de6e">NPC_ONYXIA</a></div><div class="ttdeci">@ NPC_ONYXIA</div><div class="ttdef"><b>Definition:</b> onyxias_lair.h:37</div></div>
-<div class="ttc" id="aa02696_html_a59602e8f26d052c0b6f6bdfe896510b8ac5a305bf78c6e737c665da793df48e49"><div class="ttname"><a href="../../d8/da6/a02696.html#a59602e8f26d052c0b6f6bdfe896510b8ac5a305bf78c6e737c665da793df48e49">NPC_ONYXIAN_LAIR_GUARD</a></div><div class="ttdeci">@ NPC_ONYXIAN_LAIR_GUARD</div><div class="ttdef"><b>Definition:</b> onyxias_lair.h:39</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a0b356f44d43edb1bff30f404c9469250" name="a0b356f44d43edb1bff30f404c9469250"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0b356f44d43edb1bff30f404c9469250">&#9670;&#160;</a></span>eGameObjects</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../d8/da6/a02696.html#a0b356f44d43edb1bff30f404c9469250">eGameObjects</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a0b356f44d43edb1bff30f404c9469250adf4548283b784850a8154cefa0fd360d" name="a0b356f44d43edb1bff30f404c9469250adf4548283b784850a8154cefa0fd360d"></a>GO_WHELP_SPAWNER&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0b356f44d43edb1bff30f404c9469250a4695e1a78b0f6094399a19023996f851" name="a0b356f44d43edb1bff30f404c9469250a4695e1a78b0f6094399a19023996f851"></a>GO_WHELP_EGG&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0b356f44d43edb1bff30f404c9469250af7f4bfc022fbae9247e3389c3e755e0b" name="a0b356f44d43edb1bff30f404c9469250af7f4bfc022fbae9247e3389c3e755e0b"></a>GO_MAIN_GATE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0b356f44d43edb1bff30f404c9469250a5ebaf585ae3da6d909256800aebebbfc" name="a0b356f44d43edb1bff30f404c9469250a5ebaf585ae3da6d909256800aebebbfc"></a>GO_SOUTH_PORTCULLIS&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0b356f44d43edb1bff30f404c9469250a8a57a3fcd514b7a621e04ae73c2647c9" name="a0b356f44d43edb1bff30f404c9469250a8a57a3fcd514b7a621e04ae73c2647c9"></a>GO_EAST_PORTCULLIS&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0b356f44d43edb1bff30f404c9469250af8f7a209e9b9e0909610ffbcb8fe94ca" name="a0b356f44d43edb1bff30f404c9469250af8f7a209e9b9e0909610ffbcb8fe94ca"></a>GO_NORTH_PORTCULLIS&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0b356f44d43edb1bff30f404c9469250af347b8590e6d6688cd7cd8a901a01839" name="a0b356f44d43edb1bff30f404c9469250af347b8590e6d6688cd7cd8a901a01839"></a>GO_CHAMPIONS_LOOT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0b356f44d43edb1bff30f404c9469250a911cbac98e241072502109aef1a58966" name="a0b356f44d43edb1bff30f404c9469250a911cbac98e241072502109aef1a58966"></a>GO_CHAMPIONS_LOOT_H&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0b356f44d43edb1bff30f404c9469250ad29f747e71326720660778477708682f" name="a0b356f44d43edb1bff30f404c9469250ad29f747e71326720660778477708682f"></a>GO_EADRIC_LOOT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0b356f44d43edb1bff30f404c9469250afec277328734b29a227e6942dcc303e1" name="a0b356f44d43edb1bff30f404c9469250afec277328734b29a227e6942dcc303e1"></a>GO_EADRIC_LOOT_H&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0b356f44d43edb1bff30f404c9469250a22dab9e0abcb8bbe36c42b492a6ae6b1" name="a0b356f44d43edb1bff30f404c9469250a22dab9e0abcb8bbe36c42b492a6ae6b1"></a>GO_PALETRESS_LOOT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0b356f44d43edb1bff30f404c9469250a558835744936913cd5345f9435739ee0" name="a0b356f44d43edb1bff30f404c9469250a558835744936913cd5345f9435739ee0"></a>GO_PALETRESS_LOOT_H&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   43</span>{</div>
-<div class="line"><span class="lineno">   44</span>    <a class="code hl_enumvalue" href="../../d8/da6/a02696.html#a0b356f44d43edb1bff30f404c9469250adf4548283b784850a8154cefa0fd360d">GO_WHELP_SPAWNER</a>            = 176510,</div>
-<div class="line"><span class="lineno">   45</span>    <a class="code hl_enumvalue" href="../../d8/da6/a02696.html#a0b356f44d43edb1bff30f404c9469250a4695e1a78b0f6094399a19023996f851">GO_WHELP_EGG</a>                = 176511</div>
-<div class="line"><span class="lineno">   46</span>};</div>
-<div class="ttc" id="aa02696_html_a0b356f44d43edb1bff30f404c9469250a4695e1a78b0f6094399a19023996f851"><div class="ttname"><a href="../../d8/da6/a02696.html#a0b356f44d43edb1bff30f404c9469250a4695e1a78b0f6094399a19023996f851">GO_WHELP_EGG</a></div><div class="ttdeci">@ GO_WHELP_EGG</div><div class="ttdef"><b>Definition:</b> onyxias_lair.h:45</div></div>
-<div class="ttc" id="aa02696_html_a0b356f44d43edb1bff30f404c9469250adf4548283b784850a8154cefa0fd360d"><div class="ttname"><a href="../../d8/da6/a02696.html#a0b356f44d43edb1bff30f404c9469250adf4548283b784850a8154cefa0fd360d">GO_WHELP_SPAWNER</a></div><div class="ttdeci">@ GO_WHELP_SPAWNER</div><div class="ttdef"><b>Definition:</b> onyxias_lair.h:44</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a7395e25d8049b2c60a1c7191d197f5cc" name="a7395e25d8049b2c60a1c7191d197f5cc"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7395e25d8049b2c60a1c7191d197f5cc">&#9670;&#160;</a></span>eInstanceData</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../d8/da6/a02696.html#a7395e25d8049b2c60a1c7191d197f5cc">eInstanceData</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a7395e25d8049b2c60a1c7191d197f5cca8fddf4be448f687691188b276d390817" name="a7395e25d8049b2c60a1c7191d197f5cca8fddf4be448f687691188b276d390817"></a>DATA_ONYXIA&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7395e25d8049b2c60a1c7191d197f5cca7913656ef56deb3793c0c5f3d999d80d" name="a7395e25d8049b2c60a1c7191d197f5cca7913656ef56deb3793c0c5f3d999d80d"></a>MAX_ENCOUNTER&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7395e25d8049b2c60a1c7191d197f5cca620ba8d85c596c11f1df0132b0117fbc" name="a7395e25d8049b2c60a1c7191d197f5cca620ba8d85c596c11f1df0132b0117fbc"></a>DATA_WHELP_SUMMONED&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7395e25d8049b2c60a1c7191d197f5cca3678a84e6e3ed1c831e230a816a5475d" name="a7395e25d8049b2c60a1c7191d197f5cca3678a84e6e3ed1c831e230a816a5475d"></a>DATA_DEEP_BREATH_FAILED&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   28</span>{</div>
-<div class="line"><span class="lineno">   29</span>    <a class="code hl_enumvalue" href="../../d8/da6/a02696.html#a7395e25d8049b2c60a1c7191d197f5cca8fddf4be448f687691188b276d390817">DATA_ONYXIA</a>                 = 0,</div>
-<div class="line"><span class="lineno">   30</span>    <a class="code hl_enumvalue" href="../../d8/da6/a02696.html#a7395e25d8049b2c60a1c7191d197f5cca7913656ef56deb3793c0c5f3d999d80d">MAX_ENCOUNTER</a>               = 1,</div>
-<div class="line"><span class="lineno">   31</span>    <a class="code hl_enumvalue" href="../../d8/da6/a02696.html#a7395e25d8049b2c60a1c7191d197f5cca620ba8d85c596c11f1df0132b0117fbc">DATA_WHELP_SUMMONED</a>,</div>
-<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../d8/da6/a02696.html#a7395e25d8049b2c60a1c7191d197f5cca3678a84e6e3ed1c831e230a816a5475d">DATA_DEEP_BREATH_FAILED</a>,</div>
-<div class="line"><span class="lineno">   33</span>};</div>
-<div class="ttc" id="aa02696_html_a7395e25d8049b2c60a1c7191d197f5cca3678a84e6e3ed1c831e230a816a5475d"><div class="ttname"><a href="../../d8/da6/a02696.html#a7395e25d8049b2c60a1c7191d197f5cca3678a84e6e3ed1c831e230a816a5475d">DATA_DEEP_BREATH_FAILED</a></div><div class="ttdeci">@ DATA_DEEP_BREATH_FAILED</div><div class="ttdef"><b>Definition:</b> onyxias_lair.h:32</div></div>
-<div class="ttc" id="aa02696_html_a7395e25d8049b2c60a1c7191d197f5cca620ba8d85c596c11f1df0132b0117fbc"><div class="ttname"><a href="../../d8/da6/a02696.html#a7395e25d8049b2c60a1c7191d197f5cca620ba8d85c596c11f1df0132b0117fbc">DATA_WHELP_SUMMONED</a></div><div class="ttdeci">@ DATA_WHELP_SUMMONED</div><div class="ttdef"><b>Definition:</b> onyxias_lair.h:31</div></div>
-<div class="ttc" id="aa02696_html_a7395e25d8049b2c60a1c7191d197f5cca7913656ef56deb3793c0c5f3d999d80d"><div class="ttname"><a href="../../d8/da6/a02696.html#a7395e25d8049b2c60a1c7191d197f5cca7913656ef56deb3793c0c5f3d999d80d">MAX_ENCOUNTER</a></div><div class="ttdeci">@ MAX_ENCOUNTER</div><div class="ttdef"><b>Definition:</b> onyxias_lair.h:30</div></div>
-<div class="ttc" id="aa02696_html_a7395e25d8049b2c60a1c7191d197f5cca8fddf4be448f687691188b276d390817"><div class="ttname"><a href="../../d8/da6/a02696.html#a7395e25d8049b2c60a1c7191d197f5cca8fddf4be448f687691188b276d390817">DATA_ONYXIA</a></div><div class="ttdeci">@ DATA_ONYXIA</div><div class="ttdef"><b>Definition:</b> onyxias_lair.h:29</div></div>
-</div><!-- fragment -->
-</div>
-</div>
 <h2 class="groupheader">Function Documentation</h2>
-<a id="a3573a392c09a4df350f96df672ce58ad" name="a3573a392c09a4df350f96df672ce58ad"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3573a392c09a4df350f96df672ce58ad">&#9670;&#160;</a></span>GetOnyxiasLairAI()</h2>
+<a id="a69e574c9a3cecf7c395cd036bb672ed3" name="a69e574c9a3cecf7c395cd036bb672ed3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a69e574c9a3cecf7c395cd036bb672ed3">&#9670;&#160;</a></span>ACSoapThread()</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;class AI , class T &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">AI * GetOnyxiasLairAI </td>
+          <td class="memname">void ACSoapThread </td>
           <td>(</td>
-          <td class="paramtype">T *&#160;</td>
-          <td class="paramname"><em>obj</em></td><td>)</td>
+          <td class="paramtype">const std::string &amp;&#160;</td>
+          <td class="paramname"><em>host</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d0/d61/a00302.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td>
+          <td class="paramname"><em>port</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   25</span>{</div>
+<div class="line"><span class="lineno">   26</span>    <span class="keyword">struct </span>soap soap;</div>
+<div class="line"><span class="lineno">   27</span>    soap_init(&amp;soap);</div>
+<div class="line"><span class="lineno">   28</span>    soap_set_imode(&amp;soap, SOAP_C_UTFSTRING);</div>
+<div class="line"><span class="lineno">   29</span>    soap_set_omode(&amp;soap, SOAP_C_UTFSTRING);</div>
+<div class="line"><span class="lineno">   30</span> </div>
+<div class="line"><span class="lineno">   31</span>    <span class="comment">// check every 3 seconds if world ended</span></div>
+<div class="line"><span class="lineno">   32</span>    soap.accept_timeout = 3;</div>
+<div class="line"><span class="lineno">   33</span>    soap.recv_timeout = 5;</div>
+<div class="line"><span class="lineno">   34</span>    soap.send_timeout = 5;</div>
+<div class="line"><span class="lineno">   35</span> </div>
+<div class="line"><span class="lineno">   36</span>    <span class="keywordflow">if</span> (!soap_valid_socket(soap_bind(&amp;soap, host.c_str(), port, 100)))</div>
+<div class="line"><span class="lineno">   37</span>    {</div>
+<div class="line"><span class="lineno">   38</span>        <a class="code hl_define" href="../../d5/d0f/a00494.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;network.soap&quot;</span>, <span class="stringliteral">&quot;ACSoap: couldn&#39;t bind to {}:{}&quot;</span>, host, port);</div>
+<div class="line"><span class="lineno">   39</span>        exit(-1);</div>
+<div class="line"><span class="lineno">   40</span>    }</div>
+<div class="line"><span class="lineno">   41</span> </div>
+<div class="line"><span class="lineno">   42</span>    <a class="code hl_define" href="../../d5/d0f/a00494.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;network.soap&quot;</span>, <span class="stringliteral">&quot;ACSoap: bound to http://{}:{}&quot;</span>, host, port);</div>
+<div class="line"><span class="lineno">   43</span> </div>
+<div class="line"><span class="lineno">   44</span>    <span class="keywordflow">while</span> (!<a class="code hl_function" href="../../dc/d36/a11682.html#ae1716f62b00fe8ba87a92850bf4d054c">World::IsStopped</a>())</div>
+<div class="line"><span class="lineno">   45</span>    {</div>
+<div class="line"><span class="lineno">   46</span>        <span class="keywordflow">if</span> (!soap_valid_socket(soap_accept(&amp;soap)))</div>
+<div class="line"><span class="lineno">   47</span>            <span class="keywordflow">continue</span>;   <span class="comment">// ran into an accept timeout</span></div>
+<div class="line"><span class="lineno">   48</span> </div>
+<div class="line"><span class="lineno">   49</span>        <a class="code hl_define" href="../../d5/d0f/a00494.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;network.soap&quot;</span>, <span class="stringliteral">&quot;ACSoap: accepted connection from IP={}.{}.{}.{}&quot;</span>, (<span class="keywordtype">int</span>)(soap.ip &gt;&gt; 24) &amp; 0xFF, (<span class="keywordtype">int</span>)(soap.ip &gt;&gt; 16) &amp; 0xFF, (<span class="keywordtype">int</span>)(soap.ip &gt;&gt; 8) &amp; 0xFF, (<span class="keywordtype">int</span>)soap.ip &amp; 0xFF);</div>
+<div class="line"><span class="lineno">   50</span>        <span class="keyword">struct </span>soap* thread_soap = soap_copy(&amp;soap);<span class="comment">// make a safe copy</span></div>
+<div class="line"><span class="lineno">   51</span> </div>
+<div class="line"><span class="lineno">   52</span>        <a class="code hl_function" href="../../d8/da6/a02696.html#abf914e30c869f88f2fafb9f656320c6a">process_message</a>(thread_soap);</div>
+<div class="line"><span class="lineno">   53</span>    }</div>
+<div class="line"><span class="lineno">   54</span> </div>
+<div class="line"><span class="lineno">   55</span>    soap_destroy(&amp;soap);</div>
+<div class="line"><span class="lineno">   56</span>    soap_end(&amp;soap);</div>
+<div class="line"><span class="lineno">   57</span>    soap_done(&amp;soap);</div>
+<div class="line"><span class="lineno">   58</span>}</div>
+<div class="ttc" id="aa00494_html_a271e427d8e8481efd5cd5f537ec9e419"><div class="ttname"><a href="../../d5/d0f/a00494.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a></div><div class="ttdeci">#define LOG_INFO(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:166</div></div>
+<div class="ttc" id="aa00494_html_a43832e3fa8508deb4ce43e520005fcd9"><div class="ttname"><a href="../../d5/d0f/a00494.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a></div><div class="ttdeci">#define LOG_ERROR(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:158</div></div>
+<div class="ttc" id="aa00494_html_a47ac782b14a7531c6232777165a1a161"><div class="ttname"><a href="../../d5/d0f/a00494.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a></div><div class="ttdeci">#define LOG_DEBUG(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:170</div></div>
+<div class="ttc" id="aa02696_html_abf914e30c869f88f2fafb9f656320c6a"><div class="ttname"><a href="../../d8/da6/a02696.html#abf914e30c869f88f2fafb9f656320c6a">process_message</a></div><div class="ttdeci">void process_message(struct soap *soap_message)</div><div class="ttdef"><b>Definition:</b> ACSoap.cpp:60</div></div>
+<div class="ttc" id="aa11682_html_ae1716f62b00fe8ba87a92850bf4d054c"><div class="ttname"><a href="../../dc/d36/a11682.html#ae1716f62b00fe8ba87a92850bf4d054c">World::IsStopped</a></div><div class="ttdeci">static bool IsStopped()</div><div class="ttdef"><b>Definition:</b> World.h:191</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00191">World::IsStopped()</a>, <a class="el" href="../../#l00170">LOG_DEBUG</a>, <a class="el" href="../../#l00158">LOG_ERROR</a>, <a class="el" href="../../#l00166">LOG_INFO</a>, and <a class="el" href="../../#l00060">process_message()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00119">main()</a>.</p>
+
+</div>
+</div>
+<a id="af9d30c869db1c560fead6671ff96ad82" name="af9d30c869db1c560fead6671ff96ad82"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af9d30c869db1c560fead6671ff96ad82">&#9670;&#160;</a></span>ns1__executeCommand()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int ns1__executeCommand </td>
+          <td>(</td>
+          <td class="paramtype">soap *&#160;</td>
+          <td class="paramname"><em>soap</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">char *&#160;</td>
+          <td class="paramname"><em>command</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">char **&#160;</td>
+          <td class="paramname"><em>result</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   75</span>{</div>
+<div class="line"><span class="lineno">   76</span>    <span class="comment">// security check</span></div>
+<div class="line"><span class="lineno">   77</span>    <span class="keywordflow">if</span> (!soap-&gt;userid || !soap-&gt;passwd)</div>
+<div class="line"><span class="lineno">   78</span>    {</div>
+<div class="line"><span class="lineno">   79</span>        <a class="code hl_define" href="../../d5/d0f/a00494.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;network.soap&quot;</span>, <span class="stringliteral">&quot;ACSoap: Client didn&#39;t provide login information&quot;</span>);</div>
+<div class="line"><span class="lineno">   80</span>        <span class="keywordflow">return</span> 401;</div>
+<div class="line"><span class="lineno">   81</span>    }</div>
+<div class="line"><span class="lineno">   82</span> </div>
+<div class="line"><span class="lineno">   83</span>    <a class="code hl_typedef" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> accountId = <a class="code hl_function" href="../../d4/d9a/a04829.html#aa215c9a96c37b8a5d76d980ecf8de114">AccountMgr::GetId</a>(soap-&gt;userid);</div>
+<div class="line"><span class="lineno">   84</span>    <span class="keywordflow">if</span> (!accountId)</div>
+<div class="line"><span class="lineno">   85</span>    {</div>
+<div class="line"><span class="lineno">   86</span>        <a class="code hl_define" href="../../d5/d0f/a00494.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;network&quot;</span>, <span class="stringliteral">&quot;ACSoap: Client used invalid username &#39;{}&#39;&quot;</span>, soap-&gt;userid);</div>
+<div class="line"><span class="lineno">   87</span>        <span class="keywordflow">return</span> 401;</div>
+<div class="line"><span class="lineno">   88</span>    }</div>
+<div class="line"><span class="lineno">   89</span> </div>
+<div class="line"><span class="lineno">   90</span>    <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d4/d9a/a04829.html#a17c28dfcb31af8f4241bb5210408185a">AccountMgr::CheckPassword</a>(accountId, soap-&gt;passwd))</div>
+<div class="line"><span class="lineno">   91</span>    {</div>
+<div class="line"><span class="lineno">   92</span>        <a class="code hl_define" href="../../d5/d0f/a00494.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;network.soap&quot;</span>, <span class="stringliteral">&quot;ACSoap: invalid password for account &#39;{}&#39;&quot;</span>, soap-&gt;userid);</div>
+<div class="line"><span class="lineno">   93</span>        <span class="keywordflow">return</span> 401;</div>
+<div class="line"><span class="lineno">   94</span>    }</div>
+<div class="line"><span class="lineno">   95</span> </div>
+<div class="line"><span class="lineno">   96</span>    <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d4/d9a/a04829.html#a8280510b2564ec6ea76727218c1687b3">AccountMgr::GetSecurity</a>(accountId) &lt; <a class="code hl_enumvalue" href="../../db/dbc/a00395.html#adaa1cabfe05f8df3c272bdcfd89cdac7a6a04b5fbbc52adb152bfb45b600db102">SEC_ADMINISTRATOR</a>)</div>
+<div class="line"><span class="lineno">   97</span>    {</div>
+<div class="line"><span class="lineno">   98</span>        <a class="code hl_define" href="../../d5/d0f/a00494.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;network.soap&quot;</span>, <span class="stringliteral">&quot;ACSoap: {}&#39;s gmlevel is too low&quot;</span>, soap-&gt;userid);</div>
+<div class="line"><span class="lineno">   99</span>        <span class="keywordflow">return</span> 403;</div>
+<div class="line"><span class="lineno">  100</span>    }</div>
+<div class="line"><span class="lineno">  101</span> </div>
+<div class="line"><span class="lineno">  102</span>    <span class="keywordflow">if</span> (!command || !*command)</div>
+<div class="line"><span class="lineno">  103</span>        <span class="keywordflow">return</span> soap_sender_fault(soap, <span class="stringliteral">&quot;Command can not be empty&quot;</span>, <span class="stringliteral">&quot;The supplied command was an empty string&quot;</span>);</div>
+<div class="line"><span class="lineno">  104</span> </div>
+<div class="line"><span class="lineno">  105</span>    <a class="code hl_define" href="../../d5/d0f/a00494.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;network.soap&quot;</span>, <span class="stringliteral">&quot;ACSoap: got command &#39;{}&#39;&quot;</span>, command);</div>
+<div class="line"><span class="lineno">  106</span>    <a class="code hl_class" href="../../db/d63/a05686.html">SOAPCommand</a> connection;</div>
+<div class="line"><span class="lineno">  107</span> </div>
+<div class="line"><span class="lineno">  108</span>    <span class="comment">// commands are executed in the world thread. We have to wait for them to be completed</span></div>
+<div class="line"><span class="lineno">  109</span>    {</div>
+<div class="line"><span class="lineno">  110</span>        <span class="comment">// CliCommandHolder will be deleted from world, accessing after queueing is NOT save</span></div>
+<div class="line"><span class="lineno">  111</span>        <a class="code hl_struct" href="../../d4/db2/a11666.html">CliCommandHolder</a>* cmd = <span class="keyword">new</span> <a class="code hl_struct" href="../../d4/db2/a11666.html">CliCommandHolder</a>(&amp;connection, command, &amp;<a class="code hl_function" href="../../db/d63/a05686.html#a69a3287df41392488dbcb1be2f0349f3">SOAPCommand::print</a>, &amp;<a class="code hl_function" href="../../db/d63/a05686.html#a18310d831429b084dc5cbf6310195001">SOAPCommand::commandFinished</a>);</div>
+<div class="line"><span class="lineno">  112</span>        <a class="code hl_define" href="../../da/d11/a04792.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;QueueCliCommand(cmd);</div>
+<div class="line"><span class="lineno">  113</span>    }</div>
+<div class="line"><span class="lineno">  114</span> </div>
+<div class="line"><span class="lineno">  115</span>    <span class="comment">// Wait until the command has finished executing</span></div>
+<div class="line"><span class="lineno">  116</span>    connection.<a class="code hl_variable" href="../../db/d63/a05686.html#aec2e336644d004a59ad21431fbf80c83">finishedPromise</a>.get_future().wait();</div>
+<div class="line"><span class="lineno">  117</span> </div>
+<div class="line"><span class="lineno">  118</span>    <span class="comment">// The command has finished executing already</span></div>
+<div class="line"><span class="lineno">  119</span>    <span class="keywordtype">char</span>* printBuffer = soap_strdup(soap, connection.<a class="code hl_variable" href="../../db/d63/a05686.html#aa823e9c8d3048d5780b11d168f5be0d9">m_printBuffer</a>.c_str());</div>
+<div class="line"><span class="lineno">  120</span>    <span class="keywordflow">if</span> (connection.<a class="code hl_function" href="../../db/d63/a05686.html#a251a0999a4b74ca8db7bbaa634f1d361">hasCommandSucceeded</a>())</div>
+<div class="line"><span class="lineno">  121</span>    {</div>
+<div class="line"><span class="lineno">  122</span>        *result = printBuffer;</div>
+<div class="line"><span class="lineno">  123</span>        <span class="keywordflow">return</span> SOAP_OK;</div>
+<div class="line"><span class="lineno">  124</span>    }</div>
+<div class="line"><span class="lineno">  125</span>    <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  126</span>        <span class="keywordflow">return</span> soap_sender_fault(soap, printBuffer, printBuffer);</div>
+<div class="line"><span class="lineno">  127</span>}</div>
+<div class="ttc" id="aa00302_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
+<div class="ttc" id="aa00395_html_adaa1cabfe05f8df3c272bdcfd89cdac7a6a04b5fbbc52adb152bfb45b600db102"><div class="ttname"><a href="../../db/dbc/a00395.html#adaa1cabfe05f8df3c272bdcfd89cdac7a6a04b5fbbc52adb152bfb45b600db102">SEC_ADMINISTRATOR</a></div><div class="ttdeci">@ SEC_ADMINISTRATOR</div><div class="ttdef"><b>Definition:</b> Common.h:60</div></div>
+<div class="ttc" id="aa04792_html_ga05dfb35c344e5b947a19e4284e7f5fa7"><div class="ttname"><a href="../../da/d11/a04792.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a></div><div class="ttdeci">#define sWorld</div><div class="ttdef"><b>Definition:</b> World.h:320</div></div>
+<div class="ttc" id="aa04829_html_a17c28dfcb31af8f4241bb5210408185a"><div class="ttname"><a href="../../d4/d9a/a04829.html#a17c28dfcb31af8f4241bb5210408185a">AccountMgr::CheckPassword</a></div><div class="ttdeci">bool CheckPassword(uint32 accountId, std::string password)</div><div class="ttdef"><b>Definition:</b> AccountMgr.cpp:279</div></div>
+<div class="ttc" id="aa04829_html_a8280510b2564ec6ea76727218c1687b3"><div class="ttname"><a href="../../d4/d9a/a04829.html#a8280510b2564ec6ea76727218c1687b3">AccountMgr::GetSecurity</a></div><div class="ttdeci">uint32 GetSecurity(uint32 accountId)</div><div class="ttdef"><b>Definition:</b> AccountMgr.cpp:245</div></div>
+<div class="ttc" id="aa04829_html_aa215c9a96c37b8a5d76d980ecf8de114"><div class="ttname"><a href="../../d4/d9a/a04829.html#aa215c9a96c37b8a5d76d980ecf8de114">AccountMgr::GetId</a></div><div class="ttdeci">uint32 GetId(std::string const &amp;username)</div><div class="ttdef"><b>Definition:</b> AccountMgr.cpp:236</div></div>
+<div class="ttc" id="aa05686_html"><div class="ttname"><a href="../../db/d63/a05686.html">SOAPCommand</a></div><div class="ttdef"><b>Definition:</b> ACSoap.h:28</div></div>
+<div class="ttc" id="aa05686_html_a18310d831429b084dc5cbf6310195001"><div class="ttname"><a href="../../db/d63/a05686.html#a18310d831429b084dc5cbf6310195001">SOAPCommand::commandFinished</a></div><div class="ttdeci">static void commandFinished(void *callbackArg, bool success)</div><div class="ttdef"><b>Definition:</b> ACSoap.cpp:129</div></div>
+<div class="ttc" id="aa05686_html_a251a0999a4b74ca8db7bbaa634f1d361"><div class="ttname"><a href="../../db/d63/a05686.html#a251a0999a4b74ca8db7bbaa634f1d361">SOAPCommand::hasCommandSucceeded</a></div><div class="ttdeci">bool hasCommandSucceeded() const</div><div class="ttdef"><b>Definition:</b> ACSoap.h:46</div></div>
+<div class="ttc" id="aa05686_html_a69a3287df41392488dbcb1be2f0349f3"><div class="ttname"><a href="../../db/d63/a05686.html#a69a3287df41392488dbcb1be2f0349f3">SOAPCommand::print</a></div><div class="ttdeci">static void print(void *callbackArg, std::string_view msg)</div><div class="ttdef"><b>Definition:</b> ACSoap.h:51</div></div>
+<div class="ttc" id="aa05686_html_aa823e9c8d3048d5780b11d168f5be0d9"><div class="ttname"><a href="../../db/d63/a05686.html#aa823e9c8d3048d5780b11d168f5be0d9">SOAPCommand::m_printBuffer</a></div><div class="ttdeci">std::string m_printBuffer</div><div class="ttdef"><b>Definition:</b> ACSoap.h:59</div></div>
+<div class="ttc" id="aa05686_html_aec2e336644d004a59ad21431fbf80c83"><div class="ttname"><a href="../../db/d63/a05686.html#aec2e336644d004a59ad21431fbf80c83">SOAPCommand::finishedPromise</a></div><div class="ttdeci">std::promise&lt; void &gt; finishedPromise</div><div class="ttdef"><b>Definition:</b> ACSoap.h:60</div></div>
+<div class="ttc" id="aa11666_html"><div class="ttname"><a href="../../d4/db2/a11666.html">CliCommandHolder</a></div><div class="ttdoc">Storage class for commands issued for delayed execution.</div><div class="ttdef"><b>Definition:</b> IWorld.h:35</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00279">AccountMgr::CheckPassword()</a>, <a class="el" href="../../#l00129">SOAPCommand::commandFinished()</a>, <a class="el" href="../../#l00060">SOAPCommand::finishedPromise</a>, <a class="el" href="../../#l00236">AccountMgr::GetId()</a>, <a class="el" href="../../#l00245">AccountMgr::GetSecurity()</a>, <a class="el" href="../../#l00046">SOAPCommand::hasCommandSucceeded()</a>, <a class="el" href="../../#l00170">LOG_DEBUG</a>, <a class="el" href="../../#l00059">SOAPCommand::m_printBuffer</a>, <a class="el" href="../../#l00051">SOAPCommand::print()</a>, <a class="el" href="../../#l00060">SEC_ADMINISTRATOR</a>, and <a class="el" href="../../#l00320">sWorld</a>.</p>
+
+</div>
+</div>
+<a id="abf914e30c869f88f2fafb9f656320c6a" name="abf914e30c869f88f2fafb9f656320c6a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abf914e30c869f88f2fafb9f656320c6a">&#9670;&#160;</a></span>process_message()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void process_message </td>
+          <td>(</td>
+          <td class="paramtype">struct soap *&#160;</td>
+          <td class="paramname"><em>soap_message</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   59</span>{</div>
-<div class="line"><span class="lineno">   60</span>    <span class="keywordflow">return</span> GetInstanceAI&lt;AI&gt;(obj, <a class="code hl_define" href="../../d8/da6/a02696.html#a411397a87d359be66de671f07dbefefe">OnyxiasLairScriptName</a>);</div>
-<div class="line"><span class="lineno">   61</span>}</div>
-<div class="ttc" id="aa02696_html_a411397a87d359be66de671f07dbefefe"><div class="ttname"><a href="../../d8/da6/a02696.html#a411397a87d359be66de671f07dbefefe">OnyxiasLairScriptName</a></div><div class="ttdeci">#define OnyxiasLairScriptName</div><div class="ttdef"><b>Definition:</b> onyxias_lair.h:25</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   61</span>{</div>
+<div class="line"><span class="lineno">   62</span>    <a class="code hl_define" href="../../d5/d0f/a00494.html#ac0b4843dd5a1f2e3b7aaa7dbc9dc8ba5">LOG_TRACE</a>(<span class="stringliteral">&quot;network.soap&quot;</span>, <span class="stringliteral">&quot;SOAPWorkingThread::process_message&quot;</span>);</div>
+<div class="line"><span class="lineno">   63</span> </div>
+<div class="line"><span class="lineno">   64</span>    soap_serve(soap_message);</div>
+<div class="line"><span class="lineno">   65</span>    soap_destroy(soap_message); <span class="comment">// dealloc C++ data</span></div>
+<div class="line"><span class="lineno">   66</span>    soap_end(soap_message); <span class="comment">// dealloc data and clean up</span></div>
+<div class="line"><span class="lineno">   67</span>    soap_free(soap_message); <span class="comment">// detach soap struct and fre up the memory</span></div>
+<div class="line"><span class="lineno">   68</span>}</div>
+<div class="ttc" id="aa00494_html_ac0b4843dd5a1f2e3b7aaa7dbc9dc8ba5"><div class="ttname"><a href="../../d5/d0f/a00494.html#ac0b4843dd5a1f2e3b7aaa7dbc9dc8ba5">LOG_TRACE</a></div><div class="ttdeci">#define LOG_TRACE(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:174</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00025">OnyxiasLairScriptName</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00174">LOG_TRACE</a>.</p>
 
+<p class="reference">Referenced by <a class="el" href="../../#l00024">ACSoapThread()</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Variable Documentation</h2>
+<a id="aabfac0a3b8d38498bc5e1e3bc465ead6" name="aabfac0a3b8d38498bc5e1e3bc465ead6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aabfac0a3b8d38498bc5e1e3bc465ead6">&#9670;&#160;</a></span>namespaces</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct Namespace namespaces[]</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<b>Initial value:</b><div class="fragment"><div class="line">=</div>
+<div class="line">{</div>
+<div class="line">    { <span class="stringliteral">&quot;SOAP-ENV&quot;</span>, <span class="stringliteral">&quot;http://schemas.xmlsoap.org/soap/envelope/&quot;</span>, <span class="keyword">nullptr</span>, <span class="keyword">nullptr</span> }, </div>
+<div class="line">    { <span class="stringliteral">&quot;SOAP-ENC&quot;</span>, <span class="stringliteral">&quot;http://schemas.xmlsoap.org/soap/encoding/&quot;</span>, <span class="keyword">nullptr</span>, <span class="keyword">nullptr</span> }, </div>
+<div class="line">    { <span class="stringliteral">&quot;xsi&quot;</span>, <span class="stringliteral">&quot;http://www.w3.org/1999/XMLSchema-instance&quot;</span>, <span class="stringliteral">&quot;http://www.w3.org/*/XMLSchema-instance&quot;</span>, <span class="keyword">nullptr</span> },</div>
+<div class="line">    { <span class="stringliteral">&quot;xsd&quot;</span>, <span class="stringliteral">&quot;http://www.w3.org/1999/XMLSchema&quot;</span>,          <span class="stringliteral">&quot;http://www.w3.org/*/XMLSchema&quot;</span>, <span class="keyword">nullptr</span> },</div>
+<div class="line">    { <span class="stringliteral">&quot;ns1&quot;</span>, <span class="stringliteral">&quot;urn:AC&quot;</span>, <span class="keyword">nullptr</span>, <span class="keyword">nullptr</span> },     </div>
+<div class="line">    { <span class="keyword">nullptr</span>, <span class="keyword">nullptr</span>, <span class="keyword">nullptr</span>, <span class="keyword">nullptr</span> }</div>
+<div class="line">}</div>
+</div><!-- fragment -->
 </div>
 </div>
 </div><!-- contents -->
@@ -432,8 +366,8 @@ template&lt;class AI , class T &gt; </div>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_5ee14a0f6ab8ad29bd27b6821baacc69.html">Kalimdor</a></li><li class="navelem"><a class="el" href="../../dir_ca5ba42e50e3e5f9337c0c8d18fe983c.html">OnyxiasLair</a></li><li class="navelem"><a class="el" href="../../d8/da6/a02696.html">onyxias_lair.h</a></li>
-    <li class="footer">Generated on Mon Aug 25 2025 20:45:38 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c8498b4bff487486cc5ffdac4c412cf7.html">apps</a></li><li class="navelem"><a class="el" href="../../dir_4a0dc471e712914507a0672b672729a4.html">worldserver</a></li><li class="navelem"><a class="el" href="../../dir_d5546cd048ce0388ac9df91d37210e56.html">ACSoap</a></li><li class="navelem"><a class="el" href="../../d8/da6/a02696.html">ACSoap.cpp</a></li>
+    <li class="footer">Generated on Mon Sep 1 2025 20:42:34 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

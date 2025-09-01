@@ -1,10 +1,9 @@
 var a09894 =
 [
-    [ "ID", "d9/dc5/a09894.html#a3bd2bf63526b6ee4a15cf7a2244ff06b", null ],
-    [ "Map", "d9/dc5/a09894.html#af4e60380e8434e5b8f573d2172ddf656", null ],
-    [ "name", "d9/dc5/a09894.html#ae1dd7ba1294653756ea4af9d9b66fa2c", null ],
-    [ "wnameLow", "d9/dc5/a09894.html#a148ead3270ad02213204792d6063cead", null ],
-    [ "x", "d9/dc5/a09894.html#ae8f23fc9e53f6357d56b3a25ed514330", null ],
-    [ "y", "d9/dc5/a09894.html#af2e239c4c76dff49090f8f1d8eb4d455", null ],
-    [ "z", "d9/dc5/a09894.html#adf56d09898752230a4fa1629849ac945", null ]
+    [ "TransportAnimation", "d9/dc5/a09894.html#a775b84b54deefd38af40222afd82d572", null ],
+    [ "GetAnimNode", "d9/dc5/a09894.html#a73b56750c90afce38dbf57793bae16f3", null ],
+    [ "GetAnimRotation", "d9/dc5/a09894.html#aa2c892f14712828acaa85fa6e6d919bb", null ],
+    [ "Path", "d9/dc5/a09894.html#a7c45df781dda8058d281a2cf7e5fe5fb", null ],
+    [ "Rotations", "d9/dc5/a09894.html#a5fa771fb487c437d7d6229eadf7d90c3", null ],
+    [ "TotalTime", "d9/dc5/a09894.html#a59a31ffc2e642a3950b0509130a76ad4", null ]
 ];

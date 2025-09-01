@@ -1,10 +1,13 @@
 var a24394 =
 [
-    [ "npc_pet_gen_imp_in_a_bottle", "df/d5a/a24394.html#aa32b7770c2719d77d46fcf6d22989284", null ],
-    [ "InitializeAI", "df/d5a/a24394.html#a9fde3fd30d48068a3ad1a19f65c61bf2", null ],
-    [ "UpdateAI", "df/d5a/a24394.html#a453ec855bb21a30cb72b540ff8f77035", null ],
-    [ "_data", "df/d5a/a24394.html#a982ec923536c2c33353a3673aa425b6a", null ],
-    [ "_hasParty", "df/d5a/a24394.html#a192d9e2ba340040cb6ba5c0f324ffb2d", null ],
-    [ "_ownerGUID", "df/d5a/a24394.html#a5452226bbe4f65a9bd7ce103a7648a2f", null ],
-    [ "_talkTimer", "df/d5a/a24394.html#a07eba859ad2d5db4f6d91734c04020cf", null ]
+    [ "npc_illidari_spawnAI", "df/d5a/a24394.html#a704c1d3e07d028b04e2bddee37039941", null ],
+    [ "JustDied", "df/d5a/a24394.html#a27277d90d4a58a89386a39f4affbaee8", null ],
+    [ "JustEngagedWith", "df/d5a/a24394.html#add4ea6366614e9fb86e85613bfb910ba", null ],
+    [ "Reset", "df/d5a/a24394.html#a5347858d5da4f0718479b1d702125366", null ],
+    [ "UpdateAI", "df/d5a/a24394.html#af392a545b3dccb7a7c89780d2818a7a7", null ],
+    [ "LordIllidanGUID", "df/d5a/a24394.html#a11b411dd0b5a32a7bdd0c44242a42372", null ],
+    [ "SpellTimer1", "df/d5a/a24394.html#afbf1b352275c0fd16fdf252eac9e0c4a", null ],
+    [ "SpellTimer2", "df/d5a/a24394.html#a644616bab96e1bd9bbe2500bf1b14988", null ],
+    [ "SpellTimer3", "df/d5a/a24394.html#a9889f9673292613dc46387862f3e8849", null ],
+    [ "Timers", "df/d5a/a24394.html#a1e48e4dea7bc1ba0f3d6be2f03b6813e", null ]
 ];

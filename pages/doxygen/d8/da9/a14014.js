@@ -1,10 +1,7 @@
 var a14014 =
 [
-    [ "npc_batrider", "d8/da9/a14014.html#a6304a39ea92d48508a17dc059c47bc1b", null ],
-    [ "DamageTaken", "d8/da9/a14014.html#ad4818b1363082a91223526908c38777c", null ],
-    [ "JustEngagedWith", "d8/da9/a14014.html#a02e950fd30e4a0637d078d49c5c50d48", null ],
-    [ "Reset", "d8/da9/a14014.html#abee249da6f3bb6c2fd859812b02d7b65", null ],
-    [ "UpdateAI", "d8/da9/a14014.html#a828e5ab4b3ff52d7daf9a3a6a5412f52", null ],
-    [ "_mode", "d8/da9/a14014.html#acd53ec78a754219511af1ad2f11422a9", null ],
-    [ "_scheduler", "d8/da9/a14014.html#ad90beb6685c031a8b0ce4ec8ea3daa3f", null ]
+    [ "spell", "d8/da9/a14014.html#a55423d09b2f1775dc386a36168ad764d", null ],
+    [ "spiritEntry", "d8/da9/a14014.html#a987f010c8577c193898fbfcc4a55c0ee", null ],
+    [ "text", "d8/da9/a14014.html#ab604ad9429083f2e94f6a8d026bc46a5", null ],
+    [ "unaura", "d8/da9/a14014.html#a1b71fc628793ccb9027687b31d9ebcb0", null ]
 ];

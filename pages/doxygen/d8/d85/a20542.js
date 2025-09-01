@@ -1,8 +1,7 @@
 var a20542 =
 [
-    [ "npc_ulduar_expedition_commanderAI", "d2/d9e/a20546.html", "d2/d9e/a20546" ],
-    [ "npc_ulduar_expedition_commander", "d8/d85/a20542.html#a8513554f686b75c29524fa5b2fa93ee4", null ],
-    [ "GetAI", "d8/d85/a20542.html#aa888a3634a643a103075d44c8f52d28a", null ],
-    [ "OnGossipHello", "d8/d85/a20542.html#a6b52abae7ec1be10fcb5385ec928b785", null ],
-    [ "OnGossipSelect", "d8/d85/a20542.html#a5d212e5e21d9ffb8c60e883e065c1801", null ]
+    [ "boss_kologarn_pit_kill_bunny", "d8/d85/a20542.html#a0ecbc2ae8850d4cfb84f40d2a13f4976", null ],
+    [ "Reset", "d8/d85/a20542.html#afd7482896b66f040b8d57b9b6ac37059", null ],
+    [ "UpdateAI", "d8/d85/a20542.html#ad863666aec3db81f73165148ffc98033", null ],
+    [ "_boundaryIntersect", "d8/d85/a20542.html#abc0560637830e70d54ce1fb6b6881ca6", null ]
 ];

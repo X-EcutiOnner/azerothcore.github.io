@@ -1,14 +1,14 @@
 var a09770 =
 [
-    [ "TriangleBoundary", "d3/df7/a09770.html#acd21a26ca6b830c4d4c6ed2b4a186a30", null ],
-    [ "IsWithinBoundaryArea", "d3/df7/a09770.html#aaebce21d60856976db921e22a871aae6", null ],
-    [ "_a", "d3/df7/a09770.html#a11a5e1e039d39205450e8fde526f23c9", null ],
-    [ "_abx", "d3/df7/a09770.html#a18ad05ab00e882af42a5dbc0cf10715b", null ],
-    [ "_aby", "d3/df7/a09770.html#a50c9a60be77846c736cf278eac263b44", null ],
-    [ "_b", "d3/df7/a09770.html#abcce62f1f187bc6e42f4534bfca855e8", null ],
-    [ "_bcx", "d3/df7/a09770.html#a043b7c018baed6b098f93b667f47baed", null ],
-    [ "_bcy", "d3/df7/a09770.html#afa03a5b23a6e0d3d4e134fe7b1599df0", null ],
-    [ "_c", "d3/df7/a09770.html#a8e037f96f40d81f6c426208efb0dcd1a", null ],
-    [ "_cax", "d3/df7/a09770.html#a7c8c6e8e40ec6249d672bb735d9fbdfa", null ],
-    [ "_cay", "d3/df7/a09770.html#acbb7a9e61dd4e6188837461821843b9a", null ]
+    [ "ServerMailMgr", "d3/df7/a09770.html#aeec2235e9dd9b36b868634d850f02a5b", null ],
+    [ "~ServerMailMgr", "d3/df7/a09770.html#adba54af38e90ecae21e79835910ba195", null ],
+    [ "ConditionTypeUsesConditionState", "d3/df7/a09770.html#a2e7a8cdc7ebdb51204823fd30a0449b3", null ],
+    [ "GetAllServerMailStore", "d3/df7/a09770.html#acb4521f696c6f11c977dc9d8b76e0c16", null ],
+    [ "GetServerMailConditionType", "d3/df7/a09770.html#a57f8aea4b5bb15ff77b9ebd8e65e8092", null ],
+    [ "instance", "d3/df7/a09770.html#abc85cb07f717384fac09f4e2b0f59af1", null ],
+    [ "LoadMailServerTemplates", "d3/df7/a09770.html#a1a01dd7a8e5c45bc7c97203e4a04a768", null ],
+    [ "LoadMailServerTemplatesConditions", "d3/df7/a09770.html#a6bb75bdb34a25dd01fdc7e81b4e9b897", null ],
+    [ "LoadMailServerTemplatesItems", "d3/df7/a09770.html#a49aea924f27804d21fbe06e72e159df3", null ],
+    [ "SendServerMail", "d3/df7/a09770.html#af615430a40e9ddfff49bc338b31d6c1b", null ],
+    [ "_serverMailStore", "d3/df7/a09770.html#a96ae3a78694ca97d112c5d92884f2415", null ]
 ];

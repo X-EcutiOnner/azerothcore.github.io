@@ -1,5 +1,5 @@
 var a15126 =
 [
-    [ "at_cthun_stomach_exit", "d7/de6/a15126.html#ab37174eff353cdbba1f300464645ac63", null ],
-    [ "OnTrigger", "d7/de6/a15126.html#ab56dca3fe200dc7822459a22912247bf", null ]
+    [ "npc_hive_zara_swarmer", "d7/de6/a15126.html#a374fa63e210e0be8a074af9199126a9e", null ],
+    [ "PathEndReached", "d7/de6/a15126.html#a3b3510bd00853395b756e1d83d96a474", null ]
 ];

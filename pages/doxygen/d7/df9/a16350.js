@@ -1,6 +1,6 @@
 var a16350 =
 [
-    [ "npc_nerubian_burrowerAI", "d9/d78/a16354.html", "d9/d78/a16354" ],
-    [ "npc_nerubian_burrower", "d7/df9/a16350.html#a02c3eb1ed867738c705af8bf38a1aae5", null ],
-    [ "GetAI", "d7/df9/a16350.html#a145ebac6f95f9190429b9bfa37e23312", null ]
+    [ "npc_living_infernoAI", "d9/d78/a16354.html", "d9/d78/a16354" ],
+    [ "npc_living_inferno", "d7/df9/a16350.html#a7df2bb522e67b6f1864604c7b0182078", null ],
+    [ "GetAI", "d7/df9/a16350.html#a53f0bbd0a502374664cfa54140f4b8c0", null ]
 ];

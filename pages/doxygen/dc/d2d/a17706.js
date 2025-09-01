@@ -1,7 +1,7 @@
 var a17706 =
 [
-    [ "DamageGunship", "dc/d2d/a17706.html#a1dc0145cfff777b18b9241dfc0966f32", null ],
-    [ "PrepareSpellScript", "dc/d2d/a17706.html#aa698d016ae58d665c081976f20ec0385", null ],
-    [ "Register", "dc/d2d/a17706.html#ab8836babdea1fd963fdd53415db0a3ba", null ],
-    [ "Validate", "dc/d2d/a17706.html#ae80cd93b2f01ddb83493f9f818fc0ea1", null ]
+    [ "DelayedMovementEvent", "dc/d2d/a17706.html#a21241cde30f66ae42edb311542f7405c", null ],
+    [ "Execute", "dc/d2d/a17706.html#a8287761226ee671905151891779b6efb", null ],
+    [ "_dest", "dc/d2d/a17706.html#a9a0cd9830509ffdecd98ac8231350d58", null ],
+    [ "_owner", "dc/d2d/a17706.html#a046942728282a997068de447271f3cbe", null ]
 ];

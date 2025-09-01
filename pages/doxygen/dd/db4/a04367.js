@@ -1,7 +1,8 @@
 var a04367 =
 [
-    [ "Tokenize", "dd/db4/a04367.html#ac486e8c9cdad8809eacd83339cdb121d", null ],
-    [ "Tokenize", "dd/db4/a04367.html#a6d70d7cc315896984da481f843d6f95f", null ],
-    [ "Tokenize", "dd/db4/a04367.html#aafa458089884fd3ec682db1762ced09d", null ],
-    [ "Tokenize", "dd/db4/a04367.html#a6b121485ace4118b9006db1fb89f90f2", null ]
+    [ "ePoints", "dd/db4/a04367.html#a2604bd06487e34b78d3e50cd892f3c4d", [
+      [ "POINT_LAST_POINT", "dd/db4/a04367.html#a2604bd06487e34b78d3e50cd892f3c4da7d10089a0c5a8c42786b90cd3ba643cb", null ],
+      [ "POINT_HOME", "dd/db4/a04367.html#a2604bd06487e34b78d3e50cd892f3c4da032be97ee26935943c3313fb24491162", null ],
+      [ "POINT_COMBAT_START", "d3/dea/a04352.html#a2604bd06487e34b78d3e50cd892f3c4da91adf90069f0b0a515897fbdc91e20b4", null ]
+    ] ]
 ];

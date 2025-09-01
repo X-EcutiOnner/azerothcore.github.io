@@ -1,6 +1,6 @@
 var a26906 =
 [
-    [ "HandleRemove", "d5/d1a/a26906.html#a0ac8fe6a39ae00e50f219bf02c26f1a4", null ],
-    [ "PrepareAuraScript", "d5/d1a/a26906.html#a0517fe77f15e1b9cf6153ed2aaf9cee8", null ],
-    [ "Register", "d5/d1a/a26906.html#ac968ede75fd5d98ba9a10dc9f6bdbb85", null ]
+    [ "HandleKnockBack", "d5/d1a/a26906.html#abad9f9293260a3e99be98b43aabb321b", null ],
+    [ "PrepareSpellScript", "d5/d1a/a26906.html#a65787b78165631898458264e6ee310f4", null ],
+    [ "Register", "d5/d1a/a26906.html#ade4f3cb676f1cc92b0e75f85367dc3e0", null ]
 ];

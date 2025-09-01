@@ -1,6 +1,7 @@
 var a25346 =
 [
-    [ "HandleScript", "d9/dd1/a25346.html#a5a30dc1dad5b51af02043bd85c486a68", null ],
-    [ "PrepareSpellScript", "d9/dd1/a25346.html#a16c358062cee300e4c54f046a6c1accf", null ],
-    [ "Register", "d9/dd1/a25346.html#a1f53f1345c418f82c6d140cf6cf80b3c", null ]
+    [ "HandleEffectApply", "d9/dd1/a25346.html#abf780eeca61aef7e44617aa0ed2ff8b8", null ],
+    [ "OnRemove", "d9/dd1/a25346.html#af2cfa66cd7dbc7c671efa06c497cc03e", null ],
+    [ "PrepareAuraScript", "d9/dd1/a25346.html#ab6c5d1fd94c763126ef77f9efd4a7116", null ],
+    [ "Register", "d9/dd1/a25346.html#a473189971d0a03e7305b7b9e41dc5207", null ]
 ];

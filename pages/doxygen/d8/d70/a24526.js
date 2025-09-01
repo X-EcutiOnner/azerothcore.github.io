@@ -1,11 +1,6 @@
 var a24526 =
 [
-    [ "CalcPeriodic", "d8/d70/a24526.html#a330ab5ee4c9b16928b3fae701c80acd4", null ],
-    [ "CalculateHasteAmount", "d8/d70/a24526.html#a75d428e0b3619d53bd9436712d2e394e", null ],
-    [ "CalculateSPAmount", "d8/d70/a24526.html#a81805b43a47065281f83889d8be95c54", null ],
-    [ "CalculateStatAmount", "d8/d70/a24526.html#a763276aaa00bb6953e0b52118662e7a8", null ],
-    [ "HandleEffectApply", "d8/d70/a24526.html#ad5595d4a32336568ac143e1ee1823ab3", null ],
-    [ "HandlePeriodic", "d8/d70/a24526.html#ab3c7d479eae88ab4a59b06610af19429", null ],
-    [ "PrepareAuraScript", "d8/d70/a24526.html#a8dc2c51f3cccb640286fb081a34d90d2", null ],
-    [ "Register", "d8/d70/a24526.html#a6b3e219b03f89bf20f0d394c14cfe8cd", null ]
+    [ "npc_pet_dk_army_of_the_dead", "d8/d70/a24526.html#a835f24d7b1b0b70d6345f66a8960e9cf", null ],
+    [ "InitializeAI", "d8/d70/a24526.html#add16c667f3e614f9d6ceebbe17cf0515", null ],
+    [ "IsSummonedBy", "d8/d70/a24526.html#a4f1acbbccd68c83a7c3ea14b26a56305", null ]
 ];

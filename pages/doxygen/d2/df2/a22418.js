@@ -1,14 +1,13 @@
 var a22418 =
 [
-    [ "npc_finklesteinAI", "d2/df2/a22418.html#a075481689af110f8c20cd5ca13258ba3", null ],
-    [ "ClearPlayerOnTask", "d2/df2/a22418.html#ad6ec9c020ba2f8eae9250a89fbe9490d", null ],
-    [ "GetTaskAura", "d2/df2/a22418.html#ae3a1b7fbdd9aba64e8f853f53d9c261c", null ],
-    [ "GetTaskCounter", "d2/df2/a22418.html#a240e8f556176b9571bd08407276402be", null ],
-    [ "GetTaskItemEntry", "d2/df2/a22418.html#a08a3005db6d192663a835b9ee192352b", null ],
-    [ "GetTaskItemName", "d2/df2/a22418.html#adce990629aa1833dc07c7dbb1297cead", null ],
-    [ "IsPlayerOnTask", "d2/df2/a22418.html#ad815f0d79ab73d95e9fbf3a659aea2ce", null ],
-    [ "RightClickCauldron", "d2/df2/a22418.html#a71fea2fdf5079fbc1d8baa72e7e4ae82", null ],
-    [ "SelectRandomCode", "d2/df2/a22418.html#a16c9ddf6f2f858f4147a0188e0df7250", null ],
-    [ "StartNextTask", "d2/df2/a22418.html#a89c5c3a90fad1719bc4d2e2cb611e8c7", null ],
-    [ "questList", "d2/df2/a22418.html#a5c3a3237579721b94dd433841b83bb02", null ]
+    [ "npc_frosthoundAI", "d2/df2/a22418.html#ac8f41789568399318cdc30292abfd93b", null ],
+    [ "AttackStart", "d2/df2/a22418.html#a0278736f670f5aac069b03530f441ae1", null ],
+    [ "EnterEvadeMode", "d2/df2/a22418.html#acc1a3842ddae670e23d8c55e8768ace9", null ],
+    [ "JustDied", "d2/df2/a22418.html#a26f4657c1d373cf4a2b45f6487a9e901", null ],
+    [ "JustEngagedWith", "d2/df2/a22418.html#a80eec4a19fb53be5946b2e021b8dd332", null ],
+    [ "JustSummoned", "d2/df2/a22418.html#a8db3dbace66dabfa54800cacbfdfab9b", null ],
+    [ "OnCharmed", "d2/df2/a22418.html#ae1e2a4763e8bfc8ab04687829830c639", null ],
+    [ "PassengerBoarded", "d2/df2/a22418.html#aea512a9811ec0766b9b175ec2ca9a447", null ],
+    [ "UpdateAI", "d2/df2/a22418.html#a9a755fd6d53d124c441357472fcb73e0", null ],
+    [ "WaypointReached", "d2/df2/a22418.html#aa87f8d5bbbd105481773941a90a96cf6", null ]
 ];

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: VMAP::GModelRayCallback Struct Reference</title>
+<title>AzerothCore: GameObjectModelOwnerBase Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,32 +106,45 @@ $(document).ready(function(){initNavTree('d9/d65/a05074.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../db/d78/a05071.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">VMAP::GModelRayCallback Struct Reference</div></div>
+  <div class="headertitle"><div class="title">GameObjectModelOwnerBase Class Reference<span class="mlabels"><span class="mlabel">abstract</span></span></div></div>
 </div><!--header-->
 <div class="contents">
+
+<p><code>#include &quot;<a class="el" href="../../">GameObjectModel.h</a>&quot;</code></p>
+<div class="dynheader">
+Inheritance diagram for GameObjectModelOwnerBase:</div>
+<div class="dyncontent">
+ <div class="center">
+  <img src="../../d9/d65/a05074.png" usemap="#GameObjectModelOwnerBase_map" alt=""/>
+  <map id="GameObjectModelOwnerBase_map" name="GameObjectModelOwnerBase_map">
+<area href="../../d4/d0a/a08162.html" alt="GameObjectModelOwnerImpl" shape="rect" coords="0,56,182,80"/>
+  </map>
+</div></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a39bc53ae3bf18800ea215a5a54568606"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d65/a05074.html#a39bc53ae3bf18800ea215a5a54568606">GModelRayCallback</a> (const std::vector&lt; <a class="el" href="../../d2/d69/a05086.html">MeshTriangle</a> &gt; &amp;tris, const std::vector&lt; Vector3 &gt; &amp;vert)</td></tr>
-<tr class="separator:a39bc53ae3bf18800ea215a5a54568606"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af0072bed861fb89a63c37fd72482ed42"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d65/a05074.html#af0072bed861fb89a63c37fd72482ed42">operator()</a> (const G3D::Ray &amp;ray, <a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> entry, float &amp;distance, bool)</td></tr>
-<tr class="separator:af0072bed861fb89a63c37fd72482ed42"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
-Public Attributes</h2></td></tr>
-<tr class="memitem:af80815b123c6611f38e3d5b41e501546"><td class="memItemLeft" align="right" valign="top">std::vector&lt; Vector3 &gt;::const_iterator&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d65/a05074.html#af80815b123c6611f38e3d5b41e501546">vertices</a></td></tr>
-<tr class="separator:af80815b123c6611f38e3d5b41e501546"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a09ef515a1b16d184071e708ed9245b3d"><td class="memItemLeft" align="right" valign="top">std::vector&lt; <a class="el" href="../../d2/d69/a05086.html">MeshTriangle</a> &gt;::const_iterator&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d65/a05074.html#a09ef515a1b16d184071e708ed9245b3d">triangles</a></td></tr>
-<tr class="separator:a09ef515a1b16d184071e708ed9245b3d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad8861bd8f8c15ff9955c62f5cb1e13bf"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d65/a05074.html#ad8861bd8f8c15ff9955c62f5cb1e13bf">hit</a></td></tr>
-<tr class="separator:ad8861bd8f8c15ff9955c62f5cb1e13bf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a307c744710782fcb0d5c287b23c74d69"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d65/a05074.html#a307c744710782fcb0d5c287b23c74d69">~GameObjectModelOwnerBase</a> ()=default</td></tr>
+<tr class="separator:a307c744710782fcb0d5c287b23c74d69"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad824da6970d512c344160714cd7ec434"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d65/a05074.html#ad824da6970d512c344160714cd7ec434">IsSpawned</a> () const =0</td></tr>
+<tr class="separator:ad824da6970d512c344160714cd7ec434"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae3eddc6c841c3644f50cb3300f80cee2"><td class="memItemLeft" align="right" valign="top">virtual <a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d65/a05074.html#ae3eddc6c841c3644f50cb3300f80cee2">GetDisplayId</a> () const =0</td></tr>
+<tr class="separator:ae3eddc6c841c3644f50cb3300f80cee2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6b55de1c8de5a50245d7e5a833766d0f"><td class="memItemLeft" align="right" valign="top">virtual <a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d65/a05074.html#a6b55de1c8de5a50245d7e5a833766d0f">GetPhaseMask</a> () const =0</td></tr>
+<tr class="separator:a6b55de1c8de5a50245d7e5a833766d0f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a82e89b7fac5f46a25519674930294ed8"><td class="memItemLeft" align="right" valign="top">virtual G3D::Vector3&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d65/a05074.html#a82e89b7fac5f46a25519674930294ed8">GetPosition</a> () const =0</td></tr>
+<tr class="separator:a82e89b7fac5f46a25519674930294ed8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a35c11d2346c5156b95558729d84b3fe8"><td class="memItemLeft" align="right" valign="top">virtual float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d65/a05074.html#a35c11d2346c5156b95558729d84b3fe8">GetOrientation</a> () const =0</td></tr>
+<tr class="separator:a35c11d2346c5156b95558729d84b3fe8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abf8e9a74f58ec34bc6f1f8d853100f69"><td class="memItemLeft" align="right" valign="top">virtual float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d65/a05074.html#abf8e9a74f58ec34bc6f1f8d853100f69">GetScale</a> () const =0</td></tr>
+<tr class="separator:abf8e9a74f58ec34bc6f1f8d853100f69"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acf130fbdfb086a9c6d35d145116357c8"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d65/a05074.html#acf130fbdfb086a9c6d35d145116357c8">DebugVisualizeCorner</a> (G3D::Vector3 const &amp;) const =0</td></tr>
+<tr class="separator:acf130fbdfb086a9c6d35d145116357c8"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a39bc53ae3bf18800ea215a5a54568606" name="a39bc53ae3bf18800ea215a5a54568606"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a39bc53ae3bf18800ea215a5a54568606">&#9670;&#160;</a></span>GModelRayCallback()</h2>
+<a id="a307c744710782fcb0d5c287b23c74d69" name="a307c744710782fcb0d5c287b23c74d69"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a307c744710782fcb0d5c287b23c74d69">&#9670;&#160;</a></span>~GameObjectModelOwnerBase()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -140,40 +153,24 @@ Public Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">VMAP::GModelRayCallback::GModelRayCallback </td>
+          <td class="memname">virtual GameObjectModelOwnerBase::~GameObjectModelOwnerBase </td>
           <td>(</td>
-          <td class="paramtype">const std::vector&lt; <a class="el" href="../../d2/d69/a05086.html">MeshTriangle</a> &gt; &amp;&#160;</td>
-          <td class="paramname"><em>tris</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
+          <td class="paramname"></td><td>)</td>
           <td></td>
-          <td class="paramtype">const std::vector&lt; Vector3 &gt; &amp;&#160;</td>
-          <td class="paramname"><em>vert</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+<span class="mlabels"><span class="mlabel">virtual</span><span class="mlabel">default</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  429</span>                                                                                              :</div>
-<div class="line"><span class="lineno">  430</span>            <a class="code hl_variable" href="../../d9/d65/a05074.html#af80815b123c6611f38e3d5b41e501546">vertices</a>(vert.begin()), <a class="code hl_variable" href="../../d9/d65/a05074.html#a09ef515a1b16d184071e708ed9245b3d">triangles</a>(tris.begin()), <a class="code hl_variable" href="../../d9/d65/a05074.html#ad8861bd8f8c15ff9955c62f5cb1e13bf">hit</a>(<span class="keyword">false</span>) { }</div>
-<div class="ttc" id="aa05074_html_a09ef515a1b16d184071e708ed9245b3d"><div class="ttname"><a href="../../d9/d65/a05074.html#a09ef515a1b16d184071e708ed9245b3d">VMAP::GModelRayCallback::triangles</a></div><div class="ttdeci">std::vector&lt; MeshTriangle &gt;::const_iterator triangles</div><div class="ttdef"><b>Definition:</b> WorldModel.cpp:438</div></div>
-<div class="ttc" id="aa05074_html_ad8861bd8f8c15ff9955c62f5cb1e13bf"><div class="ttname"><a href="../../d9/d65/a05074.html#ad8861bd8f8c15ff9955c62f5cb1e13bf">VMAP::GModelRayCallback::hit</a></div><div class="ttdeci">bool hit</div><div class="ttdef"><b>Definition:</b> WorldModel.cpp:439</div></div>
-<div class="ttc" id="aa05074_html_af80815b123c6611f38e3d5b41e501546"><div class="ttname"><a href="../../d9/d65/a05074.html#af80815b123c6611f38e3d5b41e501546">VMAP::GModelRayCallback::vertices</a></div><div class="ttdeci">std::vector&lt; Vector3 &gt;::const_iterator vertices</div><div class="ttdef"><b>Definition:</b> WorldModel.cpp:437</div></div>
-</div><!-- fragment -->
+
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="af0072bed861fb89a63c37fd72482ed42" name="af0072bed861fb89a63c37fd72482ed42"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af0072bed861fb89a63c37fd72482ed42">&#9670;&#160;</a></span>operator()()</h2>
+<a id="acf130fbdfb086a9c6d35d145116357c8" name="acf130fbdfb086a9c6d35d145116357c8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acf130fbdfb086a9c6d35d145116357c8">&#9670;&#160;</a></span>DebugVisualizeCorner()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -182,98 +179,183 @@ Public Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">bool VMAP::GModelRayCallback::operator() </td>
+          <td class="memname">virtual void GameObjectModelOwnerBase::DebugVisualizeCorner </td>
           <td>(</td>
-          <td class="paramtype">const G3D::Ray &amp;&#160;</td>
-          <td class="paramname"><em>ray</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>entry</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">float &amp;&#160;</td>
-          <td class="paramname"><em>distance</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">bool&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
+          <td class="paramtype">G3D::Vector3 const &amp;&#160;</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  432</span>        {</div>
-<div class="line"><span class="lineno">  433</span>            <span class="keywordtype">bool</span> result = <a class="code hl_function" href="../../d0/d9d/a04783.html#a4fa75e5ca5211394c63abc7ff28eb741">IntersectTriangle</a>(<a class="code hl_variable" href="../../d9/d65/a05074.html#a09ef515a1b16d184071e708ed9245b3d">triangles</a>[entry], <a class="code hl_variable" href="../../d9/d65/a05074.html#af80815b123c6611f38e3d5b41e501546">vertices</a>, ray, distance);</div>
-<div class="line"><span class="lineno">  434</span>            <span class="keywordflow">if</span> (result) { <a class="code hl_variable" href="../../d9/d65/a05074.html#ad8861bd8f8c15ff9955c62f5cb1e13bf">hit</a> = <span class="keyword">true</span>; }</div>
-<div class="line"><span class="lineno">  435</span>            <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d9/d65/a05074.html#ad8861bd8f8c15ff9955c62f5cb1e13bf">hit</a>;</div>
-<div class="line"><span class="lineno">  436</span>        }</div>
-<div class="ttc" id="aa04783_html_a4fa75e5ca5211394c63abc7ff28eb741"><div class="ttname"><a href="../../d0/d9d/a04783.html#a4fa75e5ca5211394c63abc7ff28eb741">VMAP::IntersectTriangle</a></div><div class="ttdeci">bool IntersectTriangle(const MeshTriangle &amp;tri, std::vector&lt; Vector3 &gt;::const_iterator points, const G3D::Ray &amp;ray, float &amp;distance)</div><div class="ttdef"><b>Definition:</b> WorldModel.cpp:34</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00439">hit</a>, <a class="el" href="../../#l00034">VMAP::IntersectTriangle()</a>, <a class="el" href="../../#l00438">triangles</a>, and <a class="el" href="../../#l00437">vertices</a>.</p>
+
+<p>Implemented in <a class="el" href="../../d4/d0a/a08162.html#af8553967b9788d69da9fcb8cdb647f9c">GameObjectModelOwnerImpl</a>.</p>
 
 </div>
 </div>
-<h2 class="groupheader">Member Data Documentation</h2>
-<a id="ad8861bd8f8c15ff9955c62f5cb1e13bf" name="ad8861bd8f8c15ff9955c62f5cb1e13bf"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad8861bd8f8c15ff9955c62f5cb1e13bf">&#9670;&#160;</a></span>hit</h2>
+<a id="ae3eddc6c841c3644f50cb3300f80cee2" name="ae3eddc6c841c3644f50cb3300f80cee2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae3eddc6c841c3644f50cb3300f80cee2">&#9670;&#160;</a></span>GetDisplayId()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">bool VMAP::GModelRayCallback::hit</td>
+          <td class="memname">virtual <a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> GameObjectModelOwnerBase::GetDisplayId </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00442">VMAP::GroupModel::IntersectRay()</a>, and <a class="el" href="../../#l00431">operator()()</a>.</p>
+<p>Implemented in <a class="el" href="../../d4/d0a/a08162.html#a4a694456955c19e76d8c84befc02c920">GameObjectModelOwnerImpl</a>.</p>
 
 </div>
 </div>
-<a id="a09ef515a1b16d184071e708ed9245b3d" name="a09ef515a1b16d184071e708ed9245b3d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a09ef515a1b16d184071e708ed9245b3d">&#9670;&#160;</a></span>triangles</h2>
+<a id="a35c11d2346c5156b95558729d84b3fe8" name="a35c11d2346c5156b95558729d84b3fe8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a35c11d2346c5156b95558729d84b3fe8">&#9670;&#160;</a></span>GetOrientation()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::vector&lt;<a class="el" href="../../d2/d69/a05086.html">MeshTriangle</a>&gt;::const_iterator VMAP::GModelRayCallback::triangles</td>
+          <td class="memname">virtual float GameObjectModelOwnerBase::GetOrientation </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00431">operator()()</a>.</p>
+<p>Implemented in <a class="el" href="../../d4/d0a/a08162.html#acb968e3bd921aac111a2e06f2604b040">GameObjectModelOwnerImpl</a>.</p>
 
 </div>
 </div>
-<a id="af80815b123c6611f38e3d5b41e501546" name="af80815b123c6611f38e3d5b41e501546"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af80815b123c6611f38e3d5b41e501546">&#9670;&#160;</a></span>vertices</h2>
+<a id="a6b55de1c8de5a50245d7e5a833766d0f" name="a6b55de1c8de5a50245d7e5a833766d0f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6b55de1c8de5a50245d7e5a833766d0f">&#9670;&#160;</a></span>GetPhaseMask()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::vector&lt;Vector3&gt;::const_iterator VMAP::GModelRayCallback::vertices</td>
+          <td class="memname">virtual <a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> GameObjectModelOwnerBase::GetPhaseMask </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00431">operator()()</a>.</p>
+<p>Implemented in <a class="el" href="../../d4/d0a/a08162.html#ad0b9a01502c49f16a47e35694d3e6c10">GameObjectModelOwnerImpl</a>.</p>
+
+</div>
+</div>
+<a id="a82e89b7fac5f46a25519674930294ed8" name="a82e89b7fac5f46a25519674930294ed8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a82e89b7fac5f46a25519674930294ed8">&#9670;&#160;</a></span>GetPosition()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual G3D::Vector3 GameObjectModelOwnerBase::GetPosition </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="../../d4/d0a/a08162.html#a9ba2b29d30b38895effe97637e050988">GameObjectModelOwnerImpl</a>.</p>
+
+</div>
+</div>
+<a id="abf8e9a74f58ec34bc6f1f8d853100f69" name="abf8e9a74f58ec34bc6f1f8d853100f69"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abf8e9a74f58ec34bc6f1f8d853100f69">&#9670;&#160;</a></span>GetScale()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual float GameObjectModelOwnerBase::GetScale </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="../../d4/d0a/a08162.html#a3d72c1810a41e2baa7e87ab26f4674f9">GameObjectModelOwnerImpl</a>.</p>
+
+</div>
+</div>
+<a id="ad824da6970d512c344160714cd7ec434" name="ad824da6970d512c344160714cd7ec434"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad824da6970d512c344160714cd7ec434">&#9670;&#160;</a></span>IsSpawned()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual bool GameObjectModelOwnerBase::IsSpawned </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="../../d4/d0a/a08162.html#ae47eb25d16de37122042402443db6f3d">GameObjectModelOwnerImpl</a>.</p>
 
 </div>
 </div>
@@ -282,8 +364,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d0/d9d/a04783.html">VMAP</a></li><li class="navelem"><a class="el" href="../../d9/d65/a05074.html">GModelRayCallback</a></li>
-    <li class="footer">Generated on Mon Aug 4 2025 20:52:41 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d9/d65/a05074.html">GameObjectModelOwnerBase</a></li>
+    <li class="footer">Generated on Mon Sep 1 2025 20:43:49 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

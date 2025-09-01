@@ -1,5 +1,5 @@
 var a27374 =
 [
-    [ "go_duskwither_spire_power_source", "d3/dd8/a27374.html#aab69de16e8b744af2671e2ed882ee94a", null ],
-    [ "OnGossipHello", "d3/dd8/a27374.html#a2c7fd017e7985b99bff187119157a041", null ]
+    [ "go_ethereum_stasis", "d3/dd8/a27374.html#aaa8fc5733678a17a37c60c9853f91e62", null ],
+    [ "OnGossipHello", "d3/dd8/a27374.html#ac36da8dccbebcaee605a878df3904c60", null ]
 ];

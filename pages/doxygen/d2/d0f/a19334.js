@@ -1,9 +1,6 @@
 var a19334 =
 [
-    [ "HandleApply", "d2/d0f/a19334.html#a29679ed64fc288dc0e85beed2971d4be", null ],
-    [ "HandleRemove", "d2/d0f/a19334.html#a1f1c3e0ea24174605a7be8fa02e30518", null ],
-    [ "Load", "d2/d0f/a19334.html#a0b5d70a7a9bf27696295ccbbffd2a8b9", null ],
-    [ "PrepareAuraScript", "d2/d0f/a19334.html#a2804f25643e59f3922291abcb055b641", null ],
-    [ "Register", "d2/d0f/a19334.html#a711b5744770d0c9fb5aacb550f2384fa", null ],
-    [ "Validate", "d2/d0f/a19334.html#aa239a693db5fa38ac260a37b25e0e6d9", null ]
+    [ "boss_thaddiusAI", "d9/d9f/a19338.html", "d9/d9f/a19338" ],
+    [ "boss_thaddius", "d2/d0f/a19334.html#aff97b030b861feb646e1b22f60ee3605", null ],
+    [ "GetAI", "d2/d0f/a19334.html#acf841c6897396f517a74932fc3480e69", null ]
 ];

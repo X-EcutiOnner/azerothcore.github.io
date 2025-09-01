@@ -1,9 +1,8 @@
 var a28586 =
 [
-    [ "SetUp", "de/dcf/a28586.html#abb28ef64461635a540dad471b7b12ebc", null ],
-    [ "TearDown", "de/dcf/a28586.html#ace0b9a0c578a6b8ec1d33ad584aaf911", null ],
-    [ "arenaTeams", "de/dcf/a28586.html#ab40dacafdb3c5de73cf66426d014a4fe", null ],
-    [ "team1", "de/dcf/a28586.html#a325d8058950e53d17e16fd90cd105776", null ],
-    [ "team2", "de/dcf/a28586.html#ac6336ffa31e59a5d3acc227c674e9ea8", null ],
-    [ "team3", "de/dcf/a28586.html#af3c2e86874e53ae812debbe1abfbcf05", null ]
+    [ "Color", "de/dcf/a28586.html#a670fb4e2a31958f81d46047f74d9916f", null ],
+    [ "Comparator", "de/dcf/a28586.html#ace0bdad11edd9db12e45d374da623793", null ],
+    [ "CompareColor", "de/dcf/a28586.html#a801e2221bbb1b6aab67a57381901cf08", null ],
+    [ "ID", "de/dcf/a28586.html#aae73769db40326d298bb1d04eef38871", null ],
+    [ "Value", "de/dcf/a28586.html#ac314a9a6b447d386e31a286811f66538", null ]
 ];

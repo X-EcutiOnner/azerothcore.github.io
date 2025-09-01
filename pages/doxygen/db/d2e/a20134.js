@@ -1,6 +1,5 @@
 var a20134 =
 [
-    [ "npc_ulduar_saronite_animusAI", "df/d7d/a20138.html", "df/d7d/a20138" ],
-    [ "npc_ulduar_saronite_animus", "db/d2e/a20134.html#a22d552adc9db3f7d2a533ab7f58a2470", null ],
-    [ "GetAI", "db/d2e/a20134.html#a1fdd851e9d6e399f8f57d063a7dbd6d9", null ]
+    [ "go_ulduar_tower", "db/d2e/a20134.html#afc1add1a0543921f52afe1eb907f5de3", null ],
+    [ "OnDestroyed", "db/d2e/a20134.html#aa72ebefe52d49e5b07fb36232efd7e95", null ]
 ];

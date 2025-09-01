@@ -1,8 +1,12 @@
 var a17938 =
 [
-    [ "HandleScript", "db/def/a17938.html#a9f3cef57312626ae1884c36ad4bfdca6", null ],
-    [ "PrepareSpellScript", "db/def/a17938.html#a2ba03324afacf8da8e5fe6bc725e4d2f", null ],
-    [ "Register", "db/def/a17938.html#a9b0e0427b7f8abbd0e9d556ccc581aeb", null ],
-    [ "SelectTarget", "db/def/a17938.html#a36d575c6a63e94905bf435bc9d39e588", null ],
-    [ "Validate", "db/def/a17938.html#afc4a6277e3a7419b6a4aaa99f6697b91", null ]
+    [ "npc_darnavanAI", "db/def/a17938.html#ae06019c24910c873877398f29f5a1737", null ],
+    [ "JustDied", "db/def/a17938.html#a49250dcdaed6de534de7a1fe3c5aa72c", null ],
+    [ "JustEngagedWith", "db/def/a17938.html#acbaedacea5ad19d82002c25b68623a27", null ],
+    [ "MovementInform", "db/def/a17938.html#afcd3bfd190fcb99e38f32129fb2ce861", null ],
+    [ "Reset", "db/def/a17938.html#a926c39a6e30507d9f9927f4f142e5a45", null ],
+    [ "UpdateAI", "db/def/a17938.html#a2b3b5e168989db21fc047acaf01413d9", null ],
+    [ "_canCharge", "db/def/a17938.html#ac37dc2ddc1787b7bd83b7e64ccdc6af8", null ],
+    [ "_canShatter", "db/def/a17938.html#aa7750edc8051c8ee453143491dccf122", null ],
+    [ "events", "db/def/a17938.html#aa8a022ccb1367432480f72d305c752ac", null ]
 ];

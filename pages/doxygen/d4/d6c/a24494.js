@@ -1,7 +1,12 @@
 var a24494 =
 [
-    [ "CheckProc", "d4/d6c/a24494.html#abd74252153fc4fc9a4e561005ea58b3f", null ],
-    [ "HandleProc", "d4/d6c/a24494.html#a911b81552e7193dbf1cfc11037b44d84", null ],
-    [ "PrepareAuraScript", "d4/d6c/a24494.html#ae169eb2c0e194f8f34ee2a0d5fd973d3", null ],
-    [ "Register", "d4/d6c/a24494.html#a72d89db31c1fbd5c3b49b4c05a2d90f4", null ]
+    [ "npc_unkor_the_ruthlessAI", "d4/d6c/a24494.html#a965b0f182570a54ee4c0a6a54ba8fafb", null ],
+    [ "DamageTaken", "d4/d6c/a24494.html#a88b5e4b43171be8cc62d2a10f188e363", null ],
+    [ "DoNice", "d4/d6c/a24494.html#aa673fc892b9c0d59b2789271140e6054", null ],
+    [ "JustEngagedWith", "d4/d6c/a24494.html#a537225016bfeba51b607d250c0a09be5", null ],
+    [ "Reset", "d4/d6c/a24494.html#a14ca75417c623d6d6e5fce50521963da", null ],
+    [ "UpdateAI", "d4/d6c/a24494.html#a744ea41d7f9450965419085a296c8df2", null ],
+    [ "CanDoQuest", "d4/d6c/a24494.html#a98d7d45b450f3464291ecbc05ab31f21", null ],
+    [ "Pulverize_Timer", "d4/d6c/a24494.html#a2ddc09c9241bbf95cddb6c1c4ddfc6bd", null ],
+    [ "UnkorUnfriendly_Timer", "d4/d6c/a24494.html#ae6eeb6177d655f5a0bede45183758f1f", null ]
 ];

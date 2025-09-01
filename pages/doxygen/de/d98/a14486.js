@@ -1,5 +1,5 @@
 var a14486 =
 [
-    [ "PrepareSpellScript", "de/d98/a14486.html#a3e1c670bbc7efb86b95a34ee3c8ba059", null ],
-    [ "Register", "de/d98/a14486.html#a06111bf70ee53fee6e90284f8d92642e", null ]
+    [ "npc_grizzlemaw_cw_triggerAI", "de/d98/a14486.html#a40207493c75d8a63284e08f1f75d56c4", null ],
+    [ "MoveInLineOfSight", "de/d98/a14486.html#aef49ccdae1aff20fc469f0aa2663d8af", null ]
 ];

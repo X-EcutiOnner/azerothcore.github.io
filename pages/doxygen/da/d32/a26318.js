@@ -1,7 +1,9 @@
 var a26318 =
 [
-    [ "CheckTarget", "da/d32/a26318.html#abaef73201d2e0bd1d6789309442019e0", null ],
-    [ "HandleScriptEffect", "da/d32/a26318.html#a545196cd976bfabbd85ba48942012e1e", null ],
-    [ "PrepareSpellScript", "da/d32/a26318.html#add5c1ecaa5a75af6e91a0df5d63bbc42", null ],
-    [ "Register", "da/d32/a26318.html#a36563a197b7377660b7c3f9e85d478bd", null ]
+    [ "CheckCast", "da/d32/a26318.html#ad7bfc65b26013ad259679ae8b4a5dd9a", null ],
+    [ "HandleTriggerSpellHit", "da/d32/a26318.html#aca027bb2995456bfcedd33c06966eb88", null ],
+    [ "HandleTriggerSpellLaunch", "da/d32/a26318.html#aa67bf9f81086a3837037d67306979072", null ],
+    [ "PrepareSpellScript", "da/d32/a26318.html#a9247b5f3a376bebdcf857565b5049944", null ],
+    [ "Register", "da/d32/a26318.html#aaf056806d72da6aa2e3e6e70d46d6933", null ],
+    [ "Validate", "da/d32/a26318.html#a4fc8f6a7ecd041dcfca4fd51d71e725c", null ]
 ];

@@ -1,10 +1,6 @@
 var a25374 =
 [
-    [ "Load", "d8/dbe/a25374.html#a04526f30ad35af3f629cdd0c8312e33c", null ],
-    [ "OnApply", "d8/dbe/a25374.html#a83d922c434442e22482410d61aa0198f", null ],
-    [ "OnPetApply", "d8/dbe/a25374.html#a6df5e59e29cb89310a1c78bf93029545", null ],
-    [ "OnRemove", "d8/dbe/a25374.html#aa4efa4ed7d98c63989353c398bb2b128", null ],
-    [ "PrepareAuraScript", "d8/dbe/a25374.html#a1b4d8f636c01f01bc9380c290de91a0e", null ],
-    [ "Register", "d8/dbe/a25374.html#a265726c9bfa180c3b8f470eb1eee837b", null ],
-    [ "Validate", "d8/dbe/a25374.html#ab318472ea9f4aaa79e45f18783586eed", null ]
+    [ "CalculateAmount", "d8/dbe/a25374.html#a0522f4bf54b4a71df4e09f97a28fda45", null ],
+    [ "PrepareAuraScript", "d8/dbe/a25374.html#acf699e467734499dd992f401da38cf88", null ],
+    [ "Register", "d8/dbe/a25374.html#a6e6396a162a532ff25b9bd7c551f05d8", null ]
 ];

@@ -1,7 +1,7 @@
 var a28986 =
 [
-    [ "FilterTargets", "d5/d21/a28986.html#a6b7b3b5080ba08fef29988a750ee169f", null ],
-    [ "HandleEffect", "d5/d21/a28986.html#a37dd53f51ad46b15b691d66eb485de5d", null ],
-    [ "PrepareSpellScript", "d5/d21/a28986.html#acaa6fc8c9197ddb2a7e3de08c1c32dbd", null ],
-    [ "Register", "d5/d21/a28986.html#af58b2b965b722d14431355c4dd03aecd", null ]
+    [ "W", "d5/d21/a28986.html#adc2e55b935dcc2daefd60739bdb31cec", null ],
+    [ "X", "d5/d21/a28986.html#a2676f1a5ec3a2f69ebb953e4b5741c4b", null ],
+    [ "Y", "d5/d21/a28986.html#aa3353a9f5afdf3614e37f9681441ae05", null ],
+    [ "Z", "d5/d21/a28986.html#a533b5e90b6333d89190828f28721e61d", null ]
 ];

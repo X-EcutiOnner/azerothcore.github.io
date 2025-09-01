@@ -1,7 +1,7 @@
 var a24070 =
 [
-    [ "npc_creditmarker_visit_with_ancestorsAI", "da/dc3/a24070.html#a483e8fb0d73561e34a1078fdde1a1b5b", null ],
-    [ "JustEngagedWith", "da/dc3/a24070.html#a4038d707731f64f588e307c22c859902", null ],
-    [ "MoveInLineOfSight", "da/dc3/a24070.html#a40d92122cd4f879f52ff78a4f172c3b8", null ],
-    [ "Reset", "da/dc3/a24070.html#a29132346f117ba785039057619edb9e7", null ]
+    [ "boss_gatewatcher_iron_hand", "da/dc3/a24070.html#aef70e713007af38b510f0a3b8c082b24", null ],
+    [ "JustDied", "da/dc3/a24070.html#a36b10cd02b35b6e106687b08bc80bfa6", null ],
+    [ "JustEngagedWith", "da/dc3/a24070.html#aa6a9f456d158e4c0332816c7e65ec155", null ],
+    [ "KilledUnit", "da/dc3/a24070.html#a1973142412b4094dbd9fa51600741148", null ]
 ];

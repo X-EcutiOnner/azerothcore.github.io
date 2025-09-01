@@ -1,6 +1,5 @@
 var a27242 =
 [
-    [ "go_l70_etc_musicAI", "d4/d20/a27246.html", "d4/d20/a27246" ],
-    [ "go_l70_etc_music", "df/dea/a27242.html#a766dccca12fc7959273ba1e3a278564f", null ],
-    [ "GetAI", "df/dea/a27242.html#a5231ffc778830f8a49ae85a8c1173deb", null ]
+    [ "AreaTrigger_at_coilfang_waterfall", "df/dea/a27242.html#aa2e9a01adad7e195860bbc6c55131024", null ],
+    [ "OnTrigger", "df/dea/a27242.html#aea1c4b45ae855d0cda81dbad102b8104", null ]
 ];

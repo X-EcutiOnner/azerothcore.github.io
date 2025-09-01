@@ -1,8 +1,7 @@
 var a16846 =
 [
-    [ "npc_hor_leaderAI", "da/d72/a16850.html", "da/d72/a16850" ],
-    [ "npc_hor_leader", "dc/d5a/a16846.html#a5c8d6cce242d144755fb14879f7f17d3", null ],
-    [ "GetAI", "dc/d5a/a16846.html#a55e7357aa6dff1efdff08541e88413e9", null ],
-    [ "OnGossipHello", "dc/d5a/a16846.html#afb46ea0b6926ad5d9b87b1d6a5e04591", null ],
-    [ "OnGossipSelect", "dc/d5a/a16846.html#ab5d01ae2803bab43b2c701d0cb1d4280", null ]
+    [ "HandleScriptEffect", "dc/d5a/a16846.html#a51064b3a11f453724ae0879c80eaf8df", null ],
+    [ "PrepareSpellScript", "dc/d5a/a16846.html#aac26002ff107e609fb7258306b430f1b", null ],
+    [ "Register", "dc/d5a/a16846.html#a0efef7644706940e3929ce99cd162c91", null ],
+    [ "Validate", "dc/d5a/a16846.html#a7110d4136337d44aa0300ec82e5a6511", null ]
 ];

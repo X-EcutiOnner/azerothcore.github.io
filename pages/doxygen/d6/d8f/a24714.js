@@ -1,9 +1,9 @@
 var a24714 =
 [
-    [ "Absorb", "d6/d8f/a24714.html#a5d4b54569b16175ae84d3c94a1a6fcff", null ],
-    [ "CalculateAmount", "d6/d8f/a24714.html#a3800ed0d14eacf39a3930c1b5e139f85", null ],
-    [ "Load", "d6/d8f/a24714.html#a79e3012cb5c78851809d9f4c4d6c4487", null ],
-    [ "PrepareAuraScript", "d6/d8f/a24714.html#a1bdab939c229c466ce6b71a7e00dedf9", null ],
-    [ "Register", "d6/d8f/a24714.html#a47bd5ef93255a2d926874d6d70861374", null ],
-    [ "absorbPct", "d6/d8f/a24714.html#a0c067ba7bbfd5cde53f1323b5c2f47cb", null ]
+    [ "HandleAfterHit", "d6/d8f/a24714.html#ae1b4b01bd1a6903bcd594d2191e2770b", null ],
+    [ "Load", "d6/d8f/a24714.html#a7f0dae9dd4ead6ea10e8343810671282", null ],
+    [ "PrepareSpellScript", "d6/d8f/a24714.html#a293ff5d232851bce7cbc4a83aa8253b5", null ],
+    [ "Register", "d6/d8f/a24714.html#ae9eeb78d006bc01dd05fdd726dea9b90", null ],
+    [ "Validate", "d6/d8f/a24714.html#afdbb71f81aacc9ac1a5119707952ec52", null ],
+    [ "_executed", "d6/d8f/a24714.html#a2fe77cc280a5fa3bb324d969f1081b65", null ]
 ];

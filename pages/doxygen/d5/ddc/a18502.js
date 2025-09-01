@@ -1,6 +1,7 @@
 var a18502 =
 [
-    [ "npc_blazing_skeletonAI", "d4/dbe/a18506.html", "d4/dbe/a18506" ],
-    [ "npc_blazing_skeleton", "d5/ddc/a18502.html#a158720704479946048472ffe0beec492", null ],
-    [ "GetAI", "d5/ddc/a18502.html#af29ea4620ebafaa4d47ec9f37758af77", null ]
+    [ "PrepareSpellScript", "d5/ddc/a18502.html#a3283e829757b50bb52f66ee1e64033ae", null ],
+    [ "Register", "d5/ddc/a18502.html#a0162c92c32210f2873686610f4f00b87", null ],
+    [ "TriggerHeal", "d5/ddc/a18502.html#a3cdfca33a535bad0942beea24aefa1bb", null ],
+    [ "Validate", "d5/ddc/a18502.html#a6545fe9f40c0aed036192008a2d6e28e", null ]
 ];

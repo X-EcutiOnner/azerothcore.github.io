@@ -1,7 +1,6 @@
 var a15598 =
 [
-    [ "npc_kaya_flathoofAI", "d1/dbe/a15598.html#a3b43992dfeeb7b3b19e777b9629c55ce", null ],
-    [ "JustSummoned", "d1/dbe/a15598.html#ac365753a428009f4fc4d01ead8fe46fd", null ],
-    [ "Reset", "d1/dbe/a15598.html#af9be00be9867622a16103bd21311327f", null ],
-    [ "WaypointReached", "d1/dbe/a15598.html#a8fcbb19279b925138ba96d2a450fc404", null ]
+    [ "npc_tiger_matriarch_creditAI", "d7/de8/a15602.html", "d7/de8/a15602" ],
+    [ "npc_tiger_matriarch_credit", "d1/dbe/a15598.html#a9d76e8e808c828da501551025eecd8ea", null ],
+    [ "GetAI", "d1/dbe/a15598.html#ac4966a8ae43688204f97f9a1a7b4542d", null ]
 ];

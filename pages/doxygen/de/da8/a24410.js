@@ -1,9 +1,6 @@
 var a24410 =
 [
-    [ "npc_pet_gen_fetch_ball", "de/da8/a24410.html#a4cd4dabd5df72ad1e64bdc8d6efb2f1b", null ],
-    [ "IsSummonedBy", "de/da8/a24410.html#abaf6308f7c47fd05acb86055bec0aea8", null ],
-    [ "SpellHitTarget", "de/da8/a24410.html#a87bdded236f6584d9b71507a1253f7d0", null ],
-    [ "UpdateAI", "de/da8/a24410.html#a1e0f75d5cd438d500ad94c5024bf83ae", null ],
-    [ "checkTimer", "de/da8/a24410.html#ab8d0a3a9ba2a8e0d6f58b3867f20974e", null ],
-    [ "targetGUID", "de/da8/a24410.html#ae474374af7c2270e218ed236d90c789c", null ]
+    [ "npc_shadowmoon_tuber_nodeAI", "d4/d76/a24414.html", "d4/d76/a24414" ],
+    [ "npc_shadowmoon_tuber_node", "de/da8/a24410.html#a98e8c7a84789457900fa342cca209d41", null ],
+    [ "GetAI", "de/da8/a24410.html#a5f641af77e2fd78fe67b34fa18bf6b73", null ]
 ];

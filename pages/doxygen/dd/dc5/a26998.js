@@ -1,5 +1,8 @@
 var a26998 =
 [
-    [ "achievement_save_the_day", "dd/dc5/a26998.html#a193e4060b6634a87b499b7c8a5e287a1", null ],
-    [ "OnCheck", "dd/dc5/a26998.html#a95cfea6cd9ff955ba6800ebdf3a30eb7", null ]
+    [ "HandleDummyTick", "dd/dc5/a26998.html#ad35d90e5cdd68f4c1d3172a0860274bd", null ],
+    [ "HandleRemove", "dd/dc5/a26998.html#a92f2bb73ec58832eaada3c7140f7868d", null ],
+    [ "PrepareAuraScript", "dd/dc5/a26998.html#a06e45d5f63ef1395b5949482e8393098", null ],
+    [ "Register", "dd/dc5/a26998.html#abf1d49720ae43d4ed2fb1c2920387ace", null ],
+    [ "Validate", "dd/dc5/a26998.html#a9a2da4d163a96526e14f5de76798a784", null ]
 ];

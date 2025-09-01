@@ -1,7 +1,6 @@
 var a18386 =
 [
-    [ "HandleProc", "d7/df4/a18386.html#af06730a865009127c7d3e5423afd4d44", null ],
-    [ "PrepareAuraScript", "d7/df4/a18386.html#a71a81a19a0c543a4aa43d6bf002b7bb9", null ],
-    [ "Register", "d7/df4/a18386.html#a6c97b787ce00491a259c575d26189f8c", null ],
-    [ "Validate", "d7/df4/a18386.html#aed9c98e20d916359629e119d6dd2a94f", null ]
+    [ "npc_tirion_fordringAI", "de/d9a/a18390.html", "de/d9a/a18390" ],
+    [ "npc_tirion_fordring_tft", "d7/df4/a18386.html#a04036d958e7ac643c9ba8d9073bca404", null ],
+    [ "GetAI", "d7/df4/a18386.html#a41dcfa415831091531cbf46e946f442d", null ]
 ];

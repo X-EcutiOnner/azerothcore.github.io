@@ -1,6 +1,7 @@
 var a26402 =
 [
-    [ "HandleDummy", "d0/daf/a26402.html#aee5967205738ebaef70e1105e8d91b2c", null ],
-    [ "PrepareSpellScript", "d0/daf/a26402.html#a1ef5914adfd2c951a68f50658852e095", null ],
-    [ "Register", "d0/daf/a26402.html#af42b6d5a5fbb5eb84773818594813afc", null ]
+    [ "HandleHeal", "d0/daf/a26402.html#a22e3dd3ac57c7cb95162ee56ab43bc93", null ],
+    [ "PrepareSpellScript", "d0/daf/a26402.html#a9de9260bc1e2582138c58a708e5d899c", null ],
+    [ "Register", "d0/daf/a26402.html#ab613ce86521f1381b79f6f9f3eaea3cc", null ],
+    [ "Validate", "d0/daf/a26402.html#aa300822cf5455404482124a6853fb314", null ]
 ];

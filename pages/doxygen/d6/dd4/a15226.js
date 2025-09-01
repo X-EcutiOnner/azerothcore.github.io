@@ -1,6 +1,7 @@
 var a15226 =
 [
-    [ "aqsentinelAI", "dc/d61/a15230.html", "dc/d61/a15230" ],
-    [ "npc_anubisath_sentinel", "d6/dd4/a15226.html#ada1ab0d1857fe52020e798d9710a66cb", null ],
-    [ "GetAI", "d6/dd4/a15226.html#ae19b8ba3766ede8f715dad5ff8d4b2d2", null ]
+    [ "npc_hivezara_stinger", "d6/dd4/a15226.html#ac9438c9dd260a41d6248f2adcc14b555", null ],
+    [ "JustEngagedWith", "d6/dd4/a15226.html#a433d31057f1732ef7ef15d2023e18b8a", null ],
+    [ "Reset", "d6/dd4/a15226.html#ae8e893c90942a469628c393d5b5380cc", null ],
+    [ "UpdateAI", "d6/dd4/a15226.html#a35a6511ebc0301ae0bb22aafc91c8524", null ]
 ];

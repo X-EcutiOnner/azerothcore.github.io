@@ -1,7 +1,12 @@
 var a10726 =
 [
-    [ "GuildBankLogQueryResults", "d4/dde/a10726.html#a878f9545b3141a327de85771de4f1779", null ],
-    [ "Write", "d4/dde/a10726.html#aafdb5114c7d0e8a2d18a848f3c94aa38", null ],
-    [ "Entry", "d4/dde/a10726.html#a5f3704df5311f06833c3243201d35930", null ],
-    [ "Tab", "d4/dde/a10726.html#a214db612bb08e557dd41d3962c827dca", null ]
+    [ "Charges", "d4/dde/a10726.html#ada45d7e00efb3bf27afcf9db1ad4d813", null ],
+    [ "Count", "d4/dde/a10726.html#a6f31a3d750d5c5f1b316f05e7ad9dbe9", null ],
+    [ "EnchantmentID", "d4/dde/a10726.html#a249a204f5d72d42f562c989b1cb92fc9", null ],
+    [ "Flags", "d4/dde/a10726.html#a3ca816132a756d3dc939877c57f6045d", null ],
+    [ "ItemID", "d4/dde/a10726.html#a5dc7e8b40834dba07c63322d80ed73ae", null ],
+    [ "RandomPropertiesID", "d4/dde/a10726.html#ad98a20548478fe99f9d6d345c5a3b732", null ],
+    [ "RandomPropertiesSeed", "d4/dde/a10726.html#ae5d493dd4798e11f02d8f02a57ba4274", null ],
+    [ "Slot", "d4/dde/a10726.html#afcc0a78c2f9a3061830679fece476a64", null ],
+    [ "SocketEnchant", "d4/dde/a10726.html#a55545d4d1b752e4f08bd05350b22892c", null ]
 ];

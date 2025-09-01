@@ -1,13 +1,17 @@
 var a11102 =
 [
-    [ "alive", "d3/ddb/a11102.html#aebeb2f67bf8646770570e5564fb01d4d", null ],
-    [ "crit", "d3/ddb/a11102.html#a908278bd46f9be3e1191f4883f9eb32f", null ],
-    [ "damage", "d3/ddb/a11102.html#a5bdf23f41a4a748f96dd9fffa8e8a838", null ],
-    [ "effectMask", "d3/ddb/a11102.html#afb839b2b409a61e4d63de03dbce2abcb", null ],
-    [ "missCondition", "d3/ddb/a11102.html#a6c17740427f4f90c7c2e4fb4854ab4b3", null ],
-    [ "processed", "d3/ddb/a11102.html#a2de96d62297ff614fc3702bec035ce5b", null ],
-    [ "reflectResult", "d3/ddb/a11102.html#add2beb55eb3313e474d947fd3eb1fc65", null ],
-    [ "scaleAura", "d3/ddb/a11102.html#a89bba366b26686d41288e9b2e725eb75", null ],
-    [ "targetGUID", "d3/ddb/a11102.html#acf55c1dd6f00c94296c592d988f959cf", null ],
-    [ "timeDelay", "d3/ddb/a11102.html#abcf1acd0c3d50c2264253dc9c052795a", null ]
+    [ "WorldPacket", "d3/ddb/a11102.html#a6329945c46586b75f41f4f3b0410a046", null ],
+    [ "WorldPacket", "d3/ddb/a11102.html#a121222c627cfce905891be1611705a1a", null ],
+    [ "WorldPacket", "d3/ddb/a11102.html#af406fe2f357035990fd5eccf37f3fb93", null ],
+    [ "WorldPacket", "d3/ddb/a11102.html#a2880e36e172096407778fcbbdfe917bc", null ],
+    [ "WorldPacket", "d3/ddb/a11102.html#a251580581b403cc113aa743c0196ceea", null ],
+    [ "WorldPacket", "d3/ddb/a11102.html#a224a2ad18da5d8dd7a7bcbb887870243", null ],
+    [ "GetOpcode", "d3/ddb/a11102.html#a666547feae3b83bfbba424a541287239", null ],
+    [ "GetReceivedTime", "d3/ddb/a11102.html#a467aa36509adcb07f51bc8af24137c3e", null ],
+    [ "Initialize", "d3/ddb/a11102.html#a6b7d58fb0230383629fa888d3aa9dbd8", null ],
+    [ "operator=", "d3/ddb/a11102.html#ad44064a3c2c73f6289a9db539b408f50", null ],
+    [ "operator=", "d3/ddb/a11102.html#aa1196a05e7b338543b3b94188e59721f", null ],
+    [ "SetOpcode", "d3/ddb/a11102.html#acb55a3f9540c39bf88300473c29605ed", null ],
+    [ "m_opcode", "d3/ddb/a11102.html#a4ff77d8a27744f07bbab70cdc4a3ef91", null ],
+    [ "m_receivedTime", "d3/ddb/a11102.html#abb78776ad3a0f19e5e3d226666612b49", null ]
 ];

@@ -1,5 +1,8 @@
 var a26990 =
 [
-    [ "achievement_resilient_victory", "d5/dcc/a26990.html#a6224c8a4b1b1ee7c1ab09d8873e86aa8", null ],
-    [ "OnCheck", "d5/dcc/a26990.html#a21445d406f67771a20608260b3f9b033", null ]
+    [ "CheckProc", "d5/dcc/a26990.html#afcda3b112699e108e2db6270836fce1b", null ],
+    [ "OnProc", "d5/dcc/a26990.html#ab953f817368120933828d6b3e5e200c0", null ],
+    [ "PrepareAuraScript", "d5/dcc/a26990.html#a33381b811abcd52f7a57e0f62fa73e5f", null ],
+    [ "Register", "d5/dcc/a26990.html#abfdd5179215432a3e89ea7b498d49867", null ],
+    [ "Validate", "d5/dcc/a26990.html#a19e8f1b9aab5ee4e718b304c87303627", null ]
 ];

@@ -1,6 +1,6 @@
 var a11270 =
 [
-    [ "HitHandler", "d9/d3d/a11270.html#a41c5a6853bf72c113388995dc3ebaba7", null ],
-    [ "Call", "d9/d3d/a11270.html#a157baaa3ceba62a9910cba5377bd7699", null ],
-    [ "pHitHandlerScript", "d9/d3d/a11270.html#ac24144e49930a01a3049740a4072f626", null ]
+    [ "WorldObjectSpellConeTargetCheck", "d9/d3d/a11270.html#a51fa6de40d065bd7ba52f4dc982f9a5e", null ],
+    [ "operator()", "d9/d3d/a11270.html#ac66207a4d1dbc9f59269127ee91f0657", null ],
+    [ "_coneAngle", "d9/d3d/a11270.html#a8f946789292320ea8b205dec5d1e1975", null ]
 ];

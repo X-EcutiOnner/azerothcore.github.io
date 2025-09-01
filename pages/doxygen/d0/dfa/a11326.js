@@ -1,7 +1,5 @@
 var a11326 =
 [
-    [ "EffectApplyHandler", "d0/dfa/a11326.html#a7ab5f0786000c217e2fc71201a8990b6", null ],
-    [ "Call", "d0/dfa/a11326.html#a4c02a1b42d7b3a02633dc9600b0e09bb", null ],
-    [ "mode", "d0/dfa/a11326.html#ac776375c5a5de321edc572c87e983193", null ],
-    [ "pEffectHandlerScript", "d0/dfa/a11326.html#acd715556a7661f688ce0de9afe62250a", null ]
+    [ "groupId", "d0/dfa/a11326.html#a71a218d1ea3241f0c72205f7e2f34125", null ],
+    [ "specialFlags", "d0/dfa/a11326.html#a2232afb6a6b05e5ea33f40992a09621d", null ]
 ];

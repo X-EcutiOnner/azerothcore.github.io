@@ -1,6 +1,6 @@
 var a20242 =
 [
-    [ "DestroyWinterCache", "d9/d1d/a20242.html#a4f4d8998d611354bce4f5531e6029d6b", null ],
-    [ "PrepareSpellScript", "d9/d1d/a20242.html#a67e36939554e13ddb7fb7493968fbc3f", null ],
-    [ "Register", "d9/d1d/a20242.html#a5ac6314b0a016adafd7c6e87289b5649", null ]
+    [ "boss_freya_iron_rootAI", "d2/d9b/a20246.html", "d2/d9b/a20246" ],
+    [ "boss_freya_iron_root", "d9/d1d/a20242.html#a9478144d6cb72d08698cbfc50893935b", null ],
+    [ "GetAI", "d9/d1d/a20242.html#acdda736e9259d59a30a40d989e70f95c", null ]
 ];

@@ -1,7 +1,13 @@
 var a27658 =
 [
-    [ "npc_venomhide_hatchlingAI", "de/d61/a27662.html", "de/d61/a27662" ],
-    [ "npc_venomhide_hatchling", "dd/d1b/a27658.html#a4dc217dd5950db7b270b7cce3e594e4d", null ],
-    [ "GetAI", "dd/d1b/a27658.html#a96110b752965d751ab7b466c4f67e333", null ],
-    [ "OnGossipHello", "dd/d1b/a27658.html#a404d875592b847ddb9f3250c9d954bfc", null ]
+    [ "npc_nelsonAI", "dd/d1b/a27658.html#af6aada5c34048ce6bda6d5c1541e0bf3", null ],
+    [ "DoAction", "dd/d1b/a27658.html#a13ec2adee9d671f949139dbf94c75cc3", null ],
+    [ "JustEngagedWith", "dd/d1b/a27658.html#accb9aeb3b3f3fc2233598b7fef40c3ec", null ],
+    [ "JustSummoned", "dd/d1b/a27658.html#a31d622d73a2540e159720d4c8ddc7d00", null ],
+    [ "Reset", "dd/d1b/a27658.html#a05fcb98153f0a24f50004f465d8f3c72", null ],
+    [ "SpellHit", "dd/d1b/a27658.html#afab81d8a6077c755c186bb619944d78d", null ],
+    [ "SummonedCreatureDies", "dd/d1b/a27658.html#ab3753c9b6848c1567ac596a5f6b498a1", null ],
+    [ "UpdateAI", "dd/d1b/a27658.html#ac68749942f37de5f9105556fe7b904b7", null ],
+    [ "events", "dd/d1b/a27658.html#a25eb289b79de306bbdc0dd099b23a2a0", null ],
+    [ "shouldDespawn", "dd/d1b/a27658.html#a09a68f903854fcedd8a4b2ee4c2597e2", null ]
 ];

@@ -1,6 +1,6 @@
 var a22502 =
 [
-    [ "OutdoorPvPGH", "d3/d0e/a22502.html#a619492e0a1fdf75f37554a2f19268660", null ],
-    [ "SendRemoveWorldStates", "d3/d0e/a22502.html#a92c7e489717072ddc34f707fbe462cb2", null ],
-    [ "SetupOutdoorPvP", "d3/d0e/a22502.html#a3d62cb27cfa415c9ba7fe5c18384a75d", null ]
+    [ "npc_vehicle_d16_propelled_deliveryAI", "d3/d0e/a22502.html#afd54b130725aa724b80f150f968ce09d", null ],
+    [ "MovementInform", "d3/d0e/a22502.html#a37800436af47a8f6fbc6f6eb25eab9f9", null ],
+    [ "PassengerBoarded", "d3/d0e/a22502.html#a588ed86f5b8316feafd938d85ac65aa0", null ]
 ];

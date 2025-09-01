@@ -1,6 +1,5 @@
 var a18026 =
 [
-    [ "LastPhaseIceTombTargetSelector", "da/dd5/a18026.html#ac01f20b199bb0ee63b9c8f8206321057", null ],
-    [ "operator()", "da/dd5/a18026.html#a92a846ff557334b1f30d8e062a2c64e9", null ],
-    [ "_source", "da/dd5/a18026.html#ab10d10dd0de7717078d31ac026d4c933", null ]
+    [ "npc_volatile_oozeAI", "da/dd5/a18026.html#af042d4c22482aabcdad6fa867dfe093f", null ],
+    [ "CastMainSpell", "da/dd5/a18026.html#a91890785174ecc60c9553a0aedf1961b", null ]
 ];

@@ -1,7 +1,9 @@
 var a28270 =
 [
-    [ "AllocationPct", "dc/db2/a28270.html#a45d752dfd00a75f69d919a88573ba4fc", null ],
-    [ "Enchantment", "dc/db2/a28270.html#a45e694082c1dbdeef5229561f617d584", null ],
-    [ "ID", "dc/db2/a28270.html#a66d78860d81c497765b5e68b5fd2ae18", null ],
-    [ "Name", "dc/db2/a28270.html#a3ee4d8152817e10b873de5ec36ba062b", null ]
+    [ "CinematicSequence", "dc/db2/a28270.html#a7a0a35bbb69320565d991f4a349dc01b", null ],
+    [ "ClassID", "dc/db2/a28270.html#a9da8d8d20126e9dc161b1dd64a19fe59", null ],
+    [ "expansion", "dc/db2/a28270.html#a7c57eabd8d94849cd8536b013a8d4138", null ],
+    [ "name", "dc/db2/a28270.html#a2d0b7155b03af29bd982f31eba26ec24", null ],
+    [ "powerType", "dc/db2/a28270.html#a74aec35dc161a7e830453b9365a6f107", null ],
+    [ "spellfamily", "dc/db2/a28270.html#a43fbe48c99e297ea09e9e1f2edd6a4ea", null ]
 ];

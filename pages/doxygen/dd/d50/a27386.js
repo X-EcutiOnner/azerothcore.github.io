@@ -1,6 +1,9 @@
 var a27386 =
 [
-    [ "guard_shattrath_aldorAI", "d5/d36/a27390.html", "d5/d36/a27390" ],
-    [ "guard_shattrath_aldor", "dd/d50/a27386.html#ab965295d9c3828ad814f658670b5f185", null ],
-    [ "GetAI", "dd/d50/a27386.html#a3459a6a85c7e7286e3cbdd7f56fee704", null ]
+    [ "go_tadpole_cageAI", "dd/d50/a27386.html#a87dc192a13cecf834d49cd04451224cd", null ],
+    [ "GossipHello", "dd/d50/a27386.html#a5c59db4b4d21b9e7de9bbb8835f31f2a", null ],
+    [ "OnStateChanged", "dd/d50/a27386.html#aa545ba4659b288c1ce1f5c2332d5e61f", null ],
+    [ "SummonTadpoles", "dd/d50/a27386.html#ab4903827c78b1b042cc17aef661a0b4f", null ],
+    [ "UpdateAI", "dd/d50/a27386.html#af6d4f5c3fe822815f58665a0207e3c32", null ],
+    [ "requireSummon", "dd/d50/a27386.html#a9884081855fc45776a6b12b9a68890e4", null ]
 ];

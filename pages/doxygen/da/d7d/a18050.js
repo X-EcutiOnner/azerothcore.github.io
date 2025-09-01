@@ -1,6 +1,6 @@
 var a18050 =
 [
-    [ "UnchainedMagicTargetSelector", "da/d7d/a18050.html#ae412c72884e6cfb1ceef8ed9fb347fbf", null ],
-    [ "operator()", "da/d7d/a18050.html#af28ce8f46154ae6152e9025775a7f84f", null ],
-    [ "_removeHealers", "da/d7d/a18050.html#a35a7981ce5495cba8b3a5391e4031431", null ]
+    [ "HandleScript", "da/d7d/a18050.html#aefdd306b81b44a0a5564eab5a0491e09", null ],
+    [ "PrepareSpellScript", "da/d7d/a18050.html#a68c0462bd108b04621f8288328f78b18", null ],
+    [ "Register", "da/d7d/a18050.html#aedaec0afc414800bc481a434592ffb5d", null ]
 ];

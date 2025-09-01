@@ -1,5 +1,6 @@
 var a19314 =
 [
-    [ "achievement_chaos_theory", "dc/d06/a19314.html#a3068009fa1fb400439a2c72f00296484", null ],
-    [ "OnCheck", "dc/d06/a19314.html#a68d9a577cb7e005d81f52077707e3555", null ]
+    [ "boss_razuvious_minionAI", "d9/d0e/a19318.html", "d9/d0e/a19318" ],
+    [ "boss_razuvious_minion", "dc/d06/a19314.html#ae23d51c9ebfe31f624a749578d27252c", null ],
+    [ "GetAI", "dc/d06/a19314.html#afab8dccbc0b098a1fa058ef8479ba865", null ]
 ];

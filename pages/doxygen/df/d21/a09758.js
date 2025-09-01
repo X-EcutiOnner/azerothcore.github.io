@@ -1,9 +1,8 @@
 var a09758 =
 [
-    [ "RectangleBoundary", "df/d21/a09758.html#af401f84700a15fa1d4fcf78358a74735", null ],
-    [ "IsWithinBoundaryArea", "df/d21/a09758.html#a2d6c735d080382263a401d91da37b934", null ],
-    [ "_maxX", "df/d21/a09758.html#a3eff421dfe942634814e7526334f1c07", null ],
-    [ "_maxY", "df/d21/a09758.html#a9ec96dfb6b1ee804cceaae2f2dce6a22", null ],
-    [ "_minX", "df/d21/a09758.html#a77db64ebe7e7f5e9621bbbd6e38837e1", null ],
-    [ "_minY", "df/d21/a09758.html#af5a7e35d5d9ff23c722643141f01a916", null ]
+    [ "ServerMailCondition", "df/d21/a09758.html#a2ee7d2f3587159c95883fe32674cb586", null ],
+    [ "CheckCondition", "df/d21/a09758.html#a3c223658629357f05d8879555717f624", null ],
+    [ "state", "df/d21/a09758.html#a309f739872afaf644331335b27649561", null ],
+    [ "type", "df/d21/a09758.html#a3b318e7743ca48fcf8ba849398a06968", null ],
+    [ "value", "df/d21/a09758.html#af709199aed99633cc70d9118ee4fd4fc", null ]
 ];

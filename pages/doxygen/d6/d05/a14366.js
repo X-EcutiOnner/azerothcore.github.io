@@ -1,8 +1,6 @@
 var a14366 =
 [
-    [ "HandleDummy", "d6/d05/a14366.html#a47b5a6741f2782359449dcaebd40fe1c", null ],
-    [ "Load", "d6/d05/a14366.html#a7877187ad7afb2dfbd28fb7c74d40478", null ],
-    [ "PrepareSpellScript", "d6/d05/a14366.html#af1d1ad32d41d79008d650b388353346b", null ],
-    [ "Register", "d6/d05/a14366.html#a53a7c4c025324b205a29f92dd48aefde", null ],
-    [ "handled", "d6/d05/a14366.html#acf3a9296a36f131f852afbf60beb7ea4", null ]
+    [ "HandleAfterHit", "d6/d05/a14366.html#a4a3122d1b69baeae76f1ae3b6818bfb5", null ],
+    [ "PrepareSpellScript", "d6/d05/a14366.html#a284796ec70bdfaea9919f54da94f0021", null ],
+    [ "Register", "d6/d05/a14366.html#a30dcb608c20df17de9597ece1930d59d", null ]
 ];

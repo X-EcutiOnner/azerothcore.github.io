@@ -1,15 +1,18 @@
 var a02354 =
 [
-    [ "boss_hydromancer_thespia", "d2/da7/a23404.html", "d2/da7/a23404" ],
-    [ "HydromancerThespia", "d3/d12/a02354.html#a3f4b673ff8add0ad1c96080f6252130d", [
-      [ "SAY_SUMMON", "d3/d12/a02354.html#a3f4b673ff8add0ad1c96080f6252130dacebbfa1f13b8de4f039f5d550063c7bf", null ],
-      [ "SAY_AGGRO", "d3/d12/a02354.html#a3f4b673ff8add0ad1c96080f6252130da47c752fff069f3e55065795eef2a9bfe", null ],
-      [ "SAY_SLAY", "d3/d12/a02354.html#a3f4b673ff8add0ad1c96080f6252130da9e64f6e600dd42567d18006912811f75", null ],
-      [ "SAY_DEAD", "d3/d12/a02354.html#a3f4b673ff8add0ad1c96080f6252130dafeeb59e6533ea7f2f818422052e0b671", null ],
-      [ "SAY_SPELL", "d3/d12/a02354.html#a3f4b673ff8add0ad1c96080f6252130dad25383e2c00eeae2e4b15e33298d79a2", null ],
-      [ "SPELL_LIGHTNING_CLOUD", "d3/d12/a02354.html#a3f4b673ff8add0ad1c96080f6252130dae91e1d3d8c305d3f37313774206628f2", null ],
-      [ "SPELL_LUNG_BURST", "d3/d12/a02354.html#a3f4b673ff8add0ad1c96080f6252130da56e2d21d9894c6b11ae15da9572894c6", null ],
-      [ "SPELL_ENVELOPING_WINDS", "d3/d12/a02354.html#a3f4b673ff8add0ad1c96080f6252130dacf98b779c795324d47e44b043eeacf92", null ]
+    [ "npc_maredis_firestar", "d1/d01/a13682.html", "d1/d01/a13682" ],
+    [ "npc_maredis_firestar::npc_maredis_firestarAI", "dc/d7b/a13686.html", "dc/d7b/a13686" ],
+    [ "MaredisFirestar", "d3/d12/a02354.html#a85e4eeb368c070d1186f1c7c07ab1a42", [
+      [ "ITEM_LIBRAM_OF_RUMINATION", "d3/d12/a02354.html#a85e4eeb368c070d1186f1c7c07ab1a42a677909b58ffc52e1a197d376f77a711e", null ],
+      [ "ITEM_LIBRAM_OF_CONSTITUTION", "d3/d12/a02354.html#a85e4eeb368c070d1186f1c7c07ab1a42a160f2d52664367620f0ef85b255b3277", null ],
+      [ "ITEM_LIBRAM_OF_TENACITY", "d3/d12/a02354.html#a85e4eeb368c070d1186f1c7c07ab1a42acee05c856cffac557e6f7f8b4b32f173", null ],
+      [ "ITEM_LIBRAM_OF_RESILIENCE", "d3/d12/a02354.html#a85e4eeb368c070d1186f1c7c07ab1a42a1dc0b7882355b2615ad112a6ffb2d5eb", null ],
+      [ "ITEM_LIBRAM_OF_VORACITY", "d3/d12/a02354.html#a85e4eeb368c070d1186f1c7c07ab1a42a500bb7292e2d51375145250bffb2031f", null ],
+      [ "GOSSIP_LIBRAM_OF_RUMINATION", "d3/d12/a02354.html#a85e4eeb368c070d1186f1c7c07ab1a42a25fa31f89537239dc264cdc4afa11c44", null ],
+      [ "GOSSIP_LIBRAM_OF_CONSTITUTION", "d3/d12/a02354.html#a85e4eeb368c070d1186f1c7c07ab1a42ab11fb925c43c8e71171b5468f9bfbb41", null ],
+      [ "GOSSIP_LIBRAM_OF_TENACITY", "d3/d12/a02354.html#a85e4eeb368c070d1186f1c7c07ab1a42a7e1d61976fe826333b77ae3822af1d4e", null ],
+      [ "GOSSIP_LIBRAM_OF_RESILIENCE", "d3/d12/a02354.html#a85e4eeb368c070d1186f1c7c07ab1a42a5c617ffeaa015ea23b065a79ac6e8bde", null ],
+      [ "GOSSIP_LIBRAM_OF_VORACITY", "d3/d12/a02354.html#a85e4eeb368c070d1186f1c7c07ab1a42a2bc47c8c26124b40bfcf34e4fc21d733", null ]
     ] ],
-    [ "AddSC_boss_hydromancer_thespia", "d3/d12/a02354.html#a0a9bb9014bd5526d13141dcef207c234", null ]
+    [ "AddSC_burning_steppes", "d3/d12/a02354.html#a8cf2165dba1d5e845d5e20fbc1ce33d6", null ]
 ];

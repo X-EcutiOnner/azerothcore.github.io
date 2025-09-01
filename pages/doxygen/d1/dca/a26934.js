@@ -1,6 +1,6 @@
 var a26934 =
 [
-    [ "HandleDummy", "d1/dca/a26934.html#a68a86f7f86324336dc837622e01fa6af", null ],
-    [ "PrepareSpellScript", "d1/dca/a26934.html#a8c0a4b3b96a93b6977c2d3077fdfff1d", null ],
-    [ "Register", "d1/dca/a26934.html#ad168c9164d1edd23abfbf05141b96de4", null ]
+    [ "CheckCast", "d1/dca/a26934.html#acdb69e605c4e3b5eb3e48f400957db28", null ],
+    [ "PrepareSpellScript", "d1/dca/a26934.html#a1fb9a924ddba358d6d67943c5b2ffa24", null ],
+    [ "Register", "d1/dca/a26934.html#a703b21a93ba41211ac6e6ee182eecb8b", null ]
 ];

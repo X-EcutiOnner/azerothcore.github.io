@@ -1,7 +1,8 @@
 var a14558 =
 [
-    [ "HandleScript", "d0/d2c/a14558.html#adc8ab610e3b816dcce57fe44b6585bdb", null ],
-    [ "PrepareSpellScript", "d0/d2c/a14558.html#a05059d25127cd8d3aa51e4374963f9d9", null ],
-    [ "Register", "d0/d2c/a14558.html#aabe7d4213bbafdb6d072ba50bcfd1793", null ],
-    [ "Validate", "d0/d2c/a14558.html#aa1e74de390a8b71e43e43664981a36ff", null ]
+    [ "npc_hallows_end_train_fire", "d0/d2c/a14558.html#a0aacc53a7410590e8d1f05aa8d3e37ba", null ],
+    [ "Reset", "d0/d2c/a14558.html#afdda52e0adce23f56fa9d1357469a17d", null ],
+    [ "SpellHit", "d0/d2c/a14558.html#a5767b2a5a2ca1813812cf078b0dd1189", null ],
+    [ "UpdateAI", "d0/d2c/a14558.html#a686a565e1743c31166d8d57f67a0adce", null ],
+    [ "timer", "d0/d2c/a14558.html#a7fa7d23a587ab632d1b9a2b803f83cd4", null ]
 ];

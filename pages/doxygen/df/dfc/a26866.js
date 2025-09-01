@@ -1,10 +1,7 @@
 var a26866 =
 [
-    [ "CheckProc", "df/dfc/a26866.html#a257202ac9b80a67ce58d9e3491164d22", null ],
-    [ "HandleProc", "df/dfc/a26866.html#aa3c74b25fbe63ac77e10260159adb8ca", null ],
-    [ "HandleTick", "df/dfc/a26866.html#a5e436c530e5ef70bc4de4305676ed196", null ],
-    [ "PrepareAuraScript", "df/dfc/a26866.html#aef7d1a2bbd59af36cc130f07e1204081", null ],
-    [ "Register", "df/dfc/a26866.html#a11b0120ea8c8ccf1c96e5d1053d64895", null ],
-    [ "RemoveEffect", "df/dfc/a26866.html#a333ad80d8478f59713ee049f935d7885", null ],
-    [ "Validate", "df/dfc/a26866.html#aed3cb37f0230463978b210add84bd31d", null ]
+    [ "HandleDummy", "df/dfc/a26866.html#a00d36b914f5fd0466ae775e1fc95aa4f", null ],
+    [ "PrepareSpellScript", "df/dfc/a26866.html#a86a5c2b8ff373af7e98645b8b380145c", null ],
+    [ "Register", "df/dfc/a26866.html#a1b879ab84b8d6227ee5b2cccccd38bc2", null ],
+    [ "Validate", "df/dfc/a26866.html#aa7d437146a96bb40c1a66a453e3e4339", null ]
 ];

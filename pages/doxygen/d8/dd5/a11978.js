@@ -1,5 +1,5 @@
 var a11978 =
 [
-    [ "boss_high_priestess_thaurissan", "d8/dd5/a11978.html#a53d3fd78f6a1a3b5028c6fc2940dfbd0", null ],
-    [ "GetAI", "d8/dd5/a11978.html#a7d2bb83a766b8eaa9bdbbb0f45a4fe62", null ]
+    [ "at_ring_of_law", "d8/dd5/a11978.html#ad9bb44e898f90fb489b50cad0a711976", null ],
+    [ "OnTrigger", "d8/dd5/a11978.html#a613471caae75ab3d82ce915101a20108", null ]
 ];

@@ -1,5 +1,5 @@
 var a00296 =
 [
-    [ "MAP_FILE_NAME_FORMAT", "db/d7b/a00296.html#a1d57d156046bda88886b7488ab0b83bc", null ],
-    [ "TILE_FILE_NAME_FORMAT", "db/d7b/a00296.html#a27e34ce3b8808f2aa889e5c4e623059a", null ]
+    [ "HMAC_RESULT_SIZE", "db/d7b/a00296.html#abdb09168f87cd99a498636550843012d", null ],
+    [ "TOTP_INTERVAL", "db/d7b/a00296.html#abcaccdfb09251b1b2856cc0c48c64eda", null ]
 ];

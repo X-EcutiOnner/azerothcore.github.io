@@ -1,6 +1,7 @@
 var a19922 =
 [
-    [ "npc_pool_of_tarAI", "d0/d03/a19926.html", "d0/d03/a19926" ],
-    [ "npc_pool_of_tar", "d9/d18/a19922.html#a9c585318b4507babe77b3ba758b06a87", null ],
-    [ "GetAI", "d9/d18/a19922.html#ae77bf48a72ce49f821085f32127e91dc", null ]
+    [ "HandlePeriodic", "d9/d18/a19922.html#a14fd25f78c9e2bfbdaeb07f3233628b6", null ],
+    [ "PrepareAuraScript", "d9/d18/a19922.html#ad78b06733a8609dd39e885db2f23edba", null ],
+    [ "Register", "d9/d18/a19922.html#ac9ae9be546964752869163896c4045dd", null ],
+    [ "Validate", "d9/d18/a19922.html#afcca84d03b29ef7569c03f973a6c191b", null ]
 ];

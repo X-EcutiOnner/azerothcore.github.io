@@ -1,9 +1,6 @@
 var a28430 =
 [
-    [ "Category", "d8/dd0/a28430.html#acd933f251a1faa1f705420307136681d", null ],
-    [ "Faction", "d8/dd0/a28430.html#a4876df0f9a92e10634b7bc0b389ade00", null ],
-    [ "Flags", "d8/dd0/a28430.html#a8b41ed573eae71196664a61bac83fe3e", null ],
-    [ "Id", "d8/dd0/a28430.html#ae0b89d5ae5f82b4f807a2f8dbbec351a", null ],
-    [ "Slot", "d8/dd0/a28430.html#a24449c3e3fd89ae3dbe4be3f64248115", null ],
-    [ "Type", "d8/dd0/a28430.html#aa1cbad19aaa973e21fdbd74cec5119f6", null ]
+    [ "ID", "d8/dd0/a28430.html#a7d40e334785d96a2e57d28f87a59778a", null ],
+    [ "maxCount", "d8/dd0/a28430.html#a5edc6442e026b12dae654fa86440a11a", null ],
+    [ "mode", "d8/dd0/a28430.html#a76553ecf9f880a5e5967f818123742fd", null ]
 ];

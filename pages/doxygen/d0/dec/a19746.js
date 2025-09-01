@@ -1,9 +1,7 @@
 var a19746 =
 [
-    [ "CheckTargets", "d0/dec/a19746.html#a9340c167ef70508635092e273c23dcde", null ],
-    [ "CountTargets", "d0/dec/a19746.html#a996db37b678143fbc0a392032d29fff5", null ],
-    [ "Load", "d0/dec/a19746.html#a716bcf5bb0a24f9a57534c9dafb1a56f", null ],
-    [ "PrepareSpellScript", "d0/dec/a19746.html#a0b68ca6bdfe0f7c84236e5fe509d8fd9", null ],
-    [ "Register", "d0/dec/a19746.html#aed312a4408134589fd02bbcb844fd1b7", null ],
-    [ "_targetCount", "d0/dec/a19746.html#ac780614674e748274081f9f99a5165fe", null ]
+    [ "HandleScript", "d0/dec/a19746.html#a5d778f906e1ee820cc97b0b32839cc78", null ],
+    [ "PrepareSpellScript", "d0/dec/a19746.html#a34337690029eedb60a17572dbbf1e1f9", null ],
+    [ "Register", "d0/dec/a19746.html#ad554d79e1a98490085b22f5038d058da", null ],
+    [ "Validate", "d0/dec/a19746.html#a0932ccc5652bc4901aacbe2cf8d6c7d8", null ]
 ];

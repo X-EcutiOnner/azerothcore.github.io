@@ -1,6 +1,8 @@
 var a11098 =
 [
-    [ "ChannelTargetData", "dc/da6/a11098.html#a26f2a2037750712d8718d9537603e3a1", null ],
-    [ "channelGUID", "dc/da6/a11098.html#afad1c896d6a137ebb224fd636ba4d7f2", null ],
-    [ "spellDst", "dc/da6/a11098.html#aa5cfec093a599f4bf33ebf0c73a2f4ac", null ]
+    [ "ServerPktHeader", "dc/da6/a11098.html#a761e294fccc02055a46bfc46656da706", null ],
+    [ "getHeaderLength", "dc/da6/a11098.html#a75ff3550b7794fed0e69bfc4d1418dee", null ],
+    [ "isLargePacket", "dc/da6/a11098.html#a4f4e13fc8e2a6ec6de70f4432f25ffe2", null ],
+    [ "header", "dc/da6/a11098.html#adc69128832b16124c284c584e7540b11", null ],
+    [ "size", "dc/da6/a11098.html#a5d5cf573cebe47a10e3f17b840c7a4e1", null ]
 ];

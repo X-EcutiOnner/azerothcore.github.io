@@ -1,6 +1,7 @@
 var a15538 =
 [
-    [ "Creature", "d4/d0b/a15538.html#a77b33f8998f85808b58052079b1cab54", null ],
-    [ "TextId", "d4/d0b/a15538.html#ad691f3cd40035e96547adf7528229119", null ],
-    [ "Timer", "d4/d0b/a15538.html#accfccceaedffb3ad4d02231fb0bfeee5", null ]
+    [ "npc_webbed_creatureAI", "d4/d0b/a15538.html#a6b7507eda84c29d6bd557b1b424ee10a", null ],
+    [ "JustDied", "d4/d0b/a15538.html#a153d461124ec9266ffcac147a217f6d9", null ],
+    [ "JustEngagedWith", "d4/d0b/a15538.html#ac52ad6512bcaee35932f856abdac80d4", null ],
+    [ "Reset", "d4/d0b/a15538.html#a459eaadd7f0145b7a1a6caf99d1e8a5d", null ]
 ];

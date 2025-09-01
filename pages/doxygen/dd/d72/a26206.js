@@ -1,10 +1,10 @@
 var a26206 =
 [
-    [ "CheckProc", "dd/d72/a26206.html#adce0da60782bcdadbb42ec1c73fddec1", null ],
-    [ "HandleProc", "dd/d72/a26206.html#a82218c6f6319c60c26a7d4ec01b64bf9", null ],
-    [ "Load", "dd/d72/a26206.html#ab9054a6d771022e4bf2b495c30ad8361", null ],
-    [ "PrepareAuraScript", "dd/d72/a26206.html#ab8f483be4d01aa2460c90b043d7a441b", null ],
-    [ "Register", "dd/d72/a26206.html#a4cb08499767ab58f0e525c382b662fbd", null ],
-    [ "Validate", "dd/d72/a26206.html#aa6165f28706d49940dd1f62065631119", null ],
-    [ "_procTarget", "dd/d72/a26206.html#a7b9426e18b454bf631992518c2bdbde0", null ]
+    [ "AfterCheckProc", "dd/d72/a26206.html#aa6f32a97ece5fc68c0b0a2cfa36e33eb", null ],
+    [ "HandleProc", "dd/d72/a26206.html#a613182c741769d0983206bdfa89242f6", null ],
+    [ "PrepareAuraScript", "dd/d72/a26206.html#a4f614fe81d829d8a1ceb7500f9557948", null ],
+    [ "Register", "dd/d72/a26206.html#acd807de02a83a97a78572d672fb16027", null ],
+    [ "Validate", "dd/d72/a26206.html#a3d2d6f1a00825ac66f507a790f468198", null ],
+    [ "_spellInfo", "dd/d72/a26206.html#a66a5eb4caa7b43c34b2830d9a3d2f994", null ],
+    [ "_ticksModifier", "dd/d72/a26206.html#ae23b54499fff879a096bd459e264c4f0", null ]
 ];

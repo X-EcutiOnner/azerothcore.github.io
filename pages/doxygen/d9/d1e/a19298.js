@@ -1,6 +1,6 @@
 var a19298 =
 [
-    [ "instance_eye_of_eternity_InstanceMapScript", "dd/d8e/a19302.html", "dd/d8e/a19302" ],
-    [ "instance_eye_of_eternity", "d9/d1e/a19298.html#afcab4ba969d0423871a4e398627a323d", null ],
-    [ "GetInstanceScript", "d9/d1e/a19298.html#af51319609d355fe87a77a87eb697f434", null ]
+    [ "boss_patchwerkAI", "dd/d8e/a19302.html", "dd/d8e/a19302" ],
+    [ "boss_patchwerk", "d9/d1e/a19298.html#a526983c4f5191a839ba4a017ac2d14e4", null ],
+    [ "GetAI", "d9/d1e/a19298.html#a03f2dec61192405760958e26d998d67e", null ]
 ];

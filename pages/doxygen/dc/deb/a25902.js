@@ -1,6 +1,7 @@
 var a25902 =
 [
-    [ "HandleEffect", "dc/deb/a25902.html#a41b46d8918b59a1617f383b3eedfe343", null ],
-    [ "PrepareSpellScript", "dc/deb/a25902.html#acfc69e6323292e6c64fbe8d2e10efcdc", null ],
-    [ "Register", "dc/deb/a25902.html#a78f1476ed28eb1e80356dbf3d32918f5", null ]
+    [ "HandleScript", "dc/deb/a25902.html#a7c7f92d21898322c501f582a524f4052", null ],
+    [ "Load", "dc/deb/a25902.html#a600eb87e8bbedd3504e3d259f89e3785", null ],
+    [ "PrepareSpellScript", "dc/deb/a25902.html#a8ae826705bd1a1f1da3160be73926d7b", null ],
+    [ "Register", "dc/deb/a25902.html#abda715e38cf19fa7276ec4f4a12d3b63", null ]
 ];

@@ -1,6 +1,6 @@
 var a16326 =
 [
-    [ "boss_anubarak_trialAI", "d9/d2d/a16330.html", "d9/d2d/a16330" ],
-    [ "boss_anubarak_trial", "d1/dc4/a16326.html#a5204e33a412608b53cc155a043356d58", null ],
-    [ "GetAI", "d1/dc4/a16326.html#a9b8fe9ed3370434612cbd46e7649213d", null ]
+    [ "HandlePeriodic", "d1/dc4/a16326.html#a7753587518171689f86f3f76269c1b8a", null ],
+    [ "PrepareAuraScript", "d1/dc4/a16326.html#aa73351e7200bee94b0068fb8dabfada5", null ],
+    [ "Register", "d1/dc4/a16326.html#ab126fe8d4387609e8834898c3b3a67ea", null ]
 ];

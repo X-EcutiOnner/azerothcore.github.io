@@ -1,11 +1,11 @@
 var a19878 =
 [
-    [ "boss_flame_leviathan_defense_turretAI", "da/db9/a19878.html#aedf30f06fe89c805019f7cc254646ff1", null ],
-    [ "CanAIAttack", "da/db9/a19878.html#a76efa1d88ce029775809abb3ec88efb3", null ],
-    [ "DamageTaken", "da/db9/a19878.html#adedbbeeb01da20843bc85ac2daaed12a", null ],
-    [ "JustDied", "da/db9/a19878.html#af261cc1f0458984719ab1bb4518bdc64", null ],
-    [ "KilledUnit", "da/db9/a19878.html#aed3f2a4bac3391683989eec94697ef16", null ],
-    [ "UpdateAI", "da/db9/a19878.html#a575eb381d1aa31af60484271ae6e4627", null ],
-    [ "_instance", "da/db9/a19878.html#a8c0658a5d32355607cb16f6e1c83f83e", null ],
-    [ "_setHealth", "da/db9/a19878.html#aeb220ded0a6515674a428716a8be9f48", null ]
+    [ "npc_living_constellationAI", "da/db9/a19878.html#a54f4e946fad895bca07a59f4e00d10a5", null ],
+    [ "DoAction", "da/db9/a19878.html#acdc93a7dc3019940d730fa20d115a929", null ],
+    [ "GetData", "da/db9/a19878.html#acb5cc31d7a084e82d8bde3852f9668dd", null ],
+    [ "Reset", "da/db9/a19878.html#a664b03bdaea184ab8dd8298ed9952790", null ],
+    [ "SpellHit", "da/db9/a19878.html#a4c83ef2d5fe161a90d465a8fbd7eb4f8", null ],
+    [ "UpdateAI", "da/db9/a19878.html#ad5b23c3db46b455c9321e7fb29b88572", null ],
+    [ "_isActive", "da/db9/a19878.html#a786d2d05f83e59dd0da34f44037bdd35", null ],
+    [ "events", "da/db9/a19878.html#a679c9fe1ed357b7c7e1ed1fac01ef8d3", null ]
 ];

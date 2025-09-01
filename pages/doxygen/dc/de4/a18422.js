@@ -1,8 +1,7 @@
 var a18422 =
 [
-    [ "npc_lk_wicked_spiritAI", "dc/de4/a18422.html#a6323ddd6c0932f3d73a6de4bd3c4d5dd", null ],
-    [ "CanAIAttack", "dc/de4/a18422.html#ae094420b1a6e134632baa0b086c806c6", null ],
-    [ "JustDied", "dc/de4/a18422.html#adf153fab1c8639b2b5790ed418afb85d", null ],
-    [ "JustRespawned", "dc/de4/a18422.html#a1acfbead42b66dd8f70a85efc8ce2e6f", null ],
-    [ "Reset", "dc/de4/a18422.html#a8b15079251b6855679d738a342126006", null ]
+    [ "OnRemove", "dc/de4/a18422.html#ac1a58d605156c03d05eb99605287e762", null ],
+    [ "PrepareAuraScript", "dc/de4/a18422.html#a2db820022631647e942b5ec84e63717e", null ],
+    [ "Register", "dc/de4/a18422.html#adfd213ccf8c5596fcd6dc69e53740376", null ],
+    [ "Validate", "dc/de4/a18422.html#aa498d4669f67eba4b904b203daeb5a7d", null ]
 ];

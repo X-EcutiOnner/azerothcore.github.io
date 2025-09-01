@@ -1,9 +1,8 @@
 var a14610 =
 [
-    [ "npc_ancient_wisp", "d5/d21/a14610.html#a70e45e500b3490a034b058ca2ec16d39", null ],
-    [ "DamageTaken", "d5/d21/a14610.html#ad7d96e6b54cdc23a5101338474125e71", null ],
-    [ "JustEngagedWith", "d5/d21/a14610.html#a755ed852b3149ada65c5750410776fc8", null ],
-    [ "Reset", "d5/d21/a14610.html#a1c33cc47d7f60b2b3eb60852f1c36820", null ],
-    [ "UpdateAI", "d5/d21/a14610.html#a51ca214de826d7126f32e49f6852bca3", null ],
-    [ "_instance", "d5/d21/a14610.html#a5e5e51944d49cc52bed4ff4953513f1f", null ]
+    [ "OnApply", "d5/d21/a14610.html#aa38abcc9fa49fc2c397edbfff2c0ea0d", null ],
+    [ "OnRemove", "d5/d21/a14610.html#a64018d24a33565e615c6c2d3eb4810f8", null ],
+    [ "PrepareAuraScript", "d5/d21/a14610.html#acb57b284b9d9116b6b0c0a758e09a8d5", null ],
+    [ "Register", "d5/d21/a14610.html#a9cd1e664cb6ccec5dc897b586203faf1", null ],
+    [ "Validate", "d5/d21/a14610.html#a77ed6196af0fcf75c6d1071e236f6210", null ]
 ];

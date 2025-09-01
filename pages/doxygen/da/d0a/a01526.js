@@ -1,8 +1,11 @@
 var a01526 =
 [
-    [ "StoredLootItem", "da/dfa/a09676.html", "da/dfa/a09676" ],
-    [ "LootItemStorage", "d2/d8a/a09680.html", "d2/d8a/a09680" ],
-    [ "sLootItemStorage", "da/d0a/a01526.html#a06515a8a4bd76cd02aa0ab99d3d7c64e", null ],
-    [ "LootItemContainer", "da/d0a/a01526.html#a06cc23df363d1d767959d7ab5ec29ad5", null ],
-    [ "StoredLootItemList", "da/d0a/a01526.html#aa16defe92374d7db2d28958ee8fce21d", null ]
+    [ "npc_announcer_toc10", "df/d64/a16814.html", "df/d64/a16814" ],
+    [ "MenuTexts", "da/d0a/a01526.html#a5e87c460d493df2d4629af8c1a30fc5a", [
+      [ "MSG_TESTED", "da/d0a/a01526.html#a5e87c460d493df2d4629af8c1a30fc5aa462de44eca88c95eb9e412dcabc36185", null ],
+      [ "MSG_NEXT_STAGE", "da/d0a/a01526.html#a5e87c460d493df2d4629af8c1a30fc5aafb4b982343fbe7bdd8db85adec53db80", null ],
+      [ "MSG_CRUSADERS", "da/d0a/a01526.html#a5e87c460d493df2d4629af8c1a30fc5aa0f20061fedbed395c6723105b82e091d", null ],
+      [ "MSG_ANUBARAK", "da/d0a/a01526.html#a5e87c460d493df2d4629af8c1a30fc5aad43353382c7c2b60068aa5b306b62643", null ]
+    ] ],
+    [ "AddSC_trial_of_the_crusader", "da/d0a/a01526.html#aae8fa1928137dde06462a753ceebcca6", null ]
 ];

@@ -1,7 +1,7 @@
 var a13566 =
 [
-    [ "npc_ranger_lilatha", "d9/d68/a13566.html#abd13a89b41a289edefb9bc21588f8d29", null ],
-    [ "Reset", "d9/d68/a13566.html#a3e804e483b51961193ee1079caba40be", null ],
-    [ "sQuestAccept", "d9/d68/a13566.html#acc38d4feacb5e7fa5ce9658b10447c4d", null ],
-    [ "WaypointReached", "d9/d68/a13566.html#a193bd47c7d7c4fb3d832a59bf55e8412", null ]
+    [ "FilterTargets", "d9/d68/a13566.html#ae945b657d0fbee4d5ee5d6e7d15ef39b", null ],
+    [ "HandleHit", "d9/d68/a13566.html#a7e28d5d89f1e622f308e1a1bf7d5dae9", null ],
+    [ "PrepareSpellScript", "d9/d68/a13566.html#a905e1f979284a368463ad4829891b6ee", null ],
+    [ "Register", "d9/d68/a13566.html#a6b0d2fc316bef6af20199b15795b00b4", null ]
 ];

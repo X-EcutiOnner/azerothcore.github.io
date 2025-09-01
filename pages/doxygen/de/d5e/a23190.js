@@ -1,6 +1,6 @@
 var a23190 =
 [
-    [ "FilterTargets", "de/d5e/a23190.html#ac20676c292d87276e444bad56d71960d", null ],
-    [ "PrepareSpellScript", "de/d5e/a23190.html#a8622bc4d61c5c236349d4b12c2a6b10d", null ],
-    [ "Register", "de/d5e/a23190.html#ae356b768872de3e87806c19bf8cccb08", null ]
+    [ "HandleSchoolDamage", "de/d5e/a23190.html#ab105ff1efd0fe20585ac3dc6c60f81a2", null ],
+    [ "PrepareSpellScript", "de/d5e/a23190.html#a0296aa3d00d0d12e213d95b8520c50dc", null ],
+    [ "Register", "de/d5e/a23190.html#a4cd7135ff9e4ef605635f1eccc01ba65", null ]
 ];

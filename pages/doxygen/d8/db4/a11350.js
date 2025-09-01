@@ -1,6 +1,7 @@
 var a11350 =
 [
-    [ "AuraProcHandler", "d8/db4/a11350.html#a1c0ad4a28c98d89a0afc2f8eeda9a421", null ],
-    [ "Call", "d8/db4/a11350.html#abc0c3be9dee08e995c282f20900f3c46", null ],
-    [ "_HandlerScript", "d8/db4/a11350.html#ada8d7a5659598b0092739a91ba2653bd", null ]
+    [ "maxvalue", "d8/db4/a11350.html#a1dd2289b0d3505cb50e8613595ad8c8e", null ],
+    [ "skill", "d8/db4/a11350.html#a8bcbe05ff6a3220f9f05f52b16925f5d", null ],
+    [ "step", "d8/db4/a11350.html#a1c882f7d43c65954cb99566225660312", null ],
+    [ "value", "d8/db4/a11350.html#a064fece53cdaf07b072510b14200a968", null ]
 ];

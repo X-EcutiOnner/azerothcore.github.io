@@ -1,7 +1,10 @@
 var a14994 =
 [
-    [ "go_sand_trap", "dc/ddb/a14994.html#a58d45acac672cb05988ddca78185b469", null ],
-    [ "Reset", "dc/ddb/a14994.html#a7071a3e420e9137ca133b471bc217bf3", null ],
-    [ "UpdateAI", "dc/ddb/a14994.html#a2e4a5fec4d4c790233ca97e6a7732ac4", null ],
-    [ "_scheduler", "dc/ddb/a14994.html#af845c0efb3d8ebe53d3620970a84f1e4", null ]
+    [ "npc_tarethaAI", "dc/ddb/a14994.html#ad403cdcdc2648bb23687e3a3a7bdbb03", null ],
+    [ "AttackStart", "dc/ddb/a14994.html#a09d91ea8e5923ebc3c0ad01f09f93408", null ],
+    [ "DoAction", "dc/ddb/a14994.html#adbb40db0b70532a20731cf5039e44d0b", null ],
+    [ "MoveInLineOfSight", "dc/ddb/a14994.html#afa0427372e43316851018bf78274707f", null ],
+    [ "Reset", "dc/ddb/a14994.html#ae4d9f3d5751e8a8e0468a80d46f4a4c4", null ],
+    [ "WaypointReached", "dc/ddb/a14994.html#a6946bc02ec686c8af943c9e913c8aee6", null ],
+    [ "instance", "dc/ddb/a14994.html#a3c0f4a61cf5b8da6b885ef7bf9813205", null ]
 ];

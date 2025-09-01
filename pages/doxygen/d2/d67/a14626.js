@@ -1,7 +1,5 @@
 var a14626 =
 [
-    [ "PeriodicTick", "d2/d67/a14626.html#aa94e4d6a31a08959a5287b863737c2e2", null ],
-    [ "PrepareAuraScript", "d2/d67/a14626.html#a59a9c4dfe06859daac5bb69fa5d20e95", null ],
-    [ "Register", "d2/d67/a14626.html#a24058b120f4fa06b89f6d582c53a365a", null ],
-    [ "Validate", "d2/d67/a14626.html#a093b09be5abde91a1487d67a7a554d30", null ]
+    [ "PrepareSpellScript", "d2/d67/a14626.html#a50ee42c11937759b6c52c2ab994481c4", null ],
+    [ "Register", "d2/d67/a14626.html#a8dc12a723c2da948c38119e3fc34df35", null ]
 ];

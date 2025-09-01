@@ -1,6 +1,10 @@
 var a19530 =
 [
-    [ "CalculateDamage", "d9/d45/a19530.html#ae38f8cfb44de2798d7a284c942617678", null ],
-    [ "PrepareSpellScript", "d9/d45/a19530.html#a043955d56e0ae4c54d70e8fe6e417dd1", null ],
-    [ "Register", "d9/d45/a19530.html#ab4b32d2db39c8d9079a83c89d63ccd93", null ]
+    [ "instance_nexus_InstanceMapScript", "d9/d45/a19530.html#a6803f233d730f33e5af7dc9d8ecd9775", null ],
+    [ "Initialize", "d9/d45/a19530.html#a2c6c42e73de2a155c04f80e37aa5d442", null ],
+    [ "OnCreatureCreate", "d9/d45/a19530.html#a04806dc42aa0b171fa99eb1d8492ff61", null ],
+    [ "OnGameObjectCreate", "d9/d45/a19530.html#a85c3ac915970d68a192414ca4ff8ad1f", null ],
+    [ "OnGameObjectRemove", "d9/d45/a19530.html#ac148c67823484eee38ab6646dfb68530", null ],
+    [ "SetBossState", "d9/d45/a19530.html#a11ac1fbc7c699084e7da5e4bf0595651", null ],
+    [ "SetData", "d9/d45/a19530.html#a351052b1d3ea4ddb5d36ce69818c7e67", null ]
 ];

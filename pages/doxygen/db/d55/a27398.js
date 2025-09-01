@@ -1,5 +1,6 @@
 var a27398 =
 [
-    [ "item_incendiary_explosives", "db/d55/a27398.html#a3a10f4e40374cae75a5ed320385a67f9", null ],
-    [ "OnUse", "db/d55/a27398.html#a1e566a6a5b6cfb8b7e331a6ea94f77b4", null ]
+    [ "go_heatAI", "db/d33/a27402.html", "db/d33/a27402" ],
+    [ "go_heat", "db/d55/a27398.html#a6c3d6919652159e4fd265b6d63f59c16", null ],
+    [ "GetAI", "db/d55/a27398.html#a9f19009a78c7abd349d2e2e7bf98c1a0", null ]
 ];

@@ -1,7 +1,7 @@
 var a18938 =
 [
-    [ "OnRemove", "de/db7/a18938.html#a4e6a66934a01d01c50208459f6771353", null ],
-    [ "PrepareAuraScript", "de/db7/a18938.html#a2320044c6c81a89af0fefd4f90c05bd5", null ],
-    [ "Register", "de/db7/a18938.html#a4890d35f2b0889156a437c95e49f528c", null ],
-    [ "Validate", "de/db7/a18938.html#a1b90f1288b3b45267edd4da2b3418b21", null ]
+    [ "HandleDummy", "de/db7/a18938.html#a4bfc155129bd80c94b4b59474f30d748", null ],
+    [ "PrepareSpellScript", "de/db7/a18938.html#a9c72772f9d17b34562bd11418d67872d", null ],
+    [ "Register", "de/db7/a18938.html#a10c9f511da4eb366117d356c118408c6", null ],
+    [ "Validate", "de/db7/a18938.html#a655f2081d17c06c155641efc45efc1f8", null ]
 ];

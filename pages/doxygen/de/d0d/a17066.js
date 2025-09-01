@@ -1,11 +1,6 @@
 var a17066 =
 [
-    [ "npc_pos_tyrannus_eventsAI", "de/d0d/a17066.html#a51769d22a4cb448fae90d827e2494581", null ],
-    [ "MovementInform", "de/d0d/a17066.html#ac0d1550855988fe6f562e8a0a6ada80f", null ],
-    [ "SetData", "de/d0d/a17066.html#a8f8bbb06c50215c90cf11ddbc925ba5d", null ],
-    [ "UpdateAI", "de/d0d/a17066.html#a6c4d82c46547bbb2f86dd7f9fa88c743", null ],
-    [ "deathbringerGUID", "de/d0d/a17066.html#a21ea8c66374403d0eca83e4d24c80a7a", null ],
-    [ "events", "de/d0d/a17066.html#a317d48c75a93ef5abaa3329ab10a1c8e", null ],
-    [ "killsLeft", "de/d0d/a17066.html#ac81d85e0ceb0b571373f44475baa36df", null ],
-    [ "pInstance", "de/d0d/a17066.html#a44460335986bcedf35dc295c242df6da", null ]
+    [ "npc_tortured_riflemanAI", "d1/d75/a17070.html", "d1/d75/a17070" ],
+    [ "npc_tortured_rifleman", "de/d0d/a17066.html#a32e4164864c3873b3684ad531a2e924a", null ],
+    [ "GetAI", "de/d0d/a17066.html#aaef71feb7077c561eb2bcf7d4fc411c7", null ]
 ];

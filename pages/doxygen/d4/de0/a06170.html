@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: CreatureAIFactory&lt; REAL_AI &gt; Struct Template Reference</title>
+<title>AzerothCore: RangeSelector Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,77 +106,96 @@ $(document).ready(function(){initNavTree('d4/de0/a06170.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="../../da/da9/a06167.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">CreatureAIFactory&lt; REAL_AI &gt; Struct Template Reference</div></div>
+  <div class="headertitle"><div class="title">RangeSelector Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">CreatureAIFactory.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">UnitAI.h</a>&quot;</code></p>
 <div class="dynheader">
-Inheritance diagram for CreatureAIFactory&lt; REAL_AI &gt;:</div>
+Inheritance diagram for RangeSelector:</div>
 <div class="dyncontent">
  <div class="center">
-  <img src="../../d4/de0/a06170.png" usemap="#CreatureAIFactory_3C_20REAL_5FAI_20_3E_map" alt=""/>
-  <map id="CreatureAIFactory_3C_20REAL_5FAI_20_3E_map" name="CreatureAIFactory_3C_20REAL_5FAI_20_3E_map">
-<area href="../../d0/d64/a06166.html" alt="SelectableAI" shape="rect" coords="124,56,363,80"/>
-<area href="../../dc/d72/a05218.html" alt="FactoryHolder&lt; T, O, Key &gt;" shape="rect" coords="0,0,239,24"/>
-<area href="../../d5/d9b/a05222.html" alt="Permissible&lt; Creature &gt;" shape="rect" coords="249,0,488,24"/>
+  <img src="../../d4/de0/a06170.png" usemap="#RangeSelector_map" alt=""/>
+  <map id="RangeSelector_map" name="RangeSelector_map">
+<area href="../../dd/d48/a05150.html" alt="Acore::unary_function&lt; Unit *, bool &gt;" shape="rect" coords="0,0,228,24"/>
   </map>
 </div></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a978af64c2793b92ee2fe57763500f8d9"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/de0/a06170.html#a978af64c2793b92ee2fe57763500f8d9">CreatureAIFactory</a> (std::string const &amp;name)</td></tr>
-<tr class="separator:a978af64c2793b92ee2fe57763500f8d9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab5f691811cc23c5079a7a0a7f3503638"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/d3a/a06162.html">CreatureAI</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/de0/a06170.html#ab5f691811cc23c5079a7a0a7f3503638">Create</a> (<a class="el" href="../../d0/d36/a07986.html">Creature</a> *c) const override</td></tr>
-<tr class="separator:ab5f691811cc23c5079a7a0a7f3503638"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae5e76ee1d1f8949214dd5421bf7e4deb"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/de7/a00014.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/de0/a06170.html#ae5e76ee1d1f8949214dd5421bf7e4deb">Permit</a> (<a class="el" href="../../d0/d36/a07986.html">Creature</a> const *c) const override</td></tr>
-<tr class="separator:ae5e76ee1d1f8949214dd5421bf7e4deb"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="inherit_header pub_methods_a06166"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a06166')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../d0/d64/a06166.html">SelectableAI</a></td></tr>
-<tr class="memitem:af34ed4ae0c831a3dd41585704488528f inherit pub_methods_a06166"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d64/a06166.html#af34ed4ae0c831a3dd41585704488528f">SelectableAI</a> (std::string const &amp;name)</td></tr>
-<tr class="separator:af34ed4ae0c831a3dd41585704488528f inherit pub_methods_a06166"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="inherit_header pub_methods_a05218"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a05218')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../dc/d72/a05218.html">FactoryHolder&lt; T, O, Key &gt;</a></td></tr>
-<tr class="memitem:a5e7097c2a475378023f33ec430f4ca85 inherit pub_methods_a05218"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d72/a05218.html#a5e7097c2a475378023f33ec430f4ca85">FactoryHolder</a> (Key const &amp;k)</td></tr>
-<tr class="separator:a5e7097c2a475378023f33ec430f4ca85 inherit pub_methods_a05218"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a78673bd2f3d857127c1a91c49e3cd62f inherit pub_methods_a05218"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d72/a05218.html#a78673bd2f3d857127c1a91c49e3cd62f">~FactoryHolder</a> ()</td></tr>
-<tr class="separator:a78673bd2f3d857127c1a91c49e3cd62f inherit pub_methods_a05218"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9e173f9daaf5c2de36bb8b46da4249e1 inherit pub_methods_a05218"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d72/a05218.html#a9e173f9daaf5c2de36bb8b46da4249e1">RegisterSelf</a> ()</td></tr>
-<tr class="separator:a9e173f9daaf5c2de36bb8b46da4249e1 inherit pub_methods_a05218"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7072fb7dfe99890dea89b1ba661eb3ce inherit pub_methods_a05218"><td class="memItemLeft" align="right" valign="top">virtual T *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d72/a05218.html#a7072fb7dfe99890dea89b1ba661eb3ce">Create</a> (O *object=nullptr) const =0</td></tr>
-<tr class="memdesc:a7072fb7dfe99890dea89b1ba661eb3ce inherit pub_methods_a05218"><td class="mdescLeft">&#160;</td><td class="mdescRight">Abstract Factory create method.  <a href="../../dc/d72/a05218.html#a7072fb7dfe99890dea89b1ba661eb3ce">More...</a><br /></td></tr>
-<tr class="separator:a7072fb7dfe99890dea89b1ba661eb3ce inherit pub_methods_a05218"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="inherit_header pub_methods_a05222"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a05222')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../d5/d9b/a05222.html">Permissible&lt; Creature &gt;</a></td></tr>
-<tr class="memitem:a9ed19d14dda478fe1ff6cb092d684be2 inherit pub_methods_a05222"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d9b/a05222.html#a9ed19d14dda478fe1ff6cb092d684be2">~Permissible</a> ()</td></tr>
-<tr class="separator:a9ed19d14dda478fe1ff6cb092d684be2 inherit pub_methods_a05222"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0fccdbc46c9bafea63757ceee62b0385 inherit pub_methods_a05222"><td class="memItemLeft" align="right" valign="top">virtual <a class="el" href="../../d2/de7/a00014.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d9b/a05222.html#a0fccdbc46c9bafea63757ceee62b0385">Permit</a> (<a class="el" href="../../d0/d36/a07986.html">Creature</a> const *) const=0</td></tr>
-<tr class="separator:a0fccdbc46c9bafea63757ceee62b0385 inherit pub_methods_a05222"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4a87b90485180ede638e2c9bd2a7e9ed"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/de0/a06170.html#a4a87b90485180ede638e2c9bd2a7e9ed">RangeSelector</a> (<a class="el" href="../../d6/d2d/a08766.html">Unit</a> const *unit, float maxDist, bool playerOnly, bool inLos, float minDist=0.f)</td></tr>
+<tr class="separator:a4a87b90485180ede638e2c9bd2a7e9ed"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a917f21b135f402210d21e6bb3f19b9fa"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/de0/a06170.html#a917f21b135f402210d21e6bb3f19b9fa">operator()</a> (<a class="el" href="../../d6/d2d/a08766.html">Unit</a> const *target) const</td></tr>
+<tr class="separator:a917f21b135f402210d21e6bb3f19b9fa"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
+Private Attributes</h2></td></tr>
+<tr class="memitem:a72ad35c7de0b5d540be27d9a9d46a1d4"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d2d/a08766.html">Unit</a> const  *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/de0/a06170.html#a72ad35c7de0b5d540be27d9a9d46a1d4">_me</a></td></tr>
+<tr class="separator:a72ad35c7de0b5d540be27d9a9d46a1d4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac1ce7a7a7ad6d033972b449867a1c5bf"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/de0/a06170.html#ac1ce7a7a7ad6d033972b449867a1c5bf">_minDist</a></td></tr>
+<tr class="separator:ac1ce7a7a7ad6d033972b449867a1c5bf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a973ec93b54a839f853101ad5998c10b2"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/de0/a06170.html#a973ec93b54a839f853101ad5998c10b2">_maxDist</a></td></tr>
+<tr class="separator:a973ec93b54a839f853101ad5998c10b2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac68f7dfefe2e71942a3dfff7026a7ae7"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/de0/a06170.html#ac68f7dfefe2e71942a3dfff7026a7ae7">_playerOnly</a></td></tr>
+<tr class="separator:ac68f7dfefe2e71942a3dfff7026a7ae7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9dcf455d9db8d32aaebfc46eee36e1b5"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/de0/a06170.html#a9dcf455d9db8d32aaebfc46eee36e1b5">_inLos</a></td></tr>
+<tr class="separator:a9dcf455d9db8d32aaebfc46eee36e1b5"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="inherited" name="inherited"></a>
 Additional Inherited Members</h2></td></tr>
-<tr class="inherit_header pub_types_a05218"><td colspan="2" onclick="javascript:toggleInherit('pub_types_a05218')"><img src="../../closed.png" alt="-"/>&#160;Public Types inherited from <a class="el" href="../../dc/d72/a05218.html">FactoryHolder&lt; T, O, Key &gt;</a></td></tr>
-<tr class="memitem:a5384598eca62a35bc617a4c395353ecd inherit pub_types_a05218"><td class="memItemLeft" align="right" valign="top">typedef <a class="el" href="../../d6/dbd/a05246.html">ObjectRegistry</a>&lt; <a class="el" href="../../dc/d72/a05218.html">FactoryHolder</a>&lt; T, O, Key &gt;, Key &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d72/a05218.html#a5384598eca62a35bc617a4c395353ecd">FactoryHolderRegistry</a></td></tr>
-<tr class="separator:a5384598eca62a35bc617a4c395353ecd inherit pub_types_a05218"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pub_types_a05150"><td colspan="2" onclick="javascript:toggleInherit('pub_types_a05150')"><img src="../../closed.png" alt="-"/>&#160;Public Types inherited from <a class="el" href="../../dd/d48/a05150.html">Acore::unary_function&lt; Unit *, bool &gt;</a></td></tr>
+<tr class="memitem:ad0011a133ce27e947c35917314e60693 inherit pub_types_a05150"><td class="memItemLeft" align="right" valign="top">typedef <a class="el" href="../../d6/d2d/a08766.html">Unit</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d48/a05150.html#ad0011a133ce27e947c35917314e60693">argument_type</a></td></tr>
+<tr class="separator:ad0011a133ce27e947c35917314e60693 inherit pub_types_a05150"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6dcbf6789c1565b95f16de3d580118a9 inherit pub_types_a05150"><td class="memItemLeft" align="right" valign="top">typedef bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d48/a05150.html#a6dcbf6789c1565b95f16de3d580118a9">result_type</a></td></tr>
+<tr class="separator:a6dcbf6789c1565b95f16de3d580118a9 inherit pub_types_a05150"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><div class="compoundTemplParams">template&lt;class REAL_AI&gt;<br />
-struct CreatureAIFactory&lt; REAL_AI &gt;</div></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a978af64c2793b92ee2fe57763500f8d9" name="a978af64c2793b92ee2fe57763500f8d9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a978af64c2793b92ee2fe57763500f8d9">&#9670;&#160;</a></span>CreatureAIFactory()</h2>
+<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="a4a87b90485180ede638e2c9bd2a7e9ed" name="a4a87b90485180ede638e2c9bd2a7e9ed"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4a87b90485180ede638e2c9bd2a7e9ed">&#9670;&#160;</a></span>RangeSelector()</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;class REAL_AI &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d4/de0/a06170.html">CreatureAIFactory</a>&lt; REAL_AI &gt;<a class="el" href="../../d4/de0/a06170.html">::CreatureAIFactory</a> </td>
+          <td class="memname">RangeSelector::RangeSelector </td>
           <td>(</td>
-          <td class="paramtype">std::string const &amp;&#160;</td>
-          <td class="paramname"><em>name</em></td><td>)</td>
+          <td class="paramtype"><a class="el" href="../../d6/d2d/a08766.html">Unit</a> const *&#160;</td>
+          <td class="paramname"><em>unit</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
           <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>maxDist</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>playerOnly</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>inLos</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>minDist</em> = <code>0.f</code>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
   </td>
@@ -185,74 +204,180 @@ template&lt;class REAL_AI &gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   34</span>: <a class="code hl_struct" href="../../d0/d64/a06166.html">SelectableAI</a>(name) { }</div>
-<div class="ttc" id="aa06166_html"><div class="ttname"><a href="../../d0/d64/a06166.html">SelectableAI</a></div><div class="ttdef"><b>Definition:</b> CreatureAIFactory.h:27</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  171</span>: <a class="code hl_variable" href="../../d4/de0/a06170.html#a72ad35c7de0b5d540be27d9a9d46a1d4">_me</a>(unit), <a class="code hl_variable" href="../../d4/de0/a06170.html#ac1ce7a7a7ad6d033972b449867a1c5bf">_minDist</a>(minDist), <a class="code hl_variable" href="../../d4/de0/a06170.html#a973ec93b54a839f853101ad5998c10b2">_maxDist</a>(maxDist), <a class="code hl_variable" href="../../d4/de0/a06170.html#ac68f7dfefe2e71942a3dfff7026a7ae7">_playerOnly</a>(playerOnly), <a class="code hl_variable" href="../../d4/de0/a06170.html#a9dcf455d9db8d32aaebfc46eee36e1b5">_inLos</a>(inLos) {}</div>
+<div class="ttc" id="aa06170_html_a72ad35c7de0b5d540be27d9a9d46a1d4"><div class="ttname"><a href="../../d4/de0/a06170.html#a72ad35c7de0b5d540be27d9a9d46a1d4">RangeSelector::_me</a></div><div class="ttdeci">Unit const  * _me</div><div class="ttdef"><b>Definition:</b> UnitAI.h:191</div></div>
+<div class="ttc" id="aa06170_html_a973ec93b54a839f853101ad5998c10b2"><div class="ttname"><a href="../../d4/de0/a06170.html#a973ec93b54a839f853101ad5998c10b2">RangeSelector::_maxDist</a></div><div class="ttdeci">float _maxDist</div><div class="ttdef"><b>Definition:</b> UnitAI.h:192</div></div>
+<div class="ttc" id="aa06170_html_a9dcf455d9db8d32aaebfc46eee36e1b5"><div class="ttname"><a href="../../d4/de0/a06170.html#a9dcf455d9db8d32aaebfc46eee36e1b5">RangeSelector::_inLos</a></div><div class="ttdeci">bool _inLos</div><div class="ttdef"><b>Definition:</b> UnitAI.h:194</div></div>
+<div class="ttc" id="aa06170_html_ac1ce7a7a7ad6d033972b449867a1c5bf"><div class="ttname"><a href="../../d4/de0/a06170.html#ac1ce7a7a7ad6d033972b449867a1c5bf">RangeSelector::_minDist</a></div><div class="ttdeci">float _minDist</div><div class="ttdef"><b>Definition:</b> UnitAI.h:192</div></div>
+<div class="ttc" id="aa06170_html_ac68f7dfefe2e71942a3dfff7026a7ae7"><div class="ttname"><a href="../../d4/de0/a06170.html#ac68f7dfefe2e71942a3dfff7026a7ae7">RangeSelector::_playerOnly</a></div><div class="ttdeci">bool _playerOnly</div><div class="ttdef"><b>Definition:</b> UnitAI.h:193</div></div>
 </div><!-- fragment -->
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="ab5f691811cc23c5079a7a0a7f3503638" name="ab5f691811cc23c5079a7a0a7f3503638"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab5f691811cc23c5079a7a0a7f3503638">&#9670;&#160;</a></span>Create()</h2>
+<a id="a917f21b135f402210d21e6bb3f19b9fa" name="a917f21b135f402210d21e6bb3f19b9fa"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a917f21b135f402210d21e6bb3f19b9fa">&#9670;&#160;</a></span>operator()()</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;class REAL_AI &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d4/d3a/a06162.html">CreatureAI</a> * <a class="el" href="../../d4/de0/a06170.html">CreatureAIFactory</a>&lt; REAL_AI &gt;::Create </td>
+          <td class="memname">bool RangeSelector::operator() </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/d36/a07986.html">Creature</a> *&#160;</td>
-          <td class="paramname"><em>c</em></td><td>)</td>
+          <td class="paramtype"><a class="el" href="../../d6/d2d/a08766.html">Unit</a> const *&#160;</td>
+          <td class="paramname"><em>target</em></td><td>)</td>
           <td> const</td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">override</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   37</span>    {</div>
-<div class="line"><span class="lineno">   38</span>        <span class="keywordflow">return</span> <span class="keyword">new</span> REAL_AI(c);</div>
-<div class="line"><span class="lineno">   39</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  174</span>    {</div>
+<div class="line"><span class="lineno">  175</span>        <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d4/de0/a06170.html#a72ad35c7de0b5d540be27d9a9d46a1d4">_me</a> || !target)</div>
+<div class="line"><span class="lineno">  176</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  177</span> </div>
+<div class="line"><span class="lineno">  178</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d4/de0/a06170.html#ac68f7dfefe2e71942a3dfff7026a7ae7">_playerOnly</a> &amp;&amp; !target-&gt;IsPlayer())</div>
+<div class="line"><span class="lineno">  179</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  180</span> </div>
+<div class="line"><span class="lineno">  181</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d4/de0/a06170.html#a973ec93b54a839f853101ad5998c10b2">_maxDist</a> &gt; 0.0f &amp;&amp; !<a class="code hl_variable" href="../../d4/de0/a06170.html#a72ad35c7de0b5d540be27d9a9d46a1d4">_me</a>-&gt;<a class="code hl_function" href="../../dc/d1b/a08414.html#ab79ebfcc3ba4247ccfeb95eee63dc01a">IsInRange</a>(target, <a class="code hl_variable" href="../../d4/de0/a06170.html#ac1ce7a7a7ad6d033972b449867a1c5bf">_minDist</a>, <a class="code hl_variable" href="../../d4/de0/a06170.html#a973ec93b54a839f853101ad5998c10b2">_maxDist</a>))</div>
+<div class="line"><span class="lineno">  182</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  183</span> </div>
+<div class="line"><span class="lineno">  184</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d4/de0/a06170.html#a9dcf455d9db8d32aaebfc46eee36e1b5">_inLos</a> &amp;&amp; !<a class="code hl_variable" href="../../d4/de0/a06170.html#a72ad35c7de0b5d540be27d9a9d46a1d4">_me</a>-&gt;<a class="code hl_function" href="../../dc/d1b/a08414.html#a64f76cf543cb4851cb271bb7d2facaf2">IsWithinLOSInMap</a>(target))</div>
+<div class="line"><span class="lineno">  185</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  186</span> </div>
+<div class="line"><span class="lineno">  187</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  188</span>    }</div>
+<div class="ttc" id="aa08414_html_a64f76cf543cb4851cb271bb7d2facaf2"><div class="ttname"><a href="../../dc/d1b/a08414.html#a64f76cf543cb4851cb271bb7d2facaf2">WorldObject::IsWithinLOSInMap</a></div><div class="ttdeci">bool IsWithinLOSInMap(WorldObject const *obj, VMAP::ModelIgnoreFlags ignoreFlags=VMAP::ModelIgnoreFlags::Nothing, LineOfSightChecks checks=LINEOFSIGHT_ALL_CHECKS, Optional&lt; float &gt; collisionHeight={ }, Optional&lt; float &gt; combatReach={ }) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:1315</div></div>
+<div class="ttc" id="aa08414_html_ab79ebfcc3ba4247ccfeb95eee63dc01a"><div class="ttname"><a href="../../dc/d1b/a08414.html#ab79ebfcc3ba4247ccfeb95eee63dc01a">WorldObject::IsInRange</a></div><div class="ttdeci">bool IsInRange(WorldObject const *obj, float minRange, float maxRange, bool is3D=true) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:1372</div></div>
 </div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00194">_inLos</a>, <a class="el" href="../../#l00192">_maxDist</a>, <a class="el" href="../../#l00191">_me</a>, <a class="el" href="../../#l00192">_minDist</a>, <a class="el" href="../../#l00193">_playerOnly</a>, <a class="el" href="../../#l01372">WorldObject::IsInRange()</a>, <a class="el" href="../../#l00201">Object::IsPlayer()</a>, and <a class="el" href="../../#l01315">WorldObject::IsWithinLOSInMap()</a>.</p>
+
 </div>
 </div>
-<a id="ae5e76ee1d1f8949214dd5421bf7e4deb" name="ae5e76ee1d1f8949214dd5421bf7e4deb"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae5e76ee1d1f8949214dd5421bf7e4deb">&#9670;&#160;</a></span>Permit()</h2>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a id="a9dcf455d9db8d32aaebfc46eee36e1b5" name="a9dcf455d9db8d32aaebfc46eee36e1b5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9dcf455d9db8d32aaebfc46eee36e1b5">&#9670;&#160;</a></span>_inLos</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;class REAL_AI &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d2/de7/a00014.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> <a class="el" href="../../d4/de0/a06170.html">CreatureAIFactory</a>&lt; REAL_AI &gt;::Permit </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/d36/a07986.html">Creature</a> const *&#160;</td>
-          <td class="paramname"><em>c</em></td><td>)</td>
-          <td> const</td>
+          <td class="memname">bool RangeSelector::_inLos</td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">override</span><span class="mlabel">virtual</span></span>  </td>
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
 
-<p>Implements <a class="el" href="../../d5/d9b/a05222.html#a0fccdbc46c9bafea63757ceee62b0385">Permissible&lt; Creature &gt;</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">   42</span>    {</div>
-<div class="line"><span class="lineno">   43</span>        <span class="keywordflow">return</span> REAL_AI::Permissible(c);</div>
-<div class="line"><span class="lineno">   44</span>    }</div>
-</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00173">operator()()</a>.</p>
+
+</div>
+</div>
+<a id="a973ec93b54a839f853101ad5998c10b2" name="a973ec93b54a839f853101ad5998c10b2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a973ec93b54a839f853101ad5998c10b2">&#9670;&#160;</a></span>_maxDist</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">float RangeSelector::_maxDist</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00173">operator()()</a>.</p>
+
+</div>
+</div>
+<a id="a72ad35c7de0b5d540be27d9a9d46a1d4" name="a72ad35c7de0b5d540be27d9a9d46a1d4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a72ad35c7de0b5d540be27d9a9d46a1d4">&#9670;&#160;</a></span>_me</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d6/d2d/a08766.html">Unit</a> const* RangeSelector::_me</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00173">operator()()</a>.</p>
+
+</div>
+</div>
+<a id="ac1ce7a7a7ad6d033972b449867a1c5bf" name="ac1ce7a7a7ad6d033972b449867a1c5bf"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac1ce7a7a7ad6d033972b449867a1c5bf">&#9670;&#160;</a></span>_minDist</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">float RangeSelector::_minDist</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00173">operator()()</a>.</p>
+
+</div>
+</div>
+<a id="ac68f7dfefe2e71942a3dfff7026a7ae7" name="ac68f7dfefe2e71942a3dfff7026a7ae7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac68f7dfefe2e71942a3dfff7026a7ae7">&#9670;&#160;</a></span>_playerOnly</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool RangeSelector::_playerOnly</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00173">operator()()</a>.</p>
+
 </div>
 </div>
 </div><!-- contents -->
@@ -260,8 +385,8 @@ template&lt;class REAL_AI &gt; </div>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d4/de0/a06170.html">CreatureAIFactory</a></li>
-    <li class="footer">Generated on Mon Aug 4 2025 20:51:27 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d4/de0/a06170.html">RangeSelector</a></li>
+    <li class="footer">Generated on Mon Sep 1 2025 20:44:20 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

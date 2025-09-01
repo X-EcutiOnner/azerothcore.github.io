@@ -1,12 +1,10 @@
 var a14866 =
 [
-    [ "boss_isalien", "d6/db4/a14866.html#a736a25e60ae367a45c7d6451be96126d", null ],
-    [ "DamageTaken", "d6/db4/a14866.html#a95d461e099193b5e2c1363acb1b5939a", null ],
-    [ "JustDied", "d6/db4/a14866.html#a6544b5eb398eb2fc9cae05709e4a5cc1", null ],
-    [ "JustEngagedWith", "d6/db4/a14866.html#ad6714da515db77c7299ee80b3268433e", null ],
-    [ "JustSummoned", "d6/db4/a14866.html#a84a94a1a8889b48cd02d5cb6a205a487", null ],
-    [ "Reset", "d6/db4/a14866.html#a4995c18e2baa62d05717617d0b1e3529", null ],
-    [ "UpdateAI", "d6/db4/a14866.html#aa067bea34557a4b2fe840ef305852bc0", null ],
-    [ "_phase", "d6/db4/a14866.html#a954bbd32948e6c416197199d96142056", null ],
-    [ "_scheduler", "d6/db4/a14866.html#a8eb56a907e3395b9e81588aab7c07ca6", null ]
+    [ "npc_hyjal_frost_wyrm", "d6/db4/a14866.html#a7cdc8ef87d5ccb88777fa823e199b9ce", null ],
+    [ "AttackStart", "d6/db4/a14866.html#abaaea3bcbb8806ed9d807742273eb06d", null ],
+    [ "DoAction", "d6/db4/a14866.html#adab2b42c582cee234aea37d187b66138", null ],
+    [ "JustEngagedWith", "d6/db4/a14866.html#a23dace13bb2811dea43b63f0b970a2ce", null ],
+    [ "PathEndReached", "d6/db4/a14866.html#a2ec3137dad743e4766ca402282d913c7", null ],
+    [ "Reset", "d6/db4/a14866.html#a550c20113f4ebe4015f9a8088888f99b", null ],
+    [ "UpdateAI", "d6/db4/a14866.html#a182c3b440f74a4ebe6dee64651bf701f", null ]
 ];

@@ -1,7 +1,6 @@
 var a11462 =
 [
-    [ "Command", "da/d10/a11462.html#a6042a93c52d18e3a74d3cd46ac3d940f", null ],
-    [ "ModuleId", "da/d10/a11462.html#aa2e1c1cee71fc1eb887511c655de0516", null ],
-    [ "ModuleKey", "da/d10/a11462.html#aba0f236c39186022816bd86f8e8e9093", null ],
-    [ "Size", "da/d10/a11462.html#a6912224c1ef6fd117a5ed02d394254d9", null ]
+    [ "EffectAbsorbHandler", "da/d10/a11462.html#a29bb773b8271acf651b08f33ce358720", null ],
+    [ "Call", "da/d10/a11462.html#a56bfb0fd0d860678920445d1182c09ef", null ],
+    [ "pEffectHandlerScript", "da/d10/a11462.html#a519489b8d951173a806e86cfe075faf1", null ]
 ];

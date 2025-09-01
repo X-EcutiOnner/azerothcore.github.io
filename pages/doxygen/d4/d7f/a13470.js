@@ -1,6 +1,8 @@
 var a13470 =
 [
-    [ "instance_the_stockade_InstanceMapScript", "d8/dd2/a13474.html", "d8/dd2/a13474" ],
-    [ "instance_the_stockade", "d4/d7f/a13470.html#a533049c10a72da4b94f9807017f28c0d", null ],
-    [ "GetInstanceScript", "d4/d7f/a13470.html#a7a5a4adcd71ae5d22e6729a2d11d68d3", null ]
+    [ "FilterTargets", "d4/d7f/a13470.html#ac7f7287b88cde82fbf8a625f002c86fa", null ],
+    [ "HandleAfterCast", "d4/d7f/a13470.html#aa28714ce9ac251fe7c3bdec17b47deb3", null ],
+    [ "Load", "d4/d7f/a13470.html#aecfa38940ea3dd287179bdef3d290487", null ],
+    [ "PrepareSpellScript", "d4/d7f/a13470.html#a222e2c8e5401c132e89b29bbd22d46a6", null ],
+    [ "Register", "d4/d7f/a13470.html#a1a3607dd7e3d56bde3b92cbf4bcd0e78", null ]
 ];

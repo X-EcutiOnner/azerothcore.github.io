@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/Battlegrounds/ArenaSeason/ArenaSeasonMgr.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/common/Collision/Models/WorldModel.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,151 +106,41 @@ $(document).ready(function(){initNavTree('dc/d50/a00332.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#define-members">Macros</a> &#124;
-<a href="#enum-members">Enumerations</a>  </div>
-  <div class="headertitle"><div class="title">ArenaSeasonMgr.h File Reference</div></div>
+<a href="#namespaces">Namespaces</a>  </div>
+  <div class="headertitle"><div class="title">WorldModel.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">Common.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ArenaTeamFilter.h</a>&quot;</code><br />
-<code>#include &lt;vector&gt;</code><br />
-<code>#include &lt;unordered_map&gt;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">BoundingIntervalHierarchy.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Define.h</a>&quot;</code><br />
+<code>#include &lt;G3D/AABox.h&gt;</code><br />
+<code>#include &lt;G3D/Ray.h&gt;</code><br />
+<code>#include &lt;G3D/Vector3.h&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/da9/a07228.html">ArenaSeasonReward</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/da9/a05110.html">VMAP::MeshTriangle</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d74/a07232.html">ArenaSeasonRewardGroup</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html">VMAP::WmoLiquid</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/df9/a07236.html">ArenaSeasonMgr</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d87/a05118.html">VMAP::GroupModel</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d0c/a05122.html">VMAP::WorldModel</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
-Macros</h2></td></tr>
-<tr class="memitem:ac46c94dc4c6cf0de37233cdd42a97ccf"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d50/a00332.html#ac46c94dc4c6cf0de37233cdd42a97ccf">sArenaSeasonMgr</a>&#160;&#160;&#160;<a class="el" href="../../dd/df9/a07236.html#ad9299d5394ee20830fe9aca038575ce0">ArenaSeasonMgr::instance</a>()</td></tr>
-<tr class="separator:ac46c94dc4c6cf0de37233cdd42a97ccf"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
-Enumerations</h2></td></tr>
-<tr class="memitem:a64f8715fead51dc9727d105bce4d0e38"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d50/a00332.html#a64f8715fead51dc9727d105bce4d0e38">ArenaSeasonState</a> { <br />
-&#160;&#160;<a class="el" href="../../dc/d50/a00332.html#a64f8715fead51dc9727d105bce4d0e38ac019cd8397ba38ebc1d327c337d48017">ARENA_SEASON_STATE_DISABLED</a> = 0
-, <br />
-&#160;&#160;<a class="el" href="../../dc/d50/a00332.html#a64f8715fead51dc9727d105bce4d0e38a455a35a5e6e89efd32818e52ca82f5f8">ARENA_SEASON_STATE_IN_PROGRESS</a> = 1
-<br />
- }</td></tr>
-<tr class="separator:a64f8715fead51dc9727d105bce4d0e38"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a89a1f93759bb943ff9ef0e4991579265"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d50/a00332.html#a89a1f93759bb943ff9ef0e4991579265">ArenaSeasonRewardType</a> { <br />
-&#160;&#160;<a class="el" href="../../dc/d50/a00332.html#a89a1f93759bb943ff9ef0e4991579265a124351d53a1d14813bc7af90043d8a32">ARENA_SEASON_REWARD_TYPE_ITEM</a>
-, <br />
-&#160;&#160;<a class="el" href="../../dc/d50/a00332.html#a89a1f93759bb943ff9ef0e4991579265ad12571a956e334946d72aa118f464444">ARENA_SEASON_REWARD_TYPE_ACHIEVEMENT</a>
-<br />
- }</td></tr>
-<tr class="separator:a89a1f93759bb943ff9ef0e4991579265"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a983281e9aada2538d6bc53ae4dd4d266"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d50/a00332.html#a983281e9aada2538d6bc53ae4dd4d266">ArenaSeasonRewardGroupCriteriaType</a> { <br />
-&#160;&#160;<a class="el" href="../../dc/d50/a00332.html#a983281e9aada2538d6bc53ae4dd4d266a39f434bc965a3f4fafe78ece7d3f6422">ARENA_SEASON_REWARD_CRITERIA_TYPE_PERCENT_VALUE</a>
-, <br />
-&#160;&#160;<a class="el" href="../../dc/d50/a00332.html#a983281e9aada2538d6bc53ae4dd4d266a80897ebd11175aa1dd3435611c86dd63">ARENA_SEASON_REWARD_CRITERIA_TYPE_ABSOLUTE_VALUE</a>
-<br />
- }</td></tr>
-<tr class="separator:a983281e9aada2538d6bc53ae4dd4d266"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
+Namespaces</h2></td></tr>
+<tr class="memitem:d5/dc9/a04804"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/dc9/a04804.html">VMAP</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Macro Definition Documentation</h2>
-<a id="ac46c94dc4c6cf0de37233cdd42a97ccf" name="ac46c94dc4c6cf0de37233cdd42a97ccf"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac46c94dc4c6cf0de37233cdd42a97ccf">&#9670;&#160;</a></span>sArenaSeasonMgr</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define sArenaSeasonMgr&#160;&#160;&#160;<a class="el" href="../../dd/df9/a07236.html#ad9299d5394ee20830fe9aca038575ce0">ArenaSeasonMgr::instance</a>()</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="a983281e9aada2538d6bc53ae4dd4d266" name="a983281e9aada2538d6bc53ae4dd4d266"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a983281e9aada2538d6bc53ae4dd4d266">&#9670;&#160;</a></span>ArenaSeasonRewardGroupCriteriaType</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../dc/d50/a00332.html#a983281e9aada2538d6bc53ae4dd4d266">ArenaSeasonRewardGroupCriteriaType</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a983281e9aada2538d6bc53ae4dd4d266a39f434bc965a3f4fafe78ece7d3f6422" name="a983281e9aada2538d6bc53ae4dd4d266a39f434bc965a3f4fafe78ece7d3f6422"></a>ARENA_SEASON_REWARD_CRITERIA_TYPE_PERCENT_VALUE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a983281e9aada2538d6bc53ae4dd4d266a80897ebd11175aa1dd3435611c86dd63" name="a983281e9aada2538d6bc53ae4dd4d266a80897ebd11175aa1dd3435611c86dd63"></a>ARENA_SEASON_REWARD_CRITERIA_TYPE_ABSOLUTE_VALUE&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   39</span>{</div>
-<div class="line"><span class="lineno">   40</span>    <a class="code hl_enumvalue" href="../../dc/d50/a00332.html#a983281e9aada2538d6bc53ae4dd4d266a39f434bc965a3f4fafe78ece7d3f6422">ARENA_SEASON_REWARD_CRITERIA_TYPE_PERCENT_VALUE</a>,</div>
-<div class="line"><span class="lineno">   41</span>    <a class="code hl_enumvalue" href="../../dc/d50/a00332.html#a983281e9aada2538d6bc53ae4dd4d266a80897ebd11175aa1dd3435611c86dd63">ARENA_SEASON_REWARD_CRITERIA_TYPE_ABSOLUTE_VALUE</a></div>
-<div class="line"><span class="lineno">   42</span>};</div>
-<div class="ttc" id="aa00332_html_a983281e9aada2538d6bc53ae4dd4d266a39f434bc965a3f4fafe78ece7d3f6422"><div class="ttname"><a href="../../dc/d50/a00332.html#a983281e9aada2538d6bc53ae4dd4d266a39f434bc965a3f4fafe78ece7d3f6422">ARENA_SEASON_REWARD_CRITERIA_TYPE_PERCENT_VALUE</a></div><div class="ttdeci">@ ARENA_SEASON_REWARD_CRITERIA_TYPE_PERCENT_VALUE</div><div class="ttdef"><b>Definition:</b> ArenaSeasonMgr.h:40</div></div>
-<div class="ttc" id="aa00332_html_a983281e9aada2538d6bc53ae4dd4d266a80897ebd11175aa1dd3435611c86dd63"><div class="ttname"><a href="../../dc/d50/a00332.html#a983281e9aada2538d6bc53ae4dd4d266a80897ebd11175aa1dd3435611c86dd63">ARENA_SEASON_REWARD_CRITERIA_TYPE_ABSOLUTE_VALUE</a></div><div class="ttdeci">@ ARENA_SEASON_REWARD_CRITERIA_TYPE_ABSOLUTE_VALUE</div><div class="ttdef"><b>Definition:</b> ArenaSeasonMgr.h:41</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a89a1f93759bb943ff9ef0e4991579265" name="a89a1f93759bb943ff9ef0e4991579265"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a89a1f93759bb943ff9ef0e4991579265">&#9670;&#160;</a></span>ArenaSeasonRewardType</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../dc/d50/a00332.html#a89a1f93759bb943ff9ef0e4991579265">ArenaSeasonRewardType</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a89a1f93759bb943ff9ef0e4991579265a124351d53a1d14813bc7af90043d8a32" name="a89a1f93759bb943ff9ef0e4991579265a124351d53a1d14813bc7af90043d8a32"></a>ARENA_SEASON_REWARD_TYPE_ITEM&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a89a1f93759bb943ff9ef0e4991579265ad12571a956e334946d72aa118f464444" name="a89a1f93759bb943ff9ef0e4991579265ad12571a956e334946d72aa118f464444"></a>ARENA_SEASON_REWARD_TYPE_ACHIEVEMENT&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   33</span>{</div>
-<div class="line"><span class="lineno">   34</span>    <a class="code hl_enumvalue" href="../../dc/d50/a00332.html#a89a1f93759bb943ff9ef0e4991579265a124351d53a1d14813bc7af90043d8a32">ARENA_SEASON_REWARD_TYPE_ITEM</a>,</div>
-<div class="line"><span class="lineno">   35</span>    <a class="code hl_enumvalue" href="../../dc/d50/a00332.html#a89a1f93759bb943ff9ef0e4991579265ad12571a956e334946d72aa118f464444">ARENA_SEASON_REWARD_TYPE_ACHIEVEMENT</a></div>
-<div class="line"><span class="lineno">   36</span>};</div>
-<div class="ttc" id="aa00332_html_a89a1f93759bb943ff9ef0e4991579265a124351d53a1d14813bc7af90043d8a32"><div class="ttname"><a href="../../dc/d50/a00332.html#a89a1f93759bb943ff9ef0e4991579265a124351d53a1d14813bc7af90043d8a32">ARENA_SEASON_REWARD_TYPE_ITEM</a></div><div class="ttdeci">@ ARENA_SEASON_REWARD_TYPE_ITEM</div><div class="ttdef"><b>Definition:</b> ArenaSeasonMgr.h:34</div></div>
-<div class="ttc" id="aa00332_html_a89a1f93759bb943ff9ef0e4991579265ad12571a956e334946d72aa118f464444"><div class="ttname"><a href="../../dc/d50/a00332.html#a89a1f93759bb943ff9ef0e4991579265ad12571a956e334946d72aa118f464444">ARENA_SEASON_REWARD_TYPE_ACHIEVEMENT</a></div><div class="ttdeci">@ ARENA_SEASON_REWARD_TYPE_ACHIEVEMENT</div><div class="ttdef"><b>Definition:</b> ArenaSeasonMgr.h:35</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a64f8715fead51dc9727d105bce4d0e38" name="a64f8715fead51dc9727d105bce4d0e38"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a64f8715fead51dc9727d105bce4d0e38">&#9670;&#160;</a></span>ArenaSeasonState</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../dc/d50/a00332.html#a64f8715fead51dc9727d105bce4d0e38">ArenaSeasonState</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a64f8715fead51dc9727d105bce4d0e38ac019cd8397ba38ebc1d327c337d48017" name="a64f8715fead51dc9727d105bce4d0e38ac019cd8397ba38ebc1d327c337d48017"></a>ARENA_SEASON_STATE_DISABLED&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a64f8715fead51dc9727d105bce4d0e38a455a35a5e6e89efd32818e52ca82f5f8" name="a64f8715fead51dc9727d105bce4d0e38a455a35a5e6e89efd32818e52ca82f5f8"></a>ARENA_SEASON_STATE_IN_PROGRESS&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   27</span>{</div>
-<div class="line"><span class="lineno">   28</span>    <a class="code hl_enumvalue" href="../../dc/d50/a00332.html#a64f8715fead51dc9727d105bce4d0e38ac019cd8397ba38ebc1d327c337d48017">ARENA_SEASON_STATE_DISABLED</a>    = 0,</div>
-<div class="line"><span class="lineno">   29</span>    <a class="code hl_enumvalue" href="../../dc/d50/a00332.html#a64f8715fead51dc9727d105bce4d0e38a455a35a5e6e89efd32818e52ca82f5f8">ARENA_SEASON_STATE_IN_PROGRESS</a> = 1</div>
-<div class="line"><span class="lineno">   30</span>};</div>
-<div class="ttc" id="aa00332_html_a64f8715fead51dc9727d105bce4d0e38a455a35a5e6e89efd32818e52ca82f5f8"><div class="ttname"><a href="../../dc/d50/a00332.html#a64f8715fead51dc9727d105bce4d0e38a455a35a5e6e89efd32818e52ca82f5f8">ARENA_SEASON_STATE_IN_PROGRESS</a></div><div class="ttdeci">@ ARENA_SEASON_STATE_IN_PROGRESS</div><div class="ttdef"><b>Definition:</b> ArenaSeasonMgr.h:29</div></div>
-<div class="ttc" id="aa00332_html_a64f8715fead51dc9727d105bce4d0e38ac019cd8397ba38ebc1d327c337d48017"><div class="ttname"><a href="../../dc/d50/a00332.html#a64f8715fead51dc9727d105bce4d0e38ac019cd8397ba38ebc1d327c337d48017">ARENA_SEASON_STATE_DISABLED</a></div><div class="ttdeci">@ ARENA_SEASON_STATE_DISABLED</div><div class="ttdef"><b>Definition:</b> ArenaSeasonMgr.h:28</div></div>
-</div><!-- fragment -->
-</div>
-</div>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_fc52f0b797d74b4b54bfd04593b84648.html">Battlegrounds</a></li><li class="navelem"><a class="el" href="../../dir_48faa64a6ed131cb5d396ef5deb4a27f.html">ArenaSeason</a></li><li class="navelem"><a class="el" href="../../dc/d50/a00332.html">ArenaSeasonMgr.h</a></li>
-    <li class="footer">Generated on Mon Aug 25 2025 20:45:16 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1070012e9e40376f8468ff0aa5b77c71.html">common</a></li><li class="navelem"><a class="el" href="../../dir_34825b659a55315b272dfcc55a7a0f6a.html">Collision</a></li><li class="navelem"><a class="el" href="../../dir_4f6dd9407c30513885e39c17576c5e90.html">Models</a></li><li class="navelem"><a class="el" href="../../dc/d50/a00332.html">WorldModel.h</a></li>
+    <li class="footer">Generated on Mon Sep 1 2025 20:42:34 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

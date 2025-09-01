@@ -1,6 +1,6 @@
 var a17358 =
 [
-    [ "PrepareSpellScript", "d7/da2/a17358.html#a86609d6cd708de9ead02c6134cbb6f64", null ],
-    [ "Register", "d7/da2/a17358.html#aceb3da4aec68cb44bcbee36f599afd62", null ],
-    [ "SetDest", "d7/da2/a17358.html#a9ed93e44df4e759fda72a63474e01b3b", null ]
+    [ "boss_eckAI", "d6/dae/a17362.html", "d6/dae/a17362" ],
+    [ "boss_eck", "d7/da2/a17358.html#aa445927936d7759a8c3289e2899181e5", null ],
+    [ "GetAI", "d7/da2/a17358.html#a335755ec7416d3e00a4070e03569293a", null ]
 ];

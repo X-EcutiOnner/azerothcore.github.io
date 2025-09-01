@@ -1,6 +1,6 @@
 var a21230 =
 [
-    [ "boss_archavonAI", "d8/df3/a21234.html", "d8/df3/a21234" ],
-    [ "boss_archavon", "de/d7a/a21230.html#a44e20480f8d86cf763afe67de49c6c33", null ],
-    [ "GetAI", "de/d7a/a21230.html#a5eb62d54fe1559ef9df51c2bd01f7de4", null ]
+    [ "HandleEffectPeriodic", "de/d7a/a21230.html#a3dd6eaa3e5800b92e19c12e47b0ad132", null ],
+    [ "PrepareAuraScript", "de/d7a/a21230.html#a0b24e94cfce6b57d2dc8b36c3fe1c39f", null ],
+    [ "Register", "de/d7a/a21230.html#a4dd779cac93c2f847495dadc67c0beb2", null ]
 ];

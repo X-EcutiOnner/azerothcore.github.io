@@ -1,7 +1,6 @@
 var a19658 =
 [
-    [ "HandleEffectRemove", "d5/d1a/a19658.html#af61220cb739baef9b33aecddb1cfe5ea", null ],
-    [ "PrepareAuraScript", "d5/d1a/a19658.html#ad8035b1b676751fcc299e4ad8df62ed8", null ],
-    [ "Register", "d5/d1a/a19658.html#abe52dbfdbd42c860e0a79873dd19e22d", null ],
-    [ "Validate", "d5/d1a/a19658.html#a7c4f9df92b501720e30372fa9e9dbad7", null ]
+    [ "boss_bjarngrimAI", "dd/d24/a19662.html", "dd/d24/a19662" ],
+    [ "boss_bjarngrim", "d5/d1a/a19658.html#ab509688547d41ec1fd094fdc45291959", null ],
+    [ "GetAI", "d5/d1a/a19658.html#aff6455d2a327bbf3426d10a07f7b0e44", null ]
 ];

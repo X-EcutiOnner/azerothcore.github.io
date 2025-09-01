@@ -1,6 +1,7 @@
 var a18274 =
 [
-    [ "npc_icc_ice_sphereAI", "da/dba/a18278.html", "da/dba/a18278" ],
-    [ "npc_icc_ice_sphere", "d3/d96/a18274.html#a4ed169ba87e801bb83ca4f3c457534cf", null ],
-    [ "GetAI", "d3/d96/a18274.html#aabb9ef14ea217f282173edf1600d3ecd", null ]
+    [ "PeriodicTick", "d3/d96/a18274.html#a0c365bbb4ae9b77bb9e00a1eb41b96e4", null ],
+    [ "PrepareAuraScript", "d3/d96/a18274.html#afcadfbdd84608e827b89c64bf03c8501", null ],
+    [ "Register", "d3/d96/a18274.html#a0e8e8685ce8c1eea2b60e8bf6aeed782", null ],
+    [ "Validate", "d3/d96/a18274.html#a879b657d94c1faf6225fe64f907cdf82", null ]
 ];

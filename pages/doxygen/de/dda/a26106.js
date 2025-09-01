@@ -1,7 +1,8 @@
 var a26106 =
 [
-    [ "OnProc", "de/dda/a26106.html#a304fd48cc79d3e7371212632d276b2ff", null ],
-    [ "PrepareAuraScript", "de/dda/a26106.html#a239f9448d36bee4cfb46d95bf20c0148", null ],
-    [ "Register", "de/dda/a26106.html#a28be437c5f3e8bca0f54be97cb5c5a1f", null ],
-    [ "Validate", "de/dda/a26106.html#adc217147d7c150d66dad4d3e922cff96", null ]
+    [ "CheckQuest", "de/dda/a26106.html#ab7ebff0894832ac009cda89b7c28e252", null ],
+    [ "HandleDummy", "de/dda/a26106.html#a365df14504a54e95e7d68d22a284e441", null ],
+    [ "HandleOpenObject", "de/dda/a26106.html#a69467afd49dc2429b8ba9640c8af5dfa", null ],
+    [ "PrepareSpellScript", "de/dda/a26106.html#a479e313031a2e71473238d8f645bf2d4", null ],
+    [ "Register", "de/dda/a26106.html#a70f1a91e611cc2092aad44a909cd53db", null ]
 ];

@@ -1,8 +1,10 @@
 var a15682 =
 [
-    [ "npc_pluckyAI", "d6/de5/a15686.html", "d6/de5/a15686" ],
-    [ "npc_plucky", "d2/db3/a15682.html#a86bb2992b8af5893987145117aaf3608", null ],
-    [ "GetAI", "d2/db3/a15682.html#a51e73f4e1f618aee5a000e31328efefc", null ],
-    [ "OnGossipHello", "d2/db3/a15682.html#a3443f3e8c2b3fcc96955ab2e55e7fd61", null ],
-    [ "OnGossipSelect", "d2/db3/a15682.html#a88fa465246b4c657b921ebdc96f7a112", null ]
+    [ "npc_omenAI", "d2/db3/a15682.html#a042c0854b4cc08861fabbd347acbb9d7", null ],
+    [ "JustDied", "d2/db3/a15682.html#a5a5d61081c2c59d637739de0f2fe39d4", null ],
+    [ "JustEngagedWith", "d2/db3/a15682.html#aa2dbe46d16d7059c57876e000fcf1bb5", null ],
+    [ "MovementInform", "d2/db3/a15682.html#a92e59bde1f0da2ee537a836304a3c385", null ],
+    [ "SpellHit", "d2/db3/a15682.html#a4e3960d506fd0435de055a365906a9c9", null ],
+    [ "UpdateAI", "d2/db3/a15682.html#a6f114ab4bbe3e6e1fd6d74da93a36027", null ],
+    [ "events", "d2/db3/a15682.html#aaaaff29ffd8f216eb3e09b51a67f7321", null ]
 ];

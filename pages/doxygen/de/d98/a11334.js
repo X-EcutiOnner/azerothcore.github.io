@@ -1,6 +1,8 @@
 var a11334 =
 [
-    [ "EffectManaShieldHandler", "de/d98/a11334.html#a234fb0f6749072f9cc6310f80b3b9583", null ],
-    [ "Call", "de/d98/a11334.html#a30ac72ee0a22ac3e71bcb2eeda903dbc", null ],
-    [ "pEffectHandlerScript", "de/d98/a11334.html#a1aec2af2a69a90b8038d612d9ebddc2b", null ]
+    [ "target_mapId", "de/d98/a11334.html#a6dbbb558810388e0d051d84a0279a444", null ],
+    [ "target_Orientation", "de/d98/a11334.html#a7e30264eff9ece771dfaa421ef987b2a", null ],
+    [ "target_X", "de/d98/a11334.html#aa78b3d4cfb4277bcb1bf6a31ffc87546", null ],
+    [ "target_Y", "de/d98/a11334.html#a6f432d8770adebf513346713b7890b5c", null ],
+    [ "target_Z", "de/d98/a11334.html#a3af706b81f8fbef12277c518964f717a", null ]
 ];

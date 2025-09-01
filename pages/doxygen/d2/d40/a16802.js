@@ -1,6 +1,7 @@
 var a16802 =
 [
-    [ "npc_fos_leader_secondAI", "d6/da7/a16806.html", "d6/da7/a16806" ],
-    [ "npc_fos_leader_second", "d2/d40/a16802.html#a0e24659ef6e834da5a3adc8d79f0db4e", null ],
-    [ "GetAI", "d2/d40/a16802.html#a96082888ccbb1c81be8327e5e0d84e03", null ]
+    [ "HandleEffectPeriodic", "d2/d40/a16802.html#ae8121dcb796f3ee496c24bbd46651f81", null ],
+    [ "PrepareAuraScript", "d2/d40/a16802.html#af84222492b3209c97695895c4c991f4a", null ],
+    [ "Register", "d2/d40/a16802.html#a4d1741913631bb649508ef238e25a6c8", null ],
+    [ "Validate", "d2/d40/a16802.html#ac9b7fd3876620988cc74aa0a5202e599", null ]
 ];

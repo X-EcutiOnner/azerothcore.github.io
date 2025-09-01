@@ -1,13 +1,12 @@
 var a22478 =
 [
-    [ "OPvPCapturePointEP_EWT", "d6/d75/a22478.html#a3740f069c46f9d3f0e11d97663bc0104", null ],
-    [ "ChangeState", "d6/d75/a22478.html#ac00c50b89e1218f87506778096a9d7cd", null ],
-    [ "FillInitialWorldStates", "d6/d75/a22478.html#a7ce76f4fc8169c42f65267daf987a3b6", null ],
-    [ "HandlePlayerEnter", "d6/d75/a22478.html#aed78ccf9ad517b4a94431e3355cba1dd", null ],
-    [ "HandlePlayerLeave", "d6/d75/a22478.html#a2638b24dca375420778845963e307db3", null ],
-    [ "SendChangePhase", "d6/d75/a22478.html#a6d45df918aea00e9cb85a8940cb5c1c9", null ],
-    [ "SummonSupportUnitAtNorthpassTower", "d6/d75/a22478.html#ad70a8cc485072cd9af892290584062d8", null ],
-    [ "UpdateTowerState", "d6/d75/a22478.html#ac0bcdfb9f2aeabc78b72c3cce674c479", null ],
-    [ "m_TowerState", "d6/d75/a22478.html#aa30e9cc01476eb20b188c7a13a405c3a", null ],
-    [ "m_UnitsSummonedSideId", "d6/d75/a22478.html#a0319f0d51624df44419976e7abd1b813", null ]
+    [ "npc_icefangAI", "d6/d75/a22478.html#ab74b58a77e3c1349ed308f7febef794a", null ],
+    [ "AttackStart", "d6/d75/a22478.html#a56615ecdb45389aa793374d26a636d45", null ],
+    [ "EnterEvadeMode", "d6/d75/a22478.html#a1465c4779ea8b080f934163c8db6c99c", null ],
+    [ "JustDied", "d6/d75/a22478.html#a3140c8306a384833cca1580ad964d73a", null ],
+    [ "JustEngagedWith", "d6/d75/a22478.html#a8455dd4afb5ef5a694ca9237848df907", null ],
+    [ "OnCharmed", "d6/d75/a22478.html#ad7f3465f5730cd9ebd42bb4092ec8e68", null ],
+    [ "PassengerBoarded", "d6/d75/a22478.html#acf6e8e273830d022eaca3a28a4bd5320", null ],
+    [ "UpdateAI", "d6/d75/a22478.html#ab4d752f2273062c48339b53e611e617c", null ],
+    [ "WaypointReached", "d6/d75/a22478.html#ae315a1d22317edb2864e4d796f808ffb", null ]
 ];

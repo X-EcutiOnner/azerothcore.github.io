@@ -1,15 +1,37 @@
 var a00866 =
 [
-    [ "GetGameTime", "dd/db2/a00866.html#adbe1785d1327dedf2ac403b7cc8e99c2", null ],
-    [ "GetGameTimeMS", "dd/db2/a00866.html#a6d0d49f37e25e497391157b2a2ec90c1", null ],
-    [ "GetStartTime", "dd/db2/a00866.html#a872d34d3f9d420cfc749073c809931f9", null ],
-    [ "GetSystemTime", "dd/db2/a00866.html#a443eccf314fe436192278d425d6d8220", null ],
-    [ "GetUptime", "dd/db2/a00866.html#ae2ff9233756dd88fa1aafcc1e1c0be4d", null ],
-    [ "Now", "dd/db2/a00866.html#ae5cc9f17fc6b8b15c678fa7a84a6e117", null ],
-    [ "UpdateGameTimers", "dd/db2/a00866.html#a45712735241c9563a12fc3da54fb144d", null ],
-    [ "GameMSTime", "dd/db2/a00866.html#ad5fc2a056410eeac2e2717f91cb8295c", null ],
-    [ "GameTime", "dd/db2/a00866.html#a9a28ffdb4bb387919d2dd70a51080ce0", null ],
-    [ "GameTimeSteadyPoint", "dd/db2/a00866.html#a874057035d37aa57afc5064acffba119", null ],
-    [ "GameTimeSystemPoint", "dd/db2/a00866.html#aa393fef2187ebdd6aa34379b0f1504d7", null ],
-    [ "StartTime", "dd/db2/a00866.html#a78088a0637670a1ab5125a1388f7ca52", null ]
+    [ "npc_ame", "dd/dd6/a15874.html", "dd/dd6/a15874" ],
+    [ "npc_ame::npc_ameAI", "d3/db4/a15878.html", "d3/db4/a15878" ],
+    [ "npc_ringo", "db/d4e/a15882.html", "db/d4e/a15882" ],
+    [ "npc_ringo::npc_ringoAI", "d5/d6d/a15886.html", "d5/d6d/a15886" ],
+    [ "AmeData", "dd/db2/a00866.html#abbb0f5e31bd003a50e94cc712dbab7c0", [
+      [ "SAY_READY", "dd/db2/a00866.html#abbb0f5e31bd003a50e94cc712dbab7c0a82af2bd2787802be3ff2ee4588ea9be4", null ],
+      [ "SAY_AGGRO1", "dd/db2/a00866.html#abbb0f5e31bd003a50e94cc712dbab7c0a17fd4d94120185f67ee94a41652285a5", null ],
+      [ "SAY_SEARCH", "dd/db2/a00866.html#abbb0f5e31bd003a50e94cc712dbab7c0a843a1ad765b601ed599c443b66ae5d77", null ],
+      [ "SAY_AGGRO2", "dd/db2/a00866.html#abbb0f5e31bd003a50e94cc712dbab7c0af73eb45ca3cf512147f1d25e1254c224", null ],
+      [ "SAY_AGGRO3", "dd/db2/a00866.html#abbb0f5e31bd003a50e94cc712dbab7c0aa623912b4ba266583234ba5df070e02e", null ],
+      [ "SAY_FINISH", "dd/db2/a00866.html#abbb0f5e31bd003a50e94cc712dbab7c0a0e5b4f2c41b1953cea52b7f41d134838", null ],
+      [ "SPELL_DEMORALIZINGSHOUT", "dd/db2/a00866.html#abbb0f5e31bd003a50e94cc712dbab7c0a8477c04b326171f69326346981b724e1", null ],
+      [ "QUEST_CHASING_AME", "dd/db2/a00866.html#abbb0f5e31bd003a50e94cc712dbab7c0aa73d2307a32eceb7d713d314b325b827", null ],
+      [ "ENTRY_TARLORD", "dd/db2/a00866.html#abbb0f5e31bd003a50e94cc712dbab7c0ab6db2c46b771ac7d038f25d35308beec", null ],
+      [ "ENTRY_TARLORD1", "dd/db2/a00866.html#abbb0f5e31bd003a50e94cc712dbab7c0ae1f81eb98b3fa0fc40666dedb0ece35f", null ],
+      [ "ENTRY_STOMPER", "dd/db2/a00866.html#abbb0f5e31bd003a50e94cc712dbab7c0af0775f5d04bd4e00f048e939fed6e64a", null ]
+    ] ],
+    [ "Ringo", "dd/db2/a00866.html#a1eb7864fe2b6e6ec59692fb2f7c02592", [
+      [ "SAY_RIN_START", "dd/db2/a00866.html#a1eb7864fe2b6e6ec59692fb2f7c02592abd4cb0c4d5414164403e75fca667915b", null ],
+      [ "SAY_FAINT", "dd/db2/a00866.html#a1eb7864fe2b6e6ec59692fb2f7c02592a39f7b5e8a7fc4ed40e62cedfa93923bd", null ],
+      [ "SAY_WAKE", "dd/db2/a00866.html#a1eb7864fe2b6e6ec59692fb2f7c02592aadb6c63e08a18de76bcc95ca2e830a6e", null ],
+      [ "SAY_RIN_END_1", "dd/db2/a00866.html#a1eb7864fe2b6e6ec59692fb2f7c02592ae8753384ff9e53b533a5a1cebd16ce64", null ],
+      [ "SAY_SPR_END_2", "dd/db2/a00866.html#a1eb7864fe2b6e6ec59692fb2f7c02592a1a913192c37c18a19114eebee21e1a85", null ],
+      [ "SAY_RIN_END_3", "dd/db2/a00866.html#a1eb7864fe2b6e6ec59692fb2f7c02592ae29a03470647c5d13bcb1729160b1d8b", null ],
+      [ "EMOTE_RIN_END_4", "dd/db2/a00866.html#a1eb7864fe2b6e6ec59692fb2f7c02592aeeed58bd2d47e0450374129434bcf296", null ],
+      [ "EMOTE_RIN_END_5", "dd/db2/a00866.html#a1eb7864fe2b6e6ec59692fb2f7c02592ac0c11a39be96e25065c399ff7dd7c484", null ],
+      [ "SAY_RIN_END_6", "dd/db2/a00866.html#a1eb7864fe2b6e6ec59692fb2f7c02592a699867c1deab61d85853622b099cd728", null ],
+      [ "SAY_SPR_END_7", "dd/db2/a00866.html#a1eb7864fe2b6e6ec59692fb2f7c02592ac165214832e6be5740245dd6239ef2c9", null ],
+      [ "EMOTE_RIN_END_8", "dd/db2/a00866.html#a1eb7864fe2b6e6ec59692fb2f7c02592ac034860ad6513469b74ad5b7cc76edc7", null ],
+      [ "SPELL_REVIVE_RINGO", "dd/db2/a00866.html#a1eb7864fe2b6e6ec59692fb2f7c02592a9fc3d4c57ff3ca56f344b70df866e766", null ],
+      [ "QUEST_A_LITTLE_HELP", "dd/db2/a00866.html#a1eb7864fe2b6e6ec59692fb2f7c02592a6ab7d20ae4eca495ad164638b1e68b51", null ],
+      [ "NPC_SPRAGGLE", "dd/db2/a00866.html#a1eb7864fe2b6e6ec59692fb2f7c02592a4bc3afbb0cf9626825ffda0b610e2e64", null ]
+    ] ],
+    [ "AddSC_ungoro_crater", "dd/db2/a00866.html#a6e2c88161cee97e0e405ef83abcc653f", null ]
 ];

@@ -1,7 +1,5 @@
 var a27934 =
 [
-    [ "Class", "d7/d30/a27934.html#abaaa0cd4d1b7f3ef5b297c5afdbc99fe", null ],
-    [ "Gender", "d7/d30/a27934.html#aba6251a7020c6e66b9fc7a21859df271", null ],
-    [ "ItemId", "d7/d30/a27934.html#a7d17ef6151f6b746223e44164ab5c20d", null ],
-    [ "Race", "d7/d30/a27934.html#aee768679c4b8ee7cd28ea3fa899206e3", null ]
+    [ "go_transport_the_purple_princess", "d7/d30/a27934.html#ab0c79197964857d578036693a2c18e8a", null ],
+    [ "EventInform", "d7/d30/a27934.html#ac5b73f1bea180797169138f8e9228783", null ]
 ];

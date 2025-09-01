@@ -1,6 +1,6 @@
 var a13610 =
 [
-    [ "npc_greengill_slaveAI", "dc/d3f/a13614.html", "dc/d3f/a13614" ],
-    [ "npc_greengill_slave", "d2/d57/a13610.html#a46fb36fadb5ed5fc94a563473edd8732", null ],
-    [ "GetAI", "d2/d57/a13610.html#ab2cb9adfeef75384becfbb3c5188b8d7", null ]
+    [ "ChangeSummonPos", "d2/d57/a13610.html#ae24a7c8279a92f1018748a0e930736ac", null ],
+    [ "PrepareSpellScript", "d2/d57/a13610.html#a7b6cd9464f27676f0c74224ef1b1a9cc", null ],
+    [ "Register", "d2/d57/a13610.html#a03a1a1e5501452eacaceadd9725f2287", null ]
 ];

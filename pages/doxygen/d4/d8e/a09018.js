@@ -1,7 +1,12 @@
 var a09018 =
 [
-    [ "QuestPOIPoint", "d4/d8e/a09018.html#a99aaafe1fdae391c6fba20e0c623ff99", null ],
-    [ "QuestPOIPoint", "d4/d8e/a09018.html#a2e80e5a83ab336a8b019f38297862efa", null ],
-    [ "x", "d4/d8e/a09018.html#a5e9592283b28cd6ff0610ec0438b2a2d", null ],
-    [ "y", "d4/d8e/a09018.html#a45211fd0fbeeb5d9fced2b2c31502851", null ]
+    [ "IsTeamAward1", "d4/d8e/a09018.html#a25f928a8f8c3a19b1aa9a5c41b0ba612", null ],
+    [ "IsTeamAward2", "d4/d8e/a09018.html#a053bd7825d0464ac322b449f3d243722", null ],
+    [ "RepFaction1", "d4/d8e/a09018.html#a4e75bb4149f8bb0b83a5aacba47800dd", null ],
+    [ "RepFaction2", "d4/d8e/a09018.html#a5934590811c666d06b68216428574d8a", null ],
+    [ "ReputationMaxCap1", "d4/d8e/a09018.html#a292b78f629723c3993a796eb256dd9b8", null ],
+    [ "ReputationMaxCap2", "d4/d8e/a09018.html#ac90d17e82d6c8a763d3ea868250b44a7", null ],
+    [ "RepValue1", "d4/d8e/a09018.html#a4c5f965e028c45d6ad4d5875f76b2458", null ],
+    [ "RepValue2", "d4/d8e/a09018.html#a74f46afc59593d7ae71ab65aa9e1f1c2", null ],
+    [ "TeamDependent", "d4/d8e/a09018.html#a66e60a90f166e5fc12ea4dbe615c998f", null ]
 ];

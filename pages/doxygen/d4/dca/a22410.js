@@ -1,5 +1,6 @@
 var a22410 =
 [
-    [ "achievement_wg_within_our_grasp", "d4/dca/a22410.html#a9edbd15bc6989c6948e21391a683d22d", null ],
-    [ "OnCheck", "d4/dca/a22410.html#a10b659c4b52322536333e3d191796c27", null ]
+    [ "HandleScriptEffect", "d4/dca/a22410.html#a1dac2806b74471332aec0595118005a3", null ],
+    [ "PrepareSpellScript", "d4/dca/a22410.html#adb1efd90b7ffa23887ca4aa3afb6d99e", null ],
+    [ "Register", "d4/dca/a22410.html#a2ff0986c88dcbd9aac263f62b772c992", null ]
 ];

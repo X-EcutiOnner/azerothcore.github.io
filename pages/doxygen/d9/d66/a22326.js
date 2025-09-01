@@ -1,6 +1,6 @@
 var a22326 =
 [
-    [ "npc_vehicle_d16_propelled_deliveryAI", "da/d45/a22330.html", "da/d45/a22330" ],
-    [ "npc_vehicle_d16_propelled_delivery", "d9/d66/a22326.html#a93bed362ae78231b21327994a3e4cafd", null ],
-    [ "GetAI", "d9/d66/a22326.html#abda3dbcb251d7f1e614d089f630d0d1c", null ]
+    [ "HandleHealPct", "d9/d66/a22326.html#aa297ef88b58849610b1b3bfdb0142eab", null ],
+    [ "PrepareSpellScript", "d9/d66/a22326.html#a902b733a4b106439c49f8c80de8e9bf3", null ],
+    [ "Register", "d9/d66/a22326.html#a52f253d2a3b9b3890020107b7722ad96", null ]
 ];

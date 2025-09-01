@@ -1,11 +1,6 @@
 var a12102 =
 [
-    [ "npc_rookery_hatcherAI", "dc/d62/a12102.html#a3154429437a108edf77de7ec1f0b2cda", null ],
-    [ "InitializeAI", "dc/d62/a12102.html#af144dc2cbe632038057f931fd71da29d", null ],
-    [ "JustEngagedWith", "dc/d62/a12102.html#a7b7ecaa42bdd35f4ee9fe7fad4cd25a9", null ],
-    [ "UpdateAI", "dc/d62/a12102.html#a0f867aa346a2f829067466fbfe6c5335", null ],
-    [ "events", "dc/d62/a12102.html#a220e6f9869d0ea53a593a6ac8e0e28bd", null ],
-    [ "nearbyEggs", "dc/d62/a12102.html#a2cf183745cdf699af7bd273e0ee4d697", null ],
-    [ "targetEgg", "dc/d62/a12102.html#a877af9948503688944e49503a6293574", null ],
-    [ "targetPosition", "dc/d62/a12102.html#a2e94b3d12ef3d8f80546db6c9a9e9e95", null ]
+    [ "boss_high_priestess_thaurissanAI", "dc/d62/a12102.html#acbc89b59865a5fda5a4143dd8c690b37", null ],
+    [ "JustEngagedWith", "dc/d62/a12102.html#a6602682950aab4e9932bf6cdfac9886b", null ],
+    [ "UpdateAI", "dc/d62/a12102.html#a216a5bc7a38aa5e13f9d025f44e04779", null ]
 ];

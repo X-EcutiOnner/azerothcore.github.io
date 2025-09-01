@@ -1,8 +1,6 @@
 var a17434 =
 [
-    [ "npc_muradin_bronzebeard_iccAI", "d4/dbf/a17438.html", "d4/dbf/a17438" ],
-    [ "npc_muradin_bronzebeard_icc", "d2/d16/a17434.html#a7e4cecb0f4cabf024794045ed20e3563", null ],
-    [ "GetAI", "d2/d16/a17434.html#ab2b6a0bb1b8626e5a4064b9412234f4b", null ],
-    [ "OnGossipHello", "d2/d16/a17434.html#a7fb9838521dbae6ac0a8bb4ac1e07c37", null ],
-    [ "OnGossipSelect", "d2/d16/a17434.html#a46c4893be723a848d985ff55e28d55a2", null ]
+    [ "boss_prince_kelesethAI", "d4/dbf/a17438.html", "d4/dbf/a17438" ],
+    [ "boss_prince_keleseth_icc", "d2/d16/a17434.html#a0df14bbfc96b1d6eff19633716cea9f9", null ],
+    [ "GetAI", "d2/d16/a17434.html#ae5a03bbe1d85b9bc865026f05a99545e", null ]
 ];

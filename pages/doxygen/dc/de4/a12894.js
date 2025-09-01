@@ -1,8 +1,12 @@
 var a12894 =
 [
-    [ "npc_dkc1_gothikAI", "dc/de4/a12894.html#a35e65bd943f86ba3a1d6841569289df6", null ],
-    [ "DoAction", "dc/de4/a12894.html#a3193c562973bbf995ab5e0173a93d01f", null ],
-    [ "MoveInLineOfSight", "dc/de4/a12894.html#ac2ee224af001a78aa00013f6c8c9ad3d", null ],
-    [ "UpdateAI", "dc/de4/a12894.html#a346d32c9831babe6fb5f675b70b7a897", null ],
-    [ "spoken", "dc/de4/a12894.html#ac6f32e953a66f9e96ddc99b663014b0c", null ]
+    [ "boss_bigbadwolf", "dc/de4/a12894.html#a1e4ad63c96d64f81e8b9ea82f118cdcc", null ],
+    [ "EnterEvadeMode", "dc/de4/a12894.html#a4f2d5307f5d05ed58bfc200f53bf2969", null ],
+    [ "JustDied", "dc/de4/a12894.html#a167083a43e00a60e9c3792cadaf6e80c", null ],
+    [ "JustEngagedWith", "dc/de4/a12894.html#a529fad938a0ef7261f1c2d589b6ff29c", null ],
+    [ "JustReachedHome", "dc/de4/a12894.html#a7755bf925d919c73075a41f8774280c0", null ],
+    [ "KilledUnit", "dc/de4/a12894.html#a8e004a1feac796ed467eba744f211827", null ],
+    [ "UpdateAI", "dc/de4/a12894.html#ab788a0155a3ffe6535d58263eea16dee", null ],
+    [ "_scheduler", "dc/de4/a12894.html#a661d9b619be30764ba5b89d71de870e9", null ],
+    [ "instance", "dc/de4/a12894.html#aed0e9edc52f13b7b0cfa5047849c26a9", null ]
 ];

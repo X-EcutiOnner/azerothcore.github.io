@@ -1,10 +1,14 @@
 var a23722 =
 [
-    [ "instance_arcatraz_InstanceMapScript", "de/d67/a23722.html#a4c6594eb7fa1f7213c89ea5af6c70ae0", null ],
-    [ "GetGuidData", "de/d67/a23722.html#aa4bedf168359eaf5332476a6de99c830", null ],
-    [ "OnGameObjectCreate", "de/d67/a23722.html#ad8c84d90b85db5717b6a37fc2343e0aa", null ],
-    [ "SetBossState", "de/d67/a23722.html#a2937e4ea47af542a476bd3399ecc7233", null ],
-    [ "SetData", "de/d67/a23722.html#aca09d4856d5c3e1831ea8753a50a3b71", null ],
-    [ "StasisPodGUIDs", "de/d67/a23722.html#a1fb9824baee2d8d83e030da307f21fc3", null ],
-    [ "WardensShieldGUID", "de/d67/a23722.html#a3cbff5742e05f6cf0544807bce64b1d0", null ]
+    [ "boss_vazruden", "de/d67/a23722.html#a9908d6082a09d55dd0d8bb801784a151", null ],
+    [ "DamageTaken", "de/d67/a23722.html#a44b1e4d43bbf0d7faec7f4ee277db811", null ],
+    [ "EnterEvadeMode", "de/d67/a23722.html#aba006e8e9aefe522ea5c36c638bb5c3b", null ],
+    [ "JustDied", "de/d67/a23722.html#a525025b41b53a577bdff1eb818191ed7", null ],
+    [ "JustEngagedWith", "de/d67/a23722.html#a5dbbe80fcfe191ac5ae03f943496ad02", null ],
+    [ "KilledUnit", "de/d67/a23722.html#a8f430a0d7edb0285156c6bf68ba0aa07", null ],
+    [ "Reset", "de/d67/a23722.html#a11b5091dafe2f0de9afd81de7b6fde90", null ],
+    [ "UpdateAI", "de/d67/a23722.html#aebaf147a1a2e723cb0cb8e46f3d01e68", null ],
+    [ "_hasSpoken", "de/d67/a23722.html#af5b9aa9c7a343486b4dc05819e8d3ccf", null ],
+    [ "_nazanCalled", "de/d67/a23722.html#a44d53934c743e9beb539681719997852", null ],
+    [ "_scheduler", "de/d67/a23722.html#a60382206e378c2f2c493d1ee25c4ff8c", null ]
 ];

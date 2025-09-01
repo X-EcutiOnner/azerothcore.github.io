@@ -1,10 +1,6 @@
 var a21902 =
 [
-    [ "npc_emilyAI", "db/d5c/a21902.html#afd1e82e36c8850fbe118ab6abbdb73ce", null ],
-    [ "JustEngagedWith", "db/d5c/a21902.html#a498ddc6969d398fe7a44824f4f8c8893", null ],
-    [ "JustSummoned", "db/d5c/a21902.html#a4730c94b54d2ee5160011557704b35f2", null ],
-    [ "Reset", "db/d5c/a21902.html#a8f196a6e1b21bef162b7ba4d7aeae208", null ],
-    [ "WaypointReached", "db/d5c/a21902.html#a0a68676a6eac8fbe2b634098268eb516", null ],
-    [ "_mrfloppyGUID", "db/d5c/a21902.html#a12a1fbe1ef4767698ab969e51e2f0e8e", null ],
-    [ "_RavenousworgGUID", "db/d5c/a21902.html#aa2a5e45366be9f89221453e00179e1a3", null ]
+    [ "npc_conversing_with_the_depths_triggerAI", "dd/d39/a21906.html", "dd/d39/a21906" ],
+    [ "npc_conversing_with_the_depths_trigger", "db/d5c/a21902.html#a55ba213da86650d44ea1493b26fdb7f2", null ],
+    [ "GetAI", "db/d5c/a21902.html#a61c337bfe1efb3589cf0df91d9082236", null ]
 ];

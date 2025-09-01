@@ -1,6 +1,8 @@
 var a24874 =
 [
-    [ "CheckProc", "db/d83/a24874.html#af742bdfd97c9202d50ed7aa1cf8e7d49", null ],
-    [ "PrepareAuraScript", "db/d83/a24874.html#a255a58ad99059ba28ab09a94e7cc683a", null ],
-    [ "Register", "db/d83/a24874.html#a4ec4dd2342a5b75c975dc6ffe0b02b79", null ]
+    [ "AfterRemove", "db/d83/a24874.html#afdd1575bce3b34da6e3a101eaa695c41", null ],
+    [ "HandleDispel", "db/d83/a24874.html#a3c2ffe31074115f6cab5f4b18b05dbc3", null ],
+    [ "PrepareAuraScript", "db/d83/a24874.html#a44e66753516d693c31dba27c9d1ad250", null ],
+    [ "Register", "db/d83/a24874.html#aa21ecabbf52b457e163f17b3012b0f84", null ],
+    [ "Validate", "db/d83/a24874.html#a6af7e5aa16b3c84ed1388e2f62424701", null ]
 ];

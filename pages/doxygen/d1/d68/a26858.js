@@ -1,6 +1,8 @@
 var a26858 =
 [
-    [ "CalculateAmount", "d1/d68/a26858.html#aa27de1a2fc517a4b796a10e780239880", null ],
-    [ "PrepareAuraScript", "d1/d68/a26858.html#a72e68ff46f2049809f3e3b2c1814bd87", null ],
-    [ "Register", "d1/d68/a26858.html#a5ee969ad0916a9337849c75c18f13c29", null ]
+    [ "CheckFireTotem", "d1/d68/a26858.html#a9d6b4368f5c72b95c25415ea87575fce", null ],
+    [ "HandleDummy", "d1/d68/a26858.html#a179d07e7090cec396a7845754e545e8e", null ],
+    [ "PrepareSpellScript", "d1/d68/a26858.html#a8311cc106da26267e90acd98698cb737", null ],
+    [ "Register", "d1/d68/a26858.html#abae5a4961888e6ba2d876e450307e362", null ],
+    [ "Validate", "d1/d68/a26858.html#a2048b0e43dbe2df6e4dfc42d912a74a7", null ]
 ];

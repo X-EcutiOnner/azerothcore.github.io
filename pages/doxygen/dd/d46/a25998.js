@@ -1,7 +1,8 @@
 var a25998 =
 [
-    [ "HandleKnockBack", "dd/d46/a25998.html#a860fb74000a42a7d6f22d17dde93cdf6", null ],
-    [ "PrepareSpellScript", "dd/d46/a25998.html#ab951d6403188f178f79311cead8a0a8f", null ],
-    [ "Register", "dd/d46/a25998.html#ac62f4fdf003cdd53650fe632b3ed3ef1", null ],
-    [ "Validate", "dd/d46/a25998.html#add1bd8f583772d4dfeb20f01b9fac8ed", null ]
+    [ "HandleDummy", "dd/d46/a25998.html#ae73e0d900e5b33f47bf2ba45d8ab26ce", null ],
+    [ "Load", "dd/d46/a25998.html#a5c0e5de94faca0c2841153f7a099d2eb", null ],
+    [ "PrepareSpellScript", "dd/d46/a25998.html#af89de259afbab436326a67b9eb7833ad", null ],
+    [ "Register", "dd/d46/a25998.html#a78ffb20ccc10c3c632934af862273716", null ],
+    [ "Validate", "dd/d46/a25998.html#ace6bdf4755f1d1c95011bb782cb2e59e", null ]
 ];

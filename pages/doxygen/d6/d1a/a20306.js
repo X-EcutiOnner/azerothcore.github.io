@@ -1,5 +1,6 @@
 var a20306 =
 [
-    [ "achievement_staying_buffed_all_winter_25", "d6/d1a/a20306.html#a91f0ab3bada837cff6414350b98a27a3", null ],
-    [ "OnCheck", "d6/d1a/a20306.html#a36591082184bc8466e124bad9a910545", null ]
+    [ "npc_ulduar_saronite_animusAI", "d2/dcf/a20310.html", "d2/dcf/a20310" ],
+    [ "npc_ulduar_saronite_animus", "d6/d1a/a20306.html#a22d552adc9db3f7d2a533ab7f58a2470", null ],
+    [ "GetAI", "d6/d1a/a20306.html#a1fdd851e9d6e399f8f57d063a7dbd6d9", null ]
 ];

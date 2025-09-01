@@ -1,10 +1,11 @@
 var a07182 =
 [
-    [ "CreatureBottom", "d6/ded/a07182.html#aaa8fe59aa58bf02934bf87f636582637", null ],
-    [ "CreatureTop", "d6/ded/a07182.html#a98a71fcf0d3a1f98ba4dab56d1a3c64b", null ],
-    [ "GameObject", "d6/ded/a07182.html#abc26a328692fc048d9040c44f360f4c4", null ],
-    [ "nbCreatureBottom", "d6/ded/a07182.html#ade8af6bff39a72f7052b7b0db14b207d", null ],
-    [ "nbCreatureTop", "d6/ded/a07182.html#a38ab7536e0682efd7080b823569d504b", null ],
-    [ "nbObject", "d6/ded/a07182.html#ad1e431e7205aee7fa7f8f0dd9a155c97", null ],
-    [ "towerEntry", "d6/ded/a07182.html#a1c0edf97a599773b688954f2e966e794", null ]
+    [ "gyid", "d6/ded/a07182.html#a742fcc91d2daf1a9331f02a90496328c", null ],
+    [ "o", "d6/ded/a07182.html#a9c761e77b7194ab1bb80d28f2b1e1f6d", null ],
+    [ "startcontrol", "d6/ded/a07182.html#a8b0aed9e6973ce6efc5d89a0d10a4139", null ],
+    [ "textid", "d6/ded/a07182.html#a87d80377ad632b9d667eecf11ae8faae", null ],
+    [ "type", "d6/ded/a07182.html#ae1a4b69ea4edabe51f1378c6cb066cad", null ],
+    [ "x", "d6/ded/a07182.html#ad69833b4e2a27999dcd13e5ac5bda892", null ],
+    [ "y", "d6/ded/a07182.html#a405e8098772e77250683985f957ce5f3", null ],
+    [ "z", "d6/ded/a07182.html#a844e4c9c9b1a9a22a817025ccda7f08d", null ]
 ];

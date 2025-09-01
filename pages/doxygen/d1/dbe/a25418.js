@@ -1,9 +1,7 @@
 var a25418 =
 [
-    [ "CheckIfCorpseNear", "d1/dbe/a25418.html#a9b512f84f1d728e24845b6aaa28bdd6b", null ],
-    [ "HandleDummy", "d1/dbe/a25418.html#a913c0137d2a13c810bbae869cc6cf734", null ],
-    [ "Load", "d1/dbe/a25418.html#a3f36968d10bde12c7e2eda8db4145252", null ],
-    [ "PrepareSpellScript", "d1/dbe/a25418.html#acc7d6f489c34c3cc26f37bc94f8727e8", null ],
-    [ "Register", "d1/dbe/a25418.html#a736c4fe39e947ad98df19b3b001bdc29", null ],
-    [ "Validate", "d1/dbe/a25418.html#a51b075f95211025b2a7719a3ee70a6be", null ]
+    [ "PrepareAuraScript", "d1/dbe/a25418.html#afeac0a8393b7d7bf787fca59988d0e14", null ],
+    [ "Register", "d1/dbe/a25418.html#a7cbcf46dbdddea12fd6ce04bcbcea097", null ],
+    [ "TriggerFoodBuff", "d1/dbe/a25418.html#a5d125413491dd377d61b8e30c4979fdd", null ],
+    [ "Validate", "d1/dbe/a25418.html#a6b69d7358eb8cfe6a8f9efd47882eb80", null ]
 ];

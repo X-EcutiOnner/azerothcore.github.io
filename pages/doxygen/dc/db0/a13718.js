@@ -1,7 +1,12 @@
 var a13718 =
 [
-    [ "npc_jaina_proudmoore_bfuAI", "dc/db0/a13718.html#ad5ad1d05ef8210409c700e47b5442e24", null ],
-    [ "Reset", "dc/db0/a13718.html#a18de805428ce0954a5fbfffbf5975342", null ],
-    [ "UpdateAI", "dc/db0/a13718.html#a48b191d0812bfe3212511a52ef0df817", null ],
-    [ "_events", "dc/db0/a13718.html#a87e99e0b5fd0a3823b009025019b1fa4", null ]
+    [ "npc_cameron", "dc/db0/a13718.html#a45e47ec5c9dadc6f0899e83ac2e19cff", null ],
+    [ "MoveTheChildren", "dc/db0/a13718.html#a85ae436f19f69ffb853330f01ee152a0", null ],
+    [ "PathEndReached", "dc/db0/a13718.html#a0bf53f40eeb4fe3ed7d62988bee0a912", null ],
+    [ "sOnGameEvent", "dc/db0/a13718.html#ab22841871cfcdc926b28296a5b4e440c", null ],
+    [ "SoundPicker", "dc/db0/a13718.html#a2ad97aaac0bd759921e0b75cfc88d07d", null ],
+    [ "UpdateAI", "dc/db0/a13718.html#a32a2dd2be2c06700fb81f4072a364ce2", null ],
+    [ "_childrenGUIDs", "dc/db0/a13718.html#ad260466902e8fb1a2e02998cc4549695", null ],
+    [ "_events", "dc/db0/a13718.html#ad6c58f433520c4ed55f43ef3604dde28", null ],
+    [ "_started", "dc/db0/a13718.html#a985d0590eedde340a3923e299d4dffd8", null ]
 ];

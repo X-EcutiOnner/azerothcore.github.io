@@ -1,6 +1,6 @@
 var a22330 =
 [
-    [ "npc_vehicle_d16_propelled_deliveryAI", "da/d45/a22330.html#afd54b130725aa724b80f150f968ce09d", null ],
-    [ "MovementInform", "da/d45/a22330.html#a37800436af47a8f6fbc6f6eb25eab9f9", null ],
-    [ "PassengerBoarded", "da/d45/a22330.html#a588ed86f5b8316feafd938d85ac65aa0", null ]
+    [ "npc_still_at_it_triggerAI", "d1/de6/a22334.html", "d1/de6/a22334" ],
+    [ "npc_still_at_it_trigger", "da/d45/a22330.html#a23366d00bd3b8217bdca7f0fca05d9bd", null ],
+    [ "GetAI", "da/d45/a22330.html#ae273ea6295f50248d303983d4b4137df", null ]
 ];

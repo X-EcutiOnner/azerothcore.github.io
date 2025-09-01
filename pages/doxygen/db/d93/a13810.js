@@ -1,14 +1,15 @@
 var a13810 =
 [
-    [ "boss_hexlord_malacrass", "db/d93/a13810.html#aaf3fdf0b34904d1c5798ebcc291cdcde", null ],
-    [ "JustEngagedWith", "db/d93/a13810.html#ac5af0a5ec11ab8529e74a1ea7f0b4b66", null ],
-    [ "KilledUnit", "db/d93/a13810.html#a69e7a3aa2cb068706651bad34363099f", null ],
-    [ "Reset", "db/d93/a13810.html#af00159c9e2c54033f52f46d60881f22e", null ],
-    [ "ScheduleClassAbility", "db/d93/a13810.html#aefffbab821a4abb4ab0e6779ba73d5ac", null ],
-    [ "SpawnAdds", "db/d93/a13810.html#a8ffb01ebe267b4eb935e373bd0d99eed", null ],
-    [ "UseAbility", "db/d93/a13810.html#afdad8cc36235f11dc5c4b4f579f5b46b", null ],
-    [ "_classAbilityTimer", "db/d93/a13810.html#a40ccd2e586895ab1cde3c51bcd56c11b", null ],
-    [ "_creatureIndex", "db/d93/a13810.html#ac13b0f08fec4270ed372f00ae540fdc3", null ],
-    [ "_currentClass", "db/d93/a13810.html#ab7e531fccbb486b7b429d77d804841c2", null ],
-    [ "_timeUntilNextDrainPower", "db/d93/a13810.html#aa6963eb30a6e8555d4695bf284b13cac", null ]
+    [ "npc_deathstalker_fearleia", "db/d93/a13810.html#a92c6d31e801164dc0c4ddc8c47f134b6", null ],
+    [ "JustDied", "db/d93/a13810.html#a378f59a926e1be299b6e5ddf0cc83d30", null ],
+    [ "JustEngagedWith", "db/d93/a13810.html#a248f13c2fff27a9ec8075d5b1429fec8", null ],
+    [ "JustSummoned", "db/d93/a13810.html#a8ef363de7292d366eea128b55b1acaeb", null ],
+    [ "Reset", "db/d93/a13810.html#a5f7f40e2d702fae5242cfc347d44a1fe", null ],
+    [ "sQuestAccept", "db/d93/a13810.html#a5da116182685dfac72139b40266f2884", null ],
+    [ "SummonCreatureWithRandomTarget", "db/d93/a13810.html#a884be2e1aa730c310de24cb865fc7aa5", null ],
+    [ "SummonedCreatureDespawn", "db/d93/a13810.html#a36415976d5ae2034578581bdec183f33", null ],
+    [ "UpdateAI", "db/d93/a13810.html#a45f4823e2a131fda3c4e03de13ec0c5e", null ],
+    [ "_playerGUID", "db/d93/a13810.html#a7135b977e1d7ef47c62f4dace25908fd", null ],
+    [ "_questInProgress", "db/d93/a13810.html#a899a4a0c3c70236be66ee2028f3423c7", null ],
+    [ "_summons", "db/d93/a13810.html#a79dc171af9ef5057039f9a6b87c49bd1", null ]
 ];

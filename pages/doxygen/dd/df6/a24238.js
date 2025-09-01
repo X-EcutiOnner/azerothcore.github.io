@@ -1,6 +1,6 @@
 var a24238 =
 [
-    [ "npc_shadowmoon_tuber_nodeAI", "db/d9d/a24242.html", "db/d9d/a24242" ],
-    [ "npc_shadowmoon_tuber_node", "dd/df6/a24238.html#a98e8c7a84789457900fa342cca209d41", null ],
-    [ "GetAI", "dd/df6/a24238.html#a5f641af77e2fd78fe67b34fa18bf6b73", null ]
+    [ "npc_creditmarker_visit_with_ancestorsAI", "db/d9d/a24242.html", "db/d9d/a24242" ],
+    [ "npc_creditmarker_visit_with_ancestors", "dd/df6/a24238.html#a60f7abac7198d8504d944828dceb1ffa", null ],
+    [ "GetAI", "dd/df6/a24238.html#a06eb335a757c9f48fbfa64bfc326bb8e", null ]
 ];

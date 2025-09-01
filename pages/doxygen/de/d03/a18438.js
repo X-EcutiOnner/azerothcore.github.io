@@ -1,6 +1,7 @@
 var a18438 =
 [
-    [ "ManaVoidSelector", "de/d03/a18438.html#aa57a0960e7ce90b8de23f01ae72a1fff", null ],
-    [ "operator()", "de/d03/a18438.html#a464d63f2cf8cfe7d0c6bb5293e788a28", null ],
-    [ "_source", "de/d03/a18438.html#ae45c999db51bc153bba7f2fdfb99f6ba", null ]
+    [ "CheckTargetCount", "de/d03/a18438.html#a67a1cbbf74fe91a32a51d9ad5056f048", null ],
+    [ "PrepareSpellScript", "de/d03/a18438.html#abd32198867e7f01b21b7de6224a597d4", null ],
+    [ "Register", "de/d03/a18438.html#a671bede7fbc68085cd6075f412822869", null ],
+    [ "Validate", "de/d03/a18438.html#a2f64421bb71988f06a7e2cb71a097d75", null ]
 ];

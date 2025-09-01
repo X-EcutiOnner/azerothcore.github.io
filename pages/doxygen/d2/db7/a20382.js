@@ -1,6 +1,6 @@
 var a20382 =
 [
-    [ "OnRemoveStun", "d2/db7/a20382.html#a67aeca34d32c43ff647dc2dbe83cbb7f", null ],
-    [ "PrepareAuraScript", "d2/db7/a20382.html#a0be1d9a7dcba0bff75d59aed926efe55", null ],
-    [ "Register", "d2/db7/a20382.html#a3166cfcd2acdcd4460217503d4008367", null ]
+    [ "npc_ulduar_hodir_priestAI", "d7/d51/a20386.html", "d7/d51/a20386" ],
+    [ "npc_ulduar_hodir_priest", "d2/db7/a20382.html#a30d7f1b68f9a1d10bc47288b81fc517c", null ],
+    [ "GetAI", "d2/db7/a20382.html#a276046b974666c1462440a46a8096de7", null ]
 ];

@@ -1,5 +1,10 @@
 var a21066 =
 [
-    [ "npc_salvaged_siege_engine", "dd/d73/a21066.html#aa8cde891a19ebb1e53be2a81a2432442", null ],
-    [ "BeforeSpellClick", "dd/d73/a21066.html#aed2500b2315b5e508ea3d06a2355d023", null ]
+    [ "boss_yoggsaron_immortal_guardianAI", "dd/d73/a21066.html#a84a3ffe43a4ce49cd543f770594cd683", null ],
+    [ "DamageTaken", "dd/d73/a21066.html#aec157bcf0628a7301bcb91dd62bcc484", null ],
+    [ "Reset", "dd/d73/a21066.html#a763f772414f00c0f83402e1a635b6bd0", null ],
+    [ "SpellHit", "dd/d73/a21066.html#a60721961f2eb5e91c15890252166b872", null ],
+    [ "UpdateAI", "dd/d73/a21066.html#a7fa550f683fcf16f5bd70a307bffcb2b", null ],
+    [ "_spellTimer", "dd/d73/a21066.html#a4ed360380707195e10753436020b67eb", null ],
+    [ "_visualTimer", "dd/d73/a21066.html#a8c382c37aaa3d20cfc0fe604af52bef4", null ]
 ];

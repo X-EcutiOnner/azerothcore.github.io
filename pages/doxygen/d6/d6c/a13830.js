@@ -1,8 +1,6 @@
 var a13830 =
 [
-    [ "FilterTargets", "d6/d6c/a13830.html#a43e45471ad3b8a0583aeb413d48a0f01", null ],
-    [ "OnHit", "d6/d6c/a13830.html#ac25886536c353f09838188362fb8ae84", null ],
-    [ "PrepareSpellScript", "d6/d6c/a13830.html#aab0e63163b8d84f20bbe0bcdc60c9a85", null ],
-    [ "Register", "d6/d6c/a13830.html#afa419365236c09914f758846978e2cbb", null ],
-    [ "Validate", "d6/d6c/a13830.html#ae62334ed5f46641def4a38ee178cd9d0", null ]
+    [ "npc_marzon_silent_bladeAI", "dd/dab/a13834.html", "dd/dab/a13834" ],
+    [ "npc_marzon_silent_blade", "d6/d6c/a13830.html#a8fa1c0e11555df45005f37fd9de7f3a8", null ],
+    [ "GetAI", "d6/d6c/a13830.html#aadde9b84b46c594e41ae8ca3ae0265a1", null ]
 ];

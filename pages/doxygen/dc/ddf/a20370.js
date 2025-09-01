@@ -1,7 +1,8 @@
 var a20370 =
 [
-    [ "boss_kologarn_pit_kill_bunny", "dc/ddf/a20370.html#a0ecbc2ae8850d4cfb84f40d2a13f4976", null ],
-    [ "Reset", "dc/ddf/a20370.html#afd7482896b66f040b8d57b9b6ac37059", null ],
-    [ "UpdateAI", "dc/ddf/a20370.html#ad863666aec3db81f73165148ffc98033", null ],
-    [ "_boundaryIntersect", "dc/ddf/a20370.html#abc0560637830e70d54ce1fb6b6881ca6", null ]
+    [ "npc_ulduar_flash_freezeAI", "dc/ddf/a20370.html#a478e7bc76a7b7ffeb25a0df731cb5ed8", null ],
+    [ "DamageTaken", "dc/ddf/a20370.html#af0c18460b4cc331f51c44a3306f516b8", null ],
+    [ "UpdateAI", "dc/ddf/a20370.html#ab2efa0a8d06297bff05502c40079efe9", null ],
+    [ "pInstance", "dc/ddf/a20370.html#a28be7874fee6dcaea6f205cb75f1450f", null ],
+    [ "timer", "dc/ddf/a20370.html#a590117afe9e9943d8dc8a44af9386066", null ]
 ];

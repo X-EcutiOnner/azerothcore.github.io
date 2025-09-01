@@ -1,6 +1,5 @@
 var a15650 =
 [
-    [ "npc_twiggy_flatheadAI", "de/dea/a15654.html", "de/dea/a15654" ],
-    [ "npc_twiggy_flathead", "d8/dd5/a15650.html#a36e8ae89c9138e1a88c84ecbfd694963", null ],
-    [ "GetAI", "d8/dd5/a15650.html#a48c48994c199502bc3cfb96bf713bc5f", null ]
+    [ "at_ancient_leaf", "d8/dd5/a15650.html#a7c1913b5ac00659697d0b361f1a7a2fd", null ],
+    [ "OnTrigger", "d8/dd5/a15650.html#a6d3a2775216cb0c864dc21f5bb5dbc79", null ]
 ];

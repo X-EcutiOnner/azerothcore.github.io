@@ -1,13 +1,16 @@
 var a15098 =
 [
-    [ "boss_cthun", "d4/dcc/a15098.html#a287ee7b65708971e4fdfa7b814486935", null ],
-    [ "DoAction", "d4/dcc/a15098.html#a04ae38b67d358f1d34820b855aab3869", null ],
-    [ "JustDied", "d4/dcc/a15098.html#a3c6478e7de0e5a6f20f693a788bf8c86", null ],
-    [ "JustEngagedWith", "d4/dcc/a15098.html#a56fe3347ac41b67fb6912f372a5879ba", null ],
-    [ "Reset", "d4/dcc/a15098.html#a05bab8427cd4b4bfa50aee450e423f98", null ],
-    [ "ScheduleTasks", "d4/dcc/a15098.html#a5a0514e56217bb3b30b22b2681542adb", null ],
-    [ "SummonedCreatureDies", "d4/dcc/a15098.html#a49d76bb4cf30ee66fae6114313394961", null ],
-    [ "UpdateAI", "d4/dcc/a15098.html#a7d2685597f1eec2459fe509e5b97681f", null ],
-    [ "_fleshTentaclesKilled", "d4/dcc/a15098.html#a139de83ae488c40d40a4587509cd197d", null ],
-    [ "WisperTimer", "d4/dcc/a15098.html#abad23f1df9c6989e7a6d3d62143adb05", null ]
+    [ "npc_belnistraszAI", "d4/dcc/a15098.html#ac57c5de9140d8d37b15b4a30f4ffc0a1", null ],
+    [ "JustDied", "d4/dcc/a15098.html#aece63cabcfb2bcf54992dc2b4832ca92", null ],
+    [ "JustEngagedWith", "d4/dcc/a15098.html#ab03f29b1f76b7d67e7d7bb3407e2cd41", null ],
+    [ "MovementInform", "d4/dcc/a15098.html#ae64e10d0cc860bf033b76538455b9f8e", null ],
+    [ "Reset", "d4/dcc/a15098.html#aecf1ef9b7f6eecec9489d27ce41deea2", null ],
+    [ "sQuestAccept", "d4/dcc/a15098.html#aa18258b7f80c040d6a5fb9fbbb321efe", null ],
+    [ "UpdateAI", "d4/dcc/a15098.html#a45481c2ef18ab3fec727813de96eb1b6", null ],
+    [ "channeling", "d4/dcc/a15098.html#a88ff13ec705d11475de5a2080998c905", null ],
+    [ "eventInProgress", "d4/dcc/a15098.html#ae9ce796b17c7791d83e949fa406a2b80", null ],
+    [ "eventProgress", "d4/dcc/a15098.html#ad32a0387dbf95b6aa40b3311d6ba8348", null ],
+    [ "events", "d4/dcc/a15098.html#af9c1f14a7a7b7380e9fb99ecdaf80126", null ],
+    [ "instance", "d4/dcc/a15098.html#a61f3bcbf36e630bbb455405eb89ccf00", null ],
+    [ "spawnerCount", "d4/dcc/a15098.html#aa5124160ecba044a3752f68945068776", null ]
 ];

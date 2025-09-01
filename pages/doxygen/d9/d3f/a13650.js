@@ -1,6 +1,6 @@
 var a13650 =
 [
-    [ "npc_lord_gregor_lescovarAI", "d6/d67/a13654.html", "d6/d67/a13654" ],
-    [ "npc_lord_gregor_lescovar", "d9/d3f/a13650.html#a6164425b7bb6bc8aa95a6665b7d1c55c", null ],
-    [ "GetAI", "d9/d3f/a13650.html#a4cf39729bb687c7db3538575a799283e", null ]
+    [ "instance_uldaman_InstanceMapScript", "d6/d67/a13654.html", "d6/d67/a13654" ],
+    [ "instance_uldaman", "d9/d3f/a13650.html#a854807db729d15aa4a09aad051fe3bda", null ],
+    [ "GetInstanceScript", "d9/d3f/a13650.html#a672bb8b5a16d29d25a191ab90d8007b4", null ]
 ];

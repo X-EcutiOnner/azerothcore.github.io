@@ -1,19 +1,15 @@
 var a09570 =
 [
-    [ "GuildContainer", "de/df7/a09570.html#aa9afb05ecb2eb6ee427503a4ea76f7ca", null ],
-    [ "GuildMgr", "de/df7/a09570.html#a0d4a44461eb4c54ddb6646dfd1c11a68", null ],
-    [ "~GuildMgr", "de/df7/a09570.html#ae90afb785961e122afc419a61dfb20c1", null ],
-    [ "AddGuild", "de/df7/a09570.html#a5b63dae4f2252c452c797b83477d2280", null ],
-    [ "GenerateGuildId", "de/df7/a09570.html#a8ad7c4fc3e292e6cecd4964ad22cd135", null ],
-    [ "GetGuildById", "de/df7/a09570.html#a04f4586ea6461c6f7165efba2bf666a1", null ],
-    [ "GetGuildByLeader", "de/df7/a09570.html#a5198534a243b70104ce17a7871fcfb27", null ],
-    [ "GetGuildByName", "de/df7/a09570.html#af9ff736e84a18d8dfce3826c9459df37", null ],
-    [ "GetGuildNameById", "de/df7/a09570.html#ad32af675831da389755da5f3e4e47361", null ],
-    [ "instance", "de/df7/a09570.html#aef69fd59528ec594c76ae390a4ba05bd", null ],
-    [ "LoadGuilds", "de/df7/a09570.html#ac1eb56686e276e11838e9150696b5045", null ],
-    [ "RemoveGuild", "de/df7/a09570.html#a51728f1c2780cdb105cb35947739cbd7", null ],
-    [ "ResetTimes", "de/df7/a09570.html#ad2670ee42ff5252a879ccc5cbb730833", null ],
-    [ "SetNextGuildId", "de/df7/a09570.html#ae1ae88575b7fcb37d4ee1d76f79c0c45", null ],
-    [ "GuildStore", "de/df7/a09570.html#a174158d11bf6102462a094ff4a8fa402", null ],
-    [ "NextGuildId", "de/df7/a09570.html#a75e150f66ebccfc05824a4f7b66a9210", null ]
+    [ "LogHolder", "de/df7/a09570.html#a3432ee2f32857bd02e75fdb5ba922bd1", null ],
+    [ "AddEvent", "de/df7/a09570.html#a5f6d81d9048290815053bb4aa3531d73", null ],
+    [ "CanInsert", "de/df7/a09570.html#aefdb4e57b5bf35b00564491547e6e2a9", null ],
+    [ "GetGuildId", "de/df7/a09570.html#ada98449548b389a1cd8177087e3aa5e8", null ],
+    [ "GetGuildLog", "de/df7/a09570.html#a17593c12663e8c4251f94636e511c73a", null ],
+    [ "GetGuildLog", "de/df7/a09570.html#ae43929001324d6bece4e45bc95115535", null ],
+    [ "GetNextGUID", "de/df7/a09570.html#aed00250b6a1036a91dd971af510f7750", null ],
+    [ "LoadEvent", "de/df7/a09570.html#a22e87750252d1c4f62f2e5686a2e008d", null ],
+    [ "m_guildId", "de/df7/a09570.html#a3827f9fb3fc13300f60d9f7dd27154c7", null ],
+    [ "m_log", "de/df7/a09570.html#aca25adbc1c1e9397c837a53793568b64", null ],
+    [ "m_maxRecords", "de/df7/a09570.html#a755788eaede72a131f74ae7de88c37b4", null ],
+    [ "m_nextGUID", "de/df7/a09570.html#a267cecce9b2f244235800c93a086e8e2", null ]
 ];

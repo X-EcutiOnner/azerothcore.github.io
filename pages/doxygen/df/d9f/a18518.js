@@ -1,6 +1,7 @@
 var a18518 =
 [
-    [ "npc_blistering_zombieAI", "d1/d10/a18522.html", "d1/d10/a18522" ],
-    [ "npc_blistering_zombie", "df/d9f/a18518.html#aade4afec51e5ee77df8a39cff83e1f44", null ],
-    [ "GetAI", "df/d9f/a18518.html#a08ef7c13b1755ac665507cd8397a2f93", null ]
+    [ "CheckTargetCount", "df/d9f/a18518.html#a44f558248f944464c773105728cffbca", null ],
+    [ "PrepareSpellScript", "df/d9f/a18518.html#a2ae927358c2480aecd18c1f3c2e6c1c7", null ],
+    [ "Register", "df/d9f/a18518.html#aeda833ca8483d337311086b9d0a14081", null ],
+    [ "Validate", "df/d9f/a18518.html#aee84751e352dbfc12472fc15924c48fa", null ]
 ];

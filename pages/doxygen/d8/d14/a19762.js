@@ -1,5 +1,6 @@
 var a19762 =
 [
-    [ "achievement_algalon_herald_of_the_titans", "d8/d14/a19762.html#a13c75b878f4669d212eeb09b55336384", null ],
-    [ "OnCheck", "d8/d14/a19762.html#a20811d7bb453b1758967c11545e630e9", null ]
+    [ "boss_sjonnirAI", "de/da9/a19766.html", "de/da9/a19766" ],
+    [ "boss_sjonnir", "d8/d14/a19762.html#a8bb9b10778a2dedcde3d4ced44bc13f1", null ],
+    [ "GetAI", "d8/d14/a19762.html#a0bb79667d9d80f0c49e30fa0547c6062", null ]
 ];

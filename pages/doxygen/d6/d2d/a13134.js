@@ -1,8 +1,6 @@
 var a13134 =
 [
-    [ "FilterTargets", "d6/d2d/a13134.html#a4c7627dc20c4dafcee4d6faf97d3914e", null ],
-    [ "HandleScript", "d6/d2d/a13134.html#aecb62c147905d0a4fe60086b8028df0b", null ],
-    [ "PrepareSpellScript", "d6/d2d/a13134.html#a84ed93d5235781d9d53a47fff39d3ad2", null ],
-    [ "Register", "d6/d2d/a13134.html#a2832f131d99608923ade8070e17da86d", null ],
-    [ "Validate", "d6/d2d/a13134.html#a1a510f9cf49df69c5904cb79c8cdc860", null ]
+    [ "npc_scarlet_courierAI", "d7/d5b/a13138.html", "d7/d5b/a13138" ],
+    [ "npc_scarlet_courier", "d6/d2d/a13134.html#ac9bb46ff40bdf5c83d55c14e52243004", null ],
+    [ "GetAI", "d6/d2d/a13134.html#a4b6b5a14ec6ce13a9ce7089f08bce9f5", null ]
 ];

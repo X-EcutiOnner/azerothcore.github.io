@@ -1,9 +1,7 @@
 var a19610 =
 [
-    [ "boss_sjonnir_iron_sludgeAI", "df/dd7/a19610.html#aac57ae32188c47ca97b7331d62986e66", null ],
-    [ "JustDied", "df/dd7/a19610.html#a6cfebecaaf673e40f97a46a09947a1f0", null ],
-    [ "JustEngagedWith", "df/dd7/a19610.html#a772d279407d724477560898559710433", null ],
-    [ "Reset", "df/dd7/a19610.html#a5b4a726aa496923d81c41b038e5f7449", null ],
-    [ "UpdateAI", "df/dd7/a19610.html#a2745ff26c165851c367e080d28652984", null ],
-    [ "events", "df/dd7/a19610.html#a468d45f9b9c2172f326068d59a74121a", null ]
+    [ "Apply", "df/dd7/a19610.html#add8e95d38b0c437833c11cded72fe2a7", null ],
+    [ "PrepareAuraScript", "df/dd7/a19610.html#ad2112b571d97e537983b4d11207015e6", null ],
+    [ "Register", "df/dd7/a19610.html#accf85a0d8b2fad19bb0709013caa9f1b", null ],
+    [ "Validate", "df/dd7/a19610.html#a0b89b10ee22d02655ad08a348ab91ecd", null ]
 ];

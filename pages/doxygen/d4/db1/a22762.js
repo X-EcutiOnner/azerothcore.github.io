@@ -1,7 +1,12 @@
 var a22762 =
 [
-    [ "HandleDummy", "d4/db1/a22762.html#af5ac581f7d471300fba2c23548037eea", null ],
-    [ "PrepareSpellScript", "d4/db1/a22762.html#adda61c05b544b52d98af5b7a76d4f808", null ],
-    [ "Register", "d4/db1/a22762.html#a270a64dffdce230d97515f116ec49706", null ],
-    [ "Validate", "d4/db1/a22762.html#a7cf3637ea33ad30913723b4fd33e5546", null ]
+    [ "npc_stolen_soul", "d4/db1/a22762.html#a84a0bb8320b2332545748e010d855884", null ],
+    [ "DoAction", "d4/db1/a22762.html#abcfed6b9b46ce48a15b31d062a1618f4", null ],
+    [ "JustDied", "d4/db1/a22762.html#a6a1d6da5a448fd4b8910835d3a346e3a", null ],
+    [ "Reset", "d4/db1/a22762.html#a9f18ffbb42c988067b6dfa8355a4aba6", null ],
+    [ "SetGUID", "d4/db1/a22762.html#a0779fa3688118d2f9e1fdd4c6cf600f5", null ],
+    [ "UpdateAI", "d4/db1/a22762.html#a7bf369dd943ee36600a364d56b85db5a", null ],
+    [ "_myClass", "d4/db1/a22762.html#ade19b9cb41a674f6bd049a621970aeff", null ],
+    [ "_scheduler", "d4/db1/a22762.html#ab62526916f0ccd681383d37d19d94ccc", null ],
+    [ "_targetGuid", "d4/db1/a22762.html#a6efbe90928119902e4b5a7148b12cfac", null ]
 ];

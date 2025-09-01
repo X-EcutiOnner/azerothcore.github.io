@@ -1,6 +1,8 @@
 var a28998 =
 [
-    [ "spell_mark_of_nature_SpellScript", "db/d4e/a29002.html", "db/d4e/a29002" ],
-    [ "spell_mark_of_nature", "d3/d48/a28998.html#a0fc98a87180d1f752c9c768016f720fb", null ],
-    [ "GetSpellScript", "d3/d48/a28998.html#a7835fbe76cd684c222538c93b10c5ef9", null ]
+    [ "Color", "d3/d48/a28998.html#a379e4cf61345dbb4d93da5a8603138c0", null ],
+    [ "NameIndex", "d3/d48/a28998.html#add893e045d13a3633fd7346457a10477", null ],
+    [ "Position", "d3/d48/a28998.html#afae9056582e71160c151de2c172bc60a", null ],
+    [ "Rotation", "d3/d48/a28998.html#a48d372bc1371fa5f94db9aa39669942a", null ],
+    [ "Scale", "d3/d48/a28998.html#aefacaaf0be0745c95ffc53f410da6e8d", null ]
 ];

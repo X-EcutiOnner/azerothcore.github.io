@@ -1,5 +1,6 @@
 var a20530 =
 [
-    [ "achievement_mimiron_set_up_us_the_bomb_13", "d7/d23/a20530.html#a74b0cafbc4be4261c8f8f2af3671cbd9", null ],
-    [ "OnCheck", "d7/d23/a20530.html#ac91196d094f159932ad871ffa9c0f405", null ]
+    [ "boss_kologarn_eyebeamAI", "d0/d57/a20534.html", "d0/d57/a20534" ],
+    [ "boss_kologarn_eyebeam", "d7/d23/a20530.html#af28ff60e3b42f7316cc3d63624a91ee9", null ],
+    [ "GetAI", "d7/d23/a20530.html#a34f5533a6bfe84c52fe0b0e854e694f8", null ]
 ];

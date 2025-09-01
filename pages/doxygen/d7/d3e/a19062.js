@@ -1,6 +1,6 @@
 var a19062 =
 [
-    [ "boss_kelthuzadAI", "db/d43/a19066.html", "db/d43/a19066" ],
-    [ "boss_kelthuzad", "d7/d3e/a19062.html#a52b0988d0ee9e41c8a7911f2d2460442", null ],
-    [ "GetAI", "d7/d3e/a19062.html#acf19b29d6c1eb0052baa7ff491f6a050", null ]
+    [ "RespawnEvent", "d7/d3e/a19062.html#accc0d5638ff7a493fa116ac2e8f2e58b", null ],
+    [ "Execute", "d7/d3e/a19062.html#a2e58f4e472fb72cf5401f11be6e5e136", null ],
+    [ "_owner", "d7/d3e/a19062.html#adb0835b4a2e7a2795bb81f0a1e3c911a", null ]
 ];

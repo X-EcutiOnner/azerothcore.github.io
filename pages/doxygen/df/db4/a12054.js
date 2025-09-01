@@ -1,14 +1,14 @@
 var a12054 =
 [
-    [ "boss_lord_valthalakAI", "df/db4/a12054.html#a7f10837eafefefb87b338410c5994362", null ],
-    [ "DamageTaken", "df/db4/a12054.html#a6fe691c8dd5c5b387eed08e3a010bec7", null ],
-    [ "IsSummonedBy", "df/db4/a12054.html#a852589ca84562ad1a9dcdd403fe5aa83", null ],
-    [ "JustDied", "df/db4/a12054.html#a4c9bd060e62f1c4d3819350bf549a39a", null ],
-    [ "JustEngagedWith", "df/db4/a12054.html#acee7b1758b670a688fe1afcdef3b9f8c", null ],
-    [ "Reset", "df/db4/a12054.html#abcc993a205602484fb46a67bc68dbbd9", null ],
-    [ "StartFighting", "df/db4/a12054.html#af06da24e8bedf922895c8c591c1def04", null ],
-    [ "StartTalking", "df/db4/a12054.html#ac1d7b3844f9019ea6485de7616caff95", null ],
-    [ "UpdateAI", "df/db4/a12054.html#a2b39a384ac7133aa013e21b0e873c4e2", null ],
-    [ "frenzy15", "df/db4/a12054.html#aabd65fc1a1bdbbc9c3a46c918bc7dff5", null ],
-    [ "frenzy40", "df/db4/a12054.html#a75aa55580bed475e88e9071fa5284267", null ]
+    [ "boss_general_angerforgeAI", "df/db4/a12054.html#af5537ccebc7ac6af49f9b6612d3a6138", null ],
+    [ "JustEngagedWith", "df/db4/a12054.html#ae99e11630596c62c4155a18f5a0a3dd5", null ],
+    [ "Reset", "df/db4/a12054.html#aff55a804bdca840016e0f6b1d11f7106", null ],
+    [ "SummonAdds", "df/db4/a12054.html#a218f4de2d057505f60b2977835e5fd91", null ],
+    [ "SummonMedics", "df/db4/a12054.html#aeabe71bde9b03a944beedeac68cffd19", null ],
+    [ "UpdateAI", "df/db4/a12054.html#a751c0d0015c235c8716a2a8ff18500ba", null ],
+    [ "Adds_Timer", "df/db4/a12054.html#a069f0008735b38c249ddfe5246025438", null ],
+    [ "Cleave_Timer", "df/db4/a12054.html#af80ac4df7aaab1469ee62ac8b054a0b9", null ],
+    [ "HamString_Timer", "df/db4/a12054.html#a04c51b1400d17454ca529d6aa257697b", null ],
+    [ "Medics", "df/db4/a12054.html#a06fc801b89c53430603f1a33bb3e7bd8", null ],
+    [ "MightyBlow_Timer", "df/db4/a12054.html#aeea6bb264e2d175d1906d8606eced529", null ]
 ];

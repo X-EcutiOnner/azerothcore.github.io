@@ -1,12 +1,16 @@
 var a15726 =
 [
-    [ "DialogueHelper", "d4/d90/a15726.html#a3566655e8781bf5f9dff514fcd659421", null ],
-    [ "DialogueUpdate", "d4/d90/a15726.html#aaac3463d91a0cdbe2622b4fd85b34ed0", null ],
-    [ "DoNextDialogueStep", "d4/d90/a15726.html#a6e23a56ba5c5e4d4ab3b4c6be5cb09af", null ],
-    [ "GetSpeakerByEntry", "d4/d90/a15726.html#a50e652ca2cff035d8c79517fdbcfc67a", null ],
-    [ "JustDidDialogueStep", "d4/d90/a15726.html#a79e80634f1780895669f5c810958fd4f", null ],
-    [ "StartNextDialogueText", "d4/d90/a15726.html#ac16b8b9b50e8b35980d21f161bf33340", null ],
-    [ "_actionTimer", "d4/d90/a15726.html#a33b8551c136bcbc896b29d935c155a75", null ],
-    [ "_currentEntry", "d4/d90/a15726.html#a89ca5e8d25372bd8ab32322a0a9999f2", null ],
-    [ "_dialogueArray", "d4/d90/a15726.html#a489b8cd1c75ced0ec8e34b8051899dd7", null ]
+    [ "npc_anachronos_the_ancientAI", "d4/d90/a15726.html#aad6fbdc3cf33f2deb6dd3cc741e4aec4", null ],
+    [ "HandleAnimation", "d4/d90/a15726.html#a0bd43e2482a12cda79566f761d448109", null ],
+    [ "Reset", "d4/d90/a15726.html#a3bd2380cfd18b14aae1ae72a452299bb", null ],
+    [ "UpdateAI", "d4/d90/a15726.html#a5a55cfec1d204b6657779938e93b6be5", null ],
+    [ "AnachronosQuestTriggerGUID", "d4/d90/a15726.html#aa51b7cdfb2a37310196c81a01f89a7dd", null ],
+    [ "AnimationCount", "d4/d90/a15726.html#a504038880b7e837f63f99d477c8a0bba", null ],
+    [ "AnimationTimer", "d4/d90/a15726.html#a4ca3807429ffa2caca6199ecd66c4015", null ],
+    [ "ArygosGUID", "d4/d90/a15726.html#a4f2917c85d41d3b5015d6eed56fe9e12", null ],
+    [ "CaelestraszGUID", "d4/d90/a15726.html#adceafa1ad19ecb7df59f87b501d4622c", null ],
+    [ "eventEnd", "d4/d90/a15726.html#ad125b9eb7052449a6b75eebde7a192e0", null ],
+    [ "FandralGUID", "d4/d90/a15726.html#a157af7db82bf943c298b63d8294067ce", null ],
+    [ "MerithraGUID", "d4/d90/a15726.html#af7088f79687a4109f5701488e9019aeb", null ],
+    [ "PlayerGUID", "d4/d90/a15726.html#a7e1777ca319e4f6dafc1a035d05dabc0", null ]
 ];

@@ -1,9 +1,7 @@
 var a25634 =
 [
-    [ "spell_item_trigger_spell", "dd/dfb/a25634.html#a619e9a5233e36157cbdaba70a3ba80da", null ],
-    [ "HandleDummy", "dd/dfb/a25634.html#a49613255eea28e34cf5ff8a06798f89a", null ],
-    [ "PrepareSpellScript", "dd/dfb/a25634.html#a78903f92c30fb23ff7297f7fa16c4861", null ],
-    [ "Register", "dd/dfb/a25634.html#ab9abd9f01ce37c23d6502e6d86e3f998", null ],
-    [ "Validate", "dd/dfb/a25634.html#a2f2df93e8f9d0e51273560665ea5c245", null ],
-    [ "_triggeredSpellId", "dd/dfb/a25634.html#a610c5ac434fe788120ed101f7bf58f63", null ]
+    [ "FilterTargets", "dd/dfb/a25634.html#affede599b86e05e6475fd64a60268e8e", null ],
+    [ "Load", "dd/dfb/a25634.html#a1343407ca8b571140ed2ecf5501bf378", null ],
+    [ "PrepareSpellScript", "dd/dfb/a25634.html#a12ff05520225209b476b3ba8422de1c6", null ],
+    [ "Register", "dd/dfb/a25634.html#ac99786385187e21fb02e65e9b9719400", null ]
 ];

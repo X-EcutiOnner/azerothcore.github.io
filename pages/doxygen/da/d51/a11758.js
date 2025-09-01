@@ -1,9 +1,8 @@
 var a11758 =
 [
-    [ "send_commandscript", "da/d51/a11758.html#a3aa5d7cc0b5dcd4875e99dfd6f3dbdde", null ],
-    [ "GetCommands", "da/d51/a11758.html#a2dc60c8c414c9131b4cda1ff82f7beed", null ],
-    [ "HandleSendItemsCommand", "da/d51/a11758.html#a7ffcd07e0ad08be2eb8a1ebac0fec717", null ],
-    [ "HandleSendMailCommand", "da/d51/a11758.html#a5ad6f9387c6fb00bf536629c760ba374", null ],
-    [ "HandleSendMessageCommand", "da/d51/a11758.html#a91017e6171ac9e4dfff6c2036228de47", null ],
-    [ "HandleSendMoneyCommand", "da/d51/a11758.html#a26938bb54bb3cb678c49737a92cadb56", null ]
+    [ "CreatureCountWorker", "da/d51/a11758.html#ad01e947d97d03a10ea3a891d24cb05b7", null ],
+    [ "GetTopCreatureCount", "da/d51/a11758.html#a5d4d009b6685dd71703f96f9945a463e", null ],
+    [ "Visit", "da/d51/a11758.html#a786d95d42f7711235e60a4f54cc3b4be", null ],
+    [ "Visit", "da/d51/a11758.html#afa72c0c1f905f4277d650ad0cfef281d", null ],
+    [ "creatureIds", "da/d51/a11758.html#a3a6f946c40b1006164793dbaed2b3948", null ]
 ];

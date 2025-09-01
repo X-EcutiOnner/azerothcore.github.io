@@ -1,9 +1,7 @@
 var a22858 =
 [
-    [ "boss_mother_shahraz", "d3/dc0/a22858.html#adba94363f74975301472d79f24894df8", null ],
-    [ "JustDied", "d3/dc0/a22858.html#ab69d81acde4e6e2a3f6adb032090b958", null ],
-    [ "JustEngagedWith", "d3/dc0/a22858.html#a021c702e7eff266308fee8a4220a6ec7", null ],
-    [ "KilledUnit", "d3/dc0/a22858.html#a81ed314ae9737c0989b62c27c9ce4cc9", null ],
-    [ "Reset", "d3/dc0/a22858.html#ab9e4162ac92e786b84b6497c37251386", null ],
-    [ "_canTalk", "d3/dc0/a22858.html#a821d91439c60a60ffcff07b6bdbbc070", null ]
+    [ "HandleOnHit", "d3/dc0/a22858.html#a5eee46784bfbeaad3a9af069ca7f69a7", null ],
+    [ "PrepareSpellScript", "d3/dc0/a22858.html#a734b735c7e87938bff185be91f9de6e8", null ],
+    [ "Register", "d3/dc0/a22858.html#a1cc140d2b5487e9dbbf107025e09e51d", null ],
+    [ "Validate", "d3/dc0/a22858.html#a162f60784fdec6b748151e5c2a7ed257", null ]
 ];

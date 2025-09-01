@@ -1,7 +1,7 @@
 var a26874 =
 [
-    [ "HandleApply", "d6/d78/a26874.html#a046abc4b8afd26d13bcb7140165aed80", null ],
-    [ "HandleRemove", "d6/d78/a26874.html#ad35716d4210572057fe67d426849931a", null ],
-    [ "PrepareAuraScript", "d6/d78/a26874.html#a9af96871b8b7ac19de01e316f4350ebf", null ],
-    [ "Register", "d6/d78/a26874.html#a37c4c881c563882fb72693babe545fc4", null ]
+    [ "HandleProc", "d6/d78/a26874.html#a3878044c77e9560bcc7d531d5c119e0f", null ],
+    [ "PrepareAuraScript", "d6/d78/a26874.html#a3a496539a6adddca91724d9cc77f81c3", null ],
+    [ "Register", "d6/d78/a26874.html#a096f4ecd857cc642ff1d1e5119933921", null ],
+    [ "Validate", "d6/d78/a26874.html#a1592084736ebe5b10a343aee4dba8050", null ]
 ];

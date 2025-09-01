@@ -1,6 +1,8 @@
 var a14682 =
 [
-    [ "HandleHeal", "d4/df9/a14682.html#a953536a9a393af9472bdd89018449df0", null ],
-    [ "PrepareSpellScript", "d4/df9/a14682.html#a70503fc6042001a860d361f2597b7153", null ],
-    [ "Register", "d4/df9/a14682.html#a383479896e6deb96e50b827370ccfd4d", null ]
+    [ "CheckCast", "d4/df9/a14682.html#a1e63e7798ab5e55415eb0277f3160fa3", null ],
+    [ "HandleDummy", "d4/df9/a14682.html#ad39da0510c21855dd74abd93f33621c9", null ],
+    [ "PrepareSpellScript", "d4/df9/a14682.html#a727093fec8cc8422cbbaa79d821338c8", null ],
+    [ "Register", "d4/df9/a14682.html#a8cc68fadf4ae20a9de24c75d2f61301f", null ],
+    [ "Validate", "d4/df9/a14682.html#aacd60538c8410fc313a09b1044ad6c7a", null ]
 ];

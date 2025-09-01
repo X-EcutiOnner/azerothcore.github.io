@@ -1,7 +1,6 @@
 var a18758 =
 [
-    [ "HandleEffectPeriodic", "d6/d1c/a18758.html#a57615f1d8b891ab5a5c01de1543235cb", null ],
-    [ "PrepareAuraScript", "d6/d1c/a18758.html#ae040da0db1147652266e1f373838df37", null ],
-    [ "Register", "d6/d1c/a18758.html#ab11b84522134ee4d13504df3c19f69b8", null ],
-    [ "Validate", "d6/d1c/a18758.html#af3c3c90256913ffe188c11a21fc2dcc8", null ]
+    [ "npc_highlord_tirion_fordringAI", "db/d63/a18762.html", "db/d63/a18762" ],
+    [ "npc_highlord_tirion_fordring_lh", "d6/d1c/a18758.html#a96102a488330c54a3e3654c767e8e1a5", null ],
+    [ "GetAI", "d6/d1c/a18758.html#aea42394c04c1763cffe10eb5eba09854", null ]
 ];

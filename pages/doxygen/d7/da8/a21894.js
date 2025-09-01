@@ -1,8 +1,12 @@
 var a21894 =
 [
-    [ "AfterApply", "d7/da8/a21894.html#a57279552b867251e9d2ee6a4ff5d7914", null ],
-    [ "PeriodicTick", "d7/da8/a21894.html#a2e86aa6efe6ab137926c1dfd1bd26a95", null ],
-    [ "PrepareAuraScript", "d7/da8/a21894.html#a9e1b74bf2d28a367caefdc90c34743c8", null ],
-    [ "Register", "d7/da8/a21894.html#a69eb0ca43a15d4995ad219459c2b39d6", null ],
-    [ "Validate", "d7/da8/a21894.html#a946248656cb755f85dd93fd4d607c9a7", null ]
+    [ "npc_dalaran_warriorAI", "d7/da8/a21894.html#a0c96d8b0797a1388f9fe725753ea91bc", null ],
+    [ "Initialize", "d7/da8/a21894.html#aa04ecd7a8f988e94ab663a7994e83dd9", null ],
+    [ "JustEngagedWith", "d7/da8/a21894.html#ae6690f0681363784e457fbd653f5b3f9", null ],
+    [ "Reset", "d7/da8/a21894.html#a074d116ba39d87fa85c17fbc1764c79b", null ],
+    [ "UpdateAI", "d7/da8/a21894.html#ae2a740ecd35694b4d04c6aea7ae567fa", null ],
+    [ "Battleshout_timer", "d7/da8/a21894.html#ae36f30f816164b60232bd849e74c3da1", null ],
+    [ "disarm_timer", "d7/da8/a21894.html#a54f7ceb37d7e3456166f5af761c95e9e", null ],
+    [ "hamstring_timer", "d7/da8/a21894.html#ae0e660b8c3faf70a6061260a4b90a4af", null ],
+    [ "shout_timer", "d7/da8/a21894.html#ac91770c1e9eb31d687247450898a48ae", null ]
 ];

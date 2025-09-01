@@ -1,7 +1,6 @@
 var a26438 =
 [
-    [ "HandleScriptEffect", "d3/d3e/a26438.html#ae7bfcdf3306fe4c8532649ff7e892c57", null ],
-    [ "PrepareSpellScript", "d3/d3e/a26438.html#ad2bfab00a973366af32388e40b9d2566", null ],
-    [ "Register", "d3/d3e/a26438.html#acbf74d85d9d8ce8e9ce0546c90cb7efa", null ],
-    [ "Validate", "d3/d3e/a26438.html#a487fa0e6b5f2682349b22737ceeae50c", null ]
+    [ "HandleDummyEffect", "d3/d3e/a26438.html#ad5421ca3dd5bf802952f98e6d1170003", null ],
+    [ "PrepareSpellScript", "d3/d3e/a26438.html#a9489556e1e16cd2e0d5c43b38d7ea5ee", null ],
+    [ "Register", "d3/d3e/a26438.html#a2ad2c00807d07aeb55a8fd848a69f9d1", null ]
 ];

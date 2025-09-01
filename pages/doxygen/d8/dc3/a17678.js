@@ -1,9 +1,7 @@
 var a17678 =
 [
-    [ "CalculatePower", "d8/dc3/a17678.html#a66acc23548f88c31e9fe45db76af2bcc", null ],
-    [ "Load", "d8/dc3/a17678.html#a820032e169929fd9969ecf1ee2c7f1be", null ],
-    [ "PrepareSpellScript", "d8/dc3/a17678.html#a49489a8e4e39735efa560f53236dfc2c", null ],
-    [ "PreventPowerGainOnHit", "d8/dc3/a17678.html#a5eebe6f82a6d7306d6e232b755531939", null ],
-    [ "Register", "d8/dc3/a17678.html#a67b59c096848adaad5566cbc2140da59", null ],
-    [ "Validate", "d8/dc3/a17678.html#a355500a6f3bfed084030738041d0e3b9", null ]
+    [ "HandleScript", "d8/dc3/a17678.html#a101e5e995dd27dcc6b6a4b475eed0989", null ],
+    [ "PrepareSpellScript", "d8/dc3/a17678.html#a8f668b88a41585cabeace574b30b4f85", null ],
+    [ "Register", "d8/dc3/a17678.html#a8fae161a91fae297b99079bde218ced8", null ],
+    [ "Validate", "d8/dc3/a17678.html#a4d1a8c28eefff22afdbf15ab57a6a7fd", null ]
 ];

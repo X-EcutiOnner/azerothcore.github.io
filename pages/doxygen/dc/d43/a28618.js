@@ -1,10 +1,13 @@
 var a28618 =
 [
-    [ "adt_CELLS", "db/d4e/a28626.html", "db/d4e/a28626" ],
-    [ "getMCNK", "dc/d43/a28618.html#a8330b7cb405146399d3d20e6952a8b40", null ],
-    [ "prepareLoadedData", "dc/d43/a28618.html#adc7346499aa51f4422c810b7e757f835", null ],
-    [ "cells", "dc/d43/a28618.html#a434ed0ca354ec27d5334cc63e5650038", null ],
-    [ "fcc", "dc/d43/a28618.html#ae7d4acf20e102b6b8f19ded3fe219a7d", null ],
-    [ "fcc_txt", "dc/d43/a28618.html#a514bae36851623daf76b26a9d63f1ae0", null ],
-    [ "size", "dc/d43/a28618.html#a1a40f52ea9eef3add8207da89cb71210", null ]
+    [ "actionFlag", "dc/d43/a28618.html#a6257ae486eff937cf12be64f0e850ca6", null ],
+    [ "arrivalEventID", "dc/d43/a28618.html#a1ffe17f529066091b18451a1121ce6ac", null ],
+    [ "delay", "dc/d43/a28618.html#aef005db912b0a57ecc5d62c66d838826", null ],
+    [ "departureEventID", "dc/d43/a28618.html#a670a033aaf0ff48676373baf9235d670", null ],
+    [ "index", "dc/d43/a28618.html#af9f8e03c2d9c1bdf266b3d62f1174224", null ],
+    [ "mapid", "dc/d43/a28618.html#aa2c6fb8a785e297c72384043698dd401", null ],
+    [ "path", "dc/d43/a28618.html#aa0692acbae0d4639c89ece77265d7858", null ],
+    [ "x", "dc/d43/a28618.html#a9acd2aad6b8820c04f6749bd2944b54f", null ],
+    [ "y", "dc/d43/a28618.html#a08778d3ef9a9a87fd731b54d5501daab", null ],
+    [ "z", "dc/d43/a28618.html#af48d85940d7f204091e8438427a72e2d", null ]
 ];

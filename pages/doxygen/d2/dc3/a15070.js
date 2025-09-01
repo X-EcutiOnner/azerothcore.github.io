@@ -1,5 +1,6 @@
 var a15070 =
 [
-    [ "boss_kri", "d2/dc3/a15070.html#a0a95f8d2a380ab48ffd5a034e012cc2c", null ],
-    [ "JustEngagedWith", "d2/dc3/a15070.html#ab2169ec49ecbff2ee1460e38bd1a163e", null ]
+    [ "instance_onyxias_lair_InstanceMapScript", "d4/d55/a15074.html", "d4/d55/a15074" ],
+    [ "instance_onyxias_lair", "d2/dc3/a15070.html#a1be32e45cb8af86477d300efb6e545cc", null ],
+    [ "GetInstanceScript", "d2/dc3/a15070.html#abbdc474ce17bca0cb55180661c5204a8", null ]
 ];

@@ -1,6 +1,7 @@
 var a18918 =
 [
-    [ "npc_four_car_garageAI", "dd/d6e/a18918.html#a2eedf5934e12d33cda0ac173d82220d5", null ],
-    [ "JustDied", "dd/d6e/a18918.html#a1fba9f03dca2db37b5cb969079b25d22", null ],
-    [ "PassengerBoarded", "dd/d6e/a18918.html#a144bc36a5c4ff227c8a7dc146d4167b6", null ]
+    [ "OnPeriodic", "dd/d6e/a18918.html#a32c4b856d6248062fbdc1dea13d876ac", null ],
+    [ "PrepareAuraScript", "dd/d6e/a18918.html#a87260a1cd06190f5412f3cab0f448a01", null ],
+    [ "Register", "dd/d6e/a18918.html#a00827210671b959a030655f6be5edac6", null ],
+    [ "Validate", "dd/d6e/a18918.html#a7163fb09fd8568a7ef5a5c37147ed5b0", null ]
 ];

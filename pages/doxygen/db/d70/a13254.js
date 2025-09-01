@@ -1,6 +1,6 @@
 var a13254 =
 [
-    [ "FilterTargets", "db/d70/a13254.html#a78675c3421e0243de9e136b646c56be1", null ],
-    [ "PrepareSpellScript", "db/d70/a13254.html#a0fb177c467c2582e6b66ceae51780d6c", null ],
-    [ "Register", "db/d70/a13254.html#a39f8a11194fe19a14d25b30faaa6cf42", null ]
+    [ "instance_scholomance_InstanceMapScript", "d7/d7b/a13258.html", "d7/d7b/a13258" ],
+    [ "instance_scholomance", "db/d70/a13254.html#ace7a781c45623419daad6143480d8fe2", null ],
+    [ "GetInstanceScript", "db/d70/a13254.html#a9e2030e41154c92dbe45d7895ddf37b8", null ]
 ];

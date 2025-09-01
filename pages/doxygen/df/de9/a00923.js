@@ -1,25 +1,31 @@
 var a00923 =
 [
-    [ "MiscScript", "dc/d6b/a10360.html", "dc/d6b/a10360" ],
-    [ "MiscHook", "df/de9/a00923.html#af37f873b1735a7e1f78da6f2f334c134", [
-      [ "MISCHOOK_ON_CONSTRUCT_OBJECT", "df/de9/a00923.html#af37f873b1735a7e1f78da6f2f334c134aced03c29bfe1b673cd653f80f983c9fb", null ],
-      [ "MISCHOOK_ON_DESTRUCT_OBJECT", "df/de9/a00923.html#af37f873b1735a7e1f78da6f2f334c134a9733f4054c726297206f0d94936b198f", null ],
-      [ "MISCHOOK_ON_CONSTRUCT_PLAYER", "df/de9/a00923.html#af37f873b1735a7e1f78da6f2f334c134ab44e63644ffca18d22fd8f100d741439", null ],
-      [ "MISCHOOK_ON_DESTRUCT_PLAYER", "df/de9/a00923.html#af37f873b1735a7e1f78da6f2f334c134a5cc41f8f78b3b4e4d2339ef9081298bf", null ],
-      [ "MISCHOOK_ON_CONSTRUCT_GROUP", "df/de9/a00923.html#af37f873b1735a7e1f78da6f2f334c134a1ca06f199a58422ef7353799ca54ae72", null ],
-      [ "MISCHOOK_ON_DESTRUCT_GROUP", "df/de9/a00923.html#af37f873b1735a7e1f78da6f2f334c134a3ce8336f58fbbc6e7eb236bbaea4e6da", null ],
-      [ "MISCHOOK_ON_CONSTRUCT_INSTANCE_SAVE", "df/de9/a00923.html#af37f873b1735a7e1f78da6f2f334c134a56a3d6798447586097a2539a15cb4aa2", null ],
-      [ "MISCHOOK_ON_DESTRUCT_INSTANCE_SAVE", "df/de9/a00923.html#af37f873b1735a7e1f78da6f2f334c134ace5f04f0c222b965d512026b695922c5", null ],
-      [ "MISCHOOK_ON_ITEM_CREATE", "df/de9/a00923.html#af37f873b1735a7e1f78da6f2f334c134aadbe4a9d67dbca7b90292899c0ae8d4c", null ],
-      [ "MISCHOOK_CAN_APPLY_SOULBOUND_FLAG", "df/de9/a00923.html#af37f873b1735a7e1f78da6f2f334c134a5d3215bd4e18f89cb0a717a84829e17f", null ],
-      [ "MISCHOOK_CAN_ITEM_APPLY_EQUIP_SPELL", "df/de9/a00923.html#af37f873b1735a7e1f78da6f2f334c134ae9bacf4ccf18f7e88d8aa9f83bdebded", null ],
-      [ "MISCHOOK_CAN_SEND_AUCTIONHELLO", "df/de9/a00923.html#af37f873b1735a7e1f78da6f2f334c134a584163956c233073e85f343585092a27", null ],
-      [ "MISCHOOK_VALIDATE_SPELL_AT_CAST_SPELL", "df/de9/a00923.html#af37f873b1735a7e1f78da6f2f334c134ad8dcf71de9c5c4a16743e80d66ac70c0", null ],
-      [ "MISCHOOK_VALIDATE_SPELL_AT_CAST_SPELL_RESULT", "df/de9/a00923.html#af37f873b1735a7e1f78da6f2f334c134a0de17e7f67dd7280da04e7a2fc502433", null ],
-      [ "MISCHOOK_ON_AFTER_LOOT_TEMPLATE_PROCESS", "df/de9/a00923.html#af37f873b1735a7e1f78da6f2f334c134ad88e01abe00726c718edd6c7903ec8ea", null ],
-      [ "MISCHOOK_ON_PLAYER_SET_PHASE", "df/de9/a00923.html#af37f873b1735a7e1f78da6f2f334c134a26ed92ee73e91e93437535e17f9d1616", null ],
-      [ "MISCHOOK_ON_INSTANCE_SAVE", "df/de9/a00923.html#af37f873b1735a7e1f78da6f2f334c134a29a966b43bc8252d88a8ecdeb4c9928f", null ],
-      [ "MISCHOOK_GET_DIALOG_STATUS", "df/de9/a00923.html#af37f873b1735a7e1f78da6f2f334c134a9c2cb4ea6da418aff3e4f1cad36a6490", null ],
-      [ "MISCHOOK_END", "df/de9/a00923.html#af37f873b1735a7e1f78da6f2f334c134ae8c3fca40135e387a84d7156f26a16c9", null ]
-    ] ]
+    [ "npcs_riverbreeze_and_silversky", "df/dbd/a15646.html", "df/dbd/a15646" ],
+    [ "at_ancient_leaf", "d8/dd5/a15650.html", "d8/dd5/a15650" ],
+    [ "AncientMisc", "df/de9/a00923.html#adaffe09a7c2b9f9bfdc48d5068c18068", [
+      [ "QUEST_ANCIENT_LEAF", "df/de9/a00923.html#adaffe09a7c2b9f9bfdc48d5068c18068aa825be5f41ad67f6007d3509e9bb87e3", null ],
+      [ "NPC_VARTRUS", "df/de9/a00923.html#adaffe09a7c2b9f9bfdc48d5068c18068aa3648d60ebaeb2cef5c0578018150e99", null ],
+      [ "NPC_STOMA", "df/de9/a00923.html#adaffe09a7c2b9f9bfdc48d5068c18068ab30f7bd203d11ff87b0030b3578a5e81", null ],
+      [ "NPC_HASTAT", "df/de9/a00923.html#adaffe09a7c2b9f9bfdc48d5068c18068acc6ef71bcba7f2d82bc3164636733e04", null ],
+      [ "CREATURE_GROUP_ANCIENTS", "df/de9/a00923.html#adaffe09a7c2b9f9bfdc48d5068c18068a929e77d337e49edf4de033ddb8ccf149", null ]
+    ] ],
+    [ "RiverbreezeAndSilversky", "df/de9/a00923.html#acc75d54553750c832fe50b6cb0c42427", [
+      [ "SPELL_CENARION_BEACON", "df/de9/a00923.html#acc75d54553750c832fe50b6cb0c42427aefb9fe5d61b5fc5b810f077e47334d49", null ],
+      [ "ITEM_CENARION_BEACON", "df/de9/a00923.html#acc75d54553750c832fe50b6cb0c42427a677781938bceb63690d56c2e2c445f46", null ],
+      [ "ACTION_CREATE_CENARION_BEACON", "df/de9/a00923.html#acc75d54553750c832fe50b6cb0c42427acc340298bf9880e22b326c208affb4a1", null ],
+      [ "NPC_ARATHANDRIS_SILVERSKY", "df/de9/a00923.html#acc75d54553750c832fe50b6cb0c42427a15af7b53355112caefafe032f27b15d6", null ],
+      [ "NPC_MAYBESS_RIVERBREEZE", "df/de9/a00923.html#acc75d54553750c832fe50b6cb0c42427a3362be702aaaa11f11e1df72d0a8e149", null ],
+      [ "QUEST_CLEASING_FELWOOD_A", "df/de9/a00923.html#acc75d54553750c832fe50b6cb0c42427ab52d337e733144a5a21fce9825f80fff", null ],
+      [ "QUEST_CLEASING_FELWOOD_H", "df/de9/a00923.html#acc75d54553750c832fe50b6cb0c42427a24da8ad4e5cec47c9a66a1e03e07383f", null ],
+      [ "GOSSIP_MENU_SILVERSKY", "df/de9/a00923.html#acc75d54553750c832fe50b6cb0c42427a201df035f33936e3020580c82101e7f8", null ],
+      [ "GOSSIP_MENU_RIVERBREEZE", "df/de9/a00923.html#acc75d54553750c832fe50b6cb0c42427ac00e8bf57bf7a4be3444d02de30309dc", null ],
+      [ "GOSSIP_OPTION_BEACON", "df/de9/a00923.html#acc75d54553750c832fe50b6cb0c42427a0999bd0707a4dbe03c5715081af725e1", null ],
+      [ "TEXT_SILVERSKY_1", "df/de9/a00923.html#acc75d54553750c832fe50b6cb0c42427a3148f1367e563486599162f32be4af21", null ],
+      [ "TEXT_SILVERSKY_2", "df/de9/a00923.html#acc75d54553750c832fe50b6cb0c42427a62011283d742f7947270994268e055de", null ],
+      [ "TEXT_SILVERSKY_3", "df/de9/a00923.html#acc75d54553750c832fe50b6cb0c42427af033b1f55bfbe0ccfd66cd1df7b50289", null ],
+      [ "TEXT_RIVERBREEZE_1", "df/de9/a00923.html#acc75d54553750c832fe50b6cb0c42427ac53b44e51816fbef84a98123a317125e", null ],
+      [ "TEXT_RIVERBREEZE_2", "df/de9/a00923.html#acc75d54553750c832fe50b6cb0c42427a06658a3d493565d3f8a42555e037fa40", null ],
+      [ "TEXT_RIVERBREEZE_3", "df/de9/a00923.html#acc75d54553750c832fe50b6cb0c42427a1d15502f6a496af4174cb3c5960818b5", null ]
+    ] ],
+    [ "AddSC_felwood", "df/de9/a00923.html#a63ae28c9f250057b35a18fb585c6a2cf", null ]
 ];

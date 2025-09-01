@@ -1,7 +1,8 @@
 var a22786 =
 [
-    [ "HandleScriptEffect", "de/de1/a22786.html#a16f131e42272bc75c99df2a9cf43470e", null ],
-    [ "PrepareSpellScript", "de/de1/a22786.html#a510e80ef85ae3057e30c7c710aaf187b", null ],
-    [ "Register", "de/de1/a22786.html#ae26ff6be3b2d4a1975ace3734603ab41", null ],
-    [ "Validate", "de/de1/a22786.html#a58ff628906f3077a354ed486d3c56d23", null ]
+    [ "npc_yor", "de/de1/a22786.html#a43ed8720d06c035085d481dbe6539dca", null ],
+    [ "JustEngagedWith", "de/de1/a22786.html#a74d5cd95b98a2057f78ee9e9b12aec42", null ],
+    [ "Reset", "de/de1/a22786.html#aa698540b646fd870b33afbaf19ddbe07", null ],
+    [ "UpdateAI", "de/de1/a22786.html#a46a2cf8ff94b830348641d94e3d9cd57", null ],
+    [ "_scheduler", "de/de1/a22786.html#a4ce1e1558c9b8aa5d50b1df1a903d776", null ]
 ];

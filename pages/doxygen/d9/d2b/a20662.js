@@ -1,9 +1,12 @@
 var a20662 =
 [
-    [ "boss_thorim_gauntlet_npcsAI", "d9/d2b/a20662.html#aaa7e94f653a1db001cd0c962fb855098", null ],
-    [ "JustEngagedWith", "d9/d2b/a20662.html#afaf0a05b1fd2fc2187b52328340b65bb", null ],
-    [ "Reset", "d9/d2b/a20662.html#a9e4c25742785809d788f2e910f7840bc", null ],
-    [ "UpdateAI", "d9/d2b/a20662.html#a4dd5a9cbbb10d514a0473dfd7cdd3c29", null ],
-    [ "_isCaster", "d9/d2b/a20662.html#a104f447cc52c285d59653a8ebff20fef", null ],
-    [ "events", "d9/d2b/a20662.html#a650508e05b6fa1af538a0b34e04c8bf5", null ]
+    [ "npc_ulduar_flames_initialAI", "d9/d2b/a20662.html#a5d7202463d12fbdfcc5efdfba786ca19", null ],
+    [ "DoAction", "d9/d2b/a20662.html#a6169d12043e73e7991064decccf0926a", null ],
+    [ "RemoveAll", "d9/d2b/a20662.html#a2c39dd0d4d8040db5b18af1c1b27071a", null ],
+    [ "RemoveFlame", "d9/d2b/a20662.html#ab992d2df928b9ca2699ca48e64fb2606", null ],
+    [ "SpreadFlame", "d9/d2b/a20662.html#ae801181472a8e29208a4f305fb0307f9", null ],
+    [ "UpdateAI", "d9/d2b/a20662.html#a9d628d32d3519d0e7152c772e540b7ef", null ],
+    [ "CreateTime", "d9/d2b/a20662.html#ae50820bb38d0ed61b8687b4023aac5b9", null ],
+    [ "events", "d9/d2b/a20662.html#a89217e11f9930b336665969791fc84b9", null ],
+    [ "FlameList", "d9/d2b/a20662.html#a75b218699a42ece4959d0a1fe40713d7", null ]
 ];

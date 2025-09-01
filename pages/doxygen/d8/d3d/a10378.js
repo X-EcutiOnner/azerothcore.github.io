@@ -1,10 +1,5 @@
 var a10378 =
 [
-    [ "ArgsType", "d8/d3d/a10378.html#a4ea4d3b165a196482ebe96af9c462658", null ],
-    [ "AuraScriptType", "d8/d3d/a10378.html#a7b2a19d6c7c75c0df22eae17b0c8e90a", null ],
-    [ "SpellScriptType", "d8/d3d/a10378.html#a790a8ef2b59bfe6298486648858506ed", null ],
-    [ "GenericSpellAndAuraScriptLoader", "d8/d3d/a10378.html#ab1bd69d57c6e2322044b8f7cf46cedb6", null ],
-    [ "GetAuraScript", "d8/d3d/a10378.html#a5f3c898a0dc6d9085589b88eb5571528", null ],
-    [ "GetSpellScript", "d8/d3d/a10378.html#a913fa28d2a2cf100ce73cf641e333e01", null ],
-    [ "_args", "d8/d3d/a10378.html#aad6527f64ede0d896880ffa90d05a378", null ]
+    [ "MovementHandlerScript", "d8/d3d/a10378.html#aeeeb5fe81eebc04fc317e726782be3ab", null ],
+    [ "OnPlayerMove", "d8/d3d/a10378.html#ac1604e58c8ecab26ce4159fb43a86a68", null ]
 ];

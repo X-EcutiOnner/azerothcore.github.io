@@ -1,8 +1,13 @@
 var a22650 =
 [
-    [ "FilterTargets", "d1/dc1/a22650.html#a9e0a72530a8dc764269e8df6d9d1ed3d", null ],
-    [ "HandleDummyHitTarget", "d1/dc1/a22650.html#ae892090a9bd48aa447224c9f96801d37", null ],
-    [ "PrepareSpellScript", "d1/dc1/a22650.html#af08ab4fcc3705b07e89ed222794e70e9", null ],
-    [ "Register", "d1/dc1/a22650.html#aeb1aad59b6b4767a63660c5fe0277392", null ],
-    [ "Validate", "d1/dc1/a22650.html#a5a87a7c18a55caf5288b8ca8bbd2f361", null ]
+    [ "OPvPCapturePointEP_EWT", "d1/dc1/a22650.html#a3740f069c46f9d3f0e11d97663bc0104", null ],
+    [ "ChangeState", "d1/dc1/a22650.html#ac00c50b89e1218f87506778096a9d7cd", null ],
+    [ "FillInitialWorldStates", "d1/dc1/a22650.html#a7ce76f4fc8169c42f65267daf987a3b6", null ],
+    [ "HandlePlayerEnter", "d1/dc1/a22650.html#aed78ccf9ad517b4a94431e3355cba1dd", null ],
+    [ "HandlePlayerLeave", "d1/dc1/a22650.html#a2638b24dca375420778845963e307db3", null ],
+    [ "SendChangePhase", "d1/dc1/a22650.html#a6d45df918aea00e9cb85a8940cb5c1c9", null ],
+    [ "SummonSupportUnitAtNorthpassTower", "d1/dc1/a22650.html#ad70a8cc485072cd9af892290584062d8", null ],
+    [ "UpdateTowerState", "d1/dc1/a22650.html#ac0bcdfb9f2aeabc78b72c3cce674c479", null ],
+    [ "m_TowerState", "d1/dc1/a22650.html#aa30e9cc01476eb20b188c7a13a405c3a", null ],
+    [ "m_UnitsSummonedSideId", "d1/dc1/a22650.html#a0319f0d51624df44419976e7abd1b813", null ]
 ];

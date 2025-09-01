@@ -1,11 +1,8 @@
 var a27054 =
 [
-    [ "AccountActionIpLogger", "dc/d5a/a27054.html#a73cad77bd83243cb10c4a1b4d7081e0b", null ],
-    [ "AccountIPLogAction", "dc/d5a/a27054.html#a9c978dafb71e67b8b278806df507e34b", null ],
-    [ "OnAccountLogin", "dc/d5a/a27054.html#a2952adcd73d775b924671e5a69adaccb", null ],
-    [ "OnEmailChange", "dc/d5a/a27054.html#aa15d0cc4e6ed3818fa18a927074f5f0c", null ],
-    [ "OnFailedAccountLogin", "dc/d5a/a27054.html#a8225c45bcb83e1ddd91a8dcd0f7da9cd", null ],
-    [ "OnFailedEmailChange", "dc/d5a/a27054.html#a9fd73dc7b6954dfb4fc94a1f1288ccd2", null ],
-    [ "OnFailedPasswordChange", "dc/d5a/a27054.html#a0663e15ea1a29b3daa672c8b6a25548f", null ],
-    [ "OnPasswordChange", "dc/d5a/a27054.html#a4b71aa9c1790e6d4033d884a17ce0a2f", null ]
+    [ "AfterCheckProc", "dc/d5a/a27054.html#acfdce5bcda30fc7c498d4f7aba37933f", null ],
+    [ "HandleProc", "dc/d5a/a27054.html#ac24bde081e118b347a3cad6832cd96da", null ],
+    [ "PrepareAuraScript", "dc/d5a/a27054.html#a5d33fbbc36417bd229fb9b1576f4f42b", null ],
+    [ "Register", "dc/d5a/a27054.html#ac60630c5d36b1e9cc4fc809ecde1fe20", null ],
+    [ "Validate", "dc/d5a/a27054.html#aecc372443f71834aaeab97ba77757e2a", null ]
 ];

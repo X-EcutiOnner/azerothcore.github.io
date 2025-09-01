@@ -1,9 +1,12 @@
 var a21946 =
 [
-    [ "npc_wounded_skirmisher", "d2/db7/a21946.html#a30fe2d901df0cfd9b66f3dbd6a1e6aea", null ],
-    [ "Initialize", "d2/db7/a21946.html#ae5fab920fcb16b57e0ed53a1177d319b", null ],
-    [ "JustEngagedWith", "d2/db7/a21946.html#a80357b71a1eccdcdce8c8bea87de1b66", null ],
-    [ "Reset", "d2/db7/a21946.html#acca266640c099718d2a0fd4f6a3c47ab", null ],
-    [ "SpellHit", "d2/db7/a21946.html#a891e879af5da1f181c94e528c59a81f1", null ],
-    [ "UpdateAI", "d2/db7/a21946.html#a52f8e7f8df05504cad4b4438c50814a4", null ]
+    [ "npc_wintergarde_gryphon", "d2/db7/a21946.html#ada46ecdbc8c3a33a7b3ce09296c0db72", null ],
+    [ "getVillager", "d2/db7/a21946.html#a7f20f5e124e013ad8f57ca31b9fb86d7", null ],
+    [ "IsSummonedBy", "d2/db7/a21946.html#acd7cea6226034d53b854c5ed659ff949", null ],
+    [ "JustDied", "d2/db7/a21946.html#a6c87d55ef29e14b4b8b87a0321179542", null ],
+    [ "MovementInform", "d2/db7/a21946.html#a8f2faf49533d27d971110681e050c060", null ],
+    [ "PassengerBoarded", "d2/db7/a21946.html#a16c01d26aef06358f979f59fe68c09ca", null ],
+    [ "SpellHit", "d2/db7/a21946.html#acf64143ea83321556156fde30e1a34d4", null ],
+    [ "UpdateAI", "d2/db7/a21946.html#aa161f280e7a7370696cecc27c51ee55c", null ],
+    [ "villagerGUID", "d2/db7/a21946.html#a56a7973a05061197192111ecf55ef14a", null ]
 ];

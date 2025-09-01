@@ -1,8 +1,8 @@
 var a12930 =
 [
-    [ "npc_scarlet_miner_cartAI", "d2/dc7/a12930.html#a4256e3bc9f6678dc85a3b702e1c531f8", null ],
-    [ "DoAction", "d2/dc7/a12930.html#a99ac60b1a60cc5f269aa7f02f3fd5083", null ],
-    [ "PassengerBoarded", "d2/dc7/a12930.html#a3539847efa7014a8e31a78ace83b6bc5", null ],
-    [ "SetGUID", "d2/dc7/a12930.html#a5679fef6f40d0e48547e7bd57a93a176", null ],
-    [ "minerGUID", "d2/dc7/a12930.html#a084e80b43b5b30b5e1794feff305e9b3", null ]
+    [ "npc_barnesAI", "de/d9e/a12934.html", "de/d9e/a12934" ],
+    [ "npc_barnes", "d2/dc7/a12930.html#aacdc737a94397a90b48b635293fe9c80", null ],
+    [ "GetAI", "d2/dc7/a12930.html#a4e349ede566d9be90b82e7ebd9d71de3", null ],
+    [ "OnGossipHello", "d2/dc7/a12930.html#a47cafa3628d2ca99582140f2a72ff8db", null ],
+    [ "OnGossipSelect", "d2/dc7/a12930.html#aa04d577e318f16f581f82761b6014eb5", null ]
 ];

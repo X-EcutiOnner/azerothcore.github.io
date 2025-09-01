@@ -1,6 +1,9 @@
 var a15758 =
 [
-    [ "HandleOpenLock", "de/ddc/a15758.html#a32bfb203e9ecfbcfa75f6c3e7a17fade", null ],
-    [ "PrepareSpellScript", "de/ddc/a15758.html#a646a42455b6a46c9f7cbb4b0229122cd", null ],
-    [ "Register", "de/ddc/a15758.html#a5dcac6f609ec93074ec3ce195101f592", null ]
+    [ "go_wind_stoneAI", "de/ddc/a15758.html#a4370be2b59ea50bf5ea2285bfbf4e242", null ],
+    [ "GossipHello", "de/ddc/a15758.html#a73f129b7b636a1178fe3402cf1e6c50d", null ],
+    [ "GossipSelect", "de/ddc/a15758.html#aff4dedbf3a6fea405722f7064633edb1", null ],
+    [ "InitializeAI", "de/ddc/a15758.html#a33f98d1de05b539a66c4103b4c61de1f", null ],
+    [ "SummonNPC", "de/ddc/a15758.html#ab44f563b8f117a19ac78508c3cba72e9", null ],
+    [ "_creatureGuid", "de/ddc/a15758.html#a50ad8b248381a6d9fac7a291796966d6", null ]
 ];

@@ -1,7 +1,8 @@
 var a20130 =
 [
-    [ "npc_ulduar_saronite_vaporsAI", "de/d45/a20130.html#a8f811c588aeca2cd4a12d4d345907bd2", null ],
-    [ "IsSummonedBy", "de/d45/a20130.html#a4692bb5c3ffadcfd133db665566c66e5", null ],
-    [ "JustDied", "de/d45/a20130.html#a5be637500e7b5735d90e19fa40fde467", null ],
-    [ "pInstance", "de/d45/a20130.html#a25cf8dd22f05566ae99b14a596039f5e", null ]
+    [ "npc_mechanoliftAI", "de/d45/a20130.html#ad772427e03c2bd2c3a51556b6e5968b5", null ],
+    [ "Reset", "de/d45/a20130.html#a8198e7db2c6f4f2ceec984cfd53982b1", null ],
+    [ "UpdateAI", "de/d45/a20130.html#a3f8634abde6b3aa00acf03c77df433be", null ],
+    [ "_evadeTimer", "de/d45/a20130.html#a53da6899ad0dcea569ca29f57e45bf61", null ],
+    [ "_startTimer", "de/d45/a20130.html#a9b1587bbadd8f0044e1d404d55b8ba1f", null ]
 ];

@@ -1,7 +1,6 @@
 var a21270 =
 [
-    [ "PrepareAuraScript", "d8/d63/a21270.html#a2b5894cd889205f19ac2c6ea5a535a82", null ],
-    [ "Register", "d8/d63/a21270.html#a95b0bcb7f3027cb63711c74befbd74ea", null ],
-    [ "TriggerFists", "d8/d63/a21270.html#a2df5a013ba1b3c5b57d628fd59a9073a", null ],
-    [ "Validate", "d8/d63/a21270.html#a2b7c45343d17839d85bf64ed36afd45c", null ]
+    [ "instance_utgarde_keep_InstanceMapScript", "db/dc6/a21274.html", "db/dc6/a21274" ],
+    [ "instance_utgarde_keep", "d8/d63/a21270.html#abe013e4f086f63722a6398b2b7928c80", null ],
+    [ "GetInstanceScript", "d8/d63/a21270.html#a9a42e0dde1c7598eb2ef665f11e25e92", null ]
 ];

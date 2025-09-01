@@ -1,7 +1,6 @@
 var a27062 =
 [
-    [ "CharacterDeleteActionIpLogger", "d4/df5/a27062.html#a37481de65409cf375dcff45615463949", null ],
-    [ "DeleteIPLogAction", "d4/df5/a27062.html#a73a5ddacd8892d2300be313cfc12f534", null ],
-    [ "OnPlayerDelete", "d4/df5/a27062.html#adb16e45e425fa816b2572692349d0005", null ],
-    [ "OnPlayerFailedDelete", "d4/df5/a27062.html#a16bc6247d220c1b6c52808cb4a522c11", null ]
+    [ "HandleCast", "d4/df5/a27062.html#ac6afa94be0da1f99b12afebe935bcb5d", null ],
+    [ "PrepareSpellScript", "d4/df5/a27062.html#aa784c7af6fe38069fca4dcff9a09a22b", null ],
+    [ "Register", "d4/df5/a27062.html#a81bc86c83ffc70602410912870e61700", null ]
 ];

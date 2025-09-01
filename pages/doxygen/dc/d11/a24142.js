@@ -1,6 +1,6 @@
 var a24142 =
 [
-    [ "npc_invis_infernal_casterAI", "da/df2/a24146.html", "da/df2/a24146" ],
-    [ "npc_invis_infernal_caster", "dc/d11/a24142.html#a9aed081ef904075830428bbc76f53874", null ],
-    [ "GetAI", "dc/d11/a24142.html#aede0c5cc390ea423169b1cba66d929cd", null ]
+    [ "npc_daranelleAI", "da/df2/a24146.html", "da/df2/a24146" ],
+    [ "npc_daranelle", "dc/d11/a24142.html#a0a6e26b95d6d97821bc9e0c00b205704", null ],
+    [ "GetAI", "dc/d11/a24142.html#ad2ba5e4dfded886acaf2f9821e15738d", null ]
 ];

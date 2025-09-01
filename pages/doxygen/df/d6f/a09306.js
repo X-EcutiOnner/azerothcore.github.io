@@ -1,10 +1,10 @@
 var a09306 =
 [
-    [ "NearestGameObjectEntryInObjectRangeCheck", "df/d6f/a09306.html#a7d57ae865868d4848caf088c4520b2a7", null ],
-    [ "NearestGameObjectEntryInObjectRangeCheck", "df/d6f/a09306.html#a28d97af524c2bab39e1bd2e5508e434b", null ],
-    [ "operator()", "df/d6f/a09306.html#ad0c6798e28784ed547102414f4c6a31f", null ],
-    [ "i_entry", "df/d6f/a09306.html#a5d19a23e7da2e5e5ed417d0a9623ffbb", null ],
-    [ "i_obj", "df/d6f/a09306.html#a104b8bece6ea78ba049dc592e54311be", null ],
-    [ "i_onlySpawned", "df/d6f/a09306.html#a2a58a6bcff73142e21c082bf2c11eff2", null ],
-    [ "i_range", "df/d6f/a09306.html#a94fc995a14f84060f3bfe5827f17b95e", null ]
+    [ "AnyDeadUnitObjectInRangeCheck", "df/d6f/a09306.html#ad51c7d9c256d8d769e7e5df2a618f233", null ],
+    [ "operator()", "df/d6f/a09306.html#a71355418a935e1e4c4f5294c0e6a244f", null ],
+    [ "operator()", "df/d6f/a09306.html#ae885f49537043421a92b44c201bec358", null ],
+    [ "operator()", "df/d6f/a09306.html#a92b2dcfedf97677e84f46ee0e3affb91", null ],
+    [ "operator()", "df/d6f/a09306.html#ae7a76a9bcc28c6e4705a2885b02be20d", null ],
+    [ "i_range", "df/d6f/a09306.html#a1a95cfd469f27284e6ff35e9856bddcb", null ],
+    [ "i_searchObj", "df/d6f/a09306.html#acf10f61f95961ff4b9fd4a8c162fa029", null ]
 ];

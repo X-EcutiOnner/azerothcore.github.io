@@ -1,5 +1,5 @@
 var a27354 =
 [
-    [ "go_hive_pod", "d3/da0/a27354.html#a7ec01a399e75ff2e64746166d1aa3539", null ],
-    [ "OnGossipHello", "d3/da0/a27354.html#a4cfb09789edf6699444a7d817e4ccc70", null ]
+    [ "go_mistwhisper_treasure", "d3/da0/a27354.html#a87c90caa9f6a628cb0eea3556b58449e", null ],
+    [ "OnGossipHello", "d3/da0/a27354.html#a03b6b19faba005ced7ff921fdf8ab493", null ]
 ];

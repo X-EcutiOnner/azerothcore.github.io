@@ -1,5 +1,6 @@
 var a14298 =
 [
-    [ "at_bring_your_orphan_to", "d2/dea/a14298.html#a160aae23dd3423dbc1afc8e3f8dbec7c", null ],
-    [ "OnTrigger", "d2/dea/a14298.html#af5cb73f6ba0657eff8809711a5dba84c", null ]
+    [ "boss_wushoolayAI", "d2/d82/a14302.html", "d2/d82/a14302" ],
+    [ "boss_wushoolay", "d2/dea/a14298.html#a68359ee086bb4e86c3c16c4a03e54893", null ],
+    [ "GetAI", "d2/dea/a14298.html#a70b476358956fd05d6effb75517e2b3d", null ]
 ];

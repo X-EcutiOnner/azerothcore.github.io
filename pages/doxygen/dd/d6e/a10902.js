@@ -1,9 +1,12 @@
 var a10902 =
 [
-    [ "TotemCreated", "dd/d6e/a10902.html#a24c9e483d1edb526330311c719d750df", null ],
-    [ "Write", "dd/d6e/a10902.html#a554900ae7442f00a63c983ea7ea74510", null ],
-    [ "Duration", "dd/d6e/a10902.html#aff6335b86ac051bccb623124905c7180", null ],
-    [ "Slot", "dd/d6e/a10902.html#a0889c816fbef728f1a0a6c530c801eac", null ],
-    [ "SpellID", "dd/d6e/a10902.html#a2fe9f98b653d7c2afcf3166e86f3756e", null ],
-    [ "Totem", "dd/d6e/a10902.html#a684d15c5368e8065c78e9320eebb676b", null ]
+    [ "StartMirrorTimer", "dd/d6e/a10902.html#a86039d4a721636477f266712682883f0", null ],
+    [ "StartMirrorTimer", "dd/d6e/a10902.html#a5202945882fb3cb5dd8574b6e6f8d5b0", null ],
+    [ "Write", "dd/d6e/a10902.html#afa6cc6032804e3d8f3f7797b2231847f", null ],
+    [ "MaxValue", "dd/d6e/a10902.html#a3f26c682d547be40d2800eff2189348d", null ],
+    [ "Paused", "dd/d6e/a10902.html#af3994b2c6a57e734f9d1ebeedcab7759", null ],
+    [ "Scale", "dd/d6e/a10902.html#a5879b6c796d7d7c2fd59001d2813a6b3", null ],
+    [ "SpellID", "dd/d6e/a10902.html#a3d90aa3046eb6272249f8fe171d7cd2f", null ],
+    [ "Timer", "dd/d6e/a10902.html#abb9dbec2c5df4b2dfbc96314a0465011", null ],
+    [ "Value", "dd/d6e/a10902.html#ad0f2f8f95fdea9a7555e3056bb49cc53", null ]
 ];

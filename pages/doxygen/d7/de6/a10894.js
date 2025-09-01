@@ -1,5 +1,7 @@
 var a10894 =
 [
-    [ "RequestPetInfo", "d7/de6/a10894.html#ae0861d1fb77fe39bb48c26505e36ed2b", null ],
-    [ "Read", "d7/de6/a10894.html#a5cc9bb57bce7dc7f24243fdc63e17870", null ]
+    [ "RandomRollClient", "d7/de6/a10894.html#a6d2edee5a6dbafd5b6194b60eeb0aafb", null ],
+    [ "Read", "d7/de6/a10894.html#ab682763f35a40f776b1742927df0a336", null ],
+    [ "Max", "d7/de6/a10894.html#a45a1e140ed402f54deb4c0798360a43a", null ],
+    [ "Min", "d7/de6/a10894.html#a3cd07e7891b43b453b56013d76f51f71", null ]
 ];

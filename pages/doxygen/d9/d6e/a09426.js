@@ -1,8 +1,10 @@
 var a09426 =
 [
-    [ "AllGameObjectsMatchingOneEntryInRange", "d9/d6e/a09426.html#ad64e96c8484be1354ad4a3c0b6754d95", null ],
-    [ "operator()", "d9/d6e/a09426.html#afc81f329be9d6d8eb8bfd2ade94c5665", null ],
-    [ "m_fRange", "d9/d6e/a09426.html#aa76b1a6c8a919c1e5b37c74b33859464", null ],
-    [ "m_pObject", "d9/d6e/a09426.html#ac2bae147199d0b1b592a560017128c4e", null ],
-    [ "m_uiEntries", "d9/d6e/a09426.html#a3eb95fd72147ab8195da44a46c2cf0e6", null ]
+    [ "NearestCreatureEntryWithLiveStateInObjectRangeCheck", "d9/d6e/a09426.html#aa9f15d071efe7ca7bb975489fec2afbd", null ],
+    [ "NearestCreatureEntryWithLiveStateInObjectRangeCheck", "d9/d6e/a09426.html#a1e25384d08beeee84d83e401f5a5a565", null ],
+    [ "operator()", "d9/d6e/a09426.html#abc2ab6f33a6a58a6e692cc32e8139839", null ],
+    [ "i_alive", "d9/d6e/a09426.html#a7a01388f86d25fa0728d94c6e1a7f752", null ],
+    [ "i_entry", "d9/d6e/a09426.html#ae2bf2c0a0f431f5de445fbee26b60a57", null ],
+    [ "i_obj", "d9/d6e/a09426.html#aa0340c79c37f3494b01c52f034705aa4", null ],
+    [ "i_range", "d9/d6e/a09426.html#a695af00612b17e0182ad76a5c3be2356", null ]
 ];

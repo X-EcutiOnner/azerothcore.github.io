@@ -1,11 +1,5 @@
 var a17890 =
 [
-    [ "Load", "d5/dc5/a17890.html#a0dab3a666abd6d8c1486a6e71ce98c20", null ],
-    [ "PrepareSpellScript", "d5/dc5/a17890.html#a8338cc31a3c494c1cb24d015a11fbd64", null ],
-    [ "Register", "d5/dc5/a17890.html#a9adbad7cc2185b22fb16135e78114548", null ],
-    [ "SelectTarget", "d5/dc5/a17890.html#a296ec09cec9661123ea5c86f3f262f32", null ],
-    [ "SetTarget", "d5/dc5/a17890.html#a15373dc2a0767e011faf504f6377e24d", null ],
-    [ "StartAttack", "d5/dc5/a17890.html#a17b20a391d70ae487774d52ed0e5dbd7", null ],
-    [ "Validate", "d5/dc5/a17890.html#a7619f7ec6dc0ce14293414729731ed00", null ],
-    [ "_target", "d5/dc5/a17890.html#abe6d3ad0f06b2370f1a5985878d6af3d", null ]
+    [ "achievement_im_on_a_boat", "d5/dc5/a17890.html#aa25d330534aab023ec798e86976a6d50", null ],
+    [ "OnCheck", "d5/dc5/a17890.html#ab4fffc061b9ff77563e7e0a5a796be1e", null ]
 ];

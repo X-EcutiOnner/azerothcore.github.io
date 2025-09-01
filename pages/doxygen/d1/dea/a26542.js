@@ -1,8 +1,7 @@
 var a26542 =
 [
-    [ "CheckCast", "d1/dea/a26542.html#a16983545e25f3e02064e2b3d573b2bb8", null ],
-    [ "CheckQuest", "d1/dea/a26542.html#abc927d932c1d5e05eab1918364d68ed5", null ],
-    [ "HandleActiveObject", "d1/dea/a26542.html#a95f7bd6dd52b19bb1c09975a7286882a", null ],
-    [ "PrepareSpellScript", "d1/dea/a26542.html#a96e69476965cc2466213a5371a57093a", null ],
-    [ "Register", "d1/dea/a26542.html#a83c48e1c42a6a6dd892f0f4d6a20687b", null ]
+    [ "HandleEffectApply", "d1/dea/a26542.html#a475d0bab96e226853368be3b68c5a2d3", null ],
+    [ "HandleEffectRemove", "d1/dea/a26542.html#aa22a095e40789ac562a64c20d7eadb28", null ],
+    [ "PrepareAuraScript", "d1/dea/a26542.html#a2b06b0dc1a4c2f5b5e4657e11a097660", null ],
+    [ "Register", "d1/dea/a26542.html#a91e75a059828a30d509fd22be19048f8", null ]
 ];

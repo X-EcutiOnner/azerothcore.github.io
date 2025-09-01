@@ -1,11 +1,11 @@
 var a26774 =
 [
-    [ "CalcPeriodic", "df/d90/a26774.html#aeb804ef41ec5600c18b5b1c9fcf37479", null ],
-    [ "CalculateAPAmount", "df/d90/a26774.html#a72bd308dbeaa7eca5685f3e5055d7fad", null ],
-    [ "CalculateResistanceAmount", "df/d90/a26774.html#a12a0f547198d150b0c51e481dd0ff6aa", null ],
-    [ "CalculateSPAmount", "df/d90/a26774.html#a114c868f0dc31f3370588b1bd1f18894", null ],
-    [ "CalculateStatAmount", "df/d90/a26774.html#ae7ba2e3eca6c93325ede8b100e32bd3c", null ],
-    [ "HandlePeriodic", "df/d90/a26774.html#af5076795e8bf6abd45590a060f9e5b52", null ],
-    [ "PrepareAuraScript", "df/d90/a26774.html#aa512873852c0eea9947472fcb60fbfc2", null ],
-    [ "Register", "df/d90/a26774.html#a40ed4ca839b9783d9a8e9930f87a2eb8", null ]
+    [ "CheckProc", "df/d90/a26774.html#a7a6eea8debb09c4c9086a92d8e6ee59c", null ],
+    [ "HandleProc", "df/d90/a26774.html#af29b1d6d8553003514918a383cb08b4a", null ],
+    [ "Load", "df/d90/a26774.html#a8861c2415c0f705cb4a06c02eabb54d2", null ],
+    [ "OnRemove", "df/d90/a26774.html#a9227147dd6e621deddd0088b95e9db2f", null ],
+    [ "PrepareAuraScript", "df/d90/a26774.html#a149881d517edbb15032452554fc64948", null ],
+    [ "Register", "df/d90/a26774.html#ac81d60d54a87a23bd9481934f5753de0", null ],
+    [ "Validate", "df/d90/a26774.html#a7a4d1bddd1dbeb41e0f6f8fe272b4ad6", null ],
+    [ "_redirectTarget", "df/d90/a26774.html#af3ee2a283d8942ab3652a6386c26f737", null ]
 ];

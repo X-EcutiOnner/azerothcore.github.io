@@ -1,7 +1,7 @@
 var a15638 =
 [
-    [ "npc_giltharesAI", "da/d4a/a15638.html#af22e42b2180987febd964784b6d49b5e", null ],
-    [ "JustEngagedWith", "da/d4a/a15638.html#ae9ba65652db3d2d32920d1a98594727a", null ],
-    [ "Reset", "da/d4a/a15638.html#a34d57ef71b60fe71c749f790cecf70b2", null ],
-    [ "WaypointReached", "da/d4a/a15638.html#a9308c73760e50e0f3d04031b508526d1", null ]
+    [ "HandleDummy", "da/d4a/a15638.html#a30a87266b89021caf7d05c45397f70d1", null ],
+    [ "PrepareSpellScript", "da/d4a/a15638.html#a43a92b346088d710719722e8feed9634", null ],
+    [ "Register", "da/d4a/a15638.html#ad7a53cc6a24197c050ed8577f6c6cc12", null ],
+    [ "Validate", "da/d4a/a15638.html#a8b5097b623adbc1d8a10d7b1c4c248ab", null ]
 ];

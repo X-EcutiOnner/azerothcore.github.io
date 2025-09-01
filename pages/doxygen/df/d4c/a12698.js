@@ -1,8 +1,8 @@
 var a12698 =
 [
-    [ "npc_tito", "df/d4c/a12698.html#a0b3b1750e8b8840e50d27d22ebddb7c8", null ],
-    [ "JustEngagedWith", "df/d4c/a12698.html#a71335c1474e8a29edf76addacb737fa9", null ],
-    [ "UpdateAI", "df/d4c/a12698.html#ac357c29e68d8480d94349da844efd3ad", null ],
-    [ "_scheduler", "df/d4c/a12698.html#a96c47ca2e66bb984dfd2cfefa6bde643", null ],
-    [ "instance", "df/d4c/a12698.html#a9eecd226486e52d559ae1a30687bf0eb", null ]
+    [ "npc_kernobeeAI", "df/d4c/a12698.html#a9dfc478b7da1bf33463e3653aea3c4da", null ],
+    [ "SetGUID", "df/d4c/a12698.html#a34999b470697ba0a27701facd63625f8", null ],
+    [ "UpdateAI", "df/d4c/a12698.html#ae99836a836234ad441d6ac97c60d7fc6", null ],
+    [ "checkTimer", "df/d4c/a12698.html#ae4731b5dd7b92d6989b0960d88e1dc35", null ],
+    [ "playerGUID", "df/d4c/a12698.html#aca1009b03ee24200f5dbad788ec5c5c8", null ]
 ];

@@ -1,7 +1,7 @@
 var a25966 =
 [
-    [ "CalcPeriodic", "de/d84/a25966.html#a404e5309016cfcaa3071c0216978699e", null ],
-    [ "PrepareAuraScript", "de/d84/a25966.html#a9675e5c417e5e9a5a358a3ffb371073e", null ],
-    [ "Register", "de/d84/a25966.html#a60ffc059d00fd58abe7e758f06bbf35c", null ],
-    [ "AuraEffectHandleModes", "de/d84/a25966.html#aa66ee788b7e09815b827a0f4ac954e1f", null ]
+    [ "HandleDummy", "de/d84/a25966.html#a4e78ce5b1275860304eba414f8e66442", null ],
+    [ "PrepareSpellScript", "de/d84/a25966.html#a155fa844714aadadd0a6c31dc86748f3", null ],
+    [ "Register", "de/d84/a25966.html#a3ea6786e2fa76917bcb4baa42d2be1f1", null ],
+    [ "Validate", "de/d84/a25966.html#a08838d940e413d83f4c48854260c3e1b", null ]
 ];

@@ -1,5 +1,5 @@
 var a27922 =
 [
-    [ "ID", "dc/d78/a27922.html#a4f030d8b8b87aff67e0d8319c6b53310", null ],
-    [ "price", "dc/d78/a27922.html#a9b81ec4b4638763b738862d6c184e2a9", null ]
+    [ "npc_sunwell_gate", "dc/d78/a27922.html#a70643c475fe4aa6f47e0a47222b1faad", null ],
+    [ "OnQuestReward", "dc/d78/a27922.html#acfcf6b252cc7ebc594b22fffffa5930b", null ]
 ];

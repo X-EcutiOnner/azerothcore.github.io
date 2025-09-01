@@ -1,11 +1,14 @@
 var a15350 =
 [
-    [ "npc_stillpine_capitiveAI", "d0/d4f/a15350.html#a98560e7fc360dbfa3166805d9ab3feb4", null ],
-    [ "MovementInform", "d0/d4f/a15350.html#a1e930b49da85a64aa87ba79b5fe72391", null ],
-    [ "Reset", "d0/d4f/a15350.html#a9c884f892e64044057d477bdc0f89eed", null ],
-    [ "StartMoving", "d0/d4f/a15350.html#a2552a79cf384cca1203afa7f241c1cb9", null ],
-    [ "UpdateAI", "d0/d4f/a15350.html#a25dc06767382b5fee2a7098b58726fb2", null ],
-    [ "_events", "d0/d4f/a15350.html#a93dd55d392836d8d085e34293344b700", null ],
-    [ "_movementComplete", "d0/d4f/a15350.html#ae8e39ca782aee412e39d65a33d14014e", null ],
-    [ "_playerGUID", "d0/d4f/a15350.html#a3fe9a4f01aebb602095d60eb606ce763", null ]
+    [ "boss_twinemperorsAI", "d0/d4f/a15350.html#ae0857b191dbbf086533062aee5885237", null ],
+    [ "DamageTaken", "d0/d4f/a15350.html#a118151851f36de9dfc22971a965cb047", null ],
+    [ "DoAction", "d0/d4f/a15350.html#a2b5e585749b7a59663813c7a9d56c223", null ],
+    [ "EnterEvadeMode", "d0/d4f/a15350.html#ab5a1b28405c38ece65f5ee145e472de8", null ],
+    [ "GetTwin", "d0/d4f/a15350.html#af23aa54bca9752c242e80331862ace4d", null ],
+    [ "IAmVeklor", "d0/d4f/a15350.html#acdccdde2ee573f51e1783ea493577258", null ],
+    [ "JustDied", "d0/d4f/a15350.html#a9cc74619908c2aa9f8deda2689616735", null ],
+    [ "JustEngagedWith", "d0/d4f/a15350.html#ab9a279e9ba3bb057268602be7368ffe4", null ],
+    [ "KilledUnit", "d0/d4f/a15350.html#aaa52e01bfeff824345f7b9c7346e8aef", null ],
+    [ "UpdateAI", "d0/d4f/a15350.html#a4d9e07fd3f682a24332d0aabe6c55f8f", null ],
+    [ "_introDone", "d0/d4f/a15350.html#a1b4689b0c403f7246ae100e4f716b138", null ]
 ];

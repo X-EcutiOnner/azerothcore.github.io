@@ -1,7 +1,10 @@
 var a15054 =
 [
-    [ "npc_hivezara_stinger", "d4/d13/a15054.html#ac9438c9dd260a41d6248f2adcc14b555", null ],
-    [ "JustEngagedWith", "d4/d13/a15054.html#a433d31057f1732ef7ef15d2023e18b8a", null ],
-    [ "Reset", "d4/d13/a15054.html#ae8e893c90942a469628c393d5b5380cc", null ],
-    [ "UpdateAI", "d4/d13/a15054.html#a35a6511ebc0301ae0bb22aafc91c8524", null ]
+    [ "instance_maraudon_InstanceMapScript", "d4/d13/a15054.html#a9c46508320d3973006561444feae0586", null ],
+    [ "Initialize", "d4/d13/a15054.html#a61cb2b2bf09bb997457bc01a41e092e9", null ],
+    [ "OnGameObjectCreate", "d4/d13/a15054.html#a3a287b97db58c3489815f20ee0d37977", null ],
+    [ "ReadSaveDataMore", "d4/d13/a15054.html#ac2cd336874b25ad20dac104037de1df5", null ],
+    [ "SetData", "d4/d13/a15054.html#a6e90bf60a076c164e432128f7ec62fba", null ],
+    [ "WriteSaveDataMore", "d4/d13/a15054.html#a6e4072342e66689d343912de85e66b34", null ],
+    [ "_encounters", "d4/d13/a15054.html#af2e752a791d75e50001060c4a9f18173", null ]
 ];

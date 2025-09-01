@@ -1,10 +1,6 @@
 var a16354 =
 [
-    [ "npc_nerubian_burrowerAI", "d9/d78/a16354.html#a7673709e7b16a6573d9c7392ba556313", null ],
-    [ "CanAIAttack", "d9/d78/a16354.html#a82e4a5ca23ae2a94212b214aad1c69df", null ],
-    [ "JustDied", "d9/d78/a16354.html#ab5182ad65187c472b306e2177530d7b6", null ],
-    [ "Reset", "d9/d78/a16354.html#a4491965d9c08ed1d888cad6f7b06352d", null ],
-    [ "SpellHitTarget", "d9/d78/a16354.html#a64fa2c8276f7418542190e833dd72c51", null ],
-    [ "UpdateAI", "d9/d78/a16354.html#abd2c7333625ded502a00848b09ee9a40", null ],
-    [ "events", "d9/d78/a16354.html#ab45e8c6dd9ea3552fed4b926136f80e6", null ]
+    [ "npc_living_infernoAI", "d9/d78/a16354.html#ab33eeac6aab8e18778fc7d4ffe5038f1", null ],
+    [ "IsSummonedBy", "d9/d78/a16354.html#a4b6986a392aee0741ba47651e809c76c", null ],
+    [ "JustDied", "d9/d78/a16354.html#a60b2e31d24e182e97d604d91223e2dc8", null ]
 ];

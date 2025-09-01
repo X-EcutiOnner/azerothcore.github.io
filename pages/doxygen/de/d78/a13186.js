@@ -1,6 +1,8 @@
 var a13186 =
 [
-    [ "instance_stratholme_InstanceMapScript", "da/d13/a13190.html", "da/d13/a13190" ],
-    [ "instance_stratholme", "de/d78/a13186.html#a42ac504b2790af8c37a44e87fbd9c6c1", null ],
-    [ "GetInstanceScript", "de/d78/a13186.html#a3d3d2e773029dd1c4bc1a59a94c4e015", null ]
+    [ "npc_highlord_darion_mograineAI", "da/d13/a13190.html", "da/d13/a13190" ],
+    [ "npc_highlord_darion_mograine", "de/d78/a13186.html#a86680b1a140c706b10fd48befc572286", null ],
+    [ "GetAI", "de/d78/a13186.html#a350539ed741fa372ffff92ffbc6e6260", null ],
+    [ "OnGossipHello", "de/d78/a13186.html#a35afc9d80b4570163af9f6013949a70c", null ],
+    [ "OnGossipSelect", "de/d78/a13186.html#a0539d24556c16a1a72be8258c752f5f5", null ]
 ];

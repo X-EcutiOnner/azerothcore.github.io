@@ -1,5 +1,7 @@
 var a05830 =
 [
-    [ "element", "dd/d81/a05830.html#ae5400b2932fe1a8c514c38fb6bab392f", null ],
-    [ "type", "dd/d81/a05830.html#afb3f8dc82da740b1aaae165cb6a5b218", null ]
+    [ "ToString", "dd/d81/a05830.html#a252569604d54dedfbe28b320911aa7b7", null ],
+    [ "ToString", "dd/d81/a05830.html#ab114258f0dc260983aceea6ca63c1a5c", null ],
+    [ "ToString", "dd/d81/a05830.html#a61c3f0b723ff92ab388b5cd27cea3151", null ],
+    [ "data", "dd/d81/a05830.html#ac0fb35a34d9ef399f00ab0bb146afd18", null ]
 ];

@@ -1,6 +1,7 @@
 var a15978 =
 [
-    [ "boss_sartharion_vesperonAI", "d9/d96/a15982.html", "d9/d96/a15982" ],
-    [ "boss_sartharion_vesperon", "d4/d35/a15978.html#a53af67abd9f9bff7f72ee2441e885500", null ],
-    [ "GetAI", "d4/d35/a15978.html#ad045054b44910461e704c412a524bdc4", null ]
+    [ "npc_ahnkahar_nerubian", "d4/d35/a15978.html#ae18cdf09bae50751e266e95caf165f8e", null ],
+    [ "Reset", "d4/d35/a15978.html#a387831015ec8e4bc65cff8c8550bb176", null ],
+    [ "UpdateAI", "d4/d35/a15978.html#a9a773127e4f94bcdf142718355eae0e8", null ],
+    [ "uiSprintTimer", "d4/d35/a15978.html#a27a6f57a6b145cc595896d1ad453064f", null ]
 ];

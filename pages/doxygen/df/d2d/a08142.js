@@ -1,13 +1,15 @@
 var a08142 =
 [
-    [ "AnimationInfo", "df/d2d/a08142.html#aa443028e95ae416e09f1acfef0575803", null ],
-    [ "Building", "df/d2d/a08142.html#aae3dbb59dc70ee4d5d0a10390200c66e", null ],
-    [ "CapturePoint", "df/d2d/a08142.html#a6be6a6549054045466f377cf8a55790a", null ],
-    [ "FishingHole", "df/d2d/a08142.html#a7c7b99d5e85617c9f74ba20babb8f08b", null ],
-    [ "Health", "df/d2d/a08142.html#af70b72663064c9c4b88c93a824f1e14b", null ],
-    [ "MaxHealth", "df/d2d/a08142.html#ab606f11596c1dd3d1cf7588346338721", null ],
-    [ "MaxOpens", "df/d2d/a08142.html#a07ed76d692ae0af008e2373f3f9fd3e9", null ],
-    [ "OPvPObj", "df/d2d/a08142.html#a565624b690fa7fabf21b175548765652", null ],
-    [ "PathProgress", "df/d2d/a08142.html#a9e07a147b2be08a78f052e0cdb817111", null ],
-    [ "Transport", "df/d2d/a08142.html#a3fe65f8be0137e71908c037b0d279c27", null ]
+    [ "Minion", "df/d2d/a08142.html#a3979ae40c594699ac2a276184543b2c5", null ],
+    [ "GetDebugInfo", "df/d2d/a08142.html#a1f9800abdfa2126e593a6ae169f20024", null ],
+    [ "GetFollowAngle", "df/d2d/a08142.html#a6b4a4409bd7a8ff455bb13f8c4e5560a", null ],
+    [ "GetOwner", "df/d2d/a08142.html#a4610f459936e40b530dae8429f139cfe", null ],
+    [ "InitStats", "df/d2d/a08142.html#ad11b2900e990e2b5ba7d10b811cd1e5d", null ],
+    [ "IsGuardianPet", "df/d2d/a08142.html#a63335ad34731e8a26ab027bf690f9d4d", null ],
+    [ "IsPetGhoul", "df/d2d/a08142.html#ae56acaeea6d1cf9735345cb784f3dcd3", null ],
+    [ "RemoveFromWorld", "df/d2d/a08142.html#a35f8314d0a4bafeba1987eb0b1ececf3", null ],
+    [ "setDeathState", "df/d2d/a08142.html#ab954627fc409e08616cf080974d30a82", null ],
+    [ "SetFollowAngle", "df/d2d/a08142.html#a3b7be3e8dc649b939056ee6a5a66c506", null ],
+    [ "m_followAngle", "df/d2d/a08142.html#a02806f2eae429a33e0d2b0c115892c77", null ],
+    [ "m_owner", "df/d2d/a08142.html#a135c4341d5f617d1f69ee9f7deeea755", null ]
 ];

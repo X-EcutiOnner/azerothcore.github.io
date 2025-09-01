@@ -1,6 +1,6 @@
 var a24782 =
 [
-    [ "HandleAfterCast", "dd/d6c/a24782.html#a39572ebbeee6fe39bc4454088c622bcd", null ],
-    [ "PrepareSpellScript", "dd/d6c/a24782.html#a602d7c920aa73a9c3c69222854093036", null ],
-    [ "Register", "dd/d6c/a24782.html#addbbf508a0e1074c23ebd325dd62bbe9", null ]
+    [ "RaiseDeadCheck", "dd/d6c/a24782.html#abc6439e5b457f2f6e832f504167a392d", null ],
+    [ "operator()", "dd/d6c/a24782.html#a9647e6afd21e7397f05349e66bea4326", null ],
+    [ "_caster", "dd/d6c/a24782.html#a7b1647934c5e64de65d38b9fba2d343a", null ]
 ];

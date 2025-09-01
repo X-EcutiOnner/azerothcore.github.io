@@ -1,7 +1,8 @@
 var a27598 =
 [
-    [ "npc_sayge", "d4/dde/a27598.html#a5b75c459665ece26cee5dbffcc0fc8ff", null ],
-    [ "OnGossipHello", "d4/dde/a27598.html#ad069e6cc7fe5271c3474c8bcf537cf4c", null ],
-    [ "OnGossipSelect", "d4/dde/a27598.html#aa049b4514fc2d18508d8d4f9b6616c99", null ],
-    [ "SendAction", "d4/dde/a27598.html#aed1988335672423d024546654aa95298", null ]
+    [ "trigger_periodicAI", "d4/dde/a27598.html#a696d62fed28de9c67827dad111cf320b", null ],
+    [ "UpdateAI", "d4/dde/a27598.html#aed31d60765eff7dd11790714e28e729e", null ],
+    [ "interval", "d4/dde/a27598.html#a6e9dd149ce11dcc1c2adf039c73e8023", null ],
+    [ "spell", "d4/dde/a27598.html#a618b707155edf6d9179bbedc0f0ecf1e", null ],
+    [ "timer", "d4/dde/a27598.html#ac434f6a60065ae3b1adcb11d58af4299", null ]
 ];

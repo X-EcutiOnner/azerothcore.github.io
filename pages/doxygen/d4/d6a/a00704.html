@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/Grids/Notifiers/GridNotifiers.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/scripts/World/scourge_invasion.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,91 +105,126 @@ $(document).ready(function(){initNavTree('d4/d6a/a00704.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
+<a href="#nested-classes">Classes</a> &#124;
 <a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">GridNotifiers.cpp File Reference</div></div>
+  <div class="headertitle"><div class="title">scourge_invasion.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">GridNotifiers.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Map.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ObjectAccessor.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Transport.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">UpdateData.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">WorldPacket.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">AreaDefines.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">CellImpl.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">CombatAI.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">CreatureScript.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Duration.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">GameEventMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">GameObjectAI.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">GameObjectScript.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">GridNotifiersImpl.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Object.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ObjectDefines.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ScriptedCreature.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ScriptedGossip.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">SpellInfo.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">SpellScript.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">SpellScriptLoader.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Unit.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Weather.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">WeatherMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">WorldState.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">scourge_invasion.h</a>&quot;</code><br />
+<code>#include &lt;chrono&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
+Classes</h2></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d86/a27854.html">go_necropolis</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d7b/a27858.html">npc_herald_of_the_lich_king</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d6c/a27862.html">npc_necropolis</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d23/a27866.html">npc_necropolis_health</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d22/a27870.html">npc_necropolis_proxy</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d8a/a27874.html">npc_necropolis_relay</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/df2/a27878.html">npc_necrotic_shard</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d42/a27882.html">npc_minion_spawner</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d27/a27886.html">npc_cultist_engineer</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dae/a27890.html">npc_flameshocker</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc2/a27894.html">npc_pallid_horror</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d0c/a27898.html">npc_pallid_horror::FlameshockerCheck</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dc9/a27902.html">spell_despawner_self</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/dbb/a27906.html">spell_communique_trigger</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d1f/a27910.html">spell_scourge_invasion_scourge_strike</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:a6dd107031f342074ca560b711fe188d7"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d6a/a00704.html#a6dd107031f342074ca560b711fe188d7">CreatureUnitRelocationWorker</a> (<a class="el" href="../../d0/dda/a08000.html">Creature</a> *c, <a class="el" href="../../d3/dd2/a08756.html">Unit</a> *u)</td></tr>
-<tr class="separator:a6dd107031f342074ca560b711fe188d7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5e9656f80b8e7b4176a6271aadc2d8e7"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d6a/a00704.html#a5e9656f80b8e7b4176a6271aadc2d8e7">AddSC_scourge_invasion</a> ()</td></tr>
+<tr class="separator:a5e9656f80b8e7b4176a6271aadc2d8e7"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Function Documentation</h2>
-<a id="a6dd107031f342074ca560b711fe188d7" name="a6dd107031f342074ca560b711fe188d7"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6dd107031f342074ca560b711fe188d7">&#9670;&#160;</a></span>CreatureUnitRelocationWorker()</h2>
+<a id="a5e9656f80b8e7b4176a6271aadc2d8e7" name="a5e9656f80b8e7b4176a6271aadc2d8e7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5e9656f80b8e7b4176a6271aadc2d8e7">&#9670;&#160;</a></span>AddSC_scourge_invasion()</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void CreatureUnitRelocationWorker </td>
+          <td class="memname">void AddSC_scourge_invasion </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/dda/a08000.html">Creature</a> *&#160;</td>
-          <td class="paramname"><em>c</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
+          <td class="paramname"></td><td>)</td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../d3/dd2/a08756.html">Unit</a> *&#160;</td>
-          <td class="paramname"><em>u</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  158</span>{</div>
-<div class="line"><span class="lineno">  159</span>    <span class="keywordflow">if</span> (!u-&gt;<a class="code hl_function" href="../../d3/dd2/a08756.html#a5ea3f54af571493f7889220724667189">IsAlive</a>() || !c-&gt;<a class="code hl_function" href="../../d3/dd2/a08756.html#a5ea3f54af571493f7889220724667189">IsAlive</a>() || c == u || u-&gt;<a class="code hl_function" href="../../d3/dd2/a08756.html#a85b547eedd208db5f9dddc5f75a1a211">IsInFlight</a>())</div>
-<div class="line"><span class="lineno">  160</span>    {</div>
-<div class="line"><span class="lineno">  161</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  162</span>    }</div>
-<div class="line"><span class="lineno">  163</span> </div>
-<div class="line"><span class="lineno">  164</span>    <span class="keywordflow">if</span> (!c-&gt;<a class="code hl_function" href="../../d3/dd2/a08756.html#ab78147cd520d2dac6be709b4c80a7de3">HasUnitState</a>(<a class="code hl_enumvalue" href="../../d6/d53/a01688.html#ae51d2ecb71f7a5cb3882982a622c9544a6109dcad21a2eaf7e1d57bc2ad917558">UNIT_STATE_SIGHTLESS</a>))</div>
-<div class="line"><span class="lineno">  165</span>    {</div>
-<div class="line"><span class="lineno">  166</span>        <span class="keywordflow">if</span> (c-&gt;<a class="code hl_variable" href="../../d3/dd2/a08756.html#ab395fef0b407c0af40ba6274c32730a6">IsAIEnabled</a> &amp;&amp; c-&gt;<a class="code hl_function" href="../../d1/d2f/a08404.html#addeafb9ef860ca79c7a6570ae75a4bd0">CanSeeOrDetect</a>(u, <span class="keyword">false</span>, <span class="keyword">true</span>))</div>
-<div class="line"><span class="lineno">  167</span>        {</div>
-<div class="line"><span class="lineno">  168</span>            c-&gt;<a class="code hl_function" href="../../d0/dda/a08000.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>()-&gt;<a class="code hl_function" href="../../de/d5a/a06176.html#afd0302ecfe6e2381dc2bc5f89f2c2152">MoveInLineOfSight_Safe</a>(u);</div>
-<div class="line"><span class="lineno">  169</span>        }</div>
-<div class="line"><span class="lineno">  170</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (u-&gt;<a class="code hl_function" href="../../de/de0/a08368.html#a1b9ed00e8d7ac5fed698ef6431905296">IsPlayer</a>() &amp;&amp; u-&gt;<a class="code hl_function" href="../../d3/dd2/a08756.html#a671aa59743c8e3919295551a5f113ce1">HasStealthAura</a>() &amp;&amp; c-&gt;<a class="code hl_variable" href="../../d3/dd2/a08756.html#ab395fef0b407c0af40ba6274c32730a6">IsAIEnabled</a> &amp;&amp; c-&gt;<a class="code hl_function" href="../../d1/d2f/a08404.html#addeafb9ef860ca79c7a6570ae75a4bd0">CanSeeOrDetect</a>(u, <span class="keyword">false</span>, <span class="keyword">true</span>, <span class="keyword">true</span>))</div>
-<div class="line"><span class="lineno">  171</span>        {</div>
-<div class="line"><span class="lineno">  172</span>            c-&gt;<a class="code hl_function" href="../../d0/dda/a08000.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>()-&gt;<a class="code hl_function" href="../../de/d5a/a06176.html#a3a8fee035f2cd3ed05f46f6ab042cd50">TriggerAlert</a>(u);</div>
-<div class="line"><span class="lineno">  173</span>        }</div>
-<div class="line"><span class="lineno">  174</span>    }</div>
-<div class="line"><span class="lineno">  175</span>}</div>
-<div class="ttc" id="aa01688_html_ae51d2ecb71f7a5cb3882982a622c9544a6109dcad21a2eaf7e1d57bc2ad917558"><div class="ttname"><a href="../../d6/d53/a01688.html#ae51d2ecb71f7a5cb3882982a622c9544a6109dcad21a2eaf7e1d57bc2ad917558">UNIT_STATE_SIGHTLESS</a></div><div class="ttdeci">@ UNIT_STATE_SIGHTLESS</div><div class="ttdef"><b>Definition:</b> UnitDefines.h:213</div></div>
-<div class="ttc" id="aa06176_html_a3a8fee035f2cd3ed05f46f6ab042cd50"><div class="ttname"><a href="../../de/d5a/a06176.html#a3a8fee035f2cd3ed05f46f6ab042cd50">CreatureAI::TriggerAlert</a></div><div class="ttdeci">void TriggerAlert(Unit const *who) const</div><div class="ttdef"><b>Definition:</b> CreatureAI.cpp:188</div></div>
-<div class="ttc" id="aa06176_html_afd0302ecfe6e2381dc2bc5f89f2c2152"><div class="ttname"><a href="../../de/d5a/a06176.html#afd0302ecfe6e2381dc2bc5f89f2c2152">CreatureAI::MoveInLineOfSight_Safe</a></div><div class="ttdeci">void MoveInLineOfSight_Safe(Unit *who)</div><div class="ttdoc">== Reactions At =================================</div><div class="ttdef"><b>Definition:</b> CreatureAI.cpp:160</div></div>
-<div class="ttc" id="aa08000_html_af2188eef9620b5af52ef2d3ac142db67"><div class="ttname"><a href="../../d0/dda/a08000.html#af2188eef9620b5af52ef2d3ac142db67">Creature::AI</a></div><div class="ttdeci">CreatureAI * AI() const</div><div class="ttdef"><b>Definition:</b> Creature.h:141</div></div>
-<div class="ttc" id="aa08368_html_a1b9ed00e8d7ac5fed698ef6431905296"><div class="ttname"><a href="../../de/de0/a08368.html#a1b9ed00e8d7ac5fed698ef6431905296">Object::IsPlayer</a></div><div class="ttdeci">bool IsPlayer() const</div><div class="ttdef"><b>Definition:</b> Object.h:201</div></div>
-<div class="ttc" id="aa08404_html_addeafb9ef860ca79c7a6570ae75a4bd0"><div class="ttname"><a href="../../d1/d2f/a08404.html#addeafb9ef860ca79c7a6570ae75a4bd0">WorldObject::CanSeeOrDetect</a></div><div class="ttdeci">bool CanSeeOrDetect(WorldObject const *obj, bool ignoreStealth=false, bool distanceCheck=false, bool checkAlert=false) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:1694</div></div>
-<div class="ttc" id="aa08756_html_a5ea3f54af571493f7889220724667189"><div class="ttname"><a href="../../d3/dd2/a08756.html#a5ea3f54af571493f7889220724667189">Unit::IsAlive</a></div><div class="ttdeci">bool IsAlive() const</div><div class="ttdef"><b>Definition:</b> Unit.h:1707</div></div>
-<div class="ttc" id="aa08756_html_a671aa59743c8e3919295551a5f113ce1"><div class="ttname"><a href="../../d3/dd2/a08756.html#a671aa59743c8e3919295551a5f113ce1">Unit::HasStealthAura</a></div><div class="ttdeci">bool HasStealthAura() const</div><div class="ttdef"><b>Definition:</b> Unit.h:1755</div></div>
-<div class="ttc" id="aa08756_html_a85b547eedd208db5f9dddc5f75a1a211"><div class="ttname"><a href="../../d3/dd2/a08756.html#a85b547eedd208db5f9dddc5f75a1a211">Unit::IsInFlight</a></div><div class="ttdeci">bool IsInFlight() const</div><div class="ttdef"><b>Definition:</b> Unit.h:1619</div></div>
-<div class="ttc" id="aa08756_html_ab395fef0b407c0af40ba6274c32730a6"><div class="ttname"><a href="../../d3/dd2/a08756.html#ab395fef0b407c0af40ba6274c32730a6">Unit::IsAIEnabled</a></div><div class="ttdeci">bool IsAIEnabled</div><div class="ttdef"><b>Definition:</b> Unit.h:2012</div></div>
-<div class="ttc" id="aa08756_html_ab78147cd520d2dac6be709b4c80a7de3"><div class="ttname"><a href="../../d3/dd2/a08756.html#ab78147cd520d2dac6be709b4c80a7de3">Unit::HasUnitState</a></div><div class="ttdeci">bool HasUnitState(const uint32 f) const</div><div class="ttdef"><b>Definition:</b> Unit.h:691</div></div>
+<div class="fragment"><div class="line"><span class="lineno"> 1050</span>{</div>
+<div class="line"><span class="lineno"> 1051</span>    <a class="code hl_define" href="../../d3/d45/a04280.html#a87397a2ba2a1acd88f62793eae9aa30e">RegisterGameObjectAI</a>(<a class="code hl_class" href="../../d0/d86/a27854.html">go_necropolis</a>);</div>
+<div class="line"><span class="lineno"> 1052</span>    <a class="code hl_define" href="../../d1/d7a/a04262.html#a5e7352841895df7117e2830448eb533f">RegisterCreatureAI</a>(<a class="code hl_struct" href="../../d2/d7b/a27858.html">npc_herald_of_the_lich_king</a>);</div>
+<div class="line"><span class="lineno"> 1053</span>    <a class="code hl_define" href="../../d1/d7a/a04262.html#a5e7352841895df7117e2830448eb533f">RegisterCreatureAI</a>(<a class="code hl_struct" href="../../d4/d6c/a27862.html">npc_necropolis</a>);</div>
+<div class="line"><span class="lineno"> 1054</span>    <a class="code hl_define" href="../../d1/d7a/a04262.html#a5e7352841895df7117e2830448eb533f">RegisterCreatureAI</a>(<a class="code hl_struct" href="../../dd/d23/a27866.html">npc_necropolis_health</a>);</div>
+<div class="line"><span class="lineno"> 1055</span>    <a class="code hl_define" href="../../d1/d7a/a04262.html#a5e7352841895df7117e2830448eb533f">RegisterCreatureAI</a>(<a class="code hl_struct" href="../../dd/d22/a27870.html">npc_necropolis_proxy</a>);</div>
+<div class="line"><span class="lineno"> 1056</span>    <a class="code hl_define" href="../../d1/d7a/a04262.html#a5e7352841895df7117e2830448eb533f">RegisterCreatureAI</a>(<a class="code hl_struct" href="../../d9/d8a/a27874.html">npc_necropolis_relay</a>);</div>
+<div class="line"><span class="lineno"> 1057</span>    <a class="code hl_define" href="../../d1/d7a/a04262.html#a5e7352841895df7117e2830448eb533f">RegisterCreatureAI</a>(<a class="code hl_struct" href="../../d6/df2/a27878.html">npc_necrotic_shard</a>);</div>
+<div class="line"><span class="lineno"> 1058</span>    <a class="code hl_define" href="../../d1/d7a/a04262.html#a5e7352841895df7117e2830448eb533f">RegisterCreatureAI</a>(<a class="code hl_struct" href="../../d2/d42/a27882.html">npc_minion_spawner</a>);</div>
+<div class="line"><span class="lineno"> 1059</span>    <a class="code hl_define" href="../../d1/d7a/a04262.html#a5e7352841895df7117e2830448eb533f">RegisterCreatureAI</a>(<a class="code hl_struct" href="../../dd/dc2/a27894.html">npc_pallid_horror</a>);</div>
+<div class="line"><span class="lineno"> 1060</span>    <a class="code hl_define" href="../../d1/d7a/a04262.html#a5e7352841895df7117e2830448eb533f">RegisterCreatureAI</a>(<a class="code hl_struct" href="../../de/d27/a27886.html">npc_cultist_engineer</a>);</div>
+<div class="line"><span class="lineno"> 1061</span>    <a class="code hl_define" href="../../d1/d7a/a04262.html#a5e7352841895df7117e2830448eb533f">RegisterCreatureAI</a>(<a class="code hl_struct" href="../../db/dae/a27890.html">npc_flameshocker</a>);</div>
+<div class="line"><span class="lineno"> 1062</span>    <a class="code hl_define" href="../../d1/d8f/a04202.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../de/dbb/a27906.html">spell_communique_trigger</a>);</div>
+<div class="line"><span class="lineno"> 1063</span>    <a class="code hl_define" href="../../d1/d8f/a04202.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../dc/dc9/a27902.html">spell_despawner_self</a>);</div>
+<div class="line"><span class="lineno"> 1064</span>    <a class="code hl_define" href="../../d1/d8f/a04202.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../dd/d1f/a27910.html">spell_scourge_invasion_scourge_strike</a>);</div>
+<div class="line"><span class="lineno"> 1065</span>}</div>
+<div class="ttc" id="aa04202_html_ae221e5976ab29ba14fec3b073a03670f"><div class="ttname"><a href="../../d1/d8f/a04202.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a></div><div class="ttdeci">#define RegisterSpellScript(spell_script)</div><div class="ttdef"><b>Definition:</b> SpellScriptLoader.h:88</div></div>
+<div class="ttc" id="aa04262_html_a5e7352841895df7117e2830448eb533f"><div class="ttname"><a href="../../d1/d7a/a04262.html#a5e7352841895df7117e2830448eb533f">RegisterCreatureAI</a></div><div class="ttdeci">#define RegisterCreatureAI(ai_name)</div><div class="ttdef"><b>Definition:</b> CreatureScript.h:71</div></div>
+<div class="ttc" id="aa04280_html_a87397a2ba2a1acd88f62793eae9aa30e"><div class="ttname"><a href="../../d3/d45/a04280.html#a87397a2ba2a1acd88f62793eae9aa30e">RegisterGameObjectAI</a></div><div class="ttdeci">#define RegisterGameObjectAI(ai_name)</div><div class="ttdef"><b>Definition:</b> GameObjectScript.h:77</div></div>
+<div class="ttc" id="aa27854_html"><div class="ttname"><a href="../../d0/d86/a27854.html">go_necropolis</a></div><div class="ttdef"><b>Definition:</b> scourge_invasion.cpp:42</div></div>
+<div class="ttc" id="aa27858_html"><div class="ttname"><a href="../../d2/d7b/a27858.html">npc_herald_of_the_lich_king</a></div><div class="ttdef"><b>Definition:</b> scourge_invasion.cpp:51</div></div>
+<div class="ttc" id="aa27862_html"><div class="ttname"><a href="../../d4/d6c/a27862.html">npc_necropolis</a></div><div class="ttdef"><b>Definition:</b> scourge_invasion.cpp:170</div></div>
+<div class="ttc" id="aa27866_html"><div class="ttname"><a href="../../dd/d23/a27866.html">npc_necropolis_health</a></div><div class="ttdef"><b>Definition:</b> scourge_invasion.cpp:187</div></div>
+<div class="ttc" id="aa27870_html"><div class="ttname"><a href="../../dd/d22/a27870.html">npc_necropolis_proxy</a></div><div class="ttdef"><b>Definition:</b> scourge_invasion.cpp:268</div></div>
+<div class="ttc" id="aa27874_html"><div class="ttname"><a href="../../d9/d8a/a27874.html">npc_necropolis_relay</a></div><div class="ttdef"><b>Definition:</b> scourge_invasion.cpp:302</div></div>
+<div class="ttc" id="aa27878_html"><div class="ttname"><a href="../../d6/df2/a27878.html">npc_necrotic_shard</a></div><div class="ttdef"><b>Definition:</b> scourge_invasion.cpp:336</div></div>
+<div class="ttc" id="aa27882_html"><div class="ttname"><a href="../../d2/d42/a27882.html">npc_minion_spawner</a></div><div class="ttdef"><b>Definition:</b> scourge_invasion.cpp:682</div></div>
+<div class="ttc" id="aa27886_html"><div class="ttname"><a href="../../de/d27/a27886.html">npc_cultist_engineer</a></div><div class="ttdef"><b>Definition:</b> scourge_invasion.cpp:763</div></div>
+<div class="ttc" id="aa27890_html"><div class="ttname"><a href="../../db/dae/a27890.html">npc_flameshocker</a></div><div class="ttdef"><b>Definition:</b> scourge_invasion.cpp:806</div></div>
+<div class="ttc" id="aa27894_html"><div class="ttname"><a href="../../dd/dc2/a27894.html">npc_pallid_horror</a></div><div class="ttdef"><b>Definition:</b> scourge_invasion.cpp:834</div></div>
+<div class="ttc" id="aa27902_html"><div class="ttname"><a href="../../dc/dc9/a27902.html">spell_despawner_self</a></div><div class="ttdef"><b>Definition:</b> scourge_invasion.cpp:987</div></div>
+<div class="ttc" id="aa27906_html"><div class="ttname"><a href="../../de/dbb/a27906.html">spell_communique_trigger</a></div><div class="ttdef"><b>Definition:</b> scourge_invasion.cpp:1010</div></div>
+<div class="ttc" id="aa27910_html"><div class="ttname"><a href="../../dd/d1f/a27910.html">spell_scourge_invasion_scourge_strike</a></div><div class="ttdef"><b>Definition:</b> scourge_invasion.cpp:1032</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00141">Creature::AI()</a>, <a class="el" href="../../#l01694">WorldObject::CanSeeOrDetect()</a>, <a class="el" href="../../#l01755">Unit::HasStealthAura()</a>, <a class="el" href="../../#l00691">Unit::HasUnitState()</a>, <a class="el" href="../../#l02012">Unit::IsAIEnabled</a>, <a class="el" href="../../#l01707">Unit::IsAlive()</a>, <a class="el" href="../../#l01619">Unit::IsInFlight()</a>, <a class="el" href="../../#l00201">Object::IsPlayer()</a>, <a class="el" href="../../#l00160">CreatureAI::MoveInLineOfSight_Safe()</a>, <a class="el" href="../../#l00188">CreatureAI::TriggerAlert()</a>, and <a class="el" href="../../#l00213">UNIT_STATE_SIGHTLESS</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00071">RegisterCreatureAI</a>, <a class="el" href="../../#l00077">RegisterGameObjectAI</a>, and <a class="el" href="../../#l00088">RegisterSpellScript</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00203">Acore::AIRelocationNotifier::Visit()</a>, and <a class="el" href="../../#l00187">Acore::CreatureRelocationNotifier::Visit()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00041">AddWorldScripts()</a>.</p>
 
 </div>
 </div>
@@ -198,8 +233,8 @@ Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_444e7ca7970920cb061ebbb02397ba46.html">Grids</a></li><li class="navelem"><a class="el" href="../../dir_286feac6c5a6e67bcd5741cf96c61741.html">Notifiers</a></li><li class="navelem"><a class="el" href="../../d4/d6a/a00704.html">GridNotifiers.cpp</a></li>
-    <li class="footer">Generated on Mon Aug 25 2025 20:45:17 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_0a0414616ece51a8570c4e36029d4e29.html">World</a></li><li class="navelem"><a class="el" href="../../d4/d6a/a00704.html">scourge_invasion.cpp</a></li>
+    <li class="footer">Generated on Mon Sep 1 2025 20:43:26 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

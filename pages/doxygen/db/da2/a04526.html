@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/common/Cryptography/CryptoGenerics.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/game/Weather/WeatherMgr.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,57 +105,45 @@ $(document).ready(function(){initNavTree('db/da2/a04526.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#nested-classes">Classes</a> &#124;
 <a href="#namespaces">Namespaces</a> &#124;
 <a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">CryptoGenerics.h File Reference</div></div>
+  <div class="headertitle"><div class="title">WeatherMgr.h File Reference<div class="ingroups"><a class="el" href="../../da/d11/a04792.html">The World</a></div></div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">BigNumber.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">CryptoRandom.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Define.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Errors.h</a>&quot;</code><br />
-<code>#include &lt;iterator&gt;</code><br />
-<code>#include &lt;vector&gt;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">Define.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
-Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/ded/a05184.html">Acore::Impl::CryptoGenericsImpl</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
 Namespaces</h2></td></tr>
-<tr class="memitem:d2/d5c/a04788"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d5c/a04788.html">Acore</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:dd/df4/a04800"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/df4/a04800.html">Acore::Impl</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:d5/d6b/a04799"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d6b/a04799.html">Acore::Crypto</a></td></tr>
+<tr class="memitem:d3/d24/a04873"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d24/a04873.html">WeatherMgr</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:a42045f5644391c1c876f0ae1bc180f7c"><td class="memTemplParams" colspan="2">template&lt;typename Cipher &gt; </td></tr>
-<tr class="memitem:a42045f5644391c1c876f0ae1bc180f7c"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d5/d6b/a04799.html#a42045f5644391c1c876f0ae1bc180f7c">Acore::Crypto::AEEncryptWithRandomIV</a> (std::vector&lt; <a class="el" href="../../d9/d4e/a04307.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> &gt; &amp;data, typename Cipher::Key const &amp;key)</td></tr>
-<tr class="separator:a42045f5644391c1c876f0ae1bc180f7c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0057c59e47839100792e392e2d73783a"><td class="memTemplParams" colspan="2">template&lt;typename Cipher &gt; </td></tr>
-<tr class="memitem:a0057c59e47839100792e392e2d73783a"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d5/d6b/a04799.html#a0057c59e47839100792e392e2d73783a">Acore::Crypto::AEEncryptWithRandomIV</a> (std::vector&lt; <a class="el" href="../../d9/d4e/a04307.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> &gt; &amp;data, <a class="el" href="../../d3/dd2/a05176.html">BigNumber</a> const &amp;key)</td></tr>
-<tr class="separator:a0057c59e47839100792e392e2d73783a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aeb3d22d5d1d2ceeb4a752b7dccc143b0"><td class="memTemplParams" colspan="2">template&lt;typename Cipher &gt; </td></tr>
-<tr class="memitem:aeb3d22d5d1d2ceeb4a752b7dccc143b0"><td class="memTemplItemLeft" align="right" valign="top">bool&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d5/d6b/a04799.html#aeb3d22d5d1d2ceeb4a752b7dccc143b0">Acore::Crypto::AEDecrypt</a> (std::vector&lt; <a class="el" href="../../d9/d4e/a04307.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> &gt; &amp;data, typename Cipher::Key const &amp;key)</td></tr>
-<tr class="separator:aeb3d22d5d1d2ceeb4a752b7dccc143b0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1173a93d3f38af692d24411d34829de0"><td class="memTemplParams" colspan="2">template&lt;typename Cipher &gt; </td></tr>
-<tr class="memitem:a1173a93d3f38af692d24411d34829de0"><td class="memTemplItemLeft" align="right" valign="top">bool&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d5/d6b/a04799.html#a1173a93d3f38af692d24411d34829de0">Acore::Crypto::AEDecrypt</a> (std::vector&lt; <a class="el" href="../../d9/d4e/a04307.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> &gt; &amp;data, <a class="el" href="../../d3/dd2/a05176.html">BigNumber</a> const &amp;key)</td></tr>
-<tr class="separator:a1173a93d3f38af692d24411d34829de0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ga6c7d8a9fc5dfce0880220f4b5b8cd623"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d11/a04792.html#ga6c7d8a9fc5dfce0880220f4b5b8cd623">WeatherMgr::LoadWeatherData</a> ()</td></tr>
+<tr class="separator:ga6c7d8a9fc5dfce0880220f4b5b8cd623"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:gadd11deec2098fed61adf7910b8f09cc6"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d90/a11662.html">Weather</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d11/a04792.html#gadd11deec2098fed61adf7910b8f09cc6">WeatherMgr::FindWeather</a> (<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> id)</td></tr>
+<tr class="memdesc:gadd11deec2098fed61adf7910b8f09cc6"><td class="mdescLeft">&#160;</td><td class="mdescRight">Find a <a class="el" href="../../d3/d90/a11662.html" title="Weather for one zone.">Weather</a> object by the given zoneid.  <a href="../../da/d11/a04792.html#gadd11deec2098fed61adf7910b8f09cc6">More...</a><br /></td></tr>
+<tr class="separator:gadd11deec2098fed61adf7910b8f09cc6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ga1f76350b68494335d48ae206b87e190c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d90/a11662.html">Weather</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d11/a04792.html#ga1f76350b68494335d48ae206b87e190c">WeatherMgr::AddWeather</a> (<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> zone_id)</td></tr>
+<tr class="memdesc:ga1f76350b68494335d48ae206b87e190c"><td class="mdescLeft">&#160;</td><td class="mdescRight">Add a <a class="el" href="../../d3/d90/a11662.html" title="Weather for one zone.">Weather</a> object to the list.  <a href="../../da/d11/a04792.html#ga1f76350b68494335d48ae206b87e190c">More...</a><br /></td></tr>
+<tr class="separator:ga1f76350b68494335d48ae206b87e190c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ga296a3324a3a38984149fae3e5d62435f"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d11/a04792.html#ga296a3324a3a38984149fae3e5d62435f">WeatherMgr::RemoveWeather</a> (<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> id)</td></tr>
+<tr class="memdesc:ga296a3324a3a38984149fae3e5d62435f"><td class="mdescLeft">&#160;</td><td class="mdescRight">Remove a <a class="el" href="../../d3/d90/a11662.html" title="Weather for one zone.">Weather</a> object for the given zoneid.  <a href="../../da/d11/a04792.html#ga296a3324a3a38984149fae3e5d62435f">More...</a><br /></td></tr>
+<tr class="separator:ga296a3324a3a38984149fae3e5d62435f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:gac86b4e254146468a7412d8fc7b0c27f2"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d11/a04792.html#gac86b4e254146468a7412d8fc7b0c27f2">WeatherMgr::SendFineWeatherUpdateToPlayer</a> (<a class="el" href="../../d4/d95/a08630.html">Player</a> *player)</td></tr>
+<tr class="separator:gac86b4e254146468a7412d8fc7b0c27f2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ga45f0da6cf9e14a99380b4b9be2890801"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d11/a04792.html#ga45f0da6cf9e14a99380b4b9be2890801">WeatherMgr::Update</a> (<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> diff)</td></tr>
+<tr class="separator:ga45f0da6cf9e14a99380b4b9be2890801"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1070012e9e40376f8468ff0aa5b77c71.html">common</a></li><li class="navelem"><a class="el" href="../../dir_c55db428bdbf28a6b4d3b113733cf911.html">Cryptography</a></li><li class="navelem"><a class="el" href="../../db/da2/a04526.html">CryptoGenerics.h</a></li>
-    <li class="footer">Generated on Mon Aug 25 2025 20:45:15 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_adf5e23d7fbd2f278fda5650b14114ac.html">Weather</a></li><li class="navelem"><a class="el" href="../../db/da2/a04526.html">WeatherMgr.h</a></li>
+    <li class="footer">Generated on Mon Sep 1 2025 20:42:36 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

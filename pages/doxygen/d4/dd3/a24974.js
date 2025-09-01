@@ -1,8 +1,10 @@
 var a24974 =
 [
-    [ "CheckIfCorpseNear", "d4/dd3/a24974.html#afdf1bca2e23057d99962fb1000e9245e", null ],
-    [ "HandleDummy", "d4/dd3/a24974.html#a9e1bf4884a32e515d8e6b3edf7f5d462", null ],
-    [ "PrepareSpellScript", "d4/dd3/a24974.html#af4a1aa22ed9ccf4df29d05d3f7fb0214", null ],
-    [ "Register", "d4/dd3/a24974.html#a22f4c5321769384b2b708f19edea1a66", null ],
-    [ "Validate", "d4/dd3/a24974.html#a855fdba79c4fa087253505ed419b9966", null ]
+    [ "FilterTargets", "d4/dd3/a24974.html#a033c63470d406ad2249c5aa223c00b2f", null ],
+    [ "HandleFinish", "d4/dd3/a24974.html#a3b5760ed61d0b2789ddcaef998303d38", null ],
+    [ "HandleScript", "d4/dd3/a24974.html#a2c26838015f1b21715fc1438537e15d3", null ],
+    [ "Load", "d4/dd3/a24974.html#a669aefa81d57358ef452f4c247b2ceff", null ],
+    [ "PrepareSpellScript", "d4/dd3/a24974.html#a3b65dbff73258b45f9e345bffc7a63a8", null ],
+    [ "Register", "d4/dd3/a24974.html#ac9b8d46cc77b06c427b5b3cbc1135072", null ],
+    [ "haveTarget", "d4/dd3/a24974.html#a7f5a4e68fb7d948f0df35824272cbdb0", null ]
 ];

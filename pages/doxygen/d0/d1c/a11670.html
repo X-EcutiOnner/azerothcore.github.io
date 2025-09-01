@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: instance_commandscript Class Reference</title>
+<title>AzerothCore: IWorld Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,72 +106,128 @@ $(document).ready(function(){initNavTree('d0/d1c/a11670.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pub-static-methods">Static Public Member Functions</a> &#124;
 <a href="../../d4/de2/a11667.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">instance_commandscript Class Reference</div></div>
+  <div class="headertitle"><div class="title">IWorld Class Reference<span class="mlabels"><span class="mlabel">abstract</span></span></div></div>
 </div><!--header-->
 <div class="contents">
+
+<p><code>#include &quot;<a class="el" href="../../">IWorld.h</a>&quot;</code></p>
 <div class="dynheader">
-Inheritance diagram for instance_commandscript:</div>
+Inheritance diagram for IWorld:</div>
 <div class="dyncontent">
  <div class="center">
-  <img src="../../d0/d1c/a11670.png" usemap="#instance_5Fcommandscript_map" alt=""/>
-  <map id="instance_5Fcommandscript_map" name="instance_5Fcommandscript_map">
-<area href="../../d0/d6c/a10262.html" alt="CommandScript" shape="rect" coords="0,56,150,80"/>
-<area href="../../d5/d45/a10422.html" alt="ScriptObject" shape="rect" coords="0,0,150,24"/>
+  <img src="../../d0/d1c/a11670.png" usemap="#IWorld_map" alt=""/>
+  <map id="IWorld_map" name="IWorld_map">
+<area href="../../dc/d36/a11682.html" title="The World." alt="World" shape="rect" coords="0,56,76,80"/>
+<area href="../../de/de8/a28738.html" alt="WorldMock" shape="rect" coords="86,56,162,80"/>
   </map>
 </div></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a4d0b308b35a1aa21c66c8bd406ffa82f"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d1c/a11670.html#a4d0b308b35a1aa21c66c8bd406ffa82f">instance_commandscript</a> ()</td></tr>
-<tr class="separator:a4d0b308b35a1aa21c66c8bd406ffa82f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a092d62969c835f6bf2a08ca3e05f04d5"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/da7/a04817.html#a7aa1549a95f760a19b9b7ffd8e669626">ChatCommandTable</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d1c/a11670.html#a092d62969c835f6bf2a08ca3e05f04d5">GetCommands</a> () const override</td></tr>
-<tr class="separator:a092d62969c835f6bf2a08ca3e05f04d5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a97dc7d00b78e0030ba2a950d23b2ebd2"><td class="memItemLeft" align="right" valign="top">virtual std::vector&lt; <a class="el" href="../../da/dc0/a07542.html">Acore::ChatCommands::ChatCommandBuilder</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d6c/a10262.html#a97dc7d00b78e0030ba2a950d23b2ebd2">GetCommands</a> () const =0</td></tr>
-<tr class="separator:a97dc7d00b78e0030ba2a950d23b2ebd2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="inherit_header pub_methods_a10422"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a10422')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../d5/d45/a10422.html">ScriptObject</a></td></tr>
-<tr class="memitem:a37da453729d5c8fbe2d06f905563f47c inherit pub_methods_a10422"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d45/a10422.html#a37da453729d5c8fbe2d06f905563f47c">IsDatabaseBound</a> () const</td></tr>
-<tr class="separator:a37da453729d5c8fbe2d06f905563f47c inherit pub_methods_a10422"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2f66339b1cdf1fde795c61cd24c8b0a2 inherit pub_methods_a10422"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d45/a10422.html#a2f66339b1cdf1fde795c61cd24c8b0a2">isAfterLoadScript</a> () const</td></tr>
-<tr class="separator:a2f66339b1cdf1fde795c61cd24c8b0a2 inherit pub_methods_a10422"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a585e75e34aed7aa32205daad85f8fe08 inherit pub_methods_a10422"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d45/a10422.html#a585e75e34aed7aa32205daad85f8fe08">checkValidity</a> ()</td></tr>
-<tr class="separator:a585e75e34aed7aa32205daad85f8fe08 inherit pub_methods_a10422"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a79588d839860d2f5caab60c5f1368f10 inherit pub_methods_a10422"><td class="memItemLeft" align="right" valign="top">const std::string &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d45/a10422.html#a79588d839860d2f5caab60c5f1368f10">GetName</a> () const</td></tr>
-<tr class="separator:a79588d839860d2f5caab60c5f1368f10 inherit pub_methods_a10422"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a69ee35ec7d54226264efef558022c1c0 inherit pub_methods_a10422"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/de7/a00014.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d45/a10422.html#a69ee35ec7d54226264efef558022c1c0">GetTotalAvailableHooks</a> ()</td></tr>
-<tr class="separator:a69ee35ec7d54226264efef558022c1c0 inherit pub_methods_a10422"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
-Static Public Member Functions</h2></td></tr>
-<tr class="memitem:abf42411f9c78ce59b21b34691e3d4233"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d1c/a11670.html#abf42411f9c78ce59b21b34691e3d4233">HandleInstanceListBindsCommand</a> (<a class="el" href="../../d1/dd7/a07498.html">ChatHandler</a> *handler)</td></tr>
-<tr class="separator:abf42411f9c78ce59b21b34691e3d4233"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7abbe257b10632f2acbdd838e1f073a9"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d1c/a11670.html#a7abbe257b10632f2acbdd838e1f073a9">HandleInstanceUnbindCommand</a> (<a class="el" href="../../d1/dd7/a07498.html">ChatHandler</a> *handler, <a class="el" href="../../d1/d20/a07698.html">Variant</a>&lt; <a class="el" href="../../d2/de7/a00014.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>, <a class="el" href="../../d4/d95/a00989.html#ac61bb0d0d29d3ccc94188eb93516adf5">EXACT_SEQUENCE</a>(&quot;all&quot;)&gt; mapArg, <a class="el" href="../../d4/d1e/a00497.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a>&lt; <a class="el" href="../../d2/de7/a00014.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> &gt; difficultyArg)</td></tr>
-<tr class="separator:a7abbe257b10632f2acbdd838e1f073a9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9547a0a88a3bcd7407c449f3f2f25f44"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d1c/a11670.html#a9547a0a88a3bcd7407c449f3f2f25f44">HandleInstanceStatsCommand</a> (<a class="el" href="../../d1/dd7/a07498.html">ChatHandler</a> *handler)</td></tr>
-<tr class="separator:a9547a0a88a3bcd7407c449f3f2f25f44"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4b494a8b1de470612436fbb9fa433416"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d1c/a11670.html#a4b494a8b1de470612436fbb9fa433416">HandleInstanceSaveDataCommand</a> (<a class="el" href="../../d1/dd7/a07498.html">ChatHandler</a> *handler)</td></tr>
-<tr class="separator:a4b494a8b1de470612436fbb9fa433416"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aec65b5af811eae2cbcf17571e9d1473b"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d1c/a11670.html#aec65b5af811eae2cbcf17571e9d1473b">HandleInstanceSetBossStateCommand</a> (<a class="el" href="../../d1/dd7/a07498.html">ChatHandler</a> *handler, <a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> encounterId, <a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> state, <a class="el" href="../../d4/d1e/a00497.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a>&lt; <a class="el" href="../../d8/db1/a07686.html">PlayerIdentifier</a> &gt; player)</td></tr>
-<tr class="separator:aec65b5af811eae2cbcf17571e9d1473b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0530ca6481073d6bafd11596546140b0"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d1c/a11670.html#a0530ca6481073d6bafd11596546140b0">HandleInstanceGetBossStateCommand</a> (<a class="el" href="../../d1/dd7/a07498.html">ChatHandler</a> *handler, <a class="el" href="../../d4/d1e/a00497.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a>&lt; <a class="el" href="../../d8/db1/a07686.html">PlayerIdentifier</a> &gt; player)</td></tr>
-<tr class="separator:a0530ca6481073d6bafd11596546140b0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="inherited" name="inherited"></a>
-Additional Inherited Members</h2></td></tr>
-<tr class="inherit_header pro_methods_a10262"><td colspan="2" onclick="javascript:toggleInherit('pro_methods_a10262')"><img src="../../closed.png" alt="-"/>&#160;Protected Member Functions inherited from <a class="el" href="../../d0/d6c/a10262.html">CommandScript</a></td></tr>
-<tr class="memitem:afb9ef0145bb5eedee7fd61609868ba20 inherit pro_methods_a10262"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d6c/a10262.html#afb9ef0145bb5eedee7fd61609868ba20">CommandScript</a> (const char *name)</td></tr>
-<tr class="separator:afb9ef0145bb5eedee7fd61609868ba20 inherit pro_methods_a10262"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="inherit_header pro_methods_a10422"><td colspan="2" onclick="javascript:toggleInherit('pro_methods_a10422')"><img src="../../closed.png" alt="-"/>&#160;Protected Member Functions inherited from <a class="el" href="../../d5/d45/a10422.html">ScriptObject</a></td></tr>
-<tr class="memitem:ae4ca97cf587379c94354e4889ff8c0c2 inherit pro_methods_a10422"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d45/a10422.html#ae4ca97cf587379c94354e4889ff8c0c2">ScriptObject</a> (const char *name, <a class="el" href="../../d2/de7/a00014.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> totalAvailableHooks=0)</td></tr>
-<tr class="separator:ae4ca97cf587379c94354e4889ff8c0c2 inherit pro_methods_a10422"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a80c704c939f54eee6655d68509598c42 inherit pro_methods_a10422"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d45/a10422.html#a80c704c939f54eee6655d68509598c42">~ScriptObject</a> ()=default</td></tr>
-<tr class="separator:a80c704c939f54eee6655d68509598c42 inherit pro_methods_a10422"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab3d4710d10fcd84a939c4d1a55162661"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d1c/a11670.html#ab3d4710d10fcd84a939c4d1a55162661">~IWorld</a> ()=default</td></tr>
+<tr class="separator:ab3d4710d10fcd84a939c4d1a55162661"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3d8424194e6c62e0751d34823740b6e4"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d1c/a11670.html#a3d8424194e6c62e0751d34823740b6e4">IsClosed</a> () const =0</td></tr>
+<tr class="separator:a3d8424194e6c62e0751d34823740b6e4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0ac63e3f37963ccdc41f794a84367175"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d1c/a11670.html#a0ac63e3f37963ccdc41f794a84367175">SetClosed</a> (bool val)=0</td></tr>
+<tr class="separator:a0ac63e3f37963ccdc41f794a84367175"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adefab958ec85d9023994a22adef88c9e"><td class="memItemLeft" align="right" valign="top">virtual <a class="el" href="../../db/dbc/a00395.html#adaa1cabfe05f8df3c272bdcfd89cdac7">AccountTypes</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d1c/a11670.html#adefab958ec85d9023994a22adef88c9e">GetPlayerSecurityLimit</a> () const =0</td></tr>
+<tr class="separator:adefab958ec85d9023994a22adef88c9e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1784b2a89b77dc3078582b78cd957968"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d1c/a11670.html#a1784b2a89b77dc3078582b78cd957968">SetPlayerSecurityLimit</a> (<a class="el" href="../../db/dbc/a00395.html#adaa1cabfe05f8df3c272bdcfd89cdac7">AccountTypes</a> sec)=0</td></tr>
+<tr class="separator:a1784b2a89b77dc3078582b78cd957968"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aec60f106aabf4b237607d058939e4e02"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d1c/a11670.html#aec60f106aabf4b237607d058939e4e02">LoadDBAllowedSecurityLevel</a> ()=0</td></tr>
+<tr class="separator:aec60f106aabf4b237607d058939e4e02"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad80333f046a524cb05c70aabcc6707cc"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d1c/a11670.html#ad80333f046a524cb05c70aabcc6707cc">getAllowMovement</a> () const =0</td></tr>
+<tr class="separator:ad80333f046a524cb05c70aabcc6707cc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af3c670ab13a39d235ffe81a06c07d0c4"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d1c/a11670.html#af3c670ab13a39d235ffe81a06c07d0c4">SetAllowMovement</a> (bool allow)=0</td></tr>
+<tr class="separator:af3c670ab13a39d235ffe81a06c07d0c4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae6473c2c9bcf5d8d0a8bc9143bb38ff9"><td class="memItemLeft" align="right" valign="top">virtual <a class="el" href="../../db/dbc/a00395.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d1c/a11670.html#ae6473c2c9bcf5d8d0a8bc9143bb38ff9">GetDefaultDbcLocale</a> () const =0</td></tr>
+<tr class="separator:ae6473c2c9bcf5d8d0a8bc9143bb38ff9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4883b31a7f34e07154dfd5b6f6a2dc10"><td class="memItemLeft" align="right" valign="top">virtual std::string const &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d1c/a11670.html#a4883b31a7f34e07154dfd5b6f6a2dc10">GetDataPath</a> () const =0</td></tr>
+<tr class="separator:a4883b31a7f34e07154dfd5b6f6a2dc10"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2120d1d470b2adf3a22e7b3b42af3956"><td class="memItemLeft" align="right" valign="top">virtual <a class="el" href="../../d7/d06/a00131.html#a3cd82f1c195a0b935b4d66b02a41acd8">Seconds</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d1c/a11670.html#a2120d1d470b2adf3a22e7b3b42af3956">GetNextDailyQuestsResetTime</a> () const =0</td></tr>
+<tr class="separator:a2120d1d470b2adf3a22e7b3b42af3956"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a29529b0f00698b5828739e72bf83358d"><td class="memItemLeft" align="right" valign="top">virtual <a class="el" href="../../d7/d06/a00131.html#a3cd82f1c195a0b935b4d66b02a41acd8">Seconds</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d1c/a11670.html#a29529b0f00698b5828739e72bf83358d">GetNextWeeklyQuestsResetTime</a> () const =0</td></tr>
+<tr class="separator:a29529b0f00698b5828739e72bf83358d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab1a456926fd637afe8b51afaaebc9612"><td class="memItemLeft" align="right" valign="top">virtual <a class="el" href="../../d7/d06/a00131.html#a3cd82f1c195a0b935b4d66b02a41acd8">Seconds</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d1c/a11670.html#ab1a456926fd637afe8b51afaaebc9612">GetNextRandomBGResetTime</a> () const =0</td></tr>
+<tr class="separator:ab1a456926fd637afe8b51afaaebc9612"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab70bad5d1cb5c18a37869a90ebc0e56d"><td class="memItemLeft" align="right" valign="top">virtual <a class="el" href="../../d0/d61/a00302.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d1c/a11670.html#ab70bad5d1cb5c18a37869a90ebc0e56d">GetConfigMaxSkillValue</a> () const =0</td></tr>
+<tr class="separator:ab70bad5d1cb5c18a37869a90ebc0e56d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a56adec939dc8b50849d500bb859e5b4c"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d1c/a11670.html#a56adec939dc8b50849d500bb859e5b4c">SetInitialWorldSettings</a> ()=0</td></tr>
+<tr class="separator:a56adec939dc8b50849d500bb859e5b4c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab37b212dac126961918252bfb947efcd"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d1c/a11670.html#ab37b212dac126961918252bfb947efcd">LoadConfigSettings</a> (bool reload=false)=0</td></tr>
+<tr class="separator:ab37b212dac126961918252bfb947efcd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abc6c092a01f3b7dc3c8dbfa7bf747242"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d1c/a11670.html#abc6c092a01f3b7dc3c8dbfa7bf747242">IsShuttingDown</a> () const =0</td></tr>
+<tr class="separator:abc6c092a01f3b7dc3c8dbfa7bf747242"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afc81520a2dad7e6324ed66f573f4adfe"><td class="memItemLeft" align="right" valign="top">virtual <a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d1c/a11670.html#afc81520a2dad7e6324ed66f573f4adfe">GetShutDownTimeLeft</a> () const =0</td></tr>
+<tr class="separator:afc81520a2dad7e6324ed66f573f4adfe"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6e0a6af1ba566fd0ecfef456b88a1e89"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d1c/a11670.html#a6e0a6af1ba566fd0ecfef456b88a1e89">ShutdownServ</a> (<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> time, <a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> options, <a class="el" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> exitcode, const std::string &amp;reason=std::string())=0</td></tr>
+<tr class="separator:a6e0a6af1ba566fd0ecfef456b88a1e89"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4a67939a2a73f8d812f8b3bc040d522e"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d1c/a11670.html#a4a67939a2a73f8d812f8b3bc040d522e">ShutdownCancel</a> ()=0</td></tr>
+<tr class="separator:a4a67939a2a73f8d812f8b3bc040d522e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0c9bd3a70458fe655bfc9492b4169118"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d1c/a11670.html#a0c9bd3a70458fe655bfc9492b4169118">ShutdownMsg</a> (bool show=false, <a class="el" href="../../d4/d95/a08630.html">Player</a> *player=nullptr, const std::string &amp;reason=std::string())=0</td></tr>
+<tr class="separator:a0c9bd3a70458fe655bfc9492b4169118"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7ddf36a5bbbab3288e2e069062fd90b9"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d1c/a11670.html#a7ddf36a5bbbab3288e2e069062fd90b9">Update</a> (<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> diff)=0</td></tr>
+<tr class="separator:a7ddf36a5bbbab3288e2e069062fd90b9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acad3c54cc13c94b2baee31fc9ee8392f"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d1c/a11670.html#acad3c54cc13c94b2baee31fc9ee8392f">setRate</a> (<a class="el" href="../../de/d87/a02939.html#a468ad15992691eb97dd20680046832e0">ServerConfigs</a> index, float value)=0</td></tr>
+<tr class="separator:acad3c54cc13c94b2baee31fc9ee8392f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a08e6163c632e0025a596469bf7e1e1ca"><td class="memItemLeft" align="right" valign="top">virtual float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d1c/a11670.html#a08e6163c632e0025a596469bf7e1e1ca">getRate</a> (<a class="el" href="../../de/d87/a02939.html#a468ad15992691eb97dd20680046832e0">ServerConfigs</a> index) const =0</td></tr>
+<tr class="separator:a08e6163c632e0025a596469bf7e1e1ca"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac8d30bd35a45f8c18d985bc608e23dc4"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d1c/a11670.html#ac8d30bd35a45f8c18d985bc608e23dc4">setBoolConfig</a> (<a class="el" href="../../de/d87/a02939.html#a468ad15992691eb97dd20680046832e0">ServerConfigs</a> index, bool value)=0</td></tr>
+<tr class="separator:ac8d30bd35a45f8c18d985bc608e23dc4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a978f0691f30cff7b8480e1708fc5a62e"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d1c/a11670.html#a978f0691f30cff7b8480e1708fc5a62e">getBoolConfig</a> (<a class="el" href="../../de/d87/a02939.html#a468ad15992691eb97dd20680046832e0">ServerConfigs</a> index) const =0</td></tr>
+<tr class="separator:a978f0691f30cff7b8480e1708fc5a62e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8888848c0c2df854abb631ce33231d5d"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d1c/a11670.html#a8888848c0c2df854abb631ce33231d5d">setFloatConfig</a> (<a class="el" href="../../de/d87/a02939.html#a468ad15992691eb97dd20680046832e0">ServerConfigs</a> index, float value)=0</td></tr>
+<tr class="separator:a8888848c0c2df854abb631ce33231d5d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae926e9bb899d2797a2b3bfe6954c776a"><td class="memItemLeft" align="right" valign="top">virtual float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d1c/a11670.html#ae926e9bb899d2797a2b3bfe6954c776a">getFloatConfig</a> (<a class="el" href="../../de/d87/a02939.html#a468ad15992691eb97dd20680046832e0">ServerConfigs</a> index) const =0</td></tr>
+<tr class="separator:ae926e9bb899d2797a2b3bfe6954c776a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8023df0a785ffebd388221921cf7fcb8"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d1c/a11670.html#a8023df0a785ffebd388221921cf7fcb8">setIntConfig</a> (<a class="el" href="../../de/d87/a02939.html#a468ad15992691eb97dd20680046832e0">ServerConfigs</a> index, <a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> value)=0</td></tr>
+<tr class="separator:a8023df0a785ffebd388221921cf7fcb8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a467b977bd6f453377482c5d23c8e70fa"><td class="memItemLeft" align="right" valign="top">virtual <a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d1c/a11670.html#a467b977bd6f453377482c5d23c8e70fa">getIntConfig</a> (<a class="el" href="../../de/d87/a02939.html#a468ad15992691eb97dd20680046832e0">ServerConfigs</a> index) const =0</td></tr>
+<tr class="separator:a467b977bd6f453377482c5d23c8e70fa"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a32b749f1cf1e1c5c969909bb36c337fa"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d1c/a11670.html#a32b749f1cf1e1c5c969909bb36c337fa">setStringConfig</a> (<a class="el" href="../../de/d87/a02939.html#a468ad15992691eb97dd20680046832e0">ServerConfigs</a> index, std::string const &amp;value)=0</td></tr>
+<tr class="separator:a32b749f1cf1e1c5c969909bb36c337fa"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a38068b1a5d89536f1e945f21d21d1956"><td class="memItemLeft" align="right" valign="top">virtual std::string_view&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d1c/a11670.html#a38068b1a5d89536f1e945f21d21d1956">getStringConfig</a> (<a class="el" href="../../de/d87/a02939.html#a468ad15992691eb97dd20680046832e0">ServerConfigs</a> index) const =0</td></tr>
+<tr class="separator:a38068b1a5d89536f1e945f21d21d1956"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9100136b10db0378f0c320c7625f3381"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d1c/a11670.html#a9100136b10db0378f0c320c7625f3381">IsPvPRealm</a> () const =0</td></tr>
+<tr class="separator:a9100136b10db0378f0c320c7625f3381"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9070d3ad9edf10bbe17c9a4363def0ee"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d1c/a11670.html#a9070d3ad9edf10bbe17c9a4363def0ee">IsFFAPvPRealm</a> () const =0</td></tr>
+<tr class="separator:a9070d3ad9edf10bbe17c9a4363def0ee"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aff737bba884cdc6e90e04f4223f1de6a"><td class="memItemLeft" align="right" valign="top">virtual <a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d1c/a11670.html#aff737bba884cdc6e90e04f4223f1de6a">GetNextWhoListUpdateDelaySecs</a> ()=0</td></tr>
+<tr class="separator:aff737bba884cdc6e90e04f4223f1de6a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ace81c5c964fe9ed968a95ac40580c55b"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d1c/a11670.html#ace81c5c964fe9ed968a95ac40580c55b">ProcessCliCommands</a> ()=0</td></tr>
+<tr class="separator:ace81c5c964fe9ed968a95ac40580c55b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a325294771c12b3a097363856a9bdd260"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d1c/a11670.html#a325294771c12b3a097363856a9bdd260">QueueCliCommand</a> (<a class="el" href="../../d4/db2/a11666.html">CliCommandHolder</a> *commandHolder)=0</td></tr>
+<tr class="separator:a325294771c12b3a097363856a9bdd260"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2aea79380f6a456208dbce5f1a084510"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d1c/a11670.html#a2aea79380f6a456208dbce5f1a084510">ForceGameEventUpdate</a> ()=0</td></tr>
+<tr class="separator:a2aea79380f6a456208dbce5f1a084510"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9a374eb71d8bac4976c16e1bd246df11"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d1c/a11670.html#a9a374eb71d8bac4976c16e1bd246df11">UpdateRealmCharCount</a> (<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> accid)=0</td></tr>
+<tr class="separator:a9a374eb71d8bac4976c16e1bd246df11"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a034bf9dc24db0c667f9aaeb4e3862eae"><td class="memItemLeft" align="right" valign="top">virtual <a class="el" href="../../db/dbc/a00395.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d1c/a11670.html#a034bf9dc24db0c667f9aaeb4e3862eae">GetAvailableDbcLocale</a> (<a class="el" href="../../db/dbc/a00395.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a> locale) const =0</td></tr>
+<tr class="separator:a034bf9dc24db0c667f9aaeb4e3862eae"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a79dd26c3602b7efc27b8aeea9824fa46"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d1c/a11670.html#a79dd26c3602b7efc27b8aeea9824fa46">LoadDBVersion</a> ()=0</td></tr>
+<tr class="separator:a79dd26c3602b7efc27b8aeea9824fa46"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5ef5e988dc37826154858a906355e49c"><td class="memItemLeft" align="right" valign="top">virtual char const *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d1c/a11670.html#a5ef5e988dc37826154858a906355e49c">GetDBVersion</a> () const =0</td></tr>
+<tr class="separator:a5ef5e988dc37826154858a906355e49c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a443ddacd3a14959ccfd2d2283c9903e2"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d1c/a11670.html#a443ddacd3a14959ccfd2d2283c9903e2">UpdateAreaDependentAuras</a> ()=0</td></tr>
+<tr class="separator:a443ddacd3a14959ccfd2d2283c9903e2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5fc5e2f0028e43ba3fbfba1b5a44b8d1"><td class="memItemLeft" align="right" valign="top">virtual <a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d1c/a11670.html#a5fc5e2f0028e43ba3fbfba1b5a44b8d1">GetCleaningFlags</a> () const =0</td></tr>
+<tr class="separator:a5fc5e2f0028e43ba3fbfba1b5a44b8d1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac01563d75973481b056130b07a6d44ac"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d1c/a11670.html#ac01563d75973481b056130b07a6d44ac">SetCleaningFlags</a> (<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> flags)=0</td></tr>
+<tr class="separator:ac01563d75973481b056130b07a6d44ac"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a594b9f40fcd60630573189de9cfdb232"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d1c/a11670.html#a594b9f40fcd60630573189de9cfdb232">ResetEventSeasonalQuests</a> (<a class="el" href="../../d0/d61/a00302.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> event_id)=0</td></tr>
+<tr class="separator:a594b9f40fcd60630573189de9cfdb232"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7f70490de6ab3ef87b0f72f80a37710f"><td class="memItemLeft" align="right" valign="top">virtual std::string const &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d1c/a11670.html#a7f70490de6ab3ef87b0f72f80a37710f">GetRealmName</a> () const =0</td></tr>
+<tr class="separator:a7f70490de6ab3ef87b0f72f80a37710f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1c88b825902f5caa4ec0f80e8f464463"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d1c/a11670.html#a1c88b825902f5caa4ec0f80e8f464463">SetRealmName</a> (std::string name)=0</td></tr>
+<tr class="separator:a1c88b825902f5caa4ec0f80e8f464463"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0d272fbf5de8cfbbedd45726c190baf6"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d1c/a11670.html#a0d272fbf5de8cfbbedd45726c190baf6">RemoveOldCorpses</a> ()=0</td></tr>
+<tr class="separator:a0d272fbf5de8cfbbedd45726c190baf6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a4d0b308b35a1aa21c66c8bd406ffa82f" name="a4d0b308b35a1aa21c66c8bd406ffa82f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4d0b308b35a1aa21c66c8bd406ffa82f">&#9670;&#160;</a></span>instance_commandscript()</h2>
+<a id="ab3d4710d10fcd84a939c4d1a55162661" name="ab3d4710d10fcd84a939c4d1a55162661"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab3d4710d10fcd84a939c4d1a55162661">&#9670;&#160;</a></span>~IWorld()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -180,7 +236,7 @@ Additional Inherited Members</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">instance_commandscript::instance_commandscript </td>
+          <td class="memname">virtual IWorld::~IWorld </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -188,18 +244,16 @@ Additional Inherited Members</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+<span class="mlabels"><span class="mlabel">virtual</span><span class="mlabel">default</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   32</span>: <a class="code hl_class" href="../../d0/d6c/a10262.html">CommandScript</a>(<span class="stringliteral">&quot;instance_commandscript&quot;</span>) { }</div>
-<div class="ttc" id="aa10262_html"><div class="ttname"><a href="../../d0/d6c/a10262.html">CommandScript</a></div><div class="ttdef"><b>Definition:</b> CommandScript.h:25</div></div>
-</div><!-- fragment -->
+
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="a092d62969c835f6bf2a08ca3e05f04d5" name="a092d62969c835f6bf2a08ca3e05f04d5"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a092d62969c835f6bf2a08ca3e05f04d5">&#9670;&#160;</a></span>GetCommands()</h2>
+<a id="a2aea79380f6a456208dbce5f1a084510" name="a2aea79380f6a456208dbce5f1a084510"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2aea79380f6a456208dbce5f1a084510">&#9670;&#160;</a></span>ForceGameEventUpdate()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -208,7 +262,34 @@ Additional Inherited Members</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../db/da7/a04817.html#a7aa1549a95f760a19b9b7ffd8e669626">ChatCommandTable</a> instance_commandscript::GetCommands </td>
+          <td class="memname">virtual void IWorld::ForceGameEventUpdate </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="../../dc/d36/a11682.html#a0856a1e408a7c0e33e83459553d06ab7">World</a>.</p>
+
+</div>
+</div>
+<a id="ad80333f046a524cb05c70aabcc6707cc" name="ad80333f046a524cb05c70aabcc6707cc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad80333f046a524cb05c70aabcc6707cc">&#9670;&#160;</a></span>getAllowMovement()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual bool IWorld::getAllowMovement </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td> const</td>
@@ -216,47 +297,17 @@ Additional Inherited Members</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">override</span><span class="mlabel">virtual</span></span>  </td>
+<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
 
-<p>Implements <a class="el" href="../../d0/d6c/a10262.html#a97dc7d00b78e0030ba2a950d23b2ebd2">CommandScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">   35</span>    {</div>
-<div class="line"><span class="lineno">   36</span>        <span class="keyword">static</span> <a class="code hl_typedef" href="../../db/da7/a04817.html#a7aa1549a95f760a19b9b7ffd8e669626">ChatCommandTable</a> instanceCommandTable =</div>
-<div class="line"><span class="lineno">   37</span>        {</div>
-<div class="line"><span class="lineno">   38</span>            { <span class="stringliteral">&quot;listbinds&quot;</span>,    <a class="code hl_function" href="../../d0/d1c/a11670.html#abf42411f9c78ce59b21b34691e3d4233">HandleInstanceListBindsCommand</a>,    <a class="code hl_enumvalue" href="../../d4/d51/a00017.html#adaa1cabfe05f8df3c272bdcfd89cdac7a87035c2f608d637b9bf5cbe0b42ca7a0">SEC_MODERATOR</a>,     Console::No },</div>
-<div class="line"><span class="lineno">   39</span>            { <span class="stringliteral">&quot;unbind&quot;</span>,       <a class="code hl_function" href="../../d0/d1c/a11670.html#a7abbe257b10632f2acbdd838e1f073a9">HandleInstanceUnbindCommand</a>,       <a class="code hl_enumvalue" href="../../d4/d51/a00017.html#adaa1cabfe05f8df3c272bdcfd89cdac7a7f04060ed09e837220bc6c3f34d6fef1">SEC_GAMEMASTER</a>,    Console::No },</div>
-<div class="line"><span class="lineno">   40</span>            { <span class="stringliteral">&quot;stats&quot;</span>,        <a class="code hl_function" href="../../d0/d1c/a11670.html#a9547a0a88a3bcd7407c449f3f2f25f44">HandleInstanceStatsCommand</a>,        <a class="code hl_enumvalue" href="../../d4/d51/a00017.html#adaa1cabfe05f8df3c272bdcfd89cdac7a87035c2f608d637b9bf5cbe0b42ca7a0">SEC_MODERATOR</a>,     Console::Yes },</div>
-<div class="line"><span class="lineno">   41</span>            { <span class="stringliteral">&quot;savedata&quot;</span>,     <a class="code hl_function" href="../../d0/d1c/a11670.html#a4b494a8b1de470612436fbb9fa433416">HandleInstanceSaveDataCommand</a>,     <a class="code hl_enumvalue" href="../../d4/d51/a00017.html#adaa1cabfe05f8df3c272bdcfd89cdac7a6a04b5fbbc52adb152bfb45b600db102">SEC_ADMINISTRATOR</a>, Console::No },</div>
-<div class="line"><span class="lineno">   42</span>            { <span class="stringliteral">&quot;setbossstate&quot;</span>, <a class="code hl_function" href="../../d0/d1c/a11670.html#aec65b5af811eae2cbcf17571e9d1473b">HandleInstanceSetBossStateCommand</a>, <a class="code hl_enumvalue" href="../../d4/d51/a00017.html#adaa1cabfe05f8df3c272bdcfd89cdac7a7f04060ed09e837220bc6c3f34d6fef1">SEC_GAMEMASTER</a>,    Console::Yes },</div>
-<div class="line"><span class="lineno">   43</span>            { <span class="stringliteral">&quot;getbossstate&quot;</span>, <a class="code hl_function" href="../../d0/d1c/a11670.html#a0530ca6481073d6bafd11596546140b0">HandleInstanceGetBossStateCommand</a>, <a class="code hl_enumvalue" href="../../d4/d51/a00017.html#adaa1cabfe05f8df3c272bdcfd89cdac7a87035c2f608d637b9bf5cbe0b42ca7a0">SEC_MODERATOR</a>,     Console::Yes },</div>
-<div class="line"><span class="lineno">   44</span>        };</div>
-<div class="line"><span class="lineno">   45</span> </div>
-<div class="line"><span class="lineno">   46</span>        <span class="keyword">static</span> <a class="code hl_typedef" href="../../db/da7/a04817.html#a7aa1549a95f760a19b9b7ffd8e669626">ChatCommandTable</a> commandTable =</div>
-<div class="line"><span class="lineno">   47</span>        {</div>
-<div class="line"><span class="lineno">   48</span>            { <span class="stringliteral">&quot;instance&quot;</span>, instanceCommandTable },</div>
-<div class="line"><span class="lineno">   49</span>        };</div>
-<div class="line"><span class="lineno">   50</span> </div>
-<div class="line"><span class="lineno">   51</span>        <span class="keywordflow">return</span> commandTable;</div>
-<div class="line"><span class="lineno">   52</span>    }</div>
-<div class="ttc" id="aa00017_html_adaa1cabfe05f8df3c272bdcfd89cdac7a6a04b5fbbc52adb152bfb45b600db102"><div class="ttname"><a href="../../d4/d51/a00017.html#adaa1cabfe05f8df3c272bdcfd89cdac7a6a04b5fbbc52adb152bfb45b600db102">SEC_ADMINISTRATOR</a></div><div class="ttdeci">@ SEC_ADMINISTRATOR</div><div class="ttdef"><b>Definition:</b> Common.h:60</div></div>
-<div class="ttc" id="aa00017_html_adaa1cabfe05f8df3c272bdcfd89cdac7a7f04060ed09e837220bc6c3f34d6fef1"><div class="ttname"><a href="../../d4/d51/a00017.html#adaa1cabfe05f8df3c272bdcfd89cdac7a7f04060ed09e837220bc6c3f34d6fef1">SEC_GAMEMASTER</a></div><div class="ttdeci">@ SEC_GAMEMASTER</div><div class="ttdef"><b>Definition:</b> Common.h:59</div></div>
-<div class="ttc" id="aa00017_html_adaa1cabfe05f8df3c272bdcfd89cdac7a87035c2f608d637b9bf5cbe0b42ca7a0"><div class="ttname"><a href="../../d4/d51/a00017.html#adaa1cabfe05f8df3c272bdcfd89cdac7a87035c2f608d637b9bf5cbe0b42ca7a0">SEC_MODERATOR</a></div><div class="ttdeci">@ SEC_MODERATOR</div><div class="ttdef"><b>Definition:</b> Common.h:58</div></div>
-<div class="ttc" id="aa04817_html_a7aa1549a95f760a19b9b7ffd8e669626"><div class="ttname"><a href="../../db/da7/a04817.html#a7aa1549a95f760a19b9b7ffd8e669626">Acore::ChatCommands::ChatCommandTable</a></div><div class="ttdeci">std::vector&lt; ChatCommandBuilder &gt; ChatCommandTable</div><div class="ttdef"><b>Definition:</b> ChatCommand.h:46</div></div>
-<div class="ttc" id="aa11670_html_a0530ca6481073d6bafd11596546140b0"><div class="ttname"><a href="../../d0/d1c/a11670.html#a0530ca6481073d6bafd11596546140b0">instance_commandscript::HandleInstanceGetBossStateCommand</a></div><div class="ttdeci">static bool HandleInstanceGetBossStateCommand(ChatHandler *handler, Optional&lt; PlayerIdentifier &gt; player)</div><div class="ttdef"><b>Definition:</b> cs_instance.cpp:202</div></div>
-<div class="ttc" id="aa11670_html_a4b494a8b1de470612436fbb9fa433416"><div class="ttname"><a href="../../d0/d1c/a11670.html#a4b494a8b1de470612436fbb9fa433416">instance_commandscript::HandleInstanceSaveDataCommand</a></div><div class="ttdeci">static bool HandleInstanceSaveDataCommand(ChatHandler *handler)</div><div class="ttdef"><b>Definition:</b> cs_instance.cpp:137</div></div>
-<div class="ttc" id="aa11670_html_a7abbe257b10632f2acbdd838e1f073a9"><div class="ttname"><a href="../../d0/d1c/a11670.html#a7abbe257b10632f2acbdd838e1f073a9">instance_commandscript::HandleInstanceUnbindCommand</a></div><div class="ttdeci">static bool HandleInstanceUnbindCommand(ChatHandler *handler, Variant&lt; uint16, EXACT_SEQUENCE(&quot;all&quot;)&gt; mapArg, Optional&lt; uint8 &gt; difficultyArg)</div><div class="ttdef"><b>Definition:</b> cs_instance.cpp:81</div></div>
-<div class="ttc" id="aa11670_html_a9547a0a88a3bcd7407c449f3f2f25f44"><div class="ttname"><a href="../../d0/d1c/a11670.html#a9547a0a88a3bcd7407c449f3f2f25f44">instance_commandscript::HandleInstanceStatsCommand</a></div><div class="ttdeci">static bool HandleInstanceStatsCommand(ChatHandler *handler)</div><div class="ttdef"><b>Definition:</b> cs_instance.cpp:123</div></div>
-<div class="ttc" id="aa11670_html_abf42411f9c78ce59b21b34691e3d4233"><div class="ttname"><a href="../../d0/d1c/a11670.html#abf42411f9c78ce59b21b34691e3d4233">instance_commandscript::HandleInstanceListBindsCommand</a></div><div class="ttdeci">static bool HandleInstanceListBindsCommand(ChatHandler *handler)</div><div class="ttdef"><b>Definition:</b> cs_instance.cpp:54</div></div>
-<div class="ttc" id="aa11670_html_aec65b5af811eae2cbcf17571e9d1473b"><div class="ttname"><a href="../../d0/d1c/a11670.html#aec65b5af811eae2cbcf17571e9d1473b">instance_commandscript::HandleInstanceSetBossStateCommand</a></div><div class="ttdeci">static bool HandleInstanceSetBossStateCommand(ChatHandler *handler, uint32 encounterId, uint32 state, Optional&lt; PlayerIdentifier &gt; player)</div><div class="ttdef"><b>Definition:</b> cs_instance.cpp:158</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00202">HandleInstanceGetBossStateCommand()</a>, <a class="el" href="../../#l00054">HandleInstanceListBindsCommand()</a>, <a class="el" href="../../#l00137">HandleInstanceSaveDataCommand()</a>, <a class="el" href="../../#l00158">HandleInstanceSetBossStateCommand()</a>, <a class="el" href="../../#l00123">HandleInstanceStatsCommand()</a>, <a class="el" href="../../#l00081">HandleInstanceUnbindCommand()</a>, <a class="el" href="../../#l00060">SEC_ADMINISTRATOR</a>, <a class="el" href="../../#l00059">SEC_GAMEMASTER</a>, and <a class="el" href="../../#l00058">SEC_MODERATOR</a>.</p>
+<p>Implemented in <a class="el" href="../../dc/d36/a11682.html#a5844e926808161034ab8e94ddcd113ee">World</a>.</p>
 
 </div>
 </div>
-<a id="a0530ca6481073d6bafd11596546140b0" name="a0530ca6481073d6bafd11596546140b0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0530ca6481073d6bafd11596546140b0">&#9670;&#160;</a></span>HandleInstanceGetBossStateCommand()</h2>
+<a id="a034bf9dc24db0c667f9aaeb4e3862eae" name="a034bf9dc24db0c667f9aaeb4e3862eae"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a034bf9dc24db0c667f9aaeb4e3862eae">&#9670;&#160;</a></span>GetAvailableDbcLocale()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -265,16 +316,836 @@ Additional Inherited Members</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">static bool instance_commandscript::HandleInstanceGetBossStateCommand </td>
+          <td class="memname">virtual <a class="el" href="../../db/dbc/a00395.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a> IWorld::GetAvailableDbcLocale </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d1/dd7/a07498.html">ChatHandler</a> *&#160;</td>
-          <td class="paramname"><em>handler</em>, </td>
+          <td class="paramtype"><a class="el" href="../../db/dbc/a00395.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a>&#160;</td>
+          <td class="paramname"><em>locale</em></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="../../dc/d36/a11682.html#a56821b6ec5b647768bf1a5176e8c9302">World</a>.</p>
+
+</div>
+</div>
+<a id="a978f0691f30cff7b8480e1708fc5a62e" name="a978f0691f30cff7b8480e1708fc5a62e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a978f0691f30cff7b8480e1708fc5a62e">&#9670;&#160;</a></span>getBoolConfig()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual bool IWorld::getBoolConfig </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../de/d87/a02939.html#a468ad15992691eb97dd20680046832e0">ServerConfigs</a>&#160;</td>
+          <td class="paramname"><em>index</em></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="../../dc/d36/a11682.html#a54e75ca3240b3c9db55a9d356ed7c835">World</a>.</p>
+
+</div>
+</div>
+<a id="a5fc5e2f0028e43ba3fbfba1b5a44b8d1" name="a5fc5e2f0028e43ba3fbfba1b5a44b8d1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5fc5e2f0028e43ba3fbfba1b5a44b8d1">&#9670;&#160;</a></span>GetCleaningFlags()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual <a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> IWorld::GetCleaningFlags </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="../../dc/d36/a11682.html#a8287e77d2f44d1b94884c86e20650e3c">World</a>.</p>
+
+</div>
+</div>
+<a id="ab70bad5d1cb5c18a37869a90ebc0e56d" name="ab70bad5d1cb5c18a37869a90ebc0e56d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab70bad5d1cb5c18a37869a90ebc0e56d">&#9670;&#160;</a></span>GetConfigMaxSkillValue()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual <a class="el" href="../../d0/d61/a00302.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> IWorld::GetConfigMaxSkillValue </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="../../dc/d36/a11682.html#a8d80d2592e9c46c2241a64c03ad83666">World</a>.</p>
+
+</div>
+</div>
+<a id="a4883b31a7f34e07154dfd5b6f6a2dc10" name="a4883b31a7f34e07154dfd5b6f6a2dc10"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4883b31a7f34e07154dfd5b6f6a2dc10">&#9670;&#160;</a></span>GetDataPath()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual std::string const  &amp; IWorld::GetDataPath </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="../../dc/d36/a11682.html#af0e397fef43d8165502535de9d48da4d">World</a>.</p>
+
+</div>
+</div>
+<a id="a5ef5e988dc37826154858a906355e49c" name="a5ef5e988dc37826154858a906355e49c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5ef5e988dc37826154858a906355e49c">&#9670;&#160;</a></span>GetDBVersion()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual char const  * IWorld::GetDBVersion </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="../../dc/d36/a11682.html#a39dc78de4ec20677aa8b00c1d3449fb8">World</a>.</p>
+
+</div>
+</div>
+<a id="ae6473c2c9bcf5d8d0a8bc9143bb38ff9" name="ae6473c2c9bcf5d8d0a8bc9143bb38ff9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae6473c2c9bcf5d8d0a8bc9143bb38ff9">&#9670;&#160;</a></span>GetDefaultDbcLocale()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual <a class="el" href="../../db/dbc/a00395.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a> IWorld::GetDefaultDbcLocale </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="../../dc/d36/a11682.html#ad73a066745376a4f1e4d16aafeac0bbf">World</a>.</p>
+
+</div>
+</div>
+<a id="ae926e9bb899d2797a2b3bfe6954c776a" name="ae926e9bb899d2797a2b3bfe6954c776a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae926e9bb899d2797a2b3bfe6954c776a">&#9670;&#160;</a></span>getFloatConfig()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual float IWorld::getFloatConfig </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../de/d87/a02939.html#a468ad15992691eb97dd20680046832e0">ServerConfigs</a>&#160;</td>
+          <td class="paramname"><em>index</em></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="../../dc/d36/a11682.html#af316951a4fad8be6307b10bd5b5cbc72">World</a>.</p>
+
+</div>
+</div>
+<a id="a467b977bd6f453377482c5d23c8e70fa" name="a467b977bd6f453377482c5d23c8e70fa"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a467b977bd6f453377482c5d23c8e70fa">&#9670;&#160;</a></span>getIntConfig()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual <a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> IWorld::getIntConfig </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../de/d87/a02939.html#a468ad15992691eb97dd20680046832e0">ServerConfigs</a>&#160;</td>
+          <td class="paramname"><em>index</em></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="../../dc/d36/a11682.html#ab52a16eee509572e8abfc315871a7fa5">World</a>.</p>
+
+</div>
+</div>
+<a id="a2120d1d470b2adf3a22e7b3b42af3956" name="a2120d1d470b2adf3a22e7b3b42af3956"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2120d1d470b2adf3a22e7b3b42af3956">&#9670;&#160;</a></span>GetNextDailyQuestsResetTime()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual <a class="el" href="../../d7/d06/a00131.html#a3cd82f1c195a0b935b4d66b02a41acd8">Seconds</a> IWorld::GetNextDailyQuestsResetTime </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="../../dc/d36/a11682.html#ae648e9cdaeb3d1e3250afd553719bae2">World</a>.</p>
+
+</div>
+</div>
+<a id="ab1a456926fd637afe8b51afaaebc9612" name="ab1a456926fd637afe8b51afaaebc9612"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab1a456926fd637afe8b51afaaebc9612">&#9670;&#160;</a></span>GetNextRandomBGResetTime()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual <a class="el" href="../../d7/d06/a00131.html#a3cd82f1c195a0b935b4d66b02a41acd8">Seconds</a> IWorld::GetNextRandomBGResetTime </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="../../dc/d36/a11682.html#a111207dc1b734f3b68e2d544bd39e2f5">World</a>.</p>
+
+</div>
+</div>
+<a id="a29529b0f00698b5828739e72bf83358d" name="a29529b0f00698b5828739e72bf83358d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a29529b0f00698b5828739e72bf83358d">&#9670;&#160;</a></span>GetNextWeeklyQuestsResetTime()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual <a class="el" href="../../d7/d06/a00131.html#a3cd82f1c195a0b935b4d66b02a41acd8">Seconds</a> IWorld::GetNextWeeklyQuestsResetTime </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="../../dc/d36/a11682.html#a309e14e8ec343ec3039f8020d55a4929">World</a>.</p>
+
+</div>
+</div>
+<a id="aff737bba884cdc6e90e04f4223f1de6a" name="aff737bba884cdc6e90e04f4223f1de6a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aff737bba884cdc6e90e04f4223f1de6a">&#9670;&#160;</a></span>GetNextWhoListUpdateDelaySecs()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual <a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> IWorld::GetNextWhoListUpdateDelaySecs </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="../../dc/d36/a11682.html#a2a7e783f9c0931334567118e5dedd8b4">World</a>.</p>
+
+</div>
+</div>
+<a id="adefab958ec85d9023994a22adef88c9e" name="adefab958ec85d9023994a22adef88c9e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adefab958ec85d9023994a22adef88c9e">&#9670;&#160;</a></span>GetPlayerSecurityLimit()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual <a class="el" href="../../db/dbc/a00395.html#adaa1cabfe05f8df3c272bdcfd89cdac7">AccountTypes</a> IWorld::GetPlayerSecurityLimit </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="../../dc/d36/a11682.html#ab093072ec6f5bcd680119157cabcd3f6">World</a>.</p>
+
+</div>
+</div>
+<a id="a08e6163c632e0025a596469bf7e1e1ca" name="a08e6163c632e0025a596469bf7e1e1ca"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a08e6163c632e0025a596469bf7e1e1ca">&#9670;&#160;</a></span>getRate()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual float IWorld::getRate </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../de/d87/a02939.html#a468ad15992691eb97dd20680046832e0">ServerConfigs</a>&#160;</td>
+          <td class="paramname"><em>index</em></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="../../dc/d36/a11682.html#a718c2dde851a3412db5de63bff8b8dd0">World</a>.</p>
+
+</div>
+</div>
+<a id="a7f70490de6ab3ef87b0f72f80a37710f" name="a7f70490de6ab3ef87b0f72f80a37710f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7f70490de6ab3ef87b0f72f80a37710f">&#9670;&#160;</a></span>GetRealmName()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual std::string const  &amp; IWorld::GetRealmName </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="../../dc/d36/a11682.html#a9ef018075eb1940b88c40d6c5294c8a4">World</a>.</p>
+
+</div>
+</div>
+<a id="afc81520a2dad7e6324ed66f573f4adfe" name="afc81520a2dad7e6324ed66f573f4adfe"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afc81520a2dad7e6324ed66f573f4adfe">&#9670;&#160;</a></span>GetShutDownTimeLeft()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual <a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> IWorld::GetShutDownTimeLeft </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="../../dc/d36/a11682.html#adce37741453050be9959f231113856df">World</a>.</p>
+
+</div>
+</div>
+<a id="a38068b1a5d89536f1e945f21d21d1956" name="a38068b1a5d89536f1e945f21d21d1956"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a38068b1a5d89536f1e945f21d21d1956">&#9670;&#160;</a></span>getStringConfig()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual std::string_view IWorld::getStringConfig </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../de/d87/a02939.html#a468ad15992691eb97dd20680046832e0">ServerConfigs</a>&#160;</td>
+          <td class="paramname"><em>index</em></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="../../dc/d36/a11682.html#a8eb539b72b8c0ddbacdb24d01cbf5f44">World</a>.</p>
+
+</div>
+</div>
+<a id="a3d8424194e6c62e0751d34823740b6e4" name="a3d8424194e6c62e0751d34823740b6e4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3d8424194e6c62e0751d34823740b6e4">&#9670;&#160;</a></span>IsClosed()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual bool IWorld::IsClosed </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="../../dc/d36/a11682.html#a89cf02bd1531bd59339fd8b46fa95ddd">World</a>.</p>
+
+</div>
+</div>
+<a id="a9070d3ad9edf10bbe17c9a4363def0ee" name="a9070d3ad9edf10bbe17c9a4363def0ee"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9070d3ad9edf10bbe17c9a4363def0ee">&#9670;&#160;</a></span>IsFFAPvPRealm()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual bool IWorld::IsFFAPvPRealm </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="../../dc/d36/a11682.html#a1aaf354de61c3bfe4de4d5133e6a3aeb">World</a>.</p>
+
+</div>
+</div>
+<a id="a9100136b10db0378f0c320c7625f3381" name="a9100136b10db0378f0c320c7625f3381"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9100136b10db0378f0c320c7625f3381">&#9670;&#160;</a></span>IsPvPRealm()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual bool IWorld::IsPvPRealm </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="../../dc/d36/a11682.html#a58f57acf4b9a133ea79a4bdfed6b93c4">World</a>.</p>
+
+</div>
+</div>
+<a id="abc6c092a01f3b7dc3c8dbfa7bf747242" name="abc6c092a01f3b7dc3c8dbfa7bf747242"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abc6c092a01f3b7dc3c8dbfa7bf747242">&#9670;&#160;</a></span>IsShuttingDown()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual bool IWorld::IsShuttingDown </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="../../dc/d36/a11682.html#a0ccb15cd950cba69ab123f92ac03b117">World</a>.</p>
+
+</div>
+</div>
+<a id="ab37b212dac126961918252bfb947efcd" name="ab37b212dac126961918252bfb947efcd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab37b212dac126961918252bfb947efcd">&#9670;&#160;</a></span>LoadConfigSettings()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual void IWorld::LoadConfigSettings </td>
+          <td>(</td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>reload</em> = <code>false</code></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="../../dc/d36/a11682.html#a3ac6d12f20e9d3e914b21fc5cc27938d">World</a>.</p>
+
+</div>
+</div>
+<a id="aec60f106aabf4b237607d058939e4e02" name="aec60f106aabf4b237607d058939e4e02"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aec60f106aabf4b237607d058939e4e02">&#9670;&#160;</a></span>LoadDBAllowedSecurityLevel()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual void IWorld::LoadDBAllowedSecurityLevel </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="../../dc/d36/a11682.html#a74a69622ac41136efc3b6a6b967bbb65">World</a>.</p>
+
+</div>
+</div>
+<a id="a79dd26c3602b7efc27b8aeea9824fa46" name="a79dd26c3602b7efc27b8aeea9824fa46"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a79dd26c3602b7efc27b8aeea9824fa46">&#9670;&#160;</a></span>LoadDBVersion()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual void IWorld::LoadDBVersion </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="../../dc/d36/a11682.html#a1d20ca4bca7abc40e865e6013e55ac9d">World</a>.</p>
+
+</div>
+</div>
+<a id="ace81c5c964fe9ed968a95ac40580c55b" name="ace81c5c964fe9ed968a95ac40580c55b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ace81c5c964fe9ed968a95ac40580c55b">&#9670;&#160;</a></span>ProcessCliCommands()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual void IWorld::ProcessCliCommands </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="../../dc/d36/a11682.html#a22ba72387cf729585d0a3dff5b68a0b5">World</a>.</p>
+
+</div>
+</div>
+<a id="a325294771c12b3a097363856a9bdd260" name="a325294771c12b3a097363856a9bdd260"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a325294771c12b3a097363856a9bdd260">&#9670;&#160;</a></span>QueueCliCommand()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual void IWorld::QueueCliCommand </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d4/db2/a11666.html">CliCommandHolder</a> *&#160;</td>
+          <td class="paramname"><em>commandHolder</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="../../dc/d36/a11682.html#a681852aa66dfa02932f81f7ddeec6445">World</a>.</p>
+
+</div>
+</div>
+<a id="a0d272fbf5de8cfbbedd45726c190baf6" name="a0d272fbf5de8cfbbedd45726c190baf6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0d272fbf5de8cfbbedd45726c190baf6">&#9670;&#160;</a></span>RemoveOldCorpses()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual void IWorld::RemoveOldCorpses </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="../../dc/d36/a11682.html#ab6ca02fd65db08e2d2081ee7ec33685a">World</a>.</p>
+
+</div>
+</div>
+<a id="a594b9f40fcd60630573189de9cfdb232" name="a594b9f40fcd60630573189de9cfdb232"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a594b9f40fcd60630573189de9cfdb232">&#9670;&#160;</a></span>ResetEventSeasonalQuests()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual void IWorld::ResetEventSeasonalQuests </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/d61/a00302.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td>
+          <td class="paramname"><em>event_id</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="../../dc/d36/a11682.html#a3837326c86546787ed5f98415e0fdcae">World</a>.</p>
+
+</div>
+</div>
+<a id="af3c670ab13a39d235ffe81a06c07d0c4" name="af3c670ab13a39d235ffe81a06c07d0c4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af3c670ab13a39d235ffe81a06c07d0c4">&#9670;&#160;</a></span>SetAllowMovement()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual void IWorld::SetAllowMovement </td>
+          <td>(</td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>allow</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="../../dc/d36/a11682.html#a19560e2e6fb9d54a1297bdebd5466d17">World</a>.</p>
+
+</div>
+</div>
+<a id="ac8d30bd35a45f8c18d985bc608e23dc4" name="ac8d30bd35a45f8c18d985bc608e23dc4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac8d30bd35a45f8c18d985bc608e23dc4">&#9670;&#160;</a></span>setBoolConfig()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual void IWorld::setBoolConfig </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../de/d87/a02939.html#a468ad15992691eb97dd20680046832e0">ServerConfigs</a>&#160;</td>
+          <td class="paramname"><em>index</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../d4/d1e/a00497.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a>&lt; <a class="el" href="../../d8/db1/a07686.html">PlayerIdentifier</a> &gt;&#160;</td>
-          <td class="paramname"><em>player</em>&#160;</td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>value</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -284,74 +1155,17 @@ Additional Inherited Members</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  203</span>    {</div>
-<div class="line"><span class="lineno">  204</span>        <span class="comment">// Character name must be provided when using this from console.</span></div>
-<div class="line"><span class="lineno">  205</span>        <span class="keywordflow">if</span> (!player &amp;&amp; !handler-&gt;<a class="code hl_function" href="../../d1/dd7/a07498.html#a635eca3065c9464e0cdcedd9f0740daa">GetSession</a>())</div>
-<div class="line"><span class="lineno">  206</span>        {</div>
-<div class="line"><span class="lineno">  207</span>            handler-&gt;<a class="code hl_function" href="../../d1/dd7/a07498.html#a92dbe6ed87759b9ed247973178d99a80">SendErrorMessage</a>(<a class="code hl_enumvalue" href="../../d7/dbe/a02333.html#af9ee42b1cf006ecb2d2e74fe71c0761aa85850e0cd7d393675d31dc2a3ce7c2b8">LANG_CMD_SYNTAX</a>);</div>
-<div class="line"><span class="lineno">  208</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  209</span>        }</div>
-<div class="line"><span class="lineno">  210</span> </div>
-<div class="line"><span class="lineno">  211</span>        <span class="keywordflow">if</span> (!player)</div>
-<div class="line"><span class="lineno">  212</span>            player = <a class="code hl_function" href="../../d8/db1/a07686.html#af45d29f7ebca2a8af420fdec344264fc">PlayerIdentifier::FromSelf</a>(handler);</div>
-<div class="line"><span class="lineno">  213</span> </div>
-<div class="line"><span class="lineno">  214</span>        <span class="keywordflow">if</span> (!player-&gt;IsConnected())</div>
-<div class="line"><span class="lineno">  215</span>        {</div>
-<div class="line"><span class="lineno">  216</span>            handler-&gt;<a class="code hl_function" href="../../d1/dd7/a07498.html#a92dbe6ed87759b9ed247973178d99a80">SendErrorMessage</a>(<a class="code hl_enumvalue" href="../../d7/dbe/a02333.html#af9ee42b1cf006ecb2d2e74fe71c0761aaab2e8907c804b742a54d115d079d86a6">LANG_PLAYER_NOT_FOUND</a>);</div>
-<div class="line"><span class="lineno">  217</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  218</span>        }</div>
-<div class="line"><span class="lineno">  219</span> </div>
-<div class="line"><span class="lineno">  220</span>        <a class="code hl_class" href="../../d6/d8e/a09814.html">InstanceMap</a>* map = player-&gt;GetConnectedPlayer()-&gt;GetMap()-&gt;<a class="code hl_function" href="../../df/dee/a09810.html#aca5af60e4ebade05b3673dd341eafd4f">ToInstanceMap</a>();</div>
-<div class="line"><span class="lineno">  221</span>        <span class="keywordflow">if</span> (!map)</div>
-<div class="line"><span class="lineno">  222</span>        {</div>
-<div class="line"><span class="lineno">  223</span>            handler-&gt;<a class="code hl_function" href="../../d1/dd7/a07498.html#a92dbe6ed87759b9ed247973178d99a80">SendErrorMessage</a>(<a class="code hl_enumvalue" href="../../d7/dbe/a02333.html#af9ee42b1cf006ecb2d2e74fe71c0761aa6edc75cc446816159c8e568fdee6367c">LANG_NOT_DUNGEON</a>);</div>
-<div class="line"><span class="lineno">  224</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  225</span>        }</div>
-<div class="line"><span class="lineno">  226</span> </div>
-<div class="line"><span class="lineno">  227</span>        <span class="keywordflow">if</span> (!map-&gt;<a class="code hl_function" href="../../d6/d8e/a09814.html#adb854ceb3abc3e768ad6b8ce66703314">GetInstanceScript</a>())</div>
-<div class="line"><span class="lineno">  228</span>        {</div>
-<div class="line"><span class="lineno">  229</span>            handler-&gt;<a class="code hl_function" href="../../d1/dd7/a07498.html#a92dbe6ed87759b9ed247973178d99a80">SendErrorMessage</a>(<a class="code hl_enumvalue" href="../../d7/dbe/a02333.html#af9ee42b1cf006ecb2d2e74fe71c0761aa7a1c19ff6533ee84b38c73c47777a648">LANG_NO_INSTANCE_DATA</a>);</div>
-<div class="line"><span class="lineno">  230</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  231</span>        }</div>
-<div class="line"><span class="lineno">  232</span> </div>
-<div class="line"><span class="lineno">  233</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d2/de7/a00014.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0; i &lt; map-&gt;<a class="code hl_function" href="../../d6/d8e/a09814.html#adb854ceb3abc3e768ad6b8ce66703314">GetInstanceScript</a>()-&gt;GetEncounterCount(); ++i)</div>
-<div class="line"><span class="lineno">  234</span>        {</div>
-<div class="line"><span class="lineno">  235</span>            <a class="code hl_typedef" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> state = map-&gt;<a class="code hl_function" href="../../d6/d8e/a09814.html#adb854ceb3abc3e768ad6b8ce66703314">GetInstanceScript</a>()-&gt;<a class="code hl_function" href="../../d1/d25/a09658.html#a776dbfd3b5c48f29ea0ccf8f3cf659e2">GetBossState</a>(i);</div>
-<div class="line"><span class="lineno">  236</span>            std::string stateName = <a class="code hl_function" href="../../d1/d25/a09658.html#aaf54a225e2e3d36223fb0c34d65c1e44">InstanceScript::GetBossStateName</a>(state);</div>
-<div class="line"><span class="lineno">  237</span>            handler-&gt;<a class="code hl_function" href="../../d1/dd7/a07498.html#a54305506d6194dfdd1c1a3f30c8d1d62">PSendSysMessage</a>(<a class="code hl_enumvalue" href="../../d7/dbe/a02333.html#af9ee42b1cf006ecb2d2e74fe71c0761aa442d896fa1f388b390775be67cf9f518">LANG_COMMAND_INST_GET_BOSS_STATE</a>, i, state, stateName);</div>
-<div class="line"><span class="lineno">  238</span>        }</div>
-<div class="line"><span class="lineno">  239</span> </div>
-<div class="line"><span class="lineno">  240</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  241</span>    }</div>
-<div class="ttc" id="aa00014_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../d2/de7/a00014.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition:</b> Define.h:109</div></div>
-<div class="ttc" id="aa00014_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
-<div class="ttc" id="aa02333_html_af9ee42b1cf006ecb2d2e74fe71c0761aa442d896fa1f388b390775be67cf9f518"><div class="ttname"><a href="../../d7/dbe/a02333.html#af9ee42b1cf006ecb2d2e74fe71c0761aa442d896fa1f388b390775be67cf9f518">LANG_COMMAND_INST_GET_BOSS_STATE</a></div><div class="ttdeci">@ LANG_COMMAND_INST_GET_BOSS_STATE</div><div class="ttdef"><b>Definition:</b> Language.h:1115</div></div>
-<div class="ttc" id="aa02333_html_af9ee42b1cf006ecb2d2e74fe71c0761aa6edc75cc446816159c8e568fdee6367c"><div class="ttname"><a href="../../d7/dbe/a02333.html#af9ee42b1cf006ecb2d2e74fe71c0761aa6edc75cc446816159c8e568fdee6367c">LANG_NOT_DUNGEON</a></div><div class="ttdeci">@ LANG_NOT_DUNGEON</div><div class="ttdef"><b>Definition:</b> Language.h:1112</div></div>
-<div class="ttc" id="aa02333_html_af9ee42b1cf006ecb2d2e74fe71c0761aa7a1c19ff6533ee84b38c73c47777a648"><div class="ttname"><a href="../../d7/dbe/a02333.html#af9ee42b1cf006ecb2d2e74fe71c0761aa7a1c19ff6533ee84b38c73c47777a648">LANG_NO_INSTANCE_DATA</a></div><div class="ttdeci">@ LANG_NO_INSTANCE_DATA</div><div class="ttdef"><b>Definition:</b> Language.h:1113</div></div>
-<div class="ttc" id="aa02333_html_af9ee42b1cf006ecb2d2e74fe71c0761aa85850e0cd7d393675d31dc2a3ce7c2b8"><div class="ttname"><a href="../../d7/dbe/a02333.html#af9ee42b1cf006ecb2d2e74fe71c0761aa85850e0cd7d393675d31dc2a3ce7c2b8">LANG_CMD_SYNTAX</a></div><div class="ttdeci">@ LANG_CMD_SYNTAX</div><div class="ttdef"><b>Definition:</b> Language.h:42</div></div>
-<div class="ttc" id="aa02333_html_af9ee42b1cf006ecb2d2e74fe71c0761aaab2e8907c804b742a54d115d079d86a6"><div class="ttname"><a href="../../d7/dbe/a02333.html#af9ee42b1cf006ecb2d2e74fe71c0761aaab2e8907c804b742a54d115d079d86a6">LANG_PLAYER_NOT_FOUND</a></div><div class="ttdeci">@ LANG_PLAYER_NOT_FOUND</div><div class="ttdef"><b>Definition:</b> Language.h:545</div></div>
-<div class="ttc" id="aa07498_html_a54305506d6194dfdd1c1a3f30c8d1d62"><div class="ttname"><a href="../../d1/dd7/a07498.html#a54305506d6194dfdd1c1a3f30c8d1d62">ChatHandler::PSendSysMessage</a></div><div class="ttdeci">void PSendSysMessage(std::string_view str, bool escapeCharacters=false)</div><div class="ttdef"><b>Definition:</b> Chat.cpp:211</div></div>
-<div class="ttc" id="aa07498_html_a635eca3065c9464e0cdcedd9f0740daa"><div class="ttname"><a href="../../d1/dd7/a07498.html#a635eca3065c9464e0cdcedd9f0740daa">ChatHandler::GetSession</a></div><div class="ttdeci">WorldSession * GetSession()</div><div class="ttdef"><b>Definition:</b> Chat.h:242</div></div>
-<div class="ttc" id="aa07498_html_a92dbe6ed87759b9ed247973178d99a80"><div class="ttname"><a href="../../d1/dd7/a07498.html#a92dbe6ed87759b9ed247973178d99a80">ChatHandler::SendErrorMessage</a></div><div class="ttdeci">void SendErrorMessage(uint32 entry)</div><div class="ttdef"><b>Definition:</b> Chat.cpp:216</div></div>
-<div class="ttc" id="aa07686_html_af45d29f7ebca2a8af420fdec344264fc"><div class="ttname"><a href="../../d8/db1/a07686.html#af45d29f7ebca2a8af420fdec344264fc">Acore::ChatCommands::PlayerIdentifier::FromSelf</a></div><div class="ttdeci">static Optional&lt; PlayerIdentifier &gt; FromSelf(ChatHandler *handler)</div><div class="ttdef"><b>Definition:</b> ChatCommandTags.cpp:147</div></div>
-<div class="ttc" id="aa09658_html_a776dbfd3b5c48f29ea0ccf8f3cf659e2"><div class="ttname"><a href="../../d1/d25/a09658.html#a776dbfd3b5c48f29ea0ccf8f3cf659e2">InstanceScript::GetBossState</a></div><div class="ttdeci">EncounterState GetBossState(uint32 id) const</div><div class="ttdef"><b>Definition:</b> InstanceScript.h:242</div></div>
-<div class="ttc" id="aa09658_html_aaf54a225e2e3d36223fb0c34d65c1e44"><div class="ttname"><a href="../../d1/d25/a09658.html#aaf54a225e2e3d36223fb0c34d65c1e44">InstanceScript::GetBossStateName</a></div><div class="ttdeci">static std::string GetBossStateName(uint8 state)</div><div class="ttdef"><b>Definition:</b> InstanceScript.cpp:826</div></div>
-<div class="ttc" id="aa09810_html_aca5af60e4ebade05b3673dd341eafd4f"><div class="ttname"><a href="../../df/dee/a09810.html#aca5af60e4ebade05b3673dd341eafd4f">Map::ToInstanceMap</a></div><div class="ttdeci">InstanceMap * ToInstanceMap()</div><div class="ttdef"><b>Definition:</b> Map.h:383</div></div>
-<div class="ttc" id="aa09814_html"><div class="ttname"><a href="../../d6/d8e/a09814.html">InstanceMap</a></div><div class="ttdef"><b>Definition:</b> Map.h:655</div></div>
-<div class="ttc" id="aa09814_html_adb854ceb3abc3e768ad6b8ce66703314"><div class="ttname"><a href="../../d6/d8e/a09814.html#adb854ceb3abc3e768ad6b8ce66703314">InstanceMap::GetInstanceScript</a></div><div class="ttdeci">InstanceScript * GetInstanceScript()</div><div class="ttdef"><b>Definition:</b> Map.h:667</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00147">Acore::ChatCommands::PlayerIdentifier::FromSelf()</a>, <a class="el" href="../../#l00242">InstanceScript::GetBossState()</a>, <a class="el" href="../../#l00826">InstanceScript::GetBossStateName()</a>, <a class="el" href="../../#l00667">InstanceMap::GetInstanceScript()</a>, <a class="el" href="../../#l00242">ChatHandler::GetSession()</a>, <a class="el" href="../../#l00042">LANG_CMD_SYNTAX</a>, <a class="el" href="../../#l01115">LANG_COMMAND_INST_GET_BOSS_STATE</a>, <a class="el" href="../../#l01113">LANG_NO_INSTANCE_DATA</a>, <a class="el" href="../../#l01112">LANG_NOT_DUNGEON</a>, <a class="el" href="../../#l00545">LANG_PLAYER_NOT_FOUND</a>, <a class="el" href="../../#l00211">ChatHandler::PSendSysMessage()</a>, <a class="el" href="../../#l00216">ChatHandler::SendErrorMessage()</a>, and <a class="el" href="../../#l00383">Map::ToInstanceMap()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00034">GetCommands()</a>.</p>
+<p>Implemented in <a class="el" href="../../dc/d36/a11682.html#afef544af0f989b2d3ea975f22d02fb46">World</a>.</p>
 
 </div>
 </div>
-<a id="abf42411f9c78ce59b21b34691e3d4233" name="abf42411f9c78ce59b21b34691e3d4233"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#abf42411f9c78ce59b21b34691e3d4233">&#9670;&#160;</a></span>HandleInstanceListBindsCommand()</h2>
+<a id="ac01563d75973481b056130b07a6d44ac" name="ac01563d75973481b056130b07a6d44ac"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac01563d75973481b056130b07a6d44ac">&#9670;&#160;</a></span>SetCleaningFlags()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -360,68 +1174,26 @@ Additional Inherited Members</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">static bool instance_commandscript::HandleInstanceListBindsCommand </td>
+          <td class="memname">virtual void IWorld::SetCleaningFlags </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d1/dd7/a07498.html">ChatHandler</a> *&#160;</td>
-          <td class="paramname"><em>handler</em></td><td>)</td>
+          <td class="paramtype"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>flags</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   55</span>    {</div>
-<div class="line"><span class="lineno">   56</span>        <a class="code hl_class" href="../../dc/dd9/a08606.html">Player</a>* player = handler-&gt;<a class="code hl_function" href="../../d1/dd7/a07498.html#ad948d4d7a2fe777df9d02f40201bcf4a">getSelectedPlayer</a>();</div>
-<div class="line"><span class="lineno">   57</span>        <span class="keywordflow">if</span> (!player)</div>
-<div class="line"><span class="lineno">   58</span>            player = handler-&gt;<a class="code hl_function" href="../../d1/dd7/a07498.html#a635eca3065c9464e0cdcedd9f0740daa">GetSession</a>()-&gt;<a class="code hl_function" href="../../df/d55/a11014.html#a62c786bcb829a021c267e7eb56809952">GetPlayer</a>();</div>
-<div class="line"><span class="lineno">   59</span> </div>
-<div class="line"><span class="lineno">   60</span>        <a class="code hl_typedef" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> counter = 0;</div>
-<div class="line"><span class="lineno">   61</span> </div>
-<div class="line"><span class="lineno">   62</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d2/de7/a00014.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0; i &lt; <a class="code hl_define" href="../../d1/de1/a02435.html#a4b8f96edf5459f120db77f80275dfe5c">MAX_DIFFICULTY</a>; ++i)</div>
-<div class="line"><span class="lineno">   63</span>        {</div>
-<div class="line"><span class="lineno">   64</span>            <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; [mapId, bind] : <a class="code hl_define" href="../../d7/def/a01538.html#ae1d3c96dbd749e40f06799fa52eeb9a2">sInstanceSaveMgr</a>-&gt;PlayerGetBoundInstances(player-&gt;<a class="code hl_function" href="../../dd/d4f/a08358.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>(), <a class="code hl_enumeration" href="../../d1/de1/a02435.html#a39d5903d54e674f4f2e824581ade546b">Difficulty</a>(i)))</div>
-<div class="line"><span class="lineno">   65</span>            {</div>
-<div class="line"><span class="lineno">   66</span>                <a class="code hl_class" href="../../d6/da7/a09614.html">InstanceSave</a> <span class="keyword">const</span>* save = bind.save;</div>
-<div class="line"><span class="lineno">   67</span>                <a class="code hl_typedef" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> resetTime = bind.extended ? save-&gt;<a class="code hl_function" href="../../d6/da7/a09614.html#a2da6c5ed63b57f6449de44461c05582b">GetExtendedResetTime</a>() : save-&gt;<a class="code hl_function" href="../../d6/da7/a09614.html#af5f5969ae2d4730af0c9ad7ea7f5a8ac">GetResetTime</a>();</div>
-<div class="line"><span class="lineno">   68</span>                <a class="code hl_typedef" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ttr = (resetTime &gt;= <a class="code hl_function" href="../../dd/dca/a04847.html#adbe1785d1327dedf2ac403b7cc8e99c2">GameTime::GetGameTime</a>().count() ? resetTime - <a class="code hl_function" href="../../dd/dca/a04847.html#adbe1785d1327dedf2ac403b7cc8e99c2">GameTime::GetGameTime</a>().count() : 0);</div>
-<div class="line"><span class="lineno">   69</span>                std::string timeleft = <a class="code hl_function" href="../../d9/d4a/a00479.html#a0b4910c611cea4a1b2812dac5456c5a8">secsToTimeString</a>(ttr);</div>
-<div class="line"><span class="lineno">   70</span>                handler-&gt;<a class="code hl_function" href="../../d1/dd7/a07498.html#a54305506d6194dfdd1c1a3f30c8d1d62">PSendSysMessage</a>(<span class="stringliteral">&quot;map: {}, inst: {}, perm: {}, diff: {}, canReset: {}, TTR: {}{}&quot;</span>,</div>
-<div class="line"><span class="lineno">   71</span>                    mapId, save-&gt;<a class="code hl_function" href="../../d6/da7/a09614.html#a7def734d9c4698457fa4f631e30fa9db">GetInstanceId</a>(), bind.perm ? <span class="stringliteral">&quot;yes&quot;</span> : <span class="stringliteral">&quot;no&quot;</span>, save-&gt;<a class="code hl_function" href="../../d6/da7/a09614.html#a94577295c43dc90262381beff84f5f91">GetDifficulty</a>(), save-&gt;<a class="code hl_function" href="../../d6/da7/a09614.html#aba8d512041c8485f49eef8c1fafce729">CanReset</a>() ? <span class="stringliteral">&quot;yes&quot;</span> : <span class="stringliteral">&quot;no&quot;</span>, timeleft, (bind.extended ? <span class="stringliteral">&quot; (extended)&quot;</span> : <span class="stringliteral">&quot;&quot;</span>));</div>
-<div class="line"><span class="lineno">   72</span>                counter++;</div>
-<div class="line"><span class="lineno">   73</span>            }</div>
-<div class="line"><span class="lineno">   74</span>        }</div>
-<div class="line"><span class="lineno">   75</span> </div>
-<div class="line"><span class="lineno">   76</span>        handler-&gt;<a class="code hl_function" href="../../d1/dd7/a07498.html#a54305506d6194dfdd1c1a3f30c8d1d62">PSendSysMessage</a>(<span class="stringliteral">&quot;player binds: {}&quot;</span>, counter);</div>
-<div class="line"><span class="lineno">   77</span> </div>
-<div class="line"><span class="lineno">   78</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">   79</span>    }</div>
-<div class="ttc" id="aa00479_html_a0b4910c611cea4a1b2812dac5456c5a8"><div class="ttname"><a href="../../d9/d4a/a00479.html#a0b4910c611cea4a1b2812dac5456c5a8">secsToTimeString</a></div><div class="ttdeci">std::string secsToTimeString(uint64 timeInSecs, bool shortText)</div><div class="ttdef"><b>Definition:</b> Util.cpp:73</div></div>
-<div class="ttc" id="aa01538_html_ae1d3c96dbd749e40f06799fa52eeb9a2"><div class="ttname"><a href="../../d7/def/a01538.html#ae1d3c96dbd749e40f06799fa52eeb9a2">sInstanceSaveMgr</a></div><div class="ttdeci">#define sInstanceSaveMgr</div><div class="ttdef"><b>Definition:</b> InstanceSaveMgr.h:202</div></div>
-<div class="ttc" id="aa02435_html_a39d5903d54e674f4f2e824581ade546b"><div class="ttname"><a href="../../d1/de1/a02435.html#a39d5903d54e674f4f2e824581ade546b">Difficulty</a></div><div class="ttdeci">Difficulty</div><div class="ttdef"><b>Definition:</b> DBCEnums.h:266</div></div>
-<div class="ttc" id="aa02435_html_a4b8f96edf5459f120db77f80275dfe5c"><div class="ttname"><a href="../../d1/de1/a02435.html#a4b8f96edf5459f120db77f80275dfe5c">MAX_DIFFICULTY</a></div><div class="ttdeci">#define MAX_DIFFICULTY</div><div class="ttdef"><b>Definition:</b> DBCEnums.h:283</div></div>
-<div class="ttc" id="aa04847_html_adbe1785d1327dedf2ac403b7cc8e99c2"><div class="ttname"><a href="../../dd/dca/a04847.html#adbe1785d1327dedf2ac403b7cc8e99c2">GameTime::GetGameTime</a></div><div class="ttdeci">Seconds GetGameTime()</div><div class="ttdef"><b>Definition:</b> GameTime.cpp:38</div></div>
-<div class="ttc" id="aa07498_html_ad948d4d7a2fe777df9d02f40201bcf4a"><div class="ttname"><a href="../../d1/dd7/a07498.html#ad948d4d7a2fe777df9d02f40201bcf4a">ChatHandler::getSelectedPlayer</a></div><div class="ttdeci">Player * getSelectedPlayer() const</div><div class="ttdef"><b>Definition:</b> Chat.cpp:374</div></div>
-<div class="ttc" id="aa08358_html_ad23b997e2442fa6a6228ba73a7ecc138"><div class="ttname"><a href="../../dd/d4f/a08358.html#ad23b997e2442fa6a6228ba73a7ecc138">Object::GetGUID</a></div><div class="ttdeci">static ObjectGuid GetGUID(Object const *o)</div><div class="ttdef"><b>Definition:</b> Object.h:113</div></div>
-<div class="ttc" id="aa08606_html"><div class="ttname"><a href="../../dc/dd9/a08606.html">Player</a></div><div class="ttdef"><b>Definition:</b> Player.h:1083</div></div>
-<div class="ttc" id="aa09614_html"><div class="ttname"><a href="../../d6/da7/a09614.html">InstanceSave</a></div><div class="ttdef"><b>Definition:</b> InstanceSaveMgr.h:56</div></div>
-<div class="ttc" id="aa09614_html_a2da6c5ed63b57f6449de44461c05582b"><div class="ttname"><a href="../../d6/da7/a09614.html#a2da6c5ed63b57f6449de44461c05582b">InstanceSave::GetExtendedResetTime</a></div><div class="ttdeci">time_t GetExtendedResetTime() const</div><div class="ttdef"><b>Definition:</b> InstanceSaveMgr.h:76</div></div>
-<div class="ttc" id="aa09614_html_a7def734d9c4698457fa4f631e30fa9db"><div class="ttname"><a href="../../d6/da7/a09614.html#a7def734d9c4698457fa4f631e30fa9db">InstanceSave::GetInstanceId</a></div><div class="ttdeci">uint32 GetInstanceId() const</div><div class="ttdef"><b>Definition:</b> InstanceSaveMgr.h:61</div></div>
-<div class="ttc" id="aa09614_html_a94577295c43dc90262381beff84f5f91"><div class="ttname"><a href="../../d6/da7/a09614.html#a94577295c43dc90262381beff84f5f91">InstanceSave::GetDifficulty</a></div><div class="ttdeci">Difficulty GetDifficulty() const</div><div class="ttdef"><b>Definition:</b> InstanceSaveMgr.h:63</div></div>
-<div class="ttc" id="aa09614_html_aba8d512041c8485f49eef8c1fafce729"><div class="ttname"><a href="../../d6/da7/a09614.html#aba8d512041c8485f49eef8c1fafce729">InstanceSave::CanReset</a></div><div class="ttdeci">bool CanReset() const</div><div class="ttdef"><b>Definition:</b> InstanceSaveMgr.h:81</div></div>
-<div class="ttc" id="aa09614_html_af5f5969ae2d4730af0c9ad7ea7f5a8ac"><div class="ttname"><a href="../../d6/da7/a09614.html#af5f5969ae2d4730af0c9ad7ea7f5a8ac">InstanceSave::GetResetTime</a></div><div class="ttdeci">time_t GetResetTime() const</div><div class="ttdef"><b>Definition:</b> InstanceSaveMgr.h:75</div></div>
-<div class="ttc" id="aa11014_html_a62c786bcb829a021c267e7eb56809952"><div class="ttname"><a href="../../df/d55/a11014.html#a62c786bcb829a021c267e7eb56809952">WorldSession::GetPlayer</a></div><div class="ttdeci">Player * GetPlayer() const</div><div class="ttdef"><b>Definition:</b> WorldSession.h:381</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00081">InstanceSave::CanReset()</a>, <a class="el" href="../../#l00063">InstanceSave::GetDifficulty()</a>, <a class="el" href="../../#l00076">InstanceSave::GetExtendedResetTime()</a>, <a class="el" href="../../#l00038">GameTime::GetGameTime()</a>, <a class="el" href="../../#l00113">Object::GetGUID()</a>, <a class="el" href="../../#l00061">InstanceSave::GetInstanceId()</a>, <a class="el" href="../../#l00381">WorldSession::GetPlayer()</a>, <a class="el" href="../../#l00075">InstanceSave::GetResetTime()</a>, <a class="el" href="../../#l00374">ChatHandler::getSelectedPlayer()</a>, <a class="el" href="../../#l00242">ChatHandler::GetSession()</a>, <a class="el" href="../../#l00283">MAX_DIFFICULTY</a>, <a class="el" href="../../#l00211">ChatHandler::PSendSysMessage()</a>, <a class="el" href="../../#l00073">secsToTimeString()</a>, and <a class="el" href="../../#l00202">sInstanceSaveMgr</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00034">GetCommands()</a>.</p>
+<p>Implemented in <a class="el" href="../../dc/d36/a11682.html#a31964f041ebc34a0a9db42f9baf37da1">World</a>.</p>
 
 </div>
 </div>
-<a id="a4b494a8b1de470612436fbb9fa433416" name="a4b494a8b1de470612436fbb9fa433416"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4b494a8b1de470612436fbb9fa433416">&#9670;&#160;</a></span>HandleInstanceSaveDataCommand()</h2>
+<a id="a0ac63e3f37963ccdc41f794a84367175" name="a0ac63e3f37963ccdc41f794a84367175"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0ac63e3f37963ccdc41f794a84367175">&#9670;&#160;</a></span>SetClosed()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -430,51 +1202,26 @@ Additional Inherited Members</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">static bool instance_commandscript::HandleInstanceSaveDataCommand </td>
+          <td class="memname">virtual void IWorld::SetClosed </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d1/dd7/a07498.html">ChatHandler</a> *&#160;</td>
-          <td class="paramname"><em>handler</em></td><td>)</td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>val</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  138</span>    {</div>
-<div class="line"><span class="lineno">  139</span>        <a class="code hl_class" href="../../dc/dd9/a08606.html">Player</a>* player = handler-&gt;<a class="code hl_function" href="../../d1/dd7/a07498.html#a635eca3065c9464e0cdcedd9f0740daa">GetSession</a>()-&gt;<a class="code hl_function" href="../../df/d55/a11014.html#a62c786bcb829a021c267e7eb56809952">GetPlayer</a>();</div>
-<div class="line"><span class="lineno">  140</span>        <a class="code hl_class" href="../../df/dee/a09810.html">Map</a>* map = player-&gt;<a class="code hl_function" href="../../da/da3/a08394.html#a1013c27be4347a1b1a4a986a07456deb">GetMap</a>();</div>
-<div class="line"><span class="lineno">  141</span>        <span class="keywordflow">if</span> (!map-&gt;<a class="code hl_function" href="../../df/dee/a09810.html#a0c80d50b012dc8d560e256201970f3b3">IsDungeon</a>())</div>
-<div class="line"><span class="lineno">  142</span>        {</div>
-<div class="line"><span class="lineno">  143</span>            handler-&gt;<a class="code hl_function" href="../../d1/dd7/a07498.html#a92dbe6ed87759b9ed247973178d99a80">SendErrorMessage</a>(<span class="stringliteral">&quot;Map is not a dungeon.&quot;</span>);</div>
-<div class="line"><span class="lineno">  144</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  145</span>        }</div>
-<div class="line"><span class="lineno">  146</span> </div>
-<div class="line"><span class="lineno">  147</span>        <span class="keywordflow">if</span> (!map-&gt;<a class="code hl_function" href="../../df/dee/a09810.html#aca5af60e4ebade05b3673dd341eafd4f">ToInstanceMap</a>()-&gt;<a class="code hl_function" href="../../d6/d8e/a09814.html#adb854ceb3abc3e768ad6b8ce66703314">GetInstanceScript</a>())</div>
-<div class="line"><span class="lineno">  148</span>        {</div>
-<div class="line"><span class="lineno">  149</span>            handler-&gt;<a class="code hl_function" href="../../d1/dd7/a07498.html#a92dbe6ed87759b9ed247973178d99a80">SendErrorMessage</a>(<span class="stringliteral">&quot;Map has no instance data.&quot;</span>);</div>
-<div class="line"><span class="lineno">  150</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  151</span>        }</div>
-<div class="line"><span class="lineno">  152</span> </div>
-<div class="line"><span class="lineno">  153</span>        map-&gt;<a class="code hl_function" href="../../df/dee/a09810.html#aca5af60e4ebade05b3673dd341eafd4f">ToInstanceMap</a>()-&gt;<a class="code hl_function" href="../../d6/d8e/a09814.html#adb854ceb3abc3e768ad6b8ce66703314">GetInstanceScript</a>()-&gt;<a class="code hl_function" href="../../d1/d25/a09658.html#a99f69b7706e28b78008952ceefe09b69">SaveToDB</a>();</div>
-<div class="line"><span class="lineno">  154</span> </div>
-<div class="line"><span class="lineno">  155</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  156</span>    }</div>
-<div class="ttc" id="aa08394_html_a1013c27be4347a1b1a4a986a07456deb"><div class="ttname"><a href="../../da/da3/a08394.html#a1013c27be4347a1b1a4a986a07456deb">WorldObject::GetMap</a></div><div class="ttdeci">Map * GetMap() const</div><div class="ttdef"><b>Definition:</b> Object.h:587</div></div>
-<div class="ttc" id="aa09658_html_a99f69b7706e28b78008952ceefe09b69"><div class="ttname"><a href="../../d1/d25/a09658.html#a99f69b7706e28b78008952ceefe09b69">InstanceScript::SaveToDB</a></div><div class="ttdeci">void SaveToDB()</div><div class="ttdef"><b>Definition:</b> InstanceScript.cpp:41</div></div>
-<div class="ttc" id="aa09810_html"><div class="ttname"><a href="../../df/dee/a09810.html">Map</a></div><div class="ttdef"><b>Definition:</b> Map.h:158</div></div>
-<div class="ttc" id="aa09810_html_a0c80d50b012dc8d560e256201970f3b3"><div class="ttname"><a href="../../df/dee/a09810.html#a0c80d50b012dc8d560e256201970f3b3">Map::IsDungeon</a></div><div class="ttdeci">bool IsDungeon() const</div><div class="ttdef"><b>Definition:</b> Map.h:290</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00667">InstanceMap::GetInstanceScript()</a>, <a class="el" href="../../#l00587">WorldObject::GetMap()</a>, <a class="el" href="../../#l00381">WorldSession::GetPlayer()</a>, <a class="el" href="../../#l00242">ChatHandler::GetSession()</a>, <a class="el" href="../../#l00290">Map::IsDungeon()</a>, <a class="el" href="../../#l00041">InstanceScript::SaveToDB()</a>, <a class="el" href="../../#l00216">ChatHandler::SendErrorMessage()</a>, and <a class="el" href="../../#l00383">Map::ToInstanceMap()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00034">GetCommands()</a>.</p>
+<p>Implemented in <a class="el" href="../../dc/d36/a11682.html#a4828e93d1c2f21187e357330af9f7d36">World</a>.</p>
 
 </div>
 </div>
-<a id="aec65b5af811eae2cbcf17571e9d1473b" name="aec65b5af811eae2cbcf17571e9d1473b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aec65b5af811eae2cbcf17571e9d1473b">&#9670;&#160;</a></span>HandleInstanceSetBossStateCommand()</h2>
+<a id="a8888848c0c2df854abb631ce33231d5d" name="a8888848c0c2df854abb631ce33231d5d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8888848c0c2df854abb631ce33231d5d">&#9670;&#160;</a></span>setFloatConfig()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -483,28 +1230,16 @@ Additional Inherited Members</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">static bool instance_commandscript::HandleInstanceSetBossStateCommand </td>
+          <td class="memname">virtual void IWorld::setFloatConfig </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d1/dd7/a07498.html">ChatHandler</a> *&#160;</td>
-          <td class="paramname"><em>handler</em>, </td>
+          <td class="paramtype"><a class="el" href="../../de/d87/a02939.html#a468ad15992691eb97dd20680046832e0">ServerConfigs</a>&#160;</td>
+          <td class="paramname"><em>index</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>encounterId</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>state</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d4/d1e/a00497.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a>&lt; <a class="el" href="../../d8/db1/a07686.html">PlayerIdentifier</a> &gt;&#160;</td>
-          <td class="paramname"><em>player</em>&#160;</td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>value</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -514,66 +1249,17 @@ Additional Inherited Members</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  159</span>    {</div>
-<div class="line"><span class="lineno">  160</span>        <span class="comment">// Character name must be provided when using this from console.</span></div>
-<div class="line"><span class="lineno">  161</span>        <span class="keywordflow">if</span> (!player &amp;&amp; !handler-&gt;<a class="code hl_function" href="../../d1/dd7/a07498.html#a635eca3065c9464e0cdcedd9f0740daa">GetSession</a>())</div>
-<div class="line"><span class="lineno">  162</span>        {</div>
-<div class="line"><span class="lineno">  163</span>            handler-&gt;<a class="code hl_function" href="../../d1/dd7/a07498.html#a92dbe6ed87759b9ed247973178d99a80">SendErrorMessage</a>(<a class="code hl_enumvalue" href="../../d7/dbe/a02333.html#af9ee42b1cf006ecb2d2e74fe71c0761aa85850e0cd7d393675d31dc2a3ce7c2b8">LANG_CMD_SYNTAX</a>);</div>
-<div class="line"><span class="lineno">  164</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  165</span>        }</div>
-<div class="line"><span class="lineno">  166</span> </div>
-<div class="line"><span class="lineno">  167</span>        <span class="keywordflow">if</span> (!player)</div>
-<div class="line"><span class="lineno">  168</span>            player = <a class="code hl_function" href="../../d8/db1/a07686.html#af45d29f7ebca2a8af420fdec344264fc">PlayerIdentifier::FromSelf</a>(handler);</div>
-<div class="line"><span class="lineno">  169</span> </div>
-<div class="line"><span class="lineno">  170</span>        <span class="keywordflow">if</span> (!player-&gt;IsConnected())</div>
-<div class="line"><span class="lineno">  171</span>        {</div>
-<div class="line"><span class="lineno">  172</span>            handler-&gt;<a class="code hl_function" href="../../d1/dd7/a07498.html#a92dbe6ed87759b9ed247973178d99a80">SendErrorMessage</a>(<a class="code hl_enumvalue" href="../../d7/dbe/a02333.html#af9ee42b1cf006ecb2d2e74fe71c0761aaab2e8907c804b742a54d115d079d86a6">LANG_PLAYER_NOT_FOUND</a>);</div>
-<div class="line"><span class="lineno">  173</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  174</span>        }</div>
-<div class="line"><span class="lineno">  175</span> </div>
-<div class="line"><span class="lineno">  176</span>        <a class="code hl_class" href="../../d6/d8e/a09814.html">InstanceMap</a>* map = player-&gt;GetConnectedPlayer()-&gt;GetMap()-&gt;<a class="code hl_function" href="../../df/dee/a09810.html#aca5af60e4ebade05b3673dd341eafd4f">ToInstanceMap</a>();</div>
-<div class="line"><span class="lineno">  177</span>        <span class="keywordflow">if</span> (!map)</div>
-<div class="line"><span class="lineno">  178</span>        {</div>
-<div class="line"><span class="lineno">  179</span>            handler-&gt;<a class="code hl_function" href="../../d1/dd7/a07498.html#a92dbe6ed87759b9ed247973178d99a80">SendErrorMessage</a>(<a class="code hl_enumvalue" href="../../d7/dbe/a02333.html#af9ee42b1cf006ecb2d2e74fe71c0761aa6edc75cc446816159c8e568fdee6367c">LANG_NOT_DUNGEON</a>);</div>
-<div class="line"><span class="lineno">  180</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  181</span>        }</div>
-<div class="line"><span class="lineno">  182</span> </div>
-<div class="line"><span class="lineno">  183</span>        <span class="keywordflow">if</span> (!map-&gt;<a class="code hl_function" href="../../d6/d8e/a09814.html#adb854ceb3abc3e768ad6b8ce66703314">GetInstanceScript</a>())</div>
-<div class="line"><span class="lineno">  184</span>        {</div>
-<div class="line"><span class="lineno">  185</span>            handler-&gt;<a class="code hl_function" href="../../d1/dd7/a07498.html#a92dbe6ed87759b9ed247973178d99a80">SendErrorMessage</a>(<a class="code hl_enumvalue" href="../../d7/dbe/a02333.html#af9ee42b1cf006ecb2d2e74fe71c0761aa7a1c19ff6533ee84b38c73c47777a648">LANG_NO_INSTANCE_DATA</a>);</div>
-<div class="line"><span class="lineno">  186</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  187</span>        }</div>
-<div class="line"><span class="lineno">  188</span> </div>
-<div class="line"><span class="lineno">  189</span>        <span class="comment">// Reject improper values.</span></div>
-<div class="line"><span class="lineno">  190</span>        <span class="keywordflow">if</span> (encounterId &gt; map-&gt;<a class="code hl_function" href="../../d6/d8e/a09814.html#adb854ceb3abc3e768ad6b8ce66703314">GetInstanceScript</a>()-&gt;<a class="code hl_function" href="../../d1/d25/a09658.html#ae58a83191deaf6ea6fb2e25fcf8a7b00">GetEncounterCount</a>())</div>
-<div class="line"><span class="lineno">  191</span>        {</div>
-<div class="line"><span class="lineno">  192</span>            handler-&gt;<a class="code hl_function" href="../../d1/dd7/a07498.html#a92dbe6ed87759b9ed247973178d99a80">SendErrorMessage</a>(<a class="code hl_enumvalue" href="../../d7/dbe/a02333.html#af9ee42b1cf006ecb2d2e74fe71c0761aaba84876eafcef3a821f7a2a52fd3497e">LANG_BAD_VALUE</a>);</div>
-<div class="line"><span class="lineno">  193</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  194</span>        }</div>
-<div class="line"><span class="lineno">  195</span> </div>
-<div class="line"><span class="lineno">  196</span>        map-&gt;<a class="code hl_function" href="../../d6/d8e/a09814.html#adb854ceb3abc3e768ad6b8ce66703314">GetInstanceScript</a>()-&gt;<a class="code hl_function" href="../../d1/d25/a09658.html#a04fbee37682f3a3e08a9ad726eb0223c">SetBossState</a>(encounterId, <a class="code hl_enumeration" href="../../d6/d83/a01544.html#ab6cf09cd975286c705a19a75a947d438">EncounterState</a>(state));</div>
-<div class="line"><span class="lineno">  197</span>        std::string stateName = <a class="code hl_function" href="../../d1/d25/a09658.html#aaf54a225e2e3d36223fb0c34d65c1e44">InstanceScript::GetBossStateName</a>(state);</div>
-<div class="line"><span class="lineno">  198</span>        handler-&gt;<a class="code hl_function" href="../../d1/dd7/a07498.html#a54305506d6194dfdd1c1a3f30c8d1d62">PSendSysMessage</a>(<a class="code hl_enumvalue" href="../../d7/dbe/a02333.html#af9ee42b1cf006ecb2d2e74fe71c0761aa03da1e31aea519cea72faea805f30657">LANG_COMMAND_INST_SET_BOSS_STATE</a>, encounterId, state, stateName);</div>
-<div class="line"><span class="lineno">  199</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  200</span>    }</div>
-<div class="ttc" id="aa01544_html_ab6cf09cd975286c705a19a75a947d438"><div class="ttname"><a href="../../d6/d83/a01544.html#ab6cf09cd975286c705a19a75a947d438">EncounterState</a></div><div class="ttdeci">EncounterState</div><div class="ttdef"><b>Definition:</b> InstanceScript.h:57</div></div>
-<div class="ttc" id="aa02333_html_af9ee42b1cf006ecb2d2e74fe71c0761aa03da1e31aea519cea72faea805f30657"><div class="ttname"><a href="../../d7/dbe/a02333.html#af9ee42b1cf006ecb2d2e74fe71c0761aa03da1e31aea519cea72faea805f30657">LANG_COMMAND_INST_SET_BOSS_STATE</a></div><div class="ttdeci">@ LANG_COMMAND_INST_SET_BOSS_STATE</div><div class="ttdef"><b>Definition:</b> Language.h:1114</div></div>
-<div class="ttc" id="aa02333_html_af9ee42b1cf006ecb2d2e74fe71c0761aaba84876eafcef3a821f7a2a52fd3497e"><div class="ttname"><a href="../../d7/dbe/a02333.html#af9ee42b1cf006ecb2d2e74fe71c0761aaba84876eafcef3a821f7a2a52fd3497e">LANG_BAD_VALUE</a></div><div class="ttdeci">@ LANG_BAD_VALUE</div><div class="ttdef"><b>Definition:</b> Language.h:148</div></div>
-<div class="ttc" id="aa09658_html_a04fbee37682f3a3e08a9ad726eb0223c"><div class="ttname"><a href="../../d1/d25/a09658.html#a04fbee37682f3a3e08a9ad726eb0223c">InstanceScript::SetBossState</a></div><div class="ttdeci">virtual bool SetBossState(uint32 id, EncounterState state)</div><div class="ttdef"><b>Definition:</b> InstanceScript.cpp:385</div></div>
-<div class="ttc" id="aa09658_html_ae58a83191deaf6ea6fb2e25fcf8a7b00"><div class="ttname"><a href="../../d1/d25/a09658.html#ae58a83191deaf6ea6fb2e25fcf8a7b00">InstanceScript::GetEncounterCount</a></div><div class="ttdeci">uint32 GetEncounterCount() const</div><div class="ttdef"><b>Definition:</b> InstanceScript.h:266</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00147">Acore::ChatCommands::PlayerIdentifier::FromSelf()</a>, <a class="el" href="../../#l00826">InstanceScript::GetBossStateName()</a>, <a class="el" href="../../#l00266">InstanceScript::GetEncounterCount()</a>, <a class="el" href="../../#l00667">InstanceMap::GetInstanceScript()</a>, <a class="el" href="../../#l00242">ChatHandler::GetSession()</a>, <a class="el" href="../../#l00148">LANG_BAD_VALUE</a>, <a class="el" href="../../#l00042">LANG_CMD_SYNTAX</a>, <a class="el" href="../../#l01114">LANG_COMMAND_INST_SET_BOSS_STATE</a>, <a class="el" href="../../#l01113">LANG_NO_INSTANCE_DATA</a>, <a class="el" href="../../#l01112">LANG_NOT_DUNGEON</a>, <a class="el" href="../../#l00545">LANG_PLAYER_NOT_FOUND</a>, <a class="el" href="../../#l00211">ChatHandler::PSendSysMessage()</a>, <a class="el" href="../../#l00216">ChatHandler::SendErrorMessage()</a>, <a class="el" href="../../#l00385">InstanceScript::SetBossState()</a>, and <a class="el" href="../../#l00383">Map::ToInstanceMap()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00034">GetCommands()</a>.</p>
+<p>Implemented in <a class="el" href="../../dc/d36/a11682.html#a0924dba46b727ab445e87c67dd2f58da">World</a>.</p>
 
 </div>
 </div>
-<a id="a9547a0a88a3bcd7407c449f3f2f25f44" name="a9547a0a88a3bcd7407c449f3f2f25f44"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9547a0a88a3bcd7407c449f3f2f25f44">&#9670;&#160;</a></span>HandleInstanceStatsCommand()</h2>
+<a id="a56adec939dc8b50849d500bb859e5b4c" name="a56adec939dc8b50849d500bb859e5b4c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a56adec939dc8b50849d500bb859e5b4c">&#9670;&#160;</a></span>SetInitialWorldSettings()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -582,41 +1268,25 @@ Additional Inherited Members</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">static bool instance_commandscript::HandleInstanceStatsCommand </td>
+          <td class="memname">virtual void IWorld::SetInitialWorldSettings </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d1/dd7/a07498.html">ChatHandler</a> *&#160;</td>
-          <td class="paramname"><em>handler</em></td><td>)</td>
+          <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  124</span>    {</div>
-<div class="line"><span class="lineno">  125</span>        <a class="code hl_typedef" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> dungeon = 0, battleground = 0, arena = 0, spectators = 0;</div>
-<div class="line"><span class="lineno">  126</span>        <a class="code hl_define" href="../../d7/d22/a01514.html#a9132749f8376c48b0ca7212eb3293905">sMapMgr</a>-&gt;GetNumInstances(dungeon, battleground, arena);</div>
-<div class="line"><span class="lineno">  127</span>        handler-&gt;<a class="code hl_function" href="../../d1/dd7/a07498.html#a54305506d6194dfdd1c1a3f30c8d1d62">PSendSysMessage</a>(<span class="stringliteral">&quot;instances loaded: dungeons ({}), battlegrounds ({}), arenas ({})&quot;</span>, dungeon, battleground, arena);</div>
-<div class="line"><span class="lineno">  128</span>        dungeon = 0;</div>
-<div class="line"><span class="lineno">  129</span>        battleground = 0;</div>
-<div class="line"><span class="lineno">  130</span>        arena = 0;</div>
-<div class="line"><span class="lineno">  131</span>        spectators = 0;</div>
-<div class="line"><span class="lineno">  132</span>        <a class="code hl_define" href="../../d7/d22/a01514.html#a9132749f8376c48b0ca7212eb3293905">sMapMgr</a>-&gt;GetNumPlayersInInstances(dungeon, battleground, arena, spectators);</div>
-<div class="line"><span class="lineno">  133</span>        handler-&gt;<a class="code hl_function" href="../../d1/dd7/a07498.html#a92dbe6ed87759b9ed247973178d99a80">SendErrorMessage</a>(<span class="stringliteral">&quot;players in instances: dungeons ({}), battlegrounds ({}), arenas ({} + {} spect)&quot;</span>, dungeon, battleground, arena, spectators);</div>
-<div class="line"><span class="lineno">  134</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  135</span>    }</div>
-<div class="ttc" id="aa01514_html_a9132749f8376c48b0ca7212eb3293905"><div class="ttname"><a href="../../d7/d22/a01514.html#a9132749f8376c48b0ca7212eb3293905">sMapMgr</a></div><div class="ttdeci">#define sMapMgr</div><div class="ttdef"><b>Definition:</b> MapMgr.h:220</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00211">ChatHandler::PSendSysMessage()</a>, <a class="el" href="../../#l00216">ChatHandler::SendErrorMessage()</a>, and <a class="el" href="../../#l00220">sMapMgr</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00034">GetCommands()</a>.</p>
+<p>Implemented in <a class="el" href="../../dc/d36/a11682.html#aeff3f8a7fdef7caaa925014a540ba040">World</a>.</p>
 
 </div>
 </div>
-<a id="a7abbe257b10632f2acbdd838e1f073a9" name="a7abbe257b10632f2acbdd838e1f073a9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7abbe257b10632f2acbdd838e1f073a9">&#9670;&#160;</a></span>HandleInstanceUnbindCommand()</h2>
+<a id="a8023df0a785ffebd388221921cf7fcb8" name="a8023df0a785ffebd388221921cf7fcb8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8023df0a785ffebd388221921cf7fcb8">&#9670;&#160;</a></span>setIntConfig()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -625,22 +1295,16 @@ Additional Inherited Members</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">static bool instance_commandscript::HandleInstanceUnbindCommand </td>
+          <td class="memname">virtual void IWorld::setIntConfig </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d1/dd7/a07498.html">ChatHandler</a> *&#160;</td>
-          <td class="paramname"><em>handler</em>, </td>
+          <td class="paramtype"><a class="el" href="../../de/d87/a02939.html#a468ad15992691eb97dd20680046832e0">ServerConfigs</a>&#160;</td>
+          <td class="paramname"><em>index</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../d1/d20/a07698.html">Variant</a>&lt; <a class="el" href="../../d2/de7/a00014.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>, <a class="el" href="../../d4/d95/a00989.html#ac61bb0d0d29d3ccc94188eb93516adf5">EXACT_SEQUENCE</a>(&quot;all&quot;)&gt;&#160;</td>
-          <td class="paramname"><em>mapArg</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d4/d1e/a00497.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a>&lt; <a class="el" href="../../d2/de7/a00014.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> &gt;&#160;</td>
-          <td class="paramname"><em>difficultyArg</em>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>value</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -650,59 +1314,348 @@ Additional Inherited Members</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   82</span>    {</div>
-<div class="line"><span class="lineno">   83</span>        <a class="code hl_class" href="../../dc/dd9/a08606.html">Player</a>* player = handler-&gt;<a class="code hl_function" href="../../d1/dd7/a07498.html#ad948d4d7a2fe777df9d02f40201bcf4a">getSelectedPlayer</a>();</div>
-<div class="line"><span class="lineno">   84</span>        <span class="keywordflow">if</span> (!player)</div>
-<div class="line"><span class="lineno">   85</span>            player = handler-&gt;<a class="code hl_function" href="../../d1/dd7/a07498.html#a635eca3065c9464e0cdcedd9f0740daa">GetSession</a>()-&gt;<a class="code hl_function" href="../../df/d55/a11014.html#a62c786bcb829a021c267e7eb56809952">GetPlayer</a>();</div>
-<div class="line"><span class="lineno">   86</span> </div>
-<div class="line"><span class="lineno">   87</span>        <a class="code hl_typedef" href="../../d2/de7/a00014.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> counter = 0;</div>
-<div class="line"><span class="lineno">   88</span>        <a class="code hl_typedef" href="../../d2/de7/a00014.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> mapId = 0;</div>
-<div class="line"><span class="lineno">   89</span> </div>
-<div class="line"><span class="lineno">   90</span>        <span class="keywordflow">if</span> (mapArg.<a class="code hl_function" href="../../d1/d20/a07698.html#a85b3bbe6f4e5440fa26765d822541101">holds_alternative</a>&lt;<a class="code hl_typedef" href="../../d2/de7/a00014.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&gt;())</div>
-<div class="line"><span class="lineno">   91</span>        {</div>
-<div class="line"><span class="lineno">   92</span>            mapId = mapArg.<a class="code hl_function" href="../../d1/d20/a07698.html#a193636c84817e3ba5d58578127c2e812">get</a>&lt;<a class="code hl_typedef" href="../../d2/de7/a00014.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&gt;();</div>
-<div class="line"><span class="lineno">   93</span>            <span class="keywordflow">if</span> (!mapId)</div>
-<div class="line"><span class="lineno">   94</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">   95</span>        }</div>
-<div class="line"><span class="lineno">   96</span> </div>
-<div class="line"><span class="lineno">   97</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d2/de7/a00014.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0; i &lt; <a class="code hl_define" href="../../d1/de1/a02435.html#a4b8f96edf5459f120db77f80275dfe5c">MAX_DIFFICULTY</a>; ++i)</div>
-<div class="line"><span class="lineno">   98</span>        {</div>
-<div class="line"><span class="lineno">   99</span>            <a class="code hl_typedef" href="../../d7/def/a01538.html#aaa779bf09b703eb355cb51ac3481a19e">BoundInstancesMap</a> <span class="keyword">const</span>&amp; m_boundInstances = <a class="code hl_define" href="../../d7/def/a01538.html#ae1d3c96dbd749e40f06799fa52eeb9a2">sInstanceSaveMgr</a>-&gt;PlayerGetBoundInstances(player-&gt;<a class="code hl_function" href="../../dd/d4f/a08358.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>(), <a class="code hl_enumeration" href="../../d1/de1/a02435.html#a39d5903d54e674f4f2e824581ade546b">Difficulty</a>(i));</div>
-<div class="line"><span class="lineno">  100</span>            <span class="keywordflow">for</span> (BoundInstancesMap::const_iterator itr = m_boundInstances.begin(); itr != m_boundInstances.end();)</div>
-<div class="line"><span class="lineno">  101</span>            {</div>
-<div class="line"><span class="lineno">  102</span>                <a class="code hl_class" href="../../d6/da7/a09614.html">InstanceSave</a> <span class="keyword">const</span>* save = itr-&gt;second.save;</div>
-<div class="line"><span class="lineno">  103</span>                <span class="keywordflow">if</span> (itr-&gt;first != player-&gt;<a class="code hl_function" href="../../d1/d8b/a08454.html#a2682e56ae4f0ce4b517a8ba3cd2798b1">GetMapId</a>() &amp;&amp; (!mapId || mapId == itr-&gt;first) &amp;&amp; (!difficultyArg || difficultyArg == save-&gt;<a class="code hl_function" href="../../d6/da7/a09614.html#a94577295c43dc90262381beff84f5f91">GetDifficulty</a>()))</div>
-<div class="line"><span class="lineno">  104</span>                {</div>
-<div class="line"><span class="lineno">  105</span>                    <a class="code hl_typedef" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> resetTime = itr-&gt;second.extended ? save-&gt;<a class="code hl_function" href="../../d6/da7/a09614.html#a2da6c5ed63b57f6449de44461c05582b">GetExtendedResetTime</a>() : save-&gt;<a class="code hl_function" href="../../d6/da7/a09614.html#af5f5969ae2d4730af0c9ad7ea7f5a8ac">GetResetTime</a>();</div>
-<div class="line"><span class="lineno">  106</span>                    <a class="code hl_typedef" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ttr = (resetTime &gt;= <a class="code hl_function" href="../../dd/dca/a04847.html#adbe1785d1327dedf2ac403b7cc8e99c2">GameTime::GetGameTime</a>().count() ? resetTime - <a class="code hl_function" href="../../dd/dca/a04847.html#adbe1785d1327dedf2ac403b7cc8e99c2">GameTime::GetGameTime</a>().count() : 0);</div>
-<div class="line"><span class="lineno">  107</span>                    std::string timeleft = <a class="code hl_function" href="../../d9/d4a/a00479.html#a0b4910c611cea4a1b2812dac5456c5a8">secsToTimeString</a>(ttr);</div>
-<div class="line"><span class="lineno">  108</span>                    handler-&gt;<a class="code hl_function" href="../../d1/dd7/a07498.html#a54305506d6194dfdd1c1a3f30c8d1d62">PSendSysMessage</a>(<span class="stringliteral">&quot;unbinding map: {}, inst: {}, perm: {}, diff: {}, canReset: {}, TTR: {}{}&quot;</span>, itr-&gt;first, save-&gt;<a class="code hl_function" href="../../d6/da7/a09614.html#a7def734d9c4698457fa4f631e30fa9db">GetInstanceId</a>(), itr-&gt;second.perm ? <span class="stringliteral">&quot;yes&quot;</span> : <span class="stringliteral">&quot;no&quot;</span>, save-&gt;<a class="code hl_function" href="../../d6/da7/a09614.html#a94577295c43dc90262381beff84f5f91">GetDifficulty</a>(), save-&gt;<a class="code hl_function" href="../../d6/da7/a09614.html#aba8d512041c8485f49eef8c1fafce729">CanReset</a>() ? <span class="stringliteral">&quot;yes&quot;</span> : <span class="stringliteral">&quot;no&quot;</span>, timeleft, (itr-&gt;second.extended ? <span class="stringliteral">&quot; (extended)&quot;</span> : <span class="stringliteral">&quot;&quot;</span>));</div>
-<div class="line"><span class="lineno">  109</span>                    <a class="code hl_define" href="../../d7/def/a01538.html#ae1d3c96dbd749e40f06799fa52eeb9a2">sInstanceSaveMgr</a>-&gt;PlayerUnbindInstance(player-&gt;<a class="code hl_function" href="../../dd/d4f/a08358.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>(), itr-&gt;first, <a class="code hl_enumeration" href="../../d1/de1/a02435.html#a39d5903d54e674f4f2e824581ade546b">Difficulty</a>(i), <span class="keyword">true</span>, player);</div>
-<div class="line"><span class="lineno">  110</span>                    itr = m_boundInstances.begin();</div>
-<div class="line"><span class="lineno">  111</span>                    counter++;</div>
-<div class="line"><span class="lineno">  112</span>                }</div>
-<div class="line"><span class="lineno">  113</span>                <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  114</span>                    ++itr;</div>
-<div class="line"><span class="lineno">  115</span>            }</div>
-<div class="line"><span class="lineno">  116</span>        }</div>
-<div class="line"><span class="lineno">  117</span> </div>
-<div class="line"><span class="lineno">  118</span>        handler-&gt;<a class="code hl_function" href="../../d1/dd7/a07498.html#a54305506d6194dfdd1c1a3f30c8d1d62">PSendSysMessage</a>(<span class="stringliteral">&quot;instances unbound: {}&quot;</span>, counter);</div>
-<div class="line"><span class="lineno">  119</span> </div>
-<div class="line"><span class="lineno">  120</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  121</span>    }</div>
-<div class="ttc" id="aa00014_html_ad9c79638db63f1dfe2b085743b5cbf7b"><div class="ttname"><a href="../../d2/de7/a00014.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a></div><div class="ttdeci">std::uint16_t uint16</div><div class="ttdef"><b>Definition:</b> Define.h:108</div></div>
-<div class="ttc" id="aa01538_html_aaa779bf09b703eb355cb51ac3481a19e"><div class="ttname"><a href="../../d7/def/a01538.html#aaa779bf09b703eb355cb51ac3481a19e">BoundInstancesMap</a></div><div class="ttdeci">std::unordered_map&lt; uint32, InstancePlayerBind &gt; BoundInstancesMap</div><div class="ttdef"><b>Definition:</b> InstanceSaveMgr.h:46</div></div>
-<div class="ttc" id="aa07698_html_a193636c84817e3ba5d58578127c2e812"><div class="ttname"><a href="../../d1/d20/a07698.html#a193636c84817e3ba5d58578127c2e812">Acore::ChatCommands::Variant::get</a></div><div class="ttdeci">constexpr decltype(auto) get()</div><div class="ttdef"><b>Definition:</b> ChatCommandTags.h:284</div></div>
-<div class="ttc" id="aa07698_html_a85b3bbe6f4e5440fa26765d822541101"><div class="ttname"><a href="../../d1/d20/a07698.html#a85b3bbe6f4e5440fa26765d822541101">Acore::ChatCommands::Variant::holds_alternative</a></div><div class="ttdeci">constexpr bool holds_alternative() const</div><div class="ttdef"><b>Definition:</b> ChatCommandTags.h:298</div></div>
-<div class="ttc" id="aa08454_html_a2682e56ae4f0ce4b517a8ba3cd2798b1"><div class="ttname"><a href="../../d1/d8b/a08454.html#a2682e56ae4f0ce4b517a8ba3cd2798b1">WorldLocation::GetMapId</a></div><div class="ttdeci">uint32 GetMapId() const</div><div class="ttdef"><b>Definition:</b> Position.h:280</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00081">InstanceSave::CanReset()</a>, <a class="el" href="../../#l00063">InstanceSave::GetDifficulty()</a>, <a class="el" href="../../#l00076">InstanceSave::GetExtendedResetTime()</a>, <a class="el" href="../../#l00038">GameTime::GetGameTime()</a>, <a class="el" href="../../#l00113">Object::GetGUID()</a>, <a class="el" href="../../#l00061">InstanceSave::GetInstanceId()</a>, <a class="el" href="../../#l00280">WorldLocation::GetMapId()</a>, <a class="el" href="../../#l00381">WorldSession::GetPlayer()</a>, <a class="el" href="../../#l00075">InstanceSave::GetResetTime()</a>, <a class="el" href="../../#l00374">ChatHandler::getSelectedPlayer()</a>, <a class="el" href="../../#l00242">ChatHandler::GetSession()</a>, <a class="el" href="../../#l00283">MAX_DIFFICULTY</a>, <a class="el" href="../../#l00211">ChatHandler::PSendSysMessage()</a>, <a class="el" href="../../#l00073">secsToTimeString()</a>, and <a class="el" href="../../#l00202">sInstanceSaveMgr</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00034">GetCommands()</a>.</p>
+<p>Implemented in <a class="el" href="../../dc/d36/a11682.html#a3d60eea71f41e734e8237b35d5a4d1db">World</a>.</p>
+
+</div>
+</div>
+<a id="a1784b2a89b77dc3078582b78cd957968" name="a1784b2a89b77dc3078582b78cd957968"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1784b2a89b77dc3078582b78cd957968">&#9670;&#160;</a></span>SetPlayerSecurityLimit()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual void IWorld::SetPlayerSecurityLimit </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../db/dbc/a00395.html#adaa1cabfe05f8df3c272bdcfd89cdac7">AccountTypes</a>&#160;</td>
+          <td class="paramname"><em>sec</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="../../dc/d36/a11682.html#af27489b9c412e1b060ac4b20ec652e50">World</a>.</p>
+
+</div>
+</div>
+<a id="acad3c54cc13c94b2baee31fc9ee8392f" name="acad3c54cc13c94b2baee31fc9ee8392f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acad3c54cc13c94b2baee31fc9ee8392f">&#9670;&#160;</a></span>setRate()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual void IWorld::setRate </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../de/d87/a02939.html#a468ad15992691eb97dd20680046832e0">ServerConfigs</a>&#160;</td>
+          <td class="paramname"><em>index</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>value</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="../../dc/d36/a11682.html#a03ca826be4360290dccae54faaec4067">World</a>.</p>
+
+</div>
+</div>
+<a id="a1c88b825902f5caa4ec0f80e8f464463" name="a1c88b825902f5caa4ec0f80e8f464463"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1c88b825902f5caa4ec0f80e8f464463">&#9670;&#160;</a></span>SetRealmName()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual void IWorld::SetRealmName </td>
+          <td>(</td>
+          <td class="paramtype">std::string&#160;</td>
+          <td class="paramname"><em>name</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="../../dc/d36/a11682.html#a2b4be30416a27846bfe10943efffd876">World</a>.</p>
+
+</div>
+</div>
+<a id="a32b749f1cf1e1c5c969909bb36c337fa" name="a32b749f1cf1e1c5c969909bb36c337fa"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a32b749f1cf1e1c5c969909bb36c337fa">&#9670;&#160;</a></span>setStringConfig()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual void IWorld::setStringConfig </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../de/d87/a02939.html#a468ad15992691eb97dd20680046832e0">ServerConfigs</a>&#160;</td>
+          <td class="paramname"><em>index</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">std::string const &amp;&#160;</td>
+          <td class="paramname"><em>value</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="../../dc/d36/a11682.html#aaff65b6bae2c57160600d72238e4e26f">World</a>.</p>
+
+</div>
+</div>
+<a id="a4a67939a2a73f8d812f8b3bc040d522e" name="a4a67939a2a73f8d812f8b3bc040d522e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4a67939a2a73f8d812f8b3bc040d522e">&#9670;&#160;</a></span>ShutdownCancel()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual void IWorld::ShutdownCancel </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="../../dc/d36/a11682.html#a0227f68a7e8917c775d0386f83e0ad4d">World</a>.</p>
+
+</div>
+</div>
+<a id="a0c9bd3a70458fe655bfc9492b4169118" name="a0c9bd3a70458fe655bfc9492b4169118"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0c9bd3a70458fe655bfc9492b4169118">&#9670;&#160;</a></span>ShutdownMsg()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual void IWorld::ShutdownMsg </td>
+          <td>(</td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>show</em> = <code>false</code>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d4/d95/a08630.html">Player</a> *&#160;</td>
+          <td class="paramname"><em>player</em> = <code>nullptr</code>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const std::string &amp;&#160;</td>
+          <td class="paramname"><em>reason</em> = <code>std::string()</code>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="../../dc/d36/a11682.html#aaffca059ddb1b47034d9338eb8e516cc">World</a>.</p>
+
+</div>
+</div>
+<a id="a6e0a6af1ba566fd0ecfef456b88a1e89" name="a6e0a6af1ba566fd0ecfef456b88a1e89"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6e0a6af1ba566fd0ecfef456b88a1e89">&#9670;&#160;</a></span>ShutdownServ()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual void IWorld::ShutdownServ </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>time</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>options</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td>
+          <td class="paramname"><em>exitcode</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const std::string &amp;&#160;</td>
+          <td class="paramname"><em>reason</em> = <code>std::string()</code>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="../../dc/d36/a11682.html#a4fdff6bac07b46aaa58e34ab7eb258d8">World</a>.</p>
+
+</div>
+</div>
+<a id="a7ddf36a5bbbab3288e2e069062fd90b9" name="a7ddf36a5bbbab3288e2e069062fd90b9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7ddf36a5bbbab3288e2e069062fd90b9">&#9670;&#160;</a></span>Update()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual void IWorld::Update </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>diff</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="../../dc/d36/a11682.html#aec9ec3b6210efe741d4617df4534c3a7">World</a>.</p>
+
+</div>
+</div>
+<a id="a443ddacd3a14959ccfd2d2283c9903e2" name="a443ddacd3a14959ccfd2d2283c9903e2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a443ddacd3a14959ccfd2d2283c9903e2">&#9670;&#160;</a></span>UpdateAreaDependentAuras()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual void IWorld::UpdateAreaDependentAuras </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="../../dc/d36/a11682.html#ad9e3127a9bee2e507ae8730364bf2799">World</a>.</p>
+
+</div>
+</div>
+<a id="a9a374eb71d8bac4976c16e1bd246df11" name="a9a374eb71d8bac4976c16e1bd246df11"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9a374eb71d8bac4976c16e1bd246df11">&#9670;&#160;</a></span>UpdateRealmCharCount()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual void IWorld::UpdateRealmCharCount </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>accid</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="../../dc/d36/a11682.html#a1c94ad9f439abf43ae374c6760519b52">World</a>.</p>
 
 </div>
 </div>
@@ -711,8 +1664,8 @@ Additional Inherited Members</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d0/d1c/a11670.html">instance_commandscript</a></li>
-    <li class="footer">Generated on Mon Aug 4 2025 20:51:32 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d0/d1c/a11670.html">IWorld</a></li>
+    <li class="footer">Generated on Mon Sep 1 2025 20:43:54 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

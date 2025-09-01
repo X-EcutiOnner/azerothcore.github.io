@@ -1,6 +1,6 @@
 var a23370 =
 [
-    [ "HandleAfterRemove", "dc/dbe/a23370.html#a74610b06095572aa2c898cd84e0fb229", null ],
-    [ "PrepareAuraScript", "dc/dbe/a23370.html#ac0d686490ff37810e0116dea4d0b6077", null ],
-    [ "Register", "dc/dbe/a23370.html#aad72f4aaa19f92f7a71241311f5d0582", null ]
+    [ "OnPeriodic", "dc/dbe/a23370.html#adfd5a3a6d9c16cd6acdb1f24e7874f20", null ],
+    [ "PrepareAuraScript", "dc/dbe/a23370.html#a8444053fa146a4163ea905634be78dfc", null ],
+    [ "Register", "dc/dbe/a23370.html#aad8868dc3d00fd3ea648abe7b536970d", null ]
 ];

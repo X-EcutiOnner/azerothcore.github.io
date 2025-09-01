@@ -1,9 +1,7 @@
 var a14022 =
 [
-    [ "boss_jindo", "d0/dcb/a14022.html#a9aafe0282e0b5de90ce62b3f8b3cfb14", null ],
-    [ "EnterEvadeMode", "d0/dcb/a14022.html#a8b80f12d0b9b8e9c7aa7ec46fbb71500", null ],
-    [ "JustEngagedWith", "d0/dcb/a14022.html#a7f612a1e5033c5097856222cee41f2af", null ],
-    [ "JustSummoned", "d0/dcb/a14022.html#ac7382289d174ec70703b76dc4e451d39", null ],
-    [ "UpdateAI", "d0/dcb/a14022.html#aad8885f79fc527954102fc1b78ca8ad7", null ],
-    [ "_scheduler", "d0/dcb/a14022.html#a7ddbdc4d85936fd54fced20ff31e91cd", null ]
+    [ "npc_zuljin_vortex", "d0/dcb/a14022.html#af3af996adc0a0dba4af992234f8356fb", null ],
+    [ "ChangeToNewPlayer", "d0/dcb/a14022.html#ab353794ef978151999fdd2294783e757", null ],
+    [ "Reset", "d0/dcb/a14022.html#a1331e714c5cafdc32033e73b6f3169aa", null ],
+    [ "UpdateAI", "d0/dcb/a14022.html#a1ae6a08fe247e7bc812ed4f5ffebc519", null ]
 ];

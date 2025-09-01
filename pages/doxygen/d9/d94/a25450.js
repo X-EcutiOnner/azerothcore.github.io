@@ -1,10 +1,8 @@
 var a25450 =
 [
-    [ "ApplyMarker", "d9/d94/a25450.html#aae1bd2f5f21a389e8d110cabecc9d94d", null ],
-    [ "CheckTrapProc", "d9/d94/a25450.html#a00f06f18b6874302f88c3af193d8e4ed", null ],
-    [ "HandleProcs", "d9/d94/a25450.html#a81abe76c24a6a6320811d99ce8f5fb4f", null ],
-    [ "IsTargetValid", "d9/d94/a25450.html#a02590da9b97a4d6bc7a6cbd0e670480f", null ],
-    [ "PrepareAuraScript", "d9/d94/a25450.html#a475320d20875b2d710ed3734b78f4645", null ],
-    [ "Register", "d9/d94/a25450.html#aca7649a87ace4e22793ca33705b1500c", null ],
-    [ "Validate", "d9/d94/a25450.html#a45630b6dc703996321286ff16a17e3e3", null ]
+    [ "HandleApply", "d9/d94/a25450.html#af20f30fe2bfc7a370b166a6200b44ca9", null ],
+    [ "OnPeriodic", "d9/d94/a25450.html#a6b3223ef23854f22b9a3baba0d42cb11", null ],
+    [ "PrepareAuraScript", "d9/d94/a25450.html#a344d1a92623865876174c0e88ce8ab4b", null ],
+    [ "Register", "d9/d94/a25450.html#a352ff0e85eee6e51e9f2eea5cdd9108c", null ],
+    [ "Validate", "d9/d94/a25450.html#ac4fd8fdde53f947082b23852ce149ea9", null ]
 ];

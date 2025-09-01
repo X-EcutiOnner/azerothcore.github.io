@@ -1,7 +1,8 @@
 var a08778 =
 [
-    [ "VehicleDespawnEvent", "d5/d99/a08778.html#ab6f88e60f1068ab79049c158314a87ab", null ],
-    [ "Execute", "d5/d99/a08778.html#a39284ca2343e54cec915ac3ecf51f4a8", null ],
-    [ "_duration", "d5/d99/a08778.html#a3e9c695929c24728b2091940e511d5f0", null ],
-    [ "_self", "d5/d99/a08778.html#a0d472ea9a1a7b615f01c73d20cfc6573", null ]
+    [ "RedirectSpellEvent", "d5/d99/a08778.html#a77d243d64c2fc651d71c42e10a315161", null ],
+    [ "Execute", "d5/d99/a08778.html#a34ae2bc23904558bd5f5b99e8f1c5fdc", null ],
+    [ "_auraEffect", "d5/d99/a08778.html#a010f14a7d389b4e9ae9896061fa18a65", null ],
+    [ "_auraOwnerGUID", "d5/d99/a08778.html#a1b3fb598748362379fef15b3172d8e2b", null ],
+    [ "_self", "d5/d99/a08778.html#aecfa190843c1493b47652ccdac7ae9c3", null ]
 ];

@@ -1,7 +1,10 @@
 var a24574 =
 [
-    [ "HandleDummy", "db/db6/a24574.html#a54f7f56a9122b623855eb9d11e34dfca", null ],
-    [ "PrepareSpellScript", "db/db6/a24574.html#a2fe4b009fa3741c180e18730af5853e3", null ],
-    [ "Register", "db/db6/a24574.html#a762c2320ab8d48e1284d81962a4b078f", null ],
-    [ "Validate", "db/db6/a24574.html#a42fbc381d7ae89f1ac265fb15ebd864f", null ]
+    [ "npc_pet_gen_plump_turkey", "db/db6/a24574.html#acd5a9cb122cbf5a773461ce1027f28a1", null ],
+    [ "MovementInform", "db/db6/a24574.html#af27c91388891add6d00e251bf3187743", null ],
+    [ "UpdateAI", "db/db6/a24574.html#a93d2719bcc6a657a9a32cce06f566b19", null ],
+    [ "checkTimer", "db/db6/a24574.html#af9e7339416ada0c3bb9829cbd8e1f5d3", null ],
+    [ "goGUID", "db/db6/a24574.html#a5fa88e045430adea9e72a3744bf72780", null ],
+    [ "jumping", "db/db6/a24574.html#a8486512b7594f2ce759fcb580f1baf34", null ],
+    [ "jumpTimer", "db/db6/a24574.html#ad53a9abad41ab6a792a55b854155135d", null ]
 ];

@@ -1,8 +1,10 @@
 var a26930 =
 [
-    [ "HandleEffect", "d6/d22/a26930.html#a1c1a06362742abcf83e1817c468de3d3", null ],
-    [ "PrepareSpellScript", "d6/d22/a26930.html#a0e2cce13a3b2c8b8e9ace8876def8b9c", null ],
-    [ "Register", "d6/d22/a26930.html#a56108b37bc69809ce80d424e2bcb3f55", null ],
-    [ "SendMiss", "d6/d22/a26930.html#afda727460aebc8fe97d5c18d0195ea2c", null ],
-    [ "Validate", "d6/d22/a26930.html#ab9533351a176f4e0d641a6e36a75d6b9", null ]
+    [ "CalcPeriodic", "d6/d22/a26930.html#abd23b7e24d9688dd4b9cbe70cdd45d75", null ],
+    [ "CalculateAmount", "d6/d22/a26930.html#a55aa6c6a23e4db0f407b86bcf95d3761", null ],
+    [ "HandleEffectCalcSpellMod", "d6/d22/a26930.html#a8c888218fde2176a3c3b5cb97fdce5de", null ],
+    [ "HandlePeriodic", "d6/d22/a26930.html#ae2c4de235fc727039a50f1b6ba729422", null ],
+    [ "Load", "d6/d22/a26930.html#a9e1a5a07db18f6ff238276f9e1c44321", null ],
+    [ "PrepareAuraScript", "d6/d22/a26930.html#a847c1db1bf92baeba47260ffbacbcdd9", null ],
+    [ "Register", "d6/d22/a26930.html#a9241ab85d616f4f17c52b3730c5434e1", null ]
 ];

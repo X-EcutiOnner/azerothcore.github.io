@@ -1,6 +1,6 @@
 var a11434 =
 [
-    [ "FieldGuidType", "d9/db1/a11434.html#a88e763ed9715ad76a0eb1c1a9ad7a59b", null ],
-    [ "FieldName", "d9/db1/a11434.html#a669f1ecf12148799e59e7b3e3124d681", null ],
-    [ "IsDependentField", "d9/db1/a11434.html#a241b9e8f5672e30732f0b938b02046d4", null ]
+    [ "EffectBase", "d9/db1/a11434.html#ab02f9f344e2f32ad59b35993d5c8f819", null ],
+    [ "CheckEffect", "d9/db1/a11434.html#a8c300ca68c3ff6f74b230835c566fd60", null ],
+    [ "ToString", "d9/db1/a11434.html#ab6f5b2a7ec1183206110eac9a21a7de5", null ]
 ];

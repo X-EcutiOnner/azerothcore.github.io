@@ -1,4 +1,9 @@
 var a10838 =
 [
-    [ "Validate", "d9/d64/a10838.html#ab0d4c07b4ce9903a913bdced5e05bbd6", null ]
+    [ "WrapItem", "d9/d64/a10838.html#a7de705fe4ac1b4d71a6487533f40f2aa", null ],
+    [ "Read", "d9/d64/a10838.html#adcd87a65cc32bc0096b650a705de9a55", null ],
+    [ "GiftBag", "d9/d64/a10838.html#a45ebce1daa3de00eca9ff7fb352a9063", null ],
+    [ "GiftSlot", "d9/d64/a10838.html#acd6da351e2ad9108921e2d9c7b13e82b", null ],
+    [ "ItemBag", "d9/d64/a10838.html#a577a588900d74f22cfe67a1fbe82424b", null ],
+    [ "ItemSlot", "d9/d64/a10838.html#a6a4bd31c0d4b97a019caca716a79c073", null ]
 ];

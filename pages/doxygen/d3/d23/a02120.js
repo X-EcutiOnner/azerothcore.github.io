@@ -1,5 +1,5 @@
 var a02120 =
 [
-    [ "ticket_commandscript", "dc/def/a11816.html", "dc/def/a11816" ],
-    [ "AddSC_ticket_commandscript", "d3/d23/a02120.html#ad71463f4442d2e022a92404a4d9dec76", null ]
+    [ "tele_commandscript", "dd/d8e/a11902.html", "dd/d8e/a11902" ],
+    [ "AddSC_tele_commandscript", "d3/d23/a02120.html#a75673ffc02c68c43cefd69bb0648dd53", null ]
 ];

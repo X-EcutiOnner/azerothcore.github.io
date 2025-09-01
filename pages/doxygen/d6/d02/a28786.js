@@ -1,12 +1,10 @@
 var a28786 =
 [
-    [ "Bounds", "d6/d02/a28786.html#a1e982b341ac3859fad38b2efc81ab8ea", null ],
-    [ "DoodadSet", "d6/d02/a28786.html#abbf6e50e76b120be17215cfcf227a524", null ],
-    [ "Flags", "d6/d02/a28786.html#a06f5e96119239356eea45b9acdadf6e1", null ],
-    [ "Id", "d6/d02/a28786.html#a952442c180e8d3710af31272b54eb6ec", null ],
-    [ "NameSet", "d6/d02/a28786.html#a55df9aed38d8cf1503b21f5fd9d5e5d0", null ],
-    [ "Position", "d6/d02/a28786.html#a7e6463db89eaf53bc20832afb1842a5b", null ],
-    [ "Rotation", "d6/d02/a28786.html#a2c04715e800b9f375c287cced96643d1", null ],
-    [ "Scale", "d6/d02/a28786.html#a142716fecae07abc013c7f3bd053c0ea", null ],
-    [ "UniqueId", "d6/d02/a28786.html#a749e920740b9e91547fe1f87933d1c7d", null ]
+    [ "adt_CELLS", "d9/d60/a28794.html", "d9/d60/a28794" ],
+    [ "getMCNK", "d6/d02/a28786.html#a8330b7cb405146399d3d20e6952a8b40", null ],
+    [ "prepareLoadedData", "d6/d02/a28786.html#adc7346499aa51f4422c810b7e757f835", null ],
+    [ "cells", "d6/d02/a28786.html#a434ed0ca354ec27d5334cc63e5650038", null ],
+    [ "fcc", "d6/d02/a28786.html#ae7d4acf20e102b6b8f19ded3fe219a7d", null ],
+    [ "fcc_txt", "d6/d02/a28786.html#a514bae36851623daf76b26a9d63f1ae0", null ],
+    [ "size", "d6/d02/a28786.html#a1a40f52ea9eef3add8207da89cb71210", null ]
 ];

@@ -1,9 +1,9 @@
 var a27866 =
 [
-    [ "CinematicSequence", "dd/d23/a27866.html#a7a0a35bbb69320565d991f4a349dc01b", null ],
-    [ "ClassID", "dd/d23/a27866.html#a9da8d8d20126e9dc161b1dd64a19fe59", null ],
-    [ "expansion", "dd/d23/a27866.html#a7c57eabd8d94849cd8536b013a8d4138", null ],
-    [ "name", "dd/d23/a27866.html#a2d0b7155b03af29bd982f31eba26ec24", null ],
-    [ "powerType", "dd/d23/a27866.html#a74aec35dc161a7e830453b9365a6f107", null ],
-    [ "spellfamily", "dd/d23/a27866.html#a43fbe48c99e297ea09e9e1f2edd6a4ea", null ]
+    [ "npc_necropolis_health", "dd/d23/a27866.html#a9dc3e7734c22adea687a69662a3c7afa", null ],
+    [ "DespawnNecropolis", "dd/d23/a27866.html#af80e2b106b04e02d4c23a5fe4c45a7a2", null ],
+    [ "JustDied", "dd/d23/a27866.html#a972687770c7afb0adfaac56f0cb73d5f", null ],
+    [ "SpellHit", "dd/d23/a27866.html#ad4a9f9b166ab8107a16da918082c6625", null ],
+    [ "SpellHitTarget", "dd/d23/a27866.html#ad357b3497d36d6471460c09d3f01ab3e", null ],
+    [ "_zapCount", "dd/d23/a27866.html#aa9f17362d0e4dbcf275a5148a4c2392b", null ]
 ];

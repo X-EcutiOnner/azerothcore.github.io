@@ -1,15 +1,13 @@
 var a23350 =
 [
-    [ "instance_the_slave_pens_InstanceMapScript", "d5/dd0/a23350.html#a70db3eeeb55784250a13032728220005", null ],
-    [ "GetGuidData", "d5/dd0/a23350.html#a77e77209e779b774608f739b258ae419", null ],
-    [ "OnCreatureCreate", "d5/dd0/a23350.html#aca6b8148602b8fb95c9a467dc9400b8b", null ],
-    [ "SetGuidData", "d5/dd0/a23350.html#a21a29973bcf5ef6925239213ce50bab0", null ],
-    [ "AhuneBunnyGUID", "d5/dd0/a23350.html#ad57cefe116f2da6e7c85f36091fe0e94", null ],
-    [ "AhuneGUID", "d5/dd0/a23350.html#a8ad4dab281db87bb2d14b925b450f09c", null ],
-    [ "BeamBunnyGUIDs", "d5/dd0/a23350.html#a09e3d1ca5d040268578fa770b7153a81", null ],
-    [ "BonfireBunnyGUIDs", "d5/dd0/a23350.html#a9de605ffd8092f83af8df5c1725c5d2b", null ],
-    [ "counter", "d5/dd0/a23350.html#a4ea85debc35e91668723222e8ea90071", null ],
-    [ "FlameCallerGUIDs", "d5/dd0/a23350.html#a50af0f1eaaa4e40d729e797212cf3ba0", null ],
-    [ "FrozenCoreGUID", "d5/dd0/a23350.html#a6ac47d1f3eb4d199afdda9ad2a2cc73e", null ],
-    [ "LumaGUID", "d5/dd0/a23350.html#a0e9e294b4140dc8b8a5567a54d7b0c42", null ]
+    [ "npc_inner_demon", "d5/dd0/a23350.html#a12063a0125e0e9b5ba5a73f669bfcd84", null ],
+    [ "CanAIAttack", "d5/dd0/a23350.html#a7498fd32b0ace832b38dc624d07478ed", null ],
+    [ "CanBeSeen", "d5/dd0/a23350.html#a5e61d5fc45bf95efaa06f81df58b5fab", null ],
+    [ "CanReceiveDamage", "d5/dd0/a23350.html#a7b0bc55f8dfbba2dc3a3b7d314083bc2", null ],
+    [ "IsSummonedBy", "d5/dd0/a23350.html#a5ed405dd9315cb255d14d3e5f808dc9d", null ],
+    [ "JustDied", "d5/dd0/a23350.html#a15ab3cd6576055ec7ba29a5ed44e73db", null ],
+    [ "OnCalculateMeleeDamageReceived", "d5/dd0/a23350.html#ae95022548b44b23ef93fae24729b5af5", null ],
+    [ "OnCalculatePeriodicTickReceived", "d5/dd0/a23350.html#a546281a2257d0407d294fba1f7d3426f", null ],
+    [ "OnCalculateSpellDamageReceived", "d5/dd0/a23350.html#aa40ee81a4456e1a1f7254d2169f50e88", null ],
+    [ "UpdateAI", "d5/dd0/a23350.html#a977a76b54c4eae6461559d7b15cfc4b2", null ]
 ];

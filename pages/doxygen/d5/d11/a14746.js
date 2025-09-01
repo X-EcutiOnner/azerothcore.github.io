@@ -1,7 +1,6 @@
 var a14746 =
 [
-    [ "OnRemove", "d5/d11/a14746.html#a98bf88bd917b441d2ad81716dcd38ec1", null ],
-    [ "PrepareAuraScript", "d5/d11/a14746.html#ab082adc51983f124d0467cbff63cffb7", null ],
-    [ "Register", "d5/d11/a14746.html#a2feb8adaad212ee29d9ec6d9957575a4", null ],
-    [ "Validate", "d5/d11/a14746.html#a73421b82f483e73314dbb862fb0a11c7", null ]
+    [ "HandleScriptEffect", "d5/d11/a14746.html#a2acaaf3716237f147429cb07779ae49e", null ],
+    [ "PrepareSpellScript", "d5/d11/a14746.html#a55df717ede47b17a32ae33ecd64617cd", null ],
+    [ "Register", "d5/d11/a14746.html#ac515af62f7e42cafecc4afdf7ba15ddf", null ]
 ];

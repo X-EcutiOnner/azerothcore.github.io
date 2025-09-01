@@ -1,8 +1,6 @@
 var a14122 =
 [
-    [ "boss_venoxis", "d4/da7/a14122.html#a3e91a9022163a726cbc077d38459a5f5", null ],
-    [ "InitializeAI", "d4/da7/a14122.html#a1373b5fc673fce6aea1de40d970ac00d", null ],
-    [ "JustDied", "d4/da7/a14122.html#a63ccc5a9520ee30b0ebaf8c4d31e59b8", null ],
-    [ "JustEngagedWith", "d4/da7/a14122.html#afaa68ffbd5fecae48a044009326bcaed", null ],
-    [ "Reset", "d4/da7/a14122.html#a40cbcd4d41ff85ff71d5d913d8e62368", null ]
+    [ "OnEffect", "d4/da7/a14122.html#a50c7e1c65315b5d46749b335e85e15e4", null ],
+    [ "PrepareSpellScript", "d4/da7/a14122.html#ab99c723bb71c5fdd844898eaf21cc520", null ],
+    [ "Register", "d4/da7/a14122.html#a892faa83f748d36c9c8638a12ac7f2aa", null ]
 ];

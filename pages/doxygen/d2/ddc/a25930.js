@@ -1,5 +1,8 @@
 var a25930 =
 [
-    [ "PrepareSpellScript", "d2/ddc/a25930.html#ad7b3235062959af1f28bb6c7b2f929c3", null ],
-    [ "Register", "d2/ddc/a25930.html#ae35dad0d33ee0dd571a8f5fcccd2ce58", null ]
+    [ "HandleDummy", "d2/ddc/a25930.html#a3db6982f1162ac6b03771a0e7e432e6d", null ],
+    [ "Load", "d2/ddc/a25930.html#a9671be7920dfd3bde2033f0ae43259b0", null ],
+    [ "PrepareSpellScript", "d2/ddc/a25930.html#ad50c9141d40b7089fd24a8657d496a8d", null ],
+    [ "Register", "d2/ddc/a25930.html#a249a857b1cf5b0c3be6018cb233c75d1", null ],
+    [ "Validate", "d2/ddc/a25930.html#ac209048bd5688417c391c2c9b8a72d8b", null ]
 ];

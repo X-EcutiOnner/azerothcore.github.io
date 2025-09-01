@@ -1,6 +1,9 @@
 var a10870 =
 [
-    [ "DismissCritter", "d8/d8c/a10870.html#a87e35583063b340f014d21cd02c54cab", null ],
-    [ "Read", "d8/d8c/a10870.html#a411b65505e8a332ecf9291a670dc38c4", null ],
-    [ "CritterGUID", "d8/d8c/a10870.html#a89c071e81c9d39c099c32c4976f15304", null ]
+    [ "LevelUpInfo", "d8/d8c/a10870.html#ae856bb717d6ae4b03775b7bfb026850d", null ],
+    [ "Write", "d8/d8c/a10870.html#af09dd1c6470516ea9422d22ed22e6d10", null ],
+    [ "HealthDelta", "d8/d8c/a10870.html#ab654fc42947c0c783d3a26e6df32b29d", null ],
+    [ "Level", "d8/d8c/a10870.html#a1765f693918fdd1f51d7b8dc7b2494a2", null ],
+    [ "PowerDelta", "d8/d8c/a10870.html#a697da64ac234c24fe73e68d408697ee6", null ],
+    [ "StatDelta", "d8/d8c/a10870.html#a580e4a3cd77631e960b7753542375d6d", null ]
 ];

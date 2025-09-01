@@ -1,6 +1,7 @@
 var a15770 =
 [
-    [ "go_troll_cageAI", "d5/d81/a15774.html", "d5/d81/a15774" ],
-    [ "go_troll_cage", "d8/d3c/a15770.html#ac571df719edabd9e9ecf5c8bb0e153c2", null ],
-    [ "GetAI", "d8/d3c/a15770.html#a807f526225dc9a6b27ac64a7f4a3d9b8", null ]
+    [ "npc_kaya_flathoofAI", "d8/d3c/a15770.html#a3b43992dfeeb7b3b19e777b9629c55ce", null ],
+    [ "JustSummoned", "d8/d3c/a15770.html#ac365753a428009f4fc4d01ead8fe46fd", null ],
+    [ "Reset", "d8/d3c/a15770.html#af9be00be9867622a16103bd21311327f", null ],
+    [ "WaypointReached", "d8/d3c/a15770.html#a8fcbb19279b925138ba96d2a450fc404", null ]
 ];

@@ -1,7 +1,7 @@
 var a26014 =
 [
-    [ "CalculateAmount", "db/dc9/a26014.html#a0934aa8eaf442314aa6050d85304c15b", null ],
-    [ "CalculateSpellAmount", "db/dc9/a26014.html#ab765b87350bd3e73ac43879abef72d98", null ],
-    [ "PrepareAuraScript", "db/dc9/a26014.html#a627c6a88ed6ce051b0d6a06d94288498", null ],
-    [ "Register", "db/dc9/a26014.html#ae1b5265f817f1f4ec011d4e2607686eb", null ]
+    [ "HandleDummy", "db/dc9/a26014.html#addfcb17cbbb56bda88997b34ce3e3ddd", null ],
+    [ "PrepareSpellScript", "db/dc9/a26014.html#a22614b06c6f1853f02a992dcab027a60", null ],
+    [ "Register", "db/dc9/a26014.html#a9ad5691f6049078c45052d07513b35a2", null ],
+    [ "Validate", "db/dc9/a26014.html#a3fab2057be5de9e2f7703b8f43a99ed5", null ]
 ];

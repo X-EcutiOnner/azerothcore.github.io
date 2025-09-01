@@ -1,6 +1,6 @@
 var a15086 =
 [
-    [ "FilterTargets", "dc/d2f/a15086.html#a8fa6932a6cf291d8ab40140b171e1c17", null ],
-    [ "PrepareSpellScript", "dc/d2f/a15086.html#a5e93e2cb92db31be03703ab2e5d082cd", null ],
-    [ "Register", "dc/d2f/a15086.html#a0e3a6fd6f3de3d81f535d67451568c45", null ]
+    [ "instance_razorfen_downs_InstanceMapScript", "d3/d23/a15090.html", "d3/d23/a15090" ],
+    [ "instance_razorfen_downs", "dc/d2f/a15086.html#a317e5e4ce45fd88c657b8032b377ffb7", null ],
+    [ "GetInstanceScript", "dc/d2f/a15086.html#a5010fc2704c3c699e39bf969f6f6ce2c", null ]
 ];

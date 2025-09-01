@@ -1,6 +1,6 @@
 var a21770 =
 [
-    [ "npc_injured_7th_legion_soldierAI", "da/df4/a21770.html#a6929ef42a003f1337d71f9b23fa37c6e", null ],
-    [ "MovementInform", "da/df4/a21770.html#a999bc868db485578fcc70ae7e056b778", null ],
-    [ "Reset", "da/df4/a21770.html#a3021c037acdb141fc3ca4d6f3b146bbf", null ]
+    [ "npc_warmage_coldarraAI", "db/d3e/a21774.html", "db/d3e/a21774" ],
+    [ "npc_warmage_coldarra", "da/df4/a21770.html#a358f8ab26991798ff076ac764cd7abe2", null ],
+    [ "GetAI", "da/df4/a21770.html#aa29181e0ad61b44eff685267f3231382", null ]
 ];

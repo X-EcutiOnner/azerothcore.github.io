@@ -1,6 +1,6 @@
 var a26062 =
 [
-    [ "HandleRemove", "d1/dfd/a26062.html#a491765056e8c4d97d9cdaaea9d11a0af", null ],
-    [ "PrepareAuraScript", "d1/dfd/a26062.html#abe5d45b960fda879f48e3e98db9ad4ac", null ],
-    [ "Register", "d1/dfd/a26062.html#ab00f3119d6c1bd1ad185374144f2987e", null ]
+    [ "CheckCast", "d1/dfd/a26062.html#a14bd28450fb989b1deb1854e2118cb6b", null ],
+    [ "PrepareSpellScript", "d1/dfd/a26062.html#a2a53af0cc911e1a68b365d692df1f0af", null ],
+    [ "Register", "d1/dfd/a26062.html#a67c43c4dabfb72ca54c160228b4b21c0", null ]
 ];

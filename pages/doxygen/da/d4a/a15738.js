@@ -1,5 +1,6 @@
 var a15738 =
 [
-    [ "go_elune_fire", "da/d4a/a15738.html#a84d1b8e5a10e57cf717e10e413cb6027", null ],
-    [ "OnGossipHello", "da/d4a/a15738.html#a31e3cad89090bb7d2933e8758dbb56c4", null ]
+    [ "npc_anachronos_quest_triggerAI", "d2/dd6/a15742.html", "d2/dd6/a15742" ],
+    [ "npc_anachronos_quest_trigger", "da/d4a/a15738.html#ad39871952acd3152b51820fe360f4ebd", null ],
+    [ "GetAI", "da/d4a/a15738.html#a2e0e6a69ed1cbed76db9c4bd64d51330", null ]
 ];

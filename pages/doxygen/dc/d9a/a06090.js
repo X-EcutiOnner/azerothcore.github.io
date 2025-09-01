@@ -1,8 +1,9 @@
 var a06090 =
 [
-    [ "GuardAI", "dc/d9a/a06090.html#ac1f0ba47d8e32c65845808170330b7af", null ],
-    [ "EnterEvadeMode", "dc/d9a/a06090.html#af021cc31298d4a0f38a7d82ac8e02e30", null ],
-    [ "JustDied", "dc/d9a/a06090.html#a96820cdcb632d3a71f9deacf4998a774", null ],
-    [ "Permissible", "dc/d9a/a06090.html#a238f38bd3fc7cfa8ace3549f4a6199fb", null ],
-    [ "Reset", "dc/d9a/a06090.html#a91b12b6a50641d17a79550b9ffb5284a", null ]
+    [ "CasterAI", "dc/d9a/a06090.html#ad91d5c64cbc4d56d9a84aaeb2f64b35e", null ],
+    [ "AttackStart", "dc/d9a/a06090.html#a28386fd1a275c002445e5eaf90314a3d", null ],
+    [ "InitializeAI", "dc/d9a/a06090.html#a2a24cdc24b665c52363dae587572fc4d", null ],
+    [ "JustEngagedWith", "dc/d9a/a06090.html#ad436decd8b3da4323cf3fdb4a9e5a849", null ],
+    [ "UpdateAI", "dc/d9a/a06090.html#a0fa50ac9bd99ff0c2c7e78f03a737090", null ],
+    [ "m_attackDist", "dc/d9a/a06090.html#a561dbc6713a8ec58ef6b23ae4d04d81b", null ]
 ];

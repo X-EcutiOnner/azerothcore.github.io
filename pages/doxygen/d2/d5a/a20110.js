@@ -1,5 +1,6 @@
 var a20110 =
 [
-    [ "achievement_freya_getting_back_to_nature", "d2/d5a/a20110.html#aa4078b573a9335fc52c9b9609590b12f", null ],
-    [ "OnCheck", "d2/d5a/a20110.html#a850a32450379284784f019a5eb5ff0ff", null ]
+    [ "npc_storm_beacon_spawnAI", "d5/d32/a20114.html", "d5/d32/a20114" ],
+    [ "npc_storm_beacon_spawn", "d2/d5a/a20110.html#a0316646f43fd0ed6fe4576bf691116a0", null ],
+    [ "GetAI", "d2/d5a/a20110.html#a780dd823962e259dbeda7089224aa23e", null ]
 ];

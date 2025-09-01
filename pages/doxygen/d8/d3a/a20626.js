@@ -1,6 +1,8 @@
 var a20626 =
 [
-    [ "boss_thorim_trapAI", "d4/dbd/a20630.html", "d4/dbd/a20630" ],
-    [ "boss_thorim_trap", "d8/d3a/a20626.html#af529112badd88f9ebe4cec216d9edaeb", null ],
-    [ "GetAI", "d8/d3a/a20626.html#afd4ee85d73354b790c0d55abbfad75fd", null ]
+    [ "npc_ulduar_mimiron_rocketAI", "d8/d3a/a20626.html#ad758070aaeadc4d7b2b7ff4108b76c89", null ],
+    [ "InitializeAI", "d8/d3a/a20626.html#aba3bf48434dca79f56f4b9aac707d48c", null ],
+    [ "Reset", "d8/d3a/a20626.html#a60fbcbae9205bfd1c63b5bef7924b3ee", null ],
+    [ "SetData", "d8/d3a/a20626.html#a8e547ba872c9bc2ec95ae2f60b011fce", null ],
+    [ "UpdateAI", "d8/d3a/a20626.html#a28106e303d5e7c1bce9ceaa571129dca", null ]
 ];

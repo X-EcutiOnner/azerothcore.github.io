@@ -1,6 +1,5 @@
 var a27266 =
 [
-    [ "go_darkmoon_faire_musicAI", "de/d4f/a27270.html", "de/d4f/a27270" ],
-    [ "go_darkmoon_faire_music", "da/dab/a27266.html#ab8dd92213e1c2815ff9498267b09b5f2", null ],
-    [ "GetAI", "da/dab/a27266.html#a03be3eddefe4eeba8a0af8ee02bf2839", null ]
+    [ "AreaTrigger_at_sentry_point", "da/dab/a27266.html#a9c27f669aba3be1a83fdd1c99a8af4cf", null ],
+    [ "OnTrigger", "da/dab/a27266.html#ab59fb74f4f988c208359855d2e4d9918", null ]
 ];

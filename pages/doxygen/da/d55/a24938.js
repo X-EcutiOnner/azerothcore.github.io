@@ -1,6 +1,6 @@
 var a24938 =
 [
-    [ "HandleDummy", "da/d55/a24938.html#a80ab847f2528060b2e3e2e128cfc06af", null ],
-    [ "PrepareSpellScript", "da/d55/a24938.html#af310c2b28ed816b9fbe494f81c42043c", null ],
-    [ "Register", "da/d55/a24938.html#ae5e494ca801b35520bddb4a8a148efcd", null ]
+    [ "OnHit", "da/d55/a24938.html#a56ecd2ea05f48b874b2890d7f15cc362", null ],
+    [ "PrepareSpellScript", "da/d55/a24938.html#a0d74ce7c43f0cb7329ca990f1b0eecdf", null ],
+    [ "Register", "da/d55/a24938.html#a7cd2cc858eeb7805a3efb72b081c284e", null ]
 ];

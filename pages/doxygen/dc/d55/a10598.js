@@ -1,8 +1,6 @@
 var a10598 =
 [
-    [ "GuildEvent", "dc/d55/a10598.html#a78be16122c01d4c68d67e050ede92006", null ],
-    [ "Write", "dc/d55/a10598.html#a4ae1c0daaec964981ad982b97c1b0408", null ],
-    [ "Guid", "dc/d55/a10598.html#a35bcac3da7db22a22b4e8dba21ae1d0a", null ],
-    [ "Params", "dc/d55/a10598.html#a8f0faa70581ca04c26f87ebcd25cee80", null ],
-    [ "Type", "dc/d55/a10598.html#a961ae90991fa23bfc94a054dba357392", null ]
+    [ "GuildUpdateMotdText", "dc/d55/a10598.html#ab3b248450b0dcdde6b51e381e910b15d", null ],
+    [ "Read", "dc/d55/a10598.html#a55cfd6f4797e61ca01ee7aa5c65d9a69", null ],
+    [ "MotdText", "dc/d55/a10598.html#a5b2ee458a919be7f912d49cf984490ac", null ]
 ];

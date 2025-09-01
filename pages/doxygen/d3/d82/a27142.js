@@ -1,6 +1,7 @@
 var a27142 =
 [
-    [ "boss_emerissAI", "d6/dee/a27146.html", "d6/dee/a27146" ],
-    [ "boss_emeriss", "d3/d82/a27142.html#a2d373e5add3f007cf214ad9763039aa2", null ],
-    [ "GetAI", "d3/d82/a27142.html#a88a0696a12f12e612cce53c14f6b1f92", null ]
+    [ "HandleScript", "d3/d82/a27142.html#ab3f88b7443eb4f32339c3b687431fda2", null ],
+    [ "PrepareSpellScript", "d3/d82/a27142.html#ab363d596d2d1e030f0cc07126b40e921", null ],
+    [ "Register", "d3/d82/a27142.html#ab9041b811e80e220828d5db59b724682", null ],
+    [ "Validate", "d3/d82/a27142.html#a1b9a4c78a43cf406f1db75c518a343ea", null ]
 ];

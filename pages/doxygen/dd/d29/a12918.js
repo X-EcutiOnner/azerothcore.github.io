@@ -1,7 +1,7 @@
 var a12918 =
 [
-    [ "npc_unworthy_initiate_anchorAI", "dd/d29/a12918.html#a2d1a90c4f3c5047a41c7e9f80db13a99", null ],
-    [ "GetGUID", "dd/d29/a12918.html#a83cca82e7d75231a6aa586f67dad766e", null ],
-    [ "SetGUID", "dd/d29/a12918.html#a3d2ccbeeddc28002a4eb2392a62ba031", null ],
-    [ "prisonerGUID", "dd/d29/a12918.html#a38a3e7e7207bb6d809d03c90e67f7742", null ]
+    [ "PeriodicTick", "dd/d29/a12918.html#a267d6df2c08039581fd1c008ffc14b8c", null ],
+    [ "PrepareAuraScript", "dd/d29/a12918.html#ab75f10a475a4302897cbb90a3adb5b03", null ],
+    [ "Register", "dd/d29/a12918.html#a2681d44b149e9f1d797df4147e20e686", null ],
+    [ "Validate", "dd/d29/a12918.html#a9a5f11a3024a14911b478cdf59a7abb9", null ]
 ];

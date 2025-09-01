@@ -1,7 +1,6 @@
 var a23330 =
 [
-    [ "HandleScriptEffect", "d4/ddf/a23330.html#ace1bb0dd5a76aa75038060af16b2e09f", null ],
-    [ "PrepareSpellScript", "d4/ddf/a23330.html#ab3f6d24643b75482d5f96779a5bdda11", null ],
-    [ "Register", "d4/ddf/a23330.html#a14772c25b70078c0034b8de17de5b77a", null ],
-    [ "Validate", "d4/ddf/a23330.html#a8318385367bf6c6b09e0978c461f5d59", null ]
+    [ "HandleScriptEffect", "d4/ddf/a23330.html#a6489e3a58421da7c448a24d6673564c5", null ],
+    [ "PrepareSpellScript", "d4/ddf/a23330.html#a5afd50fdc8393a12cd39a56c342f9179", null ],
+    [ "Register", "d4/ddf/a23330.html#a274d65aa393a65e19bbb67a5d07c7428", null ]
 ];

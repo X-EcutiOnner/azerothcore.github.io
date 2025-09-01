@@ -1,7 +1,10 @@
 var a23894 =
 [
-    [ "boss_gatewatcher_gyrokill", "d9/dd6/a23894.html#a82335081dd79f7a0aa1dc0c26bd878fb", null ],
-    [ "JustDied", "d9/dd6/a23894.html#a4bbfb59c2a687ebb3e88bde9784af38e", null ],
-    [ "JustEngagedWith", "d9/dd6/a23894.html#a95d3ae80f87be9d972ecb056e0b85412", null ],
-    [ "KilledUnit", "d9/dd6/a23894.html#a274355d0303d9bf5761758f175826bd1", null ]
+    [ "instance_arcatraz_InstanceMapScript", "d9/dd6/a23894.html#a4c6594eb7fa1f7213c89ea5af6c70ae0", null ],
+    [ "GetGuidData", "d9/dd6/a23894.html#aa4bedf168359eaf5332476a6de99c830", null ],
+    [ "OnGameObjectCreate", "d9/dd6/a23894.html#ad8c84d90b85db5717b6a37fc2343e0aa", null ],
+    [ "SetBossState", "d9/dd6/a23894.html#a2937e4ea47af542a476bd3399ecc7233", null ],
+    [ "SetData", "d9/dd6/a23894.html#aca09d4856d5c3e1831ea8753a50a3b71", null ],
+    [ "StasisPodGUIDs", "d9/dd6/a23894.html#a1fb9824baee2d8d83e030da307f21fc3", null ],
+    [ "WardensShieldGUID", "d9/dd6/a23894.html#a3cbff5742e05f6cf0544807bce64b1d0", null ]
 ];

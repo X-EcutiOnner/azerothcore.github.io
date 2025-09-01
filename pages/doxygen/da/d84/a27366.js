@@ -1,6 +1,5 @@
 var a27366 =
 [
-    [ "go_bellsAI", "df/d34/a27370.html", "df/d34/a27370" ],
-    [ "go_bells", "da/d84/a27366.html#a9f40a13aa1aaee28ebd1254d428c0519", null ],
-    [ "GetAI", "da/d84/a27366.html#a4f1272fb8856310d7924f8e7be1e39f8", null ]
+    [ "go_arena_ready_marker", "da/d84/a27366.html#a614ee8efff31d928a9f4547d60b6a6a6", null ],
+    [ "OnGossipHello", "da/d84/a27366.html#a9f51ead2b56d51427ff23be9688388d8", null ]
 ];

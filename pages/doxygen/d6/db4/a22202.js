@@ -1,6 +1,6 @@
 var a22202 =
 [
-    [ "npc_jungle_punch_targetAI", "df/da6/a22206.html", "df/da6/a22206" ],
-    [ "npc_jungle_punch_target", "d6/db4/a22202.html#a69220634d9d6b84e464cdc4e0cba91a7", null ],
-    [ "GetAI", "d6/db4/a22202.html#abb38ccb55abfe0f48f360469031c6902", null ]
+    [ "npc_razael_and_lyana", "d6/db4/a22202.html#aec7257a1136a3580e2b4542e032429d6", null ],
+    [ "OnGossipHello", "d6/db4/a22202.html#a9c9085db92853d5275c12e804a68b0fc", null ],
+    [ "OnGossipSelect", "d6/db4/a22202.html#a407d8344280e8e38efb3991fda1d52cd", null ]
 ];

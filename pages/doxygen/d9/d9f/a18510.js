@@ -1,6 +1,6 @@
 var a18510 =
 [
-    [ "npc_suppresserAI", "de/d76/a18514.html", "de/d76/a18514" ],
-    [ "npc_suppresser", "d9/d9f/a18510.html#a5db40aecba3c45281fe963c6b2bd8d1e", null ],
-    [ "GetAI", "d9/d9f/a18510.html#a48869515abbac1491337a93b987231da", null ]
+    [ "ModDestHeight", "d9/d9f/a18510.html#aafab48e58a2eb18c286f71fa907e9bc8", null ],
+    [ "PrepareSpellScript", "d9/d9f/a18510.html#a3c84b7044f448a5596e18f72e7b2f11a", null ],
+    [ "Register", "d9/d9f/a18510.html#ad3900c969dfb05a61ebc750eb3425bc0", null ]
 ];

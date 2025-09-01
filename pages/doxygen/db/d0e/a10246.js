@@ -1,10 +1,10 @@
 var a10246 =
 [
-    [ "ArenaTeamScript", "db/d0e/a10246.html#ab86543c6ce76ff21e4306c799b99c896", null ],
-    [ "IsDatabaseBound", "db/d0e/a10246.html#a4d30f94084ae63eadd952c05b13f3ff4", null ],
-    [ "OnGetArenaPoints", "db/d0e/a10246.html#aa4b2d40921443cefee2775da6ca31b3e", null ],
-    [ "OnGetSlotByType", "db/d0e/a10246.html#a1ff67b327073bb8ebf10e7fddce92835", null ],
-    [ "OnQueueIdToArenaType", "db/d0e/a10246.html#a2a26e8c87c5fa7e85eb2f0517ced29e8", null ],
-    [ "OnSetArenaMaxPlayersPerTeam", "db/d0e/a10246.html#a776548946a09dcb3e76bd97f3c425e7f", null ],
-    [ "OnTypeIDToQueueID", "db/d0e/a10246.html#abcdd905b695f926e503db610d80ada3c", null ]
+    [ "AllItemScript", "db/d0e/a10246.html#a7c0e310c69966e0eab6f2951dedcda63", null ],
+    [ "CanItemExpire", "db/d0e/a10246.html#aa2a9c691b4ba5d06f65555a7092fffc3", null ],
+    [ "CanItemQuestAccept", "db/d0e/a10246.html#a545e2bc7436a064146025954eaf5ae92", null ],
+    [ "CanItemRemove", "db/d0e/a10246.html#ad29a7f5d07d56127bc00846e1a7fb067", null ],
+    [ "CanItemUse", "db/d0e/a10246.html#a89d237f426840658e4423fb9cc7428db", null ],
+    [ "OnItemGossipSelect", "db/d0e/a10246.html#a7157f72c6d09988b60480d1671892cde", null ],
+    [ "OnItemGossipSelectCode", "db/d0e/a10246.html#a9e13f025e5cf10bf51c87a4dc1e7968d", null ]
 ];

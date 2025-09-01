@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: OpenSSLCrypto Namespace Reference</title>
+<title>AzerothCore: Acore::Banner Namespace Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,78 +106,75 @@ $(document).ready(function(){initNavTree('da/d54/a04801.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">OpenSSLCrypto Namespace Reference</div></div>
+  <div class="headertitle"><div class="title">Acore::Banner Namespace Reference</div></div>
 </div><!--header-->
 <div class="contents">
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:ae2c343f2efc8fa69b50e1bd35bf410fd"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d4e/a04307.html#aae2dc50bce825b002235487401b252e8">AC_COMMON_API</a> void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d54/a04801.html#ae2c343f2efc8fa69b50e1bd35bf410fd">threadsSetup</a> ()</td></tr>
-<tr class="memdesc:ae2c343f2efc8fa69b50e1bd35bf410fd"><td class="mdescLeft">&#160;</td><td class="mdescRight">Needs to be called before threads using openssl are spawned.  <a href="../../da/d54/a04801.html#ae2c343f2efc8fa69b50e1bd35bf410fd">More...</a><br /></td></tr>
-<tr class="separator:ae2c343f2efc8fa69b50e1bd35bf410fd"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af868d9171650614810772c5675c47fd3"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d4e/a04307.html#aae2dc50bce825b002235487401b252e8">AC_COMMON_API</a> void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d54/a04801.html#af868d9171650614810772c5675c47fd3">threadsCleanup</a> ()</td></tr>
-<tr class="memdesc:af868d9171650614810772c5675c47fd3"><td class="mdescLeft">&#160;</td><td class="mdescRight">Needs to be called after threads using openssl are despawned.  <a href="../../da/d54/a04801.html#af868d9171650614810772c5675c47fd3">More...</a><br /></td></tr>
-<tr class="separator:af868d9171650614810772c5675c47fd3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af6170962feecf3d126a80593221a357d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#aae2dc50bce825b002235487401b252e8">AC_COMMON_API</a> void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d54/a04801.html#af6170962feecf3d126a80593221a357d">Show</a> (std::string_view applicationName, void(*log)(std::string_view text), void(*logExtraInfo)())</td></tr>
+<tr class="separator:af6170962feecf3d126a80593221a357d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p >A group of functions which setup openssl crypto module to work properly in multithreaded enviroment If not setup properly - it will crash </p>
-</div><h2 class="groupheader">Function Documentation</h2>
-<a id="af868d9171650614810772c5675c47fd3" name="af868d9171650614810772c5675c47fd3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af868d9171650614810772c5675c47fd3">&#9670;&#160;</a></span>threadsCleanup()</h2>
+<h2 class="groupheader">Function Documentation</h2>
+<a id="af6170962feecf3d126a80593221a357d" name="af6170962feecf3d126a80593221a357d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af6170962feecf3d126a80593221a357d">&#9670;&#160;</a></span>Show()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void OpenSSLCrypto::threadsCleanup </td>
+          <td class="memname">void Acore::Banner::Show </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
+          <td class="paramtype">std::string_view&#160;</td>
+          <td class="paramname"><em>applicationName</em>, </td>
         </tr>
-      </table>
-</div><div class="memdoc">
-
-<p>Needs to be called after threads using openssl are despawned. </p>
-<div class="fragment"><div class="line"><span class="lineno">   51</span>{</div>
-<div class="line"><span class="lineno">   52</span>    OSSL_PROVIDER_unload(<a class="code hl_variable" href="../../dd/d8c/a04508.html#a81b4206923925a193dca5c3acd946bc2">LegacyProvider</a>);</div>
-<div class="line"><span class="lineno">   53</span>    OSSL_PROVIDER_unload(<a class="code hl_variable" href="../../dd/d8c/a04508.html#ab217c6bb86b0f962ea820f3ffe079708">DefaultProvider</a>);</div>
-<div class="line"><span class="lineno">   54</span>    OSSL_PROVIDER_set_default_search_path(<span class="keyword">nullptr</span>, <span class="keyword">nullptr</span>);</div>
-<div class="line"><span class="lineno">   55</span>}</div>
-<div class="ttc" id="aa04508_html_a81b4206923925a193dca5c3acd946bc2"><div class="ttname"><a href="../../dd/d8c/a04508.html#a81b4206923925a193dca5c3acd946bc2">LegacyProvider</a></div><div class="ttdeci">OSSL_PROVIDER * LegacyProvider</div><div class="ttdef"><b>Definition:</b> OpenSSLCrypto.cpp:22</div></div>
-<div class="ttc" id="aa04508_html_ab217c6bb86b0f962ea820f3ffe079708"><div class="ttname"><a href="../../dd/d8c/a04508.html#ab217c6bb86b0f962ea820f3ffe079708">DefaultProvider</a></div><div class="ttdeci">OSSL_PROVIDER * DefaultProvider</div><div class="ttdef"><b>Definition:</b> OpenSSLCrypto.cpp:23</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00023">DefaultProvider</a>, and <a class="el" href="../../#l00022">LegacyProvider</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00069">main()</a>.</p>
-
-</div>
-</div>
-<a id="ae2c343f2efc8fa69b50e1bd35bf410fd" name="ae2c343f2efc8fa69b50e1bd35bf410fd"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae2c343f2efc8fa69b50e1bd35bf410fd">&#9670;&#160;</a></span>threadsSetup()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
         <tr>
-          <td class="memname">void OpenSSLCrypto::threadsSetup </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
+          <td class="paramkey"></td>
           <td></td>
+          <td class="paramtype">void(*)(std::string_view text)&#160;</td>
+          <td class="paramname"><em>log</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">void(*)()&#160;</td>
+          <td class="paramname"><em>logExtraInfo</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-
-<p>Needs to be called before threads using openssl are spawned. </p>
-<div class="fragment"><div class="line"><span class="lineno">   42</span>{</div>
-<div class="line"><span class="lineno">   43</span><span class="preprocessor">#if AC_PLATFORM == AC_PLATFORM_WINDOWS</span></div>
-<div class="line"><span class="lineno">   44</span>    <a class="code hl_function" href="../../dd/d8c/a04508.html#ab801d0877d7ea0652bb6f94fb17842e4">SetupLibrariesForWindows</a>();</div>
-<div class="line"><span class="lineno">   45</span><span class="preprocessor">#endif</span></div>
-<div class="line"><span class="lineno">   46</span>    <a class="code hl_variable" href="../../dd/d8c/a04508.html#a81b4206923925a193dca5c3acd946bc2">LegacyProvider</a> = OSSL_PROVIDER_load(<span class="keyword">nullptr</span>, <span class="stringliteral">&quot;legacy&quot;</span>);</div>
-<div class="line"><span class="lineno">   47</span>    <a class="code hl_variable" href="../../dd/d8c/a04508.html#ab217c6bb86b0f962ea820f3ffe079708">DefaultProvider</a> = OSSL_PROVIDER_load(<span class="keyword">nullptr</span>, <span class="stringliteral">&quot;default&quot;</span>);</div>
-<div class="line"><span class="lineno">   48</span>}</div>
-<div class="ttc" id="aa04508_html_ab801d0877d7ea0652bb6f94fb17842e4"><div class="ttname"><a href="../../dd/d8c/a04508.html#ab801d0877d7ea0652bb6f94fb17842e4">SetupLibrariesForWindows</a></div><div class="ttdeci">void SetupLibrariesForWindows()</div><div class="ttdef"><b>Definition:</b> OpenSSLCrypto.cpp:29</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   23</span>{</div>
+<div class="line"><span class="lineno">   24</span>    log(<a class="code hl_function" href="../../d3/d7d/a04797.html#a868406b9609960d4ae0189588c8cbbf4">Acore::StringFormat</a>(<span class="stringliteral">&quot;{} ({})&quot;</span>, <a class="code hl_function" href="../../d0/d05/a04813.html#ad68b75fc60314941c3cbade8eafcda23">GitRevision::GetFullVersion</a>(), applicationName));</div>
+<div class="line"><span class="lineno">   25</span>    log(<span class="stringliteral">&quot;&lt;Ctrl-C&gt; to stop.\n&quot;</span>);</div>
+<div class="line"><span class="lineno">   26</span>    log(<span class="stringliteral">&quot;   █████╗ ███████╗███████╗██████╗  ██████╗ ████████╗██╗  ██╗&quot;</span>);</div>
+<div class="line"><span class="lineno">   27</span>    log(<span class="stringliteral">&quot;  ██╔══██╗╚══███╔╝██╔════╝██╔══██╗██╔═══██╗╚══██╔══╝██║  ██║&quot;</span>);</div>
+<div class="line"><span class="lineno">   28</span>    log(<span class="stringliteral">&quot;  ███████║  ███╔╝ █████╗  ██████╔╝██║   ██║   ██║   ███████║&quot;</span>);</div>
+<div class="line"><span class="lineno">   29</span>    log(<span class="stringliteral">&quot;  ██╔══██║ ███╔╝  ██╔══╝  ██╔══██╗██║   ██║   ██║   ██╔══██║&quot;</span>);</div>
+<div class="line"><span class="lineno">   30</span>    log(<span class="stringliteral">&quot;  ██║  ██║███████╗███████╗██║  ██║╚██████╔╝   ██║   ██║  ██║&quot;</span>);</div>
+<div class="line"><span class="lineno">   31</span>    log(<span class="stringliteral">&quot;  ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝ ╚═════╝    ╚═╝   ╚═╝  ╚═╝&quot;</span>);</div>
+<div class="line"><span class="lineno">   32</span>    log(<span class="stringliteral">&quot;                                 ██████╗ ██████╗ ██████╗ ███████╗&quot;</span>);</div>
+<div class="line"><span class="lineno">   33</span>    log(<span class="stringliteral">&quot;                                ██╔════╝██╔═══██╗██╔══██╗██╔════╝&quot;</span>);</div>
+<div class="line"><span class="lineno">   34</span>    log(<span class="stringliteral">&quot;                                ██║     ██║   ██║██████╔╝█████╗&quot;</span>);</div>
+<div class="line"><span class="lineno">   35</span>    log(<span class="stringliteral">&quot;                                ██║     ██║   ██║██╔══██╗██╔══╝&quot;</span>);</div>
+<div class="line"><span class="lineno">   36</span>    log(<span class="stringliteral">&quot;                                ╚██████╗╚██████╔╝██║  ██║███████╗&quot;</span>);</div>
+<div class="line"><span class="lineno">   37</span>    log(<span class="stringliteral">&quot;                                 ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝\n&quot;</span>);</div>
+<div class="line"><span class="lineno">   38</span>    log(<span class="stringliteral">&quot;     AzerothCore 3.3.5a  -  www.azerothcore.org\n&quot;</span>);</div>
+<div class="line"><span class="lineno">   39</span> </div>
+<div class="line"><span class="lineno">   40</span>    <span class="keywordflow">if</span> (logExtraInfo)</div>
+<div class="line"><span class="lineno">   41</span>    {</div>
+<div class="line"><span class="lineno">   42</span>        logExtraInfo();</div>
+<div class="line"><span class="lineno">   43</span>    }</div>
+<div class="line"><span class="lineno">   44</span> </div>
+<div class="line"><span class="lineno">   45</span>    log(<span class="stringliteral">&quot; &quot;</span>);</div>
+<div class="line"><span class="lineno">   46</span>}</div>
+<div class="ttc" id="aa04797_html_a868406b9609960d4ae0189588c8cbbf4"><div class="ttname"><a href="../../d3/d7d/a04797.html#a868406b9609960d4ae0189588c8cbbf4">Acore::StringFormat</a></div><div class="ttdeci">std::string StringFormat(FormatString&lt; Args... &gt; fmt, Args &amp;&amp;... args)</div><div class="ttdoc">Default AC string format function.</div><div class="ttdef"><b>Definition:</b> StringFormat.h:34</div></div>
+<div class="ttc" id="aa04813_html_ad68b75fc60314941c3cbade8eafcda23"><div class="ttname"><a href="../../d0/d05/a04813.html#ad68b75fc60314941c3cbade8eafcda23">GitRevision::GetFullVersion</a></div><div class="ttdeci">AC_COMMON_API char const * GetFullVersion()</div><div class="ttdef"><b>Definition:</b> GitRevision.cpp:82</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00023">DefaultProvider</a>, <a class="el" href="../../#l00022">LegacyProvider</a>, and <a class="el" href="../../#l00029">SetupLibrariesForWindows()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00082">GitRevision::GetFullVersion()</a>, and <a class="el" href="../../#l00034">Acore::StringFormat()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00069">main()</a>.</p>
 
@@ -188,8 +185,8 @@ Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../da/d54/a04801.html">OpenSSLCrypto</a></li>
-    <li class="footer">Generated on Mon Aug 25 2025 20:47:37 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d3/d7d/a04797.html">Acore</a></li><li class="navelem"><a class="el" href="../../da/d54/a04801.html">Banner</a></li>
+    <li class="footer">Generated on Mon Sep 1 2025 20:44:46 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,6 +1,7 @@
 var a19254 =
 [
-    [ "npc_scion_of_eternityAI", "d1/d44/a19258.html", "d1/d44/a19258" ],
-    [ "npc_scion_of_eternity", "db/d57/a19254.html#ac1d66d65b5d4468b908443a64dc2de1c", null ],
-    [ "GetAI", "db/d57/a19254.html#a7c27a55f177fb9e31f73fa1cb227fa27", null ]
+    [ "HandleScript", "db/d57/a19254.html#a66db3976fe6ec7ee8712c5788ce5f3ec", null ],
+    [ "PrepareAuraScript", "db/d57/a19254.html#aa3053519be0101f55450d76b1291f0f7", null ],
+    [ "Register", "db/d57/a19254.html#ada596a7f19115c7178fd07fb9e956f58", null ],
+    [ "Validate", "db/d57/a19254.html#a768dec18bc0e879c457a64135ec27ad9", null ]
 ];

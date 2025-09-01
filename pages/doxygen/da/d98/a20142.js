@@ -1,8 +1,8 @@
 var a20142 =
 [
-    [ "OnApply", "da/d98/a20142.html#a101aab87e9f45ebab1cbe77ecca65c5a", null ],
-    [ "OnRemove", "da/d98/a20142.html#a4709f570f9014eb36bc8c65269470373", null ],
-    [ "PrepareAuraScript", "da/d98/a20142.html#a6ac96ce73f9983915a05686eb5d411e7", null ],
-    [ "Register", "da/d98/a20142.html#a7b4f44d86df652df78a10466bf64a2cf", null ],
-    [ "Validate", "da/d98/a20142.html#a3b98409fa1ed8d4e53e526686bc25987", null ]
+    [ "FilterTargets", "da/d98/a20142.html#a93b41db0e89710c6e0e3c764d51d37ad", null ],
+    [ "HandleScript", "da/d98/a20142.html#a0c7d9007a9401b96a3c1f8614dc1a2db", null ],
+    [ "PrepareSpellScript", "da/d98/a20142.html#aea46762f43b31923617f740e0545fe98", null ],
+    [ "Register", "da/d98/a20142.html#a6ccde780ea9fba273b96d6fd9558a2d1", null ],
+    [ "Validate", "da/d98/a20142.html#af526a7a7a82ec7621f8842e884d7b14f", null ]
 ];

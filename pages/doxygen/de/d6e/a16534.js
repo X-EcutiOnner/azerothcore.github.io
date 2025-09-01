@@ -1,10 +1,11 @@
 var a16534 =
 [
-    [ "npc_mistress_of_painAI", "de/d6e/a16534.html#ae5fd3c974a3f32540b2dee6b92cd4f7c", null ],
-    [ "EnterEvadeMode", "de/d6e/a16534.html#a31ea8955ad44ea2db0a5a208fd2efc61", null ],
-    [ "JustDied", "de/d6e/a16534.html#ae60f294f902a2f687446f7599d071e42", null ],
-    [ "Reset", "de/d6e/a16534.html#ab3c1c19817576cc4348fd2020a6aad14", null ],
-    [ "SpellHit", "de/d6e/a16534.html#a077843a7ead2034da695be816de42f9e", null ],
-    [ "UpdateAI", "de/d6e/a16534.html#a1976a80f37a0935926508f9ad6cc7bbb", null ],
-    [ "events", "de/d6e/a16534.html#a941ae1faab010551db6a8e6749993357", null ]
+    [ "npc_anubarak_spikeAI", "de/d6e/a16534.html#a1982ce33ce76e15d33bfcc222f5ad734", null ],
+    [ "DamageTaken", "de/d6e/a16534.html#a3b548e629d2c6217f21644136ca7ba4b", null ],
+    [ "DoAction", "de/d6e/a16534.html#ab583d97745ea69e95a1ecc0b68ac9878", null ],
+    [ "Reset", "de/d6e/a16534.html#af5b4a1227467d86d9dbba57362fdf360", null ],
+    [ "SelectNewTarget", "de/d6e/a16534.html#ab9ed5d53703464c488267f578a214fb8", null ],
+    [ "UpdateAI", "de/d6e/a16534.html#af8d6d840785c718d963c7b150cd12d9c", null ],
+    [ "events", "de/d6e/a16534.html#a52ff0006b5194edcb55f49e970a15ab8", null ],
+    [ "TargetGUID", "de/d6e/a16534.html#a2f7cbaf81e159035476ee9576a0e3990", null ]
 ];

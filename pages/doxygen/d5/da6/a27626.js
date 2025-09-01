@@ -1,6 +1,10 @@
 var a27626 =
 [
-    [ "npc_locksmith", "d5/da6/a27626.html#af959a6395ebc33109405f18f262e4ecb", null ],
-    [ "OnGossipHello", "d5/da6/a27626.html#aec977cf39f11a7bc2f13c2bde8e97351", null ],
-    [ "OnGossipSelect", "d5/da6/a27626.html#a62ec02e226255ff1f81895391a6494b8", null ]
+    [ "go_evil_book_for_dummies", "d5/da6/a27626.html#a69f599910bce0070c6b1af547c459b72", null ],
+    [ "HasLeatherSpecialty", "d5/da6/a27626.html#a3d755fa8777f33a318ffa6f004aecbed", null ],
+    [ "OnGossipHello", "d5/da6/a27626.html#aeb29351e2faf135298419488eb16cc7e", null ],
+    [ "OnGossipSelect", "d5/da6/a27626.html#ac4bc1c682b75c436a4d3fff118a20ca4", null ],
+    [ "SendActionMenu", "d5/da6/a27626.html#a0aa21b4619ea5cc8229eb56e09d3233d", null ],
+    [ "SendConfirmLearn", "d5/da6/a27626.html#a11a605c576a3c81b5ed96d413ec20f57", null ],
+    [ "SendConfirmUnlearn", "d5/da6/a27626.html#af9c10b0423327d8644020e8f5e26a603", null ]
 ];

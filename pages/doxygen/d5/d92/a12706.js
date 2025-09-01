@@ -1,14 +1,12 @@
 var a12706 =
 [
-    [ "boss_strawman", "d5/d92/a12706.html#a1789cdafc2ce03e156ac686e6859e25f", null ],
-    [ "DoAction", "d5/d92/a12706.html#a57f9519f87bc8e7446632a49f56a02ca", null ],
-    [ "EnterEvadeMode", "d5/d92/a12706.html#a67fd9b85406512cef4f3ae581461f0c4", null ],
-    [ "JustDied", "d5/d92/a12706.html#ab175b0104d316b8929e32d9eb939780f", null ],
-    [ "JustEngagedWith", "d5/d92/a12706.html#a40657516c4f1b049dd0514a50e299a10", null ],
-    [ "JustReachedHome", "d5/d92/a12706.html#a4235b2de2540199f9570cbadb7326871", null ],
-    [ "KilledUnit", "d5/d92/a12706.html#a06b92dbb6907ace60df7e10893be7af0", null ],
-    [ "SpellHit", "d5/d92/a12706.html#a5bf558765b59a7950bd55ece14c07a4f", null ],
-    [ "UpdateAI", "d5/d92/a12706.html#adcb7db7cb3f938b492a28c3540251ea9", null ],
-    [ "_scheduler", "d5/d92/a12706.html#a409539c771b373c165bdbccac8a59e7f", null ],
-    [ "instance", "d5/d92/a12706.html#a157a6faacf83432b8227173f6b14a7d3", null ]
+    [ "BoardCell", "d5/d92/a12706.html#a1ecd0d14c1b4896f70caaee83e1c864d", null ],
+    [ "Reset", "d5/d92/a12706.html#a22a71e9bd4a4dd9601aa0fffe978009c", null ],
+    [ "SetData", "d5/d92/a12706.html#a0e57e888290cbe15b5dafa9788c3f86b", null ],
+    [ "SetPiece", "d5/d92/a12706.html#ac919854a2e9d5fc2d1b68960e16cf79d", null ],
+    [ "col", "d5/d92/a12706.html#a49707efa5b356ad0dc6f6ff16a652430", null ],
+    [ "pieceEntry", "d5/d92/a12706.html#a7697506ccc800d38968e457c44bfa019", null ],
+    [ "pieceGUID", "d5/d92/a12706.html#a74f494e406c56d4c61d79539acea684c", null ],
+    [ "row", "d5/d92/a12706.html#a195c187e134be546f224cbb0eef8c844", null ],
+    [ "triggerGUID", "d5/d92/a12706.html#a9cafdea50739b014a97e60611adcd3f1", null ]
 ];

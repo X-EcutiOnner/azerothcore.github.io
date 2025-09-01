@@ -1,5 +1,6 @@
 var a24870 =
 [
-    [ "PrepareSpellScript", "d5/db1/a24870.html#a2d0e411f3b4a9efed35ee34c7bf03252", null ],
-    [ "Register", "d5/db1/a24870.html#a560ff22e718e8a975a2e2dc2340da917", null ]
+    [ "CalculateAmount", "d5/db1/a24870.html#a66fd870eff0f2a225630e26047d36225", null ],
+    [ "PrepareAuraScript", "d5/db1/a24870.html#afde8a1734c57e01094077af3d3bdf757", null ],
+    [ "Register", "d5/db1/a24870.html#a8e5b9dd71dfccb224e92784725f2a8a9", null ]
 ];

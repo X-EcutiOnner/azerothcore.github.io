@@ -1,6 +1,6 @@
 var a27126 =
 [
-    [ "boss_lethonAI", "dc/d22/a27130.html", "dc/d22/a27130" ],
-    [ "boss_lethon", "df/d42/a27126.html#a5d758979b061646830373de64b2b3af4", null ],
-    [ "GetAI", "df/d42/a27126.html#a493baf37aac400635dd0409e79375a1c", null ]
+    [ "CalculateAmount", "df/d42/a27126.html#a94b6fab25e8cb298650f2a1e2d0b4347", null ],
+    [ "PrepareAuraScript", "df/d42/a27126.html#a845476e27b3751fd5aab505d41d8696d", null ],
+    [ "Register", "df/d42/a27126.html#aa5141f11bcd97cc501297a5309df1079", null ]
 ];

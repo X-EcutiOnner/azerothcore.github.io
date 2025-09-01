@@ -1,11 +1,21 @@
 var a11766 =
 [
-    [ "spectator_commandscript", "df/d9a/a11766.html#a1bf79d739a6af02405bc268c9bb50c26", null ],
-    [ "GetCommands", "df/d9a/a11766.html#a3451bcda07b51a33fd8368cf00ac190f", null ],
-    [ "HandleSpectatorCommand", "df/d9a/a11766.html#aaf331e54c3c19b5d16d9d5f5c9d28721", null ],
-    [ "HandleSpectatorLeaveCommand", "df/d9a/a11766.html#a15e661891f4e08c3efa0bd844c3954aa", null ],
-    [ "HandleSpectatorResetCommand", "df/d9a/a11766.html#a23a1a3740609a6d0caa6e0f10c7e8653", null ],
-    [ "HandleSpectatorSpectateCommand", "df/d9a/a11766.html#ad1f117a77c0154fc25e937dfe21870a2", null ],
-    [ "HandleSpectatorVersionCommand", "df/d9a/a11766.html#aaf7c57603d263f7ab919f12d9680f058", null ],
-    [ "HandleSpectatorWatchCommand", "df/d9a/a11766.html#a1ee822e332374b375962d1ae87adbc61", null ]
+    [ "disable_commandscript", "df/d9a/a11766.html#ae49c0e3ad4aa3147194478180837c07e", null ],
+    [ "GetCommands", "df/d9a/a11766.html#a5c0400ab0321c2d181f6288fd828c56a", null ],
+    [ "HandleAddDisableAchievementCriteriaCommand", "df/d9a/a11766.html#a52376d1885f74d00589acb3443860df9", null ],
+    [ "HandleAddDisableBattlegroundCommand", "df/d9a/a11766.html#a8a03b1d32ebf568222d28723c48f8f78", null ],
+    [ "HandleAddDisableMapCommand", "df/d9a/a11766.html#aea64728b1a70aab3813190c4d5df3859", null ],
+    [ "HandleAddDisableOutdoorPvPCommand", "df/d9a/a11766.html#a3c0250b78258394e78fd918dc43f90a2", null ],
+    [ "HandleAddDisableQuestCommand", "df/d9a/a11766.html#a94537f796e64c68df4600041e2cc0da4", null ],
+    [ "HandleAddDisables", "df/d9a/a11766.html#aaa2d58ba9e21e868ecbdbdfac0b6ebdf", null ],
+    [ "HandleAddDisableSpellCommand", "df/d9a/a11766.html#a23ddab0c714a5adea49d14ecde36391b", null ],
+    [ "HandleAddDisableVmapCommand", "df/d9a/a11766.html#aa1df5e4cbc89182eb9e31b4fa9a5325f", null ],
+    [ "HandleRemoveDisableAchievementCriteriaCommand", "df/d9a/a11766.html#ac5088383c36894c7bd753ee99086e508", null ],
+    [ "HandleRemoveDisableBattlegroundCommand", "df/d9a/a11766.html#a9b67a979abb6cde08b4926606a35bf93", null ],
+    [ "HandleRemoveDisableMapCommand", "df/d9a/a11766.html#ab0d61b762d728c1a35e20cda3c347c55", null ],
+    [ "HandleRemoveDisableOutdoorPvPCommand", "df/d9a/a11766.html#a0dfe1ac5224935dd42c6a30daf6cc099", null ],
+    [ "HandleRemoveDisableQuestCommand", "df/d9a/a11766.html#a60e20d885194bbff5da3e824e05a35b2", null ],
+    [ "HandleRemoveDisables", "df/d9a/a11766.html#a529428b7674ca3446a441bdf65fab756", null ],
+    [ "HandleRemoveDisableSpellCommand", "df/d9a/a11766.html#aaa457682d8621801d457eb734673d745", null ],
+    [ "HandleRemoveDisableVmapCommand", "df/d9a/a11766.html#aae06939a2fc52aedce54a75db4b3c218", null ]
 ];

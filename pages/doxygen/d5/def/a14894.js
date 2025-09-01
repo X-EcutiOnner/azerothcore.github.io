@@ -1,7 +1,6 @@
 var a14894 =
 [
-    [ "npc_onyxian_lair_guard", "d5/def/a14894.html#ae72d86cddafd8829fc9edd479a01ab1d", null ],
-    [ "JustEngagedWith", "d5/def/a14894.html#a7b1d3bc68684202f9b4b95f6dc078be0", null ],
-    [ "UpdateAI", "d5/def/a14894.html#ac8649636d5847813e49d2ada05f78645", null ],
-    [ "events", "d5/def/a14894.html#a99acb2010853fcf9f7ac6f08143d06ed", null ]
+    [ "boss_mal_ganisAI", "dd/d26/a14898.html", "dd/d26/a14898" ],
+    [ "boss_mal_ganis", "d5/def/a14894.html#a604becb65e766f4fb71d2ae168d1be4e", null ],
+    [ "GetAI", "d5/def/a14894.html#aa747abd11310c3535ea2ea37e4aac28b", null ]
 ];

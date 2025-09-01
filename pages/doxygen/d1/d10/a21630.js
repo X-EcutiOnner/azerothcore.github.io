@@ -1,7 +1,9 @@
 var a21630 =
 [
-    [ "npc_thassarianAI", "d1/d10/a21630.html#a92e873dc3aa97f81919225ce75a5f894", null ],
-    [ "Reset", "d1/d10/a21630.html#a8611ef17700c739dbd5e7a70660f1379", null ],
-    [ "UpdateAI", "d1/d10/a21630.html#ad09a3a063d716bc43e23b5aad5e46a7b", null ],
-    [ "_events", "d1/d10/a21630.html#aaecb5a402e4ffca1e819303dbb94f5b5", null ]
+    [ "npc_azure_stalkerAI", "d1/d10/a21630.html#a1499e734f0d95d491bcd23c2e858a1ee", null ],
+    [ "Reset", "d1/d10/a21630.html#a9bd36e95ce7c3157a2ac53400da51d23", null ],
+    [ "UpdateAI", "d1/d10/a21630.html#a8c4ea046d69b269e886960ba9562fd0c", null ],
+    [ "TacticalBlinkCasted", "d1/d10/a21630.html#a875a272380251fcc7f98e5c0f84bb41a", null ],
+    [ "uiBackstabTimer", "d1/d10/a21630.html#ad03ba957706a62e3d8091d025ddd50dc", null ],
+    [ "uiTacticalBlinkTimer", "d1/d10/a21630.html#ab817fb9f2f06715f0a08a99e12693697", null ]
 ];

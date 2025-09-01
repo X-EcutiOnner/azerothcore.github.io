@@ -1,6 +1,6 @@
 var a17870 =
 [
-    [ "PrepareSpellScript", "df/d55/a17870.html#a16eadb50b6038f16ea28464d00df3381", null ],
-    [ "Register", "df/d55/a17870.html#ac6e304d391011863b8eff8105fab5191", null ],
-    [ "SelectDest", "df/d55/a17870.html#a8ff5d684c0b91d0f068d03698c1ee92c", null ]
+    [ "IgbArtilleryCheck", "df/d55/a17870.html#a78b65928551ed799cf3f446f0603c50e", null ],
+    [ "operator()", "df/d55/a17870.html#ac083bfb9a5fa2b9888c4e31254baada6", null ],
+    [ "_entry", "df/d55/a17870.html#a98a6a0836414da82c288e372e982f69f", null ]
 ];

@@ -1,6 +1,5 @@
 var a16782 =
 [
-    [ "boss_devourer_of_soulsAI", "df/dd2/a16786.html", "df/dd2/a16786" ],
-    [ "boss_devourer_of_souls", "d3/d62/a16782.html#a95b3a33be3b85a4c7ecfb4370a9ddc60", null ],
-    [ "GetAI", "d3/d62/a16782.html#a3de68fa630c5b74104c461f88edd1d36", null ]
+    [ "npc_essence_of_twin", "d3/d62/a16782.html#a019de64e5e01e611acfda5db4c279b19", null ],
+    [ "OnGossipHello", "d3/d62/a16782.html#a6f37b7f1152098b41b07ddbae3613c63", null ]
 ];

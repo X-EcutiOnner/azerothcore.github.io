@@ -1,7 +1,5 @@
 var a27566 =
 [
-    [ "npc_doctorAI", "d4/def/a27570.html", "d4/def/a27570" ],
-    [ "npc_doctor", "d0/d09/a27566.html#a8471bcd3e83b1a7a69de7bde00846698", null ],
-    [ "GetAI", "d0/d09/a27566.html#a3da4d53b2402ad7338eeb6ea463a62f6", null ],
-    [ "OnQuestAccept", "d0/d09/a27566.html#a990668aee39a9fa6ec90d0f6095ce48a", null ]
+    [ "item_only_for_flight", "d0/d09/a27566.html#a8f905266dc8f24cf35598a37e7018ff7", null ],
+    [ "OnUse", "d0/d09/a27566.html#a88cdf17a85630aef703f93143ba41d4d", null ]
 ];

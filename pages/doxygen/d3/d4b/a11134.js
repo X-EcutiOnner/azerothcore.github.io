@@ -1,7 +1,11 @@
 var a11134 =
 [
-    [ "WorldObjectSpellAreaTargetCheck", "d3/d4b/a11134.html#a2b017300220426ac42de18e3a8699219", null ],
-    [ "operator()", "d3/d4b/a11134.html#a36a7194e3ffbdc2ea1c4bd5ed5997da4", null ],
-    [ "_position", "d3/d4b/a11134.html#a680c45dd148161657da011a1772375ca", null ],
-    [ "_range", "d3/d4b/a11134.html#a4ee3762b4a7f35d252cbb5337d61d92c", null ]
+    [ "Player", "d3/d4b/a11134.html#a7f4241aa9ecc051c75f779af132a52ed", null ],
+    [ "WorldSession", "d3/d4b/a11134.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
+    [ "Face", "d3/d4b/a11134.html#a6334464eea38be514f3faa7538b39a5a", null ],
+    [ "FacialHair", "d3/d4b/a11134.html#a44643270b211d275eb94283842791407", null ],
+    [ "Gender", "d3/d4b/a11134.html#a14321ea3595debe2836eceab8a82f944", null ],
+    [ "HairColor", "d3/d4b/a11134.html#aeaa7ce4ecea7f42def63049424a2dd6b", null ],
+    [ "HairStyle", "d3/d4b/a11134.html#ade5b2dff213547ab4d707070f8979085", null ],
+    [ "Skin", "d3/d4b/a11134.html#a2876110e687e7248e8c64fcb3a3a80db", null ]
 ];

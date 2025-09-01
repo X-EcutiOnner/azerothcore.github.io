@@ -1,7 +1,7 @@
 var a10782 =
 [
-    [ "RandomRollClient", "d6/d2f/a10782.html#a6d2edee5a6dbafd5b6194b60eeb0aafb", null ],
-    [ "Read", "d6/d2f/a10782.html#ab682763f35a40f776b1742927df0a336", null ],
-    [ "Max", "d6/d2f/a10782.html#a45a1e140ed402f54deb4c0798360a43a", null ],
-    [ "Min", "d6/d2f/a10782.html#a3cd07e7891b43b453b56013d76f51f71", null ]
+    [ "SwapInventoryItem", "d6/d2f/a10782.html#a26e2887fe352de8a8c5d9d65ba598460", null ],
+    [ "Read", "d6/d2f/a10782.html#ae81c9c5566e1f7e1c8d6915f9620d5b4", null ],
+    [ "DestinationSlot", "d6/d2f/a10782.html#aaaca9b79b11d152cf1c4b273e8f47679", null ],
+    [ "SourceSlot", "d6/d2f/a10782.html#a59117b7ce21919acc55b3da079050dc3", null ]
 ];

@@ -1,7 +1,6 @@
 var a17894 =
 [
-    [ "HandleDummy", "dd/d34/a17894.html#aa61db53d7395fd45b8569e12978fed0b", null ],
-    [ "PrepareSpellScript", "dd/d34/a17894.html#ab63054debe6763027ab52ad122277719", null ],
-    [ "Register", "dd/d34/a17894.html#a6dee5fc9fafd7faa3eadbf9431568dcc", null ],
-    [ "Validate", "dd/d34/a17894.html#adb7e30d10c2071de5d5070b64a10af30", null ]
+    [ "CheckProc", "dd/d34/a17894.html#a86e62fa26606a77284c80583e7b35d27", null ],
+    [ "PrepareAuraScript", "dd/d34/a17894.html#a2c10a09e9e5015eb4f3c66d5086dbe1a", null ],
+    [ "Register", "dd/d34/a17894.html#a6214f78c5c7eb3f60371fa12530d5991", null ]
 ];

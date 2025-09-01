@@ -1,6 +1,6 @@
 var a19454 =
 [
-    [ "HandleDamageCalc", "d5/d10/a19454.html#a71b88fbad5acbba47028dd1ff82b4836", null ],
-    [ "PrepareSpellScript", "d5/d10/a19454.html#a754da297cd5801616e24bf2d802d0b38", null ],
-    [ "Register", "d5/d10/a19454.html#a231f29ea69a354ddb2963cb4ef9a3f4e", null ]
+    [ "npc_eoe_wyrmrest_skytalonAI", "d5/d10/a19454.html#a0878695bc4179e3b6e92dde9f2b5cf19", null ],
+    [ "JustDied", "d5/d10/a19454.html#aaa88ff236fd49a9c672ab29feb7377b8", null ],
+    [ "PassengerBoarded", "d5/d10/a19454.html#aa3352276e87d805cc8722eb97d10ca46", null ]
 ];

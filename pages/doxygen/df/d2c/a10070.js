@@ -1,6 +1,6 @@
 var a10070 =
 [
-    [ "HoverMovementTransform", "df/d2c/a10070.html#afc47d2d80c4a4a654cb60f9ad15dc63b", null ],
-    [ "operator()", "df/d2c/a10070.html#a7b4c22c7ba3332c0829832756b734809", null ],
-    [ "_offset", "df/d2c/a10070.html#a7fe74e38dbefb11af541a8750465861c", null ]
+    [ "FallInitializer", "df/d2c/a10070.html#a618345df62b821d286caadc7179b7d83", null ],
+    [ "operator()", "df/d2c/a10070.html#a7a9b294b6820e229cd95f4fc9bde825b", null ],
+    [ "start_elevation", "df/d2c/a10070.html#ab94604fb6eee50832001908c12044130", null ]
 ];

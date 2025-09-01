@@ -1,9 +1,6 @@
 var a26442 =
 [
-    [ "CheckCast", "db/d62/a26442.html#ae99a2b4b582c8a2c8921b8921400ffbe", null ],
-    [ "HandleActiveObject", "db/d62/a26442.html#a79a51387f0a515ed07fcc1ac9e428290", null ],
-    [ "HandleDummy", "db/d62/a26442.html#a39dd06ae92d04060ee41897318a701fd", null ],
-    [ "Load", "db/d62/a26442.html#a76fff3a9d20f48e4814ee0f258be07b8", null ],
-    [ "PrepareSpellScript", "db/d62/a26442.html#a016e480d7b2267c9bf824c9cb029f134", null ],
-    [ "Register", "db/d62/a26442.html#aa05d48c35f748d93f5d8ff1defe2d3c9", null ]
+    [ "HandleFinish", "db/d62/a26442.html#a53263ce51581f36c2df80b49c93fa9d3", null ],
+    [ "PrepareSpellScript", "db/d62/a26442.html#a8113f61816473399f0ceab18b104d058", null ],
+    [ "Register", "db/d62/a26442.html#a36bf50cdb7be7ba03eafd4848c6ceced", null ]
 ];

@@ -1,8 +1,6 @@
 var a25278 =
 [
-    [ "HandleApply", "d6/d3c/a25278.html#af20f30fe2bfc7a370b166a6200b44ca9", null ],
-    [ "OnPeriodic", "d6/d3c/a25278.html#a6b3223ef23854f22b9a3baba0d42cb11", null ],
-    [ "PrepareAuraScript", "d6/d3c/a25278.html#a344d1a92623865876174c0e88ce8ab4b", null ],
-    [ "Register", "d6/d3c/a25278.html#a352ff0e85eee6e51e9f2eea5cdd9108c", null ],
-    [ "Validate", "d6/d3c/a25278.html#ac4fd8fdde53f947082b23852ce149ea9", null ]
+    [ "HandleDummy", "d6/d3c/a25278.html#a63bc85e32a1478d03b381c61a33d0dff", null ],
+    [ "PrepareSpellScript", "d6/d3c/a25278.html#adae41617f38a71ccec183f419d677cfd", null ],
+    [ "Register", "d6/d3c/a25278.html#a820e8b506de36a24411ae4a1c5930417", null ]
 ];

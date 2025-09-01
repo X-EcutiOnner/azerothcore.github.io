@@ -1,8 +1,5 @@
 var a22638 =
 [
-    [ "npc_anzu_spirit", "db/d4b/a22638.html#adb1b66d6bf6ec1991465f85a504397d5", null ],
-    [ "IsSummonedBy", "db/d4b/a22638.html#a26f0928593f75d242c8bbcc541f7b59b", null ],
-    [ "Reset", "db/d4b/a22638.html#acef3f7093f93b6c227d145523cdc487a", null ],
-    [ "UpdateAI", "db/d4b/a22638.html#a9866d91ffc04548a96cfcdc3a5c7496a", null ],
-    [ "_scheduler", "db/d4b/a22638.html#ad14937df9ddddabcf96e2d1104ca153c", null ]
+    [ "go_scourge_enclosure", "db/d4b/a22638.html#a3611232cb735f336087d4d3c90f66b8d", null ],
+    [ "OnGossipHello", "db/d4b/a22638.html#af505dd0a5d9224cd7586878d1fbd3351", null ]
 ];

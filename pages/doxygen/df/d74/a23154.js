@@ -1,6 +1,13 @@
 var a23154 =
 [
-    [ "HandleEffectRemove", "df/d74/a23154.html#adfbbb75ace34ab5c0fec35e6aa88505a", null ],
-    [ "PrepareAuraScript", "df/d74/a23154.html#a94b91d27b9a218b5fdce91d6a6e72f62", null ],
-    [ "Register", "df/d74/a23154.html#a2b7fb2d6d0f92a970a45e0b9c409408d", null ]
+    [ "boss_teron_gorefiend", "df/d74/a23154.html#a81845f22aa383cdc57912ee9655b7bf9", null ],
+    [ "JustDied", "df/d74/a23154.html#aa080c8d17bc51142c1cecadf7a0376a2", null ],
+    [ "JustEngagedWith", "df/d74/a23154.html#a9f658d42cf27a54c62a71e28b5dfadee", null ],
+    [ "JustSummoned", "df/d74/a23154.html#a71db567c5be7396add349e2f1b455a50", null ],
+    [ "KilledUnit", "df/d74/a23154.html#a70dbf2b2a08cf915866afd51f8a74018", null ],
+    [ "Reset", "df/d74/a23154.html#af32df2d958c618dc08d3da40b92bf3aa", null ],
+    [ "SetData", "df/d74/a23154.html#a139c351471a3f19c7e59cf8e40913820", null ],
+    [ "UpdateAI", "df/d74/a23154.html#a0bdd92c94adf066fdbf8ba9bcb1a1ba1", null ],
+    [ "_intro", "df/d74/a23154.html#a99c62157084373e8eddd4497360cc047", null ],
+    [ "_recentlySpoken", "df/d74/a23154.html#adef80b4509a6a72e7021fd3cc11de697", null ]
 ];

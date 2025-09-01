@@ -1,7 +1,7 @@
 var a15594 =
 [
-    [ "npc_kaya_flathoofAI", "d1/dbe/a15598.html", "d1/dbe/a15598" ],
-    [ "npc_kaya_flathoof", "d2/d38/a15594.html#a588f88b1c00927a4ad6b7cd25fc1b065", null ],
-    [ "GetAI", "d2/d38/a15594.html#ad7cce0c1a30abe5bc0bffa777c40c79a", null ],
-    [ "OnQuestAccept", "d2/d38/a15594.html#acdb20ecb1ffee4417c9b39f3aebb0591", null ]
+    [ "npc_aged_dying_ancient_kodoAI", "d2/d38/a15594.html#aaed19d0c915891d8afecda7df75a8a75", null ],
+    [ "JustRespawned", "d2/d38/a15594.html#a9353ac81b0c209a56313b52f2257ddd2", null ],
+    [ "MoveInLineOfSight", "d2/d38/a15594.html#a295d4bef97b97c7deb31a81274f0818d", null ],
+    [ "SpellHit", "d2/d38/a15594.html#a021b82aa6bd2e118fe810f18349fda42", null ]
 ];

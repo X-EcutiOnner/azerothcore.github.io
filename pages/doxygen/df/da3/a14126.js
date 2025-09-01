@@ -1,6 +1,6 @@
 var a14126 =
 [
-    [ "boss_wushoolayAI", "d9/d6f/a14130.html", "d9/d6f/a14130" ],
-    [ "boss_wushoolay", "df/da3/a14126.html#a68359ee086bb4e86c3c16c4a03e54893", null ],
-    [ "GetAI", "df/da3/a14126.html#a70b476358956fd05d6effb75517e2b3d", null ]
+    [ "boss_grilekAI", "d9/d6f/a14130.html", "d9/d6f/a14130" ],
+    [ "boss_grilek", "df/da3/a14126.html#acffe0061db18c5725c8c290822c5fed7", null ],
+    [ "GetAI", "df/da3/a14126.html#aa346fa8807069d8fc94bd4d81a014c76", null ]
 ];

@@ -1,6 +1,6 @@
 var a07778 =
 [
-    [ "value_type", "df/d49/a07778.html#a8ce1d08e5d320ef2c6301475fba4a7c2", null ],
-    [ "StoreTo", "df/d49/a07778.html#ac01b3840e65515853e26c16dd3caaf58", null ],
-    [ "tag", "df/d49/a07778.html#abd9c16378ed02e10a25cd45111e6fc69", null ]
+    [ "Rank", "df/d49/a07778.html#abd26e25c76d5344dfdd94547b2f310d4", null ],
+    [ "Spell", "df/d49/a07778.html#a0cb15c7c1e640b5a6acc8f8d94e6c719", null ],
+    [ "Talent", "df/d49/a07778.html#ae39546dc8db233709131b388a3868c1a", null ]
 ];

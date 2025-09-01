@@ -1,7 +1,12 @@
 var a11078 =
 [
-    [ "DynObjAura", "d1/d3d/a11078.html#aef75bb5d60c10ac63821b0e9baf6eb7a", null ],
-    [ "FillTargetMap", "d1/d3d/a11078.html#af8e36643ed675ff5652e4665bee9b0c3", null ],
-    [ "Remove", "d1/d3d/a11078.html#ada3f65b4a817e2337da43da437b93a3b", null ],
-    [ "Aura::Create", "d1/d3d/a11078.html#ae2c0fdfb409846fec5e861de60797112", null ]
+    [ "OpcodeTable", "db/d92/a04791.html#gacb286fdd22f1781abfb0d820b1f345aa", null ],
+    [ "OpcodeTable", "db/d92/a04791.html#ga0d719536cf746ad04a8ecc4fcca4a869", null ],
+    [ "~OpcodeTable", "db/d92/a04791.html#gac4e0724e0795156122c4fd8f07ade628", null ],
+    [ "Initialize", "db/d92/a04791.html#gac64814869d378e5bb7fa18144693fac1", null ],
+    [ "operator=", "db/d92/a04791.html#ga2153d4fe6b752cc2269cbfec7e8c3c84", null ],
+    [ "operator[]", "db/d92/a04791.html#gaa2cde2ecf8628ce12487ec9ce8fa37d1", null ],
+    [ "ValidateAndSetClientOpcode", "db/d92/a04791.html#ga95313e8e04ed3ab47f7104db9cf1db09", null ],
+    [ "ValidateAndSetServerOpcode", "db/d92/a04791.html#ga42b9c6fd72c2f463ab5cb3fb562151b6", null ],
+    [ "_internalTableClient", "db/d92/a04791.html#ga8c0d7f9f6248f9652fd8b8021b9a7677", null ]
 ];

@@ -1,6 +1,13 @@
 var a21378 =
 [
-    [ "boss_zuramatAI", "d1/de0/a21382.html", "d1/de0/a21382" ],
-    [ "boss_zuramat", "d2/d3b/a21378.html#a1d169e786dcf846026b48d9be389f9ab", null ],
-    [ "GetAI", "d2/d3b/a21378.html#a1008c053a2c9ad14cf9ce994db931670", null ]
+    [ "MoveX", "d2/d3b/a21378.html#aaae6e8ea168850a934b887ec006d7d8b", null ],
+    [ "MoveY", "d2/d3b/a21378.html#a62cd7f778cea049a1a6a4c34d21545a7", null ],
+    [ "MoveZ", "d2/d3b/a21378.html#a80b842f55108fec58fe04cf02e8e0b35", null ],
+    [ "npc", "d2/d3b/a21378.html#a4bdccc14156f7e5822c9a8eefc29adaa", null ],
+    [ "say", "d2/d3b/a21378.html#adcd8647fc0ee9799e24173780209f2d9", null ],
+    [ "SpawnO", "d2/d3b/a21378.html#a3b6b89143c8a875cda01b000cea6a7c7", null ],
+    [ "SpawnX", "d2/d3b/a21378.html#af3ae27adaecafe9a09802bc202973d68", null ],
+    [ "SpawnY", "d2/d3b/a21378.html#a749e9c6edcc87f258f250344d652145c", null ],
+    [ "SpawnZ", "d2/d3b/a21378.html#a06a0f8e5a7d63204d57992dc9623f83b", null ],
+    [ "trigger", "d2/d3b/a21378.html#ad2291d89a874c79859b3140754594ed7", null ]
 ];

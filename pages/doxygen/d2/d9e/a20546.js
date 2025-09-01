@@ -1,7 +1,7 @@
 var a20546 =
 [
-    [ "npc_ulduar_expedition_commanderAI", "d2/d9e/a20546.html#a100678bddd6a0e859c72035d4642d8e2", null ],
-    [ "MoveInLineOfSight", "d2/d9e/a20546.html#a870bdc842d8d7078302a36a20ef661e4", null ],
-    [ "_instance", "d2/d9e/a20546.html#a64d925b08f3f0ae59f5053121dbc495c", null ],
-    [ "_introSpoken", "d2/d9e/a20546.html#ac6784a66111406f917ae4d07dbeb60a4", null ]
+    [ "StoneGripTargetSelector", "d2/d9e/a20546.html#a74fc772e2bc0694dee05fe82de4463e2", null ],
+    [ "operator()", "d2/d9e/a20546.html#ae40653def55e656f2347029a97605395", null ],
+    [ "_me", "d2/d9e/a20546.html#ae5781d6b553491a1e3e8bfde2b965c3a", null ],
+    [ "_victim", "d2/d9e/a20546.html#a09c3c6f832c20776f11b72a468a4b0bb", null ]
 ];

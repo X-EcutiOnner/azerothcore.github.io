@@ -1,5 +1,6 @@
 var a19850 =
 [
-    [ "achievement_auriaya_crazy_cat_lady", "df/d53/a19850.html#a1eb5d931c7c520b7cd6f516bfcb819e4", null ],
-    [ "OnCheck", "df/d53/a19850.html#a905b9a4389521fde6d26d3c19a0fe21c", null ]
+    [ "boss_algalon_the_observerAI", "d1/da2/a19854.html", "d1/da2/a19854" ],
+    [ "boss_algalon_the_observer", "df/d53/a19850.html#a0691b47a116401da58b246203ecba2cb", null ],
+    [ "GetAI", "df/d53/a19850.html#a4c30c6ddf8dcbc7c478250846f27a261", null ]
 ];

@@ -1,7 +1,7 @@
 var a18330 =
 [
-    [ "PrepareSpellScript", "d3/ddc/a18330.html#a3283e829757b50bb52f66ee1e64033ae", null ],
-    [ "Register", "d3/ddc/a18330.html#a0162c92c32210f2873686610f4f00b87", null ],
-    [ "TriggerHeal", "d3/ddc/a18330.html#a3cdfca33a535bad0942beea24aefa1bb", null ],
-    [ "Validate", "d3/ddc/a18330.html#a6545fe9f40c0aed036192008a2d6e28e", null ]
+    [ "HandleInfusion", "d3/ddc/a18330.html#a9f77330d81fef646dd5d5399800cba66", null ],
+    [ "PrepareSpellScript", "d3/ddc/a18330.html#ae0a272902b0a9f74058c1dbe62974358", null ],
+    [ "Register", "d3/ddc/a18330.html#ad759f6215e722f799156b4bdddcb7af1", null ],
+    [ "Validate", "d3/ddc/a18330.html#a7b7254e7c6cb0d819dd003ffd19d0731", null ]
 ];

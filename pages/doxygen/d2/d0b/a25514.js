@@ -1,7 +1,9 @@
 var a25514 =
 [
-    [ "CheckProc", "d2/d0b/a25514.html#a41c451e31b84a72af3a17bfa29ca02fe", null ],
-    [ "HandleProc", "d2/d0b/a25514.html#a5cf9cea911ead2f261522e55e94c745a", null ],
-    [ "PrepareAuraScript", "d2/d0b/a25514.html#a3f2b20607f90ad641769eb284ddfab85", null ],
-    [ "Register", "d2/d0b/a25514.html#a55557026689613e91aeabce1af442237", null ]
+    [ "spell_gen_translocate", "d2/d0b/a25514.html#a56a3df0eba3e1521aa2898194c39e919", null ],
+    [ "HandleScript", "d2/d0b/a25514.html#a67684fb76da60fdc13dbece055dae157", null ],
+    [ "PrepareSpellScript", "d2/d0b/a25514.html#a6f0986e54ad410c2f42a7935645485ed", null ],
+    [ "Register", "d2/d0b/a25514.html#abbbcd1fdefbbd1778667ee69d449d63b", null ],
+    [ "Validate", "d2/d0b/a25514.html#a0ae40ad6153a98dcd98cdfebeb515faf", null ],
+    [ "_spellId", "d2/d0b/a25514.html#a01e4c84404734b7da1bf5f31cb097e58", null ]
 ];

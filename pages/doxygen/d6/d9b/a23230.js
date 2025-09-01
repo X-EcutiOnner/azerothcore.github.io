@@ -1,7 +1,7 @@
 var a23230 =
 [
-    [ "FilterTargets", "d6/d9b/a23230.html#adb8581b4b92aa49eda8f531e6d6de1ea", null ],
-    [ "HandleDummy", "d6/d9b/a23230.html#a2fe7441bd9753cb912d11f8d36632f44", null ],
-    [ "PrepareSpellScript", "d6/d9b/a23230.html#ae7714acbe0a08781e3bc297847c47870", null ],
-    [ "Register", "d6/d9b/a23230.html#ade51d4cb00b63c46582c7a5e6e031e9d", null ]
+    [ "PrepareAuraScript", "d6/d9b/a23230.html#a30ec063aa1ddbc3a32066e1f868bf742", null ],
+    [ "Register", "d6/d9b/a23230.html#a1e62c60bfc2b72811950b627ce1202c3", null ],
+    [ "Update", "d6/d9b/a23230.html#a3f98767367564734c9877d1870aac31b", null ],
+    [ "Validate", "d6/d9b/a23230.html#a450460769e0e54e06f1b64b3c63ba0de", null ]
 ];

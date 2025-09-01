@@ -1,12 +1,8 @@
 var a19894 =
 [
-    [ "npc_freya_wardAI", "d8/d89/a19894.html#afbc2f3d88173e240b87915cf0520b3cf", null ],
-    [ "DoAction", "d8/d89/a19894.html#a4c9418b5474eb572a76168d4a460159a", null ],
-    [ "JustSummoned", "d8/d89/a19894.html#a9075d763014ca50b4e0d2c815e1c23b7", null ],
-    [ "Reset", "d8/d89/a19894.html#a65d304edd3b00b4a45c58bf36b926900", null ],
-    [ "SummonedCreatureDespawn", "d8/d89/a19894.html#a6273b024ebde2fb36ed79eb122f7ac68", null ],
-    [ "UpdateAI", "d8/d89/a19894.html#a11dd073b70e5126f580ec5122dce7bbd", null ],
-    [ "_castTimer", "d8/d89/a19894.html#a6308aadc8ebf41cf045b04ac58e2244b", null ],
-    [ "_summoned", "d8/d89/a19894.html#a5df6604055c5f3936a95f8d0ca5be8c1", null ],
-    [ "summons", "d8/d89/a19894.html#a82932e9f2d570fa6d8394bfd3954c41e", null ]
+    [ "go_celestial_planetarium_accessAI", "d8/d89/a19894.html#aca4d0e9babd6eefe84edc281f8a44cf2", null ],
+    [ "GossipHello", "d8/d89/a19894.html#af159df46fecf2cd74ac4ec9fa006dc03", null ],
+    [ "UpdateAI", "d8/d89/a19894.html#a9b2bfb74a12e3258476387fc78cde574", null ],
+    [ "_locked", "d8/d89/a19894.html#a37f83dbbb05e461d613a4c38001f785c", null ],
+    [ "events", "d8/d89/a19894.html#aa03b8d270054f2b71c1d625abe322fb8", null ]
 ];

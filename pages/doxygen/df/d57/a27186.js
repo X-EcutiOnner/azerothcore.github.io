@@ -1,6 +1,5 @@
 var a27186 =
 [
-    [ "go_witherbark_totem_bundleAI", "df/d04/a27190.html", "df/d04/a27190" ],
-    [ "go_witherbark_totem_bundle", "df/d57/a27186.html#affcdff7ec6894add0acec842028efd2e", null ],
-    [ "GetAI", "df/d57/a27186.html#a5ac2b3b572d67fdcc587f242f3d50f97", null ]
+    [ "achievement_bg_sa_artillery", "df/d57/a27186.html#aa81ae215bc91fd4598d7c9a1b02e3fcc", null ],
+    [ "OnCheck", "df/d57/a27186.html#ac24f32f872ae32e90f06f642ea2dfebc", null ]
 ];

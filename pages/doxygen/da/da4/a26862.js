@@ -1,7 +1,7 @@
 var a26862 =
 [
-    [ "HandleProc", "da/da4/a26862.html#a2a1d6c4a6fdcfbb0ab34769649dbe321", null ],
-    [ "PrepareAuraScript", "da/da4/a26862.html#afa1f4cba7a02cb4a92a67c6e41d3349c", null ],
-    [ "Register", "da/da4/a26862.html#ae3711d9dff0acd196b1fae8e2285fb2a", null ],
-    [ "Validate", "da/da4/a26862.html#a77b31ab1d2952c5d77e8a1ca9cf18405", null ]
+    [ "HandleDispel", "da/da4/a26862.html#aeab02cfd37c20aaf57e70aca62c82d99", null ],
+    [ "PrepareAuraScript", "da/da4/a26862.html#a9dc5d5dc34bc9aed6094c0c55533ad5e", null ],
+    [ "Register", "da/da4/a26862.html#a9cfb0fe1465c55b97032ae528ce00bcb", null ],
+    [ "Validate", "da/da4/a26862.html#ad29fdb4b99e9782cf8bace07384fa87c", null ]
 ];

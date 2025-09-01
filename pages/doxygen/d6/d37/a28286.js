@@ -1,7 +1,7 @@
 var a28286 =
 [
-    [ "Id", "d6/d37/a28286.html#a94843a6f0cb39332f39a9630945f1fc8", null ],
-    [ "SoundBank", "d6/d37/a28286.html#a1dd2e40caf515186c831dc8cc82c095b", null ],
-    [ "SpellId", "d6/d37/a28286.html#aa010947f5fbec6867b005b25728e720b", null ],
-    [ "Type", "d6/d37/a28286.html#a7f610dd6a9944b4634bb981c0cb8e230", null ]
+    [ "Displayid", "d6/d37/a28286.html#adc5aee11b1e27752576b0b98156d3b3c", null ],
+    [ "ExtendedDisplayInfoID", "d6/d37/a28286.html#a174d6f73393e6dcfeecf487fc09c2e6f", null ],
+    [ "ModelId", "d6/d37/a28286.html#ada31381a4ee360e2fcb68403bc6d14e5", null ],
+    [ "scale", "d6/d37/a28286.html#ae15b89669bf5d711cc57c21d8c8be0dd", null ]
 ];

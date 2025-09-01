@@ -1,8 +1,7 @@
 var a18350 =
 [
-    [ "Load", "dc/dcc/a18350.html#aabd997d6db5fd38b1fdd97d90b1347e9", null ],
-    [ "OnRemove", "dc/dcc/a18350.html#a43b23e5c53cca872a26737d790f2893d", null ],
-    [ "PrepareAuraScript", "dc/dcc/a18350.html#ae51bcb37894240c6fd064cd329698a55", null ],
-    [ "Register", "dc/dcc/a18350.html#ad6247c7f8abf41cd6190d5252ed6834e", null ],
-    [ "Validate", "dc/dcc/a18350.html#a45696018a8810cf1f11fbddcd853d1f4", null ]
+    [ "StartMovementEvent", "dc/dcc/a18350.html#a4f0fd5e835f742c876f37f31bf03c56f", null ],
+    [ "Execute", "dc/dcc/a18350.html#af1a043d953bcffe9341292e85cae2f55", null ],
+    [ "_owner", "dc/dcc/a18350.html#ac2f4166af128a161c471b243144856ba", null ],
+    [ "_summoner", "dc/dcc/a18350.html#afe1f7bcb3569758bc075380a24527067", null ]
 ];

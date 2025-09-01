@@ -1,8 +1,5 @@
 var a28490 =
 [
-    [ "MapDifficulty", "dc/dd3/a28490.html#abf514d1105541d5c5aaf52a91330a1e2", null ],
-    [ "MapDifficulty", "dc/dd3/a28490.html#a227aec55b5b774076882ea34f70d5d88", null ],
-    [ "hasErrorMessage", "dc/dd3/a28490.html#a8dd5436eaec4d0e67f8b41c8dd071148", null ],
-    [ "maxPlayers", "dc/dd3/a28490.html#af82ad844bc4ac9585cb9df1963697e1b", null ],
-    [ "resetTime", "dc/dd3/a28490.html#a7190131620b9eee0897ac7b4dd62949e", null ]
+    [ "Id", "dc/dd3/a28490.html#a44532f8af054ae5224f5e816c3c9a8a7", null ],
+    [ "PowerType", "dc/dd3/a28490.html#ab6c17a5a3ba9f2f3a8fac125104703c4", null ]
 ];

@@ -1,7 +1,7 @@
 var a13026 =
 [
-    [ "OnApply", "d8/dc5/a13026.html#a21450cd59487a927bbc0a5a5e1ffa72b", null ],
-    [ "OnRemove", "d8/dc5/a13026.html#a810203874163cf04798c3edbe69b747e", null ],
-    [ "PrepareAuraScript", "d8/dc5/a13026.html#a3c17a7366acd9bd1863bae0f9218930a", null ],
-    [ "Register", "d8/dc5/a13026.html#af2ad52165de188897fdeb8d62646b7cc", null ]
+    [ "HandleScriptEffect", "d8/dc5/a13026.html#a1b196f3817c16fac48392981b58c1a05", null ],
+    [ "PrepareSpellScript", "d8/dc5/a13026.html#ad44566ff9a44057679e7ce8e1959776d", null ],
+    [ "Register", "d8/dc5/a13026.html#aef3bfdaff9f0b5080d83805a1a962a79", null ],
+    [ "Validate", "d8/dc5/a13026.html#a70a1f0d2666921ccbad62c1fd06fe4b6", null ]
 ];

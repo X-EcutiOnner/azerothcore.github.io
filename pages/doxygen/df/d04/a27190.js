@@ -1,6 +1,6 @@
 var a27190 =
 [
-    [ "go_witherbark_totem_bundleAI", "df/d04/a27190.html#a955625e2315008a2e36936d44f825060", null ],
-    [ "UpdateAI", "df/d04/a27190.html#af688bab2dc3d938951adb303e8b8d88b", null ],
-    [ "_timer", "df/d04/a27190.html#a509e6d8401380c326a0f565a6b903d7a", null ]
+    [ "achievement_arena_by_type", "df/d04/a27190.html#a2042c808304e8ddf1849820491b9f1a3", null ],
+    [ "OnCheck", "df/d04/a27190.html#abebdbf19fbf1b79c30114a9cf4ff98a4", null ],
+    [ "_arenaType", "df/d04/a27190.html#a5c38e5fef5eaf3d037864ba2aa80584a", null ]
 ];

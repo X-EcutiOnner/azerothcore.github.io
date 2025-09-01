@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: BasicEvent Class Reference</title>
+<title>AzerothCore: Acore::CheckedBufferOutputIterator&lt; T &gt; Class Template Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,282 +105,161 @@ $(document).ready(function(){initNavTree('d8/d03/a05466.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
+<a href="#pub-types">Public Types</a> &#124;
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pri-types">Private Types</a> &#124;
 <a href="#pri-methods">Private Member Functions</a> &#124;
 <a href="#pri-attribs">Private Attributes</a> &#124;
-<a href="#friends">Friends</a> &#124;
 <a href="../../da/d34/a05463.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">BasicEvent Class Reference</div></div>
+  <div class="headertitle"><div class="title">Acore::CheckedBufferOutputIterator&lt; T &gt; Class Template Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">EventProcessor.h</a>&quot;</code></p>
-<div class="dynheader">
-Inheritance diagram for BasicEvent:</div>
-<div class="dyncontent">
- <div class="center">
-  <img src="../../d8/d03/a05466.png" usemap="#BasicEvent_map" alt=""/>
-  <map id="BasicEvent_map" name="BasicEvent_map">
-<area href="../../d0/dae/a07994.html" alt="AssistDelayEvent" shape="rect" coords="206,56,402,80"/>
-<area href="../../d1/d2b/a08686.html" alt="AuraMunchingQueue" shape="rect" coords="206,112,402,136"/>
-<area href="../../d5/d88/a18446.html" alt="AuraRemoveEvent" shape="rect" coords="206,168,402,192"/>
-<area href="../../d2/de5/a07314.html" alt="BGQueueInviteEvent" shape="rect" coords="206,224,402,248"/>
-<area href="../../d2/d19/a07318.html" alt="BGQueueRemoveEvent" shape="rect" coords="206,280,402,304"/>
-<area href="../../db/d4b/a17526.html" alt="BattleExperienceEvent" shape="rect" coords="206,336,402,360"/>
-<area href="../../d9/d49/a20742.html" alt="BoomEvent" shape="rect" coords="206,392,402,416"/>
-<area href="../../d6/dab/a18582.html" alt="CaptainSurviveTalk" shape="rect" coords="206,448,402,472"/>
-<area href="../../d2/dc0/a13338.html" alt="CastArmageddon" shape="rect" coords="206,504,402,528"/>
-<area href="../../d2/d67/a23778.html" alt="CastQuill" shape="rect" coords="206,560,402,584"/>
-<area href="../../de/da3/a19774.html" alt="CastRunesEvent" shape="rect" coords="206,616,402,640"/>
-<area href="../../de/d1b/a19306.html" alt="ChargeRifts" shape="rect" coords="206,672,402,696"/>
-<area href="../../d1/d4e/a13274.html" alt="CorruptTriggers" shape="rect" coords="206,728,402,752"/>
-<area href="../../db/d14/a19674.html" alt="CosmicSmashDamageEvent" shape="rect" coords="206,784,402,808"/>
-<area href="../../d4/d49/a17726.html" alt="DaranavanMoveEvent" shape="rect" coords="206,840,402,864"/>
-<area href="../../d9/d88/a24426.html" alt="DeathEvent" shape="rect" coords="206,896,402,920"/>
-<area href="../../dc/d40/a18442.html" alt="DelayedCastEvent" shape="rect" coords="206,952,402,976"/>
-<area href="../../d5/dc7/a18894.html" alt="DelayedCastMincharEvent" shape="rect" coords="206,1008,402,1032"/>
-<area href="../../df/df8/a17534.html" alt="DelayedMovementEvent" shape="rect" coords="206,1064,402,1088"/>
-<area href="../../df/d75/a13014.html" alt="DelayedSummonEvent" shape="rect" coords="206,1120,402,1144"/>
-<area href="../../d5/df2/a16014.html" alt="DelayedTalk" shape="rect" coords="206,1176,402,1200"/>
-<area href="../../d8/d99/a15578.html" alt="DelayedWindstoneSummonEvent" shape="rect" coords="206,1232,402,1256"/>
-<area href="../../d9/d1c/a19294.html" alt="EoEDrakeEnterVehicleEvent" shape="rect" coords="206,1288,402,1312"/>
-<area href="../../dd/d89/a13354.html" alt="FixOrientation" shape="rect" coords="206,1344,402,1368"/>
-<area href="../../df/d00/a07998.html" alt="ForcedDespawnDelayEvent" shape="rect" coords="206,1400,402,1424"/>
-<area href="../../d8/d6f/a08130.html" alt="ForcedUnsummonDelayEvent" shape="rect" coords="206,1456,402,1480"/>
-<area href="../../d0/dab/a18018.html" alt="FrostBombExplosion" shape="rect" coords="206,1512,402,1536"/>
-<area href="../../d2/d2e/a18014.html" alt="FrostwyrmLandEvent" shape="rect" coords="206,1568,402,1592"/>
-<area href="../../d3/df2/a16322.html" alt="HideNpcEvent" shape="rect" coords="206,1624,402,1648"/>
-<area href="../../da/d32/a18022.html" alt="IceTombSummonEvent" shape="rect" coords="206,1680,402,1704"/>
-<area href="../../dc/d1e/a06126.html" alt="KillMagnetEvent" shape="rect" coords="206,1736,402,1760"/>
-<area href="../../da/d10/a05470.html" alt="LambdaBasicEvent&lt; T &gt;" shape="rect" coords="206,1792,402,1816"/>
-<area href="../../de/d93/a18190.html" alt="LichKingDeathEvent" shape="rect" coords="206,1848,402,1872"/>
-<area href="../../d9/d4b/a18194.html" alt="LichKingMovieEvent" shape="rect" coords="206,1904,402,1928"/>
-<area href="../../d0/d3e/a13350.html" alt="MoveDelayed" shape="rect" coords="206,1960,402,1984"/>
-<area href="../../dc/d7b/a14846.html" alt="NpcRunToHome" shape="rect" coords="206,2016,402,2040"/>
-<area href="../../d4/dff/a12118.html" alt="OrcDeathEvent" shape="rect" coords="206,2072,402,2096"/>
-<area href="../../d7/dee/a12114.html" alt="OrcMoveEvent" shape="rect" coords="206,2128,402,2152"/>
-<area href="../../d9/d09/a25670.html" alt="PartyTimeEmoteEvent" shape="rect" coords="206,2184,402,2208"/>
-<area href="../../d1/d41/a08754.html" alt="RedirectSpellEvent" shape="rect" coords="206,2240,402,2264"/>
-<area href="../../d2/d4b/a11146.html" alt="ReflectEvent" shape="rect" coords="206,2296,402,2320"/>
-<area href="../../da/d7d/a17538.html" alt="ResetEncounterEvent" shape="rect" coords="206,2352,402,2376"/>
-<area href="../../df/d36/a08690.html" alt="ResetToHomeOrientation" shape="rect" coords="206,2408,402,2432"/>
-<area href="../../d0/d28/a18890.html" alt="RespawnEvent" shape="rect" coords="206,2464,402,2488"/>
-<area href="../../d8/dae/a12002.html" alt="RestoreAttack" shape="rect" coords="206,2520,402,2544"/>
-<area href="../../d7/d76/a16018.html" alt="RestoreFight" shape="rect" coords="206,2576,402,2600"/>
-<area href="../../d7/d76/a16018.html" alt="RestoreFight" shape="rect" coords="206,2632,402,2656"/>
-<area href="../../d5/d77/a21822.html" alt="SACActivateEvent" shape="rect" coords="206,2688,402,2712"/>
-<area href="../../dd/dcb/a21826.html" alt="SACDeactivateEvent" shape="rect" coords="206,2744,402,2768"/>
-<area href="../../d9/d48/a16070.html" alt="SendEncounterUnit" shape="rect" coords="206,2800,402,2824"/>
-<area href="../../d0/d37/a17258.html" alt="ShockVortexExplodeEvent" shape="rect" coords="206,2856,402,2880"/>
-<area href="../../d6/d5c/a17114.html" alt="SlaveRunEvent" shape="rect" coords="206,2912,402,2936"/>
-<area href="../../d6/d53/a11082.html" alt="SpellEvent" shape="rect" coords="206,2968,402,2992"/>
-<area href="../../d8/dcf/a17254.html" alt="StandUpEvent" shape="rect" coords="206,3024,402,3048"/>
-<area href="../../df/d3d/a18178.html" alt="StartMovementEvent" shape="rect" coords="206,3080,402,3104"/>
-<area href="../../d5/dc4/a22882.html" alt="SuckBackEvent" shape="rect" coords="206,3136,402,3160"/>
-<area href="../../d6/dfc/a08002.html" alt="TemporaryThreatModifierEvent" shape="rect" coords="206,3192,402,3216"/>
-<area href="../../d1/db3/a18186.html" alt="TriggerWickedSpirit" shape="rect" coords="206,3248,402,3272"/>
-<area href="../../d3/d8c/a16974.html" alt="UtherBatteredHiltEvent" shape="rect" coords="206,3304,402,3328"/>
-<area href="../../d5/d88/a18450.html" alt="ValithriaDespawner" shape="rect" coords="206,3360,402,3384"/>
-<area href="../../d5/d99/a08778.html" alt="VehicleDespawnEvent" shape="rect" coords="206,3416,402,3440"/>
-<area href="../../d7/d5d/a22802.html" alt="VerasEnvenom" shape="rect" coords="206,3472,402,3496"/>
-<area href="../../dc/def/a18182.html" alt="VileSpiritActivateEvent" shape="rect" coords="206,3528,402,3552"/>
-<area href="../../dd/d51/a23850.html" alt="lapseTeleport" shape="rect" coords="206,3584,402,3608"/>
-  </map>
-</div></div>
+<p><code>#include &quot;<a class="el" href="../../">Containers.h</a>&quot;</code></p>
 <table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-types" name="pub-types"></a>
+Public Types</h2></td></tr>
+<tr class="memitem:a60f6936503d386c555d012e8763611ca"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d03/a05466.html#a60f6936503d386c555d012e8763611ca">iterator_category</a> = std::output_iterator_tag</td></tr>
+<tr class="separator:a60f6936503d386c555d012e8763611ca"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab19bfdfea57f6de2bbef93aff14481ec"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d03/a05466.html#ab19bfdfea57f6de2bbef93aff14481ec">value_type</a> = void</td></tr>
+<tr class="separator:ab19bfdfea57f6de2bbef93aff14481ec"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa25ef6456bed8f4e599a48c7c1448363"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d03/a05466.html#aa25ef6456bed8f4e599a48c7c1448363">pointer</a> = T *</td></tr>
+<tr class="separator:aa25ef6456bed8f4e599a48c7c1448363"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a95fa5b0dac0017e43bc5683fb040836d"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d03/a05466.html#a95fa5b0dac0017e43bc5683fb040836d">reference</a> = T &amp;</td></tr>
+<tr class="separator:a95fa5b0dac0017e43bc5683fb040836d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aeb2086c6034a734b92b3cb8d0382a293"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d03/a05466.html#aeb2086c6034a734b92b3cb8d0382a293">difference_type</a> = std::ptrdiff_t</td></tr>
+<tr class="separator:aeb2086c6034a734b92b3cb8d0382a293"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a9c3cd17edab7fc410f88bb680d756975"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d03/a05466.html#a9c3cd17edab7fc410f88bb680d756975">BasicEvent</a> ()=default</td></tr>
-<tr class="separator:a9c3cd17edab7fc410f88bb680d756975"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0c3860e1c8854c2db20a225944792afd"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d03/a05466.html#a0c3860e1c8854c2db20a225944792afd">~BasicEvent</a> ()=default</td></tr>
-<tr class="separator:a0c3860e1c8854c2db20a225944792afd"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a89297a10b64d01895332655122ed8ccb"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d03/a05466.html#a89297a10b64d01895332655122ed8ccb">Execute</a> (<a class="el" href="../../d2/de7/a00014.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>, <a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>)</td></tr>
-<tr class="separator:a89297a10b64d01895332655122ed8ccb"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a62c0483af9fd1885e779cf088a50eb02"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d03/a05466.html#a62c0483af9fd1885e779cf088a50eb02">IsDeletable</a> () const</td></tr>
-<tr class="separator:a62c0483af9fd1885e779cf088a50eb02"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5584968148a48bd7ba072515bd489963"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d03/a05466.html#a5584968148a48bd7ba072515bd489963">Abort</a> (<a class="el" href="../../d2/de7/a00014.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>)</td></tr>
-<tr class="separator:a5584968148a48bd7ba072515bd489963"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:afafade0729f08b8f1193a66f50c18348"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d03/a05466.html#afafade0729f08b8f1193a66f50c18348">ScheduleAbort</a> ()</td></tr>
-<tr class="separator:afafade0729f08b8f1193a66f50c18348"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-types" name="pri-types"></a>
-Private Types</h2></td></tr>
-<tr class="memitem:a3f26f839ff35d80af2a8f885ca1a1554"><td class="memItemLeft" align="right" valign="top">enum class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d03/a05466.html#a3f26f839ff35d80af2a8f885ca1a1554">AbortState</a> : uint8 { <br />
-&#160;&#160;<a class="el" href="../../d8/d03/a05466.html#a3f26f839ff35d80af2a8f885ca1a1554ad8a3bbc9a845117a56f75c0f8e74f09e">STATE_RUNNING</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d8/d03/a05466.html#a3f26f839ff35d80af2a8f885ca1a1554a57184a4db33295d3f2462a45429a7d3a">STATE_ABORT_SCHEDULED</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d8/d03/a05466.html#a3f26f839ff35d80af2a8f885ca1a1554a94084d8a7188eb3538561802c1f817f5">STATE_ABORTED</a>
-<br />
- }</td></tr>
-<tr class="separator:a3f26f839ff35d80af2a8f885ca1a1554"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a49de38fe9f4e296bcd229d486864c65e"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d03/a05466.html#a49de38fe9f4e296bcd229d486864c65e">CheckedBufferOutputIterator</a> (T *buf, std::size_t n)</td></tr>
+<tr class="separator:a49de38fe9f4e296bcd229d486864c65e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2d4635aa952b03df738046667197b6f9"><td class="memItemLeft" align="right" valign="top">T &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d03/a05466.html#a2d4635aa952b03df738046667197b6f9">operator*</a> () const</td></tr>
+<tr class="separator:a2d4635aa952b03df738046667197b6f9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1bdbf99823ee46a88094480b5040211b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d03/a05466.html">CheckedBufferOutputIterator</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d03/a05466.html#a1bdbf99823ee46a88094480b5040211b">operator++</a> ()</td></tr>
+<tr class="separator:a1bdbf99823ee46a88094480b5040211b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8a72bd229fb92e389ec311142ca2a139"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d03/a05466.html">CheckedBufferOutputIterator</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d03/a05466.html#a8a72bd229fb92e389ec311142ca2a139">operator++</a> (int)</td></tr>
+<tr class="separator:a8a72bd229fb92e389ec311142ca2a139"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae804b558c6912a00405070e170572407"><td class="memItemLeft" align="right" valign="top">std::size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d03/a05466.html#ae804b558c6912a00405070e170572407">remaining</a> () const</td></tr>
+<tr class="separator:ae804b558c6912a00405070e170572407"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-methods" name="pri-methods"></a>
 Private Member Functions</h2></td></tr>
-<tr class="memitem:a9224c2878bff4f6df28bedb973be2d27"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d03/a05466.html#a9224c2878bff4f6df28bedb973be2d27">SetAborted</a> ()</td></tr>
-<tr class="separator:a9224c2878bff4f6df28bedb973be2d27"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aeb6eb1bb1c54f70d5e0f88cf4e462fc2"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d03/a05466.html#aeb6eb1bb1c54f70d5e0f88cf4e462fc2">IsRunning</a> () const</td></tr>
-<tr class="separator:aeb6eb1bb1c54f70d5e0f88cf4e462fc2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1ee71d72964b7124e8e137b02c81eac2"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d03/a05466.html#a1ee71d72964b7124e8e137b02c81eac2">IsAbortScheduled</a> () const</td></tr>
-<tr class="separator:a1ee71d72964b7124e8e137b02c81eac2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4b05df0749b6a18ef0e0b4137e727d7d"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d03/a05466.html#a4b05df0749b6a18ef0e0b4137e727d7d">IsAborted</a> () const</td></tr>
-<tr class="separator:a4b05df0749b6a18ef0e0b4137e727d7d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab8414d5a971d77718de7f610bb000443"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d03/a05466.html#ab8414d5a971d77718de7f610bb000443">check</a> () const</td></tr>
+<tr class="separator:ab8414d5a971d77718de7f610bb000443"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
-<tr class="memitem:afd9cf18b8a00c6195b9120f3fcf7ca69"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d03/a05466.html#a3f26f839ff35d80af2a8f885ca1a1554">AbortState</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d03/a05466.html#afd9cf18b8a00c6195b9120f3fcf7ca69">m_abortState</a> {<a class="el" href="../../d8/d03/a05466.html#a3f26f839ff35d80af2a8f885ca1a1554ad8a3bbc9a845117a56f75c0f8e74f09e">AbortState::STATE_RUNNING</a>}</td></tr>
-<tr class="separator:afd9cf18b8a00c6195b9120f3fcf7ca69"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac236835e6298588e834cde7a8c2bfece"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/de7/a00014.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d03/a05466.html#ac236835e6298588e834cde7a8c2bfece">m_addTime</a> {0}</td></tr>
-<tr class="separator:ac236835e6298588e834cde7a8c2bfece"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:afbd8d5728992e7676fde628fc03dc588"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/de7/a00014.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d03/a05466.html#afbd8d5728992e7676fde628fc03dc588">m_execTime</a> {0}</td></tr>
-<tr class="separator:afbd8d5728992e7676fde628fc03dc588"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2ee03f01e03347d04eb38a215d10f036"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/de7/a00014.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d03/a05466.html#a2ee03f01e03347d04eb38a215d10f036">m_eventGroup</a> {0}</td></tr>
-<tr class="separator:a2ee03f01e03347d04eb38a215d10f036"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="friends" name="friends"></a>
-Friends</h2></td></tr>
-<tr class="memitem:acce868eb94e25fcad6a070753b63bdfc"><td class="memItemLeft" align="right" valign="top">class&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d03/a05466.html#acce868eb94e25fcad6a070753b63bdfc">EventProcessor</a></td></tr>
-<tr class="separator:acce868eb94e25fcad6a070753b63bdfc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abee1c6def8872acea5f34f0ae22aa467"><td class="memItemLeft" align="right" valign="top">T *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d03/a05466.html#abee1c6def8872acea5f34f0ae22aa467">_buf</a></td></tr>
+<tr class="separator:abee1c6def8872acea5f34f0ae22aa467"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a83a86f648edeeaf34b01581b972b2f1d"><td class="memItemLeft" align="right" valign="top">T *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d03/a05466.html#a83a86f648edeeaf34b01581b972b2f1d">_end</a></td></tr>
+<tr class="separator:a83a86f648edeeaf34b01581b972b2f1d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Member Enumeration Documentation</h2>
-<a id="a3f26f839ff35d80af2a8f885ca1a1554" name="a3f26f839ff35d80af2a8f885ca1a1554"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3f26f839ff35d80af2a8f885ca1a1554">&#9670;&#160;</a></span>AbortState</h2>
+<div class="textblock"><div class="compoundTemplParams">template&lt;class T&gt;<br />
+class Acore::CheckedBufferOutputIterator&lt; T &gt;</div></div><h2 class="groupheader">Member Typedef Documentation</h2>
+<a id="aeb2086c6034a734b92b3cb8d0382a293" name="aeb2086c6034a734b92b3cb8d0382a293"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aeb2086c6034a734b92b3cb8d0382a293">&#9670;&#160;</a></span>difference_type</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
       <table class="memname">
         <tr>
-          <td class="memname">enum class <a class="el" href="../../d8/d03/a05466.html#a3f26f839ff35d80af2a8f885ca1a1554">BasicEvent::AbortState</a> : <a class="el" href="../../d2/de7/a00014.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></td>
+          <td class="memname">using <a class="el" href="../../d8/d03/a05466.html">Acore::CheckedBufferOutputIterator</a>&lt; T &gt;::difference_type =  std::ptrdiff_t</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">strong</span><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a3f26f839ff35d80af2a8f885ca1a1554ad8a3bbc9a845117a56f75c0f8e74f09e" name="a3f26f839ff35d80af2a8f885ca1a1554ad8a3bbc9a845117a56f75c0f8e74f09e"></a>STATE_RUNNING&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a3f26f839ff35d80af2a8f885ca1a1554a57184a4db33295d3f2462a45429a7d3a" name="a3f26f839ff35d80af2a8f885ca1a1554a57184a4db33295d3f2462a45429a7d3a"></a>STATE_ABORT_SCHEDULED&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a3f26f839ff35d80af2a8f885ca1a1554a94084d8a7188eb3538561802c1f817f5" name="a3f26f839ff35d80af2a8f885ca1a1554a94084d8a7188eb3538561802c1f817f5"></a>STATE_ABORTED&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   35</span>    {</div>
-<div class="line"><span class="lineno">   36</span>        <a class="code hl_enumvalue" href="../../d8/d03/a05466.html#a3f26f839ff35d80af2a8f885ca1a1554ad8a3bbc9a845117a56f75c0f8e74f09e">STATE_RUNNING</a>,</div>
-<div class="line"><span class="lineno">   37</span>        <a class="code hl_enumvalue" href="../../d8/d03/a05466.html#a3f26f839ff35d80af2a8f885ca1a1554a57184a4db33295d3f2462a45429a7d3a">STATE_ABORT_SCHEDULED</a>,</div>
-<div class="line"><span class="lineno">   38</span>        <a class="code hl_enumvalue" href="../../d8/d03/a05466.html#a3f26f839ff35d80af2a8f885ca1a1554a94084d8a7188eb3538561802c1f817f5">STATE_ABORTED</a></div>
-<div class="line"><span class="lineno">   39</span>        };</div>
-<div class="ttc" id="aa05466_html_a3f26f839ff35d80af2a8f885ca1a1554a57184a4db33295d3f2462a45429a7d3a"><div class="ttname"><a href="../../d8/d03/a05466.html#a3f26f839ff35d80af2a8f885ca1a1554a57184a4db33295d3f2462a45429a7d3a">BasicEvent::AbortState::STATE_ABORT_SCHEDULED</a></div><div class="ttdeci">@ STATE_ABORT_SCHEDULED</div></div>
-<div class="ttc" id="aa05466_html_a3f26f839ff35d80af2a8f885ca1a1554a94084d8a7188eb3538561802c1f817f5"><div class="ttname"><a href="../../d8/d03/a05466.html#a3f26f839ff35d80af2a8f885ca1a1554a94084d8a7188eb3538561802c1f817f5">BasicEvent::AbortState::STATE_ABORTED</a></div><div class="ttdeci">@ STATE_ABORTED</div></div>
-<div class="ttc" id="aa05466_html_a3f26f839ff35d80af2a8f885ca1a1554ad8a3bbc9a845117a56f75c0f8e74f09e"><div class="ttname"><a href="../../d8/d03/a05466.html#a3f26f839ff35d80af2a8f885ca1a1554ad8a3bbc9a845117a56f75c0f8e74f09e">BasicEvent::AbortState::STATE_RUNNING</a></div><div class="ttdeci">@ STATE_RUNNING</div></div>
-</div><!-- fragment -->
+
+</div>
+</div>
+<a id="a60f6936503d386c555d012e8763611ca" name="a60f6936503d386c555d012e8763611ca"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a60f6936503d386c555d012e8763611ca">&#9670;&#160;</a></span>iterator_category</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname">using <a class="el" href="../../d8/d03/a05466.html">Acore::CheckedBufferOutputIterator</a>&lt; T &gt;::iterator_category =  std::output_iterator_tag</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="aa25ef6456bed8f4e599a48c7c1448363" name="aa25ef6456bed8f4e599a48c7c1448363"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa25ef6456bed8f4e599a48c7c1448363">&#9670;&#160;</a></span>pointer</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname">using <a class="el" href="../../d8/d03/a05466.html">Acore::CheckedBufferOutputIterator</a>&lt; T &gt;::pointer =  T*</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a95fa5b0dac0017e43bc5683fb040836d" name="a95fa5b0dac0017e43bc5683fb040836d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a95fa5b0dac0017e43bc5683fb040836d">&#9670;&#160;</a></span>reference</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname">using <a class="el" href="../../d8/d03/a05466.html">Acore::CheckedBufferOutputIterator</a>&lt; T &gt;::reference =  T&amp;</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ab19bfdfea57f6de2bbef93aff14481ec" name="ab19bfdfea57f6de2bbef93aff14481ec"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab19bfdfea57f6de2bbef93aff14481ec">&#9670;&#160;</a></span>value_type</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname">using <a class="el" href="../../d8/d03/a05466.html">Acore::CheckedBufferOutputIterator</a>&lt; T &gt;::value_type =  void</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
 </div>
 </div>
 <h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a9c3cd17edab7fc410f88bb680d756975" name="a9c3cd17edab7fc410f88bb680d756975"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9c3cd17edab7fc410f88bb680d756975">&#9670;&#160;</a></span>BasicEvent()</h2>
+<a id="a49de38fe9f4e296bcd229d486864c65e" name="a49de38fe9f4e296bcd229d486864c65e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a49de38fe9f4e296bcd229d486864c65e">&#9670;&#160;</a></span>CheckedBufferOutputIterator()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">BasicEvent::BasicEvent </td>
+          <td class="memname"><a class="el" href="../../d8/d03/a05466.html">Acore::CheckedBufferOutputIterator</a>&lt; T &gt;::CheckedBufferOutputIterator </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">default</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a0c3860e1c8854c2db20a225944792afd" name="a0c3860e1c8854c2db20a225944792afd"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0c3860e1c8854c2db20a225944792afd">&#9670;&#160;</a></span>~BasicEvent()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">virtual BasicEvent::~BasicEvent </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">virtual</span><span class="mlabel">default</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<h2 class="groupheader">Member Function Documentation</h2>
-<a id="a5584968148a48bd7ba072515bd489963" name="a5584968148a48bd7ba072515bd489963"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5584968148a48bd7ba072515bd489963">&#9670;&#160;</a></span>Abort()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">virtual void BasicEvent::Abort </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d2/de7/a00014.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>&#160;</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p>Reimplemented in <a class="el" href="../../d6/d53/a11082.html#ac21656467ae71def45fd78b9d1fa1c30">SpellEvent</a>, <a class="el" href="../../d2/de5/a07314.html#a07f5520ab61cdfd4eadc5d0815067135">BGQueueInviteEvent</a>, and <a class="el" href="../../d2/d19/a07318.html#a7d1dc829e56398ad421cb53dd51e952e">BGQueueRemoveEvent</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">   54</span>{ }           <span class="comment">// this method executes when the event is aborted</span></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a89297a10b64d01895332655122ed8ccb" name="a89297a10b64d01895332655122ed8ccb"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a89297a10b64d01895332655122ed8ccb">&#9670;&#160;</a></span>Execute()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">virtual bool BasicEvent::Execute </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d2/de7/a00014.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>&#160;</td>
-          <td class="paramname">, </td>
+          <td class="paramtype">T *&#160;</td>
+          <td class="paramname"><em>buf</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname">&#160;</td>
+          <td class="paramtype">std::size_t&#160;</td>
+          <td class="paramname"><em>n</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -390,27 +269,30 @@ Friends</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-
-<p>Reimplemented in <a class="el" href="../../d6/d53/a11082.html#ac8158bfbe916ff6207b2f6608308ae24">SpellEvent</a>, <a class="el" href="../../d2/de5/a07314.html#a444aceb1c29c951271bab5186a7f3064">BGQueueInviteEvent</a>, <a class="el" href="../../d2/d19/a07318.html#a42482ff784da4b23b568888a74a0b531">BGQueueRemoveEvent</a>, <a class="el" href="../../d0/dae/a07994.html#a5afd295abeb1295e43f48b8951b24c35">AssistDelayEvent</a>, <a class="el" href="../../df/d00/a07998.html#a735c709b269458911bd93da1902cbe25">ForcedDespawnDelayEvent</a>, <a class="el" href="../../d6/dfc/a08002.html#a2bbd75ad5e293e78e4bffe880f371d1e">TemporaryThreatModifierEvent</a>, <a class="el" href="../../d8/d6f/a08130.html#a86d7bd6f9f47ef37382b725f0d64877b">ForcedUnsummonDelayEvent</a>, <a class="el" href="../../d1/d41/a08754.html#a34ae2bc23904558bd5f5b99e8f1c5fdc">RedirectSpellEvent</a>, <a class="el" href="../../d5/d99/a08778.html#a39284ca2343e54cec915ac3ecf51f4a8">VehicleDespawnEvent</a>, <a class="el" href="../../d2/d4b/a11146.html#a37fb766d70932e8a431dba363c603531">ReflectEvent</a>, <a class="el" href="../../db/d4b/a17526.html#a3971962ec90f682baeae96fe6098fa97">BattleExperienceEvent</a>, <a class="el" href="../../da/d10/a05470.html#a8771a49f00554372b5ed38816abbd253">LambdaBasicEvent&lt; T &gt;</a>, <a class="el" href="../../dc/d1e/a06126.html#a2905731d24060dfa7c2069b05adfa2b2">KillMagnetEvent</a>, <a class="el" href="../../d1/d2b/a08686.html#a8f025a0ea1db81fb283db563402d1c40">AuraMunchingQueue</a>, <a class="el" href="../../df/d36/a08690.html#ad46e2d8f0ae0a13bc40ebfaf8c3249aa">ResetToHomeOrientation</a>, <a class="el" href="../../d8/dae/a12002.html#a633e5abe4a3a9353df63d3778b8d71bc">RestoreAttack</a>, <a class="el" href="../../d7/dee/a12114.html#a58a3c88ed3c6b534016179949b85ff9e">OrcMoveEvent</a>, <a class="el" href="../../d4/dff/a12118.html#a293ec6667da669a27fe75965f919cd68">OrcDeathEvent</a>, <a class="el" href="../../df/d75/a13014.html#a65ba0f1a1dc14e07b7b93a71c92ace6b">DelayedSummonEvent</a>, <a class="el" href="../../d1/d4e/a13274.html#a9929f3518f307e0b753782967f06c6c1">CorruptTriggers</a>, <a class="el" href="../../d2/dc0/a13338.html#a4f0651a38eaf03a07bcd73d0f88dda16">CastArmageddon</a>, <a class="el" href="../../d0/d3e/a13350.html#aa0db97475196b58bbed1f6bff1440fc6">MoveDelayed</a>, <a class="el" href="../../dd/d89/a13354.html#a7af72679731c9b86b9ae36d19d1621e5">FixOrientation</a>, <a class="el" href="../../dc/d7b/a14846.html#a0da766e3bae0d8d97a46ef82b3873cc0">NpcRunToHome</a>, <a class="el" href="../../d8/d99/a15578.html#aa413bc8709bc543b89ffb3df42185475">DelayedWindstoneSummonEvent</a>, <a class="el" href="../../d5/df2/a16014.html#a88c1915e73bcbd8ec253a537c416caf7">DelayedTalk</a>, <a class="el" href="../../d7/d76/a16018.html#a019eb3c08dc8c3b97fc27b989ec8ab77">RestoreFight</a>, <a class="el" href="../../d9/d48/a16070.html#ae21b67f8fe8a0677778436563872495f">SendEncounterUnit</a>, <a class="el" href="../../d3/df2/a16322.html#aecfbbbcac3fd98675913a6381c891a59">HideNpcEvent</a>, <a class="el" href="../../d3/d8c/a16974.html#ad2eb37877155b6dbc9916338e30d0306">UtherBatteredHiltEvent</a>, <a class="el" href="../../d6/d5c/a17114.html#a81db67be136525dea5a9cd84180be165">SlaveRunEvent</a>, <a class="el" href="../../d7/d76/a16018.html#a019eb3c08dc8c3b97fc27b989ec8ab77">RestoreFight</a>, <a class="el" href="../../d8/dcf/a17254.html#a56bc1071300ff8f81e62839685e8f53a">StandUpEvent</a>, <a class="el" href="../../d0/d37/a17258.html#a601f777052b8a142db49e9b0ab1fa81a">ShockVortexExplodeEvent</a>, <a class="el" href="../../df/df8/a17534.html#a8287761226ee671905151891779b6efb">DelayedMovementEvent</a>, <a class="el" href="../../da/d7d/a17538.html#ae8d52fc7c0689620bcef8c04643191f5">ResetEncounterEvent</a>, <a class="el" href="../../d4/d49/a17726.html#ada0ebc4a9c9f949dd0155a554a553543">DaranavanMoveEvent</a>, <a class="el" href="../../d2/d2e/a18014.html#a4da77796a223e6233ac6d908f7700623">FrostwyrmLandEvent</a>, <a class="el" href="../../d0/dab/a18018.html#a0b6521266f18b621260286c530ff3f36">FrostBombExplosion</a>, <a class="el" href="../../da/d32/a18022.html#aa708b67e60ba0b4fe2334c43aaaca5c7">IceTombSummonEvent</a>, <a class="el" href="../../df/d3d/a18178.html#af1a043d953bcffe9341292e85cae2f55">StartMovementEvent</a>, <a class="el" href="../../dc/def/a18182.html#a858892424e1f22fda9a7c519b6a7e0b6">VileSpiritActivateEvent</a>, <a class="el" href="../../d1/db3/a18186.html#a7c8f1b5c33fac4d6a7cd89e3e71aa36d">TriggerWickedSpirit</a>, <a class="el" href="../../de/d93/a18190.html#a06b9a77d3c5efb228368a1e423a620ae">LichKingDeathEvent</a>, <a class="el" href="../../d9/d4b/a18194.html#a22d6181fd2651d62dcb6cdbabe0561fe">LichKingMovieEvent</a>, <a class="el" href="../../dc/d40/a18442.html#ae2925429b3049e44d2afd2e8b990af71">DelayedCastEvent</a>, <a class="el" href="../../d5/d88/a18446.html#a14ac906a0fcff86f61983c570b0bd6ad">AuraRemoveEvent</a>, <a class="el" href="../../d5/d88/a18450.html#a4f8c63f52996da14078a7196cae3a00d">ValithriaDespawner</a>, <a class="el" href="../../d6/dab/a18582.html#a871cf08e8c7fced2971cae8abbc20454">CaptainSurviveTalk</a>, <a class="el" href="../../d0/d28/a18890.html#a2e58f4e472fb72cf5401f11be6e5e136">RespawnEvent</a>, <a class="el" href="../../d5/dc7/a18894.html#a12aeff246d07e541ed192974320842cb">DelayedCastMincharEvent</a>, <a class="el" href="../../d9/d1c/a19294.html#a368a613ba7861f7903b80e6f7f0dd64f">EoEDrakeEnterVehicleEvent</a>, <a class="el" href="../../de/d1b/a19306.html#a8d01bf861d37c25413dc14eee16a2939">ChargeRifts</a>, <a class="el" href="../../db/d14/a19674.html#a2d4b301e1b7e0852ec47280ad97871f2">CosmicSmashDamageEvent</a>, <a class="el" href="../../de/da3/a19774.html#ad86f17817c8a5accb1cc90e0e5d362f3">CastRunesEvent</a>, <a class="el" href="../../d9/d49/a20742.html#a1a870bea5c8e0a24a8ecd347a862ee75">BoomEvent</a>, <a class="el" href="../../d5/d77/a21822.html#ad3e4092941e8cd8953fdc251e97c458a">SACActivateEvent</a>, <a class="el" href="../../dd/dcb/a21826.html#a12179c55d1999b3cd0cfc5d51d039a31">SACDeactivateEvent</a>, <a class="el" href="../../d7/d5d/a22802.html#a4b7853bb835cf28aefe2d5b955372d70">VerasEnvenom</a>, <a class="el" href="../../d5/dc4/a22882.html#aae1664e6ef9d90ec8a0e12554b991bf0">SuckBackEvent</a>, <a class="el" href="../../d2/d67/a23778.html#a26a971a575e4b9503cd1da73d43ebd1e">CastQuill</a>, <a class="el" href="../../dd/d51/a23850.html#a122023ed13fce2f5bb3721e459964443">lapseTeleport</a>, <a class="el" href="../../d9/d88/a24426.html#a497ac46ab1acf95816020fc6be8ce03a">DeathEvent</a>, and <a class="el" href="../../d9/d09/a25670.html#a65a796ff4efece46c519f7bdf1524bb8">PartyTimeEmoteEvent</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">   50</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">   52</span>: <a class="code hl_variable" href="../../d8/d03/a05466.html#abee1c6def8872acea5f34f0ae22aa467">_buf</a>(buf), <a class="code hl_variable" href="../../d8/d03/a05466.html#a83a86f648edeeaf34b01581b972b2f1d">_end</a>(buf + n) {}</div>
+<div class="ttc" id="aa05466_html_a83a86f648edeeaf34b01581b972b2f1d"><div class="ttname"><a href="../../d8/d03/a05466.html#a83a86f648edeeaf34b01581b972b2f1d">Acore::CheckedBufferOutputIterator::_end</a></div><div class="ttdeci">T * _end</div><div class="ttdef"><b>Definition:</b> Containers.h:62</div></div>
+<div class="ttc" id="aa05466_html_abee1c6def8872acea5f34f0ae22aa467"><div class="ttname"><a href="../../d8/d03/a05466.html#abee1c6def8872acea5f34f0ae22aa467">Acore::CheckedBufferOutputIterator::_buf</a></div><div class="ttdeci">T * _buf</div><div class="ttdef"><b>Definition:</b> Containers.h:61</div></div>
 </div><!-- fragment -->
 </div>
 </div>
-<a id="a4b05df0749b6a18ef0e0b4137e727d7d" name="a4b05df0749b6a18ef0e0b4137e727d7d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4b05df0749b6a18ef0e0b4137e727d7d">&#9670;&#160;</a></span>IsAborted()</h2>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="ab8414d5a971d77718de7f610bb000443" name="ab8414d5a971d77718de7f610bb000443"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab8414d5a971d77718de7f610bb000443">&#9670;&#160;</a></span>check()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">bool BasicEvent::IsAborted </td>
+          <td class="memname">void <a class="el" href="../../d8/d03/a05466.html">Acore::CheckedBufferOutputIterator</a>&lt; T &gt;::check </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td> const</td>
@@ -422,26 +304,32 @@ Friends</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   63</span>{ <span class="keywordflow">return</span> (<a class="code hl_variable" href="../../d8/d03/a05466.html#afd9cf18b8a00c6195b9120f3fcf7ca69">m_abortState</a> == <a class="code hl_enumvalue" href="../../d8/d03/a05466.html#a3f26f839ff35d80af2a8f885ca1a1554a94084d8a7188eb3538561802c1f817f5">AbortState::STATE_ABORTED</a>); }</div>
-<div class="ttc" id="aa05466_html_afd9cf18b8a00c6195b9120f3fcf7ca69"><div class="ttname"><a href="../../d8/d03/a05466.html#afd9cf18b8a00c6195b9120f3fcf7ca69">BasicEvent::m_abortState</a></div><div class="ttdeci">AbortState m_abortState</div><div class="ttdef"><b>Definition:</b> EventProcessor.h:65</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   65</span>        {</div>
+<div class="line"><span class="lineno">   66</span>            <span class="keywordflow">if</span> (!(<a class="code hl_variable" href="../../d8/d03/a05466.html#abee1c6def8872acea5f34f0ae22aa467">_buf</a> &lt; <a class="code hl_variable" href="../../d8/d03/a05466.html#a83a86f648edeeaf34b01581b972b2f1d">_end</a>))</div>
+<div class="line"><span class="lineno">   67</span>            {</div>
+<div class="line"><span class="lineno">   68</span>                <span class="keywordflow">throw</span> std::out_of_range(<span class="stringliteral">&quot;index&quot;</span>);</div>
+<div class="line"><span class="lineno">   69</span>            }</div>
+<div class="line"><span class="lineno">   70</span>        }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00065">m_abortState</a>, and <a class="el" href="../../d8/d03/a05466.html#a3f26f839ff35d80af2a8f885ca1a1554a94084d8a7188eb3538561802c1f817f5">STATE_ABORTED</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00061">Acore::CheckedBufferOutputIterator&lt; T &gt;::_buf</a>, and <a class="el" href="../../#l00062">Acore::CheckedBufferOutputIterator&lt; T &gt;::_end</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00028">SetAborted()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00054">Acore::CheckedBufferOutputIterator&lt; T &gt;::operator*()</a>, and <a class="el" href="../../#l00055">Acore::CheckedBufferOutputIterator&lt; T &gt;::operator++()</a>.</p>
 
 </div>
 </div>
-<a id="a1ee71d72964b7124e8e137b02c81eac2" name="a1ee71d72964b7124e8e137b02c81eac2"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1ee71d72964b7124e8e137b02c81eac2">&#9670;&#160;</a></span>IsAbortScheduled()</h2>
+<a id="a2d4635aa952b03df738046667197b6f9" name="a2d4635aa952b03df738046667197b6f9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2d4635aa952b03df738046667197b6f9">&#9670;&#160;</a></span>operator*()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">bool BasicEvent::IsAbortScheduled </td>
+          <td class="memname">T &amp; <a class="el" href="../../d8/d03/a05466.html">Acore::CheckedBufferOutputIterator</a>&lt; T &gt;::operator* </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td> const</td>
@@ -449,111 +337,30 @@ Friends</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">private</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   62</span>{ <span class="keywordflow">return</span> (<a class="code hl_variable" href="../../d8/d03/a05466.html#afd9cf18b8a00c6195b9120f3fcf7ca69">m_abortState</a> == <a class="code hl_enumvalue" href="../../d8/d03/a05466.html#a3f26f839ff35d80af2a8f885ca1a1554a57184a4db33295d3f2462a45429a7d3a">AbortState::STATE_ABORT_SCHEDULED</a>); }</div>
+<div class="fragment"><div class="line"><span class="lineno">   54</span>{ <a class="code hl_function" href="../../d8/d03/a05466.html#ab8414d5a971d77718de7f610bb000443">check</a>(); <span class="keywordflow">return</span> *<a class="code hl_variable" href="../../d8/d03/a05466.html#abee1c6def8872acea5f34f0ae22aa467">_buf</a>; }</div>
+<div class="ttc" id="aa05466_html_ab8414d5a971d77718de7f610bb000443"><div class="ttname"><a href="../../d8/d03/a05466.html#ab8414d5a971d77718de7f610bb000443">Acore::CheckedBufferOutputIterator::check</a></div><div class="ttdeci">void check() const</div><div class="ttdef"><b>Definition:</b> Containers.h:64</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00065">m_abortState</a>, and <a class="el" href="../../d8/d03/a05466.html#a3f26f839ff35d80af2a8f885ca1a1554a57184a4db33295d3f2462a45429a7d3a">STATE_ABORT_SCHEDULED</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00061">Acore::CheckedBufferOutputIterator&lt; T &gt;::_buf</a>, and <a class="el" href="../../#l00064">Acore::CheckedBufferOutputIterator&lt; T &gt;::check()</a>.</p>
 
 </div>
 </div>
-<a id="a62c0483af9fd1885e779cf088a50eb02" name="a62c0483af9fd1885e779cf088a50eb02"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a62c0483af9fd1885e779cf088a50eb02">&#9670;&#160;</a></span>IsDeletable()</h2>
+<a id="a1bdbf99823ee46a88094480b5040211b" name="a1bdbf99823ee46a88094480b5040211b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1bdbf99823ee46a88094480b5040211b">&#9670;&#160;</a></span>operator++() <span class="overload">[1/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">virtual bool BasicEvent::IsDeletable </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p>Reimplemented in <a class="el" href="../../d6/d53/a11082.html#a2ecd9b31bacc717cc509eb9bb69c3cb3">SpellEvent</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">   52</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }   <span class="comment">// this event can be safely deleted</span></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="aeb6eb1bb1c54f70d5e0f88cf4e462fc2" name="aeb6eb1bb1c54f70d5e0f88cf4e462fc2"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aeb6eb1bb1c54f70d5e0f88cf4e462fc2">&#9670;&#160;</a></span>IsRunning()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool BasicEvent::IsRunning </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   61</span>{ <span class="keywordflow">return</span> (<a class="code hl_variable" href="../../d8/d03/a05466.html#afd9cf18b8a00c6195b9120f3fcf7ca69">m_abortState</a> == <a class="code hl_enumvalue" href="../../d8/d03/a05466.html#a3f26f839ff35d80af2a8f885ca1a1554ad8a3bbc9a845117a56f75c0f8e74f09e">AbortState::STATE_RUNNING</a>); }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00065">m_abortState</a>, and <a class="el" href="../../d8/d03/a05466.html#a3f26f839ff35d80af2a8f885ca1a1554ad8a3bbc9a845117a56f75c0f8e74f09e">STATE_RUNNING</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00021">ScheduleAbort()</a>.</p>
-
-</div>
-</div>
-<a id="afafade0729f08b8f1193a66f50c18348" name="afafade0729f08b8f1193a66f50c18348"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#afafade0729f08b8f1193a66f50c18348">&#9670;&#160;</a></span>ScheduleAbort()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void BasicEvent::ScheduleAbort </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   22</span>{</div>
-<div class="line"><span class="lineno">   23</span>    <a class="code hl_define" href="../../d4/d3e/a00116.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(<a class="code hl_function" href="../../d8/d03/a05466.html#aeb6eb1bb1c54f70d5e0f88cf4e462fc2">IsRunning</a>()</div>
-<div class="line"><span class="lineno">   24</span>           &amp;&amp; <span class="stringliteral">&quot;Tried to scheduled the abortion of an event twice!&quot;</span>);</div>
-<div class="line"><span class="lineno">   25</span>    <a class="code hl_variable" href="../../d8/d03/a05466.html#afd9cf18b8a00c6195b9120f3fcf7ca69">m_abortState</a> = <a class="code hl_enumvalue" href="../../d8/d03/a05466.html#a3f26f839ff35d80af2a8f885ca1a1554a57184a4db33295d3f2462a45429a7d3a">AbortState::STATE_ABORT_SCHEDULED</a>;</div>
-<div class="line"><span class="lineno">   26</span>}</div>
-<div class="ttc" id="aa00116_html_af343b20373ba49a92fce523e948f2ab3"><div class="ttname"><a href="../../d4/d3e/a00116.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a></div><div class="ttdeci">#define ASSERT</div><div class="ttdef"><b>Definition:</b> Errors.h:68</div></div>
-<div class="ttc" id="aa05466_html_aeb6eb1bb1c54f70d5e0f88cf4e462fc2"><div class="ttname"><a href="../../d8/d03/a05466.html#aeb6eb1bb1c54f70d5e0f88cf4e462fc2">BasicEvent::IsRunning</a></div><div class="ttdeci">bool IsRunning() const</div><div class="ttdef"><b>Definition:</b> EventProcessor.h:61</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00061">IsRunning()</a>, <a class="el" href="../../#l00065">m_abortState</a>, and <a class="el" href="../../d8/d03/a05466.html#a3f26f839ff35d80af2a8f885ca1a1554a57184a4db33295d3f2462a45429a7d3a">STATE_ABORT_SCHEDULED</a>.</p>
-
-</div>
-</div>
-<a id="a9224c2878bff4f6df28bedb973be2d27" name="a9224c2878bff4f6df28bedb973be2d27"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9224c2878bff4f6df28bedb973be2d27">&#9670;&#160;</a></span>SetAborted()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void BasicEvent::SetAborted </td>
+          <td class="memname"><a class="el" href="../../d8/d03/a05466.html">CheckedBufferOutputIterator</a> &amp; <a class="el" href="../../d8/d03/a05466.html">Acore::CheckedBufferOutputIterator</a>&lt; T &gt;::operator++ </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -561,56 +368,97 @@ Friends</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   29</span>{</div>
-<div class="line"><span class="lineno">   30</span>    <a class="code hl_define" href="../../d4/d3e/a00116.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(!<a class="code hl_function" href="../../d8/d03/a05466.html#a4b05df0749b6a18ef0e0b4137e727d7d">IsAborted</a>()</div>
-<div class="line"><span class="lineno">   31</span>           &amp;&amp; <span class="stringliteral">&quot;Tried to abort an already aborted event!&quot;</span>);</div>
-<div class="line"><span class="lineno">   32</span>    <a class="code hl_variable" href="../../d8/d03/a05466.html#afd9cf18b8a00c6195b9120f3fcf7ca69">m_abortState</a> = <a class="code hl_enumvalue" href="../../d8/d03/a05466.html#a3f26f839ff35d80af2a8f885ca1a1554a94084d8a7188eb3538561802c1f817f5">AbortState::STATE_ABORTED</a>;</div>
-<div class="line"><span class="lineno">   33</span>}</div>
-<div class="ttc" id="aa05466_html_a4b05df0749b6a18ef0e0b4137e727d7d"><div class="ttname"><a href="../../d8/d03/a05466.html#a4b05df0749b6a18ef0e0b4137e727d7d">BasicEvent::IsAborted</a></div><div class="ttdeci">bool IsAborted() const</div><div class="ttdef"><b>Definition:</b> EventProcessor.h:63</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   55</span>{ <a class="code hl_function" href="../../d8/d03/a05466.html#ab8414d5a971d77718de7f610bb000443">check</a>(); ++<a class="code hl_variable" href="../../d8/d03/a05466.html#abee1c6def8872acea5f34f0ae22aa467">_buf</a>; <span class="keywordflow">return</span> *<span class="keyword">this</span>; }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00063">IsAborted()</a>, <a class="el" href="../../#l00065">m_abortState</a>, and <a class="el" href="../../d8/d03/a05466.html#a3f26f839ff35d80af2a8f885ca1a1554a94084d8a7188eb3538561802c1f817f5">STATE_ABORTED</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00061">Acore::CheckedBufferOutputIterator&lt; T &gt;::_buf</a>, and <a class="el" href="../../#l00064">Acore::CheckedBufferOutputIterator&lt; T &gt;::check()</a>.</p>
 
 </div>
 </div>
-<h2 class="groupheader">Friends And Related Function Documentation</h2>
-<a id="acce868eb94e25fcad6a070753b63bdfc" name="acce868eb94e25fcad6a070753b63bdfc"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#acce868eb94e25fcad6a070753b63bdfc">&#9670;&#160;</a></span>EventProcessor</h2>
+<a id="a8a72bd229fb92e389ec311142ca2a139" name="a8a72bd229fb92e389ec311142ca2a139"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8a72bd229fb92e389ec311142ca2a139">&#9670;&#160;</a></span>operator++() <span class="overload">[2/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">friend class <a class="el" href="../../df/d07/a05474.html">EventProcessor</a></td>
+          <td class="memname"><a class="el" href="../../d8/d03/a05466.html">CheckedBufferOutputIterator</a> <a class="el" href="../../d8/d03/a05466.html">Acore::CheckedBufferOutputIterator</a>&lt; T &gt;::operator++ </td>
+          <td>(</td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">friend</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   56</span>{ <a class="code hl_function" href="../../d8/d03/a05466.html#a49de38fe9f4e296bcd229d486864c65e">CheckedBufferOutputIterator</a> v = *<span class="keyword">this</span>; <a class="code hl_function" href="../../d8/d03/a05466.html#a1bdbf99823ee46a88094480b5040211b">operator++</a>(); <span class="keywordflow">return</span> v; }</div>
+<div class="ttc" id="aa05466_html_a1bdbf99823ee46a88094480b5040211b"><div class="ttname"><a href="../../d8/d03/a05466.html#a1bdbf99823ee46a88094480b5040211b">Acore::CheckedBufferOutputIterator::operator++</a></div><div class="ttdeci">CheckedBufferOutputIterator &amp; operator++()</div><div class="ttdef"><b>Definition:</b> Containers.h:55</div></div>
+<div class="ttc" id="aa05466_html_a49de38fe9f4e296bcd229d486864c65e"><div class="ttname"><a href="../../d8/d03/a05466.html#a49de38fe9f4e296bcd229d486864c65e">Acore::CheckedBufferOutputIterator::CheckedBufferOutputIterator</a></div><div class="ttdeci">CheckedBufferOutputIterator(T *buf, std::size_t n)</div><div class="ttdef"><b>Definition:</b> Containers.h:52</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00056">Acore::CheckedBufferOutputIterator&lt; T &gt;::operator++()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00056">Acore::CheckedBufferOutputIterator&lt; T &gt;::operator++()</a>.</p>
+
+</div>
+</div>
+<a id="ae804b558c6912a00405070e170572407" name="ae804b558c6912a00405070e170572407"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae804b558c6912a00405070e170572407">&#9670;&#160;</a></span>remaining()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::size_t <a class="el" href="../../d8/d03/a05466.html">Acore::CheckedBufferOutputIterator</a>&lt; T &gt;::remaining </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   58</span>{ <span class="keywordflow">return</span> (<a class="code hl_variable" href="../../d8/d03/a05466.html#a83a86f648edeeaf34b01581b972b2f1d">_end</a> - <a class="code hl_variable" href="../../d8/d03/a05466.html#abee1c6def8872acea5f34f0ae22aa467">_buf</a>); }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00061">Acore::CheckedBufferOutputIterator&lt; T &gt;::_buf</a>, and <a class="el" href="../../#l00062">Acore::CheckedBufferOutputIterator&lt; T &gt;::_end</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00281">Utf8toWStr()</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="afd9cf18b8a00c6195b9120f3fcf7ca69" name="afd9cf18b8a00c6195b9120f3fcf7ca69"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#afd9cf18b8a00c6195b9120f3fcf7ca69">&#9670;&#160;</a></span>m_abortState</h2>
+<a id="abee1c6def8872acea5f34f0ae22aa467" name="abee1c6def8872acea5f34f0ae22aa467"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abee1c6def8872acea5f34f0ae22aa467">&#9670;&#160;</a></span>_buf</h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d8/d03/a05466.html#a3f26f839ff35d80af2a8f885ca1a1554">AbortState</a> BasicEvent::m_abortState {<a class="el" href="../../d8/d03/a05466.html#a3f26f839ff35d80af2a8f885ca1a1554ad8a3bbc9a845117a56f75c0f8e74f09e">AbortState::STATE_RUNNING</a>}</td>
+          <td class="memname">T* <a class="el" href="../../d8/d03/a05466.html">Acore::CheckedBufferOutputIterator</a>&lt; T &gt;::_buf</td>
         </tr>
       </table>
   </td>
@@ -620,21 +468,23 @@ Friends</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00063">IsAborted()</a>, <a class="el" href="../../#l00062">IsAbortScheduled()</a>, <a class="el" href="../../#l00061">IsRunning()</a>, <a class="el" href="../../#l00021">ScheduleAbort()</a>, and <a class="el" href="../../#l00028">SetAborted()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00064">Acore::CheckedBufferOutputIterator&lt; T &gt;::check()</a>, <a class="el" href="../../#l00054">Acore::CheckedBufferOutputIterator&lt; T &gt;::operator*()</a>, <a class="el" href="../../#l00055">Acore::CheckedBufferOutputIterator&lt; T &gt;::operator++()</a>, and <a class="el" href="../../#l00058">Acore::CheckedBufferOutputIterator&lt; T &gt;::remaining()</a>.</p>
 
 </div>
 </div>
-<a id="ac236835e6298588e834cde7a8c2bfece" name="ac236835e6298588e834cde7a8c2bfece"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac236835e6298588e834cde7a8c2bfece">&#9670;&#160;</a></span>m_addTime</h2>
+<a id="a83a86f648edeeaf34b01581b972b2f1d" name="a83a86f648edeeaf34b01581b972b2f1d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a83a86f648edeeaf34b01581b972b2f1d">&#9670;&#160;</a></span>_end</h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d2/de7/a00014.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a> BasicEvent::m_addTime {0}</td>
+          <td class="memname">T* <a class="el" href="../../d8/d03/a05466.html">Acore::CheckedBufferOutputIterator</a>&lt; T &gt;::_end</td>
         </tr>
       </table>
   </td>
@@ -644,49 +494,7 @@ Friends</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-</div>
-</div>
-<a id="a2ee03f01e03347d04eb38a215d10f036" name="a2ee03f01e03347d04eb38a215d10f036"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2ee03f01e03347d04eb38a215d10f036">&#9670;&#160;</a></span>m_eventGroup</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d2/de7/a00014.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> BasicEvent::m_eventGroup {0}</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="afbd8d5728992e7676fde628fc03dc588" name="afbd8d5728992e7676fde628fc03dc588"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#afbd8d5728992e7676fde628fc03dc588">&#9670;&#160;</a></span>m_execTime</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d2/de7/a00014.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a> BasicEvent::m_execTime {0}</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
+<p class="reference">Referenced by <a class="el" href="../../#l00064">Acore::CheckedBufferOutputIterator&lt; T &gt;::check()</a>, and <a class="el" href="../../#l00058">Acore::CheckedBufferOutputIterator&lt; T &gt;::remaining()</a>.</p>
 
 </div>
 </div>
@@ -695,8 +503,8 @@ Friends</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d8/d03/a05466.html">BasicEvent</a></li>
-    <li class="footer">Generated on Mon Aug 4 2025 20:51:06 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d3/d7d/a04797.html">Acore</a></li><li class="navelem"><a class="el" href="../../d8/d03/a05466.html">CheckedBufferOutputIterator</a></li>
+    <li class="footer">Generated on Mon Sep 1 2025 20:44:46 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

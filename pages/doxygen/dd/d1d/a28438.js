@@ -1,7 +1,7 @@
 var a28438 =
 [
-    [ "ClassMask", "dd/d1d/a28438.html#acae4582c147b5fd95780ae7b55d36fdc", null ],
-    [ "petTalentMask", "dd/d1d/a28438.html#a22ab1cf8ad05e57d91a63e3876ae2b77", null ],
-    [ "tabpage", "dd/d1d/a28438.html#aa6389276582adeb4cae76c257734795c", null ],
-    [ "TalentTabID", "dd/d1d/a28438.html#ae3a71c61223b59185365819164715dc2", null ]
+    [ "AllocationPct", "dd/d1d/a28438.html#a45d752dfd00a75f69d919a88573ba4fc", null ],
+    [ "Enchantment", "dd/d1d/a28438.html#a45e694082c1dbdeef5229561f617d584", null ],
+    [ "ID", "dd/d1d/a28438.html#a66d78860d81c497765b5e68b5fd2ae18", null ],
+    [ "Name", "dd/d1d/a28438.html#a3ee4d8152817e10b873de5ec36ba062b", null ]
 ];

@@ -1,5 +1,9 @@
 var a28254 =
 [
-    [ "ID", "d2/de2/a28254.html#a65acb5af9a688346cbb7dc144710c768", null ],
-    [ "inventoryIcon", "d2/de2/a28254.html#a26b43ee179bd546c6e956dd797fc0842", null ]
+    [ "HolidayWorldStateId", "d2/de2/a28254.html#a3f70ffbb1abb5a96fe91c2eec3682c8b", null ],
+    [ "id", "d2/de2/a28254.html#a52f7840f9247d2af63062dd280b37341", null ],
+    [ "mapid", "d2/de2/a28254.html#a11e1326eeb24b436b10db53acc323c13", null ],
+    [ "maxGroupSize", "d2/de2/a28254.html#adbdae47b424c3b61b76b48ea5798f52d", null ],
+    [ "name", "d2/de2/a28254.html#a9a56ca930ff8425d4b77066e47a1e09f", null ],
+    [ "type", "d2/de2/a28254.html#a647669b97599d7edf02b5a38dd1d5116", null ]
 ];

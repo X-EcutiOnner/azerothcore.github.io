@@ -1,6 +1,6 @@
 var a17910 =
 [
-    [ "HandleScript", "d5/d25/a17910.html#a54ecb69bf0c54c170b12c9a4b88b55fb", null ],
-    [ "PrepareSpellScript", "d5/d25/a17910.html#a50560d754709e6b9ec6863142c1ffce3", null ],
-    [ "Register", "d5/d25/a17910.html#ab29deadceb953d6fb5d997b21ee4bb1c", null ]
+    [ "npc_cult_fanaticAI", "d9/d2b/a17914.html", "d9/d2b/a17914" ],
+    [ "npc_cult_fanatic", "d5/d25/a17910.html#af29ab8f7628b96b0f192bccab74ca02e", null ],
+    [ "GetAI", "d5/d25/a17910.html#ae4d22bac12d17d79669d3fccd4029952", null ]
 ];

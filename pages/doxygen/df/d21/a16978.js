@@ -1,6 +1,5 @@
 var a16978 =
 [
-    [ "instance_halls_of_reflection_InstanceMapScript", "db/dd3/a16982.html", "db/dd3/a16982" ],
-    [ "instance_halls_of_reflection", "df/d21/a16978.html#a8872b51ceec25dbf4831f45b27206ed1", null ],
-    [ "GetInstanceScript", "df/d21/a16978.html#aca27a4f654f41fe6f238c905b48285b7", null ]
+    [ "npc_fos_leader_secondAI", "df/d21/a16978.html#a25df0b8760e9eb7d330779e10e3ac548", null ],
+    [ "MovementInform", "df/d21/a16978.html#a9cc0b500f1289dc8b764b3755468e639", null ]
 ];

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/scripts/Kalimdor/zone_orgrimmar.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/game/Warden/WardenWin.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,206 +105,292 @@ $(document).ready(function(){initNavTree('d9/daf/a02807.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#nested-classes">Classes</a> &#124;
-<a href="#enum-members">Enumerations</a> &#124;
 <a href="#func-members">Functions</a> &#124;
 <a href="#var-members">Variables</a>  </div>
-  <div class="headertitle"><div class="title">zone_orgrimmar.cpp File Reference</div></div>
+  <div class="headertitle"><div class="title">WardenWin.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">AreaDefines.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">CreatureScript.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">WardenWin.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ByteBuffer.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Common.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">CryptoRandom.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">GameTime.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">HMAC.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Log.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Opcodes.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ScriptedCreature.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ScriptedGossip.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">TaskScheduler.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">LFGMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">SessionKeyGenerator.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Util.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">WardenCheckMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">WardenModuleWin.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">World.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">WorldPacket.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">WorldSession.h</a>&quot;</code><br />
+<code>#include &lt;openssl/crypto.h&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
-Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dd7/a15568.html">npc_shenthul</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d68/a15572.html">npc_shenthul::npc_shenthulAI</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/de6/a15576.html">npc_thrall_warchief</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d9b/a15580.html">npc_thrall_warchief::npc_thrall_warchiefAI</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
-Enumerations</h2></td></tr>
-<tr class="memitem:a032512bb2693fda342f4d77dba794fbe"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/daf/a02807.html#a032512bb2693fda342f4d77dba794fbe">Shenthul</a> : uint32 { <a class="el" href="../../d9/daf/a02807.html#a032512bb2693fda342f4d77dba794fbea38993f500c01e7bc0ae8dd3a83848ff0">QUEST_SHATTERED_SALUTE</a> = 2460
- }</td></tr>
-<tr class="separator:a032512bb2693fda342f4d77dba794fbe"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1cdad3bda3b93500c342a64dce6d15d9"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/daf/a02807.html#a1cdad3bda3b93500c342a64dce6d15d9">ThrallWarchief</a> : uint32 { <br />
-&#160;&#160;<a class="el" href="../../d9/daf/a02807.html#a1cdad3bda3b93500c342a64dce6d15d9ac0997e72929070d8e30cc0f49cc4539d">SPELL_CHAIN_LIGHTNING</a> = 16033
-, <br />
-&#160;&#160;<a class="el" href="../../d9/daf/a02807.html#a1cdad3bda3b93500c342a64dce6d15d9a30aa4cac2f70a310466b3fb0f2d10eab">SPELL_SHOCK</a> = 16034
-, <br />
-&#160;&#160;<a class="el" href="../../d9/daf/a02807.html#a1cdad3bda3b93500c342a64dce6d15d9aed442141280385194a0a8b73d7e489af">QUEST_FOR_THE_HORDE</a> = 4974
-, <br />
-&#160;&#160;<a class="el" href="../../d9/daf/a02807.html#a1cdad3bda3b93500c342a64dce6d15d9a567e6044eaae260d8ab29c346613b225">SPELL_WARCHIEF_BLESSING</a> = 16609
-, <br />
-&#160;&#160;<a class="el" href="../../d9/daf/a02807.html#a1cdad3bda3b93500c342a64dce6d15d9a3533aba0519168d4cfb3446a1bbde5bc">NPC_HERALD_OF_THRALL</a> = 10719
-, <br />
-&#160;&#160;<a class="el" href="../../d9/daf/a02807.html#a1cdad3bda3b93500c342a64dce6d15d9a322b9b49cd88bc70c039be2aa4e0c7fd">ACTION_START_TALKING</a> = 0
-, <br />
-&#160;&#160;<a class="el" href="../../d9/daf/a02807.html#a1cdad3bda3b93500c342a64dce6d15d9a64ac3588375f611524513fd4d4293a1b">SAY_THRALL_ON_QUEST_REWARD_0</a> = 0
-, <br />
-&#160;&#160;<a class="el" href="../../d9/daf/a02807.html#a1cdad3bda3b93500c342a64dce6d15d9a3a6a88801e0a276bd78e5299ffb76302">SAY_THRALL_ON_QUEST_REWARD_1</a> = 1
-, <br />
-&#160;&#160;<a class="el" href="../../d9/daf/a02807.html#a1cdad3bda3b93500c342a64dce6d15d9a544ea295d906cebdf38aecb93e7ac153">GO_UNADORNED_SPIKE</a> = 175787
-, <br />
-&#160;&#160;<a class="el" href="../../d9/daf/a02807.html#a1cdad3bda3b93500c342a64dce6d15d9a5bc18876e7da8ddfc493ea155bb75287">QUEST_WHAT_THE_WIND_CARRIES</a> = 6566
-, <br />
-&#160;&#160;<a class="el" href="../../d9/daf/a02807.html#a1cdad3bda3b93500c342a64dce6d15d9a502d5aed1ed2917d36573a355656ce86">GOSSIP_MENU_THRALL</a> = 3664
-, <br />
-&#160;&#160;<a class="el" href="../../d9/daf/a02807.html#a1cdad3bda3b93500c342a64dce6d15d9a710a8ed7a2d8ddb38e5e0f7db188132d">GOSSIP_RESPONSE_THRALL_FIRST</a> = 5733
-, <br />
-&#160;&#160;<a class="el" href="../../d9/daf/a02807.html#a1cdad3bda3b93500c342a64dce6d15d9ab698e2206a77782e1893a2230085a047">QUEST_WARCHIEFS_BLESSING</a> = 13189
-<br />
- }</td></tr>
-<tr class="separator:a1cdad3bda3b93500c342a64dce6d15d9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:aec4388ea6d2e4bbc1d279b3a4687c4c6"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/daf/a02807.html#aec4388ea6d2e4bbc1d279b3a4687c4c6">AddSC_orgrimmar</a> ()</td></tr>
-<tr class="separator:aec4388ea6d2e4bbc1d279b3a4687c4c6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa48d9759919f0fb8415c0fd0731a23b1"><td class="memItemLeft" align="right" valign="top">static constexpr <a class="el" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/daf/a02807.html#aa48d9759919f0fb8415c0fd0731a23b1">GetCheckPacketBaseSize</a> (<a class="el" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> type)</td></tr>
+<tr class="separator:aa48d9759919f0fb8415c0fd0731a23b1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adfb39c1ce4f6159c2c70e3cdf26978c9"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d0/d61/a00302.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/daf/a02807.html#adfb39c1ce4f6159c2c70e3cdf26978c9">GetCheckPacketSize</a> (<a class="el" href="../../de/dff/a11614.html">WardenCheck</a> const *check)</td></tr>
+<tr class="separator:adfb39c1ce4f6159c2c70e3cdf26978c9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aedb0d8dcf11f0df50080f361dcd78fed"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../de/d87/a02939.html#a468ad15992691eb97dd20680046832e0">ServerConfigs</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/daf/a02807.html#aedb0d8dcf11f0df50080f361dcd78fed">GetMaxWardenChecksForType</a> (<a class="el" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> type)</td></tr>
+<tr class="separator:aedb0d8dcf11f0df50080f361dcd78fed"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
 Variables</h2></td></tr>
-<tr class="memitem:a016aeee1d0eac9c78c522520663670f0"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="../../de/d33/a08452.html">Position</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/daf/a02807.html#a016aeee1d0eac9c78c522520663670f0">heraldOfThrallPos</a> = { -462.404f, -2637.68f, 96.0656f, 5.8606f }</td></tr>
-<tr class="separator:a016aeee1d0eac9c78c522520663670f0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a259abc7d98e16cefc14404b5886cbc09"><td class="memItemLeft" align="right" valign="top">static constexpr char&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/daf/a02807.html#a259abc7d98e16cefc14404b5886cbc09">_luaEvalPrefix</a> [] = &quot;local S,T,R=SendAddonMessage,function()&quot;</td></tr>
+<tr class="separator:a259abc7d98e16cefc14404b5886cbc09"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5506a4e4233b2c380f79ad1225c4dc93"><td class="memItemLeft" align="right" valign="top">static constexpr char&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/daf/a02807.html#a5506a4e4233b2c380f79ad1225c4dc93">_luaEvalMidfix</a> [] = &quot; end R=S and T()if R then S('_TW',&quot;</td></tr>
+<tr class="separator:a5506a4e4233b2c380f79ad1225c4dc93"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad14853510c2482e64bd81633e5074206"><td class="memItemLeft" align="right" valign="top">static constexpr char&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/daf/a02807.html#ad14853510c2482e64bd81633e5074206">_luaEvalPostfix</a> [] = &quot;,'GUILD')end&quot;</td></tr>
+<tr class="separator:ad14853510c2482e64bd81633e5074206"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="a032512bb2693fda342f4d77dba794fbe" name="a032512bb2693fda342f4d77dba794fbe"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a032512bb2693fda342f4d77dba794fbe">&#9670;&#160;</a></span>Shenthul</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../d9/daf/a02807.html#a032512bb2693fda342f4d77dba794fbe">Shenthul</a> : <a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a032512bb2693fda342f4d77dba794fbea38993f500c01e7bc0ae8dd3a83848ff0" name="a032512bb2693fda342f4d77dba794fbea38993f500c01e7bc0ae8dd3a83848ff0"></a>QUEST_SHATTERED_SALUTE&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   31</span>{</div>
-<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../d9/daf/a02807.html#a032512bb2693fda342f4d77dba794fbea38993f500c01e7bc0ae8dd3a83848ff0">QUEST_SHATTERED_SALUTE</a>  = 2460</div>
-<div class="line"><span class="lineno">   33</span>};</div>
-<div class="ttc" id="aa02807_html_a032512bb2693fda342f4d77dba794fbea38993f500c01e7bc0ae8dd3a83848ff0"><div class="ttname"><a href="../../d9/daf/a02807.html#a032512bb2693fda342f4d77dba794fbea38993f500c01e7bc0ae8dd3a83848ff0">QUEST_SHATTERED_SALUTE</a></div><div class="ttdeci">@ QUEST_SHATTERED_SALUTE</div><div class="ttdef"><b>Definition:</b> zone_orgrimmar.cpp:32</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a1cdad3bda3b93500c342a64dce6d15d9" name="a1cdad3bda3b93500c342a64dce6d15d9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1cdad3bda3b93500c342a64dce6d15d9">&#9670;&#160;</a></span>ThrallWarchief</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../d9/daf/a02807.html#a1cdad3bda3b93500c342a64dce6d15d9">ThrallWarchief</a> : <a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a1cdad3bda3b93500c342a64dce6d15d9ac0997e72929070d8e30cc0f49cc4539d" name="a1cdad3bda3b93500c342a64dce6d15d9ac0997e72929070d8e30cc0f49cc4539d"></a>SPELL_CHAIN_LIGHTNING&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a1cdad3bda3b93500c342a64dce6d15d9a30aa4cac2f70a310466b3fb0f2d10eab" name="a1cdad3bda3b93500c342a64dce6d15d9a30aa4cac2f70a310466b3fb0f2d10eab"></a>SPELL_SHOCK&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a1cdad3bda3b93500c342a64dce6d15d9aed442141280385194a0a8b73d7e489af" name="a1cdad3bda3b93500c342a64dce6d15d9aed442141280385194a0a8b73d7e489af"></a>QUEST_FOR_THE_HORDE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a1cdad3bda3b93500c342a64dce6d15d9a567e6044eaae260d8ab29c346613b225" name="a1cdad3bda3b93500c342a64dce6d15d9a567e6044eaae260d8ab29c346613b225"></a>SPELL_WARCHIEF_BLESSING&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a1cdad3bda3b93500c342a64dce6d15d9a3533aba0519168d4cfb3446a1bbde5bc" name="a1cdad3bda3b93500c342a64dce6d15d9a3533aba0519168d4cfb3446a1bbde5bc"></a>NPC_HERALD_OF_THRALL&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a1cdad3bda3b93500c342a64dce6d15d9a322b9b49cd88bc70c039be2aa4e0c7fd" name="a1cdad3bda3b93500c342a64dce6d15d9a322b9b49cd88bc70c039be2aa4e0c7fd"></a>ACTION_START_TALKING&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a1cdad3bda3b93500c342a64dce6d15d9a64ac3588375f611524513fd4d4293a1b" name="a1cdad3bda3b93500c342a64dce6d15d9a64ac3588375f611524513fd4d4293a1b"></a>SAY_THRALL_ON_QUEST_REWARD_0&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a1cdad3bda3b93500c342a64dce6d15d9a3a6a88801e0a276bd78e5299ffb76302" name="a1cdad3bda3b93500c342a64dce6d15d9a3a6a88801e0a276bd78e5299ffb76302"></a>SAY_THRALL_ON_QUEST_REWARD_1&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a1cdad3bda3b93500c342a64dce6d15d9a544ea295d906cebdf38aecb93e7ac153" name="a1cdad3bda3b93500c342a64dce6d15d9a544ea295d906cebdf38aecb93e7ac153"></a>GO_UNADORNED_SPIKE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a1cdad3bda3b93500c342a64dce6d15d9a5bc18876e7da8ddfc493ea155bb75287" name="a1cdad3bda3b93500c342a64dce6d15d9a5bc18876e7da8ddfc493ea155bb75287"></a>QUEST_WHAT_THE_WIND_CARRIES&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a1cdad3bda3b93500c342a64dce6d15d9a502d5aed1ed2917d36573a355656ce86" name="a1cdad3bda3b93500c342a64dce6d15d9a502d5aed1ed2917d36573a355656ce86"></a>GOSSIP_MENU_THRALL&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a1cdad3bda3b93500c342a64dce6d15d9a710a8ed7a2d8ddb38e5e0f7db188132d" name="a1cdad3bda3b93500c342a64dce6d15d9a710a8ed7a2d8ddb38e5e0f7db188132d"></a>GOSSIP_RESPONSE_THRALL_FIRST&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a1cdad3bda3b93500c342a64dce6d15d9ab698e2206a77782e1893a2230085a047" name="a1cdad3bda3b93500c342a64dce6d15d9ab698e2206a77782e1893a2230085a047"></a>QUEST_WARCHIEFS_BLESSING&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">  128</span>{</div>
-<div class="line"><span class="lineno">  129</span>    <a class="code hl_enumvalue" href="../../d9/daf/a02807.html#a1cdad3bda3b93500c342a64dce6d15d9ac0997e72929070d8e30cc0f49cc4539d">SPELL_CHAIN_LIGHTNING</a>          = 16033,</div>
-<div class="line"><span class="lineno">  130</span>    <a class="code hl_enumvalue" href="../../d9/daf/a02807.html#a1cdad3bda3b93500c342a64dce6d15d9a30aa4cac2f70a310466b3fb0f2d10eab">SPELL_SHOCK</a>                    = 16034,</div>
-<div class="line"><span class="lineno">  131</span> </div>
-<div class="line"><span class="lineno">  132</span>    <span class="comment">// For The Horde! (ID: 4974)</span></div>
-<div class="line"><span class="lineno">  133</span>    <a class="code hl_enumvalue" href="../../d9/daf/a02807.html#a1cdad3bda3b93500c342a64dce6d15d9aed442141280385194a0a8b73d7e489af">QUEST_FOR_THE_HORDE</a>            = 4974,</div>
-<div class="line"><span class="lineno">  134</span>    <a class="code hl_enumvalue" href="../../d9/daf/a02807.html#a1cdad3bda3b93500c342a64dce6d15d9a567e6044eaae260d8ab29c346613b225">SPELL_WARCHIEF_BLESSING</a>        = 16609,</div>
-<div class="line"><span class="lineno">  135</span>    <a class="code hl_enumvalue" href="../../d9/daf/a02807.html#a1cdad3bda3b93500c342a64dce6d15d9a3533aba0519168d4cfb3446a1bbde5bc">NPC_HERALD_OF_THRALL</a>           = 10719,</div>
-<div class="line"><span class="lineno">  136</span>    <a class="code hl_enumvalue" href="../../d9/daf/a02807.html#a1cdad3bda3b93500c342a64dce6d15d9a322b9b49cd88bc70c039be2aa4e0c7fd">ACTION_START_TALKING</a>           = 0,</div>
-<div class="line"><span class="lineno">  137</span> </div>
-<div class="line"><span class="lineno">  138</span>    <a class="code hl_enumvalue" href="../../d9/daf/a02807.html#a1cdad3bda3b93500c342a64dce6d15d9a64ac3588375f611524513fd4d4293a1b">SAY_THRALL_ON_QUEST_REWARD_0</a>   = 0,</div>
-<div class="line"><span class="lineno">  139</span>    <a class="code hl_enumvalue" href="../../d9/daf/a02807.html#a1cdad3bda3b93500c342a64dce6d15d9a3a6a88801e0a276bd78e5299ffb76302">SAY_THRALL_ON_QUEST_REWARD_1</a>   = 1,</div>
-<div class="line"><span class="lineno">  140</span> </div>
-<div class="line"><span class="lineno">  141</span>    <a class="code hl_enumvalue" href="../../d9/daf/a02807.html#a1cdad3bda3b93500c342a64dce6d15d9a544ea295d906cebdf38aecb93e7ac153">GO_UNADORNED_SPIKE</a>             = 175787,</div>
-<div class="line"><span class="lineno">  142</span> </div>
-<div class="line"><span class="lineno">  143</span>    <span class="comment">// What the Wind Carries (ID: 6566)</span></div>
-<div class="line"><span class="lineno">  144</span>    <a class="code hl_enumvalue" href="../../d9/daf/a02807.html#a1cdad3bda3b93500c342a64dce6d15d9a5bc18876e7da8ddfc493ea155bb75287">QUEST_WHAT_THE_WIND_CARRIES</a>    = 6566,</div>
-<div class="line"><span class="lineno">  145</span>    <a class="code hl_enumvalue" href="../../d9/daf/a02807.html#a1cdad3bda3b93500c342a64dce6d15d9a502d5aed1ed2917d36573a355656ce86">GOSSIP_MENU_THRALL</a>             = 3664,</div>
-<div class="line"><span class="lineno">  146</span>    <a class="code hl_enumvalue" href="../../d9/daf/a02807.html#a1cdad3bda3b93500c342a64dce6d15d9a710a8ed7a2d8ddb38e5e0f7db188132d">GOSSIP_RESPONSE_THRALL_FIRST</a>   = 5733,</div>
-<div class="line"><span class="lineno">  147</span> </div>
-<div class="line"><span class="lineno">  148</span>    <span class="comment">// Deathknight Starting Zone End</span></div>
-<div class="line"><span class="lineno">  149</span>    <a class="code hl_enumvalue" href="../../d9/daf/a02807.html#a1cdad3bda3b93500c342a64dce6d15d9ab698e2206a77782e1893a2230085a047">QUEST_WARCHIEFS_BLESSING</a>       = 13189,</div>
-<div class="line"><span class="lineno">  150</span>};</div>
-<div class="ttc" id="aa02807_html_a1cdad3bda3b93500c342a64dce6d15d9a30aa4cac2f70a310466b3fb0f2d10eab"><div class="ttname"><a href="../../d9/daf/a02807.html#a1cdad3bda3b93500c342a64dce6d15d9a30aa4cac2f70a310466b3fb0f2d10eab">SPELL_SHOCK</a></div><div class="ttdeci">@ SPELL_SHOCK</div><div class="ttdef"><b>Definition:</b> zone_orgrimmar.cpp:130</div></div>
-<div class="ttc" id="aa02807_html_a1cdad3bda3b93500c342a64dce6d15d9a322b9b49cd88bc70c039be2aa4e0c7fd"><div class="ttname"><a href="../../d9/daf/a02807.html#a1cdad3bda3b93500c342a64dce6d15d9a322b9b49cd88bc70c039be2aa4e0c7fd">ACTION_START_TALKING</a></div><div class="ttdeci">@ ACTION_START_TALKING</div><div class="ttdef"><b>Definition:</b> zone_orgrimmar.cpp:136</div></div>
-<div class="ttc" id="aa02807_html_a1cdad3bda3b93500c342a64dce6d15d9a3533aba0519168d4cfb3446a1bbde5bc"><div class="ttname"><a href="../../d9/daf/a02807.html#a1cdad3bda3b93500c342a64dce6d15d9a3533aba0519168d4cfb3446a1bbde5bc">NPC_HERALD_OF_THRALL</a></div><div class="ttdeci">@ NPC_HERALD_OF_THRALL</div><div class="ttdef"><b>Definition:</b> zone_orgrimmar.cpp:135</div></div>
-<div class="ttc" id="aa02807_html_a1cdad3bda3b93500c342a64dce6d15d9a3a6a88801e0a276bd78e5299ffb76302"><div class="ttname"><a href="../../d9/daf/a02807.html#a1cdad3bda3b93500c342a64dce6d15d9a3a6a88801e0a276bd78e5299ffb76302">SAY_THRALL_ON_QUEST_REWARD_1</a></div><div class="ttdeci">@ SAY_THRALL_ON_QUEST_REWARD_1</div><div class="ttdef"><b>Definition:</b> zone_orgrimmar.cpp:139</div></div>
-<div class="ttc" id="aa02807_html_a1cdad3bda3b93500c342a64dce6d15d9a502d5aed1ed2917d36573a355656ce86"><div class="ttname"><a href="../../d9/daf/a02807.html#a1cdad3bda3b93500c342a64dce6d15d9a502d5aed1ed2917d36573a355656ce86">GOSSIP_MENU_THRALL</a></div><div class="ttdeci">@ GOSSIP_MENU_THRALL</div><div class="ttdef"><b>Definition:</b> zone_orgrimmar.cpp:145</div></div>
-<div class="ttc" id="aa02807_html_a1cdad3bda3b93500c342a64dce6d15d9a544ea295d906cebdf38aecb93e7ac153"><div class="ttname"><a href="../../d9/daf/a02807.html#a1cdad3bda3b93500c342a64dce6d15d9a544ea295d906cebdf38aecb93e7ac153">GO_UNADORNED_SPIKE</a></div><div class="ttdeci">@ GO_UNADORNED_SPIKE</div><div class="ttdef"><b>Definition:</b> zone_orgrimmar.cpp:141</div></div>
-<div class="ttc" id="aa02807_html_a1cdad3bda3b93500c342a64dce6d15d9a567e6044eaae260d8ab29c346613b225"><div class="ttname"><a href="../../d9/daf/a02807.html#a1cdad3bda3b93500c342a64dce6d15d9a567e6044eaae260d8ab29c346613b225">SPELL_WARCHIEF_BLESSING</a></div><div class="ttdeci">@ SPELL_WARCHIEF_BLESSING</div><div class="ttdef"><b>Definition:</b> zone_orgrimmar.cpp:134</div></div>
-<div class="ttc" id="aa02807_html_a1cdad3bda3b93500c342a64dce6d15d9a5bc18876e7da8ddfc493ea155bb75287"><div class="ttname"><a href="../../d9/daf/a02807.html#a1cdad3bda3b93500c342a64dce6d15d9a5bc18876e7da8ddfc493ea155bb75287">QUEST_WHAT_THE_WIND_CARRIES</a></div><div class="ttdeci">@ QUEST_WHAT_THE_WIND_CARRIES</div><div class="ttdef"><b>Definition:</b> zone_orgrimmar.cpp:144</div></div>
-<div class="ttc" id="aa02807_html_a1cdad3bda3b93500c342a64dce6d15d9a64ac3588375f611524513fd4d4293a1b"><div class="ttname"><a href="../../d9/daf/a02807.html#a1cdad3bda3b93500c342a64dce6d15d9a64ac3588375f611524513fd4d4293a1b">SAY_THRALL_ON_QUEST_REWARD_0</a></div><div class="ttdeci">@ SAY_THRALL_ON_QUEST_REWARD_0</div><div class="ttdef"><b>Definition:</b> zone_orgrimmar.cpp:138</div></div>
-<div class="ttc" id="aa02807_html_a1cdad3bda3b93500c342a64dce6d15d9a710a8ed7a2d8ddb38e5e0f7db188132d"><div class="ttname"><a href="../../d9/daf/a02807.html#a1cdad3bda3b93500c342a64dce6d15d9a710a8ed7a2d8ddb38e5e0f7db188132d">GOSSIP_RESPONSE_THRALL_FIRST</a></div><div class="ttdeci">@ GOSSIP_RESPONSE_THRALL_FIRST</div><div class="ttdef"><b>Definition:</b> zone_orgrimmar.cpp:146</div></div>
-<div class="ttc" id="aa02807_html_a1cdad3bda3b93500c342a64dce6d15d9ab698e2206a77782e1893a2230085a047"><div class="ttname"><a href="../../d9/daf/a02807.html#a1cdad3bda3b93500c342a64dce6d15d9ab698e2206a77782e1893a2230085a047">QUEST_WARCHIEFS_BLESSING</a></div><div class="ttdeci">@ QUEST_WARCHIEFS_BLESSING</div><div class="ttdef"><b>Definition:</b> zone_orgrimmar.cpp:149</div></div>
-<div class="ttc" id="aa02807_html_a1cdad3bda3b93500c342a64dce6d15d9ac0997e72929070d8e30cc0f49cc4539d"><div class="ttname"><a href="../../d9/daf/a02807.html#a1cdad3bda3b93500c342a64dce6d15d9ac0997e72929070d8e30cc0f49cc4539d">SPELL_CHAIN_LIGHTNING</a></div><div class="ttdeci">@ SPELL_CHAIN_LIGHTNING</div><div class="ttdef"><b>Definition:</b> zone_orgrimmar.cpp:129</div></div>
-<div class="ttc" id="aa02807_html_a1cdad3bda3b93500c342a64dce6d15d9aed442141280385194a0a8b73d7e489af"><div class="ttname"><a href="../../d9/daf/a02807.html#a1cdad3bda3b93500c342a64dce6d15d9aed442141280385194a0a8b73d7e489af">QUEST_FOR_THE_HORDE</a></div><div class="ttdeci">@ QUEST_FOR_THE_HORDE</div><div class="ttdef"><b>Definition:</b> zone_orgrimmar.cpp:133</div></div>
-</div><!-- fragment -->
-</div>
-</div>
 <h2 class="groupheader">Function Documentation</h2>
-<a id="aec4388ea6d2e4bbc1d279b3a4687c4c6" name="aec4388ea6d2e4bbc1d279b3a4687c4c6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aec4388ea6d2e4bbc1d279b3a4687c4c6">&#9670;&#160;</a></span>AddSC_orgrimmar()</h2>
+<a id="aa48d9759919f0fb8415c0fd0731a23b1" name="aa48d9759919f0fb8415c0fd0731a23b1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa48d9759919f0fb8415c0fd0731a23b1">&#9670;&#160;</a></span>GetCheckPacketBaseSize()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void AddSC_orgrimmar </td>
+          <td class="memname">static constexpr <a class="el" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> GetCheckPacketBaseSize </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
+          <td class="paramtype"><a class="el" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td>
+          <td class="paramname"><em>type</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span><span class="mlabel">constexpr</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  312</span>{</div>
-<div class="line"><span class="lineno">  313</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../dd/dd7/a15568.html">npc_shenthul</a>();</div>
-<div class="line"><span class="lineno">  314</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d9/de6/a15576.html">npc_thrall_warchief</a>();</div>
-<div class="line"><span class="lineno">  315</span>}</div>
-<div class="ttc" id="aa15568_html"><div class="ttname"><a href="../../dd/dd7/a15568.html">npc_shenthul</a></div><div class="ttdef"><b>Definition:</b> zone_orgrimmar.cpp:36</div></div>
-<div class="ttc" id="aa15576_html"><div class="ttname"><a href="../../d9/de6/a15576.html">npc_thrall_warchief</a></div><div class="ttdef"><b>Definition:</b> zone_orgrimmar.cpp:156</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   44</span>{</div>
+<div class="line"><span class="lineno">   45</span>    <span class="keywordflow">switch</span> (type)</div>
+<div class="line"><span class="lineno">   46</span>    {</div>
+<div class="line"><span class="lineno">   47</span>    <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d1/de5/a02822.html#a7598131f87414a66259189a0518ca6f2a2b63e52f1c3146183a59fffa98919c93">DRIVER_CHECK</a>:</div>
+<div class="line"><span class="lineno">   48</span>    <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d1/de5/a02822.html#a7598131f87414a66259189a0518ca6f2ab22116b6a319b5c4ad88eaf90291090b">MPQ_CHECK</a>: <span class="keywordflow">return</span> 1;</div>
+<div class="line"><span class="lineno">   49</span>    <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d1/de5/a02822.html#a7598131f87414a66259189a0518ca6f2a88364ba9c51997e2baa92428922caada">LUA_EVAL_CHECK</a>: <span class="keywordflow">return</span> 1 + <span class="keyword">sizeof</span>(<a class="code hl_variable" href="../../d9/daf/a02807.html#a259abc7d98e16cefc14404b5886cbc09">_luaEvalPrefix</a>) - 1 + <span class="keyword">sizeof</span>(<a class="code hl_variable" href="../../d9/daf/a02807.html#a5506a4e4233b2c380f79ad1225c4dc93">_luaEvalMidfix</a>) - 1 + 4 + <span class="keyword">sizeof</span>(<a class="code hl_variable" href="../../d9/daf/a02807.html#ad14853510c2482e64bd81633e5074206">_luaEvalPostfix</a>) - 1;</div>
+<div class="line"><span class="lineno">   50</span>    <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d1/de5/a02822.html#a7598131f87414a66259189a0518ca6f2a331b64b77a83e62b070746aab1ea995f">PAGE_CHECK_A</a>: <span class="keywordflow">return</span> (4 + 1);</div>
+<div class="line"><span class="lineno">   51</span>    <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d1/de5/a02822.html#a7598131f87414a66259189a0518ca6f2a366d33d737ecb1b63b92e5c4fc13ed87">PAGE_CHECK_B</a>: <span class="keywordflow">return</span> (4 + 1);</div>
+<div class="line"><span class="lineno">   52</span>    <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d1/de5/a02822.html#a7598131f87414a66259189a0518ca6f2adc2e09d27e8f622121d11ba931c4ff77">MODULE_CHECK</a>: <span class="keywordflow">return</span> (4 + <a class="code hl_variable" href="../../d2/d72/a05190.html#acc400beaab2819b6e9799b3fbd9c3dde">Acore::Crypto::Constants::SHA1_DIGEST_LENGTH_BYTES</a>);</div>
+<div class="line"><span class="lineno">   53</span>    <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d1/de5/a02822.html#a7598131f87414a66259189a0518ca6f2aba449b452d425f871a9c01be028b5074">MEM_CHECK</a>: <span class="keywordflow">return</span> (1 + 4 + 1);</div>
+<div class="line"><span class="lineno">   54</span>    <span class="keywordflow">default</span>: <span class="keywordflow">return</span> 0;</div>
+<div class="line"><span class="lineno">   55</span>    }</div>
+<div class="line"><span class="lineno">   56</span>}</div>
+<div class="ttc" id="aa02807_html_a259abc7d98e16cefc14404b5886cbc09"><div class="ttname"><a href="../../d9/daf/a02807.html#a259abc7d98e16cefc14404b5886cbc09">_luaEvalPrefix</a></div><div class="ttdeci">static constexpr char _luaEvalPrefix[]</div><div class="ttdef"><b>Definition:</b> WardenWin.cpp:37</div></div>
+<div class="ttc" id="aa02807_html_a5506a4e4233b2c380f79ad1225c4dc93"><div class="ttname"><a href="../../d9/daf/a02807.html#a5506a4e4233b2c380f79ad1225c4dc93">_luaEvalMidfix</a></div><div class="ttdeci">static constexpr char _luaEvalMidfix[]</div><div class="ttdef"><b>Definition:</b> WardenWin.cpp:38</div></div>
+<div class="ttc" id="aa02807_html_ad14853510c2482e64bd81633e5074206"><div class="ttname"><a href="../../d9/daf/a02807.html#ad14853510c2482e64bd81633e5074206">_luaEvalPostfix</a></div><div class="ttdeci">static constexpr char _luaEvalPostfix[]</div><div class="ttdef"><b>Definition:</b> WardenWin.cpp:39</div></div>
+<div class="ttc" id="aa02822_html_a7598131f87414a66259189a0518ca6f2a2b63e52f1c3146183a59fffa98919c93"><div class="ttname"><a href="../../d1/de5/a02822.html#a7598131f87414a66259189a0518ca6f2a2b63e52f1c3146183a59fffa98919c93">DRIVER_CHECK</a></div><div class="ttdeci">@ DRIVER_CHECK</div><div class="ttdef"><b>Definition:</b> Warden.h:53</div></div>
+<div class="ttc" id="aa02822_html_a7598131f87414a66259189a0518ca6f2a331b64b77a83e62b070746aab1ea995f"><div class="ttname"><a href="../../d1/de5/a02822.html#a7598131f87414a66259189a0518ca6f2a331b64b77a83e62b070746aab1ea995f">PAGE_CHECK_A</a></div><div class="ttdeci">@ PAGE_CHECK_A</div><div class="ttdef"><b>Definition:</b> Warden.h:49</div></div>
+<div class="ttc" id="aa02822_html_a7598131f87414a66259189a0518ca6f2a366d33d737ecb1b63b92e5c4fc13ed87"><div class="ttname"><a href="../../d1/de5/a02822.html#a7598131f87414a66259189a0518ca6f2a366d33d737ecb1b63b92e5c4fc13ed87">PAGE_CHECK_B</a></div><div class="ttdeci">@ PAGE_CHECK_B</div><div class="ttdef"><b>Definition:</b> Warden.h:50</div></div>
+<div class="ttc" id="aa02822_html_a7598131f87414a66259189a0518ca6f2a88364ba9c51997e2baa92428922caada"><div class="ttname"><a href="../../d1/de5/a02822.html#a7598131f87414a66259189a0518ca6f2a88364ba9c51997e2baa92428922caada">LUA_EVAL_CHECK</a></div><div class="ttdeci">@ LUA_EVAL_CHECK</div><div class="ttdef"><b>Definition:</b> Warden.h:52</div></div>
+<div class="ttc" id="aa02822_html_a7598131f87414a66259189a0518ca6f2ab22116b6a319b5c4ad88eaf90291090b"><div class="ttname"><a href="../../d1/de5/a02822.html#a7598131f87414a66259189a0518ca6f2ab22116b6a319b5c4ad88eaf90291090b">MPQ_CHECK</a></div><div class="ttdeci">@ MPQ_CHECK</div><div class="ttdef"><b>Definition:</b> Warden.h:51</div></div>
+<div class="ttc" id="aa02822_html_a7598131f87414a66259189a0518ca6f2aba449b452d425f871a9c01be028b5074"><div class="ttname"><a href="../../d1/de5/a02822.html#a7598131f87414a66259189a0518ca6f2aba449b452d425f871a9c01be028b5074">MEM_CHECK</a></div><div class="ttdeci">@ MEM_CHECK</div><div class="ttdef"><b>Definition:</b> Warden.h:48</div></div>
+<div class="ttc" id="aa02822_html_a7598131f87414a66259189a0518ca6f2adc2e09d27e8f622121d11ba931c4ff77"><div class="ttname"><a href="../../d1/de5/a02822.html#a7598131f87414a66259189a0518ca6f2adc2e09d27e8f622121d11ba931c4ff77">MODULE_CHECK</a></div><div class="ttdeci">@ MODULE_CHECK</div><div class="ttdef"><b>Definition:</b> Warden.h:56</div></div>
+<div class="ttc" id="aa05190_html_acc400beaab2819b6e9799b3fbd9c3dde"><div class="ttname"><a href="../../d2/d72/a05190.html#acc400beaab2819b6e9799b3fbd9c3dde">Acore::Crypto::Constants::SHA1_DIGEST_LENGTH_BYTES</a></div><div class="ttdeci">static constexpr std::size_t SHA1_DIGEST_LENGTH_BYTES</div><div class="ttdef"><b>Definition:</b> CryptoConstants.h:26</div></div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00100">AddKalimdorScripts()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00038">_luaEvalMidfix</a>, <a class="el" href="../../#l00039">_luaEvalPostfix</a>, <a class="el" href="../../#l00037">_luaEvalPrefix</a>, <a class="el" href="../../#l00053">DRIVER_CHECK</a>, <a class="el" href="../../#l00052">LUA_EVAL_CHECK</a>, <a class="el" href="../../#l00048">MEM_CHECK</a>, <a class="el" href="../../#l00056">MODULE_CHECK</a>, <a class="el" href="../../#l00051">MPQ_CHECK</a>, <a class="el" href="../../#l00049">PAGE_CHECK_A</a>, <a class="el" href="../../#l00050">PAGE_CHECK_B</a>, and <a class="el" href="../../#l00026">Acore::Crypto::Constants::SHA1_DIGEST_LENGTH_BYTES</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00058">GetCheckPacketSize()</a>.</p>
+
+</div>
+</div>
+<a id="adfb39c1ce4f6159c2c70e3cdf26978c9" name="adfb39c1ce4f6159c2c70e3cdf26978c9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adfb39c1ce4f6159c2c70e3cdf26978c9">&#9670;&#160;</a></span>GetCheckPacketSize()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static <a class="el" href="../../d0/d61/a00302.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> GetCheckPacketSize </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../de/dff/a11614.html">WardenCheck</a> const *&#160;</td>
+          <td class="paramname"><em>check</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   59</span>{</div>
+<div class="line"><span class="lineno">   60</span>    <span class="keywordflow">if</span> (!check)</div>
+<div class="line"><span class="lineno">   61</span>    {</div>
+<div class="line"><span class="lineno">   62</span>        <span class="keywordflow">return</span> 0;</div>
+<div class="line"><span class="lineno">   63</span>    }</div>
+<div class="line"><span class="lineno">   64</span> </div>
+<div class="line"><span class="lineno">   65</span>    <a class="code hl_typedef" href="../../d0/d61/a00302.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> size = 1;</div>
+<div class="line"><span class="lineno">   66</span> </div>
+<div class="line"><span class="lineno">   67</span>    <span class="keywordflow">if</span> (check-&gt;CheckId &gt;= <a class="code hl_variable" href="../../d8/d8c/a11642.html#a9f7e5a100c56a6ee9a6bd39a792b9e44">WardenPayloadMgr::WardenPayloadOffsetMin</a> &amp;&amp; check-&gt;Type == <a class="code hl_enumvalue" href="../../d1/de5/a02822.html#a7598131f87414a66259189a0518ca6f2a88364ba9c51997e2baa92428922caada">LUA_EVAL_CHECK</a>)</div>
+<div class="line"><span class="lineno">   68</span>    {</div>
+<div class="line"><span class="lineno">   69</span>        <span class="comment">// Custom payload has no prefix, midfix, postfix.</span></div>
+<div class="line"><span class="lineno">   70</span>        size = size + (4 + 1);</div>
+<div class="line"><span class="lineno">   71</span>    }</div>
+<div class="line"><span class="lineno">   72</span>    <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">   73</span>    {</div>
+<div class="line"><span class="lineno">   74</span>        size = size + <a class="code hl_function" href="../../d9/daf/a02807.html#aa48d9759919f0fb8415c0fd0731a23b1">GetCheckPacketBaseSize</a>(check-&gt;Type);  <span class="comment">// 1 byte check type</span></div>
+<div class="line"><span class="lineno">   75</span>    }</div>
+<div class="line"><span class="lineno">   76</span> </div>
+<div class="line"><span class="lineno">   77</span>    <span class="keywordflow">if</span> (!check-&gt;Str.empty())</div>
+<div class="line"><span class="lineno">   78</span>    {</div>
+<div class="line"><span class="lineno">   79</span>        size += (<span class="keyword">static_cast&lt;</span><a class="code hl_typedef" href="../../d0/d61/a00302.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a><span class="keyword">&gt;</span>(check-&gt;Str.length()) + 1); <span class="comment">// 1 byte string length</span></div>
+<div class="line"><span class="lineno">   80</span>    }</div>
+<div class="line"><span class="lineno">   81</span> </div>
+<div class="line"><span class="lineno">   82</span>    <a class="code hl_class" href="../../db/d21/a05186.html">BigNumber</a> tempNumber = check-&gt;Data;</div>
+<div class="line"><span class="lineno">   83</span>    <span class="keywordflow">if</span> (!tempNumber.<a class="code hl_function" href="../../db/d21/a05186.html#ab6e59df65e45251677cf033d9ca25c23">GetNumBytes</a>())</div>
+<div class="line"><span class="lineno">   84</span>    {</div>
+<div class="line"><span class="lineno">   85</span>        size += tempNumber.<a class="code hl_function" href="../../db/d21/a05186.html#ab6e59df65e45251677cf033d9ca25c23">GetNumBytes</a>();</div>
+<div class="line"><span class="lineno">   86</span>    }</div>
+<div class="line"><span class="lineno">   87</span>    <span class="keywordflow">return</span> size;</div>
+<div class="line"><span class="lineno">   88</span>}</div>
+<div class="ttc" id="aa00302_html_ad9c79638db63f1dfe2b085743b5cbf7b"><div class="ttname"><a href="../../d0/d61/a00302.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a></div><div class="ttdeci">std::uint16_t uint16</div><div class="ttdef"><b>Definition:</b> Define.h:108</div></div>
+<div class="ttc" id="aa02807_html_aa48d9759919f0fb8415c0fd0731a23b1"><div class="ttname"><a href="../../d9/daf/a02807.html#aa48d9759919f0fb8415c0fd0731a23b1">GetCheckPacketBaseSize</a></div><div class="ttdeci">static constexpr uint8 GetCheckPacketBaseSize(uint8 type)</div><div class="ttdef"><b>Definition:</b> WardenWin.cpp:43</div></div>
+<div class="ttc" id="aa05186_html"><div class="ttname"><a href="../../db/d21/a05186.html">BigNumber</a></div><div class="ttdef"><b>Definition:</b> BigNumber.h:29</div></div>
+<div class="ttc" id="aa05186_html_ab6e59df65e45251677cf033d9ca25c23"><div class="ttname"><a href="../../db/d21/a05186.html#ab6e59df65e45251677cf033d9ca25c23">BigNumber::GetNumBytes</a></div><div class="ttdeci">int32 GetNumBytes() const</div><div class="ttdef"><b>Definition:</b> BigNumber.cpp:165</div></div>
+<div class="ttc" id="aa11642_html_a9f7e5a100c56a6ee9a6bd39a792b9e44"><div class="ttname"><a href="../../d8/d8c/a11642.html#a9f7e5a100c56a6ee9a6bd39a792b9e44">WardenPayloadMgr::WardenPayloadOffsetMin</a></div><div class="ttdeci">static uint16 constexpr WardenPayloadOffsetMin</div><div class="ttdoc">The minimum id available for custom payloads.</div><div class="ttdef"><b>Definition:</b> WardenPayloadMgr.h:115</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00051">WardenCheck::CheckId</a>, <a class="el" href="../../#l00046">WardenCheck::Data</a>, <a class="el" href="../../#l00043">GetCheckPacketBaseSize()</a>, <a class="el" href="../../#l00165">BigNumber::GetNumBytes()</a>, <a class="el" href="../../#l00052">LUA_EVAL_CHECK</a>, <a class="el" href="../../#l00049">WardenCheck::Str</a>, <a class="el" href="../../#l00045">WardenCheck::Type</a>, and <a class="el" href="../../#l00115">WardenPayloadMgr::WardenPayloadOffsetMin</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00277">WardenWin::RequestChecks()</a>.</p>
+
+</div>
+</div>
+<a id="aedb0d8dcf11f0df50080f361dcd78fed" name="aedb0d8dcf11f0df50080f361dcd78fed"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aedb0d8dcf11f0df50080f361dcd78fed">&#9670;&#160;</a></span>GetMaxWardenChecksForType()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static <a class="el" href="../../de/d87/a02939.html#a468ad15992691eb97dd20680046832e0">ServerConfigs</a> GetMaxWardenChecksForType </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td>
+          <td class="paramname"><em>type</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   92</span>{</div>
+<div class="line"><span class="lineno">   93</span>    <span class="comment">// Should never be higher type than defined</span></div>
+<div class="line"><span class="lineno">   94</span>    <a class="code hl_define" href="../../dc/d9a/a00218.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(type &lt; <a class="code hl_variable" href="../../d3/d57/a02834.html#a80604a840828219101f07100a7a48dad">MAX_WARDEN_CHECK_TYPES</a>);</div>
+<div class="line"><span class="lineno">   95</span> </div>
+<div class="line"><span class="lineno">   96</span>    <span class="keywordflow">switch</span> (type)</div>
+<div class="line"><span class="lineno">   97</span>    {</div>
+<div class="line"><span class="lineno">   98</span>    <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d3/d57/a02834.html#ad353d1b1b229bf72b97440ac296da2f0a3a995022793f145e1eb48b42d3aadfb3">WARDEN_CHECK_MEM_TYPE</a>:</div>
+<div class="line"><span class="lineno">   99</span>        <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d87/a02939.html#a468ad15992691eb97dd20680046832e0a482567408b50b5bdce327094b6762c14">CONFIG_WARDEN_NUM_MEM_CHECKS</a>;</div>
+<div class="line"><span class="lineno">  100</span>    <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d3/d57/a02834.html#ad353d1b1b229bf72b97440ac296da2f0a78405e80a7b4bf4186706d64389e96af">WARDEN_CHECK_LUA_TYPE</a>:</div>
+<div class="line"><span class="lineno">  101</span>        <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d87/a02939.html#a468ad15992691eb97dd20680046832e0a0ea99535fffce86366b9af4ca71d1e40">CONFIG_WARDEN_NUM_LUA_CHECKS</a>;</div>
+<div class="line"><span class="lineno">  102</span>    <span class="keywordflow">default</span>:</div>
+<div class="line"><span class="lineno">  103</span>        <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  104</span>    }</div>
+<div class="line"><span class="lineno">  105</span> </div>
+<div class="line"><span class="lineno">  106</span>    <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d87/a02939.html#a468ad15992691eb97dd20680046832e0aa28215fb699969bb584015e26849308a">CONFIG_WARDEN_NUM_OTHER_CHECKS</a>;</div>
+<div class="line"><span class="lineno">  107</span>}</div>
+<div class="ttc" id="aa00218_html_af343b20373ba49a92fce523e948f2ab3"><div class="ttname"><a href="../../dc/d9a/a00218.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a></div><div class="ttdeci">#define ASSERT</div><div class="ttdef"><b>Definition:</b> Errors.h:68</div></div>
+<div class="ttc" id="aa02834_html_a80604a840828219101f07100a7a48dad"><div class="ttname"><a href="../../d3/d57/a02834.html#a80604a840828219101f07100a7a48dad">MAX_WARDEN_CHECK_TYPES</a></div><div class="ttdeci">constexpr uint8 MAX_WARDEN_CHECK_TYPES</div><div class="ttdef"><b>Definition:</b> WardenCheckMgr.h:41</div></div>
+<div class="ttc" id="aa02834_html_ad353d1b1b229bf72b97440ac296da2f0a3a995022793f145e1eb48b42d3aadfb3"><div class="ttname"><a href="../../d3/d57/a02834.html#ad353d1b1b229bf72b97440ac296da2f0a3a995022793f145e1eb48b42d3aadfb3">WARDEN_CHECK_MEM_TYPE</a></div><div class="ttdeci">@ WARDEN_CHECK_MEM_TYPE</div><div class="ttdef"><b>Definition:</b> WardenCheckMgr.h:36</div></div>
+<div class="ttc" id="aa02834_html_ad353d1b1b229bf72b97440ac296da2f0a78405e80a7b4bf4186706d64389e96af"><div class="ttname"><a href="../../d3/d57/a02834.html#ad353d1b1b229bf72b97440ac296da2f0a78405e80a7b4bf4186706d64389e96af">WARDEN_CHECK_LUA_TYPE</a></div><div class="ttdeci">@ WARDEN_CHECK_LUA_TYPE</div><div class="ttdef"><b>Definition:</b> WardenCheckMgr.h:37</div></div>
+<div class="ttc" id="aa02939_html_a468ad15992691eb97dd20680046832e0a0ea99535fffce86366b9af4ca71d1e40"><div class="ttname"><a href="../../de/d87/a02939.html#a468ad15992691eb97dd20680046832e0a0ea99535fffce86366b9af4ca71d1e40">CONFIG_WARDEN_NUM_LUA_CHECKS</a></div><div class="ttdeci">@ CONFIG_WARDEN_NUM_LUA_CHECKS</div><div class="ttdef"><b>Definition:</b> WorldConfig.h:334</div></div>
+<div class="ttc" id="aa02939_html_a468ad15992691eb97dd20680046832e0a482567408b50b5bdce327094b6762c14"><div class="ttname"><a href="../../de/d87/a02939.html#a468ad15992691eb97dd20680046832e0a482567408b50b5bdce327094b6762c14">CONFIG_WARDEN_NUM_MEM_CHECKS</a></div><div class="ttdeci">@ CONFIG_WARDEN_NUM_MEM_CHECKS</div><div class="ttdef"><b>Definition:</b> WorldConfig.h:333</div></div>
+<div class="ttc" id="aa02939_html_a468ad15992691eb97dd20680046832e0aa28215fb699969bb584015e26849308a"><div class="ttname"><a href="../../de/d87/a02939.html#a468ad15992691eb97dd20680046832e0aa28215fb699969bb584015e26849308a">CONFIG_WARDEN_NUM_OTHER_CHECKS</a></div><div class="ttdeci">@ CONFIG_WARDEN_NUM_OTHER_CHECKS</div><div class="ttdef"><b>Definition:</b> WorldConfig.h:335</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00334">CONFIG_WARDEN_NUM_LUA_CHECKS</a>, <a class="el" href="../../#l00333">CONFIG_WARDEN_NUM_MEM_CHECKS</a>, <a class="el" href="../../#l00335">CONFIG_WARDEN_NUM_OTHER_CHECKS</a>, <a class="el" href="../../#l00041">MAX_WARDEN_CHECK_TYPES</a>, <a class="el" href="../../#l00037">WARDEN_CHECK_LUA_TYPE</a>, and <a class="el" href="../../#l00036">WARDEN_CHECK_MEM_TYPE</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00277">WardenWin::RequestChecks()</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Variable Documentation</h2>
-<a id="a016aeee1d0eac9c78c522520663670f0" name="a016aeee1d0eac9c78c522520663670f0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a016aeee1d0eac9c78c522520663670f0">&#9670;&#160;</a></span>heraldOfThrallPos</h2>
+<a id="a5506a4e4233b2c380f79ad1225c4dc93" name="a5506a4e4233b2c380f79ad1225c4dc93"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5506a4e4233b2c380f79ad1225c4dc93">&#9670;&#160;</a></span>_luaEvalMidfix</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">const <a class="el" href="../../de/d33/a08452.html">Position</a> heraldOfThrallPos = { -462.404f, -2637.68f, 96.0656f, 5.8606f }</td>
+          <td class="memname">constexpr char _luaEvalMidfix[] = &quot; end R=S and T()if R then S('_TW',&quot;</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span><span class="mlabel">constexpr</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00237">npc_thrall_warchief::npc_thrall_warchiefAI::DoAction()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00043">GetCheckPacketBaseSize()</a>, and <a class="el" href="../../#l00277">WardenWin::RequestChecks()</a>.</p>
+
+</div>
+</div>
+<a id="ad14853510c2482e64bd81633e5074206" name="ad14853510c2482e64bd81633e5074206"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad14853510c2482e64bd81633e5074206">&#9670;&#160;</a></span>_luaEvalPostfix</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">constexpr char _luaEvalPostfix[] = &quot;,'GUILD')end&quot;</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span><span class="mlabel">constexpr</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00043">GetCheckPacketBaseSize()</a>, and <a class="el" href="../../#l00277">WardenWin::RequestChecks()</a>.</p>
+
+</div>
+</div>
+<a id="a259abc7d98e16cefc14404b5886cbc09" name="a259abc7d98e16cefc14404b5886cbc09"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a259abc7d98e16cefc14404b5886cbc09">&#9670;&#160;</a></span>_luaEvalPrefix</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">constexpr char _luaEvalPrefix[] = &quot;local S,T,R=SendAddonMessage,function()&quot;</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span><span class="mlabel">constexpr</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00043">GetCheckPacketBaseSize()</a>, and <a class="el" href="../../#l00277">WardenWin::RequestChecks()</a>.</p>
 
 </div>
 </div>
@@ -313,8 +399,8 @@ Variables</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_5ee14a0f6ab8ad29bd27b6821baacc69.html">Kalimdor</a></li><li class="navelem"><a class="el" href="../../d9/daf/a02807.html">zone_orgrimmar.cpp</a></li>
-    <li class="footer">Generated on Mon Aug 25 2025 20:45:41 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_4b21bdf52d2a98b0776a5d7d01fdcc43.html">Warden</a></li><li class="navelem"><a class="el" href="../../d9/daf/a02807.html">WardenWin.cpp</a></li>
+    <li class="footer">Generated on Mon Sep 1 2025 20:42:36 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

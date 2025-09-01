@@ -1,9 +1,6 @@
 var a13562 =
 [
-    [ "npc_partygoer", "d5/d41/a13562.html#af053caedfd1fa8173b875f521d279418", null ],
-    [ "Initialize", "d5/d41/a13562.html#a9012ff95e5cead3c02f9eeb30f29a9f6", null ],
-    [ "Reset", "d5/d41/a13562.html#ad1936099ec5696a2a593e5041b0360c6", null ],
-    [ "UpdateAI", "d5/d41/a13562.html#a423df8a3de7d23221ea4d62a0c65fefc", null ],
-    [ "_events", "d5/d41/a13562.html#ad5095ee005ecb89ca54b0663d41e20ac", null ],
-    [ "_facing", "d5/d41/a13562.html#a9e934091894987ec091b03090bf733e5", null ]
+    [ "PrepareSpellScript", "d5/d41/a13562.html#a6a9436d744865971e635f23c2b331688", null ],
+    [ "Register", "d5/d41/a13562.html#a5f8a755040c9972e1bd6f68ceacf3dff", null ],
+    [ "SetDest", "d5/d41/a13562.html#a2d43c0d5230f7be2d9a33e8527fd8c02", null ]
 ];

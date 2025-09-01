@@ -1,6 +1,7 @@
 var a18846 =
 [
-    [ "npc_icc_gauntlet_controllerAI", "d0/dbe/a18850.html", "d0/dbe/a18850" ],
-    [ "npc_icc_gauntlet_controller", "dc/dcb/a18846.html#a5fc4c941842e25bc3da93686e588627b", null ],
-    [ "GetAI", "dc/dcb/a18846.html#a4ed1a69fb537e7ce547a3a57253990c4", null ]
+    [ "npc_impaling_spearAI", "dc/dcb/a18846.html#ae8fbc36a15324b210a24a0e98357adc3", null ],
+    [ "Reset", "dc/dcb/a18846.html#a43fa8bf8f22f0635261decd8b15ed6f5", null ],
+    [ "UpdateAI", "dc/dcb/a18846.html#acb187a58b0ba256b4e003655ac36db34", null ],
+    [ "_vehicleCheckTimer", "dc/dcb/a18846.html#a264874b9f6f0609792d4b3a325e54f59", null ]
 ];

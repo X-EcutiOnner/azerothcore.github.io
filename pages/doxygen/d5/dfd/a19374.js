@@ -1,6 +1,30 @@
 var a19374 =
 [
-    [ "npc_oculus_unstable_sphereAI", "d3/d16/a19378.html", "d3/d16/a19378" ],
-    [ "npc_oculus_unstable_sphere", "d5/dfd/a19374.html#a5167370a6d3fd32a5673bbeb95ed3f3c", null ],
-    [ "GetAI", "d5/dfd/a19374.html#adda2a9e7eab03444742e85729673ab2f", null ]
+    [ "instance_naxxramas", "d5/dfd/a19374.html#aff86b0fff6122d649258a91b025cbced", null ],
+    [ "ActivateWingPortal", "d5/dfd/a19374.html#a10a92da6d62e3d5f147b5bb40109ec3c", null ],
+    [ "ActivateWingPortal", "d5/dfd/a19374.html#ae53c14014ec9ee4db5e06acb04ede9d2", null ],
+    [ "CheckAchievementCriteriaMeet", "d5/dfd/a19374.html#ac324fe847b9b25270e8d1e495d77b093", null ],
+    [ "CreatureTalk", "d5/dfd/a19374.html#a1e5ecd15ffbc8735ff275f245444ef1a", null ],
+    [ "GetEruptionSection", "d5/dfd/a19374.html#a7f64ed1cc3b5461318913919e712d648", null ],
+    [ "HeiganEruptSections", "d5/dfd/a19374.html#a63be2dee55d527e16739b5fb5b031740", null ],
+    [ "OnCreatureCreate", "d5/dfd/a19374.html#a8d7a7ac214db0e22f7fadaf79e26ca6e", null ],
+    [ "OnGameObjectCreate", "d5/dfd/a19374.html#a871bdbd665d47b526e498a79e4bcdaa8", null ],
+    [ "OnGameObjectRemove", "d5/dfd/a19374.html#a855ef835268e11e55152fe11daf4af44", null ],
+    [ "OnPlayerEnter", "d5/dfd/a19374.html#ab14130020559c2f7971d2072a0233bd7", null ],
+    [ "SetBossState", "d5/dfd/a19374.html#a425c7462f1b1ad4b4728dca1708cd322", null ],
+    [ "SetData", "d5/dfd/a19374.html#a5293b79934c620d96bd5ea35ce79276d", null ],
+    [ "SetGoState", "d5/dfd/a19374.html#a06414e8dbeb15bc2a42114390466e0a4", null ],
+    [ "Update", "d5/dfd/a19374.html#a49b5f433e3cec6fbb5f1404f150067ea", null ],
+    [ "_abominationsKilled", "d5/dfd/a19374.html#a7b034012484e196d183aa12fdb595b53", null ],
+    [ "_currentWingTaunt", "d5/dfd/a19374.html#ae1fd58202206c9697d92810f4a176c3d", null ],
+    [ "_events", "d5/dfd/a19374.html#a299d848c8dba430ebebd7cdf99f1dafa", null ],
+    [ "_faerlinaAchievement", "d5/dfd/a19374.html#a4e7f205ab7c300c91c6406ca5dc665fd", null ],
+    [ "_heiganAchievement", "d5/dfd/a19374.html#a2a0d9b86d906c5e5ec51ad4342f7193b", null ],
+    [ "_heiganEruption", "d5/dfd/a19374.html#ae6825a60b1a9f0fd122ebf47ba484459", null ],
+    [ "_horsemanAchievement", "d5/dfd/a19374.html#a80abb9d906e9de39bd747346de46ddd7", null ],
+    [ "_horsemanLoaded", "d5/dfd/a19374.html#a5bb704eda5b3fd756024243ff5a7b82a", null ],
+    [ "_loathebAchievement", "d5/dfd/a19374.html#aacb46e34e3e6cb6b179c73df06a9a813", null ],
+    [ "_patchwerkRoomTrash", "d5/dfd/a19374.html#ad838776fa923e22d3794a7b266dacd8e", null ],
+    [ "_sapphironAchievement", "d5/dfd/a19374.html#a8dca8b55ebc52c27389658df92b3f944", null ],
+    [ "_thaddiusAchievement", "d5/dfd/a19374.html#a6158d5285d0027739ff0cd98e526588d", null ]
 ];

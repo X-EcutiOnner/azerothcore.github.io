@@ -1,7 +1,8 @@
 var a13634 =
 [
-    [ "npc_deathstalker_erlandAI", "dd/dee/a13634.html#aa3c6822db09bc40dc87d556f6b3cc880", null ],
-    [ "JustEngagedWith", "dd/dee/a13634.html#ae4789c26cbb00b4ac04d646617a48a40", null ],
-    [ "Reset", "dd/dee/a13634.html#a3def0a0dd57ed732242a09d6390ab1f0", null ],
-    [ "WaypointReached", "dd/dee/a13634.html#af200e269d3f4b51bb5cfd08e9bf7ecc5", null ]
+    [ "npc_sunblade_arch_mage", "dd/dee/a13634.html#a25cc45033c55f1099b50eab4b4f497ee", null ],
+    [ "JustEngagedWith", "dd/dee/a13634.html#aadeae32d691229b7b7b531175b8a5018", null ],
+    [ "Reset", "dd/dee/a13634.html#a0d0349ea507b1f8431014c55eef5ce0e", null ],
+    [ "UpdateAI", "dd/dee/a13634.html#a3289fbad5f987a3d5d9986a31a1c442f", null ],
+    [ "scheduler", "dd/dee/a13634.html#aa6680f06651316996868907b1d28126c", null ]
 ];

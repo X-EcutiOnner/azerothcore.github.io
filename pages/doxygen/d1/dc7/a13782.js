@@ -1,5 +1,6 @@
 var a13782 =
 [
-    [ "npc_mikhail", "d1/dc7/a13782.html#ab63d49e91b0d4b6ca0f00ff0992f5bad", null ],
-    [ "OnQuestAccept", "d1/dc7/a13782.html#a3e1d81aa9e610b73c3d856b355338d3b", null ]
+    [ "npc_greengill_slaveAI", "dd/d08/a13786.html", "dd/d08/a13786" ],
+    [ "npc_greengill_slave", "d1/dc7/a13782.html#a46fb36fadb5ed5fc94a563473edd8732", null ],
+    [ "GetAI", "d1/dc7/a13782.html#ab2cb9adfeef75384becfbb3c5188b8d7", null ]
 ];

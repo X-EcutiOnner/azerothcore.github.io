@@ -1,7 +1,8 @@
 var a23898 =
 [
-    [ "boss_gatewatcher_iron_hand", "d2/db5/a23898.html#aef70e713007af38b510f0a3b8c082b24", null ],
-    [ "JustDied", "d2/db5/a23898.html#a36b10cd02b35b6e106687b08bc80bfa6", null ],
-    [ "JustEngagedWith", "d2/db5/a23898.html#aa6a9f456d158e4c0332816c7e65ec155", null ],
-    [ "KilledUnit", "d2/db5/a23898.html#a1973142412b4094dbd9fa51600741148", null ]
+    [ "boss_commander_sarannis", "d2/db5/a23898.html#ace0957feb37f864798008849be25f607", null ],
+    [ "JustDied", "d2/db5/a23898.html#a7796429f04c049549a4a02a1eb8d35fc", null ],
+    [ "JustEngagedWith", "d2/db5/a23898.html#ad4273db7c169c6cfa9917dd3b76c9c95", null ],
+    [ "KilledUnit", "d2/db5/a23898.html#a64e77321adc5eea9d3494a3e1030f9de", null ],
+    [ "ScheduleReinforcements", "d2/db5/a23898.html#a293f0b860a66396a30c6d255eef85309", null ]
 ];

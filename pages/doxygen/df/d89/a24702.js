@@ -1,8 +1,9 @@
 var a24702 =
 [
-    [ "AfterRemove", "df/d89/a24702.html#afdd1575bce3b34da6e3a101eaa695c41", null ],
-    [ "HandleDispel", "df/d89/a24702.html#a3c2ffe31074115f6cab5f4b18b05dbc3", null ],
-    [ "PrepareAuraScript", "df/d89/a24702.html#a44e66753516d693c31dba27c9d1ad250", null ],
-    [ "Register", "df/d89/a24702.html#aa21ecabbf52b457e163f17b3012b0f84", null ],
-    [ "Validate", "df/d89/a24702.html#a6af7e5aa16b3c84ed1388e2f62424701", null ]
+    [ "Absorb", "df/d89/a24702.html#ade7f8805491a627cf3e8accdee178f3e", null ],
+    [ "CalculateAmount", "df/d89/a24702.html#a1194d2bd96632cbc3eab58300a5f9a46", null ],
+    [ "Load", "df/d89/a24702.html#a49277dbcc2d7cc79f29226e9b242120b", null ],
+    [ "PrepareAuraScript", "df/d89/a24702.html#a9eb3dc519bd595b7c0193ae3519c136e", null ],
+    [ "Register", "df/d89/a24702.html#a730528baddf2087fb1c0898ac7ad76c5", null ],
+    [ "absorbPct", "df/d89/a24702.html#a58c03a57bdfcba203159ae38683fdf14", null ]
 ];

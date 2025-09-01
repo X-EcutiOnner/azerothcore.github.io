@@ -1,7 +1,6 @@
 var a17926 =
 [
-    [ "HandleSummon", "d2/d79/a17926.html#a8a96bd3a1b3cfaff09e05535eca927a9", null ],
-    [ "PrepareSpellScript", "d2/d79/a17926.html#a0213cd8e5e79aba8ba80583ceda88b95", null ],
-    [ "Register", "d2/d79/a17926.html#a01281869dc98a0af5027695391f1221f", null ],
-    [ "Validate", "d2/d79/a17926.html#a26675411e5f86e6d31f62762a3fdcd70", null ]
+    [ "npc_vengeful_shadeAI", "db/dee/a17930.html", "db/dee/a17930" ],
+    [ "npc_vengeful_shade", "d2/d79/a17926.html#a99c535efd94fbd5bded8fd9555bb6eaf", null ],
+    [ "GetAI", "d2/d79/a17926.html#afa2c672015b43d83bd55050ed020f7e5", null ]
 ];

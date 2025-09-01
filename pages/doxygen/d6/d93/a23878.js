@@ -1,9 +1,10 @@
 var a23878 =
 [
-    [ "boss_void_reaver", "d6/d93/a23878.html#aa6373ef5b27255eca4d85345ae5fa729", null ],
-    [ "JustDied", "d6/d93/a23878.html#a49e6f52b11177bdac07adff92c2675f5", null ],
-    [ "JustEngagedWith", "d6/d93/a23878.html#a9260d05e11f4dec6fc25432a0524706b", null ],
-    [ "KilledUnit", "d6/d93/a23878.html#adc234fc43308771a42d99049876cad1b", null ],
-    [ "Reset", "d6/d93/a23878.html#a02c36ea960de24991f879943991a93c6", null ],
-    [ "_recentlySpoken", "d6/d93/a23878.html#adc1bb9a6a3340f157c3ffcbd7dcd71ac", null ]
+    [ "boss_harbinger_skyriss", "d6/d93/a23878.html#a245179f74d61c2671b397e8f2473b599", null ],
+    [ "EnterEvadeMode", "d6/d93/a23878.html#a873413da06569343225e6659f8277b2c", null ],
+    [ "JustDied", "d6/d93/a23878.html#a2b5152ddeb53d382294bd0fe7455a21e", null ],
+    [ "JustEngagedWith", "d6/d93/a23878.html#adb4cdec41f4b61f82efdb78fe995c313", null ],
+    [ "JustSummoned", "d6/d93/a23878.html#a97d84139a3e970e22d7d422f2f825f12", null ],
+    [ "KilledUnit", "d6/d93/a23878.html#a8f9e1bd87c80041e07b428ec300ceef8", null ],
+    [ "Reset", "d6/d93/a23878.html#a045ec2371ad99c3465b8f089eb604e0a", null ]
 ];

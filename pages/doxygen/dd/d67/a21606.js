@@ -1,6 +1,10 @@
 var a21606 =
 [
-    [ "npc_hidden_cultistAI", "d3/df0/a21610.html", "d3/df0/a21610" ],
-    [ "npc_hidden_cultist", "dd/d67/a21606.html#ab455b35fea966360e01fb8975adad989", null ],
-    [ "GetAI", "dd/d67/a21606.html#a4897006d9416f1177b0bc0e41df60293", null ]
+    [ "npc_azure_binderAI", "dd/d67/a21606.html#ad532d350493a35804660f90a9f00f3cf", null ],
+    [ "Reset", "dd/d67/a21606.html#aa317ce32f3439286e9a4ac0928d48b3a", null ],
+    [ "UpdateAI", "dd/d67/a21606.html#a322ae0210ccb24206aee49c4fa7fe2bc", null ],
+    [ "uiArcainBarrageTimer", "dd/d67/a21606.html#a0e577611e3e11209cc175cd71cd86bc9", null ],
+    [ "uiArcaneExplosionTimer", "dd/d67/a21606.html#aa5cc777f777166e88a21e98a4ce2b8d3", null ],
+    [ "uiFrostboltTimer", "dd/d67/a21606.html#a405ec0f2d92e4a1f5f7901e725465604", null ],
+    [ "uiFrostNovaTimer", "dd/d67/a21606.html#a0f6396376e14711f87f1a046728ce386", null ]
 ];

@@ -1,6 +1,7 @@
 var a25458 =
 [
-    [ "CheckCast", "db/d90/a25458.html#ac1bc3f881c31c5ab90785a62a5f5b5ae", null ],
-    [ "PrepareSpellScript", "db/d90/a25458.html#a2a9c657ccffbacfc661c6bb1dc41d9de", null ],
-    [ "Register", "db/d90/a25458.html#a4b34bd5ce9d3e948d6c712d71ed71b2d", null ]
+    [ "HandleScript", "db/d90/a25458.html#a1097b1548b2785ac7ffd916ee5531fe9", null ],
+    [ "PrepareSpellScript", "db/d90/a25458.html#a47dc9761bf10b1290963ff7eebe0121a", null ],
+    [ "Register", "db/d90/a25458.html#a984b2af5268fbf294a0292502b8ddb44", null ],
+    [ "Validate", "db/d90/a25458.html#a0cfbc2dcb836e7c37dd03cb3d0728621", null ]
 ];

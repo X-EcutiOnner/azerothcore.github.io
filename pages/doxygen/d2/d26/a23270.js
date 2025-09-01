@@ -1,11 +1,8 @@
 var a23270 =
 [
-    [ "boss_ahune", "d2/d26/a23270.html#aa3d15e1ab37843761d9f7c56d2e5a319", null ],
-    [ "DoAction", "d2/d26/a23270.html#a9e197e8a5ecbad8487c7bad7647e6d2c", null ],
-    [ "Emerge", "d2/d26/a23270.html#a6404a8255566f2eaa061a89025e2bdcd", null ],
-    [ "EnterEvadeMode", "d2/d26/a23270.html#a2b906881621e59143a916c588beb70e7", null ],
-    [ "ExecuteEvent", "d2/d26/a23270.html#a46b477aef635de1d3ec88baa2465089f", null ],
-    [ "JustDied", "d2/d26/a23270.html#af2fc7c071321653a644ee569ead67d63", null ],
-    [ "JustEngagedWith", "d2/d26/a23270.html#aaffc4f54544c8aa4529b249560ddeeec", null ],
-    [ "Submerge", "d2/d26/a23270.html#aad68758720cc1cb703f8f2dc72c09af2", null ]
+    [ "CalculateAmount", "d2/d26/a23270.html#a13d44c0d5f9b0111ae3b0d3d089e3e13", null ],
+    [ "OnPeriodic", "d2/d26/a23270.html#ab4d3f69d50fa320886f454ddfe1076f4", null ],
+    [ "PrepareAuraScript", "d2/d26/a23270.html#a1278420b279449c1c6a53b1a7b53f539", null ],
+    [ "Register", "d2/d26/a23270.html#a4795011faa2f68b1068d37b81f8c1cf2", null ],
+    [ "Validate", "d2/d26/a23270.html#a601c2db3a8e47d48b956ed102cbca104", null ]
 ];

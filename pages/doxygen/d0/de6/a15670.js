@@ -1,7 +1,6 @@
 var a15670 =
 [
-    [ "npc_lakota_windsongAI", "d0/de6/a15670.html#a922172a38ca75adef66a2653eda7fa98", null ],
-    [ "DoSpawnBandits", "d0/de6/a15670.html#aa63601ac87b674cb5d0594213d1e7ea9", null ],
-    [ "Reset", "d0/de6/a15670.html#aee7a86275f93021e0e5db249b636bcd4", null ],
-    [ "WaypointReached", "d0/de6/a15670.html#a6435c8b1521206789131889e5fa527a6", null ]
+    [ "npc_clintar_spiritAI", "d2/d2f/a15674.html", "d2/d2f/a15674" ],
+    [ "npc_clintar_spirit", "d0/de6/a15670.html#a416f5eea882f2c13c4c0f7dd81d36a2b", null ],
+    [ "GetAI", "d0/de6/a15670.html#a118198504f6f93c86302275a11582d60", null ]
 ];

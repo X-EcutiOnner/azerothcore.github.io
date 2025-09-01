@@ -1,10 +1,14 @@
 var a24118 =
 [
-    [ "npc_maxx_a_million_escortAI", "de/d7c/a24118.html#ab827933527ed7b4a04b162034876ced8", null ],
-    [ "JustDied", "de/d7c/a24118.html#a2106ab4d32d0f221f62eeffd93f71380", null ],
-    [ "Reset", "de/d7c/a24118.html#a6b9b2ed76e26f908ff2272ad8744a59e", null ],
-    [ "UpdateAI", "de/d7c/a24118.html#a3b022feb2303875d32ad981e84f66854", null ],
-    [ "WaypointReached", "de/d7c/a24118.html#acd6f45abb93f3f043cd85647405a50f6", null ],
-    [ "bTake", "de/d7c/a24118.html#ac697fc6cbc20c7f316845ed26436049b", null ],
-    [ "uiTakeTimer", "de/d7c/a24118.html#a5d4826dcf893f444a42dedba57460110", null ]
+    [ "npc_deaths_door_fell_cannon_target_bunnyAI", "de/d7c/a24118.html#a258f55153ad857fbf35545cfb87c3d3a", null ],
+    [ "Initialize", "de/d7c/a24118.html#a187340b00067f2f65a7e48845a6edaba", null ],
+    [ "JustSummoned", "de/d7c/a24118.html#a10a3b9b4a2763bac4c9fe5f680850052", null ],
+    [ "Reset", "de/d7c/a24118.html#a92a6cbe0515752440284d18bae0adf66", null ],
+    [ "SpellHit", "de/d7c/a24118.html#a517f7412208de83604d0d6806fbc0b34", null ],
+    [ "UpdateAI", "de/d7c/a24118.html#ab4fb75f1b84c2722f936387a6942028b", null ],
+    [ "CannonGUID", "de/d7c/a24118.html#a220e111467cfb6f02e996f012123e09b", null ],
+    [ "count", "de/d7c/a24118.html#ac78f94033239dcf247be9a48d0535081", null ],
+    [ "events", "de/d7c/a24118.html#acf362c9e3eb844db9f66cc8c969cd22e", null ],
+    [ "PartyTime", "de/d7c/a24118.html#a1780c656fb539be6dcd74e271cea4c53", null ],
+    [ "PlayerGUID", "de/d7c/a24118.html#a686314ffe4a588a1ba8722a6cab56fc7", null ]
 ];

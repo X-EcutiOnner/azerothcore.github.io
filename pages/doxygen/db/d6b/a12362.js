@@ -1,9 +1,7 @@
 var a12362 =
 [
-    [ "boss_baron_geddonAI", "db/d6b/a12362.html#a3a85b2a6e958a965e52a9fde87c08177", null ],
-    [ "DamageTaken", "db/d6b/a12362.html#ad339cb7149b50cf5accc24b5a2d0bf82", null ],
-    [ "ExecuteEvent", "db/d6b/a12362.html#a2c3ed57dd0336ce8ac1a85c957da9e4a", null ],
-    [ "JustEngagedWith", "db/d6b/a12362.html#a8c5e43b4b4e0583db7dcc93694202bd8", null ],
-    [ "Reset", "db/d6b/a12362.html#aaf47fc993e672877f51b5095f682906c", null ],
-    [ "armageddonCasted", "db/d6b/a12362.html#a1a034601a7dda94becbf1801bda63d55", null ]
+    [ "HandleScript", "db/d6b/a12362.html#a0d244cc1785b136bae0960d697dc761d", null ],
+    [ "PrepareSpellScript", "db/d6b/a12362.html#a13f3ebef30c315c02090ee3a19a156e4", null ],
+    [ "Register", "db/d6b/a12362.html#a3871fb036ec6e0ea006f869c21e88c8f", null ],
+    [ "Validate", "db/d6b/a12362.html#a1413754f3a79caf8ec57d394c68f3499", null ]
 ];

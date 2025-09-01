@@ -1,10 +1,6 @@
 var a21426 =
 [
-    [ "npc_azure_invaderAI", "d3/dd6/a21426.html#a85f164a6ba24d7a14d77264441a78f46", null ],
-    [ "Reset", "d3/dd6/a21426.html#ada44600272b19d9416d957bc52bc3be4", null ],
-    [ "UpdateAI", "d3/dd6/a21426.html#a7dfdcb2a88930c6b4150f7f7c825a2df", null ],
-    [ "uiBrutalStrikeTimer", "d3/dd6/a21426.html#a4b88a85f3344edbdadde0104668509aa", null ],
-    [ "uiCleaveTimer", "d3/dd6/a21426.html#a8b1792a8a405651d602d9ed634f52689", null ],
-    [ "uiImpaleTimer", "d3/dd6/a21426.html#aa709ee8919a2d0317d563259c7630c99", null ],
-    [ "uiSunderArmorTimer", "d3/dd6/a21426.html#ab2e6d01df033985ac29e963cf2895466", null ]
+    [ "HandleOnHit", "d3/dd6/a21426.html#aa3f90eb49ae947b5729f722750cb8711", null ],
+    [ "PrepareSpellScript", "d3/dd6/a21426.html#a3b62711a0ba478d6321a93d436359939", null ],
+    [ "Register", "d3/dd6/a21426.html#af7bdde31f1221d5679983a41e3eca204", null ]
 ];

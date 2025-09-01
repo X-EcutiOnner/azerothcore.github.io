@@ -1,7 +1,9 @@
 var a13230 =
 [
-    [ "HandleScriptEffect", "d6/d6b/a13230.html#a703ac8467126f5c2aee393fcf2400ffc", null ],
-    [ "PrepareSpellScript", "d6/d6b/a13230.html#a17c49de5f6a37ff83126398d96b43a51", null ],
-    [ "Register", "d6/d6b/a13230.html#ae205d84cdbe3fbfa519e7d1c8f2ffe16", null ],
-    [ "Validate", "d6/d6b/a13230.html#a17d53f598be9fe9e9790bb96dfcb4891", null ]
+    [ "npc_risen_guardianAI", "d6/d6b/a13230.html#a50eb3de52205fc1bbc6936f0708c68a6", null ],
+    [ "IsSummonedBy", "d6/d6b/a13230.html#ad9f45b9007c1ff74d0f725fbf7f00abe", null ],
+    [ "KilledUnit", "d6/d6b/a13230.html#abc7afaa685a436b34ff76edcc6c25e54", null ],
+    [ "Gandling", "d6/d6b/a13230.html#a93013b905260aa51341b22d1627cc986", null ],
+    [ "instance", "d6/d6b/a13230.html#a96f1835989f646c708b8ef0cc9999e63", null ],
+    [ "room", "d6/d6b/a13230.html#a5862a184b6daa92da133cc6c360a993d", null ]
 ];

@@ -1,7 +1,6 @@
 var a25118 =
 [
-    [ "HandleScript", "db/d6a/a25118.html#a8b20e2ffed94ec9438dc9b756ba76693", null ],
-    [ "PrepareSpellScript", "db/d6a/a25118.html#a9e29ea947d5415471d991a4e1cd699ac", null ],
-    [ "Register", "db/d6a/a25118.html#aa4bc27415893009581b317637599a85a", null ],
-    [ "Validate", "db/d6a/a25118.html#a77ed10819633ae2bc381023da0feb31b", null ]
+    [ "HandleScriptEffect", "db/d6a/a25118.html#af8f2f4c4459204aa766a41dc4003581c", null ],
+    [ "PrepareSpellScript", "db/d6a/a25118.html#a687f10fa34894cb497a2ce3369fd83ef", null ],
+    [ "Register", "db/d6a/a25118.html#a034e52b435b6f4586084cb831e162c40", null ]
 ];

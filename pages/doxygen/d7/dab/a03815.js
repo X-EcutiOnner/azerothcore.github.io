@@ -1,96 +1,47 @@
 var a03815 =
 [
-    [ "npc_frosthound", "d5/dab/a22288.html", "d5/dab/a22288" ],
-    [ "npc_frosthound::npc_frosthoundAI", "d4/d0d/a22292.html", "d4/d0d/a22292" ],
-    [ "npc_iron_watcher", "d5/d64/a22296.html", "d5/d64/a22296" ],
-    [ "npc_iron_watcher::npc_iron_watcherAI", "d5/db5/a22300.html", "d5/db5/a22300" ],
-    [ "npc_time_lost_proto_drake", "d8/d90/a22304.html", "d8/d90/a22304" ],
-    [ "npc_time_lost_proto_drake::npc_time_lost_proto_drakeAI", "d0/da2/a22308.html", "d0/da2/a22308" ],
-    [ "npc_wild_wyrm", "de/d84/a22312.html", "de/d84/a22312" ],
-    [ "npc_wild_wyrm::npc_wild_wyrmAI", "d3/d6b/a22316.html", "d3/d6b/a22316" ],
-    [ "spell_q13003_thursting_hodirs_spear_aura", "d9/d41/a22320.html", "d9/d41/a22320" ],
-    [ "spell_q13007_iron_colossus", "db/deb/a22324.html", "db/deb/a22324" ],
-    [ "npc_roxi_ramrocket", "d8/dd7/a22328.html", "d8/dd7/a22328" ],
-    [ "npc_brunnhildar_prisoner", "d7/dbd/a22332.html", "d7/dbd/a22332" ],
-    [ "npc_brunnhildar_prisoner::npc_brunnhildar_prisonerAI", "d3/d07/a22336.html", "d3/d07/a22336" ],
-    [ "npc_freed_protodrake", "d7/d4e/a22340.html", "d7/d4e/a22340" ],
-    [ "npc_freed_protodrake::npc_freed_protodrakeAI", "d6/d20/a22344.html", "d6/d20/a22344" ],
-    [ "npc_icefang", "d4/da8/a22348.html", "d4/da8/a22348" ],
-    [ "npc_icefang::npc_icefangAI", "d9/d0b/a22352.html", "d9/d0b/a22352" ],
-    [ "npc_hyldsmeet_protodrake", "d0/d28/a22356.html", "d0/d28/a22356" ],
-    [ "npc_hyldsmeet_protodrake::npc_hyldsmeet_protodrakeAI", "dd/df8/a22360.html", "dd/df8/a22360" ],
-    [ "spell_close_rift_aura", "dd/dc5/a22364.html", "dd/dc5/a22364" ],
-    [ "spell_q12823_remove_collapsing_cave_aura", "dd/da0/a22368.html", "dd/da0/a22368" ],
-    [ "npc_vehicle_d16_propelled_delivery", "de/d72/a22372.html", "de/d72/a22372" ],
-    [ "npc_vehicle_d16_propelled_delivery::npc_vehicle_d16_propelled_deliveryAI", "d8/dee/a22376.html", "d8/dee/a22376" ],
-    [ "BrunnhildarPrisoner", "d7/dab/a03815.html#a2b3662a99dee3fb091ed7fe9dc34a709", [
-      [ "SPELL_ICE_PRISON", "d7/dab/a03815.html#a2b3662a99dee3fb091ed7fe9dc34a709a9b000c0577f729a8bbf761c4027c988c", null ],
-      [ "SPELL_ICE_LANCE", "d7/dab/a03815.html#a2b3662a99dee3fb091ed7fe9dc34a709aa1488ccf76f0a0098f140e9ddb95794d", null ],
-      [ "SPELL_FREE_PRISONER", "d7/dab/a03815.html#a2b3662a99dee3fb091ed7fe9dc34a709a925c65c2e29b49b806662a8eb662cbd8", null ],
-      [ "SPELL_RIDE_DRAKE", "d7/dab/a03815.html#a2b3662a99dee3fb091ed7fe9dc34a709ad081a8077df8f055143aed59eea51ed9", null ],
-      [ "SPELL_SHARD_IMPACT", "d7/dab/a03815.html#a2b3662a99dee3fb091ed7fe9dc34a709ac25cc7b06441c788ebfe392822513ac3", null ]
+    [ "MailSender", "d3/d85/a09738.html", "d3/d85/a09738" ],
+    [ "MailReceiver", "d4/dbe/a09742.html", "d4/dbe/a09742" ],
+    [ "MailDraft", "d8/dd1/a09746.html", "d8/dd1/a09746" ],
+    [ "MailItemInfo", "da/da1/a09750.html", "da/da1/a09750" ],
+    [ "Mail", "db/df4/a09754.html", "db/df4/a09754" ],
+    [ "MAIL_BODY_ITEM_TEMPLATE", "d7/dab/a03815.html#a400524cb6bb97f3dfaa616a2afae05db", null ],
+    [ "MAX_MAIL_ITEMS", "d7/dab/a03815.html#a92d79b5b2210d828abe28a8834a50770", null ],
+    [ "MailItemInfoVec", "d7/dab/a03815.html#a5f97bcac5adeb0d52a6360c8aa0d0938", null ],
+    [ "MailCheckMask", "d7/dab/a03815.html#a9738cb9d4ddff5f3b2a406f8d9c469cc", [
+      [ "MAIL_CHECK_MASK_NONE", "d7/dab/a03815.html#a9738cb9d4ddff5f3b2a406f8d9c469cca65bb77bc25220e08e3c065ad070b9888", null ],
+      [ "MAIL_CHECK_MASK_READ", "d7/dab/a03815.html#a9738cb9d4ddff5f3b2a406f8d9c469cca3b48ed5fecdcd88c0a15e74b0853c03b", null ],
+      [ "MAIL_CHECK_MASK_RETURNED", "d7/dab/a03815.html#a9738cb9d4ddff5f3b2a406f8d9c469cca5f7f5d671d1137cc0dd8b88a6579454a", null ],
+      [ "MAIL_CHECK_MASK_COPIED", "d7/dab/a03815.html#a9738cb9d4ddff5f3b2a406f8d9c469cca9170ec2a04d365ca0a6167cad4a2e2fb", null ],
+      [ "MAIL_CHECK_MASK_COD_PAYMENT", "d7/dab/a03815.html#a9738cb9d4ddff5f3b2a406f8d9c469cca4cef0afe6ff002d8e7089cb2eddf1468", null ],
+      [ "MAIL_CHECK_MASK_HAS_BODY", "d7/dab/a03815.html#a9738cb9d4ddff5f3b2a406f8d9c469cca348c2227a2767173436f2f88dfe37716", null ]
     ] ],
-    [ "CloseRift", "d7/dab/a03815.html#a36178b08160d5717735f19eda88aa085", [
-      [ "SPELL_DESPAWN_RIFT", "d7/dab/a03815.html#a36178b08160d5717735f19eda88aa085a00e22ffca5dc82706eccd3a85838bcdd", null ]
+    [ "MailMessageType", "d7/dab/a03815.html#afb83216fd8c410f5d4bdfef0f9b302ed", [
+      [ "MAIL_NORMAL", "d7/dab/a03815.html#afb83216fd8c410f5d4bdfef0f9b302edaad2526a166df2caa50762ff348a2f54a", null ],
+      [ "MAIL_AUCTION", "d7/dab/a03815.html#afb83216fd8c410f5d4bdfef0f9b302eda1c6b723dd78af975a7ec8a3562361330", null ],
+      [ "MAIL_CREATURE", "d7/dab/a03815.html#afb83216fd8c410f5d4bdfef0f9b302eda462b01f59d339ec67b080f100e97256c", null ],
+      [ "MAIL_GAMEOBJECT", "d7/dab/a03815.html#afb83216fd8c410f5d4bdfef0f9b302eda4398082ad7546f3811f818835522100d", null ],
+      [ "MAIL_CALENDAR", "d7/dab/a03815.html#afb83216fd8c410f5d4bdfef0f9b302eda99dc24213703b6afb3639762a349c258", null ]
     ] ],
-    [ "CollapsingCave", "d7/dab/a03815.html#a3c3daa7deb54b462a75f105c0baebd01", [
-      [ "SPELL_COLLAPSING_CAVE", "d7/dab/a03815.html#a3c3daa7deb54b462a75f105c0baebd01a3be68ebd35e3687a852a433899580628", null ]
+    [ "MailShowFlags", "d7/dab/a03815.html#a03de18fb5d90aaaa9daa333ddbe2d394", [
+      [ "MAIL_SHOW_UNK0", "d7/dab/a03815.html#a03de18fb5d90aaaa9daa333ddbe2d394a5d741597d486fff4283ab7bfeaa32ecc", null ],
+      [ "MAIL_SHOW_DELETE", "d7/dab/a03815.html#a03de18fb5d90aaaa9daa333ddbe2d394a7d87ac4c7be1c9b63837bd39706eba07", null ],
+      [ "MAIL_SHOW_AUCTION", "d7/dab/a03815.html#a03de18fb5d90aaaa9daa333ddbe2d394ac82b5f53ff29204c00b9479712bfeb72", null ],
+      [ "MAIL_SHOW_UNK2", "d7/dab/a03815.html#a03de18fb5d90aaaa9daa333ddbe2d394a2fe725e9d54355a13c1322a8d81da6a3", null ],
+      [ "MAIL_SHOW_RETURN", "d7/dab/a03815.html#a03de18fb5d90aaaa9daa333ddbe2d394a9bfa489acd6be01c57410679c81d5a9e", null ]
     ] ],
-    [ "eIronWatcher", "d7/dab/a03815.html#ac0dfdb79063698c8140e5423b6ec36ed", [
-      [ "SPELL_THUNDERING_STOMP", "d7/dab/a03815.html#ac0dfdb79063698c8140e5423b6ec36eda626925ba86f88514659778da36ed7122", null ],
-      [ "SPELL_STORM_HAMMER", "d7/dab/a03815.html#ac0dfdb79063698c8140e5423b6ec36eda4fdbea404819b5f53d2fa2195205c8de", null ],
-      [ "SPELL_SHATTERED_EYES", "d7/dab/a03815.html#ac0dfdb79063698c8140e5423b6ec36eda0ab0f58505a9df3f497f065b7b82c995", null ],
-      [ "SPELL_STORM_HAMMER_DUMMY", "d7/dab/a03815.html#ac0dfdb79063698c8140e5423b6ec36edac135fe33f063d714edde9a2a5c3216e4", null ]
+    [ "MailState", "d7/dab/a03815.html#a38d587a785c6fa4c4342574233684a20", [
+      [ "MAIL_STATE_UNCHANGED", "d7/dab/a03815.html#a38d587a785c6fa4c4342574233684a20ae16408762dbf072dd193ffe6b3097047", null ],
+      [ "MAIL_STATE_CHANGED", "d7/dab/a03815.html#a38d587a785c6fa4c4342574233684a20aac816c9be99273eb826bf89eda08f1bb", null ],
+      [ "MAIL_STATE_DELETED", "d7/dab/a03815.html#a38d587a785c6fa4c4342574233684a20a3645936325ffbfb6858bcbb312b9072a", null ]
     ] ],
-    [ "eTimeLost", "d7/dab/a03815.html#ae562cc946c36ab373babd16dad7493d7", [
-      [ "NPC_TIME_LOST_PROTO_DRAKE", "d7/dab/a03815.html#ae562cc946c36ab373babd16dad7493d7a5d38574cee111f6e50341380b20c0c26", null ],
-      [ "NPC_VYRAGOSA", "d7/dab/a03815.html#ae562cc946c36ab373babd16dad7493d7a7fc208b2a88944b4c011d71b5a40ec78", null ],
-      [ "SPELL_TIME_SHIFT", "d7/dab/a03815.html#ae562cc946c36ab373babd16dad7493d7ac57a87cb312f3d95f613c22e48a0ef10", null ],
-      [ "SPELL_TIME_LAPSE", "d7/dab/a03815.html#ae562cc946c36ab373babd16dad7493d7abf276d995824f99a65014da1cac10b65", null ],
-      [ "SPELL_FROST_BREATH", "d7/dab/a03815.html#ae562cc946c36ab373babd16dad7493d7a21d2702c1c121e1139359d986fbab12a", null ],
-      [ "SPELL_FROST_CLEAVE", "d7/dab/a03815.html#ae562cc946c36ab373babd16dad7493d7ad956a4247c496b57f6cc7830638007ef", null ]
-    ] ],
-    [ "eWildWyrm", "d7/dab/a03815.html#a1d8b3fe9b89bdddf273544e5f2685cee", [
-      [ "SPELL_FIGHT_WYRM_BASE", "d7/dab/a03815.html#a1d8b3fe9b89bdddf273544e5f2685ceeae9c5316a44f6aabec0560520f2714213", null ],
-      [ "SPELL_FIGHT_WYRM_NEXT", "d7/dab/a03815.html#a1d8b3fe9b89bdddf273544e5f2685ceea9903134f04818fffd11af3c69aca7053", null ],
-      [ "SPELL_SPEAR_OF_HODIR", "d7/dab/a03815.html#a1d8b3fe9b89bdddf273544e5f2685ceeab724d61a4559b27c4512cd8168d6db1e", null ],
-      [ "SPELL_DODGE_CLAWS", "d7/dab/a03815.html#a1d8b3fe9b89bdddf273544e5f2685ceea83d89284f483b36bed64cd61c597a289", null ],
-      [ "SPELL_WYRM_GRIP", "d7/dab/a03815.html#a1d8b3fe9b89bdddf273544e5f2685ceeadb17c9a6dbec4722b8ea5d2ca9087ac0", null ],
-      [ "SPELL_GRAB_ON", "d7/dab/a03815.html#a1d8b3fe9b89bdddf273544e5f2685ceeafdfdf7b225fb4eaecaafd18458a7e8e0", null ],
-      [ "SPELL_THRUST_SPEAR", "d7/dab/a03815.html#a1d8b3fe9b89bdddf273544e5f2685ceeaa5091a81264f90c13fc30c56c0152994", null ],
-      [ "SPELL_MIGHTY_SPEAR_THRUST", "d7/dab/a03815.html#a1d8b3fe9b89bdddf273544e5f2685ceea189032763f0efaa7516effaa4352af54", null ],
-      [ "SPELL_FATAL_STRIKE", "d7/dab/a03815.html#a1d8b3fe9b89bdddf273544e5f2685ceea268dd0e7aca5fa4e9ff65f33ab1b9b71", null ],
-      [ "SPELL_PRY_JAWS_OPEN", "d7/dab/a03815.html#a1d8b3fe9b89bdddf273544e5f2685ceead685cfc89c277ad5fce5c6943abf5cf2", null ],
-      [ "SPELL_JAWS_OF_DEATH", "d7/dab/a03815.html#a1d8b3fe9b89bdddf273544e5f2685ceea0e531d9bf92c9a71c24e097d8f1fd381", null ]
-    ] ],
-    [ "FreedProtoDrake", "d7/dab/a03815.html#a0cfcc61ebd7905935d3b9472af3edfc4", [
-      [ "NPC_DRAKE", "d7/dab/a03815.html#a0cfcc61ebd7905935d3b9472af3edfc4aa28430f0a5d0543cda73d5c7b6edf40a", null ],
-      [ "TEXT_EMOTE", "d7/dab/a03815.html#a0cfcc61ebd7905935d3b9472af3edfc4a77d76bfa1c6234b9866a0162468137a6", null ],
-      [ "SPELL_KILL_CREDIT_PRISONER", "d7/dab/a03815.html#a0cfcc61ebd7905935d3b9472af3edfc4aa7a7afd87ce65cacea1c3cc271699f32", null ],
-      [ "SPELL_SUMMON_LIBERATED", "d7/dab/a03815.html#a0cfcc61ebd7905935d3b9472af3edfc4a84e4b95b5297798ba7bf31a801cda331", null ],
-      [ "SPELL_KILL_CREDIT_DRAKE", "d7/dab/a03815.html#a0cfcc61ebd7905935d3b9472af3edfc4aef782ab1e88176f53486813628fea63d", null ],
-      [ "EVENT_CHECK_AREA", "d7/dab/a03815.html#a0cfcc61ebd7905935d3b9472af3edfc4a1afe71f4391266cff2080bee59e58245", null ],
-      [ "EVENT_REACHED_HOME", "d7/dab/a03815.html#a0cfcc61ebd7905935d3b9472af3edfc4af05b24d3a5043dee4eec0d79b5af232b", null ]
-    ] ],
-    [ "q13007IronColossus", "d7/dab/a03815.html#a087b056704b91fae2c93eba42a026a26", [
-      [ "SPELL_JORMUNGAR_SUBMERGE", "d7/dab/a03815.html#a087b056704b91fae2c93eba42a026a26aed224fcf38261c2346031905865da961", null ],
-      [ "SPELL_JORMUNGAR_EMERGE", "d7/dab/a03815.html#a087b056704b91fae2c93eba42a026a26ac9f68e52ae04ed769ef8584e4d1c28f8", null ],
-      [ "SPELL_JORMUNGAR_SUBMERGE_VISUAL", "d7/dab/a03815.html#a087b056704b91fae2c93eba42a026a26a216b4c566f3bb6e1ccb804989b5534ec", null ],
-      [ "SPELL_COLOSSUS_GROUND_SLAM", "d7/dab/a03815.html#a087b056704b91fae2c93eba42a026a26a392dcbdfd30138c1cc769a3bfeb68430", null ]
-    ] ],
-    [ "qSniffing", "d7/dab/a03815.html#a72aa32e04cd59045853af5772e3d687a", [
-      [ "SPELL_SUMMON_PURSUERS_PERIODIC", "d7/dab/a03815.html#a72aa32e04cd59045853af5772e3d687aae8457fa3c07267f329e0540b0a3b1549", null ],
-      [ "SPELL_SNIFFING_CREDIT", "d7/dab/a03815.html#a72aa32e04cd59045853af5772e3d687aa5436d9053113a8e073fc91da29feae33", null ]
-    ] ],
-    [ "RoxiRamrocket", "d7/dab/a03815.html#a058d6572cf39f2cc3c25d28e576fdaff", [
-      [ "SPELL_MECHANO_HOG", "d7/dab/a03815.html#a058d6572cf39f2cc3c25d28e576fdaffa3e2dee241927533a2d68385a01272ffe", null ],
-      [ "SPELL_MEKGINEERS_CHOPPER", "d7/dab/a03815.html#a058d6572cf39f2cc3c25d28e576fdaffac82446ffb1ea10bf1e736999e287b9f6", null ]
-    ] ],
-    [ "WhenAllElseFailsAlliance", "d7/dab/a03815.html#a9fdba13d991fbaa7ff1363f4a4ca7144", [
-      [ "NPC_PROPELLED_DEVICE_1", "d7/dab/a03815.html#a9fdba13d991fbaa7ff1363f4a4ca7144afef7f466c30209c4d2ef04320dc1b8da", null ],
-      [ "NPC_PROPELLED_DEVICE_2", "d7/dab/a03815.html#a9fdba13d991fbaa7ff1363f4a4ca7144ac943cef8ef9283a27474714f809fa92d", null ],
-      [ "SPELL_EJECT_PLAYER", "d7/dab/a03815.html#a9fdba13d991fbaa7ff1363f4a4ca7144a6923288b5e7614e6f220db0c42710b47", null ],
-      [ "SPELL_KNOCKBACK_PLAYER", "d7/dab/a03815.html#a9fdba13d991fbaa7ff1363f4a4ca7144ad069ba965740c548f4d1c0618c4184e0", null ]
-    ] ],
-    [ "AddSC_storm_peaks", "d7/dab/a03815.html#ac8298d2bc33aa6752bc997cb838fe008", null ]
+    [ "MailStationery", "d7/dab/a03815.html#a97c589393fcefa82854f195693493094", [
+      [ "MAIL_STATIONERY_TEST", "d7/dab/a03815.html#a97c589393fcefa82854f195693493094a08c959967722eb59a73866b06fff4ee1", null ],
+      [ "MAIL_STATIONERY_DEFAULT", "d7/dab/a03815.html#a97c589393fcefa82854f195693493094ab18c50370e3504660676eeab1fed7a68", null ],
+      [ "MAIL_STATIONERY_GM", "d7/dab/a03815.html#a97c589393fcefa82854f195693493094a39230800d1e1c4dbd3c46fbaaba39541", null ],
+      [ "MAIL_STATIONERY_AUCTION", "d7/dab/a03815.html#a97c589393fcefa82854f195693493094aef86d2a36ec87427177f03b971bf4fcd", null ],
+      [ "MAIL_STATIONERY_VAL", "d7/dab/a03815.html#a97c589393fcefa82854f195693493094acf69185a7c40dad17bf89924f8c89cd5", null ],
+      [ "MAIL_STATIONERY_CHR", "d7/dab/a03815.html#a97c589393fcefa82854f195693493094a3f6ed9e1ee49995d1854786d3ab7b5a0", null ],
+      [ "MAIL_STATIONERY_ORP", "d7/dab/a03815.html#a97c589393fcefa82854f195693493094aa349afbb838c106b8d4e161b7611583c", null ]
+    ] ]
 ];

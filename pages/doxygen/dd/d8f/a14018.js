@@ -1,7 +1,16 @@
 var a14018 =
 [
-    [ "HandleScriptEffect", "dd/d8f/a14018.html#ace68732d578fbaeb2b209bfded88853a", null ],
-    [ "PrepareSpellScript", "dd/d8f/a14018.html#a42a69995e8f527a383e96e2ead832f72", null ],
-    [ "Register", "dd/d8f/a14018.html#abb26c89a617bc27f8c2a1cfbb0935234", null ],
-    [ "Validate", "dd/d8f/a14018.html#a7697caf8e5390d290b353fb6a291aa10", null ]
+    [ "boss_zuljin", "dd/d8f/a14018.html#a8acdf347d7f982c07614c89a101daae0", null ],
+    [ "EnterEvadeMode", "dd/d8f/a14018.html#a1b3da85aa5f4abac16256aa691d035a3", null ],
+    [ "EnterPhase", "dd/d8f/a14018.html#ae9970dba905b947a22c4ddf36bdcb656", null ],
+    [ "GetGUID", "dd/d8f/a14018.html#a29548891ef8efaa5d6baa384e7b9000a", null ],
+    [ "JustDied", "dd/d8f/a14018.html#a2e00e8311c0463a37de87668882ffeec", null ],
+    [ "JustEngagedWith", "dd/d8f/a14018.html#ab6854461a5116e94c9f0ca971a3f89ef", null ],
+    [ "KilledUnit", "dd/d8f/a14018.html#adf220cb760b77cfd09ed746705529064", null ],
+    [ "MovementInform", "dd/d8f/a14018.html#a61501941861f8838392fc8cdbe59feff", null ],
+    [ "Reset", "dd/d8f/a14018.html#a2fe7c0338eb4698cc0aae252f4b14f02", null ],
+    [ "SpawnAdds", "dd/d8f/a14018.html#a83eb0799a25f19eedddd96e609134778", null ],
+    [ "SpellHitTarget", "dd/d8f/a14018.html#aab3558edc5b90be23040077d88e21725", null ],
+    [ "_chargeTargetGUID", "dd/d8f/a14018.html#a3b26fe2e82019ea5ce110d2d0a78f47e", null ],
+    [ "_nextPhase", "dd/d8f/a14018.html#a4fc9983cb34313affa56c243a4164a4a", null ]
 ];

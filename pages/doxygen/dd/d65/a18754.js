@@ -1,7 +1,6 @@
 var a18754 =
 [
-    [ "HandleEffectPeriodic", "dd/d65/a18754.html#a208c4d59e20cd802cf2f4643fa0d6253", null ],
-    [ "PrepareAuraScript", "dd/d65/a18754.html#af1d284c4686f739b02b350a6c0a166c2", null ],
-    [ "Register", "dd/d65/a18754.html#a006a97823ac07346771ec4ab61bd0763", null ],
-    [ "Validate", "dd/d65/a18754.html#ae1f5555dcadb48ba59bf9571073f4a99", null ]
+    [ "CaptainSurviveTalk", "dd/d65/a18754.html#a43a1b1da17ed41ae765aabc47c858f80", null ],
+    [ "Execute", "dd/d65/a18754.html#a871cf08e8c7fced2971cae8abbc20454", null ],
+    [ "_owner", "dd/d65/a18754.html#ac8de506afb4688560ea637918d07b01e", null ]
 ];

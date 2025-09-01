@@ -1,5 +1,6 @@
 var a24190 =
 [
-    [ "creature", "d1/df0/a24190.html#ab4b8f837dbfb42bcbb161f81f846aad9", null ],
-    [ "Timer", "d1/df0/a24190.html#a2be497dc190c1f01f939e12083739882", null ]
+    [ "npc_ancestral_wolfAI", "d9/df7/a24194.html", "d9/df7/a24194" ],
+    [ "npc_ancestral_wolf", "d1/df0/a24190.html#a7cadf2848a086db63792f8068ee9463d", null ],
+    [ "GetAI", "d1/df0/a24190.html#a201255a64d4e742ba8b118b4f2ec5cd5", null ]
 ];

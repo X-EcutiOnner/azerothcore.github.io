@@ -1,6 +1,5 @@
 var a12266 =
 [
-    [ "boss_victor_nefariusAI", "dd/dec/a12270.html", "dd/dec/a12270" ],
-    [ "boss_victor_nefarius", "d0/d10/a12266.html#a85c529c49a0373a553bc59818fb18f49", null ],
-    [ "GetAI", "d0/d10/a12266.html#a6ea19bde6980cbb4ca627d17cf57ae24", null ]
+    [ "at_the_beast_room", "d0/d10/a12266.html#aed5c4aae45ee2b256eb078875c5a2c47", null ],
+    [ "OnTrigger", "d0/d10/a12266.html#a366c5e35c4030f998404886f1526ae37", null ]
 ];

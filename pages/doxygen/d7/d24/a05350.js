@@ -1,13 +1,9 @@
 var a05350 =
 [
-    [ "Logger", "d7/d24/a05350.html#a79033d763c69dbfb95b1c591f1cc680b", null ],
-    [ "addAppender", "d7/d24/a05350.html#aabacae0a84994e5567f9c87829909fdd", null ],
-    [ "delAppender", "d7/d24/a05350.html#a1fb8747bf7b652b9dfbf9ee830a82c8b", null ],
-    [ "getLogLevel", "d7/d24/a05350.html#aba945b0f037b7de27976d3a6e1a0fbbd", null ],
-    [ "getName", "d7/d24/a05350.html#ae95167d7bb330ecc0a49779a5635d1e2", null ],
-    [ "setLogLevel", "d7/d24/a05350.html#a00fdcdbeb39a2d5d4fb27cc36c35c101", null ],
-    [ "write", "d7/d24/a05350.html#a3627f98e8676ee7b68a34a4d9439082e", null ],
-    [ "appenders", "d7/d24/a05350.html#aa93931f2386ebc6dbf2464f536ed54f9", null ],
-    [ "level", "d7/d24/a05350.html#a3b1d9dd7bd391ac7bed560918f82a03b", null ],
-    [ "name", "d7/d24/a05350.html#ada299a7dd268085371557213e36695a9", null ]
+    [ "IpLocationStore", "d7/d24/a05350.html#a1b3a38bbd932ae50d55ff15374aa2f37", null ],
+    [ "~IpLocationStore", "d7/d24/a05350.html#a82360c1ce130670fde23d42135f91324", null ],
+    [ "GetLocationRecord", "d7/d24/a05350.html#a06384169031d2417a7f6bac54d3187a9", null ],
+    [ "instance", "d7/d24/a05350.html#ad740adf9b81b37cf147dc00e220b29db", null ],
+    [ "Load", "d7/d24/a05350.html#a411302e6bf5e5e82e5cd59e78e66bd0b", null ],
+    [ "_ipLocationStore", "d7/d24/a05350.html#af7b7a5a4fc65c6af966be27f7bf7e07d", null ]
 ];

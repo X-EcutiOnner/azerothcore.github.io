@@ -1,8 +1,6 @@
 var a15822 =
 [
-    [ "HandleAfterCast", "d3/d5f/a15822.html#aa85852ff5e5d03637d1dcc43a446843e", null ],
-    [ "HandleDummyEffect", "d3/d5f/a15822.html#a539c233fc820248930e1988c4074b9c8", null ],
-    [ "Load", "d3/d5f/a15822.html#a4fc295b4d8775dce16d913fe4a8ce8cb", null ],
-    [ "PrepareSpellScript", "d3/d5f/a15822.html#aad6f7f1d29414475b5e678e7bd94737f", null ],
-    [ "Register", "d3/d5f/a15822.html#ae90184fd34636b33755b732ec82fd52f", null ]
+    [ "npc_twiggy_flatheadAI", "d3/dd9/a15826.html", "d3/dd9/a15826" ],
+    [ "npc_twiggy_flathead", "d3/d5f/a15822.html#a36e8ae89c9138e1a88c84ecbfd694963", null ],
+    [ "GetAI", "d3/d5f/a15822.html#a48c48994c199502bc3cfb96bf713bc5f", null ]
 ];

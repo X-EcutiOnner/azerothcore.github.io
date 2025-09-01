@@ -1,9 +1,7 @@
 var a24830 =
 [
-    [ "PrepareAuraScript", "de/d2b/a24830.html#accf6cc89fed8dbf7c3cee201f1e9e806", null ],
-    [ "Register", "de/d2b/a24830.html#a04efbc64bfa0312bc1f372e403803c32", null ],
-    [ "Update", "de/d2b/a24830.html#aa463442b994b6275b2e12fe06ae7805c", null ],
-    [ "amplitude", "de/d2b/a24830.html#aff726eef4dbd10dd71f1614ab6755ea1", null ],
-    [ "amplitude", "de/d2b/a24830.html#ad96a6059cb2f4bdf8e2b341d0a6e294f", null ],
-    [ "isPeriodic", "de/d2b/a24830.html#a0732bf60822bbb547be014566d0e092c", null ]
+    [ "AfterApply", "de/d2b/a24830.html#adae232af9445638b3d54e81d414483b7", null ],
+    [ "AfterRemove", "de/d2b/a24830.html#abf458f1f1dd5abfbba88325cad044ab1", null ],
+    [ "PrepareAuraScript", "de/d2b/a24830.html#a305c532aa0e8740e8c8a87a6ba0abcff", null ],
+    [ "Register", "de/d2b/a24830.html#abff75ea597dcc017a359a5ef3ada4314", null ]
 ];

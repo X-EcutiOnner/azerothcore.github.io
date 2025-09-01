@@ -1,26 +1,5 @@
 var a08366 =
 [
-    [ "JumpInfo", "d9/d8d/a08374.html", "d9/d8d/a08374" ],
-    [ "TransportInfo", "d5/d68/a08370.html", "d5/d68/a08370" ],
-    [ "MovementInfo", "db/de7/a08366.html#a809340998de55a9ffa895f7b27e1f2c3", null ],
-    [ "AddExtraMovementFlag", "db/de7/a08366.html#aff0e449eb1567041f1a44c34e5fa85bc", null ],
-    [ "AddMovementFlag", "db/de7/a08366.html#ae02908de40bf25e5d07d3bb248448a68", null ],
-    [ "GetExtraMovementFlags", "db/de7/a08366.html#a7a9353ff367c80cddeaddd63fcd32ddb", null ],
-    [ "GetMovementFlags", "db/de7/a08366.html#ade08354701baa32b9ff232d6b07e6097", null ],
-    [ "HasExtraMovementFlag", "db/de7/a08366.html#afad84c80474a806e8abb4626ccfbcfaf", null ],
-    [ "HasMovementFlag", "db/de7/a08366.html#ad9571cb899d58cc60fbe2412be79116e", null ],
-    [ "OutDebug", "db/de7/a08366.html#af8c4c6db42364ec712398b317238c90b", null ],
-    [ "RemoveMovementFlag", "db/de7/a08366.html#ab38114c14a8848a082b4f265eab11c72", null ],
-    [ "SetFallTime", "db/de7/a08366.html#a683565ad0865709083e81d07a8ce1395", null ],
-    [ "SetMovementFlags", "db/de7/a08366.html#ace324e7171c3520efdce76d2bbc75c67", null ],
-    [ "fallTime", "db/de7/a08366.html#abcf42fcf7d61044fd9fb5e6857e21ab5", null ],
-    [ "flags", "db/de7/a08366.html#ab64213c21ac3cdfd769a5acdc7fce200", null ],
-    [ "flags2", "db/de7/a08366.html#aa8dc40a9829334f2ca7fa4e7347f91a5", null ],
-    [ "guid", "db/de7/a08366.html#a10c1c9721558fd98d33bb43b3bfff837", null ],
-    [ "jump", "db/de7/a08366.html#a920a536b873fcc63dd6bb22882a7a8ea", null ],
-    [ "pitch", "db/de7/a08366.html#af2945943a91efc4cd5f2f9a0b86424cf", null ],
-    [ "pos", "db/de7/a08366.html#afc5605f3e357e6ca4f2c681329bb0302", null ],
-    [ "splineElevation", "db/de7/a08366.html#ac524b47fa52b05e7c6a6b7c577c9291f", null ],
-    [ "time", "db/de7/a08366.html#a90c332cb1b99ce1ac6eab39bc2a6e4b2", null ],
-    [ "transport", "db/de7/a08366.html#ac2b0f738ec695f4c9f032daad3e1f041", null ]
+    [ "Description", "db/de7/a08366.html#a4187f2b02014c83bc4f1b3d65d229311", null ],
+    [ "Name", "db/de7/a08366.html#a787ca2c05ddac7ee5c3a5c28a02b8494", null ]
 ];

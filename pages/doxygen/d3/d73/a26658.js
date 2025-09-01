@@ -1,9 +1,7 @@
 var a26658 =
 [
-    [ "HandleHeal", "d3/d73/a26658.html#ad2d854d275dc6f8b67b866d864b6febe", null ],
-    [ "Load", "d3/d73/a26658.html#a507a7a4ff11f8bf1157e034d086cd9ad", null ],
-    [ "PrepareSpellScript", "d3/d73/a26658.html#a91eb46af707897f228e5d1bbd199a833", null ],
-    [ "Register", "d3/d73/a26658.html#ae28f1b0c23511153eafc037cae067bc0", null ],
-    [ "firstHeal", "d3/d73/a26658.html#a405326e6e1cd82816aef1712fdf335a0", null ],
-    [ "riptide", "d3/d73/a26658.html#acaec32f6730bc2e04e613aa982d285bf", null ]
+    [ "HandleEffectPeriodic", "d3/d73/a26658.html#a2fab66e86d3c0207183db72ecbb6fc6c", null ],
+    [ "PrepareAuraScript", "d3/d73/a26658.html#ae0e3b459c71933c25da8136cdcddf200", null ],
+    [ "Register", "d3/d73/a26658.html#ac924ebbc893476cabab5f05120d0cd8d", null ],
+    [ "Validate", "d3/d73/a26658.html#ada327cf500aec62fdf34f9d8a4ccd6e2", null ]
 ];

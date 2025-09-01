@@ -1,6 +1,6 @@
 var a17826 =
 [
-    [ "AbominationDespawner", "dc/df6/a17826.html#a3bbf8c5d4e42569ffe993a3c3b8ff95e", null ],
-    [ "operator()", "dc/df6/a17826.html#a58b8faac1cdffa7230783a1d6439fcfb", null ],
-    [ "_owner", "dc/df6/a17826.html#af9089e566905b885887a5714ad5b0741", null ]
+    [ "IgbExplosionCheck", "dc/df6/a17826.html#ae67cca111f26a275614810cbe053bcd8", null ],
+    [ "operator()", "dc/df6/a17826.html#a28ce6685366e99db2aa1e4022012f943", null ],
+    [ "_source", "dc/df6/a17826.html#a413ee8f2218621d274d118aea967dc9b", null ]
 ];

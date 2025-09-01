@@ -1,6 +1,6 @@
 var a20822 =
 [
-    [ "boss_yoggsaronAI", "d5/d4a/a20826.html", "d5/d4a/a20826" ],
-    [ "boss_yoggsaron", "d7/d3e/a20822.html#a3fa3ada3979b55100b8ca9e21ec655a1", null ],
-    [ "GetAI", "d7/d3e/a20822.html#a113eb034acc46a2edd4a84598413a63e", null ]
+    [ "boss_thorim_start_npcsAI", "d5/d4a/a20826.html", "d5/d4a/a20826" ],
+    [ "boss_thorim_start_npcs", "d7/d3e/a20822.html#a3aa11a487ae00b2e397fd25ed2e42702", null ],
+    [ "GetAI", "d7/d3e/a20822.html#a6c529b19d071b4966ccc74b44279cb08", null ]
 ];

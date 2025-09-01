@@ -1,9 +1,11 @@
 var a13410 =
 [
-    [ "npc_dark_fiend", "d2/dd5/a13410.html#a8c4ebf7ba2f991df7053d40108330609", null ],
-    [ "DamageTaken", "d2/dd5/a13410.html#a39daa01688ec4ddadf9f1d185faa3f48", null ],
-    [ "Reset", "d2/dd5/a13410.html#a5622d14f84ad8e47da773852f1778d56", null ],
-    [ "UpdateAI", "d2/dd5/a13410.html#ab4a7cbc09f4b830039cf4c6f59b2b30e", null ],
-    [ "_lastVictimGUID", "d2/dd5/a13410.html#abcccb35701f21d417e3c13709cc24281", null ],
-    [ "_spellCast", "d2/dd5/a13410.html#a4cde5fbbeedfc7ed2907a2b797f6aafa", null ]
+    [ "boss_alythess", "d2/dd5/a13410.html#a707fbd0f310005a60d5ed4c05c9fc176", null ],
+    [ "AttackStart", "d2/dd5/a13410.html#ac860cef30a96d020a7c729f63ac5ca4e", null ],
+    [ "DoAction", "d2/dd5/a13410.html#aa2dc7ab74fa5bdb753475b2de1515855", null ],
+    [ "JustDied", "d2/dd5/a13410.html#a5509c9f0d979a2d9d70a8f4f9e7971a0", null ],
+    [ "JustEngagedWith", "d2/dd5/a13410.html#ac5047ee0124864304284c1142e885158", null ],
+    [ "KilledUnit", "d2/dd5/a13410.html#a611d8c0a8fb9061e596ef0ac8f1fda88", null ],
+    [ "Reset", "d2/dd5/a13410.html#ab5f990d305f42a2d00e182f617175672", null ],
+    [ "_isSisterDead", "d2/dd5/a13410.html#a9f9fa0823685066b4990a17880782b9a", null ]
 ];

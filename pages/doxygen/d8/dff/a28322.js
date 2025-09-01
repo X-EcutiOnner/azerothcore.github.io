@@ -1,5 +1,5 @@
 var a28322 =
 [
-    [ "Id", "d8/dff/a28322.html#a44532f8af054ae5224f5e816c3c9a8a7", null ],
-    [ "PowerType", "d8/dff/a28322.html#ab6c17a5a3ba9f2f3a8fac125104703c4", null ]
+    [ "Itemlvl", "d8/dff/a28322.html#a39d9dcee397a1f5984184c769f9b8b17", null ],
+    [ "multiplier", "d8/dff/a28322.html#a5c6c206a6185a546223de7501ff846f6", null ]
 ];

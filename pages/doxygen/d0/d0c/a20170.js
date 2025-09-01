@@ -1,5 +1,7 @@
 var a20170 =
 [
-    [ "go_ulduar_pure_saronite_deposit", "d0/d0c/a20170.html#a39da51a78b9f27392ed7494e18e89b93", null ],
-    [ "OnGossipHello", "d0/d0c/a20170.html#ab69c5b514e0b79ff7155e0080841d4a2", null ]
+    [ "OnPeriodic", "d0/d0c/a20170.html#a9407d5477a40e36863e5fb5775dda122", null ],
+    [ "PrepareAuraScript", "d0/d0c/a20170.html#a1ecb6e617976cdfbeb534849db41d57a", null ],
+    [ "Register", "d0/d0c/a20170.html#a34a31e96b21de9b9320d8276f7beb45e", null ],
+    [ "Validate", "d0/d0c/a20170.html#a2c2ca2c0425ab3b815d246b1caebf588", null ]
 ];

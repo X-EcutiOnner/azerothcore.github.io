@@ -1,6 +1,10 @@
 var a16298 =
 [
-    [ "boss_grand_championAI", "dd/da6/a16302.html", "dd/da6/a16302" ],
-    [ "boss_grand_champion", "d3/dc4/a16298.html#a9577f8af5e234b3aebd7567841b867e2", null ],
-    [ "GetAI", "d3/dc4/a16298.html#aa60972482ef16329d7ffc0a7ccf2d03e", null ]
+    [ "spell_halion_marks_aura", "d3/dc4/a16298.html#a3351eb9a4b497e1d92bd0021c0fa01f8", null ],
+    [ "BeforeDispel", "d3/dc4/a16298.html#a48fb48567091c8fd9d365ea3ff8730cc", null ],
+    [ "OnRemove", "d3/dc4/a16298.html#a1c9fefecd33db13e06f267c41e6b0375", null ],
+    [ "PrepareAuraScript", "d3/dc4/a16298.html#acd5285ea5c378b31526440d263c54770", null ],
+    [ "Register", "d3/dc4/a16298.html#ac84d4ab83e56314ff15ee363cafd2feb", null ],
+    [ "_removeSpellId", "d3/dc4/a16298.html#aeef9d928c6a8739337251e144558b169", null ],
+    [ "_summonSpellId", "d3/dc4/a16298.html#a01e8677e4f55dbb55cca1bf16dec48b2", null ]
 ];

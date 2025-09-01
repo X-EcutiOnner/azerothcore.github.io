@@ -1,9 +1,10 @@
 var a14834 =
 [
-    [ "boss_temporus", "dd/d2e/a14834.html#ab9f1495b18fe2c0ee33e9c238483ce0d", null ],
-    [ "JustDied", "dd/d2e/a14834.html#a9186e51d240aff2ffaab99e3b423ded9", null ],
-    [ "JustEngagedWith", "dd/d2e/a14834.html#abe7f18497c1c8b31693980e98b1d1859", null ],
-    [ "KilledUnit", "dd/d2e/a14834.html#a89c2a229b56b3a7dcb9e5a495ac6dbd7", null ],
-    [ "MoveInLineOfSight", "dd/d2e/a14834.html#a18a0279036324498a9daf8c7d0296ffc", null ],
-    [ "OwnTalk", "dd/d2e/a14834.html#a99356589a048debbc308b8431259da5c", null ]
+    [ "hyjalJainaAI", "dd/d2e/a14834.html#aa7532b691e85fd9bd467e20db39c59da", null ],
+    [ "IsSummonedBy", "dd/d2e/a14834.html#a5003e3a1ccb955b209c1ab91a49d217f", null ],
+    [ "JustDied", "dd/d2e/a14834.html#a605687080e5149b3f08ce8349ba9b336", null ],
+    [ "JustEngagedWith", "dd/d2e/a14834.html#a187efe775b1e2a35637638507e77352e", null ],
+    [ "PathEndReached", "dd/d2e/a14834.html#a0f7dd1512694d284c1f83b3403c421e6", null ],
+    [ "Reset", "dd/d2e/a14834.html#a585baff53f5d57ca0dc9002181e8d2bc", null ],
+    [ "UpdateAI", "dd/d2e/a14834.html#ac86fb8a5a55654ff7697abd9162135c1", null ]
 ];

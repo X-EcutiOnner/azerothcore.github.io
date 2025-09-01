@@ -1,8 +1,8 @@
 var a26826 =
 [
-    [ "HandleDummyTick", "dd/de5/a26826.html#ad35d90e5cdd68f4c1d3172a0860274bd", null ],
-    [ "HandleRemove", "dd/de5/a26826.html#a92f2bb73ec58832eaada3c7140f7868d", null ],
-    [ "PrepareAuraScript", "dd/de5/a26826.html#a06e45d5f63ef1395b5949482e8393098", null ],
-    [ "Register", "dd/de5/a26826.html#abf1d49720ae43d4ed2fb1c2920387ace", null ],
-    [ "Validate", "dd/de5/a26826.html#a9a2da4d163a96526e14f5de76798a784", null ]
+    [ "ApplyDebuff", "dd/de5/a26826.html#ac22ae27019de6bd951bb00262c6df9a3", null ],
+    [ "PrepareSpellScript", "dd/de5/a26826.html#aa37525d089348f58e3d871830caa3417", null ],
+    [ "Register", "dd/de5/a26826.html#ac37a48d9742ab6b07c5e6a8dd7f23bd9", null ],
+    [ "RemoveInvalidTargets", "dd/de5/a26826.html#a0451b75aa962065a01a5806992e01b16", null ],
+    [ "Validate", "dd/de5/a26826.html#ac69d777fdf7a2d3c527621dee256690c", null ]
 ];

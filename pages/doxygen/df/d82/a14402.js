@@ -1,7 +1,7 @@
 var a14402 =
 [
-    [ "go_loosely_turned_soilAI", "db/d30/a14406.html", "db/d30/a14406" ],
-    [ "go_loosely_turned_soil", "df/d82/a14402.html#a3b4d51e2b3a604e030962127269236f1", null ],
-    [ "GetAI", "df/d82/a14402.html#acead5810a848f8837fa65af1f2ac00bd", null ],
-    [ "OnQuestReward", "df/d82/a14402.html#a1ac57b34c5b3e21c033330eaeefaa6a8", null ]
+    [ "npc_direbrew_minion", "df/d82/a14402.html#aaac7d1b1a464ea7ff1ec18ace11d54b7", null ],
+    [ "IsSummonedBy", "df/d82/a14402.html#a78d40e0f2a285b0b9c257f12876eabeb", null ],
+    [ "Reset", "df/d82/a14402.html#a21fb7a778e9025ca4185951460a96d08", null ],
+    [ "_instance", "df/d82/a14402.html#aeea9f455c014afa347ce0c3f106ebdb6", null ]
 ];

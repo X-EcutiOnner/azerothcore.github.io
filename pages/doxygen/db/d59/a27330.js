@@ -1,5 +1,7 @@
 var a27330 =
 [
-    [ "go_jotunheim_cage", "db/d59/a27330.html#a28c9312de97a822e34f05c7358b42df4", null ],
-    [ "OnGossipHello", "db/d59/a27330.html#a5598fcb4df9c7d0a610ea064af8095d3", null ]
+    [ "FilterTargets", "db/d59/a27330.html#a5ee420ce696d23d836ff6e9e1def6405", null ],
+    [ "HandleEffect", "db/d59/a27330.html#a064fdac9158e35f290b51ecf9bf537b1", null ],
+    [ "PrepareSpellScript", "db/d59/a27330.html#a53b5772c87574beb5b295c26fe983b76", null ],
+    [ "Register", "db/d59/a27330.html#a5e93d0d708d2304d9166c47ad285ada5", null ]
 ];

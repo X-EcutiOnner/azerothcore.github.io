@@ -1,8 +1,6 @@
 var a24022 =
 [
-    [ "npc_ancestral_wolfAI", "d3/d47/a24022.html#a59ccca7093575f4bcac57a4751d977d4", null ],
-    [ "MoveInLineOfSight", "d3/d47/a24022.html#aec5788f0be3c1dcb63b3e61b50ae39c1", null ],
-    [ "Reset", "d3/d47/a24022.html#a9778a1648ca0007f7daf4ee98308d8d2", null ],
-    [ "WaypointReached", "d3/d47/a24022.html#a2b553c29823e5ef888ee02a3ed413386", null ],
-    [ "ryga", "d3/d47/a24022.html#ac238214604720e298124b58c35d58e05", null ]
+    [ "lapseTeleport", "d3/d47/a24022.html#a55c4330397214bf3a43628b3067d4634", null ],
+    [ "Execute", "d3/d47/a24022.html#a122023ed13fce2f5bb3721e459964443", null ],
+    [ "_owner", "d3/d47/a24022.html#a0e678c5cdb862390ea50c8d6057b7093", null ]
 ];

@@ -1,6 +1,6 @@
 var a17614 =
 [
-    [ "npc_gunship_gunnerAI", "dd/dad/a17618.html", "dd/dad/a17618" ],
-    [ "npc_gunship_gunner", "db/db0/a17614.html#a409711f22b35eae0c0d48bc23545e592", null ],
-    [ "GetAI", "db/db0/a17614.html#a2b28f5edfddf7a8c94a2a5475ec575dc", null ]
+    [ "npc_saurfang_eventAI", "dd/dad/a17618.html", "dd/dad/a17618" ],
+    [ "npc_saurfang_event", "db/db0/a17614.html#a3bfce5457466360458498833098d660c", null ],
+    [ "GetAI", "db/db0/a17614.html#a953842d2fa3380a8331faf3a42cb3177", null ]
 ];

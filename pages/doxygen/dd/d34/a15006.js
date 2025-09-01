@@ -1,6 +1,9 @@
 var a15006 =
 [
-    [ "HandleScript", "dd/d34/a15006.html#a7e6ec873a252106ba865bdef05f757f5", null ],
-    [ "PrepareSpellScript", "dd/d34/a15006.html#a98e80c8726c350aca850b6c87c5861da", null ],
-    [ "Register", "dd/d34/a15006.html#a994bb1f4670d16f6797b9e0df1d8c36c", null ]
+    [ "boss_temporus", "dd/d34/a15006.html#ab9f1495b18fe2c0ee33e9c238483ce0d", null ],
+    [ "JustDied", "dd/d34/a15006.html#a9186e51d240aff2ffaab99e3b423ded9", null ],
+    [ "JustEngagedWith", "dd/d34/a15006.html#abe7f18497c1c8b31693980e98b1d1859", null ],
+    [ "KilledUnit", "dd/d34/a15006.html#a89c2a229b56b3a7dcb9e5a495ac6dbd7", null ],
+    [ "MoveInLineOfSight", "dd/d34/a15006.html#a18a0279036324498a9daf8c7d0296ffc", null ],
+    [ "OwnTalk", "dd/d34/a15006.html#a99356589a048debbc308b8431259da5c", null ]
 ];

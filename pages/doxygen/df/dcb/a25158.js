@@ -1,7 +1,7 @@
 var a25158 =
 [
-    [ "PrepareSpellScript", "df/dcb/a25158.html#aad8061898087fbf5eb6527cbaa70927d", null ],
-    [ "RecalculateDamage", "df/dcb/a25158.html#a6f03ccb77ce43c4e36996ae344780ee3", null ],
-    [ "Register", "df/dcb/a25158.html#abc7e406244a1a5ea9d7c3d8feb10b8ae", null ],
-    [ "_damagePct", "df/dcb/a25158.html#a3ab5f5ec279f30dda50fa3ca3f5e6715", null ]
+    [ "HandleProc", "df/dcb/a25158.html#af768269d315e998fc2042794c3a03b58", null ],
+    [ "PrepareAuraScript", "df/dcb/a25158.html#ae3da67d626ee11c57a85a3af99ff07a5", null ],
+    [ "Register", "df/dcb/a25158.html#a2df1cff47861cbf3198e573c6031b54e", null ],
+    [ "Validate", "df/dcb/a25158.html#a84f40eec148c55108085db5e7b05cb0e", null ]
 ];

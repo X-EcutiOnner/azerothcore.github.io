@@ -1,6 +1,9 @@
 var a21730 =
 [
-    [ "npc_conversing_with_the_depths_triggerAI", "d9/d46/a21734.html", "d9/d46/a21734" ],
-    [ "npc_conversing_with_the_depths_trigger", "d3/d34/a21730.html#a55ba213da86650d44ea1493b26fdb7f2", null ],
-    [ "GetAI", "d3/d34/a21730.html#a61c337bfe1efb3589cf0df91d9082236", null ]
+    [ "npc_captured_beryl_sorcererAI", "d3/d34/a21730.html#a3c3f47022aee418f228803a2504470a3", null ],
+    [ "Initialize", "d3/d34/a21730.html#a98b2ff2f0e152a41106eaace5273aa69", null ],
+    [ "MoveInLineOfSight", "d3/d34/a21730.html#a4f7edf7bc7480bf0c9f6aec113b2e058", null ],
+    [ "Reset", "d3/d34/a21730.html#ac96af1fd018e88950d1c58562dffdb83", null ],
+    [ "UpdateAI", "d3/d34/a21730.html#a1bbefa59abce0c7b3d7b343ddc467c98", null ],
+    [ "_events", "d3/d34/a21730.html#a0ba1f7ffa792c93ccd4df8ec2c80fb42", null ]
 ];

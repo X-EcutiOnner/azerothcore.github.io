@@ -1,6 +1,10 @@
 var a15310 =
 [
-    [ "npc_draenei_survivorAI", "d7/d1b/a15314.html", "d7/d1b/a15314" ],
-    [ "npc_draenei_survivor", "d0/dd3/a15310.html#a1dca668a7c3f868677a9bf306288430c", null ],
-    [ "GetAI", "d0/dd3/a15310.html#aa8dde30279bb898a4412491faca79267", null ]
+    [ "boss_huhuran", "d0/dd3/a15310.html#a64e0b20891992764c708cbb661c18196", null ],
+    [ "DamageTaken", "d0/dd3/a15310.html#adb47086f29b41f4168ad5d1b2728547d", null ],
+    [ "JustEngagedWith", "d0/dd3/a15310.html#a08f1d6550680d5bcf07332eade115730", null ],
+    [ "Reset", "d0/dd3/a15310.html#a45571aa6bd0c7915fb666cae1c5c4544", null ],
+    [ "UpdateAI", "d0/dd3/a15310.html#a23962e668f046b373f94ea6a2d75574a", null ],
+    [ "_berserk", "d0/dd3/a15310.html#a5f3f17d0b239f95ed4eb0bfac85c4463", null ],
+    [ "_hardEnrage", "d0/dd3/a15310.html#a5612bf8b1eedec159b316b28e6f4c915", null ]
 ];

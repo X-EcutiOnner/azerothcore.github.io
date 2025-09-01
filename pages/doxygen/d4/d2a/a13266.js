@@ -1,5 +1,7 @@
 var a13266 =
 [
-    [ "at_sunwell_eredar_twins", "d4/d2a/a13266.html#afc183c384bc87321186b20e0ac168c1f", null ],
-    [ "_OnTrigger", "d4/d2a/a13266.html#aa862756c9905e2cb10d60c70b47919aa", null ]
+    [ "OnApply", "d4/d2a/a13266.html#a278a1eb6d5f856a620f5a33de294b0ec", null ],
+    [ "OnRemove", "d4/d2a/a13266.html#a8300f726a41882e3d3f54adc0e5bfb29", null ],
+    [ "PrepareAuraScript", "d4/d2a/a13266.html#a46ba800f3a3512951b83e428bc5373b9", null ],
+    [ "Register", "d4/d2a/a13266.html#a4a59d431c7d7607e614c4ec035e3acf7", null ]
 ];

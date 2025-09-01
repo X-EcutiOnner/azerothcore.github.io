@@ -1,6 +1,7 @@
 var a18890 =
 [
-    [ "RespawnEvent", "d0/d28/a18890.html#accc0d5638ff7a493fa116ac2e8f2e58b", null ],
-    [ "Execute", "d0/d28/a18890.html#a2e58f4e472fb72cf5401f11be6e5e136", null ],
-    [ "_owner", "d0/d28/a18890.html#adb0835b4a2e7a2795bb81f0a1e3c911a", null ]
+    [ "HandleScript", "d0/d28/a18890.html#a87a2b32a9a20f032157df5ddb2cd9979", null ],
+    [ "PrepareSpellScript", "d0/d28/a18890.html#a9aca3a2a981a0cb61569200d77ca527a", null ],
+    [ "Register", "d0/d28/a18890.html#afb0289c9906d0383a22dfd0e848573f8", null ],
+    [ "Validate", "d0/d28/a18890.html#a69344370af56f033e1c1ba16f4dee174", null ]
 ];

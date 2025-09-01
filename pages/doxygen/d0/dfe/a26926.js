@@ -1,7 +1,6 @@
 var a26926 =
 [
-    [ "OnProc", "d0/dfe/a26926.html#a7ab183d734c543be2866c57f1e5cc508", null ],
-    [ "PrepareAuraScript", "d0/dfe/a26926.html#a31118cda9f29318f4620caf38c09522a", null ],
-    [ "Register", "d0/dfe/a26926.html#ac27f99aafa92ae85a247c6f25ece8c7b", null ],
-    [ "Validate", "d0/dfe/a26926.html#aa193bddd2ba9efe70343c5501d737fa4", null ]
+    [ "HandleAuraApply", "d0/dfe/a26926.html#a19d8103126a6446fb5ade53d2b5d0ddb", null ],
+    [ "PrepareAuraScript", "d0/dfe/a26926.html#a7596065e5ffcacf099a5984f5d940c11", null ],
+    [ "Register", "d0/dfe/a26926.html#a8efa76b28dddad68fee132f37791f231", null ]
 ];

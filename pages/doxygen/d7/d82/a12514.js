@@ -1,6 +1,6 @@
 var a12514 =
 [
-    [ "instance_molten_core_InstanceMapScript", "d8/d01/a12518.html", "d8/d01/a12518" ],
-    [ "instance_molten_core", "d7/d82/a12514.html#ad83dac834feb2fcae872dfe09b833950", null ],
-    [ "GetInstanceScript", "d7/d82/a12514.html#ab7c794f1503f0ecad8d41ace72737a5d", null ]
+    [ "npc_garr_fireswornAI", "d8/d01/a12518.html", "d8/d01/a12518" ],
+    [ "npc_garr_firesworn", "d7/d82/a12514.html#a54c8f5daab9b8c4e1e7ff5d7777fcddf", null ],
+    [ "GetAI", "d7/d82/a12514.html#a07e47767a44d3613f8cba2c3dfb1d14e", null ]
 ];

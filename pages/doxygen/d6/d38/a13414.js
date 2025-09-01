@@ -1,7 +1,9 @@
 var a13414 =
 [
-    [ "npc_singularity", "d6/d38/a13414.html#a4ed61ec65ed94d8d5e42ae7ff9ecd41d", null ],
-    [ "FindAndFollowTarget", "d6/d38/a13414.html#a76c21129756dec05f6f2d88cebe948c5", null ],
-    [ "Reset", "d6/d38/a13414.html#ae81c2e5865beb00df8683fa0fb6e7872", null ],
-    [ "UpdateAI", "d6/d38/a13414.html#ad019d234ca9ee719612d59e5bb0b53ea", null ]
+    [ "spell_eredar_twins_apply_touch", "d6/d38/a13414.html#a1ffb6952cbbb79bb6a963ea57b8400aa", null ],
+    [ "HandleApplyTouch", "d6/d38/a13414.html#a200219828e22c35ef2f7c7a7fd61c973", null ],
+    [ "PrepareSpellScript", "d6/d38/a13414.html#a6e6c42042faa1a6cd82d4680d28587ae", null ],
+    [ "Register", "d6/d38/a13414.html#a8c49e8aeb1f00e8324aa4c1d420fb068", null ],
+    [ "Validate", "d6/d38/a13414.html#a36ff1d126191de7880d98242b3b714b5", null ],
+    [ "_touchSpell", "d6/d38/a13414.html#a9f8c58013add0fc5a05a78e1b90a32e1", null ]
 ];

@@ -1,6 +1,7 @@
 var a14646 =
 [
-    [ "FilterTargets", "df/ded/a14646.html#a45b0713b2942199bf0e19752fe765aac", null ],
-    [ "PrepareSpellScript", "df/ded/a14646.html#a7f7177d7754a99743202f69a0342f587", null ],
-    [ "Register", "df/ded/a14646.html#a27b432d8571d48c3f5fb025bbbd29271", null ]
+    [ "HandleEffectApply", "df/ded/a14646.html#a404f2134734e1d21201033b3f26e611e", null ],
+    [ "HandleEffectPeriodic", "df/ded/a14646.html#a8ce6799e01cf8b7849386fbdd2edddb8", null ],
+    [ "PrepareAuraScript", "df/ded/a14646.html#a1707f92d77a3ed7beefd499adc7f4a95", null ],
+    [ "Register", "df/ded/a14646.html#ad239472c15ca0c73b053d112f538ecff", null ]
 ];

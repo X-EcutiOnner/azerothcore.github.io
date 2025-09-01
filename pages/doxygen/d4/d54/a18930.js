@@ -1,6 +1,7 @@
 var a18930 =
 [
-    [ "boss_isle_of_conquestAI", "d1/d48/a18934.html", "d1/d48/a18934" ],
-    [ "boss_isle_of_conquest", "d4/d54/a18930.html#ad4052d1b6865585d32016e1240449659", null ],
-    [ "GetAI", "d4/d54/a18930.html#ae14201c4f8654bf2c0cd9ac8a82f3800", null ]
+    [ "HandleEffectPeriodic", "d4/d54/a18930.html#a57615f1d8b891ab5a5c01de1543235cb", null ],
+    [ "PrepareAuraScript", "d4/d54/a18930.html#ae040da0db1147652266e1f373838df37", null ],
+    [ "Register", "d4/d54/a18930.html#ab11b84522134ee4d13504df3c19f69b8", null ],
+    [ "Validate", "d4/d54/a18930.html#af3c3c90256913ffe188c11a21fc2dcc8", null ]
 ];

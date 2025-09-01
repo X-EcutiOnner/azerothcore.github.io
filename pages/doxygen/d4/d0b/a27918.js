@@ -1,7 +1,5 @@
 var a27918 =
 [
-    [ "cutPercent", "d4/d0b/a27918.html#a8581a6a5198dab10680f477a477a7c80", null ],
-    [ "depositPercent", "d4/d0b/a27918.html#af7bb868f1a1e8d570ce7b6cb10ad87d9", null ],
-    [ "faction", "d4/d0b/a27918.html#a4b857e3c4c333b2a86f7f5d08bcc883d", null ],
-    [ "houseId", "d4/d0b/a27918.html#a1bf77c1b14731def0e3de44143df2eed", null ]
+    [ "npc_suns_reach_reclamation", "d4/d0b/a27918.html#aa66b75aa1a4a96a97c4d2c4e42e3d6bb", null ],
+    [ "OnQuestReward", "d4/d0b/a27918.html#a459e53b21778cf901cbbb15c9f6e5cdd", null ]
 ];

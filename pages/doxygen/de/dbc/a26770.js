@@ -1,8 +1,8 @@
 var a26770 =
 [
-    [ "CalcPeriodic", "de/dbc/a26770.html#a42770d7f7e5bd41cd3f0a283c544c642", null ],
-    [ "CalculateAmount", "de/dbc/a26770.html#a525009acb345d6b0a9857c30cfce2230", null ],
-    [ "HandlePeriodic", "de/dbc/a26770.html#a4c75f793388b533d00a52ad18f18bc6e", null ],
-    [ "PrepareAuraScript", "de/dbc/a26770.html#a5627212e48a3044a9a7480851787a839", null ],
-    [ "Register", "de/dbc/a26770.html#a09ea5265d7105a4bd487d383948901a0", null ]
+    [ "HandleDummy", "de/dbc/a26770.html#ab653cf0414411c17ccc674395b08af7a", null ],
+    [ "Load", "de/dbc/a26770.html#a6eb80b68a00c91d92a2963adb753ed23", null ],
+    [ "PrepareSpellScript", "de/dbc/a26770.html#ae6c5ba4ed1918125594b31368c3bcf2f", null ],
+    [ "Register", "de/dbc/a26770.html#a92eb201b3ae3ab167cc338174a355b00", null ],
+    [ "Validate", "de/dbc/a26770.html#a3635089640297e059a183322c7e8f7b9", null ]
 ];

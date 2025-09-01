@@ -1,7 +1,7 @@
 var a26198 =
 [
-    [ "CalculateAmount", "d6/da9/a26198.html#a5d4549ac73b46382c1beddbb65257ad0", null ],
-    [ "HandleUpdateSpellclick", "d6/da9/a26198.html#a89956d7f3a6404d5b60e46034867c82c", null ],
-    [ "PrepareAuraScript", "d6/da9/a26198.html#a7cbdc79c63306a8fcfcc06180998a290", null ],
-    [ "Register", "d6/da9/a26198.html#a2252719e6ea995b85b7b0c5ecb6a26d3", null ]
+    [ "AfterRemove", "d6/da9/a26198.html#a9dc5ef5c5545fc382e221ca9473ac3bd", null ],
+    [ "PrepareAuraScript", "d6/da9/a26198.html#a0fd3e297a66df888f6e30f93b9f60947", null ],
+    [ "Register", "d6/da9/a26198.html#a2b1872fa0342e0f530b61fc7a5bf876b", null ],
+    [ "Validate", "d6/da9/a26198.html#ae08f33e0271166afa87208faa30684c4", null ]
 ];

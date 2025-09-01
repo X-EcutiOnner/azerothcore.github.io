@@ -1,7 +1,6 @@
 var a15658 =
 [
-    [ "npc_wizzlecrank_shredderAI", "d1/dce/a15662.html", "d1/dce/a15662" ],
-    [ "npc_wizzlecrank_shredder", "de/d57/a15658.html#a56a29a61d6f1a5981019f6c059b4da64", null ],
-    [ "GetAI", "de/d57/a15658.html#a5c42cc6d8cf2642333731138077af66e", null ],
-    [ "OnQuestAccept", "de/d57/a15658.html#afcd5aaea5234b6510825d9ce5e809aa6", null ]
+    [ "npc_bunthen_plainswind", "de/d57/a15658.html#ad9b789ad3e958dee4733b142813b6302", null ],
+    [ "OnGossipHello", "de/d57/a15658.html#ae2fe8bfb957dd8ea84d2585293c3b6eb", null ],
+    [ "OnGossipSelect", "de/d57/a15658.html#a117f28d513ac645b9d3d908d052d2146", null ]
 ];

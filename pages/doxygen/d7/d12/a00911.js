@@ -1,12 +1,13 @@
 var a00911 =
 [
-    [ "ArenaScript", "db/d38/a10256.html", "db/d38/a10256" ],
-    [ "ArenaHook", "d7/d12/a00911.html#a93515f145fed15b3645f2240f39214ba", [
-      [ "ARENAHOOK_CAN_ADD_MEMBER", "d7/d12/a00911.html#a93515f145fed15b3645f2240f39214baa0eec08769f1e2848ef510ae5bc1980d0", null ],
-      [ "ARENAHOOK_ON_GET_POINTS", "d7/d12/a00911.html#a93515f145fed15b3645f2240f39214baab3934eeceaededbb59ec277bc4275588", null ],
-      [ "ARENAHOOK_CAN_SAVE_TO_DB", "d7/d12/a00911.html#a93515f145fed15b3645f2240f39214baa707580e05d247690d89335a46d576657", null ],
-      [ "ARENAHOOK_ON_BEFORE_CHECK_WIN_CONDITION", "d7/d12/a00911.html#a93515f145fed15b3645f2240f39214baa8f35d3e6970c95df27f631f3f5558a5e", null ],
-      [ "ARENAHOOK_ON_ARENA_START", "d7/d12/a00911.html#a93515f145fed15b3645f2240f39214baac02079e51af3fd7c3507a8a6f88fee09", null ],
-      [ "ARENAHOOK_END", "d7/d12/a00911.html#a93515f145fed15b3645f2240f39214baa2958c395c6475e07a7dff62d1014ae58", null ]
-    ] ]
+    [ "spell_ooze_zap", "dc/d38/a15634.html", "dc/d38/a15634" ],
+    [ "spell_ooze_zap_channel_end", "da/d4a/a15638.html", "da/d4a/a15638" ],
+    [ "spell_energize_aoe", "d2/de8/a15642.html", "d2/de8/a15642" ],
+    [ "SpellScripts", "d7/d12/a00911.html#a7da1350130e8c0e2dbb048bb6d532048", [
+      [ "SPELL_OOZE_ZAP", "d7/d12/a00911.html#a7da1350130e8c0e2dbb048bb6d532048a1b2971d13842ea79dee4215970f1b0f8", null ],
+      [ "SPELL_OOZE_ZAP_CHANNEL_END", "d7/d12/a00911.html#a7da1350130e8c0e2dbb048bb6d532048a02f7e373b9176afcf3033085c6cc4a1d", null ],
+      [ "SPELL_OOZE_CHANNEL_CREDIT", "d7/d12/a00911.html#a7da1350130e8c0e2dbb048bb6d532048a5e8e7d71235ca347c586316d35c81f2b", null ],
+      [ "SPELL_ENERGIZED", "d7/d12/a00911.html#a7da1350130e8c0e2dbb048bb6d532048a37a0a6328b9098980d1ec0596ddebbca", null ]
+    ] ],
+    [ "AddSC_dustwallow_marsh", "d7/d12/a00911.html#a90fa5d1f62873c538b717bfbfb93251b", null ]
 ];

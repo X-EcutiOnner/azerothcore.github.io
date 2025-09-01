@@ -1,7 +1,8 @@
 var a20146 =
 [
-    [ "HandleEffectPeriodic", "d2/dc7/a20146.html#ae1c6062123fb62a48f542e43b34c7bcd", null ],
-    [ "PrepareAuraScript", "d2/dc7/a20146.html#a1c54b6c86fc39d96d601b24c5b30fbdd", null ],
-    [ "Register", "d2/dc7/a20146.html#af7a5a98b5cf784d2de8b57a183c19142", null ],
-    [ "Validate", "d2/dc7/a20146.html#a16c536c913d003826ef4b86c7a497fec", null ]
+    [ "OnApply", "d2/dc7/a20146.html#a5aec8606684637bbdb1e819254f5d483", null ],
+    [ "OnRemove", "d2/dc7/a20146.html#add485a2fd5fdd068d7258d3c9c0d9c2b", null ],
+    [ "PrepareAuraScript", "d2/dc7/a20146.html#adcc21606209dc2f32c1173c7ab4c5579", null ],
+    [ "Register", "d2/dc7/a20146.html#af1db6ca387cf0733ba4b9c324172d692", null ],
+    [ "Validate", "d2/dc7/a20146.html#a332d01b39295ea9a11773be9aa9c3fb3", null ]
 ];

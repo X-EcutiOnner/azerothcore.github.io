@@ -1,5 +1,7 @@
 var a27090 =
 [
-    [ "AreaTrigger_at_nats_landing", "d8/d71/a27090.html#ac366e5b1db489b4f8bb8a1d07caa83c2", null ],
-    [ "OnTrigger", "d8/d71/a27090.html#a67434f74300fa3463e679afb7d344467", null ]
+    [ "HandleDummy", "d8/d71/a27090.html#a3af91500357eb127f813334bdf538dbd", null ],
+    [ "PrepareSpellScript", "d8/d71/a27090.html#ae34ff5e6027efecc34fa770690df5887", null ],
+    [ "Register", "d8/d71/a27090.html#add4e4d484008d1e1cf63e36c6b6e9757", null ],
+    [ "Validate", "d8/d71/a27090.html#a0b107442c0b76a018cc019f776c0b785", null ]
 ];

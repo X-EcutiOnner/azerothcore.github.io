@@ -1,8 +1,8 @@
 var a04970 =
 [
-    [ "MMapData", "db/db8/a04970.html#ab6aa577df2b8bc749e68515b7b5ef96c", null ],
-    [ "~MMapData", "db/db8/a04970.html#a28ad87f05014c49373557369e9177df5", null ],
-    [ "loadedTileRefs", "db/db8/a04970.html#afa8799db33459dd5e36b7a43eae7d16b", null ],
-    [ "navMesh", "db/db8/a04970.html#a786a4b43773e4402451bed82cf221f66", null ],
-    [ "navMeshQueries", "db/db8/a04970.html#abb7a9f9131b3657eff54ed17fc329b43", null ]
+    [ "IMMapMgr", "db/db8/a04970.html#a2292f2bdacfc627ab33f02d399221ad5", null ],
+    [ "~IMMapMgr", "db/db8/a04970.html#a8298d6b3fbce5ccd835af3c287c361b6", null ],
+    [ "isEnablePathFinding", "db/db8/a04970.html#a5d6bcb413c39e82da8e4924c4754c8b0", null ],
+    [ "setEnablePathFinding", "db/db8/a04970.html#afdc7e829a374c20b4d072290363c7c62", null ],
+    [ "iEnablePathFinding", "db/db8/a04970.html#a25f8900f4546990562fb048e956bb1e0", null ]
 ];

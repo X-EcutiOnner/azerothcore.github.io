@@ -1,9 +1,9 @@
 var a21654 =
 [
-    [ "npc_counselor_talbotAI", "df/da4/a21654.html#acf1865ab4225128b8edbc619f7d8fa93", null ],
-    [ "JustDied", "df/da4/a21654.html#a4dbb0c9b91be5fa182bcc5c63ac9307b", null ],
-    [ "JustEngagedWith", "df/da4/a21654.html#acacec95c5e74c4b71cf2345bbae2eacb", null ],
-    [ "Reset", "df/da4/a21654.html#a03bfaedb136c3e107a4df8e4a1646ae2", null ],
-    [ "UpdateAI", "df/da4/a21654.html#a7b5c739d7c85d5205a04f3c6adf367ef", null ],
-    [ "_events", "df/da4/a21654.html#a094ce9839bb51b73e6b5826c24cda3b6", null ]
+    [ "npc_azure_sorcerorAI", "df/da4/a21654.html#a474a7144908d4820341dc56f77436b90", null ],
+    [ "Reset", "df/da4/a21654.html#a4c637288f79e1da4bdace6516cd887b1", null ],
+    [ "UpdateAI", "df/da4/a21654.html#a928d789e2cbd35b228857a23c4204ea1", null ],
+    [ "uiArcaneStreamTimer", "df/da4/a21654.html#ad238fe8fed4dcefd923d901e4f73ed05", null ],
+    [ "uiArcaneStreamTimerStartingValueHolder", "df/da4/a21654.html#af044879e8e064e28a491c87d0c6cde74", null ],
+    [ "uiManaDetonationTimer", "df/da4/a21654.html#a3ebe4eb452296f3c45db5c1b6cdaa243", null ]
 ];

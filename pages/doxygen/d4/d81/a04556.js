@@ -1,23 +1,23 @@
 var a04556 =
 [
-    [ "MetricData", "d4/d93/a05376.html", "d4/d93/a05376" ],
-    [ "Metric", "d2/d6f/a05380.html", "d2/d6f/a05380" ],
-    [ "MetricStopWatch< LoggerType >", "d3/dec/a05384.html", "d3/dec/a05384" ],
-    [ "METRIC_CONCAT", "d4/d81/a04556.html#ad81585df46d4cee988a1222012dbabf1", null ],
-    [ "METRIC_DETAILED_EVENT", "d4/d81/a04556.html#ac782d1c3265f7b707782545777d49d05", null ],
-    [ "METRIC_DETAILED_NO_THRESHOLD_TIMER", "d4/d81/a04556.html#a281633f6f8b252d96029ce8fd29da746", null ],
-    [ "METRIC_DETAILED_TIMER", "d4/d81/a04556.html#a22dcbf78f0d280a4b2b4e0662034efe9", null ],
-    [ "METRIC_DO_CONCAT", "d4/d81/a04556.html#aa861206b38b55c4f39f1ed649defb338", null ],
-    [ "METRIC_EVENT", "d4/d81/a04556.html#ad57573999508dbc7a2c953379996b542", null ],
-    [ "METRIC_TAG", "d4/d81/a04556.html#ab81b5769123c1e5e3870b9b05f25fe0a", null ],
-    [ "METRIC_TIMER", "d4/d81/a04556.html#ad88ae7d281622a32a700443aa3dc51f9", null ],
-    [ "METRIC_UNIQUE_NAME", "d4/d81/a04556.html#adf91483a75eca0531263536ce38d9339", null ],
-    [ "METRIC_VALUE", "d4/d81/a04556.html#a92aedc832ddfc479ecc61289f12be449", null ],
-    [ "sMetric", "d4/d81/a04556.html#a4e89926204845a9c9e315d6f0abec5ef", null ],
-    [ "MetricTag", "d4/d81/a04556.html#a8fdc9a93c03faef11e4c36679e79e3f1", null ],
-    [ "MetricDataType", "d4/d81/a04556.html#a0bb9cc086e32544cb0e43338f83d8e62", [
-      [ "METRIC_DATA_VALUE", "d4/d81/a04556.html#a0bb9cc086e32544cb0e43338f83d8e62a62f4e964751c180f1ab400ee1852b155", null ],
-      [ "METRIC_DATA_EVENT", "d4/d81/a04556.html#a0bb9cc086e32544cb0e43338f83d8e62a599565c733d02dcd1c4676c2ad463af2", null ]
-    ] ],
-    [ "MakeMetricStopWatch", "d4/d81/a04556.html#ab339934305abce426aa1d43c99d65e9f", null ]
+    [ "SPECTATOR_ADDON_PREFIX", "d4/d81/a04556.html#ad208fe13d99ebdd4ecc344c284d15e68", null ],
+    [ "SPECTATOR_ADDON_VERSION", "d4/d81/a04556.html#ae3d7b03163a946f567eb34e902d0b424", null ],
+    [ "SPECTATOR_BUFFER_LEN", "d4/d81/a04556.html#adf210ab6f5a013e4f37def30f79b2a2c", null ],
+    [ "SPECTATOR_COOLDOWN_MAX", "d4/d81/a04556.html#a5caad2c604ec8c4fe2b2653a9a629d23", null ],
+    [ "SPECTATOR_COOLDOWN_MIN", "d4/d81/a04556.html#ad2182c49e417fd86e25b7c2a209d044b", null ],
+    [ "SPECTATOR_SPELL_BINDSIGHT", "d4/d81/a04556.html#a45eed6b7e374a4b2ea26b3dd5ee915d0", null ],
+    [ "SPECTATOR_SPELL_SPEED", "d4/d81/a04556.html#a3a183131cf51fa6957a40f07d8d524ef", null ],
+    [ "CreatePacket", "d4/d81/a04556.html#a20983eb9cb8e3f584a4d8f752586d06b", null ],
+    [ "HandleResetCommand", "d4/d81/a04556.html#a4508ccc26eb193b85e4d229a088c6be5", null ],
+    [ "HandleSpectatorSpectateCommand", "d4/d81/a04556.html#ac3b35eed76fdcf00f43b226912317b4a", null ],
+    [ "HandleSpectatorWatchCommand", "d4/d81/a04556.html#ae611c9f6783ca983d1ff667f36dd7c7d", null ],
+    [ "SendCommand", "d4/d81/a04556.html#a4824203dd64e1ddcd47642df9d465ea0", null ],
+    [ "SendCommand_Aura", "d4/d81/a04556.html#a918c7c3c9fd7d26b7a78f2e6d13e1e27", null ],
+    [ "SendCommand_Cooldown", "d4/d81/a04556.html#a5e336b6d62f2d9e24551cfb96c7a8679", null ],
+    [ "SendCommand_GUID", "d4/d81/a04556.html#af537ad9da6345b285d2d726b640a0340", null ],
+    [ "SendCommand_Spell", "d4/d81/a04556.html#a461f69ba88de17058481bc77a3e9f7bb", null ],
+    [ "SendCommand_String", "d4/d81/a04556.html#ac7839fd6177447b31578a19f8ee8e42a", null ],
+    [ "SendCommand_UInt32Value", "d4/d81/a04556.html#ae899637e3543ca40ec63e98bf0426f58", null ],
+    [ "SendPacketTo", "d4/d81/a04556.html#abc5c395f3697c21f09c4e70a81f02497", null ],
+    [ "ShouldSendAura", "d4/d81/a04556.html#a29f78349223aca49d417c3f818b2dd4c", null ]
 ];

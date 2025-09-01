@@ -1,5 +1,7 @@
 var a20302 =
 [
-    [ "achievement_staying_buffed_all_winter_10", "d0/da8/a20302.html#a40afd6db0bf6cff2b9b6163b7d4c31da", null ],
-    [ "OnCheck", "d0/da8/a20302.html#a67587b1659a8d026e73b42311148541a", null ]
+    [ "npc_ulduar_saronite_vaporsAI", "d0/da8/a20302.html#a8f811c588aeca2cd4a12d4d345907bd2", null ],
+    [ "IsSummonedBy", "d0/da8/a20302.html#a4692bb5c3ffadcfd133db665566c66e5", null ],
+    [ "JustDied", "d0/da8/a20302.html#a5be637500e7b5735d90e19fa40fde467", null ],
+    [ "pInstance", "d0/da8/a20302.html#a25cf8dd22f05566ae99b14a596039f5e", null ]
 ];

@@ -1,11 +1,7 @@
 var a19250 =
 [
-    [ "npc_nexus_lordAI", "d0/d4e/a19250.html#a8d26337fdcd055027a20ea91faf7e01b", null ],
-    [ "AttackStart", "d0/d4e/a19250.html#a2f56dcac815431c887b95e9c09aec361", null ],
-    [ "JustDied", "d0/d4e/a19250.html#a828007757a618affad71b955681945cf", null ],
-    [ "JustEngagedWith", "d0/d4e/a19250.html#acfcf227557b1e212eda385e22ccdb981", null ],
-    [ "UpdateAI", "d0/d4e/a19250.html#ad7ddb98d2daaed386e713e423de4cac9", null ],
-    [ "events", "d0/d4e/a19250.html#ad20a56e52b22306ca31406d8defa4aa5", null ],
-    [ "pInstance", "d0/d4e/a19250.html#a81fae70688bcd8c733ea90b06900503d", null ],
-    [ "timer", "d0/d4e/a19250.html#a8edb133f7ca01a4aa75345c572a505c7", null ]
+    [ "FilterTargets", "d0/d4e/a19250.html#af92aec0df6c962a10ccbebb366081cfd", null ],
+    [ "PrepareSpellScript", "d0/d4e/a19250.html#ad7ccb2b2024887ec0a9802454a8bfaec", null ],
+    [ "Register", "d0/d4e/a19250.html#af59416debfc7685bec92541a00e1dafe", null ],
+    [ "Validate", "d0/d4e/a19250.html#abbe7ae557fb510457504f72adfa0aedc", null ]
 ];

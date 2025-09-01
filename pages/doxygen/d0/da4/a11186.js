@@ -1,7 +1,8 @@
 var a11186 =
 [
-    [ "attributeMask", "d0/da4/a11186.html#a6bbb4046cd4c068c990aa28844e4588b", null ],
-    [ "customChance", "d0/da4/a11186.html#ac5d048f7ee803d61d5d3c59bb80a015d", null ],
-    [ "PPMChance", "d0/da4/a11186.html#adb76c11f0073a2738374c98c01fda009", null ],
-    [ "procEx", "d0/da4/a11186.html#a28bcdd11e64ad96be5a3ca0e0dd447c7", null ]
+    [ "SkillExtraItemEntry", "d0/da4/a11186.html#a3f7a8bc0b81407e7d5567c7da3e65ec5", null ],
+    [ "SkillExtraItemEntry", "d0/da4/a11186.html#a39a44cb09912cb0a15a5dd3b18787d16", null ],
+    [ "additionalCreateChance", "d0/da4/a11186.html#a299d886468e9caf22f9d6ce80a64c247", null ],
+    [ "newMaxOrEntry", "d0/da4/a11186.html#adfda967d36154b039495f0b289a5c9d1", null ],
+    [ "requiredSpecialization", "d0/da4/a11186.html#a0ba0ba6f012a10b717ca4e6c2f46cf26", null ]
 ];

@@ -1,8 +1,10 @@
 var a14862 =
 [
-    [ "Load", "d0/d77/a14862.html#a59e8723d8b73f45075db47e1e09e15fb", null ],
-    [ "PeriodicTick", "d0/d77/a14862.html#ae4761ac3bce02903a7266511d80503f9", null ],
-    [ "PrepareAuraScript", "d0/d77/a14862.html#a7bacc1ebd4b98e5e43b74e13471b2063", null ],
-    [ "Register", "d0/d77/a14862.html#acc4db638e0d858085dc3fb2d6b45f7ec", null ],
-    [ "_ticks", "d0/d77/a14862.html#ab858e9f6505fa32cc7325087d29fee8b", null ]
+    [ "npc_hyjal_gargoyle", "d0/d77/a14862.html#a35b17d008d96116b2e3cf09cceacd6fb", null ],
+    [ "AttackStart", "d0/d77/a14862.html#a0301be4d3e34f1248708fdcd3f0d5ea8", null ],
+    [ "DoAction", "d0/d77/a14862.html#ae213c71426f438dd2b27699d7de23664", null ],
+    [ "JustEngagedWith", "d0/d77/a14862.html#ae10a90c817a7df8d0d6ed18c9cdf6387", null ],
+    [ "PathEndReached", "d0/d77/a14862.html#a9ae52d3f7176045ef28713f3e1a16153", null ],
+    [ "Reset", "d0/d77/a14862.html#af314bb183bde44680eeb136d2a08c142", null ],
+    [ "UpdateAI", "d0/d77/a14862.html#ac1ca0648b08430a8bcbf99980222b684", null ]
 ];

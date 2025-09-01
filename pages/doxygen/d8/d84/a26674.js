@@ -1,5 +1,9 @@
 var a26674 =
 [
-    [ "EarthenPowerTargetSelector", "d8/d84/a26674.html#a61290afcc621c73682160a4e6a6e0f5d", null ],
-    [ "operator()", "d8/d84/a26674.html#a9f3d7e7bdb3a3affa72da57903f28940", null ]
+    [ "HandleKnockBack", "d8/d84/a26674.html#acaa8f445874270f34ea5b42a506671db", null ],
+    [ "HandleScript", "d8/d84/a26674.html#a29e47298601cb55c5442a3fa59bb3646", null ],
+    [ "Load", "d8/d84/a26674.html#a45700aba665b601b2c860af5a869d1af", null ],
+    [ "PrepareSpellScript", "d8/d84/a26674.html#aad1c175a2611152278d847ac59f93090", null ],
+    [ "Register", "d8/d84/a26674.html#ad790d435f422fabd128e601fb2dff103", null ],
+    [ "Validate", "d8/d84/a26674.html#a889a129ddc3ea6fcd7f440fc7c163e08", null ]
 ];

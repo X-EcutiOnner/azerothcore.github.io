@@ -1,6 +1,8 @@
 var a23566 =
 [
-    [ "CheckProc", "d0/d2a/a23566.html#add583b34b9052fbb37c43c558f0f8b96", null ],
-    [ "PrepareAuraScript", "d0/d2a/a23566.html#a3d7ed0fa175daffcf11fc3ee04b189bf", null ],
-    [ "Register", "d0/d2a/a23566.html#ab91f611f59e83d4f1b7c71b1595db667", null ]
+    [ "boss_hungarfen", "d0/d2a/a23566.html#a009b8d34731d2310a53195024b434935", null ],
+    [ "JustEngagedWith", "d0/d2a/a23566.html#a3612bb373ecdba4245587fd94257ba62", null ],
+    [ "Reset", "d0/d2a/a23566.html#a4b310eff8af9a33c50ae8f2035ba76ad", null ],
+    [ "UpdateAI", "d0/d2a/a23566.html#a1765bd54c04a3479e837b3d0e241300e", null ],
+    [ "_scheduler", "d0/d2a/a23566.html#a702185681abb6cfc4add7078ff5bbb52", null ]
 ];

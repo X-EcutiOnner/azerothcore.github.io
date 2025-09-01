@@ -1,7 +1,6 @@
 var a16158 =
 [
-    [ "TwilightCutterSelector", "df/d0b/a16158.html#accea6e932c44d083fbb4dc41c5102b3d", null ],
-    [ "operator()", "df/d0b/a16158.html#a6374425df156bdf202d53a2c73ef784c", null ],
-    [ "_caster", "df/d0b/a16158.html#a784c95ef6472e711f4200f194222d179", null ],
-    [ "_cutterCaster", "df/d0b/a16158.html#a7f713777a36a8d127c2865e4610b1288", null ]
+    [ "npc_twilight_summonAI", "d0/d1f/a16162.html", "d0/d1f/a16162" ],
+    [ "npc_twilight_summon", "df/d0b/a16158.html#a2406ee3b02d9f1b1ebef54623d9a3c11", null ],
+    [ "GetAI", "df/d0b/a16158.html#a98bf5ce96c25bc252acd46163644bf33", null ]
 ];

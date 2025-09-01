@@ -1,6 +1,6 @@
 var a26782 =
 [
-    [ "HandleBanish", "d3/d24/a26782.html#ab8dd3ab2fd7b9aff3556e6284c515474", null ],
-    [ "PrepareSpellScript", "d3/d24/a26782.html#a56118e3ed7525cdf575531a4c2f2d93f", null ],
-    [ "Register", "d3/d24/a26782.html#ad6c066c9d6a64a5d89d3c347600559a9", null ]
+    [ "CheckCast", "d3/d24/a26782.html#a97f479cccecc6f37c75b47122b47e333", null ],
+    [ "PrepareSpellScript", "d3/d24/a26782.html#a7033ad7dbdab5eec532ea6f860f97427", null ],
+    [ "Register", "d3/d24/a26782.html#a4c8f84e1a2cc89064ec5963321fecce7", null ]
 ];

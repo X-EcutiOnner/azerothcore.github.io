@@ -1,11 +1,11 @@
 var a15966 =
 [
-    [ "boss_sartharion_tenebronAI", "da/d74/a15966.html#a9996fce9320390ead967ad82bcef9554", null ],
-    [ "ClearInstance", "da/d74/a15966.html#af9e0459fff845bf4f6e53d06e4a9447f", null ],
-    [ "ExecuteEvent", "da/d74/a15966.html#a6a7f8255aa1dcbb979354467d0e6949d", null ],
-    [ "HandleExtraEvent", "da/d74/a15966.html#ad78a939f0584b775e29341ff08f0eee1", null ],
-    [ "JustDied", "da/d74/a15966.html#ac3e03263a174dd147854fa6d714ec003", null ],
-    [ "JustSummoned", "da/d74/a15966.html#a50d000b322e3d3a61cc02dea96c2979d", null ],
-    [ "Reset", "da/d74/a15966.html#a1aa8277ddc91989ed7480d4221a6e534", null ],
-    [ "summons2", "da/d74/a15966.html#a5060b01175ece5ad782e96bdf3d2c82d", null ]
+    [ "boss_amanitar", "da/d74/a15966.html#a660bdf8dd64bbffda4ee1ec603c41402", null ],
+    [ "EnterEvadeMode", "da/d74/a15966.html#a6b3cf0ea01ce34b4281116ca8387732d", null ],
+    [ "JustDied", "da/d74/a15966.html#a138049712649ff414950d9d0ca05d712", null ],
+    [ "JustEngagedWith", "da/d74/a15966.html#ae2bace7f649626c68560d4a6d5aa4ea3", null ],
+    [ "Reset", "da/d74/a15966.html#aab3faca4526947a72d8ca049a605f5be", null ],
+    [ "SummonedCreatureDespawn", "da/d74/a15966.html#a4b9dccf5b2fe46ac9f6d5eab54ba5d43", null ],
+    [ "SummonMushroom", "da/d74/a15966.html#afc5b4942931f6020b2894b901650fc35", null ],
+    [ "_mushroomsDeque", "da/d74/a15966.html#a4ba2415d6134cdc435114cd3af235b6d", null ]
 ];

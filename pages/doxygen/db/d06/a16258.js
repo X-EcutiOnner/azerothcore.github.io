@@ -1,6 +1,13 @@
 var a16258 =
 [
-    [ "boss_black_knightAI", "d1/d6e/a16262.html", "d1/d6e/a16262" ],
-    [ "boss_black_knight", "db/d06/a16258.html#af55a307f282a68bc83e45c6de647ebf4", null ],
-    [ "GetAI", "db/d06/a16258.html#a3f7ac72f69cebdab0a13c61c0b9b2ed2", null ]
+    [ "boss_twilight_halionAI", "db/d06/a16258.html#aab05bab963d603c3cb70edfd62a84b49", null ],
+    [ "DamageTaken", "db/d06/a16258.html#a0c62ac244e57b1b90101e1ba89a60d27", null ],
+    [ "EnterEvadeMode", "db/d06/a16258.html#af7076251fc1fad1dc259d747934910e2", null ],
+    [ "JustDied", "db/d06/a16258.html#a2874474a1dbc9b30a4ff77d2d7bfd8fd", null ],
+    [ "JustEngagedWith", "db/d06/a16258.html#a136b51ede30d63d87228d35e8b6f2c7a", null ],
+    [ "KilledUnit", "db/d06/a16258.html#ada770d51f63c841c500ffc3197a7a89f", null ],
+    [ "Reset", "db/d06/a16258.html#a9c945841926d5b08f37c6a720dd25a14", null ],
+    [ "UpdateAI", "db/d06/a16258.html#a6ab1d215ed077883781b0c0188282c5e", null ],
+    [ "_events", "db/d06/a16258.html#a22a8a7696fb23b9eab01d42cd45644de", null ],
+    [ "_instance", "db/d06/a16258.html#a033f10bba4ba89aa0111d4cb520540e6", null ]
 ];

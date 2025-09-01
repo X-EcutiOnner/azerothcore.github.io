@@ -1,5 +1,6 @@
 var a13202 =
 [
-    [ "at_malfurion_stormrage", "d1/d73/a13202.html#ac5da3d1a7c2ccaffee68cfaee04fb63c", null ],
-    [ "OnTrigger", "d1/d73/a13202.html#a0aa7818bd09b8a456d1ebbaa7d5f5c1d", null ]
+    [ "npc_valkyr_battle_maidenAI", "d0/db6/a13206.html", "d0/db6/a13206" ],
+    [ "npc_valkyr_battle_maiden", "d1/d73/a13202.html#a4316dd483b262e637ea39ba9e972744b", null ],
+    [ "GetAI", "d1/d73/a13202.html#ab067ea6f5f92039d471708039089e79c", null ]
 ];

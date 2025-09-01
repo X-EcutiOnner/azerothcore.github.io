@@ -1,6 +1,7 @@
 var a15838 =
 [
-    [ "ModDestHeight", "d3/da7/a15838.html#a8bda9327c4244af41c513528ad5c818c", null ],
-    [ "PrepareSpellScript", "d3/da7/a15838.html#aba5a03c94fa5d87c46a91369875c0ab2", null ],
-    [ "Register", "d3/da7/a15838.html#a62b0ce71caeff96705b15aa240ddd09f", null ]
+    [ "npc_lakota_windsongAI", "dc/d70/a15842.html", "dc/d70/a15842" ],
+    [ "npc_lakota_windsong", "d3/da7/a15838.html#a08a585ac36189ec23354c7acb26d223d", null ],
+    [ "GetAI", "d3/da7/a15838.html#af2f27ed2c4bd7298a9478495d2d7ca65", null ],
+    [ "OnQuestAccept", "d3/da7/a15838.html#a47ccf0b8bef84724f7aa7e2ad564dfe6", null ]
 ];

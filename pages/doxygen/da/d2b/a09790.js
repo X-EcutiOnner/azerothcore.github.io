@@ -1,7 +1,8 @@
 var a09790 =
 [
-    [ "resetNotify", "da/d2b/a09790.html#a1472e21d9af04662f3574bc2c7d3890c", null ],
-    [ "Visit", "da/d2b/a09790.html#adfcdcf148b002c641638ddc70d577b14", null ],
-    [ "Visit", "da/d2b/a09790.html#adf95512d4304962a5740b38c32ea28a7", null ],
-    [ "Visit", "da/d2b/a09790.html#a725fc2c2504eecaa15841c27b367cd55", null ]
+    [ "EllipseBoundary", "da/d2b/a09790.html#aeb8c822a8c4c745de0c848721a624545", null ],
+    [ "IsWithinBoundaryArea", "da/d2b/a09790.html#a203ccf7ca23f1d66f834bdadb8b18b31", null ],
+    [ "_center", "da/d2b/a09790.html#aa84bae8bced77e38fec652e473cf39c7", null ],
+    [ "_radiusYSq", "da/d2b/a09790.html#ae933c6b1e62967f98c95cfbd4822b818", null ],
+    [ "_scaleXSq", "da/d2b/a09790.html#ad781cadd6c09e482d3a93ad71440a4c2", null ]
 ];

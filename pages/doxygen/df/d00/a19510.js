@@ -1,6 +1,7 @@
 var a19510 =
 [
-    [ "npc_spark_of_ionarAI", "d1/d80/a19514.html", "d1/d80/a19514" ],
-    [ "npc_spark_of_ionar", "df/d00/a19510.html#a63578a0d77331849b7a48272870af04d", null ],
-    [ "GetAI", "df/d00/a19510.html#aa1e524327b76ddc11a32e7a094e39dd1", null ]
+    [ "HandlePull", "df/d00/a19510.html#a05e6155abeb2720923ddf0d8cae54feb", null ],
+    [ "PrepareSpellScript", "df/d00/a19510.html#ac192245513e162a2842e47f5b0d64338", null ],
+    [ "Register", "df/d00/a19510.html#af6c7a881c2fcf07461006fef63074e5e", null ],
+    [ "SelectTarget", "df/d00/a19510.html#aabee5b6b8f3ba7e2cf91bcb05ce7929d", null ]
 ];

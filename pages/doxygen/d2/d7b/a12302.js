@@ -1,7 +1,5 @@
 var a12302 =
 [
-    [ "HandleDummy", "d2/d7b/a12302.html#a7fca477ef5c86d543cd59571ad8dc7de", null ],
-    [ "PrepareSpellScript", "d2/d7b/a12302.html#a6ec124990f202af0c6063c285bf04d88", null ],
-    [ "Register", "d2/d7b/a12302.html#a5adf9f0bbe5b72c4c22f569086582f0f", null ],
-    [ "Validate", "d2/d7b/a12302.html#ae35efa08f507aac5b72166a216d01870", null ]
+    [ "go_father_flame", "d2/d7b/a12302.html#aa992bd7029a56faca4b92637688fe845", null ],
+    [ "OnLootStateChanged", "d2/d7b/a12302.html#a84c7055e791a3dac66b75d327c7662c3", null ]
 ];

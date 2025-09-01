@@ -1,6 +1,12 @@
 var a04085 =
 [
-    [ "fireworkShowGameobjectSilvermoon", "d0/d0f/a04085.html#a6e36b6efb126a2fe4d53b641a9084409", null ],
-    [ "fireworkShowScheduleSilvermoon", "d0/d0f/a04085.html#af7d182f04e0fa03858c410b014e3f161", null ],
-    [ "fireworkShowSilvermoon", "d0/d0f/a04085.html#accc2d205eed4478e8e14ed4d88aeeb02", null ]
+    [ "WorldObjectScript", "d7/d21/a10430.html", "d7/d21/a10430" ],
+    [ "WorldObjectHook", "d0/d0f/a04085.html#ab8a14556853bd2637a19973d68ba6d1c", [
+      [ "WORLDOBJECTHOOK_ON_WORLD_OBJECT_DESTROY", "d0/d0f/a04085.html#ab8a14556853bd2637a19973d68ba6d1ca19911e8e8d81b83808647214673201ce", null ],
+      [ "WORLDOBJECTHOOK_ON_WORLD_OBJECT_CREATE", "d0/d0f/a04085.html#ab8a14556853bd2637a19973d68ba6d1caa4f7a14c3e5de3e6ace4c9a4bacc656c", null ],
+      [ "WORLDOBJECTHOOK_ON_WORLD_OBJECT_SET_MAP", "d0/d0f/a04085.html#ab8a14556853bd2637a19973d68ba6d1ca06f900f1b11de87d54d283b4433d5100", null ],
+      [ "WORLDOBJECTHOOK_ON_WORLD_OBJECT_RESET_MAP", "d0/d0f/a04085.html#ab8a14556853bd2637a19973d68ba6d1cac1f7c2d5eb2a8755ef8e628c8c769241", null ],
+      [ "WORLDOBJECTHOOK_ON_WORLD_OBJECT_UPDATE", "d0/d0f/a04085.html#ab8a14556853bd2637a19973d68ba6d1ca7fcc241c6d7db7844d86f1d88fb06144", null ],
+      [ "WORLDOBJECTHOOK_END", "d0/d0f/a04085.html#ab8a14556853bd2637a19973d68ba6d1ca4efa80e98b34555980ec0b06142a4c59", null ]
+    ] ]
 ];

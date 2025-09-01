@@ -1,7 +1,6 @@
 var a18566 =
 [
-    [ "OnApply", "d2/daa/a18566.html#ac35f5d98980f54470a75a72b3578681f", null ],
-    [ "OnRemove", "d2/daa/a18566.html#a9844b3d82680bfc9756b141fcf29e1f9", null ],
-    [ "PrepareAuraScript", "d2/daa/a18566.html#a83c90d16fa151026a1e02927e31922ee", null ],
-    [ "Register", "d2/daa/a18566.html#a255e44ac6db7fd779d98fc3660ee91c6", null ]
+    [ "npc_icc_lk_checktargetAI", "dc/de7/a18570.html", "dc/de7/a18570" ],
+    [ "npc_icc_lk_checktarget", "d2/daa/a18566.html#a3a2cc943e731e472694dcb13417090da", null ],
+    [ "GetAI", "d2/daa/a18566.html#a2cd9a5c7fec791ba8786cf1bb5b7c8bd", null ]
 ];

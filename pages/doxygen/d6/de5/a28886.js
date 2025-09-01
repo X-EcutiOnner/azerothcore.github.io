@@ -1,5 +1,6 @@
 var a28886 =
 [
-    [ "AreaTrigger_at_voltarus_middle", "d6/de5/a28886.html#a45ca444350fe4cfde02ab33da4ce8466", null ],
-    [ "OnTrigger", "d6/de5/a28886.html#a296b300feb6cf999e9e2c2625a911e9b", null ]
+    [ "id", "d6/de5/a28886.html#a5acc1b246a76073e1c97513251a4143d", null ],
+    [ "id", "d6/de5/a28886.html#aaf844f570afdf7439ae7fbe0bbdc39e7", null ],
+    [ "name", "d6/de5/a28886.html#ae5d1244981224aed1b7477caedd70175", null ]
 ];

@@ -1,5 +1,5 @@
 var a09654 =
 [
-    [ "MinionInfo", "d0/dbb/a09654.html#a537dd49ffb504aeab8b2b1734d5f44d7", null ],
-    [ "bossInfo", "d0/dbb/a09654.html#a04750e14ecb53ce6e3fac35844a713cd", null ]
+    [ "bossId", "d0/dbb/a09654.html#af9fc7d02d16d4fb3547273428553cf05", null ],
+    [ "boundary", "d0/dbb/a09654.html#a7b474c6b9225102ba08864256d07d9e6", null ]
 ];

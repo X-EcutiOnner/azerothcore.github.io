@@ -1,8 +1,5 @@
 var a28282 =
 [
-    [ "Id", "d4/d18/a28282.html#a6943bf760d15b3f8af4109d131652d72", null ],
-    [ "MapId", "d4/d18/a28282.html#ab0cccd760636a3b42af693d6c483bed9", null ],
-    [ "X", "d4/d18/a28282.html#a91183890254546efeb3162173cc60dad", null ],
-    [ "Y", "d4/d18/a28282.html#a19ab4d026b45d74f006479641afbc4d3", null ],
-    [ "Z", "d4/d18/a28282.html#aaa23c59f20fc96aec148b82516f30036", null ]
+    [ "cinematicCamera", "d4/d18/a28282.html#a87e5f6de255dc0c75423eace2768a1dc", null ],
+    [ "Id", "d4/d18/a28282.html#a9c3dc0e60728c1c76594385d6860f265", null ]
 ];

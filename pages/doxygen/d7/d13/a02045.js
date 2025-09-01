@@ -1,21 +1,10 @@
 var a02045 =
 [
-    [ "CleaningFlags", "d7/d13/a02045.html#ad8ba5c50a4cd2d5193e35ccc83798c67", [
-      [ "CLEANING_FLAG_ACHIEVEMENT_PROGRESS", "d7/d13/a02045.html#ad8ba5c50a4cd2d5193e35ccc83798c67afdcd00f9b75d683b143cbbe0ac22d748", null ],
-      [ "CLEANING_FLAG_SKILLS", "d7/d13/a02045.html#ad8ba5c50a4cd2d5193e35ccc83798c67ac23b2648d4cf0fe8d9ff4cd96722a714", null ],
-      [ "CLEANING_FLAG_SPELLS", "d7/d13/a02045.html#ad8ba5c50a4cd2d5193e35ccc83798c67a39fa10b14e68e92b74ab6697d0e1d564", null ],
-      [ "CLEANING_FLAG_TALENTS", "d7/d13/a02045.html#ad8ba5c50a4cd2d5193e35ccc83798c67a06a3fa1596c0c32ec619b9b9cb1d1550", null ],
-      [ "CLEANING_FLAG_QUESTSTATUS", "d7/d13/a02045.html#ad8ba5c50a4cd2d5193e35ccc83798c67ae0367424104049d29ca9dcf3d5b7273c", null ]
-    ] ],
-    [ "AchievementProgressCheck", "d7/d13/a02045.html#afe5cf638b3ba626c9dc18258d4c528fa", null ],
-    [ "CheckUnique", "d7/d13/a02045.html#ab98182e5f92f72090600314cc41f0d39", null ],
-    [ "CleanCharacterAchievementProgress", "d7/d13/a02045.html#ae5939466cf9b4fbb63eb136baf62767f", null ],
-    [ "CleanCharacterQuestStatus", "d7/d13/a02045.html#a9f512823f852120bf4c3ec78eb4bbeaa", null ],
-    [ "CleanCharacterSkills", "d7/d13/a02045.html#ae8c5d4dc123b8a900254bcbc82c1ffbe", null ],
-    [ "CleanCharacterSpell", "d7/d13/a02045.html#aca5826d283031348e5d6ae6eb75ad605", null ],
-    [ "CleanCharacterTalent", "d7/d13/a02045.html#a344f61fb209b507b775a0bbfb1315fac", null ],
-    [ "CleanDatabase", "d7/d13/a02045.html#a357c8a07f912c6efb55a13cc9bc089b9", null ],
-    [ "SkillCheck", "d7/d13/a02045.html#a0f72cf24646d1ece0eb793890840992d", null ],
-    [ "SpellCheck", "d7/d13/a02045.html#a02688f57778d28a7bcc4ca6cee2074ad", null ],
-    [ "TalentCheck", "d7/d13/a02045.html#aac707369555aa95807c11b1578ae80d2", null ]
+    [ "AccountFlagText", "de/db1/a11834.html", "de/db1/a11834" ],
+    [ "misc_commandscript", "d5/d62/a11838.html", "d5/d62/a11838" ],
+    [ "AddSC_misc_commandscript", "d7/d13/a02045.html#ac722d20c86b9502b7c4c8ae711cc3917", null ],
+    [ "GetLocalizeCreatureName", "d7/d13/a02045.html#aaedbdfd3cae227b11684151f41e3b977", null ],
+    [ "accountFlagText", "d7/d13/a02045.html#a704344ab0c20d3674c76d1dcf177ec9a", null ],
+    [ "SPELL_FREEZE", "d7/d13/a02045.html#a181bdc61e4eb1d21db975ca0227cb086", null ],
+    [ "SPELL_STUCK", "d7/d13/a02045.html#a1706df7feb0ef4f693c388033ace5fb7", null ]
 ];

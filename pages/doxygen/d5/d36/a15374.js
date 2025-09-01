@@ -1,10 +1,7 @@
 var a15374 =
 [
-    [ "npc_murkdeepAI", "d5/d36/a15374.html#abe78235ecb94e4735a6f8eaad7fe6adc", null ],
-    [ "JustEngagedWith", "d5/d36/a15374.html#ad33de7cb0caffcd255db38204ecfbb1c", null ],
-    [ "Reset", "d5/d36/a15374.html#aa89316a0fe4f99630a4a129aed305e24", null ],
-    [ "UpdateAI", "d5/d36/a15374.html#aeca85a1324791d18ac825401fb8a31e8", null ],
-    [ "events", "d5/d36/a15374.html#ae3d344829aeba22ef0c5947863720390", null ],
-    [ "phase", "d5/d36/a15374.html#a74a3a16cb3f2993aea9c5d6736a6914e", null ],
-    [ "spawnTimer", "d5/d36/a15374.html#a6b139fb5cc0776103934f14be15c34d1", null ]
+    [ "boss_glob_of_viscidus", "d5/d36/a15374.html#a1ba72393766110382dc4ce4122dfd1ee", null ],
+    [ "InitializeAI", "d5/d36/a15374.html#a0247055fc4f3a60c880ffb78e96edcb9", null ],
+    [ "MovementInform", "d5/d36/a15374.html#abe0cd95930fe52fdb5a40c704d092b90", null ],
+    [ "UpdateAI", "d5/d36/a15374.html#a2e8e38ccdf4ab5e32bd750d73daf1605", null ]
 ];

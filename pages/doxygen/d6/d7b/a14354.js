@@ -1,6 +1,6 @@
 var a14354 =
 [
-    [ "HandleDummy", "d6/d7b/a14354.html#a7e6ecd28a6b1f161619e179bc386388e", null ],
-    [ "PrepareSpellScript", "d6/d7b/a14354.html#a87a787c6ab3804847c90266f570381c6", null ],
-    [ "Register", "d6/d7b/a14354.html#ad5c7ab8f3bb74882eed42c6e0868ab70", null ]
+    [ "HandleEffectRemove", "d6/d7b/a14354.html#a8d5d43ae12fb6d65029008eadd56973a", null ],
+    [ "PrepareAuraScript", "d6/d7b/a14354.html#abe527a7a4fda32c833f4762e82e2bd3d", null ],
+    [ "Register", "d6/d7b/a14354.html#aa436788f638fedacb217ca508da5f426", null ]
 ];

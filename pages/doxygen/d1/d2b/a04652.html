@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/common/Collision/RegularGrid.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/database/Database/PreparedStatement.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,71 +106,58 @@ $(document).ready(function(){initNavTree('d1/d2b/a04652.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#define-members">Macros</a>  </div>
-  <div class="headertitle"><div class="title">RegularGrid.h File Reference</div></div>
+<a href="#namespaces">Namespaces</a> &#124;
+<a href="#typedef-members">Typedefs</a>  </div>
+  <div class="headertitle"><div class="title">PreparedStatement.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &lt;G3D/PositionTrait.h&gt;</code><br />
-<code>#include &lt;G3D/Ray.h&gt;</code><br />
-<code>#include &lt;G3D/Table.h&gt;</code><br />
-<code>#include &quot;<a class="el" href="../../">Errors.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">Define.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Duration.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">SQLOperation.h</a>&quot;</code><br />
+<code>#include &lt;future&gt;</code><br />
+<code>#include &lt;tuple&gt;</code><br />
+<code>#include &lt;variant&gt;</code><br />
+<code>#include &lt;vector&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d18/a05108.html">NodeArray&lt; Node &gt;</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d81/a05830.html">PreparedStatementData</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dcd/a05112.html">NodeCreator&lt; Node &gt;</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/dcd/a05834.html">PreparedStatementBase</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dbc/a05116.html">RegularGrid2D&lt; T, Node, NodeCreatorFunc, PositionFunc &gt;</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dc4/a05702.html">PreparedStatement&lt; T &gt;</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d7d/a05120.html">RegularGrid2D&lt; T, Node, NodeCreatorFunc, PositionFunc &gt;::Cell</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d9e/a05838.html">PreparedStatementTask</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
-Macros</h2></td></tr>
-<tr class="memitem:ac836977c6cb1a34ebc070436978fb2bb"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d2b/a04652.html#ac836977c6cb1a34ebc070436978fb2bb">HGRID_MAP_SIZE</a>&#160;&#160;&#160;(533.33333f * 64.f)</td></tr>
-<tr class="separator:ac836977c6cb1a34ebc070436978fb2bb"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7a4127f14f16563da90eb3c836bc404f"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d2b/a04652.html#a7a4127f14f16563da90eb3c836bc404f">CELL_SIZE</a>&#160;&#160;&#160;float(<a class="el" href="../../d1/d2b/a04652.html#ac836977c6cb1a34ebc070436978fb2bb">HGRID_MAP_SIZE</a>/(float)CELL_NUMBER)</td></tr>
-<tr class="separator:a7a4127f14f16563da90eb3c836bc404f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
+Namespaces</h2></td></tr>
+<tr class="memitem:d3/d7d/a04797"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d7d/a04797.html">Acore</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:d2/d68/a04825"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d68/a04825.html">Acore::Types</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="typedef-members" name="typedef-members"></a>
+Typedefs</h2></td></tr>
+<tr class="memitem:a6d4fe40146df0d52c6917d8cc920ac84"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
+<tr class="memitem:a6d4fe40146df0d52c6917d8cc920ac84"><td class="memTemplItemLeft" align="right" valign="top">using&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d2/d68/a04825.html#a6d4fe40146df0d52c6917d8cc920ac84">Acore::Types::is_default</a> = std::enable_if_t&lt; std::is_arithmetic_v&lt; T &gt;||std::is_same_v&lt; std::vector&lt; <a class="el" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> &gt;, T &gt; &gt;</td></tr>
+<tr class="separator:a6d4fe40146df0d52c6917d8cc920ac84"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae544e1b7f5a34959b1b48592f67dd4e7"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
+<tr class="memitem:ae544e1b7f5a34959b1b48592f67dd4e7"><td class="memTemplItemLeft" align="right" valign="top">using&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d2/d68/a04825.html#ae544e1b7f5a34959b1b48592f67dd4e7">Acore::Types::is_enum_v</a> = std::enable_if_t&lt; std::is_enum_v&lt; T &gt; &gt;</td></tr>
+<tr class="separator:ae544e1b7f5a34959b1b48592f67dd4e7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a67eb68c20f5616b2ea2a16a87784360a"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
+<tr class="memitem:a67eb68c20f5616b2ea2a16a87784360a"><td class="memTemplItemLeft" align="right" valign="top">using&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d2/d68/a04825.html#a67eb68c20f5616b2ea2a16a87784360a">Acore::Types::is_non_string_view_v</a> = std::enable_if_t&lt;!std::is_base_of_v&lt; std::string_view, T &gt; &gt;</td></tr>
+<tr class="separator:a67eb68c20f5616b2ea2a16a87784360a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Macro Definition Documentation</h2>
-<a id="a7a4127f14f16563da90eb3c836bc404f" name="a7a4127f14f16563da90eb3c836bc404f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7a4127f14f16563da90eb3c836bc404f">&#9670;&#160;</a></span>CELL_SIZE</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define CELL_SIZE&#160;&#160;&#160;float(<a class="el" href="../../d1/d2b/a04652.html#ac836977c6cb1a34ebc070436978fb2bb">HGRID_MAP_SIZE</a>/(float)CELL_NUMBER)</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="ac836977c6cb1a34ebc070436978fb2bb" name="ac836977c6cb1a34ebc070436978fb2bb"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac836977c6cb1a34ebc070436978fb2bb">&#9670;&#160;</a></span>HGRID_MAP_SIZE</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define HGRID_MAP_SIZE&#160;&#160;&#160;(533.33333f * 64.f)</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1070012e9e40376f8468ff0aa5b77c71.html">common</a></li><li class="navelem"><a class="el" href="../../dir_34825b659a55315b272dfcc55a7a0f6a.html">Collision</a></li><li class="navelem"><a class="el" href="../../d1/d2b/a04652.html">RegularGrid.h</a></li>
-    <li class="footer">Generated on Mon Aug 18 2025 20:47:04 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_3906e801b468713a6f5b1f193c7ea10d.html">database</a></li><li class="navelem"><a class="el" href="../../dir_4135abd5956581eb408665f16b5c495d.html">Database</a></li><li class="navelem"><a class="el" href="../../d1/d2b/a04652.html">PreparedStatement.h</a></li>
+    <li class="footer">Generated on Mon Sep 1 2025 20:42:34 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

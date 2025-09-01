@@ -1,6 +1,9 @@
 var a17850 =
 [
-    [ "npc_volatile_oozeAI", "d3/dfd/a17854.html", "d3/dfd/a17854" ],
-    [ "npc_volatile_ooze", "d4/d7d/a17850.html#a22847e44812a0b13b92cfcca3a70204e", null ],
-    [ "GetAI", "d4/d7d/a17850.html#a66b4918c14d90d5550ddc8dbe90c2e01", null ]
+    [ "CalculatePower", "d4/d7d/a17850.html#a66acc23548f88c31e9fe45db76af2bcc", null ],
+    [ "Load", "d4/d7d/a17850.html#a820032e169929fd9969ecf1ee2c7f1be", null ],
+    [ "PrepareSpellScript", "d4/d7d/a17850.html#a49489a8e4e39735efa560f53236dfc2c", null ],
+    [ "PreventPowerGainOnHit", "d4/d7d/a17850.html#a5eebe6f82a6d7306d6e232b755531939", null ],
+    [ "Register", "d4/d7d/a17850.html#a67b59c096848adaad5566cbc2140da59", null ],
+    [ "Validate", "d4/d7d/a17850.html#a355500a6f3bfed084030738041d0e3b9", null ]
 ];

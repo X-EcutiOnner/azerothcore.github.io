@@ -1,12 +1,6 @@
 var a14710 =
 [
-    [ "boss_epochAI", "d4/de3/a14710.html#a2986db39b7db92b1fa9d64cef5f8c08b", null ],
-    [ "JustDied", "d4/de3/a14710.html#a780aa5bc86c80aaeeffad441b2873121", null ],
-    [ "JustEngagedWith", "d4/de3/a14710.html#ae742dceac5979faebb58a133e9bd91f0", null ],
-    [ "KilledUnit", "d4/de3/a14710.html#af41946feab7b86d812f706bd7abbf1bd", null ],
-    [ "Reset", "d4/de3/a14710.html#a98cf5d8aded78694117af64ccdb6cd83", null ],
-    [ "SpellHitTarget", "d4/de3/a14710.html#ab87dfcf635a65b02be29186d2990fef3", null ],
-    [ "UpdateAI", "d4/de3/a14710.html#a651b11c4cc5f92881b4dd5b7f22c9d85", null ],
-    [ "events", "d4/de3/a14710.html#af0c1477b3d9fb48cfcf55f32e21591f4", null ],
-    [ "warps", "d4/de3/a14710.html#a478113af1ce565c729604c6039f55551", null ]
+    [ "OnAuraRemove", "d4/de3/a14710.html#ad16e8b64999771154360afad71454c07", null ],
+    [ "PrepareAuraScript", "d4/de3/a14710.html#a70963be80861e10ecd093e40b77e7078", null ],
+    [ "Register", "d4/de3/a14710.html#a7381cbea873fb57485e4539aa478d236", null ]
 ];

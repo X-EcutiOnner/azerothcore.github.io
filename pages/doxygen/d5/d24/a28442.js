@@ -1,10 +1,9 @@
 var a28442 =
 [
-    [ "ID", "d5/d24/a28442.html#a090069d13cbbcc5762ecca600c506492", null ],
-    [ "map_id", "d5/d24/a28442.html#a685931e2a361f9e0fc81c004c7467d19", null ],
-    [ "MountCreatureID", "d5/d24/a28442.html#ab59ab7e8b302ac8858bfd67bc10d803f", null ],
-    [ "name", "d5/d24/a28442.html#ae00db3ea736c3a470f6f0690c178e758", null ],
-    [ "x", "d5/d24/a28442.html#a7cbd40848094fa367862d653b0f7170d", null ],
-    [ "y", "d5/d24/a28442.html#a9380befd45cab3104003b2487464bd71", null ],
-    [ "z", "d5/d24/a28442.html#a2e6ce98f7c96ba1469fca8ff3946404a", null ]
+    [ "itemId", "d5/d24/a28442.html#ae125712e5569c9699b4748b6a15fbc12", null ],
+    [ "items_to_triggerspell", "d5/d24/a28442.html#a8496a2f3fa3e230def04b996fc585760", null ],
+    [ "name", "d5/d24/a28442.html#a9b62f843833d524f200782d44151503d", null ],
+    [ "required_skill_id", "d5/d24/a28442.html#ab3058ac725fb8f105b9359d5a5147942", null ],
+    [ "required_skill_value", "d5/d24/a28442.html#a58d0997a73cf48061545edbc0201f544", null ],
+    [ "spells", "d5/d24/a28442.html#a8aac032992efe1bfbba0e49693562c7f", null ]
 ];

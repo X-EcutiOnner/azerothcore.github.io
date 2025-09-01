@@ -1,6 +1,7 @@
 var a26762 =
 [
-    [ "CheckCast", "d0/d7f/a26762.html#acdb69e605c4e3b5eb3e48f400957db28", null ],
-    [ "PrepareSpellScript", "d0/d7f/a26762.html#a1fb9a924ddba358d6d67943c5b2ffa24", null ],
-    [ "Register", "d0/d7f/a26762.html#a703b21a93ba41211ac6e6ee182eecb8b", null ]
+    [ "HandleEffectPeriodic", "d0/d7f/a26762.html#abb9ec1dd08954e80cf6dbcacbe44e2ba", null ],
+    [ "PrepareAuraScript", "d0/d7f/a26762.html#ae151331af09510cc91b63b65a30bdcbf", null ],
+    [ "Register", "d0/d7f/a26762.html#ac2e23fa8c9cfec9b9689512f3363a56e", null ],
+    [ "Validate", "d0/d7f/a26762.html#ad5cc7a5aa1164092f267071c82752bb5", null ]
 ];

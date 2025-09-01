@@ -1,7 +1,6 @@
 var a14242 =
 [
-    [ "go_direbrew_mole_machineAI", "d7/d5b/a14242.html#a4e667ad9e572e93c045ae01f63bea648", null ],
-    [ "Reset", "d7/d5b/a14242.html#a32dd801b5d898fd8634edcb6cae52bdf", null ],
-    [ "UpdateAI", "d7/d5b/a14242.html#a2eaa8a0ad0907e4aa497a7e1c3a31b29", null ],
-    [ "_scheduler", "d7/d5b/a14242.html#a5960ff83f21cf5964f422e3a7b297f22", null ]
+    [ "OnRemove", "d7/d5b/a14242.html#a2a745fd8afa0d3d18684a9b8b091eb7e", null ],
+    [ "PrepareAuraScript", "d7/d5b/a14242.html#a01eb4b37925b9c2fb8ce82d9808c270f", null ],
+    [ "Register", "d7/d5b/a14242.html#ad2ae9bfa13c625608af9042584a9bfb8", null ]
 ];

@@ -1,16 +1,7 @@
 var a13586 =
 [
-    [ "npc_rinjiAI", "df/dbc/a13586.html#ab613818b92530269f0802077eccc92d0", null ],
-    [ "DoSpawnAmbush", "df/dbc/a13586.html#af2535d7364641fadc98bca91ace9c906", null ],
-    [ "JustEngagedWith", "df/dbc/a13586.html#ae5ca00ee9baead3392a9239dfb68d377", null ],
-    [ "JustRespawned", "df/dbc/a13586.html#a471f2e8da91639d4e68ad64a11d7b950", null ],
-    [ "JustSummoned", "df/dbc/a13586.html#a09d65e7bd5a76552208eee920cfcb4f9", null ],
-    [ "Reset", "df/dbc/a13586.html#ada230a1b7b0f3c8b2b41c706856681b8", null ],
-    [ "sQuestAccept", "df/dbc/a13586.html#a15b9a0756ae6cebac690c8bb997e99d2", null ],
-    [ "UpdateEscortAI", "df/dbc/a13586.html#a60f05b58b115f3f2ea11206778893547", null ],
-    [ "WaypointReached", "df/dbc/a13586.html#a9463060a57b85113b71482c8a0974f60", null ],
-    [ "_IsByOutrunner", "df/dbc/a13586.html#adecc4eb9f90969621b52b97ff594558d", null ],
-    [ "postEventCount", "df/dbc/a13586.html#a601f142bd2a04ed303611044bac91035", null ],
-    [ "postEventTimer", "df/dbc/a13586.html#a5154e551143e81d431f706ad07b78ca0", null ],
-    [ "spawnId", "df/dbc/a13586.html#a3fc84d1e0f5243c6e8f292ddcac15ace", null ]
+    [ "npc_singularity", "df/dbc/a13586.html#a4ed61ec65ed94d8d5e42ae7ff9ecd41d", null ],
+    [ "FindAndFollowTarget", "df/dbc/a13586.html#a76c21129756dec05f6f2d88cebe948c5", null ],
+    [ "Reset", "df/dbc/a13586.html#ae81c2e5865beb00df8683fa0fb6e7872", null ],
+    [ "UpdateAI", "df/dbc/a13586.html#ad019d234ca9ee719612d59e5bb0b53ea", null ]
 ];

@@ -1,6 +1,11 @@
 var a19422 =
 [
-    [ "npc_oculus_drakeAI", "df/dd9/a19426.html", "df/dd9/a19426" ],
-    [ "npc_oculus_drake", "d8/deb/a19422.html#ad2897dd72e9337af53ef2f043cd07d55", null ],
-    [ "GetAI", "d8/deb/a19422.html#afd2f1678a7faef76a231e4c16bd015e5", null ]
+    [ "npc_nexus_lordAI", "d8/deb/a19422.html#a8d26337fdcd055027a20ea91faf7e01b", null ],
+    [ "AttackStart", "d8/deb/a19422.html#a2f56dcac815431c887b95e9c09aec361", null ],
+    [ "JustDied", "d8/deb/a19422.html#a828007757a618affad71b955681945cf", null ],
+    [ "JustEngagedWith", "d8/deb/a19422.html#acfcf227557b1e212eda385e22ccdb981", null ],
+    [ "UpdateAI", "d8/deb/a19422.html#ad7ddb98d2daaed386e713e423de4cac9", null ],
+    [ "events", "d8/deb/a19422.html#ad20a56e52b22306ca31406d8defa4aa5", null ],
+    [ "pInstance", "d8/deb/a19422.html#a81fae70688bcd8c733ea90b06900503d", null ],
+    [ "timer", "d8/deb/a19422.html#a8edb133f7ca01a4aa75345c572a505c7", null ]
 ];

@@ -1,6 +1,8 @@
 var a24026 =
 [
-    [ "npc_wounded_blood_elfAI", "df/d4b/a24030.html", "df/d4b/a24030" ],
-    [ "npc_wounded_blood_elf", "d4/d05/a24026.html#a40e79d1412f5f399869a4d2c6fbb4260", null ],
-    [ "GetAI", "d4/d05/a24026.html#a39d4bd877bdf6596c65e3cb834f124aa", null ]
+    [ "HandleScriptEffect", "d4/d05/a24026.html#a7cde39fc0844f19604c8026a853e8216", null ],
+    [ "Load", "d4/d05/a24026.html#a5d3eb86208c4aa9c6592349d28c5df79", null ],
+    [ "PrepareSpellScript", "d4/d05/a24026.html#a962de50d1fa35ca16b4753f55e5cbd47", null ],
+    [ "Register", "d4/d05/a24026.html#aee6bd90e8b39132d4b53b67c22d6c331", null ],
+    [ "_currentSpellId", "d4/d05/a24026.html#a0ad25535ba345fe9672150af67687305", null ]
 ];

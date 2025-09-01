@@ -1,14 +1,13 @@
 var a12870 =
 [
-    [ "npc_death_knight_initiateAI", "d6/dbb/a12870.html#aa03a128068072b85bf0926cdececaaf2", null ],
-    [ "DamageTaken", "d6/dbb/a12870.html#ac83f7d28886eaf5fb44c3c6ce44a7acd", null ],
-    [ "GetData", "d6/dbb/a12870.html#ac3216c0cf7284fd7a8d5ece153467b41", null ],
-    [ "Reset", "d6/dbb/a12870.html#ad152856d614c8f4c900f77749ac55dd9", null ],
-    [ "SpellHit", "d6/dbb/a12870.html#a308f2f29ec7f9277d102564ff6d39e32", null ],
-    [ "UpdateAI", "d6/dbb/a12870.html#a6e67cda0b83578818a5e3b34ed9517cf", null ],
-    [ "_duelGUID", "d6/dbb/a12870.html#a32dd4a91841f2e75c8bca109015fc56a", null ],
-    [ "_duelInProgress", "d6/dbb/a12870.html#a3fdcf062b22c08b1dd616dad591a1021", null ],
-    [ "events", "d6/dbb/a12870.html#aa1c6d513e04253d0b83522c9c1cc2ac8", null ],
-    [ "playerGUIDs", "d6/dbb/a12870.html#ac12adec2cb751e2e41008954bbe20248", null ],
-    [ "timer", "d6/dbb/a12870.html#ad22e8bc9e0d22a5ba164a60e438d98a7", null ]
+    [ "boss_roar", "d6/dbb/a12870.html#a93e1d81bcff8b31841ae65628759ee7e", null ],
+    [ "DoAction", "d6/dbb/a12870.html#a9a2778a803d6d41b256759b29452cc51", null ],
+    [ "EnterEvadeMode", "d6/dbb/a12870.html#a198044653632b93838c0f79c06cb7640", null ],
+    [ "JustDied", "d6/dbb/a12870.html#a3c79bea69740601ad89f0765f3af99f2", null ],
+    [ "JustEngagedWith", "d6/dbb/a12870.html#a1db42b2b1a19ac4a959a51ce17c8ae32", null ],
+    [ "JustReachedHome", "d6/dbb/a12870.html#a632929b026815a524bd79748e768e3fc", null ],
+    [ "KilledUnit", "d6/dbb/a12870.html#aaaa0d33697fe1abc0df5bf9ecb249ffc", null ],
+    [ "UpdateAI", "d6/dbb/a12870.html#a255d406f8bab62593a3eeda0e4e3d646", null ],
+    [ "_scheduler", "d6/dbb/a12870.html#a54b45b1fdacc2b3982e21580b9b4d26a", null ],
+    [ "instance", "d6/dbb/a12870.html#a67df04e89c877d565753ac077aa923c7", null ]
 ];

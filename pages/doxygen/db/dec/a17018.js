@@ -1,7 +1,8 @@
 var a17018 =
 [
-    [ "HandlePeriodicTick", "db/dec/a17018.html#a61417176afec531ca2bf6e80eb72ac6a", null ],
-    [ "PrepareAuraScript", "db/dec/a17018.html#ad5f954d5050bded2e6a5877cb9f81df5", null ],
-    [ "Register", "db/dec/a17018.html#a4653ccb0d93d056adf3b14056865787c", null ],
-    [ "Validate", "db/dec/a17018.html#a675b447cf1cf0e7d92c777ae31888a8c", null ]
+    [ "npc_hor_leaderAI", "df/d1d/a17022.html", "df/d1d/a17022" ],
+    [ "npc_hor_leader", "db/dec/a17018.html#a5c8d6cce242d144755fb14879f7f17d3", null ],
+    [ "GetAI", "db/dec/a17018.html#a55e7357aa6dff1efdff08541e88413e9", null ],
+    [ "OnGossipHello", "db/dec/a17018.html#afb46ea0b6926ad5d9b87b1d6a5e04591", null ],
+    [ "OnGossipSelect", "db/dec/a17018.html#ab5d01ae2803bab43b2c701d0cb1d4280", null ]
 ];

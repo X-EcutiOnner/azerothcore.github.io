@@ -1,6 +1,6 @@
 var a27774 =
 [
-    [ "X", "d1/d67/a27774.html#a55bda49b2eb919415afaf780ca1977de", null ],
-    [ "Y", "d1/d67/a27774.html#a0bf22799258050a9b12ddc14bb2b4b11", null ],
-    [ "Z", "d1/d67/a27774.html#a7f0ceece775146d825d19a3cd22e5da3", null ]
+    [ "npc_steam_tonkAI", "d9/de5/a27778.html", "d9/de5/a27778" ],
+    [ "npc_steam_tonk", "d1/d67/a27774.html#a19731e7f1bc6fe0220e8c28619ff7c50", null ],
+    [ "GetAI", "d1/d67/a27774.html#a38e51485a3610a204a45677fce15c943", null ]
 ];

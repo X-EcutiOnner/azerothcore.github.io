@@ -1,5 +1,6 @@
 var a20598 =
 [
-    [ "achievement_iron_dwarf_medium_rare", "d4/d6a/a20598.html#afb3716aab7693ba0493db24999e4b1ee", null ],
-    [ "OnCheck", "d4/d6a/a20598.html#aabef3a345057265ac70c6cc0c98d552d", null ]
+    [ "npc_ulduar_vx001AI", "dd/df5/a20602.html", "dd/df5/a20602" ],
+    [ "npc_ulduar_vx001", "d4/d6a/a20598.html#ae8393c02c94a94b0847e0c7837bc5469", null ],
+    [ "GetAI", "d4/d6a/a20598.html#acdab817141b851deb09861230323ee58", null ]
 ];

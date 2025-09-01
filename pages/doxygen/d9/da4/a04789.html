@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: Acore::Asio Namespace Reference</title>
+<title>AzerothCore: Bug List</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -103,122 +103,21 @@ $(document).ready(function(){initNavTree('d9/da4/a04789.html','../../'); initRes
 </div>
 </div>
 
-<div class="header">
-  <div class="summary">
-<a href="#namespaces">Namespaces</a> &#124;
-<a href="#nested-classes">Classes</a> &#124;
-<a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">Acore::Asio Namespace Reference</div></div>
+<div><div class="header">
+  <div class="headertitle"><div class="title">Bug List </div></div>
 </div><!--header-->
 <div class="contents">
-<table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
-Namespaces</h2></td></tr>
-<tr class="memitem:db/d92/a04791"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d92/a04791.html">SteadyTimer</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
-Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d62/a04888.html">IoContext</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d9e/a04892.html">Resolver</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d1f/a04896.html">Strand</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
-Functions</h2></td></tr>
-<tr class="memitem:ac437e3511a92ead72c7d3c1f6004daaf"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
-<tr class="memitem:ac437e3511a92ead72c7d3c1f6004daaf"><td class="memTemplItemLeft" align="right" valign="top">decltype(auto)&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d9/da4/a04789.html#ac437e3511a92ead72c7d3c1f6004daaf">post</a> (IoContextBaseNamespace::IoContextBase &amp;ioContext, T &amp;&amp;t)</td></tr>
-<tr class="separator:ac437e3511a92ead72c7d3c1f6004daaf"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a47f8fe35925492e3f01d723115279f2e"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
-<tr class="memitem:a47f8fe35925492e3f01d723115279f2e"><td class="memTemplItemLeft" align="right" valign="top">boost::asio::io_context &amp;&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d9/da4/a04789.html#a47f8fe35925492e3f01d723115279f2e">get_io_context</a> (T &amp;&amp;ioObject)</td></tr>
-<tr class="separator:a47f8fe35925492e3f01d723115279f2e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table>
-<h2 class="groupheader">Function Documentation</h2>
-<a id="a47f8fe35925492e3f01d723115279f2e" name="a47f8fe35925492e3f01d723115279f2e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a47f8fe35925492e3f01d723115279f2e">&#9670;&#160;</a></span>get_io_context()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;typename T &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">boost::asio::io_context &amp; Acore::Asio::get_io_context </td>
-          <td>(</td>
-          <td class="paramtype">T &amp;&amp;&#160;</td>
-          <td class="paramname"><em>ioObject</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   55</span>    {</div>
-<div class="line"><span class="lineno">   56</span>        <span class="keywordflow">return</span> <span class="keyword">static_cast&lt;</span>boost::asio::io_context&amp;<span class="keyword">&gt;</span>(ioObject.get_executor().context());</div>
-<div class="line"><span class="lineno">   57</span>    }</div>
-</div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00300">Metric::Unload()</a>.</p>
-
-</div>
-</div>
-<a id="ac437e3511a92ead72c7d3c1f6004daaf" name="ac437e3511a92ead72c7d3c1f6004daaf"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac437e3511a92ead72c7d3c1f6004daaf">&#9670;&#160;</a></span>post()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;typename T &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">decltype(auto) Acore::Asio::post </td>
-          <td>(</td>
-          <td class="paramtype">IoContextBaseNamespace::IoContextBase &amp;&#160;</td>
-          <td class="paramname"><em>ioContext</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">T &amp;&amp;&#160;</td>
-          <td class="paramname"><em>t</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   49</span>    {</div>
-<div class="line"><span class="lineno">   50</span>        <span class="keywordflow">return</span> boost::asio::post(ioContext, std::forward&lt;T&gt;(t));</div>
-<div class="line"><span class="lineno">   51</span>    }</div>
-</div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00241">Log::write()</a>.</p>
-
-</div>
-</div>
-</div><!-- contents -->
+<div class="textblock"><dl class="reflist">
+<dt>Member <a class="el" href="../../d4/d95/a08630.html#a407f3a3661e2b51f26ba73eb0e3dd6e2">Player::CanUseBattlegroundObject</a>  (<a class="el" href="../../d1/d41/a08186.html">GameObject</a> *gameobject) const</dt>
+<dd><a class="anchor" id="_bug000001"></a> sometimes when player clicks on flag in AB - client won't send gameobject_use, only gameobject_report_use packet Note: Mount, stealth and invisibility will be removed when used </dd>
+</dl>
+</div></div><!-- contents -->
+</div><!-- PageDoc -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d2/d5c/a04788.html">Acore</a></li><li class="navelem"><a class="el" href="../../d9/da4/a04789.html">Asio</a></li>
-    <li class="footer">Generated on Mon Aug 25 2025 20:47:36 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Sep 1 2025 20:43:26 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

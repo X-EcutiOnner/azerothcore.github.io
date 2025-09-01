@@ -1,14 +1,13 @@
 var a02669 =
 [
-    [ "guard_shattrath_scryer", "df/d9e/a27424.html", "df/d9e/a27424" ],
-    [ "guard_shattrath_scryer::guard_shattrath_scryerAI", "d5/db2/a27428.html", "d5/db2/a27428" ],
-    [ "guard_shattrath_aldor", "d4/de3/a27432.html", "d4/de3/a27432" ],
-    [ "guard_shattrath_aldor::guard_shattrath_aldorAI", "dd/d9b/a27436.html", "dd/d9b/a27436" ],
-    [ "GuardShattrath", "d6/dbb/a02669.html#a7c8fcdd86e1aa9eab132e6321290e79c", [
-      [ "SPELL_BANISHED_SHATTRATH_A", "d6/dbb/a02669.html#a7c8fcdd86e1aa9eab132e6321290e79ca958387dd7fcdedf036a81cf2ab4f56fe", null ],
-      [ "SPELL_BANISHED_SHATTRATH_S", "d6/dbb/a02669.html#a7c8fcdd86e1aa9eab132e6321290e79ca78bb081a2031299d661fbce8fd5a3d48", null ],
-      [ "SPELL_BANISH_TELEPORT", "d6/dbb/a02669.html#a7c8fcdd86e1aa9eab132e6321290e79ca7aecffca2feb1502c591610fee5566e0", null ],
-      [ "SPELL_EXILE", "d6/dbb/a02669.html#a7c8fcdd86e1aa9eab132e6321290e79ca6758cdbc7bb8447df1f7b3073833463d", null ]
+    [ "instance_sunken_temple", "dd/de0/a13362.html", "dd/de0/a13362" ],
+    [ "instance_sunken_temple::instance_sunken_temple_InstanceMapScript", "da/d92/a13366.html", "da/d92/a13366" ],
+    [ "at_malfurion_stormrage", "d9/d0d/a13370.html", "d9/d0d/a13370" ],
+    [ "spell_temple_of_atal_hakkar_hex_of_jammal_an_aura", "d5/d5a/a13374.html", "d5/d5a/a13374" ],
+    [ "spell_temple_of_atal_hakkar_awaken_the_soulflayer", "d3/ddc/a13378.html", "d3/ddc/a13378" ],
+    [ "MalfurionMisc", "d6/dbb/a02669.html#a754fcfafd80b5a6c2ea444f49cfbc7d1", [
+      [ "QUEST_ERANIKUS_TYRANT_OF_DREAMS", "d6/dbb/a02669.html#a754fcfafd80b5a6c2ea444f49cfbc7d1a99089f2ff32693b053abae21941aed5d", null ],
+      [ "QUEST_THE_CHARGE_OF_DRAGONFLIGHTS", "d6/dbb/a02669.html#a754fcfafd80b5a6c2ea444f49cfbc7d1aabeeb62adbb72d2616aa2e6e393f2526", null ]
     ] ],
-    [ "AddSC_guards", "d6/dbb/a02669.html#acba582cbc90c710c629dd30926acdca4", null ]
+    [ "AddSC_instance_sunken_temple", "d6/dbb/a02669.html#ab3f2a91fe096585f54078e8884cb25f7", null ]
 ];

@@ -1,6 +1,5 @@
 var a20282 =
 [
-    [ "HandleAfterEffectApply", "dd/dbb/a20282.html#af655bb31dc24a3cede08ca371f784913", null ],
-    [ "PrepareAuraScript", "dd/dbb/a20282.html#a1824853d0b369deac0745fabe2df657c", null ],
-    [ "Register", "dd/dbb/a20282.html#a33e7c6cab2c99789661e6bb2d6b9a593", null ]
+    [ "achievement_freya_getting_back_to_nature", "dd/dbb/a20282.html#aa4078b573a9335fc52c9b9609590b12f", null ],
+    [ "OnCheck", "dd/dbb/a20282.html#a850a32450379284784f019a5eb5ff0ff", null ]
 ];

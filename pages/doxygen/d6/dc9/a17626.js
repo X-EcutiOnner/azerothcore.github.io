@@ -1,7 +1,8 @@
 var a17626 =
 [
-    [ "npc_gunship_rocketeerAI", "d6/dc9/a17626.html#aa9e722f32cd95fff8c72db5a41d0e84c", null ],
-    [ "CanAIAttack", "d6/dc9/a17626.html#a4b4e2839e426bdb752beea09394f13dc", null ],
-    [ "MovementInform", "d6/dc9/a17626.html#a7dd7f3625b177a96bcfdc5e46d944562", null ],
-    [ "UpdateAI", "d6/dc9/a17626.html#af73d71750f116fb90be1c2acba75ca70", null ]
+    [ "CheckProc", "d6/dc9/a17626.html#a11620e4d645b3bfd35924700b5dad289", null ],
+    [ "HandleProc", "d6/dc9/a17626.html#aa80a032f2ec80aba36f6fe0208412587", null ],
+    [ "PrepareAuraScript", "d6/dc9/a17626.html#afe04f0cb6539238412253b63dd3c82b9", null ],
+    [ "Register", "d6/dc9/a17626.html#ac18d1d1a1d19b0dfa5cb1565377ba273", null ],
+    [ "Validate", "d6/dc9/a17626.html#ac42fe3248fadf0ecca95893e06c490ee", null ]
 ];

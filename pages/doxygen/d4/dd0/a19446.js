@@ -1,7 +1,8 @@
 var a19446 =
 [
-    [ "CalcDamage", "d4/dd0/a19446.html#abb2bf75cc347597b17ed5e4ccd213132", null ],
-    [ "PrepareSpellScript", "d4/dd0/a19446.html#a705a6f0c9b10dc8e7e2e6c091a3ff89c", null ],
-    [ "Register", "d4/dd0/a19446.html#a2c2b391b223ab92b6d644b739419a1d3", null ],
-    [ "Validate", "d4/dd0/a19446.html#a773c608119a84cc3f02e7b4d786f2741", null ]
+    [ "npc_alexstraszaAI", "d4/dd0/a19446.html#a36cf63109e379fa4a9e3f3426d70e50c", null ],
+    [ "AttackStart", "d4/dd0/a19446.html#a120931695bf3ea649289ee4f6df9a3fd", null ],
+    [ "MoveInLineOfSight", "d4/dd0/a19446.html#af93fc8e8877cc5730db7a9386ac3d815", null ],
+    [ "UpdateAI", "d4/dd0/a19446.html#aa8cc3ee1a2a4702349b39708cc172594", null ],
+    [ "events", "d4/dd0/a19446.html#aade88413d2f2998be6dcb9d15bf85ce0", null ]
 ];

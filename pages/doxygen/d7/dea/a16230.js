@@ -1,6 +1,11 @@
 var a16230 =
 [
-    [ "npc_memoryAI", "de/d60/a16234.html", "de/d60/a16234" ],
-    [ "npc_memory", "d7/dea/a16230.html#acebf31813025d323f9486d6575a60483", null ],
-    [ "GetAI", "d7/dea/a16230.html#ad8e532d029217a06d11ae39810498976", null ]
+    [ "boss_general_zarithrianAI", "d7/dea/a16230.html#a4168a5883052810d137f59d3b104bc24", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "d7/dea/a16230.html#a22f6ff041e61c94df73a938162fa26f5", null ],
+    [ "JustDied", "d7/dea/a16230.html#a49be533142c82a95a136dc2dcbf4843c", null ],
+    [ "JustEngagedWith", "d7/dea/a16230.html#a9ec34e473b9d478277f472ab3bb7c7ef", null ],
+    [ "JustSummoned", "d7/dea/a16230.html#acb694d20b35d57a315aa4662562af210", null ],
+    [ "KilledUnit", "d7/dea/a16230.html#ad385477740b728e63acff7c184df3c09", null ],
+    [ "Reset", "d7/dea/a16230.html#a3093369d5f3c7e2a1a5828671ac0af0a", null ],
+    [ "UpdateAI", "d7/dea/a16230.html#a3a7e578d64a760cd38712c725eecc97d", null ]
 ];

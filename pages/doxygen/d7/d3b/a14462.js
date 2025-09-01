@@ -1,8 +1,11 @@
 var a14462 =
 [
-    [ "OnApply", "d7/d3b/a14462.html#a6bc23ff885f4fbc25d00fe35173bad3e", null ],
-    [ "OnRemove", "d7/d3b/a14462.html#aed62006fe08bfaad0a8bb51d5e739c67", null ],
-    [ "PrepareAuraScript", "d7/d3b/a14462.html#ac7388aa4c0746ce963cbbb97dbfb4765", null ],
-    [ "Register", "d7/d3b/a14462.html#a95c3af6d3f1d510ad8a2d9be7e28b2dc", null ],
-    [ "Validate", "d7/d3b/a14462.html#a0ed19bc16fa8e2da2332766bbc1110e5", null ]
+    [ "npc_the_etymidian", "d7/d3b/a14462.html#af491016ac89b67947650a5ca9c379875", null ],
+    [ "MoveInLineOfSight", "d7/d3b/a14462.html#adde2d86e30442eb1b47219e934e24407", null ],
+    [ "Reset", "d7/d3b/a14462.html#a714edf3ba5f7a6d59242c991764effc5", null ],
+    [ "UpdateAI", "d7/d3b/a14462.html#a1f3cfddae43e443c5cd4a8a0f9f87a89", null ],
+    [ "orphanGUID", "d7/d3b/a14462.html#a9ba2c34b08d0fe61e18037b02f352d08", null ],
+    [ "phase", "d7/d3b/a14462.html#a7086e9a8a8a7287cf90688270e9933a7", null ],
+    [ "playerGUID", "d7/d3b/a14462.html#a7371e361c018360315e20086b0b99079", null ],
+    [ "timer", "d7/d3b/a14462.html#a8508a2c89eeeee2d235e1178ca77e895", null ]
 ];

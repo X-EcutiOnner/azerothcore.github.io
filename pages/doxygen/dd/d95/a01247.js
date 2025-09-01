@@ -1,6 +1,9 @@
 var a01247 =
 [
-    [ "PLAYER_FLIGHT_SPEED", "dd/d95/a01247.html#a2efde26aed42919892139c2ffb51b279", null ],
-    [ "SKIP_SPLINE_POINT_DISTANCE_SQ", "dd/d95/a01247.html#a55b33fb4c6265551b0327903da9bff4c", null ],
-    [ "IsNodeIncludedInShortenedPath", "dd/d95/a01247.html#a47a5affa854677472690918c4d16f998", null ]
+    [ "instance_blood_furnace", "d4/d58/a23702.html", "d4/d58/a23702" ],
+    [ "instance_blood_furnace::instance_blood_furnace_InstanceMapScript", "d6/d9f/a23706.html", "d6/d9f/a23706" ],
+    [ "AddSC_instance_blood_furnace", "dd/d95/a01247.html#af803a0e2dfb7f53b6682e02b90bef865", null ],
+    [ "creatureData", "dd/d95/a01247.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "doorData", "dd/d95/a01247.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
+    [ "gameobjectData", "dd/d95/a01247.html#a845a92716bd40c99a93eb0715cd737b0", null ]
 ];

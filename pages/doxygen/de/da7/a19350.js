@@ -1,8 +1,8 @@
 var a19350 =
 [
-    [ "npc_crystal_spike", "de/da7/a19350.html#aa6a6e12aba63c589e71b5ca28b924fd4", null ],
-    [ "Reset", "de/da7/a19350.html#a8cdca606ce482147d87ad5248665099e", null ],
-    [ "UpdateAI", "de/da7/a19350.html#abc04c8fba427c12630b4faf1d39bdb32", null ],
-    [ "_damageTimer", "de/da7/a19350.html#a36c70729a0c0281d467f870bfcde80ae", null ],
-    [ "_gameObjectGUID", "de/da7/a19350.html#a0c0e9a1883cee51201b039947b5bacf3", null ]
+    [ "HandleDamage", "de/da7/a19350.html#ab8948b09b685ad970f5292ca4c5d97ba", null ],
+    [ "HandleTargets", "de/da7/a19350.html#ac36e689bad93aa17738f390680764a7e", null ],
+    [ "PrepareSpellScript", "de/da7/a19350.html#a149db071722ce12cded16087c8eec1df", null ],
+    [ "Register", "de/da7/a19350.html#abd073f34a414fab7ee23ee933863f1c7", null ],
+    [ "Validate", "de/da7/a19350.html#a177320de9c3a2c2f29120fcaa413ab13", null ]
 ];

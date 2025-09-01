@@ -1,8 +1,6 @@
 var a10774 =
 [
-    [ "PlayObjectSound", "d3/d6f/a10774.html#ab322044d36abddeb2fafbf99261bb70b", null ],
-    [ "PlayObjectSound", "d3/d6f/a10774.html#a2c4d15099e991a9c2ddc5295536aa28e", null ],
-    [ "Write", "d3/d6f/a10774.html#a1162715dd557a9f7b7c25a0331bc3b74", null ],
-    [ "SoundKitID", "d3/d6f/a10774.html#a5e794706b8793d164a1189e9a6918735", null ],
-    [ "SourceObjectGUID", "d3/d6f/a10774.html#a82b226eba66e569c1f377f529e511361", null ]
+    [ "PlayerSaveGuildEmblem", "d3/d6f/a10774.html#ae1269fb7583f0ce1703cd89d592b1485", null ],
+    [ "Write", "d3/d6f/a10774.html#a0427be2f46cba4ff6b2ca072924bca7b", null ],
+    [ "Error", "d3/d6f/a10774.html#a76930d3b74bf7b84a311b24b53d03b21", null ]
 ];

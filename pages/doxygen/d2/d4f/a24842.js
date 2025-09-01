@@ -1,5 +1,7 @@
 var a24842 =
 [
-    [ "PrepareSpellScript", "d2/d4f/a24842.html#a41169895bb29fe136e3fb0c2dd50d9fb", null ],
-    [ "Register", "d2/d4f/a24842.html#ab6a32b26cc0277f71a71b9fd1d567bf1", null ]
+    [ "AfterApply", "d2/d4f/a24842.html#a1849f49a9682627753b8bd39b3ff827e", null ],
+    [ "AfterRemove", "d2/d4f/a24842.html#a7c08bea735cd36840463aa942e7529b4", null ],
+    [ "PrepareAuraScript", "d2/d4f/a24842.html#ad27880f797137cae09381e860727e2f7", null ],
+    [ "Register", "d2/d4f/a24842.html#a6c105609c1ee61a8f845018550b2e3ba", null ]
 ];

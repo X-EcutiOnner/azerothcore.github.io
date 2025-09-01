@@ -1,8 +1,9 @@
 var a05006 =
 [
-    [ "LocationInfo", "d5/dc0/a05006.html#ae2e70dc65cd3b0379600a67dce7de6ba", null ],
-    [ "ground_Z", "d5/dc0/a05006.html#a0ffbfcfc677809dda6250855d9594ca5", null ],
-    [ "hitInstance", "d5/dc0/a05006.html#a5e3fc81a2b7353808dc0c95eebe570be", null ],
-    [ "hitModel", "d5/dc0/a05006.html#a2a7e0be8d8e43b055dd1d43cd5331738", null ],
-    [ "rootId", "d5/dc0/a05006.html#aae82d7d8518db5e131d6a327927c75a2", null ]
+    [ "ManagedModel", "d5/dc0/a05006.html#ab641724be7e7791c2c95982acc13f3b0", null ],
+    [ "decRefCount", "d5/dc0/a05006.html#a5a104acbc0661b19ba2a662dc669b73d", null ],
+    [ "getModel", "d5/dc0/a05006.html#a053fc6647a16746fba19a0795610fea2", null ],
+    [ "setModel", "d5/dc0/a05006.html#aa450ae6be22d507c36a746850629831d", null ],
+    [ "iModel", "d5/dc0/a05006.html#a5e20d0157691bd6036247a83eea8d19b", null ],
+    [ "iRefCount", "d5/dc0/a05006.html#afb30ad900a5979f98276324a1ab1c328", null ]
 ];

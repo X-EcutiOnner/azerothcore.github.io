@@ -1,5 +1,5 @@
 var a02105 =
 [
-    [ "modify_commandscript", "d5/dc5/a11756.html", "d5/dc5/a11756" ],
-    [ "AddSC_modify_commandscript", "db/d7a/a02105.html#a9cbb6ad3c630cbeb9ba39b4552f72e87", null ]
+    [ "guild_commandscript", "df/df3/a11794.html", "df/df3/a11794" ],
+    [ "AddSC_guild_commandscript", "db/d7a/a02105.html#af4f585942ab79df7bff025b621beef86", null ]
 ];

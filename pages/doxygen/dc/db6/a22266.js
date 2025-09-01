@@ -1,6 +1,7 @@
 var a22266 =
 [
-    [ "npc_wild_wyrmAI", "dd/d1a/a22270.html", "dd/d1a/a22270" ],
-    [ "npc_wild_wyrm", "dc/db6/a22266.html#abce8c3a368e75b4be5e05381f9eb722b", null ],
-    [ "GetAI", "dc/db6/a22266.html#aedba91446fe12997047070f123d925d2", null ]
+    [ "HandleDummy", "dc/db6/a22266.html#a85874062bceced2694fff725649df892", null ],
+    [ "PrepareSpellScript", "dc/db6/a22266.html#a47bae4bdc488480f91517465d8e1b784", null ],
+    [ "Register", "dc/db6/a22266.html#a7131340678ca685db98e2087661321a9", null ],
+    [ "Validate", "dc/db6/a22266.html#af1b74ceee10fc48a0b85d4a284103950", null ]
 ];

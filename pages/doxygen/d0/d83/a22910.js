@@ -1,6 +1,7 @@
 var a22910 =
 [
-    [ "boss_essence_of_angerAI", "df/d25/a22914.html", "df/d25/a22914" ],
-    [ "boss_essence_of_anger", "d0/d83/a22910.html#adf8151d1fbb4a258f174c4bdb8410cd6", null ],
-    [ "GetAI", "d0/d83/a22910.html#a70a460f31b7f878e532b695ca822ab5d", null ]
+    [ "npc_blade_of_azzinoth", "d0/d83/a22910.html#a55afe56313c237afe8080662b2ed2dba", null ],
+    [ "DoAction", "d0/d83/a22910.html#a8e746da7672c0177c4b6c91b1e9d2eb5", null ],
+    [ "IsSummonedBy", "d0/d83/a22910.html#af2925da1235b809ee81469fe32ab0f92", null ],
+    [ "JustSummoned", "d0/d83/a22910.html#a501e2d1ae9af813fd9c30395e7774983", null ]
 ];

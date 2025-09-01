@@ -1,12 +1,21 @@
 var a18482 =
 [
-    [ "npc_risen_archmageAI", "d2/d0c/a18482.html#a4dd62e51fc75fc5e4a44859437549f29", null ],
-    [ "CanAIAttack", "d2/d0c/a18482.html#a063a28cd36dbc709699e6d1d4e4ca9e3", null ],
-    [ "DoAction", "d2/d0c/a18482.html#accc43068aa0a7f62d6fabfb85acb1498", null ],
-    [ "JustEngagedWith", "d2/d0c/a18482.html#aef3a1631b4bb8d28d4056036981b0192", null ],
-    [ "JustSummoned", "d2/d0c/a18482.html#aff6e86057086db1319bb680e52e41634", null ],
-    [ "Reset", "d2/d0c/a18482.html#a522d30cb60cf6af2cd8cc943a7e2f5e3", null ],
-    [ "UpdateAI", "d2/d0c/a18482.html#ae78dc64f858573b234210ca175e5bdd9", null ],
-    [ "_events", "d2/d0c/a18482.html#a6dff9ff5332c0bc337840882689f47ed", null ],
-    [ "_instance", "d2/d0c/a18482.html#a1b4e12b199bf3ada517c895c5f387c4a", null ]
+    [ "npc_valkyr_shadowguardAI", "d2/d0c/a18482.html#af547ffffa48ee8d7b0f6babbd0e9875e", null ],
+    [ "DamageTaken", "d2/d0c/a18482.html#a1b0e94459893f8d5e1bc68248f78d3f0", null ],
+    [ "GoSiphon", "d2/d0c/a18482.html#a1ea3393d5438a39c15e68320880be7ab", null ],
+    [ "HandleSpeedChangeIfNeeded", "d2/d0c/a18482.html#a022ed151fca8c540e65cc8dda3acb2a7", null ],
+    [ "IsHeroic", "d2/d0c/a18482.html#acd70f755f4a14f5f8749b59c953fdb5d", null ],
+    [ "MovementInform", "d2/d0c/a18482.html#a9b75af98b11bf1115dfd7ce852ab7591", null ],
+    [ "OnCharmed", "d2/d0c/a18482.html#a2b99d9de8ccc94725510c97e170ac8d5", null ],
+    [ "PassengerBoarded", "d2/d0c/a18482.html#ada0a8d7e47f22f1c80dd9e9cdd30e9cd", null ],
+    [ "SetGUID", "d2/d0c/a18482.html#a91766f8e2fb70b1452cbb2c075717b1a", null ],
+    [ "UpdateAI", "d2/d0c/a18482.html#a0a6516088aa077f3e01c892cde9e05ae", null ],
+    [ "_destPoint", "d2/d0c/a18482.html#a2b8c47299a68e7d69008083d49aa1c33", null ],
+    [ "_events", "d2/d0c/a18482.html#a46c748273b495368255f8668f5da8bdd", null ],
+    [ "_grabbedPlayer", "d2/d0c/a18482.html#ad2d2e3f45a7cb8e9bece6a46036d75b6", null ],
+    [ "_instance", "d2/d0c/a18482.html#a575802dd7bf6d7359724d725b62ce604", null ],
+    [ "_lastSpeed", "d2/d0c/a18482.html#a8a6d32250ac109bd20bde1aa139621ea", null ],
+    [ "didbelow50pct", "d2/d0c/a18482.html#a4e4a3d24f853fda03c52dc11b56f4306", null ],
+    [ "dropped", "d2/d0c/a18482.html#ae13cffcbcec48bb26f5d301a543615f5", null ],
+    [ "grabbed", "d2/d0c/a18482.html#aea20be843c1f9c3402edd903b938292d", null ]
 ];

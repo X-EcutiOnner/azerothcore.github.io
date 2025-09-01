@@ -1,8 +1,6 @@
 var a12566 =
 [
-    [ "npc_kernobeeAI", "d4/d95/a12566.html#a9dfc478b7da1bf33463e3653aea3c4da", null ],
-    [ "SetGUID", "d4/d95/a12566.html#a34999b470697ba0a27701facd63625f8", null ],
-    [ "UpdateAI", "d4/d95/a12566.html#ae99836a836234ad441d6ac97c60d7fc6", null ],
-    [ "checkTimer", "d4/d95/a12566.html#ae4731b5dd7b92d6989b0960d88e1dc35", null ],
-    [ "playerGUID", "d4/d95/a12566.html#aca1009b03ee24200f5dbad788ec5c5c8", null ]
+    [ "boss_magmadarAI", "d4/d95/a12566.html#a47207fdd6eb94fb08791da06cd4160f6", null ],
+    [ "ExecuteEvent", "d4/d95/a12566.html#a7d4c1807cb320fdc331057209a4ce166", null ],
+    [ "JustEngagedWith", "d4/d95/a12566.html#a5ce1495d01f28e0a38f00127e7137a4f", null ]
 ];

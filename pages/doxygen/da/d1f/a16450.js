@@ -1,8 +1,11 @@
 var a16450 =
 [
-    [ "npc_toc_boomkinAI", "da/d1f/a16450.html#a12c586d57aa6dd3893889f103dbfee20", null ],
-    [ "JustSummoned", "da/d1f/a16450.html#a0d049885773b7f1abd7e03f9200852f4", null ],
-    [ "myCanCast", "da/d1f/a16450.html#a691a0250db77cc4def2bf67b25a1298c", null ],
-    [ "UpdateAI", "da/d1f/a16450.html#a64b0451537c0d27bc01d1c1ec3b5b88d", null ],
-    [ "events", "da/d1f/a16450.html#a0b367855092884b2ce30834e89fced87", null ]
+    [ "npc_black_knight_ghoulAI", "da/d1f/a16450.html#a6e108052a7f9911dcd1b0ed13b2b8a0f", null ],
+    [ "JustEngagedWith", "da/d1f/a16450.html#a8353dea0de91017223c7624a5a96ebec", null ],
+    [ "Reset", "da/d1f/a16450.html#a8a33efa0719063a9565bc07143f8ad83", null ],
+    [ "SpellHit", "da/d1f/a16450.html#aa1b1fbb1a4633831774c7a7dd5cbb546", null ],
+    [ "SpellHitTarget", "da/d1f/a16450.html#a5f106a3b0edf353769db9021b9ca770d", null ],
+    [ "UpdateAI", "da/d1f/a16450.html#a6ccdb6a59b93999c01d434bcda593f25", null ],
+    [ "events", "da/d1f/a16450.html#acb56826a164e4d7da0a2f04c1efaf72b", null ],
+    [ "pInstance", "da/d1f/a16450.html#a35b8375f1b3407f5cee653ee118e0697", null ]
 ];

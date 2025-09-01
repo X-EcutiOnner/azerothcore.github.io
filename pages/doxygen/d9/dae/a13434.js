@@ -1,7 +1,5 @@
 var a13434 =
 [
-    [ "PeriodicTick", "d9/dae/a13434.html#acca46d585d06d461f735cddb6075b3b1", null ],
-    [ "PrepareAuraScript", "d9/dae/a13434.html#abd7382ab22efd3d82c4f00745255d024", null ],
-    [ "Register", "d9/dae/a13434.html#a7020dbe7c61f877d0ecd0d7542f6f270", null ],
-    [ "Validate", "d9/dae/a13434.html#acb31ba162452a30ff0c208829560f9fd", null ]
+    [ "at_sunwell_eredar_twins", "d9/dae/a13434.html#afc183c384bc87321186b20e0ac168c1f", null ],
+    [ "_OnTrigger", "d9/dae/a13434.html#aa862756c9905e2cb10d60c70b47919aa", null ]
 ];

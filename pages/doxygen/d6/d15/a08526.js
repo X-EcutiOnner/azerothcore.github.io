@@ -1,5 +1,8 @@
 var a08526 =
 [
-    [ "PlayerClassInfo", "d6/d15/a08526.html#a6a0a6db24e144593356e0505946e8f06", null ],
-    [ "levelInfo", "d6/d15/a08526.html#aa234b353361ef0017ec974ca4c8e86f1", null ]
+    [ "IsInSpec", "d6/d15/a08526.html#a77968b5562467f85bda04b6f2f41ca29", null ],
+    [ "inSpellBook", "d6/d15/a08526.html#a650926fa9d1bbab336ee7ed3dd0b0b7d", null ],
+    [ "specMask", "d6/d15/a08526.html#acc1913a90ca2bd23298d3590843cfbd5", null ],
+    [ "State", "d6/d15/a08526.html#a062758af7e92f7e2263ca0a0fd329151", null ],
+    [ "talentID", "d6/d15/a08526.html#aca9b191361652002f5178179a939e41b", null ]
 ];

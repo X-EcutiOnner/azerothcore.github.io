@@ -1,6 +1,6 @@
 var a12154 =
 [
-    [ "instance_blackrock_spireMapScript", "da/d62/a12158.html", "da/d62/a12158" ],
-    [ "instance_blackrock_spire", "da/da0/a12154.html#a3238be88efcdc9669e7e6a1d725649b3", null ],
-    [ "GetInstanceScript", "da/da0/a12154.html#a5ee2cc38a36ce2cd8c1196ce9f687e2a", null ]
+    [ "boss_gythAI", "da/d62/a12158.html", "da/d62/a12158" ],
+    [ "boss_gyth", "da/da0/a12154.html#a286d19b0a6e317cb7e69343982b71062", null ],
+    [ "GetAI", "da/da0/a12154.html#a3706cbdd1bfb16112653d31cfa971b30", null ]
 ];

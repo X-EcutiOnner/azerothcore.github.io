@@ -1,6 +1,6 @@
 var a18610 =
 [
-    [ "npc_crok_scourgebaneAI", "d9/dde/a18614.html", "d9/dde/a18614" ],
-    [ "npc_crok_scourgebane", "df/d97/a18610.html#a5f560e2c62aa618eadb5a11e2c9b90a3", null ],
-    [ "GetAI", "df/d97/a18610.html#afa4fcbb9d7281fbee3f8bc0f318d2e6b", null ]
+    [ "ManaVoidSelector", "df/d97/a18610.html#aa57a0960e7ce90b8de23f01ae72a1fff", null ],
+    [ "operator()", "df/d97/a18610.html#a464d63f2cf8cfe7d0c6bb5293e788a28", null ],
+    [ "_source", "df/d97/a18610.html#ae45c999db51bc153bba7f2fdfb99f6ba", null ]
 ];

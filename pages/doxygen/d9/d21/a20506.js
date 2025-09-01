@@ -1,9 +1,9 @@
 var a20506 =
 [
-    [ "npc_ulduar_emergency_fire_botAI", "d9/d21/a20506.html#a98ad3308b0fa56847ce6f5583bdfaba9", null ],
-    [ "AttackStart", "d9/d21/a20506.html#aa18e89f63e98112efeb69328f8fdc296", null ],
-    [ "MoveInLineOfSight", "d9/d21/a20506.html#a6384437fff9349df0cfa5053b37313ea", null ],
-    [ "MovementInform", "d9/d21/a20506.html#a2f7d5b821ea4bf80bd01d469859f6fb6", null ],
-    [ "UpdateAI", "d9/d21/a20506.html#a71d24eb5cea764011249b8ff78c3ed6c", null ],
-    [ "events", "d9/d21/a20506.html#a5099c03b3ab1eb437ea11a0c4e8650f1", null ]
+    [ "HandleEffectPeriodic", "d9/d21/a20506.html#adc6e83abb52a21528c07a1d989818dcf", null ],
+    [ "OnApply", "d9/d21/a20506.html#ad52977d3bfeca6d2a7127d91eb3d30ab", null ],
+    [ "OnRemove", "d9/d21/a20506.html#a903e65cc8041f9bd289bb5c6f156fa22", null ],
+    [ "PrepareAuraScript", "d9/d21/a20506.html#aa85f79f5337edca68b3cb87073eff0d4", null ],
+    [ "Register", "d9/d21/a20506.html#a2b18c5db95842a6f8959bf9affd357b7", null ],
+    [ "Validate", "d9/d21/a20506.html#ae88b8bd3e648030df48f6b80cedc4034", null ]
 ];

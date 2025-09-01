@@ -1,4 +1,5 @@
 var a04412 =
 [
-    [ "Acore::SignalHandler", "d7/d56/a05508.html", "d7/d56/a05508" ]
+    [ "TotemAI", "dc/d71/a06146.html", "dc/d71/a06146" ],
+    [ "KillMagnetEvent", "d6/d30/a06150.html", "d6/d30/a06150" ]
 ];

@@ -1,12 +1,12 @@
 var a21722 =
 [
-    [ "npc_dalaran_warriorAI", "d6/d28/a21722.html#a0c96d8b0797a1388f9fe725753ea91bc", null ],
-    [ "Initialize", "d6/d28/a21722.html#aa04ecd7a8f988e94ab663a7994e83dd9", null ],
-    [ "JustEngagedWith", "d6/d28/a21722.html#ae6690f0681363784e457fbd653f5b3f9", null ],
-    [ "Reset", "d6/d28/a21722.html#a074d116ba39d87fa85c17fbc1764c79b", null ],
-    [ "UpdateAI", "d6/d28/a21722.html#ae2a740ecd35694b4d04c6aea7ae567fa", null ],
-    [ "Battleshout_timer", "d6/d28/a21722.html#ae36f30f816164b60232bd849e74c3da1", null ],
-    [ "disarm_timer", "d6/d28/a21722.html#a54f7ceb37d7e3456166f5af761c95e9e", null ],
-    [ "hamstring_timer", "d6/d28/a21722.html#ae0e660b8c3faf70a6061260a4b90a4af", null ],
-    [ "shout_timer", "d6/d28/a21722.html#ac91770c1e9eb31d687247450898a48ae", null ]
+    [ "npc_beryl_sorcererAI", "d6/d28/a21722.html#a8f99f5f2ad6ccb1b068a86904bb1b864", null ],
+    [ "Initialize", "d6/d28/a21722.html#a40400e4e993d20d9bbe4faf063102521", null ],
+    [ "JustEngagedWith", "d6/d28/a21722.html#afae877e8dac583c9420d214f77c2b438", null ],
+    [ "Reset", "d6/d28/a21722.html#a17a16337c09013483c58cae38576d969", null ],
+    [ "SpellHit", "d6/d28/a21722.html#a762ee3ae8df3757279821af13101e0be", null ],
+    [ "UpdateAI", "d6/d28/a21722.html#a42ec665b06988d13be6cbee646afc898", null ],
+    [ "_chainsCast", "d6/d28/a21722.html#ab6238d539b10a7db9191bdc685ea67eb", null ],
+    [ "_events", "d6/d28/a21722.html#ac640099ca01ae2183b84ae9ee3407cc1", null ],
+    [ "_playerGUID", "d6/d28/a21722.html#a96f9b39c09b7a5fb484ae9069412751f", null ]
 ];

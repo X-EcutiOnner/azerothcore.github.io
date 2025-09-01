@@ -1,19 +1,13 @@
 var a11510 =
 [
-    [ "WardenPayloadMgr", "d4/d97/a11510.html#a0a90c3e8ab6d5b5698f330b997efed27", null ],
-    [ "ClearQueuedPayloads", "d4/d97/a11510.html#ade67b783b6e6c7421b0d86a9143d60d9", null ],
-    [ "DequeuePayload", "d4/d97/a11510.html#a0fb196873e89729eb5c3ad3238e75a6a", null ],
-    [ "GetFreePayloadId", "d4/d97/a11510.html#a698b2ab4709a495f299be18b053e4014", null ],
-    [ "GetPayloadById", "d4/d97/a11510.html#a9f7d7ab2c529b74b67fb363a063ffa27", null ],
-    [ "GetPayloadCountInQueue", "d4/d97/a11510.html#ae3878c7264337d646f7a5d503907d7aa", null ],
-    [ "GetPayloadsInQueue", "d4/d97/a11510.html#a6b8ed858cc20f8acc0266edbe84b3dfd", null ],
-    [ "QueuePayload", "d4/d97/a11510.html#a36f9cf58fa5c9d34fdac860c3ae692d1", null ],
-    [ "RegisterPayload", "d4/d97/a11510.html#ab3b7d9cbbb94eab430a0caff00448a4a", null ],
-    [ "RegisterPayload", "d4/d97/a11510.html#ae2e7a14fe433ed45e94d3e74ba43f579", null ],
-    [ "UnregisterPayload", "d4/d97/a11510.html#a97d5b53d0e1fd42663ad673b31fe4fab", null ],
-    [ "CachedChecks", "d4/d97/a11510.html#a65c6878274bc49b921714278d77eed56", null ],
-    [ "QueuedPayloads", "d4/d97/a11510.html#a0d473fcc12806a29a6cf191ebd1ec9ff", null ],
-    [ "WardenPayloadCheckType", "d4/d97/a11510.html#a5d6853734e30d11fce42dfeeb3a06c22", null ],
-    [ "WardenPayloadOffsetMax", "d4/d97/a11510.html#a0a6537e719e9f8f4c371340d0d1b4db7", null ],
-    [ "WardenPayloadOffsetMin", "d4/d97/a11510.html#a9f7e5a100c56a6ee9a6bd39a792b9e44", null ]
+    [ "PlayerTextBuilder", "d4/d97/a11510.html#a0740c581636009448fe2c29084db41ae", null ],
+    [ "operator()", "d4/d97/a11510.html#a64d2905971ecd645e364a774f320a721", null ],
+    [ "_gender", "d4/d97/a11510.html#aece205d3d523dcf6fefbdd9914943723", null ],
+    [ "_language", "d4/d97/a11510.html#a934d4a519c2c7b4017805b3bc24a4714", null ],
+    [ "_msgType", "d4/d97/a11510.html#af546f2788870b8b10b3405695ef81171", null ],
+    [ "_source", "d4/d97/a11510.html#a9fe9f865b0ba84b5497e63947893533e", null ],
+    [ "_talker", "d4/d97/a11510.html#a8a8cd00cc76e048500800938a773aa06", null ],
+    [ "_target", "d4/d97/a11510.html#ac97cf187d079c5162e47bebb7024faa5", null ],
+    [ "_textGroup", "d4/d97/a11510.html#ab44fe12e73da36acb1199987e8573467", null ],
+    [ "_textId", "d4/d97/a11510.html#a17b33a9a05a77722219a85a71f3bbc5e", null ]
 ];

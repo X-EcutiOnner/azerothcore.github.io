@@ -1,6 +1,6 @@
 var a19730 =
 [
-    [ "HandlePeriodic", "d3/dff/a19730.html#a0a77c0b232e24e5cb8b3392ac8adbd3a", null ],
-    [ "PrepareAuraScript", "d3/dff/a19730.html#a7c6b6839da4a93f656800c9ae174c832", null ],
-    [ "Register", "d3/dff/a19730.html#ae28e67baa12488e248efd46ef5a7cb11", null ]
+    [ "instance_halls_of_lightning_InstanceMapScript", "d7/de8/a19734.html", "d7/de8/a19734" ],
+    [ "instance_halls_of_lightning", "d3/dff/a19730.html#a24395866efe2c7d1f7727be2557a8b46", null ],
+    [ "GetInstanceScript", "d3/dff/a19730.html#a5ce157aeaf2ed78e98e864059a599b36", null ]
 ];

@@ -1,7 +1,5 @@
 var a11962 =
 [
-    [ "boss_magmusAI", "d0/d4c/a11962.html#a8a3e5361bda492007013af9228899b8f", null ],
-    [ "JustEngagedWith", "d0/d4c/a11962.html#a11e4868628564078997694373315a9d6", null ],
-    [ "Reset", "d0/d4c/a11962.html#a5fe304cec86831b7e64f83caee1392d0", null ],
-    [ "UpdateAI", "d0/d4c/a11962.html#aa8bb8282c794ea02fe7bd95b3d32e5ea", null ]
+    [ "go_shadowforge_brazier", "d0/d4c/a11962.html#aafc1d2e865294bb102c918d6016aab4b", null ],
+    [ "OnGossipHello", "d0/d4c/a11962.html#a83b188cd2ee68e1ebfe75060465f8f38", null ]
 ];

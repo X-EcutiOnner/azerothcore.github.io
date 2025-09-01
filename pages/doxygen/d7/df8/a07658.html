@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: Acore::Impl::ChatCommands::ContainerTag Struct Reference</title>
+<title>AzerothCore: Acore::Impl::ChatCommands::TokenizeResult Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,47 +105,88 @@ $(document).ready(function(){initNavTree('d7/df8/a07658.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#pub-types">Public Types</a> &#124;
+<a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../da/d9a/a07655.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">Acore::Impl::ChatCommands::ContainerTag Struct Reference</div></div>
+  <div class="headertitle"><div class="title">Acore::Impl::ChatCommands::TokenizeResult Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">ChatCommandTags.h</a>&quot;</code></p>
-<div class="dynheader">
-Inheritance diagram for Acore::Impl::ChatCommands::ContainerTag:</div>
-<div class="dyncontent">
- <div class="center">
-  <img src="../../d7/df8/a07658.png" usemap="#Acore::Impl::ChatCommands::ContainerTag_map" alt=""/>
-  <map id="Acore::Impl::ChatCommands::ContainerTag_map" name="Acore::Impl::ChatCommands::ContainerTag_map">
-<area href="../../df/d7f/a07682.html" alt="Acore::ChatCommands::AccountIdentifier" shape="rect" coords="0,56,289,80"/>
-<area href="../../df/d9b/a07666.html" alt="Acore::ChatCommands::ExactSequence&lt; chars &gt;" shape="rect" coords="299,56,588,80"/>
-<area href="../../d2/d33/a07690.html" alt="Acore::ChatCommands::Hyperlink&lt; linktag &gt;" shape="rect" coords="598,56,887,80"/>
-<area href="../../d8/db1/a07686.html" alt="Acore::ChatCommands::PlayerIdentifier" shape="rect" coords="897,56,1186,80"/>
-<area href="../../db/def/a07678.html" alt="Acore::ChatCommands::QuotedString" shape="rect" coords="1196,56,1485,80"/>
-<area href="../../d5/d6a/a07670.html" alt="Acore::ChatCommands::Tail" shape="rect" coords="1495,56,1784,80"/>
-<area href="../../d3/d5b/a07674.html" alt="Acore::ChatCommands::WTail" shape="rect" coords="1794,56,2083,80"/>
-  </map>
-</div></div>
+<p><code>#include &quot;<a class="el" href="../../">ChatCommandHelpers.h</a>&quot;</code></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-types" name="pub-types"></a>
-Public Types</h2></td></tr>
-<tr class="memitem:a6150ebd46977676b2ddeebfb818e86a9"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/df8/a07658.html#a6150ebd46977676b2ddeebfb818e86a9">ChatCommandResult</a> = <a class="el" href="../../d5/d4d/a07654.html">Acore::Impl::ChatCommands::ChatCommandResult</a></td></tr>
-<tr class="separator:a6150ebd46977676b2ddeebfb818e86a9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
+Public Member Functions</h2></td></tr>
+<tr class="memitem:a02878c282dfcfd2b9f4eddf99a805fa3"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/df8/a07658.html#a02878c282dfcfd2b9f4eddf99a805fa3">operator bool</a> ()</td></tr>
+<tr class="separator:a02878c282dfcfd2b9f4eddf99a805fa3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
+Public Attributes</h2></td></tr>
+<tr class="memitem:a55e214db8a01ac3c427874d03f1bda54"><td class="memItemLeft" align="right" valign="top">std::string_view&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/df8/a07658.html#a55e214db8a01ac3c427874d03f1bda54">token</a></td></tr>
+<tr class="separator:a55e214db8a01ac3c427874d03f1bda54"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0bd839d0c7a8b7ce84612c80f3ca84e7"><td class="memItemLeft" align="right" valign="top">std::string_view&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/df8/a07658.html#a0bd839d0c7a8b7ce84612c80f3ca84e7">tail</a></td></tr>
+<tr class="separator:a0bd839d0c7a8b7ce84612c80f3ca84e7"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Member Typedef Documentation</h2>
-<a id="a6150ebd46977676b2ddeebfb818e86a9" name="a6150ebd46977676b2ddeebfb818e86a9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6150ebd46977676b2ddeebfb818e86a9">&#9670;&#160;</a></span>ChatCommandResult</h2>
+<div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
+<a id="a02878c282dfcfd2b9f4eddf99a805fa3" name="a02878c282dfcfd2b9f4eddf99a805fa3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a02878c282dfcfd2b9f4eddf99a805fa3">&#9670;&#160;</a></span>operator bool()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">Acore::Impl::ChatCommands::TokenizeResult::operator bool </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">explicit</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   49</span>{ <span class="keywordflow">return</span> !<a class="code hl_variable" href="../../d7/df8/a07658.html#a55e214db8a01ac3c427874d03f1bda54">token</a>.empty(); }</div>
+<div class="ttc" id="aa07658_html_a55e214db8a01ac3c427874d03f1bda54"><div class="ttname"><a href="../../d7/df8/a07658.html#a55e214db8a01ac3c427874d03f1bda54">Acore::Impl::ChatCommands::TokenizeResult::token</a></div><div class="ttdeci">std::string_view token</div><div class="ttdef"><b>Definition:</b> ChatCommandHelpers.h:50</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00050">token</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a id="a0bd839d0c7a8b7ce84612c80f3ca84e7" name="a0bd839d0c7a8b7ce84612c80f3ca84e7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0bd839d0c7a8b7ce84612c80f3ca84e7">&#9670;&#160;</a></span>tail</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">using <a class="el" href="../../d7/df8/a07658.html#a6150ebd46977676b2ddeebfb818e86a9">Acore::Impl::ChatCommands::ContainerTag::ChatCommandResult</a> =  <a class="el" href="../../d5/d4d/a07654.html">Acore::Impl::ChatCommands::ChatCommandResult</a></td>
+          <td class="memname">std::string_view Acore::Impl::ChatCommands::TokenizeResult::tail</td>
         </tr>
       </table>
 </div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00054">Acore::Impl::ChatCommands::tokenize()</a>.</p>
+
+</div>
+</div>
+<a id="a55e214db8a01ac3c427874d03f1bda54" name="a55e214db8a01ac3c427874d03f1bda54"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a55e214db8a01ac3c427874d03f1bda54">&#9670;&#160;</a></span>token</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::string_view Acore::Impl::ChatCommands::TokenizeResult::token</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00049">operator bool()</a>, and <a class="el" href="../../#l00054">Acore::Impl::ChatCommands::tokenize()</a>.</p>
 
 </div>
 </div>
@@ -154,8 +195,8 @@ Public Types</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../db/d2a/a04776.html">Acore</a></li><li class="navelem"><a class="el" href="../../d2/d5c/a04788.html">Impl</a></li><li class="navelem"><a class="el" href="../../d1/daa/a04816.html">ChatCommands</a></li><li class="navelem"><a class="el" href="../../d7/df8/a07658.html">ContainerTag</a></li>
-    <li class="footer">Generated on Mon Aug 4 2025 20:52:40 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d3/d7d/a04797.html">Acore</a></li><li class="navelem"><a class="el" href="../../d0/d6d/a04809.html">Impl</a></li><li class="navelem"><a class="el" href="../../da/d82/a04837.html">ChatCommands</a></li><li class="navelem"><a class="el" href="../../d7/df8/a07658.html">TokenizeResult</a></li>
+    <li class="footer">Generated on Mon Sep 1 2025 20:44:46 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

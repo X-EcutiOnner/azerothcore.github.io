@@ -1,6 +1,7 @@
 var a20114 =
 [
-    [ "achievement_freya_knock_on_wood", "d5/d32/a20114.html#ae28517e151cc9ec2b25ff57513f32d29", null ],
-    [ "OnCheck", "d5/d32/a20114.html#a07e5edf9d53d200506ab1b0d0b2eaa9e", null ],
-    [ "_elderCount", "d5/d32/a20114.html#a5a3cc4dedbc2cc6be825579cbb0a09b5", null ]
+    [ "npc_storm_beacon_spawnAI", "d5/d32/a20114.html#a031c1941f177a18af58efcf4a1270654", null ],
+    [ "UpdateAI", "d5/d32/a20114.html#a249bf56b905ef0c8b34c737d95518c91", null ],
+    [ "_amount", "d5/d32/a20114.html#a3d2286247853cb04b9cc23cd8c0bfdd6", null ],
+    [ "_checkTimer", "d5/d32/a20114.html#a7fd6d449b6a20ba9463896244c513a67", null ]
 ];

@@ -1,10 +1,7 @@
 var a15138 =
 [
-    [ "boss_huhuran", "d7/d02/a15138.html#a64e0b20891992764c708cbb661c18196", null ],
-    [ "DamageTaken", "d7/d02/a15138.html#adb47086f29b41f4168ad5d1b2728547d", null ],
-    [ "JustEngagedWith", "d7/d02/a15138.html#a08f1d6550680d5bcf07332eade115730", null ],
-    [ "Reset", "d7/d02/a15138.html#a45571aa6bd0c7915fb666cae1c5c4544", null ],
-    [ "UpdateAI", "d7/d02/a15138.html#a23962e668f046b373f94ea6a2d75574a", null ],
-    [ "_berserk", "d7/d02/a15138.html#a5f3f17d0b239f95ed4eb0bfac85c4463", null ],
-    [ "_hardEnrage", "d7/d02/a15138.html#a5612bf8b1eedec159b316b28e6f4c915", null ]
+    [ "HandleScript", "d7/d02/a15138.html#a8aea4a40472aec4cbb7001fbd63db24c", null ],
+    [ "Load", "d7/d02/a15138.html#a2dc1edf537f58133fb4daabde9f43843", null ],
+    [ "PrepareSpellScript", "d7/d02/a15138.html#ae856c6e70ededa95c0308596a9f980af", null ],
+    [ "Register", "d7/d02/a15138.html#ac2e82c7e626658faa968f75c26688b43", null ]
 ];

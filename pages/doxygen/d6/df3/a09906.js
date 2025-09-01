@@ -1,10 +1,12 @@
 var a09906 =
 [
-    [ "CreateWorldPacket", "d6/df3/a09906.html#a0acc39f8c58f6446a337e2d33f15731a", null ],
-    [ "GetMotd", "d6/df3/a09906.html#ab589dd8bfad950e02ee716ea9005253f", null ],
-    [ "GetMotdPacket", "d6/df3/a09906.html#a1eb1b16519bafaffe3b48b9835aab11e", null ],
-    [ "instance", "d6/df3/a09906.html#a0eac0994f742f9a5cbd912abc308d1a7", null ],
-    [ "LoadMotd", "d6/df3/a09906.html#a1a6ce19decdaf6cd778cf331bdc0c1ef", null ],
-    [ "LoadMotdLocale", "d6/df3/a09906.html#a21aa89787d5b0bbf69158f799122edd5", null ],
-    [ "SetMotd", "d6/df3/a09906.html#a7e317c2855b4ff96c2796081988bdf4f", null ]
+    [ "BanAccount", "d6/df3/a09906.html#af85ceffee2ae6a143df5e36f6a004f07", null ],
+    [ "BanAccountByPlayerName", "d6/df3/a09906.html#a35f92762d69fe32e49b9b239c74e4734", null ],
+    [ "BanCharacter", "d6/df3/a09906.html#ad5048b36828bfe20a95dfb85515de831", null ],
+    [ "BanIP", "d6/df3/a09906.html#a404890eab19b97773e6c9aef8cc65707", null ],
+    [ "instance", "d6/df3/a09906.html#aa495dfaab6af98c43f645acf516a5630", null ],
+    [ "RemoveBanAccount", "d6/df3/a09906.html#ae831e6227442edc70469229d5d73fa3f", null ],
+    [ "RemoveBanAccountByPlayerName", "d6/df3/a09906.html#a7b5e1ae6d34ae4f6a15e03c434953aea", null ],
+    [ "RemoveBanCharacter", "d6/df3/a09906.html#afbde6c0b26802f684ecf78c2f493cc67", null ],
+    [ "RemoveBanIP", "d6/df3/a09906.html#afcf4857007432ebff042c85c5daf2325", null ]
 ];

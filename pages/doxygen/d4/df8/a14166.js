@@ -1,11 +1,7 @@
 var a14166 =
 [
-    [ "npc_dark_iron_attack_mole_machine", "d4/df8/a14166.html#a473a8fb4905e5d1333196797d7d0f371", null ],
-    [ "AttackStart", "d4/df8/a14166.html#a999dd932fbaf22a8275dfdba150c3291", null ],
-    [ "JustEngagedWith", "d4/df8/a14166.html#a50e0657f33f15bf2ffe83ca4041eb483", null ],
-    [ "MoveInLineOfSight", "d4/df8/a14166.html#a2be5de913ca9d472a31cd44c07bcde57", null ],
-    [ "Reset", "d4/df8/a14166.html#a0727aab751ddfbd94ae070e60e47e768", null ],
-    [ "UpdateAI", "d4/df8/a14166.html#a1217ed510a846d011143ae0a386c6236", null ],
-    [ "goTimer", "d4/df8/a14166.html#a8686845ebef564c9fcaa115866c99749", null ],
-    [ "summonTimer", "d4/df8/a14166.html#a4713da02f4a86547a0f796167e24d8bb", null ]
+    [ "OnRemove", "d4/df8/a14166.html#ab909660f32a77e86fde5da35e2f69302", null ],
+    [ "PrepareAuraScript", "d4/df8/a14166.html#ac95ee854f1f8921bd49fbd59c959d0da", null ],
+    [ "Register", "d4/df8/a14166.html#a42c116ecb7d938bc4b9047ab40ff60ea", null ],
+    [ "Validate", "d4/df8/a14166.html#abd1254c53c04f72f848d8641affc729d", null ]
 ];

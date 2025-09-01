@@ -1,6 +1,6 @@
 var a01664 =
 [
-    [ "Bag", "d9/d1e/a08320.html", "d9/d1e/a08320" ],
-    [ "MAX_BAG_SIZE", "dc/d71/a01664.html#a60a065b8fab298fb24dfd8f22f657d77", null ],
-    [ "NewItemOrBag", "dc/d71/a01664.html#a6b74a54b7de3ced0e27f4128f0d95c64", null ]
+    [ "instance_pit_of_saron", "d0/d47/a17202.html", "d0/d47/a17202" ],
+    [ "instance_pit_of_saron::instance_pit_of_saron_InstanceScript", "d6/da0/a17206.html", "d6/da0/a17206" ],
+    [ "AddSC_instance_pit_of_saron", "dc/d71/a01664.html#a0793b7a11993f477eea1066a2da4bbb2", null ]
 ];

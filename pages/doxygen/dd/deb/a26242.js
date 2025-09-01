@@ -1,9 +1,8 @@
 var a26242 =
 [
-    [ "CheckProc", "dd/deb/a26242.html#ac0e2bf5c1a96ce0502561bb6bcb6ad97", null ],
-    [ "HandleDispel", "dd/deb/a26242.html#a64235032423050de10581165c57f8b0a", null ],
-    [ "HandleProc", "dd/deb/a26242.html#ab1c1196f003f7ff0bf6f6eae5bd6de9a", null ],
-    [ "PrepareAuraScript", "dd/deb/a26242.html#af7ba0eb96dca76a288dd034665822069", null ],
-    [ "Register", "dd/deb/a26242.html#ababc8b42c64740655864d2834a639384", null ],
-    [ "Validate", "dd/deb/a26242.html#a03ecf2489369cbb7a6dff555db153a96", null ]
+    [ "CalculateAmount", "dd/deb/a26242.html#a8751483423726ffa8a33c70b7e55db23", null ],
+    [ "CheckProc", "dd/deb/a26242.html#a046cd1087342cdcbd2e6b0f8ded7c03a", null ],
+    [ "HandleProc", "dd/deb/a26242.html#abda070e7dfbb4ddc8d18cb3d180edc2e", null ],
+    [ "PrepareAuraScript", "dd/deb/a26242.html#a6bb54cea419145875c4086a69e1e55e8", null ],
+    [ "Register", "dd/deb/a26242.html#a8e92638bbdd786ef77b17f00dcf0f643", null ]
 ];

@@ -1,12 +1,13 @@
 var a10318 =
 [
-    [ "GroupScript", "dc/d20/a10318.html#a0680f82522424afc364e9b94e1c6f686", null ],
-    [ "CanGroupJoinBattlegroundQueue", "dc/d20/a10318.html#a931b4a94a2f95958579b37c0af6ece03", null ],
-    [ "IsDatabaseBound", "dc/d20/a10318.html#acb561e8a2d5b3542e228a7beb8122fbf", null ],
-    [ "OnAddMember", "dc/d20/a10318.html#adb279c4c0ba60ffea994f35cd7e91ad1", null ],
-    [ "OnChangeLeader", "dc/d20/a10318.html#a64a1441fd3db3f25236691efcff4a80b", null ],
-    [ "OnCreate", "dc/d20/a10318.html#a18973a7e5f260712f032ca1129d4a0bc", null ],
-    [ "OnDisband", "dc/d20/a10318.html#a3cb94966ba1d02180fb3e7cf95000e5f", null ],
-    [ "OnInviteMember", "dc/d20/a10318.html#a2ae925dc27708fdaa4d5909b582b77a7", null ],
-    [ "OnRemoveMember", "dc/d20/a10318.html#adf640b01746ee92fed31670ee5cc8d0f", null ]
+    [ "FormulaScript", "dc/d20/a10318.html#a0c850c1a09bc78a4ceee5f27615d50d7", null ],
+    [ "OnAfterArenaRatingCalculation", "dc/d20/a10318.html#aa3510b1cfb4661cf6028e1b9f443c865", null ],
+    [ "OnBaseGainCalculation", "dc/d20/a10318.html#ab154eaf469d5fe3e86c364940816270a", null ],
+    [ "OnBeforeUpdatingPersonalRating", "dc/d20/a10318.html#a2208a5684c95b936aa9ca1ae863d9682", null ],
+    [ "OnColorCodeCalculation", "dc/d20/a10318.html#a83893099062d1fb7ce69fe38bf8c4699", null ],
+    [ "OnGainCalculation", "dc/d20/a10318.html#aa83fab65cc89bd03021da2805e935ffb", null ],
+    [ "OnGrayLevelCalculation", "dc/d20/a10318.html#affeb57234f961b9e01f5898c7738f38f", null ],
+    [ "OnGroupRateCalculation", "dc/d20/a10318.html#a1098d29595b4f9206cccf3c3c1dad5f3", null ],
+    [ "OnHonorCalculation", "dc/d20/a10318.html#a54a5e523ad5a9d3eb2dd061ced2d209f", null ],
+    [ "OnZeroDifferenceCalculation", "dc/d20/a10318.html#a7755c35bc56e6645e36de08c12a4847d", null ]
 ];

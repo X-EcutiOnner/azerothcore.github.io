@@ -1,7 +1,7 @@
 var a15466 =
 [
-    [ "HandleDummy", "d7/d5a/a15466.html#a30a87266b89021caf7d05c45397f70d1", null ],
-    [ "PrepareSpellScript", "d7/d5a/a15466.html#a43a92b346088d710719722e8feed9634", null ],
-    [ "Register", "d7/d5a/a15466.html#ad7a53cc6a24197c050ed8577f6c6cc12", null ],
-    [ "Validate", "d7/d5a/a15466.html#a8b5097b623adbc1d8a10d7b1c4c248ab", null ]
+    [ "npc_rizzle_sprysprocketAI", "dc/dc8/a15470.html", "dc/dc8/a15470" ],
+    [ "npc_rizzle_sprysprocket", "d7/d5a/a15466.html#a3bd65f716b42200cc37d2264ddedf735", null ],
+    [ "GetAI", "d7/d5a/a15466.html#ae445545476b4046db305117fa635e7f5", null ],
+    [ "OnGossipHello", "d7/d5a/a15466.html#a3a42f3ffc35683b55de5bcc8d2b24647", null ]
 ];

@@ -1,11 +1,10 @@
 var a12542 =
 [
-    [ "boss_mr_smiteAI", "dd/d0c/a12542.html#a277e52b7086db7e6447c4ad07ff8c8a2", null ],
-    [ "JustEngagedWith", "dd/d0c/a12542.html#a3b2e5636b6c13bc243a067cacc7ab529", null ],
-    [ "MovementInform", "dd/d0c/a12542.html#ade54a8fa42cbbf9febecf1a3eee00fd3", null ],
-    [ "Reset", "dd/d0c/a12542.html#a8b90bbc2a0cdfdb09a3f8ddde2bf4108", null ],
-    [ "UpdateAI", "dd/d0c/a12542.html#aa1693c8cc5bcc60a256f5d61f81cce1a", null ],
-    [ "events", "dd/d0c/a12542.html#a3471692c39233f3c25cdc875c0078f2c", null ],
-    [ "health34", "dd/d0c/a12542.html#adc83683c2f6a7073469cd2f5aa325717", null ],
-    [ "health67", "dd/d0c/a12542.html#af30c26b46b14e9e16fe5d48d4dcf23de", null ]
+    [ "boss_golemaggAI", "dd/d0c/a12542.html#a79e2416a55a1531316d891ebff4e5575", null ],
+    [ "DamageTaken", "dd/d0c/a12542.html#a5f9191609c7ff0715ba186f8ae28262b", null ],
+    [ "Reset", "dd/d0c/a12542.html#aeed4cda9fae3e0b46832ec1bfecb97b0", null ],
+    [ "UpdateAI", "dd/d0c/a12542.html#af7b322731241dbb08041a92cd355f273", null ],
+    [ "earthquakeTimer", "dd/d0c/a12542.html#a6bfd75b1d57d8002cab075bbd5a12612", null ],
+    [ "enraged", "dd/d0c/a12542.html#a52e6d8bcf979d216aff536e8fae3bf01", null ],
+    [ "pyroblastTimer", "dd/d0c/a12542.html#a142ededff85d517c08744bdafd644c34", null ]
 ];

@@ -1,6 +1,6 @@
 var a13658 =
 [
-    [ "npc_marzon_silent_bladeAI", "df/dc8/a13662.html", "df/dc8/a13662" ],
-    [ "npc_marzon_silent_blade", "db/dde/a13658.html#a8fa1c0e11555df45005f37fd9de7f3a8", null ],
-    [ "GetAI", "db/dde/a13658.html#aadde9b84b46c594e41ae8ca3ae0265a1", null ]
+    [ "HandleSendEvent", "db/dde/a13658.html#af62c176d53589228d5e0077c9fc268a3", null ],
+    [ "PrepareSpellScript", "db/dde/a13658.html#acea8e256f267dd496e5f573e982dba5f", null ],
+    [ "Register", "db/dde/a13658.html#a0827e177a8268994bb4e63f07993a354", null ]
 ];

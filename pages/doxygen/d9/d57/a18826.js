@@ -1,6 +1,6 @@
 var a18826 =
 [
-    [ "npc_icc_vengeful_fleshreaperAI", "de/dd3/a18830.html", "de/dd3/a18830" ],
-    [ "npc_icc_vengeful_fleshreaper", "d9/d57/a18826.html#aa95ec1e021f3d123e5a95c356765ac36", null ],
-    [ "GetAI", "d9/d57/a18826.html#abf1903616dbf52718313c8b404b504a5", null ]
+    [ "npc_captain_rupertAI", "de/dd3/a18830.html", "de/dd3/a18830" ],
+    [ "npc_captain_rupert", "d9/d57/a18826.html#a7a4535a6b784b460c79722e9a50c3ff6", null ],
+    [ "GetAI", "d9/d57/a18826.html#a20afc31fc1a8bb09692ab0cc47af3c1b", null ]
 ];

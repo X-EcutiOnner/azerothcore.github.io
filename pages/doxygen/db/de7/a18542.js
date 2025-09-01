@@ -1,8 +1,7 @@
 var a18542 =
 [
-    [ "Load", "db/de7/a18542.html#a3a5fa4814a7724db0ba7be5c5158798b", null ],
-    [ "PeriodicTick", "db/de7/a18542.html#a4ff0ab22db0bbd4483ddb379de069c48", null ],
-    [ "PrepareAuraScript", "db/de7/a18542.html#a029820fbfc34af4d0ccb825a9f9d2b0d", null ],
-    [ "Register", "db/de7/a18542.html#a909819dde9d5154f3d2cf04b04fa33f7", null ],
-    [ "_instance", "db/de7/a18542.html#aebebb858f2ae41f2260d6843b3da8052", null ]
+    [ "CalculateBonus", "db/de7/a18542.html#ae149a739150cb7eb9fb67f19130c0510", null ],
+    [ "OnPeriodic", "db/de7/a18542.html#a19697bd65a325870becc1c30d7deff36", null ],
+    [ "PrepareAuraScript", "db/de7/a18542.html#a77c272d4a26323c421e4b264f79d5b66", null ],
+    [ "Register", "db/de7/a18542.html#aecd8670e3a079c8460cddd5ce0b4f79b", null ]
 ];

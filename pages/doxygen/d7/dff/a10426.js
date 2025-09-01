@@ -1,5 +1,6 @@
 var a10426 =
 [
-    [ "UpdatableScript", "d7/dff/a10426.html#a2d6cf85d1eb98438b5022804296eff11", null ],
-    [ "OnUpdate", "d7/dff/a10426.html#abf328325e08aa0d6adf36e6f70b02328", null ]
+    [ "WorldMapScript", "d7/dff/a10426.html#a49300e796ceb6ab1a40ed9cbb89a9e4d", null ],
+    [ "checkValidity", "d7/dff/a10426.html#aa212e582764d2cfbc5e7e600a54f2cb4", null ],
+    [ "isAfterLoadScript", "d7/dff/a10426.html#a6aeda6e4c8328d7334527cbe69311ddc", null ]
 ];

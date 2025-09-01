@@ -1,6 +1,5 @@
 var a27862 =
 [
-    [ "ChannelID", "d4/d6c/a27862.html#a51753c36711e100fd8dca1cd5b1e7e94", null ],
-    [ "flags", "d4/d6c/a27862.html#aa77db644555e336ccbb8dd138c192425", null ],
-    [ "pattern", "d4/d6c/a27862.html#ad8b550cf444d66eede00abcf2cefec22", null ]
+    [ "npc_necropolis", "d4/d6c/a27862.html#a6535d6dbdc5a6b3c715ca9ec470fb258", null ],
+    [ "SpellHit", "d4/d6c/a27862.html#ae068da7f6b1de5d06568b672d9f46f18", null ]
 ];

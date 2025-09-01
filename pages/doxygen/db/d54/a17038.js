@@ -1,6 +1,12 @@
 var a17038 =
 [
-    [ "npc_pos_leaderAI", "d3/d91/a17042.html", "d3/d91/a17042" ],
-    [ "npc_pos_leader", "db/d54/a17038.html#a690956ba5c822f4cbea9c27c95d5924c", null ],
-    [ "GetAI", "db/d54/a17038.html#a0c0b85bef0b04989dc80d861fa70f463", null ]
+    [ "npc_phantom_mageAI", "db/d54/a17038.html#ac919dc1ba167cc68714320f9351b99d0", null ],
+    [ "AttackStart", "db/d54/a17038.html#ade9ba7071cff655f2c0133481cb9c2bc", null ],
+    [ "DoAction", "db/d54/a17038.html#a6c66df8b8e59a9dc62f1f944da2afc2c", null ],
+    [ "EnterEvadeMode", "db/d54/a17038.html#a6ca0be233e8866b6154fa6e7164b856d", null ],
+    [ "JustDied", "db/d54/a17038.html#a3a522e4c741bc321469ed87c10cf7904", null ],
+    [ "JustEngagedWith", "db/d54/a17038.html#a5a1bf4aaf716674a63e31d24ae4a5d7c", null ],
+    [ "Reset", "db/d54/a17038.html#a5c29c8d54956a0917df3997118348590", null ],
+    [ "UpdateAI", "db/d54/a17038.html#a7135acfbc36212306a68fc8b758e2881", null ],
+    [ "events", "db/d54/a17038.html#afa0f0b5cac0759db324cea7c64463f75", null ]
 ];

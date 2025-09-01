@@ -1,9 +1,9 @@
 var a14202 =
 [
-    [ "CheckCast", "d0/d61/a14202.html#a02965b55e8efadbd21e5afdd824f1dec", null ],
-    [ "FilterTargets", "d0/d61/a14202.html#a9638048b4107db116474abf8e18d7760", null ],
-    [ "HandleBeforeHit", "d0/d61/a14202.html#a3567c72e999ad6ca9db15b4d6ddadafb", null ],
-    [ "HandleScriptEffect", "d0/d61/a14202.html#a47d6a6c1fcb2b04782e54d3797c1f42c", null ],
-    [ "PrepareSpellScript", "d0/d61/a14202.html#aab9211291bd9dab8255d94e4eb07bf8e", null ],
-    [ "Register", "d0/d61/a14202.html#a73e6c9c91dccb309207fa3aeb6bd9d6f", null ]
+    [ "npc_shade_of_jindo", "d0/d61/a14202.html#a86fa95e806aea21fd6db332ea3f18a02", null ],
+    [ "IsSummonedBy", "d0/d61/a14202.html#aaf4eed2de98601844a32fec159f2f5fc", null ],
+    [ "JustEngagedWith", "d0/d61/a14202.html#a450f887c97cfa3ebce91ebd058ed9849", null ],
+    [ "Reset", "d0/d61/a14202.html#abc18dabb6f4f0b85a3b5b2e6f830804f", null ],
+    [ "UpdateAI", "d0/d61/a14202.html#a1aca8192c0655c0ab359f49448f8fafd", null ],
+    [ "_scheduler", "d0/d61/a14202.html#a1d74d8113f5ef117b2968f8f864fcaf4", null ]
 ];

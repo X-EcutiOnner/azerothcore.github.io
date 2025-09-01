@@ -1,7 +1,7 @@
 var a10666 =
 [
-    [ "GuildBankActivate", "da/dd1/a10666.html#a5b27541a26ada694d9635f6d6873ef20", null ],
-    [ "Read", "da/dd1/a10666.html#a8dbde75aaa3102024aa0ff3a8f3625da", null ],
-    [ "Banker", "da/dd1/a10666.html#a9b79075c6ee6a4f73ae18c6956eead7c", null ],
-    [ "FullUpdate", "da/dd1/a10666.html#a50b9a5333e2296e654c90fc6394bdbd3", null ]
+    [ "GuildSetMemberNote", "da/dd1/a10666.html#a4747c3d015cb1b0d0056928fd75e4d18", null ],
+    [ "Read", "da/dd1/a10666.html#a3d90b6ce26d55a55bac1d953dd39b049", null ],
+    [ "Note", "da/dd1/a10666.html#a33b7b73bd5d26c2a0ac99d6dc0131c41", null ],
+    [ "NoteeName", "da/dd1/a10666.html#acf6beb0a5b122a04162e9d2c027203af", null ]
 ];

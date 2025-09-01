@@ -1,13 +1,12 @@
 var a23710 =
 [
-    [ "boss_wrath_scryer_soccothrates", "dc/d7a/a23710.html#a771980c1022e7699c3eb02baccb68a93", null ],
-    [ "InitializeAI", "dc/d7a/a23710.html#ad29f9c200de2f25a74f548c918bb61ac", null ],
-    [ "JustDied", "dc/d7a/a23710.html#a4954041d6a9cbc754d9fcd1d4ab3d38b", null ],
-    [ "JustEngagedWith", "dc/d7a/a23710.html#a09302e6f5e1422232a3024dd24a38fd6", null ],
-    [ "KilledUnit", "dc/d7a/a23710.html#a9b9237e0c8ad1b759c2402de79b3d0bd", null ],
-    [ "MoveInLineOfSight", "dc/d7a/a23710.html#ab75e402ce24ca34c42f80116b8a0726d", null ],
-    [ "Reset", "dc/d7a/a23710.html#a85435a23d36f13e348112348a26e7d12", null ],
-    [ "UpdateAI", "dc/d7a/a23710.html#a41ad9124dec5432feb7ca823f0c8f87f", null ],
-    [ "events2", "dc/d7a/a23710.html#afd4e9a0ab16406a4a452cd89d13d1fe0", null ],
-    [ "preFight", "dc/d7a/a23710.html#a193889ee2815b93a1c9aeee394170fc4", null ]
+    [ "boss_omor_the_unscarred", "dc/d7a/a23710.html#aeef6af0274425d9af5b5ada0d6aa7a2b", null ],
+    [ "JustDied", "dc/d7a/a23710.html#a9ddae483a0f8cefd8a19975b60002660", null ],
+    [ "JustEngagedWith", "dc/d7a/a23710.html#aa874d266d9a5ced45ea2ceb750370b1a", null ],
+    [ "JustSummoned", "dc/d7a/a23710.html#a3503f9d13a5191c71013d77b79a8a4a3", null ],
+    [ "KilledUnit", "dc/d7a/a23710.html#afc5c12a69d51638b67fcdf8098ff7da6", null ],
+    [ "Reset", "dc/d7a/a23710.html#a0ec22c50cd096677a20299ab45a3c344", null ],
+    [ "UpdateAI", "dc/d7a/a23710.html#aeb478325ea00f996b4c3c1584fe3965d", null ],
+    [ "_hasSpoken", "dc/d7a/a23710.html#a3fe7684742f783cb1e68fcc7cfc0de7a", null ],
+    [ "_targetGUID", "dc/d7a/a23710.html#a5ea9161b949e99f0a61498ed05d66d27", null ]
 ];

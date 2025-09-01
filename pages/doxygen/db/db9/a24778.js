@@ -1,9 +1,10 @@
 var a24778 =
 [
-    [ "FilterTargets", "db/db9/a24778.html#ae7a54b8e27f91091b479293cc62ee1f4", null ],
-    [ "PrepareSpellScript", "db/db9/a24778.html#a215b412cfeae9f2763b1c5d3b8a4ca31", null ],
-    [ "Register", "db/db9/a24778.html#ae790485f5b27fe34a0a26c3d6fc7ed41", null ],
-    [ "SetTargets", "db/db9/a24778.html#ac77e95af9b08118e87e3329eab5515ea", null ],
-    [ "Validate", "db/db9/a24778.html#a8e4b1ff1577f25334b50e25bffc021cc", null ],
-    [ "_targets", "db/db9/a24778.html#acc66768f54c514552f0ab01274c24f17", null ]
+    [ "HandleEffectRemove", "db/db9/a24778.html#a3b43cfcbbfa8fdbf170c76dd12b72074", null ],
+    [ "HandleImprovedBloodPresence", "db/db9/a24778.html#a020c0ae1f74856ae070ab2104232a079", null ],
+    [ "HandleImprovedFrostPresence", "db/db9/a24778.html#a262bfd40ee2f2d8ed793f999f660ba28", null ],
+    [ "HandleImprovedUnholyPresence", "db/db9/a24778.html#a5da86bb3686327787da5f46fc756f0a0", null ],
+    [ "PrepareAuraScript", "db/db9/a24778.html#a96453bb078359e46665e0eaa2a6cf6d1", null ],
+    [ "Register", "db/db9/a24778.html#a6534d2b5bca9a50830d20b08bfc1b84e", null ],
+    [ "Validate", "db/db9/a24778.html#afc23187a3a6dd48f2ad84ef354e36f3a", null ]
 ];

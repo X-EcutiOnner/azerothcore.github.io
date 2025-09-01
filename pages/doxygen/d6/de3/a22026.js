@@ -1,6 +1,6 @@
 var a22026 =
 [
-    [ "npc_plaguehound_trackerAI", "d6/de3/a22026.html#a7530f500b42ad9bb38593193d3113da8", null ],
-    [ "Reset", "d6/de3/a22026.html#a05c351ab3aca0cd18209405075bb0f47", null ],
-    [ "WaypointReached", "d6/de3/a22026.html#a67c345f49572cde76d9109a1baff6788", null ]
+    [ "npc_q24545_vegardAI", "db/d81/a22030.html", "db/d81/a22030" ],
+    [ "npc_q24545_vegard", "d6/de3/a22026.html#ac12e2f143fab6b93950eaea06f5f7d85", null ],
+    [ "GetAI", "d6/de3/a22026.html#a9a7accfb3eea9f08efbb82fbd4bd7e76", null ]
 ];

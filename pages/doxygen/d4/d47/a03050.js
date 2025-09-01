@@ -1,17 +1,19 @@
 var a03050 =
 [
-    [ "instance_zulgurub", "d5/d64/a14180.html", "d5/d64/a14180" ],
-    [ "instance_zulgurub::instance_zulgurub_InstanceMapScript", "d3/d8c/a14184.html", "d3/d8c/a14184" ],
-    [ "go_brazier_of_madness", "d9/dda/a14188.html", "d9/dda/a14188" ],
-    [ "EdgeOfMadnessEnum", "d4/d47/a03050.html#a45822838f1310b1a812eba191cb3d416", [
-      [ "EVENT_EDGE_OF_MADNESS_GRILEK", "d4/d47/a03050.html#a45822838f1310b1a812eba191cb3d416ad02945634d7affb86fe4a6fa1baee9e7", null ],
-      [ "EVENT_EDGE_OF_MADNESS_HAZZARAH", "d4/d47/a03050.html#a45822838f1310b1a812eba191cb3d416a8ec0daec449beba98b500943bcacc8e4", null ],
-      [ "EVENT_EDGE_OF_MADNESS_RENATAKI", "d4/d47/a03050.html#a45822838f1310b1a812eba191cb3d416a4d7aeb529f52ed41b6c933726f9e2e1d", null ],
-      [ "EVENT_EDGE_OF_MADNESS_WUSHOOLAY", "d4/d47/a03050.html#a45822838f1310b1a812eba191cb3d416ac13476b6183a6ba6aad91191ef3c1073", null ]
+    [ "BattlegroundRL", "d8/ddb/a07442.html", "d8/ddb/a07442" ],
+    [ "BattlegroundRLObjects", "d4/d47/a03050.html#a07ba947d37c83568823ee5313377497a", [
+      [ "BG_RL_OBJECT_TYPE_DOOR_1", "d4/d47/a03050.html#a07ba947d37c83568823ee5313377497aa4af54ddc0fa71a41b26c859580db7fb0", null ],
+      [ "BG_RL_OBJECT_TYPE_DOOR_2", "d4/d47/a03050.html#a07ba947d37c83568823ee5313377497aa13210caaf34c5aa100455cf4f74d43d1", null ],
+      [ "BG_RL_OBJECT_TYPE_BUFF_1", "d4/d47/a03050.html#a07ba947d37c83568823ee5313377497aaf7212d012d9018e008f475bd21bae934", null ],
+      [ "BG_RL_OBJECT_TYPE_BUFF_2", "d4/d47/a03050.html#a07ba947d37c83568823ee5313377497aa5e706f8c7f110903f7301b47b0487921", null ]
     ] ],
-    [ "AddSC_instance_zulgurub", "d4/d47/a03050.html#a224e147b1990c0996e0ac61a1865e34c", null ],
-    [ "BrazierOfMadnessContainer", "d4/d47/a03050.html#a808ff75d7f4ab6555cdc154544ef727f", null ],
-    [ "creatureData", "d4/d47/a03050.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "doorData", "d4/d47/a03050.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
-    [ "edgeOfMagnessSummonPos", "d4/d47/a03050.html#a352683729da59da9923d0f67d510f73c", null ]
+    [ "BattlegroundRLObjectTypes", "d4/d47/a03050.html#a5b40294f7ef8f041d61eaa6911993b24", [
+      [ "BG_RL_OBJECT_DOOR_1", "d4/d47/a03050.html#a5b40294f7ef8f041d61eaa6911993b24ab647ed9553d4e532699cd1b551014636", null ],
+      [ "BG_RL_OBJECT_DOOR_2", "d4/d47/a03050.html#a5b40294f7ef8f041d61eaa6911993b24a9dfe9b550ad26c408445bfe72f064058", null ],
+      [ "BG_RL_OBJECT_BUFF_1", "d4/d47/a03050.html#a5b40294f7ef8f041d61eaa6911993b24a793477ef5d11b6f41cfb62d8c354e8d4", null ],
+      [ "BG_RL_OBJECT_BUFF_2", "d4/d47/a03050.html#a5b40294f7ef8f041d61eaa6911993b24a670a77d5efbe30024d0ffb16acd5dfac", null ],
+      [ "BG_RL_OBJECT_READY_MARKER_1", "d4/d47/a03050.html#a5b40294f7ef8f041d61eaa6911993b24a2ea82a43036f0e733ad4aab7a53ea0b2", null ],
+      [ "BG_RL_OBJECT_READY_MARKER_2", "d4/d47/a03050.html#a5b40294f7ef8f041d61eaa6911993b24a199d2d1b5ee7f52820b2aae38a98a755", null ],
+      [ "BG_RL_OBJECT_MAX", "d4/d47/a03050.html#a5b40294f7ef8f041d61eaa6911993b24a7b6737d574968476c6ecb6d1bbf03813", null ]
+    ] ]
 ];

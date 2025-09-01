@@ -1,6 +1,8 @@
 var a26942 =
 [
-    [ "HandleHeal", "df/d71/a26942.html#a03afbdbdc8555fc2d558a5e48f7340a0", null ],
-    [ "PrepareSpellScript", "df/d71/a26942.html#a61a601108cd59e5d87634c02b002e20d", null ],
-    [ "Register", "df/d71/a26942.html#ae46c965fc77aa61aaa3c426c8ecc585c", null ]
+    [ "CalcPeriodic", "df/d71/a26942.html#a42770d7f7e5bd41cd3f0a283c544c642", null ],
+    [ "CalculateAmount", "df/d71/a26942.html#a525009acb345d6b0a9857c30cfce2230", null ],
+    [ "HandlePeriodic", "df/d71/a26942.html#a4c75f793388b533d00a52ad18f18bc6e", null ],
+    [ "PrepareAuraScript", "df/d71/a26942.html#a5627212e48a3044a9a7480851787a839", null ],
+    [ "Register", "df/d71/a26942.html#a09ea5265d7105a4bd487d383948901a0", null ]
 ];

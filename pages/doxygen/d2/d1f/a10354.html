@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: MovementHandlerScript Class Reference</title>
+<title>AzerothCore: GenericInstanceMapScript&lt; IS &gt; Class Template Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,71 +106,114 @@ $(document).ready(function(){initNavTree('d2/d1f/a10354.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pro-methods">Protected Member Functions</a> &#124;
 <a href="../../d5/d80/a10351.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">MovementHandlerScript Class Reference</div></div>
+  <div class="headertitle"><div class="title">GenericInstanceMapScript&lt; IS &gt; Class Template Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">MovementHandlerScript.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">InstanceMapScript.h</a>&quot;</code></p>
 <div class="dynheader">
-Inheritance diagram for MovementHandlerScript:</div>
+Inheritance diagram for GenericInstanceMapScript&lt; IS &gt;:</div>
 <div class="dyncontent">
  <div class="center">
-  <img src="../../d2/d1f/a10354.png" usemap="#MovementHandlerScript_map" alt=""/>
-  <map id="MovementHandlerScript_map" name="MovementHandlerScript_map">
-<area href="../../d5/d45/a10422.html" alt="ScriptObject" shape="rect" coords="0,0,148,24"/>
+  <img src="../../d2/d1f/a10354.png" usemap="#GenericInstanceMapScript_3C_20IS_20_3E_map" alt=""/>
+  <map id="GenericInstanceMapScript_3C_20IS_20_3E_map" name="GenericInstanceMapScript_3C_20IS_20_3E_map">
+<area href="../../db/d4f/a10350.html" alt="InstanceMapScript" shape="rect" coords="103,112,300,136"/>
+<area href="../../d2/df6/a10446.html" alt="ScriptObject" shape="rect" coords="0,56,197,80"/>
+<area href="../../d9/d15/a10454.html" alt="MapScript&lt; InstanceMap &gt;" shape="rect" coords="207,56,404,80"/>
+<area href="../../de/d72/a10450.html" alt="UpdatableScript&lt; TObject &gt;" shape="rect" coords="207,0,404,24"/>
   </map>
 </div></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:ac1604e58c8ecab26ce4159fb43a86a68"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d1f/a10354.html#ac1604e58c8ecab26ce4159fb43a86a68">OnPlayerMove</a> (<a class="el" href="../../dc/dd9/a08606.html">Player</a> *, <a class="el" href="../../db/de7/a08366.html">MovementInfo</a>, <a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>)</td></tr>
-<tr class="separator:ac1604e58c8ecab26ce4159fb43a86a68"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="inherit_header pub_methods_a10422"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a10422')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../d5/d45/a10422.html">ScriptObject</a></td></tr>
-<tr class="memitem:a37da453729d5c8fbe2d06f905563f47c inherit pub_methods_a10422"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d45/a10422.html#a37da453729d5c8fbe2d06f905563f47c">IsDatabaseBound</a> () const</td></tr>
-<tr class="separator:a37da453729d5c8fbe2d06f905563f47c inherit pub_methods_a10422"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2f66339b1cdf1fde795c61cd24c8b0a2 inherit pub_methods_a10422"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d45/a10422.html#a2f66339b1cdf1fde795c61cd24c8b0a2">isAfterLoadScript</a> () const</td></tr>
-<tr class="separator:a2f66339b1cdf1fde795c61cd24c8b0a2 inherit pub_methods_a10422"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a585e75e34aed7aa32205daad85f8fe08 inherit pub_methods_a10422"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d45/a10422.html#a585e75e34aed7aa32205daad85f8fe08">checkValidity</a> ()</td></tr>
-<tr class="separator:a585e75e34aed7aa32205daad85f8fe08 inherit pub_methods_a10422"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a79588d839860d2f5caab60c5f1368f10 inherit pub_methods_a10422"><td class="memItemLeft" align="right" valign="top">const std::string &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d45/a10422.html#a79588d839860d2f5caab60c5f1368f10">GetName</a> () const</td></tr>
-<tr class="separator:a79588d839860d2f5caab60c5f1368f10 inherit pub_methods_a10422"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a69ee35ec7d54226264efef558022c1c0 inherit pub_methods_a10422"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/de7/a00014.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d45/a10422.html#a69ee35ec7d54226264efef558022c1c0">GetTotalAvailableHooks</a> ()</td></tr>
-<tr class="separator:a69ee35ec7d54226264efef558022c1c0 inherit pub_methods_a10422"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a39aef4c434d791f18fc04ea692bf2255"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d1f/a10354.html#a39aef4c434d791f18fc04ea692bf2255">GenericInstanceMapScript</a> (char const *name, <a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> mapId)</td></tr>
+<tr class="separator:a39aef4c434d791f18fc04ea692bf2255"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8ca7180c1d2f8fb213e8b52bb73b2f76"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/dd1/a09682.html">InstanceScript</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d1f/a10354.html#a8ca7180c1d2f8fb213e8b52bb73b2f76">GetInstanceScript</a> (<a class="el" href="../../de/d38/a09838.html">InstanceMap</a> *map) const override</td></tr>
+<tr class="separator:a8ca7180c1d2f8fb213e8b52bb73b2f76"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pub_methods_a10350"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a10350')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../db/d4f/a10350.html">InstanceMapScript</a></td></tr>
+<tr class="memitem:ab77651bb427813a7e119057c3dc53ca8 inherit pub_methods_a10350"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d4f/a10350.html#ab77651bb427813a7e119057c3dc53ca8">IsDatabaseBound</a> () const override</td></tr>
+<tr class="separator:ab77651bb427813a7e119057c3dc53ca8 inherit pub_methods_a10350"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a221dd91e2d2f761e66d990a6cae42306 inherit pub_methods_a10350"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d4f/a10350.html#a221dd91e2d2f761e66d990a6cae42306">checkValidity</a> () override</td></tr>
+<tr class="separator:a221dd91e2d2f761e66d990a6cae42306 inherit pub_methods_a10350"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa5a9acfc5a7c81a4953fe0e296f9bcc8 inherit pub_methods_a10350"><td class="memItemLeft" align="right" valign="top">virtual <a class="el" href="../../de/dd1/a09682.html">InstanceScript</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d4f/a10350.html#aa5a9acfc5a7c81a4953fe0e296f9bcc8">GetInstanceScript</a> (<a class="el" href="../../de/d38/a09838.html">InstanceMap</a> *) const</td></tr>
+<tr class="separator:aa5a9acfc5a7c81a4953fe0e296f9bcc8 inherit pub_methods_a10350"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pub_methods_a10446"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a10446')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../d2/df6/a10446.html">ScriptObject</a></td></tr>
+<tr class="memitem:a37da453729d5c8fbe2d06f905563f47c inherit pub_methods_a10446"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/df6/a10446.html#a37da453729d5c8fbe2d06f905563f47c">IsDatabaseBound</a> () const</td></tr>
+<tr class="separator:a37da453729d5c8fbe2d06f905563f47c inherit pub_methods_a10446"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2f66339b1cdf1fde795c61cd24c8b0a2 inherit pub_methods_a10446"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/df6/a10446.html#a2f66339b1cdf1fde795c61cd24c8b0a2">isAfterLoadScript</a> () const</td></tr>
+<tr class="separator:a2f66339b1cdf1fde795c61cd24c8b0a2 inherit pub_methods_a10446"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a585e75e34aed7aa32205daad85f8fe08 inherit pub_methods_a10446"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/df6/a10446.html#a585e75e34aed7aa32205daad85f8fe08">checkValidity</a> ()</td></tr>
+<tr class="separator:a585e75e34aed7aa32205daad85f8fe08 inherit pub_methods_a10446"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a79588d839860d2f5caab60c5f1368f10 inherit pub_methods_a10446"><td class="memItemLeft" align="right" valign="top">const std::string &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/df6/a10446.html#a79588d839860d2f5caab60c5f1368f10">GetName</a> () const</td></tr>
+<tr class="separator:a79588d839860d2f5caab60c5f1368f10 inherit pub_methods_a10446"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a69ee35ec7d54226264efef558022c1c0 inherit pub_methods_a10446"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/df6/a10446.html#a69ee35ec7d54226264efef558022c1c0">GetTotalAvailableHooks</a> ()</td></tr>
+<tr class="separator:a69ee35ec7d54226264efef558022c1c0 inherit pub_methods_a10446"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pub_methods_a10454"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a10454')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../d9/d15/a10454.html">MapScript&lt; InstanceMap &gt;</a></td></tr>
+<tr class="memitem:abf3fbb90119e1ac5d13455217ac95a2f inherit pub_methods_a10454"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d15/a10454.html#abf3fbb90119e1ac5d13455217ac95a2f">checkMap</a> ()</td></tr>
+<tr class="separator:abf3fbb90119e1ac5d13455217ac95a2f inherit pub_methods_a10454"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa2da3eeec627cb67719d774d35f03488 inherit pub_methods_a10454"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../df/dd6/a28466.html">MapEntry</a> const *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d15/a10454.html#aa2da3eeec627cb67719d774d35f03488">GetEntry</a> ()</td></tr>
+<tr class="separator:aa2da3eeec627cb67719d774d35f03488 inherit pub_methods_a10454"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8132edffb918e8b3b1131ae29a8d9e9b inherit pub_methods_a10454"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d15/a10454.html#a8132edffb918e8b3b1131ae29a8d9e9b">OnCreate</a> (<a class="el" href="../../de/d38/a09838.html">InstanceMap</a> *)</td></tr>
+<tr class="separator:a8132edffb918e8b3b1131ae29a8d9e9b inherit pub_methods_a10454"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4631768d457c2804f057c565d6e8fb7a inherit pub_methods_a10454"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d15/a10454.html#a4631768d457c2804f057c565d6e8fb7a">OnDestroy</a> (<a class="el" href="../../de/d38/a09838.html">InstanceMap</a> *)</td></tr>
+<tr class="separator:a4631768d457c2804f057c565d6e8fb7a inherit pub_methods_a10454"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a77381401d4638c6149f21836f1ca6676 inherit pub_methods_a10454"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d15/a10454.html#a77381401d4638c6149f21836f1ca6676">OnLoadGridMap</a> (<a class="el" href="../../de/d38/a09838.html">InstanceMap</a> *, <a class="el" href="../../d0/d3e/a09170.html">GridTerrainData</a> *, <a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>)</td></tr>
+<tr class="separator:a77381401d4638c6149f21836f1ca6676 inherit pub_methods_a10454"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a657bcd69e932d358e2c66daa6f571cfe inherit pub_methods_a10454"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d15/a10454.html#a657bcd69e932d358e2c66daa6f571cfe">OnUnloadGridMap</a> (<a class="el" href="../../de/d38/a09838.html">InstanceMap</a> *, <a class="el" href="../../d0/d3e/a09170.html">GridTerrainData</a> *, <a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>)</td></tr>
+<tr class="separator:a657bcd69e932d358e2c66daa6f571cfe inherit pub_methods_a10454"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9cef8253d591e729b4119312ec0b670a inherit pub_methods_a10454"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d15/a10454.html#a9cef8253d591e729b4119312ec0b670a">OnPlayerEnter</a> (<a class="el" href="../../de/d38/a09838.html">InstanceMap</a> *, <a class="el" href="../../d4/d95/a08630.html">Player</a> *)</td></tr>
+<tr class="separator:a9cef8253d591e729b4119312ec0b670a inherit pub_methods_a10454"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3d74ae0f2535cda31cf2d4125600f3e2 inherit pub_methods_a10454"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d15/a10454.html#a3d74ae0f2535cda31cf2d4125600f3e2">OnPlayerLeave</a> (<a class="el" href="../../de/d38/a09838.html">InstanceMap</a> *, <a class="el" href="../../d4/d95/a08630.html">Player</a> *)</td></tr>
+<tr class="separator:a3d74ae0f2535cda31cf2d4125600f3e2 inherit pub_methods_a10454"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4e447511780a0c561e16b9e118361f63 inherit pub_methods_a10454"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d15/a10454.html#a4e447511780a0c561e16b9e118361f63">OnUpdate</a> (<a class="el" href="../../de/d38/a09838.html">InstanceMap</a> *, <a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>) override</td></tr>
+<tr class="separator:a4e447511780a0c561e16b9e118361f63 inherit pub_methods_a10454"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pub_methods_a10450"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a10450')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../de/d72/a10450.html">UpdatableScript&lt; TObject &gt;</a></td></tr>
+<tr class="memitem:abf328325e08aa0d6adf36e6f70b02328 inherit pub_methods_a10450"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d72/a10450.html#abf328325e08aa0d6adf36e6f70b02328">OnUpdate</a> (TObject *, <a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>)</td></tr>
+<tr class="separator:abf328325e08aa0d6adf36e6f70b02328 inherit pub_methods_a10450"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-methods" name="pro-methods"></a>
-Protected Member Functions</h2></td></tr>
-<tr class="memitem:aeeeb5fe81eebc04fc317e726782be3ab"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d1f/a10354.html#aeeeb5fe81eebc04fc317e726782be3ab">MovementHandlerScript</a> (const char *name, std::vector&lt; <a class="el" href="../../d2/de7/a00014.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> &gt; enabledHooks=std::vector&lt; <a class="el" href="../../d2/de7/a00014.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> &gt;())</td></tr>
-<tr class="separator:aeeeb5fe81eebc04fc317e726782be3ab"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="inherit_header pro_methods_a10422"><td colspan="2" onclick="javascript:toggleInherit('pro_methods_a10422')"><img src="../../closed.png" alt="-"/>&#160;Protected Member Functions inherited from <a class="el" href="../../d5/d45/a10422.html">ScriptObject</a></td></tr>
-<tr class="memitem:ae4ca97cf587379c94354e4889ff8c0c2 inherit pro_methods_a10422"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d45/a10422.html#ae4ca97cf587379c94354e4889ff8c0c2">ScriptObject</a> (const char *name, <a class="el" href="../../d2/de7/a00014.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> totalAvailableHooks=0)</td></tr>
-<tr class="separator:ae4ca97cf587379c94354e4889ff8c0c2 inherit pro_methods_a10422"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a80c704c939f54eee6655d68509598c42 inherit pro_methods_a10422"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d45/a10422.html#a80c704c939f54eee6655d68509598c42">~ScriptObject</a> ()=default</td></tr>
-<tr class="separator:a80c704c939f54eee6655d68509598c42 inherit pro_methods_a10422"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="inherited" name="inherited"></a>
+Additional Inherited Members</h2></td></tr>
+<tr class="inherit_header pro_methods_a10350"><td colspan="2" onclick="javascript:toggleInherit('pro_methods_a10350')"><img src="../../closed.png" alt="-"/>&#160;Protected Member Functions inherited from <a class="el" href="../../db/d4f/a10350.html">InstanceMapScript</a></td></tr>
+<tr class="memitem:a350d328f82cc5e7ea43f3c8779d25a67 inherit pro_methods_a10350"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d4f/a10350.html#a350d328f82cc5e7ea43f3c8779d25a67">InstanceMapScript</a> (const char *name, <a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> mapId)</td></tr>
+<tr class="separator:a350d328f82cc5e7ea43f3c8779d25a67 inherit pro_methods_a10350"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pro_methods_a10446"><td colspan="2" onclick="javascript:toggleInherit('pro_methods_a10446')"><img src="../../closed.png" alt="-"/>&#160;Protected Member Functions inherited from <a class="el" href="../../d2/df6/a10446.html">ScriptObject</a></td></tr>
+<tr class="memitem:ae4ca97cf587379c94354e4889ff8c0c2 inherit pro_methods_a10446"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/df6/a10446.html#ae4ca97cf587379c94354e4889ff8c0c2">ScriptObject</a> (const char *name, <a class="el" href="../../d0/d61/a00302.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> totalAvailableHooks=0)</td></tr>
+<tr class="separator:ae4ca97cf587379c94354e4889ff8c0c2 inherit pro_methods_a10446"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a80c704c939f54eee6655d68509598c42 inherit pro_methods_a10446"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/df6/a10446.html#a80c704c939f54eee6655d68509598c42">~ScriptObject</a> ()=default</td></tr>
+<tr class="separator:a80c704c939f54eee6655d68509598c42 inherit pro_methods_a10446"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pro_methods_a10454"><td colspan="2" onclick="javascript:toggleInherit('pro_methods_a10454')"><img src="../../closed.png" alt="-"/>&#160;Protected Member Functions inherited from <a class="el" href="../../d9/d15/a10454.html">MapScript&lt; InstanceMap &gt;</a></td></tr>
+<tr class="memitem:a1932ac48acf7c937c060ee35804e79da inherit pro_methods_a10454"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d15/a10454.html#a1932ac48acf7c937c060ee35804e79da">MapScript</a> (<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> mapId)</td></tr>
+<tr class="separator:a1932ac48acf7c937c060ee35804e79da inherit pro_methods_a10454"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pro_methods_a10450"><td colspan="2" onclick="javascript:toggleInherit('pro_methods_a10450')"><img src="../../closed.png" alt="-"/>&#160;Protected Member Functions inherited from <a class="el" href="../../de/d72/a10450.html">UpdatableScript&lt; TObject &gt;</a></td></tr>
+<tr class="memitem:a2d6cf85d1eb98438b5022804296eff11 inherit pro_methods_a10450"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d72/a10450.html#a2d6cf85d1eb98438b5022804296eff11">UpdatableScript</a> ()=default</td></tr>
+<tr class="separator:a2d6cf85d1eb98438b5022804296eff11 inherit pro_methods_a10450"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="aeeeb5fe81eebc04fc317e726782be3ab" name="aeeeb5fe81eebc04fc317e726782be3ab"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aeeeb5fe81eebc04fc317e726782be3ab">&#9670;&#160;</a></span>MovementHandlerScript()</h2>
+<div class="textblock"><div class="compoundTemplParams">template&lt;typename IS&gt;<br />
+class GenericInstanceMapScript&lt; IS &gt;</div></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="a39aef4c434d791f18fc04ea692bf2255" name="a39aef4c434d791f18fc04ea692bf2255"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a39aef4c434d791f18fc04ea692bf2255">&#9670;&#160;</a></span>GenericInstanceMapScript()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;typename IS &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">MovementHandlerScript::MovementHandlerScript </td>
+          <td class="memname"><a class="el" href="../../d2/d1f/a10354.html">GenericInstanceMapScript</a>&lt; IS &gt;<a class="el" href="../../d2/d1f/a10354.html">::GenericInstanceMapScript</a> </td>
           <td>(</td>
-          <td class="paramtype">const char *&#160;</td>
+          <td class="paramtype">char const *&#160;</td>
           <td class="paramname"><em>name</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">std::vector&lt; <a class="el" href="../../d2/de7/a00014.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> &gt;&#160;</td>
-          <td class="paramname"><em>enabledHooks</em> = <code>std::vector&lt;<a class="el" href="../../d2/de7/a00014.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&gt;()</code>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>mapId</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -180,70 +223,44 @@ Protected Member Functions</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   27</span>                                                                                             :</div>
-<div class="line"><span class="lineno">   28</span>    <a class="code hl_class" href="../../d5/d45/a10422.html">ScriptObject</a>(name, <a class="code hl_enumvalue" href="../../d3/d92/a01796.html#a5763e953c65ba38409a14469a1fe2842ae0cf6cfe134c99cc596bac2607905b9c">MOVEMENTHOOK_END</a>)</div>
-<div class="line"><span class="lineno">   29</span>{</div>
-<div class="line"><span class="lineno">   30</span>    <span class="comment">// If empty - enable all available hooks.</span></div>
-<div class="line"><span class="lineno">   31</span>    <span class="keywordflow">if</span> (enabledHooks.empty())</div>
-<div class="line"><span class="lineno">   32</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d2/de7/a00014.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> i = 0; i &lt; <a class="code hl_enumvalue" href="../../d3/d92/a01796.html#a5763e953c65ba38409a14469a1fe2842ae0cf6cfe134c99cc596bac2607905b9c">MOVEMENTHOOK_END</a>; ++i)</div>
-<div class="line"><span class="lineno">   33</span>            enabledHooks.emplace_back(i);</div>
-<div class="line"><span class="lineno">   34</span> </div>
-<div class="line"><span class="lineno">   35</span>    <a class="code hl_function" href="../../d5/d43/a10418.html#a4a25c0e3b90f6af4563baf0e7a1c0622">ScriptRegistry&lt;MovementHandlerScript&gt;::AddScript</a>(<span class="keyword">this</span>, std::move(enabledHooks));</div>
-<div class="line"><span class="lineno">   36</span>}</div>
-<div class="ttc" id="aa00014_html_ad9c79638db63f1dfe2b085743b5cbf7b"><div class="ttname"><a href="../../d2/de7/a00014.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a></div><div class="ttdeci">std::uint16_t uint16</div><div class="ttdef"><b>Definition:</b> Define.h:108</div></div>
-<div class="ttc" id="aa01796_html_a5763e953c65ba38409a14469a1fe2842ae0cf6cfe134c99cc596bac2607905b9c"><div class="ttname"><a href="../../d3/d92/a01796.html#a5763e953c65ba38409a14469a1fe2842ae0cf6cfe134c99cc596bac2607905b9c">MOVEMENTHOOK_END</a></div><div class="ttdeci">@ MOVEMENTHOOK_END</div><div class="ttdef"><b>Definition:</b> MovementHandlerScript.h:28</div></div>
-<div class="ttc" id="aa10418_html_a4a25c0e3b90f6af4563baf0e7a1c0622"><div class="ttname"><a href="../../d5/d43/a10418.html#a4a25c0e3b90f6af4563baf0e7a1c0622">ScriptRegistry::AddScript</a></div><div class="ttdeci">static void AddScript(TScript *const script, std::vector&lt; uint16 &gt; enabledHooks={})</div><div class="ttdef"><b>Definition:</b> ScriptMgr.h:756</div></div>
-<div class="ttc" id="aa10422_html"><div class="ttname"><a href="../../d5/d45/a10422.html">ScriptObject</a></div><div class="ttdef"><b>Definition:</b> ScriptObject.h:43</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   41</span>: <a class="code hl_class" href="../../db/d4f/a10350.html">InstanceMapScript</a>(name, mapId) { }</div>
+<div class="ttc" id="aa10350_html"><div class="ttname"><a href="../../db/d4f/a10350.html">InstanceMapScript</a></div><div class="ttdef"><b>Definition:</b> InstanceMapScript.h:24</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00756">ScriptRegistry&lt; TScript &gt;::AddScript()</a>, and <a class="el" href="../../#l00028">MOVEMENTHOOK_END</a>.</p>
-
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="ac1604e58c8ecab26ce4159fb43a86a68" name="ac1604e58c8ecab26ce4159fb43a86a68"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac1604e58c8ecab26ce4159fb43a86a68">&#9670;&#160;</a></span>OnPlayerMove()</h2>
+<a id="a8ca7180c1d2f8fb213e8b52bb73b2f76" name="a8ca7180c1d2f8fb213e8b52bb73b2f76"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8ca7180c1d2f8fb213e8b52bb73b2f76">&#9670;&#160;</a></span>GetInstanceScript()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;typename IS &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">virtual void MovementHandlerScript::OnPlayerMove </td>
+          <td class="memname"><a class="el" href="../../de/dd1/a09682.html">InstanceScript</a> * <a class="el" href="../../d2/d1f/a10354.html">GenericInstanceMapScript</a>&lt; IS &gt;::GetInstanceScript </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../dc/dd9/a08606.html">Player</a> *&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../db/de7/a08366.html">MovementInfo</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
+          <td class="paramtype"><a class="el" href="../../de/d38/a09838.html">InstanceMap</a> *&#160;</td>
+          <td class="paramname"><em>map</em></td><td>)</td>
+          <td> const</td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">override</span><span class="mlabel">virtual</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   38</span>{ }</div>
+
+<p>Reimplemented from <a class="el" href="../../db/d4f/a10350.html#aa5a9acfc5a7c81a4953fe0e296f9bcc8">InstanceMapScript</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">   42</span>{ <span class="keywordflow">return</span> <span class="keyword">new</span> IS(map); }</div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -252,8 +269,8 @@ Protected Member Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d2/d1f/a10354.html">MovementHandlerScript</a></li>
-    <li class="footer">Generated on Mon Aug 4 2025 20:51:36 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d2/d1f/a10354.html">GenericInstanceMapScript</a></li>
+    <li class="footer">Generated on Mon Sep 1 2025 20:43:49 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

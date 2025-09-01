@@ -1,6 +1,10 @@
 var a19430 =
 [
-    [ "npc_centrifuge_constructAI", "d0/d67/a19434.html", "d0/d67/a19434" ],
-    [ "npc_centrifuge_construct", "de/db7/a19430.html#a3822eca10ab4a96126e0b4685751f4d3", null ],
-    [ "GetAI", "de/db7/a19430.html#a7356047de8a6d7bc6e903e982db2bc00", null ]
+    [ "npc_scion_of_eternityAI", "de/db7/a19430.html#a2893db70b6a1ffa14d02dd5cea7f7c0a", null ],
+    [ "AttackStart", "de/db7/a19430.html#a1335f9e34ff73d5501455062be025ada", null ],
+    [ "JustDied", "de/db7/a19430.html#a81dcae5ef2bbd28b891e46c377fbe153", null ],
+    [ "MoveInLineOfSight", "de/db7/a19430.html#a74a69fa532f0921285ef678bbd2fa761", null ],
+    [ "UpdateAI", "de/db7/a19430.html#adb16afb6ea1583a7156b80a8d833951a", null ],
+    [ "events", "de/db7/a19430.html#ae0e194a24a14033a499e68524da1699d", null ],
+    [ "pInstance", "de/db7/a19430.html#aa828ca4a75696645d7aa350f1f981f40", null ]
 ];

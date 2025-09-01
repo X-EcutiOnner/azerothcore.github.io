@@ -1,7 +1,6 @@
 var a13150 =
 [
-    [ "OnPeriodic", "da/d57/a13150.html#ab193b7cf8a8fe91879317e7d21522976", null ],
-    [ "PrepareAuraScript", "da/d57/a13150.html#a5dca6bc670612f0b0e8e99381c97bf11", null ],
-    [ "Register", "da/d57/a13150.html#ac6e0621064e5e0a77e1cdbfa8dbb6a54", null ],
-    [ "Validate", "da/d57/a13150.html#a290b864756ceff85d52ba3f974a28217", null ]
+    [ "npc_acherus_necromancerAI", "d1/d76/a13154.html", "d1/d76/a13154" ],
+    [ "npc_acherus_necromancer", "da/d57/a13150.html#a14ca04a1656a6bb0c842ecb709aba1a7", null ],
+    [ "GetAI", "da/d57/a13150.html#af43b1908b1d99868ea5a3899fe8ebd02", null ]
 ];

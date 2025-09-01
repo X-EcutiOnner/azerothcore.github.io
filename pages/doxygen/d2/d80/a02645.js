@@ -1,20 +1,21 @@
 var a02645 =
 [
-    [ "go_necropolis", "da/d34/a27728.html", "da/d34/a27728" ],
-    [ "npc_herald_of_the_lich_king", "da/df9/a27732.html", "da/df9/a27732" ],
-    [ "npc_necropolis", "d4/df4/a27736.html", "d4/df4/a27736" ],
-    [ "npc_necropolis_health", "dc/d74/a27740.html", "dc/d74/a27740" ],
-    [ "npc_necropolis_proxy", "d0/d8b/a27744.html", "d0/d8b/a27744" ],
-    [ "npc_necropolis_relay", "d3/de1/a27748.html", "d3/de1/a27748" ],
-    [ "npc_necrotic_shard", "da/d8d/a27752.html", "da/d8d/a27752" ],
-    [ "npc_minion_spawner", "d2/de6/a27756.html", "d2/de6/a27756" ],
-    [ "npc_cultist_engineer", "dd/d88/a27760.html", "dd/d88/a27760" ],
-    [ "npc_shadow_of_doom", "dc/dc5/a27764.html", "dc/dc5/a27764" ],
-    [ "npc_flameshocker", "dd/db1/a27768.html", "dd/db1/a27768" ],
-    [ "npc_pallid_horror", "d6/da6/a27772.html", "d6/da6/a27772" ],
-    [ "npc_pallid_horror::FlameshockerCheck", "d1/dfd/a27776.html", "d1/dfd/a27776" ],
-    [ "spell_despawner_self", "de/d29/a27780.html", "de/d29/a27780" ],
-    [ "spell_communique_trigger", "db/dc3/a27784.html", "db/dc3/a27784" ],
-    [ "spell_scourge_invasion_scourge_strike", "d5/d19/a27788.html", "d5/d19/a27788" ],
-    [ "AddSC_scourge_invasion", "d2/d80/a02645.html#a5e9656f80b8e7b4176a6271aadc2d8e7", null ]
+    [ "instance_blackwing_lair", "d5/d0f/a12474.html", "d5/d0f/a12474" ],
+    [ "instance_blackwing_lair::instance_blackwing_lair_InstanceMapScript", "dd/d4f/a12478.html", "dd/d4f/a12478" ],
+    [ "spell_bwl_shadowflame", "d5/d81/a12482.html", "d5/d81/a12482" ],
+    [ "at_orb_of_command", "de/dca/a12486.html", "de/dca/a12486" ],
+    [ "orb_of_command_misc", "d2/d80/a02645.html#a5ddae3d5f11ae5a5d826e7e18d4cded5", [
+      [ "QUEST_BLACKHANDS_COMMAND", "d2/d80/a02645.html#a5ddae3d5f11ae5a5d826e7e18d4cded5ae1d5923d960c45957f7789ee3d943db5", null ]
+    ] ],
+    [ "ShadowFlame", "d2/d80/a02645.html#a18a82309d32c08f1de5944fde20789fa", [
+      [ "SPELL_ONYXIA_SCALE_CLOAK", "d2/d80/a02645.html#a18a82309d32c08f1de5944fde20789faa2f64e1a42a1d2fb4d6c849100de2c7d0", null ],
+      [ "SPELL_SHADOW_FLAME_DOT", "d2/d80/a02645.html#a18a82309d32c08f1de5944fde20789faaed2cf39ef97aea751e32c5249fc8fc3e", null ]
+    ] ],
+    [ "AddSC_instance_blackwing_lair", "d2/d80/a02645.html#a942a9ad3e1b872492dfc7d62615df103", null ],
+    [ "creatureData", "d2/d80/a02645.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "doorData", "d2/d80/a02645.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
+    [ "Entry", "d2/d80/a02645.html#a79d118516d0621008a183666ffecc3ad", null ],
+    [ "objectData", "d2/d80/a02645.html#a59ddfa91084111da23b5d47482e4ff8d", null ],
+    [ "orbOfCommandTP", "d2/d80/a02645.html#a9ee49a7ad7d4b8e8f52533faa578370f", null ],
+    [ "SummonPosition", "d2/d80/a02645.html#a2c79c628fd8c60d02dc0b2368a70be04", null ]
 ];

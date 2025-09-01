@@ -1,11 +1,11 @@
 var a12086 =
 [
-    [ "boss_quartermaster_zigris", "dc/d83/a12086.html#a1d2f68327cc9b88fdd82d44ac8446d57", null ],
-    [ "DamageTaken", "dc/d83/a12086.html#a61d7f1c4e5a2901812f1175ccce69ab2", null ],
-    [ "JustDied", "dc/d83/a12086.html#a9295bbcffd7968051a789e8dfb634e23", null ],
-    [ "JustEngagedWith", "dc/d83/a12086.html#af482c06e00e7f6c15b290115998a27a9", null ],
-    [ "Reset", "dc/d83/a12086.html#a71e911bb91b7447e8aed28cdccfda8db", null ],
-    [ "SpellHitTarget", "dc/d83/a12086.html#a38197746cc73ada1378e6e1a5555ef79", null ],
-    [ "UpdateAI", "dc/d83/a12086.html#a400f7ace05cd5c4d127aecf5d771c616", null ],
-    [ "_hasDrunkPotion", "dc/d83/a12086.html#a25335533bc43171687e03f1ed22d4fb3", null ]
+    [ "boss_high_interrogator_gerstahnAI", "dc/d83/a12086.html#a557fda67d1d1de268ba661350ba915dc", null ],
+    [ "JustEngagedWith", "dc/d83/a12086.html#a80e01faa471f9e83e85c3c47fd815dea", null ],
+    [ "Reset", "dc/d83/a12086.html#ab63099f83037b3716d1e2b9c21d7d607", null ],
+    [ "UpdateAI", "dc/d83/a12086.html#a67b34f7cf4c62a57bc9fb556f5fb0b81", null ],
+    [ "ManaBurn_Timer", "dc/d83/a12086.html#aede307f972942c15c4b2bfa90e75856d", null ],
+    [ "PsychicScream_Timer", "dc/d83/a12086.html#a291f3484e4d125fefe437d96b12153f1", null ],
+    [ "ShadowShield_Timer", "dc/d83/a12086.html#a7ba151c46b097825dca9b8e3ac2cdee9", null ],
+    [ "ShadowWordPain_Timer", "dc/d83/a12086.html#aec0eab93e8494bc1abc87d81460fac31", null ]
 ];

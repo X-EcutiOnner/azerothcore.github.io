@@ -1,12 +1,9 @@
 var a10790 =
 [
-    [ "StartMirrorTimer", "de/d50/a10790.html#a86039d4a721636477f266712682883f0", null ],
-    [ "StartMirrorTimer", "de/d50/a10790.html#a5202945882fb3cb5dd8574b6e6f8d5b0", null ],
-    [ "Write", "de/d50/a10790.html#afa6cc6032804e3d8f3f7797b2231847f", null ],
-    [ "MaxValue", "de/d50/a10790.html#a3f26c682d547be40d2800eff2189348d", null ],
-    [ "Paused", "de/d50/a10790.html#af3994b2c6a57e734f9d1ebeedcab7759", null ],
-    [ "Scale", "de/d50/a10790.html#a5879b6c796d7d7c2fd59001d2813a6b3", null ],
-    [ "SpellID", "de/d50/a10790.html#a3d90aa3046eb6272249f8fe171d7cd2f", null ],
-    [ "Timer", "de/d50/a10790.html#abb9dbec2c5df4b2dfbc96314a0465011", null ],
-    [ "Value", "de/d50/a10790.html#ad0f2f8f95fdea9a7555e3056bb49cc53", null ]
+    [ "SwapItem", "de/d50/a10790.html#a603871bfd69a2bcc2083de350f48875a", null ],
+    [ "Read", "de/d50/a10790.html#a475122a155c96446ecad1b92ef5c7a19", null ],
+    [ "DestinationBag", "de/d50/a10790.html#a30a5a1fccf9c028fa207e58dd0ff82b6", null ],
+    [ "DestinationSlot", "de/d50/a10790.html#a0cf0b21ebfccb843ee23831e17982081", null ],
+    [ "SourceBag", "de/d50/a10790.html#a19d0895bf7a25da8d8bdaceed14ff0a1", null ],
+    [ "SourceSlot", "de/d50/a10790.html#ab080d55f63eb07c8db090123260bee23", null ]
 ];

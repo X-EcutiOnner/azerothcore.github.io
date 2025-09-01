@@ -1,10 +1,10 @@
 var a14998 =
 [
-    [ "boss_moam", "dc/d77/a14998.html#a9a7a9f410efc5a05e46fd05f331e96c9", null ],
-    [ "InitializeAI", "dc/d77/a14998.html#a2c8bde24fb3811e29c91a57258a243e5", null ],
-    [ "JustDied", "dc/d77/a14998.html#a06b843bddd8f2759fa733c5169e0a5e6", null ],
-    [ "JustEngagedWith", "dc/d77/a14998.html#ad33ba2f2cf9c83f37856aa6f2212637b", null ],
-    [ "Reset", "dc/d77/a14998.html#a4112940fbe1f8be8e7adee7dbc48a9ae", null ],
-    [ "SummonedCreatureDies", "dc/d77/a14998.html#a8401c5e2bd216deee197617b78d85222", null ],
-    [ "UpdateAI", "dc/d77/a14998.html#aadd8320c6194923b113967d3d6c49a5e", null ]
+    [ "boss_aeonus", "dc/d77/a14998.html#af823ef2187b852dc72d2f63020e1701b", null ],
+    [ "IsSummonedBy", "dc/d77/a14998.html#a5f95e19dfec210d4da1f1f48145ff047", null ],
+    [ "JustDied", "dc/d77/a14998.html#a649275c31e61f542a13fd791ee85277b", null ],
+    [ "JustEngagedWith", "dc/d77/a14998.html#a5f193144e36a889630d5dbadb4aa665f", null ],
+    [ "JustReachedHome", "dc/d77/a14998.html#a62df4db3ead6f9be5c3ead974613c8d5", null ],
+    [ "KilledUnit", "dc/d77/a14998.html#a4aa2f3d82aaaf5cd3a938ad92aad059d", null ],
+    [ "MoveInLineOfSight", "dc/d77/a14998.html#a3147774fa5bff34d01947fdcf254ba7b", null ]
 ];

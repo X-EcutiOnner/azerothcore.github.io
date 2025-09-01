@@ -1,12 +1,8 @@
 var a13554 =
 [
-    [ "npc_eastvale_peasent", "d3/d18/a13554.html#a5282dac41228569d4431d84c1f160f05", null ],
-    [ "Initialize", "d3/d18/a13554.html#a8b73aa30b0b4a984d8644e6d9541461d", null ],
-    [ "PathEndReached", "d3/d18/a13554.html#a002ec21e0715b020aa19cd0839408033", null ],
-    [ "Reset", "d3/d18/a13554.html#a7eb6cf174a46fd31c8c5241649fcebdc", null ],
-    [ "SetData", "d3/d18/a13554.html#add14d9505880727e208e7ef9428f5acd", null ],
-    [ "UpdateAI", "d3/d18/a13554.html#a868eb38757bf7bc02d5b3ffa66feb375", null ],
-    [ "_events", "d3/d18/a13554.html#a1b310b07481366042dc45f7a27ce6408", null ],
-    [ "_path", "d3/d18/a13554.html#a907db8e6148947248b5bcfdb35023e16", null ],
-    [ "_realenGUID", "d3/d18/a13554.html#aad06364be8698b5ba69cd229e2a5085b", null ]
+    [ "HandleApply", "d3/d18/a13554.html#a2c64240e8675fc76598600ae2632570f", null ],
+    [ "HandleRemove", "d3/d18/a13554.html#a2a6e32bbc9b722ad7e872c6a26daa6bb", null ],
+    [ "PrepareAuraScript", "d3/d18/a13554.html#a6ff74fbaf3a6ef84024d55528fd6f8e2", null ],
+    [ "Register", "d3/d18/a13554.html#aebfb4b20a9b0ebefff652a0ae1727994", null ],
+    [ "Validate", "d3/d18/a13554.html#abdad49fe5e0a72799847fdfcfe22eec0", null ]
 ];

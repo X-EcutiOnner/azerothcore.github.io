@@ -1,8 +1,8 @@
 var a19810 =
 [
-    [ "OnPeriodic", "d1/d43/a19810.html#a56d101b26b220994aeb035e5fbc1f26e", null ],
-    [ "OnRemove", "d1/d43/a19810.html#ac6d961793ddb6423540da9d97e016b82", null ],
-    [ "PrepareAuraScript", "d1/d43/a19810.html#a9384a764bf9c48d12e7f62af99897ce4", null ],
-    [ "Register", "d1/d43/a19810.html#a69f5474dacdf220ffebe18bd5cf8a32f", null ],
-    [ "Validate", "d1/d43/a19810.html#a11d985c5e17c8b3cb34096000fda66ac", null ]
+    [ "dark_rune_protectorsAI", "d1/d43/a19810.html#ae2f3cfd19e565ede132e38f439a930ba", null ],
+    [ "JustEngagedWith", "d1/d43/a19810.html#aa71514efa488ff8f9276cb2a4c166759", null ],
+    [ "Reset", "d1/d43/a19810.html#a88305b8ac016175d61a0387d1888671f", null ],
+    [ "UpdateAI", "d1/d43/a19810.html#a0e27fc91a01362ee58a0eb10fb9a5176", null ],
+    [ "events", "d1/d43/a19810.html#a2836d6f142a322dae0aed9ff6a4888e2", null ]
 ];

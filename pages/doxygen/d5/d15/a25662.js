@@ -1,8 +1,7 @@
 var a25662 =
 [
-    [ "HandleProc", "d5/d15/a25662.html#ad92c7804b26bd29d135e55c8adad9093", null ],
-    [ "OnRemove", "d5/d15/a25662.html#afa8e065ed835243f3ebb95c10792adf8", null ],
-    [ "PrepareAuraScript", "d5/d15/a25662.html#a5e986f77b23fd0402089ea36f0360c79", null ],
-    [ "Register", "d5/d15/a25662.html#a29d66b9790e3f7dfffb5dc398f26f9fb", null ],
-    [ "Validate", "d5/d15/a25662.html#a51f81afec6ff0918530208d9de9dae24", null ]
+    [ "CalcPeriodic", "d5/d15/a25662.html#a5847ba4daad49dca2527513055fa4429", null ],
+    [ "PrepareAuraScript", "d5/d15/a25662.html#a8753419b2fa1b1bb96a08bf54995e82c", null ],
+    [ "Register", "d5/d15/a25662.html#a08f851e5582831d5dd05878c4a55db67", null ],
+    [ "Update", "d5/d15/a25662.html#a3ab2716cbccc1311992de44e6591d966", null ]
 ];

@@ -1,6 +1,7 @@
 var a11138 =
 [
-    [ "WorldObjectSpellConeTargetCheck", "dd/dfb/a11138.html#a51fa6de40d065bd7ba52f4dc982f9a5e", null ],
-    [ "operator()", "dd/dfb/a11138.html#ac66207a4d1dbc9f59269127ee91f0657", null ],
-    [ "_coneAngle", "dd/dfb/a11138.html#a8f946789292320ea8b205dec5d1e1975", null ]
+    [ "Player", "dd/dfb/a11138.html#a7f4241aa9ecc051c75f779af132a52ed", null ],
+    [ "WorldSession", "dd/dfb/a11138.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
+    [ "FactionChange", "dd/dfb/a11138.html#adff657ead29df26ead5e20a8ecf44e87", null ],
+    [ "Race", "dd/dfb/a11138.html#a98d5fd43205a0c9e2d3be75d384ce00c", null ]
 ];

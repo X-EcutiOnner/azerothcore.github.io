@@ -1,6 +1,7 @@
 var a19466 =
 [
-    [ "HandlePeriodic", "d0/da9/a19466.html#a08717e9e8e974fcd7051c45fd1d26893", null ],
-    [ "PrepareAuraScript", "d0/da9/a19466.html#abf7b2d81ee81ff27388678e9a5433eac", null ],
-    [ "Register", "d0/da9/a19466.html#ac98109fe8d9192ae97e4aa5dc10463cf", null ]
+    [ "EoEDrakeEnterVehicleEvent", "d0/da9/a19466.html#afc529efe07da017e529dc6d5ebc6e7dc", null ],
+    [ "Execute", "d0/da9/a19466.html#a368a613ba7861f7903b80e6f7f0dd64f", null ],
+    [ "_owner", "d0/da9/a19466.html#ab48302fdff800afddfeec2c0d756873c", null ],
+    [ "_playerGUID", "d0/da9/a19466.html#add56bff0695453e01f300e0434a39ec8", null ]
 ];

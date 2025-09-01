@@ -1,6 +1,6 @@
 var a19702 =
 [
-    [ "npc_living_constellationAI", "d9/dbf/a19706.html", "d9/dbf/a19706" ],
-    [ "npc_living_constellation", "d7/df7/a19702.html#a6ee651a525498cb5715ccfedaa26e05d", null ],
-    [ "GetAI", "d7/df7/a19702.html#a4533812a4da72c0d9eff6d6c9eaf772a", null ]
+    [ "CalculateDamage", "d7/df7/a19702.html#ae38f8cfb44de2798d7a284c942617678", null ],
+    [ "PrepareSpellScript", "d7/df7/a19702.html#a043955d56e0ae4c54d70e8fe6e417dd1", null ],
+    [ "Register", "d7/df7/a19702.html#ab4b32d2db39c8d9079a83c89d63ccd93", null ]
 ];

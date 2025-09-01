@@ -1,8 +1,6 @@
 var a13018 =
 [
-    [ "npc_highlord_darion_mograineAI", "d4/d3f/a13022.html", "d4/d3f/a13022" ],
-    [ "npc_highlord_darion_mograine", "d1/d5c/a13018.html#a86680b1a140c706b10fd48befc572286", null ],
-    [ "GetAI", "d1/d5c/a13018.html#a350539ed741fa372ffff92ffbc6e6260", null ],
-    [ "OnGossipHello", "d1/d5c/a13018.html#a35afc9d80b4570163af9f6013949a70c", null ],
-    [ "OnGossipSelect", "d1/d5c/a13018.html#a0539d24556c16a1a72be8258c752f5f5", null ]
+    [ "instance_magisters_terrace_InstanceMapScript", "d4/d3f/a13022.html", "d4/d3f/a13022" ],
+    [ "instance_magisters_terrace", "d1/d5c/a13018.html#a81e23ce04c4d765193d2d2763ef78987", null ],
+    [ "GetInstanceScript", "d1/d5c/a13018.html#a465cbaebb13535cdb7f6a2108e026fc5", null ]
 ];

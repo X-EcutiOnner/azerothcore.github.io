@@ -1,18 +1,15 @@
 var a14618 =
 [
-    [ "boss_archimonde", "db/df3/a14618.html#a25e52499f80d4c3edb4dd5cf02b95d18", null ],
-    [ "DoAction", "db/df3/a14618.html#aba420f926ccdfc6feeb16a0e6d67267f", null ],
-    [ "DoCastDoomFire", "db/df3/a14618.html#a409cad381c6562f44fcf8f66a5965ec4", null ],
-    [ "EnterEvadeMode", "db/df3/a14618.html#aac09090d17c336e9935cfce7ff1c8d60", null ],
-    [ "JustEngagedWith", "db/df3/a14618.html#a31c526a5e72c4244df101918388c777c", null ],
-    [ "JustSummoned", "db/df3/a14618.html#a6db990f64d884f1290c77b8ec73b8fb0", null ],
-    [ "KilledUnit", "db/df3/a14618.html#a341ab97e59cfe989572fdcceff434e4e", null ],
-    [ "Reset", "db/df3/a14618.html#a905918f9fc654c4c1fa1aa99980d39e6", null ],
-    [ "SetGUID", "db/df3/a14618.html#a9008cf454dc7e2eeba36c0a45193db7a", null ],
-    [ "UnleashSoulCharge", "db/df3/a14618.html#a93f93fe116c75a24dc15bb521b038a27", null ],
-    [ "_availableAuras", "db/df3/a14618.html#a552869a0fd5141094a021e3aaaada051", null ],
-    [ "_availableSpells", "db/df3/a14618.html#a388a8bafb4407e371a58d3a7d090c754", null ],
-    [ "_enraged", "db/df3/a14618.html#a1e295ff6ae857c7a022acf967afd0de0", null ],
-    [ "_isChanneling", "db/df3/a14618.html#ad967688caad8a6c7530bfd4709aecb06", null ],
-    [ "_wispCount", "db/df3/a14618.html#aa2ec2fcd92ed81f76fb238af9dbad53e", null ]
+    [ "npc_midsummer_bonfire", "db/df3/a14618.html#a07c8b1add555697fdb29fda89f42c4af", null ],
+    [ "Ignite", "db/df3/a14618.html#a2a398299b3584e3a871b1b6e83b4ff5f", null ],
+    [ "InitBonfire", "db/df3/a14618.html#a9210a0a472d609f66895bfa0a8e324b0", null ],
+    [ "SpellHit", "db/df3/a14618.html#a9ad2102b2dea60fbb81c1578b97f34dc", null ],
+    [ "StampOut", "db/df3/a14618.html#a1f8bd11d0f49c0a44764a2f34e6ee147", null ],
+    [ "UpdateAI", "db/df3/a14618.html#a46733a171006e4693a32391cfe954050", null ],
+    [ "UpdateBonfireBlessingBuffs", "db/df3/a14618.html#a1236b61f21ff1a1b85bbc7058ca8e17c", null ],
+    [ "_bonfire", "db/df3/a14618.html#aaa2f2822cb5c104ec2d90c2a344b409d", null ],
+    [ "_isStampedOut", "db/df3/a14618.html#aa21c9f7a5d7ac29663d94da55ef34373", null ],
+    [ "_spellFocus", "db/df3/a14618.html#abef815568f7d39bbda20f9611e3abc52", null ],
+    [ "_teamId", "db/df3/a14618.html#a5c0894721d13dd49961c0687c100d7a5", null ],
+    [ "_type", "db/df3/a14618.html#a7c26b81f24dc2fc0ed9fc53d1d5935f5", null ]
 ];

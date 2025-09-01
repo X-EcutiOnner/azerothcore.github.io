@@ -1,6 +1,7 @@
 var a24010 =
 [
-    [ "npc_aeranasAI", "d4/dae/a24014.html", "d4/dae/a24014" ],
-    [ "npc_aeranas", "d2/d98/a24010.html#a6ea71481ef6a223a329b805081122537", null ],
-    [ "GetAI", "d2/d98/a24010.html#a81167df6665bdca81ee13468dec19643", null ]
+    [ "HandleEffect", "d2/d98/a24010.html#ac0fb38f62cc9a41eb70b2ca951f9d1dc", null ],
+    [ "PrepareSpellScript", "d2/d98/a24010.html#abbbffa0a53dc2a55df5e7b17a7f4d38f", null ],
+    [ "Register", "d2/d98/a24010.html#ac406946bb793125d49006e3a877c9638", null ],
+    [ "SelectTarget", "d2/d98/a24010.html#ac36f3d88a0ef8ccaee5bac17bffcaf49", null ]
 ];

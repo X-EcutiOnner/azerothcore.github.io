@@ -1,8 +1,8 @@
 var a18522 =
 [
-    [ "npc_blistering_zombieAI", "d1/d10/a18522.html#acf278cd2249ac45a4b043427ba36b3ce", null ],
-    [ "DamageTaken", "d1/d10/a18522.html#adf031992078214f90d859df2b54aac91", null ],
-    [ "UpdateAI", "d1/d10/a18522.html#ae081898b8dcaf45cd3069e79021de452", null ],
-    [ "casted", "d1/d10/a18522.html#a0f70f5d58ef0bb20f64b0aec4df04905", null ],
-    [ "timer", "d1/d10/a18522.html#a8b865c2a87b1fc020d8250767febab0a", null ]
+    [ "Load", "d1/d10/a18522.html#aabd997d6db5fd38b1fdd97d90b1347e9", null ],
+    [ "OnRemove", "d1/d10/a18522.html#a43b23e5c53cca872a26737d790f2893d", null ],
+    [ "PrepareAuraScript", "d1/d10/a18522.html#ae51bcb37894240c6fd064cd329698a55", null ],
+    [ "Register", "d1/d10/a18522.html#ad6247c7f8abf41cd6190d5252ed6834e", null ],
+    [ "Validate", "d1/d10/a18522.html#a45696018a8810cf1f11fbddcd853d1f4", null ]
 ];

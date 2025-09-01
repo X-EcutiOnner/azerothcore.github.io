@@ -1,7 +1,7 @@
 var a13854 =
 [
-    [ "OnPeriodic", "d3/d19/a13854.html#aa541a8bc034517d1f5d034ac51bd8dac", null ],
-    [ "PrepareAuraScript", "d3/d19/a13854.html#abc166e4dc33e7bffd1d53c2ef8272efa", null ],
-    [ "Register", "d3/d19/a13854.html#a60313d4ba992b1dc81e7cdae942f1b3d", null ],
-    [ "Validate", "d3/d19/a13854.html#a7ed214de6769314a45540e9afdb82949", null ]
+    [ "npc_lady_sylvanas_windrunnerAI", "d2/d17/a13858.html", "d2/d17/a13858" ],
+    [ "npc_lady_sylvanas_windrunner", "d3/d19/a13854.html#ab3da21f58b68003f50cf0c3d5ce22028", null ],
+    [ "GetAI", "d3/d19/a13854.html#abc382c04be0a8ed46299d1c4b2d008dc", null ],
+    [ "OnQuestReward", "d3/d19/a13854.html#ae0031c5305a03a376dd84e950eb4a23b", null ]
 ];

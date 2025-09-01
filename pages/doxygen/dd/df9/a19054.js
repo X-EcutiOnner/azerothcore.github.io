@@ -1,6 +1,5 @@
 var a19054 =
 [
-    [ "boss_heiganAI", "da/d51/a19058.html", "da/d51/a19058" ],
-    [ "boss_heigan", "dd/df9/a19054.html#aefa3a6d870bde0d33504c5f2b56572be", null ],
-    [ "GetAI", "dd/df9/a19054.html#ad9edf8eade874c1ecc2cecdac17700a1", null ]
+    [ "at_frozen_throne_teleport", "dd/df9/a19054.html#a8065b9f9b55b267be1757775f84de349", null ],
+    [ "OnTrigger", "dd/df9/a19054.html#ae1f9476b7f47320f545e702e9317bd03", null ]
 ];

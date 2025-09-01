@@ -1,6 +1,6 @@
 var a18150 =
 [
-    [ "HandleScript", "d4/d85/a18150.html#a038a827f7fe179ff56ab581efdf08790", null ],
-    [ "PrepareSpellScript", "d4/d85/a18150.html#a9ffd37bb54ce5e4a73d7d93eaddda2dd", null ],
-    [ "Register", "d4/d85/a18150.html#a6018f3a74a1b61042bb0ff6c02b76611", null ]
+    [ "ExtraRemoveEffect", "d4/d85/a18150.html#a49b1087d66606ddeebe6918ad05d4b37", null ],
+    [ "PrepareAuraScript", "d4/d85/a18150.html#a41992ed6c23275d3a910915755b682f9", null ],
+    [ "Register", "d4/d85/a18150.html#ab956cb95473cf0c5fc9fb2af14fc945e", null ]
 ];

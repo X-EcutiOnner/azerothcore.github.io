@@ -1,8 +1,20 @@
 var a24386 =
 [
-    [ "npc_pet_gen_valkyr_guardian", "db/dfe/a24386.html#a546f0b0b4273de8216e9f688c2d68209", null ],
-    [ "InitializeAI", "db/dfe/a24386.html#ac32c8bb1e1014015a0ab92417bbc78a9", null ],
-    [ "OwnerAttacked", "db/dfe/a24386.html#a7f0bcedd78d88cdc802ba66c0ff7d927", null ],
-    [ "UpdateAI", "db/dfe/a24386.html#a9a5a233763365c6cca5618459a23a816", null ],
-    [ "targetCheck", "db/dfe/a24386.html#aa530b6b6415c85cd76f44d625329c2fb", null ]
+    [ "npc_lord_illidan_stormrageAI", "db/dfe/a24386.html#a3b48b42c72b51bbdb222f6cd03e50ec8", null ],
+    [ "AttackStart", "db/dfe/a24386.html#a5f73b83a07f24403cf55de7ef485c003", null ],
+    [ "CheckEventFail", "db/dfe/a24386.html#aef1607c2132ae78b45d4f209a4320a88", null ],
+    [ "JustEngagedWith", "db/dfe/a24386.html#af7166b3c7401a74615cdb5c0964200f6", null ],
+    [ "LiveCounter", "db/dfe/a24386.html#a625b2891d3f9807da7733f678ea29313", null ],
+    [ "MoveInLineOfSight", "db/dfe/a24386.html#a5c2313ac5767339cd26196f52ff05c5f", null ],
+    [ "Reset", "db/dfe/a24386.html#a035b85302d54adf9bd7af82cadfd0317", null ],
+    [ "SummonNextWave", "db/dfe/a24386.html#a240ee54d49248a1700e767568fe93648", null ],
+    [ "UpdateAI", "db/dfe/a24386.html#a9cf7d73c5f81980c08f785dc3af47dec", null ],
+    [ "Announced", "db/dfe/a24386.html#a448ba6e2b21273b8e07b6d0a79e856e2", null ],
+    [ "AnnounceTimer", "db/dfe/a24386.html#a7037e4b43f274f3e2ce45143c029b070", null ],
+    [ "EventStarted", "db/dfe/a24386.html#a41b3b39d2ea0eeca4b60960f3a903ee8", null ],
+    [ "Failed", "db/dfe/a24386.html#aba564e34f0358d6c2a3c6ae91e17bf10", null ],
+    [ "LiveCount", "db/dfe/a24386.html#ab86239a6470a82749f96eb5515c46c59", null ],
+    [ "PlayerGUID", "db/dfe/a24386.html#af30c5c09f0262479b8920269f7bf198a", null ],
+    [ "WaveCount", "db/dfe/a24386.html#abdd03400f582e9477bb376e2b34e7a0e", null ],
+    [ "WaveTimer", "db/dfe/a24386.html#ae727157e6b52817051fea075c2cb7cb1", null ]
 ];

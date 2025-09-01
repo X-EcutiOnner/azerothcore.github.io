@@ -1,6 +1,6 @@
 var a13050 =
 [
-    [ "boss_darkmaster_gandlingAI", "dc/d37/a13054.html", "dc/d37/a13054" ],
-    [ "boss_darkmaster_gandling", "d9/ddc/a13050.html#a6db73fa3c8324f6bfdcb1ae6a72ee39b", null ],
-    [ "GetAI", "d9/ddc/a13050.html#a21ea53862614303af31a517a53d1fbf6", null ]
+    [ "npc_scarlet_ghoulAI", "dc/d37/a13054.html", "dc/d37/a13054" ],
+    [ "npc_scarlet_ghoul", "d9/ddc/a13050.html#aa58b0d1c3fb411cac184bc1fc50f4fb3", null ],
+    [ "GetAI", "d9/ddc/a13050.html#a88d2639b1a4f087d3e1b95475a094d21", null ]
 ];

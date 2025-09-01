@@ -1,7 +1,8 @@
 var a16146 =
 [
-    [ "OnApply", "d4/d27/a16146.html#ad072d243dd148e1b34aea29a2e5d175e", null ],
-    [ "PrepareAuraScript", "d4/d27/a16146.html#ae657ceca517aa3f725ba72c18ddbaf1c", null ],
-    [ "Register", "d4/d27/a16146.html#a4eab0bd70eb884f7736e90f9001d3cc7", null ],
-    [ "Validate", "d4/d27/a16146.html#a2c9e4d82bd25f439e01a05700563b122", null ]
+    [ "boss_sartharion_shadronAI", "d4/d27/a16146.html#a02e2e657ac74ab37a4568589511de664", null ],
+    [ "ExecuteEvent", "d4/d27/a16146.html#a6a26f1f777988be6eaf8b1a675bbbabb", null ],
+    [ "HandleExtraEvent", "d4/d27/a16146.html#a3db5e816f6253f9c4251690bfbbe1912", null ],
+    [ "Reset", "d4/d27/a16146.html#a7054cde1de2166c2b06489187115cb3f", null ],
+    [ "SummonedCreatureDies", "d4/d27/a16146.html#a8b70b3b7287108ad13caeb85a83cf26f", null ]
 ];

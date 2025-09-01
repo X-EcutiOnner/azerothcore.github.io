@@ -1,8 +1,28 @@
 var a09182 =
 [
-    [ "AIRelocationNotifier", "d9/d7f/a09182.html#ab19dba99802231bc1ba7b3ae3cb4bdb3", null ],
-    [ "Visit", "d9/d7f/a09182.html#a06dd774a24d4a1da36a2a862c0ad97df", null ],
-    [ "Visit", "d9/d7f/a09182.html#a0ec9a2499d73516dd2d4a0319990924a", null ],
-    [ "i_unit", "d9/d7f/a09182.html#ab1dd814e4d94ed2989bb07012a24d40e", null ],
-    [ "isCreature", "d9/d7f/a09182.html#a199f4b91d00dd4db90855e5521d87a95", null ]
+    [ "GridCellType", "d9/d7f/a09182.html#a6ced2887358290f2692b8db27dc41fb8", null ],
+    [ "MapGrid", "d9/d7f/a09182.html#a5a5527e45f5cc524239acb698dfe0ff7", null ],
+    [ "AddGridObject", "d9/d7f/a09182.html#abfea9e8bec580dac11237d6bcf6ec46e", null ],
+    [ "GetCell", "d9/d7f/a09182.html#a30c7f339b38eba7a77d6fb34d5395411", null ],
+    [ "GetCell", "d9/d7f/a09182.html#a378b23eccae84332c069c549133bc03c", null ],
+    [ "GetCreatedCellsCount", "d9/d7f/a09182.html#aded0cc17a54db0321be745f9cc95dc4e", null ],
+    [ "GetId", "d9/d7f/a09182.html#a8a8807a8f90c9694f554af6717f4286d", null ],
+    [ "GetOrCreateCell", "d9/d7f/a09182.html#a774391ed70044178fc03206fea734f90", null ],
+    [ "GetTerrainData", "d9/d7f/a09182.html#a9cfa711f304248c1985cde543f83bdad", null ],
+    [ "GetTerrainDataSharedPtr", "d9/d7f/a09182.html#a975fa6b75e233afcc81147e8cc1e53bf", null ],
+    [ "GetX", "d9/d7f/a09182.html#a420df2970102922ab072a71ad89957f3", null ],
+    [ "GetY", "d9/d7f/a09182.html#ae38f53c8d5a2198790e633b603a0efe4", null ],
+    [ "IsObjectDataLoaded", "d9/d7f/a09182.html#a824577c333b59aebfc157443e8da3fa9", null ],
+    [ "link", "d9/d7f/a09182.html#abebb5ce3cfb117458f4f2661ade5aa15", null ],
+    [ "RemoveGridObject", "d9/d7f/a09182.html#a0bae3e5f1cf87a79f83d6204f9ad696e", null ],
+    [ "SetObjectDataLoaded", "d9/d7f/a09182.html#aae2eb655a0f6ed87d6196337efa27c82", null ],
+    [ "SetTerrainData", "d9/d7f/a09182.html#a4445ba094cd6681df7b07fef51fd1ab2", null ],
+    [ "VisitAllCells", "d9/d7f/a09182.html#a25496dddb5597d97fb70dfce8df9e77f", null ],
+    [ "VisitCell", "d9/d7f/a09182.html#a60901382f4cff8186a680e87edf483ea", null ],
+    [ "_cells", "d9/d7f/a09182.html#ae376cc135fa8cca2db88a6f37ce2e7bb", null ],
+    [ "_gridReference", "d9/d7f/a09182.html#a104d3a9e3c74020d8399135a1799c982", null ],
+    [ "_objectDataLoaded", "d9/d7f/a09182.html#ac4260f267d6c81fae4ce35936e49ef17", null ],
+    [ "_terrainData", "d9/d7f/a09182.html#a7e60b5410badcf791a1976e14f68327b", null ],
+    [ "_x", "d9/d7f/a09182.html#a581ecc3257ea512918e128a4be0c91e2", null ],
+    [ "_y", "d9/d7f/a09182.html#a2371c93b5dc5255a78498f4595fca3db", null ]
 ];

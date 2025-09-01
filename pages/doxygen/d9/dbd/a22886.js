@@ -1,6 +1,6 @@
 var a22886 =
 [
-    [ "boss_reliquary_of_soulsAI", "de/d60/a22890.html", "de/d60/a22890" ],
-    [ "boss_reliquary_of_souls", "d9/dbd/a22886.html#a0c73fc6221da0b19903e534932ca6406", null ],
-    [ "GetAI", "d9/dbd/a22886.html#a55b717fe2b1bfdda84fec6c63852ae7c", null ]
+    [ "HandleScriptEffect", "d9/dbd/a22886.html#a21740b341acce23e284a3d4ceea9b6e0", null ],
+    [ "PrepareSpellScript", "d9/dbd/a22886.html#addcd30a673390ca8b76eab5ccb5f4245", null ],
+    [ "Register", "d9/dbd/a22886.html#aad6959f74932db219e991efd3b3af44a", null ]
 ];

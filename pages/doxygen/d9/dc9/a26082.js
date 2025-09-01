@@ -1,7 +1,6 @@
 var a26082 =
 [
-    [ "HandleDummy", "d9/dc9/a26082.html#a82ff05f6150750ecb6ef3b5f8c40f703", null ],
-    [ "PrepareSpellScript", "d9/dc9/a26082.html#a6856f05f2cc25267f1d3023d3cb48dc2", null ],
-    [ "Register", "d9/dc9/a26082.html#adadd0254d68281ac1063bcc57574ed77", null ],
-    [ "Validate", "d9/dc9/a26082.html#a61923f636ad8b3d48eb2dbc6a1803527", null ]
+    [ "PrepareSpellScript", "d9/dc9/a26082.html#a7099b8d28128cfea49288792ea02606c", null ],
+    [ "Register", "d9/dc9/a26082.html#a7622be3b736678ebeb3982a8d6a5b601", null ],
+    [ "UpdateTarget", "d9/dc9/a26082.html#a4e808b026c89d080e309a0ca8b4f57d1", null ]
 ];

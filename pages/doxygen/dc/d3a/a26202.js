@@ -1,6 +1,6 @@
 var a26202 =
 [
-    [ "HandleAfterHit", "dc/d3a/a26202.html#a6f0ec02c8b1429a6be76465dd9badd1c", null ],
-    [ "PrepareSpellScript", "dc/d3a/a26202.html#af2e6c3bfc233ee86fa2c9186cdd6b5a4", null ],
-    [ "Register", "dc/d3a/a26202.html#a2a780069022e62b14992a7b69626ac3d", null ]
+    [ "CalculateAmount", "dc/d3a/a26202.html#a3491a0a1d2f00f76730ddc53a66c8179", null ],
+    [ "PrepareAuraScript", "dc/d3a/a26202.html#a667883298cee173af941cfc07022f318", null ],
+    [ "Register", "dc/d3a/a26202.html#a22514461b79f736e3ab595fa7fb48b68", null ]
 ];

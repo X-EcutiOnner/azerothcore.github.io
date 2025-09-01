@@ -1,9 +1,7 @@
 var a17674 =
 [
-    [ "HandleApply", "d3/d2b/a17674.html#a5f23d41765ec949486094a0da45be7e8", null ],
-    [ "HandleRemove", "d3/d2b/a17674.html#a8737bad17bf7aa3e52cb2e0b7fbc9178", null ],
-    [ "Load", "d3/d2b/a17674.html#a7c2644d06592b0d929a0b59cf8fa0f1b", null ],
-    [ "PrepareAuraScript", "d3/d2b/a17674.html#aabf5fdf4578935db11e041e638fba187", null ],
-    [ "Register", "d3/d2b/a17674.html#a6bdc66b6028002b5fc873803a434b6b1", null ],
-    [ "SendClientControl", "d3/d2b/a17674.html#a24f79a4c59d4bf615a6de745ffa11d81", null ]
+    [ "ExtraEffect", "d3/d2b/a17674.html#a65b5bc8d053a69325f42a7f23ae4dbdc", null ],
+    [ "PrepareAuraScript", "d3/d2b/a17674.html#a53d6013e5ec473854e1537969cb31988", null ],
+    [ "Register", "d3/d2b/a17674.html#a85be360bb15482ff34b7f1d04d949b1d", null ],
+    [ "Validate", "d3/d2b/a17674.html#ab14e7410cf542d9f4043800a3b86c664", null ]
 ];

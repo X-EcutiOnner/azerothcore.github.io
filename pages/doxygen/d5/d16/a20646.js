@@ -1,8 +1,7 @@
 var a20646 =
 [
-    [ "boss_thorim_pillarAI", "d5/d16/a20646.html#ae00c9e72f14e3f2c94da118a1fe27130", null ],
-    [ "Reset", "d5/d16/a20646.html#ae9043ed9b72cc0eda6fb7c859355da57", null ],
-    [ "SpellHit", "d5/d16/a20646.html#a1cb3ef9fdfc9e375d15e14b9230dd51e", null ],
-    [ "UpdateAI", "d5/d16/a20646.html#afd8e05444eeea620a7ef21e97c345d41", null ],
-    [ "_resetTimer", "d5/d16/a20646.html#a6ef7c9e23280564aec1b82eb670bc4f9", null ]
+    [ "HandleEffectPeriodic", "d5/d16/a20646.html#a0fc0cf6cd635249a10aefd284d9ae789", null ],
+    [ "PrepareAuraScript", "d5/d16/a20646.html#af432e810a46e35f95bb0b3b2eaada132", null ],
+    [ "Register", "d5/d16/a20646.html#a41c3846c03ce1e37fc6858a676f61c48", null ],
+    [ "Validate", "d5/d16/a20646.html#ac8e9521a6b8ab9a4642361085dbe517d", null ]
 ];

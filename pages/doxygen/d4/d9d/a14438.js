@@ -1,8 +1,8 @@
 var a14438 =
 [
-    [ "OnApply", "d4/d9d/a14438.html#aa38abcc9fa49fc2c397edbfff2c0ea0d", null ],
-    [ "OnRemove", "d4/d9d/a14438.html#a64018d24a33565e615c6c2d3eb4810f8", null ],
-    [ "PrepareAuraScript", "d4/d9d/a14438.html#acb57b284b9d9116b6b0c0a758e09a8d5", null ],
-    [ "Register", "d4/d9d/a14438.html#a9cd1e664cb6ccec5dc897b586203faf1", null ],
-    [ "Validate", "d4/d9d/a14438.html#a77ed6196af0fcf75c6d1071e236f6210", null ]
+    [ "OnApply", "d4/d9d/a14438.html#a6f3f05316f025ef638672a82cc855136", null ],
+    [ "PeriodicTick", "d4/d9d/a14438.html#a051d292f9483e6b82d773fba3ab52460", null ],
+    [ "PrepareAuraScript", "d4/d9d/a14438.html#ab8face95be60d7c5ba3fe15f0d05de25", null ],
+    [ "Register", "d4/d9d/a14438.html#a0004de73250b8523db2b9ab714c8a246", null ],
+    [ "Validate", "d4/d9d/a14438.html#aae1809dd5bc8baa06ee079a6d2a8b940", null ]
 ];

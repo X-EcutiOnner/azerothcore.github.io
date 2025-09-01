@@ -1,7 +1,6 @@
 var a11430 =
 [
-    [ "StringTransaction", "d0/d67/a11430.html#aef82d603733e7cb0636d95abea9e6cdc", null ],
-    [ "Append", "d0/d67/a11430.html#a0d1d9db61a1b3658c3d0fde37e2a4c5e", null ],
-    [ "GetBuffer", "d0/d67/a11430.html#a7cb52c3e029cdb971dfbb4048ade25a0", null ],
-    [ "_buf", "d0/d67/a11430.html#a4ec7dd27d7a2321cd1cead11ca78c1ef", null ]
+    [ "AuraDispelHandler", "d0/d67/a11430.html#ab6e675b4db931c601b3d6aef65ae0ff6", null ],
+    [ "Call", "d0/d67/a11430.html#a147d8a6d95f011f27600d052ef7b4000", null ],
+    [ "pHandlerScript", "d0/d67/a11430.html#ab7dd73a36aa517354a023deb7db0cf19", null ]
 ];

@@ -1,7 +1,7 @@
 var a09130 =
 [
-    [ "V8Type", "de/d1c/a09130.html#a385ac15640b76e43eda077c451dcd745", null ],
-    [ "V9Type", "de/d1c/a09130.html#a9b7daa2ba0e72e137243ac061efaa2a5", null ],
-    [ "v8", "de/d1c/a09130.html#a55d7b001e047c31686b110cc4b1aa295", null ],
-    [ "v9", "de/d1c/a09130.html#ab4f6ec9aefc2721bd216582d7a882aa3", null ]
+    [ "flags", "de/d1c/a09130.html#a2faab5766bd3cbc09ed4e541be7e7f94", null ],
+    [ "fourcc", "de/d1c/a09130.html#a93b48dd741d13ff036eac8a77df9f916", null ],
+    [ "gridHeight", "de/d1c/a09130.html#a3fbdc02ff4769b6f2eacbdc02ba4d370", null ],
+    [ "gridMaxHeight", "de/d1c/a09130.html#a1146dfae7dc4f89dddc94cda5deb7a4c", null ]
 ];

@@ -1,9 +1,7 @@
 var a10786 =
 [
-    [ "RandomRoll", "d4/da3/a10786.html#abc64acf498b3dc70b9afd23c399e3db8", null ],
-    [ "Write", "d4/da3/a10786.html#aab5879874745603dd448a7f5084d60d4", null ],
-    [ "Max", "d4/da3/a10786.html#a21460b09eddfbee6ba022f88b5f37cc7", null ],
-    [ "Min", "d4/da3/a10786.html#aee5564c9fc17613b9f30fc8ce88944c6", null ],
-    [ "Result", "d4/da3/a10786.html#a34fd2c1d018bb292836724671163ff07", null ],
-    [ "Roller", "d4/da3/a10786.html#af02aa97826259885791d0f4afc0c1a84", null ]
+    [ "AutoEquipItemSlot", "d4/da3/a10786.html#aa51f40a4172ac41548ec6199bc84375d", null ],
+    [ "Read", "d4/da3/a10786.html#ade6a15026e9c461b38301edf79f367be", null ],
+    [ "DestinationSlot", "d4/da3/a10786.html#a683a9bd141b2f99db431de2ae7d213e3", null ],
+    [ "ItemGuid", "d4/da3/a10786.html#a9d4da587061833262acff66674d3ac41", null ]
 ];

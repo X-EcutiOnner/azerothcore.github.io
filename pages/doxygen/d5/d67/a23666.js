@@ -1,8 +1,10 @@
 var a23666 =
 [
-    [ "FilterTargets", "d5/d67/a23666.html#ae366594b668331a19f384ceb48654c0c", null ],
-    [ "HandleOnHit", "d5/d67/a23666.html#abe5665fde7f01fafdfb55c58d8edbcf1", null ],
-    [ "PrepareSpellScript", "d5/d67/a23666.html#a71aa4018d293391a73d3317c1e80951d", null ],
-    [ "Register", "d5/d67/a23666.html#a3da162fd2cafc2e1236db0c6d4f65440", null ],
-    [ "Validate", "d5/d67/a23666.html#a3747ad271dc659436ae7a8203b964554", null ]
+    [ "boss_blindeye_the_seer", "d5/d67/a23666.html#a8b95c6f0a822adf018c5aefe59ecef5b", null ],
+    [ "JustDied", "d5/d67/a23666.html#ad70a72b18587da82d26bde8f10d63700", null ],
+    [ "JustEngagedWith", "d5/d67/a23666.html#a0cf082eefe75eac19cc09d2f714d5ff1", null ],
+    [ "Reset", "d5/d67/a23666.html#aabbda75266615f64ce88ce092e68bfa4", null ],
+    [ "UpdateAI", "d5/d67/a23666.html#a8ff8ae03cc528b9a2c71cfc2c7ff3f88", null ],
+    [ "_scheduler", "d5/d67/a23666.html#a0c5ec6cf114a289e22d890c61d4bdc93", null ],
+    [ "instance", "d5/d67/a23666.html#a74462f26d66da3ca370825858060b1c2", null ]
 ];

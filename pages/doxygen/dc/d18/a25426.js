@@ -1,6 +1,6 @@
 var a25426 =
 [
-    [ "OnRemove", "dc/d18/a25426.html#ac3a6d7bdc95605e3c73f8115b4a68da0", null ],
-    [ "PrepareAuraScript", "dc/d18/a25426.html#ab1e3a55a35dbbb4bd781ac8c51608e6a", null ],
-    [ "Register", "dc/d18/a25426.html#aecd068248e174c4b676ff9f43dd0856f", null ]
+    [ "HandleScriptEffect", "dc/d18/a25426.html#a78a131bdf6a1406604edd130c28d664b", null ],
+    [ "PrepareSpellScript", "dc/d18/a25426.html#a3b2d739227e57667a284ae4600ec1bb6", null ],
+    [ "Register", "dc/d18/a25426.html#a8a70913369aa733160366f37ff1c3470", null ]
 ];

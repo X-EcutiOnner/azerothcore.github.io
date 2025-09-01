@@ -1,7 +1,5 @@
 var a26166 =
 [
-    [ "FilterTargets", "dd/dd9/a26166.html#ad679149423fda97ad5744318520022b1", null ],
-    [ "PrepareSpellScript", "dd/dd9/a26166.html#ac57c48690c5ad1b907f56287aee949a4", null ],
-    [ "Register", "dd/dd9/a26166.html#aea9b3a6cc4abae242bde76634bcbacd3", null ],
-    [ "Validate", "dd/dd9/a26166.html#a2c755f4ce5c3736dd0b0dd79341a4570", null ]
+    [ "Trigger", "dd/dd9/a26166.html#aa16aba75a066e83cb56660a0e29e7453", null ],
+    [ "Validate", "dd/dd9/a26166.html#a6c38df91dbe0cf277d1d50a40edd4589", null ]
 ];

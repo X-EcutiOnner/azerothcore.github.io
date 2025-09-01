@@ -1,5 +1,11 @@
 var a18426 =
 [
-    [ "achievement_been_waiting_long_time", "de/d9a/a18426.html#a839ec8cb50512bbae7125ead3ed35aec", null ],
-    [ "OnCheck", "de/d9a/a18426.html#a5e72304220d3a649d2182cb287215da6", null ]
+    [ "AddMissingStack", "de/d9a/a18426.html#ae23dc772e58db8648a7ddbf5255bd917", null ],
+    [ "CheckAura", "de/d9a/a18426.html#a9d9e5620f61c92d35b08bec100b5a12a", null ],
+    [ "FilterTargets", "de/d9a/a18426.html#ab6c86c3680823329d5f3aad985aa316a", null ],
+    [ "Load", "de/d9a/a18426.html#a823e600ee1a350ab60ea69043e4fbef9", null ],
+    [ "PrepareSpellScript", "de/d9a/a18426.html#aff3b52df65504d7d4928b1ff69c1fa4b", null ],
+    [ "Register", "de/d9a/a18426.html#af0e6f1fc6687de1abcc1689116150088", null ],
+    [ "_hadInitialAura", "de/d9a/a18426.html#a1b553c0ad5fc4e86f02829b5284db709", null ],
+    [ "_hadJumpingAura", "de/d9a/a18426.html#ade3c2e5f78cbfbc34a3cbc8259e241db", null ]
 ];

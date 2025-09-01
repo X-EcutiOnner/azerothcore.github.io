@@ -1,7 +1,9 @@
 var a27858 =
 [
-    [ "bit_index", "d2/d7b/a27858.html#a1e5cb3fc001169a204507a084435a211", null ],
-    [ "ID", "d2/d7b/a27858.html#a63fe7a87e019780d20e86e48efb02eac", null ],
-    [ "nameFemale", "d2/d7b/a27858.html#ad0380caf2526715faaddc9330062d90a", null ],
-    [ "nameMale", "d2/d7b/a27858.html#a74a767731c96d3d815ddde5a06f68599", null ]
+    [ "npc_herald_of_the_lich_king", "d2/d7b/a27858.html#a62e373796ce4e6509692e6837cdb561f", null ],
+    [ "ChangeZoneEventStatus", "d2/d7b/a27858.html#a30c44f2f62badd27b105a55527d40670", null ],
+    [ "DoAction", "d2/d7b/a27858.html#a0ae389e7c2b5d380cb58df1cb9453f94", null ],
+    [ "InitializeAI", "d2/d7b/a27858.html#a17e1ad9a9107a71697cd9816e5694e40", null ],
+    [ "UpdateAI", "d2/d7b/a27858.html#a21a5093a46959f4b69777b63de12c557", null ],
+    [ "UpdateWeather", "d2/d7b/a27858.html#a3c6d076171596c9ce472cddda18a42be", null ]
 ];

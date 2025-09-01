@@ -1,6 +1,6 @@
 var a25910 =
 [
-    [ "PrepareSpellScript", "db/d63/a25910.html#a7099b8d28128cfea49288792ea02606c", null ],
-    [ "Register", "db/d63/a25910.html#a7622be3b736678ebeb3982a8d6a5b601", null ],
-    [ "UpdateTarget", "db/d63/a25910.html#a4e808b026c89d080e309a0ca8b4f57d1", null ]
+    [ "HandleProc", "db/d63/a25910.html#aa333d52d905e722554d8d61c4b9cb656", null ],
+    [ "PrepareAuraScript", "db/d63/a25910.html#aac4320b061d627e4ffef737d2e858ef3", null ],
+    [ "Register", "db/d63/a25910.html#ad58fea9afa6a3596437a324ec525982e", null ]
 ];

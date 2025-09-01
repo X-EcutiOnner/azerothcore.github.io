@@ -1,7 +1,8 @@
 var a18694 =
 [
-    [ "HandleEvent", "d0/d6c/a18694.html#a7aea0f5c4cd3765a8266e5478322910b", null ],
-    [ "PrepareSpellScript", "d0/d6c/a18694.html#a2e59f7f9eb67790c59c2e94cf877b4f3", null ],
-    [ "Register", "d0/d6c/a18694.html#a96c6a479141f765b9c0f96b5f148a428", null ],
-    [ "Validate", "d0/d6c/a18694.html#aa86d2cea5cb41b1e0a86248d95b5bfdb", null ]
+    [ "npc_blistering_zombieAI", "d0/d6c/a18694.html#acf278cd2249ac45a4b043427ba36b3ce", null ],
+    [ "DamageTaken", "d0/d6c/a18694.html#adf031992078214f90d859df2b54aac91", null ],
+    [ "UpdateAI", "d0/d6c/a18694.html#ae081898b8dcaf45cd3069e79021de452", null ],
+    [ "casted", "d0/d6c/a18694.html#a0f70f5d58ef0bb20f64b0aec4df04905", null ],
+    [ "timer", "d0/d6c/a18694.html#a8b865c2a87b1fc020d8250767febab0a", null ]
 ];

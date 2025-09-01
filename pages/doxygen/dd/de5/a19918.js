@@ -1,9 +1,9 @@
 var a19918 =
 [
-    [ "npc_thorims_hammerAI", "dd/de5/a19918.html#aafda36c8d784252d271ef031ab6a3d34", null ],
-    [ "Reset", "dd/de5/a19918.html#a57975d0dc00c86946e547ba43c7151ec", null ],
-    [ "UpdateAI", "dd/de5/a19918.html#a4e01a61d09c11647e06c3547d6fa91fa", null ],
-    [ "_beamTimer", "dd/de5/a19918.html#aba7c6c078977a8187a7e673ba3126bfd", null ],
-    [ "_finishTime", "dd/de5/a19918.html#a218bd28d18a2c2f0aef6906619437209", null ],
-    [ "_removeTimer", "dd/de5/a19918.html#a958e4c975d1ae634745107af7d204f82", null ]
+    [ "CheckTargets", "dd/de5/a19918.html#a9340c167ef70508635092e273c23dcde", null ],
+    [ "CountTargets", "dd/de5/a19918.html#a996db37b678143fbc0a392032d29fff5", null ],
+    [ "Load", "dd/de5/a19918.html#a716bcf5bb0a24f9a57534c9dafb1a56f", null ],
+    [ "PrepareSpellScript", "dd/de5/a19918.html#a0b68ca6bdfe0f7c84236e5fe509d8fd9", null ],
+    [ "Register", "dd/de5/a19918.html#aed312a4408134589fd02bbcb844fd1b7", null ],
+    [ "_targetCount", "dd/de5/a19918.html#ac780614674e748274081f9f99a5165fe", null ]
 ];

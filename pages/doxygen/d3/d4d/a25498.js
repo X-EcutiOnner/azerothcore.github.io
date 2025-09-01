@@ -1,6 +1,6 @@
 var a25498 =
 [
-    [ "HandlePreventAura", "d3/d4d/a25498.html#a62b9a62f5379f4ca98921c7fe4278b58", null ],
-    [ "PrepareSpellScript", "d3/d4d/a25498.html#a61b2f1d5634219f9c48a9ea75e90d423", null ],
-    [ "Register", "d3/d4d/a25498.html#ab1a90b7939c146b40badfd6424c35cf7", null ]
+    [ "HandleScript", "d3/d4d/a25498.html#a3f63c080d2a74def0920cceaea18e1e2", null ],
+    [ "PrepareSpellScript", "d3/d4d/a25498.html#a438c4c1763688210384b24305aeebe52", null ],
+    [ "Register", "d3/d4d/a25498.html#a27b25fbbdd912505738728414b79380c", null ]
 ];

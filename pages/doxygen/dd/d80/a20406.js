@@ -1,5 +1,6 @@
 var a20406 =
 [
-    [ "achievement_kologarn_with_open_arms", "dd/d80/a20406.html#a94af961be5bbdf7783925148731ce7e4", null ],
-    [ "OnCheck", "dd/d80/a20406.html#a03c1fb5f141a15f8f63e28700b98f9b5", null ]
+    [ "npc_ulduar_hodir_mageAI", "d1/d89/a20410.html", "d1/d89/a20410" ],
+    [ "npc_ulduar_hodir_mage", "dd/d80/a20406.html#afebdd0f99f0c7eaaf0a2d5731335105d", null ],
+    [ "GetAI", "dd/d80/a20406.html#abcbe0337b2a83b6eb0a64f7465d7f79a", null ]
 ];

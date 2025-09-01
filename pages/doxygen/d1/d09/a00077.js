@@ -1,20 +1,16 @@
 var a00077 =
 [
-    [ "map_fileheader", "d6/dc2/a09112.html", "d6/dc2/a09112" ],
-    [ "map_heightHeader", "d3/db5/a09120.html", "d3/db5/a09120" ],
-    [ "map_liquidHeader", "d8/d42/a09124.html", "d8/d42/a09124" ],
-    [ "MAP_HEIGHT_AS_INT16", "d1/d09/a00077.html#aefa74fa33f3eba2d39b407c2fd2e8aba", null ],
-    [ "MAP_HEIGHT_AS_INT8", "d1/d09/a00077.html#a15a9245a53c00f1a8a89dd2d798cea9d", null ],
-    [ "MAP_HEIGHT_NO_HEIGHT", "d1/d09/a00077.html#aa5c2437972b2be5c5ff23a7ac04e2680", null ],
-    [ "MAP_LIQUID_NO_HEIGHT", "d1/d09/a00077.html#a59daadc7c96729526e05982ec6600bb1", null ],
-    [ "MAP_LIQUID_NO_TYPE", "d1/d09/a00077.html#a42b8b790a3d284e7116bcad1c391b8f9", null ],
-    [ "MAP_LIQUID_TYPE_DARK_WATER", "d1/d09/a00077.html#a661f965d11d7da56890b64484d871441", null ],
-    [ "MAP_LIQUID_TYPE_MAGMA", "d1/d09/a00077.html#a14e2a0a2291347b0ef877bc9d70f7384", null ],
-    [ "MAP_LIQUID_TYPE_NO_WATER", "d1/d09/a00077.html#a17d4c5ea32412f0fbe04a27f63d50e13", null ],
-    [ "MAP_LIQUID_TYPE_OCEAN", "d1/d09/a00077.html#a6d257e0effb928fba7534eeee5de602d", null ],
-    [ "MAP_LIQUID_TYPE_SLIME", "d1/d09/a00077.html#aa56f76510545ed9c706b8fee3061b6cb", null ],
-    [ "MAP_LIQUID_TYPE_WATER", "d1/d09/a00077.html#a5ec110bd30ec47fcd087aaf5d572de28", null ],
-    [ "holetab_h", "d1/d09/a00077.html#abeb39e913287295598939165f99abe3b", null ],
-    [ "holetab_v", "d1/d09/a00077.html#a8c5ddef856ef804076860bb176c6d9e1", null ],
-    [ "MAP_VERSION_MAGIC", "d1/d09/a00077.html#aee23c8e21c084824373ce587f8fe1f04", null ]
+    [ "RandomEngine", "da/d88/a05510.html", "da/d88/a05510" ],
+    [ "frand", "d1/d09/a00077.html#aa28484fcb823a22578601847e4b0ddb4", null ],
+    [ "irand", "d1/d09/a00077.html#a0a5e53ee066789ecb565abc05fe36dbc", null ],
+    [ "rand32", "d1/d09/a00077.html#ab91ed86274e1e52eb314784862b61696", null ],
+    [ "rand_chance", "d1/d09/a00077.html#a60564a0d93e0c87809379e0c1fa7acd1", null ],
+    [ "rand_norm", "d1/d09/a00077.html#ad552d8147f66d6ec0cd44271e8799599", null ],
+    [ "randtime", "d1/d09/a00077.html#a2fc61a89dc958460e6eabe08d87a4021", null ],
+    [ "randtime", "d1/d09/a00077.html#ad7a1463dbba108f4bfc0d800fa6f99c1", null ],
+    [ "roll_chance_f", "d1/d09/a00077.html#a4b15099bc81731469c5078a778673c94", null ],
+    [ "roll_chance_i", "d1/d09/a00077.html#a50320d4edff86db31b25138ae72161ad", null ],
+    [ "urand", "d1/d09/a00077.html#a3648faa6a1353eac6d2eec0b399c5aba", null ],
+    [ "urandms", "d1/d09/a00077.html#a1a4ee564518371004a4d34135600bfa0", null ],
+    [ "urandweighted", "d1/d09/a00077.html#a673de62907a2657190e58678691d3b36", null ]
 ];

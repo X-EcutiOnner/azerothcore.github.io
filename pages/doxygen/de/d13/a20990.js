@@ -1,6 +1,8 @@
 var a20990 =
 [
-    [ "CheckCast", "de/d13/a20990.html#a715a58956db4253c8adfed039833debd", null ],
-    [ "PrepareSpellScript", "de/d13/a20990.html#a3b03178d8ab54db36a19ba5a27444917", null ],
-    [ "Register", "de/d13/a20990.html#a6309c53b9e3828e76d34a77a8fe35df1", null ]
+    [ "boss_yoggsaron_guardian_of_ysAI", "de/d13/a20990.html#a5542a4fd68a012049a79047f47dccc68", null ],
+    [ "JustDied", "de/d13/a20990.html#ad75f0baeef73a79cdb9bf62463bc8e50", null ],
+    [ "Reset", "de/d13/a20990.html#a43d12c19425f3caa56a9732774b6f943", null ],
+    [ "UpdateAI", "de/d13/a20990.html#a8e1d0b14747db6ce06b882f3f9d61963", null ],
+    [ "_spellTimer", "de/d13/a20990.html#a45dec8609328d65413ae6c88f693ba15", null ]
 ];

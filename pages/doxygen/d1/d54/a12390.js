@@ -1,7 +1,6 @@
 var a12390 =
 [
-    [ "HandlePeriodic", "d1/d54/a12390.html#a758b588fb02e9cdf2544dd52ceee1055", null ],
-    [ "PrepareAuraScript", "d1/d54/a12390.html#aae9d31049889eea5c5f09dd5437de950", null ],
-    [ "Register", "d1/d54/a12390.html#a5de6428e3359c4498f5630f85ae3fcc8", null ],
-    [ "Validate", "d1/d54/a12390.html#a462b882e41932f99e3501f32368cf4de", null ]
+    [ "boss_flamegorAI", "d1/d54/a12390.html#a4b3d46c3faa566095b0cedad3df9f057", null ],
+    [ "JustEngagedWith", "d1/d54/a12390.html#a6005dca71e2f20ee599e053e531377d6", null ],
+    [ "UpdateAI", "d1/d54/a12390.html#a2e5146815e533cf62e0084a54aa222d5", null ]
 ];

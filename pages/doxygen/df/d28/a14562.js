@@ -1,6 +1,25 @@
 var a14562 =
 [
-    [ "HandleScriptEffect", "df/d28/a14562.html#aebd700897688157ca62405c92fe58680", null ],
-    [ "PrepareSpellScript", "df/d28/a14562.html#a09e11d1938279a2302fb8805e71c6c36", null ],
-    [ "Register", "df/d28/a14562.html#aa0679665ba2c496e0a5aa5f6864d7230", null ]
+    [ "boss_headless_horseman", "df/d28/a14562.html#a4f791099607d7861cfa193f9b5fc265b", null ],
+    [ "DamageTaken", "df/d28/a14562.html#a76c6eddf1005774403498d0954571c19", null ],
+    [ "DoAction", "df/d28/a14562.html#ad5d8645b879a2c97c68e815463a97b49", null ],
+    [ "GetRhymePlayer", "df/d28/a14562.html#ad4bc4c5364d1c07c21f29747934efc01", null ],
+    [ "JustDied", "df/d28/a14562.html#aea5a5ee1fce56cefd84ebde29bcc5a1d", null ],
+    [ "JustEngagedWith", "df/d28/a14562.html#a149ae2b8c688c5b24d3db480b888e36e", null ],
+    [ "JustReachedHome", "df/d28/a14562.html#a888d573450a2b09d22def41884ed2d30", null ],
+    [ "JustSummoned", "df/d28/a14562.html#a06a654a822967c02dbab2c75f211e072", null ],
+    [ "KilledUnit", "df/d28/a14562.html#ad98d9d303815f538e194a55578ae909a", null ],
+    [ "MoveInLineOfSight", "df/d28/a14562.html#a57a5935e31ef5cc4df2657ddd358afdc", null ],
+    [ "MovementInform", "df/d28/a14562.html#abccf1fc3c5475e50d45bbd596ff98ce9", null ],
+    [ "Reset", "df/d28/a14562.html#ac52c6590f78c23149abfb062d5814ded", null ],
+    [ "SpellHit", "df/d28/a14562.html#ace502054c0e570655be9ea1990b48f9f", null ],
+    [ "SpellHitTarget", "df/d28/a14562.html#afa5e099de3899e41b3ee04f348c3d6a0", null ],
+    [ "UpdateAI", "df/d28/a14562.html#aa6741999e5a9a826efb279e014ea4ab8", null ],
+    [ "events", "df/d28/a14562.html#a2fe31482b5267bfc94d5d68062a46e0c", null ],
+    [ "health", "df/d28/a14562.html#a076037b8bad3648551997915d97fb9b2", null ],
+    [ "inFight", "df/d28/a14562.html#a8e33d87467086dc3eae778a579216256", null ],
+    [ "phase", "df/d28/a14562.html#a9dde0cfcc41ec7d8b9f53e55057adab9", null ],
+    [ "playerGUID", "df/d28/a14562.html#af0ee0c6da6398d6a84457aab942bb29c", null ],
+    [ "summons", "df/d28/a14562.html#a5de04d5c0da7c199ec89de9ef40a59fd", null ],
+    [ "talkCount", "df/d28/a14562.html#a091a925d7040e29efc54a4c5f123591d", null ]
 ];

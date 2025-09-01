@@ -1,10 +1,6 @@
 var a24402 =
 [
-    [ "npc_pet_gen_plump_turkey", "d3/daf/a24402.html#acd5a9cb122cbf5a773461ce1027f28a1", null ],
-    [ "MovementInform", "d3/daf/a24402.html#af27c91388891add6d00e251bf3187743", null ],
-    [ "UpdateAI", "d3/daf/a24402.html#a93d2719bcc6a657a9a32cce06f566b19", null ],
-    [ "checkTimer", "d3/daf/a24402.html#af9e7339416ada0c3bb9829cbd8e1f5d3", null ],
-    [ "goGUID", "d3/daf/a24402.html#a5fa88e045430adea9e72a3744bf72780", null ],
-    [ "jumping", "d3/daf/a24402.html#a8486512b7594f2ce759fcb580f1baf34", null ],
-    [ "jumpTimer", "d3/daf/a24402.html#ad53a9abad41ab6a792a55b854155135d", null ]
+    [ "npc_enraged_spiritAI", "dd/dc8/a24406.html", "dd/dc8/a24406" ],
+    [ "npc_enraged_spirit", "d3/daf/a24402.html#a17d9e2e5fb8f2795fdeff26567bbf85f", null ],
+    [ "GetAI", "d3/daf/a24402.html#aa10d5f0147cf4064a49df735ac95575e", null ]
 ];

@@ -1,7 +1,12 @@
 var a11930 =
 [
-    [ "boss_gorosh_the_dervishAI", "d9/de9/a11930.html#adac003c51a2d1d0a8daa6ba552114c25", null ],
-    [ "JustEngagedWith", "d9/de9/a11930.html#a52bc5f76baff626b8834aa604fdd8e6a", null ],
-    [ "UpdateAI", "d9/de9/a11930.html#aa17e26419a8e3f7cd99c5e9b44be8ed8", null ],
-    [ "nextWhirlwindTime", "d9/de9/a11930.html#a07f1af63bc54d1b4c8d8e1cd87a787a1", null ]
+    [ "npc_av_marshal_or_warmasterAI", "d9/de9/a11930.html#af3620678992778edbb859622e057893a", null ],
+    [ "AttackStart", "d9/de9/a11930.html#aed39eaed8648ce78349c49ee33918b93", null ],
+    [ "EnterEvadeMode", "d9/de9/a11930.html#a4ac6045b3f3dfd6e3f9e0ea757f4d2c6", null ],
+    [ "JustRespawned", "d9/de9/a11930.html#a460c6912063587214ba0f2e01878d827", null ],
+    [ "Reset", "d9/de9/a11930.html#a56d99bcf5038c372399f16a07a2e5d31", null ],
+    [ "UpdateAI", "d9/de9/a11930.html#a7bf1631810c8446bc157f8ff220199b7", null ],
+    [ "_attacked", "d9/de9/a11930.html#a56d7211a3565c19b499f7de2eda6c862", null ],
+    [ "_hasAura", "d9/de9/a11930.html#a1c0049100cde1c62daf80779d1135156", null ],
+    [ "events", "d9/de9/a11930.html#a49b8e01897cd5347bbd06cac254163f4", null ]
 ];

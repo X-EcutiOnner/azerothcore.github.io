@@ -1,4 +1,6 @@
 var a16578 =
 [
-    [ "boss_dreadscaleAI", "d5/d9e/a16578.html#ab0d0f8a7ec6567e8811d09721f6fa9ed", null ]
+    [ "npc_toc_priestAI", "d4/d4a/a16582.html", "d4/d4a/a16582" ],
+    [ "npc_toc_priest", "d5/d9e/a16578.html#a0e360a2cc053434d2f76826683da8eee", null ],
+    [ "GetAI", "d5/d9e/a16578.html#a6056a81bef962a02537d525f07d1c302", null ]
 ];

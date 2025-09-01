@@ -1,6 +1,7 @@
 var a28458 =
 [
-    [ "categoryMask", "d1/dba/a28458.html#abd8816e5dda7bda455ccd6932647c4be", null ],
-    [ "categoryType", "d1/dba/a28458.html#a954f9fca8d0d84d5aec66f4a3f642f96", null ],
-    [ "ID", "d1/dba/a28458.html#a2e0f0cb7a05da77dee49bd7221c01d60", null ]
+    [ "ID", "d1/dba/a28458.html#a3af48dd3f6b92ad7f5950d99ca6dd379", null ],
+    [ "Index", "d1/dba/a28458.html#aa58e046529aae0d1d6201c08ec8107e2", null ],
+    [ "Skill", "d1/dba/a28458.html#aed5e58cf605d3c28cd0d26015722be03", null ],
+    [ "Type", "d1/dba/a28458.html#a39b0b548efd795c162926bddcdd301b5", null ]
 ];

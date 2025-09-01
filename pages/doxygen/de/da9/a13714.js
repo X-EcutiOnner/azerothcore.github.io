@@ -1,6 +1,6 @@
 var a13714 =
 [
-    [ "npc_jaina_proudmoore_bfuAI", "dc/db0/a13718.html", "dc/db0/a13718" ],
-    [ "npc_jaina_proudmoore_bfu", "de/da9/a13714.html#af96c4fac318f44cf6e70817b6960999f", null ],
-    [ "GetAI", "de/da9/a13714.html#a4ed6349a5ebdd90053f9d67d24ab6991", null ]
+    [ "npc_augustus_the_touched", "de/da9/a13714.html#abc84c884345f44cf780410569cdee10c", null ],
+    [ "OnGossipHello", "de/da9/a13714.html#a81e0d4f2aaa685cd5231ea430c86e7b4", null ],
+    [ "OnGossipSelect", "de/da9/a13714.html#a992da9b22693c1fac1148b4ba545b819", null ]
 ];

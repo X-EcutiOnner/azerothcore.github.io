@@ -1,7 +1,5 @@
 var a04223 =
 [
-    [ "SQLQueryHolderBase", "d7/d68/a05848.html", "d7/d68/a05848" ],
-    [ "SQLQueryHolder< T >", "dd/dd5/a05700.html", "dd/dd5/a05700" ],
-    [ "SQLQueryHolderTask", "df/d3a/a05852.html", "df/d3a/a05852" ],
-    [ "SQLQueryHolderCallback", "d8/dad/a05856.html", "d8/dad/a05856" ]
+    [ "ForeachMaps", "d1/dde/a04223.html#a899f6a046cdda33d737030dd4923ca7d", null ],
+    [ "ScriptRegistry< AllMapScript >", "d1/dde/a04223.html#ada370fef23e6d206da686c8bb6149104", null ]
 ];

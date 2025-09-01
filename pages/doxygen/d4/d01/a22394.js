@@ -1,6 +1,8 @@
 var a22394 =
 [
-    [ "HandlePeriodicDummy", "d4/d01/a22394.html#a0096e0521c37a4f7f9ab1f2173a807d4", null ],
-    [ "PrepareAuraScript", "d4/d01/a22394.html#ad55ab81c39e8bf53d1e2066bbeefa712", null ],
-    [ "Register", "d4/d01/a22394.html#afeccfe29a0e0f192a4242217f9d4b7e5", null ]
+    [ "CheckCast", "d4/d01/a22394.html#ab1584c391ac81b8338387acc6187001f", null ],
+    [ "HandleDummy", "d4/d01/a22394.html#abe856e2c3b986eeac0c1a62aa301eb6d", null ],
+    [ "PrepareSpellScript", "d4/d01/a22394.html#a08d9ffb7dcbe786071979166e0489336", null ],
+    [ "Register", "d4/d01/a22394.html#a5f0bbd57f3cbc0d0de3d8830dd4e6f2b", null ],
+    [ "Validate", "d4/d01/a22394.html#a82d931b4a15f6a60c27d932e8188ef78", null ]
 ];

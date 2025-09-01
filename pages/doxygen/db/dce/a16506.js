@@ -1,8 +1,6 @@
 var a16506 =
 [
-    [ "npc_toc_pet_hunterAI", "db/dce/a16506.html#a751e37388df10abf4bf9df5d3f373fa3", null ],
-    [ "EnterEvadeMode", "db/dce/a16506.html#a7f60ea2596fa4af2209333696dbe00e0", null ],
-    [ "myCanCast", "db/dce/a16506.html#aefaa41a92000d8915853988ce3fd5bc4", null ],
-    [ "UpdateAI", "db/dce/a16506.html#aec1d16cdcb7d86d7de4de10ca34f491d", null ],
-    [ "events", "db/dce/a16506.html#ade038312363f976b34868ed2cbebb58d", null ]
+    [ "npc_swarm_scarabAI", "da/df6/a16510.html", "da/df6/a16510" ],
+    [ "npc_swarm_scarab", "db/dce/a16506.html#a1d0969526e57ca50c9a499c83f978fd2", null ],
+    [ "GetAI", "db/dce/a16506.html#ae12fe8a7c6ee09fc16bd152f59c2d936", null ]
 ];

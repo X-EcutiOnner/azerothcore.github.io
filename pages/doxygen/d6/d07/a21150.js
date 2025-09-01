@@ -1,6 +1,6 @@
 var a21150 =
 [
-    [ "npc_frenzied_worgenAI", "d2/d89/a21154.html", "d2/d89/a21154" ],
-    [ "npc_frenzied_worgen", "d6/d07/a21150.html#ad46eb89ab86876950652f6dd6b7dc91a", null ],
-    [ "GetAI", "d6/d07/a21150.html#a1ed46e8e6bd001f8f35492f340ab1d56", null ]
+    [ "OnEffect", "d6/d07/a21150.html#aa24cfd6feec65f466e74c68484815c1e", null ],
+    [ "PrepareSpellScript", "d6/d07/a21150.html#a648fb610fb1914efac7f2cb6e1bb4290", null ],
+    [ "Register", "d6/d07/a21150.html#ac1c0076665edc6a2b3a0228340020a1e", null ]
 ];

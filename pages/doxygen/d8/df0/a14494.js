@@ -1,11 +1,11 @@
 var a14494 =
 [
-    [ "HandleFinish", "d8/df0/a14494.html#ace3a2ad0cf8ac31f7ef5345f1dbbf6e7", null ],
-    [ "HandleScript", "d8/df0/a14494.html#a2a2f005c29f0381c3c45d04a75ccc378", null ],
-    [ "Load", "d8/df0/a14494.html#a177ea78202f4d5b4c381f1712b01fe43", null ],
-    [ "PrepareSpellScript", "d8/df0/a14494.html#a9714f48de3982feb245f78efb8008f1b", null ],
-    [ "Register", "d8/df0/a14494.html#ad24c159a0dcfb86eb35a4286f606a3ab", null ],
-    [ "ThrowNextTorch", "d8/df0/a14494.html#a6ea11852ede397c1ede1ebaabb906c35", null ],
-    [ "Validate", "d8/df0/a14494.html#a026fbf7123f6780459c19ff04b370b08", null ],
-    [ "handled", "d8/df0/a14494.html#a869fde9e5d0756d3c68a8db3e10ad50d", null ]
+    [ "o", "d8/df0/a14494.html#af0a1551e7a1ced5413b6096ba15db8b2", null ],
+    [ "rot0", "d8/df0/a14494.html#a1cc2b7787c803a4e126e06ab5b5c0ee6", null ],
+    [ "rot1", "d8/df0/a14494.html#a71696fa3f95eb20d950b6ba2ada153f4", null ],
+    [ "rot2", "d8/df0/a14494.html#ac2e4113330ebc9d9db379fb87eb55c03", null ],
+    [ "rot3", "d8/df0/a14494.html#a3fc28475914b0ed4afe46fd4f4ff66b1", null ],
+    [ "x", "d8/df0/a14494.html#a6e527854cf0959995d6b0133dedc94c9", null ],
+    [ "y", "d8/df0/a14494.html#a7536047696bd4883237369976b503131", null ],
+    [ "z", "d8/df0/a14494.html#a33ba4ca8ce5f406aaa5f571ba7236eb5", null ]
 ];

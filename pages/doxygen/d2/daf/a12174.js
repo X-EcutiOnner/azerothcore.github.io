@@ -1,6 +1,6 @@
 var a12174 =
 [
-    [ "near_scarshield_infiltrator", "d2/daf/a12174.html#a38d2e75946c429b4d80b007f190406bc", null ],
-    [ "OnTrigger", "d2/daf/a12174.html#aeb761433e3210ce85c1de4dab653a87c", null ],
-    [ "whisperedTargets", "d2/daf/a12174.html#a5655e241d2551798a960cb6375c7df23", null ]
+    [ "boss_highlordomokkAI", "d6/da3/a12178.html", "d6/da3/a12178" ],
+    [ "boss_highlord_omokk", "d2/daf/a12174.html#af5174587ed3cd1c46f604183a75de99e", null ],
+    [ "GetAI", "d2/daf/a12174.html#afb8efb012791c6a2fc18975a1ec7f984", null ]
 ];

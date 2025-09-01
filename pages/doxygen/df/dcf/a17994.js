@@ -1,7 +1,9 @@
 var a17994 =
 [
-    [ "HandleCast", "df/dcf/a17994.html#aaa3262bc782e342825d4caba2954e95d", null ],
-    [ "PrepareSpellScript", "df/dcf/a17994.html#ae4d1f05b978e2a46d7dc3410def73978", null ],
-    [ "Register", "df/dcf/a17994.html#ac59fb77c6a52d7a603dbb27e933a6814", null ],
-    [ "Validate", "df/dcf/a17994.html#a6ca80316fe7bcbb4ebda095d633bb1bc", null ]
+    [ "CountTargets", "df/dcf/a17994.html#aa72b762d802c27047d485a8a314c6c6d", null ],
+    [ "Load", "df/dcf/a17994.html#a80a5d0f997f5d68a4fb438a81295fa52", null ],
+    [ "PrepareSpellScript", "df/dcf/a17994.html#acfd2927786a5bcefa0889d7e8aa40f72", null ],
+    [ "Register", "df/dcf/a17994.html#a86cad92c07fa31c730a3b560d33ed824", null ],
+    [ "SplitDamage", "df/dcf/a17994.html#a501a46b3e3988ae8cb8af1ff87eeac65", null ],
+    [ "_targetCount", "df/dcf/a17994.html#a39b8e5443250777594e3b4417d5ea1ec", null ]
 ];

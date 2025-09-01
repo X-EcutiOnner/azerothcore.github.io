@@ -1,4 +1,5 @@
 var a02000 =
 [
-    [ "WorldPacket", "d0/d19/a11012.html", "d0/d19/a11012" ]
+    [ "mmaps_commandscript", "df/d3e/a11842.html", "df/d3e/a11842" ],
+    [ "AddSC_mmaps_commandscript", "da/d51/a02000.html#aa9672a1e32f85f31a4be02f505768ecd", null ]
 ];

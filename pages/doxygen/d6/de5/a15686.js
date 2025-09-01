@@ -1,9 +1,6 @@
 var a15686 =
 [
-    [ "npc_pluckyAI", "d6/de5/a15686.html#a490198dfcf06b04f7ee9a6a5354dec7e", null ],
-    [ "ReceiveEmote", "d6/de5/a15686.html#a4a4a09d6a462011154a8d871562dcaf5", null ],
-    [ "Reset", "d6/de5/a15686.html#a1a6c4a479bbbfced1ad17f2604bdba32", null ],
-    [ "UpdateAI", "d6/de5/a15686.html#a4775a736e3568940c1b92e0cdae4de4b", null ],
-    [ "NormFaction", "d6/de5/a15686.html#afd9c6fccf4c30b4fbc62bfa951665949", null ],
-    [ "ResetTimer", "d6/de5/a15686.html#ac9808c21666cd17b0603e7e67a61d015", null ]
+    [ "npc_giant_spotlightAI", "d4/de8/a15690.html", "d4/de8/a15690" ],
+    [ "npc_giant_spotlight", "d6/de5/a15686.html#a9d1c47de758c74a89c751b675d5cc4c0", null ],
+    [ "GetAI", "d6/de5/a15686.html#af002a3d0194c991c1f78c720de63cfea", null ]
 ];

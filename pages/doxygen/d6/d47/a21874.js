@@ -1,14 +1,9 @@
 var a21874 =
 [
-    [ "npc_commander_eligor_dawnbringerAI", "d6/d47/a21874.html#a84beab3be0d7e5d5d3674a57b1928f09", null ],
-    [ "ChangeImage", "d6/d47/a21874.html#a815e5c67b282e2840676b5453d94d5dc", null ],
-    [ "MovementInform", "d6/d47/a21874.html#a2ed09d31771e9c225d8d8b40ba8f0f82", null ],
-    [ "Reset", "d6/d47/a21874.html#a71410a3e3e5134311bf7bc2ef3051eb3", null ],
-    [ "StoreTargets", "d6/d47/a21874.html#a0732307643a442bc3f070b9cc91d78c9", null ],
-    [ "TurnAudience", "d6/d47/a21874.html#afa7fce3a9cccfcc7b088e72df9f312a4", null ],
-    [ "UpdateAI", "d6/d47/a21874.html#a454984668ca58c8a6fdd9ad4f630dece", null ],
-    [ "_events", "d6/d47/a21874.html#a907626beb601f789a725d88d45689eb2", null ],
-    [ "audienceList", "d6/d47/a21874.html#a5bdb09658bd93e46387df8eeb8cf0221", null ],
-    [ "imageList", "d6/d47/a21874.html#a8177ed5bc5fd54b98f2f36c9389b8099", null ],
-    [ "talkWing", "d6/d47/a21874.html#ace957ffe4fba8f229946d61d63c1798c", null ]
+    [ "npc_mageguard_dalaranAI", "d6/d47/a21874.html#adb9c8b0003c070114b63f3b8e538bceb", null ],
+    [ "AttackStart", "d6/d47/a21874.html#ac1e73ad92bd5db0d3b9fe23b36cd8dd7", null ],
+    [ "JustEngagedWith", "d6/d47/a21874.html#aac463689ae5a488ec2acb8a0310689d8", null ],
+    [ "MoveInLineOfSight", "d6/d47/a21874.html#aafb32462693e0efd9c80cf335f489754", null ],
+    [ "Reset", "d6/d47/a21874.html#aa6dde0732bac407a62403bb8f0f24c26", null ],
+    [ "UpdateAI", "d6/d47/a21874.html#a4d6ce701a4cc463a7e9c295c664d4440", null ]
 ];

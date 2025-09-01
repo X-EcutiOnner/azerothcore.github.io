@@ -1,8 +1,8 @@
 var a13878 =
 [
-    [ "npc_zulaman_hostageAI", "dd/db5/a13882.html", "dd/db5/a13882" ],
-    [ "npc_zulaman_hostage", "d7/d8d/a13878.html#a12f9ad1889cacb60103c1e921c2fa0e9", null ],
-    [ "GetAI", "d7/d8d/a13878.html#a0ae144dc154dd028b409c9d2393f890c", null ],
-    [ "OnGossipHello", "d7/d8d/a13878.html#a89d68a976f916a4de2196b57ec0026b0", null ],
-    [ "OnGossipSelect", "d7/d8d/a13878.html#a114f6fbfab90944fd49babcba4b48a11", null ]
+    [ "npc_varian_wrynnAI", "dd/db5/a13882.html", "dd/db5/a13882" ],
+    [ "npc_varian_wrynn", "d7/d8d/a13878.html#a1dd8e4664da693f3e4ecdd4581b96c87", null ],
+    [ "GetAI", "d7/d8d/a13878.html#aa5aa46f24a128e84ac2a837c012b2e02", null ],
+    [ "OnGossipHello", "d7/d8d/a13878.html#a95f6ff3f2a7db807b278d019e187ddec", null ],
+    [ "OnGossipSelect", "d7/d8d/a13878.html#a65d02bafebe9c5a45d707f8990d680a3", null ]
 ];

@@ -1,6 +1,11 @@
 var a20734 =
 [
-    [ "npc_xt002_pummellerAI", "db/de2/a20738.html", "db/de2/a20738" ],
-    [ "npc_xt002_pummeller", "d2/d38/a20734.html#af620e31a231ca8fb812324521bad4673", null ],
-    [ "GetAI", "d2/d38/a20734.html#a9ec4e452a3763c3d03e581a17e5d7efe", null ]
+    [ "npc_ulduar_expedition_engineerAI", "d2/d38/a20734.html#a48e29edad38f8ecbab54579203c93044", null ],
+    [ "Reset", "d2/d38/a20734.html#a8a68e3a58133913d0eb0bf9fd2532db2", null ],
+    [ "SetData", "d2/d38/a20734.html#a31db1ae61777b8f1a38d381e785ce158", null ],
+    [ "UpdateAI", "d2/d38/a20734.html#ab6d29aaae95038282fece78479448459", null ],
+    [ "fixingGUID", "d2/d38/a20734.html#ae0ba3ddbff054a948709e70f0bf9961a", null ],
+    [ "pInstance", "d2/d38/a20734.html#a6b858d46eda05493ec0cac22e174854c", null ],
+    [ "timer", "d2/d38/a20734.html#a926b343da3d3953d386b18f24bc72867", null ],
+    [ "working", "d2/d38/a20734.html#ab8e436472efd91f2d400c02c1b500746", null ]
 ];

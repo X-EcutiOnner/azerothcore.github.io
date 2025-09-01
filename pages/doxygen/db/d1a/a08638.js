@@ -1,29 +1,5 @@
 var a08638 =
 [
-    [ "TradeData", "db/d1a/a08638.html#ac2bfab37acbdb9fd955d8f2ee8876b79", null ],
-    [ "GetItem", "db/d1a/a08638.html#a6c769042535c69e89bdc19234dd680e4", null ],
-    [ "GetMoney", "db/d1a/a08638.html#a54d3de8cb15ccc761d272295b19b7575", null ],
-    [ "GetSpell", "db/d1a/a08638.html#a99272f794179b17c50c722ae90ea78bf", null ],
-    [ "GetSpellCastItem", "db/d1a/a08638.html#a011acd6730c58aa75d3c27e793748afc", null ],
-    [ "GetTrader", "db/d1a/a08638.html#a3e3023cdf6deb5283ebbe844727cadef", null ],
-    [ "GetTraderData", "db/d1a/a08638.html#a91911ad105b24d6055a65b07ab6c269f", null ],
-    [ "GetTradeSlotForItem", "db/d1a/a08638.html#a2982777fbad962000c016309667104df", null ],
-    [ "HasItem", "db/d1a/a08638.html#a420249fcbb7394f16009861ccdb6962a", null ],
-    [ "HasSpellCastItem", "db/d1a/a08638.html#a27981abf9bddbfe87bf81836b57e0780", null ],
-    [ "IsAccepted", "db/d1a/a08638.html#a75b4970c1f26912bc24da528f226ca76", null ],
-    [ "IsInAcceptProcess", "db/d1a/a08638.html#abbae0b720c0b44a05f0625ebafd09cc8", null ],
-    [ "SetAccepted", "db/d1a/a08638.html#a9e48c5ee348c5a8d475c5e7b15058b16", null ],
-    [ "SetInAcceptProcess", "db/d1a/a08638.html#a4851016708b0e8336ec33c64ab41aa8a", null ],
-    [ "SetItem", "db/d1a/a08638.html#ab3eff66bb411bd22a11d8e29f7961507", null ],
-    [ "SetMoney", "db/d1a/a08638.html#a0dc996fdc9acab409833caff4e6b489b", null ],
-    [ "SetSpell", "db/d1a/a08638.html#a2afa4c75d1fe0b8a712f270166f838ef", null ],
-    [ "Update", "db/d1a/a08638.html#a970e3a0d295495973bda1ff5b4732055", null ],
-    [ "m_accepted", "db/d1a/a08638.html#af2d924a288687047f4d6a47f81025a00", null ],
-    [ "m_acceptProccess", "db/d1a/a08638.html#a1e585dd9ed486381a55e108a709e4db3", null ],
-    [ "m_items", "db/d1a/a08638.html#ac27f6047b7585f8b3ef069af68851965", null ],
-    [ "m_money", "db/d1a/a08638.html#ab5e22a1c07812f11d8692f6e1daf52c9", null ],
-    [ "m_player", "db/d1a/a08638.html#aa19e7f2622b315f9cc75531999b795f4", null ],
-    [ "m_spell", "db/d1a/a08638.html#a291fdc4207d594982a780485b960f6fa", null ],
-    [ "m_spellCastItem", "db/d1a/a08638.html#adb76e2e7f01cc6f1ee4579ee177ba9c1", null ],
-    [ "m_trader", "db/d1a/a08638.html#ae9c8547f43701f0693fd16df84ae2543", null ]
+    [ "bgQueueTypeId", "db/d1a/a08638.html#a171a9be34883429a97f6f2e3035b5fca", null ],
+    [ "invitedToInstance", "db/d1a/a08638.html#a5efaf8479d7afb8c24e7f3389ad9c8cf", null ]
 ];

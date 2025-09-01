@@ -1,11 +1,13 @@
 var a15330 =
 [
-    [ "npc_magwinAI", "d4/d74/a15330.html#ad4a352dd0c7c6f76e74f110b00ec9053", null ],
-    [ "JustEngagedWith", "d4/d74/a15330.html#aea2ab8bf79d6fcc3d2036d160274fab8", null ],
-    [ "Reset", "d4/d74/a15330.html#a883ef3cd1b097847de148ccb9bd3e903", null ],
-    [ "sQuestAccept", "d4/d74/a15330.html#aafef28bc7879e29d1fa79ec08f58da55", null ],
-    [ "UpdateEscortAI", "d4/d74/a15330.html#a34236331be8842a9e2a98036ea382e18", null ],
-    [ "WaypointReached", "d4/d74/a15330.html#a7278a3cff406af2ecb3d29c7bf90febc", null ],
-    [ "_events", "d4/d74/a15330.html#a32dad2bde92efab7e0f0d16e809df665", null ],
-    [ "_player", "d4/d74/a15330.html#ac3d7059ee67abcafa0586f0bed5df9cc", null ]
+    [ "npc_dirt_mound", "d4/d74/a15330.html#add7daefa1c96fb9d843248f8ca4796f6", null ],
+    [ "ChaseNewTarget", "d4/d74/a15330.html#a16656fb7ad8cda5916e8da0002cf0292", null ],
+    [ "EnterEvadeMode", "d4/d74/a15330.html#ac5fdeea9dc5553b689d3a8a9b0b73d34", null ],
+    [ "JustEngagedWith", "d4/d74/a15330.html#abf39fb8d63325eea7928b88b2b486ad2", null ],
+    [ "JustSummoned", "d4/d74/a15330.html#a5da17256d0cd4f6cb0e1256afe4b6539", null ],
+    [ "Reset", "d4/d74/a15330.html#ae1662eb73f21351e07d00a717421de68", null ],
+    [ "SetData", "d4/d74/a15330.html#a4faa65dd3260104202e4bdd34bc0b67d", null ],
+    [ "UpdateAI", "d4/d74/a15330.html#a88447191070cf8b84df96db565eef48d", null ],
+    [ "_instance", "d4/d74/a15330.html#ac9f138567a4367aeb5d7b1f6caea90c6", null ],
+    [ "_ouroHealth", "d4/d74/a15330.html#ac83391fa5069ae4574748f82d15e833d", null ]
 ];

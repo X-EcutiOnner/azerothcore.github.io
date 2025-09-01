@@ -1,12 +1,7 @@
 var a11374 =
 [
-    [ "CreatureTextBuilder", "de/dfc/a11374.html#a582eed3ab284675e72261a1db9808925", null ],
-    [ "operator()", "de/dfc/a11374.html#a851cc84cc7faebfffe3267ecb0d3b3fb", null ],
-    [ "_gender", "de/dfc/a11374.html#a615c3046f749bf44b036958fb1a50128", null ],
-    [ "_language", "de/dfc/a11374.html#ac6e3bea125cd2b44a56f899c4aa35e1b", null ],
-    [ "_msgType", "de/dfc/a11374.html#ac4b4f75821f4ff5855cafca91523cbca", null ],
-    [ "_source", "de/dfc/a11374.html#ab87c45c49aa07b4434e42b6d7948e8b3", null ],
-    [ "_target", "de/dfc/a11374.html#a5a5fd218c7162ba634455e0db6ee35a1", null ],
-    [ "_textGroup", "de/dfc/a11374.html#afcd842c1482980c6232f3f19d21a1481", null ],
-    [ "_textId", "de/dfc/a11374.html#a3f40b8dd1da052a372afbbc5f06700ac", null ]
+    [ "EffectNameCheck", "de/dfc/a11374.html#aa82307388bdda7864bb085a349b63f29", null ],
+    [ "Check", "de/dfc/a11374.html#a729d7f07669dedec50f009a87b8f32a4", null ],
+    [ "ToString", "de/dfc/a11374.html#a31e545b0ae22cad4be815ea9e3b44377", null ],
+    [ "effName", "de/dfc/a11374.html#a905224fb028ea0eab350773b7230f871", null ]
 ];

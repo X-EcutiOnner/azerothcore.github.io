@@ -1,5 +1,6 @@
 var a27078 =
 [
-    [ "AreaTrigger_at_stormwright_shelf", "dd/dc0/a27078.html#a97cdf51a8992b3d9edc138351770fd75", null ],
-    [ "OnTrigger", "dd/dc0/a27078.html#ab635f9328b35f3570211cf6ffc60a4c6", null ]
+    [ "HandleRemove", "dd/dc0/a27078.html#a0ac8fe6a39ae00e50f219bf02c26f1a4", null ],
+    [ "PrepareAuraScript", "dd/dc0/a27078.html#a0517fe77f15e1b9cf6153ed2aaf9cee8", null ],
+    [ "Register", "dd/dc0/a27078.html#ac968ede75fd5d98ba9a10dc9f6bdbb85", null ]
 ];

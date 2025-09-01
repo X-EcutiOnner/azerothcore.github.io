@@ -1,20 +1,16 @@
 var a15734 =
 [
-    [ "npc_ranshallaAI", "da/d84/a15734.html#a8d41e290f9545fb72daf5e503b3c660b", null ],
-    [ "DoChannelTorchSpell", "da/d84/a15734.html#ade38de77f83da2f084a9ad3f8ada01d3", null ],
-    [ "DoContinueEscort", "da/d84/a15734.html#aef1192735d87a7e83ea00cc8cb9303c7", null ],
-    [ "DoSummonPriestess", "da/d84/a15734.html#a15f8706b9084b72359e4c8433d771d89", null ],
-    [ "GetSpeakerByEntry", "da/d84/a15734.html#ad930520b705ab63f903f7b68d660adbb", null ],
-    [ "JustDidDialogueStep", "da/d84/a15734.html#a6a20f536d6e360d07970955a8ff9902c", null ],
-    [ "Reset", "da/d84/a15734.html#a0b07925593835ce4d4aaab2f672ae387", null ],
-    [ "SummonedMovementInform", "da/d84/a15734.html#a453cfe020d81e27daa8d779be64012ee", null ],
-    [ "UpdateEscortAI", "da/d84/a15734.html#afabe9208f01fe3d2f128feba8f18426d", null ],
-    [ "WaypointReached", "da/d84/a15734.html#a96ff03de70b433e2ff5c35f50d062c55", null ],
-    [ "_altarGUID", "da/d84/a15734.html#ab9e42364744d89301944b7baa852bc9f", null ],
-    [ "_delayTimer", "da/d84/a15734.html#a219e1f257f0ddae9de5fd89ba9a338be", null ],
-    [ "_firstPriestessGUID", "da/d84/a15734.html#ae5289a2645f3d17da452810b22a77713", null ],
-    [ "_guardEluneGUID", "da/d84/a15734.html#a575afe78a40c8d49a928772fbec64dd9", null ],
-    [ "_secondPriestessGUID", "da/d84/a15734.html#a800131f5a4355e293c5edc009dbbdd20", null ],
-    [ "_voiceEluneGUID", "da/d84/a15734.html#af676158d45338ddbc2a366e399796642", null ],
-    [ "events", "da/d84/a15734.html#a1deb2de50401297451a3e314b5369b5e", null ]
+    [ "npc_qiraj_war_spawnAI", "da/d84/a15734.html#a1122bc3961300ba39c02613ba0fcd909", null ],
+    [ "JustDied", "da/d84/a15734.html#ada3362722a2f7a4ac5e3e807385c30fc", null ],
+    [ "JustEngagedWith", "da/d84/a15734.html#a628da97f8b8bda848880c53a509ad1f5", null ],
+    [ "Reset", "da/d84/a15734.html#a617104afe4d5cca5cd0d98fe12cb1608", null ],
+    [ "UpdateAI", "da/d84/a15734.html#afeed6ddc214d7d6ba6156a90e4465cb2", null ],
+    [ "hasTarget", "da/d84/a15734.html#ad36ad196f757d6014f7aa7cf7afb167b", null ],
+    [ "MobGUID", "da/d84/a15734.html#a4148121a56275770ee84744a0288b6c5", null ],
+    [ "PlayerGUID", "da/d84/a15734.html#a9e4294e9b7ce773263e0bd16512602ce", null ],
+    [ "SpellTimer1", "da/d84/a15734.html#a8979a90473c62aad604857d92574e5f1", null ],
+    [ "SpellTimer2", "da/d84/a15734.html#a91cb2356a92ef987bd1ba6d31b560ec1", null ],
+    [ "SpellTimer3", "da/d84/a15734.html#aeea20bb2f78ece03df38a3e9aa5d8b59", null ],
+    [ "SpellTimer4", "da/d84/a15734.html#a301971cf821e68e6be3223d4076f8b49", null ],
+    [ "Timers", "da/d84/a15734.html#a460bbddfe94e9c84eaa0ad83e087ebf4", null ]
 ];

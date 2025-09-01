@@ -1,7 +1,15 @@
 var a22842 =
 [
-    [ "PrepareAuraScript", "d9/de7/a22842.html#ae6879f1d8c27f19cf3e3ada0b34d568f", null ],
-    [ "ReflectDamage", "d9/de7/a22842.html#acde2cbf4d196cba1fa2c02393c08fe9f", null ],
-    [ "Register", "d9/de7/a22842.html#aa1f27d25209f14dd8bf711bc15cb9165", null ],
-    [ "Validate", "d9/de7/a22842.html#aa730b912aadcde53f6cd94c2a8c99493", null ]
+    [ "boss_grandmaster_vorpil", "d9/de7/a22842.html#a0196ae46acba9c640b6fdfe30ac63f31", null ],
+    [ "counterVoidSpawns", "d9/de7/a22842.html#a7a7c5679fe784025423119dd31d0e6ef", null ],
+    [ "JustDied", "d9/de7/a22842.html#ab492fff8a9a275c662b44eeff3300b90", null ],
+    [ "JustEngagedWith", "d9/de7/a22842.html#af1e6da02cd33742efad568424cf32c4f", null ],
+    [ "JustSummoned", "d9/de7/a22842.html#a8a661b495d7fca340f3bd291d34ab3fc", null ],
+    [ "KilledUnit", "d9/de7/a22842.html#af7779029f926e6d1c805b2f6c78cfd06", null ],
+    [ "MoveInLineOfSight", "d9/de7/a22842.html#adb24a3d337b64f37759a3a39802d7e27", null ],
+    [ "Reset", "d9/de7/a22842.html#a6471121ee02a834591b36d03fae28672", null ],
+    [ "spawnVoidTraveler", "d9/de7/a22842.html#aa842bc3d88d0a3a411dcba3711809956", null ],
+    [ "summonPortals", "d9/de7/a22842.html#a7cbdb7e7652dcac799b6f59424c8e9fd", null ],
+    [ "sayHelp", "d9/de7/a22842.html#a3c83e1f9305fc17aebb4ec5f16225e17", null ],
+    [ "sayIntro", "d9/de7/a22842.html#a5dd0edce19b33a1dd87d5b6e4458949f", null ]
 ];

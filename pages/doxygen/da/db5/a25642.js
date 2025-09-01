@@ -1,6 +1,6 @@
 var a25642 =
 [
-    [ "CalculateAmount", "da/db5/a25642.html#ad80edf403addb2d907d0d3d778b6745f", null ],
-    [ "PrepareAuraScript", "da/db5/a25642.html#a96c2e2cdd259d96bb7aa12eb42856cf4", null ],
-    [ "Register", "da/db5/a25642.html#a538ab0fdebbafa3c96183f639fe8968b", null ]
+    [ "HandleItemRemove", "da/db5/a25642.html#a28f8f8e6823bad14900d08ba10cab7e6", null ],
+    [ "PrepareSpellScript", "da/db5/a25642.html#a8b43e146724a2c8b3c495e886a79d021", null ],
+    [ "Register", "da/db5/a25642.html#af8b02c31b81dce516ea47d6a1235d683", null ]
 ];

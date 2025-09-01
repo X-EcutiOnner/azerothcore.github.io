@@ -1,16 +1,15 @@
 var a17002 =
 [
-    [ "boss_ickAI", "d9/d6a/a17002.html#a72c90af745b63202edc36b84b3f4df12", null ],
-    [ "CanAIAttack", "d9/d6a/a17002.html#afa3a7ef19f014ed9c46be4a3adc83aa3", null ],
-    [ "DamageTaken", "d9/d6a/a17002.html#a96d39b533a96503d59c41c9e7cdd4ac4", null ],
-    [ "GetKrick", "d9/d6a/a17002.html#a2d6192f314e76886204c7248d141260a", null ],
-    [ "JustDied", "d9/d6a/a17002.html#afd7752ee19dcc6be0b28181bb4485146", null ],
-    [ "JustEngagedWith", "d9/d6a/a17002.html#a27598604e65417225acd41d6f05cc717", null ],
-    [ "JustSummoned", "d9/d6a/a17002.html#abf700d993e1cfaa0cc64d90903bfa842", null ],
-    [ "KilledUnit", "d9/d6a/a17002.html#a618c4e704d9a90d8bf4fac2d22bda6b3", null ],
-    [ "Reset", "d9/d6a/a17002.html#a9ba668208cda4dd33fd4eacb04476e2e", null ],
-    [ "SpellHitTarget", "d9/d6a/a17002.html#a5d90395d45509f8aeb244f4a4743d07d", null ],
-    [ "UpdateAI", "d9/d6a/a17002.html#a74bd63ac9558ecec52affaa7440360a1", null ],
-    [ "events", "d9/d6a/a17002.html#aab514bb5f930d9eb545a279181632796", null ],
-    [ "pInstance", "d9/d6a/a17002.html#a1ad5a6809ffe750a5538dc650a437b81", null ]
+    [ "boss_falricAI", "d9/d6a/a17002.html#a8b333fe1571f98b4e9f44152d130a22d", null ],
+    [ "DoAction", "d9/d6a/a17002.html#a2a7de8f939cd3cdc113c841da36e28c8", null ],
+    [ "EnterEvadeMode", "d9/d6a/a17002.html#aacb6a3b13fe5ea08ab2ff0e77ff841a4", null ],
+    [ "JustDied", "d9/d6a/a17002.html#a4ee3163afcda23102d639740fd628f39", null ],
+    [ "JustEngagedWith", "d9/d6a/a17002.html#ae5a8b14e1984dbd2866af7c442c02df2", null ],
+    [ "KilledUnit", "d9/d6a/a17002.html#a4a8b45eb85c1328af6beec69f2db1842", null ],
+    [ "Reset", "d9/d6a/a17002.html#a0af8ef161bc2a37a5c7f7fa880194251", null ],
+    [ "UpdateAI", "d9/d6a/a17002.html#a640036111dcd14e40016342ffdef7d63", null ],
+    [ "events", "d9/d6a/a17002.html#aa94ca00db157378071b78142b213de23", null ],
+    [ "pInstance", "d9/d6a/a17002.html#aebeae3541bbbf392c44fd52516bb2d98", null ],
+    [ "startFightTimer", "d9/d6a/a17002.html#addd560074b840aed36f41883f893340e", null ],
+    [ "uiHopelessnessCount", "d9/d6a/a17002.html#a0ad83fb57263116a59976834c6667ea9", null ]
 ];

@@ -1,14 +1,11 @@
 var a22610 =
 [
-    [ "boss_nexusprince_shaffar", "d3/dc6/a22610.html#a2e861fb53bca7a40e967971b5e7be533", null ],
-    [ "JustDied", "d3/dc6/a22610.html#abf2fef0888bced83511883027bf4d500", null ],
-    [ "JustEngagedWith", "d3/dc6/a22610.html#af28242e0c0f2dcbfb2fb16514d912200", null ],
-    [ "JustSummoned", "d3/dc6/a22610.html#a576240b46ce0988f0ef86e1460c831ef", null ],
-    [ "KilledUnit", "d3/dc6/a22610.html#ad5dd5ab4178d968146e2205e60c49d07", null ],
-    [ "MoveInLineOfSight", "d3/dc6/a22610.html#a71e501225d88851210d2e0e58de27f99", null ],
-    [ "Reset", "d3/dc6/a22610.html#a35db119f5351a8ef9bef4588cbdd83cf", null ],
-    [ "SummonedCreatureDespawn", "d3/dc6/a22610.html#ab806564e96708ca12f444249abd3c88c", null ],
-    [ "UpdateAI", "d3/dc6/a22610.html#a147500575a3821262ec718ec023b458c", null ],
-    [ "HasTaunted", "d3/dc6/a22610.html#aa7d55363fe9a326dc86bd4f4076d12ab", null ],
-    [ "summons", "d3/dc6/a22610.html#a1d6ec0b04ee406d85aa5a39ed32e8c4a", null ]
+    [ "npc_drakuru_shacklesAI", "d3/dc6/a22610.html#aeb55bf23d97e963b0fb9a18596bb58b1", null ],
+    [ "LockRageclaw", "d3/dc6/a22610.html#aa58fff9ee8e6cbe4d2dd0d391215f1f4", null ],
+    [ "Reset", "d3/dc6/a22610.html#a566fba51edcddab8c5b0bf5688571f80", null ],
+    [ "SpellHit", "d3/dc6/a22610.html#a04a9f0cc28cd8cab89120e66972b74cf", null ],
+    [ "UnlockRageclaw", "d3/dc6/a22610.html#a65a4b408ac09ffa3155b955dc054d971", null ],
+    [ "UpdateAI", "d3/dc6/a22610.html#a8a04ac89e5ec9ce841445913765a1a73", null ],
+    [ "_rageclawGUID", "d3/dc6/a22610.html#a1c991305f4ef30146930747881e57de4", null ],
+    [ "timer", "d3/dc6/a22610.html#a2a6484216abd731ad016284a79575e1c", null ]
 ];

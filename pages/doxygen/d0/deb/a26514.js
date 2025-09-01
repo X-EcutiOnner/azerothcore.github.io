@@ -1,7 +1,6 @@
 var a26514 =
 [
-    [ "HandleDummy", "d0/deb/a26514.html#ab046ef0adc63c32a153ba4ea866f8dcd", null ],
-    [ "PrepareSpellScript", "d0/deb/a26514.html#ac293d1c1aac41808f81cad2974424c2e", null ],
-    [ "Register", "d0/deb/a26514.html#ab145e1826eb63d0b6b1ea39a6c3c4d36", null ],
-    [ "Validate", "d0/deb/a26514.html#aa725a6ee483dfac46724d291de4ee54b", null ]
+    [ "CheckProc", "d0/deb/a26514.html#aa9cf64a1965bd7924ce5a9c639d85fb3", null ],
+    [ "PrepareAuraScript", "d0/deb/a26514.html#a87d2959523a306f85c69aa5a7a5b3de5", null ],
+    [ "Register", "d0/deb/a26514.html#a9dee4c4568f36f82b82148cb847d50ca", null ]
 ];

@@ -1,6 +1,8 @@
 var a27662 =
 [
-    [ "npc_venomhide_hatchlingAI", "de/d61/a27662.html#aa5929973ae39166ef381a3ed3c42a29c", null ],
-    [ "IsSummonedBy", "de/d61/a27662.html#a6e1b76f43217f1eb855b50d58a069518", null ],
-    [ "SpellHit", "de/d61/a27662.html#ac6c255438dc2f6c750ee47b61fbc20a3", null ]
+    [ "npc_franklinAI", "d1/dcb/a27666.html", "d1/dcb/a27666" ],
+    [ "npc_franklin", "de/d61/a27662.html#aab059dfa69e52083892e3170c8838e0a", null ],
+    [ "GetAI", "de/d61/a27662.html#a10933878afe9d0cc78fa1113341fd522", null ],
+    [ "OnGossipHello", "de/d61/a27662.html#a318d512914b135800caabe0efbb1c467", null ],
+    [ "OnGossipSelect", "de/d61/a27662.html#a8c37ff7ff15cc9ac49dadabd1650964d", null ]
 ];

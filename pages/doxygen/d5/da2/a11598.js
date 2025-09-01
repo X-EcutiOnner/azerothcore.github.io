@@ -1,10 +1,6 @@
 var a11598 =
 [
-    [ "bf_commandscript", "d5/da2/a11598.html#a806ca440ae1b51fffefee9d298dab3df", null ],
-    [ "GetCommands", "d5/da2/a11598.html#a97f0192d7ccd3532cfceaebff9f242be", null ],
-    [ "HandleBattlefieldEnable", "d5/da2/a11598.html#a08dd3bdd279c760fe0f126200a01619e", null ],
-    [ "HandleBattlefieldEnd", "d5/da2/a11598.html#af7100032ad26a66fbc9d9b37d1da98e1", null ],
-    [ "HandleBattlefieldStart", "d5/da2/a11598.html#a55102cc3b29a3ded0832ec82be1e3a5e", null ],
-    [ "HandleBattlefieldSwitch", "d5/da2/a11598.html#ac12cac377007d90b25b9797f2b2cc8de", null ],
-    [ "HandleBattlefieldTimer", "d5/da2/a11598.html#a7168b3db9435d70e2c5ca5eb41fc8ef2", null ]
+    [ "Command", "d5/da2/a11598.html#a65dc9a4861ab63743146c65a0a6249f2", null ],
+    [ "Data", "d5/da2/a11598.html#abda0f8cc15c7fb45fa81fcf5ccad8d08", null ],
+    [ "DataSize", "d5/da2/a11598.html#a279f37acfa44c06ae14c5a544dd7baf6", null ]
 ];

@@ -1,6 +1,6 @@
 var a26294 =
 [
-    [ "HandleScriptEffect", "d6/d8b/a26294.html#ab958c74ba8b40488751e5137eb0b6a66", null ],
-    [ "PrepareSpellScript", "d6/d8b/a26294.html#a810fcbfe27f3c6991d1c5f599609b6f7", null ],
-    [ "Register", "d6/d8b/a26294.html#a12c61c9057250f12ea50be74ba74c948", null ]
+    [ "CheckTarget", "d6/d8b/a26294.html#af1dae4f351ccaa7bc9b2ea315f0752c5", null ],
+    [ "PrepareSpellScript", "d6/d8b/a26294.html#a8f4075c80c7dcaa16f71bc1b396d005f", null ],
+    [ "Register", "d6/d8b/a26294.html#af4a27df3090a45ebd5db29c58e9ea47f", null ]
 ];

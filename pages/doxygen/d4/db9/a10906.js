@@ -1,10 +1,8 @@
 var a10906 =
 [
-    [ "WorldStateInfo", "dd/df5/a10910.html", "dd/df5/a10910" ],
-    [ "InitWorldStates", "d4/db9/a10906.html#a9b1f27c7a07df6629473a6e9d6aa45b5", null ],
-    [ "Write", "d4/db9/a10906.html#ad40588a16c7430a633c0537c82ea3a5b", null ],
-    [ "AreaID", "d4/db9/a10906.html#a98ac08c68b5c004fd352f38c7084531f", null ],
-    [ "MapID", "d4/db9/a10906.html#a657c3043204c6957e8438c3c3c7068f3", null ],
-    [ "Worldstates", "d4/db9/a10906.html#a29ffba2a130f0b93d61b2025255502fb", null ],
-    [ "ZoneID", "d4/db9/a10906.html#add07a226b1fe8ea752306b0e04d4ef71", null ]
+    [ "PauseMirrorTimer", "d4/db9/a10906.html#a05ccc52cb56d38cadb27fbde2563df45", null ],
+    [ "PauseMirrorTimer", "d4/db9/a10906.html#ad6e7a6eb3edadc235dc5bb97802381ac", null ],
+    [ "Write", "d4/db9/a10906.html#aea61f9e668173b65eac3b9f42ddd68a1", null ],
+    [ "Paused", "d4/db9/a10906.html#a7adf6dcd7e712792ea94bad77f8be232", null ],
+    [ "Timer", "d4/db9/a10906.html#a4a041bf772ef3f145bde6be9f8ecdc13", null ]
 ];

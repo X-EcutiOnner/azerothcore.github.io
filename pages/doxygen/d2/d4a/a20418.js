@@ -1,6 +1,7 @@
 var a20418 =
 [
-    [ "npc_ulduar_leviathan_mkiiAI", "da/d61/a20422.html", "da/d61/a20422" ],
-    [ "npc_ulduar_leviathan_mkii", "d2/d4a/a20418.html#a9e4671adcb2409a7c83460d28d29f579", null ],
-    [ "GetAI", "d2/d4a/a20418.html#afe438e97b6989a8899850619c87cd7e6", null ]
+    [ "HandleEffectPeriodic", "d2/d4a/a20418.html#a428d1251465cc9947e7474eab83494e3", null ],
+    [ "PrepareAuraScript", "d2/d4a/a20418.html#aa6bfb37f305531f67fa5fad67c83acb9", null ],
+    [ "Register", "d2/d4a/a20418.html#a3ccee6d2c8ac244f5370d11b6a4492b6", null ],
+    [ "Validate", "d2/d4a/a20418.html#a7d4ede9af946be71bbc5531164ed3f17", null ]
 ];

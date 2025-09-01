@@ -1,6 +1,10 @@
 var a21830 =
 [
-    [ "npc_q24545_wretched_ghoulAI", "db/dce/a21834.html", "db/dce/a21834" ],
-    [ "npc_q24545_wretched_ghoul", "db/ded/a21830.html#a3842b5bd89c911d29d561307113fb032", null ],
-    [ "GetAI", "db/ded/a21830.html#ada973de0ff7295f0441cbd6b6aaca9ac", null ]
+    [ "npc_preparations_for_war_vehicle", "db/ded/a21830.html#a56b37aa1c2b50cac4dfb6b907ffb6d48", null ],
+    [ "InitializeAI", "db/ded/a21830.html#a85eaba9e51498313f8498eaaf0e7d0d1", null ],
+    [ "MovementInform", "db/ded/a21830.html#ac78c5675b42563f46cc2af0f0c97bee0", null ],
+    [ "UpdateAI", "db/ded/a21830.html#ae40a23070d96ecf122e9de5571a845ef", null ],
+    [ "pointId", "db/ded/a21830.html#ae75d286eb6116b41adb346861b3c1365", null ],
+    [ "searchForShipTimer", "db/ded/a21830.html#a49f8a43891d61460b1d6cdde610a2e88", null ],
+    [ "transportEntry", "db/ded/a21830.html#aa0083566387cd42750aaa56b1fa23fed", null ]
 ];

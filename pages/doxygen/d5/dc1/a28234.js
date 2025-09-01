@@ -1,4 +1,6 @@
 var a28234 =
 [
-    [ "ratio", "d5/dc1/a28234.html#ad3cdf9a27817d39d05b8b785f5ba5ac7", null ]
+    [ "AreaGroupId", "d5/dc1/a28234.html#a2868a59574e635d5f5859cfa01811151", null ],
+    [ "AreaId", "d5/dc1/a28234.html#aabde46a6c77db2c7fb92ca211c86727a", null ],
+    [ "nextGroup", "d5/dc1/a28234.html#a1f966f2d6848e8aba2ae3c6bd8120503", null ]
 ];

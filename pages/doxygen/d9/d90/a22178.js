@@ -1,6 +1,6 @@
 var a22178 =
 [
-    [ "npc_vekjik", "d9/d90/a22178.html#a7439c6038237b77ba8623ae92d6cf708", null ],
-    [ "OnGossipHello", "d9/d90/a22178.html#acdbba5b4970049e72477eccf6672b0e8", null ],
-    [ "OnGossipSelect", "d9/d90/a22178.html#a0bcdcb6cd57264e664c449e261d3580b", null ]
+    [ "npc_your_inner_turmoilAI", "d5/dd3/a22182.html", "d5/dd3/a22182" ],
+    [ "npc_your_inner_turmoil", "d9/d90/a22178.html#a72856ef469bb8f6ff4a89a16159479af", null ],
+    [ "GetAI", "d9/d90/a22178.html#a29c8f76b072e891face1225770688ca6", null ]
 ];

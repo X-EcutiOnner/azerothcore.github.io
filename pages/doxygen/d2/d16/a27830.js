@@ -1,6 +1,7 @@
 var a27830 =
 [
-    [ "AreaGroupId", "d2/d16/a27830.html#a2868a59574e635d5f5859cfa01811151", null ],
-    [ "AreaId", "d2/d16/a27830.html#aabde46a6c77db2c7fb92ca211c86727a", null ],
-    [ "nextGroup", "d2/d16/a27830.html#a1f966f2d6848e8aba2ae3c6bd8120503", null ]
+    [ "npc_venomhide_hatchlingAI", "d9/db5/a27834.html", "d9/db5/a27834" ],
+    [ "npc_venomhide_hatchling", "d2/d16/a27830.html#a4dc217dd5950db7b270b7cce3e594e4d", null ],
+    [ "GetAI", "d2/d16/a27830.html#a96110b752965d751ab7b466c4f67e333", null ],
+    [ "OnGossipHello", "d2/d16/a27830.html#a404d875592b847ddb9f3250c9d954bfc", null ]
 ];

@@ -1,5 +1,8 @@
 var a00722 =
 [
-    [ "BGSpamProtect", "d9/d2a/a07326.html", "d9/d2a/a07326" ],
-    [ "sBGSpam", "db/d7c/a00722.html#ae37d7994736d43484a627d5de2af5fc1", null ]
+    [ "QuestApprenticeAnglerPlayerScript", "dc/d7e/a27850.html", "dc/d7e/a27850" ],
+    [ "ApprenticeAnglerQuestEnum", "db/d7c/a00722.html#a6d8279401bbf1ce28fa9c35fbcf1970c", [
+      [ "QUEST_APPRENTICE_ANGLER", "db/d7c/a00722.html#a6d8279401bbf1ce28fa9c35fbcf1970cacdd3122055e667091697fd808a284aba", null ]
+    ] ],
+    [ "AddSC_player_scripts", "db/d7c/a00722.html#a1f476a8466c12651b57fd55bf13b9617", null ]
 ];

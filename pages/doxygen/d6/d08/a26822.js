@@ -1,9 +1,9 @@
 var a26822 =
 [
-    [ "CheckCast", "d6/d08/a26822.html#a846862b62f5750801cd804133f290d5d", null ],
-    [ "HandleDummy", "d6/d08/a26822.html#aa56609d3c75a69fb62e302622fd11c3c", null ],
-    [ "Load", "d6/d08/a26822.html#acec7437ba80e4ae491020448a36e4559", null ],
-    [ "PrepareSpellScript", "d6/d08/a26822.html#ab5e281028c009a4b317111de9a0a17e3", null ],
-    [ "Register", "d6/d08/a26822.html#a865fa526f2131703a668e113ba0d7849", null ],
-    [ "Validate", "d6/d08/a26822.html#a6c6dee3de2c54536765cfdd97f4fd0c0", null ]
+    [ "Absorb", "d6/d08/a26822.html#adf0783559d4ca95bc09a5ef217291bc9", null ],
+    [ "CalculateAmount", "d6/d08/a26822.html#a820c27c2161063307a10903cbbc5c0fa", null ],
+    [ "Load", "d6/d08/a26822.html#a7b71990051faaa083110408c13b8401f", null ],
+    [ "PrepareAuraScript", "d6/d08/a26822.html#ad7a3e297fcd38fc9d020a3c3db32ace2", null ],
+    [ "Register", "d6/d08/a26822.html#aa443ab0eed74229883884fbced0426d7", null ],
+    [ "absorbPct", "d6/d08/a26822.html#a55c4409f74c86853d0bf5b157f6c194c", null ]
 ];

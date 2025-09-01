@@ -1,7 +1,6 @@
 var a25842 =
 [
-    [ "HandleDummy", "da/dc7/a25842.html#addfcb17cbbb56bda88997b34ce3e3ddd", null ],
-    [ "PrepareSpellScript", "da/dc7/a25842.html#a22614b06c6f1853f02a992dcab027a60", null ],
-    [ "Register", "da/dc7/a25842.html#a9ad5691f6049078c45052d07513b35a2", null ],
-    [ "Validate", "da/dc7/a25842.html#a3fab2057be5de9e2f7703b8f43a99ed5", null ]
+    [ "PartyTimeEmoteEvent", "da/dc7/a25842.html#a525efd58fc8465658208058e6dc5d31c", null ],
+    [ "Execute", "da/dc7/a25842.html#a65a796ff4efece46c519f7bdf1524bb8", null ],
+    [ "_player", "da/dc7/a25842.html#a61ecb44828c6e4c868def8899791feb3", null ]
 ];

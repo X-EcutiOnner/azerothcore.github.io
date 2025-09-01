@@ -1,6 +1,7 @@
 var a16306 =
 [
-    [ "instance_trial_of_the_champion_InstanceMapScript", "d6/d76/a16310.html", "d6/d76/a16310" ],
-    [ "instance_trial_of_the_champion", "d7/dfc/a16306.html#a7b97e3da119a7ad33a87c74647407bd8", null ],
-    [ "GetInstanceScript", "d7/dfc/a16306.html#a9227119fc47f38cd82a1fc07c04b0c86", null ]
+    [ "HandleScriptEffect", "d7/dfc/a16306.html#a9582a8faa1b8ba973a76d651a7479348", null ],
+    [ "PrepareSpellScript", "d7/dfc/a16306.html#a681102507df3aa365ee2e2f064be5e54", null ],
+    [ "Register", "d7/dfc/a16306.html#aebfea5eb3339ede812b43a08a8cb82b9", null ],
+    [ "Validate", "d7/dfc/a16306.html#ae4a5c7952856caf2a2d3919b24b61949", null ]
 ];

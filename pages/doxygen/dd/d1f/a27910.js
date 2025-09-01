@@ -1,6 +1,6 @@
 var a27910 =
 [
-    [ "AreaGroupId", "dd/d1f/a27910.html#a2868a59574e635d5f5859cfa01811151", null ],
-    [ "AreaId", "dd/d1f/a27910.html#aabde46a6c77db2c7fb92ca211c86727a", null ],
-    [ "nextGroup", "dd/d1f/a27910.html#a1f966f2d6848e8aba2ae3c6bd8120503", null ]
+    [ "CheckCast", "dd/d1f/a27910.html#a477dc7a1b91ec0d9c45f249b7b3971ab", null ],
+    [ "PrepareSpellScript", "dd/d1f/a27910.html#aa3c18907c79309a8924a98bce41e27f1", null ],
+    [ "Register", "dd/d1f/a27910.html#a6eac0b63b0b566b5cba5def85748ace3", null ]
 ];

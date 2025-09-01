@@ -1,6 +1,6 @@
 var a21998 =
 [
-    [ "npc_attracted_reef_bullAI", "d5/def/a22002.html", "d5/def/a22002" ],
-    [ "npc_attracted_reef_bull", "d6/d9b/a21998.html#acd0ade9e7ce5492c11be0b3f2696418e", null ],
-    [ "GetAI", "d6/d9b/a21998.html#af705e2768cd41c955af7f944c670ac85", null ]
+    [ "SACDeactivateEvent", "d6/d9b/a21998.html#a14f1db2f3bf7e82d0e5c5b5135d46cf9", null ],
+    [ "Execute", "d6/d9b/a21998.html#a12179c55d1999b3cd0cfc5d51d039a31", null ],
+    [ "_owner", "d6/d9b/a21998.html#acc87b2f689bf2e6a3f19440dceb6ea6d", null ]
 ];

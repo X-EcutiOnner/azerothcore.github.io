@@ -1,8 +1,11 @@
 var a12038 =
 [
-    [ "boss_halyconAI", "dc/d09/a12038.html#acc110d5d802fc0da3ea630f667167748", null ],
-    [ "JustDied", "dc/d09/a12038.html#a7d71e135a8edf3d3b99ccfcb3b071eaa", null ],
-    [ "JustEngagedWith", "dc/d09/a12038.html#a5735567462167fffa4d01800d696296e", null ],
-    [ "Reset", "dc/d09/a12038.html#ac5622260b0b40cb584cf3037521cc5b8", null ],
-    [ "UpdateAI", "dc/d09/a12038.html#a6e72949b63de3d32d8369c7122b6060d", null ]
+    [ "boss_draganthaurissanAI", "dc/d09/a12038.html#a2ecd55ed9e7e48829cb85862e965b7d8", null ],
+    [ "JustDied", "dc/d09/a12038.html#a7a7d4737c4825cfabc1012f9cce0e38a", null ],
+    [ "JustEngagedWith", "dc/d09/a12038.html#a00604bed2c13a7b470d950059122f018", null ],
+    [ "KilledUnit", "dc/d09/a12038.html#acec58686917d6e5aff9a51a96b023174", null ],
+    [ "SetData", "dc/d09/a12038.html#aaa43aa340f946f3b8361f2bb7b29ef40", null ],
+    [ "UpdateAI", "dc/d09/a12038.html#a04eaea53b78d490373f9bb911cc92596", null ],
+    [ "hasYelled", "dc/d09/a12038.html#aef5ede4f444e85fafd30faab6043672b", null ],
+    [ "SenatorYells", "dc/d09/a12038.html#ab4b27bf33b58b44ac604ca6bf6b5e424", null ]
 ];

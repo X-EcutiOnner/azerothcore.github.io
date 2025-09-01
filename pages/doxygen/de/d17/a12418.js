@@ -1,10 +1,9 @@
 var a12418 =
 [
-    [ "npc_core_ragerAI", "de/d17/a12418.html#a3c5125e0a10043f6181c10ba749fa579", null ],
-    [ "DamageTaken", "de/d17/a12418.html#a758eb158eb9d232d74514281028efcb3", null ],
-    [ "Reset", "de/d17/a12418.html#acf83e469d3d8108276227a942fda28b3", null ],
-    [ "UpdateAI", "de/d17/a12418.html#a2183cf5ab22b737413b86a657fde6d3c", null ],
-    [ "instance", "de/d17/a12418.html#a7cfddba62f737214b8cfc7fbffa8c2e2", null ],
-    [ "mangleTimer", "de/d17/a12418.html#a081333b967abb3812b9ddae2f933a324", null ],
-    [ "rangeCheckTimer", "de/d17/a12418.html#ade427bdd9ec99807b6f190c890136414", null ]
+    [ "FilterTargets", "de/d17/a12418.html#ae1029dd58a48c099e8bbd071898f1b12", null ],
+    [ "HandleOnHitRogue", "de/d17/a12418.html#a57cd6d2c45a9a73bb284272db21d1fce", null ],
+    [ "HandleOnHitWarlock", "de/d17/a12418.html#a76f9e5e11a6f2e25868dba567d798002", null ],
+    [ "PrepareSpellScript", "de/d17/a12418.html#a4792a25aa6fe6126a94900784798dbee", null ],
+    [ "Register", "de/d17/a12418.html#a0f6146c64a86e953c042f8404bbfe683", null ],
+    [ "Validate", "de/d17/a12418.html#af65d372cdbb365eff73edb8cf18734c8", null ]
 ];

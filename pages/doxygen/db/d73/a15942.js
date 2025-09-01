@@ -1,6 +1,6 @@
 var a15942 =
 [
-    [ "HandleScriptEffect", "db/d73/a15942.html#aaa650972803d14e4d74be977430b04f6", null ],
-    [ "PrepareSpellScript", "db/d73/a15942.html#a1e166c53e2051f3fae1b085a76a08c3f", null ],
-    [ "Register", "db/d73/a15942.html#a3405c1b04f2e623662c7acaa6810278c", null ]
+    [ "go_troll_cageAI", "d6/d2d/a15946.html", "d6/d2d/a15946" ],
+    [ "go_troll_cage", "db/d73/a15942.html#ac571df719edabd9e9ecf5c8bb0e153c2", null ],
+    [ "GetAI", "db/d73/a15942.html#a807f526225dc9a6b27ac64a7f4a3d9b8", null ]
 ];

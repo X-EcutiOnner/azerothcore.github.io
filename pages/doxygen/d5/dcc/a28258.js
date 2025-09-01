@@ -1,10 +1,7 @@
 var a28258 =
 [
-    [ "ID", "d5/dcc/a28258.html#a906c42770a619884f08b67e2870bff93", null ],
-    [ "reqarenapoints", "d5/dcc/a28258.html#a5d45007a832d6120e29c7821c07646de", null ],
-    [ "reqarenaslot", "d5/dcc/a28258.html#ad1e4b8f94a743bac02bbadbc8d62ad0b", null ],
-    [ "reqhonorpoints", "d5/dcc/a28258.html#aca509fb7e234bc54632ff988bf37e6ad", null ],
-    [ "reqitem", "d5/dcc/a28258.html#a9cba8872c909260a55dcfdf7f4726899", null ],
-    [ "reqitemcount", "d5/dcc/a28258.html#a615c5fe0966b5054303ebe1290adc9b6", null ],
-    [ "reqpersonalarenarating", "d5/dcc/a28258.html#af4ff8d55234b03637e4b2fbd10778e97", null ]
+    [ "Class", "d5/dcc/a28258.html#abaaa0cd4d1b7f3ef5b297c5afdbc99fe", null ],
+    [ "Gender", "d5/dcc/a28258.html#aba6251a7020c6e66b9fc7a21859df271", null ],
+    [ "ItemId", "d5/dcc/a28258.html#a7d17ef6151f6b746223e44164ab5c20d", null ],
+    [ "Race", "d5/dcc/a28258.html#aee768679c4b8ee7cd28ea3fa899206e3", null ]
 ];

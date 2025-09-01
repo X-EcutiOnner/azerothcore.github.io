@@ -1,5 +1,7 @@
 var a20166 =
 [
-    [ "achievement_shadowdodger", "d7/de5/a20166.html#a8389a4972968fcc6cd7807e96ee5e527", null ],
-    [ "OnCheck", "d7/de5/a20166.html#a3ee0baca0c9163a601cd4bcfa9ebeb04", null ]
+    [ "HandleScript", "d7/de5/a20166.html#a9580f04e1543262026818f0944bb96c3", null ],
+    [ "PrepareSpellScript", "d7/de5/a20166.html#a924ae640d448da777ce3ecb059c1c9b6", null ],
+    [ "Register", "d7/de5/a20166.html#ac05e58e9b5618b1f079bd1c4924a0f9f", null ],
+    [ "Validate", "d7/de5/a20166.html#a8fc8712a76939dea6831a9eb5b95f946", null ]
 ];

@@ -1,7 +1,7 @@
 var a22114 =
 [
-    [ "HandleScriptEffect", "d2/d2b/a22114.html#ad20cf97a7dd442d5670a22095b487a01", null ],
-    [ "PrepareSpellScript", "d2/d2b/a22114.html#ab0f6da0cb3115e54dbb59f0e6f823d02", null ],
-    [ "Register", "d2/d2b/a22114.html#a996ea344ea2a3312cb8886565b80972d", null ],
-    [ "Validate", "d2/d2b/a22114.html#a29bf5a9615e02281f426bf521a045567", null ]
+    [ "npc_amberpine_woodsmanAI", "d2/d2b/a22114.html#aa0f37b54c5bfc2f923d09437b8b30424", null ],
+    [ "Reset", "d2/d2b/a22114.html#a8da613c7bbaadf331c95667e7a361702", null ],
+    [ "UpdateAI", "d2/d2b/a22114.html#a64dbf41424a710c400d51507f6457b41", null ],
+    [ "_events", "d2/d2b/a22114.html#aac8cd045a5518e3eaa9c24e0fb83ddaa", null ]
 ];

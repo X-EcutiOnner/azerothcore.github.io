@@ -1,6 +1,6 @@
 var a20978 =
 [
-    [ "OnEffect", "d3/dbe/a20978.html#aa24cfd6feec65f466e74c68484815c1e", null ],
-    [ "PrepareSpellScript", "d3/dbe/a20978.html#a648fb610fb1914efac7f2cb6e1bb4290", null ],
-    [ "Register", "d3/dbe/a20978.html#ac1c0076665edc6a2b3a0228340020a1e", null ]
+    [ "boss_yoggsaron_cloudAI", "d3/de6/a20982.html", "d3/de6/a20982" ],
+    [ "boss_yoggsaron_cloud", "d3/dbe/a20978.html#ab52cc1fa8b45b70dde340b9f463ef2f1", null ],
+    [ "GetAI", "d3/dbe/a20978.html#a2005f062eb9d78c7b09b045eba570b98", null ]
 ];

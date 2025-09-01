@@ -1,6 +1,8 @@
 var a21118 =
 [
-    [ "boss_palehoofAI", "de/def/a21122.html", "de/def/a21122" ],
-    [ "boss_palehoof", "d1/d2e/a21118.html#ac0e541befaad7e1e6e318d64ca4a1d94", null ],
-    [ "GetAI", "d1/d2e/a21118.html#ae33ca6e71b251214be50168a5940d058", null ]
+    [ "FilterTargets", "d1/d2e/a21118.html#a3d92ca79a15efaff3c4dd28f0c7ede2c", null ],
+    [ "HandleDummyEffect", "d1/d2e/a21118.html#afbf3aab6724d12426ab0197fb9459562", null ],
+    [ "PrepareSpellScript", "d1/d2e/a21118.html#a7ec441904bc100c6b15ee219617489ff", null ],
+    [ "Register", "d1/d2e/a21118.html#a2796cc02d7c029f3f99264162a19e1d2", null ],
+    [ "Validate", "d1/d2e/a21118.html#a85388adbc15d449e687f9f463cce3833", null ]
 ];

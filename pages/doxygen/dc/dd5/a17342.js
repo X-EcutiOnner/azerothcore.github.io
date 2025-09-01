@@ -1,7 +1,10 @@
 var a17342 =
 [
-    [ "HandleDummyTick", "dc/dd5/a17342.html#a9aa9a7a6c2e09c840cfca3253c2ac7c0", null ],
-    [ "PrepareAuraScript", "dc/dd5/a17342.html#a577523701b5a4ea2def4999e634c8862", null ],
-    [ "Register", "dc/dd5/a17342.html#aaad9185c62333de4d6704b22780edd28", null ],
-    [ "Validate", "dc/dd5/a17342.html#a9cfabcbbb9805a902fdd2d1b327dc4c7", null ]
+    [ "npc_living_mojoAI", "dc/dd5/a17342.html#ab0e6dd5db0c358ff4fefc4797a622b8c", null ],
+    [ "AttackStart", "dc/dd5/a17342.html#ad3f73a040176cd804f9715141063d176", null ],
+    [ "DoAction", "dc/dd5/a17342.html#a9d942e99f358a7488d473969ab461d6f", null ],
+    [ "MoveInLineOfSight", "dc/dd5/a17342.html#a7981568666269e25580ae839f1f97f09", null ],
+    [ "Reset", "dc/dd5/a17342.html#a139df1207438dbd3793a2fbc58c2396c", null ],
+    [ "UpdateAI", "dc/dd5/a17342.html#a418d7eee72f0a8506357eee3f1fbaf6c", null ],
+    [ "events", "dc/dd5/a17342.html#acc7fd42cf4ea4b0203ad7ba4f775e3f2", null ]
 ];

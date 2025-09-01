@@ -1,10 +1,7 @@
 var a26010 =
 [
-    [ "CheckProc", "d7/d32/a26010.html#a787008462dce35eb27deda41301b146d", null ],
-    [ "HandleProc", "d7/d32/a26010.html#a5b791c7cb8dae574fef801ce42dc6aa1", null ],
-    [ "Load", "d7/d32/a26010.html#a9760351c28f5f9948f0b64ae2ca91c24", null ],
-    [ "PrepareAuraScript", "d7/d32/a26010.html#ab3d5e71597c67ec0aed70f7e5d2319ac", null ],
-    [ "Register", "d7/d32/a26010.html#aa4ef731870355dc386fcd07c5f19d090", null ],
-    [ "Validate", "d7/d32/a26010.html#ad04864f0710262364cf40e071446d87c", null ],
-    [ "_procTarget", "d7/d32/a26010.html#a9383231fc71c6239507fdf8765d63f3d", null ]
+    [ "HandleEnergize", "d7/d32/a26010.html#a283e713252166a863aa96530d6e7608b", null ],
+    [ "Load", "d7/d32/a26010.html#a89847e0e9435a708c5722ff928f7033f", null ],
+    [ "PrepareSpellScript", "d7/d32/a26010.html#a8847e05e6eeafd801fca5423d0689432", null ],
+    [ "Register", "d7/d32/a26010.html#ae0778ffd8cf203e22510ee91b0394303", null ]
 ];

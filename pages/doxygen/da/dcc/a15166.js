@@ -1,7 +1,7 @@
 var a15166 =
 [
-    [ "npc_sartura_royal_guard", "da/dcc/a15166.html#a3ce2aeec4e5f26916ef50bdeea624c9d", null ],
-    [ "JustEngagedWith", "da/dcc/a15166.html#a0b162e1fcc925f65fedbfe235b59eb0e", null ],
-    [ "Reset", "da/dcc/a15166.html#a2b604aada12ca7f3e712cdbd1a3f397a", null ],
-    [ "UpdateAI", "da/dcc/a15166.html#a2ed50f65847133c897facecbaa4711d8", null ]
+    [ "go_sand_trap", "da/dcc/a15166.html#a58d45acac672cb05988ddca78185b469", null ],
+    [ "Reset", "da/dcc/a15166.html#a7071a3e420e9137ca133b471bc217bf3", null ],
+    [ "UpdateAI", "da/dcc/a15166.html#a2e4a5fec4d4c790233ca97e6a7732ac4", null ],
+    [ "_scheduler", "da/dcc/a15166.html#af845c0efb3d8ebe53d3620970a84f1e4", null ]
 ];

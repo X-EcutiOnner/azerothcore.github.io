@@ -1,9 +1,8 @@
 var a18374 =
 [
-    [ "FilterTargets", "d5/d81/a18374.html#a2b669cd93ed96417e4a0a6d83e4095cd", null ],
-    [ "Load", "d5/d81/a18374.html#aaec66c1d360ffa4e25d86f331f3521dd", null ],
-    [ "PrepareSpellScript", "d5/d81/a18374.html#a34d702b1299e2ee27eb1c27bc49be9dc", null ],
-    [ "Register", "d5/d81/a18374.html#afad887fba0d97512a7a13a31977cf42d", null ],
-    [ "Validate", "d5/d81/a18374.html#a2ff2dcfa096bf237c9c4c442ec13fa4d", null ],
-    [ "_instance", "d5/d81/a18374.html#a96dde7a1b30682c6bb04c1ae5449bd7c", null ]
+    [ "HeightDifferenceCheck", "d5/d81/a18374.html#aa8b61811e435cce456e5cb1d798be66e", null ],
+    [ "operator()", "d5/d81/a18374.html#a1db203642683f85176f2a35eb3d10c34", null ],
+    [ "_baseObject", "d5/d81/a18374.html#a7c274be02ca58429dffaee2ea34153c6", null ],
+    [ "_difference", "d5/d81/a18374.html#af95e2bf67c8316dda982896978c45a68", null ],
+    [ "_reverse", "d5/d81/a18374.html#a89074844d5fd8b02ed99c09ac4cc5b85", null ]
 ];

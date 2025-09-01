@@ -1,9 +1,8 @@
 var a14002 =
 [
-    [ "boss_hazzarah", "d8/dfe/a14002.html#a73ba49b91addc9c03e1692587fe66a52", null ],
-    [ "CanAIAttack", "d8/dfe/a14002.html#a9038a5b4276fda8a6865217a7c494eec", null ],
-    [ "JustEngagedWith", "d8/dfe/a14002.html#a18e382c03ff923bb851a9cd8e2541788", null ],
-    [ "JustSummoned", "d8/dfe/a14002.html#a1c3969fbc027f054598ec4123abd6fa4", null ],
-    [ "SummonedCreatureDies", "d8/dfe/a14002.html#aac0c990013edf1968d33aeb59d4f05b0", null ],
-    [ "UpdateAI", "d8/dfe/a14002.html#a61d92f1650a84ed9684d33879e54bd09", null ]
+    [ "FilterTargets", "d8/dfe/a14002.html#a43e45471ad3b8a0583aeb413d48a0f01", null ],
+    [ "OnHit", "d8/dfe/a14002.html#ac25886536c353f09838188362fb8ae84", null ],
+    [ "PrepareSpellScript", "d8/dfe/a14002.html#aab0e63163b8d84f20bbe0bcdc60c9a85", null ],
+    [ "Register", "d8/dfe/a14002.html#afa419365236c09914f758846978e2cbb", null ],
+    [ "Validate", "d8/dfe/a14002.html#ae62334ed5f46641def4a38ee178cd9d0", null ]
 ];

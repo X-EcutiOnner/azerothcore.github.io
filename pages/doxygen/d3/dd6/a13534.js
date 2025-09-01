@@ -1,6 +1,8 @@
 var a13534 =
 [
-    [ "npc_balance_of_light_and_shadowAI", "d1/d68/a13538.html", "d1/d68/a13538" ],
-    [ "npc_balance_of_light_and_shadow", "d3/dd6/a13534.html#a55229e3ea8dd9c52972185b36c08908b", null ],
-    [ "GetAI", "d3/dd6/a13534.html#a07e0547e6bf81cc7ff9fe0aa4a851388", null ]
+    [ "FilterTargets", "d3/dd6/a13534.html#a3282eb4c27b4256705bba47f4934c9b8", null ],
+    [ "HandleScriptEffect", "d3/dd6/a13534.html#a8622351d9984d2de69ccd67d37fd52b9", null ],
+    [ "PrepareSpellScript", "d3/dd6/a13534.html#a6083e35b4289b8a960dd6b223e1d02b5", null ],
+    [ "Register", "d3/dd6/a13534.html#a57b42bf7b94ef5b23092ed097ce016e8", null ],
+    [ "Validate", "d3/dd6/a13534.html#a5493864b068de82015bc157f3d0899b3", null ]
 ];

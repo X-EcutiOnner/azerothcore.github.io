@@ -1,6 +1,6 @@
 var a17942 =
 [
-    [ "ExtraEffect", "d7/d51/a17942.html#a10dfb36a835589208482e1c8833d8f46", null ],
-    [ "PrepareSpellScript", "d7/d51/a17942.html#a972ff2bdc7d3660820e05326600be6f6", null ],
-    [ "Register", "d7/d51/a17942.html#ae337e67a220b72b44878d02be33e3888", null ]
+    [ "HandlePeriodicTick", "d7/d51/a17942.html#a29bf443cdb53b10032ba382b8ae44828", null ],
+    [ "PrepareAuraScript", "d7/d51/a17942.html#aa22f2997c77c25927f01d9fb1c6852b9", null ],
+    [ "Register", "d7/d51/a17942.html#a01e31df6c6ec9f6ae5bffb4b435caf8e", null ]
 ];

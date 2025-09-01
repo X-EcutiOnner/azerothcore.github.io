@@ -1,9 +1,16 @@
 var a09590 =
 [
-    [ "BroadcastTextID", "d0/d13/a09590.html#a756f24dbee852a7fbe152c0cb082c412", null ],
-    [ "Emotes", "d0/d13/a09590.html#a0f67a651fdb3f3217279015c9e3fb292", null ],
-    [ "Language", "d0/d13/a09590.html#a33bc5a0c156918b00380710aeb275d3d", null ],
-    [ "Probability", "d0/d13/a09590.html#a5c743df7a7ad634c5b3f3376547fda00", null ],
-    [ "Text_0", "d0/d13/a09590.html#a046d637b91807db067c6e7050184322d", null ],
-    [ "Text_1", "d0/d13/a09590.html#a8d64d7b8fcdbd995cc11e22adde8c0de", null ]
+    [ "BankMoveItemData", "d0/d13/a09590.html#a9edb987f4866e8bc473fe853597bebae", null ],
+    [ "_ReserveSpace", "d0/d13/a09590.html#a109e8d55108b005426110626815ba866", null ],
+    [ "_StoreItem", "d0/d13/a09590.html#aa11267f5d6202753310da567c0be0e57", null ],
+    [ "CanStore", "d0/d13/a09590.html#ade47c73460329ca1af752921173ca75e", null ],
+    [ "CanStoreItemInTab", "d0/d13/a09590.html#a5ca7975887e5583466d066c86b3a205f", null ],
+    [ "HasStoreRights", "d0/d13/a09590.html#acd684824cab9ccb4d8fd9cbb1f1782e1", null ],
+    [ "HasWithdrawRights", "d0/d13/a09590.html#ae9d8f497b4459c982ac73ee8b5742aad", null ],
+    [ "InitItem", "d0/d13/a09590.html#a69d6b28ccdda7790f821f5181da0db96", null ],
+    [ "IsBank", "d0/d13/a09590.html#a6f1787e15918092ba000ee8bd0852b09", null ],
+    [ "LogAction", "d0/d13/a09590.html#a4f23cdffba39ffa78c38851ff7aa7d0c", null ],
+    [ "LogBankEvent", "d0/d13/a09590.html#a054ca0f7eecfd404651c11b886d106bf", null ],
+    [ "RemoveItem", "d0/d13/a09590.html#abd15e25136ec2a00bcddbc0e81978a78", null ],
+    [ "StoreItem", "d0/d13/a09590.html#a9367b938768eefcaf5bb88e74dde9aa3", null ]
 ];

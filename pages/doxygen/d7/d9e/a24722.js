@@ -1,6 +1,7 @@
 var a24722 =
 [
-    [ "PrepareAuraScript", "d7/d9e/a24722.html#a31bde31b6db4f71ce65c6e1a862df771", null ],
-    [ "Register", "d7/d9e/a24722.html#aebe64c4760d13d8afaebcf4a4b1196fa", null ],
-    [ "UpdateAmount", "d7/d9e/a24722.html#a621e73a09438f3f9cbaa232125df3b87", null ]
+    [ "CorpseExplosionCheck", "d7/d9e/a24722.html#aa8b7957705df1d878f5123ffa31a7fd7", null ],
+    [ "operator()", "d7/d9e/a24722.html#aeab379880a8d912d6d0f7b41639edbd4", null ],
+    [ "_allowGhoul", "d7/d9e/a24722.html#abd42a0731af969ceccdfceae722ba276", null ],
+    [ "_casterGUID", "d7/d9e/a24722.html#a497df87745f452716c652e9b1be6d46f", null ]
 ];

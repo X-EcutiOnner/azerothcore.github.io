@@ -1,6 +1,7 @@
 var a27338 =
 [
-    [ "go_soulwellAI", "d1/d27/a27342.html", "d1/d27/a27342" ],
-    [ "go_soulwell", "d3/dc5/a27338.html#a3747499bd05326ef6f7024c0ee91a4ce", null ],
-    [ "GetAI", "d3/dc5/a27338.html#a0c8b8cf09c26ad08c1c6dbb1a0c57861", null ]
+    [ "HandlePeriodic", "d3/dc5/a27338.html#a3da4cc5322f2e34244729fe3b3876482", null ],
+    [ "PrepareAuraScript", "d3/dc5/a27338.html#aab7f5c5bdfdd2b440f59f16ab321765a", null ],
+    [ "Register", "d3/dc5/a27338.html#a53b6067f46912648413fc6d6f107b0d8", null ],
+    [ "Validate", "d3/dc5/a27338.html#aa03222717b3c06316b232a6ac0270ec0", null ]
 ];

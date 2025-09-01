@@ -1,6 +1,5 @@
 var a20206 =
 [
-    [ "npc_ulduar_toasty_fireAI", "d9/dc4/a20206.html#a145001c6f1c1d505f810ae545ec62c69", null ],
-    [ "DoAction", "d9/dc4/a20206.html#a8ab71582cc5d8386f788fb95203fbab5", null ],
-    [ "SpellHit", "d9/dc4/a20206.html#a0e4475382dfd754dc119d2e8dba61b7e", null ]
+    [ "achievement_flame_leviathan_unbroken", "d9/dc4/a20206.html#a30a94a92aacc558d6833994c11f3ee8a", null ],
+    [ "OnCheck", "d9/dc4/a20206.html#a78c69e3217b6598ab238a4f51ba598eb", null ]
 ];

@@ -1,5 +1,6 @@
 var a21014 =
 [
-    [ "achievement_yogg_saron_kiss_and_make_up", "d4/da0/a21014.html#a9f2e5fe9de59a9b5a00c0e73e8f9b376", null ],
-    [ "OnCheck", "d4/da0/a21014.html#a8ce7df713b804d5bdd5f6f47d77fc1b8", null ]
+    [ "boss_yoggsaron_death_orbAI", "d4/da0/a21014.html#a6e87b98e89748585a9f28c6f0e3a85e9", null ],
+    [ "UpdateAI", "d4/da0/a21014.html#afde5311434966ff0459dca8ce0d6b8b0", null ],
+    [ "_startTimer", "d4/da0/a21014.html#aebc8edef5f84219e1c50f2394d129443", null ]
 ];

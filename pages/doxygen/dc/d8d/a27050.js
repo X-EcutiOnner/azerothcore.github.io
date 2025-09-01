@@ -1,5 +1,7 @@
 var a27050 =
 [
-    [ "achievement_flirt_with_disaster_perf_check", "dc/d8d/a27050.html#a8cb843ed26248ceff594ef552b0ae9ae", null ],
-    [ "OnCheck", "dc/d8d/a27050.html#a15e620be2f37f930477ba94293dbaf63", null ]
+    [ "HandleApply", "dc/d8d/a27050.html#aa35fa107aee605a8583150901a75ad72", null ],
+    [ "HandleRemove", "dc/d8d/a27050.html#a60b6e438ff67d9db41d160020b54da40", null ],
+    [ "PrepareAuraScript", "dc/d8d/a27050.html#a1da44046f2cb9fb68b18f712111c38ea", null ],
+    [ "Register", "dc/d8d/a27050.html#ac7c9e15a796e91e0ac68791d24e3d4bf", null ]
 ];

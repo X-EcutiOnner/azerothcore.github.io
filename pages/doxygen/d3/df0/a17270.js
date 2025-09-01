@@ -1,6 +1,6 @@
 var a17270 =
 [
-    [ "boss_prince_taldaramAI", "dc/d7c/a17274.html", "dc/d7c/a17274" ],
-    [ "boss_prince_taldaram_icc", "d3/df0/a17270.html#abe14f754e1daf597aa2b7d401f337c8d", null ],
-    [ "GetAI", "d3/df0/a17270.html#a2a8c89206ab72afc68260f41a246da3b", null ]
+    [ "npc_pos_freed_slaveAI", "d3/df0/a17270.html#ad5728e427f9f4a65cea13ec2c5a01453", null ],
+    [ "CanAIAttack", "d3/df0/a17270.html#a76818ee5fcfcc5678fa9d0957a424d9b", null ],
+    [ "EnterEvadeMode", "d3/df0/a17270.html#a234135e6bea0d91611fbdbae4dec2ea1", null ]
 ];

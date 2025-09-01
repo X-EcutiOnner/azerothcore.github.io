@@ -1,17 +1,17 @@
 var a16926 =
 [
-    [ "npc_hor_lich_kingAI", "db/db1/a16926.html#a689fd445286595780c3d842976a5913f", null ],
-    [ "DoAction", "db/db1/a16926.html#a904a57d99527b6ff47d4f9ab8751a4a5", null ],
-    [ "JustSummoned", "db/db1/a16926.html#aed675a5238ca6a6312d1758ecbe86aa2", null ],
-    [ "MovementInform", "db/db1/a16926.html#aeeea82d3e5869e5f604314474533975c", null ],
-    [ "Reset", "db/db1/a16926.html#a1f1bb445ea29daaf479e7171c96db901", null ],
-    [ "SpellHitTarget", "db/db1/a16926.html#adcee3757198acfaf4fd4dc8765b86a98", null ],
-    [ "SummonedCreatureDespawn", "db/db1/a16926.html#a1f3a49cd9e1f9c1013a7c5c2ead3bb3d", null ],
-    [ "UpdateAI", "db/db1/a16926.html#a127cc66ea4804da51eb9069037b9ba33", null ],
-    [ "currentWall", "db/db1/a16926.html#a13c505b17edf9f843c6c638802eb62aa", null ],
-    [ "div2", "db/db1/a16926.html#a63a1741fba6e0fecaf9aac6b6c397acf", null ],
-    [ "events", "db/db1/a16926.html#a06550732cba84da4cbd708d03a7bd6bb", null ],
-    [ "pInstance", "db/db1/a16926.html#a5c8ce256ab8e71705bc8d84f08245417", null ],
-    [ "reqKillCount", "db/db1/a16926.html#a69da5432ed2b4ef9944fbd19c97d404d", null ],
-    [ "summons", "db/db1/a16926.html#af55dd229cd141ffab701c6ab77304127", null ]
+    [ "boss_bronjahmAI", "db/db1/a16926.html#a1cf523f4d7d23187fbc44efee4ca9ea3", null ],
+    [ "DamageTaken", "db/db1/a16926.html#addd45cd8ecccaf5e0f2fd3f08282af28", null ],
+    [ "EnterEvadeMode", "db/db1/a16926.html#aafe8adec1b16ecb324f81ac954889e2a", null ],
+    [ "JustDied", "db/db1/a16926.html#aec27198e51022639fd002879d8afa40d", null ],
+    [ "JustEngagedWith", "db/db1/a16926.html#a60719369456cb55155966ccefffe49ba", null ],
+    [ "JustReachedHome", "db/db1/a16926.html#adacba5b04f9d0c273226f055a19c0b16", null ],
+    [ "JustSummoned", "db/db1/a16926.html#a97836e7dbe9670fc5c08339bee5e4608", null ],
+    [ "KilledUnit", "db/db1/a16926.html#a7d338c31c1ec906f0395f4dfbe88448a", null ],
+    [ "Reset", "db/db1/a16926.html#a553dd0d2dd6f074bc03415f81254bc2b", null ],
+    [ "SpellHitTarget", "db/db1/a16926.html#afdc24fb0a530813e1a6618f469911f89", null ],
+    [ "UpdateAI", "db/db1/a16926.html#a883e2672d391fcc3fd643f550e3a9d45", null ],
+    [ "events", "db/db1/a16926.html#a092d2b12172f7c303bc2b0b51ecc1834", null ],
+    [ "pInstance", "db/db1/a16926.html#aa9f0c2b3e420b61e922af48be84d20d7", null ],
+    [ "summons", "db/db1/a16926.html#ad8b011080db0d4829fbbde4739371d36", null ]
 ];

@@ -1,4 +1,5 @@
 var a04433 =
 [
-    [ "GUARD_RETURN", "d3/d9a/a04433.html#a545bfab3f5e5f49c7d68774189728da8", null ]
+    [ "GetAISpellInfo", "d3/d9a/a04433.html#a1ed41ad074263f6c0c63f38b7f51414b", null ],
+    [ "IsValidCombatTarget", "d3/d9a/a04433.html#a981f03ba3b8c59eb1fa9d22df158ba19", null ]
 ];

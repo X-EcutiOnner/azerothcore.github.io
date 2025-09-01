@@ -1,7 +1,7 @@
 var a14426 =
 [
-    [ "HandleEffectApply", "d9/d76/a14426.html#ad48d832fef881bfb517fb8df694b7507", null ],
-    [ "HandleEffectRemove", "d9/d76/a14426.html#a1534b010301dbaff66d41443142c50b7", null ],
-    [ "PrepareAuraScript", "d9/d76/a14426.html#ab4bba02a5e2196ad65ccea94a4615a9d", null ],
-    [ "Register", "d9/d76/a14426.html#a97a0003cca808e5b03f720bb3be07419", null ]
+    [ "HandleScriptEffect", "d9/d76/a14426.html#ae758c224878aebdde0124b5d4ec902a5", null ],
+    [ "PrepareSpellScript", "d9/d76/a14426.html#ac3755ef09a905d90ce7df328b83d51aa", null ],
+    [ "Register", "d9/d76/a14426.html#a051d0fe383e5675e39e4ac8ed7a6e329", null ],
+    [ "Validate", "d9/d76/a14426.html#a56f71954e122f651c6e2ec68453e16cc", null ]
 ];

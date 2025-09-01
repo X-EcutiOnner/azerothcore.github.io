@@ -1,8 +1,9 @@
 var a23506 =
 [
-    [ "instance_gruuls_lair_InstanceMapScript", "d0/dad/a23506.html#a1ad656ccd4d41c756c4f525d079fd9b6", null ],
-    [ "GetData", "d0/dad/a23506.html#a410630dbbe00acf0b69603cfc357d503", null ],
-    [ "SetBossState", "d0/dad/a23506.html#a9f0752eb0ec1d9ca0681ddc5fc8d3752", null ],
-    [ "SetData", "d0/dad/a23506.html#a4cbe09489797fa0076d976f9a717a2bd", null ],
-    [ "_addsKilled", "d0/dad/a23506.html#a7a003811fcf620f3c2d11ff3498cb298", null ]
+    [ "boss_mennu_the_betrayer", "d0/dad/a23506.html#a3f881a89d1da70d066ce9a3fe0b29a3e", null ],
+    [ "JustDied", "d0/dad/a23506.html#acf87c54cc2a3ee5c8378ef40553ab51c", null ],
+    [ "JustEngagedWith", "d0/dad/a23506.html#a535b9af1677b8af50515818a18e88d27", null ],
+    [ "JustSummoned", "d0/dad/a23506.html#a59949872270890ef794a77029074210b", null ],
+    [ "KilledUnit", "d0/dad/a23506.html#a1a55fb7f1dacc5e514e71901d66bd35e", null ],
+    [ "Reset", "d0/dad/a23506.html#a6f0043e73a55cd1cccae22a806d702ea", null ]
 ];

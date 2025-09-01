@@ -1,6 +1,6 @@
 var a26330 =
 [
-    [ "CheckRequirement", "d2/db0/a26330.html#acaae3858de4d56028e3cb4581a57450c", null ],
-    [ "PrepareSpellScript", "d2/db0/a26330.html#aa1013bb1b09aae7b691b6325c8e7a405", null ],
-    [ "Register", "d2/db0/a26330.html#aa490168c69f9ba5c12db3171516dd8ac", null ]
+    [ "CheckCast", "d2/db0/a26330.html#a5f4979e1d164bee9e5a411e7d023810b", null ],
+    [ "PrepareSpellScript", "d2/db0/a26330.html#a33e86d770e926247c58c00143b55c418", null ],
+    [ "Register", "d2/db0/a26330.html#a453c7fa25baf458c9a319053ca726621", null ]
 ];

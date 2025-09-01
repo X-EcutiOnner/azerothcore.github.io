@@ -1,7 +1,9 @@
 var a13842 =
 [
-    [ "spell", "d3/db7/a13842.html#a55423d09b2f1775dc386a36168ad764d", null ],
-    [ "spiritEntry", "d3/db7/a13842.html#a987f010c8577c193898fbfcc4a55c0ee", null ],
-    [ "text", "d3/db7/a13842.html#ab604ad9429083f2e94f6a8d026bc46a5", null ],
-    [ "unaura", "d3/db7/a13842.html#a1b71fc628793ccb9027687b31d9ebcb0", null ]
+    [ "npc_tyrion_spybotAI", "d3/db7/a13842.html#aedad685279012266637d29069ead9063", null ],
+    [ "Reset", "d3/db7/a13842.html#a16f8f9fd368832aac7906c3fd8cb9698", null ],
+    [ "UpdateAI", "d3/db7/a13842.html#ad8fc713bb9673e74bfd11bc653c71587", null ],
+    [ "WaypointReached", "d3/db7/a13842.html#a819e987eeb8eb8d580a5ad22001a641d", null ],
+    [ "uiPhase", "d3/db7/a13842.html#af5dbb99fe18d96665efd04bd53294636", null ],
+    [ "uiTimer", "d3/db7/a13842.html#ab41fdff3612b29e7d0d94fb6aaa8c085", null ]
 ];

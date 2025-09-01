@@ -1,6 +1,6 @@
 var a12642 =
 [
-    [ "FilterTargets", "d7/de8/a12642.html#adae7a812a222a60f9c89cac4ea327011", null ],
-    [ "PrepareSpellScript", "d7/de8/a12642.html#a9576a48a3aa761c103f72586cd93970c", null ],
-    [ "Register", "d7/de8/a12642.html#aaadad68c322eac268ea7a45f9c369c59", null ]
+    [ "bossId", "d7/de8/a12642.html#a898f2ce24d96fb7d6a118e9772344c43", null ],
+    [ "circleId", "d7/de8/a12642.html#aaa379e61fda2f7225ab4089757df5d24", null ],
+    [ "runeId", "d7/de8/a12642.html#aa7ac7e2d5729aa906e00ca9c2648581d", null ]
 ];

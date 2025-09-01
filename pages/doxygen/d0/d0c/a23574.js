@@ -1,8 +1,6 @@
 var a23574 =
 [
-    [ "instance_hellfire_ramparts_InstanceMapScript", "d0/d0c/a23574.html#aebc047b45cb4560a38df89db75f8efab", null ],
-    [ "Initialize", "d0/d0c/a23574.html#a115a36ec26e15e23be4d78250d86d814", null ],
-    [ "OnGameObjectCreate", "d0/d0c/a23574.html#a0639fcd867616d1f04aacde44020bb30", null ],
-    [ "SetBossState", "d0/d0c/a23574.html#a7a38526ca7b9a7c7c04231f8f8efd2f7", null ],
-    [ "felIronChestGUID", "d0/d0c/a23574.html#a7cfcac5dbe4562268679ddceaf8ec8ea", null ]
+    [ "HandlePeriodic", "d0/d0c/a23574.html#af6c30bb292a69d5eaaaf75c8a76111ea", null ],
+    [ "PrepareAuraScript", "d0/d0c/a23574.html#a75515896f3d94d227963a3c5258e2d0d", null ],
+    [ "Register", "d0/d0c/a23574.html#aeacb1ffc287cc7128366ee0484c2994b", null ]
 ];

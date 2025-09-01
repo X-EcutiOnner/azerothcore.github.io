@@ -1,7 +1,6 @@
 var a15450 =
 [
-    [ "HandleEffectPeriodic", "d4/d8a/a15450.html#ac47c157dbd193bc131d281666ae2097f", null ],
-    [ "PrepareAuraScript", "d4/d8a/a15450.html#ac650ece6e2d9e9e7ff9b863d77f84975", null ],
-    [ "Register", "d4/d8a/a15450.html#ac3c158fdddd007d1d7986470032bfc25", null ],
-    [ "Validate", "d4/d8a/a15450.html#a26b117dc8a3b104dec9de27597fbe55d", null ]
+    [ "instance_wailing_caverns_InstanceMapScript", "df/d38/a15454.html", "df/d38/a15454" ],
+    [ "instance_wailing_caverns", "d4/d8a/a15450.html#a906f59c39f59237e9eedb479dfc7d825", null ],
+    [ "GetInstanceScript", "d4/d8a/a15450.html#a0f1020e86443d6902b3c4d8726f3e610", null ]
 ];

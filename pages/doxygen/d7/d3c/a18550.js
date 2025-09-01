@@ -1,8 +1,6 @@
 var a18550 =
 [
-    [ "DecayPeriodicTimer", "d7/d3c/a18550.html#a314ac33692cc352c490ec3d87177d67a", null ],
-    [ "Load", "d7/d3c/a18550.html#af5a498253c4c382df3b2462a30448a64", null ],
-    [ "PrepareAuraScript", "d7/d3c/a18550.html#ac5d4ee199b49e04499997355ac054554", null ],
-    [ "Register", "d7/d3c/a18550.html#a1b59480ce384f09cecd47872b39cf3c5", null ],
-    [ "_decayRate", "d7/d3c/a18550.html#a20c696ff06f9b48451d9eac43ccf5416", null ]
+    [ "npc_spirit_wardenAI", "d9/d62/a18554.html", "d9/d62/a18554" ],
+    [ "npc_spirit_warden", "d7/d3c/a18550.html#ab585d20eadb7876752d731702db44293", null ],
+    [ "GetAI", "d7/d3c/a18550.html#ab33ab494d7fee64eed7c75464ce60489", null ]
 ];

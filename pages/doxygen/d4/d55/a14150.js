@@ -1,6 +1,5 @@
 var a14150 =
 [
-    [ "npc_brewfest_keg_thrower", "d4/d55/a14150.html#a29da1efd21fe6737684607e5b360ea84", null ],
-    [ "CanBeSeen", "d4/d55/a14150.html#a36212d0f17c0070d3ef3cc25577ff7b9", null ],
-    [ "MoveInLineOfSight", "d4/d55/a14150.html#a3938b0e63553e79302ba966c6cdcf9be", null ]
+    [ "at_zulgurub_temple_speech", "d4/d55/a14150.html#ab727ad7cb7f0a0e8309bbab233766cde", null ],
+    [ "_OnTrigger", "d4/d55/a14150.html#afd42cd408df7562a9dcd91e33750f3d4", null ]
 ];

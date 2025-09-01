@@ -1,7 +1,6 @@
 var a21982 =
 [
-    [ "HandleDummy", "da/d93/a21982.html#a98e8a4b7bbe947b00f1bc32632736d59", null ],
-    [ "PrepareSpellScript", "da/d93/a21982.html#a65b1ddf275eb5ee14ca32a1e25bf6e0e", null ],
-    [ "Register", "da/d93/a21982.html#acdfa4e1fc8e26a887e80521b1bea5150", null ],
-    [ "Validate", "da/d93/a21982.html#aeec15705a41ad2ac0e59d90086591d96", null ]
+    [ "npc_q24545_lich_kingAI", "d6/df5/a21986.html", "d6/df5/a21986" ],
+    [ "npc_q24545_lich_king", "da/d93/a21982.html#a1864564dee4f66f1b29850b8b0f6fa29", null ],
+    [ "GetAI", "da/d93/a21982.html#aade5ad8ba215d0571185596aa40cf9b2", null ]
 ];

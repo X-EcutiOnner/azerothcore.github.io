@@ -1,6 +1,7 @@
 var a16946 =
 [
-    [ "npc_hor_risen_witch_doctorAI", "d1/da4/a16950.html", "d1/da4/a16950" ],
-    [ "npc_hor_risen_witch_doctor", "d6/d3a/a16946.html#add06a10c9b4342b136b5cab49338b095", null ],
-    [ "GetAI", "d6/d3a/a16946.html#a055a8d29d8e6a58b92968ed1c39c1b1d", null ]
+    [ "HandlePeriodicTick", "d6/d3a/a16946.html#abe9cc0a87d84504ee029cc565dd97ef5", null ],
+    [ "PrepareAuraScript", "d6/d3a/a16946.html#a93e894c642101160dd51f30952c82d24", null ],
+    [ "Register", "d6/d3a/a16946.html#a49172ede0f888e391b9b4a835475220a", null ],
+    [ "Validate", "d6/d3a/a16946.html#a3b9998ef5ee0931afbe5b04430da10a0", null ]
 ];

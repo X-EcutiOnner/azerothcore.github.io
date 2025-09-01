@@ -1,6 +1,6 @@
 var a12906 =
 [
-    [ "npc_unworthy_initiateAI", "d2/d3f/a12910.html", "d2/d3f/a12910" ],
-    [ "npc_unworthy_initiate", "d9/d03/a12906.html#aaa04626b783eadc0b14bd89aa715e694", null ],
-    [ "GetAI", "d9/d03/a12906.html#a0912cc56cb2082b2de086cbd9b914b4a", null ]
+    [ "instance_karazhan_InstanceMapScript", "d2/d3f/a12910.html", "d2/d3f/a12910" ],
+    [ "instance_karazhan", "d9/d03/a12906.html#a219fa0f5d691c2ae06a45d167c89d419", null ],
+    [ "GetInstanceScript", "d9/d03/a12906.html#a4ce148ba13d0541ad2aaecdd1ed2f3a5", null ]
 ];

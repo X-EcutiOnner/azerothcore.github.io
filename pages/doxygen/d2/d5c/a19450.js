@@ -1,7 +1,6 @@
 var a19450 =
 [
-    [ "HandleProc", "d2/d5c/a19450.html#a84255cd31ebaa7c70de93d569258c709", null ],
-    [ "PrepareAuraScript", "d2/d5c/a19450.html#a8d9c8122b105b28b88c4297d3a9acf7f", null ],
-    [ "Register", "d2/d5c/a19450.html#a6bc166d2e1455537fa78c4223da17746", null ],
-    [ "Validate", "d2/d5c/a19450.html#ab38bde2ed642dcf4fda1893a131aa6fe", null ]
+    [ "npc_eoe_wyrmrest_skytalonAI", "d5/d10/a19454.html", "d5/d10/a19454" ],
+    [ "npc_eoe_wyrmrest_skytalon", "d2/d5c/a19450.html#a55685de624b277840f8fc0c397b8aebf", null ],
+    [ "GetAI", "d2/d5c/a19450.html#a01a384ab10cfccbd159f116e0bef52e8", null ]
 ];

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: adt_MH2O Class Reference</title>
+<title>AzerothCore: VehicleEntry Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,495 +105,485 @@ $(document).ready(function(){initNavTree('d9/d45/a28638.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#nested-classes">Classes</a> &#124;
-<a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../d8/d4a/a28635.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">adt_MH2O Class Reference</div></div>
+  <div class="headertitle"><div class="title">VehicleEntry Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">adt.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">DBCStructure.h</a>&quot;</code></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
-Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d45/a28646.html">adt_LIQUID</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
-Public Member Functions</h2></td></tr>
-<tr class="memitem:a05b77a8778e3d85dae8437d96a4aae8a"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d45/a28638.html#a05b77a8778e3d85dae8437d96a4aae8a">prepareLoadedData</a> ()</td></tr>
-<tr class="separator:a05b77a8778e3d85dae8437d96a4aae8a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a65b3323ff560d26302f86dcfc79eb4c3"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d08/a28630.html">adt_liquid_instance</a> const *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d45/a28638.html#a65b3323ff560d26302f86dcfc79eb4c3">GetLiquidInstance</a> (<a class="el" href="../../d2/de7/a00014.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> x, <a class="el" href="../../d2/de7/a00014.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> y) const</td></tr>
-<tr class="separator:a65b3323ff560d26302f86dcfc79eb4c3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a343859f1c04059988ca0e4050ffac22f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d7/df8/a28634.html">adt_liquid_attributes</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d45/a28638.html#a343859f1c04059988ca0e4050ffac22f">GetLiquidAttributes</a> (<a class="el" href="../../d2/de7/a00014.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> x, <a class="el" href="../../d2/de7/a00014.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> y) const</td></tr>
-<tr class="separator:a343859f1c04059988ca0e4050ffac22f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:acd96d3f82d0ad8c3cb601097e52427b5"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/de7/a00014.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d45/a28638.html#acd96d3f82d0ad8c3cb601097e52427b5">GetLiquidType</a> (<a class="el" href="../../d8/d08/a28630.html">adt_liquid_instance</a> const *h) const</td></tr>
-<tr class="separator:acd96d3f82d0ad8c3cb601097e52427b5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a73ad976bf67c8adba2443190e6db533f"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d45/a28638.html#a73ad976bf67c8adba2443190e6db533f">GetLiquidHeight</a> (<a class="el" href="../../d8/d08/a28630.html">adt_liquid_instance</a> const *h, <a class="el" href="../../d2/de7/a00014.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> pos) const</td></tr>
-<tr class="separator:a73ad976bf67c8adba2443190e6db533f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6f620512f4feb239bc732efcfe53ae7c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/de7/a00014.html#a3bb8a71f4ae9af551f71e9eb2c9c3325">int8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d45/a28638.html#a6f620512f4feb239bc732efcfe53ae7c">GetLiquidDepth</a> (<a class="el" href="../../d8/d08/a28630.html">adt_liquid_instance</a> const *h, <a class="el" href="../../d2/de7/a00014.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> pos) const</td></tr>
-<tr class="separator:a6f620512f4feb239bc732efcfe53ae7c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1d0cfd669f16b346e9199f6ade39cbce"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/de7/a00014.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> const *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d45/a28638.html#a1d0cfd669f16b346e9199f6ade39cbce">GetLiquidTextureCoordMap</a> (<a class="el" href="../../d8/d08/a28630.html">adt_liquid_instance</a> const *h, <a class="el" href="../../d2/de7/a00014.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> pos) const</td></tr>
-<tr class="separator:a1d0cfd669f16b346e9199f6ade39cbce"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aaa9e70d67222ddcfbd890e8e3262f8e0"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/de7/a00014.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d45/a28638.html#aaa9e70d67222ddcfbd890e8e3262f8e0">GetLiquidExistsBitmap</a> (<a class="el" href="../../d8/d08/a28630.html">adt_liquid_instance</a> const *h) const</td></tr>
-<tr class="separator:aaa9e70d67222ddcfbd890e8e3262f8e0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a92eff3ead5a308485d7daf2584cf1227"><td class="memItemLeft" >union {</td></tr>
-<tr class="memitem:aeeabcc69205f93b09576dffa1c09cf3f"><td class="memItemLeft" >&#160;&#160;&#160;<a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d9/d45/a28638.html#a6c09458d5788c58dbd2f9b96448a1ff4">fcc</a></td></tr>
-<tr class="separator:aeeabcc69205f93b09576dffa1c09cf3f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0e17fd98f19f18a2df1fe5a8f096e541"><td class="memItemLeft" >&#160;&#160;&#160;char&#160;&#160;&#160;<a class="el" href="../../d9/d45/a28638.html#a5abe0d5184d096f87c2c0ff1f9a115dc">fcc_txt</a> [4]</td></tr>
-<tr class="separator:a0e17fd98f19f18a2df1fe5a8f096e541"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a92eff3ead5a308485d7daf2584cf1227"><td class="memItemLeft" valign="top">};&#160;</td><td class="memItemRight" valign="bottom"></td></tr>
-<tr class="separator:a92eff3ead5a308485d7daf2584cf1227"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2110a26debb714695e38e5ec159131f2"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d45/a28638.html#a2110a26debb714695e38e5ec159131f2">size</a></td></tr>
-<tr class="separator:a2110a26debb714695e38e5ec159131f2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aaaff4b98a34d81985b552fd671411450"><td class="memItemLeft" align="right" valign="top">struct <a class="el" href="../../d8/d45/a28646.html">adt_MH2O::adt_LIQUID</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d45/a28638.html#aaaff4b98a34d81985b552fd671411450">liquid</a> [<a class="el" href="../../d8/dca/a04670.html#aaa17abcdb17267fda5cd146bec40af39">ADT_CELLS_PER_GRID</a>][<a class="el" href="../../d8/dca/a04670.html#aaa17abcdb17267fda5cd146bec40af39">ADT_CELLS_PER_GRID</a>]</td></tr>
-<tr class="separator:aaaff4b98a34d81985b552fd671411450"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acd1f17fc6e7a29aa71bcf862c99fdd72"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d45/a28638.html#acd1f17fc6e7a29aa71bcf862c99fdd72">m_ID</a></td></tr>
+<tr class="separator:acd1f17fc6e7a29aa71bcf862c99fdd72"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a95c721afe6ceb75d48a931b7d27cb37d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d45/a28638.html#a95c721afe6ceb75d48a931b7d27cb37d">m_flags</a></td></tr>
+<tr class="separator:a95c721afe6ceb75d48a931b7d27cb37d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1c34ef971035fc1017bb6774a0ab2481"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d45/a28638.html#a1c34ef971035fc1017bb6774a0ab2481">m_turnSpeed</a></td></tr>
+<tr class="separator:a1c34ef971035fc1017bb6774a0ab2481"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4706a4ebca1d9b9fcd1c15d32313d51d"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d45/a28638.html#a4706a4ebca1d9b9fcd1c15d32313d51d">m_pitchSpeed</a></td></tr>
+<tr class="separator:a4706a4ebca1d9b9fcd1c15d32313d51d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac19f92c418d1bff7734201be0505adeb"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d45/a28638.html#ac19f92c418d1bff7734201be0505adeb">m_pitchMin</a></td></tr>
+<tr class="separator:ac19f92c418d1bff7734201be0505adeb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae682a5e68da3c2185bc7d5fe10e433bd"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d45/a28638.html#ae682a5e68da3c2185bc7d5fe10e433bd">m_pitchMax</a></td></tr>
+<tr class="separator:ae682a5e68da3c2185bc7d5fe10e433bd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a67d17de9b80a7668ea30db60dc2845ae"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d45/a28638.html#a67d17de9b80a7668ea30db60dc2845ae">m_seatID</a> [<a class="el" href="../../d7/de9/a04715.html#a5925e58fbd29a3a77ff05ab092fa1f77">MAX_VEHICLE_SEATS</a>]</td></tr>
+<tr class="separator:a67d17de9b80a7668ea30db60dc2845ae"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8b87c18b4e09dc4434116721d6b5dece"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d45/a28638.html#a8b87c18b4e09dc4434116721d6b5dece">m_mouseLookOffsetPitch</a></td></tr>
+<tr class="separator:a8b87c18b4e09dc4434116721d6b5dece"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adfdb3f549cc3cf08f0d9f60aa1adb093"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d45/a28638.html#adfdb3f549cc3cf08f0d9f60aa1adb093">m_cameraFadeDistScalarMin</a></td></tr>
+<tr class="separator:adfdb3f549cc3cf08f0d9f60aa1adb093"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4aad1670ae09ca07c1535db13ad0aadf"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d45/a28638.html#a4aad1670ae09ca07c1535db13ad0aadf">m_cameraFadeDistScalarMax</a></td></tr>
+<tr class="separator:a4aad1670ae09ca07c1535db13ad0aadf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7ccc13d3e8af7c2a755068de9464f3b4"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d45/a28638.html#a7ccc13d3e8af7c2a755068de9464f3b4">m_cameraPitchOffset</a></td></tr>
+<tr class="separator:a7ccc13d3e8af7c2a755068de9464f3b4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acf4c7490eae64650fcae3fba3b52079c"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d45/a28638.html#acf4c7490eae64650fcae3fba3b52079c">m_facingLimitRight</a></td></tr>
+<tr class="separator:acf4c7490eae64650fcae3fba3b52079c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a09fdd7ac9b2225a003b5102784a38550"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d45/a28638.html#a09fdd7ac9b2225a003b5102784a38550">m_facingLimitLeft</a></td></tr>
+<tr class="separator:a09fdd7ac9b2225a003b5102784a38550"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8827a12fe13548dcee502ea711286160"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d45/a28638.html#a8827a12fe13548dcee502ea711286160">m_msslTrgtTurnLingering</a></td></tr>
+<tr class="separator:a8827a12fe13548dcee502ea711286160"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9d538a4a455d353e5a89de720987b2f6"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d45/a28638.html#a9d538a4a455d353e5a89de720987b2f6">m_msslTrgtPitchLingering</a></td></tr>
+<tr class="separator:a9d538a4a455d353e5a89de720987b2f6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7254e75587c89217110d646f15c7edb0"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d45/a28638.html#a7254e75587c89217110d646f15c7edb0">m_msslTrgtMouseLingering</a></td></tr>
+<tr class="separator:a7254e75587c89217110d646f15c7edb0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abb5eaa7a8ece7f110e11e8632d9739c8"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d45/a28638.html#abb5eaa7a8ece7f110e11e8632d9739c8">m_msslTrgtEndOpacity</a></td></tr>
+<tr class="separator:abb5eaa7a8ece7f110e11e8632d9739c8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5b2a5178ff77d47eaf360f1dc44edd34"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d45/a28638.html#a5b2a5178ff77d47eaf360f1dc44edd34">m_msslTrgtArcSpeed</a></td></tr>
+<tr class="separator:a5b2a5178ff77d47eaf360f1dc44edd34"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a238dcc435dda08841f68a2358f768138"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d45/a28638.html#a238dcc435dda08841f68a2358f768138">m_msslTrgtArcRepeat</a></td></tr>
+<tr class="separator:a238dcc435dda08841f68a2358f768138"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae3797fb6787e7c70d96a0a33b1407412"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d45/a28638.html#ae3797fb6787e7c70d96a0a33b1407412">m_msslTrgtArcWidth</a></td></tr>
+<tr class="separator:ae3797fb6787e7c70d96a0a33b1407412"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a380b7492473fdc5dcf4402b99c95eb3b"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d45/a28638.html#a380b7492473fdc5dcf4402b99c95eb3b">m_msslTrgtImpactRadius</a> [2]</td></tr>
+<tr class="separator:a380b7492473fdc5dcf4402b99c95eb3b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5749151dc1f4fa93ec49bda8fdb00c28"><td class="memItemLeft" align="right" valign="top">char const  *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d45/a28638.html#a5749151dc1f4fa93ec49bda8fdb00c28">m_msslTrgtArcTexture</a></td></tr>
+<tr class="separator:a5749151dc1f4fa93ec49bda8fdb00c28"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5e98845e951d730215b8aa0cee05df60"><td class="memItemLeft" align="right" valign="top">char const  *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d45/a28638.html#a5e98845e951d730215b8aa0cee05df60">m_msslTrgtImpactTexture</a></td></tr>
+<tr class="separator:a5e98845e951d730215b8aa0cee05df60"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5b6a2aea41cd52b60bb1bdd3065e2ac3"><td class="memItemLeft" align="right" valign="top">char const  *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d45/a28638.html#a5b6a2aea41cd52b60bb1bdd3065e2ac3">m_msslTrgtImpactModel</a> [2]</td></tr>
+<tr class="separator:a5b6a2aea41cd52b60bb1bdd3065e2ac3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a37d24f2118fe90a9a0fd629519f0cd96"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d45/a28638.html#a37d24f2118fe90a9a0fd629519f0cd96">m_cameraYawOffset</a></td></tr>
+<tr class="separator:a37d24f2118fe90a9a0fd629519f0cd96"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a160cb73a524798f68ea5ed794faef8ef"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d45/a28638.html#a160cb73a524798f68ea5ed794faef8ef">m_uiLocomotionType</a></td></tr>
+<tr class="separator:a160cb73a524798f68ea5ed794faef8ef"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac7babc51469d8508f5d7c5423e289eaa"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d45/a28638.html#ac7babc51469d8508f5d7c5423e289eaa">m_msslTrgtImpactTexRadius</a></td></tr>
+<tr class="separator:ac7babc51469d8508f5d7c5423e289eaa"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae125021f00a905a1d81729613f06d745"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d45/a28638.html#ae125021f00a905a1d81729613f06d745">m_uiSeatIndicatorType</a></td></tr>
+<tr class="separator:ae125021f00a905a1d81729613f06d745"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a77d08ead87f3d9344948a0eb9363411d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d45/a28638.html#a77d08ead87f3d9344948a0eb9363411d">m_powerDisplayId</a></td></tr>
+<tr class="separator:a77d08ead87f3d9344948a0eb9363411d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
-<a id="a343859f1c04059988ca0e4050ffac22f" name="a343859f1c04059988ca0e4050ffac22f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a343859f1c04059988ca0e4050ffac22f">&#9670;&#160;</a></span>GetLiquidAttributes()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d7/df8/a28634.html">adt_liquid_attributes</a> adt_MH2O::GetLiquidAttributes </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d2/de7/a00014.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td>
-          <td class="paramname"><em>x</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d2/de7/a00014.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td>
-          <td class="paramname"><em>y</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  242</span>    {</div>
-<div class="line"><span class="lineno">  243</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d9/d45/a28638.html#aaaff4b98a34d81985b552fd671411450">liquid</a>[x][y].used)</div>
-<div class="line"><span class="lineno">  244</span>        {</div>
-<div class="line"><span class="lineno">  245</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d9/d45/a28638.html#aaaff4b98a34d81985b552fd671411450">liquid</a>[x][y].OffsetAttributes)</div>
-<div class="line"><span class="lineno">  246</span>                <span class="keywordflow">return</span> *((<a class="code hl_struct" href="../../d7/df8/a28634.html">adt_liquid_attributes</a> *)((<a class="code hl_typedef" href="../../d2/de7/a00014.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>*)<span class="keyword">this</span> + 8 + <a class="code hl_variable" href="../../d9/d45/a28638.html#aaaff4b98a34d81985b552fd671411450">liquid</a>[x][y].<a class="code hl_variable" href="../../d8/d45/a28646.html#a072918c298b316823e784c2e5779be2a">OffsetAttributes</a>));</div>
-<div class="line"><span class="lineno">  247</span>            <span class="keywordflow">return</span> { 0xFFFFFFFFFFFFFFFF, 0xFFFFFFFFFFFFFFFF };</div>
-<div class="line"><span class="lineno">  248</span>        }</div>
-<div class="line"><span class="lineno">  249</span>        <span class="keywordflow">return</span> { 0, 0 };</div>
-<div class="line"><span class="lineno">  250</span>    }</div>
-<div class="ttc" id="aa00014_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../d2/de7/a00014.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition:</b> Define.h:109</div></div>
-<div class="ttc" id="aa28634_html"><div class="ttname"><a href="../../d7/df8/a28634.html">adt_liquid_attributes</a></div><div class="ttdef"><b>Definition:</b> adt.h:207</div></div>
-<div class="ttc" id="aa28638_html_aaaff4b98a34d81985b552fd671411450"><div class="ttname"><a href="../../d9/d45/a28638.html#aaaff4b98a34d81985b552fd671411450">adt_MH2O::liquid</a></div><div class="ttdeci">struct adt_MH2O::adt_LIQUID liquid[ADT_CELLS_PER_GRID][ADT_CELLS_PER_GRID]</div></div>
-<div class="ttc" id="aa28646_html_a072918c298b316823e784c2e5779be2a"><div class="ttname"><a href="../../d8/d45/a28646.html#a072918c298b316823e784c2e5779be2a">adt_MH2O::adt_LIQUID::OffsetAttributes</a></div><div class="ttdeci">uint32 OffsetAttributes</div><div class="ttdef"><b>Definition:</b> adt.h:229</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../d9/d45/a28638.html#aaaff4b98a34d81985b552fd671411450">liquid</a>, and <a class="el" href="../../#l00229">adt_MH2O::adt_LIQUID::OffsetAttributes</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00414">ConvertADT()</a>.</p>
-
-</div>
-</div>
-<a id="a6f620512f4feb239bc732efcfe53ae7c" name="a6f620512f4feb239bc732efcfe53ae7c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6f620512f4feb239bc732efcfe53ae7c">&#9670;&#160;</a></span>GetLiquidDepth()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d2/de7/a00014.html#a3bb8a71f4ae9af551f71e9eb2c9c3325">int8</a> adt_MH2O::GetLiquidDepth </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d8/d08/a28630.html">adt_liquid_instance</a> const *&#160;</td>
-          <td class="paramname"><em>h</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d2/de7/a00014.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td>
-          <td class="paramname"><em>pos</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  280</span>    {</div>
-<div class="line"><span class="lineno">  281</span>        <span class="keywordflow">if</span> (!h-&gt;OffsetVertexData)</div>
-<div class="line"><span class="lineno">  282</span>            <span class="keywordflow">return</span> -1;</div>
-<div class="line"><span class="lineno">  283</span> </div>
-<div class="line"><span class="lineno">  284</span>        <span class="keywordflow">switch</span> (h-&gt;LiquidVertexFormat)</div>
-<div class="line"><span class="lineno">  285</span>        {</div>
-<div class="line"><span class="lineno">  286</span>            <span class="keywordflow">case</span> LiquidVertexFormatType::HeightDepth:</div>
-<div class="line"><span class="lineno">  287</span>                <span class="keywordflow">return</span> ((<a class="code hl_typedef" href="../../d2/de7/a00014.html#a3bb8a71f4ae9af551f71e9eb2c9c3325">int8</a> <span class="keyword">const</span>*)((<a class="code hl_typedef" href="../../d2/de7/a00014.html#a3bb8a71f4ae9af551f71e9eb2c9c3325">int8</a> <span class="keyword">const</span>*)<span class="keyword">this</span> + 8 + h-&gt;OffsetVertexData + (h-&gt;GetWidth() + 1) * (h-&gt;GetHeight() + 1) * 4))[pos];</div>
-<div class="line"><span class="lineno">  288</span>            <span class="keywordflow">case</span> LiquidVertexFormatType::HeightTextureCoord:</div>
-<div class="line"><span class="lineno">  289</span>                <span class="keywordflow">return</span> 0;</div>
-<div class="line"><span class="lineno">  290</span>            <span class="keywordflow">case</span> LiquidVertexFormatType::Depth:</div>
-<div class="line"><span class="lineno">  291</span>                <span class="keywordflow">return</span> ((<a class="code hl_typedef" href="../../d2/de7/a00014.html#a3bb8a71f4ae9af551f71e9eb2c9c3325">int8</a> <span class="keyword">const</span>*)((<a class="code hl_typedef" href="../../d2/de7/a00014.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>*)<span class="keyword">this</span> + 8 + h-&gt;OffsetVertexData))[pos];</div>
-<div class="line"><span class="lineno">  292</span>            <span class="keywordflow">default</span>:</div>
-<div class="line"><span class="lineno">  293</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  294</span>        }</div>
-<div class="line"><span class="lineno">  295</span>        <span class="keywordflow">return</span> 0;</div>
-<div class="line"><span class="lineno">  296</span>    }</div>
-<div class="ttc" id="aa00014_html_a3bb8a71f4ae9af551f71e9eb2c9c3325"><div class="ttname"><a href="../../d2/de7/a00014.html#a3bb8a71f4ae9af551f71e9eb2c9c3325">int8</a></div><div class="ttdeci">std::int8_t int8</div><div class="ttdef"><b>Definition:</b> Define.h:105</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00203">adt_liquid_instance::GetHeight()</a>, <a class="el" href="../../#l00202">adt_liquid_instance::GetWidth()</a>, <a class="el" href="../../#l00190">adt_liquid_instance::LiquidVertexFormat</a>, and <a class="el" href="../../#l00198">adt_liquid_instance::OffsetVertexData</a>.</p>
-
-</div>
-</div>
-<a id="aaa9e70d67222ddcfbd890e8e3262f8e0" name="aaa9e70d67222ddcfbd890e8e3262f8e0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aaa9e70d67222ddcfbd890e8e3262f8e0">&#9670;&#160;</a></span>GetLiquidExistsBitmap()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d2/de7/a00014.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a> adt_MH2O::GetLiquidExistsBitmap </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d8/d08/a28630.html">adt_liquid_instance</a> const *&#160;</td>
-          <td class="paramname"><em>h</em></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  317</span>    {</div>
-<div class="line"><span class="lineno">  318</span>        <span class="keywordflow">if</span> (h-&gt;OffsetExistsBitmap)</div>
-<div class="line"><span class="lineno">  319</span>            <span class="keywordflow">return</span> *((<a class="code hl_typedef" href="../../d2/de7/a00014.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a> *)((<a class="code hl_typedef" href="../../d2/de7/a00014.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>*)<span class="keyword">this</span> + 8 + h-&gt;OffsetExistsBitmap));</div>
-<div class="line"><span class="lineno">  320</span>        <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  321</span>            <span class="keywordflow">return</span> 0xFFFFFFFFFFFFFFFFuLL;</div>
-<div class="line"><span class="lineno">  322</span>    }</div>
-<div class="ttc" id="aa00014_html_ac4dd6ce78ce3b840c53bd4b3c63ed09b"><div class="ttname"><a href="../../d2/de7/a00014.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a></div><div class="ttdeci">std::uint64_t uint64</div><div class="ttdef"><b>Definition:</b> Define.h:106</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00197">adt_liquid_instance::OffsetExistsBitmap</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00414">ConvertADT()</a>.</p>
-
-</div>
-</div>
-<a id="a73ad976bf67c8adba2443190e6db533f" name="a73ad976bf67c8adba2443190e6db533f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a73ad976bf67c8adba2443190e6db533f">&#9670;&#160;</a></span>GetLiquidHeight()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">float adt_MH2O::GetLiquidHeight </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d8/d08/a28630.html">adt_liquid_instance</a> const *&#160;</td>
-          <td class="paramname"><em>h</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d2/de7/a00014.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td>
-          <td class="paramname"><em>pos</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  261</span>    {</div>
-<div class="line"><span class="lineno">  262</span>        <span class="keywordflow">if</span> (!h-&gt;OffsetVertexData)</div>
-<div class="line"><span class="lineno">  263</span>            <span class="keywordflow">return</span> 0.0f;</div>
-<div class="line"><span class="lineno">  264</span> </div>
-<div class="line"><span class="lineno">  265</span>        <span class="keywordflow">switch</span> (h-&gt;LiquidVertexFormat)</div>
-<div class="line"><span class="lineno">  266</span>        {</div>
-<div class="line"><span class="lineno">  267</span>            <span class="keywordflow">case</span> LiquidVertexFormatType::HeightDepth:</div>
-<div class="line"><span class="lineno">  268</span>            <span class="keywordflow">case</span> LiquidVertexFormatType::HeightTextureCoord:</div>
-<div class="line"><span class="lineno">  269</span>                <span class="keywordflow">return</span> ((<span class="keywordtype">float</span> <span class="keyword">const</span>*)((<a class="code hl_typedef" href="../../d2/de7/a00014.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>*)<span class="keyword">this</span> + 8 + h-&gt;OffsetVertexData))[pos];</div>
-<div class="line"><span class="lineno">  270</span>            <span class="keywordflow">case</span> LiquidVertexFormatType::Depth:</div>
-<div class="line"><span class="lineno">  271</span>                <span class="keywordflow">return</span> 0.0f;</div>
-<div class="line"><span class="lineno">  272</span>            <span class="keywordflow">default</span>:</div>
-<div class="line"><span class="lineno">  273</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  274</span>        }</div>
-<div class="line"><span class="lineno">  275</span> </div>
-<div class="line"><span class="lineno">  276</span>        <span class="keywordflow">return</span> 0.0f;</div>
-<div class="line"><span class="lineno">  277</span>    }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00190">adt_liquid_instance::LiquidVertexFormat</a>, and <a class="el" href="../../#l00198">adt_liquid_instance::OffsetVertexData</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00414">ConvertADT()</a>.</p>
-
-</div>
-</div>
-<a id="a65b3323ff560d26302f86dcfc79eb4c3" name="a65b3323ff560d26302f86dcfc79eb4c3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a65b3323ff560d26302f86dcfc79eb4c3">&#9670;&#160;</a></span>GetLiquidInstance()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d8/d08/a28630.html">adt_liquid_instance</a> const  * adt_MH2O::GetLiquidInstance </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d2/de7/a00014.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td>
-          <td class="paramname"><em>x</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d2/de7/a00014.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td>
-          <td class="paramname"><em>y</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  235</span>    {</div>
-<div class="line"><span class="lineno">  236</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d9/d45/a28638.html#aaaff4b98a34d81985b552fd671411450">liquid</a>[x][y].used &amp;&amp; <a class="code hl_variable" href="../../d9/d45/a28638.html#aaaff4b98a34d81985b552fd671411450">liquid</a>[x][y].OffsetInstances)</div>
-<div class="line"><span class="lineno">  237</span>            <span class="keywordflow">return</span> (<a class="code hl_struct" href="../../d8/d08/a28630.html">adt_liquid_instance</a> *)((<a class="code hl_typedef" href="../../d2/de7/a00014.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>*)<span class="keyword">this</span> + 8 + <a class="code hl_variable" href="../../d9/d45/a28638.html#aaaff4b98a34d81985b552fd671411450">liquid</a>[x][y].OffsetInstances);</div>
-<div class="line"><span class="lineno">  238</span>        <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  239</span>    }</div>
-<div class="ttc" id="aa28630_html"><div class="ttname"><a href="../../d8/d08/a28630.html">adt_liquid_instance</a></div><div class="ttdef"><b>Definition:</b> adt.h:188</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../d9/d45/a28638.html#aaaff4b98a34d81985b552fd671411450">liquid</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00414">ConvertADT()</a>.</p>
-
-</div>
-</div>
-<a id="a1d0cfd669f16b346e9199f6ade39cbce" name="a1d0cfd669f16b346e9199f6ade39cbce"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1d0cfd669f16b346e9199f6ade39cbce">&#9670;&#160;</a></span>GetLiquidTextureCoordMap()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d2/de7/a00014.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> const  * adt_MH2O::GetLiquidTextureCoordMap </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d8/d08/a28630.html">adt_liquid_instance</a> const *&#160;</td>
-          <td class="paramname"><em>h</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d2/de7/a00014.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td>
-          <td class="paramname"><em>pos</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  299</span>    {</div>
-<div class="line"><span class="lineno">  300</span>        <span class="keywordflow">if</span> (!h-&gt;OffsetVertexData)</div>
-<div class="line"><span class="lineno">  301</span>            <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  302</span> </div>
-<div class="line"><span class="lineno">  303</span>        <span class="keywordflow">switch</span> (h-&gt;LiquidVertexFormat)</div>
-<div class="line"><span class="lineno">  304</span>        {</div>
-<div class="line"><span class="lineno">  305</span>            <span class="keywordflow">case</span> LiquidVertexFormatType::HeightDepth:</div>
-<div class="line"><span class="lineno">  306</span>            <span class="keywordflow">case</span> LiquidVertexFormatType::Depth:</div>
-<div class="line"><span class="lineno">  307</span>                <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  308</span>            <span class="keywordflow">case</span> LiquidVertexFormatType::HeightTextureCoord:</div>
-<div class="line"><span class="lineno">  309</span>                <span class="keywordflow">return</span> (<a class="code hl_typedef" href="../../d2/de7/a00014.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> <span class="keyword">const</span>*)((<a class="code hl_typedef" href="../../d2/de7/a00014.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> <span class="keyword">const</span>*)<span class="keyword">this</span> + 8 + h-&gt;OffsetVertexData + 4 * ((h-&gt;GetWidth() + 1) * (h-&gt;GetHeight() + 1) + pos));</div>
-<div class="line"><span class="lineno">  310</span>            <span class="keywordflow">default</span>:</div>
-<div class="line"><span class="lineno">  311</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  312</span>        }</div>
-<div class="line"><span class="lineno">  313</span>        <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  314</span>    }</div>
-<div class="ttc" id="aa00014_html_ad9c79638db63f1dfe2b085743b5cbf7b"><div class="ttname"><a href="../../d2/de7/a00014.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a></div><div class="ttdeci">std::uint16_t uint16</div><div class="ttdef"><b>Definition:</b> Define.h:108</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00203">adt_liquid_instance::GetHeight()</a>, <a class="el" href="../../#l00202">adt_liquid_instance::GetWidth()</a>, <a class="el" href="../../#l00190">adt_liquid_instance::LiquidVertexFormat</a>, and <a class="el" href="../../#l00198">adt_liquid_instance::OffsetVertexData</a>.</p>
-
-</div>
-</div>
-<a id="acd96d3f82d0ad8c3cb601097e52427b5" name="acd96d3f82d0ad8c3cb601097e52427b5"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#acd96d3f82d0ad8c3cb601097e52427b5">&#9670;&#160;</a></span>GetLiquidType()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d2/de7/a00014.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> adt_MH2O::GetLiquidType </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d8/d08/a28630.html">adt_liquid_instance</a> const *&#160;</td>
-          <td class="paramname"><em>h</em></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  253</span>    {</div>
-<div class="line"><span class="lineno">  254</span>        <span class="keywordflow">if</span> (h-&gt;LiquidVertexFormat == LiquidVertexFormatType::Depth)</div>
-<div class="line"><span class="lineno">  255</span>            <span class="keywordflow">return</span> 2;</div>
-<div class="line"><span class="lineno">  256</span> </div>
-<div class="line"><span class="lineno">  257</span>        <span class="keywordflow">return</span> h-&gt;LiquidType;</div>
-<div class="line"><span class="lineno">  258</span>    }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00189">adt_liquid_instance::LiquidType</a>, and <a class="el" href="../../#l00190">adt_liquid_instance::LiquidVertexFormat</a>.</p>
-
-</div>
-</div>
-<a id="a05b77a8778e3d85dae8437d96a4aae8a" name="a05b77a8778e3d85dae8437d96a4aae8a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a05b77a8778e3d85dae8437d96a4aae8a">&#9670;&#160;</a></span>prepareLoadedData()</h2>
+<div class="textblock"></div><h2 class="groupheader">Member Data Documentation</h2>
+<a id="a4aad1670ae09ca07c1535db13ad0aadf" name="a4aad1670ae09ca07c1535db13ad0aadf"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4aad1670ae09ca07c1535db13ad0aadf">&#9670;&#160;</a></span>m_cameraFadeDistScalarMax</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">bool adt_MH2O::prepareLoadedData </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  116</span>{</div>
-<div class="line"><span class="lineno">  117</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d9/d45/a28638.html#a6c09458d5788c58dbd2f9b96448a1ff4">fcc</a> != <a class="code hl_variable" href="../../d2/d91/a04697.html#aaeaf747e4bc5c25257f9e0ef1153b5a7">MH2OMagic</a>.<a class="code hl_variable" href="../../da/d4b/a28694.html#a828a2845e666d6eb47d6d4705a663a3d">fcc</a>)</div>
-<div class="line"><span class="lineno">  118</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  119</span> </div>
-<div class="line"><span class="lineno">  120</span>    <span class="comment">// Check liquid data</span></div>
-<div class="line"><span class="lineno">  121</span>    <span class="comment">//    for (int i=0; i&lt;ADT_CELLS_PER_GRID;i++)</span></div>
-<div class="line"><span class="lineno">  122</span>    <span class="comment">//        for (int j=0; j&lt;ADT_CELLS_PER_GRID;j++)</span></div>
-<div class="line"><span class="lineno">  123</span> </div>
-<div class="line"><span class="lineno">  124</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  125</span>}</div>
-<div class="ttc" id="aa04697_html_aaeaf747e4bc5c25257f9e0ef1153b5a7"><div class="ttname"><a href="../../d2/d91/a04697.html#aaeaf747e4bc5c25257f9e0ef1153b5a7">MH2OMagic</a></div><div class="ttdeci">u_map_fcc MH2OMagic</div><div class="ttdef"><b>Definition:</b> adt.cpp:28</div></div>
-<div class="ttc" id="aa28638_html_a6c09458d5788c58dbd2f9b96448a1ff4"><div class="ttname"><a href="../../d9/d45/a28638.html#a6c09458d5788c58dbd2f9b96448a1ff4">adt_MH2O::fcc</a></div><div class="ttdeci">uint32 fcc</div><div class="ttdef"><b>Definition:</b> adt.h:220</div></div>
-<div class="ttc" id="aa28694_html_a828a2845e666d6eb47d6d4705a663a3d"><div class="ttname"><a href="../../da/d4b/a28694.html#a828a2845e666d6eb47d6d4705a663a3d">u_map_fcc::fcc</a></div><div class="ttdeci">uint32 fcc</div><div class="ttdef"><b>Definition:</b> loadlib.h:29</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00220">fcc</a>, <a class="el" href="../../#l00029">u_map_fcc::fcc</a>, and <a class="el" href="../../#l00028">MH2OMagic</a>.</p>
-
-</div>
-</div>
-<h2 class="groupheader">Member Data Documentation</h2>
-<a id="a92eff3ead5a308485d7daf2584cf1227" name="a92eff3ead5a308485d7daf2584cf1227"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a92eff3ead5a308485d7daf2584cf1227">&#9670;&#160;</a></span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">union  { ... }  adt_MH2O::@382</td>
+          <td class="memname">float VehicleEntry::m_cameraFadeDistScalarMax</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
 </div>
 </div>
-<a id="a6c09458d5788c58dbd2f9b96448a1ff4" name="a6c09458d5788c58dbd2f9b96448a1ff4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6c09458d5788c58dbd2f9b96448a1ff4">&#9670;&#160;</a></span>fcc</h2>
+<a id="adfdb3f549cc3cf08f0d9f60aa1adb093" name="adfdb3f549cc3cf08f0d9f60aa1adb093"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adfdb3f549cc3cf08f0d9f60aa1adb093">&#9670;&#160;</a></span>m_cameraFadeDistScalarMin</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> adt_MH2O::fcc</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00115">prepareLoadedData()</a>.</p>
-
-</div>
-</div>
-<a id="a5abe0d5184d096f87c2c0ff1f9a115dc" name="a5abe0d5184d096f87c2c0ff1f9a115dc"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5abe0d5184d096f87c2c0ff1f9a115dc">&#9670;&#160;</a></span>fcc_txt</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">char adt_MH2O::fcc_txt[4]</td>
+          <td class="memname">float VehicleEntry::m_cameraFadeDistScalarMin</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
 </div>
 </div>
-<a id="aaaff4b98a34d81985b552fd671411450" name="aaaff4b98a34d81985b552fd671411450"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aaaff4b98a34d81985b552fd671411450">&#9670;&#160;</a></span>liquid</h2>
+<a id="a7ccc13d3e8af7c2a755068de9464f3b4" name="a7ccc13d3e8af7c2a755068de9464f3b4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7ccc13d3e8af7c2a755068de9464f3b4">&#9670;&#160;</a></span>m_cameraPitchOffset</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">struct <a class="el" href="../../d8/d45/a28646.html">adt_MH2O::adt_LIQUID</a> adt_MH2O::liquid[<a class="el" href="../../d8/dca/a04670.html#aaa17abcdb17267fda5cd146bec40af39">ADT_CELLS_PER_GRID</a>][<a class="el" href="../../d8/dca/a04670.html#aaa17abcdb17267fda5cd146bec40af39">ADT_CELLS_PER_GRID</a>]</td>
+          <td class="memname">float VehicleEntry::m_cameraPitchOffset</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00241">GetLiquidAttributes()</a>, and <a class="el" href="../../#l00234">GetLiquidInstance()</a>.</p>
-
 </div>
 </div>
-<a id="a2110a26debb714695e38e5ec159131f2" name="a2110a26debb714695e38e5ec159131f2"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2110a26debb714695e38e5ec159131f2">&#9670;&#160;</a></span>size</h2>
+<a id="a37d24f2118fe90a9a0fd629519f0cd96" name="a37d24f2118fe90a9a0fd629519f0cd96"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a37d24f2118fe90a9a0fd629519f0cd96">&#9670;&#160;</a></span>m_cameraYawOffset</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> adt_MH2O::size</td>
+          <td class="memname">float VehicleEntry::m_cameraYawOffset</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a09fdd7ac9b2225a003b5102784a38550" name="a09fdd7ac9b2225a003b5102784a38550"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a09fdd7ac9b2225a003b5102784a38550">&#9670;&#160;</a></span>m_facingLimitLeft</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">float VehicleEntry::m_facingLimitLeft</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="acf4c7490eae64650fcae3fba3b52079c" name="acf4c7490eae64650fcae3fba3b52079c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acf4c7490eae64650fcae3fba3b52079c">&#9670;&#160;</a></span>m_facingLimitRight</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">float VehicleEntry::m_facingLimitRight</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a95c721afe6ceb75d48a931b7d27cb37d" name="a95c721afe6ceb75d48a931b7d27cb37d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a95c721afe6ceb75d48a931b7d27cb37d">&#9670;&#160;</a></span>m_flags</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> VehicleEntry::m_flags</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00582">Vehicle::InitMovementInfoForBase()</a>.</p>
+
+</div>
+</div>
+<a id="acd1f17fc6e7a29aa71bcf862c99fdd72" name="acd1f17fc6e7a29aa71bcf862c99fdd72"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acd1f17fc6e7a29aa71bcf862c99fdd72">&#9670;&#160;</a></span>m_ID</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> VehicleEntry::m_ID</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l19603">Unit::_ExitVehicle()</a>, <a class="el" href="../../#l00318">Vehicle::AddPassenger()</a>, <a class="el" href="../../#l00332">Object::BuildMovementUpdate()</a>, <a class="el" href="../../#l00234">instance_eye_of_eternity::instance_eye_of_eternity_InstanceMapScript::CheckAchievementCriteriaMeet()</a>, and <a class="el" href="../../#l00460">Vehicle::RemovePassenger()</a>.</p>
+
+</div>
+</div>
+<a id="a8b87c18b4e09dc4434116721d6b5dece" name="a8b87c18b4e09dc4434116721d6b5dece"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8b87c18b4e09dc4434116721d6b5dece">&#9670;&#160;</a></span>m_mouseLookOffsetPitch</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">float VehicleEntry::m_mouseLookOffsetPitch</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a238dcc435dda08841f68a2358f768138" name="a238dcc435dda08841f68a2358f768138"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a238dcc435dda08841f68a2358f768138">&#9670;&#160;</a></span>m_msslTrgtArcRepeat</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">float VehicleEntry::m_msslTrgtArcRepeat</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a5b2a5178ff77d47eaf360f1dc44edd34" name="a5b2a5178ff77d47eaf360f1dc44edd34"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5b2a5178ff77d47eaf360f1dc44edd34">&#9670;&#160;</a></span>m_msslTrgtArcSpeed</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">float VehicleEntry::m_msslTrgtArcSpeed</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a5749151dc1f4fa93ec49bda8fdb00c28" name="a5749151dc1f4fa93ec49bda8fdb00c28"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5749151dc1f4fa93ec49bda8fdb00c28">&#9670;&#160;</a></span>m_msslTrgtArcTexture</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">char const* VehicleEntry::m_msslTrgtArcTexture</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ae3797fb6787e7c70d96a0a33b1407412" name="ae3797fb6787e7c70d96a0a33b1407412"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae3797fb6787e7c70d96a0a33b1407412">&#9670;&#160;</a></span>m_msslTrgtArcWidth</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">float VehicleEntry::m_msslTrgtArcWidth</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="abb5eaa7a8ece7f110e11e8632d9739c8" name="abb5eaa7a8ece7f110e11e8632d9739c8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abb5eaa7a8ece7f110e11e8632d9739c8">&#9670;&#160;</a></span>m_msslTrgtEndOpacity</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">float VehicleEntry::m_msslTrgtEndOpacity</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a5b6a2aea41cd52b60bb1bdd3065e2ac3" name="a5b6a2aea41cd52b60bb1bdd3065e2ac3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5b6a2aea41cd52b60bb1bdd3065e2ac3">&#9670;&#160;</a></span>m_msslTrgtImpactModel</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">char const* VehicleEntry::m_msslTrgtImpactModel[2]</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a380b7492473fdc5dcf4402b99c95eb3b" name="a380b7492473fdc5dcf4402b99c95eb3b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a380b7492473fdc5dcf4402b99c95eb3b">&#9670;&#160;</a></span>m_msslTrgtImpactRadius</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">float VehicleEntry::m_msslTrgtImpactRadius[2]</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ac7babc51469d8508f5d7c5423e289eaa" name="ac7babc51469d8508f5d7c5423e289eaa"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac7babc51469d8508f5d7c5423e289eaa">&#9670;&#160;</a></span>m_msslTrgtImpactTexRadius</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">float VehicleEntry::m_msslTrgtImpactTexRadius</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a5e98845e951d730215b8aa0cee05df60" name="a5e98845e951d730215b8aa0cee05df60"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5e98845e951d730215b8aa0cee05df60">&#9670;&#160;</a></span>m_msslTrgtImpactTexture</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">char const* VehicleEntry::m_msslTrgtImpactTexture</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a7254e75587c89217110d646f15c7edb0" name="a7254e75587c89217110d646f15c7edb0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7254e75587c89217110d646f15c7edb0">&#9670;&#160;</a></span>m_msslTrgtMouseLingering</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">float VehicleEntry::m_msslTrgtMouseLingering</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a9d538a4a455d353e5a89de720987b2f6" name="a9d538a4a455d353e5a89de720987b2f6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9d538a4a455d353e5a89de720987b2f6">&#9670;&#160;</a></span>m_msslTrgtPitchLingering</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">float VehicleEntry::m_msslTrgtPitchLingering</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a8827a12fe13548dcee502ea711286160" name="a8827a12fe13548dcee502ea711286160"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8827a12fe13548dcee502ea711286160">&#9670;&#160;</a></span>m_msslTrgtTurnLingering</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">float VehicleEntry::m_msslTrgtTurnLingering</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ae682a5e68da3c2185bc7d5fe10e433bd" name="ae682a5e68da3c2185bc7d5fe10e433bd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae682a5e68da3c2185bc7d5fe10e433bd">&#9670;&#160;</a></span>m_pitchMax</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">float VehicleEntry::m_pitchMax</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ac19f92c418d1bff7734201be0505adeb" name="ac19f92c418d1bff7734201be0505adeb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac19f92c418d1bff7734201be0505adeb">&#9670;&#160;</a></span>m_pitchMin</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">float VehicleEntry::m_pitchMin</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a4706a4ebca1d9b9fcd1c15d32313d51d" name="a4706a4ebca1d9b9fcd1c15d32313d51d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4706a4ebca1d9b9fcd1c15d32313d51d">&#9670;&#160;</a></span>m_pitchSpeed</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">float VehicleEntry::m_pitchSpeed</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a77d08ead87f3d9344948a0eb9363411d" name="a77d08ead87f3d9344948a0eb9363411d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a77d08ead87f3d9344948a0eb9363411d">&#9670;&#160;</a></span>m_powerDisplayId</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> VehicleEntry::m_powerDisplayId</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00072">Vehicle::Install()</a>.</p>
+
+</div>
+</div>
+<a id="a67d17de9b80a7668ea30db60dc2845ae" name="a67d17de9b80a7668ea30db60dc2845ae"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a67d17de9b80a7668ea30db60dc2845ae">&#9670;&#160;</a></span>m_seatID</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> VehicleEntry::m_seatID[<a class="el" href="../../d7/de9/a04715.html#a5925e58fbd29a3a77ff05ab092fa1f77">MAX_VEHICLE_SEATS</a>]</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00945">WorldSession::HandleRequestPartyMemberStatsOpcode()</a>, and <a class="el" href="../../#l00030">Vehicle::Vehicle()</a>.</p>
+
+</div>
+</div>
+<a id="a1c34ef971035fc1017bb6774a0ab2481" name="a1c34ef971035fc1017bb6774a0ab2481"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1c34ef971035fc1017bb6774a0ab2481">&#9670;&#160;</a></span>m_turnSpeed</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">float VehicleEntry::m_turnSpeed</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a160cb73a524798f68ea5ed794faef8ef" name="a160cb73a524798f68ea5ed794faef8ef"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a160cb73a524798f68ea5ed794faef8ef">&#9670;&#160;</a></span>m_uiLocomotionType</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> VehicleEntry::m_uiLocomotionType</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ae125021f00a905a1d81729613f06d745" name="ae125021f00a905a1d81729613f06d745"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae125021f00a905a1d81729613f06d745">&#9670;&#160;</a></span>m_uiSeatIndicatorType</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> VehicleEntry::m_uiSeatIndicatorType</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -605,8 +595,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d9/d45/a28638.html">adt_MH2O</a></li>
-    <li class="footer">Generated on Mon Aug 4 2025 20:51:04 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d9/d45/a28638.html">VehicleEntry</a></li>
+    <li class="footer">Generated on Mon Sep 1 2025 20:44:43 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

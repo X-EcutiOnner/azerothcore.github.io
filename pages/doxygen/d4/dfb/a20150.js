@@ -1,6 +1,5 @@
 var a20150 =
 [
-    [ "FilterTargets", "d4/dfb/a20150.html#adb438b9bcf4be347aeabf6608fbfb8a4", null ],
-    [ "PrepareSpellScript", "d4/dfb/a20150.html#a88f5ca3aaa575cff0ba778f9b575d656", null ],
-    [ "Register", "d4/dfb/a20150.html#ac7337b4ee8511f72b129fccc83b3241e", null ]
+    [ "FlameLeviathanPursuedTargetSelector", "d4/dfb/a20150.html#acc855eaab1e9590e1fcfae6ed8d37815", null ],
+    [ "operator()", "d4/dfb/a20150.html#aaa2a49366fb651f7486b463ce597f364", null ]
 ];

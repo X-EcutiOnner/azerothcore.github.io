@@ -1,6 +1,6 @@
 var a26974 =
 [
-    [ "HandleEffectCalcSpellMod", "d2/d10/a26974.html#a38c2a5daeda4b366518026638e6a8e1b", null ],
-    [ "PrepareAuraScript", "d2/d10/a26974.html#a767c3c52e917b56dbf2368b5dbbf1610", null ],
-    [ "Register", "d2/d10/a26974.html#af60592a9f1e595f31814eae405d03d5a", null ]
+    [ "FilterTargets", "d2/d10/a26974.html#a2bcc808d5869442e4c2e78be2d2a16af", null ],
+    [ "PrepareSpellScript", "d2/d10/a26974.html#a51d7035477ba4e3994ef3161edc4cc69", null ],
+    [ "Register", "d2/d10/a26974.html#adcc2ed25659208d0eeaec6d9673df3c6", null ]
 ];

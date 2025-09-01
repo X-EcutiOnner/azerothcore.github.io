@@ -1,6 +1,6 @@
 var a15762 =
 [
-    [ "npc_sergeant_blyAI", "d5/d66/a15766.html", "d5/d66/a15766" ],
-    [ "npc_sergeant_bly", "df/d0a/a15762.html#afd5c6129098e4939e2b9f3d12b8c7058", null ],
-    [ "GetAI", "df/d0a/a15762.html#ad54ff5aabbc30de759c8f31b7ef9f46e", null ]
+    [ "npc_braug_dimspirit", "df/d0a/a15762.html#ade08e9ad549d80c2f7918dbfcfbf41dc", null ],
+    [ "OnGossipHello", "df/d0a/a15762.html#aeaed026edf5a1fa82c941f667c05815b", null ],
+    [ "OnGossipSelect", "df/d0a/a15762.html#a87ea1ba3e247c9b14c1f6c72b3addea0", null ]
 ];

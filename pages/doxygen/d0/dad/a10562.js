@@ -1,16 +1,11 @@
 var a10562 =
 [
-    [ "AreaID", "d0/dad/a10562.html#a7bd695ba9365b53703204e45c930b254", null ],
-    [ "ClassID", "d0/dad/a10562.html#a794961a2e9f4773254b2439837150b50", null ],
-    [ "Gender", "d0/dad/a10562.html#aadb29895c835e820168ad7d3f608d3b8", null ],
-    [ "Guid", "d0/dad/a10562.html#a9dad860d61da34048ab2d52ada0cb43f", null ],
-    [ "LastSave", "d0/dad/a10562.html#acb553637ff289603411fa5795a361deb", null ],
-    [ "Level", "d0/dad/a10562.html#a585acb139537e8def9e4ba076a332b6b", null ],
-    [ "Name", "d0/dad/a10562.html#ad50c43162525d8ad2ea33e48c01e838e", null ],
-    [ "Note", "d0/dad/a10562.html#aa351a270de4cba2faddc5179cb854b94", null ],
-    [ "OfficerNote", "d0/dad/a10562.html#aedaee0b4511ddd82cc75e91cb04e175a", null ],
-    [ "RankID", "d0/dad/a10562.html#a02f6f0dcf1be3a6befe959388d9aedd8", null ],
-    [ "Status", "d0/dad/a10562.html#aa6342565a23693718b5ef84f90b83350", null ],
-    [ "TotalXP", "d0/dad/a10562.html#ad3ee1ba956ea725db8588e3be3c57b18", null ],
-    [ "WeeklyXP", "d0/dad/a10562.html#a7fb40a5bce99fcf70176ebe344424ed2", null ]
+    [ "BackgroundColor", "d0/dad/a10562.html#abab86dd497de86088873178bf1d54b5b", null ],
+    [ "BorderColor", "d0/dad/a10562.html#abb2489b9be8a0d4a20d209d6293d7d46", null ],
+    [ "BorderStyle", "d0/dad/a10562.html#acd5105c31e0f56e680f3384e86186872", null ],
+    [ "EmblemColor", "d0/dad/a10562.html#a2e8a4768292d3566bb61009056a8a230", null ],
+    [ "EmblemStyle", "d0/dad/a10562.html#aa6309467f9f09725a8698de864b4e63c", null ],
+    [ "GuildName", "d0/dad/a10562.html#a74d4e1690c07a647c97ca2225e8488dd", null ],
+    [ "RankCount", "d0/dad/a10562.html#acddb77850a86348df197afc724c4eaa0", null ],
+    [ "Ranks", "d0/dad/a10562.html#aec9fd9a1a3bfa040375193027b32cf24", null ]
 ];

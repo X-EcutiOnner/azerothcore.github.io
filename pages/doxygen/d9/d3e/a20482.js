@@ -1,5 +1,6 @@
 var a20482 =
 [
-    [ "go_ulduar_do_not_push_this_button", "d9/d3e/a20482.html#aa204af213a643c001161e0c2f173ee6b", null ],
-    [ "OnGossipHello", "d9/d3e/a20482.html#ae11efa54b496ab21600a9c62e50b5fbe", null ]
+    [ "npc_ulduar_iron_constructAI", "d0/d6b/a20486.html", "d0/d6b/a20486" ],
+    [ "npc_ulduar_iron_construct", "d9/d3e/a20482.html#a56ddf4d4d290dbb15303419c1dab18da", null ],
+    [ "GetAI", "d9/d3e/a20482.html#a7d46ba96b6f1968e35721d45c17b1a49", null ]
 ];

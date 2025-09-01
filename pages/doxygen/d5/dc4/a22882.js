@@ -1,7 +1,6 @@
 var a22882 =
 [
-    [ "SuckBackEvent", "d5/dc4/a22882.html#a6525e2aefec2680fde20e27ebf962f4c", null ],
-    [ "Execute", "d5/dc4/a22882.html#aae1664e6ef9d90ec8a0e12554b991bf0", null ],
-    [ "_action", "d5/dc4/a22882.html#abc54669df2dba0238723a40ababe4c0a", null ],
-    [ "_owner", "d5/dc4/a22882.html#a4d8bc09803f7786022c1836457ded488", null ]
+    [ "FilterTargets", "d5/dc4/a22882.html#abd3fafc2120b7069790dd9822cd62adc", null ],
+    [ "PrepareSpellScript", "d5/dc4/a22882.html#aebc0441481a2c458fc904175df931a9e", null ],
+    [ "Register", "d5/dc4/a22882.html#af1173988538ad44c27ea2ed9d49fe06d", null ]
 ];

@@ -1,5 +1,5 @@
 var a02117 =
 [
-    [ "player_settings_commandscript", "d5/dcb/a11784.html", "d5/dcb/a11784" ],
-    [ "AddSC_player_settings_commandscript", "d0/d79/a02117.html#a366685affd5565d164c65f8cd4a20b61", null ]
+    [ "worldstate_commandscript", "d8/d78/a11914.html", "d8/d78/a11914" ],
+    [ "AddSC_worldstate_commandscript", "d0/d79/a02117.html#a2ff66ad19f50180b9878cf95696fd09b", null ]
 ];

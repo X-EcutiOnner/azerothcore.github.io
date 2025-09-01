@@ -1,12 +1,14 @@
 var a03524 =
 [
-    [ "instance_violet_hold", "dc/d6b/a21440.html", "dc/d6b/a21440" ],
-    [ "instance_violet_hold::instance_violet_hold_InstanceMapScript", "dc/dd7/a21444.html", "dc/dd7/a21444" ],
-    [ "vYells", "dc/d98/a03524.html#af81bfaea39a160ddb9422869d6637d65", [
-      [ "CYANIGOSA_SAY_SPAWN", "dc/d98/a03524.html#af81bfaea39a160ddb9422869d6637d65ad55452f43eb6c2a7803dd3a6914ff586", null ],
-      [ "SAY_SINCLARI_LEAVING", "dc/d98/a03524.html#af81bfaea39a160ddb9422869d6637d65a98abfd4974743840603721fea2cd0192", null ],
-      [ "SAY_SINCLARI_DOOR_LOCK", "dc/d98/a03524.html#af81bfaea39a160ddb9422869d6637d65a009be97ca2bddcb508aeed20f057fd61", null ],
-      [ "SAY_SINCLARI_COMPLETE", "dc/d98/a03524.html#af81bfaea39a160ddb9422869d6637d65aeb5bea74e085aa8ec9a176deb36cdcf1", null ]
-    ] ],
-    [ "AddSC_instance_violet_hold", "dc/d98/a03524.html#a3d339190942c6b50cafaf9780d32ffb4", null ]
+    [ "TempSummonData", "d3/d3a/a08134.html", "d3/d3a/a08134" ],
+    [ "TempSummon", "d9/da8/a08138.html", "d9/da8/a08138" ],
+    [ "Minion", "df/d2d/a08142.html", "df/d2d/a08142" ],
+    [ "Guardian", "d7/d40/a08146.html", "d7/d40/a08146" ],
+    [ "Puppet", "d6/d80/a08150.html", "d6/d80/a08150" ],
+    [ "ForcedUnsummonDelayEvent", "d4/dd5/a08154.html", "d4/dd5/a08154" ],
+    [ "SummonerType", "dc/d98/a03524.html#ac8a8d6d0515f6d559068f8aaae56e188", [
+      [ "SUMMONER_TYPE_CREATURE", "dc/d98/a03524.html#ac8a8d6d0515f6d559068f8aaae56e188a13183f62876c427760b46d785c8dba3a", null ],
+      [ "SUMMONER_TYPE_GAMEOBJECT", "dc/d98/a03524.html#ac8a8d6d0515f6d559068f8aaae56e188aadd184039208a2f49a392958ca9a2347", null ],
+      [ "SUMMONER_TYPE_MAP", "dc/d98/a03524.html#ac8a8d6d0515f6d559068f8aaae56e188a0550300777cb9771bd92e040ccef0270", null ]
+    ] ]
 ];

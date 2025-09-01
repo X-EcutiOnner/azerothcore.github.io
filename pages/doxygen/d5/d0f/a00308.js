@@ -1,4 +1,6 @@
 var a00308 =
 [
-    [ "operator<<", "d5/d0f/a00308.html#aa8a947319a6f00895a3c443f5cb258ad", null ]
+    [ "VMAP::MapRayCallback", "d8/d10/a05018.html", "d8/d10/a05018" ],
+    [ "VMAP::AreaInfoCallback", "df/dab/a05022.html", "df/dab/a05022" ],
+    [ "VMAP::LocationInfoCallback", "d2/df7/a05026.html", "d2/df7/a05026" ]
 ];

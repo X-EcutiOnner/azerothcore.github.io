@@ -1,5 +1,6 @@
 var a23606 =
 [
-    [ "go_manticron_cube", "d9/ddd/a23606.html#a87d9571aea57f16d38067ebd9e22200d", null ],
-    [ "OnGossipHello", "d9/ddd/a23606.html#accab4a61f00f5e465fb795b4cbe672bf", null ]
+    [ "instance_the_underbog_InstanceMapScript", "df/d43/a23610.html", "df/d43/a23610" ],
+    [ "instance_the_underbog", "d9/ddd/a23606.html#afaf8740a3e367a1a54eaa3e76ffa483e", null ],
+    [ "GetInstanceScript", "d9/ddd/a23606.html#ace939fb7fd89e7c9c84c17d3ca31208b", null ]
 ];

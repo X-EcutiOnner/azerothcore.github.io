@@ -1,9 +1,6 @@
 var a01760 =
 [
-    [ "DynamicObject", "d0/db0/a08148.html", "d0/db0/a08148" ],
-    [ "DynamicObjectType", "d0/d9d/a01760.html#aee85c2f840289bcf773609333ee91131", [
-      [ "DYNAMIC_OBJECT_PORTAL", "d0/d9d/a01760.html#aee85c2f840289bcf773609333ee91131a241a99bd67606cb106b003bab51e3a5b", null ],
-      [ "DYNAMIC_OBJECT_AREA_SPELL", "d0/d9d/a01760.html#aee85c2f840289bcf773609333ee91131a7fb219efa9ce6ad8dc94e20c1feff546", null ],
-      [ "DYNAMIC_OBJECT_FARSIGHT_FOCUS", "d0/d9d/a01760.html#aee85c2f840289bcf773609333ee91131a59fbc7f63f5d2715fbc29110f393168d", null ]
-    ] ]
+    [ "instance_halls_of_lightning", "d3/dff/a19730.html", "d3/dff/a19730" ],
+    [ "instance_halls_of_lightning::instance_halls_of_lightning_InstanceMapScript", "d7/de8/a19734.html", "d7/de8/a19734" ],
+    [ "AddSC_instance_halls_of_lightning", "d0/d9d/a01760.html#acb5e7d848388449d05e307ed07fbcfc6", null ]
 ];

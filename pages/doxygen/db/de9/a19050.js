@@ -1,7 +1,6 @@
 var a19050 =
 [
-    [ "HandleRemove", "db/de9/a19050.html#a7c81c567ae10bf4fd4d3c1eb480b5761", null ],
-    [ "PrepareAuraScript", "db/de9/a19050.html#aaefd5b15f7a3725b2663c0717fe22c92", null ],
-    [ "Register", "db/de9/a19050.html#ad7ba015a7878adad0820cf378d2632ca", null ],
-    [ "Validate", "db/de9/a19050.html#a570bb63c6ed7af58b0b886e8a954dea9", null ]
+    [ "icecrown_citadel_teleport", "db/de9/a19050.html#ab74d5962073dcf3b4488c33aaa935377", null ],
+    [ "OnGossipHello", "db/de9/a19050.html#a97b0d94a5c7388a5dfce76f3bd3be24f", null ],
+    [ "OnGossipSelect", "db/de9/a19050.html#a0b160bd86341542ddb1c80f3d4bd691f", null ]
 ];

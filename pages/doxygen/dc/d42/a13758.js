@@ -1,6 +1,16 @@
 var a13758 =
 [
-    [ "npc_andorhal_towerAI", "de/d26/a13762.html", "de/d26/a13762" ],
-    [ "npc_andorhal_tower", "dc/d42/a13758.html#abf63419b6c10af47f5e5df1a4e7320e7", null ],
-    [ "GetAI", "dc/d42/a13758.html#a51139c28da736d26bf27a061862d24ee", null ]
+    [ "npc_rinjiAI", "dc/d42/a13758.html#ab613818b92530269f0802077eccc92d0", null ],
+    [ "DoSpawnAmbush", "dc/d42/a13758.html#af2535d7364641fadc98bca91ace9c906", null ],
+    [ "JustEngagedWith", "dc/d42/a13758.html#ae5ca00ee9baead3392a9239dfb68d377", null ],
+    [ "JustRespawned", "dc/d42/a13758.html#a471f2e8da91639d4e68ad64a11d7b950", null ],
+    [ "JustSummoned", "dc/d42/a13758.html#a09d65e7bd5a76552208eee920cfcb4f9", null ],
+    [ "Reset", "dc/d42/a13758.html#ada230a1b7b0f3c8b2b41c706856681b8", null ],
+    [ "sQuestAccept", "dc/d42/a13758.html#a15b9a0756ae6cebac690c8bb997e99d2", null ],
+    [ "UpdateEscortAI", "dc/d42/a13758.html#a60f05b58b115f3f2ea11206778893547", null ],
+    [ "WaypointReached", "dc/d42/a13758.html#a9463060a57b85113b71482c8a0974f60", null ],
+    [ "_IsByOutrunner", "dc/d42/a13758.html#adecc4eb9f90969621b52b97ff594558d", null ],
+    [ "postEventCount", "dc/d42/a13758.html#a601f142bd2a04ed303611044bac91035", null ],
+    [ "postEventTimer", "dc/d42/a13758.html#a5154e551143e81d431f706ad07b78ca0", null ],
+    [ "spawnId", "dc/d42/a13758.html#a3fc84d1e0f5243c6e8f292ddcac15ace", null ]
 ];

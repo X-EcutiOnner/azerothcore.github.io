@@ -1,6 +1,7 @@
 var a10750 =
 [
-    [ "PlayerSaveGuildEmblem", "db/d29/a10750.html#ae1269fb7583f0ce1703cd89d592b1485", null ],
-    [ "Write", "db/d29/a10750.html#a0427be2f46cba4ff6b2ca072924bca7b", null ],
-    [ "Error", "db/d29/a10750.html#a76930d3b74bf7b84a311b24b53d03b21", null ]
+    [ "GuildBankLogQueryResults", "db/d29/a10750.html#a878f9545b3141a327de85771de4f1779", null ],
+    [ "Write", "db/d29/a10750.html#aafdb5114c7d0e8a2d18a848f3c94aa38", null ],
+    [ "Entry", "db/d29/a10750.html#a5f3704df5311f06833c3243201d35930", null ],
+    [ "Tab", "db/d29/a10750.html#a214db612bb08e557dd41d3962c827dca", null ]
 ];

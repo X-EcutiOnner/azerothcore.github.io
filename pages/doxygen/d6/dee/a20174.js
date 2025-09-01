@@ -1,6 +1,6 @@
 var a20174 =
 [
-    [ "id", "d6/dee/a20174.html#accc6fc59e13a0897ae168fae33ee4c7d", null ],
-    [ "x", "d6/dee/a20174.html#afb67a1dce0819e0da0ceb9b303f43eb9", null ],
-    [ "y", "d6/dee/a20174.html#aaf4fd9f1d5b020e102c0fec3863f7020", null ]
+    [ "CheckAreaTarget", "d6/dee/a20174.html#ad1930e308f450cb84dba4f4b28b19f58", null ],
+    [ "PrepareAuraScript", "d6/dee/a20174.html#a921b2f67c417244310398bd93061d61c", null ],
+    [ "Register", "d6/dee/a20174.html#ab21972706bae9fdc3fc6859da2f3f63e", null ]
 ];

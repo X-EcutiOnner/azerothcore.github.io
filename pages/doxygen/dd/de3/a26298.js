@@ -1,9 +1,6 @@
 var a26298 =
 [
-    [ "HandleAfterCast", "dd/de3/a26298.html#ac08e632064c407346649f525d030d335", null ],
-    [ "HandleDummy", "dd/de3/a26298.html#a9c1dadd5a3e2e039b50a414ac589ebf4", null ],
-    [ "Load", "dd/de3/a26298.html#a177525c755b036a79263c0fa6fa4082e", null ],
-    [ "PrepareSpellScript", "dd/de3/a26298.html#aed99b07a53068b19bddb4daff3449a52", null ],
-    [ "Register", "dd/de3/a26298.html#a946e56a325d83656d9b43af80d065e45", null ],
-    [ "_triggerSpellId", "dd/de3/a26298.html#a6697a22b684784853cb1999d41fcaaa7", null ]
+    [ "CalculateAmount", "dd/de3/a26298.html#a9c4a38bb60cc61156da5bd1b89b3e116", null ],
+    [ "PrepareAuraScript", "dd/de3/a26298.html#a5bd55cb8b992f7ceb52f7193bcdbf210", null ],
+    [ "Register", "dd/de3/a26298.html#a1f717d941f8d100eb73d7e2a3b638bad", null ]
 ];

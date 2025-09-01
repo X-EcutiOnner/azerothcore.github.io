@@ -1,6 +1,7 @@
 var a17882 =
 [
-    [ "FilterTargets", "d9/dce/a17882.html#ac2396cbd000a8d58ff22dbb08c81dfb4", null ],
-    [ "PrepareSpellScript", "d9/dce/a17882.html#abcdfe528430e299c2eb64b24f7ff8eb0", null ],
-    [ "Register", "d9/dce/a17882.html#a32e04a1110d651701b8eab1648c69a57", null ]
+    [ "PrepareSpellScript", "d9/dce/a17882.html#a21bd67c024c5dcfb8496778f67eb48eb", null ],
+    [ "Register", "d9/dce/a17882.html#aff4f05a5a4742a408646000b7cece38c", null ],
+    [ "RemovePassengers", "d9/dce/a17882.html#a77c63e85233e2ef14bf06c82ad27c4b2", null ],
+    [ "Validate", "d9/dce/a17882.html#a2a8da9d150804f979f2313f623ad7760", null ]
 ];

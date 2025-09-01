@@ -1,6 +1,6 @@
 var a27314 =
 [
-    [ "go_fel_crystalforge", "d1/d39/a27314.html#aa44708a617edd51651da49918ab776e5", null ],
-    [ "OnGossipHello", "d1/d39/a27314.html#aae9f4beff251efb7b29e1988ddd51eaf", null ],
-    [ "OnGossipSelect", "d1/d39/a27314.html#a97450cce5f547e28ea84fa6a6f8ab79e", null ]
+    [ "boss_emerissAI", "da/df7/a27318.html", "da/df7/a27318" ],
+    [ "boss_emeriss", "d1/d39/a27314.html#a2d373e5add3f007cf214ad9763039aa2", null ],
+    [ "GetAI", "d1/d39/a27314.html#a88a0696a12f12e612cce53c14f6b1f92", null ]
 ];

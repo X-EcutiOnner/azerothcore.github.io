@@ -1,6 +1,6 @@
 var a18354 =
 [
-    [ "npc_strangulate_vehicleAI", "d4/d91/a18358.html", "d4/d91/a18358" ],
-    [ "npc_strangulate_vehicle", "d7/d4b/a18354.html#a04532bc5902af45b1e9c76cf1cec9add", null ],
-    [ "GetAI", "d7/d4b/a18354.html#aa5813442234d7b18fc4e7ed44a0b30bc", null ]
+    [ "VileSpiritActivateEvent", "d7/d4b/a18354.html#ac7d37d3b7b3173015a2af9ce93b8f2f9", null ],
+    [ "Execute", "d7/d4b/a18354.html#a858892424e1f22fda9a7c519b6a7e0b6", null ],
+    [ "_owner", "d7/d4b/a18354.html#a385fc75b5d77d8776d5a8e948fa69724", null ]
 ];

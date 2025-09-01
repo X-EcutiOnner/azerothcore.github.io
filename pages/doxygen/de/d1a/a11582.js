@@ -1,7 +1,7 @@
 var a11582 =
 [
-    [ "achievement_commandscript", "de/d1a/a11582.html#ac1c40d7b3b628cc206c44eae18592292", null ],
-    [ "GetCommands", "de/d1a/a11582.html#adeac4e6f74f006daa76b0ebb8ea1469c", null ],
-    [ "HandleAchievementAddCommand", "de/d1a/a11582.html#ac4f6addfb0c52d584bf8081436aa3d7a", null ],
-    [ "HandleAchievementCheckAllCommand", "de/d1a/a11582.html#a0e3b83961ff20899a8492c8d8b7c13be", null ]
+    [ "PlayerDumpReader", "de/d1a/a11582.html#ad630b61e298fb1ddf165481c9a14e077", null ],
+    [ "LoadDump", "de/d1a/a11582.html#a62ca90cbcb0d03ec0da52651d8c5f783", null ],
+    [ "LoadDumpFromFile", "de/d1a/a11582.html#ae1ed88a6f181cf6ad952edb1285e192e", null ],
+    [ "LoadDumpFromString", "de/d1a/a11582.html#abd4ce2c50a74922792a7b00d803f03b2", null ]
 ];

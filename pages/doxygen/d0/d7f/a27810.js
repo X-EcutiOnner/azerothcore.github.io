@@ -1,7 +1,9 @@
 var a27810 =
 [
-    [ "EmoteType", "d0/d7f/a27810.html#a2d319652021081fdb02472c32a28e318", null ],
-    [ "Flags", "d0/d7f/a27810.html#aa1794d3ffd7f7da82f5754e1be580fe9", null ],
-    [ "Id", "d0/d7f/a27810.html#a3b3b641fbdb8dc88afc2421e358a75a1", null ],
-    [ "UnitStandState", "d0/d7f/a27810.html#ada83e548faa01917a5db19eaa15dbbec", null ]
+    [ "npc_fireworkAI", "d0/d7f/a27810.html#a8fad089d1edc09edbaf215f07722e9e6", null ],
+    [ "FindNearestLauncher", "d0/d7f/a27810.html#a156e63c90f9b64cfd71c0262d28f1383", null ],
+    [ "GetFireworkGameObjectId", "d0/d7f/a27810.html#ae17b4abbbb2088799cec188457677d44", null ],
+    [ "GetFireworkSpell", "d0/d7f/a27810.html#a6270e753ab81062a7c39ca6c6b46c993", null ],
+    [ "isCluster", "d0/d7f/a27810.html#a4b3cdedaa2a57d23bf9f509cabdaff0c", null ],
+    [ "Reset", "d0/d7f/a27810.html#a3e2ce8787cd08b8bb900c009bd7e8af0", null ]
 ];

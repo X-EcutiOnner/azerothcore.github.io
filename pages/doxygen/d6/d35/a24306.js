@@ -1,7 +1,7 @@
 var a24306 =
 [
-    [ "HandlePeriodic", "d6/d35/a24306.html#a56dd6ce5acad6c8a10eabfc3f35879fe", null ],
-    [ "PrepareAuraScript", "d6/d35/a24306.html#a58dc6668172d046cef3046649928c124", null ],
-    [ "Register", "d6/d35/a24306.html#a5700d7cc8b52ec0351e3d7bf851274b7", null ],
-    [ "Validate", "d6/d35/a24306.html#afa6d5fe15882f33ae1a1d137db9caf8c", null ]
+    [ "HandleScriptEffect", "d6/d35/a24306.html#ad018d907a85ee31d3194823a4c02a1a5", null ],
+    [ "PrepareSpellScript", "d6/d35/a24306.html#a50b6bc43eaeee0ec760c02ac1685454e", null ],
+    [ "Register", "d6/d35/a24306.html#a2096673a3f57cc224aeb7d3ce84526cb", null ],
+    [ "Validate", "d6/d35/a24306.html#a5209de3456c374010502a94f67ff4544", null ]
 ];

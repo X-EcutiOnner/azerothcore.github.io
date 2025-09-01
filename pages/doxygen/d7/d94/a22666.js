@@ -1,11 +1,15 @@
 var a22666 =
 [
-    [ "boss_blackheart_the_inciter", "d7/d94/a22666.html#a772b2b4574fa6ccd445924193985859b", null ],
-    [ "EnterEvadeMode", "d7/d94/a22666.html#aaf2c9d37b0af1db1d35af01923eca45b", null ],
-    [ "JustDied", "d7/d94/a22666.html#a1e7ca1ade637766d4c6039c50e9c85f7", null ],
-    [ "JustEngagedWith", "d7/d94/a22666.html#abeb0cc4ff2543531f7a7c7993559f1cb", null ],
-    [ "KilledUnit", "d7/d94/a22666.html#ad7de71ea14e5be6e2b126edde1c78ab6", null ],
-    [ "Reset", "d7/d94/a22666.html#add75633d1c04d0be91e7e80f28213917", null ],
-    [ "UpdateAI", "d7/d94/a22666.html#a0648c4bbabf30efd706b973bf8028dbb", null ],
-    [ "InciteChaos", "d7/d94/a22666.html#a640c5301b22a0bfef2c4bcac4556a992", null ]
+    [ "OutdoorPvPEP", "d7/d94/a22666.html#ab4915dfc03de08cad83eb48c4c789cb8", null ],
+    [ "BuffTeams", "d7/d94/a22666.html#ac6a61c19ba96ca843eb12952d0c09078", null ],
+    [ "FillInitialWorldStates", "d7/d94/a22666.html#ac1b185125fa1f8864d1062b65be24bdc", null ],
+    [ "HandlePlayerEnterZone", "d7/d94/a22666.html#a9e7404160b1220dc3cc2766a07f42ad2", null ],
+    [ "HandlePlayerLeaveZone", "d7/d94/a22666.html#a251b154abfaec9cbfb1a56e657ac5214", null ],
+    [ "SendRemoveWorldStates", "d7/d94/a22666.html#afad47628bb4cfcc6060ce35396e33d9d", null ],
+    [ "SetControlledState", "d7/d94/a22666.html#abef30d5cbe7c2cd52cd32ae29da1c9ce", null ],
+    [ "SetupOutdoorPvP", "d7/d94/a22666.html#acecc8126180c027cb3d685231e55d873", null ],
+    [ "Update", "d7/d94/a22666.html#a974910b2f7f2d8cfaf43b6694bf4c2c7", null ],
+    [ "EP_ControlsId", "d7/d94/a22666.html#a7e8fcf50f88bdb56b189877721a1f006", null ],
+    [ "m_AllianceTowersControlled", "d7/d94/a22666.html#a09e5cf029656af3fc740b236596d42ee", null ],
+    [ "m_HordeTowersControlled", "d7/d94/a22666.html#a325c16f6b5f40bd5dd5f63a9d93a8cd1", null ]
 ];

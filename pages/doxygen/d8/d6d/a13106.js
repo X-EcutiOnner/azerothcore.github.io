@@ -1,11 +1,12 @@
 var a13106 =
 [
-    [ "npc_scholomance_occultistAI", "d8/d6d/a13106.html#af78103d07aef427130d26b4aed5e5ae3", null ],
-    [ "JustEngagedWith", "d8/d6d/a13106.html#a03f0f6d015065c5afcf025dc44dc6aa8", null ],
-    [ "JustReachedHome", "d8/d6d/a13106.html#ac4bb0aa4009191a36dd4cebb45fd2ad5", null ],
-    [ "SelectUnitCasting", "d8/d6d/a13106.html#adde187b89a74a57aac823e4eb19bfeed", null ],
-    [ "UpdateAI", "d8/d6d/a13106.html#ab02edf780adb553b2314045d8effa277", null ],
-    [ "events", "d8/d6d/a13106.html#a1ee55a572462a1e832a5b89c8906bd87", null ],
-    [ "instance", "d8/d6d/a13106.html#a195fe4d681580c17086a5390fd4f82ba", null ],
-    [ "originalDisplayId", "d8/d6d/a13106.html#a4dcc895fef36cd1e9ca8cf38bdc2f6c4", null ]
+    [ "npc_scarlet_minerAI", "d8/d6d/a13106.html#a7f5ca173103eb4498ce41912bda5da66", null ],
+    [ "InitCartQuest", "d8/d6d/a13106.html#a5d3ece8f2f02a2bae4550a41f55348b0", null ],
+    [ "InitWaypoint", "d8/d6d/a13106.html#a7fe048368b6e0a43b5be501a24773b8c", null ],
+    [ "Reset", "d8/d6d/a13106.html#a2a8660173dc32c38de917049eb33fff8", null ],
+    [ "UpdateAI", "d8/d6d/a13106.html#a48d2c92a4d45d5e59252f9455b82cbbd", null ],
+    [ "WaypointReached", "d8/d6d/a13106.html#a31f4363e269b51d3a002a132b5516dd0", null ],
+    [ "carGUID", "d8/d6d/a13106.html#a963f9c0ca58ce160b43f36f5a9f7dee7", null ],
+    [ "IntroPhase", "d8/d6d/a13106.html#a094c2ee20d13c88805c3de7f9f94b86e", null ],
+    [ "IntroTimer", "d8/d6d/a13106.html#adae2103753dd62699359ff01ac3ba865", null ]
 ];

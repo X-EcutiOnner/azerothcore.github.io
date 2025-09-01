@@ -1,7 +1,6 @@
 var a19442 =
 [
-    [ "HandleProc", "d2/d34/a19442.html#adb7714eca4c317ab76db0ecbc813669e", null ],
-    [ "PrepareAuraScript", "d2/d34/a19442.html#a70f2c5c4656abb4798ad39b015fc2a9a", null ],
-    [ "Register", "d2/d34/a19442.html#a445ce7331c36e507aa24466ff9a67781", null ],
-    [ "Validate", "d2/d34/a19442.html#ad0e44f34d7bd1671ef7dcc2165abaa66", null ]
+    [ "npc_alexstraszaAI", "d4/dd0/a19446.html", "d4/dd0/a19446" ],
+    [ "npc_alexstrasza", "d2/d34/a19442.html#aa28858e8368031c2882e7e3c1c5968dd", null ],
+    [ "GetAI", "d2/d34/a19442.html#ad155ccc4f7bca786229ee015d365e3ce", null ]
 ];

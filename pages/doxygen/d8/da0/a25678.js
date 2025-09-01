@@ -1,6 +1,6 @@
 var a25678 =
 [
-    [ "FilterTargets", "d8/da0/a25678.html#abe299fbad07f800e90b1614ec661c185", null ],
-    [ "PrepareSpellScript", "d8/da0/a25678.html#a53bae2b6575436705adff74caf9225b7", null ],
-    [ "Register", "d8/da0/a25678.html#a35fd5a1c8ab2400940da2d9f8f3ce9c2", null ]
+    [ "HandleDummyTick", "d8/da0/a25678.html#a000f8fd84e7292ac759b64a8a25d3ca2", null ],
+    [ "PrepareAuraScript", "d8/da0/a25678.html#a2848e44f1520cc32af916a8e6578c3ea", null ],
+    [ "Register", "d8/da0/a25678.html#a4a13827baeb7ed4f2681ab114d44eb37", null ]
 ];

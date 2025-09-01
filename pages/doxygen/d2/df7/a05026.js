@@ -1,11 +1,8 @@
 var a05026 =
 [
-    [ "ModelPosition", "d2/df7/a05026.html#ac611d964ae36e4ccd5a3bf385457a0ac", null ],
-    [ "init", "d2/df7/a05026.html#a5b7df306c28a7985fd3ab17d48350a27", null ],
-    [ "moveToBasePos", "d2/df7/a05026.html#a2fe1b48319a056f110ef700877257731", null ],
-    [ "transform", "d2/df7/a05026.html#add4c2efec70be75d8ffcd1009b6c2699", null ],
-    [ "iDir", "d2/df7/a05026.html#a24ba62281166e60036ac8a57b26c6abd", null ],
-    [ "iPos", "d2/df7/a05026.html#a36a3bd930273e0313e3b09c1289e9317", null ],
-    [ "iRotation", "d2/df7/a05026.html#ae53c5b044021f5ef04ecb5d8898fd8b3", null ],
-    [ "iScale", "d2/df7/a05026.html#a81bb029dce2aadec2f147a1329ee285e", null ]
+    [ "LocationInfoCallback", "d2/df7/a05026.html#a81b8c00fcc0a1780445ffbdf85decfdf", null ],
+    [ "operator()", "d2/df7/a05026.html#ac2ccfe87fa33cae7d2513c24ba8bfbeb", null ],
+    [ "locInfo", "d2/df7/a05026.html#a9a8b8529a571b3652cd898b2888d8027", null ],
+    [ "prims", "d2/df7/a05026.html#a19c87ad1c9665c3ddfbfa89ccdee5c10", null ],
+    [ "result", "d2/df7/a05026.html#a1ada8b8a1742f02b2d1f28ee82903246", null ]
 ];

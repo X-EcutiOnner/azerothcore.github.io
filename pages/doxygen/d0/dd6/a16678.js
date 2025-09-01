@@ -1,6 +1,8 @@
 var a16678 =
 [
-    [ "HandleEffectApply", "d0/dd6/a16678.html#aaea2c3733dadc19072c81774468e345a", null ],
-    [ "PrepareAuraScript", "d0/dd6/a16678.html#a3848997e9f775add50d40342b6211ff0", null ],
-    [ "Register", "d0/dd6/a16678.html#a775b1cf494049ed13d149ca6318142c3", null ]
+    [ "npc_toc_pet_hunterAI", "d0/dd6/a16678.html#a751e37388df10abf4bf9df5d3f373fa3", null ],
+    [ "EnterEvadeMode", "d0/dd6/a16678.html#a7f60ea2596fa4af2209333696dbe00e0", null ],
+    [ "myCanCast", "d0/dd6/a16678.html#aefaa41a92000d8915853988ce3fd5bc4", null ],
+    [ "UpdateAI", "d0/dd6/a16678.html#aec1d16cdcb7d86d7de4de10ca34f491d", null ],
+    [ "events", "d0/dd6/a16678.html#ade038312363f976b34868ed2cbebb58d", null ]
 ];

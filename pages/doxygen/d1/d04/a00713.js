@@ -1,5 +1,5 @@
 var a00713 =
 [
-    [ "ArenaScore", "d6/dc7/a07206.html", "d6/dc7/a07206" ],
-    [ "ArenaTeamScore", "d7/dc6/a07210.html", "d7/dc6/a07210" ]
+    [ "ChatLogScript", "da/dc9/a27346.html", "da/dc9/a27346" ],
+    [ "AddSC_chat_log", "d1/d04/a00713.html#ae796ad81a78a552e5c31fcf6c5c135fa", null ]
 ];

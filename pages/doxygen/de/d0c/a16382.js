@@ -1,6 +1,7 @@
 var a16382 =
 [
-    [ "npc_toc_druidAI", "d8/d28/a16386.html", "d8/d28/a16386" ],
-    [ "npc_toc_druid", "de/d0c/a16382.html#a07321d5ee164b8e47f652f9bad65216b", null ],
-    [ "GetAI", "de/d0c/a16382.html#a4f33e8f3649c0b398448cd01666cf92b", null ]
+    [ "CountAllies", "de/d0c/a16382.html#a207c1fd89fd726054a881e342391d2a0", null ],
+    [ "PrepareSpellScript", "de/d0c/a16382.html#ae1e230ad204a280a261ebe0f21c7f8a5", null ],
+    [ "Register", "de/d0c/a16382.html#a47574795b2a262625c65ab23a4179684", null ],
+    [ "Validate", "de/d0c/a16382.html#a0178e7c4f5509a4bb2c6ed3811fc9685", null ]
 ];

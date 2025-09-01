@@ -1,11 +1,20 @@
 var a28874 =
 [
-    [ "AccountActionIpLogger", "dd/dc3/a28874.html#a73cad77bd83243cb10c4a1b4d7081e0b", null ],
-    [ "AccountIPLogAction", "dd/dc3/a28874.html#a9c978dafb71e67b8b278806df507e34b", null ],
-    [ "OnAccountLogin", "dd/dc3/a28874.html#a2952adcd73d775b924671e5a69adaccb", null ],
-    [ "OnEmailChange", "dd/dc3/a28874.html#aa15d0cc4e6ed3818fa18a927074f5f0c", null ],
-    [ "OnFailedAccountLogin", "dd/dc3/a28874.html#a8225c45bcb83e1ddd91a8dcd0f7da9cd", null ],
-    [ "OnFailedEmailChange", "dd/dc3/a28874.html#a9fd73dc7b6954dfb4fc94a1f1288ccd2", null ],
-    [ "OnFailedPasswordChange", "dd/dc3/a28874.html#a0663e15ea1a29b3daa672c8b6a25548f", null ],
-    [ "OnPasswordChange", "dd/dc3/a28874.html#a4b71aa9c1790e6d4033d884a17ce0a2f", null ]
+    [ "FileLoader", "dd/dc3/a28874.html#a51313b536560d1d89d8350475d2bc749", null ],
+    [ "~FileLoader", "dd/dc3/a28874.html#a0954776182dd01364bdb216539ce398b", null ],
+    [ "FileLoader", "dd/dc3/a28874.html#a51313b536560d1d89d8350475d2bc749", null ],
+    [ "~FileLoader", "dd/dc3/a28874.html#a0954776182dd01364bdb216539ce398b", null ],
+    [ "free", "dd/dc3/a28874.html#a738aeb2ebe751c9fc75013dbce30dcc4", null ],
+    [ "free", "dd/dc3/a28874.html#aef98564821c8e63b6d484179cda0b380", null ],
+    [ "GetData", "dd/dc3/a28874.html#aed85cdbd6a4e52096292c6ed8578f7bd", null ],
+    [ "GetData", "dd/dc3/a28874.html#aed85cdbd6a4e52096292c6ed8578f7bd", null ],
+    [ "GetDataSize", "dd/dc3/a28874.html#a2a07adb0692a51af06ccd31d449ae444", null ],
+    [ "GetDataSize", "dd/dc3/a28874.html#a2a07adb0692a51af06ccd31d449ae444", null ],
+    [ "loadFile", "dd/dc3/a28874.html#a11908109042f93ddde393e7a874683c9", null ],
+    [ "loadFile", "dd/dc3/a28874.html#a11908109042f93ddde393e7a874683c9", null ],
+    [ "prepareLoadedData", "dd/dc3/a28874.html#ab66347098d7c9ac470339c232f9b7588", null ],
+    [ "prepareLoadedData", "dd/dc3/a28874.html#a498a33d80768843b4ab1ff2d5ffe68d9", null ],
+    [ "data", "dd/dc3/a28874.html#aff1880ac2038f17f4d1f63bc9f7d9afd", null ],
+    [ "data_size", "dd/dc3/a28874.html#a355891fc980538e74080b9b83a95dec8", null ],
+    [ "version", "dd/dc3/a28874.html#a41cedec185e5909d83c8a185d1476dee", null ]
 ];

@@ -1,7 +1,6 @@
 var a15730 =
 [
-    [ "npc_ranshallaAI", "da/d84/a15734.html", "da/d84/a15734" ],
-    [ "npc_ranshalla", "d0/d7a/a15730.html#a0b9848c68cf955d24024071ae9beb8e5", null ],
-    [ "GetAI", "d0/d7a/a15730.html#a1a81651366cc05d3ad6e9929160fe059", null ],
-    [ "OnQuestAccept", "d0/d7a/a15730.html#a4ed77a4c0a48dc4922fa5ebb71949e28", null ]
+    [ "npc_qiraj_war_spawnAI", "da/d84/a15734.html", "da/d84/a15734" ],
+    [ "npc_qiraj_war_spawn", "d0/d7a/a15730.html#a2afba33e9fd879ac3fea206768b14334", null ],
+    [ "GetAI", "d0/d7a/a15730.html#a32339f20251c188b895c02b6cc9217e9", null ]
 ];

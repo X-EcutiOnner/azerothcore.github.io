@@ -1,6 +1,7 @@
 var a22286 =
 [
-    [ "npc_brunnhildar_prisonerAI", "db/d97/a22290.html", "db/d97/a22290" ],
-    [ "npc_brunnhildar_prisoner", "d3/d19/a22286.html#a4dd1b440366c0a5c4fa7c1dfab7607b5", null ],
-    [ "GetAI", "d3/d19/a22286.html#aa2a1787849c74a5163a39137c9d03d57", null ]
+    [ "HandleScriptEffect", "d3/d19/a22286.html#ad20cf97a7dd442d5670a22095b487a01", null ],
+    [ "PrepareSpellScript", "d3/d19/a22286.html#ab0f6da0cb3115e54dbb59f0e6f823d02", null ],
+    [ "Register", "d3/d19/a22286.html#a996ea344ea2a3312cb8886565b80972d", null ],
+    [ "Validate", "d3/d19/a22286.html#a29bf5a9615e02281f426bf521a045567", null ]
 ];

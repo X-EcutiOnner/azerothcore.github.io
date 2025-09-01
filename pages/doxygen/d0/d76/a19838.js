@@ -1,6 +1,6 @@
 var a19838 =
 [
-    [ "npc_auriaya_feral_defenderAI", "df/ddb/a19842.html", "df/ddb/a19842" ],
-    [ "npc_auriaya_feral_defender", "d0/d76/a19838.html#ae1afc396a1d9e6c9c2042ee0f58fb270", null ],
-    [ "GetAI", "d0/d76/a19838.html#abec35e280e42154af82f3e7e4fcec48d", null ]
+    [ "instance_halls_of_stone_InstanceMapScript", "df/ddb/a19842.html", "df/ddb/a19842" ],
+    [ "instance_halls_of_stone", "d0/d76/a19838.html#ad0237cfaf2e48036f45181fd7746df2b", null ],
+    [ "GetInstanceScript", "d0/d76/a19838.html#a784906c7710a216016101cf7a6a915f3", null ]
 ];

@@ -1,8 +1,10 @@
 var a15058 =
 [
-    [ "npc_obsidian_destroyer", "d4/dba/a15058.html#abd8b1614a9da9fbe9c9898246b0822b8", null ],
-    [ "JustDied", "d4/dba/a15058.html#adc54ac02383f5e5bf6af980f5ba301e8", null ],
-    [ "JustEngagedWith", "d4/dba/a15058.html#aaf95dd2c92a5d1745311e4162aee8dbc", null ],
-    [ "Reset", "d4/dba/a15058.html#a08c6b9ec0e2f4207d48f95eedf2c26ab", null ],
-    [ "UpdateAI", "d4/dba/a15058.html#a79ba48d421a636f99ea65c0e34d084e1", null ]
+    [ "CurrId", "d4/dba/a15058.html#a126d1c0e7d475a07acd91de471cb7cab", null ],
+    [ "DestId", "d4/dba/a15058.html#a7b12c520ee50ab29e5047a1c71b22729", null ],
+    [ "o", "d4/dba/a15058.html#a94c284d63e66765c4d484c8edea8fdb8", null ],
+    [ "spellId", "d4/dba/a15058.html#a7240ecd6f50a6db0e2be4eb4e55b3a48", null ],
+    [ "x", "d4/dba/a15058.html#a41c7bdb057d984f552a41835651d84f5", null ],
+    [ "y", "d4/dba/a15058.html#abe083129d7a4e514e97eeae7cff40af5", null ],
+    [ "z", "d4/dba/a15058.html#ac49d886d09e2ebf8ccf8abd59a9649ec", null ]
 ];

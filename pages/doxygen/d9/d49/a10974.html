@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: AccountInfoQueryHolderPerRealm Class Reference</title>
+<title>AzerothCore: WorldPackets::CompactArray&lt; T &gt; Class Template Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,104 +105,65 @@ $(document).ready(function(){initNavTree('d9/d49/a10974.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#pub-types">Public Types</a> &#124;
 <a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="../../df/d91/a10971.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">AccountInfoQueryHolderPerRealm Class Reference</div></div>
+  <div class="headertitle"><div class="title">WorldPackets::CompactArray&lt; T &gt; Class Template Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="dynheader">
-Inheritance diagram for AccountInfoQueryHolderPerRealm:</div>
-<div class="dyncontent">
- <div class="center">
-  <img src="../../d9/d49/a10974.png" usemap="#AccountInfoQueryHolderPerRealm_map" alt=""/>
-  <map id="AccountInfoQueryHolderPerRealm_map" name="AccountInfoQueryHolderPerRealm_map">
-<area href="../../db/d63/a05686.html" alt="SQLQueryHolder&lt; T &gt;" shape="rect" coords="0,56,309,80"/>
-<area href="../../d5/dcd/a05834.html" alt="SQLQueryHolderBase" shape="rect" coords="0,0,309,24"/>
-  </map>
-</div></div>
+
+<p><code>#include &quot;<a class="el" href="../../">PacketUtilities.h</a>&quot;</code></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-types" name="pub-types"></a>
-Public Types</h2></td></tr>
-<tr class="memitem:ad26ba17cd5eb1dddd4a86340d0f94276"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom">{ <br />
-&#160;&#160;<a class="el" href="../../d9/d49/a10974.html#ad26ba17cd5eb1dddd4a86340d0f94276ab58e55eac4a420a0c3e3c2782dae65d6">GLOBAL_ACCOUNT_DATA</a> = 0
-, <br />
-&#160;&#160;<a class="el" href="../../d9/d49/a10974.html#ad26ba17cd5eb1dddd4a86340d0f94276a2faeed0c573ad781d2bd33c5828532a1">TUTORIALS</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d9/d49/a10974.html#ad26ba17cd5eb1dddd4a86340d0f94276a2a729de91a5db74171ade3057dc08314">MAX_QUERIES</a>
-<br />
- }</td></tr>
-<tr class="separator:ad26ba17cd5eb1dddd4a86340d0f94276"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a9d821669804cd04cf121e141d94ead36"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d49/a10974.html#a9d821669804cd04cf121e141d94ead36">AccountInfoQueryHolderPerRealm</a> ()</td></tr>
-<tr class="separator:a9d821669804cd04cf121e141d94ead36"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9d4e4de9a038697f61e6350f5f59713b"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d49/a10974.html#a9d4e4de9a038697f61e6350f5f59713b">Initialize</a> (<a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> accountId)</td></tr>
-<tr class="separator:a9d4e4de9a038697f61e6350f5f59713b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="inherit_header pub_methods_a05686"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a05686')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../db/d63/a05686.html">SQLQueryHolder&lt; T &gt;</a></td></tr>
-<tr class="memitem:a1cbb8be93d83bc3ed6295c6b13f6ce69 inherit pub_methods_a05686"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d63/a05686.html#a1cbb8be93d83bc3ed6295c6b13f6ce69">SetPreparedQuery</a> (std::size_t index, <a class="el" href="../../d6/de4/a05678.html">PreparedStatement</a>&lt; T &gt; *stmt)</td></tr>
-<tr class="separator:a1cbb8be93d83bc3ed6295c6b13f6ce69 inherit pub_methods_a05686"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="inherit_header pub_methods_a05834"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a05834')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../d5/dcd/a05834.html">SQLQueryHolderBase</a></td></tr>
-<tr class="memitem:a05946ea4a26798e5567f632cf9f66eff inherit pub_methods_a05834"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/dcd/a05834.html#a05946ea4a26798e5567f632cf9f66eff">SQLQueryHolderBase</a> ()=default</td></tr>
-<tr class="separator:a05946ea4a26798e5567f632cf9f66eff inherit pub_methods_a05834"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa9e2407821d0c40a728337f174571fc5 inherit pub_methods_a05834"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/dcd/a05834.html#aa9e2407821d0c40a728337f174571fc5">~SQLQueryHolderBase</a> ()</td></tr>
-<tr class="separator:aa9e2407821d0c40a728337f174571fc5 inherit pub_methods_a05834"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9e62f0171bd39a13348d097ee99cb17c inherit pub_methods_a05834"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/dcd/a05834.html#a9e62f0171bd39a13348d097ee99cb17c">SetSize</a> (std::size_t size)</td></tr>
-<tr class="separator:a9e62f0171bd39a13348d097ee99cb17c inherit pub_methods_a05834"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a402f961642eaa239ff8726ad66e78640 inherit pub_methods_a05834"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d65/a04631.html#ac6110b8d867b5f84f677555d07037acb">PreparedQueryResult</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/dcd/a05834.html#a402f961642eaa239ff8726ad66e78640">GetPreparedResult</a> (std::size_t index) const</td></tr>
-<tr class="separator:a402f961642eaa239ff8726ad66e78640 inherit pub_methods_a05834"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a34bcdec6591ce40a58667197f240fbe0 inherit pub_methods_a05834"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/dcd/a05834.html#a34bcdec6591ce40a58667197f240fbe0">SetPreparedResult</a> (std::size_t index, <a class="el" href="../../d3/d9f/a05854.html">PreparedResultSet</a> *result)</td></tr>
-<tr class="separator:a34bcdec6591ce40a58667197f240fbe0 inherit pub_methods_a05834"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a167096f1966862ec92556b6f5d3aa3b8"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d49/a10974.html#a167096f1966862ec92556b6f5d3aa3b8">CompactArray</a> ()</td></tr>
+<tr class="separator:a167096f1966862ec92556b6f5d3aa3b8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a70adda7a73d5c54b1d29668f23778c9f"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d49/a10974.html#a70adda7a73d5c54b1d29668f23778c9f">CompactArray</a> (<a class="el" href="../../d9/d49/a10974.html">CompactArray</a> const &amp;right)</td></tr>
+<tr class="separator:a70adda7a73d5c54b1d29668f23778c9f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a757f7d94e52fa821dc1fdb03877574f3"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d49/a10974.html#a757f7d94e52fa821dc1fdb03877574f3">CompactArray</a> (<a class="el" href="../../d9/d49/a10974.html">CompactArray</a> &amp;&amp;right)</td></tr>
+<tr class="separator:a757f7d94e52fa821dc1fdb03877574f3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a14d76ffa09769e341dea769424ac586c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d49/a10974.html">CompactArray</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d49/a10974.html#a14d76ffa09769e341dea769424ac586c">operator=</a> (<a class="el" href="../../d9/d49/a10974.html">CompactArray</a> const &amp;right)</td></tr>
+<tr class="separator:a14d76ffa09769e341dea769424ac586c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a75f0995b55269fc2d0bca87a0294fcb3"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d49/a10974.html">CompactArray</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d49/a10974.html#a75f0995b55269fc2d0bca87a0294fcb3">operator=</a> (<a class="el" href="../../d9/d49/a10974.html">CompactArray</a> &amp;&amp;right)</td></tr>
+<tr class="separator:a75f0995b55269fc2d0bca87a0294fcb3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3a421d4ee2e7459cbc945c6c70c1993f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d49/a10974.html#a3a421d4ee2e7459cbc945c6c70c1993f">GetMask</a> () const</td></tr>
+<tr class="separator:a3a421d4ee2e7459cbc945c6c70c1993f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af146d3e880ec34358ff6a07247f741d8"><td class="memItemLeft" align="right" valign="top">T const &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d49/a10974.html#af146d3e880ec34358ff6a07247f741d8">operator[]</a> (std::size_t index) const</td></tr>
+<tr class="separator:af146d3e880ec34358ff6a07247f741d8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a656c3568cd73d10dd6f9cda1809ff509"><td class="memItemLeft" align="right" valign="top">std::size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d49/a10974.html#a656c3568cd73d10dd6f9cda1809ff509">GetSize</a> () const</td></tr>
+<tr class="separator:a656c3568cd73d10dd6f9cda1809ff509"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a313aedf5c623505860a227149cb64b5a"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d49/a10974.html#a313aedf5c623505860a227149cb64b5a">Insert</a> (std::size_t index, T const &amp;value)</td></tr>
+<tr class="separator:a313aedf5c623505860a227149cb64b5a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae213ad313a4b0688763e882a2010c494"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d49/a10974.html#ae213ad313a4b0688763e882a2010c494">Clear</a> ()</td></tr>
+<tr class="separator:ae213ad313a4b0688763e882a2010c494"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a24c7c9794991ec3bf4ecefa93f8ee23e"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d49/a10974.html#a24c7c9794991ec3bf4ecefa93f8ee23e">operator==</a> (<a class="el" href="../../d9/d49/a10974.html">CompactArray</a> const &amp;r) const</td></tr>
+<tr class="separator:a24c7c9794991ec3bf4ecefa93f8ee23e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adaade1e09d979a6e98b90253f442a9e5"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d49/a10974.html#adaade1e09d979a6e98b90253f442a9e5">operator!=</a> (<a class="el" href="../../d9/d49/a10974.html">CompactArray</a> const &amp;r) const</td></tr>
+<tr class="separator:adaade1e09d979a6e98b90253f442a9e5"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="inherited" name="inherited"></a>
-Additional Inherited Members</h2></td></tr>
-<tr class="inherit_header pro_methods_a05834"><td colspan="2" onclick="javascript:toggleInherit('pro_methods_a05834')"><img src="../../closed.png" alt="-"/>&#160;Protected Member Functions inherited from <a class="el" href="../../d5/dcd/a05834.html">SQLQueryHolderBase</a></td></tr>
-<tr class="memitem:a6657bb34fab696a26af9751ded41f1d7 inherit pro_methods_a05834"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/dcd/a05834.html#a6657bb34fab696a26af9751ded41f1d7">SetPreparedQueryImpl</a> (std::size_t index, <a class="el" href="../../dc/d5c/a05810.html">PreparedStatementBase</a> *stmt)</td></tr>
-<tr class="separator:a6657bb34fab696a26af9751ded41f1d7 inherit pro_methods_a05834"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
+Private Attributes</h2></td></tr>
+<tr class="memitem:a85ef9a03e561e385f41de88e6e0f98c0"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d49/a10974.html#a85ef9a03e561e385f41de88e6e0f98c0">_mask</a></td></tr>
+<tr class="separator:a85ef9a03e561e385f41de88e6e0f98c0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1e0ff07a4905517dc6e92a3615bc36d0"><td class="memItemLeft" align="right" valign="top">std::vector&lt; T &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d49/a10974.html#a1e0ff07a4905517dc6e92a3615bc36d0">_contents</a></td></tr>
+<tr class="separator:a1e0ff07a4905517dc6e92a3615bc36d0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Member Enumeration Documentation</h2>
-<a id="ad26ba17cd5eb1dddd4a86340d0f94276" name="ad26ba17cd5eb1dddd4a86340d0f94276"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad26ba17cd5eb1dddd4a86340d0f94276">&#9670;&#160;</a></span>anonymous enum</h2>
+<div class="textblock"><div class="compoundTemplParams">template&lt;typename T&gt;<br />
+class WorldPackets::CompactArray&lt; T &gt;</div></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="a167096f1966862ec92556b6f5d3aa3b8" name="a167096f1966862ec92556b6f5d3aa3b8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a167096f1966862ec92556b6f5d3aa3b8">&#9670;&#160;</a></span>CompactArray() <span class="overload">[1/3]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">anonymous enum</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="ad26ba17cd5eb1dddd4a86340d0f94276ab58e55eac4a420a0c3e3c2782dae65d6" name="ad26ba17cd5eb1dddd4a86340d0f94276ab58e55eac4a420a0c3e3c2782dae65d6"></a>GLOBAL_ACCOUNT_DATA&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ad26ba17cd5eb1dddd4a86340d0f94276a2faeed0c573ad781d2bd33c5828532a1" name="ad26ba17cd5eb1dddd4a86340d0f94276a2faeed0c573ad781d2bd33c5828532a1"></a>TUTORIALS&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ad26ba17cd5eb1dddd4a86340d0f94276a2a729de91a5db74171ade3057dc08314" name="ad26ba17cd5eb1dddd4a86340d0f94276a2a729de91a5db74171ade3057dc08314"></a>MAX_QUERIES&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno"> 1448</span>    {</div>
-<div class="line"><span class="lineno"> 1449</span>        <a class="code hl_enumvalue" href="../../d9/d49/a10974.html#ad26ba17cd5eb1dddd4a86340d0f94276ab58e55eac4a420a0c3e3c2782dae65d6">GLOBAL_ACCOUNT_DATA</a> = 0,</div>
-<div class="line"><span class="lineno"> 1450</span>        <a class="code hl_enumvalue" href="../../d9/d49/a10974.html#ad26ba17cd5eb1dddd4a86340d0f94276a2faeed0c573ad781d2bd33c5828532a1">TUTORIALS</a>,</div>
-<div class="line"><span class="lineno"> 1451</span> </div>
-<div class="line"><span class="lineno"> 1452</span>        <a class="code hl_enumvalue" href="../../d9/d49/a10974.html#ad26ba17cd5eb1dddd4a86340d0f94276a2a729de91a5db74171ade3057dc08314">MAX_QUERIES</a></div>
-<div class="line"><span class="lineno"> 1453</span>    };</div>
-<div class="ttc" id="aa10974_html_ad26ba17cd5eb1dddd4a86340d0f94276a2a729de91a5db74171ade3057dc08314"><div class="ttname"><a href="../../d9/d49/a10974.html#ad26ba17cd5eb1dddd4a86340d0f94276a2a729de91a5db74171ade3057dc08314">AccountInfoQueryHolderPerRealm::MAX_QUERIES</a></div><div class="ttdeci">@ MAX_QUERIES</div><div class="ttdef"><b>Definition:</b> WorldSession.cpp:1452</div></div>
-<div class="ttc" id="aa10974_html_ad26ba17cd5eb1dddd4a86340d0f94276a2faeed0c573ad781d2bd33c5828532a1"><div class="ttname"><a href="../../d9/d49/a10974.html#ad26ba17cd5eb1dddd4a86340d0f94276a2faeed0c573ad781d2bd33c5828532a1">AccountInfoQueryHolderPerRealm::TUTORIALS</a></div><div class="ttdeci">@ TUTORIALS</div><div class="ttdef"><b>Definition:</b> WorldSession.cpp:1450</div></div>
-<div class="ttc" id="aa10974_html_ad26ba17cd5eb1dddd4a86340d0f94276ab58e55eac4a420a0c3e3c2782dae65d6"><div class="ttname"><a href="../../d9/d49/a10974.html#ad26ba17cd5eb1dddd4a86340d0f94276ab58e55eac4a420a0c3e3c2782dae65d6">AccountInfoQueryHolderPerRealm::GLOBAL_ACCOUNT_DATA</a></div><div class="ttdeci">@ GLOBAL_ACCOUNT_DATA</div><div class="ttdef"><b>Definition:</b> WorldSession.cpp:1449</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a9d821669804cd04cf121e141d94ead36" name="a9d821669804cd04cf121e141d94ead36"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9d821669804cd04cf121e141d94ead36">&#9670;&#160;</a></span>AccountInfoQueryHolderPerRealm()</h2>
-
-<div class="memitem">
-<div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">AccountInfoQueryHolderPerRealm::AccountInfoQueryHolderPerRealm </td>
+          <td class="memname"><a class="el" href="../../d9/d49/a10974.html">WorldPackets::CompactArray</a>&lt; T &gt;::CompactArray </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -214,26 +175,27 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1455</span>{ <a class="code hl_function" href="../../d5/dcd/a05834.html#a9e62f0171bd39a13348d097ee99cb17c">SetSize</a>(<a class="code hl_enumvalue" href="../../d9/d49/a10974.html#ad26ba17cd5eb1dddd4a86340d0f94276a2a729de91a5db74171ade3057dc08314">MAX_QUERIES</a>); }</div>
-<div class="ttc" id="aa05834_html_a9e62f0171bd39a13348d097ee99cb17c"><div class="ttname"><a href="../../d5/dcd/a05834.html#a9e62f0171bd39a13348d097ee99cb17c">SQLQueryHolderBase::SetSize</a></div><div class="ttdeci">void SetSize(std::size_t size)</div><div class="ttdef"><b>Definition:</b> QueryHolder.cpp:69</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  197</span>: <a class="code hl_variable" href="../../d9/d49/a10974.html#a85ef9a03e561e385f41de88e6e0f98c0">_mask</a>(0) { }</div>
+<div class="ttc" id="aa10974_html_a85ef9a03e561e385f41de88e6e0f98c0"><div class="ttname"><a href="../../d9/d49/a10974.html#a85ef9a03e561e385f41de88e6e0f98c0">WorldPackets::CompactArray::_mask</a></div><div class="ttdeci">uint32 _mask</div><div class="ttdef"><b>Definition:</b> PacketUtilities.h:260</div></div>
 </div><!-- fragment -->
 </div>
 </div>
-<h2 class="groupheader">Member Function Documentation</h2>
-<a id="a9d4e4de9a038697f61e6350f5f59713b" name="a9d4e4de9a038697f61e6350f5f59713b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9d4e4de9a038697f61e6350f5f59713b">&#9670;&#160;</a></span>Initialize()</h2>
+<a id="a70adda7a73d5c54b1d29668f23778c9f" name="a70adda7a73d5c54b1d29668f23778c9f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a70adda7a73d5c54b1d29668f23778c9f">&#9670;&#160;</a></span>CompactArray() <span class="overload">[2/3]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">bool AccountInfoQueryHolderPerRealm::Initialize </td>
+          <td class="memname"><a class="el" href="../../d9/d49/a10974.html">WorldPackets::CompactArray</a>&lt; T &gt;::CompactArray </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>accountId</em></td><td>)</td>
+          <td class="paramtype"><a class="el" href="../../d9/d49/a10974.html">CompactArray</a>&lt; T &gt; const &amp;&#160;</td>
+          <td class="paramname"><em>right</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
@@ -243,27 +205,415 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1458</span>    {</div>
-<div class="line"><span class="lineno"> 1459</span>        <span class="keywordtype">bool</span> ok = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno"> 1460</span> </div>
-<div class="line"><span class="lineno"> 1461</span>        <a class="code hl_class" href="../../d6/de4/a05678.html">CharacterDatabasePreparedStatement</a>* stmt = <a class="code hl_variable" href="../../d3/d56/a04553.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.GetPreparedStatement(<a class="code hl_enumvalue" href="../../db/d3f/a04565.html#a76116b4fa282d8e35bf8f8e940b5cba7a79a05764e3d67ea6d1b0788f4cb8f30a">CHAR_SEL_ACCOUNT_DATA</a>);</div>
-<div class="line"><span class="lineno"> 1462</span>        stmt-&gt;<a class="code hl_function" href="../../dc/d5c/a05810.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(0, accountId);</div>
-<div class="line"><span class="lineno"> 1463</span>        ok = <a class="code hl_function" href="../../db/d63/a05686.html#a1cbb8be93d83bc3ed6295c6b13f6ce69">SetPreparedQuery</a>(<a class="code hl_enumvalue" href="../../d9/d49/a10974.html#ad26ba17cd5eb1dddd4a86340d0f94276ab58e55eac4a420a0c3e3c2782dae65d6">GLOBAL_ACCOUNT_DATA</a>, stmt) &amp;&amp; ok;</div>
-<div class="line"><span class="lineno"> 1464</span> </div>
-<div class="line"><span class="lineno"> 1465</span>        stmt = <a class="code hl_variable" href="../../d3/d56/a04553.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.GetPreparedStatement(<a class="code hl_enumvalue" href="../../db/d3f/a04565.html#a76116b4fa282d8e35bf8f8e940b5cba7a5a2600a437c6ca43cda77708d276ac23">CHAR_SEL_TUTORIALS</a>);</div>
-<div class="line"><span class="lineno"> 1466</span>        stmt-&gt;<a class="code hl_function" href="../../dc/d5c/a05810.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(0, accountId);</div>
-<div class="line"><span class="lineno"> 1467</span>        ok = <a class="code hl_function" href="../../db/d63/a05686.html#a1cbb8be93d83bc3ed6295c6b13f6ce69">SetPreparedQuery</a>(<a class="code hl_enumvalue" href="../../d9/d49/a10974.html#ad26ba17cd5eb1dddd4a86340d0f94276a2faeed0c573ad781d2bd33c5828532a1">TUTORIALS</a>, stmt) &amp;&amp; ok;</div>
-<div class="line"><span class="lineno"> 1468</span> </div>
-<div class="line"><span class="lineno"> 1469</span>        <span class="keywordflow">return</span> ok;</div>
-<div class="line"><span class="lineno"> 1470</span>    }</div>
-<div class="ttc" id="aa04553_html_a7e7534bc66d79434bd280b77cb124eec"><div class="ttname"><a href="../../d3/d56/a04553.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a></div><div class="ttdeci">DatabaseWorkerPool&lt; CharacterDatabaseConnection &gt; CharacterDatabase</div><div class="ttdoc">Accessor to the character database.</div><div class="ttdef"><b>Definition:</b> DatabaseEnv.cpp:21</div></div>
-<div class="ttc" id="aa04565_html_a76116b4fa282d8e35bf8f8e940b5cba7a5a2600a437c6ca43cda77708d276ac23"><div class="ttname"><a href="../../db/d3f/a04565.html#a76116b4fa282d8e35bf8f8e940b5cba7a5a2600a437c6ca43cda77708d276ac23">CHAR_SEL_TUTORIALS</a></div><div class="ttdeci">@ CHAR_SEL_TUTORIALS</div><div class="ttdef"><b>Definition:</b> CharacterDatabase.h:205</div></div>
-<div class="ttc" id="aa04565_html_a76116b4fa282d8e35bf8f8e940b5cba7a79a05764e3d67ea6d1b0788f4cb8f30a"><div class="ttname"><a href="../../db/d3f/a04565.html#a76116b4fa282d8e35bf8f8e940b5cba7a79a05764e3d67ea6d1b0788f4cb8f30a">CHAR_SEL_ACCOUNT_DATA</a></div><div class="ttdeci">@ CHAR_SEL_ACCOUNT_DATA</div><div class="ttdef"><b>Definition:</b> CharacterDatabase.h:198</div></div>
-<div class="ttc" id="aa05678_html"><div class="ttname"><a href="../../d6/de4/a05678.html">PreparedStatement</a></div><div class="ttdef"><b>Definition:</b> PreparedStatement.h:157</div></div>
-<div class="ttc" id="aa05686_html_a1cbb8be93d83bc3ed6295c6b13f6ce69"><div class="ttname"><a href="../../db/d63/a05686.html#a1cbb8be93d83bc3ed6295c6b13f6ce69">SQLQueryHolder::SetPreparedQuery</a></div><div class="ttdeci">bool SetPreparedQuery(std::size_t index, PreparedStatement&lt; T &gt; *stmt)</div><div class="ttdef"><b>Definition:</b> QueryHolder.h:46</div></div>
-<div class="ttc" id="aa05810_html_a52fc2e65042c1db51f0923725a0f0ed0"><div class="ttname"><a href="../../dc/d5c/a05810.html#a52fc2e65042c1db51f0923725a0f0ed0">PreparedStatementBase::SetData</a></div><div class="ttdeci">Acore::Types::is_default&lt; T &gt; SetData(const uint8 index, T value)</div><div class="ttdef"><b>Definition:</b> PreparedStatement.h:77</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  200</span>            : <a class="code hl_variable" href="../../d9/d49/a10974.html#a85ef9a03e561e385f41de88e6e0f98c0">_mask</a>(right._mask), <a class="code hl_variable" href="../../d9/d49/a10974.html#a1e0ff07a4905517dc6e92a3615bc36d0">_contents</a>(right._contents) { }</div>
+<div class="ttc" id="aa10974_html_a1e0ff07a4905517dc6e92a3615bc36d0"><div class="ttname"><a href="../../d9/d49/a10974.html#a1e0ff07a4905517dc6e92a3615bc36d0">WorldPackets::CompactArray::_contents</a></div><div class="ttdeci">std::vector&lt; T &gt; _contents</div><div class="ttdef"><b>Definition:</b> PacketUtilities.h:261</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00198">CHAR_SEL_ACCOUNT_DATA</a>, <a class="el" href="../../#l00205">CHAR_SEL_TUTORIALS</a>, <a class="el" href="../../#l00021">CharacterDatabase</a>, and <a class="el" href="../../#l00077">PreparedStatementBase::SetData()</a>.</p>
+</div>
+</div>
+<a id="a757f7d94e52fa821dc1fdb03877574f3" name="a757f7d94e52fa821dc1fdb03877574f3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a757f7d94e52fa821dc1fdb03877574f3">&#9670;&#160;</a></span>CompactArray() <span class="overload">[3/3]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d9/d49/a10974.html">WorldPackets::CompactArray</a>&lt; T &gt;::CompactArray </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d9/d49/a10974.html">CompactArray</a>&lt; T &gt; &amp;&amp;&#160;</td>
+          <td class="paramname"><em>right</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  203</span>            : <a class="code hl_variable" href="../../d9/d49/a10974.html#a85ef9a03e561e385f41de88e6e0f98c0">_mask</a>(right._mask), <a class="code hl_variable" href="../../d9/d49/a10974.html#a1e0ff07a4905517dc6e92a3615bc36d0">_contents</a>(std::move(right._contents))</div>
+<div class="line"><span class="lineno">  204</span>        {</div>
+<div class="line"><span class="lineno">  205</span>            right._mask = 0;</div>
+<div class="line"><span class="lineno">  206</span>        }</div>
+</div><!-- fragment -->
+</div>
+</div>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="ae213ad313a4b0688763e882a2010c494" name="ae213ad313a4b0688763e882a2010c494"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae213ad313a4b0688763e882a2010c494">&#9670;&#160;</a></span>Clear()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void <a class="el" href="../../d9/d49/a10974.html">WorldPackets::CompactArray</a>&lt; T &gt;::Clear </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  242</span>        {</div>
+<div class="line"><span class="lineno">  243</span>            <a class="code hl_variable" href="../../d9/d49/a10974.html#a85ef9a03e561e385f41de88e6e0f98c0">_mask</a> = 0;</div>
+<div class="line"><span class="lineno">  244</span>            <a class="code hl_variable" href="../../d9/d49/a10974.html#a1e0ff07a4905517dc6e92a3615bc36d0">_contents</a>.clear();</div>
+<div class="line"><span class="lineno">  245</span>        }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00261">WorldPackets::CompactArray&lt; T &gt;::_contents</a>, and <a class="el" href="../../#l00260">WorldPackets::CompactArray&lt; T &gt;::_mask</a>.</p>
+
+</div>
+</div>
+<a id="a3a421d4ee2e7459cbc945c6c70c1993f" name="a3a421d4ee2e7459cbc945c6c70c1993f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3a421d4ee2e7459cbc945c6c70c1993f">&#9670;&#160;</a></span>GetMask()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> <a class="el" href="../../d9/d49/a10974.html">WorldPackets::CompactArray</a>&lt; T &gt;::GetMask </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  223</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d9/d49/a10974.html#a85ef9a03e561e385f41de88e6e0f98c0">_mask</a>; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00260">WorldPackets::CompactArray&lt; T &gt;::_mask</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00265">WorldPackets::operator&lt;&lt;()</a>.</p>
+
+</div>
+</div>
+<a id="a656c3568cd73d10dd6f9cda1809ff509" name="a656c3568cd73d10dd6f9cda1809ff509"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a656c3568cd73d10dd6f9cda1809ff509">&#9670;&#160;</a></span>GetSize()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::size_t <a class="el" href="../../d9/d49/a10974.html">WorldPackets::CompactArray</a>&lt; T &gt;::GetSize </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  225</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d9/d49/a10974.html#a1e0ff07a4905517dc6e92a3615bc36d0">_contents</a>.size(); }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00261">WorldPackets::CompactArray&lt; T &gt;::_contents</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00265">WorldPackets::operator&lt;&lt;()</a>.</p>
+
+</div>
+</div>
+<a id="a313aedf5c623505860a227149cb64b5a" name="a313aedf5c623505860a227149cb64b5a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a313aedf5c623505860a227149cb64b5a">&#9670;&#160;</a></span>Insert()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void <a class="el" href="../../d9/d49/a10974.html">WorldPackets::CompactArray</a>&lt; T &gt;::Insert </td>
+          <td>(</td>
+          <td class="paramtype">std::size_t&#160;</td>
+          <td class="paramname"><em>index</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">T const &amp;&#160;</td>
+          <td class="paramname"><em>value</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  228</span>        {</div>
+<div class="line"><span class="lineno">  229</span>            <a class="code hl_function" href="../../dd/dca/a04847.html#afb4909c8c4c13b14c8eceda2e9b4246d">CheckCompactArrayMaskOverflow</a>(index, <span class="keyword">sizeof</span>(<a class="code hl_variable" href="../../d9/d49/a10974.html#a85ef9a03e561e385f41de88e6e0f98c0">_mask</a>) * 8);</div>
+<div class="line"><span class="lineno">  230</span> </div>
+<div class="line"><span class="lineno">  231</span>            <a class="code hl_variable" href="../../d9/d49/a10974.html#a85ef9a03e561e385f41de88e6e0f98c0">_mask</a> |= 1 &lt;&lt; index;</div>
+<div class="line"><span class="lineno">  232</span> </div>
+<div class="line"><span class="lineno">  233</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d9/d49/a10974.html#a1e0ff07a4905517dc6e92a3615bc36d0">_contents</a>.size() &lt;= index)</div>
+<div class="line"><span class="lineno">  234</span>            {</div>
+<div class="line"><span class="lineno">  235</span>                <a class="code hl_variable" href="../../d9/d49/a10974.html#a1e0ff07a4905517dc6e92a3615bc36d0">_contents</a>.resize(index + 1);</div>
+<div class="line"><span class="lineno">  236</span>            }</div>
+<div class="line"><span class="lineno">  237</span> </div>
+<div class="line"><span class="lineno">  238</span>            <a class="code hl_variable" href="../../d9/d49/a10974.html#a1e0ff07a4905517dc6e92a3615bc36d0">_contents</a>[index] = value;</div>
+<div class="line"><span class="lineno">  239</span>        }</div>
+<div class="ttc" id="aa04847_html_afb4909c8c4c13b14c8eceda2e9b4246d"><div class="ttname"><a href="../../dd/dca/a04847.html#afb4909c8c4c13b14c8eceda2e9b4246d">WorldPackets::CheckCompactArrayMaskOverflow</a></div><div class="ttdeci">void CheckCompactArrayMaskOverflow(std::size_t index, std::size_t limit)</div><div class="ttdef"><b>Definition:</b> PacketUtilities.cpp:67</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00261">WorldPackets::CompactArray&lt; T &gt;::_contents</a>, <a class="el" href="../../#l00260">WorldPackets::CompactArray&lt; T &gt;::_mask</a>, and <a class="el" href="../../#l00067">WorldPackets::CheckCompactArrayMaskOverflow()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00282">WorldPackets::operator&gt;&gt;()</a>.</p>
+
+</div>
+</div>
+<a id="adaade1e09d979a6e98b90253f442a9e5" name="adaade1e09d979a6e98b90253f442a9e5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adaade1e09d979a6e98b90253f442a9e5">&#9670;&#160;</a></span>operator!=()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool <a class="el" href="../../d9/d49/a10974.html">WorldPackets::CompactArray</a>&lt; T &gt;::operator!= </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d9/d49/a10974.html">CompactArray</a>&lt; T &gt; const &amp;&#160;</td>
+          <td class="paramname"><em>r</em></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  257</span>{ <span class="keywordflow">return</span> !(*<span class="keyword">this</span> == r); }</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a75f0995b55269fc2d0bca87a0294fcb3" name="a75f0995b55269fc2d0bca87a0294fcb3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a75f0995b55269fc2d0bca87a0294fcb3">&#9670;&#160;</a></span>operator=() <span class="overload">[1/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d9/d49/a10974.html">CompactArray</a> &amp; <a class="el" href="../../d9/d49/a10974.html">WorldPackets::CompactArray</a>&lt; T &gt;::operator= </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d9/d49/a10974.html">CompactArray</a>&lt; T &gt; &amp;&amp;&#160;</td>
+          <td class="paramname"><em>right</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  216</span>        {</div>
+<div class="line"><span class="lineno">  217</span>            <a class="code hl_variable" href="../../d9/d49/a10974.html#a85ef9a03e561e385f41de88e6e0f98c0">_mask</a> = right._mask;</div>
+<div class="line"><span class="lineno">  218</span>            right._mask = 0;</div>
+<div class="line"><span class="lineno">  219</span>            <a class="code hl_variable" href="../../d9/d49/a10974.html#a1e0ff07a4905517dc6e92a3615bc36d0">_contents</a> = std::move(right._contents);</div>
+<div class="line"><span class="lineno">  220</span>            <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
+<div class="line"><span class="lineno">  221</span>        }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00261">WorldPackets::CompactArray&lt; T &gt;::_contents</a>, and <a class="el" href="../../#l00260">WorldPackets::CompactArray&lt; T &gt;::_mask</a>.</p>
+
+</div>
+</div>
+<a id="a14d76ffa09769e341dea769424ac586c" name="a14d76ffa09769e341dea769424ac586c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a14d76ffa09769e341dea769424ac586c">&#9670;&#160;</a></span>operator=() <span class="overload">[2/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d9/d49/a10974.html">CompactArray</a> &amp; <a class="el" href="../../d9/d49/a10974.html">WorldPackets::CompactArray</a>&lt; T &gt;::operator= </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d9/d49/a10974.html">CompactArray</a>&lt; T &gt; const &amp;&#160;</td>
+          <td class="paramname"><em>right</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  209</span>        {</div>
+<div class="line"><span class="lineno">  210</span>            <a class="code hl_variable" href="../../d9/d49/a10974.html#a85ef9a03e561e385f41de88e6e0f98c0">_mask</a> = right._mask;</div>
+<div class="line"><span class="lineno">  211</span>            <a class="code hl_variable" href="../../d9/d49/a10974.html#a1e0ff07a4905517dc6e92a3615bc36d0">_contents</a> = right._contents;</div>
+<div class="line"><span class="lineno">  212</span>            <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
+<div class="line"><span class="lineno">  213</span>        }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00261">WorldPackets::CompactArray&lt; T &gt;::_contents</a>, and <a class="el" href="../../#l00260">WorldPackets::CompactArray&lt; T &gt;::_mask</a>.</p>
+
+</div>
+</div>
+<a id="a24c7c9794991ec3bf4ecefa93f8ee23e" name="a24c7c9794991ec3bf4ecefa93f8ee23e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a24c7c9794991ec3bf4ecefa93f8ee23e">&#9670;&#160;</a></span>operator==()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool <a class="el" href="../../d9/d49/a10974.html">WorldPackets::CompactArray</a>&lt; T &gt;::operator== </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d9/d49/a10974.html">CompactArray</a>&lt; T &gt; const &amp;&#160;</td>
+          <td class="paramname"><em>r</em></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  248</span>        {</div>
+<div class="line"><span class="lineno">  249</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d9/d49/a10974.html#a85ef9a03e561e385f41de88e6e0f98c0">_mask</a> != r._mask)</div>
+<div class="line"><span class="lineno">  250</span>            {</div>
+<div class="line"><span class="lineno">  251</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  252</span>            }</div>
+<div class="line"><span class="lineno">  253</span> </div>
+<div class="line"><span class="lineno">  254</span>            <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d9/d49/a10974.html#a1e0ff07a4905517dc6e92a3615bc36d0">_contents</a> == r._contents;</div>
+<div class="line"><span class="lineno">  255</span>        }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00261">WorldPackets::CompactArray&lt; T &gt;::_contents</a>, and <a class="el" href="../../#l00260">WorldPackets::CompactArray&lt; T &gt;::_mask</a>.</p>
+
+</div>
+</div>
+<a id="af146d3e880ec34358ff6a07247f741d8" name="af146d3e880ec34358ff6a07247f741d8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af146d3e880ec34358ff6a07247f741d8">&#9670;&#160;</a></span>operator[]()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">T const  &amp; <a class="el" href="../../d9/d49/a10974.html">WorldPackets::CompactArray</a>&lt; T &gt;::operator[] </td>
+          <td>(</td>
+          <td class="paramtype">std::size_t&#160;</td>
+          <td class="paramname"><em>index</em></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  224</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d9/d49/a10974.html#a1e0ff07a4905517dc6e92a3615bc36d0">_contents</a>.at(index); }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00261">WorldPackets::CompactArray&lt; T &gt;::_contents</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a id="a1e0ff07a4905517dc6e92a3615bc36d0" name="a1e0ff07a4905517dc6e92a3615bc36d0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1e0ff07a4905517dc6e92a3615bc36d0">&#9670;&#160;</a></span>_contents</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::vector&lt;T&gt; <a class="el" href="../../d9/d49/a10974.html">WorldPackets::CompactArray</a>&lt; T &gt;::_contents</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00241">WorldPackets::CompactArray&lt; T &gt;::Clear()</a>, <a class="el" href="../../#l00225">WorldPackets::CompactArray&lt; T &gt;::GetSize()</a>, <a class="el" href="../../#l00227">WorldPackets::CompactArray&lt; T &gt;::Insert()</a>, <a class="el" href="../../#l00208">WorldPackets::CompactArray&lt; T &gt;::operator=()</a>, <a class="el" href="../../#l00247">WorldPackets::CompactArray&lt; T &gt;::operator==()</a>, and <a class="el" href="../../#l00224">WorldPackets::CompactArray&lt; T &gt;::operator[]()</a>.</p>
+
+</div>
+</div>
+<a id="a85ef9a03e561e385f41de88e6e0f98c0" name="a85ef9a03e561e385f41de88e6e0f98c0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a85ef9a03e561e385f41de88e6e0f98c0">&#9670;&#160;</a></span>_mask</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> <a class="el" href="../../d9/d49/a10974.html">WorldPackets::CompactArray</a>&lt; T &gt;::_mask</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00241">WorldPackets::CompactArray&lt; T &gt;::Clear()</a>, <a class="el" href="../../#l00223">WorldPackets::CompactArray&lt; T &gt;::GetMask()</a>, <a class="el" href="../../#l00227">WorldPackets::CompactArray&lt; T &gt;::Insert()</a>, <a class="el" href="../../#l00208">WorldPackets::CompactArray&lt; T &gt;::operator=()</a>, and <a class="el" href="../../#l00247">WorldPackets::CompactArray&lt; T &gt;::operator==()</a>.</p>
 
 </div>
 </div>
@@ -272,8 +622,8 @@ Additional Inherited Members</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d9/d49/a10974.html">AccountInfoQueryHolderPerRealm</a></li>
-    <li class="footer">Generated on Mon Aug 4 2025 20:51:03 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dd/dca/a04847.html">WorldPackets</a></li><li class="navelem"><a class="el" href="../../d9/d49/a10974.html">CompactArray</a></li>
+    <li class="footer">Generated on Mon Sep 1 2025 20:44:48 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

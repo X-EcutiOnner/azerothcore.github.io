@@ -1,7 +1,10 @@
 var a13138 =
 [
-    [ "HandleScript", "d7/d5b/a13138.html#acbff60b24bd0239880378b48cb97b6a4", null ],
-    [ "PrepareSpellScript", "d7/d5b/a13138.html#a2f72b76ced4443a8eb1dfcf7bf6a4ac5", null ],
-    [ "Register", "d7/d5b/a13138.html#a132d35555f1d589caa65ecd3728976d5", null ],
-    [ "Validate", "d7/d5b/a13138.html#a503ce41357f8195837c9b14f2468fb5b", null ]
+    [ "npc_scarlet_courierAI", "d7/d5b/a13138.html#a83c5e32659d38a513790322e46dcc283", null ],
+    [ "JustEngagedWith", "d7/d5b/a13138.html#aa470197f0949a413c421bda8c7c09279", null ],
+    [ "MovementInform", "d7/d5b/a13138.html#add19812d92d62b602f96ffc5fb513d6c", null ],
+    [ "Reset", "d7/d5b/a13138.html#ab642188631b67ae5ff5fd312eaf37ff0", null ],
+    [ "UpdateAI", "d7/d5b/a13138.html#ac37287a77e37785b606c742ff8d6eeeb", null ],
+    [ "uiStage", "d7/d5b/a13138.html#a2f920922f8c6f1a878d0e4978e081257", null ],
+    [ "uiStage_timer", "d7/d5b/a13138.html#a8ee22a276535a3a9c2f12a62e984d55b", null ]
 ];

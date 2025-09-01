@@ -1,9 +1,8 @@
 var a22382 =
 [
-    [ "HandleFinish", "db/d65/a22382.html#a4511ae5227c3e4e931b04f2ba0d4a62e", null ],
-    [ "Load", "db/d65/a22382.html#a6b6f6b4ab8f345199d8d2189f07df7f2", null ],
-    [ "PrepareSpellScript", "db/d65/a22382.html#a8326b3f9f78aab65225e81d274cc37df", null ],
-    [ "Register", "db/d65/a22382.html#a749858f56e15a0bb6074d15ba166625d", null ],
-    [ "Validate", "db/d65/a22382.html#a64005c52e7112c466f6206b7f6c847c0", null ],
-    [ "handled", "db/d65/a22382.html#a7afe3007a016cb553f437544f8fd6f89", null ]
+    [ "npc_adventurous_dwarfAI", "d2/dba/a22386.html", "d2/dba/a22386" ],
+    [ "npc_adventurous_dwarf", "db/d65/a22382.html#a15c39e217907189db9be7799e696f310", null ],
+    [ "GetAI", "db/d65/a22382.html#ac3f124fab8520a16ccd73e058a0383b1", null ],
+    [ "OnGossipHello", "db/d65/a22382.html#ab69e3e249f7075d5344ad79bf9c79b79", null ],
+    [ "OnGossipSelect", "db/d65/a22382.html#aebb2cd209f71d8ab56a29e5bfd668def", null ]
 ];

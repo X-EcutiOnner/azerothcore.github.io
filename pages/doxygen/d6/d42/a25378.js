@@ -1,10 +1,7 @@
 var a25378 =
 [
-    [ "CheckProc", "d6/d42/a25378.html#a8a7a0ac560eecc3777087622fb3f3951", null ],
-    [ "HandleProc", "d6/d42/a25378.html#a90eee01f380f97f033c82d7c6ec48d00", null ],
-    [ "OnApply", "d6/d42/a25378.html#a93818ec97cfd47da1dee454bb0a9318c", null ],
-    [ "OnRemove", "d6/d42/a25378.html#a5e978d4d46f42ba5098eaecd9473fccb", null ],
-    [ "PrepareAuraScript", "d6/d42/a25378.html#a73ae8e378b906a420955fd33d02ba6b7", null ],
-    [ "Register", "d6/d42/a25378.html#a7070f64c9c47c8c1bc26e49b2b60a110", null ],
-    [ "Validate", "d6/d42/a25378.html#a91c5a0e10c308332e18dc40033049996", null ]
+    [ "PrepareSpellScript", "d6/d42/a25378.html#a65d5717a25e371e09c44148c679dd390", null ],
+    [ "Register", "d6/d42/a25378.html#afb5f3560c022a8ef659d82cf24a46d8a", null ],
+    [ "RemoveInvalidTargets", "d6/d42/a25378.html#a53262865dfa222de1d020f8c7cbf15fd", null ],
+    [ "Validate", "d6/d42/a25378.html#a27ee4f0e6d14d15e5da2119c2bc49516", null ]
 ];

@@ -1,6 +1,7 @@
 var a01187 =
 [
-    [ "TSpellSummary", "d1/dec/a06204.html", "d1/dec/a06204" ],
-    [ "SCR_CLEAR", "dc/d70/a01187.html#ab71e08e3f39b7ee7bda0306cd39b96a0", null ],
-    [ "SpellSummary", "dc/d70/a01187.html#ae56af266ccaa1794f1f014938b07e9cc", null ]
+    [ "instance_the_slave_pens", "dc/dbf/a23518.html", "dc/dbf/a23518" ],
+    [ "instance_the_slave_pens::instance_the_slave_pens_InstanceMapScript", "d2/db4/a23522.html", "d2/db4/a23522" ],
+    [ "AddSC_instance_the_slave_pens", "dc/d70/a01187.html#a41772e574e8da2d2009384c1f312ed92", null ],
+    [ "creatureData", "dc/d70/a01187.html#a412286b689bd324fedd65ddd8dde8afb", null ]
 ];

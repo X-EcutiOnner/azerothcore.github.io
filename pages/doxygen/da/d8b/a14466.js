@@ -1,17 +1,12 @@
 var a14466 =
 [
-    [ "npc_midsummer_ribbon_pole_target", "da/d8b/a14466.html#ac09222eff300a11e03e8a3a1c9a3fd5f", null ],
-    [ "DoCleanupChecks", "da/d8b/a14466.html#a5e5a67ed5492db34fd6c2e28a2cd7f74", null ],
-    [ "DoDancingFLameChecks", "da/d8b/a14466.html#af4e76d832c3fd47eb88c1a69d0cdf9ff", null ],
-    [ "DoFireworkChecks", "da/d8b/a14466.html#a19eb48c537d58ad8f2021e9eabe4fae2", null ],
-    [ "DoFlameCircleChecks", "da/d8b/a14466.html#af37e104b67dcf9a2c181c142d56cc708", null ],
-    [ "DoGroundFlowerChecks", "da/d8b/a14466.html#a0a9961eb0c2d5afde8f96bb0580d1974", null ],
-    [ "DoSpewLavaChecks", "da/d8b/a14466.html#a94086429fe5cf506c64ea79ebcf03317", null ],
-    [ "LocateRibbonPole", "da/d8b/a14466.html#a55f16f2ced0045ea373e9d0a239301d1", null ],
-    [ "SpawnFireSpiralBunny", "da/d8b/a14466.html#ae91d1899212fa391f6ae4ec3a1de6e85", null ],
-    [ "SpellHit", "da/d8b/a14466.html#ab732995946655894611eb1c12ce4e8a8", null ],
-    [ "UpdateAI", "da/d8b/a14466.html#affeb3025627dd5697f0c4dccab66d3b6", null ],
-    [ "_bunny", "da/d8b/a14466.html#a0161d569d4c1fb2e1bf69936312be8df", null ],
-    [ "_dancerList", "da/d8b/a14466.html#a41e453f742a06bc7485e290756dbc746", null ],
-    [ "_ribbonPole", "da/d8b/a14466.html#aeea38608ae98cd5597c104ea04e32523", null ]
+    [ "npc_alexstraza_the_lifebinder", "da/d8b/a14466.html#a7c30258540803bde75843cb070b6a288", null ],
+    [ "MoveInLineOfSight", "da/d8b/a14466.html#af5960eb1cf63fb0b5b8dc2bfd86b8e47", null ],
+    [ "Reset", "da/d8b/a14466.html#a8144ed8ada8cd4fb11d74393ed0c525a", null ],
+    [ "SetData", "da/d8b/a14466.html#aead5ae4ffda9732829e39b8c485a3c3e", null ],
+    [ "UpdateAI", "da/d8b/a14466.html#ad13b21d571833210b1c069b7ea8bea05", null ],
+    [ "orphanGUID", "da/d8b/a14466.html#a7c2901f01e4fcafaea9c00ff58dbeaf3", null ],
+    [ "phase", "da/d8b/a14466.html#a98216e43888854ac93f22169a0e253e5", null ],
+    [ "playerGUID", "da/d8b/a14466.html#a063fc935bc8f46f5487e9c338e497ec4", null ],
+    [ "timer", "da/d8b/a14466.html#a41791aaa24102383fe4d3f43c714c3bb", null ]
 ];

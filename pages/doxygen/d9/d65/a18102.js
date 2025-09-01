@@ -1,7 +1,6 @@
 var a18102 =
 [
-    [ "PeriodicTick", "d9/d65/a18102.html#a0c365bbb4ae9b77bb9e00a1eb41b96e4", null ],
-    [ "PrepareAuraScript", "d9/d65/a18102.html#afcadfbdd84608e827b89c64bf03c8501", null ],
-    [ "Register", "d9/d65/a18102.html#a0e8e8685ce8c1eea2b60e8bf6aeed782", null ],
-    [ "Validate", "d9/d65/a18102.html#a879b657d94c1faf6225fe64f907cdf82", null ]
+    [ "OnRemove", "d9/d65/a18102.html#a5b9f23b815b1c85ecf2e56c626ce5077", null ],
+    [ "PrepareAuraScript", "d9/d65/a18102.html#a9207d9f59026e1beb7c266ee3a1ef884", null ],
+    [ "Register", "d9/d65/a18102.html#ad9eb03a09fc13f6b2b30e9f6cc1990bc", null ]
 ];

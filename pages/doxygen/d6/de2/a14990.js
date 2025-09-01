@@ -1,7 +1,7 @@
 var a14990 =
 [
-    [ "boss_kurinnaxx", "d6/de2/a14990.html#aa8b471e6239080b2a5f70e50e07a9621", null ],
-    [ "InitializeAI", "d6/de2/a14990.html#a0e249007d5bf29eb0cff307045ef9eb3", null ],
-    [ "JustDied", "d6/de2/a14990.html#adb749c8737888a099ad7a3d58292a612", null ],
-    [ "JustEngagedWith", "d6/de2/a14990.html#a451cd7ee80b0428a199c33012562bdb3", null ]
+    [ "npc_tarethaAI", "dc/ddb/a14994.html", "dc/ddb/a14994" ],
+    [ "npc_taretha", "d6/de2/a14990.html#a54379e06518ff972e91e25e295731f5a", null ],
+    [ "GetAI", "d6/de2/a14990.html#a5045bb7119b12800ee0053818fcae5fe", null ],
+    [ "OnGossipHello", "d6/de2/a14990.html#ac689e97b3fd54e9c9e40ed5b9aeca099", null ]
 ];

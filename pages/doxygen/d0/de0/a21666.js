@@ -1,6 +1,6 @@
 var a21666 =
 [
-    [ "npc_steam_powered_auctioneerAI", "d1/dcb/a21670.html", "d1/dcb/a21670" ],
-    [ "npc_steam_powered_auctioneer", "d0/de0/a21666.html#ae8c918c639ce0c3ddc14b8cf7f0ef855", null ],
-    [ "GetAI", "d0/de0/a21666.html#a39a2f0c187078c759bc4a391e0a81068", null ]
+    [ "HandleEffectPeriodic", "d0/de0/a21666.html#affa7fb949d4b1a05813df0da17fef3bb", null ],
+    [ "PrepareAuraScript", "d0/de0/a21666.html#a79dbb866c06cd1c031cae2f1370146d5", null ],
+    [ "Register", "d0/de0/a21666.html#a1fb46036f0860440f3a9201e0d86cdc4", null ]
 ];

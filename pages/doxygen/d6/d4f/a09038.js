@@ -1,6 +1,6 @@
 var a09038 =
 [
-    [ "m_guid", "d6/d4f/a09038.html#afa8383c81a2d75f9ead2e8f3daa29086", null ],
-    [ "m_instance", "d6/d4f/a09038.html#a8bc0c5e1cf45073f054c5154c21b3d72", null ],
-    [ "m_state", "d6/d4f/a09038.html#a3ac18fb8f5d386e3245a2435e31e45e1", null ]
+    [ "Conditions", "d6/d4f/a09038.html#a93edc2f0d71164b683c844b713befa85", null ],
+    [ "MenuID", "d6/d4f/a09038.html#a732aa82f621c312745ddbd6fe2e3e906", null ],
+    [ "TextID", "d6/d4f/a09038.html#a6ec8df5fcc5126bdee656ca08c0a5edc", null ]
 ];

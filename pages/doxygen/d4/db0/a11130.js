@@ -1,7 +1,6 @@
 var a11130 =
 [
-    [ "WorldObjectSpellNearbyTargetCheck", "d4/db0/a11130.html#afda548f6394c5d11a7ca229fe6b3d402", null ],
-    [ "operator()", "d4/db0/a11130.html#a731ee07d028a5ee63ecd14321c83664d", null ],
-    [ "_position", "d4/db0/a11130.html#a7b19899dd015a73bd1ae4c71fa9ae79d", null ],
-    [ "_range", "d4/db0/a11130.html#abfec0df490876b2b83dcdee4da75a77f", null ]
+    [ "WorldSession", "d4/db0/a11130.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
+    [ "Guid", "d4/db0/a11130.html#a46a89b6904e59f39f4e1460a9bb45765", null ],
+    [ "Name", "d4/db0/a11130.html#a4e747a555bde74f97a5fc78287e5e29d", null ]
 ];

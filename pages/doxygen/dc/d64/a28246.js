@@ -1,11 +1,5 @@
 var a28246 =
 [
-    [ "ClassID", "dc/d64/a28246.html#a8cc7d61907f8fd5c2b3429c21ccbcc05", null ],
-    [ "DisplayInfoID", "dc/d64/a28246.html#a87657df2ad024245ccb2192303f76b7a", null ],
-    [ "ID", "dc/d64/a28246.html#a8ee5b01112a6d01cf46b4e37fb2e6269", null ],
-    [ "InventoryType", "dc/d64/a28246.html#a6dc33fc40a299b010c18a7009aff648b", null ],
-    [ "Material", "dc/d64/a28246.html#ab07b947a5b8c2e7aee60ac96d979ad3c", null ],
-    [ "SheatheType", "dc/d64/a28246.html#a63a6d7c2a8e2514384a5eb99cd890747", null ],
-    [ "SoundOverrideSubclassID", "dc/d64/a28246.html#a6072ce88b5c93034418c590d8aba1ea3", null ],
-    [ "SubclassID", "dc/d64/a28246.html#ac39254716573e335caf312f635353a2e", null ]
+    [ "ID", "dc/d64/a28246.html#a4f030d8b8b87aff67e0d8319c6b53310", null ],
+    [ "price", "dc/d64/a28246.html#a9b81ec4b4638763b738862d6c184e2a9", null ]
 ];

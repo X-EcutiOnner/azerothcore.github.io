@@ -1,14 +1,8 @@
 var a27886 =
 [
-    [ "IsFlyable", "de/d27/a27886.html#a2a59297a617c9d3b582ede2a028bd07e", null ],
-    [ "IsSanctuary", "de/d27/a27886.html#ad239b4e381b6af858a181e9c361d6cbb", null ],
-    [ "area_level", "de/d27/a27886.html#a23434848cf8b2eab4de1b6530b8d5f8d", null ],
-    [ "area_name", "de/d27/a27886.html#a87653e6b7f7368a59af7adaf77a49e10", null ],
-    [ "exploreFlag", "de/d27/a27886.html#a78cf3009cd0fe49dc7870c7f65c79251", null ],
-    [ "flags", "de/d27/a27886.html#a5854e3f565d827dbad3d9a36f99e9a25", null ],
-    [ "ID", "de/d27/a27886.html#ad02bb9fce21f464e38223581074a9e21", null ],
-    [ "LiquidTypeOverride", "de/d27/a27886.html#abe743a4b542c4356aab9d41f3fae7457", null ],
-    [ "mapid", "de/d27/a27886.html#a048ac249318efd9aa35bb705bfb92dc8", null ],
-    [ "team", "de/d27/a27886.html#ae18e0efef83e663452715f6be15ecaef", null ],
-    [ "zone", "de/d27/a27886.html#a3b4f9e187629db5ced9a06c601fc7f78", null ]
+    [ "npc_cultist_engineer", "de/d27/a27886.html#a02675a96d20902d147b0370fa1715d81", null ],
+    [ "JustDied", "de/d27/a27886.html#a4b4d561f827553998caa204e0e1b9e54", null ],
+    [ "Reset", "de/d27/a27886.html#a6f84d224a959c06fbb7a48197dd4cbdd", null ],
+    [ "sGossipSelect", "de/d27/a27886.html#ab26d124cbfdc4d649fef6058e9637845", null ],
+    [ "UpdateAI", "de/d27/a27886.html#a47b1b08959b8cd02ba92fcf3a55e32d2", null ]
 ];

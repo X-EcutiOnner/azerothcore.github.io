@@ -1,6 +1,8 @@
 var a13494 =
 [
-    [ "HandleSendEvent", "d3/d2d/a13494.html#a1be975f4440b823c34cc3e790fcff608", null ],
-    [ "PrepareSpellScript", "d3/d2d/a13494.html#a91ac4a392fcf5b6e833fb3f5103d8e06", null ],
-    [ "Register", "d3/d2d/a13494.html#a217fb7cb47b08999d49ec04b345b77fe", null ]
+    [ "OnPeriodic", "d3/d2d/a13494.html#acd400b0a061d1814591e33d16bf4180a", null ],
+    [ "OnRemove", "d3/d2d/a13494.html#a3da85c726007690220e9b4f81d30f185", null ],
+    [ "PrepareAuraScript", "d3/d2d/a13494.html#a216d723f309ffa46df4bba7af79752c8", null ],
+    [ "Register", "d3/d2d/a13494.html#a43fe84c2717d73e20a2562f596a84f36", null ],
+    [ "Validate", "d3/d2d/a13494.html#a4ab8e285bae57560eee85d3a837ac2f5", null ]
 ];

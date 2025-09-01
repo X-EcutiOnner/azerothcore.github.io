@@ -1,7 +1,9 @@
 var a09606 =
 [
-    [ "InstancePlayerBind", "db/d36/a09606.html#abc20bba094d04eb724d03b8290102981", null ],
-    [ "extended", "db/d36/a09606.html#a9327f62b74eea3a1a525b2fec6d90b69", null ],
-    [ "perm", "db/d36/a09606.html#ab35249eb791941b484ecc321b1102b24", null ],
-    [ "save", "db/d36/a09606.html#a24ef1e0e0a38033a16b697c32e3d8234", null ]
+    [ "EmoteChatBuilder", "db/d36/a09606.html#ae1aeb36aad24d5ef28074edfbf2f9e7e", null ],
+    [ "operator()", "db/d36/a09606.html#a133a7bb35e86cf40425910c4f19a3337", null ],
+    [ "i_emote_num", "db/d36/a09606.html#a966b8afcbf5afca3a3466d8e075a9437", null ],
+    [ "i_player", "db/d36/a09606.html#ae09dbfe01b2a24e57b63b2b1df5ad232", null ],
+    [ "i_target", "db/d36/a09606.html#abc538e056d91ea1ee8d6203c96174b1d", null ],
+    [ "i_text_emote", "db/d36/a09606.html#add0630dc3fc76fb4fdb79095e13b2fc0", null ]
 ];

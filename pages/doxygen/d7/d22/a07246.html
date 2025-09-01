@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: ArenaTeamFilterAllTeams Class Reference</title>
+<title>AzerothCore: ArenaSeasonMgr Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,37 +105,84 @@ $(document).ready(function(){initNavTree('d7/d22/a07246.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
+<a href="#pub-types">Public Types</a> &#124;
 <a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pub-static-methods">Static Public Member Functions</a> &#124;
+<a href="#pri-methods">Private Member Functions</a> &#124;
+<a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="../../dc/d10/a07243.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">ArenaTeamFilterAllTeams Class Reference</div></div>
+  <div class="headertitle"><div class="title">ArenaSeasonMgr Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">ArenaTeamFilter.h</a>&quot;</code></p>
-<div class="dynheader">
-Inheritance diagram for ArenaTeamFilterAllTeams:</div>
-<div class="dyncontent">
- <div class="center">
-  <img src="../../d7/d22/a07246.png" usemap="#ArenaTeamFilterAllTeams_map" alt=""/>
-  <map id="ArenaTeamFilterAllTeams_map" name="ArenaTeamFilterAllTeams_map">
-<area href="../../d1/ddc/a07238.html" alt="ArenaTeamFilter" shape="rect" coords="0,0,157,24"/>
-  </map>
-</div></div>
+<p><code>#include &quot;<a class="el" href="../../">ArenaSeasonMgr.h</a>&quot;</code></p>
 <table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-types" name="pub-types"></a>
+Public Types</h2></td></tr>
+<tr class="memitem:a510f51e8cd7ad494dc2f0dd25640e924"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d22/a07246.html#a510f51e8cd7ad494dc2f0dd25640e924">ArenaSeasonRewardGroupsBySeasonContainer</a> = std::unordered_map&lt; <a class="el" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>, std::vector&lt; <a class="el" href="../../d3/d34/a07242.html">ArenaSeasonRewardGroup</a> &gt; &gt;</td></tr>
+<tr class="separator:a510f51e8cd7ad494dc2f0dd25640e924"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a1fcb023fe0dee17790b3636bf1ff3e9a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d55/a07266.html#ac76e895599b64e0824e923faf9c08560">ArenaTeamMgr::ArenaTeamContainer</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d22/a07246.html#a1fcb023fe0dee17790b3636bf1ff3e9a">Filter</a> (<a class="el" href="../../db/d55/a07266.html#ac76e895599b64e0824e923faf9c08560">ArenaTeamMgr::ArenaTeamContainer</a> teams) override</td></tr>
-<tr class="separator:a1fcb023fe0dee17790b3636bf1ff3e9a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="inherit_header pub_methods_a07238"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a07238')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../d1/ddc/a07238.html">ArenaTeamFilter</a></td></tr>
-<tr class="memitem:afc05f637cc782712e6aa09bea6e85693 inherit pub_methods_a07238"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/ddc/a07238.html#afc05f637cc782712e6aa09bea6e85693">~ArenaTeamFilter</a> ()=default</td></tr>
-<tr class="separator:afc05f637cc782712e6aa09bea6e85693 inherit pub_methods_a07238"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9a0bcfa1e5e79d2539465d84b44a235c inherit pub_methods_a07238"><td class="memItemLeft" align="right" valign="top">virtual <a class="el" href="../../db/d55/a07266.html#ac76e895599b64e0824e923faf9c08560">ArenaTeamMgr::ArenaTeamContainer</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/ddc/a07238.html#a9a0bcfa1e5e79d2539465d84b44a235c">Filter</a> (<a class="el" href="../../db/d55/a07266.html#ac76e895599b64e0824e923faf9c08560">ArenaTeamMgr::ArenaTeamContainer</a> teams)=0</td></tr>
-<tr class="separator:a9a0bcfa1e5e79d2539465d84b44a235c inherit pub_methods_a07238"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a495f7d12cbe5a4bfb09a9a6de45c17e1"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d22/a07246.html#a495f7d12cbe5a4bfb09a9a6de45c17e1">LoadRewards</a> ()</td></tr>
+<tr class="separator:a495f7d12cbe5a4bfb09a9a6de45c17e1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a81c47f17e571dd5ba2c2617bdef09694"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d22/a07246.html#a81c47f17e571dd5ba2c2617bdef09694">LoadActiveSeason</a> ()</td></tr>
+<tr class="separator:a81c47f17e571dd5ba2c2617bdef09694"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a05f9e4be327f8ecb65729cec2d811851"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d22/a07246.html#a05f9e4be327f8ecb65729cec2d811851">ChangeCurrentSeason</a> (<a class="el" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> season)</td></tr>
+<tr class="separator:a05f9e4be327f8ecb65729cec2d811851"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae07db874a46e7d1cc8c60105635bbdf0"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d22/a07246.html#ae07db874a46e7d1cc8c60105635bbdf0">GetCurrentSeason</a> ()</td></tr>
+<tr class="separator:ae07db874a46e7d1cc8c60105635bbdf0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a118910793bb11fba35b0cd6b28e248a8"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d22/a07246.html#a118910793bb11fba35b0cd6b28e248a8">SetSeasonState</a> (<a class="el" href="../../d0/daf/a02972.html#a64f8715fead51dc9727d105bce4d0e38">ArenaSeasonState</a> state)</td></tr>
+<tr class="separator:a118910793bb11fba35b0cd6b28e248a8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abff2ff6a3e08f37b00405f5f688cb08d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/daf/a02972.html#a64f8715fead51dc9727d105bce4d0e38">ArenaSeasonState</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d22/a07246.html#abff2ff6a3e08f37b00405f5f688cb08d">GetSeasonState</a> ()</td></tr>
+<tr class="separator:abff2ff6a3e08f37b00405f5f688cb08d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4c1069779f69aa3eae885540fa2b31e6"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d22/a07246.html#a4c1069779f69aa3eae885540fa2b31e6">RewardTeamsForTheSeason</a> (std::shared_ptr&lt; <a class="el" href="../../da/d0c/a07262.html">ArenaTeamFilter</a> &gt; teamsFilter)</td></tr>
+<tr class="separator:a4c1069779f69aa3eae885540fa2b31e6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6d2302f89f8756d7ceaf210cdabea9e8"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d22/a07246.html#a6d2302f89f8756d7ceaf210cdabea9e8">CanDeleteArenaTeams</a> ()</td></tr>
+<tr class="separator:a6d2302f89f8756d7ceaf210cdabea9e8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad28595c2f09c2cecd46ba8811374ae21"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d22/a07246.html#ad28595c2f09c2cecd46ba8811374ae21">DeleteArenaTeams</a> ()</td></tr>
+<tr class="separator:ad28595c2f09c2cecd46ba8811374ae21"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
+Static Public Member Functions</h2></td></tr>
+<tr class="memitem:ad9299d5394ee20830fe9aca038575ce0"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d7/d22/a07246.html">ArenaSeasonMgr</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d22/a07246.html#ad9299d5394ee20830fe9aca038575ce0">instance</a> ()</td></tr>
+<tr class="separator:ad9299d5394ee20830fe9aca038575ce0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-methods" name="pri-methods"></a>
+Private Member Functions</h2></td></tr>
+<tr class="memitem:a3bef72c5136e9920f8b4e0438f3f1628"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d22/a07246.html#a3bef72c5136e9920f8b4e0438f3f1628">GameEventForArenaSeason</a> (<a class="el" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> season)</td></tr>
+<tr class="separator:a3bef72c5136e9920f8b4e0438f3f1628"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae40b9d3ff73604045d1d7f6c59487f95"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d22/a07246.html#ae40b9d3ff73604045d1d7f6c59487f95">BroadcastUpdatedWorldState</a> ()</td></tr>
+<tr class="separator:ae40b9d3ff73604045d1d7f6c59487f95"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
+Private Attributes</h2></td></tr>
+<tr class="memitem:a90d508c6ffb7c7277d0e6c6f27bafc33"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d7/d22/a07246.html#a510f51e8cd7ad494dc2f0dd25640e924">ArenaSeasonRewardGroupsBySeasonContainer</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d22/a07246.html#a90d508c6ffb7c7277d0e6c6f27bafc33">_arenaSeasonRewardGroupsStore</a></td></tr>
+<tr class="separator:a90d508c6ffb7c7277d0e6c6f27bafc33"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a168a36d3ae1818f22acfb168e932c10c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d22/a07246.html#a168a36d3ae1818f22acfb168e932c10c">_currentSeason</a> {}</td></tr>
+<tr class="separator:a168a36d3ae1818f22acfb168e932c10c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af73eb610ed7b0e908c206aac14f2c452"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/daf/a02972.html#a64f8715fead51dc9727d105bce4d0e38">ArenaSeasonState</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d22/a07246.html#af73eb610ed7b0e908c206aac14f2c452">_currentSeasonState</a> {}</td></tr>
+<tr class="separator:af73eb610ed7b0e908c206aac14f2c452"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
-<a id="a1fcb023fe0dee17790b3636bf1ff3e9a" name="a1fcb023fe0dee17790b3636bf1ff3e9a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1fcb023fe0dee17790b3636bf1ff3e9a">&#9670;&#160;</a></span>Filter()</h2>
+<div class="textblock"></div><h2 class="groupheader">Member Typedef Documentation</h2>
+<a id="a510f51e8cd7ad494dc2f0dd25640e924" name="a510f51e8cd7ad494dc2f0dd25640e924"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a510f51e8cd7ad494dc2f0dd25640e924">&#9670;&#160;</a></span>ArenaSeasonRewardGroupsBySeasonContainer</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">using <a class="el" href="../../d7/d22/a07246.html#a510f51e8cd7ad494dc2f0dd25640e924">ArenaSeasonMgr::ArenaSeasonRewardGroupsBySeasonContainer</a> =  std::unordered_map&lt;<a class="el" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>, std::vector&lt;<a class="el" href="../../d3/d34/a07242.html">ArenaSeasonRewardGroup</a>&gt; &gt;</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="ae40b9d3ff73604045d1d7f6c59487f95" name="ae40b9d3ff73604045d1d7f6c59487f95"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae40b9d3ff73604045d1d7f6c59487f95">&#9670;&#160;</a></span>BroadcastUpdatedWorldState()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -144,26 +191,576 @@ Public Member Functions</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../db/d55/a07266.html#ac76e895599b64e0824e923faf9c08560">ArenaTeamMgr::ArenaTeamContainer</a> ArenaTeamFilterAllTeams::Filter </td>
+          <td class="memname">void ArenaSeasonMgr::BroadcastUpdatedWorldState </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../db/d55/a07266.html#ac76e895599b64e0824e923faf9c08560">ArenaTeamMgr::ArenaTeamContainer</a>&#160;</td>
-          <td class="paramname"><em>teams</em></td><td>)</td>
+          <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">override</span><span class="mlabel">virtual</span></span>  </td>
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  210</span>{</div>
+<div class="line"><span class="lineno">  211</span>    <a class="code hl_define" href="../../d7/d65/a02876.html#a9132749f8376c48b0ca7212eb3293905">sMapMgr</a>-&gt;DoForAllMaps([](<a class="code hl_class" href="../../d8/df9/a09834.html">Map</a>* map)</div>
+<div class="line"><span class="lineno">  212</span>    {</div>
+<div class="line"><span class="lineno">  213</span>        <span class="comment">// Ignore instanceable maps, players will get a fresh state once they change the map.</span></div>
+<div class="line"><span class="lineno">  214</span>        <span class="keywordflow">if</span> (map-&gt;<a class="code hl_function" href="../../d8/df9/a09834.html#aae3a929aefb05046ef304ffba10aae71">Instanceable</a>())</div>
+<div class="line"><span class="lineno">  215</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  216</span> </div>
+<div class="line"><span class="lineno">  217</span>        map-&gt;<a class="code hl_function" href="../../d8/df9/a09834.html#aa5eada6f20e4dfecef62fe82e6668946">DoForAllPlayers</a>([&amp;](<a class="code hl_class" href="../../d4/d95/a08630.html">Player</a>* player)</div>
+<div class="line"><span class="lineno">  218</span>        {</div>
+<div class="line"><span class="lineno">  219</span>            uint32 currZone, currArea;</div>
+<div class="line"><span class="lineno">  220</span>            player-&gt;GetZoneAndAreaId(currZone, currArea);</div>
+<div class="line"><span class="lineno">  221</span>            player-&gt;SendInitWorldStates(currZone, currArea);</div>
+<div class="line"><span class="lineno">  222</span>        });</div>
+<div class="line"><span class="lineno">  223</span>    });</div>
+<div class="line"><span class="lineno">  224</span>}</div>
+<div class="ttc" id="aa02876_html_a9132749f8376c48b0ca7212eb3293905"><div class="ttname"><a href="../../d7/d65/a02876.html#a9132749f8376c48b0ca7212eb3293905">sMapMgr</a></div><div class="ttdeci">#define sMapMgr</div><div class="ttdef"><b>Definition:</b> MapMgr.h:220</div></div>
+<div class="ttc" id="aa08630_html"><div class="ttname"><a href="../../d4/d95/a08630.html">Player</a></div><div class="ttdef"><b>Definition:</b> Player.h:1072</div></div>
+<div class="ttc" id="aa09834_html"><div class="ttname"><a href="../../d8/df9/a09834.html">Map</a></div><div class="ttdef"><b>Definition:</b> Map.h:158</div></div>
+<div class="ttc" id="aa09834_html_aa5eada6f20e4dfecef62fe82e6668946"><div class="ttname"><a href="../../d8/df9/a09834.html#aa5eada6f20e4dfecef62fe82e6668946">Map::DoForAllPlayers</a></div><div class="ttdeci">void DoForAllPlayers(std::function&lt; void(Player *)&gt; exec)</div><div class="ttdef"><b>Definition:</b> Map.cpp:2781</div></div>
+<div class="ttc" id="aa09834_html_aae3a929aefb05046ef304ffba10aae71"><div class="ttname"><a href="../../d8/df9/a09834.html#aae3a929aefb05046ef304ffba10aae71">Map::Instanceable</a></div><div class="ttdeci">bool Instanceable() const</div><div class="ttdef"><b>Definition:</b> Map.h:289</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l02781">Map::DoForAllPlayers()</a>, <a class="el" href="../../#l00289">Map::Instanceable()</a>, and <a class="el" href="../../#l00220">sMapMgr</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00164">ChangeCurrentSeason()</a>, and <a class="el" href="../../#l00183">SetSeasonState()</a>.</p>
+
+</div>
+</div>
+<a id="a6d2302f89f8756d7ceaf210cdabea9e8" name="a6d2302f89f8756d7ceaf210cdabea9e8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6d2302f89f8756d7ceaf210cdabea9e8">&#9670;&#160;</a></span>CanDeleteArenaTeams()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool ArenaSeasonMgr::CanDeleteArenaTeams </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  135</span>{</div>
+<div class="line"><span class="lineno">  136</span>    std::vector&lt;ArenaSeasonRewardGroup&gt; rewards = <a class="code hl_variable" href="../../d7/d22/a07246.html#a90d508c6ffb7c7277d0e6c6f27bafc33">_arenaSeasonRewardGroupsStore</a>[<a class="code hl_function" href="../../d7/d22/a07246.html#ae07db874a46e7d1cc8c60105635bbdf0">GetCurrentSeason</a>()];</div>
+<div class="line"><span class="lineno">  137</span>    <span class="keywordflow">if</span> (rewards.empty())</div>
+<div class="line"><span class="lineno">  138</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  139</span> </div>
+<div class="line"><span class="lineno">  140</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; bg : <a class="code hl_define" href="../../dc/d94/a02999.html#abe50926a988d0fff4ee6ba0358c6b278">sBattlegroundMgr</a>-&gt;GetActiveBattlegrounds())</div>
+<div class="line"><span class="lineno">  141</span>        <span class="keywordflow">if</span> (bg-&gt;isRated())</div>
+<div class="line"><span class="lineno">  142</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  143</span> </div>
+<div class="line"><span class="lineno">  144</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  145</span>}</div>
+<div class="ttc" id="aa02999_html_abe50926a988d0fff4ee6ba0358c6b278"><div class="ttname"><a href="../../dc/d94/a02999.html#abe50926a988d0fff4ee6ba0358c6b278">sBattlegroundMgr</a></div><div class="ttdeci">#define sBattlegroundMgr</div><div class="ttdef"><b>Definition:</b> BattlegroundMgr.h:187</div></div>
+<div class="ttc" id="aa07246_html_a90d508c6ffb7c7277d0e6c6f27bafc33"><div class="ttname"><a href="../../d7/d22/a07246.html#a90d508c6ffb7c7277d0e6c6f27bafc33">ArenaSeasonMgr::_arenaSeasonRewardGroupsStore</a></div><div class="ttdeci">ArenaSeasonRewardGroupsBySeasonContainer _arenaSeasonRewardGroupsStore</div><div class="ttdef"><b>Definition:</b> ArenaSeasonMgr.h:118</div></div>
+<div class="ttc" id="aa07246_html_ae07db874a46e7d1cc8c60105635bbdf0"><div class="ttname"><a href="../../d7/d22/a07246.html#ae07db874a46e7d1cc8c60105635bbdf0">ArenaSeasonMgr::GetCurrentSeason</a></div><div class="ttdeci">uint8 GetCurrentSeason()</div><div class="ttdef"><b>Definition:</b> ArenaSeasonMgr.h:104</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00118">_arenaSeasonRewardGroupsStore</a>, <a class="el" href="../../#l00104">GetCurrentSeason()</a>, and <a class="el" href="../../#l00187">sBattlegroundMgr</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00147">DeleteArenaTeams()</a>.</p>
+
+</div>
+</div>
+<a id="a05f9e4be327f8ecb65729cec2d811851" name="a05f9e4be327f8ecb65729cec2d811851"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a05f9e4be327f8ecb65729cec2d811851">&#9670;&#160;</a></span>ChangeCurrentSeason()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void ArenaSeasonMgr::ChangeCurrentSeason </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td>
+          <td class="paramname"><em>season</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  165</span>{</div>
+<div class="line"><span class="lineno">  166</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d7/d22/a07246.html#a168a36d3ae1818f22acfb168e932c10c">_currentSeason</a> == season)</div>
+<div class="line"><span class="lineno">  167</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  168</span> </div>
+<div class="line"><span class="lineno">  169</span>    <a class="code hl_typedef" href="../../d0/d61/a00302.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> currentEventID = <a class="code hl_function" href="../../d7/d22/a07246.html#a3bef72c5136e9920f8b4e0438f3f1628">GameEventForArenaSeason</a>(<a class="code hl_variable" href="../../d7/d22/a07246.html#a168a36d3ae1818f22acfb168e932c10c">_currentSeason</a>);</div>
+<div class="line"><span class="lineno">  170</span>    <a class="code hl_define" href="../../d9/d0d/a03995.html#a3c1c916d94272dfe845b9cc5e8fc292a">sGameEventMgr</a>-&gt;StopEvent(currentEventID, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  171</span> </div>
+<div class="line"><span class="lineno">  172</span>    <a class="code hl_typedef" href="../../d0/d61/a00302.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> newEventID = <a class="code hl_function" href="../../d7/d22/a07246.html#a3bef72c5136e9920f8b4e0438f3f1628">GameEventForArenaSeason</a>(season);</div>
+<div class="line"><span class="lineno">  173</span>    <a class="code hl_define" href="../../d9/d0d/a03995.html#a3c1c916d94272dfe845b9cc5e8fc292a">sGameEventMgr</a>-&gt;StartEvent(newEventID, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  174</span> </div>
+<div class="line"><span class="lineno">  175</span>    <a class="code hl_variable" href="../../d7/d22/a07246.html#a168a36d3ae1818f22acfb168e932c10c">_currentSeason</a> = season;</div>
+<div class="line"><span class="lineno">  176</span>    <a class="code hl_variable" href="../../d7/d22/a07246.html#af73eb610ed7b0e908c206aac14f2c452">_currentSeasonState</a> = <a class="code hl_enumvalue" href="../../d0/daf/a02972.html#a64f8715fead51dc9727d105bce4d0e38a455a35a5e6e89efd32818e52ca82f5f8">ARENA_SEASON_STATE_IN_PROGRESS</a>;</div>
+<div class="line"><span class="lineno">  177</span> </div>
+<div class="line"><span class="lineno">  178</span>    <a class="code hl_variable" href="../../d6/d12/a04691.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.Execute(<span class="stringliteral">&quot;UPDATE active_arena_season SET season_id = {}, season_state = {}&quot;</span>, <a class="code hl_variable" href="../../d7/d22/a07246.html#a168a36d3ae1818f22acfb168e932c10c">_currentSeason</a>, <a class="code hl_variable" href="../../d7/d22/a07246.html#af73eb610ed7b0e908c206aac14f2c452">_currentSeasonState</a>);</div>
+<div class="line"><span class="lineno">  179</span> </div>
+<div class="line"><span class="lineno">  180</span>    <a class="code hl_function" href="../../d7/d22/a07246.html#ae40b9d3ff73604045d1d7f6c59487f95">BroadcastUpdatedWorldState</a>();</div>
+<div class="line"><span class="lineno">  181</span>}</div>
+<div class="ttc" id="aa00302_html_ad9c79638db63f1dfe2b085743b5cbf7b"><div class="ttname"><a href="../../d0/d61/a00302.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a></div><div class="ttdeci">std::uint16_t uint16</div><div class="ttdef"><b>Definition:</b> Define.h:108</div></div>
+<div class="ttc" id="aa02972_html_a64f8715fead51dc9727d105bce4d0e38a455a35a5e6e89efd32818e52ca82f5f8"><div class="ttname"><a href="../../d0/daf/a02972.html#a64f8715fead51dc9727d105bce4d0e38a455a35a5e6e89efd32818e52ca82f5f8">ARENA_SEASON_STATE_IN_PROGRESS</a></div><div class="ttdeci">@ ARENA_SEASON_STATE_IN_PROGRESS</div><div class="ttdef"><b>Definition:</b> ArenaSeasonMgr.h:29</div></div>
+<div class="ttc" id="aa03995_html_a3c1c916d94272dfe845b9cc5e8fc292a"><div class="ttname"><a href="../../d9/d0d/a03995.html#a3c1c916d94272dfe845b9cc5e8fc292a">sGameEventMgr</a></div><div class="ttdeci">#define sGameEventMgr</div><div class="ttdef"><b>Definition:</b> GameEventMgr.h:201</div></div>
+<div class="ttc" id="aa04691_html_a7e7534bc66d79434bd280b77cb124eec"><div class="ttname"><a href="../../d6/d12/a04691.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a></div><div class="ttdeci">DatabaseWorkerPool&lt; CharacterDatabaseConnection &gt; CharacterDatabase</div><div class="ttdoc">Accessor to the character database.</div><div class="ttdef"><b>Definition:</b> DatabaseEnv.cpp:21</div></div>
+<div class="ttc" id="aa07246_html_a168a36d3ae1818f22acfb168e932c10c"><div class="ttname"><a href="../../d7/d22/a07246.html#a168a36d3ae1818f22acfb168e932c10c">ArenaSeasonMgr::_currentSeason</a></div><div class="ttdeci">uint8 _currentSeason</div><div class="ttdef"><b>Definition:</b> ArenaSeasonMgr.h:120</div></div>
+<div class="ttc" id="aa07246_html_a3bef72c5136e9920f8b4e0438f3f1628"><div class="ttname"><a href="../../d7/d22/a07246.html#a3bef72c5136e9920f8b4e0438f3f1628">ArenaSeasonMgr::GameEventForArenaSeason</a></div><div class="ttdeci">uint16 GameEventForArenaSeason(uint8 season)</div><div class="ttdef"><b>Definition:</b> ArenaSeasonMgr.cpp:195</div></div>
+<div class="ttc" id="aa07246_html_ae40b9d3ff73604045d1d7f6c59487f95"><div class="ttname"><a href="../../d7/d22/a07246.html#ae40b9d3ff73604045d1d7f6c59487f95">ArenaSeasonMgr::BroadcastUpdatedWorldState</a></div><div class="ttdeci">void BroadcastUpdatedWorldState()</div><div class="ttdef"><b>Definition:</b> ArenaSeasonMgr.cpp:209</div></div>
+<div class="ttc" id="aa07246_html_af73eb610ed7b0e908c206aac14f2c452"><div class="ttname"><a href="../../d7/d22/a07246.html#af73eb610ed7b0e908c206aac14f2c452">ArenaSeasonMgr::_currentSeasonState</a></div><div class="ttdeci">ArenaSeasonState _currentSeasonState</div><div class="ttdef"><b>Definition:</b> ArenaSeasonMgr.h:121</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00120">_currentSeason</a>, <a class="el" href="../../#l00121">_currentSeasonState</a>, <a class="el" href="../../#l00029">ARENA_SEASON_STATE_IN_PROGRESS</a>, <a class="el" href="../../#l00209">BroadcastUpdatedWorldState()</a>, <a class="el" href="../../#l00021">CharacterDatabase</a>, <a class="el" href="../../#l00195">GameEventForArenaSeason()</a>, and <a class="el" href="../../#l00201">sGameEventMgr</a>.</p>
+
+</div>
+</div>
+<a id="ad28595c2f09c2cecd46ba8811374ae21" name="ad28595c2f09c2cecd46ba8811374ae21"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad28595c2f09c2cecd46ba8811374ae21">&#9670;&#160;</a></span>DeleteArenaTeams()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void ArenaSeasonMgr::DeleteArenaTeams </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  148</span>{</div>
+<div class="line"><span class="lineno">  149</span>    <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d7/d22/a07246.html#a6d2302f89f8756d7ceaf210cdabea9e8">CanDeleteArenaTeams</a>())</div>
+<div class="line"><span class="lineno">  150</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  151</span> </div>
+<div class="line"><span class="lineno">  152</span>    <span class="comment">// Cleanup queue first.</span></div>
+<div class="line"><span class="lineno">  153</span>    std::vector&lt;BattlegroundQueueTypeId&gt; arenasQueueTypes = {<a class="code hl_enumvalue" href="../../dc/d43/a04727.html#abf7dbc466209e78ffa2a67f9b097397da02779ae5e6ae1a94636450f7e012bc6c">BATTLEGROUND_QUEUE_2v2</a>, <a class="code hl_enumvalue" href="../../dc/d43/a04727.html#abf7dbc466209e78ffa2a67f9b097397dae1e81cfb41b8136ade30b98400ac84fd">BATTLEGROUND_QUEUE_3v3</a>, <a class="code hl_enumvalue" href="../../dc/d43/a04727.html#abf7dbc466209e78ffa2a67f9b097397da6b9cb096b2108333789c9435dcff1191">BATTLEGROUND_QUEUE_5v5</a>};</div>
+<div class="line"><span class="lineno">  154</span>    <span class="keywordflow">for</span> (<a class="code hl_enumeration" href="../../dc/d43/a04727.html#abf7dbc466209e78ffa2a67f9b097397d">BattlegroundQueueTypeId</a> queueType : arenasQueueTypes)</div>
+<div class="line"><span class="lineno">  155</span>    {</div>
+<div class="line"><span class="lineno">  156</span>        <span class="keyword">auto</span> queue = <a class="code hl_define" href="../../dc/d94/a02999.html#abe50926a988d0fff4ee6ba0358c6b278">sBattlegroundMgr</a>-&gt;GetBattlegroundQueue(queueType);</div>
+<div class="line"><span class="lineno">  157</span>        <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; [playerGUID, other] : queue.m_QueuedPlayers)</div>
+<div class="line"><span class="lineno">  158</span>            queue.RemovePlayer(playerGUID, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  159</span>    }</div>
+<div class="line"><span class="lineno">  160</span> </div>
+<div class="line"><span class="lineno">  161</span>    <a class="code hl_define" href="../../de/d27/a03002.html#a94afc7262fb2f00293dc80de8ba547df">sArenaTeamMgr</a>-&gt;DeleteAllArenaTeams();</div>
+<div class="line"><span class="lineno">  162</span>}</div>
+<div class="ttc" id="aa03002_html_a94afc7262fb2f00293dc80de8ba547df"><div class="ttname"><a href="../../de/d27/a03002.html#a94afc7262fb2f00293dc80de8ba547df">sArenaTeamMgr</a></div><div class="ttdeci">#define sArenaTeamMgr</div><div class="ttdef"><b>Definition:</b> ArenaTeamMgr.h:69</div></div>
+<div class="ttc" id="aa04727_html_abf7dbc466209e78ffa2a67f9b097397d"><div class="ttname"><a href="../../dc/d43/a04727.html#abf7dbc466209e78ffa2a67f9b097397d">BattlegroundQueueTypeId</a></div><div class="ttdeci">BattlegroundQueueTypeId</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:3885</div></div>
+<div class="ttc" id="aa04727_html_abf7dbc466209e78ffa2a67f9b097397da02779ae5e6ae1a94636450f7e012bc6c"><div class="ttname"><a href="../../dc/d43/a04727.html#abf7dbc466209e78ffa2a67f9b097397da02779ae5e6ae1a94636450f7e012bc6c">BATTLEGROUND_QUEUE_2v2</a></div><div class="ttdeci">@ BATTLEGROUND_QUEUE_2v2</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:3894</div></div>
+<div class="ttc" id="aa04727_html_abf7dbc466209e78ffa2a67f9b097397da6b9cb096b2108333789c9435dcff1191"><div class="ttname"><a href="../../dc/d43/a04727.html#abf7dbc466209e78ffa2a67f9b097397da6b9cb096b2108333789c9435dcff1191">BATTLEGROUND_QUEUE_5v5</a></div><div class="ttdeci">@ BATTLEGROUND_QUEUE_5v5</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:3896</div></div>
+<div class="ttc" id="aa04727_html_abf7dbc466209e78ffa2a67f9b097397dae1e81cfb41b8136ade30b98400ac84fd"><div class="ttname"><a href="../../dc/d43/a04727.html#abf7dbc466209e78ffa2a67f9b097397dae1e81cfb41b8136ade30b98400ac84fd">BATTLEGROUND_QUEUE_3v3</a></div><div class="ttdeci">@ BATTLEGROUND_QUEUE_3v3</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:3895</div></div>
+<div class="ttc" id="aa07246_html_a6d2302f89f8756d7ceaf210cdabea9e8"><div class="ttname"><a href="../../d7/d22/a07246.html#a6d2302f89f8756d7ceaf210cdabea9e8">ArenaSeasonMgr::CanDeleteArenaTeams</a></div><div class="ttdeci">bool CanDeleteArenaTeams()</div><div class="ttdef"><b>Definition:</b> ArenaSeasonMgr.cpp:134</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l03894">BATTLEGROUND_QUEUE_2v2</a>, <a class="el" href="../../#l03895">BATTLEGROUND_QUEUE_3v3</a>, <a class="el" href="../../#l03896">BATTLEGROUND_QUEUE_5v5</a>, <a class="el" href="../../#l00134">CanDeleteArenaTeams()</a>, <a class="el" href="../../#l00069">sArenaTeamMgr</a>, and <a class="el" href="../../#l00187">sBattlegroundMgr</a>.</p>
+
+</div>
+</div>
+<a id="a3bef72c5136e9920f8b4e0438f3f1628" name="a3bef72c5136e9920f8b4e0438f3f1628"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3bef72c5136e9920f8b4e0438f3f1628">&#9670;&#160;</a></span>GameEventForArenaSeason()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> ArenaSeasonMgr::GameEventForArenaSeason </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td>
+          <td class="paramname"><em>season</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  196</span>{</div>
+<div class="line"><span class="lineno">  197</span>    <a class="code hl_typedef" href="../../de/d69/a04679.html#ab0c9feeec448a181290fcb39565b8253">QueryResult</a> result = <a class="code hl_variable" href="../../d6/d12/a04691.html#afa9a6509f9913c9c7dd3081523badd7c">WorldDatabase</a>.Query(<span class="stringliteral">&quot;SELECT eventEntry FROM game_event_arena_seasons WHERE season = &#39;{}&#39;&quot;</span>, season);</div>
+<div class="line"><span class="lineno">  198</span> </div>
+<div class="line"><span class="lineno">  199</span>    <span class="keywordflow">if</span> (!result)</div>
+<div class="line"><span class="lineno">  200</span>    {</div>
+<div class="line"><span class="lineno">  201</span>        <a class="code hl_define" href="../../d5/d0f/a00494.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;arenaseasonmgr&quot;</span>, <span class="stringliteral">&quot;ArenaSeason ({}) must be an existant Arena Season&quot;</span>, season);</div>
+<div class="line"><span class="lineno">  202</span>        <span class="keywordflow">return</span> 0;</div>
+<div class="line"><span class="lineno">  203</span>    }</div>
+<div class="line"><span class="lineno">  204</span> </div>
+<div class="line"><span class="lineno">  205</span>    <a class="code hl_class" href="../../d1/d52/a05734.html">Field</a>* fields = result-&gt;Fetch();</div>
+<div class="line"><span class="lineno">  206</span>    <span class="keywordflow">return</span> fields[0].<a class="code hl_function" href="../../d1/d52/a05734.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d0/d61/a00302.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&gt;();</div>
+<div class="line"><span class="lineno">  207</span>}</div>
+<div class="ttc" id="aa00494_html_a43832e3fa8508deb4ce43e520005fcd9"><div class="ttname"><a href="../../d5/d0f/a00494.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a></div><div class="ttdeci">#define LOG_ERROR(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:158</div></div>
+<div class="ttc" id="aa04679_html_ab0c9feeec448a181290fcb39565b8253"><div class="ttname"><a href="../../de/d69/a04679.html#ab0c9feeec448a181290fcb39565b8253">QueryResult</a></div><div class="ttdeci">std::shared_ptr&lt; ResultSet &gt; QueryResult</div><div class="ttdef"><b>Definition:</b> DatabaseEnvFwd.h:27</div></div>
+<div class="ttc" id="aa04691_html_afa9a6509f9913c9c7dd3081523badd7c"><div class="ttname"><a href="../../d6/d12/a04691.html#afa9a6509f9913c9c7dd3081523badd7c">WorldDatabase</a></div><div class="ttdeci">DatabaseWorkerPool&lt; WorldDatabaseConnection &gt; WorldDatabase</div><div class="ttdoc">Accessor to the world database.</div><div class="ttdef"><b>Definition:</b> DatabaseEnv.cpp:20</div></div>
+<div class="ttc" id="aa05734_html"><div class="ttname"><a href="../../d1/d52/a05734.html">Field</a></div><div class="ttdoc">Class used to access individual fields of database query result.</div><div class="ttdef"><b>Definition:</b> Field.h:98</div></div>
+<div class="ttc" id="aa05734_html_aae507d21d3570ffdaf1643ba02946f01"><div class="ttname"><a href="../../d1/d52/a05734.html#aae507d21d3570ffdaf1643ba02946f01">Field::Get</a></div><div class="ttdeci">std::enable_if_t&lt; std::is_arithmetic_v&lt; T &gt;, T &gt; Get() const</div><div class="ttdef"><b>Definition:</b> Field.h:112</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00112">Field::Get()</a>, <a class="el" href="../../#l00158">LOG_ERROR</a>, and <a class="el" href="../../#l00020">WorldDatabase</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00164">ChangeCurrentSeason()</a>, and <a class="el" href="../../#l00109">LoadActiveSeason()</a>.</p>
+
+</div>
+</div>
+<a id="ae07db874a46e7d1cc8c60105635bbdf0" name="ae07db874a46e7d1cc8c60105635bbdf0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae07db874a46e7d1cc8c60105635bbdf0">&#9670;&#160;</a></span>GetCurrentSeason()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> ArenaSeasonMgr::GetCurrentSeason </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  104</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d7/d22/a07246.html#a168a36d3ae1818f22acfb168e932c10c">_currentSeason</a>; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00120">_currentSeason</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00134">CanDeleteArenaTeams()</a>, and <a class="el" href="../../#l00125">RewardTeamsForTheSeason()</a>.</p>
+
+</div>
+</div>
+<a id="abff2ff6a3e08f37b00405f5f688cb08d" name="abff2ff6a3e08f37b00405f5f688cb08d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abff2ff6a3e08f37b00405f5f688cb08d">&#9670;&#160;</a></span>GetSeasonState()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/daf/a02972.html#a64f8715fead51dc9727d105bce4d0e38">ArenaSeasonState</a> ArenaSeasonMgr::GetSeasonState </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  107</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d7/d22/a07246.html#af73eb610ed7b0e908c206aac14f2c452">_currentSeasonState</a>; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00121">_currentSeasonState</a>.</p>
+
+</div>
+</div>
+<a id="ad9299d5394ee20830fe9aca038575ce0" name="ad9299d5394ee20830fe9aca038575ce0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad9299d5394ee20830fe9aca038575ce0">&#9670;&#160;</a></span>instance()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d7/d22/a07246.html">ArenaSeasonMgr</a> * ArenaSeasonMgr::instance </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   27</span>{</div>
+<div class="line"><span class="lineno">   28</span>    <span class="keyword">static</span> <a class="code hl_class" href="../../d7/d22/a07246.html">ArenaSeasonMgr</a> <a class="code hl_function" href="../../d7/d22/a07246.html#ad9299d5394ee20830fe9aca038575ce0">instance</a>;</div>
+<div class="line"><span class="lineno">   29</span>    <span class="keywordflow">return</span> &amp;<a class="code hl_function" href="../../d7/d22/a07246.html#ad9299d5394ee20830fe9aca038575ce0">instance</a>;</div>
+<div class="line"><span class="lineno">   30</span>}</div>
+<div class="ttc" id="aa07246_html"><div class="ttname"><a href="../../d7/d22/a07246.html">ArenaSeasonMgr</a></div><div class="ttdef"><b>Definition:</b> ArenaSeasonMgr.h:92</div></div>
+<div class="ttc" id="aa07246_html_ad9299d5394ee20830fe9aca038575ce0"><div class="ttname"><a href="../../d7/d22/a07246.html#ad9299d5394ee20830fe9aca038575ce0">ArenaSeasonMgr::instance</a></div><div class="ttdeci">static ArenaSeasonMgr * instance()</div><div class="ttdef"><b>Definition:</b> ArenaSeasonMgr.cpp:26</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00026">instance()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00026">instance()</a>.</p>
+
+</div>
+</div>
+<a id="a81c47f17e571dd5ba2c2617bdef09694" name="a81c47f17e571dd5ba2c2617bdef09694"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a81c47f17e571dd5ba2c2617bdef09694">&#9670;&#160;</a></span>LoadActiveSeason()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void ArenaSeasonMgr::LoadActiveSeason </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  110</span>{</div>
+<div class="line"><span class="lineno">  111</span>    <a class="code hl_typedef" href="../../de/d69/a04679.html#ab0c9feeec448a181290fcb39565b8253">QueryResult</a> result = <a class="code hl_variable" href="../../d6/d12/a04691.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.Query(<span class="stringliteral">&quot;SELECT season_id, season_state FROM active_arena_season&quot;</span>);</div>
+<div class="line"><span class="lineno">  112</span>    <a class="code hl_define" href="../../dc/d9a/a00218.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(result, <span class="stringliteral">&quot;active_arena_season can&#39;t be empty&quot;</span>);</div>
+<div class="line"><span class="lineno">  113</span> </div>
+<div class="line"><span class="lineno">  114</span>    <a class="code hl_class" href="../../d1/d52/a05734.html">Field</a>* fields = result-&gt;Fetch();</div>
+<div class="line"><span class="lineno">  115</span>    <a class="code hl_variable" href="../../d7/d22/a07246.html#a168a36d3ae1818f22acfb168e932c10c">_currentSeason</a>      = fields[0].<a class="code hl_function" href="../../d1/d52/a05734.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&gt;();</div>
+<div class="line"><span class="lineno">  116</span>    <a class="code hl_variable" href="../../d7/d22/a07246.html#af73eb610ed7b0e908c206aac14f2c452">_currentSeasonState</a> = <span class="keyword">static_cast&lt;</span><a class="code hl_enumeration" href="../../d0/daf/a02972.html#a64f8715fead51dc9727d105bce4d0e38">ArenaSeasonState</a><span class="keyword">&gt;</span>(fields[1].<a class="code hl_function" href="../../d1/d52/a05734.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&gt;());</div>
+<div class="line"><span class="lineno">  117</span> </div>
+<div class="line"><span class="lineno">  118</span>    <a class="code hl_typedef" href="../../d0/d61/a00302.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> eventID = <a class="code hl_function" href="../../d7/d22/a07246.html#a3bef72c5136e9920f8b4e0438f3f1628">GameEventForArenaSeason</a>(<a class="code hl_variable" href="../../d7/d22/a07246.html#a168a36d3ae1818f22acfb168e932c10c">_currentSeason</a>);</div>
+<div class="line"><span class="lineno">  119</span>    <a class="code hl_define" href="../../d9/d0d/a03995.html#a3c1c916d94272dfe845b9cc5e8fc292a">sGameEventMgr</a>-&gt;StartEvent(eventID, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  120</span> </div>
+<div class="line"><span class="lineno">  121</span>    <a class="code hl_define" href="../../d5/d0f/a00494.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;Arena Season {} loaded...&quot;</span>, <a class="code hl_variable" href="../../d7/d22/a07246.html#a168a36d3ae1818f22acfb168e932c10c">_currentSeason</a>);</div>
+<div class="line"><span class="lineno">  122</span>    <a class="code hl_define" href="../../d5/d0f/a00494.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
+<div class="line"><span class="lineno">  123</span>}</div>
+<div class="ttc" id="aa00218_html_af343b20373ba49a92fce523e948f2ab3"><div class="ttname"><a href="../../dc/d9a/a00218.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a></div><div class="ttdeci">#define ASSERT</div><div class="ttdef"><b>Definition:</b> Errors.h:68</div></div>
+<div class="ttc" id="aa00302_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition:</b> Define.h:109</div></div>
+<div class="ttc" id="aa00494_html_a271e427d8e8481efd5cd5f537ec9e419"><div class="ttname"><a href="../../d5/d0f/a00494.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a></div><div class="ttdeci">#define LOG_INFO(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:166</div></div>
+<div class="ttc" id="aa02972_html_a64f8715fead51dc9727d105bce4d0e38"><div class="ttname"><a href="../../d0/daf/a02972.html#a64f8715fead51dc9727d105bce4d0e38">ArenaSeasonState</a></div><div class="ttdeci">ArenaSeasonState</div><div class="ttdef"><b>Definition:</b> ArenaSeasonMgr.h:27</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00120">_currentSeason</a>, <a class="el" href="../../#l00121">_currentSeasonState</a>, <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00021">CharacterDatabase</a>, <a class="el" href="../../#l00195">GameEventForArenaSeason()</a>, <a class="el" href="../../#l00112">Field::Get()</a>, <a class="el" href="../../#l00166">LOG_INFO</a>, and <a class="el" href="../../#l00201">sGameEventMgr</a>.</p>
+
+</div>
+</div>
+<a id="a495f7d12cbe5a4bfb09a9a6de45c17e1" name="a495f7d12cbe5a4bfb09a9a6de45c17e1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a495f7d12cbe5a4bfb09a9a6de45c17e1">&#9670;&#160;</a></span>LoadRewards()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void ArenaSeasonMgr::LoadRewards </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   33</span>{</div>
+<div class="line"><span class="lineno">   34</span>    <a class="code hl_typedef" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> oldMSTime = <a class="code hl_function" href="../../d1/d44/a00098.html#a4476c8e13ea790c3536f2749105f9cb9">getMSTime</a>();</div>
+<div class="line"><span class="lineno">   35</span> </div>
+<div class="line"><span class="lineno">   36</span>    std::unordered_map&lt;std::string, ArenaSeasonRewardGroupCriteriaType&gt; stringToArenaSeasonRewardGroupCriteriaType = {</div>
+<div class="line"><span class="lineno">   37</span>        {<span class="stringliteral">&quot;pct&quot;</span>, ArenaSeasonRewardGroupCriteriaType::ARENA_SEASON_REWARD_CRITERIA_TYPE_PERCENT_VALUE},</div>
+<div class="line"><span class="lineno">   38</span>        {<span class="stringliteral">&quot;abs&quot;</span>, ArenaSeasonRewardGroupCriteriaType::ARENA_SEASON_REWARD_CRITERIA_TYPE_ABSOLUTE_VALUE}</div>
+<div class="line"><span class="lineno">   39</span>    };</div>
+<div class="line"><span class="lineno">   40</span> </div>
+<div class="line"><span class="lineno">   41</span>    <a class="code hl_typedef" href="../../de/d69/a04679.html#ab0c9feeec448a181290fcb39565b8253">QueryResult</a> result = <a class="code hl_variable" href="../../d6/d12/a04691.html#afa9a6509f9913c9c7dd3081523badd7c">WorldDatabase</a>.Query(<span class="stringliteral">&quot;SELECT id, arena_season, criteria_type, min_criteria, max_criteria, reward_mail_template_id, reward_mail_subject, reward_mail_body, gold_reward FROM arena_season_reward_group&quot;</span>);</div>
+<div class="line"><span class="lineno">   42</span> </div>
+<div class="line"><span class="lineno">   43</span>    <span class="keywordflow">if</span> (!result)</div>
+<div class="line"><span class="lineno">   44</span>    {</div>
+<div class="line"><span class="lineno">   45</span>        <a class="code hl_define" href="../../d5/d0f/a00494.html#adf09840a666e1d86bcd3439105db6edc">LOG_WARN</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt;&gt; Loaded 0 arena season rewards. DB table `arena_season_reward_group` is empty.&quot;</span>);</div>
+<div class="line"><span class="lineno">   46</span>        <a class="code hl_define" href="../../d5/d0f/a00494.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
+<div class="line"><span class="lineno">   47</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">   48</span>    }</div>
+<div class="line"><span class="lineno">   49</span> </div>
+<div class="line"><span class="lineno">   50</span>    std::unordered_map&lt;uint32, ArenaSeasonRewardGroup&gt; groupsMap;</div>
+<div class="line"><span class="lineno">   51</span> </div>
+<div class="line"><span class="lineno">   52</span>    <span class="keywordflow">do</span></div>
+<div class="line"><span class="lineno">   53</span>    {</div>
+<div class="line"><span class="lineno">   54</span>        <a class="code hl_class" href="../../d1/d52/a05734.html">Field</a>* fields = result-&gt;Fetch();</div>
+<div class="line"><span class="lineno">   55</span>        <a class="code hl_typedef" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> <span class="keywordtype">id</span> = fields[0].<a class="code hl_function" href="../../d1/d52/a05734.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
+<div class="line"><span class="lineno">   56</span> </div>
+<div class="line"><span class="lineno">   57</span>        <a class="code hl_struct" href="../../d3/d34/a07242.html">ArenaSeasonRewardGroup</a> group;</div>
+<div class="line"><span class="lineno">   58</span>        group.<a class="code hl_variable" href="../../d3/d34/a07242.html#a2e6a5d2ca970d3921142b497d351c50f">season</a>               = fields[1].<a class="code hl_function" href="../../d1/d52/a05734.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&gt;();</div>
+<div class="line"><span class="lineno">   59</span>        group.criteriaType         = stringToArenaSeasonRewardGroupCriteriaType[fields[2].<a class="code hl_function" href="../../d1/d52/a05734.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;std::string&gt;()];</div>
+<div class="line"><span class="lineno">   60</span>        group.minCriteria          = fields[3].<a class="code hl_function" href="../../d1/d52/a05734.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<span class="keywordtype">float</span>&gt;();</div>
+<div class="line"><span class="lineno">   61</span>        group.maxCriteria          = fields[4].<a class="code hl_function" href="../../d1/d52/a05734.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<span class="keywordtype">float</span>&gt;();</div>
+<div class="line"><span class="lineno">   62</span>        group.rewardMailTemplateID = fields[5].<a class="code hl_function" href="../../d1/d52/a05734.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
+<div class="line"><span class="lineno">   63</span>        group.rewardMailSubject    = fields[6].<a class="code hl_function" href="../../d1/d52/a05734.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;std::string&gt;();</div>
+<div class="line"><span class="lineno">   64</span>        group.rewardMailBody       = fields[7].<a class="code hl_function" href="../../d1/d52/a05734.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;std::string&gt;();</div>
+<div class="line"><span class="lineno">   65</span>        group.goldReward           = fields[8].<a class="code hl_function" href="../../d1/d52/a05734.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
+<div class="line"><span class="lineno">   66</span> </div>
+<div class="line"><span class="lineno">   67</span>        groupsMap[id] = group;</div>
+<div class="line"><span class="lineno">   68</span>    } <span class="keywordflow">while</span> (result-&gt;NextRow());</div>
+<div class="line"><span class="lineno">   69</span> </div>
+<div class="line"><span class="lineno">   70</span>    std::unordered_map&lt;std::string, ArenaSeasonRewardType&gt; stringToArenaSeasonRewardType = {</div>
+<div class="line"><span class="lineno">   71</span>        {<span class="stringliteral">&quot;achievement&quot;</span>, ArenaSeasonRewardType::ARENA_SEASON_REWARD_TYPE_ACHIEVEMENT},</div>
+<div class="line"><span class="lineno">   72</span>        {<span class="stringliteral">&quot;item&quot;</span>, ArenaSeasonRewardType::ARENA_SEASON_REWARD_TYPE_ITEM}</div>
+<div class="line"><span class="lineno">   73</span>    };</div>
+<div class="line"><span class="lineno">   74</span> </div>
+<div class="line"><span class="lineno">   75</span>    result = <a class="code hl_variable" href="../../d6/d12/a04691.html#afa9a6509f9913c9c7dd3081523badd7c">WorldDatabase</a>.Query(<span class="stringliteral">&quot;SELECT group_id, type, entry FROM arena_season_reward&quot;</span>);</div>
+<div class="line"><span class="lineno">   76</span> </div>
+<div class="line"><span class="lineno">   77</span>    <span class="keywordflow">if</span> (!result)</div>
+<div class="line"><span class="lineno">   78</span>    {</div>
+<div class="line"><span class="lineno">   79</span>        <a class="code hl_define" href="../../d5/d0f/a00494.html#adf09840a666e1d86bcd3439105db6edc">LOG_WARN</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt;&gt; Loaded 0 arena season rewards. DB table `arena_season_reward` is empty.&quot;</span>);</div>
+<div class="line"><span class="lineno">   80</span>        <a class="code hl_define" href="../../d5/d0f/a00494.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
+<div class="line"><span class="lineno">   81</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">   82</span>    }</div>
+<div class="line"><span class="lineno">   83</span> </div>
+<div class="line"><span class="lineno">   84</span>    <span class="keywordflow">do</span></div>
+<div class="line"><span class="lineno">   85</span>    {</div>
+<div class="line"><span class="lineno">   86</span>        <a class="code hl_class" href="../../d1/d52/a05734.html">Field</a>* fields = result-&gt;Fetch();</div>
+<div class="line"><span class="lineno">   87</span>        <a class="code hl_typedef" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> groupId = fields[0].<a class="code hl_function" href="../../d1/d52/a05734.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
+<div class="line"><span class="lineno">   88</span> </div>
+<div class="line"><span class="lineno">   89</span>        <a class="code hl_struct" href="../../d1/ddc/a07238.html">ArenaSeasonReward</a> reward;</div>
+<div class="line"><span class="lineno">   90</span>        reward.<a class="code hl_variable" href="../../d1/ddc/a07238.html#ac4c8cff64cf2eb7f34d28080a2a5528b">type</a>  = stringToArenaSeasonRewardType[fields[1].<a class="code hl_function" href="../../d1/d52/a05734.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;std::string&gt;()];</div>
+<div class="line"><span class="lineno">   91</span>        reward.entry = fields[2].<a class="code hl_function" href="../../d1/d52/a05734.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
+<div class="line"><span class="lineno">   92</span> </div>
+<div class="line"><span class="lineno">   93</span>        <span class="keyword">auto</span> itr = groupsMap.find(groupId);</div>
+<div class="line"><span class="lineno">   94</span>        <a class="code hl_define" href="../../dc/d9a/a00218.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(itr != groupsMap.end(), <span class="stringliteral">&quot;Unknown arena_season_reward_group ({}) in arena_season_reward&quot;</span>, groupId);</div>
+<div class="line"><span class="lineno">   95</span> </div>
+<div class="line"><span class="lineno">   96</span>        (reward.type == <a class="code hl_enumvalue" href="../../d0/daf/a02972.html#a89a1f93759bb943ff9ef0e4991579265a124351d53a1d14813bc7af90043d8a32">ARENA_SEASON_REWARD_TYPE_ITEM</a>) ?</div>
+<div class="line"><span class="lineno">   97</span>            groupsMap[groupId].itemRewards.push_back(reward) :</div>
+<div class="line"><span class="lineno">   98</span>            groupsMap[groupId].achievementRewards.push_back(reward);</div>
+<div class="line"><span class="lineno">   99</span> </div>
+<div class="line"><span class="lineno">  100</span>    } <span class="keywordflow">while</span> (result-&gt;NextRow());</div>
+<div class="line"><span class="lineno">  101</span> </div>
+<div class="line"><span class="lineno">  102</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; itr : groupsMap)</div>
+<div class="line"><span class="lineno">  103</span>        <a class="code hl_variable" href="../../d7/d22/a07246.html#a90d508c6ffb7c7277d0e6c6f27bafc33">_arenaSeasonRewardGroupsStore</a>[itr.second.season].push_back(itr.second);</div>
+<div class="line"><span class="lineno">  104</span> </div>
+<div class="line"><span class="lineno">  105</span>    <a class="code hl_define" href="../../d5/d0f/a00494.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt;&gt; Loaded {} arena season rewards in {} ms&quot;</span>, (<a class="code hl_typedef" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>)groupsMap.size(), <a class="code hl_function" href="../../d1/d44/a00098.html#a23a2c8663a05f2b03a6f85501972e8c0">GetMSTimeDiffToNow</a>(oldMSTime));</div>
+<div class="line"><span class="lineno">  106</span>    <a class="code hl_define" href="../../d5/d0f/a00494.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
+<div class="line"><span class="lineno">  107</span>}</div>
+<div class="ttc" id="aa00098_html_a23a2c8663a05f2b03a6f85501972e8c0"><div class="ttname"><a href="../../d1/d44/a00098.html#a23a2c8663a05f2b03a6f85501972e8c0">GetMSTimeDiffToNow</a></div><div class="ttdeci">uint32 GetMSTimeDiffToNow(uint32 oldMSTime)</div><div class="ttdef"><b>Definition:</b> Timer.h:131</div></div>
+<div class="ttc" id="aa00098_html_a4476c8e13ea790c3536f2749105f9cb9"><div class="ttname"><a href="../../d1/d44/a00098.html#a4476c8e13ea790c3536f2749105f9cb9">getMSTime</a></div><div class="ttdeci">uint32 getMSTime()</div><div class="ttdef"><b>Definition:</b> Timer.h:103</div></div>
+<div class="ttc" id="aa00302_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
+<div class="ttc" id="aa00494_html_adf09840a666e1d86bcd3439105db6edc"><div class="ttname"><a href="../../d5/d0f/a00494.html#adf09840a666e1d86bcd3439105db6edc">LOG_WARN</a></div><div class="ttdeci">#define LOG_WARN(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:162</div></div>
+<div class="ttc" id="aa02972_html_a89a1f93759bb943ff9ef0e4991579265a124351d53a1d14813bc7af90043d8a32"><div class="ttname"><a href="../../d0/daf/a02972.html#a89a1f93759bb943ff9ef0e4991579265a124351d53a1d14813bc7af90043d8a32">ARENA_SEASON_REWARD_TYPE_ITEM</a></div><div class="ttdeci">@ ARENA_SEASON_REWARD_TYPE_ITEM</div><div class="ttdef"><b>Definition:</b> ArenaSeasonMgr.h:34</div></div>
+<div class="ttc" id="aa07238_html"><div class="ttname"><a href="../../d1/ddc/a07238.html">ArenaSeasonReward</a></div><div class="ttdef"><b>Definition:</b> ArenaSeasonMgr.h:46</div></div>
+<div class="ttc" id="aa07238_html_ac4c8cff64cf2eb7f34d28080a2a5528b"><div class="ttname"><a href="../../d1/ddc/a07238.html#ac4c8cff64cf2eb7f34d28080a2a5528b">ArenaSeasonReward::type</a></div><div class="ttdeci">ArenaSeasonRewardType type</div><div class="ttdef"><b>Definition:</b> ArenaSeasonMgr.h:52</div></div>
+<div class="ttc" id="aa07242_html"><div class="ttname"><a href="../../d3/d34/a07242.html">ArenaSeasonRewardGroup</a></div><div class="ttdef"><b>Definition:</b> ArenaSeasonMgr.h:62</div></div>
+<div class="ttc" id="aa07242_html_a2e6a5d2ca970d3921142b497d351c50f"><div class="ttname"><a href="../../d3/d34/a07242.html#a2e6a5d2ca970d3921142b497d351c50f">ArenaSeasonRewardGroup::season</a></div><div class="ttdeci">uint8 season</div><div class="ttdef"><b>Definition:</b> ArenaSeasonMgr.h:65</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00118">_arenaSeasonRewardGroupsStore</a>, <a class="el" href="../../#l00034">ARENA_SEASON_REWARD_TYPE_ITEM</a>, <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00112">Field::Get()</a>, <a class="el" href="../../#l00103">getMSTime()</a>, <a class="el" href="../../#l00131">GetMSTimeDiffToNow()</a>, <a class="el" href="../../#l00166">LOG_INFO</a>, <a class="el" href="../../#l00162">LOG_WARN</a>, <a class="el" href="../../#l00065">ArenaSeasonRewardGroup::season</a>, <a class="el" href="../../#l00052">ArenaSeasonReward::type</a>, and <a class="el" href="../../#l00020">WorldDatabase</a>.</p>
+
+</div>
+</div>
+<a id="a4c1069779f69aa3eae885540fa2b31e6" name="a4c1069779f69aa3eae885540fa2b31e6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4c1069779f69aa3eae885540fa2b31e6">&#9670;&#160;</a></span>RewardTeamsForTheSeason()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void ArenaSeasonMgr::RewardTeamsForTheSeason </td>
+          <td>(</td>
+          <td class="paramtype">std::shared_ptr&lt; <a class="el" href="../../da/d0c/a07262.html">ArenaTeamFilter</a> &gt;&#160;</td>
+          <td class="paramname"><em>teamsFilter</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  126</span>{</div>
+<div class="line"><span class="lineno">  127</span>    <a class="code hl_class" href="../../df/d01/a07254.html">ArenaSeasonTeamRewarderImpl</a> rewarder = <a class="code hl_class" href="../../df/d01/a07254.html">ArenaSeasonTeamRewarderImpl</a>();</div>
+<div class="line"><span class="lineno">  128</span>    <a class="code hl_class" href="../../de/d00/a07258.html">ArenaSeasonRewardDistributor</a> distributor = <a class="code hl_class" href="../../de/d00/a07258.html">ArenaSeasonRewardDistributor</a>(&amp;rewarder);</div>
+<div class="line"><span class="lineno">  129</span>    std::vector&lt;ArenaSeasonRewardGroup&gt; rewards = <a class="code hl_variable" href="../../d7/d22/a07246.html#a90d508c6ffb7c7277d0e6c6f27bafc33">_arenaSeasonRewardGroupsStore</a>[<a class="code hl_function" href="../../d7/d22/a07246.html#ae07db874a46e7d1cc8c60105635bbdf0">GetCurrentSeason</a>()];</div>
+<div class="line"><span class="lineno">  130</span>    <a class="code hl_typedef" href="../../db/d8a/a07290.html#ac76e895599b64e0824e923faf9c08560">ArenaTeamMgr::ArenaTeamContainer</a> filteredTeams = teamsFilter-&gt;Filter(<a class="code hl_define" href="../../de/d27/a03002.html#a94afc7262fb2f00293dc80de8ba547df">sArenaTeamMgr</a>-&gt;GetArenaTeams());</div>
+<div class="line"><span class="lineno">  131</span>    distributor.<a class="code hl_function" href="../../de/d00/a07258.html#a93640633dc11edda2cd1fce4f1da496b">DistributeRewards</a>(filteredTeams, rewards);</div>
+<div class="line"><span class="lineno">  132</span>}</div>
+<div class="ttc" id="aa07254_html"><div class="ttname"><a href="../../df/d01/a07254.html">ArenaSeasonTeamRewarderImpl</a></div><div class="ttdef"><b>Definition:</b> ArenaSeasonRewardsDistributor.h:34</div></div>
+<div class="ttc" id="aa07258_html"><div class="ttname"><a href="../../de/d00/a07258.html">ArenaSeasonRewardDistributor</a></div><div class="ttdef"><b>Definition:</b> ArenaSeasonRewardsDistributor.h:44</div></div>
+<div class="ttc" id="aa07258_html_a93640633dc11edda2cd1fce4f1da496b"><div class="ttname"><a href="../../de/d00/a07258.html#a93640633dc11edda2cd1fce4f1da496b">ArenaSeasonRewardDistributor::DistributeRewards</a></div><div class="ttdeci">void DistributeRewards(ArenaTeamMgr::ArenaTeamContainer &amp;arenaTeams, std::vector&lt; ArenaSeasonRewardGroup &gt; &amp;rewardGroups)</div><div class="ttdef"><b>Definition:</b> ArenaSeasonRewardsDistributor.cpp:109</div></div>
+<div class="ttc" id="aa07290_html_ac76e895599b64e0824e923faf9c08560"><div class="ttname"><a href="../../db/d8a/a07290.html#ac76e895599b64e0824e923faf9c08560">ArenaTeamMgr::ArenaTeamContainer</a></div><div class="ttdeci">std::unordered_map&lt; uint32, ArenaTeam * &gt; ArenaTeamContainer</div><div class="ttdef"><b>Definition:</b> ArenaTeamMgr.h:34</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00118">_arenaSeasonRewardGroupsStore</a>, <a class="el" href="../../#l00109">ArenaSeasonRewardDistributor::DistributeRewards()</a>, <a class="el" href="../../#l00104">GetCurrentSeason()</a>, and <a class="el" href="../../#l00069">sArenaTeamMgr</a>.</p>
+
+</div>
+</div>
+<a id="a118910793bb11fba35b0cd6b28e248a8" name="a118910793bb11fba35b0cd6b28e248a8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a118910793bb11fba35b0cd6b28e248a8">&#9670;&#160;</a></span>SetSeasonState()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void ArenaSeasonMgr::SetSeasonState </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/daf/a02972.html#a64f8715fead51dc9727d105bce4d0e38">ArenaSeasonState</a>&#160;</td>
+          <td class="paramname"><em>state</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  184</span>{</div>
+<div class="line"><span class="lineno">  185</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d7/d22/a07246.html#af73eb610ed7b0e908c206aac14f2c452">_currentSeasonState</a> == state)</div>
+<div class="line"><span class="lineno">  186</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  187</span> </div>
+<div class="line"><span class="lineno">  188</span>    <a class="code hl_variable" href="../../d7/d22/a07246.html#af73eb610ed7b0e908c206aac14f2c452">_currentSeasonState</a> = state;</div>
+<div class="line"><span class="lineno">  189</span> </div>
+<div class="line"><span class="lineno">  190</span>    <a class="code hl_variable" href="../../d6/d12/a04691.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.Execute(<span class="stringliteral">&quot;UPDATE active_arena_season SET season_state = {}&quot;</span>, <a class="code hl_variable" href="../../d7/d22/a07246.html#af73eb610ed7b0e908c206aac14f2c452">_currentSeasonState</a>);</div>
+<div class="line"><span class="lineno">  191</span> </div>
+<div class="line"><span class="lineno">  192</span>    <a class="code hl_function" href="../../d7/d22/a07246.html#ae40b9d3ff73604045d1d7f6c59487f95">BroadcastUpdatedWorldState</a>();</div>
+<div class="line"><span class="lineno">  193</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00121">_currentSeasonState</a>, <a class="el" href="../../#l00209">BroadcastUpdatedWorldState()</a>, and <a class="el" href="../../#l00021">CharacterDatabase</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a id="a90d508c6ffb7c7277d0e6c6f27bafc33" name="a90d508c6ffb7c7277d0e6c6f27bafc33"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a90d508c6ffb7c7277d0e6c6f27bafc33">&#9670;&#160;</a></span>_arenaSeasonRewardGroupsStore</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d7/d22/a07246.html#a510f51e8cd7ad494dc2f0dd25640e924">ArenaSeasonRewardGroupsBySeasonContainer</a> ArenaSeasonMgr::_arenaSeasonRewardGroupsStore</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
 
-<p>Implements <a class="el" href="../../d1/ddc/a07238.html#a9a0bcfa1e5e79d2539465d84b44a235c">ArenaTeamFilter</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">   74</span>    {</div>
-<div class="line"><span class="lineno">   75</span>        <span class="keywordflow">return</span> teams;</div>
-<div class="line"><span class="lineno">   76</span>    }</div>
-</div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00072">TEST_F()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00134">CanDeleteArenaTeams()</a>, <a class="el" href="../../#l00032">LoadRewards()</a>, and <a class="el" href="../../#l00125">RewardTeamsForTheSeason()</a>.</p>
+
+</div>
+</div>
+<a id="a168a36d3ae1818f22acfb168e932c10c" name="a168a36d3ae1818f22acfb168e932c10c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a168a36d3ae1818f22acfb168e932c10c">&#9670;&#160;</a></span>_currentSeason</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> ArenaSeasonMgr::_currentSeason {}</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00164">ChangeCurrentSeason()</a>, <a class="el" href="../../#l00104">GetCurrentSeason()</a>, and <a class="el" href="../../#l00109">LoadActiveSeason()</a>.</p>
+
+</div>
+</div>
+<a id="af73eb610ed7b0e908c206aac14f2c452" name="af73eb610ed7b0e908c206aac14f2c452"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af73eb610ed7b0e908c206aac14f2c452">&#9670;&#160;</a></span>_currentSeasonState</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/daf/a02972.html#a64f8715fead51dc9727d105bce4d0e38">ArenaSeasonState</a> ArenaSeasonMgr::_currentSeasonState {}</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00164">ChangeCurrentSeason()</a>, <a class="el" href="../../#l00107">GetSeasonState()</a>, <a class="el" href="../../#l00109">LoadActiveSeason()</a>, and <a class="el" href="../../#l00183">SetSeasonState()</a>.</p>
 
 </div>
 </div>
@@ -172,8 +769,8 @@ Public Member Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d7/d22/a07246.html">ArenaTeamFilterAllTeams</a></li>
-    <li class="footer">Generated on Mon Aug 4 2025 20:51:04 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d7/d22/a07246.html">ArenaSeasonMgr</a></li>
+    <li class="footer">Generated on Mon Sep 1 2025 20:43:29 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

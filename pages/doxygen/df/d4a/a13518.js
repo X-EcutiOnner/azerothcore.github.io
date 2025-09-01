@@ -1,12 +1,10 @@
 var a13518 =
 [
-    [ "boss_twilight_corrupter", "df/d4a/a13518.html#afe140d6231d9ad8543e17c4a8a8230c0", null ],
-    [ "InitializeAI", "df/d4a/a13518.html#afe06461e9f3e1549da6631d2f89406c4", null ],
-    [ "JustEngagedWith", "df/d4a/a13518.html#a84803153e7e7d5d7efe0106139214b1f", null ],
-    [ "KilledUnit", "df/d4a/a13518.html#aa18d2fc90e1ccd322ec9d3128ba206d2", null ],
-    [ "MoveInLineOfSight", "df/d4a/a13518.html#a637cdd43f2f9a4f773b4b8e8f3c88730", null ],
-    [ "Reset", "df/d4a/a13518.html#a27720f58056206c09bce41ae50018a83", null ],
-    [ "UpdateAI", "df/d4a/a13518.html#a580fbaa55a5c0193c1ef2c6b281d8d9e", null ],
-    [ "_introSpoken", "df/d4a/a13518.html#a1924750c9d41ed588a29aace3c40742d", null ],
-    [ "_scheduler", "df/d4a/a13518.html#a6c49eee2be24199418096cc48c50d384", null ]
+    [ "MoveDelayed", "df/d4a/a13518.html#a3bf695ce31bb531b134c6c7018f4f197", null ],
+    [ "Execute", "df/d4a/a13518.html#aa0db97475196b58bbed1f6bff1440fc6", null ],
+    [ "_o", "df/d4a/a13518.html#ad0d76a04b7e85ea8667b05ec438316a0", null ],
+    [ "_owner", "df/d4a/a13518.html#a2f7baa4bc22adeac8136df7269eb2895", null ],
+    [ "_x", "df/d4a/a13518.html#aa490d19022c27932e76af38281fe158b", null ],
+    [ "_y", "df/d4a/a13518.html#a195fc5719683ad645f36b06fd4f60d9f", null ],
+    [ "_z", "df/d4a/a13518.html#a6aafdee829472bf22102645e1ff5e7a6", null ]
 ];

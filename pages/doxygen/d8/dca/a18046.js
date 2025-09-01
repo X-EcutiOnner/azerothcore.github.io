@@ -1,10 +1,7 @@
 var a18046 =
 [
-    [ "CountTargets", "d8/dca/a18046.html#a042c3f2ee73533b397a2d697d1da6563", null ],
-    [ "HandleDummy", "d8/dca/a18046.html#ab314680d5349c0c3e449694b92ab7311", null ],
-    [ "Load", "d8/dca/a18046.html#a534e9f5ee9aa29603cfc205c2c2d580f", null ],
-    [ "PrepareSpellScript", "d8/dca/a18046.html#a8b831c01cd9fd997279f6a81170786de", null ],
-    [ "Register", "d8/dca/a18046.html#ab0d87ba23eb252075cb0779b06813a31", null ],
-    [ "SelectDest", "d8/dca/a18046.html#a6061486d0067af51c8ef079224ea63f1", null ],
-    [ "_targetCount", "d8/dca/a18046.html#a58f839370a885c450e6742cbb3116784", null ]
+    [ "HandleTriggerSpell", "d8/dca/a18046.html#a7d7f1731c453e5d0b70e6093aeedea87", null ],
+    [ "PrepareAuraScript", "d8/dca/a18046.html#afff0c81696ddcb427ce105d510ef93b1", null ],
+    [ "Register", "d8/dca/a18046.html#aa50c6066115d7b60704eff48e77d10bd", null ],
+    [ "Validate", "d8/dca/a18046.html#a6ef56d3d18bab2f81c810160ecf3ae96", null ]
 ];

@@ -1,5 +1,5 @@
 var a23986 =
 [
-    [ "go_simon_cluster", "d7/d87/a23986.html#adac53a8451abd6ace227a66afc7e61e8", null ],
-    [ "OnGossipHello", "d7/d87/a23986.html#a9fd9799604de44c91803511c45b67786", null ]
+    [ "npc_lord_sanguinar", "d7/d87/a23986.html#aa5ec2023d72561fe9cf062a2ba5a5469", null ],
+    [ "ScheduleEvents", "d7/d87/a23986.html#af9231da98547875527a519c5884cbec0", null ]
 ];

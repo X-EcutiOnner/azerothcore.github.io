@@ -1,9 +1,9 @@
 var a14590 =
 [
-    [ "boss_azuregosAI", "d2/d7e/a14590.html#a839ab1e096d30062d64c1c515a7462a4", null ],
-    [ "JustDied", "d2/d7e/a14590.html#aea4d204173b7882d2d9acf8204410947", null ],
-    [ "JustEngagedWith", "d2/d7e/a14590.html#ac17c09d4de27e3b3a299bb8288ef79f8", null ],
-    [ "KilledUnit", "d2/d7e/a14590.html#aeefc791e17d2a687f8beae809c44d123", null ],
-    [ "Reset", "d2/d7e/a14590.html#a3f9584a7cf4e27f57eec2c5babb7aff1", null ],
-    [ "UpdateAI", "d2/d7e/a14590.html#aafdfce2d21d5890ead413a2d9fe1b65d", null ]
+    [ "npc_love_in_air_snivel", "d2/d7e/a14590.html#ab04596fb96292f54cf2a10f662dc94a3", null ],
+    [ "AllowAction", "d2/d7e/a14590.html#af1097317f62bbb8f8456124001c73576", null ],
+    [ "MoveInLineOfSight", "d2/d7e/a14590.html#ae6537707109b95fad20e521d07867cdd", null ],
+    [ "Reset", "d2/d7e/a14590.html#a2385ea44d9f44735b193add4a0d0485b", null ],
+    [ "UpdateAI", "d2/d7e/a14590.html#a9e712994663e3442359d2f574ebc812c", null ],
+    [ "delay", "d2/d7e/a14590.html#a548db6245ef875ec47279246e437934c", null ]
 ];

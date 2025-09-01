@@ -1,6 +1,8 @@
 var a00560 =
 [
-    [ "Acore::BroadcastTextBuilder", "d0/d60/a11362.html", "d0/d60/a11362" ],
-    [ "Acore::CustomChatTextBuilder", "d0/de6/a11366.html", "d0/de6/a11366" ],
-    [ "Acore::AcoreStringChatBuilder", "da/d75/a11370.html", "da/d75/a11370" ]
+    [ "Vec3D", "d7/dd1/a28974.html", "d7/dd1/a28974" ],
+    [ "AaBox3D", "d6/d50/a28978.html", "d6/d50/a28978" ],
+    [ "Vec2D", "df/dc5/a28982.html", "df/dc5/a28982" ],
+    [ "Quaternion", "d5/d21/a28986.html", "d5/d21/a28986" ],
+    [ "rotate", "d9/d19/a00560.html#a36f9f3de1d3e6935da68df2c6e347a4d", null ]
 ];

@@ -1,8 +1,6 @@
 var a12534 =
 [
-    [ "npc_lava_spawn", "d3/d0d/a12534.html#aff97441b2cfbcd68e0788be022ee6236", null ],
-    [ "JustEngagedWith", "d3/d0d/a12534.html#a3b93df8de3c0f8a50768b860cfa11b72", null ],
-    [ "Reset", "d3/d0d/a12534.html#ab774d354991c90b1421e6783c0513e59", null ],
-    [ "UpdateAI", "d3/d0d/a12534.html#a6a17c8c40b0110b688ff5faef5585185", null ],
-    [ "_scheduler", "d3/d0d/a12534.html#ab7a6b2beec095f3f903ad4443813cfce", null ]
+    [ "boss_gehennasAI", "d3/d0d/a12534.html#aaefd1f10d03957477863df95143a95a9", null ],
+    [ "ExecuteEvent", "d3/d0d/a12534.html#a1568cecdacc6afee23b4661c3dc0ae2b", null ],
+    [ "JustEngagedWith", "d3/d0d/a12534.html#ad932bb3d7079f53cf1bb2b7ad143b15d", null ]
 ];

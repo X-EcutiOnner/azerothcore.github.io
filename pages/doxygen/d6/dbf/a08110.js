@@ -1,7 +1,10 @@
 var a08110 =
 [
-    [ "entry", "d6/dbf/a08110.html#aabf7002fbd171e7f1832be5f066dbe44", null ],
-    [ "pos", "d6/dbf/a08110.html#aad6aa76796625075e4fcfb7d1a3eb88c", null ],
-    [ "time", "d6/dbf/a08110.html#a8a38eed04cdb2efb89e98f869e0d800d", null ],
-    [ "type", "d6/dbf/a08110.html#a40927a435b557e4c1e5c5eedbb5d5e5b", null ]
+    [ "BoxMessage", "d6/dbf/a08110.html#a450f6063a89db2d152370bc997c844a3", null ],
+    [ "BoxMoney", "d6/dbf/a08110.html#a52a12645b55f5757cc61e9a014a71f32", null ],
+    [ "IsCoded", "d6/dbf/a08110.html#accca334730f578bd28c0e9a7fe7ec0ab", null ],
+    [ "MenuItemIcon", "d6/dbf/a08110.html#a987724c4673be20f5386f44245267bc9", null ],
+    [ "Message", "d6/dbf/a08110.html#af130b33294cd49261b3c093cf6f9542c", null ],
+    [ "OptionType", "d6/dbf/a08110.html#a3df0c5fedb028b4fcce8ad5884cc0e6f", null ],
+    [ "Sender", "d6/dbf/a08110.html#aacc07cb5c755d698fe4cb2e228185e34", null ]
 ];

@@ -1,12 +1,11 @@
 var a20050 =
 [
-    [ "boss_freya_elder_stonebarkAI", "df/d2b/a20050.html#a492329e296aaf29861d76e12e2b94631", null ],
-    [ "DamageTaken", "df/d2b/a20050.html#af25c675f46f5ca0d0da170f367cc8bdc", null ],
-    [ "JustDied", "df/d2b/a20050.html#a8dcdf4a1c8df10fc8ca419de924fe136", null ],
-    [ "JustEngagedWith", "df/d2b/a20050.html#a77a231b75bbbbb56638e1e5535827150", null ],
-    [ "KilledUnit", "df/d2b/a20050.html#ad1ce26306c2ea2102183b0679d46efd3", null ],
-    [ "Reset", "df/d2b/a20050.html#a0d17571be8905c4c33ed4591e963d680", null ],
-    [ "UpdateAI", "df/d2b/a20050.html#acd21050c265f6703060f95f2e3c725f3", null ],
-    [ "_chargesCount", "df/d2b/a20050.html#a294714a547bbc7a7364c7477bdc0422c", null ],
-    [ "events", "df/d2b/a20050.html#a07bcbf839c3b0b3924ec1915b47af0f2", null ]
+    [ "boss_flame_leviathan_defense_turretAI", "df/d2b/a20050.html#aedf30f06fe89c805019f7cc254646ff1", null ],
+    [ "CanAIAttack", "df/d2b/a20050.html#a76efa1d88ce029775809abb3ec88efb3", null ],
+    [ "DamageTaken", "df/d2b/a20050.html#adedbbeeb01da20843bc85ac2daaed12a", null ],
+    [ "JustDied", "df/d2b/a20050.html#af261cc1f0458984719ab1bb4518bdc64", null ],
+    [ "KilledUnit", "df/d2b/a20050.html#aed3f2a4bac3391683989eec94697ef16", null ],
+    [ "UpdateAI", "df/d2b/a20050.html#a575eb381d1aa31af60484271ae6e4627", null ],
+    [ "_instance", "df/d2b/a20050.html#a8c0658a5d32355607cb16f6e1c83f83e", null ],
+    [ "_setHealth", "df/d2b/a20050.html#aeb220ded0a6515674a428716a8be9f48", null ]
 ];

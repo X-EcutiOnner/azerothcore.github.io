@@ -1,7 +1,6 @@
 var a21578 =
 [
-    [ "npc_mootoo_the_youngerAI", "d9/dee/a21578.html#a70a5a502dab9a90a790a90eabc5c3acd", null ],
-    [ "JustDied", "d9/dee/a21578.html#a766612f646a6d22d3f0e6f93298e34bc", null ],
-    [ "Reset", "d9/dee/a21578.html#a04624b9b4d552d6b27308edc3ad44644", null ],
-    [ "WaypointReached", "d9/dee/a21578.html#ac758a992ed0d62a272930c84d617b348", null ]
+    [ "npc_vh_sinclari", "d9/dee/a21578.html#ad0235f207a3031420532174c04e0c348", null ],
+    [ "OnGossipHello", "d9/dee/a21578.html#a95f0d094d417d9d6ce99d7c8aa83496f", null ],
+    [ "OnGossipSelect", "d9/dee/a21578.html#af0a260d7868f601ae239c226b10d4de3", null ]
 ];

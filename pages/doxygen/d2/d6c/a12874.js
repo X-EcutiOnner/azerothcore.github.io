@@ -1,6 +1,14 @@
 var a12874 =
 [
-    [ "CheckRequirement", "d2/d6c/a12874.html#a31d69034f463d552afa4063bf89271da", null ],
-    [ "PrepareSpellScript", "d2/d6c/a12874.html#adc2176d25d25167b8a1fa9517e2ab945", null ],
-    [ "Register", "d2/d6c/a12874.html#a5bb1eff829db1f7ecd3dbf61b821c328", null ]
+    [ "boss_strawman", "d2/d6c/a12874.html#a1789cdafc2ce03e156ac686e6859e25f", null ],
+    [ "DoAction", "d2/d6c/a12874.html#a57f9519f87bc8e7446632a49f56a02ca", null ],
+    [ "EnterEvadeMode", "d2/d6c/a12874.html#a67fd9b85406512cef4f3ae581461f0c4", null ],
+    [ "JustDied", "d2/d6c/a12874.html#ab175b0104d316b8929e32d9eb939780f", null ],
+    [ "JustEngagedWith", "d2/d6c/a12874.html#a40657516c4f1b049dd0514a50e299a10", null ],
+    [ "JustReachedHome", "d2/d6c/a12874.html#a4235b2de2540199f9570cbadb7326871", null ],
+    [ "KilledUnit", "d2/d6c/a12874.html#a06b92dbb6907ace60df7e10893be7af0", null ],
+    [ "SpellHit", "d2/d6c/a12874.html#a5bf558765b59a7950bd55ece14c07a4f", null ],
+    [ "UpdateAI", "d2/d6c/a12874.html#adcb7db7cb3f938b492a28c3540251ea9", null ],
+    [ "_scheduler", "d2/d6c/a12874.html#a409539c771b373c165bdbccac8a59e7f", null ],
+    [ "instance", "d2/d6c/a12874.html#a157a6faacf83432b8227173f6b14a7d3", null ]
 ];

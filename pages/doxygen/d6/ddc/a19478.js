@@ -1,9 +1,6 @@
 var a19478 =
 [
-    [ "HandleOnEffectApply", "d6/ddc/a19478.html#a6ab047004cc901331d747641f218cf6a", null ],
-    [ "HandleOnEffectRemove", "d6/ddc/a19478.html#a9f66217f4785c8240c4b074bbf04b96e", null ],
-    [ "PrepareAuraScript", "d6/ddc/a19478.html#aa94b30468b2c853c0d8b86658a43dee4", null ],
-    [ "Register", "d6/ddc/a19478.html#a83b0d414a6e97b434f82492fa01ac385", null ],
-    [ "Validate", "d6/ddc/a19478.html#a88af7f269f56e474434d51c7ac0eb0a0", null ],
-    [ "_drakeGUID", "d6/ddc/a19478.html#a2e0c7df73cc7246524f6d745ff1fbeb1", null ]
+    [ "ChargeRifts", "d6/ddc/a19478.html#aec98a12dec1f2ad98e00d399b0e2a1d5", null ],
+    [ "Execute", "d6/ddc/a19478.html#a8d01bf861d37c25413dc14eee16a2939", null ],
+    [ "_caster", "d6/ddc/a19478.html#a3cbf5f7e26de337dadd9d96a43d728b0", null ]
 ];

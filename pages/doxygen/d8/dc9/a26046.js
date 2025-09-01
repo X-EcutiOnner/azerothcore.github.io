@@ -1,14 +1,9 @@
 var a26046 =
 [
-    [ "AfterCheckProc", "d8/dc9/a26046.html#ae6ac733a614be543c04b57379b84aaca", null ],
-    [ "CheckProc", "d8/dc9/a26046.html#aa533054a5cd434ef3e02767a0a87db62", null ],
-    [ "GetProcSpell", "d8/dc9/a26046.html#af9fc6eb0c61c4084307fc2f7fb38973b", null ],
-    [ "HandleAfterEffectProc", "d8/dc9/a26046.html#aaa577b07d61ddc6e7af175c76ce63b11", null ],
-    [ "HandleOnEffectProc", "d8/dc9/a26046.html#a5bb5345754505cca5f9c840dc5bb9dfb", null ],
-    [ "PrepareAuraScript", "d8/dc9/a26046.html#a111821352b6d26f51878ce81b173ef6d", null ],
-    [ "Register", "d8/dc9/a26046.html#a9ba0584da94cf51b8cd8fe7da50fc1b0", null ],
-    [ "ResetProcState", "d8/dc9/a26046.html#a9f7371edfa971c56e15cef94d6fb0117", null ],
-    [ "_chance", "d8/dc9/a26046.html#ab644c981163424fbaa05650dc6505ae1", null ],
-    [ "_procSpellDelayMoment", "d8/dc9/a26046.html#a0477619c024d2f2f505e7617fb057691", null ],
-    [ "_spell", "d8/dc9/a26046.html#a07a855a4806bac873eb40505f805c39f", null ]
+    [ "OnEffectHitTargetDisarm", "d8/dc9/a26046.html#ae8ce5a315886ede30eda7d3682e4ef06", null ],
+    [ "OnEffectHitTargetStun", "d8/dc9/a26046.html#a5a5253b6d152b1af78de663c09451536", null ],
+    [ "OnEffectLaunchTargetDisarm", "d8/dc9/a26046.html#a2bbcf5ee2d41362c80a4649a4cf7e260", null ],
+    [ "OnEffectLaunchTargetStun", "d8/dc9/a26046.html#ac3d5052bf045082fb8bc02c72a0dba39", null ],
+    [ "PrepareSpellScript", "d8/dc9/a26046.html#a113219d3376a23f8889f26f10744e7cb", null ],
+    [ "Register", "d8/dc9/a26046.html#a12ef13dbc3e9cd95fb1d57bf393735e3", null ]
 ];

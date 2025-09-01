@@ -1,5 +1,6 @@
 var a27814 =
 [
-    [ "Id", "df/de6/a27814.html#a2c41c957524b31ad9f7fa361ec0e9d01", null ],
-    [ "textid", "df/de6/a27814.html#a7e50690fa335b759dba5ac265c9a0dd0", null ]
+    [ "npc_spring_rabbitAI", "d7/d90/a27818.html", "d7/d90/a27818" ],
+    [ "npc_spring_rabbit", "df/de6/a27814.html#a4e2ed1f556edd535a8d262d7e0bdfa1a", null ],
+    [ "GetAI", "df/de6/a27814.html#a968933658fbcc7f7cbdfca90fd9a68dc", null ]
 ];

@@ -1,6 +1,11 @@
 var a18134 =
 [
-    [ "npc_sindragosa_trashAI", "da/d52/a18138.html", "da/d52/a18138" ],
-    [ "npc_sindragosa_trash", "de/d4c/a18134.html#a9634ea10e767b4d6e293fc3fdd491702", null ],
-    [ "GetAI", "de/d4c/a18134.html#ab1de715d98236a853a793d830bc601d7", null ]
+    [ "npc_little_oozeAI", "de/d4c/a18134.html#a6fb3ac6e3f2c39b96ee4fe265e4940dd", null ],
+    [ "EnterEvadeMode", "de/d4c/a18134.html#a0bd4bfcc8c373a449f297011289e5530", null ],
+    [ "IsSummonedBy", "de/d4c/a18134.html#afb9763ade36bd742398a8bca961c136b", null ],
+    [ "JustDied", "de/d4c/a18134.html#a37e5898e3dc1704be9fba2178567fd2a", null ],
+    [ "UpdateAI", "de/d4c/a18134.html#a6ee56789d528c2b6dcb04abaff6806cb", null ],
+    [ "events", "de/d4c/a18134.html#aa0d2113458887b73fe2af36f9d3ab0f1", null ],
+    [ "firstUpdate", "de/d4c/a18134.html#aa3aca24bc97bcd9a2030fccf6782cf9c", null ],
+    [ "instance", "de/d4c/a18134.html#a8a4ec828f144f071c0c6f2bf48b69cc0", null ]
 ];

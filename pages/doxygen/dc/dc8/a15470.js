@@ -1,8 +1,21 @@
 var a15470 =
 [
-    [ "FilterTargets", "dc/dc8/a15470.html#a47b8055fa1b28968e8323ca98613aa83", null ],
-    [ "HandleScript", "dc/dc8/a15470.html#a8f7984e510d8947a2ae4b0734409866b", null ],
-    [ "PrepareSpellScript", "dc/dc8/a15470.html#a5c12caf56e95a9f7960ed9f4a3945c7c", null ],
-    [ "Register", "dc/dc8/a15470.html#adf76a5d9145f88aad5b3dd164fa4fcc4", null ],
-    [ "Validate", "dc/dc8/a15470.html#aa3f9c6418eb804a2ddf235beb8491a19", null ]
+    [ "npc_rizzle_sprysprocketAI", "dc/dc8/a15470.html#a74b59a5721c46cddf13e9532a36f6a6d", null ],
+    [ "AttackStart", "dc/dc8/a15470.html#a87aa5e5e66f5f083829cf8dd78d9dc75", null ],
+    [ "JustEngagedWith", "dc/dc8/a15470.html#a9c39a4c8302fb507f9c7b09ebf871c5e", null ],
+    [ "MovementInform", "dc/dc8/a15470.html#a6ba4af8eee61bd6f562b25e096fcf0a8", null ],
+    [ "Reset", "dc/dc8/a15470.html#a060a25159570525af2d624f3f153eadf", null ],
+    [ "sGossipSelect", "dc/dc8/a15470.html#ab69a38bfe7a5b18b7f11b1f4df4c293a", null ],
+    [ "UpdateAI", "dc/dc8/a15470.html#ab2b1307113e4c91af94ea3ed4cbe8697", null ],
+    [ "CheckTimer", "dc/dc8/a15470.html#a2bb7b9a55427023156175bd2305a77fe", null ],
+    [ "ContinueWP", "dc/dc8/a15470.html#a85b90ae315a7957eba416d9c44f457ff", null ],
+    [ "CurrWP", "dc/dc8/a15470.html#acd4a2ef2157d47d3571d6c61d9dfdd4a", null ],
+    [ "Escape", "dc/dc8/a15470.html#a300700dc91eb4b49ec7cbf42c998feb4", null ],
+    [ "GrenadeTimer", "dc/dc8/a15470.html#ad43496d1ba134a19b49ecfae871f49ba", null ],
+    [ "MustDie", "dc/dc8/a15470.html#a8eae3901791679ef5609f929ddc83fc9", null ],
+    [ "MustDieTimer", "dc/dc8/a15470.html#a044f7c15ed58b67d02d6e1f6b76ad573", null ],
+    [ "PlayerGUID", "dc/dc8/a15470.html#a28482e22f80316de1b2e4ebd54875f13", null ],
+    [ "Reached", "dc/dc8/a15470.html#a1962eac2fa0403b965e5534d09bfc8a5", null ],
+    [ "SpellEscapeTimer", "dc/dc8/a15470.html#a4f2a0f04c8c126ac4ef31a45f74f7f77", null ],
+    [ "TeleportTimer", "dc/dc8/a15470.html#a4df0058661b6251c39497ee5b872c33e", null ]
 ];

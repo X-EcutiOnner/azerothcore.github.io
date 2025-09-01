@@ -1,6 +1,6 @@
 var a13362 =
 [
-    [ "HandlePeriodic", "dd/de0/a13362.html#aec1ff41f0051a6c6dfbd11ea7741b1af", null ],
-    [ "PrepareAuraScript", "dd/de0/a13362.html#a7ac99d626990f068a00f403847bfa6bc", null ],
-    [ "Register", "dd/de0/a13362.html#ad3c0a2c270d1b8c31761674f89500b8a", null ]
+    [ "instance_sunken_temple_InstanceMapScript", "da/d92/a13366.html", "da/d92/a13366" ],
+    [ "instance_sunken_temple", "dd/de0/a13362.html#a123b052c1cd1487588c88bf2611bc53b", null ],
+    [ "GetInstanceScript", "dd/de0/a13362.html#a1a783056b681f1f3b90e2e33e6a4a86d", null ]
 ];

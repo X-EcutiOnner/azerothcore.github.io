@@ -1,6 +1,6 @@
 var a24518 =
 [
-    [ "HandleEffectApply", "dc/dff/a24518.html#a4bc121ecc9357709ec2f1ea395d0b6b1", null ],
-    [ "PrepareAuraScript", "dc/dff/a24518.html#ac7f16aed55aedba6da0672c3102a5fae", null ],
-    [ "Register", "dc/dff/a24518.html#a83e15d7db1b9aa4ce4fbc8a359795091", null ]
+    [ "npc_pet_dk_ghoul", "dc/dff/a24518.html#aff3b8dc660a7e263c6e30960819b4ffa", null ],
+    [ "IsSummonedBy", "dc/dff/a24518.html#ae6ea5ad522229289a16d5be1e52181f6", null ],
+    [ "JustDied", "dc/dff/a24518.html#a6095e3619b470283b9875b90e2805b54", null ]
 ];

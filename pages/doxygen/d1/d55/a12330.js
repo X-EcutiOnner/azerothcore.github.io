@@ -1,6 +1,7 @@
 var a12330 =
 [
-    [ "boss_vaelAI", "d2/d7d/a12334.html", "d2/d7d/a12334" ],
-    [ "boss_vaelastrasz", "d1/d55/a12330.html#a0b51f3b50cde4907bd9064e8bf51c005", null ],
-    [ "GetAI", "d1/d55/a12330.html#a42dde198f5fc0ab2e7ca28ac32c42b7e", null ]
+    [ "boss_broodlordAI", "d1/d55/a12330.html#aa7a5b16b22633439e5d20f9d47a91041", null ],
+    [ "JustDied", "d1/d55/a12330.html#ab0c4dfdd5abc8edcf039d5207e8a63e8", null ],
+    [ "JustEngagedWith", "d1/d55/a12330.html#ae6e26d9cd6e22426caf6ce031551f8a8", null ],
+    [ "UpdateAI", "d1/d55/a12330.html#aea6fbbe31c96e94c2116733c3c66b59b", null ]
 ];

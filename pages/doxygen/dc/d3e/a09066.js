@@ -1,10 +1,5 @@
 var a09066 =
 [
-    [ "~GridCell", "dc/d3e/a09066.html#ab6ca5fbc81f184597445b7aef70bb2ad", null ],
-    [ "AddGridObject", "dc/d3e/a09066.html#a22ac43b185d6a34c04fb5a36970d7df2", null ],
-    [ "AddWorldObject", "dc/d3e/a09066.html#a039ebb29cf4bd2eeb7fca43eba302542", null ],
-    [ "Visit", "dc/d3e/a09066.html#a6409c692a1f6ddfee1b3c2806d161d44", null ],
-    [ "Visit", "dc/d3e/a09066.html#a2d13e0178010836f05280c1b5b11ad57", null ],
-    [ "_gridObjects", "dc/d3e/a09066.html#a1a3fdbe9e3b937c05f82572d6f757e87", null ],
-    [ "_worldObjects", "dc/d3e/a09066.html#a29d0551bee2df852e262846d82e90dba", null ]
+    [ "MaxAllowedCount", "dc/d3e/a09066.html#afb0dcc50d8e9aa85fe2904050d646042", null ],
+    [ "Policy", "dc/d3e/a09066.html#a8b2bbd3d9f52166c1235b0d306042609", null ]
 ];

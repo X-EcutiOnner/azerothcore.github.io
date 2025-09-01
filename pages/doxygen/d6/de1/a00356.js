@@ -1,5 +1,5 @@
 var a00356 =
 [
-    [ "Acore::BattlegroundChatBuilder", "d3/d24/a07284.html", "d3/d24/a07284" ],
-    [ "Acore::Battleground2ChatBuilder", "d8/d5d/a07288.html", "d8/d5d/a07288" ]
+    [ "MAP_FILE_NAME_FORMAT", "d6/de1/a00356.html#a1d57d156046bda88886b7488ab0b83bc", null ],
+    [ "TILE_FILE_NAME_FORMAT", "d6/de1/a00356.html#a27e34ce3b8808f2aa889e5c4e623059a", null ]
 ];

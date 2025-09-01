@@ -1,7 +1,6 @@
 var a16718 =
 [
-    [ "HandleScriptEffect", "d3/d91/a16718.html#a62cef31900cd61167823f3e66aa2d64b", null ],
-    [ "PrepareSpellScript", "d3/d91/a16718.html#aff3fc5d7d6185bcb09d14f1408a67aad", null ],
-    [ "Register", "d3/d91/a16718.html#ac73b3f568ce54f9b59b2b23f069da3c1", null ],
-    [ "Validate", "d3/d91/a16718.html#aab4d84e896c8225d8d131558aaa71dbe", null ]
+    [ "npc_snobold_vassalAI", "d6/d21/a16722.html", "d6/d21/a16722" ],
+    [ "npc_snobold_vassal", "d3/d91/a16718.html#a243cefbc15931ebbb555936d54583314", null ],
+    [ "GetAI", "d3/d91/a16718.html#a77976a59f600591454fac197ded613ef", null ]
 ];

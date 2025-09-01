@@ -1,6 +1,6 @@
 var a17386 =
 [
-    [ "BloodboltHitCheck", "de/da3/a17386.html#a84873f1ec2c1e214e35d32954622e9af", null ],
-    [ "operator()", "de/da3/a17386.html#a1eddfd7bbea8def20dcc080413af6364", null ],
-    [ "_ai", "de/da3/a17386.html#a0a5d115c464b6e88bc1158cd858bcbec", null ]
+    [ "boss_moorabiAI", "d2/dce/a17390.html", "d2/dce/a17390" ],
+    [ "boss_moorabi", "de/da3/a17386.html#a94e14b2a9b06143985f785e781d1c302", null ],
+    [ "GetAI", "de/da3/a17386.html#ae90c7dd46fb1335a525c3c3e27040420", null ]
 ];

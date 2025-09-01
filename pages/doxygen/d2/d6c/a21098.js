@@ -1,6 +1,10 @@
 var a21098 =
 [
-    [ "instance_utgarde_keep_InstanceMapScript", "d2/d14/a21102.html", "d2/d14/a21102" ],
-    [ "instance_utgarde_keep", "d2/d6c/a21098.html#abe013e4f086f63722a6398b2b7928c80", null ],
-    [ "GetInstanceScript", "d2/d6c/a21098.html#a9a42e0dde1c7598eb2ef665f11e25e92", null ]
+    [ "boss_yoggsaron_voiceAI", "d2/d6c/a21098.html#ac78b27f8d4df433e1fad2ae550a4da44", null ],
+    [ "Reset", "d2/d6c/a21098.html#ae5561244ad7387a3614bb6f1e23a7001", null ],
+    [ "SpellHitTarget", "d2/d6c/a21098.html#a0cc39577b4b70eb1be16f9c8b5cb5c72", null ],
+    [ "UpdateAI", "d2/d6c/a21098.html#a3c8458c25f7389f5fb5218177590a4c6", null ],
+    [ "_current", "d2/d6c/a21098.html#ad94ddde194a32b380ba1d309f1ece14a", null ],
+    [ "_targets", "d2/d6c/a21098.html#ab6132214a2249fbb5de8a5115b114381", null ],
+    [ "events", "d2/d6c/a21098.html#ac0c6aa9efe9d9e80b29fae8c190962dc", null ]
 ];

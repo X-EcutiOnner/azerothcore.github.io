@@ -1,9 +1,6 @@
 var a11398 =
 [
-    [ "CreatureTextLocalizer", "d6/d0f/a11398.html#a799f1007b9977224d71da1451c3454e1", null ],
-    [ "~CreatureTextLocalizer", "d6/d0f/a11398.html#a1a03d45dfd3c6c5f6f4995d5efe238a5", null ],
-    [ "operator()", "d6/d0f/a11398.html#ab2c364aa9d45ca2267db2641b26821f7", null ],
-    [ "_builder", "d6/d0f/a11398.html#a1d8d97d3e423810d044a8155b182899d", null ],
-    [ "_msgType", "d6/d0f/a11398.html#adf9260955b0141e85ff47c66350244e2", null ],
-    [ "_packetCache", "d6/d0f/a11398.html#a660b352a1c1855f4b10a8aebef88133f", null ]
+    [ "BeforeHitHandler", "d6/d0f/a11398.html#a0c2f048fc10f408a299a8b537ad7551d", null ],
+    [ "Call", "d6/d0f/a11398.html#a393057cca72c41e193508bf150ed0b1f", null ],
+    [ "_pBeforeHitHandlerScript", "d6/d0f/a11398.html#acecb7a8844155ff6eeb3f09582d7a475", null ]
 ];

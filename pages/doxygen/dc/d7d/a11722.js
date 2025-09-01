@@ -1,5 +1,6 @@
 var a11722 =
 [
-    [ "flag", "dc/d7d/a11722.html#a4ea67fc10eedfaa2e5e029e242e1c32f", null ],
-    [ "text", "dc/d7d/a11722.html#a492e5e3c2373adba005034514b0a5a1e", null ]
+    [ "bg_commandscript", "dc/d7d/a11722.html#a86ffdfaed58149f5036f5c1e1040507a", null ],
+    [ "GetCommands", "dc/d7d/a11722.html#a911ccd6445b08c05069f7f196556c891", null ],
+    [ "HandleBagsClearCommand", "dc/d7d/a11722.html#a92347e90c2f78d0dfeb41eb033366319", null ]
 ];

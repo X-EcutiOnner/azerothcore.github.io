@@ -1,7 +1,4 @@
 var a28398 =
 [
-    [ "Flags", "d5/d9c/a28398.html#a12b3cb0e28ed0f47ff5ccea09fc8b860", null ],
-    [ "ID", "d5/d9c/a28398.html#ab6ccf4a64672a6ade01f59cdeeeb85cb", null ],
-    [ "RangeMax", "d5/d9c/a28398.html#a9691134e5cb1e15e3c93ea05a653975d", null ],
-    [ "RangeMin", "d5/d9c/a28398.html#a127a46f2382edea750ca567d5ea3d304", null ]
+    [ "ratio", "d5/d9c/a28398.html#ac22c096d41c6fb7ebdc824fc1ca8601b", null ]
 ];

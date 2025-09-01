@@ -1,8 +1,6 @@
 var a11390 =
 [
-    [ "CreatureTextId", "d9/d4f/a11390.html#ae8058e922bafc69b718ca4be1be39688", null ],
-    [ "operator<", "d9/d4f/a11390.html#ae0c693f6cf1959c79e1b3773a2f54db9", null ],
-    [ "entry", "d9/d4f/a11390.html#ad69afcf7be87d1f96611fe925b68f26a", null ],
-    [ "textGroup", "d9/d4f/a11390.html#af1d1f3f310c219c32ca9b8917d8fb67d", null ],
-    [ "textId", "d9/d4f/a11390.html#a5d45808a0b84ca11c8d05c25d26341a2", null ]
+    [ "CheckCastHandler", "d9/d4f/a11390.html#a8647582abeea09779e05d809cbdb0d06", null ],
+    [ "Call", "d9/d4f/a11390.html#a805de70601b15de19639ca01c75ae7f7", null ],
+    [ "_checkCastHandlerScript", "d9/d4f/a11390.html#af13f11d14772afbea06f0020df4bbe6c", null ]
 ];

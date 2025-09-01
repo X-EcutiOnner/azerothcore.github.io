@@ -1,8 +1,7 @@
 var a09502 =
 [
-    [ "flags", "d7/dde/a09502.html#a7ecce103d428ed7f91aa12fa5547561c", null ],
-    [ "group", "d7/dde/a09502.html#a0902606d44c8baa1a20b5b2cdd9b4787", null ],
-    [ "guid", "d7/dde/a09502.html#a97a20b4ccf1978165a5f5c7ff4ffb2b4", null ],
-    [ "name", "d7/dde/a09502.html#ab0719bb9805048b58a3e4c75e09d1ee7", null ],
-    [ "roles", "d7/dde/a09502.html#a2109aae0b3ebf74b065b97cc929c2954", null ]
+    [ "PowerCheck", "d7/dde/a09502.html#abb2fc6c6e83e1097a6bb40512fb50dfc", null ],
+    [ "operator()", "d7/dde/a09502.html#a16ad8e68d94742bc78b6f20734f58e99", null ],
+    [ "_equals", "d7/dde/a09502.html#ae7758da7775ff778bc5cd96e9a15649b", null ],
+    [ "_power", "d7/dde/a09502.html#a922a57b62b4289835b539a69b0f58fa1", null ]
 ];

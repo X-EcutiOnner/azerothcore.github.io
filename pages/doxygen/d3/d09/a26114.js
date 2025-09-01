@@ -1,7 +1,6 @@
 var a26114 =
 [
-    [ "HandleScriptEffect", "d3/d09/a26114.html#a6c1ac025fa93caa08737387a18003612", null ],
-    [ "PrepareSpellScript", "d3/d09/a26114.html#acb5ad05212399b06ed9bb64bb9203069", null ],
-    [ "Register", "d3/d09/a26114.html#afbf989d514c308f466ecfd9957d2d177", null ],
-    [ "Validate", "d3/d09/a26114.html#a2f48b1903edef1a5bb8beeddc8879aa4", null ]
+    [ "CalculateAmount", "d3/d09/a26114.html#a2010f58ba86d6266e9549753fdec52ed", null ],
+    [ "PrepareAuraScript", "d3/d09/a26114.html#aa9ddc9f2a0ded66e81be51cec24a0e4b", null ],
+    [ "Register", "d3/d09/a26114.html#acf737f74e3cb9340f3449b491e923b7f", null ]
 ];

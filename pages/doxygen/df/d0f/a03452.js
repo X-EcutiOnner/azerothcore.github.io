@@ -1,23 +1,21 @@
 var a03452 =
 [
-    [ "npc_eris_hevenfire", "dc/d65/a13572.html", "dc/d65/a13572" ],
-    [ "npc_eris_hevenfire::npc_eris_hevenfireAI", "d9/dbb/a13576.html", "d9/dbb/a13576" ],
-    [ "npc_balance_of_light_and_shadow", "d8/de9/a13580.html", "d8/de9/a13580" ],
-    [ "npc_balance_of_light_and_shadow::npc_balance_of_light_and_shadowAI", "df/db2/a13584.html", "df/db2/a13584" ],
-    [ "npc_augustus_the_touched", "d5/dc3/a13588.html", "d5/dc3/a13588" ],
-    [ "eEris", "df/d0f/a03452.html#a0846b7169aa45fd1ef72775a5f6e36fe", [
-      [ "QUEST_BALANCE_OF_LIGHT_AND_SHADOW", "df/d0f/a03452.html#a0846b7169aa45fd1ef72775a5f6e36fea893fed7c9aba464b46eda93ba0ff910e", null ],
-      [ "ITEM_EYE_OF_DIVINITY", "df/d0f/a03452.html#a0846b7169aa45fd1ef72775a5f6e36feaa330f1e90d7e18c5cec4f6ac9eccbf9b", null ],
-      [ "NPC_INJURED_PEASANT", "df/d0f/a03452.html#a0846b7169aa45fd1ef72775a5f6e36feaae13148e0ec5731f2bc25c5cd83fb54a", null ],
-      [ "NPC_PLAGUED_PEASANT", "df/d0f/a03452.html#a0846b7169aa45fd1ef72775a5f6e36fea2e04645dc1fe7fae413d5c2c903c89d2", null ],
-      [ "NPC_SCOURGE_ARCHER", "df/d0f/a03452.html#a0846b7169aa45fd1ef72775a5f6e36fea50dd59f1eeb08594a61c6ad576ad2814", null ],
-      [ "EVENT_SUMMON_PEASANTS", "df/d0f/a03452.html#a0846b7169aa45fd1ef72775a5f6e36fea499f23b6c79690c613e046b3e6394937", null ],
-      [ "EVENT_CHECK_PLAYER", "df/d0f/a03452.html#a0846b7169aa45fd1ef72775a5f6e36fea3d3d147dbdefaa5a8280f3d1bcc15ea8", null ],
-      [ "EVENT_SUMMON_ARCHERS", "df/d0f/a03452.html#a0846b7169aa45fd1ef72775a5f6e36fea84afa1291830b37278989be41610fb72", null ],
-      [ "SPELL_SHOOT", "df/d0f/a03452.html#a0846b7169aa45fd1ef72775a5f6e36fea1b728fa1bb0194534b5b491d35ed871c", null ],
-      [ "SPELL_DEATHS_DOOR", "df/d0f/a03452.html#a0846b7169aa45fd1ef72775a5f6e36fea59bc5812f6dcf3f0e45b673f923490e7", null ],
-      [ "SPELL_SEETHING_PLAGUE", "df/d0f/a03452.html#a0846b7169aa45fd1ef72775a5f6e36feac366f4ed224210fd4352c0ac9fb1c12a", null ],
-      [ "SPELL_ERIS_BLESSING", "df/d0f/a03452.html#a0846b7169aa45fd1ef72775a5f6e36feaaedc6f0db3ab3db342fe3379082ce633", null ]
+    [ "Totem", "d9/dfd/a08666.html", "d9/dfd/a08666" ],
+    [ "EARTHBIND_TOTEM_ENTRY", "df/d0f/a03452.html#a6cae59b1369b7371cefb92be8fc73fa5", null ],
+    [ "SENTRY_TOTEM_ENTRY", "df/d0f/a03452.html#a2bd46e1df17fdee45cd35896306092fb", null ],
+    [ "TotemImmunitySpells", "df/d0f/a03452.html#a526213bf692d4f8d189a61617f4a59c9", [
+      [ "SPELL_CYCLONE", "df/d0f/a03452.html#a526213bf692d4f8d189a61617f4a59c9ab0dea4de61535b7690ae66cfa6440f58", null ],
+      [ "SPELL_STONECLAW", "df/d0f/a03452.html#a526213bf692d4f8d189a61617f4a59c9ad0896fc7fa22551f57cc65fd56ee8649", null ],
+      [ "SPELL_BIND_SIGHT", "df/d0f/a03452.html#a526213bf692d4f8d189a61617f4a59c9a1f48e779f72284c7b1140c6be1a5a81a", null ],
+      [ "SPELL_INTERVENE", "df/d0f/a03452.html#a526213bf692d4f8d189a61617f4a59c9ac663f276cbe6aa86a2ae46813fc14b8c", null ]
     ] ],
-    [ "AddSC_eastern_plaguelands", "df/d0f/a03452.html#aaef7747656518bf0ce052d780430ed88", null ]
+    [ "TotemSpellIds", "df/d0f/a03452.html#a7092ec93c941969cd2cdd2291c6de0be", [
+      [ "SentryTotemSpell", "df/d0f/a03452.html#a7092ec93c941969cd2cdd2291c6de0bea2ff316c1216f8b3e5f60a3700214c8c3", null ],
+      [ "FireTotemSpell", "df/d0f/a03452.html#a7092ec93c941969cd2cdd2291c6de0bea52ad0e17d0d0699c294f9434023aeea7", null ]
+    ] ],
+    [ "TotemType", "df/d0f/a03452.html#a65151889ab4b03cf02268cc7a7ff0ba3", [
+      [ "TOTEM_PASSIVE", "df/d0f/a03452.html#a65151889ab4b03cf02268cc7a7ff0ba3a63f155f3367aa262aae567b57c623069", null ],
+      [ "TOTEM_ACTIVE", "df/d0f/a03452.html#a65151889ab4b03cf02268cc7a7ff0ba3a3c3ecb49d653993abf86f289019e27b0", null ],
+      [ "TOTEM_STATUE", "df/d0f/a03452.html#a65151889ab4b03cf02268cc7a7ff0ba3ab0fbf32f7d371a34f276dfdf6552e300", null ]
+    ] ]
 ];

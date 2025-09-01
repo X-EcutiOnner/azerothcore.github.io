@@ -1,6 +1,6 @@
 var a13930 =
 [
-    [ "npc_zulian_prowlerAI", "df/d4b/a13934.html", "df/d4b/a13934" ],
-    [ "npc_zulian_prowler", "d0/d65/a13930.html#a27ae990985976d02bb221b6d669fa849", null ],
-    [ "GetAI", "d0/d65/a13930.html#a7e7d4f8164bbb728a1b83244c1e356f9", null ]
+    [ "npc_andorhal_towerAI", "df/d4b/a13934.html", "df/d4b/a13934" ],
+    [ "npc_andorhal_tower", "d0/d65/a13930.html#abf63419b6c10af47f5e5df1a4e7320e7", null ],
+    [ "GetAI", "d0/d65/a13930.html#a51139c28da736d26bf27a061862d24ee", null ]
 ];

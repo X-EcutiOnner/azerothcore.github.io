@@ -1,7 +1,7 @@
 var a15806 =
 [
-    [ "npc_ahnkahar_nerubian", "dc/dd5/a15806.html#ae18cdf09bae50751e266e95caf165f8e", null ],
-    [ "Reset", "dc/dd5/a15806.html#a387831015ec8e4bc65cff8c8550bb176", null ],
-    [ "UpdateAI", "dc/dd5/a15806.html#a9a773127e4f94bcdf142718355eae0e8", null ],
-    [ "uiSprintTimer", "dc/dd5/a15806.html#a27a6f57a6b145cc595896d1ad453064f", null ]
+    [ "npc_giltharesAI", "d5/d8c/a15810.html", "d5/d8c/a15810" ],
+    [ "npc_gilthares", "dc/dd5/a15806.html#af1e0746350b32b68825710e1c3ed91a5", null ],
+    [ "GetAI", "dc/dd5/a15806.html#a96293e28237a092c64f6a91d91bc7ff3", null ],
+    [ "OnQuestAccept", "dc/dd5/a15806.html#a018cc6240a79216acb371241f63e3234", null ]
 ];

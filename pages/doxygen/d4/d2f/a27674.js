@@ -1,5 +1,6 @@
 var a27674 =
 [
-    [ "npc_controller", "d4/d2f/a27674.html#a3c75fb509d5cf4b4d417c97b409615b1", null ],
-    [ "OnCharmed", "d4/d2f/a27674.html#a69628677de225d76a8c89b4626e0f32b", null ]
+    [ "npc_taxi", "d4/d2f/a27674.html#ac67282316d6ded2ff62b8a1800b8fae1", null ],
+    [ "OnGossipHello", "d4/d2f/a27674.html#a1bce89202ea3ed3fcbebd19a305c6a78", null ],
+    [ "OnGossipSelect", "d4/d2f/a27674.html#a5a7443abba8cf98a3073195177981edc", null ]
 ];

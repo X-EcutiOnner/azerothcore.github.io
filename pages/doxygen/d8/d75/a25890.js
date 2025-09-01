@@ -1,6 +1,6 @@
 var a25890 =
 [
-    [ "CheckCast", "d8/d75/a25890.html#a14bd28450fb989b1deb1854e2118cb6b", null ],
-    [ "PrepareSpellScript", "d8/d75/a25890.html#a2a53af0cc911e1a68b365d692df1f0af", null ],
-    [ "Register", "d8/d75/a25890.html#a67c43c4dabfb72ca54c160228b4b21c0", null ]
+    [ "HandleScript", "d8/d75/a25890.html#a382dd0eb5ebc2f5da70561eaaf1f8d3d", null ],
+    [ "PrepareSpellScript", "d8/d75/a25890.html#a4f0f4d29231ef1976d726b66f6277ca8", null ],
+    [ "Register", "d8/d75/a25890.html#ad75843039e582b64da28b4818f48aeb3", null ]
 ];

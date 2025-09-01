@@ -1,6 +1,7 @@
 var a12002 =
 [
-    [ "RestoreAttack", "d8/dae/a12002.html#a8c5b3b0cbe7f5bfebb1c09987c4066e3", null ],
-    [ "Execute", "d8/dae/a12002.html#a633e5abe4a3a9353df63d3778b8d71bc", null ],
-    [ "_boss", "d8/dae/a12002.html#a493ef909da834b0befd90f57f54fb10c", null ]
+    [ "npc_rocknotAI", "d3/d86/a12006.html", "d3/d86/a12006" ],
+    [ "npc_rocknot", "d8/dae/a12002.html#a64a0cd215c1f4881948e5a49cf1b86d7", null ],
+    [ "GetAI", "d8/dae/a12002.html#ac8a90d54e9303c40f0313fda1dcfea86", null ],
+    [ "OnQuestReward", "d8/dae/a12002.html#abd8ad3d7e6dd1e557398e268409a2c98", null ]
 ];

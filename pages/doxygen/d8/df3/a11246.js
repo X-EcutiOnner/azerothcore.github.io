@@ -1,7 +1,7 @@
 var a11246 =
 [
-    [ "EffectAuraNameCheck", "d8/df3/a11246.html#a4b10ec0fcb3ffd841cf790574875017d", null ],
-    [ "Check", "d8/df3/a11246.html#a7fff405a99c65d3e846463ca29a8ddfd", null ],
-    [ "ToString", "d8/df3/a11246.html#a602fc1ddafe663e2e5ddceaeaec8b118", null ],
-    [ "effAurName", "d8/df3/a11246.html#abcf90ed5a832b5fe5ce3913a812da05d", null ]
+    [ "effectMask", "d8/df3/a11246.html#a07d70f3c2425f07a36db90e9fd5b3c97", null ],
+    [ "processed", "d8/df3/a11246.html#aedfa36678be863a558ecd0ecc07cc544", null ],
+    [ "targetGUID", "d8/df3/a11246.html#a619f98bf094d2667048204f733d64d0c", null ],
+    [ "timeDelay", "d8/df3/a11246.html#ab552326c0780fe62ff95b02249458492", null ]
 ];

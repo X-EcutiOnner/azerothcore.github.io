@@ -1,18 +1,14 @@
 var a11762 =
 [
-    [ "server_commandscript", "d1/db5/a11762.html#a61d8b3a9f967996b533e62e94fe4c8ca", null ],
-    [ "GetCommands", "d1/db5/a11762.html#a850c21f1ece40c576d3bf622f1c3e18f", null ],
-    [ "HandleServerCorpsesCommand", "d1/db5/a11762.html#a01ae63f31c7f03f6c0006fe4583a14a3", null ],
-    [ "HandleServerDebugCommand", "d1/db5/a11762.html#ac78145cb5c0888449756e4dbb36c005f", null ],
-    [ "HandleServerExitCommand", "d1/db5/a11762.html#ab894b36baa95de647fb329fce6eed8fb", null ],
-    [ "HandleServerIdleRestartCommand", "d1/db5/a11762.html#ae18a92337d6cf8e62eafdf5f39d7b5a8", null ],
-    [ "HandleServerIdleShutDownCommand", "d1/db5/a11762.html#aa431504b2755304c4263121a7a437ce4", null ],
-    [ "HandleServerInfoCommand", "d1/db5/a11762.html#a6c63114c474f69621b013dbb57b47bf2", null ],
-    [ "HandleServerMotdCommand", "d1/db5/a11762.html#aa10d866fcb8567fbc625d2a297a116a6", null ],
-    [ "HandleServerRestartCommand", "d1/db5/a11762.html#a3ec7dd1f81f3b4b8adcb5f04f4d20f3f", null ],
-    [ "HandleServerSetClosedCommand", "d1/db5/a11762.html#a2ba489469cdb3c8da944f7d6547ae462", null ],
-    [ "HandleServerSetLogLevelCommand", "d1/db5/a11762.html#a1ce5627c1d948b5a5c86db54357de02a", null ],
-    [ "HandleServerSetMotdCommand", "d1/db5/a11762.html#a8cf2076d5e5fa3b35fddba117cd990bb", null ],
-    [ "HandleServerShutDownCancelCommand", "d1/db5/a11762.html#ae64357518538c1ce4d03a8d9968b4035", null ],
-    [ "HandleServerShutDownCommand", "d1/db5/a11762.html#a514149a8d1dfc4513e0c71b69901767d", null ]
+    [ "deserter_commandscript", "d1/db5/a11762.html#aebaaf99b9c5959f3f3418e13e252fb95", null ],
+    [ "GetCommands", "d1/db5/a11762.html#ab5b48b9dde89c9215c51560f26324649", null ],
+    [ "HandleDeserterAdd", "d1/db5/a11762.html#abe8c428ec09d341bb9f49882b7c071e2", null ],
+    [ "HandleDeserterBGAdd", "d1/db5/a11762.html#a11fba09d369e7244244887947a91369e", null ],
+    [ "HandleDeserterBGRemove", "d1/db5/a11762.html#a9bf4e146ef0f4f0cb2508c4953f8a647", null ],
+    [ "HandleDeserterBGRemoveAll", "d1/db5/a11762.html#a419d404315e91b6cac1bfd3ac225a8fd", null ],
+    [ "HandleDeserterInstanceAdd", "d1/db5/a11762.html#aabd2b23e2dc61fac10890077b41d8179", null ],
+    [ "HandleDeserterInstanceRemove", "d1/db5/a11762.html#a3197e5228284ba50da7f3a31b3e76060", null ],
+    [ "HandleDeserterInstanceRemoveAll", "d1/db5/a11762.html#adc6ad2f406fcb58ba64d2b6fd47281e2", null ],
+    [ "HandleDeserterRemove", "d1/db5/a11762.html#a210dc9a7eddede6fe976157d6b22b683", null ],
+    [ "HandleDeserterRemoveAll", "d1/db5/a11762.html#a6274f79b9884586069f94137b44d89e9", null ]
 ];

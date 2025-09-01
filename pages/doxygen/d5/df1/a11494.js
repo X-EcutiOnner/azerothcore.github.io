@@ -1,13 +1,12 @@
 var a11494 =
 [
-    [ "CommandFinished", "d5/df1/a11494.html#af7ce6ffac9fa11ce0db6fd10919c4e4a", null ],
-    [ "Print", "d5/df1/a11494.html#ab10379cf266b38f4d81e2477b727471e", null ],
-    [ "CliCommandHolder", "d5/df1/a11494.html#a5a45e891607114cd070721fd51926cd5", null ],
-    [ "~CliCommandHolder", "d5/df1/a11494.html#a44ca7e8af5c717b1cff7b143afc077ee", null ],
-    [ "CliCommandHolder", "d5/df1/a11494.html#ad9c7b2da92d97c464fb14ad1e0b9a4a9", null ],
-    [ "operator=", "d5/df1/a11494.html#aaca241ecd81dc25788eaccbdc4aa5f60", null ],
-    [ "m_callbackArg", "d5/df1/a11494.html#a4579ce86ff43da89524b62eefe308a59", null ],
-    [ "m_command", "d5/df1/a11494.html#ae333918e09a9de4c9e402c334e076674", null ],
-    [ "m_commandFinished", "d5/df1/a11494.html#a416a66ac78f1d2cb1ee2d0d93f276f43", null ],
-    [ "m_print", "d5/df1/a11494.html#aa49897105905b9812fcf962326486d5d", null ]
+    [ "BroadcastTextBuilder", "d5/df1/a11494.html#adafc60b68bed31fdd87f5c71244c96f2", null ],
+    [ "operator()", "d5/df1/a11494.html#a16f9719278e00013c25902846fa1be5b", null ],
+    [ "operator()", "d5/df1/a11494.html#ac87701626dddffb6b09bf504b97c4d55", null ],
+    [ "_achievementId", "d5/df1/a11494.html#a82de25331657b17ce0de33f2b374abda", null ],
+    [ "_gender", "d5/df1/a11494.html#a71032b0749dd75f552107503528e8166", null ],
+    [ "_msgType", "d5/df1/a11494.html#a232325cefa217843da5cc6db7e5d80fe", null ],
+    [ "_source", "d5/df1/a11494.html#ab73315225b3aa36a309f45596f7089f4", null ],
+    [ "_target", "d5/df1/a11494.html#a958b154f3c82188e9684be0f0b7dae56", null ],
+    [ "_textId", "d5/df1/a11494.html#a0bbe45b38a92967f145fb1d608d647b1", null ]
 ];

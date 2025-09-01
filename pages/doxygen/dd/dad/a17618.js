@@ -1,10 +1,8 @@
 var a17618 =
 [
-    [ "npc_gunship_gunnerAI", "dd/dad/a17618.html#a3001e77b4a20feb0eee5a9605f13ba81", null ],
-    [ "AttackStart", "dd/dad/a17618.html#ac21b90c1892c15882794384517ef9fd2", null ],
-    [ "CanAIAttack", "dd/dad/a17618.html#aef351305ef34fa316809697125a3bc9a", null ],
-    [ "MovementInform", "dd/dad/a17618.html#a94d81b882dd59dd00b0952b45d61a7cb", null ],
-    [ "UpdateAI", "dd/dad/a17618.html#a8fbb601c3accdf3b0494d317bc0d5733", null ],
-    [ "anyValid", "dd/dad/a17618.html#a00c7dc23618c60826241133a0067c1c4", null ],
-    [ "checkTimer", "dd/dad/a17618.html#af80cee9c2c86fa8b4c643d262042ba3c", null ]
+    [ "npc_saurfang_eventAI", "dd/dad/a17618.html#a8436a87576c92ecc0b45106683d20e93", null ],
+    [ "DoAction", "dd/dad/a17618.html#a45201c4a5b94fad948efe1d08e63e262", null ],
+    [ "SetData", "dd/dad/a17618.html#a7f012a54ebce5307940eb7957f028d52", null ],
+    [ "SpellHit", "dd/dad/a17618.html#a2ed920f949c4d8dbc6d6ff5b9149e749", null ],
+    [ "_index", "dd/dad/a17618.html#a793d72078bd68b34fcdb7cd6587295dd", null ]
 ];

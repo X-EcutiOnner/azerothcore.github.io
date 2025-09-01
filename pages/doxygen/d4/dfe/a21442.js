@@ -1,8 +1,7 @@
 var a21442 =
 [
-    [ "npc_azure_mage_slayerAI", "d4/dfe/a21442.html#af1a57574d70a48b16d70d8a056f54018", null ],
-    [ "Reset", "d4/dfe/a21442.html#aabe921f0d4fd147c457779791a7af619", null ],
-    [ "UpdateAI", "d4/dfe/a21442.html#a7cc5ea88be6c9cf767a0cd433db7dd73", null ],
-    [ "uiArcaneEmpowermentTimer", "d4/dfe/a21442.html#ace0fdd5e4b57e7ce603d2355bfc838dd", null ],
-    [ "uiSpellLockTimer", "d4/dfe/a21442.html#ac3c4d2be0dd9ba42e40adccda7100947", null ]
+    [ "PrepareAuraScript", "d4/dfe/a21442.html#a2b5894cd889205f19ac2c6ea5a535a82", null ],
+    [ "Register", "d4/dfe/a21442.html#a95b0bcb7f3027cb63711c74befbd74ea", null ],
+    [ "TriggerFists", "d4/dfe/a21442.html#a2df5a013ba1b3c5b57d628fd59a9073a", null ],
+    [ "Validate", "d4/dfe/a21442.html#a2b7c45343d17839d85bf64ed36afd45c", null ]
 ];

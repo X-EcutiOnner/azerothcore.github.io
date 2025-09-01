@@ -1,6 +1,6 @@
 var a20390 =
 [
-    [ "FilterTargets", "d4/dd6/a20390.html#ae8d940a89be9b63286911bd55dcd3844", null ],
-    [ "PrepareSpellScript", "d4/dd6/a20390.html#a8f4b4d82e53c8f820b620896478681a9", null ],
-    [ "Register", "d4/dd6/a20390.html#a744d5cb8de927410ab1bf72008fff8b3", null ]
+    [ "npc_ulduar_hodir_druidAI", "db/d91/a20394.html", "db/d91/a20394" ],
+    [ "npc_ulduar_hodir_druid", "d4/dd6/a20390.html#a07809d61d55756a847467043b0e90989", null ],
+    [ "GetAI", "d4/dd6/a20390.html#a4b0503e20bf8caddf0ea544a88124263", null ]
 ];

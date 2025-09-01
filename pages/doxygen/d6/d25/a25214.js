@@ -1,5 +1,6 @@
 var a25214 =
 [
-    [ "PrepareSpellScript", "d6/d25/a25214.html#ae49ad5a4ad43099c4510e1666ff6415b", null ],
-    [ "Register", "d6/d25/a25214.html#ad31fa6c2099d984389c3fb12e53a5bd8", null ]
+    [ "PrepareSpellScript", "d6/d25/a25214.html#a47d6dbe250410458fe54421158545efb", null ],
+    [ "Register", "d6/d25/a25214.html#ae2334b3fcfa916eb4b9ae1ca85a9687e", null ],
+    [ "SetDest", "d6/d25/a25214.html#aa037240eae1a1dd2c2670fed7dcc4e8c", null ]
 ];

@@ -1,11 +1,9 @@
 var a15306 =
 [
-    [ "npc_depth_chargeAI", "d4/d1c/a15306.html#a088848c16418964973107e125c20f508", null ],
-    [ "AttackStart", "d4/d1c/a15306.html#a1ec6e2ea0cc61262932f63f764273cdb", null ],
-    [ "JustEngagedWith", "d4/d1c/a15306.html#a90cc6eab8b63588f2567f59941eafc59", null ],
-    [ "MoveInLineOfSight", "d4/d1c/a15306.html#a8342b7fc7677ac94757c725ec4063e9e", null ],
-    [ "Reset", "d4/d1c/a15306.html#aaccf632a50749c0f6d6f29bb1b1bf5a4", null ],
-    [ "UpdateAI", "d4/d1c/a15306.html#af34e55c3aee40f840edf695adc06495e", null ],
-    [ "WeMustDie", "d4/d1c/a15306.html#a7b25b1228cf5029f1ebe653c76cf9843", null ],
-    [ "WeMustDieTimer", "d4/d1c/a15306.html#a23e4f1f7079d12e78c74c21171d95cc7", null ]
+    [ "boss_fankriss", "d4/d1c/a15306.html#ab6b0ee6c1605aaf148dddd6a6f4788b9", null ],
+    [ "JustEngagedWith", "d4/d1c/a15306.html#a9eaae719a271a95f64ac8076fe807c13", null ],
+    [ "Reset", "d4/d1c/a15306.html#af84010ee103eb81c1e269b03fc640f81", null ],
+    [ "SummonHatchlingWaves", "d4/d1c/a15306.html#a91420e51be346e1b9cfa4efbdec00d76", null ],
+    [ "SummonWorms", "d4/d1c/a15306.html#ada23537921c3a11195450db89eb8fcfe", null ],
+    [ "summonWormSpells", "d4/d1c/a15306.html#a4f9722f1c6aa27be798d4bacbdb5fac6", null ]
 ];

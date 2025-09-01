@@ -1,7 +1,12 @@
 var a21534 =
 [
-    [ "npc_lurgglbrAI", "dc/d37/a21538.html", "dc/d37/a21538" ],
-    [ "npc_lurgglbr", "d9/ddc/a21534.html#a7df52667e4d789391820a4c2182db8d2", null ],
-    [ "GetAI", "d9/ddc/a21534.html#a2795346371e7b474c53dcacb9daf2001", null ],
-    [ "OnQuestAccept", "d9/ddc/a21534.html#a1b3ba7b0782dc91ff268b7044cf13e82", null ]
+    [ "boss_moraggAI", "d9/ddc/a21534.html#a3ae881c9adca20a2cb894af85297d53e", null ],
+    [ "EnterEvadeMode", "d9/ddc/a21534.html#a4e70e42407f452c4685c732949fd2b52", null ],
+    [ "JustDied", "d9/ddc/a21534.html#a97516e6ad5f7f35d0329674130e76dd3", null ],
+    [ "JustEngagedWith", "d9/ddc/a21534.html#ab1d4d863a537a3c567eeda6f95f385ca", null ],
+    [ "MoveInLineOfSight", "d9/ddc/a21534.html#a52a99d72dfa017baacb76717e6db931b", null ],
+    [ "Reset", "d9/ddc/a21534.html#a8b7419c94e36b4b2292cf110a2eccb01", null ],
+    [ "UpdateAI", "d9/ddc/a21534.html#aec7645eaae190d1e7982aae181ff9224", null ],
+    [ "events", "d9/ddc/a21534.html#acd021e4216e3920f0534da95d69ba5eb", null ],
+    [ "pInstance", "d9/ddc/a21534.html#a9f179ea9b180095a1e6df11b4842c5e5", null ]
 ];

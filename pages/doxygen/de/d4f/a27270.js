@@ -1,7 +1,6 @@
 var a27270 =
 [
-    [ "go_darkmoon_faire_musicAI", "de/d4f/a27270.html#a2ee13dd1260c1ad5b810c25665c9ec87", null ],
-    [ "UpdateAI", "de/d4f/a27270.html#af3d802bd852fc0483f72781edb13b5d5", null ],
-    [ "_events", "de/d4f/a27270.html#acc7e15d2b286b7df262623acf7ea7f03", null ],
-    [ "rnd", "de/d4f/a27270.html#a9a4c983f11c4d912f31eaaf351afc016", null ]
+    [ "AreaTrigger_at_brewfest", "de/d4f/a27270.html#ad7e2916aefc6efbfb9f747a75a4a14a3", null ],
+    [ "OnTrigger", "de/d4f/a27270.html#a17e4a8d671136466c7673789e4f69a84", null ],
+    [ "_triggerTimes", "de/d4f/a27270.html#ab763765427796ad17338bcc8d63cf891", null ]
 ];

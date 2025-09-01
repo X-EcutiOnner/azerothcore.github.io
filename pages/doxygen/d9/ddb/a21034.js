@@ -1,7 +1,6 @@
 var a21034 =
 [
-    [ "HandleEffectPeriodic", "d9/ddb/a21034.html#a2b9426d0a2ce9251632acebb30d0e2b5", null ],
-    [ "PrepareAuraScript", "d9/ddb/a21034.html#a7dca0398e78278c78dd80e9e6ca874e1", null ],
-    [ "Register", "d9/ddb/a21034.html#a74052d7da1523b3c4010465510e5fe04", null ],
-    [ "Validate", "d9/ddb/a21034.html#a587a469c649877f80e8fe80062e8b5d4", null ]
+    [ "boss_yoggsaron_constrictor_tentacleAI", "d0/df1/a21038.html", "d0/df1/a21038" ],
+    [ "boss_yoggsaron_constrictor_tentacle", "d9/ddb/a21034.html#a131809f1c691e55a33863caf6fe0c5dc", null ],
+    [ "GetAI", "d9/ddb/a21034.html#ac469d5661eb664c73bf5ab38084cb03e", null ]
 ];

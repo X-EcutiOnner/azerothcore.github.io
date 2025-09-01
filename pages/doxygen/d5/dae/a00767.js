@@ -1,14 +1,17 @@
 var a00767 =
 [
-    [ "WeatherMap", "d5/dae/a00767.html#afdd64650acc01e75684c5ae2b269d5c1", null ],
-    [ "WeatherZoneMap", "d5/dae/a00767.html#a77b1d830c50ce06ef7bb67f75cbd48b6", null ],
-    [ "AddWeather", "d5/dae/a00767.html#ga1f76350b68494335d48ae206b87e190c", null ],
-    [ "FindWeather", "d5/dae/a00767.html#gadd11deec2098fed61adf7910b8f09cc6", null ],
-    [ "GetWeatherData", "d5/dae/a00767.html#a8d453fe2bfb19b170807fe92e393bc51", null ],
-    [ "LoadWeatherData", "d5/dae/a00767.html#ga6c7d8a9fc5dfce0880220f4b5b8cd623", null ],
-    [ "RemoveWeather", "d5/dae/a00767.html#ga296a3324a3a38984149fae3e5d62435f", null ],
-    [ "SendFineWeatherUpdateToPlayer", "d5/dae/a00767.html#gac86b4e254146468a7412d8fc7b0c27f2", null ],
-    [ "Update", "d5/dae/a00767.html#ga45f0da6cf9e14a99380b4b9be2890801", null ],
-    [ "m_weathers", "d5/dae/a00767.html#ac2bde7e8b2ecff6ab9b2705d01ce8b2c", null ],
-    [ "mWeatherZoneMap", "d5/dae/a00767.html#a977110fadc5eac5e2efa26106382d408", null ]
+    [ "AddSC_deathknight_spell_scripts", "d5/dae/a00767.html#adcd4982e9aa1bb7ee8b4b39976cb7273", null ],
+    [ "AddSC_druid_spell_scripts", "d5/dae/a00767.html#a27c286499ee0c44de84c8f14e5c82d50", null ],
+    [ "AddSC_generic_spell_scripts", "d5/dae/a00767.html#ac2941716297c47e58e65de027a53ce16", null ],
+    [ "AddSC_hunter_spell_scripts", "d5/dae/a00767.html#af7e6bdb12ab989b575a1dca18382ea7c", null ],
+    [ "AddSC_item_spell_scripts", "d5/dae/a00767.html#a7c83be18daa3cdaab096b0caf49520a2", null ],
+    [ "AddSC_mage_spell_scripts", "d5/dae/a00767.html#a504d82c8e95f93fa88a54d34e919ed57", null ],
+    [ "AddSC_paladin_spell_scripts", "d5/dae/a00767.html#a1b3a1eb790e51c96829e92e5c922f437", null ],
+    [ "AddSC_priest_spell_scripts", "d5/dae/a00767.html#a0b0a2df1c9b8607784e59887025677c4", null ],
+    [ "AddSC_quest_spell_scripts", "d5/dae/a00767.html#aeb9d6863ab0326c3d6f1ac2c16d9f75c", null ],
+    [ "AddSC_rogue_spell_scripts", "d5/dae/a00767.html#a540405afe3345e19487d2db693272b2a", null ],
+    [ "AddSC_shaman_spell_scripts", "d5/dae/a00767.html#a3082f46075e4e453c37bc429c9d57a1a", null ],
+    [ "AddSC_warlock_spell_scripts", "d5/dae/a00767.html#a2054657c41c2347732a7d2903e3b8138", null ],
+    [ "AddSC_warrior_spell_scripts", "d5/dae/a00767.html#a9c003dba1ff10c2e27f5ee3d4109549f", null ],
+    [ "AddSpellsScripts", "d5/dae/a00767.html#aed7f09583615630437020215a3851296", null ]
 ];

@@ -1,7 +1,8 @@
 var a26714 =
 [
-    [ "HandleEffectProc", "d3/d8b/a26714.html#a7f2ddbf54a4932277ad91eb0036915ab", null ],
-    [ "PrepareAuraScript", "d3/d8b/a26714.html#a47d844a9700cd8add793e3f3088d1b82", null ],
-    [ "Register", "d3/d8b/a26714.html#ad40dfc164ab98fc9734e1ed15ea14c17", null ],
-    [ "Validate", "d3/d8b/a26714.html#a97f5239399e7135b02000722eaf837ad", null ]
+    [ "CheckCast", "d3/d8b/a26714.html#a16983545e25f3e02064e2b3d573b2bb8", null ],
+    [ "CheckQuest", "d3/d8b/a26714.html#abc927d932c1d5e05eab1918364d68ed5", null ],
+    [ "HandleActiveObject", "d3/d8b/a26714.html#a95f7bd6dd52b19bb1c09975a7286882a", null ],
+    [ "PrepareSpellScript", "d3/d8b/a26714.html#a96e69476965cc2466213a5371a57093a", null ],
+    [ "Register", "d3/d8b/a26714.html#a83c48e1c42a6a6dd892f0f4d6a20687b", null ]
 ];

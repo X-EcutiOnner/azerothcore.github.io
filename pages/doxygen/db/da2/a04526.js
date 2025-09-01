@@ -1,8 +1,9 @@
 var a04526 =
 [
-    [ "Acore::Impl::CryptoGenericsImpl", "dc/ded/a05184.html", "dc/ded/a05184" ],
-    [ "AEDecrypt", "db/da2/a04526.html#a1173a93d3f38af692d24411d34829de0", null ],
-    [ "AEDecrypt", "db/da2/a04526.html#aeb3d22d5d1d2ceeb4a752b7dccc143b0", null ],
-    [ "AEEncryptWithRandomIV", "db/da2/a04526.html#a0057c59e47839100792e392e2d73783a", null ],
-    [ "AEEncryptWithRandomIV", "db/da2/a04526.html#a42045f5644391c1c876f0ae1bc180f7c", null ]
+    [ "AddWeather", "db/da2/a04526.html#ga1f76350b68494335d48ae206b87e190c", null ],
+    [ "FindWeather", "db/da2/a04526.html#gadd11deec2098fed61adf7910b8f09cc6", null ],
+    [ "LoadWeatherData", "db/da2/a04526.html#ga6c7d8a9fc5dfce0880220f4b5b8cd623", null ],
+    [ "RemoveWeather", "db/da2/a04526.html#ga296a3324a3a38984149fae3e5d62435f", null ],
+    [ "SendFineWeatherUpdateToPlayer", "db/da2/a04526.html#gac86b4e254146468a7412d8fc7b0c27f2", null ],
+    [ "Update", "db/da2/a04526.html#ga45f0da6cf9e14a99380b4b9be2890801", null ]
 ];

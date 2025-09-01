@@ -1,10 +1,10 @@
 var a27718 =
 [
-    [ "npc_shadow_of_doom", "de/dcb/a27718.html#a3b28f532f7565f0771bed039137d16e2", null ],
-    [ "IsSummonedBy", "de/dcb/a27718.html#a4a4691d8206eb39f9350588feda6a08c", null ],
-    [ "JustDied", "de/dcb/a27718.html#a99fb578fe102e22dcf4bb11911f6a5e9", null ],
-    [ "JustEngagedWith", "de/dcb/a27718.html#a7c338e5d4f3b2500656cf40cfc221210", null ],
-    [ "Reset", "de/dcb/a27718.html#aecfe82e99408f10705c9286a9e97e592", null ],
-    [ "SpellHit", "de/dcb/a27718.html#abe23f7a07705f75c789f415d646d8428", null ],
-    [ "UpdateAI", "de/dcb/a27718.html#ac01f10aed6c755744f2e8c5918340163", null ]
+    [ "npc_air_force_botsAI", "de/dcb/a27718.html#a062eb272826d52ffd9b72054f970b761", null ],
+    [ "GetSummonedGuard", "de/dcb/a27718.html#ac4f39049ba15caf314939f12b82ccd05", null ],
+    [ "MoveInLineOfSight", "de/dcb/a27718.html#a474231c0ce93b4db0789bcc8f6767c19", null ],
+    [ "Reset", "de/dcb/a27718.html#a016911d354f3b00e2db3e4f3722cda7f", null ],
+    [ "SummonGuard", "de/dcb/a27718.html#a8da57471dfa875f55f52c3d2b068a0f3", null ],
+    [ "SpawnAssoc", "de/dcb/a27718.html#a6f2f7ffd24dd32780c441fd6ce29dfbf", null ],
+    [ "SpawnedGUID", "de/dcb/a27718.html#a3c8ae595a3b4a436c2f94aa84cb9ee56", null ]
 ];

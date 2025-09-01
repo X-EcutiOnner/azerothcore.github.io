@@ -1,7 +1,6 @@
 var a22086 =
 [
-    [ "HandleDummy", "d6/d1a/a22086.html#abfb58e49821e6a563940e8ba518db850", null ],
-    [ "PrepareSpellScript", "d6/d1a/a22086.html#a61ca2f71b0fa323a54f716415b25b75e", null ],
-    [ "Register", "d6/d1a/a22086.html#a7a2cc833ae8d079b821caabf55b6f0e5", null ],
-    [ "Validate", "d6/d1a/a22086.html#a21daeadffbfd28621d897dfe67dd11a8", null ]
+    [ "npc_ravenous_worgAI", "db/d79/a22090.html", "db/d79/a22090" ],
+    [ "npc_ravenous_worg", "d6/d1a/a22086.html#ad7f8da1c82072367fe4a537620df9ac0", null ],
+    [ "GetAI", "d6/d1a/a22086.html#ac966ae31d3a86c9435b14d9f50a5f4cb", null ]
 ];

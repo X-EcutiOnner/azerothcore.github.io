@@ -1,13 +1,12 @@
 var a23122 =
 [
-    [ "boss_fathomguard_caribdis", "db/d03/a23122.html#a9172b9717e5137ddde7df38bb237478c", null ],
-    [ "EnterEvadeMode", "db/d03/a23122.html#aa666a491a776b12a042ee140aedc95eb", null ],
-    [ "JustDied", "db/d03/a23122.html#ab821365b35a48f70a11c6033fe2ca714", null ],
-    [ "JustEngagedWith", "db/d03/a23122.html#a5503519998f51f475420ada2210f32f0", null ],
-    [ "JustSummoned", "db/d03/a23122.html#a39ca45ec0de50b7d7a5ec866c4017a8a", null ],
-    [ "Reset", "db/d03/a23122.html#a0d2a3403d5934e86a897b3417ed2214a", null ],
-    [ "UpdateAI", "db/d03/a23122.html#af4a544f37d178de21d84f2544f24431e", null ],
-    [ "_instance", "db/d03/a23122.html#a73f567f2269aeca1435af82e1c6880e9", null ],
-    [ "_scheduler", "db/d03/a23122.html#a08b01e9735e421d8d5bbc2b552217762", null ],
-    [ "_summons", "db/d03/a23122.html#ac8b53cb81547a2423a13c997badb77e3", null ]
+    [ "npc_creature_generator_akama", "db/d03/a23122.html#a8e91cadea7f135ff692635e4d39923e0", null ],
+    [ "DoAction", "db/d03/a23122.html#a01efeecd374056da287e4a1e468472b6", null ],
+    [ "JustSummoned", "db/d03/a23122.html#af58d7b130ed3b6c209c08ae14444bfe3", null ],
+    [ "Reset", "db/d03/a23122.html#a23cf08661802f247147bb23cff30eeab", null ],
+    [ "SummonedCreatureDies", "db/d03/a23122.html#a35b7ecfa659d80a869868b9a2732d92b", null ],
+    [ "UpdateAI", "db/d03/a23122.html#a8c6e3ca67691e7625700f22c5b1c09c5", null ],
+    [ "instance", "db/d03/a23122.html#a109aea7bb0747f8572c1d46e9df2d2a5", null ],
+    [ "spawnCounter", "db/d03/a23122.html#a02d8acace195438fe6e8d4705a043078", null ],
+    [ "summons", "db/d03/a23122.html#a3d532e607c48298ca0464ee630dd27b3", null ]
 ];

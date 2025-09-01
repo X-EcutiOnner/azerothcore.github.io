@@ -1,7 +1,6 @@
 var a14526 =
 [
-    [ "GetVisualThrow", "d7/d27/a14526.html#afe59e0c21eaa06e2b1d614613b1d2f73", null ],
-    [ "HandleDummy", "d7/d27/a14526.html#adca1aacf89dcf452f1c98cae97f09690", null ],
-    [ "PrepareSpellScript", "d7/d27/a14526.html#a642f2d3992e7e3a4393d2b0c6b521597", null ],
-    [ "Register", "d7/d27/a14526.html#a68a6e9b307500a56e66bc19c41daf9dc", null ]
+    [ "HandleDummy", "d7/d27/a14526.html#a7e6ecd28a6b1f161619e179bc386388e", null ],
+    [ "PrepareSpellScript", "d7/d27/a14526.html#a87a787c6ab3804847c90266f570381c6", null ],
+    [ "Register", "d7/d27/a14526.html#ad5c7ab8f3bb74882eed42c6e0868ab70", null ]
 ];

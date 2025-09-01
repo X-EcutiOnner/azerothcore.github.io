@@ -1,6 +1,6 @@
 var a17830 =
 [
-    [ "UnboundPlagueTargetSelector", "d3/d1d/a17830.html#aedde7e013418bf6ff54cf3d3b8a70206", null ],
-    [ "operator()", "d3/d1d/a17830.html#ae5fc2623d4eb0b0a82b3eaa464c92458", null ],
-    [ "_source", "d3/d1d/a17830.html#a87eb77615e443ccec373d571708a156a", null ]
+    [ "PrepareSpellScript", "d3/d1d/a17830.html#a4878ffa30feb16e98d3945f8a6e3c863", null ],
+    [ "Register", "d3/d1d/a17830.html#a651f52f7d242251ff69d100fd69376e4", null ],
+    [ "SelectTarget", "d3/d1d/a17830.html#aede083ebebe38deb5898ff028564ef95", null ]
 ];

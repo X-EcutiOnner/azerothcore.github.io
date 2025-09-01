@@ -1,6 +1,12 @@
 var a17070 =
 [
-    [ "npc_pos_icicle_triggerAI", "d5/d74/a17074.html", "d5/d74/a17074" ],
-    [ "npc_pos_icicle_trigger", "d1/d75/a17070.html#ae38155ce579f50ff7de0fa5ca50a1c3e", null ],
-    [ "GetAI", "d1/d75/a17070.html#ad2f984f5b2b713b8307efdf4bcbcf8da", null ]
+    [ "npc_tortured_riflemanAI", "d1/d75/a17070.html#a65dc1d2ba5769aed1a0b2487322ff2b1", null ],
+    [ "AttackStart", "d1/d75/a17070.html#aaf2b73d0b60791f887207842580d91dc", null ],
+    [ "DoAction", "d1/d75/a17070.html#acb941c20d911a567c93bb0f92105fdfd", null ],
+    [ "EnterEvadeMode", "d1/d75/a17070.html#aabd56fc4aaed247a9ac3ce5bcdc4cb50", null ],
+    [ "JustDied", "d1/d75/a17070.html#a5796a96626937e1026cc1fec0eba4e0b", null ],
+    [ "JustEngagedWith", "d1/d75/a17070.html#ac5d8f17c48269da06c14643e82c88567", null ],
+    [ "Reset", "d1/d75/a17070.html#a04f9c7056e063d436df66f079127d1a7", null ],
+    [ "UpdateAI", "d1/d75/a17070.html#a194a615eef3651cdc97d4e4ad57bf017", null ],
+    [ "events", "d1/d75/a17070.html#a958f27c1f917dc1ae0a9f84549481f93", null ]
 ];

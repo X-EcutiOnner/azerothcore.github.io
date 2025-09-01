@@ -1,6 +1,5 @@
 var a15986 =
 [
-    [ "npc_twilight_summonAI", "d9/d77/a15990.html", "d9/d77/a15990" ],
-    [ "npc_twilight_summon", "dd/dc8/a15986.html#a2406ee3b02d9f1b1ebef54623d9a3c11", null ],
-    [ "GetAI", "dd/dc8/a15986.html#a98bf5ce96c25bc252acd46163644bf33", null ]
+    [ "achievement_respect_your_elders", "dd/dc8/a15986.html#a2fd66ada0ff7482c00b2cb417a12e88e", null ],
+    [ "OnCheck", "dd/dc8/a15986.html#a770922be3ab19848f7a8f43a82d78b88", null ]
 ];

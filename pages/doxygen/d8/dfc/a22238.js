@@ -1,6 +1,6 @@
 var a22238 =
 [
-    [ "HandleScriptEffect", "d8/dfc/a22238.html#a1dac2806b74471332aec0595118005a3", null ],
-    [ "PrepareSpellScript", "d8/dfc/a22238.html#adb1efd90b7ffa23887ca4aa3afb6d99e", null ],
-    [ "Register", "d8/dfc/a22238.html#a2ff0986c88dcbd9aac263f62b772c992", null ]
+    [ "npc_boneguard_footmanAI", "df/df7/a22242.html", "df/df7/a22242" ],
+    [ "npc_boneguard_footman", "d8/dfc/a22238.html#aba17f89b9546deff5401ad33224b2b3e", null ],
+    [ "GetAI", "d8/dfc/a22238.html#ab0b28f61e26f701db17a0d19bbde4492", null ]
 ];

@@ -1,6 +1,6 @@
 var a21838 =
 [
-    [ "GhoulTargetCheck", "d3/d3e/a21838.html#acd743b2b1407c5171fbf410a02ff07bf", null ],
-    [ "operator()", "d3/d3e/a21838.html#a6722cfe5a1ceecccf2c07924b2975f46", null ],
-    [ "_alive", "d3/d3e/a21838.html#ab44092ca1cd6d7c17d7c63e0a8333453", null ]
+    [ "npc_steam_powered_auctioneerAI", "dc/dbc/a21842.html", "dc/dbc/a21842" ],
+    [ "npc_steam_powered_auctioneer", "d3/d3e/a21838.html#ae8c918c639ce0c3ddc14b8cf7f0ef855", null ],
+    [ "GetAI", "d3/d3e/a21838.html#a39a2f0c187078c759bc4a391e0a81068", null ]
 ];

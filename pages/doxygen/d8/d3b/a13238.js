@@ -1,12 +1,14 @@
 var a13238 =
 [
-    [ "boss_sacrolash", "d8/d3b/a13238.html#a6e251340b2ba8a8300611cf229b93095", null ],
-    [ "CheckInRoom", "d8/d3b/a13238.html#ae650b6019d2f9191e1b532176159804d", null ],
-    [ "DoAction", "d8/d3b/a13238.html#adbcbd24a90549978032d31d1beeaa4e6", null ],
-    [ "JustDied", "d8/d3b/a13238.html#a17c995220572cf803c36470ca80840e2", null ],
-    [ "JustEngagedWith", "d8/d3b/a13238.html#a822576bf8588d4e45f1532e1980cc7c7", null ],
-    [ "JustSummoned", "d8/d3b/a13238.html#a94214bc45414f61ff53102d6136b7b5c", null ],
-    [ "KilledUnit", "d8/d3b/a13238.html#a4d99da498db0e5a60c7c25fcb91e5270", null ],
-    [ "Reset", "d8/d3b/a13238.html#aa3128dae87d181e7ab93cf3a13723982", null ],
-    [ "_isSisterDead", "d8/d3b/a13238.html#a248d37df91c82069321fc5ea8b1e885d", null ]
+    [ "boss_kirtonos_the_heraldAI", "d8/d3b/a13238.html#af68c553db0889c22b7b4b76c868d38e7", null ],
+    [ "DoAction", "d8/d3b/a13238.html#ade11c2ff67c93f09f34b7b0e59766cc3", null ],
+    [ "EnterEvadeMode", "d8/d3b/a13238.html#a92ee25d349cc1ae3e46e4696a01697c3", null ],
+    [ "JustDied", "d8/d3b/a13238.html#a7ecf7396ebcb6f541586435996094f56", null ],
+    [ "JustEngagedWith", "d8/d3b/a13238.html#abcf09a75bed393e5fc03ef184e5c2918", null ],
+    [ "MovementInform", "d8/d3b/a13238.html#a16379320eebb8223a79cf3927bdc507e", null ],
+    [ "UpdateAI", "d8/d3b/a13238.html#a7eedcb1416d05b95f6110751119aea02", null ],
+    [ "events", "d8/d3b/a13238.html#a5dd38f68ce8745484cbc00dadde439dc", null ],
+    [ "events2", "d8/d3b/a13238.html#aaf9216da4f5394953d0316be8d8e8c4f", null ],
+    [ "instance", "d8/d3b/a13238.html#acae39cf7bc9a6d68834d3916fa75a006", null ],
+    [ "TransformsCount", "d8/d3b/a13238.html#aa0834b23d00463ae36bb0ec6a2067257", null ]
 ];

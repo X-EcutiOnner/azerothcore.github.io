@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: RASession Class Reference</title>
+<title>AzerothCore: AccountInfo Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,68 +106,66 @@ $(document).ready(function(){initNavTree('d7/d23/a05670.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pri-methods">Private Member Functions</a> &#124;
-<a href="#pri-static-methods">Static Private Member Functions</a> &#124;
-<a href="#pri-attribs">Private Attributes</a> &#124;
+<a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../d6/dda/a05667.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">RASession Class Reference</div></div>
+  <div class="headertitle"><div class="title">AccountInfo Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">RASession.h</a>&quot;</code></p>
-<div class="dynheader">
-Inheritance diagram for RASession:</div>
-<div class="dyncontent">
- <div class="center">
-  <img src="../../d7/d23/a05670.png" alt=""/>
- </div></div>
+<p><code>#include &quot;<a class="el" href="../../">AuthSession.h</a>&quot;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:aa2f68476e9ba2719693ec5c4839bb7fc"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d23/a05670.html#aa2f68476e9ba2719693ec5c4839bb7fc">RASession</a> (tcp::socket &amp;&amp;socket)</td></tr>
-<tr class="separator:aa2f68476e9ba2719693ec5c4839bb7fc"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af2cc6a74f520824fa739688e8d15d60c"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d23/a05670.html#af2cc6a74f520824fa739688e8d15d60c">Start</a> ()</td></tr>
-<tr class="separator:af2cc6a74f520824fa739688e8d15d60c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aff8957db5a0cceec4fddeb7950bba557"><td class="memItemLeft" align="right" valign="top">const std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d23/a05670.html#aff8957db5a0cceec4fddeb7950bba557">GetRemoteIpAddress</a> () const</td></tr>
-<tr class="separator:aff8957db5a0cceec4fddeb7950bba557"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8320914f7d0fc769e2e3861b8df75f5a"><td class="memItemLeft" align="right" valign="top">unsigned short&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d23/a05670.html#a8320914f7d0fc769e2e3861b8df75f5a">GetRemotePort</a> () const</td></tr>
-<tr class="separator:a8320914f7d0fc769e2e3861b8df75f5a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9082681008dee65a0d5d2f758e88729c"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d23/a05670.html#a9082681008dee65a0d5d2f758e88729c">LoadResult</a> (<a class="el" href="../../d1/d52/a05734.html">Field</a> *fields)</td></tr>
+<tr class="separator:a9082681008dee65a0d5d2f758e88729c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a011c12b544551f2dd0a81e15476fe6d0"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d23/a05670.html#a011c12b544551f2dd0a81e15476fe6d0">AccountInfo</a> (<a class="el" href="../../d1/d52/a05734.html">Field</a> *fields)</td></tr>
+<tr class="separator:a011c12b544551f2dd0a81e15476fe6d0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-methods" name="pri-methods"></a>
-Private Member Functions</h2></td></tr>
-<tr class="memitem:a0f87da6517747387b3899b608328a8c5"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d23/a05670.html#a0f87da6517747387b3899b608328a8c5">Send</a> (std::string_view data)</td></tr>
-<tr class="separator:a0f87da6517747387b3899b608328a8c5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a55f31c8b5181bf5d95b353b875267783"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d23/a05670.html#a55f31c8b5181bf5d95b353b875267783">ReadString</a> ()</td></tr>
-<tr class="separator:a55f31c8b5181bf5d95b353b875267783"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a72963e43e085c28b7d4bb50dfa45433a"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d23/a05670.html#a72963e43e085c28b7d4bb50dfa45433a">CheckAccessLevel</a> (const std::string &amp;user)</td></tr>
-<tr class="separator:a72963e43e085c28b7d4bb50dfa45433a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abf15291f3135a382d314feb8a5d72e9e"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d23/a05670.html#abf15291f3135a382d314feb8a5d72e9e">CheckPassword</a> (const std::string &amp;user, const std::string &amp;pass)</td></tr>
-<tr class="separator:abf15291f3135a382d314feb8a5d72e9e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad4f4c2ccb371867a882351b3f8f8a9ef"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d23/a05670.html#ad4f4c2ccb371867a882351b3f8f8a9ef">ProcessCommand</a> (std::string &amp;command)</td></tr>
-<tr class="separator:ad4f4c2ccb371867a882351b3f8f8a9ef"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-static-methods" name="pri-static-methods"></a>
-Static Private Member Functions</h2></td></tr>
-<tr class="memitem:adda3b14e26103155c0a154e4673e8627"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d23/a05670.html#adda3b14e26103155c0a154e4673e8627">CommandPrint</a> (void *callbackArg, std::string_view text)</td></tr>
-<tr class="separator:adda3b14e26103155c0a154e4673e8627"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a547d5f26b74209003a8a3c7f8aa4af5d"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d23/a05670.html#a547d5f26b74209003a8a3c7f8aa4af5d">CommandFinished</a> (void *callbackArg, bool)</td></tr>
-<tr class="separator:a547d5f26b74209003a8a3c7f8aa4af5d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
-Private Attributes</h2></td></tr>
-<tr class="memitem:ac18177d4dfeb0c03d0b1d2015f5dd7e6"><td class="memItemLeft" align="right" valign="top">tcp::socket&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d23/a05670.html#ac18177d4dfeb0c03d0b1d2015f5dd7e6">_socket</a></td></tr>
-<tr class="separator:ac18177d4dfeb0c03d0b1d2015f5dd7e6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a899e34097702112e05e942a33ebcb1d2"><td class="memItemLeft" align="right" valign="top">boost::asio::streambuf&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d23/a05670.html#a899e34097702112e05e942a33ebcb1d2">_readBuffer</a></td></tr>
-<tr class="separator:a899e34097702112e05e942a33ebcb1d2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a82ccb9ab8abf1403fd5d2384beac99b7"><td class="memItemLeft" align="right" valign="top">boost::asio::streambuf&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d23/a05670.html#a82ccb9ab8abf1403fd5d2384beac99b7">_writeBuffer</a></td></tr>
-<tr class="separator:a82ccb9ab8abf1403fd5d2384beac99b7"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a817e53b23c54f2f6bbf7058eab0824b4"><td class="memItemLeft" align="right" valign="top">std::promise&lt; void &gt; *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d23/a05670.html#a817e53b23c54f2f6bbf7058eab0824b4">_commandExecuting</a></td></tr>
-<tr class="separator:a817e53b23c54f2f6bbf7058eab0824b4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
+Public Attributes</h2></td></tr>
+<tr class="memitem:a8927a7332aba609a90e35555a62c2013"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d23/a05670.html#a8927a7332aba609a90e35555a62c2013">Id</a> = 0</td></tr>
+<tr class="separator:a8927a7332aba609a90e35555a62c2013"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad67cd12c25d4991c563d5ecf66b54e2e"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d23/a05670.html#ad67cd12c25d4991c563d5ecf66b54e2e">Login</a></td></tr>
+<tr class="separator:ad67cd12c25d4991c563d5ecf66b54e2e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa4f52d33739d0d0adc3fa88a09ae7465"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d23/a05670.html#aa4f52d33739d0d0adc3fa88a09ae7465">IsLockedToIP</a> = false</td></tr>
+<tr class="separator:aa4f52d33739d0d0adc3fa88a09ae7465"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a00646bbedb925aafea7ef9cbc2bacb3c"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d23/a05670.html#a00646bbedb925aafea7ef9cbc2bacb3c">LockCountry</a></td></tr>
+<tr class="separator:a00646bbedb925aafea7ef9cbc2bacb3c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aba34159637020c1858f80bec57ba4945"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d23/a05670.html#aba34159637020c1858f80bec57ba4945">LastIP</a></td></tr>
+<tr class="separator:aba34159637020c1858f80bec57ba4945"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a252a0300cb2288b4715cb864f93a25e5"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d23/a05670.html#a252a0300cb2288b4715cb864f93a25e5">FailedLogins</a> = 0</td></tr>
+<tr class="separator:a252a0300cb2288b4715cb864f93a25e5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9e199ded02bf60c9f05408955af21d84"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d23/a05670.html#a9e199ded02bf60c9f05408955af21d84">IsBanned</a> = false</td></tr>
+<tr class="separator:a9e199ded02bf60c9f05408955af21d84"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a591d37d4e95abea7a8dfbed2581c0f84"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d23/a05670.html#a591d37d4e95abea7a8dfbed2581c0f84">IsPermanentlyBanned</a> = false</td></tr>
+<tr class="separator:a591d37d4e95abea7a8dfbed2581c0f84"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a949a98051356ca84c333f3388ce9c49d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/dbc/a00395.html#adaa1cabfe05f8df3c272bdcfd89cdac7">AccountTypes</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d23/a05670.html#a949a98051356ca84c333f3388ce9c49d">SecurityLevel</a> = <a class="el" href="../../db/dbc/a00395.html#adaa1cabfe05f8df3c272bdcfd89cdac7a5d534fd54528d86d0f997fa130159df0">SEC_PLAYER</a></td></tr>
+<tr class="separator:a949a98051356ca84c333f3388ce9c49d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a69846e3f67cbe53f920ba36ecf301467"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d7f/a00287.html#a7cbcb71452529a2addaab3b112dba4d7">::SessionKey</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d23/a05670.html#a69846e3f67cbe53f920ba36ecf301467">SessionKey</a></td></tr>
+<tr class="separator:a69846e3f67cbe53f920ba36ecf301467"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acb4c44664aff165a48d262f81849caf4"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d23/a05670.html#acb4c44664aff165a48d262f81849caf4">Expansion</a></td></tr>
+<tr class="separator:acb4c44664aff165a48d262f81849caf4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a95eeb7d5ac99719aa16f467717b815e3"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d23/a05670.html#a95eeb7d5ac99719aa16f467717b815e3">Flags</a></td></tr>
+<tr class="separator:a95eeb7d5ac99719aa16f467717b815e3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a29aaa2c7cebfb41bff13836a80a3ef10"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#ad7a3bd3be7bd59e7fb6337fcbc956eb1">int64</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d23/a05670.html#a29aaa2c7cebfb41bff13836a80a3ef10">MuteTime</a></td></tr>
+<tr class="separator:a29aaa2c7cebfb41bff13836a80a3ef10"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a237d1cfbc774d06851df27610e49bcac"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/dbc/a00395.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d23/a05670.html#a237d1cfbc774d06851df27610e49bcac">Locale</a></td></tr>
+<tr class="separator:a237d1cfbc774d06851df27610e49bcac"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a051493f00148208e9284ef33b9c31fad"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d23/a05670.html#a051493f00148208e9284ef33b9c31fad">Recruiter</a></td></tr>
+<tr class="separator:a051493f00148208e9284ef33b9c31fad"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a04c0477667a84d67709222b2fc08dfb2"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d23/a05670.html#a04c0477667a84d67709222b2fc08dfb2">OS</a></td></tr>
+<tr class="separator:a04c0477667a84d67709222b2fc08dfb2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5ca2037c73bbad9d8ff5ccea06a5676f"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d23/a05670.html#a5ca2037c73bbad9d8ff5ccea06a5676f">IsRectuiter</a></td></tr>
+<tr class="separator:a5ca2037c73bbad9d8ff5ccea06a5676f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7d5e4dc93d075121b8f77ac767396c46"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/dbc/a00395.html#adaa1cabfe05f8df3c272bdcfd89cdac7">AccountTypes</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d23/a05670.html#a7d5e4dc93d075121b8f77ac767396c46">Security</a></td></tr>
+<tr class="separator:a7d5e4dc93d075121b8f77ac767396c46"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adbcb5bdadd845735c4cbc9da0b7ac87b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d23/a05670.html#adbcb5bdadd845735c4cbc9da0b7ac87b">TotalTime</a></td></tr>
+<tr class="separator:adbcb5bdadd845735c4cbc9da0b7ac87b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="aa2f68476e9ba2719693ec5c4839bb7fc" name="aa2f68476e9ba2719693ec5c4839bb7fc"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa2f68476e9ba2719693ec5c4839bb7fc">&#9670;&#160;</a></span>RASession()</h2>
+<a id="a011c12b544551f2dd0a81e15476fe6d0" name="a011c12b544551f2dd0a81e15476fe6d0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a011c12b544551f2dd0a81e15476fe6d0">&#9670;&#160;</a></span>AccountInfo()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -176,643 +174,442 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">RASession::RASession </td>
+          <td class="memname">AccountInfo::AccountInfo </td>
           <td>(</td>
-          <td class="paramtype">tcp::socket &amp;&amp;&#160;</td>
-          <td class="paramname"><em>socket</em></td><td>)</td>
+          <td class="paramtype"><a class="el" href="../../d1/d52/a05734.html">Field</a> *&#160;</td>
+          <td class="paramname"><em>fields</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">explicit</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   32</span>                                  :</div>
-<div class="line"><span class="lineno">   33</span>        <a class="code hl_variable" href="../../d7/d23/a05670.html#ac18177d4dfeb0c03d0b1d2015f5dd7e6">_socket</a>(std::move(socket)), <a class="code hl_variable" href="../../d7/d23/a05670.html#a817e53b23c54f2f6bbf7058eab0824b4">_commandExecuting</a>(<span class="keyword">nullptr</span>) { }</div>
-<div class="ttc" id="aa05670_html_a817e53b23c54f2f6bbf7058eab0824b4"><div class="ttname"><a href="../../d7/d23/a05670.html#a817e53b23c54f2f6bbf7058eab0824b4">RASession::_commandExecuting</a></div><div class="ttdeci">std::promise&lt; void &gt; * _commandExecuting</div><div class="ttdef"><b>Definition:</b> RASession.h:53</div></div>
-<div class="ttc" id="aa05670_html_ac18177d4dfeb0c03d0b1d2015f5dd7e6"><div class="ttname"><a href="../../d7/d23/a05670.html#ac18177d4dfeb0c03d0b1d2015f5dd7e6">RASession::_socket</a></div><div class="ttdeci">tcp::socket _socket</div><div class="ttdef"><b>Definition:</b> RASession.h:50</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  366</span>    {</div>
+<div class="line"><span class="lineno">  367</span>        <span class="comment">//           0             1          2         3               4            5        6          7         8            9    10           11          12</span></div>
+<div class="line"><span class="lineno">  368</span>        <span class="comment">// SELECT a.id, a.sessionkey, a.last_ip, a.locked, a.lock_country, a.expansion, a.Flags a.mutetime, a.locale, a.recruiter, a.os, a.totaltime, aa.gmLevel,</span></div>
+<div class="line"><span class="lineno">  369</span>        <span class="comment">//                                                           13    14</span></div>
+<div class="line"><span class="lineno">  370</span>        <span class="comment">// ab.unbandate &gt; UNIX_TIMESTAMP() OR ab.unbandate = ab.bandate, r.id</span></div>
+<div class="line"><span class="lineno">  371</span>        <span class="comment">// FROM account a</span></div>
+<div class="line"><span class="lineno">  372</span>        <span class="comment">// LEFT JOIN account_access aa ON a.id = aa.AccountID AND aa.RealmID IN (-1, ?)</span></div>
+<div class="line"><span class="lineno">  373</span>        <span class="comment">// LEFT JOIN account_banned ab ON a.id = ab.id</span></div>
+<div class="line"><span class="lineno">  374</span>        <span class="comment">// LEFT JOIN account r ON a.id = r.recruiter</span></div>
+<div class="line"><span class="lineno">  375</span>        <span class="comment">// WHERE a.username = ? ORDER BY aa.RealmID DESC LIMIT 1</span></div>
+<div class="line"><span class="lineno">  376</span>        <a class="code hl_variable" href="../../d7/d23/a05670.html#a8927a7332aba609a90e35555a62c2013">Id</a> = fields[0].<a class="code hl_function" href="../../d1/d52/a05734.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
+<div class="line"><span class="lineno">  377</span>        <a class="code hl_typedef" href="../../d6/d7f/a00287.html#a7cbcb71452529a2addaab3b112dba4d7">SessionKey</a> = fields[1].<a class="code hl_function" href="../../d1/d52/a05734.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d2/d91/a04697.html#a45c2b15f675e85c1f4462be09f27c59e">Binary</a>, <a class="code hl_variable" href="../../d6/d7f/a00287.html#accf22e06a217bb405f0ee6f240d2e263">SESSION_KEY_LENGTH</a>&gt;();</div>
+<div class="line"><span class="lineno">  378</span>        <a class="code hl_variable" href="../../d7/d23/a05670.html#aba34159637020c1858f80bec57ba4945">LastIP</a> = fields[2].<a class="code hl_function" href="../../d1/d52/a05734.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;std::string&gt;();</div>
+<div class="line"><span class="lineno">  379</span>        <a class="code hl_variable" href="../../d7/d23/a05670.html#aa4f52d33739d0d0adc3fa88a09ae7465">IsLockedToIP</a> = fields[3].<a class="code hl_function" href="../../d1/d52/a05734.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<span class="keywordtype">bool</span>&gt;();</div>
+<div class="line"><span class="lineno">  380</span>        <a class="code hl_variable" href="../../d7/d23/a05670.html#a00646bbedb925aafea7ef9cbc2bacb3c">LockCountry</a> = fields[4].<a class="code hl_function" href="../../d1/d52/a05734.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;std::string&gt;();</div>
+<div class="line"><span class="lineno">  381</span>        <a class="code hl_variable" href="../../d7/d23/a05670.html#acb4c44664aff165a48d262f81849caf4">Expansion</a> = fields[5].<a class="code hl_function" href="../../d1/d52/a05734.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&gt;();</div>
+<div class="line"><span class="lineno">  382</span>        <a class="code hl_variable" href="../../d7/d23/a05670.html#a95eeb7d5ac99719aa16f467717b815e3">Flags</a> = fields[6].<a class="code hl_function" href="../../d1/d52/a05734.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
+<div class="line"><span class="lineno">  383</span>        <a class="code hl_variable" href="../../d7/d23/a05670.html#a29aaa2c7cebfb41bff13836a80a3ef10">MuteTime</a> = fields[7].<a class="code hl_function" href="../../d1/d52/a05734.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d0/d61/a00302.html#ad7a3bd3be7bd59e7fb6337fcbc956eb1">int64</a>&gt;();</div>
+<div class="line"><span class="lineno">  384</span>        <a class="code hl_variable" href="../../d7/d23/a05670.html#a237d1cfbc774d06851df27610e49bcac">Locale</a> = <a class="code hl_enumeration" href="../../db/dbc/a00395.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a>(fields[8].Get&lt;uint8&gt;());</div>
+<div class="line"><span class="lineno">  385</span>        <a class="code hl_variable" href="../../d7/d23/a05670.html#a051493f00148208e9284ef33b9c31fad">Recruiter</a> = fields[9].<a class="code hl_function" href="../../d1/d52/a05734.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
+<div class="line"><span class="lineno">  386</span>        <a class="code hl_variable" href="../../d7/d23/a05670.html#a04c0477667a84d67709222b2fc08dfb2">OS</a> = fields[10].<a class="code hl_function" href="../../d1/d52/a05734.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;std::string&gt;();</div>
+<div class="line"><span class="lineno">  387</span>        <a class="code hl_variable" href="../../d7/d23/a05670.html#adbcb5bdadd845735c4cbc9da0b7ac87b">TotalTime</a> = fields[11].<a class="code hl_function" href="../../d1/d52/a05734.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
+<div class="line"><span class="lineno">  388</span>        <a class="code hl_variable" href="../../d7/d23/a05670.html#a7d5e4dc93d075121b8f77ac767396c46">Security</a> = <a class="code hl_enumeration" href="../../db/dbc/a00395.html#adaa1cabfe05f8df3c272bdcfd89cdac7">AccountTypes</a>(fields[12].Get&lt;uint8&gt;());</div>
+<div class="line"><span class="lineno">  389</span>        <a class="code hl_variable" href="../../d7/d23/a05670.html#a9e199ded02bf60c9f05408955af21d84">IsBanned</a> = fields[13].<a class="code hl_function" href="../../d1/d52/a05734.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d0/d61/a00302.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>&gt;() != 0;</div>
+<div class="line"><span class="lineno">  390</span>        <a class="code hl_variable" href="../../d7/d23/a05670.html#a5ca2037c73bbad9d8ff5ccea06a5676f">IsRectuiter</a> = fields[14].<a class="code hl_function" href="../../d1/d52/a05734.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;() != 0;</div>
+<div class="line"><span class="lineno">  391</span> </div>
+<div class="line"><span class="lineno">  392</span>        <a class="code hl_typedef" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> world_expansion = <a class="code hl_define" href="../../da/d11/a04792.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getIntConfig(<a class="code hl_enumvalue" href="../../de/d87/a02939.html#a468ad15992691eb97dd20680046832e0ad89550cbe9f702ee1088f0221981bc67">CONFIG_EXPANSION</a>);</div>
+<div class="line"><span class="lineno">  393</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d7/d23/a05670.html#acb4c44664aff165a48d262f81849caf4">Expansion</a> &gt; world_expansion)</div>
+<div class="line"><span class="lineno">  394</span>            <a class="code hl_variable" href="../../d7/d23/a05670.html#acb4c44664aff165a48d262f81849caf4">Expansion</a> = world_expansion;</div>
+<div class="line"><span class="lineno">  395</span> </div>
+<div class="line"><span class="lineno">  396</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d7/d23/a05670.html#a237d1cfbc774d06851df27610e49bcac">Locale</a> &gt;= <a class="code hl_enumvalue" href="../../db/dbc/a00395.html#a54c9b637be7283ba1a04fb5215594332a7f84fea169b93e300da83986234a30d8">TOTAL_LOCALES</a>)</div>
+<div class="line"><span class="lineno">  397</span>            <a class="code hl_variable" href="../../d7/d23/a05670.html#a237d1cfbc774d06851df27610e49bcac">Locale</a> = <a class="code hl_enumvalue" href="../../db/dbc/a00395.html#a54c9b637be7283ba1a04fb5215594332ac07b7e8b5def3b0907685ac6c3566de3">LOCALE_enUS</a>;</div>
+<div class="line"><span class="lineno">  398</span>    }</div>
+<div class="ttc" id="aa00287_html_a7cbcb71452529a2addaab3b112dba4d7"><div class="ttname"><a href="../../d6/d7f/a00287.html#a7cbcb71452529a2addaab3b112dba4d7">SessionKey</a></div><div class="ttdeci">std::array&lt; uint8, SESSION_KEY_LENGTH &gt; SessionKey</div><div class="ttdef"><b>Definition:</b> AuthDefines.h:25</div></div>
+<div class="ttc" id="aa00287_html_accf22e06a217bb405f0ee6f240d2e263"><div class="ttname"><a href="../../d6/d7f/a00287.html#accf22e06a217bb405f0ee6f240d2e263">SESSION_KEY_LENGTH</a></div><div class="ttdeci">constexpr std::size_t SESSION_KEY_LENGTH</div><div class="ttdef"><b>Definition:</b> AuthDefines.h:24</div></div>
+<div class="ttc" id="aa00302_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition:</b> Define.h:109</div></div>
+<div class="ttc" id="aa00302_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
+<div class="ttc" id="aa00302_html_ac4dd6ce78ce3b840c53bd4b3c63ed09b"><div class="ttname"><a href="../../d0/d61/a00302.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a></div><div class="ttdeci">std::uint64_t uint64</div><div class="ttdef"><b>Definition:</b> Define.h:106</div></div>
+<div class="ttc" id="aa00302_html_ad7a3bd3be7bd59e7fb6337fcbc956eb1"><div class="ttname"><a href="../../d0/d61/a00302.html#ad7a3bd3be7bd59e7fb6337fcbc956eb1">int64</a></div><div class="ttdeci">std::int64_t int64</div><div class="ttdef"><b>Definition:</b> Define.h:102</div></div>
+<div class="ttc" id="aa00395_html_a54c9b637be7283ba1a04fb5215594332"><div class="ttname"><a href="../../db/dbc/a00395.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a></div><div class="ttdeci">LocaleConstant</div><div class="ttdef"><b>Definition:</b> Common.h:117</div></div>
+<div class="ttc" id="aa00395_html_a54c9b637be7283ba1a04fb5215594332a7f84fea169b93e300da83986234a30d8"><div class="ttname"><a href="../../db/dbc/a00395.html#a54c9b637be7283ba1a04fb5215594332a7f84fea169b93e300da83986234a30d8">TOTAL_LOCALES</a></div><div class="ttdeci">@ TOTAL_LOCALES</div><div class="ttdef"><b>Definition:</b> Common.h:128</div></div>
+<div class="ttc" id="aa00395_html_a54c9b637be7283ba1a04fb5215594332ac07b7e8b5def3b0907685ac6c3566de3"><div class="ttname"><a href="../../db/dbc/a00395.html#a54c9b637be7283ba1a04fb5215594332ac07b7e8b5def3b0907685ac6c3566de3">LOCALE_enUS</a></div><div class="ttdeci">@ LOCALE_enUS</div><div class="ttdef"><b>Definition:</b> Common.h:118</div></div>
+<div class="ttc" id="aa00395_html_adaa1cabfe05f8df3c272bdcfd89cdac7"><div class="ttname"><a href="../../db/dbc/a00395.html#adaa1cabfe05f8df3c272bdcfd89cdac7">AccountTypes</a></div><div class="ttdeci">AccountTypes</div><div class="ttdef"><b>Definition:</b> Common.h:56</div></div>
+<div class="ttc" id="aa02939_html_a468ad15992691eb97dd20680046832e0ad89550cbe9f702ee1088f0221981bc67"><div class="ttname"><a href="../../de/d87/a02939.html#a468ad15992691eb97dd20680046832e0ad89550cbe9f702ee1088f0221981bc67">CONFIG_EXPANSION</a></div><div class="ttdeci">@ CONFIG_EXPANSION</div><div class="ttdef"><b>Definition:</b> WorldConfig.h:226</div></div>
+<div class="ttc" id="aa04697_html_a45c2b15f675e85c1f4462be09f27c59e"><div class="ttname"><a href="../../d2/d91/a04697.html#a45c2b15f675e85c1f4462be09f27c59e">Binary</a></div><div class="ttdeci">std::vector&lt; uint8 &gt; Binary</div><div class="ttdef"><b>Definition:</b> Field.h:40</div></div>
+<div class="ttc" id="aa04792_html_ga05dfb35c344e5b947a19e4284e7f5fa7"><div class="ttname"><a href="../../da/d11/a04792.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a></div><div class="ttdeci">#define sWorld</div><div class="ttdef"><b>Definition:</b> World.h:320</div></div>
+<div class="ttc" id="aa05670_html_a00646bbedb925aafea7ef9cbc2bacb3c"><div class="ttname"><a href="../../d7/d23/a05670.html#a00646bbedb925aafea7ef9cbc2bacb3c">AccountInfo::LockCountry</a></div><div class="ttdeci">std::string LockCountry</div><div class="ttdef"><b>Definition:</b> AuthSession.h:55</div></div>
+<div class="ttc" id="aa05670_html_a04c0477667a84d67709222b2fc08dfb2"><div class="ttname"><a href="../../d7/d23/a05670.html#a04c0477667a84d67709222b2fc08dfb2">AccountInfo::OS</a></div><div class="ttdeci">std::string OS</div><div class="ttdef"><b>Definition:</b> WorldSocket.cpp:359</div></div>
+<div class="ttc" id="aa05670_html_a051493f00148208e9284ef33b9c31fad"><div class="ttname"><a href="../../d7/d23/a05670.html#a051493f00148208e9284ef33b9c31fad">AccountInfo::Recruiter</a></div><div class="ttdeci">uint32 Recruiter</div><div class="ttdef"><b>Definition:</b> WorldSocket.cpp:358</div></div>
+<div class="ttc" id="aa05670_html_a237d1cfbc774d06851df27610e49bcac"><div class="ttname"><a href="../../d7/d23/a05670.html#a237d1cfbc774d06851df27610e49bcac">AccountInfo::Locale</a></div><div class="ttdeci">LocaleConstant Locale</div><div class="ttdef"><b>Definition:</b> WorldSocket.cpp:357</div></div>
+<div class="ttc" id="aa05670_html_a29aaa2c7cebfb41bff13836a80a3ef10"><div class="ttname"><a href="../../d7/d23/a05670.html#a29aaa2c7cebfb41bff13836a80a3ef10">AccountInfo::MuteTime</a></div><div class="ttdeci">int64 MuteTime</div><div class="ttdef"><b>Definition:</b> WorldSocket.cpp:356</div></div>
+<div class="ttc" id="aa05670_html_a5ca2037c73bbad9d8ff5ccea06a5676f"><div class="ttname"><a href="../../d7/d23/a05670.html#a5ca2037c73bbad9d8ff5ccea06a5676f">AccountInfo::IsRectuiter</a></div><div class="ttdeci">bool IsRectuiter</div><div class="ttdef"><b>Definition:</b> WorldSocket.cpp:360</div></div>
+<div class="ttc" id="aa05670_html_a7d5e4dc93d075121b8f77ac767396c46"><div class="ttname"><a href="../../d7/d23/a05670.html#a7d5e4dc93d075121b8f77ac767396c46">AccountInfo::Security</a></div><div class="ttdeci">AccountTypes Security</div><div class="ttdef"><b>Definition:</b> WorldSocket.cpp:361</div></div>
+<div class="ttc" id="aa05670_html_a8927a7332aba609a90e35555a62c2013"><div class="ttname"><a href="../../d7/d23/a05670.html#a8927a7332aba609a90e35555a62c2013">AccountInfo::Id</a></div><div class="ttdeci">uint32 Id</div><div class="ttdef"><b>Definition:</b> AuthSession.h:52</div></div>
+<div class="ttc" id="aa05670_html_a95eeb7d5ac99719aa16f467717b815e3"><div class="ttname"><a href="../../d7/d23/a05670.html#a95eeb7d5ac99719aa16f467717b815e3">AccountInfo::Flags</a></div><div class="ttdeci">uint32 Flags</div><div class="ttdef"><b>Definition:</b> WorldSocket.cpp:355</div></div>
+<div class="ttc" id="aa05670_html_a9e199ded02bf60c9f05408955af21d84"><div class="ttname"><a href="../../d7/d23/a05670.html#a9e199ded02bf60c9f05408955af21d84">AccountInfo::IsBanned</a></div><div class="ttdeci">bool IsBanned</div><div class="ttdef"><b>Definition:</b> AuthSession.h:58</div></div>
+<div class="ttc" id="aa05670_html_aa4f52d33739d0d0adc3fa88a09ae7465"><div class="ttname"><a href="../../d7/d23/a05670.html#aa4f52d33739d0d0adc3fa88a09ae7465">AccountInfo::IsLockedToIP</a></div><div class="ttdeci">bool IsLockedToIP</div><div class="ttdef"><b>Definition:</b> AuthSession.h:54</div></div>
+<div class="ttc" id="aa05670_html_aba34159637020c1858f80bec57ba4945"><div class="ttname"><a href="../../d7/d23/a05670.html#aba34159637020c1858f80bec57ba4945">AccountInfo::LastIP</a></div><div class="ttdeci">std::string LastIP</div><div class="ttdef"><b>Definition:</b> AuthSession.h:56</div></div>
+<div class="ttc" id="aa05670_html_acb4c44664aff165a48d262f81849caf4"><div class="ttname"><a href="../../d7/d23/a05670.html#acb4c44664aff165a48d262f81849caf4">AccountInfo::Expansion</a></div><div class="ttdeci">uint8 Expansion</div><div class="ttdef"><b>Definition:</b> WorldSocket.cpp:354</div></div>
+<div class="ttc" id="aa05670_html_adbcb5bdadd845735c4cbc9da0b7ac87b"><div class="ttname"><a href="../../d7/d23/a05670.html#adbcb5bdadd845735c4cbc9da0b7ac87b">AccountInfo::TotalTime</a></div><div class="ttdeci">uint32 TotalTime</div><div class="ttdef"><b>Definition:</b> WorldSocket.cpp:363</div></div>
+<div class="ttc" id="aa05734_html_aae507d21d3570ffdaf1643ba02946f01"><div class="ttname"><a href="../../d1/d52/a05734.html#aae507d21d3570ffdaf1643ba02946f01">Field::Get</a></div><div class="ttdeci">std::enable_if_t&lt; std::is_arithmetic_v&lt; T &gt;, T &gt; Get() const</div><div class="ttdef"><b>Definition:</b> Field.h:112</div></div>
 </div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00226">CONFIG_EXPANSION</a>, <a class="el" href="../../#l00354">Expansion</a>, <a class="el" href="../../#l00355">Flags</a>, <a class="el" href="../../#l00112">Field::Get()</a>, <a class="el" href="../../#l00052">Id</a>, <a class="el" href="../../#l00058">IsBanned</a>, <a class="el" href="../../#l00054">IsLockedToIP</a>, <a class="el" href="../../#l00360">IsRectuiter</a>, <a class="el" href="../../#l00056">LastIP</a>, <a class="el" href="../../#l00357">Locale</a>, <a class="el" href="../../#l00118">LOCALE_enUS</a>, <a class="el" href="../../#l00055">LockCountry</a>, <a class="el" href="../../#l00356">MuteTime</a>, <a class="el" href="../../#l00359">OS</a>, <a class="el" href="../../#l00358">Recruiter</a>, <a class="el" href="../../#l00361">Security</a>, <a class="el" href="../../#l00024">SESSION_KEY_LENGTH</a>, <a class="el" href="../../#l00320">sWorld</a>, <a class="el" href="../../#l00128">TOTAL_LOCALES</a>, and <a class="el" href="../../#l00363">TotalTime</a>.</p>
+
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="a72963e43e085c28b7d4bb50dfa45433a" name="a72963e43e085c28b7d4bb50dfa45433a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a72963e43e085c28b7d4bb50dfa45433a">&#9670;&#160;</a></span>CheckAccessLevel()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool RASession::CheckAccessLevel </td>
-          <td>(</td>
-          <td class="paramtype">const std::string &amp;&#160;</td>
-          <td class="paramname"><em>user</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  124</span>{</div>
-<div class="line"><span class="lineno">  125</span>    std::string safeUser = user;</div>
-<div class="line"><span class="lineno">  126</span> </div>
-<div class="line"><span class="lineno">  127</span>    <a class="code hl_function" href="../../d9/d4a/a00479.html#a589bbb62b3f6aadebe49b4140446fb57">Utf8ToUpperOnlyLatin</a>(safeUser);</div>
-<div class="line"><span class="lineno">  128</span> </div>
-<div class="line"><span class="lineno">  129</span>    <span class="keyword">auto</span>* stmt = <a class="code hl_variable" href="../../d3/d56/a04553.html#a2cf25eafe7f2f73b61ccde11d55daf0c">LoginDatabase</a>.GetPreparedStatement(<a class="code hl_enumvalue" href="../../d0/d15/a04574.html#a2bc6eef17d8ecd1b7027058f5fecc9fbac2dadafaffe9cc40c8ab7df8706c3cac">LOGIN_SEL_ACCOUNT_ACCESS</a>);</div>
-<div class="line"><span class="lineno">  130</span>    stmt-&gt;SetData(0, safeUser);</div>
-<div class="line"><span class="lineno">  131</span> </div>
-<div class="line"><span class="lineno">  132</span>    <a class="code hl_typedef" href="../../de/d65/a04631.html#ac6110b8d867b5f84f677555d07037acb">PreparedQueryResult</a> result = <a class="code hl_variable" href="../../d3/d56/a04553.html#a2cf25eafe7f2f73b61ccde11d55daf0c">LoginDatabase</a>.Query(stmt);</div>
-<div class="line"><span class="lineno">  133</span>    <span class="keywordflow">if</span> (!result)</div>
-<div class="line"><span class="lineno">  134</span>    {</div>
-<div class="line"><span class="lineno">  135</span>        <a class="code hl_define" href="../../d9/d2e/a00056.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;commands.ra&quot;</span>, <span class="stringliteral">&quot;User {} does not exist in database&quot;</span>, user);</div>
-<div class="line"><span class="lineno">  136</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  137</span>    }</div>
-<div class="line"><span class="lineno">  138</span> </div>
-<div class="line"><span class="lineno">  139</span>    <a class="code hl_class" href="../../d4/d00/a05710.html">Field</a>* fields = result-&gt;Fetch();</div>
-<div class="line"><span class="lineno">  140</span> </div>
-<div class="line"><span class="lineno">  141</span>    <span class="keywordflow">if</span> (fields[1].Get&lt;uint8&gt;() &lt; <a class="code hl_define" href="../../d4/d13/a00377.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;<a class="code hl_typedef" href="../../d2/de7/a00014.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&gt;(<span class="stringliteral">&quot;Ra.MinLevel&quot;</span>, 3))</div>
-<div class="line"><span class="lineno">  142</span>    {</div>
-<div class="line"><span class="lineno">  143</span>        <a class="code hl_define" href="../../d9/d2e/a00056.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;commands.ra&quot;</span>, <span class="stringliteral">&quot;User {} has no privilege to login&quot;</span>, user);</div>
-<div class="line"><span class="lineno">  144</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  145</span>    }</div>
-<div class="line"><span class="lineno">  146</span>    <span class="keywordflow">else</span> <span class="keywordflow">if</span> (fields[2].Get&lt;int32&gt;() != -1)</div>
-<div class="line"><span class="lineno">  147</span>    {</div>
-<div class="line"><span class="lineno">  148</span>        <a class="code hl_define" href="../../d9/d2e/a00056.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;commands.ra&quot;</span>, <span class="stringliteral">&quot;User {} has to be assigned on all realms (with RealmID = &#39;-1&#39;)&quot;</span>, user);</div>
-<div class="line"><span class="lineno">  149</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  150</span>    }</div>
-<div class="line"><span class="lineno">  151</span> </div>
-<div class="line"><span class="lineno">  152</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  153</span>}</div>
-<div class="ttc" id="aa00014_html_a0bf9964a3ce962c07ad3d8b5432bbbcd"><div class="ttname"><a href="../../d2/de7/a00014.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a></div><div class="ttdeci">std::int32_t int32</div><div class="ttdef"><b>Definition:</b> Define.h:103</div></div>
-<div class="ttc" id="aa00056_html_a271e427d8e8481efd5cd5f537ec9e419"><div class="ttname"><a href="../../d9/d2e/a00056.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a></div><div class="ttdeci">#define LOG_INFO(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:166</div></div>
-<div class="ttc" id="aa00377_html_a7236988e98bdd405bf435a029b70a26f"><div class="ttname"><a href="../../d4/d13/a00377.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a></div><div class="ttdeci">#define sConfigMgr</div><div class="ttdef"><b>Definition:</b> Config.h:74</div></div>
-<div class="ttc" id="aa00479_html_a589bbb62b3f6aadebe49b4140446fb57"><div class="ttname"><a href="../../d9/d4a/a00479.html#a589bbb62b3f6aadebe49b4140446fb57">Utf8ToUpperOnlyLatin</a></div><div class="ttdeci">bool Utf8ToUpperOnlyLatin(std::string &amp;utf8String)</div><div class="ttdef"><b>Definition:</b> Util.cpp:532</div></div>
-<div class="ttc" id="aa04553_html_a2cf25eafe7f2f73b61ccde11d55daf0c"><div class="ttname"><a href="../../d3/d56/a04553.html#a2cf25eafe7f2f73b61ccde11d55daf0c">LoginDatabase</a></div><div class="ttdeci">DatabaseWorkerPool&lt; LoginDatabaseConnection &gt; LoginDatabase</div><div class="ttdoc">Accessor to the realm/login database.</div><div class="ttdef"><b>Definition:</b> DatabaseEnv.cpp:22</div></div>
-<div class="ttc" id="aa04574_html_a2bc6eef17d8ecd1b7027058f5fecc9fbac2dadafaffe9cc40c8ab7df8706c3cac"><div class="ttname"><a href="../../d0/d15/a04574.html#a2bc6eef17d8ecd1b7027058f5fecc9fbac2dadafaffe9cc40c8ab7df8706c3cac">LOGIN_SEL_ACCOUNT_ACCESS</a></div><div class="ttdeci">@ LOGIN_SEL_ACCOUNT_ACCESS</div><div class="ttdef"><b>Definition:</b> LoginDatabase.h:95</div></div>
-<div class="ttc" id="aa04631_html_ac6110b8d867b5f84f677555d07037acb"><div class="ttname"><a href="../../de/d65/a04631.html#ac6110b8d867b5f84f677555d07037acb">PreparedQueryResult</a></div><div class="ttdeci">std::shared_ptr&lt; PreparedResultSet &gt; PreparedQueryResult</div><div class="ttdef"><b>Definition:</b> DatabaseEnvFwd.h:45</div></div>
-<div class="ttc" id="aa05710_html"><div class="ttname"><a href="../../d4/d00/a05710.html">Field</a></div><div class="ttdoc">Class used to access individual fields of database query result.</div><div class="ttdef"><b>Definition:</b> Field.h:98</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00166">LOG_INFO</a>, <a class="el" href="../../#l00095">LOGIN_SEL_ACCOUNT_ACCESS</a>, <a class="el" href="../../#l00022">LoginDatabase</a>, <a class="el" href="../../#l00074">sConfigMgr</a>, and <a class="el" href="../../#l00532">Utf8ToUpperOnlyLatin()</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00035">Start()</a>.</p>
-
-</div>
-</div>
-<a id="abf15291f3135a382d314feb8a5d72e9e" name="abf15291f3135a382d314feb8a5d72e9e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#abf15291f3135a382d314feb8a5d72e9e">&#9670;&#160;</a></span>CheckPassword()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool RASession::CheckPassword </td>
-          <td>(</td>
-          <td class="paramtype">const std::string &amp;&#160;</td>
-          <td class="paramname"><em>user</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">const std::string &amp;&#160;</td>
-          <td class="paramname"><em>pass</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  156</span>{</div>
-<div class="line"><span class="lineno">  157</span>    std::string safe_user = user;</div>
-<div class="line"><span class="lineno">  158</span>    std::transform(safe_user.begin(), safe_user.end(), safe_user.begin(), ::toupper);</div>
-<div class="line"><span class="lineno">  159</span>    <a class="code hl_function" href="../../d9/d4a/a00479.html#a589bbb62b3f6aadebe49b4140446fb57">Utf8ToUpperOnlyLatin</a>(safe_user);</div>
-<div class="line"><span class="lineno">  160</span> </div>
-<div class="line"><span class="lineno">  161</span>    std::string safe_pass = pass;</div>
-<div class="line"><span class="lineno">  162</span>    <a class="code hl_function" href="../../d9/d4a/a00479.html#a589bbb62b3f6aadebe49b4140446fb57">Utf8ToUpperOnlyLatin</a>(safe_pass);</div>
-<div class="line"><span class="lineno">  163</span>    std::transform(safe_pass.begin(), safe_pass.end(), safe_pass.begin(), ::toupper);</div>
-<div class="line"><span class="lineno">  164</span> </div>
-<div class="line"><span class="lineno">  165</span>    <span class="keyword">auto</span>* stmt = <a class="code hl_variable" href="../../d3/d56/a04553.html#a2cf25eafe7f2f73b61ccde11d55daf0c">LoginDatabase</a>.GetPreparedStatement(<a class="code hl_enumvalue" href="../../d0/d15/a04574.html#a2bc6eef17d8ecd1b7027058f5fecc9fba395ebf9d841e8675e606cfbadd7f2ee3">LOGIN_SEL_CHECK_PASSWORD_BY_NAME</a>);</div>
-<div class="line"><span class="lineno">  166</span> </div>
-<div class="line"><span class="lineno">  167</span>    stmt-&gt;SetData(0, safe_user);</div>
-<div class="line"><span class="lineno">  168</span> </div>
-<div class="line"><span class="lineno">  169</span>    <span class="keywordflow">if</span> (<a class="code hl_typedef" href="../../de/d65/a04631.html#ac6110b8d867b5f84f677555d07037acb">PreparedQueryResult</a> result = <a class="code hl_variable" href="../../d3/d56/a04553.html#a2cf25eafe7f2f73b61ccde11d55daf0c">LoginDatabase</a>.Query(stmt))</div>
-<div class="line"><span class="lineno">  170</span>    {</div>
-<div class="line"><span class="lineno">  171</span>        <a class="code hl_typedef" href="../../da/dee/a05158.html#a757f8fd19ebecda921e4e42f65586f9f">Acore::Crypto::SRP6::Salt</a> salt = (*result)[0].Get&lt;<a class="code hl_typedef" href="../../d4/d88/a04637.html#a45c2b15f675e85c1f4462be09f27c59e">Binary</a>, <a class="code hl_variable" href="../../da/dee/a05158.html#add5273640d1504c69395c71d495a3deb">Acore::Crypto::SRP6::SALT_LENGTH</a>&gt;();</div>
-<div class="line"><span class="lineno">  172</span>        <a class="code hl_typedef" href="../../da/dee/a05158.html#ab771d05cb201bbdc3c20a5cb087a023e">Acore::Crypto::SRP6::Verifier</a> verifier = (*result)[1].Get&lt;<a class="code hl_typedef" href="../../d4/d88/a04637.html#a45c2b15f675e85c1f4462be09f27c59e">Binary</a>, <a class="code hl_variable" href="../../da/dee/a05158.html#a3a7f44395bcbc849665897c3d7db59d5">Acore::Crypto::SRP6::VERIFIER_LENGTH</a>&gt;();</div>
-<div class="line"><span class="lineno">  173</span> </div>
-<div class="line"><span class="lineno">  174</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../da/dee/a05158.html#a790d7883ae0685bf2135d83edeb29121">Acore::Crypto::SRP6::CheckLogin</a>(safe_user, safe_pass, salt, verifier))</div>
-<div class="line"><span class="lineno">  175</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  176</span>    }</div>
-<div class="line"><span class="lineno">  177</span> </div>
-<div class="line"><span class="lineno">  178</span>    <a class="code hl_define" href="../../d9/d2e/a00056.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;commands.ra&quot;</span>, <span class="stringliteral">&quot;Wrong password for user: {}&quot;</span>, user);</div>
-<div class="line"><span class="lineno">  179</span>    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  180</span>}</div>
-<div class="ttc" id="aa04574_html_a2bc6eef17d8ecd1b7027058f5fecc9fba395ebf9d841e8675e606cfbadd7f2ee3"><div class="ttname"><a href="../../d0/d15/a04574.html#a2bc6eef17d8ecd1b7027058f5fecc9fba395ebf9d841e8675e606cfbadd7f2ee3">LOGIN_SEL_CHECK_PASSWORD_BY_NAME</a></div><div class="ttdeci">@ LOGIN_SEL_CHECK_PASSWORD_BY_NAME</div><div class="ttdef"><b>Definition:</b> LoginDatabase.h:87</div></div>
-<div class="ttc" id="aa04637_html_a45c2b15f675e85c1f4462be09f27c59e"><div class="ttname"><a href="../../d4/d88/a04637.html#a45c2b15f675e85c1f4462be09f27c59e">Binary</a></div><div class="ttdeci">std::vector&lt; uint8 &gt; Binary</div><div class="ttdef"><b>Definition:</b> Field.h:40</div></div>
-<div class="ttc" id="aa05158_html_a3a7f44395bcbc849665897c3d7db59d5"><div class="ttname"><a href="../../da/dee/a05158.html#a3a7f44395bcbc849665897c3d7db59d5">Acore::Crypto::SRP6::VERIFIER_LENGTH</a></div><div class="ttdeci">static constexpr std::size_t VERIFIER_LENGTH</div><div class="ttdef"><b>Definition:</b> SRP6.h:34</div></div>
-<div class="ttc" id="aa05158_html_a757f8fd19ebecda921e4e42f65586f9f"><div class="ttname"><a href="../../da/dee/a05158.html#a757f8fd19ebecda921e4e42f65586f9f">Acore::Crypto::SRP6::Salt</a></div><div class="ttdeci">std::array&lt; uint8, SALT_LENGTH &gt; Salt</div><div class="ttdef"><b>Definition:</b> SRP6.h:32</div></div>
-<div class="ttc" id="aa05158_html_a790d7883ae0685bf2135d83edeb29121"><div class="ttname"><a href="../../da/dee/a05158.html#a790d7883ae0685bf2135d83edeb29121">Acore::Crypto::SRP6::CheckLogin</a></div><div class="ttdeci">static bool CheckLogin(std::string const &amp;username, std::string const &amp;password, Salt const &amp;salt, Verifier const &amp;verifier)</div><div class="ttdef"><b>Definition:</b> SRP6.h:47</div></div>
-<div class="ttc" id="aa05158_html_ab771d05cb201bbdc3c20a5cb087a023e"><div class="ttname"><a href="../../da/dee/a05158.html#ab771d05cb201bbdc3c20a5cb087a023e">Acore::Crypto::SRP6::Verifier</a></div><div class="ttdeci">std::array&lt; uint8, VERIFIER_LENGTH &gt; Verifier</div><div class="ttdef"><b>Definition:</b> SRP6.h:35</div></div>
-<div class="ttc" id="aa05158_html_add5273640d1504c69395c71d495a3deb"><div class="ttname"><a href="../../da/dee/a05158.html#add5273640d1504c69395c71d495a3deb">Acore::Crypto::SRP6::SALT_LENGTH</a></div><div class="ttdeci">static constexpr std::size_t SALT_LENGTH</div><div class="ttdef"><b>Definition:</b> SRP6.h:31</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00047">Acore::Crypto::SRP6::CheckLogin()</a>, <a class="el" href="../../#l00166">LOG_INFO</a>, <a class="el" href="../../#l00087">LOGIN_SEL_CHECK_PASSWORD_BY_NAME</a>, <a class="el" href="../../#l00022">LoginDatabase</a>, <a class="el" href="../../#l00031">Acore::Crypto::SRP6::SALT_LENGTH</a>, <a class="el" href="../../#l00532">Utf8ToUpperOnlyLatin()</a>, and <a class="el" href="../../#l00034">Acore::Crypto::SRP6::VERIFIER_LENGTH</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00035">Start()</a>.</p>
-
-</div>
-</div>
-<a id="a547d5f26b74209003a8a3c7f8aa4af5d" name="a547d5f26b74209003a8a3c7f8aa4af5d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a547d5f26b74209003a8a3c7f8aa4af5d">&#9670;&#160;</a></span>CommandFinished()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void RASession::CommandFinished </td>
-          <td>(</td>
-          <td class="paramtype">void *&#160;</td>
-          <td class="paramname"><em>callbackArg</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">bool&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  221</span>{</div>
-<div class="line"><span class="lineno">  222</span>    <a class="code hl_class" href="../../d7/d23/a05670.html">RASession</a>* session = <span class="keyword">static_cast&lt;</span><a class="code hl_class" href="../../d7/d23/a05670.html">RASession</a>*<span class="keyword">&gt;</span>(callbackArg);</div>
-<div class="line"><span class="lineno">  223</span>    session-&gt;<a class="code hl_variable" href="../../d7/d23/a05670.html#a817e53b23c54f2f6bbf7058eab0824b4">_commandExecuting</a>-&gt;set_value();</div>
-<div class="line"><span class="lineno">  224</span>}</div>
-<div class="ttc" id="aa05670_html"><div class="ttname"><a href="../../d7/d23/a05670.html">RASession</a></div><div class="ttdef"><b>Definition:</b> RASession.h:30</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00053">_commandExecuting</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00182">ProcessCommand()</a>.</p>
-
-</div>
-</div>
-<a id="adda3b14e26103155c0a154e4673e8627" name="adda3b14e26103155c0a154e4673e8627"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#adda3b14e26103155c0a154e4673e8627">&#9670;&#160;</a></span>CommandPrint()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void RASession::CommandPrint </td>
-          <td>(</td>
-          <td class="paramtype">void *&#160;</td>
-          <td class="paramname"><em>callbackArg</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">std::string_view&#160;</td>
-          <td class="paramname"><em>text</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  210</span>{</div>
-<div class="line"><span class="lineno">  211</span>    <span class="keywordflow">if</span> (text.empty())</div>
-<div class="line"><span class="lineno">  212</span>    {</div>
-<div class="line"><span class="lineno">  213</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  214</span>    }</div>
-<div class="line"><span class="lineno">  215</span> </div>
-<div class="line"><span class="lineno">  216</span>    <a class="code hl_class" href="../../d7/d23/a05670.html">RASession</a>* session = <span class="keyword">static_cast&lt;</span><a class="code hl_class" href="../../d7/d23/a05670.html">RASession</a>*<span class="keyword">&gt;</span>(callbackArg);</div>
-<div class="line"><span class="lineno">  217</span>    session-&gt;<a class="code hl_function" href="../../d7/d23/a05670.html#a0f87da6517747387b3899b608328a8c5">Send</a>(text);</div>
-<div class="line"><span class="lineno">  218</span>}</div>
-<div class="ttc" id="aa05670_html_a0f87da6517747387b3899b608328a8c5"><div class="ttname"><a href="../../d7/d23/a05670.html#a0f87da6517747387b3899b608328a8c5">RASession::Send</a></div><div class="ttdeci">int Send(std::string_view data)</div><div class="ttdef"><b>Definition:</b> RASession.cpp:94</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00094">Send()</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00182">ProcessCommand()</a>.</p>
-
-</div>
-</div>
-<a id="aff8957db5a0cceec4fddeb7950bba557" name="aff8957db5a0cceec4fddeb7950bba557"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aff8957db5a0cceec4fddeb7950bba557">&#9670;&#160;</a></span>GetRemoteIpAddress()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">const std::string RASession::GetRemoteIpAddress </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   37</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d7/d23/a05670.html#ac18177d4dfeb0c03d0b1d2015f5dd7e6">_socket</a>.remote_endpoint().address().to_string(); }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00050">_socket</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00035">Start()</a>.</p>
-
-</div>
-</div>
-<a id="a8320914f7d0fc769e2e3861b8df75f5a" name="a8320914f7d0fc769e2e3861b8df75f5a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8320914f7d0fc769e2e3861b8df75f5a">&#9670;&#160;</a></span>GetRemotePort()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">unsigned short RASession::GetRemotePort </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   38</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d7/d23/a05670.html#ac18177d4dfeb0c03d0b1d2015f5dd7e6">_socket</a>.remote_endpoint().port(); }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00050">_socket</a>.</p>
-
-</div>
-</div>
-<a id="ad4f4c2ccb371867a882351b3f8f8a9ef" name="ad4f4c2ccb371867a882351b3f8f8a9ef"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad4f4c2ccb371867a882351b3f8f8a9ef">&#9670;&#160;</a></span>ProcessCommand()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool RASession::ProcessCommand </td>
-          <td>(</td>
-          <td class="paramtype">std::string &amp;&#160;</td>
-          <td class="paramname"><em>command</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  183</span>{</div>
-<div class="line"><span class="lineno">  184</span>    <span class="keywordflow">if</span> (command.length() == 0)</div>
-<div class="line"><span class="lineno">  185</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  186</span> </div>
-<div class="line"><span class="lineno">  187</span>    <a class="code hl_define" href="../../d9/d2e/a00056.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;commands.ra&quot;</span>, <span class="stringliteral">&quot;Received command: {}&quot;</span>, command);</div>
-<div class="line"><span class="lineno">  188</span> </div>
-<div class="line"><span class="lineno">  189</span>    <span class="comment">// handle quit, exit and logout commands to terminate connection</span></div>
-<div class="line"><span class="lineno">  190</span>    <span class="keywordflow">if</span> (command == <span class="stringliteral">&quot;quit&quot;</span> || command == <span class="stringliteral">&quot;exit&quot;</span> || command == <span class="stringliteral">&quot;logout&quot;</span>)</div>
-<div class="line"><span class="lineno">  191</span>    {</div>
-<div class="line"><span class="lineno">  192</span>        <a class="code hl_function" href="../../d7/d23/a05670.html#a0f87da6517747387b3899b608328a8c5">Send</a>(<span class="stringliteral">&quot;Bye\r\n&quot;</span>);</div>
-<div class="line"><span class="lineno">  193</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  194</span>    }</div>
-<div class="line"><span class="lineno">  195</span> </div>
-<div class="line"><span class="lineno">  196</span>    <span class="comment">// Obtain a new promise per command</span></div>
-<div class="line"><span class="lineno">  197</span>    <span class="keyword">delete</span> <a class="code hl_variable" href="../../d7/d23/a05670.html#a817e53b23c54f2f6bbf7058eab0824b4">_commandExecuting</a>;</div>
-<div class="line"><span class="lineno">  198</span>    <a class="code hl_variable" href="../../d7/d23/a05670.html#a817e53b23c54f2f6bbf7058eab0824b4">_commandExecuting</a> = <span class="keyword">new</span> std::promise&lt;void&gt;();</div>
-<div class="line"><span class="lineno">  199</span> </div>
-<div class="line"><span class="lineno">  200</span>    <a class="code hl_struct" href="../../df/d71/a11534.html">CliCommandHolder</a>* cmd = <span class="keyword">new</span> <a class="code hl_struct" href="../../df/d71/a11534.html">CliCommandHolder</a>(<span class="keyword">this</span>, command.c_str(), &amp;<a class="code hl_function" href="../../d7/d23/a05670.html#adda3b14e26103155c0a154e4673e8627">RASession::CommandPrint</a>, &amp;<a class="code hl_function" href="../../d7/d23/a05670.html#a547d5f26b74209003a8a3c7f8aa4af5d">RASession::CommandFinished</a>);</div>
-<div class="line"><span class="lineno">  201</span>    <a class="code hl_define" href="../../d8/def/a04771.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;QueueCliCommand(cmd);</div>
-<div class="line"><span class="lineno">  202</span> </div>
-<div class="line"><span class="lineno">  203</span>    <span class="comment">// Wait for the command to finish</span></div>
-<div class="line"><span class="lineno">  204</span>    <a class="code hl_variable" href="../../d7/d23/a05670.html#a817e53b23c54f2f6bbf7058eab0824b4">_commandExecuting</a>-&gt;get_future().wait();</div>
-<div class="line"><span class="lineno">  205</span> </div>
-<div class="line"><span class="lineno">  206</span>    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  207</span>}</div>
-<div class="ttc" id="aa04771_html_ga05dfb35c344e5b947a19e4284e7f5fa7"><div class="ttname"><a href="../../d8/def/a04771.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a></div><div class="ttdeci">#define sWorld</div><div class="ttdef"><b>Definition:</b> World.h:320</div></div>
-<div class="ttc" id="aa05670_html_a547d5f26b74209003a8a3c7f8aa4af5d"><div class="ttname"><a href="../../d7/d23/a05670.html#a547d5f26b74209003a8a3c7f8aa4af5d">RASession::CommandFinished</a></div><div class="ttdeci">static void CommandFinished(void *callbackArg, bool)</div><div class="ttdef"><b>Definition:</b> RASession.cpp:220</div></div>
-<div class="ttc" id="aa05670_html_adda3b14e26103155c0a154e4673e8627"><div class="ttname"><a href="../../d7/d23/a05670.html#adda3b14e26103155c0a154e4673e8627">RASession::CommandPrint</a></div><div class="ttdeci">static void CommandPrint(void *callbackArg, std::string_view text)</div><div class="ttdef"><b>Definition:</b> RASession.cpp:209</div></div>
-<div class="ttc" id="aa11534_html"><div class="ttname"><a href="../../df/d71/a11534.html">CliCommandHolder</a></div><div class="ttdoc">Storage class for commands issued for delayed execution.</div><div class="ttdef"><b>Definition:</b> IWorld.h:35</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00053">_commandExecuting</a>, <a class="el" href="../../#l00220">CommandFinished()</a>, <a class="el" href="../../#l00209">CommandPrint()</a>, <a class="el" href="../../#l00166">LOG_INFO</a>, <a class="el" href="../../#l00094">Send()</a>, and <a class="el" href="../../#l00320">sWorld</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00035">Start()</a>.</p>
-
-</div>
-</div>
-<a id="a55f31c8b5181bf5d95b353b875267783" name="a55f31c8b5181bf5d95b353b875267783"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a55f31c8b5181bf5d95b353b875267783">&#9670;&#160;</a></span>ReadString()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">std::string RASession::ReadString </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  104</span>{</div>
-<div class="line"><span class="lineno">  105</span>    boost::system::error_code error;</div>
-<div class="line"><span class="lineno">  106</span>    std::size_t read = boost::asio::read_until(<a class="code hl_variable" href="../../d7/d23/a05670.html#ac18177d4dfeb0c03d0b1d2015f5dd7e6">_socket</a>, <a class="code hl_variable" href="../../d7/d23/a05670.html#a899e34097702112e05e942a33ebcb1d2">_readBuffer</a>, <span class="stringliteral">&quot;\r\n&quot;</span>, error);</div>
-<div class="line"><span class="lineno">  107</span>    <span class="keywordflow">if</span> (!read)</div>
-<div class="line"><span class="lineno">  108</span>    {</div>
-<div class="line"><span class="lineno">  109</span>        <a class="code hl_variable" href="../../d7/d23/a05670.html#ac18177d4dfeb0c03d0b1d2015f5dd7e6">_socket</a>.close();</div>
-<div class="line"><span class="lineno">  110</span>        <span class="keywordflow">return</span> <span class="stringliteral">&quot;&quot;</span>;</div>
-<div class="line"><span class="lineno">  111</span>    }</div>
-<div class="line"><span class="lineno">  112</span> </div>
-<div class="line"><span class="lineno">  113</span>    std::string line;</div>
-<div class="line"><span class="lineno">  114</span>    std::istream is(&amp;<a class="code hl_variable" href="../../d7/d23/a05670.html#a899e34097702112e05e942a33ebcb1d2">_readBuffer</a>);</div>
-<div class="line"><span class="lineno">  115</span>    std::getline(is, line);</div>
-<div class="line"><span class="lineno">  116</span> </div>
-<div class="line"><span class="lineno">  117</span>    <span class="keywordflow">if</span> (*line.rbegin() == <span class="charliteral">&#39;\r&#39;</span>)</div>
-<div class="line"><span class="lineno">  118</span>        line.erase(line.length() - 1);</div>
-<div class="line"><span class="lineno">  119</span> </div>
-<div class="line"><span class="lineno">  120</span>    <span class="keywordflow">return</span> line;</div>
-<div class="line"><span class="lineno">  121</span>}</div>
-<div class="ttc" id="aa05670_html_a899e34097702112e05e942a33ebcb1d2"><div class="ttname"><a href="../../d7/d23/a05670.html#a899e34097702112e05e942a33ebcb1d2">RASession::_readBuffer</a></div><div class="ttdeci">boost::asio::streambuf _readBuffer</div><div class="ttdef"><b>Definition:</b> RASession.h:51</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00051">_readBuffer</a>, and <a class="el" href="../../#l00050">_socket</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00035">Start()</a>.</p>
-
-</div>
-</div>
-<a id="a0f87da6517747387b3899b608328a8c5" name="a0f87da6517747387b3899b608328a8c5"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0f87da6517747387b3899b608328a8c5">&#9670;&#160;</a></span>Send()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">int RASession::Send </td>
-          <td>(</td>
-          <td class="paramtype">std::string_view&#160;</td>
-          <td class="paramname"><em>data</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   95</span>{</div>
-<div class="line"><span class="lineno">   96</span>    std::ostream os(&amp;<a class="code hl_variable" href="../../d7/d23/a05670.html#a82ccb9ab8abf1403fd5d2384beac99b7">_writeBuffer</a>);</div>
-<div class="line"><span class="lineno">   97</span>    os &lt;&lt; data;</div>
-<div class="line"><span class="lineno">   98</span>    std::size_t written = <a class="code hl_variable" href="../../d7/d23/a05670.html#ac18177d4dfeb0c03d0b1d2015f5dd7e6">_socket</a>.send(<a class="code hl_variable" href="../../d7/d23/a05670.html#a82ccb9ab8abf1403fd5d2384beac99b7">_writeBuffer</a>.data());</div>
-<div class="line"><span class="lineno">   99</span>    <a class="code hl_variable" href="../../d7/d23/a05670.html#a82ccb9ab8abf1403fd5d2384beac99b7">_writeBuffer</a>.consume(written);</div>
-<div class="line"><span class="lineno">  100</span>    <span class="keywordflow">return</span> written;</div>
-<div class="line"><span class="lineno">  101</span>}</div>
-<div class="ttc" id="aa05670_html_a82ccb9ab8abf1403fd5d2384beac99b7"><div class="ttname"><a href="../../d7/d23/a05670.html#a82ccb9ab8abf1403fd5d2384beac99b7">RASession::_writeBuffer</a></div><div class="ttdeci">boost::asio::streambuf _writeBuffer</div><div class="ttdef"><b>Definition:</b> RASession.h:52</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00050">_socket</a>, and <a class="el" href="../../#l00052">_writeBuffer</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00209">CommandPrint()</a>, <a class="el" href="../../#l00182">ProcessCommand()</a>, and <a class="el" href="../../#l00035">Start()</a>.</p>
-
-</div>
-</div>
-<a id="af2cc6a74f520824fa739688e8d15d60c" name="af2cc6a74f520824fa739688e8d15d60c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af2cc6a74f520824fa739688e8d15d60c">&#9670;&#160;</a></span>Start()</h2>
+<a id="a9082681008dee65a0d5d2f758e88729c" name="a9082681008dee65a0d5d2f758e88729c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9082681008dee65a0d5d2f758e88729c">&#9670;&#160;</a></span>LoadResult()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void RASession::Start </td>
+          <td class="memname">void AccountInfo::LoadResult </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
+          <td class="paramtype"><a class="el" href="../../d1/d52/a05734.html">Field</a> *&#160;</td>
+          <td class="paramname"><em>fields</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   36</span>{</div>
-<div class="line"><span class="lineno">   37</span>    <span class="comment">// wait 1 second for active connections to send negotiation request</span></div>
-<div class="line"><span class="lineno">   38</span>    <span class="keywordflow">for</span> (<span class="keywordtype">int</span> counter = 0; counter &lt; 10 &amp;&amp; <a class="code hl_variable" href="../../d7/d23/a05670.html#ac18177d4dfeb0c03d0b1d2015f5dd7e6">_socket</a>.available() == 0; counter++)</div>
-<div class="line"><span class="lineno">   39</span>        std::this_thread::sleep_for(100ms);</div>
-<div class="line"><span class="lineno">   40</span> </div>
-<div class="line"><span class="lineno">   41</span>    <span class="comment">// Check if there are bytes available, if they are, then the client is requesting the negotiation</span></div>
-<div class="line"><span class="lineno">   42</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d7/d23/a05670.html#ac18177d4dfeb0c03d0b1d2015f5dd7e6">_socket</a>.available() &gt; 0)</div>
-<div class="line"><span class="lineno">   43</span>    {</div>
-<div class="line"><span class="lineno">   44</span>        <span class="comment">// Handle subnegotiation</span></div>
-<div class="line"><span class="lineno">   45</span>        <span class="keywordtype">char</span> buf[1024] = { };</div>
-<div class="line"><span class="lineno">   46</span>        <a class="code hl_variable" href="../../d7/d23/a05670.html#ac18177d4dfeb0c03d0b1d2015f5dd7e6">_socket</a>.read_some(boost::asio::buffer(buf));</div>
-<div class="line"><span class="lineno">   47</span> </div>
-<div class="line"><span class="lineno">   48</span>        <span class="comment">// Send the end-of-negotiation packet</span></div>
-<div class="line"><span class="lineno">   49</span>        <a class="code hl_typedef" href="../../d2/de7/a00014.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> <span class="keyword">const</span> reply[2] = { 0xFF, 0xF0 };</div>
-<div class="line"><span class="lineno">   50</span>        <a class="code hl_variable" href="../../d7/d23/a05670.html#ac18177d4dfeb0c03d0b1d2015f5dd7e6">_socket</a>.write_some(boost::asio::buffer(reply));</div>
-<div class="line"><span class="lineno">   51</span>    }</div>
-<div class="line"><span class="lineno">   52</span> </div>
-<div class="line"><span class="lineno">   53</span>    <a class="code hl_function" href="../../d7/d23/a05670.html#a0f87da6517747387b3899b608328a8c5">Send</a>(<span class="stringliteral">&quot;Authentication Required\r\n&quot;</span>);</div>
-<div class="line"><span class="lineno">   54</span>    <a class="code hl_function" href="../../d7/d23/a05670.html#a0f87da6517747387b3899b608328a8c5">Send</a>(<span class="stringliteral">&quot;Username: &quot;</span>);</div>
-<div class="line"><span class="lineno">   55</span> </div>
-<div class="line"><span class="lineno">   56</span>    std::string username = <a class="code hl_function" href="../../d7/d23/a05670.html#a55f31c8b5181bf5d95b353b875267783">ReadString</a>();</div>
-<div class="line"><span class="lineno">   57</span> </div>
-<div class="line"><span class="lineno">   58</span>    <span class="keywordflow">if</span> (username.empty())</div>
-<div class="line"><span class="lineno">   59</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">   60</span> </div>
-<div class="line"><span class="lineno">   61</span>    <a class="code hl_define" href="../../d9/d2e/a00056.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;commands.ra&quot;</span>, <span class="stringliteral">&quot;Accepting RA connection from user {} (IP: {})&quot;</span>, username, <a class="code hl_function" href="../../d7/d23/a05670.html#aff8957db5a0cceec4fddeb7950bba557">GetRemoteIpAddress</a>());</div>
-<div class="line"><span class="lineno">   62</span> </div>
-<div class="line"><span class="lineno">   63</span>    <a class="code hl_function" href="../../d7/d23/a05670.html#a0f87da6517747387b3899b608328a8c5">Send</a>(<span class="stringliteral">&quot;Password: &quot;</span>);</div>
-<div class="line"><span class="lineno">   64</span> </div>
-<div class="line"><span class="lineno">   65</span>    std::string password = <a class="code hl_function" href="../../d7/d23/a05670.html#a55f31c8b5181bf5d95b353b875267783">ReadString</a>();</div>
-<div class="line"><span class="lineno">   66</span>    <span class="keywordflow">if</span> (password.empty())</div>
-<div class="line"><span class="lineno">   67</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">   68</span> </div>
-<div class="line"><span class="lineno">   69</span>    <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d7/d23/a05670.html#a72963e43e085c28b7d4bb50dfa45433a">CheckAccessLevel</a>(username) || !<a class="code hl_function" href="../../d7/d23/a05670.html#abf15291f3135a382d314feb8a5d72e9e">CheckPassword</a>(username, password))</div>
-<div class="line"><span class="lineno">   70</span>    {</div>
-<div class="line"><span class="lineno">   71</span>        <a class="code hl_function" href="../../d7/d23/a05670.html#a0f87da6517747387b3899b608328a8c5">Send</a>(<span class="stringliteral">&quot;Authentication failed\r\n&quot;</span>);</div>
-<div class="line"><span class="lineno">   72</span>        <a class="code hl_variable" href="../../d7/d23/a05670.html#ac18177d4dfeb0c03d0b1d2015f5dd7e6">_socket</a>.close();</div>
-<div class="line"><span class="lineno">   73</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">   74</span>    }</div>
-<div class="line"><span class="lineno">   75</span> </div>
-<div class="line"><span class="lineno">   76</span>    <a class="code hl_define" href="../../d9/d2e/a00056.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;commands.ra&quot;</span>, <span class="stringliteral">&quot;User {} (IP: {}) authenticated correctly to RA&quot;</span>, username, <a class="code hl_function" href="../../d7/d23/a05670.html#aff8957db5a0cceec4fddeb7950bba557">GetRemoteIpAddress</a>());</div>
-<div class="line"><span class="lineno">   77</span> </div>
-<div class="line"><span class="lineno">   78</span>    <span class="comment">// Authentication successful, send the motd</span></div>
-<div class="line"><span class="lineno">   79</span>    <a class="code hl_function" href="../../d7/d23/a05670.html#a0f87da6517747387b3899b608328a8c5">Send</a>(std::string(std::string(<a class="code hl_define" href="../../de/dde/a00587.html#a0ad6ba4db6e433e72e172e659af2cada">sMotdMgr</a>-&gt;GetMotd(<a class="code hl_define" href="../../d4/d51/a00017.html#a900ed91bceba26c1e05048bd3a9ec4fd">DEFAULT_LOCALE</a>)) + <span class="stringliteral">&quot;\r\n&quot;</span>).c_str());</div>
-<div class="line"><span class="lineno">   80</span> </div>
-<div class="line"><span class="lineno">   81</span>    <span class="comment">// Read commands</span></div>
-<div class="line"><span class="lineno">   82</span>    <span class="keywordflow">for</span> (;;)</div>
-<div class="line"><span class="lineno">   83</span>    {</div>
-<div class="line"><span class="lineno">   84</span>        <a class="code hl_function" href="../../d7/d23/a05670.html#a0f87da6517747387b3899b608328a8c5">Send</a>(<span class="stringliteral">&quot;AC&gt;&quot;</span>);</div>
-<div class="line"><span class="lineno">   85</span>        std::string command = <a class="code hl_function" href="../../d7/d23/a05670.html#a55f31c8b5181bf5d95b353b875267783">ReadString</a>();</div>
-<div class="line"><span class="lineno">   86</span> </div>
-<div class="line"><span class="lineno">   87</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d7/d23/a05670.html#ad4f4c2ccb371867a882351b3f8f8a9ef">ProcessCommand</a>(command))</div>
-<div class="line"><span class="lineno">   88</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">   89</span>    }</div>
-<div class="line"><span class="lineno">   90</span> </div>
-<div class="line"><span class="lineno">   91</span>    <a class="code hl_variable" href="../../d7/d23/a05670.html#ac18177d4dfeb0c03d0b1d2015f5dd7e6">_socket</a>.close();</div>
-<div class="line"><span class="lineno">   92</span>}</div>
-<div class="ttc" id="aa00014_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../d2/de7/a00014.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition:</b> Define.h:109</div></div>
-<div class="ttc" id="aa00017_html_a900ed91bceba26c1e05048bd3a9ec4fd"><div class="ttname"><a href="../../d4/d51/a00017.html#a900ed91bceba26c1e05048bd3a9ec4fd">DEFAULT_LOCALE</a></div><div class="ttdeci">#define DEFAULT_LOCALE</div><div class="ttdef"><b>Definition:</b> Common.h:131</div></div>
-<div class="ttc" id="aa00587_html_a0ad6ba4db6e433e72e172e659af2cada"><div class="ttname"><a href="../../de/dde/a00587.html#a0ad6ba4db6e433e72e172e659af2cada">sMotdMgr</a></div><div class="ttdeci">#define sMotdMgr</div><div class="ttdef"><b>Definition:</b> MotdMgr.h:52</div></div>
-<div class="ttc" id="aa05670_html_a55f31c8b5181bf5d95b353b875267783"><div class="ttname"><a href="../../d7/d23/a05670.html#a55f31c8b5181bf5d95b353b875267783">RASession::ReadString</a></div><div class="ttdeci">std::string ReadString()</div><div class="ttdef"><b>Definition:</b> RASession.cpp:103</div></div>
-<div class="ttc" id="aa05670_html_a72963e43e085c28b7d4bb50dfa45433a"><div class="ttname"><a href="../../d7/d23/a05670.html#a72963e43e085c28b7d4bb50dfa45433a">RASession::CheckAccessLevel</a></div><div class="ttdeci">bool CheckAccessLevel(const std::string &amp;user)</div><div class="ttdef"><b>Definition:</b> RASession.cpp:123</div></div>
-<div class="ttc" id="aa05670_html_abf15291f3135a382d314feb8a5d72e9e"><div class="ttname"><a href="../../d7/d23/a05670.html#abf15291f3135a382d314feb8a5d72e9e">RASession::CheckPassword</a></div><div class="ttdeci">bool CheckPassword(const std::string &amp;user, const std::string &amp;pass)</div><div class="ttdef"><b>Definition:</b> RASession.cpp:155</div></div>
-<div class="ttc" id="aa05670_html_ad4f4c2ccb371867a882351b3f8f8a9ef"><div class="ttname"><a href="../../d7/d23/a05670.html#ad4f4c2ccb371867a882351b3f8f8a9ef">RASession::ProcessCommand</a></div><div class="ttdeci">bool ProcessCommand(std::string &amp;command)</div><div class="ttdef"><b>Definition:</b> RASession.cpp:182</div></div>
-<div class="ttc" id="aa05670_html_aff8957db5a0cceec4fddeb7950bba557"><div class="ttname"><a href="../../d7/d23/a05670.html#aff8957db5a0cceec4fddeb7950bba557">RASession::GetRemoteIpAddress</a></div><div class="ttdeci">const std::string GetRemoteIpAddress() const</div><div class="ttdef"><b>Definition:</b> RASession.h:37</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  138</span>{</div>
+<div class="line"><span class="lineno">  139</span>    <span class="comment">//          0        1          2           3             4             5</span></div>
+<div class="line"><span class="lineno">  140</span>    <span class="comment">// SELECT a.id, a.username, a.locked, a.lock_country, a.last_ip, a.failed_logins,</span></div>
+<div class="line"><span class="lineno">  141</span>    <span class="comment">//                                 6                                        7</span></div>
+<div class="line"><span class="lineno">  142</span>    <span class="comment">// ab.unbandate &gt; UNIX_TIMESTAMP() OR ab.unbandate = ab.bandate, ab.unbandate = ab.bandate,</span></div>
+<div class="line"><span class="lineno">  143</span>    <span class="comment">//                                 8                                             9</span></div>
+<div class="line"><span class="lineno">  144</span>    <span class="comment">// ipb.unbandate &gt; UNIX_TIMESTAMP() OR ipb.unbandate = ipb.bandate, ipb.unbandate = ipb.bandate,</span></div>
+<div class="line"><span class="lineno">  145</span>    <span class="comment">//      10</span></div>
+<div class="line"><span class="lineno">  146</span>    <span class="comment">// aa.gmlevel (, more query-specific fields)</span></div>
+<div class="line"><span class="lineno">  147</span>    <span class="comment">// FROM account a LEFT JOIN account_access aa ON a.id = aa.id LEFT JOIN account_banned ab ON ab.id = a.id AND ab.active = 1 LEFT JOIN ip_banned ipb ON ipb.ip = ? WHERE a.username = ?</span></div>
+<div class="line"><span class="lineno">  148</span> </div>
+<div class="line"><span class="lineno">  149</span>    <a class="code hl_variable" href="../../d7/d23/a05670.html#a8927a7332aba609a90e35555a62c2013">Id</a> = fields[0].<a class="code hl_function" href="../../d1/d52/a05734.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
+<div class="line"><span class="lineno">  150</span>    <a class="code hl_variable" href="../../d7/d23/a05670.html#ad67cd12c25d4991c563d5ecf66b54e2e">Login</a> = fields[1].<a class="code hl_function" href="../../d1/d52/a05734.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;std::string&gt;();</div>
+<div class="line"><span class="lineno">  151</span>    <a class="code hl_variable" href="../../d7/d23/a05670.html#aa4f52d33739d0d0adc3fa88a09ae7465">IsLockedToIP</a> = fields[2].<a class="code hl_function" href="../../d1/d52/a05734.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<span class="keywordtype">bool</span>&gt;();</div>
+<div class="line"><span class="lineno">  152</span>    <a class="code hl_variable" href="../../d7/d23/a05670.html#a00646bbedb925aafea7ef9cbc2bacb3c">LockCountry</a> = fields[3].<a class="code hl_function" href="../../d1/d52/a05734.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;std::string&gt;();</div>
+<div class="line"><span class="lineno">  153</span>    <a class="code hl_variable" href="../../d7/d23/a05670.html#aba34159637020c1858f80bec57ba4945">LastIP</a> = fields[4].<a class="code hl_function" href="../../d1/d52/a05734.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;std::string&gt;();</div>
+<div class="line"><span class="lineno">  154</span>    <a class="code hl_variable" href="../../d7/d23/a05670.html#a252a0300cb2288b4715cb864f93a25e5">FailedLogins</a> = fields[5].<a class="code hl_function" href="../../d1/d52/a05734.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
+<div class="line"><span class="lineno">  155</span>    <a class="code hl_variable" href="../../d7/d23/a05670.html#a9e199ded02bf60c9f05408955af21d84">IsBanned</a> = fields[6].<a class="code hl_function" href="../../d1/d52/a05734.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<span class="keywordtype">bool</span>&gt;() || fields[8].Get&lt;bool&gt;();</div>
+<div class="line"><span class="lineno">  156</span>    <a class="code hl_variable" href="../../d7/d23/a05670.html#a591d37d4e95abea7a8dfbed2581c0f84">IsPermanentlyBanned</a> = fields[7].<a class="code hl_function" href="../../d1/d52/a05734.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<span class="keywordtype">bool</span>&gt;() || fields[9].Get&lt;bool&gt;();</div>
+<div class="line"><span class="lineno">  157</span>    <a class="code hl_variable" href="../../d7/d23/a05670.html#a949a98051356ca84c333f3388ce9c49d">SecurityLevel</a> = <span class="keyword">static_cast&lt;</span><a class="code hl_enumeration" href="../../db/dbc/a00395.html#adaa1cabfe05f8df3c272bdcfd89cdac7">AccountTypes</a><span class="keyword">&gt;</span>(fields[10].<a class="code hl_function" href="../../d1/d52/a05734.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&gt;()) &gt; <a class="code hl_enumvalue" href="../../db/dbc/a00395.html#adaa1cabfe05f8df3c272bdcfd89cdac7ae1fc38747d44c8d316f3b74ae10a5399">SEC_CONSOLE</a> ? <a class="code hl_enumvalue" href="../../db/dbc/a00395.html#adaa1cabfe05f8df3c272bdcfd89cdac7ae1fc38747d44c8d316f3b74ae10a5399">SEC_CONSOLE</a> : <span class="keyword">static_cast&lt;</span><a class="code hl_enumeration" href="../../db/dbc/a00395.html#adaa1cabfe05f8df3c272bdcfd89cdac7">AccountTypes</a><span class="keyword">&gt;</span>(fields[10].<a class="code hl_function" href="../../d1/d52/a05734.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&gt;());</div>
+<div class="line"><span class="lineno">  158</span> </div>
+<div class="line"><span class="lineno">  159</span>    <span class="comment">// Use our own uppercasing of the account name instead of using UPPER() in mysql query</span></div>
+<div class="line"><span class="lineno">  160</span>    <span class="comment">// This is how the account was created in the first place and changing it now would result in breaking</span></div>
+<div class="line"><span class="lineno">  161</span>    <span class="comment">// login for all accounts having accented characters in their name</span></div>
+<div class="line"><span class="lineno">  162</span>    <a class="code hl_function" href="../../d3/d8b/a00059.html#a589bbb62b3f6aadebe49b4140446fb57">Utf8ToUpperOnlyLatin</a>(<a class="code hl_variable" href="../../d7/d23/a05670.html#ad67cd12c25d4991c563d5ecf66b54e2e">Login</a>);</div>
+<div class="line"><span class="lineno">  163</span>}</div>
+<div class="ttc" id="aa00059_html_a589bbb62b3f6aadebe49b4140446fb57"><div class="ttname"><a href="../../d3/d8b/a00059.html#a589bbb62b3f6aadebe49b4140446fb57">Utf8ToUpperOnlyLatin</a></div><div class="ttdeci">bool Utf8ToUpperOnlyLatin(std::string &amp;utf8String)</div><div class="ttdef"><b>Definition:</b> Util.cpp:532</div></div>
+<div class="ttc" id="aa00395_html_adaa1cabfe05f8df3c272bdcfd89cdac7ae1fc38747d44c8d316f3b74ae10a5399"><div class="ttname"><a href="../../db/dbc/a00395.html#adaa1cabfe05f8df3c272bdcfd89cdac7ae1fc38747d44c8d316f3b74ae10a5399">SEC_CONSOLE</a></div><div class="ttdeci">@ SEC_CONSOLE</div><div class="ttdef"><b>Definition:</b> Common.h:61</div></div>
+<div class="ttc" id="aa05670_html_a252a0300cb2288b4715cb864f93a25e5"><div class="ttname"><a href="../../d7/d23/a05670.html#a252a0300cb2288b4715cb864f93a25e5">AccountInfo::FailedLogins</a></div><div class="ttdeci">uint32 FailedLogins</div><div class="ttdef"><b>Definition:</b> AuthSession.h:57</div></div>
+<div class="ttc" id="aa05670_html_a591d37d4e95abea7a8dfbed2581c0f84"><div class="ttname"><a href="../../d7/d23/a05670.html#a591d37d4e95abea7a8dfbed2581c0f84">AccountInfo::IsPermanentlyBanned</a></div><div class="ttdeci">bool IsPermanentlyBanned</div><div class="ttdef"><b>Definition:</b> AuthSession.h:59</div></div>
+<div class="ttc" id="aa05670_html_a949a98051356ca84c333f3388ce9c49d"><div class="ttname"><a href="../../d7/d23/a05670.html#a949a98051356ca84c333f3388ce9c49d">AccountInfo::SecurityLevel</a></div><div class="ttdeci">AccountTypes SecurityLevel</div><div class="ttdef"><b>Definition:</b> AuthSession.h:60</div></div>
+<div class="ttc" id="aa05670_html_ad67cd12c25d4991c563d5ecf66b54e2e"><div class="ttname"><a href="../../d7/d23/a05670.html#ad67cd12c25d4991c563d5ecf66b54e2e">AccountInfo::Login</a></div><div class="ttdeci">std::string Login</div><div class="ttdef"><b>Definition:</b> AuthSession.h:53</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00050">_socket</a>, <a class="el" href="../../#l00123">CheckAccessLevel()</a>, <a class="el" href="../../#l00155">CheckPassword()</a>, <a class="el" href="../../#l00131">DEFAULT_LOCALE</a>, <a class="el" href="../../#l00037">GetRemoteIpAddress()</a>, <a class="el" href="../../#l00166">LOG_INFO</a>, <a class="el" href="../../#l00182">ProcessCommand()</a>, <a class="el" href="../../#l00103">ReadString()</a>, <a class="el" href="../../#l00094">Send()</a>, and <a class="el" href="../../#l00052">sMotdMgr</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00057">FailedLogins</a>, <a class="el" href="../../#l00112">Field::Get()</a>, <a class="el" href="../../#l00052">Id</a>, <a class="el" href="../../#l00058">IsBanned</a>, <a class="el" href="../../#l00054">IsLockedToIP</a>, <a class="el" href="../../#l00059">IsPermanentlyBanned</a>, <a class="el" href="../../#l00056">LastIP</a>, <a class="el" href="../../#l00055">LockCountry</a>, <a class="el" href="../../#l00053">Login</a>, <a class="el" href="../../#l00061">SEC_CONSOLE</a>, <a class="el" href="../../#l00060">SecurityLevel</a>, and <a class="el" href="../../#l00532">Utf8ToUpperOnlyLatin()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00317">AuthSession::LogonChallengeCallback()</a>, and <a class="el" href="../../#l00655">AuthSession::ReconnectChallengeCallback()</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a817e53b23c54f2f6bbf7058eab0824b4" name="a817e53b23c54f2f6bbf7058eab0824b4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a817e53b23c54f2f6bbf7058eab0824b4">&#9670;&#160;</a></span>_commandExecuting</h2>
+<a id="acb4c44664aff165a48d262f81849caf4" name="acb4c44664aff165a48d262f81849caf4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acb4c44664aff165a48d262f81849caf4">&#9670;&#160;</a></span>Expansion</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::promise&lt;void&gt;* RASession::_commandExecuting</td>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> AccountInfo::Expansion</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00220">CommandFinished()</a>, and <a class="el" href="../../#l00182">ProcessCommand()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00365">AccountInfo()</a>, and <a class="el" href="../../#l00555">WorldSocket::HandleAuthSessionCallback()</a>.</p>
 
 </div>
 </div>
-<a id="a899e34097702112e05e942a33ebcb1d2" name="a899e34097702112e05e942a33ebcb1d2"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a899e34097702112e05e942a33ebcb1d2">&#9670;&#160;</a></span>_readBuffer</h2>
+<a id="a252a0300cb2288b4715cb864f93a25e5" name="a252a0300cb2288b4715cb864f93a25e5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a252a0300cb2288b4715cb864f93a25e5">&#9670;&#160;</a></span>FailedLogins</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">boost::asio::streambuf RASession::_readBuffer</td>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AccountInfo::FailedLogins = 0</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00103">ReadString()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00137">LoadResult()</a>.</p>
 
 </div>
 </div>
-<a id="ac18177d4dfeb0c03d0b1d2015f5dd7e6" name="ac18177d4dfeb0c03d0b1d2015f5dd7e6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac18177d4dfeb0c03d0b1d2015f5dd7e6">&#9670;&#160;</a></span>_socket</h2>
+<a id="a95eeb7d5ac99719aa16f467717b815e3" name="a95eeb7d5ac99719aa16f467717b815e3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a95eeb7d5ac99719aa16f467717b815e3">&#9670;&#160;</a></span>Flags</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">tcp::socket RASession::_socket</td>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AccountInfo::Flags</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00037">GetRemoteIpAddress()</a>, <a class="el" href="../../#l00038">GetRemotePort()</a>, <a class="el" href="../../#l00103">ReadString()</a>, <a class="el" href="../../#l00094">Send()</a>, and <a class="el" href="../../#l00035">Start()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00365">AccountInfo()</a>, and <a class="el" href="../../#l00555">WorldSocket::HandleAuthSessionCallback()</a>.</p>
 
 </div>
 </div>
-<a id="a82ccb9ab8abf1403fd5d2384beac99b7" name="a82ccb9ab8abf1403fd5d2384beac99b7"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a82ccb9ab8abf1403fd5d2384beac99b7">&#9670;&#160;</a></span>_writeBuffer</h2>
+<a id="a8927a7332aba609a90e35555a62c2013" name="a8927a7332aba609a90e35555a62c2013"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8927a7332aba609a90e35555a62c2013">&#9670;&#160;</a></span>Id</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">boost::asio::streambuf RASession::_writeBuffer</td>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AccountInfo::Id = 0</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00094">Send()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00365">AccountInfo()</a>, <a class="el" href="../../#l00555">WorldSocket::HandleAuthSessionCallback()</a>, <a class="el" href="../../#l00726">AuthSession::HandleRealmList()</a>, and <a class="el" href="../../#l00137">LoadResult()</a>.</p>
+
+</div>
+</div>
+<a id="a9e199ded02bf60c9f05408955af21d84" name="a9e199ded02bf60c9f05408955af21d84"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9e199ded02bf60c9f05408955af21d84">&#9670;&#160;</a></span>IsBanned</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool AccountInfo::IsBanned = false</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00365">AccountInfo()</a>, <a class="el" href="../../#l00555">WorldSocket::HandleAuthSessionCallback()</a>, <a class="el" href="../../#l00137">LoadResult()</a>, and <a class="el" href="../../#l00317">AuthSession::LogonChallengeCallback()</a>.</p>
+
+</div>
+</div>
+<a id="aa4f52d33739d0d0adc3fa88a09ae7465" name="aa4f52d33739d0d0adc3fa88a09ae7465"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa4f52d33739d0d0adc3fa88a09ae7465">&#9670;&#160;</a></span>IsLockedToIP</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool AccountInfo::IsLockedToIP = false</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00365">AccountInfo()</a>, <a class="el" href="../../#l00555">WorldSocket::HandleAuthSessionCallback()</a>, <a class="el" href="../../#l00137">LoadResult()</a>, and <a class="el" href="../../#l00317">AuthSession::LogonChallengeCallback()</a>.</p>
+
+</div>
+</div>
+<a id="a591d37d4e95abea7a8dfbed2581c0f84" name="a591d37d4e95abea7a8dfbed2581c0f84"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a591d37d4e95abea7a8dfbed2581c0f84">&#9670;&#160;</a></span>IsPermanentlyBanned</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool AccountInfo::IsPermanentlyBanned = false</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00137">LoadResult()</a>, and <a class="el" href="../../#l00317">AuthSession::LogonChallengeCallback()</a>.</p>
+
+</div>
+</div>
+<a id="a5ca2037c73bbad9d8ff5ccea06a5676f" name="a5ca2037c73bbad9d8ff5ccea06a5676f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5ca2037c73bbad9d8ff5ccea06a5676f">&#9670;&#160;</a></span>IsRectuiter</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool AccountInfo::IsRectuiter</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00365">AccountInfo()</a>, and <a class="el" href="../../#l00555">WorldSocket::HandleAuthSessionCallback()</a>.</p>
+
+</div>
+</div>
+<a id="aba34159637020c1858f80bec57ba4945" name="aba34159637020c1858f80bec57ba4945"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aba34159637020c1858f80bec57ba4945">&#9670;&#160;</a></span>LastIP</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::string AccountInfo::LastIP</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00365">AccountInfo()</a>, <a class="el" href="../../#l00555">WorldSocket::HandleAuthSessionCallback()</a>, <a class="el" href="../../#l00137">LoadResult()</a>, and <a class="el" href="../../#l00317">AuthSession::LogonChallengeCallback()</a>.</p>
+
+</div>
+</div>
+<a id="a237d1cfbc774d06851df27610e49bcac" name="a237d1cfbc774d06851df27610e49bcac"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a237d1cfbc774d06851df27610e49bcac">&#9670;&#160;</a></span>Locale</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../db/dbc/a00395.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a> AccountInfo::Locale</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00365">AccountInfo()</a>, and <a class="el" href="../../#l00555">WorldSocket::HandleAuthSessionCallback()</a>.</p>
+
+</div>
+</div>
+<a id="a00646bbedb925aafea7ef9cbc2bacb3c" name="a00646bbedb925aafea7ef9cbc2bacb3c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a00646bbedb925aafea7ef9cbc2bacb3c">&#9670;&#160;</a></span>LockCountry</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::string AccountInfo::LockCountry</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00365">AccountInfo()</a>, <a class="el" href="../../#l00555">WorldSocket::HandleAuthSessionCallback()</a>, <a class="el" href="../../#l00137">LoadResult()</a>, and <a class="el" href="../../#l00317">AuthSession::LogonChallengeCallback()</a>.</p>
+
+</div>
+</div>
+<a id="ad67cd12c25d4991c563d5ecf66b54e2e" name="ad67cd12c25d4991c563d5ecf66b54e2e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad67cd12c25d4991c563d5ecf66b54e2e">&#9670;&#160;</a></span>Login</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::string AccountInfo::Login</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00456">AuthSession::HandleLogonProof()</a>, <a class="el" href="../../#l00681">AuthSession::HandleReconnectProof()</a>, <a class="el" href="../../#l00137">LoadResult()</a>, and <a class="el" href="../../#l00317">AuthSession::LogonChallengeCallback()</a>.</p>
+
+</div>
+</div>
+<a id="a29aaa2c7cebfb41bff13836a80a3ef10" name="a29aaa2c7cebfb41bff13836a80a3ef10"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a29aaa2c7cebfb41bff13836a80a3ef10">&#9670;&#160;</a></span>MuteTime</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#ad7a3bd3be7bd59e7fb6337fcbc956eb1">int64</a> AccountInfo::MuteTime</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00365">AccountInfo()</a>, and <a class="el" href="../../#l00555">WorldSocket::HandleAuthSessionCallback()</a>.</p>
+
+</div>
+</div>
+<a id="a04c0477667a84d67709222b2fc08dfb2" name="a04c0477667a84d67709222b2fc08dfb2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a04c0477667a84d67709222b2fc08dfb2">&#9670;&#160;</a></span>OS</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::string AccountInfo::OS</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00365">AccountInfo()</a>, and <a class="el" href="../../#l00555">WorldSocket::HandleAuthSessionCallback()</a>.</p>
+
+</div>
+</div>
+<a id="a051493f00148208e9284ef33b9c31fad" name="a051493f00148208e9284ef33b9c31fad"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a051493f00148208e9284ef33b9c31fad">&#9670;&#160;</a></span>Recruiter</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AccountInfo::Recruiter</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00365">AccountInfo()</a>, and <a class="el" href="../../#l00555">WorldSocket::HandleAuthSessionCallback()</a>.</p>
+
+</div>
+</div>
+<a id="a7d5e4dc93d075121b8f77ac767396c46" name="a7d5e4dc93d075121b8f77ac767396c46"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7d5e4dc93d075121b8f77ac767396c46">&#9670;&#160;</a></span>Security</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../db/dbc/a00395.html#adaa1cabfe05f8df3c272bdcfd89cdac7">AccountTypes</a> AccountInfo::Security</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00365">AccountInfo()</a>, and <a class="el" href="../../#l00555">WorldSocket::HandleAuthSessionCallback()</a>.</p>
+
+</div>
+</div>
+<a id="a949a98051356ca84c333f3388ce9c49d" name="a949a98051356ca84c333f3388ce9c49d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a949a98051356ca84c333f3388ce9c49d">&#9670;&#160;</a></span>SecurityLevel</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../db/dbc/a00395.html#adaa1cabfe05f8df3c272bdcfd89cdac7">AccountTypes</a> AccountInfo::SecurityLevel = <a class="el" href="../../db/dbc/a00395.html#adaa1cabfe05f8df3c272bdcfd89cdac7a5d534fd54528d86d0f997fa130159df0">SEC_PLAYER</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00137">LoadResult()</a>, and <a class="el" href="../../#l00738">AuthSession::RealmListCallback()</a>.</p>
+
+</div>
+</div>
+<a id="a69846e3f67cbe53f920ba36ecf301467" name="a69846e3f67cbe53f920ba36ecf301467"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a69846e3f67cbe53f920ba36ecf301467">&#9670;&#160;</a></span>SessionKey</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d6/d7f/a00287.html#a7cbcb71452529a2addaab3b112dba4d7">::SessionKey</a> AccountInfo::SessionKey</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00555">WorldSocket::HandleAuthSessionCallback()</a>.</p>
+
+</div>
+</div>
+<a id="adbcb5bdadd845735c4cbc9da0b7ac87b" name="adbcb5bdadd845735c4cbc9da0b7ac87b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adbcb5bdadd845735c4cbc9da0b7ac87b">&#9670;&#160;</a></span>TotalTime</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AccountInfo::TotalTime</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00365">AccountInfo()</a>, and <a class="el" href="../../#l00555">WorldSocket::HandleAuthSessionCallback()</a>.</p>
 
 </div>
 </div>
@@ -821,8 +618,8 @@ Private Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d7/d23/a05670.html">RASession</a></li>
-    <li class="footer">Generated on Mon Aug 4 2025 20:52:06 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d7/d23/a05670.html">AccountInfo</a></li>
+    <li class="footer">Generated on Mon Sep 1 2025 20:43:28 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

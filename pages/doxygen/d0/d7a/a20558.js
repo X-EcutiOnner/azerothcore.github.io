@@ -1,6 +1,6 @@
 var a20558 =
 [
-    [ "npc_ulduar_expedition_engineerAI", "d1/d93/a20562.html", "d1/d93/a20562" ],
-    [ "npc_ulduar_expedition_engineer", "d0/d7a/a20558.html#a1ff99e62b9c2222d8c08e71bfda600ea", null ],
-    [ "GetAI", "d0/d7a/a20558.html#a6f1beaab42e42981e152db920e516616", null ]
+    [ "HandleInstaKill", "d0/d7a/a20558.html#a593786eb89bf77e05dad4b502ffc1925", null ],
+    [ "PrepareSpellScript", "d0/d7a/a20558.html#aa89401a4c6b1c85e4242bda45933b0ad", null ],
+    [ "Register", "d0/d7a/a20558.html#a46f2c2658e6b55f091bf8894f06a787c", null ]
 ];

@@ -1,5 +1,5 @@
 var a00626 =
 [
-    [ "CellArea", "d6/d54/a09050.html", "d6/d54/a09050" ],
-    [ "Cell", "d3/d8b/a09054.html", "d3/d8b/a09054" ]
+    [ "OutdoorPvP_eastern_plaguelands", "d8/da7/a22646.html", "d8/da7/a22646" ],
+    [ "AddSC_outdoorpvp_ep", "d6/dfa/a00626.html#ac97adfc1efbcf82840cffa915a55fecb", null ]
 ];

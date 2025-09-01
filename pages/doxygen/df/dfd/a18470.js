@@ -1,6 +1,8 @@
 var a18470 =
 [
-    [ "npc_the_lich_king_controllerAI", "d6/d4c/a18474.html", "d6/d4c/a18474" ],
-    [ "npc_the_lich_king_controller", "df/dfd/a18470.html#a32b14d699737497ba7c90d8ef17557d7", null ],
-    [ "GetAI", "df/dfd/a18470.html#ae9b6dacb0f4e8e6f12f187ab0dfd2165", null ]
+    [ "ChangeDamageAndGrow", "df/dfd/a18470.html#a017ade08eca93f326d2e5115c4d88c33", null ],
+    [ "CorrectRange", "df/dfd/a18470.html#a9022b9efab89bc562428520b3551ff37", null ],
+    [ "PrepareSpellScript", "df/dfd/a18470.html#a3e1d1764add95728428cbf25f9b66dc4", null ],
+    [ "Register", "df/dfd/a18470.html#a998b810cdbecbca2bf65f18cee14d286", null ],
+    [ "Validate", "df/dfd/a18470.html#afe0910e903f6f8f466b272ce9ddc7a6b", null ]
 ];

@@ -1,6 +1,7 @@
 var a14758 =
 [
-    [ "npc_crate_helperAI", "d1/d0d/a14762.html", "d1/d0d/a14762" ],
-    [ "npc_crate_helper", "d7/d3b/a14758.html#ae08751928234656dcda84dd5c7e4cc37", null ],
-    [ "GetAI", "d7/d3b/a14758.html#af69c9cf385ee829853985daa7f2aa8d6", null ]
+    [ "boss_azuregosAI", "d1/d0d/a14762.html", "d1/d0d/a14762" ],
+    [ "boss_azuregos", "d7/d3b/a14758.html#a48590db0037870ca5c9425a468e5ea3a", null ],
+    [ "GetAI", "d7/d3b/a14758.html#a3ea1fd967b8ab158a9b2bb5cdd7dcf83", null ],
+    [ "OnGossipSelect", "d7/d3b/a14758.html#a73220e54a3a53931e740f3c53c3bf20c", null ]
 ];

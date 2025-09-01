@@ -1,59 +1,21 @@
 var a00719 =
 [
-    [ "u_map_magic", "d2/d53/a09108.html", "d2/d53/a09108" ],
-    [ "map_fileheader", "d6/dc2/a09112.html", "d6/dc2/a09112" ],
-    [ "map_areaHeader", "d3/d9f/a09116.html", "d3/d9f/a09116" ],
-    [ "map_heightHeader", "d3/db5/a09120.html", "d3/db5/a09120" ],
-    [ "map_liquidHeader", "d8/d42/a09124.html", "d8/d42/a09124" ],
-    [ "LoadedAreaData", "d7/dd2/a09128.html", "d7/dd2/a09128" ],
-    [ "LoadedHeightData", "d6/d4b/a09132.html", "d6/d4b/a09132" ],
-    [ "LoadedHeightData::Uint16HeightData", "da/deb/a09136.html", "da/deb/a09136" ],
-    [ "LoadedHeightData::Uint8HeightData", "dc/dee/a09140.html", "dc/dee/a09140" ],
-    [ "LoadedHeightData::FloatHeightData", "d8/d72/a09144.html", "d8/d72/a09144" ],
-    [ "LoadedLiquidData", "dd/da8/a09148.html", "dd/da8/a09148" ],
-    [ "LoadedHoleData", "d9/d46/a09152.html", "d9/d46/a09152" ],
-    [ "LiquidData", "d5/d0b/a09156.html", "d5/d0b/a09156" ],
-    [ "GridTerrainData", "d5/d43/a09160.html", "d5/d43/a09160" ],
-    [ "INVALID_HEIGHT", "dd/dd8/a00719.html#ac08ed03fa837b2e3d2624e0123f0897b", null ],
-    [ "MAP_ALL_LIQUIDS", "dd/dd8/a00719.html#ab120de38f25fcadb7db17ec59fcae4e3", null ],
-    [ "MAP_AREA_NO_AREA", "dd/dd8/a00719.html#a29bbacae053e66ee8b7fa97db3cbd127", null ],
-    [ "MAP_HEIGHT_AS_INT16", "dd/dd8/a00719.html#aefa74fa33f3eba2d39b407c2fd2e8aba", null ],
-    [ "MAP_HEIGHT_AS_INT8", "dd/dd8/a00719.html#a15a9245a53c00f1a8a89dd2d798cea9d", null ],
-    [ "MAP_HEIGHT_HAS_FLIGHT_BOUNDS", "dd/dd8/a00719.html#a0fc25db7841a9836359d1825ec78ca08", null ],
-    [ "MAP_HEIGHT_NO_HEIGHT", "dd/dd8/a00719.html#aa5c2437972b2be5c5ff23a7ac04e2680", null ],
-    [ "MAP_LIQUID_NO_HEIGHT", "dd/dd8/a00719.html#a59daadc7c96729526e05982ec6600bb1", null ],
-    [ "MAP_LIQUID_NO_TYPE", "dd/dd8/a00719.html#a42b8b790a3d284e7116bcad1c391b8f9", null ],
-    [ "MAP_LIQUID_STATUS_IN_CONTACT", "dd/dd8/a00719.html#a3f00601bc8d385b63e3e766209cd366b", null ],
-    [ "MAP_LIQUID_STATUS_SWIMMING", "dd/dd8/a00719.html#ac0e95b704f5fbe7f2c5a728ab9ced4be", null ],
-    [ "MAP_LIQUID_TYPE_DARK_WATER", "dd/dd8/a00719.html#a661f965d11d7da56890b64484d871441", null ],
-    [ "MAP_LIQUID_TYPE_MAGMA", "dd/dd8/a00719.html#a14e2a0a2291347b0ef877bc9d70f7384", null ],
-    [ "MAP_LIQUID_TYPE_NO_WATER", "dd/dd8/a00719.html#a17d4c5ea32412f0fbe04a27f63d50e13", null ],
-    [ "MAP_LIQUID_TYPE_OCEAN", "dd/dd8/a00719.html#a6d257e0effb928fba7534eeee5de602d", null ],
-    [ "MAP_LIQUID_TYPE_SLIME", "dd/dd8/a00719.html#aa56f76510545ed9c706b8fee3061b6cb", null ],
-    [ "MAP_LIQUID_TYPE_WATER", "dd/dd8/a00719.html#a5ec110bd30ec47fcd087aaf5d572de28", null ],
-    [ "MAX_FALL_DISTANCE", "dd/dd8/a00719.html#a91e57a946b1b9303401fd9140f3cd13e", null ],
-    [ "MAX_HEIGHT", "dd/dd8/a00719.html#a9059fa76eb5e8e86f870405d63e72c4c", null ],
-    [ "MIN_HEIGHT", "dd/dd8/a00719.html#a1610a21b358c3531db64b3208fa70e5b", null ],
-    [ "LiquidStatus", "dd/dd8/a00719.html#a230261924eebef09eab542c62d316cc4", [
-      [ "LIQUID_MAP_NO_WATER", "dd/dd8/a00719.html#a230261924eebef09eab542c62d316cc4ad816089af57f43b040885d5c01678825", null ],
-      [ "LIQUID_MAP_ABOVE_WATER", "dd/dd8/a00719.html#a230261924eebef09eab542c62d316cc4af6081f84e48299232ed52bb6a2c8df71", null ],
-      [ "LIQUID_MAP_WATER_WALK", "dd/dd8/a00719.html#a230261924eebef09eab542c62d316cc4af70ebc4891408116188de5f9bed2cf50", null ],
-      [ "LIQUID_MAP_IN_WATER", "dd/dd8/a00719.html#a230261924eebef09eab542c62d316cc4af4e67ea19276ef09ee06c196ee361e01", null ],
-      [ "LIQUID_MAP_UNDER_WATER", "dd/dd8/a00719.html#a230261924eebef09eab542c62d316cc4a05ec44d4ffd65817a9210a88d9f9b857", null ]
+    [ "item_only_for_flight", "d0/d09/a27566.html", "d0/d09/a27566" ],
+    [ "item_incendiary_explosives", "d4/def/a27570.html", "d4/def/a27570" ],
+    [ "item_mysterious_egg", "d8/dfe/a27574.html", "d8/dfe/a27574" ],
+    [ "item_disgusting_jar", "d4/dc5/a27578.html", "d4/dc5/a27578" ],
+    [ "item_petrov_cluster_bombs", "d9/d75/a27582.html", "d9/d75/a27582" ],
+    [ "item_captured_frog", "d7/d0a/a27586.html", "d7/d0a/a27586" ],
+    [ "item_generic_limit_chance_above_60", "de/dcf/a27590.html", "de/dcf/a27590" ],
+    [ "CapturedFrog", "dd/dd8/a00719.html#a3a51d3f5cfd1964cbec23fcba5046cca", [
+      [ "QUEST_THE_PERFECT_SPIES", "dd/dd8/a00719.html#a3a51d3f5cfd1964cbec23fcba5046ccaac3f8eeb86f6f3fe350b15b7a2d86bb04", null ],
+      [ "NPC_VANIRAS_SENTRY_TOTEM", "dd/dd8/a00719.html#a3a51d3f5cfd1964cbec23fcba5046ccaac387e8b467655f50a7dbaa8bcd0de57f", null ]
     ] ],
-    [ "TerrainMapDataReadResult", "dd/dd8/a00719.html#acc57f2f56e801a11d6614f1c85f2624c", [
-      [ "Success", "dd/dd8/a00719.html#acc57f2f56e801a11d6614f1c85f2624ca505a83f220c02df2f85c3810cd9ceb38", null ],
-      [ "NotFound", "dd/dd8/a00719.html#acc57f2f56e801a11d6614f1c85f2624ca38c300f4fc9ce8a77aad4a30de05cad8", null ],
-      [ "ReadError", "dd/dd8/a00719.html#acc57f2f56e801a11d6614f1c85f2624cadf9be6f7af7c3f7196c5c3e731de0a87", null ],
-      [ "InvalidMagic", "dd/dd8/a00719.html#acc57f2f56e801a11d6614f1c85f2624ca180818c6d53193ec0e26551c5eab121d", null ],
-      [ "InvalidAreaData", "dd/dd8/a00719.html#acc57f2f56e801a11d6614f1c85f2624cac596ede97e877d22556117b5bdd4633a", null ],
-      [ "InvalidHeightData", "dd/dd8/a00719.html#acc57f2f56e801a11d6614f1c85f2624ca54788e1cdd051e56eea54771f3bf62d9", null ],
-      [ "InvalidLiquidData", "dd/dd8/a00719.html#acc57f2f56e801a11d6614f1c85f2624ca4042a3edb61fea753b1db70d894ac4eb", null ],
-      [ "InvalidHoleData", "dd/dd8/a00719.html#acc57f2f56e801a11d6614f1c85f2624ca5e70882e3225a2c0cc991ee32af97a98", null ]
+    [ "OnlyForFlight", "dd/dd8/a00719.html#afa5a0f3082f0a49fcc796209c7828151", [
+      [ "SPELL_ARCANE_CHARGES", "dd/dd8/a00719.html#afa5a0f3082f0a49fcc796209c7828151aeefbb491736447da40481cf5a8742e2d", null ]
     ] ],
-    [ "MapAreaMagic", "dd/dd8/a00719.html#a282d6b57d312c7299da392bbfa5c4167", null ],
-    [ "MapHeightMagic", "dd/dd8/a00719.html#a65782292e4a2b7a0891f1f1fada1c8e8", null ],
-    [ "MapLiquidMagic", "dd/dd8/a00719.html#a79c45da33fc6a30841fef644ecb7044f", null ],
-    [ "MapMagic", "dd/dd8/a00719.html#af2485144ba91e4d6202d195faaa192d3", null ],
-    [ "MapVersionMagic", "dd/dd8/a00719.html#abc01d27c4557068cbc748b21ff701539", null ]
+    [ "PetrovClusterBombs", "dd/dd8/a00719.html#a5481d2bf1b9efa370833eed302f6f94c", [
+      [ "SPELL_PETROV_BOMB", "dd/dd8/a00719.html#a5481d2bf1b9efa370833eed302f6f94ca52897b7254f1ac012c7e278d8dcbd8b6", null ]
+    ] ],
+    [ "AddSC_item_scripts", "dd/dd8/a00719.html#a3e28ebf5a580887bb117f786689a34c6", null ]
 ];

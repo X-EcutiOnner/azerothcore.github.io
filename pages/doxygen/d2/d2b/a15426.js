@@ -1,6 +1,7 @@
 var a15426 =
 [
-    [ "npc_tiger_matriarch_creditAI", "d1/d3b/a15430.html", "d1/d3b/a15430" ],
-    [ "npc_tiger_matriarch_credit", "d2/d2b/a15426.html#a9d76e8e808c828da501551025eecd8ea", null ],
-    [ "GetAI", "d2/d2b/a15426.html#ac4966a8ae43688204f97f9a1a7b4542d", null ]
+    [ "npc_anubisath_warder", "d2/d2b/a15426.html#aebe14673e5c31000a9626e39d87c6775", null ],
+    [ "JustEngagedWith", "d2/d2b/a15426.html#a579318fa519eb669573b2cea78c2fee3", null ],
+    [ "Reset", "d2/d2b/a15426.html#aea0fac8f1eb28591b141ace55c49beeb", null ],
+    [ "UpdateAI", "d2/d2b/a15426.html#aba428f1f1a016191aa4f168c616c3a29", null ]
 ];

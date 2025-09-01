@@ -1,7 +1,6 @@
 var a12950 =
 [
-    [ "HandleEffectApply", "d4/d97/a12950.html#a8d52c4ea09e1d58d2dc44ff73d71faf5", null ],
-    [ "PrepareAuraScript", "d4/d97/a12950.html#a9829789fe5544429454e29d228ce0daf", null ],
-    [ "Register", "d4/d97/a12950.html#a7f5a26d10f48d863477ec902e6f5ff1e", null ],
-    [ "Validate", "d4/d97/a12950.html#ae81a441757ab9f10c29a7b313b99cf5f", null ]
+    [ "HandleProc", "d4/d97/a12950.html#a945dad46d3c11ee4720c939390a9dc1b", null ],
+    [ "PrepareAuraScript", "d4/d97/a12950.html#a43953f2950d9a92db66a2c65a045ff6e", null ],
+    [ "Register", "d4/d97/a12950.html#a24df76ff0933685bade58deff98856d2", null ]
 ];

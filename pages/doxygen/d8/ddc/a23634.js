@@ -1,5 +1,8 @@
 var a23634 =
 [
-    [ "at_rp_nethekurse", "d8/ddc/a23634.html#ac0a1891f90b674ad0ccbeb27f170e643", null ],
-    [ "_OnTrigger", "d8/ddc/a23634.html#a93001d6dda7b2711f1efe100ffab5879", null ]
+    [ "ApplyStun", "d8/ddc/a23634.html#a5a5b921dc45418485919e599e80f8ca8", null ],
+    [ "HandleScriptEffect", "d8/ddc/a23634.html#a32619710179250a6a0b408856a888153", null ],
+    [ "PrepareSpellScript", "d8/ddc/a23634.html#afb61d7dcc8ad52da4dcad3d7593f08ad", null ],
+    [ "Register", "d8/ddc/a23634.html#aa753fd45caa1b515911d8fdf6fa78754", null ],
+    [ "Validate", "d8/ddc/a23634.html#a66d91a87078c663903cd836344eec867", null ]
 ];

@@ -1,8 +1,6 @@
 var a19638 =
 [
-    [ "dark_rune_protectorsAI", "db/d22/a19638.html#ae2f3cfd19e565ede132e38f439a930ba", null ],
-    [ "JustEngagedWith", "db/d22/a19638.html#aa71514efa488ff8f9276cb2a4c166759", null ],
-    [ "Reset", "db/d22/a19638.html#a88305b8ac016175d61a0387d1888671f", null ],
-    [ "UpdateAI", "db/d22/a19638.html#a0e27fc91a01362ee58a0eb10fb9a5176", null ],
-    [ "events", "db/d22/a19638.html#a2836d6f142a322dae0aed9ff6a4888e2", null ]
+    [ "HandlePeriodic", "db/d22/a19638.html#a08717e9e8e974fcd7051c45fd1d26893", null ],
+    [ "PrepareAuraScript", "db/d22/a19638.html#abf7b2d81ee81ff27388678e9a5433eac", null ],
+    [ "Register", "db/d22/a19638.html#ac98109fe8d9192ae97e4aa5dc10463cf", null ]
 ];

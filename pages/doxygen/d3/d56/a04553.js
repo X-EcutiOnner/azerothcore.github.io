@@ -1,4 +1,5 @@
 var a04553 =
 [
-    [ "SessionKeyGenerator< Hash >", "d6/d6a/a05200.html", "d6/d6a/a05200" ]
+    [ "GroupMgr", "d4/d86/a09530.html", "d4/d86/a09530" ],
+    [ "sGroupMgr", "d3/d56/a04553.html#a9b001b22670103435cf11551af9fa71e", null ]
 ];

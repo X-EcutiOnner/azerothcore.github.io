@@ -1,8 +1,8 @@
 var a25906 =
 [
-    [ "HandleScript", "de/d5b/a25906.html#ad99c741ef4bf707ec4b4726a3610d827", null ],
-    [ "Load", "de/d5b/a25906.html#ab7aac5c557c76fdd195565a99d746dc9", null ],
-    [ "PrepareSpellScript", "de/d5b/a25906.html#abb6e76d537d61b5b38ce4488d230d6de", null ],
-    [ "Register", "de/d5b/a25906.html#a2f7e819dfa30f4f0d3645fde9c87408c", null ],
-    [ "Validate", "de/d5b/a25906.html#a0767c66cbc288bee6ee0eb3a4fde315f", null ]
+    [ "CheckProc", "de/d5b/a25906.html#a8b3f8cf17dda2322d0e9f8f4211cbd20", null ],
+    [ "HandleProc", "de/d5b/a25906.html#ae034bd626880858c9701ed963de993c9", null ],
+    [ "isException", "de/d5b/a25906.html#aa5f4fcd1b9b710e2931460207cfc6dea", null ],
+    [ "PrepareAuraScript", "de/d5b/a25906.html#a50348fd27947f67df03bf4ddbec89cca", null ],
+    [ "Register", "de/d5b/a25906.html#aaa14b34ac54b4caee76ff72d07dd5c2d", null ]
 ];

@@ -1,5 +1,7 @@
 var a10758 =
 [
-    [ "LFGLeave", "d2/d7a/a10758.html#aba31f53e0e13c13fd96f1b6ea1d42310", null ],
-    [ "Read", "d2/d7a/a10758.html#abae9c55efce73edf5edf1940cb8b61eb", null ]
+    [ "GuildBankTextQueryResult", "d2/d7a/a10758.html#aa1e25895e246c3a688d7850e517858d3", null ],
+    [ "Write", "d2/d7a/a10758.html#acb6b28dcf56b821e3c0d5b58f6baa2dd", null ],
+    [ "Tab", "d2/d7a/a10758.html#abfc5522a0f94086474493db85ed1ef73", null ],
+    [ "Text", "d2/d7a/a10758.html#ae78c1d1b802e12efd058987117158ec3", null ]
 ];

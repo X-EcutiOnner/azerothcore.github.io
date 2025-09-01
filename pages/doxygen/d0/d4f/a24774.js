@@ -1,7 +1,7 @@
 var a24774 =
 [
-    [ "FilterTargets", "d0/d4f/a24774.html#a9abf4baaba572636dba3980e5ae777c5", null ],
-    [ "Load", "d0/d4f/a24774.html#a812e4e461c0ebed6f7c4cc36e88a3367", null ],
-    [ "PrepareSpellScript", "d0/d4f/a24774.html#a4e98fbf669c030263ed2e5759a5bd6e8", null ],
-    [ "Register", "d0/d4f/a24774.html#a2d72f5771d6563260a6e81122e4a2be5", null ]
+    [ "HandleScriptEffect", "d0/d4f/a24774.html#afaffd667477e286700dd7e5562423452", null ],
+    [ "PrepareSpellScript", "d0/d4f/a24774.html#a9c30d4d6427cfc96b88a1427afcedb00", null ],
+    [ "Register", "d0/d4f/a24774.html#ab8b68e02d05abceeb4b7eef00092e759", null ],
+    [ "Validate", "d0/d4f/a24774.html#a553f2f26a412d2060151b4f49055b847", null ]
 ];

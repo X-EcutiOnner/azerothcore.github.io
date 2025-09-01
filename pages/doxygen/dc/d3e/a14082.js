@@ -1,11 +1,7 @@
 var a14082 =
 [
-    [ "boss_marli", "dc/d3e/a14082.html#abba94b400523047bfa9e3a5b34b1ee54", null ],
-    [ "_chargePlayer", "dc/d3e/a14082.html#a54efa8663716fb32d6e390b76dc89ee1", null ],
-    [ "_schedulePhaseSpider", "dc/d3e/a14082.html#aff86376080fdcb9773e0a4b2751d3ae6", null ],
-    [ "_schedulePhaseTroll", "dc/d3e/a14082.html#ad6977930dac1cddd2162f7db1b239c83", null ],
-    [ "JustDied", "dc/d3e/a14082.html#a10ab29949ef17e0f9ebd991dc70262c7", null ],
-    [ "JustEngagedWith", "dc/d3e/a14082.html#ac74bd382c3dc826f7e4426bec3557094", null ],
-    [ "Reset", "dc/d3e/a14082.html#ada18ae0feb0c512267ec6bd83b8ac591", null ],
-    [ "_phase", "dc/d3e/a14082.html#af2b3f0e75ad60b6a9d013a3e9654021e", null ]
+    [ "HandleTriggerSpell", "dc/d3e/a14082.html#a66b366f4989d99a58b331e56024e4520", null ],
+    [ "PrepareAuraScript", "dc/d3e/a14082.html#a4b00497e095b5c43571b543252b31e58", null ],
+    [ "Register", "dc/d3e/a14082.html#abacee7689888bf8c5d21b534a6d71b40", null ],
+    [ "Validate", "dc/d3e/a14082.html#a6bef0ac760a319deed6f71fee213e885", null ]
 ];

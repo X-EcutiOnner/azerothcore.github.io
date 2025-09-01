@@ -1,12 +1,17 @@
 var a28798 =
 [
-    [ "Model", "d1/dd8/a28798.html#ae102b5fc584185113e89fb7b39a72bd1", null ],
-    [ "~Model", "d1/dd8/a28798.html#ad6ebd2062a0b823db841a0b88baac4c0", null ],
-    [ "_unload", "d1/dd8/a28798.html#a9b02ed73fa006bc057157b636029ab6f", null ],
-    [ "ConvertToVMAPModel", "d1/dd8/a28798.html#ae6fd5d754d9a880359b8afaf50c5753e", null ],
-    [ "open", "d1/dd8/a28798.html#a6ed3a71ff468f5acaccc61f5c2c87a0e", null ],
-    [ "filename", "d1/dd8/a28798.html#a4c43746e9c460e29cabd1ba2db6ba222", null ],
-    [ "header", "d1/dd8/a28798.html#a2f6e66bbf4acc662d73e8fe8e5a0e085", null ],
-    [ "indices", "d1/dd8/a28798.html#a3b61d3316481e7b9c38bf50806ebded6", null ],
-    [ "vertices", "d1/dd8/a28798.html#a1af9857df4d0e16ab9940846300fa8fe", null ]
+    [ "GetHeight", "d1/dd8/a28798.html#a98bc670c8dd44b210b398f5f014cbbc7", null ],
+    [ "GetOffsetX", "d1/dd8/a28798.html#a8facef2fdb586a71f1f740086fe160ab", null ],
+    [ "GetOffsetY", "d1/dd8/a28798.html#aecd2f6f40509d9b65f9f254e59298e8c", null ],
+    [ "GetWidth", "d1/dd8/a28798.html#a240dac4718a12daee7c8ec526209c4ba", null ],
+    [ "Height", "d1/dd8/a28798.html#abb92a54ddecdd06c1031bafd41e642dc", null ],
+    [ "LiquidType", "d1/dd8/a28798.html#a910553870f082a1b8dd47c27c8f981f1", null ],
+    [ "LiquidVertexFormat", "d1/dd8/a28798.html#ab1376e3688bcf9110111bf87f8fd940a", null ],
+    [ "MaxHeightLevel", "d1/dd8/a28798.html#aa73500f507b6ee2678f3c81328b716e1", null ],
+    [ "MinHeightLevel", "d1/dd8/a28798.html#a5c56ad9303d1b652774019efbe316dbd", null ],
+    [ "OffsetExistsBitmap", "d1/dd8/a28798.html#a1852863d7fcbbd95e6ccb190895841ca", null ],
+    [ "OffsetVertexData", "d1/dd8/a28798.html#abfe19bd9c6d9d1d41433abe6fae3baea", null ],
+    [ "OffsetX", "d1/dd8/a28798.html#a1dcb423f7ba1c0c7bdaa77aef8139b6c", null ],
+    [ "OffsetY", "d1/dd8/a28798.html#a08a02703ec946d3a6fb6326c24b4f6cc", null ],
+    [ "Width", "d1/dd8/a28798.html#a4b1bd0f232da1acde53787109e26c9b3", null ]
 ];

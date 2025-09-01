@@ -1,7 +1,8 @@
 var a19982 =
 [
-    [ "FilterTargets", "df/d15/a19982.html#a3d864f0428b7e53774d06069037ca5b2", null ],
-    [ "HandleScript", "df/d15/a19982.html#aef8bfe18b42bcc9ad70378c0d78354e7", null ],
-    [ "PrepareSpellScript", "df/d15/a19982.html#aafbd4751a01b4ce62dc94eee2e47f64f", null ],
-    [ "Register", "df/d15/a19982.html#afabe09f8d9a9a10855d6469e8a3db30f", null ]
+    [ "OnPeriodic", "df/d15/a19982.html#a56d101b26b220994aeb035e5fbc1f26e", null ],
+    [ "OnRemove", "df/d15/a19982.html#ac6d961793ddb6423540da9d97e016b82", null ],
+    [ "PrepareAuraScript", "df/d15/a19982.html#a9384a764bf9c48d12e7f62af99897ce4", null ],
+    [ "Register", "df/d15/a19982.html#a69f5474dacdf220ffebe18bd5cf8a32f", null ],
+    [ "Validate", "df/d15/a19982.html#a11d985c5e17c8b3cb34096000fda66ac", null ]
 ];

@@ -1,6 +1,6 @@
 var a23146 =
 [
-    [ "HandleEffectApply", "d8/d24/a23146.html#adbfce9b247a8a36d143243955372dc91", null ],
-    [ "PrepareAuraScript", "d8/d24/a23146.html#a7a04c4f4c9cb1070d02d58bfa3d0c8e6", null ],
-    [ "Register", "d8/d24/a23146.html#afb919ed484440d382b9d1ac7cf6f3f14", null ]
+    [ "npc_supremus_punch_invisible_stalker", "d8/d24/a23146.html#add7d0e711ef02a16ef58d90cfc8ee733", null ],
+    [ "IsSummonedBy", "d8/d24/a23146.html#a467d5a43bb6d2349ad859a0ef7de4c00", null ],
+    [ "UpdateAI", "d8/d24/a23146.html#a90ecfe4257ef77a6d6a200a2f017c51a", null ]
 ];

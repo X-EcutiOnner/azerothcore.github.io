@@ -1,6 +1,5 @@
 var a19486 =
 [
-    [ "boss_bjarngrimAI", "dc/db8/a19490.html", "dc/db8/a19490" ],
-    [ "boss_bjarngrim", "d2/ded/a19486.html#ab509688547d41ec1fd094fdc45291959", null ],
-    [ "GetAI", "d2/ded/a19486.html#aff6455d2a327bbf3426d10a07f7b0e44", null ]
+    [ "achievement_chaos_theory", "d2/ded/a19486.html#a3068009fa1fb400439a2c72f00296484", null ],
+    [ "OnCheck", "d2/ded/a19486.html#a68d9a577cb7e005d81f52077707e3555", null ]
 ];

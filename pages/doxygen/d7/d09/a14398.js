@@ -1,10 +1,10 @@
 var a14398 =
 [
-    [ "boss_headless_horseman_pumpkin", "d7/d09/a14398.html#a62191ae523401ac57a947db96a245f7a", null ],
-    [ "AttackStart", "d7/d09/a14398.html#a2d7cb1bc5f25f87b1452d6c1267958c4", null ],
-    [ "MoveInLineOfSight", "d7/d09/a14398.html#a212f9803f66d297cd276ef842247776a", null ],
-    [ "Reset", "d7/d09/a14398.html#a9d5f6922a52146b61168f1c50b378294", null ],
-    [ "SpellHit", "d7/d09/a14398.html#a401db237c45efde3a30cdca6cb4f95c0", null ],
-    [ "UpdateAI", "d7/d09/a14398.html#aca53b8839bce5e180ba8583490d694c3", null ],
-    [ "timer", "d7/d09/a14398.html#a1f236cdfeec366f0d830e0fceafa6d25", null ]
+    [ "npc_coren_direbrew_sisters", "d7/d09/a14398.html#a415ea0ebd044236f5f4c4d6c28896e00", null ],
+    [ "GetGUID", "d7/d09/a14398.html#a61863117e71ebfb7f1c4c83780ece7bc", null ],
+    [ "JustEngagedWith", "d7/d09/a14398.html#a34e0b6af032240c152c463c221d99335", null ],
+    [ "SetGUID", "d7/d09/a14398.html#ada2e446a929bbba088d3c7e09d117f93", null ],
+    [ "UpdateAI", "d7/d09/a14398.html#a7434b08d12d3f0902d1944b75323560c", null ],
+    [ "_scheduler", "d7/d09/a14398.html#a9d8ca85e7bbd3cc9c61c2bbb38b7d222", null ],
+    [ "_targetGUID", "d7/d09/a14398.html#a801a6811124a7db3a31ec492ef954b20", null ]
 ];

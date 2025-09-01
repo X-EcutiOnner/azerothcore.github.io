@@ -1,6 +1,6 @@
 var a05922 =
 [
-    [ "changed", "df/dc9/a05922.html#af0cf916cd514f64f53f98c108ff63591", null ],
-    [ "counter", "df/dc9/a05922.html#a5ba0b1002e0bfd61ad17b2130a207cb1", null ],
-    [ "date", "df/dc9/a05922.html#a9a6769cf4ca7ba55752adc8cdeba71f5", null ]
+    [ "DirectoryEntry", "df/dc9/a05922.html#a02538aefc1b014b60957d4c67793000f", null ],
+    [ "path", "df/dc9/a05922.html#aca34dff6659f2da63f31e12bb41cf3d0", null ],
+    [ "state", "df/dc9/a05922.html#aeddd31e8fbb23e54549e985f09c4ea96", null ]
 ];

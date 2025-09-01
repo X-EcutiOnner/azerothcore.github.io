@@ -1,6 +1,8 @@
 var a18594 =
 [
-    [ "npc_rotting_frost_giantAI", "d1/dad/a18598.html", "d1/dad/a18598" ],
-    [ "npc_rotting_frost_giant", "d8/d05/a18594.html#ad4440216e11a00d97af43dc5f3957e95", null ],
-    [ "GetAI", "d8/d05/a18594.html#aabc388b3690f2d03e903c7f480d52842", null ]
+    [ "npc_lk_wicked_spiritAI", "d8/d05/a18594.html#a6323ddd6c0932f3d73a6de4bd3c4d5dd", null ],
+    [ "CanAIAttack", "d8/d05/a18594.html#ae094420b1a6e134632baa0b086c806c6", null ],
+    [ "JustDied", "d8/d05/a18594.html#adf153fab1c8639b2b5790ed418afb85d", null ],
+    [ "JustRespawned", "d8/d05/a18594.html#a1acfbead42b66dd8f70a85efc8ce2e6f", null ],
+    [ "Reset", "d8/d05/a18594.html#a8b15079251b6855679d738a342126006", null ]
 ];

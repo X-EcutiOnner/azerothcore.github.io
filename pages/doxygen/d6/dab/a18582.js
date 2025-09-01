@@ -1,6 +1,8 @@
 var a18582 =
 [
-    [ "CaptainSurviveTalk", "d6/dab/a18582.html#a43a1b1da17ed41ae765aabc47c858f80", null ],
-    [ "Execute", "d6/dab/a18582.html#a871cf08e8c7fced2971cae8abbc20454", null ],
-    [ "_owner", "d6/dab/a18582.html#ac8de506afb4688560ea637918d07b01e", null ]
+    [ "npc_lk_spirit_bombAI", "d6/dab/a18582.html#a366fb54e68c0e603000183cd68daf6b7", null ],
+    [ "IsSummonedBy", "d6/dab/a18582.html#a9b3de8c6e2006a19ee1289455163f52c", null ],
+    [ "MovementInform", "d6/dab/a18582.html#a0e4aa94a199439962095c1d2026b2a5f", null ],
+    [ "UpdateAI", "d6/dab/a18582.html#a61b4f7c3a1dd9b9b2850b05f2117e55a", null ],
+    [ "timer", "d6/dab/a18582.html#aa0d370113b753127d4f0fd7bd3a3ba11", null ]
 ];

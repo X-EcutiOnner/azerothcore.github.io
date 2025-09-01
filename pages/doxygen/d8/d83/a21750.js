@@ -1,6 +1,7 @@
 var a21750 =
 [
-    [ "npc_future_youAI", "d1/d70/a21754.html", "d1/d70/a21754" ],
-    [ "npc_future_you", "d8/d83/a21750.html#a36e363156bcb32fee468989062817bd5", null ],
-    [ "GetAI", "d8/d83/a21750.html#a2e1529fef3ce307d98057dc93ce5e5fe", null ]
+    [ "npc_mootoo_the_youngerAI", "d8/d83/a21750.html#a70a5a502dab9a90a790a90eabc5c3acd", null ],
+    [ "JustDied", "d8/d83/a21750.html#a766612f646a6d22d3f0e6f93298e34bc", null ],
+    [ "Reset", "d8/d83/a21750.html#a04624b9b4d552d6b27308edc3ad44644", null ],
+    [ "WaypointReached", "d8/d83/a21750.html#ac758a992ed0d62a272930c84d617b348", null ]
 ];

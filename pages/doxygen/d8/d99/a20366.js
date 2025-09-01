@@ -1,7 +1,6 @@
 var a20366 =
 [
-    [ "FilterTargetsInitial", "d8/d99/a20366.html#a5632307d9a1a89d530a63e71c8abad1c", null ],
-    [ "Load", "d8/d99/a20366.html#a5467818535c6c7239e185d7c6c3bbd27", null ],
-    [ "PrepareSpellScript", "d8/d99/a20366.html#a4d1e588557fa3fa432d4015fda930877", null ],
-    [ "Register", "d8/d99/a20366.html#a0428375ddb89907e7f1728757d55d052", null ]
+    [ "npc_ulduar_flash_freezeAI", "dc/ddf/a20370.html", "dc/ddf/a20370" ],
+    [ "npc_ulduar_flash_freeze", "d8/d99/a20366.html#a0301ed1231d3b0d113e9fc9389e8f160", null ],
+    [ "GetAI", "d8/d99/a20366.html#a933f99c8d38ab98c8454919b6373bb41", null ]
 ];

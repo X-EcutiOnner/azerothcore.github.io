@@ -1,14 +1,11 @@
 var a12218 =
 [
-    [ "boss_chromaggusAI", "d4/d2d/a12218.html#a06f811fb8aa0c15e07e8a771ac722056", null ],
-    [ "CanAIAttack", "d4/d2d/a12218.html#a4643974601831ced1f6173965009ad20", null ],
-    [ "Initialize", "d4/d2d/a12218.html#a0697edb4aa9fb60a0db2ccf54c32dc19", null ],
-    [ "JustEngagedWith", "d4/d2d/a12218.html#a66b6f31ebcfdb2fe9adba85311e655bb", null ],
-    [ "PathEndReached", "d4/d2d/a12218.html#a2805052cd90212ecb9b5f313f4ecc384", null ],
-    [ "Reset", "d4/d2d/a12218.html#aaa72a25326e9c4e1936020a1e6e7b87a", null ],
-    [ "SetGUID", "d4/d2d/a12218.html#a9b5889af178418a3750ae84707818cf7", null ],
-    [ "UpdateAI", "d4/d2d/a12218.html#a4a120f99c6586fd06af6699bfe913d24", null ],
-    [ "_breathSpells", "d4/d2d/a12218.html#a10e18592d163d4be586701de47da48c9", null ],
-    [ "_playerGUID", "d4/d2d/a12218.html#a03a7fc87c67b04eb0b1289276023c1b4", null ],
-    [ "Enraged", "d4/d2d/a12218.html#acc8b5cfbae8debb22a0493400ec310c4", null ]
+    [ "boss_quartermaster_zigris", "d4/d2d/a12218.html#a1d2f68327cc9b88fdd82d44ac8446d57", null ],
+    [ "DamageTaken", "d4/d2d/a12218.html#a61d7f1c4e5a2901812f1175ccce69ab2", null ],
+    [ "JustDied", "d4/d2d/a12218.html#a9295bbcffd7968051a789e8dfb634e23", null ],
+    [ "JustEngagedWith", "d4/d2d/a12218.html#af482c06e00e7f6c15b290115998a27a9", null ],
+    [ "Reset", "d4/d2d/a12218.html#a71e911bb91b7447e8aed28cdccfda8db", null ],
+    [ "SpellHitTarget", "d4/d2d/a12218.html#a38197746cc73ada1378e6e1a5555ef79", null ],
+    [ "UpdateAI", "d4/d2d/a12218.html#a400f7ace05cd5c4d127aecf5d771c616", null ],
+    [ "_hasDrunkPotion", "d4/d2d/a12218.html#a25335533bc43171687e03f1ed22d4fb3", null ]
 ];

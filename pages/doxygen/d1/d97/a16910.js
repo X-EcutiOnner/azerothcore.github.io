@@ -1,6 +1,6 @@
 var a16910 =
 [
-    [ "npc_hor_spiritual_reflectionAI", "d7/dc0/a16914.html", "d7/dc0/a16914" ],
-    [ "npc_hor_spiritual_reflection", "d1/d97/a16910.html#a5f43c7b336335698468092f72c804fea", null ],
-    [ "GetAI", "d1/d97/a16910.html#ab6aafc6db10943662fb66b0f77fc34ec", null ]
+    [ "instance_drak_tharon_keep_InstanceScript", "d1/d97/a16910.html#a15f13e67c33a7d5cfb4793b6b641842c", null ],
+    [ "OnGameObjectCreate", "d1/d97/a16910.html#ab727f29fc768c00ab48bfd7e7717a29a", null ],
+    [ "OnGameObjectRemove", "d1/d97/a16910.html#ad8115d5e1ee45a586ec0c1149d690db5", null ]
 ];

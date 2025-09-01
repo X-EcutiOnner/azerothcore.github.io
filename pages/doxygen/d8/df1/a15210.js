@@ -1,6 +1,6 @@
 var a15210 =
 [
-    [ "HandleOnHit", "d8/df1/a15210.html#abf5a21f1c88241024e6d3b3c5bffe449", null ],
-    [ "PrepareSpellScript", "d8/df1/a15210.html#aa78fc03dacb373c5108e6a5d92e035c6", null ],
-    [ "Register", "d8/df1/a15210.html#a1e608d67914c0071a913d96d70c625d6", null ]
+    [ "HandleDamageCalc", "d8/df1/a15210.html#a03eb92eff300872cd5fca452a99375ab", null ],
+    [ "PrepareSpellScript", "d8/df1/a15210.html#ac07421b62bb6044dad89431839a70bd8", null ],
+    [ "Register", "d8/df1/a15210.html#a70cbf764ab475e2358fa6630798cab9d", null ]
 ];

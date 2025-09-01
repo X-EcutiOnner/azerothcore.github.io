@@ -1,8 +1,15 @@
 var a21986 =
 [
-    [ "HandleEffectApply", "d6/df5/a21986.html#a8ebf9488a7eed99c3651424754cc95c5", null ],
-    [ "HandleEffectPeriodic", "d6/df5/a21986.html#a183976530ebf604656db12e41449427e", null ],
-    [ "PrepareAuraScript", "d6/df5/a21986.html#a03faa2eda84ac74dcff9a7a6a4e57440", null ],
-    [ "Register", "d6/df5/a21986.html#a76be53d506933d4b3c758578b7c33d5f", null ],
-    [ "_posZ", "d6/df5/a21986.html#a488ded8ff40240fe8fbef1567eb091b9", null ]
+    [ "npc_q24545_lich_kingAI", "d6/df5/a21986.html#abebe71c6cfb705ce4409dd7fae3842e3", null ],
+    [ "CleanAll", "d6/df5/a21986.html#a2720994f88a2706a2f0b4fb361f81f2c", null ],
+    [ "JustSummoned", "d6/df5/a21986.html#a6049433795be30eb31e240a4939ad42f", null ],
+    [ "Reset", "d6/df5/a21986.html#aebd396de51edef790cd0b599c94f78a0", null ],
+    [ "SetData", "d6/df5/a21986.html#a8ee3a4f85aebe9b9a8e18858b76042a6", null ],
+    [ "SetGUID", "d6/df5/a21986.html#a9dfbb607bb117d2d1fc8a4e61c42859f", null ],
+    [ "SpellHitTarget", "d6/df5/a21986.html#adb8be583a14c8d0951b45dc027cf31d9", null ],
+    [ "SummonedCreatureDespawn", "d6/df5/a21986.html#ae8049cc5b58c6647b37941fb98c51fe5", null ],
+    [ "UpdateAI", "d6/df5/a21986.html#a24f17e0954e498e4a4b73b4cdffea6a3", null ],
+    [ "events", "d6/df5/a21986.html#a3e89e187c08f45a51fb69b647dcc766d", null ],
+    [ "playerGUID", "d6/df5/a21986.html#ac84b9efb3ee2eaa2160afe5d0217a884", null ],
+    [ "summons", "d6/df5/a21986.html#a1de76ab7f3304f8373c633fa7d0aa533", null ]
 ];

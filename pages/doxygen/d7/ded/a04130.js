@@ -1,4 +1,4 @@
 var a04130 =
 [
-    [ "DatabaseWorker", "d4/dd8/a05712.html", "d4/dd8/a05712" ]
+    [ "ScriptRegistry< AuctionHouseScript >", "d7/ded/a04130.html#ac2271f3a8c4323137893dfd21d8d0003", null ]
 ];

@@ -1,7 +1,16 @@
 var a17174 =
 [
-    [ "HandleDummy", "d9/d66/a17174.html#ab614c27fbeb0fc6cac42c3e8f981e11d", null ],
-    [ "PrepareSpellScript", "d9/d66/a17174.html#a3ef0564565ea49265800422c835432b0", null ],
-    [ "Register", "d9/d66/a17174.html#a7b685926a8d511397889616e97bbd563", null ],
-    [ "Validate", "d9/d66/a17174.html#aecd40c136e44dfc9c5e4dd572d577578", null ]
+    [ "boss_ickAI", "d9/d66/a17174.html#a72c90af745b63202edc36b84b3f4df12", null ],
+    [ "CanAIAttack", "d9/d66/a17174.html#afa3a7ef19f014ed9c46be4a3adc83aa3", null ],
+    [ "DamageTaken", "d9/d66/a17174.html#a96d39b533a96503d59c41c9e7cdd4ac4", null ],
+    [ "GetKrick", "d9/d66/a17174.html#a2d6192f314e76886204c7248d141260a", null ],
+    [ "JustDied", "d9/d66/a17174.html#afd7752ee19dcc6be0b28181bb4485146", null ],
+    [ "JustEngagedWith", "d9/d66/a17174.html#a27598604e65417225acd41d6f05cc717", null ],
+    [ "JustSummoned", "d9/d66/a17174.html#abf700d993e1cfaa0cc64d90903bfa842", null ],
+    [ "KilledUnit", "d9/d66/a17174.html#a618c4e704d9a90d8bf4fac2d22bda6b3", null ],
+    [ "Reset", "d9/d66/a17174.html#a9ba668208cda4dd33fd4eacb04476e2e", null ],
+    [ "SpellHitTarget", "d9/d66/a17174.html#a5d90395d45509f8aeb244f4a4743d07d", null ],
+    [ "UpdateAI", "d9/d66/a17174.html#a74bd63ac9558ecec52affaa7440360a1", null ],
+    [ "events", "d9/d66/a17174.html#aab514bb5f930d9eb545a279181632796", null ],
+    [ "pInstance", "d9/d66/a17174.html#a1ad5a6809ffe750a5538dc650a437b81", null ]
 ];

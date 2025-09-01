@@ -1,8 +1,7 @@
 var a14422 =
 [
-    [ "npc_love_in_air_snivel_real", "de/db3/a14422.html#a9f5b36d35ced9eb27375ca13fcfbc55d", null ],
-    [ "Talk", "de/db3/a14422.html#a0b5cc8dd6bdf7c4fbd7b7aa2ba02b028", null ],
-    [ "UpdateAI", "de/db3/a14422.html#a22ed25da8fe3441ef0e4183390983f40", null ],
-    [ "actionCounter", "de/db3/a14422.html#ab1685b1ee34c81c689af3c3466b185f0", null ],
-    [ "actionTimer", "de/db3/a14422.html#a3bbee1ff355581772b337268775b8fbc", null ]
+    [ "FilterTargets", "de/db3/a14422.html#af3954bbcbce6de5d4ddadd2af0ecac91", null ],
+    [ "HandleDummy", "de/db3/a14422.html#ad3688071ca786bbb4c27d5632d1a1e56", null ],
+    [ "PrepareSpellScript", "de/db3/a14422.html#a6ac4db072beae6ae7a700774667da613", null ],
+    [ "Register", "de/db3/a14422.html#ae981ec2b7e097ad0fe924df7738da5b7", null ]
 ];

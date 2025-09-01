@@ -1,8 +1,6 @@
 var a25746 =
 [
-    [ "OnRemove", "d0/d0d/a25746.html#a645e869079e711a87f1a957b42a35e98", null ],
-    [ "OnStackChange", "d0/d0d/a25746.html#adea8a4a7140e2f9fd4a44ef2a7b4d85b", null ],
-    [ "PrepareAuraScript", "d0/d0d/a25746.html#a5f9e9d07879705917e1cd261808f0a8f", null ],
-    [ "Register", "d0/d0d/a25746.html#ac86068a892255e38244c487a7456cd9f", null ],
-    [ "Validate", "d0/d0d/a25746.html#a74cb62725d939000a1c4ab32b4f4335f", null ]
+    [ "HandleActivateObject", "d0/d0d/a25746.html#a0d14ca0b21716855a04a0a9267f3e019", null ],
+    [ "PrepareSpellScript", "d0/d0d/a25746.html#a684079434128bacd3d8b8b71c14dc56a", null ],
+    [ "Register", "d0/d0d/a25746.html#a266301f59c809c03d0ccfc48a2ace302", null ]
 ];

@@ -1,6 +1,6 @@
 var a12326 =
 [
-    [ "HandleOnHit", "d7/def/a12326.html#a804097903354ab3a730f0fe3eb5ec863", null ],
-    [ "PrepareSpellScript", "d7/def/a12326.html#aea221ad6fb1a30bec6fee0c3a67d01b0", null ],
-    [ "Register", "d7/def/a12326.html#a53bed6f1af71fd309a04bc004d07be80", null ]
+    [ "boss_broodlordAI", "d1/d55/a12330.html", "d1/d55/a12330" ],
+    [ "boss_broodlord", "d7/def/a12326.html#a936f7eb723111877e2a5e3a85cb95b2b", null ],
+    [ "GetAI", "d7/def/a12326.html#a5bd506c6f397608ce84496fa0fea2679", null ]
 ];

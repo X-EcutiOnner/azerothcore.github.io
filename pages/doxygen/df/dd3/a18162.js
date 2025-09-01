@@ -1,9 +1,7 @@
 var a18162 =
 [
-    [ "ShadowTrapLKTargetSelector", "df/dd3/a18162.html#a33561775948e07ac6ade2037f237441d", null ],
-    [ "operator()", "df/dd3/a18162.html#a3770329509c6ab2f16ae369ea8d72645", null ],
-    [ "_maxDist", "df/dd3/a18162.html#a6ee78b1ca184a05d01aa053afe499a95", null ],
-    [ "_playerOnly", "df/dd3/a18162.html#acfb3a657e430bc2ca26680bef6cf0159", null ],
-    [ "_reqLOS", "df/dd3/a18162.html#a7911be23196f59d55028affc3be23c20", null ],
-    [ "_source", "df/dd3/a18162.html#af416013aabf3b217b07228072076603d", null ]
+    [ "HandleScript", "df/dd3/a18162.html#aa579f99f704f4db50b38b5f9b87259d7", null ],
+    [ "PrepareSpellScript", "df/dd3/a18162.html#a92a6f2b0d5a0845e35c07d0b5cefe053", null ],
+    [ "Register", "df/dd3/a18162.html#a2278ecef3dc60082ccb8964a34e55587", null ],
+    [ "Validate", "df/dd3/a18162.html#aeee94330ee7ea9b4fd7447e642404119", null ]
 ];

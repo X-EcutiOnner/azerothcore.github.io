@@ -1,6 +1,6 @@
 var a06110 =
 [
-    [ "TriggerAI", "d9/d59/a06110.html#ad8cc7eae28b11af049db88e0d8ff149b", null ],
-    [ "IsSummonedBy", "d9/d59/a06110.html#a0bcffd9eab068e35d71e3176c33359f1", null ],
-    [ "Permissible", "d9/d59/a06110.html#aa979e7a4774b35bf83ed137543d517b1", null ]
+    [ "NullGameObjectAI", "d9/d59/a06110.html#a54f6ae6e03fbe423d895ec306fe091db", null ],
+    [ "Permissible", "d9/d59/a06110.html#a850b58bfcc5e613f31fc95e556ed7f91", null ],
+    [ "UpdateAI", "d9/d59/a06110.html#a01b2b14306c75fafe58295a30e5d01e0", null ]
 ];

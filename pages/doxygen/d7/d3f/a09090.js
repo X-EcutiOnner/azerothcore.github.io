@@ -1,9 +1,7 @@
 var a09090 =
 [
-    [ "GridReference", "d7/d3f/a09090.html#a9c27f99f74cd0cc99b39f9a6ec614e83", null ],
-    [ "~GridReference", "d7/d3f/a09090.html#afd6a4f88eb066818afde1b752600bb12", null ],
-    [ "next", "d7/d3f/a09090.html#a792323f4b0f66b58d1f9dd0f65f26f0c", null ],
-    [ "sourceObjectDestroyLink", "d7/d3f/a09090.html#a96cb6e8287ceba4de31681bddb1e5838", null ],
-    [ "targetObjectBuildLink", "d7/d3f/a09090.html#a16dc6dc9a5a7bfcd5de9691ad469f5f8", null ],
-    [ "targetObjectDestroyLink", "d7/d3f/a09090.html#ac4c863d059b5c826e9597056dc7c887a", null ]
+    [ "~GridCell", "d7/d3f/a09090.html#ae04041bc575ef654cc46c3f2e6542e2a", null ],
+    [ "AddGridObject", "d7/d3f/a09090.html#adf5a3ece25efc945f7ae85d588da1d15", null ],
+    [ "Visit", "d7/d3f/a09090.html#a76c36b854de74a8e54b94c1a4e563299", null ],
+    [ "_gridObjects", "d7/d3f/a09090.html#a32d576cdb5d1d6f02fdba73d2606314c", null ]
 ];

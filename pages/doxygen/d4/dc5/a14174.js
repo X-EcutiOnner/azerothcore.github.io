@@ -1,10 +1,9 @@
 var a14174 =
 [
-    [ "npc_brewfest_super_brew_trigger", "d4/dc5/a14174.html#a3d2189978683150b1c431fa0fd637358", null ],
-    [ "AttackStart", "d4/dc5/a14174.html#a9ca158a2317a599cd4af64dad6ef04cc", null ],
-    [ "JustEngagedWith", "d4/dc5/a14174.html#a61be52cb8ba0cc10285820ad5324816e", null ],
-    [ "MoveInLineOfSight", "d4/dc5/a14174.html#aedd26ea4a274df9eb27f9f4a22670f1e", null ],
-    [ "Reset", "d4/dc5/a14174.html#a5abf05543247a4f1209fe2a5bebb5d64", null ],
-    [ "UpdateAI", "d4/dc5/a14174.html#a46db84e1eab29e7f4bf99d377962ad12", null ],
-    [ "timer", "d4/dc5/a14174.html#a2ebb06175e3142cca156e57e8386fe02", null ]
+    [ "boss_hazzarah", "d4/dc5/a14174.html#a73ba49b91addc9c03e1692587fe66a52", null ],
+    [ "CanAIAttack", "d4/dc5/a14174.html#a9038a5b4276fda8a6865217a7c494eec", null ],
+    [ "JustEngagedWith", "d4/dc5/a14174.html#a18e382c03ff923bb851a9cd8e2541788", null ],
+    [ "JustSummoned", "d4/dc5/a14174.html#a1c3969fbc027f054598ec4123abd6fa4", null ],
+    [ "SummonedCreatureDies", "d4/dc5/a14174.html#aac0c990013edf1968d33aeb59d4f05b0", null ],
+    [ "UpdateAI", "d4/dc5/a14174.html#a61d92f1650a84ed9684d33879e54bd09", null ]
 ];

@@ -1,8 +1,9 @@
 var a09334 =
 [
-    [ "AnyUnfriendlyNoTotemUnitInObjectRangeCheck", "db/d42/a09334.html#ac4378cfa8fedb3453c0e810d497cb99c", null ],
-    [ "operator()", "db/d42/a09334.html#ad9e3486316cf297ba79a588c60b4ce15", null ],
-    [ "i_funit", "db/d42/a09334.html#ace766830b26d8aae3ec673d2102a9969", null ],
-    [ "i_obj", "db/d42/a09334.html#ae12f4176e49438cfa248345cfe7c9947", null ],
-    [ "i_range", "db/d42/a09334.html#a8335ef8fd7376e7c920dfbca2318d646", null ]
+    [ "NearestGameObjectTypeInObjectRangeCheck", "db/d42/a09334.html#a46cde63433cf803205006ad775fe73b5", null ],
+    [ "NearestGameObjectTypeInObjectRangeCheck", "db/d42/a09334.html#a4bf0dee77fb4979a02eebdc610995640", null ],
+    [ "operator()", "db/d42/a09334.html#ac41947606f4344e19edb13aa58f0a5a7", null ],
+    [ "i_obj", "db/d42/a09334.html#aca71a09421fdf412489f7f54cf4bc379", null ],
+    [ "i_range", "db/d42/a09334.html#a37f212d5cb1ef2b8d55e19b749861a17", null ],
+    [ "i_type", "db/d42/a09334.html#a68965425169b93053eadad91403855e0", null ]
 ];

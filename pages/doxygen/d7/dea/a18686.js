@@ -1,8 +1,8 @@
 var a18686 =
 [
-    [ "npc_arthas_teleport_visualAI", "d7/dea/a18686.html#a9b9b2ba725cde9aec898244a9e50c394", null ],
-    [ "Reset", "d7/dea/a18686.html#a27155b8880a2a86b733bcd074e977b59", null ],
-    [ "UpdateAI", "d7/dea/a18686.html#a23c200f2c7b9f5d02bed7af37bc69c33", null ],
-    [ "_events", "d7/dea/a18686.html#a986f19145e46f5975f22a84a3e1b10ee", null ],
-    [ "_instance", "d7/dea/a18686.html#a25bc023e061a0845421a652b571a6e1e", null ]
+    [ "npc_suppresserAI", "d7/dea/a18686.html#a5787ec6eadae1fc23b84129933ea14e8", null ],
+    [ "AttackStart", "d7/dea/a18686.html#ae36105de1df1dd9841332d9a8e7799be", null ],
+    [ "IsSummonedBy", "d7/dea/a18686.html#a35ec340b2d02a14707fc353428b1298d", null ],
+    [ "UpdateAI", "d7/dea/a18686.html#a1443e8311b6e2d61d6f9abd2e5f40793", null ],
+    [ "_instance", "d7/dea/a18686.html#a3e171216b2d53e00f8e504f47759d9a6", null ]
 ];

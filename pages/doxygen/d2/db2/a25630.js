@@ -1,7 +1,6 @@
 var a25630 =
 [
-    [ "OnRemove", "d2/db2/a25630.html#a1f4f852ef6d5b2313df20af540eee7da", null ],
-    [ "PrepareAuraScript", "d2/db2/a25630.html#a8abf8084dd8bb1ac74b3884380cda809", null ],
-    [ "Register", "d2/db2/a25630.html#a35a8adc4944fc2333488e72498f6d252", null ],
-    [ "Validate", "d2/db2/a25630.html#aa312f28f03cc0929eb9ea8ba526ebb54", null ]
+    [ "CheckCast", "d2/db2/a25630.html#ac1bc3f881c31c5ab90785a62a5f5b5ae", null ],
+    [ "PrepareSpellScript", "d2/db2/a25630.html#a2a9c657ccffbacfc661c6bb1dc41d9de", null ],
+    [ "Register", "d2/db2/a25630.html#a4b34bd5ce9d3e948d6c712d71ed71b2d", null ]
 ];

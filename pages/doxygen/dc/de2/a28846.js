@@ -1,6 +1,10 @@
 var a28846 =
 [
-    [ "height", "dc/de2/a28846.html#a7638f586a055c48a46e36471543ff72f", null ],
-    [ "unk1", "dc/de2/a28846.html#a6c08b6fa33e12a9900218d0d0b8b78d5", null ],
-    [ "unk2", "dc/de2/a28846.html#a394a04f6e985824aa259a42b11b97136", null ]
+    [ "Exception", "dc/de2/a28846.html#a414c3d1a58dc27f84f70db7372c71394", null ],
+    [ "~Exception", "dc/de2/a28846.html#a1af5fa940a44522664bf8032b0ec164a", null ],
+    [ "Exception", "dc/de2/a28846.html#a414c3d1a58dc27f84f70db7372c71394", null ],
+    [ "~Exception", "dc/de2/a28846.html#a1af5fa940a44522664bf8032b0ec164a", null ],
+    [ "getMessage", "dc/de2/a28846.html#af9bfdfbfe28783d5ad6f7b08cb845c75", null ],
+    [ "getMessage", "dc/de2/a28846.html#af9bfdfbfe28783d5ad6f7b08cb845c75", null ],
+    [ "message", "dc/de2/a28846.html#aeb732542a0ba63cde3d9b3bff93f4eda", null ]
 ];

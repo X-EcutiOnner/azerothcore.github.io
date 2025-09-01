@@ -1,6 +1,11 @@
 var a23266 =
 [
-    [ "HandlePeriodic", "d8/d23/a23266.html#a25c698e911ec02d9cd7f757ba87281df", null ],
-    [ "PrepareAuraScript", "d8/d23/a23266.html#a7bf79bc5e5f509b52965f03e998db399", null ],
-    [ "Register", "d8/d23/a23266.html#ab3eec9f591384c7c1c684651c38aa614", null ]
+    [ "boss_doomlordkazzakAI", "d8/d23/a23266.html#a86a942b48bf1146fb3ab445dc386cab9", null ],
+    [ "JustDied", "d8/d23/a23266.html#a33d0bc150c3c2701f4c0c4d8f39fce29", null ],
+    [ "JustEngagedWith", "d8/d23/a23266.html#a8086a5f8f6edd94525b9aedd083b7b00", null ],
+    [ "JustRespawned", "d8/d23/a23266.html#a174912c149657f4d88446f4ac0631598", null ],
+    [ "KilledUnit", "d8/d23/a23266.html#adb91f475b0e8cb73821860c3c5cc226b", null ],
+    [ "Reset", "d8/d23/a23266.html#a51b19c8e7c5f85c41b3168165bb8b40b", null ],
+    [ "UpdateAI", "d8/d23/a23266.html#a28a0a8345fcd5411491409854acef729", null ],
+    [ "_inBerserk", "d8/d23/a23266.html#a996d17128aca96c00c8416957ebc24d0", null ]
 ];

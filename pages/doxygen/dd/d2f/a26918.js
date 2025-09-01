@@ -1,7 +1,7 @@
 var a26918 =
 [
-    [ "HandleDummy", "dd/d2f/a26918.html#a3af91500357eb127f813334bdf538dbd", null ],
-    [ "PrepareSpellScript", "dd/d2f/a26918.html#ae34ff5e6027efecc34fa770690df5887", null ],
-    [ "Register", "dd/d2f/a26918.html#add4e4d484008d1e1cf63e36c6b6e9757", null ],
-    [ "Validate", "dd/d2f/a26918.html#a0b107442c0b76a018cc019f776c0b785", null ]
+    [ "HandleAuraApply", "dd/d2f/a26918.html#afb8eb7fcc0797c3e19a9bfc5eebb5fb2", null ],
+    [ "HandleAuraRemove", "dd/d2f/a26918.html#a9029865b5e06c4a9aa7f155f371c9125", null ],
+    [ "PrepareAuraScript", "dd/d2f/a26918.html#a5c7d7c0b8880128121d66d39094f1965", null ],
+    [ "Register", "dd/d2f/a26918.html#ae15d5175671c60a55e4a77848bc9fe1b", null ]
 ];

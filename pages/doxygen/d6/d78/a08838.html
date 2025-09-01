@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: TempSummonGroupKey Struct Reference</title>
+<title>AzerothCore: GameEventData Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,41 +106,54 @@ $(document).ready(function(){initNavTree('d6/d78/a08838.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pri-attribs">Private Attributes</a> &#124;
+<a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../d2/d5d/a08835.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">TempSummonGroupKey Struct Reference</div></div>
+  <div class="headertitle"><div class="title">GameEventData Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p>Key for storing temp summon data in TempSummonDataContainer.  
- <a href="../../d6/d78/a08838.html#details">More...</a></p>
-
-<p><code>#include &quot;<a class="el" href="../../">ObjectMgr.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">GameEventMgr.h</a>&quot;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:ae1bd752c8fc7d037d6942b32859ce1ad"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d78/a08838.html#ae1bd752c8fc7d037d6942b32859ce1ad">TempSummonGroupKey</a> (<a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> summonerEntry, <a class="el" href="../../db/d7a/a02105.html#ac8a8d6d0515f6d559068f8aaae56e188">SummonerType</a> summonerType, <a class="el" href="../../d2/de7/a00014.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> group)</td></tr>
-<tr class="separator:ae1bd752c8fc7d037d6942b32859ce1ad"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae92c7712bd58b9b773ddaac3d2b8a345"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d78/a08838.html#ae92c7712bd58b9b773ddaac3d2b8a345">operator&lt;</a> (<a class="el" href="../../d6/d78/a08838.html">TempSummonGroupKey</a> const &amp;rhs) const</td></tr>
-<tr class="separator:ae92c7712bd58b9b773ddaac3d2b8a345"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab7963b01d9e138d79f06274ea57b9590"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d78/a08838.html#ab7963b01d9e138d79f06274ea57b9590">GameEventData</a> ()=default</td></tr>
+<tr class="separator:ab7963b01d9e138d79f06274ea57b9590"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7a91c9c9cc68593812b13f6efd2ea4ff"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d78/a08838.html#a7a91c9c9cc68593812b13f6efd2ea4ff">isValid</a> () const</td></tr>
+<tr class="separator:a7a91c9c9cc68593812b13f6efd2ea4ff"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
-Private Attributes</h2></td></tr>
-<tr class="memitem:a0ecac0e82ce63c9e64f2e17d941df447"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d78/a08838.html#a0ecac0e82ce63c9e64f2e17d941df447">_summonerEntry</a></td></tr>
-<tr class="memdesc:a0ecac0e82ce63c9e64f2e17d941df447"><td class="mdescLeft">&#160;</td><td class="mdescRight">Summoner's entry.  <a href="../../d6/d78/a08838.html#a0ecac0e82ce63c9e64f2e17d941df447">More...</a><br /></td></tr>
-<tr class="separator:a0ecac0e82ce63c9e64f2e17d941df447"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac6bf8fb36092134f63409f3cddc5f810"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d7a/a02105.html#ac8a8d6d0515f6d559068f8aaae56e188">SummonerType</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d78/a08838.html#ac6bf8fb36092134f63409f3cddc5f810">_summonerType</a></td></tr>
-<tr class="memdesc:ac6bf8fb36092134f63409f3cddc5f810"><td class="mdescLeft">&#160;</td><td class="mdescRight">Summoner's type, see SummonerType for available types.  <a href="../../d6/d78/a08838.html#ac6bf8fb36092134f63409f3cddc5f810">More...</a><br /></td></tr>
-<tr class="separator:ac6bf8fb36092134f63409f3cddc5f810"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1a90f3bf90363f88828cc217dd7ceda6"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/de7/a00014.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d78/a08838.html#a1a90f3bf90363f88828cc217dd7ceda6">_summonGroup</a></td></tr>
-<tr class="memdesc:a1a90f3bf90363f88828cc217dd7ceda6"><td class="mdescLeft">&#160;</td><td class="mdescRight">Summon's group id.  <a href="../../d6/d78/a08838.html#a1a90f3bf90363f88828cc217dd7ceda6">More...</a><br /></td></tr>
-<tr class="separator:a1a90f3bf90363f88828cc217dd7ceda6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
+Public Attributes</h2></td></tr>
+<tr class="memitem:a6fe6513946fc98803fb816d2aabd8dcc"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d78/a08838.html#a6fe6513946fc98803fb816d2aabd8dcc">EventId</a></td></tr>
+<tr class="separator:a6fe6513946fc98803fb816d2aabd8dcc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3be91b7e00641ca6cb853104190845dc"><td class="memItemLeft" align="right" valign="top">time_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d78/a08838.html#a3be91b7e00641ca6cb853104190845dc">Start</a> {1}</td></tr>
+<tr class="separator:a3be91b7e00641ca6cb853104190845dc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4bae1cf480ee64f190e2f09640e8a8cd"><td class="memItemLeft" align="right" valign="top">time_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d78/a08838.html#a4bae1cf480ee64f190e2f09640e8a8cd">End</a> {0}</td></tr>
+<tr class="separator:a4bae1cf480ee64f190e2f09640e8a8cd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aafe5f4d5b9122f26442266c651ebd77e"><td class="memItemLeft" align="right" valign="top">time_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d78/a08838.html#aafe5f4d5b9122f26442266c651ebd77e">NextStart</a> {0}</td></tr>
+<tr class="separator:aafe5f4d5b9122f26442266c651ebd77e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab4e80a88f30560a3af0c6381e974687d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d78/a08838.html#ab4e80a88f30560a3af0c6381e974687d">Occurence</a> {0}</td></tr>
+<tr class="separator:ab4e80a88f30560a3af0c6381e974687d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a72bff4c3a62db350460993d804a461ea"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d78/a08838.html#a72bff4c3a62db350460993d804a461ea">Length</a> {0}</td></tr>
+<tr class="separator:a72bff4c3a62db350460993d804a461ea"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9c9979bdece8534af216b693a2a58a80"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dc/d43/a04727.html#ad279224fea61f9754572051fc5ff1fab">HolidayIds</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d78/a08838.html#a9c9979bdece8534af216b693a2a58a80">HolidayId</a> {<a class="el" href="../../dc/d43/a04727.html#ad279224fea61f9754572051fc5ff1faba28168544ac4271e71835f87f564500f7">HOLIDAY_NONE</a>}</td></tr>
+<tr class="separator:a9c9979bdece8534af216b693a2a58a80"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a44c52795eed59abdff72cdebdccc50ca"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d78/a08838.html#a44c52795eed59abdff72cdebdccc50ca">HolidayStage</a></td></tr>
+<tr class="separator:a44c52795eed59abdff72cdebdccc50ca"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6288a7c28aba2927c3e91f5d2f517a60"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d0d/a03995.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5">GameEventState</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d78/a08838.html#a6288a7c28aba2927c3e91f5d2f517a60">State</a> {<a class="el" href="../../d9/d0d/a03995.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5a0951d2c0686f93e6e7d0e002b4521921">GAMEEVENT_NORMAL</a>}</td></tr>
+<tr class="separator:a6288a7c28aba2927c3e91f5d2f517a60"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0915a0321c4c26bfb61824587a309cde"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d0d/a03995.html#ac4262be385ac879bb433e00533d835c0">GameEventConditionMap</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d78/a08838.html#a0915a0321c4c26bfb61824587a309cde">Conditions</a></td></tr>
+<tr class="separator:a0915a0321c4c26bfb61824587a309cde"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa4ecb9c9ce012aad0c1cb0d90a3eb4e0"><td class="memItemLeft" align="right" valign="top">std::set&lt; <a class="el" href="../../d0/d61/a00302.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d78/a08838.html#aa4ecb9c9ce012aad0c1cb0d90a3eb4e0">PrerequisiteEvents</a></td></tr>
+<tr class="separator:aa4ecb9c9ce012aad0c1cb0d90a3eb4e0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5ab9afbc209e319839fd68de0cbc2207"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d78/a08838.html#a5ab9afbc209e319839fd68de0cbc2207">Description</a></td></tr>
+<tr class="separator:a5ab9afbc209e319839fd68de0cbc2207"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae055378db69064ad4338ec2ddf6c7c75"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d78/a08838.html#ae055378db69064ad4338ec2ddf6c7c75">Announce</a></td></tr>
+<tr class="separator:ae055378db69064ad4338ec2ddf6c7c75"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p >Key for storing temp summon data in TempSummonDataContainer. </p>
-</div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="ae1bd752c8fc7d037d6942b32859ce1ad" name="ae1bd752c8fc7d037d6942b32859ce1ad"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae1bd752c8fc7d037d6942b32859ce1ad">&#9670;&#160;</a></span>TempSummonGroupKey()</h2>
+<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="ab7963b01d9e138d79f06274ea57b9590" name="ab7963b01d9e138d79f06274ea57b9590"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab7963b01d9e138d79f06274ea57b9590">&#9670;&#160;</a></span>GameEventData()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -149,47 +162,24 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">TempSummonGroupKey::TempSummonGroupKey </td>
+          <td class="memname">GameEventData::GameEventData </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>summonerEntry</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
+          <td class="paramname"></td><td>)</td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../db/d7a/a02105.html#ac8a8d6d0515f6d559068f8aaae56e188">SummonerType</a>&#160;</td>
-          <td class="paramname"><em>summonerType</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d2/de7/a00014.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td>
-          <td class="paramname"><em>group</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+<span class="mlabels"><span class="mlabel">default</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   66</span>        : <a class="code hl_variable" href="../../d6/d78/a08838.html#a0ecac0e82ce63c9e64f2e17d941df447">_summonerEntry</a>(summonerEntry), <a class="code hl_variable" href="../../d6/d78/a08838.html#ac6bf8fb36092134f63409f3cddc5f810">_summonerType</a>(summonerType), <a class="code hl_variable" href="../../d6/d78/a08838.html#a1a90f3bf90363f88828cc217dd7ceda6">_summonGroup</a>(group)</div>
-<div class="line"><span class="lineno">   67</span>    {</div>
-<div class="line"><span class="lineno">   68</span>    }</div>
-<div class="ttc" id="aa08838_html_a0ecac0e82ce63c9e64f2e17d941df447"><div class="ttname"><a href="../../d6/d78/a08838.html#a0ecac0e82ce63c9e64f2e17d941df447">TempSummonGroupKey::_summonerEntry</a></div><div class="ttdeci">uint32 _summonerEntry</div><div class="ttdoc">Summoner's entry.</div><div class="ttdef"><b>Definition:</b> ObjectMgr.h:77</div></div>
-<div class="ttc" id="aa08838_html_a1a90f3bf90363f88828cc217dd7ceda6"><div class="ttname"><a href="../../d6/d78/a08838.html#a1a90f3bf90363f88828cc217dd7ceda6">TempSummonGroupKey::_summonGroup</a></div><div class="ttdeci">uint8 _summonGroup</div><div class="ttdoc">Summon's group id.</div><div class="ttdef"><b>Definition:</b> ObjectMgr.h:79</div></div>
-<div class="ttc" id="aa08838_html_ac6bf8fb36092134f63409f3cddc5f810"><div class="ttname"><a href="../../d6/d78/a08838.html#ac6bf8fb36092134f63409f3cddc5f810">TempSummonGroupKey::_summonerType</a></div><div class="ttdeci">SummonerType _summonerType</div><div class="ttdoc">Summoner's type, see SummonerType for available types.</div><div class="ttdef"><b>Definition:</b> ObjectMgr.h:78</div></div>
-</div><!-- fragment -->
+
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="ae92c7712bd58b9b773ddaac3d2b8a345" name="ae92c7712bd58b9b773ddaac3d2b8a345"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae92c7712bd58b9b773ddaac3d2b8a345">&#9670;&#160;</a></span>operator&lt;()</h2>
+<a id="a7a91c9c9cc68593812b13f6efd2ea4ff" name="a7a91c9c9cc68593812b13f6efd2ea4ff"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7a91c9c9cc68593812b13f6efd2ea4ff">&#9670;&#160;</a></span>isValid()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -198,10 +188,9 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">bool TempSummonGroupKey::operator&lt; </td>
+          <td class="memname">bool GameEventData::isValid </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d6/d78/a08838.html">TempSummonGroupKey</a> const &amp;&#160;</td>
-          <td class="paramname"><em>rhs</em></td><td>)</td>
+          <td class="paramname"></td><td>)</td>
           <td> const</td>
         </tr>
       </table>
@@ -211,91 +200,221 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   71</span>    {</div>
-<div class="line"><span class="lineno">   72</span>        <span class="keywordflow">return</span> std::tie(<a class="code hl_variable" href="../../d6/d78/a08838.html#a0ecac0e82ce63c9e64f2e17d941df447">_summonerEntry</a>, <a class="code hl_variable" href="../../d6/d78/a08838.html#ac6bf8fb36092134f63409f3cddc5f810">_summonerType</a>, <a class="code hl_variable" href="../../d6/d78/a08838.html#a1a90f3bf90363f88828cc217dd7ceda6">_summonGroup</a>) &lt;</div>
-<div class="line"><span class="lineno">   73</span>               std::tie(rhs._summonerEntry, rhs._summonerType, rhs._summonGroup);</div>
-<div class="line"><span class="lineno">   74</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">   73</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d6/d78/a08838.html#a72bff4c3a62db350460993d804a461ea">Length</a> &gt; 0 || <a class="code hl_variable" href="../../d6/d78/a08838.html#a6288a7c28aba2927c3e91f5d2f517a60">State</a> &gt; <a class="code hl_enumvalue" href="../../d9/d0d/a03995.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5a0951d2c0686f93e6e7d0e002b4521921">GAMEEVENT_NORMAL</a>; }</div>
+<div class="ttc" id="aa03995_html_aeb9f2334f35e9f2b2fd8c2ac5630e3b5a0951d2c0686f93e6e7d0e002b4521921"><div class="ttname"><a href="../../d9/d0d/a03995.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5a0951d2c0686f93e6e7d0e002b4521921">GAMEEVENT_NORMAL</a></div><div class="ttdeci">@ GAMEEVENT_NORMAL</div><div class="ttdef"><b>Definition:</b> GameEventMgr.h:31</div></div>
+<div class="ttc" id="aa08838_html_a6288a7c28aba2927c3e91f5d2f517a60"><div class="ttname"><a href="../../d6/d78/a08838.html#a6288a7c28aba2927c3e91f5d2f517a60">GameEventData::State</a></div><div class="ttdeci">GameEventState State</div><div class="ttdef"><b>Definition:</b> GameEventMgr.h:67</div></div>
+<div class="ttc" id="aa08838_html_a72bff4c3a62db350460993d804a461ea"><div class="ttname"><a href="../../d6/d78/a08838.html#a72bff4c3a62db350460993d804a461ea">GameEventData::Length</a></div><div class="ttdeci">uint32 Length</div><div class="ttdef"><b>Definition:</b> GameEventMgr.h:64</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00077">_summonerEntry</a>, <a class="el" href="../../#l00078">_summonerType</a>, and <a class="el" href="../../#l00079">_summonGroup</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00031">GAMEEVENT_NORMAL</a>, <a class="el" href="../../#l00064">Length</a>, and <a class="el" href="../../#l00067">State</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00079">event_commandscript::HandleEventInfoCommand()</a>, <a class="el" href="../../#l00117">event_commandscript::HandleEventStartCommand()</a>, <a class="el" href="../../#l00146">event_commandscript::HandleEventStopCommand()</a>, and <a class="el" href="../../#l00972">SmartAIMgr::IsEventValid()</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a0ecac0e82ce63c9e64f2e17d941df447" name="a0ecac0e82ce63c9e64f2e17d941df447"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0ecac0e82ce63c9e64f2e17d941df447">&#9670;&#160;</a></span>_summonerEntry</h2>
+<a id="ae055378db69064ad4338ec2ddf6c7c75" name="ae055378db69064ad4338ec2ddf6c7c75"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae055378db69064ad4338ec2ddf6c7c75">&#9670;&#160;</a></span>Announce</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> TempSummonGroupKey::_summonerEntry</td>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> GameEventData::Announce</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
-<p>Summoner's entry. </p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00070">operator&lt;()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00326">GameEventMgr::LoadEvents()</a>.</p>
 
 </div>
 </div>
-<a id="ac6bf8fb36092134f63409f3cddc5f810" name="ac6bf8fb36092134f63409f3cddc5f810"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac6bf8fb36092134f63409f3cddc5f810">&#9670;&#160;</a></span>_summonerType</h2>
+<a id="a0915a0321c4c26bfb61824587a309cde" name="a0915a0321c4c26bfb61824587a309cde"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0915a0321c4c26bfb61824587a309cde">&#9670;&#160;</a></span>Conditions</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../db/d7a/a02105.html#ac8a8d6d0515f6d559068f8aaae56e188">SummonerType</a> TempSummonGroupKey::_summonerType</td>
+          <td class="memname"><a class="el" href="../../d9/d0d/a03995.html#ac4262be385ac879bb433e00533d835c0">GameEventConditionMap</a> GameEventData::Conditions</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
-<p>Summoner's type, see SummonerType for available types. </p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00070">operator&lt;()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00193">GameEventMgr::StopEvent()</a>.</p>
 
 </div>
 </div>
-<a id="a1a90f3bf90363f88828cc217dd7ceda6" name="a1a90f3bf90363f88828cc217dd7ceda6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1a90f3bf90363f88828cc217dd7ceda6">&#9670;&#160;</a></span>_summonGroup</h2>
+<a id="a5ab9afbc209e319839fd68de0cbc2207" name="a5ab9afbc209e319839fd68de0cbc2207"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5ab9afbc209e319839fd68de0cbc2207">&#9670;&#160;</a></span>Description</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d2/de7/a00014.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> TempSummonGroupKey::_summonGroup</td>
+          <td class="memname">std::string GameEventData::Description</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
-<p>Summon's group id. </p>
+<p class="reference">Referenced by <a class="el" href="../../#l00050">event_commandscript::HandleEventActiveListCommand()</a>, <a class="el" href="../../#l00079">event_commandscript::HandleEventInfoCommand()</a>, <a class="el" href="../../#l00117">event_commandscript::HandleEventStartCommand()</a>, <a class="el" href="../../#l00146">event_commandscript::HandleEventStopCommand()</a>, <a class="el" href="../../#l00262">lookup_commandscript::HandleLookupEventCommand()</a>, and <a class="el" href="../../#l00326">GameEventMgr::LoadEvents()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00070">operator&lt;()</a>.</p>
+</div>
+</div>
+<a id="a4bae1cf480ee64f190e2f09640e8a8cd" name="a4bae1cf480ee64f190e2f09640e8a8cd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4bae1cf480ee64f190e2f09640e8a8cd">&#9670;&#160;</a></span>End</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">time_t GameEventData::End {0}</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00079">event_commandscript::HandleEventInfoCommand()</a>, <a class="el" href="../../#l00326">GameEventMgr::LoadEvents()</a>, <a class="el" href="../../#l00136">GameEventMgr::StartEvent()</a>, and <a class="el" href="../../#l00193">GameEventMgr::StopEvent()</a>.</p>
+
+</div>
+</div>
+<a id="a6fe6513946fc98803fb816d2aabd8dcc" name="a6fe6513946fc98803fb816d2aabd8dcc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6fe6513946fc98803fb816d2aabd8dcc">&#9670;&#160;</a></span>EventId</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> GameEventData::EventId</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00326">GameEventMgr::LoadEvents()</a>.</p>
+
+</div>
+</div>
+<a id="a9c9979bdece8534af216b693a2a58a80" name="a9c9979bdece8534af216b693a2a58a80"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9c9979bdece8534af216b693a2a58a80">&#9670;&#160;</a></span>HolidayId</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../dc/d43/a04727.html#ad279224fea61f9754572051fc5ff1fab">HolidayIds</a> GameEventData::HolidayId {<a class="el" href="../../dc/d43/a04727.html#ad279224fea61f9754572051fc5ff1faba28168544ac4271e71835f87f564500f7">HOLIDAY_NONE</a>}</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00326">GameEventMgr::LoadEvents()</a>, and <a class="el" href="../../#l01840">GameEventMgr::SetHolidayEventTime()</a>.</p>
+
+</div>
+</div>
+<a id="a44c52795eed59abdff72cdebdccc50ca" name="a44c52795eed59abdff72cdebdccc50ca"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a44c52795eed59abdff72cdebdccc50ca">&#9670;&#160;</a></span>HolidayStage</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> GameEventData::HolidayStage</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00326">GameEventMgr::LoadEvents()</a>, and <a class="el" href="../../#l01840">GameEventMgr::SetHolidayEventTime()</a>.</p>
+
+</div>
+</div>
+<a id="a72bff4c3a62db350460993d804a461ea" name="a72bff4c3a62db350460993d804a461ea"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a72bff4c3a62db350460993d804a461ea">&#9670;&#160;</a></span>Length</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> GameEventData::Length {0}</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00079">event_commandscript::HandleEventInfoCommand()</a>, <a class="el" href="../../#l00073">isValid()</a>, <a class="el" href="../../#l00326">GameEventMgr::LoadEvents()</a>, <a class="el" href="../../#l01840">GameEventMgr::SetHolidayEventTime()</a>, <a class="el" href="../../#l00136">GameEventMgr::StartEvent()</a>, and <a class="el" href="../../#l00193">GameEventMgr::StopEvent()</a>.</p>
+
+</div>
+</div>
+<a id="aafe5f4d5b9122f26442266c651ebd77e" name="aafe5f4d5b9122f26442266c651ebd77e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aafe5f4d5b9122f26442266c651ebd77e">&#9670;&#160;</a></span>NextStart</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">time_t GameEventData::NextStart {0}</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00326">GameEventMgr::LoadEvents()</a>, and <a class="el" href="../../#l00193">GameEventMgr::StopEvent()</a>.</p>
+
+</div>
+</div>
+<a id="ab4e80a88f30560a3af0c6381e974687d" name="ab4e80a88f30560a3af0c6381e974687d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab4e80a88f30560a3af0c6381e974687d">&#9670;&#160;</a></span>Occurence</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> GameEventData::Occurence {0}</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00079">event_commandscript::HandleEventInfoCommand()</a>, and <a class="el" href="../../#l00326">GameEventMgr::LoadEvents()</a>.</p>
+
+</div>
+</div>
+<a id="aa4ecb9c9ce012aad0c1cb0d90a3eb4e0" name="aa4ecb9c9ce012aad0c1cb0d90a3eb4e0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa4ecb9c9ce012aad0c1cb0d90a3eb4e0">&#9670;&#160;</a></span>PrerequisiteEvents</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::set&lt;<a class="el" href="../../d0/d61/a00302.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> &gt; GameEventData::PrerequisiteEvents</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a3be91b7e00641ca6cb853104190845dc" name="a3be91b7e00641ca6cb853104190845dc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3be91b7e00641ca6cb853104190845dc">&#9670;&#160;</a></span>Start</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">time_t GameEventData::Start {1}</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00079">event_commandscript::HandleEventInfoCommand()</a>, <a class="el" href="../../#l00326">GameEventMgr::LoadEvents()</a>, <a class="el" href="../../#l00136">GameEventMgr::StartEvent()</a>, and <a class="el" href="../../#l00193">GameEventMgr::StopEvent()</a>.</p>
+
+</div>
+</div>
+<a id="a6288a7c28aba2927c3e91f5d2f517a60" name="a6288a7c28aba2927c3e91f5d2f517a60"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6288a7c28aba2927c3e91f5d2f517a60">&#9670;&#160;</a></span>State</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d9/d0d/a03995.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5">GameEventState</a> GameEventData::State {<a class="el" href="../../d9/d0d/a03995.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5a0951d2c0686f93e6e7d0e002b4521921">GAMEEVENT_NORMAL</a>}</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00073">isValid()</a>, <a class="el" href="../../#l00326">GameEventMgr::LoadEvents()</a>, <a class="el" href="../../#l00136">GameEventMgr::StartEvent()</a>, and <a class="el" href="../../#l00193">GameEventMgr::StopEvent()</a>.</p>
 
 </div>
 </div>
@@ -304,8 +423,8 @@ Private Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d6/d78/a08838.html">TempSummonGroupKey</a></li>
-    <li class="footer">Generated on Mon Aug 4 2025 20:52:33 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d6/d78/a08838.html">GameEventData</a></li>
+    <li class="footer">Generated on Mon Sep 1 2025 20:43:49 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,5 +1,7 @@
 var a08094 =
 [
-    [ "QuestIcon", "d6/d80/a08094.html#ad8bbfe08780eaa68a8205e2634d211b8", null ],
-    [ "QuestId", "d6/d80/a08094.html#a522a4fcb28daec3e1a620b6f02c3d8fe", null ]
+    [ "CreatureSpellCooldown", "d6/d80/a08094.html#a6d234a93951992640df5720a2885be3e", null ],
+    [ "CreatureSpellCooldown", "d6/d80/a08094.html#a53364a501b0ce66e05ec0e6638f6cb6e", null ],
+    [ "category", "d6/d80/a08094.html#a27330a80d711087f1894b2ce816c33b8", null ],
+    [ "end", "d6/d80/a08094.html#a9c1c5f2b6e9a6cd015085e79b043e483", null ]
 ];

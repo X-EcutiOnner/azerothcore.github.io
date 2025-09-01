@@ -1,10 +1,12 @@
 var a08086 =
 [
-    [ "BoxMessage", "d1/dc3/a08086.html#a450f6063a89db2d152370bc997c844a3", null ],
-    [ "BoxMoney", "d1/dc3/a08086.html#a52a12645b55f5757cc61e9a014a71f32", null ],
-    [ "IsCoded", "d1/dc3/a08086.html#accca334730f578bd28c0e9a7fe7ec0ab", null ],
-    [ "MenuItemIcon", "d1/dc3/a08086.html#a987724c4673be20f5386f44245267bc9", null ],
-    [ "Message", "d1/dc3/a08086.html#af130b33294cd49261b3c093cf6f9542c", null ],
-    [ "OptionType", "d1/dc3/a08086.html#a3df0c5fedb028b4fcce8ad5884cc0e6f", null ],
-    [ "Sender", "d1/dc3/a08086.html#aacc07cb5c755d698fe4cb2e228185e34", null ]
+    [ "TrainerSpell", "d1/dc3/a08086.html#a87a098774b32babfcf2000e3330a25b9", null ],
+    [ "IsCastable", "d1/dc3/a08086.html#a2f638f0e068623d38f0dab7c346ac8ed", null ],
+    [ "learnedSpell", "d1/dc3/a08086.html#a2396712a58fa61f340632de48dac9b78", null ],
+    [ "reqLevel", "d1/dc3/a08086.html#ac71afa7c180905ae4247011b2f40f929", null ],
+    [ "reqSkill", "d1/dc3/a08086.html#ac0a74c104994e36ba95703689ed92964", null ],
+    [ "reqSkillValue", "d1/dc3/a08086.html#a1187d182a512ae0f40af6ea36a4911db", null ],
+    [ "reqSpell", "d1/dc3/a08086.html#a6f2d3fa6a5f4403822b924f64e796deb", null ],
+    [ "spell", "d1/dc3/a08086.html#af7649fcfa5e6ca77c7d0aa9ef474b44c", null ],
+    [ "spellCost", "d1/dc3/a08086.html#a9adb80199e22a0db5d4eb262d9edbfe8", null ]
 ];

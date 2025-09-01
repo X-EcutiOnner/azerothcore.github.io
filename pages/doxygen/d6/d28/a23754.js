@@ -1,7 +1,8 @@
 var a23754 =
 [
-    [ "boss_warp_splinter", "d6/d28/a23754.html#a1d0e8720baaadd1f6f4f6026597c9f63", null ],
-    [ "JustDied", "d6/d28/a23754.html#a7e7850cf545e57f9fcd8d1aff42f8eb3", null ],
-    [ "JustEngagedWith", "d6/d28/a23754.html#afc05b2f366e518d5e9ea3fbbfcba05cc", null ],
-    [ "KilledUnit", "d6/d28/a23754.html#a0e974eb2bfae50383040fe9c7ccf74c1", null ]
+    [ "npc_target_trigger", "d6/d28/a23754.html#a238058ba80130c6239b7267db3247196", null ],
+    [ "Reset", "d6/d28/a23754.html#ad23d465bfd78ede0a1556f2ce1742349", null ],
+    [ "UpdateAI", "d6/d28/a23754.html#ab5f482e209d2d8aa5c27666d3e1934f3", null ],
+    [ "_cast", "d6/d28/a23754.html#a4ec89ca960323f7ad135d5a425a82416", null ],
+    [ "_scheduler", "d6/d28/a23754.html#a9b418b09e25c8f96692b4e2626339c96", null ]
 ];

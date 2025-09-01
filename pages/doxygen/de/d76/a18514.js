@@ -1,8 +1,9 @@
 var a18514 =
 [
-    [ "npc_suppresserAI", "de/d76/a18514.html#a5787ec6eadae1fc23b84129933ea14e8", null ],
-    [ "AttackStart", "de/d76/a18514.html#ae36105de1df1dd9841332d9a8e7799be", null ],
-    [ "IsSummonedBy", "de/d76/a18514.html#a35ec340b2d02a14707fc353428b1298d", null ],
-    [ "UpdateAI", "de/d76/a18514.html#a1443e8311b6e2d61d6f9abd2e5f40793", null ],
-    [ "_instance", "de/d76/a18514.html#a3e171216b2d53e00f8e504f47759d9a6", null ]
+    [ "HandleScript", "de/d76/a18514.html#adaab7b03edc6ff147e856dc0cdfc5ad0", null ],
+    [ "Load", "de/d76/a18514.html#aa2a5488ff4706a44350bd969d57a99e1", null ],
+    [ "PrepareSpellScript", "de/d76/a18514.html#a73931c9434114749b9db648665153083", null ],
+    [ "Register", "de/d76/a18514.html#a16b01725a1b2a105df365e0b178a4f0f", null ],
+    [ "SelectTarget", "de/d76/a18514.html#a95be527c43ceeb4801f4e494753c1b59", null ],
+    [ "_target", "de/d76/a18514.html#a2e97dd4fd1fd2ea2ba8bf3d335711de8", null ]
 ];

@@ -1,7 +1,8 @@
 var a15422 =
 [
-    [ "npc_aged_dying_ancient_kodoAI", "d8/dfe/a15422.html#aaed19d0c915891d8afecda7df75a8a75", null ],
-    [ "JustRespawned", "d8/dfe/a15422.html#a9353ac81b0c209a56313b52f2257ddd2", null ],
-    [ "MoveInLineOfSight", "d8/dfe/a15422.html#a295d4bef97b97c7deb31a81274f0818d", null ],
-    [ "SpellHit", "d8/dfe/a15422.html#a021b82aa6bd2e118fe810f18349fda42", null ]
+    [ "npc_obsidian_eradicator", "d8/dfe/a15422.html#a84a6c414b3d74468143984e57f83e383", null ],
+    [ "JustEngagedWith", "d8/dfe/a15422.html#ab03b7138306a04a00938bf1cdb9a7966", null ],
+    [ "Reset", "d8/dfe/a15422.html#a7c76c7d3a69e464c0dcb6a96226baa61", null ],
+    [ "UpdateAI", "d8/dfe/a15422.html#a1697d83e89559f047d5bab652007bb61", null ],
+    [ "_targetGUIDs", "d8/dfe/a15422.html#abd83775d1eab5ab2a3aadd7fd925c3ae", null ]
 ];

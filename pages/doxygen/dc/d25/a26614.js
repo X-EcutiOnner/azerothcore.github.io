@@ -1,8 +1,9 @@
 var a26614 =
 [
-    [ "HandleRootRemove", "dc/d25/a26614.html#a9678ce2254825b67eb7a16312e960ba9", null ],
-    [ "HandleSnareRemove", "dc/d25/a26614.html#a6a0716f500b3926e66c62a038a1e03d3", null ],
-    [ "PrepareSpellScript", "dc/d25/a26614.html#ab9dc5e2516e269b968cb995040bc00a0", null ],
-    [ "Register", "dc/d25/a26614.html#a119675dccea898932ca090577022b6ba", null ],
-    [ "Validate", "dc/d25/a26614.html#a1a90cf531ba1131952161ff9d10b2cb7", null ]
+    [ "CheckCast", "dc/d25/a26614.html#ae99a2b4b582c8a2c8921b8921400ffbe", null ],
+    [ "HandleActiveObject", "dc/d25/a26614.html#a79a51387f0a515ed07fcc1ac9e428290", null ],
+    [ "HandleDummy", "dc/d25/a26614.html#a39dd06ae92d04060ee41897318a701fd", null ],
+    [ "Load", "dc/d25/a26614.html#a76fff3a9d20f48e4814ee0f258be07b8", null ],
+    [ "PrepareSpellScript", "dc/d25/a26614.html#a016e480d7b2267c9bf824c9cb029f134", null ],
+    [ "Register", "dc/d25/a26614.html#aa05d48c35f748d93f5d8ff1defe2d3c9", null ]
 ];

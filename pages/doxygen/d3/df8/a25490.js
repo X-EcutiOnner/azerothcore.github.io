@@ -1,7 +1,7 @@
 var a25490 =
 [
-    [ "CalcPeriodic", "d3/df8/a25490.html#a5847ba4daad49dca2527513055fa4429", null ],
-    [ "PrepareAuraScript", "d3/df8/a25490.html#a8753419b2fa1b1bb96a08bf54995e82c", null ],
-    [ "Register", "d3/df8/a25490.html#a08f851e5582831d5dd05878c4a55db67", null ],
-    [ "Update", "d3/df8/a25490.html#a3ab2716cbccc1311992de44e6591d966", null ]
+    [ "OnRemove", "d3/df8/a25490.html#ab6371347f0dc4ffc8bab6c75ca1cdf59", null ],
+    [ "PrepareAuraScript", "d3/df8/a25490.html#ac2b1a2311f97ab427439b45fb0770063", null ],
+    [ "Register", "d3/df8/a25490.html#a39e4914aa01769e14f61e2369ad8eda5", null ],
+    [ "Validate", "d3/df8/a25490.html#a71e47e70fd18affe1bd563f68fcb2efe", null ]
 ];

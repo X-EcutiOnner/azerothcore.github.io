@@ -1,11 +1,20 @@
 var a15906 =
 [
-    [ "npc_anub_ar_crusherAI", "d5/d50/a15906.html#a35866e3cad208bb70bbc5a146301c28d", null ],
-    [ "DoAction", "d5/d50/a15906.html#ac11795153811d2465b106bc1fdea508a", null ],
-    [ "JustEngagedWith", "d5/d50/a15906.html#a02d3b78427bc247cde28620470c43331", null ],
-    [ "JustSummoned", "d5/d50/a15906.html#a6d484f8d3f54bb7c7ad572027501f2ab", null ],
-    [ "Reset", "d5/d50/a15906.html#a85f60e0733ac4ccd8f7941e8df0f88d9", null ],
-    [ "UpdateAI", "d5/d50/a15906.html#aaeda7e00410766857ee4bd73a8e15b89", null ],
-    [ "events", "d5/d50/a15906.html#ad4a2111d4301f0b928fbd01b6783fb6c", null ],
-    [ "summons", "d5/d50/a15906.html#a3136ecd40bf228fade0e40d3c5d22e5d", null ]
+    [ "npc_ranshallaAI", "d5/d50/a15906.html#a8d41e290f9545fb72daf5e503b3c660b", null ],
+    [ "DoChannelTorchSpell", "d5/d50/a15906.html#ade38de77f83da2f084a9ad3f8ada01d3", null ],
+    [ "DoContinueEscort", "d5/d50/a15906.html#aef1192735d87a7e83ea00cc8cb9303c7", null ],
+    [ "DoSummonPriestess", "d5/d50/a15906.html#a15f8706b9084b72359e4c8433d771d89", null ],
+    [ "GetSpeakerByEntry", "d5/d50/a15906.html#ad930520b705ab63f903f7b68d660adbb", null ],
+    [ "JustDidDialogueStep", "d5/d50/a15906.html#a6a20f536d6e360d07970955a8ff9902c", null ],
+    [ "Reset", "d5/d50/a15906.html#a0b07925593835ce4d4aaab2f672ae387", null ],
+    [ "SummonedMovementInform", "d5/d50/a15906.html#a453cfe020d81e27daa8d779be64012ee", null ],
+    [ "UpdateEscortAI", "d5/d50/a15906.html#afabe9208f01fe3d2f128feba8f18426d", null ],
+    [ "WaypointReached", "d5/d50/a15906.html#a96ff03de70b433e2ff5c35f50d062c55", null ],
+    [ "_altarGUID", "d5/d50/a15906.html#ab9e42364744d89301944b7baa852bc9f", null ],
+    [ "_delayTimer", "d5/d50/a15906.html#a219e1f257f0ddae9de5fd89ba9a338be", null ],
+    [ "_firstPriestessGUID", "d5/d50/a15906.html#ae5289a2645f3d17da452810b22a77713", null ],
+    [ "_guardEluneGUID", "d5/d50/a15906.html#a575afe78a40c8d49a928772fbec64dd9", null ],
+    [ "_secondPriestessGUID", "d5/d50/a15906.html#a800131f5a4355e293c5edc009dbbdd20", null ],
+    [ "_voiceEluneGUID", "d5/d50/a15906.html#af676158d45338ddbc2a366e399796642", null ],
+    [ "events", "d5/d50/a15906.html#a1deb2de50401297451a3e314b5369b5e", null ]
 ];

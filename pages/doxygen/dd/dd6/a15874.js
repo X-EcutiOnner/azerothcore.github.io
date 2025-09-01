@@ -1,6 +1,7 @@
 var a15874 =
 [
-    [ "boss_anub_arakAI", "d3/db4/a15878.html", "d3/db4/a15878" ],
-    [ "boss_anub_arak", "dd/dd6/a15874.html#ac2594f561b07069a312ed38c01d9c7da", null ],
-    [ "GetAI", "dd/dd6/a15874.html#a8687594354d514b99e026797ee71c70d", null ]
+    [ "npc_ameAI", "d3/db4/a15878.html", "d3/db4/a15878" ],
+    [ "npc_ame", "dd/dd6/a15874.html#a6b4a20b06bc88393dd08b4eae83c1d50", null ],
+    [ "GetAI", "dd/dd6/a15874.html#a09f7688c38d56319791f7543eb32f317", null ],
+    [ "OnQuestAccept", "dd/dd6/a15874.html#a69b8ec6558e70e34f7e405b397b09f43", null ]
 ];

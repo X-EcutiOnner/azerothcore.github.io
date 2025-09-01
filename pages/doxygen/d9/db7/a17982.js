@@ -1,7 +1,7 @@
 var a17982 =
 [
-    [ "HandleScript", "d9/db7/a17982.html#a37b261d0df2829788d8290a9194913f5", null ],
-    [ "PrepareSpellScript", "d9/db7/a17982.html#a69386dbef57322393a38eec90662135f", null ],
-    [ "Register", "d9/db7/a17982.html#a5b85b01100d7f7c672c437e4bdfd7a7c", null ],
-    [ "Validate", "d9/db7/a17982.html#a63c446574c700a895d7fbc5bb2b81508", null ]
+    [ "HandleSpikes", "d9/db7/a17982.html#a012d61aacf79b9b1f5b4b5c5c81b5ed4", null ],
+    [ "PrepareSpellScript", "d9/db7/a17982.html#a6ffb6454eb4c58a1b66356814c13b659", null ],
+    [ "Register", "d9/db7/a17982.html#a893345cf191d084a0f97a8464b7d381a", null ],
+    [ "Validate", "d9/db7/a17982.html#aa6545760706d8695aefd4064c3c71c6b", null ]
 ];

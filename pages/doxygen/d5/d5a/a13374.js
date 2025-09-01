@@ -1,7 +1,7 @@
 var a13374 =
 [
-    [ "HandleSchoolDamage", "d5/d5a/a13374.html#a4fee3e37f347d1dcfa84c1dc0454c9fa", null ],
-    [ "PrepareSpellScript", "d5/d5a/a13374.html#a8063f3d669e07dc0768607feb9a2f763", null ],
-    [ "Register", "d5/d5a/a13374.html#a83aad24c7111d1f68196fcb9765dcd97", null ],
-    [ "Validate", "d5/d5a/a13374.html#af90ae09274b0082bd8bd674ca43596f6", null ]
+    [ "OnRemove", "d5/d5a/a13374.html#a55460c6393c165e3096c967c81136032", null ],
+    [ "PrepareAuraScript", "d5/d5a/a13374.html#afd4e4483f704169e6d213ced134d4c62", null ],
+    [ "Register", "d5/d5a/a13374.html#a8458f77fde6eaddc273b3fe5f4e49ae0", null ],
+    [ "Validate", "d5/d5a/a13374.html#af580258d287f5db6103b89d3085669bc", null ]
 ];

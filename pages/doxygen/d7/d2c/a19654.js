@@ -1,8 +1,7 @@
 var a19654 =
 [
-    [ "iron_golem_custodianAI", "d7/d2c/a19654.html#aeeeed1383f5d221eb7b5cd5d3a6ea4fb", null ],
-    [ "JustEngagedWith", "d7/d2c/a19654.html#acd67b8d4df95eb8b0d0365184e47a29c", null ],
-    [ "Reset", "d7/d2c/a19654.html#af3193696d665746eecd9c62128d8684d", null ],
-    [ "UpdateAI", "d7/d2c/a19654.html#ab1d3910b07a6c5c53f5388a10dc48775", null ],
-    [ "events", "d7/d2c/a19654.html#a9e0bcc9ae6918f9fa40cbf8085d4ec42", null ]
+    [ "HandleOnEffectApply", "d7/d2c/a19654.html#a4841f7a44f5df964c4eb9965383fd747", null ],
+    [ "PrepareAuraScript", "d7/d2c/a19654.html#a4cf9cf2aadb43920384ec745f6be484f", null ],
+    [ "Register", "d7/d2c/a19654.html#a68fba646552678744f49d10b59704a35", null ],
+    [ "Validate", "d7/d2c/a19654.html#a01169ee095aa2f0051eac1b253a5daf5", null ]
 ];

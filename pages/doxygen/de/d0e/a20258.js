@@ -1,5 +1,6 @@
 var a20258 =
 [
-    [ "FlashFreezeCheck", "de/d0e/a20258.html#a47d07a686a7c74dc8914a98762b16fe3", null ],
-    [ "operator()", "de/d0e/a20258.html#a87475dc9e2f1b0eb508e9f56aa5c1e2f", null ]
+    [ "boss_freya_healthy_sporeAI", "d5/d11/a20262.html", "d5/d11/a20262" ],
+    [ "boss_freya_healthy_spore", "de/d0e/a20258.html#a16633136393061aa98c7a98f535d421e", null ],
+    [ "GetAI", "de/d0e/a20258.html#ae76eb3b334f82c536f71fdcfc86e4382", null ]
 ];

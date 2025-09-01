@@ -1,13 +1,10 @@
 var a09774 =
 [
-    [ "ParallelogramBoundary", "d2/d64/a09774.html#ace1e1ffbcb84343ca2641541fe000691", null ],
-    [ "IsWithinBoundaryArea", "d2/d64/a09774.html#af29e70a9febaa9d80d0ce7223e2c6fc3", null ],
-    [ "_a", "d2/d64/a09774.html#ad81a1a1f4e82de0e7a31bf13a87bac2b", null ],
-    [ "_abx", "d2/d64/a09774.html#a855c7ea39698f7dac80d72ea6962e9c7", null ],
-    [ "_aby", "d2/d64/a09774.html#ad81b9baeb70d5856ea8cdd3f787abf29", null ],
-    [ "_b", "d2/d64/a09774.html#a9d5d06cc3673f89644e45e62f96510db", null ],
-    [ "_c", "d2/d64/a09774.html#a6c19d4ed0a1c1b6ff042c4bbd64f0a8a", null ],
-    [ "_d", "d2/d64/a09774.html#a5214ac0f79f1d90492a77fbd251d1361", null ],
-    [ "_dax", "d2/d64/a09774.html#aab72030dfa3dd4e4bef03180bd0a306c", null ],
-    [ "_day", "d2/d64/a09774.html#a3b3e3993d09af62bae7fbfe65f6d641a", null ]
+    [ "DoublePosition", "de/d09/a09778.html", "de/d09/a09778" ],
+    [ "~AreaBoundary", "d2/d64/a09774.html#a6050e91b3d485e75186a2df9a56e8d38", null ],
+    [ "AreaBoundary", "d2/d64/a09774.html#adf670910c492c08d3384c2dd1824e7ce", null ],
+    [ "IsWithinBoundary", "d2/d64/a09774.html#aac0ce1e801f3de8f3bb83b98ecd6e5c1", null ],
+    [ "IsWithinBoundary", "d2/d64/a09774.html#a1d407f77ce0388263fc0ee6224734213", null ],
+    [ "IsWithinBoundaryArea", "d2/d64/a09774.html#ae5580b0044dba24d100831fe51ee1abc", null ],
+    [ "_isInvertedBoundary", "d2/d64/a09774.html#ad416f29594688ce670549d6fdcce4314", null ]
 ];

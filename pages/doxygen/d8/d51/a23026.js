@@ -1,6 +1,6 @@
 var a23026 =
 [
-    [ "instance_black_temple_InstanceMapScript", "de/dbe/a23030.html", "de/dbe/a23030" ],
-    [ "instance_black_temple", "d8/d51/a23026.html#a2efd6c7fff15c8fd03652ef9a65088eb", null ],
-    [ "GetInstanceScript", "d8/d51/a23026.html#a947a1279eabde75d9884b1ef84b295a3", null ]
+    [ "PrepareAuraScript", "d8/d51/a23026.html#a5cba6aaa06f8ec6e083ee0c5064414e4", null ],
+    [ "Register", "d8/d51/a23026.html#a75d0cf142e299783b06903ea03287e28", null ],
+    [ "Update", "d8/d51/a23026.html#ac027b02ed0ba70d65621a6af157c98f6", null ]
 ];

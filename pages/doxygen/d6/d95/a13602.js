@@ -1,6 +1,7 @@
 var a13602 =
 [
-    [ "npc_grand_magister_rommathAI", "dc/de5/a13606.html", "dc/de5/a13606" ],
-    [ "npc_grand_magister_rommath", "d6/d95/a13602.html#a63b9786bfbd9c7b462b0549e2f6941ea", null ],
-    [ "GetAI", "d6/d95/a13602.html#abd64eff4712e8209e39e938b1813250c", null ]
+    [ "HandlePull", "d6/d95/a13602.html#a5a43bb53d3c534054498f8366d617e5a", null ],
+    [ "PrepareSpellScript", "d6/d95/a13602.html#aec00f82a35c8154e7d4c1f47c52d486f", null ],
+    [ "RaycastToObstacle", "d6/d95/a13602.html#ad6dfdf70e9ffd43510c4791f804ce340", null ],
+    [ "Register", "d6/d95/a13602.html#a6da76afd5feaa0d60be70ff8469d78bc", null ]
 ];

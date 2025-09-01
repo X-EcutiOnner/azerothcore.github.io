@@ -1,7 +1,6 @@
 var a06210 =
 [
-    [ "HealthCheckEventData", "dd/dab/a06210.html#a06d4eb08cc3e6bd20ddcab20e59ed525", null ],
-    [ "_exec", "dd/dab/a06210.html#a66c38460690d77fb021c91fa676c3a12", null ],
-    [ "_healthPct", "dd/dab/a06210.html#a420edc39ff982d55ae82207a0cfe7689", null ],
-    [ "_valid", "dd/dab/a06210.html#a1bbb22a3ad8fc75d4bcc1cb383106c94", null ]
+    [ "GameObjectAIFactory", "dd/dab/a06210.html#a2f658540a81d207694b6d2d783009380", null ],
+    [ "Create", "dd/dab/a06210.html#a94fa057baafbbad4b81b97aea34354a3", null ],
+    [ "Permit", "dd/dab/a06210.html#ae8b7e45a73f87249e27a4dae596b0d52", null ]
 ];

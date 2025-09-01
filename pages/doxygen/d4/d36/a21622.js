@@ -1,9 +1,8 @@
 var a21622 =
 [
-    [ "npc_bloodmage_laurithAI", "d4/d36/a21622.html#a75dca4f2e90318f334e7e6385d4f7a6f", null ],
-    [ "Reset", "d4/d36/a21622.html#afe9b10dfcee3b241a48e6f2e40eec657", null ],
-    [ "SetGUID", "d4/d36/a21622.html#a50a144cf1545117d79268d3a18a4b4ec", null ],
-    [ "UpdateAI", "d4/d36/a21622.html#a9752f518441071dd4a60cd63423bf9a3", null ],
-    [ "_events", "d4/d36/a21622.html#a35facab84094071d952792a4c3e5015d", null ],
-    [ "_playerGUID", "d4/d36/a21622.html#a6aab8db1d55d4fe3251b544c292711e8", null ]
+    [ "npc_azure_raiderAI", "d4/d36/a21622.html#a6928428a9dc1ed483a682c8f2a281ebf", null ],
+    [ "Reset", "d4/d36/a21622.html#a80d9e586e5c03d19b6b9f0e0f7607b20", null ],
+    [ "UpdateAI", "d4/d36/a21622.html#a2e9833d0d25fd8c442f7ab279de6a40a", null ],
+    [ "uiConcussionBlowTimer", "d4/d36/a21622.html#a4e7dfb8d4991bf7ad3d0eeb72dff770b", null ],
+    [ "uiMagicReflectionTimer", "d4/d36/a21622.html#acb262ab506ea58201abfe2057525c548", null ]
 ];

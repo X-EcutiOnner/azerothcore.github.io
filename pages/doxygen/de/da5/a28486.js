@@ -1,5 +1,5 @@
 var a28486 =
 [
-    [ "areatableID", "de/da5/a28486.html#a991f3242c87939be42d107d6908f441d", null ],
-    [ "ID", "de/da5/a28486.html#ac57c444da58dea7227bd26e0f6b7bbff", null ]
+    [ "id", "de/da5/a28486.html#a22e48015dd880199e131089e35b1ce05", null ],
+    [ "spellId", "de/da5/a28486.html#a956d683b42f34eae3a1ea3f8882716fd", null ]
 ];

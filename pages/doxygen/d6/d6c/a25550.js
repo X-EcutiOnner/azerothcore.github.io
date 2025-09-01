@@ -1,6 +1,10 @@
 var a25550 =
 [
-    [ "HandleDummy", "d6/d6c/a25550.html#aafc9efb0f8070566579724853a88ab03", null ],
-    [ "PrepareSpellScript", "d6/d6c/a25550.html#a248c1203a4f15b2cd60afed9fa33cb59", null ],
-    [ "Register", "d6/d6c/a25550.html#a362e2ab6921aaa0c10b70795a5eda0de", null ]
+    [ "CheckProc", "d6/d6c/a25550.html#a8a7a0ac560eecc3777087622fb3f3951", null ],
+    [ "HandleProc", "d6/d6c/a25550.html#a90eee01f380f97f033c82d7c6ec48d00", null ],
+    [ "OnApply", "d6/d6c/a25550.html#a93818ec97cfd47da1dee454bb0a9318c", null ],
+    [ "OnRemove", "d6/d6c/a25550.html#a5e978d4d46f42ba5098eaecd9473fccb", null ],
+    [ "PrepareAuraScript", "d6/d6c/a25550.html#a73ae8e378b906a420955fd33d02ba6b7", null ],
+    [ "Register", "d6/d6c/a25550.html#a7070f64c9c47c8c1bc26e49b2b60a110", null ],
+    [ "Validate", "d6/d6c/a25550.html#a91c5a0e10c308332e18dc40033049996", null ]
 ];

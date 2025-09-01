@@ -1,6 +1,6 @@
 var a21370 =
 [
-    [ "boss_xevozzAI", "d1/da8/a21374.html", "d1/da8/a21374" ],
-    [ "boss_xevozz", "d6/dc2/a21370.html#a814ac939c4570d33450c4a6664833087", null ],
-    [ "GetAI", "d6/dc2/a21370.html#a712d8ed125d464da56b677914fbf8796", null ]
+    [ "HandleDummyEffect", "d6/dc2/a21370.html#a25bc99811aa2c7bf4bfbf8ad628a2771", null ],
+    [ "PrepareSpellScript", "d6/dc2/a21370.html#a07376c95cb2ec41d86a24be59094d207", null ],
+    [ "Register", "d6/dc2/a21370.html#aaa02dab30b29e6f646db52468fc35eb2", null ]
 ];
