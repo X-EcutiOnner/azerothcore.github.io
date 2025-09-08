@@ -1,7 +1,6 @@
 var a15810 =
 [
-    [ "npc_giltharesAI", "d5/d8c/a15810.html#af22e42b2180987febd964784b6d49b5e", null ],
-    [ "JustEngagedWith", "d5/d8c/a15810.html#ae9ba65652db3d2d32920d1a98594727a", null ],
-    [ "Reset", "d5/d8c/a15810.html#a34d57ef71b60fe71c749f790cecf70b2", null ],
-    [ "WaypointReached", "d5/d8c/a15810.html#a9308c73760e50e0f3d04031b508526d1", null ]
+    [ "npc_stone_watcher_of_norgannon", "d5/d8c/a15810.html#aa838e060c8ef6d7d85981c718328d9ef", null ],
+    [ "OnGossipHello", "d5/d8c/a15810.html#a00f526b1b17b68f31a86e892e0997856", null ],
+    [ "OnGossipSelect", "d5/d8c/a15810.html#a5b79ebae097266ec4e1a0e3dfaa87da5", null ]
 ];

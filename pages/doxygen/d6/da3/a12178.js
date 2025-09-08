@@ -1,8 +1,8 @@
 var a12178 =
 [
-    [ "boss_highlordomokkAI", "d6/da3/a12178.html#ae6906b2f86eb2d8efe51de92376be0da", null ],
-    [ "JustDied", "d6/da3/a12178.html#ac7e125b4350880d3d195b915c8be9de0", null ],
-    [ "JustEngagedWith", "d6/da3/a12178.html#a072dc582f931deb7d1e0db9ad535f146", null ],
-    [ "Reset", "d6/da3/a12178.html#a627390013798de7a53a95817624417e3", null ],
-    [ "UpdateAI", "d6/da3/a12178.html#a38e6008d616131d2876ae5a085a083ff", null ]
+    [ "CheckProc", "d6/da3/a12178.html#a08e84f2b2ff25ed7e260e61251f9cdb9", null ],
+    [ "HandleProc", "d6/da3/a12178.html#afd3d4786f739566056b69390553d9c71", null ],
+    [ "PrepareAuraScript", "d6/da3/a12178.html#a3ba84d4fd311a91efa685980ffec8d77", null ],
+    [ "Register", "d6/da3/a12178.html#aa36a2e10a6fd67fa74d08e20dc806744", null ],
+    [ "Validate", "d6/da3/a12178.html#aeff8b89300bb5d3589a46a4f66cfd77d", null ]
 ];

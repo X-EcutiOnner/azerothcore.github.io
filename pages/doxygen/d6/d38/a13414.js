@@ -1,9 +1,7 @@
 var a13414 =
 [
-    [ "spell_eredar_twins_apply_touch", "d6/d38/a13414.html#a1ffb6952cbbb79bb6a963ea57b8400aa", null ],
-    [ "HandleApplyTouch", "d6/d38/a13414.html#a200219828e22c35ef2f7c7a7fd61c973", null ],
-    [ "PrepareSpellScript", "d6/d38/a13414.html#a6e6c42042faa1a6cd82d4680d28587ae", null ],
-    [ "Register", "d6/d38/a13414.html#a8c49e8aeb1f00e8324aa4c1d420fb068", null ],
-    [ "Validate", "d6/d38/a13414.html#a36ff1d126191de7880d98242b3b714b5", null ],
-    [ "_touchSpell", "d6/d38/a13414.html#a9f8c58013add0fc5a05a78e1b90a32e1", null ]
+    [ "HandleScriptEffect", "d6/d38/a13414.html#a703ac8467126f5c2aee393fcf2400ffc", null ],
+    [ "PrepareSpellScript", "d6/d38/a13414.html#a17c49de5f6a37ff83126398d96b43a51", null ],
+    [ "Register", "d6/d38/a13414.html#ae205d84cdbe3fbfa519e7d1c8f2ffe16", null ],
+    [ "Validate", "d6/d38/a13414.html#a17d53f598be9fe9e9790bb96dfcb4891", null ]
 ];

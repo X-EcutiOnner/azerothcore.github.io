@@ -1,8 +1,12 @@
 var a13498 =
 [
-    [ "CheckCast", "df/d9b/a13498.html#a414c603646c1a6be9bbb7059abbb7e71", null ],
-    [ "HandleScriptEffect", "df/d9b/a13498.html#a22f630cb9df4b435a5624f2865915753", null ],
-    [ "PrepareSpellScript", "df/d9b/a13498.html#a6e6b27ade1cac743946a976dbf343066", null ],
-    [ "Register", "df/d9b/a13498.html#a4afae0bafceeb6e6a9a26aea2162d4d9", null ],
-    [ "Validate", "df/d9b/a13498.html#a85779288126b21f516f2feb0238ee65b", null ]
+    [ "boss_sathrovarr", "df/d9b/a13498.html#a92bff830219f795d0aae4511f3d524bb", null ],
+    [ "CanAIAttack", "df/d9b/a13498.html#a053dcf604aed91ac7c888d682653da54", null ],
+    [ "DoAction", "df/d9b/a13498.html#ad0b549678e5b4eb7dfc1c1879885b45a", null ],
+    [ "JustDied", "df/d9b/a13498.html#aa6683f0ccb70260e24f79d86ec4ae2d1", null ],
+    [ "JustEngagedWith", "df/d9b/a13498.html#a1f3a74ac6f83673eed9b2a4276a5cf49", null ],
+    [ "KilledUnit", "df/d9b/a13498.html#a17e2a5d253536c25cd04269b71a5c0ed", null ],
+    [ "Reset", "df/d9b/a13498.html#a171c0e2c07ddf4c5271af8ed83f15257", null ],
+    [ "UpdateAI", "df/d9b/a13498.html#a99c5c8801333f2eaf6b9fee287588093", null ],
+    [ "_instance", "df/d9b/a13498.html#af7bfd6a65db102b5010f7b300e4acd27", null ]
 ];

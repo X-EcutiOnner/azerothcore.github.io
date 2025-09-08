@@ -1,8 +1,6 @@
 var a24914 =
 [
-    [ "AfterApply", "d7/de0/a24914.html#a4d2941ebb326d603ac08f428f811c29b", null ],
-    [ "AfterRemove", "d7/de0/a24914.html#ac1e50413041edbecd5cc4189a1121cb5", null ],
-    [ "PrepareAuraScript", "d7/de0/a24914.html#afa99d3e45e4a54c41b59ec317ffdd9b9", null ],
-    [ "Register", "d7/de0/a24914.html#a78e30a950b9fc08dff5072028816b8b4", null ],
-    [ "Validate", "d7/de0/a24914.html#ac3502abb9d6ef213ffd2413eba7916b2", null ]
+    [ "PrepareAuraScript", "d7/de0/a24914.html#a31bde31b6db4f71ce65c6e1a862df771", null ],
+    [ "Register", "d7/de0/a24914.html#aebe64c4760d13d8afaebcf4a4b1196fa", null ],
+    [ "UpdateAmount", "d7/de0/a24914.html#a621e73a09438f3f9cbaa232125df3b87", null ]
 ];

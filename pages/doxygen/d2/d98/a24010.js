@@ -1,7 +1,6 @@
 var a24010 =
 [
-    [ "HandleEffect", "d2/d98/a24010.html#ac0fb38f62cc9a41eb70b2ca951f9d1dc", null ],
-    [ "PrepareSpellScript", "d2/d98/a24010.html#abbbffa0a53dc2a55df5e7b17a7f4d38f", null ],
-    [ "Register", "d2/d98/a24010.html#ac406946bb793125d49006e3a877c9638", null ],
-    [ "SelectTarget", "d2/d98/a24010.html#ac36f3d88a0ef8ccaee5bac17bffcaf49", null ]
+    [ "npc_capernian", "d2/d98/a24010.html#a0acb568664c777797eeb7104f454699d", null ],
+    [ "AttackStart", "d2/d98/a24010.html#a81e89eacbae30a1229fda5e9fe924e2b", null ],
+    [ "ScheduleEvents", "d2/d98/a24010.html#a6bd26f5584a1c960b84b574abd723ad1", null ]
 ];

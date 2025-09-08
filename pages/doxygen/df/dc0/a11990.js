@@ -1,6 +1,5 @@
 var a11990 =
 [
-    [ "npc_phalanxAI", "dd/d2f/a11994.html", "dd/d2f/a11994" ],
-    [ "npc_phalanx", "df/dc0/a11990.html#a947ee4659fe2a46d775119ddcefeb939", null ],
-    [ "GetAI", "df/dc0/a11990.html#ab1e2a0950ab286d5abae3d46aef3c623", null ]
+    [ "amount", "df/dc0/a11990.html#a35b1ecbfecae77f1cb7a0a52eafc5f7b", null ],
+    [ "entry", "df/dc0/a11990.html#ac3d4d211ebb927b1b9a376ee956e1b26", null ]
 ];

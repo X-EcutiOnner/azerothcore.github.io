@@ -1,8 +1,12 @@
 var a13122 =
 [
-    [ "HandleDummy", "d2/dd9/a13122.html#a3533f1e0daea7bf0e0e2a5830380159a", null ],
-    [ "HandleScript", "d2/dd9/a13122.html#a528ce741ebde0fb6b796431da800e439", null ],
-    [ "PrepareSpellScript", "d2/dd9/a13122.html#aa64f2238cdf8bf733c7e99db5d076c81", null ],
-    [ "Register", "d2/dd9/a13122.html#a8dea4b47777324b88c7e022f11741b25", null ],
-    [ "Validate", "d2/dd9/a13122.html#a6f49345b2beea56b4eaad390a6062118", null ]
+    [ "npc_scarlet_minerAI", "d2/dd9/a13122.html#a7f5ca173103eb4498ce41912bda5da66", null ],
+    [ "InitCartQuest", "d2/dd9/a13122.html#a5d3ece8f2f02a2bae4550a41f55348b0", null ],
+    [ "InitWaypoint", "d2/dd9/a13122.html#a7fe048368b6e0a43b5be501a24773b8c", null ],
+    [ "Reset", "d2/dd9/a13122.html#a2a8660173dc32c38de917049eb33fff8", null ],
+    [ "UpdateAI", "d2/dd9/a13122.html#a48d2c92a4d45d5e59252f9455b82cbbd", null ],
+    [ "WaypointReached", "d2/dd9/a13122.html#a31f4363e269b51d3a002a132b5516dd0", null ],
+    [ "carGUID", "d2/dd9/a13122.html#a963f9c0ca58ce160b43f36f5a9f7dee7", null ],
+    [ "IntroPhase", "d2/dd9/a13122.html#a094c2ee20d13c88805c3de7f9f94b86e", null ],
+    [ "IntroTimer", "d2/dd9/a13122.html#adae2103753dd62699359ff01ac3ba865", null ]
 ];

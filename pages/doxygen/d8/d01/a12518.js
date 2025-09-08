@@ -1,5 +1,7 @@
 var a12518 =
 [
-    [ "npc_garr_fireswornAI", "d8/d01/a12518.html#af2454b2ddf93102378ebf9780d260e56", null ],
-    [ "DamageTaken", "d8/d01/a12518.html#ae9582b14e82b163ff97b99cb603e0179", null ]
+    [ "HandleAfterApply", "d8/d01/a12518.html#a8f55616f861cccf7126f7e1a7c88f3c1", null ],
+    [ "HandleAfterRemove", "d8/d01/a12518.html#a7970613f1668294f29f61c1f10a9ba37", null ],
+    [ "PrepareAuraScript", "d8/d01/a12518.html#aea2f52682e723f8dacfffa20cd0f41a5", null ],
+    [ "Register", "d8/d01/a12518.html#ae38b71adaff3b36f5d7b3007e84e620f", null ]
 ];

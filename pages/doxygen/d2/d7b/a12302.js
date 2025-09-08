@@ -1,5 +1,6 @@
 var a12302 =
 [
-    [ "go_father_flame", "d2/d7b/a12302.html#aa992bd7029a56faca4b92637688fe845", null ],
-    [ "OnLootStateChanged", "d2/d7b/a12302.html#a84c7055e791a3dac66b75d327c7662c3", null ]
+    [ "instance_blackrock_spireMapScript", "d4/d9f/a12306.html", "d4/d9f/a12306" ],
+    [ "instance_blackrock_spire", "d2/d7b/a12302.html#a3238be88efcdc9669e7e6a1d725649b3", null ],
+    [ "GetInstanceScript", "d2/d7b/a12302.html#a5ee2cc38a36ce2cd8c1196ce9f687e2a", null ]
 ];

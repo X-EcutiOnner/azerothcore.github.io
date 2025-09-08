@@ -1,6 +1,6 @@
 var a19674 =
 [
-    [ "boss_ionarAI", "da/dcc/a19678.html", "da/dcc/a19678" ],
-    [ "boss_ionar", "db/d14/a19674.html#a284da7d86f0b386e352587e0321bf465", null ],
-    [ "GetAI", "db/d14/a19674.html#a0c0f28f832458df7326842f04413af5d", null ]
+    [ "boss_bjarngrimAI", "da/dcc/a19678.html", "da/dcc/a19678" ],
+    [ "boss_bjarngrim", "db/d14/a19674.html#ab509688547d41ec1fd094fdc45291959", null ],
+    [ "GetAI", "db/d14/a19674.html#aff6455d2a327bbf3426d10a07f7b0e44", null ]
 ];

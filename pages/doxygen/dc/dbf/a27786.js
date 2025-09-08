@@ -1,7 +1,7 @@
 var a27786 =
 [
-    [ "npc_wormholeAI", "dc/dbf/a27786.html#a75c28ce9bcbb5ef6fb4213d000d5596a", null ],
-    [ "GetData", "dc/dbf/a27786.html#ad4c9f2265f126c7f2b5538bab6b75cb3", null ],
-    [ "InitializeAI", "dc/dbf/a27786.html#aa0a903014ec7243036604ffcc67e0a36", null ],
-    [ "_showUnderground", "dc/dbf/a27786.html#a6a2fbf623b8fc55cfd48a12e2c515134", null ]
+    [ "npc_guardianAI", "dc/dbf/a27786.html#acc5d29a79e57fc023369c0dcd4b0d2a3", null ],
+    [ "JustEngagedWith", "dc/dbf/a27786.html#a50257f80245bc59437e53083badcb056", null ],
+    [ "Reset", "dc/dbf/a27786.html#a217df9bae079f56ffd70d27958fb2756", null ],
+    [ "UpdateAI", "dc/dbf/a27786.html#ab42c39f088ef819a5ffb5f9f4ba2c3a3", null ]
 ];

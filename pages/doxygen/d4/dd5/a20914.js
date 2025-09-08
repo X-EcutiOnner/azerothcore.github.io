@@ -1,6 +1,6 @@
 var a20914 =
 [
-    [ "BoomEvent", "d4/dd5/a20914.html#aa9b7a8785f382068bb4510ffc0b43004", null ],
-    [ "Execute", "d4/dd5/a20914.html#a1a870bea5c8e0a24a8ecd347a862ee75", null ],
-    [ "_me", "d4/dd5/a20914.html#a30de77ee751f1c10231088cb84942342", null ]
+    [ "npc_xt002_scrapbotAI", "d2/d22/a20918.html", "d2/d22/a20918" ],
+    [ "npc_xt002_scrapbot", "d4/dd5/a20914.html#accfd75266d058af3856bdb625728c18d", null ],
+    [ "GetAI", "d4/dd5/a20914.html#aa3639c32c94f0e031ba774e4eed659cd", null ]
 ];

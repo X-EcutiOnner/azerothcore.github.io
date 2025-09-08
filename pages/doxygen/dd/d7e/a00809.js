@@ -1,7 +1,7 @@
 var a00809 =
 [
-    [ "npc_muglash", "d5/d33/a15458.html", "d5/d33/a15458" ],
-    [ "npc_muglash::npc_muglashAI", "d4/d39/a15462.html", "d4/d39/a15462" ],
+    [ "npc_muglash", "de/d0e/a15474.html", "de/d0e/a15474" ],
+    [ "npc_muglash::npc_muglashAI", "d3/d76/a15478.html", "d3/d76/a15478" ],
     [ "Muglash", "dd/d7e/a00809.html#a61aa1bf847260f3b69320f14a98eb057", [
       [ "SAY_MUG_START1", "dd/d7e/a00809.html#a61aa1bf847260f3b69320f14a98eb057a8f1263c089dd81c8bfe0e50dd08dbc3e", null ],
       [ "SAY_MUG_START2", "dd/d7e/a00809.html#a61aa1bf847260f3b69320f14a98eb057aa6ecd378ab24d862f8be4be085be2ac1", null ],

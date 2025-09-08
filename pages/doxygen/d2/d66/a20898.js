@@ -1,6 +1,6 @@
 var a20898 =
 [
-    [ "npc_xt002_scrapbotAI", "d8/d2f/a20902.html", "d8/d2f/a20902" ],
-    [ "npc_xt002_scrapbot", "d2/d66/a20898.html#accfd75266d058af3856bdb625728c18d", null ],
-    [ "GetAI", "d2/d66/a20898.html#aa3639c32c94f0e031ba774e4eed659cd", null ]
+    [ "boss_xt002AI", "d8/d2f/a20902.html", "d8/d2f/a20902" ],
+    [ "boss_xt002", "d2/d66/a20898.html#aebd7e513b3bef6a25ad0f9766d18174e", null ],
+    [ "GetAI", "d2/d66/a20898.html#a146e4a10da7d81213e7f63d6e86c79f2", null ]
 ];

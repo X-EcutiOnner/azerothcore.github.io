@@ -1,18 +1,7 @@
 var a16958 =
 [
-    [ "boss_devourer_of_soulsAI", "dc/d71/a16958.html#aa54d512a3bcf22ba64872bf60ed89ca3", null ],
-    [ "CanAIAttack", "dc/d71/a16958.html#a48b79a3429dec44486d6bd858d5b6edb", null ],
-    [ "EnterEvadeMode", "dc/d71/a16958.html#a0c2c380955e5b24c387b8dd8f00567cc", null ],
-    [ "GetData", "dc/d71/a16958.html#a7d99dba5d3c6725c5f6cbc8a0cc0ec9f", null ],
-    [ "JustDied", "dc/d71/a16958.html#a6e5a944ffbf325aa1bc591ef288c593f", null ],
-    [ "JustEngagedWith", "dc/d71/a16958.html#a1f3b4a9d31a0704807fb9b44237c7b4b", null ],
-    [ "JustSummoned", "dc/d71/a16958.html#ae3c5c0c1d905c424102a6e3a360d61d7", null ],
-    [ "KilledUnit", "dc/d71/a16958.html#aba4ed91e1f61ddd1db29509700a4e0c8", null ],
-    [ "Reset", "dc/d71/a16958.html#aefc761b1142cc6941394a4e3402662d7", null ],
-    [ "SpellHitTarget", "dc/d71/a16958.html#ad503ae8ea66c964bc5997019c9118856", null ],
-    [ "UpdateAI", "dc/d71/a16958.html#ac387b29bcb23f1697bc8b5b1a94e9ee1", null ],
-    [ "bAchiev", "dc/d71/a16958.html#ad57135868c5c631a4add0dea0067feb0", null ],
-    [ "events", "dc/d71/a16958.html#ac0467332ad699f9c60cc9dc257d9e1df", null ],
-    [ "pInstance", "dc/d71/a16958.html#a78204e146c22a80df48d8a6840e70790", null ],
-    [ "summons", "dc/d71/a16958.html#a6602605118c8d64dabec4b96c8e99436", null ]
+    [ "HandlePeriodicTick", "dc/d71/a16958.html#a7fa0334a0a33b15758b6362aa0a9bd7d", null ],
+    [ "PrepareAuraScript", "dc/d71/a16958.html#aabaef31a3c699c322e24e064f357f82f", null ],
+    [ "Register", "dc/d71/a16958.html#ae9602bc623422c124dfc37a18c0dbfec", null ],
+    [ "Validate", "dc/d71/a16958.html#a18d92a82760992bc5d8503e3f774f208", null ]
 ];

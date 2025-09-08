@@ -1,8 +1,8 @@
 var a02207 =
 [
-    [ "SpellPair", "d8/de7/a11922.html", "d8/de7/a11922" ],
-    [ "npc_av_marshal_or_warmaster", "d7/d40/a11926.html", "d7/d40/a11926" ],
-    [ "npc_av_marshal_or_warmaster::npc_av_marshal_or_warmasterAI", "d9/de9/a11930.html", "d9/de9/a11930" ],
+    [ "SpellPair", "da/d2b/a11938.html", "da/d2b/a11938" ],
+    [ "npc_av_marshal_or_warmaster", "d1/de5/a11942.html", "d1/de5/a11942" ],
+    [ "npc_av_marshal_or_warmaster::npc_av_marshal_or_warmasterAI", "da/d8a/a11946.html", "da/d8a/a11946" ],
     [ "Creatures", "dd/d6f/a02207.html#a25a619e6b66096a4f05d048e4a96df08", [
       [ "NPC_NORTH_MARSHAL", "dd/d6f/a02207.html#a25a619e6b66096a4f05d048e4a96df08abeb6d3b1ff8238f7c57911ab8acde69e", null ],
       [ "NPC_SOUTH_MARSHAL", "dd/d6f/a02207.html#a25a619e6b66096a4f05d048e4a96df08a9a3360dc10641daabdef8158f42ee00e", null ],
@@ -693,15 +693,6 @@ var a02207 =
       [ "EVENT_HADRONOX_SUMMON", "d1/db0/a01928.html#af60e00b78607064c5be6aa9397ea49c1a2084f8df4bb3a924b03a8bfff7f019dc", null ],
       [ "EVENT_CRUSHER_SMASH", "d1/db0/a01928.html#af60e00b78607064c5be6aa9397ea49c1af296175ebd391dfe736268ab5e81a954", null ],
       [ "EVENT_CHECK_HEALTH", "d1/db0/a01928.html#af60e00b78607064c5be6aa9397ea49c1a5545d513600badfbae47148bc756ed64", null ],
-      [ "EVENT_KRIK_START_WAVE", "dd/d19/a01922.html#af60e00b78607064c5be6aa9397ea49c1a6bc3dce5e0aff14dc009c38ec7e8e5a1", null ],
-      [ "EVENT_KRIK_SUMMON", "dd/d19/a01922.html#af60e00b78607064c5be6aa9397ea49c1abf995f2f25f1e7e0004feeb9cd59e379", null ],
-      [ "EVENT_KRIK_MIND_FLAY", "dd/d19/a01922.html#af60e00b78607064c5be6aa9397ea49c1a4e8630dc46fecb54b0c1c77ec6ccd70a", null ],
-      [ "EVENT_KRIK_CURSE", "dd/d19/a01922.html#af60e00b78607064c5be6aa9397ea49c1a9e6c23fda6c58fcb211edb2fbbdd6951", null ],
-      [ "EVENT_KRIK_HEALTH_CHECK", "dd/d19/a01922.html#af60e00b78607064c5be6aa9397ea49c1a484fc870fe923c8990270dcb03aa6290", null ],
-      [ "EVENT_KRIK_ENTER_COMBAT", "dd/d19/a01922.html#af60e00b78607064c5be6aa9397ea49c1a004cba636c79e89000feea6ee300566b", null ],
-      [ "EVENT_KILL_TALK", "dd/d19/a01922.html#af60e00b78607064c5be6aa9397ea49c1a19e2d7e7feeb728214e70da2b689c36b", null ],
-      [ "EVENT_CALL_ADDS", "dd/d19/a01922.html#af60e00b78607064c5be6aa9397ea49c1a4b15065116ae1cc3e6fa90ac7865ac81", null ],
-      [ "EVENT_KRIK_CHECK_EVADE", "dd/d19/a01922.html#af60e00b78607064c5be6aa9397ea49c1a78a74f58ba43f91fda916f14191f2854", null ],
       [ "EVENT_MINIBOSS_SHADOW_FISSURE", "d4/d51/a01520.html#af60e00b78607064c5be6aa9397ea49c1a966befce167e4e387bede225741ca7e3", null ],
       [ "EVENT_MINIBOSS_SHADOW_BREATH", "d4/d51/a01520.html#af60e00b78607064c5be6aa9397ea49c1a217843f3b8a58953df56fc2197a10348", null ],
       [ "EVENT_MINIBOSS_HATCH_EGGS", "d4/d51/a01520.html#af60e00b78607064c5be6aa9397ea49c1a108974886cae0bd7ba13738b9c719961", null ],

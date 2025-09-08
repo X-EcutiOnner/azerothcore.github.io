@@ -1,7 +1,6 @@
 var a15790 =
 [
-    [ "npc_steward_of_time", "de/da2/a15790.html#ad49973464c96f44506033b73a85f6360", null ],
-    [ "OnGossipHello", "de/da2/a15790.html#a3b61038393c3addbbfa6643438164db3", null ],
-    [ "OnGossipSelect", "de/da2/a15790.html#af4fe13e266a98129b92e5a25188d947c", null ],
-    [ "OnQuestAccept", "de/da2/a15790.html#a53d552282da49e8246089b2799fff9ca", null ]
+    [ "npc_aquementasAI", "d6/d09/a15794.html", "d6/d09/a15794" ],
+    [ "npc_aquementas", "de/da2/a15790.html#a81d0b010c2aef0ea329ff7656b76cbe5", null ],
+    [ "GetAI", "de/da2/a15790.html#a8a071b3073d69306feb84aca347a22c8", null ]
 ];

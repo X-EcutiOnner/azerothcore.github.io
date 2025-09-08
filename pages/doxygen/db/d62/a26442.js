@@ -1,6 +1,7 @@
 var a26442 =
 [
-    [ "HandleFinish", "db/d62/a26442.html#a53263ce51581f36c2df80b49c93fa9d3", null ],
-    [ "PrepareSpellScript", "db/d62/a26442.html#a8113f61816473399f0ceab18b104d058", null ],
-    [ "Register", "db/d62/a26442.html#a36bf50cdb7be7ba03eafd4848c6ceced", null ]
+    [ "HandleProc", "db/d62/a26442.html#ad5bf7ab28ac2f359c65606a1772a40d2", null ],
+    [ "PrepareAuraScript", "db/d62/a26442.html#af4fec7fb65e1327b1a74d48453b9fddd", null ],
+    [ "Register", "db/d62/a26442.html#a44a82b94d509eeb04f3520ded1d62891", null ],
+    [ "Validate", "db/d62/a26442.html#a7b222bba8f0c4ced50bf4945bf0423ca", null ]
 ];

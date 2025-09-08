@@ -1,6 +1,6 @@
 var a21094 =
 [
-    [ "boss_yoggsaron_voiceAI", "d2/d6c/a21098.html", "d2/d6c/a21098" ],
-    [ "boss_yoggsaron_voice", "d0/de7/a21094.html#ae5d10416bb83e57c0e9d3ef5d6f5adc6", null ],
-    [ "GetAI", "d0/de7/a21094.html#a50abcde0313df06a114a2f5f44a1d481", null ]
+    [ "boss_yoggsaron_llaneAI", "d2/d6c/a21098.html", "d2/d6c/a21098" ],
+    [ "boss_yoggsaron_llane", "d0/de7/a21094.html#a671df488222583aa12bc1c75695918b9", null ],
+    [ "GetAI", "d0/de7/a21094.html#a1e7d1b4bce0ca1dbfbbe8c044b451b92", null ]
 ];

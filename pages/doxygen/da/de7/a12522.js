@@ -1,7 +1,6 @@
 var a12522 =
 [
-    [ "HandlePeriodic", "da/de7/a12522.html#a758b588fb02e9cdf2544dd52ceee1055", null ],
-    [ "PrepareAuraScript", "da/de7/a12522.html#aae9d31049889eea5c5f09dd5437de950", null ],
-    [ "Register", "da/de7/a12522.html#a5de6428e3359c4498f5630f85ae3fcc8", null ],
-    [ "Validate", "da/de7/a12522.html#a462b882e41932f99e3501f32368cf4de", null ]
+    [ "boss_garrAI", "d7/d6a/a12526.html", "d7/d6a/a12526" ],
+    [ "boss_garr", "da/de7/a12522.html#ab489eb068430a6aaa83c93104dd54d65", null ],
+    [ "GetAI", "da/de7/a12522.html#abc673a3db7fce0101a0b95d5efbdefa3", null ]
 ];

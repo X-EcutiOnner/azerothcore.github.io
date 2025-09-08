@@ -1,7 +1,10 @@
 var a16318 =
 [
-    [ "OnApply", "d3/d7e/a16318.html#ad072d243dd148e1b34aea29a2e5d175e", null ],
-    [ "PrepareAuraScript", "d3/d7e/a16318.html#ae657ceca517aa3f725ba72c18ddbaf1c", null ],
-    [ "Register", "d3/d7e/a16318.html#a4eab0bd70eb884f7736e90f9001d3cc7", null ],
-    [ "Validate", "d3/d7e/a16318.html#a2c9e4d82bd25f439e01a05700563b122", null ]
+    [ "spell_halion_damage_aoe_summon", "d3/d7e/a16318.html#a6152e7a0515076af2c7c2155506257b0", null ],
+    [ "HandleSummon", "d3/d7e/a16318.html#a47a810b94c515b7e48c9cc5f99c6bc23", null ],
+    [ "PrepareSpellScript", "d3/d7e/a16318.html#ae05be3eca26724f57f3f4b37b723aa63", null ],
+    [ "Register", "d3/d7e/a16318.html#aa1f9239a2910d53c85539abba6333893", null ],
+    [ "Validate", "d3/d7e/a16318.html#acb359257b29354b5962d9865e06137e7", null ],
+    [ "_auraSpell", "d3/d7e/a16318.html#a497a74eca703470964157639a6f372e2", null ],
+    [ "_explosionSpell", "d3/d7e/a16318.html#ad1ad3a6f143bc84bad61070755752b2f", null ]
 ];

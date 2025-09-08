@@ -1,8 +1,7 @@
 var a10078 =
 [
-    [ "Location", "d6/dd8/a10078.html#a0c601d413eeb398eb75d386c264ef5ab", null ],
-    [ "Location", "d6/dd8/a10078.html#ae013ab2bf44bb250644573625bf93265", null ],
-    [ "Location", "d6/dd8/a10078.html#a0d50c28ba40b409a0c5a9776bfe8ef42", null ],
-    [ "Location", "d6/dd8/a10078.html#a1270aec177f47a607cb5a1472819c738", null ],
-    [ "orientation", "d6/dd8/a10078.html#a9fc2637d4441d90c528eaef0f0414b98", null ]
+    [ "WriteCommonMonsterMovePart", "d6/dd8/a10078.html#a5dcdbeb513f6da51b0af20d9acd2ac58", null ],
+    [ "WriteCreate", "d6/dd8/a10078.html#ae5682d7012cca35bd8643b01ce558eb5", null ],
+    [ "WriteMonsterMove", "d6/dd8/a10078.html#a4c4294e3fed32aca35078dd4975b057d", null ],
+    [ "WriteStopMovement", "d6/dd8/a10078.html#a1b960c1141ab9b4dca932e0eddaee204", null ]
 ];

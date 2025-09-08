@@ -1,6 +1,6 @@
 var a18226 =
 [
-    [ "FilterTargets", "dc/d07/a18226.html#aa7e731de9e5ab1078b8ff7022393c9a7", null ],
-    [ "PrepareSpellScript", "dc/d07/a18226.html#ae92968db6e5a1384f89e6aff9ab2d1f3", null ],
-    [ "Register", "dc/d07/a18226.html#ae6ab0b56688bfc07262cc83e84102ccb", null ]
+    [ "npc_ice_tombAI", "d6/da9/a18230.html", "d6/da9/a18230" ],
+    [ "npc_ice_tomb", "dc/d07/a18226.html#a939c6083a77a6f4cb2a940ec9c1df55e", null ],
+    [ "GetAI", "dc/d07/a18226.html#ac99b7c9887e54a1764310bd3e079811a", null ]
 ];

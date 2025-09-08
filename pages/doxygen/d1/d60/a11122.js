@@ -1,6 +1,5 @@
 var a11122 =
 [
-    [ "WorldSessionFilter", "d1/d60/a11122.html#aba91eb2dfd56201534743b2d458fa111", null ],
-    [ "~WorldSessionFilter", "d1/d60/a11122.html#a5de22e3a331e0ab17fe60f34c5b9b3fa", null ],
-    [ "Process", "d1/d60/a11122.html#a0f0acf4ed9e61bf8aeb77ee7fb310660", null ]
+    [ "AccountInfoQueryHolderPerRealm", "d1/d60/a11122.html#a9d821669804cd04cf121e141d94ead36", null ],
+    [ "Initialize", "d1/d60/a11122.html#a9d4e4de9a038697f61e6350f5f59713b", null ]
 ];

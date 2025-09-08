@@ -1,6 +1,6 @@
 var a22882 =
 [
-    [ "FilterTargets", "d5/dc4/a22882.html#abd3fafc2120b7069790dd9822cd62adc", null ],
-    [ "PrepareSpellScript", "d5/dc4/a22882.html#aebc0441481a2c458fc904175df931a9e", null ],
-    [ "Register", "d5/dc4/a22882.html#af1173988538ad44c27ea2ed9d49fe06d", null ]
+    [ "PrepareSpellScript", "d5/dc4/a22882.html#abd6b61e7efbed1427b7603640ac7d474", null ],
+    [ "RecalculateDamage", "d5/dc4/a22882.html#a02b59e5ac84c8556c9a9441ff6414461", null ],
+    [ "Register", "d5/dc4/a22882.html#ab6183bf9e49d3c11c256e54053c13aa2", null ]
 ];

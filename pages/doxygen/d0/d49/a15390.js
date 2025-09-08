@@ -1,6 +1,7 @@
 var a15390 =
 [
-    [ "instance_temple_of_ahnqiraj_InstanceMapScript", "d6/d45/a15394.html", "d6/d45/a15394" ],
-    [ "instance_temple_of_ahnqiraj", "d0/d49/a15390.html#a316c5e2cac59f2ee2520fba1b97407e3", null ],
-    [ "GetInstanceScript", "d0/d49/a15390.html#a9e3060d9f2188f410da8aa3e9526e79d", null ]
+    [ "boss_glob_of_viscidus", "d0/d49/a15390.html#a1ba72393766110382dc4ce4122dfd1ee", null ],
+    [ "InitializeAI", "d0/d49/a15390.html#a0247055fc4f3a60c880ffb78e96edcb9", null ],
+    [ "MovementInform", "d0/d49/a15390.html#abe0cd95930fe52fdb5a40c704d092b90", null ],
+    [ "UpdateAI", "d0/d49/a15390.html#a2e8e38ccdf4ab5e32bd750d73daf1605", null ]
 ];

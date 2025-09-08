@@ -1,5 +1,6 @@
 var a12294 =
 [
-    [ "at_dragonspire_hall", "d1/d37/a12294.html#a6adb22f328a7324b2ecf70204ab26a6d", null ],
-    [ "OnTrigger", "d1/d37/a12294.html#a0433930ec050a9dbeb60e1b1122772e3", null ]
+    [ "boss_warmastervooneAI", "da/dfe/a12298.html", "da/dfe/a12298" ],
+    [ "boss_warmaster_voone", "d1/d37/a12294.html#ac363118e4201adccd4be0028a558442f", null ],
+    [ "GetAI", "d1/d37/a12294.html#a560469e60fda04b2c7d8fd3994493868", null ]
 ];

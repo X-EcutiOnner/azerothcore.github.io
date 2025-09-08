@@ -1,7 +1,7 @@
 var a18862 =
 [
-    [ "OnApply", "da/d5c/a18862.html#a5f62c11ef96edbf6f2906bd5f41109d5", null ],
-    [ "OnRemove", "da/d5c/a18862.html#a697a7c76f944b5df956a9de07746b7a9", null ],
-    [ "PrepareAuraScript", "da/d5c/a18862.html#a338d0fa22368d01fe7523b7cc1acea4b", null ],
-    [ "Register", "da/d5c/a18862.html#ab915b3ede10526b3e7ccbe33f2568fae", null ]
+    [ "npc_impaling_spearAI", "da/d5c/a18862.html#ae8fbc36a15324b210a24a0e98357adc3", null ],
+    [ "Reset", "da/d5c/a18862.html#a43fa8bf8f22f0635261decd8b15ed6f5", null ],
+    [ "UpdateAI", "da/d5c/a18862.html#acb187a58b0ba256b4e003655ac36db34", null ],
+    [ "_vehicleCheckTimer", "da/d5c/a18862.html#a264874b9f6f0609792d4b3a325e54f59", null ]
 ];

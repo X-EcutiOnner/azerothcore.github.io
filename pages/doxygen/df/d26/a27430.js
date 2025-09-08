@@ -1,6 +1,7 @@
 var a27430 =
 [
-    [ "go_pirate_day_musicAI", "df/d15/a27434.html", "df/d15/a27434" ],
-    [ "go_pirate_day_music", "df/d26/a27430.html#aa8d19102357639bd160eae9e90a87505", null ],
-    [ "GetAI", "df/d26/a27430.html#a3bce105696415c9a31c5cbeb9607fa95", null ]
+    [ "go_bear_trapAI", "df/d26/a27430.html#ad97484d73bcea6a84909004c099eec34", null ],
+    [ "Initialize", "df/d26/a27430.html#a89c76f1563f541c572c48f8cf633aa6a", null ],
+    [ "UpdateAI", "df/d26/a27430.html#a8901922d736bb0391da5618593ced5c5", null ],
+    [ "_events", "df/d26/a27430.html#a59f37a130326818dd922763ae9058fe7", null ]
 ];

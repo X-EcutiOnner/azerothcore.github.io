@@ -1,6 +1,7 @@
 var a26346 =
 [
-    [ "FilterTargets", "dd/d50/a26346.html#a81212064e51b7dfd148a1b18b69aafe0", null ],
-    [ "PrepareSpellScript", "dd/d50/a26346.html#a10d26377442d7a5d0c2986a65fcb57d6", null ],
-    [ "Register", "dd/d50/a26346.html#a4db02c58be57a797c26b07656d1b5409", null ]
+    [ "HandleScriptEffect", "dd/d50/a26346.html#a8c7ede10a8f7d0c1ea04c21166807995", null ],
+    [ "PrepareSpellScript", "dd/d50/a26346.html#af52663b01774372d3e6f695d2f395cb5", null ],
+    [ "Register", "dd/d50/a26346.html#abcefab06ff481fad88be4d7ad9289808", null ],
+    [ "Validate", "dd/d50/a26346.html#af269a7085412b5a889dfb802d1dc7fbe", null ]
 ];

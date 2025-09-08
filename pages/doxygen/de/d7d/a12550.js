@@ -1,10 +1,6 @@
 var a12550 =
 [
-    [ "npc_core_ragerAI", "de/d7d/a12550.html#a3c5125e0a10043f6181c10ba749fa579", null ],
-    [ "DamageTaken", "de/d7d/a12550.html#a758eb158eb9d232d74514281028efcb3", null ],
-    [ "Reset", "de/d7d/a12550.html#acf83e469d3d8108276227a942fda28b3", null ],
-    [ "UpdateAI", "de/d7d/a12550.html#a2183cf5ab22b737413b86a657fde6d3c", null ],
-    [ "instance", "de/d7d/a12550.html#a7cfddba62f737214b8cfc7fbffa8c2e2", null ],
-    [ "mangleTimer", "de/d7d/a12550.html#a081333b967abb3812b9ddae2f933a324", null ],
-    [ "rangeCheckTimer", "de/d7d/a12550.html#ade427bdd9ec99807b6f190c890136414", null ]
+    [ "boss_gehennasAI", "de/d7d/a12550.html#aaefd1f10d03957477863df95143a95a9", null ],
+    [ "ExecuteEvent", "de/d7d/a12550.html#a1568cecdacc6afee23b4661c3dc0ae2b", null ],
+    [ "JustEngagedWith", "de/d7d/a12550.html#ad932bb3d7079f53cf1bb2b7ad143b15d", null ]
 ];

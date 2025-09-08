@@ -1,7 +1,7 @@
 var a02552 =
 [
-    [ "boss_eviscerator", "dd/d8c/a12042.html", "dd/d8c/a12042" ],
-    [ "boss_eviscerator::boss_evisceratorAI", "d4/d19/a12046.html", "d4/d19/a12046" ],
+    [ "boss_eviscerator", "d9/dc7/a12058.html", "d9/dc7/a12058" ],
+    [ "boss_eviscerator::boss_evisceratorAI", "d5/d24/a12062.html", "d5/d24/a12062" ],
     [ "Spells", "de/d48/a02552.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_OIL_REFINERY", "d8/d23/a03038.html#a5bd342133be8c2137b831460acc9298cae2eb4db3c46b45e80cc2feb9c34f2ada", null ],
       [ "SPELL_QUARRY", "d8/d23/a03038.html#a5bd342133be8c2137b831460acc9298ca5a0922923b24c4bb6661ad8396a76e01", null ],

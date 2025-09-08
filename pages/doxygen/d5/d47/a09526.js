@@ -1,8 +1,8 @@
 var a09526 =
 [
-    [ "flags", "d5/d47/a09526.html#a7ecce103d428ed7f91aa12fa5547561c", null ],
-    [ "group", "d5/d47/a09526.html#a0902606d44c8baa1a20b5b2cdd9b4787", null ],
-    [ "guid", "d5/d47/a09526.html#a97a20b4ccf1978165a5f5c7ff4ffb2b4", null ],
-    [ "name", "d5/d47/a09526.html#ab0719bb9805048b58a3e4c75e09d1ee7", null ],
-    [ "roles", "d5/d47/a09526.html#a2109aae0b3ebf74b065b97cc929c2954", null ]
+    [ "LocalizedPacketDo", "d5/d47/a09526.html#a9b7700f2a4958b91a67375ec9a40072c", null ],
+    [ "~LocalizedPacketDo", "d5/d47/a09526.html#a4296260b2011e1f7c300987073863ca9", null ],
+    [ "operator()", "d5/d47/a09526.html#a43449bdf0302e426b8cb4341326196b1", null ],
+    [ "i_builder", "d5/d47/a09526.html#a2c794905898feb502bfc5d3760f962b8", null ],
+    [ "i_data_cache", "d5/d47/a09526.html#a2bbff655e1a5268981c48e3ee028b104", null ]
 ];

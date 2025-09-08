@@ -1,21 +1,14 @@
 var a13366 =
 [
-    [ "instance_sunken_temple_InstanceMapScript", "da/d92/a13366.html#a7c686c287e8fedd53c2a22afd5721656", null ],
-    [ "GetData", "da/d92/a13366.html#aa6247ca0f46a680373601bae1308b94d", null ],
-    [ "Initialize", "da/d92/a13366.html#a31b05a8c4e90cbb17dc5d82b79d49b47", null ],
-    [ "OnCreatureCreate", "da/d92/a13366.html#ae57762cc1a5555f0532cf630179d2840", null ],
-    [ "OnGameObjectCreate", "da/d92/a13366.html#afce97e50bbc6d935c183b1ed21f6c993", null ],
-    [ "OnUnitDeath", "da/d92/a13366.html#a4991152894573857021bc3b1fe632a06", null ],
-    [ "ReadSaveDataMore", "da/d92/a13366.html#af97a2dc80ff18b4258e2137c60c5983d", null ],
-    [ "SetData", "da/d92/a13366.html#ad87da3eb261f03d36d7520dc20d8b1b9", null ],
-    [ "Update", "da/d92/a13366.html#aa4ffd7ee39e413c7486eea1d738be522", null ],
-    [ "WriteSaveDataMore", "da/d92/a13366.html#a2d8da39156e465ec987c518e747f453b", null ],
-    [ "_defendersKilled", "da/d92/a13366.html#abb53f597c52726680dd20f4946dc363b", null ],
-    [ "_dragonkinList", "da/d92/a13366.html#a92ccf87798e87caf106e274169ef9d6e", null ],
-    [ "_encounters", "da/d92/a13366.html#a616b3762e7400b17bb6fc1f3b0a8f2a9", null ],
-    [ "_events", "da/d92/a13366.html#af535a80d3e92a9ff42c6d9edaa989a44", null ],
-    [ "_forcefieldGUID", "da/d92/a13366.html#a57d520ed6f16c3f881f892e7578ad378", null ],
-    [ "_jammalanGUID", "da/d92/a13366.html#ab51ad8cd98d085811aa2c02494de3a7c", null ],
-    [ "_shadeOfEranikusGUID", "da/d92/a13366.html#a4550fd5b2e3dcca1e0d6ff46885ae4c0", null ],
-    [ "_statuePhase", "da/d92/a13366.html#aaeb98dc1aad0d16142325c4d5a5cbf8e", null ]
+    [ "boss_sothos", "da/d92/a13366.html#a2e7283078d4049ff339f29c3fdfc69cf", null ],
+    [ "DoAction", "da/d92/a13366.html#a1433dddccb71896016bc014bdf92b453", null ],
+    [ "IsSummonedBy", "da/d92/a13366.html#aaaf7e317f146bb296c4ba6f57c5f72d4", null ],
+    [ "JustDied", "da/d92/a13366.html#a2d634aade37ea887f6bbf4b43baf061d", null ],
+    [ "JustEngagedWith", "da/d92/a13366.html#ace8a0c92ec3ab3e76cceb63c5b4a277b", null ],
+    [ "Reset", "da/d92/a13366.html#a042578148cae9a0b9befb7c5747a8e99", null ],
+    [ "UpdateAI", "da/d92/a13366.html#a35e247fa9bfe00927b844af8d0ef916f", null ],
+    [ "_jarienDied", "da/d92/a13366.html#a74725d8a4b3ce9fbfb9f06868fa02055", null ],
+    [ "_phase", "da/d92/a13366.html#a5719cd4a85527c256fb7f048be6489f7", null ],
+    [ "_scheduler", "da/d92/a13366.html#a5e18256858cd594b45628508500e5f1a", null ],
+    [ "_talked", "da/d92/a13366.html#a3f3c0d0a079aad1306b638e8ff34f2f6", null ]
 ];

@@ -1,15 +1,6 @@
 var a17002 =
 [
-    [ "boss_falricAI", "d9/d6a/a17002.html#a8b333fe1571f98b4e9f44152d130a22d", null ],
-    [ "DoAction", "d9/d6a/a17002.html#a2a7de8f939cd3cdc113c841da36e28c8", null ],
-    [ "EnterEvadeMode", "d9/d6a/a17002.html#aacb6a3b13fe5ea08ab2ff0e77ff841a4", null ],
-    [ "JustDied", "d9/d6a/a17002.html#a4ee3163afcda23102d639740fd628f39", null ],
-    [ "JustEngagedWith", "d9/d6a/a17002.html#ae5a8b14e1984dbd2866af7c442c02df2", null ],
-    [ "KilledUnit", "d9/d6a/a17002.html#a4a8b45eb85c1328af6beec69f2db1842", null ],
-    [ "Reset", "d9/d6a/a17002.html#a0af8ef161bc2a37a5c7f7fa880194251", null ],
-    [ "UpdateAI", "d9/d6a/a17002.html#a640036111dcd14e40016342ffdef7d63", null ],
-    [ "events", "d9/d6a/a17002.html#aa94ca00db157378071b78142b213de23", null ],
-    [ "pInstance", "d9/d6a/a17002.html#aebeae3541bbbf392c44fd52516bb2d98", null ],
-    [ "startFightTimer", "d9/d6a/a17002.html#addd560074b840aed36f41883f893340e", null ],
-    [ "uiHopelessnessCount", "d9/d6a/a17002.html#a0ad83fb57263116a59976834c6667ea9", null ]
+    [ "entry", "d9/d6a/a17002.html#a80e1510436336f4ed17748a06b27178d", null ],
+    [ "pathId", "d9/d6a/a17002.html#a0b7e499d633e11b314852fb1154ea8e6", null ],
+    [ "startPosition", "d9/d6a/a17002.html#ac8c0dd74d76778aa2f5948b5c8c5ada4", null ]
 ];

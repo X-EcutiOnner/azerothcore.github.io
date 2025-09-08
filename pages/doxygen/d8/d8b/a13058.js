@@ -1,6 +1,6 @@
 var a13058 =
 [
-    [ "npc_dkc1_gothikAI", "d2/deb/a13062.html", "d2/deb/a13062" ],
-    [ "npc_dkc1_gothik", "d8/d8b/a13058.html#ae4a6aec0235b01044ebd5c9c71d400d9", null ],
-    [ "GetAI", "d8/d8b/a13058.html#aeb285cf6977cfab5d337f51ae41907ec", null ]
+    [ "CheckRequirement", "d8/d8b/a13058.html#a31d69034f463d552afa4063bf89271da", null ],
+    [ "PrepareSpellScript", "d8/d8b/a13058.html#adc2176d25d25167b8a1fa9517e2ab945", null ],
+    [ "Register", "d8/d8b/a13058.html#a5bb1eff829db1f7ecd3dbf61b821c328", null ]
 ];

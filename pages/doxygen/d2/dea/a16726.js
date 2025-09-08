@@ -1,6 +1,7 @@
 var a16726 =
 [
-    [ "boss_gormokAI", "de/d9e/a16730.html", "de/d9e/a16730" ],
-    [ "boss_gormok", "d2/dea/a16726.html#a86ce0681be4370198c44dde5aa98a593", null ],
-    [ "GetAI", "d2/dea/a16726.html#a45cff2e7ee0525de37382cf09b116a32", null ]
+    [ "HandleEffectPeriodic", "d2/dea/a16726.html#ae5749a43f37f0eb3f049d8804845f61e", null ],
+    [ "PrepareAuraScript", "d2/dea/a16726.html#a66dcb98f38ed6b040928543015f59c9b", null ],
+    [ "Register", "d2/dea/a16726.html#abbebe9c5ad44db61e80ce3707e744ab6", null ],
+    [ "Validate", "d2/dea/a16726.html#a1131f0014f298b87483412d960bc0221", null ]
 ];

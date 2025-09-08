@@ -1,7 +1,6 @@
 var a14426 =
 [
-    [ "HandleScriptEffect", "d9/d76/a14426.html#ae758c224878aebdde0124b5d4ec902a5", null ],
-    [ "PrepareSpellScript", "d9/d76/a14426.html#ac3755ef09a905d90ce7df328b83d51aa", null ],
-    [ "Register", "d9/d76/a14426.html#a051d0fe383e5675e39e4ac8ed7a6e329", null ],
-    [ "Validate", "d9/d76/a14426.html#a56f71954e122f651c6e2ec68453e16cc", null ]
+    [ "go_direbrew_mole_machineAI", "dd/d94/a14430.html", "dd/d94/a14430" ],
+    [ "go_direbrew_mole_machine", "d9/d76/a14426.html#a759d291a5be227d8beae3bbc779e56f4", null ],
+    [ "GetAI", "d9/d76/a14426.html#a793e5e544664d6c2c3897161c9cccbbb", null ]
 ];

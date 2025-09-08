@@ -1,7 +1,6 @@
 var a19250 =
 [
-    [ "FilterTargets", "d0/d4e/a19250.html#af92aec0df6c962a10ccbebb366081cfd", null ],
-    [ "PrepareSpellScript", "d0/d4e/a19250.html#ad7ccb2b2024887ec0a9802454a8bfaec", null ],
-    [ "Register", "d0/d4e/a19250.html#af59416debfc7685bec92541a00e1dafe", null ],
-    [ "Validate", "d0/d4e/a19250.html#abbe7ae557fb510457504f72adfa0aedc", null ]
+    [ "boss_kelthuzadAI", "db/d57/a19254.html", "db/d57/a19254" ],
+    [ "boss_kelthuzad", "d0/d4e/a19250.html#a52b0988d0ee9e41c8a7911f2d2460442", null ],
+    [ "GetAI", "d0/d4e/a19250.html#acf19b29d6c1eb0052baa7ff491f6a050", null ]
 ];

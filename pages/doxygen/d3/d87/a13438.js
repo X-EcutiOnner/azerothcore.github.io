@@ -1,5 +1,6 @@
 var a13438 =
 [
-    [ "go_eredar_twins_blaze", "d3/d87/a13438.html#a19d28875d3506d337e0ecbd93169f140", null ],
-    [ "InitializeAI", "d3/d87/a13438.html#a8769ad96e4c4a2396cf4c294d8d982eb", null ]
+    [ "FilterTargets", "d3/d87/a13438.html#a78675c3421e0243de9e136b646c56be1", null ],
+    [ "PrepareSpellScript", "d3/d87/a13438.html#a0fb177c467c2582e6b66ceae51780d6c", null ],
+    [ "Register", "d3/d87/a13438.html#a39f8a11194fe19a14d25b30faaa6cf42", null ]
 ];

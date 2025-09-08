@@ -1,5 +1,5 @@
 var a13002 =
 [
-    [ "boss_apoko", "d7/d0d/a13002.html#a3ae4752839f47bbfce5f7df03c427cd2", null ],
-    [ "JustEngagedWith", "d7/d0d/a13002.html#a7ad52b258863bd818b3e5d1143de7629", null ]
+    [ "boss_eramas_brightblaze", "d7/d0d/a13002.html#a14d1528750036f27948f5de8a2b44bd3", null ],
+    [ "JustEngagedWith", "d7/d0d/a13002.html#ad34613d2795f7371a43891488044392a", null ]
 ];

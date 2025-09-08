@@ -1,6 +1,8 @@
 var a07798 =
 [
-    [ "value_type", "d3/d43/a07798.html#a9297944511f34279a6439ade9d83b0c6", null ],
-    [ "StoreTo", "d3/d43/a07798.html#a1f5494d3c3472abbf8783026015b5f70", null ],
-    [ "tag", "d3/d43/a07798.html#a08484916162055a368e768b9f5300047", null ]
+    [ "CurValue", "d3/d43/a07798.html#a110169c51e3dac271b4ba6d10bbbadac", null ],
+    [ "KnownRecipes", "d3/d43/a07798.html#a1a44c7eb6dbf3a16e8d2db47821bb39a", null ],
+    [ "MaxValue", "d3/d43/a07798.html#a6c48d3a6afddf895b97ec9b964dfd86c", null ],
+    [ "Owner", "d3/d43/a07798.html#a085e0aa9f79129920af96046c4fc29b1", null ],
+    [ "Spell", "d3/d43/a07798.html#a2b0ca4fecc7ba965a329afa6a184cf07", null ]
 ];

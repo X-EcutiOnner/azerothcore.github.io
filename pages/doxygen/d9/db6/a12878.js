@@ -1,15 +1,17 @@
 var a12878 =
 [
-    [ "boss_tinhead", "d9/db6/a12878.html#aa56375e9b031db15bee833375b7a4405", null ],
-    [ "DoAction", "d9/db6/a12878.html#ab27d93fd2b58e3f1c9e14d5bc6c788ff", null ],
-    [ "EnterEvadeMode", "d9/db6/a12878.html#ae83464d571103a67980b413325988921", null ],
-    [ "JustDied", "d9/db6/a12878.html#a5a641c0e96f271540e4642b5bb4e4c9e", null ],
-    [ "JustEngagedWith", "d9/db6/a12878.html#a74f51f155fdfb9ecc70245380b740d9c", null ],
-    [ "JustReachedHome", "d9/db6/a12878.html#a6c930c6cb2116cf16f3e4002e333f585", null ],
-    [ "KilledUnit", "d9/db6/a12878.html#ac0f281f1e4b985174f4c5c9b7fcf278d", null ],
-    [ "Reset", "d9/db6/a12878.html#ac22d86f58d59c81429e45fba9393fd37", null ],
-    [ "UpdateAI", "d9/db6/a12878.html#aec0d558cf82eb6bbf0d5626126b10233", null ],
-    [ "_rustCount", "d9/db6/a12878.html#a48901503085fd3d4ee5624626a526ce2", null ],
-    [ "_scheduler", "d9/db6/a12878.html#ababc9f32611a9ea35ef41725bce22df5", null ],
-    [ "instance", "d9/db6/a12878.html#a00b2ebbb009c700e38bbffbb035b4bfa", null ]
+    [ "boss_dorothee", "d9/db6/a12878.html#a8bd5b4753c2d8f8aced0c036912f10f1", null ],
+    [ "DoAction", "d9/db6/a12878.html#a1b9cf1e58d68d249249a8b0d082b725a", null ],
+    [ "EnterEvadeMode", "d9/db6/a12878.html#a6dfc4109370d4e932e7376a443bd64ad", null ],
+    [ "JustDied", "d9/db6/a12878.html#a289dfa1f257ca25acba9487908e6223c", null ],
+    [ "JustEngagedWith", "d9/db6/a12878.html#aa35dafeb9faf8eeea55caa0eeb669db3", null ],
+    [ "JustReachedHome", "d9/db6/a12878.html#a762209d2bf78cc21c48a426732f2354e", null ],
+    [ "Reset", "d9/db6/a12878.html#ae3f123a6a9223b7928295812326b0cb4", null ],
+    [ "SummonedCreatureDies", "d9/db6/a12878.html#a0e76c828a1c7c49741963b6e98003a66", null ],
+    [ "SummonTito", "d9/db6/a12878.html#a5c04074aab40ecaeeb84b33205b40144", null ],
+    [ "UpdateAI", "d9/db6/a12878.html#a30fbcc5e7ca4ed74b9d2895b94a9a19e", null ],
+    [ "_scheduler", "d9/db6/a12878.html#a840bcbad78ff881ef3a803ffa23d3c6e", null ],
+    [ "_startIntro", "d9/db6/a12878.html#a20e6555e2117a62fce3af7f7fb7167cc", null ],
+    [ "instance", "d9/db6/a12878.html#ac6a6f1c9074697f761e4e09550cfea71", null ],
+    [ "titoDied", "d9/db6/a12878.html#a258cc9ce32f314e723d5345ac18336bf", null ]
 ];

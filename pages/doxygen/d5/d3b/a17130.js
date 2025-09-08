@@ -1,9 +1,8 @@
 var a17130 =
 [
-    [ "npc_hor_lumbering_abominationAI", "d5/d3b/a17130.html#acc1e6e72aee030ebf2d0daa50f880f60", null ],
-    [ "JustDied", "d5/d3b/a17130.html#af243a79da3028d3d66facc8a15132f78", null ],
-    [ "JustEngagedWith", "d5/d3b/a17130.html#a83d0add807b5d9647328b89fed8e9bc4", null ],
-    [ "Reset", "d5/d3b/a17130.html#a4270f405bbade0028fce4df0655a1987", null ],
-    [ "UpdateAI", "d5/d3b/a17130.html#a995d0f7902cb70280d1448ac7731a816", null ],
-    [ "events", "d5/d3b/a17130.html#aee9063950477b50e38ec904e91882689", null ]
+    [ "npc_hor_raging_ghoulAI", "d5/d3b/a17130.html#ac4b2b3acf8a7acda73c7158f1565a274", null ],
+    [ "JustDied", "d5/d3b/a17130.html#a70e581c9b3f7d88d497c1540ac9ca04c", null ],
+    [ "Reset", "d5/d3b/a17130.html#aa52576d94e230797209dfc938d62187f", null ],
+    [ "UpdateAI", "d5/d3b/a17130.html#ac7c8571eac32f722a5fb0c28092b7e8f", null ],
+    [ "leaped", "d5/d3b/a17130.html#a12f6e6d5911b2b8b9caa01a9a83570bc", null ]
 ];

@@ -1,9 +1,13 @@
 var a22678 =
 [
-    [ "OPvPCapturePointGH", "d3/d3d/a22678.html#a6e46100e50212310af4301c492d5773e", null ],
-    [ "ChangeState", "d3/d3d/a22678.html#afe53e37a3a1dc4a7068c03302f26b981", null ],
-    [ "FillInitialWorldStates", "d3/d3d/a22678.html#a11d305d6f50ce2535bd5d7b2e7a3389f", null ],
-    [ "HandlePlayerEnter", "d3/d3d/a22678.html#afea733c44d129d9a5af78a8337d9e04a", null ],
-    [ "HandlePlayerLeave", "d3/d3d/a22678.html#a1e5d9c6f02eb02dfed654078c910635b", null ],
-    [ "SendChangePhase", "d3/d3d/a22678.html#aec741b9102829bf77850dc06a49bb8da", null ]
+    [ "OPvPCapturePointEP_CGT", "d3/d3d/a22678.html#a82d8e9bff56eed1870b098dcf21f77cd", null ],
+    [ "ChangeState", "d3/d3d/a22678.html#ab9d32c9a60bbdca9fc54d7e0b2bf8a5d", null ],
+    [ "FillInitialWorldStates", "d3/d3d/a22678.html#ae7d57fe449bb38de013b18ecf2f9f07c", null ],
+    [ "HandlePlayerEnter", "d3/d3d/a22678.html#a48cb29473f25ed9b469c7ff54acc9d88", null ],
+    [ "HandlePlayerLeave", "d3/d3d/a22678.html#ad1886046ecf8c382e1fd0e01d6394614", null ],
+    [ "LinkGraveyard", "d3/d3d/a22678.html#ada14179a31fb6235b7882a190dc96c40", null ],
+    [ "SendChangePhase", "d3/d3d/a22678.html#a30d9f8701dd6a78740f7df0d2c7ceb9d", null ],
+    [ "UpdateTowerState", "d3/d3d/a22678.html#a764284d6143d4879b5bc003acc52048c", null ],
+    [ "m_GraveyardSide", "d3/d3d/a22678.html#aaf1f8440dc891ed45857bb7d15149d9a", null ],
+    [ "m_TowerState", "d3/d3d/a22678.html#a6f434f86ed97f88368e3194a3bc3183b", null ]
 ];

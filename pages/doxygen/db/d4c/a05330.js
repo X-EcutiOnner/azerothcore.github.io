@@ -1,5 +1,10 @@
 var a05330 =
 [
-    [ "Decode", "db/d4c/a05330.html#a16eb5c0306f404a3be454430abd01610", null ],
-    [ "Encode", "db/d4c/a05330.html#a5c439d87d1532c68023e2d612d874e5f", null ]
+    [ "Find", "db/d4c/a05330.html#a1d6a7cd1596aa03a8e53609c7d7b6e33", null ],
+    [ "GetElements", "db/d4c/a05330.html#a653b00a9d570ae9d9276a061beda3f35", null ],
+    [ "GetElements", "db/d4c/a05330.html#a209cbb9e5ba70b9f5f66e64e2c36411d", null ],
+    [ "Insert", "db/d4c/a05330.html#ad61d9aa314133d8eba934fe56cff48e0", null ],
+    [ "Remove", "db/d4c/a05330.html#a5a9666fc5f0136a778d8c542a386d4bf", null ],
+    [ "Size", "db/d4c/a05330.html#a289258c9015016a70d2867df7e113def", null ],
+    [ "_elements", "db/d4c/a05330.html#adda6657e9a0fd08b105cd4d6b2baa9d3", null ]
 ];

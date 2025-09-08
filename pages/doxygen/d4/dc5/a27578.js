@@ -1,5 +1,6 @@
 var a27578 =
 [
-    [ "item_disgusting_jar", "d4/dc5/a27578.html#add658cf7d026ac12d3eacc0c1dc8d7fb", null ],
-    [ "OnExpire", "d4/dc5/a27578.html#a4f6967035a4d247914a6034fcebac5c5", null ]
+    [ "guard_shattrath_aldorAI", "d9/d75/a27582.html", "d9/d75/a27582" ],
+    [ "guard_shattrath_aldor", "d4/dc5/a27578.html#ab965295d9c3828ad814f658670b5f185", null ],
+    [ "GetAI", "d4/dc5/a27578.html#a3459a6a85c7e7286e3cbdd7f56fee704", null ]
 ];

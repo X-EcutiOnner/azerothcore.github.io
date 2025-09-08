@@ -1,11 +1,13 @@
 var a24414 =
 [
-    [ "npc_shadowmoon_tuber_nodeAI", "d4/d76/a24414.html#af24a8d5ead256d158c86379e032aa889", null ],
-    [ "Reset", "d4/d76/a24414.html#a9bcbd0b0b6b12058a8356ce274b6a597", null ],
-    [ "SetData", "d4/d76/a24414.html#aca6ad097bd7b8e5f1a0cde6bdebb23ad", null ],
-    [ "SpellHit", "d4/d76/a24414.html#a14523a24042d23efbafc7924f394dd04", null ],
-    [ "UpdateAI", "d4/d76/a24414.html#ae5cd38aa2a9cc1727141298323639660", null ],
-    [ "resetTimer", "d4/d76/a24414.html#a0d2649de651279fa6bbe3ae2f18571bb", null ],
-    [ "tapped", "d4/d76/a24414.html#af6412de701f14a7eb325e1aaf33f28cc", null ],
-    [ "tuberGUID", "d4/d76/a24414.html#a2deaa1aeed26b862e93055d90c9139d6", null ]
+    [ "npc_illidari_spawnAI", "d4/d76/a24414.html#a704c1d3e07d028b04e2bddee37039941", null ],
+    [ "JustDied", "d4/d76/a24414.html#a27277d90d4a58a89386a39f4affbaee8", null ],
+    [ "JustEngagedWith", "d4/d76/a24414.html#add4ea6366614e9fb86e85613bfb910ba", null ],
+    [ "Reset", "d4/d76/a24414.html#a5347858d5da4f0718479b1d702125366", null ],
+    [ "UpdateAI", "d4/d76/a24414.html#af392a545b3dccb7a7c89780d2818a7a7", null ],
+    [ "LordIllidanGUID", "d4/d76/a24414.html#a11b411dd0b5a32a7bdd0c44242a42372", null ],
+    [ "SpellTimer1", "d4/d76/a24414.html#afbf1b352275c0fd16fdf252eac9e0c4a", null ],
+    [ "SpellTimer2", "d4/d76/a24414.html#a644616bab96e1bd9bbe2500bf1b14988", null ],
+    [ "SpellTimer3", "d4/d76/a24414.html#a9889f9673292613dc46387862f3e8849", null ],
+    [ "Timers", "d4/d76/a24414.html#a1e48e4dea7bc1ba0f3d6be2f03b6813e", null ]
 ];

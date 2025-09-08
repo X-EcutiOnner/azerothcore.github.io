@@ -1,7 +1,5 @@
 var a16794 =
 [
-    [ "HandleAfterEffectAbsorb", "d2/dc3/a16794.html#a6999f9cade8d00da15073c1e1b37d07b", null ],
-    [ "PrepareAuraScript", "d2/dc3/a16794.html#a2374af6552e5aca9dd01681d5ad06a83", null ],
-    [ "Register", "d2/dc3/a16794.html#a7478b0448cafc10d2b2498d2fdbd5afc", null ],
-    [ "Validate", "d2/dc3/a16794.html#a52154be21f31d69e7e9b10e57f8eeb05", null ]
+    [ "boss_fjolaAI", "d2/dc3/a16794.html#aa46fdff841d01f28ef50aa5363082f71", null ],
+    [ "JustSummoned", "d2/dc3/a16794.html#a59a3f2453f923d4f19c63e88402d1a76", null ]
 ];

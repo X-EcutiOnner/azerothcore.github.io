@@ -1,6 +1,6 @@
 var a21686 =
 [
-    [ "npc_khunok_the_behemothAI", "d7/d36/a21690.html", "d7/d36/a21690" ],
-    [ "npc_khunok_the_behemoth", "d4/d59/a21686.html#a0370959631c00581495dbd7c37263236", null ],
-    [ "GetAI", "d4/d59/a21686.html#a201aa35dd119d23126b192a1e3786c09", null ]
+    [ "npc_violet_hold_defense_system", "d4/d59/a21686.html#abb5eb275e803201aad3010ad77aa4b41", null ],
+    [ "Reset", "d4/d59/a21686.html#a77925ae6097f7a52d446ee20bbb3de62", null ],
+    [ "UpdateAI", "d4/d59/a21686.html#ab39bc3da2d7ce33be1e27cd48fc16e89", null ]
 ];

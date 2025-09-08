@@ -1,7 +1,6 @@
 var a17346 =
 [
-    [ "HandleDummy", "d9/ddf/a17346.html#ab614c27fbeb0fc6cac42c3e8f981e11d", null ],
-    [ "PrepareSpellScript", "d9/ddf/a17346.html#a3ef0564565ea49265800422c835432b0", null ],
-    [ "Register", "d9/ddf/a17346.html#a7b685926a8d511397889616e97bbd563", null ],
-    [ "Validate", "d9/ddf/a17346.html#aecd40c136e44dfc9c5e4dd572d577578", null ]
+    [ "boss_drakkari_elementalAI", "d5/d7a/a17350.html", "d5/d7a/a17350" ],
+    [ "boss_drakkari_elemental", "d9/ddf/a17346.html#a143dd5d52ea7bb3c3c1d96da45af81ee", null ],
+    [ "GetAI", "d9/ddf/a17346.html#aab2f9c71ddb77164bd644d18b9e88313", null ]
 ];

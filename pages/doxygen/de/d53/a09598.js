@@ -1,7 +1,28 @@
 var a09598 =
 [
-    [ "AddonHandler", "de/d53/a09598.html#a3e52b0fc5ca99a3f5d83ee6d34e16520", null ],
-    [ "~AddonHandler", "de/d53/a09598.html#a8e4fc7c1cae505850a907e70a9febbf0", null ],
-    [ "BuildAddonPacket", "de/d53/a09598.html#aca92dc80033c299daf8e3b42dd24ffea", null ],
-    [ "instance", "de/d53/a09598.html#a2925b829b803dd07e96685086357ef85", null ]
+    [ "MoveItemData", "de/d53/a09598.html#a175034d78526f6fe0db2011839cffe67", null ],
+    [ "~MoveItemData", "de/d53/a09598.html#a37136a6cc61c9b4dcd577c5339ff3e68", null ],
+    [ "CanStore", "de/d53/a09598.html#a5a25c36d2d40db0468eaa58fbd9144c2", null ],
+    [ "CanStore", "de/d53/a09598.html#afd90cf06d58b78ae1a5635871f3ff3a4", null ],
+    [ "CheckItem", "de/d53/a09598.html#a920092a4e0d79f84055841ac9ea606de", null ],
+    [ "CloneItem", "de/d53/a09598.html#ad4c8450b5230d3758358d05b35c633ac", null ],
+    [ "CopySlots", "de/d53/a09598.html#abd84ed9a9b8761efda729820a63d6e96", null ],
+    [ "GetContainer", "de/d53/a09598.html#a8517355a3d243b4afd3826d093ddb7a3", null ],
+    [ "GetItem", "de/d53/a09598.html#a6fd3bdcac70ba672607b089de53e1a58", null ],
+    [ "GetSlotId", "de/d53/a09598.html#a8242dcd304dbd50d2fa6e2d3712a5a58", null ],
+    [ "HasStoreRights", "de/d53/a09598.html#a9af6bf223fa440f138308200707a88fb", null ],
+    [ "HasWithdrawRights", "de/d53/a09598.html#a9a3a415b8449669b8b738bed068997a2", null ],
+    [ "InitItem", "de/d53/a09598.html#ae07f5a2a435dca9c762690b7a55da740", null ],
+    [ "IsBank", "de/d53/a09598.html#acd5b03ccd86cd16b477f9df7afde1c08", null ],
+    [ "LogAction", "de/d53/a09598.html#a3bf71e11d661dafa38e0a0d590fb1df0", null ],
+    [ "LogBankEvent", "de/d53/a09598.html#a767910636c7de4a536d1eb54e1967c1a", null ],
+    [ "RemoveItem", "de/d53/a09598.html#afc8beaaaea26c3439364c083d3907b84", null ],
+    [ "StoreItem", "de/d53/a09598.html#a3f69885a4d24609848f904092d5e9399", null ],
+    [ "m_container", "de/d53/a09598.html#add3ef514f68db7f0c93e6a07a95b0340", null ],
+    [ "m_pClonedItem", "de/d53/a09598.html#a1107940e15604337a2a7bc3a839c1e58", null ],
+    [ "m_pGuild", "de/d53/a09598.html#a7e8085f102e8217d015a10c3f1b05316", null ],
+    [ "m_pItem", "de/d53/a09598.html#a860f0cd1743a014450a82821d7cd737d", null ],
+    [ "m_pPlayer", "de/d53/a09598.html#a1914b960d8990c651e46a50951f5ab42", null ],
+    [ "m_slotId", "de/d53/a09598.html#a5b77825a637d5c9476239fc19c12f0cc", null ],
+    [ "m_vec", "de/d53/a09598.html#a190c6110c353bbe91b9b407c59478967", null ]
 ];

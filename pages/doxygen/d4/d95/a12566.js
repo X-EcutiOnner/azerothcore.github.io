@@ -1,6 +1,10 @@
 var a12566 =
 [
-    [ "boss_magmadarAI", "d4/d95/a12566.html#a47207fdd6eb94fb08791da06cd4160f6", null ],
-    [ "ExecuteEvent", "d4/d95/a12566.html#a7d4c1807cb320fdc331057209a4ce166", null ],
-    [ "JustEngagedWith", "d4/d95/a12566.html#a5ce1495d01f28e0a38f00127e7137a4f", null ]
+    [ "npc_core_ragerAI", "d4/d95/a12566.html#a3c5125e0a10043f6181c10ba749fa579", null ],
+    [ "DamageTaken", "d4/d95/a12566.html#a758eb158eb9d232d74514281028efcb3", null ],
+    [ "Reset", "d4/d95/a12566.html#acf83e469d3d8108276227a942fda28b3", null ],
+    [ "UpdateAI", "d4/d95/a12566.html#a2183cf5ab22b737413b86a657fde6d3c", null ],
+    [ "instance", "d4/d95/a12566.html#a7cfddba62f737214b8cfc7fbffa8c2e2", null ],
+    [ "mangleTimer", "d4/d95/a12566.html#a081333b967abb3812b9ddae2f933a324", null ],
+    [ "rangeCheckTimer", "d4/d95/a12566.html#ade427bdd9ec99807b6f190c890136414", null ]
 ];

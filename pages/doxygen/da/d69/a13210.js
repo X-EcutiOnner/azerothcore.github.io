@@ -1,6 +1,7 @@
 var a13210 =
 [
-    [ "instance_scarlet_monastery_InstanceMapScript", "d2/d65/a13214.html", "d2/d65/a13214" ],
-    [ "instance_scarlet_monastery", "da/d69/a13210.html#a8f068ebd98bd81dbb60dbccd795f1f3f", null ],
-    [ "GetInstanceScript", "da/d69/a13210.html#a1c66031217457809fbe56303085715a0", null ]
+    [ "OnApply", "da/d69/a13210.html#a21450cd59487a927bbc0a5a5e1ffa72b", null ],
+    [ "OnRemove", "da/d69/a13210.html#a810203874163cf04798c3edbe69b747e", null ],
+    [ "PrepareAuraScript", "da/d69/a13210.html#a3c17a7366acd9bd1863bae0f9218930a", null ],
+    [ "Register", "da/d69/a13210.html#af2ad52165de188897fdeb8d62646b7cc", null ]
 ];

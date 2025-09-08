@@ -1,7 +1,6 @@
 var a22142 =
 [
-    [ "HandleScript", "d8/d2b/a22142.html#a95de3ae27cfd764380ab1648b49af38d", null ],
-    [ "Load", "d8/d2b/a22142.html#a1aafe141985bc1e9c5b9467d4896d96b", null ],
-    [ "PrepareSpellScript", "d8/d2b/a22142.html#a442138710213b9b120d8ce57b733205a", null ],
-    [ "Register", "d8/d2b/a22142.html#af9d8f764a6a02737f8b559f067156df6", null ]
+    [ "npc_venture_co_stragglerAI", "da/d7b/a22146.html", "da/d7b/a22146" ],
+    [ "npc_venture_co_straggler", "d8/d2b/a22142.html#a9d928b33dfcd3a6ccb7e1f7a1964762f", null ],
+    [ "GetAI", "d8/d2b/a22142.html#a5f95d20c67553ae8a27f00ebb92e3627", null ]
 ];

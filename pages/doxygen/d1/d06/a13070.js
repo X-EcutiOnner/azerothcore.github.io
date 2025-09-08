@@ -1,7 +1,11 @@
 var a13070 =
 [
-    [ "npc_scarlet_cannonAI", "d1/d06/a13070.html#a26720b34088b8063544f8c5db3b8d67c", null ],
-    [ "PassengerBoarded", "d1/d06/a13070.html#a71241dfc9b3ebe1f664d0adf03439c41", null ],
-    [ "UpdateAI", "d1/d06/a13070.html#a18ebb585e9b83f3781d3c49de5dc73b5", null ],
-    [ "summonAttackers", "d1/d06/a13070.html#a9e8eeb6995dae9a9d9ec3cb0ca6a07f5", null ]
+    [ "npc_scarlet_ghoulAI", "d1/d06/a13070.html#a194795143717de5aa8f0ca4c4e516136", null ],
+    [ "InitializeAI", "d1/d06/a13070.html#ad0fd204d15350332508b0c9d9decefb1", null ],
+    [ "MovementInform", "d1/d06/a13070.html#a9836c91a7dede1fabd1e0a9523ebd26a", null ],
+    [ "OwnerAttackedBy", "d1/d06/a13070.html#a5b0afc1f2ee57a1cc5e30b8e997ba218", null ],
+    [ "SetGUID", "d1/d06/a13070.html#a832602498643a03087efbc0a5a2f81c3", null ],
+    [ "UpdateAI", "d1/d06/a13070.html#adbe4d539552e7954c7bdb8e520cb9783", null ],
+    [ "events", "d1/d06/a13070.html#a105ac0982d28be590d514d2e452109c0", null ],
+    [ "gothikGUID", "d1/d06/a13070.html#ab5efaf2e030f92d7ab45de8b5d19804d", null ]
 ];

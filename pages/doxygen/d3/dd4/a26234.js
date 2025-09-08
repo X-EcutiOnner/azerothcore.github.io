@@ -1,6 +1,6 @@
 var a26234 =
 [
-    [ "HandleRemove", "d3/dd4/a26234.html#a491765056e8c4d97d9cdaaea9d11a0af", null ],
-    [ "PrepareAuraScript", "d3/dd4/a26234.html#abe5d45b960fda879f48e3e98db9ad4ac", null ],
-    [ "Register", "d3/dd4/a26234.html#ab00f3119d6c1bd1ad185374144f2987e", null ]
+    [ "HandleDummy", "d3/dd4/a26234.html#acb433ef020fbd090259ac969a35842ea", null ],
+    [ "PrepareSpellScript", "d3/dd4/a26234.html#a9440e067db7bc5c48c973dfd61f1a95e", null ],
+    [ "Register", "d3/dd4/a26234.html#a349e674aa5e07f59dc0a0d78a25aa0cd", null ]
 ];

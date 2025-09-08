@@ -1,10 +1,8 @@
 var a09774 =
 [
-    [ "DoublePosition", "de/d09/a09778.html", "de/d09/a09778" ],
-    [ "~AreaBoundary", "d2/d64/a09774.html#a6050e91b3d485e75186a2df9a56e8d38", null ],
-    [ "AreaBoundary", "d2/d64/a09774.html#adf670910c492c08d3384c2dd1824e7ce", null ],
-    [ "IsWithinBoundary", "d2/d64/a09774.html#aac0ce1e801f3de8f3bb83b98ecd6e5c1", null ],
-    [ "IsWithinBoundary", "d2/d64/a09774.html#a1d407f77ce0388263fc0ee6224734213", null ],
-    [ "IsWithinBoundaryArea", "d2/d64/a09774.html#ae5580b0044dba24d100831fe51ee1abc", null ],
-    [ "_isInvertedBoundary", "d2/d64/a09774.html#ad416f29594688ce670549d6fdcce4314", null ]
+    [ "ServerMailCondition", "d2/d64/a09774.html#a2ee7d2f3587159c95883fe32674cb586", null ],
+    [ "CheckCondition", "d2/d64/a09774.html#a3c223658629357f05d8879555717f624", null ],
+    [ "state", "d2/d64/a09774.html#a309f739872afaf644331335b27649561", null ],
+    [ "type", "d2/d64/a09774.html#a3b318e7743ca48fcf8ba849398a06968", null ],
+    [ "value", "d2/d64/a09774.html#af709199aed99633cc70d9118ee4fd4fc", null ]
 ];

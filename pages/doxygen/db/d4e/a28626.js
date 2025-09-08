@@ -1,6 +1,7 @@
 var a28626 =
 [
-    [ "categoryMask", "db/d4e/a28626.html#abd8816e5dda7bda455ccd6932647c4be", null ],
-    [ "categoryType", "db/d4e/a28626.html#a954f9fca8d0d84d5aec66f4a3f642f96", null ],
-    [ "ID", "db/d4e/a28626.html#a2e0f0cb7a05da77dee49bd7221c01d60", null ]
+    [ "ClassMask", "db/d4e/a28626.html#acae4582c147b5fd95780ae7b55d36fdc", null ],
+    [ "petTalentMask", "db/d4e/a28626.html#a22ab1cf8ad05e57d91a63e3876ae2b77", null ],
+    [ "tabpage", "db/d4e/a28626.html#aa6389276582adeb4cae76c257734795c", null ],
+    [ "TalentTabID", "db/d4e/a28626.html#ae3a71c61223b59185365819164715dc2", null ]
 ];

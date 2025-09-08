@@ -1,7 +1,8 @@
 var a12526 =
 [
-    [ "HandleHit", "d7/d6a/a12526.html#a18f86449945ade16140ee934a7d8703e", null ],
-    [ "PrepareSpellScript", "d7/d6a/a12526.html#abaf09043858db27b05fbe544d7a15a8f", null ],
-    [ "Register", "d7/d6a/a12526.html#abe0733be2e32ff616c48acaeeb1d39e9", null ],
-    [ "Validate", "d7/d6a/a12526.html#abc970a8b4a8f27f81f392cebf81dc574", null ]
+    [ "boss_garrAI", "d7/d6a/a12526.html#a12d403a90bf4920763ddd87b252f544a", null ],
+    [ "JustEngagedWith", "d7/d6a/a12526.html#a3b2bf0e6d3b6b32c450d03b1c88f3850", null ],
+    [ "Reset", "d7/d6a/a12526.html#acb14e869dac8e7df83b5b9d858cd2b21", null ],
+    [ "UpdateAI", "d7/d6a/a12526.html#aca82837e143f4509db221de15276b90c", null ],
+    [ "massEruptionTimer", "d7/d6a/a12526.html#ab807c47afd1ba8320730c3aa733e1b15", null ]
 ];

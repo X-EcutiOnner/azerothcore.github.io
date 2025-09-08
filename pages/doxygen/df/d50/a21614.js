@@ -1,8 +1,10 @@
 var a21614 =
 [
-    [ "npc_azure_mage_slayerAI", "df/d50/a21614.html#af1a57574d70a48b16d70d8a056f54018", null ],
-    [ "Reset", "df/d50/a21614.html#aabe921f0d4fd147c457779791a7af619", null ],
-    [ "UpdateAI", "df/d50/a21614.html#a7cc5ea88be6c9cf767a0cd433db7dd73", null ],
-    [ "uiArcaneEmpowermentTimer", "df/d50/a21614.html#ace0fdd5e4b57e7ce603d2355bfc838dd", null ],
-    [ "uiSpellLockTimer", "df/d50/a21614.html#ac3c4d2be0dd9ba42e40adccda7100947", null ]
+    [ "npc_azure_invaderAI", "df/d50/a21614.html#a85f164a6ba24d7a14d77264441a78f46", null ],
+    [ "Reset", "df/d50/a21614.html#ada44600272b19d9416d957bc52bc3be4", null ],
+    [ "UpdateAI", "df/d50/a21614.html#a7dfdcb2a88930c6b4150f7f7c825a2df", null ],
+    [ "uiBrutalStrikeTimer", "df/d50/a21614.html#a4b88a85f3344edbdadde0104668509aa", null ],
+    [ "uiCleaveTimer", "df/d50/a21614.html#a8b1792a8a405651d602d9ed634f52689", null ],
+    [ "uiImpaleTimer", "df/d50/a21614.html#aa709ee8919a2d0317d563259c7630c99", null ],
+    [ "uiSunderArmorTimer", "df/d50/a21614.html#ab2e6d01df033985ac29e963cf2895466", null ]
 ];

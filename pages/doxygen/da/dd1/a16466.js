@@ -1,11 +1,11 @@
 var a16466 =
 [
-    [ "npc_toc5_grand_champion_minionAI", "da/dd1/a16466.html#a06ff16fe0076de4e34ba20e0bbc49009", null ],
-    [ "JustDied", "da/dd1/a16466.html#a23e5001255c6d49a6b217b9606aa53c5", null ],
-    [ "JustEngagedWith", "da/dd1/a16466.html#a37a04ac2d6f30e415410f3806abaabb8", null ],
-    [ "Reset", "da/dd1/a16466.html#ad35a26c28485b1976c55d49fcd32fb19", null ],
-    [ "UpdateAI", "da/dd1/a16466.html#a2b9fdd3daa725921819ae2acee418d51", null ],
-    [ "events", "da/dd1/a16466.html#a1b405c2acd53a4e5f1179f52c8c2261b", null ],
-    [ "pInstance", "da/dd1/a16466.html#a6edd3dc8070edd031143e7a750f4d7a8", null ],
-    [ "ShieldTimer", "da/dd1/a16466.html#a080916d385f4157afbe4c455033b88ba", null ]
+    [ "npc_black_knight_ghoulAI", "da/dd1/a16466.html#a6e108052a7f9911dcd1b0ed13b2b8a0f", null ],
+    [ "JustEngagedWith", "da/dd1/a16466.html#a8353dea0de91017223c7624a5a96ebec", null ],
+    [ "Reset", "da/dd1/a16466.html#a8a33efa0719063a9565bc07143f8ad83", null ],
+    [ "SpellHit", "da/dd1/a16466.html#aa1b1fbb1a4633831774c7a7dd5cbb546", null ],
+    [ "SpellHitTarget", "da/dd1/a16466.html#a5f106a3b0edf353769db9021b9ca770d", null ],
+    [ "UpdateAI", "da/dd1/a16466.html#a6ccdb6a59b93999c01d434bcda593f25", null ],
+    [ "events", "da/dd1/a16466.html#acb56826a164e4d7da0a2f04c1efaf72b", null ],
+    [ "pInstance", "da/dd1/a16466.html#a35b8375f1b3407f5cee653ee118e0697", null ]
 ];

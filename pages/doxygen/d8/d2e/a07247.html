@@ -104,20 +104,29 @@ $(document).ready(function(){initNavTree('df/d87/a07250.html','../../'); initRes
 </div>
 
 <div class="header">
-  <div class="headertitle"><div class="title">ArenaSeasonTeamRewarder Member List</div></div>
+  <div class="headertitle"><div class="title">ArenaTeamScore Member List</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p>This is the complete list of members for <a class="el" href="../../df/d87/a07250.html">ArenaSeasonTeamRewarder</a>, including all inherited members.</p>
+<p>This is the complete list of members for <a class="el" href="../../df/d87/a07250.html">ArenaTeamScore</a>, including all inherited members.</p>
 <table class="directory">
-  <tr class="even"><td class="entry"><a class="el" href="../../df/d87/a07250.html#a2beaf893f95e16c4d388ad048885848b">RewardTeamWithRewardGroup</a>(ArenaTeam *arenaTeam, ArenaSeasonRewardGroup const &amp;rewardGroup)=0</td><td class="entry"><a class="el" href="../../df/d87/a07250.html">ArenaSeasonTeamRewarder</a></td><td class="entry"><span class="mlabel">pure virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../df/d87/a07250.html#a8f7eb844a39cd5213134ef4f4d4b1fde">~ArenaSeasonTeamRewarder</a>()=default</td><td class="entry"><a class="el" href="../../df/d87/a07250.html">ArenaSeasonTeamRewarder</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../df/d87/a07250.html#a5f488c25aa439166d145713c67e7d085">Arena</a></td><td class="entry"><a class="el" href="../../df/d87/a07250.html">ArenaTeamScore</a></td><td class="entry"><span class="mlabel">friend</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../df/d87/a07250.html#a017cd1a4d90a466b42aeab8ff1a12f3a">ArenaTeamScore</a>()=default</td><td class="entry"><a class="el" href="../../df/d87/a07250.html">ArenaTeamScore</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../df/d87/a07250.html#a28c3a055e1ad69693470f38fe676f0c6">Assign</a>(int32 ratingChange, uint32 matchMakerRating, std::string_view teamName)</td><td class="entry"><a class="el" href="../../df/d87/a07250.html">ArenaTeamScore</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">protected</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../df/d87/a07250.html#a0c4048053f5f5cabe5bfbfdde8eded86">Battleground</a></td><td class="entry"><a class="el" href="../../df/d87/a07250.html">ArenaTeamScore</a></td><td class="entry"><span class="mlabel">friend</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../df/d87/a07250.html#ae3e2b8e8a29c50ca20a42a0364349764">BuildRatingInfoBlock</a>(WorldPacket &amp;data)</td><td class="entry"><a class="el" href="../../df/d87/a07250.html">ArenaTeamScore</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../df/d87/a07250.html#aa876e0cf0b36f8fdb9efe8989092f143">BuildTeamInfoBlock</a>(WorldPacket &amp;data)</td><td class="entry"><a class="el" href="../../df/d87/a07250.html">ArenaTeamScore</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../df/d87/a07250.html#a1e82169562a459371f973932d22e2f15">MatchmakerRating</a></td><td class="entry"><a class="el" href="../../df/d87/a07250.html">ArenaTeamScore</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../df/d87/a07250.html#a61c85f158b767a6c81de87d7ad5007db">RatingChange</a></td><td class="entry"><a class="el" href="../../df/d87/a07250.html">ArenaTeamScore</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../df/d87/a07250.html#a90611fd5e656d2d62917003ff0a5ff00">Reset</a>()</td><td class="entry"><a class="el" href="../../df/d87/a07250.html">ArenaTeamScore</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">protected</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../df/d87/a07250.html#ab99de3b9213f3ccab1791858df6aa3e8">TeamName</a></td><td class="entry"><a class="el" href="../../df/d87/a07250.html">ArenaTeamScore</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../df/d87/a07250.html#ade081f31c498ee03a80f73fe70a56cc7">~ArenaTeamScore</a>()=default</td><td class="entry"><a class="el" href="../../df/d87/a07250.html">ArenaTeamScore</a></td><td class="entry"><span class="mlabel">protected</span><span class="mlabel">virtual</span></td></tr>
 </table></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Mon Sep 1 2025 20:43:29 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Sep 8 2025 20:44:34 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

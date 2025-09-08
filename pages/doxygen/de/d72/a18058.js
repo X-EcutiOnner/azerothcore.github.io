@@ -1,7 +1,6 @@
 var a18058 =
 [
-    [ "HandleExtraEffect", "de/d72/a18058.html#a8fbfac8e62d2534daf40194f7fe31945", null ],
-    [ "PrepareAuraScript", "de/d72/a18058.html#a45e83b3bfa344391bb87c8088ae1c6a7", null ],
-    [ "Register", "de/d72/a18058.html#a5ec23a02a4e617e6db8cf17d2bd36aff", null ],
-    [ "Validate", "de/d72/a18058.html#a2e7253cfc18b66d663457c2fb7ab3302", null ]
+    [ "PrepareSpellScript", "de/d72/a18058.html#a16eadb50b6038f16ea28464d00df3381", null ],
+    [ "Register", "de/d72/a18058.html#ac6e304d391011863b8eff8105fab5191", null ],
+    [ "SelectDest", "de/d72/a18058.html#a8ff5d684c0b91d0f068d03698c1ee92c", null ]
 ];

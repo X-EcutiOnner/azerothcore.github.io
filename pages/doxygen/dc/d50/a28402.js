@@ -1,4 +1,4 @@
 var a28402 =
 [
-    [ "ratio", "dc/d50/a28402.html#ad3cdf9a27817d39d05b8b785f5ba5ac7", null ]
+    [ "base", "dc/d50/a28402.html#ad5e8b55760b9007284e8acf719d7647c", null ]
 ];

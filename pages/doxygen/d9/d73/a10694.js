@@ -1,7 +1,6 @@
 var a10694 =
 [
-    [ "GuildBankBuyTab", "d9/d73/a10694.html#af2195db72eeaefea13c958e5ef62c411", null ],
-    [ "Read", "d9/d73/a10694.html#a502153232a314d099ed43e1101bdfc1f", null ],
-    [ "Banker", "d9/d73/a10694.html#a46f3b910aa6d69f4a82c7a603f9f0fb3", null ],
-    [ "BankTab", "d9/d73/a10694.html#a5df7be995a177706fa364e31a6f8df1e", null ]
+    [ "GuildPromoteMember", "d9/d73/a10694.html#af623a381aa80e827c2c29987501626ae", null ],
+    [ "Read", "d9/d73/a10694.html#a3350c1a8c81aa1368a254288849b462b", null ],
+    [ "Promotee", "d9/d73/a10694.html#af8addf6e9bc45364f595582e8f285cde", null ]
 ];

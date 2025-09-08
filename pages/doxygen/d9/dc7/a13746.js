@@ -1,12 +1,10 @@
 var a13746 =
 [
-    [ "npc_sentinel_infiltrator", "d9/dc7/a13746.html#a40ce6808a4d0622eb88a669485335020", null ],
-    [ "Initialize", "d9/dc7/a13746.html#acc94269a3ede4c897f457a270e9a9c12", null ],
-    [ "JustEngagedWith", "d9/dc7/a13746.html#a2c9927468b92d00b60efac851eacfef1", null ],
-    [ "MovementInform", "d9/dc7/a13746.html#a57aef1c4ce7a491408c2c6b19d4d4cf2", null ],
-    [ "Reset", "d9/dc7/a13746.html#a0f26dbe23efdf572f81723dff1d3eeaf", null ],
-    [ "UpdateAI", "d9/dc7/a13746.html#ac676246948689c891c0f9cca7f8bc8b6", null ],
-    [ "_events", "d9/dc7/a13746.html#a296d6c70b6c439319cc69a9d39005e62", null ],
-    [ "_fleedForAssistance", "d9/dc7/a13746.html#a948c9d2081b33e18aa927fb18598c8ad", null ],
-    [ "_path", "d9/dc7/a13746.html#a32d531478df327ccb0bb85e262420813", null ]
+    [ "npc_partygoer_pather", "d9/dc7/a13746.html#a15a0e517e8671afb9d636ebe781a4bcd", null ],
+    [ "Initialize", "d9/dc7/a13746.html#afb114b0587c550e39c41e131364da663", null ],
+    [ "PathEndReached", "d9/dc7/a13746.html#a55833d306716ba411f96ecd024cc7c72", null ],
+    [ "Reset", "d9/dc7/a13746.html#ade2cc36ff49001138eee5b607ec83b12", null ],
+    [ "UpdateAI", "d9/dc7/a13746.html#a4d222399b6b789e7a2a2faa4765116a6", null ],
+    [ "_events", "d9/dc7/a13746.html#ac210dc0286ded980e78743237a08bb23", null ],
+    [ "_path", "d9/dc7/a13746.html#a4da184c44858e99eca2b07193fd48f13", null ]
 ];

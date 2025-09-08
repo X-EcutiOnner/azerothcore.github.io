@@ -1,5 +1,7 @@
 var a10366 =
 [
-    [ "MailScript", "db/da6/a10366.html#a009eaf9dd8d44427e8e5c91a92ebb5c5", null ],
-    [ "OnBeforeMailDraftSendMailTo", "db/da6/a10366.html#ab4e3f0552ffc705ef44e8ca6c36f2be7", null ]
+    [ "InstanceMapScript", "db/da6/a10366.html#a350d328f82cc5e7ea43f3c8779d25a67", null ],
+    [ "checkValidity", "db/da6/a10366.html#a221dd91e2d2f761e66d990a6cae42306", null ],
+    [ "GetInstanceScript", "db/da6/a10366.html#aa5a9acfc5a7c81a4953fe0e296f9bcc8", null ],
+    [ "IsDatabaseBound", "db/da6/a10366.html#ab77651bb427813a7e119057c3dc53ca8", null ]
 ];

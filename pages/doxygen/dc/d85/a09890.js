@@ -1,12 +1,7 @@
 var a09890 =
 [
-    [ "TransportTemplate", "dc/d85/a09890.html#aef4781a37808827e3ceaffc782c3af1e", null ],
-    [ "~TransportTemplate", "dc/d85/a09890.html#afc385d824c171d13a184bc0a16121110", null ],
-    [ "accelDist", "dc/d85/a09890.html#a558f3611434dbe13239834fa2f2ec6b4", null ],
-    [ "accelTime", "dc/d85/a09890.html#aea9903b7c5643061dc9f401e78d3dfd3", null ],
-    [ "entry", "dc/d85/a09890.html#a7b6837ef812eadb353c00cfeb2426e99", null ],
-    [ "inInstance", "dc/d85/a09890.html#a971c84762c229b01cab656945f0c16de", null ],
-    [ "keyFrames", "dc/d85/a09890.html#ac714531f226ca06c3586cf3f6cc06808", null ],
-    [ "mapsUsed", "dc/d85/a09890.html#a93899b0648871ed8ca32dfe8394347c1", null ],
-    [ "pathTime", "dc/d85/a09890.html#a9d6a612652af64e8b4dd5cbb81ed0d71", null ]
+    [ "LFGUpdateRequest", "dc/d85/a09890.html#a85900fc44d5dfb5595fbe7dc3422dfaa", null ],
+    [ "call", "dc/d85/a09890.html#a15258001db5870a0f52bb0c72cba3587", null ],
+    [ "m_diff", "dc/d85/a09890.html#a27e818e5d985ac91be6eca14a1ebd73f", null ],
+    [ "m_updater", "dc/d85/a09890.html#a1bb4423241495aebab83ebc1acf66510", null ]
 ];

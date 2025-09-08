@@ -1,6 +1,7 @@
 var a16346 =
 [
-    [ "HandleHealPct", "da/db0/a16346.html#ad13b3924815ac3da7902c8292a760943", null ],
-    [ "PrepareSpellScript", "da/db0/a16346.html#aeea718bce7dd5aa4ac33bbd1a95a65c0", null ],
-    [ "Register", "da/db0/a16346.html#a3016c31c072d6417bbe47c2891059718", null ]
+    [ "TwilightCutterSelector", "da/db0/a16346.html#accea6e932c44d083fbb4dc41c5102b3d", null ],
+    [ "operator()", "da/db0/a16346.html#a6374425df156bdf202d53a2c73ef784c", null ],
+    [ "_caster", "da/db0/a16346.html#a784c95ef6472e711f4200f194222d179", null ],
+    [ "_cutterCaster", "da/db0/a16346.html#a7f713777a36a8d127c2865e4610b1288", null ]
 ];

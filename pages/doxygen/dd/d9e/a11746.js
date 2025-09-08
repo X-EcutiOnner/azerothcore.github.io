@@ -1,8 +1,10 @@
 var a11746 =
 [
-    [ "accountId", "dd/d9e/a11746.html#ad146b84be01ec07a5fee8184f0cc2da9", null ],
-    [ "accountName", "dd/d9e/a11746.html#a4849bd1f43fd15eea1991948abdc576d", null ],
-    [ "deleteDate", "dd/d9e/a11746.html#a65a101727094841d34e8775bb7504cba", null ],
-    [ "lowGuid", "dd/d9e/a11746.html#a11fd07e662184f750ac0a5e547a22437", null ],
-    [ "name", "dd/d9e/a11746.html#a0e85dce38305e222c5654315ed68bfc1", null ]
+    [ "bf_commandscript", "dd/d9e/a11746.html#a806ca440ae1b51fffefee9d298dab3df", null ],
+    [ "GetCommands", "dd/d9e/a11746.html#a97f0192d7ccd3532cfceaebff9f242be", null ],
+    [ "HandleBattlefieldEnable", "dd/d9e/a11746.html#a08dd3bdd279c760fe0f126200a01619e", null ],
+    [ "HandleBattlefieldEnd", "dd/d9e/a11746.html#af7100032ad26a66fbc9d9b37d1da98e1", null ],
+    [ "HandleBattlefieldStart", "dd/d9e/a11746.html#a55102cc3b29a3ded0832ec82be1e3a5e", null ],
+    [ "HandleBattlefieldSwitch", "dd/d9e/a11746.html#ac12cac377007d90b25b9797f2b2cc8de", null ],
+    [ "HandleBattlefieldTimer", "dd/d9e/a11746.html#a7168b3db9435d70e2c5ca5eb41fc8ef2", null ]
 ];

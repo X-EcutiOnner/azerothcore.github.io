@@ -1,6 +1,9 @@
 var a25374 =
 [
-    [ "CalculateAmount", "d8/dbe/a25374.html#a0522f4bf54b4a71df4e09f97a28fda45", null ],
-    [ "PrepareAuraScript", "d8/dbe/a25374.html#acf699e467734499dd992f401da38cf88", null ],
-    [ "Register", "d8/dbe/a25374.html#a6e6396a162a532ff25b9bd7c551f05d8", null ]
+    [ "spell_gen_lifebloom", "d8/dbe/a25374.html#a5cb52a4dda841d9d31fd00a31ddc3350", null ],
+    [ "AfterRemove", "d8/dbe/a25374.html#aea962f603e56c1bd33fccaef0c89d917", null ],
+    [ "PrepareAuraScript", "d8/dbe/a25374.html#ac11134bdc3588795ce6e256c5b02055f", null ],
+    [ "Register", "d8/dbe/a25374.html#ab4a552402ee9f90834320d6fc668cff3", null ],
+    [ "Validate", "d8/dbe/a25374.html#a599634d92b92a5635b89733b7bb3c3c8", null ],
+    [ "_spellId", "d8/dbe/a25374.html#a196484d01d2dc07163e18fdca9f60ca9", null ]
 ];

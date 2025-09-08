@@ -1,8 +1,7 @@
 var a28278 =
 [
-    [ "ID", "d3/d6c/a28278.html#a36958c346c8554d9ab1cfb73ac583818", null ],
-    [ "Model", "d3/d6c/a28278.html#a8877a066a16c8c246a2d5a24a3661e56", null ],
-    [ "Origin", "d3/d6c/a28278.html#a684c69add50ee545ee606ae456a93336", null ],
-    [ "OriginFacing", "d3/d6c/a28278.html#a460723250353c7720cd87677991283cf", null ],
-    [ "SoundID", "d3/d6c/a28278.html#aa56be05c7ab4015738e049d75ff365c6", null ]
+    [ "Class", "d3/d6c/a28278.html#abaaa0cd4d1b7f3ef5b297c5afdbc99fe", null ],
+    [ "Gender", "d3/d6c/a28278.html#aba6251a7020c6e66b9fc7a21859df271", null ],
+    [ "ItemId", "d3/d6c/a28278.html#a7d17ef6151f6b746223e44164ab5c20d", null ],
+    [ "Race", "d3/d6c/a28278.html#aee768679c4b8ee7cd28ea3fa899206e3", null ]
 ];

@@ -1,5 +1,9 @@
 var a20770 =
 [
-    [ "achievement_iron_dwarf_medium_rare", "d9/d51/a20770.html#afb3716aab7693ba0493db24999e4b1ee", null ],
-    [ "OnCheck", "d9/d51/a20770.html#aabef3a345057265ac70c6cc0c98d552d", null ]
+    [ "npc_ulduar_dark_rune_watcherAI", "d9/d51/a20770.html#a2239253c2c4760b130ace4a07ef1e8c4", null ],
+    [ "CanAIAttack", "d9/d51/a20770.html#a891e354dc27f0d53e06a0cf2eea46970", null ],
+    [ "Reset", "d9/d51/a20770.html#a79a1081a50ded7afc5f81ed4234be59d", null ],
+    [ "UpdateAI", "d9/d51/a20770.html#a58c5f53f74055b89c11ed27ffe908732", null ],
+    [ "timer1", "d9/d51/a20770.html#aab38ff79ca8fc867a3d6c6512d0376c8", null ],
+    [ "timer2", "d9/d51/a20770.html#a7b4eb188939c15f11a6b2532853ad798", null ]
 ];

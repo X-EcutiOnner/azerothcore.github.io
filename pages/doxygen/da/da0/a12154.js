@@ -1,6 +1,6 @@
 var a12154 =
 [
-    [ "boss_gythAI", "da/d62/a12158.html", "da/d62/a12158" ],
-    [ "boss_gyth", "da/da0/a12154.html#a286d19b0a6e317cb7e69343982b71062", null ],
-    [ "GetAI", "da/da0/a12154.html#a3706cbdd1bfb16112653d31cfa971b30", null ]
+    [ "instance_blackrock_depths_InstanceMapScript", "da/d62/a12158.html", "da/d62/a12158" ],
+    [ "instance_blackrock_depths", "da/da0/a12154.html#a8d906bdb520b2c7907b94b0e22b5cdf4", null ],
+    [ "GetInstanceScript", "da/da0/a12154.html#af8f8c9929cae50c098efc5a0dbdd727a", null ]
 ];

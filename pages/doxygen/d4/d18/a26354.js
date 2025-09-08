@@ -1,10 +1,10 @@
 var a26354 =
 [
-    [ "Absorb", "d4/d18/a26354.html#ab4006b00d415a94e6a49856cee7e272b", null ],
-    [ "CalculateAmount", "d4/d18/a26354.html#a57bfd4e7178e9e7c3df12c025d0c7d9e", null ],
-    [ "Load", "d4/d18/a26354.html#a88aa9623f587bb7b5e91da83c76f562a", null ],
-    [ "PrepareAuraScript", "d4/d18/a26354.html#a456c1bd5b284f642d1e040de52eee24b", null ],
-    [ "Register", "d4/d18/a26354.html#a905994099dcc4ac9512d5f27b78a778c", null ],
-    [ "Validate", "d4/d18/a26354.html#ad99966111a1919c610a942a8eb133ea1", null ],
-    [ "healPct", "d4/d18/a26354.html#a3b0527ce7f1fd6afaa57f942275ec81b", null ]
+    [ "CalculateAPAmount", "d4/d18/a26354.html#a611247fcbdaeeb416a8cfbaf1a0fc415", null ],
+    [ "CalculateResistanceAmount", "d4/d18/a26354.html#aa3fd9aa18ea2afa20c7c2298a8699812", null ],
+    [ "CalculateSPAmount", "d4/d18/a26354.html#a9ae59870127884029a938684786e67a9", null ],
+    [ "CalculateStatAmount", "d4/d18/a26354.html#a4ac5ffabf820d73d4a92a4a0628370e9", null ],
+    [ "HandleEffectApply", "d4/d18/a26354.html#aaca0801f75839ebd9568c4cd31011a1e", null ],
+    [ "PrepareAuraScript", "d4/d18/a26354.html#aa90952337607986eaf7485200a32c353", null ],
+    [ "Register", "d4/d18/a26354.html#a88520214bd87511b615965593f1b927f", null ]
 ];

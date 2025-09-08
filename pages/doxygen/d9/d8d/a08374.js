@@ -1,4 +1,5 @@
 var a08374 =
 [
-    [ "Name", "d9/d8d/a08374.html#aab0b8fc04dcd6a8c551f5dfc4846b290", null ]
+    [ "Color", "d9/d8d/a08374.html#ad6232c851b72ce04d2dcfa00596fc1df", null ],
+    [ "Content", "d9/d8d/a08374.html#a5437849d9b7f229c4466e174d619d057", null ]
 ];

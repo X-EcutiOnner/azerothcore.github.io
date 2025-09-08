@@ -1,6 +1,6 @@
 var a18402 =
 [
-    [ "HandleScript", "d0/d06/a18402.html#a6f9b2c00cdc050ff25ec37f5b7610c71", null ],
-    [ "PrepareSpellScript", "d0/d06/a18402.html#a5405e4547ec6cbc05acceb72d1b16530", null ],
-    [ "Register", "d0/d06/a18402.html#a172490b953b958df354394e947b7cfd0", null ]
+    [ "npc_tirion_fordringAI", "d8/dfd/a18406.html", "d8/dfd/a18406" ],
+    [ "npc_tirion_fordring_tft", "d0/d06/a18402.html#a04036d958e7ac643c9ba8d9073bca404", null ],
+    [ "GetAI", "d0/d06/a18402.html#a41dcfa415831091531cbf46e946f442d", null ]
 ];

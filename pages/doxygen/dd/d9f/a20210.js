@@ -1,6 +1,6 @@
 var a20210 =
 [
-    [ "boss_freyaAI", "d9/d98/a20214.html", "d9/d98/a20214" ],
-    [ "boss_freya", "dd/d9f/a20210.html#ae366f60526e7c948dee148cdd12f0752", null ],
-    [ "GetAI", "dd/d9f/a20210.html#a6a2f5b402e99208a535fc3f23c2a0eb3", null ]
+    [ "achievement_flame_leviathan_towers", "dd/d9f/a20210.html#a491d66bdd373b6044e406126719ef910", null ],
+    [ "OnCheck", "dd/d9f/a20210.html#ad6e9dee3f05afaca0a355b714bf75ea6", null ],
+    [ "_towerCount", "dd/d9f/a20210.html#a1099385340b30a1a75655e2e7d2ba3cc", null ]
 ];

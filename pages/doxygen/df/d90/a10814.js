@@ -1,11 +1,11 @@
 var a10814 =
 [
-    [ "BuyItemInSlot", "df/d90/a10814.html#a9a15be940d8eb216614dca5055be094a", null ],
-    [ "Read", "df/d90/a10814.html#a2608e83a41fb44c8469d2b9196702627", null ],
-    [ "BagGuid", "df/d90/a10814.html#abb9a1c7ac98c1cd848e4da8faf4e3925", null ],
-    [ "BagSlot", "df/d90/a10814.html#abdcb3b7e8a633b59d264ff1c860ec9c9", null ],
-    [ "Count", "df/d90/a10814.html#a3d057f2bdafb46887a97dbba8bb5aa04", null ],
-    [ "Item", "df/d90/a10814.html#a1fdfad3b4dd000c0f6d6d60f30bdd981", null ],
-    [ "Slot", "df/d90/a10814.html#aae1dba7644a82933a801f581551479bc", null ],
-    [ "VendorGuid", "df/d90/a10814.html#ac65b0fc2609531c8657c4d83cf50dbfe", null ]
+    [ "DestroyItem", "df/d90/a10814.html#a581e8c0f5f580e812bc0988e35786ee2", null ],
+    [ "Read", "df/d90/a10814.html#a9f7fa7614db176262437478b4d92e9f9", null ],
+    [ "Bag", "df/d90/a10814.html#aef97bbc66f92d73b4ebd3fcf0a81c0d6", null ],
+    [ "Count", "df/d90/a10814.html#af18875aa85f12191a47d97380f459c45", null ],
+    [ "Data1", "df/d90/a10814.html#a34fa30122f101e15de6252c289b82680", null ],
+    [ "Data2", "df/d90/a10814.html#a227470a5932383e0ab7b9a369dfb3445", null ],
+    [ "Data3", "df/d90/a10814.html#a019a891e4906ce9dafef6e276d635df7", null ],
+    [ "Slot", "df/d90/a10814.html#af8274f1ded5565dc0f79e28948825ea2", null ]
 ];

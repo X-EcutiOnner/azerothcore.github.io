@@ -1,10 +1,6 @@
 var a15878 =
 [
-    [ "npc_ameAI", "d3/db4/a15878.html#ad3d0ee584859b2b0fb7c6c5dbf204ad6", null ],
-    [ "JustDied", "d3/db4/a15878.html#a9b77f94f112477509c3163945ceb8201", null ],
-    [ "JustSummoned", "d3/db4/a15878.html#ab09c72c4ea50313c23a53d3862aeddea", null ],
-    [ "Reset", "d3/db4/a15878.html#a0bda0f95bd97b9e755a745a8ea41ba49", null ],
-    [ "UpdateAI", "d3/db4/a15878.html#a0a073e4c216985607aa51099044ff6c5", null ],
-    [ "WaypointReached", "d3/db4/a15878.html#a44b06a6a977d20b03ed663f1090ed43c", null ],
-    [ "DemoralizingShoutTimer", "d3/db4/a15878.html#ab5d1786735adea4bce1bba8adf42a877", null ]
+    [ "HandleDummy", "d3/db4/a15878.html#a2750ae788168e7496ea2345c5535509c", null ],
+    [ "PrepareSpellScript", "d3/db4/a15878.html#a66b4187decbfb0b5623ce5630a8fa9d3", null ],
+    [ "Register", "d3/db4/a15878.html#ab6c961d89d22761402eb4f5881cbd318", null ]
 ];

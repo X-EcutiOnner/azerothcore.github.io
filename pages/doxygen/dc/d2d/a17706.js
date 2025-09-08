@@ -1,7 +1,9 @@
 var a17706 =
 [
-    [ "DelayedMovementEvent", "dc/d2d/a17706.html#a21241cde30f66ae42edb311542f7405c", null ],
-    [ "Execute", "dc/d2d/a17706.html#a8287761226ee671905151891779b6efb", null ],
-    [ "_dest", "dc/d2d/a17706.html#a9a0cd9830509ffdecd98ac8231350d58", null ],
-    [ "_owner", "dc/d2d/a17706.html#a046942728282a997068de447271f3cbe", null ]
+    [ "npc_stinky_iccAI", "dc/d2d/a17706.html#a545356eb2b77cfae7af3d470e95ea2d6", null ],
+    [ "JustDied", "dc/d2d/a17706.html#a7fa392980e2d30c935b79377df8dc694", null ],
+    [ "JustEngagedWith", "dc/d2d/a17706.html#afd1cd4fc387ff7cdad58c9db60841c7a", null ],
+    [ "Reset", "dc/d2d/a17706.html#ac66e3398598576fdc889a7b56646eecf", null ],
+    [ "UpdateAI", "dc/d2d/a17706.html#af6e04824ea1682c529e8579a306d34ca", null ],
+    [ "events", "dc/d2d/a17706.html#a3ab7ae11b7f5ef5877febbd384014ce2", null ]
 ];

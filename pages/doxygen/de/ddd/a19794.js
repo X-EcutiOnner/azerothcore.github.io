@@ -1,7 +1,6 @@
 var a19794 =
 [
-    [ "creature", "de/ddd/a19794.html#a55a6ee677ab51120867f542e5a5745b0", null ],
-    [ "sound", "de/ddd/a19794.html#a407acf5c908aa44a169adc1e88a70ab4", null ],
-    [ "text", "de/ddd/a19794.html#a9ed157ddf2c274d021820723b1ebe00e", null ],
-    [ "timer", "de/ddd/a19794.html#a198a3a5a4ad037b591fc3b85675bdfe1", null ]
+    [ "boss_sjonnir_iron_sludgeAI", "d0/d0d/a19798.html", "d0/d0d/a19798" ],
+    [ "boss_sjonnir_iron_sludge", "de/ddd/a19794.html#ae1c523266aab3e8e2c337dede7390c7b", null ],
+    [ "GetAI", "de/ddd/a19794.html#a2d077bfeac6479d83240ee00ca5aa0e0", null ]
 ];

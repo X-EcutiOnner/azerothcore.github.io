@@ -1,7 +1,6 @@
 var a11286 =
 [
-    [ "SpellImmune", "d7/ddd/a11286.html#a70ebcde656db6c4d7c21fb03af44978a", null ],
-    [ "blockType", "d7/ddd/a11286.html#a13a353d02a7330820df170eb46e7a26d", null ],
-    [ "spellId", "d7/ddd/a11286.html#a6aeb1bebf2f079424ebfa5192c568adc", null ],
-    [ "type", "d7/ddd/a11286.html#ae1a414f35b2cce61cd4f5640c761f7ea", null ]
+    [ "WorldObjectSpellConeTargetCheck", "d7/ddd/a11286.html#a51fa6de40d065bd7ba52f4dc982f9a5e", null ],
+    [ "operator()", "d7/ddd/a11286.html#ac66207a4d1dbc9f59269127ee91f0657", null ],
+    [ "_coneAngle", "d7/ddd/a11286.html#a8f946789292320ea8b205dec5d1e1975", null ]
 ];

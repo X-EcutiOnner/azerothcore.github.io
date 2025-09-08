@@ -1,8 +1,6 @@
 var a14086 =
 [
-    [ "HandleScriptEffect", "df/de8/a14086.html#af7f22d3b7ba136ec2af88656b9805168", null ],
-    [ "PrepareSpellScript", "df/de8/a14086.html#aa7b7a3d099b95c9adeb3d9e2198ed8d3", null ],
-    [ "Register", "df/de8/a14086.html#a6a6d95c6d33bc8d90a2022e1ce23c635", null ],
-    [ "Validate", "df/de8/a14086.html#a94a5697e9d8a068fe6ae34b8aaf974fd", null ],
-    [ "spells", "df/de8/a14086.html#a902fc17746af82a4c58fe599c9616ce2", null ]
+    [ "npc_eagle_trash_aggro_trigger", "df/de8/a14086.html#a9d41e8abe764fd0f8cedd888418aafb2", null ],
+    [ "MoveInLineOfSight", "df/de8/a14086.html#aa8892e7f2bec9f26320cd9749e648ebd", null ],
+    [ "_instance", "df/de8/a14086.html#a39a222e1eb0a3378c8fcaf1da5629547", null ]
 ];

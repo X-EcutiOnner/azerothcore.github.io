@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: Transaction&lt; T &gt; Class Template Reference</title>
+<title>AzerothCore: FreezeDetector Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,177 +106,44 @@ $(document).ready(function(){initNavTree('d3/d7c/a05706.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pub-static-methods">Static Public Member Functions</a> &#124;
+<a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="../../d3/d30/a05703.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">Transaction&lt; T &gt; Class Template Reference</div></div>
+  <div class="headertitle"><div class="title">FreezeDetector Class Reference<div class="ingroups"><a class="el" href="../../d6/d56/a04790.html">Acore Daemon</a></div></div></div>
 </div><!--header-->
 <div class="contents">
-
-<p><code>#include &quot;<a class="el" href="../../">Transaction.h</a>&quot;</code></p>
-<div class="dynheader">
-Inheritance diagram for Transaction&lt; T &gt;:</div>
-<div class="dyncontent">
- <div class="center">
-  <img src="../../d3/d7c/a05706.png" usemap="#Transaction_3C_20T_20_3E_map" alt=""/>
-  <map id="Transaction_3C_20T_20_3E_map" name="Transaction_3C_20T_20_3E_map">
-<area href="../../d7/d86/a05890.html" alt="TransactionBase" shape="rect" coords="0,0,109,24"/>
-  </map>
-</div></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a290b052f7cbd321c646e9e5e19484444"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d7c/a05706.html#a290b052f7cbd321c646e9e5e19484444">Append</a> (<a class="el" href="../../d1/dc4/a05702.html">PreparedStatement</a>&lt; T &gt; *statement)</td></tr>
-<tr class="separator:a290b052f7cbd321c646e9e5e19484444"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a867b7a92080104278aef5fb4975a4a52"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d7c/a05706.html#a867b7a92080104278aef5fb4975a4a52">Append</a> (std::string_view sql)</td></tr>
-<tr class="separator:a867b7a92080104278aef5fb4975a4a52"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa0a81814abe26d456018c3bc9153cd4d"><td class="memTemplParams" colspan="2">template&lt;typename... Args&gt; </td></tr>
-<tr class="memitem:aa0a81814abe26d456018c3bc9153cd4d"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d3/d7c/a05706.html#aa0a81814abe26d456018c3bc9153cd4d">Append</a> (std::string_view sql, Args &amp;&amp;... args)</td></tr>
-<tr class="separator:aa0a81814abe26d456018c3bc9153cd4d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="inherit_header pub_methods_a05890"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a05890')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../d7/d86/a05890.html">TransactionBase</a></td></tr>
-<tr class="memitem:a663d13ba0b22e0711d135073ff80ee47 inherit pub_methods_a05890"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d86/a05890.html#a663d13ba0b22e0711d135073ff80ee47">TransactionBase</a> ()=default</td></tr>
-<tr class="separator:a663d13ba0b22e0711d135073ff80ee47 inherit pub_methods_a05890"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6ce7e6ef81bb466463bace35cdd49476 inherit pub_methods_a05890"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d86/a05890.html#a6ce7e6ef81bb466463bace35cdd49476">~TransactionBase</a> ()</td></tr>
-<tr class="separator:a6ce7e6ef81bb466463bace35cdd49476 inherit pub_methods_a05890"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a867b7a92080104278aef5fb4975a4a52 inherit pub_methods_a05890"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d86/a05890.html#a867b7a92080104278aef5fb4975a4a52">Append</a> (std::string_view sql)</td></tr>
-<tr class="separator:a867b7a92080104278aef5fb4975a4a52 inherit pub_methods_a05890"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa0a81814abe26d456018c3bc9153cd4d inherit pub_methods_a05890"><td class="memTemplParams" colspan="2">template&lt;typename... Args&gt; </td></tr>
-<tr class="memitem:aa0a81814abe26d456018c3bc9153cd4d inherit pub_methods_a05890"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d7/d86/a05890.html#aa0a81814abe26d456018c3bc9153cd4d">Append</a> (std::string_view sql, Args &amp;&amp;... args)</td></tr>
-<tr class="separator:aa0a81814abe26d456018c3bc9153cd4d inherit pub_methods_a05890"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a261ad9d7423562ccbe2cac6d75c203bd inherit pub_methods_a05890"><td class="memItemLeft" align="right" valign="top">std::size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d86/a05890.html#a261ad9d7423562ccbe2cac6d75c203bd">GetSize</a> () const</td></tr>
-<tr class="separator:a261ad9d7423562ccbe2cac6d75c203bd inherit pub_methods_a05890"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:gae4bea4699ff716ee22295d12bc9f1b9b"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d56/a04790.html#gae4bea4699ff716ee22295d12bc9f1b9b">FreezeDetector</a> (<a class="el" href="../../da/dd2/a04898.html">Acore::Asio::IoContext</a> &amp;ioContext, <a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> maxCoreStuckTime)</td></tr>
+<tr class="separator:gae4bea4699ff716ee22295d12bc9f1b9b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="inherited" name="inherited"></a>
-Additional Inherited Members</h2></td></tr>
-<tr class="inherit_header pro_methods_a05890"><td colspan="2" onclick="javascript:toggleInherit('pro_methods_a05890')"><img src="../../closed.png" alt="-"/>&#160;Protected Member Functions inherited from <a class="el" href="../../d7/d86/a05890.html">TransactionBase</a></td></tr>
-<tr class="memitem:a8e099a4f8775b5e5e3b95ad0273a716f inherit pro_methods_a05890"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d86/a05890.html#a8e099a4f8775b5e5e3b95ad0273a716f">AppendPreparedStatement</a> (<a class="el" href="../../d5/dcd/a05834.html">PreparedStatementBase</a> *statement)</td></tr>
-<tr class="separator:a8e099a4f8775b5e5e3b95ad0273a716f inherit pro_methods_a05890"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a35e0ce11de325a1b286d90a2936d4aa3 inherit pro_methods_a05890"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d86/a05890.html#a35e0ce11de325a1b286d90a2936d4aa3">Cleanup</a> ()</td></tr>
-<tr class="separator:a35e0ce11de325a1b286d90a2936d4aa3 inherit pro_methods_a05890"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="inherit_header pro_attribs_a05890"><td colspan="2" onclick="javascript:toggleInherit('pro_attribs_a05890')"><img src="../../closed.png" alt="-"/>&#160;Protected Attributes inherited from <a class="el" href="../../d7/d86/a05890.html">TransactionBase</a></td></tr>
-<tr class="memitem:a156f1a8316358c05285778e5734eade1 inherit pro_attribs_a05890"><td class="memItemLeft" align="right" valign="top">std::vector&lt; <a class="el" href="../../dc/df8/a05882.html">SQLElementData</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d86/a05890.html#a156f1a8316358c05285778e5734eade1">m_queries</a></td></tr>
-<tr class="separator:a156f1a8316358c05285778e5734eade1 inherit pro_attribs_a05890"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
+Static Public Member Functions</h2></td></tr>
+<tr class="memitem:ga6a90ff702a8d363bd23334c81e2e5770"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d56/a04790.html#ga6a90ff702a8d363bd23334c81e2e5770">Start</a> (std::shared_ptr&lt; <a class="el" href="../../d3/d7c/a05706.html">FreezeDetector</a> &gt; const &amp;freezeDetector)</td></tr>
+<tr class="separator:ga6a90ff702a8d363bd23334c81e2e5770"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:gad4c4e5b291e0c6c2dc169a7dbffdfabb"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d56/a04790.html#gad4c4e5b291e0c6c2dc169a7dbffdfabb">Handler</a> (std::weak_ptr&lt; <a class="el" href="../../d3/d7c/a05706.html">FreezeDetector</a> &gt; freezeDetectorRef, boost::system::error_code const &amp;error)</td></tr>
+<tr class="separator:gad4c4e5b291e0c6c2dc169a7dbffdfabb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
+Private Attributes</h2></td></tr>
+<tr class="memitem:ga2377cec7cca6dbb9133a3d48b4d376c3"><td class="memItemLeft" align="right" valign="top">boost::asio::steady_timer&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d56/a04790.html#ga2377cec7cca6dbb9133a3d48b4d376c3">_timer</a></td></tr>
+<tr class="separator:ga2377cec7cca6dbb9133a3d48b4d376c3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ga0ea988a0e070d056c16d7c9f3b1035f4"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d56/a04790.html#ga0ea988a0e070d056c16d7c9f3b1035f4">_worldLoopCounter</a></td></tr>
+<tr class="separator:ga0ea988a0e070d056c16d7c9f3b1035f4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ga0a2b971b7ea733d846be71abf7b5dc1d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d56/a04790.html#ga0a2b971b7ea733d846be71abf7b5dc1d">_lastChangeMsTime</a></td></tr>
+<tr class="separator:ga0a2b971b7ea733d846be71abf7b5dc1d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ga54077eab38ea5d0db27f08c50fd0652e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d56/a04790.html#ga54077eab38ea5d0db27f08c50fd0652e">_maxCoreStuckTimeInMs</a></td></tr>
+<tr class="separator:ga54077eab38ea5d0db27f08c50fd0652e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><div class="compoundTemplParams">template&lt;typename T&gt;<br />
-class Transaction&lt; T &gt;</div></div><h2 class="groupheader">Member Function Documentation</h2>
-<a id="a290b052f7cbd321c646e9e5e19484444" name="a290b052f7cbd321c646e9e5e19484444"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a290b052f7cbd321c646e9e5e19484444">&#9670;&#160;</a></span>Append() <span class="overload">[1/3]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;typename T &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void <a class="el" href="../../d3/d7c/a05706.html">Transaction</a>&lt; T &gt;::Append </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d1/dc4/a05702.html">PreparedStatement</a>&lt; T &gt; *&#160;</td>
-          <td class="paramname"><em>statement</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   68</span>    {</div>
-<div class="line"><span class="lineno">   69</span>        <a class="code hl_function" href="../../d7/d86/a05890.html#a8e099a4f8775b5e5e3b95ad0273a716f">AppendPreparedStatement</a>(statement);</div>
-<div class="line"><span class="lineno">   70</span>    }</div>
-<div class="ttc" id="aa05890_html_a8e099a4f8775b5e5e3b95ad0273a716f"><div class="ttname"><a href="../../d7/d86/a05890.html#a8e099a4f8775b5e5e3b95ad0273a716f">TransactionBase::AppendPreparedStatement</a></div><div class="ttdeci">void AppendPreparedStatement(PreparedStatementBase *statement)</div><div class="ttdef"><b>Definition:</b> Transaction.cpp:42</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00042">TransactionBase::AppendPreparedStatement()</a>.</p>
-
-</div>
-</div>
-<a id="a867b7a92080104278aef5fb4975a4a52" name="a867b7a92080104278aef5fb4975a4a52"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a867b7a92080104278aef5fb4975a4a52">&#9670;&#160;</a></span>Append() <span class="overload">[2/3]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;typename T &gt; </div>
-      <table class="memname">
-        <tr>
-          <td class="memname">void TransactionBase::Append </td>
-          <td>(</td>
-          <td class="paramtype">std::string_view&#160;</td>
-          <td class="paramname"><em>sql</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   34</span>{</div>
-<div class="line"><span class="lineno">   35</span>    <a class="code hl_struct" href="../../dc/df8/a05882.html">SQLElementData</a> data = {};</div>
-<div class="line"><span class="lineno">   36</span>    data.<a class="code hl_variable" href="../../dc/df8/a05882.html#afb3f8dc82da740b1aaae165cb6a5b218">type</a> = <a class="code hl_enumvalue" href="../../d5/def/a04676.html#abb4a6cfcce013f18b29779f1f435e627a49f9977e0908bdeb2a8b30b5877d939a">SQL_ELEMENT_RAW</a>;</div>
-<div class="line"><span class="lineno">   37</span>    data.<a class="code hl_variable" href="../../dc/df8/a05882.html#ae5400b2932fe1a8c514c38fb6bab392f">element</a> = std::string(sql);</div>
-<div class="line"><span class="lineno">   38</span>    <a class="code hl_variable" href="../../d7/d86/a05890.html#a156f1a8316358c05285778e5734eade1">m_queries</a>.emplace_back(data);</div>
-<div class="line"><span class="lineno">   39</span>}</div>
-<div class="ttc" id="aa04676_html_abb4a6cfcce013f18b29779f1f435e627a49f9977e0908bdeb2a8b30b5877d939a"><div class="ttname"><a href="../../d5/def/a04676.html#abb4a6cfcce013f18b29779f1f435e627a49f9977e0908bdeb2a8b30b5877d939a">SQL_ELEMENT_RAW</a></div><div class="ttdeci">@ SQL_ELEMENT_RAW</div><div class="ttdef"><b>Definition:</b> SQLOperation.h:28</div></div>
-<div class="ttc" id="aa05882_html"><div class="ttname"><a href="../../dc/df8/a05882.html">SQLElementData</a></div><div class="ttdef"><b>Definition:</b> SQLOperation.h:34</div></div>
-<div class="ttc" id="aa05882_html_ae5400b2932fe1a8c514c38fb6bab392f"><div class="ttname"><a href="../../dc/df8/a05882.html#ae5400b2932fe1a8c514c38fb6bab392f">SQLElementData::element</a></div><div class="ttdeci">std::variant&lt; PreparedStatementBase *, std::string &gt; element</div><div class="ttdef"><b>Definition:</b> SQLOperation.h:35</div></div>
-<div class="ttc" id="aa05882_html_afb3f8dc82da740b1aaae165cb6a5b218"><div class="ttname"><a href="../../dc/df8/a05882.html#afb3f8dc82da740b1aaae165cb6a5b218">SQLElementData::type</a></div><div class="ttdeci">SQLElementDataType type</div><div class="ttdef"><b>Definition:</b> SQLOperation.h:36</div></div>
-<div class="ttc" id="aa05890_html_a156f1a8316358c05285778e5734eade1"><div class="ttname"><a href="../../d7/d86/a05890.html#a156f1a8316358c05285778e5734eade1">TransactionBase::m_queries</a></div><div class="ttdeci">std::vector&lt; SQLElementData &gt; m_queries</div><div class="ttdef"><b>Definition:</b> Transaction.h:55</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00035">SQLElementData::element</a>, <a class="el" href="../../#l00055">TransactionBase::m_queries</a>, <a class="el" href="../../#l00029">SQL_ELEMENT_PREPARED</a>, and <a class="el" href="../../#l00036">SQLElementData::type</a>.</p>
-
-</div>
-</div>
-<a id="aa0a81814abe26d456018c3bc9153cd4d" name="aa0a81814abe26d456018c3bc9153cd4d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa0a81814abe26d456018c3bc9153cd4d">&#9670;&#160;</a></span>Append() <span class="overload">[3/3]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;typename T &gt; </div>
-<div class="memtemplate">
-template&lt;typename... Args&gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void TransactionBase::Append </td>
-          <td>(</td>
-          <td class="paramtype">std::string_view&#160;</td>
-          <td class="paramname"><em>sql</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">Args &amp;&amp;...&#160;</td>
-          <td class="paramname"><em>args</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   46</span>    {</div>
-<div class="line"><span class="lineno">   47</span>        <a class="code hl_function" href="../../d3/d7c/a05706.html#a290b052f7cbd321c646e9e5e19484444">Append</a>(<a class="code hl_function" href="../../d3/d7d/a04797.html#a868406b9609960d4ae0189588c8cbbf4">Acore::StringFormat</a>(sql, std::forward&lt;Args&gt;(args)...));</div>
-<div class="line"><span class="lineno">   48</span>    }</div>
-<div class="ttc" id="aa04797_html_a868406b9609960d4ae0189588c8cbbf4"><div class="ttname"><a href="../../d3/d7d/a04797.html#a868406b9609960d4ae0189588c8cbbf4">Acore::StringFormat</a></div><div class="ttdeci">std::string StringFormat(FormatString&lt; Args... &gt; fmt, Args &amp;&amp;... args)</div><div class="ttdoc">Default AC string format function.</div><div class="ttdef"><b>Definition:</b> StringFormat.h:34</div></div>
-<div class="ttc" id="aa05706_html_a290b052f7cbd321c646e9e5e19484444"><div class="ttname"><a href="../../d3/d7c/a05706.html#a290b052f7cbd321c646e9e5e19484444">Transaction::Append</a></div><div class="ttdeci">void Append(PreparedStatement&lt; T &gt; *statement)</div><div class="ttdef"><b>Definition:</b> Transaction.h:67</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-</div><!-- contents -->
+<div class="textblock"></div></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d3/d7c/a05706.html">Transaction</a></li>
-    <li class="footer">Generated on Mon Sep 1 2025 20:44:40 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d3/d7c/a05706.html">FreezeDetector</a></li>
+    <li class="footer">Generated on Mon Sep 8 2025 20:44:55 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

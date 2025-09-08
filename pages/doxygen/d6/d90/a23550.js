@@ -1,6 +1,7 @@
 var a23550 =
 [
-    [ "instance_steam_vault_InstanceMapScript", "d4/dcc/a23554.html", "d4/dcc/a23554" ],
-    [ "instance_steam_vault", "d6/d90/a23550.html#aa3417083841ccb50c8a2f29ba343e115", null ],
-    [ "GetInstanceScript", "d6/d90/a23550.html#a3a2edb84cc7067d3c8fa2151b4763c5a", null ]
+    [ "boss_hydromancer_thespia", "d6/d90/a23550.html#a5747c2da9914dcf4118ee0fb37a3a3fd", null ],
+    [ "JustDied", "d6/d90/a23550.html#ad0662daabd636bbf544a6791187d71fa", null ],
+    [ "JustEngagedWith", "d6/d90/a23550.html#af230e57ec259e5c92c4034a674d1b6a5", null ],
+    [ "KilledUnit", "d6/d90/a23550.html#ae1bb4819867ef5718cb5d9130d62fa20", null ]
 ];

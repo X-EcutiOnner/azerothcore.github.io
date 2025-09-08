@@ -1,8 +1,9 @@
 var a26434 =
 [
-    [ "HandleEffectApply", "d8/d59/a26434.html#aed959961fcd07649cd4914fcd38a3214", null ],
-    [ "if", "d8/d59/a26434.html#a1518c08cb3b5cb716b8bd01692a5160d", null ],
-    [ "PrepareAuraScript", "d8/d59/a26434.html#a42167bc6bf7992debea8582680251da4", null ],
-    [ "Register", "d8/d59/a26434.html#aa2c23abd2b90a276bd7980cadc0397a4", null ],
-    [ "AuraEffectHandleModes", "d8/d59/a26434.html#ac886dec8a2ce55af4ec58ab068c589fa", null ]
+    [ "CheckProc", "d8/d59/a26434.html#ac0e2bf5c1a96ce0502561bb6bcb6ad97", null ],
+    [ "HandleDispel", "d8/d59/a26434.html#a64235032423050de10581165c57f8b0a", null ],
+    [ "HandleProc", "d8/d59/a26434.html#ab1c1196f003f7ff0bf6f6eae5bd6de9a", null ],
+    [ "PrepareAuraScript", "d8/d59/a26434.html#af7ba0eb96dca76a288dd034665822069", null ],
+    [ "Register", "d8/d59/a26434.html#ababc8b42c64740655864d2834a639384", null ],
+    [ "Validate", "d8/d59/a26434.html#a03ecf2489369cbb7a6dff555db153a96", null ]
 ];

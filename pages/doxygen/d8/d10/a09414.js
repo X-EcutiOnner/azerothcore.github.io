@@ -1,7 +1,8 @@
 var a09414 =
 [
-    [ "NearestVisibleDetectableContestedGuardUnitCheck", "d8/d10/a09414.html#a470ab1e22a90a00752717d76b45a7aab", null ],
-    [ "NearestVisibleDetectableContestedGuardUnitCheck", "d8/d10/a09414.html#a042697dbc7622f5ff96bd1ade1afe5eb", null ],
-    [ "operator()", "d8/d10/a09414.html#a031abed7dd2e5523991bf72d47e8e050", null ],
-    [ "me", "d8/d10/a09414.html#a6cb490747146e1861006654deea366eb", null ]
+    [ "CallOfHelpCreatureInRangeDo", "d8/d10/a09414.html#a6ff932341f415b659d486e63cbeb5fe4", null ],
+    [ "operator()", "d8/d10/a09414.html#a06eb5dd0f8969c20ca1234e01ae15377", null ],
+    [ "i_enemy", "d8/d10/a09414.html#a8e2e259c0159fd9418777787e4c68ccd", null ],
+    [ "i_funit", "d8/d10/a09414.html#aff1768cd844e4e23821cf78f9d360e06", null ],
+    [ "i_range", "d8/d10/a09414.html#ab0544cf93f94766701b72dbb6b3b55c1", null ]
 ];

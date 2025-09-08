@@ -1,8 +1,5 @@
 var a23870 =
 [
-    [ "HandleEffectApply", "de/d13/a23870.html#ad75c8c6279e606d6a557a61d97ee8f42", null ],
-    [ "HandleEffectRemove", "de/d13/a23870.html#a7cd59f7ca82a6507024842ebcb1ba093", null ],
-    [ "PrepareAuraScript", "de/d13/a23870.html#a438a8ba3688e0832853bae4183695494", null ],
-    [ "Register", "de/d13/a23870.html#a52a86cce0afa66203cc5982ddbe5de4f", null ],
-    [ "Validate", "de/d13/a23870.html#ab07b244e53b397bc9e9842655617a80d", null ]
+    [ "at_shattered_halls_execution", "de/d13/a23870.html#a73f1d1f03960acd070b7996257f7a526", null ],
+    [ "OnTrigger", "de/d13/a23870.html#ad35f9736371b091dc0780e5bf0caf9f5", null ]
 ];

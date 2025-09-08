@@ -1,6 +1,6 @@
 var a22326 =
 [
-    [ "HandleHealPct", "d9/d66/a22326.html#aa297ef88b58849610b1b3bfdb0142eab", null ],
-    [ "PrepareSpellScript", "d9/d66/a22326.html#a902b733a4b106439c49f8c80de8e9bf3", null ],
-    [ "Register", "d9/d66/a22326.html#a52f253d2a3b9b3890020107b7722ad96", null ]
+    [ "npc_blessed_bannerAI", "da/d45/a22330.html", "da/d45/a22330" ],
+    [ "npc_blessed_banner", "d9/d66/a22326.html#a779a0c653088b2d206226e146a19101f", null ],
+    [ "GetAI", "d9/d66/a22326.html#a43dabbf2f2d54ae201cde37df792a41d", null ]
 ];

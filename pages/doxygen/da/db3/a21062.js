@@ -1,6 +1,6 @@
 var a21062 =
 [
-    [ "boss_yoggsaron_immortal_guardianAI", "dd/d73/a21066.html", "dd/d73/a21066" ],
-    [ "boss_yoggsaron_immortal_guardian", "da/db3/a21062.html#a4009759d284b54cb958ee0bb80c45f14", null ],
-    [ "GetAI", "da/db3/a21062.html#ac532ca090d93ce6d11a0332329111f2b", null ]
+    [ "boss_yoggsaron_descend_portalAI", "dd/d73/a21066.html", "dd/d73/a21066" ],
+    [ "boss_yoggsaron_descend_portal", "da/db3/a21062.html#aaf546e4e546d87818bd501b4934e8ab2", null ],
+    [ "GetAI", "da/db3/a21062.html#aceb50c808eed17ca468a80b823af1907", null ]
 ];

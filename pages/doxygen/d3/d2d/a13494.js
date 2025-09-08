@@ -1,8 +1,7 @@
 var a13494 =
 [
-    [ "OnPeriodic", "d3/d2d/a13494.html#acd400b0a061d1814591e33d16bf4180a", null ],
-    [ "OnRemove", "d3/d2d/a13494.html#a3da85c726007690220e9b4f81d30f185", null ],
-    [ "PrepareAuraScript", "d3/d2d/a13494.html#a216d723f309ffa46df4bba7af79752c8", null ],
-    [ "Register", "d3/d2d/a13494.html#a43fe84c2717d73e20a2562f596a84f36", null ],
-    [ "Validate", "d3/d2d/a13494.html#a4ab8e285bae57560eee85d3a837ac2f5", null ]
+    [ "boss_kalec", "d3/d2d/a13494.html#a9c36e31c750e93840f30f001cdaca0da", null ],
+    [ "JustDied", "d3/d2d/a13494.html#a46f35b35c1d17abc2ffaf909c53a4039", null ],
+    [ "JustEngagedWith", "d3/d2d/a13494.html#a4813ca02ed5ffc35add5279cc1ec277f", null ],
+    [ "UpdateAI", "d3/d2d/a13494.html#ab55da7584fa7f545761a5bd547245747", null ]
 ];

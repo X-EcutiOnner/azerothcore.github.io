@@ -1,7 +1,6 @@
 var a19154 =
 [
-    [ "OnApply", "d0/d2e/a19154.html#a72a01dea703436b2a220a9976da60fa6", null ],
-    [ "PrepareAuraScript", "d0/d2e/a19154.html#adb17425258d4fb2c0c464236e15f32d7", null ],
-    [ "Register", "d0/d2e/a19154.html#af026c126029c68ed8b7c6c1886720e4c", null ],
-    [ "Validate", "d0/d2e/a19154.html#a5674396828adf4e80102ed2277f1e08a", null ]
+    [ "boss_faerlinaAI", "dc/d85/a19158.html", "dc/d85/a19158" ],
+    [ "boss_faerlina", "d0/d2e/a19154.html#a86543ac855287e3de2e3ffcde66fb1cb", null ],
+    [ "GetAI", "d0/d2e/a19154.html#aed8214323ff5b792d9bd6aae478e7848", null ]
 ];

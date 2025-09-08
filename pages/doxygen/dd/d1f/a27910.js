@@ -1,6 +1,7 @@
 var a27910 =
 [
-    [ "CheckCast", "dd/d1f/a27910.html#a477dc7a1b91ec0d9c45f249b7b3971ab", null ],
-    [ "PrepareSpellScript", "dd/d1f/a27910.html#aa3c18907c79309a8924a98bce41e27f1", null ],
-    [ "Register", "dd/d1f/a27910.html#a6eac0b63b0b566b5cba5def85748ace3", null ]
+    [ "npc_flameshocker", "dd/d1f/a27910.html#ac1631ee1802a4014d71bd86567f5d5dd", null ],
+    [ "JustDied", "dd/d1f/a27910.html#aba94a5bcec75c649049d5816a53ace58", null ],
+    [ "Reset", "dd/d1f/a27910.html#a13cb88e2b33df2d910fb73053684b420", null ],
+    [ "UpdateAI", "dd/d1f/a27910.html#adca7cd4e6ac78c0425d4377d66669f40", null ]
 ];

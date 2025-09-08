@@ -1,25 +1,5 @@
 var a16002 =
 [
-    [ "boss_jedoga_shadowseeker", "da/d8a/a16002.html#ab9cbbc07add92d5e02910660d54bac52", null ],
-    [ "DamageTaken", "da/d8a/a16002.html#a049fa9b95e231bbbbc0f9d1970d1281d", null ],
-    [ "DespawnOOCSummons", "da/d8a/a16002.html#ac52f5994af533906e5b60e539c48abb4", null ],
-    [ "DoAction", "da/d8a/a16002.html#aa1c42164d1eb87240443c21c96805bfa", null ],
-    [ "GetData", "da/d8a/a16002.html#a7829368c62ef80d41480e0f8fdfacd06", null ],
-    [ "JustDied", "da/d8a/a16002.html#af2ea97b4d6b74b81b5abc0520e832dbc", null ],
-    [ "JustEngagedWith", "da/d8a/a16002.html#acbd8518cd3d32ddb98d79659a2aa4313", null ],
-    [ "JustSummoned", "da/d8a/a16002.html#a69cef8ffc1b62eab23538cb3d7f342d7", null ],
-    [ "KilledUnit", "da/d8a/a16002.html#a1d6db2fdd85d4df233a65f8963dcd2ad", null ],
-    [ "MoveInLineOfSight", "da/d8a/a16002.html#a3d70de2d7a6d2c50083a684b9d969550", null ],
-    [ "MovementInform", "da/d8a/a16002.html#a4522476699ac513e209d9ee2d56309f0", null ],
-    [ "ReschedulleCombatEvents", "da/d8a/a16002.html#a501370436e01fb860433a8d782b7b37e", null ],
-    [ "Reset", "da/d8a/a16002.html#a3def3996c41da5a5f5ad1368b1cb973d", null ],
-    [ "SummonedCreatureDies", "da/d8a/a16002.html#a3efaecfd3dcf2987b1a8afced8f674b2", null ],
-    [ "UpdateAI", "da/d8a/a16002.html#a7f1d6998efe3fdeb60ba1743c6561902", null ],
-    [ "combatSummonsSummoned", "da/d8a/a16002.html#af300322d9b1f7705289588e217e120a3", null ],
-    [ "oocSummons", "da/d8a/a16002.html#a8ab34fcd605e5c15c4dab7fb3f5a3160", null ],
-    [ "oocTriggers", "da/d8a/a16002.html#adcec05da7f5feeca36e5e9054fba871f", null ],
-    [ "ritualTriggered", "da/d8a/a16002.html#a28837c2f84acf08657cc301e8d382cfc", null ],
-    [ "sacraficeTarget_GUID", "da/d8a/a16002.html#abb1ee99eb8429b0b8d94b75ea41ced9b", null ],
-    [ "sayPreachTimer", "da/d8a/a16002.html#ac4e501a54c8da479cede1378db0c953c", null ],
-    [ "volunteerWork", "da/d8a/a16002.html#aa0ff8d7556662b8db97aebcf27e0d5e4", null ]
+    [ "achievement_respect_your_elders", "da/d8a/a16002.html#a2fd66ada0ff7482c00b2cb417a12e88e", null ],
+    [ "OnCheck", "da/d8a/a16002.html#a770922be3ab19848f7a8f43a82d78b88", null ]
 ];

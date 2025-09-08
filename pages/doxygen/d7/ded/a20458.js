@@ -1,5 +1,7 @@
 var a20458 =
 [
-    [ "achievement_cheese_the_freeze", "d7/ded/a20458.html#a5ec4c344a0ed203086be2661e4e24f0e", null ],
-    [ "OnCheck", "d7/ded/a20458.html#aaf3342fb3153a4d9223d880c0f2a277a", null ]
+    [ "HandleAfterEffectApply", "d7/ded/a20458.html#adab765d78094eec673abce5140145267", null ],
+    [ "OnApply", "d7/ded/a20458.html#aab4331a7a55dc6f713db02726ec22e3a", null ],
+    [ "PrepareAuraScript", "d7/ded/a20458.html#acb827ae4299ae482d9b7f3fb09bbcc52", null ],
+    [ "Register", "d7/ded/a20458.html#ac1007ce2ee5e046639829558855f0188", null ]
 ];

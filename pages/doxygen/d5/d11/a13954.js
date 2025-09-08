@@ -1,5 +1,7 @@
 var a13954 =
 [
-    [ "npc_mikhail", "d5/d11/a13954.html#ab63d49e91b0d4b6ca0f00ff0992f5bad", null ],
-    [ "OnQuestAccept", "d5/d11/a13954.html#a3e1d81aa9e610b73c3d856b355338d3b", null ]
+    [ "npc_daphne_stilwellAI", "d8/d98/a13958.html", "d8/d98/a13958" ],
+    [ "npc_daphne_stilwell", "d5/d11/a13954.html#ad844c5f0409936d7068ee55271506041", null ],
+    [ "GetAI", "d5/d11/a13954.html#af1872100f3eeb14e894277cfc8e1a74b", null ],
+    [ "OnQuestAccept", "d5/d11/a13954.html#ad7b293efc802506a825f202e34cb0f4d", null ]
 ];

@@ -1,6 +1,12 @@
 var a12978 =
 [
-    [ "boss_kagani_nightstrike", "d9/d89/a12978.html#aeb4cfab6c4caafcf64d5e54cf481fd6a", null ],
-    [ "JustEngagedWith", "d9/d89/a12978.html#aba5ca4ce6fe6b39bb85aadddbcd9891e", null ],
-    [ "MovementInform", "d9/d89/a12978.html#af1010b7aa7434a92f1168eceda47cc2e", null ]
+    [ "boss_felblood_kaelthas", "d9/d89/a12978.html#a85abfb330ccc1fed5b9dc851d780f386", null ],
+    [ "DamageTaken", "d9/d89/a12978.html#ae29fb38a2f7dcf778b4443bc56f10e84", null ],
+    [ "DoAction", "d9/d89/a12978.html#a984dcde8d78adbce00e307eb3c4d32b8", null ],
+    [ "GravityLapseSequence", "d9/d89/a12978.html#aae902304d9e7ef27bdb9bde8cdf85605", null ],
+    [ "JustDied", "d9/d89/a12978.html#affea155d0eb2b4dda1b9dc8847fc2444", null ],
+    [ "JustEngagedWith", "d9/d89/a12978.html#a1d8806d7813d11aa61e043e420852218", null ],
+    [ "LapseAction", "d9/d89/a12978.html#ae1ac5b5da2a548f5b1dc1bdffb303b25", null ],
+    [ "Reset", "d9/d89/a12978.html#abde9a26abd8eef0b8cd25cbd6522d899", null ],
+    [ "_gravityLapseCounter", "d9/d89/a12978.html#ab4e884a341fa25a555c160f6978861fc", null ]
 ];

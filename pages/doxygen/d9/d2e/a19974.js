@@ -1,7 +1,6 @@
 var a19974 =
 [
-    [ "OnRemove", "d9/d2e/a19974.html#a4d7ec990112b4ed602bcacf5a6de6722", null ],
-    [ "PrepareAuraScript", "d9/d2e/a19974.html#a7cc9f0d6882b713c7b0a2585d6008437", null ],
-    [ "Register", "d9/d2e/a19974.html#ad3a66fdfb2a159461bb3deeab6f71c13", null ],
-    [ "Validate", "d9/d2e/a19974.html#a8bd121743d1153ae3fd8eb124e475d0f", null ]
+    [ "npc_assembly_lightningAI", "de/d10/a19978.html", "de/d10/a19978" ],
+    [ "npc_assembly_lightning", "d9/d2e/a19974.html#ac9776fc8cb3dd3f8bfecb1d367afefd2", null ],
+    [ "GetAI", "d9/d2e/a19974.html#a4054ea8bb68b2742847b359e19b477df", null ]
 ];

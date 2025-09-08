@@ -1,11 +1,12 @@
 var a23142 =
 [
-    [ "boss_supremus", "d8/d70/a23142.html#af1f094534b0e2dec70422839a02327cd", null ],
-    [ "CheckEvadeIfOutOfCombatArea", "d8/d70/a23142.html#a2654bf5b1d5b6da723d4968219e069a9", null ],
-    [ "FindHatefulStrikeTarget", "d8/d70/a23142.html#af560466902d0d372662020e1a67b627c", null ],
-    [ "JustEngagedWith", "d8/d70/a23142.html#a7d3a5e2c183db7639a7c25f309359ed1", null ],
-    [ "JustSummoned", "d8/d70/a23142.html#a7265a01fa79213ab6d8b82a4c92b7661", null ],
-    [ "Reset", "d8/d70/a23142.html#a0eaa29849a2571417d4826d238d72e25", null ],
-    [ "SchedulePhase", "d8/d70/a23142.html#a87e3943d6c645138853aa97644f9df0e", null ],
-    [ "SummonedCreatureDespawn", "d8/d70/a23142.html#a2ae72bfef577654e676a64eb2e4efa7a", null ]
+    [ "npc_creature_generator_akama", "d8/d70/a23142.html#a8e91cadea7f135ff692635e4d39923e0", null ],
+    [ "DoAction", "d8/d70/a23142.html#a01efeecd374056da287e4a1e468472b6", null ],
+    [ "JustSummoned", "d8/d70/a23142.html#af58d7b130ed3b6c209c08ae14444bfe3", null ],
+    [ "Reset", "d8/d70/a23142.html#a23cf08661802f247147bb23cff30eeab", null ],
+    [ "SummonedCreatureDies", "d8/d70/a23142.html#a35b7ecfa659d80a869868b9a2732d92b", null ],
+    [ "UpdateAI", "d8/d70/a23142.html#a8c6e3ca67691e7625700f22c5b1c09c5", null ],
+    [ "instance", "d8/d70/a23142.html#a109aea7bb0747f8572c1d46e9df2d2a5", null ],
+    [ "spawnCounter", "d8/d70/a23142.html#a02d8acace195438fe6e8d4705a043078", null ],
+    [ "summons", "d8/d70/a23142.html#a3d532e607c48298ca0464ee630dd27b3", null ]
 ];

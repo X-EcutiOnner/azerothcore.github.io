@@ -1,21 +1,12 @@
 var a09578 =
 [
-    [ "BankTab", "de/d5e/a09578.html#a4cc137e35b63b86c5d436e6bc15ad590", null ],
-    [ "Delete", "de/d5e/a09578.html#a834715b072cf26a56933a971de7bdde4", null ],
-    [ "GetIcon", "de/d5e/a09578.html#a2406a477fff518690b1a9656d0c2129b", null ],
-    [ "GetItem", "de/d5e/a09578.html#a9c5baa8eb92520b73c646488e3b38caa", null ],
-    [ "GetName", "de/d5e/a09578.html#a0360f82663e5f9e073bcb28affcdf0b3", null ],
-    [ "GetText", "de/d5e/a09578.html#ace1887dd0ef166be4fc6f8cb894d80b3", null ],
-    [ "LoadFromDB", "de/d5e/a09578.html#a016c23dc9710058e969ccfc51501afd6", null ],
-    [ "LoadItemFromDB", "de/d5e/a09578.html#aa7bd9e67c6685878fa7bf158c09fae51", null ],
-    [ "SendText", "de/d5e/a09578.html#ac3ca58dcc1997788226c6fe0d5b690c7", null ],
-    [ "SetInfo", "de/d5e/a09578.html#afb645aa2e4219558eb2f493782804657", null ],
-    [ "SetItem", "de/d5e/a09578.html#a3013ae191efb43063162f4cbb5508392", null ],
-    [ "SetText", "de/d5e/a09578.html#a5945b66216eebcb4ac68a6e429c15972", null ],
-    [ "m_guildId", "de/d5e/a09578.html#abc272a367b69a90207dbf10580a55038", null ],
-    [ "m_icon", "de/d5e/a09578.html#a25217a0d4f9dc91c853f7007f63f140b", null ],
-    [ "m_items", "de/d5e/a09578.html#a80cc2a64638722401276263d01e5ee27", null ],
-    [ "m_name", "de/d5e/a09578.html#a5555e808bc4597ad9a74e69b95e56149", null ],
-    [ "m_tabId", "de/d5e/a09578.html#ab055a2b7500c83c96a78c396dc60588a", null ],
-    [ "m_text", "de/d5e/a09578.html#afc7ac5ed7c4c2d79170548fe061917eb", null ]
+    [ "EventLogEntry", "de/d5e/a09578.html#a31726d40f7b89077b45ffbaca8396a9d", null ],
+    [ "EventLogEntry", "de/d5e/a09578.html#a96a2e3a6d565db452e7d0f1a152f63c7", null ],
+    [ "~EventLogEntry", "de/d5e/a09578.html#a8d6bf0a5a53fdc8e99ad53293d96af7c", null ],
+    [ "SaveToDB", "de/d5e/a09578.html#a2ca71e291a44f95bb42d51083aa84985", null ],
+    [ "WritePacket", "de/d5e/a09578.html#adffe90bd0265dea0ca2fd6bc83f3056e", null ],
+    [ "m_eventType", "de/d5e/a09578.html#a00216643e6856591402c21df490c1fec", null ],
+    [ "m_newRank", "de/d5e/a09578.html#ab733c92f478dc36e3b5ffc61799a6ce7", null ],
+    [ "m_playerGuid1", "de/d5e/a09578.html#a06a2b45d16860c711829f49f97624272", null ],
+    [ "m_playerGuid2", "de/d5e/a09578.html#a1f66e71f9536e484663e437bbcbcefca", null ]
 ];

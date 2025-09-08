@@ -1,11 +1,17 @@
 var a11802 =
 [
-    [ "instance_commandscript", "db/d03/a11802.html#a4d0b308b35a1aa21c66c8bd406ffa82f", null ],
-    [ "GetCommands", "db/d03/a11802.html#a092d62969c835f6bf2a08ca3e05f04d5", null ],
-    [ "HandleInstanceGetBossStateCommand", "db/d03/a11802.html#a0530ca6481073d6bafd11596546140b0", null ],
-    [ "HandleInstanceListBindsCommand", "db/d03/a11802.html#abf42411f9c78ce59b21b34691e3d4233", null ],
-    [ "HandleInstanceSaveDataCommand", "db/d03/a11802.html#a4b494a8b1de470612436fbb9fa433416", null ],
-    [ "HandleInstanceSetBossStateCommand", "db/d03/a11802.html#aec65b5af811eae2cbcf17571e9d1473b", null ],
-    [ "HandleInstanceStatsCommand", "db/d03/a11802.html#a9547a0a88a3bcd7407c449f3f2f25f44", null ],
-    [ "HandleInstanceUnbindCommand", "db/d03/a11802.html#a7abbe257b10632f2acbdd838e1f073a9", null ]
+    [ "gobject_commandscript", "db/d03/a11802.html#a664ffe7aa07b1e08156545675ae5dc69", null ],
+    [ "GetCommands", "db/d03/a11802.html#a75124102670615a7b3a0ecd457ab631a", null ],
+    [ "HandleGameObjectActivateCommand", "db/d03/a11802.html#a2512dfca6b1ae8a2476551a02caa202a", null ],
+    [ "HandleGameObjectAddCommand", "db/d03/a11802.html#a23717867956cc0da99e3640d2b790346", null ],
+    [ "HandleGameObjectAddTempCommand", "db/d03/a11802.html#a49908d7c180d778c43702563add17d2d", null ],
+    [ "HandleGameObjectDeleteCommand", "db/d03/a11802.html#a06ef45827cefcc19f748c5940dfb4b1d", null ],
+    [ "HandleGameObjectInfoCommand", "db/d03/a11802.html#a1d6e3c850b0bc2772d3f1f09877d8a40", null ],
+    [ "HandleGameObjectMoveCommand", "db/d03/a11802.html#a7098a5b0c94cb09b8c6fe08eba261d93", null ],
+    [ "HandleGameObjectNearCommand", "db/d03/a11802.html#a156f293b3bf9c7439b62814ee8f27650", null ],
+    [ "HandleGameObjectRespawn", "db/d03/a11802.html#aafed57aa556c8cdc0c380185b056d705", null ],
+    [ "HandleGameObjectSetPhaseCommand", "db/d03/a11802.html#af2ac49c9fdd408be62dd4ee179c1142c", null ],
+    [ "HandleGameObjectSetStateCommand", "db/d03/a11802.html#ae6d100f51d8b08e1576092eedc4db15f", null ],
+    [ "HandleGameObjectTargetCommand", "db/d03/a11802.html#a11d33046310495c0a6d883a307c95632", null ],
+    [ "HandleGameObjectTurnCommand", "db/d03/a11802.html#a75883394613b2c3501cd48f5334199b7", null ]
 ];

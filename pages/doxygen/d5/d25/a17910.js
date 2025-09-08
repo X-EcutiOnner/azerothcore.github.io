@@ -1,6 +1,6 @@
 var a17910 =
 [
-    [ "npc_cult_fanaticAI", "d9/d2b/a17914.html", "d9/d2b/a17914" ],
-    [ "npc_cult_fanatic", "d5/d25/a17910.html#af29ab8f7628b96b0f192bccab74ca02e", null ],
-    [ "GetAI", "d5/d25/a17910.html#ae4d22bac12d17d79669d3fccd4029952", null ]
+    [ "CheckProc", "d5/d25/a17910.html#a86e62fa26606a77284c80583e7b35d27", null ],
+    [ "PrepareAuraScript", "d5/d25/a17910.html#a2c10a09e9e5015eb4f3c66d5086dbe1a", null ],
+    [ "Register", "d5/d25/a17910.html#a6214f78c5c7eb3f60371fa12530d5991", null ]
 ];

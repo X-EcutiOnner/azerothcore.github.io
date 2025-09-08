@@ -1,9 +1,6 @@
 var a12658 =
 [
-    [ "npc_mc_core_houndAI", "dd/d89/a12658.html#a9b07d662e32a342419a848ecd59d6391", null ],
-    [ "DamageTaken", "dd/d89/a12658.html#aaf2b0ac9b723bb16bfaf8481165e6b4f", null ],
-    [ "Reset", "dd/d89/a12658.html#a9f4b06230ae2e4fc2fe150eb9e9d1f12", null ],
-    [ "UpdateAI", "dd/d89/a12658.html#aaba8ef0b33b9bb9acf74223ef0e9aaad", null ],
-    [ "instance", "dd/d89/a12658.html#ab47451dfeff84c8467be2b76554df897", null ],
-    [ "serratedBiteTimer", "dd/d89/a12658.html#a3a49df32c788497d3e82912d423683b7", null ]
+    [ "bossId", "dd/d89/a12658.html#a898f2ce24d96fb7d6a118e9772344c43", null ],
+    [ "circleId", "dd/d89/a12658.html#aaa379e61fda2f7225ab4089757df5d24", null ],
+    [ "runeId", "dd/d89/a12658.html#aa7ac7e2d5729aa906e00ca9c2648581d", null ]
 ];

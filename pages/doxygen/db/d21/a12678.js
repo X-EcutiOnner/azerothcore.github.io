@@ -1,6 +1,9 @@
 var a12678 =
 [
-    [ "instance_deadmines_InstanceMapScript", "d5/d22/a12682.html", "d5/d22/a12682" ],
-    [ "instance_deadmines", "db/d21/a12678.html#a91ec4b9d2c4dcb3b8a2822431259bc08", null ],
-    [ "GetInstanceScript", "db/d21/a12678.html#ac5cb65972d52324cedf662cc44dca626", null ]
+    [ "HandleEffectApply", "db/d21/a12678.html#ab1f4879fd9bd3982b9695bda886b0b99", null ],
+    [ "HandleEffectRemove", "db/d21/a12678.html#a8e38bc0ebf6b62982eee84e4c2722413", null ],
+    [ "Load", "db/d21/a12678.html#a8259745e21c561e4eedabc87ca8bdf73", null ],
+    [ "PrepareAuraScript", "db/d21/a12678.html#abec6d69d331e9952c129dc4cc24f0f13", null ],
+    [ "Register", "db/d21/a12678.html#a201bafab6c483b08a6ae27054392dea9", null ],
+    [ "Validate", "db/d21/a12678.html#a94aa1bd618035323b1fd4817fa7f9687", null ]
 ];

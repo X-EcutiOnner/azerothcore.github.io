@@ -1,11 +1,10 @@
 var a07454 =
 [
-    [ "BattlegroundSAScore", "d2/d64/a07454.html#afb1312e304eee973740cfe208657c5b9", null ],
-    [ "BuildObjectivesBlock", "d2/d64/a07454.html#a57bf8241b404571cda5a8e113c334eab", null ],
-    [ "GetAttr1", "d2/d64/a07454.html#aa31cd91ede928c57cd201dba61f7f585", null ],
-    [ "GetAttr2", "d2/d64/a07454.html#aba47bb1ec440f405bfde8513c60ae576", null ],
-    [ "UpdateScore", "d2/d64/a07454.html#a169a2a0a51edb6564e98c4b55f3e8a3b", null ],
-    [ "BattlegroundSA", "d2/d64/a07454.html#ab31c13442be48941f5dab4214b95cde9", null ],
-    [ "DemolishersDestroyed", "d2/d64/a07454.html#ac49c28efa42cfad7232268de4be45e66", null ],
-    [ "GatesDestroyed", "d2/d64/a07454.html#aeb1310b64150dd51f91722574a9dd3fc", null ]
+    [ "BattlegroundNA", "d2/d64/a07454.html#abf646e63e474ac5bb381078ffd0f286e", null ],
+    [ "FillInitialWorldStates", "d2/d64/a07454.html#af0932b648d2a4a4288409d8da360e06b", null ],
+    [ "HandleAreaTrigger", "d2/d64/a07454.html#a6a70ff3655c516d45ac1acf959ad8f73", null ],
+    [ "HandlePlayerUnderMap", "d2/d64/a07454.html#a098c01b5da65350b2af9ff53dc9f750c", null ],
+    [ "SetupBattleground", "d2/d64/a07454.html#addc3350a283fdac24e7aa88c23a7945a", null ],
+    [ "StartingEventCloseDoors", "d2/d64/a07454.html#a316492a374884822045971f6dc3db1e2", null ],
+    [ "StartingEventOpenDoors", "d2/d64/a07454.html#a72a953c5047a434d28b98e6185173140", null ]
 ];

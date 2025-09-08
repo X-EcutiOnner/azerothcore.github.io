@@ -1,6 +1,11 @@
 var a16094 =
 [
-    [ "boss_krik_thirAI", "df/dbe/a16098.html", "df/dbe/a16098" ],
-    [ "boss_krik_thir", "dc/ded/a16094.html#ab7001cd05e8e5e371cbd6ee2b25f3522", null ],
-    [ "GetAI", "dc/ded/a16094.html#a10e582440092d5c6558c2a11d60907aa", null ]
+    [ "npc_anub_ar_crusherAI", "dc/ded/a16094.html#a35866e3cad208bb70bbc5a146301c28d", null ],
+    [ "DoAction", "dc/ded/a16094.html#ac11795153811d2465b106bc1fdea508a", null ],
+    [ "JustEngagedWith", "dc/ded/a16094.html#a02d3b78427bc247cde28620470c43331", null ],
+    [ "JustSummoned", "dc/ded/a16094.html#a6d484f8d3f54bb7c7ad572027501f2ab", null ],
+    [ "Reset", "dc/ded/a16094.html#a85f60e0733ac4ccd8f7941e8df0f88d9", null ],
+    [ "UpdateAI", "dc/ded/a16094.html#aaeda7e00410766857ee4bd73a8e15b89", null ],
+    [ "events", "dc/ded/a16094.html#ad4a2111d4301f0b928fbd01b6783fb6c", null ],
+    [ "summons", "dc/ded/a16094.html#a3136ecd40bf228fade0e40d3c5d22e5d", null ]
 ];

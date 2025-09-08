@@ -1,6 +1,6 @@
 var a25518 =
 [
-    [ "HandleScript", "df/d5b/a25518.html#a5a30dc1dad5b51af02043bd85c486a68", null ],
-    [ "PrepareSpellScript", "df/d5b/a25518.html#a16c358062cee300e4c54f046a6c1accf", null ],
-    [ "Register", "df/d5b/a25518.html#a1f53f1345c418f82c6d140cf6cf80b3c", null ]
+    [ "HandleScript", "df/d5b/a25518.html#a3f63c080d2a74def0920cceaea18e1e2", null ],
+    [ "PrepareSpellScript", "df/d5b/a25518.html#a438c4c1763688210384b24305aeebe52", null ],
+    [ "Register", "df/d5b/a25518.html#a27b25fbbdd912505738728414b79380c", null ]
 ];

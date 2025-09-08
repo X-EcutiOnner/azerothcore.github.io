@@ -1,8 +1,9 @@
 var a13590 =
 [
-    [ "HandleApply", "db/da1/a13590.html#a9dce02909356193476e66586aee87f1d", null ],
-    [ "OnPeriodic", "db/da1/a13590.html#add4f000f81d5d4112719c6dd7464163c", null ],
-    [ "PrepareAuraScript", "db/da1/a13590.html#a1a9dfb50cec61386c5e3a3556f5d2f53", null ],
-    [ "Register", "db/da1/a13590.html#abc349f12f375b1f284eb78a363e8172a", null ],
-    [ "Validate", "db/da1/a13590.html#a83195ac3c9536a3485e41bf2c04884f6", null ]
+    [ "boss_muru", "db/da1/a13590.html#a6e51cd6b3283f011fc834e0cc59f46e6", null ],
+    [ "DamageTaken", "db/da1/a13590.html#a570c8cc6aaefaac4063d9f1053c04b32", null ],
+    [ "JustEngagedWith", "db/da1/a13590.html#a305f5f20fbe3d15885ed3e6248d96ec6", null ],
+    [ "JustSummoned", "db/da1/a13590.html#a7cf18b5f12586d122ece406feaa5bc39", null ],
+    [ "MoveInLineOfSight", "db/da1/a13590.html#aa589d640b73c0b3e944585bdc702a8ee", null ],
+    [ "Reset", "db/da1/a13590.html#a177aed9c1e5c1380fc8ea5f8c29650c6", null ]
 ];

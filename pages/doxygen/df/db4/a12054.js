@@ -1,14 +1,11 @@
 var a12054 =
 [
-    [ "boss_general_angerforgeAI", "df/db4/a12054.html#af5537ccebc7ac6af49f9b6612d3a6138", null ],
-    [ "JustEngagedWith", "df/db4/a12054.html#ae99e11630596c62c4155a18f5a0a3dd5", null ],
-    [ "Reset", "df/db4/a12054.html#aff55a804bdca840016e0f6b1d11f7106", null ],
-    [ "SummonAdds", "df/db4/a12054.html#a218f4de2d057505f60b2977835e5fd91", null ],
-    [ "SummonMedics", "df/db4/a12054.html#aeabe71bde9b03a944beedeac68cffd19", null ],
-    [ "UpdateAI", "df/db4/a12054.html#a751c0d0015c235c8716a2a8ff18500ba", null ],
-    [ "Adds_Timer", "df/db4/a12054.html#a069f0008735b38c249ddfe5246025438", null ],
-    [ "Cleave_Timer", "df/db4/a12054.html#af80ac4df7aaab1469ee62ac8b054a0b9", null ],
-    [ "HamString_Timer", "df/db4/a12054.html#a04c51b1400d17454ca529d6aa257697b", null ],
-    [ "Medics", "df/db4/a12054.html#a06fc801b89c53430603f1a33bb3e7bd8", null ],
-    [ "MightyBlow_Timer", "df/db4/a12054.html#aeea6bb264e2d175d1906d8606eced529", null ]
+    [ "boss_draganthaurissanAI", "df/db4/a12054.html#a2ecd55ed9e7e48829cb85862e965b7d8", null ],
+    [ "JustDied", "df/db4/a12054.html#a7a7d4737c4825cfabc1012f9cce0e38a", null ],
+    [ "JustEngagedWith", "df/db4/a12054.html#a00604bed2c13a7b470d950059122f018", null ],
+    [ "KilledUnit", "df/db4/a12054.html#acec58686917d6e5aff9a51a96b023174", null ],
+    [ "SetData", "df/db4/a12054.html#aaa43aa340f946f3b8361f2bb7b29ef40", null ],
+    [ "UpdateAI", "df/db4/a12054.html#a04eaea53b78d490373f9bb911cc92596", null ],
+    [ "hasYelled", "df/db4/a12054.html#aef5ede4f444e85fafd30faab6043672b", null ],
+    [ "SenatorYells", "df/db4/a12054.html#ab4b27bf33b58b44ac604ca6bf6b5e424", null ]
 ];

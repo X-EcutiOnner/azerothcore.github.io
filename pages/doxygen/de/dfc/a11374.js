@@ -1,7 +1,7 @@
 var a11374 =
 [
-    [ "EffectNameCheck", "de/dfc/a11374.html#aa82307388bdda7864bb085a349b63f29", null ],
-    [ "Check", "de/dfc/a11374.html#a729d7f07669dedec50f009a87b8f32a4", null ],
-    [ "ToString", "de/dfc/a11374.html#a31e545b0ae22cad4be815ea9e3b44377", null ],
-    [ "effName", "de/dfc/a11374.html#a905224fb028ea0eab350773b7230f871", null ]
+    [ "CategoryRecoveryTime", "de/dfc/a11374.html#a5a089aa55b5db1f3e3d3fa0ff61bbfdd", null ],
+    [ "RecoveryTime", "de/dfc/a11374.html#ac0e514cfe760baf23f4f05d871e6779a", null ],
+    [ "StartRecoveryCategory", "de/dfc/a11374.html#abb7ca704f04612ddcec3e2e52470ca77", null ],
+    [ "StartRecoveryTime", "de/dfc/a11374.html#a3155069a4ef8d87d4c952f92df2ec42d", null ]
 ];

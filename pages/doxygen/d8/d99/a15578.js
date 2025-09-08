@@ -1,13 +1,8 @@
 var a15578 =
 [
-    [ "npc_tharnarianAI", "d8/d99/a15578.html#a8e22d45f6420aa8079f8fb7150a2a53a", null ],
-    [ "Initialize", "d8/d99/a15578.html#ad1d89491b42a56406273a04045e7e91d", null ],
-    [ "Reset", "d8/d99/a15578.html#a7de1f46bee4e79effc5dbb405854a7da", null ],
-    [ "SetGUID", "d8/d99/a15578.html#a7ac84aac946afc312d8ce27f04127dfd", null ],
-    [ "sGossipSelect", "d8/d99/a15578.html#a33b5898def48e17ba27363b98f51849b", null ],
-    [ "UpdateAI", "d8/d99/a15578.html#a1e58a89064bdfb69e4445db72184d8b3", null ],
-    [ "_bearGUID", "d8/d99/a15578.html#af7a116b8226ddb51e9f0f118f2d8fa22", null ],
-    [ "_events", "d8/d99/a15578.html#aff73052a4b7407d760af3dde09fa8a07", null ],
-    [ "_facing", "d8/d99/a15578.html#ad2120fffc0ffa93d4fca1e9e8c0a4371", null ],
-    [ "_scriptRunning", "d8/d99/a15578.html#a5be50b02cc8ce2e7b4dd334e923a7c10", null ]
+    [ "npc_prospector_remtravelAI", "d8/d99/a15578.html#a61f26115382f16f3d65c3d4e1c720f02", null ],
+    [ "JustEngagedWith", "d8/d99/a15578.html#adf388d36c17b69f881e3cb92d9b78b9b", null ],
+    [ "JustSummoned", "d8/d99/a15578.html#a6b3dd1552b5313dd04d07dc80eef06fe", null ],
+    [ "Reset", "d8/d99/a15578.html#ac145a4a4a24be227c31fcc5aefd922eb", null ],
+    [ "WaypointReached", "d8/d99/a15578.html#a7b02b22e9dc63e1fad6b15a44b2ff9b6", null ]
 ];

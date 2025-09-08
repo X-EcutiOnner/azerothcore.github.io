@@ -1,6 +1,8 @@
 var a27362 =
 [
-    [ "go_witherbark_totem_bundleAI", "df/d11/a27362.html#a955625e2315008a2e36936d44f825060", null ],
-    [ "UpdateAI", "df/d11/a27362.html#af688bab2dc3d938951adb303e8b8d88b", null ],
-    [ "_timer", "df/d11/a27362.html#a509e6d8401380c326a0f565a6b903d7a", null ]
+    [ "FilterTargets", "df/d11/a27362.html#a53c6d73f3588e50c2be7ce68595a704c", null ],
+    [ "HandleEffect", "df/d11/a27362.html#a2edac19abf8aa765ada369e00cd7ea69", null ],
+    [ "PrepareSpellScript", "df/d11/a27362.html#ae1e1ff5456cb7c558ff4fe415de6a691", null ],
+    [ "Register", "df/d11/a27362.html#acb4d6abeb0e293728ae3dd0d248e0844", null ],
+    [ "Validate", "df/d11/a27362.html#aabc063155fad404ffd044c9f79b88051", null ]
 ];

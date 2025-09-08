@@ -1,5 +1,5 @@
 var a27546 =
 [
-    [ "go_duskwither_spire_power_source", "db/de2/a27546.html#aab69de16e8b744af2671e2ed882ee94a", null ],
-    [ "OnGossipHello", "db/de2/a27546.html#a2c7fd017e7985b99bff187119157a041", null ]
+    [ "go_hive_pod", "db/de2/a27546.html#a7ec01a399e75ff2e64746166d1aa3539", null ],
+    [ "OnGossipHello", "db/de2/a27546.html#a4cfb09789edf6699444a7d817e4ccc70", null ]
 ];

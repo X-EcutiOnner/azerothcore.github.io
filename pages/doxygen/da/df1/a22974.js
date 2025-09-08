@@ -1,7 +1,8 @@
 var a22974 =
 [
-    [ "VerasEnvenom", "da/df1/a22974.html#ac8c5f4fcb63ea5141a71b56324de0b1f", null ],
-    [ "Execute", "da/df1/a22974.html#a4b7853bb835cf28aefe2d5b955372d70", null ],
-    [ "_owner", "da/df1/a22974.html#af9cf231119ab5592be9829784f20d2e0", null ],
-    [ "_targetGUID", "da/df1/a22974.html#a90d62907c775565765fa87903adb94ea", null ]
+    [ "Load", "da/df1/a22974.html#a038301fbb547469574efff88455be663", null ],
+    [ "OnPeriodic", "da/df1/a22974.html#a8df384cc329cf20ddc5ac0d7bed0345f", null ],
+    [ "PrepareAuraScript", "da/df1/a22974.html#a386df1300e6a99b02efd13ef4968e99a", null ],
+    [ "Register", "da/df1/a22974.html#a1b7b9bff5b3d906fa491846a4d5c6743", null ],
+    [ "Validate", "da/df1/a22974.html#ad64a3fc1a66b9e8914099e501992f2aa", null ]
 ];

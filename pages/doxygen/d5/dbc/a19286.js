@@ -1,7 +1,6 @@
 var a19286 =
 [
-    [ "OnPeriodic", "d5/dbc/a19286.html#ae685e9d36b85af8a7e33cefbd439a2f4", null ],
-    [ "PrepareAuraScript", "d5/dbc/a19286.html#a1362103840db4b3c40ef7d6b0aa5226c", null ],
-    [ "Register", "d5/dbc/a19286.html#a39b03ebd7f6233f373f52e34f18dad10", null ],
-    [ "Validate", "d5/dbc/a19286.html#a54cfed486827216817adb740efa6646e", null ]
+    [ "boss_maexxnaAI", "dd/da3/a19290.html", "dd/da3/a19290" ],
+    [ "boss_maexxna", "d5/dbc/a19286.html#ae47a789ac8abe50932b9e000c83b02b2", null ],
+    [ "GetAI", "d5/dbc/a19286.html#ab438df4cb61625da35552ca7c867dc64", null ]
 ];

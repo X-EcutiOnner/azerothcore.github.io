@@ -1,6 +1,10 @@
 var a16234 =
 [
-    [ "npc_onyx_flamecallerAI", "d4/d67/a16238.html", "d4/d67/a16238" ],
-    [ "npc_onyx_flamecaller", "de/d60/a16234.html#af27af3cb3bbaba0801481ba77a94f9c6", null ],
-    [ "GetAI", "de/d60/a16234.html#a712284f1997635aaf7ecd7ca0a263c05", null ]
+    [ "npc_xerestraszaAI", "de/d60/a16234.html#a768ae45296e16b8fcada6359dfd6c7e5", null ],
+    [ "DoAction", "de/d60/a16234.html#af696ecee315892b2bf0233113d2f89f9", null ],
+    [ "Reset", "de/d60/a16234.html#a0eceae8fb9bf5071bc8d9cddf783507b", null ],
+    [ "UpdateAI", "de/d60/a16234.html#a6389ab58f4b44c668590113ec75f2adf", null ],
+    [ "_events", "de/d60/a16234.html#ae998fc6aaee14bc313ff38bb76d79e43", null ],
+    [ "_introDone", "de/d60/a16234.html#a9d01014297290dafbb7ed25bffbe6fe6", null ],
+    [ "_isIntro", "de/d60/a16234.html#a71ffbf3fedb77bd693beabb4ee52f57a", null ]
 ];

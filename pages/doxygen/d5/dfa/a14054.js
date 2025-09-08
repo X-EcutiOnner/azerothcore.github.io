@@ -1,9 +1,6 @@
 var a14054 =
 [
-    [ "npc_zulaman_hostageAI", "d5/dfa/a14054.html#a36a24241dfb0280a26c826ef9f1509dc", null ],
-    [ "JustDied", "d5/dfa/a14054.html#af87bdebb039f1da5736408cf3aad6487", null ],
-    [ "JustEngagedWith", "d5/dfa/a14054.html#af0aa229973da1a6230a854439658e9ed", null ],
-    [ "UpdateAI", "d5/dfa/a14054.html#a2212a1f56cf151e8816d22095ebb7c9c", null ],
-    [ "IsLoot", "d5/dfa/a14054.html#a86e65ee76ce382ec26a5b5bfb3fbf2b1", null ],
-    [ "PlayerGUID", "d5/dfa/a14054.html#a49f15c5a94d005c56218d00ac6732b82", null ]
+    [ "instance_zulaman_InstanceMapScript", "d5/da0/a14058.html", "d5/da0/a14058" ],
+    [ "instance_zulaman", "d5/dfa/a14054.html#a5a81dddc07dea599e2a197737206427b", null ],
+    [ "GetInstanceScript", "d5/dfa/a14054.html#a2144a517b22c5d6e7f6cc31d344669fc", null ]
 ];

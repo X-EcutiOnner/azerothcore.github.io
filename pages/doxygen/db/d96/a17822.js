@@ -1,8 +1,9 @@
 var a17822 =
 [
-    [ "Load", "db/d96/a17822.html#ad1105149d5e42318382af6c07149d522", null ],
-    [ "PeriodicTick", "db/d96/a17822.html#a8e675178256746d08af50a6b75ec582e", null ],
-    [ "PrepareAuraScript", "db/d96/a17822.html#a88f4baca7ceac44e5d148b73386a10a7", null ],
-    [ "Register", "db/d96/a17822.html#a0fa7d86214827711edd019dd3b40c667", null ],
-    [ "_tickNo", "db/d96/a17822.html#a418212d2daa873d69a83b4c1341a8903", null ]
+    [ "CheckAreaTarget", "db/d96/a17822.html#afd45699e853a5b57f3e9ae7bc4165bfb", null ],
+    [ "HandleApply", "db/d96/a17822.html#a9ce86d32957af07313af379b4176d0b3", null ],
+    [ "HandleRemove", "db/d96/a17822.html#a04f449a062b20e6f9ebc35857a051ed3", null ],
+    [ "Load", "db/d96/a17822.html#aa10821981f3e80262850e5c46449d5d0", null ],
+    [ "PrepareAuraScript", "db/d96/a17822.html#ac98e9c47a7cb177c0624cda37d1836e2", null ],
+    [ "Register", "db/d96/a17822.html#ab5b7bc1cc347ea368a9f2753b4c020a7", null ]
 ];

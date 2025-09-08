@@ -1,6 +1,9 @@
 var a27322 =
 [
-    [ "boss_taerarAI", "d7/dc8/a27326.html", "d7/dc8/a27326" ],
-    [ "boss_taerar", "df/d96/a27322.html#a100c1b80a50faf93088db870faa21b58", null ],
-    [ "GetAI", "df/d96/a27322.html#ae6615da6ee14c4f7cb3087b4ee5d6246", null ]
+    [ "boss_lethonAI", "df/d96/a27322.html#ac5d53a746f5286776b2e510f1de86790", null ],
+    [ "DamageTaken", "df/d96/a27322.html#a8a67dc7f923bfd56948a16d917a5f70f", null ],
+    [ "JustEngagedWith", "df/d96/a27322.html#a1a3acb1e8cbceb16854aafcf51a0f99d", null ],
+    [ "Reset", "df/d96/a27322.html#a0e53d139f64d104557e157a91176a47a", null ],
+    [ "SpellHitTarget", "df/d96/a27322.html#aa478414144cb396fa67a9bdb46dcbb4c", null ],
+    [ "_stage", "df/d96/a27322.html#aa267296ee60efc7d39a20dc05afec081", null ]
 ];

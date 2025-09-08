@@ -1,6 +1,6 @@
 var a19306 =
 [
-    [ "boss_razuviousAI", "d0/de0/a19310.html", "d0/de0/a19310" ],
-    [ "boss_razuvious", "de/d1b/a19306.html#ac1a2942f4a7957c671b075df7bf20215", null ],
-    [ "GetAI", "de/d1b/a19306.html#a350a7cf0c3e21e29c3c28155d63dcb87", null ]
+    [ "boss_nothAI", "d0/de0/a19310.html", "d0/de0/a19310" ],
+    [ "boss_noth", "de/d1b/a19306.html#a2760f1ec46a21f22de0e57527cbe9768", null ],
+    [ "GetAI", "de/d1b/a19306.html#a534f30792c051ab44c6c07c9347893e5", null ]
 ];

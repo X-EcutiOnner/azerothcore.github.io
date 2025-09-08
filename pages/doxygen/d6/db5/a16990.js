@@ -1,6 +1,6 @@
 var a16990 =
 [
-    [ "instance_forge_of_souls_InstanceScript", "df/dee/a16994.html", "df/dee/a16994" ],
-    [ "instance_forge_of_souls", "d6/db5/a16990.html#a504896f6e191c87ce77231c4ef267b27", null ],
-    [ "GetInstanceScript", "d6/db5/a16990.html#a64982b527cfa6057315b8e628549480b", null ]
+    [ "npc_fos_leader_secondAI", "df/dee/a16994.html", "df/dee/a16994" ],
+    [ "npc_fos_leader_second", "d6/db5/a16990.html#a0e24659ef6e834da5a3adc8d79f0db4e", null ],
+    [ "GetAI", "d6/db5/a16990.html#a96082888ccbb1c81be8327e5e0d84e03", null ]
 ];

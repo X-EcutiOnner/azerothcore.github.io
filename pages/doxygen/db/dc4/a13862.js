@@ -1,6 +1,5 @@
 var a13862 =
 [
-    [ "npc_highborne_lamenterAI", "db/d94/a13866.html", "db/d94/a13866" ],
-    [ "npc_highborne_lamenter", "db/dc4/a13862.html#a40316cf73a688e34e95dd41feef8612a", null ],
-    [ "GetAI", "db/dc4/a13862.html#aad8ccb43b325b797f60a16e338458a1e", null ]
+    [ "npc_tyrion", "db/dc4/a13862.html#a85b1abd4910729c17099174def6507b1", null ],
+    [ "OnQuestAccept", "db/dc4/a13862.html#af8388a07e52a8c5708434a70d0d28cbb", null ]
 ];

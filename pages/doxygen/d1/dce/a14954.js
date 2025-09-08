@@ -1,6 +1,6 @@
 var a14954 =
 [
-    [ "instance_culling_of_stratholme_InstanceMapScript", "d5/dac/a14958.html", "d5/dac/a14958" ],
-    [ "instance_culling_of_stratholme", "d1/dce/a14954.html#a0b07e751032e15e7fcf2f86bf29a39be", null ],
-    [ "GetInstanceScript", "d1/dce/a14954.html#ad8cbcb198666d44d79d6255d066c8315", null ]
+    [ "npc_cos_chromie_start", "d1/dce/a14954.html#ae8f810af1e593ad16958049f6ad19616", null ],
+    [ "OnGossipSelect", "d1/dce/a14954.html#a35cba5a1b7865b07a4e843648cea50c8", null ],
+    [ "OnQuestAccept", "d1/dce/a14954.html#aa730cb17e6cfe917bc32f7e7ae52e8ef", null ]
 ];

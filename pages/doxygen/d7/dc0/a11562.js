@@ -1,7 +1,11 @@
 var a11562 =
 [
-    [ "StringTransaction", "d7/dc0/a11562.html#aef82d603733e7cb0636d95abea9e6cdc", null ],
-    [ "Append", "d7/dc0/a11562.html#a0d1d9db61a1b3658c3d0fde37e2a4c5e", null ],
-    [ "GetBuffer", "d7/dc0/a11562.html#a7cb52c3e029cdb971dfbb4048ade25a0", null ],
-    [ "_buf", "d7/dc0/a11562.html#a4ec7dd27d7a2321cd1cead11ca78c1ef", null ]
+    [ "WorldUpdateTime", "d7/dc0/a11562.html#a97552c4ce99bd40919f199c17fe203ed", null ],
+    [ "LoadFromConfig", "d7/dc0/a11562.html#acb2b9d56504fc760e7df1c93621ab788", null ],
+    [ "RecordUpdateTime", "d7/dc0/a11562.html#a88d773c8029cebeab6b99444c25c8379", null ],
+    [ "RecordUpdateTimeDuration", "d7/dc0/a11562.html#a3ae299cfba6adcbb4e38af40313428fc", null ],
+    [ "SetRecordUpdateTimeInterval", "d7/dc0/a11562.html#ada81050229ccacc49d5b6a9f6101174c", null ],
+    [ "_lastRecordTime", "d7/dc0/a11562.html#a7bc68a1a700deb4bc4d19992edf3ffa7", null ],
+    [ "_recordUpdateTimeInverval", "d7/dc0/a11562.html#a5486477b0a604f0207336e423f42c2b1", null ],
+    [ "_recordUpdateTimeMin", "d7/dc0/a11562.html#a6b8a8d1b61f9ecec591165fa334972fc", null ]
 ];

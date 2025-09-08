@@ -1,6 +1,6 @@
 var a11462 =
 [
-    [ "EffectAbsorbHandler", "da/d10/a11462.html#a29bb773b8271acf651b08f33ce358720", null ],
-    [ "Call", "da/d10/a11462.html#a56bfb0fd0d860678920445d1182c09ef", null ],
-    [ "pEffectHandlerScript", "da/d10/a11462.html#a519489b8d951173a806e86cfe075faf1", null ]
+    [ "EffectCalcAmountHandler", "da/d10/a11462.html#a4fe66bbf0433e80b602683a278e3a709", null ],
+    [ "Call", "da/d10/a11462.html#a4b5af2593dcb80930c6a45b7035767ca", null ],
+    [ "pEffectHandlerScript", "da/d10/a11462.html#aa52c8c780dcc157e16d11f8222706f7a", null ]
 ];

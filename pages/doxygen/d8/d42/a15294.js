@@ -1,6 +1,9 @@
 var a15294 =
 [
-    [ "OnPeriodic", "d8/d42/a15294.html#a08dce8b98afadc134166a615b4496151", null ],
-    [ "PrepareAuraScript", "d8/d42/a15294.html#a9ebb34665b176e4e60f085da65183d8e", null ],
-    [ "Register", "d8/d42/a15294.html#a6a04dbb7c66324e701a8db0ee0334123", null ]
+    [ "npc_claw_tentacle", "d8/d42/a15294.html#a10f1c68d5f49dd1614e7e939498db37b", null ],
+    [ "JustDied", "d8/d42/a15294.html#aa566b417d1b766668133dd1d6a58293f", null ],
+    [ "JustEngagedWith", "d8/d42/a15294.html#a9fbe9b30f973d3c8509ab4bbfcfe5bcc", null ],
+    [ "Reset", "d8/d42/a15294.html#aaf3a3380a33aadc2023d192dfa85cfb2", null ],
+    [ "UpdateAI", "d8/d42/a15294.html#ae7d521445680167add653717c7ae4c86", null ],
+    [ "_portalGUID", "d8/d42/a15294.html#ab979781a8f77267348595cfa17341bae", null ]
 ];

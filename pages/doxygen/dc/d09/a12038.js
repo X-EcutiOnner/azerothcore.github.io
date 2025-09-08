@@ -1,11 +1,9 @@
 var a12038 =
 [
-    [ "boss_draganthaurissanAI", "dc/d09/a12038.html#a2ecd55ed9e7e48829cb85862e965b7d8", null ],
-    [ "JustDied", "dc/d09/a12038.html#a7a7d4737c4825cfabc1012f9cce0e38a", null ],
-    [ "JustEngagedWith", "dc/d09/a12038.html#a00604bed2c13a7b470d950059122f018", null ],
-    [ "KilledUnit", "dc/d09/a12038.html#acec58686917d6e5aff9a51a96b023174", null ],
-    [ "SetData", "dc/d09/a12038.html#aaa43aa340f946f3b8361f2bb7b29ef40", null ],
-    [ "UpdateAI", "dc/d09/a12038.html#a04eaea53b78d490373f9bb911cc92596", null ],
-    [ "hasYelled", "dc/d09/a12038.html#aef5ede4f444e85fafd30faab6043672b", null ],
-    [ "SenatorYells", "dc/d09/a12038.html#ab4b27bf33b58b44ac604ca6bf6b5e424", null ]
+    [ "npc_burning_spiritAI", "dc/d09/a12038.html#a52f63423d09794446b0c01da2feb325d", null ],
+    [ "EnterEvadeMode", "dc/d09/a12038.html#a567a7a023bb83a1228bb458ea16ee2fc", null ],
+    [ "IsSummonedBy", "dc/d09/a12038.html#a65ee7b6dd6d4394cc04a6260fc75827e", null ],
+    [ "MovementInform", "dc/d09/a12038.html#a0a02ece5a3ff1eefa30fd27a9cc84d10", null ],
+    [ "_events", "dc/d09/a12038.html#a9af0f46710741bba3d8401d1a1fb0556", null ],
+    [ "_flamelasherGUID", "dc/d09/a12038.html#abfc34e3e45d1e74b328a91f6f8981191", null ]
 ];

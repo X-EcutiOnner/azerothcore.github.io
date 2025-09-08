@@ -1,11 +1,11 @@
 var a03053 =
 [
-    [ "BattlegroundEYPointIconsStruct", "db/d0e/a07390.html", "db/d0e/a07390" ],
-    [ "BattlegroundEYLosingPointStruct", "d6/d75/a07394.html", "d6/d75/a07394" ],
-    [ "BattlegroundEYCapturingPointStruct", "d6/d49/a07398.html", "d6/d49/a07398" ],
-    [ "BattlegroundEYScore", "dd/db0/a07402.html", "dd/db0/a07402" ],
-    [ "BattlegroundEY", "d4/d87/a07406.html", "d4/d87/a07406" ],
-    [ "BattlegroundEY::CapturePointInfo", "d9/d20/a07410.html", "d9/d20/a07410" ],
+    [ "BattlegroundEYPointIconsStruct", "d4/d87/a07406.html", "d4/d87/a07406" ],
+    [ "BattlegroundEYLosingPointStruct", "d9/d20/a07410.html", "d9/d20/a07410" ],
+    [ "BattlegroundEYCapturingPointStruct", "d4/da1/a07414.html", "d4/da1/a07414" ],
+    [ "BattlegroundEYScore", "d8/d85/a07418.html", "d8/d85/a07418" ],
+    [ "BattlegroundEY", "d4/dec/a07422.html", "d4/dec/a07422" ],
+    [ "BattlegroundEY::CapturePointInfo", "dc/dad/a07426.html", "dc/dad/a07426" ],
     [ "BG_EY_AreaTriggers", "d6/dfe/a03053.html#a0249cc17563cf762e09fd2bb8edfe050", [
       [ "AT_BLOOD_ELF_POINT", "d6/dfe/a03053.html#a0249cc17563cf762e09fd2bb8edfe050a93890d9ac24a6fedb8263bb499c943ae", null ],
       [ "AT_FEL_REAVER_POINT", "d6/dfe/a03053.html#a0249cc17563cf762e09fd2bb8edfe050a3127ddbe069a0ea8c143336443814639", null ],

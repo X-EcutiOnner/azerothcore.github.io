@@ -1,15 +1,14 @@
 var a07962 =
 [
-    [ "LfgProposal", "d0/d49/a07962.html#ad67e8b90ee53576adcab0ac41e523699", null ],
-    [ "cancelTime", "d0/d49/a07962.html#ad702ce8bccc9fbb81457456f1133e2e0", null ],
-    [ "dungeonId", "d0/d49/a07962.html#a3f4f1e3120ed950e2272789c757a401f", null ],
-    [ "encounters", "d0/d49/a07962.html#a6f0fb2094c6237c8bba4321b432115ad", null ],
-    [ "group", "d0/d49/a07962.html#ac04263773858dfe70e7dd627a62113dc", null ],
-    [ "id", "d0/d49/a07962.html#a580dfb67b8040a6267cbd20938cb8667", null ],
-    [ "isNew", "d0/d49/a07962.html#a81989ce9df0046cfde2d805cc4edb59f", null ],
-    [ "leader", "d0/d49/a07962.html#a12f8574ad017641808e522e1e9fdff49", null ],
-    [ "players", "d0/d49/a07962.html#a7d0cc59e08db6fd186de1875c7313b3d", null ],
-    [ "queues", "d0/d49/a07962.html#a7d0a8fabf7aaa632df03f8838fd2a3b4", null ],
-    [ "showorder", "d0/d49/a07962.html#a3d388b633378c35f0efe5927fa78beef", null ],
-    [ "state", "d0/d49/a07962.html#abd3f0fe86587f41c443735164924a3ae", null ]
+    [ "LfgQueueStatusData", "d0/d49/a07962.html#af50fc3422feb137a7ccd820e2ac2fe44", null ],
+    [ "dps", "d0/d49/a07962.html#a99a0bd2b1eeb4b8f9a7ffd088232ef0a", null ],
+    [ "dungeonId", "d0/d49/a07962.html#a9a6288f9e14e593e147b4f60a1dc8991", null ],
+    [ "healers", "d0/d49/a07962.html#a61b2c2f4391022c7e4ba3972c4467a74", null ],
+    [ "queuedTime", "d0/d49/a07962.html#a398efafa1ef7faa6600d6fdb28306f49", null ],
+    [ "tanks", "d0/d49/a07962.html#a74f54d22ca9e2b6711bf363737b9ff06", null ],
+    [ "waitTime", "d0/d49/a07962.html#aa794f234bf93e66916f7eadb986f17ef", null ],
+    [ "waitTimeAvg", "d0/d49/a07962.html#af44b91dd7ddfb702662663f989f026fc", null ],
+    [ "waitTimeDps", "d0/d49/a07962.html#aa95e69bcfb84de1d37bc7ff1a4ece8bf", null ],
+    [ "waitTimeHealer", "d0/d49/a07962.html#abf57fbbaac89b08bacf0731e3a8b65e3", null ],
+    [ "waitTimeTank", "d0/d49/a07962.html#a73cdcd16181375a7d428e6b50cb1e1e6", null ]
 ];

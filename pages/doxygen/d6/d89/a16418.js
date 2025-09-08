@@ -1,6 +1,6 @@
 var a16418 =
 [
-    [ "FilterTargets", "d6/d89/a16418.html#a79d34d7e517b27e44c6a91d6056dfec7", null ],
-    [ "PrepareSpellScript", "d6/d89/a16418.html#a5ede43deece629a38f5482280983b59a", null ],
-    [ "Register", "d6/d89/a16418.html#aec3d0ed996e9cbfed9fb78c5f16e254f", null ]
+    [ "npc_memoryAI", "d6/d8e/a16422.html", "d6/d8e/a16422" ],
+    [ "npc_memory", "d6/d89/a16418.html#acebf31813025d323f9486d6575a60483", null ],
+    [ "GetAI", "d6/d89/a16418.html#ad8e532d029217a06d11ae39810498976", null ]
 ];

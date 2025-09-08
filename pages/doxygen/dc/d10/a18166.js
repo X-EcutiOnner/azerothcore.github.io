@@ -1,7 +1,6 @@
 var a18166 =
 [
-    [ "HandleCast", "dc/d10/a18166.html#aaa3262bc782e342825d4caba2954e95d", null ],
-    [ "PrepareSpellScript", "dc/d10/a18166.html#ae4d1f05b978e2a46d7dc3410def73978", null ],
-    [ "Register", "dc/d10/a18166.html#ac59fb77c6a52d7a603dbb27e933a6814", null ],
-    [ "Validate", "dc/d10/a18166.html#a6ca80316fe7bcbb4ebda095d633bb1bc", null ]
+    [ "ExtraRemoveEffect", "dc/d10/a18166.html#a49b1087d66606ddeebe6918ad05d4b37", null ],
+    [ "PrepareAuraScript", "dc/d10/a18166.html#a41992ed6c23275d3a910915755b682f9", null ],
+    [ "Register", "dc/d10/a18166.html#ab956cb95473cf0c5fc9fb2af14fc945e", null ]
 ];

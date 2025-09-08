@@ -1,6 +1,7 @@
 var a15890 =
 [
-    [ "npc_rivern_frostwind", "d8/dad/a15890.html#a0675c120fc28b26c7ea3c35f8d3f2a64", null ],
-    [ "OnGossipHello", "d8/dad/a15890.html#a90a6582633336de422c9f98973562b32", null ],
-    [ "OnGossipSelect", "d8/dad/a15890.html#a067ff91179f551633594d488eda269ed", null ]
+    [ "npc_ameAI", "d2/dc0/a15894.html", "d2/dc0/a15894" ],
+    [ "npc_ame", "d8/dad/a15890.html#a6b4a20b06bc88393dd08b4eae83c1d50", null ],
+    [ "GetAI", "d8/dad/a15890.html#a09f7688c38d56319791f7543eb32f317", null ],
+    [ "OnQuestAccept", "d8/dad/a15890.html#a69b8ec6558e70e34f7e405b397b09f43", null ]
 ];

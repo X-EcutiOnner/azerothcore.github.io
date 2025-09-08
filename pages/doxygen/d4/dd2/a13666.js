@@ -1,6 +1,6 @@
 var a13666 =
 [
-    [ "HandleSendEvent", "d4/dd2/a13666.html#a1be975f4440b823c34cc3e790fcff608", null ],
-    [ "PrepareSpellScript", "d4/dd2/a13666.html#a91ac4a392fcf5b6e833fb3f5103d8e06", null ],
-    [ "Register", "d4/dd2/a13666.html#a217fb7cb47b08999d49ec04b345b77fe", null ]
+    [ "instance_uldaman_InstanceMapScript", "da/df7/a13670.html", "da/df7/a13670" ],
+    [ "instance_uldaman", "d4/dd2/a13666.html#a854807db729d15aa4a09aad051fe3bda", null ],
+    [ "GetInstanceScript", "d4/dd2/a13666.html#a672bb8b5a16d29d25a191ab90d8007b4", null ]
 ];

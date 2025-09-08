@@ -1,5 +1,6 @@
 var a12106 =
 [
-    [ "boss_moira_bronzebeard", "d1/d75/a12106.html#abb9a87023b8afa242e60f9694dea1c39", null ],
-    [ "GetAI", "d1/d75/a12106.html#ad99554aac80c79933b78ab4b6d42cc4f", null ]
+    [ "boss_magmusAI", "d1/dab/a12110.html", "d1/dab/a12110" ],
+    [ "boss_magmus", "d1/d75/a12106.html#a97747c0d7e1fd33204033d6061d6d570", null ],
+    [ "GetAI", "d1/d75/a12106.html#a171bc08a8dd9fa502f3b2b6cf736fd52", null ]
 ];

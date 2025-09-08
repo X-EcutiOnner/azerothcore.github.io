@@ -1,6 +1,6 @@
 var a13074 =
 [
-    [ "npc_unworthy_initiateAI", "d4/d99/a13078.html", "d4/d99/a13078" ],
-    [ "npc_unworthy_initiate", "d9/d40/a13074.html#aaa04626b783eadc0b14bd89aa715e694", null ],
-    [ "GetAI", "d9/d40/a13074.html#a0912cc56cb2082b2de086cbd9b914b4a", null ]
+    [ "npc_dkc1_gothikAI", "d4/d99/a13078.html", "d4/d99/a13078" ],
+    [ "npc_dkc1_gothik", "d9/d40/a13074.html#ae4a6aec0235b01044ebd5c9c71d400d9", null ],
+    [ "GetAI", "d9/d40/a13074.html#aeb285cf6977cfab5d337f51ae41907ec", null ]
 ];

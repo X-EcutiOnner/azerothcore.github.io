@@ -1,7 +1,7 @@
 var a13802 =
 [
-    [ "npc_deathstalker_erlandAI", "dd/dd9/a13806.html", "dd/dd9/a13806" ],
-    [ "npc_deathstalker_erland", "d4/d2b/a13802.html#ad49faf068e982f245f0d1e21f0700c40", null ],
-    [ "GetAI", "d4/d2b/a13802.html#ab59235f212ddb985056cb8e32719b723", null ],
-    [ "OnQuestAccept", "d4/d2b/a13802.html#a81b20bc8c7249a59d69ba63ab32a5f06", null ]
+    [ "npc_greengill_slaveAI", "d4/d2b/a13802.html#a1a4268b745e63992f4d0fc2028b717aa", null ],
+    [ "JustEngagedWith", "d4/d2b/a13802.html#ad7fcb8c711782d3a76e9e4566334fc21", null ],
+    [ "SpellHit", "d4/d2b/a13802.html#a0e75a3e8eb3503fdb3aea12e65ccc6e4", null ],
+    [ "UpdateAI", "d4/d2b/a13802.html#a6fa27328cf47bef81c3465b8a3e2ace1", null ]
 ];

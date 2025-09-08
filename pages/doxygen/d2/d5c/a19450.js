@@ -1,6 +1,6 @@
 var a19450 =
 [
-    [ "npc_eoe_wyrmrest_skytalonAI", "d5/d10/a19454.html", "d5/d10/a19454" ],
-    [ "npc_eoe_wyrmrest_skytalon", "d2/d5c/a19450.html#a55685de624b277840f8fc0c397b8aebf", null ],
-    [ "GetAI", "d2/d5c/a19450.html#a01a384ab10cfccbd159f116e0bef52e8", null ]
+    [ "npc_hover_diskAI", "d5/d10/a19454.html", "d5/d10/a19454" ],
+    [ "npc_hover_disk", "d2/d5c/a19450.html#af0ab534387a2af4e168915801ee855e5", null ],
+    [ "GetAI", "d2/d5c/a19450.html#adbe9285126089ca998e9b6360f42c553", null ]
 ];

@@ -1,17 +1,7 @@
 var a23794 =
 [
-    [ "boss_grand_warlock_nethekurse", "dd/dd4/a23794.html#a4eefeb639cf5f0753feb6cfd99cda187", null ],
-    [ "DoAction", "dd/dd4/a23794.html#a8288f8c28b61dac574254435534b5e3f", null ],
-    [ "IntroRP", "dd/dd4/a23794.html#ae071f8cc7ef44e6c6cf205295debea5f", null ],
-    [ "JustDied", "dd/dd4/a23794.html#a48a2ec7beeb5c9685fc627317acea949", null ],
-    [ "JustEngagedWith", "dd/dd4/a23794.html#a117d2d737433ea89b37ea1ee58e6c237", null ],
-    [ "JustReachedHome", "dd/dd4/a23794.html#afe62561de66fbe7fa92c365a51f01adc", null ],
-    [ "KilledUnit", "dd/dd4/a23794.html#ac29fa30bfa8377a07cbfdd1f0964ebfb", null ],
-    [ "Reset", "dd/dd4/a23794.html#aceef7aace38f5246ad67a1591b7f301c", null ],
-    [ "SetData", "dd/dd4/a23794.html#a6c647262ce7df78c46af6b725cbcc250", null ],
-    [ "UpdateAI", "dd/dd4/a23794.html#aca0bd4c71aafd2d1c54e2ca87d538e9a", null ],
-    [ "_canAggro", "dd/dd4/a23794.html#a9c577798d5bc87654e6984af02d95c34", null ],
-    [ "_introStarted", "dd/dd4/a23794.html#ac7d0737aa28c51cc63d93b8774e536f0", null ],
-    [ "PeonEngagedCount", "dd/dd4/a23794.html#a886a0e792cf5ac6afa9670703cb568ff", null ],
-    [ "PeonKilledCount", "dd/dd4/a23794.html#a8837d810df1d8b8a505d2d6c98ac8be8", null ]
+    [ "FilterTargets", "dd/dd4/a23794.html#a921450a09e51585beb9dd2ce9b00bac9", null ],
+    [ "HandleHit", "dd/dd4/a23794.html#adb30857a5a320bb24b8cc0bcb9d60040", null ],
+    [ "PrepareSpellScript", "dd/dd4/a23794.html#a376618b9811b2e1ec18697431094e22f", null ],
+    [ "Register", "dd/dd4/a23794.html#ae7f4f54446d5a1ebb20d49ab9deaed81", null ]
 ];

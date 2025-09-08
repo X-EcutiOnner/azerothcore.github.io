@@ -1,6 +1,9 @@
 var a16422 =
 [
-    [ "FilterTargets", "d6/d8e/a16422.html#a40c4d2b624fe87e21263d1b137994cc3", null ],
-    [ "PrepareSpellScript", "d6/d8e/a16422.html#a697a52cbc50eafd2b0377621afb01557", null ],
-    [ "Register", "d6/d8e/a16422.html#a3d523f92cb8123f30cb068cbac39a9c3", null ]
+    [ "npc_memoryAI", "d6/d8e/a16422.html#ad927d377d60b44f43808469042f5feb9", null ],
+    [ "JustDied", "d6/d8e/a16422.html#a7b0484919d671877f29dfa05ca1265d9", null ],
+    [ "Reset", "d6/d8e/a16422.html#a985c51bbfa2cceeb7601432491253aaf", null ],
+    [ "UpdateAI", "d6/d8e/a16422.html#a6cb74389f5aea91d2062e007ea08acd7", null ],
+    [ "events", "d6/d8e/a16422.html#a2ed2993e89728a3723456a67e13581f7", null ],
+    [ "pInstance", "d6/d8e/a16422.html#a31bcb5041844ea5e3a076ad1366897e1", null ]
 ];

@@ -1,6 +1,6 @@
 var a24650 =
 [
-    [ "HandlePeriodic", "d6/d58/a24650.html#adc387a1b001119b95179856c030853ad", null ],
-    [ "PrepareAuraScript", "d6/d58/a24650.html#a64eb2c68651171f1cbda3aa98d58e68e", null ],
-    [ "Register", "d6/d58/a24650.html#a1234c3e7b32d5bed67c8e9c2afc1fdc5", null ]
+    [ "FilterTargets", "d6/d58/a24650.html#a991a944f31680e4d53cc2a46d8c8b8bf", null ],
+    [ "PrepareSpellScript", "d6/d58/a24650.html#aea49df3f6b93223ed72c3a9875232b74", null ],
+    [ "Register", "d6/d58/a24650.html#a8f0e0b6363303def780d35415c88b4d6", null ]
 ];

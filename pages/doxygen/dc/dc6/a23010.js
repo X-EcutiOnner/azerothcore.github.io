@@ -1,9 +1,11 @@
 var a23010 =
 [
-    [ "HandleAfterCast", "dc/dc6/a23010.html#a32928b579ef42f377e911ef27197ed61", null ],
-    [ "HandleDummy", "dc/dc6/a23010.html#a2adec08f0cc42cb21e97007b5f1214bc", null ],
-    [ "Load", "dc/dc6/a23010.html#ac870bd626367bdc704e63d2f3b061b1f", null ],
-    [ "PrepareSpellScript", "dc/dc6/a23010.html#a1f51d5562d5caac8d7d0f71de0051989", null ],
-    [ "Register", "dc/dc6/a23010.html#adf8c87e9f6a3fb36bf26ed1c8dbb722f", null ],
-    [ "_targetCount", "dc/dc6/a23010.html#a84d46608f7141d68b1a67fffc3493cbb", null ]
+    [ "boss_high_nethermancer_zerevor", "dc/dc6/a23010.html#a2d3ce1a6d972c0b58efe5aad31014c09", null ],
+    [ "AttackStart", "dc/dc6/a23010.html#a270961bd3af6ce65eebc79130f4e3d47", null ],
+    [ "CastDampenMagicIfPossible", "dc/dc6/a23010.html#ab0af23baf43d377935811c52a346c566", null ],
+    [ "JustEngagedWith", "dc/dc6/a23010.html#a390f939ba01ee189fc55670eb4ff1a7e", null ],
+    [ "OnAuraRemove", "dc/dc6/a23010.html#a7dd31808dbf00f77b59fce84249778fe", null ],
+    [ "Reset", "dc/dc6/a23010.html#afd7a419de217b3d129f783ddc87780af", null ],
+    [ "UpdateAI", "dc/dc6/a23010.html#ae1ec04a655525cbb2a6a3c7e382cf078", null ],
+    [ "_canCastDampenMagic", "dc/dc6/a23010.html#a72c89454c2b0754690ae72fd7aacb0e8", null ]
 ];

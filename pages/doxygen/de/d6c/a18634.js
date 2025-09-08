@@ -1,6 +1,7 @@
 var a18634 =
 [
-    [ "npc_green_dragon_combat_triggerAI", "d9/dab/a18638.html", "d9/dab/a18638" ],
-    [ "npc_green_dragon_combat_trigger", "de/d6c/a18634.html#acec675494f5e5e9609bf34b7f25cb569", null ],
-    [ "GetAI", "de/d6c/a18634.html#a945b7cd0084873c17d52b3c2cc3ede22", null ]
+    [ "AuraRemoveEvent", "de/d6c/a18634.html#a094b9437c7cadb465738daf5684c9725", null ],
+    [ "Execute", "de/d6c/a18634.html#a14ac906a0fcff86f61983c570b0bd6ad", null ],
+    [ "_spellId", "de/d6c/a18634.html#a6fad41839e07e9545859be7c3afcfc36", null ],
+    [ "_trigger", "de/d6c/a18634.html#aad8c27befc102dae6823d5d74fed50b4", null ]
 ];

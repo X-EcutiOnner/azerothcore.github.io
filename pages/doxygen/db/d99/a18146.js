@@ -1,10 +1,6 @@
 var a18146 =
 [
-    [ "FilterTargets", "db/d99/a18146.html#aefba5226671b6217549bd34059519179", null ],
-    [ "Load", "db/d99/a18146.html#af8a2b651782783dc29ac7266ed02c028", null ],
-    [ "NotifyTargets", "db/d99/a18146.html#a618e98fbd5c6ae21047cc4f911099730", null ],
-    [ "PrepareSpellScript", "db/d99/a18146.html#a0cd63fa27a1ee853c5d73c766d1c4de6", null ],
-    [ "Register", "db/d99/a18146.html#ae72a470c87f7d90e4bd635e239d09f9b", null ],
-    [ "ReplaceTargets", "db/d99/a18146.html#a5d3df9715d04ea4b663b061c7c02ae03", null ],
-    [ "_target", "db/d99/a18146.html#a10c85fd3909e56f457d73add8021c0b7", null ]
+    [ "npc_little_oozeAI", "d4/d85/a18150.html", "d4/d85/a18150" ],
+    [ "npc_little_ooze", "db/d99/a18146.html#a9b0849057c1d3dd9f6507b9c80e67a66", null ],
+    [ "GetAI", "db/d99/a18146.html#a3e56c6dbad6239485897655a4bfbbe07", null ]
 ];

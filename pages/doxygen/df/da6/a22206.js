@@ -1,6 +1,9 @@
 var a22206 =
 [
-    [ "npc_black_knight_graveyardAI", "d3/d7e/a22210.html", "d3/d7e/a22210" ],
-    [ "npc_black_knight_graveyard", "df/da6/a22206.html#a2ce61ba254916f1f8b7a7658f96b67d5", null ],
-    [ "GetAI", "df/da6/a22206.html#aab382cd1b7561c0db9c9f4c81247e540", null ]
+    [ "npc_Apothecary_HanesAI", "df/da6/a22206.html#a8e209b142a58b3b3c0d84c430a086ade", null ],
+    [ "JustDied", "df/da6/a22206.html#a4c681936d8e7053ace5cdeeaa1ee5ca9", null ],
+    [ "Reset", "df/da6/a22206.html#a23d54542e6debf39798c2a2d6e2a255d", null ],
+    [ "UpdateEscortAI", "df/da6/a22206.html#ab54eb5115b9c41b39f0de0f8f4412ef9", null ],
+    [ "WaypointReached", "df/da6/a22206.html#a7105ea4c83ddd0fd08c96a0b0ff40bd2", null ],
+    [ "PotTimer", "df/da6/a22206.html#a252858818b61cf15e2e031ceaaadc6b8", null ]
 ];

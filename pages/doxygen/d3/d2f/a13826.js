@@ -1,13 +1,15 @@
 var a13826 =
 [
-    [ "npc_lord_gregor_lescovarAI", "d3/d2f/a13826.html#ab3ed8a9536fc6be948f280e319d4fec7", null ],
-    [ "DoGuardsDisappearAndDie", "d3/d2f/a13826.html#a8588cae3dc8aa3dd46c55439d355df9b", null ],
-    [ "EnterEvadeMode", "d3/d2f/a13826.html#a95e60614808191e4c1f909f5e38e4741", null ],
-    [ "JustEngagedWith", "d3/d2f/a13826.html#ad0ca7d80d68b9623b99c644daa8f4c57", null ],
-    [ "Reset", "d3/d2f/a13826.html#a06df695e9acd96b07f4e58c9461a708c", null ],
-    [ "UpdateAI", "d3/d2f/a13826.html#ab8cc7d7d56550e66497116e5b4233a02", null ],
-    [ "WaypointReached", "d3/d2f/a13826.html#ad91850dc72d0307e28b881717bfba6db", null ],
-    [ "MarzonGUID", "d3/d2f/a13826.html#a68779dfa5643ffbf0065964d72ba5ddc", null ],
-    [ "uiPhase", "d3/d2f/a13826.html#a3eaf47541cabaac9ce12f830d7d3ef41", null ],
-    [ "uiTimer", "d3/d2f/a13826.html#a70e6be2f5c0f88664c6bbe3f29e1d184", null ]
+    [ "npc_deathstalker_fearleia", "d3/d2f/a13826.html#a92c6d31e801164dc0c4ddc8c47f134b6", null ],
+    [ "JustDied", "d3/d2f/a13826.html#a378f59a926e1be299b6e5ddf0cc83d30", null ],
+    [ "JustEngagedWith", "d3/d2f/a13826.html#a248f13c2fff27a9ec8075d5b1429fec8", null ],
+    [ "JustSummoned", "d3/d2f/a13826.html#a8ef363de7292d366eea128b55b1acaeb", null ],
+    [ "Reset", "d3/d2f/a13826.html#a5f7f40e2d702fae5242cfc347d44a1fe", null ],
+    [ "sQuestAccept", "d3/d2f/a13826.html#a5da116182685dfac72139b40266f2884", null ],
+    [ "SummonCreatureWithRandomTarget", "d3/d2f/a13826.html#a884be2e1aa730c310de24cb865fc7aa5", null ],
+    [ "SummonedCreatureDespawn", "d3/d2f/a13826.html#a36415976d5ae2034578581bdec183f33", null ],
+    [ "UpdateAI", "d3/d2f/a13826.html#a45f4823e2a131fda3c4e03de13ec0c5e", null ],
+    [ "_playerGUID", "d3/d2f/a13826.html#a7135b977e1d7ef47c62f4dace25908fd", null ],
+    [ "_questInProgress", "d3/d2f/a13826.html#a899a4a0c3c70236be66ee2028f3423c7", null ],
+    [ "_summons", "d3/d2f/a13826.html#a79dc171af9ef5057039f9a6b87c49bd1", null ]
 ];

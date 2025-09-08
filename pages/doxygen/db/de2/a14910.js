@@ -1,6 +1,6 @@
 var a14910 =
 [
-    [ "boss_salrammAI", "d7/d4d/a14914.html", "d7/d4d/a14914" ],
-    [ "boss_salramm", "db/de2/a14910.html#a62c629a03f0c7ca7f3bf14b5209342d1", null ],
-    [ "GetAI", "db/de2/a14910.html#ab6b400f0d329d4def074d012de47f53d", null ]
+    [ "boss_mal_ganisAI", "d7/d4d/a14914.html", "d7/d4d/a14914" ],
+    [ "boss_mal_ganis", "db/de2/a14910.html#a604becb65e766f4fb71d2ae168d1be4e", null ],
+    [ "GetAI", "db/de2/a14910.html#aa747abd11310c3535ea2ea37e4aac28b", null ]
 ];

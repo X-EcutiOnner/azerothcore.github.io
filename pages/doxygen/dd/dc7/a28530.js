@@ -1,13 +1,7 @@
 var a28530 =
 [
-    [ "AcquireMethod", "dd/dc7/a28530.html#a31a8f5d642b2826b58bc7dfaf5f26719", null ],
-    [ "ClassMask", "dd/dc7/a28530.html#a868a7a346c1da7fa74ed36f0bfb59e3e", null ],
-    [ "ID", "dd/dc7/a28530.html#a95cab9102e1dd6c4f449aba2ecf14372", null ],
-    [ "MinSkillLineRank", "dd/dc7/a28530.html#a2a6c4b50a288ea023099fb49aaca37e4", null ],
-    [ "RaceMask", "dd/dc7/a28530.html#acfd38780584b90ca40a1e1cd59605832", null ],
-    [ "SkillLine", "dd/dc7/a28530.html#a0050dcf5c82f785dfc93079debe54a13", null ],
-    [ "Spell", "dd/dc7/a28530.html#a19e1a55dadce68e6e9c1bd7bb2ca51dd", null ],
-    [ "SupercededBySpell", "dd/dc7/a28530.html#a0eabe8b18fa4bf67eaaaa56f2264ad5d", null ],
-    [ "TrivialSkillLineRankHigh", "dd/dc7/a28530.html#aa8f0c15da1d4d14853bd42e7e20bc963", null ],
-    [ "TrivialSkillLineRankLow", "dd/dc7/a28530.html#aca5e15003099e1fdbd2eaa701b96f162", null ]
+    [ "EpicPropertiesPoints", "dd/dc7/a28530.html#a35dc60a15091357e03032226621340f7", null ],
+    [ "itemLevel", "dd/dc7/a28530.html#a35506e3235c2c24230058dc2fb9abc4f", null ],
+    [ "RarePropertiesPoints", "dd/dc7/a28530.html#a9359171635ef3e9a0029820fad286368", null ],
+    [ "UncommonPropertiesPoints", "dd/dc7/a28530.html#a74acb6861a84d5d193038eaa5ac9b12f", null ]
 ];

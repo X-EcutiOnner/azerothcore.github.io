@@ -1,7 +1,6 @@
 var a17134 =
 [
-    [ "HandleEffectPeriodic", "d5/d70/a17134.html#aaefcf8ace7c109648c9220fb0ff9d4de", null ],
-    [ "PrepareAuraScript", "d5/d70/a17134.html#ae0ccb7d4566777e52b71e99a908d13fa", null ],
-    [ "Register", "d5/d70/a17134.html#a73e8ef9dbd3dd3dc332d4b3a2eb2c5ea", null ],
-    [ "Validate", "d5/d70/a17134.html#ab3fcbe5386e9529824228e8f3b6be797", null ]
+    [ "npc_hor_risen_witch_doctorAI", "d5/dd2/a17138.html", "d5/dd2/a17138" ],
+    [ "npc_hor_risen_witch_doctor", "d5/d70/a17134.html#add06a10c9b4342b136b5cab49338b095", null ],
+    [ "GetAI", "d5/d70/a17134.html#a055a8d29d8e6a58b92968ed1c39c1b1d", null ]
 ];

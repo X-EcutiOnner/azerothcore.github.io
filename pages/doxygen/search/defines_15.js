@@ -14,13 +14,12 @@ var searchData=
   ['visibility_5fdistance_5fnormal_11',['VISIBILITY_DISTANCE_NORMAL',['../dc/da7/a03404.html#a4ff4df7e2c9ebd38bfd8c298708deba9',1,'ObjectDefines.h']]],
   ['visibility_5fdistance_5fsmall_12',['VISIBILITY_DISTANCE_SMALL',['../dc/da7/a03404.html#ae57720dd4437b418bb332db290c71d45',1,'ObjectDefines.h']]],
   ['visibility_5fdistance_5ftiny_13',['VISIBILITY_DISTANCE_TINY',['../dc/da7/a03404.html#a3e2fbd681c4b511f283f7b4d429a5f80',1,'ObjectDefines.h']]],
-  ['visibility_5finc_5ffor_5fgobjects_14',['VISIBILITY_INC_FOR_GOBJECTS',['../dc/da7/a03404.html#aaeef4cd88d0d15aab096215c91394412',1,'ObjectDefines.h']]],
-  ['visibility_5frange_15',['VISIBILITY_RANGE',['../d8/d59/a04337.html#a5548091cca58d569e4226b6915ec8cb2',1,'CreatureAI.h']]],
-  ['visibility_5fsettings_5fmax_5finterval_5fnum_16',['VISIBILITY_SETTINGS_MAX_INTERVAL_NUM',['../da/d4a/a03107.html#ae515340ce2037b26a80e4db46e653b59',1,'DynamicVisibility.h']]],
-  ['visibility_5fsettings_5fplayer_5finterval_17',['VISIBILITY_SETTINGS_PLAYER_INTERVAL',['../da/d4a/a03107.html#a2733c1a6a4018078df00a4c426661436',1,'DynamicVisibility.h']]],
-  ['visual_5fwaypoint_18',['VISUAL_WAYPOINT',['../d9/d3c/a03650.html#af0544189c7fc748059c3075861102b40',1,'MotionMaster.h']]],
-  ['vmap_5finvalid_5fheight_19',['VMAP_INVALID_HEIGHT',['../d4/def/a00359.html#aa3e862468079e7d1ca850fab429fb316',1,'IVMapMgr.h']]],
-  ['vmap_5finvalid_5fheight_5fvalue_20',['VMAP_INVALID_HEIGHT_VALUE',['../d4/def/a00359.html#a6d0d846568e1fbb60e05aacfa9c1c73c',1,'IVMapMgr.h']]],
-  ['vortex_5fdefault_5fdiff_21',['VORTEX_DEFAULT_DIFF',['../da/daf/a01568.html#a7100ba43dcb23992d0c1aa883b63f3b5',1,'boss_malygos.cpp']]],
-  ['vortex_5ftravel_5ftime_22',['VORTEX_TRAVEL_TIME',['../da/daf/a01568.html#a4cc5108382726c6576ae18ef024ba300',1,'boss_malygos.cpp']]]
+  ['visibility_5frange_14',['VISIBILITY_RANGE',['../d8/d59/a04337.html#a5548091cca58d569e4226b6915ec8cb2',1,'CreatureAI.h']]],
+  ['visibility_5fsettings_5fmax_5finterval_5fnum_15',['VISIBILITY_SETTINGS_MAX_INTERVAL_NUM',['../da/d4a/a03107.html#ae515340ce2037b26a80e4db46e653b59',1,'DynamicVisibility.h']]],
+  ['visibility_5fsettings_5fplayer_5finterval_16',['VISIBILITY_SETTINGS_PLAYER_INTERVAL',['../da/d4a/a03107.html#a2733c1a6a4018078df00a4c426661436',1,'DynamicVisibility.h']]],
+  ['visual_5fwaypoint_17',['VISUAL_WAYPOINT',['../d9/d3c/a03650.html#af0544189c7fc748059c3075861102b40',1,'MotionMaster.h']]],
+  ['vmap_5finvalid_5fheight_18',['VMAP_INVALID_HEIGHT',['../d4/def/a00359.html#aa3e862468079e7d1ca850fab429fb316',1,'IVMapMgr.h']]],
+  ['vmap_5finvalid_5fheight_5fvalue_19',['VMAP_INVALID_HEIGHT_VALUE',['../d4/def/a00359.html#a6d0d846568e1fbb60e05aacfa9c1c73c',1,'IVMapMgr.h']]],
+  ['vortex_5fdefault_5fdiff_20',['VORTEX_DEFAULT_DIFF',['../da/daf/a01568.html#a7100ba43dcb23992d0c1aa883b63f3b5',1,'boss_malygos.cpp']]],
+  ['vortex_5ftravel_5ftime_21',['VORTEX_TRAVEL_TIME',['../da/daf/a01568.html#a4cc5108382726c6576ae18ef024ba300',1,'boss_malygos.cpp']]]
 ];

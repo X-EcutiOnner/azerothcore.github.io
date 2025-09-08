@@ -1,7 +1,8 @@
 var a16630 =
 [
-    [ "npc_toc_warriorAI", "d4/d8f/a16630.html#a6eee7e4fc83ed56a0f775b6892dc8dcb", null ],
-    [ "myCanCast", "d4/d8f/a16630.html#ac815e13cbbe9a8833330e15213420c65", null ],
-    [ "UpdateAI", "d4/d8f/a16630.html#aa787deda09d9bbf2c54d51e618eb2a82", null ],
-    [ "events", "d4/d8f/a16630.html#ae8f9d3f5f2c9172442c7ba4a83275cc1", null ]
+    [ "npc_toc_hunterAI", "d4/d8f/a16630.html#a80f80231bfe5b71bf415da3202c2e6fb", null ],
+    [ "JustSummoned", "d4/d8f/a16630.html#aa270248ad9e0c319234ff0741270b465", null ],
+    [ "myCanCast", "d4/d8f/a16630.html#a4e599ae2ee4e892795889bd57dd29e27", null ],
+    [ "UpdateAI", "d4/d8f/a16630.html#a81f384607ab7e8c4ed7385bdcddfd7a5", null ],
+    [ "events", "d4/d8f/a16630.html#a0cf5ecd9d7b3c92e2da836983323f378", null ]
 ];

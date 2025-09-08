@@ -1,9 +1,6 @@
 var a17886 =
 [
-    [ "CheckAreaTarget", "dc/dab/a17886.html#a770ca8aa441a7c5ddc3e26968d7861a4", null ],
-    [ "HandleApply", "dc/dab/a17886.html#a2aaf88ee6fee8aff23f8ee99b30e369f", null ],
-    [ "Load", "dc/dab/a17886.html#aac27c3377b48bc8c602fa7f12dec491a", null ],
-    [ "PrepareAuraScript", "dc/dab/a17886.html#a105c93dea246a84b73e13bdf3d04f8f4", null ],
-    [ "Register", "dc/dab/a17886.html#a8f476129e0678149463c4b16232f6cb6", null ],
-    [ "_teamIdInInstance", "dc/dab/a17886.html#a78b8e04586e328f89a44f41eb8c478c9", null ]
+    [ "IgbArtilleryCheck", "dc/dab/a17886.html#a78b65928551ed799cf3f446f0603c50e", null ],
+    [ "operator()", "dc/dab/a17886.html#ac083bfb9a5fa2b9888c4e31254baada6", null ],
+    [ "_entry", "dc/dab/a17886.html#a98a6a0836414da82c288e372e982f69f", null ]
 ];

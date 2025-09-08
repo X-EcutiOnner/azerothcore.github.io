@@ -1,8 +1,8 @@
 var a28470 =
 [
-    [ "areaTriggerText", "df/d11/a28470.html#a32bb8c4a4defce661d108627e25b645a", null ],
-    [ "Difficulty", "df/d11/a28470.html#add8ed75cd6aaa3412e6222b869bb4113", null ],
-    [ "MapId", "df/d11/a28470.html#aa107ad302ec2aa3ce2289ba392e1c32e", null ],
-    [ "maxPlayers", "df/d11/a28470.html#a7ab33229ffee11a27861439053c79831", null ],
-    [ "resetTime", "df/d11/a28470.html#a891a741efb049b51996e1a6110efc52d", null ]
+    [ "Id", "df/d11/a28470.html#a6943bf760d15b3f8af4109d131652d72", null ],
+    [ "MapId", "df/d11/a28470.html#ab0cccd760636a3b42af693d6c483bed9", null ],
+    [ "X", "df/d11/a28470.html#a91183890254546efeb3162173cc60dad", null ],
+    [ "Y", "df/d11/a28470.html#a19ab4d026b45d74f006479641afbc4d3", null ],
+    [ "Z", "df/d11/a28470.html#aaa23c59f20fc96aec148b82516f30036", null ]
 ];

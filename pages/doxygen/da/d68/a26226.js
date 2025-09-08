@@ -1,7 +1,10 @@
 var a26226 =
 [
-    [ "CheckProc", "da/d68/a26226.html#a2052750b91de67b330a2ae6a190a5d4e", null ],
-    [ "HandleProc", "da/d68/a26226.html#a5b404a07ccb13cabf5fa6ab90db92129", null ],
-    [ "PrepareAuraScript", "da/d68/a26226.html#af16eec48ab0f469ca3cefd149bb0d925", null ],
-    [ "Register", "da/d68/a26226.html#a4f31c76184e4ae5bc03763e04cdac72e", null ]
+    [ "AfterCheckProc", "da/d68/a26226.html#aa6f32a97ece5fc68c0b0a2cfa36e33eb", null ],
+    [ "HandleProc", "da/d68/a26226.html#a613182c741769d0983206bdfa89242f6", null ],
+    [ "PrepareAuraScript", "da/d68/a26226.html#a4f614fe81d829d8a1ceb7500f9557948", null ],
+    [ "Register", "da/d68/a26226.html#acd807de02a83a97a78572d672fb16027", null ],
+    [ "Validate", "da/d68/a26226.html#a3d2d6f1a00825ac66f507a790f468198", null ],
+    [ "_spellInfo", "da/d68/a26226.html#a66a5eb4caa7b43c34b2830d9a3d2f994", null ],
+    [ "_ticksModifier", "da/d68/a26226.html#ae23b54499fff879a096bd459e264c4f0", null ]
 ];

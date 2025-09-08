@@ -1,9 +1,18 @@
 var a12418 =
 [
-    [ "FilterTargets", "de/d17/a12418.html#ae1029dd58a48c099e8bbd071898f1b12", null ],
-    [ "HandleOnHitRogue", "de/d17/a12418.html#a57cd6d2c45a9a73bb284272db21d1fce", null ],
-    [ "HandleOnHitWarlock", "de/d17/a12418.html#a76f9e5e11a6f2e25868dba567d798002", null ],
-    [ "PrepareSpellScript", "de/d17/a12418.html#a4792a25aa6fe6126a94900784798dbee", null ],
-    [ "Register", "de/d17/a12418.html#a0f6146c64a86e953c042f8404bbfe683", null ],
-    [ "Validate", "de/d17/a12418.html#af65d372cdbb365eff73edb8cf18734c8", null ]
+    [ "boss_victor_nefariusAI", "de/d17/a12418.html#a640261332db1736e27d93067fb83c959", null ],
+    [ "BeginEvent", "de/d17/a12418.html#a53b0953667a42290ed4ab7e71f2dd509", null ],
+    [ "DoAction", "de/d17/a12418.html#ac30157884fa02dce34051d2f76f94d0a", null ],
+    [ "Initialize", "de/d17/a12418.html#a68a5a2c9f0b603a52c2e69ef9559d278", null ],
+    [ "JustDied", "de/d17/a12418.html#a4104a8f6b91f568d537447cf9a9339b5", null ],
+    [ "JustReachedHome", "de/d17/a12418.html#a4e5e6b636918dcf4cc93cd2ce3c53192", null ],
+    [ "JustSummoned", "de/d17/a12418.html#a8ca86c4fee920d07cfafad3227e2203a", null ],
+    [ "Reset", "de/d17/a12418.html#a4374199f776618afaf00934c93e6e0f4", null ],
+    [ "SetData", "de/d17/a12418.html#af9dbc9026fe7baa41c6cf41b59ed81dc", null ],
+    [ "sGossipSelect", "de/d17/a12418.html#ad3d7333e624c70c9c635073a1909c67d", null ],
+    [ "SummonedCreatureDies", "de/d17/a12418.html#a704489a361ac2034ac65c95e9517772f", null ],
+    [ "UpdateAI", "de/d17/a12418.html#a5a043856458c34b47a1dc16e27eac4c9", null ],
+    [ "_nefarianLeftTunnel", "de/d17/a12418.html#a2b6132a6a89ed8f9fc215b1342642fed", null ],
+    [ "_nefarianRightTunnel", "de/d17/a12418.html#ad7e3b70d671080294811e9fb191e880a", null ],
+    [ "KilledAdds", "de/d17/a12418.html#a88f7040db2bf60fb165a406571471fbb", null ]
 ];

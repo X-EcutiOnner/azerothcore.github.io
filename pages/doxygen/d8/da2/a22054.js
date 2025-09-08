@@ -1,6 +1,6 @@
 var a22054 =
 [
-    [ "HandleDummy", "d8/da2/a22054.html#afe86744c6ab901750731fca486ff2e6c", null ],
-    [ "PrepareSpellScript", "d8/da2/a22054.html#a47e8a3187fa523c61842885f1cbd041d", null ],
-    [ "Register", "d8/da2/a22054.html#a61b1b63167b3dc562b9916ffce1e4eee", null ]
+    [ "npc_spiritual_insightAI", "d8/da2/a22054.html#ab173cd8b623fcf8c36406155c91bc4db", null ],
+    [ "GetSpeachId", "d8/da2/a22054.html#ad2dd22651470f47e7a7ba6f687ba54e9", null ],
+    [ "IsSummonedBy", "d8/da2/a22054.html#ab6b39190d1195915ea0b4b191d864da6", null ]
 ];

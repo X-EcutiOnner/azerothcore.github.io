@@ -1,8 +1,14 @@
 var a16282 =
 [
-    [ "OnApply", "d9/d10/a16282.html#a96321003a002be0e4838901f03f8a5d8", null ],
-    [ "OnRemove", "d9/d10/a16282.html#af616afe7bf87eb7fdb44bf15e9ad85d4", null ],
-    [ "PrepareAuraScript", "d9/d10/a16282.html#ae5c880210cb50cf5320ee3595791eaa8", null ],
-    [ "Register", "d9/d10/a16282.html#aaa2a16cff2e9aae77cdc1bb75c38f26a", null ],
-    [ "Validate", "d9/d10/a16282.html#ad09a31813a7a03f8abf6dc9c151bb002", null ]
+    [ "npc_halion_controllerAI", "d9/d10/a16282.html#aabe03dbe5652db6687e7f2857ea33a20", null ],
+    [ "DoAction", "d9/d10/a16282.html#a8d295797e21c03e7d2c3d504c40ba128", null ],
+    [ "Reset", "d9/d10/a16282.html#a3004aecb50815287d5f832f2a8a0d250", null ],
+    [ "SetData", "d9/d10/a16282.html#a3ce9a62d3e44b3ccc279803d5ef87a47", null ],
+    [ "UpdateAI", "d9/d10/a16282.html#ac3ad9df40560ba8acfcd7fbabd303fde", null ],
+    [ "UpdateCorporeality", "d9/d10/a16282.html#ac82987f2b2b069b90c509c477004bae6", null ],
+    [ "_corporeality", "d9/d10/a16282.html#a4c23df1bb774ac724bdf537453592671", null ],
+    [ "_events", "d9/d10/a16282.html#a92e3f116260265a2d0dbeef769eee03e", null ],
+    [ "_instance", "d9/d10/a16282.html#a5cce2f56e6ef0b4baeb6f2f7dbfd2f73", null ],
+    [ "_materialDamage", "d9/d10/a16282.html#afcc510b0d4be10ed057d1a304b803b69", null ],
+    [ "_twilightDamage", "d9/d10/a16282.html#a13a9efcb11ed31725c45011508407287", null ]
 ];

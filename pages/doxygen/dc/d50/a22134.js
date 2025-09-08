@@ -1,6 +1,9 @@
 var a22134 =
 [
-    [ "npc_lake_frogAI", "dd/d80/a22138.html", "dd/d80/a22138" ],
-    [ "npc_lake_frog", "dc/d50/a22134.html#ac7c56b2a6443356523b468c05c36bc6c", null ],
-    [ "GetAI", "dc/d50/a22134.html#a9730da684a81fced304f10b2806c10e5", null ]
+    [ "npc_wounded_skirmisher", "dc/d50/a22134.html#a30fe2d901df0cfd9b66f3dbd6a1e6aea", null ],
+    [ "Initialize", "dc/d50/a22134.html#ae5fab920fcb16b57e0ed53a1177d319b", null ],
+    [ "JustEngagedWith", "dc/d50/a22134.html#a80357b71a1eccdcdce8c8bea87de1b66", null ],
+    [ "Reset", "dc/d50/a22134.html#acca266640c099718d2a0fd4f6a3c47ab", null ],
+    [ "SpellHit", "dc/d50/a22134.html#a891e879af5da1f181c94e528c59a81f1", null ],
+    [ "UpdateAI", "dc/d50/a22134.html#a52f8e7f8df05504cad4b4438c50814a4", null ]
 ];

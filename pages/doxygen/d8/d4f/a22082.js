@@ -1,9 +1,8 @@
 var a22082 =
 [
-    [ "npc_mrfloppyAI", "d8/d4f/a22082.html#a2994e5658035bb2cfe6f3cdab4c507fc", null ],
-    [ "EnterEvadeMode", "d8/d4f/a22082.html#af0f11f715cac553c772c0dca7e5e3a22", null ],
-    [ "JustEngagedWith", "d8/d4f/a22082.html#a490bf07de00cc5c59b5f0024317d8125", null ],
-    [ "MoveInLineOfSight", "d8/d4f/a22082.html#af0b376c5f10b6cb43f3bb63376012a0d", null ],
-    [ "Reset", "d8/d4f/a22082.html#ac2dc6204b0579e1aaf7e670f0fcb4ec5", null ],
-    [ "UpdateAI", "d8/d4f/a22082.html#afad6db1ccd903fd18192f832a10a32f4", null ]
+    [ "AfterApply", "d8/d4f/a22082.html#a57279552b867251e9d2ee6a4ff5d7914", null ],
+    [ "PeriodicTick", "d8/d4f/a22082.html#a2e86aa6efe6ab137926c1dfd1bd26a95", null ],
+    [ "PrepareAuraScript", "d8/d4f/a22082.html#a9e1b74bf2d28a367caefdc90c34743c8", null ],
+    [ "Register", "d8/d4f/a22082.html#a69eb0ca43a15d4995ad219459c2b39d6", null ],
+    [ "Validate", "d8/d4f/a22082.html#a946248656cb755f85dd93fd4d607c9a7", null ]
 ];

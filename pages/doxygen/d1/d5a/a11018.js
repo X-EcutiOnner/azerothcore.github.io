@@ -1,5 +1,6 @@
 var a11018 =
 [
-    [ "TimeQuery", "d1/d5a/a11018.html#a90c467ab19d96b96ace5b50bad617095", null ],
-    [ "Read", "d1/d5a/a11018.html#aae26e83828fc6118dea64f8861170868", null ]
+    [ "PetUnlearnedSpell", "d1/d5a/a11018.html#aa2b125a271228aee0d942a207de170b7", null ],
+    [ "Write", "d1/d5a/a11018.html#a11cf7780eba530026a0898bfafd27109", null ],
+    [ "SpellID", "d1/d5a/a11018.html#adfca5feb5be2408e489edc44e9cd215b", null ]
 ];

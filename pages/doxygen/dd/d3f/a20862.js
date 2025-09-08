@@ -1,5 +1,6 @@
 var a20862 =
 [
-    [ "go_thorim_lever", "dd/d3f/a20862.html#a7641a89c3c369d26753a6e97dd435802", null ],
-    [ "OnGossipHello", "dd/d3f/a20862.html#aa48cd4d5728bd2d012a91f51299827a0", null ]
+    [ "boss_thorim_ancient_rune_giantAI", "da/d1f/a20866.html", "da/d1f/a20866" ],
+    [ "boss_thorim_ancient_rune_giant", "dd/d3f/a20862.html#ad87dca7c6058e4b8b1234410644523dd", null ],
+    [ "GetAI", "dd/d3f/a20862.html#aa8a0ff1416d5678a5d6bb7bdc36d6617", null ]
 ];

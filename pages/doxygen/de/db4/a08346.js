@@ -1,6 +1,23 @@
 var a08346 =
 [
-    [ "DamageMax", "de/db4/a08346.html#afc0bd7960848f6434c182a3fadc1e256", null ],
-    [ "DamageMin", "de/db4/a08346.html#acbab962cbc25ad032c97216feac281bb", null ],
-    [ "DamageType", "de/db4/a08346.html#aecdcc73f2cb30ef5cc149607e01bbe34", null ]
+    [ "Bag", "de/db4/a08346.html#ae0593c22c7dd8b32cab469af92fb200c", null ],
+    [ "~Bag", "de/db4/a08346.html#aac5b94be9c36a9fca542bca3e32260c1", null ],
+    [ "AddToWorld", "de/db4/a08346.html#a1660f8f1c97cfbb512b1835946e05ea4", null ],
+    [ "BuildCreateUpdateBlockForPlayer", "de/db4/a08346.html#a680840268e86a6974c2d89d8bd17d338", null ],
+    [ "Create", "de/db4/a08346.html#a644dbcae3484ba9065f0081457d5084f", null ],
+    [ "DeleteFromDB", "de/db4/a08346.html#ac1f55a19c69604914ab2f7576d3be016", null ],
+    [ "GetBagSize", "de/db4/a08346.html#a0888242c34d30adde36a583c7352a339", null ],
+    [ "GetDebugInfo", "de/db4/a08346.html#a88bd93c16e7b35f299b8b013835d646e", null ],
+    [ "GetFreeSlots", "de/db4/a08346.html#ad5f4da5a3bc645d29c15651190a41d5e", null ],
+    [ "GetItemByPos", "de/db4/a08346.html#a80149f0d19426c9f8502713bce59af7e", null ],
+    [ "GetItemCount", "de/db4/a08346.html#ab4967fad85ab0291fef6bda19a0e7a67", null ],
+    [ "GetItemCountWithLimitCategory", "de/db4/a08346.html#ae6e6f304dbac50eb9ee6a0628c7cb391", null ],
+    [ "GetSlotByItemGUID", "de/db4/a08346.html#ad8c47ab6e44c8dd8713d4af4b07a5df4", null ],
+    [ "IsEmpty", "de/db4/a08346.html#a37797a614a3504571c15047fc9df131d", null ],
+    [ "LoadFromDB", "de/db4/a08346.html#ae34ce4a4d974410aca8880ee0db1cf18", null ],
+    [ "RemoveFromWorld", "de/db4/a08346.html#a2cf52acefeda5787376ae93d4679d6e9", null ],
+    [ "RemoveItem", "de/db4/a08346.html#abc8317240a86c65cc2e7152681e9a5e1", null ],
+    [ "SaveToDB", "de/db4/a08346.html#a3e7264c06a4249594fbf23d43707f635", null ],
+    [ "StoreItem", "de/db4/a08346.html#a1765d07e4de76b9b1cf6eccb125143a1", null ],
+    [ "m_bagslot", "de/db4/a08346.html#ad2fdcedba1dec947bfddfcd55a4d92a0", null ]
 ];

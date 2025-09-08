@@ -1,4 +1,4 @@
 var a06206 =
 [
-    [ "SelectableGameObjectAI", "da/d67/a06206.html#a185217e2cec7ff5b1395efc71dc6ca08", null ]
+    [ "SelectableAI", "da/d67/a06206.html#af34ed4ae0c831a3dd41585704488528f", null ]
 ];

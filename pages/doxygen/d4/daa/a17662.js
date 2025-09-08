@@ -1,6 +1,7 @@
 var a17662 =
 [
-    [ "boss_festergutAI", "db/dfc/a17666.html", "db/dfc/a17666" ],
-    [ "boss_festergut", "d4/daa/a17662.html#a07ac6be688118cc57e6fdc1d8e961953", null ],
-    [ "GetAI", "d4/daa/a17662.html#ab2624e1908bb376f1b195a88e4b9b146", null ]
+    [ "FilterTargets", "d4/daa/a17662.html#aeae290d20ade37eb839c1bf3c9ae59bf", null ],
+    [ "Load", "d4/daa/a17662.html#a38bf6d96c6a78e5105d0369eb993e58c", null ],
+    [ "PrepareSpellScript", "d4/daa/a17662.html#a815c99e9ef570287af5d45c32bdc5b8c", null ],
+    [ "Register", "d4/daa/a17662.html#a33342cc676adaabe5e3896fa559631b7", null ]
 ];

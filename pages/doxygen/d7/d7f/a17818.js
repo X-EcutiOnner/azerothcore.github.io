@@ -1,8 +1,8 @@
 var a17818 =
 [
-    [ "Load", "d7/d7f/a17818.html#a363d0afcf2f79b8219652de5a3a6d466", null ],
-    [ "PrepareSpellScript", "d7/d7f/a17818.html#a8df1abd311a1c32cd6ed296d75566eac", null ],
-    [ "Register", "d7/d7f/a17818.html#a61e8f66c7446e0587b5d743f0e6ead92", null ],
-    [ "RelocateDest", "d7/d7f/a17818.html#abad4acee4c0898fea6bfb57b8155cab2", null ],
-    [ "SelectTransport", "d7/d7f/a17818.html#a0564852176d80ee6593baa3abb18238a", null ]
+    [ "HandlePeriodic", "d7/d7f/a17818.html#a5ff571c616b69bb50c736622feb9ed96", null ],
+    [ "HandleRemove", "d7/d7f/a17818.html#a624887bb5e6d8b72d6c0591661d6ba38", null ],
+    [ "PrepareAuraScript", "d7/d7f/a17818.html#a1b140274e283dd95e28fcb773e30f965", null ],
+    [ "Register", "d7/d7f/a17818.html#abcce83ef6ecbe539a3d8eaef83fb2d33", null ],
+    [ "Validate", "d7/d7f/a17818.html#a94c644e730c51c8edb6a74d68d6228a8", null ]
 ];

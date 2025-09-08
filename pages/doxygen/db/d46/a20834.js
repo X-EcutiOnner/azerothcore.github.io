@@ -1,9 +1,8 @@
 var a20834 =
 [
-    [ "boss_thorim_gauntlet_npcsAI", "db/d46/a20834.html#aaa7e94f653a1db001cd0c962fb855098", null ],
-    [ "JustEngagedWith", "db/d46/a20834.html#afaf0a05b1fd2fc2187b52328340b65bb", null ],
-    [ "Reset", "db/d46/a20834.html#a9e4c25742785809d788f2e910f7840bc", null ],
-    [ "UpdateAI", "db/d46/a20834.html#a4dd5a9cbbb10d514a0473dfd7cdd3c29", null ],
-    [ "_isCaster", "db/d46/a20834.html#a104f447cc52c285d59653a8ebff20fef", null ],
-    [ "events", "db/d46/a20834.html#a650508e05b6fa1af538a0b34e04c8bf5", null ]
+    [ "boss_thorim_pillarAI", "db/d46/a20834.html#ae00c9e72f14e3f2c94da118a1fe27130", null ],
+    [ "Reset", "db/d46/a20834.html#ae9043ed9b72cc0eda6fb7c859355da57", null ],
+    [ "SpellHit", "db/d46/a20834.html#a1cb3ef9fdfc9e375d15e14b9230dd51e", null ],
+    [ "UpdateAI", "db/d46/a20834.html#afd8e05444eeea620a7ef21e97c345d41", null ],
+    [ "_resetTimer", "db/d46/a20834.html#a6ef7c9e23280564aec1b82eb670bc4f9", null ]
 ];

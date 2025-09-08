@@ -1,6 +1,6 @@
 var a12634 =
 [
-    [ "npc_flamewaker_priestAI", "db/d7f/a12638.html", "db/d7f/a12638" ],
-    [ "npc_flamewaker_priest", "da/d0e/a12634.html#a2ae4d75192f8ddc60d092b9a129e636e", null ],
-    [ "GetAI", "da/d0e/a12634.html#a8a38c2c54ae8366496eb58145f75eac9", null ]
+    [ "boss_shazzrahAI", "da/d0e/a12634.html#a984b3d32d5f231a019f2c0f1bb027907", null ],
+    [ "ExecuteEvent", "da/d0e/a12634.html#a0f6e3e6876b9b769ea53db5c9028c6ff", null ],
+    [ "JustEngagedWith", "da/d0e/a12634.html#aaa8111d42cacd58f767513026976668c", null ]
 ];

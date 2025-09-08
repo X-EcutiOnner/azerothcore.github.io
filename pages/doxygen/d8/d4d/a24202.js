@@ -1,9 +1,6 @@
 var a24202 =
 [
-    [ "npc_wounded_blood_elfAI", "d8/d4d/a24202.html#a2dfcd5fa17b56c44f4056ecf4861af6e", null ],
-    [ "JustEngagedWith", "d8/d4d/a24202.html#aba950ba77ff71508263cc54b28c7725b", null ],
-    [ "JustSummoned", "d8/d4d/a24202.html#aa97f5294981c44b530efca1411458a97", null ],
-    [ "Reset", "d8/d4d/a24202.html#a8e6be35a3079998f3bab829f5d963c71", null ],
-    [ "sQuestAccept", "d8/d4d/a24202.html#a56c157928c24daae6edacd5a126ef171", null ],
-    [ "WaypointReached", "d8/d4d/a24202.html#a5affcb00e28a582f8926ab2226001cd0", null ]
+    [ "npc_aeranasAI", "d3/d1d/a24206.html", "d3/d1d/a24206" ],
+    [ "npc_aeranas", "d8/d4d/a24202.html#a6ea71481ef6a223a329b805081122537", null ],
+    [ "GetAI", "d8/d4d/a24202.html#a81167df6665bdca81ee13468dec19643", null ]
 ];

@@ -1,12 +1,8 @@
 var a13942 =
 [
-    [ "npc_daphne_stilwellAI", "d4/d2c/a13942.html#ac2e9f940bc64a70ff8a386e4f483a65e", null ],
-    [ "AttackStart", "d4/d2c/a13942.html#a30056a45adb91a12cf7bcc4e9f0b2d54", null ],
-    [ "JustSummoned", "d4/d2c/a13942.html#ae56554d30e9de7644efab891555c57e0", null ],
-    [ "Reset", "d4/d2c/a13942.html#ae6f0b271478aecf7fd1f3e1c733d77f0", null ],
-    [ "SummonedCreatureDies", "d4/d2c/a13942.html#aa6fdcf9e09031522d342b603b4c70aed", null ],
-    [ "Update", "d4/d2c/a13942.html#a4099d75c4a6bca1525781a5753ef9972", null ],
-    [ "WaypointReached", "d4/d2c/a13942.html#a1035eb0a1696730d8304593b5fb079e4", null ],
-    [ "summons", "d4/d2c/a13942.html#a0cbf5aaf1cb2f234e725074de0acc7e6", null ],
-    [ "textCounter", "d4/d2c/a13942.html#a62ab24169c1b7c3028ab33303b217f63", null ]
+    [ "npc_the_scourge_cauldronAI", "d4/d2c/a13942.html#aa8b221cfe49b09efbfe5943489c844b8", null ],
+    [ "DoDie", "d4/d2c/a13942.html#a9f720a27db2943a66b11ad6355690bf5", null ],
+    [ "JustEngagedWith", "d4/d2c/a13942.html#a89954dec2f7d57d933c18822333243ac", null ],
+    [ "MoveInLineOfSight", "d4/d2c/a13942.html#a256195dbe75859d72afcd0defb9ff76e", null ],
+    [ "Reset", "d4/d2c/a13942.html#ab18bb2eb344f45827685786c665b1750", null ]
 ];

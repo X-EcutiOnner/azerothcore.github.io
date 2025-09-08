@@ -1,8 +1,9 @@
 var a25934 =
 [
-    [ "CheckRequirement", "db/d66/a25934.html#a3ed8450641baeee915fc5a129f9c7434", null ],
-    [ "HandleScript", "db/d66/a25934.html#a92e3137bb92545876ca67028bcc86a4f", null ],
-    [ "Load", "db/d66/a25934.html#a56326701447b3a88d9022ca1f1c184a6", null ],
-    [ "PrepareSpellScript", "db/d66/a25934.html#a94d4155e98a4ac5764d8bfd705b05602", null ],
-    [ "Register", "db/d66/a25934.html#a9b440dd8bf21b70d068021d05832a3fc", null ]
+    [ "CheckProc", "db/d66/a25934.html#a185159a5c83e8c65ef5b82f49a89dd8a", null ],
+    [ "HandleProc", "db/d66/a25934.html#a67db21e0293f336a31bf518c0fac85d1", null ],
+    [ "OnRemove", "db/d66/a25934.html#a1b51483738d5d3b73f50a78ef9fc1c57", null ],
+    [ "PrepareAuraScript", "db/d66/a25934.html#a3e549b8764c0f8efc5d110543c9944c7", null ],
+    [ "Register", "db/d66/a25934.html#abc4b88f104253b2b141ab0e3e22ee338", null ],
+    [ "Validate", "db/d66/a25934.html#a0b5b97081b7c897d451ef70c810bd7f1", null ]
 ];

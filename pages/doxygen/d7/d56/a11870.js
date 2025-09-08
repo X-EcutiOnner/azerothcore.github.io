@@ -1,7 +1,5 @@
 var a11870 =
 [
-    [ "player_commandscript", "d7/d56/a11870.html#a1565aa67743cfd3e5fe5179b4100bd20", null ],
-    [ "GetCommands", "d7/d56/a11870.html#a0e1e8eec0fe449c95c5cf9dd06a0fced", null ],
-    [ "HandlePlayerLearnCommand", "d7/d56/a11870.html#a6ca511bcecf73049665772cb80dbcf40", null ],
-    [ "HandlePlayerUnLearnCommand", "d7/d56/a11870.html#a22fddb5da1278fe794a78a899c423bfd", null ]
+    [ "flag", "d7/d56/a11870.html#a4ea67fc10eedfaa2e5e029e242e1c32f", null ],
+    [ "text", "d7/d56/a11870.html#a492e5e3c2373adba005034514b0a5a1e", null ]
 ];

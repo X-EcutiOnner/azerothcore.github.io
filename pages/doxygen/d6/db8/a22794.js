@@ -1,8 +1,6 @@
 var a22794 =
 [
-    [ "boss_tavarok", "d6/db8/a22794.html#acf2e3ec6c28a59b205442c6ed07623af", null ],
-    [ "JustDied", "d6/db8/a22794.html#a937fc1864eab7fdf23e1be1464d9666d", null ],
-    [ "JustEngagedWith", "d6/db8/a22794.html#a64cae2439cd6e4334ced5d4ef01ef942", null ],
-    [ "KilledUnit", "d6/db8/a22794.html#a2c99df9457c548ee562fde920592ea88", null ],
-    [ "Reset", "d6/db8/a22794.html#a0bea2cc724d92616056b7c5ca2dd03c1", null ]
+    [ "instance_auchenai_crypts_InstanceMapScript", "d7/dd0/a22798.html", "d7/dd0/a22798" ],
+    [ "instance_auchenai_crypts", "d6/db8/a22794.html#a8b16924167c54a9d8120bac67bc10fed", null ],
+    [ "GetInstanceScript", "d6/db8/a22794.html#a99e47df95fde07d4a6e7687634805b93", null ]
 ];

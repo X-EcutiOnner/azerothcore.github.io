@@ -1,6 +1,6 @@
 var a27774 =
 [
-    [ "npc_steam_tonkAI", "d9/de5/a27778.html", "d9/de5/a27778" ],
-    [ "npc_steam_tonk", "d1/d67/a27774.html#a19731e7f1bc6fe0220e8c28619ff7c50", null ],
-    [ "GetAI", "d1/d67/a27774.html#a38e51485a3610a204a45677fce15c943", null ]
+    [ "npc_garments_of_questsAI", "d9/de5/a27778.html", "d9/de5/a27778" ],
+    [ "npc_garments_of_quests", "d1/d67/a27774.html#a7e4ad68e0187c0a392ed93097b2bf0ce", null ],
+    [ "GetAI", "d1/d67/a27774.html#aa8ad1c654f00e054f9b424f61716eafd", null ]
 ];

@@ -1,5 +1,9 @@
 var a10610 =
 [
-    [ "GuildDeclineInvitation", "d6/d02/a10610.html#a11a70a9974bb139e53f76c8b78944fe7", null ],
-    [ "Read", "d6/d02/a10610.html#ad034438e18a7feddbac376a599c1e01a", null ]
+    [ "GuildRoster", "d6/d02/a10610.html#a2161128d6fb6fa53a5129a95ded2b5fc", null ],
+    [ "Write", "d6/d02/a10610.html#a544a539999827d4eb8923cbbcdf42bac", null ],
+    [ "InfoText", "d6/d02/a10610.html#a9d457ee8feb6c173d960b360aca90fc6", null ],
+    [ "MemberData", "d6/d02/a10610.html#a964fc72bf3ada77c171fd1f691449241", null ],
+    [ "RankData", "d6/d02/a10610.html#a67b0a12fae93c5807030c1062f328abb", null ],
+    [ "WelcomeText", "d6/d02/a10610.html#a5ec2c209558d2c34feee4bfd8cda201c", null ]
 ];

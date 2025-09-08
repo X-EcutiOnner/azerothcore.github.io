@@ -1,8 +1,6 @@
 var a12574 =
 [
-    [ "MajordomoAddData", "d9/d63/a12574.html#aa068ada34e1275cbf97b21f74dfd2881", null ],
-    [ "MajordomoAddData", "d9/d63/a12574.html#a9b8cc2b43ffbf268e470169e00e66671", null ],
-    [ "creatureEntry", "d9/d63/a12574.html#ae3a0444e88158123f4d6359328e89a1d", null ],
-    [ "guid", "d9/d63/a12574.html#a2f2b0aaace557361a21d1072f36933dc", null ],
-    [ "spawnPos", "d9/d63/a12574.html#a31f8d24efb19c2d0e697f35b911e3237", null ]
+    [ "boss_lucifronAI", "d9/d63/a12574.html#ab93792bd7798b9ee9cf869fa20190554", null ],
+    [ "ExecuteEvent", "d9/d63/a12574.html#a0ba286f037c07032488d6763daeaf130", null ],
+    [ "JustEngagedWith", "d9/d63/a12574.html#aba3256ec99e56e3051045391fceedc7f", null ]
 ];

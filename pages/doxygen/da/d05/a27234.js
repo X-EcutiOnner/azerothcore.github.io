@@ -1,7 +1,5 @@
 var a27234 =
 [
-    [ "CharacterDeleteActionIpLogger", "da/d05/a27234.html#a37481de65409cf375dcff45615463949", null ],
-    [ "DeleteIPLogAction", "da/d05/a27234.html#a73a5ddacd8892d2300be313cfc12f534", null ],
-    [ "OnPlayerDelete", "da/d05/a27234.html#adb16e45e425fa816b2572692349d0005", null ],
-    [ "OnPlayerFailedDelete", "da/d05/a27234.html#a16bc6247d220c1b6c52808cb4a522c11", null ]
+    [ "achievement_not_even_a_scratch", "da/d05/a27234.html#a0d025c09d35c3640016ab42e11dd96eb", null ],
+    [ "OnCheck", "da/d05/a27234.html#a81f6c9bd36e5a3eea3fe0af24c9f1649", null ]
 ];

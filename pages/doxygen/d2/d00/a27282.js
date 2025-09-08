@@ -1,6 +1,5 @@
 var a27282 =
 [
-    [ "npc_dream_fogAI", "de/da3/a27286.html", "de/da3/a27286" ],
-    [ "npc_dream_fog", "d2/d00/a27282.html#ae50306be88f15c9dfc4d0f12c63c68e6", null ],
-    [ "GetAI", "d2/d00/a27282.html#a48c45fec086e3a50462deed44734ba38", null ]
+    [ "AreaTrigger_at_nats_landing", "d2/d00/a27282.html#ac366e5b1db489b4f8bb8a1d07caa83c2", null ],
+    [ "OnTrigger", "d2/d00/a27282.html#a67434f74300fa3463e679afb7d344467", null ]
 ];

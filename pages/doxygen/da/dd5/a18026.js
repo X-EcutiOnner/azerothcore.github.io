@@ -1,5 +1,6 @@
 var a18026 =
 [
-    [ "npc_volatile_oozeAI", "da/dd5/a18026.html#af042d4c22482aabcdad6fa867dfe093f", null ],
-    [ "CastMainSpell", "da/dd5/a18026.html#a91890785174ecc60c9553a0aedf1961b", null ]
+    [ "boss_professor_putricideAI", "de/d30/a18030.html", "de/d30/a18030" ],
+    [ "boss_professor_putricide", "da/dd5/a18026.html#a80776dad5c0205aa6a98752f43e85e32", null ],
+    [ "GetAI", "da/dd5/a18026.html#a7c84089d24bb0c77a5203884254e0925", null ]
 ];

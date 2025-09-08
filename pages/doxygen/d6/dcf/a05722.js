@@ -1,11 +1,6 @@
 var a05722 =
 [
-    [ "DatabaseWorker", "d6/dcf/a05722.html#a64450680e7b6e31bb42ce4f79788eb27", null ],
-    [ "~DatabaseWorker", "d6/dcf/a05722.html#a170c873cbc917ece6a87591450dbe5a9", null ],
-    [ "DatabaseWorker", "d6/dcf/a05722.html#aa43f1d875400b0ba6c031e0811397ed3", null ],
-    [ "operator=", "d6/dcf/a05722.html#a15e753c757da609b55a66380f526091a", null ],
-    [ "WorkerThread", "d6/dcf/a05722.html#ab74cbccbb68bfbbab58550eced982d1a", null ],
-    [ "_connection", "d6/dcf/a05722.html#a2f21d73b584d9e5f17afc7a0ac78f129", null ],
-    [ "_queue", "d6/dcf/a05722.html#a9c47ad6c0d4dca85a63be45c4e678a70", null ],
-    [ "_workerThread", "d6/dcf/a05722.html#ad02a90f600f1996c053f36e186edf292", null ]
+    [ "Append", "d6/dcf/a05722.html#a290b052f7cbd321c646e9e5e19484444", null ],
+    [ "Append", "d6/dcf/a05722.html#a867b7a92080104278aef5fb4975a4a52", null ],
+    [ "Append", "d6/dcf/a05722.html#aa0a81814abe26d456018c3bc9153cd4d", null ]
 ];

@@ -1,6 +1,5 @@
 var a10598 =
 [
-    [ "GuildUpdateMotdText", "dc/d55/a10598.html#ab3b248450b0dcdde6b51e381e910b15d", null ],
-    [ "Read", "dc/d55/a10598.html#a55cfd6f4797e61ca01ee7aa5c65d9a69", null ],
-    [ "MotdText", "dc/d55/a10598.html#a5b2ee458a919be7f912d49cf984490ac", null ]
+    [ "GuildGetRoster", "dc/d55/a10598.html#a9beccc6ee2416633c57d2da31fdc021a", null ],
+    [ "Read", "dc/d55/a10598.html#af795ad992ec1b55d741227bd2d4a62d1", null ]
 ];

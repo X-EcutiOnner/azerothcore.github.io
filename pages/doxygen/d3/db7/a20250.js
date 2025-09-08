@@ -1,6 +1,6 @@
 var a20250 =
 [
-    [ "boss_freya_lifebinderAI", "da/d29/a20254.html", "da/d29/a20254" ],
-    [ "boss_freya_lifebinder", "d3/db7/a20250.html#ad7a3bc09aacf35b4a6a39e65c966b824", null ],
-    [ "GetAI", "d3/db7/a20250.html#a978e4472a080f0fc53848abaa305cd77", null ]
+    [ "boss_freya_elder_ironbranchAI", "da/d29/a20254.html", "da/d29/a20254" ],
+    [ "boss_freya_elder_ironbranch", "d3/db7/a20250.html#a066083e4d6fde6439f7dce80be209075", null ],
+    [ "GetAI", "d3/db7/a20250.html#a67f483d12fe801c1d840dd0f74396564", null ]
 ];

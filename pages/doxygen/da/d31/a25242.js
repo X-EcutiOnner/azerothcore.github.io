@@ -1,10 +1,8 @@
 var a25242 =
 [
-    [ "Load", "da/d31/a25242.html#a6ae104e97dc9c0aa50e115fe1f17e161", null ],
-    [ "OnPeriodic", "da/d31/a25242.html#ab1dc8acb8072f70625375480742fee5e", null ],
-    [ "PrepareAuraScript", "da/d31/a25242.html#a2e81d03893b23aa8dc9c615683206f75", null ],
-    [ "Register", "da/d31/a25242.html#ac2f2c8359487ad8c619e9faf8535b927", null ],
-    [ "Validate", "da/d31/a25242.html#a0c88acf48d0ea7dd7ac3ac85aa3a126d", null ],
-    [ "_applyTimes", "da/d31/a25242.html#a1bf9f3a1eb52bb64df59b381c412552f", null ],
-    [ "stackAmount", "da/d31/a25242.html#ac8d762bdb40366c93602497e9aaa42eb", null ]
+    [ "CheckRequirement", "da/d31/a25242.html#ad967ae7e2affa312fa4adbca6e86dd7c", null ],
+    [ "HandleScript", "da/d31/a25242.html#aa89b60b2d757ef1ceacebae38aa5d9d9", null ],
+    [ "Load", "da/d31/a25242.html#a9dfb5501ad6324a25966af44f233b5fb", null ],
+    [ "PrepareSpellScript", "da/d31/a25242.html#ace75db8a6e5628df6e2edba91cd2852f", null ],
+    [ "Register", "da/d31/a25242.html#a89d053e0ee793017c74188aac32d99d5", null ]
 ];

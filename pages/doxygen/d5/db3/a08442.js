@@ -1,5 +1,5 @@
 var a08442 =
 [
-    [ "ObjectGuidGenerator", "d5/db3/a08442.html#a1d917989d9bf681546d0e3e9b20593e0", null ],
-    [ "Generate", "d5/db3/a08442.html#a43dfe501c5ec222bbd1f8687a1a103b9", null ]
+    [ "PackedGuidReader", "d5/db3/a08442.html#aec7af2ed383e06998a0fa12b94da90e3", null ],
+    [ "Guid", "d5/db3/a08442.html#a4de5d725a22f0a8ae4bb83cb51a72588", null ]
 ];

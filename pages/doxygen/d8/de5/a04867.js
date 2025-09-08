@@ -1,8 +1,8 @@
 var a04867 =
 [
-    [ "CorpseMapPositionQuery", "d9/d70/a11026.html", "d9/d70/a11026" ],
-    [ "NameQuery", "dc/d38/a11010.html", "dc/d38/a11010" ],
-    [ "NameQueryResponse", "df/d55/a11014.html", "df/d55/a11014" ],
-    [ "TimeQuery", "d1/d5a/a11018.html", "d1/d5a/a11018" ],
-    [ "TimeQueryResponse", "d3/d74/a11022.html", "d3/d74/a11022" ]
+    [ "CorpseMapPositionQuery", "d3/d80/a11042.html", "d3/d80/a11042" ],
+    [ "NameQuery", "d9/d70/a11026.html", "d9/d70/a11026" ],
+    [ "NameQueryResponse", "d3/dae/a11030.html", "d3/dae/a11030" ],
+    [ "TimeQuery", "d9/d7c/a11034.html", "d9/d7c/a11034" ],
+    [ "TimeQueryResponse", "d0/d6c/a11038.html", "d0/d6c/a11038" ]
 ];

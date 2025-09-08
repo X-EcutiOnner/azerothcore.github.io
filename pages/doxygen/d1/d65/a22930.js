@@ -1,7 +1,7 @@
 var a22930 =
 [
-    [ "HandleEffectRemove", "d1/d65/a22930.html#a09124a4351930a35e33359e95ca88580", null ],
-    [ "PrepareAuraScript", "d1/d65/a22930.html#a6ac4aa40f00e7ca03a3a5cf36d6e5d33", null ],
-    [ "Register", "d1/d65/a22930.html#a8b59d3d74816b41a65f9c5bd07226c4e", null ],
-    [ "Validate", "d1/d65/a22930.html#a5bf3ac4b8ff19bdbde604c4d8931d1bc", null ]
+    [ "npc_blade_of_azzinoth", "d1/d65/a22930.html#a55afe56313c237afe8080662b2ed2dba", null ],
+    [ "DoAction", "d1/d65/a22930.html#a8e746da7672c0177c4b6c91b1e9d2eb5", null ],
+    [ "IsSummonedBy", "d1/d65/a22930.html#af2925da1235b809ee81469fe32ab0f92", null ],
+    [ "JustSummoned", "d1/d65/a22930.html#a501e2d1ae9af813fd9c30395e7774983", null ]
 ];

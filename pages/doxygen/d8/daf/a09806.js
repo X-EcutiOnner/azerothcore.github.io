@@ -1,8 +1,8 @@
 var a09806 =
 [
-    [ "BoundaryUnionBoundary", "d8/daf/a09806.html#a074536112fffc805dec44bd9cd602642", null ],
-    [ "~BoundaryUnionBoundary", "d8/daf/a09806.html#a96450fc020bfad7b9f1f7be64490ad46", null ],
-    [ "IsWithinBoundaryArea", "d8/daf/a09806.html#a8dc91861fa6641008236e5a83030e0d1", null ],
-    [ "_b1", "d8/daf/a09806.html#a40fcd847f38703dfe5174267fbfd81ee", null ],
-    [ "_b2", "d8/daf/a09806.html#ae70530673803bd2ee85bf722fe42718b", null ]
+    [ "EllipseBoundary", "d8/daf/a09806.html#aeb8c822a8c4c745de0c848721a624545", null ],
+    [ "IsWithinBoundaryArea", "d8/daf/a09806.html#a203ccf7ca23f1d66f834bdadb8b18b31", null ],
+    [ "_center", "d8/daf/a09806.html#aa84bae8bced77e38fec652e473cf39c7", null ],
+    [ "_radiusYSq", "d8/daf/a09806.html#ae933c6b1e62967f98c95cfbd4822b818", null ],
+    [ "_scaleXSq", "d8/daf/a09806.html#ad781cadd6c09e482d3a93ad71440a4c2", null ]
 ];

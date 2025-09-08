@@ -1,6 +1,6 @@
 var a22374 =
 [
-    [ "npc_jungle_punch_targetAI", "d8/dcf/a22378.html", "d8/dcf/a22378" ],
-    [ "npc_jungle_punch_target", "db/d8b/a22374.html#a69220634d9d6b84e464cdc4e0cba91a7", null ],
-    [ "GetAI", "db/d8b/a22374.html#abb38ccb55abfe0f48f360469031c6902", null ]
+    [ "npc_avatar_of_freya", "db/d8b/a22374.html#a3a6c4f6d8f05d606c6f545d91acdb2c1", null ],
+    [ "OnGossipHello", "db/d8b/a22374.html#a020e8e41b32eb65ff906c9ca934a03fe", null ],
+    [ "OnGossipSelect", "db/d8b/a22374.html#aba1b13e922873e939b2510b4bc77f49d", null ]
 ];

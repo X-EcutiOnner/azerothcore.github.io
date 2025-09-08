@@ -1,13 +1,13 @@
 var a01307 =
 [
-    [ "ShadowOfDeathSelector", "d0/daf/a23150.html", "d0/daf/a23150" ],
-    [ "boss_teron_gorefiend", "df/d74/a23154.html", "df/d74/a23154" ],
-    [ "npc_vengeful_spirit", "de/d74/a23158.html", "de/d74/a23158" ],
-    [ "spell_teron_gorefiend_shadow_of_death", "dd/df4/a23162.html", "dd/df4/a23162" ],
-    [ "spell_teron_gorefiend_spirit_lance", "da/d9e/a23166.html", "da/d9e/a23166" ],
-    [ "spell_teron_gorefiend_spiritual_vengeance", "d8/d44/a23170.html", "d8/d44/a23170" ],
-    [ "spell_teron_gorefiend_shadowy_construct", "db/dfe/a23174.html", "db/dfe/a23174" ],
-    [ "spell_teron_gorefiend_shadow_of_death_remove", "d2/d85/a23178.html", "d2/d85/a23178" ],
+    [ "ShadowOfDeathSelector", "d8/d44/a23170.html", "d8/d44/a23170" ],
+    [ "boss_teron_gorefiend", "db/dfe/a23174.html", "db/dfe/a23174" ],
+    [ "npc_vengeful_spirit", "d2/d85/a23178.html", "d2/d85/a23178" ],
+    [ "spell_teron_gorefiend_shadow_of_death", "d3/d76/a23182.html", "d3/d76/a23182" ],
+    [ "spell_teron_gorefiend_spirit_lance", "df/da6/a23186.html", "df/da6/a23186" ],
+    [ "spell_teron_gorefiend_spiritual_vengeance", "de/d5e/a23190.html", "de/d5e/a23190" ],
+    [ "spell_teron_gorefiend_shadowy_construct", "da/db1/a23194.html", "da/db1/a23194" ],
+    [ "spell_teron_gorefiend_shadow_of_death_remove", "d1/d36/a23198.html", "d1/d36/a23198" ],
     [ "Misc", "d2/d4c/a01307.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "DATA_SKILLPOINT_MIN", "d4/d70/a02579.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3093ddfcacf2742f4fb344843e2e7ce6", null ],
       [ "NEFARIUS_PATH_2", "d7/da8/a02522.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],

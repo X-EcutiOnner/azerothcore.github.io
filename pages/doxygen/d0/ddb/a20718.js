@@ -1,7 +1,5 @@
 var a20718 =
 [
-    [ "npc_ulduar_expedition_commanderAI", "d0/ddb/a20718.html#a100678bddd6a0e859c72035d4642d8e2", null ],
-    [ "MoveInLineOfSight", "d0/ddb/a20718.html#a870bdc842d8d7078302a36a20ef661e4", null ],
-    [ "_instance", "d0/ddb/a20718.html#a64d925b08f3f0ae59f5053121dbc495c", null ],
-    [ "_introSpoken", "d0/ddb/a20718.html#ac6784a66111406f917ae4d07dbeb60a4", null ]
+    [ "achievement_mimiron_set_up_us_the_bomb_13", "d0/ddb/a20718.html#a74b0cafbc4be4261c8f8f2af3671cbd9", null ],
+    [ "OnCheck", "d0/ddb/a20718.html#ac91196d094f159932ad871ffa9c0f405", null ]
 ];

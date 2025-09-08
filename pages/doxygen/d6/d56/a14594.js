@@ -1,8 +1,5 @@
 var a14594 =
 [
-    [ "npc_love_in_air_snivel_real", "d6/d56/a14594.html#a9f5b36d35ced9eb27375ca13fcfbc55d", null ],
-    [ "Talk", "d6/d56/a14594.html#a0b5cc8dd6bdf7c4fbd7b7aa2ba02b028", null ],
-    [ "UpdateAI", "d6/d56/a14594.html#a22ed25da8fe3441ef0e4183390983f40", null ],
-    [ "actionCounter", "d6/d56/a14594.html#ab1685b1ee34c81c689af3c3466b185f0", null ],
-    [ "actionTimer", "d6/d56/a14594.html#a3bbee1ff355581772b337268775b8fbc", null ]
+    [ "go_loosely_turned_soilAI", "d6/d56/a14594.html#a603641bc52d26521d64afaaeed3abc4d", null ],
+    [ "CanBeSeen", "d6/d56/a14594.html#a424b51b08d17ceb04b015cd535256889", null ]
 ];

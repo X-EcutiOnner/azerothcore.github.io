@@ -1,5 +1,6 @@
 var a20026 =
 [
-    [ "achievement_auriaya_nine_lives", "de/dda/a20026.html#a750304bc946a7ecefec29dc18c429d3b", null ],
-    [ "OnCheck", "de/dda/a20026.html#ae1b7ee75a3e7343c3f5f8043b4e39362", null ]
+    [ "npc_auriaya_feral_defenderAI", "d2/db3/a20030.html", "d2/db3/a20030" ],
+    [ "npc_auriaya_feral_defender", "de/dda/a20026.html#ae1afc396a1d9e6c9c2042ee0f58fb270", null ],
+    [ "GetAI", "de/dda/a20026.html#abec35e280e42154af82f3e7e4fcec48d", null ]
 ];

@@ -1,7 +1,7 @@
 var a25334 =
 [
-    [ "HandleDummy", "d2/d4a/a25334.html#a9037eddf4c9ce96c15c57e8906bd9a5f", null ],
-    [ "Load", "d2/d4a/a25334.html#a738318535196b3d55e8f1b3da4f76c95", null ],
-    [ "PrepareSpellScript", "d2/d4a/a25334.html#a941a097124ed9b4917faa18ff23fc366", null ],
-    [ "Register", "d2/d4a/a25334.html#aaf9d269e7d052515f31b463999e92cf4", null ]
+    [ "CheckIfLanceEquipped", "d2/d4a/a25334.html#aae1fe4d0329b7a2db5e4f2a28e3f04c5", null ],
+    [ "PrepareSpellScript", "d2/d4a/a25334.html#a2af9ee2ccd34c97734c58bfcbb83c8b5", null ],
+    [ "Register", "d2/d4a/a25334.html#a4421ceaedce16777f8f04b9c40855782", null ],
+    [ "Validate", "d2/d4a/a25334.html#ab0908d7a15e7554c735d8e5554f7cd65", null ]
 ];

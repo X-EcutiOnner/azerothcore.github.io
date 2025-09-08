@@ -1,7 +1,6 @@
 var a22558 =
 [
-    [ "HandleScript", "db/d0a/a22558.html#a1811115f1732912bdfaeeb8272db2304", null ],
-    [ "PrepareSpellScript", "db/d0a/a22558.html#a50c24464dd88717bf78971d679715d7b", null ],
-    [ "Register", "db/d0a/a22558.html#ab48b37db40865d60d7cda3260ec15ba8", null ],
-    [ "Validate", "db/d0a/a22558.html#a0f0e4621965ea7ed7a108bca6d232ad0", null ]
+    [ "go_wg_vehicle_teleporterAI", "da/d19/a22562.html", "da/d19/a22562" ],
+    [ "go_wg_vehicle_teleporter", "db/d0a/a22558.html#a074ead770a3da6e9ffa4180a3525f4c8", null ],
+    [ "GetAI", "db/d0a/a22558.html#a113aaf42c095000c1a016bfe60df11e7", null ]
 ];

@@ -1,7 +1,7 @@
 var a25562 =
 [
-    [ "HandleScriptEffect", "d9/d42/a25562.html#ae3c2900d98c2fd51ff0888ea5d1072c4", null ],
-    [ "PrepareSpellScript", "d9/d42/a25562.html#a29ac1789b8023ef3339a7b40ee9c31ab", null ],
-    [ "Register", "d9/d42/a25562.html#a321098d2325bfb9cea674d1137348350", null ],
-    [ "Validate", "d9/d42/a25562.html#aa16a67bf42f51b838d22dcbe4b5b6f7b", null ]
+    [ "HandleOnEffectApply", "d9/d42/a25562.html#a90359e3dbb5c2c8caf275f21c107ee0a", null ],
+    [ "HandleOnEffectRemove", "d9/d42/a25562.html#a094d788d157474a9683387d5c340538f", null ],
+    [ "PrepareAuraScript", "d9/d42/a25562.html#aad378b8c45f11af51faf9128878c01df", null ],
+    [ "Register", "d9/d42/a25562.html#a8fcc385f504b3b357e9ceab76f11ca46", null ]
 ];

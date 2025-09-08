@@ -1,6 +1,6 @@
 var a17730 =
 [
-    [ "npc_muradin_bronzebeard_igbAI", "df/db0/a17734.html", "df/db0/a17734" ],
-    [ "npc_muradin_bronzebeard_igb", "da/d91/a17730.html#a1e6abc18a192b3acfa29bf03dd4eeed9", null ],
-    [ "GetAI", "da/d91/a17730.html#af9b149e0780308f26d5adb1e6607a3ce", null ]
+    [ "npc_gunshipAI", "df/db0/a17734.html", "df/db0/a17734" ],
+    [ "npc_gunship", "da/d91/a17730.html#a86b3ba622bd6e606cd21f7c7d8dddd1b", null ],
+    [ "GetAI", "da/d91/a17730.html#adcd37802a2850f4ec8892f3495d5dc16", null ]
 ];

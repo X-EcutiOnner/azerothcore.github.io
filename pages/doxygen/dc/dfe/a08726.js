@@ -1,8 +1,11 @@
 var a08726 =
 [
-    [ "CleanDamage", "dc/dfe/a08726.html#ad25ab816a679e323c07873efbc1c2f20", null ],
-    [ "absorbed_damage", "dc/dfe/a08726.html#a7ba8e32e564b43915889a23ecb9d5297", null ],
-    [ "attackType", "dc/dfe/a08726.html#ad9b56ae5faabe67a8fdec8cd5a7988b1", null ],
-    [ "hitOutCome", "dc/dfe/a08726.html#a040977b1579b62695b4cbcf0c2ffeaa8", null ],
-    [ "mitigated_damage", "dc/dfe/a08726.html#a6aeffc94560ac510c0b89e4384a2f41a", null ]
+    [ "AuraMunchingQueue", "dc/dfe/a08726.html#abf9787bcfa9393619ffebe2ad7b5cd46", null ],
+    [ "Execute", "dc/dfe/a08726.html#a8f025a0ea1db81fb283db563402d1c40", null ],
+    [ "_auraType", "dc/dfe/a08726.html#add694e24c38d585784f236acf9118b76", null ],
+    [ "_aurEff", "dc/dfe/a08726.html#a8ac00964608170d5375242c1b19c4be3", null ],
+    [ "_basePoints", "dc/dfe/a08726.html#a9cf03046c9595e81bf119b7aacb1a81a", null ],
+    [ "_owner", "dc/dfe/a08726.html#a472aaf46c2f167a10ce38267ace0b8bb", null ],
+    [ "_spellId", "dc/dfe/a08726.html#a6674c43b906e45e2ad29100a7ff06f44", null ],
+    [ "_targetGUID", "dc/dfe/a08726.html#a441b328296f0b7a75bdaee06d2cb94f1", null ]
 ];

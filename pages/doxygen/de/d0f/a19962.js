@@ -1,12 +1,6 @@
 var a19962 =
 [
-    [ "npc_assembly_lightningAI", "de/d0f/a19962.html#a4b778b6545e7c93e66a07160db793651", null ],
-    [ "AttackStart", "de/d0f/a19962.html#afd4657e8c6a2eb39346e99cb54a7ab1a", null ],
-    [ "EnterEvadeMode", "de/d0f/a19962.html#a4c0bb838053412a3945648ed1a5a13b9", null ],
-    [ "MoveInLineOfSight", "de/d0f/a19962.html#a077f788e67cdb67683ac13f3a3d1322b", null ],
-    [ "MovementInform", "de/d0f/a19962.html#a95227f93c5ac6871bfcea603ebb2188d", null ],
-    [ "OnCharmed", "de/d0f/a19962.html#aa08e4c286723c76251bd75aa54b24f5f", null ],
-    [ "Reset", "de/d0f/a19962.html#a1f03885bfd91d9b9cdde1d90b51d2c96", null ],
-    [ "UpdateAI", "de/d0f/a19962.html#a94edd1ea5278bd5ca8d5d64619e9c8b4", null ],
-    [ "_boomed", "de/d0f/a19962.html#aa6b4a46674a7d4106a49ef308ec27b9e", null ]
+    [ "CastRunesEvent", "de/d0f/a19962.html#aa3c5912362a4ce8a5b463da626f277b0", null ],
+    [ "Execute", "de/d0f/a19962.html#ad86f17817c8a5accb1cc90e0e5d362f3", null ],
+    [ "_owner", "de/d0f/a19962.html#a308c679c6e427e89734b5f506ad9d0d6", null ]
 ];

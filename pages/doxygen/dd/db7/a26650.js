@@ -1,6 +1,6 @@
 var a26650 =
 [
-    [ "CheckRequirement", "dd/db7/a26650.html#a4ad49f2f781d1c6b27dd04f46203c6d4", null ],
-    [ "PrepareSpellScript", "dd/db7/a26650.html#a4263eebcb64f00152a4b64dafef20510", null ],
-    [ "Register", "dd/db7/a26650.html#a8b825a97f50abb0231036a3ff651531d", null ]
+    [ "HandleScript", "dd/db7/a26650.html#a8866d650b96c4cae3201a2829cbeff3d", null ],
+    [ "PrepareSpellScript", "dd/db7/a26650.html#aa16f51aa8a4fea2a84cadbb01d18b635", null ],
+    [ "Register", "dd/db7/a26650.html#aeaa094c8d1f3407bf56d58d88c2238a1", null ]
 ];

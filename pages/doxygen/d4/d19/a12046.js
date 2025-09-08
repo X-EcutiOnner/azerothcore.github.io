@@ -1,8 +1,6 @@
 var a12046 =
 [
-    [ "boss_evisceratorAI", "d4/d19/a12046.html#a26bfcd3390e987a9fe13dd1a2bc2a7a4", null ],
-    [ "DamageTaken", "d4/d19/a12046.html#aab3e8290963ca6c312715f18727d3e82", null ],
-    [ "JustEngagedWith", "d4/d19/a12046.html#a60f3942b352206888569f60776041a28", null ],
-    [ "UpdateAI", "d4/d19/a12046.html#aa201d35455f2e6eb41df27e264c2c03c", null ],
-    [ "SpellShieldReady", "d4/d19/a12046.html#a3e5d8a40bfca16cc811f35b1293c19aa", null ]
+    [ "boss_anubshiahAI", "d4/d19/a12046.html#ae5bdb5509aad0d386bf73e5aad728744", null ],
+    [ "JustEngagedWith", "d4/d19/a12046.html#ae83c1def323828814b5db6b032002438", null ],
+    [ "UpdateAI", "d4/d19/a12046.html#a3acd88f97e2f1e3386c9b5dfa4f15d15", null ]
 ];

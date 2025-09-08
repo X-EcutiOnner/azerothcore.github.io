@@ -85,7 +85,7 @@ var searchData=
   ['turmoiltexts_82',['TurmoilTexts',['../dd/deb/a01628.html#ae01e16ebe34a24a598f4b4fb26dbf919',1,'zone_howling_fjord.cpp']]],
   ['twiggyflathead_83',['TwiggyFlathead',['../d2/d49/a01067.html#aa59efdc816049c3fc44f4f97e12a5658',1,'zone_the_barrens.cpp']]],
   ['twinphases_84',['TwinPhases',['../d7/d0c/a02315.html#a9c5bef89bea407c4bf2b7d6c4011c7ec',1,'boss_eredar_twins.cpp']]],
-  ['type_85',['Type',['../d1/d1a/a07130.html#a758c9729d907d872a5e5365539486408',1,'AuctionSearcherUpdate::Type()'],['../da/d25/a07110.html#abfb75b18c4a43f1818cd78212c668109',1,'AuctionSearcherRequest::Type()']]],
+  ['type_85',['Type',['../de/d85/a07146.html#a758c9729d907d872a5e5365539486408',1,'AuctionSearcherUpdate::Type()'],['../d8/dc2/a07126.html#abfb75b18c4a43f1818cd78212c668109',1,'AuctionSearcherRequest::Type()']]],
   ['typeid_86',['TypeID',['../d6/d0e/a03395.html#a183c40b2ba67065929d70b3987da4cc2',1,'ObjectGuid.h']]],
   ['typemask_87',['TypeMask',['../d6/d0e/a03395.html#acfe503ba26d8a881f16958aaafd431e1',1,'ObjectGuid.h']]],
   ['tyrion_88',['Tyrion',['../d1/d47/a02300.html#affa30c579e72ac17979d6590547e9cde',1,'zone_stormwind_city.cpp']]],

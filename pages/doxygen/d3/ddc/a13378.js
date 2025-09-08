@@ -1,6 +1,6 @@
 var a13378 =
 [
-    [ "HandleSendEvent", "d3/ddc/a13378.html#ad245a7dcf129774b8ef3e3653b3e3026", null ],
-    [ "PrepareSpellScript", "d3/ddc/a13378.html#ad9dfe5b2702540eb119ec86cfbd0ff30", null ],
-    [ "Register", "d3/ddc/a13378.html#a0b5ac8cfc4eb4adadb653a81a59a8287", null ]
+    [ "instance_sunken_temple_InstanceMapScript", "d7/d3e/a13382.html", "d7/d3e/a13382" ],
+    [ "instance_sunken_temple", "d3/ddc/a13378.html#a123b052c1cd1487588c88bf2611bc53b", null ],
+    [ "GetInstanceScript", "d3/ddc/a13378.html#a1a783056b681f1f3b90e2e33e6a4a86d", null ]
 ];

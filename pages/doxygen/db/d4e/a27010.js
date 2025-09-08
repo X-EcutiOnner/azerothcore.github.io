@@ -1,6 +1,8 @@
 var a27010 =
 [
-    [ "HandleAfterHit", "db/d4e/a27010.html#a177bcf10d6b8fa586ff0cac3834367f9", null ],
-    [ "PrepareSpellScript", "db/d4e/a27010.html#ac16ef2ff92440deab6c69f4824bdd619", null ],
-    [ "Register", "db/d4e/a27010.html#a46fe3d7ebd663d1cb27aa473a56e81eb", null ]
+    [ "CheckProc", "db/d4e/a27010.html#afcda3b112699e108e2db6270836fce1b", null ],
+    [ "OnProc", "db/d4e/a27010.html#ab953f817368120933828d6b3e5e200c0", null ],
+    [ "PrepareAuraScript", "db/d4e/a27010.html#a33381b811abcd52f7a57e0f62fa73e5f", null ],
+    [ "Register", "db/d4e/a27010.html#abfdd5179215432a3e89ea7b498d49867", null ],
+    [ "Validate", "db/d4e/a27010.html#a19e8f1b9aab5ee4e718b304c87303627", null ]
 ];

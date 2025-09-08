@@ -1,11 +1,14 @@
 var a22610 =
 [
-    [ "npc_drakuru_shacklesAI", "d3/dc6/a22610.html#aeb55bf23d97e963b0fb9a18596bb58b1", null ],
-    [ "LockRageclaw", "d3/dc6/a22610.html#aa58fff9ee8e6cbe4d2dd0d391215f1f4", null ],
-    [ "Reset", "d3/dc6/a22610.html#a566fba51edcddab8c5b0bf5688571f80", null ],
-    [ "SpellHit", "d3/dc6/a22610.html#a04a9f0cc28cd8cab89120e66972b74cf", null ],
-    [ "UnlockRageclaw", "d3/dc6/a22610.html#a65a4b408ac09ffa3155b955dc054d971", null ],
-    [ "UpdateAI", "d3/dc6/a22610.html#a8a04ac89e5ec9ce841445913765a1a73", null ],
-    [ "_rageclawGUID", "d3/dc6/a22610.html#a1c991305f4ef30146930747881e57de4", null ],
-    [ "timer", "d3/dc6/a22610.html#a2a6484216abd731ad016284a79575e1c", null ]
+    [ "npc_finklesteinAI", "d3/dc6/a22610.html#a075481689af110f8c20cd5ca13258ba3", null ],
+    [ "ClearPlayerOnTask", "d3/dc6/a22610.html#ad6ec9c020ba2f8eae9250a89fbe9490d", null ],
+    [ "GetTaskAura", "d3/dc6/a22610.html#ae3a1b7fbdd9aba64e8f853f53d9c261c", null ],
+    [ "GetTaskCounter", "d3/dc6/a22610.html#a240e8f556176b9571bd08407276402be", null ],
+    [ "GetTaskItemEntry", "d3/dc6/a22610.html#a08a3005db6d192663a835b9ee192352b", null ],
+    [ "GetTaskItemName", "d3/dc6/a22610.html#adce990629aa1833dc07c7dbb1297cead", null ],
+    [ "IsPlayerOnTask", "d3/dc6/a22610.html#ad815f0d79ab73d95e9fbf3a659aea2ce", null ],
+    [ "RightClickCauldron", "d3/dc6/a22610.html#a71fea2fdf5079fbc1d8baa72e7e4ae82", null ],
+    [ "SelectRandomCode", "d3/dc6/a22610.html#a16c9ddf6f2f858f4147a0188e0df7250", null ],
+    [ "StartNextTask", "d3/dc6/a22610.html#a89c5c3a90fad1719bc4d2e2cb611e8c7", null ],
+    [ "questList", "d3/dc6/a22610.html#a5c3a3237579721b94dd433841b83bb02", null ]
 ];

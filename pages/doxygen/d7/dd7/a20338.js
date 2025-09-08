@@ -1,5 +1,6 @@
 var a20338 =
 [
-    [ "achievement_shadowdodger", "d7/dd7/a20338.html#a8389a4972968fcc6cd7807e96ee5e527", null ],
-    [ "OnCheck", "d7/dd7/a20338.html#a3ee0baca0c9163a601cd4bcfa9ebeb04", null ]
+    [ "FilterTargets", "d7/dd7/a20338.html#adb438b9bcf4be347aeabf6608fbfb8a4", null ],
+    [ "PrepareSpellScript", "d7/dd7/a20338.html#a88f5ca3aaa575cff0ba778f9b575d656", null ],
+    [ "Register", "d7/dd7/a20338.html#ac7337b4ee8511f72b129fccc83b3241e", null ]
 ];

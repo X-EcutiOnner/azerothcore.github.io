@@ -1,7 +1,6 @@
 var a17630 =
 [
-    [ "HandleDummy", "d0/db3/a17630.html#a89c0706f21fe92fd443c3638181044ec", null ],
-    [ "PrepareSpellScript", "d0/db3/a17630.html#a957e29d2458fd90228ef9c53e997c642", null ],
-    [ "Register", "d0/db3/a17630.html#a250c95310503cd59d73e45a9b9372268", null ],
-    [ "Validate", "d0/db3/a17630.html#a1c67a262eb95def51661919a3bad3437", null ]
+    [ "npc_saurfang_eventAI", "dd/d7a/a17634.html", "dd/d7a/a17634" ],
+    [ "npc_saurfang_event", "d0/db3/a17630.html#a3bfce5457466360458498833098d660c", null ],
+    [ "GetAI", "d0/db3/a17630.html#a953842d2fa3380a8331faf3a42cb3177", null ]
 ];

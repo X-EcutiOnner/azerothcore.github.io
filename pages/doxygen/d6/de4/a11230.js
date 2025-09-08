@@ -1,6 +1,9 @@
 var a11230 =
 [
-    [ "ChannelTargetData", "d6/de4/a11230.html#a26f2a2037750712d8718d9537603e3a1", null ],
-    [ "channelGUID", "d6/de4/a11230.html#afad1c896d6a137ebb224fd636ba4d7f2", null ],
-    [ "spellDst", "d6/de4/a11230.html#aa5cfec093a599f4bf33ebf0c73a2f4ac", null ]
+    [ "SpellEvent", "d6/de4/a11230.html#abca64eb7d39df9788cef9df7e8634368", null ],
+    [ "~SpellEvent", "d6/de4/a11230.html#a01f8ea354ef70d0a2ee7b88b8dd9f68e", null ],
+    [ "Abort", "d6/de4/a11230.html#ac21656467ae71def45fd78b9d1fa1c30", null ],
+    [ "Execute", "d6/de4/a11230.html#ac8158bfbe916ff6207b2f6608308ae24", null ],
+    [ "IsDeletable", "d6/de4/a11230.html#a2ecd9b31bacc717cc509eb9bb69c3cb3", null ],
+    [ "m_Spell", "d6/de4/a11230.html#a22cce1d722f5086932ae3e97c58d2921", null ]
 ];

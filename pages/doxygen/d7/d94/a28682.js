@@ -1,7 +1,7 @@
 var a28682 =
 [
-    [ "~ByteBufferException", "d7/d94/a28682.html#a0ab73f9061c040127f70dbfc9a176509", null ],
-    [ "message", "d7/d94/a28682.html#ab1a64d8fc18565a04c347de29184f68c", null ],
-    [ "what", "d7/d94/a28682.html#a87896f7ab19f3032937f5f84e8cf440a", null ],
-    [ "msg_", "d7/d94/a28682.html#a314bdbb7063219f8256df894602e6b02", null ]
+    [ "TalentSpellPos", "d7/d94/a28682.html#a1f28fdb07c5f3bc3a417a2d50d57481c", null ],
+    [ "TalentSpellPos", "d7/d94/a28682.html#afcdb60f43c619209f8c7d9d8d118a89d", null ],
+    [ "rank", "d7/d94/a28682.html#a46a495cd1d17302d074037ad5ea9c89e", null ],
+    [ "talent_id", "d7/d94/a28682.html#a06421cba633b9ea52cb4b95d4ce4527d", null ]
 ];

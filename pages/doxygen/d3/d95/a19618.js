@@ -1,7 +1,6 @@
 var a19618 =
 [
-    [ "CalcDamage", "d3/d95/a19618.html#abb2bf75cc347597b17ed5e4ccd213132", null ],
-    [ "PrepareSpellScript", "d3/d95/a19618.html#a705a6f0c9b10dc8e7e2e6c091a3ff89c", null ],
-    [ "Register", "d3/d95/a19618.html#a2c2b391b223ab92b6d644b739419a1d3", null ],
-    [ "Validate", "d3/d95/a19618.html#a773c608119a84cc3f02e7b4d786f2741", null ]
+    [ "npc_centrifuge_constructAI", "dd/d8b/a19622.html", "dd/d8b/a19622" ],
+    [ "npc_centrifuge_construct", "d3/d95/a19618.html#a3822eca10ab4a96126e0b4685751f4d3", null ],
+    [ "GetAI", "d3/d95/a19618.html#a7356047de8a6d7bc6e903e982db2bc00", null ]
 ];

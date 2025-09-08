@@ -1,6 +1,7 @@
 var a23422 =
 [
-    [ "HandleApplyAura", "d5/d77/a23422.html#a4fde347d339f08cd01e2a47883d4b988", null ],
-    [ "PrepareSpellScript", "d5/d77/a23422.html#ab22bd56638a6adc8d111250780221cb9", null ],
-    [ "Register", "d5/d77/a23422.html#a1dd967ad59159faf694b8e0bfcd369ac", null ]
+    [ "FilterTargets", "d5/d77/a23422.html#adb8581b4b92aa49eda8f531e6d6de1ea", null ],
+    [ "HandleDummy", "d5/d77/a23422.html#a2fe7441bd9753cb912d11f8d36632f44", null ],
+    [ "PrepareSpellScript", "d5/d77/a23422.html#ae7714acbe0a08781e3bc297847c47870", null ],
+    [ "Register", "d5/d77/a23422.html#ade51d4cb00b63c46582c7a5e6e031e9d", null ]
 ];

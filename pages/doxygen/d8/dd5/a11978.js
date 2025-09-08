@@ -1,5 +1,5 @@
 var a11978 =
 [
-    [ "at_ring_of_law", "d8/dd5/a11978.html#ad9bb44e898f90fb489b50cad0a711976", null ],
-    [ "OnTrigger", "d8/dd5/a11978.html#a613471caae75ab3d82ce915101a20108", null ]
+    [ "go_shadowforge_brazier", "d8/dd5/a11978.html#aafc1d2e865294bb102c918d6016aab4b", null ],
+    [ "OnGossipHello", "d8/dd5/a11978.html#a83b188cd2ee68e1ebfe75060465f8f38", null ]
 ];

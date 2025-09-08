@@ -1,5 +1,6 @@
 var a17650 =
 [
-    [ "achievement_ive_gone_and_made_a_mess", "d0/db3/a17650.html#a0e71ea3afae02176f81231e51155c038", null ],
-    [ "OnCheck", "d0/db3/a17650.html#a638cead986783523c7c35ecb9d885b11", null ]
+    [ "ModAuraValue", "d0/db3/a17650.html#a359453c6253beb6f729209c6d3d79af7", null ],
+    [ "PrepareSpellScript", "d0/db3/a17650.html#a4f916abef69782be10cc6be9ba0124f5", null ],
+    [ "Register", "d0/db3/a17650.html#a4a387df07c88144288c4327ce86b730a", null ]
 ];

@@ -1,19 +1,10 @@
 var a11690 =
 [
-    [ "CityAttack", "dd/da4/a11698.html", "dd/da4/a11698" ],
-    [ "InvasionZone", "de/d45/a11694.html", "de/d45/a11694" ],
-    [ "ScourgeInvasionData", "da/dda/a11690.html#a40749458bbad64d1d277cd7cd9dac939", null ],
-    [ "GetData", "da/dda/a11690.html#adca57b4cf5a065fad1a7bd184571bdc5", null ],
-    [ "Reset", "da/dda/a11690.html#a0ae2fc830e4f85fb619c38fdcad794ae", null ],
-    [ "m_activeInvasions", "da/dda/a11690.html#af98aea31bf9c878adf2870890911282f", null ],
-    [ "m_battlesWon", "da/dda/a11690.html#aea7079c6f876188857219c574ca0798d", null ],
-    [ "m_broadcastTimer", "da/dda/a11690.html#a7c251f312e332ab60fa6de6e8cf4189d", null ],
-    [ "m_cityAttacks", "da/dda/a11690.html#a70127135568b3a439f040697f1dc525c", null ],
-    [ "m_lastAttackZone", "da/dda/a11690.html#a38ead6b33009083055538fd4f0b7de35", null ],
-    [ "m_pendingInvasions", "da/dda/a11690.html#af62efb05ce49a3cb764328976f8054f6", null ],
-    [ "m_pendingPallids", "da/dda/a11690.html#a2a2f610d9c398bc82f4e39eea4fbadfc", null ],
-    [ "m_remaining", "da/dda/a11690.html#afa0f9b63b3c2111affdf9769ee529d88", null ],
-    [ "m_siMutex", "da/dda/a11690.html#acefb72f28d000395bc1362cd9a62b26a", null ],
-    [ "m_state", "da/dda/a11690.html#acb26a954f14aec654513b16e5e53cad8", null ],
-    [ "m_timers", "da/dda/a11690.html#a06375cf97a023be4f3fff94cc43405a9", null ]
+    [ "WorldPacketList", "da/dda/a11690.html#ac02e770af167d14f978954cf5ac74487", null ],
+    [ "WorldWorldTextBuilder", "da/dda/a11690.html#ad5e85ced19572dcd5ae75caa7e50cbf6", null ],
+    [ "do_helper", "da/dda/a11690.html#ae8b58ec72a6c87aee46e9fe693deab32", null ],
+    [ "lineFromMessage", "da/dda/a11690.html#a3a71edb992528d81471d370ba3d8d211", null ],
+    [ "operator()", "da/dda/a11690.html#ae08f4d73e048b351ae4326cc63278ae6", null ],
+    [ "i_args", "da/dda/a11690.html#ac2ae2ce8dc49ce7469142383e6e097d4", null ],
+    [ "i_textId", "da/dda/a11690.html#ab246baa9a8ce259d8190ac1c8318c75d", null ]
 ];

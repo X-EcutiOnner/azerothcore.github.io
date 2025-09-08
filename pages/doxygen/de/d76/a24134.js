@@ -1,6 +1,6 @@
 var a24134 =
 [
-    [ "npc_nether_drakeAI", "d5/dcf/a24138.html", "d5/dcf/a24138" ],
-    [ "npc_nether_drake", "de/d76/a24134.html#a253ec3c91857b899ea9e2c824870b760", null ],
-    [ "GetAI", "de/d76/a24134.html#a58d269e2c73cae07bb507162b742fe8f", null ]
+    [ "npc_deaths_door_fell_cannon_target_bunnyAI", "d5/dcf/a24138.html", "d5/dcf/a24138" ],
+    [ "npc_deaths_door_fell_cannon_target_bunny", "de/d76/a24134.html#a1385e50777282fae0c8f8ca2f9f8a3e6", null ],
+    [ "GetAI", "de/d76/a24134.html#a250707096229da28024960beeb7725bf", null ]
 ];

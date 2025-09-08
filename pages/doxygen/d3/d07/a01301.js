@@ -1,7 +1,7 @@
 var a01301 =
 [
-    [ "boss_supremus", "d8/d70/a23142.html", "d8/d70/a23142" ],
-    [ "npc_supremus_punch_invisible_stalker", "d8/d24/a23146.html", "d8/d24/a23146" ],
+    [ "boss_supremus", "dd/df4/a23162.html", "dd/df4/a23162" ],
+    [ "npc_supremus_punch_invisible_stalker", "da/d9e/a23166.html", "da/d9e/a23166" ],
     [ "Supremus", "d3/d07/a01301.html#a5a2dccece1c55769858f3285c94af1ab", [
       [ "EMOTE_NEW_TARGET", "d3/d07/a01301.html#a5a2dccece1c55769858f3285c94af1abacce041f211d3aacd7153648b2b22657d", null ],
       [ "EMOTE_PUNCH_GROUND", "d3/d07/a01301.html#a5a2dccece1c55769858f3285c94af1aba18c2c02f5902d5eb449f84ea9b0dda48", null ],

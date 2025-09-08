@@ -1,6 +1,5 @@
 var a15762 =
 [
-    [ "npc_braug_dimspirit", "df/d0a/a15762.html#ade08e9ad549d80c2f7918dbfcfbf41dc", null ],
-    [ "OnGossipHello", "df/d0a/a15762.html#aeaed026edf5a1fa82c941f667c05815b", null ],
-    [ "OnGossipSelect", "df/d0a/a15762.html#a87ea1ba3e247c9b14c1f6c72b3addea0", null ]
+    [ "go_crystalline_tear", "df/d0a/a15762.html#a9e19c6538ecd1a758f2639171321d965", null ],
+    [ "OnQuestAccept", "df/d0a/a15762.html#a4efd6b2b8ca37462ba3a26d05f01ec2d", null ]
 ];

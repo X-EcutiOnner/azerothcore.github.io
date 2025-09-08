@@ -1,7 +1,15 @@
 var a09874 =
 [
-    [ "LFGUpdateRequest", "db/d56/a09874.html#a85900fc44d5dfb5595fbe7dc3422dfaa", null ],
-    [ "call", "db/d56/a09874.html#a15258001db5870a0f52bb0c72cba3587", null ],
-    [ "m_diff", "db/d56/a09874.html#a27e818e5d985ac91be6eca14a1ebd73f", null ],
-    [ "m_updater", "db/d56/a09874.html#a1bb4423241495aebab83ebc1acf66510", null ]
+    [ "const_iterator", "db/d56/a09874.html#a78bdb53e78488faa65effb2706140558", null ],
+    [ "iterator", "db/d56/a09874.html#aff8f555370355b24f386c86d2f900bc3", null ],
+    [ "begin", "db/d56/a09874.html#a6774b551f0d64628e33594c7b486a872", null ],
+    [ "begin", "db/d56/a09874.html#a3ba9493437881e83c07f07cc992c274a", null ],
+    [ "end", "db/d56/a09874.html#af488c0096775085791b5fbc89e5851a0", null ],
+    [ "end", "db/d56/a09874.html#acb8ebd37d1458773b65311060e844e4b", null ],
+    [ "getFirst", "db/d56/a09874.html#a2981143744c8e08a42104a5d08659be4", null ],
+    [ "getFirst", "db/d56/a09874.html#a4d5eb2b65f0a586a3e809acb2c26f6cb", null ],
+    [ "getLast", "db/d56/a09874.html#ab9c66d320815602126292a14cae69872", null ],
+    [ "getLast", "db/d56/a09874.html#a6f7379252f5907d9240e3d364d3a8c02", null ],
+    [ "rbegin", "db/d56/a09874.html#a147b3fe09037c1b80bb122c627000b0a", null ],
+    [ "rend", "db/d56/a09874.html#afb985b9c750f3ff01cb1adaa6f86c78f", null ]
 ];

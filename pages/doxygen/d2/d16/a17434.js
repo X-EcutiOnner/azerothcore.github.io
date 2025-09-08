@@ -1,6 +1,6 @@
 var a17434 =
 [
-    [ "boss_prince_kelesethAI", "d4/dbf/a17438.html", "d4/dbf/a17438" ],
-    [ "boss_prince_keleseth_icc", "d2/d16/a17434.html#a0df14bbfc96b1d6eff19633716cea9f9", null ],
-    [ "GetAI", "d2/d16/a17434.html#ae5a03bbe1d85b9bc865026f05a99545e", null ]
+    [ "instance_gundrak_InstanceMapScript", "d4/dbf/a17438.html", "d4/dbf/a17438" ],
+    [ "instance_gundrak", "d2/d16/a17434.html#ad6acbbcd96740a011f2a72a63fb211c3", null ],
+    [ "GetInstanceScript", "d2/d16/a17434.html#a738b4ea54d1e0d7b1db90b9cc3a9c83c", null ]
 ];

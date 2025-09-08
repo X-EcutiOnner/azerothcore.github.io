@@ -1,6 +1,6 @@
 var a26114 =
 [
-    [ "CalculateAmount", "d3/d09/a26114.html#a2010f58ba86d6266e9549753fdec52ed", null ],
-    [ "PrepareAuraScript", "d3/d09/a26114.html#aa9ddc9f2a0ded66e81be51cec24a0e4b", null ],
-    [ "Register", "d3/d09/a26114.html#acf737f74e3cb9340f3449b491e923b7f", null ]
+    [ "OnPeriodic", "d3/d09/a26114.html#a889285ef034aaa7eaaa8e86fb5380cf0", null ],
+    [ "PrepareAuraScript", "d3/d09/a26114.html#a3fd2da3d7b1b8a78916515b7e3e188cf", null ],
+    [ "Register", "d3/d09/a26114.html#a62e5ab81f9548e4d983d0c4dde14eaad", null ]
 ];

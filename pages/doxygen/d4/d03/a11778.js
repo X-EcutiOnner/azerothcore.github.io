@@ -1,13 +1,14 @@
 var a11778 =
 [
-    [ "gm_commandscript", "d4/d03/a11778.html#a1b24112b70818778755ef9b5b062b2e8", null ],
-    [ "GetCommands", "d4/d03/a11778.html#a17c725e18324de7aadff260c77d75c45", null ],
-    [ "HandleGMChatCommand", "d4/d03/a11778.html#a15a18b1179a602da3eeba7e8247fbbac", null ],
-    [ "HandleGMFlyCommand", "d4/d03/a11778.html#a29829660f39c9bfa4190bbb118f482ba", null ],
-    [ "HandleGMListFullCommand", "d4/d03/a11778.html#add9bd1e64f98964e68cd1be3df6295e7", null ],
-    [ "HandleGMListIngameCommand", "d4/d03/a11778.html#ab6d59a1c29bd66b699ae597351b969d9", null ],
-    [ "HandleGMOffCommand", "d4/d03/a11778.html#a66de9b1d6abaad56419a43d65861b5b3", null ],
-    [ "HandleGMOnCommand", "d4/d03/a11778.html#afb0f18226aac1f581d09f3b7fe9d0ce7", null ],
-    [ "HandleGMSpectatorCommand", "d4/d03/a11778.html#ab05933bfefd1f5727bef430eeac2cee9", null ],
-    [ "HandleGMVisibleCommand", "d4/d03/a11778.html#a7af08caf6d3fba1b6ee29ea90b20fef8", null ]
+    [ "deserter_commandscript", "d4/d03/a11778.html#aebaaf99b9c5959f3f3418e13e252fb95", null ],
+    [ "GetCommands", "d4/d03/a11778.html#ab5b48b9dde89c9215c51560f26324649", null ],
+    [ "HandleDeserterAdd", "d4/d03/a11778.html#abe8c428ec09d341bb9f49882b7c071e2", null ],
+    [ "HandleDeserterBGAdd", "d4/d03/a11778.html#a11fba09d369e7244244887947a91369e", null ],
+    [ "HandleDeserterBGRemove", "d4/d03/a11778.html#a9bf4e146ef0f4f0cb2508c4953f8a647", null ],
+    [ "HandleDeserterBGRemoveAll", "d4/d03/a11778.html#a419d404315e91b6cac1bfd3ac225a8fd", null ],
+    [ "HandleDeserterInstanceAdd", "d4/d03/a11778.html#aabd2b23e2dc61fac10890077b41d8179", null ],
+    [ "HandleDeserterInstanceRemove", "d4/d03/a11778.html#a3197e5228284ba50da7f3a31b3e76060", null ],
+    [ "HandleDeserterInstanceRemoveAll", "d4/d03/a11778.html#adc6ad2f406fcb58ba64d2b6fd47281e2", null ],
+    [ "HandleDeserterRemove", "d4/d03/a11778.html#a210dc9a7eddede6fe976157d6b22b683", null ],
+    [ "HandleDeserterRemoveAll", "d4/d03/a11778.html#a6274f79b9884586069f94137b44d89e9", null ]
 ];

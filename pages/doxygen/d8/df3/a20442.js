@@ -1,7 +1,6 @@
 var a20442 =
 [
-    [ "HandleAfterEffectApply", "d8/df3/a20442.html#adab765d78094eec673abce5140145267", null ],
-    [ "OnApply", "d8/df3/a20442.html#aab4331a7a55dc6f713db02726ec22e3a", null ],
-    [ "PrepareAuraScript", "d8/df3/a20442.html#acb827ae4299ae482d9b7f3fb09bbcc52", null ],
-    [ "Register", "d8/df3/a20442.html#ac1007ce2ee5e046639829558855f0188", null ]
+    [ "FilterTargets", "d8/df3/a20442.html#a4f77f654ef8bb589fbb81e8cb1ec6ce6", null ],
+    [ "PrepareSpellScript", "d8/df3/a20442.html#a52c6b32ab01a68b258d4fe89730ec32b", null ],
+    [ "Register", "d8/df3/a20442.html#a2e9ee7705a950d6a500ac472ff783b3a", null ]
 ];

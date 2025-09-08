@@ -1,10 +1,15 @@
 var a07294 =
 [
-    [ "BattlegroundChatBuilder", "dc/dcd/a07294.html#ad5ae3b91e81f816ca49f9358222c8b06", null ],
-    [ "do_helper", "dc/dcd/a07294.html#aaeb91b7fa2efe1dd36802851e204c9c8", null ],
-    [ "operator()", "dc/dcd/a07294.html#ab84296c320b09a387de6e6e6a2326b83", null ],
-    [ "_args", "dc/dcd/a07294.html#a32a72bf1110179cc58dcf2df914c7389", null ],
-    [ "_msgtype", "dc/dcd/a07294.html#ae73b69d72ddee4e05bb8b634a91e13b7", null ],
-    [ "_source", "dc/dcd/a07294.html#aaed8a84ac72a01824d7d7fc2ea17c9af", null ],
-    [ "_textId", "dc/dcd/a07294.html#a218d6cc2e99a6170b1a548fc1531e2e7", null ]
+    [ "ModifyMatchmakerRating", "dc/dcd/a07294.html#aaa6de888c3f85ef8cbe9baa2f997aba1", null ],
+    [ "ModifyPersonalRating", "dc/dcd/a07294.html#a34401ea82507df97e540c698fa549b5f", null ],
+    [ "Class", "dc/dcd/a07294.html#a5f6519e8ad3281a09608f8740927fbd3", null ],
+    [ "Guid", "dc/dcd/a07294.html#ac0dc6765247a0f36b3d3ff527a678010", null ],
+    [ "MatchMakerRating", "dc/dcd/a07294.html#ac91a344c7aecb72d17841413f5d935da", null ],
+    [ "MaxMMR", "dc/dcd/a07294.html#afc86e111a1c699254c5ea761d0dda088", null ],
+    [ "Name", "dc/dcd/a07294.html#a7917e705d8c15bbe2731c32375c34d16", null ],
+    [ "PersonalRating", "dc/dcd/a07294.html#a03168b1bdc8e6dac30d3b63e692ce854", null ],
+    [ "SeasonGames", "dc/dcd/a07294.html#ae3724b7268c161d5553b8cc1fae2cf75", null ],
+    [ "SeasonWins", "dc/dcd/a07294.html#a7239187cef3a02839fe27577ad022ec9", null ],
+    [ "WeekGames", "dc/dcd/a07294.html#a97906127f7eb1babe2bf2ebcda7c0a88", null ],
+    [ "WeekWins", "dc/dcd/a07294.html#a5b9e5e02d59569080d34abd9b9728693", null ]
 ];

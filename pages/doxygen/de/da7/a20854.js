@@ -1,6 +1,6 @@
 var a20854 =
 [
-    [ "boss_thorim_arena_npcsAI", "df/d98/a20858.html", "df/d98/a20858" ],
-    [ "boss_thorim_arena_npcs", "de/da7/a20854.html#a60d22280bb1eb3c9da92deb08e887942", null ],
-    [ "GetAI", "de/da7/a20854.html#a3709e1c9df32755f5932398ba3535f2f", null ]
+    [ "boss_thorim_runic_colossusAI", "df/d98/a20858.html", "df/d98/a20858" ],
+    [ "boss_thorim_runic_colossus", "de/da7/a20854.html#a2ea1c08a98b689cd6c766578e98a3191", null ],
+    [ "GetAI", "de/da7/a20854.html#a6d64427ff427a1054e10c9d987b77f53", null ]
 ];

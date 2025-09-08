@@ -1,9 +1,13 @@
 var a09782 =
 [
-    [ "RectangleBoundary", "d2/db9/a09782.html#af401f84700a15fa1d4fcf78358a74735", null ],
-    [ "IsWithinBoundaryArea", "d2/db9/a09782.html#a2d6c735d080382263a401d91da37b934", null ],
-    [ "_maxX", "d2/db9/a09782.html#a3eff421dfe942634814e7526334f1c07", null ],
-    [ "_maxY", "d2/db9/a09782.html#a9ec96dfb6b1ee804cceaae2f2dce6a22", null ],
-    [ "_minX", "d2/db9/a09782.html#a77db64ebe7e7f5e9621bbbd6e38837e1", null ],
-    [ "_minY", "d2/db9/a09782.html#af5a7e35d5d9ff23c722643141f01a916", null ]
+    [ "ServerMail", "d2/db9/a09782.html#a50cf3e6929e397a3c1de83b9fcf83416", null ],
+    [ "active", "d2/db9/a09782.html#a24a12fcafd0b0f4a7c0558737d8fd71f", null ],
+    [ "body", "d2/db9/a09782.html#a58d352611dcb35126f6ec93622ddc4b9", null ],
+    [ "conditions", "d2/db9/a09782.html#a818b993f72f82a022277e1c8d9160011", null ],
+    [ "id", "d2/db9/a09782.html#a6b47994eff9201a6a75f8c621b64716c", null ],
+    [ "itemsA", "d2/db9/a09782.html#a0992466672427c1d24c686bd8fa39378", null ],
+    [ "itemsH", "d2/db9/a09782.html#ad120200ba47bf8ea8511a46d56f0daec", null ],
+    [ "moneyA", "d2/db9/a09782.html#a6a84ca583beef891422f67bef7919c47", null ],
+    [ "moneyH", "d2/db9/a09782.html#a0e899ce54283bc000cc6afb96e6a3244", null ],
+    [ "subject", "d2/db9/a09782.html#a246e499c69c57a436aac4c039ea37d31", null ]
 ];

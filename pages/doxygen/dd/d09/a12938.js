@@ -1,6 +1,7 @@
 var a12938 =
 [
-    [ "npc_image_of_medivhAI", "d9/d53/a12942.html", "d9/d53/a12942" ],
-    [ "npc_image_of_medivh", "dd/d09/a12938.html#a55ee6f97bc7f144209927a2813cab6a9", null ],
-    [ "GetAI", "dd/d09/a12938.html#a11769c47fda3f1c4d8d80329f70d1957", null ]
+    [ "HandleDummy", "dd/d09/a12938.html#a02b89ff0a3ea53bb2740c7deb51279c2", null ],
+    [ "PrepareSpellScript", "dd/d09/a12938.html#a55a794dbaf76a549bd11fbe2a2432609", null ],
+    [ "Register", "dd/d09/a12938.html#a17784359e300e9d66c0c22bc5e7b6f6c", null ],
+    [ "Validate", "dd/d09/a12938.html#af12eb55064f7f1f1063ec0ce2863bc57", null ]
 ];

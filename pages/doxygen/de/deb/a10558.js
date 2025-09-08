@@ -1,6 +1,6 @@
 var a10558 =
 [
-    [ "QueryGuildInfo", "de/deb/a10558.html#a34b129b3c9fef61aa4211a9bc2783aef", null ],
-    [ "Read", "de/deb/a10558.html#a0396a58ca114706f7de91f51c5ab949d", null ],
-    [ "GuildId", "de/deb/a10558.html#ad221eecdb16233251306fff3d9801f38", null ]
+    [ "EmoteClient", "de/deb/a10558.html#af98c098cb1019057d8027f39c168e1a9", null ],
+    [ "Read", "de/deb/a10558.html#abad5fca865b7b99e595ce95137e8105c", null ],
+    [ "EmoteID", "de/deb/a10558.html#a24503de36535106220984ffbf6ba0338", null ]
 ];

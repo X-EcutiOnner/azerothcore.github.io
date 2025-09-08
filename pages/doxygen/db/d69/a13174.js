@@ -1,7 +1,6 @@
 var a13174 =
 [
-    [ "CheckCast", "db/d69/a13174.html#a3fe12c32e49232c2ea80095e62b4f981", null ],
-    [ "HandleScriptEffect", "db/d69/a13174.html#af265f0bba7028f45763a7f9afea2d051", null ],
-    [ "PrepareSpellScript", "db/d69/a13174.html#a27518fd5482e65e0324100057e747d68", null ],
-    [ "Register", "db/d69/a13174.html#a07789d7d092eb1b6633200442466c52b", null ]
+    [ "npc_gothik_the_harvesterAI", "df/d50/a13178.html", "df/d50/a13178" ],
+    [ "npc_gothik_the_harvester", "db/d69/a13174.html#a44a8a900e195308802e76c5b550b577a", null ],
+    [ "GetAI", "db/d69/a13174.html#a97d99101d8c6eca7cf59e9920725efbc", null ]
 ];

@@ -1,6 +1,10 @@
 var a18510 =
 [
-    [ "ModDestHeight", "d9/d9f/a18510.html#aafab48e58a2eb18c286f71fa907e9bc8", null ],
-    [ "PrepareSpellScript", "d9/d9f/a18510.html#a3c84b7044f448a5596e18f72e7b2f11a", null ],
-    [ "Register", "d9/d9f/a18510.html#ad3900c969dfb05a61ebc750eb3425bc0", null ]
+    [ "HandleScript", "d9/d9f/a18510.html#a18c80010b9e8803b3c225acf2dd0b605", null ],
+    [ "Load", "d9/d9f/a18510.html#af31fd5b1f9cdc67650eec5e305f095bf", null ],
+    [ "PrepareSpellScript", "d9/d9f/a18510.html#afcc1efc69d73086a9ab686855911e516", null ],
+    [ "Register", "d9/d9f/a18510.html#a061e110b9a032a9bbd0a48f686d16a84", null ],
+    [ "ReplaceTarget", "d9/d9f/a18510.html#a01cb7d25bef14a2266d81594544f6283", null ],
+    [ "SelectTarget", "d9/d9f/a18510.html#aa06b7505ff483bc5e534cc37d909b28c", null ],
+    [ "_target", "d9/d9f/a18510.html#a3a84a9d7109845d201b395f05f66d109", null ]
 ];

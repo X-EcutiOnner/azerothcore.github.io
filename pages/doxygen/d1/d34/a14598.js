@@ -1,7 +1,5 @@
 var a14598 =
 [
-    [ "HandleEffectApply", "d1/d34/a14598.html#ad48d832fef881bfb517fb8df694b7507", null ],
-    [ "HandleEffectRemove", "d1/d34/a14598.html#a1534b010301dbaff66d41443142c50b7", null ],
-    [ "PrepareAuraScript", "d1/d34/a14598.html#ab4bba02a5e2196ad65ccea94a4615a9d", null ],
-    [ "Register", "d1/d34/a14598.html#a97a0003cca808e5b03f720bb3be07419", null ]
+    [ "go_pumpkin_shrine", "d1/d34/a14598.html#ab9b05caa7ef7d740a0c46171c2160a19", null ],
+    [ "OnGossipSelect", "d1/d34/a14598.html#a35763a67d39c1d68974a9602ce26b699", null ]
 ];

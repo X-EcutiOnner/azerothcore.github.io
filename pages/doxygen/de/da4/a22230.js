@@ -1,6 +1,5 @@
 var a22230 =
 [
-    [ "npc_lord_areteAI", "dd/dfb/a22234.html", "dd/dfb/a22234" ],
-    [ "npc_lord_arete", "de/da4/a22230.html#a929e3f3346bf4dbaee127463eaf4ffcc", null ],
-    [ "GetAI", "de/da4/a22230.html#a212d003e9acb5f141197b5c4d10163a4", null ]
+    [ "npc_black_knight_graveyardAI", "de/da4/a22230.html#a908ccf6763240ba0c0ebdf2dec6e1b36", null ],
+    [ "MoveInLineOfSight", "de/da4/a22230.html#aa5c80b5759656e3865d6721161f9f005", null ]
 ];

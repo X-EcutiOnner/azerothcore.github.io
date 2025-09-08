@@ -1,10 +1,7 @@
 var a09726 =
 [
-    [ "iterator", "db/d8d/a09726.html#a9fada63aa17222fc5e216f3904affafd", null ],
-    [ "begin", "db/d8d/a09726.html#aee3a4701c5bc51f4028fe53f18675989", null ],
-    [ "end", "db/d8d/a09726.html#ad61defd77296790a6c5d0a43bacbbe4b", null ],
-    [ "getFirst", "db/d8d/a09726.html#ae47bba95a17db31a42231da948245387", null ],
-    [ "getLast", "db/d8d/a09726.html#ac03e93ac8ad6fc91ec9d2961b8904217", null ],
-    [ "rbegin", "db/d8d/a09726.html#af68f1d93a80e13976798dfed0063a1e4", null ],
-    [ "rend", "db/d8d/a09726.html#a92c30fb269bc99820b6964a99ee86d98", null ]
+    [ "QuestItem", "db/d8d/a09726.html#a1d6e1d5de83a397b17115dbeba2a58b3", null ],
+    [ "QuestItem", "db/d8d/a09726.html#a51b978ee64ec979ebe097f3b3f4c3cd0", null ],
+    [ "index", "db/d8d/a09726.html#a0e48289882a1eabb6c8ff30032193bd2", null ],
+    [ "is_looted", "db/d8d/a09726.html#a48f2baabd2d5a07313dc38a27c6f4713", null ]
 ];

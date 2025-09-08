@@ -1,6 +1,13 @@
 var a25030 =
 [
-    [ "CheckAreaTarget", "de/d69/a25030.html#a545323b9964ee4cb3c8d054fac4e2d55", null ],
-    [ "PrepareAuraScript", "de/d69/a25030.html#a2b6dbd33e34357917f662000a1cd932f", null ],
-    [ "Register", "de/d69/a25030.html#a7b4a2301b3a608ea5b2dd2504e02741d", null ]
+    [ "CalcPeriodic", "de/d69/a25030.html#a08dca1818a687bb5862779e261dafb00", null ],
+    [ "CalculateExpertiseAmount", "de/d69/a25030.html#a44703f4a1c5cfb74083bf74d7b77c23c", null ],
+    [ "CalculateHitAmount", "de/d69/a25030.html#af6e9dda7381a80d4de93c1a7402a2e2b", null ],
+    [ "CalculateSpellHitAmount", "de/d69/a25030.html#ab31dfffdf449c1eef74c2bcd43469109", null ],
+    [ "HandleEffectApply", "de/d69/a25030.html#a6ba389f156263462f5e80e3a9fb6f62e", null ],
+    [ "HandlePeriodic", "de/d69/a25030.html#ac97a33580dc873af7b580d4fdf7ed9f6", null ],
+    [ "PrepareAuraScript", "de/d69/a25030.html#ad9aeb68e7d512f55f38f5a64d1d80f7f", null ],
+    [ "Register", "de/d69/a25030.html#a803e26c6a4c06feedd80a4d94452aca5", null ],
+    [ "cap", "de/d69/a25030.html#a9c3e35d01ad863d146566efe7cca2637", null ],
+    [ "maxChance", "de/d69/a25030.html#a34933c7fe8b570214c821347f4ba974b", null ]
 ];

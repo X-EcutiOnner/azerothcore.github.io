@@ -1,7 +1,5 @@
 var a28510 =
 [
-    [ "EpicPropertiesPoints", "df/d57/a28510.html#a35dc60a15091357e03032226621340f7", null ],
-    [ "itemLevel", "df/d57/a28510.html#a35506e3235c2c24230058dc2fb9abc4f", null ],
-    [ "RarePropertiesPoints", "df/d57/a28510.html#a9359171635ef3e9a0029820fad286368", null ],
-    [ "UncommonPropertiesPoints", "df/d57/a28510.html#a74acb6861a84d5d193038eaa5ac9b12f", null ]
+    [ "Id", "df/d57/a28510.html#a44532f8af054ae5224f5e816c3c9a8a7", null ],
+    [ "PowerType", "df/d57/a28510.html#ab6c17a5a3ba9f2f3a8fac125104703c4", null ]
 ];

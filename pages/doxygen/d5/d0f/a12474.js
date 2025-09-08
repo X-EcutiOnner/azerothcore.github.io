@@ -1,6 +1,6 @@
 var a12474 =
 [
-    [ "instance_blackwing_lair_InstanceMapScript", "dd/d4f/a12478.html", "dd/d4f/a12478" ],
-    [ "instance_blackwing_lair", "d5/d0f/a12474.html#afb9a7ce1ac297b023aa8364cc1383336", null ],
-    [ "GetInstanceScript", "d5/d0f/a12474.html#a70aff4e1bb406f232d0b4961037ed0a1", null ]
+    [ "HandleOnHit", "d5/d0f/a12474.html#a804097903354ab3a730f0fe3eb5ec863", null ],
+    [ "PrepareSpellScript", "d5/d0f/a12474.html#aea221ad6fb1a30bec6fee0c3a67d01b0", null ],
+    [ "Register", "d5/d0f/a12474.html#a53bed6f1af71fd309a04bc004d07be80", null ]
 ];

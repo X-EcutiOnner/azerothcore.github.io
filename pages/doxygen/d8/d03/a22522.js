@@ -1,6 +1,6 @@
 var a22522 =
 [
-    [ "npc_wg_queueAI", "d8/d03/a22522.html#a3760738d61b6148042fc30bd96b88fdc", null ],
-    [ "UpdateAI", "d8/d03/a22522.html#a2e5f19a0f01eeb3d1585c7b02f2073b2", null ],
-    [ "events", "d8/d03/a22522.html#ab0eb949272e48120cff1c3df27ad8e92", null ]
+    [ "npc_vehicle_d16_propelled_deliveryAI", "d8/d03/a22522.html#afd54b130725aa724b80f150f968ce09d", null ],
+    [ "MovementInform", "d8/d03/a22522.html#a37800436af47a8f6fbc6f6eb25eab9f9", null ],
+    [ "PassengerBoarded", "d8/d03/a22522.html#a588ed86f5b8316feafd938d85ac65aa0", null ]
 ];

@@ -1,8 +1,8 @@
 var a04262 =
 [
-    [ "CreatureScript", "d0/db2/a10294.html", "d0/db2/a10294" ],
-    [ "GenericCreatureScript< AI >", "d5/d5b/a10298.html", "d5/d5b/a10298" ],
-    [ "FactoryCreatureScript< AI, AIFactory >", "d7/daa/a10302.html", "d7/daa/a10302" ],
+    [ "CreatureScript", "d5/dea/a10310.html", "d5/dea/a10310" ],
+    [ "GenericCreatureScript< AI >", "de/d84/a10314.html", "de/d84/a10314" ],
+    [ "FactoryCreatureScript< AI, AIFactory >", "dc/d20/a10318.html", "dc/d20/a10318" ],
     [ "RegisterCreatureAI", "d1/d7a/a04262.html#a5e7352841895df7117e2830448eb533f", null ],
     [ "RegisterCreatureAIWithFactory", "d1/d7a/a04262.html#a25cc02ecf50f52ec8cdff096060b8be1", null ]
 ];

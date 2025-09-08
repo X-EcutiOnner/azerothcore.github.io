@@ -1,6 +1,5 @@
 var a22314 =
 [
-    [ "npc_frostbrood_skytalonAI", "d0/d8c/a22318.html", "d0/d8c/a22318" ],
-    [ "npc_frostbrood_skytalon", "d5/d7f/a22314.html#a1bc95edf0e624709e3836bdcfb0c503c", null ],
-    [ "GetAI", "d5/d7f/a22314.html#af5b1c3e52076fb84b83e785762ff6b6d", null ]
+    [ "npc_guardian_pavilionAI", "d5/d7f/a22314.html#a2c116495e65c7f97063aa7dc6516f48c", null ],
+    [ "MoveInLineOfSight", "d5/d7f/a22314.html#aeae26e28be93120062d9f77c069ff32a", null ]
 ];

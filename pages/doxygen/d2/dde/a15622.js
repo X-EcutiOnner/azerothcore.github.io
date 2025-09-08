@@ -1,7 +1,6 @@
 var a15622 =
 [
-    [ "HandleEffectPeriodic", "d2/dde/a15622.html#ac47c157dbd193bc131d281666ae2097f", null ],
-    [ "PrepareAuraScript", "d2/dde/a15622.html#ac650ece6e2d9e9e7ff9b863d77f84975", null ],
-    [ "Register", "d2/dde/a15622.html#ac3c158fdddd007d1d7986470032bfc25", null ],
-    [ "Validate", "d2/dde/a15622.html#a26b117dc8a3b104dec9de27597fbe55d", null ]
+    [ "npc_tiger_matriarchAI", "da/db2/a15626.html", "da/db2/a15626" ],
+    [ "npc_tiger_matriarch", "d2/dde/a15622.html#a05a08bfa64c428213a4b534a982afb71", null ],
+    [ "GetAI", "d2/dde/a15622.html#a6d5664ca125a775c2d71f322f5a57655", null ]
 ];

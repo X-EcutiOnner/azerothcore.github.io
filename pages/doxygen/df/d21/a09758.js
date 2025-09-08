@@ -1,8 +1,10 @@
 var a09758 =
 [
-    [ "ServerMailCondition", "df/d21/a09758.html#a2ee7d2f3587159c95883fe32674cb586", null ],
-    [ "CheckCondition", "df/d21/a09758.html#a3c223658629357f05d8879555717f624", null ],
-    [ "state", "df/d21/a09758.html#a309f739872afaf644331335b27649561", null ],
-    [ "type", "df/d21/a09758.html#a3b318e7743ca48fcf8ba849398a06968", null ],
-    [ "value", "df/d21/a09758.html#af709199aed99633cc70d9118ee4fd4fc", null ]
+    [ "MailReceiver", "df/d21/a09758.html#a6fba3ff0ab3167197f569631d766ce14", null ],
+    [ "MailReceiver", "df/d21/a09758.html#af0b094a704463ed76b1c08bc3cab0380", null ],
+    [ "MailReceiver", "df/d21/a09758.html#a9f69a0951c2b9d9152685632c744cf4e", null ],
+    [ "GetPlayer", "df/d21/a09758.html#a0113e33ef82e9f3112f8cd5793581a36", null ],
+    [ "GetPlayerGUIDLow", "df/d21/a09758.html#a0e29fba37b58c7bc92065b0221b8e31e", null ],
+    [ "m_receiver", "df/d21/a09758.html#a377b896e1dc7a0e89440efbc2b811ae7", null ],
+    [ "m_receiver_lowguid", "df/d21/a09758.html#a46b62a2b8dd0ebac981e0a1752e88743", null ]
 ];

@@ -1,6 +1,5 @@
 var a24470 =
 [
-    [ "HandleSendEvent", "dd/d90/a24470.html#a698e367b59ce770a9b4d9fe6890edf46", null ],
-    [ "PrepareSpellScript", "dd/d90/a24470.html#aed8815b1d068ba04f12c7714a64af769", null ],
-    [ "Register", "dd/d90/a24470.html#aa55fa06e76b1f34e319e16984405ed20", null ]
+    [ "npc_shattrath_daily_quest", "dd/d90/a24470.html#ab6aa71e4738fdce1b59d379249a868d5", null ],
+    [ "DoAction", "dd/d90/a24470.html#ac3e8c6de30ad7567fe5e52cd1ddfeb2c", null ]
 ];

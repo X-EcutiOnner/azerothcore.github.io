@@ -1,8 +1,9 @@
 var a23050 =
 [
-    [ "FilterTargets", "d5/d5c/a23050.html#a0ee5b216f8e713a5c632d0f456fd2b72", null ],
-    [ "HandleDummy", "d5/d5c/a23050.html#ab89ab441f022ee017548ba49d128b92e", null ],
-    [ "PrepareSpellScript", "d5/d5c/a23050.html#aa8578390d7d9379328c02ceb209e94ed", null ],
-    [ "Register", "d5/d5c/a23050.html#a486387d707b7ad66ecb443ab2bb60778", null ],
-    [ "Validate", "d5/d5c/a23050.html#ad5d695978794d796eb7139fce1530d57", null ]
+    [ "boss_mother_shahraz", "d5/d5c/a23050.html#adba94363f74975301472d79f24894df8", null ],
+    [ "JustDied", "d5/d5c/a23050.html#ab69d81acde4e6e2a3f6adb032090b958", null ],
+    [ "JustEngagedWith", "d5/d5c/a23050.html#a021c702e7eff266308fee8a4220a6ec7", null ],
+    [ "KilledUnit", "d5/d5c/a23050.html#a81ed314ae9737c0989b62c27c9ce4cc9", null ],
+    [ "Reset", "d5/d5c/a23050.html#ab9e4162ac92e786b84b6497c37251386", null ],
+    [ "_canTalk", "d5/d5c/a23050.html#a821d91439c60a60ffcff07b6bdbbc070", null ]
 ];

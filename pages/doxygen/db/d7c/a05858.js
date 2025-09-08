@@ -1,11 +1,17 @@
 var a05858 =
 [
-    [ "SQLQueryHolderBase", "db/d7c/a05858.html#a05946ea4a26798e5567f632cf9f66eff", null ],
-    [ "~SQLQueryHolderBase", "db/d7c/a05858.html#aa9e2407821d0c40a728337f174571fc5", null ],
-    [ "GetPreparedResult", "db/d7c/a05858.html#a402f961642eaa239ff8726ad66e78640", null ],
-    [ "SetPreparedQueryImpl", "db/d7c/a05858.html#a6657bb34fab696a26af9751ded41f1d7", null ],
-    [ "SetPreparedResult", "db/d7c/a05858.html#a34bcdec6591ce40a58667197f240fbe0", null ],
-    [ "SetSize", "db/d7c/a05858.html#a9e62f0171bd39a13348d097ee99cb17c", null ],
-    [ "SQLQueryHolderTask", "db/d7c/a05858.html#a4d6be4ca13ec7a0d213da9d1e6ec922b", null ],
-    [ "m_queries", "db/d7c/a05858.html#a432a52e6f9dc7f51cbc8f2877d0894e1", null ]
+    [ "QueryCallbackData", "db/d7c/a05858.html#a43aa5b63c21480a9a02e5b1705f5e46a", null ],
+    [ "QueryCallbackData", "db/d7c/a05858.html#af3d8b55a1a392e1f471bcf7ce16d8f45", null ],
+    [ "QueryCallbackData", "db/d7c/a05858.html#a81f06a2940c72077d0f8bbe0d6292c5e", null ],
+    [ "~QueryCallbackData", "db/d7c/a05858.html#a7a748ec0f04555caf696be1792701134", null ],
+    [ "QueryCallbackData", "db/d7c/a05858.html#aea307606758c54a99e020421acaa5697", null ],
+    [ "operator=", "db/d7c/a05858.html#a135161ac21cd4f11f2178acc8316afea", null ],
+    [ "operator=", "db/d7c/a05858.html#a5b4baade8dd78ab3dc00e1003f679fb3", null ],
+    [ "ConstructActiveMember", "db/d7c/a05858.html#a63276ee687270e668e7c51876ced5fb1", null ],
+    [ "DestroyActiveMember", "db/d7c/a05858.html#aac0ba6a0017441eb25c4b294fde99186", null ],
+    [ "MoveFrom", "db/d7c/a05858.html#a4ef783bc4f06f2cbaec3f4b6ca2c49aa", null ],
+    [ "QueryCallback", "db/d7c/a05858.html#a3bf0675bb0e337d06f1e7ef31d7622fe", null ],
+    [ "_isPrepared", "db/d7c/a05858.html#ad4e5dcd8f5648dfa36116b9944813ec6", null ],
+    [ "_prepared", "db/d7c/a05858.html#ab87a39965f1ca9d48d6e5a88fde51976", null ],
+    [ "_string", "db/d7c/a05858.html#a384db60c65e7823fdbc0ff430ac8dfe1", null ]
 ];

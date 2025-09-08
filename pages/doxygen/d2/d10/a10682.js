@@ -1,6 +1,7 @@
 var a10682 =
 [
-    [ "GuildOfficerRemoveMember", "d2/d10/a10682.html#acd0f767ff61006c7b3c78f3dbb6da558", null ],
-    [ "Read", "d2/d10/a10682.html#aa0c3cd629b73cb079cc3cf90bf6f8067", null ],
-    [ "Removee", "d2/d10/a10682.html#a18ece7d865fa1b5da005c7c03397b4e2", null ]
+    [ "GuildSetMemberNote", "d2/d10/a10682.html#a4747c3d015cb1b0d0056928fd75e4d18", null ],
+    [ "Read", "d2/d10/a10682.html#a3d90b6ce26d55a55bac1d953dd39b049", null ],
+    [ "Note", "d2/d10/a10682.html#a33b7b73bd5d26c2a0ac99d6dc0131c41", null ],
+    [ "NoteeName", "d2/d10/a10682.html#acf6beb0a5b122a04162e9d2c027203af", null ]
 ];

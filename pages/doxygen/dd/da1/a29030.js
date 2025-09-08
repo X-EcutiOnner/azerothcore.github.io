@@ -1,5 +1,11 @@
 var a29030 =
 [
-    [ "go_arena_ready_marker", "dd/da1/a29030.html#a614ee8efff31d928a9f4547d60b6a6a6", null ],
-    [ "OnGossipHello", "dd/da1/a29030.html#a9f51ead2b56d51427ff23be9688388d8", null ]
+    [ "material", "dd/da1/a29030.html#a7079e8817a9684602084eb224f2540fc", null ],
+    [ "pos_x", "dd/da1/a29030.html#ac4d971cc46506be14716124afbb5ad9c", null ],
+    [ "pos_y", "dd/da1/a29030.html#a6cd85f2a674d732e88371ffce5e46077", null ],
+    [ "pos_z", "dd/da1/a29030.html#a183ec8ec2d8d30726494c6b3d3b8606a", null ],
+    [ "xtiles", "dd/da1/a29030.html#aca34dfa64624cfe04c314c13bbed0062", null ],
+    [ "xverts", "dd/da1/a29030.html#aa5ad7ff660f7f0b5ddfd2d186496d928", null ],
+    [ "ytiles", "dd/da1/a29030.html#a9901a7e9828ac840bc290b0768831d66", null ],
+    [ "yverts", "dd/da1/a29030.html#abf24042b85692cd0df05d65d734dd99e", null ]
 ];

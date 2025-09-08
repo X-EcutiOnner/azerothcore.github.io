@@ -1,7 +1,13 @@
 var a08418 =
 [
-    [ "ObjectDistanceOrderPred", "d3/d58/a08418.html#adced3fdc6d99b7506361eb7700fa4cec", null ],
-    [ "operator()", "d3/d58/a08418.html#aaa5023735568f6df28a177fbd9ed866e", null ],
-    [ "m_ascending", "d3/d58/a08418.html#a313cd0450096e49716bfb52f8f238bfc", null ],
-    [ "m_refObj", "d3/d58/a08418.html#aec421fd45a60545bf92b7236e0d0b360", null ]
+    [ "FlaggedValuesArray32", "d3/d58/a08418.html#a0680f7b67001783f20d89989a49cbead", null ],
+    [ "AddFlag", "d3/d58/a08418.html#a273ab3607b23881628eb0c5d6a4da288", null ],
+    [ "AddValue", "d3/d58/a08418.html#aacca1261b2a22525e5fd40e5f479aa06", null ],
+    [ "DelFlag", "d3/d58/a08418.html#a3a674b2a7b8d5874f7210372b3e92123", null ],
+    [ "GetFlags", "d3/d58/a08418.html#a314a315eb1c1a76116fe3a31f7be9c68", null ],
+    [ "GetValue", "d3/d58/a08418.html#a87e5949bc041f15449331aceb277e8c4", null ],
+    [ "HasFlag", "d3/d58/a08418.html#a0ea5d977caef5152c71c515259a91f06", null ],
+    [ "SetValue", "d3/d58/a08418.html#ad0d385589befe52103f077723fa2463c", null ],
+    [ "m_flags", "d3/d58/a08418.html#abab31b77efb46fa796275c36964eab91", null ],
+    [ "m_values", "d3/d58/a08418.html#aabd025f47ad522e574f603eb559500f0", null ]
 ];

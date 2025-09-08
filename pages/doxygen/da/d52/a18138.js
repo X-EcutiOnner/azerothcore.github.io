@@ -1,6 +1,6 @@
 var a18138 =
 [
-    [ "npc_big_oozeAI", "dd/de1/a18142.html", "dd/de1/a18142" ],
-    [ "npc_big_ooze", "da/d52/a18138.html#a8ae667b2782c53cd808f2e02e29713ee", null ],
-    [ "GetAI", "da/d52/a18138.html#ad06308602d69b51ff3f269bda6c465b5", null ]
+    [ "boss_rotfaceAI", "dd/de1/a18142.html", "dd/de1/a18142" ],
+    [ "boss_rotface", "da/d52/a18138.html#a8896f5ed16c728d72a123b2e92a174fb", null ],
+    [ "GetAI", "da/d52/a18138.html#a8a3ff9ef99da7d72ce2f7827bfc2564b", null ]
 ];

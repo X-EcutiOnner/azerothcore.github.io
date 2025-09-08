@@ -1,6 +1,5 @@
 var a13018 =
 [
-    [ "instance_magisters_terrace_InstanceMapScript", "d4/d3f/a13022.html", "d4/d3f/a13022" ],
-    [ "instance_magisters_terrace", "d1/d5c/a13018.html#a81e23ce04c4d765193d2d2763ef78987", null ],
-    [ "GetInstanceScript", "d1/d5c/a13018.html#a465cbaebb13535cdb7f6a2108e026fc5", null ]
+    [ "boss_apoko", "d1/d5c/a13018.html#a3ae4752839f47bbfce5f7df03c427cd2", null ],
+    [ "JustEngagedWith", "d1/d5c/a13018.html#a7ad52b258863bd818b3e5d1143de7629", null ]
 ];

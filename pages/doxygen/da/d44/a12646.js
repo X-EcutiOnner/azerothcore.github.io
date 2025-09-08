@@ -1,6 +1,6 @@
 var a12646 =
 [
-    [ "instance_molten_core_InstanceMapScript", "d7/ded/a12650.html", "d7/ded/a12650" ],
-    [ "instance_molten_core", "da/d44/a12646.html#ad83dac834feb2fcae872dfe09b833950", null ],
-    [ "GetInstanceScript", "da/d44/a12646.html#ab7c794f1503f0ecad8d41ace72737a5d", null ]
+    [ "boss_sulfuronAI", "da/d44/a12646.html#a63c76fb94131830924e2bf77477261ba", null ],
+    [ "ExecuteEvent", "da/d44/a12646.html#ae038aa8140f5b4128c39c592966321f1", null ],
+    [ "JustEngagedWith", "da/d44/a12646.html#a35394690b8d25529c91c147025f6ad92", null ]
 ];

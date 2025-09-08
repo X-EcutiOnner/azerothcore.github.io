@@ -1,10 +1,7 @@
 var a13518 =
 [
-    [ "MoveDelayed", "df/d4a/a13518.html#a3bf695ce31bb531b134c6c7018f4f197", null ],
-    [ "Execute", "df/d4a/a13518.html#aa0db97475196b58bbed1f6bff1440fc6", null ],
-    [ "_o", "df/d4a/a13518.html#ad0d76a04b7e85ea8667b05ec438316a0", null ],
-    [ "_owner", "df/d4a/a13518.html#a2f7baa4bc22adeac8136df7269eb2895", null ],
-    [ "_x", "df/d4a/a13518.html#aa490d19022c27932e76af38281fe158b", null ],
-    [ "_y", "df/d4a/a13518.html#a195fc5719683ad645f36b06fd4f60d9f", null ],
-    [ "_z", "df/d4a/a13518.html#a6aafdee829472bf22102645e1ff5e7a6", null ]
+    [ "OnRemove", "df/d4a/a13518.html#a2438d8c85ff2a446572286b0d058ecf1", null ],
+    [ "PrepareAuraScript", "df/d4a/a13518.html#ade353aafb960cabdb615718f41f485e8", null ],
+    [ "Register", "df/d4a/a13518.html#af1c312778a13f7fe8d174247f69258ac", null ],
+    [ "Validate", "df/d4a/a13518.html#afd75cdeb9430833fa6a59d7913c86a97", null ]
 ];

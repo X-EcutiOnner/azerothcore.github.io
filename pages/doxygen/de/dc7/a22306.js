@@ -1,6 +1,7 @@
 var a22306 =
 [
-    [ "npc_blessed_bannerAI", "db/d20/a22310.html", "db/d20/a22310" ],
-    [ "npc_blessed_banner", "de/dc7/a22306.html#a779a0c653088b2d206226e146a19101f", null ],
-    [ "GetAI", "de/dc7/a22306.html#a43dabbf2f2d54ae201cde37df792a41d", null ]
+    [ "HandleScriptEffect", "de/dc7/a22306.html#ad20cf97a7dd442d5670a22095b487a01", null ],
+    [ "PrepareSpellScript", "de/dc7/a22306.html#ab0f6da0cb3115e54dbb59f0e6f823d02", null ],
+    [ "Register", "de/dc7/a22306.html#a996ea344ea2a3312cb8886565b80972d", null ],
+    [ "Validate", "de/dc7/a22306.html#a29bf5a9615e02281f426bf521a045567", null ]
 ];

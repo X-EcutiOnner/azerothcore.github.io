@@ -1,6 +1,7 @@
 var a13390 =
 [
-    [ "HandleActivateObject", "dc/df2/a13390.html#afd73a7f5ec26c9ecb0424ee09ce638fe", null ],
-    [ "PrepareSpellScript", "dc/df2/a13390.html#ad55914fdc6771e09a508572d59ad30ed", null ],
-    [ "Register", "dc/df2/a13390.html#a6a0fe507ca7a382122d55e04d3c021d9", null ]
+    [ "OnRemove", "dc/df2/a13390.html#a55460c6393c165e3096c967c81136032", null ],
+    [ "PrepareAuraScript", "dc/df2/a13390.html#afd4e4483f704169e6d213ced134d4c62", null ],
+    [ "Register", "dc/df2/a13390.html#a8458f77fde6eaddc273b3fe5f4e49ae0", null ],
+    [ "Validate", "dc/df2/a13390.html#af580258d287f5db6103b89d3085669bc", null ]
 ];

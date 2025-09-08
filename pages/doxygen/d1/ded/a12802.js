@@ -1,9 +1,7 @@
 var a12802 =
 [
-    [ "FilterTargets", "d1/ded/a12802.html#a88b91e40b330d39bd04a7873128fb858", null ],
-    [ "HandleFinish", "d1/ded/a12802.html#a762ea4cc1cd0a50a65daf22cbbf4ce9c", null ],
-    [ "PrepareSpellScript", "d1/ded/a12802.html#ab4ef82283e4d651d2e5304e49970efa8", null ],
-    [ "Register", "d1/ded/a12802.html#ab2008e585589cbf313170064d37c4aa9", null ],
-    [ "Validate", "d1/ded/a12802.html#af4963be6c544a1706a6dc30dcbf18309", null ],
-    [ "_targets", "d1/ded/a12802.html#a2f75199a90e52cff770f46bce76d5149", null ]
+    [ "npc_malchezaar_axe", "d1/ded/a12802.html#a1a5615f2def10add30e7917b770ebc74", null ],
+    [ "Initialize", "d1/ded/a12802.html#a078e7f0997c026b73a4e0ab8a1c209b8", null ],
+    [ "JustEngagedWith", "d1/ded/a12802.html#a4a9f90e66359b304622d4f79653f9fd0", null ],
+    [ "UpdateAI", "d1/ded/a12802.html#a202ba6922a426f87909eefbccd070175", null ]
 ];

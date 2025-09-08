@@ -1,8 +1,8 @@
 var a22810 =
 [
-    [ "npc_anzu_spirit", "db/d4a/a22810.html#adb1b66d6bf6ec1991465f85a504397d5", null ],
-    [ "IsSummonedBy", "db/d4a/a22810.html#a26f0928593f75d242c8bbcc541f7b59b", null ],
-    [ "Reset", "db/d4a/a22810.html#acef3f7093f93b6c227d145523cdc487a", null ],
-    [ "UpdateAI", "db/d4a/a22810.html#a9866d91ffc04548a96cfcdc3a5c7496a", null ],
-    [ "_scheduler", "db/d4a/a22810.html#ad14937df9ddddabcf96e2d1104ca153c", null ]
+    [ "boss_pandemonius", "db/d4a/a22810.html#a650746de74bb8a91e0c9c59d8a6a09ea", null ],
+    [ "JustDied", "db/d4a/a22810.html#a64a493c0dd4bcf5917e00c3e2713f4ce", null ],
+    [ "JustEngagedWith", "db/d4a/a22810.html#a3dbedc67006db89b95443f783cd8dbd9", null ],
+    [ "KilledUnit", "db/d4a/a22810.html#a26a012afe8c418c8da283c7b9f983e89", null ],
+    [ "PullRoom", "db/d4a/a22810.html#a05011127290350f11cc1a333b23dbb04", null ]
 ];

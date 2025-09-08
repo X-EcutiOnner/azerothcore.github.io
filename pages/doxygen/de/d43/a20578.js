@@ -1,5 +1,6 @@
 var a20578 =
 [
-    [ "achievement_kologarn_with_open_arms", "de/d43/a20578.html#a94af961be5bbdf7783925148731ce7e4", null ],
-    [ "OnCheck", "de/d43/a20578.html#a03c1fb5f141a15f8f63e28700b98f9b5", null ]
+    [ "FilterTargets", "de/d43/a20578.html#ae8d940a89be9b63286911bd55dcd3844", null ],
+    [ "PrepareSpellScript", "de/d43/a20578.html#a8f4b4d82e53c8f820b620896478681a9", null ],
+    [ "Register", "de/d43/a20578.html#a744d5cb8de927410ab1bf72008fff8b3", null ]
 ];

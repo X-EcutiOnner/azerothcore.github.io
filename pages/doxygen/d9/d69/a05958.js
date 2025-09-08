@@ -1,9 +1,7 @@
 var a05958 =
 [
-    [ "AddonInfo", "d9/d69/a05958.html#a60ea66ed93b64c9e182226954a514f53", null ],
-    [ "CRC", "d9/d69/a05958.html#a7f0f2d817a2189b3acee5999f154ba60", null ],
-    [ "Enabled", "d9/d69/a05958.html#ace9f109c395ed84cc01ca4381222c25b", null ],
-    [ "Name", "d9/d69/a05958.html#a45692257c72286e670ab8c9c50014335", null ],
-    [ "State", "d9/d69/a05958.html#a5301b19e44d68540434574f023e62f46", null ],
-    [ "UsePublicKeyOrCRC", "d9/d69/a05958.html#a75e016fa7abee24757c89b97330a6192", null ]
+    [ "arg1", "d9/d69/a05958.html#aa2018e5823bcf013847605847231e3c2", null ],
+    [ "arg2", "d9/d69/a05958.html#a4c8721b050e72556a901be1a4a49c2b6", null ],
+    [ "arg3", "d9/d69/a05958.html#acadf2c3d1d60f8f49fde62b9172980e5", null ],
+    [ "updateType", "d9/d69/a05958.html#a84cace2469c54d57b33abe5ca93588ca", null ]
 ];

@@ -1,14 +1,12 @@
 var a11630 =
 [
-    [ "deserter_commandscript", "df/db1/a11630.html#aebaaf99b9c5959f3f3418e13e252fb95", null ],
-    [ "GetCommands", "df/db1/a11630.html#ab5b48b9dde89c9215c51560f26324649", null ],
-    [ "HandleDeserterAdd", "df/db1/a11630.html#abe8c428ec09d341bb9f49882b7c071e2", null ],
-    [ "HandleDeserterBGAdd", "df/db1/a11630.html#a11fba09d369e7244244887947a91369e", null ],
-    [ "HandleDeserterBGRemove", "df/db1/a11630.html#a9bf4e146ef0f4f0cb2508c4953f8a647", null ],
-    [ "HandleDeserterBGRemoveAll", "df/db1/a11630.html#a419d404315e91b6cac1bfd3ac225a8fd", null ],
-    [ "HandleDeserterInstanceAdd", "df/db1/a11630.html#aabd2b23e2dc61fac10890077b41d8179", null ],
-    [ "HandleDeserterInstanceRemove", "df/db1/a11630.html#a3197e5228284ba50da7f3a31b3e76060", null ],
-    [ "HandleDeserterInstanceRemoveAll", "df/db1/a11630.html#adc6ad2f406fcb58ba64d2b6fd47281e2", null ],
-    [ "HandleDeserterRemove", "df/db1/a11630.html#a210dc9a7eddede6fe976157d6b22b683", null ],
-    [ "HandleDeserterRemoveAll", "df/db1/a11630.html#a6274f79b9884586069f94137b44d89e9", null ]
+    [ "Action", "df/db1/a11630.html#a0aba96ac9e7af155a1d9bdf120afae25", null ],
+    [ "Address", "df/db1/a11630.html#aaae2d4fd576f3eeb40c1413d54802345", null ],
+    [ "CheckId", "df/db1/a11630.html#a51a0cea0381f2b64e9d240ac39591172", null ],
+    [ "Comment", "df/db1/a11630.html#a6abdb409f49751b2f6aa8df88c349ba2", null ],
+    [ "Data", "df/db1/a11630.html#a962795028d40645fe67e4290ea64b10b", null ],
+    [ "IdStr", "df/db1/a11630.html#a15ecbc1a6582666a14423fa157d2fb84", null ],
+    [ "Length", "df/db1/a11630.html#abe0249d9550042e696eb74edf06aaec8", null ],
+    [ "Str", "df/db1/a11630.html#a1fc1eba87b344d4681498aafcaa496cb", null ],
+    [ "Type", "df/db1/a11630.html#aca31cdb700dca4801dfa514812639c70", null ]
 ];

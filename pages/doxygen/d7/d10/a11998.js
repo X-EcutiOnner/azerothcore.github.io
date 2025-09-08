@@ -1,6 +1,6 @@
 var a11998 =
 [
-    [ "npc_lokhtos_darkbargainer", "d7/d10/a11998.html#af91685ecf0f63313968b3d82373668d2", null ],
-    [ "OnGossipHello", "d7/d10/a11998.html#a39547487ef7db8a3942556665099893f", null ],
-    [ "OnGossipSelect", "d7/d10/a11998.html#a5a4640678a5669c75b1fa5d787999c02", null ]
+    [ "npc_grimstoneAI", "d8/dae/a12002.html", "d8/dae/a12002" ],
+    [ "npc_grimstone", "d7/d10/a11998.html#ae5c3e36bf18cb30dd4fc7cd5e7a72cfb", null ],
+    [ "GetAI", "d7/d10/a11998.html#a24cf0aa69ac28c13ac3c44e14c35406c", null ]
 ];

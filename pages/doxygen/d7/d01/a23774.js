@@ -1,7 +1,8 @@
 var a23774 =
 [
-    [ "FilterTargets", "d7/d01/a23774.html#a921450a09e51585beb9dd2ce9b00bac9", null ],
-    [ "HandleHit", "d7/d01/a23774.html#adb30857a5a320bb24b8cc0bcb9d60040", null ],
-    [ "PrepareSpellScript", "d7/d01/a23774.html#a376618b9811b2e1ec18697431094e22f", null ],
-    [ "Register", "d7/d01/a23774.html#ae7f4f54446d5a1ebb20d49ab9deaed81", null ]
+    [ "npc_target_trigger", "d7/d01/a23774.html#a238058ba80130c6239b7267db3247196", null ],
+    [ "Reset", "d7/d01/a23774.html#ad23d465bfd78ede0a1556f2ce1742349", null ],
+    [ "UpdateAI", "d7/d01/a23774.html#ab5f482e209d2d8aa5c27666d3e1934f3", null ],
+    [ "_cast", "d7/d01/a23774.html#a4ec89ca960323f7ad135d5a425a82416", null ],
+    [ "_scheduler", "d7/d01/a23774.html#a9b418b09e25c8f96692b4e2626339c96", null ]
 ];

@@ -1,7 +1,11 @@
 var a24818 =
 [
-    [ "CalculateAmount", "da/dfe/a24818.html#a44c3c1c97f0b87b261614e7eb0ce7d4d", null ],
-    [ "PrepareAuraScript", "da/dfe/a24818.html#aaf070525419cc8af56cd0002bbef2391", null ],
-    [ "Register", "da/dfe/a24818.html#ad37c82f88ebfb8c68aef2e574c0c4dcf", null ],
-    [ "Validate", "da/dfe/a24818.html#a3b8d5d04ec015240d941790bd02598f8", null ]
+    [ "HandleAfterHit", "da/dfe/a24818.html#a3cfb75da66372934ba5aaa1c9ad6c6f3", null ],
+    [ "HandleDummy", "da/dfe/a24818.html#abb3f92850fa6fff94c682b990c361fe6", null ],
+    [ "Load", "da/dfe/a24818.html#ae5900d64c9b9b2de48c494458d4bed8b", null ],
+    [ "PrepareSpellScript", "da/dfe/a24818.html#adea0e24654cd87b3aee07ce2183b9517", null ],
+    [ "Register", "da/dfe/a24818.html#a3e155e336d6a5a6a4d44eae422ef7939", null ],
+    [ "Validate", "da/dfe/a24818.html#a28bb9111c8e5116a82d4e54b7eacb92b", null ],
+    [ "guid", "da/dfe/a24818.html#a6e177d68e1d39dcb27e6643d267328a5", null ],
+    [ "multiplier", "da/dfe/a24818.html#a04ed6aae0ea28a4f1b7c1ed5f4f73a0b", null ]
 ];

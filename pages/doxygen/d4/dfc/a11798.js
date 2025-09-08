@@ -1,8 +1,23 @@
 var a11798 =
 [
-    [ "honor_commandscript", "d4/dfc/a11798.html#a7c1a6c172b970d1a35a4014d783dc783", null ],
-    [ "GetCommands", "d4/dfc/a11798.html#a29a0068f9dd1e9b3f0adf80bddaadbbc", null ],
-    [ "HandleHonorAddCommand", "d4/dfc/a11798.html#a03caa77b436e3d513e1325badf05df33", null ],
-    [ "HandleHonorAddKillCommand", "d4/dfc/a11798.html#aec79f459796d821a032477827e16308a", null ],
-    [ "HandleHonorUpdateCommand", "d4/dfc/a11798.html#a11831a3ea577f3f1e06fea3d0dbc0147", null ]
+    [ "go_commandscript", "d4/dfc/a11798.html#a03cfe4efbd8ed05680308c08b40c8f1b", null ],
+    [ "DoTeleport", "d4/dfc/a11798.html#a7c89031f2df751d1699627c901abd80a", null ],
+    [ "GetCommands", "d4/dfc/a11798.html#a672e84a91c30f7378adce918608a6a94", null ],
+    [ "GetCreatureData", "d4/dfc/a11798.html#a4ddbfdfa0f8bc74b956dd881c55065c0", null ],
+    [ "GetCreatureDataList", "d4/dfc/a11798.html#adbcec5db26748dbb65d0c84d08f2a9b8", null ],
+    [ "GetGameObjectData", "d4/dfc/a11798.html#a4cc325ee1ecbb3dc9997d522fa15ebaa", null ],
+    [ "GetGameObjectDataList", "d4/dfc/a11798.html#af6a6b312a78435ee01a923f91ad9752a", null ],
+    [ "HandleGoCreatureCIdCommand", "d4/dfc/a11798.html#aa02ff2eb7b64dd5f35cf7c7227482234", null ],
+    [ "HandleGoCreatureNameCommand", "d4/dfc/a11798.html#a8ba4cf43263d267e29efa76d6b92149d", null ],
+    [ "HandleGoCreatureSpawnIdCommand", "d4/dfc/a11798.html#ab7fbdfbfdd9b1f94966044f4873e18a7", null ],
+    [ "HandleGoGameObjectGOIdCommand", "d4/dfc/a11798.html#a178f15f26efaafc534e59a25de44ae6e", null ],
+    [ "HandleGoGameObjectSpawnIdCommand", "d4/dfc/a11798.html#ae8ee37da2d5a4cbf5e6ee64a635b804b", null ],
+    [ "HandleGoGraveyardCommand", "d4/dfc/a11798.html#a4138d8299e150a55ae38613cac8e4c8b", null ],
+    [ "HandleGoGridCommand", "d4/dfc/a11798.html#a88a8a00453f822322720476dfe91e866", null ],
+    [ "HandleGoQuestCommand", "d4/dfc/a11798.html#a4d48d4a889033f7eac9a8473fb6cf3aa", null ],
+    [ "HandleGoTaxinodeCommand", "d4/dfc/a11798.html#a7ac0084020d81c574193668aad6e3d95", null ],
+    [ "HandleGoTicketCommand", "d4/dfc/a11798.html#ab74a387cae5095d9ea26bf70158d6a14", null ],
+    [ "HandleGoTriggerCommand", "d4/dfc/a11798.html#a98149f3632dbbce523926229ebd9c15a", null ],
+    [ "HandleGoXYZCommand", "d4/dfc/a11798.html#a9aee7c1cbfe76d988ad28cd64840222b", null ],
+    [ "HandleGoZoneXYCommand", "d4/dfc/a11798.html#ae01287fc270a629b5b81117e71ac4ee8", null ]
 ];

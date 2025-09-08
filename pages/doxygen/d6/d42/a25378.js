@@ -1,7 +1,10 @@
 var a25378 =
 [
-    [ "PrepareSpellScript", "d6/d42/a25378.html#a65d5717a25e371e09c44148c679dd390", null ],
-    [ "Register", "d6/d42/a25378.html#afb5f3560c022a8ef659d82cf24a46d8a", null ],
-    [ "RemoveInvalidTargets", "d6/d42/a25378.html#a53262865dfa222de1d020f8c7cbf15fd", null ],
-    [ "Validate", "d6/d42/a25378.html#a27ee4f0e6d14d15e5da2119c2bc49516", null ]
+    [ "spell_gen_summon_elemental", "d6/d42/a25378.html#ae2dece3ac20afe16430e741fab909fa1", null ],
+    [ "AfterApply", "d6/d42/a25378.html#a97fbc7e3f60b6aae5d9783bbd9a2415d", null ],
+    [ "AfterRemove", "d6/d42/a25378.html#aeec3688e66a7e9f0207b219e9dcdb265", null ],
+    [ "PrepareAuraScript", "d6/d42/a25378.html#a3ad6e5615bb080abae4e18673cd40b6d", null ],
+    [ "Register", "d6/d42/a25378.html#ac364e1a3c4b5a1cfd35d8dcec0a42345", null ],
+    [ "Validate", "d6/d42/a25378.html#ac2284d4f192fe402ebcf6ad75e777c2a", null ],
+    [ "_spellId", "d6/d42/a25378.html#a6ac27b65f909a8c832cf3d301c8db0ce", null ]
 ];

@@ -1,6 +1,7 @@
 var a12382 =
 [
-    [ "boss_firemawAI", "dc/dc1/a12382.html#ab3f56c97119676b1a75662e52caecb75", null ],
-    [ "JustEngagedWith", "dc/dc1/a12382.html#a04cb1d2fa18dba82b9c881b09406a076", null ],
-    [ "UpdateAI", "dc/dc1/a12382.html#a6e35e47b23d713263ef00769324bbbed", null ]
+    [ "HandleScript", "dc/dc1/a12382.html#ac6ef94a03f602b44a5c7c22b7e41d116", null ],
+    [ "PrepareSpellScript", "dc/dc1/a12382.html#ad92a56c23b9f15e36766fe64d1d0dd17", null ],
+    [ "Register", "dc/dc1/a12382.html#aa8ad85cbf0403d79e55bbe0ae184407b", null ],
+    [ "Validate", "dc/dc1/a12382.html#a3ad038e7bf43dceedb0fceebd4070bfa", null ]
 ];

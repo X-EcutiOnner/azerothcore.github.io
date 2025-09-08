@@ -1,9 +1,7 @@
 var a22234 =
 [
-    [ "npc_lord_areteAI", "dd/dfb/a22234.html#aebdbf8f4c2fe6948c78315e6b404119b", null ],
-    [ "InitializeAI", "dd/dfb/a22234.html#a22d0c3e2445bff2d742b28bd99f37394", null ],
-    [ "UpdateAI", "dd/dfb/a22234.html#a5cba8d4429ae191dd5b90ca5a4fe2866", null ],
-    [ "_landgrenGUID", "dd/dfb/a22234.html#ac0e3753096dfe779024acc8400791171", null ],
-    [ "_landgrenSoulGUID", "dd/dfb/a22234.html#aaa28c67691610136f0b418b30892f3cd", null ],
-    [ "events", "dd/dfb/a22234.html#ae4ec90b30320cf0aeaec4415c4125605", null ]
+    [ "npc_battle_at_valhalasAI", "d8/dfc/a22238.html", "d8/dfc/a22238" ],
+    [ "npc_battle_at_valhalas", "dd/dfb/a22234.html#aacec717b5b91ae55307c9642779c15ec", null ],
+    [ "GetAI", "dd/dfb/a22234.html#a3660ba847b3b40c2d358d63c63517a5e", null ],
+    [ "OnQuestAccept", "dd/dfb/a22234.html#addd76fd9f4b4f8ce706693614b80966b", null ]
 ];

@@ -1,13 +1,8 @@
 var a12882 =
 [
-    [ "boss_crone", "d5/d93/a12882.html#a710bdf6fac05be54cf10e40cd661c837", null ],
-    [ "EnterEvadeMode", "d5/d93/a12882.html#a4dcdde0b699f445cfa6be7e0c7dbb8d0", null ],
-    [ "JustDied", "d5/d93/a12882.html#a545de2a25b48590d11896c41b6e94df0", null ],
-    [ "JustEngagedWith", "d5/d93/a12882.html#a9801cd39667d1a08770820bd17beac00", null ],
-    [ "JustReachedHome", "d5/d93/a12882.html#a59d40cda923cb8b72413b9d5f267f52a", null ],
-    [ "KilledUnit", "d5/d93/a12882.html#ae4d343636955589d740d1df4e21fba99", null ],
-    [ "Reset", "d5/d93/a12882.html#a247db7fc1329ef00e48fd9bd09fb27a1", null ],
-    [ "UpdateAI", "d5/d93/a12882.html#a8bd505acd55ca5292d29c96916a461e5", null ],
-    [ "_scheduler", "d5/d93/a12882.html#a7f9e2e45c0bbb60fc19dd54bc380f814", null ],
-    [ "instance", "d5/d93/a12882.html#a3795fe3185005693ed9bba49177bb35a", null ]
+    [ "npc_tito", "d5/d93/a12882.html#a0b3b1750e8b8840e50d27d22ebddb7c8", null ],
+    [ "JustEngagedWith", "d5/d93/a12882.html#a71335c1474e8a29edf76addacb737fa9", null ],
+    [ "UpdateAI", "d5/d93/a12882.html#ac357c29e68d8480d94349da844efd3ad", null ],
+    [ "_scheduler", "d5/d93/a12882.html#a96c47ca2e66bb984dfd2cfefa6bde643", null ],
+    [ "instance", "d5/d93/a12882.html#a9eecd226486e52d559ae1a30687bf0eb", null ]
 ];

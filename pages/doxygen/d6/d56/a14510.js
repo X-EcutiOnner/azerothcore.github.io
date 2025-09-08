@@ -1,8 +1,11 @@
 var a14510 =
 [
-    [ "CheckCast", "d6/d56/a14510.html#a1e63e7798ab5e55415eb0277f3160fa3", null ],
-    [ "HandleDummy", "d6/d56/a14510.html#ad39da0510c21855dd74abd93f33621c9", null ],
-    [ "PrepareSpellScript", "d6/d56/a14510.html#a727093fec8cc8422cbbaa79d821338c8", null ],
-    [ "Register", "d6/d56/a14510.html#a8cc68fadf4ae20a9de24c75d2f61301f", null ],
-    [ "Validate", "d6/d56/a14510.html#aacd60538c8410fc313a09b1044ad6c7a", null ]
+    [ "o", "d6/d56/a14510.html#af0a1551e7a1ced5413b6096ba15db8b2", null ],
+    [ "rot0", "d6/d56/a14510.html#a1cc2b7787c803a4e126e06ab5b5c0ee6", null ],
+    [ "rot1", "d6/d56/a14510.html#a71696fa3f95eb20d950b6ba2ada153f4", null ],
+    [ "rot2", "d6/d56/a14510.html#ac2e4113330ebc9d9db379fb87eb55c03", null ],
+    [ "rot3", "d6/d56/a14510.html#a3fc28475914b0ed4afe46fd4f4ff66b1", null ],
+    [ "x", "d6/d56/a14510.html#a6e527854cf0959995d6b0133dedc94c9", null ],
+    [ "y", "d6/d56/a14510.html#a7536047696bd4883237369976b503131", null ],
+    [ "z", "d6/d56/a14510.html#a33ba4ca8ce5f406aaa5f571ba7236eb5", null ]
 ];

@@ -1,5 +1,5 @@
 var a27566 =
 [
-    [ "item_only_for_flight", "d0/d09/a27566.html#a8f905266dc8f24cf35598a37e7018ff7", null ],
-    [ "OnUse", "d0/d09/a27566.html#a88cdf17a85630aef703f93143ba41d4d", null ]
+    [ "go_duskwither_spire_power_source", "d0/d09/a27566.html#aab69de16e8b744af2671e2ed882ee94a", null ],
+    [ "OnGossipHello", "d0/d09/a27566.html#a2c7fd017e7985b99bff187119157a041", null ]
 ];

@@ -1,5 +1,7 @@
 var a18906 =
 [
-    [ "at_icc_start_blood_quickening", "df/df6/a18906.html#a544b0591b19a62e5c8a6efcfffd98326", null ],
-    [ "OnTrigger", "df/df6/a18906.html#a814670e127b1eace6068a553b23d00f7", null ]
+    [ "HandleScript", "df/df6/a18906.html#a87a2b32a9a20f032157df5ddb2cd9979", null ],
+    [ "PrepareSpellScript", "df/df6/a18906.html#a9aca3a2a981a0cb61569200d77ca527a", null ],
+    [ "Register", "df/df6/a18906.html#afb0289c9906d0383a22dfd0e848573f8", null ],
+    [ "Validate", "df/df6/a18906.html#a69344370af56f033e1c1ba16f4dee174", null ]
 ];

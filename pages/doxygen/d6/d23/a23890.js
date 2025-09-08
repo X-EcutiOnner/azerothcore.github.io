@@ -1,6 +1,8 @@
 var a23890 =
 [
-    [ "instance_arcatraz_InstanceMapScript", "d9/dd6/a23894.html", "d9/dd6/a23894" ],
-    [ "instance_arcatraz", "d6/d23/a23890.html#a6fc8860651573353b54fd26bddea32aa", null ],
-    [ "GetInstanceScript", "d6/d23/a23890.html#ad3f78e41ef2c96443ed3bd1ba4ab55bb", null ]
+    [ "HandleEffectApply", "d6/d23/a23890.html#ad75c8c6279e606d6a557a61d97ee8f42", null ],
+    [ "HandleEffectRemove", "d6/d23/a23890.html#a7cd59f7ca82a6507024842ebcb1ba093", null ],
+    [ "PrepareAuraScript", "d6/d23/a23890.html#a438a8ba3688e0832853bae4183695494", null ],
+    [ "Register", "d6/d23/a23890.html#a52a86cce0afa66203cc5982ddbe5de4f", null ],
+    [ "Validate", "d6/d23/a23890.html#ab07b244e53b397bc9e9842655617a80d", null ]
 ];

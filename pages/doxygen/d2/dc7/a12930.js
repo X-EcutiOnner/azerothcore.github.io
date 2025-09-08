@@ -1,8 +1,8 @@
 var a12930 =
 [
-    [ "npc_barnesAI", "de/d9e/a12934.html", "de/d9e/a12934" ],
-    [ "npc_barnes", "d2/dc7/a12930.html#aacdc737a94397a90b48b635293fe9c80", null ],
-    [ "GetAI", "d2/dc7/a12930.html#a4e349ede566d9be90b82e7ebd9d71de3", null ],
-    [ "OnGossipHello", "d2/dc7/a12930.html#a47cafa3628d2ca99582140f2a72ff8db", null ],
-    [ "OnGossipSelect", "d2/dc7/a12930.html#aa04d577e318f16f581f82761b6014eb5", null ]
+    [ "CalcPeriodic", "d2/dc7/a12930.html#a493609298c152df8216641ba2e5861cd", null ],
+    [ "PrepareAuraScript", "d2/dc7/a12930.html#a30c2bac7e939cf7de2141f6cdfa51619", null ],
+    [ "Register", "d2/dc7/a12930.html#a44002db5980dfc1db816cf61fd446491", null ],
+    [ "Update", "d2/dc7/a12930.html#a7a1fc11cf4183c7202a929c72035d8e7", null ],
+    [ "Validate", "d2/dc7/a12930.html#a060e189aaa4396681d42906b65c9196f", null ]
 ];

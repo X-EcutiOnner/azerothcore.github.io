@@ -1,6 +1,8 @@
 var a19834 =
 [
-    [ "HandleApplyTouch", "d5/d70/a19834.html#a0c46c506f78f46f17c0de6caae774316", null ],
-    [ "PrepareSpellScript", "d5/d70/a19834.html#a2f32b735a8a72a6ef52744d3ce8ada8b", null ],
-    [ "Register", "d5/d70/a19834.html#a70382055564e4ead8b5da0d6bd20c67f", null ]
+    [ "dark_rune_stormcallerAI", "d5/d70/a19834.html#ad889fb0c50e879c958c9b8bb681e4bf7", null ],
+    [ "JustEngagedWith", "d5/d70/a19834.html#a7ddfb8afac3ff28a84b26255628fab50", null ],
+    [ "Reset", "d5/d70/a19834.html#afa9cc2e1a9f7d21cd885479e9afdcd12", null ],
+    [ "UpdateAI", "d5/d70/a19834.html#adbd245fc5180dc7c78704595a9592864", null ],
+    [ "events", "d5/d70/a19834.html#aa7d8d1d075eeb03952b47cc16846a3db", null ]
 ];

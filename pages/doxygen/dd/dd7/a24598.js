@@ -1,6 +1,9 @@
 var a24598 =
 [
-    [ "DeathEvent", "dd/dd7/a24598.html#a2fb9a98c077d715c4648aede6597276e", null ],
-    [ "Execute", "dd/dd7/a24598.html#a497ac46ab1acf95816020fc6be8ce03a", null ],
-    [ "_owner", "dd/dd7/a24598.html#a099d0d5ae50126f00220b3ed90907617", null ]
+    [ "npc_pet_gen_toxic_wasteling", "dd/dd7/a24598.html#a550a1a9324f605b1a9fd715571f819b7", null ],
+    [ "EnterEvadeMode", "dd/dd7/a24598.html#abe25deca7fd1c319085995657d62f22a", null ],
+    [ "MovementInform", "dd/dd7/a24598.html#aec73d567c3bd178ffee3bdece83a409e", null ],
+    [ "Reset", "dd/dd7/a24598.html#a06a8be653c8685aaf28aee1d1d3ae114", null ],
+    [ "UpdateAI", "dd/dd7/a24598.html#a22f96d995fcc722c0e95c4f5692cc128", null ],
+    [ "checkTimer", "dd/dd7/a24598.html#aafe402e0443bd39a1b7aa274d95edad6", null ]
 ];

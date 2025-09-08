@@ -1,8 +1,7 @@
 var a05926 =
 [
-    [ "UpdateResult", "de/d4c/a05926.html#af32cdf09d32607955c98353fbfa7d392", null ],
-    [ "UpdateResult", "de/d4c/a05926.html#a225eb6b9ff745dcd72d623ca79c007c6", null ],
-    [ "archived", "de/d4c/a05926.html#adee274af5f5d6981e28b3587008d690c", null ],
-    [ "recent", "de/d4c/a05926.html#aea54f4388b659def734957a47e9cca8c", null ],
-    [ "updated", "de/d4c/a05926.html#a12b3fffe01639493fc405bd5a797f463", null ]
+    [ "UpdateException", "de/d4c/a05926.html#ace39ae1801ac7dcd055bcdce2411866e", null ],
+    [ "~UpdateException", "de/d4c/a05926.html#a38e016e210bf287d2adc21811497c95c", null ],
+    [ "what", "de/d4c/a05926.html#ab7bc552819bf9620dd670fb5a627b2dd", null ],
+    [ "_msg", "de/d4c/a05926.html#a7b4ba1e0d2829249afb2922f385016b3", null ]
 ];

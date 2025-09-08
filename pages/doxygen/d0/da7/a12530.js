@@ -1,6 +1,6 @@
 var a12530 =
 [
-    [ "boss_gehennasAI", "d3/d0d/a12534.html", "d3/d0d/a12534" ],
-    [ "boss_gehennas", "d0/da7/a12530.html#a380a24cbaad4e247c6c76fd63ac34f59", null ],
-    [ "GetAI", "d0/da7/a12530.html#a92f9ff0e957da5331b4a3ecc48be0ffa", null ]
+    [ "npc_garr_fireswornAI", "d3/d0d/a12534.html", "d3/d0d/a12534" ],
+    [ "npc_garr_firesworn", "d0/da7/a12530.html#a54c8f5daab9b8c4e1e7ff5d7777fcddf", null ],
+    [ "GetAI", "d0/da7/a12530.html#a07e47767a44d3613f8cba2c3dfb1d14e", null ]
 ];

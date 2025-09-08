@@ -1,9 +1,5 @@
 var a27278 =
 [
-    [ "emerald_dragonAI", "d3/d40/a27278.html#ae80aa90ad978b8e3254a3c116bf05959", null ],
-    [ "ExecuteEvent", "d3/d40/a27278.html#a6e60f146c7b86a119f269bf755831ac6", null ],
-    [ "JustSummoned", "d3/d40/a27278.html#a4ec04284cdebfc5b594e083aa850f7cb", null ],
-    [ "KilledUnit", "d3/d40/a27278.html#a69b24bf865ecd38822d5602314cddf11", null ],
-    [ "Reset", "d3/d40/a27278.html#aff24939b53a7d74b41ac9170a8a71e9c", null ],
-    [ "UpdateAI", "d3/d40/a27278.html#a221768f9ad3c79bbcdefd3092228e3b0", null ]
+    [ "AreaTrigger_at_last_rites", "d3/d40/a27278.html#a30d1930c76920ab12cf4f9b04fd5f0e4", null ],
+    [ "OnTrigger", "d3/d40/a27278.html#a48f6e2041cda24812a165fa0fb62f1b6", null ]
 ];

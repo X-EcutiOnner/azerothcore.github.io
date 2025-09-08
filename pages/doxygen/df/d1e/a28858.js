@@ -1,16 +1,8 @@
 var a28858 =
 [
-    [ "Iterator", "df/d1e/a28858.html#a682fe042bcd4ceb6c25dd7b4a3acbcc1", null ],
-    [ "Iterator", "df/d1e/a28858.html#a682fe042bcd4ceb6c25dd7b4a3acbcc1", null ],
-    [ "operator!=", "df/d1e/a28858.html#a7c0a38cbd02823479f349bb109a7ccf8", null ],
-    [ "operator!=", "df/d1e/a28858.html#a7c0a38cbd02823479f349bb109a7ccf8", null ],
-    [ "operator*", "df/d1e/a28858.html#a7b3de0d9987b834eaf6e909dd22f2528", null ],
-    [ "operator*", "df/d1e/a28858.html#a7b3de0d9987b834eaf6e909dd22f2528", null ],
-    [ "operator++", "df/d1e/a28858.html#af7dc5aae457d264ebe4aa42f5b700589", null ],
-    [ "operator++", "df/d1e/a28858.html#af7dc5aae457d264ebe4aa42f5b700589", null ],
-    [ "operator->", "df/d1e/a28858.html#ac57afe01d1ce6c611ca832f10f5d52fd", null ],
-    [ "operator->", "df/d1e/a28858.html#ac57afe01d1ce6c611ca832f10f5d52fd", null ],
-    [ "operator==", "df/d1e/a28858.html#a2d9cf3e798a1fcce3682c186952290df", null ],
-    [ "operator==", "df/d1e/a28858.html#a2d9cf3e798a1fcce3682c186952290df", null ],
-    [ "record", "df/d1e/a28858.html#a948512c44e53dfa177b85f82e9fd6160", null ]
+    [ "ADT_file", "df/d1e/a28858.html#ac7d3b65a1377d0c7358fe5e2d20dbe5e", null ],
+    [ "~ADT_file", "df/d1e/a28858.html#a79fe542f34b0e7bf668e7e5ff94a7ded", null ],
+    [ "free", "df/d1e/a28858.html#a8fc207b8cc83596577166a0008965dc6", null ],
+    [ "prepareLoadedData", "df/d1e/a28858.html#ac9f498cb9c8e21a1947be87904e3760b", null ],
+    [ "a_grid", "df/d1e/a28858.html#aad5263c4df4ab9d072f217ec8c19441c", null ]
 ];

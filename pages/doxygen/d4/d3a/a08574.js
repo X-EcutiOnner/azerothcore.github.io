@@ -1,10 +1,8 @@
 var a08574 =
 [
-    [ "DuelInfo", "d4/d3a/a08574.html#a183f336e52fe7cdaa34dbb43991d0c39", null ],
-    [ "Initiator", "d4/d3a/a08574.html#ae1a6667f934c88ad8f0b160e6a8b1190", null ],
-    [ "IsMounted", "d4/d3a/a08574.html#ad80e3507a7bdfc8f7dbebd07697c464f", null ],
-    [ "Opponent", "d4/d3a/a08574.html#a2765770367c839ad28f804e2df3205cb", null ],
-    [ "OutOfBoundsTime", "d4/d3a/a08574.html#a8ff9ae1c990674b6ac0cd929f5114f23", null ],
-    [ "StartTime", "d4/d3a/a08574.html#a1b8b4c373b2e4243f8e33a391821528f", null ],
-    [ "State", "d4/d3a/a08574.html#ae8492a9857d819fcec56a10cfd5051e2", null ]
+    [ "PlayerCreateInfoAction", "d4/d3a/a08574.html#a50d56595c71374e132dfe9f988144e75", null ],
+    [ "PlayerCreateInfoAction", "d4/d3a/a08574.html#a1e1d33b18074031e408da10f44a9a9c4", null ],
+    [ "action", "d4/d3a/a08574.html#a957d05ae25fd1ca801e097f03f9cc43e", null ],
+    [ "button", "d4/d3a/a08574.html#ac0c4658cfb1fc01cbb55116dd6dbe899", null ],
+    [ "type", "d4/d3a/a08574.html#a41e4a38f2c12f9e68b835fe17e56bc7e", null ]
 ];

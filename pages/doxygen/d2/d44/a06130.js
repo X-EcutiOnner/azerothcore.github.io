@@ -1,9 +1,8 @@
 var a06130 =
 [
-    [ "CritterAI", "d2/d44/a06130.html#aa211359ea8b80ac0ed27e9b337e333f1", null ],
-    [ "EnterEvadeMode", "d2/d44/a06130.html#a989d1fc00af900320dcf27cce7f247dc", null ],
-    [ "JustEngagedWith", "d2/d44/a06130.html#a2f52eb5c527895168f18ed5ddcc560a9", null ],
-    [ "MovementInform", "d2/d44/a06130.html#a54c44d28e4b2b3231afeb8de343dee43", null ],
-    [ "Permissible", "d2/d44/a06130.html#ae43183a24398fe3af1cb8275b9b4c6c6", null ],
-    [ "UpdateAI", "d2/d44/a06130.html#af860be127a671f5448cb731aa2f701b0", null ]
+    [ "GuardAI", "d2/d44/a06130.html#ac1f0ba47d8e32c65845808170330b7af", null ],
+    [ "EnterEvadeMode", "d2/d44/a06130.html#af021cc31298d4a0f38a7d82ac8e02e30", null ],
+    [ "JustDied", "d2/d44/a06130.html#a96820cdcb632d3a71f9deacf4998a774", null ],
+    [ "Permissible", "d2/d44/a06130.html#a238f38bd3fc7cfa8ace3549f4a6199fb", null ],
+    [ "Reset", "d2/d44/a06130.html#a91b12b6a50641d17a79550b9ffb5284a", null ]
 ];

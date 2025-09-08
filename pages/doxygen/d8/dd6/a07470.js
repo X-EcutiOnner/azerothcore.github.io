@@ -1,14 +1,11 @@
 var a07470 =
 [
-    [ "AccountId", "d8/dd6/a07470.html#ae1921d1e949cec70ebbd52779b775df6", null ],
-    [ "ArenaTeamId", "d8/dd6/a07470.html#a1d094e514af9970b0239cc8e27da06bc", null ],
-    [ "Class", "d8/dd6/a07470.html#a19dbbbdce9dbf9993d57edbebeeaf425", null ],
-    [ "GroupGuid", "d8/dd6/a07470.html#a4b6f5540de2e47959a053696698e8e05", null ],
-    [ "Guid", "d8/dd6/a07470.html#ae0d1c9151ec4f2401b2d9fdd1c1d1532", null ],
-    [ "GuildId", "d8/dd6/a07470.html#a4fba749bb66642a1601c5cb37c756222", null ],
-    [ "Level", "d8/dd6/a07470.html#a41ea77c9e690336b709259bfccbd939f", null ],
-    [ "MailCount", "d8/dd6/a07470.html#a8a74e276dec82ac3f2950b8637ed9213", null ],
-    [ "Name", "d8/dd6/a07470.html#a7d2bae6994c96b2b2ac2eefbab4b8f8b", null ],
-    [ "Race", "d8/dd6/a07470.html#aa57c5abbbd7218d26e4156b310229766", null ],
-    [ "Sex", "d8/dd6/a07470.html#a91c17eef26be0a18823a9834853c296a", null ]
+    [ "BattlegroundSAScore", "d8/dd6/a07470.html#afb1312e304eee973740cfe208657c5b9", null ],
+    [ "BuildObjectivesBlock", "d8/dd6/a07470.html#a57bf8241b404571cda5a8e113c334eab", null ],
+    [ "GetAttr1", "d8/dd6/a07470.html#aa31cd91ede928c57cd201dba61f7f585", null ],
+    [ "GetAttr2", "d8/dd6/a07470.html#aba47bb1ec440f405bfde8513c60ae576", null ],
+    [ "UpdateScore", "d8/dd6/a07470.html#a169a2a0a51edb6564e98c4b55f3e8a3b", null ],
+    [ "BattlegroundSA", "d8/dd6/a07470.html#ab31c13442be48941f5dab4214b95cde9", null ],
+    [ "DemolishersDestroyed", "d8/dd6/a07470.html#ac49c28efa42cfad7232268de4be45e66", null ],
+    [ "GatesDestroyed", "d8/dd6/a07470.html#aeb1310b64150dd51f91722574a9dd3fc", null ]
 ];

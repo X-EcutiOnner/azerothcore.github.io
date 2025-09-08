@@ -1,6 +1,7 @@
 var a14226 =
 [
-    [ "npc_ohganAI", "d3/d78/a14230.html", "d3/d78/a14230" ],
-    [ "npc_ohgan", "d7/d5e/a14226.html#ae391f2b36c68952ca5eaf773c29cbcad", null ],
-    [ "GetAI", "d7/d5e/a14226.html#a129dc2fcd449850403e0dcb99725da90", null ]
+    [ "HandleOnHit", "d7/d5e/a14226.html#a561799e6241b1fe17cd09f17c447107b", null ],
+    [ "PrepareSpellScript", "d7/d5e/a14226.html#ad98ba2831e93bd601b51a5c6a7e8441d", null ],
+    [ "Register", "d7/d5e/a14226.html#ad9b601b73631285cb5a79e30dfe4a8cc", null ],
+    [ "Validate", "d7/d5e/a14226.html#adb339686c5e9dcb298712455dc8435bf", null ]
 ];

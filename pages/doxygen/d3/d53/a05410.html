@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: Acore::Impl::MPSCQueueNonIntrusive&lt; T &gt;::Node Struct Reference</title>
+<title>AzerothCore: MetricStopWatch&lt; LoggerType &gt; Class Template Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,49 +106,81 @@ $(document).ready(function(){initNavTree('d3/d53/a05410.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pub-attribs">Public Attributes</a> &#124;
+<a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="../../dc/d06/a05407.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">Acore::Impl::MPSCQueueNonIntrusive&lt; T &gt;::Node Struct Reference</div></div>
+  <div class="headertitle"><div class="title">MetricStopWatch&lt; LoggerType &gt; Class Template Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p>A structure representing a node in the queue.  
- <a href="../../d3/d53/a05410.html#details">More...</a></p>
+<p><code>#include &quot;<a class="el" href="../../">Metric.h</a>&quot;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:aa4dcacffb32f3e739604ab6ef39b5031"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d53/a05410.html#aa4dcacffb32f3e739604ab6ef39b5031">Node</a> ()=default</td></tr>
-<tr class="separator:aa4dcacffb32f3e739604ab6ef39b5031"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa5f116e3d84286f313ee8730bde7b936"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d53/a05410.html#aa5f116e3d84286f313ee8730bde7b936">Node</a> (T *data)</td></tr>
-<tr class="separator:aa5f116e3d84286f313ee8730bde7b936"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2007207e0985949f478fdeee300ea0d5"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d53/a05410.html#a2007207e0985949f478fdeee300ea0d5">MetricStopWatch</a> (LoggerType &amp;&amp;loggerFunc)</td></tr>
+<tr class="separator:a2007207e0985949f478fdeee300ea0d5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a712b660e090531e69455096afeb60c4c"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d53/a05410.html#a712b660e090531e69455096afeb60c4c">~MetricStopWatch</a> ()</td></tr>
+<tr class="separator:a712b660e090531e69455096afeb60c4c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
-Public Attributes</h2></td></tr>
-<tr class="memitem:aa7cdbff9817871b548fe639e0956f1f4"><td class="memItemLeft" align="right" valign="top">T *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d53/a05410.html#aa7cdbff9817871b548fe639e0956f1f4">Data</a></td></tr>
-<tr class="memdesc:aa7cdbff9817871b548fe639e0956f1f4"><td class="mdescLeft">&#160;</td><td class="mdescRight">Data stored in the node.  <a href="../../d3/d53/a05410.html#aa7cdbff9817871b548fe639e0956f1f4">More...</a><br /></td></tr>
-<tr class="separator:aa7cdbff9817871b548fe639e0956f1f4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7508e249dd3ff2b3ac291d67ddf87a71"><td class="memItemLeft" align="right" valign="top">std::atomic&lt; <a class="el" href="../../d3/d53/a05410.html">Node</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d53/a05410.html#a7508e249dd3ff2b3ac291d67ddf87a71">Next</a></td></tr>
-<tr class="memdesc:a7508e249dd3ff2b3ac291d67ddf87a71"><td class="mdescLeft">&#160;</td><td class="mdescRight">Atomic pointer to the next node.  <a href="../../d3/d53/a05410.html#a7508e249dd3ff2b3ac291d67ddf87a71">More...</a><br /></td></tr>
-<tr class="separator:a7508e249dd3ff2b3ac291d67ddf87a71"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
+Private Attributes</h2></td></tr>
+<tr class="memitem:a3af6d8a1a621f5e39b2d691ffbe2375c"><td class="memItemLeft" align="right" valign="top">LoggerType&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d53/a05410.html#a3af6d8a1a621f5e39b2d691ffbe2375c">_logger</a></td></tr>
+<tr class="separator:a3af6d8a1a621f5e39b2d691ffbe2375c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a74ad62e26a4f6598c76ca5c2d928d3a2"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d7/d06/a00131.html#ae5ca775e8d8c664b6edef818ce1251b9">TimePoint</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d53/a05410.html#a74ad62e26a4f6598c76ca5c2d928d3a2">_startTime</a></td></tr>
+<tr class="separator:a74ad62e26a4f6598c76ca5c2d928d3a2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><div class="compoundTemplParams">template&lt;typename T&gt;<br />
-struct Acore::Impl::MPSCQueueNonIntrusive&lt; T &gt;::Node</div><p >A structure representing a node in the queue. </p>
-<p >Each node holds a pointer to data and an atomic pointer to the next node in the queue. </p>
-</div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="aa4dcacffb32f3e739604ab6ef39b5031" name="aa4dcacffb32f3e739604ab6ef39b5031"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa4dcacffb32f3e739604ab6ef39b5031">&#9670;&#160;</a></span>Node() <span class="overload">[1/2]</span></h2>
+<div class="textblock"><div class="compoundTemplParams">template&lt;typename LoggerType&gt;<br />
+class MetricStopWatch&lt; LoggerType &gt;</div></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="a2007207e0985949f478fdeee300ea0d5" name="a2007207e0985949f478fdeee300ea0d5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2007207e0985949f478fdeee300ea0d5">&#9670;&#160;</a></span>MetricStopWatch()</h2>
 
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;typename T &gt; </div>
+template&lt;typename LoggerType &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d5/d43/a05406.html">Acore::Impl::MPSCQueueNonIntrusive</a>&lt; T &gt;::Node::Node </td>
+          <td class="memname"><a class="el" href="../../d3/d53/a05410.html">MetricStopWatch</a>&lt; LoggerType &gt;<a class="el" href="../../d3/d53/a05410.html">::MetricStopWatch</a> </td>
+          <td>(</td>
+          <td class="paramtype">LoggerType &amp;&amp;&#160;</td>
+          <td class="paramname"><em>loggerFunc</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  140</span>                                             :</div>
+<div class="line"><span class="lineno">  141</span>        <a class="code hl_variable" href="../../d3/d53/a05410.html#a3af6d8a1a621f5e39b2d691ffbe2375c">_logger</a>(std::forward&lt;LoggerType&gt;(loggerFunc)),</div>
+<div class="line"><span class="lineno">  142</span>        <a class="code hl_variable" href="../../d3/d53/a05410.html#a74ad62e26a4f6598c76ca5c2d928d3a2">_startTime</a>(<a class="code hl_define" href="../../d7/d00/a00401.html#a4e89926204845a9c9e315d6f0abec5ef">sMetric</a>-&gt;IsEnabled() ? std::chrono::steady_clock::now() : <a class="code hl_typedef" href="../../d7/d06/a00131.html#ae5ca775e8d8c664b6edef818ce1251b9">TimePoint</a>())</div>
+<div class="line"><span class="lineno">  143</span>    {</div>
+<div class="line"><span class="lineno">  144</span>    }</div>
+<div class="ttc" id="aa00131_html_ae5ca775e8d8c664b6edef818ce1251b9"><div class="ttname"><a href="../../d7/d06/a00131.html#ae5ca775e8d8c664b6edef818ce1251b9">TimePoint</a></div><div class="ttdeci">std::chrono::steady_clock::time_point TimePoint</div><div class="ttdoc">time_point shorthand typedefs</div><div class="ttdef"><b>Definition:</b> Duration.h:69</div></div>
+<div class="ttc" id="aa00401_html_a4e89926204845a9c9e315d6f0abec5ef"><div class="ttname"><a href="../../d7/d00/a00401.html#a4e89926204845a9c9e315d6f0abec5ef">sMetric</a></div><div class="ttdeci">#define sMetric</div><div class="ttdef"><b>Definition:</b> Metric.h:134</div></div>
+<div class="ttc" id="aa05410_html_a3af6d8a1a621f5e39b2d691ffbe2375c"><div class="ttname"><a href="../../d3/d53/a05410.html#a3af6d8a1a621f5e39b2d691ffbe2375c">MetricStopWatch::_logger</a></div><div class="ttdeci">LoggerType _logger</div><div class="ttdef"><b>Definition:</b> Metric.h:153</div></div>
+<div class="ttc" id="aa05410_html_a74ad62e26a4f6598c76ca5c2d928d3a2"><div class="ttname"><a href="../../d3/d53/a05410.html#a74ad62e26a4f6598c76ca5c2d928d3a2">MetricStopWatch::_startTime</a></div><div class="ttdeci">TimePoint _startTime</div><div class="ttdef"><b>Definition:</b> Metric.h:154</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a712b660e090531e69455096afeb60c4c" name="a712b660e090531e69455096afeb60c4c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a712b660e090531e69455096afeb60c4c">&#9670;&#160;</a></span>~MetricStopWatch()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename LoggerType &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d3/d53/a05410.html">MetricStopWatch</a>&lt; LoggerType &gt;::~<a class="el" href="../../d3/d53/a05410.html">MetricStopWatch</a> </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -156,87 +188,69 @@ template&lt;typename T &gt; </div>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">default</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  147</span>    {</div>
+<div class="line"><span class="lineno">  148</span>        <span class="keywordflow">if</span> (<a class="code hl_define" href="../../d7/d00/a00401.html#a4e89926204845a9c9e315d6f0abec5ef">sMetric</a>-&gt;IsEnabled())</div>
+<div class="line"><span class="lineno">  149</span>            <a class="code hl_variable" href="../../d3/d53/a05410.html#a3af6d8a1a621f5e39b2d691ffbe2375c">_logger</a>(<a class="code hl_variable" href="../../d3/d53/a05410.html#a74ad62e26a4f6598c76ca5c2d928d3a2">_startTime</a>);</div>
+<div class="line"><span class="lineno">  150</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00153">MetricStopWatch&lt; LoggerType &gt;::_logger</a>, <a class="el" href="../../#l00154">MetricStopWatch&lt; LoggerType &gt;::_startTime</a>, and <a class="el" href="../../#l00134">sMetric</a>.</p>
 
 </div>
 </div>
-<a id="aa5f116e3d84286f313ee8730bde7b936" name="aa5f116e3d84286f313ee8730bde7b936"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa5f116e3d84286f313ee8730bde7b936">&#9670;&#160;</a></span>Node() <span class="overload">[2/2]</span></h2>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a id="a3af6d8a1a621f5e39b2d691ffbe2375c" name="a3af6d8a1a621f5e39b2d691ffbe2375c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3af6d8a1a621f5e39b2d691ffbe2375c">&#9670;&#160;</a></span>_logger</h2>
 
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;typename T &gt; </div>
+template&lt;typename LoggerType &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d5/d43/a05406.html">Acore::Impl::MPSCQueueNonIntrusive</a>&lt; T &gt;::Node::Node </td>
-          <td>(</td>
-          <td class="paramtype">T *&#160;</td>
-          <td class="paramname"><em>data</em></td><td>)</td>
-          <td></td>
+          <td class="memname">LoggerType <a class="el" href="../../d3/d53/a05410.html">MetricStopWatch</a>&lt; LoggerType &gt;::_logger</td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">explicit</span></span>  </td>
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  116</span>                                   : <a class="code hl_variable" href="../../d3/d53/a05410.html#aa7cdbff9817871b548fe639e0956f1f4">Data</a>(data)</div>
-<div class="line"><span class="lineno">  117</span>            {</div>
-<div class="line"><span class="lineno">  118</span>                <a class="code hl_variable" href="../../d3/d53/a05410.html#a7508e249dd3ff2b3ac291d67ddf87a71">Next</a>.store(<span class="keyword">nullptr</span>, std::memory_order_release);</div>
-<div class="line"><span class="lineno">  119</span>            }</div>
-<div class="ttc" id="aa05410_html_a7508e249dd3ff2b3ac291d67ddf87a71"><div class="ttname"><a href="../../d3/d53/a05410.html#a7508e249dd3ff2b3ac291d67ddf87a71">Acore::Impl::MPSCQueueNonIntrusive::Node::Next</a></div><div class="ttdeci">std::atomic&lt; Node * &gt; Next</div><div class="ttdoc">Atomic pointer to the next node.</div><div class="ttdef"><b>Definition:</b> MPSCQueue.h:122</div></div>
-<div class="ttc" id="aa05410_html_aa7cdbff9817871b548fe639e0956f1f4"><div class="ttname"><a href="../../d3/d53/a05410.html#aa7cdbff9817871b548fe639e0956f1f4">Acore::Impl::MPSCQueueNonIntrusive::Node::Data</a></div><div class="ttdeci">T * Data</div><div class="ttdoc">Data stored in the node.</div><div class="ttdef"><b>Definition:</b> MPSCQueue.h:121</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00122">Acore::Impl::MPSCQueueNonIntrusive&lt; T &gt;::Node::Next</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00146">MetricStopWatch&lt; LoggerType &gt;::~MetricStopWatch()</a>.</p>
 
 </div>
 </div>
-<h2 class="groupheader">Member Data Documentation</h2>
-<a id="aa7cdbff9817871b548fe639e0956f1f4" name="aa7cdbff9817871b548fe639e0956f1f4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa7cdbff9817871b548fe639e0956f1f4">&#9670;&#160;</a></span>Data</h2>
+<a id="a74ad62e26a4f6598c76ca5c2d928d3a2" name="a74ad62e26a4f6598c76ca5c2d928d3a2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a74ad62e26a4f6598c76ca5c2d928d3a2">&#9670;&#160;</a></span>_startTime</h2>
 
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;typename T &gt; </div>
+template&lt;typename LoggerType &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">T* <a class="el" href="../../d5/d43/a05406.html">Acore::Impl::MPSCQueueNonIntrusive</a>&lt; T &gt;::Node::Data</td>
+          <td class="memname"><a class="el" href="../../d7/d06/a00131.html#ae5ca775e8d8c664b6edef818ce1251b9">TimePoint</a> <a class="el" href="../../d3/d53/a05410.html">MetricStopWatch</a>&lt; LoggerType &gt;::_startTime</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
-<p>Data stored in the node. </p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00094">Acore::Impl::MPSCQueueNonIntrusive&lt; T &gt;::Dequeue()</a>.</p>
-
-</div>
-</div>
-<a id="a7508e249dd3ff2b3ac291d67ddf87a71" name="a7508e249dd3ff2b3ac291d67ddf87a71"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7508e249dd3ff2b3ac291d67ddf87a71">&#9670;&#160;</a></span>Next</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;typename T &gt; </div>
-      <table class="memname">
-        <tr>
-          <td class="memname">std::atomic&lt;<a class="el" href="../../d3/d53/a05410.html">Node</a>*&gt; <a class="el" href="../../d5/d43/a05406.html">Acore::Impl::MPSCQueueNonIntrusive</a>&lt; T &gt;::Node::Next</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p>Atomic pointer to the next node. </p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00094">Acore::Impl::MPSCQueueNonIntrusive&lt; T &gt;::Dequeue()</a>, <a class="el" href="../../#l00079">Acore::Impl::MPSCQueueNonIntrusive&lt; T &gt;::Enqueue()</a>, <a class="el" href="../../#l00044">Acore::Impl::MPSCQueueNonIntrusive&lt; T &gt;::MPSCQueueNonIntrusive()</a>, <a class="el" href="../../#l00116">Acore::Impl::MPSCQueueNonIntrusive&lt; T &gt;::Node::Node()</a>, and <a class="el" href="../../#l00056">Acore::Impl::MPSCQueueNonIntrusive&lt; T &gt;::~MPSCQueueNonIntrusive()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00146">MetricStopWatch&lt; LoggerType &gt;::~MetricStopWatch()</a>.</p>
 
 </div>
 </div>
@@ -245,8 +259,8 @@ template&lt;typename T &gt; </div>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d3/d7d/a04797.html">Acore</a></li><li class="navelem"><a class="el" href="../../d0/d6d/a04809.html">Impl</a></li><li class="navelem"><a class="el" href="../../d5/d43/a05406.html">MPSCQueueNonIntrusive</a></li><li class="navelem"><a class="el" href="../../d3/d53/a05410.html">Node</a></li>
-    <li class="footer">Generated on Mon Sep 1 2025 20:44:46 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d3/d53/a05410.html">MetricStopWatch</a></li>
+    <li class="footer">Generated on Mon Sep 8 2025 20:45:01 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

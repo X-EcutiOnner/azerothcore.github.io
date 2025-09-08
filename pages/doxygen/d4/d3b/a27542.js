@@ -1,8 +1,6 @@
 var a27542 =
 [
-    [ "go_bellsAI", "d4/d3b/a27542.html#a6f22847c66a3b5faded35da799359846", null ],
-    [ "UpdateAI", "d4/d3b/a27542.html#ab466f67665577f22bfe6cdb94d0a008b", null ],
-    [ "_events", "d4/d3b/a27542.html#a46c66442078cee28a76fc412746ca026", null ],
-    [ "_soundId", "d4/d3b/a27542.html#ab2491e9d27266ea69a5a9163e8c1b35b", null ],
-    [ "once", "d4/d3b/a27542.html#abf6ca2fc64f5764936a6d0179d40c2fa", null ]
+    [ "go_amberpine_outhouse", "d4/d3b/a27542.html#a953ea72b3954c89b6c391de5aca3b6ce", null ],
+    [ "OnGossipHello", "d4/d3b/a27542.html#a7cbfc3a091ad2332fd46140a24ac4e37", null ],
+    [ "OnGossipSelect", "d4/d3b/a27542.html#aa55fe049ba43dbd548ba55d982d89d51", null ]
 ];

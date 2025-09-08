@@ -1,6 +1,6 @@
 var a13538 =
 [
-    [ "FilterTargets", "d1/d68/a13538.html#aa6c8db9ae3ffd14e0841c98633115a9b", null ],
-    [ "PrepareSpellScript", "d1/d68/a13538.html#a502f57c8567bc7ed15035d89ea26f4a6", null ],
-    [ "Register", "d1/d68/a13538.html#aa3f50e9c6d430d3a1bc83c382c08b189", null ]
+    [ "FixOrientation", "d1/d68/a13538.html#ac4a9654d37a73f9d5ddc73ff90ce145b", null ],
+    [ "Execute", "d1/d68/a13538.html#a7af72679731c9b86b9ae36d19d1621e5", null ],
+    [ "_owner", "d1/d68/a13538.html#a5f12db3774bdeef25a300780c00db1fb", null ]
 ];

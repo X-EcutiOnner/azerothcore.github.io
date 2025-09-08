@@ -1,9 +1,8 @@
 var a17642 =
 [
-    [ "FilterTargetsInitial", "d5/dfa/a17642.html#acebf4a9f8c4cdd6111ae816d7c24b00f", null ],
-    [ "FilterTargetsSubsequent", "d5/dfa/a17642.html#a11732039155235c287757980129d5a8e", null ],
-    [ "Load", "d5/dfa/a17642.html#a467272ccd10ec0aff7ad00a567c0049c", null ],
-    [ "PrepareSpellScript", "d5/dfa/a17642.html#a6f97c9c1dc71a87d2a82de646809f063", null ],
-    [ "Register", "d5/dfa/a17642.html#a56a4e65df08a95fddde75162358155c2", null ],
-    [ "_target", "d5/dfa/a17642.html#abdd93e8e80826c71ead1d9e44aaf865a", null ]
+    [ "CheckProc", "d5/dfa/a17642.html#a11620e4d645b3bfd35924700b5dad289", null ],
+    [ "HandleProc", "d5/dfa/a17642.html#aa80a032f2ec80aba36f6fe0208412587", null ],
+    [ "PrepareAuraScript", "d5/dfa/a17642.html#afe04f0cb6539238412253b63dd3c82b9", null ],
+    [ "Register", "d5/dfa/a17642.html#ac18d1d1a1d19b0dfa5cb1565377ba273", null ],
+    [ "Validate", "d5/dfa/a17642.html#ac42fe3248fadf0ecca95893e06c490ee", null ]
 ];

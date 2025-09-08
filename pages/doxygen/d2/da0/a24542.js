@@ -1,6 +1,5 @@
 var a24542 =
 [
-    [ "achievement", "d2/da0/a24542.html#abb6071e172abbcbc65020a0ad9554a03", null ],
-    [ "spell", "d2/da0/a24542.html#a740f9162b10d31d1677a4ac4f5926db6", null ],
-    [ "text", "d2/da0/a24542.html#aa92e42bc2c54c3b4b1022d5767fcf10c", null ]
+    [ "npc_pet_dk_risen_ally", "d2/da0/a24542.html#ae7ea70827f339d3968ef08dc242b1f03", null ],
+    [ "OnCharmed", "d2/da0/a24542.html#ac3927becc1ed929c384b3413bfee9330", null ]
 ];

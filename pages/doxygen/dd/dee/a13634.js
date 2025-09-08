@@ -1,8 +1,6 @@
 var a13634 =
 [
-    [ "npc_sunblade_arch_mage", "dd/dee/a13634.html#a25cc45033c55f1099b50eab4b4f497ee", null ],
-    [ "JustEngagedWith", "dd/dee/a13634.html#aadeae32d691229b7b7b531175b8a5018", null ],
-    [ "Reset", "dd/dee/a13634.html#a0d0349ea507b1f8431014c55eef5ce0e", null ],
-    [ "UpdateAI", "dd/dee/a13634.html#a3289fbad5f987a3d5d9986a31a1c442f", null ],
-    [ "scheduler", "dd/dee/a13634.html#aa6680f06651316996868907b1d28126c", null ]
+    [ "instance_sunwell_plateau_InstanceMapScript", "dd/dee/a13634.html#aae99b35ff990fd7486d5b70693b6729a", null ],
+    [ "Load", "dd/dee/a13634.html#a5398f0aa153f7c4eaea390e33c400b02", null ],
+    [ "OnPlayerEnter", "dd/dee/a13634.html#ab45827eaa92aea4746378b3c11fda219", null ]
 ];

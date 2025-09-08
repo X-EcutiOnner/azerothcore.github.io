@@ -1,10 +1,6 @@
 var a25234 =
 [
-    [ "Load", "de/dee/a25234.html#a18e05511c2dc0b934a97e323fccc3f50", null ],
-    [ "OnApply", "de/dee/a25234.html#a1fe8240f5c553ba56ce9c2ff9338f75b", null ],
-    [ "OnRemove", "de/dee/a25234.html#a29834c598d6ef8299d54e48a3461e603", null ],
-    [ "PrepareAuraScript", "de/dee/a25234.html#a0529b56b30fa7bb97c014bbc2ee4a96a", null ],
-    [ "Register", "de/dee/a25234.html#a5174f07fde3469c2314a3c1fbba5f432", null ],
-    [ "Validate", "de/dee/a25234.html#aeaf16594f569af671d221234a4aa2c8b", null ],
-    [ "prevItem", "de/dee/a25234.html#ad4c0402ae71e663534ed8fd137a9afd2", null ]
+    [ "PrepareSpellScript", "de/dee/a25234.html#a47d6dbe250410458fe54421158545efb", null ],
+    [ "Register", "de/dee/a25234.html#ae2334b3fcfa916eb4b9ae1ca85a9687e", null ],
+    [ "SetDest", "de/dee/a25234.html#aa037240eae1a1dd2c2670fed7dcc4e8c", null ]
 ];

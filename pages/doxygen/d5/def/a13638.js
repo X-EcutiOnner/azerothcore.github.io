@@ -1,6 +1,7 @@
 var a13638 =
 [
-    [ "OnApply", "d5/def/a13638.html#a53fceaa5187f6dbc93f4d0d589086ca9", null ],
-    [ "PrepareAuraScript", "d5/def/a13638.html#a236892b4fd6cf081a907becab6187069", null ],
-    [ "Register", "d5/def/a13638.html#aa37819b82692df8a21cbbda8833ad492", null ]
+    [ "HandleAfterCast", "d5/def/a13638.html#a251ddadd9d26039da542c402e4ee254f", null ],
+    [ "PrepareSpellScript", "d5/def/a13638.html#a91114aeb4f917ec5138a0c7b20688174", null ],
+    [ "Register", "d5/def/a13638.html#a42960206e2444d8e6fb8fdc4d80a534b", null ],
+    [ "Validate", "d5/def/a13638.html#ad4012436a41537fc5ae854c0c48f09b1", null ]
 ];

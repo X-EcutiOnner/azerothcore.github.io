@@ -1,8 +1,10 @@
 var a09790 =
 [
-    [ "EllipseBoundary", "da/d2b/a09790.html#aeb8c822a8c4c745de0c848721a624545", null ],
-    [ "IsWithinBoundaryArea", "da/d2b/a09790.html#a203ccf7ca23f1d66f834bdadb8b18b31", null ],
-    [ "_center", "da/d2b/a09790.html#aa84bae8bced77e38fec652e473cf39c7", null ],
-    [ "_radiusYSq", "da/d2b/a09790.html#ae933c6b1e62967f98c95cfbd4822b818", null ],
-    [ "_scaleXSq", "da/d2b/a09790.html#ad781cadd6c09e482d3a93ad71440a4c2", null ]
+    [ "DoublePosition", "de/db8/a09794.html", "de/db8/a09794" ],
+    [ "~AreaBoundary", "da/d2b/a09790.html#a6050e91b3d485e75186a2df9a56e8d38", null ],
+    [ "AreaBoundary", "da/d2b/a09790.html#adf670910c492c08d3384c2dd1824e7ce", null ],
+    [ "IsWithinBoundary", "da/d2b/a09790.html#aac0ce1e801f3de8f3bb83b98ecd6e5c1", null ],
+    [ "IsWithinBoundary", "da/d2b/a09790.html#a1d407f77ce0388263fc0ee6224734213", null ],
+    [ "IsWithinBoundaryArea", "da/d2b/a09790.html#ae5580b0044dba24d100831fe51ee1abc", null ],
+    [ "_isInvertedBoundary", "da/d2b/a09790.html#ad416f29594688ce670549d6fdcce4314", null ]
 ];

@@ -1,5 +1,6 @@
 var a16834 =
 [
-    [ "achievement_better_off_dred", "de/d65/a16834.html#a1ff3442ab3e166a4001c4c10777bdf8a", null ],
-    [ "OnCheck", "de/d65/a16834.html#a9aab68b43fbf9f3c71c237b149f23b2d", null ]
+    [ "boss_dredAI", "dc/dc7/a16838.html", "dc/dc7/a16838" ],
+    [ "boss_dred", "de/d65/a16834.html#a60a913f53c63f95680c29c72f48f9a1a", null ],
+    [ "GetAI", "de/d65/a16834.html#ab8276b185f80a92a54327ea28b19c704", null ]
 ];

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: BattlefieldMgr Class Reference</title>
+<title>AzerothCore: AutobroadcastMgr Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,543 +105,59 @@ $(document).ready(function(){initNavTree('d9/d41/a07174.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#pub-types">Public Types</a> &#124;
 <a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pub-static-methods">Static Public Member Functions</a> &#124;
+<a href="#pri-types">Private Types</a> &#124;
+<a href="#pri-methods">Private Member Functions</a> &#124;
 <a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="../../d6/da9/a07171.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">BattlefieldMgr Class Reference</div></div>
+  <div class="headertitle"><div class="title">AutobroadcastMgr Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">BattlefieldMgr.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">AutobroadcastMgr.h</a>&quot;</code></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-types" name="pub-types"></a>
-Public Types</h2></td></tr>
-<tr class="memitem:a440a0f37414815a060e23ac6b79ca3c5"><td class="memItemLeft" align="right" valign="top">typedef std::vector&lt; <a class="el" href="../../d0/d0f/a07170.html">Battlefield</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d41/a07174.html#a440a0f37414815a060e23ac6b79ca3c5">BattlefieldSet</a></td></tr>
-<tr class="separator:a440a0f37414815a060e23ac6b79ca3c5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aea781a60967fbc877bd1593628cdf32d"><td class="memItemLeft" align="right" valign="top">typedef std::map&lt; <a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d0/d0f/a07170.html">Battlefield</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d41/a07174.html#aea781a60967fbc877bd1593628cdf32d">BattlefieldMap</a></td></tr>
-<tr class="separator:aea781a60967fbc877bd1593628cdf32d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:afaa79f63a91c6b585b4bf10dfdf60af6"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d41/a07174.html#afaa79f63a91c6b585b4bf10dfdf60af6">BattlefieldMgr</a> ()</td></tr>
-<tr class="separator:afaa79f63a91c6b585b4bf10dfdf60af6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0d5b198add5190e99a1763a168ce2895"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d41/a07174.html#a0d5b198add5190e99a1763a168ce2895">~BattlefieldMgr</a> ()</td></tr>
-<tr class="separator:a0d5b198add5190e99a1763a168ce2895"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a244ce1743c237e95c08dc8861f3ce4b3"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d41/a07174.html#a244ce1743c237e95c08dc8861f3ce4b3">InitBattlefield</a> ()</td></tr>
-<tr class="separator:a244ce1743c237e95c08dc8861f3ce4b3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a733f42fdc343d070220e8c56f24fe4ac"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d41/a07174.html#a733f42fdc343d070220e8c56f24fe4ac">HandlePlayerEnterZone</a> (<a class="el" href="../../d4/d95/a08630.html">Player</a> *player, <a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> areaflag)</td></tr>
-<tr class="separator:a733f42fdc343d070220e8c56f24fe4ac"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a89aa3d5d27fe61a13e381f13c599de90"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d41/a07174.html#a89aa3d5d27fe61a13e381f13c599de90">HandlePlayerLeaveZone</a> (<a class="el" href="../../d4/d95/a08630.html">Player</a> *player, <a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> areaflag)</td></tr>
-<tr class="separator:a89aa3d5d27fe61a13e381f13c599de90"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a458fb8b4943de82f0574ddd63ba466a9"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d41/a07174.html#a458fb8b4943de82f0574ddd63ba466a9">HandlePlayerResurrects</a> (<a class="el" href="../../d4/d95/a08630.html">Player</a> *player, <a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> areaflag)</td></tr>
-<tr class="separator:a458fb8b4943de82f0574ddd63ba466a9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aad6dcd56b45aeb2095c0c9033ae9f691"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d0f/a07170.html">Battlefield</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d41/a07174.html#aad6dcd56b45aeb2095c0c9033ae9f691">GetBattlefieldToZoneId</a> (<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> zoneid)</td></tr>
-<tr class="separator:aad6dcd56b45aeb2095c0c9033ae9f691"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab99d360162cf61dfc8d53df42127fb07"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d0f/a07170.html">Battlefield</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d41/a07174.html#ab99d360162cf61dfc8d53df42127fb07">GetBattlefieldByBattleId</a> (<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> battleid)</td></tr>
-<tr class="separator:ab99d360162cf61dfc8d53df42127fb07"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:accd1dc8e86bc9ab5618483e609b9314d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/dd7/a09902.html">ZoneScript</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d41/a07174.html#accd1dc8e86bc9ab5618483e609b9314d">GetZoneScript</a> (<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> zoneId)</td></tr>
-<tr class="separator:accd1dc8e86bc9ab5618483e609b9314d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a03b1d0ef9c969283fbf9ce80842ad33c"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d41/a07174.html#a03b1d0ef9c969283fbf9ce80842ad33c">AddZone</a> (<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> zoneid, <a class="el" href="../../d0/d0f/a07170.html">Battlefield</a> *handle)</td></tr>
-<tr class="separator:a03b1d0ef9c969283fbf9ce80842ad33c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a15548a7b124741e2fa9f36f1bf087458"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d41/a07174.html#a15548a7b124741e2fa9f36f1bf087458">Update</a> (<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> diff)</td></tr>
-<tr class="separator:a15548a7b124741e2fa9f36f1bf087458"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa54e25c2f1ad982f0a9a57e99fd994f9"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d41/a07174.html#aa54e25c2f1ad982f0a9a57e99fd994f9">HandleGossipOption</a> (<a class="el" href="../../d4/d95/a08630.html">Player</a> *player, <a class="el" href="../../d4/dea/a08430.html">ObjectGuid</a> guid, <a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> gossipid)</td></tr>
-<tr class="separator:aa54e25c2f1ad982f0a9a57e99fd994f9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a18fdd3c81b5641e296318f1113acf73f"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d41/a07174.html#a18fdd3c81b5641e296318f1113acf73f">CanTalkTo</a> (<a class="el" href="../../d4/d95/a08630.html">Player</a> *player, <a class="el" href="../../da/d2e/a08010.html">Creature</a> *creature, <a class="el" href="../../df/d49/a09034.html">GossipMenuItems</a> gso)</td></tr>
-<tr class="separator:a18fdd3c81b5641e296318f1113acf73f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a19b23ca8dc68ceaaca9078a33b62b70e"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d41/a07174.html#a19b23ca8dc68ceaaca9078a33b62b70e">HandleDropFlag</a> (<a class="el" href="../../d4/d95/a08630.html">Player</a> *player, <a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> spellId)</td></tr>
-<tr class="separator:a19b23ca8dc68ceaaca9078a33b62b70e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a48748969b122aee47d03697b6e9a2ee1"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d41/a07174.html#a48748969b122aee47d03697b6e9a2ee1">LoadAutobroadcasts</a> ()</td></tr>
+<tr class="separator:a48748969b122aee47d03697b6e9a2ee1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a105fa2c33da0662785551027430d40c6"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d41/a07174.html#a105fa2c33da0662785551027430d40c6">LoadAutobroadcastsLocalized</a> ()</td></tr>
+<tr class="separator:a105fa2c33da0662785551027430d40c6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a225907be4944713af11c312185c8aea7"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d41/a07174.html#a225907be4944713af11c312185c8aea7">SendAutobroadcasts</a> ()</td></tr>
+<tr class="separator:a225907be4944713af11c312185c8aea7"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
 Static Public Member Functions</h2></td></tr>
-<tr class="memitem:af96d6d44aa8936f94c20d1bd92af2fb3"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d9/d41/a07174.html">BattlefieldMgr</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d41/a07174.html#af96d6d44aa8936f94c20d1bd92af2fb3">instance</a> ()</td></tr>
-<tr class="separator:af96d6d44aa8936f94c20d1bd92af2fb3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aead196df7f590d43c89f179ca0bd4a68"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d9/d41/a07174.html">AutobroadcastMgr</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d41/a07174.html#aead196df7f590d43c89f179ca0bd4a68">instance</a> ()</td></tr>
+<tr class="separator:aead196df7f590d43c89f179ca0bd4a68"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-types" name="pri-types"></a>
+Private Types</h2></td></tr>
+<tr class="memitem:a9064ad588e8a02d9b60974af4da1c7cf"><td class="memItemLeft" align="right" valign="top">typedef std::map&lt; <a class="el" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>, std::vector&lt; std::string &gt; &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d41/a07174.html#a9064ad588e8a02d9b60974af4da1c7cf">AutobroadcastsMap</a></td></tr>
+<tr class="separator:a9064ad588e8a02d9b60974af4da1c7cf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a75e5b978794a7010c8d9d3390d8690f9"><td class="memItemLeft" align="right" valign="top">typedef std::map&lt; <a class="el" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>, <a class="el" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d41/a07174.html#a75e5b978794a7010c8d9d3390d8690f9">AutobroadcastsWeightMap</a></td></tr>
+<tr class="separator:a75e5b978794a7010c8d9d3390d8690f9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-methods" name="pri-methods"></a>
+Private Member Functions</h2></td></tr>
+<tr class="memitem:a8be8fd36f843ffd435989c99ce0f9229"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d41/a07174.html#a8be8fd36f843ffd435989c99ce0f9229">SendWorldAnnouncement</a> (<a class="el" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> textId)</td></tr>
+<tr class="separator:a8be8fd36f843ffd435989c99ce0f9229"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ace584bb6b66c8944e1405ec0af686d3a"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d41/a07174.html#ace584bb6b66c8944e1405ec0af686d3a">SendNotificationAnnouncement</a> (<a class="el" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> textId)</td></tr>
+<tr class="separator:ace584bb6b66c8944e1405ec0af686d3a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
-<tr class="memitem:a0ca3259d6262b725ee46c5d29f375585"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d41/a07174.html#a440a0f37414815a060e23ac6b79ca3c5">BattlefieldSet</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d41/a07174.html#a0ca3259d6262b725ee46c5d29f375585">m_BattlefieldSet</a></td></tr>
-<tr class="separator:a0ca3259d6262b725ee46c5d29f375585"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a364a78eb7a4b44bbd24188647d3a4f4e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d41/a07174.html#aea781a60967fbc877bd1593628cdf32d">BattlefieldMap</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d41/a07174.html#a364a78eb7a4b44bbd24188647d3a4f4e">m_BattlefieldMap</a></td></tr>
-<tr class="separator:a364a78eb7a4b44bbd24188647d3a4f4e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4818f48ea741ae5b6b588eed9719d0ec"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d41/a07174.html#a4818f48ea741ae5b6b588eed9719d0ec">m_UpdateTimer</a></td></tr>
-<tr class="separator:a4818f48ea741ae5b6b588eed9719d0ec"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a06d42010fea307a03aac0ca4e6886f1d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d41/a07174.html#a9064ad588e8a02d9b60974af4da1c7cf">AutobroadcastsMap</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d41/a07174.html#a06d42010fea307a03aac0ca4e6886f1d">_autobroadcasts</a></td></tr>
+<tr class="separator:a06d42010fea307a03aac0ca4e6886f1d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aadbd8ca926a64be4fbbe832fd633ee88"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d41/a07174.html#a75e5b978794a7010c8d9d3390d8690f9">AutobroadcastsWeightMap</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d41/a07174.html#aadbd8ca926a64be4fbbe832fd633ee88">_autobroadcastsWeights</a></td></tr>
+<tr class="separator:aadbd8ca926a64be4fbbe832fd633ee88"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3889edc4001e26519d9df042a8b477fc"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/d51/a03842.html#a28a4ef2f64643c76d8be05bf9eafc731">AnnounceType</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d41/a07174.html#a3889edc4001e26519d9df042a8b477fc">_announceType</a></td></tr>
+<tr class="separator:a3889edc4001e26519d9df042a8b477fc"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Member Typedef Documentation</h2>
-<a id="aea781a60967fbc877bd1593628cdf32d" name="aea781a60967fbc877bd1593628cdf32d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aea781a60967fbc877bd1593628cdf32d">&#9670;&#160;</a></span>BattlefieldMap</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">typedef std::map&lt; <a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> , <a class="el" href="../../d0/d0f/a07170.html">Battlefield</a>* &gt; <a class="el" href="../../d9/d41/a07174.html#aea781a60967fbc877bd1593628cdf32d">BattlefieldMgr::BattlefieldMap</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a440a0f37414815a060e23ac6b79ca3c5" name="a440a0f37414815a060e23ac6b79ca3c5"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a440a0f37414815a060e23ac6b79ca3c5">&#9670;&#160;</a></span>BattlefieldSet</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">typedef std::vector&lt; <a class="el" href="../../d0/d0f/a07170.html">Battlefield</a>* &gt; <a class="el" href="../../d9/d41/a07174.html#a440a0f37414815a060e23ac6b79ca3c5">BattlefieldMgr::BattlefieldSet</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="afaa79f63a91c6b585b4bf10dfdf60af6" name="afaa79f63a91c6b585b4bf10dfdf60af6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#afaa79f63a91c6b585b4bf10dfdf60af6">&#9670;&#160;</a></span>BattlefieldMgr()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">BattlefieldMgr::BattlefieldMgr </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   23</span>{</div>
-<div class="line"><span class="lineno">   24</span>    <a class="code hl_variable" href="../../d9/d41/a07174.html#a4818f48ea741ae5b6b588eed9719d0ec">m_UpdateTimer</a> = 0;</div>
-<div class="line"><span class="lineno">   25</span>    <span class="comment">//LOG_DEBUG(&quot;bg.battlefield&quot;, &quot;Instantiating BattlefieldMgr&quot;);</span></div>
-<div class="line"><span class="lineno">   26</span>}</div>
-<div class="ttc" id="aa07174_html_a4818f48ea741ae5b6b588eed9719d0ec"><div class="ttname"><a href="../../d9/d41/a07174.html#a4818f48ea741ae5b6b588eed9719d0ec">BattlefieldMgr::m_UpdateTimer</a></div><div class="ttdeci">uint32 m_UpdateTimer</div><div class="ttdef"><b>Definition:</b> BattlefieldMgr.h:74</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00074">m_UpdateTimer</a>.</p>
-
-</div>
-</div>
-<a id="a0d5b198add5190e99a1763a168ce2895" name="a0d5b198add5190e99a1763a168ce2895"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0d5b198add5190e99a1763a168ce2895">&#9670;&#160;</a></span>~BattlefieldMgr()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">BattlefieldMgr::~BattlefieldMgr </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   29</span>{</div>
-<div class="line"><span class="lineno">   30</span>    <span class="comment">//LOG_DEBUG(&quot;bg.battlefield&quot;, &quot;Deleting BattlefieldMgr&quot;);</span></div>
-<div class="line"><span class="lineno">   31</span>    <span class="keywordflow">for</span> (BattlefieldSet::iterator itr = <a class="code hl_variable" href="../../d9/d41/a07174.html#a0ca3259d6262b725ee46c5d29f375585">m_BattlefieldSet</a>.begin(); itr != <a class="code hl_variable" href="../../d9/d41/a07174.html#a0ca3259d6262b725ee46c5d29f375585">m_BattlefieldSet</a>.end(); ++itr)</div>
-<div class="line"><span class="lineno">   32</span>        <span class="keyword">delete</span> *itr;</div>
-<div class="line"><span class="lineno">   33</span>}</div>
-<div class="ttc" id="aa07174_html_a0ca3259d6262b725ee46c5d29f375585"><div class="ttname"><a href="../../d9/d41/a07174.html#a0ca3259d6262b725ee46c5d29f375585">BattlefieldMgr::m_BattlefieldSet</a></div><div class="ttdeci">BattlefieldSet m_BattlefieldSet</div><div class="ttdef"><b>Definition:</b> BattlefieldMgr.h:69</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00069">m_BattlefieldSet</a>.</p>
-
-</div>
-</div>
-<h2 class="groupheader">Member Function Documentation</h2>
-<a id="a03b1d0ef9c969283fbf9ce80842ad33c" name="a03b1d0ef9c969283fbf9ce80842ad33c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a03b1d0ef9c969283fbf9ce80842ad33c">&#9670;&#160;</a></span>AddZone()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void BattlefieldMgr::AddZone </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>zoneid</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d0/d0f/a07170.html">Battlefield</a> *&#160;</td>
-          <td class="paramname"><em>handle</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   80</span>{</div>
-<div class="line"><span class="lineno">   81</span>    <a class="code hl_variable" href="../../d9/d41/a07174.html#a364a78eb7a4b44bbd24188647d3a4f4e">m_BattlefieldMap</a>[zoneid] = handle;</div>
-<div class="line"><span class="lineno">   82</span>}</div>
-<div class="ttc" id="aa07174_html_a364a78eb7a4b44bbd24188647d3a4f4e"><div class="ttname"><a href="../../d9/d41/a07174.html#a364a78eb7a4b44bbd24188647d3a4f4e">BattlefieldMgr::m_BattlefieldMap</a></div><div class="ttdeci">BattlefieldMap m_BattlefieldMap</div><div class="ttdef"><b>Definition:</b> BattlefieldMgr.h:72</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00072">m_BattlefieldMap</a>.</p>
-
-</div>
-</div>
-<a id="a18fdd3c81b5641e296318f1113acf73f" name="a18fdd3c81b5641e296318f1113acf73f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a18fdd3c81b5641e296318f1113acf73f">&#9670;&#160;</a></span>CanTalkTo()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool BattlefieldMgr::CanTalkTo </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d4/d95/a08630.html">Player</a> *&#160;</td>
-          <td class="paramname"><em>player</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../da/d2e/a08010.html">Creature</a> *&#160;</td>
-          <td class="paramname"><em>creature</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../df/d49/a09034.html">GossipMenuItems</a>&#160;</td>
-          <td class="paramname"><em>gso</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="ab99d360162cf61dfc8d53df42127fb07" name="ab99d360162cf61dfc8d53df42127fb07"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab99d360162cf61dfc8d53df42127fb07">&#9670;&#160;</a></span>GetBattlefieldByBattleId()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/d0f/a07170.html">Battlefield</a> * BattlefieldMgr::GetBattlefieldByBattleId </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>battleid</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  124</span>{</div>
-<div class="line"><span class="lineno">  125</span>    <span class="keywordflow">for</span> (BattlefieldSet::iterator itr = <a class="code hl_variable" href="../../d9/d41/a07174.html#a0ca3259d6262b725ee46c5d29f375585">m_BattlefieldSet</a>.begin(); itr != <a class="code hl_variable" href="../../d9/d41/a07174.html#a0ca3259d6262b725ee46c5d29f375585">m_BattlefieldSet</a>.end(); ++itr)</div>
-<div class="line"><span class="lineno">  126</span>    {</div>
-<div class="line"><span class="lineno">  127</span>        <span class="keywordflow">if</span> ((*itr)-&gt;GetBattleId() == battleid)</div>
-<div class="line"><span class="lineno">  128</span>            <span class="keywordflow">return</span> (*itr);</div>
-<div class="line"><span class="lineno">  129</span>    }</div>
-<div class="line"><span class="lineno">  130</span>    <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  131</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00069">m_BattlefieldSet</a>.</p>
-
-</div>
-</div>
-<a id="aad6dcd56b45aeb2095c0c9033ae9f691" name="aad6dcd56b45aeb2095c0c9033ae9f691"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aad6dcd56b45aeb2095c0c9033ae9f691">&#9670;&#160;</a></span>GetBattlefieldToZoneId()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/d0f/a07170.html">Battlefield</a> * BattlefieldMgr::GetBattlefieldToZoneId </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>zoneid</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  111</span>{</div>
-<div class="line"><span class="lineno">  112</span>    BattlefieldMap::iterator itr = <a class="code hl_variable" href="../../d9/d41/a07174.html#a364a78eb7a4b44bbd24188647d3a4f4e">m_BattlefieldMap</a>.find(zoneid);</div>
-<div class="line"><span class="lineno">  113</span>    <span class="keywordflow">if</span> (itr == <a class="code hl_variable" href="../../d9/d41/a07174.html#a364a78eb7a4b44bbd24188647d3a4f4e">m_BattlefieldMap</a>.end())</div>
-<div class="line"><span class="lineno">  114</span>    {</div>
-<div class="line"><span class="lineno">  115</span>        <span class="comment">// no handle for this zone, return</span></div>
-<div class="line"><span class="lineno">  116</span>        <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  117</span>    }</div>
-<div class="line"><span class="lineno">  118</span>    <span class="keywordflow">if</span> (!itr-&gt;second-&gt;IsEnabled())</div>
-<div class="line"><span class="lineno">  119</span>        <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  120</span>    <span class="keywordflow">return</span> itr-&gt;second;</div>
-<div class="line"><span class="lineno">  121</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00072">m_BattlefieldMap</a>.</p>
-
-</div>
-</div>
-<a id="accd1dc8e86bc9ab5618483e609b9314d" name="accd1dc8e86bc9ab5618483e609b9314d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#accd1dc8e86bc9ab5618483e609b9314d">&#9670;&#160;</a></span>GetZoneScript()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d8/dd7/a09902.html">ZoneScript</a> * BattlefieldMgr::GetZoneScript </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>zoneId</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  146</span>{</div>
-<div class="line"><span class="lineno">  147</span>    BattlefieldMap::iterator itr = <a class="code hl_variable" href="../../d9/d41/a07174.html#a364a78eb7a4b44bbd24188647d3a4f4e">m_BattlefieldMap</a>.find(zoneId);</div>
-<div class="line"><span class="lineno">  148</span>    <span class="keywordflow">if</span> (itr != <a class="code hl_variable" href="../../d9/d41/a07174.html#a364a78eb7a4b44bbd24188647d3a4f4e">m_BattlefieldMap</a>.end())</div>
-<div class="line"><span class="lineno">  149</span>        <span class="keywordflow">return</span> itr-&gt;second;</div>
-<div class="line"><span class="lineno">  150</span>    <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  151</span>        <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  152</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00072">m_BattlefieldMap</a>.</p>
-
-</div>
-</div>
-<a id="a19b23ca8dc68ceaaca9078a33b62b70e" name="a19b23ca8dc68ceaaca9078a33b62b70e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a19b23ca8dc68ceaaca9078a33b62b70e">&#9670;&#160;</a></span>HandleDropFlag()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void BattlefieldMgr::HandleDropFlag </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d4/d95/a08630.html">Player</a> *&#160;</td>
-          <td class="paramname"><em>player</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>spellId</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="aa54e25c2f1ad982f0a9a57e99fd994f9" name="aa54e25c2f1ad982f0a9a57e99fd994f9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa54e25c2f1ad982f0a9a57e99fd994f9">&#9670;&#160;</a></span>HandleGossipOption()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void BattlefieldMgr::HandleGossipOption </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d4/d95/a08630.html">Player</a> *&#160;</td>
-          <td class="paramname"><em>player</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d4/dea/a08430.html">ObjectGuid</a>&#160;</td>
-          <td class="paramname"><em>guid</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>gossipid</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a733f42fdc343d070220e8c56f24fe4ac" name="a733f42fdc343d070220e8c56f24fe4ac"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a733f42fdc343d070220e8c56f24fe4ac">&#9670;&#160;</a></span>HandlePlayerEnterZone()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void BattlefieldMgr::HandlePlayerEnterZone </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d4/d95/a08630.html">Player</a> *&#160;</td>
-          <td class="paramname"><em>player</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>areaflag</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   85</span>{</div>
-<div class="line"><span class="lineno">   86</span>    BattlefieldMap::iterator itr = <a class="code hl_variable" href="../../d9/d41/a07174.html#a364a78eb7a4b44bbd24188647d3a4f4e">m_BattlefieldMap</a>.find(zoneid);</div>
-<div class="line"><span class="lineno">   87</span>    <span class="keywordflow">if</span> (itr == <a class="code hl_variable" href="../../d9/d41/a07174.html#a364a78eb7a4b44bbd24188647d3a4f4e">m_BattlefieldMap</a>.end())</div>
-<div class="line"><span class="lineno">   88</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">   89</span> </div>
-<div class="line"><span class="lineno">   90</span>    <span class="keywordflow">if</span> (itr-&gt;second-&gt;HasPlayer(player) || !itr-&gt;second-&gt;IsEnabled())</div>
-<div class="line"><span class="lineno">   91</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">   92</span> </div>
-<div class="line"><span class="lineno">   93</span>    itr-&gt;second-&gt;HandlePlayerEnterZone(player, zoneid);</div>
-<div class="line"><span class="lineno">   94</span>    <a class="code hl_define" href="../../d5/d0f/a00494.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;bg.battlefield&quot;</span>, <span class="stringliteral">&quot;Player {} entered outdoorpvp id {}&quot;</span>, player-&gt;<a class="code hl_function" href="../../de/d6b/a08378.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>().<a class="code hl_function" href="../../d4/dea/a08430.html#a78f5fb47e3b35addf8984000c175125b">ToString</a>(), itr-&gt;second-&gt;GetTypeId());</div>
-<div class="line"><span class="lineno">   95</span>}</div>
-<div class="ttc" id="aa00494_html_a47ac782b14a7531c6232777165a1a161"><div class="ttname"><a href="../../d5/d0f/a00494.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a></div><div class="ttdeci">#define LOG_DEBUG(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:170</div></div>
-<div class="ttc" id="aa08378_html_ad23b997e2442fa6a6228ba73a7ecc138"><div class="ttname"><a href="../../de/d6b/a08378.html#ad23b997e2442fa6a6228ba73a7ecc138">Object::GetGUID</a></div><div class="ttdeci">static ObjectGuid GetGUID(Object const *o)</div><div class="ttdef"><b>Definition:</b> Object.h:113</div></div>
-<div class="ttc" id="aa08430_html_a78f5fb47e3b35addf8984000c175125b"><div class="ttname"><a href="../../d4/dea/a08430.html#a78f5fb47e3b35addf8984000c175125b">ObjectGuid::ToString</a></div><div class="ttdeci">std::string ToString() const</div><div class="ttdef"><b>Definition:</b> ObjectGuid.cpp:47</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00113">Object::GetGUID()</a>, <a class="el" href="../../#l00170">LOG_DEBUG</a>, <a class="el" href="../../#l00072">m_BattlefieldMap</a>, and <a class="el" href="../../#l00047">ObjectGuid::ToString()</a>.</p>
-
-</div>
-</div>
-<a id="a89aa3d5d27fe61a13e381f13c599de90" name="a89aa3d5d27fe61a13e381f13c599de90"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a89aa3d5d27fe61a13e381f13c599de90">&#9670;&#160;</a></span>HandlePlayerLeaveZone()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void BattlefieldMgr::HandlePlayerLeaveZone </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d4/d95/a08630.html">Player</a> *&#160;</td>
-          <td class="paramname"><em>player</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>areaflag</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   98</span>{</div>
-<div class="line"><span class="lineno">   99</span>    BattlefieldMap::iterator itr = <a class="code hl_variable" href="../../d9/d41/a07174.html#a364a78eb7a4b44bbd24188647d3a4f4e">m_BattlefieldMap</a>.find(zoneid);</div>
-<div class="line"><span class="lineno">  100</span>    <span class="keywordflow">if</span> (itr == <a class="code hl_variable" href="../../d9/d41/a07174.html#a364a78eb7a4b44bbd24188647d3a4f4e">m_BattlefieldMap</a>.end())</div>
-<div class="line"><span class="lineno">  101</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  102</span> </div>
-<div class="line"><span class="lineno">  103</span>    <span class="comment">// teleport: remove once in removefromworld, once in updatezone</span></div>
-<div class="line"><span class="lineno">  104</span>    <span class="keywordflow">if</span> (!itr-&gt;second-&gt;HasPlayer(player))</div>
-<div class="line"><span class="lineno">  105</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  106</span>    itr-&gt;second-&gt;HandlePlayerLeaveZone(player, zoneid);</div>
-<div class="line"><span class="lineno">  107</span>    <a class="code hl_define" href="../../d5/d0f/a00494.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;bg.battlefield&quot;</span>, <span class="stringliteral">&quot;Player {} left outdoorpvp id {}&quot;</span>, player-&gt;<a class="code hl_function" href="../../de/d6b/a08378.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>().<a class="code hl_function" href="../../d4/dea/a08430.html#a78f5fb47e3b35addf8984000c175125b">ToString</a>(), itr-&gt;second-&gt;GetTypeId());</div>
-<div class="line"><span class="lineno">  108</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00113">Object::GetGUID()</a>, <a class="el" href="../../#l00170">LOG_DEBUG</a>, <a class="el" href="../../#l00072">m_BattlefieldMap</a>, and <a class="el" href="../../#l00047">ObjectGuid::ToString()</a>.</p>
-
-</div>
-</div>
-<a id="a458fb8b4943de82f0574ddd63ba466a9" name="a458fb8b4943de82f0574ddd63ba466a9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a458fb8b4943de82f0574ddd63ba466a9">&#9670;&#160;</a></span>HandlePlayerResurrects()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void BattlefieldMgr::HandlePlayerResurrects </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d4/d95/a08630.html">Player</a> *&#160;</td>
-          <td class="paramname"><em>player</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>areaflag</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a244ce1743c237e95c08dc8861f3ce4b3" name="a244ce1743c237e95c08dc8861f3ce4b3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a244ce1743c237e95c08dc8861f3ce4b3">&#9670;&#160;</a></span>InitBattlefield()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void BattlefieldMgr::InitBattlefield </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   42</span>{</div>
-<div class="line"><span class="lineno">   43</span>    <span class="keywordflow">if</span> (<a class="code hl_define" href="../../da/d11/a04792.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getIntConfig(<a class="code hl_enumvalue" href="../../de/d87/a02939.html#a468ad15992691eb97dd20680046832e0aa64237bf7ab70e8554559907e4d54c8a">CONFIG_WINTERGRASP_ENABLE</a>) == 2)</div>
-<div class="line"><span class="lineno">   44</span>    {</div>
-<div class="line"><span class="lineno">   45</span>        <a class="code hl_define" href="../../d5/d0f/a00494.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;Battlefield: Wintergrasp is disabled.&quot;</span>);</div>
-<div class="line"><span class="lineno">   46</span>        <a class="code hl_define" href="../../d5/d0f/a00494.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
-<div class="line"><span class="lineno">   47</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">   48</span>    }</div>
-<div class="line"><span class="lineno">   49</span>    <a class="code hl_class" href="../../d0/d0f/a07170.html">Battlefield</a>* pBf = <span class="keyword">new</span> <a class="code hl_class" href="../../d3/d41/a07190.html">BattlefieldWG</a>;</div>
-<div class="line"><span class="lineno">   50</span>    <span class="comment">// respawn, init variables</span></div>
-<div class="line"><span class="lineno">   51</span>    <span class="keywordflow">if</span> (!pBf-&gt;<a class="code hl_function" href="../../d0/d0f/a07170.html#a505d37f7c94cc081d9d3b8db1d362220">SetupBattlefield</a>())</div>
-<div class="line"><span class="lineno">   52</span>    {</div>
-<div class="line"><span class="lineno">   53</span>        <a class="code hl_define" href="../../d5/d0f/a00494.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;Battlefield: Wintergrasp init failed.&quot;</span>);</div>
-<div class="line"><span class="lineno">   54</span>        <a class="code hl_define" href="../../d5/d0f/a00494.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
-<div class="line"><span class="lineno">   55</span>        <span class="keyword">delete</span> pBf;</div>
-<div class="line"><span class="lineno">   56</span>    }</div>
-<div class="line"><span class="lineno">   57</span>    <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">   58</span>    {</div>
-<div class="line"><span class="lineno">   59</span>        <a class="code hl_variable" href="../../d9/d41/a07174.html#a0ca3259d6262b725ee46c5d29f375585">m_BattlefieldSet</a>.push_back(pBf);</div>
-<div class="line"><span class="lineno">   60</span>        <a class="code hl_define" href="../../d5/d0f/a00494.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;Battlefield: Wintergrasp successfully initiated.&quot;</span>);</div>
-<div class="line"><span class="lineno">   61</span>        <a class="code hl_define" href="../../d5/d0f/a00494.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
-<div class="line"><span class="lineno">   62</span>    }</div>
-<div class="line"><span class="lineno">   63</span> </div>
-<div class="line"><span class="lineno">   64</span>    <span class="comment">/* For Cataclysm: Tol Barad</span></div>
-<div class="line"><span class="lineno">   65</span><span class="comment">       pBf = new BattlefieldTB;</span></div>
-<div class="line"><span class="lineno">   66</span><span class="comment">       // respawn, init variables</span></div>
-<div class="line"><span class="lineno">   67</span><span class="comment">       if (!pBf-&gt;SetupBattlefield())</span></div>
-<div class="line"><span class="lineno">   68</span><span class="comment">       {</span></div>
-<div class="line"><span class="lineno">   69</span><span class="comment">       LOG_DEBUG(&quot;bg.battlefield&quot;, &quot;Battlefield : Tol Barad init failed.&quot;);</span></div>
-<div class="line"><span class="lineno">   70</span><span class="comment">       delete pBf;</span></div>
-<div class="line"><span class="lineno">   71</span><span class="comment">       }</span></div>
-<div class="line"><span class="lineno">   72</span><span class="comment">       else</span></div>
-<div class="line"><span class="lineno">   73</span><span class="comment">       {</span></div>
-<div class="line"><span class="lineno">   74</span><span class="comment">       m_BattlefieldSet.push_back(pBf);</span></div>
-<div class="line"><span class="lineno">   75</span><span class="comment">       LOG_DEBUG(&quot;bg.battlefield&quot;, &quot;Battlefield : Tol Barad successfully initiated.&quot;);</span></div>
-<div class="line"><span class="lineno">   76</span><span class="comment">       } */</span></div>
-<div class="line"><span class="lineno">   77</span>}</div>
-<div class="ttc" id="aa00494_html_a271e427d8e8481efd5cd5f537ec9e419"><div class="ttname"><a href="../../d5/d0f/a00494.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a></div><div class="ttdeci">#define LOG_INFO(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:166</div></div>
-<div class="ttc" id="aa00494_html_a43832e3fa8508deb4ce43e520005fcd9"><div class="ttname"><a href="../../d5/d0f/a00494.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a></div><div class="ttdeci">#define LOG_ERROR(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:158</div></div>
-<div class="ttc" id="aa02939_html_a468ad15992691eb97dd20680046832e0aa64237bf7ab70e8554559907e4d54c8a"><div class="ttname"><a href="../../de/d87/a02939.html#a468ad15992691eb97dd20680046832e0aa64237bf7ab70e8554559907e4d54c8a">CONFIG_WINTERGRASP_ENABLE</a></div><div class="ttdeci">@ CONFIG_WINTERGRASP_ENABLE</div><div class="ttdef"><b>Definition:</b> WorldConfig.h:278</div></div>
-<div class="ttc" id="aa04792_html_ga05dfb35c344e5b947a19e4284e7f5fa7"><div class="ttname"><a href="../../da/d11/a04792.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a></div><div class="ttdeci">#define sWorld</div><div class="ttdef"><b>Definition:</b> World.h:320</div></div>
-<div class="ttc" id="aa07170_html"><div class="ttname"><a href="../../d0/d0f/a07170.html">Battlefield</a></div><div class="ttdef"><b>Definition:</b> Battlefield.h:204</div></div>
-<div class="ttc" id="aa07170_html_a505d37f7c94cc081d9d3b8db1d362220"><div class="ttname"><a href="../../d0/d0f/a07170.html#a505d37f7c94cc081d9d3b8db1d362220">Battlefield::SetupBattlefield</a></div><div class="ttdeci">virtual bool SetupBattlefield()</div><div class="ttdoc">Call this to init the Battlefield.</div><div class="ttdef"><b>Definition:</b> Battlefield.h:217</div></div>
-<div class="ttc" id="aa07190_html"><div class="ttname"><a href="../../d3/d41/a07190.html">BattlefieldWG</a></div><div class="ttdef"><b>Definition:</b> BattlefieldWG.h:253</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00278">CONFIG_WINTERGRASP_ENABLE</a>, <a class="el" href="../../#l00158">LOG_ERROR</a>, <a class="el" href="../../#l00166">LOG_INFO</a>, <a class="el" href="../../#l00069">m_BattlefieldSet</a>, <a class="el" href="../../#l00217">Battlefield::SetupBattlefield()</a>, and <a class="el" href="../../#l00320">sWorld</a>.</p>
-
-</div>
-</div>
-<a id="af96d6d44aa8936f94c20d1bd92af2fb3" name="af96d6d44aa8936f94c20d1bd92af2fb3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af96d6d44aa8936f94c20d1bd92af2fb3">&#9670;&#160;</a></span>instance()</h2>
+<a id="a9064ad588e8a02d9b60974af4da1c7cf" name="a9064ad588e8a02d9b60974af4da1c7cf"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9064ad588e8a02d9b60974af4da1c7cf">&#9670;&#160;</a></span>AutobroadcastsMap</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -650,7 +166,52 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d9/d41/a07174.html">BattlefieldMgr</a> * BattlefieldMgr::instance </td>
+          <td class="memname">typedef std::map&lt;<a class="el" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>, std::vector&lt;std::string&gt; &gt; <a class="el" href="../../d9/d41/a07174.html#a9064ad588e8a02d9b60974af4da1c7cf">AutobroadcastMgr::AutobroadcastsMap</a></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a75e5b978794a7010c8d9d3390d8690f9" name="a75e5b978794a7010c8d9d3390d8690f9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a75e5b978794a7010c8d9d3390d8690f9">&#9670;&#160;</a></span>AutobroadcastsWeightMap</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">typedef std::map&lt;<a class="el" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>, <a class="el" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&gt; <a class="el" href="../../d9/d41/a07174.html#a75e5b978794a7010c8d9d3390d8690f9">AutobroadcastMgr::AutobroadcastsWeightMap</a></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="aead196df7f590d43c89f179ca0bd4a68" name="aead196df7f590d43c89f179ca0bd4a68"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aead196df7f590d43c89f179ca0bd4a68">&#9670;&#160;</a></span>instance()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d9/d41/a07174.html">AutobroadcastMgr</a> * AutobroadcastMgr::instance </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -662,53 +223,352 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   36</span>{</div>
-<div class="line"><span class="lineno">   37</span>    <span class="keyword">static</span> <a class="code hl_class" href="../../d9/d41/a07174.html">BattlefieldMgr</a> <a class="code hl_function" href="../../d9/d41/a07174.html#af96d6d44aa8936f94c20d1bd92af2fb3">instance</a>;</div>
-<div class="line"><span class="lineno">   38</span>    <span class="keywordflow">return</span> &amp;<a class="code hl_function" href="../../d9/d41/a07174.html#af96d6d44aa8936f94c20d1bd92af2fb3">instance</a>;</div>
-<div class="line"><span class="lineno">   39</span>}</div>
-<div class="ttc" id="aa07174_html"><div class="ttname"><a href="../../d9/d41/a07174.html">BattlefieldMgr</a></div><div class="ttdef"><b>Definition:</b> BattlefieldMgr.h:31</div></div>
-<div class="ttc" id="aa07174_html_af96d6d44aa8936f94c20d1bd92af2fb3"><div class="ttname"><a href="../../d9/d41/a07174.html#af96d6d44aa8936f94c20d1bd92af2fb3">BattlefieldMgr::instance</a></div><div class="ttdeci">static BattlefieldMgr * instance()</div><div class="ttdef"><b>Definition:</b> BattlefieldMgr.cpp:35</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   25</span>{</div>
+<div class="line"><span class="lineno">   26</span>    <span class="keyword">static</span> <a class="code hl_class" href="../../d9/d41/a07174.html">AutobroadcastMgr</a> <a class="code hl_function" href="../../d9/d41/a07174.html#aead196df7f590d43c89f179ca0bd4a68">instance</a>;</div>
+<div class="line"><span class="lineno">   27</span>    <span class="keywordflow">return</span> &amp;<a class="code hl_function" href="../../d9/d41/a07174.html#aead196df7f590d43c89f179ca0bd4a68">instance</a>;</div>
+<div class="line"><span class="lineno">   28</span>}</div>
+<div class="ttc" id="aa07174_html"><div class="ttname"><a href="../../d9/d41/a07174.html">AutobroadcastMgr</a></div><div class="ttdef"><b>Definition:</b> AutobroadcastMgr.h:33</div></div>
+<div class="ttc" id="aa07174_html_aead196df7f590d43c89f179ca0bd4a68"><div class="ttname"><a href="../../d9/d41/a07174.html#aead196df7f590d43c89f179ca0bd4a68">AutobroadcastMgr::instance</a></div><div class="ttdeci">static AutobroadcastMgr * instance()</div><div class="ttdef"><b>Definition:</b> AutobroadcastMgr.cpp:24</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00035">instance()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00024">instance()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00035">instance()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00024">instance()</a>.</p>
 
 </div>
 </div>
-<a id="a15548a7b124741e2fa9f36f1bf087458" name="a15548a7b124741e2fa9f36f1bf087458"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a15548a7b124741e2fa9f36f1bf087458">&#9670;&#160;</a></span>Update()</h2>
+<a id="a48748969b122aee47d03697b6e9a2ee1" name="a48748969b122aee47d03697b6e9a2ee1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a48748969b122aee47d03697b6e9a2ee1">&#9670;&#160;</a></span>LoadAutobroadcasts()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void BattlefieldMgr::Update </td>
+          <td class="memname">void AutobroadcastMgr::LoadAutobroadcasts </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>diff</em></td><td>)</td>
+          <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  134</span>{</div>
-<div class="line"><span class="lineno">  135</span>    <a class="code hl_variable" href="../../d9/d41/a07174.html#a4818f48ea741ae5b6b588eed9719d0ec">m_UpdateTimer</a> += diff;</div>
-<div class="line"><span class="lineno">  136</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d9/d41/a07174.html#a4818f48ea741ae5b6b588eed9719d0ec">m_UpdateTimer</a> &gt; <a class="code hl_variable" href="../../d3/d7e/a02768.html#a79df696836c3edc53ca1868aab7f6e76">BATTLEFIELD_OBJECTIVE_UPDATE_INTERVAL</a>)</div>
-<div class="line"><span class="lineno">  137</span>    {</div>
-<div class="line"><span class="lineno">  138</span>        <span class="keywordflow">for</span> (BattlefieldSet::iterator itr = <a class="code hl_variable" href="../../d9/d41/a07174.html#a0ca3259d6262b725ee46c5d29f375585">m_BattlefieldSet</a>.begin(); itr != <a class="code hl_variable" href="../../d9/d41/a07174.html#a0ca3259d6262b725ee46c5d29f375585">m_BattlefieldSet</a>.end(); ++itr)</div>
-<div class="line"><span class="lineno">  139</span>            <span class="comment">//if ((*itr)-&gt;IsEnabled())</span></div>
-<div class="line"><span class="lineno">  140</span>            (*itr)-&gt;Update(<a class="code hl_variable" href="../../d9/d41/a07174.html#a4818f48ea741ae5b6b588eed9719d0ec">m_UpdateTimer</a>);</div>
-<div class="line"><span class="lineno">  141</span>        <a class="code hl_variable" href="../../d9/d41/a07174.html#a4818f48ea741ae5b6b588eed9719d0ec">m_UpdateTimer</a> = 0;</div>
-<div class="line"><span class="lineno">  142</span>    }</div>
-<div class="line"><span class="lineno">  143</span>}</div>
-<div class="ttc" id="aa02768_html_a79df696836c3edc53ca1868aab7f6e76"><div class="ttname"><a href="../../d3/d7e/a02768.html#a79df696836c3edc53ca1868aab7f6e76">BATTLEFIELD_OBJECTIVE_UPDATE_INTERVAL</a></div><div class="ttdeci">constexpr auto BATTLEFIELD_OBJECTIVE_UPDATE_INTERVAL</div><div class="ttdef"><b>Definition:</b> Battlefield.h:56</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   31</span>{</div>
+<div class="line"><span class="lineno">   32</span>    <a class="code hl_typedef" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> oldMSTime = <a class="code hl_function" href="../../d1/d44/a00098.html#a4476c8e13ea790c3536f2749105f9cb9">getMSTime</a>();</div>
+<div class="line"><span class="lineno">   33</span> </div>
+<div class="line"><span class="lineno">   34</span>    <a class="code hl_variable" href="../../d9/d41/a07174.html#a06d42010fea307a03aac0ca4e6886f1d">_autobroadcasts</a>.clear();</div>
+<div class="line"><span class="lineno">   35</span>    <a class="code hl_variable" href="../../d9/d41/a07174.html#aadbd8ca926a64be4fbbe832fd633ee88">_autobroadcastsWeights</a>.clear();</div>
+<div class="line"><span class="lineno">   36</span> </div>
+<div class="line"><span class="lineno">   37</span>    <a class="code hl_typedef" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> realmId = <a class="code hl_define" href="../../de/d79/a00203.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;<a class="code hl_typedef" href="../../d0/d61/a00302.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&gt;(<span class="stringliteral">&quot;RealmID&quot;</span>, 0);</div>
+<div class="line"><span class="lineno">   38</span>    <a class="code hl_class" href="../../dd/d08/a05718.html">LoginDatabasePreparedStatement</a>* stmt = <a class="code hl_variable" href="../../d6/d12/a04691.html#a2cf25eafe7f2f73b61ccde11d55daf0c">LoginDatabase</a>.GetPreparedStatement(<a class="code hl_enumvalue" href="../../da/d71/a04649.html#a2bc6eef17d8ecd1b7027058f5fecc9fba9980b74fcece706b35f1723dd2c9bf9d">LOGIN_SEL_AUTOBROADCAST</a>);</div>
+<div class="line"><span class="lineno">   39</span>    stmt-&gt;SetData(0, realmId);</div>
+<div class="line"><span class="lineno">   40</span>    <a class="code hl_typedef" href="../../de/d69/a04679.html#ac6110b8d867b5f84f677555d07037acb">PreparedQueryResult</a> result = <a class="code hl_variable" href="../../d6/d12/a04691.html#a2cf25eafe7f2f73b61ccde11d55daf0c">LoginDatabase</a>.Query(stmt);</div>
+<div class="line"><span class="lineno">   41</span> </div>
+<div class="line"><span class="lineno">   42</span>    <span class="keywordflow">if</span> (!result)</div>
+<div class="line"><span class="lineno">   43</span>    {</div>
+<div class="line"><span class="lineno">   44</span>        <a class="code hl_define" href="../../d5/d0f/a00494.html#adf09840a666e1d86bcd3439105db6edc">LOG_WARN</a>(<span class="stringliteral">&quot;autobroadcast&quot;</span>, <span class="stringliteral">&quot;&gt;&gt; Loaded 0 autobroadcasts definitions. DB table `autobroadcast` is empty for this realm!&quot;</span>);</div>
+<div class="line"><span class="lineno">   45</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">   46</span>    }</div>
+<div class="line"><span class="lineno">   47</span> </div>
+<div class="line"><span class="lineno">   48</span>    <a class="code hl_variable" href="../../d9/d41/a07174.html#a3889edc4001e26519d9df042a8b477fc">_announceType</a> = <span class="keyword">static_cast&lt;</span><a class="code hl_enumeration" href="../../dd/d51/a03842.html#a28a4ef2f64643c76d8be05bf9eafc731">AnnounceType</a><span class="keyword">&gt;</span>(<a class="code hl_define" href="../../da/d11/a04792.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getIntConfig(<a class="code hl_enumvalue" href="../../de/d87/a02939.html#a468ad15992691eb97dd20680046832e0a00c270cba7ea28db008d3449da2f326d">CONFIG_AUTOBROADCAST_CENTER</a>));</div>
+<div class="line"><span class="lineno">   49</span> </div>
+<div class="line"><span class="lineno">   50</span>    <span class="keywordflow">if</span> (_announceType &lt; AnnounceType::World || _announceType &gt; AnnounceType::Both)</div>
+<div class="line"><span class="lineno">   51</span>    {</div>
+<div class="line"><span class="lineno">   52</span>        <a class="code hl_define" href="../../d5/d0f/a00494.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;autobroadcast&quot;</span>, <span class="stringliteral">&quot;AutobroadcastMgr::LoadAutobroadcasts: Config option AutoBroadcast.Center set to not allowed value {}. Set to default value 0&quot;</span>, (<a class="code hl_typedef" href="../../d0/d61/a00302.html#a3bb8a71f4ae9af551f71e9eb2c9c3325">int8</a>)<a class="code hl_variable" href="../../d9/d41/a07174.html#a3889edc4001e26519d9df042a8b477fc">_announceType</a>);</div>
+<div class="line"><span class="lineno">   53</span>        <a class="code hl_variable" href="../../d9/d41/a07174.html#a3889edc4001e26519d9df042a8b477fc">_announceType</a> = AnnounceType::World;</div>
+<div class="line"><span class="lineno">   54</span>    }</div>
+<div class="line"><span class="lineno">   55</span> </div>
+<div class="line"><span class="lineno">   56</span>    <span class="keywordflow">do</span></div>
+<div class="line"><span class="lineno">   57</span>    {</div>
+<div class="line"><span class="lineno">   58</span>        <a class="code hl_class" href="../../d7/d55/a05750.html">Field</a>* fields = result-&gt;Fetch();</div>
+<div class="line"><span class="lineno">   59</span>        <a class="code hl_typedef" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> textId = fields[0].<a class="code hl_function" href="../../d7/d55/a05750.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&gt;();</div>
+<div class="line"><span class="lineno">   60</span> </div>
+<div class="line"><span class="lineno">   61</span>        <a class="code hl_function" href="../../d5/d1d/a09074.html#a42c5089b52f7d95968276277d8a00fd8">ObjectMgr::AddLocaleString</a>(fields[2].Get&lt;std::string&gt;(), <a class="code hl_define" href="../../db/dbc/a00395.html#a900ed91bceba26c1e05048bd3a9ec4fd">DEFAULT_LOCALE</a>, <a class="code hl_variable" href="../../d9/d41/a07174.html#a06d42010fea307a03aac0ca4e6886f1d">_autobroadcasts</a>[textId]);</div>
+<div class="line"><span class="lineno">   62</span>        <a class="code hl_variable" href="../../d9/d41/a07174.html#aadbd8ca926a64be4fbbe832fd633ee88">_autobroadcastsWeights</a>[textId] = fields[1].<a class="code hl_function" href="../../d7/d55/a05750.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&gt;();</div>
+<div class="line"><span class="lineno">   63</span> </div>
+<div class="line"><span class="lineno">   64</span>    } <span class="keywordflow">while</span> (result-&gt;NextRow());</div>
+<div class="line"><span class="lineno">   65</span> </div>
+<div class="line"><span class="lineno">   66</span>    <a class="code hl_define" href="../../d5/d0f/a00494.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt;&gt; Loaded {} Autobroadcast Definitions in {} ms&quot;</span>, <a class="code hl_variable" href="../../d9/d41/a07174.html#a06d42010fea307a03aac0ca4e6886f1d">_autobroadcasts</a>.size(), <a class="code hl_function" href="../../d1/d44/a00098.html#a23a2c8663a05f2b03a6f85501972e8c0">GetMSTimeDiffToNow</a>(oldMSTime));</div>
+<div class="line"><span class="lineno">   67</span>}</div>
+<div class="ttc" id="aa00098_html_a23a2c8663a05f2b03a6f85501972e8c0"><div class="ttname"><a href="../../d1/d44/a00098.html#a23a2c8663a05f2b03a6f85501972e8c0">GetMSTimeDiffToNow</a></div><div class="ttdeci">uint32 GetMSTimeDiffToNow(uint32 oldMSTime)</div><div class="ttdef"><b>Definition:</b> Timer.h:131</div></div>
+<div class="ttc" id="aa00098_html_a4476c8e13ea790c3536f2749105f9cb9"><div class="ttname"><a href="../../d1/d44/a00098.html#a4476c8e13ea790c3536f2749105f9cb9">getMSTime</a></div><div class="ttdeci">uint32 getMSTime()</div><div class="ttdef"><b>Definition:</b> Timer.h:103</div></div>
+<div class="ttc" id="aa00203_html_a7236988e98bdd405bf435a029b70a26f"><div class="ttname"><a href="../../de/d79/a00203.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a></div><div class="ttdeci">#define sConfigMgr</div><div class="ttdef"><b>Definition:</b> Config.h:74</div></div>
+<div class="ttc" id="aa00302_html_a0bf9964a3ce962c07ad3d8b5432bbbcd"><div class="ttname"><a href="../../d0/d61/a00302.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a></div><div class="ttdeci">std::int32_t int32</div><div class="ttdef"><b>Definition:</b> Define.h:103</div></div>
+<div class="ttc" id="aa00302_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition:</b> Define.h:109</div></div>
+<div class="ttc" id="aa00302_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
+<div class="ttc" id="aa00302_html_a3bb8a71f4ae9af551f71e9eb2c9c3325"><div class="ttname"><a href="../../d0/d61/a00302.html#a3bb8a71f4ae9af551f71e9eb2c9c3325">int8</a></div><div class="ttdeci">std::int8_t int8</div><div class="ttdef"><b>Definition:</b> Define.h:105</div></div>
+<div class="ttc" id="aa00395_html_a900ed91bceba26c1e05048bd3a9ec4fd"><div class="ttname"><a href="../../db/dbc/a00395.html#a900ed91bceba26c1e05048bd3a9ec4fd">DEFAULT_LOCALE</a></div><div class="ttdeci">#define DEFAULT_LOCALE</div><div class="ttdef"><b>Definition:</b> Common.h:131</div></div>
+<div class="ttc" id="aa00494_html_a271e427d8e8481efd5cd5f537ec9e419"><div class="ttname"><a href="../../d5/d0f/a00494.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a></div><div class="ttdeci">#define LOG_INFO(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:166</div></div>
+<div class="ttc" id="aa00494_html_a43832e3fa8508deb4ce43e520005fcd9"><div class="ttname"><a href="../../d5/d0f/a00494.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a></div><div class="ttdeci">#define LOG_ERROR(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:158</div></div>
+<div class="ttc" id="aa00494_html_adf09840a666e1d86bcd3439105db6edc"><div class="ttname"><a href="../../d5/d0f/a00494.html#adf09840a666e1d86bcd3439105db6edc">LOG_WARN</a></div><div class="ttdeci">#define LOG_WARN(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:162</div></div>
+<div class="ttc" id="aa02939_html_a468ad15992691eb97dd20680046832e0a00c270cba7ea28db008d3449da2f326d"><div class="ttname"><a href="../../de/d87/a02939.html#a468ad15992691eb97dd20680046832e0a00c270cba7ea28db008d3449da2f326d">CONFIG_AUTOBROADCAST_CENTER</a></div><div class="ttdeci">@ CONFIG_AUTOBROADCAST_CENTER</div><div class="ttdef"><b>Definition:</b> WorldConfig.h:312</div></div>
+<div class="ttc" id="aa03842_html_a28a4ef2f64643c76d8be05bf9eafc731"><div class="ttname"><a href="../../dd/d51/a03842.html#a28a4ef2f64643c76d8be05bf9eafc731">AnnounceType</a></div><div class="ttdeci">AnnounceType</div><div class="ttdef"><b>Definition:</b> AutobroadcastMgr.h:26</div></div>
+<div class="ttc" id="aa04649_html_a2bc6eef17d8ecd1b7027058f5fecc9fba9980b74fcece706b35f1723dd2c9bf9d"><div class="ttname"><a href="../../da/d71/a04649.html#a2bc6eef17d8ecd1b7027058f5fecc9fba9980b74fcece706b35f1723dd2c9bf9d">LOGIN_SEL_AUTOBROADCAST</a></div><div class="ttdeci">@ LOGIN_SEL_AUTOBROADCAST</div><div class="ttdef"><b>Definition:</b> LoginDatabase.h:101</div></div>
+<div class="ttc" id="aa04679_html_ac6110b8d867b5f84f677555d07037acb"><div class="ttname"><a href="../../de/d69/a04679.html#ac6110b8d867b5f84f677555d07037acb">PreparedQueryResult</a></div><div class="ttdeci">std::shared_ptr&lt; PreparedResultSet &gt; PreparedQueryResult</div><div class="ttdef"><b>Definition:</b> DatabaseEnvFwd.h:45</div></div>
+<div class="ttc" id="aa04691_html_a2cf25eafe7f2f73b61ccde11d55daf0c"><div class="ttname"><a href="../../d6/d12/a04691.html#a2cf25eafe7f2f73b61ccde11d55daf0c">LoginDatabase</a></div><div class="ttdeci">DatabaseWorkerPool&lt; LoginDatabaseConnection &gt; LoginDatabase</div><div class="ttdoc">Accessor to the realm/login database.</div><div class="ttdef"><b>Definition:</b> DatabaseEnv.cpp:22</div></div>
+<div class="ttc" id="aa04792_html_ga05dfb35c344e5b947a19e4284e7f5fa7"><div class="ttname"><a href="../../da/d11/a04792.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a></div><div class="ttdeci">#define sWorld</div><div class="ttdef"><b>Definition:</b> World.h:317</div></div>
+<div class="ttc" id="aa05718_html"><div class="ttname"><a href="../../dd/d08/a05718.html">PreparedStatement</a></div><div class="ttdef"><b>Definition:</b> PreparedStatement.h:157</div></div>
+<div class="ttc" id="aa05750_html"><div class="ttname"><a href="../../d7/d55/a05750.html">Field</a></div><div class="ttdoc">Class used to access individual fields of database query result.</div><div class="ttdef"><b>Definition:</b> Field.h:98</div></div>
+<div class="ttc" id="aa05750_html_aae507d21d3570ffdaf1643ba02946f01"><div class="ttname"><a href="../../d7/d55/a05750.html#aae507d21d3570ffdaf1643ba02946f01">Field::Get</a></div><div class="ttdeci">std::enable_if_t&lt; std::is_arithmetic_v&lt; T &gt;, T &gt; Get() const</div><div class="ttdef"><b>Definition:</b> Field.h:112</div></div>
+<div class="ttc" id="aa07174_html_a06d42010fea307a03aac0ca4e6886f1d"><div class="ttname"><a href="../../d9/d41/a07174.html#a06d42010fea307a03aac0ca4e6886f1d">AutobroadcastMgr::_autobroadcasts</a></div><div class="ttdeci">AutobroadcastsMap _autobroadcasts</div><div class="ttdef"><b>Definition:</b> AutobroadcastMgr.h:48</div></div>
+<div class="ttc" id="aa07174_html_a3889edc4001e26519d9df042a8b477fc"><div class="ttname"><a href="../../d9/d41/a07174.html#a3889edc4001e26519d9df042a8b477fc">AutobroadcastMgr::_announceType</a></div><div class="ttdeci">AnnounceType _announceType</div><div class="ttdef"><b>Definition:</b> AutobroadcastMgr.h:51</div></div>
+<div class="ttc" id="aa07174_html_aadbd8ca926a64be4fbbe832fd633ee88"><div class="ttname"><a href="../../d9/d41/a07174.html#aadbd8ca926a64be4fbbe832fd633ee88">AutobroadcastMgr::_autobroadcastsWeights</a></div><div class="ttdeci">AutobroadcastsWeightMap _autobroadcastsWeights</div><div class="ttdef"><b>Definition:</b> AutobroadcastMgr.h:49</div></div>
+<div class="ttc" id="aa09074_html_a42c5089b52f7d95968276277d8a00fd8"><div class="ttname"><a href="../../d5/d1d/a09074.html#a42c5089b52f7d95968276277d8a00fd8">ObjectMgr::AddLocaleString</a></div><div class="ttdeci">static void AddLocaleString(std::string &amp;&amp;s, LocaleConstant locale, std::vector&lt; std::string &gt; &amp;data)</div><div class="ttdef"><b>Definition:</b> ObjectMgr.cpp:382</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00056">BATTLEFIELD_OBJECTIVE_UPDATE_INTERVAL</a>, <a class="el" href="../../#l00069">m_BattlefieldSet</a>, and <a class="el" href="../../#l00074">m_UpdateTimer</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00051">_announceType</a>, <a class="el" href="../../#l00048">_autobroadcasts</a>, <a class="el" href="../../#l00049">_autobroadcastsWeights</a>, <a class="el" href="../../#l00382">ObjectMgr::AddLocaleString()</a>, <a class="el" href="../../#l00312">CONFIG_AUTOBROADCAST_CENTER</a>, <a class="el" href="../../#l00131">DEFAULT_LOCALE</a>, <a class="el" href="../../#l00112">Field::Get()</a>, <a class="el" href="../../#l00103">getMSTime()</a>, <a class="el" href="../../#l00131">GetMSTimeDiffToNow()</a>, <a class="el" href="../../#l00158">LOG_ERROR</a>, <a class="el" href="../../#l00166">LOG_INFO</a>, <a class="el" href="../../#l00162">LOG_WARN</a>, <a class="el" href="../../#l00101">LOGIN_SEL_AUTOBROADCAST</a>, <a class="el" href="../../#l00022">LoginDatabase</a>, <a class="el" href="../../#l00074">sConfigMgr</a>, and <a class="el" href="../../#l00317">sWorld</a>.</p>
+
+</div>
+</div>
+<a id="a105fa2c33da0662785551027430d40c6" name="a105fa2c33da0662785551027430d40c6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a105fa2c33da0662785551027430d40c6">&#9670;&#160;</a></span>LoadAutobroadcastsLocalized()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AutobroadcastMgr::LoadAutobroadcastsLocalized </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   70</span>{</div>
+<div class="line"><span class="lineno">   71</span>    <a class="code hl_typedef" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> oldMSTime = <a class="code hl_function" href="../../d1/d44/a00098.html#a4476c8e13ea790c3536f2749105f9cb9">getMSTime</a>();</div>
+<div class="line"><span class="lineno">   72</span>    <a class="code hl_typedef" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> realmId = <a class="code hl_define" href="../../de/d79/a00203.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;<a class="code hl_typedef" href="../../d0/d61/a00302.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&gt;(<span class="stringliteral">&quot;RealmID&quot;</span>, 0);</div>
+<div class="line"><span class="lineno">   73</span> </div>
+<div class="line"><span class="lineno">   74</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d9/d41/a07174.html#a06d42010fea307a03aac0ca4e6886f1d">_autobroadcasts</a>.empty())</div>
+<div class="line"><span class="lineno">   75</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">   76</span> </div>
+<div class="line"><span class="lineno">   77</span>    <a class="code hl_class" href="../../dd/d08/a05718.html">LoginDatabasePreparedStatement</a>* stmt = <a class="code hl_variable" href="../../d6/d12/a04691.html#a2cf25eafe7f2f73b61ccde11d55daf0c">LoginDatabase</a>.GetPreparedStatement(<a class="code hl_enumvalue" href="../../da/d71/a04649.html#a2bc6eef17d8ecd1b7027058f5fecc9fba611ef0300194290a53f8242fe6d39f20">LOGIN_SEL_AUTOBROADCAST_LOCALIZED</a>);</div>
+<div class="line"><span class="lineno">   78</span>    stmt-&gt;<a class="code hl_function" href="../../da/d81/a05850.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(0, realmId);</div>
+<div class="line"><span class="lineno">   79</span>    <a class="code hl_typedef" href="../../de/d69/a04679.html#ac6110b8d867b5f84f677555d07037acb">PreparedQueryResult</a> result = <a class="code hl_variable" href="../../d6/d12/a04691.html#a2cf25eafe7f2f73b61ccde11d55daf0c">LoginDatabase</a>.Query(stmt);</div>
+<div class="line"><span class="lineno">   80</span> </div>
+<div class="line"><span class="lineno">   81</span>    <span class="keywordflow">if</span> (!result)</div>
+<div class="line"><span class="lineno">   82</span>    {</div>
+<div class="line"><span class="lineno">   83</span>        <a class="code hl_define" href="../../d5/d0f/a00494.html#adf09840a666e1d86bcd3439105db6edc">LOG_WARN</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt;&gt; Loaded 0 localized autobroadcasts definitions. DB table `autobroadcast_localized` is empty for this realm!&quot;</span>);</div>
+<div class="line"><span class="lineno">   84</span>        <a class="code hl_define" href="../../d5/d0f/a00494.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
+<div class="line"><span class="lineno">   85</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">   86</span>    }</div>
+<div class="line"><span class="lineno">   87</span> </div>
+<div class="line"><span class="lineno">   88</span>    <a class="code hl_typedef" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> count = 0;</div>
+<div class="line"><span class="lineno">   89</span> </div>
+<div class="line"><span class="lineno">   90</span>    <span class="keywordflow">do</span></div>
+<div class="line"><span class="lineno">   91</span>    {</div>
+<div class="line"><span class="lineno">   92</span>        <a class="code hl_class" href="../../d7/d55/a05750.html">Field</a>* fields = result-&gt;Fetch();</div>
+<div class="line"><span class="lineno">   93</span>        <a class="code hl_typedef" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> textId = fields[0].<a class="code hl_function" href="../../d7/d55/a05750.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&gt;();</div>
+<div class="line"><span class="lineno">   94</span>        <a class="code hl_enumeration" href="../../db/dbc/a00395.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a> locale = <a class="code hl_function" href="../../df/d70/a00431.html#a8051d28826d995169bd4ce60310d5d65">GetLocaleByName</a>(fields[1].Get&lt;std::string&gt;());</div>
+<div class="line"><span class="lineno">   95</span> </div>
+<div class="line"><span class="lineno">   96</span>        <span class="keywordflow">if</span> (locale == <a class="code hl_define" href="../../db/dbc/a00395.html#a900ed91bceba26c1e05048bd3a9ec4fd">DEFAULT_LOCALE</a> || <a class="code hl_function" href="../../d5/d1d/a09074.html#afaf0c44e499261c10276edc4c3cb15a0">ObjectMgr::GetLocaleString</a>(<a class="code hl_variable" href="../../d9/d41/a07174.html#a06d42010fea307a03aac0ca4e6886f1d">_autobroadcasts</a>[textId], <a class="code hl_define" href="../../db/dbc/a00395.html#a900ed91bceba26c1e05048bd3a9ec4fd">DEFAULT_LOCALE</a>).empty())</div>
+<div class="line"><span class="lineno">   97</span>            <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">   98</span> </div>
+<div class="line"><span class="lineno">   99</span>        <a class="code hl_function" href="../../d5/d1d/a09074.html#a42c5089b52f7d95968276277d8a00fd8">ObjectMgr::AddLocaleString</a>(fields[2].Get&lt;std::string&gt;(), locale, <a class="code hl_variable" href="../../d9/d41/a07174.html#a06d42010fea307a03aac0ca4e6886f1d">_autobroadcasts</a>[textId]);</div>
+<div class="line"><span class="lineno">  100</span>        count++;</div>
+<div class="line"><span class="lineno">  101</span>    } <span class="keywordflow">while</span> (result-&gt;NextRow());</div>
+<div class="line"><span class="lineno">  102</span> </div>
+<div class="line"><span class="lineno">  103</span>    <a class="code hl_define" href="../../d5/d0f/a00494.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt;&gt; Loaded {} Localized Autobroadcast Definitions in {} ms&quot;</span>, count, <a class="code hl_function" href="../../d1/d44/a00098.html#a23a2c8663a05f2b03a6f85501972e8c0">GetMSTimeDiffToNow</a>(oldMSTime));</div>
+<div class="line"><span class="lineno">  104</span>    <a class="code hl_define" href="../../d5/d0f/a00494.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
+<div class="line"><span class="lineno">  105</span>}</div>
+<div class="ttc" id="aa00395_html_a54c9b637be7283ba1a04fb5215594332"><div class="ttname"><a href="../../db/dbc/a00395.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a></div><div class="ttdeci">LocaleConstant</div><div class="ttdef"><b>Definition:</b> Common.h:117</div></div>
+<div class="ttc" id="aa00431_html_a8051d28826d995169bd4ce60310d5d65"><div class="ttname"><a href="../../df/d70/a00431.html#a8051d28826d995169bd4ce60310d5d65">GetLocaleByName</a></div><div class="ttdeci">LocaleConstant GetLocaleByName(const std::string &amp;name)</div><div class="ttdef"><b>Definition:</b> Common.cpp:42</div></div>
+<div class="ttc" id="aa04649_html_a2bc6eef17d8ecd1b7027058f5fecc9fba611ef0300194290a53f8242fe6d39f20"><div class="ttname"><a href="../../da/d71/a04649.html#a2bc6eef17d8ecd1b7027058f5fecc9fba611ef0300194290a53f8242fe6d39f20">LOGIN_SEL_AUTOBROADCAST_LOCALIZED</a></div><div class="ttdeci">@ LOGIN_SEL_AUTOBROADCAST_LOCALIZED</div><div class="ttdef"><b>Definition:</b> LoginDatabase.h:102</div></div>
+<div class="ttc" id="aa05850_html_a52fc2e65042c1db51f0923725a0f0ed0"><div class="ttname"><a href="../../da/d81/a05850.html#a52fc2e65042c1db51f0923725a0f0ed0">PreparedStatementBase::SetData</a></div><div class="ttdeci">Acore::Types::is_default&lt; T &gt; SetData(const uint8 index, T value)</div><div class="ttdef"><b>Definition:</b> PreparedStatement.h:77</div></div>
+<div class="ttc" id="aa09074_html_afaf0c44e499261c10276edc4c3cb15a0"><div class="ttname"><a href="../../d5/d1d/a09074.html#afaf0c44e499261c10276edc4c3cb15a0">ObjectMgr::GetLocaleString</a></div><div class="ttdeci">static std::string_view GetLocaleString(std::vector&lt; std::string &gt; const &amp;data, std::size_t locale)</div><div class="ttdef"><b>Definition:</b> ObjectMgr.h:1419</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00048">_autobroadcasts</a>, <a class="el" href="../../#l00382">ObjectMgr::AddLocaleString()</a>, <a class="el" href="../../#l00131">DEFAULT_LOCALE</a>, <a class="el" href="../../#l00112">Field::Get()</a>, <a class="el" href="../../#l00042">GetLocaleByName()</a>, <a class="el" href="../../#l01419">ObjectMgr::GetLocaleString()</a>, <a class="el" href="../../#l00103">getMSTime()</a>, <a class="el" href="../../#l00131">GetMSTimeDiffToNow()</a>, <a class="el" href="../../#l00166">LOG_INFO</a>, <a class="el" href="../../#l00162">LOG_WARN</a>, <a class="el" href="../../#l00102">LOGIN_SEL_AUTOBROADCAST_LOCALIZED</a>, <a class="el" href="../../#l00022">LoginDatabase</a>, <a class="el" href="../../#l00074">sConfigMgr</a>, and <a class="el" href="../../#l00077">PreparedStatementBase::SetData()</a>.</p>
+
+</div>
+</div>
+<a id="a225907be4944713af11c312185c8aea7" name="a225907be4944713af11c312185c8aea7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a225907be4944713af11c312185c8aea7">&#9670;&#160;</a></span>SendAutobroadcasts()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AutobroadcastMgr::SendAutobroadcasts </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  108</span>{</div>
+<div class="line"><span class="lineno">  109</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d9/d41/a07174.html#a06d42010fea307a03aac0ca4e6886f1d">_autobroadcasts</a>.empty())</div>
+<div class="line"><span class="lineno">  110</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  111</span> </div>
+<div class="line"><span class="lineno">  112</span>    <a class="code hl_typedef" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> weight = 0;</div>
+<div class="line"><span class="lineno">  113</span>    <a class="code hl_typedef" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> textId = 0;</div>
+<div class="line"><span class="lineno">  114</span>    <a class="code hl_typedef" href="../../d9/d41/a07174.html#a75e5b978794a7010c8d9d3390d8690f9">AutobroadcastsWeightMap</a> selectionWeights;</div>
+<div class="line"><span class="lineno">  115</span> </div>
+<div class="line"><span class="lineno">  116</span>    <span class="keywordflow">for</span> (AutobroadcastsWeightMap::const_iterator it = <a class="code hl_variable" href="../../d9/d41/a07174.html#aadbd8ca926a64be4fbbe832fd633ee88">_autobroadcastsWeights</a>.begin(); it != <a class="code hl_variable" href="../../d9/d41/a07174.html#aadbd8ca926a64be4fbbe832fd633ee88">_autobroadcastsWeights</a>.end(); ++it)</div>
+<div class="line"><span class="lineno">  117</span>    {</div>
+<div class="line"><span class="lineno">  118</span>        <span class="keywordflow">if</span> (it-&gt;second)</div>
+<div class="line"><span class="lineno">  119</span>        {</div>
+<div class="line"><span class="lineno">  120</span>            weight += it-&gt;second;</div>
+<div class="line"><span class="lineno">  121</span>            selectionWeights[it-&gt;first] = it-&gt;second;</div>
+<div class="line"><span class="lineno">  122</span>        }</div>
+<div class="line"><span class="lineno">  123</span>    }</div>
+<div class="line"><span class="lineno">  124</span> </div>
+<div class="line"><span class="lineno">  125</span>    <span class="keywordflow">if</span> (weight)</div>
+<div class="line"><span class="lineno">  126</span>    {</div>
+<div class="line"><span class="lineno">  127</span>        <a class="code hl_typedef" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> selectedWeight = <a class="code hl_function" href="../../d2/d1f/a00083.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a>(0, weight - 1);</div>
+<div class="line"><span class="lineno">  128</span>        weight = 0;</div>
+<div class="line"><span class="lineno">  129</span>        <span class="keywordflow">for</span> (AutobroadcastsWeightMap::const_iterator it = selectionWeights.begin(); it != selectionWeights.end(); ++it)</div>
+<div class="line"><span class="lineno">  130</span>        {</div>
+<div class="line"><span class="lineno">  131</span>            weight += it-&gt;second;</div>
+<div class="line"><span class="lineno">  132</span>            <span class="keywordflow">if</span> (selectedWeight &lt; weight)</div>
+<div class="line"><span class="lineno">  133</span>            {</div>
+<div class="line"><span class="lineno">  134</span>                textId = it-&gt;first;</div>
+<div class="line"><span class="lineno">  135</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  136</span>            }</div>
+<div class="line"><span class="lineno">  137</span>        }</div>
+<div class="line"><span class="lineno">  138</span>    }</div>
+<div class="line"><span class="lineno">  139</span>    <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  140</span>    {</div>
+<div class="line"><span class="lineno">  141</span>        textId = <a class="code hl_function" href="../../d2/d1f/a00083.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a>(0, <a class="code hl_variable" href="../../d9/d41/a07174.html#a06d42010fea307a03aac0ca4e6886f1d">_autobroadcasts</a>.size());</div>
+<div class="line"><span class="lineno">  142</span>    }</div>
+<div class="line"><span class="lineno">  143</span> </div>
+<div class="line"><span class="lineno">  144</span>    <span class="keywordflow">switch</span> (<a class="code hl_variable" href="../../d9/d41/a07174.html#a3889edc4001e26519d9df042a8b477fc">_announceType</a>)</div>
+<div class="line"><span class="lineno">  145</span>    {</div>
+<div class="line"><span class="lineno">  146</span>    <span class="keywordflow">case</span> AnnounceType::World:</div>
+<div class="line"><span class="lineno">  147</span>        <a class="code hl_function" href="../../d9/d41/a07174.html#a8be8fd36f843ffd435989c99ce0f9229">SendWorldAnnouncement</a>(textId);</div>
+<div class="line"><span class="lineno">  148</span>        <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  149</span>    <span class="keywordflow">case</span> AnnounceType::Notification:</div>
+<div class="line"><span class="lineno">  150</span>        <a class="code hl_function" href="../../d9/d41/a07174.html#ace584bb6b66c8944e1405ec0af686d3a">SendNotificationAnnouncement</a>(textId);</div>
+<div class="line"><span class="lineno">  151</span>        <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  152</span>    <span class="keywordflow">case</span> AnnounceType::Both:</div>
+<div class="line"><span class="lineno">  153</span>        <a class="code hl_function" href="../../d9/d41/a07174.html#a8be8fd36f843ffd435989c99ce0f9229">SendWorldAnnouncement</a>(textId);</div>
+<div class="line"><span class="lineno">  154</span>        <a class="code hl_function" href="../../d9/d41/a07174.html#ace584bb6b66c8944e1405ec0af686d3a">SendNotificationAnnouncement</a>(textId);</div>
+<div class="line"><span class="lineno">  155</span>    <span class="keywordflow">default</span>:</div>
+<div class="line"><span class="lineno">  156</span>        <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  157</span>    }</div>
+<div class="line"><span class="lineno">  158</span> </div>
+<div class="line"><span class="lineno">  159</span>    <a class="code hl_define" href="../../d5/d0f/a00494.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;autobroadcast&quot;</span>, <span class="stringliteral">&quot;AutobroadcastMgr::SendAutobroadcasts: &#39;{}&#39;&quot;</span>, textId);</div>
+<div class="line"><span class="lineno">  160</span>}</div>
+<div class="ttc" id="aa00083_html_ab17def34ccbbd868dc87a16bf35acdbd"><div class="ttname"><a href="../../d2/d1f/a00083.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a></div><div class="ttdeci">uint32 urand(uint32 min, uint32 max)</div><div class="ttdef"><b>Definition:</b> Random.cpp:44</div></div>
+<div class="ttc" id="aa00494_html_a47ac782b14a7531c6232777165a1a161"><div class="ttname"><a href="../../d5/d0f/a00494.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a></div><div class="ttdeci">#define LOG_DEBUG(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:170</div></div>
+<div class="ttc" id="aa07174_html_a75e5b978794a7010c8d9d3390d8690f9"><div class="ttname"><a href="../../d9/d41/a07174.html#a75e5b978794a7010c8d9d3390d8690f9">AutobroadcastMgr::AutobroadcastsWeightMap</a></div><div class="ttdeci">std::map&lt; uint8, uint8 &gt; AutobroadcastsWeightMap</div><div class="ttdef"><b>Definition:</b> AutobroadcastMgr.h:46</div></div>
+<div class="ttc" id="aa07174_html_a8be8fd36f843ffd435989c99ce0f9229"><div class="ttname"><a href="../../d9/d41/a07174.html#a8be8fd36f843ffd435989c99ce0f9229">AutobroadcastMgr::SendWorldAnnouncement</a></div><div class="ttdeci">void SendWorldAnnouncement(uint8 textId)</div><div class="ttdef"><b>Definition:</b> AutobroadcastMgr.cpp:162</div></div>
+<div class="ttc" id="aa07174_html_ace584bb6b66c8944e1405ec0af686d3a"><div class="ttname"><a href="../../d9/d41/a07174.html#ace584bb6b66c8944e1405ec0af686d3a">AutobroadcastMgr::SendNotificationAnnouncement</a></div><div class="ttdeci">void SendNotificationAnnouncement(uint8 textId)</div><div class="ttdef"><b>Definition:</b> AutobroadcastMgr.cpp:184</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00051">_announceType</a>, <a class="el" href="../../#l00048">_autobroadcasts</a>, <a class="el" href="../../#l00049">_autobroadcastsWeights</a>, <a class="el" href="../../#l00170">LOG_DEBUG</a>, <a class="el" href="../../#l00184">SendNotificationAnnouncement()</a>, <a class="el" href="../../#l00162">SendWorldAnnouncement()</a>, and <a class="el" href="../../#l00044">urand()</a>.</p>
+
+</div>
+</div>
+<a id="ace584bb6b66c8944e1405ec0af686d3a" name="ace584bb6b66c8944e1405ec0af686d3a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ace584bb6b66c8944e1405ec0af686d3a">&#9670;&#160;</a></span>SendNotificationAnnouncement()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AutobroadcastMgr::SendNotificationAnnouncement </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td>
+          <td class="paramname"><em>textId</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  185</span>{</div>
+<div class="line"><span class="lineno">  186</span>    <a class="code hl_class" href="../../d3/ddf/a07538.html">ChatHandler</a>(<span class="keyword">nullptr</span>).<a class="code hl_function" href="../../d3/ddf/a07538.html#a32d9594c0f5df4a72b00ec72a4547623">DoForAllValidSessions</a>([&amp;](<a class="code hl_class" href="../../dd/d5e/a08646.html">Player</a>* player)</div>
+<div class="line"><span class="lineno">  187</span>    {</div>
+<div class="line"><span class="lineno">  188</span>        <span class="comment">// Retrieve player&#39;s locale</span></div>
+<div class="line"><span class="lineno">  189</span>        <a class="code hl_enumeration" href="../../db/dbc/a00395.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a> locale = player-&gt;<a class="code hl_function" href="../../dd/d5e/a08646.html#a6ab11ca64cde7c5cde1f53998a6f7253">GetSession</a>()-&gt;GetSessionDbLocaleIndex();</div>
+<div class="line"><span class="lineno">  190</span> </div>
+<div class="line"><span class="lineno">  191</span>        <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d9/d41/a07174.html#a06d42010fea307a03aac0ca4e6886f1d">_autobroadcasts</a>.contains(textId))</div>
+<div class="line"><span class="lineno">  192</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  193</span> </div>
+<div class="line"><span class="lineno">  194</span>        <span class="comment">// Get localized message</span></div>
+<div class="line"><span class="lineno">  195</span>        std::string_view localizedMessage = <a class="code hl_function" href="../../d5/d1d/a09074.html#afaf0c44e499261c10276edc4c3cb15a0">ObjectMgr::GetLocaleString</a>(<a class="code hl_variable" href="../../d9/d41/a07174.html#a06d42010fea307a03aac0ca4e6886f1d">_autobroadcasts</a>[textId], locale);</div>
+<div class="line"><span class="lineno">  196</span> </div>
+<div class="line"><span class="lineno">  197</span>        <span class="comment">// Check if there is a localized message if not use default one.</span></div>
+<div class="line"><span class="lineno">  198</span>        if (localizedMessage.empty())</div>
+<div class="line"><span class="lineno">  199</span>            localizedMessage = <a class="code hl_function" href="../../d5/d1d/a09074.html#afaf0c44e499261c10276edc4c3cb15a0">ObjectMgr::GetLocaleString</a>(<a class="code hl_variable" href="../../d9/d41/a07174.html#a06d42010fea307a03aac0ca4e6886f1d">_autobroadcasts</a>[textId], <a class="code hl_define" href="../../db/dbc/a00395.html#a900ed91bceba26c1e05048bd3a9ec4fd">DEFAULT_LOCALE</a>);</div>
+<div class="line"><span class="lineno">  200</span> </div>
+<div class="line"><span class="lineno">  201</span>        <span class="comment">// Prepare the WorldPacket</span></div>
+<div class="line"><span class="lineno">  202</span>        <a class="code hl_class" href="../../da/d5f/a11118.html">WorldPacket</a> data(<a class="code hl_enumvalue" href="../../db/d92/a04791.html#gga1073b6abb3a749f18bf1633020879e9ba4b7b8b48f5f1fe56a5c002d78bf1b14e">SMSG_NOTIFICATION</a>, (localizedMessage.size() + 1));</div>
+<div class="line"><span class="lineno">  203</span>        data &lt;&lt; localizedMessage;</div>
+<div class="line"><span class="lineno">  204</span> </div>
+<div class="line"><span class="lineno">  205</span>        <span class="comment">// Send packet to the player</span></div>
+<div class="line"><span class="lineno">  206</span>        player-&gt;<a class="code hl_function" href="../../dd/d5e/a08646.html#a6ab11ca64cde7c5cde1f53998a6f7253">GetSession</a>()-&gt;<a class="code hl_function" href="../../de/d4c/a11162.html#a2c74b80ca9b81765049e315813b29269">SendPacket</a>(&amp;data);</div>
+<div class="line"><span class="lineno">  207</span>    });</div>
+<div class="line"><span class="lineno">  208</span>}</div>
+<div class="ttc" id="aa04791_html_gga1073b6abb3a749f18bf1633020879e9ba4b7b8b48f5f1fe56a5c002d78bf1b14e"><div class="ttname"><a href="../../db/d92/a04791.html#gga1073b6abb3a749f18bf1633020879e9ba4b7b8b48f5f1fe56a5c002d78bf1b14e">SMSG_NOTIFICATION</a></div><div class="ttdeci">@ SMSG_NOTIFICATION</div><div class="ttdef"><b>Definition:</b> Opcodes.h:489</div></div>
+<div class="ttc" id="aa07538_html"><div class="ttname"><a href="../../d3/ddf/a07538.html">ChatHandler</a></div><div class="ttdef"><b>Definition:</b> Chat.h:37</div></div>
+<div class="ttc" id="aa07538_html_a32d9594c0f5df4a72b00ec72a4547623"><div class="ttname"><a href="../../d3/ddf/a07538.html#a32d9594c0f5df4a72b00ec72a4547623">ChatHandler::DoForAllValidSessions</a></div><div class="ttdeci">void DoForAllValidSessions(std::function&lt; void(Player *)&gt; exec)</div><div class="ttdef"><b>Definition:</b> Chat.cpp:444</div></div>
+<div class="ttc" id="aa08646_html"><div class="ttname"><a href="../../dd/d5e/a08646.html">Player</a></div><div class="ttdef"><b>Definition:</b> Player.h:1072</div></div>
+<div class="ttc" id="aa08646_html_a6ab11ca64cde7c5cde1f53998a6f7253"><div class="ttname"><a href="../../dd/d5e/a08646.html#a6ab11ca64cde7c5cde1f53998a6f7253">Player::GetSession</a></div><div class="ttdeci">WorldSession * GetSession() const</div><div class="ttdef"><b>Definition:</b> Player.h:2005</div></div>
+<div class="ttc" id="aa11118_html"><div class="ttname"><a href="../../da/d5f/a11118.html">WorldPacket</a></div><div class="ttdef"><b>Definition:</b> WorldPacket.h:26</div></div>
+<div class="ttc" id="aa11162_html_a2c74b80ca9b81765049e315813b29269"><div class="ttname"><a href="../../de/d4c/a11162.html#a2c74b80ca9b81765049e315813b29269">WorldSession::SendPacket</a></div><div class="ttdeci">void SendPacket(WorldPacket const *packet)</div><div class="ttdoc">Send a packet to the client.</div><div class="ttdef"><b>Definition:</b> WorldSession.cpp:251</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00048">_autobroadcasts</a>, <a class="el" href="../../#l00131">DEFAULT_LOCALE</a>, <a class="el" href="../../#l00444">ChatHandler::DoForAllValidSessions()</a>, <a class="el" href="../../#l01419">ObjectMgr::GetLocaleString()</a>, <a class="el" href="../../#l02005">Player::GetSession()</a>, <a class="el" href="../../#l00251">WorldSession::SendPacket()</a>, and <a class="el" href="../../#l00489">SMSG_NOTIFICATION</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00107">SendAutobroadcasts()</a>.</p>
+
+</div>
+</div>
+<a id="a8be8fd36f843ffd435989c99ce0f9229" name="a8be8fd36f843ffd435989c99ce0f9229"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8be8fd36f843ffd435989c99ce0f9229">&#9670;&#160;</a></span>SendWorldAnnouncement()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AutobroadcastMgr::SendWorldAnnouncement </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td>
+          <td class="paramname"><em>textId</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  163</span>{</div>
+<div class="line"><span class="lineno">  164</span>    <span class="comment">// Send localized messages to all sessions</span></div>
+<div class="line"><span class="lineno">  165</span>    <a class="code hl_class" href="../../d3/ddf/a07538.html">ChatHandler</a>(<span class="keyword">nullptr</span>).<a class="code hl_function" href="../../d3/ddf/a07538.html#a32d9594c0f5df4a72b00ec72a4547623">DoForAllValidSessions</a>([&amp;](<a class="code hl_class" href="../../dd/d5e/a08646.html">Player</a>* player)</div>
+<div class="line"><span class="lineno">  166</span>    {</div>
+<div class="line"><span class="lineno">  167</span>        <span class="comment">// Get player&#39;s locale</span></div>
+<div class="line"><span class="lineno">  168</span>        <a class="code hl_enumeration" href="../../db/dbc/a00395.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a> locale = player-&gt;<a class="code hl_function" href="../../dd/d5e/a08646.html#a6ab11ca64cde7c5cde1f53998a6f7253">GetSession</a>()-&gt;GetSessionDbLocaleIndex();</div>
+<div class="line"><span class="lineno">  169</span> </div>
+<div class="line"><span class="lineno">  170</span>        <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d9/d41/a07174.html#a06d42010fea307a03aac0ca4e6886f1d">_autobroadcasts</a>.contains(textId))</div>
+<div class="line"><span class="lineno">  171</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  172</span> </div>
+<div class="line"><span class="lineno">  173</span>        std::string_view localizedMessage = <a class="code hl_function" href="../../d5/d1d/a09074.html#afaf0c44e499261c10276edc4c3cb15a0">ObjectMgr::GetLocaleString</a>(<a class="code hl_variable" href="../../d9/d41/a07174.html#a06d42010fea307a03aac0ca4e6886f1d">_autobroadcasts</a>[textId], locale);</div>
+<div class="line"><span class="lineno">  174</span> </div>
+<div class="line"><span class="lineno">  175</span>        <span class="comment">// Check if there is a localized message if not use default one.</span></div>
+<div class="line"><span class="lineno">  176</span>        if (localizedMessage.empty())</div>
+<div class="line"><span class="lineno">  177</span>            localizedMessage = <a class="code hl_function" href="../../d5/d1d/a09074.html#afaf0c44e499261c10276edc4c3cb15a0">ObjectMgr::GetLocaleString</a>(<a class="code hl_variable" href="../../d9/d41/a07174.html#a06d42010fea307a03aac0ca4e6886f1d">_autobroadcasts</a>[textId], <a class="code hl_define" href="../../db/dbc/a00395.html#a900ed91bceba26c1e05048bd3a9ec4fd">DEFAULT_LOCALE</a>);</div>
+<div class="line"><span class="lineno">  178</span> </div>
+<div class="line"><span class="lineno">  179</span>        <span class="comment">// Send the localized or fallback message</span></div>
+<div class="line"><span class="lineno">  180</span>        <a class="code hl_class" href="../../d3/ddf/a07538.html">ChatHandler</a>(player-&gt;<a class="code hl_function" href="../../dd/d5e/a08646.html#a6ab11ca64cde7c5cde1f53998a6f7253">GetSession</a>()).<a class="code hl_function" href="../../d3/ddf/a07538.html#a5123e186b501687e38dcde7ab51b42b4">SendWorldTextOptional</a>(localizedMessage, <a class="code hl_enumvalue" href="../../d1/d07/a03482.html#a32dfba2d10d91879403874fc75b928fda8cc308de4e117be878954235d6580c5e">ANNOUNCER_FLAG_DISABLE_AUTOBROADCAST</a>);</div>
+<div class="line"><span class="lineno">  181</span>    });</div>
+<div class="line"><span class="lineno">  182</span>}</div>
+<div class="ttc" id="aa03482_html_a32dfba2d10d91879403874fc75b928fda8cc308de4e117be878954235d6580c5e"><div class="ttname"><a href="../../d1/d07/a03482.html#a32dfba2d10d91879403874fc75b928fda8cc308de4e117be878954235d6580c5e">ANNOUNCER_FLAG_DISABLE_AUTOBROADCAST</a></div><div class="ttdeci">@ ANNOUNCER_FLAG_DISABLE_AUTOBROADCAST</div><div class="ttdef"><b>Definition:</b> PlayerSettings.h:36</div></div>
+<div class="ttc" id="aa07538_html_a5123e186b501687e38dcde7ab51b42b4"><div class="ttname"><a href="../../d3/ddf/a07538.html#a5123e186b501687e38dcde7ab51b42b4">ChatHandler::SendWorldTextOptional</a></div><div class="ttdeci">void SendWorldTextOptional(std::string_view str, uint32 flag)</div><div class="ttdef"><b>Definition:</b> Chat.cpp:143</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00048">_autobroadcasts</a>, <a class="el" href="../../#l00036">ANNOUNCER_FLAG_DISABLE_AUTOBROADCAST</a>, <a class="el" href="../../#l00131">DEFAULT_LOCALE</a>, <a class="el" href="../../#l00444">ChatHandler::DoForAllValidSessions()</a>, <a class="el" href="../../#l01419">ObjectMgr::GetLocaleString()</a>, <a class="el" href="../../#l02005">Player::GetSession()</a>, and <a class="el" href="../../#l00143">ChatHandler::SendWorldTextOptional()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00107">SendAutobroadcasts()</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a364a78eb7a4b44bbd24188647d3a4f4e" name="a364a78eb7a4b44bbd24188647d3a4f4e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a364a78eb7a4b44bbd24188647d3a4f4e">&#9670;&#160;</a></span>m_BattlefieldMap</h2>
+<a id="a3889edc4001e26519d9df042a8b477fc" name="a3889edc4001e26519d9df042a8b477fc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3889edc4001e26519d9df042a8b477fc">&#9670;&#160;</a></span>_announceType</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -717,7 +577,7 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d9/d41/a07174.html#aea781a60967fbc877bd1593628cdf32d">BattlefieldMap</a> BattlefieldMgr::m_BattlefieldMap</td>
+          <td class="memname"><a class="el" href="../../dd/d51/a03842.html#a28a4ef2f64643c76d8be05bf9eafc731">AnnounceType</a> AutobroadcastMgr::_announceType</td>
         </tr>
       </table>
   </td>
@@ -727,12 +587,12 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00079">AddZone()</a>, <a class="el" href="../../#l00110">GetBattlefieldToZoneId()</a>, <a class="el" href="../../#l00145">GetZoneScript()</a>, <a class="el" href="../../#l00084">HandlePlayerEnterZone()</a>, and <a class="el" href="../../#l00097">HandlePlayerLeaveZone()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00030">LoadAutobroadcasts()</a>, and <a class="el" href="../../#l00107">SendAutobroadcasts()</a>.</p>
 
 </div>
 </div>
-<a id="a0ca3259d6262b725ee46c5d29f375585" name="a0ca3259d6262b725ee46c5d29f375585"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0ca3259d6262b725ee46c5d29f375585">&#9670;&#160;</a></span>m_BattlefieldSet</h2>
+<a id="a06d42010fea307a03aac0ca4e6886f1d" name="a06d42010fea307a03aac0ca4e6886f1d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a06d42010fea307a03aac0ca4e6886f1d">&#9670;&#160;</a></span>_autobroadcasts</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -741,7 +601,7 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d9/d41/a07174.html#a440a0f37414815a060e23ac6b79ca3c5">BattlefieldSet</a> BattlefieldMgr::m_BattlefieldSet</td>
+          <td class="memname"><a class="el" href="../../d9/d41/a07174.html#a9064ad588e8a02d9b60974af4da1c7cf">AutobroadcastsMap</a> AutobroadcastMgr::_autobroadcasts</td>
         </tr>
       </table>
   </td>
@@ -751,12 +611,12 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00123">GetBattlefieldByBattleId()</a>, <a class="el" href="../../#l00041">InitBattlefield()</a>, <a class="el" href="../../#l00133">Update()</a>, and <a class="el" href="../../#l00028">~BattlefieldMgr()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00030">LoadAutobroadcasts()</a>, <a class="el" href="../../#l00069">LoadAutobroadcastsLocalized()</a>, <a class="el" href="../../#l00107">SendAutobroadcasts()</a>, <a class="el" href="../../#l00184">SendNotificationAnnouncement()</a>, and <a class="el" href="../../#l00162">SendWorldAnnouncement()</a>.</p>
 
 </div>
 </div>
-<a id="a4818f48ea741ae5b6b588eed9719d0ec" name="a4818f48ea741ae5b6b588eed9719d0ec"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4818f48ea741ae5b6b588eed9719d0ec">&#9670;&#160;</a></span>m_UpdateTimer</h2>
+<a id="aadbd8ca926a64be4fbbe832fd633ee88" name="aadbd8ca926a64be4fbbe832fd633ee88"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aadbd8ca926a64be4fbbe832fd633ee88">&#9670;&#160;</a></span>_autobroadcastsWeights</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -765,7 +625,7 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> BattlefieldMgr::m_UpdateTimer</td>
+          <td class="memname"><a class="el" href="../../d9/d41/a07174.html#a75e5b978794a7010c8d9d3390d8690f9">AutobroadcastsWeightMap</a> AutobroadcastMgr::_autobroadcastsWeights</td>
         </tr>
       </table>
   </td>
@@ -775,7 +635,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00022">BattlefieldMgr()</a>, and <a class="el" href="../../#l00133">Update()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00030">LoadAutobroadcasts()</a>, and <a class="el" href="../../#l00107">SendAutobroadcasts()</a>.</p>
 
 </div>
 </div>
@@ -784,8 +644,8 @@ Private Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d9/d41/a07174.html">BattlefieldMgr</a></li>
-    <li class="footer">Generated on Mon Sep 1 2025 20:43:31 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d9/d41/a07174.html">AutobroadcastMgr</a></li>
+    <li class="footer">Generated on Mon Sep 8 2025 20:44:36 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

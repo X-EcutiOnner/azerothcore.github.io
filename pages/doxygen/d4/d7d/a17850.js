@@ -1,9 +1,6 @@
 var a17850 =
 [
-    [ "CalculatePower", "d4/d7d/a17850.html#a66acc23548f88c31e9fe45db76af2bcc", null ],
-    [ "Load", "d4/d7d/a17850.html#a820032e169929fd9969ecf1ee2c7f1be", null ],
-    [ "PrepareSpellScript", "d4/d7d/a17850.html#a49489a8e4e39735efa560f53236dfc2c", null ],
-    [ "PreventPowerGainOnHit", "d4/d7d/a17850.html#a5eebe6f82a6d7306d6e232b755531939", null ],
-    [ "Register", "d4/d7d/a17850.html#a67b59c096848adaad5566cbc2140da59", null ],
-    [ "Validate", "d4/d7d/a17850.html#a355500a6f3bfed084030738041d0e3b9", null ]
+    [ "IgbTeleportOnVictoryCheck", "d4/d7d/a17850.html#a29ee8cac93b9920e598da9205406e608", null ],
+    [ "operator()", "d4/d7d/a17850.html#acf85943e238179e911434358f1593be2", null ],
+    [ "_inst", "d4/d7d/a17850.html#a015353ecb66da16c697152b7ad3c527e", null ]
 ];

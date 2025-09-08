@@ -1,6 +1,9 @@
 var a27406 =
 [
-    [ "go_bear_trapAI", "d1/d05/a27410.html", "d1/d05/a27410" ],
-    [ "go_bear_trap", "d6/d8d/a27406.html#a6301aa23009ac2599fc37b81bb3a0750", null ],
-    [ "GetAI", "d6/d8d/a27406.html#afb882fd4cc2e4379bb8d5afff210a679", null ]
+    [ "go_tadpole_cageAI", "d6/d8d/a27406.html#a87dc192a13cecf834d49cd04451224cd", null ],
+    [ "GossipHello", "d6/d8d/a27406.html#a5c59db4b4d21b9e7de9bbb8835f31f2a", null ],
+    [ "OnStateChanged", "d6/d8d/a27406.html#aa545ba4659b288c1ce1f5c2332d5e61f", null ],
+    [ "SummonTadpoles", "d6/d8d/a27406.html#ab4903827c78b1b042cc17aef661a0b4f", null ],
+    [ "UpdateAI", "d6/d8d/a27406.html#af6d4f5c3fe822815f58665a0207e3c32", null ],
+    [ "requireSummon", "d6/d8d/a27406.html#a9884081855fc45776a6b12b9a68890e4", null ]
 ];

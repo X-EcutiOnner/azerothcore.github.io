@@ -1,6 +1,7 @@
 var a13870 =
 [
-    [ "npc_parqual_fintallas", "d4/d3e/a13870.html#a9edaf1f7cf4e81ce24c54faa4aed6cf6", null ],
-    [ "OnGossipHello", "d4/d3e/a13870.html#af7c1f119d91aa63ee96765f2092b0a6c", null ],
-    [ "OnGossipSelect", "d4/d3e/a13870.html#a39276ef82ec5214a1727ebd60235a506", null ]
+    [ "npc_lady_sylvanas_windrunnerAI", "d6/dae/a13874.html", "d6/dae/a13874" ],
+    [ "npc_lady_sylvanas_windrunner", "d4/d3e/a13870.html#ab3da21f58b68003f50cf0c3d5ce22028", null ],
+    [ "GetAI", "d4/d3e/a13870.html#abc382c04be0a8ed46299d1c4b2d008dc", null ],
+    [ "OnQuestReward", "d4/d3e/a13870.html#ae0031c5305a03a376dd84e950eb4a23b", null ]
 ];

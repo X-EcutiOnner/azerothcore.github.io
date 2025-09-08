@@ -1,5 +1,5 @@
 var a27198 =
 [
-    [ "achievement_everything_counts", "dc/d2b/a27198.html#af18e6b3128a9d722c98f33f7ec6430b3", null ],
-    [ "OnCheck", "dc/d2b/a27198.html#a81741a8df4d10b37314ec8ef09eb888b", null ]
+    [ "achievement_bg_ic_glaive_grave", "dc/d2b/a27198.html#a97e1cead0102a120b3bd14592ea26034", null ],
+    [ "OnCheck", "dc/d2b/a27198.html#a0eacab5595969cfe5e3d083c984dfd77", null ]
 ];

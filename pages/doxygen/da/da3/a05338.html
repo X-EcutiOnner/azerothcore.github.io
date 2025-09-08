@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: Acore::Encoding::Base64 Struct Reference</title>
+<title>AzerothCore: TypeList&lt; HEAD, TAIL &gt; Struct Template Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,84 +105,53 @@ $(document).ready(function(){initNavTree('da/da3/a05338.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#pub-static-methods">Static Public Member Functions</a> &#124;
+<a href="#pub-types">Public Types</a> &#124;
 <a href="../../d5/d15/a05335.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">Acore::Encoding::Base64 Struct Reference</div></div>
+  <div class="headertitle"><div class="title">TypeList&lt; HEAD, TAIL &gt; Struct Template Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">Base64.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">TypeList.h</a>&quot;</code></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
-Static Public Member Functions</h2></td></tr>
-<tr class="memitem:a2b0f76655d4e56d8a7aa9a98de87f6cf"><td class="memItemLeft" align="right" valign="top">static std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/da3/a05338.html#a2b0f76655d4e56d8a7aa9a98de87f6cf">Encode</a> (std::vector&lt; <a class="el" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> &gt; const &amp;data)</td></tr>
-<tr class="separator:a2b0f76655d4e56d8a7aa9a98de87f6cf"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9c18a834b227a8f60104100bd5c47df5"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d5/df9/a00044.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a>&lt; std::vector&lt; <a class="el" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> &gt; &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/da3/a05338.html#a9c18a834b227a8f60104100bd5c47df5">Decode</a> (std::string const &amp;data)</td></tr>
-<tr class="separator:a9c18a834b227a8f60104100bd5c47df5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-types" name="pub-types"></a>
+Public Types</h2></td></tr>
+<tr class="memitem:ac5c6d38e71241055f58984e88368494a"><td class="memItemLeft" align="right" valign="top">typedef HEAD&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/da3/a05338.html#ac5c6d38e71241055f58984e88368494a">Head</a></td></tr>
+<tr class="separator:ac5c6d38e71241055f58984e88368494a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8b16ba737e930ebc023b8cea8231f678"><td class="memItemLeft" align="right" valign="top">typedef TAIL&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/da3/a05338.html#a8b16ba737e930ebc023b8cea8231f678">Tail</a></td></tr>
+<tr class="separator:a8b16ba737e930ebc023b8cea8231f678"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
-<a id="a9c18a834b227a8f60104100bd5c47df5" name="a9c18a834b227a8f60104100bd5c47df5"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9c18a834b227a8f60104100bd5c47df5">&#9670;&#160;</a></span>Decode()</h2>
+<div class="textblock"><div class="compoundTemplParams">template&lt;typename HEAD, typename TAIL&gt;<br />
+struct TypeList&lt; HEAD, TAIL &gt;</div></div><h2 class="groupheader">Member Typedef Documentation</h2>
+<a id="ac5c6d38e71241055f58984e88368494a" name="ac5c6d38e71241055f58984e88368494a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac5c6d38e71241055f58984e88368494a">&#9670;&#160;</a></span>Head</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
+<div class="memtemplate">
+template&lt;typename HEAD , typename TAIL &gt; </div>
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d5/df9/a00044.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a>&lt; std::vector&lt; <a class="el" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> &gt; &gt; Acore::Encoding::Base64::Decode </td>
-          <td>(</td>
-          <td class="paramtype">std::string const &amp;&#160;</td>
-          <td class="paramname"><em>data</em></td><td>)</td>
-          <td></td>
+          <td class="memname">typedef HEAD <a class="el" href="../../da/da3/a05338.html">TypeList</a>&lt; HEAD, TAIL &gt;::Head</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   55</span>{</div>
-<div class="line"><span class="lineno">   56</span>    <span class="keywordflow">return</span> <a class="code hl_function" href="../../dc/dbc/a05342.html#a1017c0ca9db8f38832271dbe04a6c22c">Acore::Impl::GenericBaseEncoding&lt;B64Impl&gt;::Decode</a>(data);</div>
-<div class="line"><span class="lineno">   57</span>}</div>
-<div class="ttc" id="aa05342_html_a1017c0ca9db8f38832271dbe04a6c22c"><div class="ttname"><a href="../../dc/dbc/a05342.html#a1017c0ca9db8f38832271dbe04a6c22c">Acore::Impl::GenericBaseEncoding::Decode</a></div><div class="ttdeci">static Optional&lt; std::vector&lt; uint8 &gt; &gt; Decode(std::string const &amp;data)</div><div class="ttdef"><b>Definition:</b> BaseEncoding.h:113</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00113">Acore::Impl::GenericBaseEncoding&lt; Encoding &gt;::Decode()</a>.</p>
 
 </div>
 </div>
-<a id="a2b0f76655d4e56d8a7aa9a98de87f6cf" name="a2b0f76655d4e56d8a7aa9a98de87f6cf"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2b0f76655d4e56d8a7aa9a98de87f6cf">&#9670;&#160;</a></span>Encode()</h2>
+<a id="a8b16ba737e930ebc023b8cea8231f678" name="a8b16ba737e930ebc023b8cea8231f678"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8b16ba737e930ebc023b8cea8231f678">&#9670;&#160;</a></span>Tail</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
+<div class="memtemplate">
+template&lt;typename HEAD , typename TAIL &gt; </div>
       <table class="memname">
         <tr>
-          <td class="memname">std::string Acore::Encoding::Base64::Encode </td>
-          <td>(</td>
-          <td class="paramtype">std::vector&lt; <a class="el" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> &gt; const &amp;&#160;</td>
-          <td class="paramname"><em>data</em></td><td>)</td>
-          <td></td>
+          <td class="memname">typedef TAIL <a class="el" href="../../da/da3/a05338.html">TypeList</a>&lt; HEAD, TAIL &gt;::Tail</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   50</span>{</div>
-<div class="line"><span class="lineno">   51</span>    <span class="keywordflow">return</span> <a class="code hl_function" href="../../dc/dbc/a05342.html#a9132df0434948b03df8f79b6cc48252c">Acore::Impl::GenericBaseEncoding&lt;B64Impl&gt;::Encode</a>(data);</div>
-<div class="line"><span class="lineno">   52</span>}</div>
-<div class="ttc" id="aa05342_html_a9132df0434948b03df8f79b6cc48252c"><div class="ttname"><a href="../../dc/dbc/a05342.html#a9132df0434948b03df8f79b6cc48252c">Acore::Impl::GenericBaseEncoding::Encode</a></div><div class="ttdeci">static std::string Encode(std::vector&lt; uint8 &gt; const &amp;data)</div><div class="ttdef"><b>Definition:</b> BaseEncoding.h:60</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00060">Acore::Impl::GenericBaseEncoding&lt; Encoding &gt;::Encode()</a>.</p>
 
 </div>
 </div>
@@ -191,8 +160,8 @@ Static Public Member Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d3/d7d/a04797.html">Acore</a></li><li class="navelem"><a class="el" href="../../d9/d3b/a04812.html">Encoding</a></li><li class="navelem"><a class="el" href="../../da/da3/a05338.html">Base64</a></li>
-    <li class="footer">Generated on Mon Sep 1 2025 20:44:46 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../da/da3/a05338.html">TypeList</a></li>
+    <li class="footer">Generated on Mon Sep 8 2025 20:45:48 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,10 +1,10 @@
 var a06170 =
 [
-    [ "RangeSelector", "d4/de0/a06170.html#a4a87b90485180ede638e2c9bd2a7e9ed", null ],
-    [ "operator()", "d4/de0/a06170.html#a917f21b135f402210d21e6bb3f19b9fa", null ],
-    [ "_inLos", "d4/de0/a06170.html#a9dcf455d9db8d32aaebfc46eee36e1b5", null ],
-    [ "_maxDist", "d4/de0/a06170.html#a973ec93b54a839f853101ad5998c10b2", null ],
-    [ "_me", "d4/de0/a06170.html#a72ad35c7de0b5d540be27d9a9d46a1d4", null ],
-    [ "_minDist", "d4/de0/a06170.html#ac1ce7a7a7ad6d033972b449867a1c5bf", null ],
-    [ "_playerOnly", "d4/de0/a06170.html#ac68f7dfefe2e71942a3dfff7026a7ae7", null ]
+    [ "DefaultTargetSelector", "d4/de0/a06170.html#a4ec61d03309c7d8a977afb2060b549a3", null ],
+    [ "operator()", "d4/de0/a06170.html#aa028e0b06c45bc1eaaa8ca0bb2208a35", null ],
+    [ "except", "d4/de0/a06170.html#ad7b04bc5bd7c5cd139d0d56fbb6f9f4e", null ],
+    [ "m_aura", "d4/de0/a06170.html#a93cae8f794de101a6a0a821961c312b8", null ],
+    [ "m_dist", "d4/de0/a06170.html#a57b3cdce9605ab6ff6bdfdf7bf264a5f", null ],
+    [ "m_playerOnly", "d4/de0/a06170.html#aa7d50214f6fcb051279373e3373a6f68", null ],
+    [ "me", "d4/de0/a06170.html#a4e468ce5a085ef402659db46f71d6262", null ]
 ];

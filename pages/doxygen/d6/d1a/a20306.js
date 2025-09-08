@@ -1,6 +1,6 @@
 var a20306 =
 [
-    [ "npc_ulduar_saronite_animusAI", "d2/dcf/a20310.html", "d2/dcf/a20310" ],
-    [ "npc_ulduar_saronite_animus", "d6/d1a/a20306.html#a22d552adc9db3f7d2a533ab7f58a2470", null ],
-    [ "GetAI", "d6/d1a/a20306.html#a1fdd851e9d6e399f8f57d063a7dbd6d9", null ]
+    [ "boss_vezaxAI", "d2/dcf/a20310.html", "d2/dcf/a20310" ],
+    [ "boss_vezax", "d6/d1a/a20306.html#af778f9ef3070598f8ca5109b2f6f0f82", null ],
+    [ "GetAI", "d6/d1a/a20306.html#a55c7f1ee93252768ba02e8d0d4634eb9", null ]
 ];

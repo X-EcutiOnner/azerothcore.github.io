@@ -1,6 +1,7 @@
 var a13754 =
 [
-    [ "npc_rinjiAI", "dc/d42/a13758.html", "dc/d42/a13758" ],
-    [ "npc_rinji", "df/de9/a13754.html#af89b9c77b1a57dc506de0398a0d4b957", null ],
-    [ "GetAI", "df/de9/a13754.html#a5457ac00ce0b195752640358b912af10", null ]
+    [ "npc_ranger_lilatha", "df/de9/a13754.html#abd13a89b41a289edefb9bc21588f8d29", null ],
+    [ "Reset", "df/de9/a13754.html#a3e804e483b51961193ee1079caba40be", null ],
+    [ "sQuestAccept", "df/de9/a13754.html#acc38d4feacb5e7fa5ce9658b10447c4d", null ],
+    [ "WaypointReached", "df/de9/a13754.html#a193bd47c7d7c4fb3d832a59bf55e8412", null ]
 ];

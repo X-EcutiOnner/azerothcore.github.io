@@ -1,7 +1,10 @@
 var a12426 =
 [
-    [ "HandlePeriodic", "d7/d02/a12426.html#ac2196cc9de34e286581d44d147fe9d04", null ],
-    [ "PrepareAuraScript", "d7/d02/a12426.html#a149c974371f23268d2d929b483637b14", null ],
-    [ "Register", "d7/d02/a12426.html#a6a2f42867a7082d2b8406c651d5dc484", null ],
-    [ "Validate", "d7/d02/a12426.html#ab77b8a7dca3dc9bbd20cdb498d1d317e", null ]
+    [ "npc_corrupted_totem", "d7/d02/a12426.html#a5e0c58b341fe25a5d682b68e9eee207f", null ],
+    [ "IsSummonedBy", "d7/d02/a12426.html#ae8314903c9006b7bca94a47115a0d05b", null ],
+    [ "JustDied", "d7/d02/a12426.html#aa3c6b1a3df61c9e98c62efadff637578", null ],
+    [ "Reset", "d7/d02/a12426.html#a0bc8df2b8266b7b3a5f40f1ede0e10b4", null ],
+    [ "SetAura", "d7/d02/a12426.html#a509688befda49f789f77ee0e4170a74e", null ],
+    [ "UpdateAI", "d7/d02/a12426.html#ac128625268820d2e9b1f0ef5ead975e9", null ],
+    [ "_auraAdded", "d7/d02/a12426.html#a953cf5af625b9b5a4ab6704d5b1b664c", null ]
 ];

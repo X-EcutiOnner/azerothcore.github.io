@@ -1,6 +1,6 @@
 var a14242 =
 [
-    [ "OnRemove", "d7/d5b/a14242.html#a2a745fd8afa0d3d18684a9b8b091eb7e", null ],
-    [ "PrepareAuraScript", "d7/d5b/a14242.html#a01eb4b37925b9c2fb8ce82d9808c270f", null ],
-    [ "Register", "d7/d5b/a14242.html#ad2ae9bfa13c625608af9042584a9bfb8", null ]
+    [ "npc_ohganAI", "d8/dda/a14246.html", "d8/dda/a14246" ],
+    [ "npc_ohgan", "d7/d5b/a14242.html#ae391f2b36c68952ca5eaf773c29cbcad", null ],
+    [ "GetAI", "d7/d5b/a14242.html#a129dc2fcd449850403e0dcb99725da90", null ]
 ];

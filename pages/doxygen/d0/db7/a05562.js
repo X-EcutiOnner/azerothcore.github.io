@@ -1,6 +1,6 @@
 var a05562 =
 [
-    [ "FromString", "d0/db7/a05562.html#a9d10adc7fc7e9ba967ce0704ff369019", null ],
-    [ "FromString", "d0/db7/a05562.html#a465a6f446d3482578b583d54f0109516", null ],
-    [ "ToString", "d0/db7/a05562.html#a8e3130708d0068bd82f9c2861b130303", null ]
+    [ "~AsyncProcessResult", "d0/db7/a05562.html#a16f0ce13c7401ce07e91b349c91365e0", null ],
+    [ "GetFutureResult", "d0/db7/a05562.html#ae0bd36d094d1fc5e325a7b7af1dd0ee8", null ],
+    [ "Terminate", "d0/db7/a05562.html#af3951c38d2b368c15c0ac7d415b96ebd", null ]
 ];

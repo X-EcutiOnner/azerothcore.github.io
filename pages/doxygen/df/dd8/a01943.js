@@ -1,9 +1,9 @@
 var a01943 =
 [
-    [ "boss_slad_ran", "d4/d1a/a17402.html", "d4/d1a/a17402" ],
-    [ "boss_slad_ran::boss_slad_ranAI", "db/d9a/a17406.html", "db/d9a/a17406" ],
-    [ "spell_sladran_grip_of_sladran_aura", "d4/d4b/a17410.html", "d4/d4b/a17410" ],
-    [ "achievement_snakes_whyd_it_have_to_be_snakes", "df/d3e/a17414.html", "df/d3e/a17414" ],
+    [ "boss_slad_ran", "d7/d50/a17418.html", "d7/d50/a17418" ],
+    [ "boss_slad_ran::boss_slad_ranAI", "de/d44/a17422.html", "de/d44/a17422" ],
+    [ "spell_sladran_grip_of_sladran_aura", "de/d00/a17426.html", "de/d00/a17426" ],
+    [ "achievement_snakes_whyd_it_have_to_be_snakes", "d4/d6d/a17430.html", "d4/d6d/a17430" ],
     [ "Misc", "df/dd8/a01943.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "DATA_SKILLPOINT_MIN", "d4/d70/a02579.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3093ddfcacf2742f4fb344843e2e7ce6", null ],
       [ "NEFARIUS_PATH_2", "d7/da8/a02522.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],

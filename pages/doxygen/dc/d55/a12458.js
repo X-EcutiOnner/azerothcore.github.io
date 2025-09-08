@@ -1,6 +1,7 @@
 var a12458 =
 [
-    [ "HandleOnHit", "dc/d55/a12458.html#a804097903354ab3a730f0fe3eb5ec863", null ],
-    [ "PrepareSpellScript", "dc/d55/a12458.html#aea221ad6fb1a30bec6fee0c3a67d01b0", null ],
-    [ "Register", "dc/d55/a12458.html#a53bed6f1af71fd309a04bc004d07be80", null ]
+    [ "HandleDummy", "dc/d55/a12458.html#a21c5eb1511cb4035f795ff1d22797e34", null ],
+    [ "PrepareSpellScript", "dc/d55/a12458.html#a5308de47023b89e4ff8680158a502ac0", null ],
+    [ "Register", "dc/d55/a12458.html#a5f148d259b1102b1046e6a3ac096fea8", null ],
+    [ "Validate", "dc/d55/a12458.html#a75f89d90b9e68288e54e1e0bd3b2ce98", null ]
 ];

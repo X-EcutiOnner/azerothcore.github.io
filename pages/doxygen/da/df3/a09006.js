@@ -1,10 +1,18 @@
 var a09006 =
 [
-    [ "PetLevelInfo", "da/df3/a09006.html#ad8e757abeae500063e963ffef5469809", null ],
-    [ "armor", "da/df3/a09006.html#ab7097f75cf86bd6f135f21dace61a89e", null ],
-    [ "health", "da/df3/a09006.html#a322dcab3af8f98726aa6addf38e8891b", null ],
-    [ "mana", "da/df3/a09006.html#a27352e73d6ed3945e398e0634dee1e96", null ],
-    [ "max_dmg", "da/df3/a09006.html#a092f2600f64f2af885142b2e96d1fe64", null ],
-    [ "min_dmg", "da/df3/a09006.html#a299d1c7f4c28893e09de79cd816afa95", null ],
-    [ "stats", "da/df3/a09006.html#a897aabacdbe9cbc4afcc40ab059c12be", null ]
+    [ "BroadcastText", "da/df3/a09006.html#abab322532f769f25ad0241422e066c3c", null ],
+    [ "GetText", "da/df3/a09006.html#a5002c01e04536db717167eb7d0f4c5ec", null ],
+    [ "EmoteDelay1", "da/df3/a09006.html#a627971cd4d55f9e3e17c885791a0cfbf", null ],
+    [ "EmoteDelay2", "da/df3/a09006.html#a101f8fcc99c6badc2a7b05a9f18aa0f5", null ],
+    [ "EmoteDelay3", "da/df3/a09006.html#ad54e97026a67329529daaa30f997a89a", null ],
+    [ "EmoteId1", "da/df3/a09006.html#acc72081442b6a4544533a3084b5240da", null ],
+    [ "EmoteId2", "da/df3/a09006.html#a519449d0a5cc67e758f39c154e22f853", null ],
+    [ "EmoteId3", "da/df3/a09006.html#acbce2101751bdaed47315c23f5058a7b", null ],
+    [ "EmotesID", "da/df3/a09006.html#a2c7c03c32d8fe589507b575fc5c2138f", null ],
+    [ "FemaleText", "da/df3/a09006.html#a255f95912612f11867611093ebc23a59", null ],
+    [ "Flags", "da/df3/a09006.html#af07f883cd3deb5a1a59e23aa058e6c78", null ],
+    [ "Id", "da/df3/a09006.html#a12594a2bbd643a1968726db708a35b79", null ],
+    [ "LanguageID", "da/df3/a09006.html#a35ea9cc4ebd2680988e610f344086c86", null ],
+    [ "MaleText", "da/df3/a09006.html#ab30526857fe7c7c945d84931ffa4c416", null ],
+    [ "SoundEntriesId", "da/df3/a09006.html#aae69d8b9ca72f1cb20869b69a9601595", null ]
 ];

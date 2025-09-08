@@ -1,7 +1,6 @@
 var a17282 =
 [
-    [ "HandleEffectPeriodic", "d7/dbc/a17282.html#a370e2cbf796c1bc0a891243b61c057e1", null ],
-    [ "PrepareAuraScript", "d7/dbc/a17282.html#ac0cb90fe9bfa7f371cc5469626ce2467", null ],
-    [ "Register", "d7/dbc/a17282.html#a5a44978cec95fef30c9ea4308bda2508", null ],
-    [ "Validate", "d7/dbc/a17282.html#a8b9f7d76f86f1a5abffdead3ebee694a", null ]
+    [ "npc_pos_freed_slaveAI", "de/d11/a17286.html", "de/d11/a17286" ],
+    [ "npc_pos_freed_slave", "d7/dbc/a17282.html#a19fd79279646cb1c49c04056636615fc", null ],
+    [ "GetAI", "d7/dbc/a17282.html#ac798c2584d48892162cc2bc779701e16", null ]
 ];

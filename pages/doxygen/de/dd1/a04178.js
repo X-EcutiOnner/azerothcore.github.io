@@ -1,6 +1,6 @@
 var a04178 =
 [
-    [ "GroupScript", "d6/d4e/a10342.html", "d6/d4e/a10342" ],
+    [ "GroupScript", "d5/d3b/a10358.html", "d5/d3b/a10358" ],
     [ "GroupHook", "de/dd1/a04178.html#a373b3fe6b402e8321892b8c1be74ab5d", [
       [ "GROUPHOOK_ON_ADD_MEMBER", "de/dd1/a04178.html#a373b3fe6b402e8321892b8c1be74ab5da3800aeea2a91eebb3ccdd533a8dfc681", null ],
       [ "GROUPHOOK_ON_INVITE_MEMBER", "de/dd1/a04178.html#a373b3fe6b402e8321892b8c1be74ab5da4f30d67b987f0ade961e34bce95e85fe", null ],

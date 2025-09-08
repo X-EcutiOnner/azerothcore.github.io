@@ -1,8 +1,8 @@
 var a06094 =
 [
-    [ "ArcherAI", "d4/dc6/a06094.html#a113c138958054716182c15ee9f2b47da", null ],
-    [ "AttackStart", "d4/dc6/a06094.html#adc79f7ead63ecaf8fed9ea4f81d27f76", null ],
-    [ "Permissible", "d4/dc6/a06094.html#ac5b3d144b0d71a5e527d53f33c3d31cc", null ],
-    [ "UpdateAI", "d4/dc6/a06094.html#aa6e072e239549d337de61670a05eb6f8", null ],
-    [ "m_minRange", "d4/dc6/a06094.html#ab449efcd81769888ff8d8bc5f348cbe7", null ]
+    [ "BannedAddon", "d4/dc6/a06094.html#aadd8cb8602ec03455a91b4f49767fdc8", null ],
+    [ "Id", "d4/dc6/a06094.html#aa7d9dbd83fd1ef10fb125c798e293606", null ],
+    [ "NameMD5", "d4/dc6/a06094.html#a67c4437044d747ff9867a71967697767", null ],
+    [ "Timestamp", "d4/dc6/a06094.html#af62257c39a4ae1eba959086e981b0d19", null ],
+    [ "VersionMD5", "d4/dc6/a06094.html#acb8dbe824f71363eb81504f43a126d96", null ]
 ];

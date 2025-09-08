@@ -1,7 +1,7 @@
 var a26698 =
 [
-    [ "HandleScript", "df/d3c/a26698.html#ad22b87be8f47886650d7bf9e98eee495", null ],
-    [ "PrepareSpellScript", "df/d3c/a26698.html#a806f934cd684039425ce3fca037b0e8c", null ],
-    [ "Register", "df/d3c/a26698.html#a9bd3ea5aa5fb16aac87f6097db31e113", null ],
-    [ "Validate", "df/d3c/a26698.html#a96d189c452a969850121323faef1d9c1", null ]
+    [ "HandleDummy", "df/d3c/a26698.html#a4c837e7342603519d1f23ab8702c3160", null ],
+    [ "PrepareSpellScript", "df/d3c/a26698.html#ae9d6ab0c9b9cf87f7b86f28e9bb25371", null ],
+    [ "Register", "df/d3c/a26698.html#a16a5ca3ec9a8c463c9a2975fa29eb1e9", null ],
+    [ "Validate", "df/d3c/a26698.html#ad742f4ce0d0db70427f7ba849a4526df", null ]
 ];

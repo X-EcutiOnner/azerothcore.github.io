@@ -1,10 +1,13 @@
 var a07442 =
 [
-    [ "BattlegroundRL", "d8/ddb/a07442.html#ae2e0ccf2badc174b7f5c909f805fe669", null ],
-    [ "FillInitialWorldStates", "d8/ddb/a07442.html#a410a5dbfa6fccbe802058d60eb7393d9", null ],
-    [ "HandleAreaTrigger", "d8/ddb/a07442.html#ad1184e3e2f09a6665d40a75006e6f863", null ],
-    [ "HandlePlayerUnderMap", "d8/ddb/a07442.html#a2d03a49dee964bcaa3421a93d0735e63", null ],
-    [ "SetupBattleground", "d8/ddb/a07442.html#a3393353028ffd35eaad1d5e121654366", null ],
-    [ "StartingEventCloseDoors", "d8/ddb/a07442.html#aae633887d9689898c8b73efa8257eb34", null ],
-    [ "StartingEventOpenDoors", "d8/ddb/a07442.html#adb2ec6770c2b25b94f8f7dff7486d5cf", null ]
+    [ "banners", "d8/ddb/a07442.html#a07c98125c64d119232fec9cc80050537", null ],
+    [ "faction", "d8/ddb/a07442.html#ab3758f67da3dcb507bb1acab575e2836", null ],
+    [ "gameobject_entry", "d8/ddb/a07442.html#ae80024986e048e05dca174d6b14964d3", null ],
+    [ "gameobject_type", "d8/ddb/a07442.html#ac4760cba40ba8916d66cae3712f7c641", null ],
+    [ "last_entry", "d8/ddb/a07442.html#a968d6f412ba88b9577429910ffa511a5", null ],
+    [ "needChange", "d8/ddb/a07442.html#acecd97e26d19c82e934817ecbc2afce9", null ],
+    [ "nodeState", "d8/ddb/a07442.html#a214e160c6fd94cefb4d080a94a12ba56", null ],
+    [ "nodeType", "d8/ddb/a07442.html#a3b303a427c4a2248dade5eada6774dc9", null ],
+    [ "timer", "d8/ddb/a07442.html#a434605ed0efcc262057a65d7cd8d0128", null ],
+    [ "worldStates", "d8/ddb/a07442.html#ae5d3b4b37fc5b7983c08b54d94d6c3d2", null ]
 ];

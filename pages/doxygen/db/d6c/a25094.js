@@ -1,6 +1,6 @@
 var a25094 =
 [
-    [ "CheckProc", "db/d6c/a25094.html#a21cda631d861161c370a44a2fd2fd2f7", null ],
-    [ "PrepareAuraScript", "db/d6c/a25094.html#a861caa47c502c42fa84d9f9de74df024", null ],
-    [ "Register", "db/d6c/a25094.html#ab4275de186b6841a1f424863cb6c128c", null ]
+    [ "PrepareAuraScript", "db/d6c/a25094.html#a8a60db6939ba71ddcf723fb4e48b3146", null ],
+    [ "Register", "db/d6c/a25094.html#a8ab913cf84f55428d2b0615172f3da3b", null ],
+    [ "AuraEffectHandleModes", "db/d6c/a25094.html#aed1cfe63d82450b526e154678fb97ac4", null ]
 ];

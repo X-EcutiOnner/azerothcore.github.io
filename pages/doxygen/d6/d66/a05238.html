@@ -1260,13 +1260,13 @@ Static Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  966</span>    }</div>
 <div class="line"><span class="lineno">  967</span>    __except (EXCEPTION_EXECUTE_HANDLER)</div>
 <div class="line"><span class="lineno">  968</span>    {</div>
-<div class="line"><span class="lineno">  969</span>        <a class="code hl_class" href="../../d8/d1d/a05370.html">Log</a>(_T(<span class="stringliteral">&quot;punting on symbol %s, partial output:\r\n&quot;</span>), pSymInfo-&gt;Name);</div>
+<div class="line"><span class="lineno">  969</span>        <a class="code hl_class" href="../../d0/d12/a05386.html">Log</a>(_T(<span class="stringliteral">&quot;punting on symbol %s, partial output:\r\n&quot;</span>), pSymInfo-&gt;Name);</div>
 <div class="line"><span class="lineno">  970</span>    }</div>
 <div class="line"><span class="lineno">  971</span> </div>
 <div class="line"><span class="lineno">  972</span>    <span class="keywordflow">return</span> TRUE;</div>
 <div class="line"><span class="lineno">  973</span>}</div>
 <div class="ttc" id="aa05238_html_a749bbb7b98ba5b38c146cf0fa7a6e869"><div class="ttname"><a href="../../d6/d66/a05238.html#a749bbb7b98ba5b38c146cf0fa7a6e869">WheatyExceptionReport::FormatSymbolValue</a></div><div class="ttdeci">static bool FormatSymbolValue(PSYMBOL_INFO, STACKFRAME64 *)</div><div class="ttdef"><b>Definition:</b> WheatyExceptionReport.cpp:980</div></div>
-<div class="ttc" id="aa05370_html"><div class="ttname"><a href="../../d8/d1d/a05370.html">Log</a></div><div class="ttdef"><b>Definition:</b> Log.h:50</div></div>
+<div class="ttc" id="aa05386_html"><div class="ttname"><a href="../../d0/d12/a05386.html">Log</a></div><div class="ttdef"><b>Definition:</b> Log.h:50</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l01644">ClearSymbols()</a>, and <a class="el" href="../../#l00980">FormatSymbolValue()</a>.</p>
 
@@ -1576,20 +1576,20 @@ Static Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  601</span>        GetLocalTime(&amp;systime);</div>
 <div class="line"><span class="lineno">  602</span> </div>
 <div class="line"><span class="lineno">  603</span>        <span class="comment">// Start out with a banner</span></div>
-<div class="line"><span class="lineno">  604</span>        <a class="code hl_class" href="../../d8/d1d/a05370.html">Log</a>(_T(<span class="stringliteral">&quot;Revision: %s\r\n&quot;</span>), <a class="code hl_function" href="../../d0/d05/a04813.html#ad68b75fc60314941c3cbade8eafcda23">GitRevision::GetFullVersion</a>());</div>
-<div class="line"><span class="lineno">  605</span>        <a class="code hl_class" href="../../d8/d1d/a05370.html">Log</a>(_T(<span class="stringliteral">&quot;Date %u:%u:%u. Time %u:%u \r\n&quot;</span>), systime.wDay, systime.wMonth, systime.wYear, systime.wHour, systime.wMinute);</div>
+<div class="line"><span class="lineno">  604</span>        <a class="code hl_class" href="../../d0/d12/a05386.html">Log</a>(_T(<span class="stringliteral">&quot;Revision: %s\r\n&quot;</span>), <a class="code hl_function" href="../../d0/d05/a04813.html#ad68b75fc60314941c3cbade8eafcda23">GitRevision::GetFullVersion</a>());</div>
+<div class="line"><span class="lineno">  605</span>        <a class="code hl_class" href="../../d0/d12/a05386.html">Log</a>(_T(<span class="stringliteral">&quot;Date %u:%u:%u. Time %u:%u \r\n&quot;</span>), systime.wDay, systime.wMonth, systime.wYear, systime.wHour, systime.wMinute);</div>
 <div class="line"><span class="lineno">  606</span>        PEXCEPTION_RECORD pExceptionRecord = pExceptionInfo-&gt;ExceptionRecord;</div>
 <div class="line"><span class="lineno">  607</span> </div>
 <div class="line"><span class="lineno">  608</span>        <a class="code hl_function" href="../../d6/d66/a05238.html#a4f3c3ad1feee5f374492c8b523ea57a5">PrintSystemInfo</a>();</div>
 <div class="line"><span class="lineno">  609</span>        <span class="comment">// First print information about the type of fault</span></div>
-<div class="line"><span class="lineno">  610</span>        <a class="code hl_class" href="../../d8/d1d/a05370.html">Log</a>(_T(<span class="stringliteral">&quot;\r\n//=====================================================\r\n&quot;</span>));</div>
-<div class="line"><span class="lineno">  611</span>        <a class="code hl_class" href="../../d8/d1d/a05370.html">Log</a>(_T(<span class="stringliteral">&quot;Exception code: %08X %s\r\n&quot;</span>),</div>
+<div class="line"><span class="lineno">  610</span>        <a class="code hl_class" href="../../d0/d12/a05386.html">Log</a>(_T(<span class="stringliteral">&quot;\r\n//=====================================================\r\n&quot;</span>));</div>
+<div class="line"><span class="lineno">  611</span>        <a class="code hl_class" href="../../d0/d12/a05386.html">Log</a>(_T(<span class="stringliteral">&quot;Exception code: %08X %s\r\n&quot;</span>),</div>
 <div class="line"><span class="lineno">  612</span>            pExceptionRecord-&gt;ExceptionCode,</div>
 <div class="line"><span class="lineno">  613</span>            <a class="code hl_function" href="../../d6/d66/a05238.html#aca75a37502aa7a75f775913ba12025a9">GetExceptionString</a>(pExceptionRecord-&gt;ExceptionCode));</div>
 <div class="line"><span class="lineno">  614</span>        <span class="keywordflow">if</span> (pExceptionRecord-&gt;ExceptionCode == <a class="code hl_define" href="../../dc/d9a/a00218.html#adb1e581c0b1db74338cf2892218ff23f">EXCEPTION_ASSERTION_FAILURE</a> &amp;&amp; pExceptionRecord-&gt;NumberParameters &gt;= 2)</div>
 <div class="line"><span class="lineno">  615</span>        {</div>
 <div class="line"><span class="lineno">  616</span>            pExceptionRecord-&gt;ExceptionAddress = <span class="keyword">reinterpret_cast&lt;</span>PVOID<span class="keyword">&gt;</span>(pExceptionRecord-&gt;ExceptionInformation[1]);</div>
-<div class="line"><span class="lineno">  617</span>            <a class="code hl_class" href="../../d8/d1d/a05370.html">Log</a>(_T(<span class="stringliteral">&quot;Assertion message: %s\r\n&quot;</span>), pExceptionRecord-&gt;ExceptionInformation[0]);</div>
+<div class="line"><span class="lineno">  617</span>            <a class="code hl_class" href="../../d0/d12/a05386.html">Log</a>(_T(<span class="stringliteral">&quot;Assertion message: %s\r\n&quot;</span>), pExceptionRecord-&gt;ExceptionInformation[0]);</div>
 <div class="line"><span class="lineno">  618</span>        }</div>
 <div class="line"><span class="lineno">  619</span> </div>
 <div class="line"><span class="lineno">  620</span>        <span class="comment">// Now print information about where the fault occured</span></div>
@@ -1602,12 +1602,12 @@ Static Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  627</span>                          section, offset);</div>
 <div class="line"><span class="lineno">  628</span> </div>
 <div class="line"><span class="lineno">  629</span><span class="preprocessor">#ifdef _M_IX86</span></div>
-<div class="line"><span class="lineno">  630</span>        <a class="code hl_class" href="../../d8/d1d/a05370.html">Log</a>(_T(<span class="stringliteral">&quot;Fault address:  %08X %02X:%08X %s\r\n&quot;</span>),</div>
+<div class="line"><span class="lineno">  630</span>        <a class="code hl_class" href="../../d0/d12/a05386.html">Log</a>(_T(<span class="stringliteral">&quot;Fault address:  %08X %02X:%08X %s\r\n&quot;</span>),</div>
 <div class="line"><span class="lineno">  631</span>            pExceptionRecord-&gt;ExceptionAddress,</div>
 <div class="line"><span class="lineno">  632</span>            section, offset, szFaultingModule);</div>
 <div class="line"><span class="lineno">  633</span><span class="preprocessor">#endif</span></div>
 <div class="line"><span class="lineno">  634</span><span class="preprocessor">#ifdef _M_X64</span></div>
-<div class="line"><span class="lineno">  635</span>        <a class="code hl_class" href="../../d8/d1d/a05370.html">Log</a>(_T(<span class="stringliteral">&quot;Fault address:  %016I64X %02X:%016I64X %s\r\n&quot;</span>),</div>
+<div class="line"><span class="lineno">  635</span>        <a class="code hl_class" href="../../d0/d12/a05386.html">Log</a>(_T(<span class="stringliteral">&quot;Fault address:  %016I64X %02X:%016I64X %s\r\n&quot;</span>),</div>
 <div class="line"><span class="lineno">  636</span>            pExceptionRecord-&gt;ExceptionAddress,</div>
 <div class="line"><span class="lineno">  637</span>            section, offset, szFaultingModule);</div>
 <div class="line"><span class="lineno">  638</span><span class="preprocessor">#endif</span></div>
@@ -1616,32 +1616,32 @@ Static Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  641</span> </div>
 <div class="line"><span class="lineno">  642</span>        <span class="comment">// Show the registers</span></div>
 <div class="line"><span class="lineno">  643</span><span class="preprocessor">#ifdef _M_IX86                                          </span><span class="comment">// X86 Only!</span></div>
-<div class="line"><span class="lineno">  644</span>        <a class="code hl_class" href="../../d8/d1d/a05370.html">Log</a>(_T(<span class="stringliteral">&quot;\r\nRegisters:\r\n&quot;</span>));</div>
+<div class="line"><span class="lineno">  644</span>        <a class="code hl_class" href="../../d0/d12/a05386.html">Log</a>(_T(<span class="stringliteral">&quot;\r\nRegisters:\r\n&quot;</span>));</div>
 <div class="line"><span class="lineno">  645</span> </div>
-<div class="line"><span class="lineno">  646</span>        <a class="code hl_class" href="../../d8/d1d/a05370.html">Log</a>(_T(<span class="stringliteral">&quot;EAX:%08X\r\nEBX:%08X\r\nECX:%08X\r\nEDX:%08X\r\nESI:%08X\r\nEDI:%08X\r\n&quot;</span>)</div>
+<div class="line"><span class="lineno">  646</span>        <a class="code hl_class" href="../../d0/d12/a05386.html">Log</a>(_T(<span class="stringliteral">&quot;EAX:%08X\r\nEBX:%08X\r\nECX:%08X\r\nEDX:%08X\r\nESI:%08X\r\nEDI:%08X\r\n&quot;</span>)</div>
 <div class="line"><span class="lineno">  647</span>            , pCtx-&gt;Eax, pCtx-&gt;Ebx, pCtx-&gt;Ecx, pCtx-&gt;Edx,</div>
 <div class="line"><span class="lineno">  648</span>            pCtx-&gt;Esi, pCtx-&gt;Edi);</div>
 <div class="line"><span class="lineno">  649</span> </div>
-<div class="line"><span class="lineno">  650</span>        <a class="code hl_class" href="../../d8/d1d/a05370.html">Log</a>(_T(<span class="stringliteral">&quot;CS:EIP:%04X:%08X\r\n&quot;</span>), pCtx-&gt;SegCs, pCtx-&gt;Eip);</div>
-<div class="line"><span class="lineno">  651</span>        <a class="code hl_class" href="../../d8/d1d/a05370.html">Log</a>(_T(<span class="stringliteral">&quot;SS:ESP:%04X:%08X  EBP:%08X\r\n&quot;</span>),</div>
+<div class="line"><span class="lineno">  650</span>        <a class="code hl_class" href="../../d0/d12/a05386.html">Log</a>(_T(<span class="stringliteral">&quot;CS:EIP:%04X:%08X\r\n&quot;</span>), pCtx-&gt;SegCs, pCtx-&gt;Eip);</div>
+<div class="line"><span class="lineno">  651</span>        <a class="code hl_class" href="../../d0/d12/a05386.html">Log</a>(_T(<span class="stringliteral">&quot;SS:ESP:%04X:%08X  EBP:%08X\r\n&quot;</span>),</div>
 <div class="line"><span class="lineno">  652</span>            pCtx-&gt;SegSs, pCtx-&gt;Esp, pCtx-&gt;Ebp);</div>
-<div class="line"><span class="lineno">  653</span>        <a class="code hl_class" href="../../d8/d1d/a05370.html">Log</a>(_T(<span class="stringliteral">&quot;DS:%04X  ES:%04X  FS:%04X  GS:%04X\r\n&quot;</span>),</div>
+<div class="line"><span class="lineno">  653</span>        <a class="code hl_class" href="../../d0/d12/a05386.html">Log</a>(_T(<span class="stringliteral">&quot;DS:%04X  ES:%04X  FS:%04X  GS:%04X\r\n&quot;</span>),</div>
 <div class="line"><span class="lineno">  654</span>            pCtx-&gt;SegDs, pCtx-&gt;SegEs, pCtx-&gt;SegFs, pCtx-&gt;SegGs);</div>
-<div class="line"><span class="lineno">  655</span>        <a class="code hl_class" href="../../d8/d1d/a05370.html">Log</a>(_T(<span class="stringliteral">&quot;Flags:%08X\r\n&quot;</span>), pCtx-&gt;EFlags);</div>
+<div class="line"><span class="lineno">  655</span>        <a class="code hl_class" href="../../d0/d12/a05386.html">Log</a>(_T(<span class="stringliteral">&quot;Flags:%08X\r\n&quot;</span>), pCtx-&gt;EFlags);</div>
 <div class="line"><span class="lineno">  656</span><span class="preprocessor">#endif</span></div>
 <div class="line"><span class="lineno">  657</span> </div>
 <div class="line"><span class="lineno">  658</span><span class="preprocessor">#ifdef _M_X64</span></div>
-<div class="line"><span class="lineno">  659</span>        <a class="code hl_class" href="../../d8/d1d/a05370.html">Log</a>(_T(<span class="stringliteral">&quot;\r\nRegisters:\r\n&quot;</span>));</div>
-<div class="line"><span class="lineno">  660</span>        <a class="code hl_class" href="../../d8/d1d/a05370.html">Log</a>(_T(<span class="stringliteral">&quot;RAX:%016I64X\r\nRBX:%016I64X\r\nRCX:%016I64X\r\nRDX:%016I64X\r\nRSI:%016I64X\r\nRDI:%016I64X\r\n&quot;</span>)</div>
+<div class="line"><span class="lineno">  659</span>        <a class="code hl_class" href="../../d0/d12/a05386.html">Log</a>(_T(<span class="stringliteral">&quot;\r\nRegisters:\r\n&quot;</span>));</div>
+<div class="line"><span class="lineno">  660</span>        <a class="code hl_class" href="../../d0/d12/a05386.html">Log</a>(_T(<span class="stringliteral">&quot;RAX:%016I64X\r\nRBX:%016I64X\r\nRCX:%016I64X\r\nRDX:%016I64X\r\nRSI:%016I64X\r\nRDI:%016I64X\r\n&quot;</span>)</div>
 <div class="line"><span class="lineno">  661</span>            _T(<span class="stringliteral">&quot;R8: %016I64X\r\nR9: %016I64X\r\nR10:%016I64X\r\nR11:%016I64X\r\nR12:%016I64X\r\nR13:%016I64X\r\nR14:%016I64X\r\nR15:%016I64X\r\n&quot;</span>)</div>
 <div class="line"><span class="lineno">  662</span>            , pCtx-&gt;Rax, pCtx-&gt;Rbx, pCtx-&gt;Rcx, pCtx-&gt;Rdx,</div>
 <div class="line"><span class="lineno">  663</span>            pCtx-&gt;Rsi, pCtx-&gt;Rdi, pCtx-&gt;R9, pCtx-&gt;R10, pCtx-&gt;R11, pCtx-&gt;R12, pCtx-&gt;R13, pCtx-&gt;R14, pCtx-&gt;R15);</div>
-<div class="line"><span class="lineno">  664</span>        <a class="code hl_class" href="../../d8/d1d/a05370.html">Log</a>(_T(<span class="stringliteral">&quot;CS:RIP:%04X:%016I64X\r\n&quot;</span>), pCtx-&gt;SegCs, pCtx-&gt;Rip);</div>
-<div class="line"><span class="lineno">  665</span>        <a class="code hl_class" href="../../d8/d1d/a05370.html">Log</a>(_T(<span class="stringliteral">&quot;SS:RSP:%04X:%016X  RBP:%08X\r\n&quot;</span>),</div>
+<div class="line"><span class="lineno">  664</span>        <a class="code hl_class" href="../../d0/d12/a05386.html">Log</a>(_T(<span class="stringliteral">&quot;CS:RIP:%04X:%016I64X\r\n&quot;</span>), pCtx-&gt;SegCs, pCtx-&gt;Rip);</div>
+<div class="line"><span class="lineno">  665</span>        <a class="code hl_class" href="../../d0/d12/a05386.html">Log</a>(_T(<span class="stringliteral">&quot;SS:RSP:%04X:%016X  RBP:%08X\r\n&quot;</span>),</div>
 <div class="line"><span class="lineno">  666</span>            pCtx-&gt;SegSs, pCtx-&gt;Rsp, pCtx-&gt;Rbp);</div>
-<div class="line"><span class="lineno">  667</span>        <a class="code hl_class" href="../../d8/d1d/a05370.html">Log</a>(_T(<span class="stringliteral">&quot;DS:%04X  ES:%04X  FS:%04X  GS:%04X\r\n&quot;</span>),</div>
+<div class="line"><span class="lineno">  667</span>        <a class="code hl_class" href="../../d0/d12/a05386.html">Log</a>(_T(<span class="stringliteral">&quot;DS:%04X  ES:%04X  FS:%04X  GS:%04X\r\n&quot;</span>),</div>
 <div class="line"><span class="lineno">  668</span>            pCtx-&gt;SegDs, pCtx-&gt;SegEs, pCtx-&gt;SegFs, pCtx-&gt;SegGs);</div>
-<div class="line"><span class="lineno">  669</span>        <a class="code hl_class" href="../../d8/d1d/a05370.html">Log</a>(_T(<span class="stringliteral">&quot;Flags:%08X\r\n&quot;</span>), pCtx-&gt;EFlags);</div>
+<div class="line"><span class="lineno">  669</span>        <a class="code hl_class" href="../../d0/d12/a05386.html">Log</a>(_T(<span class="stringliteral">&quot;Flags:%08X\r\n&quot;</span>), pCtx-&gt;EFlags);</div>
 <div class="line"><span class="lineno">  670</span><span class="preprocessor">#endif</span></div>
 <div class="line"><span class="lineno">  671</span> </div>
 <div class="line"><span class="lineno">  672</span>        SymSetOptions(SYMOPT_DEFERRED_LOADS);</div>
@@ -1649,13 +1649,13 @@ Static Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  674</span>        <span class="comment">// Initialize DbgHelp</span></div>
 <div class="line"><span class="lineno">  675</span>        <span class="keywordflow">if</span> (!SymInitialize(GetCurrentProcess(), 0, TRUE))</div>
 <div class="line"><span class="lineno">  676</span>        {</div>
-<div class="line"><span class="lineno">  677</span>            <a class="code hl_class" href="../../d8/d1d/a05370.html">Log</a>(_T(<span class="stringliteral">&quot;\r\n&quot;</span>));</div>
-<div class="line"><span class="lineno">  678</span>            <a class="code hl_class" href="../../d8/d1d/a05370.html">Log</a>(_T(<span class="stringliteral">&quot;----\r\n&quot;</span>));</div>
-<div class="line"><span class="lineno">  679</span>            <a class="code hl_class" href="../../d8/d1d/a05370.html">Log</a>(_T(<span class="stringliteral">&quot;SYMBOL HANDLER ERROR (THIS IS NOT THE CRASH ERROR)\r\n\r\n&quot;</span>));</div>
-<div class="line"><span class="lineno">  680</span>            <a class="code hl_class" href="../../d8/d1d/a05370.html">Log</a>(_T(<span class="stringliteral">&quot;Couldn&#39;t initialize symbol handler for process when generating crash report\r\n&quot;</span>));</div>
-<div class="line"><span class="lineno">  681</span>            <a class="code hl_class" href="../../d8/d1d/a05370.html">Log</a>(_T(<span class="stringliteral">&quot;Error: %s\r\n&quot;</span>), <a class="code hl_function" href="../../d3/dd5/a00215.html#a75b4eb6a99991d301f7d44683ce13c9e">ErrorMessage</a>(GetLastError()));</div>
-<div class="line"><span class="lineno">  682</span>            <a class="code hl_class" href="../../d8/d1d/a05370.html">Log</a>(_T(<span class="stringliteral">&quot;THE BELOW CALL STACKS MIGHT HAVE MISSING OR INACCURATE FILE/FUNCTION NAMES\r\n\r\n&quot;</span>));</div>
-<div class="line"><span class="lineno">  683</span>            <a class="code hl_class" href="../../d8/d1d/a05370.html">Log</a>(_T(<span class="stringliteral">&quot;----\r\n&quot;</span>));</div>
+<div class="line"><span class="lineno">  677</span>            <a class="code hl_class" href="../../d0/d12/a05386.html">Log</a>(_T(<span class="stringliteral">&quot;\r\n&quot;</span>));</div>
+<div class="line"><span class="lineno">  678</span>            <a class="code hl_class" href="../../d0/d12/a05386.html">Log</a>(_T(<span class="stringliteral">&quot;----\r\n&quot;</span>));</div>
+<div class="line"><span class="lineno">  679</span>            <a class="code hl_class" href="../../d0/d12/a05386.html">Log</a>(_T(<span class="stringliteral">&quot;SYMBOL HANDLER ERROR (THIS IS NOT THE CRASH ERROR)\r\n\r\n&quot;</span>));</div>
+<div class="line"><span class="lineno">  680</span>            <a class="code hl_class" href="../../d0/d12/a05386.html">Log</a>(_T(<span class="stringliteral">&quot;Couldn&#39;t initialize symbol handler for process when generating crash report\r\n&quot;</span>));</div>
+<div class="line"><span class="lineno">  681</span>            <a class="code hl_class" href="../../d0/d12/a05386.html">Log</a>(_T(<span class="stringliteral">&quot;Error: %s\r\n&quot;</span>), <a class="code hl_function" href="../../d3/dd5/a00215.html#a75b4eb6a99991d301f7d44683ce13c9e">ErrorMessage</a>(GetLastError()));</div>
+<div class="line"><span class="lineno">  682</span>            <a class="code hl_class" href="../../d0/d12/a05386.html">Log</a>(_T(<span class="stringliteral">&quot;THE BELOW CALL STACKS MIGHT HAVE MISSING OR INACCURATE FILE/FUNCTION NAMES\r\n\r\n&quot;</span>));</div>
+<div class="line"><span class="lineno">  683</span>            <a class="code hl_class" href="../../d0/d12/a05386.html">Log</a>(_T(<span class="stringliteral">&quot;----\r\n&quot;</span>));</div>
 <div class="line"><span class="lineno">  684</span>        }</div>
 <div class="line"><span class="lineno">  685</span> </div>
 <div class="line"><span class="lineno">  686</span>        CONTEXT trashableContext = *pCtx;</div>
@@ -1665,8 +1665,8 @@ Static Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  690</span> </div>
 <div class="line"><span class="lineno">  691</span>        <span class="comment">//    #ifdef _M_IX86                                          // X86 Only!</span></div>
 <div class="line"><span class="lineno">  692</span> </div>
-<div class="line"><span class="lineno">  693</span>        <a class="code hl_class" href="../../d8/d1d/a05370.html">Log</a>(_T(<span class="stringliteral">&quot;========================\r\n&quot;</span>));</div>
-<div class="line"><span class="lineno">  694</span>        <a class="code hl_class" href="../../d8/d1d/a05370.html">Log</a>(_T(<span class="stringliteral">&quot;Local Variables And Parameters\r\n&quot;</span>));</div>
+<div class="line"><span class="lineno">  693</span>        <a class="code hl_class" href="../../d0/d12/a05386.html">Log</a>(_T(<span class="stringliteral">&quot;========================\r\n&quot;</span>));</div>
+<div class="line"><span class="lineno">  694</span>        <a class="code hl_class" href="../../d0/d12/a05386.html">Log</a>(_T(<span class="stringliteral">&quot;Local Variables And Parameters\r\n&quot;</span>));</div>
 <div class="line"><span class="lineno">  695</span> </div>
 <div class="line"><span class="lineno">  696</span>        trashableContext = *pCtx;</div>
 <div class="line"><span class="lineno">  697</span>        <a class="code hl_function" href="../../d6/d66/a05238.html#ab9372612f9fea89a99cea5eefd6c1b45">WriteStackDetails</a>(&amp;trashableContext, <span class="keyword">true</span>, <span class="keyword">nullptr</span>);</div>
@@ -1674,11 +1674,11 @@ Static Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  699</span> </div>
 <div class="line"><span class="lineno">  700</span>        SymCleanup(GetCurrentProcess());</div>
 <div class="line"><span class="lineno">  701</span> </div>
-<div class="line"><span class="lineno">  702</span>        <a class="code hl_class" href="../../d8/d1d/a05370.html">Log</a>(_T(<span class="stringliteral">&quot;\r\n&quot;</span>));</div>
+<div class="line"><span class="lineno">  702</span>        <a class="code hl_class" href="../../d0/d12/a05386.html">Log</a>(_T(<span class="stringliteral">&quot;\r\n&quot;</span>));</div>
 <div class="line"><span class="lineno">  703</span>    }</div>
 <div class="line"><span class="lineno">  704</span>    __except (EXCEPTION_EXECUTE_HANDLER)</div>
 <div class="line"><span class="lineno">  705</span>    {</div>
-<div class="line"><span class="lineno">  706</span>        <a class="code hl_class" href="../../d8/d1d/a05370.html">Log</a>(_T(<span class="stringliteral">&quot;Error writing the crash log\r\n&quot;</span>));</div>
+<div class="line"><span class="lineno">  706</span>        <a class="code hl_class" href="../../d0/d12/a05386.html">Log</a>(_T(<span class="stringliteral">&quot;Error writing the crash log\r\n&quot;</span>));</div>
 <div class="line"><span class="lineno">  707</span>    }</div>
 <div class="line"><span class="lineno">  708</span>}</div>
 <div class="ttc" id="aa00215_html_a75b4eb6a99991d301f7d44683ce13c9e"><div class="ttname"><a href="../../d3/dd5/a00215.html#a75b4eb6a99991d301f7d44683ce13c9e">ErrorMessage</a></div><div class="ttdeci">LPTSTR ErrorMessage(DWORD dw)</div><div class="ttdef"><b>Definition:</b> WheatyExceptionReport.cpp:32</div></div>
@@ -2123,10 +2123,10 @@ Static Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno"> 1679</span>    <span class="comment">// Add appropriate indentation level (since this routine is recursive)</span></div>
 <div class="line"><span class="lineno"> 1680</span>    <span class="keywordflow">for</span> (std::size_t i = 0; i &lt; <a class="code hl_variable" href="../../d6/d66/a05238.html#ae95bcebc09b9e81a5c75c39a1fe3f646">symbolDetails</a>.size(); i++)</div>
 <div class="line"><span class="lineno"> 1681</span>    {</div>
-<div class="line"><span class="lineno"> 1682</span>        <a class="code hl_class" href="../../d8/d1d/a05370.html">Log</a>(_T(<span class="stringliteral">&quot;\t&quot;</span>));</div>
+<div class="line"><span class="lineno"> 1682</span>        <a class="code hl_class" href="../../d0/d12/a05386.html">Log</a>(_T(<span class="stringliteral">&quot;\t&quot;</span>));</div>
 <div class="line"><span class="lineno"> 1683</span>    }</div>
 <div class="line"><span class="lineno"> 1684</span> </div>
-<div class="line"><span class="lineno"> 1685</span>    <a class="code hl_class" href="../../d8/d1d/a05370.html">Log</a>(_T(<span class="stringliteral">&quot;%s\r\n&quot;</span>), <a class="code hl_variable" href="../../d6/d66/a05238.html#ae95bcebc09b9e81a5c75c39a1fe3f646">symbolDetails</a>.top().ToString().c_str());</div>
+<div class="line"><span class="lineno"> 1685</span>    <a class="code hl_class" href="../../d0/d12/a05386.html">Log</a>(_T(<span class="stringliteral">&quot;%s\r\n&quot;</span>), <a class="code hl_variable" href="../../d6/d66/a05238.html#ae95bcebc09b9e81a5c75c39a1fe3f646">symbolDetails</a>.top().ToString().c_str());</div>
 <div class="line"><span class="lineno"> 1686</span> </div>
 <div class="line"><span class="lineno"> 1687</span>    <span class="keywordflow">return</span>;</div>
 <div class="line"><span class="lineno"> 1688</span>}</div>
@@ -2167,21 +2167,21 @@ Static Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  519</span>    MemoryStatus.dwLength = <span class="keyword">sizeof</span> (MEMORYSTATUS);</div>
 <div class="line"><span class="lineno">  520</span>    ::GlobalMemoryStatus(&amp;MemoryStatus);</div>
 <div class="line"><span class="lineno">  521</span>    TCHAR sString[1024];</div>
-<div class="line"><span class="lineno">  522</span>    <a class="code hl_class" href="../../d8/d1d/a05370.html">Log</a>(_T(<span class="stringliteral">&quot;//=====================================================\r\n&quot;</span>));</div>
+<div class="line"><span class="lineno">  522</span>    <a class="code hl_class" href="../../d0/d12/a05386.html">Log</a>(_T(<span class="stringliteral">&quot;//=====================================================\r\n&quot;</span>));</div>
 <div class="line"><span class="lineno">  523</span>    <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d6/d66/a05238.html#a34bb88e7e896ce853e1b9d9680f5d11c">_GetProcessorName</a>(sString, <a class="code hl_define" href="../../dd/d52/a00221.html#a8b8500b4792f1666a4ae9b19ce264875">countof</a>(sString)))</div>
-<div class="line"><span class="lineno">  524</span>        <a class="code hl_class" href="../../d8/d1d/a05370.html">Log</a>(_T(<span class="stringliteral">&quot;*** Hardware ***\r\nProcessor: %s\r\nNumber Of Processors: %d\r\nPhysical Memory: %d KB (Available: %d KB)\r\nCommit Charge Limit: %d KB\r\n&quot;</span>),</div>
+<div class="line"><span class="lineno">  524</span>        <a class="code hl_class" href="../../d0/d12/a05386.html">Log</a>(_T(<span class="stringliteral">&quot;*** Hardware ***\r\nProcessor: %s\r\nNumber Of Processors: %d\r\nPhysical Memory: %d KB (Available: %d KB)\r\nCommit Charge Limit: %d KB\r\n&quot;</span>),</div>
 <div class="line"><span class="lineno">  525</span>            sString, SystemInfo.dwNumberOfProcessors, MemoryStatus.dwTotalPhys / 0x400, MemoryStatus.dwAvailPhys / 0x400, MemoryStatus.dwTotalPageFile / 0x400);</div>
 <div class="line"><span class="lineno">  526</span>    <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  527</span>        <a class="code hl_class" href="../../d8/d1d/a05370.html">Log</a>(_T(<span class="stringliteral">&quot;*** Hardware ***\r\nProcessor: &lt;unknown&gt;\r\nNumber Of Processors: %d\r\nPhysical Memory: %d KB (Available: %d KB)\r\nCommit Charge Limit: %d KB\r\n&quot;</span>),</div>
+<div class="line"><span class="lineno">  527</span>        <a class="code hl_class" href="../../d0/d12/a05386.html">Log</a>(_T(<span class="stringliteral">&quot;*** Hardware ***\r\nProcessor: &lt;unknown&gt;\r\nNumber Of Processors: %d\r\nPhysical Memory: %d KB (Available: %d KB)\r\nCommit Charge Limit: %d KB\r\n&quot;</span>),</div>
 <div class="line"><span class="lineno">  528</span>            SystemInfo.dwNumberOfProcessors, MemoryStatus.dwTotalPhys / 0x400, MemoryStatus.dwAvailPhys / 0x400, MemoryStatus.dwTotalPageFile / 0x400);</div>
 <div class="line"><span class="lineno">  529</span> </div>
 <div class="line"><span class="lineno">  530</span>    <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d6/d66/a05238.html#ab5e938fa100c4c7288b808f511ede6cf">_GetWindowsVersion</a>(sString, <a class="code hl_define" href="../../dd/d52/a00221.html#a8b8500b4792f1666a4ae9b19ce264875">countof</a>(sString)))</div>
 <div class="line"><span class="lineno">  531</span>    {</div>
-<div class="line"><span class="lineno">  532</span>        <a class="code hl_class" href="../../d8/d1d/a05370.html">Log</a>(_T(<span class="stringliteral">&quot;\r\n*** Operation System ***\r\n%s\r\n&quot;</span>), sString);</div>
+<div class="line"><span class="lineno">  532</span>        <a class="code hl_class" href="../../d0/d12/a05386.html">Log</a>(_T(<span class="stringliteral">&quot;\r\n*** Operation System ***\r\n%s\r\n&quot;</span>), sString);</div>
 <div class="line"><span class="lineno">  533</span>    }</div>
 <div class="line"><span class="lineno">  534</span>    <span class="keywordflow">else</span></div>
 <div class="line"><span class="lineno">  535</span>    {</div>
-<div class="line"><span class="lineno">  536</span>        <a class="code hl_class" href="../../d8/d1d/a05370.html">Log</a>(_T(<span class="stringliteral">&quot;\r\n*** Operation System:\r\n&lt;unknown&gt;\r\n&quot;</span>));</div>
+<div class="line"><span class="lineno">  536</span>        <a class="code hl_class" href="../../d0/d12/a05386.html">Log</a>(_T(<span class="stringliteral">&quot;\r\n*** Operation System:\r\n&lt;unknown&gt;\r\n&quot;</span>));</div>
 <div class="line"><span class="lineno">  537</span>    }</div>
 <div class="line"><span class="lineno">  538</span>}</div>
 <div class="ttc" id="aa00221_html_a8b8500b4792f1666a4ae9b19ce264875"><div class="ttname"><a href="../../dd/d52/a00221.html#a8b8500b4792f1666a4ae9b19ce264875">countof</a></div><div class="ttdeci">#define countof</div><div class="ttdef"><b>Definition:</b> WheatyExceptionReport.h:13</div></div>
@@ -2640,9 +2640,9 @@ Static Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  837</span>{</div>
-<div class="line"><span class="lineno">  838</span>    <a class="code hl_class" href="../../d8/d1d/a05370.html">Log</a>(_T(<span class="stringliteral">&quot;\r\nCall stack:\r\n&quot;</span>));</div>
+<div class="line"><span class="lineno">  838</span>    <a class="code hl_class" href="../../d0/d12/a05386.html">Log</a>(_T(<span class="stringliteral">&quot;\r\nCall stack:\r\n&quot;</span>));</div>
 <div class="line"><span class="lineno">  839</span> </div>
-<div class="line"><span class="lineno">  840</span>    <a class="code hl_class" href="../../d8/d1d/a05370.html">Log</a>(_T(<span class="stringliteral">&quot;Address   Frame     Function      SourceFile\r\n&quot;</span>));</div>
+<div class="line"><span class="lineno">  840</span>    <a class="code hl_class" href="../../d0/d12/a05386.html">Log</a>(_T(<span class="stringliteral">&quot;Address   Frame     Function      SourceFile\r\n&quot;</span>));</div>
 <div class="line"><span class="lineno">  841</span> </div>
 <div class="line"><span class="lineno">  842</span>    DWORD dwMachineType = 0;</div>
 <div class="line"><span class="lineno">  843</span>    <span class="comment">// Could use SymSetOptions here to add the SYMOPT_DEFERRED_LOADS flag</span></div>
@@ -2693,10 +2693,10 @@ Static Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  888</span>            <span class="keywordflow">break</span>;    <span class="comment">// the frame is OK.  Bail if not.</span></div>
 <div class="line"><span class="lineno">  889</span>        }</div>
 <div class="line"><span class="lineno">  890</span><span class="preprocessor">#ifdef _M_IX86</span></div>
-<div class="line"><span class="lineno">  891</span>        <a class="code hl_class" href="../../d8/d1d/a05370.html">Log</a>(_T(<span class="stringliteral">&quot;%08X  %08X  &quot;</span>), sf.AddrPC.Offset, sf.AddrFrame.Offset);</div>
+<div class="line"><span class="lineno">  891</span>        <a class="code hl_class" href="../../d0/d12/a05386.html">Log</a>(_T(<span class="stringliteral">&quot;%08X  %08X  &quot;</span>), sf.AddrPC.Offset, sf.AddrFrame.Offset);</div>
 <div class="line"><span class="lineno">  892</span><span class="preprocessor">#endif</span></div>
 <div class="line"><span class="lineno">  893</span><span class="preprocessor">#ifdef _M_X64</span></div>
-<div class="line"><span class="lineno">  894</span>        <a class="code hl_class" href="../../d8/d1d/a05370.html">Log</a>(_T(<span class="stringliteral">&quot;%016I64X  %016I64X  &quot;</span>), sf.AddrPC.Offset, sf.AddrFrame.Offset);</div>
+<div class="line"><span class="lineno">  894</span>        <a class="code hl_class" href="../../d0/d12/a05386.html">Log</a>(_T(<span class="stringliteral">&quot;%016I64X  %016I64X  &quot;</span>), sf.AddrPC.Offset, sf.AddrFrame.Offset);</div>
 <div class="line"><span class="lineno">  895</span><span class="preprocessor">#endif</span></div>
 <div class="line"><span class="lineno">  896</span> </div>
 <div class="line"><span class="lineno">  897</span>        DWORD64 symDisplacement = 0;                        <span class="comment">// Displacement of the input address,</span></div>
@@ -2710,7 +2710,7 @@ Static Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  905</span>                    &amp;symDisplacement,                               <span class="comment">// Address of the variable that will receive the displacement</span></div>
 <div class="line"><span class="lineno">  906</span>                    &amp;sip.si))                                       <span class="comment">// Address of the SYMBOL_INFO structure (inside &quot;sip&quot; object)</span></div>
 <div class="line"><span class="lineno">  907</span>        {</div>
-<div class="line"><span class="lineno">  908</span>            <a class="code hl_class" href="../../d8/d1d/a05370.html">Log</a>(_T(<span class="stringliteral">&quot;%hs+%I64X&quot;</span>), sip.si.Name, symDisplacement);</div>
+<div class="line"><span class="lineno">  908</span>            <a class="code hl_class" href="../../d0/d12/a05386.html">Log</a>(_T(<span class="stringliteral">&quot;%hs+%I64X&quot;</span>), sip.si.Name, symDisplacement);</div>
 <div class="line"><span class="lineno">  909</span>        }</div>
 <div class="line"><span class="lineno">  910</span>        <span class="keywordflow">else</span>                                                <span class="comment">// No symbol found.  Print out the logical address instead.</span></div>
 <div class="line"><span class="lineno">  911</span>        {</div>
@@ -2721,10 +2721,10 @@ Static Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  916</span>            <a class="code hl_function" href="../../d6/d66/a05238.html#a26e7297bc35d35bb8225e70ff9972c3b">GetLogicalAddress</a>((PVOID)sf.AddrPC.Offset,</div>
 <div class="line"><span class="lineno">  917</span>                              szModule, <span class="keyword">sizeof</span>(szModule), section, offset);</div>
 <div class="line"><span class="lineno">  918</span><span class="preprocessor">#ifdef _M_IX86</span></div>
-<div class="line"><span class="lineno">  919</span>            <a class="code hl_class" href="../../d8/d1d/a05370.html">Log</a>(_T(<span class="stringliteral">&quot;%04X:%08X %s&quot;</span>), section, offset, szModule);</div>
+<div class="line"><span class="lineno">  919</span>            <a class="code hl_class" href="../../d0/d12/a05386.html">Log</a>(_T(<span class="stringliteral">&quot;%04X:%08X %s&quot;</span>), section, offset, szModule);</div>
 <div class="line"><span class="lineno">  920</span><span class="preprocessor">#endif</span></div>
 <div class="line"><span class="lineno">  921</span><span class="preprocessor">#ifdef _M_X64</span></div>
-<div class="line"><span class="lineno">  922</span>            <a class="code hl_class" href="../../d8/d1d/a05370.html">Log</a>(_T(<span class="stringliteral">&quot;%04X:%016I64X %s&quot;</span>), section, offset, szModule);</div>
+<div class="line"><span class="lineno">  922</span>            <a class="code hl_class" href="../../d0/d12/a05386.html">Log</a>(_T(<span class="stringliteral">&quot;%04X:%016I64X %s&quot;</span>), section, offset, szModule);</div>
 <div class="line"><span class="lineno">  923</span><span class="preprocessor">#endif</span></div>
 <div class="line"><span class="lineno">  924</span>        }</div>
 <div class="line"><span class="lineno">  925</span> </div>
@@ -2734,10 +2734,10 @@ Static Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  929</span>        <span class="keywordflow">if</span> (SymGetLineFromAddr64(<a class="code hl_variable" href="../../d6/d66/a05238.html#ab215dff57975ebae623e27d690969deb">m_hProcess</a>, sf.AddrPC.Offset,</div>
 <div class="line"><span class="lineno">  930</span>                                 &amp;dwLineDisplacement, &amp;lineInfo))</div>
 <div class="line"><span class="lineno">  931</span>        {</div>
-<div class="line"><span class="lineno">  932</span>            <a class="code hl_class" href="../../d8/d1d/a05370.html">Log</a>(_T(<span class="stringliteral">&quot;  %s line %u&quot;</span>), lineInfo.FileName, lineInfo.LineNumber);</div>
+<div class="line"><span class="lineno">  932</span>            <a class="code hl_class" href="../../d0/d12/a05386.html">Log</a>(_T(<span class="stringliteral">&quot;  %s line %u&quot;</span>), lineInfo.FileName, lineInfo.LineNumber);</div>
 <div class="line"><span class="lineno">  933</span>        }</div>
 <div class="line"><span class="lineno">  934</span> </div>
-<div class="line"><span class="lineno">  935</span>        <a class="code hl_class" href="../../d8/d1d/a05370.html">Log</a>(_T(<span class="stringliteral">&quot;\r\n&quot;</span>));</div>
+<div class="line"><span class="lineno">  935</span>        <a class="code hl_class" href="../../d0/d12/a05386.html">Log</a>(_T(<span class="stringliteral">&quot;\r\n&quot;</span>));</div>
 <div class="line"><span class="lineno">  936</span> </div>
 <div class="line"><span class="lineno">  937</span>        <span class="comment">// Write out the variables, if desired</span></div>
 <div class="line"><span class="lineno">  938</span>        <span class="keywordflow">if</span> (bWriteVariables)</div>
@@ -2750,7 +2750,7 @@ Static Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  945</span>            <span class="comment">// Enumerate the locals/parameters</span></div>
 <div class="line"><span class="lineno">  946</span>            SymEnumSymbols(<a class="code hl_variable" href="../../d6/d66/a05238.html#ab215dff57975ebae623e27d690969deb">m_hProcess</a>, 0, 0, <a class="code hl_function" href="../../d6/d66/a05238.html#a3380f2b8292d2d5c556f847f9543c910">EnumerateSymbolsCallback</a>, &amp;sf);</div>
 <div class="line"><span class="lineno">  947</span> </div>
-<div class="line"><span class="lineno">  948</span>            <a class="code hl_class" href="../../d8/d1d/a05370.html">Log</a>(_T(<span class="stringliteral">&quot;\r\n&quot;</span>));</div>
+<div class="line"><span class="lineno">  948</span>            <a class="code hl_class" href="../../d0/d12/a05386.html">Log</a>(_T(<span class="stringliteral">&quot;\r\n&quot;</span>));</div>
 <div class="line"><span class="lineno">  949</span>        }</div>
 <div class="line"><span class="lineno">  950</span>    }</div>
 <div class="line"><span class="lineno">  951</span>}</div>
@@ -3082,7 +3082,7 @@ Static Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d6/d66/a05238.html">WheatyExceptionReport</a></li>
-    <li class="footer">Generated on Mon Sep 1 2025 20:44:44 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Sep 8 2025 20:45:52 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

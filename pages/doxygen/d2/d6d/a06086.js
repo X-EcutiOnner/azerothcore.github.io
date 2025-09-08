@@ -1,12 +1,9 @@
 var a06086 =
 [
-    [ "CombatAI", "d2/d6d/a06086.html#a32e63efb85155ac3deeb818a9a1ba18a", null ],
-    [ "InitializeAI", "d2/d6d/a06086.html#a70caf22165251220365d03873b3d3f17", null ],
-    [ "JustDied", "d2/d6d/a06086.html#a9176b9b9c7a5e13fb05dae636c7ef2d4", null ],
-    [ "JustEngagedWith", "d2/d6d/a06086.html#ab157082819d821cf0b0093f084111e16", null ],
-    [ "Permissible", "d2/d6d/a06086.html#aaf52e2cbeb1ea9a816b5e8d914c03edb", null ],
-    [ "Reset", "d2/d6d/a06086.html#a7a39daea9b9bd09572472ae0d8689edd", null ],
-    [ "UpdateAI", "d2/d6d/a06086.html#af12583d15ccd183f6236c1889d539b9b", null ],
-    [ "events", "d2/d6d/a06086.html#af59650830fa1abdf8eec179a12e328e7", null ],
-    [ "spells", "d2/d6d/a06086.html#ae0ecfc744e4200bbf7ea36cdd84b13c0", null ]
+    [ "AddonInfo", "d2/d6d/a06086.html#a60ea66ed93b64c9e182226954a514f53", null ],
+    [ "CRC", "d2/d6d/a06086.html#a7f0f2d817a2189b3acee5999f154ba60", null ],
+    [ "Enabled", "d2/d6d/a06086.html#ace9f109c395ed84cc01ca4381222c25b", null ],
+    [ "Name", "d2/d6d/a06086.html#a45692257c72286e670ab8c9c50014335", null ],
+    [ "State", "d2/d6d/a06086.html#a5301b19e44d68540434574f023e62f46", null ],
+    [ "UsePublicKeyOrCRC", "d2/d6d/a06086.html#a75e016fa7abee24757c89b97330a6192", null ]
 ];

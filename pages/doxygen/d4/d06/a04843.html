@@ -160,20 +160,20 @@ Functions</h2></td></tr>
 <div class="fragment"><div class="line"><span class="lineno">   60</span>    {</div>
 <div class="line"><span class="lineno">   61</span>        <a class="code hl_typedef" href="../../d1/d07/a03482.html#a5c88535ec12f87cc432b1c594bf05326">PlayerSettingVector</a> result;</div>
 <div class="line"><span class="lineno">   62</span> </div>
-<div class="line"><span class="lineno">   63</span>        <a class="code hl_class" href="../../d1/dc4/a05702.html">CharacterDatabasePreparedStatement</a>* stmt = <a class="code hl_variable" href="../../d6/d12/a04691.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.GetPreparedStatement(<a class="code hl_enumvalue" href="../../da/de7/a04643.html#a76116b4fa282d8e35bf8f8e940b5cba7a96957242827fb6e9c0f1866bafddeef0">CHAR_SEL_CHAR_SETTINGS</a>);</div>
-<div class="line"><span class="lineno">   64</span>        stmt-&gt;<a class="code hl_function" href="../../d5/dcd/a05834.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(0, playerLowGuid);</div>
+<div class="line"><span class="lineno">   63</span>        <a class="code hl_class" href="../../dd/d08/a05718.html">CharacterDatabasePreparedStatement</a>* stmt = <a class="code hl_variable" href="../../d6/d12/a04691.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.GetPreparedStatement(<a class="code hl_enumvalue" href="../../da/de7/a04643.html#a76116b4fa282d8e35bf8f8e940b5cba7a96957242827fb6e9c0f1866bafddeef0">CHAR_SEL_CHAR_SETTINGS</a>);</div>
+<div class="line"><span class="lineno">   64</span>        stmt-&gt;<a class="code hl_function" href="../../da/d81/a05850.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(0, playerLowGuid);</div>
 <div class="line"><span class="lineno">   65</span>        <a class="code hl_typedef" href="../../de/d69/a04679.html#ac6110b8d867b5f84f677555d07037acb">PreparedQueryResult</a> dbRes = <a class="code hl_variable" href="../../d6/d12/a04691.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.Query(stmt);</div>
 <div class="line"><span class="lineno">   66</span>        <span class="keywordflow">if</span> (!dbRes)</div>
 <div class="line"><span class="lineno">   67</span>            <span class="keywordflow">return</span> result;</div>
 <div class="line"><span class="lineno">   68</span> </div>
 <div class="line"><span class="lineno">   69</span>        <span class="keywordflow">do</span></div>
 <div class="line"><span class="lineno">   70</span>        {</div>
-<div class="line"><span class="lineno">   71</span>            <a class="code hl_class" href="../../d1/d52/a05734.html">Field</a>* fields = dbRes-&gt;Fetch();</div>
-<div class="line"><span class="lineno">   72</span>            std::string rowSource = fields[0].<a class="code hl_function" href="../../d1/d52/a05734.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;std::string&gt;();</div>
+<div class="line"><span class="lineno">   71</span>            <a class="code hl_class" href="../../d7/d55/a05750.html">Field</a>* fields = dbRes-&gt;Fetch();</div>
+<div class="line"><span class="lineno">   72</span>            std::string rowSource = fields[0].<a class="code hl_function" href="../../d7/d55/a05750.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;std::string&gt;();</div>
 <div class="line"><span class="lineno">   73</span>            <span class="keywordflow">if</span> (rowSource != source)</div>
 <div class="line"><span class="lineno">   74</span>                <span class="keywordflow">continue</span>;</div>
 <div class="line"><span class="lineno">   75</span> </div>
-<div class="line"><span class="lineno">   76</span>            std::string data = fields[1].<a class="code hl_function" href="../../d1/d52/a05734.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;std::string&gt;();</div>
+<div class="line"><span class="lineno">   76</span>            std::string data = fields[1].<a class="code hl_function" href="../../d7/d55/a05750.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;std::string&gt;();</div>
 <div class="line"><span class="lineno">   77</span>            <span class="keywordflow">return</span> <a class="code hl_function" href="../../d4/d06/a04843.html#aeaa79bb46d98ab2f4f5f3674d52f6745">ParseSettingsData</a>(data);</div>
 <div class="line"><span class="lineno">   78</span>        } <span class="keywordflow">while</span> (dbRes-&gt;NextRow());</div>
 <div class="line"><span class="lineno">   79</span> </div>
@@ -184,10 +184,10 @@ Functions</h2></td></tr>
 <div class="ttc" id="aa04679_html_ac6110b8d867b5f84f677555d07037acb"><div class="ttname"><a href="../../de/d69/a04679.html#ac6110b8d867b5f84f677555d07037acb">PreparedQueryResult</a></div><div class="ttdeci">std::shared_ptr&lt; PreparedResultSet &gt; PreparedQueryResult</div><div class="ttdef"><b>Definition:</b> DatabaseEnvFwd.h:45</div></div>
 <div class="ttc" id="aa04691_html_a7e7534bc66d79434bd280b77cb124eec"><div class="ttname"><a href="../../d6/d12/a04691.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a></div><div class="ttdeci">DatabaseWorkerPool&lt; CharacterDatabaseConnection &gt; CharacterDatabase</div><div class="ttdoc">Accessor to the character database.</div><div class="ttdef"><b>Definition:</b> DatabaseEnv.cpp:21</div></div>
 <div class="ttc" id="aa04843_html_aeaa79bb46d98ab2f4f5f3674d52f6745"><div class="ttname"><a href="../../d4/d06/a04843.html#aeaa79bb46d98ab2f4f5f3674d52f6745">PlayerSettingsStore::ParseSettingsData</a></div><div class="ttdeci">PlayerSettingVector ParseSettingsData(std::string const &amp;data)</div><div class="ttdef"><b>Definition:</b> PlayerSettings.cpp:30</div></div>
-<div class="ttc" id="aa05702_html"><div class="ttname"><a href="../../d1/dc4/a05702.html">PreparedStatement</a></div><div class="ttdef"><b>Definition:</b> PreparedStatement.h:157</div></div>
-<div class="ttc" id="aa05734_html"><div class="ttname"><a href="../../d1/d52/a05734.html">Field</a></div><div class="ttdoc">Class used to access individual fields of database query result.</div><div class="ttdef"><b>Definition:</b> Field.h:98</div></div>
-<div class="ttc" id="aa05734_html_aae507d21d3570ffdaf1643ba02946f01"><div class="ttname"><a href="../../d1/d52/a05734.html#aae507d21d3570ffdaf1643ba02946f01">Field::Get</a></div><div class="ttdeci">std::enable_if_t&lt; std::is_arithmetic_v&lt; T &gt;, T &gt; Get() const</div><div class="ttdef"><b>Definition:</b> Field.h:112</div></div>
-<div class="ttc" id="aa05834_html_a52fc2e65042c1db51f0923725a0f0ed0"><div class="ttname"><a href="../../d5/dcd/a05834.html#a52fc2e65042c1db51f0923725a0f0ed0">PreparedStatementBase::SetData</a></div><div class="ttdeci">Acore::Types::is_default&lt; T &gt; SetData(const uint8 index, T value)</div><div class="ttdef"><b>Definition:</b> PreparedStatement.h:77</div></div>
+<div class="ttc" id="aa05718_html"><div class="ttname"><a href="../../dd/d08/a05718.html">PreparedStatement</a></div><div class="ttdef"><b>Definition:</b> PreparedStatement.h:157</div></div>
+<div class="ttc" id="aa05750_html"><div class="ttname"><a href="../../d7/d55/a05750.html">Field</a></div><div class="ttdoc">Class used to access individual fields of database query result.</div><div class="ttdef"><b>Definition:</b> Field.h:98</div></div>
+<div class="ttc" id="aa05750_html_aae507d21d3570ffdaf1643ba02946f01"><div class="ttname"><a href="../../d7/d55/a05750.html#aae507d21d3570ffdaf1643ba02946f01">Field::Get</a></div><div class="ttdeci">std::enable_if_t&lt; std::is_arithmetic_v&lt; T &gt;, T &gt; Get() const</div><div class="ttdef"><b>Definition:</b> Field.h:112</div></div>
+<div class="ttc" id="aa05850_html_a52fc2e65042c1db51f0923725a0f0ed0"><div class="ttname"><a href="../../da/d81/a05850.html#a52fc2e65042c1db51f0923725a0f0ed0">PreparedStatementBase::SetData</a></div><div class="ttdeci">Acore::Types::is_default&lt; T &gt; SetData(const uint8 index, T value)</div><div class="ttdef"><b>Definition:</b> PreparedStatement.h:77</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00522">CHAR_SEL_CHAR_SETTINGS</a>, <a class="el" href="../../#l00021">CharacterDatabase</a>, <a class="el" href="../../#l00112">Field::Get()</a>, <a class="el" href="../../#l00030">ParseSettingsData()</a>, and <a class="el" href="../../#l00077">PreparedStatementBase::SetData()</a>.</p>
 
@@ -263,10 +263,10 @@ Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  102</span>{</div>
-<div class="line"><span class="lineno">  103</span>    <a class="code hl_class" href="../../d1/dc4/a05702.html">CharacterDatabasePreparedStatement</a>* stmt = <a class="code hl_variable" href="../../d6/d12/a04691.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.GetPreparedStatement(<a class="code hl_enumvalue" href="../../da/de7/a04643.html#a76116b4fa282d8e35bf8f8e940b5cba7a0ab5f8934f7b51c9b64a20e368a1377f">CHAR_REP_CHAR_SETTINGS</a>);</div>
-<div class="line"><span class="lineno">  104</span>    stmt-&gt;<a class="code hl_function" href="../../d5/dcd/a05834.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(0, playerLowGuid);</div>
-<div class="line"><span class="lineno">  105</span>    stmt-&gt;<a class="code hl_function" href="../../d5/dcd/a05834.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(1, source);</div>
-<div class="line"><span class="lineno">  106</span>    stmt-&gt;<a class="code hl_function" href="../../d5/dcd/a05834.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(2, <a class="code hl_function" href="../../d4/d06/a04843.html#a2e2d73056f0c30ed8b22419fed1c3d6a">SerializeSettingsData</a>(settings));</div>
+<div class="line"><span class="lineno">  103</span>    <a class="code hl_class" href="../../dd/d08/a05718.html">CharacterDatabasePreparedStatement</a>* stmt = <a class="code hl_variable" href="../../d6/d12/a04691.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.GetPreparedStatement(<a class="code hl_enumvalue" href="../../da/de7/a04643.html#a76116b4fa282d8e35bf8f8e940b5cba7a0ab5f8934f7b51c9b64a20e368a1377f">CHAR_REP_CHAR_SETTINGS</a>);</div>
+<div class="line"><span class="lineno">  104</span>    stmt-&gt;<a class="code hl_function" href="../../da/d81/a05850.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(0, playerLowGuid);</div>
+<div class="line"><span class="lineno">  105</span>    stmt-&gt;<a class="code hl_function" href="../../da/d81/a05850.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(1, source);</div>
+<div class="line"><span class="lineno">  106</span>    stmt-&gt;<a class="code hl_function" href="../../da/d81/a05850.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(2, <a class="code hl_function" href="../../d4/d06/a04843.html#a2e2d73056f0c30ed8b22419fed1c3d6a">SerializeSettingsData</a>(settings));</div>
 <div class="line"><span class="lineno">  107</span>    <span class="keywordflow">return</span> stmt;</div>
 <div class="line"><span class="lineno">  108</span>}</div>
 <div class="ttc" id="aa04643_html_a76116b4fa282d8e35bf8f8e940b5cba7a0ab5f8934f7b51c9b64a20e368a1377f"><div class="ttname"><a href="../../da/de7/a04643.html#a76116b4fa282d8e35bf8f8e940b5cba7a0ab5f8934f7b51c9b64a20e368a1377f">CHAR_REP_CHAR_SETTINGS</a></div><div class="ttdeci">@ CHAR_REP_CHAR_SETTINGS</div><div class="ttdef"><b>Definition:</b> CharacterDatabase.h:523</div></div>
@@ -356,15 +356,15 @@ Functions</h2></td></tr>
 <div class="line"><span class="lineno">   92</span> </div>
 <div class="line"><span class="lineno">   93</span>        settings[index].value = value;</div>
 <div class="line"><span class="lineno">   94</span> </div>
-<div class="line"><span class="lineno">   95</span>        <a class="code hl_class" href="../../d1/dc4/a05702.html">CharacterDatabasePreparedStatement</a>* stmt = <a class="code hl_function" href="../../d4/d06/a04843.html#a50a2948284069e6a28f5f61561e6695c">PlayerSettingsStore::PrepareReplaceStatement</a>(playerLowGuid, source, settings);</div>
+<div class="line"><span class="lineno">   95</span>        <a class="code hl_class" href="../../dd/d08/a05718.html">CharacterDatabasePreparedStatement</a>* stmt = <a class="code hl_function" href="../../d4/d06/a04843.html#a50a2948284069e6a28f5f61561e6695c">PlayerSettingsStore::PrepareReplaceStatement</a>(playerLowGuid, source, settings);</div>
 <div class="line"><span class="lineno">   96</span>        <a class="code hl_variable" href="../../d6/d12/a04691.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.Execute(stmt);</div>
 <div class="line"><span class="lineno">   97</span>    }</div>
 <div class="ttc" id="aa02939_html_a468ad15992691eb97dd20680046832e0aae01e43352b5b919a55aed11c1bf1258"><div class="ttname"><a href="../../de/d87/a02939.html#a468ad15992691eb97dd20680046832e0aae01e43352b5b919a55aed11c1bf1258">CONFIG_PLAYER_SETTINGS_ENABLED</a></div><div class="ttdeci">@ CONFIG_PLAYER_SETTINGS_ENABLED</div><div class="ttdef"><b>Definition:</b> WorldConfig.h:128</div></div>
-<div class="ttc" id="aa04792_html_ga05dfb35c344e5b947a19e4284e7f5fa7"><div class="ttname"><a href="../../da/d11/a04792.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a></div><div class="ttdeci">#define sWorld</div><div class="ttdef"><b>Definition:</b> World.h:320</div></div>
+<div class="ttc" id="aa04792_html_ga05dfb35c344e5b947a19e4284e7f5fa7"><div class="ttname"><a href="../../da/d11/a04792.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a></div><div class="ttdeci">#define sWorld</div><div class="ttdef"><b>Definition:</b> World.h:317</div></div>
 <div class="ttc" id="aa04843_html_a50a2948284069e6a28f5f61561e6695c"><div class="ttname"><a href="../../d4/d06/a04843.html#a50a2948284069e6a28f5f61561e6695c">PlayerSettingsStore::PrepareReplaceStatement</a></div><div class="ttdeci">CharacterDatabasePreparedStatement * PrepareReplaceStatement(uint32 playerLowGuid, std::string const &amp;source, PlayerSettingVector const &amp;settings)</div><div class="ttdef"><b>Definition:</b> PlayerSettings.cpp:101</div></div>
 <div class="ttc" id="aa04843_html_aeeeef0d082814c49edeabefa39fb10b7"><div class="ttname"><a href="../../d4/d06/a04843.html#aeeeef0d082814c49edeabefa39fb10b7">PlayerSettingsStore::LoadPlayerSettings</a></div><div class="ttdeci">static PlayerSettingVector LoadPlayerSettings(uint32 playerLowGuid, std::string const &amp;source)</div><div class="ttdef"><b>Definition:</b> PlayerSettings.cpp:59</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00021">CharacterDatabase</a>, <a class="el" href="../../#l00128">CONFIG_PLAYER_SETTINGS_ENABLED</a>, <a class="el" href="../../#l00059">LoadPlayerSettings()</a>, <a class="el" href="../../#l00101">PrepareReplaceStatement()</a>, and <a class="el" href="../../#l00320">sWorld</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00021">CharacterDatabase</a>, <a class="el" href="../../#l00128">CONFIG_PLAYER_SETTINGS_ENABLED</a>, <a class="el" href="../../#l00059">LoadPlayerSettings()</a>, <a class="el" href="../../#l00101">PrepareReplaceStatement()</a>, and <a class="el" href="../../#l00317">sWorld</a>.</p>
 
 </div>
 </div>
@@ -374,7 +374,7 @@ Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d4/d06/a04843.html">PlayerSettingsStore</a></li>
-    <li class="footer">Generated on Mon Sep 1 2025 20:44:47 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Sep 8 2025 20:45:55 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

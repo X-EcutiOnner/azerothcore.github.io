@@ -1,6 +1,6 @@
 var a11954 =
 [
-    [ "boss_vanndarAI", "dc/d3f/a11958.html", "dc/d3f/a11958" ],
-    [ "boss_vanndar", "d7/d68/a11954.html#a66d190d1b48fd2259a95d88235ffb7d2", null ],
-    [ "GetAI", "d7/d68/a11954.html#ad1879cc6123a323ada04c49a2c691349", null ]
+    [ "boss_drektharAI", "dc/d3f/a11958.html", "dc/d3f/a11958" ],
+    [ "boss_drekthar", "d7/d68/a11954.html#ac9296654b10191ac9d58219ba36f57b3", null ],
+    [ "GetAI", "d7/d68/a11954.html#adeacbbc81ab675260c2cac1a6c76d3fe", null ]
 ];

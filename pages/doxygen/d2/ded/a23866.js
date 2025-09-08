@@ -1,14 +1,14 @@
 var a23866 =
 [
-    [ "npc_warden_mellicharAI", "d2/ded/a23866.html#a3486b015ccb8fecfe5e215f45e45f15e", null ],
-    [ "AttackStart", "d2/ded/a23866.html#a2b16dc3ad358e4179fe20e2066ba5c64", null ],
-    [ "DamageTaken", "d2/ded/a23866.html#a07e7b215ed7653fe7e1ee44d34a74bbd", null ],
-    [ "JustDied", "d2/ded/a23866.html#a867404a125aeb4ee3332a4e2b5a8f547", null ],
-    [ "JustEngagedWith", "d2/ded/a23866.html#ad584a3c2dd8f108cc9b4e66a6917f97b", null ],
-    [ "JustSummoned", "d2/ded/a23866.html#a3fe95a64b640fb61459da2c8621fbc9c", null ],
-    [ "MoveInLineOfSight", "d2/ded/a23866.html#aa4edaf9534e7232526fd9c7bd097b7c4", null ],
-    [ "Reset", "d2/ded/a23866.html#aebd55a8e6e618e4dc37cf253c60c3a94", null ],
-    [ "SetData", "d2/ded/a23866.html#a0d0e8d1af5179aea73aa60e060ba751a", null ],
-    [ "SummonedCreatureDies", "d2/ded/a23866.html#a58e1011986be65725d4db3d782bc72ac", null ],
-    [ "UpdateAI", "d2/ded/a23866.html#a944cff5367213d561a7e6df5faf2a216", null ]
+    [ "instance_shattered_halls_InstanceMapScript", "d2/ded/a23866.html#aa438091d2868b26d961ee4f81e9cea11", null ],
+    [ "GetGuidData", "d2/ded/a23866.html#a1a0623204ecaaa3623fc503783c4d766", null ],
+    [ "Initialize", "d2/ded/a23866.html#a3761d56e59d5bf1147986978c9fdf2e3", null ],
+    [ "OnCreatureCreate", "d2/ded/a23866.html#a9fa5637791d249553472b31c024f9fc1", null ],
+    [ "ReadSaveDataMore", "d2/ded/a23866.html#a67bc6a2dde5c649d16ef7e2c26c6069b", null ],
+    [ "SetData", "d2/ded/a23866.html#a566090f29d13977354fb50e68d92f046", null ],
+    [ "Update", "d2/ded/a23866.html#aad1666c364feff4e2b7654f5894c129f", null ],
+    [ "WriteSaveDataMore", "d2/ded/a23866.html#aaa8b1b054df41a79ac074ae48e180ee9", null ],
+    [ "ExecutionerGUID", "d2/ded/a23866.html#aa879398b1732952eba7b2b8a822a959e", null ],
+    [ "PrisonerGUID", "d2/ded/a23866.html#a0648efa6b0bbf4860d55f9b11f138e39", null ],
+    [ "RescueTimer", "d2/ded/a23866.html#a8df2961264a192ab2692e3c8ca507666", null ]
 ];

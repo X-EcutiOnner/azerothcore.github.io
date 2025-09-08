@@ -1,7 +1,6 @@
 var a13166 =
 [
-    [ "HandleHit", "d8/d9e/a13166.html#aa06c722fbd75f11fa3ba43c77e68f15f", null ],
-    [ "Load", "d8/d9e/a13166.html#affe2cd261752db89b1b418eb18a3370c", null ],
-    [ "PrepareSpellScript", "d8/d9e/a13166.html#a90a11fb3309325c93e7c052e172a0d0b", null ],
-    [ "Register", "d8/d9e/a13166.html#aaadaf49a3757e78d69ffc32768945d16", null ]
+    [ "npc_acherus_necromancerAI", "de/d6b/a13170.html", "de/d6b/a13170" ],
+    [ "npc_acherus_necromancer", "d8/d9e/a13166.html#a14ca04a1656a6bb0c842ecb709aba1a7", null ],
+    [ "GetAI", "d8/d9e/a13166.html#af43b1908b1d99868ea5a3899fe8ebd02", null ]
 ];

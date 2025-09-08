@@ -1,6 +1,6 @@
 var a20682 =
 [
-    [ "npc_ulduar_rocket_strike_triggerAI", "dd/da4/a20686.html", "dd/da4/a20686" ],
-    [ "npc_ulduar_rocket_strike_trigger", "de/df0/a20682.html#a41cc84b04124bb47c24b39a48c9023b1", null ],
-    [ "GetAI", "de/df0/a20682.html#a7715ce6646efa3728c28c4e11b25c2ed", null ]
+    [ "npc_ulduar_flames_spreadAI", "dd/da4/a20686.html", "dd/da4/a20686" ],
+    [ "npc_ulduar_flames_spread", "de/df0/a20682.html#aca9713b28d6d0c7b13b85a00c8a53ab0", null ],
+    [ "GetAI", "de/df0/a20682.html#af492a5bc9304a05f8475a39458c6abdb", null ]
 ];

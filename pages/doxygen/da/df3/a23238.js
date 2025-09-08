@@ -1,6 +1,6 @@
 var a23238 =
 [
-    [ "HandleScriptEffect", "da/df3/a23238.html#a2b46490b70bf93effb7379686e648618", null ],
-    [ "PrepareSpellScript", "da/df3/a23238.html#a5030d071372ef12663f6a75be637476e", null ],
-    [ "Register", "da/df3/a23238.html#aa15afaa9990f29a9e71c1d6395d5de12", null ]
+    [ "HandleEffectRemove", "da/df3/a23238.html#a99f96034b5976615c38e13e5e55c61b6", null ],
+    [ "PrepareAuraScript", "da/df3/a23238.html#a0515a72abd37df13606876021659b995", null ],
+    [ "Register", "da/df3/a23238.html#ad7c8338ae3f3e6680405652c3e5f7f06", null ]
 ];

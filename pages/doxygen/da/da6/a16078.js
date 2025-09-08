@@ -1,11 +1,6 @@
 var a16078 =
 [
-    [ "npc_anub_ar_crusherAI", "da/da6/a16078.html#a35866e3cad208bb70bbc5a146301c28d", null ],
-    [ "DoAction", "da/da6/a16078.html#ac11795153811d2465b106bc1fdea508a", null ],
-    [ "JustEngagedWith", "da/da6/a16078.html#a02d3b78427bc247cde28620470c43331", null ],
-    [ "JustSummoned", "da/da6/a16078.html#a6d484f8d3f54bb7c7ad572027501f2ab", null ],
-    [ "Reset", "da/da6/a16078.html#a85f60e0733ac4ccd8f7941e8df0f88d9", null ],
-    [ "UpdateAI", "da/da6/a16078.html#aaeda7e00410766857ee4bd73a8e15b89", null ],
-    [ "events", "da/da6/a16078.html#ad4a2111d4301f0b928fbd01b6783fb6c", null ],
-    [ "summons", "da/da6/a16078.html#a3136ecd40bf228fade0e40d3c5d22e5d", null ]
+    [ "PrepareSpellScript", "da/da6/a16078.html#a2a3602af522bb8658c1bfdede1234efd", null ],
+    [ "Register", "da/da6/a16078.html#aba235111ea4e186064a85295466f2a3f", null ],
+    [ "SetDest", "da/da6/a16078.html#a89827e4db37bea4847c79265d95386c6", null ]
 ];

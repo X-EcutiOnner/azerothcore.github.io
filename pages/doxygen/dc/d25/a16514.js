@@ -1,6 +1,6 @@
 var a16514 =
 [
-    [ "npc_frost_sphereAI", "d6/dff/a16518.html", "d6/dff/a16518" ],
-    [ "npc_frost_sphere", "dc/d25/a16514.html#a0256ba1c53853307f8b66e22b10bef24", null ],
-    [ "GetAI", "dc/d25/a16514.html#a3e6de3551306fb4c35aabbd4fc656ee6", null ]
+    [ "boss_anubarak_trialAI", "d6/dff/a16518.html", "d6/dff/a16518" ],
+    [ "boss_anubarak_trial", "dc/d25/a16514.html#a5204e33a412608b53cc155a043356d58", null ],
+    [ "GetAI", "dc/d25/a16514.html#a9b8fe9ed3370434612cbd46e7649213d", null ]
 ];

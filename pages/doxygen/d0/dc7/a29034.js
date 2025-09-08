@@ -1,5 +1,6 @@
 var a29034 =
 [
-    [ "go_ethereum_prison", "d0/dc7/a29034.html#a1872dab11a8470194ab35f87e217aa8a", null ],
-    [ "OnGossipHello", "d0/dc7/a29034.html#a73479b0512ea778336fad4bd5cd9b909", null ]
+    [ "height", "d0/dc7/a29034.html#a7638f586a055c48a46e36471543ff72f", null ],
+    [ "unk1", "d0/dc7/a29034.html#a6c08b6fa33e12a9900218d0d0b8b78d5", null ],
+    [ "unk2", "d0/dc7/a29034.html#a394a04f6e985824aa259a42b11b97136", null ]
 ];

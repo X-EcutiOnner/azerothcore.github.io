@@ -1,9 +1,8 @@
 var a14066 =
 [
-    [ "npc_amanishi_lookout", "d9/d1d/a14066.html#adf34c160c531164a459092f45588a7be", null ],
-    [ "DoAction", "d9/d1d/a14066.html#ab43e3372000af268c81e2701070e1b03", null ],
-    [ "MoveInLineOfSight", "d9/d1d/a14066.html#ab94c8563d7c79279ed4922f1d0411ec9", null ],
-    [ "MovementInform", "d9/d1d/a14066.html#ae9e6d22a781392107a7e50e5815c116c", null ],
-    [ "Reset", "d9/d1d/a14066.html#a42f8e96876f07e37fc4533b7eb732db3", null ],
-    [ "_instance", "d9/d1d/a14066.html#ab1557ad1a2cc6574c200ef691596b0c6", null ]
+    [ "npc_zulaman_hostageAI", "d2/d0c/a14070.html", "d2/d0c/a14070" ],
+    [ "npc_zulaman_hostage", "d9/d1d/a14066.html#a12f9ad1889cacb60103c1e921c2fa0e9", null ],
+    [ "GetAI", "d9/d1d/a14066.html#a0ae144dc154dd028b409c9d2393f890c", null ],
+    [ "OnGossipHello", "d9/d1d/a14066.html#a89d68a976f916a4de2196b57ec0026b0", null ],
+    [ "OnGossipSelect", "d9/d1d/a14066.html#a114f6fbfab90944fd49babcba4b48a11", null ]
 ];

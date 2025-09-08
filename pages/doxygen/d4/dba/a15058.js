@@ -1,10 +1,6 @@
 var a15058 =
 [
-    [ "CurrId", "d4/dba/a15058.html#a126d1c0e7d475a07acd91de471cb7cab", null ],
-    [ "DestId", "d4/dba/a15058.html#a7b12c520ee50ab29e5047a1c71b22729", null ],
-    [ "o", "d4/dba/a15058.html#a94c284d63e66765c4d484c8edea8fdb8", null ],
-    [ "spellId", "d4/dba/a15058.html#a7240ecd6f50a6db0e2be4eb4e55b3a48", null ],
-    [ "x", "d4/dba/a15058.html#a41c7bdb057d984f552a41835651d84f5", null ],
-    [ "y", "d4/dba/a15058.html#abe083129d7a4e514e97eeae7cff40af5", null ],
-    [ "z", "d4/dba/a15058.html#ac49d886d09e2ebf8ccf8abd59a9649ec", null ]
+    [ "instance_dire_maul_InstanceMapScript", "da/d8d/a15062.html", "da/d8d/a15062" ],
+    [ "instance_dire_maul", "d4/dba/a15058.html#a54ac2c7095a99481c7efbe4237533fac", null ],
+    [ "GetInstanceScript", "d4/dba/a15058.html#a7fc2511e0c9475512286006f0bbaed0b", null ]
 ];

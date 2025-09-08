@@ -1,6 +1,7 @@
 var a12390 =
 [
-    [ "boss_flamegorAI", "d1/d54/a12390.html#a4b3d46c3faa566095b0cedad3df9f057", null ],
-    [ "JustEngagedWith", "d1/d54/a12390.html#a6005dca71e2f20ee599e053e531377d6", null ],
-    [ "UpdateAI", "d1/d54/a12390.html#a2e5146815e533cf62e0084a54aa222d5", null ]
+    [ "boss_ebonrocAI", "d1/d54/a12390.html#a73be20fda4e3f8cb7623796f3c32d741", null ],
+    [ "JustEngagedWith", "d1/d54/a12390.html#a2c74e0030b1093d79245978939043d53", null ],
+    [ "MovementInform", "d1/d54/a12390.html#ac1e16bb5ac18b55fbfb8af5078df270f", null ],
+    [ "UpdateAI", "d1/d54/a12390.html#aa2059c3834fbcfda3c8da5743bd2501f", null ]
 ];

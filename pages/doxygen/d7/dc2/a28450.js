@@ -1,8 +1,6 @@
 var a28450 =
 [
-    [ "Id", "d7/dc2/a28450.html#a6943bf760d15b3f8af4109d131652d72", null ],
-    [ "MapId", "d7/dc2/a28450.html#ab0cccd760636a3b42af693d6c483bed9", null ],
-    [ "X", "d7/dc2/a28450.html#a91183890254546efeb3162173cc60dad", null ],
-    [ "Y", "d7/dc2/a28450.html#a19ab4d026b45d74f006479641afbc4d3", null ],
-    [ "Z", "d7/dc2/a28450.html#aaa23c59f20fc96aec148b82516f30036", null ]
+    [ "ID", "d7/dc2/a28450.html#a7d40e334785d96a2e57d28f87a59778a", null ],
+    [ "maxCount", "d7/dc2/a28450.html#a5edc6442e026b12dae654fa86440a11a", null ],
+    [ "mode", "d7/dc2/a28450.html#a76553ecf9f880a5e5967f818123742fd", null ]
 ];

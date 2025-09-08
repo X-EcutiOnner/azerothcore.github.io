@@ -1,6 +1,7 @@
 var a16862 =
 [
-    [ "boss_tharon_jaAI", "d0/d55/a16866.html", "d0/d55/a16866" ],
-    [ "boss_tharon_ja", "d6/d04/a16862.html#ac34f8f33ea75dc0107222d3720788f7a", null ],
-    [ "GetAI", "d6/d04/a16862.html#ab24612418cb66ed0c1e64fba5ebaa50f", null ]
+    [ "HandleScriptEffect", "d6/d04/a16862.html#a51064b3a11f453724ae0879c80eaf8df", null ],
+    [ "PrepareSpellScript", "d6/d04/a16862.html#aac26002ff107e609fb7258306b430f1b", null ],
+    [ "Register", "d6/d04/a16862.html#a0efef7644706940e3929ce99cd162c91", null ],
+    [ "Validate", "d6/d04/a16862.html#a7110d4136337d44aa0300ec82e5a6511", null ]
 ];

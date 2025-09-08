@@ -1,6 +1,8 @@
 var a12166 =
 [
-    [ "boss_halyconAI", "dc/d79/a12170.html", "dc/d79/a12170" ],
-    [ "boss_halycon", "d8/da4/a12166.html#aa149c5f8b34b9c00102f9a0758dcbd9a", null ],
-    [ "GetAI", "d8/da4/a12166.html#a861f1b0213ad9bcf572c9d59eabba699", null ]
+    [ "boss_drakkisathAI", "d8/da4/a12166.html#a7c347bcdb092afcd64b481b87d0895ea", null ],
+    [ "JustEngagedWith", "d8/da4/a12166.html#a09f7c704579bdb8dad951ce63b5a54c9", null ],
+    [ "UpdateAI", "d8/da4/a12166.html#a02ffab01744c0dbb8b5a60794e82bdb0", null ],
+    [ "_conflagrateTarget", "d8/da4/a12166.html#a6a74b74e4e4b45aec86f70a5211ddd28", null ],
+    [ "_conflagrateThreat", "d8/da4/a12166.html#aae3762b27c3d99b32f47293c544e4afe", null ]
 ];

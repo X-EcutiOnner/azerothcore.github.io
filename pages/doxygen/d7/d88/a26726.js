@@ -1,7 +1,6 @@
 var a26726 =
 [
-    [ "CalcPeriodic", "d7/d88/a26726.html#af787d0c8738284e757f808e7d138bdc6", null ],
-    [ "PrepareAuraScript", "d7/d88/a26726.html#a383db196133bbecee06fe443fdb1bc24", null ],
-    [ "Register", "d7/d88/a26726.html#a1c617b5b26805b0feb468c55337f9d4c", null ],
-    [ "Update", "d7/d88/a26726.html#af3f4a7b82e099313d609df7f85f02d00", null ]
+    [ "PrepareAuraScript", "d7/d88/a26726.html#a059fe9aa1ea5ea4d0fa797e70a146fc5", null ],
+    [ "Register", "d7/d88/a26726.html#a91f4b2b8796c7efab2f622893a393619", null ],
+    [ "AuraEffectHandleModes", "d7/d88/a26726.html#ab93d08a85de86b0efdec59006ebbdf97", null ]
 ];

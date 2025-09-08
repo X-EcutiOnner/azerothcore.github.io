@@ -1,6 +1,6 @@
 var a21538 =
 [
-    [ "HandleEffectPeriodic", "dc/d37/a21538.html#a508ff9e362d586497839aa29ceae1227", null ],
-    [ "PrepareAuraScript", "dc/d37/a21538.html#a4e7d5317d28207136b1fd3477a51ae06", null ],
-    [ "Register", "dc/d37/a21538.html#a4b08cefe7d334635b70d389cc9df4901", null ]
+    [ "boss_lavanthorAI", "de/dc4/a21542.html", "de/dc4/a21542" ],
+    [ "boss_lavanthor", "dc/d37/a21538.html#aa935ffe07f59db59b9b8484f22927026", null ],
+    [ "GetAI", "dc/d37/a21538.html#aae09ecbe56efac6538bdfb6120e0be40", null ]
 ];

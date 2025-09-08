@@ -1,7 +1,8 @@
 var a24302 =
 [
-    [ "CheckRequirement", "d7/dfe/a24302.html#a4ad521364c6156c0ecef818a23ce7aff", null ],
-    [ "PrepareSpellScript", "d7/dfe/a24302.html#a0d995c6ae6d1da0014c053a62b37a7b7", null ],
-    [ "Register", "d7/dfe/a24302.html#a25f275e84570f674071bfae03aeb0ddc", null ],
-    [ "Validate", "d7/dfe/a24302.html#adc648151e2c61a61a0dc5883d9fa4ae0", null ]
+    [ "npc_bessyAI", "d7/dfe/a24302.html#ad1300a563888b34689bedf97c387707c", null ],
+    [ "JustDied", "d7/dfe/a24302.html#af98e9235b2432b619e4cc01c0c1111ef", null ],
+    [ "JustSummoned", "d7/dfe/a24302.html#a4197fb122299fd152e5da335bb832ae5", null ],
+    [ "Reset", "d7/dfe/a24302.html#aed64386629e52c3b65abadde54a63cc4", null ],
+    [ "WaypointReached", "d7/dfe/a24302.html#a4611a8f41f66a1a846fb42ba1d4062c8", null ]
 ];

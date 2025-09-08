@@ -1,6 +1,5 @@
 var a26574 =
 [
-    [ "HandleDummy", "d8/def/a26574.html#aee5967205738ebaef70e1105e8d91b2c", null ],
-    [ "PrepareSpellScript", "d8/def/a26574.html#a1ef5914adfd2c951a68f50658852e095", null ],
-    [ "Register", "d8/def/a26574.html#af42b6d5a5fbb5eb84773818594813afc", null ]
+    [ "spell_q11515_fel_siphon_dummy", "d8/def/a26574.html#a80fa790a716d1ae950f43f9a298afd66", null ],
+    [ "GetSpellScript", "d8/def/a26574.html#a0d122972fc036d1f1e49c49acda58be3", null ]
 ];

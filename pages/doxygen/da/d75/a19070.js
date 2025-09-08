@@ -1,6 +1,5 @@
 var a19070 =
 [
-    [ "instance_icecrown_citadel_InstanceMapScript", "d9/dc5/a19074.html", "d9/dc5/a19074" ],
-    [ "instance_icecrown_citadel", "da/d75/a19070.html#a0901e23025cff08d1a7516bbef099ffa", null ],
-    [ "GetInstanceScript", "da/d75/a19070.html#a787c32626681f15f5515385a9ba6b848", null ]
+    [ "at_frozen_throne_teleport", "da/d75/a19070.html#a8065b9f9b55b267be1757775f84de349", null ],
+    [ "OnTrigger", "da/d75/a19070.html#ae1f9476b7f47320f545e702e9317bd03", null ]
 ];

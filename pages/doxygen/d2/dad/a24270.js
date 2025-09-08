@@ -1,18 +1,15 @@
 var a24270 =
 [
-    [ "npc_commander_dawnforgeAI", "d2/dad/a24270.html#a70ff1a69374b62bf6aadf1bfabe8bdb3", null ],
-    [ "CanStartEvent", "d2/dad/a24270.html#afb3eb981fe7e7cdcd0caca8f7d7c14f9", null ],
-    [ "JustEngagedWith", "d2/dad/a24270.html#affa24c62af088b4b216aaa4789f6a40e", null ],
-    [ "JustSummoned", "d2/dad/a24270.html#a76bfbed03ad9f83b953da5f53aa45b73", null ],
-    [ "Reset", "d2/dad/a24270.html#af57a218b98606c273ee3eba5d661d5d1", null ],
-    [ "Turn_to_eachother", "d2/dad/a24270.html#a7442d526cc09f98a3cd53749e09fb6f0", null ],
-    [ "Turn_to_Pathaleons_Image", "d2/dad/a24270.html#a88cca74225a0099c85bb661c7f2ad382", null ],
-    [ "UpdateAI", "d2/dad/a24270.html#ae4ca305e3067cbdb2771d6a9e858f191", null ],
-    [ "ardonisGUID", "d2/dad/a24270.html#ad0f1b869b85c8a94e84be5714a191cab", null ],
-    [ "isEvent", "d2/dad/a24270.html#a93cf7cfcf3197543c3878278d99ff980", null ],
-    [ "pathaleonGUID", "d2/dad/a24270.html#a9b20a0ad46dc0be2fe1a65072eb3477a", null ],
-    [ "Phase", "d2/dad/a24270.html#a1a440773676ab7e2cd416eba70c90d74", null ],
-    [ "Phase_Timer", "d2/dad/a24270.html#a798cf4bf43df377f764dac07c13bc676", null ],
-    [ "PhaseSubphase", "d2/dad/a24270.html#ae8f5216936ce3a3b5aa9d5b773521523", null ],
-    [ "PlayerGUID", "d2/dad/a24270.html#ab6c0afdc952c048efeea9d665075c54f", null ]
+    [ "npc_kurenai_captiveAI", "d2/dad/a24270.html#ab8771e4c2cefe3d5dc3e07df2eeb7b96", null ],
+    [ "JustDied", "d2/dad/a24270.html#a0778846d7d67f5d29ed3f7ef02f912f4", null ],
+    [ "JustEngagedWith", "d2/dad/a24270.html#a9e36749629568d7917353bee51be08b8", null ],
+    [ "JustSummoned", "d2/dad/a24270.html#a19a5190b72f78ee698d5fa2df6ac9b4b", null ],
+    [ "Reset", "d2/dad/a24270.html#aea5af2579f9be13620f15b82b5cc8436", null ],
+    [ "SetGUID", "d2/dad/a24270.html#a20edaf98031d7683d07b325c0b89ff69", null ],
+    [ "SpellHitTarget", "d2/dad/a24270.html#a1f0cb1afc62b1b29a71cc04a21c456f0", null ],
+    [ "UpdateEscortAI", "d2/dad/a24270.html#a3d0dfb0df190fe1b32cacb039e611dc3", null ],
+    [ "WaypointReached", "d2/dad/a24270.html#a584bfc3a62f9d856e6d918d8f8694b3e", null ],
+    [ "ChainLightningTimer", "d2/dad/a24270.html#a9aede5daebe0cf90ca2091a052c34282", null ],
+    [ "FrostShockTimer", "d2/dad/a24270.html#a224c2df273f8d032e4302958879ce4d5", null ],
+    [ "HealTimer", "d2/dad/a24270.html#a5a8d15bf6d2fd7a04818ba4535195922", null ]
 ];

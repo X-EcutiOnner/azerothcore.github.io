@@ -1,5 +1,6 @@
 var a13090 =
 [
-    [ "go_acherus_soul_prison", "dd/dde/a13090.html#a13c858f74080b8f7963fdacc4b554019", null ],
-    [ "OnGossipHello", "dd/dde/a13090.html#a904059cbeac3ddb3acf07ec1afe78c37", null ]
+    [ "npc_unworthy_initiateAI", "db/d2c/a13094.html", "db/d2c/a13094" ],
+    [ "npc_unworthy_initiate", "dd/dde/a13090.html#aaa04626b783eadc0b14bd89aa715e694", null ],
+    [ "GetAI", "dd/dde/a13090.html#a0912cc56cb2082b2de086cbd9b914b4a", null ]
 ];

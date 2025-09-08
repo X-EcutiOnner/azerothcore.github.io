@@ -1,6 +1,7 @@
 var a15178 =
 [
-    [ "HandleScript", "d6/d63/a15178.html#a7e6ec873a252106ba865bdef05f757f5", null ],
-    [ "PrepareSpellScript", "d6/d63/a15178.html#a98e80c8726c350aca850b6c87c5861da", null ],
-    [ "Register", "d6/d63/a15178.html#a994bb1f4670d16f6797b9e0df1d8c36c", null ]
+    [ "boss_kurinnaxx", "d6/d63/a15178.html#aa8b471e6239080b2a5f70e50e07a9621", null ],
+    [ "InitializeAI", "d6/d63/a15178.html#a0e249007d5bf29eb0cff307045ef9eb3", null ],
+    [ "JustDied", "d6/d63/a15178.html#adb749c8737888a099ad7a3d58292a612", null ],
+    [ "JustEngagedWith", "d6/d63/a15178.html#a451cd7ee80b0428a199c33012562bdb3", null ]
 ];

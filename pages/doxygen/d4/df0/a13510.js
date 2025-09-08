@@ -1,12 +1,8 @@
 var a13510 =
 [
-    [ "npc_kiljaeden_controller", "d4/df0/a13510.html#aabe4e5af5ad142bac6cdaa4f6787a7bc", null ],
-    [ "JustDied", "d4/df0/a13510.html#a86c4d79a8caf8a838e353bbf1b78c56d", null ],
-    [ "JustSummoned", "d4/df0/a13510.html#af28211012d8398a450439b8e24bf60ce", null ],
-    [ "Reset", "d4/df0/a13510.html#a11f6f8e86c3ecdecf8e4c5bcb76f8664", null ],
-    [ "ResetOrbs", "d4/df0/a13510.html#a4daacfe92ddb39ade57df3a1bbcd79fd", null ],
-    [ "SummonedCreatureDies", "d4/df0/a13510.html#aed2772552dd500c180c3db4aeef8359a", null ],
-    [ "UpdateAI", "d4/df0/a13510.html#a9f24328d9ffd94ecf3d15303a71acb9b", null ],
-    [ "instance", "d4/df0/a13510.html#a2cb872334b9dd6a4f87468b41f164fc4", null ],
-    [ "summons", "d4/df0/a13510.html#a116a739b2bff3257b35ff7946a3d1995", null ]
+    [ "OnPeriodic", "d4/df0/a13510.html#acd400b0a061d1814591e33d16bf4180a", null ],
+    [ "OnRemove", "d4/df0/a13510.html#a3da85c726007690220e9b4f81d30f185", null ],
+    [ "PrepareAuraScript", "d4/df0/a13510.html#a216d723f309ffa46df4bba7af79752c8", null ],
+    [ "Register", "d4/df0/a13510.html#a43fe84c2717d73e20a2562f596a84f36", null ],
+    [ "Validate", "d4/df0/a13510.html#a4ab8e285bae57560eee85d3a837ac2f5", null ]
 ];

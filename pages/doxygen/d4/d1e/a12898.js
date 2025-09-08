@@ -1,20 +1,13 @@
 var a12898 =
 [
-    [ "boss_julianne", "d4/d1e/a12898.html#a6433d08be0d5562e876e00225ebf7398", null ],
-    [ "DamageTaken", "d4/d1e/a12898.html#a8ff7675405322c2d55bd01cec340f6b8", null ],
-    [ "DoAction", "d4/d1e/a12898.html#a985c9c1f77b2769461bf42ddaab302d3", null ],
-    [ "EnterEvadeMode", "d4/d1e/a12898.html#af2499ba9d9c25555c82d8d7ae95c7249", null ],
-    [ "JustDied", "d4/d1e/a12898.html#abdfaf6fa147c6b35bed28bb2e3ed3c14", null ],
-    [ "JustEngagedWith", "d4/d1e/a12898.html#a6c5bd97ad402cc5f5dcda421c5d2bad1", null ],
-    [ "JustReachedHome", "d4/d1e/a12898.html#a6bda02d5534b9087741ee7146ec314b5", null ],
-    [ "KilledUnit", "d4/d1e/a12898.html#a7430fb4f315ee5dcf5f9c49b2daa66b0", null ],
-    [ "Reset", "d4/d1e/a12898.html#a1047e28950098b35bd8a8fc5bec4ed26", null ],
-    [ "ScheduleCombat", "d4/d1e/a12898.html#ab0939f8fe0fc34cafbe2dab4ef449895", null ],
-    [ "SpellHit", "d4/d1e/a12898.html#a1e142c56a514640dab0d5d7711085f9d", null ],
-    [ "UpdateAI", "d4/d1e/a12898.html#ad1e1d5bb27fed12a203c8b10f6ea92a6", null ],
-    [ "_scheduler", "d4/d1e/a12898.html#aae4be9b1035626ecc9ad2f3e5b918cbe", null ],
-    [ "instance", "d4/d1e/a12898.html#acdc787ba6908e716517683a8536ecf3e", null ],
-    [ "isFakingDeath", "d4/d1e/a12898.html#a7a1b3b2ead47a49e80f9ba2b49144a91", null ],
-    [ "phase", "d4/d1e/a12898.html#a5b0b680916cd38b2e20a6a1b1a530362", null ],
-    [ "summonedRomulo", "d4/d1e/a12898.html#a6938adccd5c781df04dabe6d860f9357", null ]
+    [ "boss_crone", "d4/d1e/a12898.html#a710bdf6fac05be54cf10e40cd661c837", null ],
+    [ "EnterEvadeMode", "d4/d1e/a12898.html#a4dcdde0b699f445cfa6be7e0c7dbb8d0", null ],
+    [ "JustDied", "d4/d1e/a12898.html#a545de2a25b48590d11896c41b6e94df0", null ],
+    [ "JustEngagedWith", "d4/d1e/a12898.html#a9801cd39667d1a08770820bd17beac00", null ],
+    [ "JustReachedHome", "d4/d1e/a12898.html#a59d40cda923cb8b72413b9d5f267f52a", null ],
+    [ "KilledUnit", "d4/d1e/a12898.html#ae4d343636955589d740d1df4e21fba99", null ],
+    [ "Reset", "d4/d1e/a12898.html#a247db7fc1329ef00e48fd9bd09fb27a1", null ],
+    [ "UpdateAI", "d4/d1e/a12898.html#a8bd505acd55ca5292d29c96916a461e5", null ],
+    [ "_scheduler", "d4/d1e/a12898.html#a7f9e2e45c0bbb60fc19dd54bc380f814", null ],
+    [ "instance", "d4/d1e/a12898.html#a3795fe3185005693ed9bba49177bb35a", null ]
 ];

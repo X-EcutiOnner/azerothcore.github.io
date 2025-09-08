@@ -1,6 +1,6 @@
 var a17762 =
 [
-    [ "npc_gunship_boarding_leaderAI", "d2/d14/a17766.html", "d2/d14/a17766" ],
-    [ "npc_gunship_boarding_leader", "d6/d9f/a17762.html#a8390eadab34a89643252f573588b140a", null ],
-    [ "GetAI", "d6/d9f/a17762.html#ae422c8a1de8fb909a89d2ad2f516e3b4", null ]
+    [ "npc_igb_ship_crewAI", "d2/d14/a17766.html", "d2/d14/a17766" ],
+    [ "npc_igb_ship_crew", "d6/d9f/a17762.html#a5f4380aba94766a6a75b97026998b881", null ],
+    [ "GetAI", "d6/d9f/a17762.html#a48955817e21a01a726b50685b467c229", null ]
 ];

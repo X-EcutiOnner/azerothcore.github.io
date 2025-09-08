@@ -1,6 +1,9 @@
 var a15718 =
 [
-    [ "SpellId", "d0/d35/a15718.html#a2c430be201c1fd866ee96224f1803a20", null ],
-    [ "Timer1", "d0/d35/a15718.html#a9a35c148286e88f48b174be8b74fc5d0", null ],
-    [ "Timer2", "d0/d35/a15718.html#a108dee679b1f5d9fb8351f7b4b4f3a56", null ]
+    [ "npc_thrall_warchiefAI", "d6/da4/a15722.html", "d6/da4/a15722" ],
+    [ "npc_thrall_warchief", "d0/d35/a15718.html#a3958f0b444537ac8a5ebf55de44e3590", null ],
+    [ "GetAI", "d0/d35/a15718.html#a4fc3d5410b959b4289f1ced17d412c03", null ],
+    [ "OnGossipHello", "d0/d35/a15718.html#a5cd40c062fb07d2ddfffdc159f2935d3", null ],
+    [ "OnGossipSelect", "d0/d35/a15718.html#a63367ca0b252c148f625b305575fd768", null ],
+    [ "OnQuestReward", "d0/d35/a15718.html#a6576664c201d62cab1fa2f073cddee6e", null ]
 ];

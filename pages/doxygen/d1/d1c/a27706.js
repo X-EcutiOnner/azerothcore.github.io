@@ -1,9 +1,8 @@
 var a27706 =
 [
-    [ "npc_target_dummyAI", "d1/d1c/a27706.html#a117e45559ea721877d73df4b3c18a259", null ],
-    [ "EnterEvadeMode", "d1/d1c/a27706.html#a8f7f2e4decc676e378b4929516f8a147", null ],
-    [ "MoveInLineOfSight", "d1/d1c/a27706.html#a05f5b1f2cb8f0926bf425e7c31d618e2", null ],
-    [ "Reset", "d1/d1c/a27706.html#a4e8f8d1da604a80b60d61f72ed4ecbcf", null ],
-    [ "UpdateAI", "d1/d1c/a27706.html#ae686aa48ab7e91988e5b71c71695ce47", null ],
-    [ "deathTimer", "d1/d1c/a27706.html#abf5bd5122e79a62a03c19a18cd68498b", null ]
+    [ "npc_riggle_bassbaitAI", "d6/d7d/a27710.html", "d6/d7d/a27710" ],
+    [ "npc_riggle_bassbait", "d1/d1c/a27706.html#afc4280099cda3c28c4634d649e636839", null ],
+    [ "GetAI", "d1/d1c/a27706.html#ad5e3230dae9ac23aa83883e53b37234e", null ],
+    [ "OnGossipHello", "d1/d1c/a27706.html#aeea1e5d4d59c72ce97e1f0eb8da5b6fe", null ],
+    [ "OnQuestReward", "d1/d1c/a27706.html#aa3ef2b3ebd7542a4836983872c397e66", null ]
 ];

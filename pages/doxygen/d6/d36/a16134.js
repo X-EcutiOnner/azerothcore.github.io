@@ -1,6 +1,7 @@
 var a16134 =
 [
-    [ "boss_sartharion_tenebronAI", "d6/d5e/a16138.html", "d6/d5e/a16138" ],
-    [ "boss_sartharion_tenebron", "d6/d36/a16134.html#ada445771d2d3d01fb586f15d62e21755", null ],
-    [ "GetAI", "d6/d36/a16134.html#a2eb4555506167a4aee7b844e305d7107", null ]
+    [ "OnRemove", "d6/d36/a16134.html#afb0821bc8774e634eefdd87efe6af945", null ],
+    [ "PrepareAuraScript", "d6/d36/a16134.html#a54b1de501bdf3193cdb89125bc1ceb0e", null ],
+    [ "Register", "d6/d36/a16134.html#a985ad6d7eca06fbaf869e591136f46a3", null ],
+    [ "Validate", "d6/d36/a16134.html#aa794b76c4d9590b867dda57f02724d95", null ]
 ];

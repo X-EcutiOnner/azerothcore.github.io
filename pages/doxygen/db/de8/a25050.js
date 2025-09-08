@@ -1,6 +1,6 @@
 var a25050 =
 [
-    [ "CheckProc", "db/de8/a25050.html#a3c4f64fc51367ebb549282b068458f4c", null ],
-    [ "PrepareAuraScript", "db/de8/a25050.html#a72dc7c7b8bc842a7feb6857cbec34d25", null ],
-    [ "Register", "db/de8/a25050.html#ac84b357828094a42aab1c8bfee83d298", null ]
+    [ "CheckAreaTarget", "db/de8/a25050.html#a545323b9964ee4cb3c8d054fac4e2d55", null ],
+    [ "PrepareAuraScript", "db/de8/a25050.html#a2b6dbd33e34357917f662000a1cd932f", null ],
+    [ "Register", "db/de8/a25050.html#a7b4a2301b3a608ea5b2dd2504e02741d", null ]
 ];

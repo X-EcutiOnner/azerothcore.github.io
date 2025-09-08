@@ -1,6 +1,6 @@
 var a12562 =
 [
-    [ "boss_magmadarAI", "d4/d95/a12566.html", "d4/d95/a12566" ],
-    [ "boss_magmadar", "d7/d2b/a12562.html#a26aeffebdf782013a2b5dc18a0937a9a", null ],
-    [ "GetAI", "d7/d2b/a12562.html#a650d28d798042a2356dffaa357516504", null ]
+    [ "npc_core_ragerAI", "d4/d95/a12566.html", "d4/d95/a12566" ],
+    [ "npc_core_rager", "d7/d2b/a12562.html#ada4acfa2a1934d1609a8f9c78da6377d", null ],
+    [ "GetAI", "d7/d2b/a12562.html#a0ace94ecc1ebfb0e880c50d9b68087db", null ]
 ];

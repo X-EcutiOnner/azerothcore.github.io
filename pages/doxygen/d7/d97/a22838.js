@@ -1,11 +1,11 @@
 var a22838 =
 [
-    [ "boss_blackheart_the_inciter", "d7/d97/a22838.html#a772b2b4574fa6ccd445924193985859b", null ],
-    [ "EnterEvadeMode", "d7/d97/a22838.html#aaf2c9d37b0af1db1d35af01923eca45b", null ],
-    [ "JustDied", "d7/d97/a22838.html#a1e7ca1ade637766d4c6039c50e9c85f7", null ],
-    [ "JustEngagedWith", "d7/d97/a22838.html#abeb0cc4ff2543531f7a7c7993559f1cb", null ],
-    [ "KilledUnit", "d7/d97/a22838.html#ad7de71ea14e5be6e2b126edde1c78ab6", null ],
-    [ "Reset", "d7/d97/a22838.html#add75633d1c04d0be91e7e80f28213917", null ],
-    [ "UpdateAI", "d7/d97/a22838.html#a0648c4bbabf30efd706b973bf8028dbb", null ],
-    [ "InciteChaos", "d7/d97/a22838.html#a640c5301b22a0bfef2c4bcac4556a992", null ]
+    [ "boss_talon_king_ikiss", "d7/d97/a22838.html#acf8cbda5f7a33c026bfc0d6e7b31f43c", null ],
+    [ "CanAIAttack", "d7/d97/a22838.html#ab4858d845f149b6333941d8f8ab59afb", null ],
+    [ "JustDied", "d7/d97/a22838.html#ada1d993842d04453d6afad91e186a3fe", null ],
+    [ "JustEngagedWith", "d7/d97/a22838.html#a325312ce6695435fcca701720434c64f", null ],
+    [ "KilledUnit", "d7/d97/a22838.html#ae8d94f89a67f3a321c88327c076ddd77", null ],
+    [ "MoveInLineOfSight", "d7/d97/a22838.html#ab13808b75b1ca79b856e5b2e64e67d89", null ],
+    [ "Reset", "d7/d97/a22838.html#adcb1dca375ec548499da5a7690babc21", null ],
+    [ "_spoken", "d7/d97/a22838.html#a3e9e3a8575dbf21262ba2b4226182373", null ]
 ];

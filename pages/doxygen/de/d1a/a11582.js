@@ -1,7 +1,6 @@
 var a11582 =
 [
-    [ "PlayerDumpReader", "de/d1a/a11582.html#ad630b61e298fb1ddf165481c9a14e077", null ],
-    [ "LoadDump", "de/d1a/a11582.html#a62ca90cbcb0d03ec0da52651d8c5f783", null ],
-    [ "LoadDumpFromFile", "de/d1a/a11582.html#ae1ed88a6f181cf6ad952edb1285e192e", null ],
-    [ "LoadDumpFromString", "de/d1a/a11582.html#abd4ce2c50a74922792a7b00d803f03b2", null ]
+    [ "FieldGuidType", "de/d1a/a11582.html#a88e763ed9715ad76a0eb1c1a9ad7a59b", null ],
+    [ "FieldName", "de/d1a/a11582.html#a669f1ecf12148799e59e7b3e3124d681", null ],
+    [ "IsDependentField", "de/d1a/a11582.html#a241b9e8f5672e30732f0b938b02046d4", null ]
 ];

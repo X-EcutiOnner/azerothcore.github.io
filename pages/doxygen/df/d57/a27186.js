@@ -1,5 +1,5 @@
 var a27186 =
 [
-    [ "achievement_bg_sa_artillery", "df/d57/a27186.html#aa81ae215bc91fd4598d7c9a1b02e3fcc", null ],
-    [ "OnCheck", "df/d57/a27186.html#ac24f32f872ae32e90f06f642ea2dfebc", null ]
+    [ "achievement_bg_control_all_nodes", "df/d57/a27186.html#afa3c06227adff7a03998ac7c5f8147cf", null ],
+    [ "OnCheck", "df/d57/a27186.html#a69609eb5488519fa5a1f43b13a80e280", null ]
 ];

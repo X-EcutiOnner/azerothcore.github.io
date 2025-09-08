@@ -1,7 +1,6 @@
 var a17670 =
 [
-    [ "HandleScript", "df/d4b/a17670.html#a5fe0b684473bd5dd1ff9b12432ff3de8", null ],
-    [ "Load", "df/d4b/a17670.html#ab1d81386ae3ccd332c01864d7f456017", null ],
-    [ "PrepareSpellScript", "df/d4b/a17670.html#ae3ef753ff4c99aa8bed20ce3369a7e0f", null ],
-    [ "Register", "df/d4b/a17670.html#a7edb44f70501c2e760d29c8f78a4e087", null ]
+    [ "npc_icc_blood_beastAI", "d3/d2b/a17674.html", "d3/d2b/a17674" ],
+    [ "npc_icc_blood_beast", "df/d4b/a17670.html#ac6de0dfe16f39d192f1e49d3ab444d5a", null ],
+    [ "GetAI", "df/d4b/a17670.html#adf18d561b5d1c4c89e7f2ccb10f99492", null ]
 ];

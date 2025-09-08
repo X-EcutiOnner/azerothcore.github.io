@@ -1,6 +1,6 @@
 var a15958 =
 [
-    [ "npc_shadowpriest_sezzizAI", "d0/dfb/a15962.html", "d0/dfb/a15962" ],
-    [ "npc_shadowpriest_sezziz", "d5/d51/a15958.html#a1be46acc9d8f1405f925f7b7f87592ea", null ],
-    [ "GetAI", "d5/d51/a15958.html#a1513b766f18dbc290b6682582fd33b1d", null ]
+    [ "go_troll_cageAI", "d0/dfb/a15962.html", "d0/dfb/a15962" ],
+    [ "go_troll_cage", "d5/d51/a15958.html#ac571df719edabd9e9ecf5c8bb0e153c2", null ],
+    [ "GetAI", "d5/d51/a15958.html#a807f526225dc9a6b27ac64a7f4a3d9b8", null ]
 ];

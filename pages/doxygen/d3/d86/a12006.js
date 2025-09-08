@@ -1,11 +1,6 @@
 var a12006 =
 [
-    [ "npc_rocknotAI", "d3/d86/a12006.html#a4daa5104eabb6d38c22274b48a8514be", null ],
-    [ "DoGo", "d3/d86/a12006.html#a7591520e06782feddb98a86107fbcb27", null ],
-    [ "Reset", "d3/d86/a12006.html#a4d855a23c638e835de6f1c4644350166", null ],
-    [ "UpdateAI", "d3/d86/a12006.html#a1d3bce3248766393be5f84c5ca5030b1", null ],
-    [ "WaypointReached", "d3/d86/a12006.html#ae7d6f0b1e52767c61ad014accb1cec7a", null ],
-    [ "BreakDoor_Timer", "d3/d86/a12006.html#a3ae6edef4812fd3161c3b8ad5aa5cac2", null ],
-    [ "BreakKeg_Timer", "d3/d86/a12006.html#a6f380ad58cf55fe2ea9fc1f56118b454", null ],
-    [ "instance", "d3/d86/a12006.html#a4328c25f12f562cfdf41740e908cb3bd", null ]
+    [ "npc_phalanxAI", "dd/dbc/a12010.html", "dd/dbc/a12010" ],
+    [ "npc_phalanx", "d3/d86/a12006.html#a947ee4659fe2a46d775119ddcefeb939", null ],
+    [ "GetAI", "d3/d86/a12006.html#ab1e2a0950ab286d5abae3d46aef3c623", null ]
 ];

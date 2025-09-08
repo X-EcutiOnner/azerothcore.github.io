@@ -1,6 +1,6 @@
 var a12490 =
 [
-    [ "boss_baron_geddonAI", "dd/dbc/a12494.html", "dd/dbc/a12494" ],
-    [ "boss_baron_geddon", "d7/db0/a12490.html#ad72caf30219b4295c0be4289b9d25498", null ],
-    [ "GetAI", "d7/db0/a12490.html#a8f328680a5f99fb275cb0b3e8adf9c63", null ]
+    [ "instance_blackwing_lair_InstanceMapScript", "dd/dbc/a12494.html", "dd/dbc/a12494" ],
+    [ "instance_blackwing_lair", "d7/db0/a12490.html#afb9a7ce1ac297b023aa8364cc1383336", null ],
+    [ "GetInstanceScript", "d7/db0/a12490.html#a70aff4e1bb406f232d0b4961037ed0a1", null ]
 ];

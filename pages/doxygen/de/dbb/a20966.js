@@ -1,6 +1,6 @@
 var a20966 =
 [
-    [ "x", "de/dbb/a20966.html#ae4223168378b602a0a96dbb424a22be4", null ],
-    [ "y", "de/dbb/a20966.html#a30f361d8104e4de44541d75945105963", null ],
-    [ "z", "de/dbb/a20966.html#ae68a79519c35302b89976ac29bb77e26", null ]
+    [ "PrepareSpellScript", "de/dbb/a20966.html#ac84dedbb3343c15e32ae3c57d80a4561", null ],
+    [ "Register", "de/dbb/a20966.html#a27c5665b64c50df5d9c67d5136ab7567", null ],
+    [ "SelectTarget", "de/dbb/a20966.html#a0f9c85168ad0c0fda61f4bb1e97bd518", null ]
 ];

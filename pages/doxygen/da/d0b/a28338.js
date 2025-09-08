@@ -1,16 +1,8 @@
 var a28338 =
 [
-    [ "CanBeSetAtWar", "da/d0b/a28338.html#ae165dc23f25386eb086e1fa2cb820153", null ],
-    [ "CanHaveReputation", "da/d0b/a28338.html#ab3da6918e197c1098a932418d5c51799", null ],
-    [ "BaseRepClassMask", "da/d0b/a28338.html#ae73655de567de3766fcb3bbfb7f9eed3", null ],
-    [ "BaseRepRaceMask", "da/d0b/a28338.html#aa8e1c08416d07882af7075fbb020ae5a", null ],
-    [ "BaseRepValue", "da/d0b/a28338.html#a52f0753d1e1e69a4994eb6b1eab6824c", null ],
-    [ "ID", "da/d0b/a28338.html#a1953f7a343201113dae80cdd97e1ac90", null ],
-    [ "name", "da/d0b/a28338.html#ad9d326ed1aac5ea66825775665dfea00", null ],
-    [ "ReputationFlags", "da/d0b/a28338.html#ae23a3c94554b2043928d6e1ea748e709", null ],
-    [ "reputationListID", "da/d0b/a28338.html#aee99121c2d7298e16540229923391aee", null ],
-    [ "spilloverMaxRankIn", "da/d0b/a28338.html#a14cea5365f14880850e788ba328d0c8e", null ],
-    [ "spilloverRateIn", "da/d0b/a28338.html#a7a72bc65fb3fe76ffa1d072800c5daed", null ],
-    [ "spilloverRateOut", "da/d0b/a28338.html#a7cea150843bf48277aa9cc917d210fcb", null ],
-    [ "team", "da/d0b/a28338.html#a6210fabf2688f26a0a0050f6c148485d", null ]
+    [ "difficulty", "da/d0b/a28338.html#a2a04df701c13dc49053b09a9587a72a8", null ],
+    [ "encounterIndex", "da/d0b/a28338.html#a3d35560824a3aaeecb8db4bf8628ebfd", null ],
+    [ "encounterName", "da/d0b/a28338.html#af4f26f56526b945e392ddaf6b2d43fa1", null ],
+    [ "id", "da/d0b/a28338.html#aa9828ccc644a11f9cb35fbcc7d31a827", null ],
+    [ "mapId", "da/d0b/a28338.html#a61c1ac724c8eb96907d2ea9402a8f9ce", null ]
 ];

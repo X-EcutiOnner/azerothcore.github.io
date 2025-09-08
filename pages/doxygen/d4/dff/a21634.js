@@ -1,6 +1,6 @@
 var a21634 =
 [
-    [ "npc_azure_spellbreakerAI", "d0/d79/a21638.html", "d0/d79/a21638" ],
-    [ "npc_azure_spellbreaker", "d4/dff/a21634.html#a36f09ff7a60a04e6dd99bc37146000f8", null ],
-    [ "GetAI", "d4/dff/a21634.html#a7b2e89c33deef7fb5237b271dd5b0d12", null ]
+    [ "npc_azure_raiderAI", "d0/d79/a21638.html", "d0/d79/a21638" ],
+    [ "npc_azure_raider", "d4/dff/a21634.html#a249abee0df263e183341193b828a310c", null ],
+    [ "GetAI", "d4/dff/a21634.html#a88a45e3b117c5105f7541d640dda8470", null ]
 ];

@@ -1,14 +1,6 @@
 var a12190 =
 [
-    [ "boss_mor_grayhoof", "d3/df8/a12190.html#aef1001233a51ad3bb9963c540d39d79b", null ],
-    [ "CastRandomSpell", "d3/df8/a12190.html#a00756d64d24088ebf408153fcb59ff13", null ],
-    [ "DamageTaken", "d3/df8/a12190.html#a164a911eb9a86964a61866c05d44512f", null ],
-    [ "JustDied", "d3/df8/a12190.html#aa98fbfc5cc4ee94e0323d8586dae1e1c", null ],
-    [ "JustEngagedWith", "d3/df8/a12190.html#a043f6ee099efd0d49982b2966604e65a", null ],
-    [ "Reset", "d3/df8/a12190.html#af313bd8509a76cd6b6fbc197f15afbff", null ],
-    [ "UpdateAI", "d3/df8/a12190.html#aaa6a1a9b6e4259aea46d2f25bca3b809", null ],
-    [ "_phase", "d3/df8/a12190.html#a40bf6a66aefe7a605d94526b5a586ba6", null ],
-    [ "_scheduler", "d3/df8/a12190.html#ad2a897281d308475957e2636c6536fdd", null ],
-    [ "_sleepTargetGUID", "d3/df8/a12190.html#a8baa606696dc8acf532e8badfc6c624b", null ],
-    [ "_sleepTargetThreat", "d3/df8/a12190.html#ac62d7d30b12d0c2da9553b9689091e0e", null ]
+    [ "boss_highlordomokkAI", "d9/d3d/a12194.html", "d9/d3d/a12194" ],
+    [ "boss_highlord_omokk", "d3/df8/a12190.html#af5174587ed3cd1c46f604183a75de99e", null ],
+    [ "GetAI", "d3/df8/a12190.html#afb8efb012791c6a2fc18975a1ec7f984", null ]
 ];

@@ -1,6 +1,7 @@
 var a22942 =
 [
-    [ "FilterTargets", "d8/dfc/a22942.html#a91b9fdebdffcae06da1882d7d46f5460", null ],
-    [ "PrepareSpellScript", "d8/dfc/a22942.html#ae8f3906007580963bda33cd0e420299b", null ],
-    [ "Register", "d8/dfc/a22942.html#a5e191d4fca7cc95ddec8730cc3fd8ffe", null ]
+    [ "HandleEffectRemove", "d8/dfc/a22942.html#a0d8d042e6e9bf8fd26b6f283f6da6194", null ],
+    [ "PrepareAuraScript", "d8/dfc/a22942.html#a84ec7db2aab055bc4328a4d8862bd3f5", null ],
+    [ "Register", "d8/dfc/a22942.html#a9ee8e71020c17f593472de5a9c130753", null ],
+    [ "Validate", "d8/dfc/a22942.html#a08be3cb2bef2f4697b7e258b231bd35b", null ]
 ];

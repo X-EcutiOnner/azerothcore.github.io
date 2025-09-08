@@ -1,12 +1,14 @@
 var a22762 =
 [
-    [ "npc_stolen_soul", "d4/db1/a22762.html#a84a0bb8320b2332545748e010d855884", null ],
-    [ "DoAction", "d4/db1/a22762.html#abcfed6b9b46ce48a15b31d062a1618f4", null ],
-    [ "JustDied", "d4/db1/a22762.html#a6a1d6da5a448fd4b8910835d3a346e3a", null ],
-    [ "Reset", "d4/db1/a22762.html#a9f18ffbb42c988067b6dfa8355a4aba6", null ],
-    [ "SetGUID", "d4/db1/a22762.html#a0779fa3688118d2f9e1fdd4c6cf600f5", null ],
-    [ "UpdateAI", "d4/db1/a22762.html#a7bf369dd943ee36600a364d56b85db5a", null ],
-    [ "_myClass", "d4/db1/a22762.html#ade19b9cb41a674f6bd049a621970aeff", null ],
-    [ "_scheduler", "d4/db1/a22762.html#ab62526916f0ccd681383d37d19d94ccc", null ],
-    [ "_targetGuid", "d4/db1/a22762.html#a6efbe90928119902e4b5a7148b12cfac", null ]
+    [ "event_enter", "d4/db1/a22762.html#ac80d575f14dca1c901be55e34cc690e1", null ],
+    [ "event_leave", "d4/db1/a22762.html#a3dc0a11a5c06079026d27852e7561b74", null ],
+    [ "map_tower_a", "d4/db1/a22762.html#a9a65209caac3791b835c1920f5a667cf", null ],
+    [ "map_tower_h", "d4/db1/a22762.html#aa30ae484db7c69137abb13adb1b3c505", null ],
+    [ "map_tower_n", "d4/db1/a22762.html#a0453edceab2132e900bec183e360e210", null ],
+    [ "slider_disp", "d4/db1/a22762.html#aec3c8dde769675e3f436515c7a3bcf24", null ],
+    [ "slider_n", "d4/db1/a22762.html#a65015a3a24a5554643ecb5da47e24eea", null ],
+    [ "slider_pos", "d4/db1/a22762.html#acc63481f7613242ac06c6bee6c136a30", null ],
+    [ "ui_tower_a", "d4/db1/a22762.html#a0107bfd3b1df99568e02d6ca80042c86", null ],
+    [ "ui_tower_h", "d4/db1/a22762.html#a94a5fa0517fd0713b74f50a3d1d627cc", null ],
+    [ "ui_tower_n", "d4/db1/a22762.html#ae0fd99db88e6c60b829a18ff8e4be9a0", null ]
 ];

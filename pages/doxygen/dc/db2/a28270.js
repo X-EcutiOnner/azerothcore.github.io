@@ -1,9 +1,8 @@
 var a28270 =
 [
-    [ "CinematicSequence", "dc/db2/a28270.html#a7a0a35bbb69320565d991f4a349dc01b", null ],
-    [ "ClassID", "dc/db2/a28270.html#a9da8d8d20126e9dc161b1dd64a19fe59", null ],
-    [ "expansion", "dc/db2/a28270.html#a7c57eabd8d94849cd8536b013a8d4138", null ],
-    [ "name", "dc/db2/a28270.html#a2d0b7155b03af29bd982f31eba26ec24", null ],
-    [ "powerType", "dc/db2/a28270.html#a74aec35dc161a7e830453b9365a6f107", null ],
-    [ "spellfamily", "dc/db2/a28270.html#a43fbe48c99e297ea09e9e1f2edd6a4ea", null ]
+    [ "gender", "dc/db2/a28270.html#a571684c3aa6f2b0192b545d2a38ab333", null ],
+    [ "hair_id", "dc/db2/a28270.html#af4646a9adb0a1dc18b34158de2116b84", null ],
+    [ "Id", "dc/db2/a28270.html#a05de87081cf628e806d6518eef1424e4", null ],
+    [ "race", "dc/db2/a28270.html#a458f5a1e2aca1fd34bb1afadeb5f6db2", null ],
+    [ "type", "dc/db2/a28270.html#a289bb362ba13235c754647ba67be1e56", null ]
 ];

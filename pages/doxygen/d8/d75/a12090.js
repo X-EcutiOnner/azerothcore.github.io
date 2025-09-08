@@ -1,6 +1,6 @@
 var a12090 =
 [
-    [ "boss_magmusAI", "df/dac/a12094.html", "df/dac/a12094" ],
-    [ "boss_magmus", "d8/d75/a12090.html#a97747c0d7e1fd33204033d6061d6d570", null ],
-    [ "GetAI", "d8/d75/a12090.html#a171bc08a8dd9fa502f3b2b6cf736fd52", null ]
+    [ "boss_hedrumAI", "df/dac/a12094.html", "df/dac/a12094" ],
+    [ "boss_hedrum", "d8/d75/a12090.html#a655d348dec9ce9b585ea12f3629b0aa7", null ],
+    [ "GetAI", "d8/d75/a12090.html#a7033d315852aa4905784e957679ee261", null ]
 ];

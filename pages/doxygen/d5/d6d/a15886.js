@@ -1,14 +1,12 @@
 var a15886 =
 [
-    [ "npc_ringoAI", "d5/d6d/a15886.html#a816dcad96afa6bec595f4b2dfe6fb11c", null ],
-    [ "ClearFaint", "d5/d6d/a15886.html#abd24108debcafafa601958824d44abbb", null ],
-    [ "MoveInLineOfSight", "d5/d6d/a15886.html#a6758ef2fe371338826dfc8582d6d03f0", null ],
-    [ "Reset", "d5/d6d/a15886.html#a5b2cf17642bd4a560abb54b8d42bcd25", null ],
-    [ "SetFaint", "d5/d6d/a15886.html#a09d3770aade34afe5a3a15e17cc64933", null ],
-    [ "SpellHit", "d5/d6d/a15886.html#ad30d1a9fb84cc777d48b1363cf571d72", null ],
-    [ "UpdateFollowerAI", "d5/d6d/a15886.html#a3b0effa8ec4d335a1d24d2238346b04a", null ],
-    [ "EndEventProgress", "d5/d6d/a15886.html#a4df563b83103bbd7e1f0d81a78f6401a", null ],
-    [ "EndEventTimer", "d5/d6d/a15886.html#a03f20114ca340c7c710bd77ee3c905ef", null ],
-    [ "FaintTimer", "d5/d6d/a15886.html#a37d12c7edf3100837c99e3fb572f4bf1", null ],
-    [ "SpraggleGUID", "d5/d6d/a15886.html#a3b58d34a1263355e7b11e22e0eef00a5", null ]
+    [ "npc_cairne_bloodhoofAI", "d5/d6d/a15886.html#ac87f0d10b1886ffa24ae201fdb614441", null ],
+    [ "Reset", "d5/d6d/a15886.html#ab58f32a6bd1659b1a54fb056526c121a", null ],
+    [ "sGossipSelect", "d5/d6d/a15886.html#aa95b820eb4d3c6c5f1898a67c319b1a6", null ],
+    [ "UpdateAI", "d5/d6d/a15886.html#aefcbb7b2da6d1039055c27feeb1f5f9e", null ],
+    [ "_berserkerChargeTimer", "d5/d6d/a15886.html#a2efb1949abe83dadf62b5c868ae57fe2", null ],
+    [ "_cleaveTimer", "d5/d6d/a15886.html#ab1ed741e998cd7ed088cab3af378b3ca", null ],
+    [ "_mortalStrikeTimer", "d5/d6d/a15886.html#a9f33790662ce229669e5d1d6f2aac8b0", null ],
+    [ "_thunderclapTimer", "d5/d6d/a15886.html#a6bdca667875353db2badc40fd95a1ce4", null ],
+    [ "_uppercutTimer", "d5/d6d/a15886.html#a9f13acd7df900d9bdac64898b183c67d", null ]
 ];

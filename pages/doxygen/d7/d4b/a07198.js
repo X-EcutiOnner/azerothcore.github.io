@@ -1,12 +1,11 @@
 var a07198 =
 [
-    [ "damageText", "d7/d4b/a07198.html#af83062a39d8dfc89bf61a4364bd8579d", null ],
-    [ "destroyText", "d7/d4b/a07198.html#a81747f8ff920f7c17a55d45d43304cc9", null ],
-    [ "entry", "d7/d4b/a07198.html#a58d0395a47190698d309e80d91358bb1", null ],
-    [ "o", "d7/d4b/a07198.html#a21238943701f594e1a5346193c895d33", null ],
-    [ "type", "d7/d4b/a07198.html#a3cebd422659aa7339e9a23a87cfad0d7", null ],
-    [ "WorldState", "d7/d4b/a07198.html#a4b4881aba2d297e125443f0c8ccab618", null ],
-    [ "x", "d7/d4b/a07198.html#a80ebabba7265753a05367a4c79f6450c", null ],
-    [ "y", "d7/d4b/a07198.html#a5d8ade187749e6fc191f01b384a4cda6", null ],
-    [ "z", "d7/d4b/a07198.html#a3913a2618277cc5ad382aa2fc1d00f5e", null ]
+    [ "gyid", "d7/d4b/a07198.html#a742fcc91d2daf1a9331f02a90496328c", null ],
+    [ "o", "d7/d4b/a07198.html#a9c761e77b7194ab1bb80d28f2b1e1f6d", null ],
+    [ "startcontrol", "d7/d4b/a07198.html#a8b0aed9e6973ce6efc5d89a0d10a4139", null ],
+    [ "textid", "d7/d4b/a07198.html#a87d80377ad632b9d667eecf11ae8faae", null ],
+    [ "type", "d7/d4b/a07198.html#ae1a4b69ea4edabe51f1378c6cb066cad", null ],
+    [ "x", "d7/d4b/a07198.html#ad69833b4e2a27999dcd13e5ac5bda892", null ],
+    [ "y", "d7/d4b/a07198.html#a405e8098772e77250683985f957ce5f3", null ],
+    [ "z", "d7/d4b/a07198.html#a844e4c9c9b1a9a22a817025ccda7f08d", null ]
 ];

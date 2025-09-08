@@ -1,16 +1,7 @@
 var a11622 =
 [
-    [ "CheckContainer", "d0/db0/a11622.html#a08e083224760d2bca1996da9cd9cb014", null ],
-    [ "CheckResultContainer", "d0/db0/a11622.html#a6ce6feb03f6e0250bc03fea4612098df", null ],
-    [ "WardenCheckMgr", "d0/db0/a11622.html#a2de08c0613dd688f4bbbb4cc572f3d72", null ],
-    [ "~WardenCheckMgr", "d0/db0/a11622.html#a0d89190f580435337c328da4bf2497b8", null ],
-    [ "GetMaxValidCheckId", "d0/db0/a11622.html#a79926d8228c3252fc0eabe295f6e78a8", null ],
-    [ "GetWardenDataById", "d0/db0/a11622.html#a290e74857c1b1a50ced0a46b7477fa4c", null ],
-    [ "GetWardenResultById", "d0/db0/a11622.html#a8c06b4f57a84a8229ad1674a5048ced9", null ],
-    [ "instance", "d0/db0/a11622.html#aba9de1e123070338dc0049db8d8f0663", null ],
-    [ "LoadWardenChecks", "d0/db0/a11622.html#ad02847547a06d98c582d09992dce9d11", null ],
-    [ "LoadWardenOverrides", "d0/db0/a11622.html#a0a82e118a8f8236fecf1b00de0e2071c", null ],
-    [ "CheckIdPool", "d0/db0/a11622.html#ac1d20dec3028cdff0f475c4aff8af928", null ],
-    [ "CheckResultStore", "d0/db0/a11622.html#a4f0224b8377827aced304b28fdefbda7", null ],
-    [ "CheckStore", "d0/db0/a11622.html#aac59e154d81b838f27c577af87b86bd1", null ]
+    [ "CompressedData", "d0/db0/a11622.html#a22e1d740e6c3094fea83eb1a44e40944", null ],
+    [ "CompressedSize", "d0/db0/a11622.html#ab57879b41c825623a989db13a53f2f4e", null ],
+    [ "Id", "d0/db0/a11622.html#af1e6a5cc01ee05432be5c41c88d84794", null ],
+    [ "Key", "d0/db0/a11622.html#ad100540b5c6722a19c938b134a985aed", null ]
 ];

@@ -1,6 +1,5 @@
 var a22362 =
 [
-    [ "npc_bushwhackerAI", "dd/dac/a22362.html#a0cf480b75aa45a9f3572c4a65df2daee", null ],
-    [ "InitializeAI", "dd/dac/a22362.html#a18db5870e62378ff49472f7a5881861c", null ],
-    [ "UpdateAI", "dd/dac/a22362.html#aadc3384626d728942897fe93750f0c02", null ]
+    [ "go_pressure_valve", "dd/dac/a22362.html#a43a91a1379001ecd3e825d7d4fcd3c6b", null ],
+    [ "OnGossipHello", "dd/dac/a22362.html#a6b81a04a33cd5e1e577fc80a3b1f706c", null ]
 ];

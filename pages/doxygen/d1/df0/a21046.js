@@ -1,6 +1,7 @@
 var a21046 =
 [
-    [ "boss_yoggsaron_descend_portalAI", "d5/d47/a21050.html", "d5/d47/a21050" ],
-    [ "boss_yoggsaron_descend_portal", "d1/df0/a21046.html#aaf546e4e546d87818bd501b4934e8ab2", null ],
-    [ "GetAI", "d1/df0/a21046.html#aceb50c808eed17ca468a80b823af1907", null ]
+    [ "boss_yoggsaron_corruptor_tentacleAI", "d1/df0/a21046.html#a5f8fbd8ac772fad79f809de4d3128574", null ],
+    [ "DoAction", "d1/df0/a21046.html#abac26b3be775eea734403be36cbed4d2", null ],
+    [ "SelectCorruptionTarget", "d1/df0/a21046.html#a1d61b34d31794cd2bdcddfe91dc1103e", null ],
+    [ "UpdateAI", "d1/df0/a21046.html#a0269d1dc655af5680d7074cb093740b8", null ]
 ];

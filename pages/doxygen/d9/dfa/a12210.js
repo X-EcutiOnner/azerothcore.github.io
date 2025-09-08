@@ -1,6 +1,6 @@
 var a12210 =
 [
-    [ "npc_blackhand_incarceratorAI", "dd/d16/a12214.html", "dd/d16/a12214" ],
-    [ "npc_blackhand_incarcerator", "d9/dfa/a12210.html#a0c6bb8ea789e81803a11be57ac1b68e2", null ],
-    [ "GetAI", "d9/dfa/a12210.html#a021ddf6442812f7fb698ba7fb45b9ffb", null ]
+    [ "boss_overlordwyrmthalakAI", "dd/d16/a12214.html", "dd/d16/a12214" ],
+    [ "boss_overlord_wyrmthalak", "d9/dfa/a12210.html#a2af6edf776c189d43cb82cc35bb838fe", null ],
+    [ "GetAI", "d9/dfa/a12210.html#a56de538f25cbabc9346b987dbfe680a1", null ]
 ];

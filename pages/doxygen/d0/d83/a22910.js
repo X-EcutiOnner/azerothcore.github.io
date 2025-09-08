@@ -1,7 +1,5 @@
 var a22910 =
 [
-    [ "npc_blade_of_azzinoth", "d0/d83/a22910.html#a55afe56313c237afe8080662b2ed2dba", null ],
-    [ "DoAction", "d0/d83/a22910.html#a8e746da7672c0177c4b6c91b1e9d2eb5", null ],
-    [ "IsSummonedBy", "d0/d83/a22910.html#af2925da1235b809ee81469fe32ab0f92", null ],
-    [ "JustSummoned", "d0/d83/a22910.html#a501e2d1ae9af813fd9c30395e7774983", null ]
+    [ "ChargeTargetSelector", "d0/d83/a22910.html#a064e7d9008bfc85b7c636490c7aaf714", null ],
+    [ "operator()", "d0/d83/a22910.html#a596223da822f5a08281fe709cca95909", null ]
 ];

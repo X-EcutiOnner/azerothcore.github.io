@@ -1,6 +1,20 @@
 var a23726 =
 [
-    [ "HandleScriptEffect", "d0/d4f/a23726.html#adf350bccc5862252f6928faa4ae3a001", null ],
-    [ "PrepareSpellScript", "d0/d4f/a23726.html#a0d1ff479da3b8f50ed698da9f9029589", null ],
-    [ "Register", "d0/d4f/a23726.html#afaf23967ede6e120caa7758ff2d3c974", null ]
+    [ "instance_blood_furnace_InstanceMapScript", "d0/d4f/a23726.html#adb0173cb42642836f7734d8b0fb3e98f", null ],
+    [ "ActivateCell", "d0/d4f/a23726.html#abd718216778850455c758d79a5866958", null ],
+    [ "ActivatePrisoners", "d0/d4f/a23726.html#a18488afb78747a35ce7e3b4b9a2468b5", null ],
+    [ "GetGuidData", "d0/d4f/a23726.html#af7f6acc97bf16f4d31236dcbb2d94007", null ],
+    [ "Initialize", "d0/d4f/a23726.html#a3441a24486ec686d42b7320e6f105139", null ],
+    [ "OnCreatureCreate", "d0/d4f/a23726.html#ac58da5acec155e596791464c48f29773", null ],
+    [ "OnGameObjectCreate", "d0/d4f/a23726.html#a3894ce1d0dff79cee2ff0df51d19e1ea", null ],
+    [ "OnUnitDeath", "d0/d4f/a23726.html#a78b07bfe30c7f329046ff572f783c4b9", null ],
+    [ "PrisonerDied", "d0/d4f/a23726.html#a16315f7921b1960c7720f855cdddee96", null ],
+    [ "ResetPrisoner", "d0/d4f/a23726.html#a57f58c502b5fb2064307adb8c4976979", null ],
+    [ "ResetPrisoners", "d0/d4f/a23726.html#ac46b0ed98e69ac0d5b8582bb21a81dc8", null ],
+    [ "ResetPrisons", "d0/d4f/a23726.html#a728bbc185bb91cf024f8ff3bd878a10e", null ],
+    [ "SetBossState", "d0/d4f/a23726.html#aad428e00762795d8f817d6cfa25505fe", null ],
+    [ "StorePrisoner", "d0/d4f/a23726.html#ade72b3e7a2129b8a4f722990aef5ac5f", null ],
+    [ "_prisonerCounter", "d0/d4f/a23726.html#a50c371edc425191f610a0e8a6b44d2ab", null ],
+    [ "_prisonersCell", "d0/d4f/a23726.html#a3492a327f4c0d637fd5701f3997c1887", null ],
+    [ "_prisonGUIDs", "d0/d4f/a23726.html#a9a737e495b638ec65fbd306c6aa0267c", null ]
 ];

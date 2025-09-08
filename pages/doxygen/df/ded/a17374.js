@@ -1,7 +1,6 @@
 var a17374 =
 [
-    [ "HandleApplyAura", "df/ded/a17374.html#ac71784d7d135df4828ddcf5c85c4301c", null ],
-    [ "PrepareSpellScript", "df/ded/a17374.html#a097bf3b27e4b2d9ceddea07b9c0b8ce9", null ],
-    [ "Register", "df/ded/a17374.html#a80638966202cb9e27d204ea621e379ef", null ],
-    [ "Validate", "df/ded/a17374.html#aaa3505a74905b91f52e37b0ded0ba7fd", null ]
+    [ "boss_eckAI", "d3/d42/a17378.html", "d3/d42/a17378" ],
+    [ "boss_eck", "df/ded/a17374.html#aa445927936d7759a8c3289e2899181e5", null ],
+    [ "GetAI", "df/ded/a17374.html#a335755ec7416d3e00a4070e03569293a", null ]
 ];

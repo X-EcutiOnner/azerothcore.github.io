@@ -1,6 +1,7 @@
 var a15710 =
 [
-    [ "Creature", "d6/dc4/a15710.html#a77b33f8998f85808b58052079b1cab54", null ],
-    [ "TextId", "d6/dc4/a15710.html#ad691f3cd40035e96547adf7528229119", null ],
-    [ "Timer", "d6/dc4/a15710.html#accfccceaedffb3ad4d02231fb0bfeee5", null ]
+    [ "npc_shenthulAI", "da/d13/a15714.html", "da/d13/a15714" ],
+    [ "npc_shenthul", "d6/dc4/a15710.html#a77815503c7d9c811fe3821232e308714", null ],
+    [ "GetAI", "d6/dc4/a15710.html#a1683f8c89add6270277c59951c74027e", null ],
+    [ "OnQuestAccept", "d6/dc4/a15710.html#a3a63fec338dca74eb7d071dfcc9c95b5", null ]
 ];

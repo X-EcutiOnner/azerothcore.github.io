@@ -1,8 +1,6 @@
 var a07874 =
 [
-    [ "ThreatMgrEvent", "d9/d64/a07874.html#ad8d5d86b12e5c13f25f8598ef5670eb8", null ],
-    [ "ThreatMgrEvent", "d9/d64/a07874.html#a332ae279dc4c243c148e07454611a057", null ],
-    [ "getThreatContainer", "d9/d64/a07874.html#a15ab83dccbbae73cbd2ec0a376d57d28", null ],
-    [ "setThreatContainer", "d9/d64/a07874.html#aaffdff7ac81e949adc076b113a824cbf", null ],
-    [ "iThreatContainer", "d9/d64/a07874.html#a7f32669286852385312b86e0b70e177e", null ]
+    [ "ThreatOrderPred", "d9/d64/a07874.html#a33b2897bfd994ce57628f939814facba", null ],
+    [ "operator()", "d9/d64/a07874.html#a5f668d69e800b472bc64711199f2b732", null ],
+    [ "m_ascending", "d9/d64/a07874.html#ad4d70c60ed781e443f07ad1b81afd10d", null ]
 ];

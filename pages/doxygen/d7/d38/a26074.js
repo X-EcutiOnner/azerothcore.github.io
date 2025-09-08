@@ -1,6 +1,6 @@
 var a26074 =
 [
-    [ "HandleEffect", "d7/d38/a26074.html#a41b46d8918b59a1617f383b3eedfe343", null ],
-    [ "PrepareSpellScript", "d7/d38/a26074.html#acfc69e6323292e6c64fbe8d2e10efcdc", null ],
-    [ "Register", "d7/d38/a26074.html#a78f1476ed28eb1e80356dbf3d32918f5", null ]
+    [ "CalculateDamage", "d7/d38/a26074.html#a05c6a249b32f41d8d33b40d07bd3c44d", null ],
+    [ "PrepareSpellScript", "d7/d38/a26074.html#ace682a64f3ca32e4f4151034ad936ea6", null ],
+    [ "Register", "d7/d38/a26074.html#a6dc3beb1f857c2c2a719bd882cc3568d", null ]
 ];

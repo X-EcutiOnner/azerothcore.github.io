@@ -1,10 +1,8 @@
 var a09474 =
 [
-    [ "GameObjectInRangeCheck", "d7/d17/a09474.html#a62075fc1b342fe6e40998dad928da71a", null ],
-    [ "operator()", "d7/d17/a09474.html#aa49818fa638dbd3909e5f563383346f2", null ],
-    [ "entry", "d7/d17/a09474.html#a9223c931b791ad689451f7f0c874b6a9", null ],
-    [ "range", "d7/d17/a09474.html#addf45c48385df26aa544957d7d24f1ec", null ],
-    [ "x", "d7/d17/a09474.html#af52ee33b2324eb80f4ad47f2eee1dbb5", null ],
-    [ "y", "d7/d17/a09474.html#a98acab0031dbf8b0a3943c3a6522c9d3", null ],
-    [ "z", "d7/d17/a09474.html#a814909bb047b8b0e0dd4f7ba0c479c64", null ]
+    [ "AllCreaturesMatchingOneEntryInRange", "d7/d17/a09474.html#a440899ae5e52fedea316b7caa550455e", null ],
+    [ "operator()", "d7/d17/a09474.html#a95c87356617b135cc3ab0aec74e9f9c9", null ],
+    [ "m_fRange", "d7/d17/a09474.html#ac3ca671167fe5dbc8f9798327a8a3fcf", null ],
+    [ "m_pObject", "d7/d17/a09474.html#a1a7b27a1b2f0d623829605e42bf98900", null ],
+    [ "m_uiEntries", "d7/d17/a09474.html#a8411b275c6aad74eac83147a6d06fb0b", null ]
 ];

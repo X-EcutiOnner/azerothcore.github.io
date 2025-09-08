@@ -104,26 +104,28 @@ $(document).ready(function(){initNavTree('d6/dcf/a05722.html','../../'); initRes
 </div>
 
 <div class="header">
-  <div class="headertitle"><div class="title">DatabaseWorker Member List</div></div>
+  <div class="headertitle"><div class="title">Transaction&lt; T &gt; Member List</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p>This is the complete list of members for <a class="el" href="../../d6/dcf/a05722.html">DatabaseWorker</a>, including all inherited members.</p>
+<p>This is the complete list of members for <a class="el" href="../../d6/dcf/a05722.html">Transaction&lt; T &gt;</a>, including all inherited members.</p>
 <table class="directory">
-  <tr class="even"><td class="entry"><a class="el" href="../../d6/dcf/a05722.html#a2f21d73b584d9e5f17afc7a0ac78f129">_connection</a></td><td class="entry"><a class="el" href="../../d6/dcf/a05722.html">DatabaseWorker</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d6/dcf/a05722.html#a9c47ad6c0d4dca85a63be45c4e678a70">_queue</a></td><td class="entry"><a class="el" href="../../d6/dcf/a05722.html">DatabaseWorker</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d6/dcf/a05722.html#ad02a90f600f1996c053f36e186edf292">_workerThread</a></td><td class="entry"><a class="el" href="../../d6/dcf/a05722.html">DatabaseWorker</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d6/dcf/a05722.html#a64450680e7b6e31bb42ce4f79788eb27">DatabaseWorker</a>(ProducerConsumerQueue&lt; SQLOperation * &gt; *newQueue, MySQLConnection *connection)</td><td class="entry"><a class="el" href="../../d6/dcf/a05722.html">DatabaseWorker</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d6/dcf/a05722.html#aa43f1d875400b0ba6c031e0811397ed3">DatabaseWorker</a>(DatabaseWorker const &amp;right)=delete</td><td class="entry"><a class="el" href="../../d6/dcf/a05722.html">DatabaseWorker</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d6/dcf/a05722.html#a15e753c757da609b55a66380f526091a">operator=</a>(DatabaseWorker const &amp;right)=delete</td><td class="entry"><a class="el" href="../../d6/dcf/a05722.html">DatabaseWorker</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d6/dcf/a05722.html#ab74cbccbb68bfbbab58550eced982d1a">WorkerThread</a>()</td><td class="entry"><a class="el" href="../../d6/dcf/a05722.html">DatabaseWorker</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d6/dcf/a05722.html#a170c873cbc917ece6a87591450dbe5a9">~DatabaseWorker</a>()</td><td class="entry"><a class="el" href="../../d6/dcf/a05722.html">DatabaseWorker</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d0/dba/a05906.html#aa82af96128bfcee997423a54396d40d4">_cleanedUp</a></td><td class="entry"><a class="el" href="../../d0/dba/a05906.html">TransactionBase</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d6/dcf/a05722.html#a290b052f7cbd321c646e9e5e19484444">Append</a>(PreparedStatement&lt; T &gt; *statement)</td><td class="entry"><a class="el" href="../../d6/dcf/a05722.html">Transaction&lt; T &gt;</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d6/dcf/a05722.html#a867b7a92080104278aef5fb4975a4a52">Append</a>(std::string_view sql)</td><td class="entry"><a class="el" href="../../d6/dcf/a05722.html">Transaction&lt; T &gt;</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d6/dcf/a05722.html#aa0a81814abe26d456018c3bc9153cd4d">Append</a>(std::string_view sql, Args &amp;&amp;... args)</td><td class="entry"><a class="el" href="../../d6/dcf/a05722.html">Transaction&lt; T &gt;</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d0/dba/a05906.html#a8e099a4f8775b5e5e3b95ad0273a716f">AppendPreparedStatement</a>(PreparedStatementBase *statement)</td><td class="entry"><a class="el" href="../../d0/dba/a05906.html">TransactionBase</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d0/dba/a05906.html#a35e0ce11de325a1b286d90a2936d4aa3">Cleanup</a>()</td><td class="entry"><a class="el" href="../../d0/dba/a05906.html">TransactionBase</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d0/dba/a05906.html#a261ad9d7423562ccbe2cac6d75c203bd">GetSize</a>() const</td><td class="entry"><a class="el" href="../../d0/dba/a05906.html">TransactionBase</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d0/dba/a05906.html#a156f1a8316358c05285778e5734eade1">m_queries</a></td><td class="entry"><a class="el" href="../../d0/dba/a05906.html">TransactionBase</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d0/dba/a05906.html#a663d13ba0b22e0711d135073ff80ee47">TransactionBase</a>()=default</td><td class="entry"><a class="el" href="../../d0/dba/a05906.html">TransactionBase</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d0/dba/a05906.html#a6ce7e6ef81bb466463bace35cdd49476">~TransactionBase</a>()</td><td class="entry"><a class="el" href="../../d0/dba/a05906.html">TransactionBase</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
 </table></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Mon Sep 1 2025 20:43:48 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Sep 8 2025 20:45:48 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

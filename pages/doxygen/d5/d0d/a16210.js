@@ -1,7 +1,6 @@
 var a16210 =
 [
-    [ "CheckDistance", "d5/d0d/a16210.html#ac10f4cebab4966a220cd931afd0e0a30", null ],
-    [ "PrepareSpellScript", "d5/d0d/a16210.html#adb14940f47dc509d75a4e81bb90fc40d", null ],
-    [ "Register", "d5/d0d/a16210.html#a3a64ffc872e4650b1d226d20d9bedc65", null ],
-    [ "Validate", "d5/d0d/a16210.html#aa5d7a420154b156ca24e73de2faf912a", null ]
+    [ "boss_baltharus_the_warbornAI", "d0/dd5/a16214.html", "d0/dd5/a16214" ],
+    [ "boss_baltharus_the_warborn", "d5/d0d/a16210.html#aababb8862273d60f140dce675131783d", null ],
+    [ "GetAI", "d5/d0d/a16210.html#afe7ecf8635c8c0a051047a801c2a8d54", null ]
 ];

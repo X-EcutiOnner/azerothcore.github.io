@@ -1,7 +1,9 @@
 var a13398 =
 [
-    [ "HandleScriptEffect", "d1/ddd/a13398.html#a703ac8467126f5c2aee393fcf2400ffc", null ],
-    [ "PrepareSpellScript", "d1/ddd/a13398.html#a17c49de5f6a37ff83126398d96b43a51", null ],
-    [ "Register", "d1/ddd/a13398.html#ae205d84cdbe3fbfa519e7d1c8f2ffe16", null ],
-    [ "Validate", "d1/ddd/a13398.html#a17d53f598be9fe9e9790bb96dfcb4891", null ]
+    [ "boss_brutallus", "d1/ddd/a13398.html#a501c898505eb4265edee1546bc54713e", null ],
+    [ "AttackStart", "d1/ddd/a13398.html#a05edf7010f4e7364399bc81582502219", null ],
+    [ "JustDied", "d1/ddd/a13398.html#a48ae6589613f2ac90a499b9b6ae07d01", null ],
+    [ "JustEngagedWith", "d1/ddd/a13398.html#a04ff0c07c578c3b92cf45d1ed27fb883", null ],
+    [ "KilledUnit", "d1/ddd/a13398.html#a608607d83680da85f91324ce0035804b", null ],
+    [ "Reset", "d1/ddd/a13398.html#a20ad64739072e39e7ff3132c6f637af7", null ]
 ];

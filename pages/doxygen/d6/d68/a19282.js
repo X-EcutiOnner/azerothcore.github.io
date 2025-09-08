@@ -1,8 +1,6 @@
 var a19282 =
 [
-    [ "boss_maexxna_webwrapAI", "d6/d68/a19282.html#a1423b619676f650f71c8e7215aa2a2b7", null ],
-    [ "IsSummonedBy", "d6/d68/a19282.html#a1d434373ccc7dd54c5de7bc99487170a", null ],
-    [ "JustDied", "d6/d68/a19282.html#a1ed18e791d2a5ae26cd1c2f3cdf37d82", null ],
-    [ "UpdateAI", "d6/d68/a19282.html#a05220fcded67e15bbd94d13d0b9581a2", null ],
-    [ "victimGUID", "d6/d68/a19282.html#a54081ebfc0df639b7e18b5f079802c92", null ]
+    [ "WebTargetSelector", "d6/d68/a19282.html#a2f19cffab18fd6f2f5a1d296aa1db47d", null ],
+    [ "operator()", "d6/d68/a19282.html#a289821eaae114ba384a9ee9b8c19325f", null ],
+    [ "_maexxna", "d6/d68/a19282.html#ad21c9ac380f7b97aacc06f08f1c45974", null ]
 ];

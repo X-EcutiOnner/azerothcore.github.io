@@ -1,9 +1,6 @@
 var a18990 =
 [
-    [ "npc_icc_severed_essenceAI", "d9/d53/a18990.html#a76366c33ab9ec7aa291c0df657fbef68", null ],
-    [ "CanAIAttack", "d9/d53/a18990.html#a2cc2cfc967f9ad966d76571eb0eb630f", null ],
-    [ "DoAction", "d9/d53/a18990.html#a938af3a7de5b26432e1ad515a326a032", null ],
-    [ "UpdateAI", "d9/d53/a18990.html#a66e3324baa87ba109dd968a517ee82a5", null ],
-    [ "Class", "d9/d53/a18990.html#aa627713be3a2ac01336d158d96aaccc7", null ],
-    [ "events", "d9/d53/a18990.html#a1bab216925c4123d633d9613bb80365c", null ]
+    [ "npc_icc_valkyr_heraldAI", "dd/d36/a18994.html", "dd/d36/a18994" ],
+    [ "npc_icc_valkyr_herald", "d9/d53/a18990.html#a9d06e0dec8cb960d34c2089c1c0d8ccb", null ],
+    [ "GetAI", "d9/d53/a18990.html#a7537269841d0380d2dc9e4641705acf9", null ]
 ];

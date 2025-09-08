@@ -1,15 +1,14 @@
 var a14074 =
 [
-    [ "npc_amanishi_tempest", "dd/d4e/a14074.html#a8e15b39501998e9f8c45baef0963d160", null ],
-    [ "DoAction", "dd/d4e/a14074.html#a50963cc0aac2560f6ddbf81000943ac3", null ],
-    [ "EnterEvadeMode", "dd/d4e/a14074.html#a66c787bd318fdcad83b7b5008b4979f9", null ],
-    [ "JustDied", "dd/d4e/a14074.html#aadda903d17a5f4560ce2db896bd7b257", null ],
-    [ "JustEngagedWith", "dd/d4e/a14074.html#af277f5d1f73cf79ea8cfcb1e4fc744e3", null ],
-    [ "JustSummoned", "dd/d4e/a14074.html#aac72fdc33051370c3cffa388f466b6be", null ],
-    [ "Reset", "dd/d4e/a14074.html#aa921f85142f9103bea839bdc0330e1cc", null ],
-    [ "ScheduleEvents", "dd/d4e/a14074.html#a09ba0ce51ad981578adcc1950c89d5ae", null ],
-    [ "SummonedCreatureEvade", "dd/d4e/a14074.html#a61eebb122c9288c826cdf352c17e0590", null ],
-    [ "UpdateAI", "dd/d4e/a14074.html#ad8f6b32c3f08eb2a4ac36a8d91434a4d", null ],
-    [ "_instance", "dd/d4e/a14074.html#ab88e1d1ad979192f0519045d8ed2e14f", null ],
-    [ "_summons", "dd/d4e/a14074.html#a4337b2bc417d8dafc4a6d5d10bbd0db9", null ]
+    [ "npc_harrison_jones", "dd/d4e/a14074.html#ae408c9533166f8919c121053a3efff6c", null ],
+    [ "DoAction", "dd/d4e/a14074.html#a2ecf8a9f807e879530ee6a094475e67b", null ],
+    [ "JustEngagedWith", "dd/d4e/a14074.html#a884e5973ed597eeeb606f5b8a2b1c028", null ],
+    [ "MovementInform", "dd/d4e/a14074.html#a5ee27ccc1aea33ecc8aee5b703e05174", null ],
+    [ "OpenMassiveGateAndCallGuards", "dd/d4e/a14074.html#a8f15098ad66e2d13ddfababc2ad2e33b", null ],
+    [ "Reset", "dd/d4e/a14074.html#a11b1b2da283ddaa475f3f42534702f5b", null ],
+    [ "sGossipSelect", "dd/d4e/a14074.html#ae56b80041fa198063a9ce87729142420", null ],
+    [ "SpellHit", "dd/d4e/a14074.html#ad3ead59986b9340529bb6c6f42dbc137", null ],
+    [ "UpdateAI", "dd/d4e/a14074.html#a0c64f294257e98522e0f32171aee6080", null ],
+    [ "_instance", "dd/d4e/a14074.html#adb995a4b18607a5bd7555ce6989c2525", null ],
+    [ "_phase", "dd/d4e/a14074.html#a1620b4f7407aa49c3e16876148c49ba7", null ]
 ];

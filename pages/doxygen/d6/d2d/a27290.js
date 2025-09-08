@@ -1,6 +1,6 @@
 var a27290 =
 [
-    [ "boss_ysondreAI", "d1/d8c/a27294.html", "d1/d8c/a27294" ],
-    [ "boss_ysondre", "d6/d2d/a27290.html#ad12dbb728f4f0cdf2f4c0ba9cd2a167d", null ],
-    [ "GetAI", "d6/d2d/a27290.html#a0da215d7bc8ee86216887e682b9335c3", null ]
+    [ "AreaTrigger_at_brewfest", "d6/d2d/a27290.html#ad7e2916aefc6efbfb9f747a75a4a14a3", null ],
+    [ "OnTrigger", "d6/d2d/a27290.html#a17e4a8d671136466c7673789e4f69a84", null ],
+    [ "_triggerTimes", "d6/d2d/a27290.html#ab763765427796ad17338bcc8d63cf891", null ]
 ];

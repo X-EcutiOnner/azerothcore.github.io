@@ -1,5 +1,6 @@
 var a12838 =
 [
-    [ "at_karazhan_mirkblood_entrance", "df/d72/a12838.html#aa5537dc8616c1f748b6be4b1e2870ca7", null ],
-    [ "OnTrigger", "df/d72/a12838.html#ad99c85de36a369752fa61bab761a402e", null ]
+    [ "HandleHit", "df/d72/a12838.html#ae6dbaebdc4b0248215416e8d4550d2cb", null ],
+    [ "PrepareSpellScript", "df/d72/a12838.html#ae08237f9eb95cc8a4b53a7de50af7b91", null ],
+    [ "Register", "df/d72/a12838.html#a84853f416eb8250dc3d863dbe22a157f", null ]
 ];

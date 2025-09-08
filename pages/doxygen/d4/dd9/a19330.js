@@ -1,6 +1,6 @@
 var a19330 =
 [
-    [ "FilterTargets", "d4/dd9/a19330.html#a4d5340e7b2e3326ff36b4d61d1faeaa9", null ],
-    [ "PrepareSpellScript", "d4/dd9/a19330.html#a452937a4e95b40366f915213ec475a84", null ],
-    [ "Register", "d4/dd9/a19330.html#a883e383928a9b0ad0aeccf7afee4f15e", null ]
+    [ "boss_razuvious_minionAI", "d2/d0f/a19334.html", "d2/d0f/a19334" ],
+    [ "boss_razuvious_minion", "d4/dd9/a19330.html#ae23d51c9ebfe31f624a749578d27252c", null ],
+    [ "GetAI", "d4/dd9/a19330.html#afab8dccbc0b098a1fa058ef8479ba865", null ]
 ];

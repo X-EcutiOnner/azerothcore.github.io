@@ -1,7 +1,6 @@
 var a13286 =
 [
-    [ "npc_apothecary_genericAI", "d5/ddb/a13286.html#afb2b04b51e28d0795e7781effa68dffd", null ],
-    [ "DoAction", "d5/ddb/a13286.html#a59074beefbd3d80104b64f8ecc2ef8e0", null ],
-    [ "MovementInform", "d5/ddb/a13286.html#a63530bd7c3ebcd66521a268e11bf2f93", null ],
-    [ "_movePos", "d5/ddb/a13286.html#a53d10ab64df212b043cc21e054f6528c", null ]
+    [ "npc_scholomance_occultistAI", "dd/d6c/a13290.html", "dd/d6c/a13290" ],
+    [ "npc_scholomance_occultist", "d5/ddb/a13286.html#adf100912a15ff8edf056efa7eebd13ff", null ],
+    [ "GetAI", "d5/ddb/a13286.html#a5da2b011ec4859523c1f713dc18e4d5b", null ]
 ];

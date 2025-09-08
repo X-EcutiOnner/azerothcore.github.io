@@ -1,6 +1,9 @@
 var a27314 =
 [
-    [ "boss_emerissAI", "da/df7/a27318.html", "da/df7/a27318" ],
-    [ "boss_emeriss", "d1/d39/a27314.html#a2d373e5add3f007cf214ad9763039aa2", null ],
-    [ "GetAI", "d1/d39/a27314.html#a88a0696a12f12e612cce53c14f6b1f92", null ]
+    [ "boss_ysondreAI", "d1/d39/a27314.html#a7c5c6a9484aa035a5bda6a6d4a4cc0bc", null ],
+    [ "DamageTaken", "d1/d39/a27314.html#a99ee250e776001bb142815fc711ae75d", null ],
+    [ "ExecuteEvent", "d1/d39/a27314.html#a88e3caa536a71730c757590be1bd3de1", null ],
+    [ "JustEngagedWith", "d1/d39/a27314.html#af96597cf06d2ed71f85c7b4055793dcf", null ],
+    [ "Reset", "d1/d39/a27314.html#ac2ea95a5f8c032d7d9166d92bce51ba1", null ],
+    [ "_stage", "d1/d39/a27314.html#a5c96faa6b5e6cc350e9c53f34fe17eb1", null ]
 ];

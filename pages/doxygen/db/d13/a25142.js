@@ -1,6 +1,6 @@
 var a25142 =
 [
-    [ "HandleEffectPeriodicUpdate", "db/d13/a25142.html#a554353fede78b89bf488230254d7892b", null ],
-    [ "PrepareAuraScript", "db/d13/a25142.html#adf20aaafff83bae614ff3c614a08a54b", null ],
-    [ "Register", "db/d13/a25142.html#a6ee55cc41f7b69fc12bb3dc6c7fcbaf5", null ]
+    [ "HandleOnEffectHit", "db/d13/a25142.html#a07b15e180ee79149cad15b32b3c94359", null ],
+    [ "PrepareSpellScript", "db/d13/a25142.html#afbea54d2dad7a969d7e7558d43ecbc95", null ],
+    [ "Register", "db/d13/a25142.html#ad2426cf9076d3fe4f33984ab28df11f6", null ]
 ];

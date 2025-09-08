@@ -1,6 +1,6 @@
 var a13946 =
 [
-    [ "npc_tapoke_slim_jahnAI", "d1/ddf/a13950.html", "d1/ddf/a13950" ],
-    [ "npc_tapoke_slim_jahn", "de/d68/a13946.html#a61e36b57f8ba78c371d454efb1512579", null ],
-    [ "GetAI", "de/d68/a13946.html#a397629742eace1b96dfd9d4a2e55cc32", null ]
+    [ "npc_andorhal_towerAI", "d1/ddf/a13950.html", "d1/ddf/a13950" ],
+    [ "npc_andorhal_tower", "de/d68/a13946.html#abf63419b6c10af47f5e5df1a4e7320e7", null ],
+    [ "GetAI", "de/d68/a13946.html#a51139c28da736d26bf27a061862d24ee", null ]
 ];

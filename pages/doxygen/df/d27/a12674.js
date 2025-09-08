@@ -1,11 +1,9 @@
 var a12674 =
 [
-    [ "boss_mr_smiteAI", "df/d27/a12674.html#a277e52b7086db7e6447c4ad07ff8c8a2", null ],
-    [ "JustEngagedWith", "df/d27/a12674.html#a3b2e5636b6c13bc243a067cacc7ab529", null ],
-    [ "MovementInform", "df/d27/a12674.html#ade54a8fa42cbbf9febecf1a3eee00fd3", null ],
-    [ "Reset", "df/d27/a12674.html#a8b90bbc2a0cdfdb09a3f8ddde2bf4108", null ],
-    [ "UpdateAI", "df/d27/a12674.html#aa1693c8cc5bcc60a256f5d61f81cce1a", null ],
-    [ "events", "df/d27/a12674.html#a3471692c39233f3c25cdc875c0078f2c", null ],
-    [ "health34", "df/d27/a12674.html#adc83683c2f6a7073469cd2f5aa325717", null ],
-    [ "health67", "df/d27/a12674.html#af30c26b46b14e9e16fe5d48d4dcf23de", null ]
+    [ "npc_mc_core_houndAI", "df/d27/a12674.html#a9b07d662e32a342419a848ecd59d6391", null ],
+    [ "DamageTaken", "df/d27/a12674.html#aaf2b0ac9b723bb16bfaf8481165e6b4f", null ],
+    [ "Reset", "df/d27/a12674.html#a9f4b06230ae2e4fc2fe150eb9e9d1f12", null ],
+    [ "UpdateAI", "df/d27/a12674.html#aaba8ef0b33b9bb9acf74223ef0e9aaad", null ],
+    [ "instance", "df/d27/a12674.html#ab47451dfeff84c8467be2b76554df897", null ],
+    [ "serratedBiteTimer", "df/d27/a12674.html#a3a49df32c788497d3e82912d423683b7", null ]
 ];

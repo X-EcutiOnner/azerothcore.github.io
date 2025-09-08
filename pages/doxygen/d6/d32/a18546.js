@@ -1,9 +1,12 @@
 var a18546 =
 [
-    [ "FilterTargets", "d6/d32/a18546.html#a2b669cd93ed96417e4a0a6d83e4095cd", null ],
-    [ "Load", "d6/d32/a18546.html#aaec66c1d360ffa4e25d86f331f3521dd", null ],
-    [ "PrepareSpellScript", "d6/d32/a18546.html#a34d702b1299e2ee27eb1c27bc49be9dc", null ],
-    [ "Register", "d6/d32/a18546.html#afad887fba0d97512a7a13a31977cf42d", null ],
-    [ "Validate", "d6/d32/a18546.html#a2ff2dcfa096bf237c9c4c442ec13fa4d", null ],
-    [ "_instance", "d6/d32/a18546.html#a96dde7a1b30682c6bb04c1ae5449bd7c", null ]
+    [ "npc_strangulate_vehicleAI", "d6/d32/a18546.html#a58e79834ed3f463ad51eca703d1c99ef", null ],
+    [ "DoAction", "d6/d32/a18546.html#acf9d5a9e2f8b07f5ceb5ca75634e58fb", null ],
+    [ "IsHeroic", "d6/d32/a18546.html#adb6ae2cefeec245196d21dc1112b2d5c", null ],
+    [ "IsSummonedBy", "d6/d32/a18546.html#a381aec40cdcdf546d70b57a43978dbe9", null ],
+    [ "OnCharmed", "d6/d32/a18546.html#a40e5537897c452d35093920ddd3669b0", null ],
+    [ "PassengerBoarded", "d6/d32/a18546.html#a819746e13af95fa964c6da3d765a7c21", null ],
+    [ "UpdateAI", "d6/d32/a18546.html#a53f567b77b7dfd0ccb5a0d98c0f5ef26", null ],
+    [ "_events", "d6/d32/a18546.html#a19b493e994d246128f63d9109e87737a", null ],
+    [ "_instance", "d6/d32/a18546.html#a7a16fbe4723a95293db01d3a2d80b569", null ]
 ];

@@ -1,14 +1,19 @@
 var a23342 =
 [
-    [ "SpellIds", "d9/d28/a23342.html#a2d0e9022edc8a9f6fc0e34330fda114a", [
-      [ "SPELL_SUMMON_WAVE_A_MOB", "d9/d28/a23342.html#a2d0e9022edc8a9f6fc0e34330fda114aa19ea6e555692392677c74fccd206380b", null ],
-      [ "SPELL_SUMMON_WAVE_B_MOB", "d9/d28/a23342.html#a2d0e9022edc8a9f6fc0e34330fda114aa938130293fb55c96d06462e407a24a89", null ],
-      [ "SPELL_SUMMON_WAVE_C_MOB", "d9/d28/a23342.html#a2d0e9022edc8a9f6fc0e34330fda114aadc855654104e4ec0a09540e9b51cb098", null ],
-      [ "SPELL_SUMMON_WAVE_D_MOB", "d9/d28/a23342.html#a2d0e9022edc8a9f6fc0e34330fda114aa3bbb32a8c4da3b06e9bf5da83f39970d", null ]
-    ] ],
-    [ "FilterTargets", "d9/d28/a23342.html#a2a1a2e5069587f52ae968c84cd702eaf", null ],
-    [ "HandleHit", "d9/d28/a23342.html#aa670812f42c3082f42e0f232ee6bee16", null ],
-    [ "PrepareSpellScript", "d9/d28/a23342.html#a7fe65229c64c27909868f02439c1ef66", null ],
-    [ "Register", "d9/d28/a23342.html#a0a8f29b524391ff257aba5cbdc355115", null ],
-    [ "Validate", "d9/d28/a23342.html#ab8bcdcfcad2a9998d95567006817711e", null ]
+    [ "boss_lady_vashj", "d9/d28/a23342.html#a3934fc6c6363f7c2ee235a58a262135f", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "d9/d28/a23342.html#ad424f1c23cc893e7e48c3e854bf20936", null ],
+    [ "JustDied", "d9/d28/a23342.html#a8f0074b650b6e0a245726ebdeb8651b6", null ],
+    [ "JustEngagedWith", "d9/d28/a23342.html#a2b3b3a3bacd8042eb64a49cc9ca8847f", null ],
+    [ "JustSummoned", "d9/d28/a23342.html#ac577c4f0d0c3e9d1635a1ca9a0954095", null ],
+    [ "KilledUnit", "d9/d28/a23342.html#a0418ead0213eeea16a531baca96db704", null ],
+    [ "MoveInLineOfSight", "d9/d28/a23342.html#a4780e7cbcb7984c5742a5c072acfe252", null ],
+    [ "MovementInform", "d9/d28/a23342.html#ad2d58872d657b3a81c6be0e69d8bff1f", null ],
+    [ "Reset", "d9/d28/a23342.html#a114729e5a3caa70c89d8c8b53eba5af3", null ],
+    [ "ScheduleSpells", "d9/d28/a23342.html#ac4821984e5b5310877204fdb93810029", null ],
+    [ "UpdateAI", "d9/d28/a23342.html#a6ec56730a2735b1d9d35c63242c310b2", null ],
+    [ "_batTimer", "d9/d28/a23342.html#a0ccfbf23e8f47b77496d35cdeae5e3ac", null ],
+    [ "_count", "d9/d28/a23342.html#a2c4c2ecaa4b3ad859f46e36be34b1076", null ],
+    [ "_intro", "d9/d28/a23342.html#a2aafb94d956182723ccc9374854c7fb0", null ],
+    [ "_playerAngle", "d9/d28/a23342.html#a005515a4f2ad0661d5faff9107ea068b", null ],
+    [ "_recentlySpoken", "d9/d28/a23342.html#ac7dd5e6962e72a0eb56c89d417bda37a", null ]
 ];

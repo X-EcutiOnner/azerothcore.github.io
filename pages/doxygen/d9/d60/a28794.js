@@ -1,7 +1,5 @@
 var a28794 =
 [
-    [ "asyncId", "d9/d60/a28794.html#afd18849875b4562e4a532903676ce25d", null ],
-    [ "flags", "d9/d60/a28794.html#a9b9c3cec4acbd87911aa047dd52ae443", null ],
-    [ "offsMCNK", "d9/d60/a28794.html#a063c5dc62c44038e882340221bf8228a", null ],
-    [ "size", "d9/d60/a28794.html#a47a5eeb595d53de009651ae02d2b416d", null ]
+    [ "height", "d9/d60/a28794.html#a9ee8f132a89d37d9b202c7f49d2c3a49", null ],
+    [ "light", "d9/d60/a28794.html#a53c2edf09fb56334d1c3621d3630de5d", null ]
 ];

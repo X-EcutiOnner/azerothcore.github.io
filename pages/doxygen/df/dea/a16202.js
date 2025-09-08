@@ -1,6 +1,7 @@
 var a16202 =
 [
-    [ "npc_baltharus_the_warborn_cloneAI", "db/d43/a16206.html", "db/d43/a16206" ],
-    [ "npc_baltharus_the_warborn_clone", "df/dea/a16202.html#a7ed0731a015709ecd3c0c26fafb795ff", null ],
-    [ "GetAI", "df/dea/a16202.html#a87b50fbc3a67345f375b41c3cb2ba754", null ]
+    [ "DelayedTalk", "df/dea/a16202.html#a8a7ea9e6ddebd73996cfe8d9723276bc", null ],
+    [ "Execute", "df/dea/a16202.html#a88c1915e73bcbd8ec253a537c416caf7", null ],
+    [ "_owner", "df/dea/a16202.html#a9d13769bb3fbaed32919fc919da35006", null ],
+    [ "_talkId", "df/dea/a16202.html#a3f3a1688a36807c653a5d071dd2bb389", null ]
 ];

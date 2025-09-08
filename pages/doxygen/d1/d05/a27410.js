@@ -1,7 +1,6 @@
 var a27410 =
 [
-    [ "go_bear_trapAI", "d1/d05/a27410.html#ad97484d73bcea6a84909004c099eec34", null ],
-    [ "Initialize", "d1/d05/a27410.html#a89c76f1563f541c572c48f8cf633aa6a", null ],
-    [ "UpdateAI", "d1/d05/a27410.html#a8901922d736bb0391da5618593ced5c5", null ],
-    [ "_events", "d1/d05/a27410.html#a59f37a130326818dd922763ae9058fe7", null ]
+    [ "go_flamesAI", "dc/d82/a27414.html", "dc/d82/a27414" ],
+    [ "go_flames", "d1/d05/a27410.html#a75d49202eaf2078b8276e59944d1ec89", null ],
+    [ "GetAI", "d1/d05/a27410.html#aea11412e7d17b744b4e70ec754a1e6cc", null ]
 ];

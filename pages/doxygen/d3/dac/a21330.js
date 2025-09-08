@@ -1,5 +1,6 @@
 var a21330 =
 [
-    [ "go_palehoof_sphere", "d3/dac/a21330.html#a9e31fe7531980a5f75af95e24cbc272d", null ],
-    [ "OnGossipHello", "d3/dac/a21330.html#ad939fd46f8bdf32d4e158f32f2bcd8da", null ]
+    [ "npc_ravenous_furbolgAI", "d4/d11/a21334.html", "d4/d11/a21334" ],
+    [ "npc_ravenous_furbolg", "d3/dac/a21330.html#a1d7adf8eb055cb6ba82db2f173256fe9", null ],
+    [ "GetAI", "d3/dac/a21330.html#a284c366e6f5bd024d9627a83dd966669", null ]
 ];

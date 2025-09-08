@@ -1,9 +1,6 @@
 var a25038 =
 [
-    [ "spell_gen_select_target_count", "d8/de8/a25038.html#a65507c155a8746ff49c58c051b7868e4", null ],
-    [ "FilterTargets", "d8/de8/a25038.html#a5de89be9ce321a0f4ac49853a700b502", null ],
-    [ "PrepareSpellScript", "d8/de8/a25038.html#a42ddce15414dcdf495b572e0f75e9486", null ],
-    [ "Register", "d8/de8/a25038.html#a94f86992275123e2e3989655cf077efd", null ],
-    [ "_count", "d8/de8/a25038.html#acdf5daa848ae185b859c45a1271df68c", null ],
-    [ "_effTarget", "d8/de8/a25038.html#a9c54508790062277c8275d2466e93fb3", null ]
+    [ "PrepareSpellScript", "d8/de8/a25038.html#acfa320b33c00883a78c3696bbbeb7eb0", null ],
+    [ "Register", "d8/de8/a25038.html#a6d251ba1e88d4349dcffa96978389a7f", null ],
+    [ "SelectTarget", "d8/de8/a25038.html#a0d95f8ad8d05d2c0b100dc10988d00c9", null ]
 ];

@@ -1,7 +1,6 @@
 var a23950 =
 [
-    [ "CastQuill", "d1/d22/a23950.html#a923234809186bcbdf02457f4be095519", null ],
-    [ "Execute", "d1/d22/a23950.html#a26a971a575e4b9503cd1da73d43ebd1e", null ],
-    [ "_caster", "d1/d22/a23950.html#af809b9279aff141ce4007c8d1fbcc331", null ],
-    [ "_spellId", "d1/d22/a23950.html#ad6f7d8eaf69873b0ba57be4189c145cf", null ]
+    [ "instance_the_botanica_InstanceMapScript", "d7/d64/a23954.html", "d7/d64/a23954" ],
+    [ "instance_the_botanica", "d1/d22/a23950.html#a8f8acda65f37e45e2439707f3979cf7c", null ],
+    [ "GetInstanceScript", "d1/d22/a23950.html#a335f671443ca0fb9db5956cefdf37182", null ]
 ];

@@ -2,8 +2,8 @@ var a04790 =
 [
     [ "CliRunnable.cpp", "d7/d94/a02702.html", null ],
     [ "CliRunnable.h", "da/d28/a02705.html", null ],
-    [ "Main.cpp", "d0/d26/a29815.html", null ],
-    [ "FreezeDetector", "d3/d04/a05690.html", [
+    [ "Main.cpp", "d4/d92/a29855.html", null ],
+    [ "FreezeDetector", "d3/d7c/a05706.html", [
       [ "FreezeDetector", "d6/d56/a04790.html#gae4bea4699ff716ee22295d12bc9f1b9b", null ],
       [ "Handler", "d6/d56/a04790.html#gad4c4e5b291e0c6c2dc169a7dbffdfabb", null ],
       [ "Start", "d6/d56/a04790.html#ga6a90ff702a8d363bd23334c81e2e5770", null ],

@@ -1,12 +1,13 @@
 var a11794 =
 [
-    [ "guild_commandscript", "df/df3/a11794.html#a4394d242740505ad128e4cebf4b617f0", null ],
-    [ "GetCommands", "df/df3/a11794.html#a6b0a700e7fa3251373c1405d245f6931", null ],
-    [ "HandleGuildCreateCommand", "df/df3/a11794.html#a2d2c2414b9b08a5d510fccd223b34a36", null ],
-    [ "HandleGuildDeleteCommand", "df/df3/a11794.html#a4bbef641c86de37611e7ff1c906b4048", null ],
-    [ "HandleGuildInfoCommand", "df/df3/a11794.html#adbe43a3a362608e37dd7d6652a83adfc", null ],
-    [ "HandleGuildInviteCommand", "df/df3/a11794.html#a67210b9845ca4475e6ab3d0d7cc0dbab", null ],
-    [ "HandleGuildRankCommand", "df/df3/a11794.html#adbea3b610c98354866fec52a43fedda0", null ],
-    [ "HandleGuildRenameCommand", "df/df3/a11794.html#ac946b4284c85e43b1ca29f69df9a8f27", null ],
-    [ "HandleGuildUninviteCommand", "df/df3/a11794.html#aa7b134de9c3632cc1e147064c9ffcb5f", null ]
+    [ "gm_commandscript", "df/df3/a11794.html#a1b24112b70818778755ef9b5b062b2e8", null ],
+    [ "GetCommands", "df/df3/a11794.html#a17c725e18324de7aadff260c77d75c45", null ],
+    [ "HandleGMChatCommand", "df/df3/a11794.html#a15a18b1179a602da3eeba7e8247fbbac", null ],
+    [ "HandleGMFlyCommand", "df/df3/a11794.html#a29829660f39c9bfa4190bbb118f482ba", null ],
+    [ "HandleGMListFullCommand", "df/df3/a11794.html#add9bd1e64f98964e68cd1be3df6295e7", null ],
+    [ "HandleGMListIngameCommand", "df/df3/a11794.html#ab6d59a1c29bd66b699ae597351b969d9", null ],
+    [ "HandleGMOffCommand", "df/df3/a11794.html#a66de9b1d6abaad56419a43d65861b5b3", null ],
+    [ "HandleGMOnCommand", "df/df3/a11794.html#afb0f18226aac1f581d09f3b7fe9d0ce7", null ],
+    [ "HandleGMSpectatorCommand", "df/df3/a11794.html#ab05933bfefd1f5727bef430eeac2cee9", null ],
+    [ "HandleGMVisibleCommand", "df/df3/a11794.html#a7af08caf6d3fba1b6ee29ea90b20fef8", null ]
 ];

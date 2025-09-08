@@ -1,7 +1,6 @@
 var a21950 =
 [
-    [ "CheckCast", "d2/db7/a21950.html#af0eb00a8dbff89d780beb07f3a714fff", null ],
-    [ "HandleScript", "d2/db7/a21950.html#a8128bb2d7588409dae73bed78d5285a7", null ],
-    [ "PrepareSpellScript", "d2/db7/a21950.html#aee17a8a21ec5df027082c6990189dccc", null ],
-    [ "Register", "d2/db7/a21950.html#a2a97265e102e9ce31997d99275b42973", null ]
+    [ "npc_mindless_ghoulAI", "d2/db7/a21950.html#a4cc0dbd4aa2366115348bc1db273a5e2", null ],
+    [ "CanAIAttack", "d2/db7/a21950.html#a18fbc44ad760a69d952d003622ec75b2", null ],
+    [ "JustDied", "d2/db7/a21950.html#a272067bef6dbab24024f7de990c10b64", null ]
 ];

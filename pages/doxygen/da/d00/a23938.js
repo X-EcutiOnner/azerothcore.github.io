@@ -1,9 +1,8 @@
 var a23938 =
 [
-    [ "HandleEffectApply", "da/d00/a23938.html#ac9e030810cc1ffb3927943353bcbb764", null ],
-    [ "HandleEffectRemove", "da/d00/a23938.html#a2524bb4614fa62fb703a3d3cf0c25da0", null ],
-    [ "Load", "da/d00/a23938.html#a60f41c19f5104eef82048fd1e3416abd", null ],
-    [ "PrepareAuraScript", "da/d00/a23938.html#a277d9865108acafac4b1a42bc5b5714b", null ],
-    [ "Register", "da/d00/a23938.html#a5ffe5a8b3422382482f713ff6d8514b2", null ],
-    [ "_falconSet", "da/d00/a23938.html#a1a20f75d251936bff7a0777831d79140", null ]
+    [ "boss_laj", "da/d00/a23938.html#a3c9323ab4b5530504588ea62aed2edff", null ],
+    [ "Reset", "da/d00/a23938.html#ace690a0662376addaa40093f3f119c31", null ],
+    [ "ScheduleTasks", "da/d00/a23938.html#a6bd0db1ed4c963cdceb681c84469b06c", null ],
+    [ "_lastTransform", "da/d00/a23938.html#a097eacaaf77a09bec087530bad587b11", null ],
+    [ "_transformContainer", "da/d00/a23938.html#a313e66ceeb4e359251dad65383e7f568", null ]
 ];

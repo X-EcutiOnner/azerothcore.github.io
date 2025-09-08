@@ -1,5 +1,5 @@
 var a20878 =
 [
-    [ "achievement_thorim_lose_your_illusion", "dc/d3e/a20878.html#a449dda8a7a3f19d0aabaf9ca353d70bb", null ],
-    [ "OnCheck", "dc/d3e/a20878.html#a322df4f30445a84085615925f74a8a6b", null ]
+    [ "go_thorim_lever", "dc/d3e/a20878.html#a7641a89c3c369d26753a6e97dd435802", null ],
+    [ "OnGossipHello", "dc/d3e/a20878.html#aa48cd4d5728bd2d012a91f51299827a0", null ]
 ];

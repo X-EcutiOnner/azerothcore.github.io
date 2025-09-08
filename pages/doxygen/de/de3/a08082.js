@@ -1,7 +1,8 @@
 var a08082 =
 [
-    [ "VendorItemCount", "de/de3/a08082.html#abdf2d2900f75bb2b8d9727bab8fcbbc3", null ],
-    [ "count", "de/de3/a08082.html#aff4c062138792ffb37dadb19b725c87c", null ],
-    [ "itemId", "de/de3/a08082.html#a225158bbb56d6666ba4918155f08f993", null ],
-    [ "lastIncrementTime", "de/de3/a08082.html#a0b88ba4ea590abbdc9234ff4a2a335fa", null ]
+    [ "bounding_radius", "de/de3/a08082.html#a9f4a794b06bcbe31fc0a104cc97b91a4", null ],
+    [ "combat_reach", "de/de3/a08082.html#ac271edb10093db19e4df1396053f820d", null ],
+    [ "gender", "de/de3/a08082.html#aa5c8134851ff4f7ab6ad2af3b6e1dc1e", null ],
+    [ "is_trigger", "de/de3/a08082.html#a52dbfa82e1525df681b87ab07ba8ead0", null ],
+    [ "modelid_other_gender", "de/de3/a08082.html#a222b3c513a64b385954ea549e67f4255", null ]
 ];

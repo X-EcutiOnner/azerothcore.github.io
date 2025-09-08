@@ -1,8 +1,6 @@
 var a22906 =
 [
-    [ "npc_parasitic_shadowfiend", "d5/def/a22906.html#a09aa9baed84ec849bd5a34d02aec8db3", null ],
-    [ "CanAIAttack", "d5/def/a22906.html#ac7600aed313f1413cb9b522d60d30329", null ],
-    [ "EnterEvadeMode", "d5/def/a22906.html#a4dc9fe2b60fc97bd836701244a069d4d", null ],
-    [ "IsSummonedBy", "d5/def/a22906.html#a306c696d4243c4525d0a3908a212135d", null ],
-    [ "UpdateAI", "d5/def/a22906.html#a2706a4ba7876f299b02d2e720f512af2", null ]
+    [ "HandleScriptEffect", "d5/def/a22906.html#a21740b341acce23e284a3d4ceea9b6e0", null ],
+    [ "PrepareSpellScript", "d5/def/a22906.html#addcd30a673390ca8b76eab5ccb5f4245", null ],
+    [ "Register", "d5/def/a22906.html#aad6959f74932db219e991efd3b3af44a", null ]
 ];

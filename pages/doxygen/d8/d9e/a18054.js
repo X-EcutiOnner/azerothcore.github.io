@@ -1,6 +1,7 @@
 var a18054 =
 [
-    [ "FilterTargets", "d8/d9e/a18054.html#ac2396cbd000a8d58ff22dbb08c81dfb4", null ],
-    [ "PrepareSpellScript", "d8/d9e/a18054.html#abcdfe528430e299c2eb64b24f7ff8eb0", null ],
-    [ "Register", "d8/d9e/a18054.html#a32e04a1110d651701b8eab1648c69a57", null ]
+    [ "HandleScript", "d8/d9e/a18054.html#afc76149cb44a4d2aab48350fb4392036", null ],
+    [ "PrepareSpellScript", "d8/d9e/a18054.html#a8598de219c2402596fe97b5dd32c534e", null ],
+    [ "Register", "d8/d9e/a18054.html#ac9d4842632431e52932f66d09042ea70", null ],
+    [ "ScaleRange", "d8/d9e/a18054.html#a9bcc80bd2a8df20ac7fc8f2256f519d9", null ]
 ];

@@ -1,7 +1,6 @@
 var a21442 =
 [
-    [ "PrepareAuraScript", "d4/dfe/a21442.html#a2b5894cd889205f19ac2c6ea5a535a82", null ],
-    [ "Register", "d4/dfe/a21442.html#a95b0bcb7f3027cb63711c74befbd74ea", null ],
-    [ "TriggerFists", "d4/dfe/a21442.html#a2df5a013ba1b3c5b57d628fd59a9073a", null ],
-    [ "Validate", "d4/dfe/a21442.html#a2b7c45343d17839d85bf64ed36afd45c", null ]
+    [ "HandleOnHit", "d4/dfe/a21442.html#aa3f90eb49ae947b5729f722750cb8711", null ],
+    [ "PrepareSpellScript", "d4/dfe/a21442.html#a3b62711a0ba478d6321a93d436359939", null ],
+    [ "Register", "d4/dfe/a21442.html#af7bdde31f1221d5679983a41e3eca204", null ]
 ];

@@ -1,7 +1,6 @@
 var a19198 =
 [
-    [ "FilterTargets", "d9/d8b/a19198.html#a56ff062a6014099623466145a66284cc", null ],
-    [ "PrepareSpellScript", "d9/d8b/a19198.html#aa14623bb948ff457e52979facf74ffab", null ],
-    [ "Register", "d9/d8b/a19198.html#a9494bea35088161c9a520395d714fde1", null ],
-    [ "Validate", "d9/d8b/a19198.html#a6a02bc1a79a5f4fefe3b1e2900eaf0b4", null ]
+    [ "npc_boss_gothik_minionAI", "d2/d40/a19202.html", "d2/d40/a19202" ],
+    [ "npc_boss_gothik_minion", "d9/d8b/a19198.html#a6cabeae812639ac179133245d85a0e15", null ],
+    [ "GetAI", "d9/d8b/a19198.html#a8abb1ec265f9eeb646a858bee06cfb92", null ]
 ];

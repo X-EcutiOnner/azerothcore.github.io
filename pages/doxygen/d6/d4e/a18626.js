@@ -1,6 +1,6 @@
 var a18626 =
 [
-    [ "boss_valithria_dreamwalkerAI", "d5/d68/a18630.html", "d5/d68/a18630" ],
-    [ "boss_valithria_dreamwalker", "d6/d4e/a18626.html#afcc6dc92d94330d3aed67f71452f9cd2", null ],
-    [ "GetAI", "d6/d4e/a18626.html#a0f0bacefa7e3d682a5db81a14f2ff947", null ]
+    [ "ManaVoidSelector", "d6/d4e/a18626.html#aa57a0960e7ce90b8de23f01ae72a1fff", null ],
+    [ "operator()", "d6/d4e/a18626.html#a464d63f2cf8cfe7d0c6bb5293e788a28", null ],
+    [ "_source", "d6/d4e/a18626.html#ae45c999db51bc153bba7f2fdfb99f6ba", null ]
 ];

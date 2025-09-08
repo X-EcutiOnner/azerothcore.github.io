@@ -1,11 +1,7 @@
 var a08434 =
 [
-    [ "PackedGuid", "d1/d05/a08434.html#a9268f8d34f24ef52369d605f94986a8d", null ],
-    [ "PackedGuid", "d1/d05/a08434.html#a6d4559bc2a1d8c27247329c95c2b6156", null ],
-    [ "PackedGuid", "d1/d05/a08434.html#adf388e273472f2699348c7a4361ebac4", null ],
-    [ "Set", "d1/d05/a08434.html#ab1e59343017fa54374f4fb72ff7cccbf", null ],
-    [ "Set", "d1/d05/a08434.html#ae5d174d63a0b9d33b919f05760290bea", null ],
-    [ "size", "d1/d05/a08434.html#a22ac06b7072951e84bbf69abcd7d58f6", null ],
-    [ "operator<<", "d1/d05/a08434.html#a94ab551ce00fd82dea1532d47ad908bc", null ],
-    [ "_packedGuid", "d1/d05/a08434.html#aeb0e51f1667a2627aabffd6d7cb1779c", null ]
+    [ "ObjectDistanceOrderPred", "d1/d05/a08434.html#adced3fdc6d99b7506361eb7700fa4cec", null ],
+    [ "operator()", "d1/d05/a08434.html#aaa5023735568f6df28a177fbd9ed866e", null ],
+    [ "m_ascending", "d1/d05/a08434.html#a313cd0450096e49716bfb52f8f238bfc", null ],
+    [ "m_refObj", "d1/d05/a08434.html#aec421fd45a60545bf92b7236e0d0b360", null ]
 ];

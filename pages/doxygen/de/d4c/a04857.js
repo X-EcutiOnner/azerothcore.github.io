@@ -1,8 +1,8 @@
 var a04857 =
 [
-    [ "AutoBankItem", "d0/dd2/a10478.html", "d0/dd2/a10478" ],
-    [ "AutoStoreBankItem", "df/d55/a10482.html", "df/d55/a10482" ],
-    [ "BuyBankSlot", "dd/d95/a10486.html", "dd/d95/a10486" ],
-    [ "BuyBankSlotResult", "d6/df4/a10490.html", "d6/df4/a10490" ],
-    [ "ShowBank", "de/da7/a10494.html", "de/da7/a10494" ]
+    [ "AutoBankItem", "de/da7/a10494.html", "de/da7/a10494" ],
+    [ "AutoStoreBankItem", "d2/d5f/a10498.html", "d2/d5f/a10498" ],
+    [ "BuyBankSlot", "dc/d63/a10502.html", "dc/d63/a10502" ],
+    [ "BuyBankSlotResult", "dc/d06/a10506.html", "dc/d06/a10506" ],
+    [ "ShowBank", "dd/d31/a10510.html", "dd/d31/a10510" ]
 ];

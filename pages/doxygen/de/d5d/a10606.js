@@ -1,5 +1,7 @@
 var a10606 =
 [
-    [ "AcceptGuildInvite", "de/d5d/a10606.html#a4453fc550871082f6295d9229eef265a", null ],
-    [ "Read", "de/d5d/a10606.html#a3d39b917ca2650f645ccce12cdc1a1e0", null ]
+    [ "Flags", "de/d5d/a10606.html#a46bfcae3e4788d6ea4e6ee71b8a16edd", null ],
+    [ "TabFlags", "de/d5d/a10606.html#af9c7b68d1bd48da88f65fa40a01ccc72", null ],
+    [ "TabWithdrawItemLimit", "de/d5d/a10606.html#af16392abbddf27a8b21fd21d998501e6", null ],
+    [ "WithdrawGoldLimit", "de/d5d/a10606.html#a3dc50115a24b686d3a2fa9e28a7042af", null ]
 ];

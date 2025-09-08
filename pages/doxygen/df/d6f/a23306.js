@@ -1,15 +1,12 @@
 var a23306 =
 [
-    [ "boss_hydross_the_unstable", "df/d6f/a23306.html#a8e385f4f7f448033b00828540aa16cde", null ],
-    [ "JustDied", "df/d6f/a23306.html#ad05fa00eade9614ed54b03a9a4d5d348", null ],
-    [ "JustEngagedWith", "df/d6f/a23306.html#a4fd2138ce9962d89410b57702d7df33d", null ],
-    [ "JustReachedHome", "df/d6f/a23306.html#a03cbe48effc4cd3a2821312e60578ed4", null ],
-    [ "JustSummoned", "df/d6f/a23306.html#a3e9031d95c9e62cbd83eeba4af6c965a", null ],
-    [ "KilledUnit", "df/d6f/a23306.html#a252d3abdf24c06922c88823bc5e535f3", null ],
-    [ "Reset", "df/d6f/a23306.html#a0bcad41c74800ab58df8b5ea54d2ec8e", null ],
-    [ "SetForm", "df/d6f/a23306.html#ac80b0611533998d15406d45385d37629", null ],
-    [ "SummonedCreatureDespawn", "df/d6f/a23306.html#afe4b76f528045506586f8289eaee27aa", null ],
-    [ "SummonMovementInform", "df/d6f/a23306.html#af74b63bf239de38f8dd04e69a6ea2b54", null ],
-    [ "SummonTaintedElementalOOC", "df/d6f/a23306.html#a219094dc5a81acb7d7ae86d5d7945da8", null ],
-    [ "_recentlySpoken", "df/d6f/a23306.html#acfd0f1a6331b08659c5fffa7850d30b4", null ]
+    [ "boss_fathomguard_sharkkis", "df/d6f/a23306.html#affc3a4422ce62311879bef6df104c9b9", null ],
+    [ "EnterEvadeMode", "df/d6f/a23306.html#a344072e382566575168cdcf57d0f6481", null ],
+    [ "JustDied", "df/d6f/a23306.html#a1a4fdf91f6d8d0e3e0672e174152a59d", null ],
+    [ "JustEngagedWith", "df/d6f/a23306.html#a5724db6f55f1c5ed2e351603a1b26943", null ],
+    [ "JustSummoned", "df/d6f/a23306.html#a31098d1e91412b797663fe677114af20", null ],
+    [ "Reset", "df/d6f/a23306.html#a5d8b89e2d4a203df5ec574b96df0d489", null ],
+    [ "UpdateAI", "df/d6f/a23306.html#ab71689fda10d6d31dd2bfc72026bd755", null ],
+    [ "_instance", "df/d6f/a23306.html#ad3dc90987a8b01fcd55799f66d18906c", null ],
+    [ "_summons", "df/d6f/a23306.html#a73f887b3f829027fc336a8e4a9c5b963", null ]
 ];

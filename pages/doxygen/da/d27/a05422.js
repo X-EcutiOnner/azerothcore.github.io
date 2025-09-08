@@ -1,8 +1,12 @@
 var a05422 =
 [
-    [ "~Runnable", "da/d27/a05422.html#add1dc9a377ee89c32cc40c42907e5bd8", null ],
-    [ "decReference", "da/d27/a05422.html#a69bf63c7f684de6e278de0468ed8fa06", null ],
-    [ "incReference", "da/d27/a05422.html#a062323e141fa33ae094adbef16caf3d6", null ],
-    [ "run", "da/d27/a05422.html#ad92d9c0459fbcc59d2b0d8fe2ed620c9", null ],
-    [ "m_refs", "da/d27/a05422.html#ae047c0949843835f0b240484df01b7f8", null ]
+    [ "Node", "dd/d7a/a05426.html", "dd/d7a/a05426" ],
+    [ "MPSCQueueNonIntrusive", "da/d27/a05422.html#a962c10fff5c86b00cc2e847ae758b9ce", null ],
+    [ "~MPSCQueueNonIntrusive", "da/d27/a05422.html#a599e2093215f70dc4f2f7db08965d816", null ],
+    [ "MPSCQueueNonIntrusive", "da/d27/a05422.html#a2d543ed2b5d1ab7f23ad82ee156e42ea", null ],
+    [ "Dequeue", "da/d27/a05422.html#abadcc4a4ff97f4fa132978fbd0f37e1d", null ],
+    [ "Enqueue", "da/d27/a05422.html#a63d8a4e4c085467d33d56fd3adf0f751", null ],
+    [ "operator=", "da/d27/a05422.html#a75063e89049903fb5305d67ea1a02034", null ],
+    [ "_head", "da/d27/a05422.html#a2fb1ef015f7b9a790ba1af73dc80ba35", null ],
+    [ "_tail", "da/d27/a05422.html#a8a568d842fc8da8e39b325b459cdb44d", null ]
 ];

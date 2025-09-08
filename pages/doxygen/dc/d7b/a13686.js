@@ -1,6 +1,6 @@
 var a13686 =
 [
-    [ "npc_maredis_firestarAI", "dc/d7b/a13686.html#ac2d4ed4b205146524dcf11585d65ae12", null ],
-    [ "sGossipHello", "dc/d7b/a13686.html#a72790dc9525249a4b558c37c4a0bd03f", null ],
-    [ "sGossipSelect", "dc/d7b/a13686.html#acefb2bc09fe8f7ad77d53ee6eb8bbb71", null ]
+    [ "npc_professor_phizzlethorpeAI", "dc/d03/a13690.html", "dc/d03/a13690" ],
+    [ "npc_professor_phizzlethorpe", "dc/d7b/a13686.html#a8d32b4a107533c81033c617b0b97027d", null ],
+    [ "GetAI", "dc/d7b/a13686.html#a5eb540d16b2dd123d553ea4ae24d8b53", null ]
 ];

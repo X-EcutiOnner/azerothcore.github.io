@@ -1,8 +1,9 @@
 var a17182 =
 [
-    [ "boss_krickAI", "da/d84/a17182.html#ac085bae551fd4d9e48b05481a86cca9f", null ],
-    [ "DoAction", "da/d84/a17182.html#ace248881cb71c1e91f33ff93489b6f3f", null ],
-    [ "UpdateAI", "da/d84/a17182.html#aea8dd89c8e4de1bebd94a26ead852119", null ],
-    [ "events", "da/d84/a17182.html#a75349e2fc35832e7944fa4f772380baa", null ],
-    [ "pInstance", "da/d84/a17182.html#aecc2cdee32c4e4fa14ecaeca9b3eb65f", null ]
+    [ "FilterTargets", "da/d84/a17182.html#aefebf504286394cf3caffa566543e4a4", null ],
+    [ "FilterTargetsNext", "da/d84/a17182.html#a356b6ace97d07df22a232d2287072b5e", null ],
+    [ "PrepareSpellScript", "da/d84/a17182.html#a893e0eb620e19909b2f2a715ea946f6b", null ],
+    [ "Register", "da/d84/a17182.html#a962651920a94190f4864a3b1c7fcd1d3", null ],
+    [ "Unload", "da/d84/a17182.html#a6adc9b6ca86da6cd9465fa0da150dcca", null ],
+    [ "targetList", "da/d84/a17182.html#a3c839185938e0b67b97f652d1d15e213", null ]
 ];

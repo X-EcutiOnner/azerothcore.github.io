@@ -1,5 +1,6 @@
 var a23382 =
 [
-    [ "go_strange_pool", "d6/d49/a23382.html#aa44feb353ad1cb440e5b6707112af680", null ],
-    [ "OnGossipHello", "d6/d49/a23382.html#a5a2ee56e277b062e6b4757cb8b8b09a0", null ]
+    [ "FilterTargets", "d6/d49/a23382.html#ac20676c292d87276e444bad56d71960d", null ],
+    [ "PrepareSpellScript", "d6/d49/a23382.html#a8622bc4d61c5c236349d4b12c2a6b10d", null ],
+    [ "Register", "d6/d49/a23382.html#ae356b768872de3e87806c19bf8cccb08", null ]
 ];

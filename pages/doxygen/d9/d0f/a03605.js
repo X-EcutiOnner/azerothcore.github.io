@@ -1,6 +1,6 @@
 var a03605 =
 [
-    [ "CoordPair< LIMIT >", "d2/d3e/a09094.html", "d2/d3e/a09094" ],
+    [ "CoordPair< LIMIT >", "d0/def/a09110.html", "d0/def/a09110" ],
     [ "CENTER_GRID_CELL_ID", "d9/d0f/a03605.html#a98830d21df912e083fd71157268d5c5f", null ],
     [ "CENTER_GRID_CELL_OFFSET", "d9/d0f/a03605.html#a7629c4f74e4101139df95915a2c60e5b", null ],
     [ "CENTER_GRID_ID", "d9/d0f/a03605.html#aa0a97ea0a65346620599a3a7dc71cd5d", null ],
@@ -16,11 +16,12 @@ var a03605 =
     [ "CorpseMapType", "d9/d0f/a03605.html#a8e87d05ee9fb2b4f64470fce9231de12", null ],
     [ "CreatureMapType", "d9/d0f/a03605.html#ac60ef2e7adf9bc71b50d675b4b74980b", null ],
     [ "DynamicObjectMapType", "d9/d0f/a03605.html#a5957bb381cc7067b3da243bb5999e870", null ],
+    [ "FarVisibleGridContainer", "d9/d0f/a03605.html#ae75b2d7e464f342de7d9db88ca816b29", null ],
     [ "GameObjectMapType", "d9/d0f/a03605.html#aad35d1efe9e8a57f45c0740a89bf9fbf", null ],
-    [ "GridCellType", "d9/d0f/a03605.html#ae1868802d6bb4578019077d06ee38a17", null ],
+    [ "GridCellType", "d9/d0f/a03605.html#a82f1139af6d18bcc83dc53785b144b4d", null ],
     [ "GridCoord", "d9/d0f/a03605.html#a56cc9baa50cd4031aeac2999eb38ea37", null ],
     [ "GridTypeMapContainer", "d9/d0f/a03605.html#a9bb9afe2207e6266d412c3b73369f10d", null ],
-    [ "MapGridType", "d9/d0f/a03605.html#a52e1800fe4fafdd7f4fb34e2b68e6f56", null ],
+    [ "MapGridType", "d9/d0f/a03605.html#ae6e326739a8733a22249048253475f90", null ],
     [ "MapStoredObjectTypesContainer", "d9/d0f/a03605.html#ad13d154e097273b41f91b7a7e6cccac0", null ],
     [ "PlayerMapType", "d9/d0f/a03605.html#ae35a7f6754cf9950d0027369ada820e7", null ],
     [ "GridMapTypeMask", "d9/d0f/a03605.html#ab566123309f520dd2c1cc7388816c0f1", [
@@ -42,6 +43,7 @@ var a03605 =
     [ "NormalizeMapCoord", "d9/d0f/a03605.html#a081c4b764dd94224c4a046465c5c6274", null ],
     [ "operator!=", "d9/d0f/a03605.html#af248e8cd4ecc7161bfb1e6aa879f3cd5", null ],
     [ "operator==", "d9/d0f/a03605.html#aa7265bcec280e27580381098105c0cae", null ],
+    [ "TYPELIST_2", "d9/d0f/a03605.html#a987ca992ed85d8443fad01cb4e12c3ea", null ],
     [ "TYPELIST_4", "d9/d0f/a03605.html#a4a59f608393c8212378abeeab7ab1e34", null ],
     [ "TYPELIST_5", "d9/d0f/a03605.html#a39b4829445d6f736c035f7c3ebfbbdda", null ]
 ];

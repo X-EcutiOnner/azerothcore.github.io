@@ -1,5 +1,6 @@
 var a27570 =
 [
-    [ "item_incendiary_explosives", "d4/def/a27570.html#a3a10f4e40374cae75a5ed320385a67f9", null ],
-    [ "OnUse", "d4/def/a27570.html#a1e566a6a5b6cfb8b7e331a6ea94f77b4", null ]
+    [ "guard_shattrath_scryerAI", "d8/dfe/a27574.html", "d8/dfe/a27574" ],
+    [ "guard_shattrath_scryer", "d4/def/a27570.html#a2ee4d6881d7c24cd848c590b84207663", null ],
+    [ "GetAI", "d4/def/a27570.html#ab1d937102f63c63de4c92e45eff2c21c", null ]
 ];

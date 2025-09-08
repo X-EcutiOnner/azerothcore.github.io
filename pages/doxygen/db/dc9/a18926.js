@@ -1,7 +1,5 @@
 var a18926 =
 [
-    [ "HandleEffectPeriodic", "db/dc9/a18926.html#a208c4d59e20cd802cf2f4643fa0d6253", null ],
-    [ "PrepareAuraScript", "db/dc9/a18926.html#af1d284c4686f739b02b350a6c0a166c2", null ],
-    [ "Register", "db/dc9/a18926.html#a006a97823ac07346771ec4ab61bd0763", null ],
-    [ "Validate", "db/dc9/a18926.html#ae1f5555dcadb48ba59bf9571073f4a99", null ]
+    [ "at_icc_start_frostwing_gauntlet", "db/dc9/a18926.html#a285cd9046d5658fc5d917c3427bbbe83", null ],
+    [ "OnTrigger", "db/dc9/a18926.html#a7137166f281876f00d4e03c846875d85", null ]
 ];

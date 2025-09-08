@@ -1,15 +1,10 @@
 var a11514 =
 [
-    [ "BroadcastTextId", "d5/dcb/a11514.html#a12ff00d59ce642d3c27978e919f6ca17", null ],
-    [ "duration", "d5/dcb/a11514.html#a00b6d7cbf9ff377d30cd9e6cfab084b7", null ],
-    [ "emote", "d5/dcb/a11514.html#aad433a0bc12717103936e6f89b5b31ea", null ],
-    [ "entry", "d5/dcb/a11514.html#a3d1c888b73edee2474004de9d8714903", null ],
-    [ "group", "d5/dcb/a11514.html#ae2161d1dc874efacd0131baa74b4e44a", null ],
-    [ "id", "d5/dcb/a11514.html#ab80181d53770a2f64bd6898498b3e76e", null ],
-    [ "lang", "d5/dcb/a11514.html#a8405ab49781ba0cbcd8680ff6715b675", null ],
-    [ "probability", "d5/dcb/a11514.html#a9bec9c2053f2efbac076831d4e928045", null ],
-    [ "sound", "d5/dcb/a11514.html#af312efff61026445caeb4be4b52c4e66", null ],
-    [ "text", "d5/dcb/a11514.html#a82b3db36b60a343d340677e8df6c7925", null ],
-    [ "TextRange", "d5/dcb/a11514.html#a2bb58a07abc9eb7ffeb4db131de03924", null ],
-    [ "type", "d5/dcb/a11514.html#a5675f6bcf159e1da503029771557e2a6", null ]
+    [ "CustomChatTextBuilder", "d5/dcb/a11514.html#a47b3e24f7100d13180ad1946647999ae", null ],
+    [ "operator()", "d5/dcb/a11514.html#ad80555f063e7de15df3c434bc90d2ca9", null ],
+    [ "_language", "d5/dcb/a11514.html#a92d1c58d76d5d450892338d0e1856dc0", null ],
+    [ "_msgType", "d5/dcb/a11514.html#a0db1501da33fde77ab3c50943666b1fd", null ],
+    [ "_source", "d5/dcb/a11514.html#ad75f22d7eb6a62d59730918f4336768c", null ],
+    [ "_target", "d5/dcb/a11514.html#aa45be322836be588d8df2b253a22ee5c", null ],
+    [ "_text", "d5/dcb/a11514.html#ab59c9b938b564329483e38466169a92c", null ]
 ];

@@ -1,8 +1,6 @@
 var a11970 =
 [
-    [ "ironhand_guardianAI", "db/d54/a11970.html#ab109b4ba9d399bd8c7d7dd5c04f2c618", null ],
-    [ "SetData", "db/d54/a11970.html#ab4e6402951bf45910fb3399ea107b207", null ],
-    [ "UpdateAI", "db/d54/a11970.html#a095b11f44935c8ddb43a20c095495507", null ],
-    [ "events", "db/d54/a11970.html#a13ed887285809d2fcad0d23fdf37face", null ],
-    [ "flames_enabled", "db/d54/a11970.html#ab54e1eac19a8b51e2aa9fe4bc5f08e46", null ]
+    [ "boss_vanndarAI", "d7/d70/a11974.html", "d7/d70/a11974" ],
+    [ "boss_vanndar", "db/d54/a11970.html#a66d190d1b48fd2259a95d88235ffb7d2", null ],
+    [ "GetAI", "db/d54/a11970.html#ad1879cc6123a323ada04c49a2c691349", null ]
 ];

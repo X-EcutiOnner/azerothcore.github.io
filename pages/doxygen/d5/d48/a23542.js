@@ -1,6 +1,15 @@
 var a23542 =
 [
-    [ "HandleAfterRemove", "d5/d48/a23542.html#a74610b06095572aa2c898cd84e0fb229", null ],
-    [ "PrepareAuraScript", "d5/d48/a23542.html#ac0d686490ff37810e0116dea4d0b6077", null ],
-    [ "Register", "d5/d48/a23542.html#aad72f4aaa19f92f7a71241311f5d0582", null ]
+    [ "instance_the_slave_pens_InstanceMapScript", "d5/d48/a23542.html#a70db3eeeb55784250a13032728220005", null ],
+    [ "GetGuidData", "d5/d48/a23542.html#a77e77209e779b774608f739b258ae419", null ],
+    [ "OnCreatureCreate", "d5/d48/a23542.html#aca6b8148602b8fb95c9a467dc9400b8b", null ],
+    [ "SetGuidData", "d5/d48/a23542.html#a21a29973bcf5ef6925239213ce50bab0", null ],
+    [ "AhuneBunnyGUID", "d5/d48/a23542.html#ad57cefe116f2da6e7c85f36091fe0e94", null ],
+    [ "AhuneGUID", "d5/d48/a23542.html#a8ad4dab281db87bb2d14b925b450f09c", null ],
+    [ "BeamBunnyGUIDs", "d5/d48/a23542.html#a09e3d1ca5d040268578fa770b7153a81", null ],
+    [ "BonfireBunnyGUIDs", "d5/d48/a23542.html#a9de605ffd8092f83af8df5c1725c5d2b", null ],
+    [ "counter", "d5/d48/a23542.html#a4ea85debc35e91668723222e8ea90071", null ],
+    [ "FlameCallerGUIDs", "d5/d48/a23542.html#a50af0f1eaaa4e40d729e797212cf3ba0", null ],
+    [ "FrozenCoreGUID", "d5/d48/a23542.html#a6ac47d1f3eb4d199afdda9ad2a2cc73e", null ],
+    [ "LumaGUID", "d5/d48/a23542.html#a0e9e294b4140dc8b8a5567a54d7b0c42", null ]
 ];

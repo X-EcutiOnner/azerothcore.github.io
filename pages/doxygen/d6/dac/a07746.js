@@ -1,5 +1,5 @@
 var a07746 =
 [
-    [ "IsColorValid", "d6/dac/a07746.html#ad9f1623f6e04696a0e3520d3996170e4", null ],
-    [ "IsTextValid", "d6/dac/a07746.html#a3b729ae39753a31c38c16e5186fe7f46", null ]
+    [ "IsColorValid", "d6/dac/a07746.html#ab291dc8bdb852a8386c2a3d1bd18cfad", null ],
+    [ "IsTextValid", "d6/dac/a07746.html#ab9c8e4926f593058bf247f33b6089bc3", null ]
 ];

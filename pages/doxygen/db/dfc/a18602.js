@@ -1,5 +1,6 @@
 var a18602 =
 [
-    [ "achievement_neck_deep_in_vile", "db/dfc/a18602.html#af0e54c236e7637d8c1a8cf7dbed5a195", null ],
-    [ "OnCheck", "db/dfc/a18602.html#a9861c008f302279a4ac5f4ddc14ca2d0", null ]
+    [ "ActivateSpirit", "db/dfc/a18602.html#ae5c9f8e693a98c828e0e922870552952", null ],
+    [ "PrepareSpellScript", "db/dfc/a18602.html#aa55f0fe4e27520b8a7ae1bb0f810838d", null ],
+    [ "Register", "db/dfc/a18602.html#a2b1d27e93a879681098a83d17c4d686a", null ]
 ];

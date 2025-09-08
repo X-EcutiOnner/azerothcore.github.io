@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: AuctionHouseObject Class Reference</title>
+<title>AzerothCore: SmartTarget Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,70 +105,235 @@ $(document).ready(function(){initNavTree('dc/dcb/a06962.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#pub-types">Public Types</a> &#124;
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pri-attribs">Private Attributes</a> &#124;
+<a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../d3/d16/a06959.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">AuctionHouseObject Class Reference</div></div>
+  <div class="headertitle"><div class="title">SmartTarget Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">AuctionHouseMgr.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">SmartScriptMgr.h</a>&quot;</code></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-types" name="pub-types"></a>
-Public Types</h2></td></tr>
-<tr class="memitem:ab05cddc8805f4f6745a620aaf78490e6"><td class="memItemLeft" align="right" valign="top">typedef std::map&lt; <a class="el" href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../db/dce/a06958.html">AuctionEntry</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dcb/a06962.html#ab05cddc8805f4f6745a620aaf78490e6">AuctionEntryMap</a></td></tr>
-<tr class="separator:ab05cddc8805f4f6745a620aaf78490e6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:ae980b3dc0cb776fa77810d488c0144aa"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dcb/a06962.html#ae980b3dc0cb776fa77810d488c0144aa">AuctionHouseObject</a> ()</td></tr>
-<tr class="separator:ae980b3dc0cb776fa77810d488c0144aa"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abc1f401b8f18c6d5003fa337ed1e76bc"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dcb/a06962.html#abc1f401b8f18c6d5003fa337ed1e76bc">~AuctionHouseObject</a> ()</td></tr>
-<tr class="separator:abc1f401b8f18c6d5003fa337ed1e76bc"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a49aa833a0d8fd698f116ebdf2544040f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dcb/a06962.html#a49aa833a0d8fd698f116ebdf2544040f">Getcount</a> () const</td></tr>
-<tr class="separator:a49aa833a0d8fd698f116ebdf2544040f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae769fbe419c78c580fc0c6d6b91a6e28"><td class="memItemLeft" align="right" valign="top">AuctionEntryMap::iterator&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dcb/a06962.html#ae769fbe419c78c580fc0c6d6b91a6e28">GetAuctionsBegin</a> ()</td></tr>
-<tr class="separator:ae769fbe419c78c580fc0c6d6b91a6e28"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9526b361608b03716918540116bc6d4d"><td class="memItemLeft" align="right" valign="top">AuctionEntryMap::iterator&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dcb/a06962.html#a9526b361608b03716918540116bc6d4d">GetAuctionsEnd</a> ()</td></tr>
-<tr class="separator:a9526b361608b03716918540116bc6d4d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac22a84a7e3f2c6baf5e40a1a43bbf098"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dc/dcb/a06962.html#ab05cddc8805f4f6745a620aaf78490e6">AuctionEntryMap</a> const &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dcb/a06962.html#ac22a84a7e3f2c6baf5e40a1a43bbf098">GetAuctions</a> ()</td></tr>
-<tr class="separator:ac22a84a7e3f2c6baf5e40a1a43bbf098"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8f549a3623e3f1c3b0b3a21dfdc24d85"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/dce/a06958.html">AuctionEntry</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dcb/a06962.html#a8f549a3623e3f1c3b0b3a21dfdc24d85">GetAuction</a> (<a class="el" href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> id) const</td></tr>
-<tr class="separator:a8f549a3623e3f1c3b0b3a21dfdc24d85"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9c61fcf5d92ad6cea5af36b1bd5cff5b"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dcb/a06962.html#a9c61fcf5d92ad6cea5af36b1bd5cff5b">AddAuction</a> (<a class="el" href="../../db/dce/a06958.html">AuctionEntry</a> *auction)</td></tr>
-<tr class="separator:a9c61fcf5d92ad6cea5af36b1bd5cff5b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af760e3c74242ab2bbc0cfb03a9224aff"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dcb/a06962.html#af760e3c74242ab2bbc0cfb03a9224aff">RemoveAuction</a> (<a class="el" href="../../db/dce/a06958.html">AuctionEntry</a> *auction)</td></tr>
-<tr class="separator:af760e3c74242ab2bbc0cfb03a9224aff"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae9a2bed6b57af310230134cdf2cfd46a"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dcb/a06962.html#ae9a2bed6b57af310230134cdf2cfd46a">Update</a> ()</td></tr>
-<tr class="separator:ae9a2bed6b57af310230134cdf2cfd46a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af648cbf7934ad423724a994f9cabc4b6"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dcb/a06962.html#af648cbf7934ad423724a994f9cabc4b6">SmartTarget</a> (<a class="el" href="../../d8/d3a/a04439.html#a20fbd4053053320ca4f2a803a09eb92e">SMARTAI_TARGETS</a> t=<a class="el" href="../../d8/d3a/a04439.html#a20fbd4053053320ca4f2a803a09eb92eae4f7681523b0f77ff2d889fb42a848ab">SMART_TARGET_NONE</a>, <a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> p1=0, <a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> p2=0, <a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> p3=0, <a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> p4=0)</td></tr>
+<tr class="separator:af648cbf7934ad423724a994f9cabc4b6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
-Private Attributes</h2></td></tr>
-<tr class="memitem:a92e8694ba6d22e26bedb19b2d0619a9f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dc/dcb/a06962.html#ab05cddc8805f4f6745a620aaf78490e6">AuctionEntryMap</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dcb/a06962.html#a92e8694ba6d22e26bedb19b2d0619a9f">_auctionsMap</a></td></tr>
-<tr class="separator:a92e8694ba6d22e26bedb19b2d0619a9f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa8780a803119c4350d367f39daff32a1"><td class="memItemLeft" align="right" valign="top">AuctionEntryMap::const_iterator&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dcb/a06962.html#aa8780a803119c4350d367f39daff32a1">_next</a></td></tr>
-<tr class="separator:aa8780a803119c4350d367f39daff32a1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
+Public Attributes</h2></td></tr>
+<tr class="memitem:acd89b43d2caa64668e5ed82cd4e7cda5"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d3a/a04439.html#a20fbd4053053320ca4f2a803a09eb92e">SMARTAI_TARGETS</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dcb/a06962.html#acd89b43d2caa64668e5ed82cd4e7cda5">type</a></td></tr>
+<tr class="separator:acd89b43d2caa64668e5ed82cd4e7cda5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6a31784c4f9f3955e0cc5cf16687fd82"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dcb/a06962.html#a6a31784c4f9f3955e0cc5cf16687fd82">x</a></td></tr>
+<tr class="separator:a6a31784c4f9f3955e0cc5cf16687fd82"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aaa06940768e7b9e08e549af80ab40650"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dcb/a06962.html#aaa06940768e7b9e08e549af80ab40650">y</a></td></tr>
+<tr class="separator:aaa06940768e7b9e08e549af80ab40650"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acb52eb278431dc7a11e460c6c53c8f8e"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dcb/a06962.html#acb52eb278431dc7a11e460c6c53c8f8e">z</a></td></tr>
+<tr class="separator:acb52eb278431dc7a11e460c6c53c8f8e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a28a91da4b59f75cd41df0e712337b291"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dcb/a06962.html#a28a91da4b59f75cd41df0e712337b291">o</a></td></tr>
+<tr class="separator:a28a91da4b59f75cd41df0e712337b291"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a80705486836388f057c23cbd71b9cd2a"><td class="memItemLeft" >union {</td></tr>
+<tr class="memitem:a8504f7d4e9677db8fd5fb09f2fee05a6"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:a798a0b639397d866cb0922acaaf17354"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#a3be697bd5161ea28f96e855ec6dd5d06">maxDist</a></td></tr>
+<tr class="separator:a798a0b639397d866cb0922acaaf17354"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a34fba3d4eaf511487b7962fff8c3745b"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/d3a/a04439.html#a96a00b1ae7179b02b6ee7e68ed92c6ac">SAIBool</a>&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#a5d5c979cd4cfd87f978d065ff7c03d01">playerOnly</a></td></tr>
+<tr class="separator:a34fba3d4eaf511487b7962fff8c3745b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a92a2857b4292e898f134bca8e16861fd"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#ad3ddf8fa14f0121965f227629832e0df">powerType</a></td></tr>
+<tr class="separator:a92a2857b4292e898f134bca8e16861fd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adf78e7de495cbe69650650af0a323cd3"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#a0f21c03faa25895f9355fc81790f0154">aura</a></td></tr>
+<tr class="separator:adf78e7de495cbe69650650af0a323cd3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8504f7d4e9677db8fd5fb09f2fee05a6"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#a49a7389f362f2d478ade48ac21b6cc37">hostileRandom</a></td></tr>
+<tr class="separator:a8504f7d4e9677db8fd5fb09f2fee05a6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a530318a7f67580523c376043f6f316e9"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:a9f2b720ee5c059f3adbadba915b60714"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#a3be697bd5161ea28f96e855ec6dd5d06">maxDist</a></td></tr>
+<tr class="separator:a9f2b720ee5c059f3adbadba915b60714"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab5fb810ac986d1111e2f86a168be25ad"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/d3a/a04439.html#a96a00b1ae7179b02b6ee7e68ed92c6ac">SAIBool</a>&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#a5d5c979cd4cfd87f978d065ff7c03d01">playerOnly</a></td></tr>
+<tr class="separator:ab5fb810ac986d1111e2f86a168be25ad"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5b393497145bf31f2433b6c9ba7e15c9"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/d3a/a04439.html#a96a00b1ae7179b02b6ee7e68ed92c6ac">SAIBool</a>&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#a4c71451eacd886100952f45ddcc8ae6b">isInLos</a></td></tr>
+<tr class="separator:a5b393497145bf31f2433b6c9ba7e15c9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1e9e66aa7d2580a271899ae99b7dd484"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#afd68fe281c872f9d960b7eb40cc5fba9">minDist</a></td></tr>
+<tr class="separator:a1e9e66aa7d2580a271899ae99b7dd484"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a530318a7f67580523c376043f6f316e9"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#a8839cff7ecc867c727857681aab9aa4a">farthest</a></td></tr>
+<tr class="separator:a530318a7f67580523c376043f6f316e9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a542ceedd2ce5f08e7b504bd5a7d8f638"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:a89623a3559e92e865f354d6f7a6d066d"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#a83eeb205cdbbdee686d883f0ce3c6a37">creature</a></td></tr>
+<tr class="separator:a89623a3559e92e865f354d6f7a6d066d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a386dd0d09a76f36aeedf236ddb6b2a71"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#afd68fe281c872f9d960b7eb40cc5fba9">minDist</a></td></tr>
+<tr class="separator:a386dd0d09a76f36aeedf236ddb6b2a71"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a634e111ab616c4c5274840c1a49724e6"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#a3be697bd5161ea28f96e855ec6dd5d06">maxDist</a></td></tr>
+<tr class="separator:a634e111ab616c4c5274840c1a49724e6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a735bcb1f160bff85a6a1370fb29573ad"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#a6965825e57e41efb16a153eee55c9cff">livingState</a></td></tr>
+<tr class="separator:a735bcb1f160bff85a6a1370fb29573ad"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a542ceedd2ce5f08e7b504bd5a7d8f638"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#a9a28c2b28ca936d582068ea129fc3e6a">unitRange</a></td></tr>
+<tr class="separator:a542ceedd2ce5f08e7b504bd5a7d8f638"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a05392ad2f5ab6bfa586fd3906beefbba"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:acc3036bb1b20612c7dff3dfd0a4e228b"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#a6485b621fa6bb529b7cff1c4bc63c8df">dbGuid</a></td></tr>
+<tr class="separator:acc3036bb1b20612c7dff3dfd0a4e228b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a247eb2917ea3f5d6762ab6982e0fd8e2"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#a776dd7a96577ad914d7856d27205e064">entry</a></td></tr>
+<tr class="separator:a247eb2917ea3f5d6762ab6982e0fd8e2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a05392ad2f5ab6bfa586fd3906beefbba"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#af2839fbd05b7c15016ff868d68795b13">unitGUID</a></td></tr>
+<tr class="separator:a05392ad2f5ab6bfa586fd3906beefbba"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a67fb0b4a3f6782974eb2f09fa3ca393e"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:a7194e6073da06833c6054b09d62af998"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#a3be697bd5161ea28f96e855ec6dd5d06">maxDist</a></td></tr>
+<tr class="separator:a7194e6073da06833c6054b09d62af998"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aefad3725add0d2fa7687b3a4849782cf"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#afafd6378f6b9472ce21aab4addbc55b6">roleMask</a></td></tr>
+<tr class="separator:aefad3725add0d2fa7687b3a4849782cf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afc38a4a9d6b183d8392b03ccec0962d2"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#a283ae7d8a9e5b9b4a02c1ec8f0a28a48">resize</a></td></tr>
+<tr class="separator:afc38a4a9d6b183d8392b03ccec0962d2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a67fb0b4a3f6782974eb2f09fa3ca393e"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#a828e7b824f7b0d8f02da2244ed3f7ecf">roleSelection</a></td></tr>
+<tr class="separator:a67fb0b4a3f6782974eb2f09fa3ca393e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac411dd3e11713fbf934bc690d330b53e"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:ab30848c41edfc3b86e861dff54cdc964"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#a83eeb205cdbbdee686d883f0ce3c6a37">creature</a></td></tr>
+<tr class="separator:ab30848c41edfc3b86e861dff54cdc964"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a10d02b293d82bba2ae763444816e6eca"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#a4a000f749faecc744ca9074301e038f3">dist</a></td></tr>
+<tr class="separator:a10d02b293d82bba2ae763444816e6eca"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8a3c7668d531812d9129f4e6a86301e3"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#a6965825e57e41efb16a153eee55c9cff">livingState</a></td></tr>
+<tr class="separator:a8a3c7668d531812d9129f4e6a86301e3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac411dd3e11713fbf934bc690d330b53e"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#a70bb4d6de31117ce5cb77f734e8400cd">unitDistance</a></td></tr>
+<tr class="separator:ac411dd3e11713fbf934bc690d330b53e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa7ef007be02ece798e0c9fe3c1fbceaf"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:a46c2be8834cb6a95e572993daae5697e"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#a4a000f749faecc744ca9074301e038f3">dist</a></td></tr>
+<tr class="separator:a46c2be8834cb6a95e572993daae5697e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa7ef007be02ece798e0c9fe3c1fbceaf"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#a1c8c169cefe9405ea1eb31664e9238b5">playerDistance</a></td></tr>
+<tr class="separator:aa7ef007be02ece798e0c9fe3c1fbceaf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aae5086ee2423ea9d3e3ac9d19b691cc0"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:a69ca2e9cb0b2ed2049f5905746247ae9"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#afd68fe281c872f9d960b7eb40cc5fba9">minDist</a></td></tr>
+<tr class="separator:a69ca2e9cb0b2ed2049f5905746247ae9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1f815407f4c96563211ad8aa090cf03f"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#a3be697bd5161ea28f96e855ec6dd5d06">maxDist</a></td></tr>
+<tr class="separator:a1f815407f4c96563211ad8aa090cf03f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a11fb1cf2d200b58bbc646e17b9c67b78"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#ab92246c1f3e1c3eef1448383c11db8b7">maxCount</a></td></tr>
+<tr class="separator:a11fb1cf2d200b58bbc646e17b9c67b78"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aae5086ee2423ea9d3e3ac9d19b691cc0"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#a774a93e38334ea5981ccbc2a54f0412d">playerRange</a></td></tr>
+<tr class="separator:aae5086ee2423ea9d3e3ac9d19b691cc0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9f578ae53a4dfddf2dfcd279f8bff5a8"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:af83cfe567f2ed984c7da3f4e2cb6013f"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#ac73ba4a6792fef5f02dc5af2b2303f97">id</a></td></tr>
+<tr class="separator:af83cfe567f2ed984c7da3f4e2cb6013f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9f578ae53a4dfddf2dfcd279f8bff5a8"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#aef8b97bebdcef4174c1dd8b33f8ad025">stored</a></td></tr>
+<tr class="separator:a9f578ae53a4dfddf2dfcd279f8bff5a8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a72fefcd4d229e5dbb2bd1747d1bd2ee5"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:a454f9b794531a86884dddfa0be81352c"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#a776dd7a96577ad914d7856d27205e064">entry</a></td></tr>
+<tr class="separator:a454f9b794531a86884dddfa0be81352c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a96da2a650016995961c991bc4277dcd4"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#afd68fe281c872f9d960b7eb40cc5fba9">minDist</a></td></tr>
+<tr class="separator:a96da2a650016995961c991bc4277dcd4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af9cc839fe6b0fd4b0c2e1ee6b1be6ce0"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#a3be697bd5161ea28f96e855ec6dd5d06">maxDist</a></td></tr>
+<tr class="separator:af9cc839fe6b0fd4b0c2e1ee6b1be6ce0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a72fefcd4d229e5dbb2bd1747d1bd2ee5"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#a33c77c8756fc559467ba621dbd4f7f0e">goRange</a></td></tr>
+<tr class="separator:a72fefcd4d229e5dbb2bd1747d1bd2ee5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a80ad056d69713c3318cfba12b15a924d"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:ae4301bdd1592173d974e82e90ee73de4"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#a6485b621fa6bb529b7cff1c4bc63c8df">dbGuid</a></td></tr>
+<tr class="separator:ae4301bdd1592173d974e82e90ee73de4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af56c1ea848aea2cddad186f0a43b85b5"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#a776dd7a96577ad914d7856d27205e064">entry</a></td></tr>
+<tr class="separator:af56c1ea848aea2cddad186f0a43b85b5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a80ad056d69713c3318cfba12b15a924d"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#a4d4dbefed710810947b43e9d7a19f417">goGUID</a></td></tr>
+<tr class="separator:a80ad056d69713c3318cfba12b15a924d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adcd2113af50f36f41c3cb20bb738761b"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:ac8434c010f07888fef8581aa96fc101e"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#a776dd7a96577ad914d7856d27205e064">entry</a></td></tr>
+<tr class="separator:ac8434c010f07888fef8581aa96fc101e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a51744ab3f716ec7557ebe1c457c8590f"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#a4a000f749faecc744ca9074301e038f3">dist</a></td></tr>
+<tr class="separator:a51744ab3f716ec7557ebe1c457c8590f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adcd2113af50f36f41c3cb20bb738761b"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#a5cb2f6adcedfb1e83c816e7acab7844d">goDistance</a></td></tr>
+<tr class="separator:adcd2113af50f36f41c3cb20bb738761b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3483edeef698f826b1653e87b49fe28f"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:a6c72741ae01bd0f1e9efaa534362c092"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#a776dd7a96577ad914d7856d27205e064">entry</a></td></tr>
+<tr class="separator:a6c72741ae01bd0f1e9efaa534362c092"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aaf8f41699220f672bfb6a3cae44e212f"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#a4a000f749faecc744ca9074301e038f3">dist</a></td></tr>
+<tr class="separator:aaf8f41699220f672bfb6a3cae44e212f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4fb7cdabec6776faa2b8a30a2d0469de"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/d3a/a04439.html#a96a00b1ae7179b02b6ee7e68ed92c6ac">SAIBool</a>&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#a5d72ed7a43cb807080d7d5461fffaecd">dead</a></td></tr>
+<tr class="separator:a4fb7cdabec6776faa2b8a30a2d0469de"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3483edeef698f826b1653e87b49fe28f"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#a21c24fbbee9866a4dc3b42fd0bd5e196">unitClosest</a></td></tr>
+<tr class="separator:a3483edeef698f826b1653e87b49fe28f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8f7ebbea8dfabf1a31178bc5c9878528"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:a848b367fa79cc5ad7ea78af76fecd783"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/d3a/a04439.html#a96a00b1ae7179b02b6ee7e68ed92c6ac">SAIBool</a>&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#a59e03101305ccf733a6bdb0e80fe1cce">useCharmerOrOwner</a></td></tr>
+<tr class="separator:a848b367fa79cc5ad7ea78af76fecd783"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8f7ebbea8dfabf1a31178bc5c9878528"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#aba129a5ced35898c1832f0a02498aac8">owner</a></td></tr>
+<tr class="separator:a8f7ebbea8dfabf1a31178bc5c9878528"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae9ffee8fe38a6daba1e01591f38e8944"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:a33296573840b70c014a550341d5e5e9c"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#a61f23fdc1b87de34bd2a6b08d1cae97d">seatMask</a></td></tr>
+<tr class="separator:a33296573840b70c014a550341d5e5e9c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae9ffee8fe38a6daba1e01591f38e8944"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#a62e3ea34a7cbe34515bd075373a8b947">vehicle</a></td></tr>
+<tr class="separator:ae9ffee8fe38a6daba1e01591f38e8944"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4d27d4cc5905676cfe2656bc1ba9e06e"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:a40ea8822facc3821d920a98389ee782f"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#a3be697bd5161ea28f96e855ec6dd5d06">maxDist</a></td></tr>
+<tr class="separator:a40ea8822facc3821d920a98389ee782f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4d27d4cc5905676cfe2656bc1ba9e06e"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#ab07e530801fe29fc06c5beb6ef05dfa3">threatList</a></td></tr>
+<tr class="separator:a4d27d4cc5905676cfe2656bc1ba9e06e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0fcef1cafb8aef579f78053a3f58d1a7"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:a21c466cb941272a8b891ab8c9e2410bb"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#a776dd7a96577ad914d7856d27205e064">entry</a></td></tr>
+<tr class="separator:a21c466cb941272a8b891ab8c9e2410bb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a73ba3e3304a8f329e4d10ac11d10de98"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#a4a000f749faecc744ca9074301e038f3">dist</a></td></tr>
+<tr class="separator:a73ba3e3304a8f329e4d10ac11d10de98"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a23285b86fd4d9e2d0a121f76e3579c90"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#a071915d21320b5469c8edf93e208f7d2">onlySpawned</a></td></tr>
+<tr class="separator:a23285b86fd4d9e2d0a121f76e3579c90"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0fcef1cafb8aef579f78053a3f58d1a7"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#a399e0238ac835db29942cd21d3453c61">goClosest</a></td></tr>
+<tr class="separator:a0fcef1cafb8aef579f78053a3f58d1a7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab77af4d9ffdc83d4a4b81f95f23b3c19"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:af044eceab1f1a8111afb7faf29b4f6a8"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#a3be697bd5161ea28f96e855ec6dd5d06">maxDist</a></td></tr>
+<tr class="separator:af044eceab1f1a8111afb7faf29b4f6a8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0e78c0923982c85cb6c08ffae48673e7"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/d3a/a04439.html#a96a00b1ae7179b02b6ee7e68ed92c6ac">SAIBool</a>&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#a5d5c979cd4cfd87f978d065ff7c03d01">playerOnly</a></td></tr>
+<tr class="separator:a0e78c0923982c85cb6c08ffae48673e7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab77af4d9ffdc83d4a4b81f95f23b3c19"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#ad270d6c70763616eca497500a4f81d63">closestAttackable</a></td></tr>
+<tr class="separator:ab77af4d9ffdc83d4a4b81f95f23b3c19"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1c22bc756677f609d3f56dfc71ea4ea1"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:aeb1aecf0ed3627e6d2551f3fea1b7823"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#a3be697bd5161ea28f96e855ec6dd5d06">maxDist</a></td></tr>
+<tr class="separator:aeb1aecf0ed3627e6d2551f3fea1b7823"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9e0e5a8a3e540f473bd37b642e8f7fe1"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/d3a/a04439.html#a96a00b1ae7179b02b6ee7e68ed92c6ac">SAIBool</a>&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#a5d5c979cd4cfd87f978d065ff7c03d01">playerOnly</a></td></tr>
+<tr class="separator:a9e0e5a8a3e540f473bd37b642e8f7fe1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1c22bc756677f609d3f56dfc71ea4ea1"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#a9095fe57f1ed331e56303cb8e610c2bf">closestFriendly</a></td></tr>
+<tr class="separator:a1c22bc756677f609d3f56dfc71ea4ea1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6bcd6e4ac5eb9c27e9941426e738e8f7"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:a62f15a6477920bcb9e16d1b22888f14a"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#a574fa96928ef9dbca12649c55b7ea596">range</a></td></tr>
+<tr class="separator:a62f15a6477920bcb9e16d1b22888f14a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1220e30b85d41495e703a6d12f4acecc"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#a8772407f3c557a577055190db8e6345f">amount</a></td></tr>
+<tr class="separator:a1220e30b85d41495e703a6d12f4acecc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afc138b5474a07839d989e7b57daf4a2f"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#a726279330a1fa9fc4fb89a3d338bf04d">self</a></td></tr>
+<tr class="separator:afc138b5474a07839d989e7b57daf4a2f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6bcd6e4ac5eb9c27e9941426e738e8f7"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#a855c817ec8a69aae1d0e145667f7490b">randomPoint</a></td></tr>
+<tr class="separator:a6bcd6e4ac5eb9c27e9941426e738e8f7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac07e9a8d11a5dfc65a54886100f57eb0"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:a3da30b451d2c94c433ac2527243b84c2"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#a2ed93baf995e552b1bf290ca7a3c21d9">spellId</a></td></tr>
+<tr class="separator:a3da30b451d2c94c433ac2527243b84c2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0f26ff1ee69c4269c85e72a4e69314cf"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#af83071775da34749226ea32c6421d0dd">negation</a></td></tr>
+<tr class="separator:a0f26ff1ee69c4269c85e72a4e69314cf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae3ec0e47a577c4d7be03f87e81925811"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#a15c71966dd35ba4175810f9d84276966">distMax</a></td></tr>
+<tr class="separator:ae3ec0e47a577c4d7be03f87e81925811"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a535366d8fd73e7ec88586cc1242e7611"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#a0f023bbfa25dbd3c818b1f5d990d22ef">distMin</a></td></tr>
+<tr class="separator:a535366d8fd73e7ec88586cc1242e7611"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac07e9a8d11a5dfc65a54886100f57eb0"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#aa5ce6aa37d064ecad0bf31bee77fe4bc">playerWithAura</a></td></tr>
+<tr class="separator:ac07e9a8d11a5dfc65a54886100f57eb0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a98446dbe2969b6e2d82c69184d57eb0b"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:a3e8c880242b085699387da47016d3616"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#a776dd7a96577ad914d7856d27205e064">entry</a></td></tr>
+<tr class="separator:a3e8c880242b085699387da47016d3616"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a98446dbe2969b6e2d82c69184d57eb0b"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#a4cd6d9c4facbfea1e0e7528ef9fac275">summonedCreatures</a></td></tr>
+<tr class="separator:a98446dbe2969b6e2d82c69184d57eb0b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7956df1c7df2890ff1c3f26e57c2daca"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:a285d89dd6993b216e6ed5427fb43f785"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#a47ca1b5e1d5a12bed1934e1eb0c82306">param1</a></td></tr>
+<tr class="separator:a285d89dd6993b216e6ed5427fb43f785"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0121310b7221224af8832457299d68f8"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#ae59a95b879b52ccd14f02f0194f3e0cd">param2</a></td></tr>
+<tr class="separator:a0121310b7221224af8832457299d68f8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ace257233b556b7e85627b2febff0b9f5"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#a8bab79ccc6157e5b8b2a1c2c9d81a415">param3</a></td></tr>
+<tr class="separator:ace257233b556b7e85627b2febff0b9f5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab88bfefab0f1020cb20eae06e332d10d"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#a13101dc99bd1bf29036520d0df6557ee">param4</a></td></tr>
+<tr class="separator:ab88bfefab0f1020cb20eae06e332d10d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7956df1c7df2890ff1c3f26e57c2daca"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#ab9bfbf8a4e4f8a6e29afe3f689e5fc2d">raw</a></td></tr>
+<tr class="separator:a7956df1c7df2890ff1c3f26e57c2daca"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a006f41eab362ae89b9c284f7fcbc8c10"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:af1c7ff8bbd7791f3745fff81ac9e47a2"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#adc7617915da647fb6f70ddca99723c1e">index</a></td></tr>
+<tr class="separator:af1c7ff8bbd7791f3745fff81ac9e47a2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a131da6cdc9441a886a4273e2ca0a9071"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#a647e6d839f3e58848c1088755d3122a1">type</a></td></tr>
+<tr class="separator:a131da6cdc9441a886a4273e2ca0a9071"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a006f41eab362ae89b9c284f7fcbc8c10"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#a710fe7c9ecb56590028ef1f4c9a4c7c8">instanceStorage</a></td></tr>
+<tr class="separator:a006f41eab362ae89b9c284f7fcbc8c10"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aaaeab3c821dcae5c0a5aa57c0c384c53"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:a18865df62db77046f69ec57c0f6b316a"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../d8/d3a/a04439.html#a96a00b1ae7179b02b6ee7e68ed92c6ac">SAIBool</a>&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#a5aaa94e956b2653c8b7da95b1885c1a1">includePets</a></td></tr>
+<tr class="separator:a18865df62db77046f69ec57c0f6b316a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aaaeab3c821dcae5c0a5aa57c0c384c53"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../dc/dcb/a06962.html#aceef5924f39a4d767b99255a386ce2bf">invokerParty</a></td></tr>
+<tr class="separator:aaaeab3c821dcae5c0a5aa57c0c384c53"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a80705486836388f057c23cbd71b9cd2a"><td class="memItemLeft" valign="top">};&#160;</td><td class="memItemRight" valign="bottom"></td></tr>
+<tr class="separator:a80705486836388f057c23cbd71b9cd2a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Member Typedef Documentation</h2>
-<a id="ab05cddc8805f4f6745a620aaf78490e6" name="ab05cddc8805f4f6745a620aaf78490e6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab05cddc8805f4f6745a620aaf78490e6">&#9670;&#160;</a></span>AuctionEntryMap</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">typedef std::map&lt;<a class="el" href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../db/dce/a06958.html">AuctionEntry</a>*&gt; <a class="el" href="../../dc/dcb/a06962.html#ab05cddc8805f4f6745a620aaf78490e6">AuctionHouseObject::AuctionEntryMap</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="ae980b3dc0cb776fa77810d488c0144aa" name="ae980b3dc0cb776fa77810d488c0144aa"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae980b3dc0cb776fa77810d488c0144aa">&#9670;&#160;</a></span>AuctionHouseObject()</h2>
+<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="af648cbf7934ad423724a994f9cabc4b6" name="af648cbf7934ad423724a994f9cabc4b6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af648cbf7934ad423724a994f9cabc4b6">&#9670;&#160;</a></span>SmartTarget()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -177,10 +342,39 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">AuctionHouseObject::AuctionHouseObject </td>
+          <td class="memname">SmartTarget::SmartTarget </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
+          <td class="paramtype"><a class="el" href="../../d8/d3a/a04439.html#a20fbd4053053320ca4f2a803a09eb92e">SMARTAI_TARGETS</a>&#160;</td>
+          <td class="paramname"><em>t</em> = <code><a class="el" href="../../d8/d3a/a04439.html#a20fbd4053053320ca4f2a803a09eb92eae4f7681523b0f77ff2d889fb42a848ab">SMART_TARGET_NONE</a></code>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
           <td></td>
+          <td class="paramtype"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>p1</em> = <code>0</code>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>p2</em> = <code>0</code>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>p3</em> = <code>0</code>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>p4</em> = <code>0</code>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
   </td>
@@ -189,383 +383,1046 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  130</span>{ <a class="code hl_variable" href="../../dc/dcb/a06962.html#aa8780a803119c4350d367f39daff32a1">_next</a> = <a class="code hl_variable" href="../../dc/dcb/a06962.html#a92e8694ba6d22e26bedb19b2d0619a9f">_auctionsMap</a>.begin(); }</div>
-<div class="ttc" id="aa06962_html_a92e8694ba6d22e26bedb19b2d0619a9f"><div class="ttname"><a href="../../dc/dcb/a06962.html#a92e8694ba6d22e26bedb19b2d0619a9f">AuctionHouseObject::_auctionsMap</a></div><div class="ttdeci">AuctionEntryMap _auctionsMap</div><div class="ttdef"><b>Definition:</b> AuctionHouseMgr.h:158</div></div>
-<div class="ttc" id="aa06962_html_aa8780a803119c4350d367f39daff32a1"><div class="ttname"><a href="../../dc/dcb/a06962.html#aa8780a803119c4350d367f39daff32a1">AuctionHouseObject::_next</a></div><div class="ttdeci">AuctionEntryMap::const_iterator _next</div><div class="ttdef"><b>Definition:</b> AuctionHouseMgr.h:161</div></div>
+<div class="fragment"><div class="line"><span class="lineno"> 1579</span>    {</div>
+<div class="line"><span class="lineno"> 1580</span>        <a class="code hl_variable" href="../../dc/dcb/a06962.html#acd89b43d2caa64668e5ed82cd4e7cda5">type</a> = t;</div>
+<div class="line"><span class="lineno"> 1581</span>        <a class="code hl_variable" href="../../dc/dcb/a06962.html#ab9bfbf8a4e4f8a6e29afe3f689e5fc2d">raw</a>.param1 = p1;</div>
+<div class="line"><span class="lineno"> 1582</span>        <a class="code hl_variable" href="../../dc/dcb/a06962.html#ab9bfbf8a4e4f8a6e29afe3f689e5fc2d">raw</a>.param2 = p2;</div>
+<div class="line"><span class="lineno"> 1583</span>        <a class="code hl_variable" href="../../dc/dcb/a06962.html#ab9bfbf8a4e4f8a6e29afe3f689e5fc2d">raw</a>.param3 = p3;</div>
+<div class="line"><span class="lineno"> 1584</span>        <a class="code hl_variable" href="../../dc/dcb/a06962.html#ab9bfbf8a4e4f8a6e29afe3f689e5fc2d">raw</a>.param4 = p4;</div>
+<div class="line"><span class="lineno"> 1585</span>        <a class="code hl_variable" href="../../dc/dcb/a06962.html#a6a31784c4f9f3955e0cc5cf16687fd82">x</a> = 0.0f;</div>
+<div class="line"><span class="lineno"> 1586</span>        <a class="code hl_variable" href="../../dc/dcb/a06962.html#aaa06940768e7b9e08e549af80ab40650">y</a> = 0.0f;</div>
+<div class="line"><span class="lineno"> 1587</span>        <a class="code hl_variable" href="../../dc/dcb/a06962.html#acb52eb278431dc7a11e460c6c53c8f8e">z</a> = 0.0f;</div>
+<div class="line"><span class="lineno"> 1588</span>        <a class="code hl_variable" href="../../dc/dcb/a06962.html#a28a91da4b59f75cd41df0e712337b291">o</a> = 0.0f;</div>
+<div class="line"><span class="lineno"> 1589</span>    }</div>
+<div class="ttc" id="aa06962_html_a28a91da4b59f75cd41df0e712337b291"><div class="ttname"><a href="../../dc/dcb/a06962.html#a28a91da4b59f75cd41df0e712337b291">SmartTarget::o</a></div><div class="ttdeci">float o</div><div class="ttdef"><b>Definition:</b> SmartScriptMgr.h:1591</div></div>
+<div class="ttc" id="aa06962_html_a6a31784c4f9f3955e0cc5cf16687fd82"><div class="ttname"><a href="../../dc/dcb/a06962.html#a6a31784c4f9f3955e0cc5cf16687fd82">SmartTarget::x</a></div><div class="ttdeci">float x</div><div class="ttdef"><b>Definition:</b> SmartScriptMgr.h:1591</div></div>
+<div class="ttc" id="aa06962_html_aaa06940768e7b9e08e549af80ab40650"><div class="ttname"><a href="../../dc/dcb/a06962.html#aaa06940768e7b9e08e549af80ab40650">SmartTarget::y</a></div><div class="ttdeci">float y</div><div class="ttdef"><b>Definition:</b> SmartScriptMgr.h:1591</div></div>
+<div class="ttc" id="aa06962_html_ab9bfbf8a4e4f8a6e29afe3f689e5fc2d"><div class="ttname"><a href="../../dc/dcb/a06962.html#ab9bfbf8a4e4f8a6e29afe3f689e5fc2d">SmartTarget::raw</a></div><div class="ttdeci">struct SmartTarget::@196::@220 raw</div></div>
+<div class="ttc" id="aa06962_html_acb52eb278431dc7a11e460c6c53c8f8e"><div class="ttname"><a href="../../dc/dcb/a06962.html#acb52eb278431dc7a11e460c6c53c8f8e">SmartTarget::z</a></div><div class="ttdeci">float z</div><div class="ttdef"><b>Definition:</b> SmartScriptMgr.h:1591</div></div>
+<div class="ttc" id="aa06962_html_acd89b43d2caa64668e5ed82cd4e7cda5"><div class="ttname"><a href="../../dc/dcb/a06962.html#acd89b43d2caa64668e5ed82cd4e7cda5">SmartTarget::type</a></div><div class="ttdeci">SMARTAI_TARGETS type</div><div class="ttdef"><b>Definition:</b> SmartScriptMgr.h:1590</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00158">_auctionsMap</a>, and <a class="el" href="../../#l00161">_next</a>.</p>
-
-</div>
-</div>
-<a id="abc1f401b8f18c6d5003fa337ed1e76bc" name="abc1f401b8f18c6d5003fa337ed1e76bc"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#abc1f401b8f18c6d5003fa337ed1e76bc">&#9670;&#160;</a></span>~AuctionHouseObject()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">AuctionHouseObject::~AuctionHouseObject </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  132</span>    {</div>
-<div class="line"><span class="lineno">  133</span>        <span class="keywordflow">for</span> (<span class="keyword">auto</span>&amp; itr : <a class="code hl_variable" href="../../dc/dcb/a06962.html#a92e8694ba6d22e26bedb19b2d0619a9f">_auctionsMap</a>)</div>
-<div class="line"><span class="lineno">  134</span>            <span class="keyword">delete</span> itr.second;</div>
-<div class="line"><span class="lineno">  135</span>    }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00158">_auctionsMap</a>.</p>
-
-</div>
-</div>
-<h2 class="groupheader">Member Function Documentation</h2>
-<a id="a9c61fcf5d92ad6cea5af36b1bd5cff5b" name="a9c61fcf5d92ad6cea5af36b1bd5cff5b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9c61fcf5d92ad6cea5af36b1bd5cff5b">&#9670;&#160;</a></span>AddAuction()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void AuctionHouseObject::AddAuction </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../db/dce/a06958.html">AuctionEntry</a> *&#160;</td>
-          <td class="paramname"><em>auction</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  480</span>{</div>
-<div class="line"><span class="lineno">  481</span>    <a class="code hl_define" href="../../d5/d42/a00269.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(auction);</div>
-<div class="line"><span class="lineno">  482</span> </div>
-<div class="line"><span class="lineno">  483</span>    <a class="code hl_variable" href="../../dc/dcb/a06962.html#a92e8694ba6d22e26bedb19b2d0619a9f">_auctionsMap</a>[auction-&gt;<a class="code hl_variable" href="../../db/dce/a06958.html#aa65a8b6b8be81f705378e2f510196c48">Id</a>] = auction;</div>
-<div class="line"><span class="lineno">  484</span>    <a class="code hl_define" href="../../dc/d25/a00596.html#ac3e168154709326e99ab24a7d1395906">sAuctionMgr</a>-&gt;GetAuctionHouseSearcher()-&gt;AddAuction(auction);</div>
-<div class="line"><span class="lineno">  485</span> </div>
-<div class="line"><span class="lineno">  486</span>    <a class="code hl_define" href="../../d8/dbb/a00932.html#ae8161e629869974bc49b1cbfc73c1087">sScriptMgr</a>-&gt;OnAuctionAdd(<span class="keyword">this</span>, auction);</div>
-<div class="line"><span class="lineno">  487</span>}</div>
-<div class="ttc" id="aa00269_html_af343b20373ba49a92fce523e948f2ab3"><div class="ttname"><a href="../../d5/d42/a00269.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a></div><div class="ttdeci">#define ASSERT</div><div class="ttdef"><b>Definition:</b> Errors.h:68</div></div>
-<div class="ttc" id="aa00596_html_ac3e168154709326e99ab24a7d1395906"><div class="ttname"><a href="../../dc/d25/a00596.html#ac3e168154709326e99ab24a7d1395906">sAuctionMgr</a></div><div class="ttdeci">#define sAuctionMgr</div><div class="ttdef"><b>Definition:</b> AuctionHouseMgr.h:224</div></div>
-<div class="ttc" id="aa00932_html_ae8161e629869974bc49b1cbfc73c1087"><div class="ttname"><a href="../../d8/dbb/a00932.html#ae8161e629869974bc49b1cbfc73c1087">sScriptMgr</a></div><div class="ttdeci">#define sScriptMgr</div><div class="ttdef"><b>Definition:</b> ScriptMgr.h:714</div></div>
-<div class="ttc" id="aa06958_html_aa65a8b6b8be81f705378e2f510196c48"><div class="ttname"><a href="../../db/dce/a06958.html#aa65a8b6b8be81f705378e2f510196c48">AuctionEntry::Id</a></div><div class="ttdeci">uint32 Id</div><div class="ttdef"><b>Definition:</b> AuctionHouseMgr.h:98</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00158">_auctionsMap</a>, <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00098">AuctionEntry::Id</a>, <a class="el" href="../../#l00224">sAuctionMgr</a>, and <a class="el" href="../../#l00714">sScriptMgr</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00116">WorldSession::HandleAuctionSellItem()</a>, and <a class="el" href="../../#l00363">AuctionHouseMgr::LoadAuctions()</a>.</p>
-
-</div>
-</div>
-<a id="a8f549a3623e3f1c3b0b3a21dfdc24d85" name="a8f549a3623e3f1c3b0b3a21dfdc24d85"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8f549a3623e3f1c3b0b3a21dfdc24d85">&#9670;&#160;</a></span>GetAuction()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../db/dce/a06958.html">AuctionEntry</a> * AuctionHouseObject::GetAuction </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>id</em></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  146</span>    {</div>
-<div class="line"><span class="lineno">  147</span>        AuctionEntryMap::const_iterator itr = <a class="code hl_variable" href="../../dc/dcb/a06962.html#a92e8694ba6d22e26bedb19b2d0619a9f">_auctionsMap</a>.find(<span class="keywordtype">id</span>);</div>
-<div class="line"><span class="lineno">  148</span>        <span class="keywordflow">return</span> itr != <a class="code hl_variable" href="../../dc/dcb/a06962.html#a92e8694ba6d22e26bedb19b2d0619a9f">_auctionsMap</a>.end() ? itr-&gt;second : <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  149</span>    }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00158">_auctionsMap</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00393">WorldSession::HandleAuctionPlaceBid()</a>, and <a class="el" href="../../#l00527">WorldSession::HandleAuctionRemoveItem()</a>.</p>
-
-</div>
-</div>
-<a id="ac22a84a7e3f2c6baf5e40a1a43bbf098" name="ac22a84a7e3f2c6baf5e40a1a43bbf098"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac22a84a7e3f2c6baf5e40a1a43bbf098">&#9670;&#160;</a></span>GetAuctions()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../dc/dcb/a06962.html#ab05cddc8805f4f6745a620aaf78490e6">AuctionEntryMap</a> const  &amp; AuctionHouseObject::GetAuctions </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  143</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dc/dcb/a06962.html#a92e8694ba6d22e26bedb19b2d0619a9f">_auctionsMap</a>; }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00158">_auctionsMap</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l01946">WorldSession::HandleCharFactionOrRaceChangeCallback()</a>.</p>
-
-</div>
-</div>
-<a id="ae769fbe419c78c580fc0c6d6b91a6e28" name="ae769fbe419c78c580fc0c6d6b91a6e28"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae769fbe419c78c580fc0c6d6b91a6e28">&#9670;&#160;</a></span>GetAuctionsBegin()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">AuctionEntryMap::iterator AuctionHouseObject::GetAuctionsBegin </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  141</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dc/dcb/a06962.html#a92e8694ba6d22e26bedb19b2d0619a9f">_auctionsMap</a>.begin(); }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00158">_auctionsMap</a>.</p>
-
-</div>
-</div>
-<a id="a9526b361608b03716918540116bc6d4d" name="a9526b361608b03716918540116bc6d4d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9526b361608b03716918540116bc6d4d">&#9670;&#160;</a></span>GetAuctionsEnd()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">AuctionEntryMap::iterator AuctionHouseObject::GetAuctionsEnd </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  142</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dc/dcb/a06962.html#a92e8694ba6d22e26bedb19b2d0619a9f">_auctionsMap</a>.end(); }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00158">_auctionsMap</a>.</p>
-
-</div>
-</div>
-<a id="a49aa833a0d8fd698f116ebdf2544040f" name="a49aa833a0d8fd698f116ebdf2544040f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a49aa833a0d8fd698f116ebdf2544040f">&#9670;&#160;</a></span>Getcount()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AuctionHouseObject::Getcount </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  139</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dc/dcb/a06962.html#a92e8694ba6d22e26bedb19b2d0619a9f">_auctionsMap</a>.size(); }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00158">_auctionsMap</a>.</p>
-
-</div>
-</div>
-<a id="af760e3c74242ab2bbc0cfb03a9224aff" name="af760e3c74242ab2bbc0cfb03a9224aff"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af760e3c74242ab2bbc0cfb03a9224aff">&#9670;&#160;</a></span>RemoveAuction()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool AuctionHouseObject::RemoveAuction </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../db/dce/a06958.html">AuctionEntry</a> *&#160;</td>
-          <td class="paramname"><em>auction</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  490</span>{</div>
-<div class="line"><span class="lineno">  491</span>    <span class="keywordtype">bool</span> wasInMap = !!<a class="code hl_variable" href="../../dc/dcb/a06962.html#a92e8694ba6d22e26bedb19b2d0619a9f">_auctionsMap</a>.erase(auction-&gt;<a class="code hl_variable" href="../../db/dce/a06958.html#aa65a8b6b8be81f705378e2f510196c48">Id</a>);</div>
-<div class="line"><span class="lineno">  492</span>    <a class="code hl_define" href="../../dc/d25/a00596.html#ac3e168154709326e99ab24a7d1395906">sAuctionMgr</a>-&gt;GetAuctionHouseSearcher()-&gt;RemoveAuction(auction);</div>
-<div class="line"><span class="lineno">  493</span> </div>
-<div class="line"><span class="lineno">  494</span>    <a class="code hl_define" href="../../d8/dbb/a00932.html#ae8161e629869974bc49b1cbfc73c1087">sScriptMgr</a>-&gt;OnAuctionRemove(<span class="keyword">this</span>, auction);</div>
-<div class="line"><span class="lineno">  495</span> </div>
-<div class="line"><span class="lineno">  496</span>    <span class="comment">// we need to delete the entry, it is not referenced any more</span></div>
-<div class="line"><span class="lineno">  497</span>    <span class="keyword">delete</span> auction;</div>
-<div class="line"><span class="lineno">  498</span>    auction = <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  499</span> </div>
-<div class="line"><span class="lineno">  500</span>    <span class="keywordflow">return</span> wasInMap;</div>
-<div class="line"><span class="lineno">  501</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00158">_auctionsMap</a>, <a class="el" href="../../#l00098">AuctionEntry::Id</a>, <a class="el" href="../../#l00224">sAuctionMgr</a>, and <a class="el" href="../../#l00714">sScriptMgr</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00393">WorldSession::HandleAuctionPlaceBid()</a>, <a class="el" href="../../#l00527">WorldSession::HandleAuctionRemoveItem()</a>, and <a class="el" href="../../#l00503">Update()</a>.</p>
-
-</div>
-</div>
-<a id="ae9a2bed6b57af310230134cdf2cfd46a" name="ae9a2bed6b57af310230134cdf2cfd46a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae9a2bed6b57af310230134cdf2cfd46a">&#9670;&#160;</a></span>Update()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void AuctionHouseObject::Update </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<ul>
-<li>Handle expired auctions</li>
-<li>Either cancel the auction if there was no bidder</li>
-<li>Or perform the transaction</li>
-<li>In any case clear the auction</li>
-</ul>
-<div class="fragment"><div class="line"><span class="lineno">  504</span>{</div>
-<div class="line"><span class="lineno">  505</span>    time_t checkTime = <a class="code hl_function" href="../../de/d5f/a04763.html#adbe1785d1327dedf2ac403b7cc8e99c2">GameTime::GetGameTime</a>().count() + 60;</div>
-<div class="line"><span class="lineno">  507</span> </div>
-<div class="line"><span class="lineno">  508</span>    <span class="comment">// If storage is empty, no need to update. next == nullptr in this case.</span></div>
-<div class="line"><span class="lineno">  509</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dc/dcb/a06962.html#a92e8694ba6d22e26bedb19b2d0619a9f">_auctionsMap</a>.empty())</div>
-<div class="line"><span class="lineno">  510</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  511</span> </div>
-<div class="line"><span class="lineno">  512</span>    <a class="code hl_typedef" href="../../d7/d1a/a02381.html#a96bac9a371212c6bab7a9448214666c0">CharacterDatabaseTransaction</a> trans = <a class="code hl_variable" href="../../d5/d73/a02423.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.BeginTransaction();</div>
-<div class="line"><span class="lineno">  513</span> </div>
-<div class="line"><span class="lineno">  514</span>    <span class="keywordflow">for</span> (AuctionEntryMap::iterator itr, iter = <a class="code hl_variable" href="../../dc/dcb/a06962.html#a92e8694ba6d22e26bedb19b2d0619a9f">_auctionsMap</a>.begin(); iter != <a class="code hl_variable" href="../../dc/dcb/a06962.html#a92e8694ba6d22e26bedb19b2d0619a9f">_auctionsMap</a>.end(); )</div>
-<div class="line"><span class="lineno">  515</span>    {</div>
-<div class="line"><span class="lineno">  516</span>        itr = iter++;</div>
-<div class="line"><span class="lineno">  517</span>        <a class="code hl_struct" href="../../db/dce/a06958.html">AuctionEntry</a>* auction = (*itr).second;</div>
-<div class="line"><span class="lineno">  518</span> </div>
-<div class="line"><span class="lineno">  519</span>        <span class="keywordflow">if</span> (auction-&gt;<a class="code hl_variable" href="../../db/dce/a06958.html#a8520c9664918d452d8e6b643df8486b5">expire_time</a> &gt; checkTime)</div>
-<div class="line"><span class="lineno">  520</span>            <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  521</span> </div>
-<div class="line"><span class="lineno">  523</span>        <span class="keywordflow">if</span> (!auction-&gt;<a class="code hl_variable" href="../../db/dce/a06958.html#a3d4e0baffa36cf643b0c645efe4bf3f4">bidder</a>)</div>
-<div class="line"><span class="lineno">  524</span>        {</div>
-<div class="line"><span class="lineno">  525</span>            <a class="code hl_define" href="../../dc/d25/a00596.html#ac3e168154709326e99ab24a7d1395906">sAuctionMgr</a>-&gt;SendAuctionExpiredMail(auction, trans);</div>
-<div class="line"><span class="lineno">  526</span>            <a class="code hl_define" href="../../d8/dbb/a00932.html#ae8161e629869974bc49b1cbfc73c1087">sScriptMgr</a>-&gt;OnAuctionExpire(<span class="keyword">this</span>, auction);</div>
-<div class="line"><span class="lineno">  527</span>        }</div>
-<div class="line"><span class="lineno">  529</span>        <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  530</span>        {</div>
-<div class="line"><span class="lineno">  531</span>            <span class="comment">//we should send an &quot;item sold&quot; message if the seller is online</span></div>
-<div class="line"><span class="lineno">  532</span>            <span class="comment">//we send the item to the winner</span></div>
-<div class="line"><span class="lineno">  533</span>            <span class="comment">//we send the money to the seller</span></div>
-<div class="line"><span class="lineno">  534</span>            <a class="code hl_define" href="../../dc/d25/a00596.html#ac3e168154709326e99ab24a7d1395906">sAuctionMgr</a>-&gt;SendAuctionSuccessfulMail(auction, trans);</div>
-<div class="line"><span class="lineno">  535</span>            <a class="code hl_define" href="../../dc/d25/a00596.html#ac3e168154709326e99ab24a7d1395906">sAuctionMgr</a>-&gt;SendAuctionWonMail(auction, trans);</div>
-<div class="line"><span class="lineno">  536</span>            <a class="code hl_define" href="../../d8/dbb/a00932.html#ae8161e629869974bc49b1cbfc73c1087">sScriptMgr</a>-&gt;OnAuctionSuccessful(<span class="keyword">this</span>, auction);</div>
-<div class="line"><span class="lineno">  537</span>        }</div>
-<div class="line"><span class="lineno">  538</span> </div>
-<div class="line"><span class="lineno">  540</span>        auction-&gt;<a class="code hl_function" href="../../db/dce/a06958.html#a13750d00897a07a57a881c3dcb1f6737">DeleteFromDB</a>(trans);</div>
-<div class="line"><span class="lineno">  541</span> </div>
-<div class="line"><span class="lineno">  542</span>        <a class="code hl_define" href="../../dc/d25/a00596.html#ac3e168154709326e99ab24a7d1395906">sAuctionMgr</a>-&gt;RemoveAItem(auction-&gt;<a class="code hl_variable" href="../../db/dce/a06958.html#a9b1f40baa8c949995acdab008944f403">item_guid</a>);</div>
-<div class="line"><span class="lineno">  543</span>        <a class="code hl_function" href="../../dc/dcb/a06962.html#af760e3c74242ab2bbc0cfb03a9224aff">RemoveAuction</a>(auction);</div>
-<div class="line"><span class="lineno">  544</span>    }</div>
-<div class="line"><span class="lineno">  545</span>    <a class="code hl_variable" href="../../d5/d73/a02423.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.CommitTransaction(trans);</div>
-<div class="line"><span class="lineno">  546</span>}</div>
-<div class="ttc" id="aa02381_html_a96bac9a371212c6bab7a9448214666c0"><div class="ttname"><a href="../../d7/d1a/a02381.html#a96bac9a371212c6bab7a9448214666c0">CharacterDatabaseTransaction</a></div><div class="ttdeci">SQLTransaction&lt; CharacterDatabaseConnection &gt; CharacterDatabaseTransaction</div><div class="ttdef"><b>Definition:</b> DatabaseEnvFwd.h:69</div></div>
-<div class="ttc" id="aa02423_html_a7e7534bc66d79434bd280b77cb124eec"><div class="ttname"><a href="../../d5/d73/a02423.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a></div><div class="ttdeci">DatabaseWorkerPool&lt; CharacterDatabaseConnection &gt; CharacterDatabase</div><div class="ttdoc">Accessor to the character database.</div><div class="ttdef"><b>Definition:</b> DatabaseEnv.cpp:21</div></div>
-<div class="ttc" id="aa04763_html_adbe1785d1327dedf2ac403b7cc8e99c2"><div class="ttname"><a href="../../de/d5f/a04763.html#adbe1785d1327dedf2ac403b7cc8e99c2">GameTime::GetGameTime</a></div><div class="ttdeci">Seconds GetGameTime()</div><div class="ttdef"><b>Definition:</b> GameTime.cpp:38</div></div>
-<div class="ttc" id="aa06958_html"><div class="ttname"><a href="../../db/dce/a06958.html">AuctionEntry</a></div><div class="ttdef"><b>Definition:</b> AuctionHouseMgr.h:97</div></div>
-<div class="ttc" id="aa06958_html_a13750d00897a07a57a881c3dcb1f6737"><div class="ttname"><a href="../../db/dce/a06958.html#a13750d00897a07a57a881c3dcb1f6737">AuctionEntry::DeleteFromDB</a></div><div class="ttdeci">void DeleteFromDB(CharacterDatabaseTransaction trans) const</div><div class="ttdef"><b>Definition:</b> AuctionHouseMgr.cpp:571</div></div>
-<div class="ttc" id="aa06958_html_a3d4e0baffa36cf643b0c645efe4bf3f4"><div class="ttname"><a href="../../db/dce/a06958.html#a3d4e0baffa36cf643b0c645efe4bf3f4">AuctionEntry::bidder</a></div><div class="ttdeci">ObjectGuid bidder</div><div class="ttdef"><b>Definition:</b> AuctionHouseMgr.h:108</div></div>
-<div class="ttc" id="aa06958_html_a8520c9664918d452d8e6b643df8486b5"><div class="ttname"><a href="../../db/dce/a06958.html#a8520c9664918d452d8e6b643df8486b5">AuctionEntry::expire_time</a></div><div class="ttdeci">time_t expire_time</div><div class="ttdef"><b>Definition:</b> AuctionHouseMgr.h:107</div></div>
-<div class="ttc" id="aa06958_html_a9b1f40baa8c949995acdab008944f403"><div class="ttname"><a href="../../db/dce/a06958.html#a9b1f40baa8c949995acdab008944f403">AuctionEntry::item_guid</a></div><div class="ttdeci">ObjectGuid item_guid</div><div class="ttdef"><b>Definition:</b> AuctionHouseMgr.h:100</div></div>
-<div class="ttc" id="aa06962_html_af760e3c74242ab2bbc0cfb03a9224aff"><div class="ttname"><a href="../../dc/dcb/a06962.html#af760e3c74242ab2bbc0cfb03a9224aff">AuctionHouseObject::RemoveAuction</a></div><div class="ttdeci">bool RemoveAuction(AuctionEntry *auction)</div><div class="ttdef"><b>Definition:</b> AuctionHouseMgr.cpp:489</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00158">_auctionsMap</a>, <a class="el" href="../../#l00108">AuctionEntry::bidder</a>, <a class="el" href="../../#l00021">CharacterDatabase</a>, <a class="el" href="../../#l00571">AuctionEntry::DeleteFromDB()</a>, <a class="el" href="../../#l00107">AuctionEntry::expire_time</a>, <a class="el" href="../../#l00038">GameTime::GetGameTime()</a>, <a class="el" href="../../#l00100">AuctionEntry::item_guid</a>, <a class="el" href="../../#l00489">RemoveAuction()</a>, <a class="el" href="../../#l00224">sAuctionMgr</a>, and <a class="el" href="../../#l00714">sScriptMgr</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00426">AuctionHouseMgr::Update()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01591">o</a>, <a class="el" href="../../dc/dcb/a06962.html#ab9bfbf8a4e4f8a6e29afe3f689e5fc2d">raw</a>, <a class="el" href="../../#l01590">type</a>, <a class="el" href="../../#l01591">x</a>, <a class="el" href="../../#l01591">y</a>, and <a class="el" href="../../#l01591">z</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a92e8694ba6d22e26bedb19b2d0619a9f" name="a92e8694ba6d22e26bedb19b2d0619a9f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a92e8694ba6d22e26bedb19b2d0619a9f">&#9670;&#160;</a></span>_auctionsMap</h2>
+<a id="a80705486836388f057c23cbd71b9cd2a" name="a80705486836388f057c23cbd71b9cd2a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a80705486836388f057c23cbd71b9cd2a">&#9670;&#160;</a></span></h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../dc/dcb/a06962.html#ab05cddc8805f4f6745a620aaf78490e6">AuctionEntryMap</a> AuctionHouseObject::_auctionsMap</td>
+          <td class="memname">union  { ... }  SmartTarget::@197</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00479">AddAuction()</a>, <a class="el" href="../../#l00130">AuctionHouseObject()</a>, <a class="el" href="../../#l00145">GetAuction()</a>, <a class="el" href="../../#l00143">GetAuctions()</a>, <a class="el" href="../../#l00141">GetAuctionsBegin()</a>, <a class="el" href="../../#l00142">GetAuctionsEnd()</a>, <a class="el" href="../../#l00139">Getcount()</a>, <a class="el" href="../../#l00489">RemoveAuction()</a>, <a class="el" href="../../#l00503">Update()</a>, and <a class="el" href="../../#l00131">~AuctionHouseObject()</a>.</p>
-
 </div>
 </div>
-<a id="aa8780a803119c4350d367f39daff32a1" name="aa8780a803119c4350d367f39daff32a1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa8780a803119c4350d367f39daff32a1">&#9670;&#160;</a></span>_next</h2>
+<a id="a8772407f3c557a577055190db8e6345f" name="a8772407f3c557a577055190db8e6345f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8772407f3c557a577055190db8e6345f">&#9670;&#160;</a></span>amount</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">AuctionEntryMap::const_iterator AuctionHouseObject::_next</td>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SmartTarget::amount</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00130">AuctionHouseObject()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00163">SmartScript::ProcessAction()</a>.</p>
+
+</div>
+</div>
+<a id="a0f21c03faa25895f9355fc81790f0154" name="a0f21c03faa25895f9355fc81790f0154"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0f21c03faa25895f9355fc81790f0154">&#9670;&#160;</a></span>aura</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SmartTarget::aura</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>.</p>
+
+</div>
+</div>
+<a id="ad270d6c70763616eca497500a4f81d63" name="ad270d6c70763616eca497500a4f81d63"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad270d6c70763616eca497500a4f81d63">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  SmartTarget::closestAttackable</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00908">SmartAIMgr::CheckUnusedTargetParams()</a>, <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>, and <a class="el" href="../../#l00457">SmartAIMgr::IsTargetValid()</a>.</p>
+
+</div>
+</div>
+<a id="a9095fe57f1ed331e56303cb8e610c2bf" name="a9095fe57f1ed331e56303cb8e610c2bf"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9095fe57f1ed331e56303cb8e610c2bf">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  SmartTarget::closestFriendly</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00908">SmartAIMgr::CheckUnusedTargetParams()</a>, <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>, and <a class="el" href="../../#l00457">SmartAIMgr::IsTargetValid()</a>.</p>
+
+</div>
+</div>
+<a id="a83eeb205cdbbdee686d883f0ce3c6a37" name="a83eeb205cdbbdee686d883f0ce3c6a37"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a83eeb205cdbbdee686d883f0ce3c6a37">&#9670;&#160;</a></span>creature</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SmartTarget::creature</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>, and <a class="el" href="../../#l00457">SmartAIMgr::IsTargetValid()</a>.</p>
+
+</div>
+</div>
+<a id="a6485b621fa6bb529b7cff1c4bc63c8df" name="a6485b621fa6bb529b7cff1c4bc63c8df"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6485b621fa6bb529b7cff1c4bc63c8df">&#9670;&#160;</a></span>dbGuid</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SmartTarget::dbGuid</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>.</p>
+
+</div>
+</div>
+<a id="a5d72ed7a43cb807080d7d5461fffaecd" name="a5d72ed7a43cb807080d7d5461fffaecd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5d72ed7a43cb807080d7d5461fffaecd">&#9670;&#160;</a></span>dead</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/d3a/a04439.html#a96a00b1ae7179b02b6ee7e68ed92c6ac">SAIBool</a> SmartTarget::dead</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>, and <a class="el" href="../../#l00457">SmartAIMgr::IsTargetValid()</a>.</p>
+
+</div>
+</div>
+<a id="a4a000f749faecc744ca9074301e038f3" name="a4a000f749faecc744ca9074301e038f3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4a000f749faecc744ca9074301e038f3">&#9670;&#160;</a></span>dist</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SmartTarget::dist</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>, and <a class="el" href="../../#l00457">SmartAIMgr::IsTargetValid()</a>.</p>
+
+</div>
+</div>
+<a id="a15c71966dd35ba4175810f9d84276966" name="a15c71966dd35ba4175810f9d84276966"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a15c71966dd35ba4175810f9d84276966">&#9670;&#160;</a></span>distMax</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SmartTarget::distMax</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>.</p>
+
+</div>
+</div>
+<a id="a0f023bbfa25dbd3c818b1f5d990d22ef" name="a0f023bbfa25dbd3c818b1f5d990d22ef"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0f023bbfa25dbd3c818b1f5d990d22ef">&#9670;&#160;</a></span>distMin</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SmartTarget::distMin</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>.</p>
+
+</div>
+</div>
+<a id="a776dd7a96577ad914d7856d27205e064" name="a776dd7a96577ad914d7856d27205e064"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a776dd7a96577ad914d7856d27205e064">&#9670;&#160;</a></span>entry</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SmartTarget::entry</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>, and <a class="el" href="../../#l00457">SmartAIMgr::IsTargetValid()</a>.</p>
+
+</div>
+</div>
+<a id="a8839cff7ecc867c727857681aab9aa4a" name="a8839cff7ecc867c727857681aab9aa4a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8839cff7ecc867c727857681aab9aa4a">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  SmartTarget::farthest</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00908">SmartAIMgr::CheckUnusedTargetParams()</a>, <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>, and <a class="el" href="../../#l00457">SmartAIMgr::IsTargetValid()</a>.</p>
+
+</div>
+</div>
+<a id="a399e0238ac835db29942cd21d3453c61" name="a399e0238ac835db29942cd21d3453c61"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a399e0238ac835db29942cd21d3453c61">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  SmartTarget::goClosest</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00908">SmartAIMgr::CheckUnusedTargetParams()</a>, and <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>.</p>
+
+</div>
+</div>
+<a id="a5cb2f6adcedfb1e83c816e7acab7844d" name="a5cb2f6adcedfb1e83c816e7acab7844d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5cb2f6adcedfb1e83c816e7acab7844d">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  SmartTarget::goDistance</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00908">SmartAIMgr::CheckUnusedTargetParams()</a>, <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>, and <a class="el" href="../../#l00457">SmartAIMgr::IsTargetValid()</a>.</p>
+
+</div>
+</div>
+<a id="a4d4dbefed710810947b43e9d7a19f417" name="a4d4dbefed710810947b43e9d7a19f417"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4d4dbefed710810947b43e9d7a19f417">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  SmartTarget::goGUID</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00908">SmartAIMgr::CheckUnusedTargetParams()</a>, <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>, and <a class="el" href="../../#l00457">SmartAIMgr::IsTargetValid()</a>.</p>
+
+</div>
+</div>
+<a id="a33c77c8756fc559467ba621dbd4f7f0e" name="a33c77c8756fc559467ba621dbd4f7f0e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a33c77c8756fc559467ba621dbd4f7f0e">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  SmartTarget::goRange</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00908">SmartAIMgr::CheckUnusedTargetParams()</a>, and <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>.</p>
+
+</div>
+</div>
+<a id="a49a7389f362f2d478ade48ac21b6cc37" name="a49a7389f362f2d478ade48ac21b6cc37"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a49a7389f362f2d478ade48ac21b6cc37">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  SmartTarget::hostileRandom</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00908">SmartAIMgr::CheckUnusedTargetParams()</a>, <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>, and <a class="el" href="../../#l00457">SmartAIMgr::IsTargetValid()</a>.</p>
+
+</div>
+</div>
+<a id="ac73ba4a6792fef5f02dc5af2b2303f97" name="ac73ba4a6792fef5f02dc5af2b2303f97"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac73ba4a6792fef5f02dc5af2b2303f97">&#9670;&#160;</a></span>id</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SmartTarget::id</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>.</p>
+
+</div>
+</div>
+<a id="a5aaa94e956b2653c8b7da95b1885c1a1" name="a5aaa94e956b2653c8b7da95b1885c1a1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5aaa94e956b2653c8b7da95b1885c1a1">&#9670;&#160;</a></span>includePets</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/d3a/a04439.html#a96a00b1ae7179b02b6ee7e68ed92c6ac">SAIBool</a> SmartTarget::includePets</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>.</p>
+
+</div>
+</div>
+<a id="adc7617915da647fb6f70ddca99723c1e" name="adc7617915da647fb6f70ddca99723c1e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adc7617915da647fb6f70ddca99723c1e">&#9670;&#160;</a></span>index</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SmartTarget::index</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>.</p>
+
+</div>
+</div>
+<a id="a710fe7c9ecb56590028ef1f4c9a4c7c8" name="a710fe7c9ecb56590028ef1f4c9a4c7c8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a710fe7c9ecb56590028ef1f4c9a4c7c8">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  SmartTarget::instanceStorage</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>, and <a class="el" href="../../#l00457">SmartAIMgr::IsTargetValid()</a>.</p>
+
+</div>
+</div>
+<a id="aceef5924f39a4d767b99255a386ce2bf" name="aceef5924f39a4d767b99255a386ce2bf"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aceef5924f39a4d767b99255a386ce2bf">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  SmartTarget::invokerParty</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00908">SmartAIMgr::CheckUnusedTargetParams()</a>, and <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>.</p>
+
+</div>
+</div>
+<a id="a4c71451eacd886100952f45ddcc8ae6b" name="a4c71451eacd886100952f45ddcc8ae6b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4c71451eacd886100952f45ddcc8ae6b">&#9670;&#160;</a></span>isInLos</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/d3a/a04439.html#a96a00b1ae7179b02b6ee7e68ed92c6ac">SAIBool</a> SmartTarget::isInLos</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>, and <a class="el" href="../../#l00457">SmartAIMgr::IsTargetValid()</a>.</p>
+
+</div>
+</div>
+<a id="a6965825e57e41efb16a153eee55c9cff" name="a6965825e57e41efb16a153eee55c9cff"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6965825e57e41efb16a153eee55c9cff">&#9670;&#160;</a></span>livingState</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SmartTarget::livingState</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>.</p>
+
+</div>
+</div>
+<a id="ab92246c1f3e1c3eef1448383c11db8b7" name="ab92246c1f3e1c3eef1448383c11db8b7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab92246c1f3e1c3eef1448383c11db8b7">&#9670;&#160;</a></span>maxCount</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SmartTarget::maxCount</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>.</p>
+
+</div>
+</div>
+<a id="a3be697bd5161ea28f96e855ec6dd5d06" name="a3be697bd5161ea28f96e855ec6dd5d06"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3be697bd5161ea28f96e855ec6dd5d06">&#9670;&#160;</a></span>maxDist</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SmartTarget::maxDist</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>, and <a class="el" href="../../#l00163">SmartScript::ProcessAction()</a>.</p>
+
+</div>
+</div>
+<a id="afd68fe281c872f9d960b7eb40cc5fba9" name="afd68fe281c872f9d960b7eb40cc5fba9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afd68fe281c872f9d960b7eb40cc5fba9">&#9670;&#160;</a></span>minDist</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SmartTarget::minDist</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>.</p>
+
+</div>
+</div>
+<a id="af83071775da34749226ea32c6421d0dd" name="af83071775da34749226ea32c6421d0dd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af83071775da34749226ea32c6421d0dd">&#9670;&#160;</a></span>negation</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SmartTarget::negation</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>.</p>
+
+</div>
+</div>
+<a id="a28a91da4b59f75cd41df0e712337b291" name="a28a91da4b59f75cd41df0e712337b291"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a28a91da4b59f75cd41df0e712337b291">&#9670;&#160;</a></span>o</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">float SmartTarget::o</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>, <a class="el" href="../../#l00127">SmartAIMgr::LoadSmartAIFromDB()</a>, <a class="el" href="../../#l00163">SmartScript::ProcessAction()</a>, and <a class="el" href="../../#l01578">SmartTarget()</a>.</p>
+
+</div>
+</div>
+<a id="a071915d21320b5469c8edf93e208f7d2" name="a071915d21320b5469c8edf93e208f7d2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a071915d21320b5469c8edf93e208f7d2">&#9670;&#160;</a></span>onlySpawned</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SmartTarget::onlySpawned</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>.</p>
+
+</div>
+</div>
+<a id="aba129a5ced35898c1832f0a02498aac8" name="aba129a5ced35898c1832f0a02498aac8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aba129a5ced35898c1832f0a02498aac8">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  SmartTarget::owner</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00908">SmartAIMgr::CheckUnusedTargetParams()</a>, <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>, and <a class="el" href="../../#l00457">SmartAIMgr::IsTargetValid()</a>.</p>
+
+</div>
+</div>
+<a id="a47ca1b5e1d5a12bed1934e1eb0c82306" name="a47ca1b5e1d5a12bed1934e1eb0c82306"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a47ca1b5e1d5a12bed1934e1eb0c82306">&#9670;&#160;</a></span>param1</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SmartTarget::param1</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l03416">SmartScript::CreateSmartEvent()</a>, <a class="el" href="../../#l03337">SmartScript::InstallTemplate()</a>, and <a class="el" href="../../#l00127">SmartAIMgr::LoadSmartAIFromDB()</a>.</p>
+
+</div>
+</div>
+<a id="ae59a95b879b52ccd14f02f0194f3e0cd" name="ae59a95b879b52ccd14f02f0194f3e0cd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae59a95b879b52ccd14f02f0194f3e0cd">&#9670;&#160;</a></span>param2</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SmartTarget::param2</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l03416">SmartScript::CreateSmartEvent()</a>, and <a class="el" href="../../#l00127">SmartAIMgr::LoadSmartAIFromDB()</a>.</p>
+
+</div>
+</div>
+<a id="a8bab79ccc6157e5b8b2a1c2c9d81a415" name="a8bab79ccc6157e5b8b2a1c2c9d81a415"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8bab79ccc6157e5b8b2a1c2c9d81a415">&#9670;&#160;</a></span>param3</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SmartTarget::param3</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l03416">SmartScript::CreateSmartEvent()</a>, and <a class="el" href="../../#l00127">SmartAIMgr::LoadSmartAIFromDB()</a>.</p>
+
+</div>
+</div>
+<a id="a13101dc99bd1bf29036520d0df6557ee" name="a13101dc99bd1bf29036520d0df6557ee"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a13101dc99bd1bf29036520d0df6557ee">&#9670;&#160;</a></span>param4</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SmartTarget::param4</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l03416">SmartScript::CreateSmartEvent()</a>, and <a class="el" href="../../#l00127">SmartAIMgr::LoadSmartAIFromDB()</a>.</p>
+
+</div>
+</div>
+<a id="a1c8c169cefe9405ea1eb31664e9238b5" name="a1c8c169cefe9405ea1eb31664e9238b5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1c8c169cefe9405ea1eb31664e9238b5">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  SmartTarget::playerDistance</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00908">SmartAIMgr::CheckUnusedTargetParams()</a>, <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>, and <a class="el" href="../../#l00457">SmartAIMgr::IsTargetValid()</a>.</p>
+
+</div>
+</div>
+<a id="a5d5c979cd4cfd87f978d065ff7c03d01" name="a5d5c979cd4cfd87f978d065ff7c03d01"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5d5c979cd4cfd87f978d065ff7c03d01">&#9670;&#160;</a></span>playerOnly</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/d3a/a04439.html#a96a00b1ae7179b02b6ee7e68ed92c6ac">SAIBool</a> SmartTarget::playerOnly</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>, and <a class="el" href="../../#l00457">SmartAIMgr::IsTargetValid()</a>.</p>
+
+</div>
+</div>
+<a id="a774a93e38334ea5981ccbc2a54f0412d" name="a774a93e38334ea5981ccbc2a54f0412d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a774a93e38334ea5981ccbc2a54f0412d">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  SmartTarget::playerRange</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00908">SmartAIMgr::CheckUnusedTargetParams()</a>, and <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>.</p>
+
+</div>
+</div>
+<a id="aa5ce6aa37d064ecad0bf31bee77fe4bc" name="aa5ce6aa37d064ecad0bf31bee77fe4bc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa5ce6aa37d064ecad0bf31bee77fe4bc">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  SmartTarget::playerWithAura</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00908">SmartAIMgr::CheckUnusedTargetParams()</a>, and <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>.</p>
+
+</div>
+</div>
+<a id="ad3ddf8fa14f0121965f227629832e0df" name="ad3ddf8fa14f0121965f227629832e0df"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad3ddf8fa14f0121965f227629832e0df">&#9670;&#160;</a></span>powerType</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SmartTarget::powerType</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>.</p>
+
+</div>
+</div>
+<a id="a855c817ec8a69aae1d0e145667f7490b" name="a855c817ec8a69aae1d0e145667f7490b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a855c817ec8a69aae1d0e145667f7490b">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  SmartTarget::randomPoint</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00163">SmartScript::ProcessAction()</a>.</p>
+
+</div>
+</div>
+<a id="a574fa96928ef9dbca12649c55b7ea596" name="a574fa96928ef9dbca12649c55b7ea596"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a574fa96928ef9dbca12649c55b7ea596">&#9670;&#160;</a></span>range</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SmartTarget::range</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00163">SmartScript::ProcessAction()</a>.</p>
+
+</div>
+</div>
+<a id="ab9bfbf8a4e4f8a6e29afe3f689e5fc2d" name="ab9bfbf8a4e4f8a6e29afe3f689e5fc2d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab9bfbf8a4e4f8a6e29afe3f689e5fc2d">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  SmartTarget::raw</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00908">SmartAIMgr::CheckUnusedTargetParams()</a>, <a class="el" href="../../#l03416">SmartScript::CreateSmartEvent()</a>, <a class="el" href="../../#l03337">SmartScript::InstallTemplate()</a>, <a class="el" href="../../#l00127">SmartAIMgr::LoadSmartAIFromDB()</a>, and <a class="el" href="../../#l01578">SmartTarget()</a>.</p>
+
+</div>
+</div>
+<a id="a283ae7d8a9e5b9b4a02c1ec8f0a28a48" name="a283ae7d8a9e5b9b4a02c1ec8f0a28a48"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a283ae7d8a9e5b9b4a02c1ec8f0a28a48">&#9670;&#160;</a></span>resize</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SmartTarget::resize</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>.</p>
+
+</div>
+</div>
+<a id="afafd6378f6b9472ce21aab4addbc55b6" name="afafd6378f6b9472ce21aab4addbc55b6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afafd6378f6b9472ce21aab4addbc55b6">&#9670;&#160;</a></span>roleMask</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SmartTarget::roleMask</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>.</p>
+
+</div>
+</div>
+<a id="a828e7b824f7b0d8f02da2244ed3f7ecf" name="a828e7b824f7b0d8f02da2244ed3f7ecf"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a828e7b824f7b0d8f02da2244ed3f7ecf">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  SmartTarget::roleSelection</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>.</p>
+
+</div>
+</div>
+<a id="a61f23fdc1b87de34bd2a6b08d1cae97d" name="a61f23fdc1b87de34bd2a6b08d1cae97d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a61f23fdc1b87de34bd2a6b08d1cae97d">&#9670;&#160;</a></span>seatMask</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SmartTarget::seatMask</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>.</p>
+
+</div>
+</div>
+<a id="a726279330a1fa9fc4fb89a3d338bf04d" name="a726279330a1fa9fc4fb89a3d338bf04d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a726279330a1fa9fc4fb89a3d338bf04d">&#9670;&#160;</a></span>self</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SmartTarget::self</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00163">SmartScript::ProcessAction()</a>.</p>
+
+</div>
+</div>
+<a id="a2ed93baf995e552b1bf290ca7a3c21d9" name="a2ed93baf995e552b1bf290ca7a3c21d9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2ed93baf995e552b1bf290ca7a3c21d9">&#9670;&#160;</a></span>spellId</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SmartTarget::spellId</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>.</p>
+
+</div>
+</div>
+<a id="aef8b97bebdcef4174c1dd8b33f8ad025" name="aef8b97bebdcef4174c1dd8b33f8ad025"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aef8b97bebdcef4174c1dd8b33f8ad025">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  SmartTarget::stored</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00908">SmartAIMgr::CheckUnusedTargetParams()</a>, and <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>.</p>
+
+</div>
+</div>
+<a id="a4cd6d9c4facbfea1e0e7528ef9fac275" name="a4cd6d9c4facbfea1e0e7528ef9fac275"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4cd6d9c4facbfea1e0e7528ef9fac275">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  SmartTarget::summonedCreatures</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>, and <a class="el" href="../../#l00457">SmartAIMgr::IsTargetValid()</a>.</p>
+
+</div>
+</div>
+<a id="ab07e530801fe29fc06c5beb6ef05dfa3" name="ab07e530801fe29fc06c5beb6ef05dfa3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab07e530801fe29fc06c5beb6ef05dfa3">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  SmartTarget::threatList</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00908">SmartAIMgr::CheckUnusedTargetParams()</a>, and <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>.</p>
+
+</div>
+</div>
+<a id="acd89b43d2caa64668e5ed82cd4e7cda5" name="acd89b43d2caa64668e5ed82cd4e7cda5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acd89b43d2caa64668e5ed82cd4e7cda5">&#9670;&#160;</a></span>type <span class="overload">[1/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/d3a/a04439.html#a20fbd4053053320ca4f2a803a09eb92e">SMARTAI_TARGETS</a> SmartTarget::type</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00908">SmartAIMgr::CheckUnusedTargetParams()</a>, <a class="el" href="../../#l03416">SmartScript::CreateSmartEvent()</a>, <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>, <a class="el" href="../../#l01985">SmartScriptHolder::GetTargetType()</a>, <a class="el" href="../../#l00972">SmartAIMgr::IsEventValid()</a>, <a class="el" href="../../#l00457">SmartAIMgr::IsTargetValid()</a>, <a class="el" href="../../#l00127">SmartAIMgr::LoadSmartAIFromDB()</a>, <a class="el" href="../../#l00163">SmartScript::ProcessAction()</a>, and <a class="el" href="../../#l01578">SmartTarget()</a>.</p>
+
+</div>
+</div>
+<a id="a647e6d839f3e58848c1088755d3122a1" name="a647e6d839f3e58848c1088755d3122a1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a647e6d839f3e58848c1088755d3122a1">&#9670;&#160;</a></span>type <span class="overload">[2/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SmartTarget::type</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a21c24fbbee9866a4dc3b42fd0bd5e196" name="a21c24fbbee9866a4dc3b42fd0bd5e196"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a21c24fbbee9866a4dc3b42fd0bd5e196">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  SmartTarget::unitClosest</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00908">SmartAIMgr::CheckUnusedTargetParams()</a>, <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>, and <a class="el" href="../../#l00457">SmartAIMgr::IsTargetValid()</a>.</p>
+
+</div>
+</div>
+<a id="a70bb4d6de31117ce5cb77f734e8400cd" name="a70bb4d6de31117ce5cb77f734e8400cd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a70bb4d6de31117ce5cb77f734e8400cd">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  SmartTarget::unitDistance</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00908">SmartAIMgr::CheckUnusedTargetParams()</a>, <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>, and <a class="el" href="../../#l00457">SmartAIMgr::IsTargetValid()</a>.</p>
+
+</div>
+</div>
+<a id="af2839fbd05b7c15016ff868d68795b13" name="af2839fbd05b7c15016ff868d68795b13"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af2839fbd05b7c15016ff868d68795b13">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  SmartTarget::unitGUID</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00908">SmartAIMgr::CheckUnusedTargetParams()</a>, <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>, and <a class="el" href="../../#l00457">SmartAIMgr::IsTargetValid()</a>.</p>
+
+</div>
+</div>
+<a id="a9a28c2b28ca936d582068ea129fc3e6a" name="a9a28c2b28ca936d582068ea129fc3e6a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9a28c2b28ca936d582068ea129fc3e6a">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  SmartTarget::unitRange</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00908">SmartAIMgr::CheckUnusedTargetParams()</a>, <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>, and <a class="el" href="../../#l00163">SmartScript::ProcessAction()</a>.</p>
+
+</div>
+</div>
+<a id="a59e03101305ccf733a6bdb0e80fe1cce" name="a59e03101305ccf733a6bdb0e80fe1cce"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a59e03101305ccf733a6bdb0e80fe1cce">&#9670;&#160;</a></span>useCharmerOrOwner</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/d3a/a04439.html#a96a00b1ae7179b02b6ee7e68ed92c6ac">SAIBool</a> SmartTarget::useCharmerOrOwner</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>, and <a class="el" href="../../#l00457">SmartAIMgr::IsTargetValid()</a>.</p>
+
+</div>
+</div>
+<a id="a62e3ea34a7cbe34515bd075373a8b947" name="a62e3ea34a7cbe34515bd075373a8b947"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a62e3ea34a7cbe34515bd075373a8b947">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  SmartTarget::vehicle</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00908">SmartAIMgr::CheckUnusedTargetParams()</a>, and <a class="el" href="../../#l03449">SmartScript::GetTargets()</a>.</p>
+
+</div>
+</div>
+<a id="a6a31784c4f9f3955e0cc5cf16687fd82" name="a6a31784c4f9f3955e0cc5cf16687fd82"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6a31784c4f9f3955e0cc5cf16687fd82">&#9670;&#160;</a></span>x</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">float SmartTarget::x</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00972">SmartAIMgr::IsEventValid()</a>, <a class="el" href="../../#l00127">SmartAIMgr::LoadSmartAIFromDB()</a>, <a class="el" href="../../#l00163">SmartScript::ProcessAction()</a>, and <a class="el" href="../../#l01578">SmartTarget()</a>.</p>
+
+</div>
+</div>
+<a id="aaa06940768e7b9e08e549af80ab40650" name="aaa06940768e7b9e08e549af80ab40650"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aaa06940768e7b9e08e549af80ab40650">&#9670;&#160;</a></span>y</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">float SmartTarget::y</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00972">SmartAIMgr::IsEventValid()</a>, <a class="el" href="../../#l00127">SmartAIMgr::LoadSmartAIFromDB()</a>, <a class="el" href="../../#l00163">SmartScript::ProcessAction()</a>, and <a class="el" href="../../#l01578">SmartTarget()</a>.</p>
+
+</div>
+</div>
+<a id="acb52eb278431dc7a11e460c6c53c8f8e" name="acb52eb278431dc7a11e460c6c53c8f8e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acb52eb278431dc7a11e460c6c53c8f8e">&#9670;&#160;</a></span>z</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">float SmartTarget::z</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00127">SmartAIMgr::LoadSmartAIFromDB()</a>, <a class="el" href="../../#l00163">SmartScript::ProcessAction()</a>, and <a class="el" href="../../#l01578">SmartTarget()</a>.</p>
 
 </div>
 </div>
@@ -574,8 +1431,8 @@ Private Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dc/dcb/a06962.html">AuctionHouseObject</a></li>
-    <li class="footer">Generated on Mon Feb 10 2025 20:43:59 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dc/dcb/a06962.html">SmartTarget</a></li>
+    <li class="footer">Generated on Mon Sep 8 2025 20:45:29 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,6 +1,5 @@
 var a15314 =
 [
-    [ "OnRemove", "d7/d1b/a15314.html#a85595fed0e9b6a2ced18aeb4acffcf81", null ],
-    [ "PrepareAuraScript", "d7/d1b/a15314.html#a47849d8241ed17ad0fb541c1178b0760", null ],
-    [ "Register", "d7/d1b/a15314.html#aa23231c5c324e73930fdf8d784b0edb4", null ]
+    [ "at_cthun_stomach_exit", "d7/d1b/a15314.html#ab37174eff353cdbba1f300464645ac63", null ],
+    [ "OnTrigger", "d7/d1b/a15314.html#ab56dca3fe200dc7822459a22912247bf", null ]
 ];

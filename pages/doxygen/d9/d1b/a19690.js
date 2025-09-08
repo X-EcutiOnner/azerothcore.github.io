@@ -1,7 +1,6 @@
 var a19690 =
 [
-    [ "OnRemove", "d9/d1b/a19690.html#adf6b3d56199ad5a4545ce3874d1223db", null ],
-    [ "PrepareAuraScript", "d9/d1b/a19690.html#a2d278e60b34870110dab188896109e24", null ],
-    [ "Register", "d9/d1b/a19690.html#ac15847527cc4d162b3b34b8ca8628864", null ],
-    [ "Validate", "d9/d1b/a19690.html#ac573e5bd171c97af1905b4a57a45e1f4", null ]
+    [ "boss_ionarAI", "d9/d7f/a19694.html", "d9/d7f/a19694" ],
+    [ "boss_ionar", "d9/d1b/a19690.html#a284da7d86f0b386e352587e0321bf465", null ],
+    [ "GetAI", "d9/d1b/a19690.html#a0c0f28f832458df7326842f04413af5d", null ]
 ];

@@ -1,12 +1,10 @@
 var a17930 =
 [
-    [ "npc_vengeful_shadeAI", "db/dee/a17930.html#acd3961c7c81f88a341cb71888c55c882", null ],
-    [ "AttackStart", "db/dee/a17930.html#afbd441c5ebf2207d37da1a905be1a247", null ],
-    [ "EnterEvadeMode", "db/dee/a17930.html#a37bffb02c4ebf6acab8c3474581056a6", null ],
-    [ "MoveInLineOfSight", "db/dee/a17930.html#a1e8e28e76f27edc5e07574e6050d7e5f", null ],
-    [ "Reset", "db/dee/a17930.html#acf85448a221a37be819b7ab82f4f9fdc", null ],
-    [ "SpellHitTarget", "db/dee/a17930.html#af9b40af943ee8a7c9bd8866f116871fc", null ],
-    [ "UpdateAI", "db/dee/a17930.html#a3a353d677b469d750474a7497c5224a7", null ],
-    [ "targetGUID", "db/dee/a17930.html#a75c3f61506fe42e41b10a2e67f5b091d", null ],
-    [ "unroot_timer", "db/dee/a17930.html#a49ea66a0fb6e3c09730d92308bd1cac7", null ]
+    [ "npc_cult_fanaticAI", "db/dee/a17930.html#a766e536288b84110f88a8bd282e97932", null ],
+    [ "JustEngagedWith", "db/dee/a17930.html#a709b75f4b1519bc7c6988985a22d076f", null ],
+    [ "Reset", "db/dee/a17930.html#a772830df1d16d0463c8c00f14c337db0", null ],
+    [ "SpellHit", "db/dee/a17930.html#a17c02a83b522c9717de3d89517104e42", null ],
+    [ "UpdateAI", "db/dee/a17930.html#ac79afdab3721d78d2b7e5da360083cea", null ],
+    [ "_instance", "db/dee/a17930.html#a7448fdf85cccfcb12509b0274205bff4", null ],
+    [ "events", "db/dee/a17930.html#a9576978141062fa1babbbc5ed42483c4", null ]
 ];

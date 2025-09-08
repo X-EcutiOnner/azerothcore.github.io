@@ -1,7 +1,6 @@
 var a24446 =
 [
-    [ "npc_kservantAI", "dc/d8e/a24446.html#a0687712690f2bacd24da1c94d222e761", null ],
-    [ "IsSummonedBy", "dc/d8e/a24446.html#a6aa9c1544fffdd9916eda7a0941dc828", null ],
-    [ "Reset", "dc/d8e/a24446.html#a0756ffacb97c83a3028afc620b32f349", null ],
-    [ "WaypointReached", "dc/d8e/a24446.html#a577a2ebb91c08bfe2e09bc67eeebb4ef", null ]
+    [ "CheckRequirement", "dc/d8e/a24446.html#aa53bdc1b4b57150dbebce61ac87d2b88", null ],
+    [ "PrepareSpellScript", "dc/d8e/a24446.html#a8e3d6659174d4c920e65f85afb9308b1", null ],
+    [ "Register", "dc/d8e/a24446.html#aa4f62292b32347179a5534e4bc0417f8", null ]
 ];

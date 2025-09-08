@@ -1,6 +1,6 @@
 var a14678 =
 [
-    [ "HandleDummy", "dc/dcc/a14678.html#a5e0797e5af760b618b1498f405766de8", null ],
-    [ "PrepareSpellScript", "dc/dcc/a14678.html#a3be664b18a2474857e8a2b199ea93aaf", null ],
-    [ "Register", "dc/dcc/a14678.html#a2254e486bda73e07f8327c3412c7852b", null ]
+    [ "HandleAfterEffectRemove", "dc/dcc/a14678.html#acf650fe6fe65164c12fbb06b45e092c9", null ],
+    [ "PrepareAuraScript", "dc/dcc/a14678.html#a3b54e232c0502eaa03b314a05dce1835", null ],
+    [ "Register", "dc/dcc/a14678.html#a9bacd9538b1ab1cf9aa74e7675ff5b6b", null ]
 ];

@@ -1,16 +1,16 @@
 var a13974 =
 [
-    [ "boss_halazzi", "d0/d0d/a13974.html#aed961a9e12b44dfd97bd31c981184be5", null ],
-    [ "AttackStart", "d0/d0d/a13974.html#a000c3b6b8a73fd8f858b87724dfcf123", null ],
-    [ "DamageTaken", "d0/d0d/a13974.html#aaa698dfa4d4a991968eebee3330e967a", null ],
-    [ "DoAction", "d0/d0d/a13974.html#a1685c7c99a797ec332b67797a294d83a", null ],
-    [ "EnterPhase", "d0/d0d/a13974.html#a951a0c9fc4fc737abbaaae77dfd4e43b", null ],
-    [ "JustDied", "d0/d0d/a13974.html#aa607a13fef1b8c195ba0aa09fafdaaae", null ],
-    [ "JustEngagedWith", "d0/d0d/a13974.html#a1dd4992bfca0bf658bd7a385300578ae", null ],
-    [ "JustSummoned", "d0/d0d/a13974.html#a152267cb31912106443ceea9488fee0a", null ],
-    [ "KilledUnit", "d0/d0d/a13974.html#a4d69fa8e754f823a599c52e227361600", null ],
-    [ "Reset", "d0/d0d/a13974.html#a9d9a82e5ae8dadfefcf2c929325cb60e", null ],
-    [ "SpellHit", "d0/d0d/a13974.html#a36141673391a423174db874ca425ea07", null ],
-    [ "_phase", "d0/d0d/a13974.html#a1f76fd0c02eec20aa2c222b278420dd8", null ],
-    [ "_transformCount", "d0/d0d/a13974.html#a9a86487f20e48d6be123bd61aaf13f7f", null ]
+    [ "boss_akilzon", "d0/d0d/a13974.html#a8c56c6920488ac507e24db384782e2ab", null ],
+    [ "DoAction", "d0/d0d/a13974.html#a691625a18583d58b1be4d2caeb21b1e0", null ],
+    [ "HandleStormSequence", "d0/d0d/a13974.html#a54d2f18adf59dc89553dd1778e5ea0b1", null ],
+    [ "JustDied", "d0/d0d/a13974.html#a93b34ed1f80dc138e54f77eb4f64b1bc", null ],
+    [ "JustEngagedWith", "d0/d0d/a13974.html#a2783ec5db681651f8c43c238e9ed25f3", null ],
+    [ "KilledUnit", "d0/d0d/a13974.html#a1a5ffe4c6aabeaa39971f2376761a7d7", null ],
+    [ "Reset", "d0/d0d/a13974.html#a69302e4ac8f349e884f0745fe66edce2", null ],
+    [ "SetWeather", "d0/d0d/a13974.html#a9c8eeed625f33153819df19b6c2c5670", null ],
+    [ "SummonEagles", "d0/d0d/a13974.html#acde7c47a3ebee988753cd2af93fe16d4", null ],
+    [ "_birdGUIDs", "d0/d0d/a13974.html#ad5c56493e1e6331ae09bb70b920282fc", null ],
+    [ "_cycloneGUID", "d0/d0d/a13974.html#aaa712019eb5d17684d7f048f81e36270", null ],
+    [ "_isRaining", "d0/d0d/a13974.html#af61142c59ca9c5868afe7bc94ca40dcf", null ],
+    [ "_targetGUID", "d0/d0d/a13974.html#a4e8349e5ea281a40b9623b14e235bf41", null ]
 ];

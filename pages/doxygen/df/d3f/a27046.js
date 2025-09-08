@@ -1,7 +1,8 @@
 var a27046 =
 [
-    [ "HandleApply", "df/d3f/a27046.html#a046abc4b8afd26d13bcb7140165aed80", null ],
-    [ "HandleRemove", "df/d3f/a27046.html#ad35716d4210572057fe67d426849931a", null ],
-    [ "PrepareAuraScript", "df/d3f/a27046.html#a9af96871b8b7ac19de01e316f4350ebf", null ],
-    [ "Register", "df/d3f/a27046.html#a37c4c881c563882fb72693babe545fc4", null ]
+    [ "ApplyEffect", "df/d3f/a27046.html#a0c303c58064236969e17d1f2df3e0556", null ],
+    [ "PrepareAuraScript", "df/d3f/a27046.html#a716a483282946f840ac15d73c6e21a94", null ],
+    [ "Register", "df/d3f/a27046.html#ad72816bc73bdb1cf578f3c4599ec1682", null ],
+    [ "RemoveEffect", "df/d3f/a27046.html#a571b1b19f4d5b13e54288aa89ab1e9b6", null ],
+    [ "Validate", "df/d3f/a27046.html#a99eb27ead6f5c8c8f569626600f2daf9", null ]
 ];

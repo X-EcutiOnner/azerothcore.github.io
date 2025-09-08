@@ -1,16 +1,9 @@
 var a07074 =
 [
-    [ "AuctionEntryMap", "d5/d31/a07074.html#ab05cddc8805f4f6745a620aaf78490e6", null ],
-    [ "AuctionHouseObject", "d5/d31/a07074.html#ae980b3dc0cb776fa77810d488c0144aa", null ],
-    [ "~AuctionHouseObject", "d5/d31/a07074.html#abc1f401b8f18c6d5003fa337ed1e76bc", null ],
-    [ "AddAuction", "d5/d31/a07074.html#a9c61fcf5d92ad6cea5af36b1bd5cff5b", null ],
-    [ "GetAuction", "d5/d31/a07074.html#a8f549a3623e3f1c3b0b3a21dfdc24d85", null ],
-    [ "GetAuctions", "d5/d31/a07074.html#ac22a84a7e3f2c6baf5e40a1a43bbf098", null ],
-    [ "GetAuctionsBegin", "d5/d31/a07074.html#ae769fbe419c78c580fc0c6d6b91a6e28", null ],
-    [ "GetAuctionsEnd", "d5/d31/a07074.html#a9526b361608b03716918540116bc6d4d", null ],
-    [ "Getcount", "d5/d31/a07074.html#a49aa833a0d8fd698f116ebdf2544040f", null ],
-    [ "RemoveAuction", "d5/d31/a07074.html#af760e3c74242ab2bbc0cfb03a9224aff", null ],
-    [ "Update", "d5/d31/a07074.html#ae9a2bed6b57af310230134cdf2cfd46a", null ],
-    [ "_auctionsMap", "d5/d31/a07074.html#a92e8694ba6d22e26bedb19b2d0619a9f", null ],
-    [ "_next", "d5/d31/a07074.html#aa8780a803119c4350d367f39daff32a1", null ]
+    [ "ObjectGuidVector", "d5/d31/a07074.html#aa49ab82006c390e7110013b44c018c0f", null ],
+    [ "~ObjectGuidVector", "d5/d31/a07074.html#a07fe3304a0edffa1f17a0ce5f97d01e6", null ],
+    [ "GetObjectVector", "d5/d31/a07074.html#a94ee201dcf0750edb84cedb151e9ff22", null ],
+    [ "UpdateObjects", "d5/d31/a07074.html#a8b6dad1739f51bba936257410a968c6e", null ],
+    [ "_guidVector", "d5/d31/a07074.html#aefce0edc7881ca01ba8c8c98067e165d", null ],
+    [ "_objectVector", "d5/d31/a07074.html#a78137cb1ae9930c11f87a4a8ed5e7e26", null ]
 ];

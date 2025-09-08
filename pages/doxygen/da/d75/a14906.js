@@ -1,10 +1,13 @@
 var a14906 =
 [
-    [ "boss_meathookAI", "da/d75/a14906.html#abb35c98da760db634545b81d740cd51a", null ],
-    [ "JustDied", "da/d75/a14906.html#a44ebee45de335ff6f653e9d60a364458", null ],
-    [ "JustEngagedWith", "da/d75/a14906.html#adf199bf96bbf342caaa74b7dd6b8013c", null ],
-    [ "KilledUnit", "da/d75/a14906.html#a54deac512294bb0901d072faef3166b1", null ],
-    [ "Reset", "da/d75/a14906.html#ab4dbdedb1ae114fe4aff1fbe0e8adec1", null ],
-    [ "UpdateAI", "da/d75/a14906.html#afeaee24a9b6484e8a0e6509b973ed74d", null ],
-    [ "events", "da/d75/a14906.html#a6cf32d8601a1d07a3a445fa7d9a1ccbc", null ]
+    [ "boss_infinite_corruptorAI", "da/d75/a14906.html#add36192941eaabf7f3d1d41c572783bd", null ],
+    [ "DoAction", "da/d75/a14906.html#a8ff0a9731ad7bc118a1014bdbb0e1daf", null ],
+    [ "JustDied", "da/d75/a14906.html#a6d2f445bf0819ac644d7de14d3b7034d", null ],
+    [ "JustEngagedWith", "da/d75/a14906.html#a644725505db4fc7a98c4255d0eb34616", null ],
+    [ "JustSummoned", "da/d75/a14906.html#a2b12c03184b169a56a0e6696a107dc35", null ],
+    [ "Reset", "da/d75/a14906.html#a4dbff495bfcda6fb715dec68616e1764", null ],
+    [ "UpdateAI", "da/d75/a14906.html#aaa0a45066ab7ad7d5a7543822d399947", null ],
+    [ "beamTimer", "da/d75/a14906.html#a2f8048e591a818f073a65bfcfa49e66c", null ],
+    [ "events", "da/d75/a14906.html#a5491db8f5e063ca84f18f1ca63c1e846", null ],
+    [ "summons", "da/d75/a14906.html#aa5de5f986f8a6d3ba5f3aad84422eab6", null ]
 ];

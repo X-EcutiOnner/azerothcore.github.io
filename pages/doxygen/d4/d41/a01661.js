@@ -1,8 +1,8 @@
 var a01661 =
 [
-    [ "ChampionPosition", "d6/dff/a17310.html", "d6/dff/a17310" ],
-    [ "FBSPosition", "d6/d89/a17314.html", "d6/d89/a17314" ],
-    [ "TSPosition", "dc/d7c/a17318.html", "dc/d7c/a17318" ],
+    [ "ChampionPosition", "d1/d6d/a17326.html", "d1/d6d/a17326" ],
+    [ "FBSPosition", "d9/da1/a17330.html", "d9/da1/a17330" ],
+    [ "TSPosition", "d3/dda/a17334.html", "d3/dda/a17334" ],
     [ "DataHeader", "d4/d41/a01661.html#a042491ef36459046f3866e90f15aae0d", null ],
     [ "PATH_BEGIN_VALUE", "d4/d41/a01661.html#a5e53249f20085a0a3fa19bdb577ee3c0", null ],
     [ "PitOfSaronScriptName", "d4/d41/a01661.html#ac8331e51ea541bfd050c3deb5dc0a07a", null ],

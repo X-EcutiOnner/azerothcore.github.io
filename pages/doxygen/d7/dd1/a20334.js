@@ -1,5 +1,7 @@
 var a20334 =
 [
-    [ "achievement_smell_saronite", "d7/dd1/a20334.html#a42dce2aefa2561952dcf5289126035a8", null ],
-    [ "OnCheck", "d7/dd1/a20334.html#a5180e3e53fa0f4d32d2a305d315bc8b3", null ]
+    [ "HandleEffectPeriodic", "d7/dd1/a20334.html#ae1c6062123fb62a48f542e43b34c7bcd", null ],
+    [ "PrepareAuraScript", "d7/dd1/a20334.html#a1c54b6c86fc39d96d601b24c5b30fbdd", null ],
+    [ "Register", "d7/dd1/a20334.html#af7a5a98b5cf784d2de8b57a183c19142", null ],
+    [ "Validate", "d7/dd1/a20334.html#a16c536c913d003826ef4b86c7a497fec", null ]
 ];

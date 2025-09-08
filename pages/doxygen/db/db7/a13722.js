@@ -1,11 +1,6 @@
 var a13722 =
 [
-    [ "npc_supervisor_raelen", "db/db7/a13722.html#a2059d41f6df3a44406ab69a0dca501a4", null ],
-    [ "CallPeasent", "db/db7/a13722.html#a0b8d661a86ec334adeb502d6936135ee", null ],
-    [ "Reset", "db/db7/a13722.html#a656029c56da84d2d3cee7380d6032e3d", null ],
-    [ "SetData", "db/db7/a13722.html#ab709a5a975c22556dfe71dce52a3ec2c", null ],
-    [ "UpdateAI", "db/db7/a13722.html#a623a95d4f3ca483d1bf3dff5e06c1958", null ],
-    [ "_events", "db/db7/a13722.html#a1ed36b07ff83a6a8a202f4a451d90190", null ],
-    [ "_PeasentId", "db/db7/a13722.html#ae3e44b8f29f05c771137c5b9afd5da56", null ],
-    [ "peasentGUIDs", "db/db7/a13722.html#a6e290a29c8205b22bd668f0516e8904a", null ]
+    [ "npc_balance_of_light_and_shadowAI", "d7/d5e/a13726.html", "d7/d5e/a13726" ],
+    [ "npc_balance_of_light_and_shadow", "db/db7/a13722.html#a55229e3ea8dd9c52972185b36c08908b", null ],
+    [ "GetAI", "db/db7/a13722.html#a07e0547e6bf81cc7ff9fe0aa4a851388", null ]
 ];

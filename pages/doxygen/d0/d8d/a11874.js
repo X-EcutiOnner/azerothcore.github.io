@@ -1,6 +1,5 @@
 var a11874 =
 [
-    [ "player_settings_commandscript", "d0/d8d/a11874.html#ab8585064d4d358d7d48eed97379a3a78", null ],
-    [ "GetCommands", "d0/d8d/a11874.html#ae545918310d22b4e66e4a668bbb7ba58", null ],
-    [ "HandleSettingsAnnouncerFlags", "d0/d8d/a11874.html#af505117caa66ed4222e52ff91c486b6e", null ]
+    [ "flag", "d0/d8d/a11874.html#a6cae645736c697e2c2bf51a70c230070", null ],
+    [ "text", "d0/d8d/a11874.html#aff011cbcd136992bfe6abb4e0e4a48ac", null ]
 ];

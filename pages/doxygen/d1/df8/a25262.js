@@ -1,7 +1,10 @@
 var a25262 =
 [
-    [ "HandleDummy", "d1/df8/a25262.html#af5d0fc4e596c04c6ca3faf4079f6b602", null ],
-    [ "Load", "d1/df8/a25262.html#a4098aa621012c5e3623ee905d2d2c8eb", null ],
-    [ "PrepareSpellScript", "d1/df8/a25262.html#ad9d1823fa4302334419e6f9a01f0a728", null ],
-    [ "Register", "d1/df8/a25262.html#a4d683270dc086454630475d39f0105e8", null ]
+    [ "Load", "d1/df8/a25262.html#a6ae104e97dc9c0aa50e115fe1f17e161", null ],
+    [ "OnPeriodic", "d1/df8/a25262.html#ab1dc8acb8072f70625375480742fee5e", null ],
+    [ "PrepareAuraScript", "d1/df8/a25262.html#a2e81d03893b23aa8dc9c615683206f75", null ],
+    [ "Register", "d1/df8/a25262.html#ac2f2c8359487ad8c619e9faf8535b927", null ],
+    [ "Validate", "d1/df8/a25262.html#a0c88acf48d0ea7dd7ac3ac85aa3a126d", null ],
+    [ "_applyTimes", "d1/df8/a25262.html#a1bf9f3a1eb52bb64df59b381c412552f", null ],
+    [ "stackAmount", "d1/df8/a25262.html#ac8d762bdb40366c93602497e9aaa42eb", null ]
 ];

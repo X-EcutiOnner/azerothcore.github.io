@@ -1,6 +1,5 @@
 var a12278 =
 [
-    [ "boss_warmastervooneAI", "de/db5/a12282.html", "de/db5/a12282" ],
-    [ "boss_warmaster_voone", "d0/d48/a12278.html#ac363118e4201adccd4be0028a558442f", null ],
-    [ "GetAI", "d0/d48/a12278.html#a560469e60fda04b2c7d8fd3994493868", null ]
+    [ "at_trigger_the_beast_movement", "d0/d48/a12278.html#a9534f4b71deab4a2a9a94a36e2946fc7", null ],
+    [ "OnTrigger", "d0/d48/a12278.html#a333d685d765497a950fde35067d876a1", null ]
 ];

@@ -1,7 +1,11 @@
 var a15982 =
 [
-    [ "HandleDummy", "d9/d96/a15982.html#a5d619c13c620fedeea803a0802fd9ee6", null ],
-    [ "PrepareSpellScript", "d9/d96/a15982.html#a04ed0daa21e66b842b8443b5e102ec1d", null ],
-    [ "Register", "d9/d96/a15982.html#a4359ad73b513a368509a066a039ddf53", null ],
-    [ "_targetCount", "d9/d96/a15982.html#a3ba108d63ef38af0a8730c1bf1aa69e9", null ]
+    [ "boss_amanitar", "d9/d96/a15982.html#a660bdf8dd64bbffda4ee1ec603c41402", null ],
+    [ "EnterEvadeMode", "d9/d96/a15982.html#a6b3cf0ea01ce34b4281116ca8387732d", null ],
+    [ "JustDied", "d9/d96/a15982.html#a138049712649ff414950d9d0ca05d712", null ],
+    [ "JustEngagedWith", "d9/d96/a15982.html#ae2bace7f649626c68560d4a6d5aa4ea3", null ],
+    [ "Reset", "d9/d96/a15982.html#aab3faca4526947a72d8ca049a605f5be", null ],
+    [ "SummonedCreatureDespawn", "d9/d96/a15982.html#a4b9dccf5b2fe46ac9f6d5eab54ba5d43", null ],
+    [ "SummonMushroom", "d9/d96/a15982.html#afc5b4942931f6020b2894b901650fc35", null ],
+    [ "_mushroomsDeque", "d9/d96/a15982.html#a4ba2415d6134cdc435114cd3af235b6d", null ]
 ];

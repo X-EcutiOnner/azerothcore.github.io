@@ -1,6 +1,6 @@
 var a21618 =
 [
-    [ "npc_azure_raiderAI", "d4/d36/a21622.html", "d4/d36/a21622" ],
-    [ "npc_azure_raider", "dd/dbe/a21618.html#a249abee0df263e183341193b828a310c", null ],
-    [ "GetAI", "dd/dbe/a21618.html#a88a45e3b117c5105f7541d640dda8470", null ]
+    [ "npc_azure_binderAI", "d4/d36/a21622.html", "d4/d36/a21622" ],
+    [ "npc_azure_binder", "dd/dbe/a21618.html#a25b8b19b6ccdae92418c47fe68537c42", null ],
+    [ "GetAI", "dd/dbe/a21618.html#aad091206a8bd06a1064b68b81510eb56", null ]
 ];

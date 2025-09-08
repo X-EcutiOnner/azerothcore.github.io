@@ -1,6 +1,7 @@
 var a19706 =
 [
-    [ "boss_volkhanAI", "d6/d24/a19710.html", "d6/d24/a19710" ],
-    [ "boss_volkhan", "d9/dbf/a19706.html#a9dcb6026fbf3116df9abf5acaf1bfcc2", null ],
-    [ "GetAI", "d9/dbf/a19706.html#aa0f76b387f9f74e0eb6dedd1b44ce34a", null ]
+    [ "OnRemove", "d9/dbf/a19706.html#adf6b3d56199ad5a4545ce3874d1223db", null ],
+    [ "PrepareAuraScript", "d9/dbf/a19706.html#a2d278e60b34870110dab188896109e24", null ],
+    [ "Register", "d9/dbf/a19706.html#ac15847527cc4d162b3b34b8ca8628864", null ],
+    [ "Validate", "d9/dbf/a19706.html#ac573e5bd171c97af1905b4a57a45e1f4", null ]
 ];

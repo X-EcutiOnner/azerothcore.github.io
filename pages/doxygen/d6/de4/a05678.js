@@ -1,6 +1,7 @@
 var a05678 =
 [
-    [ "handler", "d6/de4/a05678.html#a8074991652af9e5c8752dd4ff5e6e6cc", null ],
-    [ "packetSize", "d6/de4/a05678.html#a952f7f7ff3017efa4c3d127baa848785", null ],
-    [ "status", "d6/de4/a05678.html#aaf1066ba6414c519c889e3e8e52d38f2", null ]
+    [ "cmd", "d6/de4/a05678.html#a91e8e56c304147b88db250259ff0a87c", null ],
+    [ "error", "d6/de4/a05678.html#a0872e20a5adcd52a94036bdc6eddc6e6", null ],
+    [ "M2", "d6/de4/a05678.html#a9bb7dca6b62d35ecae97197c4c9693b7", null ],
+    [ "unk2", "d6/de4/a05678.html#a47d83719b502236fdad41e2d07b535a0", null ]
 ];

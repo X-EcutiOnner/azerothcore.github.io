@@ -1,7 +1,6 @@
 var a12610 =
 [
-    [ "HandleScript", "df/d23/a12610.html#aa6a02fd6ac2fe27588cb17377e63125f", null ],
-    [ "PrepareSpellScript", "df/d23/a12610.html#a8d200122bafb943ccb6aa1bd86a1d227", null ],
-    [ "Register", "df/d23/a12610.html#ab1ee3baa1bd7341660bcc7a10978aff3", null ],
-    [ "Validate", "df/d23/a12610.html#a931be0e5aa4b54e646a3ed3ade135423", null ]
+    [ "HandleHit", "df/d23/a12610.html#a5245f935c0cafd14e492214a51d85ad3", null ],
+    [ "PrepareSpellScript", "df/d23/a12610.html#a074b9e23de0a9b24776c7e361791c6ff", null ],
+    [ "Register", "df/d23/a12610.html#a12f7db2345ce0d19a18791a2e63e7450", null ]
 ];

@@ -1,6 +1,7 @@
 var a23018 =
 [
-    [ "HandleSharedRule", "d8/de4/a23018.html#a94b783490dafae872b65e0bbfed156b9", null ],
-    [ "PrepareSpellScript", "d8/de4/a23018.html#af59695af3afcc51a3c29fcc4053bbfee", null ],
-    [ "Register", "d8/de4/a23018.html#a31f2d90059e62da77a719a192d62328b", null ]
+    [ "boss_veras_darkshadow", "d8/de4/a23018.html#a7b33a5c8257954951ed19a2f8ce17b95", null ],
+    [ "JustEngagedWith", "d8/de4/a23018.html#a5eec3e70a7950073eced60d680ff6298", null ],
+    [ "JustSummoned", "d8/de4/a23018.html#afd6cb716cfdebccde99d71e1eb797d33", null ],
+    [ "UpdateAI", "d8/de4/a23018.html#a21f23998e3c3ecb79cbfa3c0d778f2d5", null ]
 ];

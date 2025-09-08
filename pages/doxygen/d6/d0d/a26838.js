@@ -1,9 +1,8 @@
 var a26838 =
 [
-    [ "CalculateAmount", "d6/d0d/a26838.html#a55d778b049e26c28bfa9d2e08d7920a8", null ],
-    [ "CheckProc", "d6/d0d/a26838.html#aa0144f9a0260a74010ced913dd8cadbd", null ],
-    [ "HandleProc", "d6/d0d/a26838.html#a741570ba77f70d90b437198f63e565f3", null ],
-    [ "PrepareAuraScript", "d6/d0d/a26838.html#af4e49e2362994f247c119c16c013e4b3", null ],
-    [ "Register", "d6/d0d/a26838.html#a06a3c11618cbdf15427bbaa6ac8a4273", null ],
-    [ "Validate", "d6/d0d/a26838.html#a939d6815bcaee9b9d2b062313aac912a", null ]
+    [ "FilterTargets", "d6/d0d/a26838.html#a3766e5ed1f75c242f45b24c90eef7e11", null ],
+    [ "HandleDummy", "d6/d0d/a26838.html#a2214b10da042a3af2fd3311872cc5286", null ],
+    [ "PrepareSpellScript", "d6/d0d/a26838.html#a9959966856601f79a83931a7a7ecff91", null ],
+    [ "Register", "d6/d0d/a26838.html#a6ac1d4f1d82aabb39526aca92636a41f", null ],
+    [ "Validate", "d6/d0d/a26838.html#a67d4b92cc494b6081247a90e8d4c9628", null ]
 ];

@@ -1,6 +1,7 @@
 var a15918 =
 [
-    [ "instance_zulfarrak_InstanceMapScript", "d3/d87/a15922.html", "d3/d87/a15922" ],
-    [ "instance_zulfarrak", "d3/d6c/a15918.html#a7c8594fe278dc9f6c3ab6f291cf9bad2", null ],
-    [ "GetInstanceScript", "d3/d6c/a15918.html#a5f092341e49848c9d321452be2193d56", null ]
+    [ "npc_ranshallaAI", "d3/d87/a15922.html", "d3/d87/a15922" ],
+    [ "npc_ranshalla", "d3/d6c/a15918.html#a0b9848c68cf955d24024071ae9beb8e5", null ],
+    [ "GetAI", "d3/d6c/a15918.html#a1a81651366cc05d3ad6e9929160fe059", null ],
+    [ "OnQuestAccept", "d3/d6c/a15918.html#a4ed77a4c0a48dc4922fa5ebb71949e28", null ]
 ];

@@ -1,6 +1,10 @@
 var a26374 =
 [
-    [ "HandleAfterHit", "db/df4/a26374.html#a6f0ec02c8b1429a6be76465dd9badd1c", null ],
-    [ "PrepareSpellScript", "db/df4/a26374.html#af2e6c3bfc233ee86fa2c9186cdd6b5a4", null ],
-    [ "Register", "db/df4/a26374.html#a2a780069022e62b14992a7b69626ac3d", null ]
+    [ "Absorb", "db/df4/a26374.html#ab4006b00d415a94e6a49856cee7e272b", null ],
+    [ "CalculateAmount", "db/df4/a26374.html#a57bfd4e7178e9e7c3df12c025d0c7d9e", null ],
+    [ "Load", "db/df4/a26374.html#a88aa9623f587bb7b5e91da83c76f562a", null ],
+    [ "PrepareAuraScript", "db/df4/a26374.html#a456c1bd5b284f642d1e040de52eee24b", null ],
+    [ "Register", "db/df4/a26374.html#a905994099dcc4ac9512d5f27b78a778c", null ],
+    [ "Validate", "db/df4/a26374.html#ad99966111a1919c610a942a8eb133ea1", null ],
+    [ "healPct", "db/df4/a26374.html#a3b0527ce7f1fd6afaa57f942275ec81b", null ]
 ];

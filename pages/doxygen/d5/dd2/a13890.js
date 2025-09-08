@@ -1,7 +1,7 @@
 var a13890 =
 [
-    [ "npc_jaina_proudmoore_bfuAI", "d5/dd2/a13890.html#ad5ad1d05ef8210409c700e47b5442e24", null ],
-    [ "Reset", "d5/dd2/a13890.html#a18de805428ce0954a5fbfffbf5975342", null ],
-    [ "UpdateAI", "d5/dd2/a13890.html#a48b191d0812bfe3212511a52ef0df817", null ],
-    [ "_events", "d5/dd2/a13890.html#a87e99e0b5fd0a3823b009025019b1fa4", null ]
+    [ "o", "d5/dd2/a13890.html#a455ab33d372dd2aeac9d591f3cce1013", null ],
+    [ "x", "d5/dd2/a13890.html#a49ad07d6ecb902ae4818923a6414f3c1", null ],
+    [ "y", "d5/dd2/a13890.html#a45ec9c234e9d909eb8fcc0db6e0d641e", null ],
+    [ "z", "d5/dd2/a13890.html#abf42d988d416ebe409100c4b860d26db", null ]
 ];

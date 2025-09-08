@@ -1,12 +1,9 @@
 var a12338 =
 [
-    [ "go_suppression_deviceAI", "d3/d37/a12338.html#a32767442eeabab896032333e42d3e496", null ],
-    [ "Activate", "d3/d37/a12338.html#aa52ca9fb60793e33ae3fe911cd4be379", null ],
-    [ "Deactivate", "d3/d37/a12338.html#aec459270ff4965b79430c5bb66cb18f6", null ],
-    [ "DoAction", "d3/d37/a12338.html#a60bcafdf76e6735756a43c780bda7baf", null ],
-    [ "InitializeAI", "d3/d37/a12338.html#a1dd83a1e393ef47d8bd4917aff5df13f", null ],
-    [ "UpdateAI", "d3/d37/a12338.html#afaa70c968a0994fbcd01dd40b6d060a5", null ],
-    [ "_active", "d3/d37/a12338.html#a00fb57e180148622e564712611705218", null ],
-    [ "_events", "d3/d37/a12338.html#a0c6436834b4aca4bed2a8361941c553c", null ],
-    [ "_instance", "d3/d37/a12338.html#a69dbc36ce80cf12cdcee5c42fe4f0a72", null ]
+    [ "npc_vaelastrasz_the_redAI", "d3/d37/a12338.html#aa800617f887a21d8a61cac099c86faed", null ],
+    [ "IsSummonedBy", "d3/d37/a12338.html#ab0eb414e7c9385e4831c4fbc6ba1de49", null ],
+    [ "UpdateAI", "d3/d37/a12338.html#a4dd74c81dc67291ed04861cf542b0d24", null ],
+    [ "_combatEnabled", "d3/d37/a12338.html#ae82e9f70dbfd6a4a75206d358de4504e", null ],
+    [ "_events2", "d3/d37/a12338.html#aa31a968cb89f2c4bb4fde836fd600ab9", null ],
+    [ "_victorGUID", "d3/d37/a12338.html#a8a4af969b8d340d5492f89499e3e90c2", null ]
 ];

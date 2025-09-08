@@ -1,11 +1,12 @@
 var a18670 =
 [
-    [ "npc_valithria_cloudAI", "db/dfd/a18670.html#a5b550d0154f302cecc509fbd868a53bb", null ],
-    [ "AttackStart", "db/dfd/a18670.html#a5835d5ba19e1480016e585c1e49489c9", null ],
-    [ "EnterEvadeMode", "db/dfd/a18670.html#a346fd998d41451d7d1e605afdb13b65c", null ],
-    [ "MoveInLineOfSight", "db/dfd/a18670.html#a8d4c8d082f12b96b2b77447d0b942c2c", null ],
-    [ "Reset", "db/dfd/a18670.html#abca34d7285ef23c062006df8f8ae6d53", null ],
-    [ "UpdateAI", "db/dfd/a18670.html#a6908f5731915bf7d15bb4921c960aa30", null ],
-    [ "_events", "db/dfd/a18670.html#afc5c9299d7f1f73c087a19dcfb19e096", null ],
-    [ "_instance", "db/dfd/a18670.html#a20cc2bba9d1005cc93b55dfba8bfbcf3", null ]
+    [ "npc_risen_archmageAI", "db/dfd/a18670.html#a4dd62e51fc75fc5e4a44859437549f29", null ],
+    [ "CanAIAttack", "db/dfd/a18670.html#a063a28cd36dbc709699e6d1d4e4ca9e3", null ],
+    [ "DoAction", "db/dfd/a18670.html#accc43068aa0a7f62d6fabfb85acb1498", null ],
+    [ "JustEngagedWith", "db/dfd/a18670.html#aef3a1631b4bb8d28d4056036981b0192", null ],
+    [ "JustSummoned", "db/dfd/a18670.html#aff6e86057086db1319bb680e52e41634", null ],
+    [ "Reset", "db/dfd/a18670.html#a522d30cb60cf6af2cd8cc943a7e2f5e3", null ],
+    [ "UpdateAI", "db/dfd/a18670.html#ae78dc64f858573b234210ca175e5bdd9", null ],
+    [ "_events", "db/dfd/a18670.html#a6dff9ff5332c0bc337840882689f47ed", null ],
+    [ "_instance", "db/dfd/a18670.html#a1b4e12b199bf3ada517c895c5f387c4a", null ]
 ];

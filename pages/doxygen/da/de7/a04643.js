@@ -1,6 +1,6 @@
 var a04643 =
 [
-    [ "CharacterDatabaseConnection", "d5/d88/a05742.html", "d5/d88/a05742" ],
+    [ "CharacterDatabaseConnection", "d0/df9/a05758.html", "d0/df9/a05758" ],
     [ "CharacterDatabaseStatements", "da/de7/a04643.html#a76116b4fa282d8e35bf8f8e940b5cba7", [
       [ "CHAR_DEL_QUEST_POOL_SAVE", "da/de7/a04643.html#a76116b4fa282d8e35bf8f8e940b5cba7a494e95a33cf6fd5a044ae914d78eba5f", null ],
       [ "CHAR_INS_QUEST_POOL_SAVE", "da/de7/a04643.html#a76116b4fa282d8e35bf8f8e940b5cba7ad81f4bf1ca36a95f1881b582d1a52f08", null ],
@@ -330,8 +330,8 @@ var a04643 =
       [ "CHAR_DEL_INSTANCE_BY_INSTANCE", "da/de7/a04643.html#a76116b4fa282d8e35bf8f8e940b5cba7a6dbfe303ba7e06723b161f79795033f1", null ],
       [ "CHAR_DEL_MAIL_ITEM_BY_ID", "da/de7/a04643.html#a76116b4fa282d8e35bf8f8e940b5cba7ae8d775fec82ca30da674ceb44e1319e1", null ],
       [ "CHAR_INS_PETITION", "da/de7/a04643.html#a76116b4fa282d8e35bf8f8e940b5cba7ab6891c055a0cb095997f78d01e24f90a", null ],
-      [ "CHAR_DEL_PETITION_BY_GUID", "da/de7/a04643.html#a76116b4fa282d8e35bf8f8e940b5cba7a158cf473b9cdcd57e95af5ecf7e02f4b", null ],
-      [ "CHAR_DEL_PETITION_SIGNATURE_BY_GUID", "da/de7/a04643.html#a76116b4fa282d8e35bf8f8e940b5cba7ac47767e91039c79d4a8a84fd1d6f312b", null ],
+      [ "CHAR_DEL_PETITION_BY_ID", "da/de7/a04643.html#a76116b4fa282d8e35bf8f8e940b5cba7a1a39fc666766342d31c7c1faea3fb6cd", null ],
+      [ "CHAR_DEL_PETITION_SIGNATURE_BY_ID", "da/de7/a04643.html#a76116b4fa282d8e35bf8f8e940b5cba7aa670c3c502735848d34b3393f24a7766", null ],
       [ "CHAR_DEL_CHAR_DECLINED_NAME", "da/de7/a04643.html#a76116b4fa282d8e35bf8f8e940b5cba7a3efefc07aeab85cef1e111d4a19e0210", null ],
       [ "CHAR_INS_CHAR_DECLINED_NAME", "da/de7/a04643.html#a76116b4fa282d8e35bf8f8e940b5cba7af33fb105a08a624ee0dfeaa16b9f3b40", null ],
       [ "CHAR_UPD_CHAR_RACE", "da/de7/a04643.html#a76116b4fa282d8e35bf8f8e940b5cba7ab7436242c41c76dff2bbea768669e68e", null ],

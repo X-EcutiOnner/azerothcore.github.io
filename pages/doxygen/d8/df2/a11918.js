@@ -1,12 +1,14 @@
 var a11918 =
 [
-    [ "wp_commandscript", "d8/df2/a11918.html#a152610b5faf3ee05bb830bbf820b7162", null ],
-    [ "GetCommands", "d8/df2/a11918.html#a55ecc8d67d7c240df1b177f755fc5850", null ],
-    [ "HandleWpAddCommand", "d8/df2/a11918.html#adedc9b5184e1c29edfa80734e59b8bf0", null ],
-    [ "HandleWpEventCommand", "d8/df2/a11918.html#a16fdb79724677307198ccf2fd6aa670d", null ],
-    [ "HandleWpLoadCommand", "d8/df2/a11918.html#a3fae6e6c16f1f6ed1e9dc9da716d064d", null ],
-    [ "HandleWpModifyCommand", "d8/df2/a11918.html#a83677a6b64c3e5f6e44345026775721a", null ],
-    [ "HandleWpReloadCommand", "d8/df2/a11918.html#a671598d3727fa7e9358391008c690cb6", null ],
-    [ "HandleWpShowCommand", "d8/df2/a11918.html#ac07358385858058e3df99bd0dd9ab5c1", null ],
-    [ "HandleWpUnLoadCommand", "d8/df2/a11918.html#a8e0f636c31f69acf5b9b0b27e9a9462e", null ]
+    [ "tele_commandscript", "d8/df2/a11918.html#a13d522c3480c5b82071d5f77bd41f942", null ],
+    [ "DoNameTeleport", "d8/df2/a11918.html#aeab9bf62f33fd1d55055ba2ae7925f82", null ],
+    [ "GetCommands", "d8/df2/a11918.html#a296b26e39d5d575ebe68728ff1b49f68", null ],
+    [ "HandleTeleAddCommand", "d8/df2/a11918.html#a8d429a38c01a19f8c89c87937ef24248", null ],
+    [ "HandleTeleCommand", "d8/df2/a11918.html#ac7d7dbb28f3a908fa5116ffb9ca6f7fa", null ],
+    [ "HandleTeleDelCommand", "d8/df2/a11918.html#ad3d85b0057797de2aceeb620cf62efc0", null ],
+    [ "HandleTeleGroupCommand", "d8/df2/a11918.html#af83e529b482654851a7a1ee77beb107e", null ],
+    [ "HandleTeleNameCommand", "d8/df2/a11918.html#a70fcde1c7c5a9e5297035862adca55c4", null ],
+    [ "HandleTeleNameNpcIdCommand", "d8/df2/a11918.html#a52852b7f3d7a6bbf68164e6918b9a141", null ],
+    [ "HandleTeleNameNpcNameCommand", "d8/df2/a11918.html#a2f68bad0f1af5d40fcefb8c394472b65", null ],
+    [ "HandleTeleNameNpcSpawnIdCommand", "d8/df2/a11918.html#a7a45fa39afa6bae2359a68b11a504bc5", null ]
 ];

@@ -1,6 +1,7 @@
 var a20346 =
 [
-    [ "id", "d6/d4b/a20346.html#accc6fc59e13a0897ae168fae33ee4c7d", null ],
-    [ "x", "d6/d4b/a20346.html#afb67a1dce0819e0da0ceb9b303f43eb9", null ],
-    [ "y", "d6/d4b/a20346.html#aaf4fd9f1d5b020e102c0fec3863f7020", null ]
+    [ "HandleAfterHit", "d6/d4b/a20346.html#a75953cbb3a288fd373e602ed07d84441", null ],
+    [ "PrepareSpellScript", "d6/d4b/a20346.html#a55c604f072fd0bbdcb886635fb53eaa8", null ],
+    [ "Register", "d6/d4b/a20346.html#af963f0dcdf2a1bc040a597c06983f0a7", null ],
+    [ "Validate", "d6/d4b/a20346.html#aea2b951dd2353800958f654df58d8fd8", null ]
 ];

@@ -1,8 +1,9 @@
 var a09278 =
 [
-    [ "CreatureWorker", "dd/dc7/a09278.html#a4b4dc219d034565cd83748c5f1cab2a5", null ],
-    [ "Visit", "dd/dc7/a09278.html#ae67044250380c521055f80c55de0bba5", null ],
-    [ "Visit", "dd/dc7/a09278.html#aa9a450b147aafe46a49135f5c5be668e", null ],
-    [ "i_do", "dd/dc7/a09278.html#ac22f86d9a41701e7527d4840da256f11", null ],
-    [ "i_phaseMask", "dd/dc7/a09278.html#adf514c89c894cdf2b44fc75d14c4f5b0", null ]
+    [ "UnitListSearcher", "dd/dc7/a09278.html#a24c0de32dc3baa927962626421a343ae", null ],
+    [ "Visit", "dd/dc7/a09278.html#a83d86364ef2f9f9ed55b9bf9aa9bea0d", null ],
+    [ "Visit", "dd/dc7/a09278.html#a92f9b0407e609b6c61f10d93aa49912f", null ],
+    [ "Visit", "dd/dc7/a09278.html#a5fddd281a9f9cd10cf3948d4bf7b626f", null ],
+    [ "i_check", "dd/dc7/a09278.html#a508a47e6261e7ae6e5669aee853ff99e", null ],
+    [ "i_phaseMask", "dd/dc7/a09278.html#a43c863350bea423cf4a720c4c680fd4c", null ]
 ];

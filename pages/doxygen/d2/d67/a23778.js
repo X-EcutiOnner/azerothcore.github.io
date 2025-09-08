@@ -1,5 +1,6 @@
 var a23778 =
 [
-    [ "go_manticron_cube", "d2/d67/a23778.html#a87d9571aea57f16d38067ebd9e22200d", null ],
-    [ "OnGossipHello", "d2/d67/a23778.html#accab4a61f00f5e465fb795b4cbe672bf", null ]
+    [ "HandleScriptEffect", "d2/d67/a23778.html#af0841e5c67c981b792a8d8f0d0d18edc", null ],
+    [ "PrepareSpellScript", "d2/d67/a23778.html#a287bff28e57a86f0176921500de78fa9", null ],
+    [ "Register", "d2/d67/a23778.html#ad5fb101794dfdef0c08551dd9397b965", null ]
 ];

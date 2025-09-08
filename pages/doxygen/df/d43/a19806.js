@@ -1,6 +1,9 @@
 var a19806 =
 [
-    [ "dark_rune_protectorsAI", "d1/d43/a19810.html", "d1/d43/a19810" ],
-    [ "dark_rune_protectors", "df/d43/a19806.html#a14225a2369a8deea416fc640a2d7b075", null ],
-    [ "GetAI", "df/d43/a19806.html#a359e4049b7ec828177d9a36d23e9b4ef", null ]
+    [ "boss_sjonnir_malformed_oozeAI", "df/d43/a19806.html#a0624f769d0ce5a95ea2bb877811b0409", null ],
+    [ "JustEngagedWith", "df/d43/a19806.html#a9e6527bc46d7b685d938833d18796cee", null ],
+    [ "MoveInLineOfSight", "df/d43/a19806.html#a7449e135f088a2d4b22a423c71118093", null ],
+    [ "MovementInform", "df/d43/a19806.html#ac04d90e974f85282737bb5081a123106", null ],
+    [ "UpdateAI", "df/d43/a19806.html#afccd77c8e90d129fb3a347205a2102db", null ],
+    [ "events", "df/d43/a19806.html#a73c135ec94b41a752fc203c5e20128d0", null ]
 ];

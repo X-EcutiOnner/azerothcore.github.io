@@ -1,11 +1,13 @@
 var a19422 =
 [
-    [ "npc_nexus_lordAI", "d8/deb/a19422.html#a8d26337fdcd055027a20ea91faf7e01b", null ],
-    [ "AttackStart", "d8/deb/a19422.html#a2f56dcac815431c887b95e9c09aec361", null ],
-    [ "JustDied", "d8/deb/a19422.html#a828007757a618affad71b955681945cf", null ],
-    [ "JustEngagedWith", "d8/deb/a19422.html#acfcf227557b1e212eda385e22ccdb981", null ],
-    [ "UpdateAI", "d8/deb/a19422.html#ad7ddb98d2daaed386e713e423de4cac9", null ],
-    [ "events", "d8/deb/a19422.html#ad20a56e52b22306ca31406d8defa4aa5", null ],
-    [ "pInstance", "d8/deb/a19422.html#a81fae70688bcd8c733ea90b06900503d", null ],
-    [ "timer", "d8/deb/a19422.html#a8edb133f7ca01a4aa75345c572a505c7", null ]
+    [ "npc_vortex_rideAI", "d8/deb/a19422.html#ae827bdfdef36419e33b37aecde1a2cc4", null ],
+    [ "AttackStart", "d8/deb/a19422.html#a810c0c03317672d5a4a904a1e96cbba9", null ],
+    [ "DamageTaken", "d8/deb/a19422.html#a39e33812041877296c11c9bace6a4667", null ],
+    [ "MoveInLineOfSight", "d8/deb/a19422.html#a2c810e2fe14e4681a0092a0c6bb3eadc", null ],
+    [ "PassengerBoarded", "d8/deb/a19422.html#a77234a8f4ec9c687b194a8c332820609", null ],
+    [ "UpdateAI", "d8/deb/a19422.html#ad450120965f9e85bdb69ffc4c092c901", null ],
+    [ "bUpdatedFlying", "d8/deb/a19422.html#a56f2753ef630b76882cc1dce6b5a8fb9", null ],
+    [ "despawnTimer", "d8/deb/a19422.html#acd7a8c972db52077f8b02317f5398ff0", null ],
+    [ "timer", "d8/deb/a19422.html#acd72c6ae18b84cee94a295e51fae9ac3", null ],
+    [ "VORTEX_RADIUS", "d8/deb/a19422.html#adec384ccbdc5f2b90a1d09c67b47d24f", null ]
 ];

@@ -1,10 +1,11 @@
 var a07570 =
 [
-    [ "InvokerEntry", "da/d6b/a07570.html#aa195cc806a02e56a8125bfc039b83c37", null ],
-    [ "InvokerEntry", "da/d6b/a07570.html#ab0ae915bcd0b6cb738f66398ba06bd63", null ],
-    [ "InvokerEntry", "da/d6b/a07570.html#ae0b19dcb745635a783d52bae6f237b47", null ],
-    [ "operator*", "da/d6b/a07570.html#ae42d24aad13fe622f6d5ec35d72c1c96", null ],
-    [ "_help", "da/d6b/a07570.html#a107ccda1e3b21600fd133a243a8d2c9c", null ],
-    [ "_invoker", "da/d6b/a07570.html#a1f9da7b4e2a968b1cf51b227c79f0d1d", null ],
-    [ "_permissions", "da/d6b/a07570.html#a9567278ccb4896bcb2e8293df0ab909f", null ]
+    [ "wrapper_func", "da/d6b/a07570.html#a4ebb895343c2cfae053a605aafe0e461", null ],
+    [ "CommandInvoker", "da/d6b/a07570.html#a6541779cccd36a87d65acc1b6a9725e2", null ],
+    [ "CommandInvoker", "da/d6b/a07570.html#ad941d54b994fbfe0f572348d18a790be", null ],
+    [ "CommandInvoker", "da/d6b/a07570.html#a6b693468375cc6b92870194e10eb4140", null ],
+    [ "operator bool", "da/d6b/a07570.html#aa00bfcf3938781f5e454f7acddb12e7e", null ],
+    [ "operator()", "da/d6b/a07570.html#a611756a2205ffb2bccabb53929a4644b", null ],
+    [ "_handler", "da/d6b/a07570.html#af9bece7be346ed85c5b45cc07c7b176a", null ],
+    [ "_wrapper", "da/d6b/a07570.html#a1605d492889200f2d18d6759882913aa", null ]
 ];

@@ -1,17 +1,8 @@
 var a09542 =
 [
-    [ "EmblemInfo", "df/d53/a09542.html#a8d053ab27856955bf6013ef4c61ed33f", null ],
-    [ "GetBackgroundColor", "df/d53/a09542.html#a66da2cd78cee9e929ff0f2439caed0e5", null ],
-    [ "GetBorderColor", "df/d53/a09542.html#ac5ea55d7fd129524630dd0d486b457a7", null ],
-    [ "GetBorderStyle", "df/d53/a09542.html#a7a791a3f467e72a3e8e941e3179d7709", null ],
-    [ "GetColor", "df/d53/a09542.html#a15108f3a2a93ebbc01111672dd238d63", null ],
-    [ "GetStyle", "df/d53/a09542.html#a0e6d684542535d537bdeba4104b7a18d", null ],
-    [ "LoadFromDB", "df/d53/a09542.html#a17de371e72a2b29a7f249dbe912636bc", null ],
-    [ "ReadPacket", "df/d53/a09542.html#abd73ea3db00fa900d7b3a8eeffa8b1bf", null ],
-    [ "SaveToDB", "df/d53/a09542.html#aea1326261d893ef3beff026402bf8272", null ],
-    [ "m_backgroundColor", "df/d53/a09542.html#a0bc92e459910ab6aad3ac35c8b613a5f", null ],
-    [ "m_borderColor", "df/d53/a09542.html#a5aff1dcb9db9bc1477f2f37ac5b2c6cf", null ],
-    [ "m_borderStyle", "df/d53/a09542.html#aa3e49b5f76fdb4e2139aeccb79c19390", null ],
-    [ "m_color", "df/d53/a09542.html#ace48f189e9a1ae685dfbe97f35f49ec5", null ],
-    [ "m_style", "df/d53/a09542.html#a08191c3c9cc48bde61ef0de81be34c90", null ]
+    [ "flags", "df/d53/a09542.html#a7ecce103d428ed7f91aa12fa5547561c", null ],
+    [ "group", "df/d53/a09542.html#a0902606d44c8baa1a20b5b2cdd9b4787", null ],
+    [ "guid", "df/d53/a09542.html#a97a20b4ccf1978165a5f5c7ff4ffb2b4", null ],
+    [ "name", "df/d53/a09542.html#ab0719bb9805048b58a3e4c75e09d1ee7", null ],
+    [ "roles", "df/d53/a09542.html#a2109aae0b3ebf74b065b97cc929c2954", null ]
 ];

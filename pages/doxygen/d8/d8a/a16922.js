@@ -1,6 +1,6 @@
 var a16922 =
 [
-    [ "boss_bronjahmAI", "db/db1/a16926.html", "db/db1/a16926" ],
-    [ "boss_bronjahm", "d8/d8a/a16922.html#a699e1be5273979c76cd5d06b60f0ee05", null ],
-    [ "GetAI", "d8/d8a/a16922.html#a04676028f1f324b6eecea625122794ed", null ]
+    [ "instance_drak_tharon_keep_InstanceScript", "db/db1/a16926.html", "db/db1/a16926" ],
+    [ "instance_drak_tharon_keep", "d8/d8a/a16922.html#a1f375185dba1619fee36160549eb91f4", null ],
+    [ "GetInstanceScript", "d8/d8a/a16922.html#aca6364452dc39e747af152695d479bf8", null ]
 ];

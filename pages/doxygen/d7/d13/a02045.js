@@ -1,7 +1,7 @@
 var a02045 =
 [
-    [ "AccountFlagText", "de/db1/a11834.html", "de/db1/a11834" ],
-    [ "misc_commandscript", "d5/d62/a11838.html", "d5/d62/a11838" ],
+    [ "AccountFlagText", "d7/d90/a11850.html", "d7/d90/a11850" ],
+    [ "misc_commandscript", "d5/def/a11854.html", "d5/def/a11854" ],
     [ "AddSC_misc_commandscript", "d7/d13/a02045.html#ac722d20c86b9502b7c4c8ae711cc3917", null ],
     [ "GetLocalizeCreatureName", "d7/d13/a02045.html#aaedbdfd3cae227b11684151f41e3b977", null ],
     [ "accountFlagText", "d7/d13/a02045.html#a704344ab0c20d3674c76d1dcf177ec9a", null ],

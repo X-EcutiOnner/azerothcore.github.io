@@ -1,8 +1,7 @@
 var a15854 =
 [
-    [ "npc_pluckyAI", "d3/d01/a15858.html", "d3/d01/a15858" ],
-    [ "npc_plucky", "dc/d45/a15854.html#a86bb2992b8af5893987145117aaf3608", null ],
-    [ "GetAI", "dc/d45/a15854.html#a51e73f4e1f618aee5a000e31328efefc", null ],
-    [ "OnGossipHello", "dc/d45/a15854.html#a3443f3e8c2b3fcc96955ab2e55e7fd61", null ],
-    [ "OnGossipSelect", "dc/d45/a15854.html#a88fa465246b4c657b921ebdc96f7a112", null ]
+    [ "npc_lakota_windsongAI", "d3/d01/a15858.html", "d3/d01/a15858" ],
+    [ "npc_lakota_windsong", "dc/d45/a15854.html#a08a585ac36189ec23354c7acb26d223d", null ],
+    [ "GetAI", "dc/d45/a15854.html#af2f27ed2c4bd7298a9478495d2d7ca65", null ],
+    [ "OnQuestAccept", "dc/d45/a15854.html#a47ccf0b8bef84724f7aa7e2ad564dfe6", null ]
 ];

@@ -1,8 +1,6 @@
 var a05510 =
 [
-    [ "result_type", "da/d88/a05510.html#a20f96383bade76c6185d8f20f458784e", null ],
-    [ "Instance", "da/d88/a05510.html#a5ff7fcb1f8d34861b0c210eddc450681", null ],
-    [ "max", "da/d88/a05510.html#ad5dcf280f768ebd79210caf6ecff4290", null ],
-    [ "min", "da/d88/a05510.html#ab153ffca65139db4084745302dd4db7f", null ],
-    [ "operator()", "da/d88/a05510.html#afe5f6dd94cbc6add3fd13fa3fe37b60d", null ]
+    [ "LambdaBasicEvent", "da/d88/a05510.html#a4244b5e91413d71076d9cc3af230aed8", null ],
+    [ "Execute", "da/d88/a05510.html#a8771a49f00554372b5ed38816abbd253", null ],
+    [ "_callback", "da/d88/a05510.html#a2660ba5053b9ad6a1c4231bd32359999", null ]
 ];

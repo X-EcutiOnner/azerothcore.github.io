@@ -1,8 +1,8 @@
 var a01490 =
 [
-    [ "boss_archavon", "da/dd3/a21402.html", "da/dd3/a21402" ],
-    [ "boss_archavon::boss_archavonAI", "d4/d7f/a21406.html", "d4/d7f/a21406" ],
-    [ "spell_archavon_rock_shards", "d6/d2e/a21410.html", "d6/d2e/a21410" ],
+    [ "boss_archavon", "d9/db8/a21418.html", "d9/db8/a21418" ],
+    [ "boss_archavon::boss_archavonAI", "d5/d22/a21422.html", "d5/d22/a21422" ],
+    [ "spell_archavon_rock_shards", "d3/dd6/a21426.html", "d3/dd6/a21426" ],
     [ "Archavon", "de/d3c/a01490.html#a73a22ae082f1ae211db2530bf259e3c9", [
       [ "SPELL_ROCK_SHARDS", "de/d3c/a01490.html#a73a22ae082f1ae211db2530bf259e3c9a089c4dd82ee20529deb635e435060907", null ],
       [ "SPELL_ROCK_SHARDS_LEFT_HAND_VISUAL", "de/d3c/a01490.html#a73a22ae082f1ae211db2530bf259e3c9ac5948e58c536267987e0a82dcfba1ea7", null ],
@@ -469,15 +469,6 @@ var a01490 =
       [ "EVENT_HADRONOX_SUMMON", "d1/db0/a01928.html#af60e00b78607064c5be6aa9397ea49c1a2084f8df4bb3a924b03a8bfff7f019dc", null ],
       [ "EVENT_CRUSHER_SMASH", "d1/db0/a01928.html#af60e00b78607064c5be6aa9397ea49c1af296175ebd391dfe736268ab5e81a954", null ],
       [ "EVENT_CHECK_HEALTH", "d1/db0/a01928.html#af60e00b78607064c5be6aa9397ea49c1a5545d513600badfbae47148bc756ed64", null ],
-      [ "EVENT_KRIK_START_WAVE", "dd/d19/a01922.html#af60e00b78607064c5be6aa9397ea49c1a6bc3dce5e0aff14dc009c38ec7e8e5a1", null ],
-      [ "EVENT_KRIK_SUMMON", "dd/d19/a01922.html#af60e00b78607064c5be6aa9397ea49c1abf995f2f25f1e7e0004feeb9cd59e379", null ],
-      [ "EVENT_KRIK_MIND_FLAY", "dd/d19/a01922.html#af60e00b78607064c5be6aa9397ea49c1a4e8630dc46fecb54b0c1c77ec6ccd70a", null ],
-      [ "EVENT_KRIK_CURSE", "dd/d19/a01922.html#af60e00b78607064c5be6aa9397ea49c1a9e6c23fda6c58fcb211edb2fbbdd6951", null ],
-      [ "EVENT_KRIK_HEALTH_CHECK", "dd/d19/a01922.html#af60e00b78607064c5be6aa9397ea49c1a484fc870fe923c8990270dcb03aa6290", null ],
-      [ "EVENT_KRIK_ENTER_COMBAT", "dd/d19/a01922.html#af60e00b78607064c5be6aa9397ea49c1a004cba636c79e89000feea6ee300566b", null ],
-      [ "EVENT_KILL_TALK", "dd/d19/a01922.html#af60e00b78607064c5be6aa9397ea49c1a19e2d7e7feeb728214e70da2b689c36b", null ],
-      [ "EVENT_CALL_ADDS", "dd/d19/a01922.html#af60e00b78607064c5be6aa9397ea49c1a4b15065116ae1cc3e6fa90ac7865ac81", null ],
-      [ "EVENT_KRIK_CHECK_EVADE", "dd/d19/a01922.html#af60e00b78607064c5be6aa9397ea49c1a78a74f58ba43f91fda916f14191f2854", null ],
       [ "EVENT_MINIBOSS_SHADOW_FISSURE", "d4/d51/a01520.html#af60e00b78607064c5be6aa9397ea49c1a966befce167e4e387bede225741ca7e3", null ],
       [ "EVENT_MINIBOSS_SHADOW_BREATH", "d4/d51/a01520.html#af60e00b78607064c5be6aa9397ea49c1a217843f3b8a58953df56fc2197a10348", null ],
       [ "EVENT_MINIBOSS_HATCH_EGGS", "d4/d51/a01520.html#af60e00b78607064c5be6aa9397ea49c1a108974886cae0bd7ba13738b9c719961", null ],

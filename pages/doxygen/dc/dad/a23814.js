@@ -1,15 +1,17 @@
 var a23814 =
 [
-    [ "npc_shattered_hand_scout", "dc/dad/a23814.html#a51a57eaaad75817a9b5a81210e01ed51", null ],
-    [ "DamageTaken", "dc/dad/a23814.html#ad37c34ae2dee082f1b4eed90bc4a3618", null ],
-    [ "FireArrows", "dc/dad/a23814.html#aa3043011d7d9e7b7c5826b9afc7581d1", null ],
-    [ "GetPorung", "dc/dad/a23814.html#a575b12c40aeccd6d0cdd63f71a3b93d6", null ],
-    [ "MoveInLineOfSight", "dc/dad/a23814.html#a2ddb6fd6aa6221768ff71257f4bdd81b", null ],
-    [ "MovementInform", "dc/dad/a23814.html#a6f6198c2faf68823b1d4c8237044784b", null ],
-    [ "Reset", "dc/dad/a23814.html#a1fcf0da2cc4a0554f04b3624b68de598", null ],
-    [ "SetData", "dc/dad/a23814.html#a9416dd89c4728538971abc5975c7080f", null ],
-    [ "UpdateAI", "dc/dad/a23814.html#a91c2c7eca064d6eaafe5ecaeca4344b4", null ],
-    [ "_firstZealots", "dc/dad/a23814.html#a2b5fd63b01e4ecb96b006e3870b37609", null ],
-    [ "_scheduler", "dc/dad/a23814.html#a376f6eab11f8399493d5d33b5c4ea35a", null ],
-    [ "_zealotGUIDs", "dc/dad/a23814.html#a26381a05bb007fdb4b7da97a19a878da", null ]
+    [ "boss_grand_warlock_nethekurse", "dc/dad/a23814.html#a4eefeb639cf5f0753feb6cfd99cda187", null ],
+    [ "DoAction", "dc/dad/a23814.html#a8288f8c28b61dac574254435534b5e3f", null ],
+    [ "IntroRP", "dc/dad/a23814.html#ae071f8cc7ef44e6c6cf205295debea5f", null ],
+    [ "JustDied", "dc/dad/a23814.html#a48a2ec7beeb5c9685fc627317acea949", null ],
+    [ "JustEngagedWith", "dc/dad/a23814.html#a117d2d737433ea89b37ea1ee58e6c237", null ],
+    [ "JustReachedHome", "dc/dad/a23814.html#afe62561de66fbe7fa92c365a51f01adc", null ],
+    [ "KilledUnit", "dc/dad/a23814.html#ac29fa30bfa8377a07cbfdd1f0964ebfb", null ],
+    [ "Reset", "dc/dad/a23814.html#aceef7aace38f5246ad67a1591b7f301c", null ],
+    [ "SetData", "dc/dad/a23814.html#a6c647262ce7df78c46af6b725cbcc250", null ],
+    [ "UpdateAI", "dc/dad/a23814.html#aca0bd4c71aafd2d1c54e2ca87d538e9a", null ],
+    [ "_canAggro", "dc/dad/a23814.html#a9c577798d5bc87654e6984af02d95c34", null ],
+    [ "_introStarted", "dc/dad/a23814.html#ac7d0737aa28c51cc63d93b8774e536f0", null ],
+    [ "PeonEngagedCount", "dc/dad/a23814.html#a886a0e792cf5ac6afa9670703cb568ff", null ],
+    [ "PeonKilledCount", "dc/dad/a23814.html#a8837d810df1d8b8a505d2d6c98ac8be8", null ]
 ];

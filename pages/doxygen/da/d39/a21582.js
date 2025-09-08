@@ -1,6 +1,6 @@
 var a21582 =
 [
-    [ "npc_vh_teleportation_portalAI", "d2/d99/a21586.html", "d2/d99/a21586" ],
-    [ "npc_vh_teleportation_portal", "da/d39/a21582.html#a9a554058f594f992a17dbb3887117a6f", null ],
-    [ "GetAI", "da/d39/a21582.html#a0721c64c01ae69bd78dfc15637c97f49", null ]
+    [ "instance_violet_hold_InstanceMapScript", "d2/d99/a21586.html", "d2/d99/a21586" ],
+    [ "instance_violet_hold", "da/d39/a21582.html#ae66f018196cd90683506c3cc3d8c5d7a", null ],
+    [ "GetInstanceScript", "da/d39/a21582.html#aeedcbb24b0709bd172ebbbc6d9851532", null ]
 ];

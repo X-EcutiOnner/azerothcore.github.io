@@ -1,7 +1,10 @@
 var a14586 =
 [
-    [ "npc_love_in_air_supply_sentry", "d0/d22/a14586.html#ab2742c3be0ed661a509b9eb32326bee5", null ],
-    [ "MoveInLineOfSight", "d0/d22/a14586.html#a9df110324c74277e07183c7db231bbda", null ],
-    [ "UpdateAI", "d0/d22/a14586.html#aaa658222954f96d45b75daf83555f6f8", null ],
-    [ "lock", "d0/d22/a14586.html#a59bf67b114014542538165c21aa109a6", null ]
+    [ "boss_headless_horseman_pumpkin", "d0/d22/a14586.html#a62191ae523401ac57a947db96a245f7a", null ],
+    [ "AttackStart", "d0/d22/a14586.html#a2d7cb1bc5f25f87b1452d6c1267958c4", null ],
+    [ "MoveInLineOfSight", "d0/d22/a14586.html#a212f9803f66d297cd276ef842247776a", null ],
+    [ "Reset", "d0/d22/a14586.html#a9d5f6922a52146b61168f1c50b378294", null ],
+    [ "SpellHit", "d0/d22/a14586.html#a401db237c45efde3a30cdca6cb4f95c0", null ],
+    [ "UpdateAI", "d0/d22/a14586.html#aca53b8839bce5e180ba8583490d694c3", null ],
+    [ "timer", "d0/d22/a14586.html#a1f236cdfeec366f0d830e0fceafa6d25", null ]
 ];

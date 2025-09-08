@@ -1,8 +1,6 @@
 var a25170 =
 [
-    [ "CheckProc", "d2/dac/a25170.html#a1ba43a41ca6909f2bd377290b1b0b12b", null ],
-    [ "HandleProc", "d2/dac/a25170.html#a9d0df8ec96c17661daaf620dd88cecd5", null ],
-    [ "PrepareAuraScript", "d2/dac/a25170.html#af474a768c441fb666163f4ebd5068393", null ],
-    [ "Register", "d2/dac/a25170.html#ae533e87550b1aedc67b67c217495286d", null ],
-    [ "Validate", "d2/dac/a25170.html#ab6e36f24dea949c8cedaaed0d5fa9517", null ]
+    [ "HandleScript", "d2/dac/a25170.html#aa6104370d5700e43223c7138e941ba05", null ],
+    [ "PrepareSpellScript", "d2/dac/a25170.html#ae4177c84bf0c63aadaa7486603df04d0", null ],
+    [ "Register", "d2/dac/a25170.html#a88a8534a1dd825a14fd6b10933986eb7", null ]
 ];

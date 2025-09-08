@@ -1,6 +1,5 @@
 var a20358 =
 [
-    [ "npc_ulduar_icicleAI", "df/d53/a20362.html", "df/d53/a20362" ],
-    [ "npc_ulduar_icicle", "d2/dd7/a20358.html#a1ab79b2fa3e64779f62b96c195222683", null ],
-    [ "GetAI", "d2/dd7/a20358.html#a71dd83d544307b11bcde58f9aeea097c", null ]
+    [ "go_ulduar_pure_saronite_deposit", "d2/dd7/a20358.html#a39da51a78b9f27392ed7494e18e89b93", null ],
+    [ "OnGossipHello", "d2/dd7/a20358.html#ab69c5b514e0b79ff7155e0080841d4a2", null ]
 ];

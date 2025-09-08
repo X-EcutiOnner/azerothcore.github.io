@@ -1,7 +1,7 @@
 var a11262 =
 [
-    [ "WorldObjectSpellNearbyTargetCheck", "dd/d1f/a11262.html#afda548f6394c5d11a7ca229fe6b3d402", null ],
-    [ "operator()", "dd/d1f/a11262.html#a731ee07d028a5ee63ecd14321c83664d", null ],
-    [ "_position", "dd/d1f/a11262.html#a7b19899dd015a73bd1ae4c71fa9ae79d", null ],
-    [ "_range", "dd/d1f/a11262.html#abfec0df490876b2b83dcdee4da75a77f", null ]
+    [ "effectMask", "dd/d1f/a11262.html#a07d70f3c2425f07a36db90e9fd5b3c97", null ],
+    [ "processed", "dd/d1f/a11262.html#aedfa36678be863a558ecd0ecc07cc544", null ],
+    [ "targetGUID", "dd/d1f/a11262.html#a619f98bf094d2667048204f733d64d0c", null ],
+    [ "timeDelay", "dd/d1f/a11262.html#ab552326c0780fe62ff95b02249458492", null ]
 ];

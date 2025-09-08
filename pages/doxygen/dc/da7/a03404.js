@@ -28,7 +28,6 @@ var a03404 =
     [ "VISIBILITY_DISTANCE_NORMAL", "dc/da7/a03404.html#a4ff4df7e2c9ebd38bfd8c298708deba9", null ],
     [ "VISIBILITY_DISTANCE_SMALL", "dc/da7/a03404.html#ae57720dd4437b418bb332db290c71d45", null ],
     [ "VISIBILITY_DISTANCE_TINY", "dc/da7/a03404.html#a3e2fbd681c4b511f283f7b4d429a5f80", null ],
-    [ "VISIBILITY_INC_FOR_GOBJECTS", "dc/da7/a03404.html#aaeef4cd88d0d15aab096215c91394412", null ],
     [ "VisibilityDistanceType", "dc/da7/a03404.html#ae675d6469643e2aca0b1840013245a1d", [
       [ "Normal", "dc/da7/a03404.html#ae675d6469643e2aca0b1840013245a1da960b44c579bc2f6818d2daaf9e4c16f0", null ],
       [ "Tiny", "dc/da7/a03404.html#ae675d6469643e2aca0b1840013245a1da383c05bda6f030a44990d354b24f3338", null ],

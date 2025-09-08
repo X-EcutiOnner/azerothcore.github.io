@@ -1,6 +1,6 @@
 var a01109 =
 [
-    [ "boss_blackheart_the_inciter", "d7/d97/a22838.html", "d7/d97/a22838" ],
+    [ "boss_blackheart_the_inciter", "d3/dc0/a22858.html", "d3/dc0/a22858" ],
     [ "Npc", "d8/dbf/a01109.html#a8d8031a9ef6bd14633aa0a1bc87e2753", [
       [ "NPC_IRON_SLUDGE", "d1/d46/a01739.html#a8d8031a9ef6bd14633aa0a1bc87e2753a8ef27256382a54362848418fa570723e", null ],
       [ "NPC_DWARFES_FRIENDLY", "d1/d46/a01739.html#a8d8031a9ef6bd14633aa0a1bc87e2753a0bd0bac75b5f94a8f392db802d5d55b7", null ],

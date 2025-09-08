@@ -1,9 +1,11 @@
 var a17254 =
 [
-    [ "npc_pos_collapsing_icicleAI", "d8/dcf/a17254.html#a007e4bad6ef41729d3f7b7ade4285dfe", null ],
-    [ "SpellHitTarget", "d8/dcf/a17254.html#aea107ede3b11726b3f7caae590edaf52", null ],
-    [ "UpdateAI", "d8/dcf/a17254.html#ade416a422e67ce61e8874320cce7143b", null ],
-    [ "pInstance", "d8/dcf/a17254.html#a8c7e2643c2d443b382a60f28ea74266c", null ],
-    [ "timer1", "d8/dcf/a17254.html#a5757c27b8c8840cec6ad7282f0cbf51b", null ],
-    [ "timer2", "d8/dcf/a17254.html#aee61de504cfb25d9a99651a58ea0b63c", null ]
+    [ "npc_pos_tyrannus_eventsAI", "d8/dcf/a17254.html#a51769d22a4cb448fae90d827e2494581", null ],
+    [ "MovementInform", "d8/dcf/a17254.html#ac0d1550855988fe6f562e8a0a6ada80f", null ],
+    [ "SetData", "d8/dcf/a17254.html#a8f8bbb06c50215c90cf11ddbc925ba5d", null ],
+    [ "UpdateAI", "d8/dcf/a17254.html#a6c4d82c46547bbb2f86dd7f9fa88c743", null ],
+    [ "deathbringerGUID", "d8/dcf/a17254.html#a21ea8c66374403d0eca83e4d24c80a7a", null ],
+    [ "events", "d8/dcf/a17254.html#a317d48c75a93ef5abaa3329ab10a1c8e", null ],
+    [ "killsLeft", "d8/dcf/a17254.html#ac81d85e0ceb0b571373f44475baa36df", null ],
+    [ "pInstance", "d8/dcf/a17254.html#a44460335986bcedf35dc295c242df6da", null ]
 ];

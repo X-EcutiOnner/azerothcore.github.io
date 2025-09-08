@@ -1,6 +1,6 @@
 var a20062 =
 [
-    [ "npc_freya_wardAI", "de/df4/a20066.html", "de/df4/a20066" ],
-    [ "npc_freya_ward", "d2/daa/a20062.html#aebaadcc001922c78e8ec43084a827ac9", null ],
-    [ "GetAI", "d2/daa/a20062.html#a90c0e7a0be1717bf1793415b6fcafbed", null ]
+    [ "boss_flame_leviathan_defense_turretAI", "de/df4/a20066.html", "de/df4/a20066" ],
+    [ "boss_flame_leviathan_defense_turret", "d2/daa/a20062.html#a939c66ff6c1eb6dfdb3d93b3d0292e40", null ],
+    [ "GetAI", "d2/daa/a20062.html#a1c3726e2b753cda18bd11d8f4ff154db", null ]
 ];

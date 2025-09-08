@@ -1,5 +1,7 @@
 var a14614 =
 [
-    [ "MidsummerPlayerScript", "d3/dd9/a14614.html#ace19c3dfaec5aa5bdfab46552a759306", null ],
-    [ "OnPlayerUpdateZone", "d3/dd9/a14614.html#af512e1744264ac69fe2b7f7ba3836760", null ]
+    [ "HandleEffectApply", "d3/dd9/a14614.html#ad48d832fef881bfb517fb8df694b7507", null ],
+    [ "HandleEffectRemove", "d3/dd9/a14614.html#a1534b010301dbaff66d41443142c50b7", null ],
+    [ "PrepareAuraScript", "d3/dd9/a14614.html#ab4bba02a5e2196ad65ccea94a4615a9d", null ],
+    [ "Register", "d3/dd9/a14614.html#a97a0003cca808e5b03f720bb3be07419", null ]
 ];

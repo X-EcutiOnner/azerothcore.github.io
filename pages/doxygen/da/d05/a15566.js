@@ -1,6 +1,7 @@
 var a15566 =
 [
-    [ "npc_rabid_thistle_bearAI", "dd/dae/a15570.html", "dd/dae/a15570" ],
-    [ "npc_rabid_thistle_bear", "da/d05/a15566.html#a34b20a4ea22d74352712dee105247d56", null ],
-    [ "GetAI", "da/d05/a15566.html#ab5c21cd3afa0bd13c937e6acf1912af4", null ]
+    [ "npc_kerlonianAI", "dd/dae/a15570.html", "dd/dae/a15570" ],
+    [ "npc_kerlonian", "da/d05/a15566.html#a8a5ab1fde9f21ac256d5168ef3f17f87", null ],
+    [ "GetAI", "da/d05/a15566.html#a93d93ba13d8521fee39801473b7c4b6a", null ],
+    [ "OnQuestAccept", "da/d05/a15566.html#a257d24295318605ac2fd5554315dfd63", null ]
 ];

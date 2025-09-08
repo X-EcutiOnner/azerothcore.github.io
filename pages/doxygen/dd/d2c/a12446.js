@@ -1,6 +1,8 @@
 var a12446 =
 [
-    [ "boss_razorgoreAI", "d8/d48/a12450.html", "d8/d48/a12450" ],
-    [ "boss_razorgore", "dd/d2c/a12446.html#aee534a04797c5938e6da00f2ab119943", null ],
-    [ "GetAI", "dd/d2c/a12446.html#a4683a5deefdb9d3219638189e9a99c2a", null ]
+    [ "FilterTargets", "dd/d2c/a12446.html#a03acb7fb2734d9c8e8e623600bc16859", null ],
+    [ "FilterTargetsEff", "dd/d2c/a12446.html#a8aeffd2a01c805246c33d22a59274c6f", null ],
+    [ "PrepareSpellScript", "dd/d2c/a12446.html#ae00bc9956c9971d62d9185c72d3bd8b5", null ],
+    [ "Register", "dd/d2c/a12446.html#aba646a238c3b4b7343f3eec8c6445eb5", null ],
+    [ "targetList", "dd/d2c/a12446.html#a874dc7877ecfae332c9f826f01afce0f", null ]
 ];

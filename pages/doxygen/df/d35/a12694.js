@@ -1,7 +1,6 @@
 var a12694 =
 [
-    [ "npc_kernobeeAI", "df/d4c/a12698.html", "df/d4c/a12698" ],
-    [ "npc_kernobee", "df/d35/a12694.html#a325aa3f9962cb99b4af362a23c1b16d8", null ],
-    [ "GetAI", "df/d35/a12694.html#a13da5b7e79ada7c5a88e84ca551ce8eb", null ],
-    [ "OnQuestAccept", "df/d35/a12694.html#aa830285cf19211b8233620257735ab62", null ]
+    [ "instance_deadmines_InstanceMapScript", "df/d4c/a12698.html", "df/d4c/a12698" ],
+    [ "instance_deadmines", "df/d35/a12694.html#a91ec4b9d2c4dcb3b8a2822431259bc08", null ],
+    [ "GetInstanceScript", "df/d35/a12694.html#ac5cb65972d52324cedf662cc44dca626", null ]
 ];

@@ -1,6 +1,7 @@
 var a19266 =
 [
-    [ "WebTargetSelector", "d6/d4c/a19266.html#a2f19cffab18fd6f2f5a1d296aa1db47d", null ],
-    [ "operator()", "d6/d4c/a19266.html#a289821eaae114ba384a9ee9b8c19325f", null ],
-    [ "_maexxna", "d6/d4c/a19266.html#ad21c9ac380f7b97aacc06f08f1c45974", null ]
+    [ "FilterTargets", "d6/d4c/a19266.html#af92aec0df6c962a10ccbebb366081cfd", null ],
+    [ "PrepareSpellScript", "d6/d4c/a19266.html#ad7ccb2b2024887ec0a9802454a8bfaec", null ],
+    [ "Register", "d6/d4c/a19266.html#af59416debfc7685bec92541a00e1dafe", null ],
+    [ "Validate", "d6/d4c/a19266.html#abbe7ae557fb510457504f72adfa0aedc", null ]
 ];

@@ -1,6 +1,7 @@
 var a17898 =
 [
-    [ "DaranavanMoveEvent", "d5/d44/a17898.html#add38d87b9108c09aa9b9fd60f12abcde", null ],
-    [ "Execute", "d5/d44/a17898.html#ada0ebc4a9c9f949dd0155a554a553543", null ],
-    [ "_darnavan", "d5/d44/a17898.html#a7585edb957755efbc6064f232d50ea4e", null ]
+    [ "PrepareSpellScript", "d5/d44/a17898.html#a21bd67c024c5dcfb8496778f67eb48eb", null ],
+    [ "Register", "d5/d44/a17898.html#aff4f05a5a4742a408646000b7cece38c", null ],
+    [ "RemovePassengers", "d5/d44/a17898.html#a77c63e85233e2ef14bf06c82ad27c4b2", null ],
+    [ "Validate", "d5/d44/a17898.html#a2a8da9d150804f979f2313f623ad7760", null ]
 ];

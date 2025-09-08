@@ -1,6 +1,7 @@
 var a18254 =
 [
-    [ "FilterTargets", "d4/d70/a18254.html#aae21b2d9ecc5bfd317f065f1da46b696", null ],
-    [ "PrepareSpellScript", "d4/d70/a18254.html#a2a7e37db10a6f8a6c86af92d7b492a29", null ],
-    [ "Register", "d4/d70/a18254.html#a6e541cad4c831ee2eaf19d72324ec38c", null ]
+    [ "HandleScript", "d4/d70/a18254.html#a5fbb1d26c4e7d5d21745004e477b3c1e", null ],
+    [ "PrepareSpellScript", "d4/d70/a18254.html#a7e6b56f426be7925255da3ebc239f909", null ],
+    [ "Register", "d4/d70/a18254.html#a0eb2d734ac99d3a036b95b6daa39b9f5", null ],
+    [ "Validate", "d4/d70/a18254.html#a86b4296eab73fc63b38558871f16a889", null ]
 ];

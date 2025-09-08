@@ -1,7 +1,6 @@
 var a21246 =
 [
-    [ "npc_frost_tomb", "db/da9/a21246.html#a9c7abe1dc25b807d34f1ed818ab639ef", null ],
-    [ "JustDied", "db/da9/a21246.html#a40a14647eaf9f2c5bd11c094f0aadb79", null ],
-    [ "UpdateAI", "db/da9/a21246.html#af2122e9c8cb206151f631659c7d167da", null ],
-    [ "PrisonerGUID", "db/da9/a21246.html#a456fcd5dd3f504954a74fc068f253dc2", null ]
+    [ "HandleEffectPeriodic", "db/da9/a21246.html#a3dd6eaa3e5800b92e19c12e47b0ad132", null ],
+    [ "PrepareAuraScript", "db/da9/a21246.html#a0b24e94cfce6b57d2dc8b36c3fe1c39f", null ],
+    [ "Register", "db/da9/a21246.html#a4dd779cac93c2f847495dadc67c0beb2", null ]
 ];

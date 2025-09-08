@@ -1,8 +1,9 @@
 var a26982 =
 [
-    [ "Detonate", "d1/d4f/a26982.html#a89f46334c78fc190afd7b03706fa2513", null ],
-    [ "HandleProc", "d1/d4f/a26982.html#a82ad88c757eed35f7e0f2af38ceb2273", null ],
-    [ "PrepareAuraScript", "d1/d4f/a26982.html#a7268602da6dc74d7c501fb90c8167226", null ],
-    [ "Register", "d1/d4f/a26982.html#ac1574e943840e5f15a808ed4d338cd5f", null ],
-    [ "Validate", "d1/d4f/a26982.html#abbc5c9d069e716d9356ec366713abb84", null ]
+    [ "CheckCast", "d1/d4f/a26982.html#a441927e0d8d7304030440c19458eb34d", null ],
+    [ "HandleScriptEffect", "d1/d4f/a26982.html#a10e9691aa15869c82fba79072a314d7e", null ],
+    [ "PrepareSpellScript", "d1/d4f/a26982.html#a90b8ae945aeb85ad6e8a120501288979", null ],
+    [ "Register", "d1/d4f/a26982.html#aac95bd6f7409e1ae9d3f9cf0c7212990", null ],
+    [ "Validate", "d1/d4f/a26982.html#a00c67b65bcfdeaf56295da6a64689d58", null ],
+    [ "iTypes", "d1/d4f/a26982.html#ae852b9df34612c074eab23b025c86870", null ]
 ];

@@ -1,6 +1,6 @@
 var a12398 =
 [
-    [ "boss_victor_nefariusAI", "d2/d5b/a12402.html", "d2/d5b/a12402" ],
-    [ "boss_victor_nefarius", "da/d71/a12398.html#a85c529c49a0373a553bc59818fb18f49", null ],
-    [ "GetAI", "da/d71/a12398.html#a6ea19bde6980cbb4ca627d17cf57ae24", null ]
+    [ "boss_firemawAI", "da/d71/a12398.html#ab3f56c97119676b1a75662e52caecb75", null ],
+    [ "JustEngagedWith", "da/d71/a12398.html#a04cb1d2fa18dba82b9c881b09406a076", null ],
+    [ "UpdateAI", "da/d71/a12398.html#a6e35e47b23d713263ef00769324bbbed", null ]
 ];

@@ -1,5 +1,8 @@
 var a21690 =
 [
-    [ "npc_khunok_the_behemothAI", "d7/d36/a21690.html#a435ac0418fe4bba1d2877ce6bea6451c", null ],
-    [ "MoveInLineOfSight", "d7/d36/a21690.html#a5d54954a159da764aa7b83579e03688c", null ]
+    [ "HandleEffectRemove", "d7/d36/a21690.html#aa2b05befb775244423264f6b5e2387c1", null ],
+    [ "Load", "d7/d36/a21690.html#a02ea4c29f2c7e15a5039b93d7a0d3c5e", null ],
+    [ "PrepareAuraScript", "d7/d36/a21690.html#a632e81cc39bdcd0f5adcc684231d1171", null ],
+    [ "Register", "d7/d36/a21690.html#aba5483b1d35c1b58841fad2b1086f07c", null ],
+    [ "Validate", "d7/d36/a21690.html#ada90e1f06ced8f4e353fe2bda3d31637", null ]
 ];

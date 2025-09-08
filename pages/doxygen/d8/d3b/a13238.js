@@ -1,14 +1,20 @@
 var a13238 =
 [
-    [ "boss_kirtonos_the_heraldAI", "d8/d3b/a13238.html#af68c553db0889c22b7b4b76c868d38e7", null ],
-    [ "DoAction", "d8/d3b/a13238.html#ade11c2ff67c93f09f34b7b0e59766cc3", null ],
-    [ "EnterEvadeMode", "d8/d3b/a13238.html#a92ee25d349cc1ae3e46e4696a01697c3", null ],
-    [ "JustDied", "d8/d3b/a13238.html#a7ecf7396ebcb6f541586435996094f56", null ],
-    [ "JustEngagedWith", "d8/d3b/a13238.html#abcf09a75bed393e5fc03ef184e5c2918", null ],
-    [ "MovementInform", "d8/d3b/a13238.html#a16379320eebb8223a79cf3927bdc507e", null ],
-    [ "UpdateAI", "d8/d3b/a13238.html#a7eedcb1416d05b95f6110751119aea02", null ],
-    [ "events", "d8/d3b/a13238.html#a5dd38f68ce8745484cbc00dadde439dc", null ],
-    [ "events2", "d8/d3b/a13238.html#aaf9216da4f5394953d0316be8d8e8c4f", null ],
-    [ "instance", "d8/d3b/a13238.html#acae39cf7bc9a6d68834d3916fa75a006", null ],
-    [ "TransformsCount", "d8/d3b/a13238.html#aa0834b23d00463ae36bb0ec6a2067257", null ]
+    [ "boss_darkmaster_gandlingAI", "d8/d3b/a13238.html#a1fbd651c6f5ad3630ae450c6a523360c", null ],
+    [ "FindRoom", "d8/d3b/a13238.html#a7ca1847b3223c82f7c190546809c49bc", null ],
+    [ "GetData", "d8/d3b/a13238.html#a06e03e66d7a99a98ba915057c0082217", null ],
+    [ "JustDied", "d8/d3b/a13238.html#afaac9e6939e0d873f576129546560fba", null ],
+    [ "JustEngagedWith", "d8/d3b/a13238.html#aa71a73d3804187c6b89566ec3d1cd6ed", null ],
+    [ "JustSummoned", "d8/d3b/a13238.html#a24e4031367eb59ad7a9ea352bd0b4ccd", null ],
+    [ "OpenAllGates", "d8/d3b/a13238.html#ab28b7d97956c21515c9872d8f9122f18", null ],
+    [ "Reset", "d8/d3b/a13238.html#a8244b7b91de9a0413193001f41288f7f", null ],
+    [ "SetData", "d8/d3b/a13238.html#a1b7ed8e98d4a271dfd8df76738cc0072", null ],
+    [ "SetGate", "d8/d3b/a13238.html#a32fbc731852f46fbdd36b36764dd2303", null ],
+    [ "SpawnMobsInRoom", "d8/d3b/a13238.html#a68adf734efff345529dbb74bebe15798", null ],
+    [ "SpellHitTarget", "d8/d3b/a13238.html#ae98715a31cd22febb1725977556a48aa", null ],
+    [ "SummonedCreatureDespawn", "d8/d3b/a13238.html#aa0abb31ac1a05c4a99e4b8079410867a", null ],
+    [ "UpdateAI", "d8/d3b/a13238.html#a2c525445ad39ddc47366f3f632014d89", null ],
+    [ "current_room", "d8/d3b/a13238.html#a597f7ee62ee41ff6a1a12a6c9dd7cd93", null ],
+    [ "Guardians", "d8/d3b/a13238.html#a3681da718192f0f961282fa4f655355e", null ],
+    [ "summons", "d8/d3b/a13238.html#a745d411fc485892529cb4cc6f06ba3af", null ]
 ];

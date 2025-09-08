@@ -1,5 +1,7 @@
 var a23510 =
 [
-    [ "boss_quagmirran", "d6/ddc/a23510.html#a7f6289b86216b052f434a1417023e22c", null ],
-    [ "JustEngagedWith", "d6/ddc/a23510.html#a28253b6653bd2e26e7f246c71a88b625", null ]
+    [ "HandleScriptEffect", "d6/ddc/a23510.html#ad5e905710a20436f120c979c865571c9", null ],
+    [ "PrepareSpellScript", "d6/ddc/a23510.html#ab44aa98f47162b50f30622d67ac75395", null ],
+    [ "Register", "d6/ddc/a23510.html#ad4c2bf1a8556b6fb85c05d3c83494fed", null ],
+    [ "Validate", "d6/ddc/a23510.html#a9b1baeb7a677d5b0f72bbeeeab9a94a2", null ]
 ];

@@ -1,5 +1,5 @@
 var a04863 =
 [
-    [ "LFGJoin", "de/de2/a10858.html", "de/de2/a10858" ],
-    [ "LFGLeave", "d1/dfa/a10862.html", "d1/dfa/a10862" ]
+    [ "LFGJoin", "d2/d74/a10874.html", "d2/d74/a10874" ],
+    [ "LFGLeave", "db/d8b/a10878.html", "db/d8b/a10878" ]
 ];

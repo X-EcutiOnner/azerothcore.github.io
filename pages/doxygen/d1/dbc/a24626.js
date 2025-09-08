@@ -1,6 +1,5 @@
 var a24626 =
 [
-    [ "HandleEffectRemove", "d1/dbc/a24626.html#a9472b79a272aff36be657b66883d822f", null ],
-    [ "PrepareAuraScript", "d1/dbc/a24626.html#ad46fedf6ef019d1b5e93d98e7bba8417", null ],
-    [ "Register", "d1/dbc/a24626.html#ace15e1f5c158f1f203862b40da2cf8fc", null ]
+    [ "npc_pet_pri_lightwell", "d1/dbc/a24626.html#aebeb192e66c7d5b4201cbaa81d46703c", null ],
+    [ "InitializeAI", "d1/dbc/a24626.html#a5244bcfab27ccad603f80c6f2b2fcd3a", null ]
 ];

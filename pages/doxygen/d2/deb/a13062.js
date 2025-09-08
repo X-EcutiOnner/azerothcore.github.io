@@ -1,8 +1,7 @@
 var a13062 =
 [
-    [ "npc_dkc1_gothikAI", "d2/deb/a13062.html#a35e65bd943f86ba3a1d6841569289df6", null ],
-    [ "DoAction", "d2/deb/a13062.html#a3193c562973bbf995ab5e0173a93d01f", null ],
-    [ "MoveInLineOfSight", "d2/deb/a13062.html#ac2ee224af001a78aa00013f6c8c9ad3d", null ],
-    [ "UpdateAI", "d2/deb/a13062.html#a346d32c9831babe6fb5f675b70b7a897", null ],
-    [ "spoken", "d2/deb/a13062.html#ac6f32e953a66f9e96ddc99b663014b0c", null ]
+    [ "HandleScriptEffect", "d2/deb/a13062.html#a2ac898d186e755fbf3b3ae8812e8e579", null ],
+    [ "PrepareSpellScript", "d2/deb/a13062.html#ac3ee8d5d585eea8cbcd5e61c34c71fa5", null ],
+    [ "Register", "d2/deb/a13062.html#a99b753e49d18109e8c9c3ac7e616ce2c", null ],
+    [ "Validate", "d2/deb/a13062.html#a20f7416465ba1cc04426f24037e8074e", null ]
 ];

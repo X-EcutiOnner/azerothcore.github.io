@@ -1,5 +1,6 @@
 var a14726 =
 [
-    [ "achievement_pb_terokkar_turkey_time", "dd/d2d/a14726.html#a68e536379b04e060f44819c9831766c2", null ],
-    [ "OnCheck", "dd/d2d/a14726.html#a8e6b82b95974ec27fd578481a1a23ae0", null ]
+    [ "OnAuraRemove", "dd/d2d/a14726.html#ad16e8b64999771154360afad71454c07", null ],
+    [ "PrepareAuraScript", "dd/d2d/a14726.html#a70963be80861e10ecd093e40b77e7078", null ],
+    [ "Register", "dd/d2d/a14726.html#a7381cbea873fb57485e4539aa478d236", null ]
 ];

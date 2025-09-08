@@ -1,12 +1,12 @@
 var a11934 =
 [
-    [ "boss_balinda", "d7/d50/a11934.html#a2f3ce696dbc66843cddc13196800866b", null ],
-    [ "DamageTaken", "d7/d50/a11934.html#a826ad90ac15b3421e16fc3faa96784e7", null ],
-    [ "JustDied", "d7/d50/a11934.html#aeb10053198b9b4c43e963d23957ba9ba", null ],
-    [ "JustEngagedWith", "d7/d50/a11934.html#aa0b78302a92bf39ffee51ce3a71fb534", null ],
-    [ "JustSummoned", "d7/d50/a11934.html#a3c2306326d2f85fbb6766352117a1f91", null ],
-    [ "Reset", "d7/d50/a11934.html#a1ecfa5d743682997076a47cce44b19f5", null ],
-    [ "UpdateAI", "d7/d50/a11934.html#af3506dd75baef12fd0328aed21636978", null ],
-    [ "_hasCastIceBlock", "d7/d50/a11934.html#a05c24746060d7c9a3712d9f269b4af8e", null ],
-    [ "summons", "d7/d50/a11934.html#a83df5856391f0ba62dcb0538b7f44e2d", null ]
+    [ "wp_commandscript", "d7/d50/a11934.html#a152610b5faf3ee05bb830bbf820b7162", null ],
+    [ "GetCommands", "d7/d50/a11934.html#a55ecc8d67d7c240df1b177f755fc5850", null ],
+    [ "HandleWpAddCommand", "d7/d50/a11934.html#adedc9b5184e1c29edfa80734e59b8bf0", null ],
+    [ "HandleWpEventCommand", "d7/d50/a11934.html#a16fdb79724677307198ccf2fd6aa670d", null ],
+    [ "HandleWpLoadCommand", "d7/d50/a11934.html#a3fae6e6c16f1f6ed1e9dc9da716d064d", null ],
+    [ "HandleWpModifyCommand", "d7/d50/a11934.html#a83677a6b64c3e5f6e44345026775721a", null ],
+    [ "HandleWpReloadCommand", "d7/d50/a11934.html#a671598d3727fa7e9358391008c690cb6", null ],
+    [ "HandleWpShowCommand", "d7/d50/a11934.html#ac07358385858058e3df99bd0dd9ab5c1", null ],
+    [ "HandleWpUnLoadCommand", "d7/d50/a11934.html#a8e0f636c31f69acf5b9b0b27e9a9462e", null ]
 ];

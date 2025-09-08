@@ -1,5 +1,6 @@
 var a27378 =
 [
-    [ "go_resonite_cask", "d8/d64/a27378.html#a5a89aa97a4cd31d7ae183649ee750b74", null ],
-    [ "OnGossipHello", "d8/d64/a27378.html#aae8591d53a6983886b52d404acdba293", null ]
+    [ "go_witherbark_totem_bundleAI", "df/d1b/a27382.html", "df/d1b/a27382" ],
+    [ "go_witherbark_totem_bundle", "d8/d64/a27378.html#affcdff7ec6894add0acec842028efd2e", null ],
+    [ "GetAI", "d8/d64/a27378.html#a5ac2b3b572d67fdcc587f242f3d50f97", null ]
 ];

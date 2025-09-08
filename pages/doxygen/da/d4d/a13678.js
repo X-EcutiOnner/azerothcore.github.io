@@ -1,7 +1,8 @@
 var a13678 =
 [
-    [ "HandleScriptEffect", "da/d4d/a13678.html#aa537704c2066df4f5b4c60a775026a83", null ],
-    [ "PrepareSpellScript", "da/d4d/a13678.html#ac500902c22102ebfc6dcf6f78f0dd8c1", null ],
-    [ "Register", "da/d4d/a13678.html#a1d9cfdc65bd5ae76376e709d0ac891c0", null ],
-    [ "Validate", "da/d4d/a13678.html#a9ef5a491b5a06c31cdb0249dc086e32f", null ]
+    [ "HandleEffectApply", "da/d4d/a13678.html#afd47748c7db2e0a5b7da2e18dc7b53ec", null ],
+    [ "HandleEffectRemove", "da/d4d/a13678.html#a87a0061366829cbc6f856cc1f7ea1105", null ],
+    [ "Load", "da/d4d/a13678.html#a2e3b53977f188ed28d9deedbcbc03e6b", null ],
+    [ "PrepareAuraScript", "da/d4d/a13678.html#a99b97b2ed12d73e417af0b970c2a9645", null ],
+    [ "Register", "da/d4d/a13678.html#a6a90296c9903ce65913f3bba29dea176", null ]
 ];

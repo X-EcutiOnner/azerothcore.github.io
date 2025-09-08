@@ -1,6 +1,6 @@
 var a18666 =
 [
-    [ "npc_valithria_cloudAI", "db/dfd/a18670.html", "db/dfd/a18670" ],
-    [ "npc_valithria_cloud", "d3/d54/a18666.html#a11d1bdc4c6e8210e2d0706f33d369dde", null ],
-    [ "GetAI", "d3/d54/a18666.html#afeff905cec1245dbac6fa59673aef015", null ]
+    [ "npc_risen_archmageAI", "db/dfd/a18670.html", "db/dfd/a18670" ],
+    [ "npc_risen_archmage", "d3/d54/a18666.html#adf6dfe2a00325955939c84bcc1e4eb68", null ],
+    [ "GetAI", "d3/d54/a18666.html#a8e8c4913e163c5d649fa79c2eb424864", null ]
 ];

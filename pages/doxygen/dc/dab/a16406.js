@@ -1,9 +1,13 @@
 var a16406 =
 [
-    [ "npc_memoryAI", "dc/dab/a16406.html#ad927d377d60b44f43808469042f5feb9", null ],
-    [ "JustDied", "dc/dab/a16406.html#a7b0484919d671877f29dfa05ca1265d9", null ],
-    [ "Reset", "dc/dab/a16406.html#a985c51bbfa2cceeb7601432491253aaf", null ],
-    [ "UpdateAI", "dc/dab/a16406.html#a6cb74389f5aea91d2062e007ea08acd7", null ],
-    [ "events", "dc/dab/a16406.html#a2ed2993e89728a3723456a67e13581f7", null ],
-    [ "pInstance", "dc/dab/a16406.html#a31bcb5041844ea5e3a076ad1366897e1", null ]
+    [ "boss_eadricAI", "dc/dab/a16406.html#a461043fe1bff0f5478e2a57504e7477c", null ],
+    [ "DamageTaken", "dc/dab/a16406.html#a440899ffdeda7794ef4fa5530638eecc", null ],
+    [ "JustEngagedWith", "dc/dab/a16406.html#a09a0cebcdffb00e37e9d60111c582669", null ],
+    [ "KilledUnit", "dc/dab/a16406.html#a0bc5d9ba3f45460e62eebdad4e68b8bd", null ],
+    [ "MovementInform", "dc/dab/a16406.html#aa20253b3f0aec2678b2e3b1c3a9d1a47", null ],
+    [ "Reset", "dc/dab/a16406.html#a8776bc2937ed9dc4decd1e71929edf65", null ],
+    [ "SpellHit", "dc/dab/a16406.html#aef7c66b9ff0a728c140899940a2d7e85", null ],
+    [ "UpdateAI", "dc/dab/a16406.html#a38e8052f3e5d8d81bb4b79fb41717efb", null ],
+    [ "events", "dc/dab/a16406.html#a5804ea238fd1c32201c3be943d2fe5ca", null ],
+    [ "pInstance", "dc/dab/a16406.html#a43a8f2beebae9bb27ff03e0e9af2d36b", null ]
 ];

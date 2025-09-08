@@ -1,6 +1,6 @@
 var a16370 =
 [
-    [ "HandleScript", "dc/d19/a16370.html#a647f39eb125537cd7545ab4115be1091", null ],
-    [ "PrepareSpellScript", "dc/d19/a16370.html#a55dec84643f9bd536c7c73b5909ab303", null ],
-    [ "Register", "dc/d19/a16370.html#a0077abbe11092b9636c3bb7b5c367946", null ]
+    [ "npc_living_infernoAI", "dc/d19/a16370.html#ab33eeac6aab8e18778fc7d4ffe5038f1", null ],
+    [ "IsSummonedBy", "dc/d19/a16370.html#a4b6986a392aee0741ba47651e809c76c", null ],
+    [ "JustDied", "dc/d19/a16370.html#a60b2e31d24e182e97d604d91223e2dc8", null ]
 ];

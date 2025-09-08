@@ -1,6 +1,8 @@
 var a10278 =
 [
-    [ "BattlegroundMapScript", "df/d88/a10278.html#a61e1c0f145064cbc6c8708824a359e4c", null ],
-    [ "checkValidity", "df/d88/a10278.html#a90584770132eb71cffc6e25a674750ad", null ],
-    [ "isAfterLoadScript", "df/d88/a10278.html#a0148a79556f82c990fe0fc494d03c7ab", null ]
+    [ "_OnTrigger", "df/d88/a10278.html#a6da93a21c84345bd77e467377810e756", null ],
+    [ "AreaTriggerScript", "df/d88/a10278.html#a478e4dee0f4211af9be6ea448d4e6c89", null ],
+    [ "OnTrigger", "df/d88/a10278.html#a4ac7e4963d36c8163a560dc8401b5f34", null ],
+    [ "ResetAreaTriggerDone", "df/d88/a10278.html#a3b44c1892c1100028b387d15bfbdae60", null ],
+    [ "ResetAreaTriggerDone", "df/d88/a10278.html#a3917da4a6f605077720172cda25322ee", null ]
 ];

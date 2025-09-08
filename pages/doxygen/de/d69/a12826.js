@@ -1,6 +1,5 @@
 var a12826 =
 [
-    [ "HandleCast", "de/d69/a12826.html#aefe0621647cd9e25f19063eb5ce4dd69", null ],
-    [ "PrepareSpellScript", "de/d69/a12826.html#afb4d3414a0da5e2701ee114349cf64ce", null ],
-    [ "Register", "de/d69/a12826.html#a261a63e366c22c6bf2d1d7dfec97c6e2", null ]
+    [ "at_karazhan_atiesh_aran", "de/d69/a12826.html#ac84f5848b8a26cbfdd2544108567a6cc", null ],
+    [ "OnTrigger", "de/d69/a12826.html#a5a6646c573b6e0bab0cbc288e594979e", null ]
 ];

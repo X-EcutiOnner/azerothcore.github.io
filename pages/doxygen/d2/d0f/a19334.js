@@ -1,6 +1,10 @@
 var a19334 =
 [
-    [ "boss_thaddiusAI", "d9/d9f/a19338.html", "d9/d9f/a19338" ],
-    [ "boss_thaddius", "d2/d0f/a19334.html#aff97b030b861feb646e1b22f60ee3605", null ],
-    [ "GetAI", "d2/d0f/a19334.html#acf841c6897396f517a74932fc3480e69", null ]
+    [ "boss_razuvious_minionAI", "d2/d0f/a19334.html#a6f9fc7dad68f35846ee76d4bff564407", null ],
+    [ "DoAction", "d2/d0f/a19334.html#a93cfa3f706ffadd94ad4dbe0585eebf1", null ],
+    [ "JustEngagedWith", "d2/d0f/a19334.html#ada2e7a5ac1f129572a0689afce49d310", null ],
+    [ "KilledUnit", "d2/d0f/a19334.html#ab1a6f582098c9d1218551af0aae1815d", null ],
+    [ "Reset", "d2/d0f/a19334.html#a170de8517a03a0e78b1e67652869fd9a", null ],
+    [ "ScheduleAttackDummy", "d2/d0f/a19334.html#abed82c71605d7c57bf29cedc21fc6b24", null ],
+    [ "UpdateAI", "d2/d0f/a19334.html#ad56fca0ae00fba6e575baefd72c7a8d0", null ]
 ];

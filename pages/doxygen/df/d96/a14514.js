@@ -1,6 +1,6 @@
 var a14514 =
 [
-    [ "HandleScript", "df/d96/a14514.html#aa60824ed67ae87e96117fc5bf90bec8c", null ],
-    [ "PrepareSpellScript", "df/d96/a14514.html#aab4303fff660c68db100e07a4423c39b", null ],
-    [ "Register", "df/d96/a14514.html#a0fbc130652e58d9418cb3c5036b6aed2", null ]
+    [ "gameobjectId", "df/d96/a14514.html#a5cebf652fccc66cb5f98968036405d14", null ],
+    [ "spawnIndex", "df/d96/a14514.html#a5e8b95d6ecf69db8736941b67e2478d8", null ],
+    [ "timestamp", "df/d96/a14514.html#a0c49f62b35e906637890fee896c74951", null ]
 ];

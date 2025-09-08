@@ -1,6 +1,10 @@
 var a16882 =
 [
-    [ "boss_trollgoreAI", "d7/d49/a16886.html", "d7/d49/a16886" ],
-    [ "boss_trollgore", "d7/d94/a16882.html#a95102f1fae6c667e0780b8b388fc156b", null ],
-    [ "GetAI", "d7/d94/a16882.html#a6da1349da296a3dc3d29527a8e3c2b7d", null ]
+    [ "boss_tharon_jaAI", "d7/d94/a16882.html#a03025fa529e932f23479ff19b0cd8238", null ],
+    [ "DoAction", "d7/d94/a16882.html#a655fd83c2d671847fea9ae393c132fb9", null ],
+    [ "JustDied", "d7/d94/a16882.html#a7928b5db061f1073e1decc2d40601195", null ],
+    [ "JustEngagedWith", "d7/d94/a16882.html#aab194a8f802eeb625d1a74960acbe154", null ],
+    [ "KilledUnit", "d7/d94/a16882.html#a41e929a3768768eb06bafdee3269fd24", null ],
+    [ "Reset", "d7/d94/a16882.html#a272e8565a9b00a27505b301d52814eee", null ],
+    [ "UpdateAI", "d7/d94/a16882.html#a6f482cabcb0bd56711878a5ea297b950", null ]
 ];

@@ -1,6 +1,6 @@
 var a23094 =
 [
-    [ "FilterTargets", "db/ddf/a23094.html#a04973145ed594b88afe2acc0cacb10c6", null ],
-    [ "PrepareSpellScript", "db/ddf/a23094.html#a90c0513a6dba2f2e6619dd8c77544991", null ],
-    [ "Register", "db/ddf/a23094.html#a7c8ca525cd6822d21551331ce37ce5dd", null ]
+    [ "boss_essence_of_desireAI", "dd/d93/a23098.html", "dd/d93/a23098" ],
+    [ "boss_essence_of_desire", "db/ddf/a23094.html#a5006ce57dd19c2a80e961dedca8c503d", null ],
+    [ "GetAI", "db/ddf/a23094.html#a14b66470c508fa24e214062aeec0aae6", null ]
 ];

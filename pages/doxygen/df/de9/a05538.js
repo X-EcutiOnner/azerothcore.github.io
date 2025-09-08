@@ -1,8 +1,7 @@
 var a05538 =
 [
-    [ "category", "df/de9/a05538.html#a6a53b4b68647fdde65e3c2363127fc4f", null ],
-    [ "char_type", "df/de9/a05538.html#aaecf7407fc4cff91008168377114d7cd", null ],
-    [ "ACLogSink", "df/de9/a05538.html#a070880d742fd84b44c4614a76952e589", null ],
-    [ "write", "df/de9/a05538.html#adad5e421ed10b296eae8b9c52f5e76f5", null ],
-    [ "callback_", "df/de9/a05538.html#a360b91b740efaa05309725f6678eb22a", null ]
+    [ "EnumText", "df/de9/a05538.html#a8eaf5ce52dcc9fd44476f9add1140e0d", null ],
+    [ "Constant", "df/de9/a05538.html#a020a7ebf3b1ee476d5f7ee605f43525d", null ],
+    [ "Description", "df/de9/a05538.html#ab08504e4ec70c5495f5a45856f2e6976", null ],
+    [ "Title", "df/de9/a05538.html#a7326575ea4083e28ac62556526a092a4", null ]
 ];

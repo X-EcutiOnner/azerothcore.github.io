@@ -1,11 +1,12 @@
 var a13146 =
 [
-    [ "npc_a_special_surpriseAI", "d3/d6e/a13146.html#acf062337317d98e491e40cf6ae9bb3ea", null ],
-    [ "MeetQuestCondition", "d3/d6e/a13146.html#a35f4db17e0301ceaaab49727d1ca8289", null ],
-    [ "MoveInLineOfSight", "d3/d6e/a13146.html#af0b183b951f1eba8114da1f7a1284d09", null ],
-    [ "Reset", "d3/d6e/a13146.html#a9526f6b257eade275b828d2b30328533", null ],
-    [ "UpdateAI", "d3/d6e/a13146.html#a8572ec4b4fdcaab93666f581edf1c852", null ],
-    [ "ExecuteSpeech_Counter", "d3/d6e/a13146.html#ae1ff67fb743b4125b015c1ecce4bc9db", null ],
-    [ "ExecuteSpeech_Timer", "d3/d6e/a13146.html#a8761840d6abdc0b195b5860b95f59b1c", null ],
-    [ "PlayerGUID", "d3/d6e/a13146.html#a683cdbd0ef9d0562842aace5b440594f", null ]
+    [ "npc_koltira_deathweaverAI", "d3/d6e/a13146.html#adbc46fce90170aec986faacf012bd2b2", null ],
+    [ "MovementInform", "d3/d6e/a13146.html#afed53c190d875d0e59775ebfeb749fcf", null ],
+    [ "Reset", "d3/d6e/a13146.html#ac07053d3798d57449c23bfff68e12f1b", null ],
+    [ "sGossipSelect", "d3/d6e/a13146.html#af481beffaeb97a69483a62fd5f110616", null ],
+    [ "sQuestAccept", "d3/d6e/a13146.html#a83fa04558bc7617b561ec05da9f2a6a1", null ],
+    [ "StartEvent", "d3/d6e/a13146.html#aa4f0df71fb88f6685f2c27f19a34b2b3", null ],
+    [ "SummonedCreatureDies", "d3/d6e/a13146.html#a967575fafe29db364b4e6a00a5e0457b", null ],
+    [ "UpdateAI", "d3/d6e/a13146.html#ac90ed956ba45b6363a21af76393126ac", null ],
+    [ "_valrothGUID", "d3/d6e/a13146.html#ad041942412fb8288ff5f850ee6472e78", null ]
 ];

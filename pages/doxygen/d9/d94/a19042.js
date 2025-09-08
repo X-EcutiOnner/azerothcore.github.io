@@ -1,5 +1,6 @@
 var a19042 =
 [
-    [ "at_icc_spire_frostwyrm", "d9/d94/a19042.html#ac3da2c0bc3e8b1c31832fcbb4e8ceae8", null ],
-    [ "_OnTrigger", "d9/d94/a19042.html#a67e320fb8ada7cb2c87f5944395fa174", null ]
+    [ "npc_icc_putricades_trapAI", "d8/d00/a19046.html", "d8/d00/a19046" ],
+    [ "npc_icc_putricades_trap", "d9/d94/a19042.html#ae022f2991fee4143fb965c53e4d4da5c", null ],
+    [ "GetAI", "d9/d94/a19042.html#a42ab1cb27234ebd10755dbbedce5f187", null ]
 ];

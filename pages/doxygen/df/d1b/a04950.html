@@ -181,7 +181,7 @@ Public Member Functions</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a752ef384318fa1652ad94f0ff72d1574"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/ddd/a05594.html">TimeTrackerSmall</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d1b/a04950.html#a752ef384318fa1652ad94f0ff72d1574">rebalance_timer</a></td></tr>
+<tr class="memitem:a752ef384318fa1652ad94f0ff72d1574"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/dea/a05610.html">TimeTrackerSmall</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d1b/a04950.html#a752ef384318fa1652ad94f0ff72d1574">rebalance_timer</a></td></tr>
 <tr class="separator:a752ef384318fa1652ad94f0ff72d1574"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad1e55f97cb7d72beefcd68649a7eb6bf"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d1b/a04950.html#ad1e55f97cb7d72beefcd68649a7eb6bf">unbalanced_times</a></td></tr>
 <tr class="separator:ad1e55f97cb7d72beefcd68649a7eb6bf"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -389,10 +389,10 @@ Public Attributes</h2></td></tr>
 <div class="line"><span class="lineno">   92</span>            <span class="keywordflow">return</span>;</div>
 <div class="line"><span class="lineno">   93</span>        }</div>
 <div class="line"><span class="lineno">   94</span> </div>
-<div class="line"><span class="lineno">   95</span>        <a class="code hl_variable" href="../../df/d1b/a04950.html#a752ef384318fa1652ad94f0ff72d1574">rebalance_timer</a>.<a class="code hl_function" href="../../d3/ddd/a05594.html#a6c10a37051caf7c16f1aa057bf2bf7da">Update</a>(difftime);</div>
-<div class="line"><span class="lineno">   96</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../df/d1b/a04950.html#a752ef384318fa1652ad94f0ff72d1574">rebalance_timer</a>.<a class="code hl_function" href="../../d3/ddd/a05594.html#af4455d0ebb784497e9fd1a08cc915062">Passed</a>())</div>
+<div class="line"><span class="lineno">   95</span>        <a class="code hl_variable" href="../../df/d1b/a04950.html#a752ef384318fa1652ad94f0ff72d1574">rebalance_timer</a>.<a class="code hl_function" href="../../d6/dea/a05610.html#a6c10a37051caf7c16f1aa057bf2bf7da">Update</a>(difftime);</div>
+<div class="line"><span class="lineno">   96</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../df/d1b/a04950.html#a752ef384318fa1652ad94f0ff72d1574">rebalance_timer</a>.<a class="code hl_function" href="../../d6/dea/a05610.html#af4455d0ebb784497e9fd1a08cc915062">Passed</a>())</div>
 <div class="line"><span class="lineno">   97</span>        {</div>
-<div class="line"><span class="lineno">   98</span>            <a class="code hl_variable" href="../../df/d1b/a04950.html#a752ef384318fa1652ad94f0ff72d1574">rebalance_timer</a>.<a class="code hl_function" href="../../d3/ddd/a05594.html#ab8a3c45ffe0e83132e708b5e87625c02">Reset</a>(<a class="code hl_variable" href="../../dc/d6d/a04802.html#a6c8b5b425bcbc0776a4dfa5dae72bf74">CHECK_TREE_PERIOD</a>);</div>
+<div class="line"><span class="lineno">   98</span>            <a class="code hl_variable" href="../../df/d1b/a04950.html#a752ef384318fa1652ad94f0ff72d1574">rebalance_timer</a>.<a class="code hl_function" href="../../d6/dea/a05610.html#ab8a3c45ffe0e83132e708b5e87625c02">Reset</a>(<a class="code hl_variable" href="../../dc/d6d/a04802.html#a6c8b5b425bcbc0776a4dfa5dae72bf74">CHECK_TREE_PERIOD</a>);</div>
 <div class="line"><span class="lineno">   99</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../df/d1b/a04950.html#ad1e55f97cb7d72beefcd68649a7eb6bf">unbalanced_times</a> &gt; 0)</div>
 <div class="line"><span class="lineno">  100</span>            {</div>
 <div class="line"><span class="lineno">  101</span>                <a class="code hl_function" href="../../df/d1b/a04950.html#a589f4028f0a9dca9901ad77fd71b44db">balance</a>();</div>
@@ -401,9 +401,9 @@ Public Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  104</span>    }</div>
 <div class="ttc" id="aa04950_html_a589f4028f0a9dca9901ad77fd71b44db"><div class="ttname"><a href="../../df/d1b/a04950.html#a589f4028f0a9dca9901ad77fd71b44db">DynTreeImpl::balance</a></div><div class="ttdeci">void balance()</div><div class="ttdef"><b>Definition:</b> DynamicTree.cpp:82</div></div>
 <div class="ttc" id="aa05134_html_a6e7ce25838521cf8dde65aa6f70f404f"><div class="ttname"><a href="../../d2/dc4/a05134.html#a6e7ce25838521cf8dde65aa6f70f404f">RegularGrid2D::size</a></div><div class="ttdeci">int size() const</div><div class="ttdef"><b>Definition:</b> RegularGrid.h:143</div></div>
-<div class="ttc" id="aa05594_html_a6c10a37051caf7c16f1aa057bf2bf7da"><div class="ttname"><a href="../../d3/ddd/a05594.html#a6c10a37051caf7c16f1aa057bf2bf7da">TimeTrackerSmall::Update</a></div><div class="ttdeci">void Update(int32 diff)</div><div class="ttdef"><b>Definition:</b> Timer.h:239</div></div>
-<div class="ttc" id="aa05594_html_ab8a3c45ffe0e83132e708b5e87625c02"><div class="ttname"><a href="../../d3/ddd/a05594.html#ab8a3c45ffe0e83132e708b5e87625c02">TimeTrackerSmall::Reset</a></div><div class="ttdeci">void Reset(int32 interval)</div><div class="ttdef"><b>Definition:</b> Timer.h:249</div></div>
-<div class="ttc" id="aa05594_html_af4455d0ebb784497e9fd1a08cc915062"><div class="ttname"><a href="../../d3/ddd/a05594.html#af4455d0ebb784497e9fd1a08cc915062">TimeTrackerSmall::Passed</a></div><div class="ttdeci">bool Passed() const</div><div class="ttdef"><b>Definition:</b> Timer.h:244</div></div>
+<div class="ttc" id="aa05610_html_a6c10a37051caf7c16f1aa057bf2bf7da"><div class="ttname"><a href="../../d6/dea/a05610.html#a6c10a37051caf7c16f1aa057bf2bf7da">TimeTrackerSmall::Update</a></div><div class="ttdeci">void Update(int32 diff)</div><div class="ttdef"><b>Definition:</b> Timer.h:239</div></div>
+<div class="ttc" id="aa05610_html_ab8a3c45ffe0e83132e708b5e87625c02"><div class="ttname"><a href="../../d6/dea/a05610.html#ab8a3c45ffe0e83132e708b5e87625c02">TimeTrackerSmall::Reset</a></div><div class="ttdeci">void Reset(int32 interval)</div><div class="ttdef"><b>Definition:</b> Timer.h:249</div></div>
+<div class="ttc" id="aa05610_html_af4455d0ebb784497e9fd1a08cc915062"><div class="ttname"><a href="../../d6/dea/a05610.html#af4455d0ebb784497e9fd1a08cc915062">TimeTrackerSmall::Passed</a></div><div class="ttdeci">bool Passed() const</div><div class="ttdef"><b>Definition:</b> Timer.h:244</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00082">balance()</a>, <a class="el" href="../../#l00038">anonymous_namespace{DynamicTree.cpp}::CHECK_TREE_PERIOD</a>, <a class="el" href="../../#l00244">TimeTrackerSmall::Passed()</a>, <a class="el" href="../../#l00106">rebalance_timer</a>, <a class="el" href="../../#l00249">TimeTrackerSmall::Reset()</a>, <a class="el" href="../../#l00143">RegularGrid2D&lt; T, Node, NodeCreatorFunc, PositionFunc &gt;::size()</a>, <a class="el" href="../../#l00107">unbalanced_times</a>, and <a class="el" href="../../#l00239">TimeTrackerSmall::Update()</a>.</p>
 
@@ -419,7 +419,7 @@ Public Attributes</h2></td></tr>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d3/ddd/a05594.html">TimeTrackerSmall</a> DynTreeImpl::rebalance_timer</td>
+          <td class="memname"><a class="el" href="../../d6/dea/a05610.html">TimeTrackerSmall</a> DynTreeImpl::rebalance_timer</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -450,7 +450,7 @@ Public Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../df/d1b/a04950.html">DynTreeImpl</a></li>
-    <li class="footer">Generated on Mon Sep 1 2025 20:43:48 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Sep 8 2025 20:44:54 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

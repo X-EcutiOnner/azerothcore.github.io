@@ -1,6 +1,10 @@
 var a09030 =
 [
-    [ "EmoteDelay", "d4/dfd/a09030.html#a053adbedc95026b192360e13d32c9401", null ],
-    [ "EmoteType", "d4/dfd/a09030.html#aa5189cb250b3f46086ecd69dee23414b", null ],
-    [ "Greeting", "d4/dfd/a09030.html#a84aa5fced9b8989487d1468c4eccb976", null ]
+    [ "creatureRate", "d4/dfd/a09030.html#aa9c27c19179b8a7bdfdc11d906cd1c06", null ],
+    [ "questDailyRate", "d4/dfd/a09030.html#a1798044bdf25ce774191b00e261add1e", null ],
+    [ "questMonthlyRate", "d4/dfd/a09030.html#a0db34ed7420bc376cfe64a0d12434fea", null ],
+    [ "questRate", "d4/dfd/a09030.html#a914118aa28b3736ff4e6c5b61d738834", null ],
+    [ "questRepeatableRate", "d4/dfd/a09030.html#a2b050d4cf6555e824d59a3ffc0558b21", null ],
+    [ "questWeeklyRate", "d4/dfd/a09030.html#a0fb31ebc33d0ce11f392be845907e043", null ],
+    [ "spellRate", "d4/dfd/a09030.html#a508485f1e6833c58a11706667a2c24fd", null ]
 ];

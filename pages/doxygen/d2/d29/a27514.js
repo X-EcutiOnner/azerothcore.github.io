@@ -1,5 +1,5 @@
 var a27514 =
 [
-    [ "go_soulwellAI", "d2/d29/a27514.html#af8c28f9d3ddf5fa3591433268d14fc98", null ],
-    [ "GossipHello", "d2/d29/a27514.html#a3df147478af8930d9b6108a183e9478f", null ]
+    [ "go_scourge_cage", "d2/d29/a27514.html#a76dfa458a52c950fbc0a86412e1ad490", null ],
+    [ "OnGossipHello", "d2/d29/a27514.html#ab4e97cd290342d623d212cc7cec227d5", null ]
 ];

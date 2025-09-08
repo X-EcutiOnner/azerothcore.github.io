@@ -1,6 +1,7 @@
 var a10634 =
 [
-    [ "GuildEventLogQueryResults", "db/d64/a10634.html#af12c732cd5c81792c6f0cb5cacc096f9", null ],
-    [ "Write", "db/d64/a10634.html#aa24738cdd040a883782b50189abdf240", null ],
-    [ "Entry", "db/d64/a10634.html#a227ab5555fccf5c8c78ca10fa229d3d4", null ]
+    [ "GuildInvite", "db/d64/a10634.html#a7b5ef96e9a9d4c6665b280bb844b6d54", null ],
+    [ "Write", "db/d64/a10634.html#a4ed1c240a53fa6268eb07b3c77d68757", null ],
+    [ "GuildName", "db/d64/a10634.html#ac3ae572bb65d5ea156151e5fc7abf5b8", null ],
+    [ "InviterName", "db/d64/a10634.html#a8a91b3f9a94776da4b23c38220c6fc3d", null ]
 ];

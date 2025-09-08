@@ -1,6 +1,6 @@
 var a16062 =
 [
-    [ "PrepareSpellScript", "db/db5/a16062.html#a2a3602af522bb8658c1bfdede1234efd", null ],
-    [ "Register", "db/db5/a16062.html#aba235111ea4e186064a85295466f2a3f", null ],
-    [ "SetDest", "db/db5/a16062.html#a89827e4db37bea4847c79265d95386c6", null ]
+    [ "boss_anub_arakAI", "da/d7e/a16066.html", "da/d7e/a16066" ],
+    [ "boss_anub_arak", "db/db5/a16062.html#ac2594f561b07069a312ed38c01d9c7da", null ],
+    [ "GetAI", "db/db5/a16062.html#a8687594354d514b99e026797ee71c70d", null ]
 ];

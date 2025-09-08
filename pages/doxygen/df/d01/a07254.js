@@ -1,6 +1,7 @@
 var a07254 =
 [
-    [ "RewardTeamWithRewardGroup", "df/d01/a07254.html#a962da3fcdc2feb57ffd2a635d431939a", null ],
-    [ "RewardWithAchievements", "df/d01/a07254.html#a57e1ffbe543a93799d6c26d880e128ad", null ],
-    [ "RewardWithMail", "df/d01/a07254.html#a4f2dd956f1ffadbfb5b005c1fbeb5aee", null ]
+    [ "ArenaSeasonReward", "df/d01/a07254.html#ae0871effd7fcac1006d8a16f9c7d7d04", null ],
+    [ "operator==", "df/d01/a07254.html#a2f04bbb871ab3b90f5dc3121e2bff213", null ],
+    [ "entry", "df/d01/a07254.html#ab3144a4701e1ebd88a3a94544ee76cdf", null ],
+    [ "type", "df/d01/a07254.html#ac4c8cff64cf2eb7f34d28080a2a5528b", null ]
 ];

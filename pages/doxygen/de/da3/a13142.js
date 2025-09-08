@@ -1,6 +1,6 @@
 var a13142 =
 [
-    [ "npc_a_special_surpriseAI", "d3/d6e/a13146.html", "d3/d6e/a13146" ],
-    [ "npc_a_special_surprise", "de/da3/a13142.html#ab88d74a86049c53b1569bdcc263f3dd4", null ],
-    [ "GetAI", "de/da3/a13142.html#a930c7ba67a20fbfc55b40117ccd52c98", null ]
+    [ "npc_koltira_deathweaverAI", "d3/d6e/a13146.html", "d3/d6e/a13146" ],
+    [ "npc_koltira_deathweaver", "de/da3/a13142.html#a5e9fdbc8dc70ce3480906b86aed381a3", null ],
+    [ "GetAI", "de/da3/a13142.html#afddc561b88679f3dd6ca8b374807b0f0", null ]
 ];

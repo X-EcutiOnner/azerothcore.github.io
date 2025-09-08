@@ -1,13 +1,10 @@
 var a10446 =
 [
-    [ "ScriptObject", "d2/df6/a10446.html#ae4ca97cf587379c94354e4889ff8c0c2", null ],
-    [ "~ScriptObject", "d2/df6/a10446.html#a80c704c939f54eee6655d68509598c42", null ],
-    [ "checkValidity", "d2/df6/a10446.html#a585e75e34aed7aa32205daad85f8fe08", null ],
-    [ "GetName", "d2/df6/a10446.html#a79588d839860d2f5caab60c5f1368f10", null ],
-    [ "GetTotalAvailableHooks", "d2/df6/a10446.html#a69ee35ec7d54226264efef558022c1c0", null ],
-    [ "isAfterLoadScript", "d2/df6/a10446.html#a2f66339b1cdf1fde795c61cd24c8b0a2", null ],
-    [ "IsDatabaseBound", "d2/df6/a10446.html#a37da453729d5c8fbe2d06f905563f47c", null ],
-    [ "ScriptMgr", "d2/df6/a10446.html#a7a753f61d57353451e90f3f23fec4851", null ],
-    [ "_name", "d2/df6/a10446.html#a90b63e382cac17922ae57fe22b84718c", null ],
-    [ "_totalAvailableHooks", "d2/df6/a10446.html#ab9ecac7620b4319c634d7e5f30c30f49", null ]
+    [ "WorldObjectScript", "d2/df6/a10446.html#af044c3699a591c137abc5e03c772890b", null ],
+    [ "IsDatabaseBound", "d2/df6/a10446.html#a48f037dd6152ff68ebef672de68df45e", null ],
+    [ "OnWorldObjectCreate", "d2/df6/a10446.html#a2b32bc661e5a377de98902f3bc16679b", null ],
+    [ "OnWorldObjectDestroy", "d2/df6/a10446.html#a7856d4b561cd99a7f405f86fffd57fef", null ],
+    [ "OnWorldObjectResetMap", "d2/df6/a10446.html#a32e6b907a20d84377e1ddfce79b5cfe1", null ],
+    [ "OnWorldObjectSetMap", "d2/df6/a10446.html#a12cf83d65dded66b41ca54a3c1bd31cb", null ],
+    [ "OnWorldObjectUpdate", "d2/df6/a10446.html#abc139d1aa728f8a70886eed65d28f566", null ]
 ];

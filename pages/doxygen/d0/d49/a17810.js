@@ -1,6 +1,6 @@
 var a17810 =
 [
-    [ "PrepareSpellScript", "d0/d49/a17810.html#a47df21229183b628c1d82bf34cbbe396", null ],
-    [ "Register", "d0/d49/a17810.html#a3cc4a1180f66cd9fe19020c1e5f2fccb", null ],
-    [ "RelocateTransportOffset", "d0/d49/a17810.html#acab29d77b4806f5d59ddc5dc3493c8ae", null ]
+    [ "npc_gunship_rocketeerAI", "db/d15/a17814.html", "db/d15/a17814" ],
+    [ "npc_gunship_rocketeer", "d0/d49/a17810.html#a7ed2cf258269f239bb73f2f06411db07", null ],
+    [ "GetAI", "d0/d49/a17810.html#a4f9c1b09e9e5b9dd337fe9210ab7038c", null ]
 ];

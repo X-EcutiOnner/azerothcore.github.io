@@ -1,7 +1,6 @@
 var a12954 =
 [
-    [ "HandleDummy", "df/d9f/a12954.html#ac2889b1744117f8c0bffcce04952d7c2", null ],
-    [ "PrepareSpellScript", "df/d9f/a12954.html#a5738144c85424e11f33aada38273e24e", null ],
-    [ "Register", "df/d9f/a12954.html#a206a4d40e082246193ba36c9080cdac1", null ],
-    [ "Validate", "df/d9f/a12954.html#a0718461731d563d2c948848f60101d49", null ]
+    [ "npc_image_of_medivhAI", "dd/d57/a12958.html", "dd/d57/a12958" ],
+    [ "npc_image_of_medivh", "df/d9f/a12954.html#a55ee6f97bc7f144209927a2813cab6a9", null ],
+    [ "GetAI", "df/d9f/a12954.html#a11769c47fda3f1c4d8d80329f70d1957", null ]
 ];

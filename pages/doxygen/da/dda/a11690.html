@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: ScourgeInvasionData Struct Reference</title>
+<title>AzerothCore: Acore::WorldWorldTextBuilder Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,428 +105,286 @@ $(document).ready(function(){initNavTree('da/dda/a11690.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#nested-classes">Classes</a> &#124;
+<a href="#pub-types">Public Types</a> &#124;
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pub-attribs">Public Attributes</a> &#124;
+<a href="#pri-methods">Private Member Functions</a> &#124;
+<a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="../../df/d73/a11687.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">ScourgeInvasionData Struct Reference</div></div>
+  <div class="headertitle"><div class="title">Acore::WorldWorldTextBuilder Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
-
-<p><code>#include &quot;<a class="el" href="../../">WorldState.h</a>&quot;</code></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
-Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/da4/a11698.html">CityAttack</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d45/a11694.html">InvasionZone</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-types" name="pub-types"></a>
+Public Types</h2></td></tr>
+<tr class="memitem:ac02e770af167d14f978954cf5ac74487"><td class="memItemLeft" align="right" valign="top">typedef std::vector&lt; <a class="el" href="../../da/d5f/a11118.html">WorldPacket</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dda/a11690.html#ac02e770af167d14f978954cf5ac74487">WorldPacketList</a></td></tr>
+<tr class="separator:ac02e770af167d14f978954cf5ac74487"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a40749458bbad64d1d277cd7cd9dac939"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dda/a11690.html#a40749458bbad64d1d277cd7cd9dac939">ScourgeInvasionData</a> ()</td></tr>
-<tr class="separator:a40749458bbad64d1d277cd7cd9dac939"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0ae2fc830e4f85fb619c38fdcad794ae"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dda/a11690.html#a0ae2fc830e4f85fb619c38fdcad794ae">Reset</a> ()</td></tr>
-<tr class="separator:a0ae2fc830e4f85fb619c38fdcad794ae"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:adca57b4cf5a065fad1a7bd184571bdc5"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dda/a11690.html#adca57b4cf5a065fad1a7bd184571bdc5">GetData</a> ()</td></tr>
-<tr class="separator:adca57b4cf5a065fad1a7bd184571bdc5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad5e85ced19572dcd5ae75caa7e50cbf6"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dda/a11690.html#ad5e85ced19572dcd5ae75caa7e50cbf6">WorldWorldTextBuilder</a> (<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> textId, va_list *args=nullptr)</td></tr>
+<tr class="separator:ad5e85ced19572dcd5ae75caa7e50cbf6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae08f4d73e048b351ae4326cc63278ae6"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dda/a11690.html#ae08f4d73e048b351ae4326cc63278ae6">operator()</a> (<a class="el" href="../../da/dda/a11690.html#ac02e770af167d14f978954cf5ac74487">WorldPacketList</a> &amp;data_list, <a class="el" href="../../db/dbc/a00395.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a> loc_idx)</td></tr>
+<tr class="separator:ae08f4d73e048b351ae4326cc63278ae6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
-Public Attributes</h2></td></tr>
-<tr class="memitem:acb26a954f14aec654513b16e5e53cad8"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d08/a02936.html#aecf9527110a7255a02e5f9add33dd690">SIState</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dda/a11690.html#acb26a954f14aec654513b16e5e53cad8">m_state</a></td></tr>
-<tr class="separator:acb26a954f14aec654513b16e5e53cad8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a06375cf97a023be4f3fff94cc43405a9"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d7/d06/a00131.html#ae5ca775e8d8c664b6edef818ce1251b9">TimePoint</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dda/a11690.html#a06375cf97a023be4f3fff94cc43405a9">m_timers</a> [<a class="el" href="../../d0/d08/a02936.html#a785ea701ad6ed657955501468a40e99ea7191361d832875bb172d35d73e709fc8">SI_TIMER_MAX</a>]</td></tr>
-<tr class="separator:a06375cf97a023be4f3fff94cc43405a9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aea7079c6f876188857219c574ca0798d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dda/a11690.html#aea7079c6f876188857219c574ca0798d">m_battlesWon</a></td></tr>
-<tr class="separator:aea7079c6f876188857219c574ca0798d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a38ead6b33009083055538fd4f0b7de35"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dda/a11690.html#a38ead6b33009083055538fd4f0b7de35">m_lastAttackZone</a></td></tr>
-<tr class="separator:a38ead6b33009083055538fd4f0b7de35"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:afa0f9b63b3c2111affdf9769ee529d88"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dda/a11690.html#afa0f9b63b3c2111affdf9769ee529d88">m_remaining</a> [<a class="el" href="../../d0/d08/a02936.html#a3fb19d2d868c1633a094f84570f4a6eea0abbcd0daa00c858c12ab1824d026514">SI_REMAINING_MAX</a>]</td></tr>
-<tr class="separator:afa0f9b63b3c2111affdf9769ee529d88"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7c251f312e332ab60fa6de6e8cf4189d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dda/a11690.html#a7c251f312e332ab60fa6de6e8cf4189d">m_broadcastTimer</a></td></tr>
-<tr class="separator:a7c251f312e332ab60fa6de6e8cf4189d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:acefb72f28d000395bc1362cd9a62b26a"><td class="memItemLeft" align="right" valign="top">std::mutex&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dda/a11690.html#acefb72f28d000395bc1362cd9a62b26a">m_siMutex</a></td></tr>
-<tr class="separator:acefb72f28d000395bc1362cd9a62b26a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af62efb05ce49a3cb764328976f8054f6"><td class="memItemLeft" align="right" valign="top">std::set&lt; <a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dda/a11690.html#af62efb05ce49a3cb764328976f8054f6">m_pendingInvasions</a></td></tr>
-<tr class="separator:af62efb05ce49a3cb764328976f8054f6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2a2f610d9c398bc82f4e39eea4fbadfc"><td class="memItemLeft" align="right" valign="top">std::set&lt; <a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dda/a11690.html#a2a2f610d9c398bc82f4e39eea4fbadfc">m_pendingPallids</a></td></tr>
-<tr class="separator:a2a2f610d9c398bc82f4e39eea4fbadfc"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af98aea31bf9c878adf2870890911282f"><td class="memItemLeft" align="right" valign="top">std::map&lt; <a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../de/d45/a11694.html">InvasionZone</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dda/a11690.html#af98aea31bf9c878adf2870890911282f">m_activeInvasions</a></td></tr>
-<tr class="separator:af98aea31bf9c878adf2870890911282f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a70127135568b3a439f040697f1dc525c"><td class="memItemLeft" align="right" valign="top">std::map&lt; <a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../dd/da4/a11698.html">CityAttack</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dda/a11690.html#a70127135568b3a439f040697f1dc525c">m_cityAttacks</a></td></tr>
-<tr class="separator:a70127135568b3a439f040697f1dc525c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-methods" name="pri-methods"></a>
+Private Member Functions</h2></td></tr>
+<tr class="memitem:a3a71edb992528d81471d370ba3d8d211"><td class="memItemLeft" align="right" valign="top">char *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dda/a11690.html#a3a71edb992528d81471d370ba3d8d211">lineFromMessage</a> (char *&amp;pos)</td></tr>
+<tr class="separator:a3a71edb992528d81471d370ba3d8d211"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae8b58ec72a6c87aee46e9fe693deab32"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dda/a11690.html#ae8b58ec72a6c87aee46e9fe693deab32">do_helper</a> (<a class="el" href="../../da/dda/a11690.html#ac02e770af167d14f978954cf5ac74487">WorldPacketList</a> &amp;data_list, char *text)</td></tr>
+<tr class="separator:ae8b58ec72a6c87aee46e9fe693deab32"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
+Private Attributes</h2></td></tr>
+<tr class="memitem:ab246baa9a8ce259d8190ac1c8318c75d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dda/a11690.html#ab246baa9a8ce259d8190ac1c8318c75d">i_textId</a></td></tr>
+<tr class="separator:ab246baa9a8ce259d8190ac1c8318c75d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac2ae2ce8dc49ce7469142383e6e097d4"><td class="memItemLeft" align="right" valign="top">va_list *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dda/a11690.html#ac2ae2ce8dc49ce7469142383e6e097d4">i_args</a></td></tr>
+<tr class="separator:ac2ae2ce8dc49ce7469142383e6e097d4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a40749458bbad64d1d277cd7cd9dac939" name="a40749458bbad64d1d277cd7cd9dac939"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a40749458bbad64d1d277cd7cd9dac939">&#9670;&#160;</a></span>ScourgeInvasionData()</h2>
+<div class="textblock"></div><h2 class="groupheader">Member Typedef Documentation</h2>
+<a id="ac02e770af167d14f978954cf5ac74487" name="ac02e770af167d14f978954cf5ac74487"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac02e770af167d14f978954cf5ac74487">&#9670;&#160;</a></span>WorldPacketList</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">ScourgeInvasionData::ScourgeInvasionData </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
+          <td class="memname">typedef std::vector&lt;<a class="el" href="../../da/d5f/a11118.html">WorldPacket</a>*&gt; <a class="el" href="../../da/dda/a11690.html#ac02e770af167d14f978954cf5ac74487">Acore::WorldWorldTextBuilder::WorldPacketList</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1321</span>    : <a class="code hl_variable" href="../../da/dda/a11690.html#acb26a954f14aec654513b16e5e53cad8">m_state</a>(<a class="code hl_enumvalue" href="../../d0/d08/a02936.html#aecf9527110a7255a02e5f9add33dd690a647b0f36eda55bfcd44ea079847f4b39">STATE_0_DISABLED</a>), <a class="code hl_variable" href="../../da/dda/a11690.html#aea7079c6f876188857219c574ca0798d">m_battlesWon</a>(0), <a class="code hl_variable" href="../../da/dda/a11690.html#a38ead6b33009083055538fd4f0b7de35">m_lastAttackZone</a>(0), <a class="code hl_variable" href="../../da/dda/a11690.html#afa0f9b63b3c2111affdf9769ee529d88">m_remaining</a>{}, <a class="code hl_variable" href="../../da/dda/a11690.html#a7c251f312e332ab60fa6de6e8cf4189d">m_broadcastTimer</a>(10000)</div>
-<div class="line"><span class="lineno"> 1322</span>{</div>
-<div class="line"><span class="lineno"> 1323</span>    <a class="code hl_variable" href="../../da/dda/a11690.html#af98aea31bf9c878adf2870890911282f">m_activeInvasions</a>.emplace(</div>
-<div class="line"><span class="lineno"> 1324</span>        <a class="code hl_enumvalue" href="../../dd/d3f/a02912.html#ad26fccabf338d55f9fdcce090c8a0aa3ab3ed4b016327f4a8ae44c847705cb0bf">AREA_WINTERSPRING</a>,</div>
-<div class="line"><span class="lineno"> 1325</span>        InvasionZone{</div>
-<div class="line"><span class="lineno"> 1326</span>            .map = <a class="code hl_enumvalue" href="../../dd/d3f/a02912.html#a6d57376a08b6ff3944dd9a5930a492cba865dc34066f9c0c383dca18c5f6ac5ad">MAP_KALIMDOR</a>,</div>
-<div class="line"><span class="lineno"> 1327</span>            .zoneId = <a class="code hl_enumvalue" href="../../dd/d3f/a02912.html#ad26fccabf338d55f9fdcce090c8a0aa3ab3ed4b016327f4a8ae44c847705cb0bf">AREA_WINTERSPRING</a>,</div>
-<div class="line"><span class="lineno"> 1328</span>            .necropolisCount = 3,</div>
-<div class="line"><span class="lineno"> 1329</span>            .remainingNecropoli = <a class="code hl_enumvalue" href="../../d0/d08/a02936.html#a3fb19d2d868c1633a094f84570f4a6eeaf588d257fc56fb070049cde06af24005">SI_REMAINING_WINTERSPRING</a>,</div>
-<div class="line"><span class="lineno"> 1330</span>            .mouth = { <a class="code hl_struct" href="../../d8/dea/a08462.html">Position</a>{7736.56f, -4033.75f, 696.327f, 5.51524f} }</div>
-<div class="line"><span class="lineno"> 1331</span>        }</div>
-<div class="line"><span class="lineno"> 1332</span>    );</div>
-<div class="line"><span class="lineno"> 1333</span>    <a class="code hl_variable" href="../../da/dda/a11690.html#af98aea31bf9c878adf2870890911282f">m_activeInvasions</a>.emplace(</div>
-<div class="line"><span class="lineno"> 1334</span>        <a class="code hl_enumvalue" href="../../dd/d3f/a02912.html#ad26fccabf338d55f9fdcce090c8a0aa3a87eaccec6b2c1a46bccb2c29ac0f8315">AREA_TANARIS</a>,</div>
-<div class="line"><span class="lineno"> 1335</span>        InvasionZone{</div>
-<div class="line"><span class="lineno"> 1336</span>            .map = <a class="code hl_enumvalue" href="../../dd/d3f/a02912.html#a6d57376a08b6ff3944dd9a5930a492cba865dc34066f9c0c383dca18c5f6ac5ad">MAP_KALIMDOR</a>,</div>
-<div class="line"><span class="lineno"> 1337</span>            .zoneId = <a class="code hl_enumvalue" href="../../dd/d3f/a02912.html#ad26fccabf338d55f9fdcce090c8a0aa3a87eaccec6b2c1a46bccb2c29ac0f8315">AREA_TANARIS</a>,</div>
-<div class="line"><span class="lineno"> 1338</span>            .necropolisCount = 3,</div>
-<div class="line"><span class="lineno"> 1339</span>            .remainingNecropoli = <a class="code hl_enumvalue" href="../../d0/d08/a02936.html#a3fb19d2d868c1633a094f84570f4a6eea91588368688397c3757fd568872cc23b">SI_REMAINING_TANARIS</a>,</div>
-<div class="line"><span class="lineno"> 1340</span>            .mouth = { <a class="code hl_struct" href="../../d8/dea/a08462.html">Position</a>{-8352.68f, -3972.68f, 10.0753f, 2.14675f} }</div>
-<div class="line"><span class="lineno"> 1341</span>        }</div>
-<div class="line"><span class="lineno"> 1342</span>    );</div>
-<div class="line"><span class="lineno"> 1343</span>    <a class="code hl_variable" href="../../da/dda/a11690.html#af98aea31bf9c878adf2870890911282f">m_activeInvasions</a>.emplace(</div>
-<div class="line"><span class="lineno"> 1344</span>        <a class="code hl_enumvalue" href="../../dd/d3f/a02912.html#ad26fccabf338d55f9fdcce090c8a0aa3a18cd2566d133329214f27a17511fd506">AREA_AZSHARA</a>,</div>
-<div class="line"><span class="lineno"> 1345</span>        InvasionZone{</div>
-<div class="line"><span class="lineno"> 1346</span>            .map = <a class="code hl_enumvalue" href="../../dd/d3f/a02912.html#a6d57376a08b6ff3944dd9a5930a492cba865dc34066f9c0c383dca18c5f6ac5ad">MAP_KALIMDOR</a>,</div>
-<div class="line"><span class="lineno"> 1347</span>            .zoneId = <a class="code hl_enumvalue" href="../../dd/d3f/a02912.html#ad26fccabf338d55f9fdcce090c8a0aa3a18cd2566d133329214f27a17511fd506">AREA_AZSHARA</a>,</div>
-<div class="line"><span class="lineno"> 1348</span>            .necropolisCount = 2,</div>
-<div class="line"><span class="lineno"> 1349</span>            .remainingNecropoli = <a class="code hl_enumvalue" href="../../d0/d08/a02936.html#a3fb19d2d868c1633a094f84570f4a6eeac12501f2dfc2e92462231a9171a4a192">SI_REMAINING_AZSHARA</a>,</div>
-<div class="line"><span class="lineno"> 1350</span>            .mouth = { <a class="code hl_struct" href="../../d8/dea/a08462.html">Position</a>{3273.75f, -4276.98f, 125.509f, 5.44543f} }</div>
-<div class="line"><span class="lineno"> 1351</span>        }</div>
-<div class="line"><span class="lineno"> 1352</span>    );</div>
-<div class="line"><span class="lineno"> 1353</span>    <a class="code hl_variable" href="../../da/dda/a11690.html#af98aea31bf9c878adf2870890911282f">m_activeInvasions</a>.emplace(</div>
-<div class="line"><span class="lineno"> 1354</span>        <a class="code hl_enumvalue" href="../../dd/d3f/a02912.html#ad26fccabf338d55f9fdcce090c8a0aa3ace303ba93d149035825673730b8b1d2a">AREA_BLASTED_LANDS</a>,</div>
-<div class="line"><span class="lineno"> 1355</span>        InvasionZone{</div>
-<div class="line"><span class="lineno"> 1356</span>            .map = <a class="code hl_enumvalue" href="../../dd/d3f/a02912.html#a6d57376a08b6ff3944dd9a5930a492cbabd33a2026797cf5b1d126cf2e22bc339">MAP_EASTERN_KINGDOMS</a>,</div>
-<div class="line"><span class="lineno"> 1357</span>            .zoneId = <a class="code hl_enumvalue" href="../../dd/d3f/a02912.html#ad26fccabf338d55f9fdcce090c8a0aa3ace303ba93d149035825673730b8b1d2a">AREA_BLASTED_LANDS</a>,</div>
-<div class="line"><span class="lineno"> 1358</span>            .necropolisCount = 2,</div>
-<div class="line"><span class="lineno"> 1359</span>            .remainingNecropoli = <a class="code hl_enumvalue" href="../../d0/d08/a02936.html#a3fb19d2d868c1633a094f84570f4a6eeaa749bb9df442ebee816047ad078ad876">SI_REMAINING_BLASTED_LANDS</a>,</div>
-<div class="line"><span class="lineno"> 1360</span>            .mouth = { <a class="code hl_struct" href="../../d8/dea/a08462.html">Position</a>{-11429.3f, -3327.82f, 7.73628f, 1.0821f} }</div>
-<div class="line"><span class="lineno"> 1361</span>        }</div>
-<div class="line"><span class="lineno"> 1362</span>    );</div>
-<div class="line"><span class="lineno"> 1363</span>    <a class="code hl_variable" href="../../da/dda/a11690.html#af98aea31bf9c878adf2870890911282f">m_activeInvasions</a>.emplace(</div>
-<div class="line"><span class="lineno"> 1364</span>        <a class="code hl_enumvalue" href="../../dd/d3f/a02912.html#ad26fccabf338d55f9fdcce090c8a0aa3ab3eeec438db2c0efc014467891451d23">AREA_EASTERN_PLAGUELANDS</a>,</div>
-<div class="line"><span class="lineno"> 1365</span>        InvasionZone{</div>
-<div class="line"><span class="lineno"> 1366</span>            .map = <a class="code hl_enumvalue" href="../../dd/d3f/a02912.html#a6d57376a08b6ff3944dd9a5930a492cbabd33a2026797cf5b1d126cf2e22bc339">MAP_EASTERN_KINGDOMS</a>,</div>
-<div class="line"><span class="lineno"> 1367</span>            .zoneId = <a class="code hl_enumvalue" href="../../dd/d3f/a02912.html#ad26fccabf338d55f9fdcce090c8a0aa3ab3eeec438db2c0efc014467891451d23">AREA_EASTERN_PLAGUELANDS</a>,</div>
-<div class="line"><span class="lineno"> 1368</span>            .necropolisCount = 2,</div>
-<div class="line"><span class="lineno"> 1369</span>            .remainingNecropoli = <a class="code hl_enumvalue" href="../../d0/d08/a02936.html#a3fb19d2d868c1633a094f84570f4a6eea6edea7eb295c687aab2d49f538b7ff66">SI_REMAINING_EASTERN_PLAGUELANDS</a>,</div>
-<div class="line"><span class="lineno"> 1370</span>            .mouth = { <a class="code hl_struct" href="../../d8/dea/a08462.html">Position</a>{2014.55f, -4934.52f, 73.9846f, 0.0698132f} }</div>
-<div class="line"><span class="lineno"> 1371</span>        }</div>
-<div class="line"><span class="lineno"> 1372</span>    );</div>
-<div class="line"><span class="lineno"> 1373</span>    <a class="code hl_variable" href="../../da/dda/a11690.html#af98aea31bf9c878adf2870890911282f">m_activeInvasions</a>.emplace(</div>
-<div class="line"><span class="lineno"> 1374</span>        <a class="code hl_enumvalue" href="../../dd/d3f/a02912.html#ad26fccabf338d55f9fdcce090c8a0aa3ad424385a06b292570b5c7178fa0f4921">AREA_BURNING_STEPPES</a>,</div>
-<div class="line"><span class="lineno"> 1375</span>        InvasionZone{</div>
-<div class="line"><span class="lineno"> 1376</span>            .map = <a class="code hl_enumvalue" href="../../dd/d3f/a02912.html#a6d57376a08b6ff3944dd9a5930a492cbabd33a2026797cf5b1d126cf2e22bc339">MAP_EASTERN_KINGDOMS</a>,</div>
-<div class="line"><span class="lineno"> 1377</span>            .zoneId = <a class="code hl_enumvalue" href="../../dd/d3f/a02912.html#ad26fccabf338d55f9fdcce090c8a0aa3ad424385a06b292570b5c7178fa0f4921">AREA_BURNING_STEPPES</a>,</div>
-<div class="line"><span class="lineno"> 1378</span>            .necropolisCount = 2,</div>
-<div class="line"><span class="lineno"> 1379</span>            .remainingNecropoli = <a class="code hl_enumvalue" href="../../d0/d08/a02936.html#a3fb19d2d868c1633a094f84570f4a6eea6e93dbfb45c3c30c9c8d6c2efdf4df04">SI_REMAINING_BURNING_STEPPES</a>,</div>
-<div class="line"><span class="lineno"> 1380</span>            .mouth = { <a class="code hl_struct" href="../../d8/dea/a08462.html">Position</a>{-8229.53f, -1118.11f, 144.012f, 6.17846f} }</div>
-<div class="line"><span class="lineno"> 1381</span>        }</div>
-<div class="line"><span class="lineno"> 1382</span>    );</div>
-<div class="line"><span class="lineno"> 1383</span> </div>
-<div class="line"><span class="lineno"> 1384</span>    <a class="code hl_variable" href="../../da/dda/a11690.html#a70127135568b3a439f040697f1dc525c">m_cityAttacks</a>.emplace(</div>
-<div class="line"><span class="lineno"> 1385</span>        <a class="code hl_enumvalue" href="../../dd/d3f/a02912.html#ad26fccabf338d55f9fdcce090c8a0aa3a3748fb0df84a7002fee04a79b1c26858">AREA_UNDERCITY</a>,</div>
-<div class="line"><span class="lineno"> 1386</span>        CityAttack{</div>
-<div class="line"><span class="lineno"> 1387</span>            .map = <a class="code hl_enumvalue" href="../../dd/d3f/a02912.html#a6d57376a08b6ff3944dd9a5930a492cbabd33a2026797cf5b1d126cf2e22bc339">MAP_EASTERN_KINGDOMS</a>,</div>
-<div class="line"><span class="lineno"> 1388</span>            .zoneId = <a class="code hl_enumvalue" href="../../dd/d3f/a02912.html#ad26fccabf338d55f9fdcce090c8a0aa3a3748fb0df84a7002fee04a79b1c26858">AREA_UNDERCITY</a>,</div>
-<div class="line"><span class="lineno"> 1389</span>            .pallid = {</div>
-<div class="line"><span class="lineno"> 1390</span>                <a class="code hl_struct" href="../../d8/dea/a08462.html">Position</a>{1595.87f, 440.539f, -46.3349f, 2.28207f}, <span class="comment">// Royal Quarter</span></div>
-<div class="line"><span class="lineno"> 1391</span>                <a class="code hl_struct" href="../../d8/dea/a08462.html">Position</a>{1659.2f, 265.988f, -62.1788f, 3.64283f}   <span class="comment">// Trade Quarter</span></div>
-<div class="line"><span class="lineno"> 1392</span>            }</div>
-<div class="line"><span class="lineno"> 1393</span>        }</div>
-<div class="line"><span class="lineno"> 1394</span>    );</div>
-<div class="line"><span class="lineno"> 1395</span>    <a class="code hl_variable" href="../../da/dda/a11690.html#a70127135568b3a439f040697f1dc525c">m_cityAttacks</a>.emplace(</div>
-<div class="line"><span class="lineno"> 1396</span>        <a class="code hl_enumvalue" href="../../dd/d3f/a02912.html#ad26fccabf338d55f9fdcce090c8a0aa3ab7b30784be644e9844de24a8aeb78eba">AREA_STORMWIND_CITY</a>,</div>
-<div class="line"><span class="lineno"> 1397</span>        CityAttack{</div>
-<div class="line"><span class="lineno"> 1398</span>            .map = <a class="code hl_enumvalue" href="../../dd/d3f/a02912.html#a6d57376a08b6ff3944dd9a5930a492cbabd33a2026797cf5b1d126cf2e22bc339">MAP_EASTERN_KINGDOMS</a>,</div>
-<div class="line"><span class="lineno"> 1399</span>            .zoneId = <a class="code hl_enumvalue" href="../../dd/d3f/a02912.html#ad26fccabf338d55f9fdcce090c8a0aa3ab7b30784be644e9844de24a8aeb78eba">AREA_STORMWIND_CITY</a>,</div>
-<div class="line"><span class="lineno"> 1400</span>            .pallid = {</div>
-<div class="line"><span class="lineno"> 1401</span>                <a class="code hl_struct" href="../../d8/dea/a08462.html">Position</a>{-8578.15f, 886.382f, 87.3148f, 0.586275f}, <span class="comment">// Stormwind Keep</span></div>
-<div class="line"><span class="lineno"> 1402</span>                <a class="code hl_struct" href="../../d8/dea/a08462.html">Position</a>{-8578.15f, 886.382f, 87.3148f, 0.586275f}  <span class="comment">// Trade District</span></div>
-<div class="line"><span class="lineno"> 1403</span>            }</div>
-<div class="line"><span class="lineno"> 1404</span>        }</div>
-<div class="line"><span class="lineno"> 1405</span>    );</div>
-<div class="line"><span class="lineno"> 1406</span>}</div>
-<div class="ttc" id="aa02912_html_a6d57376a08b6ff3944dd9a5930a492cba865dc34066f9c0c383dca18c5f6ac5ad"><div class="ttname"><a href="../../dd/d3f/a02912.html#a6d57376a08b6ff3944dd9a5930a492cba865dc34066f9c0c383dca18c5f6ac5ad">MAP_KALIMDOR</a></div><div class="ttdeci">@ MAP_KALIMDOR</div><div class="ttdef"><b>Definition:</b> AreaDefines.h:186</div></div>
-<div class="ttc" id="aa02912_html_a6d57376a08b6ff3944dd9a5930a492cbabd33a2026797cf5b1d126cf2e22bc339"><div class="ttname"><a href="../../dd/d3f/a02912.html#a6d57376a08b6ff3944dd9a5930a492cbabd33a2026797cf5b1d126cf2e22bc339">MAP_EASTERN_KINGDOMS</a></div><div class="ttdeci">@ MAP_EASTERN_KINGDOMS</div><div class="ttdef"><b>Definition:</b> AreaDefines.h:185</div></div>
-<div class="ttc" id="aa02912_html_ad26fccabf338d55f9fdcce090c8a0aa3a18cd2566d133329214f27a17511fd506"><div class="ttname"><a href="../../dd/d3f/a02912.html#ad26fccabf338d55f9fdcce090c8a0aa3a18cd2566d133329214f27a17511fd506">AREA_AZSHARA</a></div><div class="ttdeci">@ AREA_AZSHARA</div><div class="ttdef"><b>Definition:</b> AreaDefines.h:34</div></div>
-<div class="ttc" id="aa02912_html_ad26fccabf338d55f9fdcce090c8a0aa3a3748fb0df84a7002fee04a79b1c26858"><div class="ttname"><a href="../../dd/d3f/a02912.html#ad26fccabf338d55f9fdcce090c8a0aa3a3748fb0df84a7002fee04a79b1c26858">AREA_UNDERCITY</a></div><div class="ttdeci">@ AREA_UNDERCITY</div><div class="ttdef"><b>Definition:</b> AreaDefines.h:80</div></div>
-<div class="ttc" id="aa02912_html_ad26fccabf338d55f9fdcce090c8a0aa3a87eaccec6b2c1a46bccb2c29ac0f8315"><div class="ttname"><a href="../../dd/d3f/a02912.html#ad26fccabf338d55f9fdcce090c8a0aa3a87eaccec6b2c1a46bccb2c29ac0f8315">AREA_TANARIS</a></div><div class="ttdeci">@ AREA_TANARIS</div><div class="ttdef"><b>Definition:</b> AreaDefines.h:73</div></div>
-<div class="ttc" id="aa02912_html_ad26fccabf338d55f9fdcce090c8a0aa3ab3ed4b016327f4a8ae44c847705cb0bf"><div class="ttname"><a href="../../dd/d3f/a02912.html#ad26fccabf338d55f9fdcce090c8a0aa3ab3ed4b016327f4a8ae44c847705cb0bf">AREA_WINTERSPRING</a></div><div class="ttdeci">@ AREA_WINTERSPRING</div><div class="ttdef"><b>Definition:</b> AreaDefines.h:76</div></div>
-<div class="ttc" id="aa02912_html_ad26fccabf338d55f9fdcce090c8a0aa3ab3eeec438db2c0efc014467891451d23"><div class="ttname"><a href="../../dd/d3f/a02912.html#ad26fccabf338d55f9fdcce090c8a0aa3ab3eeec438db2c0efc014467891451d23">AREA_EASTERN_PLAGUELANDS</a></div><div class="ttdeci">@ AREA_EASTERN_PLAGUELANDS</div><div class="ttdef"><b>Definition:</b> AreaDefines.h:53</div></div>
-<div class="ttc" id="aa02912_html_ad26fccabf338d55f9fdcce090c8a0aa3ab7b30784be644e9844de24a8aeb78eba"><div class="ttname"><a href="../../dd/d3f/a02912.html#ad26fccabf338d55f9fdcce090c8a0aa3ab7b30784be644e9844de24a8aeb78eba">AREA_STORMWIND_CITY</a></div><div class="ttdeci">@ AREA_STORMWIND_CITY</div><div class="ttdef"><b>Definition:</b> AreaDefines.h:81</div></div>
-<div class="ttc" id="aa02912_html_ad26fccabf338d55f9fdcce090c8a0aa3ace303ba93d149035825673730b8b1d2a"><div class="ttname"><a href="../../dd/d3f/a02912.html#ad26fccabf338d55f9fdcce090c8a0aa3ace303ba93d149035825673730b8b1d2a">AREA_BLASTED_LANDS</a></div><div class="ttdeci">@ AREA_BLASTED_LANDS</div><div class="ttdef"><b>Definition:</b> AreaDefines.h:27</div></div>
-<div class="ttc" id="aa02912_html_ad26fccabf338d55f9fdcce090c8a0aa3ad424385a06b292570b5c7178fa0f4921"><div class="ttname"><a href="../../dd/d3f/a02912.html#ad26fccabf338d55f9fdcce090c8a0aa3ad424385a06b292570b5c7178fa0f4921">AREA_BURNING_STEPPES</a></div><div class="ttdeci">@ AREA_BURNING_STEPPES</div><div class="ttdef"><b>Definition:</b> AreaDefines.h:42</div></div>
-<div class="ttc" id="aa02936_html_a3fb19d2d868c1633a094f84570f4a6eea6e93dbfb45c3c30c9c8d6c2efdf4df04"><div class="ttname"><a href="../../d0/d08/a02936.html#a3fb19d2d868c1633a094f84570f4a6eea6e93dbfb45c3c30c9c8d6c2efdf4df04">SI_REMAINING_BURNING_STEPPES</a></div><div class="ttdeci">@ SI_REMAINING_BURNING_STEPPES</div><div class="ttdef"><b>Definition:</b> WorldState.h:159</div></div>
-<div class="ttc" id="aa02936_html_a3fb19d2d868c1633a094f84570f4a6eea6edea7eb295c687aab2d49f538b7ff66"><div class="ttname"><a href="../../d0/d08/a02936.html#a3fb19d2d868c1633a094f84570f4a6eea6edea7eb295c687aab2d49f538b7ff66">SI_REMAINING_EASTERN_PLAGUELANDS</a></div><div class="ttdeci">@ SI_REMAINING_EASTERN_PLAGUELANDS</div><div class="ttdef"><b>Definition:</b> WorldState.h:160</div></div>
-<div class="ttc" id="aa02936_html_a3fb19d2d868c1633a094f84570f4a6eea91588368688397c3757fd568872cc23b"><div class="ttname"><a href="../../d0/d08/a02936.html#a3fb19d2d868c1633a094f84570f4a6eea91588368688397c3757fd568872cc23b">SI_REMAINING_TANARIS</a></div><div class="ttdeci">@ SI_REMAINING_TANARIS</div><div class="ttdef"><b>Definition:</b> WorldState.h:161</div></div>
-<div class="ttc" id="aa02936_html_a3fb19d2d868c1633a094f84570f4a6eeaa749bb9df442ebee816047ad078ad876"><div class="ttname"><a href="../../d0/d08/a02936.html#a3fb19d2d868c1633a094f84570f4a6eeaa749bb9df442ebee816047ad078ad876">SI_REMAINING_BLASTED_LANDS</a></div><div class="ttdeci">@ SI_REMAINING_BLASTED_LANDS</div><div class="ttdef"><b>Definition:</b> WorldState.h:158</div></div>
-<div class="ttc" id="aa02936_html_a3fb19d2d868c1633a094f84570f4a6eeac12501f2dfc2e92462231a9171a4a192"><div class="ttname"><a href="../../d0/d08/a02936.html#a3fb19d2d868c1633a094f84570f4a6eeac12501f2dfc2e92462231a9171a4a192">SI_REMAINING_AZSHARA</a></div><div class="ttdeci">@ SI_REMAINING_AZSHARA</div><div class="ttdef"><b>Definition:</b> WorldState.h:157</div></div>
-<div class="ttc" id="aa02936_html_a3fb19d2d868c1633a094f84570f4a6eeaf588d257fc56fb070049cde06af24005"><div class="ttname"><a href="../../d0/d08/a02936.html#a3fb19d2d868c1633a094f84570f4a6eeaf588d257fc56fb070049cde06af24005">SI_REMAINING_WINTERSPRING</a></div><div class="ttdeci">@ SI_REMAINING_WINTERSPRING</div><div class="ttdef"><b>Definition:</b> WorldState.h:162</div></div>
-<div class="ttc" id="aa02936_html_aecf9527110a7255a02e5f9add33dd690a647b0f36eda55bfcd44ea079847f4b39"><div class="ttname"><a href="../../d0/d08/a02936.html#aecf9527110a7255a02e5f9add33dd690a647b0f36eda55bfcd44ea079847f4b39">STATE_0_DISABLED</a></div><div class="ttdeci">@ STATE_0_DISABLED</div><div class="ttdef"><b>Definition:</b> WorldState.h:125</div></div>
-<div class="ttc" id="aa08462_html"><div class="ttname"><a href="../../d8/dea/a08462.html">Position</a></div><div class="ttdef"><b>Definition:</b> Position.h:27</div></div>
-<div class="ttc" id="aa11690_html_a38ead6b33009083055538fd4f0b7de35"><div class="ttname"><a href="../../da/dda/a11690.html#a38ead6b33009083055538fd4f0b7de35">ScourgeInvasionData::m_lastAttackZone</a></div><div class="ttdeci">uint32 m_lastAttackZone</div><div class="ttdef"><b>Definition:</b> WorldState.h:199</div></div>
-<div class="ttc" id="aa11690_html_a70127135568b3a439f040697f1dc525c"><div class="ttname"><a href="../../da/dda/a11690.html#a70127135568b3a439f040697f1dc525c">ScourgeInvasionData::m_cityAttacks</a></div><div class="ttdeci">std::map&lt; uint32, CityAttack &gt; m_cityAttacks</div><div class="ttdef"><b>Definition:</b> WorldState.h:207</div></div>
-<div class="ttc" id="aa11690_html_a7c251f312e332ab60fa6de6e8cf4189d"><div class="ttname"><a href="../../da/dda/a11690.html#a7c251f312e332ab60fa6de6e8cf4189d">ScourgeInvasionData::m_broadcastTimer</a></div><div class="ttdeci">uint64 m_broadcastTimer</div><div class="ttdef"><b>Definition:</b> WorldState.h:201</div></div>
-<div class="ttc" id="aa11690_html_acb26a954f14aec654513b16e5e53cad8"><div class="ttname"><a href="../../da/dda/a11690.html#acb26a954f14aec654513b16e5e53cad8">ScourgeInvasionData::m_state</a></div><div class="ttdeci">SIState m_state</div><div class="ttdef"><b>Definition:</b> WorldState.h:195</div></div>
-<div class="ttc" id="aa11690_html_aea7079c6f876188857219c574ca0798d"><div class="ttname"><a href="../../da/dda/a11690.html#aea7079c6f876188857219c574ca0798d">ScourgeInvasionData::m_battlesWon</a></div><div class="ttdeci">uint32 m_battlesWon</div><div class="ttdef"><b>Definition:</b> WorldState.h:198</div></div>
-<div class="ttc" id="aa11690_html_af98aea31bf9c878adf2870890911282f"><div class="ttname"><a href="../../da/dda/a11690.html#af98aea31bf9c878adf2870890911282f">ScourgeInvasionData::m_activeInvasions</a></div><div class="ttdeci">std::map&lt; uint32, InvasionZone &gt; m_activeInvasions</div><div class="ttdef"><b>Definition:</b> WorldState.h:206</div></div>
-<div class="ttc" id="aa11690_html_afa0f9b63b3c2111affdf9769ee529d88"><div class="ttname"><a href="../../da/dda/a11690.html#afa0f9b63b3c2111affdf9769ee529d88">ScourgeInvasionData::m_remaining</a></div><div class="ttdeci">uint32 m_remaining[SI_REMAINING_MAX]</div><div class="ttdef"><b>Definition:</b> WorldState.h:200</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00034">AREA_AZSHARA</a>, <a class="el" href="../../#l00027">AREA_BLASTED_LANDS</a>, <a class="el" href="../../#l00042">AREA_BURNING_STEPPES</a>, <a class="el" href="../../#l00053">AREA_EASTERN_PLAGUELANDS</a>, <a class="el" href="../../#l00081">AREA_STORMWIND_CITY</a>, <a class="el" href="../../#l00073">AREA_TANARIS</a>, <a class="el" href="../../#l00080">AREA_UNDERCITY</a>, <a class="el" href="../../#l00076">AREA_WINTERSPRING</a>, <a class="el" href="../../#l00206">m_activeInvasions</a>, <a class="el" href="../../#l00207">m_cityAttacks</a>, <a class="el" href="../../#l00179">ScourgeInvasionData::InvasionZone::map</a>, <a class="el" href="../../#l00189">ScourgeInvasionData::CityAttack::map</a>, <a class="el" href="../../#l00185">MAP_EASTERN_KINGDOMS</a>, <a class="el" href="../../#l00186">MAP_KALIMDOR</a>, <a class="el" href="../../#l00157">SI_REMAINING_AZSHARA</a>, <a class="el" href="../../#l00158">SI_REMAINING_BLASTED_LANDS</a>, <a class="el" href="../../#l00159">SI_REMAINING_BURNING_STEPPES</a>, <a class="el" href="../../#l00160">SI_REMAINING_EASTERN_PLAGUELANDS</a>, <a class="el" href="../../#l00161">SI_REMAINING_TANARIS</a>, and <a class="el" href="../../#l00162">SI_REMAINING_WINTERSPRING</a>.</p>
 
+</div>
+</div>
+<h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="ad5e85ced19572dcd5ae75caa7e50cbf6" name="ad5e85ced19572dcd5ae75caa7e50cbf6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad5e85ced19572dcd5ae75caa7e50cbf6">&#9670;&#160;</a></span>WorldWorldTextBuilder()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">Acore::WorldWorldTextBuilder::WorldWorldTextBuilder </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>textId</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">va_list *&#160;</td>
+          <td class="paramname"><em>args</em> = <code>nullptr</code>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">explicit</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno"> 1391</span>: <a class="code hl_variable" href="../../da/dda/a11690.html#ab246baa9a8ce259d8190ac1c8318c75d">i_textId</a>(textId), <a class="code hl_variable" href="../../da/dda/a11690.html#ac2ae2ce8dc49ce7469142383e6e097d4">i_args</a>(args) {}</div>
+<div class="ttc" id="aa11690_html_ab246baa9a8ce259d8190ac1c8318c75d"><div class="ttname"><a href="../../da/dda/a11690.html#ab246baa9a8ce259d8190ac1c8318c75d">Acore::WorldWorldTextBuilder::i_textId</a></div><div class="ttdeci">uint32 i_textId</div><div class="ttdef"><b>Definition:</b> World.cpp:1425</div></div>
+<div class="ttc" id="aa11690_html_ac2ae2ce8dc49ce7469142383e6e097d4"><div class="ttname"><a href="../../da/dda/a11690.html#ac2ae2ce8dc49ce7469142383e6e097d4">Acore::WorldWorldTextBuilder::i_args</a></div><div class="ttdeci">va_list * i_args</div><div class="ttdef"><b>Definition:</b> World.cpp:1426</div></div>
+</div><!-- fragment -->
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="adca57b4cf5a065fad1a7bd184571bdc5" name="adca57b4cf5a065fad1a7bd184571bdc5"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#adca57b4cf5a065fad1a7bd184571bdc5">&#9670;&#160;</a></span>GetData()</h2>
+<a id="ae8b58ec72a6c87aee46e9fe693deab32" name="ae8b58ec72a6c87aee46e9fe693deab32"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae8b58ec72a6c87aee46e9fe693deab32">&#9670;&#160;</a></span>do_helper()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::string ScourgeInvasionData::GetData </td>
+          <td class="memname">void Acore::WorldWorldTextBuilder::do_helper </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
+          <td class="paramtype"><a class="el" href="../../da/dda/a11690.html#ac02e770af167d14f978954cf5ac74487">WorldPacketList</a> &amp;&#160;</td>
+          <td class="paramname"><em>data_list</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
           <td></td>
+          <td class="paramtype">char *&#160;</td>
+          <td class="paramname"><em>text</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1421</span>{</div>
-<div class="line"><span class="lineno"> 1422</span>    std::string output = std::to_string(<a class="code hl_variable" href="../../da/dda/a11690.html#acb26a954f14aec654513b16e5e53cad8">m_state</a>) + <span class="stringliteral">&quot; &quot;</span>;</div>
-<div class="line"><span class="lineno"> 1423</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span>&amp; timer : <a class="code hl_variable" href="../../da/dda/a11690.html#a06375cf97a023be4f3fff94cc43405a9">m_timers</a>)</div>
-<div class="line"><span class="lineno"> 1424</span>        output += std::to_string(timer.time_since_epoch().count()) + <span class="stringliteral">&quot; &quot;</span>;</div>
-<div class="line"><span class="lineno"> 1425</span>    output += std::to_string(<a class="code hl_variable" href="../../da/dda/a11690.html#aea7079c6f876188857219c574ca0798d">m_battlesWon</a>) + <span class="stringliteral">&quot; &quot;</span> + std::to_string(<a class="code hl_variable" href="../../da/dda/a11690.html#a38ead6b33009083055538fd4f0b7de35">m_lastAttackZone</a>) + <span class="stringliteral">&quot; &quot;</span>;</div>
-<div class="line"><span class="lineno"> 1426</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span>&amp; remaining : <a class="code hl_variable" href="../../da/dda/a11690.html#afa0f9b63b3c2111affdf9769ee529d88">m_remaining</a>)</div>
-<div class="line"><span class="lineno"> 1427</span>        output += std::to_string(remaining) + <span class="stringliteral">&quot; &quot;</span>;</div>
-<div class="line"><span class="lineno"> 1428</span>    <span class="keywordflow">return</span> output;</div>
-<div class="line"><span class="lineno"> 1429</span>}</div>
-<div class="ttc" id="aa11690_html_a06375cf97a023be4f3fff94cc43405a9"><div class="ttname"><a href="../../da/dda/a11690.html#a06375cf97a023be4f3fff94cc43405a9">ScourgeInvasionData::m_timers</a></div><div class="ttdeci">TimePoint m_timers[SI_TIMER_MAX]</div><div class="ttdef"><b>Definition:</b> WorldState.h:197</div></div>
+<div class="fragment"><div class="line"><span class="lineno"> 1415</span>        {</div>
+<div class="line"><span class="lineno"> 1416</span>            <span class="keywordtype">char</span>* pos = text;</div>
+<div class="line"><span class="lineno"> 1417</span>            <span class="keywordflow">while</span> (<span class="keywordtype">char</span>* line = <a class="code hl_function" href="../../da/dda/a11690.html#a3a71edb992528d81471d370ba3d8d211">lineFromMessage</a>(pos))</div>
+<div class="line"><span class="lineno"> 1418</span>            {</div>
+<div class="line"><span class="lineno"> 1419</span>                <a class="code hl_class" href="../../da/d5f/a11118.html">WorldPacket</a>* data = <span class="keyword">new</span> <a class="code hl_class" href="../../da/d5f/a11118.html">WorldPacket</a>();</div>
+<div class="line"><span class="lineno"> 1420</span>                <a class="code hl_function" href="../../d3/ddf/a07538.html#a3295cee708d267aac165f9ee55d2e615">ChatHandler::BuildChatPacket</a>(*data, <a class="code hl_enumvalue" href="../../dc/d43/a04727.html#a249e68b260c9857b5d0d4cf4697fae16a8fcd3e7170e686c1826b9f7fcdf5df96">CHAT_MSG_SYSTEM</a>, <a class="code hl_enumvalue" href="../../dc/d43/a04727.html#a315ca917ad583797f709ea477dd28705a15adb0ab094ffe068674ecc6ea720d3a">LANG_UNIVERSAL</a>, <span class="keyword">nullptr</span>, <span class="keyword">nullptr</span>, line);</div>
+<div class="line"><span class="lineno"> 1421</span>                data_list.push_back(data);</div>
+<div class="line"><span class="lineno"> 1422</span>            }</div>
+<div class="line"><span class="lineno"> 1423</span>        }</div>
+<div class="ttc" id="aa04727_html_a249e68b260c9857b5d0d4cf4697fae16a8fcd3e7170e686c1826b9f7fcdf5df96"><div class="ttname"><a href="../../dc/d43/a04727.html#a249e68b260c9857b5d0d4cf4697fae16a8fcd3e7170e686c1826b9f7fcdf5df96">CHAT_MSG_SYSTEM</a></div><div class="ttdeci">@ CHAT_MSG_SYSTEM</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:3402</div></div>
+<div class="ttc" id="aa04727_html_a315ca917ad583797f709ea477dd28705a15adb0ab094ffe068674ecc6ea720d3a"><div class="ttname"><a href="../../dc/d43/a04727.html#a315ca917ad583797f709ea477dd28705a15adb0ab094ffe068674ecc6ea720d3a">LANG_UNIVERSAL</a></div><div class="ttdeci">@ LANG_UNIVERSAL</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:746</div></div>
+<div class="ttc" id="aa07538_html_a3295cee708d267aac165f9ee55d2e615"><div class="ttname"><a href="../../d3/ddf/a07538.html#a3295cee708d267aac165f9ee55d2e615">ChatHandler::BuildChatPacket</a></div><div class="ttdeci">static std::size_t BuildChatPacket(WorldPacket &amp;data, ChatMsg chatType, Language language, ObjectGuid senderGUID, ObjectGuid receiverGUID, std::string_view message, uint8 chatTag, std::string const &amp;senderName=&quot;&quot;, std::string const &amp;receiverName=&quot;&quot;, uint32 achievementId=0, bool gmMessage=false, std::string const &amp;channelName=&quot;&quot;)</div><div class="ttdef"><b>Definition:</b> Chat.cpp:265</div></div>
+<div class="ttc" id="aa11118_html"><div class="ttname"><a href="../../da/d5f/a11118.html">WorldPacket</a></div><div class="ttdef"><b>Definition:</b> WorldPacket.h:26</div></div>
+<div class="ttc" id="aa11690_html_a3a71edb992528d81471d370ba3d8d211"><div class="ttname"><a href="../../da/dda/a11690.html#a3a71edb992528d81471d370ba3d8d211">Acore::WorldWorldTextBuilder::lineFromMessage</a></div><div class="ttdeci">char * lineFromMessage(char *&amp;pos)</div><div class="ttdef"><b>Definition:</b> World.cpp:1413</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00198">m_battlesWon</a>, <a class="el" href="../../#l00199">m_lastAttackZone</a>, <a class="el" href="../../#l00200">m_remaining</a>, <a class="el" href="../../#l00195">m_state</a>, and <a class="el" href="../../#l00197">m_timers</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00265">ChatHandler::BuildChatPacket()</a>, <a class="el" href="../../#l03402">CHAT_MSG_SYSTEM</a>, <a class="el" href="../../#l00746">LANG_UNIVERSAL</a>, and <a class="el" href="../../#l01413">lineFromMessage()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00187">WorldState::Save()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01392">operator()()</a>.</p>
 
 </div>
 </div>
-<a id="a0ae2fc830e4f85fb619c38fdcad794ae" name="a0ae2fc830e4f85fb619c38fdcad794ae"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0ae2fc830e4f85fb619c38fdcad794ae">&#9670;&#160;</a></span>Reset()</h2>
+<a id="a3a71edb992528d81471d370ba3d8d211" name="a3a71edb992528d81471d370ba3d8d211"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3a71edb992528d81471d370ba3d8d211">&#9670;&#160;</a></span>lineFromMessage()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void ScourgeInvasionData::Reset </td>
+          <td class="memname">char * Acore::WorldWorldTextBuilder::lineFromMessage </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
+          <td class="paramtype">char *&amp;&#160;</td>
+          <td class="paramname"><em>pos</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1409</span>{</div>
-<div class="line"><span class="lineno"> 1410</span>    std::lock_guard&lt;std::mutex&gt; guard(<a class="code hl_variable" href="../../da/dda/a11690.html#acefb72f28d000395bc1362cd9a62b26a">m_siMutex</a>);</div>
-<div class="line"><span class="lineno"> 1411</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span>&amp; timepoint : <a class="code hl_variable" href="../../da/dda/a11690.html#a06375cf97a023be4f3fff94cc43405a9">m_timers</a>)</div>
-<div class="line"><span class="lineno"> 1412</span>        timepoint = <a class="code hl_typedef" href="../../d7/d06/a00131.html#ae5ca775e8d8c664b6edef818ce1251b9">TimePoint</a>();</div>
-<div class="line"><span class="lineno"> 1413</span> </div>
-<div class="line"><span class="lineno"> 1414</span>    <a class="code hl_variable" href="../../da/dda/a11690.html#aea7079c6f876188857219c574ca0798d">m_battlesWon</a> = 0;</div>
-<div class="line"><span class="lineno"> 1415</span>    <a class="code hl_variable" href="../../da/dda/a11690.html#a38ead6b33009083055538fd4f0b7de35">m_lastAttackZone</a> = 0;</div>
-<div class="line"><span class="lineno"> 1416</span>    <a class="code hl_variable" href="../../da/dda/a11690.html#a7c251f312e332ab60fa6de6e8cf4189d">m_broadcastTimer</a> = 10000;</div>
-<div class="line"><span class="lineno"> 1417</span>    memset(<a class="code hl_variable" href="../../da/dda/a11690.html#afa0f9b63b3c2111affdf9769ee529d88">m_remaining</a>, 0, <span class="keyword">sizeof</span>(<a class="code hl_variable" href="../../da/dda/a11690.html#afa0f9b63b3c2111affdf9769ee529d88">m_remaining</a>));</div>
-<div class="line"><span class="lineno"> 1418</span>}</div>
-<div class="ttc" id="aa00131_html_ae5ca775e8d8c664b6edef818ce1251b9"><div class="ttname"><a href="../../d7/d06/a00131.html#ae5ca775e8d8c664b6edef818ce1251b9">TimePoint</a></div><div class="ttdeci">std::chrono::steady_clock::time_point TimePoint</div><div class="ttdoc">time_point shorthand typedefs</div><div class="ttdef"><b>Definition:</b> Duration.h:69</div></div>
-<div class="ttc" id="aa11690_html_acefb72f28d000395bc1362cd9a62b26a"><div class="ttname"><a href="../../da/dda/a11690.html#acefb72f28d000395bc1362cd9a62b26a">ScourgeInvasionData::m_siMutex</a></div><div class="ttdeci">std::mutex m_siMutex</div><div class="ttdef"><b>Definition:</b> WorldState.h:202</div></div>
+<div class="fragment"><div class="line"><span class="lineno"> 1413</span>{ <span class="keywordtype">char</span>* start = strtok(pos, <span class="stringliteral">&quot;\n&quot;</span>); pos = <span class="keyword">nullptr</span>; <span class="keywordflow">return</span> start; }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00198">m_battlesWon</a>, <a class="el" href="../../#l00201">m_broadcastTimer</a>, <a class="el" href="../../#l00199">m_lastAttackZone</a>, <a class="el" href="../../#l00200">m_remaining</a>, <a class="el" href="../../#l00202">m_siMutex</a>, and <a class="el" href="../../#l00197">m_timers</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01414">do_helper()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00048">WorldState::Load()</a>, and <a class="el" href="../../#l01431">WorldState::StopScourgeInvasion()</a>.</p>
+</div>
+</div>
+<a id="ae08f4d73e048b351ae4326cc63278ae6" name="ae08f4d73e048b351ae4326cc63278ae6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae08f4d73e048b351ae4326cc63278ae6">&#9670;&#160;</a></span>operator()()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void Acore::WorldWorldTextBuilder::operator() </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../da/dda/a11690.html#ac02e770af167d14f978954cf5ac74487">WorldPacketList</a> &amp;&#160;</td>
+          <td class="paramname"><em>data_list</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../db/dbc/a00395.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a>&#160;</td>
+          <td class="paramname"><em>loc_idx</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno"> 1393</span>        {</div>
+<div class="line"><span class="lineno"> 1394</span>            std::string strtext = <a class="code hl_define" href="../../d2/daf/a03245.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a>-&gt;GetAcoreString(<a class="code hl_variable" href="../../da/dda/a11690.html#ab246baa9a8ce259d8190ac1c8318c75d">i_textId</a>, loc_idx);</div>
+<div class="line"><span class="lineno"> 1395</span>            <span class="keywordtype">char</span> <span class="keyword">const</span>* text = strtext.c_str();</div>
+<div class="line"><span class="lineno"> 1396</span> </div>
+<div class="line"><span class="lineno"> 1397</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../da/dda/a11690.html#ac2ae2ce8dc49ce7469142383e6e097d4">i_args</a>)</div>
+<div class="line"><span class="lineno"> 1398</span>            {</div>
+<div class="line"><span class="lineno"> 1399</span>                <span class="comment">// we need copy va_list before use or original va_list will corrupted</span></div>
+<div class="line"><span class="lineno"> 1400</span>                va_list ap;</div>
+<div class="line"><span class="lineno"> 1401</span>                va_copy(ap, *<a class="code hl_variable" href="../../da/dda/a11690.html#ac2ae2ce8dc49ce7469142383e6e097d4">i_args</a>);</div>
+<div class="line"><span class="lineno"> 1402</span> </div>
+<div class="line"><span class="lineno"> 1403</span>                <span class="keywordtype">char</span> str[2048];</div>
+<div class="line"><span class="lineno"> 1404</span>                vsnprintf(str, 2048, text, ap);</div>
+<div class="line"><span class="lineno"> 1405</span>                va_end(ap);</div>
+<div class="line"><span class="lineno"> 1406</span> </div>
+<div class="line"><span class="lineno"> 1407</span>                <a class="code hl_function" href="../../da/dda/a11690.html#ae8b58ec72a6c87aee46e9fe693deab32">do_helper</a>(data_list, &amp;str[0]);</div>
+<div class="line"><span class="lineno"> 1408</span>            }</div>
+<div class="line"><span class="lineno"> 1409</span>            <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno"> 1410</span>                <a class="code hl_function" href="../../da/dda/a11690.html#ae8b58ec72a6c87aee46e9fe693deab32">do_helper</a>(data_list, (<span class="keywordtype">char</span>*)text);</div>
+<div class="line"><span class="lineno"> 1411</span>        }</div>
+<div class="ttc" id="aa03245_html_a736e30da2b5261060ac6cdbb5de3b787"><div class="ttname"><a href="../../d2/daf/a03245.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a></div><div class="ttdeci">#define sObjectMgr</div><div class="ttdef"><b>Definition:</b> ObjectMgr.h:1650</div></div>
+<div class="ttc" id="aa11690_html_ae8b58ec72a6c87aee46e9fe693deab32"><div class="ttname"><a href="../../da/dda/a11690.html#ae8b58ec72a6c87aee46e9fe693deab32">Acore::WorldWorldTextBuilder::do_helper</a></div><div class="ttdeci">void do_helper(WorldPacketList &amp;data_list, char *text)</div><div class="ttdef"><b>Definition:</b> World.cpp:1414</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l01414">do_helper()</a>, <a class="el" href="../../#l01426">i_args</a>, <a class="el" href="../../#l01425">i_textId</a>, and <a class="el" href="../../#l01650">sObjectMgr</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="af98aea31bf9c878adf2870890911282f" name="af98aea31bf9c878adf2870890911282f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af98aea31bf9c878adf2870890911282f">&#9670;&#160;</a></span>m_activeInvasions</h2>
+<a id="ac2ae2ce8dc49ce7469142383e6e097d4" name="ac2ae2ce8dc49ce7469142383e6e097d4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac2ae2ce8dc49ce7469142383e6e097d4">&#9670;&#160;</a></span>i_args</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::map&lt;<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../de/d45/a11694.html">InvasionZone</a>&gt; ScourgeInvasionData::m_activeInvasions</td>
+          <td class="memname">va_list* Acore::WorldWorldTextBuilder::i_args</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01903">WorldState::GetActiveZones()</a>, <a class="el" href="../../#l01779">WorldState::HandleActiveZone()</a>, <a class="el" href="../../#l01320">ScourgeInvasionData()</a>, <a class="el" href="../../#l01835">WorldState::SetMouthGuid()</a>, <a class="el" href="../../#l01627">WorldState::StartNewInvasion()</a>, <a class="el" href="../../#l01289">WorldState::StartScourgeInvasion()</a>, <a class="el" href="../../#l01431">WorldState::StopScourgeInvasion()</a>, and <a class="el" href="../../#l00304">WorldState::Update()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01392">operator()()</a>.</p>
 
 </div>
 </div>
-<a id="aea7079c6f876188857219c574ca0798d" name="aea7079c6f876188857219c574ca0798d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aea7079c6f876188857219c574ca0798d">&#9670;&#160;</a></span>m_battlesWon</h2>
+<a id="ab246baa9a8ce259d8190ac1c8318c75d" name="ab246baa9a8ce259d8190ac1c8318c75d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab246baa9a8ce259d8190ac1c8318c75d">&#9670;&#160;</a></span>i_textId</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ScourgeInvasionData::m_battlesWon</td>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> Acore::WorldWorldTextBuilder::i_textId</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01496">WorldState::AddBattlesWon()</a>, <a class="el" href="../../#l01490">WorldState::GetBattlesWon()</a>, <a class="el" href="../../#l01420">GetData()</a>, <a class="el" href="../../#l01038">WorldState::GetScourgeInvasionPrintout()</a>, <a class="el" href="../../#l01560">WorldState::HandleDefendedZones()</a>, <a class="el" href="../../#l00048">WorldState::Load()</a>, and <a class="el" href="../../#l01408">Reset()</a>.</p>
-
-</div>
-</div>
-<a id="a7c251f312e332ab60fa6de6e8cf4189d" name="a7c251f312e332ab60fa6de6e8cf4189d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7c251f312e332ab60fa6de6e8cf4189d">&#9670;&#160;</a></span>m_broadcastTimer</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a> ScourgeInvasionData::m_broadcastTimer</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l01408">Reset()</a>, and <a class="el" href="../../#l00304">WorldState::Update()</a>.</p>
-
-</div>
-</div>
-<a id="a70127135568b3a439f040697f1dc525c" name="a70127135568b3a439f040697f1dc525c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a70127135568b3a439f040697f1dc525c">&#9670;&#160;</a></span>m_cityAttacks</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">std::map&lt;<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../dd/da4/a11698.html">CityAttack</a>&gt; ScourgeInvasionData::m_cityAttacks</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l01320">ScourgeInvasionData()</a>, <a class="el" href="../../#l01830">WorldState::SetPallidGuid()</a>, <a class="el" href="../../#l01669">WorldState::StartNewCityAttack()</a>, <a class="el" href="../../#l01289">WorldState::StartScourgeInvasion()</a>, <a class="el" href="../../#l01431">WorldState::StopScourgeInvasion()</a>, and <a class="el" href="../../#l00304">WorldState::Update()</a>.</p>
-
-</div>
-</div>
-<a id="a38ead6b33009083055538fd4f0b7de35" name="a38ead6b33009083055538fd4f0b7de35"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a38ead6b33009083055538fd4f0b7de35">&#9670;&#160;</a></span>m_lastAttackZone</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ScourgeInvasionData::m_lastAttackZone</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l01420">GetData()</a>, <a class="el" href="../../#l01504">WorldState::GetLastAttackZone()</a>, <a class="el" href="../../#l01038">WorldState::GetScourgeInvasionPrintout()</a>, <a class="el" href="../../#l00048">WorldState::Load()</a>, <a class="el" href="../../#l01408">Reset()</a>, and <a class="el" href="../../#l01510">WorldState::SetLastAttackZone()</a>.</p>
-
-</div>
-</div>
-<a id="af62efb05ce49a3cb764328976f8054f6" name="af62efb05ce49a3cb764328976f8054f6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af62efb05ce49a3cb764328976f8054f6">&#9670;&#160;</a></span>m_pendingInvasions</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">std::set&lt;<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt; ScourgeInvasionData::m_pendingInvasions</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l01840">WorldState::AddPendingInvasion()</a>, <a class="el" href="../../#l01903">WorldState::GetActiveZones()</a>, and <a class="el" href="../../#l01846">WorldState::RemovePendingInvasion()</a>.</p>
-
-</div>
-</div>
-<a id="a2a2f610d9c398bc82f4e39eea4fbadfc" name="a2a2f610d9c398bc82f4e39eea4fbadfc"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2a2f610d9c398bc82f4e39eea4fbadfc">&#9670;&#160;</a></span>m_pendingPallids</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">std::set&lt;<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt; ScourgeInvasionData::m_pendingPallids</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l01852">WorldState::AddPendingPallid()</a>, <a class="el" href="../../#l01858">WorldState::RemovePendingPallid()</a>, and <a class="el" href="../../#l01669">WorldState::StartNewCityAttack()</a>.</p>
-
-</div>
-</div>
-<a id="afa0f9b63b3c2111affdf9769ee529d88" name="afa0f9b63b3c2111affdf9769ee529d88"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#afa0f9b63b3c2111affdf9769ee529d88">&#9670;&#160;</a></span>m_remaining</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ScourgeInvasionData::m_remaining[<a class="el" href="../../d0/d08/a02936.html#a3fb19d2d868c1633a094f84570f4a6eea0abbcd0daa00c858c12ab1824d026514">SI_REMAINING_MAX</a>]</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l01420">GetData()</a>, <a class="el" href="../../#l01038">WorldState::GetScourgeInvasionPrintout()</a>, <a class="el" href="../../#l01450">WorldState::GetSIRemaining()</a>, <a class="el" href="../../#l00048">WorldState::Load()</a>, <a class="el" href="../../#l01408">Reset()</a>, and <a class="el" href="../../#l01473">WorldState::SetSIRemaining()</a>.</p>
-
-</div>
-</div>
-<a id="acefb72f28d000395bc1362cd9a62b26a" name="acefb72f28d000395bc1362cd9a62b26a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#acefb72f28d000395bc1362cd9a62b26a">&#9670;&#160;</a></span>m_siMutex</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">std::mutex ScourgeInvasionData::m_siMutex</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l01496">WorldState::AddBattlesWon()</a>, <a class="el" href="../../#l01840">WorldState::AddPendingInvasion()</a>, <a class="el" href="../../#l01852">WorldState::AddPendingPallid()</a>, <a class="el" href="../../#l01490">WorldState::GetBattlesWon()</a>, <a class="el" href="../../#l01504">WorldState::GetLastAttackZone()</a>, <a class="el" href="../../#l01038">WorldState::GetScourgeInvasionPrintout()</a>, <a class="el" href="../../#l01846">WorldState::RemovePendingInvasion()</a>, <a class="el" href="../../#l01858">WorldState::RemovePendingPallid()</a>, <a class="el" href="../../#l01408">Reset()</a>, <a class="el" href="../../#l01510">WorldState::SetLastAttackZone()</a>, and <a class="el" href="../../#l01473">WorldState::SetSIRemaining()</a>.</p>
-
-</div>
-</div>
-<a id="acb26a954f14aec654513b16e5e53cad8" name="acb26a954f14aec654513b16e5e53cad8"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#acb26a954f14aec654513b16e5e53cad8">&#9670;&#160;</a></span>m_state</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/d08/a02936.html#aecf9527110a7255a02e5f9add33dd690">SIState</a> ScourgeInvasionData::m_state</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l01940">WorldState::FillInitialWorldStates()</a>, <a class="el" href="../../#l01420">GetData()</a>, <a class="el" href="../../#l01038">WorldState::GetScourgeInvasionPrintout()</a>, <a class="el" href="../../#l00048">WorldState::Load()</a>, <a class="el" href="../../#l01247">WorldState::SetScourgeInvasionState()</a>, <a class="el" href="../../#l01289">WorldState::StartScourgeInvasion()</a>, and <a class="el" href="../../#l00304">WorldState::Update()</a>.</p>
-
-</div>
-</div>
-<a id="a06375cf97a023be4f3fff94cc43405a9" name="a06375cf97a023be4f3fff94cc43405a9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a06375cf97a023be4f3fff94cc43405a9">&#9670;&#160;</a></span>m_timers</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d7/d06/a00131.html#ae5ca775e8d8c664b6edef818ce1251b9">TimePoint</a> ScourgeInvasionData::m_timers[<a class="el" href="../../d0/d08/a02936.html#a785ea701ad6ed657955501468a40e99ea7191361d832875bb172d35d73e709fc8">SI_TIMER_MAX</a>]</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l01420">GetData()</a>, <a class="el" href="../../#l01038">WorldState::GetScourgeInvasionPrintout()</a>, <a class="el" href="../../#l01480">WorldState::GetSITimer()</a>, <a class="el" href="../../#l00048">WorldState::Load()</a>, <a class="el" href="../../#l01408">Reset()</a>, and <a class="el" href="../../#l01485">WorldState::SetSITimer()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01392">operator()()</a>.</p>
 
 </div>
 </div>
@@ -535,8 +393,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../da/dda/a11690.html">ScourgeInvasionData</a></li>
-    <li class="footer">Generated on Mon Sep 1 2025 20:44:20 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d3/d7d/a04797.html">Acore</a></li><li class="navelem"><a class="el" href="../../da/dda/a11690.html">WorldWorldTextBuilder</a></li>
+    <li class="footer">Generated on Mon Sep 8 2025 20:45:54 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

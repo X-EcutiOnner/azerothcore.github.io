@@ -1,6 +1,7 @@
 var a12018 =
 [
-    [ "npc_burning_spiritAI", "d9/df9/a12022.html", "d9/df9/a12022" ],
-    [ "npc_burning_spirit", "d7/d87/a12018.html#a596e654486c82d15d7a37b069a99856d", null ],
-    [ "GetAI", "d7/d87/a12018.html#a3c704a0856d669a1e684e5a858bc4334", null ]
+    [ "npc_rocknotAI", "d9/df9/a12022.html", "d9/df9/a12022" ],
+    [ "npc_rocknot", "d7/d87/a12018.html#a64a0cd215c1f4881948e5a49cf1b86d7", null ],
+    [ "GetAI", "d7/d87/a12018.html#ac8a90d54e9303c40f0313fda1dcfea86", null ],
+    [ "OnQuestReward", "d7/d87/a12018.html#abd8ad3d7e6dd1e557398e268409a2c98", null ]
 ];

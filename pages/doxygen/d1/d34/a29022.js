@@ -1,6 +1,7 @@
 var a29022 =
 [
-    [ "go_witherbark_totem_bundleAI", "d5/d85/a29026.html", "d5/d85/a29026" ],
-    [ "go_witherbark_totem_bundle", "d1/d34/a29022.html#affcdff7ec6894add0acec842028efd2e", null ],
-    [ "GetAI", "d1/d34/a29022.html#a5ac2b3b572d67fdcc587f242f3d50f97", null ]
+    [ "Paths", "d1/d34/a29022.html#aff167c694a55441bcf5504f5d1933f41", null ],
+    [ "References", "d1/d34/a29022.html#a07f0d7daa9cd934768b8a603dc52bea3", null ],
+    [ "Sets", "d1/d34/a29022.html#a43774f8dd70e85e16aa8d49b5c6a25b6", null ],
+    [ "Spawns", "d1/d34/a29022.html#a51f24c059516683f0744b81819186c0e", null ]
 ];

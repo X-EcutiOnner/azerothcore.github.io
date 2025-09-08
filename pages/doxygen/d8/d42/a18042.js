@@ -1,6 +1,5 @@
 var a18042 =
 [
-    [ "PrepareSpellScript", "d8/d42/a18042.html#a16eadb50b6038f16ea28464d00df3381", null ],
-    [ "Register", "d8/d42/a18042.html#ac6e304d391011863b8eff8105fab5191", null ],
-    [ "SelectDest", "d8/d42/a18042.html#a8ff5d684c0b91d0f068d03698c1ee92c", null ]
+    [ "npc_volatile_oozeAI", "d8/d42/a18042.html#af042d4c22482aabcdad6fa867dfe093f", null ],
+    [ "CastMainSpell", "d8/d42/a18042.html#a91890785174ecc60c9553a0aedf1961b", null ]
 ];

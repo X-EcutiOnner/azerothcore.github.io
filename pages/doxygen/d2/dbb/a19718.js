@@ -1,10 +1,6 @@
 var a19718 =
 [
-    [ "npc_molten_golemAI", "d2/dbb/a19718.html#a5172d70649be5030fd91e1adbcad4f06", null ],
-    [ "DamageTaken", "d2/dbb/a19718.html#a0dd2ca5b83f5d75c51dfa358544c018a", null ],
-    [ "DoAction", "d2/dbb/a19718.html#ada2e9c39ce16f00b47df2f52971d99b1", null ],
-    [ "Reset", "d2/dbb/a19718.html#a9f90e791c77377c02c66e5d809c555cc", null ],
-    [ "UpdateAI", "d2/dbb/a19718.html#ade3cfd0deb27508f5f084b1b49caf13f", null ],
-    [ "events", "d2/dbb/a19718.html#ad97142df8344df59eddfb92471d1a737", null ],
-    [ "m_pInstance", "d2/dbb/a19718.html#ad1a300c13e98965b935c1e3fc26b9606", null ]
+    [ "CalculateDamage", "d2/dbb/a19718.html#ae38f8cfb44de2798d7a284c942617678", null ],
+    [ "PrepareSpellScript", "d2/dbb/a19718.html#a043955d56e0ae4c54d70e8fe6e417dd1", null ],
+    [ "Register", "d2/dbb/a19718.html#ab4b32d2db39c8d9079a83c89d63ccd93", null ]
 ];

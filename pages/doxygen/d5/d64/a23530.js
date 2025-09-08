@@ -1,7 +1,5 @@
 var a23530 =
 [
-    [ "boss_hydromancer_thespia", "d5/d64/a23530.html#a5747c2da9914dcf4118ee0fb37a3a3fd", null ],
-    [ "JustDied", "d5/d64/a23530.html#ad0662daabd636bbf544a6791187d71fa", null ],
-    [ "JustEngagedWith", "d5/d64/a23530.html#af230e57ec259e5c92c4034a674d1b6a5", null ],
-    [ "KilledUnit", "d5/d64/a23530.html#ae1bb4819867ef5718cb5d9130d62fa20", null ]
+    [ "boss_quagmirran", "d5/d64/a23530.html#a7f6289b86216b052f434a1417023e22c", null ],
+    [ "JustEngagedWith", "d5/d64/a23530.html#a28253b6653bd2e26e7f246c71a88b625", null ]
 ];

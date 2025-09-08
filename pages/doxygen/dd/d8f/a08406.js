@@ -1,11 +1,9 @@
 var a08406 =
 [
-    [ "MovableMapObject", "dd/d8f/a08406.html#ad9f4cb74c55993cfdfc5895aefc33cfb", null ],
-    [ "GetCurrentCell", "dd/d8f/a08406.html#a6d7d87cff5f00f3b370584675caf7870", null ],
-    [ "SetCurrentCell", "dd/d8f/a08406.html#a4caa8c9e50452bff413dec06bf80b84c", null ],
-    [ "Map", "dd/d8f/a08406.html#ad2f32e921244459f7cc6d50355429cc6", null ],
-    [ "ObjectGridLoader", "dd/d8f/a08406.html#a9551c85ae0e43e4d212225c643da2262", null ],
-    [ "RandomMovementGenerator", "dd/d8f/a08406.html#a260ebfc53c9406bc0356c553822d8ab2", null ],
-    [ "_currentCell", "dd/d8f/a08406.html#a529db8859c0c9713bcc2f62459bbcc9f", null ],
-    [ "_moveState", "dd/d8f/a08406.html#a6782d8e3dc7de58ef83a83cf0a355e43", null ]
+    [ "Reset", "dd/d8f/a08406.html#a9c210ff536b49481f71bc6c3f60ee864", null ],
+    [ "guid", "dd/d8f/a08406.html#ac115013e34f67bc1444fef4fc96c843e", null ],
+    [ "pos", "dd/d8f/a08406.html#adff317cbf0c2d159d8ffddf52b4751b3", null ],
+    [ "seat", "dd/d8f/a08406.html#ad57bea2ae3beb6a086a116989b0d528f", null ],
+    [ "time", "dd/d8f/a08406.html#acec3991f0d19fd9f72e9837eef516057", null ],
+    [ "time2", "dd/d8f/a08406.html#a426c651d2f359847b033a4d7f278a191", null ]
 ];

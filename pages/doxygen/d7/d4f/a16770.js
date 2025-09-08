@@ -1,5 +1,6 @@
 var a16770 =
 [
-    [ "boss_eydisAI", "d7/d4f/a16770.html#a0e97e184b2a2f610730cd3d455702955", null ],
-    [ "JustSummoned", "d7/d4f/a16770.html#aa5ae64cfe003a25859364a12cb871199", null ]
+    [ "boss_icehowlAI", "dc/dde/a16774.html", "dc/dde/a16774" ],
+    [ "boss_icehowl", "d7/d4f/a16770.html#ab3c9711fa6af17be9dc7331b42c408be", null ],
+    [ "GetAI", "d7/d4f/a16770.html#ac77bf3b9d954b8c6be01d0209a80cc6a", null ]
 ];

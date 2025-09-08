@@ -1,7 +1,6 @@
 var a13786 =
 [
-    [ "npc_greengill_slaveAI", "dd/d08/a13786.html#a1a4268b745e63992f4d0fc2028b717aa", null ],
-    [ "JustEngagedWith", "dd/d08/a13786.html#ad7fcb8c711782d3a76e9e4566334fc21", null ],
-    [ "SpellHit", "dd/d08/a13786.html#a0e75a3e8eb3503fdb3aea12e65ccc6e4", null ],
-    [ "UpdateAI", "dd/d08/a13786.html#a6fa27328cf47bef81c3465b8a3e2ace1", null ]
+    [ "OnEffect", "dd/d08/a13786.html#a41903586310ec274dd10537ccb8655f3", null ],
+    [ "PrepareSpellScript", "dd/d08/a13786.html#a17240b9d80e5f30cd4638e2ec5b92d0b", null ],
+    [ "Register", "dd/d08/a13786.html#a64ef9effcdeaf13b58aeef889d777f22", null ]
 ];

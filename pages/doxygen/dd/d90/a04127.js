@@ -1,6 +1,6 @@
 var a04127 =
 [
-    [ "GameEventScript", "d9/d3c/a10322.html", "d9/d3c/a10322" ],
+    [ "GameEventScript", "d5/d54/a10338.html", "d5/d54/a10338" ],
     [ "GameEventHook", "dd/d90/a04127.html#a6f634b591917b5ff2ab57f9739afa44b", [
       [ "GAMEEVENTHOOK_ON_START", "dd/d90/a04127.html#a6f634b591917b5ff2ab57f9739afa44ba82c1717fbd1ba7a6739ce48d1fb3bab6", null ],
       [ "GAMEEVENTHOOK_ON_STOP", "dd/d90/a04127.html#a6f634b591917b5ff2ab57f9739afa44ba598d3e2c3c0ff442208e1df830a02e5d", null ],

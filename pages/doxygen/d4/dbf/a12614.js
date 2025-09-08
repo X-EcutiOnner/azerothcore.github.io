@@ -1,6 +1,6 @@
 var a12614 =
 [
-    [ "boss_shazzrahAI", "d3/d70/a12618.html", "d3/d70/a12618" ],
-    [ "boss_shazzrah", "d4/dbf/a12614.html#a99a162d6eac5c9046a27f53ec05af7e4", null ],
-    [ "GetAI", "d4/dbf/a12614.html#a8135f6ab246dbce4c2ebebe0e7f137d5", null ]
+    [ "boss_ragnarosAI", "d3/d70/a12618.html", "d3/d70/a12618" ],
+    [ "boss_ragnaros", "d4/dbf/a12614.html#a47bd4dc50a0d05e8cbb75c1a5a52c9b5", null ],
+    [ "GetAI", "d4/dbf/a12614.html#af54e36608e160811ca06952fd2c63f6e", null ]
 ];

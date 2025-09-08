@@ -1,15 +1,20 @@
 var a07526 =
 [
-    [ "Print", "d7/d7c/a07526.html#a7a3f746595d9ca126747f5e0ba52c71b", null ],
-    [ "CliHandler", "d7/d7c/a07526.html#a6a7ba928db9d41743d7cebd1ad98b084", null ],
-    [ "GetAcoreString", "d7/d7c/a07526.html#ab12ec41c55bc5f92461abff538a76b66", null ],
-    [ "GetNameLink", "d7/d7c/a07526.html#ae879bbfa69992caa7a0b1b2b3c7d939c", null ],
-    [ "GetSessionDbcLocale", "d7/d7c/a07526.html#a610f7431dc7b064c964e0d446160d19f", null ],
-    [ "GetSessionDbLocaleIndex", "d7/d7c/a07526.html#a5a2118d9227aa53818d736e387d77dea", null ],
-    [ "HasSession", "d7/d7c/a07526.html#a1cd4aabe4c61e3899a1e6d6785742abe", null ],
-    [ "needReportToTarget", "d7/d7c/a07526.html#ad8c4ee6e45afff55d94dea9704bd2097", null ],
-    [ "ParseCommands", "d7/d7c/a07526.html#abbd02247d6094bf39b2791ba45e9942e", null ],
-    [ "SendSysMessage", "d7/d7c/a07526.html#a636be10a282a8d100b807dac119b3ff6", null ],
-    [ "m_callbackArg", "d7/d7c/a07526.html#aa1fafd68fca180506cc15680b695db9e", null ],
-    [ "m_print", "d7/d7c/a07526.html#aadeaa84ce5d26951f506a2656c1d64d2", null ]
+    [ "ChannelMap", "d7/d7c/a07526.html#a84c686f095464d67f750309244a47ba5", null ],
+    [ "ChannelRightsMap", "d7/d7c/a07526.html#a4e153c81aede8182160b0a5ab89e5b4b", null ],
+    [ "ChannelMgr", "d7/d7c/a07526.html#aa671334be6933f374466666ec5c6cc46", null ],
+    [ "~ChannelMgr", "d7/d7c/a07526.html#a2f9099cf528aacae9110d349841e57a7", null ],
+    [ "forTeam", "d7/d7c/a07526.html#a62fd837572c3c88d8848115c98587401", null ],
+    [ "GetChannel", "d7/d7c/a07526.html#a89dbd4095eeeb79ae59947beb2d2cd17", null ],
+    [ "GetChannelRightsFor", "d7/d7c/a07526.html#a5cc03c09dfc33a89d3d4f59d1e92d757", null ],
+    [ "GetJoinChannel", "d7/d7c/a07526.html#a92540d37b38ccc032665fa220349a4ec", null ],
+    [ "LoadChannelRights", "d7/d7c/a07526.html#a4fa043d2c61f5013d62b192d46bd453a", null ],
+    [ "LoadChannels", "d7/d7c/a07526.html#a73e822c758aacb7f959407b100b9aff6", null ],
+    [ "MakeNotOnPacket", "d7/d7c/a07526.html#ae85b95eac40037d5066efa17fb484bc5", null ],
+    [ "SetChannelRightsFor", "d7/d7c/a07526.html#a1d672ab806b5e00bdd96d3a56fe3520b", null ],
+    [ "_channelIdMax", "d7/d7c/a07526.html#a41bbe928d2e50c899a10b4b7da0e1a68", null ],
+    [ "_teamId", "d7/d7c/a07526.html#a1ac5de545c0cb91088176fae883748ed", null ],
+    [ "channelRightsEmpty", "d7/d7c/a07526.html#aecb848ba8e3cfa8ccdb84a1f62a26ab9", null ],
+    [ "channels", "d7/d7c/a07526.html#a823810bd463e51a0fb007712717f13dd", null ],
+    [ "channels_rights", "d7/d7c/a07526.html#adfc7c2e0156b2dc290c1c0f307a6911f", null ]
 ];

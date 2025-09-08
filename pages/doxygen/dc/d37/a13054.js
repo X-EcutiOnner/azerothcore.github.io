@@ -1,11 +1,14 @@
 var a13054 =
 [
-    [ "npc_scarlet_ghoulAI", "dc/d37/a13054.html#a194795143717de5aa8f0ca4c4e516136", null ],
-    [ "InitializeAI", "dc/d37/a13054.html#ad0fd204d15350332508b0c9d9decefb1", null ],
-    [ "MovementInform", "dc/d37/a13054.html#a9836c91a7dede1fabd1e0a9523ebd26a", null ],
-    [ "OwnerAttackedBy", "dc/d37/a13054.html#a5b0afc1f2ee57a1cc5e30b8e997ba218", null ],
-    [ "SetGUID", "dc/d37/a13054.html#a832602498643a03087efbc0a5a2f81c3", null ],
-    [ "UpdateAI", "dc/d37/a13054.html#adbe4d539552e7954c7bdb8e520cb9783", null ],
-    [ "events", "dc/d37/a13054.html#a105ac0982d28be590d514d2e452109c0", null ],
-    [ "gothikGUID", "dc/d37/a13054.html#ab5efaf2e030f92d7ab45de8b5d19804d", null ]
+    [ "npc_death_knight_initiateAI", "dc/d37/a13054.html#aa03a128068072b85bf0926cdececaaf2", null ],
+    [ "DamageTaken", "dc/d37/a13054.html#ac83f7d28886eaf5fb44c3c6ce44a7acd", null ],
+    [ "GetData", "dc/d37/a13054.html#ac3216c0cf7284fd7a8d5ece153467b41", null ],
+    [ "Reset", "dc/d37/a13054.html#ad152856d614c8f4c900f77749ac55dd9", null ],
+    [ "SpellHit", "dc/d37/a13054.html#a308f2f29ec7f9277d102564ff6d39e32", null ],
+    [ "UpdateAI", "dc/d37/a13054.html#a6e67cda0b83578818a5e3b34ed9517cf", null ],
+    [ "_duelGUID", "dc/d37/a13054.html#a32dd4a91841f2e75c8bca109015fc56a", null ],
+    [ "_duelInProgress", "dc/d37/a13054.html#a3fdcf062b22c08b1dd616dad591a1021", null ],
+    [ "events", "dc/d37/a13054.html#aa1c6d513e04253d0b83522c9c1cc2ac8", null ],
+    [ "playerGUIDs", "dc/d37/a13054.html#ac12adec2cb751e2e41008954bbe20248", null ],
+    [ "timer", "dc/d37/a13054.html#ad22e8bc9e0d22a5ba164a60e438d98a7", null ]
 ];

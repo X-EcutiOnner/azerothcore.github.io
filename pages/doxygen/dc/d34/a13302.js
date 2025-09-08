@@ -1,8 +1,7 @@
 var a13302 =
 [
-    [ "FilterTargets", "dc/d34/a13302.html#a4c7627dc20c4dafcee4d6faf97d3914e", null ],
-    [ "HandleScript", "dc/d34/a13302.html#aecb62c147905d0a4fe60086b8028df0b", null ],
-    [ "PrepareSpellScript", "dc/d34/a13302.html#a84ed93d5235781d9d53a47fff39d3ad2", null ],
-    [ "Register", "dc/d34/a13302.html#a2832f131d99608923ade8070e17da86d", null ],
-    [ "Validate", "dc/d34/a13302.html#a1a510f9cf49df69c5904cb79c8cdc860", null ]
+    [ "npc_apothecary_genericAI", "dc/d34/a13302.html#afb2b04b51e28d0795e7781effa68dffd", null ],
+    [ "DoAction", "dc/d34/a13302.html#a59074beefbd3d80104b64f8ecc2ef8e0", null ],
+    [ "MovementInform", "dc/d34/a13302.html#a63530bd7c3ebcd66521a268e11bf2f93", null ],
+    [ "_movePos", "dc/d34/a13302.html#a53d10ab64df212b043cc21e054f6528c", null ]
 ];

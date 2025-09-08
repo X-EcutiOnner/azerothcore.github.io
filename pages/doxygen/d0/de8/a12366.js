@@ -1,7 +1,14 @@
 var a12366 =
 [
-    [ "HandleScript", "d0/de8/a12366.html#ac6ef94a03f602b44a5c7c22b7e41d116", null ],
-    [ "PrepareSpellScript", "d0/de8/a12366.html#ad92a56c23b9f15e36766fe64d1d0dd17", null ],
-    [ "Register", "d0/de8/a12366.html#aa8ad85cbf0403d79e55bbe0ae184407b", null ],
-    [ "Validate", "d0/de8/a12366.html#a3ad038e7bf43dceedb0fceebd4070bfa", null ]
+    [ "boss_chromaggusAI", "d0/de8/a12366.html#a06f811fb8aa0c15e07e8a771ac722056", null ],
+    [ "CanAIAttack", "d0/de8/a12366.html#a4643974601831ced1f6173965009ad20", null ],
+    [ "Initialize", "d0/de8/a12366.html#a0697edb4aa9fb60a0db2ccf54c32dc19", null ],
+    [ "JustEngagedWith", "d0/de8/a12366.html#a66b6f31ebcfdb2fe9adba85311e655bb", null ],
+    [ "PathEndReached", "d0/de8/a12366.html#a2805052cd90212ecb9b5f313f4ecc384", null ],
+    [ "Reset", "d0/de8/a12366.html#aaa72a25326e9c4e1936020a1e6e7b87a", null ],
+    [ "SetGUID", "d0/de8/a12366.html#a9b5889af178418a3750ae84707818cf7", null ],
+    [ "UpdateAI", "d0/de8/a12366.html#a4a120f99c6586fd06af6699bfe913d24", null ],
+    [ "_breathSpells", "d0/de8/a12366.html#a10e18592d163d4be586701de47da48c9", null ],
+    [ "_playerGUID", "d0/de8/a12366.html#a03a7fc87c67b04eb0b1289276023c1b4", null ],
+    [ "Enraged", "d0/de8/a12366.html#acc8b5cfbae8debb22a0493400ec310c4", null ]
 ];

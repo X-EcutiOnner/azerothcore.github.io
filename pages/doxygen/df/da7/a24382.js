@@ -1,6 +1,5 @@
 var a24382 =
 [
-    [ "npc_lord_illidan_stormrageAI", "db/dfe/a24386.html", "db/dfe/a24386" ],
-    [ "npc_lord_illidan_stormrage", "df/da7/a24382.html#ad2f213749e170ec4f9903396d132f5f3", null ],
-    [ "GetAI", "df/da7/a24382.html#a9aaedc4326b90621965dad522f4af897", null ]
+    [ "creature", "df/da7/a24382.html#ab4b8f837dbfb42bcbb161f81f846aad9", null ],
+    [ "Timer", "df/da7/a24382.html#a2be497dc190c1f01f939e12083739882", null ]
 ];

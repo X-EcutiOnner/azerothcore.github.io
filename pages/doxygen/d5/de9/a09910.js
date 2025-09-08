@@ -1,6 +1,9 @@
 var a09910 =
 [
-    [ "aiNotifyDelay", "d5/de9/a09910.html#af70453021c5ded85c73a4d5559dca2ea", null ],
-    [ "requiredMoveDistanceSq", "d5/de9/a09910.html#aaa4faa0170181e409940b5441eb2f586", null ],
-    [ "visibilityNotifyDelay", "d5/de9/a09910.html#ad566fd5eff102929247b75cf5092a60b", null ]
+    [ "TransportAnimation", "d5/de9/a09910.html#a775b84b54deefd38af40222afd82d572", null ],
+    [ "GetAnimNode", "d5/de9/a09910.html#a73b56750c90afce38dbf57793bae16f3", null ],
+    [ "GetAnimRotation", "d5/de9/a09910.html#aa2c892f14712828acaa85fa6e6d919bb", null ],
+    [ "Path", "d5/de9/a09910.html#a7c45df781dda8058d281a2cf7e5fe5fb", null ],
+    [ "Rotations", "d5/de9/a09910.html#a5fa771fb487c437d7d6229eadf7d90c3", null ],
+    [ "TotalTime", "d5/de9/a09910.html#a59a31ffc2e642a3950b0509130a76ad4", null ]
 ];

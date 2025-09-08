@@ -1,8 +1,5 @@
 var a10622 =
 [
-    [ "GuildEvent", "dc/d72/a10622.html#a78be16122c01d4c68d67e050ede92006", null ],
-    [ "Write", "dc/d72/a10622.html#a4ae1c0daaec964981ad982b97c1b0408", null ],
-    [ "Guid", "dc/d72/a10622.html#a35bcac3da7db22a22b4e8dba21ae1d0a", null ],
-    [ "Params", "dc/d72/a10622.html#a8f0faa70581ca04c26f87ebcd25cee80", null ],
-    [ "Type", "dc/d72/a10622.html#a961ae90991fa23bfc94a054dba357392", null ]
+    [ "AcceptGuildInvite", "dc/d72/a10622.html#a4453fc550871082f6295d9229eef265a", null ],
+    [ "Read", "dc/d72/a10622.html#a3d39b917ca2650f645ccce12cdc1a1e0", null ]
 ];

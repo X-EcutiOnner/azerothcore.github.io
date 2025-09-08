@@ -1,8 +1,6 @@
 var a23534 =
 [
-    [ "boss_mekgineer_steamrigger", "d1/d9e/a23534.html#a930dcbade7135d0c689bcc0718815547", null ],
-    [ "JustDied", "d1/d9e/a23534.html#a79272c233bc0256cca62700fc7a01421", null ],
-    [ "JustEngagedWith", "d1/d9e/a23534.html#aa75dea00ffd73b45ba5115ea1e48a006", null ],
-    [ "JustSummoned", "d1/d9e/a23534.html#a7a55a9dffaf239e73962356eb0fa88ad", null ],
-    [ "KilledUnit", "d1/d9e/a23534.html#a84374438458cb7e034f91d4b65cd22f1", null ]
+    [ "boss_rokmar_the_crackler", "d1/d9e/a23534.html#a0aca6a30d045bbea6f434979f4f1d2e9", null ],
+    [ "JustEngagedWith", "d1/d9e/a23534.html#ae376e6a96fa07136790f3ed04ee1023b", null ],
+    [ "Reset", "d1/d9e/a23534.html#aed9cf4a866d5e70647125a08885fb809", null ]
 ];

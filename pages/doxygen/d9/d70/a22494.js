@@ -1,6 +1,6 @@
 var a22494 =
 [
-    [ "HandleScriptEffect", "d9/d70/a22494.html#a66849cb61f056e861d8887dc98f6ccbf", null ],
-    [ "PrepareSpellScript", "d9/d70/a22494.html#afa4ad1b205bf963b4230881738baf938", null ],
-    [ "Register", "d9/d70/a22494.html#a0d8925effced854471e2fbec9c631b91", null ]
+    [ "npc_icefangAI", "d0/d35/a22498.html", "d0/d35/a22498" ],
+    [ "npc_icefang", "d9/d70/a22494.html#a2e13be89b110abaa2509e597e4cf883a", null ],
+    [ "GetAI", "d9/d70/a22494.html#ad1a936b1eef30271912054a817e0c9f8", null ]
 ];

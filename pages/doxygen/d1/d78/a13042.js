@@ -1,6 +1,7 @@
 var a13042 =
 [
-    [ "CheckRequirement", "d1/d78/a13042.html#a31d69034f463d552afa4063bf89271da", null ],
-    [ "PrepareSpellScript", "d1/d78/a13042.html#adc2176d25d25167b8a1fa9517e2ab945", null ],
-    [ "Register", "d1/d78/a13042.html#a5bb1eff829db1f7ecd3dbf61b821c328", null ]
+    [ "HandleScriptEffect", "d1/d78/a13042.html#a1b196f3817c16fac48392981b58c1a05", null ],
+    [ "PrepareSpellScript", "d1/d78/a13042.html#ad44566ff9a44057679e7ce8e1959776d", null ],
+    [ "Register", "d1/d78/a13042.html#aef3bfdaff9f0b5080d83805a1a962a79", null ],
+    [ "Validate", "d1/d78/a13042.html#a70a1f0d2666921ccbad62c1fd06fe4b6", null ]
 ];

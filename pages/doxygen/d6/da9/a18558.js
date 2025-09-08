@@ -1,7 +1,7 @@
 var a18558 =
 [
-    [ "HandleProc", "d6/da9/a18558.html#af06730a865009127c7d3e5423afd4d44", null ],
-    [ "PrepareAuraScript", "d6/da9/a18558.html#a71a81a19a0c543a4aa43d6bf002b7bb9", null ],
-    [ "Register", "d6/da9/a18558.html#a6c97b787ce00491a259c575d26189f8c", null ],
-    [ "Validate", "d6/da9/a18558.html#aed9c98e20d916359629e119d6dd2a94f", null ]
+    [ "CalculateBonus", "d6/da9/a18558.html#ae149a739150cb7eb9fb67f19130c0510", null ],
+    [ "OnPeriodic", "d6/da9/a18558.html#a19697bd65a325870becc1c30d7deff36", null ],
+    [ "PrepareAuraScript", "d6/da9/a18558.html#a77c272d4a26323c421e4b264f79d5b66", null ],
+    [ "Register", "d6/da9/a18558.html#aecd8670e3a079c8460cddd5ce0b4f79b", null ]
 ];

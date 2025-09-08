@@ -1,7 +1,7 @@
 var a11714 =
 [
-    [ "achievement_commandscript", "d9/dc8/a11714.html#ac1c40d7b3b628cc206c44eae18592292", null ],
-    [ "GetCommands", "d9/dc8/a11714.html#adeac4e6f74f006daa76b0ebb8ea1469c", null ],
-    [ "HandleAchievementAddCommand", "d9/dc8/a11714.html#ac4f6addfb0c52d584bf8081436aa3d7a", null ],
-    [ "HandleAchievementCheckAllCommand", "d9/dc8/a11714.html#a0e3b83961ff20899a8492c8d8b7c13be", null ]
+    [ "map", "d9/dc8/a11714.html#ab52fa79b07a9fad5b0cf8a28669a94eb", null ],
+    [ "pallid", "d9/dc8/a11714.html#a0693df9090f40b7b1b8dba0003b6092e", null ],
+    [ "pallidGuid", "d9/dc8/a11714.html#ae78b3d7448e8f43a993f46208039f0b1", null ],
+    [ "zoneId", "d9/dc8/a11714.html#ad035d67dce95aa1ad7a1f39b1cf7b847", null ]
 ];

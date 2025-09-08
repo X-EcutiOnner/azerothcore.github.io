@@ -1,8 +1,6 @@
 var a12150 =
 [
-    [ "boss_drakkisathAI", "d2/dd3/a12150.html#a7c347bcdb092afcd64b481b87d0895ea", null ],
-    [ "JustEngagedWith", "d2/dd3/a12150.html#a09f7c704579bdb8dad951ce63b5a54c9", null ],
-    [ "UpdateAI", "d2/dd3/a12150.html#a02ffab01744c0dbb8b5a60794e82bdb0", null ],
-    [ "_conflagrateTarget", "d2/dd3/a12150.html#a6a74b74e4e4b45aec86f70a5211ddd28", null ],
-    [ "_conflagrateThreat", "d2/dd3/a12150.html#aae3762b27c3d99b32f47293c544e4afe", null ]
+    [ "RestoreAttack", "d2/dd3/a12150.html#a8c5b3b0cbe7f5bfebb1c09987c4066e3", null ],
+    [ "Execute", "d2/dd3/a12150.html#a633e5abe4a3a9353df63d3778b8d71bc", null ],
+    [ "_boss", "d2/dd3/a12150.html#a493ef909da834b0befd90f57f54fb10c", null ]
 ];

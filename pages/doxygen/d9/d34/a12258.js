@@ -1,12 +1,11 @@
 var a12258 =
 [
-    [ "boss_thebeastAI", "d9/d34/a12258.html#a51b7d4ec10d2616d99fb21e680ff17b4", null ],
-    [ "FindNearbyOrcs", "d9/d34/a12258.html#ad832a878880ac32e05d360262546422a", null ],
-    [ "JustEngagedWith", "d9/d34/a12258.html#ab107354f10d0af4b840ab5ff8d3d0eaf", null ],
-    [ "Reset", "d9/d34/a12258.html#abfa1bca308a02ef0e80d2baf11670305", null ],
-    [ "SetData", "d9/d34/a12258.html#a6f30ed7c0451613998660b258145f801", null ],
-    [ "UpdateAI", "d9/d34/a12258.html#a0f490e907ce632e1fb921a6eb46b49c0", null ],
-    [ "_beastReached", "d9/d34/a12258.html#a01271598b4b3c85a7066e66d8150e522", null ],
-    [ "_nearbyOrcsGUIDs", "d9/d34/a12258.html#af32fb34f4c76cfe292da9bc84a5d6372", null ],
-    [ "_orcYelled", "d9/d34/a12258.html#a16df847475ea220b8ac4ea944e8d1ca4", null ]
+    [ "boss_solakar_flamewreathAI", "d9/d34/a12258.html#ada12a91bedec9be8923f9dc74fce07d0", null ],
+    [ "ExecuteEvent", "d9/d34/a12258.html#aa1fca22d30b15ee93cc02084ebab0c2c", null ],
+    [ "InitializeAI", "d9/d34/a12258.html#a7a8a5d3c453e29ec746422e1ba8e4d34", null ],
+    [ "JustDied", "d9/d34/a12258.html#aceb580afa2329ada3236dc759f3a3c20", null ],
+    [ "JustEngagedWith", "d9/d34/a12258.html#a47f8a133b6f8c0de11a66b712bb8e266", null ],
+    [ "Reset", "d9/d34/a12258.html#a25ae2943a7ce9a1f459cfd1313c84c49", null ],
+    [ "UpdateAI", "d9/d34/a12258.html#ac5f908584251455c720ce3f25ed07dae", null ],
+    [ "resetTimer", "d9/d34/a12258.html#acd7fdd30767a7863f265eb96e29c221e", null ]
 ];

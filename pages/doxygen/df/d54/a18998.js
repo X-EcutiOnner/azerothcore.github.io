@@ -1,6 +1,8 @@
 var a18998 =
 [
-    [ "npc_icc_vengeful_fleshreaperAI", "d2/d94/a19002.html", "d2/d94/a19002" ],
-    [ "npc_icc_vengeful_fleshreaper", "df/d54/a18998.html#aa95ec1e021f3d123e5a95c356765ac36", null ],
-    [ "GetAI", "df/d54/a18998.html#abf1903616dbf52718313c8b404b504a5", null ]
+    [ "Class", "df/d54/a18998.html#a095390e9023609f5836c4481ed79e1af", null ],
+    [ "cooldown_ms", "df/d54/a18998.html#a6f1fdab250e8557d16066c03a54fb2a4", null ],
+    [ "id", "df/d54/a18998.html#ae9fdf89271339b93f306c4aa0871f844", null ],
+    [ "range", "df/d54/a18998.html#aad126da206abceb6a66dcda1cbd3b28b", null ],
+    [ "targetType", "df/d54/a18998.html#ae5fc8cb423536f631591d3b72bfd06dd", null ]
 ];

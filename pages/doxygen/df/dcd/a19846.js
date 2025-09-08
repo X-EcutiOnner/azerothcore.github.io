@@ -1,6 +1,7 @@
 var a19846 =
 [
-    [ "CosmicSmashDamageEvent", "df/dcd/a19846.html#a5c9606791b560d8be1825a9c73f2393e", null ],
-    [ "Execute", "df/dcd/a19846.html#a2d4b301e1b7e0852ec47280ad97871f2", null ],
-    [ "_caster", "df/dcd/a19846.html#ab7af2459d3962831812ee2362ee9de2b", null ]
+    [ "HandleEffectRemove", "df/dcd/a19846.html#af61220cb739baef9b33aecddb1cfe5ea", null ],
+    [ "PrepareAuraScript", "df/dcd/a19846.html#ad8035b1b676751fcc299e4ad8df62ed8", null ],
+    [ "Register", "df/dcd/a19846.html#abe52dbfdbd42c860e0a79873dd19e22d", null ],
+    [ "Validate", "df/dcd/a19846.html#a7c4f9df92b501720e30372fa9e9dbad7", null ]
 ];

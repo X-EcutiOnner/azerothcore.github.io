@@ -1,7 +1,13 @@
 var a12422 =
 [
-    [ "HandlePeriodic", "d6/d8d/a12422.html#a72e043202c587e6c12d0b36d679cd071", null ],
-    [ "PrepareAuraScript", "d6/d8d/a12422.html#a7ca007283e34855ee825ae160653f4a3", null ],
-    [ "Register", "d6/d8d/a12422.html#aebad39c65167042be8db3c3a1811a235", null ],
-    [ "Validate", "d6/d8d/a12422.html#aaf87c4052fd5408f7e34e2e14500e813", null ]
+    [ "boss_nefarian", "d6/d8d/a12422.html#ac8ea4f24ed97cace4630d4720b1acf47", null ],
+    [ "JustDied", "d6/d8d/a12422.html#a4a0a4cf4ee63ce744ffb580747f992b9", null ],
+    [ "JustEngagedWith", "d6/d8d/a12422.html#a6a547ba5aea4d5af2a621e5d97ceae43", null ],
+    [ "KilledUnit", "d6/d8d/a12422.html#a6fdf265e453deb8f9a4214beacf3dbab", null ],
+    [ "MovementInform", "d6/d8d/a12422.html#a0eea749c0392a7713e372cc1f236cdcd", null ],
+    [ "PathEndReached", "d6/d8d/a12422.html#a45ec4ab3cdf9b4de91a9ae682f3335e8", null ],
+    [ "Reset", "d6/d8d/a12422.html#a5d687fce34b17e22c605c263395e823b", null ],
+    [ "UpdateAI", "d6/d8d/a12422.html#a205c9b1d4116fbd0a1ca972f39094abc", null ],
+    [ "_introDone", "d6/d8d/a12422.html#a5710c721f3a24762b8cc3e79e6a14951", null ],
+    [ "classesPresent", "d6/d8d/a12422.html#acffc9b31a0a50ee5701c272e32c912c6", null ]
 ];

@@ -1,6 +1,6 @@
 var a20374 =
 [
-    [ "npc_ulduar_toasty_fireAI", "dd/db9/a20378.html", "dd/db9/a20378" ],
-    [ "npc_ulduar_toasty_fire", "de/d29/a20374.html#a5a5b77088b24f1c5743c58034190d5ab", null ],
-    [ "GetAI", "de/d29/a20374.html#a2518ec39c3cea2f3efc5000e0a7779d0", null ]
+    [ "npc_ulduar_icicleAI", "dd/db9/a20378.html", "dd/db9/a20378" ],
+    [ "npc_ulduar_icicle", "de/d29/a20374.html#a1ab79b2fa3e64779f62b96c195222683", null ],
+    [ "GetAI", "de/d29/a20374.html#a71dd83d544307b11bcde58f9aeea097c", null ]
 ];

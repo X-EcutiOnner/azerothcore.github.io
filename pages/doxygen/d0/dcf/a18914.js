@@ -1,7 +1,5 @@
 var a18914 =
 [
-    [ "OnRemove", "d0/dcf/a18914.html#ac71e6f5a9e3a7c96b4e4bd1a296d0d8d", null ],
-    [ "PrepareAuraScript", "d0/dcf/a18914.html#acf654e563f47df9ad033d7080f47662b", null ],
-    [ "Register", "d0/dcf/a18914.html#aad4497ba7cad48b9547e8696714d8c23", null ],
-    [ "Validate", "d0/dcf/a18914.html#ae5e187cb481849343e777b0bf0ffdf24", null ]
+    [ "at_icc_saurfang_portal", "d0/dcf/a18914.html#a7f30058251c520634a0b7bad08380e5d", null ],
+    [ "OnTrigger", "d0/dcf/a18914.html#a8980fe0e67aa33335f0fdb947a294213", null ]
 ];

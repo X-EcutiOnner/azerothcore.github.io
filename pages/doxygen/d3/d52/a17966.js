@@ -1,7 +1,5 @@
 var a17966 =
 [
-    [ "npc_coldflameAI", "d3/d52/a17966.html#a2a8420b79357f7a2167dddbd68ec8bc0", null ],
-    [ "IsSummonedBy", "d3/d52/a17966.html#a1a330428ac8f17dc673fb1ae4d57035a", null ],
-    [ "UpdateAI", "d3/d52/a17966.html#a5a847ae7c15b309cb1393b6d16a6e220", null ],
-    [ "events", "d3/d52/a17966.html#af3b7d4ca1b268fe0d786eee83c0a3596", null ]
+    [ "at_lady_deathwhisper_entrance", "d3/d52/a17966.html#a3c16844f4ff97fd0699edb1d1aca2f60", null ],
+    [ "OnTrigger", "d3/d52/a17966.html#a769c838c94a88af5492057909d88f3de", null ]
 ];

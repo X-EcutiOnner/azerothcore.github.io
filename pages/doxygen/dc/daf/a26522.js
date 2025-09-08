@@ -1,5 +1,6 @@
 var a26522 =
 [
-    [ "spell_q55_sacred_cleansing", "dc/daf/a26522.html#a4aa8a16350a7a55706841471fd985ca2", null ],
-    [ "GetSpellScript", "dc/daf/a26522.html#a50a8f2d777169aaeef88533b66b88fb2", null ]
+    [ "CheckRequirement", "dc/daf/a26522.html#acaae3858de4d56028e3cb4581a57450c", null ],
+    [ "PrepareSpellScript", "dc/daf/a26522.html#aa1013bb1b09aae7b691b6325c8e7a405", null ],
+    [ "Register", "dc/daf/a26522.html#aa490168c69f9ba5c12db3171516dd8ac", null ]
 ];

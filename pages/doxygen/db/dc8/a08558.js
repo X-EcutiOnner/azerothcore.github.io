@@ -1,8 +1,6 @@
 var a08558 =
 [
-    [ "PlayerCreateInfoAction", "db/dc8/a08558.html#a50d56595c71374e132dfe9f988144e75", null ],
-    [ "PlayerCreateInfoAction", "db/dc8/a08558.html#a1e1d33b18074031e408da10f44a9a9c4", null ],
-    [ "action", "db/dc8/a08558.html#a957d05ae25fd1ca801e097f03f9cc43e", null ],
-    [ "button", "db/dc8/a08558.html#ac0c4658cfb1fc01cbb55116dd6dbe899", null ],
-    [ "type", "db/dc8/a08558.html#a41e4a38f2c12f9e68b835fe17e56bc7e", null ]
+    [ "PlayerCreateInfoItem", "db/dc8/a08558.html#aba5495af3d4c463f7f65fa1851879d3b", null ],
+    [ "item_amount", "db/dc8/a08558.html#a2cc481d54ec0c8a58477803364f40b2a", null ],
+    [ "item_id", "db/dc8/a08558.html#a54e5593fe1a1e06b16963c96f1840a2a", null ]
 ];

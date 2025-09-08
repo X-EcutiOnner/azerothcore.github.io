@@ -1,6 +1,7 @@
 var a13714 =
 [
-    [ "npc_augustus_the_touched", "de/da9/a13714.html#abc84c884345f44cf780410569cdee10c", null ],
-    [ "OnGossipHello", "de/da9/a13714.html#a81e0d4f2aaa685cd5231ea430c86e7b4", null ],
-    [ "OnGossipSelect", "de/da9/a13714.html#a992da9b22693c1fac1148b4ba545b819", null ]
+    [ "npc_eris_hevenfireAI", "dc/db0/a13718.html", "dc/db0/a13718" ],
+    [ "npc_eris_hevenfire", "de/da9/a13714.html#a77f0836dc0b19114316b8b67839d8033", null ],
+    [ "GetAI", "de/da9/a13714.html#ad67a81ad20fac785c199c16fea8fe6f8", null ],
+    [ "OnQuestAccept", "de/da9/a13714.html#a1e0baec5706cfddd678b58eb9359997e", null ]
 ];

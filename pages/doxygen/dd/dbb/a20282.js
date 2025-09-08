@@ -1,5 +1,6 @@
 var a20282 =
 [
-    [ "achievement_freya_getting_back_to_nature", "dd/dbb/a20282.html#aa4078b573a9335fc52c9b9609590b12f", null ],
-    [ "OnCheck", "dd/dbb/a20282.html#a850a32450379284784f019a5eb5ff0ff", null ]
+    [ "boss_freya_summonsAI", "dd/d7f/a20286.html", "dd/d7f/a20286" ],
+    [ "boss_freya_summons", "dd/dbb/a20282.html#a3445ed89967cc9a610472f18e862ecd4", null ],
+    [ "GetAI", "dd/dbb/a20282.html#ac68f231c37c61d262d6c16bc87a0f1c7", null ]
 ];

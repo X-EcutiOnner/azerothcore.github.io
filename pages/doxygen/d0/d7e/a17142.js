@@ -1,5 +1,6 @@
 var a17142 =
 [
-    [ "at_hor_battered_hilt_throw", "d0/d7e/a17142.html#a857812bd67ee2e62c5e450fae591cd9d", null ],
-    [ "OnTrigger", "d0/d7e/a17142.html#a30c72b4dc7e48fc87374cbfc2cdf0f50", null ]
+    [ "npc_hor_lumbering_abominationAI", "de/dcc/a17146.html", "de/dcc/a17146" ],
+    [ "npc_hor_lumbering_abomination", "d0/d7e/a17142.html#a0d394d1ba52a05a6db0ae983daea7123", null ],
+    [ "GetAI", "d0/d7e/a17142.html#a0601ac0af85e545617013846c48de29a", null ]
 ];

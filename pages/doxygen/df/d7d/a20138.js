@@ -1,8 +1,7 @@
 var a20138 =
 [
-    [ "OnApply", "df/d7d/a20138.html#a3f2ef4882bcd52e091a0bcfabfc352cd", null ],
-    [ "OnRemove", "df/d7d/a20138.html#ab967233994aa3ff07b272f010b2c1545", null ],
-    [ "PrepareAuraScript", "df/d7d/a20138.html#a788480ec4aaa57e643f55daca17c6ded", null ],
-    [ "Register", "df/d7d/a20138.html#a63a3e30704b282a430dcdbb9073a66df", null ],
-    [ "Validate", "df/d7d/a20138.html#a6ccb698445ce30c5224dcacc3dc8136b", null ]
+    [ "boss_flame_leviathan_safety_containerAI", "df/d7d/a20138.html#ab9191e20df488df184c468ca1ac41084", null ],
+    [ "MovementInform", "df/d7d/a20138.html#a1b472a233ebebbb4c1fbf639aeb4bed6", null ],
+    [ "UpdateAI", "df/d7d/a20138.html#a77b3a493c5650d91c903879db324651d", null ],
+    [ "_allowTimer", "df/d7d/a20138.html#a2185c9fe04fa7288fab452c5c1de3819", null ]
 ];

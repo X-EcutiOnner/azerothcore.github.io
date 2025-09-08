@@ -1,6 +1,7 @@
 var a15646 =
 [
-    [ "npcs_riverbreeze_and_silversky", "df/dbd/a15646.html#a9f012d5bbaa8b9f9822ddfbd86e7c4b2", null ],
-    [ "OnGossipHello", "df/dbd/a15646.html#a7de032322a37f929c316aadfdadda768", null ],
-    [ "OnGossipSelect", "df/dbd/a15646.html#a93c7b159dda733da5030de747bad30b5", null ]
+    [ "HandleDummy", "df/dbd/a15646.html#a38dafff805471b19ca3cca4ff5273a87", null ],
+    [ "PrepareSpellScript", "df/dbd/a15646.html#a40db5a46491aa22b5347f99b0251f1b8", null ],
+    [ "Register", "df/dbd/a15646.html#a2f297ab67d5e2e990658706f7c508bd4", null ],
+    [ "Validate", "df/dbd/a15646.html#abb7946f53e6271ae69d34caacef61f47", null ]
 ];

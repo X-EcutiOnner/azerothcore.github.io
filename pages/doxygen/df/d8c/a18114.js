@@ -1,6 +1,7 @@
 var a18114 =
 [
-    [ "ExtraEffect", "df/d8c/a18114.html#a10dfb36a835589208482e1c8833d8f46", null ],
-    [ "PrepareSpellScript", "df/d8c/a18114.html#a972ff2bdc7d3660820e05326600be6f6", null ],
-    [ "Register", "df/d8c/a18114.html#ae337e67a220b72b44878d02be33e3888", null ]
+    [ "HandleSummon", "df/d8c/a18114.html#a8a96bd3a1b3cfaff09e05535eca927a9", null ],
+    [ "PrepareSpellScript", "df/d8c/a18114.html#a0213cd8e5e79aba8ba80583ceda88b95", null ],
+    [ "Register", "df/d8c/a18114.html#a01281869dc98a0af5027695391f1221f", null ],
+    [ "Validate", "df/d8c/a18114.html#a26675411e5f86e6d31f62762a3fdcd70", null ]
 ];

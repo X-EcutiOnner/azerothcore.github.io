@@ -1,11 +1,25 @@
 var a13206 =
 [
-    [ "npc_valkyr_battle_maidenAI", "d0/db6/a13206.html#a859b63621c500c7a36150fadbb460b2b", null ],
-    [ "Reset", "d0/db6/a13206.html#a3ca06a5822f1b5ae625b1dcc71ec0c30", null ],
-    [ "UpdateAI", "d0/db6/a13206.html#a33251b8d8abb9b46a5af4cb4e92472b8", null ],
-    [ "FlyBackTimer", "d0/db6/a13206.html#a625eb33fb32f935c5109a8d3d70c5ae7", null ],
-    [ "phase", "d0/db6/a13206.html#abd5d71272aa575be8583254217194e49", null ],
-    [ "x", "d0/db6/a13206.html#a2dbae2865b6c6db4e82b7d1dc8a67739", null ],
-    [ "y", "d0/db6/a13206.html#acccea63fedf38de14f7818016830a0a9", null ],
-    [ "z", "d0/db6/a13206.html#adde328d26ad752a9e5f2ab32eab2a4e0", null ]
+    [ "npc_highlord_darion_mograineAI", "d0/db6/a13206.html#a04be4c12a255c082b2a00daf40e86d96", null ],
+    [ "DoAction", "d0/db6/a13206.html#a7103aa11bc2dff6942f4a4de5cd8d759", null ],
+    [ "FinishFight", "d0/db6/a13206.html#ab3fef458ca3180f49d78579f7485e76c", null ],
+    [ "GetData", "d0/db6/a13206.html#aa3eae106cf85eb7cb163f9780bf16b9f", null ],
+    [ "GetEntryFromSummons", "d0/db6/a13206.html#a2c9e336d14667aabc3e1a8f3a99fc1e7", null ],
+    [ "JustDied", "d0/db6/a13206.html#a2875789a251381677106f74e61efaa77", null ],
+    [ "JustEngagedWith", "d0/db6/a13206.html#ac6ca07a76351dfc5a82b0a57fdfa08d8", null ],
+    [ "JustRespawned", "d0/db6/a13206.html#a3116088116fe6b4a6b42014f7f5fb3a8", null ],
+    [ "JustSummoned", "d0/db6/a13206.html#a9ddc2350ffbbf6e3ae91410da55bd326", null ],
+    [ "MovementInform", "d0/db6/a13206.html#a205b7ebb74ca3be7a6a11fb2d8670288", null ],
+    [ "Reset", "d0/db6/a13206.html#a7dde645763bab79e34fa7421dbec518e", null ],
+    [ "SendInitialWorldStates", "d0/db6/a13206.html#ab49e38e481fcb263337f5224c1db7383", null ],
+    [ "SendUpdateWorldState", "d0/db6/a13206.html#a32fed806170c3664eeb1dd2a1bfdf278", null ],
+    [ "SummonedCreatureDies", "d0/db6/a13206.html#aa0935ab5c5a8a3ad41719e520703ff92", null ],
+    [ "UpdateAI", "d0/db6/a13206.html#a086efd646a7298ce17f7ead4688fa022", null ],
+    [ "battleStarted", "d0/db6/a13206.html#aecb7e1bdebf943e1793656f8a9c39917", null ],
+    [ "defendersRemaining", "d0/db6/a13206.html#a49b41a9719548bffd2020caea7a94a3d", null ],
+    [ "events", "d0/db6/a13206.html#a2155cbea373225904a3645a77738dea4", null ],
+    [ "resetExecuted", "d0/db6/a13206.html#ae1431b2f46cf2ae096e7ddfb22e54a28", null ],
+    [ "scourgeRemaining", "d0/db6/a13206.html#aabaa1fb49467d4dc5abf2a14ec833d15", null ],
+    [ "startTimeRemaining", "d0/db6/a13206.html#a503f8e5166ec08664085ae032611de61", null ],
+    [ "summons", "d0/db6/a13206.html#ae592eef844350ca8fa8415f343d8dffc", null ]
 ];

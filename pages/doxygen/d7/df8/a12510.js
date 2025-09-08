@@ -1,8 +1,9 @@
 var a12510 =
 [
-    [ "boss_garrAI", "d7/df8/a12510.html#a12d403a90bf4920763ddd87b252f544a", null ],
-    [ "JustEngagedWith", "d7/df8/a12510.html#a3b2bf0e6d3b6b32c450d03b1c88f3850", null ],
-    [ "Reset", "d7/df8/a12510.html#acb14e869dac8e7df83b5b9d858cd2b21", null ],
-    [ "UpdateAI", "d7/df8/a12510.html#aca82837e143f4509db221de15276b90c", null ],
-    [ "massEruptionTimer", "d7/df8/a12510.html#ab807c47afd1ba8320730c3aa733e1b15", null ]
+    [ "boss_baron_geddonAI", "d7/df8/a12510.html#a3a85b2a6e958a965e52a9fde87c08177", null ],
+    [ "DamageTaken", "d7/df8/a12510.html#ad339cb7149b50cf5accc24b5a2d0bf82", null ],
+    [ "ExecuteEvent", "d7/df8/a12510.html#a2c3ed57dd0336ce8ac1a85c957da9e4a", null ],
+    [ "JustEngagedWith", "d7/df8/a12510.html#a8c5e43b4b4e0583db7dcc93694202bd8", null ],
+    [ "Reset", "d7/df8/a12510.html#aaf47fc993e672877f51b5095f682906c", null ],
+    [ "armageddonCasted", "d7/df8/a12510.html#a1a034601a7dda94becbf1801bda63d55", null ]
 ];

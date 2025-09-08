@@ -1,7 +1,10 @@
 var a11254 =
 [
-    [ "chance", "d1/d17/a11254.html#a3326edd1fa36b85b9ab7a84a6f6f9d1b", null ],
-    [ "triggeredByAura", "d1/d17/a11254.html#abb48d6093570ba9c5488f200544a1e83", null ],
-    [ "triggeredByEffIdx", "d1/d17/a11254.html#a82d752dedab39f417af225add6af1403", null ],
-    [ "triggeredSpell", "d1/d17/a11254.html#a02ac12119655f9ab82347d21cc68803a", null ]
+    [ "TriggeredByAuraSpellData", "d1/d17/a11254.html#a3f4704eed73af1e37a3d09434cfcddae", null ],
+    [ "Init", "d1/d17/a11254.html#a782e0056967e006748318af3112c0e43", null ],
+    [ "operator bool", "d1/d17/a11254.html#a85d4782b76b060c172aaa6f914d400da", null ],
+    [ "operator!", "d1/d17/a11254.html#af7290a4c37b1829a98e436486fa8b6cd", null ],
+    [ "effectIndex", "d1/d17/a11254.html#a9bbee8d48d4beb8a21721a10e0380c41", null ],
+    [ "spellInfo", "d1/d17/a11254.html#af58f62fb168e9da7011f7b570f08e977", null ],
+    [ "tickNumber", "d1/d17/a11254.html#afbb1ffd006dc6eb00ccd65add87b1b22", null ]
 ];

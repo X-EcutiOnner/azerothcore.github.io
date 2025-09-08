@@ -1,5 +1,6 @@
 var a27530 =
 [
-    [ "go_massive_seaforium_charge", "df/d6b/a27530.html#adae43b764f237932923cd18207e4d23c", null ],
-    [ "OnGossipHello", "df/d6b/a27530.html#a187e28c773ad904f245d11d3f5b9d7e3", null ]
+    [ "go_soulwellAI", "d0/d36/a27534.html", "d0/d36/a27534" ],
+    [ "go_soulwell", "df/d6b/a27530.html#a3747499bd05326ef6f7024c0ee91a4ce", null ],
+    [ "GetAI", "df/d6b/a27530.html#a0c8b8cf09c26ad08c1c6dbb1a0c57861", null ]
 ];

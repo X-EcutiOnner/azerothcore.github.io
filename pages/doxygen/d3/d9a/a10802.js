@@ -1,7 +1,7 @@
 var a10802 =
 [
-    [ "ReadItem", "d3/d9a/a10802.html#a099da7490ccf30ee0bde5f85e6197a76", null ],
-    [ "Read", "d3/d9a/a10802.html#a61ae8ba19d04f3001614f8dd2ad408ed", null ],
-    [ "Bag", "d3/d9a/a10802.html#a16c02f27e986ac3d093668092d67a3c9", null ],
-    [ "Slot", "d3/d9a/a10802.html#a1d181a1cec1021cf68a5d9b80d2753c3", null ]
+    [ "AutoEquipItemSlot", "d3/d9a/a10802.html#aa51f40a4172ac41548ec6199bc84375d", null ],
+    [ "Read", "d3/d9a/a10802.html#ade6a15026e9c461b38301edf79f367be", null ],
+    [ "DestinationSlot", "d3/d9a/a10802.html#a683a9bd141b2f99db431de2ae7d213e3", null ],
+    [ "ItemGuid", "d3/d9a/a10802.html#a9d4da587061833262acff66674d3ac41", null ]
 ];

@@ -1,8 +1,7 @@
 var a24570 =
 [
-    [ "npc_pet_gen_wind_rider_cub", "d0/d60/a24570.html#a17e1f3155b9a9864459e48d1cd11c6a6", null ],
-    [ "UpdateAI", "d0/d60/a24570.html#a534d122522d553e106e6c7729d6c55db", null ],
-    [ "checkTimer", "d0/d60/a24570.html#a39fcfc5f5d9a630180713512db778b32", null ],
-    [ "checkTimer2", "d0/d60/a24570.html#aabeaf7a9b5b77df540e1111950860e98", null ],
-    [ "isFlying", "d0/d60/a24570.html#a57124f8172bd15a5e6c708edff41dc2f", null ]
+    [ "npc_pet_gen_target_following_bomb", "d0/d60/a24570.html#a447c2cd258d784ca1d79c79412a1a426", null ],
+    [ "UpdateAI", "d0/d60/a24570.html#ac68f18d68a313623c04e885f9506f287", null ],
+    [ "bombSpellId", "d0/d60/a24570.html#a3c72bd26c66d3e7a85f3152557e399c4", null ],
+    [ "checkTimer", "d0/d60/a24570.html#a694ee5f884f1bd404f0ef3d3030a212f", null ]
 ];

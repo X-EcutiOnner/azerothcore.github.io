@@ -1,13 +1,20 @@
 var a05586 =
 [
-    [ "IntervalTimer", "d4/d20/a05586.html#a2538976b639e25e63a8ab5927663ade1", null ],
-    [ "GetCurrent", "d4/d20/a05586.html#a93a456d6ff6d74cc889517fc585626e8", null ],
-    [ "GetInterval", "d4/d20/a05586.html#a986bec1dcb7325088517f6721636abcc", null ],
-    [ "Passed", "d4/d20/a05586.html#a9b3ac2407baf9763fa899e35a5c55fbe", null ],
-    [ "Reset", "d4/d20/a05586.html#ae243f18c4c3174b91fa01f6d08b04d4d", null ],
-    [ "SetCurrent", "d4/d20/a05586.html#ab315f686c2777dc21c824d8674479f9f", null ],
-    [ "SetInterval", "d4/d20/a05586.html#a28d95330f971d3a37aaf53e4f16aad4a", null ],
-    [ "Update", "d4/d20/a05586.html#aa1f5b922ea2d95c49924a506ca37a676", null ],
-    [ "_current", "d4/d20/a05586.html#a99c5aec27af00ffbbd83c5adbd2e2016", null ],
-    [ "_interval", "d4/d20/a05586.html#a179584ce91f62ba5e74ae3f34ee32fbc", null ]
+    [ "Task", "d4/d20/a05586.html#a15fd2d39bf79bd4d8ea432b5543f5efc", null ],
+    [ "Task", "d4/d20/a05586.html#ad9b788727c5e8dfa5c424970f882b1dc", null ],
+    [ "Task", "d4/d20/a05586.html#a7eec23707deabeb93b600ad1b17812d6", null ],
+    [ "Task", "d4/d20/a05586.html#a9acec30a90c44ffcff66c256a9caf01a", null ],
+    [ "IsInGroup", "d4/d20/a05586.html#a0bbb86f1ed4357c9af9813e551fc41d7", null ],
+    [ "operator<", "d4/d20/a05586.html#aa53b9d06447478218858aaff7634daab", null ],
+    [ "operator=", "d4/d20/a05586.html#af7f962055b0324a6fedcdd91d9d375dd", null ],
+    [ "operator=", "d4/d20/a05586.html#a97319b03103a3013d96f7abe094ab6a5", null ],
+    [ "operator==", "d4/d20/a05586.html#ac245f8900a292b6ad6ece4c44da85e11", null ],
+    [ "operator>", "d4/d20/a05586.html#a45990c164939b2c5a4fafc541103f70f", null ],
+    [ "TaskContext", "d4/d20/a05586.html#ab75a9caf07880e5ba2bb9f75068bbe7e", null ],
+    [ "TaskScheduler", "d4/d20/a05586.html#a9f0573c5408a663c3874787eeb7d599e", null ],
+    [ "_duration", "d4/d20/a05586.html#add2dd72f389df2168012eb70160f6eb3", null ],
+    [ "_end", "d4/d20/a05586.html#a09a7b8fbb3878aef1cc5f76367e4d43b", null ],
+    [ "_group", "d4/d20/a05586.html#ad9e890cbd7ed9ff7b8829e132605d432", null ],
+    [ "_repeated", "d4/d20/a05586.html#a85e8a2803a79f877e94162cc824fabbe", null ],
+    [ "_task", "d4/d20/a05586.html#a0d846eeae80d54906771ba41281fbdc0", null ]
 ];

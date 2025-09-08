@@ -1,8 +1,7 @@
 var a24762 =
 [
-    [ "HandleEffectApply", "da/deb/a24762.html#a88e98bcb11fb16696f789878f79c665c", null ],
-    [ "HandleEffectRemove", "da/deb/a24762.html#ab2d5f1dccd9bdf9f087ee3203b0d18c2", null ],
-    [ "PrepareAuraScript", "da/deb/a24762.html#a64f9e0f3d0376342767b912e32642c6c", null ],
-    [ "Register", "da/deb/a24762.html#a72d6639589588282ea15cfe83c9e9b76", null ],
-    [ "Validate", "da/deb/a24762.html#ac936c92c3a24fba95505243cd3e79c21", null ]
+    [ "CheckCast", "da/deb/a24762.html#ab215bbeea333d250ecbff0482f4f0966", null ],
+    [ "FilterTargets", "da/deb/a24762.html#a6ee8387c7fed3fd3042852a2f542c5bd", null ],
+    [ "PrepareSpellScript", "da/deb/a24762.html#a83447d184bb2299987d0c54d5af4c910", null ],
+    [ "Register", "da/deb/a24762.html#a6107ba00471dd346c363db80fe81b698", null ]
 ];

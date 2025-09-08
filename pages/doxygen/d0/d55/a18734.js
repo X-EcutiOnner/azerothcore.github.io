@@ -1,7 +1,6 @@
 var a18734 =
 [
-    [ "HandleForceCast", "d0/d55/a18734.html#accc757e0a23103242865f0ce3085f9d9", null ],
-    [ "Load", "d0/d55/a18734.html#a7206571378a0196a8648659628bdeece", null ],
-    [ "PrepareSpellScript", "d0/d55/a18734.html#a8bb6db3eaebab00d3166b24ad1e41158", null ],
-    [ "Register", "d0/d55/a18734.html#ace665321732f59f13b2ef831c71c2f18", null ]
+    [ "PeriodicTick", "d0/d55/a18734.html#ac0b2cf06027c2f658745d6a90dfc76a1", null ],
+    [ "PrepareAuraScript", "d0/d55/a18734.html#a0767ac60151517b803e871a0fcb25967", null ],
+    [ "Register", "d0/d55/a18734.html#afd1e28b224035aef5ac109f38d7e118d", null ]
 ];

@@ -1,13 +1,12 @@
 var a07426 =
 [
-    [ "banners", "dc/dad/a07426.html#a07c98125c64d119232fec9cc80050537", null ],
-    [ "faction", "dc/dad/a07426.html#ab3758f67da3dcb507bb1acab575e2836", null ],
-    [ "gameobject_entry", "dc/dad/a07426.html#ae80024986e048e05dca174d6b14964d3", null ],
-    [ "gameobject_type", "dc/dad/a07426.html#ac4760cba40ba8916d66cae3712f7c641", null ],
-    [ "last_entry", "dc/dad/a07426.html#a968d6f412ba88b9577429910ffa511a5", null ],
-    [ "needChange", "dc/dad/a07426.html#acecd97e26d19c82e934817ecbc2afce9", null ],
-    [ "nodeState", "dc/dad/a07426.html#a214e160c6fd94cefb4d080a94a12ba56", null ],
-    [ "nodeType", "dc/dad/a07426.html#a3b303a427c4a2248dade5eada6774dc9", null ],
-    [ "timer", "dc/dad/a07426.html#a434605ed0efcc262057a65d7cd8d0128", null ],
-    [ "worldStates", "dc/dad/a07426.html#ae5d3b4b37fc5b7983c08b54d94d6c3d2", null ]
+    [ "CapturePointInfo", "dc/dad/a07426.html#a8bd80d9a019a5579d32051c6c3f91c0b", null ],
+    [ "IsUncontrolled", "dc/dad/a07426.html#a4a4dbb61dd3ae83084ee518830fb7db0", null ],
+    [ "IsUnderControl", "dc/dad/a07426.html#a3f33897525f5104e2e7733dd6247c090", null ],
+    [ "IsUnderControl", "dc/dad/a07426.html#af6b021020b120b87c300981b8bb60992", null ],
+    [ "_areaTrigger", "dc/dad/a07426.html#aca64138e11e9e29a55bfedeee5b7e7ea", null ],
+    [ "_barStatus", "dc/dad/a07426.html#a02da5cc40ac6e97e63380d6f66e10d7e", null ],
+    [ "_ownerTeamId", "dc/dad/a07426.html#a5f0019635c5d05489f1ef97a95a7f01d", null ],
+    [ "_playersCount", "dc/dad/a07426.html#a7316d0eccaa25b9f30a39c48635e4c16", null ],
+    [ "player", "dc/dad/a07426.html#a97c5da6401e8423c1314ad1186e1dfeb", null ]
 ];

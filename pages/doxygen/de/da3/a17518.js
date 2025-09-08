@@ -1,6 +1,7 @@
 var a17518 =
 [
-    [ "OnAbsorb", "de/da3/a17518.html#aa6582457cd0502ca263433d04b40b64f", null ],
-    [ "PrepareAuraScript", "de/da3/a17518.html#a0b6916dd3f6172e59edf477f203c85b1", null ],
-    [ "Register", "de/da3/a17518.html#a945ec4037120992e8a2986e7fd2e2c96", null ]
+    [ "HandleScript", "de/da3/a17518.html#a4b1e392acea30a9259e65a75667704c5", null ],
+    [ "Load", "de/da3/a17518.html#a9af7bb4defb7c590aaff1a709dad4573", null ],
+    [ "PrepareSpellScript", "de/da3/a17518.html#a17301c4ef9623ec04ec3c15dfd4e316f", null ],
+    [ "Register", "de/da3/a17518.html#a77632d11a172e5552c0c49de830a1639", null ]
 ];

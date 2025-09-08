@@ -1,7 +1,9 @@
 var a17658 =
 [
-    [ "npc_icc_blood_beastAI", "d6/da5/a17658.html#af52eff9f66451444c5acba6930c1bff6", null ],
-    [ "DoAction", "d6/da5/a17658.html#a5de6e46fd21fd073fde2f0aaa5dc947a", null ],
-    [ "UpdateAI", "d6/da5/a17658.html#ac9da073c33dd33097f03ca35d36ea15e", null ],
-    [ "timer1", "d6/da5/a17658.html#a1074059162f818088808795119f081be", null ]
+    [ "FilterTargetsInitial", "d6/da5/a17658.html#acebf4a9f8c4cdd6111ae816d7c24b00f", null ],
+    [ "FilterTargetsSubsequent", "d6/da5/a17658.html#a11732039155235c287757980129d5a8e", null ],
+    [ "Load", "d6/da5/a17658.html#a467272ccd10ec0aff7ad00a567c0049c", null ],
+    [ "PrepareSpellScript", "d6/da5/a17658.html#a6f97c9c1dc71a87d2a82de646809f063", null ],
+    [ "Register", "d6/da5/a17658.html#a56a4e65df08a95fddde75162358155c2", null ],
+    [ "_target", "d6/da5/a17658.html#abdd93e8e80826c71ead1d9e44aaf865a", null ]
 ];

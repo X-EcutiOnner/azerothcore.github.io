@@ -1,10 +1,11 @@
 var a15570 =
 [
-    [ "npc_rabid_thistle_bearAI", "dd/dae/a15570.html#a7fb4b6e26dd2fe66fb3e444c260999a6", null ],
-    [ "Initialize", "dd/dae/a15570.html#a466ec20c65535777c60b5c4aac4e45bd", null ],
-    [ "Reset", "dd/dae/a15570.html#aedc6834fef78ad7a0e5ab99bb844ace1", null ],
-    [ "SpellHit", "dd/dae/a15570.html#a62bde5a122748564cc806046bf9dcbaa", null ],
-    [ "UpdateAI", "dd/dae/a15570.html#a8f6c5b873756a58760b2861bc8b86804", null ],
-    [ "_events", "dd/dae/a15570.html#ad3852bf4588c453642e75fcdc544767b", null ],
-    [ "_playerGUID", "dd/dae/a15570.html#ac4df0c9b8be03ce4e45fbb4efcad6892", null ]
+    [ "npc_kerlonianAI", "dd/dae/a15570.html#a0f7a4566ca93a174c92fe10e904af480", null ],
+    [ "ClearSleeping", "dd/dae/a15570.html#aea2815d79da4fa006ea150f052255b9d", null ],
+    [ "MoveInLineOfSight", "dd/dae/a15570.html#a8b0a606510d278f26099a125d583377a", null ],
+    [ "Reset", "dd/dae/a15570.html#a20fac33bf3322ad0caf72ea883680b8d", null ],
+    [ "SetSleeping", "dd/dae/a15570.html#a0e1e6beaa98090d8bf8a17d28a9ee733", null ],
+    [ "SpellHit", "dd/dae/a15570.html#a1df028085cf1cb9e8152cdb70a3d28b1", null ],
+    [ "UpdateFollowerAI", "dd/dae/a15570.html#aa86dc8b3e934ff3297f7316de5420fe6", null ],
+    [ "FallAsleepTimer", "dd/dae/a15570.html#a8cfd8d869f8a313d041d89f8d0daa1bb", null ]
 ];

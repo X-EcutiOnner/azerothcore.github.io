@@ -1,6 +1,5 @@
 var a20038 =
 [
-    [ "boss_flame_leviathan_seatAI", "d8/d63/a20042.html", "d8/d63/a20042" ],
-    [ "boss_flame_leviathan_seat", "d3/dd2/a20038.html#a0fc90640a5142d889f1c043270582a16", null ],
-    [ "GetAI", "d3/dd2/a20038.html#a0e17225aeb93e0a5f5442c4ac2362af8", null ]
+    [ "achievement_auriaya_crazy_cat_lady", "d3/dd2/a20038.html#a1eb5d931c7c520b7cd6f516bfcb819e4", null ],
+    [ "OnCheck", "d3/dd2/a20038.html#a905b9a4389521fde6d26d3c19a0fe21c", null ]
 ];

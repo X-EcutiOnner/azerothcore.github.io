@@ -1,16 +1,10 @@
 var a07870 =
 [
-    [ "DisableMap", "d0/dd3/a07870.html#adf2cad99fa4b2b3ddbff05931928c1c5", null ],
-    [ "DisableTypeMap", "d0/dd3/a07870.html#a70c68e93cdd77f5e54bae1b96c66da13", null ],
-    [ "DisableMgr", "d0/dd3/a07870.html#afadb62b96ab43f983f8a8c3077cbe205", null ],
-    [ "~DisableMgr", "d0/dd3/a07870.html#ae1483ae3fdeeb98cceb29905f7181b1a", null ],
-    [ "AddDisable", "d0/dd3/a07870.html#a343955ca73dabce8e7b81bf2803992fc", null ],
-    [ "CheckQuestDisables", "d0/dd3/a07870.html#a2f9fa5dadf6f2da5f01651d37d996377", null ],
-    [ "HandleDisableType", "d0/dd3/a07870.html#a203bb85bc7ecb9be3cf09b5d093b90fa", null ],
-    [ "instance", "d0/dd3/a07870.html#ac3787801d677b0ed6592476d648743db", null ],
-    [ "IsDisabledFor", "d0/dd3/a07870.html#accac4f17d8411544e22ba2231b04f36f", null ],
-    [ "IsPathfindingEnabled", "d0/dd3/a07870.html#a8dce4846886ded6ec2b882820abdc517", null ],
-    [ "IsVMAPDisabledFor", "d0/dd3/a07870.html#a38b182e1836b2197303b2809006f5148", null ],
-    [ "LoadDisables", "d0/dd3/a07870.html#adb464165caf6cd436499fa84969eeaf8", null ],
-    [ "m_DisableMap", "d0/dd3/a07870.html#a7a299346248eb6dc692f9e56ae9efffd", null ]
+    [ "RedirectThreatInfo", "d0/dd3/a07870.html#a23b5adf3087ddba3b92133199aa42cf8", null ],
+    [ "GetTargetGUID", "d0/dd3/a07870.html#ae206110e4d7155bb87079ebd58800e3d", null ],
+    [ "GetThreatPct", "d0/dd3/a07870.html#a58bd2c745f92625ff7eac0ddca6a23a0", null ],
+    [ "ModifyThreatPct", "d0/dd3/a07870.html#ac7093218d9b8c6ea03683dd5624bde8f", null ],
+    [ "Set", "d0/dd3/a07870.html#a140b7a0adb6e6b71b21e8d6db7125ae2", null ],
+    [ "_targetGUID", "d0/dd3/a07870.html#a98f9efc5209ef7200e71ff39310520dd", null ],
+    [ "_threatPct", "d0/dd3/a07870.html#a95d6d366d664888f532d40afd1cc57d2", null ]
 ];

@@ -1,7 +1,6 @@
 var a13118 =
 [
-    [ "HandleEffectApply", "de/dfc/a13118.html#a8d52c4ea09e1d58d2dc44ff73d71faf5", null ],
-    [ "PrepareAuraScript", "de/dfc/a13118.html#a9829789fe5544429454e29d228ce0daf", null ],
-    [ "Register", "de/dfc/a13118.html#a7f5a26d10f48d863477ec902e6f5ff1e", null ],
-    [ "Validate", "de/dfc/a13118.html#ae81a441757ab9f10c29a7b313b99cf5f", null ]
+    [ "npc_scarlet_minerAI", "d2/dd9/a13122.html", "d2/dd9/a13122" ],
+    [ "npc_scarlet_miner", "de/dfc/a13118.html#a8948afd8a41c23ab3afbda9949d9019d", null ],
+    [ "GetAI", "de/dfc/a13118.html#abd2973972788ce9b39572aaa819d0690", null ]
 ];

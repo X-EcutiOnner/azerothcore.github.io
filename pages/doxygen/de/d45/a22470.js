@@ -1,8 +1,7 @@
 var a22470 =
 [
-    [ "npc_freed_protodrakeAI", "de/d45/a22470.html#a9e80808035be749c87a1170f37ac3daf", null ],
-    [ "MovementInform", "de/d45/a22470.html#af056f3c12a314acd8a7e8c6c381b9436", null ],
-    [ "Reset", "de/d45/a22470.html#ab5781438300442bb7bcb4510aec9d233", null ],
-    [ "UpdateAI", "de/d45/a22470.html#a9e83b133444e977c35e90b700149472c", null ],
-    [ "events", "de/d45/a22470.html#ac2e34b9a53ff55d177327ec95dca5466", null ]
+    [ "HandleDummy", "de/d45/a22470.html#a68c638c6e056cbadb101ddd025909f54", null ],
+    [ "PrepareSpellScript", "de/d45/a22470.html#a5a857bace5232d259145a0a095f70eec", null ],
+    [ "Register", "de/d45/a22470.html#af9c657e1fac6ee630af0bea337fbff62", null ],
+    [ "Validate", "de/d45/a22470.html#a21e9eaf2eea4b46986b8e8b911bd0508", null ]
 ];

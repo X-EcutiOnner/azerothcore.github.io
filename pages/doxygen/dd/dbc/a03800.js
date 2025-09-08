@@ -1,8 +1,8 @@
 var a03800 =
 [
-    [ "ChannelRights", "d1/dd7/a07498.html", "d1/dd7/a07498" ],
-    [ "Channel", "d4/d15/a07502.html", "d4/d15/a07502" ],
-    [ "Channel::PlayerInfo", "dd/d73/a07506.html", "dd/d73/a07506" ],
+    [ "ChannelRights", "d6/d83/a07514.html", "d6/d83/a07514" ],
+    [ "Channel", "d0/d13/a07518.html", "d0/d13/a07518" ],
+    [ "Channel::PlayerInfo", "d1/d15/a07522.html", "d1/d15/a07522" ],
     [ "CHANNEL_BAN_DURATION", "dd/dbc/a03800.html#a9efdee99211ebdba225b71037f1e95e1", null ],
     [ "ChannelDBCFlags", "dd/dbc/a03800.html#a4acfab10728f2904523abb9c3761a256", [
       [ "CHANNEL_DBC_FLAG_NONE", "dd/dbc/a03800.html#a4acfab10728f2904523abb9c3761a256a04457fac201837a9272f06f25a538173", null ],

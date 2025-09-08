@@ -1,7 +1,9 @@
 var a19098 =
 [
-    [ "npc_ioc_gunship_captainAI", "dc/d4b/a19098.html#a23477a6f29b13308067c1f42ced1e9fe", null ],
-    [ "DoAction", "dc/d4b/a19098.html#a89fb251869d6bfbefbca1e2d3178178a", null ],
-    [ "UpdateAI", "dc/d4b/a19098.html#a222b304633143bba47d3edde67ea093b", null ],
-    [ "_events", "dc/d4b/a19098.html#aa8b7c262641a5f1f86c5ae39f8b62dca", null ]
+    [ "npc_isle_of_conquest_turretAI", "dc/d4b/a19098.html#a0a0f24af22e4c72e843970c0d5c1ff87", null ],
+    [ "JustDied", "dc/d4b/a19098.html#a88390da94298bea9c445bb422a806d23", null ],
+    [ "SpellHit", "dc/d4b/a19098.html#afc8b8a9be6b0908fcb83af57bef7a57a", null ],
+    [ "UpdateAI", "dc/d4b/a19098.html#a81c039a2a230b261967842161757b6f8", null ],
+    [ "events", "dc/d4b/a19098.html#aee0aa5a950b3743409fd3ae482bc94b8", null ],
+    [ "faction", "dc/d4b/a19098.html#aca941c070a97278c8ec27d7e6b4edede", null ]
 ];

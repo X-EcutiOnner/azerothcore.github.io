@@ -1,5 +1,6 @@
 var a22514 =
 [
-    [ "npc_wg_spirit_guideAI", "d1/dcb/a22514.html#a576d15b6acedb07bfe1555bdd0ee8f12", null ],
-    [ "UpdateAI", "d1/dcb/a22514.html#a32b28e8fe74db742d170bd754d11f4d7", null ]
+    [ "HandleScriptEffect", "d1/dcb/a22514.html#a66849cb61f056e861d8887dc98f6ccbf", null ],
+    [ "PrepareSpellScript", "d1/dcb/a22514.html#afa4ad1b205bf963b4230881738baf938", null ],
+    [ "Register", "d1/dcb/a22514.html#a0d8925effced854471e2fbec9c631b91", null ]
 ];

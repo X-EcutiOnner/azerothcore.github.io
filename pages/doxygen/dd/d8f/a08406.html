@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: MovableMapObject Class Reference</title>
+<title>AzerothCore: MovementInfo::TransportInfo Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,70 +105,37 @@ $(document).ready(function(){initNavTree('dd/d8f/a08406.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#pro-methods">Protected Member Functions</a> &#124;
-<a href="#pri-methods">Private Member Functions</a> &#124;
-<a href="#pri-attribs">Private Attributes</a> &#124;
-<a href="#friends">Friends</a> &#124;
+<a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../de/db2/a08403.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">MovableMapObject Class Reference</div></div>
+  <div class="headertitle"><div class="title">MovementInfo::TransportInfo Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
 <p><code>#include &quot;<a class="el" href="../../">Object.h</a>&quot;</code></p>
-<div class="dynheader">
-Inheritance diagram for MovableMapObject:</div>
-<div class="dyncontent">
- <div class="center">
-  <img src="../../dd/d8f/a08406.png" usemap="#MovableMapObject_map" alt=""/>
-  <map id="MovableMapObject_map" name="MovableMapObject_map">
-<area href="../../da/d2e/a08010.html" alt="Creature" shape="rect" coords="133,56,256,80"/>
-<area href="../../da/d63/a08158.html" alt="DynamicObject" shape="rect" coords="266,56,389,80"/>
-<area href="../../d1/d41/a08186.html" alt="GameObject" shape="rect" coords="399,56,522,80"/>
-<area href="../../d9/da8/a08138.html" alt="TempSummon" shape="rect" coords="133,112,256,136"/>
-<area href="../../de/d6b/a08670.html" alt="Transport" shape="rect" coords="399,112,522,136"/>
-<area href="../../df/d2d/a08142.html" alt="Minion" shape="rect" coords="133,168,256,192"/>
-<area href="../../d6/d85/a08674.html" alt="MotionTransport" shape="rect" coords="332,168,455,192"/>
-<area href="../../db/d0d/a08678.html" alt="StaticTransport" shape="rect" coords="465,168,588,192"/>
-<area href="../../d7/d40/a08146.html" alt="Guardian" shape="rect" coords="0,224,123,248"/>
-<area href="../../d6/d80/a08150.html" alt="Puppet" shape="rect" coords="133,224,256,248"/>
-<area href="../../d9/dfd/a08666.html" alt="Totem" shape="rect" coords="266,224,389,248"/>
-<area href="../../d3/daf/a08498.html" alt="Pet" shape="rect" coords="0,280,123,304"/>
-  </map>
-</div></div>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-methods" name="pro-methods"></a>
-Protected Member Functions</h2></td></tr>
-<tr class="memitem:ad9f4cb74c55993cfdfc5895aefc33cfb"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d8f/a08406.html#ad9f4cb74c55993cfdfc5895aefc33cfb">MovableMapObject</a> ()=default</td></tr>
-<tr class="separator:ad9f4cb74c55993cfdfc5895aefc33cfb"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6d7d87cff5f00f3b370584675caf7870"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/daa/a09078.html">Cell</a> const &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d8f/a08406.html#a6d7d87cff5f00f3b370584675caf7870">GetCurrentCell</a> () const</td></tr>
-<tr class="separator:a6d7d87cff5f00f3b370584675caf7870"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
+Public Member Functions</h2></td></tr>
+<tr class="memitem:a9c210ff536b49481f71bc6c3f60ee864"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d8f/a08406.html#a9c210ff536b49481f71bc6c3f60ee864">Reset</a> ()</td></tr>
+<tr class="separator:a9c210ff536b49481f71bc6c3f60ee864"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-methods" name="pri-methods"></a>
-Private Member Functions</h2></td></tr>
-<tr class="memitem:a4caa8c9e50452bff413dec06bf80b84c"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d8f/a08406.html#a4caa8c9e50452bff413dec06bf80b84c">SetCurrentCell</a> (<a class="el" href="../../de/daa/a09078.html">Cell</a> const &amp;cell)</td></tr>
-<tr class="separator:a4caa8c9e50452bff413dec06bf80b84c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
-Private Attributes</h2></td></tr>
-<tr class="memitem:a529db8859c0c9713bcc2f62459bbcc9f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/daa/a09078.html">Cell</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d8f/a08406.html#a529db8859c0c9713bcc2f62459bbcc9f">_currentCell</a></td></tr>
-<tr class="separator:a529db8859c0c9713bcc2f62459bbcc9f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6782d8e3dc7de58ef83a83cf0a355e43"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../df/df7/a03416.html#a1833d9b1810b160d0c00f297af237b07">MapObjectCellMoveState</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d8f/a08406.html#a6782d8e3dc7de58ef83a83cf0a355e43">_moveState</a> {<a class="el" href="../../df/df7/a03416.html#a1833d9b1810b160d0c00f297af237b07afb882558defaa808483ae0d24e1d12e1">MAP_OBJECT_CELL_MOVE_NONE</a>}</td></tr>
-<tr class="separator:a6782d8e3dc7de58ef83a83cf0a355e43"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="friends" name="friends"></a>
-Friends</h2></td></tr>
-<tr class="memitem:ad2f32e921244459f7cc6d50355429cc6"><td class="memItemLeft" align="right" valign="top">class&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d8f/a08406.html#ad2f32e921244459f7cc6d50355429cc6">Map</a></td></tr>
-<tr class="separator:ad2f32e921244459f7cc6d50355429cc6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9551c85ae0e43e4d212225c643da2262"><td class="memItemLeft" align="right" valign="top">class&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d8f/a08406.html#a9551c85ae0e43e4d212225c643da2262">ObjectGridLoader</a></td></tr>
-<tr class="separator:a9551c85ae0e43e4d212225c643da2262"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a260ebfc53c9406bc0356c553822d8ab2"><td class="memTemplParams" colspan="2">template&lt;class T &gt; </td></tr>
-<tr class="memitem:a260ebfc53c9406bc0356c553822d8ab2"><td class="memTemplItemLeft" align="right" valign="top">class&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../dd/d8f/a08406.html#a260ebfc53c9406bc0356c553822d8ab2">RandomMovementGenerator</a></td></tr>
-<tr class="separator:a260ebfc53c9406bc0356c553822d8ab2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
+Public Attributes</h2></td></tr>
+<tr class="memitem:ac115013e34f67bc1444fef4fc96c843e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/dae/a08446.html">ObjectGuid</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d8f/a08406.html#ac115013e34f67bc1444fef4fc96c843e">guid</a></td></tr>
+<tr class="separator:ac115013e34f67bc1444fef4fc96c843e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adff317cbf0c2d159d8ffddf52b4751b3"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../df/d29/a08478.html">Position</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d8f/a08406.html#adff317cbf0c2d159d8ffddf52b4751b3">pos</a></td></tr>
+<tr class="separator:adff317cbf0c2d159d8ffddf52b4751b3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad57bea2ae3beb6a086a116989b0d528f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a3bb8a71f4ae9af551f71e9eb2c9c3325">int8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d8f/a08406.html#ad57bea2ae3beb6a086a116989b0d528f">seat</a></td></tr>
+<tr class="separator:ad57bea2ae3beb6a086a116989b0d528f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acec3991f0d19fd9f72e9837eef516057"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d8f/a08406.html#acec3991f0d19fd9f72e9837eef516057">time</a></td></tr>
+<tr class="separator:acec3991f0d19fd9f72e9837eef516057"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a426c651d2f359847b033a4d7f278a191"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d8f/a08406.html#a426c651d2f359847b033a4d7f278a191">time2</a></td></tr>
+<tr class="separator:a426c651d2f359847b033a4d7f278a191"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="ad9f4cb74c55993cfdfc5895aefc33cfb" name="ad9f4cb74c55993cfdfc5895aefc33cfb"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad9f4cb74c55993cfdfc5895aefc33cfb">&#9670;&#160;</a></span>MovableMapObject()</h2>
+<div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
+<a id="a9c210ff536b49481f71bc6c3f60ee864" name="a9c210ff536b49481f71bc6c3f60ee864"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9c210ff536b49481f71bc6c3f60ee864">&#9670;&#160;</a></span>Reset()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -177,7 +144,7 @@ Friends</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">MovableMapObject::MovableMapObject </td>
+          <td class="memname">void MovementInfo::TransportInfo::Reset </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -185,191 +152,109 @@ Friends</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">protected</span><span class="mlabel">default</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-
-</div>
-</div>
-<h2 class="groupheader">Member Function Documentation</h2>
-<a id="a6d7d87cff5f00f3b370584675caf7870" name="a6d7d87cff5f00f3b370584675caf7870"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6d7d87cff5f00f3b370584675caf7870">&#9670;&#160;</a></span>GetCurrentCell()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../de/daa/a09078.html">Cell</a> const  &amp; MovableMapObject::GetCurrentCell </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">protected</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  408</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dd/d8f/a08406.html#a529db8859c0c9713bcc2f62459bbcc9f">_currentCell</a>; }</div>
-<div class="ttc" id="aa08406_html_a529db8859c0c9713bcc2f62459bbcc9f"><div class="ttname"><a href="../../dd/d8f/a08406.html#a529db8859c0c9713bcc2f62459bbcc9f">MovableMapObject::_currentCell</a></div><div class="ttdeci">Cell _currentCell</div><div class="ttdef"><b>Definition:</b> Object.h:413</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  300</span>        {</div>
+<div class="line"><span class="lineno">  301</span>            <a class="code hl_variable" href="../../dd/d8f/a08406.html#ac115013e34f67bc1444fef4fc96c843e">guid</a>.<a class="code hl_function" href="../../d8/dae/a08446.html#af6aafb4610723c7f14523fef243b1b65">Clear</a>();</div>
+<div class="line"><span class="lineno">  302</span>            <a class="code hl_variable" href="../../dd/d8f/a08406.html#adff317cbf0c2d159d8ffddf52b4751b3">pos</a>.<a class="code hl_function" href="../../df/d29/a08478.html#afdbf0a257fcd7a48066fd92c4eacae3b">Relocate</a>(0.0f, 0.0f, 0.0f, 0.0f);</div>
+<div class="line"><span class="lineno">  303</span>            <a class="code hl_variable" href="../../dd/d8f/a08406.html#ad57bea2ae3beb6a086a116989b0d528f">seat</a> = -1;</div>
+<div class="line"><span class="lineno">  304</span>            <a class="code hl_variable" href="../../dd/d8f/a08406.html#acec3991f0d19fd9f72e9837eef516057">time</a> = 0;</div>
+<div class="line"><span class="lineno">  305</span>            <a class="code hl_variable" href="../../dd/d8f/a08406.html#a426c651d2f359847b033a4d7f278a191">time2</a> = 0;</div>
+<div class="line"><span class="lineno">  306</span>        }</div>
+<div class="ttc" id="aa08406_html_a426c651d2f359847b033a4d7f278a191"><div class="ttname"><a href="../../dd/d8f/a08406.html#a426c651d2f359847b033a4d7f278a191">MovementInfo::TransportInfo::time2</a></div><div class="ttdeci">uint32 time2</div><div class="ttdef"><b>Definition:</b> Object.h:312</div></div>
+<div class="ttc" id="aa08406_html_ac115013e34f67bc1444fef4fc96c843e"><div class="ttname"><a href="../../dd/d8f/a08406.html#ac115013e34f67bc1444fef4fc96c843e">MovementInfo::TransportInfo::guid</a></div><div class="ttdeci">ObjectGuid guid</div><div class="ttdef"><b>Definition:</b> Object.h:308</div></div>
+<div class="ttc" id="aa08406_html_acec3991f0d19fd9f72e9837eef516057"><div class="ttname"><a href="../../dd/d8f/a08406.html#acec3991f0d19fd9f72e9837eef516057">MovementInfo::TransportInfo::time</a></div><div class="ttdeci">uint32 time</div><div class="ttdef"><b>Definition:</b> Object.h:311</div></div>
+<div class="ttc" id="aa08406_html_ad57bea2ae3beb6a086a116989b0d528f"><div class="ttname"><a href="../../dd/d8f/a08406.html#ad57bea2ae3beb6a086a116989b0d528f">MovementInfo::TransportInfo::seat</a></div><div class="ttdeci">int8 seat</div><div class="ttdef"><b>Definition:</b> Object.h:310</div></div>
+<div class="ttc" id="aa08406_html_adff317cbf0c2d159d8ffddf52b4751b3"><div class="ttname"><a href="../../dd/d8f/a08406.html#adff317cbf0c2d159d8ffddf52b4751b3">MovementInfo::TransportInfo::pos</a></div><div class="ttdeci">Position pos</div><div class="ttdef"><b>Definition:</b> Object.h:309</div></div>
+<div class="ttc" id="aa08446_html_af6aafb4610723c7f14523fef243b1b65"><div class="ttname"><a href="../../d8/dae/a08446.html#af6aafb4610723c7f14523fef243b1b65">ObjectGuid::Clear</a></div><div class="ttdeci">void Clear()</div><div class="ttdef"><b>Definition:</b> ObjectGuid.h:138</div></div>
+<div class="ttc" id="aa08478_html_afdbf0a257fcd7a48066fd92c4eacae3b"><div class="ttname"><a href="../../df/d29/a08478.html#afdbf0a257fcd7a48066fd92c4eacae3b">Position::Relocate</a></div><div class="ttdeci">void Relocate(float x, float y)</div><div class="ttdef"><b>Definition:</b> Position.h:77</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00413">_currentCell</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00138">ObjectGuid::Clear()</a>, <a class="el" href="../../#l00308">guid</a>, <a class="el" href="../../#l00309">pos</a>, <a class="el" href="../../#l00077">Position::Relocate()</a>, <a class="el" href="../../#l00310">seat</a>, <a class="el" href="../../#l00311">time</a>, and <a class="el" href="../../#l00312">time2</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00729">Map::CreatureRelocation()</a>, <a class="el" href="../../#l00772">Map::DynamicObjectRelocation()</a>, <a class="el" href="../../#l00751">Map::GameObjectRelocation()</a>, <a class="el" href="../../#l03893">Creature::IsUpdateNeeded()</a>, <a class="el" href="../../#l03081">GameObject::IsUpdateNeeded()</a>, <a class="el" href="../../#l00831">Map::MoveAllCreaturesInMoveList()</a>, <a class="el" href="../../#l00889">Map::MoveAllDynamicObjectsInMoveList()</a>, and <a class="el" href="../../#l00860">Map::MoveAllGameObjectsInMoveList()</a>.</p>
-
-</div>
-</div>
-<a id="a4caa8c9e50452bff413dec06bf80b84c" name="a4caa8c9e50452bff413dec06bf80b84c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4caa8c9e50452bff413dec06bf80b84c">&#9670;&#160;</a></span>SetCurrentCell()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void MovableMapObject::SetCurrentCell </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../de/daa/a09078.html">Cell</a> const &amp;&#160;</td>
-          <td class="paramname"><em>cell</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  411</span>{ <a class="code hl_variable" href="../../dd/d8f/a08406.html#a529db8859c0c9713bcc2f62459bbcc9f">_currentCell</a> = cell; }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00413">_currentCell</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00115">Map::AddToGrid()</a>.</p>
-
-</div>
-</div>
-<h2 class="groupheader">Friends And Related Function Documentation</h2>
-<a id="ad2f32e921244459f7cc6d50355429cc6" name="ad2f32e921244459f7cc6d50355429cc6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad2f32e921244459f7cc6d50355429cc6">&#9670;&#160;</a></span>Map</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">friend class <a class="el" href="../../d8/df9/a09834.html">Map</a></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">friend</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a9551c85ae0e43e4d212225c643da2262" name="a9551c85ae0e43e4d212225c643da2262"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9551c85ae0e43e4d212225c643da2262">&#9670;&#160;</a></span>ObjectGridLoader</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">friend class ObjectGridLoader</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">friend</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a260ebfc53c9406bc0356c553822d8ab2" name="a260ebfc53c9406bc0356c553822d8ab2"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a260ebfc53c9406bc0356c553822d8ab2">&#9670;&#160;</a></span>RandomMovementGenerator</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;class T &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">friend class <a class="el" href="../../da/d24/a10026.html">RandomMovementGenerator</a></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">friend</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
+<p class="reference">Referenced by <a class="el" href="../../#l00045">DynamicObject::CleanupsBeforeDelete()</a>, <a class="el" href="../../#l00104">GameObject::CleanupsBeforeDelete()</a>, <a class="el" href="../../#l00111">MotionTransport::CleanupsBeforeDelete()</a>, <a class="el" href="../../#l00834">StaticTransport::CleanupsBeforeDelete()</a>, <a class="el" href="../../#l15859">Unit::CleanupsBeforeDelete()</a>, <a class="el" href="../../#l00334">WorldSession::HandleMovementOpcodes()</a>, <a class="el" href="../../#l00050">WorldSession::HandleMoveWorldportAck()</a>, <a class="el" href="../../#l00795">WorldSession::HandlePlayerLoginFromDB()</a>, <a class="el" href="../../#l04917">Player::LoadFromDB()</a>, <a class="el" href="../../#l00335">MovementInfo::MovementInfo()</a>, <a class="el" href="../../#l00460">Vehicle::RemovePassenger()</a>, and <a class="el" href="../../#l01345">Player::TeleportTo()</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a529db8859c0c9713bcc2f62459bbcc9f" name="a529db8859c0c9713bcc2f62459bbcc9f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a529db8859c0c9713bcc2f62459bbcc9f">&#9670;&#160;</a></span>_currentCell</h2>
+<a id="ac115013e34f67bc1444fef4fc96c843e" name="ac115013e34f67bc1444fef4fc96c843e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac115013e34f67bc1444fef4fc96c843e">&#9670;&#160;</a></span>guid</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../de/daa/a09078.html">Cell</a> MovableMapObject::_currentCell</td>
+          <td class="memname"><a class="el" href="../../d8/dae/a08446.html">ObjectGuid</a> MovementInfo::TransportInfo::guid</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00408">GetCurrentCell()</a>, and <a class="el" href="../../#l00411">SetCurrentCell()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00318">Vehicle::AddPassenger()</a>, <a class="el" href="../../#l00264">MotionTransport::AddPassenger()</a>, <a class="el" href="../../#l01015">StaticTransport::AddPassenger()</a>, <a class="el" href="../../#l00366">MotionTransport::CreateGOPassenger()</a>, <a class="el" href="../../#l00318">MotionTransport::CreateNPCPassenger()</a>, <a class="el" href="../../#l00334">WorldSession::HandleMovementOpcodes()</a>, <a class="el" href="../../#l04917">Player::LoadFromDB()</a>, <a class="el" href="../../#l01005">MovementInfo::OutDebug()</a>, <a class="el" href="../../#l00998">WorldSession::ReadMovementInfo()</a>, <a class="el" href="../../#l00293">MotionTransport::RemovePassenger()</a>, <a class="el" href="../../#l01039">StaticTransport::RemovePassenger()</a>, <a class="el" href="../../#l00299">Reset()</a>, and <a class="el" href="../../#l01112">WorldSession::WriteMovementInfo()</a>.</p>
 
 </div>
 </div>
-<a id="a6782d8e3dc7de58ef83a83cf0a355e43" name="a6782d8e3dc7de58ef83a83cf0a355e43"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6782d8e3dc7de58ef83a83cf0a355e43">&#9670;&#160;</a></span>_moveState</h2>
+<a id="adff317cbf0c2d159d8ffddf52b4751b3" name="adff317cbf0c2d159d8ffddf52b4751b3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adff317cbf0c2d159d8ffddf52b4751b3">&#9670;&#160;</a></span>pos</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../df/df7/a03416.html#a1833d9b1810b160d0c00f297af237b07">MapObjectCellMoveState</a> MovableMapObject::_moveState {<a class="el" href="../../df/df7/a03416.html#a1833d9b1810b160d0c00f297af237b07afb882558defaa808483ae0d24e1d12e1">MAP_OBJECT_CELL_MOVE_NONE</a>}</td>
+          <td class="memname"><a class="el" href="../../df/d29/a08478.html">Position</a> MovementInfo::TransportInfo::pos</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00036">RandomMovementGenerator&lt; T &gt;::_setRandomLocation()</a>, <a class="el" href="../../#l00792">Map::AddCreatureToMoveList()</a>, <a class="el" href="../../#l00818">Map::AddDynamicObjectToMoveList()</a>, <a class="el" href="../../#l00805">Map::AddGameObjectToMoveList()</a>, <a class="el" href="../../#l00831">Map::MoveAllCreaturesInMoveList()</a>, <a class="el" href="../../#l00889">Map::MoveAllDynamicObjectsInMoveList()</a>, <a class="el" href="../../#l00860">Map::MoveAllGameObjectsInMoveList()</a>, <a class="el" href="../../#l00799">Map::RemoveCreatureFromMoveList()</a>, <a class="el" href="../../#l00825">Map::RemoveDynamicObjectFromMoveList()</a>, and <a class="el" href="../../#l00812">Map::RemoveGameObjectFromMoveList()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01211">WorldObject::_IsWithinDist()</a>, <a class="el" href="../../#l00318">Vehicle::AddPassenger()</a>, <a class="el" href="../../#l00264">MotionTransport::AddPassenger()</a>, <a class="el" href="../../#l01015">StaticTransport::AddPassenger()</a>, <a class="el" href="../../#l00366">MotionTransport::CreateGOPassenger()</a>, <a class="el" href="../../#l00318">MotionTransport::CreateNPCPassenger()</a>, <a class="el" href="../../#l00536">MotionTransport::DelayedTeleportTransport()</a>, <a class="el" href="../../#l00687">WorldObject::GetTransOffsetO()</a>, <a class="el" href="../../#l00684">WorldObject::GetTransOffsetX()</a>, <a class="el" href="../../#l00685">WorldObject::GetTransOffsetY()</a>, <a class="el" href="../../#l00686">WorldObject::GetTransOffsetZ()</a>, <a class="el" href="../../#l00590">misc_commandscript::HandleGPSCommand()</a>, <a class="el" href="../../#l00334">WorldSession::HandleMovementOpcodes()</a>, <a class="el" href="../../#l00058">Movement::MoveSplineInit::Launch()</a>, <a class="el" href="../../#l04917">Player::LoadFromDB()</a>, <a class="el" href="../../#l01005">MovementInfo::OutDebug()</a>, <a class="el" href="../../#l00998">WorldSession::ReadMovementInfo()</a>, <a class="el" href="../../#l02055">spell_igb_teleport_to_enemy_ship::RelocateTransportOffset()</a>, <a class="el" href="../../#l00293">MotionTransport::RemovePassenger()</a>, <a class="el" href="../../#l01039">StaticTransport::RemovePassenger()</a>, <a class="el" href="../../#l00299">Reset()</a>, <a class="el" href="../../#l00146">Movement::MoveSplineInit::Stop()</a>, <a class="el" href="../../#l01345">Player::TeleportTo()</a>, <a class="el" href="../../#l00971">StaticTransport::UpdatePassengerPositions()</a>, <a class="el" href="../../#l00620">MotionTransport::UpdatePassengerPositions()</a>, <a class="el" href="../../#l00609">Unit::UpdateSplinePosition()</a>, and <a class="el" href="../../#l01112">WorldSession::WriteMovementInfo()</a>.</p>
+
+</div>
+</div>
+<a id="ad57bea2ae3beb6a086a116989b0d528f" name="ad57bea2ae3beb6a086a116989b0d528f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad57bea2ae3beb6a086a116989b0d528f">&#9670;&#160;</a></span>seat</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a3bb8a71f4ae9af551f71e9eb2c9c3325">int8</a> MovementInfo::TransportInfo::seat</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00318">Vehicle::AddPassenger()</a>, <a class="el" href="../../#l00759">WorldSession::BuildPartyMemberStatsChangedPacket()</a>, <a class="el" href="../../#l00689">WorldObject::GetTransSeat()</a>, <a class="el" href="../../#l00334">WorldSession::HandleMovementOpcodes()</a>, <a class="el" href="../../#l00945">WorldSession::HandleRequestPartyMemberStatsOpcode()</a>, <a class="el" href="../../#l01005">MovementInfo::OutDebug()</a>, <a class="el" href="../../#l00998">WorldSession::ReadMovementInfo()</a>, <a class="el" href="../../#l00299">Reset()</a>, and <a class="el" href="../../#l01112">WorldSession::WriteMovementInfo()</a>.</p>
+
+</div>
+</div>
+<a id="acec3991f0d19fd9f72e9837eef516057" name="acec3991f0d19fd9f72e9837eef516057"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acec3991f0d19fd9f72e9837eef516057">&#9670;&#160;</a></span>time</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> MovementInfo::TransportInfo::time</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00318">Vehicle::AddPassenger()</a>, <a class="el" href="../../#l00688">WorldObject::GetTransTime()</a>, <a class="el" href="../../#l01005">MovementInfo::OutDebug()</a>, <a class="el" href="../../#l00998">WorldSession::ReadMovementInfo()</a>, <a class="el" href="../../#l00299">Reset()</a>, and <a class="el" href="../../#l01112">WorldSession::WriteMovementInfo()</a>.</p>
+
+</div>
+</div>
+<a id="a426c651d2f359847b033a4d7f278a191" name="a426c651d2f359847b033a4d7f278a191"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a426c651d2f359847b033a4d7f278a191">&#9670;&#160;</a></span>time2</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> MovementInfo::TransportInfo::time2</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l19731">Unit::BuildMovementPacket()</a>, <a class="el" href="../../#l01005">MovementInfo::OutDebug()</a>, <a class="el" href="../../#l00998">WorldSession::ReadMovementInfo()</a>, <a class="el" href="../../#l00299">Reset()</a>, and <a class="el" href="../../#l01112">WorldSession::WriteMovementInfo()</a>.</p>
 
 </div>
 </div>
@@ -378,8 +263,8 @@ template&lt;class T &gt; </div>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dd/d8f/a08406.html">MovableMapObject</a></li>
-    <li class="footer">Generated on Mon Sep 1 2025 20:43:55 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d7/df7/a08402.html">MovementInfo</a></li><li class="navelem"><a class="el" href="../../dd/d8f/a08406.html">TransportInfo</a></li>
+    <li class="footer">Generated on Mon Sep 8 2025 20:45:02 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

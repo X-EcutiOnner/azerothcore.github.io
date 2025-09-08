@@ -1,9 +1,7 @@
 var a19506 =
 [
-    [ "HandleApply", "d3/dca/a19506.html#a29679ed64fc288dc0e85beed2971d4be", null ],
-    [ "HandleRemove", "d3/dca/a19506.html#a1f1c3e0ea24174605a7be8fa02e30518", null ],
-    [ "Load", "d3/dca/a19506.html#a0b5d70a7a9bf27696295ccbbffd2a8b9", null ],
-    [ "PrepareAuraScript", "d3/dca/a19506.html#a2804f25643e59f3922291abcb055b641", null ],
-    [ "Register", "d3/dca/a19506.html#a711b5744770d0c9fb5aacb550f2384fa", null ],
-    [ "Validate", "d3/dca/a19506.html#aa239a693db5fa38ac260a37b25e0e6d9", null ]
+    [ "boss_commander_stoutbeard", "d3/dca/a19506.html#a9489874e93ea9f425ff4e3748ba10ded", null ],
+    [ "JustDied", "d3/dca/a19506.html#a2fd835408045715058ba476aa56cb4f7", null ],
+    [ "JustEngagedWith", "d3/dca/a19506.html#af960c10b2b98d43b4b1311a0a7616aa8", null ],
+    [ "KilledUnit", "d3/dca/a19506.html#acf7016c65f020dca9228bd2d2fd89299", null ]
 ];

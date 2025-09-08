@@ -1,6 +1,6 @@
 var a01364 =
 [
-    [ "boss_high_botanist_freywinn", "d3/d1f/a23910.html", "d3/d1f/a23910" ],
+    [ "boss_high_botanist_freywinn", "d6/d03/a23930.html", "d6/d03/a23930" ],
     [ "Npcs", "de/d1f/a01364.html#a213e9ce155baf17b6147afe6a069d54d", [
       [ "NPC_TM_GUARDSMAN", "df/dbc/a01004.html#a213e9ce155baf17b6147afe6a069d54da21f261d22a0cd419e2febe6c2604502e", null ],
       [ "NPC_TM_PROTECTOR", "df/dbc/a01004.html#a213e9ce155baf17b6147afe6a069d54da78f045556089f7be512b4bc38abc558f", null ],
@@ -11,9 +11,6 @@ var a01364 =
       [ "NPC_INFINITE_DEFILER", "df/dbc/a01004.html#a213e9ce155baf17b6147afe6a069d54da0fc93af30c0b1cb79a0fa8a1436aaf5b", null ],
       [ "NPC_INFINITE_SABOTEUR", "df/dbc/a01004.html#a213e9ce155baf17b6147afe6a069d54da78a0d4e9b67f6d1602e796713d4d220e", null ],
       [ "NPC_INFINITE_SLAYER", "df/dbc/a01004.html#a213e9ce155baf17b6147afe6a069d54dafebb39906d957efcb9f4238abe3a3f54", null ],
-      [ "NPC_WATCHER_NARJIL", "dd/d19/a01922.html#a213e9ce155baf17b6147afe6a069d54dac6d1845d4f2671edf7f06681bfacf66f", null ],
-      [ "NPC_WATCHER_GASHRA", "dd/d19/a01922.html#a213e9ce155baf17b6147afe6a069d54da59e8c7ae56d3d0267c69c0e2e39b5cc8", null ],
-      [ "NPC_WATCHER_SILTHIK", "dd/d19/a01922.html#a213e9ce155baf17b6147afe6a069d54daf4f603f77d6847952388c5dce5d0de08", null ],
       [ "NPC_WARRIOR", "dd/d19/a01922.html#a213e9ce155baf17b6147afe6a069d54dacdb3246d728c6e467634890e653f3cda", null ],
       [ "NPC_SKIRMISHER", "dd/d19/a01922.html#a213e9ce155baf17b6147afe6a069d54da21dc5a50c8bbbd61c7bd647ce2b393da", null ],
       [ "NPC_SHADOWCASTER", "dd/d19/a01922.html#a213e9ce155baf17b6147afe6a069d54da48b15de6dc6c9a99d82d899306aed502", null ],

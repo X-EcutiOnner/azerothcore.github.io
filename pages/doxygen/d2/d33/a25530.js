@@ -1,6 +1,6 @@
 var a25530 =
 [
-    [ "PrepareAuraScript", "d2/d33/a25530.html#a1a06aa5d8254f0d33ecb38df72d97d20", null ],
-    [ "Register", "d2/d33/a25530.html#abb54f08b1932e3638537656360d3aad8", null ],
-    [ "AuraEffectHandleModes", "d2/d33/a25530.html#a9f02f6b1287d320fee15fec18b61cfe7", null ]
+    [ "OnProc", "d2/d33/a25530.html#ac7f0a86f2d0c5dcb945eb7ccb9cd5c88", null ],
+    [ "PrepareAuraScript", "d2/d33/a25530.html#a6a7b011f151ff81672221b84eb4456b8", null ],
+    [ "Register", "d2/d33/a25530.html#a15b05d352f94d2aabeb75a6bfd996fc6", null ]
 ];

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: B64Impl Struct Reference</title>
+<title>AzerothCore: TypeContainerVisitor&lt; VISITOR, TYPE_CONTAINER &gt; Class Template Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,171 +105,156 @@ $(document).ready(function(){initNavTree('dc/dcf/a05334.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#pub-static-methods">Static Public Member Functions</a> &#124;
-<a href="#pub-static-attribs">Static Public Attributes</a> &#124;
+<a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="../../dc/d4e/a05331.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">B64Impl Struct Reference</div></div>
+  <div class="headertitle"><div class="title">TypeContainerVisitor&lt; VISITOR, TYPE_CONTAINER &gt; Class Template Reference</div></div>
 </div><!--header-->
 <div class="contents">
+
+<p><code>#include &quot;<a class="el" href="../../">TypeContainerVisitor.h</a>&quot;</code></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
-Static Public Member Functions</h2></td></tr>
-<tr class="memitem:ad6cde2310ca52940df1bbf93deff6b91"><td class="memItemLeft" align="right" valign="top">static constexpr char&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dcf/a05334.html#ad6cde2310ca52940df1bbf93deff6b91">Encode</a> (<a class="el" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> v)</td></tr>
-<tr class="separator:ad6cde2310ca52940df1bbf93deff6b91"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aba5ab7c59ce77414bca38bfcde32d1c0"><td class="memItemLeft" align="right" valign="top">static constexpr <a class="el" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dcf/a05334.html#aba5ab7c59ce77414bca38bfcde32d1c0">Decode</a> (<a class="el" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> v)</td></tr>
-<tr class="separator:aba5ab7c59ce77414bca38bfcde32d1c0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
+Public Member Functions</h2></td></tr>
+<tr class="memitem:a1dd5b1ac8e4703358a32431efed8faa2"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dcf/a05334.html#a1dd5b1ac8e4703358a32431efed8faa2">TypeContainerVisitor</a> (VISITOR &amp;v)</td></tr>
+<tr class="separator:a1dd5b1ac8e4703358a32431efed8faa2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af8110dd70655223f06fb08b552420a6d"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dcf/a05334.html#af8110dd70655223f06fb08b552420a6d">Visit</a> (TYPE_CONTAINER &amp;c)</td></tr>
+<tr class="separator:af8110dd70655223f06fb08b552420a6d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adf0874fc1f8bb38d2f62530f5667c836"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dcf/a05334.html#adf0874fc1f8bb38d2f62530f5667c836">Visit</a> (const TYPE_CONTAINER &amp;c) const</td></tr>
+<tr class="separator:adf0874fc1f8bb38d2f62530f5667c836"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-attribs" name="pub-static-attribs"></a>
-Static Public Attributes</h2></td></tr>
-<tr class="memitem:a5efb6c842ab7733dc26fd67f1a00ccdf"><td class="memItemLeft" align="right" valign="top">static constexpr std::size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dcf/a05334.html#a5efb6c842ab7733dc26fd67f1a00ccdf">BITS_PER_CHAR</a> = 6</td></tr>
-<tr class="separator:a5efb6c842ab7733dc26fd67f1a00ccdf"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2e5699431f24ca6b745294b935b99240"><td class="memItemLeft" align="right" valign="top">static constexpr char&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dcf/a05334.html#a2e5699431f24ca6b745294b935b99240">PADDING</a> = '='</td></tr>
-<tr class="separator:a2e5699431f24ca6b745294b935b99240"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8fccf3d4b22e835fc4dca6b942771a2a"><td class="memItemLeft" align="right" valign="top">static constexpr <a class="el" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dcf/a05334.html#a8fccf3d4b22e835fc4dca6b942771a2a">DECODE_ERROR</a> = 0xff</td></tr>
-<tr class="separator:a8fccf3d4b22e835fc4dca6b942771a2a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
+Private Attributes</h2></td></tr>
+<tr class="memitem:a7be8eccd05fd489da52e587f51555891"><td class="memItemLeft" align="right" valign="top">VISITOR &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dcf/a05334.html#a7be8eccd05fd489da52e587f51555891">i_visitor</a></td></tr>
+<tr class="separator:a7be8eccd05fd489da52e587f51555891"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
-<a id="aba5ab7c59ce77414bca38bfcde32d1c0" name="aba5ab7c59ce77414bca38bfcde32d1c0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aba5ab7c59ce77414bca38bfcde32d1c0">&#9670;&#160;</a></span>Decode()</h2>
+<div class="textblock"><div class="compoundTemplParams">template&lt;class VISITOR, class TYPE_CONTAINER&gt;<br />
+class TypeContainerVisitor&lt; VISITOR, TYPE_CONTAINER &gt;</div></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="a1dd5b1ac8e4703358a32431efed8faa2" name="a1dd5b1ac8e4703358a32431efed8faa2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1dd5b1ac8e4703358a32431efed8faa2">&#9670;&#160;</a></span>TypeContainerVisitor()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;class VISITOR , class TYPE_CONTAINER &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">static constexpr <a class="el" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> B64Impl::Decode </td>
+          <td class="memname"><a class="el" href="../../dc/dcf/a05334.html">TypeContainerVisitor</a>&lt; VISITOR, TYPE_CONTAINER &gt;<a class="el" href="../../dc/dcf/a05334.html">::TypeContainerVisitor</a> </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td>
+          <td class="paramtype">VISITOR &amp;&#160;</td>
           <td class="paramname"><em>v</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span><span class="mlabel">constexpr</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   39</span>    {</div>
-<div class="line"><span class="lineno">   40</span>        <span class="keywordflow">if</span> ((<span class="charliteral">&#39;A&#39;</span> &lt;= v) &amp;&amp; (v &lt;= <span class="charliteral">&#39;Z&#39;</span>)) { <span class="keywordflow">return</span> (v - <span class="charliteral">&#39;A&#39;</span>); }</div>
-<div class="line"><span class="lineno">   41</span>        <span class="keywordflow">if</span> ((<span class="charliteral">&#39;a&#39;</span> &lt;= v) &amp;&amp; (v &lt;= <span class="charliteral">&#39;z&#39;</span>)) { <span class="keywordflow">return</span> (v - <span class="charliteral">&#39;a&#39;</span>) + 26; }</div>
-<div class="line"><span class="lineno">   42</span>        <span class="keywordflow">if</span> ((<span class="charliteral">&#39;0&#39;</span> &lt;= v) &amp;&amp; (v &lt;= <span class="charliteral">&#39;9&#39;</span>)) { <span class="keywordflow">return</span> (v - <span class="charliteral">&#39;0&#39;</span>) + 52; }</div>
-<div class="line"><span class="lineno">   43</span>        <span class="keywordflow">if</span> (v == <span class="charliteral">&#39;+&#39;</span>) { <span class="keywordflow">return</span> 62; }</div>
-<div class="line"><span class="lineno">   44</span>        <span class="keywordflow">if</span> (v == <span class="charliteral">&#39;/&#39;</span>) { <span class="keywordflow">return</span> 63; }</div>
-<div class="line"><span class="lineno">   45</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dc/dcf/a05334.html#a8fccf3d4b22e835fc4dca6b942771a2a">DECODE_ERROR</a>;</div>
-<div class="line"><span class="lineno">   46</span>    }</div>
-<div class="ttc" id="aa05334_html_a8fccf3d4b22e835fc4dca6b942771a2a"><div class="ttname"><a href="../../dc/dcf/a05334.html#a8fccf3d4b22e835fc4dca6b942771a2a">B64Impl::DECODE_ERROR</a></div><div class="ttdeci">static constexpr uint8 DECODE_ERROR</div><div class="ttdef"><b>Definition:</b> Base64.cpp:37</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  107</span>: <a class="code hl_variable" href="../../dc/dcf/a05334.html#a7be8eccd05fd489da52e587f51555891">i_visitor</a>(v) { }</div>
+<div class="ttc" id="aa05334_html_a7be8eccd05fd489da52e587f51555891"><div class="ttname"><a href="../../dc/dcf/a05334.html#a7be8eccd05fd489da52e587f51555891">TypeContainerVisitor::i_visitor</a></div><div class="ttdeci">VISITOR &amp; i_visitor</div><div class="ttdef"><b>Definition:</b> TypeContainerVisitor.h:120</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00037">DECODE_ERROR</a>.</p>
-
 </div>
 </div>
-<a id="ad6cde2310ca52940df1bbf93deff6b91" name="ad6cde2310ca52940df1bbf93deff6b91"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad6cde2310ca52940df1bbf93deff6b91">&#9670;&#160;</a></span>Encode()</h2>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="adf0874fc1f8bb38d2f62530f5667c836" name="adf0874fc1f8bb38d2f62530f5667c836"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adf0874fc1f8bb38d2f62530f5667c836">&#9670;&#160;</a></span>Visit() <span class="overload">[1/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;class VISITOR , class TYPE_CONTAINER &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">static constexpr char B64Impl::Encode </td>
+          <td class="memname">void <a class="el" href="../../dc/dcf/a05334.html">TypeContainerVisitor</a>&lt; VISITOR, TYPE_CONTAINER &gt;::Visit </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td>
-          <td class="paramname"><em>v</em></td><td>)</td>
+          <td class="paramtype">const TYPE_CONTAINER &amp;&#160;</td>
+          <td class="paramname"><em>c</em></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  115</span>    {</div>
+<div class="line"><span class="lineno">  116</span>        <a class="code hl_function" href="../../d6/db8/a00158.html#a3a47e8382377ca85476452be8786e00f">VisitorHelper</a>(<a class="code hl_variable" href="../../dc/dcf/a05334.html#a7be8eccd05fd489da52e587f51555891">i_visitor</a>, c);</div>
+<div class="line"><span class="lineno">  117</span>    }</div>
+<div class="ttc" id="aa00158_html_a3a47e8382377ca85476452be8786e00f"><div class="ttname"><a href="../../d6/db8/a00158.html#a3a47e8382377ca85476452be8786e00f">VisitorHelper</a></div><div class="ttdeci">void VisitorHelper(VISITOR &amp;v, TYPE_CONTAINER &amp;c)</div><div class="ttdef"><b>Definition:</b> TypeContainerVisitor.h:33</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00120">TypeContainerVisitor&lt; VISITOR, TYPE_CONTAINER &gt;::i_visitor</a>, and <a class="el" href="../../#l00033">VisitorHelper()</a>.</p>
+
+</div>
+</div>
+<a id="af8110dd70655223f06fb08b552420a6d" name="af8110dd70655223f06fb08b552420a6d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af8110dd70655223f06fb08b552420a6d">&#9670;&#160;</a></span>Visit() <span class="overload">[2/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class VISITOR , class TYPE_CONTAINER &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void <a class="el" href="../../dc/dcf/a05334.html">TypeContainerVisitor</a>&lt; VISITOR, TYPE_CONTAINER &gt;::Visit </td>
+          <td>(</td>
+          <td class="paramtype">TYPE_CONTAINER &amp;&#160;</td>
+          <td class="paramname"><em>c</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span><span class="mlabel">constexpr</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   28</span>    {</div>
-<div class="line"><span class="lineno">   29</span>        <a class="code hl_define" href="../../dc/d9a/a00218.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(v &lt; 0x40);</div>
-<div class="line"><span class="lineno">   30</span>        <span class="keywordflow">if</span> (v &lt; 26) { <span class="keywordflow">return</span> <span class="charliteral">&#39;A&#39;</span> + v; }</div>
-<div class="line"><span class="lineno">   31</span>        <span class="keywordflow">if</span> (v &lt; 52) { <span class="keywordflow">return</span> <span class="charliteral">&#39;a&#39;</span> + (v - 26); }</div>
-<div class="line"><span class="lineno">   32</span>        <span class="keywordflow">if</span> (v &lt; 62) { <span class="keywordflow">return</span> <span class="charliteral">&#39;0&#39;</span> + (v - 52); }</div>
-<div class="line"><span class="lineno">   33</span>        <span class="keywordflow">if</span> (v == 62) { <span class="keywordflow">return</span> <span class="charliteral">&#39;+&#39;</span>; }</div>
-<div class="line"><span class="lineno">   34</span>        <span class="keywordflow">else</span> { <span class="keywordflow">return</span> <span class="charliteral">&#39;/&#39;</span>; }</div>
-<div class="line"><span class="lineno">   35</span>    }</div>
-<div class="ttc" id="aa00218_html_af343b20373ba49a92fce523e948f2ab3"><div class="ttname"><a href="../../dc/d9a/a00218.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a></div><div class="ttdeci">#define ASSERT</div><div class="ttdef"><b>Definition:</b> Errors.h:68</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  110</span>    {</div>
+<div class="line"><span class="lineno">  111</span>        <a class="code hl_function" href="../../d6/db8/a00158.html#a3a47e8382377ca85476452be8786e00f">VisitorHelper</a>(<a class="code hl_variable" href="../../dc/dcf/a05334.html#a7be8eccd05fd489da52e587f51555891">i_visitor</a>, c);</div>
+<div class="line"><span class="lineno">  112</span>    }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00120">TypeContainerVisitor&lt; VISITOR, TYPE_CONTAINER &gt;::i_visitor</a>, and <a class="el" href="../../#l00033">VisitorHelper()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l01349">debug_commandscript::HandleDebugObjectCountMap()</a>, and <a class="el" href="../../#l01828">GameEventMgr::RunSmartAIScripts()</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a5efb6c842ab7733dc26fd67f1a00ccdf" name="a5efb6c842ab7733dc26fd67f1a00ccdf"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5efb6c842ab7733dc26fd67f1a00ccdf">&#9670;&#160;</a></span>BITS_PER_CHAR</h2>
+<a id="a7be8eccd05fd489da52e587f51555891" name="a7be8eccd05fd489da52e587f51555891"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7be8eccd05fd489da52e587f51555891">&#9670;&#160;</a></span>i_visitor</h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;class VISITOR , class TYPE_CONTAINER &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">constexpr std::size_t B64Impl::BITS_PER_CHAR = 6</td>
+          <td class="memname">VISITOR&amp; <a class="el" href="../../dc/dcf/a05334.html">TypeContainerVisitor</a>&lt; VISITOR, TYPE_CONTAINER &gt;::i_visitor</td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span><span class="mlabel">constexpr</span></span>  </td>
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
 
-</div>
-</div>
-<a id="a8fccf3d4b22e835fc4dca6b942771a2a" name="a8fccf3d4b22e835fc4dca6b942771a2a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8fccf3d4b22e835fc4dca6b942771a2a">&#9670;&#160;</a></span>DECODE_ERROR</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">constexpr <a class="el" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> B64Impl::DECODE_ERROR = 0xff</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span><span class="mlabel">constexpr</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00038">Decode()</a>.</p>
-
-</div>
-</div>
-<a id="a2e5699431f24ca6b745294b935b99240" name="a2e5699431f24ca6b745294b935b99240"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2e5699431f24ca6b745294b935b99240">&#9670;&#160;</a></span>PADDING</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">constexpr char B64Impl::PADDING = '='</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span><span class="mlabel">constexpr</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
+<p class="reference">Referenced by <a class="el" href="../../#l00109">TypeContainerVisitor&lt; VISITOR, TYPE_CONTAINER &gt;::Visit()</a>.</p>
 
 </div>
 </div>
@@ -278,8 +263,8 @@ Static Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dc/dcf/a05334.html">B64Impl</a></li>
-    <li class="footer">Generated on Mon Sep 1 2025 20:43:30 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dc/dcf/a05334.html">TypeContainerVisitor</a></li>
+    <li class="footer">Generated on Mon Sep 8 2025 20:45:48 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

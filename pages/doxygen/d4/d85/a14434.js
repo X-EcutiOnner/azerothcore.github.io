@@ -1,6 +1,7 @@
 var a14434 =
 [
-    [ "PeriodicTick", "d4/d85/a14434.html#a0832c36a9497674374b2998398bfc3a4", null ],
-    [ "PrepareAuraScript", "d4/d85/a14434.html#a89acb64235da1ff59da90a509fbeec9d", null ],
-    [ "Register", "d4/d85/a14434.html#aab689a2cb84dcd064736171035640584", null ]
+    [ "HandleScriptEffect", "d4/d85/a14434.html#aaad3c8870d8ad748e3ac07287da32e84", null ],
+    [ "PrepareSpellScript", "d4/d85/a14434.html#a3d906994c11e52e89c842189be73ddfd", null ],
+    [ "Register", "d4/d85/a14434.html#a4cdab36e2265c696207a39e16549ab13", null ],
+    [ "Validate", "d4/d85/a14434.html#a8aaf57bd54d3b2beb48b4e29053c1125", null ]
 ];

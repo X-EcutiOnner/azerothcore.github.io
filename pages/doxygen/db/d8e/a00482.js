@@ -1,4 +1,4 @@
 var a00482 =
 [
-    [ "Logger", "dc/ded/a05374.html", "dc/ded/a05374" ]
+    [ "Logger", "d1/df3/a05390.html", "d1/df3/a05390" ]
 ];

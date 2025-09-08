@@ -1,6 +1,6 @@
 var a25018 =
 [
-    [ "PrepareSpellScript", "db/d4f/a25018.html#acfa320b33c00883a78c3696bbbeb7eb0", null ],
-    [ "Register", "db/d4f/a25018.html#a6d251ba1e88d4349dcffa96978389a7f", null ],
-    [ "SelectTarget", "db/d4f/a25018.html#a0d95f8ad8d05d2c0b100dc10988d00c9", null ]
+    [ "CheckProc", "db/d4f/a25018.html#a68d2d8168e405ea4250e2e43a1a350fa", null ],
+    [ "PrepareAuraScript", "db/d4f/a25018.html#a9d797e7bc7133f4a626f4352b2fe7141", null ],
+    [ "Register", "db/d4f/a25018.html#a5b96bb8c2ff456b63bbd200f54294251", null ]
 ];

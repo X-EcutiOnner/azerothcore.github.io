@@ -1,10 +1,8 @@
 var a09930 =
 [
-    [ "CreateWorldPacket", "d3/d6f/a09930.html#a0acc39f8c58f6446a337e2d33f15731a", null ],
-    [ "GetMotd", "d3/d6f/a09930.html#ab589dd8bfad950e02ee716ea9005253f", null ],
-    [ "GetMotdPacket", "d3/d6f/a09930.html#a1eb1b16519bafaffe3b48b9835aab11e", null ],
-    [ "instance", "d3/d6f/a09930.html#a0eac0994f742f9a5cbd912abc308d1a7", null ],
-    [ "LoadMotd", "d3/d6f/a09930.html#a1a6ce19decdaf6cd778cf331bdc0c1ef", null ],
-    [ "LoadMotdLocale", "d3/d6f/a09930.html#a21aa89787d5b0bbf69158f799122edd5", null ],
-    [ "SetMotd", "d3/d6f/a09930.html#a7e317c2855b4ff96c2796081988bdf4f", null ]
+    [ "GetAINotifyDelay", "d3/d6f/a09930.html#a9efd4acfe2ff5e4dfe0cc9e8fe802cc6", null ],
+    [ "GetReqMoveDistSq", "d3/d6f/a09930.html#a58687646bbf83723e8ad2925ee50452c", null ],
+    [ "GetVisibilityNotifyDelay", "d3/d6f/a09930.html#ac402ec0cb86192ce264d7909e09da5ac", null ],
+    [ "Update", "d3/d6f/a09930.html#aa95443d7050249a44cad2f16fa0026e5", null ],
+    [ "visibilitySettingsIndex", "d3/d6f/a09930.html#a35ebd0fcbdec8a3287f714cbe9becbcc", null ]
 ];

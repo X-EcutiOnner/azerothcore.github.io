@@ -1,6 +1,7 @@
 var a17366 =
 [
-    [ "boss_gal_darahAI", "de/d5f/a17370.html", "de/d5f/a17370" ],
-    [ "boss_gal_darah", "db/ded/a17366.html#a687bb98f9de9cd838c57511dc6b3d086", null ],
-    [ "GetAI", "db/ded/a17366.html#a8f709568f5a06265056571061ff3a26b", null ]
+    [ "HandleDummy", "db/ded/a17366.html#a367f4ebd296aa0fd54ff9ef6185a1c92", null ],
+    [ "PrepareSpellScript", "db/ded/a17366.html#ab6e33bf137a54c9cd792aefb0ecd2ef1", null ],
+    [ "Register", "db/ded/a17366.html#a371073fb37337719115242fc8758026f", null ],
+    [ "Validate", "db/ded/a17366.html#ad5df08da54defc89a7a552c39de089c3", null ]
 ];

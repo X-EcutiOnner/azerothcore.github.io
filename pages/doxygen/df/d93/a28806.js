@@ -1,16 +1,10 @@
 var a28806 =
 [
-    [ "adt_LIQUID", "d7/da0/a28814.html", "d7/da0/a28814" ],
-    [ "GetLiquidAttributes", "df/d93/a28806.html#a343859f1c04059988ca0e4050ffac22f", null ],
-    [ "GetLiquidDepth", "df/d93/a28806.html#a6f620512f4feb239bc732efcfe53ae7c", null ],
-    [ "GetLiquidExistsBitmap", "df/d93/a28806.html#aaa9e70d67222ddcfbd890e8e3262f8e0", null ],
-    [ "GetLiquidHeight", "df/d93/a28806.html#a73ad976bf67c8adba2443190e6db533f", null ],
-    [ "GetLiquidInstance", "df/d93/a28806.html#a65b3323ff560d26302f86dcfc79eb4c3", null ],
-    [ "GetLiquidTextureCoordMap", "df/d93/a28806.html#a1d0cfd669f16b346e9199f6ade39cbce", null ],
-    [ "GetLiquidType", "df/d93/a28806.html#acd96d3f82d0ad8c3cb601097e52427b5", null ],
-    [ "prepareLoadedData", "df/d93/a28806.html#a05b77a8778e3d85dae8437d96a4aae8a", null ],
-    [ "fcc", "df/d93/a28806.html#a6c09458d5788c58dbd2f9b96448a1ff4", null ],
-    [ "fcc_txt", "df/d93/a28806.html#a5abe0d5184d096f87c2c0ff1f9a115dc", null ],
-    [ "liquid", "df/d93/a28806.html#aaaff4b98a34d81985b552fd671411450", null ],
-    [ "size", "df/d93/a28806.html#a2110a26debb714695e38e5ec159131f2", null ]
+    [ "adt_CELLS", "d7/da0/a28814.html", "d7/da0/a28814" ],
+    [ "getMCNK", "df/d93/a28806.html#a8330b7cb405146399d3d20e6952a8b40", null ],
+    [ "prepareLoadedData", "df/d93/a28806.html#adc7346499aa51f4422c810b7e757f835", null ],
+    [ "cells", "df/d93/a28806.html#a434ed0ca354ec27d5334cc63e5650038", null ],
+    [ "fcc", "df/d93/a28806.html#ae7d4acf20e102b6b8f19ded3fe219a7d", null ],
+    [ "fcc_txt", "df/d93/a28806.html#a514bae36851623daf76b26a9d63f1ae0", null ],
+    [ "size", "df/d93/a28806.html#a1a40f52ea9eef3add8207da89cb71210", null ]
 ];

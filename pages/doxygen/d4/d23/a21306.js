@@ -1,6 +1,6 @@
 var a21306 =
 [
-    [ "npc_ferocious_rhinoAI", "de/d4e/a21310.html", "de/d4e/a21310" ],
-    [ "npc_ferocious_rhino", "d4/d23/a21306.html#a480c1d0c24cdbe7cd3c47332ee925466", null ],
-    [ "GetAI", "d4/d23/a21306.html#aa5c3cba6b1ed6cffaac578c5449b9b4e", null ]
+    [ "boss_palehoofAI", "de/d4e/a21310.html", "de/d4e/a21310" ],
+    [ "boss_palehoof", "d4/d23/a21306.html#ac0e541befaad7e1e6e318d64ca4a1d94", null ],
+    [ "GetAI", "d4/d23/a21306.html#ae33ca6e71b251214be50168a5940d058", null ]
 ];

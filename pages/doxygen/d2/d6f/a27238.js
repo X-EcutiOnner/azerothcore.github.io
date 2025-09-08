@@ -1,5 +1,5 @@
 var a27238 =
 [
-    [ "AreaTrigger_at_voltarus_middle", "d2/d6f/a27238.html#a45ca444350fe4cfde02ab33da4ce8466", null ],
-    [ "OnTrigger", "d2/d6f/a27238.html#a296b300feb6cf999e9e2c2625a911e9b", null ]
+    [ "achievement_killed_exp_or_honor_target", "d2/d6f/a27238.html#aad432878c97af698dd1cc4019d716281", null ],
+    [ "OnCheck", "d2/d6f/a27238.html#ace8fc68ebb73e39626797be4caa45a3c", null ]
 ];

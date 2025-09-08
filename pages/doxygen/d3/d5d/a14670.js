@@ -1,7 +1,6 @@
 var a14670 =
 [
-    [ "HandleFinish", "d3/d5d/a14670.html#a8927aaa07145b46067d5807c2048330a", null ],
-    [ "PrepareSpellScript", "d3/d5d/a14670.html#a5a0bfef668242fc5f21ad5a4e3e714b5", null ],
-    [ "Register", "d3/d5d/a14670.html#a1ffdc199a04bd6ead1a09bc977ae964c", null ],
-    [ "Validate", "d3/d5d/a14670.html#a3fd3265e5a08f81b3e9e789f1799abd4", null ]
+    [ "HandleAfterEffectApply", "d3/d5d/a14670.html#a54b406a450bb2b56cd32ee152ea1414e", null ],
+    [ "PrepareAuraScript", "d3/d5d/a14670.html#a917379c33352721b5b76c1d9dac0c025", null ],
+    [ "Register", "d3/d5d/a14670.html#a846d79564d76d6000c2276045775d7da", null ]
 ];

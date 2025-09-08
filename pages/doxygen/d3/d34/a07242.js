@@ -1,15 +1,12 @@
 var a07242 =
 [
-    [ "ArenaSeasonRewardGroup", "d3/d34/a07242.html#a128e78db84f099d91e21da77b2147e82", null ],
-    [ "operator==", "d3/d34/a07242.html#a625ef69db8523e1a5e6e5ea16bdacc2f", null ],
-    [ "achievementRewards", "d3/d34/a07242.html#a1b89c847e86b29671f86dbbef1c9a1b6", null ],
-    [ "criteriaType", "d3/d34/a07242.html#a16261356df6f5aed35bc3ec06ab49560", null ],
-    [ "goldReward", "d3/d34/a07242.html#a582c7d51c2ab4bb5cf0e45b773dd20ee", null ],
-    [ "itemRewards", "d3/d34/a07242.html#a24e7afcf5a95fba7f2cdc5914baac392", null ],
-    [ "maxCriteria", "d3/d34/a07242.html#aa3cf9a0ad2ed2170542ec360e61682e2", null ],
-    [ "minCriteria", "d3/d34/a07242.html#a07507bd59265508a463aa328f343afa0", null ],
-    [ "rewardMailBody", "d3/d34/a07242.html#afa55d982d4f2ef5f2eccf48ed305b649", null ],
-    [ "rewardMailSubject", "d3/d34/a07242.html#a0574cf3fc910f13413ea7eb1c0f08166", null ],
-    [ "rewardMailTemplateID", "d3/d34/a07242.html#ade97a1ea3355cd19aaf65ab80a26e4bf", null ],
-    [ "season", "d3/d34/a07242.html#a2e6a5d2ca970d3921142b497d351c50f", null ]
+    [ "Arena", "d3/d34/a07242.html#a74f105bc709d4728fb07f1984abfd345", null ],
+    [ "AddPlayer", "d3/d34/a07242.html#ae24fe304d35c0c09379203135e936450", null ],
+    [ "CheckWinConditions", "d3/d34/a07242.html#a886b586f7ab6fc89d76e86cb811989b8", null ],
+    [ "EndBattleground", "d3/d34/a07242.html#a2be61602189b530a16a9ca954d180914", null ],
+    [ "FillInitialWorldStates", "d3/d34/a07242.html#a592100d0f0ed492a5cdf941e57db787f", null ],
+    [ "HandleKillPlayer", "d3/d34/a07242.html#ae0a56f524bfc9eec6753874ce35d0466", null ],
+    [ "RemovePlayer", "d3/d34/a07242.html#ab5348b8bd4bfd58c01cdf61f16f72db1", null ],
+    [ "RemovePlayerAtLeave", "d3/d34/a07242.html#acae21233e11b21b612e5c051bfa7720e", null ],
+    [ "UpdateArenaWorldState", "d3/d34/a07242.html#a422925ee29e9a5f64aeb4264169ff2d6", null ]
 ];

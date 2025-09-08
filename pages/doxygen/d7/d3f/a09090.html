@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: GridCell&lt; GRID_OBJECT_TYPES &gt; Class Template Reference</title>
+<title>AzerothCore: CellArea Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,46 +106,45 @@ $(document).ready(function(){initNavTree('d7/d3f/a09090.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pri-attribs">Private Attributes</a> &#124;
+<a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../de/d5b/a09087.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">GridCell&lt; GRID_OBJECT_TYPES &gt; Class Template Reference</div></div>
+  <div class="headertitle"><div class="title">CellArea Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">GridCell.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">Cell.h</a>&quot;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:ae04041bc575ef654cc46c3f2e6542e2a"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d3f/a09090.html#ae04041bc575ef654cc46c3f2e6542e2a">~GridCell</a> ()=default</td></tr>
-<tr class="separator:ae04041bc575ef654cc46c3f2e6542e2a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:adf5a3ece25efc945f7ae85d588da1d15"><td class="memTemplParams" colspan="2">template&lt;class SPECIFIC_OBJECT &gt; </td></tr>
-<tr class="memitem:adf5a3ece25efc945f7ae85d588da1d15"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d7/d3f/a09090.html#adf5a3ece25efc945f7ae85d588da1d15">AddGridObject</a> (SPECIFIC_OBJECT *obj)</td></tr>
-<tr class="separator:adf5a3ece25efc945f7ae85d588da1d15"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a76c36b854de74a8e54b94c1a4e563299"><td class="memTemplParams" colspan="2">template&lt;class T &gt; </td></tr>
-<tr class="memitem:a76c36b854de74a8e54b94c1a4e563299"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d7/d3f/a09090.html#a76c36b854de74a8e54b94c1a4e563299">Visit</a> (<a class="el" href="../../d2/d74/a05318.html">TypeContainerVisitor</a>&lt; T, <a class="el" href="../../d8/dfd/a05310.html">TypeMapContainer</a>&lt; GRID_OBJECT_TYPES &gt; &gt; &amp;visitor)</td></tr>
-<tr class="separator:a76c36b854de74a8e54b94c1a4e563299"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ace8ca84753b4ec8681415386fb135053"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d3f/a09090.html#ace8ca84753b4ec8681415386fb135053">CellArea</a> ()=default</td></tr>
+<tr class="separator:ace8ca84753b4ec8681415386fb135053"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a547aa2c544abb8de2c6defdd6ec77fa3"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d3f/a09090.html#a547aa2c544abb8de2c6defdd6ec77fa3">CellArea</a> (<a class="el" href="../../d9/d0f/a03605.html#aa7325a29c918309cfd39e8637782f4c5">CellCoord</a> low, <a class="el" href="../../d9/d0f/a03605.html#aa7325a29c918309cfd39e8637782f4c5">CellCoord</a> high)</td></tr>
+<tr class="separator:a547aa2c544abb8de2c6defdd6ec77fa3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a386d4a562c27155012daedc361541e3b"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d3f/a09090.html#a386d4a562c27155012daedc361541e3b">operator!</a> () const</td></tr>
+<tr class="separator:a386d4a562c27155012daedc361541e3b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aebb8a0eb3210fa09d647d89ce8a0c7b8"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d3f/a09090.html#aebb8a0eb3210fa09d647d89ce8a0c7b8">ResizeBorders</a> (<a class="el" href="../../d9/d0f/a03605.html#aa7325a29c918309cfd39e8637782f4c5">CellCoord</a> &amp;begin_cell, <a class="el" href="../../d9/d0f/a03605.html#aa7325a29c918309cfd39e8637782f4c5">CellCoord</a> &amp;end_cell) const</td></tr>
+<tr class="separator:aebb8a0eb3210fa09d647d89ce8a0c7b8"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
-Private Attributes</h2></td></tr>
-<tr class="memitem:a32d576cdb5d1d6f02fdba73d2606314c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/dfd/a05310.html">TypeMapContainer</a>&lt; GRID_OBJECT_TYPES &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d3f/a09090.html#a32d576cdb5d1d6f02fdba73d2606314c">_gridObjects</a></td></tr>
-<tr class="separator:a32d576cdb5d1d6f02fdba73d2606314c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
+Public Attributes</h2></td></tr>
+<tr class="memitem:a374fe9802c798e6ece359a8025b6e1df"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d0f/a03605.html#aa7325a29c918309cfd39e8637782f4c5">CellCoord</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d3f/a09090.html#a374fe9802c798e6ece359a8025b6e1df">low_bound</a></td></tr>
+<tr class="separator:a374fe9802c798e6ece359a8025b6e1df"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0c90f0474902deaafc4a64faaf6e8071"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d0f/a03605.html#aa7325a29c918309cfd39e8637782f4c5">CellCoord</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d3f/a09090.html#a0c90f0474902deaafc4a64faaf6e8071">high_bound</a></td></tr>
+<tr class="separator:a0c90f0474902deaafc4a64faaf6e8071"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><div class="compoundTemplParams">template&lt;class GRID_OBJECT_TYPES&gt;<br />
-class GridCell&lt; GRID_OBJECT_TYPES &gt;</div></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="ae04041bc575ef654cc46c3f2e6542e2a" name="ae04041bc575ef654cc46c3f2e6542e2a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae04041bc575ef654cc46c3f2e6542e2a">&#9670;&#160;</a></span>~GridCell()</h2>
+<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="ace8ca84753b4ec8681415386fb135053" name="ace8ca84753b4ec8681415386fb135053"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ace8ca84753b4ec8681415386fb135053">&#9670;&#160;</a></span>CellArea() <span class="overload">[1/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;class GRID_OBJECT_TYPES &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d7/d3f/a09090.html">GridCell</a>&lt; GRID_OBJECT_TYPES &gt;::~<a class="el" href="../../d7/d3f/a09090.html">GridCell</a> </td>
+          <td class="memname">CellArea::CellArea </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -160,26 +159,60 @@ template&lt;class GRID_OBJECT_TYPES &gt; </div>
 
 </div>
 </div>
+<a id="a547aa2c544abb8de2c6defdd6ec77fa3" name="a547aa2c544abb8de2c6defdd6ec77fa3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a547aa2c544abb8de2c6defdd6ec77fa3">&#9670;&#160;</a></span>CellArea() <span class="overload">[2/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">CellArea::CellArea </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d9/d0f/a03605.html#aa7325a29c918309cfd39e8637782f4c5">CellCoord</a>&#160;</td>
+          <td class="paramname"><em>low</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d9/d0f/a03605.html#aa7325a29c918309cfd39e8637782f4c5">CellCoord</a>&#160;</td>
+          <td class="paramname"><em>high</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   30</span>: <a class="code hl_variable" href="../../d7/d3f/a09090.html#a374fe9802c798e6ece359a8025b6e1df">low_bound</a>(low), <a class="code hl_variable" href="../../d7/d3f/a09090.html#a0c90f0474902deaafc4a64faaf6e8071">high_bound</a>(high) {}</div>
+<div class="ttc" id="aa09090_html_a0c90f0474902deaafc4a64faaf6e8071"><div class="ttname"><a href="../../d7/d3f/a09090.html#a0c90f0474902deaafc4a64faaf6e8071">CellArea::high_bound</a></div><div class="ttdeci">CellCoord high_bound</div><div class="ttdef"><b>Definition:</b> Cell.h:41</div></div>
+<div class="ttc" id="aa09090_html_a374fe9802c798e6ece359a8025b6e1df"><div class="ttname"><a href="../../d7/d3f/a09090.html#a374fe9802c798e6ece359a8025b6e1df">CellArea::low_bound</a></div><div class="ttdeci">CellCoord low_bound</div><div class="ttdef"><b>Definition:</b> Cell.h:40</div></div>
+</div><!-- fragment -->
+</div>
+</div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="adf5a3ece25efc945f7ae85d588da1d15" name="adf5a3ece25efc945f7ae85d588da1d15"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#adf5a3ece25efc945f7ae85d588da1d15">&#9670;&#160;</a></span>AddGridObject()</h2>
+<a id="a386d4a562c27155012daedc361541e3b" name="a386d4a562c27155012daedc361541e3b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a386d4a562c27155012daedc361541e3b">&#9670;&#160;</a></span>operator!()</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;class GRID_OBJECT_TYPES &gt; </div>
-<div class="memtemplate">
-template&lt;class SPECIFIC_OBJECT &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void <a class="el" href="../../d7/d3f/a09090.html">GridCell</a>&lt; GRID_OBJECT_TYPES &gt;::AddGridObject </td>
+          <td class="memname">bool CellArea::operator! </td>
           <td>(</td>
-          <td class="paramtype">SPECIFIC_OBJECT *&#160;</td>
-          <td class="paramname"><em>obj</em></td><td>)</td>
-          <td></td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
         </tr>
       </table>
   </td>
@@ -188,38 +221,37 @@ template&lt;class SPECIFIC_OBJECT &gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   46</span>    {</div>
-<div class="line"><span class="lineno">   47</span>        <a class="code hl_variable" href="../../d7/d3f/a09090.html#a32d576cdb5d1d6f02fdba73d2606314c">_gridObjects</a>.template insert&lt;SPECIFIC_OBJECT&gt;(obj);</div>
-<div class="line"><span class="lineno">   48</span>        <a class="code hl_define" href="../../dc/d9a/a00218.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(obj-&gt;IsInGrid());</div>
-<div class="line"><span class="lineno">   49</span>    }</div>
-<div class="ttc" id="aa00218_html_af343b20373ba49a92fce523e948f2ab3"><div class="ttname"><a href="../../dc/d9a/a00218.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a></div><div class="ttdeci">#define ASSERT</div><div class="ttdef"><b>Definition:</b> Errors.h:68</div></div>
-<div class="ttc" id="aa09090_html_a32d576cdb5d1d6f02fdba73d2606314c"><div class="ttname"><a href="../../d7/d3f/a09090.html#a32d576cdb5d1d6f02fdba73d2606314c">GridCell::_gridObjects</a></div><div class="ttdeci">TypeMapContainer&lt; GRID_OBJECT_TYPES &gt; _gridObjects</div><div class="ttdef"><b>Definition:</b> GridCell.h:59</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   32</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d7/d3f/a09090.html#a374fe9802c798e6ece359a8025b6e1df">low_bound</a> == <a class="code hl_variable" href="../../d7/d3f/a09090.html#a0c90f0474902deaafc4a64faaf6e8071">high_bound</a>; }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00059">GridCell&lt; GRID_OBJECT_TYPES &gt;::_gridObjects</a>, and <a class="el" href="../../#l00068">ASSERT</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00047">MapGrid&lt; GRID_OBJECT_TYPES &gt;::AddGridObject()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00041">high_bound</a>, and <a class="el" href="../../#l00040">low_bound</a>.</p>
 
 </div>
 </div>
-<a id="a76c36b854de74a8e54b94c1a4e563299" name="a76c36b854de74a8e54b94c1a4e563299"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a76c36b854de74a8e54b94c1a4e563299">&#9670;&#160;</a></span>Visit()</h2>
+<a id="aebb8a0eb3210fa09d647d89ce8a0c7b8" name="aebb8a0eb3210fa09d647d89ce8a0c7b8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aebb8a0eb3210fa09d647d89ce8a0c7b8">&#9670;&#160;</a></span>ResizeBorders()</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;class GRID_OBJECT_TYPES &gt; </div>
-<div class="memtemplate">
-template&lt;class T &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void <a class="el" href="../../d7/d3f/a09090.html">GridCell</a>&lt; GRID_OBJECT_TYPES &gt;::Visit </td>
+          <td class="memname">void CellArea::ResizeBorders </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d2/d74/a05318.html">TypeContainerVisitor</a>&lt; T, <a class="el" href="../../d8/dfd/a05310.html">TypeMapContainer</a>&lt; GRID_OBJECT_TYPES &gt; &gt; &amp;&#160;</td>
-          <td class="paramname"><em>visitor</em></td><td>)</td>
+          <td class="paramtype"><a class="el" href="../../d9/d0f/a03605.html#aa7325a29c918309cfd39e8637782f4c5">CellCoord</a> &amp;&#160;</td>
+          <td class="paramname"><em>begin_cell</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
           <td></td>
+          <td class="paramtype"><a class="el" href="../../d9/d0f/a03605.html#aa7325a29c918309cfd39e8637782f4c5">CellCoord</a> &amp;&#160;</td>
+          <td class="paramname"><em>end_cell</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td> const</td>
         </tr>
       </table>
   </td>
@@ -228,41 +260,45 @@ template&lt;class T &gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   54</span>    {</div>
-<div class="line"><span class="lineno">   55</span>        visitor.<a class="code hl_function" href="../../d2/d74/a05318.html#af8110dd70655223f06fb08b552420a6d">Visit</a>(<a class="code hl_variable" href="../../d7/d3f/a09090.html#a32d576cdb5d1d6f02fdba73d2606314c">_gridObjects</a>);</div>
-<div class="line"><span class="lineno">   56</span>    }</div>
-<div class="ttc" id="aa05318_html_af8110dd70655223f06fb08b552420a6d"><div class="ttname"><a href="../../d2/d74/a05318.html#af8110dd70655223f06fb08b552420a6d">TypeContainerVisitor::Visit</a></div><div class="ttdeci">void Visit(TYPE_CONTAINER &amp;c)</div><div class="ttdef"><b>Definition:</b> TypeContainerVisitor.h:88</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   35</span>    {</div>
+<div class="line"><span class="lineno">   36</span>        begin_cell = <a class="code hl_variable" href="../../d7/d3f/a09090.html#a374fe9802c798e6ece359a8025b6e1df">low_bound</a>;</div>
+<div class="line"><span class="lineno">   37</span>        end_cell = <a class="code hl_variable" href="../../d7/d3f/a09090.html#a0c90f0474902deaafc4a64faaf6e8071">high_bound</a>;</div>
+<div class="line"><span class="lineno">   38</span>    }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00059">GridCell&lt; GRID_OBJECT_TYPES &gt;::_gridObjects</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00075">MapGrid&lt; GRID_OBJECT_TYPES &gt;::VisitCell()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00041">high_bound</a>, and <a class="el" href="../../#l00040">low_bound</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a32d576cdb5d1d6f02fdba73d2606314c" name="a32d576cdb5d1d6f02fdba73d2606314c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a32d576cdb5d1d6f02fdba73d2606314c">&#9670;&#160;</a></span>_gridObjects</h2>
+<a id="a0c90f0474902deaafc4a64faaf6e8071" name="a0c90f0474902deaafc4a64faaf6e8071"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0c90f0474902deaafc4a64faaf6e8071">&#9670;&#160;</a></span>high_bound</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;class GRID_OBJECT_TYPES &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d8/dfd/a05310.html">TypeMapContainer</a>&lt;GRID_OBJECT_TYPES&gt; <a class="el" href="../../d7/d3f/a09090.html">GridCell</a>&lt; GRID_OBJECT_TYPES &gt;::_gridObjects</td>
+          <td class="memname"><a class="el" href="../../d9/d0f/a03605.html#aa7325a29c918309cfd39e8637782f4c5">CellCoord</a> CellArea::high_bound</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00045">GridCell&lt; GRID_OBJECT_TYPES &gt;::AddGridObject()</a>, and <a class="el" href="../../#l00053">GridCell&lt; GRID_OBJECT_TYPES &gt;::Visit()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00220">Map::LoadGridsInRange()</a>, <a class="el" href="../../#l00391">Map::MarkNearbyCellsOf()</a>, <a class="el" href="../../#l00032">operator!()</a>, <a class="el" href="../../#l00034">ResizeBorders()</a>, and <a class="el" href="../../#l00065">Cell::Visit()</a>.</p>
+
+</div>
+</div>
+<a id="a374fe9802c798e6ece359a8025b6e1df" name="a374fe9802c798e6ece359a8025b6e1df"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a374fe9802c798e6ece359a8025b6e1df">&#9670;&#160;</a></span>low_bound</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d9/d0f/a03605.html#aa7325a29c918309cfd39e8637782f4c5">CellCoord</a> CellArea::low_bound</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00220">Map::LoadGridsInRange()</a>, <a class="el" href="../../#l00391">Map::MarkNearbyCellsOf()</a>, <a class="el" href="../../#l00032">operator!()</a>, <a class="el" href="../../#l00034">ResizeBorders()</a>, and <a class="el" href="../../#l00065">Cell::Visit()</a>.</p>
 
 </div>
 </div>
@@ -271,8 +307,8 @@ template&lt;class GRID_OBJECT_TYPES &gt; </div>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d7/d3f/a09090.html">GridCell</a></li>
-    <li class="footer">Generated on Mon Sep 1 2025 20:43:50 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d7/d3f/a09090.html">CellArea</a></li>
+    <li class="footer">Generated on Mon Sep 8 2025 20:44:51 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

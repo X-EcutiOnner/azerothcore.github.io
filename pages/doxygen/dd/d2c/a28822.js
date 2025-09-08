@@ -1,10 +1,5 @@
 var a28822 =
 [
-    [ "WDTFile", "dd/d2c/a28822.html#a10c133d9b2f8d39cb6c2b3d8c2791b78", null ],
-    [ "~WDTFile", "dd/d2c/a28822.html#a445fe73204fd378e2b63a83d9f5dca0a", null ],
-    [ "GetMap", "dd/d2c/a28822.html#aa952c5bfe52a1aa851984a7e6dc963c9", null ],
-    [ "init", "dd/d2c/a28822.html#a91a33f89cae35254f52e8c4f1c33e2cb", null ],
-    [ "_file", "dd/d2c/a28822.html#a54ab64288144b9cf4904e67bb359e524", null ],
-    [ "_wmoNames", "dd/d2c/a28822.html#a6ec4f95ff866585403670b620a42a857", null ],
-    [ "filename", "dd/d2c/a28822.html#ab3dac8623598bac1152a514a00126bf6", null ]
+    [ "Deep", "dd/d2c/a28822.html#a9efcd2f19d9701713666f1ad2285d992", null ],
+    [ "Fishable", "dd/d2c/a28822.html#a929299daf6bc46aa775b9b0fa055c9e2", null ]
 ];

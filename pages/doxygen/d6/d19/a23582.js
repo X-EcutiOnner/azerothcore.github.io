@@ -1,12 +1,5 @@
 var a23582 =
 [
-    [ "boss_swamplord_muselek", "d6/d19/a23582.html#a94ca982b8b9c1785a59040d23e72fc0e", null ],
-    [ "AttackStart", "d6/d19/a23582.html#a0732fdf14c972ae955eb43417a6d86a1", null ],
-    [ "CanShootVictim", "d6/d19/a23582.html#af84af5e4b344fc5f5da9f2047519710a", null ],
-    [ "JustDied", "d6/d19/a23582.html#a4020748c43bf03cb338e3d64a1dfd840", null ],
-    [ "JustEngagedWith", "d6/d19/a23582.html#a7b22bff5b78dcd1e5e1cc42858735655", null ],
-    [ "KilledUnit", "d6/d19/a23582.html#a9f2afd6aacb9befa956079a42fbace37", null ],
-    [ "Reset", "d6/d19/a23582.html#a6e03d7feca2de668c82d8f056d95fc6a", null ],
-    [ "_canChase", "d6/d19/a23582.html#aca3298f0e9bbbd7366f4e6456cfff621", null ],
-    [ "_markTarget", "d6/d19/a23582.html#a957d3f9ad935dbfa0537c75e39316ce3", null ]
+    [ "at_underbog_ghazan", "d6/d19/a23582.html#aa6c74496bb30bf04e66ac3cd06110811", null ],
+    [ "_OnTrigger", "d6/d19/a23582.html#aff03fc0bbded7bf7fa68d0c736bfaff2", null ]
 ];

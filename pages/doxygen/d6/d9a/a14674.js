@@ -1,7 +1,5 @@
 var a14674 =
 [
-    [ "HandleDummy", "d6/d9a/a14674.html#a05c3589ee04eed87449f652db065f0e9", null ],
-    [ "PrepareSpellScript", "d6/d9a/a14674.html#afb79a2cf5359e7ec69746cd89d8cd727", null ],
-    [ "Register", "d6/d9a/a14674.html#a51207fcd4f272e120fe1af2ac78c1f80", null ],
-    [ "Validate", "d6/d9a/a14674.html#a5fc6dae87ffb634cc0de389196751b22", null ]
+    [ "PrepareSpellScript", "d6/d9a/a14674.html#a3e1c670bbc7efb86b95a34ee3c8ba059", null ],
+    [ "Register", "d6/d9a/a14674.html#a06111bf70ee53fee6e90284f8d92642e", null ]
 ];

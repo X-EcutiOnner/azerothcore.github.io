@@ -1,6 +1,6 @@
 var a21490 =
 [
-    [ "boss_erekemAI", "d6/dca/a21494.html", "d6/dca/a21494" ],
-    [ "boss_erekem", "de/db2/a21490.html#ab618380bd8f8c199ca85f1fe8a67db4d", null ],
-    [ "GetAI", "de/db2/a21490.html#aa472a21bf4a855ba75bc7de05cce494c", null ]
+    [ "instance_vault_of_archavon_InstanceMapScript", "d6/dca/a21494.html", "d6/dca/a21494" ],
+    [ "instance_vault_of_archavon", "de/db2/a21490.html#a0be8d95ff0f3b751e6f833689e436310", null ],
+    [ "GetInstanceScript", "de/db2/a21490.html#abb955a8873a3a3021e164225dd1f857a", null ]
 ];

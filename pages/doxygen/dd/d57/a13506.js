@@ -1,6 +1,8 @@
 var a13506 =
 [
-    [ "CastArmageddon", "dd/d57/a13506.html#a2e90929b63e6151252aa01a55dbd801f", null ],
-    [ "Execute", "dd/d57/a13506.html#a4f0651a38eaf03a07bcd73d0f88dda16", null ],
-    [ "_caster", "dd/d57/a13506.html#a1e70887099a7a47b7c26517d4363ad93", null ]
+    [ "FilterTargets", "dd/d57/a13506.html#a3aac5e364d04a4a086aaa911051417d5", null ],
+    [ "HandleDummy", "dd/d57/a13506.html#aa0705dee3edeca7b61f82581f367e94a", null ],
+    [ "PrepareSpellScript", "dd/d57/a13506.html#a1efa036eac25d789850849dc1b209379", null ],
+    [ "Register", "dd/d57/a13506.html#a656b512d5bef657004a72acbf7875760", null ],
+    [ "Validate", "dd/d57/a13506.html#a33534d9fd70af99bbde1e4a908d22084", null ]
 ];

@@ -1,6 +1,6 @@
 var a19434 =
 [
-    [ "npc_hover_diskAI", "de/df8/a19438.html", "de/df8/a19438" ],
-    [ "npc_hover_disk", "d0/d67/a19434.html#af0ab534387a2af4e168915801ee855e5", null ],
-    [ "GetAI", "d0/d67/a19434.html#adbe9285126089ca998e9b6360f42c553", null ]
+    [ "npc_nexus_lordAI", "de/df8/a19438.html", "de/df8/a19438" ],
+    [ "npc_nexus_lord", "d0/d67/a19434.html#a6e58f0074451dfd04b95b3ecaa0201e3", null ],
+    [ "GetAI", "d0/d67/a19434.html#a1cea0b189b2ef8e932b51caf3d70d6ba", null ]
 ];

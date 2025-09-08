@@ -1,7 +1,5 @@
 var a21834 =
 [
-    [ "npc_warmage_violetstand", "db/dce/a21834.html#a1f67c9521cc3bd63886a8936b28e6622", null ],
-    [ "Reset", "db/dce/a21834.html#a99015610597f43f184cc686c9fab2fa9", null ],
-    [ "UpdateAI", "db/dce/a21834.html#aa0eac837ab697c3e0cd5ab753f0bd0b4", null ],
-    [ "targetGUID", "db/dce/a21834.html#a46560aa7aa90778967a79c931a81721b", null ]
+    [ "npc_leryssaAI", "db/dce/a21834.html#ad21a1e1572880ba8cbf6625e658989eb", null ],
+    [ "MovementInform", "db/dce/a21834.html#a36180f7351ab11a9942ec59ee24ae6ad", null ]
 ];

@@ -1,7 +1,6 @@
 var a10782 =
 [
-    [ "SwapInventoryItem", "d6/d2f/a10782.html#a26e2887fe352de8a8c5d9d65ba598460", null ],
-    [ "Read", "d6/d2f/a10782.html#ae81c9c5566e1f7e1c8d6915f9620d5b4", null ],
-    [ "DestinationSlot", "d6/d2f/a10782.html#aaaca9b79b11d152cf1c4b273e8f47679", null ],
-    [ "SourceSlot", "d6/d2f/a10782.html#a59117b7ce21919acc55b3da079050dc3", null ]
+    [ "GuildSetGuildMaster", "d6/d2f/a10782.html#ae6ca07252de719cc506042c8d3e8285e", null ],
+    [ "Read", "d6/d2f/a10782.html#a94f16e55a840c7cba991a119af5d8263", null ],
+    [ "NewMasterName", "d6/d2f/a10782.html#a02f37610492c75373266bb93000adcbf", null ]
 ];

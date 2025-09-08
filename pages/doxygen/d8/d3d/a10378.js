@@ -1,5 +1,6 @@
 var a10378 =
 [
-    [ "MovementHandlerScript", "d8/d3d/a10378.html#aeeeb5fe81eebc04fc317e726782be3ab", null ],
-    [ "OnPlayerMove", "d8/d3d/a10378.html#ac1604e58c8ecab26ce4159fb43a86a68", null ]
+    [ "LootScript", "d8/d3d/a10378.html#a57fd5dffc97f62a595f0ff4c2856dbd4", null ],
+    [ "IsDatabaseBound", "d8/d3d/a10378.html#ad60b605eac89be48efd339127e9cb9cd", null ],
+    [ "OnLootMoney", "d8/d3d/a10378.html#a56a57baead49f6815a9979b181a55375", null ]
 ];

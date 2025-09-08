@@ -1,14 +1,6 @@
 var a11014 =
 [
-    [ "NameQueryResponse", "df/d55/a11014.html#a04a03faa1ab655eb87d755b603f7b427", null ],
-    [ "Write", "df/d55/a11014.html#a8bbf006e3b84b9b47df8f1497a6c4eb8", null ],
-    [ "Class", "df/d55/a11014.html#acd3c6d5f56924fe32bb8a0bddddce13a", null ],
-    [ "Declined", "df/d55/a11014.html#abe147a5c99db99148cc3b76136eccb2b", null ],
-    [ "DeclinedNames", "df/d55/a11014.html#a4d3a2f218c8e1763889cc45adc514f0b", null ],
-    [ "Guid", "df/d55/a11014.html#ae45b2723b1b5a3313566df2d353114f9", null ],
-    [ "Name", "df/d55/a11014.html#ad2d16050d9229912105c8f2136538d91", null ],
-    [ "NameUnknown", "df/d55/a11014.html#ab15e54b3abb638a8782ce4eefa77d489", null ],
-    [ "Race", "df/d55/a11014.html#a74463c6218d56c913df7f24b7491003f", null ],
-    [ "RealmName", "df/d55/a11014.html#ab52bc81a49ff62ea23f1dd05e4826f6c", null ],
-    [ "Sex", "df/d55/a11014.html#ae3f54cab19cf94fef55ef1dcac1f1ad8", null ]
+    [ "PetLearnedSpell", "df/d55/a11014.html#a5d105cca08515b9550998f2c86b13a1a", null ],
+    [ "Write", "df/d55/a11014.html#a6fd7d4bc907b0bb78c438e6a9159dc69", null ],
+    [ "SpellID", "df/d55/a11014.html#a6ab11b614f13d518a2a007adfbe00ab7", null ]
 ];

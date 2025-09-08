@@ -1,13 +1,11 @@
 var a12870 =
 [
-    [ "boss_roar", "d6/dbb/a12870.html#a93e1d81bcff8b31841ae65628759ee7e", null ],
-    [ "DoAction", "d6/dbb/a12870.html#a9a2778a803d6d41b256759b29452cc51", null ],
-    [ "EnterEvadeMode", "d6/dbb/a12870.html#a198044653632b93838c0f79c06cb7640", null ],
-    [ "JustDied", "d6/dbb/a12870.html#a3c79bea69740601ad89f0765f3af99f2", null ],
-    [ "JustEngagedWith", "d6/dbb/a12870.html#a1db42b2b1a19ac4a959a51ce17c8ae32", null ],
-    [ "JustReachedHome", "d6/dbb/a12870.html#a632929b026815a524bd79748e768e3fc", null ],
-    [ "KilledUnit", "d6/dbb/a12870.html#aaaa0d33697fe1abc0df5bf9ecb249ffc", null ],
-    [ "UpdateAI", "d6/dbb/a12870.html#a255d406f8bab62593a3eeda0e4e3d646", null ],
-    [ "_scheduler", "d6/dbb/a12870.html#a54b45b1fdacc2b3982e21580b9b4d26a", null ],
-    [ "instance", "d6/dbb/a12870.html#a67df04e89c877d565753ac077aa923c7", null ]
+    [ "npc_demon_chain", "d6/dbb/a12870.html#ac234e729422925bd773bcdbc45f9e1b5", null ],
+    [ "AttackStart", "d6/dbb/a12870.html#a745fa194ca5ad30c96e85b3f9daad2ad", null ],
+    [ "IsSummonedBy", "d6/dbb/a12870.html#a27007fdff0d685b0a38a0b98820b95fb", null ],
+    [ "JustDied", "d6/dbb/a12870.html#a35d1b7de8612f11cdf61b9d663990686", null ],
+    [ "JustEngagedWith", "d6/dbb/a12870.html#a9743ebc31c5159a03889bfd40b09d749", null ],
+    [ "MoveInLineOfSight", "d6/dbb/a12870.html#a9ffa6ed6faa21c9596f7a0c2ceb1cc05", null ],
+    [ "Reset", "d6/dbb/a12870.html#ad531f82511e5156d3b9891dd4095b0d5", null ],
+    [ "sacrificeGUID", "d6/dbb/a12870.html#a5572e39fcf3d807ef462f5c16ff703f1", null ]
 ];

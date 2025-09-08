@@ -1,8 +1,6 @@
 var a15034 =
 [
-    [ "Load", "d9/dc6/a15034.html#a59e8723d8b73f45075db47e1e09e15fb", null ],
-    [ "PeriodicTick", "d9/dc6/a15034.html#ae4761ac3bce02903a7266511d80503f9", null ],
-    [ "PrepareAuraScript", "d9/dc6/a15034.html#a7bacc1ebd4b98e5e43b74e13471b2063", null ],
-    [ "Register", "d9/dc6/a15034.html#acc4db638e0d858085dc3fb2d6b45f7ec", null ],
-    [ "_ticks", "d9/dc6/a15034.html#ab858e9f6505fa32cc7325087d29fee8b", null ]
+    [ "NpcRunToHome", "d9/dc6/a15034.html#ac190e89b494554e391e6ebd878d7f8e8", null ],
+    [ "Execute", "d9/dc6/a15034.html#a0da766e3bae0d8d97a46ef82b3873cc0", null ],
+    [ "_owner", "d9/dc6/a15034.html#a7dd38171a6e55665fc28a74212313e51", null ]
 ];

@@ -1,6 +1,7 @@
 var a26158 =
 [
-    [ "OnRemove", "d4/d91/a26158.html#ae1f257e43effcb396d57d42db3063afd", null ],
-    [ "PrepareAuraScript", "d4/d91/a26158.html#a5b13e46dc228ffe594ce2ce06a7d6799", null ],
-    [ "Register", "d4/d91/a26158.html#a4a94d5c8efdd7f6e0dd655ebeb8c4614", null ]
+    [ "CalcPeriodic", "d4/d91/a26158.html#a404e5309016cfcaa3071c0216978699e", null ],
+    [ "PrepareAuraScript", "d4/d91/a26158.html#a9675e5c417e5e9a5a358a3ffb371073e", null ],
+    [ "Register", "d4/d91/a26158.html#a60ffc059d00fd58abe7e758f06bbf35c", null ],
+    [ "AuraEffectHandleModes", "d4/d91/a26158.html#aa66ee788b7e09815b827a0f4ac954e1f", null ]
 ];

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: AppenderDB Class Reference</title>
+<title>AzerothCore: TransactionBase Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,116 +106,175 @@ $(document).ready(function(){initNavTree('d0/dba/a05906.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pub-static-attribs">Static Public Attributes</a> &#124;
-<a href="#pri-methods">Private Member Functions</a> &#124;
+<a href="#pro-methods">Protected Member Functions</a> &#124;
+<a href="#pro-attribs">Protected Attributes</a> &#124;
 <a href="#pri-attribs">Private Attributes</a> &#124;
+<a href="#friends">Friends</a> &#124;
 <a href="../../db/d12/a05903.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">AppenderDB Class Reference</div></div>
+  <div class="headertitle"><div class="title">TransactionBase Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">AppenderDB.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">Transaction.h</a>&quot;</code></p>
 <div class="dynheader">
-Inheritance diagram for AppenderDB:</div>
+Inheritance diagram for TransactionBase:</div>
 <div class="dyncontent">
  <div class="center">
-  <img src="../../d0/dba/a05906.png" usemap="#AppenderDB_map" alt=""/>
-  <map id="AppenderDB_map" name="AppenderDB_map">
-<area href="../../d9/da3/a05354.html" alt="Appender" shape="rect" coords="0,0,85,24"/>
+  <img src="../../d0/dba/a05906.png" usemap="#TransactionBase_map" alt=""/>
+  <map id="TransactionBase_map" name="TransactionBase_map">
+<area href="../../d6/dcf/a05722.html" alt="Transaction&lt; T &gt;" shape="rect" coords="0,56,109,80"/>
   </map>
 </div></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:af8e48076d47a06c73f6b8ae054955a83"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dba/a05906.html#af8e48076d47a06c73f6b8ae054955a83">AppenderDB</a> (<a class="el" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> <a class="el" href="../../d9/da3/a05354.html#a2cf4849307b65727645d3caf4205064f">id</a>, std::string const &amp;<a class="el" href="../../d9/da3/a05354.html#a0d47660ee41c8816342001825f626a8b">name</a>, <a class="el" href="../../d6/d1a/a00485.html#ad26ed09e30f81a5d2172b4793a3f2781">LogLevel</a> <a class="el" href="../../d9/da3/a05354.html#a2dd9209b754c6676ef86f1a6f7f2295f">level</a>, <a class="el" href="../../d6/d1a/a00485.html#a94c1c25ceab6db205eb6a5d5a2e0e803">AppenderFlags</a> <a class="el" href="../../d9/da3/a05354.html#aa8bf6d0a30b1b7ec7acd95e73234e5bd">flags</a>, std::vector&lt; std::string_view &gt; const &amp;args)</td></tr>
-<tr class="separator:af8e48076d47a06c73f6b8ae054955a83"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7da848083d02833acc632051a2d938bf"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dba/a05906.html#a7da848083d02833acc632051a2d938bf">~AppenderDB</a> ()</td></tr>
-<tr class="separator:a7da848083d02833acc632051a2d938bf"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a769ff59f4dbbff1b77398dd20c016ace"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dba/a05906.html#a769ff59f4dbbff1b77398dd20c016ace">setRealmId</a> (<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> <a class="el" href="../../d0/dba/a05906.html#a5c9bf2ae429c0903cffe9a01c03b6028">realmId</a>) override</td></tr>
-<tr class="separator:a769ff59f4dbbff1b77398dd20c016ace"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a96221ceed23435556df03c5f7ffab61e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d1a/a00485.html#aacbd2dccb14fcb75d2651dce582364df">AppenderType</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dba/a05906.html#a96221ceed23435556df03c5f7ffab61e">getType</a> () const override</td></tr>
-<tr class="separator:a96221ceed23435556df03c5f7ffab61e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="inherit_header pub_methods_a05354"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a05354')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../d9/da3/a05354.html">Appender</a></td></tr>
-<tr class="memitem:aed555d5a182fefce9bb570201e9f005f inherit pub_methods_a05354"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/da3/a05354.html#aed555d5a182fefce9bb570201e9f005f">Appender</a> (<a class="el" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> _id, std::string const &amp;<a class="el" href="../../d9/da3/a05354.html#a0d47660ee41c8816342001825f626a8b">name</a>, <a class="el" href="../../d6/d1a/a00485.html#ad26ed09e30f81a5d2172b4793a3f2781">LogLevel</a> <a class="el" href="../../d9/da3/a05354.html#a2dd9209b754c6676ef86f1a6f7f2295f">level</a>=<a class="el" href="../../d6/d1a/a00485.html#ad26ed09e30f81a5d2172b4793a3f2781ae44988e4cdc992741e4a39b3734e1f61">LOG_LEVEL_DISABLED</a>, <a class="el" href="../../d6/d1a/a00485.html#a94c1c25ceab6db205eb6a5d5a2e0e803">AppenderFlags</a> <a class="el" href="../../d9/da3/a05354.html#aa8bf6d0a30b1b7ec7acd95e73234e5bd">flags</a>=<a class="el" href="../../d6/d1a/a00485.html#a94c1c25ceab6db205eb6a5d5a2e0e803a184efa87bd2e31eb7cbcb9d9d9da282b">APPENDER_FLAGS_NONE</a>)</td></tr>
-<tr class="separator:aed555d5a182fefce9bb570201e9f005f inherit pub_methods_a05354"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7194b4ff5130399352c356852023004d inherit pub_methods_a05354"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/da3/a05354.html#a7194b4ff5130399352c356852023004d">~Appender</a> ()</td></tr>
-<tr class="separator:a7194b4ff5130399352c356852023004d inherit pub_methods_a05354"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a643046505390b3988572c53051d7d4c1 inherit pub_methods_a05354"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/da3/a05354.html#a643046505390b3988572c53051d7d4c1">getId</a> () const</td></tr>
-<tr class="separator:a643046505390b3988572c53051d7d4c1 inherit pub_methods_a05354"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8414d7de4187a3deb55024278734836f inherit pub_methods_a05354"><td class="memItemLeft" align="right" valign="top">std::string const &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/da3/a05354.html#a8414d7de4187a3deb55024278734836f">getName</a> () const</td></tr>
-<tr class="separator:a8414d7de4187a3deb55024278734836f inherit pub_methods_a05354"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0efa3e131b7c130a9ece375135682ea4 inherit pub_methods_a05354"><td class="memItemLeft" align="right" valign="top">virtual <a class="el" href="../../d6/d1a/a00485.html#aacbd2dccb14fcb75d2651dce582364df">AppenderType</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/da3/a05354.html#a0efa3e131b7c130a9ece375135682ea4">getType</a> () const =0</td></tr>
-<tr class="separator:a0efa3e131b7c130a9ece375135682ea4 inherit pub_methods_a05354"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0013fabdf34579153a2d145fdbd8009b inherit pub_methods_a05354"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d1a/a00485.html#ad26ed09e30f81a5d2172b4793a3f2781">LogLevel</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/da3/a05354.html#a0013fabdf34579153a2d145fdbd8009b">getLogLevel</a> () const</td></tr>
-<tr class="separator:a0013fabdf34579153a2d145fdbd8009b inherit pub_methods_a05354"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a57fad2f7bd4da733633051f47efd6555 inherit pub_methods_a05354"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d1a/a00485.html#a94c1c25ceab6db205eb6a5d5a2e0e803">AppenderFlags</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/da3/a05354.html#a57fad2f7bd4da733633051f47efd6555">getFlags</a> () const</td></tr>
-<tr class="separator:a57fad2f7bd4da733633051f47efd6555 inherit pub_methods_a05354"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae6c4e7120a54b7069e157fe9a397d455 inherit pub_methods_a05354"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/da3/a05354.html#ae6c4e7120a54b7069e157fe9a397d455">setLogLevel</a> (<a class="el" href="../../d6/d1a/a00485.html#ad26ed09e30f81a5d2172b4793a3f2781">LogLevel</a>)</td></tr>
-<tr class="separator:ae6c4e7120a54b7069e157fe9a397d455 inherit pub_methods_a05354"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a33d9f53e1853633d15c78f4edc33e5d3 inherit pub_methods_a05354"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/da3/a05354.html#a33d9f53e1853633d15c78f4edc33e5d3">write</a> (<a class="el" href="../../dd/d9e/a05378.html">LogMessage</a> *message)</td></tr>
-<tr class="separator:a33d9f53e1853633d15c78f4edc33e5d3 inherit pub_methods_a05354"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae13f18ba2b26260f64aedc1ce1806fef inherit pub_methods_a05354"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/da3/a05354.html#ae13f18ba2b26260f64aedc1ce1806fef">setRealmId</a> (<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>)</td></tr>
-<tr class="separator:ae13f18ba2b26260f64aedc1ce1806fef inherit pub_methods_a05354"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a663d13ba0b22e0711d135073ff80ee47"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dba/a05906.html#a663d13ba0b22e0711d135073ff80ee47">TransactionBase</a> ()=default</td></tr>
+<tr class="separator:a663d13ba0b22e0711d135073ff80ee47"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6ce7e6ef81bb466463bace35cdd49476"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dba/a05906.html#a6ce7e6ef81bb466463bace35cdd49476">~TransactionBase</a> ()</td></tr>
+<tr class="separator:a6ce7e6ef81bb466463bace35cdd49476"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a867b7a92080104278aef5fb4975a4a52"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dba/a05906.html#a867b7a92080104278aef5fb4975a4a52">Append</a> (std::string_view sql)</td></tr>
+<tr class="separator:a867b7a92080104278aef5fb4975a4a52"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa0a81814abe26d456018c3bc9153cd4d"><td class="memTemplParams" colspan="2">template&lt;typename... Args&gt; </td></tr>
+<tr class="memitem:aa0a81814abe26d456018c3bc9153cd4d"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d0/dba/a05906.html#aa0a81814abe26d456018c3bc9153cd4d">Append</a> (std::string_view sql, Args &amp;&amp;... args)</td></tr>
+<tr class="separator:aa0a81814abe26d456018c3bc9153cd4d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a261ad9d7423562ccbe2cac6d75c203bd"><td class="memItemLeft" align="right" valign="top">std::size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dba/a05906.html#a261ad9d7423562ccbe2cac6d75c203bd">GetSize</a> () const</td></tr>
+<tr class="separator:a261ad9d7423562ccbe2cac6d75c203bd"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-attribs" name="pub-static-attribs"></a>
-Static Public Attributes</h2></td></tr>
-<tr class="memitem:a8d9968c073ee16a8fe082254ec232ebb"><td class="memItemLeft" align="right" valign="top">static constexpr <a class="el" href="../../d6/d1a/a00485.html#aacbd2dccb14fcb75d2651dce582364df">AppenderType</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dba/a05906.html#a8d9968c073ee16a8fe082254ec232ebb">type</a> = <a class="el" href="../../d6/d1a/a00485.html#aacbd2dccb14fcb75d2651dce582364dfacac80dc510e850226c250af5a5600394">APPENDER_DB</a></td></tr>
-<tr class="separator:a8d9968c073ee16a8fe082254ec232ebb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-methods" name="pro-methods"></a>
+Protected Member Functions</h2></td></tr>
+<tr class="memitem:a8e099a4f8775b5e5e3b95ad0273a716f"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dba/a05906.html#a8e099a4f8775b5e5e3b95ad0273a716f">AppendPreparedStatement</a> (<a class="el" href="../../da/d81/a05850.html">PreparedStatementBase</a> *statement)</td></tr>
+<tr class="separator:a8e099a4f8775b5e5e3b95ad0273a716f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a35e0ce11de325a1b286d90a2936d4aa3"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dba/a05906.html#a35e0ce11de325a1b286d90a2936d4aa3">Cleanup</a> ()</td></tr>
+<tr class="separator:a35e0ce11de325a1b286d90a2936d4aa3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-methods" name="pri-methods"></a>
-Private Member Functions</h2></td></tr>
-<tr class="memitem:af38ab76e4d3ea9ebe864582c0030c49a"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dba/a05906.html#af38ab76e4d3ea9ebe864582c0030c49a">_write</a> (<a class="el" href="../../dd/d9e/a05378.html">LogMessage</a> const *message) override</td></tr>
-<tr class="separator:af38ab76e4d3ea9ebe864582c0030c49a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-attribs" name="pro-attribs"></a>
+Protected Attributes</h2></td></tr>
+<tr class="memitem:a156f1a8316358c05285778e5734eade1"><td class="memItemLeft" align="right" valign="top">std::vector&lt; <a class="el" href="../../d2/ddb/a05898.html">SQLElementData</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dba/a05906.html#a156f1a8316358c05285778e5734eade1">m_queries</a></td></tr>
+<tr class="separator:a156f1a8316358c05285778e5734eade1"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
-<tr class="memitem:a5c9bf2ae429c0903cffe9a01c03b6028"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dba/a05906.html#a5c9bf2ae429c0903cffe9a01c03b6028">realmId</a></td></tr>
-<tr class="separator:a5c9bf2ae429c0903cffe9a01c03b6028"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a55e70394d0a7f321e0cf75a9b822b482"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dba/a05906.html#a55e70394d0a7f321e0cf75a9b822b482">enabled</a></td></tr>
-<tr class="separator:a55e70394d0a7f321e0cf75a9b822b482"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa82af96128bfcee997423a54396d40d4"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dba/a05906.html#aa82af96128bfcee997423a54396d40d4">_cleanedUp</a> {false}</td></tr>
+<tr class="separator:aa82af96128bfcee997423a54396d40d4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="inherited" name="inherited"></a>
-Additional Inherited Members</h2></td></tr>
-<tr class="inherit_header pub_static_methods_a05354"><td colspan="2" onclick="javascript:toggleInherit('pub_static_methods_a05354')"><img src="../../closed.png" alt="-"/>&#160;Static Public Member Functions inherited from <a class="el" href="../../d9/da3/a05354.html">Appender</a></td></tr>
-<tr class="memitem:aa0ec99ab59463bfe249b64e5f9a7645d inherit pub_static_methods_a05354"><td class="memItemLeft" align="right" valign="top">static char const *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/da3/a05354.html#aa0ec99ab59463bfe249b64e5f9a7645d">getLogLevelString</a> (<a class="el" href="../../d6/d1a/a00485.html#ad26ed09e30f81a5d2172b4793a3f2781">LogLevel</a> <a class="el" href="../../d9/da3/a05354.html#a2dd9209b754c6676ef86f1a6f7f2295f">level</a>)</td></tr>
-<tr class="separator:aa0ec99ab59463bfe249b64e5f9a7645d inherit pub_static_methods_a05354"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="friends" name="friends"></a>
+Friends</h2></td></tr>
+<tr class="memitem:a377add6d6b5e34e774d2497d58f4a180"><td class="memItemLeft" align="right" valign="top">class&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dba/a05906.html#a377add6d6b5e34e774d2497d58f4a180">TransactionTask</a></td></tr>
+<tr class="separator:a377add6d6b5e34e774d2497d58f4a180"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a06fa417f69e0a67da8f249333b1d189d"><td class="memItemLeft" align="right" valign="top">class&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dba/a05906.html#a06fa417f69e0a67da8f249333b1d189d">MySQLConnection</a></td></tr>
+<tr class="separator:a06fa417f69e0a67da8f249333b1d189d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5d89109a06fa4fca3057b99bbfa84e58"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
+<tr class="memitem:a5d89109a06fa4fca3057b99bbfa84e58"><td class="memTemplItemLeft" align="right" valign="top">class&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d0/dba/a05906.html#a5d89109a06fa4fca3057b99bbfa84e58">DatabaseWorkerPool</a></td></tr>
+<tr class="separator:a5d89109a06fa4fca3057b99bbfa84e58"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="af8e48076d47a06c73f6b8ae054955a83" name="af8e48076d47a06c73f6b8ae054955a83"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af8e48076d47a06c73f6b8ae054955a83">&#9670;&#160;</a></span>AppenderDB()</h2>
+<div class="textblock"><p >Transactions, high level class. </p>
+</div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="a663d13ba0b22e0711d135073ff80ee47" name="a663d13ba0b22e0711d135073ff80ee47"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a663d13ba0b22e0711d135073ff80ee47">&#9670;&#160;</a></span>TransactionBase()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">TransactionBase::TransactionBase </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">default</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a6ce7e6ef81bb466463bace35cdd49476" name="a6ce7e6ef81bb466463bace35cdd49476"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6ce7e6ef81bb466463bace35cdd49476">&#9670;&#160;</a></span>~TransactionBase()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual TransactionBase::~TransactionBase </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   40</span>{ <a class="code hl_function" href="../../d0/dba/a05906.html#a35e0ce11de325a1b286d90a2936d4aa3">Cleanup</a>(); }</div>
+<div class="ttc" id="aa05906_html_a35e0ce11de325a1b286d90a2936d4aa3"><div class="ttname"><a href="../../d0/dba/a05906.html#a35e0ce11de325a1b286d90a2936d4aa3">TransactionBase::Cleanup</a></div><div class="ttdeci">void Cleanup()</div><div class="ttdef"><b>Definition:</b> Transaction.cpp:50</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="a867b7a92080104278aef5fb4975a4a52" name="a867b7a92080104278aef5fb4975a4a52"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a867b7a92080104278aef5fb4975a4a52">&#9670;&#160;</a></span>Append() <span class="overload">[1/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">AppenderDB::AppenderDB </td>
+          <td class="memname">void TransactionBase::Append </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td>
-          <td class="paramname"><em>id</em>, </td>
+          <td class="paramtype">std::string_view&#160;</td>
+          <td class="paramname"><em>sql</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   34</span>{</div>
+<div class="line"><span class="lineno">   35</span>    <a class="code hl_struct" href="../../d2/ddb/a05898.html">SQLElementData</a> data = {};</div>
+<div class="line"><span class="lineno">   36</span>    data.<a class="code hl_variable" href="../../d2/ddb/a05898.html#afb3f8dc82da740b1aaae165cb6a5b218">type</a> = <a class="code hl_enumvalue" href="../../d5/def/a04676.html#abb4a6cfcce013f18b29779f1f435e627a49f9977e0908bdeb2a8b30b5877d939a">SQL_ELEMENT_RAW</a>;</div>
+<div class="line"><span class="lineno">   37</span>    data.<a class="code hl_variable" href="../../d2/ddb/a05898.html#ae5400b2932fe1a8c514c38fb6bab392f">element</a> = std::string(sql);</div>
+<div class="line"><span class="lineno">   38</span>    <a class="code hl_variable" href="../../d0/dba/a05906.html#a156f1a8316358c05285778e5734eade1">m_queries</a>.emplace_back(data);</div>
+<div class="line"><span class="lineno">   39</span>}</div>
+<div class="ttc" id="aa04676_html_abb4a6cfcce013f18b29779f1f435e627a49f9977e0908bdeb2a8b30b5877d939a"><div class="ttname"><a href="../../d5/def/a04676.html#abb4a6cfcce013f18b29779f1f435e627a49f9977e0908bdeb2a8b30b5877d939a">SQL_ELEMENT_RAW</a></div><div class="ttdeci">@ SQL_ELEMENT_RAW</div><div class="ttdef"><b>Definition:</b> SQLOperation.h:28</div></div>
+<div class="ttc" id="aa05898_html"><div class="ttname"><a href="../../d2/ddb/a05898.html">SQLElementData</a></div><div class="ttdef"><b>Definition:</b> SQLOperation.h:34</div></div>
+<div class="ttc" id="aa05898_html_ae5400b2932fe1a8c514c38fb6bab392f"><div class="ttname"><a href="../../d2/ddb/a05898.html#ae5400b2932fe1a8c514c38fb6bab392f">SQLElementData::element</a></div><div class="ttdeci">std::variant&lt; PreparedStatementBase *, std::string &gt; element</div><div class="ttdef"><b>Definition:</b> SQLOperation.h:35</div></div>
+<div class="ttc" id="aa05898_html_afb3f8dc82da740b1aaae165cb6a5b218"><div class="ttname"><a href="../../d2/ddb/a05898.html#afb3f8dc82da740b1aaae165cb6a5b218">SQLElementData::type</a></div><div class="ttdeci">SQLElementDataType type</div><div class="ttdef"><b>Definition:</b> SQLOperation.h:36</div></div>
+<div class="ttc" id="aa05906_html_a156f1a8316358c05285778e5734eade1"><div class="ttname"><a href="../../d0/dba/a05906.html#a156f1a8316358c05285778e5734eade1">TransactionBase::m_queries</a></div><div class="ttdeci">std::vector&lt; SQLElementData &gt; m_queries</div><div class="ttdef"><b>Definition:</b> Transaction.h:55</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00035">SQLElementData::element</a>, <a class="el" href="../../#l00055">m_queries</a>, <a class="el" href="../../#l00028">SQL_ELEMENT_RAW</a>, and <a class="el" href="../../#l00036">SQLElementData::type</a>.</p>
+
+</div>
+</div>
+<a id="aa0a81814abe26d456018c3bc9153cd4d" name="aa0a81814abe26d456018c3bc9153cd4d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa0a81814abe26d456018c3bc9153cd4d">&#9670;&#160;</a></span>Append() <span class="overload">[2/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename... Args&gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void TransactionBase::Append </td>
+          <td>(</td>
+          <td class="paramtype">std::string_view&#160;</td>
+          <td class="paramname"><em>sql</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">std::string const &amp;&#160;</td>
-          <td class="paramname"><em>name</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d6/d1a/a00485.html#ad26ed09e30f81a5d2172b4793a3f2781">LogLevel</a>&#160;</td>
-          <td class="paramname"><em>level</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d6/d1a/a00485.html#a94c1c25ceab6db205eb6a5d5a2e0e803">AppenderFlags</a>&#160;</td>
-          <td class="paramname"><em>flags</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">std::vector&lt; std::string_view &gt; const &amp;&#160;</td>
+          <td class="paramtype">Args &amp;&amp;...&#160;</td>
           <td class="paramname"><em>args</em>&#160;</td>
         </tr>
         <tr>
@@ -224,37 +283,24 @@ Additional Inherited Members</h2></td></tr>
           <td></td><td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   25</span>    : <a class="code hl_class" href="../../d9/da3/a05354.html">Appender</a>(<span class="keywordtype">id</span>, <a class="code hl_variable" href="../../d9/da3/a05354.html#a0d47660ee41c8816342001825f626a8b">name</a>, <a class="code hl_variable" href="../../d9/da3/a05354.html#a2dd9209b754c6676ef86f1a6f7f2295f">level</a>), <a class="code hl_variable" href="../../d0/dba/a05906.html#a5c9bf2ae429c0903cffe9a01c03b6028">realmId</a>(0), <a class="code hl_variable" href="../../d0/dba/a05906.html#a55e70394d0a7f321e0cf75a9b822b482">enabled</a>(<span class="keyword">false</span>) { }</div>
-<div class="ttc" id="aa05354_html"><div class="ttname"><a href="../../d9/da3/a05354.html">Appender</a></div><div class="ttdef"><b>Definition:</b> Appender.h:29</div></div>
-<div class="ttc" id="aa05354_html_a0d47660ee41c8816342001825f626a8b"><div class="ttname"><a href="../../d9/da3/a05354.html#a0d47660ee41c8816342001825f626a8b">Appender::name</a></div><div class="ttdeci">std::string name</div><div class="ttdef"><b>Definition:</b> Appender.h:49</div></div>
-<div class="ttc" id="aa05354_html_a2dd9209b754c6676ef86f1a6f7f2295f"><div class="ttname"><a href="../../d9/da3/a05354.html#a2dd9209b754c6676ef86f1a6f7f2295f">Appender::level</a></div><div class="ttdeci">LogLevel level</div><div class="ttdef"><b>Definition:</b> Appender.h:50</div></div>
-<div class="ttc" id="aa05906_html_a55e70394d0a7f321e0cf75a9b822b482"><div class="ttname"><a href="../../d0/dba/a05906.html#a55e70394d0a7f321e0cf75a9b822b482">AppenderDB::enabled</a></div><div class="ttdeci">bool enabled</div><div class="ttdef"><b>Definition:</b> AppenderDB.h:37</div></div>
-<div class="ttc" id="aa05906_html_a5c9bf2ae429c0903cffe9a01c03b6028"><div class="ttname"><a href="../../d0/dba/a05906.html#a5c9bf2ae429c0903cffe9a01c03b6028">AppenderDB::realmId</a></div><div class="ttdeci">uint32 realmId</div><div class="ttdef"><b>Definition:</b> AppenderDB.h:36</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   46</span>    {</div>
+<div class="line"><span class="lineno">   47</span>        <a class="code hl_function" href="../../d0/dba/a05906.html#a867b7a92080104278aef5fb4975a4a52">Append</a>(<a class="code hl_function" href="../../d3/d7d/a04797.html#a868406b9609960d4ae0189588c8cbbf4">Acore::StringFormat</a>(sql, std::forward&lt;Args&gt;(args)...));</div>
+<div class="line"><span class="lineno">   48</span>    }</div>
+<div class="ttc" id="aa04797_html_a868406b9609960d4ae0189588c8cbbf4"><div class="ttname"><a href="../../d3/d7d/a04797.html#a868406b9609960d4ae0189588c8cbbf4">Acore::StringFormat</a></div><div class="ttdeci">std::string StringFormat(FormatString&lt; Args... &gt; fmt, Args &amp;&amp;... args)</div><div class="ttdoc">Default AC string format function.</div><div class="ttdef"><b>Definition:</b> StringFormat.h:34</div></div>
+<div class="ttc" id="aa05906_html_a867b7a92080104278aef5fb4975a4a52"><div class="ttname"><a href="../../d0/dba/a05906.html#a867b7a92080104278aef5fb4975a4a52">TransactionBase::Append</a></div><div class="ttdeci">void Append(std::string_view sql)</div><div class="ttdef"><b>Definition:</b> Transaction.cpp:33</div></div>
 </div><!-- fragment -->
-</div>
-</div>
-<a id="a7da848083d02833acc632051a2d938bf" name="a7da848083d02833acc632051a2d938bf"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7da848083d02833acc632051a2d938bf">&#9670;&#160;</a></span>~AppenderDB()</h2>
+<p class="reference">References <a class="el" href="../../#l00034">Acore::StringFormat()</a>.</p>
 
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">AppenderDB::~AppenderDB </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   27</span>{ }</div>
-</div><!-- fragment -->
 </div>
 </div>
-<h2 class="groupheader">Member Function Documentation</h2>
-<a id="af38ab76e4d3ea9ebe864582c0030c49a" name="af38ab76e4d3ea9ebe864582c0030c49a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af38ab76e4d3ea9ebe864582c0030c49a">&#9670;&#160;</a></span>_write()</h2>
+<a id="a8e099a4f8775b5e5e3b95ad0273a716f" name="a8e099a4f8775b5e5e3b95ad0273a716f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8e099a4f8775b5e5e3b95ad0273a716f">&#9670;&#160;</a></span>AppendPreparedStatement()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -263,46 +309,33 @@ Additional Inherited Members</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void AppenderDB::_write </td>
+          <td class="memname">void TransactionBase::AppendPreparedStatement </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../dd/d9e/a05378.html">LogMessage</a> const *&#160;</td>
-          <td class="paramname"><em>message</em></td><td>)</td>
+          <td class="paramtype"><a class="el" href="../../da/d81/a05850.html">PreparedStatementBase</a> *&#160;</td>
+          <td class="paramname"><em>statement</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">override</span><span class="mlabel">private</span><span class="mlabel">virtual</span></span>  </td>
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-
-<p>Implements <a class="el" href="../../d9/da3/a05354.html#a04e6bf8aca909a3fbadcd053dda85b83">Appender</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">   30</span>{</div>
-<div class="line"><span class="lineno">   31</span>    <span class="comment">// Avoid infinite loop, Execute triggers Logging with &quot;sql.sql&quot; type</span></div>
-<div class="line"><span class="lineno">   32</span>    <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d0/dba/a05906.html#a55e70394d0a7f321e0cf75a9b822b482">enabled</a> || (message-&gt;type.find(<span class="stringliteral">&quot;sql&quot;</span>) != std::string::npos))</div>
-<div class="line"><span class="lineno">   33</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">   34</span> </div>
-<div class="line"><span class="lineno">   35</span>    <a class="code hl_class" href="../../d1/dc4/a05702.html">LoginDatabasePreparedStatement</a>* stmt = <a class="code hl_variable" href="../../d6/d12/a04691.html#a2cf25eafe7f2f73b61ccde11d55daf0c">LoginDatabase</a>.GetPreparedStatement(<a class="code hl_enumvalue" href="../../da/d71/a04649.html#a2bc6eef17d8ecd1b7027058f5fecc9fba0ac28ba0659614927e451408b01ddedb">LOGIN_INS_LOG</a>);</div>
-<div class="line"><span class="lineno">   36</span>    stmt-&gt;<a class="code hl_function" href="../../d5/dcd/a05834.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(0, message-&gt;mtime.count());</div>
-<div class="line"><span class="lineno">   37</span>    stmt-&gt;<a class="code hl_function" href="../../d5/dcd/a05834.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(1, <a class="code hl_variable" href="../../d0/dba/a05906.html#a5c9bf2ae429c0903cffe9a01c03b6028">realmId</a>);</div>
-<div class="line"><span class="lineno">   38</span>    stmt-&gt;<a class="code hl_function" href="../../d5/dcd/a05834.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(2, message-&gt;type);</div>
-<div class="line"><span class="lineno">   39</span>    stmt-&gt;<a class="code hl_function" href="../../d5/dcd/a05834.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(3, <a class="code hl_typedef" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>(message-&gt;level));</div>
-<div class="line"><span class="lineno">   40</span>    stmt-&gt;<a class="code hl_function" href="../../d5/dcd/a05834.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(4, message-&gt;text);</div>
-<div class="line"><span class="lineno">   41</span>    <a class="code hl_variable" href="../../d6/d12/a04691.html#a2cf25eafe7f2f73b61ccde11d55daf0c">LoginDatabase</a>.Execute(stmt);</div>
-<div class="line"><span class="lineno">   42</span>}</div>
-<div class="ttc" id="aa00302_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition:</b> Define.h:109</div></div>
-<div class="ttc" id="aa04649_html_a2bc6eef17d8ecd1b7027058f5fecc9fba0ac28ba0659614927e451408b01ddedb"><div class="ttname"><a href="../../da/d71/a04649.html#a2bc6eef17d8ecd1b7027058f5fecc9fba0ac28ba0659614927e451408b01ddedb">LOGIN_INS_LOG</a></div><div class="ttdeci">@ LOGIN_INS_LOG</div><div class="ttdef"><b>Definition:</b> LoginDatabase.h:118</div></div>
-<div class="ttc" id="aa04691_html_a2cf25eafe7f2f73b61ccde11d55daf0c"><div class="ttname"><a href="../../d6/d12/a04691.html#a2cf25eafe7f2f73b61ccde11d55daf0c">LoginDatabase</a></div><div class="ttdeci">DatabaseWorkerPool&lt; LoginDatabaseConnection &gt; LoginDatabase</div><div class="ttdoc">Accessor to the realm/login database.</div><div class="ttdef"><b>Definition:</b> DatabaseEnv.cpp:22</div></div>
-<div class="ttc" id="aa05702_html"><div class="ttname"><a href="../../d1/dc4/a05702.html">PreparedStatement</a></div><div class="ttdef"><b>Definition:</b> PreparedStatement.h:157</div></div>
-<div class="ttc" id="aa05834_html_a52fc2e65042c1db51f0923725a0f0ed0"><div class="ttname"><a href="../../d5/dcd/a05834.html#a52fc2e65042c1db51f0923725a0f0ed0">PreparedStatementBase::SetData</a></div><div class="ttdeci">Acore::Types::is_default&lt; T &gt; SetData(const uint8 index, T value)</div><div class="ttdef"><b>Definition:</b> PreparedStatement.h:77</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   43</span>{</div>
+<div class="line"><span class="lineno">   44</span>    <a class="code hl_struct" href="../../d2/ddb/a05898.html">SQLElementData</a> data = {};</div>
+<div class="line"><span class="lineno">   45</span>    data.<a class="code hl_variable" href="../../d2/ddb/a05898.html#afb3f8dc82da740b1aaae165cb6a5b218">type</a> = <a class="code hl_enumvalue" href="../../d5/def/a04676.html#abb4a6cfcce013f18b29779f1f435e627af61734e97ffd411ebb8f4275ea05600d">SQL_ELEMENT_PREPARED</a>;</div>
+<div class="line"><span class="lineno">   46</span>    data.<a class="code hl_variable" href="../../d2/ddb/a05898.html#ae5400b2932fe1a8c514c38fb6bab392f">element</a> = stmt;</div>
+<div class="line"><span class="lineno">   47</span>    <a class="code hl_variable" href="../../d0/dba/a05906.html#a156f1a8316358c05285778e5734eade1">m_queries</a>.emplace_back(data);</div>
+<div class="line"><span class="lineno">   48</span>}</div>
+<div class="ttc" id="aa04676_html_abb4a6cfcce013f18b29779f1f435e627af61734e97ffd411ebb8f4275ea05600d"><div class="ttname"><a href="../../d5/def/a04676.html#abb4a6cfcce013f18b29779f1f435e627af61734e97ffd411ebb8f4275ea05600d">SQL_ELEMENT_PREPARED</a></div><div class="ttdeci">@ SQL_ELEMENT_PREPARED</div><div class="ttdef"><b>Definition:</b> SQLOperation.h:29</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00037">enabled</a>, <a class="el" href="../../#l00037">LogMessage::level</a>, <a class="el" href="../../#l00118">LOGIN_INS_LOG</a>, <a class="el" href="../../#l00022">LoginDatabase</a>, <a class="el" href="../../#l00042">LogMessage::mtime</a>, <a class="el" href="../../#l00036">realmId</a>, <a class="el" href="../../#l00077">PreparedStatementBase::SetData()</a>, <a class="el" href="../../#l00039">LogMessage::text</a>, and <a class="el" href="../../#l00038">LogMessage::type</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00067">Transaction&lt; T &gt;::Append()</a>.</p>
 
 </div>
 </div>
-<a id="a96221ceed23435556df03c5f7ffab61e" name="a96221ceed23435556df03c5f7ffab61e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a96221ceed23435556df03c5f7ffab61e">&#9670;&#160;</a></span>getType()</h2>
+<a id="a35e0ce11de325a1b286d90a2936d4aa3" name="a35e0ce11de325a1b286d90a2936d4aa3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a35e0ce11de325a1b286d90a2936d4aa3">&#9670;&#160;</a></span>Cleanup()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -311,7 +344,83 @@ Additional Inherited Members</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d6/d1a/a00485.html#aacbd2dccb14fcb75d2651dce582364df">AppenderType</a> AppenderDB::getType </td>
+          <td class="memname">void TransactionBase::Cleanup </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   51</span>{</div>
+<div class="line"><span class="lineno">   52</span>    <span class="comment">// This might be called by explicit calls to Cleanup or by the auto-destructor</span></div>
+<div class="line"><span class="lineno">   53</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d0/dba/a05906.html#aa82af96128bfcee997423a54396d40d4">_cleanedUp</a>)</div>
+<div class="line"><span class="lineno">   54</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">   55</span> </div>
+<div class="line"><span class="lineno">   56</span>    <span class="keywordflow">for</span> (<a class="code hl_struct" href="../../d2/ddb/a05898.html">SQLElementData</a>&amp; data : <a class="code hl_variable" href="../../d0/dba/a05906.html#a156f1a8316358c05285778e5734eade1">m_queries</a>)</div>
+<div class="line"><span class="lineno">   57</span>    {</div>
+<div class="line"><span class="lineno">   58</span>        <span class="keywordflow">switch</span> (data.type)</div>
+<div class="line"><span class="lineno">   59</span>        {</div>
+<div class="line"><span class="lineno">   60</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d5/def/a04676.html#abb4a6cfcce013f18b29779f1f435e627af61734e97ffd411ebb8f4275ea05600d">SQL_ELEMENT_PREPARED</a>:</div>
+<div class="line"><span class="lineno">   61</span>            {</div>
+<div class="line"><span class="lineno">   62</span>                <span class="keywordflow">try</span></div>
+<div class="line"><span class="lineno">   63</span>                {</div>
+<div class="line"><span class="lineno">   64</span>                    <a class="code hl_class" href="../../da/d81/a05850.html">PreparedStatementBase</a>* stmt = std::get&lt;PreparedStatementBase*&gt;(data.element);</div>
+<div class="line"><span class="lineno">   65</span>                    <a class="code hl_define" href="../../dc/d9a/a00218.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(stmt);</div>
+<div class="line"><span class="lineno">   66</span> </div>
+<div class="line"><span class="lineno">   67</span>                    <span class="keyword">delete</span> stmt;</div>
+<div class="line"><span class="lineno">   68</span>                }</div>
+<div class="line"><span class="lineno">   69</span>                <span class="keywordflow">catch</span> (<span class="keyword">const</span> std::bad_variant_access&amp; ex)</div>
+<div class="line"><span class="lineno">   70</span>                {</div>
+<div class="line"><span class="lineno">   71</span>                    <a class="code hl_define" href="../../d5/d0f/a00494.html#a0e09b50c268dc6897a1c70aa46de936e">LOG_FATAL</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;&gt; PreparedStatementBase not found in SQLElementData. {}&quot;</span>, ex.what());</div>
+<div class="line"><span class="lineno">   72</span>                    <a class="code hl_define" href="../../dc/d9a/a00218.html#a5376571bbf4cdc9782683635f366f89a">ABORT</a>();</div>
+<div class="line"><span class="lineno">   73</span>                }</div>
+<div class="line"><span class="lineno">   74</span>            }</div>
+<div class="line"><span class="lineno">   75</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">   76</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d5/def/a04676.html#abb4a6cfcce013f18b29779f1f435e627a49f9977e0908bdeb2a8b30b5877d939a">SQL_ELEMENT_RAW</a>:</div>
+<div class="line"><span class="lineno">   77</span>            {</div>
+<div class="line"><span class="lineno">   78</span>                <span class="keywordflow">try</span></div>
+<div class="line"><span class="lineno">   79</span>                {</div>
+<div class="line"><span class="lineno">   80</span>                    std::get&lt;std::string&gt;(data.element).clear();</div>
+<div class="line"><span class="lineno">   81</span>                }</div>
+<div class="line"><span class="lineno">   82</span>                <span class="keywordflow">catch</span> (<span class="keyword">const</span> std::bad_variant_access&amp; ex)</div>
+<div class="line"><span class="lineno">   83</span>                {</div>
+<div class="line"><span class="lineno">   84</span>                    <a class="code hl_define" href="../../d5/d0f/a00494.html#a0e09b50c268dc6897a1c70aa46de936e">LOG_FATAL</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;&gt; std::string not found in SQLElementData. {}&quot;</span>, ex.what());</div>
+<div class="line"><span class="lineno">   85</span>                    <a class="code hl_define" href="../../dc/d9a/a00218.html#a5376571bbf4cdc9782683635f366f89a">ABORT</a>();</div>
+<div class="line"><span class="lineno">   86</span>                }</div>
+<div class="line"><span class="lineno">   87</span>            }</div>
+<div class="line"><span class="lineno">   88</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">   89</span>        }</div>
+<div class="line"><span class="lineno">   90</span>    }</div>
+<div class="line"><span class="lineno">   91</span> </div>
+<div class="line"><span class="lineno">   92</span>    <a class="code hl_variable" href="../../d0/dba/a05906.html#a156f1a8316358c05285778e5734eade1">m_queries</a>.clear();</div>
+<div class="line"><span class="lineno">   93</span>    <a class="code hl_variable" href="../../d0/dba/a05906.html#aa82af96128bfcee997423a54396d40d4">_cleanedUp</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">   94</span>}</div>
+<div class="ttc" id="aa00218_html_a5376571bbf4cdc9782683635f366f89a"><div class="ttname"><a href="../../dc/d9a/a00218.html#a5376571bbf4cdc9782683635f366f89a">ABORT</a></div><div class="ttdeci">#define ABORT</div><div class="ttdef"><b>Definition:</b> Errors.h:76</div></div>
+<div class="ttc" id="aa00218_html_af343b20373ba49a92fce523e948f2ab3"><div class="ttname"><a href="../../dc/d9a/a00218.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a></div><div class="ttdeci">#define ASSERT</div><div class="ttdef"><b>Definition:</b> Errors.h:68</div></div>
+<div class="ttc" id="aa00494_html_a0e09b50c268dc6897a1c70aa46de936e"><div class="ttname"><a href="../../d5/d0f/a00494.html#a0e09b50c268dc6897a1c70aa46de936e">LOG_FATAL</a></div><div class="ttdeci">#define LOG_FATAL(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:154</div></div>
+<div class="ttc" id="aa05850_html"><div class="ttname"><a href="../../da/d81/a05850.html">PreparedStatementBase</a></div><div class="ttdef"><b>Definition:</b> PreparedStatement.h:68</div></div>
+<div class="ttc" id="aa05906_html_aa82af96128bfcee997423a54396d40d4"><div class="ttname"><a href="../../d0/dba/a05906.html#aa82af96128bfcee997423a54396d40d4">TransactionBase::_cleanedUp</a></div><div class="ttdeci">bool _cleanedUp</div><div class="ttdef"><b>Definition:</b> Transaction.h:58</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00058">_cleanedUp</a>, <a class="el" href="../../#l00076">ABORT</a>, <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00154">LOG_FATAL</a>, <a class="el" href="../../#l00055">m_queries</a>, <a class="el" href="../../#l00029">SQL_ELEMENT_PREPARED</a>, and <a class="el" href="../../#l00028">SQL_ELEMENT_RAW</a>.</p>
+
+</div>
+</div>
+<a id="a261ad9d7423562ccbe2cac6d75c203bd" name="a261ad9d7423562ccbe2cac6d75c203bd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a261ad9d7423562ccbe2cac6d75c203bd">&#9670;&#160;</a></span>GetSize()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::size_t TransactionBase::GetSize </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td> const</td>
@@ -319,21 +428,41 @@ Additional Inherited Members</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">override</span><span class="mlabel">virtual</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   50</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d0/dba/a05906.html#a156f1a8316358c05285778e5734eade1">m_queries</a>.size(); }</div>
+</div><!-- fragment -->
+</div>
+</div>
+<h2 class="groupheader">Friends And Related Function Documentation</h2>
+<a id="a5d89109a06fa4fca3057b99bbfa84e58" name="a5d89109a06fa4fca3057b99bbfa84e58"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5d89109a06fa4fca3057b99bbfa84e58">&#9670;&#160;</a></span>DatabaseWorkerPool</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">friend class <a class="el" href="../../db/dd1/a05730.html">DatabaseWorkerPool</a></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">friend</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
 
-<p>Implements <a class="el" href="../../d9/da3/a05354.html#a0efa3e131b7c130a9ece375135682ea4">Appender</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">   33</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d0/dba/a05906.html#a8d9968c073ee16a8fe082254ec232ebb">type</a>; }</div>
-<div class="ttc" id="aa05906_html_a8d9968c073ee16a8fe082254ec232ebb"><div class="ttname"><a href="../../d0/dba/a05906.html#a8d9968c073ee16a8fe082254ec232ebb">AppenderDB::type</a></div><div class="ttdeci">static constexpr AppenderType type</div><div class="ttdef"><b>Definition:</b> AppenderDB.h:27</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00027">type</a>.</p>
-
 </div>
 </div>
-<a id="a769ff59f4dbbff1b77398dd20c016ace" name="a769ff59f4dbbff1b77398dd20c016ace"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a769ff59f4dbbff1b77398dd20c016ace">&#9670;&#160;</a></span>setRealmId()</h2>
+<a id="a06fa417f69e0a67da8f249333b1d189d" name="a06fa417f69e0a67da8f249333b1d189d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a06fa417f69e0a67da8f249333b1d189d">&#9670;&#160;</a></span>MySQLConnection</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -342,33 +471,43 @@ Additional Inherited Members</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void AppenderDB::setRealmId </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>realmId</em></td><td>)</td>
-          <td></td>
+          <td class="memname">friend class <a class="el" href="../../d9/dc9/a05774.html">MySQLConnection</a></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">override</span><span class="mlabel">virtual</span></span>  </td>
+<span class="mlabels"><span class="mlabel">friend</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
 
-<p>Reimplemented from <a class="el" href="../../d9/da3/a05354.html#ae13f18ba2b26260f64aedc1ce1806fef">Appender</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">   45</span>{</div>
-<div class="line"><span class="lineno">   46</span>    <a class="code hl_variable" href="../../d0/dba/a05906.html#a55e70394d0a7f321e0cf75a9b822b482">enabled</a> = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">   47</span>    <a class="code hl_variable" href="../../d0/dba/a05906.html#a5c9bf2ae429c0903cffe9a01c03b6028">realmId</a> = _realmId;</div>
-<div class="line"><span class="lineno">   48</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00037">enabled</a>, and <a class="el" href="../../#l00036">realmId</a>.</p>
+</div>
+</div>
+<a id="a377add6d6b5e34e774d2497d58f4a180" name="a377add6d6b5e34e774d2497d58f4a180"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a377add6d6b5e34e774d2497d58f4a180">&#9670;&#160;</a></span>TransactionTask</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">friend class <a class="el" href="../../d7/d6f/a05910.html">TransactionTask</a></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">friend</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a55e70394d0a7f321e0cf75a9b822b482" name="a55e70394d0a7f321e0cf75a9b822b482"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a55e70394d0a7f321e0cf75a9b822b482">&#9670;&#160;</a></span>enabled</h2>
+<a id="aa82af96128bfcee997423a54396d40d4" name="aa82af96128bfcee997423a54396d40d4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa82af96128bfcee997423a54396d40d4">&#9670;&#160;</a></span>_cleanedUp</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -377,7 +516,7 @@ Additional Inherited Members</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">bool AppenderDB::enabled</td>
+          <td class="memname">bool TransactionBase::_cleanedUp {false}</td>
         </tr>
       </table>
   </td>
@@ -387,12 +526,12 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00029">_write()</a>, and <a class="el" href="../../#l00044">setRealmId()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00050">Cleanup()</a>.</p>
 
 </div>
 </div>
-<a id="a5c9bf2ae429c0903cffe9a01c03b6028" name="a5c9bf2ae429c0903cffe9a01c03b6028"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5c9bf2ae429c0903cffe9a01c03b6028">&#9670;&#160;</a></span>realmId</h2>
+<a id="a156f1a8316358c05285778e5734eade1" name="a156f1a8316358c05285778e5734eade1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a156f1a8316358c05285778e5734eade1">&#9670;&#160;</a></span>m_queries</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -401,41 +540,17 @@ Additional Inherited Members</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AppenderDB::realmId</td>
+          <td class="memname">std::vector&lt;<a class="el" href="../../d2/ddb/a05898.html">SQLElementData</a>&gt; TransactionBase::m_queries</td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00029">_write()</a>, and <a class="el" href="../../#l00044">setRealmId()</a>.</p>
-
-</div>
-</div>
-<a id="a8d9968c073ee16a8fe082254ec232ebb" name="a8d9968c073ee16a8fe082254ec232ebb"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8d9968c073ee16a8fe082254ec232ebb">&#9670;&#160;</a></span>type</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">constexpr <a class="el" href="../../d6/d1a/a00485.html#aacbd2dccb14fcb75d2651dce582364df">AppenderType</a> AppenderDB::type = <a class="el" href="../../d6/d1a/a00485.html#aacbd2dccb14fcb75d2651dce582364dfacac80dc510e850226c250af5a5600394">APPENDER_DB</a></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span><span class="mlabel">constexpr</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00033">getType()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00033">Append()</a>, <a class="el" href="../../#l00033">Transaction&lt; T &gt;::Append()</a>, and <a class="el" href="../../#l00050">Cleanup()</a>.</p>
 
 </div>
 </div>
@@ -444,8 +559,8 @@ Additional Inherited Members</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d0/dba/a05906.html">AppenderDB</a></li>
-    <li class="footer">Generated on Mon Sep 1 2025 20:43:28 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d0/dba/a05906.html">TransactionBase</a></li>
+    <li class="footer">Generated on Mon Sep 8 2025 20:45:48 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

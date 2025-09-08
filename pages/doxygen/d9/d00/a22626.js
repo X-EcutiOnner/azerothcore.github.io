@@ -1,6 +1,6 @@
 var a22626 =
 [
-    [ "npc_released_offspring_harkoaAI", "d9/d00/a22626.html#ab1002f002987b6ea2366129afd48d65c", null ],
-    [ "MovementInform", "d9/d00/a22626.html#a56d52be3fdbc2e4176efe09ba58f55c7", null ],
-    [ "Reset", "d9/d00/a22626.html#a3ddc30ce39acef3bb5e6f8400a084393", null ]
+    [ "npc_drakuru_shacklesAI", "db/d16/a22630.html", "db/d16/a22630" ],
+    [ "npc_drakuru_shackles", "d9/d00/a22626.html#a2b15a214b34d86597cba09b17654e4ff", null ],
+    [ "GetAI", "d9/d00/a22626.html#a90ce98de4630771858cd3b79264a28f9", null ]
 ];

@@ -1,11 +1,10 @@
 var a07222 =
 [
-    [ "WGWorkshop", "d5/d05/a07222.html#a2d2d7b24ec77275f24efa54d31e98bbb", null ],
-    [ "GiveControlTo", "d5/d05/a07222.html#a6b69312f4ffa562b0e8fdcf5da3568d3", null ],
-    [ "Save", "d5/d05/a07222.html#adede1c780178f20dc8339320a021e4b6", null ],
-    [ "UpdateGraveyardAndWorkshop", "d5/d05/a07222.html#a2ff11801fb50cd3a463c44fafbddaed4", null ],
-    [ "bf", "d5/d05/a07222.html#ae2b7e050289ad5922ddcd73c6da9f5a5", null ],
-    [ "state", "d5/d05/a07222.html#a279d47c85843e884edef1f82b9654cd8", null ],
-    [ "teamControl", "d5/d05/a07222.html#a196c8d0094a34c18835840e046fd39ef", null ],
-    [ "workshopId", "d5/d05/a07222.html#a42d7337c67e4f19886b0ec86f0e60596", null ]
+    [ "CreatureBottom", "d5/d05/a07222.html#aaa8fe59aa58bf02934bf87f636582637", null ],
+    [ "CreatureTop", "d5/d05/a07222.html#a98a71fcf0d3a1f98ba4dab56d1a3c64b", null ],
+    [ "GameObject", "d5/d05/a07222.html#abc26a328692fc048d9040c44f360f4c4", null ],
+    [ "nbCreatureBottom", "d5/d05/a07222.html#ade8af6bff39a72f7052b7b0db14b207d", null ],
+    [ "nbCreatureTop", "d5/d05/a07222.html#a38ab7536e0682efd7080b823569d504b", null ],
+    [ "nbObject", "d5/d05/a07222.html#ad1e431e7205aee7fa7f8f0dd9a155c97", null ],
+    [ "towerEntry", "d5/d05/a07222.html#a1c0edf97a599773b688954f2e966e794", null ]
 ];

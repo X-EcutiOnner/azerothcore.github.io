@@ -1,6 +1,6 @@
 var a21070 =
 [
-    [ "boss_yoggsaron_lich_kingAI", "d5/d82/a21074.html", "d5/d82/a21074" ],
-    [ "boss_yoggsaron_lich_king", "d6/dfe/a21070.html#a1655d608683e90ccafd350204eed2d31", null ],
-    [ "GetAI", "d6/dfe/a21070.html#aa65cd9c9eafba12ae065903868ee5319", null ]
+    [ "boss_yoggsaron_influence_tentacleAI", "d5/d82/a21074.html", "d5/d82/a21074" ],
+    [ "boss_yoggsaron_influence_tentacle", "d6/dfe/a21070.html#a44155d82364bdde7e00131be3b6edfb6", null ],
+    [ "GetAI", "d6/dfe/a21070.html#afb691fae90c0add07cfc8c02b9d2b975", null ]
 ];

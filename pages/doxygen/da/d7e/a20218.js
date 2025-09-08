@@ -1,6 +1,7 @@
 var a20218 =
 [
-    [ "boss_freya_elder_stonebarkAI", "df/d2f/a20222.html", "df/d2f/a20222" ],
-    [ "boss_freya_elder_stonebark", "da/d7e/a20218.html#a9c90c504d78456580ae657a42fac4075", null ],
-    [ "GetAI", "da/d7e/a20218.html#a0b529bb8755c56046c40b620ef4b7448", null ]
+    [ "achievement_flame_leviathan_garage", "da/d7e/a20218.html#a1893b4059d7212d023c45bb828bb1905", null ],
+    [ "OnCheck", "da/d7e/a20218.html#aa5897eb1fadeda4dda9f2390053d89b6", null ],
+    [ "_entry1", "da/d7e/a20218.html#af482d6c1b2681b9fec572281620a86b7", null ],
+    [ "_entry2", "da/d7e/a20218.html#a41e83b47c411dc6a6aff310ae7059f4e", null ]
 ];

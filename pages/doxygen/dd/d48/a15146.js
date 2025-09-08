@@ -1,9 +1,5 @@
 var a15146 =
 [
-    [ "spell_gen_ayamiss_swarmer_loop", "dd/d48/a15146.html#ad910e172ef6866f102fa3407f676169a", null ],
-    [ "HandleScript", "dd/d48/a15146.html#acd0dffad436cb414deb546b192957783", null ],
-    [ "Load", "dd/d48/a15146.html#aa2b338da6aa545e588be3d3a72b1a747", null ],
-    [ "PrepareSpellScript", "dd/d48/a15146.html#aa64e3d5a98804e2a05d3af1fdc5b2d30", null ],
-    [ "Register", "dd/d48/a15146.html#ae1b7f1ab58bcdc526ff05b9b66b9c9f8", null ],
-    [ "_pathId", "dd/d48/a15146.html#ad179773bdfe73f7926d41d30726f0ac9", null ]
+    [ "pathId", "dd/d48/a15146.html#aefd9fa5c6e7f45047994c7cc47e5967c", null ],
+    [ "spellId", "dd/d48/a15146.html#af495f984d5b81baeaa61ddca127a9508", null ]
 ];

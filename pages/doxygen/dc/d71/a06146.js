@@ -1,12 +1,9 @@
 var a06146 =
 [
-    [ "TotemAI", "dc/d71/a06146.html#ad57f973e52d22f45b5171faeb28f2e91", null ],
-    [ "AttackStart", "dc/d71/a06146.html#aa5bb81b51ec79a4328016cca34363880", null ],
-    [ "DoAction", "dc/d71/a06146.html#a9457dae982b3c1d411aa42ff2f30feac", null ],
-    [ "EnterEvadeMode", "dc/d71/a06146.html#acd8ed4528ac7c16182a0470e49b422f6", null ],
-    [ "MoveInLineOfSight", "dc/d71/a06146.html#a796d05b45b4ba4dc23f04897fc2ce253", null ],
-    [ "Permissible", "dc/d71/a06146.html#a75a0cdb27da98b47cf3ccbd2e594cd18", null ],
-    [ "SpellHit", "dc/d71/a06146.html#a7a5fc1dc37708fab628bc78bb28575be", null ],
-    [ "UpdateAI", "dc/d71/a06146.html#a2b5b3c8bb51d83bfa8f3474a868fcb19", null ],
-    [ "i_victimGuid", "dc/d71/a06146.html#ae651f8f7a02261c1a0e37a6c7ddde4be", null ]
+    [ "CritterAI", "dc/d71/a06146.html#aa211359ea8b80ac0ed27e9b337e333f1", null ],
+    [ "EnterEvadeMode", "dc/d71/a06146.html#a989d1fc00af900320dcf27cce7f247dc", null ],
+    [ "JustEngagedWith", "dc/d71/a06146.html#a2f52eb5c527895168f18ed5ddcc560a9", null ],
+    [ "MovementInform", "dc/d71/a06146.html#a54c44d28e4b2b3231afeb8de343dee43", null ],
+    [ "Permissible", "dc/d71/a06146.html#ae43183a24398fe3af1cb8275b9b4c6c6", null ],
+    [ "UpdateAI", "dc/d71/a06146.html#af860be127a671f5448cb731aa2f701b0", null ]
 ];

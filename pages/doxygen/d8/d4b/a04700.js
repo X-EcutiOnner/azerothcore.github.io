@@ -1,9 +1,9 @@
 var a04700 =
 [
-    [ "MySQLHandle", "d7/db7/a05762.html", null ],
-    [ "MySQLResult", "d7/dce/a05766.html", null ],
-    [ "MySQLField", "d2/d90/a05770.html", null ],
-    [ "MySQLBind", "d9/dc9/a05774.html", null ],
-    [ "MySQLStmt", "de/db9/a05778.html", null ],
+    [ "MySQLHandle", "de/db9/a05778.html", null ],
+    [ "MySQLResult", "d4/d98/a05782.html", null ],
+    [ "MySQLField", "d5/d95/a05786.html", null ],
+    [ "MySQLBind", "d3/d09/a05790.html", null ],
+    [ "MySQLStmt", "d4/dc2/a05794.html", null ],
     [ "MySQLBool", "d8/d4b/a04700.html#a9962b927652e90357369e67230dbc127", null ]
 ];

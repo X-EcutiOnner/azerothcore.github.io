@@ -1,10 +1,8 @@
 var a28298 =
 [
-    [ "HasFlag", "d3/d84/a28298.html#abe23ca5437589a38ea57bc93a6197911", null ],
-    [ "CollisionHeight", "d3/d84/a28298.html#afd7385ab3dd949ebe230e0a01cec7158", null ],
-    [ "CollisionWidth", "d3/d84/a28298.html#ab79497759cf169348b8922301fc43b2f", null ],
-    [ "Flags", "d3/d84/a28298.html#a3bb96e232124771e78f8b5db53405106", null ],
-    [ "Id", "d3/d84/a28298.html#aa19fec147703c7542be260c8ec5a0446", null ],
-    [ "MountHeight", "d3/d84/a28298.html#a5300334ce02dd5a3b9ea6796eddb7ced", null ],
-    [ "Scale", "d3/d84/a28298.html#a08d8be1d2dbc9eb67e1f631650ea74da", null ]
+    [ "ID", "d3/d84/a28298.html#a36958c346c8554d9ab1cfb73ac583818", null ],
+    [ "Model", "d3/d84/a28298.html#a8877a066a16c8c246a2d5a24a3661e56", null ],
+    [ "Origin", "d3/d84/a28298.html#a684c69add50ee545ee606ae456a93336", null ],
+    [ "OriginFacing", "d3/d84/a28298.html#a460723250353c7720cd87677991283cf", null ],
+    [ "SoundID", "d3/d84/a28298.html#aa56be05c7ab4015738e049d75ff365c6", null ]
 ];

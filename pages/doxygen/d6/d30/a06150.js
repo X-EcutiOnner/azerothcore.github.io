@@ -1,6 +1,6 @@
 var a06150 =
 [
-    [ "KillMagnetEvent", "d6/d30/a06150.html#a1f044cb51674faebe45c0e2119601b59", null ],
-    [ "Execute", "d6/d30/a06150.html#a2905731d24060dfa7c2069b05adfa2b2", null ],
-    [ "_self", "d6/d30/a06150.html#a0fe06efbc00b38f98f2e077d7dfb1941", null ]
+    [ "TriggerAI", "d6/d30/a06150.html#ad8cc7eae28b11af049db88e0d8ff149b", null ],
+    [ "IsSummonedBy", "d6/d30/a06150.html#a0bcffd9eab068e35d71e3176c33359f1", null ],
+    [ "Permissible", "d6/d30/a06150.html#aa979e7a4774b35bf83ed137543d517b1", null ]
 ];

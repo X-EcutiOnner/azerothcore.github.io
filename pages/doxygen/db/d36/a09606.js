@@ -1,9 +1,16 @@
 var a09606 =
 [
-    [ "EmoteChatBuilder", "db/d36/a09606.html#ae1aeb36aad24d5ef28074edfbf2f9e7e", null ],
-    [ "operator()", "db/d36/a09606.html#a133a7bb35e86cf40425910c4f19a3337", null ],
-    [ "i_emote_num", "db/d36/a09606.html#a966b8afcbf5afca3a3466d8e075a9437", null ],
-    [ "i_player", "db/d36/a09606.html#ae09dbfe01b2a24e57b63b2b1df5ad232", null ],
-    [ "i_target", "db/d36/a09606.html#abc538e056d91ea1ee8d6203c96174b1d", null ],
-    [ "i_text_emote", "db/d36/a09606.html#add0630dc3fc76fb4fdb79095e13b2fc0", null ]
+    [ "BankMoveItemData", "db/d36/a09606.html#a9edb987f4866e8bc473fe853597bebae", null ],
+    [ "_ReserveSpace", "db/d36/a09606.html#a109e8d55108b005426110626815ba866", null ],
+    [ "_StoreItem", "db/d36/a09606.html#aa11267f5d6202753310da567c0be0e57", null ],
+    [ "CanStore", "db/d36/a09606.html#ade47c73460329ca1af752921173ca75e", null ],
+    [ "CanStoreItemInTab", "db/d36/a09606.html#a5ca7975887e5583466d066c86b3a205f", null ],
+    [ "HasStoreRights", "db/d36/a09606.html#acd684824cab9ccb4d8fd9cbb1f1782e1", null ],
+    [ "HasWithdrawRights", "db/d36/a09606.html#ae9d8f497b4459c982ac73ee8b5742aad", null ],
+    [ "InitItem", "db/d36/a09606.html#a69d6b28ccdda7790f821f5181da0db96", null ],
+    [ "IsBank", "db/d36/a09606.html#a6f1787e15918092ba000ee8bd0852b09", null ],
+    [ "LogAction", "db/d36/a09606.html#a4f23cdffba39ffa78c38851ff7aa7d0c", null ],
+    [ "LogBankEvent", "db/d36/a09606.html#a054ca0f7eecfd404651c11b886d106bf", null ],
+    [ "RemoveItem", "db/d36/a09606.html#abd15e25136ec2a00bcddbc0e81978a78", null ],
+    [ "StoreItem", "db/d36/a09606.html#a9367b938768eefcaf5bb88e74dde9aa3", null ]
 ];

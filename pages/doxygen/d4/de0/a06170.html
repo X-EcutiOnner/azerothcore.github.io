@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: RangeSelector Struct Reference</title>
+<title>AzerothCore: DefaultTargetSelector Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,55 +106,55 @@ $(document).ready(function(){initNavTree('d4/de0/a06170.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pri-attribs">Private Attributes</a> &#124;
+<a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../da/da9/a06167.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">RangeSelector Struct Reference</div></div>
+  <div class="headertitle"><div class="title">DefaultTargetSelector Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
 <p><code>#include &quot;<a class="el" href="../../">UnitAI.h</a>&quot;</code></p>
 <div class="dynheader">
-Inheritance diagram for RangeSelector:</div>
+Inheritance diagram for DefaultTargetSelector:</div>
 <div class="dyncontent">
  <div class="center">
-  <img src="../../d4/de0/a06170.png" usemap="#RangeSelector_map" alt=""/>
-  <map id="RangeSelector_map" name="RangeSelector_map">
+  <img src="../../d4/de0/a06170.png" usemap="#DefaultTargetSelector_map" alt=""/>
+  <map id="DefaultTargetSelector_map" name="DefaultTargetSelector_map">
 <area href="../../dd/d48/a05150.html" alt="Acore::unary_function&lt; Unit *, bool &gt;" shape="rect" coords="0,0,228,24"/>
   </map>
 </div></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a4a87b90485180ede638e2c9bd2a7e9ed"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/de0/a06170.html#a4a87b90485180ede638e2c9bd2a7e9ed">RangeSelector</a> (<a class="el" href="../../d6/d2d/a08766.html">Unit</a> const *unit, float maxDist, bool playerOnly, bool inLos, float minDist=0.f)</td></tr>
-<tr class="separator:a4a87b90485180ede638e2c9bd2a7e9ed"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a917f21b135f402210d21e6bb3f19b9fa"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/de0/a06170.html#a917f21b135f402210d21e6bb3f19b9fa">operator()</a> (<a class="el" href="../../d6/d2d/a08766.html">Unit</a> const *target) const</td></tr>
-<tr class="separator:a917f21b135f402210d21e6bb3f19b9fa"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4ec61d03309c7d8a977afb2060b549a3"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/de0/a06170.html#a4ec61d03309c7d8a977afb2060b549a3">DefaultTargetSelector</a> (<a class="el" href="../../d0/d6f/a08782.html">Unit</a> const *unit, float dist, bool playerOnly, bool withMainTank, <a class="el" href="../../d0/d61/a00302.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> aura)</td></tr>
+<tr class="separator:a4ec61d03309c7d8a977afb2060b549a3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa028e0b06c45bc1eaaa8ca0bb2208a35"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/de0/a06170.html#aa028e0b06c45bc1eaaa8ca0bb2208a35">operator()</a> (<a class="el" href="../../d0/d6f/a08782.html">Unit</a> const *target) const</td></tr>
+<tr class="separator:aa028e0b06c45bc1eaaa8ca0bb2208a35"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
-Private Attributes</h2></td></tr>
-<tr class="memitem:a72ad35c7de0b5d540be27d9a9d46a1d4"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d2d/a08766.html">Unit</a> const  *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/de0/a06170.html#a72ad35c7de0b5d540be27d9a9d46a1d4">_me</a></td></tr>
-<tr class="separator:a72ad35c7de0b5d540be27d9a9d46a1d4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac1ce7a7a7ad6d033972b449867a1c5bf"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/de0/a06170.html#ac1ce7a7a7ad6d033972b449867a1c5bf">_minDist</a></td></tr>
-<tr class="separator:ac1ce7a7a7ad6d033972b449867a1c5bf"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a973ec93b54a839f853101ad5998c10b2"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/de0/a06170.html#a973ec93b54a839f853101ad5998c10b2">_maxDist</a></td></tr>
-<tr class="separator:a973ec93b54a839f853101ad5998c10b2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac68f7dfefe2e71942a3dfff7026a7ae7"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/de0/a06170.html#ac68f7dfefe2e71942a3dfff7026a7ae7">_playerOnly</a></td></tr>
-<tr class="separator:ac68f7dfefe2e71942a3dfff7026a7ae7"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9dcf455d9db8d32aaebfc46eee36e1b5"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/de0/a06170.html#a9dcf455d9db8d32aaebfc46eee36e1b5">_inLos</a></td></tr>
-<tr class="separator:a9dcf455d9db8d32aaebfc46eee36e1b5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
+Public Attributes</h2></td></tr>
+<tr class="memitem:a4e468ce5a085ef402659db46f71d6262"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d6f/a08782.html">Unit</a> const  *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/de0/a06170.html#a4e468ce5a085ef402659db46f71d6262">me</a></td></tr>
+<tr class="separator:a4e468ce5a085ef402659db46f71d6262"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a57b3cdce9605ab6ff6bdfdf7bf264a5f"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/de0/a06170.html#a57b3cdce9605ab6ff6bdfdf7bf264a5f">m_dist</a></td></tr>
+<tr class="separator:a57b3cdce9605ab6ff6bdfdf7bf264a5f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad7b04bc5bd7c5cd139d0d56fbb6f9f4e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d6f/a08782.html">Unit</a> const  *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/de0/a06170.html#ad7b04bc5bd7c5cd139d0d56fbb6f9f4e">except</a></td></tr>
+<tr class="separator:ad7b04bc5bd7c5cd139d0d56fbb6f9f4e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa7d50214f6fcb051279373e3373a6f68"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/de0/a06170.html#aa7d50214f6fcb051279373e3373a6f68">m_playerOnly</a></td></tr>
+<tr class="separator:aa7d50214f6fcb051279373e3373a6f68"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a93cae8f794de101a6a0a821961c312b8"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/de0/a06170.html#a93cae8f794de101a6a0a821961c312b8">m_aura</a></td></tr>
+<tr class="separator:a93cae8f794de101a6a0a821961c312b8"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="inherited" name="inherited"></a>
 Additional Inherited Members</h2></td></tr>
 <tr class="inherit_header pub_types_a05150"><td colspan="2" onclick="javascript:toggleInherit('pub_types_a05150')"><img src="../../closed.png" alt="-"/>&#160;Public Types inherited from <a class="el" href="../../dd/d48/a05150.html">Acore::unary_function&lt; Unit *, bool &gt;</a></td></tr>
-<tr class="memitem:ad0011a133ce27e947c35917314e60693 inherit pub_types_a05150"><td class="memItemLeft" align="right" valign="top">typedef <a class="el" href="../../d6/d2d/a08766.html">Unit</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d48/a05150.html#ad0011a133ce27e947c35917314e60693">argument_type</a></td></tr>
+<tr class="memitem:ad0011a133ce27e947c35917314e60693 inherit pub_types_a05150"><td class="memItemLeft" align="right" valign="top">typedef <a class="el" href="../../d0/d6f/a08782.html">Unit</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d48/a05150.html#ad0011a133ce27e947c35917314e60693">argument_type</a></td></tr>
 <tr class="separator:ad0011a133ce27e947c35917314e60693 inherit pub_types_a05150"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a6dcbf6789c1565b95f16de3d580118a9 inherit pub_types_a05150"><td class="memItemLeft" align="right" valign="top">typedef bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d48/a05150.html#a6dcbf6789c1565b95f16de3d580118a9">result_type</a></td></tr>
 <tr class="separator:a6dcbf6789c1565b95f16de3d580118a9 inherit pub_types_a05150"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a4a87b90485180ede638e2c9bd2a7e9ed" name="a4a87b90485180ede638e2c9bd2a7e9ed"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4a87b90485180ede638e2c9bd2a7e9ed">&#9670;&#160;</a></span>RangeSelector()</h2>
+<a id="a4ec61d03309c7d8a977afb2060b549a3" name="a4ec61d03309c7d8a977afb2060b549a3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4ec61d03309c7d8a977afb2060b549a3">&#9670;&#160;</a></span>DefaultTargetSelector()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -163,16 +163,16 @@ Additional Inherited Members</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">RangeSelector::RangeSelector </td>
+          <td class="memname">DefaultTargetSelector::DefaultTargetSelector </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d6/d2d/a08766.html">Unit</a> const *&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d0/d6f/a08782.html">Unit</a> const *&#160;</td>
           <td class="paramname"><em>unit</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>maxDist</em>, </td>
+          <td class="paramname"><em>dist</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
@@ -184,13 +184,13 @@ Additional Inherited Members</h2></td></tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype">bool&#160;</td>
-          <td class="paramname"><em>inLos</em>, </td>
+          <td class="paramname"><em>withMainTank</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>minDist</em> = <code>0.f</code>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d0/d61/a00302.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td>
+          <td class="paramname"><em>aura</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -204,18 +204,20 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  171</span>: <a class="code hl_variable" href="../../d4/de0/a06170.html#a72ad35c7de0b5d540be27d9a9d46a1d4">_me</a>(unit), <a class="code hl_variable" href="../../d4/de0/a06170.html#ac1ce7a7a7ad6d033972b449867a1c5bf">_minDist</a>(minDist), <a class="code hl_variable" href="../../d4/de0/a06170.html#a973ec93b54a839f853101ad5998c10b2">_maxDist</a>(maxDist), <a class="code hl_variable" href="../../d4/de0/a06170.html#ac68f7dfefe2e71942a3dfff7026a7ae7">_playerOnly</a>(playerOnly), <a class="code hl_variable" href="../../d4/de0/a06170.html#a9dcf455d9db8d32aaebfc46eee36e1b5">_inLos</a>(inLos) {}</div>
-<div class="ttc" id="aa06170_html_a72ad35c7de0b5d540be27d9a9d46a1d4"><div class="ttname"><a href="../../d4/de0/a06170.html#a72ad35c7de0b5d540be27d9a9d46a1d4">RangeSelector::_me</a></div><div class="ttdeci">Unit const  * _me</div><div class="ttdef"><b>Definition:</b> UnitAI.h:191</div></div>
-<div class="ttc" id="aa06170_html_a973ec93b54a839f853101ad5998c10b2"><div class="ttname"><a href="../../d4/de0/a06170.html#a973ec93b54a839f853101ad5998c10b2">RangeSelector::_maxDist</a></div><div class="ttdeci">float _maxDist</div><div class="ttdef"><b>Definition:</b> UnitAI.h:192</div></div>
-<div class="ttc" id="aa06170_html_a9dcf455d9db8d32aaebfc46eee36e1b5"><div class="ttname"><a href="../../d4/de0/a06170.html#a9dcf455d9db8d32aaebfc46eee36e1b5">RangeSelector::_inLos</a></div><div class="ttdeci">bool _inLos</div><div class="ttdef"><b>Definition:</b> UnitAI.h:194</div></div>
-<div class="ttc" id="aa06170_html_ac1ce7a7a7ad6d033972b449867a1c5bf"><div class="ttname"><a href="../../d4/de0/a06170.html#ac1ce7a7a7ad6d033972b449867a1c5bf">RangeSelector::_minDist</a></div><div class="ttdeci">float _minDist</div><div class="ttdef"><b>Definition:</b> UnitAI.h:192</div></div>
-<div class="ttc" id="aa06170_html_ac68f7dfefe2e71942a3dfff7026a7ae7"><div class="ttname"><a href="../../d4/de0/a06170.html#ac68f7dfefe2e71942a3dfff7026a7ae7">RangeSelector::_playerOnly</a></div><div class="ttdeci">bool _playerOnly</div><div class="ttdef"><b>Definition:</b> UnitAI.h:193</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   66</span>: <a class="code hl_variable" href="../../d4/de0/a06170.html#a4e468ce5a085ef402659db46f71d6262">me</a>(unit), <a class="code hl_variable" href="../../d4/de0/a06170.html#a57b3cdce9605ab6ff6bdfdf7bf264a5f">m_dist</a>(dist), <a class="code hl_variable" href="../../d4/de0/a06170.html#ad7b04bc5bd7c5cd139d0d56fbb6f9f4e">except</a>(!withMainTank ? <a class="code hl_variable" href="../../d4/de0/a06170.html#a4e468ce5a085ef402659db46f71d6262">me</a>-&gt;<a class="code hl_function" href="../../d0/d6f/a08782.html#ad56089c61bf09419bedbb4edd2d94aeb">GetThreatMgr</a>().<a class="code hl_function" href="../../d0/db7/a07866.html#a31c5aa513055858f835a5f1a8d372930">GetCurrentVictim</a>() : <span class="keyword">nullptr</span>), <a class="code hl_variable" href="../../d4/de0/a06170.html#aa7d50214f6fcb051279373e3373a6f68">m_playerOnly</a>(playerOnly), <a class="code hl_variable" href="../../d4/de0/a06170.html#a93cae8f794de101a6a0a821961c312b8">m_aura</a>(aura) {}</div>
+<div class="ttc" id="aa06170_html_a4e468ce5a085ef402659db46f71d6262"><div class="ttname"><a href="../../d4/de0/a06170.html#a4e468ce5a085ef402659db46f71d6262">DefaultTargetSelector::me</a></div><div class="ttdeci">Unit const  * me</div><div class="ttdef"><b>Definition:</b> UnitAI.h:55</div></div>
+<div class="ttc" id="aa06170_html_a57b3cdce9605ab6ff6bdfdf7bf264a5f"><div class="ttname"><a href="../../d4/de0/a06170.html#a57b3cdce9605ab6ff6bdfdf7bf264a5f">DefaultTargetSelector::m_dist</a></div><div class="ttdeci">float m_dist</div><div class="ttdef"><b>Definition:</b> UnitAI.h:56</div></div>
+<div class="ttc" id="aa06170_html_a93cae8f794de101a6a0a821961c312b8"><div class="ttname"><a href="../../d4/de0/a06170.html#a93cae8f794de101a6a0a821961c312b8">DefaultTargetSelector::m_aura</a></div><div class="ttdeci">int32 m_aura</div><div class="ttdef"><b>Definition:</b> UnitAI.h:59</div></div>
+<div class="ttc" id="aa06170_html_aa7d50214f6fcb051279373e3373a6f68"><div class="ttname"><a href="../../d4/de0/a06170.html#aa7d50214f6fcb051279373e3373a6f68">DefaultTargetSelector::m_playerOnly</a></div><div class="ttdeci">bool m_playerOnly</div><div class="ttdef"><b>Definition:</b> UnitAI.h:58</div></div>
+<div class="ttc" id="aa06170_html_ad7b04bc5bd7c5cd139d0d56fbb6f9f4e"><div class="ttname"><a href="../../d4/de0/a06170.html#ad7b04bc5bd7c5cd139d0d56fbb6f9f4e">DefaultTargetSelector::except</a></div><div class="ttdeci">Unit const  * except</div><div class="ttdef"><b>Definition:</b> UnitAI.h:57</div></div>
+<div class="ttc" id="aa07866_html_a31c5aa513055858f835a5f1a8d372930"><div class="ttname"><a href="../../d0/db7/a07866.html#a31c5aa513055858f835a5f1a8d372930">ThreatMgr::GetCurrentVictim</a></div><div class="ttdeci">Unit * GetCurrentVictim() const</div><div class="ttdef"><b>Definition:</b> ThreatMgr.h:212</div></div>
+<div class="ttc" id="aa08782_html_ad56089c61bf09419bedbb4edd2d94aeb"><div class="ttname"><a href="../../d0/d6f/a08782.html#ad56089c61bf09419bedbb4edd2d94aeb">Unit::GetThreatMgr</a></div><div class="ttdeci">ThreatMgr &amp; GetThreatMgr()</div><div class="ttdef"><b>Definition:</b> Unit.h:898</div></div>
 </div><!-- fragment -->
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="a917f21b135f402210d21e6bb3f19b9fa" name="a917f21b135f402210d21e6bb3f19b9fa"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a917f21b135f402210d21e6bb3f19b9fa">&#9670;&#160;</a></span>operator()()</h2>
+<a id="aa028e0b06c45bc1eaaa8ca0bb2208a35" name="aa028e0b06c45bc1eaaa8ca0bb2208a35"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa028e0b06c45bc1eaaa8ca0bb2208a35">&#9670;&#160;</a></span>operator()()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -224,9 +226,9 @@ Additional Inherited Members</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">bool RangeSelector::operator() </td>
+          <td class="memname">bool DefaultTargetSelector::operator() </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d6/d2d/a08766.html">Unit</a> const *&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d0/d6f/a08782.html">Unit</a> const *&#160;</td>
           <td class="paramname"><em>target</em></td><td>)</td>
           <td> const</td>
         </tr>
@@ -237,146 +239,125 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  174</span>    {</div>
-<div class="line"><span class="lineno">  175</span>        <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d4/de0/a06170.html#a72ad35c7de0b5d540be27d9a9d46a1d4">_me</a> || !target)</div>
-<div class="line"><span class="lineno">  176</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  177</span> </div>
-<div class="line"><span class="lineno">  178</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d4/de0/a06170.html#ac68f7dfefe2e71942a3dfff7026a7ae7">_playerOnly</a> &amp;&amp; !target-&gt;IsPlayer())</div>
-<div class="line"><span class="lineno">  179</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  180</span> </div>
-<div class="line"><span class="lineno">  181</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d4/de0/a06170.html#a973ec93b54a839f853101ad5998c10b2">_maxDist</a> &gt; 0.0f &amp;&amp; !<a class="code hl_variable" href="../../d4/de0/a06170.html#a72ad35c7de0b5d540be27d9a9d46a1d4">_me</a>-&gt;<a class="code hl_function" href="../../dc/d1b/a08414.html#ab79ebfcc3ba4247ccfeb95eee63dc01a">IsInRange</a>(target, <a class="code hl_variable" href="../../d4/de0/a06170.html#ac1ce7a7a7ad6d033972b449867a1c5bf">_minDist</a>, <a class="code hl_variable" href="../../d4/de0/a06170.html#a973ec93b54a839f853101ad5998c10b2">_maxDist</a>))</div>
-<div class="line"><span class="lineno">  182</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  183</span> </div>
-<div class="line"><span class="lineno">  184</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d4/de0/a06170.html#a9dcf455d9db8d32aaebfc46eee36e1b5">_inLos</a> &amp;&amp; !<a class="code hl_variable" href="../../d4/de0/a06170.html#a72ad35c7de0b5d540be27d9a9d46a1d4">_me</a>-&gt;<a class="code hl_function" href="../../dc/d1b/a08414.html#a64f76cf543cb4851cb271bb7d2facaf2">IsWithinLOSInMap</a>(target))</div>
-<div class="line"><span class="lineno">  185</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  186</span> </div>
-<div class="line"><span class="lineno">  187</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  188</span>    }</div>
-<div class="ttc" id="aa08414_html_a64f76cf543cb4851cb271bb7d2facaf2"><div class="ttname"><a href="../../dc/d1b/a08414.html#a64f76cf543cb4851cb271bb7d2facaf2">WorldObject::IsWithinLOSInMap</a></div><div class="ttdeci">bool IsWithinLOSInMap(WorldObject const *obj, VMAP::ModelIgnoreFlags ignoreFlags=VMAP::ModelIgnoreFlags::Nothing, LineOfSightChecks checks=LINEOFSIGHT_ALL_CHECKS, Optional&lt; float &gt; collisionHeight={ }, Optional&lt; float &gt; combatReach={ }) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:1315</div></div>
-<div class="ttc" id="aa08414_html_ab79ebfcc3ba4247ccfeb95eee63dc01a"><div class="ttname"><a href="../../dc/d1b/a08414.html#ab79ebfcc3ba4247ccfeb95eee63dc01a">WorldObject::IsInRange</a></div><div class="ttdeci">bool IsInRange(WorldObject const *obj, float minRange, float maxRange, bool is3D=true) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:1372</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   69</span>    {</div>
+<div class="line"><span class="lineno">   70</span>        <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d4/de0/a06170.html#a4e468ce5a085ef402659db46f71d6262">me</a>)</div>
+<div class="line"><span class="lineno">   71</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">   72</span> </div>
+<div class="line"><span class="lineno">   73</span>        <span class="keywordflow">if</span> (!target)</div>
+<div class="line"><span class="lineno">   74</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">   75</span> </div>
+<div class="line"><span class="lineno">   76</span>        <span class="keywordflow">if</span> (target == <a class="code hl_variable" href="../../d4/de0/a06170.html#ad7b04bc5bd7c5cd139d0d56fbb6f9f4e">except</a>)</div>
+<div class="line"><span class="lineno">   77</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">   78</span> </div>
+<div class="line"><span class="lineno">   79</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d4/de0/a06170.html#aa7d50214f6fcb051279373e3373a6f68">m_playerOnly</a> &amp;&amp; (!target-&gt;IsPlayer()))</div>
+<div class="line"><span class="lineno">   80</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">   81</span> </div>
+<div class="line"><span class="lineno">   82</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d4/de0/a06170.html#a57b3cdce9605ab6ff6bdfdf7bf264a5f">m_dist</a> &gt; 0.0f &amp;&amp; !<a class="code hl_variable" href="../../d4/de0/a06170.html#a4e468ce5a085ef402659db46f71d6262">me</a>-&gt;<a class="code hl_function" href="../../d0/d6f/a08782.html#a2b32551adec993309c35e8e88e35b4be">IsWithinCombatRange</a>(target, <a class="code hl_variable" href="../../d4/de0/a06170.html#a57b3cdce9605ab6ff6bdfdf7bf264a5f">m_dist</a>))</div>
+<div class="line"><span class="lineno">   83</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">   84</span> </div>
+<div class="line"><span class="lineno">   85</span>        <span class="keywordflow">if</span> (m_dist &lt; 0.0f &amp;&amp; me-&gt;IsWithinCombatRange(target, -<a class="code hl_variable" href="../../d4/de0/a06170.html#a57b3cdce9605ab6ff6bdfdf7bf264a5f">m_dist</a>))</div>
+<div class="line"><span class="lineno">   86</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">   87</span> </div>
+<div class="line"><span class="lineno">   88</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d4/de0/a06170.html#a93cae8f794de101a6a0a821961c312b8">m_aura</a>)</div>
+<div class="line"><span class="lineno">   89</span>        {</div>
+<div class="line"><span class="lineno">   90</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d4/de0/a06170.html#a93cae8f794de101a6a0a821961c312b8">m_aura</a> &gt; 0)</div>
+<div class="line"><span class="lineno">   91</span>            {</div>
+<div class="line"><span class="lineno">   92</span>                <span class="keywordflow">if</span> (!target-&gt;HasAura(<a class="code hl_variable" href="../../d4/de0/a06170.html#a93cae8f794de101a6a0a821961c312b8">m_aura</a>))</div>
+<div class="line"><span class="lineno">   93</span>                    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">   94</span>            }</div>
+<div class="line"><span class="lineno">   95</span>            <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">   96</span>            {</div>
+<div class="line"><span class="lineno">   97</span>                <span class="keywordflow">if</span> (target-&gt;HasAura(-<a class="code hl_variable" href="../../d4/de0/a06170.html#a93cae8f794de101a6a0a821961c312b8">m_aura</a>))</div>
+<div class="line"><span class="lineno">   98</span>                    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">   99</span>            }</div>
+<div class="line"><span class="lineno">  100</span>        }</div>
+<div class="line"><span class="lineno">  101</span> </div>
+<div class="line"><span class="lineno">  102</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  103</span>    }</div>
+<div class="ttc" id="aa08782_html_a2b32551adec993309c35e8e88e35b4be"><div class="ttname"><a href="../../d0/d6f/a08782.html#a2b32551adec993309c35e8e88e35b4be">Unit::IsWithinCombatRange</a></div><div class="ttdeci">bool IsWithinCombatRange(Unit const *obj, float dist2compare) const</div><div class="ttdef"><b>Definition:</b> Unit.cpp:650</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00194">_inLos</a>, <a class="el" href="../../#l00192">_maxDist</a>, <a class="el" href="../../#l00191">_me</a>, <a class="el" href="../../#l00192">_minDist</a>, <a class="el" href="../../#l00193">_playerOnly</a>, <a class="el" href="../../#l01372">WorldObject::IsInRange()</a>, <a class="el" href="../../#l00201">Object::IsPlayer()</a>, and <a class="el" href="../../#l01315">WorldObject::IsWithinLOSInMap()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00057">except</a>, <a class="el" href="../../#l05787">Unit::HasAura()</a>, <a class="el" href="../../#l00201">Object::IsPlayer()</a>, <a class="el" href="../../#l00650">Unit::IsWithinCombatRange()</a>, <a class="el" href="../../#l00059">m_aura</a>, <a class="el" href="../../#l00056">m_dist</a>, <a class="el" href="../../#l00058">m_playerOnly</a>, and <a class="el" href="../../#l00055">me</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a9dcf455d9db8d32aaebfc46eee36e1b5" name="a9dcf455d9db8d32aaebfc46eee36e1b5"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9dcf455d9db8d32aaebfc46eee36e1b5">&#9670;&#160;</a></span>_inLos</h2>
+<a id="ad7b04bc5bd7c5cd139d0d56fbb6f9f4e" name="ad7b04bc5bd7c5cd139d0d56fbb6f9f4e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad7b04bc5bd7c5cd139d0d56fbb6f9f4e">&#9670;&#160;</a></span>except</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">bool RangeSelector::_inLos</td>
+          <td class="memname"><a class="el" href="../../d0/d6f/a08782.html">Unit</a> const* DefaultTargetSelector::except</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00173">operator()()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00068">operator()()</a>.</p>
 
 </div>
 </div>
-<a id="a973ec93b54a839f853101ad5998c10b2" name="a973ec93b54a839f853101ad5998c10b2"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a973ec93b54a839f853101ad5998c10b2">&#9670;&#160;</a></span>_maxDist</h2>
+<a id="a93cae8f794de101a6a0a821961c312b8" name="a93cae8f794de101a6a0a821961c312b8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a93cae8f794de101a6a0a821961c312b8">&#9670;&#160;</a></span>m_aura</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">float RangeSelector::_maxDist</td>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> DefaultTargetSelector::m_aura</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00173">operator()()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00068">operator()()</a>.</p>
 
 </div>
 </div>
-<a id="a72ad35c7de0b5d540be27d9a9d46a1d4" name="a72ad35c7de0b5d540be27d9a9d46a1d4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a72ad35c7de0b5d540be27d9a9d46a1d4">&#9670;&#160;</a></span>_me</h2>
+<a id="a57b3cdce9605ab6ff6bdfdf7bf264a5f" name="a57b3cdce9605ab6ff6bdfdf7bf264a5f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a57b3cdce9605ab6ff6bdfdf7bf264a5f">&#9670;&#160;</a></span>m_dist</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d6/d2d/a08766.html">Unit</a> const* RangeSelector::_me</td>
+          <td class="memname">float DefaultTargetSelector::m_dist</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00173">operator()()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00068">operator()()</a>.</p>
 
 </div>
 </div>
-<a id="ac1ce7a7a7ad6d033972b449867a1c5bf" name="ac1ce7a7a7ad6d033972b449867a1c5bf"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac1ce7a7a7ad6d033972b449867a1c5bf">&#9670;&#160;</a></span>_minDist</h2>
+<a id="aa7d50214f6fcb051279373e3373a6f68" name="aa7d50214f6fcb051279373e3373a6f68"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa7d50214f6fcb051279373e3373a6f68">&#9670;&#160;</a></span>m_playerOnly</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">float RangeSelector::_minDist</td>
+          <td class="memname">bool DefaultTargetSelector::m_playerOnly</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00173">operator()()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00068">operator()()</a>.</p>
 
 </div>
 </div>
-<a id="ac68f7dfefe2e71942a3dfff7026a7ae7" name="ac68f7dfefe2e71942a3dfff7026a7ae7"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac68f7dfefe2e71942a3dfff7026a7ae7">&#9670;&#160;</a></span>_playerOnly</h2>
+<a id="a4e468ce5a085ef402659db46f71d6262" name="a4e468ce5a085ef402659db46f71d6262"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4e468ce5a085ef402659db46f71d6262">&#9670;&#160;</a></span>me</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">bool RangeSelector::_playerOnly</td>
+          <td class="memname"><a class="el" href="../../d0/d6f/a08782.html">Unit</a> const* DefaultTargetSelector::me</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00173">operator()()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00068">operator()()</a>.</p>
 
 </div>
 </div>
@@ -385,8 +366,8 @@ Additional Inherited Members</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d4/de0/a06170.html">RangeSelector</a></li>
-    <li class="footer">Generated on Mon Sep 1 2025 20:44:20 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d4/de0/a06170.html">DefaultTargetSelector</a></li>
+    <li class="footer">Generated on Mon Sep 8 2025 20:44:54 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

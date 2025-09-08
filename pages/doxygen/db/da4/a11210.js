@@ -1,7 +1,5 @@
 var a11210 =
 [
-    [ "DynObjAura", "db/da4/a11210.html#aef75bb5d60c10ac63821b0e9baf6eb7a", null ],
-    [ "FillTargetMap", "db/da4/a11210.html#af8e36643ed675ff5652e4665bee9b0c3", null ],
-    [ "Remove", "db/da4/a11210.html#ada3f65b4a817e2337da43da437b93a3b", null ],
-    [ "Aura::Create", "db/da4/a11210.html#ae2c0fdfb409846fec5e861de60797112", null ]
+    [ "AbsorbAuraOrderPred", "db/da4/a11210.html#a30283854715c90496e14d260f913f5fa", null ],
+    [ "operator()", "db/da4/a11210.html#a8f705a8b053ef6ff2e2827b4c7f9c643", null ]
 ];

@@ -1,6 +1,6 @@
 var a24342 =
 [
-    [ "npc_dragonmaw_peonAI", "da/d0b/a24346.html", "da/d0b/a24346" ],
-    [ "npc_dragonmaw_peon", "d1/d80/a24342.html#a356f8f1181d62dd5a4bc41c98ab21720", null ],
-    [ "GetAI", "d1/d80/a24342.html#aab1e4aee65a5465bc545a9c067200d2a", null ]
+    [ "npc_infernal_attackerAI", "da/d0b/a24346.html", "da/d0b/a24346" ],
+    [ "npc_infernal_attacker", "d1/d80/a24342.html#ac6fbfcf8fc918b48d6b9416a71cfe3fa", null ],
+    [ "GetAI", "d1/d80/a24342.html#ad1d9186c186de36efbe102a07fe89de4", null ]
 ];

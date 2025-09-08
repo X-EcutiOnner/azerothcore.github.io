@@ -1,6 +1,6 @@
 var a13658 =
 [
-    [ "HandleSendEvent", "db/dde/a13658.html#af62c176d53589228d5e0077c9fc268a3", null ],
-    [ "PrepareSpellScript", "db/dde/a13658.html#acea8e256f267dd496e5f573e982dba5f", null ],
-    [ "Register", "db/dde/a13658.html#a0827e177a8268994bb4e63f07993a354", null ]
+    [ "instance_the_stockade_InstanceMapScript", "df/dc8/a13662.html", "df/dc8/a13662" ],
+    [ "instance_the_stockade", "db/dde/a13658.html#a533049c10a72da4b94f9807017f28c0d", null ],
+    [ "GetInstanceScript", "db/dde/a13658.html#a7a5a4adcd71ae5d22e6729a2d11d68d3", null ]
 ];

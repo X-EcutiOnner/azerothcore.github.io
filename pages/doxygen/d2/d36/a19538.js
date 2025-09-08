@@ -1,6 +1,8 @@
 var a19538 =
 [
-    [ "boss_drakosAI", "d5/d8c/a19542.html", "d5/d8c/a19542" ],
-    [ "boss_drakos", "d2/d36/a19538.html#aa70ae2809af4f24eea0b83b42d695448", null ],
-    [ "GetAI", "d2/d36/a19538.html#a16dcc7f9da254d0bddc19394a1cd4ab0", null ]
+    [ "npc_crystal_spike", "d2/d36/a19538.html#aa6a6e12aba63c589e71b5ca28b924fd4", null ],
+    [ "Reset", "d2/d36/a19538.html#a8cdca606ce482147d87ad5248665099e", null ],
+    [ "UpdateAI", "d2/d36/a19538.html#abc04c8fba427c12630b4faf1d39bdb32", null ],
+    [ "_damageTimer", "d2/d36/a19538.html#a36c70729a0c0281d467f870bfcde80ae", null ],
+    [ "_gameObjectGUID", "d2/d36/a19538.html#a0c0e9a1883cee51201b039947b5bacf3", null ]
 ];

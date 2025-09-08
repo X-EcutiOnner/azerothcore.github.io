@@ -1,5 +1,9 @@
 var a15302 =
 [
-    [ "at_cthun_center", "da/d06/a15302.html#a75cf2b77215e0d50c1c89ec9b522ebc3", null ],
-    [ "OnTrigger", "da/d06/a15302.html#af744df9577e84ab64749076324e574c9", null ]
+    [ "npc_giant_eye_tentacle", "da/d06/a15302.html#a1adebf586a8a4413bb048936b90ddd3c", null ],
+    [ "JustDied", "da/d06/a15302.html#a72cac50a711868256a41c543d0cef3da", null ],
+    [ "JustEngagedWith", "da/d06/a15302.html#ac26b16e709e62c429b7ca88815bbc4cd", null ],
+    [ "Reset", "da/d06/a15302.html#a4e605a585099d136d8f6bd42b6450f1d", null ],
+    [ "UpdateAI", "da/d06/a15302.html#aacae6ea2616af2ad9515167fc1bab61d", null ],
+    [ "_portalGUID", "da/d06/a15302.html#af9784b6d00e50ec28ed27361aaf3442f", null ]
 ];

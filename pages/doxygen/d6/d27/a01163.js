@@ -1,9 +1,9 @@
 var a01163 =
 [
-    [ "boss_the_lurker_below", "dd/d8e/a23378.html", "dd/d8e/a23378" ],
-    [ "go_strange_pool", "d6/d49/a23382.html", "d6/d49/a23382" ],
-    [ "spell_lurker_below_spout", "d8/da5/a23386.html", "d8/da5/a23386" ],
-    [ "spell_lurker_below_spout_cone", "d3/d15/a23390.html", "d3/d15/a23390" ],
+    [ "boss_the_lurker_below", "d2/d7c/a23398.html", "d2/d7c/a23398" ],
+    [ "go_strange_pool", "d2/d4f/a23402.html", "d2/d4f/a23402" ],
+    [ "spell_lurker_below_spout", "d1/d13/a23406.html", "d1/d13/a23406" ],
+    [ "spell_lurker_below_spout_cone", "de/d80/a23410.html", "de/d80/a23410" ],
     [ "Groups", "d6/d27/a01163.html#aab072245ab577ff0e12efe20a536b99a", [
       [ "GROUP_PRECOMBAT_TALK", "da/d5c/a02432.html#aab072245ab577ff0e12efe20a536b99aa3e7953992f23b2eba8d8498bfc66e01d", null ],
       [ "PORTAL_PHASE", "d5/d73/a02423.html#aab072245ab577ff0e12efe20a536b99aa8f7d8b62b79ce76fc356b355521db829", null ],

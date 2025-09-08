@@ -1,8 +1,6 @@
 var a22642 =
 [
-    [ "HandleApply", "d5/d74/a22642.html#ad8ee9a50314c900b1507e25eaa70ece7", null ],
-    [ "HandleRemove", "d5/d74/a22642.html#a06c7c65d973fcf348f5c929503902520", null ],
-    [ "PrepareAuraScript", "d5/d74/a22642.html#a48b20c0f1997acd0f9f0800bf4b63bd0", null ],
-    [ "Register", "d5/d74/a22642.html#a7018a16262b94a573405e1bdc9fbdd10", null ],
-    [ "Validate", "d5/d74/a22642.html#a8135c492638557eec71189282e7f78a2", null ]
+    [ "npc_released_offspring_harkoaAI", "d8/da7/a22646.html", "d8/da7/a22646" ],
+    [ "npc_released_offspring_harkoa", "d5/d74/a22642.html#a10f583320e3b617cf2b327cfb6fed6f5", null ],
+    [ "GetAI", "d5/d74/a22642.html#ae3d2a02c496be1b2606fce596625d12e", null ]
 ];

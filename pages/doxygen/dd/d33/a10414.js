@@ -1,28 +1,7 @@
 var a10414 =
 [
-    [ "UnitScript", "dd/d33/a10414.html#a109b6b1a101953feb0f157729f3df5d2", null ],
-    [ "CanSetPhaseMask", "dd/d33/a10414.html#a95d2e7dd7074494fdd4f530f9684c1bf", null ],
-    [ "DealDamage", "dd/d33/a10414.html#a4b161e889eee3572a41c33a144d12cdf", null ],
-    [ "IfNormalReaction", "dd/d33/a10414.html#a355d024283b4ce02a2fdcf551c75c3b2", null ],
-    [ "IsCustomBuildValuesUpdate", "dd/d33/a10414.html#a1859b5ca0970c3a358a4ba0207f281de", null ],
-    [ "IsNeedModHealPercent", "dd/d33/a10414.html#aab4fd36511815865c02e1415c2460ea2", null ],
-    [ "IsNeedModMeleeDamagePercent", "dd/d33/a10414.html#aaaf151572d72b05833905777a979c0d9", null ],
-    [ "IsNeedModSpellDamagePercent", "dd/d33/a10414.html#abef7c63663b881c66f2bcc6c3d3256b8", null ],
-    [ "ModifyHealReceived", "dd/d33/a10414.html#ac2f40d7ca52538ae874f60a7acbf443b", null ],
-    [ "ModifyMeleeDamage", "dd/d33/a10414.html#acde1701dd3d6207da2e76d7d1753f9c7", null ],
-    [ "ModifyPeriodicDamageAurasTick", "dd/d33/a10414.html#ae0703adbc70a14443c0370de77e95190", null ],
-    [ "ModifySpellDamageTaken", "dd/d33/a10414.html#a375db3302ef33bcc5c874b0b53bbc345", null ],
-    [ "OnAuraApply", "dd/d33/a10414.html#a334ac1a9d8e29aa064d3625d59c7a167", null ],
-    [ "OnAuraRemove", "dd/d33/a10414.html#a2ed2cf6d9725ae342adfada023538a28", null ],
-    [ "OnBeforeRollMeleeOutcomeAgainst", "dd/d33/a10414.html#a627a99cd078d2cbd52519874f0bd0aff", null ],
-    [ "OnDamage", "dd/d33/a10414.html#a5541573db45b4404ae0b613251ad1a13", null ],
-    [ "OnDisplayIdChange", "dd/d33/a10414.html#a43cd3dd2e6cd311b1045b8f5d7d6ac83", null ],
-    [ "OnHeal", "dd/d33/a10414.html#adcdc8430e14bccfe399a7e1a3edd2b69", null ],
-    [ "OnPatchValuesUpdate", "dd/d33/a10414.html#a0a751a8fb5c99375b667214915822e96", null ],
-    [ "OnUnitDeath", "dd/d33/a10414.html#a7bb5f4ea3ae8edb55df455648863d93f", null ],
-    [ "OnUnitEnterCombat", "dd/d33/a10414.html#a8d04617af120a1e23ad57a45440744bb", null ],
-    [ "OnUnitEnterEvadeMode", "dd/d33/a10414.html#a9df6f81297f53007f1227778466e912f", null ],
-    [ "OnUnitSetShapeshiftForm", "dd/d33/a10414.html#acacf12c000646710abf931429a0852c0", null ],
-    [ "OnUnitUpdate", "dd/d33/a10414.html#a36e7ba9d74892f59d0a36b76e78f4f80", null ],
-    [ "ShouldTrackValuesUpdatePosByIndex", "dd/d33/a10414.html#a7b74be81d24bc7265d5566d67d044aad", null ]
+    [ "SpellScriptLoader", "dd/d33/a10414.html#a0ae97b8f3cf24f46b98a121d35bdeadf", null ],
+    [ "GetAuraScript", "dd/d33/a10414.html#a9c60850e39ffe3d151a128b12777859d", null ],
+    [ "GetSpellScript", "dd/d33/a10414.html#a6f3a101a0517ba1440399809cf7f5b5b", null ],
+    [ "IsDatabaseBound", "dd/d33/a10414.html#ae60bf9957b950c7f5c9927f71510dc06", null ]
 ];

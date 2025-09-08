@@ -1,10 +1,7 @@
 var a29894 =
 [
-    [ "HasFlag", "d5/d71/a29894.html#abe23ca5437589a38ea57bc93a6197911", null ],
-    [ "CollisionHeight", "d5/d71/a29894.html#afd7385ab3dd949ebe230e0a01cec7158", null ],
-    [ "CollisionWidth", "d5/d71/a29894.html#ab79497759cf169348b8922301fc43b2f", null ],
-    [ "Flags", "d5/d71/a29894.html#a3bb96e232124771e78f8b5db53405106", null ],
-    [ "Id", "d5/d71/a29894.html#aa19fec147703c7542be260c8ec5a0446", null ],
-    [ "MountHeight", "d5/d71/a29894.html#a5300334ce02dd5a3b9ea6796eddb7ced", null ],
-    [ "Scale", "d5/d71/a29894.html#a08d8be1d2dbc9eb67e1f631650ea74da", null ]
+    [ "MPQArchive", "da/dcf/a28898.html", "da/dcf/a28898" ],
+    [ "MPQFile", "dc/d97/a28902.html", "dc/d97/a28902" ],
+    [ "ArchiveSet", "d5/d71/a29894.html#a8d76af4bfff910da40b4f93a1c465744", null ],
+    [ "flipcc", "d5/d71/a29894.html#aff3add09c98fece7ace91b0e7c90435e", null ]
 ];

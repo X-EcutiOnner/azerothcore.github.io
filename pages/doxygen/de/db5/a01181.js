@@ -1,13 +1,13 @@
 var a01181 =
 [
-    [ "boss_leotheras_the_blind", "d0/d43/a23346.html", "d0/d43/a23346" ],
-    [ "npc_inner_demon", "d5/dd0/a23350.html", "d5/dd0/a23350" ],
-    [ "spell_leotheras_whirlwind", "df/d06/a23354.html", "df/d06/a23354" ],
-    [ "spell_leotheras_chaos_blast", "d0/da4/a23358.html", "d0/da4/a23358" ],
-    [ "spell_leotheras_insidious_whisper", "d3/df6/a23362.html", "d3/df6/a23362" ],
-    [ "spell_leotheras_insidious_whisper_aura", "d2/dd3/a23366.html", "d2/dd3/a23366" ],
-    [ "spell_leotheras_demon_link", "dc/dbe/a23370.html", "dc/dbe/a23370" ],
-    [ "spell_leotheras_clear_consuming_madness", "de/d23/a23374.html", "de/d23/a23374" ],
+    [ "boss_leotheras_the_blind", "d2/dd3/a23366.html", "d2/dd3/a23366" ],
+    [ "npc_inner_demon", "dc/dbe/a23370.html", "dc/dbe/a23370" ],
+    [ "spell_leotheras_whirlwind", "de/d23/a23374.html", "de/d23/a23374" ],
+    [ "spell_leotheras_chaos_blast", "dd/d8e/a23378.html", "dd/d8e/a23378" ],
+    [ "spell_leotheras_insidious_whisper", "d6/d49/a23382.html", "d6/d49/a23382" ],
+    [ "spell_leotheras_insidious_whisper_aura", "d8/da5/a23386.html", "d8/da5/a23386" ],
+    [ "spell_leotheras_demon_link", "d3/d15/a23390.html", "d3/d15/a23390" ],
+    [ "spell_leotheras_clear_consuming_madness", "dc/dfb/a23394.html", "dc/dfb/a23394" ],
     [ "Groups", "de/db5/a01181.html#aab072245ab577ff0e12efe20a536b99a", [
       [ "GROUP_PRECOMBAT_TALK", "da/d5c/a02432.html#aab072245ab577ff0e12efe20a536b99aa3e7953992f23b2eba8d8498bfc66e01d", null ],
       [ "PORTAL_PHASE", "d5/d73/a02423.html#aab072245ab577ff0e12efe20a536b99aa8f7d8b62b79ce76fc356b355521db829", null ],

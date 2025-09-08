@@ -1,5 +1,5 @@
 var a10302 =
 [
-    [ "FactoryCreatureScript", "d7/daa/a10302.html#a62cd4db9e8dd3dab606f1166fdf0ce44", null ],
-    [ "GetAI", "d7/daa/a10302.html#a0e491e4cda2b03456d798f6726dbde54", null ]
+    [ "CommandScript", "d7/daa/a10302.html#afb9ef0145bb5eedee7fd61609868ba20", null ],
+    [ "GetCommands", "d7/daa/a10302.html#a97dc7d00b78e0030ba2a950d23b2ebd2", null ]
 ];

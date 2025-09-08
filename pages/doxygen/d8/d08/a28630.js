@@ -1,8 +1,10 @@
 var a28630 =
 [
-    [ "TimeSeg", "d8/d08/a28630.html#ab94639ba8e26b215ebd31163967574d3", null ],
-    [ "TransportEntry", "d8/d08/a28630.html#a859d25b3c11839ad7e37facd40dc79df", null ],
-    [ "X", "d8/d08/a28630.html#a8fbd166503396e33a4ad77448bf307ea", null ],
-    [ "Y", "d8/d08/a28630.html#a67c279b26cebd8e5c81c36576b145af6", null ],
-    [ "Z", "d8/d08/a28630.html#a680689c57479a2cc1ec72ab97204d3e7", null ]
+    [ "ID", "d8/d08/a28630.html#a090069d13cbbcc5762ecca600c506492", null ],
+    [ "map_id", "d8/d08/a28630.html#a685931e2a361f9e0fc81c004c7467d19", null ],
+    [ "MountCreatureID", "d8/d08/a28630.html#ab59ab7e8b302ac8858bfd67bc10d803f", null ],
+    [ "name", "d8/d08/a28630.html#ae00db3ea736c3a470f6f0690c178e758", null ],
+    [ "x", "d8/d08/a28630.html#a7cbd40848094fa367862d653b0f7170d", null ],
+    [ "y", "d8/d08/a28630.html#a9380befd45cab3104003b2487464bd71", null ],
+    [ "z", "d8/d08/a28630.html#a2e6ce98f7c96ba1469fca8ff3946404a", null ]
 ];

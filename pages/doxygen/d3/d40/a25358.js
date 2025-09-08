@@ -1,10 +1,8 @@
 var a25358 =
 [
-    [ "spell_gen_summon_elemental", "d3/d40/a25358.html#ae2dece3ac20afe16430e741fab909fa1", null ],
-    [ "AfterApply", "d3/d40/a25358.html#a97fbc7e3f60b6aae5d9783bbd9a2415d", null ],
-    [ "AfterRemove", "d3/d40/a25358.html#aeec3688e66a7e9f0207b219e9dcdb265", null ],
-    [ "PrepareAuraScript", "d3/d40/a25358.html#a3ad6e5615bb080abae4e18673cd40b6d", null ],
-    [ "Register", "d3/d40/a25358.html#ac364e1a3c4b5a1cfd35d8dcec0a42345", null ],
-    [ "Validate", "d3/d40/a25358.html#ac2284d4f192fe402ebcf6ad75e777c2a", null ],
-    [ "_spellId", "d3/d40/a25358.html#a6ac27b65f909a8c832cf3d301c8db0ce", null ]
+    [ "CheckCast", "d3/d40/a25358.html#a459b6aa2fd05ffc5cb97815a53e2797c", null ],
+    [ "HandleScript", "d3/d40/a25358.html#a2c1702398e4cbdcc106679d534a27743", null ],
+    [ "PrepareSpellScript", "d3/d40/a25358.html#a613bdf7841744632c1e6de147e0352b9", null ],
+    [ "Register", "d3/d40/a25358.html#ada961aaa5679aa00cc650d6e97487ca4", null ],
+    [ "Validate", "d3/d40/a25358.html#a0a9de0825edf5c82b91dbe7326a65de9", null ]
 ];

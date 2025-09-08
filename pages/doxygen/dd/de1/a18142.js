@@ -1,12 +1,16 @@
 var a18142 =
 [
-    [ "npc_big_oozeAI", "dd/de1/a18142.html#a3564ffec1ac0ac2c7e29b3c7a6b60958", null ],
-    [ "DoAction", "dd/de1/a18142.html#a6d39eb1f177e8670169f18fcfa2e3c4e", null ],
-    [ "EnterEvadeMode", "dd/de1/a18142.html#ad7251cda20f3e2821077d2327528fd2d", null ],
-    [ "IsSummonedBy", "dd/de1/a18142.html#a85d27ac9fb0b9dbb92b2b17a99eaa612", null ],
-    [ "JustDied", "dd/de1/a18142.html#a2372053a84715990fc7fce3d8e269265", null ],
-    [ "UpdateAI", "dd/de1/a18142.html#a2e1f52ca84363703d95da99ca93d3503", null ],
-    [ "events", "dd/de1/a18142.html#a54f3baa4767f8336ff4699de426aae61", null ],
-    [ "firstUpdate", "dd/de1/a18142.html#af5c34c976137e456d1779ca944f88639", null ],
-    [ "instance", "dd/de1/a18142.html#a788141bf9be03161741d01d0aa4fe227", null ]
+    [ "boss_rotfaceAI", "dd/de1/a18142.html#abe4c4df1732127814a507b0f99203ebb", null ],
+    [ "EnterEvadeMode", "dd/de1/a18142.html#a8b166241350c7437c0baab2bc783dc93", null ],
+    [ "JustDied", "dd/de1/a18142.html#ab5ba6f23e4a0f097386452bdd497ef5a", null ],
+    [ "JustEngagedWith", "dd/de1/a18142.html#aa34831a7c2986451ff518a76547edecc", null ],
+    [ "JustReachedHome", "dd/de1/a18142.html#adac69ee7aca11d5d355ef71a11a39a1d", null ],
+    [ "JustSummoned", "dd/de1/a18142.html#aaa273c65b0545931797057ca4cdab1eb", null ],
+    [ "KilledUnit", "dd/de1/a18142.html#a9356f21962b312eccfba1b3e75afaba0", null ],
+    [ "Reset", "dd/de1/a18142.html#aed06635aabcb47fd700ab1a894bad13c", null ],
+    [ "SpellHitTarget", "dd/de1/a18142.html#a99d88373a20464fac3ebf035430c2e75", null ],
+    [ "UpdateAI", "dd/de1/a18142.html#aaf47878572d23bfb22f2ae77fed8d95e", null ],
+    [ "_oozeFloodDummyGUIDs", "dd/de1/a18142.html#a28e859c796fc210cba9a1ac7bfd0124a", null ],
+    [ "_oozeFloodStage", "dd/de1/a18142.html#aa007ed2c05914b1ce664d347bb04abaa", null ],
+    [ "infectionCooldown", "dd/de1/a18142.html#ae6fb76012902540a55870ed7b2f3fc7b", null ]
 ];

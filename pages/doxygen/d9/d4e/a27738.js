@@ -1,7 +1,10 @@
 var a27738 =
 [
-    [ "npc_doctorAI", "db/dae/a27742.html", "db/dae/a27742" ],
-    [ "npc_doctor", "d9/d4e/a27738.html#a8471bcd3e83b1a7a69de7bde00846698", null ],
-    [ "GetAI", "d9/d4e/a27738.html#a3da4d53b2402ad7338eeb6ea463a62f6", null ],
-    [ "OnQuestAccept", "d9/d4e/a27738.html#a990668aee39a9fa6ec90d0f6095ce48a", null ]
+    [ "npc_air_force_botsAI", "d9/d4e/a27738.html#a062eb272826d52ffd9b72054f970b761", null ],
+    [ "GetSummonedGuard", "d9/d4e/a27738.html#ac4f39049ba15caf314939f12b82ccd05", null ],
+    [ "MoveInLineOfSight", "d9/d4e/a27738.html#a474231c0ce93b4db0789bcc8f6767c19", null ],
+    [ "Reset", "d9/d4e/a27738.html#a016911d354f3b00e2db3e4f3722cda7f", null ],
+    [ "SummonGuard", "d9/d4e/a27738.html#a8da57471dfa875f55f52c3d2b068a0f3", null ],
+    [ "SpawnAssoc", "d9/d4e/a27738.html#a6f2f7ffd24dd32780c441fd6ce29dfbf", null ],
+    [ "SpawnedGUID", "d9/d4e/a27738.html#a3c8ae595a3b4a436c2f94aa84cb9ee56", null ]
 ];

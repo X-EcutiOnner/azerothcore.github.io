@@ -1,7 +1,9 @@
 var a20202 =
 [
-    [ "achievement_flame_leviathan_garage", "df/d0d/a20202.html#a1893b4059d7212d023c45bb828bb1905", null ],
-    [ "OnCheck", "df/d0d/a20202.html#aa5897eb1fadeda4dda9f2390053d89b6", null ],
-    [ "_entry1", "df/d0d/a20202.html#af482d6c1b2681b9fec572281620a86b7", null ],
-    [ "_entry2", "df/d0d/a20202.html#a41e83b47c411dc6a6aff310ae7059f4e", null ]
+    [ "Absorb", "df/d0d/a20202.html#a16c2e931950102fc0ae5c88ef14587c1", null ],
+    [ "CalculateAmount", "df/d0d/a20202.html#a9166627cbaa536405975444c4ef601de", null ],
+    [ "Load", "df/d0d/a20202.html#abe7c08d2f26cef3603cf1b1f243f9e38", null ],
+    [ "PrepareAuraScript", "df/d0d/a20202.html#aa5793741c2f8179db68a9fb1222a9085", null ],
+    [ "Register", "df/d0d/a20202.html#a17fed57aed8953c7a7e401d1ac925e67", null ],
+    [ "_absorbPct", "df/d0d/a20202.html#ad9e1dcfd8ce7038173ac5b71d448d80a", null ]
 ];

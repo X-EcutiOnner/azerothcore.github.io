@@ -1,6 +1,6 @@
 var a17934 =
 [
-    [ "npc_darnavanAI", "db/def/a17938.html", "db/def/a17938" ],
-    [ "npc_darnavan", "db/d39/a17934.html#ac358ca123155165395fa5f7ec02c9dab", null ],
-    [ "GetAI", "db/d39/a17934.html#a9eeb6e5fba1e6d671af1f23f443c509a", null ]
+    [ "npc_cult_adherentAI", "db/def/a17938.html", "db/def/a17938" ],
+    [ "npc_cult_adherent", "db/d39/a17934.html#a74496518cf30674044a4a8a166e4c345", null ],
+    [ "GetAI", "db/d39/a17934.html#a2bfe464c738c983b9539f9216cabd63a", null ]
 ];

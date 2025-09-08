@@ -1,6 +1,6 @@
 var a22178 =
 [
-    [ "npc_your_inner_turmoilAI", "d5/dd3/a22182.html", "d5/dd3/a22182" ],
-    [ "npc_your_inner_turmoil", "d9/d90/a22178.html#a72856ef469bb8f6ff4a89a16159479af", null ],
-    [ "GetAI", "d9/d90/a22178.html#a29c8f76b072e891face1225770688ca6", null ]
+    [ "HandleOnEffectRemove", "d9/d90/a22178.html#a5aeae7d8fc2fb8c8a1ce446ba1887c51", null ],
+    [ "PrepareAuraScript", "d9/d90/a22178.html#af415e4d7ea0b4b881af94eb7ea0c3f4c", null ],
+    [ "Register", "d9/d90/a22178.html#a242faa8822f9cdb7762d8ec3b6245b30", null ]
 ];

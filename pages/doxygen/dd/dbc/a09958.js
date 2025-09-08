@@ -1,7 +1,10 @@
 var a09958 =
 [
-    [ "Finalize", "dd/dbc/a09958.html#a90c8b42ef67968bf58acae5678dc7496", null ],
-    [ "Initialize", "dd/dbc/a09958.html#ad6b97c3e2884dfbe3f17e2579b31ac66", null ],
-    [ "Reset", "dd/dbc/a09958.html#a6db99ea9863dc60d032bacda37afa078", null ],
-    [ "Update", "dd/dbc/a09958.html#af044c8725ef11e8a152987225521ef8b", null ]
+    [ "ChaseRange", "dd/dbc/a09958.html#acd43ed01c9e4845d82e4d240b5c35167", null ],
+    [ "ChaseRange", "dd/dbc/a09958.html#aaf19c63398d31699ed1703ae1ba5f1b6", null ],
+    [ "ChaseRange", "dd/dbc/a09958.html#a397b3789449b1c178f11f64313498c4d", null ],
+    [ "MaxRange", "dd/dbc/a09958.html#ae2a846630e79f3a15a5d93b18c68c915", null ],
+    [ "MaxTolerance", "dd/dbc/a09958.html#a7909b18028d43c84eca5feee3e41469c", null ],
+    [ "MinRange", "dd/dbc/a09958.html#a0e2c69e20d6a38d056505c3b5b0d9fd6", null ],
+    [ "MinTolerance", "dd/dbc/a09958.html#a7b640ecfc0e80921ab36c2c33f0b10fd", null ]
 ];

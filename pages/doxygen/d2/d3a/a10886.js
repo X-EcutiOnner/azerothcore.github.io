@@ -1,7 +1,9 @@
 var a10886 =
 [
-    [ "MinimapPingClient", "d2/d3a/a10886.html#a23500c61c0653f39c8c8a96ab34d0bf0", null ],
-    [ "Read", "d2/d3a/a10886.html#a7ee57120fc5221ccf1e18d877d5bccff", null ],
-    [ "MapX", "d2/d3a/a10886.html#ad4ff3977c260035145d6acd00429d81e", null ],
-    [ "MapY", "d2/d3a/a10886.html#abd8640cb98238f339218c3b945885c97", null ]
+    [ "LevelUpInfo", "d2/d3a/a10886.html#ae856bb717d6ae4b03775b7bfb026850d", null ],
+    [ "Write", "d2/d3a/a10886.html#af09dd1c6470516ea9422d22ed22e6d10", null ],
+    [ "HealthDelta", "d2/d3a/a10886.html#ab654fc42947c0c783d3a26e6df32b29d", null ],
+    [ "Level", "d2/d3a/a10886.html#a1765f693918fdd1f51d7b8dc7b2494a2", null ],
+    [ "PowerDelta", "d2/d3a/a10886.html#a697da64ac234c24fe73e68d408697ee6", null ],
+    [ "StatDelta", "d2/d3a/a10886.html#a580e4a3cd77631e960b7753542375d6d", null ]
 ];

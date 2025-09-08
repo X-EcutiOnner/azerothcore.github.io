@@ -1,14 +1,12 @@
 var a22782 =
 [
-    [ "boss_nexusprince_shaffar", "dc/d6a/a22782.html#a2e861fb53bca7a40e967971b5e7be533", null ],
-    [ "JustDied", "dc/d6a/a22782.html#abf2fef0888bced83511883027bf4d500", null ],
-    [ "JustEngagedWith", "dc/d6a/a22782.html#af28242e0c0f2dcbfb2fb16514d912200", null ],
-    [ "JustSummoned", "dc/d6a/a22782.html#a576240b46ce0988f0ef86e1460c831ef", null ],
-    [ "KilledUnit", "dc/d6a/a22782.html#ad5dd5ab4178d968146e2205e60c49d07", null ],
-    [ "MoveInLineOfSight", "dc/d6a/a22782.html#a71e501225d88851210d2e0e58de27f99", null ],
-    [ "Reset", "dc/d6a/a22782.html#a35db119f5351a8ef9bef4588cbdd83cf", null ],
-    [ "SummonedCreatureDespawn", "dc/d6a/a22782.html#ab806564e96708ca12f444249abd3c88c", null ],
-    [ "UpdateAI", "dc/d6a/a22782.html#a147500575a3821262ec718ec023b458c", null ],
-    [ "HasTaunted", "dc/d6a/a22782.html#aa7d55363fe9a326dc86bd4f4076d12ab", null ],
-    [ "summons", "dc/d6a/a22782.html#a1d6ec0b04ee406d85aa5a39ed32e8c4a", null ]
+    [ "npc_stolen_soul", "dc/d6a/a22782.html#a84a0bb8320b2332545748e010d855884", null ],
+    [ "DoAction", "dc/d6a/a22782.html#abcfed6b9b46ce48a15b31d062a1618f4", null ],
+    [ "JustDied", "dc/d6a/a22782.html#a6a1d6da5a448fd4b8910835d3a346e3a", null ],
+    [ "Reset", "dc/d6a/a22782.html#a9f18ffbb42c988067b6dfa8355a4aba6", null ],
+    [ "SetGUID", "dc/d6a/a22782.html#a0779fa3688118d2f9e1fdd4c6cf600f5", null ],
+    [ "UpdateAI", "dc/d6a/a22782.html#a7bf369dd943ee36600a364d56b85db5a", null ],
+    [ "_myClass", "dc/d6a/a22782.html#ade19b9cb41a674f6bd049a621970aeff", null ],
+    [ "_scheduler", "dc/d6a/a22782.html#ab62526916f0ccd681383d37d19d94ccc", null ],
+    [ "_targetGuid", "dc/d6a/a22782.html#a6efbe90928119902e4b5a7148b12cfac", null ]
 ];

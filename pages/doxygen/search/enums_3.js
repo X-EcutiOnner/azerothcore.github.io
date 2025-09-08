@@ -16,7 +16,7 @@ var searchData=
   ['data64_13',['Data64',['../df/d88/a00962.html#a315a17942468c7ee5edce54ccdb1644d',1,'culling_of_stratholme.h']]],
   ['databasefieldtypes_14',['DatabaseFieldTypes',['../d2/d91/a04697.html#a52858f4c2cc23ac9372ab466fb82c091',1,'Field.h']]],
   ['databasehook_15',['DatabaseHook',['../d7/dfc/a04061.html#a5f7dd71299279ad5a845d4d4030e707e',1,'DatabaseScript.h']]],
-  ['databasetypeflags_16',['DatabaseTypeFlags',['../dd/d08/a05718.html#a48b4a16db3575bc0e3885a6ffd11a8e5',1,'DatabaseLoader']]],
+  ['databasetypeflags_16',['DatabaseTypeFlags',['../d1/d52/a05734.html#a48b4a16db3575bc0e3885a6ffd11a8e5',1,'DatabaseLoader']]],
   ['dataids_17',['DataIds',['../dd/d48/a00995.html#a0b356522c34d8bb8a36a3d77d5c8f2c5',1,'old_hillsbrad.h']]],
   ['dataindex_18',['DataIndex',['../de/d9d/a01382.html#acd63cd93ca0fdfe8177c88f2bb3b5343',1,'mechanar.h']]],
   ['datakind_19',['DataKind',['../dd/d52/a00221.html#ace34b43f7a85070c2f233cbb13e362bf',1,'WheatyExceptionReport.h']]],

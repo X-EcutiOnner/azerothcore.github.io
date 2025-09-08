@@ -1,7 +1,6 @@
 var a18190 =
 [
-    [ "FrostBombExplosion", "de/d93/a18190.html#ac7d318e241e6442e8aa084b27ea50236", null ],
-    [ "Execute", "de/d93/a18190.html#a0b6521266f18b621260286c530ff3f36", null ],
-    [ "_owner", "de/d93/a18190.html#aa9ff39ce43c351e8815f895896fa759b", null ],
-    [ "_sindragosaGUID", "de/d93/a18190.html#a5afc3d543c8fa457c90735f841aa161c", null ]
+    [ "DespawnSelf", "de/d93/a18190.html#a7009dd0e842898d03caa89e92447749d", null ],
+    [ "PrepareAuraScript", "de/d93/a18190.html#a00f0379b4e4fadf73bed7d483e406ac5", null ],
+    [ "Register", "de/d93/a18190.html#a8f21cb8ab1145fe32a78a682445cfc2d", null ]
 ];

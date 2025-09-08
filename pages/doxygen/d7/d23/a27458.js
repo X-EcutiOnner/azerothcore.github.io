@@ -1,9 +1,6 @@
 var a27458 =
 [
-    [ "go_gilded_brazierAI", "d7/d23/a27458.html#aaacf408b0f42b593a8a2897cb27886fb", null ],
-    [ "GossipHello", "d7/d23/a27458.html#afac9e217c294e72ff5f2526422e6321e", null ],
-    [ "Initialize", "d7/d23/a27458.html#a72d2dd8f7ecdf173e5a3847c94255786", null ],
-    [ "UpdateAI", "d7/d23/a27458.html#a0965f0a6f3f1c75e85f184319a1f9cef", null ],
-    [ "_events", "d7/d23/a27458.html#a35e62a272b790d6e858cc48c92e55b7b", null ],
-    [ "_playerGUID", "d7/d23/a27458.html#a506eccb2c3ebcc126d486638fb07ae3c", null ]
+    [ "go_darkmoon_faire_musicAI", "d5/d04/a27462.html", "d5/d04/a27462" ],
+    [ "go_darkmoon_faire_music", "d7/d23/a27458.html#ab8dd92213e1c2815ff9498267b09b5f2", null ],
+    [ "GetAI", "d7/d23/a27458.html#a03be3eddefe4eeba8a0af8ee02bf2839", null ]
 ];

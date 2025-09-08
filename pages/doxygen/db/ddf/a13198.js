@@ -1,8 +1,8 @@
 var a13198 =
 [
-    [ "HandleHit", "db/ddf/a13198.html#a6a2811ee701a254e2857ae5923ec9f5f", null ],
-    [ "PrepareSpellScript", "db/ddf/a13198.html#a53f170244b390f7035e131fb5c79cb3f", null ],
-    [ "Register", "db/ddf/a13198.html#a248124b837cf71f7d422154db4581747", null ],
-    [ "Validate", "db/ddf/a13198.html#a3061dcd7b831a13b1d270732d0ee8a7e", null ],
-    [ "_emote", "db/ddf/a13198.html#a43e28dbdfcd034a2a08f6d57171462ee", null ]
+    [ "DelayedSummonEvent", "db/ddf/a13198.html#a5cfa870b670fff17d2241ecb85b2ba6c", null ],
+    [ "Execute", "db/ddf/a13198.html#a65ba0f1a1dc14e07b7b93a71c92ace6b", null ],
+    [ "_entry", "db/ddf/a13198.html#a24d72110a070eb0bd03af081ef616de4", null ],
+    [ "_owner", "db/ddf/a13198.html#a2a21cc6387b3605ed4f09cad80a6168a", null ],
+    [ "_pos", "db/ddf/a13198.html#aef19987803a1cce47cbd8d9005a288ac", null ]
 ];

@@ -1,6 +1,9 @@
 var a24438 =
 [
-    [ "npc_zephyr", "d5/dd4/a24438.html#a3bad7bf2bd3b193960f1f53cd7d8349d", null ],
-    [ "OnGossipHello", "d5/dd4/a24438.html#a31e132e80a19bb6e63787fcdf7ffd466", null ],
-    [ "OnGossipSelect", "d5/dd4/a24438.html#a9b1f5a0d4ba24e65dda521bc94574ad8", null ]
+    [ "npc_korkron_or_wildhammer", "d5/dd4/a24438.html#a3d2252865e0e540dd76aaf87ff62a83c", null ],
+    [ "IsSummonedBy", "d5/dd4/a24438.html#aa63e935c2d64716f22f4e74e43e6b639", null ],
+    [ "JustDied", "d5/dd4/a24438.html#a2b216f372b3681b4c96a711568c2a93b", null ],
+    [ "MovementInform", "d5/dd4/a24438.html#a598dada110aff99a3c36f3037dcf8bf4", null ],
+    [ "Reset", "d5/dd4/a24438.html#a67d5cf4a8418ab3f07a387f1021080df", null ],
+    [ "_playerGUID", "d5/dd4/a24438.html#a5f1a79c10b5363ee24b3941c54ff10d7", null ]
 ];

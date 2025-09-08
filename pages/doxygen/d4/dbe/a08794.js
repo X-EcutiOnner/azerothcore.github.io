@@ -1,6 +1,8 @@
 var a08794 =
 [
-    [ "BuildValuesCachedBuffer", "d4/dbe/a08794.html#a87a3167ae060c8556700e4a137294053", null ],
-    [ "buffer", "d4/dbe/a08794.html#add7150533a48434b0e606add9cff04d2", null ],
-    [ "posPointers", "d4/dbe/a08794.html#affa098684782f15383a7df063b178cf1", null ]
+    [ "RedirectSpellEvent", "d4/dbe/a08794.html#a77d243d64c2fc651d71c42e10a315161", null ],
+    [ "Execute", "d4/dbe/a08794.html#a34ae2bc23904558bd5f5b99e8f1c5fdc", null ],
+    [ "_auraEffect", "d4/dbe/a08794.html#a010f14a7d389b4e9ae9896061fa18a65", null ],
+    [ "_auraOwnerGUID", "d4/dbe/a08794.html#a1b3fb598748362379fef15b3172d8e2b", null ],
+    [ "_self", "d4/dbe/a08794.html#aecfa190843c1493b47652ccdac7ae9c3", null ]
 ];

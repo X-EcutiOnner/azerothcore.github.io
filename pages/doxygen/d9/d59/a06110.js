@@ -1,6 +1,8 @@
 var a06110 =
 [
-    [ "NullGameObjectAI", "d9/d59/a06110.html#a54f6ae6e03fbe423d895ec306fe091db", null ],
-    [ "Permissible", "d9/d59/a06110.html#a850b58bfcc5e613f31fc95e556ed7f91", null ],
-    [ "UpdateAI", "d9/d59/a06110.html#a01b2b14306c75fafe58295a30e5d01e0", null ]
+    [ "ArcherAI", "d9/d59/a06110.html#a113c138958054716182c15ee9f2b47da", null ],
+    [ "AttackStart", "d9/d59/a06110.html#adc79f7ead63ecaf8fed9ea4f81d27f76", null ],
+    [ "Permissible", "d9/d59/a06110.html#ac5b3d144b0d71a5e527d53f33c3d31cc", null ],
+    [ "UpdateAI", "d9/d59/a06110.html#aa6e072e239549d337de61670a05eb6f8", null ],
+    [ "m_minRange", "d9/d59/a06110.html#ab449efcd81769888ff8d8bc5f348cbe7", null ]
 ];
