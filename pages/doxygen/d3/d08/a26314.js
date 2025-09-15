@@ -1,6 +1,6 @@
 var a26314 =
 [
-    [ "CheckTarget", "d3/d08/a26314.html#af1dae4f351ccaa7bc9b2ea315f0752c5", null ],
-    [ "PrepareSpellScript", "d3/d08/a26314.html#a8f4075c80c7dcaa16f71bc1b396d005f", null ],
-    [ "Register", "d3/d08/a26314.html#af4a27df3090a45ebd5db29c58e9ea47f", null ]
+    [ "HandleEffectCalcSpellMod", "d3/d08/a26314.html#a81395c735b9546632af71319067b575b", null ],
+    [ "PrepareAuraScript", "d3/d08/a26314.html#ad5a716f0644b1707aa6d179d564ceb80", null ],
+    [ "Register", "d3/d08/a26314.html#ae49a0ec525819981595c12839133a35b", null ]
 ];

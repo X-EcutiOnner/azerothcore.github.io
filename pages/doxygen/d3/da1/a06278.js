@@ -85,6 +85,7 @@ var a06278 =
     [ "UpdateDespawn", "d3/da1/a06278.html#ae4ca3b9840e41984e4bd2911ac85f2f5", null ],
     [ "UpdatePath", "d3/da1/a06278.html#a1bf5b14038fae82f76fc0012007d4b26", null ],
     [ "_chaseOnInterrupt", "d3/da1/a06278.html#a20acef24c5cf90445dec51e347e8a49b", null ],
+    [ "aiDataSet", "d3/da1/a06278.html#afb8837b85b794b28fce672d1e87c07a4", null ],
     [ "conditions", "d3/da1/a06278.html#a8fd30e4a36288ab4914d336096879dae", null ],
     [ "m_ConditionsTimer", "d3/da1/a06278.html#a334a81fe4e035b576c9ce7f7f9b34016", null ],
     [ "mCanAutoAttack", "d3/da1/a06278.html#a9c16d3870704c2e0a49dcba7f518c2b4", null ],

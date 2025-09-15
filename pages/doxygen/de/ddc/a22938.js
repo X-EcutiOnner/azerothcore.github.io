@@ -1,7 +1,12 @@
 var a22938 =
 [
-    [ "HandleScriptEffect", "de/ddc/a22938.html#a6ec6e79849c618d009eae3551e16ff0a", null ],
-    [ "PrepareSpellScript", "de/ddc/a22938.html#a4f00eca7c78a785780be4379c1a56a6b", null ],
-    [ "Register", "de/ddc/a22938.html#adb676b9d6f36c30efbb8286b1e5edf6d", null ],
-    [ "Validate", "de/ddc/a22938.html#a9ce122d497e72e3a46b1857d722af48d", null ]
+    [ "npc_maiev_illidan", "de/ddc/a22938.html#a0d19d9bb58c44662cdfb66a8fe373a60", null ],
+    [ "DamageTaken", "de/ddc/a22938.html#a780cc558c483efa3293d798cc6048a33", null ],
+    [ "DoAction", "de/ddc/a22938.html#a53607a158edf8fd772908b5d7af6edf1", null ],
+    [ "IsSummonedBy", "de/ddc/a22938.html#a1bf4f2f29132c5132e7903d089ace6e2", null ],
+    [ "JustEngagedWith", "de/ddc/a22938.html#ad1728d7d8b1b5f9db8db4d811c2ba630", null ],
+    [ "Reset", "de/ddc/a22938.html#a100db757c89634a58b9382216e2791ec", null ],
+    [ "SpellHit", "de/ddc/a22938.html#aa4d6626d6130a88519f86cfe70d9fb95", null ],
+    [ "UpdateAI", "de/ddc/a22938.html#a269e4a8f79b508e2da61cd5e2dc34664", null ],
+    [ "instance", "de/ddc/a22938.html#ad41b6deb9406232629ad60ba66cfac6b", null ]
 ];

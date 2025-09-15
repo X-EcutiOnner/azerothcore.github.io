@@ -1,6 +1,8 @@
 var a26518 =
 [
-    [ "HandleScript", "dd/d29/a26518.html#ae81570045d4984ee5682a0333b1b142d", null ],
-    [ "PrepareSpellScript", "dd/d29/a26518.html#acb074781e07961998362349a7616fc4e", null ],
-    [ "Register", "dd/d29/a26518.html#aaf41593da5ebb1118ccb10a5d4d32b26", null ]
+    [ "HandleEffectRemove", "dd/d29/a26518.html#a770b7ad0bb00114400a73f50c4aa6c81", null ],
+    [ "if", "dd/d29/a26518.html#a7123c451bce0f95ad75e5acfbe58a135", null ],
+    [ "PrepareAuraScript", "dd/d29/a26518.html#a531f51626ae4527282ad1e628911a9ea", null ],
+    [ "Register", "dd/d29/a26518.html#ae68bd9a92239a4796f9d8040787a68b3", null ],
+    [ "AuraEffectHandleModes", "dd/d29/a26518.html#a8af86c58f438e78d8bf878f79d4a27e2", null ]
 ];

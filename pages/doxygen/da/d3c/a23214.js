@@ -1,6 +1,7 @@
 var a23214 =
 [
-    [ "PrepareSpellScript", "da/d3c/a23214.html#a7e03b63174511ed4c3e78c99b781f8f2", null ],
-    [ "Register", "da/d3c/a23214.html#aaed4b5d67dbd06cb0a1adc91aa873247", null ],
-    [ "RemoveSpines", "da/d3c/a23214.html#a076b056328ba6181a6ec907f21258f9d", null ]
+    [ "HandleOnHit", "da/d3c/a23214.html#a9f368396cef39ba3bd70480f11c44700", null ],
+    [ "PrepareSpellScript", "da/d3c/a23214.html#a3240b42a9122e61b57ea91486cb3c97b", null ],
+    [ "Register", "da/d3c/a23214.html#a99f80adcebdd9726a8df51f99d415651", null ],
+    [ "Validate", "da/d3c/a23214.html#a25e3078f0b2d71ea0e6802aae0a6c7a4", null ]
 ];

@@ -1,6 +1,7 @@
 var a24874 =
 [
-    [ "CalculateAmount", "db/d83/a24874.html#a8deb31d3b6244f4d8de6050c99b3192e", null ],
-    [ "PrepareAuraScript", "db/d83/a24874.html#a4090baaee0e4330d3776b5774c5c923a", null ],
-    [ "Register", "db/d83/a24874.html#a4db48f3a549a04caf746a9459b1c5640", null ]
+    [ "CalculateAmount", "db/d83/a24874.html#af51a8e22ddfe0648f08a4190d730fbda", null ],
+    [ "CheckProc", "db/d83/a24874.html#a2f80dcd9e5922af55dee096c95079062", null ],
+    [ "PrepareAuraScript", "db/d83/a24874.html#af54ef254d0897140255960146507e986", null ],
+    [ "Register", "db/d83/a24874.html#ad6e4bd4390f6f88494984af792a11b90", null ]
 ];

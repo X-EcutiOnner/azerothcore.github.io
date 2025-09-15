@@ -1,6 +1,7 @@
 var a24106 =
 [
-    [ "HandleDummy", "de/d80/a24106.html#a4c1177fc89310598b6ba7cddf7f47cd1", null ],
-    [ "PrepareSpellScript", "de/d80/a24106.html#af511bcad63ff423bf04a430f56959f40", null ],
-    [ "Register", "de/d80/a24106.html#adaa4fc5294e2b0cb5bcb42f1a93a6f29", null ]
+    [ "boss_gatewatcher_iron_hand", "de/d80/a24106.html#aef70e713007af38b510f0a3b8c082b24", null ],
+    [ "JustDied", "de/d80/a24106.html#a36b10cd02b35b6e106687b08bc80bfa6", null ],
+    [ "JustEngagedWith", "de/d80/a24106.html#aa6a9f456d158e4c0332816c7e65ec155", null ],
+    [ "KilledUnit", "de/d80/a24106.html#a1973142412b4094dbd9fa51600741148", null ]
 ];

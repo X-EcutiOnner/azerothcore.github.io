@@ -1,6 +1,8 @@
 var a23086 =
 [
-    [ "boss_essence_of_sufferingAI", "d8/dcc/a23090.html", "d8/dcc/a23090" ],
-    [ "boss_essence_of_suffering", "dd/d2b/a23086.html#a1237f428657f0e9a0218695264358384", null ],
-    [ "GetAI", "dd/d2b/a23086.html#adb54519bdf220cb3e30c81627c1ba11a", null ]
+    [ "FilterTargets", "dd/d2b/a23086.html#a0ee5b216f8e713a5c632d0f456fd2b72", null ],
+    [ "HandleDummy", "dd/d2b/a23086.html#ab89ab441f022ee017548ba49d128b92e", null ],
+    [ "PrepareSpellScript", "dd/d2b/a23086.html#aa8578390d7d9379328c02ceb209e94ed", null ],
+    [ "Register", "dd/d2b/a23086.html#a486387d707b7ad66ecb443ab2bb60778", null ],
+    [ "Validate", "dd/d2b/a23086.html#ad5d695978794d796eb7139fce1530d57", null ]
 ];

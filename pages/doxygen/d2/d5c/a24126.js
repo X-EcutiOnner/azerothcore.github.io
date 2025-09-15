@@ -1,6 +1,9 @@
 var a24126 =
 [
-    [ "instance_mechanar_InstanceMapScript", "de/dc3/a24130.html", "de/dc3/a24130" ],
-    [ "instance_mechanar", "d2/d5c/a24126.html#ab31a66a0eb8b9ac6f79af479528ff4fd", null ],
-    [ "GetInstanceScript", "d2/d5c/a24126.html#ae8e9810a9bfd6b0ec256dd6a288392ed", null ]
+    [ "boss_nethermancer_sepethrea", "d2/d5c/a24126.html#aae77446e9a8f2ac41601049d3fe9ffd4", null ],
+    [ "EnterEvadeMode", "d2/d5c/a24126.html#a0ac9dd29b73e8734318851ffd9a09162", null ],
+    [ "JustDied", "d2/d5c/a24126.html#a2ac13176ebffa245fd9e0ba6173f30cc", null ],
+    [ "JustEngagedWith", "d2/d5c/a24126.html#a89851b9f6eb94270fe22151d3a968bec", null ],
+    [ "JustSummoned", "d2/d5c/a24126.html#acf98dbddcd55131cb9cdebe6d319e2c2", null ],
+    [ "KilledUnit", "d2/d5c/a24126.html#ad9606ca8c1fe6f68f72ec415cc70ef2f", null ]
 ];

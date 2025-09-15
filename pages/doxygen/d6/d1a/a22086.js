@@ -1,7 +1,8 @@
 var a22086 =
 [
-    [ "npc_emilyAI", "db/d79/a22090.html", "db/d79/a22090" ],
-    [ "npc_emily", "d6/d1a/a22086.html#ab40f581fad087b3d32a7724fca97895d", null ],
-    [ "GetAI", "d6/d1a/a22086.html#a6317e4b9787c25ce119d08432cd1acf7", null ],
-    [ "OnQuestAccept", "d6/d1a/a22086.html#ad434e7bf2427b3575a8459021e792152", null ]
+    [ "AfterApply", "d6/d1a/a22086.html#a57279552b867251e9d2ee6a4ff5d7914", null ],
+    [ "PeriodicTick", "d6/d1a/a22086.html#a2e86aa6efe6ab137926c1dfd1bd26a95", null ],
+    [ "PrepareAuraScript", "d6/d1a/a22086.html#a9e1b74bf2d28a367caefdc90c34743c8", null ],
+    [ "Register", "d6/d1a/a22086.html#a69eb0ca43a15d4995ad219459c2b39d6", null ],
+    [ "Validate", "d6/d1a/a22086.html#a946248656cb755f85dd93fd4d607c9a7", null ]
 ];

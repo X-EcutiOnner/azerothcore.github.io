@@ -1,8 +1,11 @@
 var a27706 =
 [
-    [ "npc_riggle_bassbaitAI", "d6/d7d/a27710.html", "d6/d7d/a27710" ],
-    [ "npc_riggle_bassbait", "d1/d1c/a27706.html#afc4280099cda3c28c4634d649e636839", null ],
-    [ "GetAI", "d1/d1c/a27706.html#ad5e3230dae9ac23aa83883e53b37234e", null ],
-    [ "OnGossipHello", "d1/d1c/a27706.html#aeea1e5d4d59c72ce97e1f0eb8da5b6fe", null ],
-    [ "OnQuestReward", "d1/d1c/a27706.html#aa3ef2b3ebd7542a4836983872c397e66", null ]
+    [ "npc_franklinAI", "d1/d1c/a27706.html#a8385d2e39f2d051553cf84a54f3bc5ad", null ],
+    [ "DamageTaken", "d1/d1c/a27706.html#afa494098126ce3291e234cfc2b36336f", null ],
+    [ "JustEngagedWith", "d1/d1c/a27706.html#ab15fc7bcd912a6c583d4c219ba37c756", null ],
+    [ "Reset", "d1/d1c/a27706.html#a51a260460facf06ec6bb1486f434d885", null ],
+    [ "ScheduleEncounterStart", "d1/d1c/a27706.html#a2dcd6d0467eada6bd0d244e275c07d22", null ],
+    [ "SpellHit", "d1/d1c/a27706.html#aed6b5cfccbbe258f501b2da5c9dadb40", null ],
+    [ "UpdateAI", "d1/d1c/a27706.html#a8c3158b1e6c482dd82a6326954b8bbc5", null ],
+    [ "events", "d1/d1c/a27706.html#a2f72f9659aa62f80c5d8159df0d14e9f", null ]
 ];

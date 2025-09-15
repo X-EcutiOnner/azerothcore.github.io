@@ -1,6 +1,6 @@
 var a27082 =
 [
-    [ "HandleCast", "d2/d4a/a27082.html#ac6afa94be0da1f99b12afebe935bcb5d", null ],
-    [ "PrepareSpellScript", "d2/d4a/a27082.html#aa784c7af6fe38069fca4dcff9a09a22b", null ],
-    [ "Register", "d2/d4a/a27082.html#a81bc86c83ffc70602410912870e61700", null ]
+    [ "PrepareAuraScript", "d2/d4a/a27082.html#a65fa925d99065d028e328a92f2a13805", null ],
+    [ "Register", "d2/d4a/a27082.html#a95dc732286adf4327f68e23015d58c21", null ],
+    [ "RemoveEffect", "d2/d4a/a27082.html#a3f474c143f64739187b6049cac5e4b38", null ]
 ];

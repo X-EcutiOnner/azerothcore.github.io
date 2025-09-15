@@ -1,6 +1,6 @@
 var a24218 =
 [
-    [ "npc_wounded_blood_elfAI", "da/d67/a24222.html", "da/d67/a24222" ],
-    [ "npc_wounded_blood_elf", "df/da0/a24218.html#a40e79d1412f5f399869a4d2c6fbb4260", null ],
-    [ "GetAI", "df/da0/a24218.html#a39d4bd877bdf6596c65e3cb834f124aa", null ]
+    [ "npc_aeranasAI", "da/d67/a24222.html", "da/d67/a24222" ],
+    [ "npc_aeranas", "df/da0/a24218.html#a6ea71481ef6a223a329b805081122537", null ],
+    [ "GetAI", "df/da0/a24218.html#a81167df6665bdca81ee13468dec19643", null ]
 ];

@@ -1,6 +1,6 @@
 var a24554 =
 [
-    [ "HandleDamageCalc", "d0/d27/a24554.html#a9e0f6fe8bb10950c2130fb7d1f07017a", null ],
-    [ "PrepareSpellScript", "d0/d27/a24554.html#a183477b6269dbc705a10e60ab36c13b1", null ],
-    [ "Register", "d0/d27/a24554.html#ae93d958a3a439e3401685b0d2a570f0e", null ]
+    [ "npc_pet_dk_ghoul", "d0/d27/a24554.html#aff3b8dc660a7e263c6e30960819b4ffa", null ],
+    [ "IsSummonedBy", "d0/d27/a24554.html#ae6ea5ad522229289a16d5be1e52181f6", null ],
+    [ "JustDied", "d0/d27/a24554.html#a6095e3619b470283b9875b90e2805b54", null ]
 ];

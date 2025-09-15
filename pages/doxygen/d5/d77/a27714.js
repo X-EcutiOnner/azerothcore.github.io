@@ -1,6 +1,6 @@
 var a27714 =
 [
-    [ "npc_training_dummyAI", "de/dcb/a27718.html", "de/dcb/a27718" ],
-    [ "npc_training_dummy", "d5/d77/a27714.html#acfed4da3b1a01bc58e599d2dc134cb7d", null ],
-    [ "GetAI", "d5/d77/a27714.html#a87a48a42e8349ce9125de91a429d4ffa", null ]
+    [ "npc_taxi", "d5/d77/a27714.html#ac67282316d6ded2ff62b8a1800b8fae1", null ],
+    [ "OnGossipHello", "d5/d77/a27714.html#a1bce89202ea3ed3fcbebd19a305c6a78", null ],
+    [ "OnGossipSelect", "d5/d77/a27714.html#a5a7443abba8cf98a3073195177981edc", null ]
 ];

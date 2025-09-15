@@ -1,11 +1,17 @@
 var a22870 =
 [
-    [ "boss_murmur", "da/d65/a22870.html#ad89ea433764c3017a3d33b37eb9e5602", null ],
-    [ "CanAIAttack", "da/d65/a22870.html#a6b89c95747c0a37c0b37527cd360e524", null ],
-    [ "CastSuppressionOOC", "da/d65/a22870.html#aab66339a7436c3c483297b25f6859558", null ],
-    [ "EnterEvadeMode", "da/d65/a22870.html#aa0f549c83a92302ece2323c75dd29acc", null ],
-    [ "JustEngagedWith", "da/d65/a22870.html#a3d872beeee7bf6ecd0c4aeaa3f8c603d", null ],
-    [ "Reset", "da/d65/a22870.html#a1f40ead1b2269b97c69bd4db808d6bae", null ],
-    [ "SetGUID", "da/d65/a22870.html#a88e18fd646a807ee92f1b24b43d500a6", null ],
-    [ "ShouldCastResonance", "da/d65/a22870.html#ade07217a85655a513d7a472d24589691", null ]
+    [ "boss_ambassador_hellmaw", "da/d65/a22870.html#ae774dfa4379b7321ff194a796c9eb842", null ],
+    [ "AttackStart", "da/d65/a22870.html#aa072ff0e9ce6e68f3ba0b4e51fb92f04", null ],
+    [ "CanAIAttack", "da/d65/a22870.html#a35579b31dec1d0c110b459230ee129e4", null ],
+    [ "DoAction", "da/d65/a22870.html#a3cbd58fb11fe8d297907bb40d69e4ccb", null ],
+    [ "DoMeleeAttackIfReady", "da/d65/a22870.html#a8dd75d368f0f567561db45e1c53ad785", null ],
+    [ "InitializeAI", "da/d65/a22870.html#a9b0170a49751def614126265240bb87c", null ],
+    [ "JustDied", "da/d65/a22870.html#ae0e04500073a4c02c9656b4bcd63be9c", null ],
+    [ "JustEngagedWith", "da/d65/a22870.html#a9ea9d60b8fa90a228951a38fc2f59325", null ],
+    [ "KilledUnit", "da/d65/a22870.html#a5f7564ef25a36395cddf4e2c2dbc2dfc", null ],
+    [ "MoveInLineOfSight", "da/d65/a22870.html#af3949b46f82863af699396729e88928b", null ],
+    [ "PathEndReached", "da/d65/a22870.html#a46b9b96ec5e4c121d994560e85266dfe", null ],
+    [ "Reset", "da/d65/a22870.html#a4881f868ac11eb66f3d15b44c94938bf", null ],
+    [ "UpdateAI", "da/d65/a22870.html#a44dae5d6517e22dd2be399d08fa67a71", null ],
+    [ "isBanished", "da/d65/a22870.html#a4805244997c42f5791400c5b1f5e6204", null ]
 ];

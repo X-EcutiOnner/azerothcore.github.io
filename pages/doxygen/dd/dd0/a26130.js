@@ -1,7 +1,5 @@
 var a26130 =
 [
-    [ "CheckCast", "dd/dd0/a26130.html#a02134ecbc1b1e0c8b6047ec13ef7e701", null ],
-    [ "HandleEffect", "dd/dd0/a26130.html#a9f1be51fb58cde38cd643c6d1a5a6c15", null ],
-    [ "PrepareSpellScript", "dd/dd0/a26130.html#aa63cb903e7c6037a6c08381334ccc126", null ],
-    [ "Register", "dd/dd0/a26130.html#a670a8dbdadd988fe3220cc01b71114aa", null ]
+    [ "PrepareSpellScript", "dd/dd0/a26130.html#a5f3b3fb1c42f21d309923e12f1272408", null ],
+    [ "Register", "dd/dd0/a26130.html#afc19789732c46589dca40d46cdb12d9e", null ]
 ];

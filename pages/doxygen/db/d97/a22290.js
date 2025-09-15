@@ -1,6 +1,7 @@
 var a22290 =
 [
-    [ "HandleDummy", "db/d97/a22290.html#a05a38c1b8e3b674f3c6e79c59c7caddd", null ],
-    [ "PrepareSpellScript", "db/d97/a22290.html#a0bfebaf099ef573b51bec0a511ceeb39", null ],
-    [ "Register", "db/d97/a22290.html#a9c71b084ce6b86ccaeb9a94d1f8de2b1", null ]
+    [ "HandleDummy", "db/d97/a22290.html#abfb58e49821e6a563940e8ba518db850", null ],
+    [ "PrepareSpellScript", "db/d97/a22290.html#a61ca2f71b0fa323a54f716415b25b75e", null ],
+    [ "Register", "db/d97/a22290.html#a7a2cc833ae8d079b821caabf55b6f0e5", null ],
+    [ "Validate", "db/d97/a22290.html#a21daeadffbfd28621d897dfe67dd11a8", null ]
 ];

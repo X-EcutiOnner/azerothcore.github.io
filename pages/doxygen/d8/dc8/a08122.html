@@ -399,7 +399,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00120">m_leader</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00036">RandomMovementGenerator&lt; T &gt;::_setRandomLocation()</a>, <a class="el" href="../../#l01121">Creature::Motion_Initialize()</a>, <a class="el" href="../../#l01970">Creature::setDeathState()</a>, and <a class="el" href="../../#l00101">WaypointMovementGenerator&lt; Creature &gt;::StartMove()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00036">RandomMovementGenerator&lt; T &gt;::_setRandomLocation()</a>, <a class="el" href="../../#l03893">Creature::IsUpdateNeeded()</a>, <a class="el" href="../../#l01121">Creature::Motion_Initialize()</a>, <a class="el" href="../../#l01970">Creature::setDeathState()</a>, and <a class="el" href="../../#l00101">WaypointMovementGenerator&lt; Creature &gt;::StartMove()</a>.</p>
 
 </div>
 </div>
@@ -514,20 +514,20 @@ Private Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  444</span>{</div>
-<div class="line"><span class="lineno">  445</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; itr : <a class="code hl_variable" href="../../d8/dc8/a08122.html#a63805a04ef3ef80270ae7e7d03014d83">m_members</a>)</div>
-<div class="line"><span class="lineno">  446</span>    {</div>
-<div class="line"><span class="lineno">  447</span>        <span class="keywordflow">if</span> (itr.first &amp;&amp; itr.first-&gt;IsAlive())</div>
-<div class="line"><span class="lineno">  448</span>        {</div>
-<div class="line"><span class="lineno">  449</span>            <span class="keywordflow">if</span> (!ignoreLeader || itr.first != <a class="code hl_variable" href="../../d8/dc8/a08122.html#ae9689e23f755a12f1be14601bb2f2677">m_leader</a>)</div>
-<div class="line"><span class="lineno">  450</span>            {</div>
-<div class="line"><span class="lineno">  451</span>                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  452</span>            }</div>
-<div class="line"><span class="lineno">  453</span>        }</div>
-<div class="line"><span class="lineno">  454</span>    }</div>
-<div class="line"><span class="lineno">  455</span> </div>
-<div class="line"><span class="lineno">  456</span>    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  457</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  445</span>{</div>
+<div class="line"><span class="lineno">  446</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; itr : <a class="code hl_variable" href="../../d8/dc8/a08122.html#a63805a04ef3ef80270ae7e7d03014d83">m_members</a>)</div>
+<div class="line"><span class="lineno">  447</span>    {</div>
+<div class="line"><span class="lineno">  448</span>        <span class="keywordflow">if</span> (itr.first &amp;&amp; itr.first-&gt;IsAlive())</div>
+<div class="line"><span class="lineno">  449</span>        {</div>
+<div class="line"><span class="lineno">  450</span>            <span class="keywordflow">if</span> (!ignoreLeader || itr.first != <a class="code hl_variable" href="../../d8/dc8/a08122.html#ae9689e23f755a12f1be14601bb2f2677">m_leader</a>)</div>
+<div class="line"><span class="lineno">  451</span>            {</div>
+<div class="line"><span class="lineno">  452</span>                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  453</span>            }</div>
+<div class="line"><span class="lineno">  454</span>        }</div>
+<div class="line"><span class="lineno">  455</span>    }</div>
+<div class="line"><span class="lineno">  456</span> </div>
+<div class="line"><span class="lineno">  457</span>    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  458</span>}</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00120">m_leader</a>, and <a class="el" href="../../#l00121">m_members</a>.</p>
 
@@ -577,17 +577,17 @@ Private Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  431</span>{</div>
-<div class="line"><span class="lineno">  432</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; itr : <a class="code hl_variable" href="../../d8/dc8/a08122.html#a63805a04ef3ef80270ae7e7d03014d83">m_members</a>)</div>
-<div class="line"><span class="lineno">  433</span>    {</div>
-<div class="line"><span class="lineno">  434</span>        <span class="keywordflow">if</span> (itr.first &amp;&amp; itr.first-&gt;IsInCombat())</div>
-<div class="line"><span class="lineno">  435</span>        {</div>
-<div class="line"><span class="lineno">  436</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  437</span>        }</div>
-<div class="line"><span class="lineno">  438</span>    }</div>
-<div class="line"><span class="lineno">  439</span> </div>
-<div class="line"><span class="lineno">  440</span>    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  441</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  432</span>{</div>
+<div class="line"><span class="lineno">  433</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; itr : <a class="code hl_variable" href="../../d8/dc8/a08122.html#a63805a04ef3ef80270ae7e7d03014d83">m_members</a>)</div>
+<div class="line"><span class="lineno">  434</span>    {</div>
+<div class="line"><span class="lineno">  435</span>        <span class="keywordflow">if</span> (itr.first &amp;&amp; itr.first-&gt;IsInCombat())</div>
+<div class="line"><span class="lineno">  436</span>        {</div>
+<div class="line"><span class="lineno">  437</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  438</span>        }</div>
+<div class="line"><span class="lineno">  439</span>    }</div>
+<div class="line"><span class="lineno">  440</span> </div>
+<div class="line"><span class="lineno">  441</span>    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  442</span>}</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00121">m_members</a>.</p>
 
@@ -675,64 +675,66 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  361</span>        <span class="keywordflow">if</span> (member == <a class="code hl_variable" href="../../d8/dc8/a08122.html#ae9689e23f755a12f1be14601bb2f2677">m_leader</a> || !member-&gt;<a class="code hl_function" href="../../d0/d6f/a08782.html#a5ea3f54af571493f7889220724667189">IsAlive</a>() || member-&gt;<a class="code hl_function" href="../../d0/d6f/a08782.html#aae09d03a474ea5517d671e64dc393739">GetVictim</a>() || !pFormationInfo.<a class="code hl_function" href="../../df/de9/a08114.html#afc612acf30e8d0a047aac5b0fc2dc07b">HasGroupFlag</a>(std::underlying_type_t&lt;GroupAIFlags&gt;(GroupAIFlags::GROUP_AI_FLAG_FOLLOW_LEADER)))</div>
 <div class="line"><span class="lineno">  362</span>            <span class="keywordflow">continue</span>;</div>
 <div class="line"><span class="lineno">  363</span> </div>
-<div class="line"><span class="lineno">  364</span>        <span class="comment">// Xinef: If member is stunned / rooted etc don&#39;t allow to move him</span></div>
-<div class="line"><span class="lineno">  365</span>        <span class="keywordflow">if</span> (member-&gt;<a class="code hl_function" href="../../d0/d6f/a08782.html#ab78147cd520d2dac6be709b4c80a7de3">HasUnitState</a>(<a class="code hl_enumvalue" href="../../d0/de4/a03308.html#ae51d2ecb71f7a5cb3882982a622c9544a181f17e7c0d805f0fc82cff6c534b545">UNIT_STATE_NOT_MOVE</a>))</div>
-<div class="line"><span class="lineno">  366</span>            <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  367</span> </div>
-<div class="line"><span class="lineno">  368</span>        <span class="comment">// Xinef: this should be automatized, if turn angle is greater than PI/2 (90�) we should swap formation angle</span></div>
-<div class="line"><span class="lineno">  369</span>        <span class="keywordtype">float</span> followAngle = pFormationInfo.<a class="code hl_variable" href="../../df/de9/a08114.html#a928ce7047d511c316a5367faf7f96673">follow_angle</a>;</div>
-<div class="line"><span class="lineno">  370</span>        <span class="keywordflow">if</span> (<span class="keyword">static_cast&lt;</span><span class="keywordtype">float</span><span class="keyword">&gt;</span>(M_PI) - std::fabs(std::fabs(<a class="code hl_variable" href="../../d8/dc8/a08122.html#ae9689e23f755a12f1be14601bb2f2677">m_leader</a>-&gt;<a class="code hl_function" href="../../df/d29/a08478.html#a74cabfb8f441acb38e1abd5bf6ecdc84">GetOrientation</a>() - pathAngle) - <span class="keyword">static_cast&lt;</span><span class="keywordtype">float</span><span class="keyword">&gt;</span>(M_PI)) &gt; <span class="keyword">static_cast&lt;</span><span class="keywordtype">float</span><span class="keyword">&gt;</span>(M_PI)* 0.5f)</div>
-<div class="line"><span class="lineno">  371</span>        {</div>
-<div class="line"><span class="lineno">  372</span>            <span class="comment">// pussywizard: in both cases should be 2*M_PI - follow_angle</span></div>
-<div class="line"><span class="lineno">  373</span>            <span class="comment">// pussywizard: also, GetCurrentWaypointID() returns 0..n-1, while point_1 must be &gt; 0, so +1</span></div>
-<div class="line"><span class="lineno">  374</span>            <span class="comment">// pussywizard: db table waypoint_data shouldn&#39;t have point id 0 and shouldn&#39;t have any gaps for this to work!</span></div>
-<div class="line"><span class="lineno">  375</span>            <span class="comment">// if (m_leader-&gt;GetCurrentWaypointID()+1 == pFormationInfo-&gt;point_1 || m_leader-&gt;GetCurrentWaypointID()+1 == itr-&gt;second-&gt;point_2)</span></div>
-<div class="line"><span class="lineno">  376</span>            followAngle = <a class="code hl_function" href="../../df/d29/a08478.html#a47dfa17a367a4824c454c3fa0997b2ee">Position::NormalizeOrientation</a>(pFormationInfo.<a class="code hl_variable" href="../../df/de9/a08114.html#a928ce7047d511c316a5367faf7f96673">follow_angle</a> + <span class="keyword">static_cast&lt;</span><span class="keywordtype">float</span><span class="keyword">&gt;</span>(M_PI)); <span class="comment">//(2 * M_PI) - itr-&gt;second-&gt;follow_angle;</span></div>
-<div class="line"><span class="lineno">  377</span>        }</div>
-<div class="line"><span class="lineno">  378</span> </div>
-<div class="line"><span class="lineno">  379</span>        <span class="keywordtype">float</span> <span class="keyword">const</span> followDist = pFormationInfo.<a class="code hl_variable" href="../../df/de9/a08114.html#a3b59ee5129e208cc3df407a921362393">follow_dist</a>;</div>
-<div class="line"><span class="lineno">  380</span> </div>
-<div class="line"><span class="lineno">  381</span>        <span class="keywordtype">float</span> dx = x + std::cos(followAngle + pathAngle) * followDist;</div>
-<div class="line"><span class="lineno">  382</span>        <span class="keywordtype">float</span> dy = y + std::sin(followAngle + pathAngle) * followDist;</div>
-<div class="line"><span class="lineno">  383</span>        <span class="keywordtype">float</span> dz = z;</div>
-<div class="line"><span class="lineno">  384</span> </div>
-<div class="line"><span class="lineno">  385</span>        <a class="code hl_function" href="../../d3/d7d/a04797.html#a081c4b764dd94224c4a046465c5c6274">Acore::NormalizeMapCoord</a>(dx);</div>
-<div class="line"><span class="lineno">  386</span>        <a class="code hl_function" href="../../d3/d7d/a04797.html#a081c4b764dd94224c4a046465c5c6274">Acore::NormalizeMapCoord</a>(dy);</div>
-<div class="line"><span class="lineno">  387</span>        <span class="keywordflow">if</span> (move_type &lt; 2)</div>
-<div class="line"><span class="lineno">  388</span>            member-&gt;<a class="code hl_function" href="../../d4/dea/a08430.html#aaac0221148a65e0aec0cc92663f55c9b">UpdateGroundPositionZ</a>(dx, dy, dz);</div>
-<div class="line"><span class="lineno">  389</span> </div>
-<div class="line"><span class="lineno">  390</span>        <span class="comment">// pussywizard: setting the same movementflags is not enough, spline decides whether leader walks/runs, so spline param is now passed as &quot;run&quot; parameter to this function</span></div>
-<div class="line"><span class="lineno">  391</span>        member-&gt;<a class="code hl_function" href="../../d0/d6f/a08782.html#a50e34bb16f6a4d069d89d72fd5f11c51">SetUnitMovementFlags</a>(<a class="code hl_variable" href="../../d8/dc8/a08122.html#ae9689e23f755a12f1be14601bb2f2677">m_leader</a>-&gt;<a class="code hl_function" href="../../d0/d6f/a08782.html#a125e704efcc6b2b410fabc2790e2cafd">GetUnitMovementFlags</a>());</div>
-<div class="line"><span class="lineno">  392</span>        <span class="keywordflow">switch</span> (move_type)</div>
-<div class="line"><span class="lineno">  393</span>        {</div>
-<div class="line"><span class="lineno">  394</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../dc/d6c/a03635.html#ac26115060a1cd0169937b206edddd863acc641c64fa11ca399fe52e963d2ad1ff">WAYPOINT_MOVE_TYPE_WALK</a>:</div>
-<div class="line"><span class="lineno">  395</span>            member-&gt;<a class="code hl_function" href="../../d0/d6f/a08782.html#a8d2a3d05cd1a2d041a021ef5ce0a560c">AddUnitMovementFlag</a>(<a class="code hl_enumvalue" href="../../d0/de4/a03308.html#a083358a25d084fb928e170c453128f9daf3910f63fbfc30d508a4fd6a461ab84d">MOVEMENTFLAG_WALKING</a>);</div>
-<div class="line"><span class="lineno">  396</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  397</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../dc/d6c/a03635.html#ac26115060a1cd0169937b206edddd863a1a68f8f06e0a7c3d6f9b007c79630f55">WAYPOINT_MOVE_TYPE_RUN</a>:</div>
-<div class="line"><span class="lineno">  398</span>            member-&gt;<a class="code hl_function" href="../../d0/d6f/a08782.html#abeb7f8bf0fe8c1e6ee5b5758f1b044b6">RemoveUnitMovementFlag</a>(<a class="code hl_enumvalue" href="../../d0/de4/a03308.html#a083358a25d084fb928e170c453128f9daf3910f63fbfc30d508a4fd6a461ab84d">MOVEMENTFLAG_WALKING</a>);</div>
-<div class="line"><span class="lineno">  399</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  400</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../dc/d6c/a03635.html#ac26115060a1cd0169937b206edddd863a3190ebe456b4d1effe17f57ecc3379fa">WAYPOINT_MOVE_TYPE_LAND</a>:</div>
-<div class="line"><span class="lineno">  401</span>            member-&gt;<a class="code hl_function" href="../../d0/d6f/a08782.html#a8d2a3d05cd1a2d041a021ef5ce0a560c">AddUnitMovementFlag</a>(<a class="code hl_enumvalue" href="../../d0/de4/a03308.html#a083358a25d084fb928e170c453128f9da70e62f35e908e4c0153aa70cb4fcd74d">MOVEMENTFLAG_DISABLE_GRAVITY</a>);</div>
-<div class="line"><span class="lineno">  402</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  403</span>        }</div>
-<div class="line"><span class="lineno">  404</span> </div>
-<div class="line"><span class="lineno">  405</span>        <span class="comment">// xinef: if we move members to position without taking care of sizes, we should compare distance without sizes</span></div>
-<div class="line"><span class="lineno">  406</span>        <span class="comment">// xinef: change members speed basing on distance - if too far speed up, if too close slow down</span></div>
-<div class="line"><span class="lineno">  407</span>        <a class="code hl_enumeration" href="../../d0/de4/a03308.html#af91f7580a89722b7dc45a018bb46fce4">UnitMoveType</a> <span class="keyword">const</span> mtype = <a class="code hl_function" href="../../de/df4/a04844.html#a1f10281929f445f6d8150dc510bf1f2f">Movement::SelectSpeedType</a>(member-&gt;<a class="code hl_function" href="../../d0/d6f/a08782.html#a125e704efcc6b2b410fabc2790e2cafd">GetUnitMovementFlags</a>());</div>
-<div class="line"><span class="lineno">  408</span>        <span class="keywordtype">float</span> <span class="keyword">const</span> speedRate = <a class="code hl_variable" href="../../d8/dc8/a08122.html#ae9689e23f755a12f1be14601bb2f2677">m_leader</a>-&gt;<a class="code hl_function" href="../../d0/d6f/a08782.html#aab66f0084b10c4a2a45f064567cf1118">GetSpeedRate</a>(mtype) * member-&gt;<a class="code hl_function" href="../../df/d29/a08478.html#a45b83c2b057421d190c01b819b513cdc">GetExactDist</a>(dx, dy, dz) / pathDist;</div>
-<div class="line"><span class="lineno">  409</span> </div>
-<div class="line"><span class="lineno">  410</span>        <span class="keywordflow">if</span> (speedRate &gt; 0.01f) <span class="comment">// don&#39;t move if speed rate is too low</span></div>
-<div class="line"><span class="lineno">  411</span>        {</div>
-<div class="line"><span class="lineno">  412</span>            member-&gt;<a class="code hl_function" href="../../d0/d6f/a08782.html#ab072ce4871903cf564cf9272684fa95d">SetSpeedRate</a>(mtype, speedRate);</div>
-<div class="line"><span class="lineno">  413</span>            member-&gt;<a class="code hl_function" href="../../d0/d6f/a08782.html#a4a04a3f22c3b0d6f4933993ac0cc7aa4">GetMotionMaster</a>()-&gt;<a class="code hl_function" href="../../df/d5b/a09966.html#a903a48c63482ebbd45d63272b218df7f">MovePoint</a>(0, dx, dy, dz);</div>
-<div class="line"><span class="lineno">  414</span>            member-&gt;<a class="code hl_function" href="../../db/df8/a08026.html#a0ab9e2649cc4b0103aea6a52e8f1a5ea">SetHomePosition</a>(dx, dy, dz, pathAngle);</div>
-<div class="line"><span class="lineno">  415</span>        }</div>
-<div class="line"><span class="lineno">  416</span>    }</div>
-<div class="line"><span class="lineno">  417</span>}</div>
+<div class="line"><span class="lineno">  364</span>        <span class="comment">// If member is stunned / rooted etc don&#39;t allow to move him</span></div>
+<div class="line"><span class="lineno">  365</span>        <span class="comment">// Or if charmed/controlled</span></div>
+<div class="line"><span class="lineno">  366</span>        <span class="keywordflow">if</span> (member-&gt;<a class="code hl_function" href="../../d0/d6f/a08782.html#ab78147cd520d2dac6be709b4c80a7de3">HasUnitState</a>(<a class="code hl_enumvalue" href="../../d0/de4/a03308.html#ae51d2ecb71f7a5cb3882982a622c9544a181f17e7c0d805f0fc82cff6c534b545">UNIT_STATE_NOT_MOVE</a>) || member-&gt;<a class="code hl_function" href="../../d0/d6f/a08782.html#a91a41d93263c55b220b7c48254a106fe">isPossessed</a>() || member-&gt;<a class="code hl_function" href="../../d0/d6f/a08782.html#a4af419c3eef4085ecaad8fd08e536800">HasUnitFlag</a>(<a class="code hl_enumvalue" href="../../d0/de4/a03308.html#affdd0d554c8bcaaa85a879f5a9d60934ac75aa2eacc0e809ae582c85d245c1e4c">UNIT_FLAG_PLAYER_CONTROLLED</a>))</div>
+<div class="line"><span class="lineno">  367</span>            <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  368</span> </div>
+<div class="line"><span class="lineno">  369</span>        <span class="comment">// Xinef: this should be automatized, if turn angle is greater than PI/2 (90�) we should swap formation angle</span></div>
+<div class="line"><span class="lineno">  370</span>        <span class="keywordtype">float</span> followAngle = pFormationInfo.<a class="code hl_variable" href="../../df/de9/a08114.html#a928ce7047d511c316a5367faf7f96673">follow_angle</a>;</div>
+<div class="line"><span class="lineno">  371</span>        <span class="keywordflow">if</span> (<span class="keyword">static_cast&lt;</span><span class="keywordtype">float</span><span class="keyword">&gt;</span>(M_PI) - std::fabs(std::fabs(<a class="code hl_variable" href="../../d8/dc8/a08122.html#ae9689e23f755a12f1be14601bb2f2677">m_leader</a>-&gt;<a class="code hl_function" href="../../df/d29/a08478.html#a74cabfb8f441acb38e1abd5bf6ecdc84">GetOrientation</a>() - pathAngle) - <span class="keyword">static_cast&lt;</span><span class="keywordtype">float</span><span class="keyword">&gt;</span>(M_PI)) &gt; <span class="keyword">static_cast&lt;</span><span class="keywordtype">float</span><span class="keyword">&gt;</span>(M_PI)* 0.5f)</div>
+<div class="line"><span class="lineno">  372</span>        {</div>
+<div class="line"><span class="lineno">  373</span>            <span class="comment">// pussywizard: in both cases should be 2*M_PI - follow_angle</span></div>
+<div class="line"><span class="lineno">  374</span>            <span class="comment">// pussywizard: also, GetCurrentWaypointID() returns 0..n-1, while point_1 must be &gt; 0, so +1</span></div>
+<div class="line"><span class="lineno">  375</span>            <span class="comment">// pussywizard: db table waypoint_data shouldn&#39;t have point id 0 and shouldn&#39;t have any gaps for this to work!</span></div>
+<div class="line"><span class="lineno">  376</span>            <span class="comment">// if (m_leader-&gt;GetCurrentWaypointID()+1 == pFormationInfo-&gt;point_1 || m_leader-&gt;GetCurrentWaypointID()+1 == itr-&gt;second-&gt;point_2)</span></div>
+<div class="line"><span class="lineno">  377</span>            followAngle = <a class="code hl_function" href="../../df/d29/a08478.html#a47dfa17a367a4824c454c3fa0997b2ee">Position::NormalizeOrientation</a>(pFormationInfo.<a class="code hl_variable" href="../../df/de9/a08114.html#a928ce7047d511c316a5367faf7f96673">follow_angle</a> + <span class="keyword">static_cast&lt;</span><span class="keywordtype">float</span><span class="keyword">&gt;</span>(M_PI)); <span class="comment">//(2 * M_PI) - itr-&gt;second-&gt;follow_angle;</span></div>
+<div class="line"><span class="lineno">  378</span>        }</div>
+<div class="line"><span class="lineno">  379</span> </div>
+<div class="line"><span class="lineno">  380</span>        <span class="keywordtype">float</span> <span class="keyword">const</span> followDist = pFormationInfo.<a class="code hl_variable" href="../../df/de9/a08114.html#a3b59ee5129e208cc3df407a921362393">follow_dist</a>;</div>
+<div class="line"><span class="lineno">  381</span> </div>
+<div class="line"><span class="lineno">  382</span>        <span class="keywordtype">float</span> dx = x + std::cos(followAngle + pathAngle) * followDist;</div>
+<div class="line"><span class="lineno">  383</span>        <span class="keywordtype">float</span> dy = y + std::sin(followAngle + pathAngle) * followDist;</div>
+<div class="line"><span class="lineno">  384</span>        <span class="keywordtype">float</span> dz = z;</div>
+<div class="line"><span class="lineno">  385</span> </div>
+<div class="line"><span class="lineno">  386</span>        <a class="code hl_function" href="../../d3/d7d/a04797.html#a081c4b764dd94224c4a046465c5c6274">Acore::NormalizeMapCoord</a>(dx);</div>
+<div class="line"><span class="lineno">  387</span>        <a class="code hl_function" href="../../d3/d7d/a04797.html#a081c4b764dd94224c4a046465c5c6274">Acore::NormalizeMapCoord</a>(dy);</div>
+<div class="line"><span class="lineno">  388</span>        <span class="keywordflow">if</span> (move_type &lt; 2)</div>
+<div class="line"><span class="lineno">  389</span>            member-&gt;<a class="code hl_function" href="../../d4/dea/a08430.html#aaac0221148a65e0aec0cc92663f55c9b">UpdateGroundPositionZ</a>(dx, dy, dz);</div>
+<div class="line"><span class="lineno">  390</span> </div>
+<div class="line"><span class="lineno">  391</span>        <span class="comment">// pussywizard: setting the same movementflags is not enough, spline decides whether leader walks/runs, so spline param is now passed as &quot;run&quot; parameter to this function</span></div>
+<div class="line"><span class="lineno">  392</span>        member-&gt;<a class="code hl_function" href="../../d0/d6f/a08782.html#a50e34bb16f6a4d069d89d72fd5f11c51">SetUnitMovementFlags</a>(<a class="code hl_variable" href="../../d8/dc8/a08122.html#ae9689e23f755a12f1be14601bb2f2677">m_leader</a>-&gt;<a class="code hl_function" href="../../d0/d6f/a08782.html#a125e704efcc6b2b410fabc2790e2cafd">GetUnitMovementFlags</a>());</div>
+<div class="line"><span class="lineno">  393</span>        <span class="keywordflow">switch</span> (move_type)</div>
+<div class="line"><span class="lineno">  394</span>        {</div>
+<div class="line"><span class="lineno">  395</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../dc/d6c/a03635.html#ac26115060a1cd0169937b206edddd863acc641c64fa11ca399fe52e963d2ad1ff">WAYPOINT_MOVE_TYPE_WALK</a>:</div>
+<div class="line"><span class="lineno">  396</span>            member-&gt;<a class="code hl_function" href="../../d0/d6f/a08782.html#a8d2a3d05cd1a2d041a021ef5ce0a560c">AddUnitMovementFlag</a>(<a class="code hl_enumvalue" href="../../d0/de4/a03308.html#a083358a25d084fb928e170c453128f9daf3910f63fbfc30d508a4fd6a461ab84d">MOVEMENTFLAG_WALKING</a>);</div>
+<div class="line"><span class="lineno">  397</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  398</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../dc/d6c/a03635.html#ac26115060a1cd0169937b206edddd863a1a68f8f06e0a7c3d6f9b007c79630f55">WAYPOINT_MOVE_TYPE_RUN</a>:</div>
+<div class="line"><span class="lineno">  399</span>            member-&gt;<a class="code hl_function" href="../../d0/d6f/a08782.html#abeb7f8bf0fe8c1e6ee5b5758f1b044b6">RemoveUnitMovementFlag</a>(<a class="code hl_enumvalue" href="../../d0/de4/a03308.html#a083358a25d084fb928e170c453128f9daf3910f63fbfc30d508a4fd6a461ab84d">MOVEMENTFLAG_WALKING</a>);</div>
+<div class="line"><span class="lineno">  400</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  401</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../dc/d6c/a03635.html#ac26115060a1cd0169937b206edddd863a3190ebe456b4d1effe17f57ecc3379fa">WAYPOINT_MOVE_TYPE_LAND</a>:</div>
+<div class="line"><span class="lineno">  402</span>            member-&gt;<a class="code hl_function" href="../../d0/d6f/a08782.html#a8d2a3d05cd1a2d041a021ef5ce0a560c">AddUnitMovementFlag</a>(<a class="code hl_enumvalue" href="../../d0/de4/a03308.html#a083358a25d084fb928e170c453128f9da70e62f35e908e4c0153aa70cb4fcd74d">MOVEMENTFLAG_DISABLE_GRAVITY</a>);</div>
+<div class="line"><span class="lineno">  403</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  404</span>        }</div>
+<div class="line"><span class="lineno">  405</span> </div>
+<div class="line"><span class="lineno">  406</span>        <span class="comment">// xinef: if we move members to position without taking care of sizes, we should compare distance without sizes</span></div>
+<div class="line"><span class="lineno">  407</span>        <span class="comment">// xinef: change members speed basing on distance - if too far speed up, if too close slow down</span></div>
+<div class="line"><span class="lineno">  408</span>        <a class="code hl_enumeration" href="../../d0/de4/a03308.html#af91f7580a89722b7dc45a018bb46fce4">UnitMoveType</a> <span class="keyword">const</span> mtype = <a class="code hl_function" href="../../de/df4/a04844.html#a1f10281929f445f6d8150dc510bf1f2f">Movement::SelectSpeedType</a>(member-&gt;<a class="code hl_function" href="../../d0/d6f/a08782.html#a125e704efcc6b2b410fabc2790e2cafd">GetUnitMovementFlags</a>());</div>
+<div class="line"><span class="lineno">  409</span>        <span class="keywordtype">float</span> <span class="keyword">const</span> speedRate = <a class="code hl_variable" href="../../d8/dc8/a08122.html#ae9689e23f755a12f1be14601bb2f2677">m_leader</a>-&gt;<a class="code hl_function" href="../../d0/d6f/a08782.html#aab66f0084b10c4a2a45f064567cf1118">GetSpeedRate</a>(mtype) * member-&gt;<a class="code hl_function" href="../../df/d29/a08478.html#a45b83c2b057421d190c01b819b513cdc">GetExactDist</a>(dx, dy, dz) / pathDist;</div>
+<div class="line"><span class="lineno">  410</span> </div>
+<div class="line"><span class="lineno">  411</span>        <span class="keywordflow">if</span> (speedRate &gt; 0.01f) <span class="comment">// don&#39;t move if speed rate is too low</span></div>
+<div class="line"><span class="lineno">  412</span>        {</div>
+<div class="line"><span class="lineno">  413</span>            member-&gt;<a class="code hl_function" href="../../d0/d6f/a08782.html#ab072ce4871903cf564cf9272684fa95d">SetSpeedRate</a>(mtype, speedRate);</div>
+<div class="line"><span class="lineno">  414</span>            member-&gt;<a class="code hl_function" href="../../d0/d6f/a08782.html#a4a04a3f22c3b0d6f4933993ac0cc7aa4">GetMotionMaster</a>()-&gt;<a class="code hl_function" href="../../df/d5b/a09966.html#a903a48c63482ebbd45d63272b218df7f">MovePoint</a>(0, dx, dy, dz);</div>
+<div class="line"><span class="lineno">  415</span>            member-&gt;<a class="code hl_function" href="../../db/df8/a08026.html#a0ab9e2649cc4b0103aea6a52e8f1a5ea">SetHomePosition</a>(dx, dy, dz, pathAngle);</div>
+<div class="line"><span class="lineno">  416</span>        }</div>
+<div class="line"><span class="lineno">  417</span>    }</div>
+<div class="line"><span class="lineno">  418</span>}</div>
 <div class="ttc" id="aa03308_html_a083358a25d084fb928e170c453128f9da70e62f35e908e4c0153aa70cb4fcd74d"><div class="ttname"><a href="../../d0/de4/a03308.html#a083358a25d084fb928e170c453128f9da70e62f35e908e4c0153aa70cb4fcd74d">MOVEMENTFLAG_DISABLE_GRAVITY</a></div><div class="ttdeci">@ MOVEMENTFLAG_DISABLE_GRAVITY</div><div class="ttdef"><b>Definition:</b> UnitDefines.h:375</div></div>
 <div class="ttc" id="aa03308_html_a083358a25d084fb928e170c453128f9daf3910f63fbfc30d508a4fd6a461ab84d"><div class="ttname"><a href="../../d0/de4/a03308.html#a083358a25d084fb928e170c453128f9daf3910f63fbfc30d508a4fd6a461ab84d">MOVEMENTFLAG_WALKING</a></div><div class="ttdeci">@ MOVEMENTFLAG_WALKING</div><div class="ttdef"><b>Definition:</b> UnitDefines.h:373</div></div>
 <div class="ttc" id="aa03308_html_ae51d2ecb71f7a5cb3882982a622c9544a181f17e7c0d805f0fc82cff6c534b545"><div class="ttname"><a href="../../d0/de4/a03308.html#ae51d2ecb71f7a5cb3882982a622c9544a181f17e7c0d805f0fc82cff6c534b545">UNIT_STATE_NOT_MOVE</a></div><div class="ttdeci">@ UNIT_STATE_NOT_MOVE</div><div class="ttdef"><b>Definition:</b> UnitDefines.h:218</div></div>
 <div class="ttc" id="aa03308_html_af91f7580a89722b7dc45a018bb46fce4"><div class="ttname"><a href="../../d0/de4/a03308.html#af91f7580a89722b7dc45a018bb46fce4">UnitMoveType</a></div><div class="ttdeci">UnitMoveType</div><div class="ttdef"><b>Definition:</b> UnitDefines.h:348</div></div>
+<div class="ttc" id="aa03308_html_affdd0d554c8bcaaa85a879f5a9d60934ac75aa2eacc0e809ae582c85d245c1e4c"><div class="ttname"><a href="../../d0/de4/a03308.html#affdd0d554c8bcaaa85a879f5a9d60934ac75aa2eacc0e809ae582c85d245c1e4c">UNIT_FLAG_PLAYER_CONTROLLED</a></div><div class="ttdeci">@ UNIT_FLAG_PLAYER_CONTROLLED</div><div class="ttdef"><b>Definition:</b> UnitDefines.h:253</div></div>
 <div class="ttc" id="aa03635_html_ac26115060a1cd0169937b206edddd863a1a68f8f06e0a7c3d6f9b007c79630f55"><div class="ttname"><a href="../../dc/d6c/a03635.html#ac26115060a1cd0169937b206edddd863a1a68f8f06e0a7c3d6f9b007c79630f55">WAYPOINT_MOVE_TYPE_RUN</a></div><div class="ttdeci">@ WAYPOINT_MOVE_TYPE_RUN</div><div class="ttdef"><b>Definition:</b> WaypointMgr.h:29</div></div>
 <div class="ttc" id="aa03635_html_ac26115060a1cd0169937b206edddd863a3190ebe456b4d1effe17f57ecc3379fa"><div class="ttname"><a href="../../dc/d6c/a03635.html#ac26115060a1cd0169937b206edddd863a3190ebe456b4d1effe17f57ecc3379fa">WAYPOINT_MOVE_TYPE_LAND</a></div><div class="ttdeci">@ WAYPOINT_MOVE_TYPE_LAND</div><div class="ttdef"><b>Definition:</b> WaypointMgr.h:30</div></div>
 <div class="ttc" id="aa03635_html_ac26115060a1cd0169937b206edddd863acc641c64fa11ca399fe52e963d2ad1ff"><div class="ttname"><a href="../../dc/d6c/a03635.html#ac26115060a1cd0169937b206edddd863acc641c64fa11ca399fe52e963d2ad1ff">WAYPOINT_MOVE_TYPE_WALK</a></div><div class="ttdeci">@ WAYPOINT_MOVE_TYPE_WALK</div><div class="ttdef"><b>Definition:</b> WaypointMgr.h:28</div></div>
@@ -750,15 +752,17 @@ Private Attributes</h2></td></tr>
 <div class="ttc" id="aa08478_html_ad5577c934d9e845b44759b67c534c3e8"><div class="ttname"><a href="../../df/d29/a08478.html#ad5577c934d9e845b44759b67c534c3e8">Position::GetPositionX</a></div><div class="ttdeci">float GetPositionX() const</div><div class="ttdef"><b>Definition:</b> Position.h:121</div></div>
 <div class="ttc" id="aa08478_html_ae79fc664f6cd027f5d49f6c7df8e4c9e"><div class="ttname"><a href="../../df/d29/a08478.html#ae79fc664f6cd027f5d49f6c7df8e4c9e">Position::GetPositionY</a></div><div class="ttdeci">float GetPositionY() const</div><div class="ttdef"><b>Definition:</b> Position.h:122</div></div>
 <div class="ttc" id="aa08782_html_a125e704efcc6b2b410fabc2790e2cafd"><div class="ttname"><a href="../../d0/d6f/a08782.html#a125e704efcc6b2b410fabc2790e2cafd">Unit::GetUnitMovementFlags</a></div><div class="ttdeci">uint32 GetUnitMovementFlags() const</div><div class="ttdef"><b>Definition:</b> Unit.h:730</div></div>
+<div class="ttc" id="aa08782_html_a4af419c3eef4085ecaad8fd08e536800"><div class="ttname"><a href="../../d0/d6f/a08782.html#a4af419c3eef4085ecaad8fd08e536800">Unit::HasUnitFlag</a></div><div class="ttdeci">bool HasUnitFlag(UnitFlags flags) const</div><div class="ttdef"><b>Definition:</b> Unit.h:702</div></div>
 <div class="ttc" id="aa08782_html_a50e34bb16f6a4d069d89d72fd5f11c51"><div class="ttname"><a href="../../d0/d6f/a08782.html#a50e34bb16f6a4d069d89d72fd5f11c51">Unit::SetUnitMovementFlags</a></div><div class="ttdeci">void SetUnitMovementFlags(uint32 f)</div><div class="ttdef"><b>Definition:</b> Unit.h:731</div></div>
 <div class="ttc" id="aa08782_html_a8d2a3d05cd1a2d041a021ef5ce0a560c"><div class="ttname"><a href="../../d0/d6f/a08782.html#a8d2a3d05cd1a2d041a021ef5ce0a560c">Unit::AddUnitMovementFlag</a></div><div class="ttdeci">void AddUnitMovementFlag(uint32 f)</div><div class="ttdef"><b>Definition:</b> Unit.h:727</div></div>
+<div class="ttc" id="aa08782_html_a91a41d93263c55b220b7c48254a106fe"><div class="ttname"><a href="../../d0/d6f/a08782.html#a91a41d93263c55b220b7c48254a106fe">Unit::isPossessed</a></div><div class="ttdeci">bool isPossessed() const</div><div class="ttdef"><b>Definition:</b> Unit.h:1238</div></div>
 <div class="ttc" id="aa08782_html_aab66f0084b10c4a2a45f064567cf1118"><div class="ttname"><a href="../../d0/d6f/a08782.html#aab66f0084b10c4a2a45f064567cf1118">Unit::GetSpeedRate</a></div><div class="ttdeci">float GetSpeedRate(UnitMoveType mtype) const</div><div class="ttdef"><b>Definition:</b> Unit.h:1654</div></div>
 <div class="ttc" id="aa08782_html_ab072ce4871903cf564cf9272684fa95d"><div class="ttname"><a href="../../d0/d6f/a08782.html#ab072ce4871903cf564cf9272684fa95d">Unit::SetSpeedRate</a></div><div class="ttdeci">void SetSpeedRate(UnitMoveType mtype, float rate)</div><div class="ttdef"><b>Definition:</b> Unit.h:1656</div></div>
 <div class="ttc" id="aa08782_html_ab78147cd520d2dac6be709b4c80a7de3"><div class="ttname"><a href="../../d0/d6f/a08782.html#ab78147cd520d2dac6be709b4c80a7de3">Unit::HasUnitState</a></div><div class="ttdeci">bool HasUnitState(const uint32 f) const</div><div class="ttdef"><b>Definition:</b> Unit.h:691</div></div>
 <div class="ttc" id="aa08782_html_abeb7f8bf0fe8c1e6ee5b5758f1b044b6"><div class="ttname"><a href="../../d0/d6f/a08782.html#abeb7f8bf0fe8c1e6ee5b5758f1b044b6">Unit::RemoveUnitMovementFlag</a></div><div class="ttdeci">void RemoveUnitMovementFlag(uint32 f)</div><div class="ttdef"><b>Definition:</b> Unit.h:728</div></div>
 <div class="ttc" id="aa09966_html_a903a48c63482ebbd45d63272b218df7f"><div class="ttname"><a href="../../df/d5b/a09966.html#a903a48c63482ebbd45d63272b218df7f">MotionMaster::MovePoint</a></div><div class="ttdeci">void MovePoint(uint32 id, const Position &amp;pos, bool generatePath=true, bool forceDestination=true)</div><div class="ttdef"><b>Definition:</b> MotionMaster.h:213</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00727">Unit::AddUnitMovementFlag()</a>, <a class="el" href="../../#l00065">FormationInfo::follow_angle</a>, <a class="el" href="../../#l00064">FormationInfo::follow_dist</a>, <a class="el" href="../../#l00182">Position::GetExactDist()</a>, <a class="el" href="../../#l01673">Unit::GetMotionMaster()</a>, <a class="el" href="../../#l00124">Position::GetOrientation()</a>, <a class="el" href="../../#l00121">Position::GetPositionX()</a>, <a class="el" href="../../#l00122">Position::GetPositionY()</a>, <a class="el" href="../../#l01654">Unit::GetSpeedRate()</a>, <a class="el" href="../../#l00730">Unit::GetUnitMovementFlags()</a>, <a class="el" href="../../#l00848">Unit::GetVictim()</a>, <a class="el" href="../../#l00070">FormationInfo::HasGroupFlag()</a>, <a class="el" href="../../#l00691">Unit::HasUnitState()</a>, <a class="el" href="../../#l01707">Unit::IsAlive()</a>, <a class="el" href="../../#l00120">m_leader</a>, <a class="el" href="../../#l00121">m_members</a>, <a class="el" href="../../#l00375">MOVEMENTFLAG_DISABLE_GRAVITY</a>, <a class="el" href="../../#l00373">MOVEMENTFLAG_WALKING</a>, <a class="el" href="../../#l00213">MotionMaster::MovePoint()</a>, <a class="el" href="../../#l00202">Acore::NormalizeMapCoord()</a>, <a class="el" href="../../#l00237">Position::NormalizeOrientation()</a>, <a class="el" href="../../#l00728">Unit::RemoveUnitMovementFlag()</a>, <a class="el" href="../../#l00029">Movement::SelectSpeedType()</a>, <a class="el" href="../../#l00340">Creature::SetHomePosition()</a>, <a class="el" href="../../#l01656">Unit::SetSpeedRate()</a>, <a class="el" href="../../#l00731">Unit::SetUnitMovementFlags()</a>, <a class="el" href="../../#l00218">UNIT_STATE_NOT_MOVE</a>, <a class="el" href="../../#l01535">WorldObject::UpdateGroundPositionZ()</a>, <a class="el" href="../../#l00030">WAYPOINT_MOVE_TYPE_LAND</a>, <a class="el" href="../../#l00029">WAYPOINT_MOVE_TYPE_RUN</a>, and <a class="el" href="../../#l00028">WAYPOINT_MOVE_TYPE_WALK</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00727">Unit::AddUnitMovementFlag()</a>, <a class="el" href="../../#l00065">FormationInfo::follow_angle</a>, <a class="el" href="../../#l00064">FormationInfo::follow_dist</a>, <a class="el" href="../../#l00182">Position::GetExactDist()</a>, <a class="el" href="../../#l01673">Unit::GetMotionMaster()</a>, <a class="el" href="../../#l00124">Position::GetOrientation()</a>, <a class="el" href="../../#l00121">Position::GetPositionX()</a>, <a class="el" href="../../#l00122">Position::GetPositionY()</a>, <a class="el" href="../../#l01654">Unit::GetSpeedRate()</a>, <a class="el" href="../../#l00730">Unit::GetUnitMovementFlags()</a>, <a class="el" href="../../#l00848">Unit::GetVictim()</a>, <a class="el" href="../../#l00070">FormationInfo::HasGroupFlag()</a>, <a class="el" href="../../#l00702">Unit::HasUnitFlag()</a>, <a class="el" href="../../#l00691">Unit::HasUnitState()</a>, <a class="el" href="../../#l01707">Unit::IsAlive()</a>, <a class="el" href="../../#l01238">Unit::isPossessed()</a>, <a class="el" href="../../#l00120">m_leader</a>, <a class="el" href="../../#l00121">m_members</a>, <a class="el" href="../../#l00375">MOVEMENTFLAG_DISABLE_GRAVITY</a>, <a class="el" href="../../#l00373">MOVEMENTFLAG_WALKING</a>, <a class="el" href="../../#l00213">MotionMaster::MovePoint()</a>, <a class="el" href="../../#l00202">Acore::NormalizeMapCoord()</a>, <a class="el" href="../../#l00237">Position::NormalizeOrientation()</a>, <a class="el" href="../../#l00728">Unit::RemoveUnitMovementFlag()</a>, <a class="el" href="../../#l00029">Movement::SelectSpeedType()</a>, <a class="el" href="../../#l00340">Creature::SetHomePosition()</a>, <a class="el" href="../../#l01656">Unit::SetSpeedRate()</a>, <a class="el" href="../../#l00731">Unit::SetUnitMovementFlags()</a>, <a class="el" href="../../#l00253">UNIT_FLAG_PLAYER_CONTROLLED</a>, <a class="el" href="../../#l00218">UNIT_STATE_NOT_MOVE</a>, <a class="el" href="../../#l01535">WorldObject::UpdateGroundPositionZ()</a>, <a class="el" href="../../#l00030">WAYPOINT_MOVE_TYPE_LAND</a>, <a class="el" href="../../#l00029">WAYPOINT_MOVE_TYPE_RUN</a>, and <a class="el" href="../../#l00028">WAYPOINT_MOVE_TYPE_WALK</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00036">RandomMovementGenerator&lt; T &gt;::_setRandomLocation()</a>, and <a class="el" href="../../#l00101">WaypointMovementGenerator&lt; Creature &gt;::StartMove()</a>.</p>
 
@@ -943,15 +947,15 @@ Private Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  420</span>{</div>
-<div class="line"><span class="lineno">  421</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; itr : <a class="code hl_variable" href="../../d8/dc8/a08122.html#a63805a04ef3ef80270ae7e7d03014d83">m_members</a>)</div>
-<div class="line"><span class="lineno">  422</span>    {</div>
-<div class="line"><span class="lineno">  423</span>        <span class="keywordflow">if</span> (itr.first &amp;&amp; !itr.first-&gt;IsAlive())</div>
-<div class="line"><span class="lineno">  424</span>        {</div>
-<div class="line"><span class="lineno">  425</span>            itr.first-&gt;Respawn(force);</div>
-<div class="line"><span class="lineno">  426</span>        }</div>
-<div class="line"><span class="lineno">  427</span>    }</div>
-<div class="line"><span class="lineno">  428</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  421</span>{</div>
+<div class="line"><span class="lineno">  422</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; itr : <a class="code hl_variable" href="../../d8/dc8/a08122.html#a63805a04ef3ef80270ae7e7d03014d83">m_members</a>)</div>
+<div class="line"><span class="lineno">  423</span>    {</div>
+<div class="line"><span class="lineno">  424</span>        <span class="keywordflow">if</span> (itr.first &amp;&amp; !itr.first-&gt;IsAlive())</div>
+<div class="line"><span class="lineno">  425</span>        {</div>
+<div class="line"><span class="lineno">  426</span>            itr.first-&gt;Respawn(force);</div>
+<div class="line"><span class="lineno">  427</span>        }</div>
+<div class="line"><span class="lineno">  428</span>    }</div>
+<div class="line"><span class="lineno">  429</span>}</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00121">m_members</a>.</p>
 
@@ -1026,7 +1030,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00170">AddMember()</a>, <a class="el" href="../../#l00323">FormationReset()</a>, <a class="el" href="../../#l00099">GetLeader()</a>, <a class="el" href="../../#l00236">GetNewTargetForMember()</a>, <a class="el" href="../../#l00443">IsAnyMemberAlive()</a>, <a class="el" href="../../#l00347">LeaderMoveTo()</a>, <a class="el" href="../../#l00196">MemberEngagingTarget()</a>, <a class="el" href="../../#l00283">MemberEvaded()</a>, and <a class="el" href="../../#l00185">RemoveMember()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00170">AddMember()</a>, <a class="el" href="../../#l00323">FormationReset()</a>, <a class="el" href="../../#l00099">GetLeader()</a>, <a class="el" href="../../#l00236">GetNewTargetForMember()</a>, <a class="el" href="../../#l00444">IsAnyMemberAlive()</a>, <a class="el" href="../../#l00347">LeaderMoveTo()</a>, <a class="el" href="../../#l00196">MemberEngagingTarget()</a>, <a class="el" href="../../#l00283">MemberEvaded()</a>, and <a class="el" href="../../#l00185">RemoveMember()</a>.</p>
 
 </div>
 </div>
@@ -1050,7 +1054,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00170">AddMember()</a>, <a class="el" href="../../#l00323">FormationReset()</a>, <a class="el" href="../../#l00105">GetMembers()</a>, <a class="el" href="../../#l00236">GetNewTargetForMember()</a>, <a class="el" href="../../#l00443">IsAnyMemberAlive()</a>, <a class="el" href="../../#l00102">IsEmpty()</a>, <a class="el" href="../../#l00430">IsFormationInCombat()</a>, <a class="el" href="../../#l00347">LeaderMoveTo()</a>, <a class="el" href="../../#l00196">MemberEngagingTarget()</a>, <a class="el" href="../../#l00283">MemberEvaded()</a>, <a class="el" href="../../#l00185">RemoveMember()</a>, and <a class="el" href="../../#l00419">RespawnFormation()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00170">AddMember()</a>, <a class="el" href="../../#l00323">FormationReset()</a>, <a class="el" href="../../#l00105">GetMembers()</a>, <a class="el" href="../../#l00236">GetNewTargetForMember()</a>, <a class="el" href="../../#l00444">IsAnyMemberAlive()</a>, <a class="el" href="../../#l00102">IsEmpty()</a>, <a class="el" href="../../#l00431">IsFormationInCombat()</a>, <a class="el" href="../../#l00347">LeaderMoveTo()</a>, <a class="el" href="../../#l00196">MemberEngagingTarget()</a>, <a class="el" href="../../#l00283">MemberEvaded()</a>, <a class="el" href="../../#l00185">RemoveMember()</a>, and <a class="el" href="../../#l00420">RespawnFormation()</a>.</p>
 
 </div>
 </div>
@@ -1060,7 +1064,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d8/dc8/a08122.html">CreatureGroup</a></li>
-    <li class="footer">Generated on Mon Sep 8 2025 20:44:53 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Sep 15 2025 20:45:53 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

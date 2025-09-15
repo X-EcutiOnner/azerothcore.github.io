@@ -1,7 +1,7 @@
 var a27350 =
 [
-    [ "FilterTargets", "d4/d7c/a27350.html#a5ee420ce696d23d836ff6e9e1def6405", null ],
-    [ "HandleEffect", "d4/d7c/a27350.html#a064fdac9158e35f290b51ecf9bf537b1", null ],
-    [ "PrepareSpellScript", "d4/d7c/a27350.html#a53b5772c87574beb5b295c26fe983b76", null ],
-    [ "Register", "d4/d7c/a27350.html#a5e93d0d708d2304d9166c47ad285ada5", null ]
+    [ "npc_spirit_shadeAI", "d4/d7c/a27350.html#a8b7bf7c7cc541a47be79aad76a9bbcbc", null ],
+    [ "IsSummonedBy", "d4/d7c/a27350.html#a3a7fcb4af8e3b27e06b4665e8a864b38", null ],
+    [ "MovementInform", "d4/d7c/a27350.html#ab001fdc09efe9f8c03ad1b7610124e6d", null ],
+    [ "_summonerGuid", "d4/d7c/a27350.html#aa7c6abb848ab37f407a3553d04d0ad81", null ]
 ];

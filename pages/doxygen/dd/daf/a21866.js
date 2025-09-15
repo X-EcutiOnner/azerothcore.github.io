@@ -1,5 +1,6 @@
 var a21866 =
 [
-    [ "npc_mei_francis_mountAI", "dd/daf/a21866.html#aa9886ead02754faebff8b21eeb85dee6", null ],
-    [ "CanBeSeen", "dd/daf/a21866.html#ad5e33495339a0315bc7b01351810157e", null ]
+    [ "npc_mei_francis_mountAI", "da/d7c/a21870.html", "da/d7c/a21870" ],
+    [ "npc_mei_francis_mount", "dd/daf/a21866.html#ab34facb1d4d9a542710340493488eaa8", null ],
+    [ "GetAI", "dd/daf/a21866.html#ac1f14e0b94662432b399d6dfeb8a8107", null ]
 ];

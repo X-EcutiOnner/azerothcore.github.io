@@ -1,6 +1,8 @@
 var a23570 =
 [
-    [ "instance_steam_vault_InstanceMapScript", "d0/d0c/a23574.html", "d0/d0c/a23574" ],
-    [ "instance_steam_vault", "d9/d69/a23570.html#aa3417083841ccb50c8a2f29ba343e115", null ],
-    [ "GetInstanceScript", "d9/d69/a23570.html#a3a2edb84cc7067d3c8fa2151b4763c5a", null ]
+    [ "boss_mekgineer_steamrigger", "d9/d69/a23570.html#a930dcbade7135d0c689bcc0718815547", null ],
+    [ "JustDied", "d9/d69/a23570.html#a79272c233bc0256cca62700fc7a01421", null ],
+    [ "JustEngagedWith", "d9/d69/a23570.html#aa75dea00ffd73b45ba5115ea1e48a006", null ],
+    [ "JustSummoned", "d9/d69/a23570.html#a7a55a9dffaf239e73962356eb0fa88ad", null ],
+    [ "KilledUnit", "d9/d69/a23570.html#a84374438458cb7e034f91d4b65cd22f1", null ]
 ];

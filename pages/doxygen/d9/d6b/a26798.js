@@ -1,6 +1,8 @@
 var a26798 =
 [
-    [ "HandleRemove", "d9/d6b/a26798.html#a92eb5e02c8b165caa877d368a456e5b2", null ],
-    [ "PrepareAuraScript", "d9/d6b/a26798.html#a132193c0c13a2f89b9b29391d524023a", null ],
-    [ "Register", "d9/d6b/a26798.html#a246294a7b9a128a9ec464562846332fc", null ]
+    [ "HandleDummy", "d9/d6b/a26798.html#a308880cf9c61c76de0fdee05fff2b463", null ],
+    [ "Load", "d9/d6b/a26798.html#acafb9d6ac4fde694dc44cbf13b7f97ad", null ],
+    [ "PrepareSpellScript", "d9/d6b/a26798.html#a3a2672c39f36229c0dd6cdea0fad3299", null ],
+    [ "Register", "d9/d6b/a26798.html#a1857b342ae34a57f079f45019645c688", null ],
+    [ "Validate", "d9/d6b/a26798.html#a121c30045281eab5fee4f65d38d1dfc3", null ]
 ];

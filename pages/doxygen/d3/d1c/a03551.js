@@ -101,6 +101,7 @@ var a03551 =
       [ "CONDITION_QUEST_SATISFY_EXCLUSIVE", "d3/d1c/a03551.html#aab5835ceff4b64ce6db4148256e0a0f0ac9f53043e4eb0c7444027d755fbc8de8", null ],
       [ "CONDITION_HAS_AURA_TYPE", "d3/d1c/a03551.html#aab5835ceff4b64ce6db4148256e0a0f0afb548f8d3d725806dddda6728b1fde76", null ],
       [ "CONDITION_WORLD_SCRIPT", "d3/d1c/a03551.html#aab5835ceff4b64ce6db4148256e0a0f0a01b7b91ea994f8e304d9402772d4c74d", null ],
+      [ "CONDITION_AI_DATA", "d3/d1c/a03551.html#aab5835ceff4b64ce6db4148256e0a0f0a253b100542c4eab659d45953fa66d8af", null ],
       [ "CONDITION_AC_END", "d3/d1c/a03551.html#aab5835ceff4b64ce6db4148256e0a0f0add0ddf7c2278950223ec24a30a0a6ed9", null ]
     ] ],
     [ "InstanceInfo", "d3/d1c/a03551.html#a71c9edff7d630e15fff711b8eb0a130c", [

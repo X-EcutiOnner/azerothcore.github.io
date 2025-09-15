@@ -1,6 +1,6 @@
 var a23990 =
 [
-    [ "AfterRemove", "d1/daf/a23990.html#a1794dcf8ebca0bd0c4fce5acb8b45de0", null ],
-    [ "PrepareAuraScript", "d1/daf/a23990.html#ad5871ce865820456177362c6b790778f", null ],
-    [ "Register", "d1/daf/a23990.html#a41e19fb2509051bbd2d9e43c59f16486", null ]
+    [ "HandlePeriodic", "d1/daf/a23990.html#ad47e8edce33f9b923aa7bbfe8d0c082a", null ],
+    [ "PrepareAuraScript", "d1/daf/a23990.html#a2aa04c3c08ffc15b481b740d88a54918", null ],
+    [ "Register", "d1/daf/a23990.html#acf77c76f02671da215c7103b60ed77ac", null ]
 ];

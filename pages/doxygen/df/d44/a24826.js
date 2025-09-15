@@ -1,6 +1,6 @@
 var a24826 =
 [
-    [ "CalculateAmount", "df/d44/a24826.html#ada4514ba7769ebceeed1e0ab1c3a33e8", null ],
-    [ "PrepareAuraScript", "df/d44/a24826.html#a1faa084b17776e826242293e2aaef2f4", null ],
-    [ "Register", "df/d44/a24826.html#a94b21c91954385201d4bad6aff2205fc", null ]
+    [ "CheckTargets", "df/d44/a24826.html#abb6ffb41731b05b868f82498b373d8b9", null ],
+    [ "PrepareSpellScript", "df/d44/a24826.html#a4ce2790448bd39c19daf8caae7ef5a9d", null ],
+    [ "Register", "df/d44/a24826.html#aeefc7910c2960dbf3a49da6ed3c15523", null ]
 ];

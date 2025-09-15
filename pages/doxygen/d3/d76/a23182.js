@@ -1,7 +1,6 @@
 var a23182 =
 [
-    [ "Absorb", "d3/d76/a23182.html#a227cf7329d7dee564c3f8f9f67378ffe", null ],
-    [ "HandleEffectRemove", "d3/d76/a23182.html#a3d4026e5208acb948c089a4bedba0de8", null ],
-    [ "PrepareAuraScript", "d3/d76/a23182.html#af66dc1cba6aa7511c11a071ea9a381bb", null ],
-    [ "Register", "d3/d76/a23182.html#a983cf678001efcbccc4b34a9ad919881", null ]
+    [ "npc_supremus_punch_invisible_stalker", "d3/d76/a23182.html#add7d0e711ef02a16ef58d90cfc8ee733", null ],
+    [ "IsSummonedBy", "d3/d76/a23182.html#a467d5a43bb6d2349ad859a0ef7de4c00", null ],
+    [ "UpdateAI", "d3/d76/a23182.html#a90ecfe4257ef77a6d6a200a2f017c51a", null ]
 ];

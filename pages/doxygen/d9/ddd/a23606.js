@@ -1,8 +1,7 @@
 var a23606 =
 [
-    [ "boss_the_black_stalker", "d9/ddd/a23606.html#ac33519b374509cefe43b8e97701719ee", null ],
-    [ "JustEngagedWith", "d9/ddd/a23606.html#ad118347103ec463a09492e81dbd61418", null ],
-    [ "JustSummoned", "d9/ddd/a23606.html#a9e0299a99df83abb7de476a765b667b9", null ],
-    [ "SummonedCreatureDies", "d9/ddd/a23606.html#aede25dbe426ec26ccb0509eca0c9c6af", null ],
-    [ "UpdateAI", "d9/ddd/a23606.html#a441d3a7e3d9b98703f5870c4ddb4b88c", null ]
+    [ "npc_underbog_mushroom", "d9/ddd/a23606.html#a2b77b2590d46c14c783d2df4a3699c44", null ],
+    [ "InitializeAI", "d9/ddd/a23606.html#a7c192010cc63715eaa3f38b1d1372936", null ],
+    [ "UpdateAI", "d9/ddd/a23606.html#a9a8ed51b12809152ebe78dda69944d77", null ],
+    [ "_scheduler", "d9/ddd/a23606.html#a407cdb1096e5212dd0a50ea4fa401112", null ]
 ];

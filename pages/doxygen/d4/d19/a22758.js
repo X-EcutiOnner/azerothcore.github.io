@@ -1,5 +1,5 @@
 var a22758 =
 [
-    [ "OutdoorPvP_zangarmarsh", "d4/d19/a22758.html#ae287d5df21bf75efab6c651f4f3d875e", null ],
-    [ "GetOutdoorPvP", "d4/d19/a22758.html#a145ddfe383663ed3fb46960e39691f8f", null ]
+    [ "OutdoorPvP_terokkar_forest", "d4/d19/a22758.html#ac98a2b4c1dae9a8b75249eedeb7d8cb8", null ],
+    [ "GetOutdoorPvP", "d4/d19/a22758.html#acf268293812d7a1a233e7f1fcba1e733", null ]
 ];

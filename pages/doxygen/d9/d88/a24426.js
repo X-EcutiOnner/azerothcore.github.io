@@ -1,9 +1,6 @@
 var a24426 =
 [
-    [ "npc_enraged_spiritAI", "d9/d88/a24426.html#aa487c906c1c0d15dc7761c7288e7d3c6", null ],
-    [ "JustDied", "d9/d88/a24426.html#a9322622f679dbc311bd8983f5037bd2e", null ],
-    [ "JustEngagedWith", "d9/d88/a24426.html#a1d192d0dd563dc2735b23a171b2bf659", null ],
-    [ "Reset", "d9/d88/a24426.html#a2d56572acf042ba34f468f0ff3b0bd1a", null ],
-    [ "UpdateAI", "d9/d88/a24426.html#adc3d04d66f2b4de7a970f2cd5e476a2b", null ],
-    [ "_scheduler", "d9/d88/a24426.html#afa6825696b0622849f877b392df4b326", null ]
+    [ "npc_illidari_spawnAI", "d2/d25/a24430.html", "d2/d25/a24430" ],
+    [ "npc_illidari_spawn", "d9/d88/a24426.html#ac8dbb30fe7f40d29a3434c8a888ace60", null ],
+    [ "GetAI", "d9/d88/a24426.html#a7198f506b0d4fd55d22fc72a90f42a09", null ]
 ];

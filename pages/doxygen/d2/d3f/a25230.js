@@ -1,8 +1,7 @@
 var a25230 =
 [
-    [ "OnApply", "d2/d3f/a25230.html#a6aa83e925a93dc7ff89c0357debc75d1", null ],
-    [ "OnRemove", "d2/d3f/a25230.html#a3ced5941c25fce087699aa095cd487c9", null ],
-    [ "PrepareAuraScript", "d2/d3f/a25230.html#a497776c6ffdda8670fa255b76057bf2c", null ],
-    [ "Register", "d2/d3f/a25230.html#ac05f2898ebbb78bf55d70d8a660fb22d", null ],
-    [ "Validate", "d2/d3f/a25230.html#a44fc9ff07b9db5b2a1263d244916c79f", null ]
+    [ "HandleEffectApply", "d2/d3f/a25230.html#a2854357f92b1faac6e7840f1576138e0", null ],
+    [ "HandleEffectRemove", "d2/d3f/a25230.html#a7960ca4deb4ff61d04ea7fe7ec0f0471", null ],
+    [ "PrepareAuraScript", "d2/d3f/a25230.html#a2120cecbca61e4c7380892fe8d43772a", null ],
+    [ "Register", "d2/d3f/a25230.html#a98c71c0d4c4b0503e66ed2033946cb2e", null ]
 ];

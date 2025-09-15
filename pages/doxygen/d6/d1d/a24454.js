@@ -1,6 +1,9 @@
 var a24454 =
 [
-    [ "npc_shattrathflaskvendors", "d6/d1d/a24454.html#ab74b234406c2022bf519242a7842458a", null ],
-    [ "OnGossipHello", "d6/d1d/a24454.html#af165d6f4640b41a92b36d77c1f1c1161", null ],
-    [ "OnGossipSelect", "d6/d1d/a24454.html#ad9eb60422dfc663e6d020a630c09ee05", null ]
+    [ "npc_korkron_or_wildhammer", "d6/d1d/a24454.html#a3d2252865e0e540dd76aaf87ff62a83c", null ],
+    [ "IsSummonedBy", "d6/d1d/a24454.html#aa63e935c2d64716f22f4e74e43e6b639", null ],
+    [ "JustDied", "d6/d1d/a24454.html#a2b216f372b3681b4c96a711568c2a93b", null ],
+    [ "MovementInform", "d6/d1d/a24454.html#a598dada110aff99a3c36f3037dcf8bf4", null ],
+    [ "Reset", "d6/d1d/a24454.html#a67d5cf4a8418ab3f07a387f1021080df", null ],
+    [ "_playerGUID", "d6/d1d/a24454.html#a5f1a79c10b5363ee24b3941c54ff10d7", null ]
 ];

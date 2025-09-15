@@ -1,8 +1,5 @@
 var a29018 =
 [
-    [ "Color", "d3/d0f/a29018.html#a379e4cf61345dbb4d93da5a8603138c0", null ],
-    [ "NameIndex", "d3/d0f/a29018.html#add893e045d13a3633fd7346457a10477", null ],
-    [ "Position", "d3/d0f/a29018.html#afae9056582e71160c151de2c172bc60a", null ],
-    [ "Rotation", "d3/d0f/a29018.html#a48d372bc1371fa5f94db9aa39669942a", null ],
-    [ "Scale", "d3/d0f/a29018.html#aefacaaf0be0745c95ffc53f410da6e8d", null ]
+    [ "max", "d3/d0f/a29018.html#a3d87d5fa5e887282fa76a4a4b77eb097", null ],
+    [ "min", "d3/d0f/a29018.html#a7277258d8bdc471a007814fadf91780a", null ]
 ];

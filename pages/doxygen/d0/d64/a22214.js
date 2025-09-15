@@ -1,6 +1,9 @@
 var a22214 =
 [
-    [ "npc_plaguehound_trackerAI", "d0/d64/a22214.html#a7530f500b42ad9bb38593193d3113da8", null ],
-    [ "Reset", "d0/d64/a22214.html#a05c351ab3aca0cd18209405075bb0f47", null ],
-    [ "WaypointReached", "d0/d64/a22214.html#a67c345f49572cde76d9109a1baff6788", null ]
+    [ "npc_Apothecary_HanesAI", "d0/d64/a22214.html#a8e209b142a58b3b3c0d84c430a086ade", null ],
+    [ "JustDied", "d0/d64/a22214.html#a4c681936d8e7053ace5cdeeaa1ee5ca9", null ],
+    [ "Reset", "d0/d64/a22214.html#a23d54542e6debf39798c2a2d6e2a255d", null ],
+    [ "UpdateEscortAI", "d0/d64/a22214.html#ab54eb5115b9c41b39f0de0f8f4412ef9", null ],
+    [ "WaypointReached", "d0/d64/a22214.html#a7105ea4c83ddd0fd08c96a0b0ff40bd2", null ],
+    [ "PotTimer", "d0/d64/a22214.html#a252858818b61cf15e2e031ceaaadc6b8", null ]
 ];

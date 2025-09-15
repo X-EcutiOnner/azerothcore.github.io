@@ -1,10 +1,8 @@
 var a27718 =
 [
-    [ "npc_training_dummyAI", "de/dcb/a27718.html#a2f10fd0b4365e99446f728883a47eb6a", null ],
-    [ "DamageTaken", "de/dcb/a27718.html#a641c40906a6365f068ccbdba9d033923", null ],
-    [ "EnterEvadeMode", "de/dcb/a27718.html#adb1de124bdb2a986efcfcfc287b6d824", null ],
-    [ "MoveInLineOfSight", "de/dcb/a27718.html#a52f3516e9da6895eeddcdef7a198a6b1", null ],
-    [ "Reset", "de/dcb/a27718.html#af63f500cb3179964c90afab0d4a2c9b7", null ],
-    [ "UpdateAI", "de/dcb/a27718.html#a5e7892a64cd1a5cf678b401b62497bfb", null ],
-    [ "resetTimer", "de/dcb/a27718.html#a443f2f7de257af473d6e9793f34a2071", null ]
+    [ "npc_elder_clearwaterAI", "d2/d76/a27722.html", "d2/d76/a27722" ],
+    [ "npc_elder_clearwater", "de/dcb/a27718.html#abeee1650938a71762bb0c148ea9834d1", null ],
+    [ "GetAI", "de/dcb/a27718.html#a4ae2f507f61ee7cfc0c3b6d7dbfb7f04", null ],
+    [ "OnGossipHello", "de/dcb/a27718.html#aae382c0a386b8bacd39c6e7a586519e4", null ],
+    [ "OnQuestReward", "de/dcb/a27718.html#a2d316a2d2c892cecc134cea46b5bf2a8", null ]
 ];

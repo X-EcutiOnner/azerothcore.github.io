@@ -1,5 +1,5 @@
 var a28526 =
 [
-    [ "id", "d2/d51/a28526.html#a4667f55651f20c85f5b3da9384bac078", null ],
-    [ "QuestRewFactionValue", "d2/d51/a28526.html#a9a42feddeef8e054cd52b72cfc812867", null ]
+    [ "id", "d2/d51/a28526.html#a22e48015dd880199e131089e35b1ce05", null ],
+    [ "spellId", "d2/d51/a28526.html#a956d683b42f34eae3a1ea3f8882716fd", null ]
 ];

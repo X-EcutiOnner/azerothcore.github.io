@@ -1,7 +1,11 @@
 var a25466 =
 [
-    [ "HandleDummy", "d9/dd1/a25466.html#a704a2f1c36b32809b22bc3edc87b3414", null ],
-    [ "PrepareSpellScript", "d9/dd1/a25466.html#aad01f2888176e8a555fe7acd1bc3fd8b", null ],
-    [ "Register", "d9/dd1/a25466.html#ae12fa2b2f9859b465a64fbec04345c9e", null ],
-    [ "Validate", "d9/dd1/a25466.html#ad4bb369ef46122cd45c38d876884d350", null ]
+    [ "spell_gen_consume", "d9/dd1/a25466.html#a839f5e891cfbd0f83937f06c7fd049d4", null ],
+    [ "AfterRemove", "d9/dd1/a25466.html#ac521cc1524ddb9dd298145f23cc8fcd1", null ],
+    [ "HandleProc", "d9/dd1/a25466.html#af69251aa0415a2148162f32dd9113917", null ],
+    [ "PrepareAuraScript", "d9/dd1/a25466.html#a43860e5dcb2d2cb49e52c280d4f3c7e9", null ],
+    [ "Register", "d9/dd1/a25466.html#a043362a08bcf9cfe253dd23c722a60bc", null ],
+    [ "Validate", "d9/dd1/a25466.html#ae9b7c2f4a1b8f26a20b5ca6d90d3c5e9", null ],
+    [ "_spellId1", "d9/dd1/a25466.html#a9763527e0a95c52888847b84d8f1dd8d", null ],
+    [ "_spellId2", "d9/dd1/a25466.html#aa9b47c361eaad7dac4725e0be1bfe254", null ]
 ];

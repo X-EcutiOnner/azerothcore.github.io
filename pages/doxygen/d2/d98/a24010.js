@@ -1,6 +1,7 @@
 var a24010 =
 [
-    [ "npc_capernian", "d2/d98/a24010.html#a0acb568664c777797eeb7104f454699d", null ],
-    [ "AttackStart", "d2/d98/a24010.html#a81e89eacbae30a1229fda5e9fe924e2b", null ],
-    [ "ScheduleEvents", "d2/d98/a24010.html#a6bd26f5584a1c960b84b574abd723ad1", null ]
+    [ "OnApply", "d2/d98/a24010.html#abab02b8307b762d070ba12358f59916d", null ],
+    [ "OnRemove", "d2/d98/a24010.html#a5ac45a5cfa17689d241c44241216ff38", null ],
+    [ "PrepareAuraScript", "d2/d98/a24010.html#a54f128745c3c35d7e52e9de7bb69a39a", null ],
+    [ "Register", "d2/d98/a24010.html#ae130b3cddbe0d9ce21d888e21472d64b", null ]
 ];

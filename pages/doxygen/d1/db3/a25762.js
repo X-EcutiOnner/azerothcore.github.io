@@ -1,6 +1,6 @@
 var a25762 =
 [
-    [ "OnRemove", "d1/db3/a25762.html#adcdc87bcfb9aee5eaa227ba66ad5f010", null ],
-    [ "PrepareAuraScript", "d1/db3/a25762.html#a9b3985c6f2b1b88ab86ec38c8508fc16", null ],
-    [ "Register", "d1/db3/a25762.html#a0bc1dae33d0a780623f4551b1dfb1fbf", null ]
+    [ "HandleDummy", "d1/db3/a25762.html#aafc9efb0f8070566579724853a88ab03", null ],
+    [ "PrepareSpellScript", "d1/db3/a25762.html#a248c1203a4f15b2cd60afed9fa33cb59", null ],
+    [ "Register", "d1/db3/a25762.html#a362e2ab6921aaa0c10b70795a5eda0de", null ]
 ];

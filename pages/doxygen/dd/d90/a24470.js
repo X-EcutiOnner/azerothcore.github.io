@@ -1,5 +1,6 @@
 var a24470 =
 [
-    [ "npc_shattrath_daily_quest", "dd/d90/a24470.html#ab6aa71e4738fdce1b59d379249a868d5", null ],
-    [ "DoAction", "dd/d90/a24470.html#ac3e8c6de30ad7567fe5e52cd1ddfeb2c", null ]
+    [ "npc_shattrathflaskvendors", "dd/d90/a24470.html#ab74b234406c2022bf519242a7842458a", null ],
+    [ "OnGossipHello", "dd/d90/a24470.html#af165d6f4640b41a92b36d77c1f1c1161", null ],
+    [ "OnGossipSelect", "dd/d90/a24470.html#ad9eb60422dfc663e6d020a630c09ee05", null ]
 ];

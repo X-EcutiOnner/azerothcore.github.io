@@ -1,6 +1,7 @@
 var a27826 =
 [
-    [ "npc_fireworkAI", "d2/d16/a27830.html", "d2/d16/a27830" ],
-    [ "npc_firework", "d0/dd0/a27826.html#a9efb6ed098e4eb3e24c30393cb5cb45d", null ],
-    [ "GetAI", "d0/dd0/a27826.html#a9732f7b6eb8b3638bb6280ff7a71bcf7", null ]
+    [ "npc_wormholeAI", "d0/dd0/a27826.html#a75c28ce9bcbb5ef6fb4213d000d5596a", null ],
+    [ "GetData", "d0/dd0/a27826.html#ad4c9f2265f126c7f2b5538bab6b75cb3", null ],
+    [ "InitializeAI", "d0/dd0/a27826.html#aa0a903014ec7243036604ffcc67e0a36", null ],
+    [ "_showUnderground", "d0/dd0/a27826.html#a6a2fbf623b8fc55cfd48a12e2c515134", null ]
 ];

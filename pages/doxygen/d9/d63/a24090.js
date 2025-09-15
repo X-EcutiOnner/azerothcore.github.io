@@ -1,7 +1,6 @@
 var a24090 =
 [
-    [ "boss_gatewatcher_iron_hand", "d9/d63/a24090.html#aef70e713007af38b510f0a3b8c082b24", null ],
-    [ "JustDied", "d9/d63/a24090.html#a36b10cd02b35b6e106687b08bc80bfa6", null ],
-    [ "JustEngagedWith", "d9/d63/a24090.html#aa6a9f456d158e4c0332816c7e65ec155", null ],
-    [ "KilledUnit", "d9/d63/a24090.html#a1973142412b4094dbd9fa51600741148", null ]
+    [ "instance_the_eye_InstanceMapScript", "d2/d51/a24094.html", "d2/d51/a24094" ],
+    [ "instance_the_eye", "d9/d63/a24090.html#a685064ba70095a3fc27ae1a8b33d3c88", null ],
+    [ "GetInstanceScript", "d9/d63/a24090.html#a811c7d161469f33ce4fb7d792ce30a4e", null ]
 ];

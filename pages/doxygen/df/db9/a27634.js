@@ -1,7 +1,6 @@
 var a27634 =
 [
-    [ "npc_engineering_tele_trinket", "df/db9/a27634.html#ab891a8378a7b1b63151d05801b8b2fd1", null ],
-    [ "CanLearn", "df/db9/a27634.html#a8a35f1c09a9df609561e76f4ed578647", null ],
-    [ "OnGossipHello", "df/db9/a27634.html#ad11f576fb7efad0f6ea4cf22d3bc4e59", null ],
-    [ "OnGossipSelect", "df/db9/a27634.html#a4d7125cf0333d4e5ebc299019c8feb1a", null ]
+    [ "trigger_periodicAI", "de/d7c/a27638.html", "de/d7c/a27638" ],
+    [ "trigger_periodic", "df/db9/a27634.html#a3c947c5a3092eecb7288a8a50c76bd14", null ],
+    [ "GetAI", "df/db9/a27634.html#a179f3aa69fcd0b145f4ede9f830c1f38", null ]
 ];

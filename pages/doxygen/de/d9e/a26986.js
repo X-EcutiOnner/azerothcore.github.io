@@ -1,6 +1,11 @@
 var a26986 =
 [
-    [ "HandleScriptEffect", "de/d9e/a26986.html#a3f8988017d088d08df08ba8b696b552b", null ],
-    [ "PrepareSpellScript", "de/d9e/a26986.html#a56f5c59c7dc8d4f8117dc64d5a5a3a0b", null ],
-    [ "Register", "de/d9e/a26986.html#a4ebc3c83dd77134af2ee81a46b121d19", null ]
+    [ "CalcPeriodic", "de/d9e/a26986.html#aeb804ef41ec5600c18b5b1c9fcf37479", null ],
+    [ "CalculateAPAmount", "de/d9e/a26986.html#a72bd308dbeaa7eca5685f3e5055d7fad", null ],
+    [ "CalculateResistanceAmount", "de/d9e/a26986.html#a12a0f547198d150b0c51e481dd0ff6aa", null ],
+    [ "CalculateSPAmount", "de/d9e/a26986.html#a114c868f0dc31f3370588b1bd1f18894", null ],
+    [ "CalculateStatAmount", "de/d9e/a26986.html#ae7ba2e3eca6c93325ede8b100e32bd3c", null ],
+    [ "HandlePeriodic", "de/d9e/a26986.html#af5076795e8bf6abd45590a060f9e5b52", null ],
+    [ "PrepareAuraScript", "de/d9e/a26986.html#aa512873852c0eea9947472fcb60fbfc2", null ],
+    [ "Register", "de/d9e/a26986.html#a40ed4ca839b9783d9a8e9930f87a2eb8", null ]
 ];

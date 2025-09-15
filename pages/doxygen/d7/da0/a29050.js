@@ -1,9 +1,11 @@
 var a29050 =
 [
-    [ "go_tadpole_cageAI", "d7/da0/a29050.html#a87dc192a13cecf834d49cd04451224cd", null ],
-    [ "GossipHello", "d7/da0/a29050.html#a5c59db4b4d21b9e7de9bbb8835f31f2a", null ],
-    [ "OnStateChanged", "d7/da0/a29050.html#aa545ba4659b288c1ce1f5c2332d5e61f", null ],
-    [ "SummonTadpoles", "d7/da0/a29050.html#ab4903827c78b1b042cc17aef661a0b4f", null ],
-    [ "UpdateAI", "d7/da0/a29050.html#af6d4f5c3fe822815f58665a0207e3c32", null ],
-    [ "requireSummon", "d7/da0/a29050.html#a9884081855fc45776a6b12b9a68890e4", null ]
+    [ "material", "d7/da0/a29050.html#a7079e8817a9684602084eb224f2540fc", null ],
+    [ "pos_x", "d7/da0/a29050.html#ac4d971cc46506be14716124afbb5ad9c", null ],
+    [ "pos_y", "d7/da0/a29050.html#a6cd85f2a674d732e88371ffce5e46077", null ],
+    [ "pos_z", "d7/da0/a29050.html#a183ec8ec2d8d30726494c6b3d3b8606a", null ],
+    [ "xtiles", "d7/da0/a29050.html#aca34dfa64624cfe04c314c13bbed0062", null ],
+    [ "xverts", "d7/da0/a29050.html#aa5ad7ff660f7f0b5ddfd2d186496d928", null ],
+    [ "ytiles", "d7/da0/a29050.html#a9901a7e9828ac840bc290b0768831d66", null ],
+    [ "yverts", "d7/da0/a29050.html#abf24042b85692cd0df05d65d734dd99e", null ]
 ];

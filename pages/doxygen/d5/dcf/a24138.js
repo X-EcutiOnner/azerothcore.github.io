@@ -1,14 +1,11 @@
 var a24138 =
 [
-    [ "npc_deaths_door_fell_cannon_target_bunnyAI", "d5/dcf/a24138.html#a258f55153ad857fbf35545cfb87c3d3a", null ],
-    [ "Initialize", "d5/dcf/a24138.html#a187340b00067f2f65a7e48845a6edaba", null ],
-    [ "JustSummoned", "d5/dcf/a24138.html#a10a3b9b4a2763bac4c9fe5f680850052", null ],
-    [ "Reset", "d5/dcf/a24138.html#a92a6cbe0515752440284d18bae0adf66", null ],
-    [ "SpellHit", "d5/dcf/a24138.html#a517f7412208de83604d0d6806fbc0b34", null ],
-    [ "UpdateAI", "d5/dcf/a24138.html#ab4fb75f1b84c2722f936387a6942028b", null ],
-    [ "CannonGUID", "d5/dcf/a24138.html#a220e111467cfb6f02e996f012123e09b", null ],
-    [ "count", "d5/dcf/a24138.html#ac78f94033239dcf247be9a48d0535081", null ],
-    [ "events", "d5/dcf/a24138.html#acf362c9e3eb844db9f66cc8c969cd22e", null ],
-    [ "PartyTime", "d5/dcf/a24138.html#a1780c656fb539be6dcd74e271cea4c53", null ],
-    [ "PlayerGUID", "d5/dcf/a24138.html#a686314ffe4a588a1ba8722a6cab56fc7", null ]
+    [ "boss_pathaleon_the_calculator", "d5/dcf/a24138.html#a679dc3ccc23c6def44e0f0669822e146", null ],
+    [ "CanAIAttack", "d5/dcf/a24138.html#abcbb5f1236ebfbec680241ae8c5cbb00", null ],
+    [ "DoAction", "d5/dcf/a24138.html#a814cb56cc18277cb4adbd7dc8a82b06d", null ],
+    [ "JustDied", "d5/dcf/a24138.html#a0224d47bc85fe54c0cfded69b55e57b3", null ],
+    [ "JustEngagedWith", "d5/dcf/a24138.html#a3ba024e86ceb83ebb26afcc11a75791d", null ],
+    [ "KilledUnit", "d5/dcf/a24138.html#a899fd2e1e01ac1347e43bcb290babc5b", null ],
+    [ "Reset", "d5/dcf/a24138.html#adc48067c3656bf768c3013ff266565c0", null ],
+    [ "_isEnraged", "d5/dcf/a24138.html#ab875fb787d71eaf008b7267c81a2a4df", null ]
 ];

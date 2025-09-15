@@ -1,6 +1,5 @@
 var a23562 =
 [
-    [ "HandleAfterRemove", "d5/d49/a23562.html#a74610b06095572aa2c898cd84e0fb229", null ],
-    [ "PrepareAuraScript", "d5/d49/a23562.html#ac0d686490ff37810e0116dea4d0b6077", null ],
-    [ "Register", "d5/d49/a23562.html#aad72f4aaa19f92f7a71241311f5d0582", null ]
+    [ "at_quagmirran_lair", "d5/d49/a23562.html#a1f8cb1f59e7a179d9e4a987f716ab26f", null ],
+    [ "OnTrigger", "d5/d49/a23562.html#aa0aab42516efaf842923b8a820942ac4", null ]
 ];

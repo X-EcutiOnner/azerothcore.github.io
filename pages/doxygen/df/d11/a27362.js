@@ -1,8 +1,6 @@
 var a27362 =
 [
-    [ "FilterTargets", "df/d11/a27362.html#a53c6d73f3588e50c2be7ce68595a704c", null ],
-    [ "HandleEffect", "df/d11/a27362.html#a2edac19abf8aa765ada369e00cd7ea69", null ],
-    [ "PrepareSpellScript", "df/d11/a27362.html#ae1e1ff5456cb7c558ff4fe415de6a691", null ],
-    [ "Register", "df/d11/a27362.html#acb4d6abeb0e293728ae3dd0d248e0844", null ],
-    [ "Validate", "df/d11/a27362.html#aabc063155fad404ffd044c9f79b88051", null ]
+    [ "boss_taerarAI", "da/d84/a27366.html", "da/d84/a27366" ],
+    [ "boss_taerar", "df/d11/a27362.html#a100c1b80a50faf93088db870faa21b58", null ],
+    [ "GetAI", "df/d11/a27362.html#ae6615da6ee14c4f7cb3087b4ee5d6246", null ]
 ];

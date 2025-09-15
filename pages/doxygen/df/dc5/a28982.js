@@ -1,22 +1,13 @@
 var a28982 =
 [
-    [ "Vec2D", "df/dc5/a28982.html#a033bc75d6ed5790220ecb73391670c69", null ],
-    [ "Vec2D", "df/dc5/a28982.html#a9fcc28ff8ce75133e2df1977e484752d", null ],
-    [ "length", "df/dc5/a28982.html#a3a5d427abf67511628766f215542a691", null ],
-    [ "lengthSquared", "df/dc5/a28982.html#aa93a7bd272380f3ab14ace62a90bb628", null ],
-    [ "normalize", "df/dc5/a28982.html#a75ed774d1e92660f66c759be950f6320", null ],
-    [ "operator float *", "df/dc5/a28982.html#a94b617ea521632c36048445b5ed835ed", null ],
-    [ "operator*", "df/dc5/a28982.html#a3048ebc1d70a8aa8a63665a5f64bfc72", null ],
-    [ "operator*", "df/dc5/a28982.html#aef55118fd10700a28945da564dc79875", null ],
-    [ "operator*=", "df/dc5/a28982.html#a9ca3bbbdff0a35a4dfb9935b3bc07aa4", null ],
-    [ "operator+", "df/dc5/a28982.html#acd5750b1090398a34acda59a60aaf1cc", null ],
-    [ "operator+=", "df/dc5/a28982.html#a282fda3b9eb8d0dca4a781160ca9ab7c", null ],
-    [ "operator-", "df/dc5/a28982.html#ad66db7fcc2684dedb47d020c84320673", null ],
-    [ "operator-=", "df/dc5/a28982.html#a065c92a2f2b2b03c6a3dbc4ce136d82d", null ],
-    [ "operator=", "df/dc5/a28982.html#ad11003cd2e77b3fb8842c6d08a9015a6", null ],
-    [ "operator~", "df/dc5/a28982.html#a6c8e104846f04f9fb59a9e0a478ccc65", null ],
-    [ "operator*", "df/dc5/a28982.html#a660f31d3628356cb7d2aeb45e90da03b", null ],
-    [ "operator>>", "df/dc5/a28982.html#a4c343ad5d1c11513956aba01ba7568c3", null ],
-    [ "x", "df/dc5/a28982.html#a81c39278742b274ddb77c5e1366eb686", null ],
-    [ "y", "df/dc5/a28982.html#aef1e5692cc26e743df07eea6f52ad769", null ]
+    [ "liquidTris", "df/dc5/a28982.html#ad166656bfa449d3093cb23e7bef2cc76", null ],
+    [ "liquidType", "df/dc5/a28982.html#afbbb20fcb4e597c2addcc47893a33f92", null ],
+    [ "liquidVerts", "df/dc5/a28982.html#a52796933ab018f27d12f625673f7f8a9", null ],
+    [ "offMeshConnectionDirs", "df/dc5/a28982.html#a58350c36d5b88fe255880f6c217d4ef9", null ],
+    [ "offMeshConnectionRads", "df/dc5/a28982.html#a56bbdeb5028302de0c5eb5a02cffa44c", null ],
+    [ "offMeshConnections", "df/dc5/a28982.html#a706feac90bb398da61296bac9d0b7176", null ],
+    [ "offMeshConnectionsAreas", "df/dc5/a28982.html#af5af113433bb2776e6735195e57ab6f7", null ],
+    [ "offMeshConnectionsFlags", "df/dc5/a28982.html#a8c819b625f1bb0b21bb756144b2e1266", null ],
+    [ "solidTris", "df/dc5/a28982.html#adb04d376bfa182cf9666689e6c5a7c68", null ],
+    [ "solidVerts", "df/dc5/a28982.html#a915387c2cfa7111de4a957646a2aace4", null ]
 ];

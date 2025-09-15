@@ -1,13 +1,9 @@
 var a22670 =
 [
-    [ "OPvPCapturePointEP_EWT", "d7/de0/a22670.html#a3740f069c46f9d3f0e11d97663bc0104", null ],
-    [ "ChangeState", "d7/de0/a22670.html#ac00c50b89e1218f87506778096a9d7cd", null ],
-    [ "FillInitialWorldStates", "d7/de0/a22670.html#a7ce76f4fc8169c42f65267daf987a3b6", null ],
-    [ "HandlePlayerEnter", "d7/de0/a22670.html#aed78ccf9ad517b4a94431e3355cba1dd", null ],
-    [ "HandlePlayerLeave", "d7/de0/a22670.html#a2638b24dca375420778845963e307db3", null ],
-    [ "SendChangePhase", "d7/de0/a22670.html#a6d45df918aea00e9cb85a8940cb5c1c9", null ],
-    [ "SummonSupportUnitAtNorthpassTower", "d7/de0/a22670.html#ad70a8cc485072cd9af892290584062d8", null ],
-    [ "UpdateTowerState", "d7/de0/a22670.html#ac0bcdfb9f2aeabc78b72c3cce674c479", null ],
-    [ "m_TowerState", "d7/de0/a22670.html#aa30e9cc01476eb20b188c7a13a405c3a", null ],
-    [ "m_UnitsSummonedSideId", "d7/de0/a22670.html#a0319f0d51624df44419976e7abd1b813", null ]
+    [ "npc_crusade_recruitAI", "d7/de0/a22670.html#aa5d5e8cc4fe612fda84d971d9cee987f", null ],
+    [ "Reset", "d7/de0/a22670.html#a183360b99ecbd784b4dabbf5158f59d1", null ],
+    [ "sGossipSelect", "d7/de0/a22670.html#ab7bfdc4cc8c86645174ac154ee5db541", null ],
+    [ "UpdateAI", "d7/de0/a22670.html#a0b4dad62e1adf04013d8fbcefe310400", null ],
+    [ "_events", "d7/de0/a22670.html#a32060a04ba73fbf9ae2df8417e826ce9", null ],
+    [ "_heading", "d7/de0/a22670.html#a6e260a6e085962d54b765bff4cb17963", null ]
 ];

@@ -1,7 +1,12 @@
 var a24762 =
 [
-    [ "CheckCast", "da/deb/a24762.html#ab215bbeea333d250ecbff0482f4f0966", null ],
-    [ "FilterTargets", "da/deb/a24762.html#a6ee8387c7fed3fd3042852a2f542c5bd", null ],
-    [ "PrepareSpellScript", "da/deb/a24762.html#a83447d184bb2299987d0c54d5af4c910", null ],
-    [ "Register", "da/deb/a24762.html#a6107ba00471dd346c363db80fe81b698", null ]
+    [ "CheckTarget", "da/deb/a24762.html#a731aa2c0a2b67b8a15cab72ea2cb961a", null ],
+    [ "CheckTargets", "da/deb/a24762.html#a3b5bbef0c43a600387235822f3c6dbc7", null ],
+    [ "HandleCorpseExplosion", "da/deb/a24762.html#a201de2ee86d0cf954117df0e5343ee69", null ],
+    [ "HandleDamage", "da/deb/a24762.html#a810fc65eb5d7160366d63210bad9caea", null ],
+    [ "Load", "da/deb/a24762.html#a00b45e2f466de39c95251c2a38f6c3bd", null ],
+    [ "PrepareSpellScript", "da/deb/a24762.html#a4cae1673a840d8ec0d727b881a3616cf", null ],
+    [ "Register", "da/deb/a24762.html#a9e67ea51300569a0e163cb3e427b086e", null ],
+    [ "Validate", "da/deb/a24762.html#a93984e8b831cb4c37ec2726d44532d43", null ],
+    [ "_target", "da/deb/a24762.html#a5028b9d3166270b2b0557943e962eade", null ]
 ];

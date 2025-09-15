@@ -1,10 +1,6 @@
 var a27754 =
 [
-    [ "npc_dancing_flamesAI", "d3/d8d/a27754.html#a3d597b2ee826c86b5a8feb3aa144a459", null ],
-    [ "JustEngagedWith", "d3/d8d/a27754.html#ae0d71d4f9074c05ea76951ede6c7702a", null ],
-    [ "ReceiveEmote", "d3/d8d/a27754.html#a13aae489e8b03121c8fbae12e83bdfaa", null ],
-    [ "Reset", "d3/d8d/a27754.html#a53b49dadc70e3e134ca49cd239b569d6", null ],
-    [ "UpdateAI", "d3/d8d/a27754.html#a555f2ed0d762c5c183ec87580bae46b1", null ],
-    [ "Active", "d3/d8d/a27754.html#aa79036bed206327847bf5ad2e768e8f6", null ],
-    [ "CanIteract", "d3/d8d/a27754.html#a866bfc106fc33433b4eb13fabd9c39c6", null ]
+    [ "npc_air_force_botsAI", "d0/dab/a27758.html", "d0/dab/a27758" ],
+    [ "npc_air_force_bots", "d3/d8d/a27754.html#a00b8f274bde3260a113ea21e0f68cdf8", null ],
+    [ "GetAI", "d3/d8d/a27754.html#ae971e34d61b0f960d8f5940f9015523d", null ]
 ];

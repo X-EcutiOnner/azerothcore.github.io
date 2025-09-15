@@ -1,6 +1,6 @@
 var a22358 =
 [
-    [ "npc_mcmanus", "d1/d36/a22358.html#a4e9da3fa22b74f51f72c58cbf22dc683", null ],
-    [ "OnGossipHello", "d1/d36/a22358.html#acb8f8b9c10387c0bb45b7d68f7f9821f", null ],
-    [ "OnGossipSelect", "d1/d36/a22358.html#a5e8c37ebcfa737ee3066ab8df3e453f8", null ]
+    [ "HandleHealPct", "d1/d36/a22358.html#aa297ef88b58849610b1b3bfdb0142eab", null ],
+    [ "PrepareSpellScript", "d1/d36/a22358.html#a902b733a4b106439c49f8c80de8e9bf3", null ],
+    [ "Register", "d1/d36/a22358.html#a52f253d2a3b9b3890020107b7722ad96", null ]
 ];

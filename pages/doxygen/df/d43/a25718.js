@@ -1,7 +1,6 @@
 var a25718 =
 [
-    [ "HandleDummy", "df/d43/a25718.html#a5a82cbe58f57c94441cfda618e0eecca", null ],
-    [ "HandleScriptEffect", "df/d43/a25718.html#a30d760a8708b49a185eb000249a9a5eb", null ],
-    [ "PrepareSpellScript", "df/d43/a25718.html#a102d8493d285757c789cbba4a1bdc688", null ],
-    [ "Register", "df/d43/a25718.html#ab4031ddb745995128854c149f7706045", null ]
+    [ "HandleDummyTick", "df/d43/a25718.html#a000f8fd84e7292ac759b64a8a25d3ca2", null ],
+    [ "PrepareAuraScript", "df/d43/a25718.html#a2848e44f1520cc32af916a8e6578c3ea", null ],
+    [ "Register", "df/d43/a25718.html#a4a13827baeb7ed4f2681ab114d44eb37", null ]
 ];

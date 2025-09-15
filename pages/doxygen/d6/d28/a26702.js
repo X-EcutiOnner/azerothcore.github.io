@@ -1,6 +1,7 @@
 var a26702 =
 [
-    [ "ModDest", "d6/d28/a26702.html#ab03387aec0a02a6b3bac1014443554b6", null ],
-    [ "PrepareSpellScript", "d6/d28/a26702.html#a53f7da301759fb18686bc73281c4a321", null ],
-    [ "Register", "d6/d28/a26702.html#a266198fbc6203517f9845ef6212ddf13", null ]
+    [ "HandleDummy", "d6/d28/a26702.html#a2ea424e6c740305340001b1c09bfec91", null ],
+    [ "PrepareSpellScript", "d6/d28/a26702.html#afe722c970155b47eac94bb9861a4eb46", null ],
+    [ "Register", "d6/d28/a26702.html#a2c2b96f1c00da9884ec9d01fe897c8c1", null ],
+    [ "Validate", "d6/d28/a26702.html#ac5f782da8b5e387c31e048759baf3e16", null ]
 ];

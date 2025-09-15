@@ -1,8 +1,7 @@
 var a23654 =
 [
-    [ "ApplyStun", "d3/df4/a23654.html#a5a5b921dc45418485919e599e80f8ca8", null ],
-    [ "HandleScriptEffect", "d3/df4/a23654.html#a32619710179250a6a0b408856a888153", null ],
-    [ "PrepareSpellScript", "d3/df4/a23654.html#afb61d7dcc8ad52da4dcad3d7593f08ad", null ],
-    [ "Register", "d3/df4/a23654.html#aa753fd45caa1b515911d8fdf6fa78754", null ],
-    [ "Validate", "d3/df4/a23654.html#a66d91a87078c663903cd836344eec867", null ]
+    [ "OnApply", "d3/df4/a23654.html#a6189a5ea90b1951b21a7e9ef36700ed9", null ],
+    [ "PeriodicTick", "d3/df4/a23654.html#a1c79b1016361eabb5cef57a893bccfcf", null ],
+    [ "PrepareAuraScript", "d3/df4/a23654.html#acfa6b5217a0e0e2654b7fa9c4092abd5", null ],
+    [ "Register", "d3/df4/a23654.html#adddddd0689f4686a40b1db142b5d6ce2", null ]
 ];

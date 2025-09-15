@@ -1,6 +1,7 @@
 var a26406 =
 [
-    [ "HandleEffectScriptEffect", "d0/d5a/a26406.html#a852a621f0b008dc1294dbeb9e9877a04", null ],
-    [ "PrepareSpellScript", "d0/d5a/a26406.html#a8b0f656994289f260645a2ae60d9ee4b", null ],
-    [ "Register", "d0/d5a/a26406.html#a1fa4dca7bae36c5e2acde0fe8b8cd801", null ]
+    [ "HandleScriptEffect", "d0/d5a/a26406.html#ad3497a9c986f65978d4b2553b0c9958f", null ],
+    [ "Load", "d0/d5a/a26406.html#a33d46e5ebd418ea0242d958345cb44d2", null ],
+    [ "PrepareSpellScript", "d0/d5a/a26406.html#ade09cd376d00df8b5e709026e353f409", null ],
+    [ "Register", "d0/d5a/a26406.html#ad04bf0d88a3e1fde3c11b91d5ef1c7ae", null ]
 ];

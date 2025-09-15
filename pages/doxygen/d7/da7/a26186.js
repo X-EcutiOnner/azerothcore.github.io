@@ -1,5 +1,6 @@
 var a26186 =
 [
-    [ "Trigger", "d7/da7/a26186.html#aa16aba75a066e83cb56660a0e29e7453", null ],
-    [ "Validate", "d7/da7/a26186.html#a6c38df91dbe0cf277d1d50a40edd4589", null ]
+    [ "HandleDummy", "d7/da7/a26186.html#a4fde3142b38989cb37db76da6eada03c", null ],
+    [ "PrepareSpellScript", "d7/da7/a26186.html#aa694a1a7cbbe0f20226d7e616e19cefb", null ],
+    [ "Register", "d7/da7/a26186.html#a1f83fae2fb3dc0904ed56101e1254f5f", null ]
 ];

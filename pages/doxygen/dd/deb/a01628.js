@@ -1,15 +1,16 @@
 var a01628 =
 [
-    [ "npc_attracted_reef_bull", "d0/dfc/a22186.html", "d0/dfc/a22186" ],
-    [ "npc_attracted_reef_bull::npc_attracted_reef_bullAI", "de/d50/a22190.html", "de/d50/a22190" ],
-    [ "npc_your_inner_turmoil", "da/dbe/a22194.html", "da/dbe/a22194" ],
-    [ "npc_your_inner_turmoil::npc_your_inner_turmoilAI", "d8/d61/a22198.html", "d8/d61/a22198" ],
-    [ "npc_apothecary_hanes", "d6/db4/a22202.html", "d6/db4/a22202" ],
-    [ "npc_apothecary_hanes::npc_Apothecary_HanesAI", "df/da6/a22206.html", "df/da6/a22206" ],
-    [ "npc_plaguehound_tracker", "d3/d7e/a22210.html", "d3/d7e/a22210" ],
-    [ "npc_plaguehound_tracker::npc_plaguehound_trackerAI", "d0/d64/a22214.html", "d0/d64/a22214" ],
-    [ "npc_razael_and_lyana", "dd/d9b/a22218.html", "dd/d9b/a22218" ],
-    [ "spell_hawk_hunting", "d2/da7/a22222.html", "d2/da7/a22222" ],
+    [ "npc_attracted_reef_bull", "da/dbe/a22194.html", "da/dbe/a22194" ],
+    [ "npc_attracted_reef_bull::npc_attracted_reef_bullAI", "d8/d61/a22198.html", "d8/d61/a22198" ],
+    [ "npc_your_inner_turmoil", "d6/db4/a22202.html", "d6/db4/a22202" ],
+    [ "npc_your_inner_turmoil::npc_your_inner_turmoilAI", "df/da6/a22206.html", "df/da6/a22206" ],
+    [ "npc_apothecary_hanes", "d3/d7e/a22210.html", "d3/d7e/a22210" ],
+    [ "npc_apothecary_hanes::npc_Apothecary_HanesAI", "d0/d64/a22214.html", "d0/d64/a22214" ],
+    [ "npc_plaguehound_tracker", "dd/d9b/a22218.html", "dd/d9b/a22218" ],
+    [ "npc_plaguehound_tracker::npc_plaguehound_trackerAI", "d2/da7/a22222.html", "d2/da7/a22222" ],
+    [ "npc_razael_and_lyana", "dd/ddd/a22226.html", "dd/ddd/a22226" ],
+    [ "npc_rodin_lightning_enabler", "de/da4/a22230.html", "de/da4/a22230" ],
+    [ "spell_hawk_hunting", "dd/dfb/a22234.html", "dd/dfb/a22234" ],
     [ "Entries", "dd/deb/a01628.html#a06de533fb3e7ec530f0493022ad98889", [
       [ "NPC_APOTHECARY_HANES", "dd/deb/a01628.html#a06de533fb3e7ec530f0493022ad98889acf2750295b6eec6dd126edd3e314b704", null ],
       [ "NPC_HANES_FIRE_TRIGGER", "dd/deb/a01628.html#a06de533fb3e7ec530f0493022ad98889a1d184f3197ea2249507f226925f86d51", null ],
@@ -28,6 +29,11 @@ var a01628 =
       [ "GOSSIP_TEXTID_RAZAEL2", "dd/deb/a01628.html#a7fbd4804d568fc6fbf46da35d3c3ffbca313a7629a69c0bf528e79730249c4d51", null ],
       [ "GOSSIP_TEXTID_LYANA1", "dd/deb/a01628.html#a7fbd4804d568fc6fbf46da35d3c3ffbca141f525bef4cf496e2f8aaf8cfa2799b", null ],
       [ "GOSSIP_TEXTID_LYANA2", "dd/deb/a01628.html#a7fbd4804d568fc6fbf46da35d3c3ffbca43caf287e871cac2d4a7d2e821727377", null ]
+    ] ],
+    [ "RodinLightningSpells", "dd/deb/a01628.html#a80e7ba946308fea1c6de5c21365652f3", [
+      [ "SPELL_RODIN_LIGHTNING_START", "dd/deb/a01628.html#a80e7ba946308fea1c6de5c21365652f3a7fbdcf0c94df64ba932ea4666d375a4c", null ],
+      [ "SPELL_RODIN_LIGHTNING_END", "dd/deb/a01628.html#a80e7ba946308fea1c6de5c21365652f3ab99cec97c6cf09d8ae5863d97e4c1632", null ],
+      [ "NPC_RODIN", "dd/deb/a01628.html#a80e7ba946308fea1c6de5c21365652f3adc9bd59249c9654d416ff92475586895", null ]
     ] ],
     [ "TurmoilTexts", "dd/deb/a01628.html#ae01e16ebe34a24a598f4b4fb26dbf919", [
       [ "SAY_TURMOIL_0", "dd/deb/a01628.html#ae01e16ebe34a24a598f4b4fb26dbf919a942b14a6948f52ce8970c678198ca200", null ],

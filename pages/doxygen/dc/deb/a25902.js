@@ -1,7 +1,7 @@
 var a25902 =
 [
-    [ "HandleDummy", "dc/deb/a25902.html#ae1f9429b4e5b8965c65f246e03efbaf0", null ],
-    [ "PrepareSpellScript", "dc/deb/a25902.html#abde4e8528f1af9a595fb32741e397397", null ],
-    [ "Register", "dc/deb/a25902.html#a3f10fa7accb675d36560ef5bb6ccb84e", null ],
-    [ "Validate", "dc/deb/a25902.html#af1658e856195d22042de5beab1eec212", null ]
+    [ "HandleDummy", "dc/deb/a25902.html#a7a8016e1403caa0432242c5c3240f107", null ],
+    [ "PrepareSpellScript", "dc/deb/a25902.html#ae2d2de36cceb037006eb4126f8e1778c", null ],
+    [ "Register", "dc/deb/a25902.html#abd09f5df3f31af619f24214f90791a53", null ],
+    [ "Validate", "dc/deb/a25902.html#ab14aedfdb61d54334f60e57968fcf081", null ]
 ];

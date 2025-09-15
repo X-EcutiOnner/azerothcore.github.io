@@ -1,6 +1,6 @@
 var a27578 =
 [
-    [ "guard_shattrath_aldorAI", "d9/d75/a27582.html", "d9/d75/a27582" ],
-    [ "guard_shattrath_aldor", "d4/dc5/a27578.html#ab965295d9c3828ad814f658670b5f185", null ],
-    [ "GetAI", "d4/dc5/a27578.html#a3459a6a85c7e7286e3cbdd7f56fee704", null ]
+    [ "go_bellsAI", "d9/d75/a27582.html", "d9/d75/a27582" ],
+    [ "go_bells", "d4/dc5/a27578.html#a9f40a13aa1aaee28ebd1254d428c0519", null ],
+    [ "GetAI", "d4/dc5/a27578.html#a4f1272fb8856310d7924f8e7be1e39f8", null ]
 ];

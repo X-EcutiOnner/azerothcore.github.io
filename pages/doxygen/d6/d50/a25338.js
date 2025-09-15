@@ -1,11 +1,9 @@
 var a25338 =
 [
-    [ "GetPennatSpellId", "d6/d50/a25338.html#a1e327a79ce90cf7ebbec644ed15ff67f", null ],
-    [ "HandleApplyEffect", "d6/d50/a25338.html#a396c05708a89758e4038b327e09c65e8", null ],
-    [ "HandleRemoveEffect", "d6/d50/a25338.html#adf6fd3d2a36e1ff115b5c5109d37b7a4", null ],
-    [ "Load", "d6/d50/a25338.html#afc83ecf02a1702d48fb39d60419bdbf1", null ],
-    [ "PrepareAuraScript", "d6/d50/a25338.html#a0230d694e9325d7ac6ac6526ecb5a0e3", null ],
-    [ "Register", "d6/d50/a25338.html#a46782a9dfb8ee2100be00afb6aa8b9a7", null ],
-    [ "Validate", "d6/d50/a25338.html#a095b002671940f2b3504ae2646f76d5a", null ],
-    [ "_pennantSpellId", "d6/d50/a25338.html#a092f0d88ede12dea699b39d5df04131c", null ]
+    [ "PrepareAuraScript", "d6/d50/a25338.html#aebfc1dfb1ff025b0ef4a8c0062a000f1", null ],
+    [ "RefreshVisualShields", "d6/d50/a25338.html#aeefbbdd391c347b350ec7738b9825f8c", null ],
+    [ "Register", "d6/d50/a25338.html#aacd9f12cddd0c698816916d9cdf5f0ea", null ],
+    [ "RemoveDummyFromDriver", "d6/d50/a25338.html#a399641ce72b74038a4517868267bd86a", null ],
+    [ "RemoveVisualShields", "d6/d50/a25338.html#aed4bb9ec815ac4e22b952a64c8bd3b51", null ],
+    [ "Validate", "d6/d50/a25338.html#ae5799f72b7fbce82799fd730f1525948", null ]
 ];

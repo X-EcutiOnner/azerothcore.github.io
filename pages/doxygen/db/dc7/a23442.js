@@ -1,6 +1,6 @@
 var a23442 =
 [
-    [ "HandleApplyAura", "db/dc7/a23442.html#a4fde347d339f08cd01e2a47883d4b988", null ],
-    [ "PrepareSpellScript", "db/dc7/a23442.html#ab22bd56638a6adc8d111250780221cb9", null ],
-    [ "Register", "db/dc7/a23442.html#a1dd967ad59159faf694b8e0bfcd369ac", null ]
+    [ "instance_serpentshrine_cavern_InstanceMapScript", "d4/d67/a23446.html", "d4/d67/a23446" ],
+    [ "instance_serpent_shrine", "db/dc7/a23442.html#aac4fc7113307805138ba4ce4a9adff09", null ],
+    [ "GetInstanceScript", "db/dc7/a23442.html#aa81add2f4aeb8b2084bcc81c05b606c7", null ]
 ];

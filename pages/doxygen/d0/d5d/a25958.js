@@ -1,6 +1,8 @@
 var a25958 =
 [
-    [ "CheckSinkholes", "d0/d5d/a25958.html#a5c363144cde9e809d97730f54873fe85", null ],
-    [ "PrepareSpellScript", "d0/d5d/a25958.html#a0cd1fc05ee319b04299fcebe3a405bb4", null ],
-    [ "Register", "d0/d5d/a25958.html#a6694fbf58b776b74df0a54cd96141688", null ]
+    [ "OnRemove", "d0/d5d/a25958.html#a645e869079e711a87f1a957b42a35e98", null ],
+    [ "OnStackChange", "d0/d5d/a25958.html#adea8a4a7140e2f9fd4a44ef2a7b4d85b", null ],
+    [ "PrepareAuraScript", "d0/d5d/a25958.html#a5f9e9d07879705917e1cd261808f0a8f", null ],
+    [ "Register", "d0/d5d/a25958.html#ac86068a892255e38244c487a7456cd9f", null ],
+    [ "Validate", "d0/d5d/a25958.html#a74cb62725d939000a1c4ab32b4f4335f", null ]
 ];

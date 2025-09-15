@@ -1,7 +1,7 @@
 var a25350 =
 [
-    [ "PrepareSpellScript", "d8/d76/a25350.html#aad8061898087fbf5eb6527cbaa70927d", null ],
-    [ "RecalculateDamage", "d8/d76/a25350.html#a6f03ccb77ce43c4e36996ae344780ee3", null ],
-    [ "Register", "d8/d76/a25350.html#abc7e406244a1a5ea9d7c3d8feb10b8ae", null ],
-    [ "_damagePct", "d8/d76/a25350.html#a3ab5f5ec279f30dda50fa3ca3f5e6715", null ]
+    [ "CheckIfLanceEquipped", "d8/d76/a25350.html#aae1fe4d0329b7a2db5e4f2a28e3f04c5", null ],
+    [ "PrepareSpellScript", "d8/d76/a25350.html#a2af9ee2ccd34c97734c58bfcbb83c8b5", null ],
+    [ "Register", "d8/d76/a25350.html#a4421ceaedce16777f8f04b9c40855782", null ],
+    [ "Validate", "d8/d76/a25350.html#ab0908d7a15e7554c735d8e5554f7cd65", null ]
 ];

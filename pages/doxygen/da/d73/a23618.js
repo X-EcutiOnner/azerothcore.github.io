@@ -1,7 +1,12 @@
 var a23618 =
 [
-    [ "HandleScript", "da/d73/a23618.html#a359ccbdf47c9b6a1df23e6f775d5ffa8", null ],
-    [ "PrepareSpellScript", "da/d73/a23618.html#ac1193881ad39e7ea7cb1f8f1b6627c60", null ],
-    [ "Register", "da/d73/a23618.html#afb83fdd384a430e572a7959f81cdf2cb", null ],
-    [ "Validate", "da/d73/a23618.html#af8587f9dff4b71b7cce8ec6d70f94927", null ]
+    [ "boss_swamplord_muselek", "da/d73/a23618.html#a94ca982b8b9c1785a59040d23e72fc0e", null ],
+    [ "AttackStart", "da/d73/a23618.html#a0732fdf14c972ae955eb43417a6d86a1", null ],
+    [ "CanShootVictim", "da/d73/a23618.html#af84af5e4b344fc5f5da9f2047519710a", null ],
+    [ "JustDied", "da/d73/a23618.html#a4020748c43bf03cb338e3d64a1dfd840", null ],
+    [ "JustEngagedWith", "da/d73/a23618.html#a7b22bff5b78dcd1e5e1cc42858735655", null ],
+    [ "KilledUnit", "da/d73/a23618.html#a9f2afd6aacb9befa956079a42fbace37", null ],
+    [ "Reset", "da/d73/a23618.html#a6e03d7feca2de668c82d8f056d95fc6a", null ],
+    [ "_canChase", "da/d73/a23618.html#aca3298f0e9bbbd7366f4e6456cfff621", null ],
+    [ "_markTarget", "da/d73/a23618.html#a957d3f9ad935dbfa0537c75e39316ce3", null ]
 ];

@@ -231,11 +231,11 @@ var namespaces_dup =
       [ "PlayerNameMap", "d6/d2e/a04845.html#aa8fcdd0ac947e92edddddd4e2daf61dd", null ]
     ] ],
     [ "PlayerSettingsStore", "d4/d06/a04843.html", [
-      [ "LoadPlayerSettings", "d4/d06/a04843.html#aeeeef0d082814c49edeabefa39fb10b7", null ],
+      [ "LoadPlayerSettings", "d4/d06/a04843.html#a070b072e62079e512137662a87d710f6", null ],
       [ "ParseSettingsData", "d4/d06/a04843.html#aeaa79bb46d98ab2f4f5f3674d52f6745", null ],
-      [ "PrepareReplaceStatement", "d4/d06/a04843.html#a50a2948284069e6a28f5f61561e6695c", null ],
+      [ "PrepareReplaceStatement", "d4/d06/a04843.html#a0d5c2c2c4a1dede6bfb6e9fb0763b641", null ],
       [ "SerializeSettingsData", "d4/d06/a04843.html#a2e2d73056f0c30ed8b22419fed1c3d6a", null ],
-      [ "UpdateSetting", "d4/d06/a04843.html#aaf1d54a7292b560b6d26c7a0332482e0", null ]
+      [ "UpdateSetting", "d4/d06/a04843.html#ab725e991f09f03e0413ffe44fa807ead", null ]
     ] ],
     [ "std", "df/dcf/a04842.html", "df/dcf/a04842" ],
     [ "VMAP", "d5/dc9/a04804.html", "d5/dc9/a04804" ],

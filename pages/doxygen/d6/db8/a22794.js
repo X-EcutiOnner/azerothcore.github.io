@@ -1,6 +1,12 @@
 var a22794 =
 [
-    [ "instance_auchenai_crypts_InstanceMapScript", "d7/dd0/a22798.html", "d7/dd0/a22798" ],
-    [ "instance_auchenai_crypts", "d6/db8/a22794.html#a8b16924167c54a9d8120bac67bc10fed", null ],
-    [ "GetInstanceScript", "d6/db8/a22794.html#a99e47df95fde07d4a6e7687634805b93", null ]
+    [ "boss_exarch_maladaar", "d6/db8/a22794.html#a5dac68e3dc6fc37736bf85b84eadd417", null ],
+    [ "JustDied", "d6/db8/a22794.html#ab1179a19af8948d430559db4074c41ed", null ],
+    [ "JustEngagedWith", "d6/db8/a22794.html#a69427e7a0ca70253ad8035b5e6b1e01e", null ],
+    [ "JustSummoned", "d6/db8/a22794.html#a8f59e1b093af8c85da8c2fd38e01ca1b", null ],
+    [ "KilledUnit", "d6/db8/a22794.html#adf35cb8b039676500d4040baa08b0d48", null ],
+    [ "MoveInLineOfSight", "d6/db8/a22794.html#a14baacd30b9186c7492c981313421d5b", null ],
+    [ "Reset", "d6/db8/a22794.html#accb21d3c4a6856d2de9641cf84c42ce9", null ],
+    [ "UpdateAI", "d6/db8/a22794.html#a7646c4477135d3d3b8580432902babd4", null ],
+    [ "_talked", "d6/db8/a22794.html#a15c4f122529b9f52823ea407c43433c5", null ]
 ];

@@ -1,7 +1,7 @@
 var a24166 =
 [
-    [ "npc_daranelleAI", "de/dc6/a24166.html#a49eeff6e0aea079a0375a92074227d12", null ],
-    [ "JustEngagedWith", "de/dc6/a24166.html#aeff39dfd84986186057cdaf7632eed4f", null ],
-    [ "MoveInLineOfSight", "de/dc6/a24166.html#a353e27c1485b88f0751a64260898d35b", null ],
-    [ "Reset", "de/dc6/a24166.html#a33b2fbec775257e3ba0bebe37fb86349", null ]
+    [ "OnPeriodic", "de/dc6/a24166.html#a7ef787ac13b97aa225a5340f7bfcc4e3", null ],
+    [ "PrepareAuraScript", "de/dc6/a24166.html#a6f7db06cc1ace68ee0076077773b1659", null ],
+    [ "Register", "de/dc6/a24166.html#a559347bedad9fd8a0e6f4c5b14333c06", null ],
+    [ "Validate", "de/dc6/a24166.html#aae1c2d5b8eb30341a67e261e69a4d294", null ]
 ];

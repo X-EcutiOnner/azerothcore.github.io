@@ -1,6 +1,6 @@
 var a00740 =
 [
-    [ "npc_pet_hunter_snake_trap", "d5/da0/a24614.html", "d5/da0/a24614" ],
+    [ "npc_pet_hunter_snake_trap", "dc/db1/a24630.html", "dc/db1/a24630" ],
     [ "HunterSpells", "dc/dce/a00740.html#a87efb4c7cf60464c813daf57f8006a7e", [
       [ "SPELL_HUNTER_CRIPPLING_POISON", "dc/dce/a00740.html#a87efb4c7cf60464c813daf57f8006a7ea919b3819273ed109abc5ff9e1f17f280", null ],
       [ "SPELL_HUNTER_DEADLY_POISON_PASSIVE", "dc/dce/a00740.html#a87efb4c7cf60464c813daf57f8006a7ead1a8eca1edbd63099142576708bdcdbf", null ],

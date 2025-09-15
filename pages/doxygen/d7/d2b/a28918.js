@@ -1,9 +1,13 @@
 var a28918 =
 [
-    [ "adtData", "dd/d77/a28926.html", "dd/d77/a28926" ],
-    [ "prepareLoadedData", "d7/d2b/a28918.html#a6b755c9e341918d05105d993391429c6", null ],
-    [ "adt_list", "d7/d2b/a28918.html#abe28c39e8856412c4fb182baab3218f0", null ],
-    [ "fcc", "d7/d2b/a28918.html#ac8ee92a1747e31385cbfadaea16c267f", null ],
-    [ "fcc_txt", "d7/d2b/a28918.html#a0657c323732de8d83b9c360c1dd03b61", null ],
-    [ "size", "d7/d2b/a28918.html#a797c02773dd470a318474c7ef033ba7c", null ]
+    [ "MPQArchive", "d7/d2b/a28918.html#a58d57322334966ca16a22e52e5198d9f", null ],
+    [ "~MPQArchive", "d7/d2b/a28918.html#a5bce22525ca16381fbb4729540a165e2", null ],
+    [ "MPQArchive", "d7/d2b/a28918.html#a58d57322334966ca16a22e52e5198d9f", null ],
+    [ "~MPQArchive", "d7/d2b/a28918.html#a5bce22525ca16381fbb4729540a165e2", null ],
+    [ "close", "d7/d2b/a28918.html#ac40182c8e52d70aa1f53325f1b48f259", null ],
+    [ "close", "d7/d2b/a28918.html#ac40182c8e52d70aa1f53325f1b48f259", null ],
+    [ "GetFileListTo", "d7/d2b/a28918.html#ab91bd82370a1ebcf6b46fc3047188640", null ],
+    [ "GetFileListTo", "d7/d2b/a28918.html#ab91bd82370a1ebcf6b46fc3047188640", null ],
+    [ "isOpened", "d7/d2b/a28918.html#a2026335b9ede29197acfaac8513456d5", null ],
+    [ "mpq_a", "d7/d2b/a28918.html#a72b9fb96b1e3db6c7be652e426978b4a", null ]
 ];

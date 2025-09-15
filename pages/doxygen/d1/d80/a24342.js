@@ -1,6 +1,7 @@
 var a24342 =
 [
-    [ "npc_infernal_attackerAI", "da/d0b/a24346.html", "da/d0b/a24346" ],
-    [ "npc_infernal_attacker", "d1/d80/a24342.html#ac6fbfcf8fc918b48d6b9416a71cfe3fa", null ],
-    [ "GetAI", "d1/d80/a24342.html#ad1d9186c186de36efbe102a07fe89de4", null ]
+    [ "HandleScriptEffect", "d1/d80/a24342.html#ad018d907a85ee31d3194823a4c02a1a5", null ],
+    [ "PrepareSpellScript", "d1/d80/a24342.html#a50b6bc43eaeee0ec760c02ac1685454e", null ],
+    [ "Register", "d1/d80/a24342.html#a2096673a3f57cc224aeb7d3ce84526cb", null ],
+    [ "Validate", "d1/d80/a24342.html#a5209de3456c374010502a94f67ff4544", null ]
 ];

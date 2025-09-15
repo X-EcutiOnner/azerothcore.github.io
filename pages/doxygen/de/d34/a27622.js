@@ -1,6 +1,5 @@
 var a27622 =
 [
-    [ "npc_innkeeper", "de/d34/a27622.html#a006f27d898ead8827d8b98d8b93d430d", null ],
-    [ "OnGossipHello", "de/d34/a27622.html#ae65c5cd7d3e270b2e50f80c0e12a72ff", null ],
-    [ "OnGossipSelect", "de/d34/a27622.html#ab6cf511f5b032050336a77d1e4598dda", null ]
+    [ "item_petrov_cluster_bombs", "de/d34/a27622.html#a1a76760f7c4617a40d96b9833e7466df", null ],
+    [ "OnUse", "de/d34/a27622.html#a14e8a00a532b5aebc8469ff538848f53", null ]
 ];

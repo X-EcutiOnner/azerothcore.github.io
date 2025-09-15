@@ -1,8 +1,8 @@
 var a26446 =
 [
-    [ "AfterCheckProc", "d8/d44/a26446.html#ad817bc9b07538434956bf64ea1dd0367", null ],
-    [ "HandleProc", "d8/d44/a26446.html#af972e6ed5524dadd618d6cd907c0241b", null ],
-    [ "PrepareAuraScript", "d8/d44/a26446.html#a0fbc28d9a524b6dff6783077ecd0b3b9", null ],
-    [ "Register", "d8/d44/a26446.html#a2cab6b2b0ff567fca6530fa4d917aec1", null ],
-    [ "Validate", "d8/d44/a26446.html#aa15febbd22621da12b567fc429917bf0", null ]
+    [ "HandleApplyEffect", "d8/d44/a26446.html#a50102ae92f44fd7c2bd9afc3fec5a291", null ],
+    [ "Load", "d8/d44/a26446.html#ab6ba9d68b968ae41ee9c9869df686f02", null ],
+    [ "PrepareAuraScript", "d8/d44/a26446.html#a6e212284f72320356cfa2f0c2a59999d", null ],
+    [ "Register", "d8/d44/a26446.html#afcdd6cc19b59b5e6aa0cfdb9189edc99", null ],
+    [ "Validate", "d8/d44/a26446.html#a985a52f71371443454d6dd36f7fe83b2", null ]
 ];

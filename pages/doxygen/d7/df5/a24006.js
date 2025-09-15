@@ -1,5 +1,6 @@
 var a24006 =
 [
-    [ "npc_lord_sanguinar", "d7/df5/a24006.html#aa5ec2023d72561fe9cf062a2ba5a5469", null ],
-    [ "ScheduleEvents", "d7/df5/a24006.html#af9231da98547875527a519c5884cbec0", null ]
+    [ "AfterRemove", "d7/df5/a24006.html#a1794dcf8ebca0bd0c4fce5acb8b45de0", null ],
+    [ "PrepareAuraScript", "d7/df5/a24006.html#ad5871ce865820456177362c6b790778f", null ],
+    [ "Register", "d7/df5/a24006.html#a41e19fb2509051bbd2d9e43c59f16486", null ]
 ];

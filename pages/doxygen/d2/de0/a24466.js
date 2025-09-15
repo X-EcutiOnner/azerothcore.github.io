@@ -1,7 +1,15 @@
 var a24466 =
 [
-    [ "npc_kservantAI", "d2/de0/a24466.html#a0687712690f2bacd24da1c94d222e761", null ],
-    [ "IsSummonedBy", "d2/de0/a24466.html#a6aa9c1544fffdd9916eda7a0941dc828", null ],
-    [ "Reset", "d2/de0/a24466.html#a0756ffacb97c83a3028afc620b32f349", null ],
-    [ "WaypointReached", "d2/de0/a24466.html#a577a2ebb91c08bfe2e09bc67eeebb4ef", null ]
+    [ "dragonmaw_race_npc", "d2/de0/a24466.html#ad93bcd14a4fd05c9e8a1aee4dd53d4aa", null ],
+    [ "FailQuest", "d2/de0/a24466.html#a15a1223f9dc5d3979485a753687f169e", null ],
+    [ "FinishRace", "d2/de0/a24466.html#a2439f54aca4ff28c23d351245099a4fc", null ],
+    [ "MovementInform", "d2/de0/a24466.html#ad0b4ef357605a44a4188c29292303dcf", null ],
+    [ "PathEndReached", "d2/de0/a24466.html#a6b93a5fb6beb8e8b886f6bf8bb58d3d2", null ],
+    [ "Reset", "d2/de0/a24466.html#a0edde2bdb8d4d2204551ebc7a7c41fe9", null ],
+    [ "sQuestAccept", "d2/de0/a24466.html#a539fcaf1dc25a34531d032032c19182e", null ],
+    [ "StartRace", "d2/de0/a24466.html#ac7d20cb0f2a997d2306195da5c9004e8", null ],
+    [ "StartRaceAttacks", "d2/de0/a24466.html#a341528843b89a29711f60a1b932da616", null ],
+    [ "TakeOff", "d2/de0/a24466.html#a8b14aeb1e67059a159f42aad578ccbfb", null ],
+    [ "UpdateAI", "d2/de0/a24466.html#a5d84467b3fa0c3eefcf7054d0dde472c", null ],
+    [ "_playerGUID", "d2/de0/a24466.html#a8a172511afed700d5c0fa1d5de4cb379", null ]
 ];

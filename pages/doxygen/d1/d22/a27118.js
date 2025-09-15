@@ -1,7 +1,6 @@
 var a27118 =
 [
-    [ "OnProc", "d1/d22/a27118.html#a7ab183d734c543be2866c57f1e5cc508", null ],
-    [ "PrepareAuraScript", "d1/d22/a27118.html#a31118cda9f29318f4620caf38c09522a", null ],
-    [ "Register", "d1/d22/a27118.html#ac27f99aafa92ae85a247c6f25ece8c7b", null ],
-    [ "Validate", "d1/d22/a27118.html#aa193bddd2ba9efe70343c5501d737fa4", null ]
+    [ "HandleRemove", "d1/d22/a27118.html#a0ac8fe6a39ae00e50f219bf02c26f1a4", null ],
+    [ "PrepareAuraScript", "d1/d22/a27118.html#a0517fe77f15e1b9cf6153ed2aaf9cee8", null ],
+    [ "Register", "d1/d22/a27118.html#ac968ede75fd5d98ba9a10dc9f6bdbb85", null ]
 ];

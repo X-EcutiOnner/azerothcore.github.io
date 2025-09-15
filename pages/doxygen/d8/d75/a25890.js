@@ -1,6 +1,6 @@
 var a25890 =
 [
-    [ "HandleScript", "d8/d75/a25890.html#ab923050ce4613538ee4837daba09dd33", null ],
-    [ "PrepareSpellScript", "d8/d75/a25890.html#a9fa37b95f9c3788764922f4414c383f5", null ],
-    [ "Register", "d8/d75/a25890.html#a4bacedda40b04934e7473f7a92f6a314", null ]
+    [ "FilterTargets", "d8/d75/a25890.html#abe299fbad07f800e90b1614ec661c185", null ],
+    [ "PrepareSpellScript", "d8/d75/a25890.html#a53bae2b6575436705adff74caf9225b7", null ],
+    [ "Register", "d8/d75/a25890.html#a35fd5a1c8ab2400940da2d9f8f3ce9c2", null ]
 ];

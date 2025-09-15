@@ -1,6 +1,6 @@
 var a23390 =
 [
-    [ "OnPeriodic", "d3/d15/a23390.html#adfd5a3a6d9c16cd6acdb1f24e7874f20", null ],
-    [ "PrepareAuraScript", "d3/d15/a23390.html#a8444053fa146a4163ea905634be78dfc", null ],
-    [ "Register", "d3/d15/a23390.html#aad8868dc3d00fd3ea648abe7b536970d", null ]
+    [ "HandleScriptEffect", "d3/d15/a23390.html#a18fb2e73a00f1de7c62049eadfcbc658", null ],
+    [ "PrepareSpellScript", "d3/d15/a23390.html#ae80b4ca96692035c399d1621b632fe66", null ],
+    [ "Register", "d3/d15/a23390.html#ac655157c74104a51f045e114fc63a42d", null ]
 ];

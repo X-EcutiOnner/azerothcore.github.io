@@ -1,8 +1,10 @@
 var a28338 =
 [
-    [ "difficulty", "da/d0b/a28338.html#a2a04df701c13dc49053b09a9587a72a8", null ],
-    [ "encounterIndex", "da/d0b/a28338.html#a3d35560824a3aaeecb8db4bf8628ebfd", null ],
-    [ "encounterName", "da/d0b/a28338.html#af4f26f56526b945e392ddaf6b2d43fa1", null ],
-    [ "id", "da/d0b/a28338.html#aa9828ccc644a11f9cb35fbcc7d31a827", null ],
-    [ "mapId", "da/d0b/a28338.html#a61c1ac724c8eb96907d2ea9402a8f9ce", null ]
+    [ "HasFlag", "da/d0b/a28338.html#abe23ca5437589a38ea57bc93a6197911", null ],
+    [ "CollisionHeight", "da/d0b/a28338.html#afd7385ab3dd949ebe230e0a01cec7158", null ],
+    [ "CollisionWidth", "da/d0b/a28338.html#ab79497759cf169348b8922301fc43b2f", null ],
+    [ "Flags", "da/d0b/a28338.html#a3bb96e232124771e78f8b5db53405106", null ],
+    [ "Id", "da/d0b/a28338.html#aa19fec147703c7542be260c8ec5a0446", null ],
+    [ "MountHeight", "da/d0b/a28338.html#a5300334ce02dd5a3b9ea6796eddb7ced", null ],
+    [ "Scale", "da/d0b/a28338.html#a08d8be1d2dbc9eb67e1f631650ea74da", null ]
 ];

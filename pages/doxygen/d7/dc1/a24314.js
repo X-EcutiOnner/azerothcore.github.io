@@ -1,6 +1,7 @@
 var a24314 =
 [
-    [ "CheckCast", "d7/dc1/a24314.html#ae13cc2d3da1c9911c88402d05679d447", null ],
-    [ "PrepareSpellScript", "d7/dc1/a24314.html#afbed81273aa23d355c64579c71e9761d", null ],
-    [ "Register", "d7/dc1/a24314.html#a7157d04dfc534aa3cb88e8dff169c676", null ]
+    [ "npc_bessyAI", "d9/d97/a24318.html", "d9/d97/a24318" ],
+    [ "npc_bessy", "d7/dc1/a24314.html#a08278c1524445054ca158433044a0824", null ],
+    [ "GetAI", "d7/dc1/a24314.html#af805bc5ee3de2fd6773158e51bf09d4a", null ],
+    [ "OnQuestAccept", "d7/dc1/a24314.html#a98b8e816195b81bab12cc9906df79807", null ]
 ];

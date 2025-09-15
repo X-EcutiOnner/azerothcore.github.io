@@ -1,6 +1,6 @@
 var a26090 =
 [
-    [ "CheckProc", "dc/d58/a26090.html#a1da9fe2fa918a8f92a53de8eee9d1830", null ],
-    [ "PrepareAuraScript", "dc/d58/a26090.html#a3fa05a39b003805f405d814214f4366e", null ],
-    [ "Register", "dc/d58/a26090.html#a9b7f633b60dd7798b8f2f85d14c26ca2", null ]
+    [ "PrepareSpellScript", "dc/d58/a26090.html#a738e105a48f6c603f3d9a690f44b8745", null ],
+    [ "Register", "dc/d58/a26090.html#a6bc9791d0f08440e19b89daa9b65892c", null ],
+    [ "SetDest", "dc/d58/a26090.html#a59641895cead08de4a4503262505ee73", null ]
 ];

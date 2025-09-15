@@ -1,5 +1,5 @@
 var a27514 =
 [
-    [ "go_scourge_cage", "d2/d29/a27514.html#a76dfa458a52c950fbc0a86412e1ad490", null ],
-    [ "OnGossipHello", "d2/d29/a27514.html#ab4e97cd290342d623d212cc7cec227d5", null ]
+    [ "go_southfury_moonstone", "d2/d29/a27514.html#aed27e57e8232e156177c293ad0c0b4bb", null ],
+    [ "OnGossipHello", "d2/d29/a27514.html#a4c0870f0e03708f1fdc073abadbe5de8", null ]
 ];

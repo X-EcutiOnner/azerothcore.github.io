@@ -1,13 +1,12 @@
 var a23314 =
 [
-    [ "boss_fathomguard_caribdis", "df/da3/a23314.html#a9172b9717e5137ddde7df38bb237478c", null ],
-    [ "EnterEvadeMode", "df/da3/a23314.html#aa666a491a776b12a042ee140aedc95eb", null ],
-    [ "JustDied", "df/da3/a23314.html#ab821365b35a48f70a11c6033fe2ca714", null ],
-    [ "JustEngagedWith", "df/da3/a23314.html#a5503519998f51f475420ada2210f32f0", null ],
-    [ "JustSummoned", "df/da3/a23314.html#a39ca45ec0de50b7d7a5ec866c4017a8a", null ],
-    [ "Reset", "df/da3/a23314.html#a0d2a3403d5934e86a897b3417ed2214a", null ],
-    [ "UpdateAI", "df/da3/a23314.html#af4a544f37d178de21d84f2544f24431e", null ],
-    [ "_instance", "df/da3/a23314.html#a73f567f2269aeca1435af82e1c6880e9", null ],
-    [ "_scheduler", "df/da3/a23314.html#a08b01e9735e421d8d5bbc2b552217762", null ],
-    [ "_summons", "df/da3/a23314.html#ac8b53cb81547a2423a13c997badb77e3", null ]
+    [ "boss_fathomlord_karathress", "df/da3/a23314.html#a05c483ea61011926c260b43f6c01cac3", null ],
+    [ "DoAction", "df/da3/a23314.html#adc5685244341e353c6dac67b0191d877", null ],
+    [ "JustDied", "df/da3/a23314.html#a4c356359be50b626a28fab4a803386f8", null ],
+    [ "JustEngagedWith", "df/da3/a23314.html#ae221d994f2ebb0a298288233727ea1ba", null ],
+    [ "JustReachedHome", "df/da3/a23314.html#a1e03da049ad75a464de5dd15ac5e6d88", null ],
+    [ "JustSummoned", "df/da3/a23314.html#a3a692ef94d555e991a7cd34dee9812d9", null ],
+    [ "KilledUnit", "df/da3/a23314.html#a02812a3cc7de22348058dedd107bb6d0", null ],
+    [ "Reset", "df/da3/a23314.html#a52f76cb43a32c5f59cbc7476f0df8646", null ],
+    [ "_recentlySpoken", "df/da3/a23314.html#a81f52ead90284ca3598cd64eb9fb88ee", null ]
 ];

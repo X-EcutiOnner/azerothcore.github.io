@@ -1,5 +1,5 @@
 var a23546 =
 [
-    [ "at_quagmirran_lair", "dd/d8e/a23546.html#a1f8cb1f59e7a179d9e4a987f716ab26f", null ],
-    [ "OnTrigger", "dd/d8e/a23546.html#aa0aab42516efaf842923b8a820942ac4", null ]
+    [ "boss_quagmirran", "dd/d8e/a23546.html#a7f6289b86216b052f434a1417023e22c", null ],
+    [ "JustEngagedWith", "dd/d8e/a23546.html#a28253b6653bd2e26e7f246c71a88b625", null ]
 ];

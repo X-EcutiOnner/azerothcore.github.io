@@ -1,13 +1,8 @@
 var a22678 =
 [
-    [ "OPvPCapturePointEP_CGT", "d3/d3d/a22678.html#a82d8e9bff56eed1870b098dcf21f77cd", null ],
-    [ "ChangeState", "d3/d3d/a22678.html#ab9d32c9a60bbdca9fc54d7e0b2bf8a5d", null ],
-    [ "FillInitialWorldStates", "d3/d3d/a22678.html#ae7d57fe449bb38de013b18ecf2f9f07c", null ],
-    [ "HandlePlayerEnter", "d3/d3d/a22678.html#a48cb29473f25ed9b469c7ff54acc9d88", null ],
-    [ "HandlePlayerLeave", "d3/d3d/a22678.html#ad1886046ecf8c382e1fd0e01d6394614", null ],
-    [ "LinkGraveyard", "d3/d3d/a22678.html#ada14179a31fb6235b7882a190dc96c40", null ],
-    [ "SendChangePhase", "d3/d3d/a22678.html#a30d9f8701dd6a78740f7df0d2c7ceb9d", null ],
-    [ "UpdateTowerState", "d3/d3d/a22678.html#a764284d6143d4879b5bc003acc52048c", null ],
-    [ "m_GraveyardSide", "d3/d3d/a22678.html#aaf1f8440dc891ed45857bb7d15149d9a", null ],
-    [ "m_TowerState", "d3/d3d/a22678.html#a6f434f86ed97f88368e3194a3bc3183b", null ]
+    [ "HandleApply", "d3/d3d/a22678.html#ad8ee9a50314c900b1507e25eaa70ece7", null ],
+    [ "HandleRemove", "d3/d3d/a22678.html#a06c7c65d973fcf348f5c929503902520", null ],
+    [ "PrepareAuraScript", "d3/d3d/a22678.html#a48b20c0f1997acd0f9f0800bf4b63bd0", null ],
+    [ "Register", "d3/d3d/a22678.html#a7018a16262b94a573405e1bdc9fbdd10", null ],
+    [ "Validate", "d3/d3d/a22678.html#a8135c492638557eec71189282e7f78a2", null ]
 ];

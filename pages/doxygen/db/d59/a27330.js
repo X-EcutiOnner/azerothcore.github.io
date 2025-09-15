@@ -1,7 +1,6 @@
 var a27330 =
 [
-    [ "npc_spirit_shadeAI", "db/d59/a27330.html#a8b7bf7c7cc541a47be79aad76a9bbcbc", null ],
-    [ "IsSummonedBy", "db/d59/a27330.html#a3a7fcb4af8e3b27e06b4665e8a864b38", null ],
-    [ "MovementInform", "db/d59/a27330.html#ab001fdc09efe9f8c03ad1b7610124e6d", null ],
-    [ "_summonerGuid", "db/d59/a27330.html#aa7c6abb848ab37f407a3553d04d0ad81", null ]
+    [ "boss_ysondreAI", "d2/da4/a27334.html", "d2/da4/a27334" ],
+    [ "boss_ysondre", "db/d59/a27330.html#ad12dbb728f4f0cdf2f4c0ba9cd2a167d", null ],
+    [ "GetAI", "db/d59/a27330.html#a0da215d7bc8ee86216887e682b9335c3", null ]
 ];

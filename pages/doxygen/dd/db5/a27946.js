@@ -1,5 +1,7 @@
 var a27946 =
 [
-    [ "go_transport_the_iron_eagle", "dd/db5/a27946.html#aba17edc2e3ac8e1b9996116c6f9bdc6f", null ],
-    [ "EventInform", "dd/db5/a27946.html#af1970d07730ab0e5f688200289f48b69", null ]
+    [ "HandleDummy", "dd/db5/a27946.html#ade9ff4db63fecf726776f6e4b36bb437", null ],
+    [ "PrepareSpellScript", "dd/db5/a27946.html#a0375b541f2a90e337fee61ced6d8f3ec", null ],
+    [ "Register", "dd/db5/a27946.html#a66c530b497e4952b457bbfa50a036c07", null ],
+    [ "Validate", "dd/db5/a27946.html#a968333dcfe0553ad73879f3042db5511", null ]
 ];

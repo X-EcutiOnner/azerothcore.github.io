@@ -1,5 +1,5 @@
 var a23582 =
 [
-    [ "at_underbog_ghazan", "d6/d19/a23582.html#aa6c74496bb30bf04e66ac3cd06110811", null ],
-    [ "_OnTrigger", "d6/d19/a23582.html#aff03fc0bbded7bf7fa68d0c736bfaff2", null ]
+    [ "go_main_chambers_access_panel", "d6/d19/a23582.html#a30c3c20be1892b5107ef53683d593b75", null ],
+    [ "OnGossipHello", "d6/d19/a23582.html#af4b3a4a0260de68dcfac7202e0a728ee", null ]
 ];

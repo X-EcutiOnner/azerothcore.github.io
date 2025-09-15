@@ -1,6 +1,6 @@
 var a26242 =
 [
-    [ "CheckProc", "dd/deb/a26242.html#a5b8ee53249a19954e4d46b17422207d5", null ],
-    [ "PrepareAuraScript", "dd/deb/a26242.html#a2640f58f3e7442c37615b61ecf938a6f", null ],
-    [ "Register", "dd/deb/a26242.html#a55be2362ac226caa615e07a2a3b5ea38", null ]
+    [ "CalculateAmount", "dd/deb/a26242.html#a3491a0a1d2f00f76730ddc53a66c8179", null ],
+    [ "PrepareAuraScript", "dd/deb/a26242.html#a667883298cee173af941cfc07022f318", null ],
+    [ "Register", "dd/deb/a26242.html#a22514461b79f736e3ab595fa7fb48b68", null ]
 ];

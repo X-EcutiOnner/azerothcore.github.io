@@ -1,7 +1,5 @@
 var a24194 =
 [
-    [ "HandleEffect", "d9/df7/a24194.html#acb353dbdd050bfc6aa4b4b5f6433dc03", null ],
-    [ "PrepareSpellScript", "d9/df7/a24194.html#ad95bc33917e1aa968eedc636f6e3ddcb", null ],
-    [ "Register", "d9/df7/a24194.html#ac2b2bd2581a638553167d5c8099a70cd", null ],
-    [ "Validate", "d9/df7/a24194.html#a7702b0e876ab5ccd750d1072ee70ed69", null ]
+    [ "go_simon_cluster", "d9/df7/a24194.html#adac53a8451abd6ace227a66afc7e61e8", null ],
+    [ "OnGossipHello", "d9/df7/a24194.html#a9fd9799604de44c91803511c45b67786", null ]
 ];

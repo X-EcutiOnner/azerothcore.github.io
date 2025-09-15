@@ -1,7 +1,7 @@
 var a27806 =
 [
-    [ "npc_wormholeAI", "dc/d04/a27806.html#a75c28ce9bcbb5ef6fb4213d000d5596a", null ],
-    [ "GetData", "dc/d04/a27806.html#ad4c9f2265f126c7f2b5538bab6b75cb3", null ],
-    [ "InitializeAI", "dc/d04/a27806.html#aa0a903014ec7243036604ffcc67e0a36", null ],
-    [ "_showUnderground", "dc/d04/a27806.html#a6a2fbf623b8fc55cfd48a12e2c515134", null ]
+    [ "npc_guardianAI", "dc/d04/a27806.html#acc5d29a79e57fc023369c0dcd4b0d2a3", null ],
+    [ "JustEngagedWith", "dc/d04/a27806.html#a50257f80245bc59437e53083badcb056", null ],
+    [ "Reset", "dc/d04/a27806.html#a217df9bae079f56ffd70d27958fb2756", null ],
+    [ "UpdateAI", "dc/d04/a27806.html#ab42c39f088ef819a5ffb5f9f4ba2c3a3", null ]
 ];

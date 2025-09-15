@@ -1,6 +1,6 @@
 var a24690 =
 [
-    [ "PrepareSpellScript", "d1/d36/a24690.html#a6c49fad4dc5d080b9a5550f8f30cae4d", null ],
-    [ "RecalculateDamage", "d1/d36/a24690.html#ab6a781160532d7cbb3bb3304eb412514", null ],
-    [ "Register", "d1/d36/a24690.html#a82395d00066e90abc58103b18a5ef4dc", null ]
+    [ "HandleSummon", "d1/d36/a24690.html#a00e265d830ea3e8a0a1952984c438071", null ],
+    [ "PrepareSpellScript", "d1/d36/a24690.html#a96df13b19964b6e89babb312465b90bc", null ],
+    [ "Register", "d1/d36/a24690.html#a5341e4ddf1b1ef94099c337114164ba8", null ]
 ];

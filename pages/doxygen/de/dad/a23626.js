@@ -1,6 +1,7 @@
 var a23626 =
 [
-    [ "instance_the_underbog_InstanceMapScript", "da/d01/a23630.html", "da/d01/a23630" ],
-    [ "instance_the_underbog", "de/dad/a23626.html#afaf8740a3e367a1a54eaa3e76ffa483e", null ],
-    [ "GetInstanceScript", "de/dad/a23626.html#ace939fb7fd89e7c9c84c17d3ca31208b", null ]
+    [ "HandleScript", "de/dad/a23626.html#a7c1b4d0c8d2ad153cef62ce05fef814c", null ],
+    [ "PrepareSpellScript", "de/dad/a23626.html#ab826f4f249679ffe87f9e6ccf6b9ecf0", null ],
+    [ "Register", "de/dad/a23626.html#a82da72fd4eed6773c1f3a4288caa8963", null ],
+    [ "Validate", "de/dad/a23626.html#a46aca18049e02d50f57579b3fdc705bd", null ]
 ];

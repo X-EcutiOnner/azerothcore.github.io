@@ -1,7 +1,9 @@
 var a27034 =
 [
-    [ "HandleRemove", "d2/dda/a27034.html#a0f5a3e4d75dbb5c699ea1acbf89db318", null ],
-    [ "PrepareAuraScript", "d2/dda/a27034.html#a9e153c86e29a17b0cc20c65c635aa070", null ],
-    [ "Register", "d2/dda/a27034.html#a338ee9c0eddd309ce2a791160059bad6", null ],
-    [ "Validate", "d2/dda/a27034.html#ae8272b65a070fc959af003f701567c3c", null ]
+    [ "CheckCast", "d2/dda/a27034.html#a846862b62f5750801cd804133f290d5d", null ],
+    [ "HandleDummy", "d2/dda/a27034.html#aa56609d3c75a69fb62e302622fd11c3c", null ],
+    [ "Load", "d2/dda/a27034.html#acec7437ba80e4ae491020448a36e4559", null ],
+    [ "PrepareSpellScript", "d2/dda/a27034.html#ab5e281028c009a4b317111de9a0a17e3", null ],
+    [ "Register", "d2/dda/a27034.html#a865fa526f2131703a668e113ba0d7849", null ],
+    [ "Validate", "d2/dda/a27034.html#a6c6dee3de2c54536765cfdd97f4fd0c0", null ]
 ];

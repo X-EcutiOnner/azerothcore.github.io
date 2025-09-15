@@ -1,6 +1,6 @@
 var a25930 =
 [
-    [ "HandleProc", "d2/ddc/a25930.html#aa333d52d905e722554d8d61c4b9cb656", null ],
-    [ "PrepareAuraScript", "d2/ddc/a25930.html#aac4320b061d627e4ffef737d2e858ef3", null ],
-    [ "Register", "d2/ddc/a25930.html#ad58fea9afa6a3596437a324ec525982e", null ]
+    [ "HandleScript", "d2/ddc/a25930.html#a382dd0eb5ebc2f5da70561eaaf1f8d3d", null ],
+    [ "PrepareSpellScript", "d2/ddc/a25930.html#a4f0f4d29231ef1976d726b66f6277ca8", null ],
+    [ "Register", "d2/ddc/a25930.html#ad75843039e582b64da28b4818f48aeb3", null ]
 ];

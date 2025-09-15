@@ -1,9 +1,6 @@
 var a26770 =
 [
-    [ "CheckCast", "de/dbc/a26770.html#a9af89d5ffaa73747acb55e7dee681d03", null ],
-    [ "FilterTargets", "de/dbc/a26770.html#aa33f9d87325271bb264ba190ebb5cfa0", null ],
-    [ "HandleDummy", "de/dbc/a26770.html#a3c076ab3ccf1f0be81a7ab067327a589", null ],
-    [ "PrepareSpellScript", "de/dbc/a26770.html#a9c992e732b525e29f684947398d20efb", null ],
-    [ "Register", "de/dbc/a26770.html#abbea3ee39cbdf91518031c088e2e2ed9", null ],
-    [ "Validate", "de/dbc/a26770.html#abca1e5aa46e7753588c8120090775195", null ]
+    [ "CheckProc", "de/dbc/a26770.html#a4e40a3472a7dde5aaa1d6d4cda54482a", null ],
+    [ "PrepareAuraScript", "de/dbc/a26770.html#af15109e926eb717c3f3cb2f7f617428c", null ],
+    [ "Register", "de/dbc/a26770.html#aee35ceec1ffcdebf5bd712310bdf9f1c", null ]
 ];

@@ -1,9 +1,10 @@
 var a22098 =
 [
-    [ "npc_mrfloppyAI", "d3/d5a/a22098.html#a2994e5658035bb2cfe6f3cdab4c507fc", null ],
-    [ "EnterEvadeMode", "d3/d5a/a22098.html#af0f11f715cac553c772c0dca7e5e3a22", null ],
-    [ "JustEngagedWith", "d3/d5a/a22098.html#a490bf07de00cc5c59b5f0024317d8125", null ],
-    [ "MoveInLineOfSight", "d3/d5a/a22098.html#af0b376c5f10b6cb43f3bb63376012a0d", null ],
-    [ "Reset", "d3/d5a/a22098.html#ac2dc6204b0579e1aaf7e670f0fcb4ec5", null ],
-    [ "UpdateAI", "d3/d5a/a22098.html#afad6db1ccd903fd18192f832a10a32f4", null ]
+    [ "npc_emilyAI", "d3/d5a/a22098.html#afd1e82e36c8850fbe118ab6abbdb73ce", null ],
+    [ "JustEngagedWith", "d3/d5a/a22098.html#a498ddc6969d398fe7a44824f4f8c8893", null ],
+    [ "JustSummoned", "d3/d5a/a22098.html#a4730c94b54d2ee5160011557704b35f2", null ],
+    [ "Reset", "d3/d5a/a22098.html#a8f196a6e1b21bef162b7ba4d7aeae208", null ],
+    [ "WaypointReached", "d3/d5a/a22098.html#a0a68676a6eac8fbe2b634098268eb516", null ],
+    [ "_mrfloppyGUID", "d3/d5a/a22098.html#a12a1fbe1ef4767698ab969e51e2f0e8e", null ],
+    [ "_RavenousworgGUID", "d3/d5a/a22098.html#aa2a5e45366be9f89221453e00179e1a3", null ]
 ];

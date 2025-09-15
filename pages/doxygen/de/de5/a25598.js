@@ -1,7 +1,8 @@
 var a25598 =
 [
-    [ "HandleDummy", "de/de5/a25598.html#a5b25d03bb22995e1ba9deb7eec4ee35a", null ],
-    [ "Load", "de/de5/a25598.html#a833d9abe12cb4fff1700b97bc7215c1d", null ],
-    [ "PrepareSpellScript", "de/de5/a25598.html#a547b3f71f9fc502dc589ad7b9b6f3cc2", null ],
-    [ "Register", "de/de5/a25598.html#ae7d502253b0c47921e40da4aa87b0eef", null ]
+    [ "CheckProc", "de/de5/a25598.html#a2b0ff2594877249d0bdb4656fa67b83f", null ],
+    [ "HandleProc", "de/de5/a25598.html#ac1aebc16e7944ac3f8305d9ff27bc998", null ],
+    [ "PrepareAuraScript", "de/de5/a25598.html#a19557020af9ca276f72c1d3e4ba8b27b", null ],
+    [ "Register", "de/de5/a25598.html#a43f7bb634cb165fab5e2187256f50c3f", null ],
+    [ "Validate", "de/de5/a25598.html#a7762ce25775b98dba14b4ac465cad711", null ]
 ];

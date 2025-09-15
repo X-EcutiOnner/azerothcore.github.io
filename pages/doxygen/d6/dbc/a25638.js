@@ -1,8 +1,6 @@
 var a25638 =
 [
-    [ "HandleFinish", "d6/dbc/a25638.html#aac1981a16cbb61bfaf20c865bcfaf6a8", null ],
-    [ "PrepareSpellScript", "d6/dbc/a25638.html#a73865997890d4f58cc09d54c2c4e5243", null ],
-    [ "Register", "d6/dbc/a25638.html#a106cf5d53956b66f8f548caceda41dc8", null ],
-    [ "SelectTarget", "d6/dbc/a25638.html#ab33513df20e942ba354932df5082efa8", null ],
-    [ "_target", "d6/dbc/a25638.html#af25d11fc93423ee6e1678ebb5dcf1276", null ]
+    [ "OnRemove", "d6/dbc/a25638.html#ac3a6d7bdc95605e3c73f8115b4a68da0", null ],
+    [ "PrepareAuraScript", "d6/dbc/a25638.html#ab1e3a55a35dbbb4bd781ac8c51608e6a", null ],
+    [ "Register", "d6/dbc/a25638.html#aecd068248e174c4b676ff9f43dd0856f", null ]
 ];

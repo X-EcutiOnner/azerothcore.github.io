@@ -1,6 +1,6 @@
 var a24562 =
 [
-    [ "achievement", "d3/d86/a24562.html#abb6071e172abbcbc65020a0ad9554a03", null ],
-    [ "spell", "d3/d86/a24562.html#a740f9162b10d31d1677a4ac4f5926db6", null ],
-    [ "text", "d3/d86/a24562.html#aa92e42bc2c54c3b4b1022d5767fcf10c", null ]
+    [ "npc_pet_dk_army_of_the_dead", "d3/d86/a24562.html#a835f24d7b1b0b70d6345f66a8960e9cf", null ],
+    [ "InitializeAI", "d3/d86/a24562.html#add16c667f3e614f9d6ceebbe17cf0515", null ],
+    [ "IsSummonedBy", "d3/d86/a24562.html#a4f1acbbccd68c83a7c3ea14b26a56305", null ]
 ];

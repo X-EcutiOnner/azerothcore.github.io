@@ -1,6 +1,7 @@
 var a23166 =
 [
-    [ "npc_supremus_punch_invisible_stalker", "da/d9e/a23166.html#add7d0e711ef02a16ef58d90cfc8ee733", null ],
-    [ "IsSummonedBy", "da/d9e/a23166.html#a467d5a43bb6d2349ad859a0ef7de4c00", null ],
-    [ "UpdateAI", "da/d9e/a23166.html#a90ecfe4257ef77a6d6a200a2f017c51a", null ]
+    [ "npc_ashtongue_channeler", "da/d9e/a23166.html#af7217d00f87e56e5cdb411fcad161b51", null ],
+    [ "Reset", "da/d9e/a23166.html#ab935559c19b18f9c94dd36c85be5b3b2", null ],
+    [ "UpdateAI", "da/d9e/a23166.html#af855dfa521404c4e6127a9bf12a75604", null ],
+    [ "scheduler", "da/d9e/a23166.html#a4f58bbd2c44f7a3f9835fd55408ffaf4", null ]
 ];

@@ -1,5 +1,6 @@
 var a25806 =
 [
-    [ "PrepareSpellScript", "d1/d4e/a25806.html#a065d81d698c978bcdd234712807e9098", null ],
-    [ "Register", "d1/d4e/a25806.html#a3efcd145189b27272495110c799cf14f", null ]
+    [ "HandleProc", "d1/d4e/a25806.html#a04796308cb57993dea310e0aca051c46", null ],
+    [ "PrepareAuraScript", "d1/d4e/a25806.html#a1a0291eb2ca9073b0bac8dc8c7d22550", null ],
+    [ "Register", "d1/d4e/a25806.html#a191d0bcc015b92a6f2481b3b5c196cab", null ]
 ];

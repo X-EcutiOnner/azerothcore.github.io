@@ -1,5 +1,6 @@
 var a24178 =
 [
-    [ "go_simon_cluster", "d5/dd0/a24178.html#adac53a8451abd6ace227a66afc7e61e8", null ],
-    [ "OnGossipHello", "d5/dd0/a24178.html#a9fd9799604de44c91803511c45b67786", null ]
+    [ "npc_daranelleAI", "d6/d4b/a24182.html", "d6/d4b/a24182" ],
+    [ "npc_daranelle", "d5/dd0/a24178.html#a0a6e26b95d6d97821bc9e0c00b205704", null ],
+    [ "GetAI", "d5/dd0/a24178.html#ad2ba5e4dfded886acaf2f9821e15738d", null ]
 ];

@@ -1,8 +1,6 @@
 var a26322 =
 [
-    [ "CheckCast", "d6/d15/a26322.html#a0d7910cd2b9d9f4174575532502d40f9", null ],
-    [ "HandleDummy", "d6/d15/a26322.html#a1eac1eb5f39093ff48942e82728478dd", null ],
-    [ "PrepareSpellScript", "d6/d15/a26322.html#adbb58b75232560d101b291c0d99a2a20", null ],
-    [ "Register", "d6/d15/a26322.html#a6acb46e81171e13f50ac1f01bf83013b", null ],
-    [ "Validate", "d6/d15/a26322.html#a4b67c348685a8094668e4ed2f0c78446", null ]
+    [ "FilterTargets", "d6/d15/a26322.html#a9ee58cd4e7a0fa59bfb6ef1270d51f21", null ],
+    [ "PrepareSpellScript", "d6/d15/a26322.html#a5992d94317d3da7400d5a9ab115e621e", null ],
+    [ "Register", "d6/d15/a26322.html#a125ce6c8dfdc6419b4409c72f74fcf85", null ]
 ];

@@ -13,8 +13,8 @@ var a03482 =
       [ "MAX_CHAR_SETTINGS", "d1/d07/a03482.html#acd2ee27596acf5e6804faaf9e7b6a1f5af9d926aa507c306441abf0cd93f9412c", null ]
     ] ],
     [ "ParseSettingsData", "d1/d07/a03482.html#aeaa79bb46d98ab2f4f5f3674d52f6745", null ],
-    [ "PrepareReplaceStatement", "d1/d07/a03482.html#a50a2948284069e6a28f5f61561e6695c", null ],
+    [ "PrepareReplaceStatement", "d1/d07/a03482.html#a0d5c2c2c4a1dede6bfb6e9fb0763b641", null ],
     [ "SerializeSettingsData", "d1/d07/a03482.html#a2e2d73056f0c30ed8b22419fed1c3d6a", null ],
-    [ "UpdateSetting", "d1/d07/a03482.html#aaf1d54a7292b560b6d26c7a0332482e0", null ],
+    [ "UpdateSetting", "d1/d07/a03482.html#ab725e991f09f03e0413ffe44fa807ead", null ],
     [ "AzerothcorePSSource", "d1/d07/a03482.html#a50fa156f5e934ed3fa7108da4c510f28", null ]
 ];

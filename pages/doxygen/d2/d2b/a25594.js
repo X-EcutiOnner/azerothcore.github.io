@@ -1,7 +1,7 @@
 var a25594 =
 [
-    [ "HandleDummy", "d2/d2b/a25594.html#a4b23e39151d0bced8bb729435a56352d", null ],
-    [ "Load", "d2/d2b/a25594.html#aaa341815d71652a13f3ca449af6ac14f", null ],
-    [ "PrepareSpellScript", "d2/d2b/a25594.html#ac0e7d279312a59dd62d7d91eb3ef82b7", null ],
-    [ "Register", "d2/d2b/a25594.html#a19a2247cebd2af38a1bd30af213ad633", null ]
+    [ "HandleScriptEffect", "d2/d2b/a25594.html#ab1d476e7a07da5db80908fb669b6fa6b", null ],
+    [ "PrepareSpellScript", "d2/d2b/a25594.html#acf30d245bab2e7a1ee1121008345e667", null ],
+    [ "Register", "d2/d2b/a25594.html#a303a38a41f3d9be6e3083690b234e51f", null ],
+    [ "Validate", "d2/d2b/a25594.html#a77a3256cdea185ce0ea95d88283c55d7", null ]
 ];

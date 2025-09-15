@@ -1,6 +1,6 @@
 var a22442 =
 [
-    [ "npc_iron_watcherAI", "d4/d1d/a22446.html", "d4/d1d/a22446" ],
-    [ "npc_iron_watcher", "d9/d96/a22442.html#a174e19241ca6cd1619fbae074d11c8ba", null ],
-    [ "GetAI", "d9/d96/a22442.html#af3b80b838e192737762ceed599b0be9a", null ]
+    [ "HandleScriptEffect", "d9/d96/a22442.html#a1dac2806b74471332aec0595118005a3", null ],
+    [ "PrepareSpellScript", "d9/d96/a22442.html#adb1efd90b7ffa23887ca4aa3afb6d99e", null ],
+    [ "Register", "d9/d96/a22442.html#a2ff0986c88dcbd9aac263f62b772c992", null ]
 ];

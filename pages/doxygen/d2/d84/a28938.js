@@ -1,9 +1,9 @@
 var a28938 =
 [
-    [ "MapTiles", "d2/d84/a28938.html#abc58d7154eab45ae26df27e2e82dac63", null ],
-    [ "MapTiles", "d2/d84/a28938.html#a406efc53593b5bceb0a491c0b7553350", null ],
-    [ "~MapTiles", "d2/d84/a28938.html#aec1baac21c06380ba71ff5e610152519", null ],
-    [ "operator==", "d2/d84/a28938.html#a3e7a87f421e8eb23926afe1d0978c3b4", null ],
-    [ "m_mapId", "d2/d84/a28938.html#a2fc10edf226a6f4548c2175e1013c1b9", null ],
-    [ "m_tiles", "d2/d84/a28938.html#ab80305bb73234e35a528701d775954b5", null ]
+    [ "adtData", "de/d15/a28946.html", "de/d15/a28946" ],
+    [ "prepareLoadedData", "d2/d84/a28938.html#a6b755c9e341918d05105d993391429c6", null ],
+    [ "adt_list", "d2/d84/a28938.html#abe28c39e8856412c4fb182baab3218f0", null ],
+    [ "fcc", "d2/d84/a28938.html#ac8ee92a1747e31385cbfadaea16c267f", null ],
+    [ "fcc_txt", "d2/d84/a28938.html#a0657c323732de8d83b9c360c1dd03b61", null ],
+    [ "size", "d2/d84/a28938.html#a797c02773dd470a318474c7ef033ba7c", null ]
 ];

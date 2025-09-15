@@ -1,6 +1,8 @@
 var a26826 =
 [
-    [ "HandlePeriodic", "dd/de5/a26826.html#af875d62dd47650c9f2e9c3a4508ed05b", null ],
-    [ "PrepareAuraScript", "dd/de5/a26826.html#a2efdcd0902e9cb5c47e285492dd93789", null ],
-    [ "Register", "dd/de5/a26826.html#ac90afe9f5d9d55faba2282a875469311", null ]
+    [ "HandleRootRemove", "dd/de5/a26826.html#a9678ce2254825b67eb7a16312e960ba9", null ],
+    [ "HandleSnareRemove", "dd/de5/a26826.html#a6a0716f500b3926e66c62a038a1e03d3", null ],
+    [ "PrepareSpellScript", "dd/de5/a26826.html#ab9dc5e2516e269b968cb995040bc00a0", null ],
+    [ "Register", "dd/de5/a26826.html#a119675dccea898932ca090577022b6ba", null ],
+    [ "Validate", "dd/de5/a26826.html#a1a90cf531ba1131952161ff9d10b2cb7", null ]
 ];

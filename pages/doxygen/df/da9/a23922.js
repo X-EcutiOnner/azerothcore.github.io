@@ -1,7 +1,7 @@
 var a23922 =
 [
-    [ "AfterApply", "df/da9/a23922.html#a0ba88b8ed8cfd0afa1de500a7a8d74b5", null ],
-    [ "PrepareAuraScript", "df/da9/a23922.html#aa98346e5f5b23fe016148426a19a719f", null ],
-    [ "Register", "df/da9/a23922.html#ac0edcddf6c38b933c868dbe0535f143a", null ],
-    [ "Validate", "df/da9/a23922.html#a616d1758aa257140f4941fe12ef21e87", null ]
+    [ "boss_zereketh_the_unbound", "df/da9/a23922.html#abb2fc5cbe7514142160818016fda1936", null ],
+    [ "JustDied", "df/da9/a23922.html#ac5d96da9a33a536f2002cce11453ded3", null ],
+    [ "JustEngagedWith", "df/da9/a23922.html#ad0305f3eeb578d6dcd2db835331eb10f", null ],
+    [ "KilledUnit", "df/da9/a23922.html#a07d3a1264e6d78c2696990755fc7fe45", null ]
 ];

@@ -1,8 +1,9 @@
 var a27906 =
 [
-    [ "npc_cultist_engineer", "de/dbb/a27906.html#a02675a96d20902d147b0370fa1715d81", null ],
-    [ "JustDied", "de/dbb/a27906.html#a4b4d561f827553998caa204e0e1b9e54", null ],
-    [ "Reset", "de/dbb/a27906.html#a6f84d224a959c06fbb7a48197dd4cbdd", null ],
-    [ "sGossipSelect", "de/dbb/a27906.html#ab26d124cbfdc4d649fef6058e9637845", null ],
-    [ "UpdateAI", "de/dbb/a27906.html#a47b1b08959b8cd02ba92fcf3a55e32d2", null ]
+    [ "npc_necropolis_health", "de/dbb/a27906.html#a9dc3e7734c22adea687a69662a3c7afa", null ],
+    [ "DespawnNecropolis", "de/dbb/a27906.html#af80e2b106b04e02d4c23a5fe4c45a7a2", null ],
+    [ "JustDied", "de/dbb/a27906.html#a972687770c7afb0adfaac56f0cb73d5f", null ],
+    [ "SpellHit", "de/dbb/a27906.html#ad4a9f9b166ab8107a16da918082c6625", null ],
+    [ "SpellHitTarget", "de/dbb/a27906.html#ad357b3497d36d6471460c09d3f01ab3e", null ],
+    [ "_zapCount", "de/dbb/a27906.html#aa9f17362d0e4dbcf275a5148a4c2392b", null ]
 ];

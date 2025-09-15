@@ -1,6 +1,14 @@
 var a26258 =
 [
-    [ "CheckProc", "d5/d24/a26258.html#a0f1461140b08deac3f044142067368e7", null ],
-    [ "PrepareAuraScript", "d5/d24/a26258.html#a04e0ebe416e94912d7f1ec529da7980d", null ],
-    [ "Register", "d5/d24/a26258.html#a05e31c2252c9054a18b4267be84895b9", null ]
+    [ "AfterCheckProc", "d5/d24/a26258.html#ae6ac733a614be543c04b57379b84aaca", null ],
+    [ "CheckProc", "d5/d24/a26258.html#aa533054a5cd434ef3e02767a0a87db62", null ],
+    [ "GetProcSpell", "d5/d24/a26258.html#af9fc6eb0c61c4084307fc2f7fb38973b", null ],
+    [ "HandleAfterEffectProc", "d5/d24/a26258.html#aaa577b07d61ddc6e7af175c76ce63b11", null ],
+    [ "HandleOnEffectProc", "d5/d24/a26258.html#a5bb5345754505cca5f9c840dc5bb9dfb", null ],
+    [ "PrepareAuraScript", "d5/d24/a26258.html#a111821352b6d26f51878ce81b173ef6d", null ],
+    [ "Register", "d5/d24/a26258.html#a9ba0584da94cf51b8cd8fe7da50fc1b0", null ],
+    [ "ResetProcState", "d5/d24/a26258.html#a9f7371edfa971c56e15cef94d6fb0117", null ],
+    [ "_chance", "d5/d24/a26258.html#ab644c981163424fbaa05650dc6505ae1", null ],
+    [ "_procSpellDelayMoment", "d5/d24/a26258.html#a0477619c024d2f2f505e7617fb057691", null ],
+    [ "_spell", "d5/d24/a26258.html#a07a855a4806bac873eb40505f805c39f", null ]
 ];

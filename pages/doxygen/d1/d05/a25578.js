@@ -1,8 +1,11 @@
 var a25578 =
 [
-    [ "CheckProc", "d1/d05/a25578.html#a2b0ff2594877249d0bdb4656fa67b83f", null ],
-    [ "HandleProc", "d1/d05/a25578.html#ac1aebc16e7944ac3f8305d9ff27bc998", null ],
-    [ "PrepareAuraScript", "d1/d05/a25578.html#a19557020af9ca276f72c1d3e4ba8b27b", null ],
-    [ "Register", "d1/d05/a25578.html#a43f7bb634cb165fab5e2187256f50c3f", null ],
-    [ "Validate", "d1/d05/a25578.html#a7762ce25775b98dba14b4ac465cad711", null ]
+    [ "CalcPeriodic", "d1/d05/a25578.html#ab5feede17fa79c9d02fa459586eaca41", null ],
+    [ "CalculateAPAmount", "d1/d05/a25578.html#af2b1da799f1b3c0373dc6782dabbf89c", null ],
+    [ "CalculateResistanceAmount", "d1/d05/a25578.html#a51828f07b0e099c5931161f7aeebaab7", null ],
+    [ "CalculateSPAmount", "d1/d05/a25578.html#a255ed8f5158e715313e44b13f30b099f", null ],
+    [ "CalculateStatAmount", "d1/d05/a25578.html#ade1b7256d19b526a7f4b1520f6b2f663", null ],
+    [ "HandlePeriodic", "d1/d05/a25578.html#a136c8cedca7630543b8937e77571ead1", null ],
+    [ "PrepareAuraScript", "d1/d05/a25578.html#a638a2544d9216bec90c433100c0663a0", null ],
+    [ "Register", "d1/d05/a25578.html#a55605257006d8218250932357f325bb8", null ]
 ];

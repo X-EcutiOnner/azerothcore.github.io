@@ -1,10 +1,8 @@
 var a27582 =
 [
-    [ "guard_shattrath_aldorAI", "d9/d75/a27582.html#a88961dfe4100dfe207af693a1eed86ad", null ],
-    [ "Reset", "d9/d75/a27582.html#aef38e83e90c322bbef18b78e6339ef2e", null ],
-    [ "UpdateAI", "d9/d75/a27582.html#ac87ee12d4487971b68c70f06f63eb410", null ],
-    [ "banishTimer", "d9/d75/a27582.html#a8b6e4c2acb09c65f2dbebbd21df4f29e", null ],
-    [ "canTeleport", "d9/d75/a27582.html#af4d933b56431d2f2755d87fb05922458", null ],
-    [ "exileTimer", "d9/d75/a27582.html#a8d56205206f3e14184922f96873456ad", null ],
-    [ "playerGUID", "d9/d75/a27582.html#a16fe41ae30d54abaf12f68672b93dc32", null ]
+    [ "go_bellsAI", "d9/d75/a27582.html#a6f22847c66a3b5faded35da799359846", null ],
+    [ "UpdateAI", "d9/d75/a27582.html#ab466f67665577f22bfe6cdb94d0a008b", null ],
+    [ "_events", "d9/d75/a27582.html#a46c66442078cee28a76fc412746ca026", null ],
+    [ "_soundId", "d9/d75/a27582.html#ab2491e9d27266ea69a5a9163e8c1b35b", null ],
+    [ "once", "d9/d75/a27582.html#abf6ca2fc64f5764936a6d0179d40c2fa", null ]
 ];

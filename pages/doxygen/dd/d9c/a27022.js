@@ -1,7 +1,8 @@
 var a27022 =
 [
-    [ "HandleTeleport", "dd/d9c/a27022.html#a7ba7b82988dab5fd8e691b5b87c3d959", null ],
-    [ "PrepareAuraScript", "dd/d9c/a27022.html#a2307b7eccd4dd08d7e97ece704ddc4fb", null ],
-    [ "Register", "dd/d9c/a27022.html#a82432a4448d8c23ea2a39b4b26eb1b58", null ],
-    [ "Validate", "dd/d9c/a27022.html#adabf22bd591a10662ffbf0354a18a936", null ]
+    [ "Detonate", "dd/d9c/a27022.html#a89f46334c78fc190afd7b03706fa2513", null ],
+    [ "HandleProc", "dd/d9c/a27022.html#a82ad88c757eed35f7e0f2af38ceb2273", null ],
+    [ "PrepareAuraScript", "dd/d9c/a27022.html#a7268602da6dc74d7c501fb90c8167226", null ],
+    [ "Register", "dd/d9c/a27022.html#ac1574e943840e5f15a808ed4d338cd5f", null ],
+    [ "Validate", "dd/d9c/a27022.html#abbc5c9d069e716d9356ec366713abb84", null ]
 ];

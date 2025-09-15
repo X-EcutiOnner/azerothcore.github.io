@@ -1,10 +1,6 @@
 var a24994 =
 [
-    [ "FilterTargets", "d9/dc0/a24994.html#a033c63470d406ad2249c5aa223c00b2f", null ],
-    [ "HandleFinish", "d9/dc0/a24994.html#a3b5760ed61d0b2789ddcaef998303d38", null ],
-    [ "HandleScript", "d9/dc0/a24994.html#a2c26838015f1b21715fc1438537e15d3", null ],
-    [ "Load", "d9/dc0/a24994.html#a669aefa81d57358ef452f4c247b2ceff", null ],
-    [ "PrepareSpellScript", "d9/dc0/a24994.html#a3b65dbff73258b45f9e345bffc7a63a8", null ],
-    [ "Register", "d9/dc0/a24994.html#ac9b8d46cc77b06c427b5b3cbc1135072", null ],
-    [ "haveTarget", "d9/dc0/a24994.html#a7f5a4e68fb7d948f0df35824272cbdb0", null ]
+    [ "CheckProc", "d9/dc0/a24994.html#a67f31710f6a3e843b9d3539710100898", null ],
+    [ "PrepareAuraScript", "d9/dc0/a24994.html#ad59ef816bd24f6215cc853386859dbb4", null ],
+    [ "Register", "d9/dc0/a24994.html#af499437b1af535488792f44c18ad9bf7", null ]
 ];

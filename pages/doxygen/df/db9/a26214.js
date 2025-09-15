@@ -1,8 +1,7 @@
 var a26214 =
 [
-    [ "CheckProc", "df/db9/a26214.html#a801610a9f9fae5cb711850254b291268", null ],
-    [ "HandleProc", "df/db9/a26214.html#a3f6a53421c7c4b9346d98aa51c4ccd6d", null ],
-    [ "PrepareAuraScript", "df/db9/a26214.html#ad08915b0c7f35bef76ddd05a62add43c", null ],
-    [ "Register", "df/db9/a26214.html#a8626318b6f9b35a8b1c116062618b3c0", null ],
-    [ "Validate", "df/db9/a26214.html#a8a3abd528fda4aab149fb7f6e5eae00d", null ]
+    [ "HandleDummy", "df/db9/a26214.html#a870b9834d0860a2d017b74fbf33ae668", null ],
+    [ "Load", "df/db9/a26214.html#ae971bd1dccc9280620b6ea44dd552bd4", null ],
+    [ "PrepareSpellScript", "df/db9/a26214.html#aac68e0f75f39ab25cf490dc381414b96", null ],
+    [ "Register", "df/db9/a26214.html#ad2840c719abd010c629747da138e9e32", null ]
 ];

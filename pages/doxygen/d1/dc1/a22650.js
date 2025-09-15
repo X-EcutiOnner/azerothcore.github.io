@@ -1,6 +1,6 @@
 var a22650 =
 [
-    [ "npc_crusade_recruitAI", "da/d9b/a22654.html", "da/d9b/a22654" ],
-    [ "npc_crusade_recruit", "d1/dc1/a22650.html#a6e130f153c506255ef5ece1baf006028", null ],
-    [ "GetAI", "d1/dc1/a22650.html#a412f0d153676758fda8c1f7f1e9dda44", null ]
+    [ "npc_captured_rageclawAI", "da/d9b/a22654.html", "da/d9b/a22654" ],
+    [ "npc_captured_rageclaw", "d1/dc1/a22650.html#ad49176279e9d16a6a24c0649c576c0be", null ],
+    [ "GetAI", "d1/dc1/a22650.html#aa39b6c518fe22d91b8673cfd576866a4", null ]
 ];

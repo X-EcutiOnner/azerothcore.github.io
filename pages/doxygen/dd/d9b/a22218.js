@@ -1,6 +1,6 @@
 var a22218 =
 [
-    [ "npc_razael_and_lyana", "dd/d9b/a22218.html#aec7257a1136a3580e2b4542e032429d6", null ],
-    [ "OnGossipHello", "dd/d9b/a22218.html#a9c9085db92853d5275c12e804a68b0fc", null ],
-    [ "OnGossipSelect", "dd/d9b/a22218.html#a407d8344280e8e38efb3991fda1d52cd", null ]
+    [ "npc_plaguehound_trackerAI", "d2/da7/a22222.html", "d2/da7/a22222" ],
+    [ "npc_plaguehound_tracker", "dd/d9b/a22218.html#a5c2803907cf06bc3e641bbb8171681d3", null ],
+    [ "GetAI", "dd/d9b/a22218.html#a1ec8f190139b35837a0ce6c4c2f08709", null ]
 ];

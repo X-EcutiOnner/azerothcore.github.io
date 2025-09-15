@@ -1,7 +1,6 @@
 var a24098 =
 [
-    [ "HandleDamage", "d3/d03/a24098.html#add7e78111217d00bfa3dfa5b3eb490f9", null ],
-    [ "HandleTargets", "d3/d03/a24098.html#ac9e455d4ef5cc7b7ce424b70b4387c78", null ],
-    [ "PrepareSpellScript", "d3/d03/a24098.html#a46b62a09ea23cb102b0e5cf075c727d4", null ],
-    [ "Register", "d3/d03/a24098.html#a8873614ae22c908cb2cf49129fc53be2", null ]
+    [ "PrepareAuraScript", "d3/d03/a24098.html#a14d4d1a75130a77e7e59e41720491bec", null ],
+    [ "PrepareProc", "d3/d03/a24098.html#abea217f4bfdffc70007fbc29849e9a49", null ],
+    [ "Register", "d3/d03/a24098.html#a9dbcd4c940f5941472bebb64829125e3", null ]
 ];

@@ -1,8 +1,10 @@
 var a28858 =
 [
-    [ "ADT_file", "df/d1e/a28858.html#ac7d3b65a1377d0c7358fe5e2d20dbe5e", null ],
-    [ "~ADT_file", "df/d1e/a28858.html#a79fe542f34b0e7bf668e7e5ff94a7ded", null ],
-    [ "free", "df/d1e/a28858.html#a8fc207b8cc83596577166a0008965dc6", null ],
-    [ "prepareLoadedData", "df/d1e/a28858.html#ac9f498cb9c8e21a1947be87904e3760b", null ],
-    [ "a_grid", "df/d1e/a28858.html#aad5263c4df4ab9d072f217ec8c19441c", null ]
+    [ "plane", "dd/d9b/a28866.html", "dd/d9b/a28866" ],
+    [ "prepareLoadedData", "df/d1e/a28858.html#a29dc30be1cb7f5439e023865ff5a4853", null ],
+    [ "fcc", "df/d1e/a28858.html#a8c64958fb4e18bc3bcfaf7dbfde9f178", null ],
+    [ "fcc_txt", "df/d1e/a28858.html#ab768fb1ba27812060cf2edeb5f4b876c", null ],
+    [ "max", "df/d1e/a28858.html#afadebfc1361985b6f5d45c27e22cb303", null ],
+    [ "min", "df/d1e/a28858.html#ac3ebf1557841088ef8912b68fe6df908", null ],
+    [ "size", "df/d1e/a28858.html#af92420cfd862486c73c35ac8a9f9fdee", null ]
 ];

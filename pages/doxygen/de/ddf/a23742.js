@@ -1,14 +1,20 @@
 var a23742 =
 [
-    [ "boss_vazruden", "de/ddf/a23742.html#a9908d6082a09d55dd0d8bb801784a151", null ],
-    [ "DamageTaken", "de/ddf/a23742.html#a44b1e4d43bbf0d7faec7f4ee277db811", null ],
-    [ "EnterEvadeMode", "de/ddf/a23742.html#aba006e8e9aefe522ea5c36c638bb5c3b", null ],
-    [ "JustDied", "de/ddf/a23742.html#a525025b41b53a577bdff1eb818191ed7", null ],
-    [ "JustEngagedWith", "de/ddf/a23742.html#a5dbbe80fcfe191ac5ae03f943496ad02", null ],
-    [ "KilledUnit", "de/ddf/a23742.html#a8f430a0d7edb0285156c6bf68ba0aa07", null ],
-    [ "Reset", "de/ddf/a23742.html#a11b5091dafe2f0de9afd81de7b6fde90", null ],
-    [ "UpdateAI", "de/ddf/a23742.html#aebaf147a1a2e723cb0cb8e46f3d01e68", null ],
-    [ "_hasSpoken", "de/ddf/a23742.html#af5b9aa9c7a343486b4dc05819e8d3ccf", null ],
-    [ "_nazanCalled", "de/ddf/a23742.html#a44d53934c743e9beb539681719997852", null ],
-    [ "_scheduler", "de/ddf/a23742.html#a60382206e378c2f2c493d1ee25c4ff8c", null ]
+    [ "instance_blood_furnace_InstanceMapScript", "de/ddf/a23742.html#adb0173cb42642836f7734d8b0fb3e98f", null ],
+    [ "ActivateCell", "de/ddf/a23742.html#abd718216778850455c758d79a5866958", null ],
+    [ "ActivatePrisoners", "de/ddf/a23742.html#a18488afb78747a35ce7e3b4b9a2468b5", null ],
+    [ "GetGuidData", "de/ddf/a23742.html#af7f6acc97bf16f4d31236dcbb2d94007", null ],
+    [ "Initialize", "de/ddf/a23742.html#a3441a24486ec686d42b7320e6f105139", null ],
+    [ "OnCreatureCreate", "de/ddf/a23742.html#ac58da5acec155e596791464c48f29773", null ],
+    [ "OnGameObjectCreate", "de/ddf/a23742.html#a3894ce1d0dff79cee2ff0df51d19e1ea", null ],
+    [ "OnUnitDeath", "de/ddf/a23742.html#a78b07bfe30c7f329046ff572f783c4b9", null ],
+    [ "PrisonerDied", "de/ddf/a23742.html#a16315f7921b1960c7720f855cdddee96", null ],
+    [ "ResetPrisoner", "de/ddf/a23742.html#a57f58c502b5fb2064307adb8c4976979", null ],
+    [ "ResetPrisoners", "de/ddf/a23742.html#ac46b0ed98e69ac0d5b8582bb21a81dc8", null ],
+    [ "ResetPrisons", "de/ddf/a23742.html#a728bbc185bb91cf024f8ff3bd878a10e", null ],
+    [ "SetBossState", "de/ddf/a23742.html#aad428e00762795d8f817d6cfa25505fe", null ],
+    [ "StorePrisoner", "de/ddf/a23742.html#ade72b3e7a2129b8a4f722990aef5ac5f", null ],
+    [ "_prisonerCounter", "de/ddf/a23742.html#a50c371edc425191f610a0e8a6b44d2ab", null ],
+    [ "_prisonersCell", "de/ddf/a23742.html#a3492a327f4c0d637fd5701f3997c1887", null ],
+    [ "_prisonGUIDs", "de/ddf/a23742.html#a9a737e495b638ec65fbd306c6aa0267c", null ]
 ];

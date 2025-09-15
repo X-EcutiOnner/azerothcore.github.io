@@ -1,5 +1,6 @@
 var a27198 =
 [
-    [ "achievement_bg_ic_glaive_grave", "dc/d2b/a27198.html#a97e1cead0102a120b3bd14592ea26034", null ],
-    [ "OnCheck", "dc/d2b/a27198.html#a0eacab5595969cfe5e3d083c984dfd77", null ]
+    [ "HandleOnHit", "dc/d2b/a27198.html#a32a6f464057fbfb3bbffe0e10d1d4141", null ],
+    [ "PrepareSpellScript", "dc/d2b/a27198.html#adfa4da76e8c2486fbcc2b3bea0f50005", null ],
+    [ "Register", "dc/d2b/a27198.html#a1742dc0c039f7f981cae8114ff9ae59a", null ]
 ];

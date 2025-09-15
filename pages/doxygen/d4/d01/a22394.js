@@ -1,6 +1,6 @@
 var a22394 =
 [
-    [ "npc_jungle_punch_targetAI", "df/d77/a22398.html", "df/d77/a22398" ],
-    [ "npc_jungle_punch_target", "d4/d01/a22394.html#a69220634d9d6b84e464cdc4e0cba91a7", null ],
-    [ "GetAI", "d4/d01/a22394.html#abb38ccb55abfe0f48f360469031c6902", null ]
+    [ "npc_bushwhackerAI", "d4/d01/a22394.html#a0cf480b75aa45a9f3572c4a65df2daee", null ],
+    [ "InitializeAI", "d4/d01/a22394.html#a18db5870e62378ff49472f7a5881861c", null ],
+    [ "UpdateAI", "d4/d01/a22394.html#aadc3384626d728942897fe93750f0c02", null ]
 ];

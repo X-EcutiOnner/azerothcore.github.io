@@ -39,6 +39,7 @@ var a01493 =
     [ "npc_leryssa::npc_leryssaAI", "db/dce/a21834.html", "db/dce/a21834" ],
     [ "npc_counselor_talbot", "d3/d3e/a21838.html", "d3/d3e/a21838" ],
     [ "npc_counselor_talbot::npc_counselor_talbotAI", "dc/dbc/a21842.html", "dc/dbc/a21842" ],
+    [ "spell_necropolis_beam", "d1/d47/a21846.html", "d1/d47/a21846" ],
     [ "BerylSorcerer", "d2/d41/a01493.html#a9f87df6e1fc3613a707440575321b281", [
       [ "EVENT_FROSTBOLT", "d2/d41/a01493.html#a9f87df6e1fc3613a707440575321b281aeccde9e1206ee2e4eb28b875f92ec48a", null ],
       [ "EVENT_ARCANE_CHAINS", "d2/d41/a01493.html#a9f87df6e1fc3613a707440575321b281acc82c9e2da8a9d11d5fc08d8ec826668", null ],

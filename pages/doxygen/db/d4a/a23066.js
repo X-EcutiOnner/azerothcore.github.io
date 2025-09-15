@@ -1,9 +1,9 @@
 var a23066 =
 [
-    [ "FilterTargets", "db/d4a/a23066.html#aa8f0401dd004e816b8071381289116fa", null ],
-    [ "HandleTeleportUnits", "db/d4a/a23066.html#a4333f10a29ef3e5643f637899a0ab5c5", null ],
-    [ "PrepareSpellScript", "db/d4a/a23066.html#a47898c213cdd125714c80d327bf42d8c", null ],
-    [ "Register", "db/d4a/a23066.html#a6036577cd7b4fbbc55e90e9ab067f13a", null ],
-    [ "SetDest", "db/d4a/a23066.html#a4cf75d96a0d1de62bc989826204b04c9", null ],
-    [ "Validate", "db/d4a/a23066.html#a814083360970284a325621f45e109b5b", null ]
+    [ "boss_mother_shahraz", "db/d4a/a23066.html#adba94363f74975301472d79f24894df8", null ],
+    [ "JustDied", "db/d4a/a23066.html#ab69d81acde4e6e2a3f6adb032090b958", null ],
+    [ "JustEngagedWith", "db/d4a/a23066.html#a021c702e7eff266308fee8a4220a6ec7", null ],
+    [ "KilledUnit", "db/d4a/a23066.html#a81ed314ae9737c0989b62c27c9ce4cc9", null ],
+    [ "Reset", "db/d4a/a23066.html#ab9e4162ac92e786b84b6497c37251386", null ],
+    [ "_canTalk", "db/d4a/a23066.html#a821d91439c60a60ffcff07b6bdbbc070", null ]
 ];

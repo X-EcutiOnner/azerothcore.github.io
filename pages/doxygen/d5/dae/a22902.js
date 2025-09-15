@@ -1,6 +1,6 @@
 var a22902 =
 [
-    [ "FilterTargets", "d5/dae/a22902.html#abd3fafc2120b7069790dd9822cd62adc", null ],
-    [ "PrepareSpellScript", "d5/dae/a22902.html#aebc0441481a2c458fc904175df931a9e", null ],
-    [ "Register", "d5/dae/a22902.html#af1173988538ad44c27ea2ed9d49fe06d", null ]
+    [ "instance_shadow_labyrinth_InstanceMapScript", "d5/def/a22906.html", "d5/def/a22906" ],
+    [ "instance_shadow_labyrinth", "d5/dae/a22902.html#a16a3acdfd9b1053374dfa5f27e5f3c19", null ],
+    [ "GetInstanceScript", "d5/dae/a22902.html#af9edf624413593a5cdf025dd9a1c3631", null ]
 ];

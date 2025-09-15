@@ -1,8 +1,7 @@
 var a27042 =
 [
-    [ "Load", "d3/da1/a27042.html#af6c19828b80a6cc06e4c9c207e7c52b8", null ],
-    [ "OnRemove", "d3/da1/a27042.html#a097cf2a2abecda1e89f85bc4bd4ec029", null ],
-    [ "PrepareAuraScript", "d3/da1/a27042.html#a2161d27a90b3f87fd07f75723b6d9e13", null ],
-    [ "Register", "d3/da1/a27042.html#a932760326c822f1b47df1afdec6bb9cb", null ],
-    [ "Validate", "d3/da1/a27042.html#a69bcfedb7f566c572201aadc9e75df08", null ]
+    [ "HandleTeleport", "d3/da1/a27042.html#a7ba7b82988dab5fd8e691b5b87c3d959", null ],
+    [ "PrepareAuraScript", "d3/da1/a27042.html#a2307b7eccd4dd08d7e97ece704ddc4fb", null ],
+    [ "Register", "d3/da1/a27042.html#a82432a4448d8c23ea2a39b4b26eb1b58", null ],
+    [ "Validate", "d3/da1/a27042.html#adabf22bd591a10662ffbf0354a18a936", null ]
 ];

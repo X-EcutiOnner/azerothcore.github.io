@@ -1,8 +1,8 @@
 var a28490 =
 [
-    [ "areaTriggerText", "dc/dd3/a28490.html#a32bb8c4a4defce661d108627e25b645a", null ],
-    [ "Difficulty", "dc/dd3/a28490.html#add8ed75cd6aaa3412e6222b869bb4113", null ],
-    [ "MapId", "dc/dd3/a28490.html#aa107ad302ec2aa3ce2289ba392e1c32e", null ],
-    [ "maxPlayers", "dc/dd3/a28490.html#a7ab33229ffee11a27861439053c79831", null ],
-    [ "resetTime", "dc/dd3/a28490.html#a891a741efb049b51996e1a6110efc52d", null ]
+    [ "Id", "dc/dd3/a28490.html#a6943bf760d15b3f8af4109d131652d72", null ],
+    [ "MapId", "dc/dd3/a28490.html#ab0cccd760636a3b42af693d6c483bed9", null ],
+    [ "X", "dc/dd3/a28490.html#a91183890254546efeb3162173cc60dad", null ],
+    [ "Y", "dc/dd3/a28490.html#a19ab4d026b45d74f006479641afbc4d3", null ],
+    [ "Z", "dc/dd3/a28490.html#aaa23c59f20fc96aec148b82516f30036", null ]
 ];

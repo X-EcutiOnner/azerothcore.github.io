@@ -1,6 +1,6 @@
 var a25810 =
 [
-    [ "HandlePeriodicTick", "dc/d42/a25810.html#a058eeb1e0489340763a58d92d4bed832", null ],
-    [ "PrepareAuraScript", "dc/d42/a25810.html#a3d71859b7e7f914a395f131dd4a6b4ab", null ],
-    [ "Register", "dc/d42/a25810.html#ae5a8adc3fe7cc5c5d7dd715449d3442f", null ]
+    [ "PrepareSpellScript", "dc/d42/a25810.html#a3a77016a3a8314969ce41cc6483761ec", null ],
+    [ "Register", "dc/d42/a25810.html#ae1fa8b9e4a11c884d10b1f4cc0afd09e", null ],
+    [ "SetDest", "dc/d42/a25810.html#a724217c09faa57ec2e6dad034e8709ed", null ]
 ];

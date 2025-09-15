@@ -1,10 +1,8 @@
 var a26754 =
 [
-    [ "CheckProc", "d3/d7b/a26754.html#a5971c42af47d1cc8045a130deb218a04", null ],
-    [ "HandleProc", "d3/d7b/a26754.html#a45aaf5afebc2fa533240fcf8233430ed", null ],
-    [ "Load", "d3/d7b/a26754.html#a7664b0f67c9e3b14841ed9e30447544d", null ],
-    [ "PrepareAuraScript", "d3/d7b/a26754.html#a291fcf1af497d1e83a31209cd01a360d", null ],
-    [ "Register", "d3/d7b/a26754.html#af16d0517ad07a454145da0b92c051740", null ],
-    [ "Validate", "d3/d7b/a26754.html#ac768a5f4738dee9ad7d885fa6136785e", null ],
-    [ "_procTargetGUID", "d3/d7b/a26754.html#a13976d069846f29d2f744f3f03502787", null ]
+    [ "CheckCast", "d3/d7b/a26754.html#a16983545e25f3e02064e2b3d573b2bb8", null ],
+    [ "CheckQuest", "d3/d7b/a26754.html#abc927d932c1d5e05eab1918364d68ed5", null ],
+    [ "HandleActiveObject", "d3/d7b/a26754.html#a95f7bd6dd52b19bb1c09975a7286882a", null ],
+    [ "PrepareSpellScript", "d3/d7b/a26754.html#a96e69476965cc2466213a5371a57093a", null ],
+    [ "Register", "d3/d7b/a26754.html#a83c48e1c42a6a6dd892f0f4d6a20687b", null ]
 ];

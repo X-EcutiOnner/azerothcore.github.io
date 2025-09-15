@@ -1,6 +1,5 @@
 var a27962 =
 [
-    [ "X", "d0/db1/a27962.html#a55bda49b2eb919415afaf780ca1977de", null ],
-    [ "Y", "d0/db1/a27962.html#a0bf22799258050a9b12ddc14bb2b4b11", null ],
-    [ "Z", "d0/db1/a27962.html#a7f0ceece775146d825d19a3cd22e5da3", null ]
+    [ "npc_sunwell_gate", "d0/db1/a27962.html#a70643c475fe4aa6f47e0a47222b1faad", null ],
+    [ "OnQuestReward", "d0/db1/a27962.html#acfcf6b252cc7ebc594b22fffffa5930b", null ]
 ];
