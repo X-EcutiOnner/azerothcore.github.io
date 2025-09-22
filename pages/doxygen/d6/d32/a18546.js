@@ -1,12 +1,8 @@
 var a18546 =
 [
-    [ "npc_strangulate_vehicleAI", "d6/d32/a18546.html#a58e79834ed3f463ad51eca703d1c99ef", null ],
-    [ "DoAction", "d6/d32/a18546.html#acf9d5a9e2f8b07f5ceb5ca75634e58fb", null ],
-    [ "IsHeroic", "d6/d32/a18546.html#adb6ae2cefeec245196d21dc1112b2d5c", null ],
-    [ "IsSummonedBy", "d6/d32/a18546.html#a381aec40cdcdf546d70b57a43978dbe9", null ],
-    [ "OnCharmed", "d6/d32/a18546.html#a40e5537897c452d35093920ddd3669b0", null ],
-    [ "PassengerBoarded", "d6/d32/a18546.html#a819746e13af95fa964c6da3d765a7c21", null ],
-    [ "UpdateAI", "d6/d32/a18546.html#a53f567b77b7dfd0ccb5a0d98c0f5ef26", null ],
-    [ "_events", "d6/d32/a18546.html#a19b493e994d246128f63d9109e87737a", null ],
-    [ "_instance", "d6/d32/a18546.html#a7a16fbe4723a95293db01d3a2d80b569", null ]
+    [ "Load", "d6/d32/a18546.html#aabd997d6db5fd38b1fdd97d90b1347e9", null ],
+    [ "OnRemove", "d6/d32/a18546.html#a43b23e5c53cca872a26737d790f2893d", null ],
+    [ "PrepareAuraScript", "d6/d32/a18546.html#ae51bcb37894240c6fd064cd329698a55", null ],
+    [ "Register", "d6/d32/a18546.html#ad6247c7f8abf41cd6190d5252ed6834e", null ],
+    [ "Validate", "d6/d32/a18546.html#a45696018a8810cf1f11fbddcd853d1f4", null ]
 ];

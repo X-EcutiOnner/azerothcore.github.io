@@ -1,6 +1,7 @@
 var a21178 =
 [
-    [ "CheckCast", "df/da0/a21178.html#a715a58956db4253c8adfed039833debd", null ],
-    [ "PrepareSpellScript", "df/da0/a21178.html#a3b03178d8ab54db36a19ba5a27444917", null ],
-    [ "Register", "df/da0/a21178.html#a6309c53b9e3828e76d34a77a8fe35df1", null ]
+    [ "HandleScriptEffect", "df/da0/a21178.html#aae469190c1edc1fe45914bad1dac4e93", null ],
+    [ "PrepareSpellScript", "df/da0/a21178.html#a1bced7e9364a1abb7b718b6786eada9f", null ],
+    [ "Register", "df/da0/a21178.html#a97265071f226fbd17c37d432cf9e2350", null ],
+    [ "Validate", "df/da0/a21178.html#aeec0bdd2e39db2da657247376ddcd195", null ]
 ];

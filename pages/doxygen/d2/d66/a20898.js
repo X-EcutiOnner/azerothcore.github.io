@@ -1,6 +1,5 @@
 var a20898 =
 [
-    [ "boss_xt002AI", "d8/d2f/a20902.html", "d8/d2f/a20902" ],
-    [ "boss_xt002", "d2/d66/a20898.html#aebd7e513b3bef6a25ad0f9766d18174e", null ],
-    [ "GetAI", "d2/d66/a20898.html#a146e4a10da7d81213e7f63d6e86c79f2", null ]
+    [ "achievement_thorim_stand_in_the_lightning", "d2/d66/a20898.html#a9339e89e4eb76151fdeacb6bcd53d7bc", null ],
+    [ "OnCheck", "d2/d66/a20898.html#ade1aec4de4c503be5a62da3e6c35e90f", null ]
 ];

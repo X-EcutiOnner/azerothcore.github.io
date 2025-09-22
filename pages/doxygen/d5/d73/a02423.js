@@ -1,7 +1,7 @@
 var a02423 =
 [
-    [ "boss_netherspite", "df/d3f/a12770.html", "df/d3f/a12770" ],
-    [ "spell_nether_portal_perseverence", "df/d72/a12774.html", "df/d72/a12774" ],
+    [ "boss_netherspite", "df/d72/a12774.html", "df/d72/a12774" ],
+    [ "spell_nether_portal_perseverence", "d8/d02/a12778.html", "d8/d02/a12778" ],
     [ "Emotes", "d5/d73/a02423.html#a2d0a63150f7988db8ff39124dc1cb21a", [
       [ "EMOTE_FRENZY", "de/d7b/a02660.html#a2d0a63150f7988db8ff39124dc1cb21aa55f111609d7846e27c2f642b9f46b1ac", null ],
       [ "EMOTE_SHIMMER", "de/d7b/a02660.html#a2d0a63150f7988db8ff39124dc1cb21aa706a7a036a41d3d1f2650ee226e9ec1e", null ],

@@ -1,6 +1,6 @@
 var a26742 =
 [
-    [ "HandleScript", "d5/d3f/a26742.html#acde0ae837d0cd3af0f38481027200291", null ],
-    [ "PrepareSpellScript", "d5/d3f/a26742.html#ac1237e0af7f88f75ebc551af52fc301c", null ],
-    [ "Register", "d5/d3f/a26742.html#a2dc2628984358628afe7d9b62ced7794", null ]
+    [ "HandleEffectPeriodic", "d5/d3f/a26742.html#a29eb3f3dadd45ccab069222fc36cea09", null ],
+    [ "PrepareAuraScript", "d5/d3f/a26742.html#aaa8296439ffe69eafdd1cece8ec346ad", null ],
+    [ "Register", "d5/d3f/a26742.html#a0a62a0bcf39a781289e1467384ac82cb", null ]
 ];

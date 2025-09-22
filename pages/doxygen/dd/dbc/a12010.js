@@ -1,9 +1,6 @@
 var a12010 =
 [
-    [ "npc_phalanxAI", "dd/dbc/a12010.html#a1a09cd0b0cf765dec20ca9c3c5bb9373", null ],
-    [ "Reset", "dd/dbc/a12010.html#a41a14315d82b169528bd764335c16d52", null ],
-    [ "UpdateAI", "dd/dbc/a12010.html#a78092bfb2d9b8455b5348d872afc6521", null ],
-    [ "FireballVolley_Timer", "dd/dbc/a12010.html#a0e7bedf19d7a69707fcfec9cbd3649e5", null ],
-    [ "MightyBlow_Timer", "dd/dbc/a12010.html#ae8fe8a7313f573e910763d5a82303e66", null ],
-    [ "ThunderClap_Timer", "dd/dbc/a12010.html#ab68781dcd728e2a0d021a0d52e43fd71", null ]
+    [ "npc_phalanxAI", "d2/d2c/a12014.html", "d2/d2c/a12014" ],
+    [ "npc_phalanx", "dd/dbc/a12010.html#a947ee4659fe2a46d775119ddcefeb939", null ],
+    [ "GetAI", "dd/dbc/a12010.html#ab1e2a0950ab286d5abae3d46aef3c623", null ]
 ];

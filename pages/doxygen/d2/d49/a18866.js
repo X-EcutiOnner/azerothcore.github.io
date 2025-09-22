@@ -1,5 +1,6 @@
 var a18866 =
 [
-    [ "npc_alchemist_adrianna", "d2/d49/a18866.html#a310d375bc73c51e407580b063a6543fa", null ],
-    [ "OnGossipHello", "d2/d49/a18866.html#a02ec6a66037d72e30bbe821ceee38691", null ]
+    [ "npc_impaling_spearAI", "dd/dbc/a18870.html", "dd/dbc/a18870" ],
+    [ "npc_impaling_spear", "d2/d49/a18866.html#af546ed9684fc085ad651bf5bd93e5bf7", null ],
+    [ "GetAI", "d2/d49/a18866.html#aad49164a3e7541b755c1c622b996bb9a", null ]
 ];

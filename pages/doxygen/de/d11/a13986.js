@@ -1,7 +1,7 @@
 var a13986 =
 [
-    [ "FilterTargets", "de/d11/a13986.html#aebe9055301495dd3a21736b9a2a35f31", null ],
-    [ "HandleDamageCalc", "de/d11/a13986.html#aa28bc0b1824d3d0825135fcd88057dfe", null ],
-    [ "PrepareSpellScript", "de/d11/a13986.html#a03b8e21e58988d9fc774205263c0817f", null ],
-    [ "Register", "de/d11/a13986.html#aeba1ceddd5b6fcd951e6ac789b50c5a5", null ]
+    [ "Load", "de/d11/a13986.html#a9888c598c4d6cf77c49e15f68c3db225", null ],
+    [ "OnRemove", "de/d11/a13986.html#ad4044dcd8c88eba88d032a96ca79dc4c", null ],
+    [ "PrepareAuraScript", "de/d11/a13986.html#a07abb27367cc0a59bdf60a30dfb7cfb0", null ],
+    [ "Register", "de/d11/a13986.html#ac2db8f8d9b778a0a36081c897f4149cb", null ]
 ];

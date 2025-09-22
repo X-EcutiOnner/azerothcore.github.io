@@ -1,7 +1,8 @@
 var a23810 =
 [
-    [ "FilterTargets", "d2/ddf/a23810.html#a921450a09e51585beb9dd2ce9b00bac9", null ],
-    [ "HandleHit", "d2/ddf/a23810.html#adb30857a5a320bb24b8cc0bcb9d60040", null ],
-    [ "PrepareSpellScript", "d2/ddf/a23810.html#a376618b9811b2e1ec18697431094e22f", null ],
-    [ "Register", "d2/ddf/a23810.html#ae7f4f54446d5a1ebb20d49ab9deaed81", null ]
+    [ "HandleDummyApply", "d2/ddf/a23810.html#ae60ce9cdd5d68f3fd16af54acc3d6603", null ],
+    [ "HandleDummyRemove", "d2/ddf/a23810.html#a368376fe4262815b9b9a9811178cec6d", null ],
+    [ "HandlePeriodicRemove", "d2/ddf/a23810.html#a02a350060a9ce54be88c0ad62eac11d3", null ],
+    [ "PrepareAuraScript", "d2/ddf/a23810.html#a30a7b07fc37d13f9b3a96e95940410c1", null ],
+    [ "Register", "d2/ddf/a23810.html#afeb47a40cfea3d958fee7a410e83857f", null ]
 ];

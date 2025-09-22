@@ -1,6 +1,7 @@
 var a21990 =
 [
-    [ "HandleSendEvent", "d1/dc4/a21990.html#a8b8276833404f3f69c3b7f97d95b6982", null ],
-    [ "PrepareSpellScript", "d1/dc4/a21990.html#aa632d381ac415feaf226f55fc2cd8520", null ],
-    [ "Register", "d1/dc4/a21990.html#a72673f5054cf269cc8da511441f7bd66", null ]
+    [ "CheckRequirement", "d1/dc4/a21990.html#a41beb2c890137328734d6adb14e08302", null ],
+    [ "PrepareSpellScript", "d1/dc4/a21990.html#aa0b9873dbd8c75a14fa88094d91eeeaa", null ],
+    [ "Register", "d1/dc4/a21990.html#aa0fad5e5a68131ebab5717ad0ce69669", null ],
+    [ "SetDest", "d1/dc4/a21990.html#a431a556ab73f91ed63f5983e537834a5", null ]
 ];

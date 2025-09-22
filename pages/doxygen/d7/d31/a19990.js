@@ -1,7 +1,6 @@
 var a19990 =
 [
-    [ "OnRemove", "d7/d31/a19990.html#a4d7ec990112b4ed602bcacf5a6de6722", null ],
-    [ "PrepareAuraScript", "d7/d31/a19990.html#a7cc9f0d6882b713c7b0a2585d6008437", null ],
-    [ "Register", "d7/d31/a19990.html#ad3a66fdfb2a159461bb3deeab6f71c13", null ],
-    [ "Validate", "d7/d31/a19990.html#a8bd121743d1153ae3fd8eb124e475d0f", null ]
+    [ "boss_stormcaller_brundirAI", "d0/d49/a19994.html", "d0/d49/a19994" ],
+    [ "boss_stormcaller_brundir", "d7/d31/a19990.html#aa966d1534a58e3832c46772043956533", null ],
+    [ "GetAI", "d7/d31/a19990.html#a399b1b7cf2ee74c1e672231e922ff4fa", null ]
 ];

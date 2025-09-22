@@ -1,7 +1,6 @@
 var a27350 =
 [
-    [ "npc_spirit_shadeAI", "d4/d7c/a27350.html#a8b7bf7c7cc541a47be79aad76a9bbcbc", null ],
-    [ "IsSummonedBy", "d4/d7c/a27350.html#a3a7fcb4af8e3b27e06b4665e8a864b38", null ],
-    [ "MovementInform", "d4/d7c/a27350.html#ab001fdc09efe9f8c03ad1b7610124e6d", null ],
-    [ "_summonerGuid", "d4/d7c/a27350.html#aa7c6abb848ab37f407a3553d04d0ad81", null ]
+    [ "boss_lethonAI", "d3/da0/a27354.html", "d3/da0/a27354" ],
+    [ "boss_lethon", "d4/d7c/a27350.html#a5d758979b061646830373de64b2b3af4", null ],
+    [ "GetAI", "d4/d7c/a27350.html#a493baf37aac400635dd0409e79375a1c", null ]
 ];

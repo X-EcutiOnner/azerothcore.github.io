@@ -1,5 +1,6 @@
 var a21366 =
 [
-    [ "go_harpoon_canon", "d7/d7e/a21366.html#aa7651e111cade00bbbdb9d0feced03e6", null ],
-    [ "OnGossipHello", "d7/d7e/a21366.html#ad0098bafd1233636bde181312126e65f", null ]
+    [ "boss_skadi_graufAI", "d6/dc2/a21370.html", "d6/dc2/a21370" ],
+    [ "boss_skadi_grauf", "d7/d7e/a21366.html#a571db2d2ae21f38b7051319da0f042f6", null ],
+    [ "GetAI", "d7/d7e/a21366.html#a9b637a93a572d21691b81b80ec45206d", null ]
 ];

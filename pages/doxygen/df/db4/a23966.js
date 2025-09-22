@@ -1,6 +1,8 @@
 var a23966 =
 [
-    [ "instance_the_botanica_InstanceMapScript", "d4/dda/a23970.html", "d4/dda/a23970" ],
-    [ "instance_the_botanica", "df/db4/a23966.html#a8f8acda65f37e45e2439707f3979cf7c", null ],
-    [ "GetInstanceScript", "df/db4/a23966.html#a335f671443ca0fb9db5956cefdf37182", null ]
+    [ "boss_laj", "df/db4/a23966.html#a3c9323ab4b5530504588ea62aed2edff", null ],
+    [ "Reset", "df/db4/a23966.html#ace690a0662376addaa40093f3f119c31", null ],
+    [ "ScheduleTasks", "df/db4/a23966.html#a6bd0db1ed4c963cdceb681c84469b06c", null ],
+    [ "_lastTransform", "df/db4/a23966.html#a097eacaaf77a09bec087530bad587b11", null ],
+    [ "_transformContainer", "df/db4/a23966.html#a313e66ceeb4e359251dad65383e7f568", null ]
 ];

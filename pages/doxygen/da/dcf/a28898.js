@@ -1,16 +1,10 @@
 var a28898 =
 [
-    [ "Iterator", "da/dcf/a28898.html#a682fe042bcd4ceb6c25dd7b4a3acbcc1", null ],
-    [ "Iterator", "da/dcf/a28898.html#a682fe042bcd4ceb6c25dd7b4a3acbcc1", null ],
-    [ "operator!=", "da/dcf/a28898.html#a7c0a38cbd02823479f349bb109a7ccf8", null ],
-    [ "operator!=", "da/dcf/a28898.html#a7c0a38cbd02823479f349bb109a7ccf8", null ],
-    [ "operator*", "da/dcf/a28898.html#a7b3de0d9987b834eaf6e909dd22f2528", null ],
-    [ "operator*", "da/dcf/a28898.html#a7b3de0d9987b834eaf6e909dd22f2528", null ],
-    [ "operator++", "da/dcf/a28898.html#af7dc5aae457d264ebe4aa42f5b700589", null ],
-    [ "operator++", "da/dcf/a28898.html#af7dc5aae457d264ebe4aa42f5b700589", null ],
-    [ "operator->", "da/dcf/a28898.html#ac57afe01d1ce6c611ca832f10f5d52fd", null ],
-    [ "operator->", "da/dcf/a28898.html#ac57afe01d1ce6c611ca832f10f5d52fd", null ],
-    [ "operator==", "da/dcf/a28898.html#a2d9cf3e798a1fcce3682c186952290df", null ],
-    [ "operator==", "da/dcf/a28898.html#a2d9cf3e798a1fcce3682c186952290df", null ],
-    [ "record", "da/dcf/a28898.html#a948512c44e53dfa177b85f82e9fd6160", null ]
+    [ "Exception", "da/dcf/a28898.html#a414c3d1a58dc27f84f70db7372c71394", null ],
+    [ "~Exception", "da/dcf/a28898.html#a1af5fa940a44522664bf8032b0ec164a", null ],
+    [ "Exception", "da/dcf/a28898.html#a414c3d1a58dc27f84f70db7372c71394", null ],
+    [ "~Exception", "da/dcf/a28898.html#a1af5fa940a44522664bf8032b0ec164a", null ],
+    [ "getMessage", "da/dcf/a28898.html#af9bfdfbfe28783d5ad6f7b08cb845c75", null ],
+    [ "getMessage", "da/dcf/a28898.html#af9bfdfbfe28783d5ad6f7b08cb845c75", null ],
+    [ "message", "da/dcf/a28898.html#aeb732542a0ba63cde3d9b3bff93f4eda", null ]
 ];

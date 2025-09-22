@@ -1,7 +1,8 @@
 var a23802 =
 [
-    [ "HandleDummyApply", "d8/d76/a23802.html#a8a982bbbda94a2cf981c845161f05bdc", null ],
-    [ "HandleDummyRemove", "d8/d76/a23802.html#a5d68d9e15600119deca7179ffe00acda", null ],
-    [ "PrepareAuraScript", "d8/d76/a23802.html#a34d09e48b69d32dae6c127fa0837be4b", null ],
-    [ "Register", "d8/d76/a23802.html#a094004ccf6b4cae4d27bca639b76b899", null ]
+    [ "npc_target_trigger", "d8/d76/a23802.html#a238058ba80130c6239b7267db3247196", null ],
+    [ "Reset", "d8/d76/a23802.html#ad23d465bfd78ede0a1556f2ce1742349", null ],
+    [ "UpdateAI", "d8/d76/a23802.html#ab5f482e209d2d8aa5c27666d3e1934f3", null ],
+    [ "_cast", "d8/d76/a23802.html#a4ec89ca960323f7ad135d5a425a82416", null ],
+    [ "_scheduler", "d8/d76/a23802.html#a9b418b09e25c8f96692b4e2626339c96", null ]
 ];

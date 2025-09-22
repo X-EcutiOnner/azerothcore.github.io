@@ -1,8 +1,5 @@
 var a20158 =
 [
-    [ "FilterTargets", "d5/dbf/a20158.html#a93b41db0e89710c6e0e3c764d51d37ad", null ],
-    [ "HandleScript", "d5/dbf/a20158.html#a0c7d9007a9401b96a3c1f8614dc1a2db", null ],
-    [ "PrepareSpellScript", "d5/dbf/a20158.html#aea46762f43b31923617f740e0545fe98", null ],
-    [ "Register", "d5/dbf/a20158.html#a6ccde780ea9fba273b96d6fd9558a2d1", null ],
-    [ "Validate", "d5/dbf/a20158.html#af526a7a7a82ec7621f8842e884d7b14f", null ]
+    [ "go_ulduar_tower", "d5/dbf/a20158.html#afc1add1a0543921f52afe1eb907f5de3", null ],
+    [ "OnDestroyed", "d5/dbf/a20158.html#aa72ebefe52d49e5b07fb36232efd7e95", null ]
 ];

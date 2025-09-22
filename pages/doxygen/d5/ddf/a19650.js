@@ -1,6 +1,6 @@
 var a19650 =
 [
-    [ "PrepareSpellScript", "d5/ddf/a19650.html#a65c3b2c9a416b7d1bbd3c14057e5f8fc", null ],
-    [ "Register", "d5/ddf/a19650.html#ad8470ed0d09c2b7e79fa4ecb1867e9bf", null ],
-    [ "SetDest", "d5/ddf/a19650.html#a24341aae14ed77101d4c31f2fbe11463", null ]
+    [ "HandleDamageCalc", "d5/ddf/a19650.html#a71b88fbad5acbba47028dd1ff82b4836", null ],
+    [ "PrepareSpellScript", "d5/ddf/a19650.html#a754da297cd5801616e24bf2d802d0b38", null ],
+    [ "Register", "d5/ddf/a19650.html#a231f29ea69a354ddb2963cb4ef9a3f4e", null ]
 ];

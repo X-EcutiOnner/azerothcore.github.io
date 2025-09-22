@@ -1,7 +1,10 @@
 var a14418 =
 [
-    [ "npc_direbrew_minion", "dc/d6b/a14418.html#aaac7d1b1a464ea7ff1ec18ace11d54b7", null ],
-    [ "IsSummonedBy", "dc/d6b/a14418.html#a78d40e0f2a285b0b9c257f12876eabeb", null ],
-    [ "Reset", "dc/d6b/a14418.html#a21fb7a778e9025ca4185951460a96d08", null ],
-    [ "_instance", "dc/d6b/a14418.html#aeea9f455c014afa347ce0c3f106ebdb6", null ]
+    [ "npc_coren_direbrew_sisters", "dc/d6b/a14418.html#a415ea0ebd044236f5f4c4d6c28896e00", null ],
+    [ "GetGUID", "dc/d6b/a14418.html#a61863117e71ebfb7f1c4c83780ece7bc", null ],
+    [ "JustEngagedWith", "dc/d6b/a14418.html#a34e0b6af032240c152c463c221d99335", null ],
+    [ "SetGUID", "dc/d6b/a14418.html#ada2e446a929bbba088d3c7e09d117f93", null ],
+    [ "UpdateAI", "dc/d6b/a14418.html#a7434b08d12d3f0902d1944b75323560c", null ],
+    [ "_scheduler", "dc/d6b/a14418.html#a9d8ca85e7bbd3cc9c61c2bbb38b7d222", null ],
+    [ "_targetGUID", "dc/d6b/a14418.html#a801a6811124a7db3a31ec492ef954b20", null ]
 ];

@@ -1,11 +1,14 @@
 var a07118 =
 [
-    [ "GetSkillValue", "df/df1/a07118.html#a8f5894a5729d4c8d26376bbe1a2ac29e", null ],
-    [ "HasSpell", "df/df1/a07118.html#a3400ad05d8423ae6878fab815521ec6f", null ],
-    [ "PlayerCanUseItem", "df/df1/a07118.html#aee11f4f45f83664483344e3bbfba7463", null ],
-    [ "classMask", "df/df1/a07118.html#a41a57c372871c84a572d2f3697cb18aa", null ],
-    [ "level", "df/df1/a07118.html#a870f632b54e4638b1f5a4e93b6bd9e52", null ],
-    [ "raceMask", "df/df1/a07118.html#a96e56943da42f1a1258fc1d716259e1a", null ],
-    [ "skills", "df/df1/a07118.html#a55c2ad9d1cdea4913cb35deb4adc87fd", null ],
-    [ "spells", "df/df1/a07118.html#ac83cc019ceb1752ce8d6b5a3aa3d350f", null ]
+    [ "getAll", "df/df1/a07118.html#a736642258b38fa05f04df4f4ac9069db", null ],
+    [ "inventoryType", "df/df1/a07118.html#a521224ce63856745ed64c39f6cbdddc4", null ],
+    [ "itemClass", "df/df1/a07118.html#a97bc36937a55f3e9a88dabf9a4e4f0b5", null ],
+    [ "itemSubClass", "df/df1/a07118.html#acf154bf30417c1a202ae85b4dd1adead", null ],
+    [ "levelmax", "df/df1/a07118.html#a902d715d89a5ca66072393ccefbb1ead", null ],
+    [ "levelmin", "df/df1/a07118.html#ac437de5977b177a586381c8665439a56", null ],
+    [ "listfrom", "df/df1/a07118.html#a2be6266f0bbc631d476710cbe291fab1", null ],
+    [ "quality", "df/df1/a07118.html#a1f234ab443ed5e14aafa02ec3ba5cfde", null ],
+    [ "sorting", "df/df1/a07118.html#a6f2e07af2aafb8eb53d845acd7f5ad71", null ],
+    [ "usable", "df/df1/a07118.html#ad81a5f3c2c58e620673539b6271ff8e9", null ],
+    [ "wsearchedname", "df/df1/a07118.html#a0a3764bd2ad869d9fe04aaced1f271ba", null ]
 ];

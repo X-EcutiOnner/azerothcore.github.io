@@ -1,9 +1,5 @@
 var a21842 =
 [
-    [ "npc_counselor_talbotAI", "dc/dbc/a21842.html#acf1865ab4225128b8edbc619f7d8fa93", null ],
-    [ "JustDied", "dc/dbc/a21842.html#a4dbb0c9b91be5fa182bcc5c63ac9307b", null ],
-    [ "JustEngagedWith", "dc/dbc/a21842.html#acacec95c5e74c4b71cf2345bbae2eacb", null ],
-    [ "Reset", "dc/dbc/a21842.html#a03bfaedb136c3e107a4df8e4a1646ae2", null ],
-    [ "UpdateAI", "dc/dbc/a21842.html#a7b5c739d7c85d5205a04f3c6adf367ef", null ],
-    [ "_events", "dc/dbc/a21842.html#a094ce9839bb51b73e6b5826c24cda3b6", null ]
+    [ "npc_leryssaAI", "dc/dbc/a21842.html#ad21a1e1572880ba8cbf6625e658989eb", null ],
+    [ "MovementInform", "dc/dbc/a21842.html#a36180f7351ab11a9942ec59ee24ae6ad", null ]
 ];

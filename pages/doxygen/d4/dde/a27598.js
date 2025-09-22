@@ -1,6 +1,5 @@
 var a27598 =
 [
-    [ "guard_shattrath_aldorAI", "dd/d5d/a27602.html", "dd/d5d/a27602" ],
-    [ "guard_shattrath_aldor", "d4/dde/a27598.html#ab965295d9c3828ad814f658670b5f185", null ],
-    [ "GetAI", "d4/dde/a27598.html#a3459a6a85c7e7286e3cbdd7f56fee704", null ]
+    [ "go_duskwither_spire_power_source", "d4/dde/a27598.html#aab69de16e8b744af2671e2ed882ee94a", null ],
+    [ "OnGossipHello", "d4/dde/a27598.html#a2c7fd017e7985b99bff187119157a041", null ]
 ];

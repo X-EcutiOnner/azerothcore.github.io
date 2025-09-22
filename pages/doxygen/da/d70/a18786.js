@@ -1,8 +1,13 @@
 var a18786 =
 [
-    [ "npc_rotting_frost_giantAI", "da/d70/a18786.html#a7b412075e17a81bf50aba63f96c16e53", null ],
-    [ "JustDied", "da/d70/a18786.html#a68b4e823de82fdfd31ccf765192e8768", null ],
-    [ "Reset", "da/d70/a18786.html#ae96994e7c02a1fb8df8ef9fe80d7bc41", null ],
-    [ "UpdateAI", "da/d70/a18786.html#a7bb99a6ff894c085bf3fb2e2708f3914", null ],
-    [ "_events", "da/d70/a18786.html#ab061ea54c2b36f6f1c2ec7841202e684", null ]
+    [ "npc_highlord_tirion_fordringAI", "da/d70/a18786.html#a8852f9196a6609f317b6113ac2eee9ee", null ],
+    [ "Reset", "da/d70/a18786.html#a80051b1b2a663997304b1754a3f9ff25", null ],
+    [ "SetData", "da/d70/a18786.html#a5642aab7afc50a7494c43ae7a130d571", null ],
+    [ "UpdateAI", "da/d70/a18786.html#ac3c8dc2e5bf6e0c3f380f395a785ad49", null ],
+    [ "_bolvarFordragon", "da/d70/a18786.html#a8e8ae990a6e70a70ce6de3a13300261c", null ],
+    [ "_damnedKills", "da/d70/a18786.html#a56e035884d2ab94629c133efc1fc8feb", null ],
+    [ "_events", "da/d70/a18786.html#a8d8d6f1b8dc65b28a8117426e3767762", null ],
+    [ "_factionNPC", "da/d70/a18786.html#acf9a436edcbfe3fcf47f56c5cf90cfb2", null ],
+    [ "_instance", "da/d70/a18786.html#acd16d6200b08df23576aa9ccbb060d31", null ],
+    [ "_theLichKing", "da/d70/a18786.html#afbe85d7002e34cfcb9414f2beda4e0a2", null ]
 ];

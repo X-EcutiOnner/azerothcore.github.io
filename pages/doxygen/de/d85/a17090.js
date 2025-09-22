@@ -1,6 +1,6 @@
 var a17090 =
 [
-    [ "boss_frostsworn_generalAI", "d7/da7/a17094.html", "d7/da7/a17094" ],
-    [ "boss_frostsworn_general", "de/d85/a17090.html#a33023712cf056eedfed1cb38e18af5dd", null ],
-    [ "GetAI", "de/d85/a17090.html#a8e958e13999f23a81a7230fa9ece276b", null ]
+    [ "npc_tortured_riflemanAI", "d7/da7/a17094.html", "d7/da7/a17094" ],
+    [ "npc_tortured_rifleman", "de/d85/a17090.html#a32e4164864c3873b3684ad531a2e924a", null ],
+    [ "GetAI", "de/d85/a17090.html#aaef71feb7077c561eb2bcf7d4fc411c7", null ]
 ];

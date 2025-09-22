@@ -1,10 +1,9 @@
 var a24998 =
 [
-    [ "Load", "d7/d8b/a24998.html#a2c4e408e45995098b01a05815fffb34c", null ],
-    [ "OnApply", "d7/d8b/a24998.html#acae1047046bb8f555d1798ca024a2650", null ],
-    [ "OnRemove", "d7/d8b/a24998.html#aa01df2b86cf69508866f6e7d063c735a", null ],
-    [ "PrepareAuraScript", "d7/d8b/a24998.html#a18103f56fd6f90f8c3aa53ff53b82492", null ],
-    [ "Register", "d7/d8b/a24998.html#a02ef50b047ac0ac8932d37234ad4ae2f", null ],
-    [ "Validate", "d7/d8b/a24998.html#ac89215007d26494b6eaa690b23d6bbd8", null ],
-    [ "_casterGUID", "d7/d8b/a24998.html#a8047fb4309487c7a529047ec5148a2e3", null ]
+    [ "FilterTargets", "d7/d8b/a24998.html#ae7a54b8e27f91091b479293cc62ee1f4", null ],
+    [ "PrepareSpellScript", "d7/d8b/a24998.html#a215b412cfeae9f2763b1c5d3b8a4ca31", null ],
+    [ "Register", "d7/d8b/a24998.html#ae790485f5b27fe34a0a26c3d6fc7ed41", null ],
+    [ "SetTargets", "d7/d8b/a24998.html#ac77e95af9b08118e87e3329eab5515ea", null ],
+    [ "Validate", "d7/d8b/a24998.html#a8e4b1ff1577f25334b50e25bffc021cc", null ],
+    [ "_targets", "d7/d8b/a24998.html#acc66768f54c514552f0ab01274c24f17", null ]
 ];

@@ -1,7 +1,28 @@
 var a15006 =
 [
-    [ "npc_tarethaAI", "d5/d3b/a15010.html", "d5/d3b/a15010" ],
-    [ "npc_taretha", "dd/d34/a15006.html#a54379e06518ff972e91e25e295731f5a", null ],
-    [ "GetAI", "dd/d34/a15006.html#a5045bb7119b12800ee0053818fcae5fe", null ],
-    [ "OnGossipHello", "dd/d34/a15006.html#ac689e97b3fd54e9c9e40ed5b9aeca099", null ]
+    [ "npc_thrall_old_hillsbradAI", "dd/d34/a15006.html#ae91bdf876060d8ff6fdf4fbf797d07d8", null ],
+    [ "DoAction", "dd/d34/a15006.html#a3f93322f50d324407bfab2ab1c78ad67", null ],
+    [ "JustDied", "dd/d34/a15006.html#ab3fac4faa54b273d67df8f1c39cc2f29", null ],
+    [ "JustEngagedWith", "dd/d34/a15006.html#ac3bb42dd096d49e138399aac2d0616c0", null ],
+    [ "JustReachedHome", "dd/d34/a15006.html#af6b067b16ecd834513590e51e6ddd485", null ],
+    [ "JustSummoned", "dd/d34/a15006.html#aa273d1429c6e82196b5b9f32c4232996", null ],
+    [ "KilledUnit", "dd/d34/a15006.html#ac36d7100de7444fcd711eaeecd510ac3", null ],
+    [ "MountSelf", "dd/d34/a15006.html#ac0f5110c0a7b10f1a14433916ca3bea9", null ],
+    [ "MovementInform", "dd/d34/a15006.html#a557d38e3dc67382567e3bb2933eac74c", null ],
+    [ "ReorderInstance", "dd/d34/a15006.html#ab3cb1a4b08608c9270b957804756d6d8", null ],
+    [ "Reset", "dd/d34/a15006.html#a52ee903a9e53dd9f91b30c388964d04d", null ],
+    [ "SummonedCreatureDespawn", "dd/d34/a15006.html#abfee2eb8ef6086b162fddcd69372ddc8", null ],
+    [ "SummonedCreatureDies", "dd/d34/a15006.html#ae097af2a0aaeecc237a73ab3d4fafb0f", null ],
+    [ "UnMountSelf", "dd/d34/a15006.html#a87af515cc9a6cf73bf602b8c9bed725e", null ],
+    [ "UpdateAI", "dd/d34/a15006.html#aa74db6940f44d81369944ec85a292a1d", null ],
+    [ "UpdateEscortAI", "dd/d34/a15006.html#a1396da1a6a45041f0736ecd3cc09927c", null ],
+    [ "WaypointReached", "dd/d34/a15006.html#a341ef3b9166257d6e8b3452af9b32887", null ],
+    [ "WaypointStart", "dd/d34/a15006.html#ae9073aa689450fca369fa99815804f61", null ],
+    [ "_barnWave", "dd/d34/a15006.html#a391d5e452e96cfcd529ca32c5f168a92", null ],
+    [ "_churchWave", "dd/d34/a15006.html#a5aad5eb0df573cdfe8d55ac53010df0d", null ],
+    [ "_mounted", "dd/d34/a15006.html#a6eb4beb5f9a5a8bf83fdb3d4268ecd54", null ],
+    [ "combatEvents", "dd/d34/a15006.html#ac0227757e89b0d86c77e3b306f12901f", null ],
+    [ "events", "dd/d34/a15006.html#addb829b3cef88f6430c2a1ae5251105f", null ],
+    [ "instance", "dd/d34/a15006.html#aeeeebf8e7c9351ce7ec6b9b86c6180da", null ],
+    [ "summons", "dd/d34/a15006.html#aa681945f635c2ff9bd23d407d48c003d", null ]
 ];

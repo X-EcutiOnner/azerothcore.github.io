@@ -1,15 +1,11 @@
 var a09110 =
 [
-    [ "CoordPair", "d0/def/a09110.html#a53b5f24cfdf13b246549a0c1543924c9", null ],
-    [ "CoordPair", "d0/def/a09110.html#aab92ece0f01ebc00cdac4966e02fa8fd", null ],
-    [ "dec_x", "d0/def/a09110.html#a69be5b72b710722120104f0c502fbb70", null ],
-    [ "dec_y", "d0/def/a09110.html#aefa33f8766212bb71e5fd19a318142cc", null ],
-    [ "GetId", "d0/def/a09110.html#ae4f7f304faf2c2363cffe2170b4c5c97", null ],
-    [ "inc_x", "d0/def/a09110.html#aa6a4942253e87ae57e2d69a2563ddef1", null ],
-    [ "inc_y", "d0/def/a09110.html#a120946c5a8c8b49bbdf9a1ee54ded9ec", null ],
-    [ "IsCoordValid", "d0/def/a09110.html#a082960c54e2077df370f891c0534b44f", null ],
-    [ "normalize", "d0/def/a09110.html#afac8086374bfc499e3a8d74d6afc58db", null ],
-    [ "operator=", "d0/def/a09110.html#a27f81c359c4ae278d663e85eccbeebb9", null ],
-    [ "x_coord", "d0/def/a09110.html#a101dd71af6a2cba18140aea2e502ef8b", null ],
-    [ "y_coord", "d0/def/a09110.html#aacae12844cc0c0d70e26b137ad28f700", null ]
+    [ "~GridCell", "d0/def/a09110.html#a042be8f85e83068d4bb39a0de0618146", null ],
+    [ "AddFarVisibleObject", "d0/def/a09110.html#a9a81bdbf151463b4687227df0fa39ece", null ],
+    [ "AddGridObject", "d0/def/a09110.html#ab64f99dd9997ff6df1f1db25a8d95d19", null ],
+    [ "RemoveFarVisibleObject", "d0/def/a09110.html#a8f76d2ad6abd96506d084a7e47bb8f6b", null ],
+    [ "Visit", "d0/def/a09110.html#aa0c4e5dac57c41d8fce303fb943585a0", null ],
+    [ "Visit", "d0/def/a09110.html#a8bc3a1bda26adb9a2e752afc0a7d56bd", null ],
+    [ "_farVisibleObjects", "d0/def/a09110.html#a2a331c36ea678eb0c9ca6d20b820428f", null ],
+    [ "_gridObjects", "d0/def/a09110.html#ac5a741aebc11124aa228e5107e664335", null ]
 ];

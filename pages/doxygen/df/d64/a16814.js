@@ -1,6 +1,9 @@
 var a16814 =
 [
-    [ "HandleEffectPeriodic", "df/d64/a16814.html#a8775f4e2cb6be96f57596413d560206c", null ],
-    [ "PrepareAuraScript", "df/d64/a16814.html#a45118f9887d248a5eb840b945dee5b79", null ],
-    [ "Register", "df/d64/a16814.html#ad1b2b8e1dca62c31ec2b071ae4ca2f35", null ]
+    [ "npc_concentrated_ballAI", "df/d64/a16814.html#a5aae1554934d8e2aaa59d420a13517b6", null ],
+    [ "DoAction", "df/d64/a16814.html#ad3284ed37cdc503a688aa6fb2537387e", null ],
+    [ "MovementInform", "df/d64/a16814.html#a07845a436ded9c799b742ac9e27cc1bd", null ],
+    [ "MoveToNextPoint", "df/d64/a16814.html#a89d2697d5ccf6d783e973efc3b4669aa", null ],
+    [ "UpdateAI", "df/d64/a16814.html#a6509ff14639bca29b6877db54102d004", null ],
+    [ "despawning", "df/d64/a16814.html#a24145c6c4c38b5a1853647d24871090d", null ]
 ];

@@ -1,6 +1,12 @@
 var a27734 =
 [
-    [ "npc_training_dummyAI", "d9/d4e/a27738.html", "d9/d4e/a27738" ],
-    [ "npc_training_dummy", "d1/dd4/a27734.html#acfed4da3b1a01bc58e599d2dc134cb7d", null ],
-    [ "GetAI", "d1/dd4/a27734.html#a87a48a42e8349ce9125de91a429d4ffa", null ]
+    [ "npc_elder_clearwaterAI", "d1/dd4/a27734.html#a4de89cf4a18918d577be4ac5cc55ba5a", null ],
+    [ "DoAction", "d1/dd4/a27734.html#ac46b0f66be3074f73f5a69cffee6d354", null ],
+    [ "GetData", "d1/dd4/a27734.html#a077c02bf06b16439225a5cf8d83babf2", null ],
+    [ "UpdateAI", "d1/dd4/a27734.html#afbec3c78d34ce4d11a11b56064f343f3", null ],
+    [ "events", "d1/dd4/a27734.html#a267fec22dc3d7272cae74267d0567618", null ],
+    [ "finished", "d1/dd4/a27734.html#af51d6abb8fc8b59d068156a4859a377e", null ],
+    [ "finishWarning", "d1/dd4/a27734.html#a83a2b8e6ceed45d4e6b834e13a4a4cdc", null ],
+    [ "preWarning", "d1/dd4/a27734.html#a64abe15565c7e97a3a0ef195d436fedc", null ],
+    [ "startWarning", "d1/dd4/a27734.html#a01545211dec4338ac44304ebc7f18a97", null ]
 ];

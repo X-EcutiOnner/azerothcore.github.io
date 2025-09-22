@@ -1,7 +1,8 @@
 var a21222 =
 [
-    [ "HandleEffectPeriodic", "dd/dc7/a21222.html#a2b9426d0a2ce9251632acebb30d0e2b5", null ],
-    [ "PrepareAuraScript", "dd/dc7/a21222.html#a7dca0398e78278c78dd80e9e6ca874e1", null ],
-    [ "Register", "dd/dc7/a21222.html#a74052d7da1523b3c4010465510e5fe04", null ],
-    [ "Validate", "dd/dc7/a21222.html#a587a469c649877f80e8fe80062e8b5d4", null ]
+    [ "npc_ulduar_keeperAI", "df/d91/a21226.html", "df/d91/a21226" ],
+    [ "npc_ulduar_keeper", "dd/dc7/a21222.html#a252b781061a2e21dc961ea94f7120d59", null ],
+    [ "GetAI", "dd/dc7/a21222.html#ad0c0f5d3786e3f3b3394a599f3ee6256", null ],
+    [ "OnGossipHello", "dd/dc7/a21222.html#a4db12efd22c7d2a5f18144fd16543230", null ],
+    [ "OnGossipSelect", "dd/dc7/a21222.html#acf8681577117107d16d45705e4b8463f", null ]
 ];

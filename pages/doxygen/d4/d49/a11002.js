@@ -1,6 +1,6 @@
 var a11002 =
 [
-    [ "PetAbandon", "d4/d49/a11002.html#aeac05969ce6bdb41a02f7ffe56126dfd", null ],
-    [ "Read", "d4/d49/a11002.html#a58ebb244de4bd65a85f75dcc24250883", null ],
-    [ "PetGUID", "d4/d49/a11002.html#a7175c081b7cb691ceb4729c1abc5028e", null ]
+    [ "DismissCritter", "d4/d49/a11002.html#a87e35583063b340f014d21cd02c54cab", null ],
+    [ "Read", "d4/d49/a11002.html#a411b65505e8a332ecf9291a670dc38c4", null ],
+    [ "CritterGUID", "d4/d49/a11002.html#a89c071e81c9d39c099c32c4976f15304", null ]
 ];

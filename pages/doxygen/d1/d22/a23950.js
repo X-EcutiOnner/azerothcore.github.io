@@ -1,5 +1,7 @@
 var a23950 =
 [
-    [ "modelId", "d1/d22/a23950.html#a6a7f030a6445a46fe55640356e9c5124", null ],
-    [ "spellId", "d1/d22/a23950.html#a6cfbffba97934cc420964f9b6d7645a3", null ]
+    [ "AfterApply", "d1/d22/a23950.html#a0ba88b8ed8cfd0afa1de500a7a8d74b5", null ],
+    [ "PrepareAuraScript", "d1/d22/a23950.html#aa98346e5f5b23fe016148426a19a719f", null ],
+    [ "Register", "d1/d22/a23950.html#ac0edcddf6c38b933c868dbe0535f143a", null ],
+    [ "Validate", "d1/d22/a23950.html#a616d1758aa257140f4941fe12ef21e87", null ]
 ];

@@ -1,6 +1,7 @@
 var a12522 =
 [
-    [ "boss_garrAI", "d7/d6a/a12526.html", "d7/d6a/a12526" ],
-    [ "boss_garr", "da/de7/a12522.html#ab489eb068430a6aaa83c93104dd54d65", null ],
-    [ "GetAI", "da/de7/a12522.html#abc673a3db7fce0101a0b95d5efbdefa3", null ]
+    [ "HandleAfterApply", "da/de7/a12522.html#a8f55616f861cccf7126f7e1a7c88f3c1", null ],
+    [ "HandleAfterRemove", "da/de7/a12522.html#a7970613f1668294f29f61c1f10a9ba37", null ],
+    [ "PrepareAuraScript", "da/de7/a12522.html#aea2f52682e723f8dacfffa20cd0f41a5", null ],
+    [ "Register", "da/de7/a12522.html#ae38b71adaff3b36f5d7b3007e84e620f", null ]
 ];

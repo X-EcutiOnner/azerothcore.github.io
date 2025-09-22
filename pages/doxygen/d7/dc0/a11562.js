@@ -1,11 +1,25 @@
 var a11562 =
 [
-    [ "WorldUpdateTime", "d7/dc0/a11562.html#a97552c4ce99bd40919f199c17fe203ed", null ],
-    [ "LoadFromConfig", "d7/dc0/a11562.html#acb2b9d56504fc760e7df1c93621ab788", null ],
-    [ "RecordUpdateTime", "d7/dc0/a11562.html#a88d773c8029cebeab6b99444c25c8379", null ],
-    [ "RecordUpdateTimeDuration", "d7/dc0/a11562.html#a3ae299cfba6adcbb4e38af40313428fc", null ],
-    [ "SetRecordUpdateTimeInterval", "d7/dc0/a11562.html#ada81050229ccacc49d5b6a9f6101174c", null ],
-    [ "_lastRecordTime", "d7/dc0/a11562.html#a7bc68a1a700deb4bc4d19992edf3ffa7", null ],
-    [ "_recordUpdateTimeInverval", "d7/dc0/a11562.html#a5486477b0a604f0207336e423f42c2b1", null ],
-    [ "_recordUpdateTimeMin", "d7/dc0/a11562.html#a6b8a8d1b61f9ecec591165fa334972fc", null ]
+    [ "DiffTableArray", "d7/dc0/a11562.html#a38ae34827b0de71df0eeb31c1af9e07e", null ],
+    [ "UpdateTime", "d7/dc0/a11562.html#a5ca37c4eb70f9131276099b65256243b", null ],
+    [ "GetAverageUpdateTime", "d7/dc0/a11562.html#a12ec461e5d33845ed375c0965fb024ae", null ],
+    [ "GetDatasetSize", "d7/dc0/a11562.html#a2073ed7e673a5db381432267861d64ec", null ],
+    [ "GetLastUpdateTime", "d7/dc0/a11562.html#a28ab3fb6bd445bf1b36f7cb3b73acff2", null ],
+    [ "GetMaxUpdateTime", "d7/dc0/a11562.html#ab5b77fcf7746e613e2997601fac659fc", null ],
+    [ "GetMaxUpdateTimeOfCurrentTable", "d7/dc0/a11562.html#ab5f1c144429d1a8fe3937fd22cab8206", null ],
+    [ "GetPercentile", "d7/dc0/a11562.html#a45b460f5fec335763e20bfe06fa33980", null ],
+    [ "GetTimeWeightedAverageUpdateTime", "d7/dc0/a11562.html#a29b8d4c5394820b71aaf8864ba4b8327", null ],
+    [ "RecordUpdateTimeReset", "d7/dc0/a11562.html#a9089665d344f9b0b4e85351dd04e0a5b", null ],
+    [ "SortUpdateTimeDataTable", "d7/dc0/a11562.html#a451d39365491ae8d38816783865d2a75", null ],
+    [ "UpdateWithDiff", "d7/dc0/a11562.html#a8837b608acde446f1eda813ca530c63f", null ],
+    [ "_averageUpdateTime", "d7/dc0/a11562.html#a61337ef6e640cd4ce48019ba6cd4fafd", null ],
+    [ "_maxUpdateTime", "d7/dc0/a11562.html#a65ff51e1503e11ac8f218876afb7afce", null ],
+    [ "_maxUpdateTimeOfCurrentTable", "d7/dc0/a11562.html#ad44ab22d8f9cdbad920887109e52609a", null ],
+    [ "_maxUpdateTimeOfLastTable", "d7/dc0/a11562.html#ae013fcb0d7df86c35d9caf355a6968ff", null ],
+    [ "_needsReorder", "d7/dc0/a11562.html#ac3ccabe6dee6e0e2343fab39a971e888", null ],
+    [ "_orderedUpdateTimeDataTable", "d7/dc0/a11562.html#a6cf15deccacbceff85216c7ceecd98b3", null ],
+    [ "_recordedTime", "d7/dc0/a11562.html#a8736328e4f88bad027298a6d0bbf416c", null ],
+    [ "_totalUpdateTime", "d7/dc0/a11562.html#a1158e0c65b46bd16c782b007bfc2fa3e", null ],
+    [ "_updateTimeDataTable", "d7/dc0/a11562.html#abb8749ed72a0bd159034132fb2a8b628", null ],
+    [ "_updateTimeTableIndex", "d7/dc0/a11562.html#acee0682ebe0d6c2097209262ebee6f80", null ]
 ];

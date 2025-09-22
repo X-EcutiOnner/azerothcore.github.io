@@ -1,7 +1,9 @@
 var a23986 =
 [
-    [ "CastQuill", "d7/d87/a23986.html#a923234809186bcbdf02457f4be095519", null ],
-    [ "Execute", "d7/d87/a23986.html#a26a971a575e4b9503cd1da73d43ebd1e", null ],
-    [ "_caster", "d7/d87/a23986.html#af809b9279aff141ce4007c8d1fbcc331", null ],
-    [ "_spellId", "d7/d87/a23986.html#ad6f7d8eaf69873b0ba57be4189c145cf", null ]
+    [ "HandleEffectApply", "d7/d87/a23986.html#ac9e030810cc1ffb3927943353bcbb764", null ],
+    [ "HandleEffectRemove", "d7/d87/a23986.html#a2524bb4614fa62fb703a3d3cf0c25da0", null ],
+    [ "Load", "d7/d87/a23986.html#a60f41c19f5104eef82048fd1e3416abd", null ],
+    [ "PrepareAuraScript", "d7/d87/a23986.html#a277d9865108acafac4b1a42bc5b5714b", null ],
+    [ "Register", "d7/d87/a23986.html#a5ffe5a8b3422382482f713ff6d8514b2", null ],
+    [ "_falconSet", "d7/d87/a23986.html#a1a20f75d251936bff7a0777831d79140", null ]
 ];

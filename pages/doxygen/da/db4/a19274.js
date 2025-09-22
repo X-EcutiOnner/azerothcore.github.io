@@ -1,6 +1,7 @@
 var a19274 =
 [
-    [ "boss_loathebAI", "d8/dad/a19278.html", "d8/dad/a19278" ],
-    [ "boss_loatheb", "da/db4/a19274.html#a93bf8055a9ed900c880ef8b81b87bafd", null ],
-    [ "GetAI", "da/db4/a19274.html#aca9b3a2515777f81b354c01a9727276e", null ]
+    [ "FilterTargets", "da/db4/a19274.html#af92aec0df6c962a10ccbebb366081cfd", null ],
+    [ "PrepareSpellScript", "da/db4/a19274.html#ad7ccb2b2024887ec0a9802454a8bfaec", null ],
+    [ "Register", "da/db4/a19274.html#af59416debfc7685bec92541a00e1dafe", null ],
+    [ "Validate", "da/db4/a19274.html#abbe7ae557fb510457504f72adfa0aedc", null ]
 ];

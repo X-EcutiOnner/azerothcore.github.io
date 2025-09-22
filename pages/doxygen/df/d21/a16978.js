@@ -1,9 +1,6 @@
 var a16978 =
 [
-    [ "HandlePeriodicTick", "df/d21/a16978.html#a8d3713d113cbcfd610938544e52fe6ec", null ],
-    [ "Load", "df/d21/a16978.html#a6f2cb6a9dd83a887314cdd9f7741acae", null ],
-    [ "PrepareAuraScript", "df/d21/a16978.html#a0d00fd1bbc8dfce6cbc3234865bab42b", null ],
-    [ "Register", "df/d21/a16978.html#a75dbd486e1ccb8c12bbf8001434ae66a", null ],
-    [ "Validate", "df/d21/a16978.html#aae7b42d8e7fa2dc76d2584534877625c", null ],
-    [ "dir", "df/d21/a16978.html#a7dd1959596e8ad1628498215249eb7a2", null ]
+    [ "boss_devourer_of_soulsAI", "db/dd3/a16982.html", "db/dd3/a16982" ],
+    [ "boss_devourer_of_souls", "df/d21/a16978.html#a95b3a33be3b85a4c7ecfb4370a9ddc60", null ],
+    [ "GetAI", "df/d21/a16978.html#a3de68fa630c5b74104c461f88edd1d36", null ]
 ];

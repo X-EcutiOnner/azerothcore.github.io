@@ -1,5 +1,6 @@
 var a23598 =
 [
-    [ "at_underbog_ghazan", "da/d98/a23598.html#aa6c74496bb30bf04e66ac3cd06110811", null ],
-    [ "_OnTrigger", "da/d98/a23598.html#aff03fc0bbded7bf7fa68d0c736bfaff2", null ]
+    [ "instance_steam_vault_InstanceMapScript", "d6/d86/a23602.html", "d6/d86/a23602" ],
+    [ "instance_steam_vault", "da/d98/a23598.html#aa3417083841ccb50c8a2f29ba343e115", null ],
+    [ "GetInstanceScript", "da/d98/a23598.html#a3a2edb84cc7067d3c8fa2151b4763c5a", null ]
 ];

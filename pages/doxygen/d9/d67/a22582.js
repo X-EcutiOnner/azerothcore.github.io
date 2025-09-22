@@ -1,7 +1,7 @@
 var a22582 =
 [
-    [ "HandleScript", "d9/d67/a22582.html#a26eb647b6c938df3aeff7981571dc475", null ],
-    [ "PrepareSpellScript", "d9/d67/a22582.html#a10114d8fa956aabff64aa0df7708f635", null ],
-    [ "Register", "d9/d67/a22582.html#a0c6c379f5dcbb417d94d8e6315aa49dd", null ],
-    [ "Validate", "d9/d67/a22582.html#adb477d34d8012c6fb45c5548fc49e127", null ]
+    [ "npc_wg_siege_machineAI", "d9/d67/a22582.html#aaeca9e73520701ce28f2cc9d1483cc6b", null ],
+    [ "CanControlVehicle", "d9/d67/a22582.html#a7ce79406da48e245a0baa2fdd23622b9", null ],
+    [ "UpdateAI", "d9/d67/a22582.html#a8ddd21047a857facc767a9edc0ec5408", null ],
+    [ "checkTimer", "d9/d67/a22582.html#abf4b06eae50adeefedba02e2186ea48a", null ]
 ];

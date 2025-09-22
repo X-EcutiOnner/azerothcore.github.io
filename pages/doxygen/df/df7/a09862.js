@@ -1,19 +1,14 @@
 var a09862 =
 [
-    [ "InstancedMaps", "df/df7/a09862.html#a2d08c599bf826c4c98aaa9109e3b7a57", null ],
-    [ "MapInstanced", "df/df7/a09862.html#af30e91e40c171ddbf7400f310283c43c", null ],
-    [ "~MapInstanced", "df/df7/a09862.html#aa27d6f90288f23d34117c7d68160e04c", null ],
-    [ "CannotEnter", "df/df7/a09862.html#a29f973e3e4bdfcfb0ea9bf6639b38108", null ],
-    [ "CreateBattleground", "df/df7/a09862.html#ad57ef8f1654b494b8c20f6af461653f4", null ],
-    [ "CreateInstance", "df/df7/a09862.html#a6d04039bbbde5717e50606d48c3ea954", null ],
-    [ "CreateInstanceForPlayer", "df/df7/a09862.html#a9151fb7f7438abddf7aa17d015c600ab", null ],
-    [ "DelayedUpdate", "df/df7/a09862.html#a8f58a4c872089f8fce60ddc31623611e", null ],
-    [ "DestroyInstance", "df/df7/a09862.html#aaff2d76ae18bb7416e0cc8c16e0375d7", null ],
-    [ "FindInstanceMap", "df/df7/a09862.html#a6ec8d0547ce589613f53a2c8d0f4a7fa", null ],
-    [ "GetInstancedMaps", "df/df7/a09862.html#aff2cc0a1f57f06ead9a3e999c1c7dba0", null ],
-    [ "InitVisibilityDistance", "df/df7/a09862.html#a29380bc11b3e33278338bcff32b3cbec", null ],
-    [ "UnloadAll", "df/df7/a09862.html#a7fb86dd2f4b60721aabf3923c461f1fc", null ],
-    [ "Update", "df/df7/a09862.html#a0fce5af3a96e35e9cbe44d73bac8b2df", null ],
-    [ "MapMgr", "df/df7/a09862.html#ae6ac74470769d45e3c75291134ab77df", null ],
-    [ "m_InstancedMaps", "df/df7/a09862.html#a655e624aad00ec0345aa17ce635666bf", null ]
+    [ "BattlegroundMap", "df/df7/a09862.html#a3a9af8a69ac8d188d7fb86f2a9dda2c3", null ],
+    [ "~BattlegroundMap", "df/df7/a09862.html#a327d241fd7930e9b3a98ba50014d5131", null ],
+    [ "AddPlayerToMap", "df/df7/a09862.html#a0325279a2affc7b20a415a3b90a32fc0", null ],
+    [ "CannotEnter", "df/df7/a09862.html#a493a1932eee44c346d9cfb7d13789bb6", null ],
+    [ "GetBG", "df/df7/a09862.html#a2fcb965981bb03571f12c11cdbac54a4", null ],
+    [ "InitVisibilityDistance", "df/df7/a09862.html#af2d6847765d10fab527d77b26dd770ad", null ],
+    [ "RemoveAllPlayers", "df/df7/a09862.html#a5093cbf8005d06452eeb202513323c1e", null ],
+    [ "RemovePlayerFromMap", "df/df7/a09862.html#aeddb9dfae8601e95b0a93cefc12c2612", null ],
+    [ "SetBG", "df/df7/a09862.html#aaa9e5f830953b1a37a684ac566e9b768", null ],
+    [ "SetUnload", "df/df7/a09862.html#a4c03b1aa9c4c53697ad6284825a1b9c1", null ],
+    [ "m_bg", "df/df7/a09862.html#aa38fff695728ddedc94dd6eb6bd7bf3b", null ]
 ];

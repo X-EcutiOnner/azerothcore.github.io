@@ -1,6 +1,7 @@
 var a25462 =
 [
-    [ "HandleScriptEffect", "dc/de0/a25462.html#a78a131bdf6a1406604edd130c28d664b", null ],
-    [ "PrepareSpellScript", "dc/de0/a25462.html#a3b2d739227e57667a284ae4600ec1bb6", null ],
-    [ "Register", "dc/de0/a25462.html#a8a70913369aa733160366f37ff1c3470", null ]
+    [ "OnApply", "dc/de0/a25462.html#afda219a18001505ae7a2d01b1d5b25c0", null ],
+    [ "OnRemove", "dc/de0/a25462.html#a54bcd84599d6e5a6d7f538e2b40b890b", null ],
+    [ "PrepareAuraScript", "dc/de0/a25462.html#a9a7b549e059b6bd2d22802f60e952658", null ],
+    [ "Register", "dc/de0/a25462.html#aae603735281daf02ceca157e218d5c9f", null ]
 ];

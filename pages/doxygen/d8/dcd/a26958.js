@@ -1,7 +1,6 @@
 var a26958 =
 [
-    [ "HandleAuraApply", "d8/dcd/a26958.html#afb8eb7fcc0797c3e19a9bfc5eebb5fb2", null ],
-    [ "HandleAuraRemove", "d8/dcd/a26958.html#a9029865b5e06c4a9aa7f155f371c9125", null ],
-    [ "PrepareAuraScript", "d8/dcd/a26958.html#a5c7d7c0b8880128121d66d39094f1965", null ],
-    [ "Register", "d8/dcd/a26958.html#ae15d5175671c60a55e4a77848bc9fe1b", null ]
+    [ "HandleKnockBack", "d8/dcd/a26958.html#abad9f9293260a3e99be98b43aabb321b", null ],
+    [ "PrepareSpellScript", "d8/dcd/a26958.html#a65787b78165631898458264e6ee310f4", null ],
+    [ "Register", "d8/dcd/a26958.html#ade4f3cb676f1cc92b0e75f85367dc3e0", null ]
 ];

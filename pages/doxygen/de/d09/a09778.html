@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: ServerMailItems Struct Reference</title>
+<title>AzerothCore: ServerMailCondition Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -108,33 +108,40 @@ $(document).ready(function(){initNavTree('de/d09/a09778.html','../../'); initRes
 <a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../da/d24/a09775.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">ServerMailItems Struct Reference</div></div>
+  <div class="headertitle"><div class="title">ServerMailCondition Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p>Represents an item reward associated with a server mail template.  
+<p>Represents a condition that must be met for a player to receive a server mail.  
  <a href="../../de/d09/a09778.html#details">More...</a></p>
 
 <p><code>#include &quot;<a class="el" href="../../">ServerMailMgr.h</a>&quot;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a95cb2278da300c6b0385241f5a3950c1"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d09/a09778.html#a95cb2278da300c6b0385241f5a3950c1">ServerMailItems</a> ()=default</td></tr>
-<tr class="separator:a95cb2278da300c6b0385241f5a3950c1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2ee7d2f3587159c95883fe32674cb586"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d09/a09778.html#a2ee7d2f3587159c95883fe32674cb586">ServerMailCondition</a> ()=default</td></tr>
+<tr class="separator:a2ee7d2f3587159c95883fe32674cb586"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3c223658629357f05d8879555717f624"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d09/a09778.html#a3c223658629357f05d8879555717f624">CheckCondition</a> (<a class="el" href="../../da/ddb/a08650.html">Player</a> *player) const</td></tr>
+<tr class="memdesc:a3c223658629357f05d8879555717f624"><td class="mdescLeft">&#160;</td><td class="mdescRight">Checks if a player meets this condition.  <a href="../../de/d09/a09778.html#a3c223658629357f05d8879555717f624">More...</a><br /></td></tr>
+<tr class="separator:a3c223658629357f05d8879555717f624"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:ae03738595a87a47e831bcbeea6f97d34"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d09/a09778.html#ae03738595a87a47e831bcbeea6f97d34">item</a> { 0 }</td></tr>
-<tr class="separator:ae03738595a87a47e831bcbeea6f97d34"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4475d65dd5721d4af323ae93d15f4170"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d09/a09778.html#a4475d65dd5721d4af323ae93d15f4170">itemCount</a> { 0 }</td></tr>
-<tr class="separator:a4475d65dd5721d4af323ae93d15f4170"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3b318e7743ca48fcf8ba849398a06968"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../df/d28/a03821.html#ab25c41bc314095f74fe678a33e086a2b">ServerMailConditionType</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d09/a09778.html#a3b318e7743ca48fcf8ba849398a06968">type</a> = ServerMailConditionType::Invalid</td></tr>
+<tr class="separator:a3b318e7743ca48fcf8ba849398a06968"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af709199aed99633cc70d9118ee4fd4fc"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d09/a09778.html#af709199aed99633cc70d9118ee4fd4fc">value</a> { 0 }</td></tr>
+<tr class="separator:af709199aed99633cc70d9118ee4fd4fc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a309f739872afaf644331335b27649561"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d09/a09778.html#a309f739872afaf644331335b27649561">state</a> { 0 }</td></tr>
+<tr class="separator:a309f739872afaf644331335b27649561"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p >Represents an item reward associated with a server mail template. </p>
-<p >Server mail templates can have multiple item rewards, stored separately for each faction. This struct tracks the item ID and item count. </p>
+<div class="textblock"><p >Represents a condition that must be met for a player to receive a server mail. </p>
+<p >Each condition has a type (see <a class="el" href="../../df/d28/a03821.html#ab25c41bc314095f74fe678a33e086a2b">ServerMailConditionType</a>) and a value associated with the type. For example, for a level condition, the value represents the required player level.</p>
+<p >Some condition also have a state associated with the value. For example, for a reputation condition, the state represents the current reputation state, like Exalted.</p>
+<p >Conditions are attached to server mail templates and are evaluated when players log in. </p>
 </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a95cb2278da300c6b0385241f5a3950c1" name="a95cb2278da300c6b0385241f5a3950c1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a95cb2278da300c6b0385241f5a3950c1">&#9670;&#160;</a></span>ServerMailItems()</h2>
+<a id="a2ee7d2f3587159c95883fe32674cb586" name="a2ee7d2f3587159c95883fe32674cb586"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2ee7d2f3587159c95883fe32674cb586">&#9670;&#160;</a></span>ServerMailCondition()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -143,7 +150,7 @@ Public Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">ServerMailItems::ServerMailItems </td>
+          <td class="memname">ServerMailCondition::ServerMailCondition </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -158,36 +165,124 @@ Public Attributes</h2></td></tr>
 
 </div>
 </div>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="a3c223658629357f05d8879555717f624" name="a3c223658629357f05d8879555717f624"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3c223658629357f05d8879555717f624">&#9670;&#160;</a></span>CheckCondition()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool ServerMailCondition::CheckCondition </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../da/ddb/a08650.html">Player</a> *&#160;</td>
+          <td class="paramname"><em>player</em></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Checks if a player meets this condition. </p>
+<p >Evaluates the condition type and compares the player's attributes to the required value.</p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">player</td><td>The player to check. </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>True if the player meets the condition, otherwise false. </dd></dl>
+<div class="fragment"><div class="line"><span class="lineno">  337</span>{</div>
+<div class="line"><span class="lineno">  338</span>    <span class="keywordflow">switch</span> (<a class="code hl_variable" href="../../de/d09/a09778.html#a3b318e7743ca48fcf8ba849398a06968">type</a>)</div>
+<div class="line"><span class="lineno">  339</span>    {</div>
+<div class="line"><span class="lineno">  340</span>    <span class="keywordflow">case</span> ServerMailConditionType::Level:</div>
+<div class="line"><span class="lineno">  341</span>        <span class="keywordflow">return</span> player-&gt;<a class="code hl_function" href="../../d5/d78/a08786.html#af4767dc4f1480f7c0527db4efe2643d9">GetLevel</a>() &gt;= <a class="code hl_variable" href="../../de/d09/a09778.html#af709199aed99633cc70d9118ee4fd4fc">value</a>;</div>
+<div class="line"><span class="lineno">  342</span>    <span class="keywordflow">case</span> ServerMailConditionType::PlayTime:</div>
+<div class="line"><span class="lineno">  343</span>        <span class="keywordflow">return</span> player-&gt;<a class="code hl_function" href="../../da/ddb/a08650.html#a462174f8ff0ef1903ff3000bd8d2d67f">GetTotalPlayedTime</a>() &gt;= <a class="code hl_variable" href="../../de/d09/a09778.html#af709199aed99633cc70d9118ee4fd4fc">value</a>;</div>
+<div class="line"><span class="lineno">  344</span>    <span class="keywordflow">case</span> ServerMailConditionType::Quest:</div>
+<div class="line"><span class="lineno">  345</span>        <span class="keywordflow">return</span> player-&gt;<a class="code hl_function" href="../../da/ddb/a08650.html#ab98c62b0161d702e4219c8277f8f5349">GetQuestStatus</a>(<a class="code hl_variable" href="../../de/d09/a09778.html#af709199aed99633cc70d9118ee4fd4fc">value</a>) == <a class="code hl_variable" href="../../de/d09/a09778.html#a309f739872afaf644331335b27649561">state</a>;</div>
+<div class="line"><span class="lineno">  346</span>    <span class="keywordflow">case</span> ServerMailConditionType::Achievement:</div>
+<div class="line"><span class="lineno">  347</span>        <span class="keywordflow">return</span> player-&gt;<a class="code hl_function" href="../../da/ddb/a08650.html#a6787a03b3126a38525bc1884e28a4778">HasAchieved</a>(<a class="code hl_variable" href="../../de/d09/a09778.html#af709199aed99633cc70d9118ee4fd4fc">value</a>);</div>
+<div class="line"><span class="lineno">  348</span>    <span class="keywordflow">case</span> ServerMailConditionType::Reputation:</div>
+<div class="line"><span class="lineno">  349</span>        <span class="keywordflow">return</span> player-&gt;<a class="code hl_function" href="../../da/ddb/a08650.html#ac3ed608b721a2bea2b86a62995e7622a">GetReputationRank</a>(<a class="code hl_variable" href="../../de/d09/a09778.html#af709199aed99633cc70d9118ee4fd4fc">value</a>) &gt;= <a class="code hl_variable" href="../../de/d09/a09778.html#a309f739872afaf644331335b27649561">state</a>;</div>
+<div class="line"><span class="lineno">  350</span>    <span class="keywordflow">case</span> ServerMailConditionType::Faction:</div>
+<div class="line"><span class="lineno">  351</span>        <span class="keywordflow">return</span> player-&gt;<a class="code hl_function" href="../../da/ddb/a08650.html#a4874f5c152e187c381c2a349f16aa0d4">GetTeamId</a>() == <a class="code hl_variable" href="../../de/d09/a09778.html#af709199aed99633cc70d9118ee4fd4fc">value</a>;</div>
+<div class="line"><span class="lineno">  352</span>    <span class="keywordflow">case</span> ServerMailConditionType::Race:</div>
+<div class="line"><span class="lineno">  353</span>        <span class="keywordflow">return</span> (player-&gt;<a class="code hl_function" href="../../d5/d78/a08786.html#a9819c2f13647afe6ac172fb5313cfd83">getRaceMask</a>() &amp; <a class="code hl_variable" href="../../de/d09/a09778.html#af709199aed99633cc70d9118ee4fd4fc">value</a>) != 0;</div>
+<div class="line"><span class="lineno">  354</span>    <span class="keywordflow">case</span> ServerMailConditionType::Class:</div>
+<div class="line"><span class="lineno">  355</span>        <span class="keywordflow">return</span> (player-&gt;<a class="code hl_function" href="../../d5/d78/a08786.html#abbbd9cc147469bc7f35075539bdf55a0">getClassMask</a>() &amp; <a class="code hl_variable" href="../../de/d09/a09778.html#af709199aed99633cc70d9118ee4fd4fc">value</a>) != 0;</div>
+<div class="line"><span class="lineno">  356</span>    <span class="keywordflow">case</span> ServerMailConditionType::AccountFlags:</div>
+<div class="line"><span class="lineno">  357</span>        <span class="keywordflow">return</span> player-&gt;<a class="code hl_function" href="../../da/ddb/a08650.html#a6ab11ca64cde7c5cde1f53998a6f7253">GetSession</a>()-&gt;<a class="code hl_function" href="../../de/df4/a11166.html#a219ffbb1693f9c84f93904bc4f39022b">HasAccountFlag</a>(<a class="code hl_variable" href="../../de/d09/a09778.html#af709199aed99633cc70d9118ee4fd4fc">value</a>);</div>
+<div class="line"><span class="lineno">  358</span>    <span class="keywordflow">default</span>:</div>
+<div class="line"><span class="lineno">  359</span>        [[unlikely]] <a class="code hl_define" href="../../d5/d0f/a00494.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;server.mail&quot;</span>, <span class="stringliteral">&quot;Unknown server mail condition type &#39;{}&#39;&quot;</span>, <span class="keyword">static_cast&lt;</span><a class="code hl_typedef" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a><span class="keyword">&gt;</span>(<a class="code hl_variable" href="../../de/d09/a09778.html#a3b318e7743ca48fcf8ba849398a06968">type</a>));</div>
+<div class="line"><span class="lineno">  360</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  361</span>    }</div>
+<div class="line"><span class="lineno">  362</span>}</div>
+<div class="ttc" id="aa00302_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
+<div class="ttc" id="aa00494_html_a43832e3fa8508deb4ce43e520005fcd9"><div class="ttname"><a href="../../d5/d0f/a00494.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a></div><div class="ttdeci">#define LOG_ERROR(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:158</div></div>
+<div class="ttc" id="aa08650_html_a462174f8ff0ef1903ff3000bd8d2d67f"><div class="ttname"><a href="../../da/ddb/a08650.html#a462174f8ff0ef1903ff3000bd8d2d67f">Player::GetTotalPlayedTime</a></div><div class="ttdeci">uint32 GetTotalPlayedTime()</div><div class="ttdef"><b>Definition:</b> Player.h:1197</div></div>
+<div class="ttc" id="aa08650_html_a4874f5c152e187c381c2a349f16aa0d4"><div class="ttname"><a href="../../da/ddb/a08650.html#a4874f5c152e187c381c2a349f16aa0d4">Player::GetTeamId</a></div><div class="ttdeci">TeamId GetTeamId(bool original=false) const</div><div class="ttdef"><b>Definition:</b> Player.h:2115</div></div>
+<div class="ttc" id="aa08650_html_a6787a03b3126a38525bc1884e28a4778"><div class="ttname"><a href="../../da/ddb/a08650.html#a6787a03b3126a38525bc1884e28a4778">Player::HasAchieved</a></div><div class="ttdeci">bool HasAchieved(uint32 achievementId) const</div><div class="ttdef"><b>Definition:</b> Player.cpp:13945</div></div>
+<div class="ttc" id="aa08650_html_a6ab11ca64cde7c5cde1f53998a6f7253"><div class="ttname"><a href="../../da/ddb/a08650.html#a6ab11ca64cde7c5cde1f53998a6f7253">Player::GetSession</a></div><div class="ttdeci">WorldSession * GetSession() const</div><div class="ttdef"><b>Definition:</b> Player.h:2005</div></div>
+<div class="ttc" id="aa08650_html_ab98c62b0161d702e4219c8277f8f5349"><div class="ttname"><a href="../../da/ddb/a08650.html#ab98c62b0161d702e4219c8277f8f5349">Player::GetQuestStatus</a></div><div class="ttdeci">QuestStatus GetQuestStatus(uint32 quest_id) const</div><div class="ttdef"><b>Definition:</b> PlayerQuest.cpp:1430</div></div>
+<div class="ttc" id="aa08650_html_ac3ed608b721a2bea2b86a62995e7622a"><div class="ttname"><a href="../../da/ddb/a08650.html#ac3ed608b721a2bea2b86a62995e7622a">Player::GetReputationRank</a></div><div class="ttdeci">ReputationRank GetReputationRank(uint32 faction_id) const</div><div class="ttdef"><b>Definition:</b> Player.cpp:5898</div></div>
+<div class="ttc" id="aa08786_html_a9819c2f13647afe6ac172fb5313cfd83"><div class="ttname"><a href="../../d5/d78/a08786.html#a9819c2f13647afe6ac172fb5313cfd83">Unit::getRaceMask</a></div><div class="ttdeci">uint32 getRaceMask() const</div><div class="ttdef"><b>Definition:</b> Unit.h:788</div></div>
+<div class="ttc" id="aa08786_html_abbbd9cc147469bc7f35075539bdf55a0"><div class="ttname"><a href="../../d5/d78/a08786.html#abbbd9cc147469bc7f35075539bdf55a0">Unit::getClassMask</a></div><div class="ttdeci">uint32 getClassMask() const</div><div class="ttdef"><b>Definition:</b> Unit.h:795</div></div>
+<div class="ttc" id="aa08786_html_af4767dc4f1480f7c0527db4efe2643d9"><div class="ttname"><a href="../../d5/d78/a08786.html#af4767dc4f1480f7c0527db4efe2643d9">Unit::GetLevel</a></div><div class="ttdeci">uint8 GetLevel() const</div><div class="ttdef"><b>Definition:</b> Unit.h:1026</div></div>
+<div class="ttc" id="aa09778_html_a309f739872afaf644331335b27649561"><div class="ttname"><a href="../../de/d09/a09778.html#a309f739872afaf644331335b27649561">ServerMailCondition::state</a></div><div class="ttdeci">uint32 state</div><div class="ttdef"><b>Definition:</b> ServerMailMgr.h:93</div></div>
+<div class="ttc" id="aa09778_html_a3b318e7743ca48fcf8ba849398a06968"><div class="ttname"><a href="../../de/d09/a09778.html#a3b318e7743ca48fcf8ba849398a06968">ServerMailCondition::type</a></div><div class="ttdeci">ServerMailConditionType type</div><div class="ttdef"><b>Definition:</b> ServerMailMgr.h:91</div></div>
+<div class="ttc" id="aa09778_html_af709199aed99633cc70d9118ee4fd4fc"><div class="ttname"><a href="../../de/d09/a09778.html#af709199aed99633cc70d9118ee4fd4fc">ServerMailCondition::value</a></div><div class="ttdeci">uint32 value</div><div class="ttdef"><b>Definition:</b> ServerMailMgr.h:92</div></div>
+<div class="ttc" id="aa11166_html_a219ffbb1693f9c84f93904bc4f39022b"><div class="ttname"><a href="../../de/df4/a11166.html#a219ffbb1693f9c84f93904bc4f39022b">WorldSession::HasAccountFlag</a></div><div class="ttdeci">bool HasAccountFlag(uint32 flag) const</div><div class="ttdef"><b>Definition:</b> WorldSession.h:366</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00795">Unit::getClassMask()</a>, <a class="el" href="../../#l01026">Unit::GetLevel()</a>, <a class="el" href="../../#l01430">Player::GetQuestStatus()</a>, <a class="el" href="../../#l00788">Unit::getRaceMask()</a>, <a class="el" href="../../#l05898">Player::GetReputationRank()</a>, <a class="el" href="../../#l02005">Player::GetSession()</a>, <a class="el" href="../../#l02115">Player::GetTeamId()</a>, <a class="el" href="../../#l01197">Player::GetTotalPlayedTime()</a>, <a class="el" href="../../#l00366">WorldSession::HasAccountFlag()</a>, <a class="el" href="../../#l13945">Player::HasAchieved()</a>, <a class="el" href="../../#l00158">LOG_ERROR</a>, <a class="el" href="../../#l00093">state</a>, <a class="el" href="../../#l00091">type</a>, and <a class="el" href="../../#l00092">value</a>.</p>
+
+</div>
+</div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="ae03738595a87a47e831bcbeea6f97d34" name="ae03738595a87a47e831bcbeea6f97d34"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae03738595a87a47e831bcbeea6f97d34">&#9670;&#160;</a></span>item</h2>
+<a id="a309f739872afaf644331335b27649561" name="a309f739872afaf644331335b27649561"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a309f739872afaf644331335b27649561">&#9670;&#160;</a></span>state</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ServerMailItems::item { 0 }</td>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ServerMailCondition::state { 0 }</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00086">ServerMailMgr::LoadMailServerTemplatesItems()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00336">CheckCondition()</a>, and <a class="el" href="../../#l00155">ServerMailMgr::LoadMailServerTemplatesConditions()</a>.</p>
 
 </div>
 </div>
-<a id="a4475d65dd5721d4af323ae93d15f4170" name="a4475d65dd5721d4af323ae93d15f4170"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4475d65dd5721d4af323ae93d15f4170">&#9670;&#160;</a></span>itemCount</h2>
+<a id="a3b318e7743ca48fcf8ba849398a06968" name="a3b318e7743ca48fcf8ba849398a06968"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3b318e7743ca48fcf8ba849398a06968">&#9670;&#160;</a></span>type</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ServerMailItems::itemCount { 0 }</td>
+          <td class="memname"><a class="el" href="../../df/d28/a03821.html#ab25c41bc314095f74fe678a33e086a2b">ServerMailConditionType</a> ServerMailCondition::type = ServerMailConditionType::Invalid</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00086">ServerMailMgr::LoadMailServerTemplatesItems()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00336">CheckCondition()</a>, and <a class="el" href="../../#l00155">ServerMailMgr::LoadMailServerTemplatesConditions()</a>.</p>
+
+</div>
+</div>
+<a id="af709199aed99633cc70d9118ee4fd4fc" name="af709199aed99633cc70d9118ee4fd4fc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af709199aed99633cc70d9118ee4fd4fc">&#9670;&#160;</a></span>value</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ServerMailCondition::value { 0 }</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00336">CheckCondition()</a>, and <a class="el" href="../../#l00155">ServerMailMgr::LoadMailServerTemplatesConditions()</a>.</p>
 
 </div>
 </div>
@@ -196,8 +291,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../de/d09/a09778.html">ServerMailItems</a></li>
-    <li class="footer">Generated on Mon Sep 15 2025 20:46:30 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../de/d09/a09778.html">ServerMailCondition</a></li>
+    <li class="footer">Generated on Mon Sep 22 2025 20:45:53 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

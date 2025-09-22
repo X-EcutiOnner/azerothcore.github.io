@@ -1,7 +1,11 @@
 var a25042 =
 [
-    [ "CheckRequirement", "da/de8/a25042.html#a6be5f335a15226db87a04548490f488d", null ],
-    [ "PrepareSpellScript", "da/de8/a25042.html#a25463eda0ce51a124e8715baf305c8f6", null ],
-    [ "Register", "da/de8/a25042.html#a8db5a5597d8f6fe4064799766fb61502", null ],
-    [ "_level", "da/de8/a25042.html#a3d6867e8eae9afde2b03acc2e6ebe961", null ]
+    [ "spell_gen_relocaste_dest", "da/de8/a25042.html#a5b839f3bd5571ff3b23701c0cd862568", null ],
+    [ "PrepareSpellScript", "da/de8/a25042.html#a135638c19c130f43f7f3c3c14f1d1570", null ],
+    [ "Register", "da/de8/a25042.html#a9fd403a48ac9cec79fdf4ac485bbaa6a", null ],
+    [ "RelocateDest", "da/de8/a25042.html#a1efeb8d17fa6f7cfd9d098d7e97381d9", null ],
+    [ "_o", "da/de8/a25042.html#a31ecfa99e580c8fb828c1a4ee988ac94", null ],
+    [ "_x", "da/de8/a25042.html#aa0d6afcc49e6fa41b6ae37d16e0c25e5", null ],
+    [ "_y", "da/de8/a25042.html#a0152bc47b5950546d9e9505512ed842b", null ],
+    [ "_z", "da/de8/a25042.html#a40136ab0219829dfb0dcfe234aa73af7", null ]
 ];

@@ -1,9 +1,8 @@
 var a08630 =
 [
-    [ "achievements", "d4/d95/a08630.html#acfdabccf4f66aa7ebfbae0bfe185f6dc", null ],
-    [ "items", "d4/d95/a08630.html#a2873836588f37b9a5cf691da2b6fa715", null ],
-    [ "levelMax", "d4/d95/a08630.html#a7430d852e5426c1a32e49c77d747f4e6", null ],
-    [ "levelMin", "d4/d95/a08630.html#a823016216268e13116a46bcb40ea0e70", null ],
-    [ "quests", "d4/d95/a08630.html#a6150aa58762a13dcbfcb55507df77809", null ],
-    [ "reqItemLevel", "d4/d95/a08630.html#a97f262e488e178dad0c33f228808f69e", null ]
+    [ "checkLeaderOnly", "d4/d95/a08630.html#ade8f2e22abe69a9a32085e4d901bc83b", null ],
+    [ "faction", "d4/d95/a08630.html#a23c649e494795b27856b67225370a820", null ],
+    [ "id", "d4/d95/a08630.html#a5d5b8f6fe0bfc5ae98c2fb10e3a18360", null ],
+    [ "note", "d4/d95/a08630.html#a0e800dd8869fedbe71e5b14aa3c79d8a", null ],
+    [ "priority", "d4/d95/a08630.html#a3a66018ae4e7a7e755962f1edae58d29", null ]
 ];

@@ -1,6 +1,6 @@
 var a16082 =
 [
-    [ "boss_hadronoxAI", "de/db7/a16086.html", "de/db7/a16086" ],
-    [ "boss_hadronox", "d4/db8/a16082.html#ae3457fd6108cc350cf9eedab3178f781", null ],
-    [ "GetAI", "d4/db8/a16082.html#a90bf0ecb218e30e61852baffeabc3dc1", null ]
+    [ "PrepareSpellScript", "d4/db8/a16082.html#a2a3602af522bb8658c1bfdede1234efd", null ],
+    [ "Register", "d4/db8/a16082.html#aba235111ea4e186064a85295466f2a3f", null ],
+    [ "SetDest", "d4/db8/a16082.html#a89827e4db37bea4847c79265d95386c6", null ]
 ];

@@ -1,6 +1,7 @@
 var a28666 =
 [
-    [ "categoryMask", "d9/d83/a28666.html#abd8816e5dda7bda455ccd6932647c4be", null ],
-    [ "categoryType", "d9/d83/a28666.html#a954f9fca8d0d84d5aec66f4a3f642f96", null ],
-    [ "ID", "d9/d83/a28666.html#a2e0f0cb7a05da77dee49bd7221c01d60", null ]
+    [ "from", "d9/d83/a28666.html#a8e87b02059c2c1e4b1dd2760c99cb004", null ],
+    [ "ID", "d9/d83/a28666.html#a4375feed48ce5ac7291dced992c9bbf4", null ],
+    [ "price", "d9/d83/a28666.html#a44fc4c13d3426fcbc7b1108e513973de", null ],
+    [ "to", "d9/d83/a28666.html#a6b24cdac137b2b8d9472b5d1aca4178f", null ]
 ];

@@ -1,6 +1,6 @@
 var a02465 =
 [
-    [ "boss_vexallus", "d0/dc5/a13030.html", "d0/dc5/a13030" ],
+    [ "boss_vexallus", "d3/d7b/a13034.html", "d3/d7b/a13034" ],
     [ "Spells", "d4/d73/a02465.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_OIL_REFINERY", "d8/d23/a03038.html#a5bd342133be8c2137b831460acc9298cae2eb4db3c46b45e80cc2feb9c34f2ada", null ],
       [ "SPELL_QUARRY", "d8/d23/a03038.html#a5bd342133be8c2137b831460acc9298ca5a0922923b24c4bb6661ad8396a76e01", null ],

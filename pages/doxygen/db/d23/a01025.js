@@ -1,10 +1,10 @@
 var a01025 =
 [
-    [ "boss_viscidus", "da/da8/a15386.html", "da/da8/a15386" ],
-    [ "boss_glob_of_viscidus", "d0/d49/a15390.html", "d0/d49/a15390" ],
-    [ "npc_toxic_slime", "d6/d45/a15394.html", "d6/d45/a15394" ],
-    [ "spell_explode_trigger", "d0/d58/a15398.html", "d0/d58/a15398" ],
-    [ "spell_summon_toxin_slime", "d6/d01/a15402.html", "d6/d01/a15402" ],
+    [ "boss_viscidus", "d0/d49/a15390.html", "d0/d49/a15390" ],
+    [ "boss_glob_of_viscidus", "d6/d45/a15394.html", "d6/d45/a15394" ],
+    [ "npc_toxic_slime", "d0/d58/a15398.html", "d0/d58/a15398" ],
+    [ "spell_explode_trigger", "d6/d01/a15402.html", "d6/d01/a15402" ],
+    [ "spell_summon_toxin_slime", "d7/d13/a15406.html", "d7/d13/a15406" ],
     [ "Emotes", "db/d23/a01025.html#a2d0a63150f7988db8ff39124dc1cb21a", [
       [ "EMOTE_FRENZY", "de/d7b/a02660.html#a2d0a63150f7988db8ff39124dc1cb21aa55f111609d7846e27c2f642b9f46b1ac", null ],
       [ "EMOTE_SHIMMER", "de/d7b/a02660.html#a2d0a63150f7988db8ff39124dc1cb21aa706a7a036a41d3d1f2650ee226e9ec1e", null ],

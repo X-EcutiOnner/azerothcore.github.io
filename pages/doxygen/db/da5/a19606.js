@@ -1,10 +1,26 @@
 var a19606 =
 [
-    [ "npc_oculus_drakegiverAI", "db/da5/a19606.html#a4bba380256a0ede70b8d90611249b444", null ],
-    [ "MovementInform", "db/da5/a19606.html#adc86ecd4ed7b4b7b42968a0e09fa29a0", null ],
-    [ "UpdateAI", "db/da5/a19606.html#a652a8c364687d51de62356964f6f33f9", null ],
-    [ "m_pInstance", "db/da5/a19606.html#a04e43a623d16b4cf8d80552d649d90ca", null ],
-    [ "moved", "db/da5/a19606.html#a069e202a84d99cd757862bd1a43b5562", null ],
-    [ "resetPosition", "db/da5/a19606.html#a8ef6c480846d08d8a6225a7124320cbf", null ],
-    [ "timer", "db/da5/a19606.html#a461b45ab959e71699cf1543ecbcbd91f", null ]
+    [ "instance_oculus_InstanceMapScript", "db/da5/a19606.html#a86c942751aee67ae10e2c77a1ace630e", null ],
+    [ "CheckAchievementCriteriaMeet", "db/da5/a19606.html#a04ea989733a6ba1bed1990e1ea8baf1f", null ],
+    [ "GetData", "db/da5/a19606.html#a44cf46153dd392758fa5c388e8c2ea84", null ],
+    [ "GetGuidData", "db/da5/a19606.html#ac969f1faf18633ad54354015fb66f4f8", null ],
+    [ "Initialize", "db/da5/a19606.html#a1c035ca450efdd89481715bd09c6c38c", null ],
+    [ "OnCreatureCreate", "db/da5/a19606.html#a1b0553334dc2d00fd12512dae373039a", null ],
+    [ "OnGameObjectCreate", "db/da5/a19606.html#a08abbb0430a43bb4841560b01e9fe26c", null ],
+    [ "OnPlayerEnter", "db/da5/a19606.html#a7046a9b087300d0854bb1078c7bd1c9b", null ],
+    [ "OnUnitDeath", "db/da5/a19606.html#a84fa94a97c62ba7b68130c7a5d8bb4dd", null ],
+    [ "ReadSaveDataMore", "db/da5/a19606.html#aa5f838155be454aec552b99c42edfe99", null ],
+    [ "SetData", "db/da5/a19606.html#a58b0b5142cbae350d6cc61c89a3792af", null ],
+    [ "WriteSaveDataMore", "db/da5/a19606.html#a5043a99a4a3d1c86a4a7026757ebdc14", null ],
+    [ "bAmberVoid", "db/da5/a19606.html#a9dfa8834bfea20a8f4a39c958e38bcbd", null ],
+    [ "bEmeraldVoid", "db/da5/a19606.html#a45ce85a8a6c9362ad04194b0518066c9", null ],
+    [ "bRubyVoid", "db/da5/a19606.html#ad93d6be40d07925d1eb485f864c72ace", null ],
+    [ "CentrifugeCount", "db/da5/a19606.html#ae5a87cc8bfc153aee0f96978f39a1932", null ],
+    [ "DragonCageDoorGUID", "db/da5/a19606.html#a402480035dfffd7c4c717229bd55b921", null ],
+    [ "EregosCacheGUID", "db/da5/a19606.html#aad60cffd6c483bf4610884c3b99ad39c", null ],
+    [ "m_auiEncounter", "db/da5/a19606.html#af4cca13b9039d7c88e7fad1e8f23eb3a", null ],
+    [ "uiDrakosGUID", "db/da5/a19606.html#a1bc410826700bdfcefc5f60d0967a091", null ],
+    [ "uiEregosGUID", "db/da5/a19606.html#a559b482989ee8f91f1ba412683856d89", null ],
+    [ "uiUromGUID", "db/da5/a19606.html#accf640519e925eccf0230ca4a5dee3bb", null ],
+    [ "uiVarosGUID", "db/da5/a19606.html#ab4a87ca38d203deacc377579e66e5bfb", null ]
 ];

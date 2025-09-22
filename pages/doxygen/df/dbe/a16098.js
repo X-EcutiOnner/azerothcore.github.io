@@ -1,11 +1,11 @@
 var a16098 =
 [
-    [ "spell_hadronox_summon_periodic_aura", "df/dbe/a16098.html#afcca15cddf71c0d46bd811eab9174f1a", null ],
-    [ "HandlePeriodic", "df/dbe/a16098.html#a048695baf71d307e5aaa00e54586c9f7", null ],
-    [ "OnApply", "df/dbe/a16098.html#a4466547bc1a5259a33354f2008d6cce7", null ],
-    [ "PrepareAuraScript", "df/dbe/a16098.html#a4205560054e5baed86aecba3b98fc202", null ],
-    [ "Register", "df/dbe/a16098.html#a09efdcddaed4af2833139ca20ef94376", null ],
-    [ "Validate", "df/dbe/a16098.html#a20827683249c17625242e205bb51f9e8", null ],
-    [ "_delay", "df/dbe/a16098.html#a191d7eec948e0753835bd41eef66f1ec", null ],
-    [ "_spellEntry", "df/dbe/a16098.html#a52e45512e2bbe34b0bdbfaa273aeb997", null ]
+    [ "npc_anub_ar_crusherAI", "df/dbe/a16098.html#a35866e3cad208bb70bbc5a146301c28d", null ],
+    [ "DoAction", "df/dbe/a16098.html#ac11795153811d2465b106bc1fdea508a", null ],
+    [ "JustEngagedWith", "df/dbe/a16098.html#a02d3b78427bc247cde28620470c43331", null ],
+    [ "JustSummoned", "df/dbe/a16098.html#a6d484f8d3f54bb7c7ad572027501f2ab", null ],
+    [ "Reset", "df/dbe/a16098.html#a85f60e0733ac4ccd8f7941e8df0f88d9", null ],
+    [ "UpdateAI", "df/dbe/a16098.html#aaeda7e00410766857ee4bd73a8e15b89", null ],
+    [ "events", "df/dbe/a16098.html#ad4a2111d4301f0b928fbd01b6783fb6c", null ],
+    [ "summons", "df/dbe/a16098.html#a3136ecd40bf228fade0e40d3c5d22e5d", null ]
 ];

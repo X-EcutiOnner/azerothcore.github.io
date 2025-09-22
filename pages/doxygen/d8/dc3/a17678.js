@@ -1,6 +1,6 @@
 var a17678 =
 [
-    [ "boss_festergutAI", "d2/d77/a17682.html", "d2/d77/a17682" ],
-    [ "boss_festergut", "d8/dc3/a17678.html#a07ac6be688118cc57e6fdc1d8e961953", null ],
-    [ "GetAI", "d8/dc3/a17678.html#ab2624e1908bb376f1b195a88e4b9b146", null ]
+    [ "npc_icc_blood_beastAI", "d2/d77/a17682.html", "d2/d77/a17682" ],
+    [ "npc_icc_blood_beast", "d8/dc3/a17678.html#ac6de0dfe16f39d192f1e49d3ab444d5a", null ],
+    [ "GetAI", "d8/dc3/a17678.html#adf18d561b5d1c4c89e7f2ccb10f99492", null ]
 ];

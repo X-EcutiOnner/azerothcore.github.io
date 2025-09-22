@@ -1,7 +1,6 @@
 var a24710 =
 [
-    [ "HandleProc", "d1/df8/a24710.html#ab00bbdd8580426a621abc11c4308bdc4", null ],
-    [ "PrepareAuraScript", "d1/df8/a24710.html#a2840931b939b95e6a476c07f08ca66b5", null ],
-    [ "Register", "d1/df8/a24710.html#ae769fddc14aed4d1055d2f947d292fcf", null ],
-    [ "lastChargeUsedTime", "d1/df8/a24710.html#a69e1d242b6d4bfc752e7e0921aa0f90c", null ]
+    [ "CheckProc", "d1/df8/a24710.html#a451ceeda18638f88d2e0a24ac445f5e2", null ],
+    [ "PrepareAuraScript", "d1/df8/a24710.html#a0a6d4617ff3351411f4e13f53876db31", null ],
+    [ "Register", "d1/df8/a24710.html#a0e5d974111eeca075f38910223f5eaf4", null ]
 ];

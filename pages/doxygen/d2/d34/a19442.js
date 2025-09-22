@@ -1,6 +1,6 @@
 var a19442 =
 [
-    [ "npc_scion_of_eternityAI", "d4/dd0/a19446.html", "d4/dd0/a19446" ],
-    [ "npc_scion_of_eternity", "d2/d34/a19442.html#ac1d66d65b5d4468b908443a64dc2de1c", null ],
-    [ "GetAI", "d2/d34/a19442.html#a7c27a55f177fb9e31f73fa1cb227fa27", null ]
+    [ "npc_nexus_lordAI", "d4/dd0/a19446.html", "d4/dd0/a19446" ],
+    [ "npc_nexus_lord", "d2/d34/a19442.html#a6e58f0074451dfd04b95b3ecaa0201e3", null ],
+    [ "GetAI", "d2/d34/a19442.html#a1cea0b189b2ef8e932b51caf3d70d6ba", null ]
 ];

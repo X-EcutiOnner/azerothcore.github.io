@@ -1,7 +1,7 @@
 var a24278 =
 [
-    [ "npc_creditmarker_visit_with_ancestorsAI", "d5/d9b/a24278.html#a483e8fb0d73561e34a1078fdde1a1b5b", null ],
-    [ "JustEngagedWith", "d5/d9b/a24278.html#a4038d707731f64f588e307c22c859902", null ],
-    [ "MoveInLineOfSight", "d5/d9b/a24278.html#a40d92122cd4f879f52ff78a4f172c3b8", null ],
-    [ "Reset", "d5/d9b/a24278.html#a29132346f117ba785039057619edb9e7", null ]
+    [ "npc_maghar_captiveAI", "dd/d1c/a24282.html", "dd/d1c/a24282" ],
+    [ "npc_maghar_captive", "d5/d9b/a24278.html#a59e177f33306ed0bb3de9f640d3685e4", null ],
+    [ "GetAI", "d5/d9b/a24278.html#a7f1528549b55edfb5286db4afe6ce50e", null ],
+    [ "OnQuestAccept", "d5/d9b/a24278.html#a966fdfe66a65675eb1618b0698dfbb21", null ]
 ];

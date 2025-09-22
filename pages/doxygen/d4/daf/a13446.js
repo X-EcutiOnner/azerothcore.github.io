@@ -1,11 +1,7 @@
 var a13446 =
 [
-    [ "spell_eredar_twins_handle_touch_periodic", "d4/daf/a13446.html#aa41bba6ce2889eb2a58409b611f53e49", null ],
-    [ "OnPeriodic", "d4/daf/a13446.html#a8d863af82300eacc1456a08f8461d5a7", null ],
-    [ "PrepareAuraScript", "d4/daf/a13446.html#af04b38478379a10c5d94a7e4216ad9fa", null ],
-    [ "Register", "d4/daf/a13446.html#a4908c5c3e6afdf0305dfb4729cfba503", null ],
-    [ "Validate", "d4/daf/a13446.html#aebeee23df951737b99e7a4ab026cbb1b", null ],
-    [ "_aura", "d4/daf/a13446.html#a0b1df96674584554d53688e993c2a310", null ],
-    [ "_effectIndex", "d4/daf/a13446.html#aa873d0475c70db5c5ba9cea802dc3569", null ],
-    [ "_touchSpell", "d4/daf/a13446.html#ae60a5c2918105785805dc45b3942ee4a", null ]
+    [ "HandleScript", "d4/daf/a13446.html#aae2f572a523431f6764f08e4719adbcf", null ],
+    [ "PrepareSpellScript", "d4/daf/a13446.html#a20fdb423d5db4f1fa629a0f0480e2a9f", null ],
+    [ "Register", "d4/daf/a13446.html#ae3b002197564318cc92242bd925d35af", null ],
+    [ "Validate", "d4/daf/a13446.html#a98d9d84fd26d110efbbbaba9a19ef423", null ]
 ];

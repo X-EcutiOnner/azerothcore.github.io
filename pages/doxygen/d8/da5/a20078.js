@@ -1,6 +1,6 @@
 var a20078 =
 [
-    [ "npc_freya_wardAI", "df/db3/a20082.html", "df/db3/a20082" ],
-    [ "npc_freya_ward", "d8/da5/a20078.html#aebaadcc001922c78e8ec43084a827ac9", null ],
-    [ "GetAI", "d8/da5/a20078.html#a90c0e7a0be1717bf1793415b6fcafbed", null ]
+    [ "boss_flame_leviathan_overload_deviceAI", "df/db3/a20082.html", "df/db3/a20082" ],
+    [ "boss_flame_leviathan_overload_device", "d8/da5/a20078.html#ad00f601170c1af833aadb17eab5d19a8", null ],
+    [ "GetAI", "d8/da5/a20078.html#a73988d2b1cfe61d0356ec1f317d90162", null ]
 ];

@@ -1,8 +1,6 @@
 var a14454 =
 [
-    [ "OnApply", "db/d86/a14454.html#a6f3f05316f025ef638672a82cc855136", null ],
-    [ "PeriodicTick", "db/d86/a14454.html#a051d292f9483e6b82d773fba3ab52460", null ],
-    [ "PrepareAuraScript", "db/d86/a14454.html#ab8face95be60d7c5ba3fe15f0d05de25", null ],
-    [ "Register", "db/d86/a14454.html#a0004de73250b8523db2b9ab714c8a246", null ],
-    [ "Validate", "db/d86/a14454.html#aae1809dd5bc8baa06ee079a6d2a8b940", null ]
+    [ "PeriodicTick", "db/d86/a14454.html#a0832c36a9497674374b2998398bfc3a4", null ],
+    [ "PrepareAuraScript", "db/d86/a14454.html#a89acb64235da1ff59da90a509fbeec9d", null ],
+    [ "Register", "db/d86/a14454.html#aab689a2cb84dcd064736171035640584", null ]
 ];

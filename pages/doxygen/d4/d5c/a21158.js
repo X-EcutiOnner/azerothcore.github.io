@@ -1,6 +1,7 @@
 var a21158 =
 [
-    [ "OnRemove", "d4/d5c/a21158.html#a0e2113cd165f9f6ce88ba6eea9034806", null ],
-    [ "PrepareAuraScript", "d4/d5c/a21158.html#a5fb0837417b915676549370cc76c477d", null ],
-    [ "Register", "d4/d5c/a21158.html#a7f1844fded6ad112cc99d33f52e0799c", null ]
+    [ "OnPeriodic", "d4/d5c/a21158.html#a529e89c1ae0074370da174defc086719", null ],
+    [ "PrepareAuraScript", "d4/d5c/a21158.html#a587652095a5dfae229787a0c0ceacfbe", null ],
+    [ "Register", "d4/d5c/a21158.html#acd5551b09882d720608bdec6036dee9a", null ],
+    [ "Validate", "d4/d5c/a21158.html#aaed6604e39dd977f4e7c671052d718e8", null ]
 ];

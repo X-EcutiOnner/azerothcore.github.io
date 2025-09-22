@@ -1,7 +1,7 @@
 var a01829 =
 [
-    [ "instance_violet_hold", "da/d39/a21582.html", "da/d39/a21582" ],
-    [ "instance_violet_hold::instance_violet_hold_InstanceMapScript", "d2/d99/a21586.html", "d2/d99/a21586" ],
+    [ "instance_violet_hold", "de/d7a/a21590.html", "de/d7a/a21590" ],
+    [ "instance_violet_hold::instance_violet_hold_InstanceMapScript", "d7/d37/a21594.html", "d7/d37/a21594" ],
     [ "vYells", "d6/dbd/a01829.html#af81bfaea39a160ddb9422869d6637d65", [
       [ "CYANIGOSA_SAY_SPAWN", "d6/dbd/a01829.html#af81bfaea39a160ddb9422869d6637d65ad55452f43eb6c2a7803dd3a6914ff586", null ],
       [ "SAY_SINCLARI_LEAVING", "d6/dbd/a01829.html#af81bfaea39a160ddb9422869d6637d65a98abfd4974743840603721fea2cd0192", null ],

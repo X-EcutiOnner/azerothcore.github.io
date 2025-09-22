@@ -1,6 +1,9 @@
 var a22506 =
 [
-    [ "npc_icefangAI", "db/dfa/a22510.html", "db/dfa/a22510" ],
-    [ "npc_icefang", "d6/d15/a22506.html#a2e13be89b110abaa2509e597e4cf883a", null ],
-    [ "GetAI", "d6/d15/a22506.html#ad1a936b1eef30271912054a817e0c9f8", null ]
+    [ "npc_brunnhildar_prisonerAI", "d6/d15/a22506.html#ad650885c7f615f8b27ba20203c9fbb6f", null ],
+    [ "JustRespawned", "d6/d15/a22506.html#a15843fcdc5d9eb34df7869b56a0b16ac", null ],
+    [ "Reset", "d6/d15/a22506.html#ac9ba0806b9702cebe9171d9ba8962b0f", null ],
+    [ "SpellHit", "d6/d15/a22506.html#af2835ec5b951e2f4bb176ebe6bb958fd", null ],
+    [ "UpdateAI", "d6/d15/a22506.html#a0702d4cf577ac00688a7b93bfe656952", null ],
+    [ "freed", "d6/d15/a22506.html#a46e03a19bac91a800154e3c873235800", null ]
 ];

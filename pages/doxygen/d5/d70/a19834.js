@@ -1,8 +1,8 @@
 var a19834 =
 [
-    [ "dark_rune_stormcallerAI", "d5/d70/a19834.html#ad889fb0c50e879c958c9b8bb681e4bf7", null ],
-    [ "JustEngagedWith", "d5/d70/a19834.html#a7ddfb8afac3ff28a84b26255628fab50", null ],
-    [ "Reset", "d5/d70/a19834.html#afa9cc2e1a9f7d21cd885479e9afdcd12", null ],
-    [ "UpdateAI", "d5/d70/a19834.html#adbd245fc5180dc7c78704595a9592864", null ],
-    [ "events", "d5/d70/a19834.html#aa7d8d1d075eeb03952b47cc16846a3db", null ]
+    [ "dark_rune_protectorsAI", "d5/d70/a19834.html#ae2f3cfd19e565ede132e38f439a930ba", null ],
+    [ "JustEngagedWith", "d5/d70/a19834.html#aa71514efa488ff8f9276cb2a4c166759", null ],
+    [ "Reset", "d5/d70/a19834.html#a88305b8ac016175d61a0387d1888671f", null ],
+    [ "UpdateAI", "d5/d70/a19834.html#a0e27fc91a01362ee58a0eb10fb9a5176", null ],
+    [ "events", "d5/d70/a19834.html#a2836d6f142a322dae0aed9ff6a4888e2", null ]
 ];

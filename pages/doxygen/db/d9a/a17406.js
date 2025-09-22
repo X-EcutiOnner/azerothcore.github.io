@@ -1,11 +1,5 @@
 var a17406 =
 [
-    [ "boss_moorabiAI", "db/d9a/a17406.html#a60a03c3840a3743719996929d2ca9e59", null ],
-    [ "JustDied", "db/d9a/a17406.html#a6d866bf54dc06e4f20eb4d62ea97928a", null ],
-    [ "JustEngagedWith", "db/d9a/a17406.html#a1fa46ac21b28ff49382c7389a46fad75", null ],
-    [ "KilledUnit", "db/d9a/a17406.html#a265855d2972e534e927bfa609fbf2cf5", null ],
-    [ "Reset", "db/d9a/a17406.html#a9daf89ed0f4e5795cafc63a6a81e5d1d", null ],
-    [ "SpellHitTarget", "db/d9a/a17406.html#af1f30a0f3bf0f88725f8a146c528b77a", null ],
-    [ "UpdateAI", "db/d9a/a17406.html#a9f9956aaaa60d5d0005a55a87d0424eb", null ],
-    [ "events2", "db/d9a/a17406.html#a02a3bc20ca7b1b750bfd1bd29f093dd2", null ]
+    [ "achievement_share_the_love", "db/d9a/a17406.html#a3eaa89eaa356b0e2f8b5c688439baf9c", null ],
+    [ "OnCheck", "db/d9a/a17406.html#a9d6b6d19611d1482111692de9f2b1cc8", null ]
 ];

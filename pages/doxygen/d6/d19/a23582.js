@@ -1,5 +1,8 @@
 var a23582 =
 [
-    [ "go_main_chambers_access_panel", "d6/d19/a23582.html#a30c3c20be1892b5107ef53683d593b75", null ],
-    [ "OnGossipHello", "d6/d19/a23582.html#af4b3a4a0260de68dcfac7202e0a728ee", null ]
+    [ "boss_mekgineer_steamrigger", "d6/d19/a23582.html#a930dcbade7135d0c689bcc0718815547", null ],
+    [ "JustDied", "d6/d19/a23582.html#a79272c233bc0256cca62700fc7a01421", null ],
+    [ "JustEngagedWith", "d6/d19/a23582.html#aa75dea00ffd73b45ba5115ea1e48a006", null ],
+    [ "JustSummoned", "d6/d19/a23582.html#a7a55a9dffaf239e73962356eb0fa88ad", null ],
+    [ "KilledUnit", "d6/d19/a23582.html#a84374438458cb7e034f91d4b65cd22f1", null ]
 ];

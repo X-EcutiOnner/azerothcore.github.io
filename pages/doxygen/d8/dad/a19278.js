@@ -1,15 +1,7 @@
 var a19278 =
 [
-    [ "boss_loathebAI", "d8/dad/a19278.html#a60256114947b0e9c01f5308108485935", null ],
-    [ "IsInRoom", "d8/dad/a19278.html#a617d45ab3bde4184aa31c1b2c70c1a6f", null ],
-    [ "JustDied", "d8/dad/a19278.html#acf24e563d4876fb9f899a4250b19b6f5", null ],
-    [ "JustEngagedWith", "d8/dad/a19278.html#a1abcf157e05eeb634f8e857a2de35538", null ],
-    [ "JustSummoned", "d8/dad/a19278.html#a8a28f9fe6c087c230103d1139ddb73dc", null ],
-    [ "KilledUnit", "d8/dad/a19278.html#a4dac78bba24069050dd9df729dd58b45", null ],
-    [ "Reset", "d8/dad/a19278.html#a709a4c2fe45fd757ecae6afa402e4728", null ],
-    [ "SummonedCreatureDies", "d8/dad/a19278.html#aeddc6bd981a13ec133e5481b36668b0e", null ],
-    [ "UpdateAI", "d8/dad/a19278.html#ab009008f892493b822e5ea5491c58525", null ],
-    [ "doomCounter", "d8/dad/a19278.html#aed5c631ede2eea27451a74ae21221325", null ],
-    [ "events", "d8/dad/a19278.html#adc49463bbe227f892e31716516032c64", null ],
-    [ "summons", "d8/dad/a19278.html#a37ef117714403002afb4faa4978f136b", null ]
+    [ "HandleScript", "d8/dad/a19278.html#a66db3976fe6ec7ee8712c5788ce5f3ec", null ],
+    [ "PrepareAuraScript", "d8/dad/a19278.html#aa3053519be0101f55450d76b1291f0f7", null ],
+    [ "Register", "d8/dad/a19278.html#ada596a7f19115c7178fd07fb9e956f58", null ],
+    [ "Validate", "d8/dad/a19278.html#a768dec18bc0e879c457a64135ec27ad9", null ]
 ];

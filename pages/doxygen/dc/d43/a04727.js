@@ -1,6 +1,6 @@
 var a04727 =
 [
-    [ "Acore::Impl::CurrentServerProcessHolder", "d8/dc0/a28770.html", "d8/dc0/a28770" ],
+    [ "Acore::Impl::CurrentServerProcessHolder", "dd/df0/a28782.html", "dd/df0/a28782" ],
     [ "CHAIN_SPELL_JUMP_RADIUS", "dc/d43/a04727.html#a8dad73b854bbc7c0190e84c30e3ddafc", null ],
     [ "CLASSMASK_ALL_CREATURES", "dc/d43/a04727.html#add3308c1afa012ee9d6fa99299a3bcb5", null ],
     [ "CLASSMASK_ALL_PLAYABLE", "dc/d43/a04727.html#abf66a284fdfaa1dd8b07dbd234ce2028", null ],

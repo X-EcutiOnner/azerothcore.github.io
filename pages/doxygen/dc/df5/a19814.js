@@ -1,8 +1,9 @@
 var a19814 =
 [
-    [ "brann_bronzebeardAI", "db/dd2/a19818.html", "db/dd2/a19818" ],
-    [ "brann_bronzebeard", "dc/df5/a19814.html#a66fd8785647896a1a5f7be041242cfd6", null ],
-    [ "GetAI", "dc/df5/a19814.html#a66d4ae2f243f7869106c2372b3e7166c", null ],
-    [ "OnGossipHello", "dc/df5/a19814.html#a2714a2dde596db76706b8a86f97f82b8", null ],
-    [ "OnGossipSelect", "dc/df5/a19814.html#a0e0068a45012e50a9f645d393bdfe163", null ]
+    [ "boss_sjonnir_malformed_oozeAI", "dc/df5/a19814.html#a0624f769d0ce5a95ea2bb877811b0409", null ],
+    [ "JustEngagedWith", "dc/df5/a19814.html#a9e6527bc46d7b685d938833d18796cee", null ],
+    [ "MoveInLineOfSight", "dc/df5/a19814.html#a7449e135f088a2d4b22a423c71118093", null ],
+    [ "MovementInform", "dc/df5/a19814.html#ac04d90e974f85282737bb5081a123106", null ],
+    [ "UpdateAI", "dc/df5/a19814.html#afccd77c8e90d129fb3a347205a2102db", null ],
+    [ "events", "dc/df5/a19814.html#a73c135ec94b41a752fc203c5e20128d0", null ]
 ];

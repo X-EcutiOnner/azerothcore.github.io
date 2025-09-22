@@ -1,7 +1,6 @@
 var a25894 =
 [
-    [ "HandleProc", "d3/d0d/a25894.html#aee71de2c7f718a443dd48ed649c72a2f", null ],
-    [ "PrepareAuraScript", "d3/d0d/a25894.html#a7ba07407ce43ea4bfb03bc232ed409e3", null ],
-    [ "Register", "d3/d0d/a25894.html#ad907078d049340da77dcfd25a312e32b", null ],
-    [ "Validate", "d3/d0d/a25894.html#ad9987f6b17c9522be954a1b75aed1fc5", null ]
+    [ "PartyTimeEmoteEvent", "d3/d0d/a25894.html#a525efd58fc8465658208058e6dc5d31c", null ],
+    [ "Execute", "d3/d0d/a25894.html#a65a796ff4efece46c519f7bdf1524bb8", null ],
+    [ "_player", "d3/d0d/a25894.html#a61ecb44828c6e4c868def8899791feb3", null ]
 ];

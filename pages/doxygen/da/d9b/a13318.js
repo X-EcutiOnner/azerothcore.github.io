@@ -1,8 +1,7 @@
 var a13318 =
 [
-    [ "FilterTargets", "da/d9b/a13318.html#a4c7627dc20c4dafcee4d6faf97d3914e", null ],
-    [ "HandleScript", "da/d9b/a13318.html#aecb62c147905d0a4fe60086b8028df0b", null ],
-    [ "PrepareSpellScript", "da/d9b/a13318.html#a84ed93d5235781d9d53a47fff39d3ad2", null ],
-    [ "Register", "da/d9b/a13318.html#a2832f131d99608923ade8070e17da86d", null ],
-    [ "Validate", "da/d9b/a13318.html#a1a510f9cf49df69c5904cb79c8cdc860", null ]
+    [ "HandleAfterCast", "da/d9b/a13318.html#afa662fbe1b777047259ac6212961f7a5", null ],
+    [ "HandleScript", "da/d9b/a13318.html#acd21d059ce10a64a3fe648d104d75ec1", null ],
+    [ "PrepareSpellScript", "da/d9b/a13318.html#aca33d0a7c792a6ac18deaaa945a28a26", null ],
+    [ "Register", "da/d9b/a13318.html#a4a898b0b096583af33f1f691a252b2ed", null ]
 ];

@@ -1,7 +1,7 @@
 var a02516 =
 [
-    [ "boss_warmaster_voone", "d1/d37/a12294.html", "d1/d37/a12294" ],
-    [ "boss_warmaster_voone::boss_warmastervooneAI", "da/dfe/a12298.html", "da/dfe/a12298" ],
+    [ "boss_warmaster_voone", "da/dfe/a12298.html", "da/dfe/a12298" ],
+    [ "boss_warmaster_voone::boss_warmastervooneAI", "d2/d7b/a12302.html", "d2/d7b/a12302" ],
     [ "EventGroups", "d2/dab/a02516.html#a1b10b77865251702395e967f7d08cba4", [
       [ "GROUP_THRASHER", "d2/dab/a02516.html#a1b10b77865251702395e967f7d08cba4a07a997e9e94ff0c05366cf511ae15023", null ],
       [ "GROUP_BRAWLER", "d2/dab/a02516.html#a1b10b77865251702395e967f7d08cba4ad5abea2cad34b3bc9e90d92eb3927dd3", null ],

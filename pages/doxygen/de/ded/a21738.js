@@ -1,12 +1,10 @@
 var a21738 =
 [
-    [ "npc_beryl_sorcererAI", "de/ded/a21738.html#a8f99f5f2ad6ccb1b068a86904bb1b864", null ],
-    [ "Initialize", "de/ded/a21738.html#a40400e4e993d20d9bbe4faf063102521", null ],
-    [ "JustEngagedWith", "de/ded/a21738.html#afae877e8dac583c9420d214f77c2b438", null ],
-    [ "Reset", "de/ded/a21738.html#a17a16337c09013483c58cae38576d969", null ],
-    [ "SpellHit", "de/ded/a21738.html#a762ee3ae8df3757279821af13101e0be", null ],
-    [ "UpdateAI", "de/ded/a21738.html#a42ec665b06988d13be6cbee646afc898", null ],
-    [ "_chainsCast", "de/ded/a21738.html#ab6238d539b10a7db9191bdc685ea67eb", null ],
-    [ "_events", "de/ded/a21738.html#ac640099ca01ae2183b84ae9ee3407cc1", null ],
-    [ "_playerGUID", "de/ded/a21738.html#a96f9b39c09b7a5fb484ae9069412751f", null ]
+    [ "npc_jenny", "de/ded/a21738.html#ab845ba4551900a03c5a995d348a1be55", null ],
+    [ "DamageTaken", "de/ded/a21738.html#a8700091c82bfff473f3d5563deb69e0b", null ],
+    [ "Initialize", "de/ded/a21738.html#aab8c540ebb90ebbaef961b1feb3013a3", null ],
+    [ "MoveInLineOfSight", "de/ded/a21738.html#acd0939cee3ecb9d961d09815d9c50f71", null ],
+    [ "UpdateFollowerAI", "de/ded/a21738.html#afbd142855602bcf7a8cd8e4cc4760cf0", null ],
+    [ "_events", "de/ded/a21738.html#aa98caf8b706551470c943b4b722a85ae", null ],
+    [ "_fezzix", "de/ded/a21738.html#ac2115c122c2eac2d5a36d1795d1e6bf0", null ]
 ];

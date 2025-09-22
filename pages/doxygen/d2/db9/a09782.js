@@ -1,13 +1,6 @@
 var a09782 =
 [
-    [ "ServerMail", "d2/db9/a09782.html#a50cf3e6929e397a3c1de83b9fcf83416", null ],
-    [ "active", "d2/db9/a09782.html#a24a12fcafd0b0f4a7c0558737d8fd71f", null ],
-    [ "body", "d2/db9/a09782.html#a58d352611dcb35126f6ec93622ddc4b9", null ],
-    [ "conditions", "d2/db9/a09782.html#a818b993f72f82a022277e1c8d9160011", null ],
-    [ "id", "d2/db9/a09782.html#a6b47994eff9201a6a75f8c621b64716c", null ],
-    [ "itemsA", "d2/db9/a09782.html#a0992466672427c1d24c686bd8fa39378", null ],
-    [ "itemsH", "d2/db9/a09782.html#ad120200ba47bf8ea8511a46d56f0daec", null ],
-    [ "moneyA", "d2/db9/a09782.html#a6a84ca583beef891422f67bef7919c47", null ],
-    [ "moneyH", "d2/db9/a09782.html#a0e899ce54283bc000cc6afb96e6a3244", null ],
-    [ "subject", "d2/db9/a09782.html#a246e499c69c57a436aac4c039ea37d31", null ]
+    [ "ServerMailItems", "d2/db9/a09782.html#a95cb2278da300c6b0385241f5a3950c1", null ],
+    [ "item", "d2/db9/a09782.html#ae03738595a87a47e831bcbeea6f97d34", null ],
+    [ "itemCount", "d2/db9/a09782.html#a4475d65dd5721d4af323ae93d15f4170", null ]
 ];

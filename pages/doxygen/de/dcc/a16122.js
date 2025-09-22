@@ -1,6 +1,5 @@
 var a16122 =
 [
-    [ "instance_azjol_nerub_InstanceScript", "d1/d57/a16126.html", "d1/d57/a16126" ],
-    [ "instance_azjol_nerub", "de/dcc/a16122.html#a61476a0d15136d2bdb3a65eca72963da", null ],
-    [ "GetInstanceScript", "de/dcc/a16122.html#a8bb8477669c6369afe508a400bd4d489", null ]
+    [ "achievement_watch_him_die", "de/dcc/a16122.html#a0d885871eac61d859780e08c8518bb15", null ],
+    [ "OnCheck", "de/dcc/a16122.html#a6ca8851bdf8cae50084ca87c1958fb53", null ]
 ];

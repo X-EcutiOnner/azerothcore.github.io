@@ -1,5 +1,7 @@
 var a20526 =
 [
-    [ "achievement_ignis_shattered", "d2/d97/a20526.html#adbe893b0dd409eb3f10768f81f182f61", null ],
-    [ "OnCheck", "d2/d97/a20526.html#a8a77a6e6979b4b09f5208e51b4faa4c1", null ]
+    [ "HandleScript", "d2/d97/a20526.html#a760bb60198017605111d02af98c827b1", null ],
+    [ "PrepareSpellScript", "d2/d97/a20526.html#a6128956f1037b62fff2e6f10ec22d956", null ],
+    [ "Register", "d2/d97/a20526.html#ae445c98f5543df2f45b77b6cd54d58e7", null ],
+    [ "Validate", "d2/d97/a20526.html#a3bb460d50928bd1b57566dd6a50fa5cd", null ]
 ];

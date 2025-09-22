@@ -1,6 +1,7 @@
 var a23102 =
 [
-    [ "boss_essence_of_sufferingAI", "d9/dcd/a23106.html", "d9/dcd/a23106" ],
-    [ "boss_essence_of_suffering", "df/d33/a23102.html#a1237f428657f0e9a0218695264358384", null ],
-    [ "GetAI", "df/d33/a23102.html#adb54519bdf220cb3e30c81627c1ba11a", null ]
+    [ "SuckBackEvent", "df/d33/a23102.html#a6525e2aefec2680fde20e27ebf962f4c", null ],
+    [ "Execute", "df/d33/a23102.html#aae1664e6ef9d90ec8a0e12554b991bf0", null ],
+    [ "_action", "df/d33/a23102.html#abc54669df2dba0238723a40ababe4c0a", null ],
+    [ "_owner", "df/d33/a23102.html#a4d8bc09803f7786022c1836457ded488", null ]
 ];

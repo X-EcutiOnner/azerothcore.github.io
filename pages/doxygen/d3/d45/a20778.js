@@ -1,9 +1,9 @@
 var a20778 =
 [
-    [ "npc_ulduar_dark_rune_sentinelAI", "d3/d45/a20778.html#a533ae31e0507f12f7d94e347b6b7ebf2", null ],
-    [ "CanAIAttack", "d3/d45/a20778.html#a12b2e5c621a8b04a4d80dde706a4bb2b", null ],
-    [ "Reset", "d3/d45/a20778.html#ada2897f48effedd5d5baa5a260497b5a", null ],
-    [ "UpdateAI", "d3/d45/a20778.html#aa9b319928a9b23cf4d47a07c1eaeb0cd", null ],
-    [ "timer1", "d3/d45/a20778.html#a383a2ee113822b7eff52466f0cc0e137", null ],
-    [ "timer2", "d3/d45/a20778.html#ad5c4698c5d12ff42179d62c47d9f7719", null ]
+    [ "npc_ulduar_dark_rune_watcherAI", "d3/d45/a20778.html#a2239253c2c4760b130ace4a07ef1e8c4", null ],
+    [ "CanAIAttack", "d3/d45/a20778.html#a891e354dc27f0d53e06a0cf2eea46970", null ],
+    [ "Reset", "d3/d45/a20778.html#a79a1081a50ded7afc5f81ed4234be59d", null ],
+    [ "UpdateAI", "d3/d45/a20778.html#a58c5f53f74055b89c11ed27ffe908732", null ],
+    [ "timer1", "d3/d45/a20778.html#aab38ff79ca8fc867a3d6c6512d0376c8", null ],
+    [ "timer2", "d3/d45/a20778.html#a7b4eb188939c15f11a6b2532853ad798", null ]
 ];

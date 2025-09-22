@@ -1,6 +1,6 @@
 var a22538 =
 [
-    [ "CheckCast", "d6/d1d/a22538.html#a9244f2b0a03d408006ef4de0c680baeb", null ],
-    [ "PrepareSpellScript", "d6/d1d/a22538.html#ab4025d8a4acee4723dcca972bce01f45", null ],
-    [ "Register", "d6/d1d/a22538.html#a816afa9351039bd3006ad8e6aa641c3c", null ]
+    [ "HandleScriptEffect", "d6/d1d/a22538.html#a66849cb61f056e861d8887dc98f6ccbf", null ],
+    [ "PrepareSpellScript", "d6/d1d/a22538.html#afa4ad1b205bf963b4230881738baf938", null ],
+    [ "Register", "d6/d1d/a22538.html#a0d8925effced854471e2fbec9c631b91", null ]
 ];

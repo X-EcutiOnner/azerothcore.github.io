@@ -1,10 +1,10 @@
 var a01484 =
 [
-    [ "boss_koralon", "d5/de1/a21446.html", "d5/de1/a21446" ],
-    [ "boss_koralon::boss_koralonAI", "d3/d7d/a21450.html", "d3/d7d/a21450" ],
-    [ "spell_voa_flaming_cinder", "d4/d30/a21454.html", "d4/d30/a21454" ],
-    [ "spell_koralon_meteor_fists_aura", "d8/d47/a21458.html", "d8/d47/a21458" ],
-    [ "spell_flame_warder_meteor_fists_aura", "d2/d42/a21462.html", "d2/d42/a21462" ],
+    [ "boss_koralon", "d4/d30/a21454.html", "d4/d30/a21454" ],
+    [ "boss_koralon::boss_koralonAI", "d8/d47/a21458.html", "d8/d47/a21458" ],
+    [ "spell_voa_flaming_cinder", "d2/d42/a21462.html", "d2/d42/a21462" ],
+    [ "spell_koralon_meteor_fists_aura", "d1/d18/a21466.html", "d1/d18/a21466" ],
+    [ "spell_flame_warder_meteor_fists_aura", "d2/d4e/a21470.html", "d2/d4e/a21470" ],
     [ "Events", "d2/d21/a01484.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "dd/d6f/a02207.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "dd/d6f/a02207.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],

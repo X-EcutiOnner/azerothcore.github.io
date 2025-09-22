@@ -1,6 +1,15 @@
 var a21610 =
 [
-    [ "npc_azure_invaderAI", "df/d50/a21614.html", "df/d50/a21614" ],
-    [ "npc_azure_invader", "d3/df0/a21610.html#ab318178a618f2bfdcd5ea3105c240d32", null ],
-    [ "GetAI", "d3/df0/a21610.html#a19c000084ea74a401ece81ee0e20b65c", null ]
+    [ "npc_vh_teleportation_portalAI", "d3/df0/a21610.html#a9d062de34e4fbc8ccc487a633efa038d", null ],
+    [ "JustDied", "d3/df0/a21610.html#aab2cc259d78492c54e21b4279697f909", null ],
+    [ "JustSummoned", "d3/df0/a21610.html#a029b105ef6f92455c41e064aeb0fd5f6", null ],
+    [ "SummonedMobDied", "d3/df0/a21610.html#ae6b5b15aeee2f7b02d5c54dd8d09aa51", null ],
+    [ "UpdateAI", "d3/df0/a21610.html#a812e330e20924cc34262363ecc0a3fc1", null ],
+    [ "addValue", "d3/df0/a21610.html#aa52f29a41d12320516737b437af62fc3", null ],
+    [ "bKorG", "d3/df0/a21610.html#ad96efd06ebb1902cc30deb22e62d7873", null ],
+    [ "events", "d3/df0/a21610.html#a329635246e80e7264cad6749ee70be40", null ],
+    [ "listOfMobs", "d3/df0/a21610.html#a470a61cf7d424711b07770fd56c74b29", null ],
+    [ "pInstance", "d3/df0/a21610.html#a10ebe705c55d898bfea2af104ce7f86e", null ],
+    [ "spawned", "d3/df0/a21610.html#a8921c314c2f4b958e11136504971f427", null ],
+    [ "wave", "d3/df0/a21610.html#a4dd689e6445e18c3e9883bc471fecdde", null ]
 ];

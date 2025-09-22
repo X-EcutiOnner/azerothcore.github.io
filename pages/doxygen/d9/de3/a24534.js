@@ -1,7 +1,6 @@
 var a24534 =
 [
-    [ "npc_isla_starmaneAI", "dd/de4/a24538.html", "dd/de4/a24538" ],
-    [ "npc_isla_starmane", "d9/de3/a24534.html#af30b3658d8f19be0dc07cb35eeb04668", null ],
-    [ "GetAI", "d9/de3/a24534.html#a0ea2dbaab4115772f92849e06aa85575", null ],
-    [ "OnQuestAccept", "d9/de3/a24534.html#afeda3da3761e96e2901ea06c5a26fa3a", null ]
+    [ "PrepareSpellScript", "d9/de3/a24534.html#ac781a5ff389268d1f18867ff5585ca71", null ],
+    [ "Register", "d9/de3/a24534.html#a5cb9e02774ea6c307e76183253ffb472", null ],
+    [ "SetDest", "d9/de3/a24534.html#a5fec9885b1dd6cf80fb47af321fad98e", null ]
 ];

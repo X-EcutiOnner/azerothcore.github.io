@@ -1,9 +1,10 @@
 var a24614 =
 [
-    [ "npc_pet_gen_toxic_wasteling", "d5/da0/a24614.html#a550a1a9324f605b1a9fd715571f819b7", null ],
-    [ "EnterEvadeMode", "d5/da0/a24614.html#abe25deca7fd1c319085995657d62f22a", null ],
-    [ "MovementInform", "d5/da0/a24614.html#aec73d567c3bd178ffee3bdece83a409e", null ],
-    [ "Reset", "d5/da0/a24614.html#a06a8be653c8685aaf28aee1d1d3ae114", null ],
-    [ "UpdateAI", "d5/da0/a24614.html#a22f96d995fcc722c0e95c4f5692cc128", null ],
-    [ "checkTimer", "d5/da0/a24614.html#aafe402e0443bd39a1b7aa274d95edad6", null ]
+    [ "npc_pet_gen_imp_in_a_bottle", "d5/da0/a24614.html#aa32b7770c2719d77d46fcf6d22989284", null ],
+    [ "InitializeAI", "d5/da0/a24614.html#a9fde3fd30d48068a3ad1a19f65c61bf2", null ],
+    [ "UpdateAI", "d5/da0/a24614.html#a453ec855bb21a30cb72b540ff8f77035", null ],
+    [ "_data", "d5/da0/a24614.html#a982ec923536c2c33353a3673aa425b6a", null ],
+    [ "_hasParty", "d5/da0/a24614.html#a192d9e2ba340040cb6ba5c0f324ffb2d", null ],
+    [ "_ownerGUID", "d5/da0/a24614.html#a5452226bbe4f65a9bd7ce103a7648a2f", null ],
+    [ "_talkTimer", "d5/da0/a24614.html#a07eba859ad2d5db4f6d91734c04020cf", null ]
 ];

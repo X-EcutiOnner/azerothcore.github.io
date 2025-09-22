@@ -1,6 +1,5 @@
 var a13014 =
 [
-    [ "boss_garaxxas", "df/d75/a13014.html#af34e3ef5dac400fb7c217f46345ee9bb", null ],
-    [ "JustEngagedWith", "df/d75/a13014.html#aebfd7b63d714468ed69e920fb89c345d", null ],
-    [ "Reset", "df/d75/a13014.html#a56e6489ce49971cb066444888355626e", null ]
+    [ "boss_warlord_salaris", "df/d75/a13014.html#afe9ace28dcd302e9b9a9ebe806e2ada5", null ],
+    [ "JustEngagedWith", "df/d75/a13014.html#a77b3b531466810ee17f9fd6eadf5872a", null ]
 ];

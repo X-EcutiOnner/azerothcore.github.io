@@ -1,5 +1,6 @@
 var a22614 =
 [
-    [ "achievement_wg_vehicular_gnomeslaughter", "dc/d09/a22614.html#a441b8db113ef4843f433c1ea3f3052b5", null ],
-    [ "OnCheck", "dc/d09/a22614.html#ab23a2d90e536a3a9ecbb3b64c5b0e18f", null ]
+    [ "HandlePeriodicDummy", "dc/d09/a22614.html#a0096e0521c37a4f7f9ab1f2173a807d4", null ],
+    [ "PrepareAuraScript", "dc/d09/a22614.html#ad55ab81c39e8bf53d1e2066bbeefa712", null ],
+    [ "Register", "dc/d09/a22614.html#afeccfe29a0e0f192a4242217f9d4b7e5", null ]
 ];

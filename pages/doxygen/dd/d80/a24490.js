@@ -1,6 +1,6 @@
 var a24490 =
 [
-    [ "PrepareSpellScript", "dd/d80/a24490.html#a6b5c1227e2d12ee5f2040dc6dacd60ac", null ],
-    [ "Register", "dd/d80/a24490.html#ac57aee08a131bcf7db11bc105f32242c", null ],
-    [ "SetDest", "dd/d80/a24490.html#a26362c4873890bb60c2526bf07058746", null ]
+    [ "npc_kservantAI", "d4/d6c/a24494.html", "d4/d6c/a24494" ],
+    [ "npc_kservant", "dd/d80/a24490.html#af04c8a87516e41f7d35071664034af9d", null ],
+    [ "GetAI", "dd/d80/a24490.html#a3ae7327ec2ead5a2d3ffb043f18ccc09", null ]
 ];

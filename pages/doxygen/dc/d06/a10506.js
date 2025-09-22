@@ -1,6 +1,6 @@
 var a10506 =
 [
-    [ "BuyBankSlotResult", "dc/d06/a10506.html#a93b60814becc451c38f06f9702a9e027", null ],
-    [ "Write", "dc/d06/a10506.html#a55a6609863b0d3ef966f222526268acb", null ],
-    [ "Result", "dc/d06/a10506.html#ad7bf499ad8d5f0a7e1a580dd02b84c68", null ]
+    [ "BuyBankSlot", "dc/d06/a10506.html#a0bc11087e9359c6ac762f915b11287d8", null ],
+    [ "Read", "dc/d06/a10506.html#ac4e35f97fe3ff2b2c18a40b8b2eb59fb", null ],
+    [ "Banker", "dc/d06/a10506.html#aa9ae5777ab337f37b1c372d39a8474bf", null ]
 ];

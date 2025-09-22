@@ -1,6 +1,7 @@
 var a24526 =
 [
-    [ "npc_unkor_the_ruthlessAI", "d5/dae/a24530.html", "d5/dae/a24530" ],
-    [ "npc_unkor_the_ruthless", "d8/d70/a24526.html#a4eb173932f39c5503d1db91d55f3a5b7", null ],
-    [ "GetAI", "d8/d70/a24526.html#a552a19b9a48e90f3b093e2b9e16ec867", null ]
+    [ "HandlePeriodic", "d8/d70/a24526.html#a56dd6ce5acad6c8a10eabfc3f35879fe", null ],
+    [ "PrepareAuraScript", "d8/d70/a24526.html#a58dc6668172d046cef3046649928c124", null ],
+    [ "Register", "d8/d70/a24526.html#a5700d7cc8b52ec0351e3d7bf851274b7", null ],
+    [ "Validate", "d8/d70/a24526.html#afa6d5fe15882f33ae1a1d137db9caf8c", null ]
 ];

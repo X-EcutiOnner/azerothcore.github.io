@@ -1,6 +1,5 @@
 var a21390 =
 [
-    [ "CalculateAmount", "d9/d43/a21390.html#a79019ef395c9b66f6a88759b0517005d", null ],
-    [ "PrepareAuraScript", "d9/d43/a21390.html#a1336ab2b7f560deeeeaaf017578bd524", null ],
-    [ "Register", "d9/d43/a21390.html#a9bce52699983fe798c903385faa42462", null ]
+    [ "npc_ritual_channelerAI", "d9/d43/a21390.html#aa770f8f2b9dd5fca86f9e63de7b4000f", null ],
+    [ "AttackStart", "d9/d43/a21390.html#aff09fbdc1e701853c9953882ca73ce2a", null ]
 ];

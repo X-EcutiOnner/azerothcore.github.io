@@ -1,5 +1,6 @@
 var a21590 =
 [
-    [ "go_vh_activation_crystal", "de/d7a/a21590.html#a4af485ac7ab6144282f3204a6d045cea", null ],
-    [ "OnGossipHello", "de/d7a/a21590.html#a47a61ba67086580135559332931e9c6e", null ]
+    [ "instance_violet_hold_InstanceMapScript", "d7/d37/a21594.html", "d7/d37/a21594" ],
+    [ "instance_violet_hold", "de/d7a/a21590.html#ae66f018196cd90683506c3cc3d8c5d7a", null ],
+    [ "GetInstanceScript", "de/d7a/a21590.html#aeedcbb24b0709bd172ebbbc6d9851532", null ]
 ];

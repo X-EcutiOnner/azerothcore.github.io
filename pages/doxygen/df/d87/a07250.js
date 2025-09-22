@@ -1,14 +1,9 @@
 var a07250 =
 [
-    [ "ArenaTeamScore", "df/d87/a07250.html#a017cd1a4d90a466b42aeab8ff1a12f3a", null ],
-    [ "~ArenaTeamScore", "df/d87/a07250.html#ade081f31c498ee03a80f73fe70a56cc7", null ],
-    [ "Assign", "df/d87/a07250.html#a28c3a055e1ad69693470f38fe676f0c6", null ],
-    [ "BuildRatingInfoBlock", "df/d87/a07250.html#ae3e2b8e8a29c50ca20a42a0364349764", null ],
-    [ "BuildTeamInfoBlock", "df/d87/a07250.html#aa876e0cf0b36f8fdb9efe8989092f143", null ],
-    [ "Reset", "df/d87/a07250.html#a90611fd5e656d2d62917003ff0a5ff00", null ],
+    [ "ArenaScore", "df/d87/a07250.html#a58f1391de4e67750dad211b10704499f", null ],
+    [ "AppendToPacket", "df/d87/a07250.html#a3fe2ab34a9abc4d8c4ff863334cf2c84", null ],
+    [ "BuildObjectivesBlock", "df/d87/a07250.html#ac96461b865fc7a9ba0cdfad6ae3fa96f", null ],
+    [ "ToString", "df/d87/a07250.html#ab04b30f4bfa6b1aa89e08e3195ad3b0b", null ],
     [ "Arena", "df/d87/a07250.html#a5f488c25aa439166d145713c67e7d085", null ],
-    [ "Battleground", "df/d87/a07250.html#a0c4048053f5f5cabe5bfbfdde8eded86", null ],
-    [ "MatchmakerRating", "df/d87/a07250.html#a1e82169562a459371f973932d22e2f15", null ],
-    [ "RatingChange", "df/d87/a07250.html#a61c85f158b767a6c81de87d7ad5007db", null ],
-    [ "TeamName", "df/d87/a07250.html#ab99de3b9213f3ccab1791858df6aa3e8", null ]
+    [ "PvPTeamId", "df/d87/a07250.html#a486ee0e05ac5160f0fb174e2a1e061bb", null ]
 ];

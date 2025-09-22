@@ -1,8 +1,11 @@
 var a26826 =
 [
-    [ "HandleRootRemove", "dd/de5/a26826.html#a9678ce2254825b67eb7a16312e960ba9", null ],
-    [ "HandleSnareRemove", "dd/de5/a26826.html#a6a0716f500b3926e66c62a038a1e03d3", null ],
-    [ "PrepareSpellScript", "dd/de5/a26826.html#ab9dc5e2516e269b968cb995040bc00a0", null ],
-    [ "Register", "dd/de5/a26826.html#a119675dccea898932ca090577022b6ba", null ],
-    [ "Validate", "dd/de5/a26826.html#a1a90cf531ba1131952161ff9d10b2cb7", null ]
+    [ "CheckProc", "dd/de5/a26826.html#a7a6eea8debb09c4c9086a92d8e6ee59c", null ],
+    [ "HandleProc", "dd/de5/a26826.html#af29b1d6d8553003514918a383cb08b4a", null ],
+    [ "Load", "dd/de5/a26826.html#a8861c2415c0f705cb4a06c02eabb54d2", null ],
+    [ "OnRemove", "dd/de5/a26826.html#a9227147dd6e621deddd0088b95e9db2f", null ],
+    [ "PrepareAuraScript", "dd/de5/a26826.html#a149881d517edbb15032452554fc64948", null ],
+    [ "Register", "dd/de5/a26826.html#ac81d60d54a87a23bd9481934f5753de0", null ],
+    [ "Validate", "dd/de5/a26826.html#a7a4d1bddd1dbeb41e0f6f8fe272b4ad6", null ],
+    [ "_redirectTarget", "dd/de5/a26826.html#af3ee2a283d8942ab3652a6386c26f737", null ]
 ];

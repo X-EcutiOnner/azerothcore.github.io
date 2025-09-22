@@ -1,9 +1,9 @@
 var a01832 =
 [
-    [ "boss_erekem", "df/d52/a21506.html", "df/d52/a21506" ],
-    [ "boss_erekem::boss_erekemAI", "d1/dee/a21510.html", "d1/dee/a21510" ],
-    [ "npc_erekem_guard", "de/da8/a21514.html", "de/da8/a21514" ],
-    [ "npc_erekem_guard::npc_erekem_guardAI", "d9/dbb/a21518.html", "d9/dbb/a21518" ],
+    [ "boss_erekem", "de/da8/a21514.html", "de/da8/a21514" ],
+    [ "boss_erekem::boss_erekemAI", "d9/dbb/a21518.html", "d9/dbb/a21518" ],
+    [ "npc_erekem_guard", "df/d27/a21522.html", "df/d27/a21522" ],
+    [ "npc_erekem_guard::npc_erekem_guardAI", "d6/dce/a21526.html", "d6/dce/a21526" ],
     [ "eEvents", "dc/d06/a01832.html#a1d3512b0adb171bd0db6aad2c9e70516", [
       [ "EVENT_NULL", "d8/daf/a01550.html#a1d3512b0adb171bd0db6aad2c9e70516afc8e2e36b7d0f732f5f52e0a94155c7a", null ],
       [ "EVENT_CHECK_PLAYERS", "d8/daf/a01550.html#a1d3512b0adb171bd0db6aad2c9e70516a6c1847babeb1b838631eee5b2af3dc2b", null ],

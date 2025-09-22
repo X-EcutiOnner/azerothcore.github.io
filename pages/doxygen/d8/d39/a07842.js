@@ -1,12 +1,9 @@
 var a07842 =
 [
-    [ "HyperlinkInfo", "d8/d39/a07842.html#aa61aad1a1e2cf1a699ff67ee25cc474b", null ],
-    [ "HyperlinkInfo", "d8/d39/a07842.html#ac08518b3afb878fc7979807d764b7872", null ],
-    [ "operator bool", "d8/d39/a07842.html#a834ac95bb310f6653208026e203e065f", null ],
-    [ "color", "d8/d39/a07842.html#a38c0121d4001ad938d9bc53ca08217db", null ],
-    [ "data", "d8/d39/a07842.html#a7d7d839de8eb48a25e2b687b69a092ea", null ],
-    [ "ok", "d8/d39/a07842.html#a54c7a812f79593258002d367110b2403", null ],
-    [ "tag", "d8/d39/a07842.html#a2171d081c4eb0a23d00e637dfa64bcfc", null ],
-    [ "tail", "d8/d39/a07842.html#a065d1a0942abbe5739f44126d5c3ce00", null ],
-    [ "text", "d8/d39/a07842.html#a2b914c9bdc41771b8cb058468bfa23db", null ]
+    [ "HyperlinkColor", "d8/d39/a07842.html#a4b246814aa2e2ac930e1e9e4e79345f0", null ],
+    [ "operator==", "d8/d39/a07842.html#aad186f06a8d61834ec94d29d305fa0f2", null ],
+    [ "a", "d8/d39/a07842.html#a57d68da0bcaec609d89efb18185b7f03", null ],
+    [ "b", "d8/d39/a07842.html#a5ef7a2aab07e2e9a5097a27a466adeca", null ],
+    [ "g", "d8/d39/a07842.html#a4570365880f14c7f7c5e7d96332ae150", null ],
+    [ "r", "d8/d39/a07842.html#a1b4e0f604b95a773d28b93601af8ffe0", null ]
 ];

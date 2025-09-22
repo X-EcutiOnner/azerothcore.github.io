@@ -1,7 +1,8 @@
 var a09830 =
 [
-    [ "resetNotify", "d3/d95/a09830.html#a1472e21d9af04662f3574bc2c7d3890c", null ],
-    [ "Visit", "d3/d95/a09830.html#adfcdcf148b002c641638ddc70d577b14", null ],
-    [ "Visit", "d3/d95/a09830.html#adf95512d4304962a5740b38c32ea28a7", null ],
-    [ "Visit", "d3/d95/a09830.html#a725fc2c2504eecaa15841c27b367cd55", null ]
+    [ "BoundaryIntersectBoundary", "d3/d95/a09830.html#ad92d938418434a1cb6a0eb68c88d281c", null ],
+    [ "~BoundaryIntersectBoundary", "d3/d95/a09830.html#ad8bbf96e48d18ef87ac31dea8bcb023b", null ],
+    [ "IsWithinBoundaryArea", "d3/d95/a09830.html#a09c8440d1ddb8264bff4065910b7e0a5", null ],
+    [ "_b1", "d3/d95/a09830.html#ab0239437fa92e39d144bf3856eb347c7", null ],
+    [ "_b2", "d3/d95/a09830.html#a41e100c17db99990981293399660824c", null ]
 ];

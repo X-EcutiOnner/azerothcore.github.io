@@ -1,6 +1,10 @@
 var a13158 =
 [
-    [ "npc_a_special_surpriseAI", "df/df0/a13162.html", "df/df0/a13162" ],
-    [ "npc_a_special_surprise", "d1/d2d/a13158.html#ab88d74a86049c53b1569bdcc263f3dd4", null ],
-    [ "GetAI", "d1/d2d/a13158.html#a930c7ba67a20fbfc55b40117ccd52c98", null ]
+    [ "npc_scarlet_courierAI", "d1/d2d/a13158.html#a83c5e32659d38a513790322e46dcc283", null ],
+    [ "JustEngagedWith", "d1/d2d/a13158.html#aa470197f0949a413c421bda8c7c09279", null ],
+    [ "MovementInform", "d1/d2d/a13158.html#add19812d92d62b602f96ffc5fb513d6c", null ],
+    [ "Reset", "d1/d2d/a13158.html#ab642188631b67ae5ff5fd312eaf37ff0", null ],
+    [ "UpdateAI", "d1/d2d/a13158.html#ac37287a77e37785b606c742ff8d6eeeb", null ],
+    [ "uiStage", "d1/d2d/a13158.html#a2f920922f8c6f1a878d0e4978e081257", null ],
+    [ "uiStage_timer", "d1/d2d/a13158.html#a8ee22a276535a3a9c2f12a62e984d55b", null ]
 ];

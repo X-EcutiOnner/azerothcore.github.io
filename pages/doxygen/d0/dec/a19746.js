@@ -1,6 +1,6 @@
 var a19746 =
 [
-    [ "instance_halls_of_lightning_InstanceMapScript", "d5/da3/a19750.html", "d5/da3/a19750" ],
-    [ "instance_halls_of_lightning", "d0/dec/a19746.html#a24395866efe2c7d1f7727be2557a8b46", null ],
-    [ "GetInstanceScript", "d0/dec/a19746.html#a5ce157aeaf2ed78e98e864059a599b36", null ]
+    [ "npc_hol_monumentAI", "d5/da3/a19750.html", "d5/da3/a19750" ],
+    [ "npc_hol_monument", "d0/dec/a19746.html#ae70329e600ba869891e04b31d7452fc0", null ],
+    [ "GetAI", "d0/dec/a19746.html#a8e025a4c67d3a04a231f4effe0ef3746", null ]
 ];

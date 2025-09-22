@@ -1,8 +1,10 @@
 var a25598 =
 [
-    [ "CheckProc", "de/de5/a25598.html#a2b0ff2594877249d0bdb4656fa67b83f", null ],
-    [ "HandleProc", "de/de5/a25598.html#ac1aebc16e7944ac3f8305d9ff27bc998", null ],
-    [ "PrepareAuraScript", "de/de5/a25598.html#a19557020af9ca276f72c1d3e4ba8b27b", null ],
-    [ "Register", "de/de5/a25598.html#a43f7bb634cb165fab5e2187256f50c3f", null ],
-    [ "Validate", "de/de5/a25598.html#a7762ce25775b98dba14b4ac465cad711", null ]
+    [ "Load", "de/de5/a25598.html#a04526f30ad35af3f629cdd0c8312e33c", null ],
+    [ "OnApply", "de/de5/a25598.html#a83d922c434442e22482410d61aa0198f", null ],
+    [ "OnPetApply", "de/de5/a25598.html#a6df5e59e29cb89310a1c78bf93029545", null ],
+    [ "OnRemove", "de/de5/a25598.html#aa4efa4ed7d98c63989353c398bb2b128", null ],
+    [ "PrepareAuraScript", "de/de5/a25598.html#a1b4d8f636c01f01bc9380c290de91a0e", null ],
+    [ "Register", "de/de5/a25598.html#a265726c9bfa180c3b8f470eb1eee837b", null ],
+    [ "Validate", "de/de5/a25598.html#ab318472ea9f4aaa79e45f18783586eed", null ]
 ];

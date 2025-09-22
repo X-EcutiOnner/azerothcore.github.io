@@ -1,9 +1,9 @@
 var a24454 =
 [
-    [ "npc_korkron_or_wildhammer", "d6/d1d/a24454.html#a3d2252865e0e540dd76aaf87ff62a83c", null ],
-    [ "IsSummonedBy", "d6/d1d/a24454.html#aa63e935c2d64716f22f4e74e43e6b639", null ],
-    [ "JustDied", "d6/d1d/a24454.html#a2b216f372b3681b4c96a711568c2a93b", null ],
-    [ "MovementInform", "d6/d1d/a24454.html#a598dada110aff99a3c36f3037dcf8bf4", null ],
-    [ "Reset", "d6/d1d/a24454.html#a67d5cf4a8418ab3f07a387f1021080df", null ],
-    [ "_playerGUID", "d6/d1d/a24454.html#a5f1a79c10b5363ee24b3941c54ff10d7", null ]
+    [ "npc_enraged_spiritAI", "d6/d1d/a24454.html#aa487c906c1c0d15dc7761c7288e7d3c6", null ],
+    [ "JustDied", "d6/d1d/a24454.html#a9322622f679dbc311bd8983f5037bd2e", null ],
+    [ "JustEngagedWith", "d6/d1d/a24454.html#a1d192d0dd563dc2735b23a171b2bf659", null ],
+    [ "Reset", "d6/d1d/a24454.html#a2d56572acf042ba34f468f0ff3b0bd1a", null ],
+    [ "UpdateAI", "d6/d1d/a24454.html#adc3d04d66f2b4de7a970f2cd5e476a2b", null ],
+    [ "_scheduler", "d6/d1d/a24454.html#afa6825696b0622849f877b392df4b326", null ]
 ];

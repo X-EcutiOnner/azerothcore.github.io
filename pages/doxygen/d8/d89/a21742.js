@@ -1,6 +1,6 @@
 var a21742 =
 [
-    [ "npc_captured_beryl_sorcererAI", "d4/d25/a21746.html", "d4/d25/a21746" ],
-    [ "npc_captured_beryl_sorcerer", "d8/d89/a21742.html#ace67e76e96e3be9fa5976dc4c90041e6", null ],
-    [ "GetAI", "d8/d89/a21742.html#aa5a31390ff3c6277ebff2a5eebe72b3d", null ]
+    [ "npc_beryl_sorcererAI", "d4/d25/a21746.html", "d4/d25/a21746" ],
+    [ "npc_beryl_sorcerer", "d8/d89/a21742.html#a4f74ee45ee0730fcfd044418771a9ee1", null ],
+    [ "GetAI", "d8/d89/a21742.html#a963646eed9f121f87efe480312957286", null ]
 ];

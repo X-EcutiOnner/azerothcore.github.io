@@ -1,6 +1,12 @@
 var a19218 =
 [
-    [ "boss_grobbulusAI", "df/d38/a19222.html", "df/d38/a19222" ],
-    [ "boss_grobbulus", "d3/db9/a19218.html#acf1b781e86e33a363b68354d34d3c015", null ],
-    [ "GetAI", "d3/db9/a19218.html#ae918614566a0b9979aef4e1aeaac394c", null ]
+    [ "npc_gothik_triggerAI", "d3/db9/a19218.html#ae45c6de238755eb069e0c182943da58c", null ],
+    [ "DamageTaken", "d3/db9/a19218.html#ada8e501edfadbb55162532f081a4b48b", null ],
+    [ "EnterEvadeMode", "d3/db9/a19218.html#aae212c3aecdf82f509ed0bf841f16e59", null ],
+    [ "JustEngagedWith", "d3/db9/a19218.html#ab5403383f1fcd539cacf975dffbe2817", null ],
+    [ "JustSummoned", "d3/db9/a19218.html#a35be0135b77a3e62ac8d421910cf0674", null ],
+    [ "SelectRandomSkullPile", "d3/db9/a19218.html#aeafc63047c9059afdf668b8c22d2937f", null ],
+    [ "SpellHit", "d3/db9/a19218.html#a18a8135ab0395991afc4896950783ae5", null ],
+    [ "SummonedCreatureDespawn", "d3/db9/a19218.html#ad7ed092509dd41fddd44a4024c011364", null ],
+    [ "UpdateAI", "d3/db9/a19218.html#a388a20d6d720f5f44a67073fc40e98b6", null ]
 ];

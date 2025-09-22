@@ -1,7 +1,6 @@
 var a17686 =
 [
-    [ "HandleScript", "de/d2a/a17686.html#a5fe0b684473bd5dd1ff9b12432ff3de8", null ],
-    [ "Load", "de/d2a/a17686.html#ab1d81386ae3ccd332c01864d7f456017", null ],
-    [ "PrepareSpellScript", "de/d2a/a17686.html#ae3ef753ff4c99aa8bed20ce3369a7e0f", null ],
-    [ "Register", "de/d2a/a17686.html#a7edb44f70501c2e760d29c8f78a4e087", null ]
+    [ "boss_festergutAI", "d7/dd5/a17690.html", "d7/dd5/a17690" ],
+    [ "boss_festergut", "de/d2a/a17686.html#a07ac6be688118cc57e6fdc1d8e961953", null ],
+    [ "GetAI", "de/d2a/a17686.html#ab2624e1908bb376f1b195a88e4b9b146", null ]
 ];

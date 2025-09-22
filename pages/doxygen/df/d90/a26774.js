@@ -1,10 +1,6 @@
 var a26774 =
 [
-    [ "CheckProc", "df/d90/a26774.html#a5971c42af47d1cc8045a130deb218a04", null ],
-    [ "HandleProc", "df/d90/a26774.html#a45aaf5afebc2fa533240fcf8233430ed", null ],
-    [ "Load", "df/d90/a26774.html#a7664b0f67c9e3b14841ed9e30447544d", null ],
-    [ "PrepareAuraScript", "df/d90/a26774.html#a291fcf1af497d1e83a31209cd01a360d", null ],
-    [ "Register", "df/d90/a26774.html#af16d0517ad07a454145da0b92c051740", null ],
-    [ "Validate", "df/d90/a26774.html#ac768a5f4738dee9ad7d885fa6136785e", null ],
-    [ "_procTargetGUID", "df/d90/a26774.html#a13976d069846f29d2f744f3f03502787", null ]
+    [ "HandleSendEvent", "df/d90/a26774.html#a8126102215aa6eedd638b89d1a6b7110", null ],
+    [ "PrepareSpellScript", "df/d90/a26774.html#abc57ba05637e2c51bf2d1fb918a93667", null ],
+    [ "Register", "df/d90/a26774.html#ac37abad48c398bdb22529c1a44327d34", null ]
 ];

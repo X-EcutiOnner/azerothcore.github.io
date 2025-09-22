@@ -1,8 +1,7 @@
 var a21146 =
 [
-    [ "Absorb", "d0/d3c/a21146.html#a36a7237d7bcd50626e7a07a32c91cfb4", null ],
-    [ "CalculateAmount", "d0/d3c/a21146.html#afe50bf22d07e68757caffb056ad55811", null ],
-    [ "PrepareAuraScript", "d0/d3c/a21146.html#afa4ef1f7faa36a521c208dde10d09437", null ],
-    [ "Register", "d0/d3c/a21146.html#aae020936d42da81c445f7d296660987b", null ],
-    [ "Validate", "d0/d3c/a21146.html#a5852135c5214ee3938603632b0f21917", null ]
+    [ "FilterTargets", "d0/d3c/a21146.html#a4e27a01b87e6f003ed52da45a4bda403", null ],
+    [ "HandleDummyEffect", "d0/d3c/a21146.html#abfe7ff12346d54fe3a0c1450897e58ee", null ],
+    [ "PrepareSpellScript", "d0/d3c/a21146.html#a0c31912e28eaa5922edb1ca4c7689883", null ],
+    [ "Register", "d0/d3c/a21146.html#a337cdb940a2001ac370768b02126d3c0", null ]
 ];

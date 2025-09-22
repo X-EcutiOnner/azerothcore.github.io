@@ -1,6 +1,7 @@
 var a22134 =
 [
-    [ "npc_amberpine_woodsmanAI", "dd/d80/a22138.html", "dd/d80/a22138" ],
-    [ "npc_amberpine_woodsman", "dc/d50/a22134.html#a33bbec50a360b724bfe9cb8612cbb47d", null ],
-    [ "GetAI", "dc/d50/a22134.html#a9c1df6c01c163ca68712d72b14c46139", null ]
+    [ "HandleScriptEffect", "dc/d50/a22134.html#a2d39a073c351860db735301b4cf9c79f", null ],
+    [ "PrepareSpellScript", "dc/d50/a22134.html#a3674adaef23f1531af360a65c14efadd", null ],
+    [ "Register", "dc/d50/a22134.html#a11b217c0066217f2da5ff42ce35c9a0a", null ],
+    [ "Validate", "dc/d50/a22134.html#a3dadb61ca7dd8195ba5fdac5bf49583c", null ]
 ];

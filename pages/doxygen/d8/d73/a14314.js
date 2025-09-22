@@ -1,6 +1,8 @@
 var a14314 =
 [
-    [ "boss_wushoolayAI", "d4/d35/a14318.html", "d4/d35/a14318" ],
-    [ "boss_wushoolay", "d8/d73/a14314.html#a68359ee086bb4e86c3c16c4a03e54893", null ],
-    [ "GetAI", "d8/d73/a14314.html#a70b476358956fd05d6effb75517e2b3d", null ]
+    [ "boss_venoxis", "d8/d73/a14314.html#a3e91a9022163a726cbc077d38459a5f5", null ],
+    [ "InitializeAI", "d8/d73/a14314.html#a1373b5fc673fce6aea1de40d970ac00d", null ],
+    [ "JustDied", "d8/d73/a14314.html#a63ccc5a9520ee30b0ebaf8c4d31e59b8", null ],
+    [ "JustEngagedWith", "d8/d73/a14314.html#afaa68ffbd5fecae48a044009326bcaed", null ],
+    [ "Reset", "d8/d73/a14314.html#a40cbcd4d41ff85ff71d5d913d8e62368", null ]
 ];

@@ -1,9 +1,7 @@
 var a23974 =
 [
-    [ "HandleEffectApply", "d1/dcb/a23974.html#ac9e030810cc1ffb3927943353bcbb764", null ],
-    [ "HandleEffectRemove", "d1/dcb/a23974.html#a2524bb4614fa62fb703a3d3cf0c25da0", null ],
-    [ "Load", "d1/dcb/a23974.html#a60f41c19f5104eef82048fd1e3416abd", null ],
-    [ "PrepareAuraScript", "d1/dcb/a23974.html#a277d9865108acafac4b1a42bc5b5714b", null ],
-    [ "Register", "d1/dcb/a23974.html#a5ffe5a8b3422382482f713ff6d8514b2", null ],
-    [ "_falconSet", "d1/dcb/a23974.html#a1a20f75d251936bff7a0777831d79140", null ]
+    [ "boss_warp_splinter", "d1/dcb/a23974.html#a1d0e8720baaadd1f6f4f6026597c9f63", null ],
+    [ "JustDied", "d1/dcb/a23974.html#a7e7850cf545e57f9fcd8d1aff42f8eb3", null ],
+    [ "JustEngagedWith", "d1/dcb/a23974.html#afc05b2f366e518d5e9ea3fbbfcba05cc", null ],
+    [ "KilledUnit", "d1/dcb/a23974.html#a0e974eb2bfae50383040fe9c7ccf74c1", null ]
 ];

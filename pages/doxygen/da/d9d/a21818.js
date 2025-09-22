@@ -1,7 +1,9 @@
 var a21818 =
 [
-    [ "npc_thassarianAI", "da/d9d/a21818.html#a92e873dc3aa97f81919225ce75a5f894", null ],
-    [ "Reset", "da/d9d/a21818.html#a8611ef17700c739dbd5e7a70660f1379", null ],
-    [ "UpdateAI", "da/d9d/a21818.html#ad09a3a063d716bc43e23b5aad5e46a7b", null ],
-    [ "_events", "da/d9d/a21818.html#aaecb5a402e4ffca1e819303dbb94f5b5", null ]
+    [ "npc_bloodmage_laurithAI", "da/d9d/a21818.html#a75dca4f2e90318f334e7e6385d4f7a6f", null ],
+    [ "Reset", "da/d9d/a21818.html#afe9b10dfcee3b241a48e6f2e40eec657", null ],
+    [ "SetGUID", "da/d9d/a21818.html#a50a144cf1545117d79268d3a18a4b4ec", null ],
+    [ "UpdateAI", "da/d9d/a21818.html#a9752f518441071dd4a60cd63423bf9a3", null ],
+    [ "_events", "da/d9d/a21818.html#a35facab84094071d952792a4c3e5015d", null ],
+    [ "_playerGUID", "da/d9d/a21818.html#a6aab8db1d55d4fe3251b544c292711e8", null ]
 ];

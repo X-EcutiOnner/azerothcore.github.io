@@ -1,9 +1,12 @@
 var a20850 =
 [
-    [ "boss_thorim_gauntlet_npcsAI", "de/d08/a20850.html#aaa7e94f653a1db001cd0c962fb855098", null ],
-    [ "JustEngagedWith", "de/d08/a20850.html#afaf0a05b1fd2fc2187b52328340b65bb", null ],
-    [ "Reset", "de/d08/a20850.html#a9e4c25742785809d788f2e910f7840bc", null ],
-    [ "UpdateAI", "de/d08/a20850.html#a4dd5a9cbbb10d514a0473dfd7cdd3c29", null ],
-    [ "_isCaster", "de/d08/a20850.html#a104f447cc52c285d59653a8ebff20fef", null ],
-    [ "events", "de/d08/a20850.html#a650508e05b6fa1af538a0b34e04c8bf5", null ]
+    [ "boss_thorim_start_npcsAI", "de/d08/a20850.html#a9602af25cbe9d4b3fe8534093c237a20", null ],
+    [ "DamageTaken", "de/d08/a20850.html#a9a848662671380a726eb7288c6507f68", null ],
+    [ "JustDied", "de/d08/a20850.html#a3c4b8928e1e0264e88eb49d930529c41", null ],
+    [ "JustEngagedWith", "de/d08/a20850.html#ab6c0a8ae05a408cafb8ffe359d4d0d4e", null ],
+    [ "Reset", "de/d08/a20850.html#aedf26a4b5baaf464d70316ce79ec32b3", null ],
+    [ "UpdateAI", "de/d08/a20850.html#a5a84827d8d85e3a9b8e374da68d2c7ed", null ],
+    [ "_isCaster", "de/d08/a20850.html#a6b2729ab9bce244da0a7d7fe6a4280f7", null ],
+    [ "_playerAttack", "de/d08/a20850.html#adb868f1910859c79625cfb7f9a2b4101", null ],
+    [ "events", "de/d08/a20850.html#a8dc5693814c49003727204623cef29b7", null ]
 ];

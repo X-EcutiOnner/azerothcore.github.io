@@ -1,6 +1,6 @@
 var a21238 =
 [
-    [ "npc_ulduar_arachnopod_destroyerAI", "d7/dbb/a21242.html", "d7/dbb/a21242" ],
-    [ "npc_ulduar_arachnopod_destroyer", "dd/d92/a21238.html#aec69c3c143ec27734dd3f2d8db0da9fd", null ],
-    [ "GetAI", "dd/d92/a21238.html#ad667e7bacc181e79cb002181c71aac7c", null ]
+    [ "npc_ulduar_storm_tempered_keeperAI", "d7/dbb/a21242.html", "d7/dbb/a21242" ],
+    [ "npc_ulduar_storm_tempered_keeper", "dd/d92/a21238.html#aaf2ef154cad4f2ba5796e410dabf02fc", null ],
+    [ "GetAI", "dd/d92/a21238.html#aa0860236d2abedba1e521ee1610c89e8", null ]
 ];

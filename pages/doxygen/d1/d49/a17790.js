@@ -1,6 +1,7 @@
 var a17790 =
 [
-    [ "npc_gunship_boarding_add_realAI", "d1/d49/a17790.html#a829c3690ab0d5ad3f0a888cb6701692a", null ],
-    [ "UpdateAI", "d1/d49/a17790.html#a33ac355c8f61907574a0736a24cbee82", null ],
-    [ "_events", "d1/d49/a17790.html#acaea46d9523fa9fe59415b0b0834a2ba", null ]
+    [ "npc_gunship_boarding_leaderAI", "d1/d49/a17790.html#ac20099905fd6fddda2561b88cf077b77", null ],
+    [ "JustEngagedWith", "d1/d49/a17790.html#a448ee30c01317a7e3c842a0043b15c2a", null ],
+    [ "UpdateAI", "d1/d49/a17790.html#ab7a105fbc49a365d609c7787b61fd75f", null ],
+    [ "_events", "d1/d49/a17790.html#affb899bbaa288e72a48d5518367b023d", null ]
 ];

@@ -1,8 +1,8 @@
 var a01229 =
 [
-    [ "go_main_chambers_access_panel", "d6/d19/a23582.html", "d6/d19/a23582" ],
-    [ "instance_steam_vault", "d4/d22/a23586.html", "d4/d22/a23586" ],
-    [ "instance_steam_vault::instance_steam_vault_InstanceMapScript", "d5/db7/a23590.html", "d5/db7/a23590" ],
+    [ "go_main_chambers_access_panel", "dc/d59/a23594.html", "dc/d59/a23594" ],
+    [ "instance_steam_vault", "da/d98/a23598.html", "da/d98/a23598" ],
+    [ "instance_steam_vault::instance_steam_vault_InstanceMapScript", "d6/d86/a23602.html", "d6/d86/a23602" ],
     [ "MainChambersAccessPanelSays", "db/d1c/a01229.html#aa8d293574a308aad41f620556eb63b6a", [
       [ "SAY_FAINT_ECHO", "db/d1c/a01229.html#aa8d293574a308aad41f620556eb63b6aadbbafef44899cd7d93e10aaa27f52992", null ],
       [ "SAY_LOUD_RUMBLE", "db/d1c/a01229.html#aa8d293574a308aad41f620556eb63b6aa420e4ca090aea66dfe08994ddce97884", null ]

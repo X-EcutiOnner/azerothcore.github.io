@@ -1,6 +1,7 @@
 var a15086 =
 [
-    [ "instance_onyxias_lair_InstanceMapScript", "d3/d23/a15090.html", "d3/d23/a15090" ],
-    [ "instance_onyxias_lair", "dc/d2f/a15086.html#a1be32e45cb8af86477d300efb6e545cc", null ],
-    [ "GetInstanceScript", "dc/d2f/a15086.html#abbdc474ce17bca0cb55180661c5204a8", null ]
+    [ "npc_onyxian_lair_guard", "dc/d2f/a15086.html#ae72d86cddafd8829fc9edd479a01ab1d", null ],
+    [ "JustEngagedWith", "dc/d2f/a15086.html#a7b1d3bc68684202f9b4b95f6dc078be0", null ],
+    [ "UpdateAI", "dc/d2f/a15086.html#ac8649636d5847813e49d2ada05f78645", null ],
+    [ "events", "dc/d2f/a15086.html#a99acb2010853fcf9f7ac6f08143d06ed", null ]
 ];

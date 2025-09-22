@@ -1,6 +1,6 @@
 var a24254 =
 [
-    [ "go_beaconAI", "de/d7b/a24258.html", "de/d7b/a24258" ],
-    [ "go_beacon", "dd/dd2/a24254.html#ad4224cabdc7210d9a0a46fb1eed1a23b", null ],
-    [ "GetAI", "dd/dd2/a24254.html#abd168f0c1ac9a64cece280758f3120d4", null ]
+    [ "npc_fel_guard_houndAI", "de/d7b/a24258.html", "de/d7b/a24258" ],
+    [ "npc_fel_guard_hound", "dd/dd2/a24254.html#a324179695f04a31b233b0ce94a46634c", null ],
+    [ "GetAI", "dd/dd2/a24254.html#a5f5c20ec379994e7d0b65133d772e18f", null ]
 ];

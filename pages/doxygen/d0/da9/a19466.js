@@ -1,6 +1,6 @@
 var a19466 =
 [
-    [ "npc_eoe_wyrmrest_skytalonAI", "d3/d82/a19470.html", "d3/d82/a19470" ],
-    [ "npc_eoe_wyrmrest_skytalon", "d0/da9/a19466.html#a55685de624b277840f8fc0c397b8aebf", null ],
-    [ "GetAI", "d0/da9/a19466.html#a01a384ab10cfccbd159f116e0bef52e8", null ]
+    [ "npc_alexstraszaAI", "d3/d82/a19470.html", "d3/d82/a19470" ],
+    [ "npc_alexstrasza", "d0/da9/a19466.html#aa28858e8368031c2882e7e3c1c5968dd", null ],
+    [ "GetAI", "d0/da9/a19466.html#ad155ccc4f7bca786229ee015d365e3ce", null ]
 ];

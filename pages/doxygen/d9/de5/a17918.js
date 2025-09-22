@@ -1,6 +1,6 @@
 var a17918 =
 [
-    [ "boss_lady_deathwhisperAI", "d5/d1f/a17922.html", "d5/d1f/a17922" ],
-    [ "boss_lady_deathwhisper", "d9/de5/a17918.html#a979411cb834611b1239f3bf9058d316d", null ],
-    [ "GetAI", "d9/de5/a17918.html#ac0b86fee1e2e9dbf794ed1b53aab11d2", null ]
+    [ "CheckProc", "d9/de5/a17918.html#a86e62fa26606a77284c80583e7b35d27", null ],
+    [ "PrepareAuraScript", "d9/de5/a17918.html#a2c10a09e9e5015eb4f3c66d5086dbe1a", null ],
+    [ "Register", "d9/de5/a17918.html#a6214f78c5c7eb3f60371fa12530d5991", null ]
 ];

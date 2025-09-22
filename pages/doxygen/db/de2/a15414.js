@@ -1,6 +1,13 @@
 var a15414 =
 [
-    [ "aqsentinelAI", "d2/da0/a15418.html", "d2/da0/a15418" ],
-    [ "npc_anubisath_sentinel", "db/de2/a15414.html#ada1ab0d1857fe52020e798d9710a66cb", null ],
-    [ "GetAI", "db/de2/a15414.html#ae19b8ba3766ede8f715dad5ff8d4b2d2", null ]
+    [ "instance_temple_of_ahnqiraj_InstanceMapScript", "db/de2/a15414.html#a454f677dddce956534d6f5a253ed587b", null ],
+    [ "GetData", "db/de2/a15414.html#ad34ee1e43d05826c1b4e80e2df6ac5f6", null ],
+    [ "Initialize", "db/de2/a15414.html#a8d46d9aa082d306aa2c9cd8fde3eea1d", null ],
+    [ "OnCreatureCreate", "db/de2/a15414.html#affc7045f944251fb27683133f511029f", null ],
+    [ "OnGameObjectCreate", "db/de2/a15414.html#a36f22cb12a5d59b377627f7cacbffecb", null ],
+    [ "OnUnitDeath", "db/de2/a15414.html#a921a58152e075b9a64bf3c73aabdf1f2", null ],
+    [ "SetBossState", "db/de2/a15414.html#abb9fc9c7901d0c830d498f3fbdaebbe6", null ],
+    [ "SetData", "db/de2/a15414.html#a25f4e12aad6325e87b31770c1243d746", null ],
+    [ "BugTrioDeathCount", "db/de2/a15414.html#aab0191f5b31264f0632a24df0607d05b", null ],
+    [ "CThunGraspGUIDs", "db/de2/a15414.html#aea180c0b623e919f56f9210ce15724e8", null ]
 ];

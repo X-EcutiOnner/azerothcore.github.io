@@ -1,6 +1,5 @@
 var a20306 =
 [
-    [ "boss_vezaxAI", "d2/dcf/a20310.html", "d2/dcf/a20310" ],
-    [ "boss_vezax", "d6/d1a/a20306.html#af778f9ef3070598f8ca5109b2f6f0f82", null ],
-    [ "GetAI", "d6/d1a/a20306.html#a55c7f1ee93252768ba02e8d0d4634eb9", null ]
+    [ "achievement_freya_getting_back_to_nature", "d6/d1a/a20306.html#aa4078b573a9335fc52c9b9609590b12f", null ],
+    [ "OnCheck", "d6/d1a/a20306.html#a850a32450379284784f019a5eb5ff0ff", null ]
 ];

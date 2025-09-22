@@ -1,8 +1,8 @@
 var a22858 =
 [
-    [ "FilterTargets", "d3/dc0/a22858.html#a9e0a72530a8dc764269e8df6d9d1ed3d", null ],
-    [ "HandleDummyHitTarget", "d3/dc0/a22858.html#ae892090a9bd48aa447224c9f96801d37", null ],
-    [ "PrepareSpellScript", "d3/dc0/a22858.html#af08ab4fcc3705b07e89ed222794e70e9", null ],
-    [ "Register", "d3/dc0/a22858.html#aeb1aad59b6b4767a63660c5fe0277392", null ],
-    [ "Validate", "d3/dc0/a22858.html#a5a87a7c18a55caf5288b8ca8bbd2f361", null ]
+    [ "npc_anzu_spirit", "d3/dc0/a22858.html#adb1b66d6bf6ec1991465f85a504397d5", null ],
+    [ "IsSummonedBy", "d3/dc0/a22858.html#a26f0928593f75d242c8bbcc541f7b59b", null ],
+    [ "Reset", "d3/dc0/a22858.html#acef3f7093f93b6c227d145523cdc487a", null ],
+    [ "UpdateAI", "d3/dc0/a22858.html#a9866d91ffc04548a96cfcdc3a5c7496a", null ],
+    [ "_scheduler", "d3/dc0/a22858.html#ad14937df9ddddabcf96e2d1104ca153c", null ]
 ];

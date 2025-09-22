@@ -1,7 +1,10 @@
 var a14846 =
 [
-    [ "hyjalJainaAI", "d5/d3a/a14850.html", "d5/d3a/a14850" ],
-    [ "npc_hyjal_jaina", "dc/d7b/a14846.html#a6616aa6c38818770610259312a392a3f", null ],
-    [ "GetAI", "dc/d7b/a14846.html#ab1891f5a2aacf5d9aeb9377bd92393ed", null ],
-    [ "OnGossipSelect", "dc/d7b/a14846.html#a47853fa317b1a9325fcbe555867139f6", null ]
+    [ "boss_rage_winterchill", "dc/d7b/a14846.html#a66fed2a7cc6135d41a2c40bdf4ffe02e", null ],
+    [ "DoAction", "dc/d7b/a14846.html#a45333aea6d6a180473ca4823ea83920a", null ],
+    [ "JustDied", "dc/d7b/a14846.html#ab10c7df81a9e71b2c114465c30e40a9b", null ],
+    [ "JustEngagedWith", "dc/d7b/a14846.html#ad36a840c65949c54d5ee3ae8cb6f1f7b", null ],
+    [ "KilledUnit", "dc/d7b/a14846.html#a69d69530a080379add7be73c552f4937", null ],
+    [ "PathEndReached", "dc/d7b/a14846.html#aec47befdf3246710a5158780fa797fa7", null ],
+    [ "_recentlySpoken", "dc/d7b/a14846.html#ae2141b4ea1d10cb74146aec63d65214c", null ]
 ];

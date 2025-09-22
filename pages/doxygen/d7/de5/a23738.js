@@ -1,6 +1,7 @@
 var a23738 =
 [
-    [ "instance_blood_furnace_InstanceMapScript", "de/ddf/a23742.html", "de/ddf/a23742" ],
-    [ "instance_blood_furnace", "d7/de5/a23738.html#a925a045fa518e72c1eff02fe3c66202b", null ],
-    [ "GetInstanceScript", "d7/de5/a23738.html#a885ba94e1777dfd6586daca304622d3d", null ]
+    [ "PeriodicTick", "d7/de5/a23738.html#a53541105e40202e4a73ecc38d84e9eca", null ],
+    [ "PrepareAuraScript", "d7/de5/a23738.html#a79c8829a86db535e254db009d5286430", null ],
+    [ "Register", "d7/de5/a23738.html#a58cd762eb10d224bb188aaf167c816b9", null ],
+    [ "Validate", "d7/de5/a23738.html#a0a4a1c0b460f7a0ade6ddbbedc893c6f", null ]
 ];

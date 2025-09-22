@@ -1,6 +1,9 @@
 var a18358 =
 [
-    [ "DefileTargetSelector", "d4/d91/a18358.html#a9c13a04378d6550dd135d2cb41c9bc1c", null ],
-    [ "operator()", "d4/d91/a18358.html#a2ffea7bb2c62e0fa069e3d1ffec3ab11", null ],
-    [ "_source", "d4/d91/a18358.html#a427b4304b5a93f26741eda90d20ff13b", null ]
+    [ "ShadowTrapLKTargetSelector", "d4/d91/a18358.html#a33561775948e07ac6ade2037f237441d", null ],
+    [ "operator()", "d4/d91/a18358.html#a3770329509c6ab2f16ae369ea8d72645", null ],
+    [ "_maxDist", "d4/d91/a18358.html#a6ee78b1ca184a05d01aa053afe499a95", null ],
+    [ "_playerOnly", "d4/d91/a18358.html#acfb3a657e430bc2ca26680bef6cf0159", null ],
+    [ "_reqLOS", "d4/d91/a18358.html#a7911be23196f59d55028affc3be23c20", null ],
+    [ "_source", "d4/d91/a18358.html#af416013aabf3b217b07228072076603d", null ]
 ];

@@ -1,9 +1,7 @@
 var a25630 =
 [
-    [ "CheckIfCorpseNear", "d2/db2/a25630.html#a9b512f84f1d728e24845b6aaa28bdd6b", null ],
-    [ "HandleDummy", "d2/db2/a25630.html#a913c0137d2a13c810bbae869cc6cf734", null ],
-    [ "Load", "d2/db2/a25630.html#a3f36968d10bde12c7e2eda8db4145252", null ],
-    [ "PrepareSpellScript", "d2/db2/a25630.html#acc7d6f489c34c3cc26f37bc94f8727e8", null ],
-    [ "Register", "d2/db2/a25630.html#a736c4fe39e947ad98df19b3b001bdc29", null ],
-    [ "Validate", "d2/db2/a25630.html#a51b075f95211025b2a7719a3ee70a6be", null ]
+    [ "HandleDummy", "d2/db2/a25630.html#a5b25d03bb22995e1ba9deb7eec4ee35a", null ],
+    [ "Load", "d2/db2/a25630.html#a833d9abe12cb4fff1700b97bc7215c1d", null ],
+    [ "PrepareSpellScript", "d2/db2/a25630.html#a547b3f71f9fc502dc589ad7b9b6f3cc2", null ],
+    [ "Register", "d2/db2/a25630.html#ae7d502253b0c47921e40da4aa87b0eef", null ]
 ];

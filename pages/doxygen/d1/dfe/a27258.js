@@ -1,5 +1,5 @@
 var a27258 =
 [
-    [ "achievement_not_even_a_scratch", "d1/dfe/a27258.html#a0d025c09d35c3640016ab42e11dd96eb", null ],
-    [ "OnCheck", "d1/dfe/a27258.html#a81f6c9bd36e5a3eea3fe0af24c9f1649", null ]
+    [ "achievement_bg_av_perfection", "d1/dfe/a27258.html#a8a0ef996bdb1244026268922b301184c", null ],
+    [ "OnCheck", "d1/dfe/a27258.html#a17e700c17b5144b571f2aeed92a77749", null ]
 ];

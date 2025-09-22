@@ -1,7 +1,14 @@
 var a16222 =
 [
-    [ "npc_baltharus_the_warborn_cloneAI", "d7/dfb/a16222.html#aed531e61508d4d404827f47c6348a5e6", null ],
-    [ "JustEngagedWith", "d7/dfb/a16222.html#ad906b7602a34abcfaede92cba6f0a6d7", null ],
-    [ "UpdateAI", "d7/dfb/a16222.html#ab0c1cf041146a3e16a33986e3e824a2d", null ],
-    [ "_events", "d7/dfb/a16222.html#a6e2819f73f0fccd02b7188f0e6f1ffa9", null ]
+    [ "boss_baltharus_the_warbornAI", "d7/dfb/a16222.html#adaf6cb6ab81a461b202d40900b4b744c", null ],
+    [ "DoAction", "d7/dfb/a16222.html#ab22f46e2514c10ce0e8141b3f69f069d", null ],
+    [ "InitializeAI", "d7/dfb/a16222.html#ac188db2a727e2fb3c411f8616f8a2f41", null ],
+    [ "JustDied", "d7/dfb/a16222.html#aaeb3e9b1bd25464cec4a1b0adf88afbe", null ],
+    [ "JustEngagedWith", "d7/dfb/a16222.html#a4b670f4d89f9ed9ffeebf9d9426d79dc", null ],
+    [ "JustReachedHome", "d7/dfb/a16222.html#ab178ccb3ee8bfa2649f03bfc18f1e424", null ],
+    [ "JustSummoned", "d7/dfb/a16222.html#a7947c96290ea2cbe1b7ed6b6a8db65fe", null ],
+    [ "KilledUnit", "d7/dfb/a16222.html#adb1a9e2af865292215c02cc1fb959cd3", null ],
+    [ "Reset", "d7/dfb/a16222.html#a68e503ddac7be2f4e08d68e64aa2e725", null ],
+    [ "UpdateAI", "d7/dfb/a16222.html#abe2e7188e33e70d52ab1985f821fa9c5", null ],
+    [ "_introDone", "d7/dfb/a16222.html#a463209610cbc8e34d9839abeaf6df0e6", null ]
 ];

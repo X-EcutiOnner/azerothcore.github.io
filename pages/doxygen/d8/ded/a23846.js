@@ -1,6 +1,6 @@
 var a23846 =
 [
-    [ "boss_porung", "d8/ded/a23846.html#acef31010461bbf716ac9b13d950807ee", null ],
-    [ "JustDied", "d8/ded/a23846.html#ac5c36f875692f49d1d0195694d85e5c1", null ],
-    [ "JustEngagedWith", "d8/ded/a23846.html#a9d44f51e4710e01bdc7d345ff3bba9dc", null ]
+    [ "PrepareSpellScript", "d8/ded/a23846.html#a5b17110b189b7134939aea9dbf2d724b", null ],
+    [ "Register", "d8/ded/a23846.html#aab0cdddfc5c8188ff246a04035b8b552", null ],
+    [ "SelectRandomPlayer", "d8/ded/a23846.html#a8a2229c61fb2eaaac3b0694008ec3ae1", null ]
 ];

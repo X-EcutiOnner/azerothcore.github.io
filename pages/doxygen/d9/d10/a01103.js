@@ -1,9 +1,9 @@
 var a01103 =
 [
-    [ "boss_murmur", "d9/dbd/a22886.html", "d9/dbd/a22886" ],
-    [ "spell_murmur_thundering_storm", "de/d60/a22890.html", "de/d60/a22890" ],
-    [ "spell_shockwave_knockback", "d4/d65/a22894.html", "d4/d65/a22894" ],
-    [ "spell_murmur_sonic_boom_effect", "da/de7/a22898.html", "da/de7/a22898" ],
+    [ "boss_murmur", "da/de7/a22898.html", "da/de7/a22898" ],
+    [ "spell_murmur_thundering_storm", "d5/dae/a22902.html", "d5/dae/a22902" ],
+    [ "spell_shockwave_knockback", "d5/def/a22906.html", "d5/def/a22906" ],
+    [ "spell_murmur_sonic_boom_effect", "d0/d83/a22910.html", "d0/d83/a22910" ],
     [ "Misc", "d9/d10/a01103.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "DATA_SKILLPOINT_MIN", "d4/d70/a02579.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3093ddfcacf2742f4fb344843e2e7ce6", null ],
       [ "NEFARIUS_PATH_2", "d7/da8/a02522.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],

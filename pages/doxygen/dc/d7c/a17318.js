@@ -1,6 +1,6 @@
 var a17318 =
 [
-    [ "HandleEffectPeriodic", "dc/d7c/a17318.html#a8a165d3931353fefc2e6a7c7f309150e", null ],
-    [ "PrepareAuraScript", "dc/d7c/a17318.html#a2de3b6d4e32832ec7ce4548df23d3d5c", null ],
-    [ "Register", "dc/d7c/a17318.html#a3593ab75583bb5b9b31b29ba2c3cdd76", null ]
+    [ "HandleDummy", "dc/d7c/a17318.html#a5b56eabdba4e6c9e23fe5a40b20417fe", null ],
+    [ "PrepareSpellScript", "dc/d7c/a17318.html#a6c53fed364a1a31cd170102d4d6878b1", null ],
+    [ "Register", "dc/d7c/a17318.html#ac49eaa96ebb95a38f54a9bb6321f5585", null ]
 ];

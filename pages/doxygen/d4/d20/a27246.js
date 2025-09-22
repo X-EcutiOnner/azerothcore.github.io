@@ -1,5 +1,6 @@
 var a27246 =
 [
-    [ "achievement_bg_av_perfection", "d4/d20/a27246.html#a8a0ef996bdb1244026268922b301184c", null ],
-    [ "OnCheck", "d4/d20/a27246.html#a17e700c17b5144b571f2aeed92a77749", null ]
+    [ "achievement_arena_by_type", "d4/d20/a27246.html#a2042c808304e8ddf1849820491b9f1a3", null ],
+    [ "OnCheck", "d4/d20/a27246.html#abebdbf19fbf1b79c30114a9cf4ff98a4", null ],
+    [ "_arenaType", "d4/d20/a27246.html#a5c38e5fef5eaf3d037864ba2aa80584a", null ]
 ];

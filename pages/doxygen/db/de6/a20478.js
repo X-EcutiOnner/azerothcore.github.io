@@ -1,5 +1,6 @@
 var a20478 =
 [
-    [ "achievement_getting_cold_in_here", "db/de6/a20478.html#a57fe7262a09036ffa88e985cb7e2f123", null ],
-    [ "OnCheck", "db/de6/a20478.html#aeafd382d378381f754da6ee04d382276", null ]
+    [ "HandleAfterEffectApply", "db/de6/a20478.html#af655bb31dc24a3cede08ca371f784913", null ],
+    [ "PrepareAuraScript", "db/de6/a20478.html#a1824853d0b369deac0745fabe2df657c", null ],
+    [ "Register", "db/de6/a20478.html#a33e7c6cab2c99789661e6bb2d6b9a593", null ]
 ];

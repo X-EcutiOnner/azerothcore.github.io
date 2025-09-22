@@ -43,6 +43,7 @@ var a06202 =
     [ "MovementInform", "dd/d7d/a06202.html#ab0438b14dc1d7f038221d9d7a2f37043", null ],
     [ "OnAuraRemove", "dd/d7d/a06202.html#a047d300ab37a17b0ff5ee133c31aa08d", null ],
     [ "OnCharmed", "dd/d7d/a06202.html#a454866f22b192f0c78301be09ae69a86", null ],
+    [ "OnSpellCastFinished", "dd/d7d/a06202.html#a50e74b5142d67ea6cb22dd4c0ef6d417", null ],
     [ "OnSpellClick", "dd/d7d/a06202.html#a7c9b51cb63fa6d4673a2bcd88cfd0218", null ],
     [ "OnTeleportUnreacheablePlayer", "dd/d7d/a06202.html#afa92eeb50af35d0c7ab49c90509d0a57", null ],
     [ "OwnerAttacked", "dd/d7d/a06202.html#a0e1c155745ee7fa6a970d38828352ad6", null ],

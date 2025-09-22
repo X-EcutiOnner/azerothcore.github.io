@@ -1,6 +1,6 @@
 var a02414 =
 [
-    [ "boss_servant_quarters", "d3/de0/a12810.html", "d3/de0/a12810" ],
+    [ "boss_servant_quarters", "d5/d06/a12814.html", "d5/d06/a12814" ],
     [ "Spells", "de/dc9/a02414.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_OIL_REFINERY", "d8/d23/a03038.html#a5bd342133be8c2137b831460acc9298cae2eb4db3c46b45e80cc2feb9c34f2ada", null ],
       [ "SPELL_QUARRY", "d8/d23/a03038.html#a5bd342133be8c2137b831460acc9298ca5a0922923b24c4bb6661ad8396a76e01", null ],

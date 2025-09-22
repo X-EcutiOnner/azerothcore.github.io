@@ -1,17 +1,13 @@
 var a16414 =
 [
-    [ "boss_paletressAI", "d0/d5d/a16414.html#a3bd22d082434895c4779b121f926a8c4", null ],
-    [ "DamageTaken", "d0/d5d/a16414.html#a54af3ec8de6d0fdb17ae0499645a02bd", null ],
-    [ "DoAction", "d0/d5d/a16414.html#a30babeb3c9644af4e9c6cbc879317299", null ],
-    [ "JustEngagedWith", "d0/d5d/a16414.html#ab8e8485765502d39cb4311d92ac98441", null ],
-    [ "JustSummoned", "d0/d5d/a16414.html#a82df372b8216703b8377ff334aa64684", null ],
-    [ "KilledUnit", "d0/d5d/a16414.html#af9aa74ec5a3c88475734f864ec307563", null ],
-    [ "MovementInform", "d0/d5d/a16414.html#a0ececc88bc520584d1c7baf8d7a5e7f6", null ],
-    [ "Reset", "d0/d5d/a16414.html#af216c7ce539b5e8ce80223270f202603", null ],
-    [ "SummonMemory", "d0/d5d/a16414.html#ae9daef57101d1ab25e9c6fb6980b05ff", null ],
-    [ "UpdateAI", "d0/d5d/a16414.html#a6f8c8d20fbfff32d34cd30f9c3a757a6", null ],
-    [ "events", "d0/d5d/a16414.html#a4b19d38e2a84097c7c47c434d66be052", null ],
-    [ "MemoryGUID", "d0/d5d/a16414.html#a5b2d80b38623174b7913ed4d893f03c9", null ],
-    [ "pInstance", "d0/d5d/a16414.html#a9ef97ec685e516e80b792fa1d7e891c1", null ],
-    [ "summoned", "d0/d5d/a16414.html#a6064594bc0e9bd008b76d498f4cdc36c", null ]
+    [ "boss_eadricAI", "d0/d5d/a16414.html#a461043fe1bff0f5478e2a57504e7477c", null ],
+    [ "DamageTaken", "d0/d5d/a16414.html#a440899ffdeda7794ef4fa5530638eecc", null ],
+    [ "JustEngagedWith", "d0/d5d/a16414.html#a09a0cebcdffb00e37e9d60111c582669", null ],
+    [ "KilledUnit", "d0/d5d/a16414.html#a0bc5d9ba3f45460e62eebdad4e68b8bd", null ],
+    [ "MovementInform", "d0/d5d/a16414.html#aa20253b3f0aec2678b2e3b1c3a9d1a47", null ],
+    [ "Reset", "d0/d5d/a16414.html#a8776bc2937ed9dc4decd1e71929edf65", null ],
+    [ "SpellHit", "d0/d5d/a16414.html#aef7c66b9ff0a728c140899940a2d7e85", null ],
+    [ "UpdateAI", "d0/d5d/a16414.html#a38e8052f3e5d8d81bb4b79fb41717efb", null ],
+    [ "events", "d0/d5d/a16414.html#a5804ea238fd1c32201c3be943d2fe5ca", null ],
+    [ "pInstance", "d0/d5d/a16414.html#a43a8f2beebae9bb27ff03e0e9af2d36b", null ]
 ];

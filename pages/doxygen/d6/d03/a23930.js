@@ -1,10 +1,13 @@
 var a23930 =
 [
-    [ "instance_arcatraz_InstanceMapScript", "d6/d03/a23930.html#a4c6594eb7fa1f7213c89ea5af6c70ae0", null ],
-    [ "GetGuidData", "d6/d03/a23930.html#aa4bedf168359eaf5332476a6de99c830", null ],
-    [ "OnGameObjectCreate", "d6/d03/a23930.html#ad8c84d90b85db5717b6a37fc2343e0aa", null ],
-    [ "SetBossState", "d6/d03/a23930.html#a2937e4ea47af542a476bd3399ecc7233", null ],
-    [ "SetData", "d6/d03/a23930.html#aca09d4856d5c3e1831ea8753a50a3b71", null ],
-    [ "StasisPodGUIDs", "d6/d03/a23930.html#a1fb9824baee2d8d83e030da307f21fc3", null ],
-    [ "WardensShieldGUID", "d6/d03/a23930.html#a3cbff5742e05f6cf0544807bce64b1d0", null ]
+    [ "boss_wrath_scryer_soccothrates", "d6/d03/a23930.html#a771980c1022e7699c3eb02baccb68a93", null ],
+    [ "InitializeAI", "d6/d03/a23930.html#ad29f9c200de2f25a74f548c918bb61ac", null ],
+    [ "JustDied", "d6/d03/a23930.html#a4954041d6a9cbc754d9fcd1d4ab3d38b", null ],
+    [ "JustEngagedWith", "d6/d03/a23930.html#a09302e6f5e1422232a3024dd24a38fd6", null ],
+    [ "KilledUnit", "d6/d03/a23930.html#a9b9237e0c8ad1b759c2402de79b3d0bd", null ],
+    [ "MoveInLineOfSight", "d6/d03/a23930.html#ab75e402ce24ca34c42f80116b8a0726d", null ],
+    [ "Reset", "d6/d03/a23930.html#a85435a23d36f13e348112348a26e7d12", null ],
+    [ "UpdateAI", "d6/d03/a23930.html#a41ad9124dec5432feb7ca823f0c8f87f", null ],
+    [ "events2", "d6/d03/a23930.html#afd4e9a0ab16406a4a452cd89d13d1fe0", null ],
+    [ "preFight", "d6/d03/a23930.html#a193889ee2815b93a1c9aeee394170fc4", null ]
 ];

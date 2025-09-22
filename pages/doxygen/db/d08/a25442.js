@@ -1,6 +1,7 @@
 var a25442 =
 [
-    [ "HandleCast", "db/d08/a25442.html#ac6f7b9650d0a55834dafb09555692243", null ],
-    [ "PrepareSpellScript", "db/d08/a25442.html#ab3dc21aa63f0fb9202233603106eef87", null ],
-    [ "Register", "db/d08/a25442.html#ad6c2dc91d0973c0b8d57151dff3d9499", null ]
+    [ "HandleEffectPeriodic", "db/d08/a25442.html#a76e5aea0f1a3698e8034a1cbb08f4196", null ],
+    [ "PrepareAuraScript", "db/d08/a25442.html#affc698127fe0656df25bd094c02a7e50", null ],
+    [ "Register", "db/d08/a25442.html#a4707bfaeb86b3540920a6772e1726e26", null ],
+    [ "Validate", "db/d08/a25442.html#aef839f163d7e623a54b163e1c27542cd", null ]
 ];

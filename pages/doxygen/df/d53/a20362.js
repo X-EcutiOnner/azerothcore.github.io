@@ -1,6 +1,5 @@
 var a20362 =
 [
-    [ "id", "df/d53/a20362.html#accc6fc59e13a0897ae168fae33ee4c7d", null ],
-    [ "x", "df/d53/a20362.html#afb67a1dce0819e0da0ceb9b303f43eb9", null ],
-    [ "y", "df/d53/a20362.html#aaf4fd9f1d5b020e102c0fec3863f7020", null ]
+    [ "achievement_shadowdodger", "df/d53/a20362.html#a8389a4972968fcc6cd7807e96ee5e527", null ],
+    [ "OnCheck", "df/d53/a20362.html#a3ee0baca0c9163a601cd4bcfa9ebeb04", null ]
 ];

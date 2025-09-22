@@ -1,12 +1,7 @@
 var a15818 =
 [
-    [ "npc_toogaAI", "db/dd6/a15818.html#a4db363c7e787f5fbbd61b418cfa87367", null ],
-    [ "MoveInLineOfSight", "db/dd6/a15818.html#aff15508b97bce5f5fad9cf9750e89ff1", null ],
-    [ "MovementInform", "db/dd6/a15818.html#a9315e8ba2688903aaf5b871a7490a700", null ],
-    [ "Reset", "db/dd6/a15818.html#acfedaf5cc989451a4259a65661685f66", null ],
-    [ "UpdateFollowerAI", "db/dd6/a15818.html#a742791e714be1ff713ab87e7d515bd9e", null ],
-    [ "CheckSpeechTimer", "db/dd6/a15818.html#a938852d834c5eb8ba4abceaf49e9a5da", null ],
-    [ "PhasePostEvent", "db/dd6/a15818.html#a4996291afa64e35f3604b2a85ea03dda", null ],
-    [ "PostEventTimer", "db/dd6/a15818.html#abea9fa4d2623dab4f14978a7f94b595f", null ],
-    [ "TortaGUID", "db/dd6/a15818.html#a4531aa0e2c7fe7f3207e56fc2ed67c25", null ]
+    [ "npc_toogaAI", "d3/d5f/a15822.html", "d3/d5f/a15822" ],
+    [ "npc_tooga", "db/dd6/a15818.html#a6ea6a9e4dea1ab98475dae13680ceeaf", null ],
+    [ "GetAI", "db/dd6/a15818.html#a7847577589f3bdc1c3ea5ee0f1f9232f", null ],
+    [ "OnQuestAccept", "db/dd6/a15818.html#ac0fdcb3959c239d614b1cc7c66623c5d", null ]
 ];

@@ -1,11 +1,11 @@
 var a20810 =
 [
-    [ "boss_thorim_lightning_orbAI", "de/da1/a20810.html#a14d4b9f445abfaba77bcfc52173ff705", null ],
-    [ "AttackStart", "de/da1/a20810.html#a88a885b96016788f8011dd1d3d44d992", null ],
-    [ "EnterEvadeMode", "de/da1/a20810.html#a04bc99d1bd16f8297e7da8902e4bcaab", null ],
-    [ "InitWaypoint", "de/da1/a20810.html#a420217dd9e482edc24a87dead2753321", null ],
-    [ "MoveInLineOfSight", "de/da1/a20810.html#a0ee02cdd5cedf8a6565493b9812e88ae", null ],
-    [ "Reset", "de/da1/a20810.html#a4e410303d287a4c827c279a4e7c3ca99", null ],
-    [ "WaypointReached", "de/da1/a20810.html#a141659a0ebbcc097f0f03dec30dad2ca", null ],
-    [ "Timer", "de/da1/a20810.html#ac251df35736ae44e08f82ae7bbe8fc15", null ]
+    [ "boss_thorim_sifAI", "de/da1/a20810.html#af63f344d3a5650baaa9b96204abc39a9", null ],
+    [ "AttackStart", "de/da1/a20810.html#ae9354f2e97c88cd1af86fae050e810d6", null ],
+    [ "DoAction", "de/da1/a20810.html#a8aac66a64c5ca6491595c2b3b6cbbd95", null ],
+    [ "MoveInLineOfSight", "de/da1/a20810.html#a3e7d07ca6fc8f4619173f3fd74d63ccb", null ],
+    [ "Reset", "de/da1/a20810.html#ab30d73613bafac5b92021677d69b3aae", null ],
+    [ "UpdateAI", "de/da1/a20810.html#a09ee3373177e84a5e4e51ebb48c68525", null ],
+    [ "_allowCast", "de/da1/a20810.html#ade272764f09375d8e5fda937d42aad90", null ],
+    [ "events", "de/da1/a20810.html#a8fd3c7073a250d054e3edc73d5867fbd", null ]
 ];

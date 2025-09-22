@@ -1,8 +1,7 @@
 var a08998 =
 [
-    [ "target_mapId", "d8/df9/a08998.html#af6d7558707c026a6d64f2d7b65a344be", null ],
-    [ "target_Orientation", "d8/df9/a08998.html#a5f6bf883e167b683e048ce9eeebb7cb0", null ],
-    [ "target_X", "d8/df9/a08998.html#a3ef5faea7a6fd9b173ea35036b3390b2", null ],
-    [ "target_Y", "d8/df9/a08998.html#a6660d360eaa47098506f246927130e32", null ],
-    [ "target_Z", "d8/df9/a08998.html#a32fee5f497804089feb738be84548dc1", null ]
+    [ "IsFitToRequirements", "d8/df9/a08998.html#ac175634ed2eab2911c3749fa208a073a", null ],
+    [ "castFlags", "d8/df9/a08998.html#a03cd65a460ea252818de9230cb656c1c", null ],
+    [ "spellId", "d8/df9/a08998.html#a34641755a5267b7a907d320cc5b4ddb4", null ],
+    [ "userType", "d8/df9/a08998.html#adcf285572403481cb418bddebc5f4bfa", null ]
 ];

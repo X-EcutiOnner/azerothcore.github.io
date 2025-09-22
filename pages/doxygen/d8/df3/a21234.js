@@ -1,11 +1,10 @@
 var a21234 =
 [
-    [ "npc_ulduar_storm_tempered_keeperAI", "d8/df3/a21234.html#a97ffe70fab090c7182b2a8dce3c7c54f", null ],
-    [ "JustDied", "d8/df3/a21234.html#a4778b4c1d7afedc4c8ea3a0b2c2509e1", null ],
-    [ "JustEngagedWith", "d8/df3/a21234.html#a5ae632ba4da1e78dfa6980fce492ec8e", null ],
-    [ "JustSummoned", "d8/df3/a21234.html#a7962e2148fb55d96cde4e2fed48e71f4", null ],
-    [ "Reset", "d8/df3/a21234.html#a521fd2c3f8fb1319daaecfb203d9ebb8", null ],
-    [ "UpdateAI", "d8/df3/a21234.html#a9d5bc84572934b4fba19d2996e1c89f0", null ],
-    [ "events", "d8/df3/a21234.html#a0281fd23155c73768a09f60b3a04ce9d", null ],
-    [ "otherGUID", "d8/df3/a21234.html#a627aa7ff4ffe264d4ea3e78469954170", null ]
+    [ "npc_ulduar_snow_mound", "d8/df3/a21234.html#a3f66ad92d616050bb67cb1a5e33ffa74", null ],
+    [ "MoveInLineOfSight", "d8/df3/a21234.html#ae5a09062d87aa1c0d446310df2ddd621", null ],
+    [ "UpdateAI", "d8/df3/a21234.html#a9d18fdaf83a2cfeea9b3ac6adbbd2687", null ],
+    [ "_activated", "d8/df3/a21234.html#ac48f6985d857276e0e59c2a429f5b359", null ],
+    [ "_count", "d8/df3/a21234.html#a1856c3bba24842f33720a83e1de40421", null ],
+    [ "_counter", "d8/df3/a21234.html#aca94a744c23b7f9771c728997ba4b8f3", null ],
+    [ "_scheduler", "d8/df3/a21234.html#aafe42af9ba1402cad91326eb1037e476", null ]
 ];

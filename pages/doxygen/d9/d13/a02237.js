@@ -1,10 +1,10 @@
 var a02237 =
 [
-    [ "instance_uldaman", "d4/dd2/a13666.html", "d4/dd2/a13666" ],
-    [ "instance_uldaman::instance_uldaman_InstanceMapScript", "da/df7/a13670.html", "da/df7/a13670" ],
-    [ "spell_uldaman_sub_boss_agro_keepers", "d4/dfd/a13674.html", "d4/dfd/a13674" ],
-    [ "spell_uldaman_stoned_aura", "da/d4d/a13678.html", "da/d4d/a13678" ],
-    [ "spell_uldaman_boss_agro_archaedas", "d1/d01/a13682.html", "d1/d01/a13682" ],
+    [ "instance_uldaman", "da/df7/a13670.html", "da/df7/a13670" ],
+    [ "instance_uldaman::instance_uldaman_InstanceMapScript", "d4/dfd/a13674.html", "d4/dfd/a13674" ],
+    [ "spell_uldaman_sub_boss_agro_keepers", "da/d4d/a13678.html", "da/d4d/a13678" ],
+    [ "spell_uldaman_stoned_aura", "d1/d01/a13682.html", "d1/d01/a13682" ],
+    [ "spell_uldaman_boss_agro_archaedas", "dc/d7b/a13686.html", "dc/d7b/a13686" ],
     [ "Events", "d9/d13/a02237.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "dd/d6f/a02207.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "dd/d6f/a02207.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],

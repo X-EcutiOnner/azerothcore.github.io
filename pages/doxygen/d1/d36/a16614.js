@@ -1,8 +1,7 @@
 var a16614 =
 [
-    [ "npc_toc_warlockAI", "d1/d36/a16614.html#a4c4c2f502f00ca48bb7419434d88ea3a", null ],
-    [ "JustSummoned", "d1/d36/a16614.html#a203ef748afaa400aa1f8365b5d7bf6b1", null ],
-    [ "myCanCast", "d1/d36/a16614.html#a62b2df362bc07aa4a9c14cbc63a10e05", null ],
-    [ "UpdateAI", "d1/d36/a16614.html#a554849d02d923439bd810b7d8c242afa", null ],
-    [ "events", "d1/d36/a16614.html#a3b84c70d246bbf5b70ab4dec06c647b3", null ]
+    [ "npc_toc_shadow_priestAI", "d1/d36/a16614.html#af13a18be542fb314c19af52f89d216b8", null ],
+    [ "myCanCast", "d1/d36/a16614.html#a83422ff3e140b57a484d98876a9a8070", null ],
+    [ "UpdateAI", "d1/d36/a16614.html#afc23ba15d3ee925212e77b5211504c2b", null ],
+    [ "events", "d1/d36/a16614.html#a31665a22920b416d7423958a3e2928ec", null ]
 ];

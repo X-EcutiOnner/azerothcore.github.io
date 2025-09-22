@@ -1,7 +1,7 @@
 var a02384 =
 [
-    [ "instance_stratholme", "d9/d0d/a13370.html", "d9/d0d/a13370" ],
-    [ "instance_stratholme::instance_stratholme_InstanceMapScript", "d5/d5a/a13374.html", "d5/d5a/a13374" ],
+    [ "instance_stratholme", "d5/d5a/a13374.html", "d5/d5a/a13374" ],
+    [ "instance_stratholme::instance_stratholme_InstanceMapScript", "d3/ddc/a13378.html", "d3/ddc/a13378" ],
     [ "AddSC_instance_stratholme", "d2/d11/a02384.html#add44fd9ad05267cc5db256b112db2585", null ],
     [ "aGateTrap", "d2/d11/a02384.html#aa404f6799978911e2f0e4de3b4386c59", null ],
     [ "aPlaguedCritters", "d2/d11/a02384.html#a4108af811b2731f9784942b89f333054", null ],

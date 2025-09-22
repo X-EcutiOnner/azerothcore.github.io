@@ -1,7 +1,6 @@
 var a12586 =
 [
-    [ "HandleDummy", "d5/d48/a12586.html#acbf0fa3d73de0cec47928fc0dda0c724", null ],
-    [ "PrepareSpellScript", "d5/d48/a12586.html#a76d395449ed9fb26914aa9ff0488f1be", null ],
-    [ "Register", "d5/d48/a12586.html#a7d094ce258e3dc28cc30d5fb644d5a1e", null ],
-    [ "Validate", "d5/d48/a12586.html#a24447c4367d8e8713ba7d05ea53681ee", null ]
+    [ "boss_magmadarAI", "d5/d48/a12586.html#a47207fdd6eb94fb08791da06cd4160f6", null ],
+    [ "ExecuteEvent", "d5/d48/a12586.html#a7d4c1807cb320fdc331057209a4ce166", null ],
+    [ "JustEngagedWith", "d5/d48/a12586.html#a5ce1495d01f28e0a38f00127e7137a4f", null ]
 ];

@@ -1,13 +1,18 @@
 var a28570 =
 [
-    [ "AcquireMethod", "da/d9f/a28570.html#a31a8f5d642b2826b58bc7dfaf5f26719", null ],
-    [ "ClassMask", "da/d9f/a28570.html#a868a7a346c1da7fa74ed36f0bfb59e3e", null ],
-    [ "ID", "da/d9f/a28570.html#a95cab9102e1dd6c4f449aba2ecf14372", null ],
-    [ "MinSkillLineRank", "da/d9f/a28570.html#a2a6c4b50a288ea023099fb49aaca37e4", null ],
-    [ "RaceMask", "da/d9f/a28570.html#acfd38780584b90ca40a1e1cd59605832", null ],
-    [ "SkillLine", "da/d9f/a28570.html#a0050dcf5c82f785dfc93079debe54a13", null ],
-    [ "Spell", "da/d9f/a28570.html#a19e1a55dadce68e6e9c1bd7bb2ca51dd", null ],
-    [ "SupercededBySpell", "da/d9f/a28570.html#a0eabe8b18fa4bf67eaaaa56f2264ad5d", null ],
-    [ "TrivialSkillLineRankHigh", "da/d9f/a28570.html#aa8f0c15da1d4d14853bd42e7e20bc963", null ],
-    [ "TrivialSkillLineRankLow", "da/d9f/a28570.html#aca5e15003099e1fdbd2eaa701b96f162", null ]
+    [ "getArmorMod", "da/d9f/a28570.html#a0e56e757faf660cabe0ba4316ee17f12", null ],
+    [ "getDPSMod", "da/d9f/a28570.html#aa0718862ebfeea92ad299e04c9c622c8", null ],
+    [ "getFeralBonus", "da/d9f/a28570.html#aa54c3d1add4a1b982c05138f876fd138", null ],
+    [ "getSpellBonus", "da/d9f/a28570.html#aba240e0c9f81ca7d5f17d3631410a7b3", null ],
+    [ "getssdMultiplier", "da/d9f/a28570.html#ab0fbc14e59c3a387b21d3f4a825d3b36", null ],
+    [ "IsTwoHand", "da/d9f/a28570.html#ac83356dba956bfb0aa0a0fb0d976b60e", null ],
+    [ "armorMod", "da/d9f/a28570.html#a742f8447dca5961fb39e50de8233fa86", null ],
+    [ "armorMod2", "da/d9f/a28570.html#a36dba32ea7febb8dab627fa992de878b", null ],
+    [ "dpsMod", "da/d9f/a28570.html#ace956cab0056bcf0e116ac0884ad3575", null ],
+    [ "Id", "da/d9f/a28570.html#aebc75b8f80cb210b6af081077bd88e85", null ],
+    [ "Level", "da/d9f/a28570.html#a5758f5152401efde26edf3110c0d11e2", null ],
+    [ "spellPower", "da/d9f/a28570.html#a03804cca02fd1146dffb762bcd1274f8", null ],
+    [ "ssdMultiplier", "da/d9f/a28570.html#a7559b9045268d8050372153c8c976946", null ],
+    [ "ssdMultiplier2", "da/d9f/a28570.html#a57cdfb5465ced673edeb8c35bd7a3535", null ],
+    [ "ssdMultiplier3", "da/d9f/a28570.html#ae78f00d5ed42704a4093b5df939498d7", null ]
 ];

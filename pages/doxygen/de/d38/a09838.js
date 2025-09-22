@@ -1,8 +1,7 @@
 var a09838 =
 [
-    [ "PositionFullTerrainStatus", "de/d38/a09838.html#ae0349ed89530b35af91b7b1862acaffe", null ],
-    [ "areaId", "de/d38/a09838.html#ac04966fa31b30f341a937906223463d4", null ],
-    [ "floorZ", "de/d38/a09838.html#abbd186ca681e532d567b5a221a62c02b", null ],
-    [ "liquidInfo", "de/d38/a09838.html#ac96230ad8521342ec97cf4f94013d0b4", null ],
-    [ "outdoors", "de/d38/a09838.html#ae531eb0a4abc029f82d699c98d6aa565", null ]
+    [ "ownerGUID", "de/d38/a09838.html#a3c89974ea78b732cbffb8a9d482d403b", null ],
+    [ "script", "de/d38/a09838.html#ad995c862431acd9d45cc12c9d5c8b319", null ],
+    [ "sourceGUID", "de/d38/a09838.html#acafb40cbd1e73152f9dbf390f1fc98f3", null ],
+    [ "targetGUID", "de/d38/a09838.html#a1505a3b9a6de23dcd6b2847207a279ca", null ]
 ];

@@ -1,6 +1,6 @@
 var a03062 =
 [
-    [ "BattlegroundBE", "d6/d49/a07398.html", "d6/d49/a07398" ],
+    [ "BattlegroundBE", "dd/db0/a07402.html", "dd/db0/a07402" ],
     [ "BattlegroundBEGameObjects", "d6/d2a/a03062.html#a1b0280d2208da5214e6132c85687575e", [
       [ "BG_BE_OBJECT_TYPE_DOOR_1", "d6/d2a/a03062.html#a1b0280d2208da5214e6132c85687575ea7668b0cb45bb8fcb5d169d52601f8ffc", null ],
       [ "BG_BE_OBJECT_TYPE_DOOR_2", "d6/d2a/a03062.html#a1b0280d2208da5214e6132c85687575ea4f5f05ba355663c10696918af17e7285", null ],

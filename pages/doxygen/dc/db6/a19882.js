@@ -1,6 +1,6 @@
 var a19882 =
 [
-    [ "npc_collapsing_starAI", "d3/d0f/a19886.html", "d3/d0f/a19886" ],
-    [ "npc_collapsing_star", "dc/db6/a19882.html#a8d57987c9b4622746d4f42a2b4845b9e", null ],
-    [ "GetAI", "dc/db6/a19882.html#a346af96d122e64c68defdeccb9183cd4", null ]
+    [ "npc_brann_bronzebeard_algalonAI", "d3/d0f/a19886.html", "d3/d0f/a19886" ],
+    [ "npc_brann_bronzebeard_algalon", "dc/db6/a19882.html#a2760d42de8f78250ca5862bfcb23ed2e", null ],
+    [ "GetAI", "dc/db6/a19882.html#ad8bc8bde865adcce1e9f6fd6234f1a0a", null ]
 ];

@@ -1,6 +1,8 @@
 var a22102 =
 [
-    [ "npc_mrfloppyAI", "d8/de8/a22106.html", "d8/de8/a22106" ],
-    [ "npc_mrfloppy", "df/d1d/a22102.html#a0515ca75aba9b7f6f5577b53e7520f6e", null ],
-    [ "GetAI", "df/d1d/a22102.html#a88590566309f3fc155eb6dc26055a161", null ]
+    [ "OnRemove", "df/d1d/a22102.html#a9c6c35aa7a245857b0c8685a8e100836", null ],
+    [ "PrepareAuraScript", "df/d1d/a22102.html#a183b5a3b1332695e3c047bb63435389a", null ],
+    [ "Register", "df/d1d/a22102.html#aad41ab76cc0a882f272e8f79867a7015", null ],
+    [ "Validate", "df/d1d/a22102.html#a8ba007e6b4e9e32743a6fae8db08c666", null ],
+    [ "spellIds", "df/d1d/a22102.html#aca236f4ebe60767f2a4a83cdcc6e31bb", null ]
 ];

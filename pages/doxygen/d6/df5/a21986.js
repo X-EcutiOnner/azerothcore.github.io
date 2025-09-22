@@ -1,6 +1,6 @@
 var a21986 =
 [
-    [ "npc_heated_battleAI", "d6/df5/a21986.html#a2b73957d7890549f4b02488c5527fcef", null ],
-    [ "DamageTaken", "d6/df5/a21986.html#a8422c157214195d7166ede35c9c05d19", null ],
-    [ "Reset", "d6/df5/a21986.html#a11a4f3270ff260e30da89017dad38433", null ]
+    [ "CheckCast", "d6/df5/a21986.html#a9c7e08a8a9b1c1b44ae290818826d43a", null ],
+    [ "PrepareSpellScript", "d6/df5/a21986.html#abff433d61c798d17882292b6b0956a58", null ],
+    [ "Register", "d6/df5/a21986.html#a1034967a4bf633f160cc40ae6e0fc567", null ]
 ];

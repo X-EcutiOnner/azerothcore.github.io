@@ -1,6 +1,8 @@
 var a12198 =
 [
-    [ "boss_lord_valthalakAI", "d2/db3/a12202.html", "d2/db3/a12202" ],
-    [ "boss_lord_valthalak", "df/d96/a12198.html#a180ecb2e2b11ee79c80de18124de3dbc", null ],
-    [ "GetAI", "df/d96/a12198.html#a771bd8ff3918d71007b5e4b05baf3df3", null ]
+    [ "boss_highlordomokkAI", "df/d96/a12198.html#ae6906b2f86eb2d8efe51de92376be0da", null ],
+    [ "JustDied", "df/d96/a12198.html#ac7e125b4350880d3d195b915c8be9de0", null ],
+    [ "JustEngagedWith", "df/d96/a12198.html#a072dc582f931deb7d1e0db9ad535f146", null ],
+    [ "Reset", "df/d96/a12198.html#a627390013798de7a53a95817624417e3", null ],
+    [ "UpdateAI", "df/d96/a12198.html#a38e6008d616131d2876ae5a085a083ff", null ]
 ];

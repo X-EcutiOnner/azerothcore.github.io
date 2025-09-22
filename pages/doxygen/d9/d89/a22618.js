@@ -1,5 +1,6 @@
 var a22618 =
 [
-    [ "achievement_wg_within_our_grasp", "d9/d89/a22618.html#a9edbd15bc6989c6948e21391a683d22d", null ],
-    [ "OnCheck", "d9/d89/a22618.html#a10b659c4b52322536333e3d191796c27", null ]
+    [ "PrepareSpellScript", "d9/d89/a22618.html#ae9a4734c9b12473f86c91a49860d56dd", null ],
+    [ "RecalculateDamage", "d9/d89/a22618.html#ad47d51e68c6ffe60f15beceaffc60b19", null ],
+    [ "Register", "d9/d89/a22618.html#a0dbeb30ba0eb22f4eb762f0a14cc6f39", null ]
 ];

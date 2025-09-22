@@ -1,8 +1,7 @@
 var a15650 =
 [
-    [ "CheckRequirement", "d8/dd5/a15650.html#ae2b5e9accd0df2cc99e976eaab2d3f35", null ],
-    [ "HandleDummy", "d8/dd5/a15650.html#a6d2c75ad53f0e0f7be2df037f385d686", null ],
-    [ "PrepareSpellScript", "d8/dd5/a15650.html#a5b0a5f957a7b996cbe6b219a9803069e", null ],
-    [ "Register", "d8/dd5/a15650.html#a46f4aec6f7786d0abc8ded21ef16e6f6", null ],
-    [ "Validate", "d8/dd5/a15650.html#ab3f8d94f3b8d44e668743cb821430a92", null ]
+    [ "HandleDummy", "d8/dd5/a15650.html#a38dafff805471b19ca3cca4ff5273a87", null ],
+    [ "PrepareSpellScript", "d8/dd5/a15650.html#a40db5a46491aa22b5347f99b0251f1b8", null ],
+    [ "Register", "d8/dd5/a15650.html#a2f297ab67d5e2e990658706f7c508bd4", null ],
+    [ "Validate", "d8/dd5/a15650.html#abb7946f53e6271ae69d34caacef61f47", null ]
 ];

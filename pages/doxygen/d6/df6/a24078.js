@@ -1,6 +1,6 @@
 var a24078 =
 [
-    [ "HandleScriptEffect", "d6/df6/a24078.html#a032b00bcd9bda0cd04f93848e4630c6a", null ],
-    [ "PrepareSpellScript", "d6/df6/a24078.html#ad99a318c6b3ee834aa3c3591a0f8a330", null ],
-    [ "Register", "d6/df6/a24078.html#aa96de13af039d8dfab0ae1a5d30e21a8", null ]
+    [ "HandleScriptEffect", "d6/df6/a24078.html#a32c5e4743adeb3085a6eac062b8f6226", null ],
+    [ "PrepareSpellScript", "d6/df6/a24078.html#a0c51d5a108d8225387ce8a149a0a0c86", null ],
+    [ "Register", "d6/df6/a24078.html#a4b940caf98f1164be5e2f4e748811fc6", null ]
 ];

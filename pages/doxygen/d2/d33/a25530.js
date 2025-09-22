@@ -1,8 +1,7 @@
 var a25530 =
 [
-    [ "OnApply", "d2/d33/a25530.html#acf25199409ab6f991db15a784749aaf1", null ],
-    [ "OnRemove", "d2/d33/a25530.html#a700513c27a2ae22581bbc61c8c4b523a", null ],
-    [ "PrepareAuraScript", "d2/d33/a25530.html#ae6f93ab542d8f05a95745d7b10d1856a", null ],
-    [ "Register", "d2/d33/a25530.html#a9332cb72f66e83f648b4ed02c8c074eb", null ],
-    [ "Validate", "d2/d33/a25530.html#a09017d12ecf0ae0c3091cea17640782c", null ]
+    [ "OnApply", "d2/d33/a25530.html#a455a885611978a390cd4bfa76b05f82b", null ],
+    [ "PrepareAuraScript", "d2/d33/a25530.html#ac8f269db5d77cf38bdfcbcfef75a62ff", null ],
+    [ "Register", "d2/d33/a25530.html#a4b1a28052f11b47646dafbcd60b9dad8", null ],
+    [ "Validate", "d2/d33/a25530.html#af1174bbbaab1d170a0dcd030d2f1e990", null ]
 ];

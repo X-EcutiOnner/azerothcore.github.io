@@ -1,6 +1,5 @@
 var a20598 =
 [
-    [ "boss_mimironAI", "dd/df5/a20602.html", "dd/df5/a20602" ],
-    [ "boss_mimiron", "d4/d6a/a20598.html#a72904837bd85e9f711fcf3da04c459c3", null ],
-    [ "GetAI", "d4/d6a/a20598.html#a1d4f38ecee62a2c2a608afc158fad7f2", null ]
+    [ "achievement_kologarn_rubble_and_roll", "d4/d6a/a20598.html#ae36bbab8d82f10ad120a1e7564a13961", null ],
+    [ "OnCheck", "d4/d6a/a20598.html#acb0f72ebdf1917a3331b3fc0f9aa4300", null ]
 ];

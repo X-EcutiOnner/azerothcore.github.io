@@ -1,9 +1,15 @@
 var a07298 =
 [
-    [ "Rank", "df/d21/a07298.html#a9bcd8dc00437bcf015565eeb43263578", null ],
-    [ "Rating", "df/d21/a07298.html#ab43875cc3ae58eb636a490c2c0f5c1f6", null ],
-    [ "SeasonGames", "df/d21/a07298.html#a124c6d64f22c13707764eedd79fe1912", null ],
-    [ "SeasonWins", "df/d21/a07298.html#ad274601b85ea634524b1c00979e09465", null ],
-    [ "WeekGames", "df/d21/a07298.html#a1d0092200b2c9428e821473949cfda77", null ],
-    [ "WeekWins", "df/d21/a07298.html#a313afef901bd5a9347f2074a7ca1bfe0", null ]
+    [ "ModifyMatchmakerRating", "df/d21/a07298.html#aaa6de888c3f85ef8cbe9baa2f997aba1", null ],
+    [ "ModifyPersonalRating", "df/d21/a07298.html#a34401ea82507df97e540c698fa549b5f", null ],
+    [ "Class", "df/d21/a07298.html#a5f6519e8ad3281a09608f8740927fbd3", null ],
+    [ "Guid", "df/d21/a07298.html#ac0dc6765247a0f36b3d3ff527a678010", null ],
+    [ "MatchMakerRating", "df/d21/a07298.html#ac91a344c7aecb72d17841413f5d935da", null ],
+    [ "MaxMMR", "df/d21/a07298.html#afc86e111a1c699254c5ea761d0dda088", null ],
+    [ "Name", "df/d21/a07298.html#a7917e705d8c15bbe2731c32375c34d16", null ],
+    [ "PersonalRating", "df/d21/a07298.html#a03168b1bdc8e6dac30d3b63e692ce854", null ],
+    [ "SeasonGames", "df/d21/a07298.html#ae3724b7268c161d5553b8cc1fae2cf75", null ],
+    [ "SeasonWins", "df/d21/a07298.html#a7239187cef3a02839fe27577ad022ec9", null ],
+    [ "WeekGames", "df/d21/a07298.html#a97906127f7eb1babe2bf2ebcda7c0a88", null ],
+    [ "WeekWins", "df/d21/a07298.html#a5b9e5e02d59569080d34abd9b9728693", null ]
 ];

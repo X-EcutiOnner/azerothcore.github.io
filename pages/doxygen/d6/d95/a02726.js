@@ -1,8 +1,8 @@
 var a02726 =
 [
-    [ "lfg::LfgQueueData", "d6/dfc/a08002.html", "d6/dfc/a08002" ],
-    [ "lfg::LfgWaitTime", "d0/d89/a08006.html", "d0/d89/a08006" ],
-    [ "lfg::LFGQueue", "da/d2e/a08010.html", "da/d2e/a08010" ],
+    [ "lfg::LfgQueueData", "d0/d89/a08006.html", "d0/d89/a08006" ],
+    [ "lfg::LfgWaitTime", "da/d2e/a08010.html", "da/d2e/a08010" ],
+    [ "lfg::LFGQueue", "d6/d4e/a08014.html", "d6/d4e/a08014" ],
     [ "LfgCompatibleContainer", "d6/d95/a02726.html#a96438cca4cead6c1fc5d31ef643129e9", null ],
     [ "LfgQueueDataContainer", "d6/d95/a02726.html#aa2afec59ce753c11c3d8fddf4fb33991", null ],
     [ "LfgWaitTimesContainer", "d6/d95/a02726.html#a58714a43cbdc03f4008681528fb20447", null ],

@@ -1,5 +1,6 @@
 var a21202 =
 [
-    [ "achievement_yogg_saron_kiss_and_make_up", "da/d3b/a21202.html#a9f2e5fe9de59a9b5a00c0e73e8f9b376", null ],
-    [ "OnCheck", "da/d3b/a21202.html#a8ce7df713b804d5bdd5f6f47d77fc1b8", null ]
+    [ "achievement_yogg_saron_darkness", "da/d3b/a21202.html#a536c7156305d47c41a062d3c1a1b16eb", null ],
+    [ "OnCheck", "da/d3b/a21202.html#a809902fca87abaeb4334132763624ed6", null ],
+    [ "_keepersCount", "da/d3b/a21202.html#a765ec4606bb489760ed1e15db10de1dc", null ]
 ];

@@ -1,6 +1,7 @@
 var a27362 =
 [
-    [ "boss_taerarAI", "da/d84/a27366.html", "da/d84/a27366" ],
-    [ "boss_taerar", "df/d11/a27362.html#a100c1b80a50faf93088db870faa21b58", null ],
-    [ "GetAI", "df/d11/a27362.html#ae6615da6ee14c4f7cb3087b4ee5d6246", null ]
+    [ "npc_spirit_shadeAI", "df/d11/a27362.html#a8b7bf7c7cc541a47be79aad76a9bbcbc", null ],
+    [ "IsSummonedBy", "df/d11/a27362.html#a3a7fcb4af8e3b27e06b4665e8a864b38", null ],
+    [ "MovementInform", "df/d11/a27362.html#ab001fdc09efe9f8c03ad1b7610124e6d", null ],
+    [ "_summonerGuid", "df/d11/a27362.html#aa7c6abb848ab37f407a3553d04d0ad81", null ]
 ];

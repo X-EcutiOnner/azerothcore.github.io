@@ -1,7 +1,6 @@
 var a15222 =
 [
-    [ "boss_rajaxx", "d5/de5/a15222.html#afca05f7afabb4c0e181ce3757acb3bcb", null ],
-    [ "JustDied", "d5/de5/a15222.html#a9231a20150ed6eae0cbc79c8386f7371", null ],
-    [ "JustEngagedWith", "d5/de5/a15222.html#a8dad79921559359b6aa7149641925fe5", null ],
-    [ "UpdateAI", "d5/de5/a15222.html#a9b949bea61ceb45ec1b3e452f218c227", null ]
+    [ "FilterTargets", "d5/de5/a15222.html#ab0cd088c750e9538e2087f58fdaac20e", null ],
+    [ "PrepareSpellScript", "d5/de5/a15222.html#ae252cbce0ebc63eb4e54bedfc88640ad", null ],
+    [ "Register", "d5/de5/a15222.html#a3168a3f97ddb38b261a0730405ba27db", null ]
 ];

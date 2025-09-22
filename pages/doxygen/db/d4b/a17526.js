@@ -1,6 +1,7 @@
 var a17526 =
 [
-    [ "ChangeSummonPos", "db/d4b/a17526.html#a2c3d69419762c7f78688a22017a8c535", null ],
-    [ "PrepareSpellScript", "db/d4b/a17526.html#a97c48254a0d7a0bd4bcf40f614bc5373", null ],
-    [ "Register", "db/d4b/a17526.html#a9c1aad0131ebe9635c9fdbb3d71c9cdd", null ]
+    [ "HandleScript", "db/d4b/a17526.html#a4b1e392acea30a9259e65a75667704c5", null ],
+    [ "Load", "db/d4b/a17526.html#a9af7bb4defb7c590aaff1a709dad4573", null ],
+    [ "PrepareSpellScript", "db/d4b/a17526.html#a17301c4ef9623ec04ec3c15dfd4e316f", null ],
+    [ "Register", "db/d4b/a17526.html#a77632d11a172e5552c0c49de830a1639", null ]
 ];

@@ -1,6 +1,6 @@
 var a16370 =
 [
-    [ "npc_living_infernoAI", "dc/d19/a16370.html#ab33eeac6aab8e18778fc7d4ffe5038f1", null ],
-    [ "IsSummonedBy", "dc/d19/a16370.html#a4b6986a392aee0741ba47651e809c76c", null ],
-    [ "JustDied", "dc/d19/a16370.html#a60b2e31d24e182e97d604d91223e2dc8", null ]
+    [ "HandleHealPct", "dc/d19/a16370.html#ad13b3924815ac3da7902c8292a760943", null ],
+    [ "PrepareSpellScript", "dc/d19/a16370.html#aeea718bce7dd5aa4ac33bbd1a95a65c0", null ],
+    [ "Register", "dc/d19/a16370.html#a3016c31c072d6417bbe47c2891059718", null ]
 ];

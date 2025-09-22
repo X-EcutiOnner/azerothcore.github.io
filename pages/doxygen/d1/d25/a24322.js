@@ -1,7 +1,5 @@
 var a24322 =
 [
-    [ "npc_maxx_a_million_escortAI", "df/d52/a24326.html", "df/d52/a24326" ],
-    [ "npc_maxx_a_million_escort", "d1/d25/a24322.html#a958a88b495594dd8e14919d950ac917a", null ],
-    [ "GetAI", "d1/d25/a24322.html#af79619087908d442f503e0b0d633937d", null ],
-    [ "OnQuestAccept", "d1/d25/a24322.html#af3c2f2708702f7d25e712c63a45e69e0", null ]
+    [ "at_commander_dawnforge", "d1/d25/a24322.html#a1dfd7eb69ae515a59887c313001e4a4e", null ],
+    [ "OnTrigger", "d1/d25/a24322.html#acc78f4f2f9d892c02d62548e93f7f83b", null ]
 ];

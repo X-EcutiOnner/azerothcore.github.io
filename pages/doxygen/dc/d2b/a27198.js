@@ -1,6 +1,6 @@
 var a27198 =
 [
-    [ "HandleOnHit", "dc/d2b/a27198.html#a32a6f464057fbfb3bbffe0e10d1d4141", null ],
-    [ "PrepareSpellScript", "dc/d2b/a27198.html#adfa4da76e8c2486fbcc2b3bea0f50005", null ],
-    [ "Register", "dc/d2b/a27198.html#a1742dc0c039f7f981cae8114ff9ae59a", null ]
+    [ "HandleEffectCalcSpellMod", "dc/d2b/a27198.html#a38c2a5daeda4b366518026638e6a8e1b", null ],
+    [ "PrepareAuraScript", "dc/d2b/a27198.html#a767c3c52e917b56dbf2368b5dbbf1610", null ],
+    [ "Register", "dc/d2b/a27198.html#af60592a9f1e595f31814eae405d03d5a", null ]
 ];

@@ -1,7 +1,9 @@
 var a11610 =
 [
-    [ "Command", "d2/d96/a11610.html#a6042a93c52d18e3a74d3cd46ac3d940f", null ],
-    [ "ModuleId", "d2/d96/a11610.html#aa2e1c1cee71fc1eb887511c655de0516", null ],
-    [ "ModuleKey", "d2/d96/a11610.html#aba0f236c39186022816bd86f8e8e9093", null ],
-    [ "Size", "d2/d96/a11610.html#a6912224c1ef6fd117a5ed02d394254d9", null ]
+    [ "bytes", "d2/d96/a11610.html#a3a2997d203c186bc3cd54a9ba4235319", null ],
+    [ "bytes", "d2/d96/a11610.html#a8484412ccb13cf396a4dc28b86f65b4e", null ],
+    [ "bytes", "d2/d96/a11610.html#ac019bab7aac3013567d8fe979f30bf5d", null ],
+    [ "ints", "d2/d96/a11610.html#a0518eb4b0a91697500a5a370068425a8", null ],
+    [ "ints", "d2/d96/a11610.html#a08efba5e78b64fef020453f689bcc5f0", null ],
+    [ "ints", "d2/d96/a11610.html#a4b24d33d1c7fc4eecb32b0bde85a5f2e", null ]
 ];

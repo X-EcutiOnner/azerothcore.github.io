@@ -1,9 +1,9 @@
 var a22154 =
 [
-    [ "npc_venture_co_stragglerAI", "d0/dbb/a22154.html#abc3cc04b89b95fd45969ba5859bf810c", null ],
-    [ "Reset", "d0/dbb/a22154.html#acfeaad9db95d0b391a64cc65ca3a1cee", null ],
-    [ "SpellHit", "d0/dbb/a22154.html#ae1919454c270d10342079b60a727a306", null ],
-    [ "UpdateAI", "d0/dbb/a22154.html#a0846336d8d1333e2c2f50731a722c3b7", null ],
-    [ "_events", "d0/dbb/a22154.html#a9cd6e6b549e10900f35838f04e10e0f5", null ],
-    [ "_playerGUID", "d0/dbb/a22154.html#a649493944b143782d995b5bdda3714b4", null ]
+    [ "npc_wounded_skirmisher", "d0/dbb/a22154.html#a30fe2d901df0cfd9b66f3dbd6a1e6aea", null ],
+    [ "Initialize", "d0/dbb/a22154.html#ae5fab920fcb16b57e0ed53a1177d319b", null ],
+    [ "JustEngagedWith", "d0/dbb/a22154.html#a80357b71a1eccdcdce8c8bea87de1b66", null ],
+    [ "Reset", "d0/dbb/a22154.html#acca266640c099718d2a0fd4f6a3c47ab", null ],
+    [ "SpellHit", "d0/dbb/a22154.html#a891e879af5da1f181c94e528c59a81f1", null ],
+    [ "UpdateAI", "d0/dbb/a22154.html#a52f8e7f8df05504cad4b4438c50814a4", null ]
 ];

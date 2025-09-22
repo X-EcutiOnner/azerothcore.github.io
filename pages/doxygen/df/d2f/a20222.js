@@ -1,5 +1,5 @@
 var a20222 =
 [
-    [ "achievement_flame_leviathan_unbroken", "df/d2f/a20222.html#a30a94a92aacc558d6833994c11f3ee8a", null ],
-    [ "OnCheck", "df/d2f/a20222.html#a78c69e3217b6598ab238a4f51ba598eb", null ]
+    [ "achievement_flame_leviathan_shutout", "df/d2f/a20222.html#a555e0d206b7f730665d301c7e03b23e6", null ],
+    [ "OnCheck", "df/d2f/a20222.html#af548232f563fd387bc8ee25b696a2f99", null ]
 ];

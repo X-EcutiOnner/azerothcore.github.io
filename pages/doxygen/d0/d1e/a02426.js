@@ -1,8 +1,8 @@
 var a02426 =
 [
-    [ "npc_kilrek", "d2/dd3/a12866.html", "d2/dd3/a12866" ],
-    [ "npc_demon_chain", "d6/dbb/a12870.html", "d6/dbb/a12870" ],
-    [ "boss_terestian_illhoof", "d2/d6c/a12874.html", "d2/d6c/a12874" ],
+    [ "npc_kilrek", "d6/dbb/a12870.html", "d6/dbb/a12870" ],
+    [ "npc_demon_chain", "d2/d6c/a12874.html", "d2/d6c/a12874" ],
+    [ "boss_terestian_illhoof", "d9/db6/a12878.html", "d9/db6/a12878" ],
     [ "Creatures", "d0/d1e/a02426.html#a25a619e6b66096a4f05d048e4a96df08", [
       [ "NPC_NORTH_MARSHAL", "dd/d6f/a02207.html#a25a619e6b66096a4f05d048e4a96df08abeb6d3b1ff8238f7c57911ab8acde69e", null ],
       [ "NPC_SOUTH_MARSHAL", "dd/d6f/a02207.html#a25a619e6b66096a4f05d048e4a96df08a9a3360dc10641daabdef8158f42ee00e", null ],

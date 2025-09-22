@@ -1,19 +1,12 @@
 var a23326 =
 [
-    [ "boss_fathomguard_tidalvess", "d1/d28/a23326.html#aa4c3ac27c72e659bd87ad83bbadfb04c", null ],
-    [ "DoAction", "d1/d28/a23326.html#a909601091c25285e0a6c9773b61ff049", null ],
-    [ "EnterEvadeMode", "d1/d28/a23326.html#a8fe1a7a13b0d3d806edcfe8e9bf4ff33", null ],
-    [ "JustDied", "d1/d28/a23326.html#a7f79a16e0c186e97aeb7f16f3b7d45ea", null ],
-    [ "JustEngagedWith", "d1/d28/a23326.html#aa524d5c047b50df8d83b5faa3fd791fc", null ],
-    [ "JustSummoned", "d1/d28/a23326.html#a1dc16180610c742e98a93f87653e93e9", null ],
-    [ "Reset", "d1/d28/a23326.html#af218abccb0b61e483dcc6d7a3313d99d", null ],
-    [ "ScheduleRemoval", "d1/d28/a23326.html#a07c887552c8705b52caf9e102788a781", null ],
-    [ "SummonTotem", "d1/d28/a23326.html#adb4d877f50ba5653d699a0a123f5961c", null ],
-    [ "UpdateAI", "d1/d28/a23326.html#abce5d58fced89ecaac1d1f34989f0d9e", null ],
-    [ "_choice", "d1/d28/a23326.html#a0ced209c6f22a0bf435a0249a25b15c4", null ],
-    [ "_entryList", "d1/d28/a23326.html#a9eaeaf02dbe143d38ca857e5ae478aca", null ],
-    [ "_instance", "d1/d28/a23326.html#a958c76b6ad9d9713625b10baa0d6d992", null ],
-    [ "_scheduler", "d1/d28/a23326.html#ae1652d83938dc820255e383870b957a7", null ],
-    [ "_summons", "d1/d28/a23326.html#aea75646687854c08eaee75c55718376d", null ],
-    [ "_totemScheduler", "d1/d28/a23326.html#a1b4ace7575946c585cc63057e81a1529", null ]
+    [ "boss_fathomlord_karathress", "d1/d28/a23326.html#a05c483ea61011926c260b43f6c01cac3", null ],
+    [ "DoAction", "d1/d28/a23326.html#adc5685244341e353c6dac67b0191d877", null ],
+    [ "JustDied", "d1/d28/a23326.html#a4c356359be50b626a28fab4a803386f8", null ],
+    [ "JustEngagedWith", "d1/d28/a23326.html#ae221d994f2ebb0a298288233727ea1ba", null ],
+    [ "JustReachedHome", "d1/d28/a23326.html#a1e03da049ad75a464de5dd15ac5e6d88", null ],
+    [ "JustSummoned", "d1/d28/a23326.html#a3a692ef94d555e991a7cd34dee9812d9", null ],
+    [ "KilledUnit", "d1/d28/a23326.html#a02812a3cc7de22348058dedd107bb6d0", null ],
+    [ "Reset", "d1/d28/a23326.html#a52f76cb43a32c5f59cbc7476f0df8646", null ],
+    [ "_recentlySpoken", "d1/d28/a23326.html#a81f52ead90284ca3598cd64eb9fb88ee", null ]
 ];

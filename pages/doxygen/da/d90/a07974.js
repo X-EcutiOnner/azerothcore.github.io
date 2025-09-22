@@ -1,7 +1,7 @@
 var a07974 =
 [
-    [ "LfgProposalPlayer", "da/d90/a07974.html#a80f7d0f3597201dc7fca4d08dd3b7a38", null ],
-    [ "accept", "da/d90/a07974.html#acbf0ce1e12307569487096dc5ca544a6", null ],
-    [ "group", "da/d90/a07974.html#a900f24e9caaa1569eeea93b4284139a1", null ],
-    [ "role", "da/d90/a07974.html#a54ab4a0f32cc3abc7489fc9c3655fe99", null ]
+    [ "LfgReward", "da/d90/a07974.html#afe2ea037fa24064c2bf04cfc6303d903", null ],
+    [ "firstQuest", "da/d90/a07974.html#a28162b1e43a5309ab01ca99b45d29799", null ],
+    [ "maxLevel", "da/d90/a07974.html#aae6e46155dc790ed7c63f5f0b8e08395", null ],
+    [ "otherQuest", "da/d90/a07974.html#a96de83c64efc3009d7d5cd04a61e71b2", null ]
 ];

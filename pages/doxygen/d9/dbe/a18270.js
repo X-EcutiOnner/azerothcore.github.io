@@ -1,6 +1,7 @@
 var a18270 =
 [
-    [ "FilterTargets", "d9/dbe/a18270.html#aae21b2d9ecc5bfd317f065f1da46b696", null ],
-    [ "PrepareSpellScript", "d9/dbe/a18270.html#a2a7e37db10a6f8a6c86af92d7b492a29", null ],
-    [ "Register", "d9/dbe/a18270.html#a6e541cad4c831ee2eaf19d72324ec38c", null ]
+    [ "PeriodicTick", "d9/dbe/a18270.html#a79b63e30f37df8a961b57c4b10669800", null ],
+    [ "PrepareAuraScript", "d9/dbe/a18270.html#a091a72cf97d5fbd6ffbf95ad3e409aa6", null ],
+    [ "Register", "d9/dbe/a18270.html#a860e2bc444f5aeb78837cd1a6eff40a3", null ],
+    [ "Validate", "d9/dbe/a18270.html#a32cbe3a7eedf7b37229168a6154167b0", null ]
 ];

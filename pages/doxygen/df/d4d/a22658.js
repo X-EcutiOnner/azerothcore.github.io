@@ -1,6 +1,11 @@
 var a22658 =
 [
-    [ "npc_released_offspring_harkoaAI", "df/df2/a22662.html", "df/df2/a22662" ],
-    [ "npc_released_offspring_harkoa", "df/d4d/a22658.html#a10f583320e3b617cf2b327cfb6fed6f5", null ],
-    [ "GetAI", "df/d4d/a22658.html#ae3d2a02c496be1b2606fce596625d12e", null ]
+    [ "npc_drakuru_shacklesAI", "df/d4d/a22658.html#aeb55bf23d97e963b0fb9a18596bb58b1", null ],
+    [ "LockRageclaw", "df/d4d/a22658.html#aa58fff9ee8e6cbe4d2dd0d391215f1f4", null ],
+    [ "Reset", "df/d4d/a22658.html#a566fba51edcddab8c5b0bf5688571f80", null ],
+    [ "SpellHit", "df/d4d/a22658.html#a04a9f0cc28cd8cab89120e66972b74cf", null ],
+    [ "UnlockRageclaw", "df/d4d/a22658.html#a65a4b408ac09ffa3155b955dc054d971", null ],
+    [ "UpdateAI", "df/d4d/a22658.html#a8a04ac89e5ec9ce841445913765a1a73", null ],
+    [ "_rageclawGUID", "df/d4d/a22658.html#a1c991305f4ef30146930747881e57de4", null ],
+    [ "timer", "df/d4d/a22658.html#a2a6484216abd731ad016284a79575e1c", null ]
 ];

@@ -1,17 +1,14 @@
 var a09994 =
 [
-    [ "FleeingMovementGenerator", "de/dad/a09994.html#a84808dc91baadc114a6c283dd0ba6caa", null ],
-    [ "DoFinalize", "de/dad/a09994.html#a89dd4d270b35e855c268374d8bfc3ebb", null ],
-    [ "DoFinalize", "de/dad/a09994.html#a693ec24e9d51ea0f63d15e1c07afdb2d", null ],
-    [ "DoInitialize", "de/dad/a09994.html#adeb978816b67ec9542ccd131da1403be", null ],
-    [ "DoReset", "de/dad/a09994.html#a0e84bc32b599040c7f8ed9cdf92679e8", null ],
-    [ "DoUpdate", "de/dad/a09994.html#ad78ed87cc8d2569a2744ef43957ba498", null ],
-    [ "GetMovementGeneratorType", "de/dad/a09994.html#aa739940493313028f17d306c1b23da52", null ],
-    [ "GetPoint", "de/dad/a09994.html#a77d3ae9533947a538220f9340ed7a907", null ],
-    [ "SetTargetLocation", "de/dad/a09994.html#ab0e0f55df28f7cbcf108191e1e129634", null ],
-    [ "_fleeTargetGUID", "de/dad/a09994.html#ade625570dc07a778a2089c986fac38f7", null ],
-    [ "_interrupt", "de/dad/a09994.html#a1b71b8e2f29109b5dee1e1661d54f74a", null ],
-    [ "_invalidPathsCount", "de/dad/a09994.html#a56cbd33bf6cd8152f4586b2298c8fdf8", null ],
-    [ "_path", "de/dad/a09994.html#a4955c5c4b2d18c11da2b9d2a75524c16", null ],
-    [ "_timer", "de/dad/a09994.html#a33bbc20fc564b7166965ca2f8e9b9211", null ]
+    [ "EscortMovementGenerator", "de/dad/a09994.html#a9d653e50662103f5f6661da5226ae99e", null ],
+    [ "DoFinalize", "de/dad/a09994.html#a4c191a86f5ecc30ae5b34d7578d58d3e", null ],
+    [ "DoInitialize", "de/dad/a09994.html#ad068798c6e186c1eb1a79f3872955e97", null ],
+    [ "DoReset", "de/dad/a09994.html#ac4934d70ab62e08488cfc29c13355a7f", null ],
+    [ "DoUpdate", "de/dad/a09994.html#a524bb8f72836dc5d1b63e429436b3a77", null ],
+    [ "GetMovementGeneratorType", "de/dad/a09994.html#a0733162a5a0cab2593150f288edeb27b", null ],
+    [ "GetSplineId", "de/dad/a09994.html#a61d74b098d1ae692ce305fa493aaa6d2", null ],
+    [ "unitSpeedChanged", "de/dad/a09994.html#a235e330c4c3368af00d37028915684ff", null ],
+    [ "_splineId", "de/dad/a09994.html#af6286fa4ed6afcc8a6c5f03575c774e6", null ],
+    [ "i_recalculateSpeed", "de/dad/a09994.html#a9f7048c5e49cc09f809496312a0c6550", null ],
+    [ "m_precomputedPath", "de/dad/a09994.html#a46eb2812a1b2a56e584b925cae2169eb", null ]
 ];

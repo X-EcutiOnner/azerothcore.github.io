@@ -1,6 +1,11 @@
 var a11822 =
 [
-    [ "inventory_commandscript", "dc/d1a/a11822.html#a765d3606093dd3e15bb59c058333dca7", null ],
-    [ "GetCommands", "dc/d1a/a11822.html#ac002b65cbe2e5dafc7614c7afa4a20e6", null ],
-    [ "HandleInventoryCountCommand", "dc/d1a/a11822.html#a60d05e2fd4e23fdb6bc6513a1dc67ba3", null ]
+    [ "instance_commandscript", "dc/d1a/a11822.html#a4d0b308b35a1aa21c66c8bd406ffa82f", null ],
+    [ "GetCommands", "dc/d1a/a11822.html#a092d62969c835f6bf2a08ca3e05f04d5", null ],
+    [ "HandleInstanceGetBossStateCommand", "dc/d1a/a11822.html#a0530ca6481073d6bafd11596546140b0", null ],
+    [ "HandleInstanceListBindsCommand", "dc/d1a/a11822.html#abf42411f9c78ce59b21b34691e3d4233", null ],
+    [ "HandleInstanceSaveDataCommand", "dc/d1a/a11822.html#a4b494a8b1de470612436fbb9fa433416", null ],
+    [ "HandleInstanceSetBossStateCommand", "dc/d1a/a11822.html#aec65b5af811eae2cbcf17571e9d1473b", null ],
+    [ "HandleInstanceStatsCommand", "dc/d1a/a11822.html#a9547a0a88a3bcd7407c449f3f2f25f44", null ],
+    [ "HandleInstanceUnbindCommand", "dc/d1a/a11822.html#a7abbe257b10632f2acbdd838e1f073a9", null ]
 ];

@@ -1,11 +1,7 @@
 var a14790 =
 [
-    [ "boss_anetheron", "d6/d50/a14790.html#a6c103caa3f137756599a75bff03a6648", null ],
-    [ "DoAction", "d6/d50/a14790.html#a2fd485de26c820fec5240f9141a09964", null ],
-    [ "JustDied", "d6/d50/a14790.html#a7c8b2039ee7e379bed8387b7236b7ee5", null ],
-    [ "JustEngagedWith", "d6/d50/a14790.html#aa34ac87ad4014fbecb481be7896c577c", null ],
-    [ "JustSummoned", "d6/d50/a14790.html#af9c156e28c7eca710d8367bd2a99387d", null ],
-    [ "KilledUnit", "d6/d50/a14790.html#a4471af823278a3664574729bf5c749be", null ],
-    [ "PathEndReached", "d6/d50/a14790.html#a75ed708e2769a77defa5c9a0b22dcae9", null ],
-    [ "_recentlySpoken", "d6/d50/a14790.html#accd9455c3b1d536ca177be6028f3503d", null ]
+    [ "HandleOnHit", "d6/d50/a14790.html#a9f1d78b4a98bc76877903b79923c1634", null ],
+    [ "PrepareSpellScript", "d6/d50/a14790.html#afb0a8a16850da30b0fbdb3d10a935f21", null ],
+    [ "Register", "d6/d50/a14790.html#ab923488eb891e1f9b1f5cb8ed61f3865", null ],
+    [ "Validate", "d6/d50/a14790.html#a57d85b1702e5c89d72972505121180ed", null ]
 ];

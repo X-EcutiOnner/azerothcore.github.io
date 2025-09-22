@@ -1,5 +1,6 @@
 var a19474 =
 [
-    [ "go_the_focusing_iris", "d9/dfe/a19474.html#a9c2fa1e739ff98ebdd9b9fdcc2ab5ece", null ],
-    [ "OnGossipHello", "d9/dfe/a19474.html#a7f3f1170713d63f912ca5732453a7e33", null ]
+    [ "npc_eoe_wyrmrest_skytalonAI", "d6/ddc/a19478.html", "d6/ddc/a19478" ],
+    [ "npc_eoe_wyrmrest_skytalon", "d9/dfe/a19474.html#a55685de624b277840f8fc0c397b8aebf", null ],
+    [ "GetAI", "d9/dfe/a19474.html#a01a384ab10cfccbd159f116e0bef52e8", null ]
 ];

@@ -1,10 +1,8 @@
 var a23014 =
 [
-    [ "boss_illidari_council", "d2/d4d/a23014.html#a078c36be39b377f6d1cdbf061d70270d", null ],
-    [ "AttackStart", "d2/d4d/a23014.html#a260b15ec58164f17543aa044a89875a8", null ],
-    [ "DamageTaken", "d2/d4d/a23014.html#af8e88c307efaba392cc2a1d2f3862078", null ],
-    [ "DoAction", "d2/d4d/a23014.html#a6c3c57523ed2775ba553af1171b46463", null ],
-    [ "EnterEvadeMode", "d2/d4d/a23014.html#a7dd21784b8f9a0eac17d56215c24028e", null ],
-    [ "MoveInLineOfSight", "d2/d4d/a23014.html#a19ed88ab049e1323f529e0880af0a9dd", null ],
-    [ "UpdateAI", "d2/d4d/a23014.html#a8b30df956aa4ce1727756f1d19e151be", null ]
+    [ "HandleScriptEffect", "d2/d4d/a23014.html#a8e5b81581fff787f691521d03fed66fc", null ],
+    [ "Load", "d2/d4d/a23014.html#a8a74f3c6776f2613a6b2c63387d962e2", null ],
+    [ "PrepareSpellScript", "d2/d4d/a23014.html#a5dfe415b9c990e83b9e6c1ee06a33692", null ],
+    [ "Register", "d2/d4d/a23014.html#a5839b0e282fb2848c328cfaaca2c752f", null ],
+    [ "Validate", "d2/d4d/a23014.html#a8c1ee55a1122c62056250b3fa09357a8", null ]
 ];

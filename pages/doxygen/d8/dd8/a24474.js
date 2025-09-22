@@ -1,6 +1,6 @@
 var a24474 =
 [
-    [ "npc_zephyr", "d8/dd8/a24474.html#a3bad7bf2bd3b193960f1f53cd7d8349d", null ],
-    [ "OnGossipHello", "d8/dd8/a24474.html#a31e132e80a19bb6e63787fcdf7ffd466", null ],
-    [ "OnGossipSelect", "d8/dd8/a24474.html#a9b1f5a0d4ba24e65dda521bc94574ad8", null ]
+    [ "CheckRequirement", "d8/dd8/a24474.html#aa53bdc1b4b57150dbebce61ac87d2b88", null ],
+    [ "PrepareSpellScript", "d8/dd8/a24474.html#a8e3d6659174d4c920e65f85afb9308b1", null ],
+    [ "Register", "d8/dd8/a24474.html#aa4f62292b32347179a5534e4bc0417f8", null ]
 ];

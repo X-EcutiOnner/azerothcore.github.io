@@ -1,7 +1,7 @@
 var a02201 =
 [
-    [ "boss_drekthar", "d7/d68/a11954.html", "d7/d68/a11954" ],
-    [ "boss_drekthar::boss_drektharAI", "dc/d3f/a11958.html", "dc/d3f/a11958" ],
+    [ "boss_drekthar", "dc/d3f/a11958.html", "dc/d3f/a11958" ],
+    [ "boss_drekthar::boss_drektharAI", "d0/d4c/a11962.html", "d0/d4c/a11962" ],
     [ "Spells", "dd/d14/a02201.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_OIL_REFINERY", "d8/d23/a03038.html#a5bd342133be8c2137b831460acc9298cae2eb4db3c46b45e80cc2feb9c34f2ada", null ],
       [ "SPELL_QUARRY", "d8/d23/a03038.html#a5bd342133be8c2137b831460acc9298ca5a0922923b24c4bb6661ad8396a76e01", null ],

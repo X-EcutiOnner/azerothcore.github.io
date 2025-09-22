@@ -1,6 +1,6 @@
 var a04073 =
 [
-    [ "MiscScript", "d7/d85/a10386.html", "d7/d85/a10386" ],
+    [ "MiscScript", "d6/d23/a10390.html", "d6/d23/a10390" ],
     [ "MiscHook", "d6/ddb/a04073.html#af37f873b1735a7e1f78da6f2f334c134", [
       [ "MISCHOOK_ON_CONSTRUCT_OBJECT", "d6/ddb/a04073.html#af37f873b1735a7e1f78da6f2f334c134aced03c29bfe1b673cd653f80f983c9fb", null ],
       [ "MISCHOOK_ON_DESTRUCT_OBJECT", "d6/ddb/a04073.html#af37f873b1735a7e1f78da6f2f334c134a9733f4054c726297206f0d94936b198f", null ],

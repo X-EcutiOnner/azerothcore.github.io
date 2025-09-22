@@ -1,9 +1,7 @@
 var a17862 =
 [
-    [ "HandleApply", "de/d4c/a17862.html#a5f23d41765ec949486094a0da45be7e8", null ],
-    [ "HandleRemove", "de/d4c/a17862.html#a8737bad17bf7aa3e52cb2e0b7fbc9178", null ],
-    [ "Load", "de/d4c/a17862.html#a7c2644d06592b0d929a0b59cf8fa0f1b", null ],
-    [ "PrepareAuraScript", "de/d4c/a17862.html#aabf5fdf4578935db11e041e638fba187", null ],
-    [ "Register", "de/d4c/a17862.html#a6bdc66b6028002b5fc873803a434b6b1", null ],
-    [ "SendClientControl", "de/d4c/a17862.html#a24f79a4c59d4bf615a6de745ffa11d81", null ]
+    [ "FilterTargets", "de/d4c/a17862.html#a32b2fa87fb2eaca3db0801fbfe4b8aaa", null ],
+    [ "Load", "de/d4c/a17862.html#a39e8ec4726a1f6c2911c165c7187f291", null ],
+    [ "PrepareSpellScript", "de/d4c/a17862.html#a7526a6df4c25136f4be78e753c6abf62", null ],
+    [ "Register", "de/d4c/a17862.html#a0d01b8292c1c071a5c828a5a88617bd5", null ]
 ];

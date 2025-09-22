@@ -1,6 +1,7 @@
 var a27742 =
 [
-    [ "npc_target_dummyAI", "d2/d5b/a27746.html", "d2/d5b/a27746" ],
-    [ "npc_target_dummy", "db/dae/a27742.html#a04847f9893a40c0f1c1879f448cc228d", null ],
-    [ "GetAI", "db/dae/a27742.html#a1aff9199c160e20f9e92ee9f90178d63", null ]
+    [ "npc_riggle_bassbaitAI", "db/dae/a27742.html#ad7a1a7a6f4c4ebb7ab93878ebb3a9a5b", null ],
+    [ "CheckTournamentState", "db/dae/a27742.html#aa7b4393b93be92fbb595648cede832be", null ],
+    [ "UpdateAI", "db/dae/a27742.html#ad0fca96e2c770ef179d98dcdd9aaca6e", null ],
+    [ "m_uiTimer", "db/dae/a27742.html#aec45a971a5b7aa574e905e9a2338fe90", null ]
 ];

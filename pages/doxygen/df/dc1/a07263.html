@@ -104,20 +104,34 @@ $(document).ready(function(){initNavTree('db/d55/a07266.html','../../'); initRes
 </div>
 
 <div class="header">
-  <div class="headertitle"><div class="title">ArenaSeasonTeamRewarder Member List</div></div>
+  <div class="headertitle"><div class="title">ArenaSeasonMgr Member List</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p>This is the complete list of members for <a class="el" href="../../db/d55/a07266.html">ArenaSeasonTeamRewarder</a>, including all inherited members.</p>
+<p>This is the complete list of members for <a class="el" href="../../db/d55/a07266.html">ArenaSeasonMgr</a>, including all inherited members.</p>
 <table class="directory">
-  <tr class="even"><td class="entry"><a class="el" href="../../db/d55/a07266.html#a2beaf893f95e16c4d388ad048885848b">RewardTeamWithRewardGroup</a>(ArenaTeam *arenaTeam, ArenaSeasonRewardGroup const &amp;rewardGroup)=0</td><td class="entry"><a class="el" href="../../db/d55/a07266.html">ArenaSeasonTeamRewarder</a></td><td class="entry"><span class="mlabel">pure virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../db/d55/a07266.html#a8f7eb844a39cd5213134ef4f4d4b1fde">~ArenaSeasonTeamRewarder</a>()=default</td><td class="entry"><a class="el" href="../../db/d55/a07266.html">ArenaSeasonTeamRewarder</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../db/d55/a07266.html#a90d508c6ffb7c7277d0e6c6f27bafc33">_arenaSeasonRewardGroupsStore</a></td><td class="entry"><a class="el" href="../../db/d55/a07266.html">ArenaSeasonMgr</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../db/d55/a07266.html#a168a36d3ae1818f22acfb168e932c10c">_currentSeason</a></td><td class="entry"><a class="el" href="../../db/d55/a07266.html">ArenaSeasonMgr</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../db/d55/a07266.html#af73eb610ed7b0e908c206aac14f2c452">_currentSeasonState</a></td><td class="entry"><a class="el" href="../../db/d55/a07266.html">ArenaSeasonMgr</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../db/d55/a07266.html#a510f51e8cd7ad494dc2f0dd25640e924">ArenaSeasonRewardGroupsBySeasonContainer</a> typedef</td><td class="entry"><a class="el" href="../../db/d55/a07266.html">ArenaSeasonMgr</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../db/d55/a07266.html#ae40b9d3ff73604045d1d7f6c59487f95">BroadcastUpdatedWorldState</a>()</td><td class="entry"><a class="el" href="../../db/d55/a07266.html">ArenaSeasonMgr</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../db/d55/a07266.html#a6d2302f89f8756d7ceaf210cdabea9e8">CanDeleteArenaTeams</a>()</td><td class="entry"><a class="el" href="../../db/d55/a07266.html">ArenaSeasonMgr</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../db/d55/a07266.html#a05f9e4be327f8ecb65729cec2d811851">ChangeCurrentSeason</a>(uint8 season)</td><td class="entry"><a class="el" href="../../db/d55/a07266.html">ArenaSeasonMgr</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../db/d55/a07266.html#ad28595c2f09c2cecd46ba8811374ae21">DeleteArenaTeams</a>()</td><td class="entry"><a class="el" href="../../db/d55/a07266.html">ArenaSeasonMgr</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../db/d55/a07266.html#a3bef72c5136e9920f8b4e0438f3f1628">GameEventForArenaSeason</a>(uint8 season)</td><td class="entry"><a class="el" href="../../db/d55/a07266.html">ArenaSeasonMgr</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../db/d55/a07266.html#ae07db874a46e7d1cc8c60105635bbdf0">GetCurrentSeason</a>()</td><td class="entry"><a class="el" href="../../db/d55/a07266.html">ArenaSeasonMgr</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../db/d55/a07266.html#abff2ff6a3e08f37b00405f5f688cb08d">GetSeasonState</a>()</td><td class="entry"><a class="el" href="../../db/d55/a07266.html">ArenaSeasonMgr</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../db/d55/a07266.html#ad9299d5394ee20830fe9aca038575ce0">instance</a>()</td><td class="entry"><a class="el" href="../../db/d55/a07266.html">ArenaSeasonMgr</a></td><td class="entry"><span class="mlabel">static</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../db/d55/a07266.html#a81c47f17e571dd5ba2c2617bdef09694">LoadActiveSeason</a>()</td><td class="entry"><a class="el" href="../../db/d55/a07266.html">ArenaSeasonMgr</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../db/d55/a07266.html#a495f7d12cbe5a4bfb09a9a6de45c17e1">LoadRewards</a>()</td><td class="entry"><a class="el" href="../../db/d55/a07266.html">ArenaSeasonMgr</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../db/d55/a07266.html#a4c1069779f69aa3eae885540fa2b31e6">RewardTeamsForTheSeason</a>(std::shared_ptr&lt; ArenaTeamFilter &gt; teamsFilter)</td><td class="entry"><a class="el" href="../../db/d55/a07266.html">ArenaSeasonMgr</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../db/d55/a07266.html#a118910793bb11fba35b0cd6b28e248a8">SetSeasonState</a>(ArenaSeasonState state)</td><td class="entry"><a class="el" href="../../db/d55/a07266.html">ArenaSeasonMgr</a></td><td class="entry"></td></tr>
 </table></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Mon Sep 15 2025 20:45:33 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Sep 22 2025 20:44:59 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

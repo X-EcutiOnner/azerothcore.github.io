@@ -1,5 +1,5 @@
 var a28374 =
 [
-    [ "Id", "de/dfe/a28374.html#a2c41c957524b31ad9f7fa361ec0e9d01", null ],
-    [ "textid", "de/dfe/a28374.html#a7e50690fa335b759dba5ac265c9a0dd0", null ]
+    [ "Itemlvl", "de/dfe/a28374.html#a39d9dcee397a1f5984184c769f9b8b17", null ],
+    [ "multiplier", "de/dfe/a28374.html#a5c6c206a6185a546223de7501ff846f6", null ]
 ];

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: Acore::Impl::ChatCommands::ArgInfo&lt; std::wstring, void &gt; Struct Reference</title>
+<title>AzerothCore: Acore::Impl::ChatCommands::ArgInfo&lt; std::string, void &gt; Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -107,7 +107,7 @@ $(document).ready(function(){initNavTree('d7/d8d/a07626.html','../../'); initRes
   <div class="summary">
 <a href="#pub-static-methods">Static Public Member Functions</a> &#124;
 <a href="../../d4/d4f/a07623.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">Acore::Impl::ChatCommands::ArgInfo&lt; std::wstring, void &gt; Struct Reference</div></div>
+  <div class="headertitle"><div class="title">Acore::Impl::ChatCommands::ArgInfo&lt; std::string, void &gt; Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
@@ -115,13 +115,13 @@ $(document).ready(function(){initNavTree('d7/d8d/a07626.html','../../'); initRes
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
 Static Public Member Functions</h2></td></tr>
-<tr class="memitem:a8f2b6448f80a4fac69d0157c9f556dc4"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../dc/da1/a07694.html">ChatCommandResult</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d8d/a07626.html#a8f2b6448f80a4fac69d0157c9f556dc4">TryConsume</a> (std::wstring &amp;val, <a class="el" href="../../d3/ddf/a07538.html">ChatHandler</a> const *handler, std::string_view args)</td></tr>
-<tr class="separator:a8f2b6448f80a4fac69d0157c9f556dc4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afb6bc0250c190a2b52c031e3540ddf78"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d1/d20/a07698.html">ChatCommandResult</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d8d/a07626.html#afb6bc0250c190a2b52c031e3540ddf78">TryConsume</a> (std::string &amp;val, <a class="el" href="../../da/dc0/a07542.html">ChatHandler</a> const *handler, std::string_view args)</td></tr>
+<tr class="separator:afb6bc0250c190a2b52c031e3540ddf78"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
-<a id="a8f2b6448f80a4fac69d0157c9f556dc4" name="a8f2b6448f80a4fac69d0157c9f556dc4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8f2b6448f80a4fac69d0157c9f556dc4">&#9670;&#160;</a></span>TryConsume()</h2>
+<a id="afb6bc0250c190a2b52c031e3540ddf78" name="afb6bc0250c190a2b52c031e3540ddf78"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afb6bc0250c190a2b52c031e3540ddf78">&#9670;&#160;</a></span>TryConsume()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -130,15 +130,15 @@ Static Public Member Functions</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">static <a class="el" href="../../dc/da1/a07694.html">ChatCommandResult</a> <a class="el" href="../../da/d42/a07610.html">Acore::Impl::ChatCommands::ArgInfo</a>&lt; std::wstring, void &gt;::TryConsume </td>
+          <td class="memname">static <a class="el" href="../../d1/d20/a07698.html">ChatCommandResult</a> <a class="el" href="../../d7/d52/a07614.html">Acore::Impl::ChatCommands::ArgInfo</a>&lt; std::string, void &gt;::TryConsume </td>
           <td>(</td>
-          <td class="paramtype">std::wstring &amp;&#160;</td>
+          <td class="paramtype">std::string &amp;&#160;</td>
           <td class="paramname"><em>val</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../d3/ddf/a07538.html">ChatHandler</a> const *&#160;</td>
+          <td class="paramtype"><a class="el" href="../../da/dc0/a07542.html">ChatHandler</a> const *&#160;</td>
           <td class="paramname"><em>handler</em>, </td>
         </tr>
         <tr>
@@ -159,27 +159,15 @@ Static Public Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  109</span>        {</div>
-<div class="line"><span class="lineno">  110</span>            std::string_view utf8view;</div>
-<div class="line"><span class="lineno">  111</span>            <a class="code hl_struct" href="../../dc/da1/a07694.html">ChatCommandResult</a> next = ArgInfo&lt;std::string_view&gt;::TryConsume(utf8view, handler, args);</div>
-<div class="line"><span class="lineno">  112</span> </div>
-<div class="line"><span class="lineno">  113</span>            <span class="keywordflow">if</span> (next)</div>
-<div class="line"><span class="lineno">  114</span>            {</div>
-<div class="line"><span class="lineno">  115</span>                <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d3/d8b/a00059.html#a096388bd1034eb78e43e5d60cc4f657a">Utf8toWStr</a>(utf8view, val))</div>
-<div class="line"><span class="lineno">  116</span>                    <span class="keywordflow">return</span> next;</div>
-<div class="line"><span class="lineno">  117</span>                <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  118</span>                    <span class="keywordflow">return</span> <a class="code hl_function" href="../../da/d82/a04837.html#a1106e69269315156c6019b7812547ce9">GetAcoreString</a>(handler, <a class="code hl_enumvalue" href="../../d0/d45/a02843.html#af9ee42b1cf006ecb2d2e74fe71c0761aafa07aec7bd59db026c454dcf92ef600d">LANG_CMDPARSER_INVALID_UTF8</a>);</div>
-<div class="line"><span class="lineno">  119</span>            }</div>
-<div class="line"><span class="lineno">  120</span>            <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  121</span>                <span class="keywordflow">return</span> std::nullopt;</div>
-<div class="line"><span class="lineno">  122</span>        }</div>
-<div class="ttc" id="aa00059_html_a096388bd1034eb78e43e5d60cc4f657a"><div class="ttname"><a href="../../d3/d8b/a00059.html#a096388bd1034eb78e43e5d60cc4f657a">Utf8toWStr</a></div><div class="ttdeci">bool Utf8toWStr(char const *utf8str, std::size_t csize, wchar_t *wstr, std::size_t &amp;wsize)</div><div class="ttdef"><b>Definition:</b> Util.cpp:281</div></div>
-<div class="ttc" id="aa02843_html_af9ee42b1cf006ecb2d2e74fe71c0761aafa07aec7bd59db026c454dcf92ef600d"><div class="ttname"><a href="../../d0/d45/a02843.html#af9ee42b1cf006ecb2d2e74fe71c0761aafa07aec7bd59db026c454dcf92ef600d">LANG_CMDPARSER_INVALID_UTF8</a></div><div class="ttdeci">@ LANG_CMDPARSER_INVALID_UTF8</div><div class="ttdef"><b>Definition:</b> Language.h:1002</div></div>
-<div class="ttc" id="aa04837_html_a1106e69269315156c6019b7812547ce9"><div class="ttname"><a href="../../da/d82/a04837.html#a1106e69269315156c6019b7812547ce9">Acore::Impl::ChatCommands::GetAcoreString</a></div><div class="ttdeci">AC_GAME_API std::string GetAcoreString(ChatHandler const *handler, AcoreStrings which)</div><div class="ttdef"><b>Definition:</b> ChatCommandHelpers.cpp:27</div></div>
-<div class="ttc" id="aa07694_html"><div class="ttname"><a href="../../dc/da1/a07694.html">Acore::Impl::ChatCommands::ChatCommandResult</a></div><div class="ttdef"><b>Definition:</b> ChatCommandHelpers.h:100</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   95</span>        {</div>
+<div class="line"><span class="lineno">   96</span>            std::string_view view;</div>
+<div class="line"><span class="lineno">   97</span>            <a class="code hl_struct" href="../../d1/d20/a07698.html">ChatCommandResult</a> next = ArgInfo&lt;std::string_view&gt;::TryConsume(view, handler, args);</div>
+<div class="line"><span class="lineno">   98</span>            <span class="keywordflow">if</span> (next)</div>
+<div class="line"><span class="lineno">   99</span>                val.assign(view);</div>
+<div class="line"><span class="lineno">  100</span>            <span class="keywordflow">return</span> next;</div>
+<div class="line"><span class="lineno">  101</span>        }</div>
+<div class="ttc" id="aa07698_html"><div class="ttname"><a href="../../d1/d20/a07698.html">Acore::Impl::ChatCommands::ChatCommandResult</a></div><div class="ttdef"><b>Definition:</b> ChatCommandHelpers.h:100</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00027">Acore::Impl::ChatCommands::GetAcoreString()</a>, <a class="el" href="../../#l01002">LANG_CMDPARSER_INVALID_UTF8</a>, and <a class="el" href="../../#l00281">Utf8toWStr()</a>.</p>
-
 </div>
 </div>
 </div><!-- contents -->
@@ -187,8 +175,8 @@ Static Public Member Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d3/d7d/a04797.html">Acore</a></li><li class="navelem"><a class="el" href="../../d0/d6d/a04809.html">Impl</a></li><li class="navelem"><a class="el" href="../../da/d82/a04837.html">ChatCommands</a></li><li class="navelem"><a class="el" href="../../d7/d8d/a07626.html">ArgInfo&lt; std::wstring, void &gt;</a></li>
-    <li class="footer">Generated on Mon Sep 15 2025 20:46:57 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d3/d7d/a04797.html">Acore</a></li><li class="navelem"><a class="el" href="../../d0/d6d/a04809.html">Impl</a></li><li class="navelem"><a class="el" href="../../da/d82/a04837.html">ChatCommands</a></li><li class="navelem"><a class="el" href="../../d7/d8d/a07626.html">ArgInfo&lt; std::string, void &gt;</a></li>
+    <li class="footer">Generated on Mon Sep 22 2025 20:46:19 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

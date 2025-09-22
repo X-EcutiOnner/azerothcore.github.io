@@ -1,6 +1,6 @@
 var a21582 =
 [
-    [ "instance_violet_hold_InstanceMapScript", "d2/d99/a21586.html", "d2/d99/a21586" ],
-    [ "instance_violet_hold", "da/d39/a21582.html#ae66f018196cd90683506c3cc3d8c5d7a", null ],
-    [ "GetInstanceScript", "da/d39/a21582.html#aeedcbb24b0709bd172ebbbc6d9851532", null ]
+    [ "npc_vh_void_sentryAI", "d2/d99/a21586.html", "d2/d99/a21586" ],
+    [ "npc_vh_void_sentry", "da/d39/a21582.html#a6d4995d112a3fe6b59c3c3c417d98c45", null ],
+    [ "GetAI", "da/d39/a21582.html#ab3bcb8f8e9084e2ab588f80929a5d5ce", null ]
 ];

@@ -1,6 +1,6 @@
 var a01349 =
 [
-    [ "boss_zereketh_the_unbound", "df/da9/a23922.html", "df/da9/a23922" ],
+    [ "boss_zereketh_the_unbound", "d5/dc6/a23934.html", "d5/dc6/a23934" ],
     [ "Say", "de/d6c/a01349.html#aa58e311eb19c72984d1fb3bcf9ae2a68", [
       [ "SAY_AGGRO", "db/d86/a02663.html#aa58e311eb19c72984d1fb3bcf9ae2a68a47c752fff069f3e55065795eef2a9bfe", null ],
       [ "SAY_LEASH", "db/d86/a02663.html#aa58e311eb19c72984d1fb3bcf9ae2a68a7d67e29b0f8ef4c0df41e318ab764d9a", null ],

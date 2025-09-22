@@ -1,8 +1,7 @@
 var a22434 =
 [
-    [ "npc_vics_flying_machineAI", "d9/dc3/a22434.html#a4464e0b1433c4ffb24ae7809b1a0eec5", null ],
-    [ "MovementInform", "d9/dc3/a22434.html#ac4bbe0a3cccb6878d050b717b9efb320", null ],
-    [ "PassengerBoarded", "d9/dc3/a22434.html#aa67dcbb4b43b047398fec2619ad61829", null ],
-    [ "SpellHit", "d9/dc3/a22434.html#aa81229a104e1521d570abec4b6f7bca7", null ],
-    [ "pointId", "d9/dc3/a22434.html#aa1412c23f0c3b964262e145c51aea974", null ]
+    [ "HandleSendEvent", "d9/dc3/a22434.html#afd34935d8ab7d66589ca3c99ba0bfe48", null ],
+    [ "PrepareSpellScript", "d9/dc3/a22434.html#af698a946e07235c18c8b785a1f775ec9", null ],
+    [ "Register", "d9/dc3/a22434.html#a3f6a7e6265221e9536728256f1ec88c0", null ],
+    [ "Validate", "d9/dc3/a22434.html#a72d441fdeb7e2fdc37ab9868f9f8ee04", null ]
 ];

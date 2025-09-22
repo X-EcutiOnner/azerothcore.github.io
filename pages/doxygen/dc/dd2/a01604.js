@@ -1,7 +1,7 @@
 var a01604 =
 [
-    [ "boss_urom", "dd/df8/a19578.html", "dd/df8/a19578" ],
-    [ "boss_urom::boss_uromAI", "d8/df6/a19582.html", "d8/df6/a19582" ],
+    [ "boss_urom", "dc/d3e/a19586.html", "dc/d3e/a19586" ],
+    [ "boss_urom::boss_uromAI", "d5/db3/a19590.html", "d5/db3/a19590" ],
     [ "SPELL_EMPOWERED_ARCANE_EXPLOSION", "dc/dd2/a01604.html#a8484400f79492bc9d03fee724c864538", null ],
     [ "Events", "dc/dd2/a01604.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "dd/d6f/a02207.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],

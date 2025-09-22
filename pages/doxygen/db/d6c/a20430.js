@@ -1,6 +1,6 @@
 var a20430 =
 [
-    [ "DestroyWinterCache", "db/d6c/a20430.html#a4f4d8998d611354bce4f5531e6029d6b", null ],
-    [ "PrepareSpellScript", "db/d6c/a20430.html#a67e36939554e13ddb7fb7493968fbc3f", null ],
-    [ "Register", "db/d6c/a20430.html#a5ac6314b0a016adafd7c6e87289b5649", null ]
+    [ "npc_ulduar_hodir_mageAI", "d6/d5b/a20434.html", "d6/d5b/a20434" ],
+    [ "npc_ulduar_hodir_mage", "db/d6c/a20430.html#afebdd0f99f0c7eaaf0a2d5731335105d", null ],
+    [ "GetAI", "db/d6c/a20430.html#abcbe0337b2a83b6eb0a64f7465d7f79a", null ]
 ];

@@ -1,16 +1,11 @@
 var a08426 =
 [
-    [ "UpdateState", "d3/d29/a08426.html#aa4f58928ebfbd115280b12866d9b7d23", [
-      [ "NotUpdating", "d3/d29/a08426.html#aa4f58928ebfbd115280b12866d9b7d23a29cf8e7615ba78787e84d5298e9835ba", null ],
-      [ "PendingAdd", "d3/d29/a08426.html#aa4f58928ebfbd115280b12866d9b7d23acc2e650db938ff5bf5525de448cd8ddf", null ],
-      [ "Updating", "d3/d29/a08426.html#aa4f58928ebfbd115280b12866d9b7d23ad1caed37f15232d71507dbf81af2a919", null ]
-    ] ],
-    [ "UpdatableMapObject", "d3/d29/a08426.html#a5602f3b21fe1299e300e71d645f3eaee", null ],
-    [ "GetMapUpdateListOffset", "d3/d29/a08426.html#a52bf945e86eba8c73701a3e378503eeb", null ],
-    [ "GetUpdateState", "d3/d29/a08426.html#a90b2d1a9f5b356f013ac4a357020de66", null ],
-    [ "SetMapUpdateListOffset", "d3/d29/a08426.html#aef864d62d4cbefb63647fe691d69dfd4", null ],
-    [ "SetUpdateState", "d3/d29/a08426.html#a7c95f861c7e13c17e2ebf8088882a709", null ],
+    [ "MovableMapObject", "d3/d29/a08426.html#ad9f4cb74c55993cfdfc5895aefc33cfb", null ],
+    [ "GetCurrentCell", "d3/d29/a08426.html#a6d7d87cff5f00f3b370584675caf7870", null ],
+    [ "SetCurrentCell", "d3/d29/a08426.html#a4caa8c9e50452bff413dec06bf80b84c", null ],
     [ "Map", "d3/d29/a08426.html#ad2f32e921244459f7cc6d50355429cc6", null ],
-    [ "_mapUpdateListOffset", "d3/d29/a08426.html#af4aaf71a3308e72af67f20bf0e7ced57", null ],
-    [ "_mapUpdateState", "d3/d29/a08426.html#a46f9010396bb1bd84fb654bbe2795f8e", null ]
+    [ "ObjectGridLoader", "d3/d29/a08426.html#a9551c85ae0e43e4d212225c643da2262", null ],
+    [ "RandomMovementGenerator", "d3/d29/a08426.html#a260ebfc53c9406bc0356c553822d8ab2", null ],
+    [ "_currentCell", "d3/d29/a08426.html#a529db8859c0c9713bcc2f62459bbcc9f", null ],
+    [ "_moveState", "d3/d29/a08426.html#a6782d8e3dc7de58ef83a83cf0a355e43", null ]
 ];

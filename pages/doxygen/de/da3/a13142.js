@@ -1,6 +1,8 @@
 var a13142 =
 [
-    [ "npc_koltira_deathweaverAI", "d3/d6e/a13146.html", "d3/d6e/a13146" ],
-    [ "npc_koltira_deathweaver", "de/da3/a13142.html#a5e9fdbc8dc70ce3480906b86aed381a3", null ],
-    [ "GetAI", "de/da3/a13142.html#afddc561b88679f3dd6ca8b374807b0f0", null ]
+    [ "HandleDummy", "de/da3/a13142.html#a3533f1e0daea7bf0e0e2a5830380159a", null ],
+    [ "HandleScript", "de/da3/a13142.html#a528ce741ebde0fb6b796431da800e439", null ],
+    [ "PrepareSpellScript", "de/da3/a13142.html#aa64f2238cdf8bf733c7e99db5d076c81", null ],
+    [ "Register", "de/da3/a13142.html#a8dea4b47777324b88c7e022f11741b25", null ],
+    [ "Validate", "de/da3/a13142.html#a6f49345b2beea56b4eaad390a6062118", null ]
 ];

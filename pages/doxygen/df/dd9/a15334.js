@@ -1,6 +1,6 @@
 var a15334 =
 [
-    [ "FilterTargets", "df/dd9/a15334.html#a15ebe9125f5f4a8f66241ee4da1ac83e", null ],
-    [ "PrepareSpellScript", "df/dd9/a15334.html#a32b0be74a9127f920e22aa03c910a005", null ],
-    [ "Register", "df/dd9/a15334.html#a80efa2858d4270c497e49a1fe6a7472e", null ]
+    [ "OnRemove", "df/dd9/a15334.html#a85595fed0e9b6a2ced18aeb4acffcf81", null ],
+    [ "PrepareAuraScript", "df/dd9/a15334.html#a47849d8241ed17ad0fb541c1178b0760", null ],
+    [ "Register", "df/dd9/a15334.html#aa23231c5c324e73930fdf8d784b0edb4", null ]
 ];

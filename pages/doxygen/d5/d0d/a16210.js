@@ -1,6 +1,7 @@
 var a16210 =
 [
-    [ "boss_baltharus_the_warbornAI", "d0/dd5/a16214.html", "d0/dd5/a16214" ],
-    [ "boss_baltharus_the_warborn", "d5/d0d/a16210.html#aababb8862273d60f140dce675131783d", null ],
-    [ "GetAI", "d5/d0d/a16210.html#afe7ecf8635c8c0a051047a801c2a8d54", null ]
+    [ "DelayedTalk", "d5/d0d/a16210.html#a8a7ea9e6ddebd73996cfe8d9723276bc", null ],
+    [ "Execute", "d5/d0d/a16210.html#a88c1915e73bcbd8ec253a537c416caf7", null ],
+    [ "_owner", "d5/d0d/a16210.html#a9d13769bb3fbaed32919fc919da35006", null ],
+    [ "_talkId", "d5/d0d/a16210.html#a3f3a1688a36807c653a5d071dd2bb389", null ]
 ];

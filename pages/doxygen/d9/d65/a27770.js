@@ -1,6 +1,10 @@
 var a27770 =
 [
-    [ "npc_dancing_flamesAI", "d1/d67/a27774.html", "d1/d67/a27774" ],
-    [ "npc_dancing_flames", "d9/d65/a27770.html#adec0401f876ddf159f28fdda8bc4d563", null ],
-    [ "GetAI", "d9/d65/a27770.html#a1000d0b95dab3a6e73efa0ca088ce4e6", null ]
+    [ "npc_air_force_botsAI", "d9/d65/a27770.html#a062eb272826d52ffd9b72054f970b761", null ],
+    [ "GetSummonedGuard", "d9/d65/a27770.html#ac4f39049ba15caf314939f12b82ccd05", null ],
+    [ "MoveInLineOfSight", "d9/d65/a27770.html#a474231c0ce93b4db0789bcc8f6767c19", null ],
+    [ "Reset", "d9/d65/a27770.html#a016911d354f3b00e2db3e4f3722cda7f", null ],
+    [ "SummonGuard", "d9/d65/a27770.html#a8da57471dfa875f55f52c3d2b068a0f3", null ],
+    [ "SpawnAssoc", "d9/d65/a27770.html#a6f2f7ffd24dd32780c441fd6ce29dfbf", null ],
+    [ "SpawnedGUID", "d9/d65/a27770.html#a3c8ae595a3b4a436c2f94aa84cb9ee56", null ]
 ];

@@ -1,5 +1,5 @@
 var a13866 =
 [
-    [ "npc_king_varian_wrynn", "db/d94/a13866.html#a33b7c492a7435b3f80e508be9e3440e9", null ],
-    [ "OnQuestReward", "db/d94/a13866.html#a1255cca95a7a2b039702b30db377a19f", null ]
+    [ "npc_tyrion", "db/d94/a13866.html#a85b1abd4910729c17099174def6507b1", null ],
+    [ "OnQuestAccept", "db/d94/a13866.html#af8388a07e52a8c5708434a70d0d28cbb", null ]
 ];

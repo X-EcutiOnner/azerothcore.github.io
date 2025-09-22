@@ -1,13 +1,12 @@
 var a08182 =
 [
-    [ "AnimationInfo", "db/df3/a08182.html#aa443028e95ae416e09f1acfef0575803", null ],
-    [ "Building", "db/df3/a08182.html#aae3dbb59dc70ee4d5d0a10390200c66e", null ],
-    [ "CapturePoint", "db/df3/a08182.html#a6be6a6549054045466f377cf8a55790a", null ],
-    [ "FishingHole", "db/df3/a08182.html#a7c7b99d5e85617c9f74ba20babb8f08b", null ],
-    [ "Health", "db/df3/a08182.html#af70b72663064c9c4b88c93a824f1e14b", null ],
-    [ "MaxHealth", "db/df3/a08182.html#ab606f11596c1dd3d1cf7588346338721", null ],
-    [ "MaxOpens", "db/df3/a08182.html#a07ed76d692ae0af008e2373f3f9fd3e9", null ],
-    [ "OPvPObj", "db/df3/a08182.html#a565624b690fa7fabf21b175548765652", null ],
-    [ "PathProgress", "db/df3/a08182.html#a9e07a147b2be08a78f052e0cdb817111", null ],
-    [ "Transport", "db/df3/a08182.html#a3fe65f8be0137e71908c037b0d279c27", null ]
+    [ "GameObjectModelOwnerImpl", "db/df3/a08182.html#adb8b3b555ad6cd75c1ee7a1f71a08af7", null ],
+    [ "DebugVisualizeCorner", "db/df3/a08182.html#af8553967b9788d69da9fcb8cdb647f9c", null ],
+    [ "GetDisplayId", "db/df3/a08182.html#a4a694456955c19e76d8c84befc02c920", null ],
+    [ "GetOrientation", "db/df3/a08182.html#acb968e3bd921aac111a2e06f2604b040", null ],
+    [ "GetPhaseMask", "db/df3/a08182.html#ad0b9a01502c49f16a47e35694d3e6c10", null ],
+    [ "GetPosition", "db/df3/a08182.html#a9ba2b29d30b38895effe97637e050988", null ],
+    [ "GetScale", "db/df3/a08182.html#a3d72c1810a41e2baa7e87ab26f4674f9", null ],
+    [ "IsSpawned", "db/df3/a08182.html#ae47eb25d16de37122042402443db6f3d", null ],
+    [ "_owner", "db/df3/a08182.html#a7909f7095341dde39bf47fc12a0c15b0", null ]
 ];

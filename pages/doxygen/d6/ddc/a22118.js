@@ -1,7 +1,9 @@
 var a22118 =
 [
-    [ "HandleScriptEffect", "d6/ddc/a22118.html#ad3f1231ac90b96650b5c8c3403d69195", null ],
-    [ "PrepareSpellScript", "d6/ddc/a22118.html#a1fdd85c5833bf6f17395f56e2ea11fed", null ],
-    [ "Register", "d6/ddc/a22118.html#a278206630f9f45f2dba50b259a6115c1", null ],
-    [ "Validate", "d6/ddc/a22118.html#a8f6332b2d4e7ac7ba6a68331b1d4512f", null ]
+    [ "npc_mrfloppyAI", "d6/ddc/a22118.html#a2994e5658035bb2cfe6f3cdab4c507fc", null ],
+    [ "EnterEvadeMode", "d6/ddc/a22118.html#af0f11f715cac553c772c0dca7e5e3a22", null ],
+    [ "JustEngagedWith", "d6/ddc/a22118.html#a490bf07de00cc5c59b5f0024317d8125", null ],
+    [ "MoveInLineOfSight", "d6/ddc/a22118.html#af0b376c5f10b6cb43f3bb63376012a0d", null ],
+    [ "Reset", "d6/ddc/a22118.html#ac2dc6204b0579e1aaf7e670f0fcb4ec5", null ],
+    [ "UpdateAI", "d6/ddc/a22118.html#afad6db1ccd903fd18192f832a10a32f4", null ]
 ];

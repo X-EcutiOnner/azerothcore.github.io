@@ -1,11 +1,10 @@
 var a26786 =
 [
-    [ "AddTarget", "d1/d91/a26786.html#a18875ef707271a77c0c5867fa8de7ff7", null ],
-    [ "HandleApply", "d1/d91/a26786.html#afad10ab0f64e688a18ed749c294a2fbe", null ],
-    [ "HandleEffectPeriodic", "d1/d91/a26786.html#a339b71689056a61e4eebf77f1abcb3dd", null ],
-    [ "HandleRemove", "d1/d91/a26786.html#a1bd9806323ad6b26a0c1fb8773596c98", null ],
-    [ "PrepareAuraScript", "d1/d91/a26786.html#abd535f756fae06c9fae613d69ef4e353", null ],
-    [ "Register", "d1/d91/a26786.html#a0f41f9287f5eb5046e6679d22c65416a", null ],
-    [ "Validate", "d1/d91/a26786.html#a47351141df5e5e15a2d454cc653a9cf5", null ],
-    [ "_targets", "d1/d91/a26786.html#ad2467bc150cb08766c57cca23d4d9843", null ]
+    [ "CheckProc", "d1/d91/a26786.html#a5971c42af47d1cc8045a130deb218a04", null ],
+    [ "HandleProc", "d1/d91/a26786.html#a45aaf5afebc2fa533240fcf8233430ed", null ],
+    [ "Load", "d1/d91/a26786.html#a7664b0f67c9e3b14841ed9e30447544d", null ],
+    [ "PrepareAuraScript", "d1/d91/a26786.html#a291fcf1af497d1e83a31209cd01a360d", null ],
+    [ "Register", "d1/d91/a26786.html#af16d0517ad07a454145da0b92c051740", null ],
+    [ "Validate", "d1/d91/a26786.html#ac768a5f4738dee9ad7d885fa6136785e", null ],
+    [ "_procTargetGUID", "d1/d91/a26786.html#a13976d069846f29d2f744f3f03502787", null ]
 ];

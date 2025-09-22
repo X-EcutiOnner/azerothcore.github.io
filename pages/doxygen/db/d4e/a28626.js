@@ -1,8 +1,10 @@
 var a28626 =
 [
-    [ "Color", "db/d4e/a28626.html#a670fb4e2a31958f81d46047f74d9916f", null ],
-    [ "Comparator", "db/d4e/a28626.html#ace0bdad11edd9db12e45d374da623793", null ],
-    [ "CompareColor", "db/d4e/a28626.html#a801e2221bbb1b6aab67a57381901cf08", null ],
-    [ "ID", "db/d4e/a28626.html#aae73769db40326d298bb1d04eef38871", null ],
-    [ "Value", "db/d4e/a28626.html#ac314a9a6b447d386e31a286811f66538", null ]
+    [ "attackSpeed", "db/d4e/a28626.html#ab5242f7367e8799a556176178c72fc88", null ],
+    [ "creatureType", "db/d4e/a28626.html#a3dff9074b85261932ed8a8a550c5395b", null ],
+    [ "flags1", "db/d4e/a28626.html#a026745f2ce754d754858d69ee219b518", null ],
+    [ "ID", "db/d4e/a28626.html#a72853ed36016e05e4cd14a9d89e9d6a8", null ],
+    [ "modelID_A", "db/d4e/a28626.html#a86dfa61342583d920b7d8496bce4b49d", null ],
+    [ "modelID_H", "db/d4e/a28626.html#a1ee597d6fd02507b682874929645e01d", null ],
+    [ "stanceSpell", "db/d4e/a28626.html#a08f54b905e905fb5a59e449f8c613c08", null ]
 ];

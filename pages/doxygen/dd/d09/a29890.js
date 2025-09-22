@@ -1,12 +1,8 @@
 var a29890 =
 [
-    [ "ID", "dd/d09/a29890.html#a84ba697182123cb3e7dd3ba07241e971", null ],
-    [ "maxScale", "dd/d09/a29890.html#a23ca0ae7c45790a24f58546970194abf", null ],
-    [ "maxScaleLevel", "dd/d09/a29890.html#ad5d722d74bc08d4de3edd54c2f24addb", null ],
-    [ "minScale", "dd/d09/a29890.html#a3eacdd8639c6dd25dbd3205a58860cf9", null ],
-    [ "minScaleLevel", "dd/d09/a29890.html#a49d9d7847cc4d54891d83166eb277740", null ],
-    [ "Name", "dd/d09/a29890.html#a937fc579ab2790f4a972f07d3453a762", null ],
-    [ "petFoodMask", "dd/d09/a29890.html#a4d9dd8baa3f7981633248513bb25f4ca", null ],
-    [ "petTalentType", "dd/d09/a29890.html#a802000cefb6c4d357edfc45cc291e21e", null ],
-    [ "skillLine", "dd/d09/a29890.html#ad4498d40b31d18742ee4ac235cb58a2e", null ]
+    [ "_ACORE_DB_IMPORT_CONFIG", "dd/d09/a29890.html#a97392c73658eeeb49d256527b19ad90f", null ],
+    [ "GetConsoleArguments", "dd/d09/a29890.html#a6f250d3a28ed2192d175846c6ce5795b", null ],
+    [ "main", "dd/d09/a29890.html#a3c04138a5bfe5d72780bb7e82a18e627", null ],
+    [ "StartDB", "dd/d09/a29890.html#a1551df43a48f1dbf64dbec1e47b07eea", null ],
+    [ "StopDB", "dd/d09/a29890.html#a927af1587546ee7503a3b9a18f6439c0", null ]
 ];

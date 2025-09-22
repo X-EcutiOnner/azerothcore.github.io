@@ -1,6 +1,6 @@
 var a20830 =
 [
-    [ "boss_thorim_pillarAI", "db/d46/a20834.html", "db/d46/a20834" ],
-    [ "boss_thorim_pillar", "df/d65/a20830.html#a7a2cbafc1d359d7b33bb735342cdfe2d", null ],
-    [ "GetAI", "df/d65/a20830.html#af95d5e819292af9b54a022674b74af70", null ]
+    [ "boss_thorim_sif_blizzardAI", "db/d46/a20834.html", "db/d46/a20834" ],
+    [ "boss_thorim_sif_blizzard", "df/d65/a20830.html#acc42b4c9434f9eece2d93c2e4f3697fc", null ],
+    [ "GetAI", "df/d65/a20830.html#afbff96363951c952a195f5c2a105e279", null ]
 ];

@@ -1,5 +1,19 @@
 var a07466 =
 [
-    [ "time", "db/d86/a07466.html#a4270f34fef655cb9ff9998b36055c3ec", null ],
-    [ "winner", "db/d86/a07466.html#a728a3e4efbae3be9224c70f2d70000cf", null ]
+    [ "BattlegroundRV", "db/d86/a07466.html#ad8c16fa336cd5b0d98eb0009ef094632", null ],
+    [ "CheckPositionForUnit", "db/d86/a07466.html#a17665265c5ab837b4e2a0cdc461a7d0a", null ],
+    [ "FillInitialWorldStates", "db/d86/a07466.html#a62c7201196fabb6000d2df52b8323e6a", null ],
+    [ "GetPillarAtPosition", "db/d86/a07466.html#a0cd6f84233993bde76be990abab75f23", null ],
+    [ "GetPillarIdForPos", "db/d86/a07466.html#a4edb8efce09dece515e8b833142d2c55", null ],
+    [ "HandleAreaTrigger", "db/d86/a07466.html#aa75f63f77d1f7e8bafffe1d8cb7de9b8", null ],
+    [ "HandlePlayerUnderMap", "db/d86/a07466.html#a4cb2e77a45fd02a5db85b6979d622afa", null ],
+    [ "Init", "db/d86/a07466.html#a67853fccaddfcd946015a96c5b108641", null ],
+    [ "PostUpdateImpl", "db/d86/a07466.html#a9707d8805f031c01c14d78fdc1790a64", null ],
+    [ "SetupBattleground", "db/d86/a07466.html#abbd1a364665655cfc4f059fa63384536", null ],
+    [ "StartingEventOpenDoors", "db/d86/a07466.html#a450c1d8a9ad4712ab4042256ba7d9d08", null ],
+    [ "TeleportUnitToNewZ", "db/d86/a07466.html#ac5b158259ccc5168275c0e00ea041db0", null ],
+    [ "UpdatePillars", "db/d86/a07466.html#a76d16c8ab6778a6fc8a4c988a46f0306", null ],
+    [ "_checkPlayersTimer", "db/d86/a07466.html#a7c876ff9156f81b168aec7cf673d39b3", null ],
+    [ "_state", "db/d86/a07466.html#acce3fce40dbbb403749dcdb986e1d970", null ],
+    [ "_timer", "db/d86/a07466.html#ac5f9a8627e919eb224d78d726da1a7a1", null ]
 ];

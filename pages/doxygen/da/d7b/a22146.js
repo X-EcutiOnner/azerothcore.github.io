@@ -1,6 +1,6 @@
 var a22146 =
 [
-    [ "CheckRequirement", "da/d7b/a22146.html#ad58d71b5c2bc10d9ffbfe472bd5b1a32", null ],
-    [ "PrepareSpellScript", "da/d7b/a22146.html#ae621e95feb69b54f9aef5d77577a15ae", null ],
-    [ "Register", "da/d7b/a22146.html#ab0b03fd2d1a0ed6720acc45221a582f6", null ]
+    [ "npc_amberpine_woodsmanAI", "d2/d82/a22150.html", "d2/d82/a22150" ],
+    [ "npc_amberpine_woodsman", "da/d7b/a22146.html#a33bbec50a360b724bfe9cb8612cbb47d", null ],
+    [ "GetAI", "da/d7b/a22146.html#a9c1df6c01c163ca68712d72b14c46139", null ]
 ];

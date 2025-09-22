@@ -1,6 +1,9 @@
 var a24234 =
 [
-    [ "npc_wounded_blood_elfAI", "dd/df6/a24238.html", "dd/df6/a24238" ],
-    [ "npc_wounded_blood_elf", "db/dc3/a24234.html#a40e79d1412f5f399869a4d2c6fbb4260", null ],
-    [ "GetAI", "db/dc3/a24234.html#a39d4bd877bdf6596c65e3cb834f124aa", null ]
+    [ "npc_aeranasAI", "db/dc3/a24234.html#a2142cebc84e64919fa5c2ef630453282", null ],
+    [ "Reset", "db/dc3/a24234.html#a2c1bbe079c065745782adfa13b030515", null ],
+    [ "UpdateAI", "db/dc3/a24234.html#ae192a3b38c0ec65cddfce3b95d15555a", null ],
+    [ "envelopingWinds_Timer", "db/dc3/a24234.html#a566b5d648abe630efc191f9d6d4938a2", null ],
+    [ "faction_Timer", "db/dc3/a24234.html#aac071887c100f91cc7ffc545ea6439d9", null ],
+    [ "shock_Timer", "db/dc3/a24234.html#aba8ad016f0e470b07163fef07b603380", null ]
 ];

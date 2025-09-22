@@ -1,7 +1,10 @@
 var a15434 =
 [
-    [ "npc_vekniss_stinger", "d5/d9f/a15434.html#ad48098961715a924270cb8bbbe77e4b0", null ],
-    [ "JustEngagedWith", "d5/d9f/a15434.html#ae7c758687c81cfb223066f0a9348eab8", null ],
-    [ "Reset", "d5/d9f/a15434.html#a2a79f3775aad83410ff2670aa438e811", null ],
-    [ "UpdateAI", "d5/d9f/a15434.html#a1ff479e8f45710f6aa36473933bb87e0", null ]
+    [ "npc_anubisath_defender", "d5/d9f/a15434.html#ae24a21ad3ebcaa4b8312a1fea66131ba", null ],
+    [ "DamageTaken", "d5/d9f/a15434.html#a032714b16d3d77a19bec0f918d8ef8df", null ],
+    [ "JustDied", "d5/d9f/a15434.html#a225ca1b3144953bcc5890caf0d32b606", null ],
+    [ "JustEngagedWith", "d5/d9f/a15434.html#a6505fcae0e99cae44750f16daddc3309", null ],
+    [ "Reset", "d5/d9f/a15434.html#ab10d9ac93aab97172f630e1d7d8faca0", null ],
+    [ "UpdateAI", "d5/d9f/a15434.html#a1f190f45ffbaf20f5565221780dc5cc6", null ],
+    [ "_enraged", "d5/d9f/a15434.html#a4adef63a5093e3c0ecb8b57283e94ff8", null ]
 ];

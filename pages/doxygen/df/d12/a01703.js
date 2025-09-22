@@ -1,7 +1,7 @@
 var a01703 =
 [
-    [ "boss_patchwerk", "dc/d06/a19314.html", "dc/d06/a19314" ],
-    [ "boss_patchwerk::boss_patchwerkAI", "d9/d0e/a19318.html", "d9/d0e/a19318" ],
+    [ "boss_patchwerk", "dd/dba/a19322.html", "dd/dba/a19322" ],
+    [ "boss_patchwerk::boss_patchwerkAI", "d5/db9/a19326.html", "d5/db9/a19326" ],
     [ "Events", "df/d12/a01703.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "dd/d6f/a02207.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "dd/d6f/a02207.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],

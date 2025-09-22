@@ -1,5 +1,5 @@
 var a04106 =
 [
-    [ "AreaTriggerScript", "d1/d6c/a10274.html", "d1/d6c/a10274" ],
-    [ "OnlyOnceAreaTriggerScript", "df/d88/a10278.html", "df/d88/a10278" ]
+    [ "AreaTriggerScript", "df/d88/a10278.html", "df/d88/a10278" ],
+    [ "OnlyOnceAreaTriggerScript", "d4/dc9/a10282.html", "d4/dc9/a10282" ]
 ];

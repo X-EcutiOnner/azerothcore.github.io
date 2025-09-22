@@ -1,10 +1,11 @@
 var a08454 =
 [
-    [ "ObjectGuidGeneratorBase", "d1/d8b/a08454.html#a8af6741cc884915ee86b489fc970fed1", null ],
-    [ "~ObjectGuidGeneratorBase", "d1/d8b/a08454.html#aaa4430614e899fb1186f52875cf8d2ea", null ],
-    [ "Generate", "d1/d8b/a08454.html#a7a6d9e5a78eef31007a46c10805c3fbe", null ],
-    [ "GetNextAfterMaxUsed", "d1/d8b/a08454.html#abf1f20b97af8071459bd850e7106a442", null ],
-    [ "HandleCounterOverflow", "d1/d8b/a08454.html#ada7a44ac47b112491c575c38465740fc", null ],
-    [ "Set", "d1/d8b/a08454.html#a18b016edddec211c9cc4b0ff8682cb30", null ],
-    [ "_nextGuid", "d1/d8b/a08454.html#a4a14102e019aa10f41b050054cacca22", null ]
+    [ "PackedGuid", "d1/d8b/a08454.html#a9268f8d34f24ef52369d605f94986a8d", null ],
+    [ "PackedGuid", "d1/d8b/a08454.html#a6d4559bc2a1d8c27247329c95c2b6156", null ],
+    [ "PackedGuid", "d1/d8b/a08454.html#adf388e273472f2699348c7a4361ebac4", null ],
+    [ "Set", "d1/d8b/a08454.html#ab1e59343017fa54374f4fb72ff7cccbf", null ],
+    [ "Set", "d1/d8b/a08454.html#ae5d174d63a0b9d33b919f05760290bea", null ],
+    [ "size", "d1/d8b/a08454.html#a22ac06b7072951e84bbf69abcd7d58f6", null ],
+    [ "operator<<", "d1/d8b/a08454.html#a94ab551ce00fd82dea1532d47ad908bc", null ],
+    [ "_packedGuid", "d1/d8b/a08454.html#aeb0e51f1667a2627aabffd6d7cb1779c", null ]
 ];

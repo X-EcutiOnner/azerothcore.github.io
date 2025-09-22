@@ -1,9 +1,15 @@
 var a07982 =
 [
-    [ "cancelTime", "dc/da9/a07982.html#ac1d5edf075556c488aff36799ee6cb96", null ],
-    [ "dungeons", "dc/da9/a07982.html#a1e6c1deaf47dc835bbab7a1741a57fe2", null ],
-    [ "leader", "dc/da9/a07982.html#ad92b0bd391dae5f934b7d6f8a39351d8", null ],
-    [ "rDungeonId", "dc/da9/a07982.html#af07fdfed0b56211af723db06959013f6", null ],
-    [ "roles", "dc/da9/a07982.html#a3759dc8140194b09be842365dc0053d7", null ],
-    [ "state", "dc/da9/a07982.html#aa70ef2d83084359af7bcc9e2de60ce77", null ]
+    [ "LfgProposal", "dc/da9/a07982.html#ad67e8b90ee53576adcab0ac41e523699", null ],
+    [ "cancelTime", "dc/da9/a07982.html#ad702ce8bccc9fbb81457456f1133e2e0", null ],
+    [ "dungeonId", "dc/da9/a07982.html#a3f4f1e3120ed950e2272789c757a401f", null ],
+    [ "encounters", "dc/da9/a07982.html#a6f0fb2094c6237c8bba4321b432115ad", null ],
+    [ "group", "dc/da9/a07982.html#ac04263773858dfe70e7dd627a62113dc", null ],
+    [ "id", "dc/da9/a07982.html#a580dfb67b8040a6267cbd20938cb8667", null ],
+    [ "isNew", "dc/da9/a07982.html#a81989ce9df0046cfde2d805cc4edb59f", null ],
+    [ "leader", "dc/da9/a07982.html#a12f8574ad017641808e522e1e9fdff49", null ],
+    [ "players", "dc/da9/a07982.html#a7d0cc59e08db6fd186de1875c7313b3d", null ],
+    [ "queues", "dc/da9/a07982.html#a7d0a8fabf7aaa632df03f8838fd2a3b4", null ],
+    [ "showorder", "dc/da9/a07982.html#a3d388b633378c35f0efe5927fa78beef", null ],
+    [ "state", "dc/da9/a07982.html#abd3f0fe86587f41c443735164924a3ae", null ]
 ];

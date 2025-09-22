@@ -1,7 +1,8 @@
 var a14862 =
 [
-    [ "hyjalTyrandeAI", "d6/db4/a14866.html", "d6/db4/a14866" ],
-    [ "npc_hyjal_tyrande", "d0/d77/a14862.html#abd2ba500d8e2bbf20c00905012d47d12", null ],
-    [ "GetAI", "d0/d77/a14862.html#a2f863e616352a98763eef9a717d73388", null ],
-    [ "OnGossipSelect", "d0/d77/a14862.html#a014a63098e18b08b6f5cd33a0cba2072", null ]
+    [ "hyjalThrallAI", "d0/d77/a14862.html#a5bc01b52edeaac62e3a9c3e48f90feb2", null ],
+    [ "JustDied", "d0/d77/a14862.html#aa13cb18c91802ad402e5fd97ec78572a", null ],
+    [ "JustEngagedWith", "d0/d77/a14862.html#a96706138634275ae7639c14f53cdd842", null ],
+    [ "Reset", "d0/d77/a14862.html#a6a341bfcc9d697dde64584a5a0231d73", null ],
+    [ "UpdateAI", "d0/d77/a14862.html#a57046716d7c45a5fa4e203d73c4a7b87", null ]
 ];

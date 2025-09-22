@@ -1,6 +1,8 @@
 var a26838 =
 [
-    [ "CheckCast", "d6/d0d/a26838.html#aecbecbd753b8ed32d51971a090063ef4", null ],
-    [ "PrepareSpellScript", "d6/d0d/a26838.html#a0efb319154edb2c798460de72d6a56ed", null ],
-    [ "Register", "d6/d0d/a26838.html#acd6ecb0204dd369c410e465551328f56", null ]
+    [ "HandleRootRemove", "d6/d0d/a26838.html#a9678ce2254825b67eb7a16312e960ba9", null ],
+    [ "HandleSnareRemove", "d6/d0d/a26838.html#a6a0716f500b3926e66c62a038a1e03d3", null ],
+    [ "PrepareSpellScript", "d6/d0d/a26838.html#ab9dc5e2516e269b968cb995040bc00a0", null ],
+    [ "Register", "d6/d0d/a26838.html#a119675dccea898932ca090577022b6ba", null ],
+    [ "Validate", "d6/d0d/a26838.html#a1a90cf531ba1131952161ff9d10b2cb7", null ]
 ];

@@ -1,7 +1,8 @@
 var a10910 =
 [
-    [ "RandomRollClient", "dd/df5/a10910.html#a6d2edee5a6dbafd5b6194b60eeb0aafb", null ],
-    [ "Read", "dd/df5/a10910.html#ab682763f35a40f776b1742927df0a336", null ],
-    [ "Max", "dd/df5/a10910.html#a45a1e140ed402f54deb4c0798360a43a", null ],
-    [ "Min", "dd/df5/a10910.html#a3cd07e7891b43b453b56013d76f51f71", null ]
+    [ "MinimapPing", "dd/df5/a10910.html#a846074f55e6224bf322b96c7bfe9e008", null ],
+    [ "Write", "dd/df5/a10910.html#a94eb49e309ce83b04ccaf8f7e3e8bde7", null ],
+    [ "MapX", "dd/df5/a10910.html#ab747a36a7dfefb0692e8c6abb1d161e2", null ],
+    [ "MapY", "dd/df5/a10910.html#a2f8504ddba41dd09f69763d66331373b", null ],
+    [ "SourceGuid", "dd/df5/a10910.html#abf5d5980b360cbf9332460b01d5816f5", null ]
 ];

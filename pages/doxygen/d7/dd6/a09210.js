@@ -1,9 +1,12 @@
 var a09210 =
 [
-    [ "VisibleChangesNotifier", "d7/dd6/a09210.html#aacb0239ed44c9705eeeebf5ab198f7e0", null ],
-    [ "Visit", "d7/dd6/a09210.html#abfc60c91aaa823cb99cdfc17a287e23e", null ],
-    [ "Visit", "d7/dd6/a09210.html#aaf1dab341f34f75e56da63370af0ecd3", null ],
-    [ "Visit", "d7/dd6/a09210.html#a103a8ef30ce4c0753913b6ecb6cf4e92", null ],
-    [ "Visit", "d7/dd6/a09210.html#a6e856249a08d0a90b9d19f2449f30fba", null ],
-    [ "i_object", "d7/dd6/a09210.html#a496b982d081957cfc288f29b99b8739d", null ]
+    [ "VisibleNotifier", "d7/dd6/a09210.html#ae449b96de3eff1759869438dd90f6513", null ],
+    [ "SendToSelf", "d7/dd6/a09210.html#a95d1c60911cfed9e4f0e034afbf11482", null ],
+    [ "Visit", "d7/dd6/a09210.html#a77d110af6b97c2a4d93ff53a8771273d", null ],
+    [ "Visit", "d7/dd6/a09210.html#a8dafcbc64e004aea196aec47fb2bb175", null ],
+    [ "Visit", "d7/dd6/a09210.html#a49da99cbbcf8f839d810d6ac6a2502e0", null ],
+    [ "i_data", "d7/dd6/a09210.html#a6cfba0f042e117cfdb7bdf1f1168c0ce", null ],
+    [ "i_gobjOnly", "d7/dd6/a09210.html#a019182fa8a629d796982f9cc565d9bc3", null ],
+    [ "i_player", "d7/dd6/a09210.html#aaa324b9a9cffd59c7cbab0c08cf68395", null ],
+    [ "i_visibleNow", "d7/dd6/a09210.html#a34d766816baaad7b1b3623360ec9abeb", null ]
 ];

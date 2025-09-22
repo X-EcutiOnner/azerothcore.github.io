@@ -1,6 +1,8 @@
 var a24158 =
 [
-    [ "npc_deaths_fel_cannonAI", "dc/db9/a24162.html", "dc/db9/a24162" ],
-    [ "npc_deaths_fel_cannon", "dc/d84/a24158.html#a87ecaca75061928600b5114d3913dd26", null ],
-    [ "GetAI", "dc/d84/a24158.html#a4cf91cd1f28637f359e06bccd30e0338", null ]
+    [ "instance_mechanar_InstanceMapScript", "dc/d84/a24158.html#a728d427162c0f56e7d229c55ff88bfbd", null ],
+    [ "OnCreatureCreate", "dc/d84/a24158.html#aa0c6a84a6ace9299b18f0cc54263b398", null ],
+    [ "OnGameObjectCreate", "dc/d84/a24158.html#a236a8c67ca57ffc7d2161c00e8acbd64", null ],
+    [ "OnGameObjectRemove", "dc/d84/a24158.html#ac79c4f1dad7f2caf1278e242ec8fadc9", null ],
+    [ "_pathaleonGUID", "dc/d84/a24158.html#aaf5c80af5ba2ba46b3c53ccffaaa1d3b", null ]
 ];

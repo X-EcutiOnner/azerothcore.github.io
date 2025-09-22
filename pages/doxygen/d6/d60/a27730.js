@@ -1,7 +1,8 @@
 var a27730 =
 [
-    [ "npc_riggle_bassbaitAI", "d6/d60/a27730.html#ad7a1a7a6f4c4ebb7ab93878ebb3a9a5b", null ],
-    [ "CheckTournamentState", "d6/d60/a27730.html#aa7b4393b93be92fbb595648cede832be", null ],
-    [ "UpdateAI", "d6/d60/a27730.html#ad0fca96e2c770ef179d98dcdd9aaca6e", null ],
-    [ "m_uiTimer", "d6/d60/a27730.html#aec45a971a5b7aa574e905e9a2338fe90", null ]
+    [ "npc_elder_clearwaterAI", "d1/dd4/a27734.html", "d1/dd4/a27734" ],
+    [ "npc_elder_clearwater", "d6/d60/a27730.html#abeee1650938a71762bb0c148ea9834d1", null ],
+    [ "GetAI", "d6/d60/a27730.html#a4ae2f507f61ee7cfc0c3b6d7dbfb7f04", null ],
+    [ "OnGossipHello", "d6/d60/a27730.html#aae382c0a386b8bacd39c6e7a586519e4", null ],
+    [ "OnQuestReward", "d6/d60/a27730.html#a2d316a2d2c892cecc134cea46b5bf2a8", null ]
 ];

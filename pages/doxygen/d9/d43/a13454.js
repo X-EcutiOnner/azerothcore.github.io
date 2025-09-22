@@ -1,5 +1,5 @@
 var a13454 =
 [
-    [ "go_eredar_twins_blaze", "d9/d43/a13454.html#a19d28875d3506d337e0ecbd93169f140", null ],
-    [ "InitializeAI", "d9/d43/a13454.html#a8769ad96e4c4a2396cf4c294d8d982eb", null ]
+    [ "at_sunwell_eredar_twins", "d9/d43/a13454.html#afc183c384bc87321186b20e0ac168c1f", null ],
+    [ "_OnTrigger", "d9/d43/a13454.html#aa862756c9905e2cb10d60c70b47919aa", null ]
 ];

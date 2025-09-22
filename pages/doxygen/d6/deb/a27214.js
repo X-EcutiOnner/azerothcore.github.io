@@ -1,5 +1,6 @@
 var a27214 =
 [
-    [ "achievement_save_the_day", "d6/deb/a27214.html#a193e4060b6634a87b499b7c8a5e287a1", null ],
-    [ "OnCheck", "d6/deb/a27214.html#a95cfea6cd9ff955ba6800ebdf3a30eb7", null ]
+    [ "AfterCheckProc", "d6/deb/a27214.html#a947c7b94512fbfdd8b51cfa8044d2e6c", null ],
+    [ "PrepareAuraScript", "d6/deb/a27214.html#aa184faf59edbad97ec361e66169137b9", null ],
+    [ "Register", "d6/deb/a27214.html#a3df5a215670c7a1e07bc901e442bb11c", null ]
 ];

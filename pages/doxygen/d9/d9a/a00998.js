@@ -1,6 +1,6 @@
 var a00998 =
 [
-    [ "boss_epoch_hunter", "dd/dd1/a14982.html", "dd/dd1/a14982" ],
+    [ "boss_epoch_hunter", "df/d23/a14986.html", "df/d23/a14986" ],
     [ "Spells", "d9/d9a/a00998.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_OIL_REFINERY", "d8/d23/a03038.html#a5bd342133be8c2137b831460acc9298cae2eb4db3c46b45e80cc2feb9c34f2ada", null ],
       [ "SPELL_QUARRY", "d8/d23/a03038.html#a5bd342133be8c2137b831460acc9298ca5a0922923b24c4bb6661ad8396a76e01", null ],

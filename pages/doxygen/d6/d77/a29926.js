@@ -1,7 +1,7 @@
 var a29926 =
 [
-    [ "EmoteType", "d6/d77/a29926.html#a2d319652021081fdb02472c32a28e318", null ],
-    [ "Flags", "d6/d77/a29926.html#aa1794d3ffd7f7da82f5754e1be580fe9", null ],
-    [ "Id", "d6/d77/a29926.html#a3b3b641fbdb8dc88afc2421e358a75a1", null ],
-    [ "UnitStandState", "d6/d77/a29926.html#ada83e548faa01917a5db19eaa15dbbec", null ]
+    [ "MPQArchive", "d0/d85/a28930.html", "d0/d85/a28930" ],
+    [ "MPQFile", "df/deb/a28934.html", "df/deb/a28934" ],
+    [ "ArchiveSet", "d6/d77/a29926.html#a8d76af4bfff910da40b4f93a1c465744", null ],
+    [ "flipcc", "d6/d77/a29926.html#aff3add09c98fece7ace91b0e7c90435e", null ]
 ];

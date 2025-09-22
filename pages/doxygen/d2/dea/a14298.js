@@ -1,19 +1,16 @@
 var a14298 =
 [
-    [ "boss_thekal", "d2/dea/a14298.html#a91e8fd9ba169d5096fd06471f8bd16e9", null ],
-    [ "CheckPhaseTransition", "d2/dea/a14298.html#a95aeb81565f5863eec67106ae1118ac4", null ],
-    [ "DamageTaken", "d2/dea/a14298.html#a98be9a4d815f6fdc01acbfaa916b721c", null ],
-    [ "DoAction", "d2/dea/a14298.html#aa3d81738fbb42d5575dd8e5b30d84563", null ],
-    [ "Initialize", "d2/dea/a14298.html#aec365f330eed69513e988f895ec780e7", null ],
-    [ "JustDied", "d2/dea/a14298.html#a79bc19df134cbeb17f0941865461bd0d", null ],
-    [ "JustEngagedWith", "d2/dea/a14298.html#af5e2b2b5665270f29243921e51280190", null ],
-    [ "Reset", "d2/dea/a14298.html#a684bf1fc087970a41cf79959ba57b31b", null ],
-    [ "ReviveZealot", "d2/dea/a14298.html#aab84b3390cf8cc95dc8a2067ed38b4ab", null ],
-    [ "SetData", "d2/dea/a14298.html#a586805c5f8d20a35055cf12a3c9f673f", null ],
-    [ "UpdateAI", "d2/dea/a14298.html#a4b5e7dae10900a197d047b6ea32c33ed", null ],
-    [ "UpdateZealotStatus", "d2/dea/a14298.html#ac69068240dfc1ecf30f37e36c3e51353", null ],
-    [ "_enraged", "d2/dea/a14298.html#aba5ac2c4cdac1d4a0e37e9d6cd3b1422", null ],
-    [ "_lorkhanDied", "d2/dea/a14298.html#a0f84ad2f224fe29fc4ddde3258200e10", null ],
-    [ "_wasDead", "d2/dea/a14298.html#aec4eea1f0d8ebffb1bbc2646e986f300", null ],
-    [ "_zathDied", "d2/dea/a14298.html#ae3df1561ee3dcb3887f6e646b6277b29", null ]
+    [ "boss_renatakiAI", "d2/dea/a14298.html#ac154bfadeb99d67f59e1682de257e8bf", null ],
+    [ "CanAIAttack", "d2/dea/a14298.html#af20dc14dc56500e568a3a11bfb34a227", null ],
+    [ "CanAlwaysBeDetectable", "d2/dea/a14298.html#af75108eacb982586f43a175beede78ef", null ],
+    [ "CanBeSeen", "d2/dea/a14298.html#ac79db0d4488702be0cd12b5e03a9bcb9", null ],
+    [ "CanSeeAlways", "d2/dea/a14298.html#a6e4a1e9bec67a1bdac4c9cef3da4b17d", null ],
+    [ "DamageTaken", "d2/dea/a14298.html#a62d97adb310b55a2235737b854dc4aca", null ],
+    [ "JustEngagedWith", "d2/dea/a14298.html#a72e9a85d2215d3da197d50b6aa0b769e", null ],
+    [ "Reset", "d2/dea/a14298.html#ad50d8e24fb4168186497c5cdb5b39a68", null ],
+    [ "UpdateAI", "d2/dea/a14298.html#a3a1abaef460d9abe1298080080d74c9d", null ],
+    [ "_dynamicFlags", "d2/dea/a14298.html#a502bfa737cf97ae909144278a3e39bd0", null ],
+    [ "_enraged", "d2/dea/a14298.html#a71e717a2ea732729762aff7970439f74", null ],
+    [ "_thousandBladesCount", "d2/dea/a14298.html#a29dd57c66245f30d12f32d31cc25cd55", null ],
+    [ "_thousandBladesTargets", "d2/dea/a14298.html#ab8b2b52a2ef8ea6586381234c9a3e3fc", null ]
 ];

@@ -1,10 +1,10 @@
 var a03815 =
 [
-    [ "MailSender", "db/df4/a09754.html", "db/df4/a09754" ],
-    [ "MailReceiver", "df/d21/a09758.html", "df/d21/a09758" ],
-    [ "MailDraft", "d4/d57/a09762.html", "d4/d57/a09762" ],
-    [ "MailItemInfo", "d7/d6a/a09766.html", "d7/d6a/a09766" ],
-    [ "Mail", "d3/df7/a09770.html", "d3/df7/a09770" ],
+    [ "MailSender", "df/d21/a09758.html", "df/d21/a09758" ],
+    [ "MailReceiver", "d4/d57/a09762.html", "d4/d57/a09762" ],
+    [ "MailDraft", "d7/d6a/a09766.html", "d7/d6a/a09766" ],
+    [ "MailItemInfo", "d3/df7/a09770.html", "d3/df7/a09770" ],
+    [ "Mail", "d2/d64/a09774.html", "d2/d64/a09774" ],
     [ "MAIL_BODY_ITEM_TEMPLATE", "d7/dab/a03815.html#a400524cb6bb97f3dfaa616a2afae05db", null ],
     [ "MAX_MAIL_ITEMS", "d7/dab/a03815.html#a92d79b5b2210d828abe28a8834a50770", null ],
     [ "MailItemInfoVec", "d7/dab/a03815.html#a5f97bcac5adeb0d52a6360c8aa0d0938", null ],

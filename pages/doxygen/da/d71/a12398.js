@@ -1,6 +1,6 @@
 var a12398 =
 [
-    [ "boss_firemawAI", "da/d71/a12398.html#ab3f56c97119676b1a75662e52caecb75", null ],
-    [ "JustEngagedWith", "da/d71/a12398.html#a04cb1d2fa18dba82b9c881b09406a076", null ],
-    [ "UpdateAI", "da/d71/a12398.html#a6e35e47b23d713263ef00769324bbbed", null ]
+    [ "boss_firemawAI", "d2/d5b/a12402.html", "d2/d5b/a12402" ],
+    [ "boss_firemaw", "da/d71/a12398.html#a71174eb128356802be0029fd9e24fe1f", null ],
+    [ "GetAI", "da/d71/a12398.html#a3a20bcefa86a21daaecaef14396dadc4", null ]
 ];

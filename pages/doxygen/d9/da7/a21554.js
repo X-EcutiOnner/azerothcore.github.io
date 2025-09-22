@@ -1,6 +1,6 @@
 var a21554 =
 [
-    [ "HandleEffectPeriodic", "d9/da7/a21554.html#a508ff9e362d586497839aa29ceae1227", null ],
-    [ "PrepareAuraScript", "d9/da7/a21554.html#a4e7d5317d28207136b1fd3477a51ae06", null ],
-    [ "Register", "d9/da7/a21554.html#a4b08cefe7d334635b70d389cc9df4901", null ]
+    [ "boss_moraggAI", "df/d6b/a21558.html", "df/d6b/a21558" ],
+    [ "boss_moragg", "d9/da7/a21554.html#aeb43f9cc4c41f049fd0a13e79cadfcd1", null ],
+    [ "GetAI", "d9/da7/a21554.html#a5ea2f210038b3e44bf2cb9c402e1b761", null ]
 ];

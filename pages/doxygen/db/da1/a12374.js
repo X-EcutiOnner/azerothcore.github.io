@@ -1,6 +1,6 @@
 var a12374 =
 [
-    [ "go_chromaggus_leverAI", "db/da1/a12374.html#a51406a7e313702282cebfbf067c9ce4e", null ],
-    [ "GossipHello", "db/da1/a12374.html#a44ece597fcfcf290234cc1ef073fbf18", null ],
-    [ "_instance", "db/da1/a12374.html#a364f66c7cf0a7bc4a3ea97b87ebe9f90", null ]
+    [ "go_chromaggus_leverAI", "dd/d40/a12378.html", "dd/d40/a12378" ],
+    [ "go_chromaggus_lever", "db/da1/a12374.html#a88f8078cd5aa1863ca20c9b02a0e52d2", null ],
+    [ "GetAI", "db/da1/a12374.html#ae307b36029147b8385b3c40878d1a3e4", null ]
 ];

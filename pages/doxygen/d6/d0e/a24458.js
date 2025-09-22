@@ -1,6 +1,6 @@
 var a24458 =
 [
-    [ "PrepareSpellScript", "d6/d0e/a24458.html#aa858fff409e5c75d865c91cb5fbef679", null ],
-    [ "Register", "d6/d0e/a24458.html#a0deddf7497d3bdb82901d612dce28dc9", null ],
-    [ "SetDest", "d6/d0e/a24458.html#a7b9a31e79d13af130566cda1fcb5dac1", null ]
+    [ "npc_shadowmoon_tuber_nodeAI", "dd/d35/a24462.html", "dd/d35/a24462" ],
+    [ "npc_shadowmoon_tuber_node", "d6/d0e/a24458.html#a98e8c7a84789457900fa342cca209d41", null ],
+    [ "GetAI", "d6/d0e/a24458.html#a5f641af77e2fd78fe67b34fa18bf6b73", null ]
 ];

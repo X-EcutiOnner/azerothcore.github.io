@@ -1,6 +1,6 @@
 var a21034 =
 [
-    [ "boss_yoggsaron_crusher_tentacleAI", "d0/df1/a21038.html", "d0/df1/a21038" ],
-    [ "boss_yoggsaron_crusher_tentacle", "d9/ddb/a21034.html#a9bb0c5535bf98e186d39f235f5786ff0", null ],
-    [ "GetAI", "d9/ddb/a21034.html#a82b6a328197ec81223c1d00dabb79a66", null ]
+    [ "boss_yoggsaron_death_orbAI", "d0/df1/a21038.html", "d0/df1/a21038" ],
+    [ "boss_yoggsaron_death_orb", "d9/ddb/a21034.html#a862d01f012cee832b41bc7c584816b93", null ],
+    [ "GetAI", "d9/ddb/a21034.html#a3169cd0e78642503f394a6cb74307871", null ]
 ];

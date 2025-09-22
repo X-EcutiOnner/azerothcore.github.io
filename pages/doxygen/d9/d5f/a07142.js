@@ -1,5 +1,6 @@
 var a07142 =
 [
-    [ "packet", "d9/d5f/a07142.html#ad266cc5bd8e3637534055a7564047f87", null ],
-    [ "playerGuid", "d9/d5f/a07142.html#a824393dda7676d4a5268d2d7d2e9d17b", null ]
+    [ "AuctionSearchBidderListRequest", "d9/d5f/a07142.html#a193c39468959c998a2ccae74342983d2", null ],
+    [ "outbiddedAuctionIds", "d9/d5f/a07142.html#a6caf25d532b87d38b043cf3aa214f9cd", null ],
+    [ "ownerGuid", "d9/d5f/a07142.html#a6fb69f4996993f264466c50e7485c4a6", null ]
 ];

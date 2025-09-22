@@ -1,7 +1,6 @@
 var a22286 =
 [
-    [ "GetSeatNumber", "d3/d19/a22286.html#a8e18a10196667fd3dfba58d16fa281b9", null ],
-    [ "HandleDummy", "d3/d19/a22286.html#ac5945381452559e1d5655f5345bdeff3", null ],
-    [ "PrepareSpellScript", "d3/d19/a22286.html#aad375c0d3d1f0352cbda6a23cfb61272", null ],
-    [ "Register", "d3/d19/a22286.html#aad1cb82fdcd170f5a43f5007ebaadf2e", null ]
+    [ "npc_boneguard_footmanAI", "d3/d19/a22286.html#a04eff1976824724b321f0c0d95e0940a", null ],
+    [ "UpdateAI", "d3/d19/a22286.html#a9cba65867824daeb50cb2b39d68ad84b", null ],
+    [ "checkTimer", "d3/d19/a22286.html#a46dd1fa8d111dca0584a8e6fb7a6a566", null ]
 ];

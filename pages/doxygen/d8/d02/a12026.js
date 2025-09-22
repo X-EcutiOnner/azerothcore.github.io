@@ -1,6 +1,11 @@
 var a12026 =
 [
-    [ "boss_ambassador_flamelashAI", "d5/d88/a12030.html", "d5/d88/a12030" ],
-    [ "boss_ambassador_flamelash", "d8/d02/a12026.html#a53d24a240e48033b0474970e8acac1f4", null ],
-    [ "GetAI", "d8/d02/a12026.html#a332e347d803a58989445ec57d75361ab", null ]
+    [ "npc_rocknotAI", "d8/d02/a12026.html#a4daa5104eabb6d38c22274b48a8514be", null ],
+    [ "DoGo", "d8/d02/a12026.html#a7591520e06782feddb98a86107fbcb27", null ],
+    [ "Reset", "d8/d02/a12026.html#a4d855a23c638e835de6f1c4644350166", null ],
+    [ "UpdateAI", "d8/d02/a12026.html#a1d3bce3248766393be5f84c5ca5030b1", null ],
+    [ "WaypointReached", "d8/d02/a12026.html#ae7d6f0b1e52767c61ad014accb1cec7a", null ],
+    [ "BreakDoor_Timer", "d8/d02/a12026.html#a3ae6edef4812fd3161c3b8ad5aa5cac2", null ],
+    [ "BreakKeg_Timer", "d8/d02/a12026.html#a6f380ad58cf55fe2ea9fc1f56118b454", null ],
+    [ "instance", "d8/d02/a12026.html#a4328c25f12f562cfdf41740e908cb3bd", null ]
 ];

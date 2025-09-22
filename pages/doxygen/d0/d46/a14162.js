@@ -1,5 +1,5 @@
 var a14162 =
 [
-    [ "at_zulgurub_bridge_speech", "d0/d46/a14162.html#a0ef9d44dc98ddee8fe5133862339808d", null ],
-    [ "_OnTrigger", "d0/d46/a14162.html#a67234a1f4c77888a8535d0ea52e16ba9", null ]
+    [ "at_zulgurub_entrance_speech", "d0/d46/a14162.html#afef11c6a7e97befd07072826fa13be55", null ],
+    [ "_OnTrigger", "d0/d46/a14162.html#a55cda55ed70c63f2a0b2ce39b2ffc0a5", null ]
 ];

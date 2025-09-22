@@ -1,12 +1,8 @@
 var a20842 =
 [
-    [ "boss_thorim_start_npcsAI", "df/d5c/a20842.html#a9602af25cbe9d4b3fe8534093c237a20", null ],
-    [ "DamageTaken", "df/d5c/a20842.html#a9a848662671380a726eb7288c6507f68", null ],
-    [ "JustDied", "df/d5c/a20842.html#a3c4b8928e1e0264e88eb49d930529c41", null ],
-    [ "JustEngagedWith", "df/d5c/a20842.html#ab6c0a8ae05a408cafb8ffe359d4d0d4e", null ],
-    [ "Reset", "df/d5c/a20842.html#aedf26a4b5baaf464d70316ce79ec32b3", null ],
-    [ "UpdateAI", "df/d5c/a20842.html#a5a84827d8d85e3a9b8e374da68d2c7ed", null ],
-    [ "_isCaster", "df/d5c/a20842.html#a6b2729ab9bce244da0a7d7fe6a4280f7", null ],
-    [ "_playerAttack", "df/d5c/a20842.html#adb868f1910859c79625cfb7f9a2b4101", null ],
-    [ "events", "df/d5c/a20842.html#a8dc5693814c49003727204623cef29b7", null ]
+    [ "boss_thorim_pillarAI", "df/d5c/a20842.html#ae00c9e72f14e3f2c94da118a1fe27130", null ],
+    [ "Reset", "df/d5c/a20842.html#ae9043ed9b72cc0eda6fb7c859355da57", null ],
+    [ "SpellHit", "df/d5c/a20842.html#a1cb3ef9fdfc9e375d15e14b9230dd51e", null ],
+    [ "UpdateAI", "df/d5c/a20842.html#afd8e05444eeea620a7ef21e97c345d41", null ],
+    [ "_resetTimer", "df/d5c/a20842.html#a6ef7c9e23280564aec1b82eb670bc4f9", null ]
 ];

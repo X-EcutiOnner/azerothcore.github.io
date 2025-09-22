@@ -1,6 +1,6 @@
 var a21546 =
 [
-    [ "boss_moraggAI", "de/d03/a21550.html", "de/d03/a21550" ],
-    [ "boss_moragg", "d9/dae/a21546.html#aeb43f9cc4c41f049fd0a13e79cadfcd1", null ],
-    [ "GetAI", "d9/dae/a21546.html#a5ea2f210038b3e44bf2cb9c402e1b761", null ]
+    [ "boss_lavanthorAI", "de/d03/a21550.html", "de/d03/a21550" ],
+    [ "boss_lavanthor", "d9/dae/a21546.html#aa935ffe07f59db59b9b8484f22927026", null ],
+    [ "GetAI", "d9/dae/a21546.html#aae09ecbe56efac6538bdfb6120e0be40", null ]
 ];

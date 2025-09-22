@@ -1,11 +1,11 @@
 var a02489 =
 [
-    [ "SpiritInfoStruct", "d0/df0/a14026.html", "d0/df0/a14026" ],
-    [ "TransformStruct", "d0/df8/a14030.html", "d0/df8/a14030" ],
-    [ "boss_zuljin", "d5/dee/a14034.html", "d5/dee/a14034" ],
-    [ "npc_zuljin_vortex", "df/dfe/a14038.html", "df/dfe/a14038" ],
-    [ "spell_claw_rage_aura", "db/dac/a14042.html", "db/dac/a14042" ],
-    [ "spell_zuljin_zap", "d0/d6c/a14046.html", "d0/d6c/a14046" ],
+    [ "SpiritInfoStruct", "d0/df8/a14030.html", "d0/df8/a14030" ],
+    [ "TransformStruct", "d5/dee/a14034.html", "d5/dee/a14034" ],
+    [ "boss_zuljin", "df/dfe/a14038.html", "df/dfe/a14038" ],
+    [ "npc_zuljin_vortex", "db/dac/a14042.html", "db/dac/a14042" ],
+    [ "spell_claw_rage_aura", "d0/d6c/a14046.html", "d0/d6c/a14046" ],
+    [ "spell_zuljin_zap", "d7/de1/a14050.html", "d7/de1/a14050" ],
     [ "CreatureEntries", "da/dbe/a02489.html#a8954ba92de87382cc5d2ff27d0ec3918", [
       [ "NPC_SPIRIT_BEAR", "da/dbe/a02489.html#a8954ba92de87382cc5d2ff27d0ec3918a8e01247ce5b414c3d524c17f3402be51", null ],
       [ "NPC_SPIRIT_EAGLE", "da/dbe/a02489.html#a8954ba92de87382cc5d2ff27d0ec3918aaba9b813f2d7aead25a6f8dde61b2cfc", null ],

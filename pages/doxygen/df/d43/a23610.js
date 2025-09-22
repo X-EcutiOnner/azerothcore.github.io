@@ -1,6 +1,5 @@
 var a23610 =
 [
-    [ "HandlePeriodic", "df/d43/a23610.html#af6c30bb292a69d5eaaaf75c8a76111ea", null ],
-    [ "PrepareAuraScript", "df/d43/a23610.html#a75515896f3d94d227963a3c5258e2d0d", null ],
-    [ "Register", "df/d43/a23610.html#aeacb1ffc287cc7128366ee0484c2994b", null ]
+    [ "at_underbog_ghazan", "df/d43/a23610.html#aa6c74496bb30bf04e66ac3cd06110811", null ],
+    [ "_OnTrigger", "df/d43/a23610.html#aff03fc0bbded7bf7fa68d0c736bfaff2", null ]
 ];

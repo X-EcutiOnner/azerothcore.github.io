@@ -1,11 +1,9 @@
 var a12866 =
 [
-    [ "npc_kilrek", "d2/dd3/a12866.html#a853aa53d3e03aebe07c939eaf1b1c9c2", null ],
-    [ "JustDied", "d2/dd3/a12866.html#a314ed9f73c6a9c991c7eb2690e0f7c1c", null ],
-    [ "JustEngagedWith", "d2/dd3/a12866.html#a3a60a3bdb5a2876e325a26964bab21ac", null ],
-    [ "Reset", "d2/dd3/a12866.html#ae0b375abe5ec909cfaff96c257da0325", null ],
-    [ "UpdateAI", "d2/dd3/a12866.html#acf402b43e91b1f488ef8b9e3ed5092c4", null ],
-    [ "_scheduler", "d2/dd3/a12866.html#a93663ee806385f617e81a03062dd94d6", null ],
-    [ "instance", "d2/dd3/a12866.html#a13b969fa86ef57f9508117a73252a36b", null ],
-    [ "TerestianGUID", "d2/dd3/a12866.html#a411476da379bf687cd007e25ba11280e", null ]
+    [ "go_blood_drenched_doorAI", "d2/dd3/a12866.html#af431fff2778278cbd3e27b3906201373", null ],
+    [ "GossipHello", "d2/dd3/a12866.html#aa3d9c4ee80d6fb42103a3f02abdd8d20", null ],
+    [ "UpdateAI", "d2/dd3/a12866.html#a644ac9ce05242714d1b87150852539f3", null ],
+    [ "events", "d2/dd3/a12866.html#a2c51ffa6a3992fe55c2e22cb783409c9", null ],
+    [ "mirkblood", "d2/dd3/a12866.html#a07e1b098c31efe45e2df4f85f71109e4", null ],
+    [ "opener", "d2/dd3/a12866.html#aa70272eb79e875ba7d7767a1bf82afe9", null ]
 ];

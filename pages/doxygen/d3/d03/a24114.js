@@ -1,7 +1,7 @@
 var a24114 =
 [
-    [ "HandleDamage", "d3/d03/a24114.html#add7e78111217d00bfa3dfa5b3eb490f9", null ],
-    [ "HandleTargets", "d3/d03/a24114.html#ac9e455d4ef5cc7b7ce424b70b4387c78", null ],
-    [ "PrepareSpellScript", "d3/d03/a24114.html#a46b62a09ea23cb102b0e5cf075c727d4", null ],
-    [ "Register", "d3/d03/a24114.html#a8873614ae22c908cb2cf49129fc53be2", null ]
+    [ "boss_gatewatcher_gyrokill", "d3/d03/a24114.html#a82335081dd79f7a0aa1dc0c26bd878fb", null ],
+    [ "JustDied", "d3/d03/a24114.html#a4bbfb59c2a687ebb3e88bde9784af38e", null ],
+    [ "JustEngagedWith", "d3/d03/a24114.html#a95d3ae80f87be9d972ecb056e0b85412", null ],
+    [ "KilledUnit", "d3/d03/a24114.html#a274355d0303d9bf5761758f175826bd1", null ]
 ];

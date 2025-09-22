@@ -1,12 +1,6 @@
 var a23122 =
 [
-    [ "boss_essence_of_angerAI", "db/d03/a23122.html#a25eed717395b4e1ca5504d2d473e2500", null ],
-    [ "DoAction", "db/d03/a23122.html#a81576aaf465dfc99d199aaf6a182df52", null ],
-    [ "JustDied", "db/d03/a23122.html#a997d75ad388e790f9863e1b15fa1c899", null ],
-    [ "JustEngagedWith", "db/d03/a23122.html#a16d2b13fcf3dfa513813669b44712c4c", null ],
-    [ "KilledUnit", "db/d03/a23122.html#a6a900f9a9dc5509c36e5bdaaaacc197d", null ],
-    [ "Reset", "db/d03/a23122.html#ade57a575bd84e8e095b1ab5a5c81d3f6", null ],
-    [ "UpdateAI", "db/d03/a23122.html#a67e9f5a361894aa227f2a74f9222740d", null ],
-    [ "_recentlySpoken", "db/d03/a23122.html#a056aa8fd704d832e83735cf2a1a22888", null ],
-    [ "targetGUID", "db/d03/a23122.html#adc3867a4446375f1217809299f3dd9bb", null ]
+    [ "boss_essence_of_desireAI", "d3/db8/a23126.html", "d3/db8/a23126" ],
+    [ "boss_essence_of_desire", "db/d03/a23122.html#a5006ce57dd19c2a80e961dedca8c503d", null ],
+    [ "GetAI", "db/d03/a23122.html#a14b66470c508fa24e214062aeec0aae6", null ]
 ];

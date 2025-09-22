@@ -1,6 +1,7 @@
 var a24546 =
 [
-    [ "npc_slim", "dd/d91/a24546.html#aa227fbe22126bed821939873973e6a20", null ],
-    [ "OnGossipHello", "dd/d91/a24546.html#a34dafb9f3a82c1d2f52a95436345dd0b", null ],
-    [ "OnGossipSelect", "dd/d91/a24546.html#a426963b7bf831a3b5a75dcf0629917a9", null ]
+    [ "npc_isla_starmaneAI", "dd/d72/a24550.html", "dd/d72/a24550" ],
+    [ "npc_isla_starmane", "dd/d91/a24546.html#af30b3658d8f19be0dc07cb35eeb04668", null ],
+    [ "GetAI", "dd/d91/a24546.html#a0ea2dbaab4115772f92849e06aa85575", null ],
+    [ "OnQuestAccept", "dd/d91/a24546.html#afeda3da3761e96e2901ea06c5a26fa3a", null ]
 ];

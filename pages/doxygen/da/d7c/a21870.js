@@ -1,5 +1,6 @@
 var a21870 =
 [
-    [ "npc_mei_francis_mountAI", "da/d7c/a21870.html#aa9886ead02754faebff8b21eeb85dee6", null ],
-    [ "CanBeSeen", "da/d7c/a21870.html#ad5e33495339a0315bc7b01351810157e", null ]
+    [ "npc_steam_powered_auctioneerAI", "d6/d47/a21874.html", "d6/d47/a21874" ],
+    [ "npc_steam_powered_auctioneer", "da/d7c/a21870.html#ae8c918c639ce0c3ddc14b8cf7f0ef855", null ],
+    [ "GetAI", "da/d7c/a21870.html#a39a2f0c187078c759bc4a391e0a81068", null ]
 ];

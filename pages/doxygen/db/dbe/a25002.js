@@ -1,6 +1,6 @@
 var a25002 =
 [
-    [ "HandleScript", "db/dbe/a25002.html#a7bf5f9d28a916704bd1ece8acc64fe59", null ],
-    [ "PrepareSpellScript", "db/dbe/a25002.html#ab9193654a0534dc82c4c93a3158f3f7a", null ],
-    [ "Register", "db/dbe/a25002.html#a0f0360e8b2db795046c3b76e6db0a97e", null ]
+    [ "HandleAfterCast", "db/dbe/a25002.html#a39572ebbeee6fe39bc4454088c622bcd", null ],
+    [ "PrepareSpellScript", "db/dbe/a25002.html#a602d7c920aa73a9c3c69222854093036", null ],
+    [ "Register", "db/dbe/a25002.html#addbbf508a0e1074c23ebd325dd62bbe9", null ]
 ];

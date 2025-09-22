@@ -1,7 +1,9 @@
 var a08846 =
 [
-    [ "Done", "da/d0a/a08846.html#abc88850d392fb4b62e778d09445de0be", null ],
-    [ "DoneWorldState", "da/d0a/a08846.html#a380755d90c958b6532bae7f8a4d70b44", null ],
-    [ "MaxWorldState", "da/d0a/a08846.html#a8c144531f876b6def613c0011e0efe47", null ],
-    [ "ReqNum", "da/d0a/a08846.html#ae1d182aef449388993e4965de447d971", null ]
+    [ "GameEventAIHookWorker", "da/d0a/a08846.html#ad72640a18d2d32a9201c965089ee49cf", null ],
+    [ "Visit", "da/d0a/a08846.html#a23d979ee43838e7d58e9123e36474a5a", null ],
+    [ "Visit", "da/d0a/a08846.html#a79106ec550d072d690bbf3496d76cb0a", null ],
+    [ "Visit", "da/d0a/a08846.html#a165476edd8b252bbb90b8b78fae963a6", null ],
+    [ "_activate", "da/d0a/a08846.html#a756665eafa08f3c8c51ccef69bdd619f", null ],
+    [ "_eventId", "da/d0a/a08846.html#ab1ee68bb7134e84780772eba2cfac766", null ]
 ];

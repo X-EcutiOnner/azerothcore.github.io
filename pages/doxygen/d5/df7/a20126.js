@@ -1,6 +1,6 @@
 var a20126 =
 [
-    [ "npc_storm_beacon_spawnAI", "de/d45/a20130.html", "de/d45/a20130" ],
-    [ "npc_storm_beacon_spawn", "d5/df7/a20126.html#a0316646f43fd0ed6fe4576bf691116a0", null ],
-    [ "GetAI", "d5/df7/a20126.html#a780dd823962e259dbeda7089224aa23e", null ]
+    [ "npc_brann_radioAI", "de/d45/a20130.html", "de/d45/a20130" ],
+    [ "npc_brann_radio", "d5/df7/a20126.html#a22b5231f643c287d8e32d88a3b0728b2", null ],
+    [ "GetAI", "d5/df7/a20126.html#aa2ea91337262fb886e7535ba013f4b10", null ]
 ];

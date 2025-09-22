@@ -1,6 +1,5 @@
 var a11026 =
 [
-    [ "NameQuery", "d9/d70/a11026.html#a7dc5a2dceb475303db4b4ab0c0a6d23c", null ],
-    [ "Read", "d9/d70/a11026.html#ae4a16ebe5372214d3aec65b056a9426e", null ],
-    [ "Guid", "d9/d70/a11026.html#a52528a68f1c86196e7428f196f93d12b", null ]
+    [ "RequestPetInfo", "d9/d70/a11026.html#ae0861d1fb77fe39bb48c26505e36ed2b", null ],
+    [ "Read", "d9/d70/a11026.html#a5cc9bb57bce7dc7f24243fdc63e17870", null ]
 ];

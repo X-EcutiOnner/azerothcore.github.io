@@ -1,6 +1,4 @@
 var a08510 =
 [
-    [ "active", "d1/d3b/a08510.html#a9460571d6fc219ab8c475aab34fc9494", null ],
-    [ "state", "d1/d3b/a08510.html#a0600418cb460fdaf8093bfa609e796c8", null ],
-    [ "type", "d1/d3b/a08510.html#a4c4a7d0f299ae4e2ceb146a741057032", null ]
+    [ "PetLoadQueryHolder", "d1/d3b/a08510.html#a8dee71a2e729d239b7b05bc172c09e3b", null ]
 ];

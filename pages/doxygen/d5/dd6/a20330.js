@@ -1,8 +1,6 @@
 var a20330 =
 [
-    [ "OnApply", "d5/dd6/a20330.html#a101aab87e9f45ebab1cbe77ecca65c5a", null ],
-    [ "OnRemove", "d5/dd6/a20330.html#a4709f570f9014eb36bc8c65269470373", null ],
-    [ "PrepareAuraScript", "d5/dd6/a20330.html#a6ac96ce73f9983915a05686eb5d411e7", null ],
-    [ "Register", "d5/dd6/a20330.html#a7b4f44d86df652df78a10466bf64a2cf", null ],
-    [ "Validate", "d5/dd6/a20330.html#a3b98409fa1ed8d4e53e526686bc25987", null ]
+    [ "npc_ulduar_saronite_animusAI", "d7/dd1/a20334.html", "d7/dd1/a20334" ],
+    [ "npc_ulduar_saronite_animus", "d5/dd6/a20330.html#a22d552adc9db3f7d2a533ab7f58a2470", null ],
+    [ "GetAI", "d5/dd6/a20330.html#a1fdd851e9d6e399f8f57d063a7dbd6d9", null ]
 ];

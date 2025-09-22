@@ -1,7 +1,6 @@
 var a16202 =
 [
-    [ "DelayedTalk", "df/dea/a16202.html#a8a7ea9e6ddebd73996cfe8d9723276bc", null ],
-    [ "Execute", "df/dea/a16202.html#a88c1915e73bcbd8ec253a537c416caf7", null ],
-    [ "_owner", "df/dea/a16202.html#a9d13769bb3fbaed32919fc919da35006", null ],
-    [ "_talkId", "df/dea/a16202.html#a3f3a1688a36807c653a5d071dd2bb389", null ]
+    [ "instance_obsidian_sanctum_InstanceMapScript", "db/d43/a16206.html", "db/d43/a16206" ],
+    [ "instance_obsidian_sanctum", "df/dea/a16202.html#a6cf2121c4167156f5748c144372b3c0b", null ],
+    [ "GetInstanceScript", "df/dea/a16202.html#a67acb36f65c1bc3d6eca59bf71a5c220", null ]
 ];

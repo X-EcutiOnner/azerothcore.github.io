@@ -1,6 +1,8 @@
 var a12066 =
 [
-    [ "boss_general_angerforgeAI", "d5/d30/a12070.html", "d5/d30/a12070" ],
-    [ "boss_general_angerforge", "dd/d80/a12066.html#a00c94097831dc52d31505f312a04f562", null ],
-    [ "GetAI", "dd/d80/a12066.html#ac3f3b26bf2c6745bb9ab23c7ff1484ae", null ]
+    [ "boss_evisceratorAI", "dd/d80/a12066.html#a26bfcd3390e987a9fe13dd1a2bc2a7a4", null ],
+    [ "DamageTaken", "dd/d80/a12066.html#aab3e8290963ca6c312715f18727d3e82", null ],
+    [ "JustEngagedWith", "dd/d80/a12066.html#a60f3942b352206888569f60776041a28", null ],
+    [ "UpdateAI", "dd/d80/a12066.html#aa201d35455f2e6eb41df27e264c2c03c", null ],
+    [ "SpellShieldReady", "dd/d80/a12066.html#a3e5d8a40bfca16cc811f35b1293c19aa", null ]
 ];

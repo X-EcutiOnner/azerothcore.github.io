@@ -1,6 +1,6 @@
 var a27166 =
 [
-    [ "CalculateAmount", "d9/d8a/a27166.html#a94b6fab25e8cb298650f2a1e2d0b4347", null ],
-    [ "PrepareAuraScript", "d9/d8a/a27166.html#a845476e27b3751fd5aab505d41d8696d", null ],
-    [ "Register", "d9/d8a/a27166.html#aa5141f11bcd97cc501297a5309df1079", null ]
+    [ "HandleHeal", "d9/d8a/a27166.html#a03afbdbdc8555fc2d558a5e48f7340a0", null ],
+    [ "PrepareSpellScript", "d9/d8a/a27166.html#a61a601108cd59e5d87634c02b002e20d", null ],
+    [ "Register", "d9/d8a/a27166.html#ae46c965fc77aa61aaa3c426c8ecc585c", null ]
 ];

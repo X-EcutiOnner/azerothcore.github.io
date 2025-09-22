@@ -1,10 +1,14 @@
 var a09790 =
 [
-    [ "DoublePosition", "de/db8/a09794.html", "de/db8/a09794" ],
-    [ "~AreaBoundary", "da/d2b/a09790.html#a6050e91b3d485e75186a2df9a56e8d38", null ],
-    [ "AreaBoundary", "da/d2b/a09790.html#adf670910c492c08d3384c2dd1824e7ce", null ],
-    [ "IsWithinBoundary", "da/d2b/a09790.html#aac0ce1e801f3de8f3bb83b98ecd6e5c1", null ],
-    [ "IsWithinBoundary", "da/d2b/a09790.html#a1d407f77ce0388263fc0ee6224734213", null ],
-    [ "IsWithinBoundaryArea", "da/d2b/a09790.html#ae5580b0044dba24d100831fe51ee1abc", null ],
-    [ "_isInvertedBoundary", "da/d2b/a09790.html#ad416f29594688ce670549d6fdcce4314", null ]
+    [ "ServerMailMgr", "da/d2b/a09790.html#aeec2235e9dd9b36b868634d850f02a5b", null ],
+    [ "~ServerMailMgr", "da/d2b/a09790.html#adba54af38e90ecae21e79835910ba195", null ],
+    [ "ConditionTypeUsesConditionState", "da/d2b/a09790.html#a2e7a8cdc7ebdb51204823fd30a0449b3", null ],
+    [ "GetAllServerMailStore", "da/d2b/a09790.html#acb4521f696c6f11c977dc9d8b76e0c16", null ],
+    [ "GetServerMailConditionType", "da/d2b/a09790.html#a57f8aea4b5bb15ff77b9ebd8e65e8092", null ],
+    [ "instance", "da/d2b/a09790.html#abc85cb07f717384fac09f4e2b0f59af1", null ],
+    [ "LoadMailServerTemplates", "da/d2b/a09790.html#a1a01dd7a8e5c45bc7c97203e4a04a768", null ],
+    [ "LoadMailServerTemplatesConditions", "da/d2b/a09790.html#a6bb75bdb34a25dd01fdc7e81b4e9b897", null ],
+    [ "LoadMailServerTemplatesItems", "da/d2b/a09790.html#a49aea924f27804d21fbe06e72e159df3", null ],
+    [ "SendServerMail", "da/d2b/a09790.html#af615430a40e9ddfff49bc338b31d6c1b", null ],
+    [ "_serverMailStore", "da/d2b/a09790.html#a96ae3a78694ca97d112c5d92884f2415", null ]
 ];

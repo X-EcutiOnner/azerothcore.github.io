@@ -1,6 +1,6 @@
 var a21574 =
 [
-    [ "npc_vh_void_sentryAI", "d9/dee/a21578.html", "d9/dee/a21578" ],
-    [ "npc_vh_void_sentry", "d0/d5f/a21574.html#a6d4995d112a3fe6b59c3c3c417d98c45", null ],
-    [ "GetAI", "d0/d5f/a21574.html#ab3bcb8f8e9084e2ab588f80929a5d5ce", null ]
+    [ "boss_zuramatAI", "d9/dee/a21578.html", "d9/dee/a21578" ],
+    [ "boss_zuramat", "d0/d5f/a21574.html#a1d169e786dcf846026b48d9be389f9ab", null ],
+    [ "GetAI", "d0/d5f/a21574.html#a1008c053a2c9ad14cf9ce994db931670", null ]
 ];

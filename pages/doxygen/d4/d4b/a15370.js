@@ -1,6 +1,14 @@
 var a15370 =
 [
-    [ "boss_veknilash", "d4/d4b/a15370.html#a73a4095c3dd0ffbd9d7ef5a8a837f13f", null ],
-    [ "IAmVeklor", "d4/d4b/a15370.html#a454027d829b962ee0feebb6fd5687714", null ],
-    [ "JustEngagedWith", "d4/d4b/a15370.html#ace8de3d9a397d0571da1f5bdd2ba84d5", null ]
+    [ "boss_twinemperorsAI", "d4/d4b/a15370.html#ae0857b191dbbf086533062aee5885237", null ],
+    [ "DamageTaken", "d4/d4b/a15370.html#a118151851f36de9dfc22971a965cb047", null ],
+    [ "DoAction", "d4/d4b/a15370.html#a2b5e585749b7a59663813c7a9d56c223", null ],
+    [ "EnterEvadeMode", "d4/d4b/a15370.html#ab5a1b28405c38ece65f5ee145e472de8", null ],
+    [ "GetTwin", "d4/d4b/a15370.html#af23aa54bca9752c242e80331862ace4d", null ],
+    [ "IAmVeklor", "d4/d4b/a15370.html#acdccdde2ee573f51e1783ea493577258", null ],
+    [ "JustDied", "d4/d4b/a15370.html#a9cc74619908c2aa9f8deda2689616735", null ],
+    [ "JustEngagedWith", "d4/d4b/a15370.html#ab9a279e9ba3bb057268602be7368ffe4", null ],
+    [ "KilledUnit", "d4/d4b/a15370.html#aaa52e01bfeff824345f7b9c7346e8aef", null ],
+    [ "UpdateAI", "d4/d4b/a15370.html#a4d9e07fd3f682a24332d0aabe6c55f8f", null ],
+    [ "_introDone", "d4/d4b/a15370.html#a1b4689b0c403f7246ae100e4f716b138", null ]
 ];

@@ -1,10 +1,11 @@
 var a19446 =
 [
-    [ "npc_scion_of_eternityAI", "d4/dd0/a19446.html#a2893db70b6a1ffa14d02dd5cea7f7c0a", null ],
-    [ "AttackStart", "d4/dd0/a19446.html#a1335f9e34ff73d5501455062be025ada", null ],
-    [ "JustDied", "d4/dd0/a19446.html#a81dcae5ef2bbd28b891e46c377fbe153", null ],
-    [ "MoveInLineOfSight", "d4/dd0/a19446.html#a74a69fa532f0921285ef678bbd2fa761", null ],
-    [ "UpdateAI", "d4/dd0/a19446.html#adb16afb6ea1583a7156b80a8d833951a", null ],
-    [ "events", "d4/dd0/a19446.html#ae0e194a24a14033a499e68524da1699d", null ],
-    [ "pInstance", "d4/dd0/a19446.html#aa828ca4a75696645d7aa350f1f981f40", null ]
+    [ "npc_nexus_lordAI", "d4/dd0/a19446.html#a8d26337fdcd055027a20ea91faf7e01b", null ],
+    [ "AttackStart", "d4/dd0/a19446.html#a2f56dcac815431c887b95e9c09aec361", null ],
+    [ "JustDied", "d4/dd0/a19446.html#a828007757a618affad71b955681945cf", null ],
+    [ "JustEngagedWith", "d4/dd0/a19446.html#acfcf227557b1e212eda385e22ccdb981", null ],
+    [ "UpdateAI", "d4/dd0/a19446.html#ad7ddb98d2daaed386e713e423de4cac9", null ],
+    [ "events", "d4/dd0/a19446.html#ad20a56e52b22306ca31406d8defa4aa5", null ],
+    [ "pInstance", "d4/dd0/a19446.html#a81fae70688bcd8c733ea90b06900503d", null ],
+    [ "timer", "d4/dd0/a19446.html#a8edb133f7ca01a4aa75345c572a505c7", null ]
 ];

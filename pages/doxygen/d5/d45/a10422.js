@@ -1,10 +1,10 @@
 var a10422 =
 [
-    [ "TicketScript", "d5/d45/a10422.html#aec2b310ba0b26aa84a245207256edb0e", null ],
-    [ "IsDatabaseBound", "d5/d45/a10422.html#afa21fa5aaf58c4ff964bcb3f81afbb32", null ],
-    [ "OnTicketClose", "d5/d45/a10422.html#add082bd9a2d3a068bbb8f3a97d130887", null ],
-    [ "OnTicketCreate", "d5/d45/a10422.html#a3436bbc78425bf5144c81f6309060b33", null ],
-    [ "OnTicketResolve", "d5/d45/a10422.html#abd4d9cdf0fd99c10d6d86c395adecb9a", null ],
-    [ "OnTicketStatusUpdate", "d5/d45/a10422.html#ae30b28cef4497cbed153c3e98e26d00d", null ],
-    [ "OnTicketUpdateLastChange", "d5/d45/a10422.html#a3535e5592bc5f9ceb6b642b80a4f46b7", null ]
+    [ "ArgsType", "d5/d45/a10422.html#a4ea4d3b165a196482ebe96af9c462658", null ],
+    [ "AuraScriptType", "d5/d45/a10422.html#a7b2a19d6c7c75c0df22eae17b0c8e90a", null ],
+    [ "SpellScriptType", "d5/d45/a10422.html#a790a8ef2b59bfe6298486648858506ed", null ],
+    [ "GenericSpellAndAuraScriptLoader", "d5/d45/a10422.html#ab1bd69d57c6e2322044b8f7cf46cedb6", null ],
+    [ "GetAuraScript", "d5/d45/a10422.html#a5f3c898a0dc6d9085589b88eb5571528", null ],
+    [ "GetSpellScript", "d5/d45/a10422.html#a913fa28d2a2cf100ce73cf641e333e01", null ],
+    [ "_args", "d5/d45/a10422.html#aad6527f64ede0d896880ffa90d05a378", null ]
 ];

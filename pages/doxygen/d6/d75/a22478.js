@@ -1,8 +1,12 @@
 var a22478 =
 [
-    [ "AfterRemove", "d6/d75/a22478.html#a06fd72c7754f34dbc62a99a9ed839302", null ],
-    [ "HandlePeriodic", "d6/d75/a22478.html#a5aaadeed42e6a3cf1e2216a13c2d3ff9", null ],
-    [ "OnApply", "d6/d75/a22478.html#a6617555d302923e5e95e7b1c6d8d74d6", null ],
-    [ "PrepareAuraScript", "d6/d75/a22478.html#a47a6281c42dc9368357cc86912331c77", null ],
-    [ "Register", "d6/d75/a22478.html#a868c79cda98b97b27b74d46f86cb980a", null ]
+    [ "npc_time_lost_proto_drakeAI", "d6/d75/a22478.html#ab98805519233eda932c6131aca059a8b", null ],
+    [ "JustEngagedWith", "d6/d75/a22478.html#a14f41b30451b8ac8fe2411ec7102ae81", null ],
+    [ "Reset", "d6/d75/a22478.html#a418ea9621040e3c717c4e24f73539f44", null ],
+    [ "RollPath", "d6/d75/a22478.html#aabb3dd1d54a1290d500429efc8fa9e41", null ],
+    [ "UpdateEscortAI", "d6/d75/a22478.html#a1a5442a5796b27d04eaa3ab62c613199", null ],
+    [ "WaypointReached", "d6/d75/a22478.html#ad262b9dbc0edd2bac126fafbb5eb5f01", null ],
+    [ "events", "d6/d75/a22478.html#aa2e4c3396d63d85a5d0abc8c74e58a79", null ],
+    [ "rollPath", "d6/d75/a22478.html#a5431fd5a0801569bc03507818461aa7d", null ],
+    [ "setVisible", "d6/d75/a22478.html#a63558b3406c241ecb27f3e485eeb439b", null ]
 ];

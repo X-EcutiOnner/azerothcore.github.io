@@ -1,5 +1,6 @@
 var a21190 =
 [
-    [ "achievement_yogg_saron_drive_me_crazy", "d0/d37/a21190.html#a381d8fd2e7b4806181959a1b915f3a8c", null ],
-    [ "OnCheck", "d0/d37/a21190.html#a029fdd68e0643b53971efbb1056f19d8", null ]
+    [ "HandleScript", "d0/d37/a21190.html#ac7fc87a7585c866aa3fa1001c803bb00", null ],
+    [ "PrepareSpellScript", "d0/d37/a21190.html#ab2a4155f6029850c61e84d7c180addae", null ],
+    [ "Register", "d0/d37/a21190.html#a7e03062d9e28ed1917b7aa63d65f22ba", null ]
 ];

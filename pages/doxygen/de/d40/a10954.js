@@ -1,4 +1,4 @@
 var a10954 =
 [
-    [ "IllegalHyperlinkException", "de/d40/a10954.html#a4bcd96d907fb882d147b0e29495f5c1d", null ]
+    [ "InvalidHyperlinkException", "de/d40/a10954.html#a4e30376bb16ea56434e65761a2f4a55d", null ]
 ];

@@ -1,6 +1,6 @@
 var a18426 =
 [
-    [ "npc_shambling_horror_iccAI", "d4/dcf/a18430.html", "d4/dcf/a18430" ],
-    [ "npc_shambling_horror_icc", "de/d9a/a18426.html#a68219e0c6e79f5e7bed1f353d7bb5bcb", null ],
-    [ "GetAI", "de/d9a/a18426.html#a96fd525fcb34e793b1fc3fc5179e92ec", null ]
+    [ "HandleScript", "de/d9a/a18426.html#a6f9b2c00cdc050ff25ec37f5b7610c71", null ],
+    [ "PrepareSpellScript", "de/d9a/a18426.html#a5405e4547ec6cbc05acceb72d1b16530", null ],
+    [ "Register", "de/d9a/a18426.html#a172490b953b958df354394e947b7cfd0", null ]
 ];

@@ -1,6 +1,7 @@
 var a24118 =
 [
-    [ "HandleAfterRemove", "de/d7c/a24118.html#ac9756a8f206c114ff6443331ca266184", null ],
-    [ "PrepareAuraScript", "de/d7c/a24118.html#a2f67291e6e4291c9d01cdbcbe04a7db7", null ],
-    [ "Register", "de/d7c/a24118.html#ac36d76ad8a5ecb2e437dcb8f1248386d", null ]
+    [ "boss_gatewatcher_iron_hand", "de/d7c/a24118.html#aef70e713007af38b510f0a3b8c082b24", null ],
+    [ "JustDied", "de/d7c/a24118.html#a36b10cd02b35b6e106687b08bc80bfa6", null ],
+    [ "JustEngagedWith", "de/d7c/a24118.html#aa6a9f456d158e4c0332816c7e65ec155", null ],
+    [ "KilledUnit", "de/d7c/a24118.html#a1973142412b4094dbd9fa51600741148", null ]
 ];

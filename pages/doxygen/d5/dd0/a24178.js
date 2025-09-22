@@ -1,6 +1,7 @@
 var a24178 =
 [
-    [ "npc_daranelleAI", "d6/d4b/a24182.html", "d6/d4b/a24182" ],
-    [ "npc_daranelle", "d5/dd0/a24178.html#a0a6e26b95d6d97821bc9e0c00b205704", null ],
-    [ "GetAI", "d5/dd0/a24178.html#ad2ba5e4dfded886acaf2f9821e15738d", null ]
+    [ "OnPeriodic", "d5/dd0/a24178.html#a7ef787ac13b97aa225a5340f7bfcc4e3", null ],
+    [ "PrepareAuraScript", "d5/dd0/a24178.html#a6f7db06cc1ace68ee0076077773b1659", null ],
+    [ "Register", "d5/dd0/a24178.html#a559347bedad9fd8a0e6f4c5b14333c06", null ],
+    [ "Validate", "d5/dd0/a24178.html#aae1c2d5b8eb30341a67e261e69a4d294", null ]
 ];

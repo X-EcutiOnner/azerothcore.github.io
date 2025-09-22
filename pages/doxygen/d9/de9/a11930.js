@@ -1,15 +1,9 @@
 var a11930 =
 [
-    [ "worldstate_commandscript", "d9/de9/a11930.html#aa409f7a2baed14a591d9567d1fb1ffcf", null ],
-    [ "GetCommands", "d9/de9/a11930.html#a9c2b9e6f00727da760ca2be2c0c1aff7", null ],
-    [ "HandleScourgeInvasionBattlesWonCommand", "d9/de9/a11930.html#a1c2167ce554327d674161b7c4f63585c", null ],
-    [ "HandleScourgeInvasionCommand", "d9/de9/a11930.html#a11aeedef82a93f8799fd788a8c492335", null ],
-    [ "HandleScourgeInvasionStartZone", "d9/de9/a11930.html#af242372bd32ed79d839af82f82423837", null ],
-    [ "HandleScourgeInvasionStateCommand", "d9/de9/a11930.html#a5ba0b973087f921dbb764037c8b36134", null ],
-    [ "HandleSunsReachReclamationCounterCommand", "d9/de9/a11930.html#a78ccd5fd1fe4562d93f69199112044d2", null ],
-    [ "HandleSunsReachReclamationPhaseCommand", "d9/de9/a11930.html#a4b7049c1c9932b098441a3af4d7cd03c", null ],
-    [ "HandleSunsReachReclamationStatusCommand", "d9/de9/a11930.html#a1534e35532bc29b8d03594af30e4cdfa", null ],
-    [ "HandleSunsReachReclamationSubPhaseCommand", "d9/de9/a11930.html#a2307687ae1d3cb3f6e5237af4d8f8595", null ],
-    [ "HandleSunwellGateCommand", "d9/de9/a11930.html#a45b73e47c8e9b21063d02922a83e103b", null ],
-    [ "HandleSunwellGateCounterCommand", "d9/de9/a11930.html#a805ab7fa1900feeb3e3034263c3a0a4d", null ]
+    [ "titles_commandscript", "d9/de9/a11930.html#ac088fd907013150a0508b79c99f6c2f3", null ],
+    [ "GetCommands", "d9/de9/a11930.html#af7d00111b3190f8bc9c46cedda3621d6", null ],
+    [ "HandleTitlesAddCommand", "d9/de9/a11930.html#a2a44d6f83bc5617a25a53b18fbd35e32", null ],
+    [ "HandleTitlesCurrentCommand", "d9/de9/a11930.html#a9a9b503e9ee65aa0d92cc7ff2e38a09d", null ],
+    [ "HandleTitlesRemoveCommand", "d9/de9/a11930.html#a2001bcc2eddc5688d57154f9906218e4", null ],
+    [ "HandleTitlesSetMaskCommand", "d9/de9/a11930.html#a9517b10295b856779cdd067234f640c8", null ]
 ];

@@ -1,7 +1,7 @@
 var a01946 =
 [
-    [ "boss_eck", "df/ded/a17374.html", "df/ded/a17374" ],
-    [ "boss_eck::boss_eckAI", "d3/d42/a17378.html", "d3/d42/a17378" ],
+    [ "boss_eck", "d8/df3/a17382.html", "d8/df3/a17382" ],
+    [ "boss_eck::boss_eckAI", "de/da3/a17386.html", "de/da3/a17386" ],
     [ "Misc", "d0/dce/a01946.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "DATA_SKILLPOINT_MIN", "d4/d70/a02579.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3093ddfcacf2742f4fb344843e2e7ce6", null ],
       [ "NEFARIUS_PATH_2", "d7/da8/a02522.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],

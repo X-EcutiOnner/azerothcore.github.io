@@ -1,6 +1,6 @@
 var a16634 =
 [
-    [ "npc_toc_boomkinAI", "db/d2b/a16638.html", "db/d2b/a16638" ],
-    [ "npc_toc_boomkin", "d3/d8c/a16634.html#a17274ff748cd364592a551ad2c547eac", null ],
-    [ "GetAI", "d3/d8c/a16634.html#a626fe854faade9bd96cd60b9e6e970bd", null ]
+    [ "npc_toc_hunterAI", "db/d2b/a16638.html", "db/d2b/a16638" ],
+    [ "npc_toc_hunter", "d3/d8c/a16634.html#a73d4113df71626af7b8294e08373965e", null ],
+    [ "GetAI", "d3/d8c/a16634.html#a8b9d2a8186aefb3e411bd20c006207d4", null ]
 ];

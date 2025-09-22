@@ -1,23 +1,13 @@
 var a11798 =
 [
-    [ "go_commandscript", "d4/dfc/a11798.html#a03cfe4efbd8ed05680308c08b40c8f1b", null ],
-    [ "DoTeleport", "d4/dfc/a11798.html#a7c89031f2df751d1699627c901abd80a", null ],
-    [ "GetCommands", "d4/dfc/a11798.html#a672e84a91c30f7378adce918608a6a94", null ],
-    [ "GetCreatureData", "d4/dfc/a11798.html#a4ddbfdfa0f8bc74b956dd881c55065c0", null ],
-    [ "GetCreatureDataList", "d4/dfc/a11798.html#adbcec5db26748dbb65d0c84d08f2a9b8", null ],
-    [ "GetGameObjectData", "d4/dfc/a11798.html#a4cc325ee1ecbb3dc9997d522fa15ebaa", null ],
-    [ "GetGameObjectDataList", "d4/dfc/a11798.html#af6a6b312a78435ee01a923f91ad9752a", null ],
-    [ "HandleGoCreatureCIdCommand", "d4/dfc/a11798.html#aa02ff2eb7b64dd5f35cf7c7227482234", null ],
-    [ "HandleGoCreatureNameCommand", "d4/dfc/a11798.html#a8ba4cf43263d267e29efa76d6b92149d", null ],
-    [ "HandleGoCreatureSpawnIdCommand", "d4/dfc/a11798.html#ab7fbdfbfdd9b1f94966044f4873e18a7", null ],
-    [ "HandleGoGameObjectGOIdCommand", "d4/dfc/a11798.html#a178f15f26efaafc534e59a25de44ae6e", null ],
-    [ "HandleGoGameObjectSpawnIdCommand", "d4/dfc/a11798.html#ae8ee37da2d5a4cbf5e6ee64a635b804b", null ],
-    [ "HandleGoGraveyardCommand", "d4/dfc/a11798.html#a4138d8299e150a55ae38613cac8e4c8b", null ],
-    [ "HandleGoGridCommand", "d4/dfc/a11798.html#a88a8a00453f822322720476dfe91e866", null ],
-    [ "HandleGoQuestCommand", "d4/dfc/a11798.html#a4d48d4a889033f7eac9a8473fb6cf3aa", null ],
-    [ "HandleGoTaxinodeCommand", "d4/dfc/a11798.html#a7ac0084020d81c574193668aad6e3d95", null ],
-    [ "HandleGoTicketCommand", "d4/dfc/a11798.html#ab74a387cae5095d9ea26bf70158d6a14", null ],
-    [ "HandleGoTriggerCommand", "d4/dfc/a11798.html#a98149f3632dbbce523926229ebd9c15a", null ],
-    [ "HandleGoXYZCommand", "d4/dfc/a11798.html#a9aee7c1cbfe76d988ad28cd64840222b", null ],
-    [ "HandleGoZoneXYCommand", "d4/dfc/a11798.html#ae01287fc270a629b5b81117e71ac4ee8", null ]
+    [ "gm_commandscript", "d4/dfc/a11798.html#a1b24112b70818778755ef9b5b062b2e8", null ],
+    [ "GetCommands", "d4/dfc/a11798.html#a17c725e18324de7aadff260c77d75c45", null ],
+    [ "HandleGMChatCommand", "d4/dfc/a11798.html#a15a18b1179a602da3eeba7e8247fbbac", null ],
+    [ "HandleGMFlyCommand", "d4/dfc/a11798.html#a29829660f39c9bfa4190bbb118f482ba", null ],
+    [ "HandleGMListFullCommand", "d4/dfc/a11798.html#add9bd1e64f98964e68cd1be3df6295e7", null ],
+    [ "HandleGMListIngameCommand", "d4/dfc/a11798.html#ab6d59a1c29bd66b699ae597351b969d9", null ],
+    [ "HandleGMOffCommand", "d4/dfc/a11798.html#a66de9b1d6abaad56419a43d65861b5b3", null ],
+    [ "HandleGMOnCommand", "d4/dfc/a11798.html#afb0f18226aac1f581d09f3b7fe9d0ce7", null ],
+    [ "HandleGMSpectatorCommand", "d4/dfc/a11798.html#ab05933bfefd1f5727bef430eeac2cee9", null ],
+    [ "HandleGMVisibleCommand", "d4/dfc/a11798.html#a7af08caf6d3fba1b6ee29ea90b20fef8", null ]
 ];

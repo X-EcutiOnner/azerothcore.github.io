@@ -1,5 +1,7 @@
 var a26886 =
 [
-    [ "EarthenPowerTargetSelector", "df/d2d/a26886.html#a61290afcc621c73682160a4e6a6e0f5d", null ],
-    [ "operator()", "df/d2d/a26886.html#a9f3d7e7bdb3a3affa72da57903f28940", null ]
+    [ "HandleDummy", "df/d2d/a26886.html#a96c5064738653ce16f06634196218a88", null ],
+    [ "PrepareSpellScript", "df/d2d/a26886.html#a2fa51a29d2c8ce74c8a4351712ccdeb9", null ],
+    [ "Register", "df/d2d/a26886.html#a080969e035143ac8527443025dbacef2", null ],
+    [ "Validate", "df/d2d/a26886.html#a66fd30d7cffdc7307b4c9dc821ccdf92", null ]
 ];

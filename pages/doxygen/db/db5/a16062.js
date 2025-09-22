@@ -1,6 +1,6 @@
 var a16062 =
 [
-    [ "boss_anub_arakAI", "da/d7e/a16066.html", "da/d7e/a16066" ],
-    [ "boss_anub_arak", "db/db5/a16062.html#ac2594f561b07069a312ed38c01d9c7da", null ],
-    [ "GetAI", "db/db5/a16062.html#a8687594354d514b99e026797ee71c70d", null ]
+    [ "HandlePeriodic", "db/db5/a16062.html#ad22b433005b2678bde3516a01eaaaa60", null ],
+    [ "PrepareAuraScript", "db/db5/a16062.html#a3711004edaef7242d9cae1f23f9b7467", null ],
+    [ "Register", "db/db5/a16062.html#ad570e51a3d2dd5d3cc4b91aebeefd9ef", null ]
 ];

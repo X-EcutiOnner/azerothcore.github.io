@@ -1,6 +1,6 @@
 var a27874 =
 [
-    [ "npc_venomhide_hatchlingAI", "d9/d8a/a27874.html#aa5929973ae39166ef381a3ed3c42a29c", null ],
-    [ "IsSummonedBy", "d9/d8a/a27874.html#a6e1b76f43217f1eb855b50d58a069518", null ],
-    [ "SpellHit", "d9/d8a/a27874.html#ac6c255438dc2f6c750ee47b61fbc20a3", null ]
+    [ "npc_stable_masterAI", "d6/df2/a27878.html", "d6/df2/a27878" ],
+    [ "npc_stable_master", "d9/d8a/a27874.html#ad327340f47e10bec7f077192227b0899", null ],
+    [ "GetAI", "d9/d8a/a27874.html#a7e34e18d2dad465eb88b0388fa830490", null ]
 ];

@@ -1,5 +1,6 @@
 var a23562 =
 [
-    [ "at_quagmirran_lair", "d5/d49/a23562.html#a1f8cb1f59e7a179d9e4a987f716ab26f", null ],
-    [ "OnTrigger", "d5/d49/a23562.html#aa0aab42516efaf842923b8a820942ac4", null ]
+    [ "boss_rokmar_the_crackler", "d5/d49/a23562.html#a0aca6a30d045bbea6f434979f4f1d2e9", null ],
+    [ "JustEngagedWith", "d5/d49/a23562.html#ae376e6a96fa07136790f3ed04ee1023b", null ],
+    [ "Reset", "d5/d49/a23562.html#aed9cf4a866d5e70647125a08885fb809", null ]
 ];

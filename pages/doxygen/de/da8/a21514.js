@@ -1,6 +1,6 @@
 var a21514 =
 [
-    [ "npc_erekem_guardAI", "d9/dbb/a21518.html", "d9/dbb/a21518" ],
-    [ "npc_erekem_guard", "de/da8/a21514.html#a78592996e90f77f81eec0325a7f11956", null ],
-    [ "GetAI", "de/da8/a21514.html#a844a6a29eda4f41547ea37a4c08fb723", null ]
+    [ "boss_erekemAI", "d9/dbb/a21518.html", "d9/dbb/a21518" ],
+    [ "boss_erekem", "de/da8/a21514.html#ab618380bd8f8c199ca85f1fe8a67db4d", null ],
+    [ "GetAI", "de/da8/a21514.html#aa472a21bf4a855ba75bc7de05cce494c", null ]
 ];

@@ -1,6 +1,6 @@
 var a25158 =
 [
-    [ "HandleOnEffectHit", "df/dcb/a25158.html#a07b15e180ee79149cad15b32b3c94359", null ],
-    [ "PrepareSpellScript", "df/dcb/a25158.html#afbea54d2dad7a969d7e7558d43ecbc95", null ],
-    [ "Register", "df/dcb/a25158.html#ad2426cf9076d3fe4f33984ab28df11f6", null ]
+    [ "HandleDummy", "df/dcb/a25158.html#a80ab847f2528060b2e3e2e128cfc06af", null ],
+    [ "PrepareSpellScript", "df/dcb/a25158.html#af310c2b28ed816b9fbe494f81c42043c", null ],
+    [ "Register", "df/dcb/a25158.html#ae5e494ca801b35520bddb4a8a148efcd", null ]
 ];

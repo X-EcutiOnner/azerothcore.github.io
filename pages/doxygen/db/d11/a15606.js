@@ -1,7 +1,27 @@
 var a15606 =
 [
-    [ "npc_aged_dying_ancient_kodoAI", "dc/d91/a15610.html", "dc/d91/a15610" ],
-    [ "npc_aged_dying_ancient_kodo", "db/d11/a15606.html#a676170a319d3a8e46c9d017e61396c28", null ],
-    [ "GetAI", "db/d11/a15606.html#a886bc82764e4ca6d98dc94ea73415375", null ],
-    [ "OnGossipHello", "db/d11/a15606.html#a8489b3f23d8eca39f2750711512672e4", null ]
+    [ "npc_cork_gizeltonAI", "db/d11/a15606.html#a3f5f08b4ac364fddf14e8405cdc27b68", null ],
+    [ "CheckCaravan", "db/d11/a15606.html#aa0d89f971b6e210d8550e89839e28f44", null ],
+    [ "CheckPlayer", "db/d11/a15606.html#acd3edee41c80992ee97130eac6912c18", null ],
+    [ "EnterEvadeMode", "db/d11/a15606.html#ab639db8fe4637a2068d94bb5e99d88ea", null ],
+    [ "ImmuneFlagSet", "db/d11/a15606.html#aee85ef406a6bc0644ec2e35a4a7f22d5", null ],
+    [ "Initialize", "db/d11/a15606.html#a91131055a31dc828ccb2e3ba087d5062", null ],
+    [ "InitializeAI", "db/d11/a15606.html#a4c39fd26b4ab6bd861988c19ab3ead37", null ],
+    [ "JustDied", "db/d11/a15606.html#ab34fe1b0bac1a694c6e76d3cebf67172", null ],
+    [ "JustRespawned", "db/d11/a15606.html#a6b860a2b93654f92fb821b8907a3cc91", null ],
+    [ "RelocateSummons", "db/d11/a15606.html#a22d63ca89f2ebce396eb0a5a6cb69d13", null ],
+    [ "RemoveSummons", "db/d11/a15606.html#a53c900f7bfa720bfdfc22531ac916c5b", null ],
+    [ "SetData", "db/d11/a15606.html#a26576302fc0f6897d604030431651908", null ],
+    [ "SetGUID", "db/d11/a15606.html#ada67b8aa3de368daa6e143924cce6a9e", null ],
+    [ "SummonedCreatureDespawn", "db/d11/a15606.html#a4dabd8ae79a6b956264dea7ba2359e7d", null ],
+    [ "SummonedCreatureDies", "db/d11/a15606.html#a85cd2486bad6cda8867eba29538842e9", null ],
+    [ "SummonHelpers", "db/d11/a15606.html#a38986eddc806f76fdefa99de1cd46fb5", null ],
+    [ "SummonsFollow", "db/d11/a15606.html#a81a72db27d196b2fb6696b6466d26449", null ],
+    [ "UpdateEscortAI", "db/d11/a15606.html#a2c3704eaa58cc11e86a9e1eb60e3e543", null ],
+    [ "WaypointReached", "db/d11/a15606.html#ab9d7763f86dcbaa3bf6e2c12c5d872e7", null ],
+    [ "_faction", "db/d11/a15606.html#a4ff6b0e39f7cbf8ba5f4c79159a03e45", null ],
+    [ "_playerGUID", "db/d11/a15606.html#a94277075d53a9d9115894e3bf378d106", null ],
+    [ "events", "db/d11/a15606.html#a251f091e5b314341c8e5131bf38188f0", null ],
+    [ "headNorth", "db/d11/a15606.html#aace73f2e878ebaf30634431f9f1068ab", null ],
+    [ "summons", "db/d11/a15606.html#a9af9323b3bf6df4a85445d9859609c78", null ]
 ];

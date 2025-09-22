@@ -1,6 +1,6 @@
 var a21830 =
 [
-    [ "npc_leryssaAI", "db/dce/a21834.html", "db/dce/a21834" ],
-    [ "npc_leryssa", "db/ded/a21830.html#a549bed4476f88c313e6b42c0fe1fffb8", null ],
-    [ "GetAI", "db/ded/a21830.html#a4725831580b206d91dbd8c21a703893f", null ]
+    [ "npc_thassarian2AI", "db/dce/a21834.html", "db/dce/a21834" ],
+    [ "npc_thassarian2", "db/ded/a21830.html#a8a2f1e1595349e4fa9968e85f17d0468", null ],
+    [ "GetAI", "db/ded/a21830.html#adb87c99f3375f88eca55b39e1cd0bbd5", null ]
 ];

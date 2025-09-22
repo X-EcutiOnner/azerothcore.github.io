@@ -1,5 +1,7 @@
 var a27954 =
 [
-    [ "ServerMailReward", "d3/dad/a27954.html#aba48b4c171e8e8a40fca2d3bed6b7f63", null ],
-    [ "OnPlayerLogin", "d3/dad/a27954.html#ada945e805278d54746b6fabaf48b4546", null ]
+    [ "HandleDummy", "d3/dad/a27954.html#ad57b334c7d985a3bda1cb19b81a77ee1", null ],
+    [ "PrepareSpellScript", "d3/dad/a27954.html#a550d6e90705745bdb5c4ee02ed1fce4b", null ],
+    [ "Register", "d3/dad/a27954.html#a3fda4d652c1264b3cfababdd98297c61", null ],
+    [ "Validate", "d3/dad/a27954.html#a2f12e71b9793be8e81011b0cd7583a39", null ]
 ];

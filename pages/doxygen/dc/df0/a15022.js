@@ -1,9 +1,9 @@
 var a15022 =
 [
-    [ "boss_temporus", "dc/df0/a15022.html#ab9f1495b18fe2c0ee33e9c238483ce0d", null ],
-    [ "JustDied", "dc/df0/a15022.html#a9186e51d240aff2ffaab99e3b423ded9", null ],
-    [ "JustEngagedWith", "dc/df0/a15022.html#abe7f18497c1c8b31693980e98b1d1859", null ],
-    [ "KilledUnit", "dc/df0/a15022.html#a89c2a229b56b3a7dcb9e5a495ac6dbd7", null ],
-    [ "MoveInLineOfSight", "dc/df0/a15022.html#a18a0279036324498a9daf8c7d0296ffc", null ],
-    [ "OwnTalk", "dc/df0/a15022.html#a99356589a048debbc308b8431259da5c", null ]
+    [ "boss_chrono_lord_deja", "dc/df0/a15022.html#a85f82d4bde99b7e1d05fba82177916e6", null ],
+    [ "JustDied", "dc/df0/a15022.html#a68eb4941364f9fac121aa3d610d45f48", null ],
+    [ "JustEngagedWith", "dc/df0/a15022.html#ab5324b2993f2fd1ec3290eb962ef6065", null ],
+    [ "KilledUnit", "dc/df0/a15022.html#a02c279fb1cfccd38dc60ba7c610cf859", null ],
+    [ "MoveInLineOfSight", "dc/df0/a15022.html#a535c0c157c60804188ad8c4413c277dd", null ],
+    [ "OwnTalk", "dc/df0/a15022.html#acdef53bd447c30d87bd15af3bf4200bc", null ]
 ];

@@ -1,6 +1,5 @@
 var a27314 =
 [
-    [ "AreaTrigger_at_area_52_entrance", "d1/d39/a27314.html#a5b7e21903bca1c04bad1394c6965d032", null ],
-    [ "OnTrigger", "d1/d39/a27314.html#a1e537d133ee5e6ad1dbb0c732e23a128", null ],
-    [ "_triggerTimes", "d1/d39/a27314.html#a6c3225f46ea71d06b81b25d5fb6e8f25", null ]
+    [ "AreaTrigger_at_nats_landing", "d1/d39/a27314.html#ac366e5b1db489b4f8bb8a1d07caa83c2", null ],
+    [ "OnTrigger", "d1/d39/a27314.html#a67434f74300fa3463e679afb7d344467", null ]
 ];

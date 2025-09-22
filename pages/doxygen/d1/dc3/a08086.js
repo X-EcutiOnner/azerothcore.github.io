@@ -1,10 +1,8 @@
 var a08086 =
 [
-    [ "auras", "d1/dc3/a08086.html#a20695ff7997e1ebd6fe898a8b41aeddb", null ],
-    [ "bytes1", "d1/dc3/a08086.html#ae337bd59e1e1eb7f4c9cdee4e8c6a7b9", null ],
-    [ "bytes2", "d1/dc3/a08086.html#aedf06568867bbb5db5ca8017727dab9d", null ],
-    [ "emote", "d1/dc3/a08086.html#a82f7be10807af7b25dd41c643be066fc", null ],
-    [ "mount", "d1/dc3/a08086.html#a4d84276a45de1b62e507ac5c763dce3a", null ],
-    [ "path_id", "d1/dc3/a08086.html#aa86bac734e0e652b6bb4ea273cf62571", null ],
-    [ "visibilityDistanceType", "d1/dc3/a08086.html#ad3ae39b8c5be151e15ab6f1494943bc3", null ]
+    [ "bounding_radius", "d1/dc3/a08086.html#a9f4a794b06bcbe31fc0a104cc97b91a4", null ],
+    [ "combat_reach", "d1/dc3/a08086.html#ac271edb10093db19e4df1396053f820d", null ],
+    [ "gender", "d1/dc3/a08086.html#aa5c8134851ff4f7ab6ad2af3b6e1dc1e", null ],
+    [ "is_trigger", "d1/dc3/a08086.html#a52dbfa82e1525df681b87ab07ba8ead0", null ],
+    [ "modelid_other_gender", "d1/dc3/a08086.html#a222b3c513a64b385954ea549e67f4255", null ]
 ];

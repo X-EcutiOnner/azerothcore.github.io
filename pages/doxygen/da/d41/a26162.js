@@ -1,6 +1,7 @@
 var a26162 =
 [
-    [ "OnRemove", "da/d41/a26162.html#a3803e6bbdb17e9a848376481581c993d", null ],
-    [ "PrepareAuraScript", "da/d41/a26162.html#a6f1340b824af4604e310666e89d05b7a", null ],
-    [ "Register", "da/d41/a26162.html#a3b361a478f1c035b706ac2e17499fb37", null ]
+    [ "CheckCast", "da/d41/a26162.html#a02134ecbc1b1e0c8b6047ec13ef7e701", null ],
+    [ "HandleEffect", "da/d41/a26162.html#a9f1be51fb58cde38cd643c6d1a5a6c15", null ],
+    [ "PrepareSpellScript", "da/d41/a26162.html#aa63cb903e7c6037a6c08381334ccc126", null ],
+    [ "Register", "da/d41/a26162.html#a670a8dbdadd988fe3220cc01b71114aa", null ]
 ];

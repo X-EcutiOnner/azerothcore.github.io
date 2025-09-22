@@ -1,7 +1,6 @@
 var a16726 =
 [
-    [ "HandleEffectPeriodic", "d2/dea/a16726.html#ae5749a43f37f0eb3f049d8804845f61e", null ],
-    [ "PrepareAuraScript", "d2/dea/a16726.html#a66dcb98f38ed6b040928543015f59c9b", null ],
-    [ "Register", "d2/dea/a16726.html#abbebe9c5ad44db61e80ce3707e744ab6", null ],
-    [ "Validate", "d2/dea/a16726.html#a1131f0014f298b87483412d960bc0221", null ]
+    [ "npc_mistress_of_painAI", "de/d9e/a16730.html", "de/d9e/a16730" ],
+    [ "npc_mistress_of_pain", "d2/dea/a16726.html#a0261ed835454725e0e5629c295be4330", null ],
+    [ "GetAI", "d2/dea/a16726.html#ae32e9b907e2e31556e72d7feb4e24e8a", null ]
 ];

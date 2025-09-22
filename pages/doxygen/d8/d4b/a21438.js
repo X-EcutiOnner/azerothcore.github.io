@@ -1,7 +1,6 @@
 var a21438 =
 [
-    [ "HandlePeriodicDummy", "d8/d4b/a21438.html#a295f37cddccc696d450a0c4380d43c29", null ],
-    [ "PrepareAuraScript", "d8/d4b/a21438.html#a9453aa189ba53de3d89bbab183927cfc", null ],
-    [ "Register", "d8/d4b/a21438.html#a1ca87e8523c020a9e4e0970c68957c14", null ],
-    [ "Validate", "d8/d4b/a21438.html#a475480c072aaccde7b00cf28aedff3ec", null ]
+    [ "boss_emalonAI", "d4/dfe/a21442.html", "d4/dfe/a21442" ],
+    [ "boss_emalon", "d8/d4b/a21438.html#a2dd481292e02337bebd450f5c9821886", null ],
+    [ "GetAI", "d8/d4b/a21438.html#a345b0663ba89de5e37b87a436c48e446", null ]
 ];

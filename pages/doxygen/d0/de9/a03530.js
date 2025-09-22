@@ -1,8 +1,8 @@
 var a03530 =
 [
-    [ "FormationInfo", "df/de9/a08114.html", "df/de9/a08114" ],
-    [ "FormationMgr", "df/d4e/a08118.html", "df/d4e/a08118" ],
-    [ "CreatureGroup", "d8/dc8/a08122.html", "d8/dc8/a08122" ],
+    [ "FormationInfo", "df/d4e/a08118.html", "df/d4e/a08118" ],
+    [ "FormationMgr", "d8/dc8/a08122.html", "d8/dc8/a08122" ],
+    [ "CreatureGroup", "df/d48/a08126.html", "df/d48/a08126" ],
     [ "sFormationMgr", "d0/de9/a03530.html#ae80a51404625cee821a8727ed7369352", null ],
     [ "CreatureGroupInfoType", "d0/de9/a03530.html#a2c3447bf21f430bff136da6811d93a61", null ],
     [ "GroupAIFlags", "d0/de9/a03530.html#a3754da8cc6b209da0180cd76de20869c", [

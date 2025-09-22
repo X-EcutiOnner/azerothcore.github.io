@@ -1,8 +1,11 @@
 var a17838 =
 [
-    [ "Load", "da/d9c/a17838.html#ad1105149d5e42318382af6c07149d522", null ],
-    [ "PeriodicTick", "da/d9c/a17838.html#a8e675178256746d08af50a6b75ec582e", null ],
-    [ "PrepareAuraScript", "da/d9c/a17838.html#a88f4baca7ceac44e5d148b73386a10a7", null ],
-    [ "Register", "da/d9c/a17838.html#a0fa7d86214827711edd019dd3b40c667", null ],
-    [ "_tickNo", "da/d9c/a17838.html#a418212d2daa873d69a83b4c1341a8903", null ]
+    [ "CountTargets", "da/d9c/a17838.html#a54f6526359fba124a988ba35c2876fd1", null ],
+    [ "Load", "da/d9c/a17838.html#a32a76ca53528bbfabfcefd2dc6aef4cc", null ],
+    [ "PrepareSpellScript", "da/d9c/a17838.html#a4991d88429ea951c55ef08a90f364d31", null ],
+    [ "Register", "da/d9c/a17838.html#a8bac27d885c8ea0c659c22599c4e97b4", null ],
+    [ "TeleportPlayer", "da/d9c/a17838.html#ac886eae598b55ed4aa9ddbf9ce3a01bd", null ],
+    [ "TriggerWipe", "da/d9c/a17838.html#a0f79722e00e6255d1ed1bf5846d5c839", null ],
+    [ "Validate", "da/d9c/a17838.html#ad2e586d688b413f9ef9a5688d203106a", null ],
+    [ "_playerCount", "da/d9c/a17838.html#a7c116e74c485ca44e5e6e710cfeb5bba", null ]
 ];

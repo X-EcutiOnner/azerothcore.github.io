@@ -1,5 +1,6 @@
 var a20214 =
 [
-    [ "achievement_flame_leviathan_shutout", "d9/d98/a20214.html#a555e0d206b7f730665d301c7e03b23e6", null ],
-    [ "OnCheck", "d9/d98/a20214.html#af548232f563fd387bc8ee25b696a2f99", null ]
+    [ "CheckCast", "d9/d98/a20214.html#a866fd47d51b5fc4c07c3733739d07c02", null ],
+    [ "PrepareSpellScript", "d9/d98/a20214.html#a09cbe962ae1f18811db8c1d32b856c0d", null ],
+    [ "Register", "d9/d98/a20214.html#a240989af43e5ad6eb81d600a2f1d4769", null ]
 ];

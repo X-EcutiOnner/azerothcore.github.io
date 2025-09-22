@@ -1,6 +1,6 @@
 var a14346 =
 [
-    [ "npc_brewfest_bark_trigger", "d7/d4d/a14346.html#a110d654792e1f5dae8b17f014ea3d425", null ],
-    [ "GetTextFor", "d7/d4d/a14346.html#aca27445a1d9868a2cbd3a6a89dd806df", null ],
-    [ "MoveInLineOfSight", "d7/d4d/a14346.html#a271a440f21b4abddd9aa087e1e64a3d0", null ]
+    [ "npc_brewfest_keg_reciver", "d7/d4d/a14346.html#af12e7608f3f715650e6c265ac18920e4", null ],
+    [ "MoveInLineOfSight", "d7/d4d/a14346.html#ae719a770598c6347d4ee6b9e77d30eae", null ],
+    [ "sGossipSelect", "d7/d4d/a14346.html#ad56ba9921e94cbd4ba1d6c1ddd1efe24", null ]
 ];

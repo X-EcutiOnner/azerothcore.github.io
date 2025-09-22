@@ -1,6 +1,6 @@
 var a03050 =
 [
-    [ "BattlegroundRL", "d2/d57/a07458.html", "d2/d57/a07458" ],
+    [ "BattlegroundRL", "d4/d36/a07462.html", "d4/d36/a07462" ],
     [ "BattlegroundRLObjects", "d4/d47/a03050.html#a07ba947d37c83568823ee5313377497a", [
       [ "BG_RL_OBJECT_TYPE_DOOR_1", "d4/d47/a03050.html#a07ba947d37c83568823ee5313377497aa4af54ddc0fa71a41b26c859580db7fb0", null ],
       [ "BG_RL_OBJECT_TYPE_DOOR_2", "d4/d47/a03050.html#a07ba947d37c83568823ee5313377497aa13210caaf34c5aa100455cf4f74d43d1", null ],

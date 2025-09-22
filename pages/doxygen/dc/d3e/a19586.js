@@ -1,6 +1,6 @@
 var a19586 =
 [
-    [ "boss_varosAI", "d5/db3/a19590.html", "d5/db3/a19590" ],
-    [ "boss_varos", "dc/d3e/a19586.html#a4fdb9de9ee7a3a50ac0972fd6eb8d39c", null ],
-    [ "GetAI", "dc/d3e/a19586.html#a36733c4eb6179e43d61a1c37480666ea", null ]
+    [ "boss_uromAI", "d5/db3/a19590.html", "d5/db3/a19590" ],
+    [ "boss_urom", "dc/d3e/a19586.html#ae85d0bb54d3bf6571bec9d35f31a3e25", null ],
+    [ "GetAI", "dc/d3e/a19586.html#ac381b851f3cc746fb323ff238892c537", null ]
 ];

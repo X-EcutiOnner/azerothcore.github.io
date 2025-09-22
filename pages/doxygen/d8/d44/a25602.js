@@ -1,7 +1,10 @@
 var a25602 =
 [
-    [ "HandleScriptEffect", "d8/d44/a25602.html#ae3c2900d98c2fd51ff0888ea5d1072c4", null ],
-    [ "PrepareSpellScript", "d8/d44/a25602.html#a29ac1789b8023ef3339a7b40ee9c31ab", null ],
-    [ "Register", "d8/d44/a25602.html#a321098d2325bfb9cea674d1137348350", null ],
-    [ "Validate", "d8/d44/a25602.html#aa16a67bf42f51b838d22dcbe4b5b6f7b", null ]
+    [ "CheckProc", "d8/d44/a25602.html#a8a7a0ac560eecc3777087622fb3f3951", null ],
+    [ "HandleProc", "d8/d44/a25602.html#a90eee01f380f97f033c82d7c6ec48d00", null ],
+    [ "OnApply", "d8/d44/a25602.html#a93818ec97cfd47da1dee454bb0a9318c", null ],
+    [ "OnRemove", "d8/d44/a25602.html#a5e978d4d46f42ba5098eaecd9473fccb", null ],
+    [ "PrepareAuraScript", "d8/d44/a25602.html#a73ae8e378b906a420955fd33d02ba6b7", null ],
+    [ "Register", "d8/d44/a25602.html#a7070f64c9c47c8c1bc26e49b2b60a110", null ],
+    [ "Validate", "d8/d44/a25602.html#a91c5a0e10c308332e18dc40033049996", null ]
 ];

@@ -1,7 +1,9 @@
 var a17722 =
 [
-    [ "DelayedMovementEvent", "dc/d2b/a17722.html#a21241cde30f66ae42edb311542f7405c", null ],
-    [ "Execute", "dc/d2b/a17722.html#a8287761226ee671905151891779b6efb", null ],
-    [ "_dest", "dc/d2b/a17722.html#a9a0cd9830509ffdecd98ac8231350d58", null ],
-    [ "_owner", "dc/d2b/a17722.html#a046942728282a997068de447271f3cbe", null ]
+    [ "BattleExperienceEvent", "dc/d2b/a17722.html#a3091b403089533ce2ebbb40fa38f28c9", null ],
+    [ "Execute", "dc/d2b/a17722.html#a3971962ec90f682baeae96fe6098fa97", null ],
+    [ "_creature", "dc/d2b/a17722.html#a0155536d5c2be329a1f3b57c4d852098", null ],
+    [ "_level", "dc/d2b/a17722.html#a22f0d7e59f579362be4576180d0977b8", null ],
+    [ "ExperiencedSpells", "dc/d2b/a17722.html#a5e2e06a386059ba2d9aff676648fa56b", null ],
+    [ "ExperiencedTimes", "dc/d2b/a17722.html#a4daf5818472ebe7c8d3938e2189d8e02", null ]
 ];

@@ -1,6 +1,6 @@
 var a20622 =
 [
-    [ "npc_ulduar_aerial_command_unitAI", "d8/d3a/a20626.html", "d8/d3a/a20626" ],
-    [ "npc_ulduar_aerial_command_unit", "df/d8e/a20622.html#ac0c1ecef78b92dd4ae072f6eeca9f733", null ],
-    [ "GetAI", "df/d8e/a20622.html#a406e828a902d75bb1946fd8f5090044f", null ]
+    [ "npc_ulduar_vx001AI", "d8/d3a/a20626.html", "d8/d3a/a20626" ],
+    [ "npc_ulduar_vx001", "df/d8e/a20622.html#ae8393c02c94a94b0847e0c7837bc5469", null ],
+    [ "GetAI", "df/d8e/a20622.html#acdab817141b851deb09861230323ee58", null ]
 ];

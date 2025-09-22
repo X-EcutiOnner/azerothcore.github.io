@@ -1,14 +1,14 @@
 var a00815 =
 [
-    [ "npc_tiger_matriarch_credit", "de/db3/a15614.html", "de/db3/a15614" ],
-    [ "npc_tiger_matriarch_credit::npc_tiger_matriarch_creditAI", "dc/d1d/a15618.html", "dc/d1d/a15618" ],
-    [ "npc_tiger_matriarch", "d2/dde/a15622.html", "d2/dde/a15622" ],
-    [ "npc_tiger_matriarch::npc_tiger_matriarchAI", "da/db2/a15626.html", "da/db2/a15626" ],
-    [ "npc_troll_volunteer", "da/d48/a15630.html", "da/d48/a15630" ],
-    [ "npc_troll_volunteer::npc_troll_volunteerAI", "dc/d38/a15634.html", "dc/d38/a15634" ],
-    [ "spell_mount_check_aura", "da/d4a/a15638.html", "da/d4a/a15638" ],
-    [ "spell_voljin_war_drums", "d2/de8/a15642.html", "d2/de8/a15642" ],
-    [ "spell_voodoo", "df/dbd/a15646.html", "df/dbd/a15646" ],
+    [ "npc_tiger_matriarch_credit", "dc/d1d/a15618.html", "dc/d1d/a15618" ],
+    [ "npc_tiger_matriarch_credit::npc_tiger_matriarch_creditAI", "d2/dde/a15622.html", "d2/dde/a15622" ],
+    [ "npc_tiger_matriarch", "da/db2/a15626.html", "da/db2/a15626" ],
+    [ "npc_tiger_matriarch::npc_tiger_matriarchAI", "da/d48/a15630.html", "da/d48/a15630" ],
+    [ "npc_troll_volunteer", "dc/d38/a15634.html", "dc/d38/a15634" ],
+    [ "npc_troll_volunteer::npc_troll_volunteerAI", "da/d4a/a15638.html", "da/d4a/a15638" ],
+    [ "spell_mount_check_aura", "d2/de8/a15642.html", "d2/de8/a15642" ],
+    [ "spell_voljin_war_drums", "df/dbd/a15646.html", "df/dbd/a15646" ],
+    [ "spell_voodoo", "d8/dd5/a15650.html", "d8/dd5/a15650" ],
     [ "VolunteerAI", "d8/d2d/a00815.html#ad438ca426e03cfa85f551fab12e1a1a6", null ],
     [ "Creatures", "d8/d2d/a00815.html#a25a619e6b66096a4f05d048e4a96df08", [
       [ "NPC_NORTH_MARSHAL", "dd/d6f/a02207.html#a25a619e6b66096a4f05d048e4a96df08abeb6d3b1ff8238f7c57911ab8acde69e", null ],

@@ -1,6 +1,7 @@
 var a17374 =
 [
-    [ "boss_eckAI", "d3/d42/a17378.html", "d3/d42/a17378" ],
-    [ "boss_eck", "df/ded/a17374.html#aa445927936d7759a8c3289e2899181e5", null ],
-    [ "GetAI", "df/ded/a17374.html#a335755ec7416d3e00a4070e03569293a", null ]
+    [ "HandleDummy", "df/ded/a17374.html#a367f4ebd296aa0fd54ff9ef6185a1c92", null ],
+    [ "PrepareSpellScript", "df/ded/a17374.html#ab6e33bf137a54c9cd792aefb0ecd2ef1", null ],
+    [ "Register", "df/ded/a17374.html#a371073fb37337719115242fc8758026f", null ],
+    [ "Validate", "df/ded/a17374.html#ad5df08da54defc89a7a552c39de089c3", null ]
 ];

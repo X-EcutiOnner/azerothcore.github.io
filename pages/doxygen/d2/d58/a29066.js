@@ -1,6 +1,6 @@
 var a29066 =
 [
-    [ "go_heatAI", "d2/d58/a29066.html#a40e4ec3294126aaf3fc6875aa8b39f0a", null ],
-    [ "UpdateAI", "d2/d58/a29066.html#a2332206ee47b2cea9e4707d16ea79325", null ],
-    [ "timer", "d2/d58/a29066.html#a4f01692c9f39e2a40d2d5f9c22e0ac43", null ]
+    [ "height", "d2/d58/a29066.html#a7638f586a055c48a46e36471543ff72f", null ],
+    [ "unk1", "d2/d58/a29066.html#a6c08b6fa33e12a9900218d0d0b8b78d5", null ],
+    [ "unk2", "d2/d58/a29066.html#a394a04f6e985824aa259a42b11b97136", null ]
 ];

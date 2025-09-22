@@ -1,31 +1,5 @@
 var a20602 =
 [
-    [ "boss_mimironAI", "dd/df5/a20602.html#ae9407e6517ff2fbde9636bb15c50c7c9", null ],
-    [ "AttackStart", "dd/df5/a20602.html#aed52f33d004bdda17c827f6f84281729", null ],
-    [ "CloseDoorAndButton", "dd/df5/a20602.html#a0cc9b15d27b4044922407f86b8204974", null ],
-    [ "EnterEvadeMode", "dd/df5/a20602.html#a77bb8f1e55b02c6d0a663a775e0c1d45", null ],
-    [ "GetData", "dd/df5/a20602.html#a9ee30f2c623c77ce51268bd3c8df18b8", null ],
-    [ "JustEngagedWith", "dd/df5/a20602.html#a318ff02b4a4c9ed64b7647d331d74f5b", null ],
-    [ "JustReachedHome", "dd/df5/a20602.html#ad4276a2a0682f609d99d6c21f99c12e6", null ],
-    [ "JustSummoned", "dd/df5/a20602.html#aadc5321732dcc7b12f8ee08d6d569494", null ],
-    [ "MoveInLineOfSight", "dd/df5/a20602.html#a1463ccaf5c100483d17c11aa56b05cbf", null ],
-    [ "Reset", "dd/df5/a20602.html#a723600c1ad64a3a3fd48192a9468717a", null ],
-    [ "ResetGameObjects", "dd/df5/a20602.html#a8c4c6049b20eda44fd0def7fe05ac091", null ],
-    [ "SetData", "dd/df5/a20602.html#ac4b5548b4d4194b6f7ab9fafa507cc14", null ],
-    [ "SpellHit", "dd/df5/a20602.html#afa232bbc2dfa59864b33dd5ef01f510c", null ],
-    [ "SummonedCreatureDespawn", "dd/df5/a20602.html#a606b774346a9c2ab11015fc97eb74b01", null ],
-    [ "UpdateAI", "dd/df5/a20602.html#a1fd6e91c384920d83489f36abfeb078e", null ],
-    [ "allowedFlameSpreadTime", "dd/df5/a20602.html#a30f133ec2ec8a19081523e5da11ece04", null ],
-    [ "bAchievBombBot", "dd/df5/a20602.html#afcd749730b91e9bf9c18609d1f826b06", null ],
-    [ "bAchievProximityMine", "dd/df5/a20602.html#adf78855db6c7e8b96162e218a292bd13", null ],
-    [ "bAchievRocketStrike", "dd/df5/a20602.html#a188a391019d5ac51ce7ab26dc971caab", null ],
-    [ "berserk", "dd/df5/a20602.html#a06a05b4c3c6493c4f6297f44e10a8ae1", null ],
-    [ "bIsEvading", "dd/df5/a20602.html#a3e8b2adfea858ec123e66f8b9741ab98", null ],
-    [ "changeAllowedFlameSpreadTime", "dd/df5/a20602.html#ae04f0373493354a5980b5ea50d9409ab", null ],
-    [ "events", "dd/df5/a20602.html#af0dee99bc7185e817d75564e0b76e9a5", null ],
-    [ "hardmode", "dd/df5/a20602.html#a1eb10c00d45cdd3cbaa25702286fc996", null ],
-    [ "minutesTalkNum", "dd/df5/a20602.html#a29dd89128b245188606bbfdf04fd5e4f", null ],
-    [ "outofCombatTimer", "dd/df5/a20602.html#a3380ba554c0399317b4dd17ea61e1d61", null ],
-    [ "pInstance", "dd/df5/a20602.html#adacbe636f193dbce30f93d1747475d61", null ],
-    [ "summons", "dd/df5/a20602.html#a0a947b0a1115f32a262e5dd9b7e4744c", null ]
+    [ "achievement_kologarn_with_open_arms", "dd/df5/a20602.html#a94af961be5bbdf7783925148731ce7e4", null ],
+    [ "OnCheck", "dd/df5/a20602.html#a03c1fb5f141a15f8f63e28700b98f9b5", null ]
 ];

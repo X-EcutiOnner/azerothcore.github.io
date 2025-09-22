@@ -1,6 +1,6 @@
 var a14730 =
 [
-    [ "PrepareAuraScript", "d4/de9/a14730.html#a80660b1417ab33edaf2c4cd517e10e30", null ],
-    [ "RecalculateHook", "d4/de9/a14730.html#af3952993947dfb24381083d21a9e64cb", null ],
-    [ "Register", "d4/de9/a14730.html#ab7f0aa924dfe8043e44cd794f72e4555", null ]
+    [ "OnAuraRemove", "d4/de9/a14730.html#ad16e8b64999771154360afad71454c07", null ],
+    [ "PrepareAuraScript", "d4/de9/a14730.html#a70963be80861e10ecd093e40b77e7078", null ],
+    [ "Register", "d4/de9/a14730.html#a7381cbea873fb57485e4539aa478d236", null ]
 ];

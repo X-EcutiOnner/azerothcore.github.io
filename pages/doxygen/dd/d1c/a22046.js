@@ -1,6 +1,7 @@
 var a22046 =
 [
-    [ "npc_q24545_vegardAI", "df/dab/a22050.html", "df/dab/a22050" ],
-    [ "npc_q24545_vegard", "dd/d1c/a22046.html#ac12e2f143fab6b93950eaea06f5f7d85", null ],
-    [ "GetAI", "dd/d1c/a22046.html#a9a7accfb3eea9f08efbb82fbd4bd7e76", null ]
+    [ "FilterTargets", "dd/d1c/a22046.html#af62588a225f0b701a0f9321677ae22b8", null ],
+    [ "HandleScript", "dd/d1c/a22046.html#ad68fad08b2613de096e504bb7dea61cd", null ],
+    [ "PrepareSpellScript", "dd/d1c/a22046.html#a76ac3fe280585a4e2b2d599b4bcc7846", null ],
+    [ "Register", "dd/d1c/a22046.html#a8fdbf1c7ab67c0ef094d738ec9a169d8", null ]
 ];

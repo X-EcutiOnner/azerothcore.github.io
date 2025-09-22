@@ -1,6 +1,6 @@
 var a25034 =
 [
-    [ "CheckProc", "d3/d83/a25034.html#a68d2d8168e405ea4250e2e43a1a350fa", null ],
-    [ "PrepareAuraScript", "d3/d83/a25034.html#a9d797e7bc7133f4a626f4352b2fe7141", null ],
-    [ "Register", "d3/d83/a25034.html#a5b96bb8c2ff456b63bbd200f54294251", null ]
+    [ "PrepareSpellScript", "d3/d83/a25034.html#ae8ef8bea1a6afa3f810c476e038bacc6", null ],
+    [ "RecalculateDamage", "d3/d83/a25034.html#a856fdecdde1c68a163caf61afb2b0b90", null ],
+    [ "Register", "d3/d83/a25034.html#a7f8c5c4920a87605b716e9e85b43ef47", null ]
 ];

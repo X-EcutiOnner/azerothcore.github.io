@@ -1,5 +1,6 @@
 var a19394 =
 [
-    [ "npc_mr_bigglesworth", "d8/d59/a19394.html#a51e81be4146e8e40a82ecf4018cb955d", null ],
-    [ "JustDied", "d8/d59/a19394.html#a3d5957253ef3af4f48f5bfaf4d93ce0f", null ]
+    [ "DespawnTime", "d8/d59/a19394.html#ae14c357137f16666c74e5f7e3f77aed5", null ],
+    [ "End", "d8/d59/a19394.html#ac87ea314ccf946eb1fa35985e35c81fd", null ],
+    [ "Start", "d8/d59/a19394.html#a985271de503fa704a58abe3e64c3b268", null ]
 ];

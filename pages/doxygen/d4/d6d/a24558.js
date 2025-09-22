@@ -1,5 +1,6 @@
 var a24558 =
 [
-    [ "npc_pet_dk_risen_ally", "d4/d6d/a24558.html#ae7ea70827f339d3968ef08dc242b1f03", null ],
-    [ "OnCharmed", "d4/d6d/a24558.html#ac3927becc1ed929c384b3413bfee9330", null ]
+    [ "npc_slim", "d4/d6d/a24558.html#aa227fbe22126bed821939873973e6a20", null ],
+    [ "OnGossipHello", "d4/d6d/a24558.html#a34dafb9f3a82c1d2f52a95436345dd0b", null ],
+    [ "OnGossipSelect", "d4/d6d/a24558.html#a426963b7bf831a3b5a75dcf0629917a9", null ]
 ];

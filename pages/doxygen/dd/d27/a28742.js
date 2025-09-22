@@ -1,7 +1,5 @@
 var a28742 =
 [
-    [ "RealmHandle", "dd/d27/a28742.html#a120fb45f2301188a843ab2e712f768e4", null ],
-    [ "RealmHandle", "dd/d27/a28742.html#ac3e04e9790e1ae75b9701f1a84b9f6e2", null ],
-    [ "operator<", "dd/d27/a28742.html#ad414bab23a3ecfb3cabb146d5f43bf3e", null ],
-    [ "Realm", "dd/d27/a28742.html#a31af0d9064a295b1579fce3c80217bfd", null ]
+    [ "ByteBufferSourceException", "dd/d27/a28742.html#ad021dff8a62dfc170ef0233294b707f6", null ],
+    [ "~ByteBufferSourceException", "dd/d27/a28742.html#afaf57c545141703ffbe696cfbee6de0f", null ]
 ];

@@ -1,6 +1,6 @@
 var a21618 =
 [
-    [ "npc_azure_binderAI", "d4/d36/a21622.html", "d4/d36/a21622" ],
-    [ "npc_azure_binder", "dd/dbe/a21618.html#a25b8b19b6ccdae92418c47fe68537c42", null ],
-    [ "GetAI", "dd/dbe/a21618.html#aad091206a8bd06a1064b68b81510eb56", null ]
+    [ "npc_azure_invaderAI", "d4/d36/a21622.html", "d4/d36/a21622" ],
+    [ "npc_azure_invader", "dd/dbe/a21618.html#ab318178a618f2bfdcd5ea3105c240d32", null ],
+    [ "GetAI", "dd/dbe/a21618.html#a19c000084ea74a401ece81ee0e20b65c", null ]
 ];

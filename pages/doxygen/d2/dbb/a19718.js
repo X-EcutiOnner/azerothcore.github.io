@@ -1,6 +1,6 @@
 var a19718 =
 [
-    [ "CalculateDamage", "d2/dbb/a19718.html#ae38f8cfb44de2798d7a284c942617678", null ],
-    [ "PrepareSpellScript", "d2/dbb/a19718.html#a043955d56e0ae4c54d70e8fe6e417dd1", null ],
-    [ "Register", "d2/dbb/a19718.html#ab4b32d2db39c8d9079a83c89d63ccd93", null ]
+    [ "boss_lokenAI", "d5/d8d/a19722.html", "d5/d8d/a19722" ],
+    [ "boss_loken", "d2/dbb/a19718.html#a44ba0ee009dcdfca6ff8739e297ec786", null ],
+    [ "GetAI", "d2/dbb/a19718.html#affb73db8ecdc2d035f8076ecca0c9a99", null ]
 ];

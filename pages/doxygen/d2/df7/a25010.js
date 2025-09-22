@@ -1,10 +1,10 @@
 var a25010 =
 [
-    [ "FilterTargets", "d2/df7/a25010.html#a033c63470d406ad2249c5aa223c00b2f", null ],
-    [ "HandleFinish", "d2/df7/a25010.html#a3b5760ed61d0b2789ddcaef998303d38", null ],
-    [ "HandleScript", "d2/df7/a25010.html#a2c26838015f1b21715fc1438537e15d3", null ],
-    [ "Load", "d2/df7/a25010.html#a669aefa81d57358ef452f4c247b2ceff", null ],
-    [ "PrepareSpellScript", "d2/df7/a25010.html#a3b65dbff73258b45f9e345bffc7a63a8", null ],
-    [ "Register", "d2/df7/a25010.html#ac9b8d46cc77b06c427b5b3cbc1135072", null ],
-    [ "haveTarget", "d2/df7/a25010.html#a7f5a4e68fb7d948f0df35824272cbdb0", null ]
+    [ "Load", "d2/df7/a25010.html#a2c4e408e45995098b01a05815fffb34c", null ],
+    [ "OnApply", "d2/df7/a25010.html#acae1047046bb8f555d1798ca024a2650", null ],
+    [ "OnRemove", "d2/df7/a25010.html#aa01df2b86cf69508866f6e7d063c735a", null ],
+    [ "PrepareAuraScript", "d2/df7/a25010.html#a18103f56fd6f90f8c3aa53ff53b82492", null ],
+    [ "Register", "d2/df7/a25010.html#a02ef50b047ac0ac8932d37234ad4ae2f", null ],
+    [ "Validate", "d2/df7/a25010.html#ac89215007d26494b6eaa690b23d6bbd8", null ],
+    [ "_casterGUID", "d2/df7/a25010.html#a8047fb4309487c7a529047ec5148a2e3", null ]
 ];

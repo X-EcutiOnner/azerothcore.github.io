@@ -1,13 +1,8 @@
 var a24638 =
 [
-    [ "npc_pet_mage_mirror_image", "dd/db9/a24638.html#a2761cc9bf3a8bb7908d3db6d929721ba", null ],
-    [ "EnterEvadeMode", "dd/db9/a24638.html#a858b070fb53112dc78554f0b20cd876a", null ],
-    [ "InitializeAI", "dd/db9/a24638.html#a66d513908aa88504d0cbe4ce9bf222be", null ],
-    [ "MySelectNextTarget", "dd/db9/a24638.html#a49d57ba93cd88816f68c16d56d3b8cd2", null ],
-    [ "Reset", "dd/db9/a24638.html#a79a8c153ab61c619d928ec5535e67077", null ],
-    [ "UpdateAI", "dd/db9/a24638.html#aa219b3adc38b625c6885089895b941b4", null ],
-    [ "_ebonGargoyleGUID", "dd/db9/a24638.html#a8be57d06114f108e74b850ce66722bf3", null ],
-    [ "checktarget", "dd/db9/a24638.html#a074611355768dc2072da69ed9d72242b", null ],
-    [ "dist", "dd/db9/a24638.html#a7fcde453faf05a64e4c7099d840c0e2b", null ],
-    [ "selectionTimer", "dd/db9/a24638.html#a7d7a6ebd88afecd7ae7aaeda0cee6cf7", null ]
+    [ "npc_pet_darting_hatchling", "dd/db9/a24638.html#a7ae5973061068396bf382dc21e88cd44", null ],
+    [ "SpellHit", "dd/db9/a24638.html#a29ea5438bab7e606175c02165a607f9b", null ],
+    [ "UpdateAI", "dd/db9/a24638.html#a23196d05aebe5fa4a65455c55368820a", null ],
+    [ "checkTimer", "dd/db9/a24638.html#a3539276158abb5fd183ed1aa03a8ead8", null ],
+    [ "goFast", "dd/db9/a24638.html#aaf80b40200f2b8eb2861c69b1dbd2dde", null ]
 ];

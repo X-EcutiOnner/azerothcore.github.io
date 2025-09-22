@@ -1,5 +1,6 @@
 var a27886 =
 [
-    [ "npc_controller", "de/d27/a27886.html#a3c75fb509d5cf4b4d417c97b409615b1", null ],
-    [ "OnCharmed", "de/d27/a27886.html#a69628677de225d76a8c89b4626e0f32b", null ]
+    [ "npc_venomhide_hatchlingAI", "de/d27/a27886.html#aa5929973ae39166ef381a3ed3c42a29c", null ],
+    [ "IsSummonedBy", "de/d27/a27886.html#a6e1b76f43217f1eb855b50d58a069518", null ],
+    [ "SpellHit", "de/d27/a27886.html#ac6c255438dc2f6c750ee47b61fbc20a3", null ]
 ];

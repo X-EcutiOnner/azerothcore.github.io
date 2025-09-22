@@ -1,7 +1,7 @@
 var a02546 =
 [
-    [ "boss_drakkisath", "d2/d85/a12162.html", "d2/d85/a12162" ],
-    [ "boss_drakkisath::boss_drakkisathAI", "d8/da4/a12166.html", "d8/da4/a12166" ],
+    [ "boss_drakkisath", "d8/da4/a12166.html", "d8/da4/a12166" ],
+    [ "boss_drakkisath::boss_drakkisathAI", "dc/d79/a12170.html", "dc/d79/a12170" ],
     [ "Events", "d1/d1a/a02546.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "dd/d6f/a02207.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "dd/d6f/a02207.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],

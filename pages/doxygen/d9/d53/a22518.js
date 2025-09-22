@@ -1,8 +1,6 @@
 var a22518 =
 [
-    [ "npc_hyldsmeet_protodrakeAI", "d9/d53/a22518.html#a30794392a32b1323fb0a86615b341741", null ],
-    [ "PassengerBoarded", "d9/d53/a22518.html#acb699d519bf79702a34b7d9910fe7c9e", null ],
-    [ "UpdateAI", "d9/d53/a22518.html#afd2168f8dc7328898f5e769c31c6da5a", null ],
-    [ "_accessoryRespawnTimer", "d9/d53/a22518.html#a4c6b4236bf35278d05c4b78f1eda6b75", null ],
-    [ "_vehicleKit", "d9/d53/a22518.html#aba68a138ef44af7d012c8c7dd4c06c6d", null ]
+    [ "npc_icefangAI", "d8/d03/a22522.html", "d8/d03/a22522" ],
+    [ "npc_icefang", "d9/d53/a22518.html#a2e13be89b110abaa2509e597e4cf883a", null ],
+    [ "GetAI", "d9/d53/a22518.html#ad1a936b1eef30271912054a817e0c9f8", null ]
 ];

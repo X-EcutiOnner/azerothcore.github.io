@@ -1,9 +1,9 @@
 var a00803 =
 [
-    [ "boss_azuregos", "d2/d2a/a14774.html", "d2/d2a/a14774" ],
-    [ "boss_azuregos::boss_azuregosAI", "d0/dd5/a14778.html", "d0/dd5/a14778" ],
-    [ "spell_arcane_vacuum", "d0/d89/a14782.html", "d0/d89/a14782" ],
-    [ "spell_mark_of_frost_freeze", "d7/d86/a14786.html", "d7/d86/a14786" ],
+    [ "boss_azuregos", "d0/dd5/a14778.html", "d0/dd5/a14778" ],
+    [ "boss_azuregos::boss_azuregosAI", "d0/d89/a14782.html", "d0/d89/a14782" ],
+    [ "spell_arcane_vacuum", "d7/d86/a14786.html", "d7/d86/a14786" ],
+    [ "spell_mark_of_frost_freeze", "d6/d50/a14790.html", "d6/d50/a14790" ],
     [ "Say", "d5/d72/a00803.html#aa58e311eb19c72984d1fb3bcf9ae2a68", [
       [ "SAY_AGGRO", "db/d86/a02663.html#aa58e311eb19c72984d1fb3bcf9ae2a68a47c752fff069f3e55065795eef2a9bfe", null ],
       [ "SAY_LEASH", "db/d86/a02663.html#aa58e311eb19c72984d1fb3bcf9ae2a68a7d67e29b0f8ef4c0df41e318ab764d9a", null ],
